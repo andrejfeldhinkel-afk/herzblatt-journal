@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Kann eine Beziehung funktionieren wenn man verschiedene Lebenspläne hat?', 'answer': "Es kommt darauf an, welche Pläne unterschiedlich sind. Bei 'Dealbreakern' wie Kinderwunsch ja/nein gibt es oft keinen echten Kompromiss. Bei Karriere, Wohnort oder Lifestyle-Fragen lässt sich dagegen fast immer eine Lösung finden — wenn beide flexibel sind."}"
-  - "{'question': 'Wie spricht man über unterschiedliche Zukunftsvorstellungen?', 'answer': "Wähle einen ruhigen Moment, nicht im Streit. Sage: 'Ich möchte über unsere Zukunft reden — nicht als Ultimatum, sondern weil mir unsere Beziehung wichtig ist.' Hör erst zu bevor du deine Position darlegst."}"
-  - "{'question': 'Wann sollte man unterschiedliche Lebenspläne ansprechen?', 'answer': 'So früh wie möglich. Die wichtigsten Fragen (Kinder, Wohnort, Lebensstil) sollten spätestens nach 6 Monaten auf dem Tisch liegen. Je länger man wartet, desto mehr investiert man in etwas das vielleicht nicht passt.'}"
-  - "{'question': 'Ist es okay die Beziehung aufzugeben wegen verschiedener Lebenspläne?', 'answer': 'Ja, und manchmal ist es der mutigste und liebevollste Schritt. Wenn einer von euch auf einen Lebenstraum verzichten müsste und das zu Resentment führen würde, ist eine liebevolle Trennung ehrlicher als ein fauler Kompromiss.'}"
+  - question: "Kann eine Beziehung funktionieren wenn man verschiedene Lebenspläne hat?"
+    answer: "Es kommt darauf an, welche Pläne unterschiedlich sind. Bei 'Dealbreakern' wie Kinderwunsch ja/nein gibt es oft keinen echten Kompromiss. Bei Karriere, Wohnort oder Lifestyle-Fragen lässt sich dagegen fast immer eine Lösung finden — wenn beide flexibel sind."
+  - question: "Wie spricht man über unterschiedliche Zukunftsvorstellungen?"
+    answer: "Wähle einen ruhigen Moment, nicht im Streit. Sage: 'Ich möchte über unsere Zukunft reden — nicht als Ultimatum, sondern weil mir unsere Beziehung wichtig ist.' Hör erst zu bevor du deine Position darlegst."
+  - question: "Wann sollte man unterschiedliche Lebenspläne ansprechen?"
+    answer: "So früh wie möglich. Die wichtigsten Fragen (Kinder, Wohnort, Lebensstil) sollten spätestens nach 6 Monaten auf dem Tisch liegen. Je länger man wartet, desto mehr investiert man in etwas das vielleicht nicht passt."
+  - question: "Ist es okay die Beziehung aufzugeben wegen verschiedener Lebenspläne?"
+    answer: "Ja, und manchmal ist es der mutigste und liebevollste Schritt. Wenn einer von euch auf einen Lebenstraum verzichten müsste und das zu Resentment führen würde, ist eine liebevolle Trennung ehrlicher als ein fauler Kompromiss."
 ---Deine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) ist wunderbar. Ihr versteht euch, lacht zusammen, unterstützt euch gegenseitig — und plötzlich kommt das Gespräch über die Zukunft. Sie möchte in fünf Jahren zwei Kinder haben und will nur noch Teilzeit arbeiten. Du hast andere Träume: Karriere aufbauen, vielleicht im Ausland leben, erstmal keine Kinder. Das ist nicht egoistisch von dir. Das ist real. Das ist ein **verschiedene Lebenspläne in der Beziehung** Moment.
 
 Diese Situation ist brutal, weil sie zeigt, dass Liebe nicht immer ausreicht. Du kannst jemanden von ganzem Herzen lieben und trotzdem in eine völlig andere Richtung wollen. Das ist nicht ein Zeichen dass die Beziehung falsch ist — das ist ein Zeichen dass zwei Menschen mit unterschiedlichen Visionen zusammen sind.

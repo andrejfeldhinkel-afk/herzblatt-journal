@@ -16,11 +16,16 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Ist Körperunsicherheit normal?', 'answer': 'Sehr normal – besonders für Frauen, aber auch für Männer. Wir wachsen in einer Kultur auf, die uns ständig sagt, dass unsere Körper nicht gut genug sind. Diese Unsicherheiten sind erlernt – und können auch wieder verlernt werden.'}"
-  - "{'question': 'Wie teile ich meinem Partner meine Unsicherheiten mit?', 'answer': "Offen und früh. Sag etwas wie: ‚Ich habe Unsicherheiten um meinen Körper. Das ist nicht deine Schuld, aber es hilft mir, wenn du mir versicherst, dass du mich magst wie ich bin.' Das öffnet Raum für Verständnis."}"
-  - "{'question': 'Was mache ich, wenn mein Partner kritisch auf meinen Körper reagiert?', 'answer': 'Das ist ein großes Zeichen. Ein liebevoller Partner wird immer versichern, dass er/sie dich mag. Wenn nicht – das ist etwas, das angegangen werden muss, möglicherweise mit Paartherapie.'}"
-  - "{'question': 'Kann Sex-Traumata meine Unsicherheit erklären?', 'answer': 'Absolut. Wenn du sexuelle Gewalt oder Manipulation erlebst hast, ist Körperunsicherheit eine völlig normale Reaktion. Hier braucht es professionelle Unterstützung – ein Trauma-Therapeut kann wirklich helfen.'}"
-  - "{'question': 'Wie lange dauert es, Körper-Unsicherheit zu überwinden?', 'answer': 'Das variiert. Manche Menschen machen Fortschritt in Wochen, andere brauchen Monate oder Jahre. Die gute Nachricht: Mit der richtigen Unterstützung und Selbstmitgefühl ist es definitiv möglich.'}"
+  - question: "Ist Körperunsicherheit normal?"
+    answer: "Sehr normal – besonders für Frauen, aber auch für Männer. Wir wachsen in einer Kultur auf, die uns ständig sagt, dass unsere Körper nicht gut genug sind. Diese Unsicherheiten sind erlernt – und können auch wieder verlernt werden."
+  - question: "Wie teile ich meinem Partner meine Unsicherheiten mit?"
+    answer: "Offen und früh. Sag etwas wie: ‚Ich habe Unsicherheiten um meinen Körper. Das ist nicht deine Schuld, aber es hilft mir, wenn du mir versicherst, dass du mich magst wie ich bin.' Das öffnet Raum für Verständnis."
+  - question: "Was mache ich, wenn mein Partner kritisch auf meinen Körper reagiert?"
+    answer: "Das ist ein großes Zeichen. Ein liebevoller Partner wird immer versichern, dass er/sie dich mag. Wenn nicht – das ist etwas, das angegangen werden muss, möglicherweise mit Paartherapie."
+  - question: "Kann Sex-Traumata meine Unsicherheit erklären?"
+    answer: "Absolut. Wenn du sexuelle Gewalt oder Manipulation erlebst hast, ist Körperunsicherheit eine völlig normale Reaktion. Hier braucht es professionelle Unterstützung – ein Trauma-Therapeut kann wirklich helfen."
+  - question: "Wie lange dauert es, Körper-Unsicherheit zu überwinden?"
+    answer: "Das variiert. Manche Menschen machen Fortschritt in Wochen, andere brauchen Monate oder Jahre. Die gute Nachricht: Mit der richtigen Unterstützung und Selbstmitgefühl ist es definitiv möglich."
 ---
 
 Du stehst vor dem Spiegel. Dein Partner kommt näher. Und deine erste Reaktion ist – dich anzuziehen. Nicht aus Schüchternheit, sondern aus Scham. Du möchtest nicht, dass er deinen Körper so sieht. Die Falten, die Narben, die Stellen, die nicht so sind, wie sie sein „sollten".

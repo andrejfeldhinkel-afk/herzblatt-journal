@@ -15,10 +15,14 @@ keywords:
 draft: false
 featured: false
 faq:
-  - "{'question': 'Welche Fotos sollte ich verwenden?', 'answer': 'Ein klares, gut belichtetes Foto deines Gesichts, 1-2 Ganzkörperfotos, und optional 1 Hobbyfoto. Keine Filter, keine ex-Partner im Bild, keine alten Fotos.'}"
-  - "{'question': 'Wie schreibe ich eine gute Bio?', 'answer': "Sei authentisch und prägnant. 3-4 Sätze über deine Leidenschaft, Humor oder was du suchst. Nutze Emojis sparsam und keine Klichees wie 'no drama'."}"
-  - "{'question': 'Sollte ich meine Beziehungsziele in meiner Bio erwähnen?', 'answer': 'Ja. Wenn du langfristig suchst, sag es. Wenn du casual daten willst, sag es auch. Klarheit spart Zeit und vermeidet Missverständnisse.'}"
-  - "{'question': 'Wie oft sollte ich mein Profil aktualisieren?', 'answer': 'Neue Fotos monatlich oder alle 2 Monate. Die Bio kannst du öfter aktualisieren. Frische Content hält das Profil relevant und zeigt, dass du aktiv bist.'}"
+  - question: "Welche Fotos sollte ich verwenden?"
+    answer: "Ein klares, gut belichtetes Foto deines Gesichts, 1-2 Ganzkörperfotos, und optional 1 Hobbyfoto. Keine Filter, keine ex-Partner im Bild, keine alten Fotos."
+  - question: "Wie schreibe ich eine gute Bio?"
+    answer: "Sei authentisch und prägnant. 3-4 Sätze über deine Leidenschaft, Humor oder was du suchst. Nutze Emojis sparsam und keine Klichees wie 'no drama'."
+  - question: "Sollte ich meine Beziehungsziele in meiner Bio erwähnen?"
+    answer: "Ja. Wenn du langfristig suchst, sag es. Wenn du casual daten willst, sag es auch. Klarheit spart Zeit und vermeidet Missverständnisse."
+  - question: "Wie oft sollte ich mein Profil aktualisieren?"
+    answer: "Neue Fotos monatlich oder alle 2 Monate. Die Bio kannst du öfter aktualisieren. Frische Content hält das Profil relevant und zeigt, dass du aktiv bist."
 ---Dein Dating-Profil ist dein digitaler Erste-Eindruck. Von endlosem Swipen werden Sekunden zählen. Eine gute Profilbild und eine interessante Bio können die Differenz zwischen "Match" und "Swipe left" ausmachen. Aber wie erstellst du ein Profil, das nicht nur Aufmerksamkeit zieht, sondern auch die richtigen Menschen anzieht?
 
 ## Warum dein Profil entscheidend ist

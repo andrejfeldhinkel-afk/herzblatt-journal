@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/dating-nach-coming-out.webp"
 imageAlt: "LGBTQ+ Person fühlt sich frei und selbstbewusst"
 faq:
-  - "{'question': 'Sollte ich mein Coming-Out in meinem Dating-Profil erwähnen?', 'answer': 'Das ist deine Entscheidung. Manche Menschen fühlen sich sicherer, wenn es offen ist. Andere bevorzugen es später zu adressieren. Wähle, was sich gut für dich anfühlt.'}"
-  - "{'question': 'Wie gehe ich mit Ablehnung basierend auf meiner Identität um?', 'answer': 'Es wird passieren. Manche Menschen werden nicht akzeptierend sein. Das ist frustrierend, aber es ist auch Filterung. Du brauchst jemanden, der dich für alle deine Teile akzeptiert.'}"
-  - "{'question': 'Kann ich wirklich sicher dating gehen nach Coming-Out, wenn Familie nicht supportiv ist?', 'answer': 'Ja. Du verdienst, ein erfülltes Liebesleben zu haben. Wenn Familie nicht supportiv ist, kann dein Partner-Netzwerk werden deine neue Familie. Bau ein Unterstützung-System.'}"
+  - question: "Sollte ich mein Coming-Out in meinem Dating-Profil erwähnen?"
+    answer: "Das ist deine Entscheidung. Manche Menschen fühlen sich sicherer, wenn es offen ist. Andere bevorzugen es später zu adressieren. Wähle, was sich gut für dich anfühlt."
+  - question: "Wie gehe ich mit Ablehnung basierend auf meiner Identität um?"
+    answer: "Es wird passieren. Manche Menschen werden nicht akzeptierend sein. Das ist frustrierend, aber es ist auch Filterung. Du brauchst jemanden, der dich für alle deine Teile akzeptiert."
+  - question: "Kann ich wirklich sicher dating gehen nach Coming-Out, wenn Familie nicht supportiv ist?"
+    answer: "Ja. Du verdienst, ein erfülltes Liebesleben zu haben. Wenn Familie nicht supportiv ist, kann dein Partner-Netzwerk werden deine neue Familie. Bau ein Unterstützung-System."
 ---
 Du wünschst dir, besser in der Dating-Welt klarzukommen? Dann geht es dir wie vielen anderen — und dating ist dabei ein zentraler Faktor, den du nicht ignorieren solltest. In diesem Artikel zeigen wir dir, wie du damit umgehen kannst.
 

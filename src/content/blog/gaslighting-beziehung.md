@@ -15,10 +15,14 @@ draft: false
 image: "/images/photos/gaslighting-beziehung.webp"
 imageAlt: "Symbolbild für emotionale Manipulation in Beziehungen"
 faq:
-  - "{'question': 'Was ist Gaslighting in einer Beziehung?', 'answer': 'Gaslighting ist eine Form der emotionalen Manipulation, bei der ein Partner den anderen systematisch an seiner Wahrnehmung, seinen Erinnerungen und seinem Urteilsvermögen zweifeln lässt. Ziel ist es, Kontrolle über die andere Person zu erlangen.'}"
-  - "{'question': 'Wie erkenne ich, ob ich Opfer von Gaslighting bin?', 'answer': 'Typische Anzeichen sind: Du zweifelst ständig an dir selbst, entschuldigst dich permanent, fühlst dich verwirrt nach Gesprächen, dein Partner leugnet Dinge, die passiert sind, und du hast das Gefühl, verrückt zu werden.'}"
-  - "{'question': 'Ist Gaslighting immer absichtlich?', 'answer': 'Nicht immer. Manche Menschen gaslighten unbewusst, weil sie es in ihrer eigenen Familie gelernt haben. Das ändert aber nichts an der schädlichen Wirkung und rechtfertigt das Verhalten nicht.'}"
-  - "{'question': 'Kann man eine Beziehung mit einem Gaslighter retten?', 'answer': 'Nur wenn der Gaslighter sein Verhalten erkennt und aktiv daran arbeitet — idealerweise mit professioneller Hilfe. Wenn er oder sie keine Einsicht zeigt, ist es wichtig, sich selbst zu schützen und die Beziehung zu überdenken.'}"
+  - question: "Was ist Gaslighting in einer Beziehung?"
+    answer: "Gaslighting ist eine Form der emotionalen Manipulation, bei der ein Partner den anderen systematisch an seiner Wahrnehmung, seinen Erinnerungen und seinem Urteilsvermögen zweifeln lässt. Ziel ist es, Kontrolle über die andere Person zu erlangen."
+  - question: "Wie erkenne ich, ob ich Opfer von Gaslighting bin?"
+    answer: "Typische Anzeichen sind: Du zweifelst ständig an dir selbst, entschuldigst dich permanent, fühlst dich verwirrt nach Gesprächen, dein Partner leugnet Dinge, die passiert sind, und du hast das Gefühl, verrückt zu werden."
+  - question: "Ist Gaslighting immer absichtlich?"
+    answer: "Nicht immer. Manche Menschen gaslighten unbewusst, weil sie es in ihrer eigenen Familie gelernt haben. Das ändert aber nichts an der schädlichen Wirkung und rechtfertigt das Verhalten nicht."
+  - question: "Kann man eine Beziehung mit einem Gaslighter retten?"
+    answer: "Nur wenn der Gaslighter sein Verhalten erkennt und aktiv daran arbeitet — idealerweise mit professioneller Hilfe. Wenn er oder sie keine Einsicht zeigt, ist es wichtig, sich selbst zu schützen und die Beziehung zu überdenken."
 ---
 Du findest dich immer wieder in Gesprächen wieder, nach denen du dich verunsichert, verwirrt und irgendwie „verrückt" fühlst. Du zweifelst an deinen Erinnerungen, fragst dich, ob du überreagierst, und entschuldigst dich ständig für Dinge, bei denen du eigentlich gar keine Schuld trägst. Du liebst deinen Partner, aber irgendwas läuft schief. Es ist, als würde die Realität, die du wahrgenommen hast, ständig verneint oder umgebogen werden.
 

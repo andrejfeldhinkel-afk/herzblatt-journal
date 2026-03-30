@@ -10,9 +10,12 @@ image: "/images/photos/zweites-date.webp"
 imageAlt: "Paar sitzt in einem Café und trinkt Kaffee zusammen"
 featured: false
 faq:
-  - "{'question': 'Wie lange sollte ich nach dem ersten Date warten, bevor ich mich melde?', 'answer': "Es hängt von der Chemie ab, aber generell ist es authentisch, sich innerhalb von 24 Stunden zu melden. Eine nette Nachricht wie 'Mir hat es mit dir gestern sehr gefallen' zeigt Interesse ohne zu bedürftig zu wirken."}"
-  - "{'question': 'Wer sollte das zweite Date planen?', 'answer': 'Idealerweise sollte beide aktiv sein. Aber wenn du das erste Date gut gelaufen war und dein Date nicht von sich aus Interesse zeigt, kannst du die Initiative ergreifen. Es ist nicht übergriffig, Vorschläge zu machen.'}"
-  - "{'question': 'Was sollte ich beim zweiten Date vermeiden?', 'answer': 'Vermeide Wiederholungen des ersten Dates, zu lange oder zu kurze Treffen (90-120 Minuten sind ideal), zu teure Aktivitäten um zu beeindrucken und zu intensive Gespräche zu früh im Prozess.'}"
+  - question: "Wie lange sollte ich nach dem ersten Date warten, bevor ich mich melde?"
+    answer: "Es hängt von der Chemie ab, aber generell ist es authentisch, sich innerhalb von 24 Stunden zu melden. Eine nette Nachricht wie 'Mir hat es mit dir gestern sehr gefallen' zeigt Interesse ohne zu bedürftig zu wirken."
+  - question: "Wer sollte das zweite Date planen?"
+    answer: "Idealerweise sollte beide aktiv sein. Aber wenn du das erste Date gut gelaufen war und dein Date nicht von sich aus Interesse zeigt, kannst du die Initiative ergreifen. Es ist nicht übergriffig, Vorschläge zu machen."
+  - question: "Was sollte ich beim zweiten Date vermeiden?"
+    answer: "Vermeide Wiederholungen des ersten Dates, zu lange oder zu kurze Treffen (90-120 Minuten sind ideal), zu teure Aktivitäten um zu beeindrucken und zu intensive Gespräche zu früh im Prozess."
 ---
 Das zweite Date ist ein entscheidender Moment. Es ist nicht mehr die erste Nervosität, sondern eine echte Chance, zu sehen, ob echte Chemie zwischen euch besteht. Wie planst du dieses Treffen optimal?
 

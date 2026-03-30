@@ -18,11 +18,16 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Was ist der Unterschied zwischen emotionaler und physischer Intimität?', 'answer': 'Emotionale Intimität ist das Vertrauen, sich verletzlich zu machen. Physische Intimität ist Berührung und Sexualität. Eine braucht die andere. Man kann ein Jahr ohne Sex zusammenleben und immer noch emotionale Intimität haben. Aber ohne emotionale Intimität wird Sex leer.'}"
-  - "{'question': 'Wie lange dauert es, Intimität wieder aufzubauen?', 'answer': 'Je nachdem, wie lange sie weg war. 3-6 Monate von bewusstem Aufbau, wenn die Grundlage noch solid ist. Ein Jahr oder mehr, wenn es ein tieferes Problem gab (Untreue, Vertrauensbruch). Nicht linear — es gibt gute und schwere Wochen.'}"
-  - "{'question': 'Kann Sex die emotionale Distanz überbrücken?', 'answer': 'Kurzfristig ja. Aber es ist keine Lösung für emotionale Distanz. In der Tat kann erzwungener Sex oder Sex ohne emotionale Nähe die Distanz vergrößern. Das Fundament muss emotional sein.'}"
-  - "{'question': 'Was mache ich, wenn ich keine Lust auf Sex habe, aber weiß, dass wir Nähe brauchen?', 'answer': "Sage die Wahrheit: 'Mir fehlt die emotionale Nähe. Sex fühlt sich jetzt erzwungen an.' Dann arbeite an der emotionalen Nähe. Mit emotionaler Nähe kommt sexuelle Lust natürlich zurück."}"
-  - "{'question': 'Kann man allein an Intimität arbeiten oder braucht man Hilfe?', 'answer': 'Du kannst allein anfangen. Aber wenn Intimität völlig weg ist, hilft oft eine Paartherapeutin. Besonders wenn es ein echtes Trauma gab (Untreue, Gewalt). Ein Fachperson kann helfen, sichere Wege zu finden.'}"
+  - question: "Was ist der Unterschied zwischen emotionaler und physischer Intimität?"
+    answer: "Emotionale Intimität ist das Vertrauen, sich verletzlich zu machen. Physische Intimität ist Berührung und Sexualität. Eine braucht die andere. Man kann ein Jahr ohne Sex zusammenleben und immer noch emotionale Intimität haben. Aber ohne emotionale Intimität wird Sex leer."
+  - question: "Wie lange dauert es, Intimität wieder aufzubauen?"
+    answer: "Je nachdem, wie lange sie weg war. 3-6 Monate von bewusstem Aufbau, wenn die Grundlage noch solid ist. Ein Jahr oder mehr, wenn es ein tieferes Problem gab (Untreue, Vertrauensbruch). Nicht linear — es gibt gute und schwere Wochen."
+  - question: "Kann Sex die emotionale Distanz überbrücken?"
+    answer: "Kurzfristig ja. Aber es ist keine Lösung für emotionale Distanz. In der Tat kann erzwungener Sex oder Sex ohne emotionale Nähe die Distanz vergrößern. Das Fundament muss emotional sein."
+  - question: "Was mache ich, wenn ich keine Lust auf Sex habe, aber weiß, dass wir Nähe brauchen?"
+    answer: "Sage die Wahrheit: 'Mir fehlt die emotionale Nähe. Sex fühlt sich jetzt erzwungen an.' Dann arbeite an der emotionalen Nähe. Mit emotionaler Nähe kommt sexuelle Lust natürlich zurück."
+  - question: "Kann man allein an Intimität arbeiten oder braucht man Hilfe?"
+    answer: "Du kannst allein anfangen. Aber wenn Intimität völlig weg ist, hilft oft eine Paartherapeutin. Besonders wenn es ein echtes Trauma gab (Untreue, Gewalt). Ein Fachperson kann helfen, sichere Wege zu finden."
 ---
 
 ## Intimität wieder aufbauen wenn sie verloren gegangen ist

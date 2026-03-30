@@ -14,9 +14,12 @@ draft: false
 image: "/images/photos/dating-mannheim.webp"
 imageAlt: "Mannheim"
 faq:
-  - "{'question': 'Wo lernt man in Mannheim Singles kennen?', 'answer': 'Die besten Orte sind die Kneipen und Cafés im Jungbusch und in den Quadraten. Auch der Wasserturm-Platz ist beliebt. Für aktive Singles: der Luisenpark und das Neckarufer bieten schöne Gelegenheiten, neue Menschen zu treffen.'}"
-  - "{'question': 'Was sind die besten Date-Ideen in Mannheim?', 'answer': 'Klassisch-romantisch: ein Spaziergang durch den Luisenpark oder Botanischen Garten. Kulturell: das Technoseum oder die Kunsthalle. Gemütlich: Kaffee in einer Quadrate-Kneipe oder Picknick am Neckarufer. Aktiv: gemeinsam per Fahrrad zum Drachenfels fahren.'}"
-  - "{'question': 'Gibt es eine gute Single-Szene in Mannheim?', 'answer': 'Absolut! Mannheim hat eine lebendige, aufgeschlossene Single-Szene. Der Jungbusch ist bekannt als Szene-Viertel mit vielen Bars und Events. Die Quadrate locken regelmäßig Singles an, und das Neckarufer ist immer voll mit jungen Menschen.'}"
+  - question: "Wo lernt man in Mannheim Singles kennen?"
+    answer: "Die besten Orte sind die Kneipen und Cafés im Jungbusch und in den Quadraten. Auch der Wasserturm-Platz ist beliebt. Für aktive Singles: der Luisenpark und das Neckarufer bieten schöne Gelegenheiten, neue Menschen zu treffen."
+  - question: "Was sind die besten Date-Ideen in Mannheim?"
+    answer: "Klassisch-romantisch: ein Spaziergang durch den Luisenpark oder Botanischen Garten. Kulturell: das Technoseum oder die Kunsthalle. Gemütlich: Kaffee in einer Quadrate-Kneipe oder Picknick am Neckarufer. Aktiv: gemeinsam per Fahrrad zum Drachenfels fahren."
+  - question: "Gibt es eine gute Single-Szene in Mannheim?"
+    answer: "Absolut! Mannheim hat eine lebendige, aufgeschlossene Single-Szene. Der Jungbusch ist bekannt als Szene-Viertel mit vielen Bars und Events. Die Quadrate locken regelmäßig Singles an, und das Neckarufer ist immer voll mit jungen Menschen."
 ---
 ## dating in Mannheim: Wo die Quadrate Liebe schreiben
 

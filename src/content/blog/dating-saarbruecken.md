@@ -14,10 +14,14 @@ draft: false
 image: "/images/photos/dating-saarbruecken.webp"
 imageAlt: "Saarbrücken dating scene"
 faq:
-  - "{'question': 'Wo kann man in Saarbrücken am besten Singles kennenlernen?', 'answer': 'Der St. Johanner Markt ist das Zentrum der Dating-Szene mit vielen Bars und Cafés. Der Deutsch-Französischer Garten ist perfekt für entspannte Dates. Auch die Innenstadt rund um das Saarbrücker Schloss ist gut zum Flanieren und Flirten.'}"
-  - "{'question': 'Welche Dating-Apps sind in Saarbrücken beliebt?', 'answer': 'Tinder ist auch hier führend. Bumble und Hinge haben aktive Communities. Es gibt auch Apps mit französischem und luxemburgischem Fokus. Die Nähe zu Frankreich bringt auch französische Nutzer mit rein.'}"
-  - "{'question': 'Was sind die besten Date-Ideen in Saarbrücken?', 'answer': 'Drinks und Dinner am St. Johanner Markt, Spaziergang im Deutsch-Französischen Garten, Schloss-Besuch, Grenzgang nach Lothringen, Biergärten im Sommer, Museumsbesuche und französische Restaurants für gehobene Dates.'}"
-  - "{'question': 'Gibt es in Saarbrücken eine gute Single-Szene?', 'answer': 'Ja! Saarbrücken hat eine lebendige, internationale Single-Szene. Die Nähe zu Frankreich, Luxemburg und Belgien macht die Stadt kosmopolitisch. Es gibt viele junge Menschen, Studenten und Expats. Die Szene ist freundlich und offen.'}"
+  - question: "Wo kann man in Saarbrücken am besten Singles kennenlernen?"
+    answer: "Der St. Johanner Markt ist das Zentrum der Dating-Szene mit vielen Bars und Cafés. Der Deutsch-Französischer Garten ist perfekt für entspannte Dates. Auch die Innenstadt rund um das Saarbrücker Schloss ist gut zum Flanieren und Flirten."
+  - question: "Welche Dating-Apps sind in Saarbrücken beliebt?"
+    answer: "Tinder ist auch hier führend. Bumble und Hinge haben aktive Communities. Es gibt auch Apps mit französischem und luxemburgischem Fokus. Die Nähe zu Frankreich bringt auch französische Nutzer mit rein."
+  - question: "Was sind die besten Date-Ideen in Saarbrücken?"
+    answer: "Drinks und Dinner am St. Johanner Markt, Spaziergang im Deutsch-Französischen Garten, Schloss-Besuch, Grenzgang nach Lothringen, Biergärten im Sommer, Museumsbesuche und französische Restaurants für gehobene Dates."
+  - question: "Gibt es in Saarbrücken eine gute Single-Szene?"
+    answer: "Ja! Saarbrücken hat eine lebendige, internationale Single-Szene. Die Nähe zu Frankreich, Luxemburg und Belgien macht die Stadt kosmopolitisch. Es gibt viele junge Menschen, Studenten und Expats. Die Szene ist freundlich und offen."
 ---
 ## Dating in Saarbrücken: Grenzstadt-Romantik zwischen Kulturen
 

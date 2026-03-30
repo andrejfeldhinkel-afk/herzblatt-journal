@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - "{'question': 'Wie schnell sollte man nach dem Match ein Date vorschlagen?', 'answer': 'Idealerweise nach 3-7 Tagen Chatverkehr oder 15-20 ausgetauschten Nachrichten. Zu früh wirkt verzweifelt, zu spät lässt das Interesse einschlafen. Wenn die Unterhaltung gut fließt, ist das der richtige Moment.'}"
-  - "{'question': 'Was wenn die Person nicht auf ein Date-Vorschlag reagiert?', 'answer': 'Warte 2-3 Tage und schlage dann beiläufig eine Alternative vor. Wenn wieder keine Reaktion kommt, respektiere das Schweigen. Manche Menschen nutzen Dating-Apps nur für Unterhaltung — und das ist okay.'}"
-  - "{'question': 'Soll man die Handynummer tauschen bevor man sich trifft?', 'answer': 'Das ist Geschmackssache. Manche fühlen sich wohler, die Nummer vorher zu tauschen. Andere bleiben lieber auf der App, bis sie sich persönlich kennengelernt haben. Beides ist völlig in Ordnung.'}"
-  - "{'question': 'Was ist der beste Ort für ein erstes Date von einer App?', 'answer': 'Ein entspanntes Café oder eine Bar tagsüber oder am frühen Abend. Vermeide Kino (kein Gespräch möglich) oder aufwändige Dinner-Dates (zu viel Druck). Ein Spaziergang ist eine tolle Alternative, wenn beide Natur mögen.'}"
+  - question: "Wie schnell sollte man nach dem Match ein Date vorschlagen?"
+    answer: "Idealerweise nach 3-7 Tagen Chatverkehr oder 15-20 ausgetauschten Nachrichten. Zu früh wirkt verzweifelt, zu spät lässt das Interesse einschlafen. Wenn die Unterhaltung gut fließt, ist das der richtige Moment."
+  - question: "Was wenn die Person nicht auf ein Date-Vorschlag reagiert?"
+    answer: "Warte 2-3 Tage und schlage dann beiläufig eine Alternative vor. Wenn wieder keine Reaktion kommt, respektiere das Schweigen. Manche Menschen nutzen Dating-Apps nur für Unterhaltung — und das ist okay."
+  - question: "Soll man die Handynummer tauschen bevor man sich trifft?"
+    answer: "Das ist Geschmackssache. Manche fühlen sich wohler, die Nummer vorher zu tauschen. Andere bleiben lieber auf der App, bis sie sich persönlich kennengelernt haben. Beides ist völlig in Ordnung."
+  - question: "Was ist der beste Ort für ein erstes Date von einer App?"
+    answer: "Ein entspanntes Café oder eine Bar tagsüber oder am frühen Abend. Vermeide Kino (kein Gespräch möglich) oder aufwändige Dinner-Dates (zu viel Druck). Ein Spaziergang ist eine tolle Alternative, wenn beide Natur mögen."
 ---
 
 Du hast ein Match bekommen, freust dich wie verrückt – und dann? Der nächste Schritt ist oft die größte Hürde im Online-Dating: Wie wird aus einem Match ein echtes Date? Wie formulierst du die erste Nachricht? Wann ist der richtige Moment, um um ein Treffen zu bitten? Und wie schaffst du es, dass aus dem virtuellen Flirt auch wirklich ein gemeinsames Abenteuer wird?

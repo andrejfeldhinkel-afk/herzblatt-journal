@@ -15,11 +15,16 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Was ist ein emotional safe space?', 'answer': 'Ein Raum, in dem du deine echten Gefühle zeigen kannst, ohne Angst vor Zurückweisung, Urteil oder Strafe. Du kannst verwundbar sein. Der andere hört zu, ohne zu "reparieren" oder dich zu kritisieren.'}"
-  - "{'question': 'Wie erkenne ich, dass mein Partner keinen sicheren Raum bietet?', 'answer': 'Du hast Angst, deine wahren Gefühle zu sagen. Du gibst die "sichere" Version von dir. Dein Partner nutzt deine Tränen oder Ängste gegen dich in Streitigkeiten. Er/Sie ignoriert deine Gefühle oder sagt sie, um sie zu überzeugen.'}"
-  - "{'question': 'Kann man einen safe space alleine schaffen?', 'answer': 'Teilweise. Du kannst deine Grenzen setzen und kommunizieren. Aber ein wahrer safe space braucht Reziprozität. Wenn dein Partner nicht mitarbeitet, kann es nicht wirklich funktionieren.'}"
-  - "{'question': 'Was, wenn mein Partner nicht emotional verfügbar ist?', 'answer': 'Das ist ein größeres Problem. Manche Menschen sind emotional avoidant. Das kann behandelt werden mit Therapie, aber beide müssen daran arbeiten wollen. Wenn nur du versuchst – es wird nicht funktionieren.'}"
-  - "{'question': 'Wie lange dauert es, einen safe space zu bauen?', 'answer': 'Die ersten Anzeichen können in Wochen sichtbar sein, aber vollständiges Vertrauen braucht Monate bis Jahre. Jedes Mal, wenn der andere deine Verwundbarkeit respektiert, wird es stärker. Jedes Mal, wenn deine Gefühle gegen dich verwendet werden, wird es schwächer.'}"
+  - question: "Was ist ein emotional safe space?"
+    answer: "Ein Raum, in dem du deine echten Gefühle zeigen kannst, ohne Angst vor Zurückweisung, Urteil oder Strafe. Du kannst verwundbar sein. Der andere hört zu, ohne zu \"reparieren\" oder dich zu kritisieren."
+  - question: "Wie erkenne ich, dass mein Partner keinen sicheren Raum bietet?"
+    answer: "Du hast Angst, deine wahren Gefühle zu sagen. Du gibst die \"sichere\" Version von dir. Dein Partner nutzt deine Tränen oder Ängste gegen dich in Streitigkeiten. Er/Sie ignoriert deine Gefühle oder sagt sie, um sie zu überzeugen."
+  - question: "Kann man einen safe space alleine schaffen?"
+    answer: "Teilweise. Du kannst deine Grenzen setzen und kommunizieren. Aber ein wahrer safe space braucht Reziprozität. Wenn dein Partner nicht mitarbeitet, kann es nicht wirklich funktionieren."
+  - question: "Was, wenn mein Partner nicht emotional verfügbar ist?"
+    answer: "Das ist ein größeres Problem. Manche Menschen sind emotional avoidant. Das kann behandelt werden mit Therapie, aber beide müssen daran arbeiten wollen. Wenn nur du versuchst – es wird nicht funktionieren."
+  - question: "Wie lange dauert es, einen safe space zu bauen?"
+    answer: "Die ersten Anzeichen können in Wochen sichtbar sein, aber vollständiges Vertrauen braucht Monate bis Jahre. Jedes Mal, wenn der andere deine Verwundbarkeit respektiert, wird es stärker. Jedes Mal, wenn deine Gefühle gegen dich verwendet werden, wird es schwächer."
 ---
 ## Emotional Safe Space: Wie du einen sicheren Raum in der beziehung schaffst
 

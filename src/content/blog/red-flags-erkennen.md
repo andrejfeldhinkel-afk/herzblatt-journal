@@ -13,10 +13,14 @@ draft: false
 image: "/images/photos/red-flags-erkennen.webp"
 imageAlt: "Illustration von Red Flags beim Dating"
 faq:
-  - "{'question': 'Was sind die größten Red Flags beim Dating?', 'answer': 'Die schlimmsten sind: mangelnder Respekt gegenüber anderen, inkonsistente Kommunikation, Lovebombing, Grenzen nicht respektieren, und Lügen. Vertrau deinem Bauchgefühl.'}"
-  - "{'question': 'Unterschied zwischen Red Flag und Dealbreaker?', 'answer': 'Eine Red Flag ist ein Warnsignal, das Vorsicht erfordert. Ein Dealbreaker ist etwas, das die Beziehung sofort beenden sollte — wie Untreue oder Missbrauch.'}"
-  - "{'question': 'Können sich Red Flags ändern?', 'answer': 'Nur wenn die Person echte Einsicht und Willingness zur Veränderung zeigt. Aber tu dich nicht selbst weh, indem du auf Veränderung wartest — das ist nicht deine Verantwortung.'}"
-  - "{'question': 'Wann sollte ich eine Person mit Red Flags verlassen?', 'answer': 'Sofort, wenn sich mehrere Warnsignale häufen oder dein Sicherheitsgefühl bedroht ist. Je früher du gehst, desto weniger verletzt wirst du.'}"
+  - question: "Was sind die größten Red Flags beim Dating?"
+    answer: "Die schlimmsten sind: mangelnder Respekt gegenüber anderen, inkonsistente Kommunikation, Lovebombing, Grenzen nicht respektieren, und Lügen. Vertrau deinem Bauchgefühl."
+  - question: "Unterschied zwischen Red Flag und Dealbreaker?"
+    answer: "Eine Red Flag ist ein Warnsignal, das Vorsicht erfordert. Ein Dealbreaker ist etwas, das die Beziehung sofort beenden sollte — wie Untreue oder Missbrauch."
+  - question: "Können sich Red Flags ändern?"
+    answer: "Nur wenn die Person echte Einsicht und Willingness zur Veränderung zeigt. Aber tu dich nicht selbst weh, indem du auf Veränderung wartest — das ist nicht deine Verantwortung."
+  - question: "Wann sollte ich eine Person mit Red Flags verlassen?"
+    answer: "Sofort, wenn sich mehrere Warnsignale häufen oder dein Sicherheitsgefühl bedroht ist. Je früher du gehst, desto weniger verletzt wirst du."
 ---
 ## Vertraue deinem Bauchgefühl
 

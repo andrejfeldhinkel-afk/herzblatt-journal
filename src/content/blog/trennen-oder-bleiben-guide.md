@@ -17,10 +17,14 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Woher weiß ich ob ich mich trennen soll?', 'answer': 'Frag dich: Fühlst du dich in der Beziehung öfter schlecht als gut? Hast du bereits alles versucht — Gespräche, Therapie, Veränderungen? Wenn ja und sich nichts ändert, ist das ein starkes Signal.'}"
-  - "{'question': 'Kann eine kaputte Beziehung noch gerettet werden?', 'answer': 'Ja — wenn beide Partner bereit sind, an den Problemen zu arbeiten. Aber es braucht echten Willen von beiden Seiten. Einer allein kann eine Beziehung nicht retten.'}"
-  - "{'question': 'Wie lange sollte ich kämpfen bevor ich aufgebe?', 'answer': 'Es gibt keine feste Zeitvorgabe. Aber wenn du über Monate hinweg ohne Fortschritt kämpfst und dein Wohlbefinden leidet, ist es wichtig, auch deine eigenen Grenzen ernst zu nehmen.'}"
-  - "{'question': 'Ist es normal, Angst vor der Trennung zu haben?', 'answer': 'Absolut. Auch wenn die Beziehung nicht gut ist, ist Trennung ein Verlust. Angst vor Einsamkeit, finanziellen Folgen oder dem Schmerz ist völlig normal und kein Grund zu bleiben.'}"
+  - question: "Woher weiß ich ob ich mich trennen soll?"
+    answer: "Frag dich: Fühlst du dich in der Beziehung öfter schlecht als gut? Hast du bereits alles versucht — Gespräche, Therapie, Veränderungen? Wenn ja und sich nichts ändert, ist das ein starkes Signal."
+  - question: "Kann eine kaputte Beziehung noch gerettet werden?"
+    answer: "Ja — wenn beide Partner bereit sind, an den Problemen zu arbeiten. Aber es braucht echten Willen von beiden Seiten. Einer allein kann eine Beziehung nicht retten."
+  - question: "Wie lange sollte ich kämpfen bevor ich aufgebe?"
+    answer: "Es gibt keine feste Zeitvorgabe. Aber wenn du über Monate hinweg ohne Fortschritt kämpfst und dein Wohlbefinden leidet, ist es wichtig, auch deine eigenen Grenzen ernst zu nehmen."
+  - question: "Ist es normal, Angst vor der Trennung zu haben?"
+    answer: "Absolut. Auch wenn die Beziehung nicht gut ist, ist Trennung ein Verlust. Angst vor Einsamkeit, finanziellen Folgen oder dem Schmerz ist völlig normal und kein Grund zu bleiben."
 ---
 ## Einleitung: Warum diese Entscheidung so verdammt schwer ist
 

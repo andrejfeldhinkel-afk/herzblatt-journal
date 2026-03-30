@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/dating-im-herbst.webp"
 imageAlt: "Paar beim Spaziergang durch buntes Herbstlaub"
 faq:
-  - "{'question': 'Was ist die Cuffing Season?', 'answer': 'Der Begriff beschreibt das Phänomen, dass Menschen in den kälteren Monaten verstärkt nach einer Beziehung suchen. Es wird kalt, die Abende sind lang – da will man nicht allein auf dem Sofa sitzen.'}"
-  - "{'question': 'Welche Date-Ideen sind typisch für den Herbst?', 'answer': 'Kürbisfeste, Weinverkostung, Waldspaziergang, gemeinsam kochen, Filmabend, Besuch auf dem Weihnachtsmarkt (ab November), Spieleabend.'}"
-  - "{'question': 'Sind Herbst-Beziehungen nur für den Winter?', 'answer': 'Nicht unbedingt. Viele Beziehungen, die im Herbst beginnen, halten langfristig. Wer im Winter zusammen durch die dunkle Jahreszeit geht, hat einen echten Test bestanden.'}"
+  - question: "Was ist die Cuffing Season?"
+    answer: "Der Begriff beschreibt das Phänomen, dass Menschen in den kälteren Monaten verstärkt nach einer Beziehung suchen. Es wird kalt, die Abende sind lang – da will man nicht allein auf dem Sofa sitzen."
+  - question: "Welche Date-Ideen sind typisch für den Herbst?"
+    answer: "Kürbisfeste, Weinverkostung, Waldspaziergang, gemeinsam kochen, Filmabend, Besuch auf dem Weihnachtsmarkt (ab November), Spieleabend."
+  - question: "Sind Herbst-Beziehungen nur für den Winter?"
+    answer: "Nicht unbedingt. Viele Beziehungen, die im Herbst beginnen, halten langfristig. Wer im Winter zusammen durch die dunkle Jahreszeit geht, hat einen echten Test bestanden."
 ---
 ## Cuffing Season: Mehr als ein Trend — Die Psychologie der Herbst-Lust
 

@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/dating-mit-akzent.webp"
 imageAlt: "Diverse Menschen beim Dating in Deutschland"
 faq:
-  - "{'question': 'Sollte ich meine kulturelle Herkunft in meinem Dating-Profil erwähnen?', 'answer': 'Das ist deine Entscheidung. Manche Menschen finden es wichtig, transparent zu sein. Andere bevorzugen, diese Information zu teilen, wenn die Verbindung entwickelt. Es gibt keine falsche Antwort.'}"
-  - "{'question': 'Wie gehe ich mit rassistischen oder kulturellen Vorurteilen beim Dating um?', 'answer': 'Das ist unwelcome und inakzeptabel. Du schuldest kein Lehren oder Erklären. Wenn jemand Vorurteile hat, die nicht respektvoll sind, das ist Information, dass sie nicht die richtige Person sind.'}"
-  - "{'question': 'Kann ich in Deutschland als Mensch mit Migrationshintergrund authentisch lieben?', 'answer': 'Ja. Du brauchst jemanden, der deine Identität schätzt und nicht versucht, dich zu assimilieren oder deine Kultur zu verändern. Diese Menschen existieren. Es könnte einfach länger dauern, sie zu finden.'}"
+  - question: "Sollte ich meine kulturelle Herkunft in meinem Dating-Profil erwähnen?"
+    answer: "Das ist deine Entscheidung. Manche Menschen finden es wichtig, transparent zu sein. Andere bevorzugen, diese Information zu teilen, wenn die Verbindung entwickelt. Es gibt keine falsche Antwort."
+  - question: "Wie gehe ich mit rassistischen oder kulturellen Vorurteilen beim Dating um?"
+    answer: "Das ist unwelcome und inakzeptabel. Du schuldest kein Lehren oder Erklären. Wenn jemand Vorurteile hat, die nicht respektvoll sind, das ist Information, dass sie nicht die richtige Person sind."
+  - question: "Kann ich in Deutschland als Mensch mit Migrationshintergrund authentisch lieben?"
+    answer: "Ja. Du brauchst jemanden, der deine Identität schätzt und nicht versucht, dich zu assimilieren oder deine Kultur zu verändern. Diese Menschen existieren. Es könnte einfach länger dauern, sie zu finden."
 ---## Die mehrfache Identität
 
 Wenn du mit Migrationshintergrund in Deutschland datest, lebst du in mehrere Welten gleichzeitig. Vielleicht sprach dich zuhause deine Muttersprache, aber datest auf Deutsch. Vielleicht kommen deine Eltern aus einer anderen Kultur, aber du bist deutsch. Vielleicht fühle dich nicht ganz gehören Oder der anderen.

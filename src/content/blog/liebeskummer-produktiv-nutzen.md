@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Wie lange dauert Liebeskummer normalerweise?', 'answer': "Die alte Faustregel 'halb so lang wie die Beziehung' stimmt nicht für jeden. Akuter Liebeskummer dauert meist 3-6 Monate. Die tiefere Verarbeitung kann 12-18 Monate brauchen. Wichtig: Es gibt kein 'zu lang' — jeder heilt in seinem Tempo."}"
-  - "{'question': 'Kann Liebeskummer wirklich krank machen?', 'answer': 'Ja. Broken-Heart-Syndrom (Tako-Tsubo-Kardiomyopathie) ist eine medizinisch anerkannte Herzmuskelerkrankung durch extremen emotionalen Stress. Auch Schlafstörungen, Appetitlosigkeit und depressive Episoden sind häufig. Nimm deinen Schmerz ernst.'}"
-  - "{'question': 'Wann sollte ich professionelle Hilfe suchen?', 'answer': 'Wenn Liebeskummer nach 6 Monaten nicht nachlässt, du Suizidgedanken hast, dich komplett isolierst, nicht mehr arbeitsfähig bist oder zu Substanzen greifst. Ein Therapeut ist kein Zeichen von Schwäche, sondern von Stärke.'}"
-  - "{'question': 'Hilft es den Ex zu blockieren?', 'answer': "In den meisten Fällen ja. 'No Contact' gibt deinem Gehirn die Chance, die neurochemische Abhängigkeit zu durchbrechen. 30 Tage konsequent kein Kontakt ist der effektivste erste Schritt zur Heilung."}"
+  - question: "Wie lange dauert Liebeskummer normalerweise?"
+    answer: "Die alte Faustregel 'halb so lang wie die Beziehung' stimmt nicht für jeden. Akuter Liebeskummer dauert meist 3-6 Monate. Die tiefere Verarbeitung kann 12-18 Monate brauchen. Wichtig: Es gibt kein 'zu lang' — jeder heilt in seinem Tempo."
+  - question: "Kann Liebeskummer wirklich krank machen?"
+    answer: "Ja. Broken-Heart-Syndrom (Tako-Tsubo-Kardiomyopathie) ist eine medizinisch anerkannte Herzmuskelerkrankung durch extremen emotionalen Stress. Auch Schlafstörungen, Appetitlosigkeit und depressive Episoden sind häufig. Nimm deinen Schmerz ernst."
+  - question: "Wann sollte ich professionelle Hilfe suchen?"
+    answer: "Wenn Liebeskummer nach 6 Monaten nicht nachlässt, du Suizidgedanken hast, dich komplett isolierst, nicht mehr arbeitsfähig bist oder zu Substanzen greifst. Ein Therapeut ist kein Zeichen von Schwäche, sondern von Stärke."
+  - question: "Hilft es den Ex zu blockieren?"
+    answer: "In den meisten Fällen ja. 'No Contact' gibt deinem Gehirn die Chance, die neurochemische Abhängigkeit zu durchbrechen. 30 Tage konsequent kein Kontakt ist der effektivste erste Schritt zur Heilung."
 ---Liebeskummer ist eine Form von Trauer. Das ist die erste Wahrheit die zu verstehen du brauchst. Es ist nicht weniger real als Tod. Es ist nicht "dramatisch" oder "zu emotional." Es ist ein echtes Trauma für dein Nervensystem.
 
 Wenn eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) endet, traust du nicht nur die Person. Du traust auch eine Version deiner Zukunft. Die Pläne die du hattest, die Träume die du geteilt hast, die Person die du in dieser Beziehung geworden bist.

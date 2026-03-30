@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "laura-weber"
 faq:
-  - "{'question': 'Was ist ein gutes erstes Date von einer Dating-App?', 'answer': 'Ein gutes erstes Date ist entspannt, ermöglicht Gespräche und hat einen natürlichen Endpunkt. Kaffee oder ein Spaziergang sind Klassiker, aber ein Besuch auf einem Wochenmarkt oder in einer kleinen Galerie ist origineller und gibt euch mehr Gesprächsstoff.'}"
-  - "{'question': 'Wie teuer sollte ein erstes Date sein?', 'answer': 'Ein erstes Date muss nicht teuer sein. Die besten Dates kosten oft unter 20€. Ein Spaziergang mit Eis, ein Picknick im Park oder ein Besuch in einem kostenlosen Museum sind perfekte Low-Budget-Optionen die trotzdem Eindruck machen.'}"
-  - "{'question': 'Was sollte man beim ersten Date von einer App vermeiden?', 'answer': 'Vermeide Kino (kein Gespräch möglich), aufwändige Dinner (zu viel Druck), Gruppenaktivitäten (kein Zweiergespräch) und alles was sehr laut ist. Das erste Date sollte euch die Chance geben, euch wirklich kennenzulernen.'}"
-  - "{'question': 'Wie schlage ich ein kreatives Date vor ohne dass es weird wirkt?', 'answer': "Knüpfe an ein gemeinsames Interesse an: 'Du magst japanisches Essen? Ich kenne einen tollen Ramen-Laden!' oder 'Du wanderst gerne? Es gibt einen schönen Rundweg am See.' So wirkt der Vorschlag natürlich und durchdacht."}"
+  - question: "Was ist ein gutes erstes Date von einer Dating-App?"
+    answer: "Ein gutes erstes Date ist entspannt, ermöglicht Gespräche und hat einen natürlichen Endpunkt. Kaffee oder ein Spaziergang sind Klassiker, aber ein Besuch auf einem Wochenmarkt oder in einer kleinen Galerie ist origineller und gibt euch mehr Gesprächsstoff."
+  - question: "Wie teuer sollte ein erstes Date sein?"
+    answer: "Ein erstes Date muss nicht teuer sein. Die besten Dates kosten oft unter 20€. Ein Spaziergang mit Eis, ein Picknick im Park oder ein Besuch in einem kostenlosen Museum sind perfekte Low-Budget-Optionen die trotzdem Eindruck machen."
+  - question: "Was sollte man beim ersten Date von einer App vermeiden?"
+    answer: "Vermeide Kino (kein Gespräch möglich), aufwändige Dinner (zu viel Druck), Gruppenaktivitäten (kein Zweiergespräch) und alles was sehr laut ist. Das erste Date sollte euch die Chance geben, euch wirklich kennenzulernen."
+  - question: "Wie schlage ich ein kreatives Date vor ohne dass es weird wirkt?"
+    answer: "Knüpfe an ein gemeinsames Interesse an: 'Du magst japanisches Essen? Ich kenne einen tollen Ramen-Laden!' oder 'Du wanderst gerne? Es gibt einen schönen Rundweg am See.' So wirkt der Vorschlag natürlich und durchdacht."
 ---
 
 Das erste Treffen mit jemandem aus einer Dating-App ist aufregend, nervös machend und voller Möglichkeiten. Doch während viele Menschen automatisch an Kaffee oder ein klassisches Dinner denken, gibt es unzählige kreative Date-Ideen, die euer erstes Treffen unvergesslich machen. Dieser umfassende Leitfaden präsentiert dir 50 großartige Vorschläge für originelle Dates, die garantiert Eindruck hinterlassen und echte Verbindungen ermöglichen.

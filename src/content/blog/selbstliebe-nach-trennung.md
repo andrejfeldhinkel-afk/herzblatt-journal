@@ -15,11 +15,16 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Wie lange dauert es, sich nach einer Trennung zu heilen?', 'answer': 'Es gibt keine Zeitlinie. Psychologen sagen, dass die Heilung meist 6-18 Monate dauert, je nachdem wie lange die Beziehung war und wie tief der Schmerz. Aber echte Selbstliebe ist ein lebenslanger Prozess.'}"
-  - "{'question': 'Ist es egoistisch, nach einer Trennung an mir selbst zu arbeiten?', 'answer': 'Nein. Selbstliebe ist nicht Egoismus. Es ist Selbstschutz und Selbstwertgefühl. Wenn du nicht für dich selbst einstehst, wer wird es dann tun?'}"
-  - "{'question': 'Sollte ich mit meinem Ex-Partner Kontakt halten?', 'answer': 'Nein, nicht sofort. Mindestens 3-6 Monate Kontaktlosigkeit geben deinem Gehirn die Zeit, die Liebe zu verarbeiten und neue Beziehungen zu bilden. Erst dann kannst du vielleicht Freundschaft erwägen.'}"
-  - "{'question': 'Wann kann ich wieder daten?', 'answer': 'Wenn du dich selbst lieben und respektieren kannst, ohne dass jemand anderes dir das validiert. Wenn du wieder glücklich alleine sein kannst. Das ist wahrscheinlich 6-12 Monate nach der Trennung, aber jeder Mensch ist anders.'}"
-  - "{'question': 'Wie höre ich auf, mich für die Trennung zu schulden?', 'answer': 'Indem du erkennst, dass eine Trennung ein Fehler beider Menschen ist – oder keine. Manchmal sind zwei Menschen einfach nicht kompatibel. Das ist nicht deine Schuld. Es ist die Realität.'}"
+  - question: "Wie lange dauert es, sich nach einer Trennung zu heilen?"
+    answer: "Es gibt keine Zeitlinie. Psychologen sagen, dass die Heilung meist 6-18 Monate dauert, je nachdem wie lange die Beziehung war und wie tief der Schmerz. Aber echte Selbstliebe ist ein lebenslanger Prozess."
+  - question: "Ist es egoistisch, nach einer Trennung an mir selbst zu arbeiten?"
+    answer: "Nein. Selbstliebe ist nicht Egoismus. Es ist Selbstschutz und Selbstwertgefühl. Wenn du nicht für dich selbst einstehst, wer wird es dann tun?"
+  - question: "Sollte ich mit meinem Ex-Partner Kontakt halten?"
+    answer: "Nein, nicht sofort. Mindestens 3-6 Monate Kontaktlosigkeit geben deinem Gehirn die Zeit, die Liebe zu verarbeiten und neue Beziehungen zu bilden. Erst dann kannst du vielleicht Freundschaft erwägen."
+  - question: "Wann kann ich wieder daten?"
+    answer: "Wenn du dich selbst lieben und respektieren kannst, ohne dass jemand anderes dir das validiert. Wenn du wieder glücklich alleine sein kannst. Das ist wahrscheinlich 6-12 Monate nach der Trennung, aber jeder Mensch ist anders."
+  - question: "Wie höre ich auf, mich für die Trennung zu schulden?"
+    answer: "Indem du erkennst, dass eine Trennung ein Fehler beider Menschen ist – oder keine. Manchmal sind zwei Menschen einfach nicht kompatibel. Das ist nicht deine Schuld. Es ist die Realität."
 ---
 ## Die Wahrheit über Trennungen und Selbstwertgefühl
 

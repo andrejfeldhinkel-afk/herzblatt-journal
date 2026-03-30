@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Was ist Hyper-Independence?', 'answer': 'Hyper-Independence ist ein Trauma-Response, bei dem du gelernt hast, dich ausschließlich auf dich selbst zu verlassen. Du lehnst Hilfe ab, zeigst keine Verletzlichkeit und hältst andere emotional auf Abstand — weil du früher erfahren hast, dass Abhängigkeit von anderen zu Schmerz führt.'}"
-  - "{'question': 'Ist Hyper-Independence ein Bindungsstil?', 'answer': 'Nicht direkt, aber Hyper-Independence ist eng mit dem vermeidenden Bindungsstil verbunden. Es ist eine Überlebensstrategie, die oft aus unsicherer Bindung in der Kindheit oder traumatischen Beziehungserfahrungen entsteht.'}"
-  - "{'question': 'Wie wirkt sich Hyper-Independence auf Beziehungen aus?', 'answer': 'Hyper-unabhängige Menschen lassen ihre Partner emotional nicht nah genug ran. Sie teilen keine Probleme, lehnen Unterstützung ab und geben dem Partner das Gefühl, nicht gebraucht zu werden — was die Beziehung langfristig zerstören kann.'}"
-  - "{'question': 'Kann man Hyper-Independence heilen?', 'answer': 'Ja, aber es braucht bewusste Arbeit. Der erste Schritt ist zu erkennen, dass extreme Unabhängigkeit kein Stärkezeichen ist, sondern ein Schutzmechanismus. Therapie, kleine Schritte der Verletzlichkeit und ein verständnisvoller Partner können helfen.'}"
+  - question: "Was ist Hyper-Independence?"
+    answer: "Hyper-Independence ist ein Trauma-Response, bei dem du gelernt hast, dich ausschließlich auf dich selbst zu verlassen. Du lehnst Hilfe ab, zeigst keine Verletzlichkeit und hältst andere emotional auf Abstand — weil du früher erfahren hast, dass Abhängigkeit von anderen zu Schmerz führt."
+  - question: "Ist Hyper-Independence ein Bindungsstil?"
+    answer: "Nicht direkt, aber Hyper-Independence ist eng mit dem vermeidenden Bindungsstil verbunden. Es ist eine Überlebensstrategie, die oft aus unsicherer Bindung in der Kindheit oder traumatischen Beziehungserfahrungen entsteht."
+  - question: "Wie wirkt sich Hyper-Independence auf Beziehungen aus?"
+    answer: "Hyper-unabhängige Menschen lassen ihre Partner emotional nicht nah genug ran. Sie teilen keine Probleme, lehnen Unterstützung ab und geben dem Partner das Gefühl, nicht gebraucht zu werden — was die Beziehung langfristig zerstören kann."
+  - question: "Kann man Hyper-Independence heilen?"
+    answer: "Ja, aber es braucht bewusste Arbeit. Der erste Schritt ist zu erkennen, dass extreme Unabhängigkeit kein Stärkezeichen ist, sondern ein Schutzmechanismus. Therapie, kleine Schritte der Verletzlichkeit und ein verständnisvoller Partner können helfen."
 ---
 ## Der perfekte Partner braucht niemanden — oder?
 

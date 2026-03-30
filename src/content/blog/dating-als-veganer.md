@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/dating-als-veganer.webp"
 imageAlt: "Veganes Paar beim Date"
 faq:
-  - "{'question': 'Sollte mein Partner auch vegan sein?', 'answer': 'Das ist eine persönliche Entscheidung. Viele vegane Menschen sind mit Nicht-Veganern zusammen und es funktioniert. Der Schlüssel ist gegenseitiger Respekt. Wenn dir die ethischen Gründe für deine Ernährung sehr wichtig sind, könnte ein Partner mit ähnlichen Werten einfacher sein, aber nicht unbedingt notwendig.'}"
-  - "{'question': 'Wie spreche ich die vegane Ernährung in meinem Dating-Profil an?', 'answer': 'Du könntest es beiläufig erwähnen, ohne es zu überbelasten: "Ich bin leidenschaftliche Veganerin und liebe es, neue Restaurants auszuprobieren." Dies filtert natürlich Menschen heraus, denen das nicht passt, und zieht jemanden an, der es verstehen kann oder respektiert.'}"
-  - "{'question': 'Was mache ich, wenn mein Date Fleisch isst und ich das unangenehm finde?', 'answer': 'Kommuniziere offen, ohne wertend zu sein. Du kannst sagen: "Ich respektiere deine Wahl. Mir wäre es angenehm, zusammen in veganen Restaurants zu essen." Wenn du absolut nicht mit jemandem zusammen sein kannst, der nicht vegan ist, ist das in Ordnung – das ist dein Wert.'}"
+  - question: "Sollte mein Partner auch vegan sein?"
+    answer: "Das ist eine persönliche Entscheidung. Viele vegane Menschen sind mit Nicht-Veganern zusammen und es funktioniert. Der Schlüssel ist gegenseitiger Respekt. Wenn dir die ethischen Gründe für deine Ernährung sehr wichtig sind, könnte ein Partner mit ähnlichen Werten einfacher sein, aber nicht unbedingt notwendig."
+  - question: "Wie spreche ich die vegane Ernährung in meinem Dating-Profil an?"
+    answer: "Du könntest es beiläufig erwähnen, ohne es zu überbelasten: \"Ich bin leidenschaftliche Veganerin und liebe es, neue Restaurants auszuprobieren.\" Dies filtert natürlich Menschen heraus, denen das nicht passt, und zieht jemanden an, der es verstehen kann oder respektiert."
+  - question: "Was mache ich, wenn mein Date Fleisch isst und ich das unangenehm finde?"
+    answer: "Kommuniziere offen, ohne wertend zu sein. Du kannst sagen: \"Ich respektiere deine Wahl. Mir wäre es angenehm, zusammen in veganen Restaurants zu essen.\" Wenn du absolut nicht mit jemandem zusammen sein kannst, der nicht vegan ist, ist das in Ordnung – das ist dein Wert."
 ---
 Als Veganer/in ins Dating einzusteigen kann zusätzliche Ebenen der Komplexität hinzufügen. Nicht nur musst du schauen, ob es chemisch zwischen dir und einer Person passt, sondern auch ob eure Lebensstile kompatibel sind. Das ist aber völlig managebar, und viele vegane Menschen finden erfüllende Beziehungen.
 

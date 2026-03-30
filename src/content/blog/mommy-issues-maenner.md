@@ -15,9 +15,12 @@ keywords:
 draft: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Was sind Mommy Issues bei Männern?', 'answer': 'Beziehungsmuster die durch eine überinvolvierte, narzisstische oder emotional abwesende Mutter entstanden sind. Sie zeigen sich als Bindungsangst, übermäßige Abhängigkeit von Frauen oder emotionale Unreife.'}"
-  - "{'question': 'Wie erkenne ich Mommy Issues bei meinem Partner?', 'answer': 'Anzeichen: Er vergleicht dich mit seiner Mutter, seine Mutter hat immer Vorrang, er erwartet mütterliche Fürsorge von dir, oder er kann keine emotionale Reife zeigen.'}"
-  - "{'question': 'Kann ein Mann mit Mommy Issues eine gesunde Beziehung führen?', 'answer': 'Ja — wenn er sich seiner Muster bewusst ist und bereit ist daran zu arbeiten. Ohne Bewusstsein und Bereitschaft zur Veränderung wird sich das Muster in jeder Beziehung wiederholen.'}"
+  - question: "Was sind Mommy Issues bei Männern?"
+    answer: "Beziehungsmuster die durch eine überinvolvierte, narzisstische oder emotional abwesende Mutter entstanden sind. Sie zeigen sich als Bindungsangst, übermäßige Abhängigkeit von Frauen oder emotionale Unreife."
+  - question: "Wie erkenne ich Mommy Issues bei meinem Partner?"
+    answer: "Anzeichen: Er vergleicht dich mit seiner Mutter, seine Mutter hat immer Vorrang, er erwartet mütterliche Fürsorge von dir, oder er kann keine emotionale Reife zeigen."
+  - question: "Kann ein Mann mit Mommy Issues eine gesunde Beziehung führen?"
+    answer: "Ja — wenn er sich seiner Muster bewusst ist und bereit ist daran zu arbeiten. Ohne Bewusstsein und Bereitschaft zur Veränderung wird sich das Muster in jeder Beziehung wiederholen."
 ---
 
 Du sitzt im Zimmer mit deinem Freund als seine Mutter anruft. Er unterbricht sofort, nimmt das Gespräch an. Deine Worte sind plötzlich unwichtig. Nach einer Stunde legt er auf.

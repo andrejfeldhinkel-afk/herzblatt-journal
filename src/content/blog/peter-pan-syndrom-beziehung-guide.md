@@ -17,11 +17,16 @@ keywords:
   - "Beziehungsreihe"
 draft: false
 faq:
-  - "{'question': 'Was ist das Peter-Pan-Syndrom?', 'answer': 'Das Peter-Pan-Syndrom ist ein psychologisches Muster, bei dem eine erwachsene Person bewusst oder unbewusst weigert, Verantwortung zu übernehmen und sich wie ein Erwachsener zu verhalten. Sie bleiben in einer mentalen Kindheit stecken, vermeiden Verpflichtungen und wollen, dass das Leben spielerisch und konsequenzlos bleibt.'}"
-  - "{'question': 'Ist das Peter-Pan-Syndrom das gleiche wie ADHD oder eine Depression?', 'answer': 'Nein. Es gibt Überlappungen in den Symptomen – beide können zur Vermeidung von Verantwortung führen – aber die Ursachen sind unterschiedlich. ADHD ist neurologisch, Depression ist ein Stimmungszustand. Peter-Pan-Syndrom ist ein psychologisches Muster, das Vermeidung und Unreife beinhaltet. Ein Psychologe kann die Unterschied diagnostizieren.'}"
-  - "{'question': 'Kann jemand mit Peter-Pan-Syndrom sich ändern?', 'answer': 'Ja, aber nur wenn sie erkennen, dass es ein Problem ist, und sich selbst ändern wollen. Menschen mit Peter-Pan-Syndrom sehen oft ihre Unreife nicht als Problem – sie sehen die Anforderungen der Erwachsenheit als das Problem. Wenn sie nicht bereit sind, ihre Muster zu untersuchen, wird nicht viel Veränderung geschehen.'}"
-  - "{'question': 'Ist Peter-Pan-Syndrom häufiger bei Männern oder Frauen?', 'answer': 'Kulturell wird es mehr bei Männern beobachtet, aber es kann beide Geschlechter betreffen. Gesellschaftliche Erwartungen ermöglichen oft männliche Unreife, während weibliche Unreife mehr kritisiert wird. Das bedeutet nicht, dass Frauen nicht das Syndrom haben – nur dass es möglicherweise unterdiagnostiziert wird.'}"
-  - "{'question': 'Mein Partner wird nie erwachsen. Sollte ich bleiben?', 'answer': 'Das ist deine Entscheidung, aber bedenke: Du kannst ihn nicht zwingen, erwachsen zu werden. Wenn du bleibst, akzeptierst du wahrscheinlich, dass diese Dynamik ein Teil deiner Beziehung bleiben wird. Wenn du Einsamkeit, finanzielle Belastung, oder emotionale Verschleppung nicht aushalten kannst, ist es möglicherweise Zeit zu gehen.'}"
+  - question: "Was ist das Peter-Pan-Syndrom?"
+    answer: "Das Peter-Pan-Syndrom ist ein psychologisches Muster, bei dem eine erwachsene Person bewusst oder unbewusst weigert, Verantwortung zu übernehmen und sich wie ein Erwachsener zu verhalten. Sie bleiben in einer mentalen Kindheit stecken, vermeiden Verpflichtungen und wollen, dass das Leben spielerisch und konsequenzlos bleibt."
+  - question: "Ist das Peter-Pan-Syndrom das gleiche wie ADHD oder eine Depression?"
+    answer: "Nein. Es gibt Überlappungen in den Symptomen – beide können zur Vermeidung von Verantwortung führen – aber die Ursachen sind unterschiedlich. ADHD ist neurologisch, Depression ist ein Stimmungszustand. Peter-Pan-Syndrom ist ein psychologisches Muster, das Vermeidung und Unreife beinhaltet. Ein Psychologe kann die Unterschied diagnostizieren."
+  - question: "Kann jemand mit Peter-Pan-Syndrom sich ändern?"
+    answer: "Ja, aber nur wenn sie erkennen, dass es ein Problem ist, und sich selbst ändern wollen. Menschen mit Peter-Pan-Syndrom sehen oft ihre Unreife nicht als Problem – sie sehen die Anforderungen der Erwachsenheit als das Problem. Wenn sie nicht bereit sind, ihre Muster zu untersuchen, wird nicht viel Veränderung geschehen."
+  - question: "Ist Peter-Pan-Syndrom häufiger bei Männern oder Frauen?"
+    answer: "Kulturell wird es mehr bei Männern beobachtet, aber es kann beide Geschlechter betreffen. Gesellschaftliche Erwartungen ermöglichen oft männliche Unreife, während weibliche Unreife mehr kritisiert wird. Das bedeutet nicht, dass Frauen nicht das Syndrom haben – nur dass es möglicherweise unterdiagnostiziert wird."
+  - question: "Mein Partner wird nie erwachsen. Sollte ich bleiben?"
+    answer: "Das ist deine Entscheidung, aber bedenke: Du kannst ihn nicht zwingen, erwachsen zu werden. Wenn du bleibst, akzeptierst du wahrscheinlich, dass diese Dynamik ein Teil deiner Beziehung bleiben wird. Wenn du Einsamkeit, finanzielle Belastung, oder emotionale Verschleppung nicht aushalten kannst, ist es möglicherweise Zeit zu gehen."
 ---
 ## Die Mythen von Peter Pan und die reale psychologie des Syndroms
 

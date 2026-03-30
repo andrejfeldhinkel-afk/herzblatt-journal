@@ -15,9 +15,12 @@ keywords:
   - "65+ Dating"
   - "Online Dating Sicherheit"
 faq:
-  - "{'question': 'Ist Online-Dating sicher für Senioren?', 'answer': 'Es kann sein, wenn Sie vorsichtig sind. Verwenden Sie gut etablierte Apps. Teilen Sie keine sensiblen Informationen früh. Treffen Sie sich an öffentlichen Orten. Erzählen Sie Freunden oder Familie, wo Sie sind.'}"
-  - "{'question': 'Welche Dating-Apps sind am besten für Senioren?', 'answer': 'OurTime und SilverSingles sind spezialisiert auf 50+ und 55+. Match und eHarmony haben auch eine älter Demographik. Vermeiden Sie apps wie Tinder, die jünger sind.'}"
-  - "{'question': 'Ich bin technisch unbehilflich. Kann ich immer noch Online-Dating versuchen?', 'answer': 'Ja. Fragen Sie einen Enkel oder Freund, um Ihnen zu helfen. Dating-Apps sind gebaut, um einfach zu sein. Es könnte anfangs verwirrend sein, aber Sie werden es bekommen.'}"
+  - question: "Ist Online-Dating sicher für Senioren?"
+    answer: "Es kann sein, wenn Sie vorsichtig sind. Verwenden Sie gut etablierte Apps. Teilen Sie keine sensiblen Informationen früh. Treffen Sie sich an öffentlichen Orten. Erzählen Sie Freunden oder Familie, wo Sie sind."
+  - question: "Welche Dating-Apps sind am besten für Senioren?"
+    answer: "OurTime und SilverSingles sind spezialisiert auf 50+ und 55+. Match und eHarmony haben auch eine älter Demographik. Vermeiden Sie apps wie Tinder, die jünger sind."
+  - question: "Ich bin technisch unbehilflich. Kann ich immer noch Online-Dating versuchen?"
+    answer: "Ja. Fragen Sie einen Enkel oder Freund, um Ihnen zu helfen. Dating-Apps sind gebaut, um einfach zu sein. Es könnte anfangs verwirrend sein, aber Sie werden es bekommen."
 ---
 Online-Dating für Senioren ist wachsen schnell. Und es macht Sinn – es gibt mehr aktive, einzelne Senioren als je zuvor, und sie verdienen die Chance, die Liebe zu finden. Aber Online-Dating für über 65 hat ihre eigenen Herausforderungen. In diesem Leitfaden erfahren Sie, wie Sie sicher und erfolgreich über 65 Online-Dating können.
 

@@ -15,10 +15,14 @@ keywords:
 draft: false
 featured: false
 faq:
-  - "{'question': 'Wie lange dauert es, Vertrauen aufzubauen?', 'answer': 'Das variiert. Grundvertrauen kann in einigen Wochen aufgebaut werden, aber tiefes Vertrauen braucht Monate oder Jahre. Es wächst durch Konsistenz und Zuverlässigkeit.'}"
-  - "{'question': 'Was tun nach einem Vertrauensbruch?', 'answer': 'Ehrliche Kommunikation ist essentiell. Der Partner, der schuld ist, muss Verantwortung übernehmen. Mit Therapie und Geduld kann Vertrauen wiederhergestellt werden, aber nicht immer.'}"
-  - "{'question': 'Kann man nach Untreue vertrauen?', 'answer': 'Es ist möglich, aber schwierig. Beide Partner müssen wollen. Der untreue Partner muss volle Transparenz zeigen. Es braucht viel Zeit und oft Paartherapie.'}"
-  - "{'question': 'Wie erkenne ich, dass ich meinem Partner vertrauen kann?', 'answer': 'Wenn er konsistent seine Worte mit Taten unterstützt, transparent ist, keine Überraschungen schafft, und sich in Konflikten loyal zeigt. Vertrauen wächst durch Beständigkeit.'}"
+  - question: "Wie lange dauert es, Vertrauen aufzubauen?"
+    answer: "Das variiert. Grundvertrauen kann in einigen Wochen aufgebaut werden, aber tiefes Vertrauen braucht Monate oder Jahre. Es wächst durch Konsistenz und Zuverlässigkeit."
+  - question: "Was tun nach einem Vertrauensbruch?"
+    answer: "Ehrliche Kommunikation ist essentiell. Der Partner, der schuld ist, muss Verantwortung übernehmen. Mit Therapie und Geduld kann Vertrauen wiederhergestellt werden, aber nicht immer."
+  - question: "Kann man nach Untreue vertrauen?"
+    answer: "Es ist möglich, aber schwierig. Beide Partner müssen wollen. Der untreue Partner muss volle Transparenz zeigen. Es braucht viel Zeit und oft Paartherapie."
+  - question: "Wie erkenne ich, dass ich meinem Partner vertrauen kann?"
+    answer: "Wenn er konsistent seine Worte mit Taten unterstützt, transparent ist, keine Überraschungen schafft, und sich in Konflikten loyal zeigt. Vertrauen wächst durch Beständigkeit."
 ---
 Vertrauen ist nicht nur ein wichtiger Bestandteil einer glücklichen [beziehung](/blog/adhs-und-beziehung-komplett-guide/) — es ist das Fundament, auf dem alles andere aufgebaut wird. Ohne Vertrauen können zwei Menschen noch so große Gefühle füreinander haben, doch die Beziehung wird immer instabil bleiben. In diesem Artikel erfährst du, wie du bewusst Vertrauen in deiner Partnerschaft aufbaust, festigst und sogar nach Enttäuschungen wiederherstellen kannst.
 

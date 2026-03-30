@@ -15,10 +15,14 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Ist eine Beziehungspause das gleiche wie eine Trennung?', 'answer': 'Nein, aber eine Beziehungspause ohne klare Regeln kann zu einer Trennung führen. Der Unterschied liegt in den Absichten und Grenzen, die ihr setzt.'}"
-  - "{'question': 'Wie lange sollte eine Beziehungspause dauern?', 'answer': 'Idealerweise 4-12 Wochen. Eine zu kurze Pause hilft nicht, eine zu lange wird zu einer de-facto-Trennung. Es hängt davon ab, was ihr klären müsst.'}"
-  - "{'question': 'Was darf man in einer Beziehungspause?', 'answer': 'Das müsst ihr zusammen klären. Typisch: Zeit für sich alleine, Zeit mit Freunden, an sich selbst arbeiten. Kontakt vermeiden hilft bei der Klarheit.'}"
-  - "{'question': 'Können Beziehungspausen funktionieren?', 'answer': 'Ja, wenn beide Partner echte Veränderungen vornehmen und nicht nur Zeit absitzen. Etwa 30-40% der Paare, die eine Pause machen, kommen stärker zurück.'}"
+  - question: "Ist eine Beziehungspause das gleiche wie eine Trennung?"
+    answer: "Nein, aber eine Beziehungspause ohne klare Regeln kann zu einer Trennung führen. Der Unterschied liegt in den Absichten und Grenzen, die ihr setzt."
+  - question: "Wie lange sollte eine Beziehungspause dauern?"
+    answer: "Idealerweise 4-12 Wochen. Eine zu kurze Pause hilft nicht, eine zu lange wird zu einer de-facto-Trennung. Es hängt davon ab, was ihr klären müsst."
+  - question: "Was darf man in einer Beziehungspause?"
+    answer: "Das müsst ihr zusammen klären. Typisch: Zeit für sich alleine, Zeit mit Freunden, an sich selbst arbeiten. Kontakt vermeiden hilft bei der Klarheit."
+  - question: "Können Beziehungspausen funktionieren?"
+    answer: "Ja, wenn beide Partner echte Veränderungen vornehmen und nicht nur Zeit absitzen. Etwa 30-40% der Paare, die eine Pause machen, kommen stärker zurück."
 ---
 
 ## Beziehungspause: Sinnvoll oder Anfang vom Ende?

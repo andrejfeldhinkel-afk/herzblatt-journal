@@ -14,9 +14,12 @@ draft: false
 image: "/images/photos/dating-klagenfurt.webp"
 imageAlt: "Klagenfurt"
 faq:
-  - "{'question': 'Wo lernt man in Klagenfurt Singles kennen?', 'answer': 'In Klagenfurt kannst du Singles an vielen Orten kennenlernen: An der Uni im Bereich rund um den Campus, in den beliebten Cafés und Bars am Alter Platz, beim Joggen oder Radfahren entlang des Wörthersees, in den Strandbädern während der warmen Jahreszeit, und in den angesagten Lokalen im Lendkanal-Viertel. Auch Events und Veranstaltungen am Wörthersee sind perfekt zum Leute-Kennenlernen.'}"
-  - "{'question': 'Was sind die besten Date-Ideen in Klagenfurt?', 'answer': 'Klassische Date-Ideen sind ein Spaziergang am Wörthersee-Ufer, besonders zum Sonnenuntergang, ein romantisches Abendessen in der Altstadt, ein Besuch im Minimundus oder Europapark, Radfahren rund um den See, oder ein Picknick in einem der schönen Parks. Im Sommer sind Strandbäder perfekt für lockere Dates, im Winter gemütliche Cafés und Bars.'}"
-  - "{'question': 'Gibt es eine gute Single-Szene in Klagenfurt?', 'answer': 'Ja, Klagenfurt hat eine lebendige Single- und Dating-Szene, besonders unter jungen Erwachsenen und Studierenden. Die Stadt bietet viele Orte zum Kennenlernen, regelmäßige Events und Veranstaltungen, sowie ein entspanntes südliches Flair, das Flirten natürlich macht. Die Uni-Studierenden bringen Energie und Dynamik in die Stadt, und es gibt genug Möglichkeiten, andere Singles zu treffen'}"
+  - question: "Wo lernt man in Klagenfurt Singles kennen?"
+    answer: "In Klagenfurt kannst du Singles an vielen Orten kennenlernen: An der Uni im Bereich rund um den Campus, in den beliebten Cafés und Bars am Alter Platz, beim Joggen oder Radfahren entlang des Wörthersees, in den Strandbädern während der warmen Jahreszeit, und in den angesagten Lokalen im Lendkanal-Viertel. Auch Events und Veranstaltungen am Wörthersee sind perfekt zum Leute-Kennenlernen."
+  - question: "Was sind die besten Date-Ideen in Klagenfurt?"
+    answer: "Klassische Date-Ideen sind ein Spaziergang am Wörthersee-Ufer, besonders zum Sonnenuntergang, ein romantisches Abendessen in der Altstadt, ein Besuch im Minimundus oder Europapark, Radfahren rund um den See, oder ein Picknick in einem der schönen Parks. Im Sommer sind Strandbäder perfekt für lockere Dates, im Winter gemütliche Cafés und Bars."
+  - question: "Gibt es eine gute Single-Szene in Klagenfurt?"
+    answer: "Ja, Klagenfurt hat eine lebendige Single- und Dating-Szene, besonders unter jungen Erwachsenen und Studierenden. Die Stadt bietet viele Orte zum Kennenlernen, regelmäßige Events und Veranstaltungen, sowie ein entspanntes südliches Flair, das Flirten natürlich macht. Die Uni-Studierenden bringen Energie und Dynamik in die Stadt, und es gibt genug Möglichkeiten, andere Singles zu treffen"
 ---
 ## dating in Klagenfurt: Die ultimative Guide für Singles
 

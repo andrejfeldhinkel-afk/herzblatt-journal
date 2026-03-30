@@ -15,11 +15,16 @@ keywords:
 draft: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Warum streiten wir ständig über Kleinigkeiten?', 'answer': 'Streit über Kleinigkeiten ist fast nie über die Kleinigkeit. Dahinter stecken unausgesprochene Bedürfnisse: nach Respekt, Wertschätzung, Kontrolle oder Aufmerksamkeit.'}"
-  - "{'question': 'Wie viel Streit ist in einer Beziehung normal?', 'answer': 'Gelegentliche Konflikte sind gesund und normal. Wenn ihr aber täglich oder mehrmals pro Woche heftig streitet und euch danach nicht versöhnt, ist das ein Warnsignal.'}"
-  - "{'question': 'Können wir den Dauerstreit alleine lösen?', 'answer': 'Manchmal ja, mit neuen Kommunikations-Tools. Aber wenn ihr seit Monaten in der Streit-Spirale steckt, kann eine Paartherapie helfen, die Muster zu durchbrechen.'}"
-  - "{'question': 'Ist ständiges Streiten normal am Anfang einer Beziehung?', 'answer': 'Nein, das ist es nicht. Am Anfang gibt es weniger zu streiten, weil alles neu ist. Wenn ihr von Anfang an ständig streitet, ist das ein Zeichen dass die Grundlagen (Respekt, Verständnis) shaky sind.'}"
-  - "{'question': 'Wann sollten wir über Trennung sprechen?', 'answer': 'Wenn der Streit nicht mehr Lösungsprozess ist sondern nur noch Zerstörung. Wenn einer oder beide von euch kein Interesse mehr hat, die Dinge zu reparieren. Wenn das Streiten mehr Energie kostet als die Beziehung gibt.'}"
+  - question: "Warum streiten wir ständig über Kleinigkeiten?"
+    answer: "Streit über Kleinigkeiten ist fast nie über die Kleinigkeit. Dahinter stecken unausgesprochene Bedürfnisse: nach Respekt, Wertschätzung, Kontrolle oder Aufmerksamkeit."
+  - question: "Wie viel Streit ist in einer Beziehung normal?"
+    answer: "Gelegentliche Konflikte sind gesund und normal. Wenn ihr aber täglich oder mehrmals pro Woche heftig streitet und euch danach nicht versöhnt, ist das ein Warnsignal."
+  - question: "Können wir den Dauerstreit alleine lösen?"
+    answer: "Manchmal ja, mit neuen Kommunikations-Tools. Aber wenn ihr seit Monaten in der Streit-Spirale steckt, kann eine Paartherapie helfen, die Muster zu durchbrechen."
+  - question: "Ist ständiges Streiten normal am Anfang einer Beziehung?"
+    answer: "Nein, das ist es nicht. Am Anfang gibt es weniger zu streiten, weil alles neu ist. Wenn ihr von Anfang an ständig streitet, ist das ein Zeichen dass die Grundlagen (Respekt, Verständnis) shaky sind."
+  - question: "Wann sollten wir über Trennung sprechen?"
+    answer: "Wenn der Streit nicht mehr Lösungsprozess ist sondern nur noch Zerstörung. Wenn einer oder beide von euch kein Interesse mehr hat, die Dinge zu reparieren. Wenn das Streiten mehr Energie kostet als die Beziehung gibt."
 ---
 
 ## Der Moment als dir klar wird: Das ist nicht normal

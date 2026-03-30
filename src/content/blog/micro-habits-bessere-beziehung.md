@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Was sind Micro-Habits in der Beziehung?', 'answer': 'Micro-Habits sind winzige, tägliche Handlungen die weniger als 5 Minuten dauern und automatisch ablaufen: Ein Guten-Morgen-Kuss, eine Dankbarkeits-Nachricht, 6 Sekunden Umarmung. Klein aber über die Zeit transformativ.'}"
-  - "{'question': 'Wie lange dauert es bis ein Micro-Habit wirkt?', 'answer': 'Studien zeigen dass neue Gewohnheiten 21-66 Tage brauchen um sich zu festigen. Die gute Nachricht: Schon nach einer Woche konsequenter Micro-Habits berichten die meisten Paare von spürbaren Veränderungen.'}"
-  - "{'question': 'Kann man eine kaputte Beziehung mit Micro-Habits retten?', 'answer': 'Micro-Habits allein retten keine Beziehung in der schweren Krise. Aber sie sind ein mächtiges Werkzeug als Teil eines größeren Veränderungsprozesses. Oft sind es genau diese kleinen Gesten die zeigen: Ich bemühe mich.'}"
-  - "{'question': 'Was ist der wichtigste Micro-Habit für Paare?', 'answer': 'Die 6-Sekunden-Umarmung. Forschung zeigt dass Umarmungen ab 6 Sekunden Oxytocin freisetzen — das Bindungshormon. Einmal täglich bewusst lang umarmen ist der einfachste Weg zu mehr Verbundenheit.'}"
+  - question: "Was sind Micro-Habits in der Beziehung?"
+    answer: "Micro-Habits sind winzige, tägliche Handlungen die weniger als 5 Minuten dauern und automatisch ablaufen: Ein Guten-Morgen-Kuss, eine Dankbarkeits-Nachricht, 6 Sekunden Umarmung. Klein aber über die Zeit transformativ."
+  - question: "Wie lange dauert es bis ein Micro-Habit wirkt?"
+    answer: "Studien zeigen dass neue Gewohnheiten 21-66 Tage brauchen um sich zu festigen. Die gute Nachricht: Schon nach einer Woche konsequenter Micro-Habits berichten die meisten Paare von spürbaren Veränderungen."
+  - question: "Kann man eine kaputte Beziehung mit Micro-Habits retten?"
+    answer: "Micro-Habits allein retten keine Beziehung in der schweren Krise. Aber sie sind ein mächtiges Werkzeug als Teil eines größeren Veränderungsprozesses. Oft sind es genau diese kleinen Gesten die zeigen: Ich bemühe mich."
+  - question: "Was ist der wichtigste Micro-Habit für Paare?"
+    answer: "Die 6-Sekunden-Umarmung. Forschung zeigt dass Umarmungen ab 6 Sekunden Oxytocin freisetzen — das Bindungshormon. Einmal täglich bewusst lang umarmen ist der einfachste Weg zu mehr Verbundenheit."
 ---Du fragst dich wahrscheinlich: "Micro-Habits? Das klingt nach noch einer Selbsthilfe-Idee die nichts ändert." Verständlich. Aber hier ist das Paradoxe: Die größten Veränderungen entstehen oft nicht durch große Versprechen und Drama, sondern durch kleine, wiederholte Handlungen. James Clear hat das mit seinem Bestseller "Atomic Habits" gezeigt — und genau dieses Prinzip funktioniert auch in deiner [beziehung](/blog/adhs-und-beziehung-komplett-guide/).
 
 **Micro-Habits sind das Geheimnis**: Sie sind so klein dass du dich nicht überfordert fühlst, aber konsequent praktiziert verändern sie deine Beziehung fundamental. Ein Guten-Morgen-Kuss kostet 30 Sekunden. Eine bewusste Frage wie "Wie war dein Tag wirklich?" kostet 2 Minuten. Zusammengefasst? Das ist deine Liebesrevolution.

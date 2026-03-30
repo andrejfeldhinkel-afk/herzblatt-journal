@@ -16,11 +16,16 @@ keywords:
   - "Angst"
   - "Dating"
 faq:
-  - "{'question': 'Was ist Commitment Phobia oder Bindungsangst?', 'answer': 'Commitment Phobia ist eine irrationale Angst vor langfristiger Bindung. Menschen mit Bindungsangst wollen emotionale Nähe, aber die Idee von langfristiger Verpflichtung ängstigt sie extremst. Das kann zu Vermeidung, Sabotage, oder ständigen Ausstiegs-Gedanken führen — auch wenn die Beziehung gut ist.'}"
-  - "{'question': 'Ist Commitment Phobia das gleiche wie avoidant attachment?', 'answer': 'Nein, sie sind verwandt, aber nicht das gleiche. Avoidant attachment ist ein Bindungsstil, der in der Kindheit entwickelt wird — eine Person ist unkomfortabel mit emotionaler Nähe. Commitment Phobia ist spezifisch eine Angst vor Commitment und kann mit verschiedenen Bindungsstilen koexistieren. Du kannst secure attachment haben, aber Commitment Phobia entwickeln.'}"
-  - "{'question': 'Kann man Commitment Phobia überwinden?', 'answer': 'Ja, mit Arbeit. Es erfordert Therapie, Selbstbewusstsein, und ein Wunsch zu heilen. Es erfordert auch Zeit. Binding Phobia zu überwinden ist ein Prozess, nicht ein schneller Fix. Aber es ist möglich, wenn die Person bereit ist, die Arbeit zu machen.'}"
-  - "{'question': 'Wie datiert man jemanden mit Commitment Phobia?', 'answer': "Mit großer Geduld und klaren Grenzen. Du kannst dich nicht jemanden 'heilen', aber du kannst präsent sein. Die wichtigste Sache ist, deine eigenen Grenzen zu kennen. Wie lange wirst du warten? Wann ist es genug? Du kannst nicht jemanden retten, der nicht gerettet werden will."}"
-  - "{'question': 'Wann sollte ich jemanden mit Commitment Phobia verlassen?', 'answer': "Wenn: 1) Sie weigern sich, Hilfe zu suchen, 2) Sie sabotieren ständig die Beziehung, 3) Du anfängst zu glauben, dass du nicht 'gut genug' bist, 4) Deine psychische Gesundheit leidet, 5) Du merkst, dass deine Grenzen nicht respektiert werden, oder 6) Du Jahre wartest und nichts ändert sich."}"
+  - question: "Was ist Commitment Phobia oder Bindungsangst?"
+    answer: "Commitment Phobia ist eine irrationale Angst vor langfristiger Bindung. Menschen mit Bindungsangst wollen emotionale Nähe, aber die Idee von langfristiger Verpflichtung ängstigt sie extremst. Das kann zu Vermeidung, Sabotage, oder ständigen Ausstiegs-Gedanken führen — auch wenn die Beziehung gut ist."
+  - question: "Ist Commitment Phobia das gleiche wie avoidant attachment?"
+    answer: "Nein, sie sind verwandt, aber nicht das gleiche. Avoidant attachment ist ein Bindungsstil, der in der Kindheit entwickelt wird — eine Person ist unkomfortabel mit emotionaler Nähe. Commitment Phobia ist spezifisch eine Angst vor Commitment und kann mit verschiedenen Bindungsstilen koexistieren. Du kannst secure attachment haben, aber Commitment Phobia entwickeln."
+  - question: "Kann man Commitment Phobia überwinden?"
+    answer: "Ja, mit Arbeit. Es erfordert Therapie, Selbstbewusstsein, und ein Wunsch zu heilen. Es erfordert auch Zeit. Binding Phobia zu überwinden ist ein Prozess, nicht ein schneller Fix. Aber es ist möglich, wenn die Person bereit ist, die Arbeit zu machen."
+  - question: "Wie datiert man jemanden mit Commitment Phobia?"
+    answer: "Mit großer Geduld und klaren Grenzen. Du kannst dich nicht jemanden 'heilen', aber du kannst präsent sein. Die wichtigste Sache ist, deine eigenen Grenzen zu kennen. Wie lange wirst du warten? Wann ist es genug? Du kannst nicht jemanden retten, der nicht gerettet werden will."
+  - question: "Wann sollte ich jemanden mit Commitment Phobia verlassen?"
+    answer: "Wenn: 1) Sie weigern sich, Hilfe zu suchen, 2) Sie sabotieren ständig die Beziehung, 3) Du anfängst zu glauben, dass du nicht 'gut genug' bist, 4) Deine psychische Gesundheit leidet, 5) Du merkst, dass deine Grenzen nicht respektiert werden, oder 6) Du Jahre wartest und nichts ändert sich."
 ---## Was ist Commitment Phobia wirklich?
 
 Commitment Phobia ist nicht dasselbe wie "Ich bin nicht bereit für eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/)". Es ist eine tiefere, irrationale Angst vor dem Konzept der Bindung selbst.

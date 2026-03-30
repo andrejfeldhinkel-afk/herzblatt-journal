@@ -11,11 +11,16 @@ tags:
 keywords: "autismus dating, asperger beziehung, autismus partnersuche, neurodivergent dating"
 description: "Ein umfassender Leitfaden für autistische Menschen, die Liebe finden möchten. Konkrete Tipps zu Kommunikation, Sensitivitäten, Disclosure und langfristigen Beziehungen."
 faq:
-  - "{'question': 'Sollte ich meinem Partner früh sagen, dass ich autistisch bin?', 'answer': 'Ja, es ist wichtig, dies relativ früh zu teilen, aber nicht unbedingt beim ersten Treffen. Ein Partner, der dein Autismus akzeptiert, ist grundlegend für eine funktionierende Beziehung.'}"
-  - "{'question': 'Kann ich romantisch sein, wenn ich autistisch bin?', 'answer': 'Absolut. Autistische Romantik kann anders aussehen – weniger oberflächliche Gesten, mehr tiefe, konsistente Handlungen. Sie ist oft authentischer und bedeutungsvoller.'}"
-  - "{'question': 'Wie gehe ich mit Sensory-Überforderung beim Dating um?', 'answer': 'Wähle Orte mit weniger Reizen: Parks, ruhige Cafés, private Treffen. Ein verständnisvoller Partner wird diese Bedürfnisse unterstützen und nicht persönlich nehmen.'}"
-  - "{'question': 'Ist es schwieriger für autistische Menschen, lange Beziehungen zu führen?', 'answer': 'Nein. Viele autistische Menschen sind in glücklichen, stabilen Beziehungen. Der Schlüssel liegt in offener, direkter Kommunikation und gegenseitigem Verständnis.'}"
-  - "{'question': 'Sollte ich meine Autismus-Diagnose vor einem Date offenbaren?', 'answer': 'Das ist deine Entscheidung, aber Transparenz hilft dir, jemanden zu finden, der wirklich zu dir passt. Es spart Zeit und emotionale Energie.'}"
+  - question: "Sollte ich meinem Partner früh sagen, dass ich autistisch bin?"
+    answer: "Ja, es ist wichtig, dies relativ früh zu teilen, aber nicht unbedingt beim ersten Treffen. Ein Partner, der dein Autismus akzeptiert, ist grundlegend für eine funktionierende Beziehung."
+  - question: "Kann ich romantisch sein, wenn ich autistisch bin?"
+    answer: "Absolut. Autistische Romantik kann anders aussehen – weniger oberflächliche Gesten, mehr tiefe, konsistente Handlungen. Sie ist oft authentischer und bedeutungsvoller."
+  - question: "Wie gehe ich mit Sensory-Überforderung beim Dating um?"
+    answer: "Wähle Orte mit weniger Reizen: Parks, ruhige Cafés, private Treffen. Ein verständnisvoller Partner wird diese Bedürfnisse unterstützen und nicht persönlich nehmen."
+  - question: "Ist es schwieriger für autistische Menschen, lange Beziehungen zu führen?"
+    answer: "Nein. Viele autistische Menschen sind in glücklichen, stabilen Beziehungen. Der Schlüssel liegt in offener, direkter Kommunikation und gegenseitigem Verständnis."
+  - question: "Sollte ich meine Autismus-Diagnose vor einem Date offenbaren?"
+    answer: "Das ist deine Entscheidung, aber Transparenz hilft dir, jemanden zu finden, der wirklich zu dir passt. Es spart Zeit und emotionale Energie."
 ---
 ## Autismus und Dating: Liebe finden auf dem Spektrum
 

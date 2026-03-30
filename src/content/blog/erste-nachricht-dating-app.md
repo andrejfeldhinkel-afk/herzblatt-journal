@@ -10,9 +10,12 @@ image: "/images/photos/erste-nachricht-online-dating.webp"
 imageAlt: "Hände tippen eine Nachricht in eine Dating-App"
 featured: false
 faq:
-  - "{'question': 'Sollte das Mädchen oder der Junge die erste Nachricht schreiben?', 'answer': 'Idealerweise schreiben beide, wenn die Chemie stimmt. Aber wenn du Interesse hast, schreib. Der Mythos, dass nur eine bestimmte Person schreiben sollte, ist überholt. Authentizität schlägt Spielchen.'}"
-  - "{'question': 'Was ist wenn meine erste Nachricht ignoriert wird?', 'answer': 'Das passiert – und es ist nicht persönlich. Menschen sind beschäftigt oder nicht interessiert. Schreib eine zweite Nachricht nicht. Akzeptiere es und geh weiter. Es gibt viele andere Menschen.'}"
-  - "{'question': 'Sollte meine erste Nachricht humorvoll sein oder ernsthaft?', 'answer': 'Authentisch ist besser als humorvoll. Ein guter Witz kann helfen, aber viele Menschen versuchen, lustig zu sein und scheitern. Seien ehrlich, interessiert und real. Das ist attraktiver.'}"
+  - question: "Sollte das Mädchen oder der Junge die erste Nachricht schreiben?"
+    answer: "Idealerweise schreiben beide, wenn die Chemie stimmt. Aber wenn du Interesse hast, schreib. Der Mythos, dass nur eine bestimmte Person schreiben sollte, ist überholt. Authentizität schlägt Spielchen."
+  - question: "Was ist wenn meine erste Nachricht ignoriert wird?"
+    answer: "Das passiert – und es ist nicht persönlich. Menschen sind beschäftigt oder nicht interessiert. Schreib eine zweite Nachricht nicht. Akzeptiere es und geh weiter. Es gibt viele andere Menschen."
+  - question: "Sollte meine erste Nachricht humorvoll sein oder ernsthaft?"
+    answer: "Authentisch ist besser als humorvoll. Ein guter Witz kann helfen, aber viele Menschen versuchen, lustig zu sein und scheitern. Seien ehrlich, interessiert und real. Das ist attraktiver."
 ---Du hast ein Match. Dein Herz klopft. Jetzt musst du schreiben. Aber was?
 
 Die erste Nachricht ist entscheidend. Sie entscheidet, ob die andere Person antwortet oder dich ignoriert. Die Strategien, die tatsächlich funktionieren.

@@ -15,9 +15,12 @@ draft: false
 image: "/images/photos/dating-wien.webp"
 imageAlt: "Wien"
 faq:
-  - "{'question': 'Wo lernt man in Wien Singles kennen?', 'answer': 'Die beste Gelegenheit bieten die Wiener Kaffeehäuser, Bars im Bermudadreieck und Veranstaltungsorte wie das Flex an der Donau. Auch Events in den verschiedenen Bezirken wie Neubau oder Mariahilf sind perfekt zum Kennenlernen. Nicht zu unterschätzen sind auch zufällige Begegnungen im Café oder beim Spaziergang entlang des Donaukanals.'}"
-  - "{'question': 'Was sind die besten Date-Ideen in Wien?', 'answer': 'Klassische Varianten sind Kaffee oder Cocktails in einem gemütlichen Café, ein Spaziergang zur Schönbrunn oder zum Riesenrad, ein Besuch im Prater oder entlang des Donaukanals. Für Dinner-Dates bieten sich die zahlreichen Restaurants vom gehobenen Fine-Dining bis zur gemütlichen Beisln an. Besonders beliebt sind auch Kunstausstellungen oder ein Konzertbesuch.'}"
-  - "{'question': 'Gibt es eine gute Single-Szene in Wien?', 'answer': 'Ja, Wien hat eine lebendige Single-Szene, besonders in Bezirken wie dem 7. (Neubau), dem 6. (Mariahilf) und rund um das Bermudadreieck. Regelmäßig finden Single-Events und Networking-Treffen statt. Die liberale und weltoffen Kultur macht Wien zu einem guten Ort für alle, die aktiv auf Partnersuche sind'}"
+  - question: "Wo lernt man in Wien Singles kennen?"
+    answer: "Die beste Gelegenheit bieten die Wiener Kaffeehäuser, Bars im Bermudadreieck und Veranstaltungsorte wie das Flex an der Donau. Auch Events in den verschiedenen Bezirken wie Neubau oder Mariahilf sind perfekt zum Kennenlernen. Nicht zu unterschätzen sind auch zufällige Begegnungen im Café oder beim Spaziergang entlang des Donaukanals."
+  - question: "Was sind die besten Date-Ideen in Wien?"
+    answer: "Klassische Varianten sind Kaffee oder Cocktails in einem gemütlichen Café, ein Spaziergang zur Schönbrunn oder zum Riesenrad, ein Besuch im Prater oder entlang des Donaukanals. Für Dinner-Dates bieten sich die zahlreichen Restaurants vom gehobenen Fine-Dining bis zur gemütlichen Beisln an. Besonders beliebt sind auch Kunstausstellungen oder ein Konzertbesuch."
+  - question: "Gibt es eine gute Single-Szene in Wien?"
+    answer: "Ja, Wien hat eine lebendige Single-Szene, besonders in Bezirken wie dem 7. (Neubau), dem 6. (Mariahilf) und rund um das Bermudadreieck. Regelmäßig finden Single-Events und Networking-Treffen statt. Die liberale und weltoffen Kultur macht Wien zu einem guten Ort für alle, die aktiv auf Partnersuche sind"
 ---
 ## dating in Wien: Die besten Orte & Tipps für erfolgreiche Dates
 

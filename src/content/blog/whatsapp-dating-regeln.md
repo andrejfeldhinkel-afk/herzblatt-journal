@@ -13,8 +13,10 @@ draft: false
 image: "/images/photos/erste-nachricht-online-dating.webp"
 imageAlt: "WhatsApp-Dating: Regeln für das Schreiben mit dem "
 faq:
-  - "{'question': 'Was ist das Wichtigste bei whatsapp-dating?', 'answer': 'Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst.'}"
-  - "{'question': 'Wo finde ich Hilfe zum Thema whatsapp-dating?', 'answer': 'Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung.'}"
+  - question: "Was ist das Wichtigste bei whatsapp-dating?"
+    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
+  - question: "Wo finde ich Hilfe zum Thema whatsapp-dating?"
+    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
 ---
 
 ## Die neuen dating-Regeln für WhatsApp

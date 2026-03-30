@@ -16,11 +16,16 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Ist es normal, keinen Sex mehr zu haben?', 'answer': 'Ja, viele Paare erleben Phasen ohne Sex. Das ist nicht per se problematisch – kommt aber auf die zugrundeliegenden Ursachen an. Wenn beide Partner damit zufrieden sind, ist es okay. Wenn einer leidet, braucht es Aufmerksamkeit.'}"
-  - "{'question': 'Wie lange ist eine sexlose Phase noch normal?', 'answer': 'Das hängt vom Paar ab. Wochen sind normal (beruflicher Stress, Trauer). Monate deuten auf ein tieferes Problem hin. Wenn es über ein Jahr andauert, solltet ihr aktiv werden.'}"
-  - "{'question': 'Kann man das Liebesleben zurückgewinnen?', 'answer': 'Absolut – wenn beide Partner bereit sind. Meist reichen kleine Veränderungen: mehr Zeit füreinander, weniger Stress, ehrliche Kommunikation und eventuell professionelle Unterstützung.'}"
-  - "{'question': 'Was ist ein Deal-Breaker – Sex oder Liebe?', 'answer': "Das ist individuell verschieden. Manche Menschen können ohne Sex glücklich sein, andere nicht. Wichtig ist, dass beide Partner offen über ihre Bedürfnisse sprechen – nicht, was ‚richtig' ist."}"
-  - "{'question': 'Sollten wir einen Therapeuten aufsuchen?', 'answer': 'Wenn das Problem länger anhält, keine Kommunikation möglich ist oder es emotionale Tiefschichten gibt, kann ein Paartherapeut oder Sexualtherapeut sehr hilfreich sein.'}"
+  - question: "Ist es normal, keinen Sex mehr zu haben?"
+    answer: "Ja, viele Paare erleben Phasen ohne Sex. Das ist nicht per se problematisch – kommt aber auf die zugrundeliegenden Ursachen an. Wenn beide Partner damit zufrieden sind, ist es okay. Wenn einer leidet, braucht es Aufmerksamkeit."
+  - question: "Wie lange ist eine sexlose Phase noch normal?"
+    answer: "Das hängt vom Paar ab. Wochen sind normal (beruflicher Stress, Trauer). Monate deuten auf ein tieferes Problem hin. Wenn es über ein Jahr andauert, solltet ihr aktiv werden."
+  - question: "Kann man das Liebesleben zurückgewinnen?"
+    answer: "Absolut – wenn beide Partner bereit sind. Meist reichen kleine Veränderungen: mehr Zeit füreinander, weniger Stress, ehrliche Kommunikation und eventuell professionelle Unterstützung."
+  - question: "Was ist ein Deal-Breaker – Sex oder Liebe?"
+    answer: "Das ist individuell verschieden. Manche Menschen können ohne Sex glücklich sein, andere nicht. Wichtig ist, dass beide Partner offen über ihre Bedürfnisse sprechen – nicht, was ‚richtig' ist."
+  - question: "Sollten wir einen Therapeuten aufsuchen?"
+    answer: "Wenn das Problem länger anhält, keine Kommunikation möglich ist oder es emotionale Tiefschichten gibt, kann ein Paartherapeut oder Sexualtherapeut sehr hilfreich sein."
 ---
 
 Es beginnt unmerklich. Ein paar Wochen ohne Sex. Dann ein Monat. Irgendwann realisiert ihr: Es ist ein halbes Jahr her. Und keiner von euch weiß wirklich, wie das passiert ist.

@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Was ist Emotionsregulation?', 'answer': 'Emotionsregulation ist die Fähigkeit, deine Gefühle bewusst wahrzunehmen, zu verstehen und angemessen darauf zu reagieren — statt impulsiv zu handeln oder Emotionen komplett zu unterdrücken.'}"
-  - "{'question': 'Warum überreagiere ich in meiner Beziehung?', 'answer': 'Überreaktionen entstehen oft durch unverarbeitete Erfahrungen, unsichere Bindungsmuster oder emotionale Trigger aus der Vergangenheit. Dein Nervensystem reagiert auf aktuelle Situationen mit der Intensität alter Verletzungen.'}"
-  - "{'question': 'Wie lerne ich, meine Emotionen besser zu regulieren?', 'answer': 'Beginne mit Selbstwahrnehmung: Erkenne deine Trigger und körperlichen Signale. Übe Techniken wie bewusstes Atmen, Pausieren vor dem Reagieren und das Benennen deiner Gefühle. Langfristig helfen Therapie und Achtsamkeitspraxis.'}"
-  - "{'question': 'Ist Emotionen unterdrücken das Gleiche wie Emotionsregulation?', 'answer': 'Nein, das Gegenteil. Unterdrücken bedeutet, Gefühle zu ignorieren — was langfristig zu Explosionen oder psychischen Problemen führt. Emotionsregulation bedeutet, Gefühle zu fühlen UND bewusst zu entscheiden, wie du darauf reagierst.'}"
+  - question: "Was ist Emotionsregulation?"
+    answer: "Emotionsregulation ist die Fähigkeit, deine Gefühle bewusst wahrzunehmen, zu verstehen und angemessen darauf zu reagieren — statt impulsiv zu handeln oder Emotionen komplett zu unterdrücken."
+  - question: "Warum überreagiere ich in meiner Beziehung?"
+    answer: "Überreaktionen entstehen oft durch unverarbeitete Erfahrungen, unsichere Bindungsmuster oder emotionale Trigger aus der Vergangenheit. Dein Nervensystem reagiert auf aktuelle Situationen mit der Intensität alter Verletzungen."
+  - question: "Wie lerne ich, meine Emotionen besser zu regulieren?"
+    answer: "Beginne mit Selbstwahrnehmung: Erkenne deine Trigger und körperlichen Signale. Übe Techniken wie bewusstes Atmen, Pausieren vor dem Reagieren und das Benennen deiner Gefühle. Langfristig helfen Therapie und Achtsamkeitspraxis."
+  - question: "Ist Emotionen unterdrücken das Gleiche wie Emotionsregulation?"
+    answer: "Nein, das Gegenteil. Unterdrücken bedeutet, Gefühle zu ignorieren — was langfristig zu Explosionen oder psychischen Problemen führt. Emotionsregulation bedeutet, Gefühle zu fühlen UND bewusst zu entscheiden, wie du darauf reagierst."
 ---
 
 ## Der Moment, in dem alles eskaliert

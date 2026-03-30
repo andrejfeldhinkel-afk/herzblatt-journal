@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - "{'question': 'Was genau ist Chemistry beim Dating?', 'answer': "Chemistry ist das Zusammenspiel von physischer Anziehung, emotionaler Resonanz und intellektueller Stimulation. Es fühlt sich an wie ein 'Klick' — das Gespräch fließt, die Zeit verfliegt, und du willst mehr von dieser Person."}"
-  - "{'question': 'Kann Chemistry erst später entstehen?', 'answer': 'Absolut. Slow-burn Chemistry ist häufiger als man denkt. Studien zeigen dass in über 30% der glücklichen Langzeitbeziehungen die Chemistry erst nach dem zweiten oder dritten Date kam. Gib ihm Zeit.'}"
-  - "{'question': 'Ist starke Chemistry immer ein gutes Zeichen?', 'answer': 'Nicht unbedingt. Sehr intensive, sofortige Chemistry kann auch ein Warnsignal sein — besonders wenn du toxische Beziehungsmuster hast. Manchmal verwechseln wir Vertrautheit mit Gesundheit. Bekanntes fühlt sich wie Chemistry an.'}"
-  - "{'question': 'Was tun wenn die Chemistry nur von einer Seite kommt?', 'answer': 'Das ist schmerzhaft aber normal. Du kannst Chemistry nicht erzwingen. Wenn nach 2-3 Dates auf deiner Seite nichts kommt, ist es fair — zu dir und zum anderen — ehrlich zu sein und loszulassen.'}"
+  - question: "Was genau ist Chemistry beim Dating?"
+    answer: "Chemistry ist das Zusammenspiel von physischer Anziehung, emotionaler Resonanz und intellektueller Stimulation. Es fühlt sich an wie ein 'Klick' — das Gespräch fließt, die Zeit verfliegt, und du willst mehr von dieser Person."
+  - question: "Kann Chemistry erst später entstehen?"
+    answer: "Absolut. Slow-burn Chemistry ist häufiger als man denkt. Studien zeigen dass in über 30% der glücklichen Langzeitbeziehungen die Chemistry erst nach dem zweiten oder dritten Date kam. Gib ihm Zeit."
+  - question: "Ist starke Chemistry immer ein gutes Zeichen?"
+    answer: "Nicht unbedingt. Sehr intensive, sofortige Chemistry kann auch ein Warnsignal sein — besonders wenn du toxische Beziehungsmuster hast. Manchmal verwechseln wir Vertrautheit mit Gesundheit. Bekanntes fühlt sich wie Chemistry an."
+  - question: "Was tun wenn die Chemistry nur von einer Seite kommt?"
+    answer: "Das ist schmerzhaft aber normal. Du kannst Chemistry nicht erzwingen. Wenn nach 2-3 Dates auf deiner Seite nichts kommt, ist es fair — zu dir und zum anderen — ehrlich zu sein und loszulassen."
 ---
 **Du sitzt auf einem Date und alles fühlt sich richtig an.** Das Gespräch fließt ohne Pausen. Ihr lacht zur gleichen Zeit. Es gibt diese subtile physische Anziehung. Der Blick hält länger als normal. Dein Herz schlägt schneller. Du fragst dich: "Ist das Chemistry?"
 

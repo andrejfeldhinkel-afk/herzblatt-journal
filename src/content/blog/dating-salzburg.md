@@ -14,9 +14,12 @@ draft: false
 image: "/images/photos/dating-salzburg.webp"
 imageAlt: "Salzburg"
 faq:
-  - "{'question': 'Wo lernt man in Salzburg Singles kennen?', 'answer': 'In Salzburg gibt es mehrere Möglichkeiten, neue Menschen kennenzulernen. Die beliebtesten Orte sind Bars und Clubs in der Steingasse, die gemütlichen Cafés in der Altstadt, sowie Veranstaltungen rund um die Salzburger Festspiele. Auch die Uni-Szene in der Nähe der Paris Lodron Universität ist eine gute Anlaufstelle für junge Singles.'}"
-  - "{'question': 'Was sind die besten Date-Ideen in Salzburg?', 'answer': 'Romantische Date-Ideen in Salzburg sind: ein Spaziergang durch die Altstadt mit Besuch der Hohensalzburg Festung, ein Picknick im Mirabellgarten, eine Bootsfahrt auf der Salzach, oder ein Restaurantbesuch mit Blick auf die Festung. Auch ein gemeinsamer Besuch bei den Salzburger Festspielen oder ein Konzert in einer der vielen Kirchen schafft eine romantische Atmosphäre.'}"
-  - "{'question': 'Gibt es eine gute Single-Szene in Salzburg?', 'answer': 'Ja, Salzburg hat eine lebendige Single-Szene, besonders unter jungen Erwachsenen und Studenten. Die Stadt ist bekannt für ihre kulturelle Szene mit Konzerten, Theatern und Festivals. Beliebte Treffpunkte sind die Bars in der Steingasse, Clubs im Nonntal und moderne Cafés in der Altstadt. Die Festspielzeit von Juli bis August bringt zusätzlich viele Besucher in die Stadt'}"
+  - question: "Wo lernt man in Salzburg Singles kennen?"
+    answer: "In Salzburg gibt es mehrere Möglichkeiten, neue Menschen kennenzulernen. Die beliebtesten Orte sind Bars und Clubs in der Steingasse, die gemütlichen Cafés in der Altstadt, sowie Veranstaltungen rund um die Salzburger Festspiele. Auch die Uni-Szene in der Nähe der Paris Lodron Universität ist eine gute Anlaufstelle für junge Singles."
+  - question: "Was sind die besten Date-Ideen in Salzburg?"
+    answer: "Romantische Date-Ideen in Salzburg sind: ein Spaziergang durch die Altstadt mit Besuch der Hohensalzburg Festung, ein Picknick im Mirabellgarten, eine Bootsfahrt auf der Salzach, oder ein Restaurantbesuch mit Blick auf die Festung. Auch ein gemeinsamer Besuch bei den Salzburger Festspielen oder ein Konzert in einer der vielen Kirchen schafft eine romantische Atmosphäre."
+  - question: "Gibt es eine gute Single-Szene in Salzburg?"
+    answer: "Ja, Salzburg hat eine lebendige Single-Szene, besonders unter jungen Erwachsenen und Studenten. Die Stadt ist bekannt für ihre kulturelle Szene mit Konzerten, Theatern und Festivals. Beliebte Treffpunkte sind die Bars in der Steingasse, Clubs im Nonntal und moderne Cafés in der Altstadt. Die Festspielzeit von Juli bis August bringt zusätzlich viele Besucher in die Stadt"
 ---
 ## dating in Salzburg: Liebe in der Mozart-Stadt
 

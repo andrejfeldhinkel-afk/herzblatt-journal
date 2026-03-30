@@ -17,10 +17,14 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Ist Neid auf den Partner normal?', 'answer': 'Ja — und häufiger als du denkst. Studien zeigen, dass bis zu 30% der Menschen in Beziehungen gelegentlich Neid auf ihren Partner empfinden. Es wird zum Problem, wenn du es nicht erkennst oder unterdrückst.'}"
-  - "{'question': 'Warum bin ich neidisch auf meinen Partner?', 'answer': 'Oft steckt dahinter ein Ungleichgewicht: Du fühlst dich in einem Lebensbereich benachteiligt — Karriere, Freundschaften, Anerkennung. Der Neid zeigt dir eigentlich, was du dir selbst wünschst.'}"
-  - "{'question': 'Wie spreche ich Neid gegenüber meinem Partner an?', 'answer': "Ehrlich und verletzlich. Sag: 'Ich merke, dass ich neidisch bin, und das fühlt sich schrecklich an. Es hat nichts mit dir zu tun — es zeigt mir, dass ich in meinem eigenen Leben etwas verändern möchte.'"}"
-  - "{'question': 'Kann Neid eine Beziehung zerstören?', 'answer': 'Ja — wenn er unausgesprochen bleibt. Unbehandelter Neid verwandelt sich in passive Aggression, Sabotage oder emotionalen Rückzug. Erkannt und besprochen kann er aber zum Wachstumsmotor werden.'}"
+  - question: "Ist Neid auf den Partner normal?"
+    answer: "Ja — und häufiger als du denkst. Studien zeigen, dass bis zu 30% der Menschen in Beziehungen gelegentlich Neid auf ihren Partner empfinden. Es wird zum Problem, wenn du es nicht erkennst oder unterdrückst."
+  - question: "Warum bin ich neidisch auf meinen Partner?"
+    answer: "Oft steckt dahinter ein Ungleichgewicht: Du fühlst dich in einem Lebensbereich benachteiligt — Karriere, Freundschaften, Anerkennung. Der Neid zeigt dir eigentlich, was du dir selbst wünschst."
+  - question: "Wie spreche ich Neid gegenüber meinem Partner an?"
+    answer: "Ehrlich und verletzlich. Sag: 'Ich merke, dass ich neidisch bin, und das fühlt sich schrecklich an. Es hat nichts mit dir zu tun — es zeigt mir, dass ich in meinem eigenen Leben etwas verändern möchte.'"
+  - question: "Kann Neid eine Beziehung zerstören?"
+    answer: "Ja — wenn er unausgesprochen bleibt. Unbehandelter Neid verwandelt sich in passive Aggression, Sabotage oder emotionalen Rückzug. Erkannt und besprochen kann er aber zum Wachstumsmotor werden."
 ---
 ## Einleitung: Das Tabu-Gefühl — Neid auf die Person, die du liebst
 

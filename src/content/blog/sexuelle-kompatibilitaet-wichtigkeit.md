@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Was genau bedeutet sexuelle Kompatibilität?', 'answer': 'Es geht nicht darum, dass ihr exakt die gleichen Vorlieben habt. Sexuelle Kompatibilität bedeutet, dass ihr offen über eure Wünsche kommuniziert, Kompromisse findet und beide sich sexuell erfüllt und respektiert fühlen.'}"
-  - "{'question': 'Kann sich sexuelle Kompatibilität verbessern?', 'answer': 'Ja, deutlich sogar. Durch offene Kommunikation, gemeinsames Experimentieren und manchmal professionelle Begleitung können Paare ihre sexuelle Kompatibilität signifikant verbessern. Es braucht aber den Willen beider Partner.'}"
-  - "{'question': 'Wie wichtig ist Sex in einer Beziehung wirklich?', 'answer': 'Forschung zeigt: Wenn Sex gut läuft, macht er etwa 15-20% der Beziehungszufriedenheit aus. Wenn er schlecht läuft, steigt sein negativer Einfluss auf 50-70%. Sex ist also kein Bonus — er ist fundamental.'}"
-  - "{'question': 'Soll man beim Dating früh über sexuelle Vorlieben reden?', 'answer': 'Nicht beim ersten Date, aber definitiv bevor ihr exklusiv werdet. Ein offenes Gespräch über Erwartungen, Grenzen und Wünsche spart beiden langfristig Frustration und Schmerz.'}"
+  - question: "Was genau bedeutet sexuelle Kompatibilität?"
+    answer: "Es geht nicht darum, dass ihr exakt die gleichen Vorlieben habt. Sexuelle Kompatibilität bedeutet, dass ihr offen über eure Wünsche kommuniziert, Kompromisse findet und beide sich sexuell erfüllt und respektiert fühlen."
+  - question: "Kann sich sexuelle Kompatibilität verbessern?"
+    answer: "Ja, deutlich sogar. Durch offene Kommunikation, gemeinsames Experimentieren und manchmal professionelle Begleitung können Paare ihre sexuelle Kompatibilität signifikant verbessern. Es braucht aber den Willen beider Partner."
+  - question: "Wie wichtig ist Sex in einer Beziehung wirklich?"
+    answer: "Forschung zeigt: Wenn Sex gut läuft, macht er etwa 15-20% der Beziehungszufriedenheit aus. Wenn er schlecht läuft, steigt sein negativer Einfluss auf 50-70%. Sex ist also kein Bonus — er ist fundamental."
+  - question: "Soll man beim Dating früh über sexuelle Vorlieben reden?"
+    answer: "Nicht beim ersten Date, aber definitiv bevor ihr exklusiv werdet. Ein offenes Gespräch über Erwartungen, Grenzen und Wünsche spart beiden langfristig Frustration und Schmerz."
 ---
 Sex ist nicht einfach Sex. Das ist die große Lüge die wir dir erzählt haben. Sex ist in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/) ein Ort wo verschiedene Dinge zusammenkommen: Nähe, Vertrauen, Verletzlichkeit, Identität, Sicherheit, Lust und Macht. Wenn diese Dinge nicht zusammenpassen, wird der Sex entweder frustrierend, schmerzhaft oder einfach fade.
 

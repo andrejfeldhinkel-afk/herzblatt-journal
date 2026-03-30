@@ -13,8 +13,10 @@ draft: false
 image: "/images/photos/erste-nachricht-online-dating.webp"
 imageAlt: "Person tippt Nachricht auf dem Smartphone"
 faq:
-  - "{'question': 'Was schreibe ich als erstes auf einer Dating-App?', 'answer': 'Beziehe dich auf etwas Konkretes im Profil der Person. Eine personalisierte Frage wirkt viel besser als ein einfaches Hallo.'}"
-  - "{'question': 'Wie lang sollte die erste Nachricht sein?', 'answer': 'Zwei bis drei Sätze sind ideal. Lang genug, um Interesse zu zeigen, aber kurz genug, um nicht überwältigend zu wirken.'}"
+  - question: "Was schreibe ich als erstes auf einer Dating-App?"
+    answer: "Beziehe dich auf etwas Konkretes im Profil der Person. Eine personalisierte Frage wirkt viel besser als ein einfaches Hallo."
+  - question: "Wie lang sollte die erste Nachricht sein?"
+    answer: "Zwei bis drei Sätze sind ideal. Lang genug, um Interesse zu zeigen, aber kurz genug, um nicht überwältigend zu wirken."
 ---
 
 ## Warum die erste Nachricht so entscheidend ist

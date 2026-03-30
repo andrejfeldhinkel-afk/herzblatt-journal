@@ -18,11 +18,16 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Kann eine Beziehung nach Untreue wirklich heilen?', 'answer': 'Ja, aber nur unter zwei Bedingungen: Der Partner, der Vertrauen brach, muss echt reue zeigen und bereit sein, tiefe Veränderungen zu machen. Und der verletzte Partner muss willens sein zu vergeben — nicht zu vergessen, aber zu verzeihen. Das ist ein sehr aktiver Prozess, nicht automatisch.'}"
-  - "{'question': 'Wie lange dauert es, Vertrauen wieder aufzubauen?', 'answer': 'Es braucht normalerweise 2-5 Jahre. Der erste Monat ist Schock. Die nächsten 6 Monate sind Wiederaufbau. Das nächste bis zwei Jahre sind das eigentliche Heilen. Es geht nicht linear — es gibt gute und schlimme Tage.'}"
-  - "{'question': 'Sollte ich es meinem Partner vergeben, wenn er um Vergebung bittet?', 'answer': "Nicht automatisch. Echte Vergebung ist nicht Schwäche — es ist eine Entscheidung, dich selbst nicht mehr an den Schmerz zu ketten. Aber echte Vergebung braucht Zeit. Und du darfst 'noch nicht' sagen. Das ist legitim und gesund."}"
-  - "{'question': 'Wie erkenne ich, ob mein Partner wirklich reue empfindet oder nur Angst vor Konsequenzen?', 'answer': 'Echte Reue zeigt sich durch Handlung, nicht nur Worte. Dein Partner nimmt Konsequenzen an (keine Ausreden), stellt sich deinen Fragen (auch schwierige), und ändert sein Verhalten über lange Zeit. Angst sieht so aus: Schnelle Besserung, gefolgt von altem Verhalten, wenn der Druck sinkt.'}"
-  - "{'question': 'Kann ich bleiben ohne zu vergeben — einfach weitermachen?', 'answer': 'Technisch ja, emotional nein. Wenn du nicht vergebend wirst, wirst du bitter. Du wirst dich immer wieder Szenen vorstellen, wirst der Person nicht vertrauen, wirst ständig überprüfend sein. Das ist keine Beziehung, das ist eine Überwachung. Das ist nicht fair — für dich und deinen Partner.'}"
+  - question: "Kann eine Beziehung nach Untreue wirklich heilen?"
+    answer: "Ja, aber nur unter zwei Bedingungen: Der Partner, der Vertrauen brach, muss echt reue zeigen und bereit sein, tiefe Veränderungen zu machen. Und der verletzte Partner muss willens sein zu vergeben — nicht zu vergessen, aber zu verzeihen. Das ist ein sehr aktiver Prozess, nicht automatisch."
+  - question: "Wie lange dauert es, Vertrauen wieder aufzubauen?"
+    answer: "Es braucht normalerweise 2-5 Jahre. Der erste Monat ist Schock. Die nächsten 6 Monate sind Wiederaufbau. Das nächste bis zwei Jahre sind das eigentliche Heilen. Es geht nicht linear — es gibt gute und schlimme Tage."
+  - question: "Sollte ich es meinem Partner vergeben, wenn er um Vergebung bittet?"
+    answer: "Nicht automatisch. Echte Vergebung ist nicht Schwäche — es ist eine Entscheidung, dich selbst nicht mehr an den Schmerz zu ketten. Aber echte Vergebung braucht Zeit. Und du darfst 'noch nicht' sagen. Das ist legitim und gesund."
+  - question: "Wie erkenne ich, ob mein Partner wirklich reue empfindet oder nur Angst vor Konsequenzen?"
+    answer: "Echte Reue zeigt sich durch Handlung, nicht nur Worte. Dein Partner nimmt Konsequenzen an (keine Ausreden), stellt sich deinen Fragen (auch schwierige), und ändert sein Verhalten über lange Zeit. Angst sieht so aus: Schnelle Besserung, gefolgt von altem Verhalten, wenn der Druck sinkt."
+  - question: "Kann ich bleiben ohne zu vergeben — einfach weitermachen?"
+    answer: "Technisch ja, emotional nein. Wenn du nicht vergebend wirst, wirst du bitter. Du wirst dich immer wieder Szenen vorstellen, wirst der Person nicht vertrauen, wirst ständig überprüfend sein. Das ist keine Beziehung, das ist eine Überwachung. Das ist nicht fair — für dich und deinen Partner."
 ---
 
 ## Nach dem großen Vertrauensbruch: Reden oder gehen?

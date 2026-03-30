@@ -15,9 +15,12 @@ keywords:
   - "Echte Anerkennung"
   - "Beziehung Kommunikation"
 faq:
-  - "{'question': 'Was ist der Unterschied zwischen einem echten Kompliment und Schmeichelei?', 'answer': "Ein echtes Kompliment ist spezifisch und unkonditioniert. Eine Schmeichelei ist vag und manipulativ. 'Du bist intelligent' ist Schmeichelei. 'Ich bewundere, wie du das Problem gelöst hast' ist ein echtes Kompliment."}"
-  - "{'question': 'Ist es zu oft, Komplimente zu geben?', 'answer': 'Nein, aber sie sollten bedeutungsvoll sein. Ein einmaliges täglich ist normalerweise perfekt. Zu viele Komplimente können falsch wirken.'}"
-  - "{'question': 'Was ist, wenn die andere Person nicht annimmt mein Kompliment?', 'answer': "Einige Leute sind nicht gut bei der Annahme von Komplimenten. Nicht nehmen es persönlich. Eine normale Antwort ist 'Danke' oder eine kurze Anerkennung. Beharren Sie nicht."}"
+  - question: "Was ist der Unterschied zwischen einem echten Kompliment und Schmeichelei?"
+    answer: "Ein echtes Kompliment ist spezifisch und unkonditioniert. Eine Schmeichelei ist vag und manipulativ. 'Du bist intelligent' ist Schmeichelei. 'Ich bewundere, wie du das Problem gelöst hast' ist ein echtes Kompliment."
+  - question: "Ist es zu oft, Komplimente zu geben?"
+    answer: "Nein, aber sie sollten bedeutungsvoll sein. Ein einmaliges täglich ist normalerweise perfekt. Zu viele Komplimente können falsch wirken."
+  - question: "Was ist, wenn die andere Person nicht annimmt mein Kompliment?"
+    answer: "Einige Leute sind nicht gut bei der Annahme von Komplimenten. Nicht nehmen es persönlich. Eine normale Antwort ist 'Danke' oder eine kurze Anerkennung. Beharren Sie nicht."
 ---
 Ein einfaches Kompliment kann jemanden ganzen Tag machen. Aber viele Leute geben Komplimente falsch – sie sind zu vag, zu manipulativ oder zu physisch fokussiert. In diesem Leitfaden erfahren Sie, wie Sie echte, aussagekräftige Komplimente machen, die tatsächlich ankommen.
 

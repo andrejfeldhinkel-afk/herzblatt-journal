@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "laura-weber"
 faq:
-  - "{'question': 'Kann Social Media eine Beziehung zerstören?', 'answer': 'Nicht direkt, aber es kann bestehende Probleme verstärken. Vergleiche mit anderen Paaren, Eifersucht durch Likes und DMs, und die ständige Ablenkung durch Scrollen sind echte Beziehungsstress-Faktoren.'}"
-  - "{'question': 'Sollte man als Paar Social Media Regeln haben?', 'answer': 'Ja, zumindest ein offenes Gespräch darüber. Fragen wie: Posten wir Beziehungsfotos? Wie gehen wir mit Ex-Partnern in den Followern um? Wann ist Handy-freie Zeit? Diese Klarheit verhindert Konflikte.'}"
-  - "{'question': 'Mein Partner liked ständig Fotos von anderen. Ist das ein Problem?', 'answer': 'Es kommt auf den Kontext an. Gelegentliche Likes sind normal. Wenn dein Partner aber gezielt bestimmte Profile abgrast oder dir das wiederholt Unbehagen bereitet, ist ein Gespräch nötig — über Grenzen, nicht über Schuld.'}"
-  - "{'question': 'Ist es gesund die Beziehung auf Social Media zu zeigen?', 'answer': 'In Maßen ja — es kann ein Ausdruck von Stolz und Verbundenheit sein. Wenn das Posten aber wichtiger wird als das Erleben, oder wenn du etwas inszenierst das nicht echt ist, wird es ungesund.'}"
+  - question: "Kann Social Media eine Beziehung zerstören?"
+    answer: "Nicht direkt, aber es kann bestehende Probleme verstärken. Vergleiche mit anderen Paaren, Eifersucht durch Likes und DMs, und die ständige Ablenkung durch Scrollen sind echte Beziehungsstress-Faktoren."
+  - question: "Sollte man als Paar Social Media Regeln haben?"
+    answer: "Ja, zumindest ein offenes Gespräch darüber. Fragen wie: Posten wir Beziehungsfotos? Wie gehen wir mit Ex-Partnern in den Followern um? Wann ist Handy-freie Zeit? Diese Klarheit verhindert Konflikte."
+  - question: "Mein Partner liked ständig Fotos von anderen. Ist das ein Problem?"
+    answer: "Es kommt auf den Kontext an. Gelegentliche Likes sind normal. Wenn dein Partner aber gezielt bestimmte Profile abgrast oder dir das wiederholt Unbehagen bereitet, ist ein Gespräch nötig — über Grenzen, nicht über Schuld."
+  - question: "Ist es gesund die Beziehung auf Social Media zu zeigen?"
+    answer: "In Maßen ja — es kann ein Ausdruck von Stolz und Verbundenheit sein. Wenn das Posten aber wichtiger wird als das Erleben, oder wenn du etwas inszenierst das nicht echt ist, wird es ungesund."
 ---
 
 Ihr hatte ein schönes Moment. Ihr seid zusammen am Strand, die Sonne geht unter, es ist wirklich magisch. Und dann passiert es: Dein Partner hält inne, positioniert die Kamera, macht zehn verschiedene Fotos.

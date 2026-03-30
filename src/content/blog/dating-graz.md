@@ -14,9 +14,12 @@ draft: false
 image: "/images/photos/dating-graz.webp"
 imageAlt: "Graz"
 faq:
-  - "{'question': 'Wo lernt man in Graz Singles kennen?', 'answer': 'Die beste Möglichkeit, Singles in Graz kennenzulernen, bieten die Cafés und Bars in der Altstadt, besonders in der Herrengasse und rund um das Kunsthaus. Der Lendplatz ist auch am Wochenende voller junger Menschen. Für systematischeres Kennenlernen sind natürlich auch Dating-Apps eine Option, aber die persönliche Begegnung im Café oder auf der Straße ist typisch für Graz.'}"
-  - "{'question': 'Was sind die besten Date-Ideen in Graz?', 'answer': 'Klassisch und romantisch sind Spaziergänge am Schlossberg mit Blick über die Stadt. Ein Kaffee im Kunsthaus oder ein Picknick auf der Murinsel schaffen gemütliche Atmosphäre. Für sportlichere Paare empfiehlt sich eine Radtour durch den Stadtpark oder hinaus zu den Weinbergen. Am Abend kann man wunderbar in einem der ausgezeichneten Restaurants in der Altstadt essen gehen oder in einer der trendigen Bars im Lend abhängen.'}"
-  - "{'question': 'Gibt es eine gute Single-Szene in Graz?', 'answer': 'Absolut! Graz hat eine lebendige und entspannte Single-Szene. Die Stadt ist studentisch geprägt, was bedeutet, dass es viele junge Menschen gibt, die offen zum Kennenlernen sind. Die Kneipen und Cafés sind ausgezeichnete Orte zum Abhängen, und Events wie Kunstausstellungen oder Markttage bringen Menschen zusammen. Die Grazerin und der Grazer sind generell freundlich und aufgeschlossen gegenüber neuen Bekanntschaften.'}"
+  - question: "Wo lernt man in Graz Singles kennen?"
+    answer: "Die beste Möglichkeit, Singles in Graz kennenzulernen, bieten die Cafés und Bars in der Altstadt, besonders in der Herrengasse und rund um das Kunsthaus. Der Lendplatz ist auch am Wochenende voller junger Menschen. Für systematischeres Kennenlernen sind natürlich auch Dating-Apps eine Option, aber die persönliche Begegnung im Café oder auf der Straße ist typisch für Graz."
+  - question: "Was sind die besten Date-Ideen in Graz?"
+    answer: "Klassisch und romantisch sind Spaziergänge am Schlossberg mit Blick über die Stadt. Ein Kaffee im Kunsthaus oder ein Picknick auf der Murinsel schaffen gemütliche Atmosphäre. Für sportlichere Paare empfiehlt sich eine Radtour durch den Stadtpark oder hinaus zu den Weinbergen. Am Abend kann man wunderbar in einem der ausgezeichneten Restaurants in der Altstadt essen gehen oder in einer der trendigen Bars im Lend abhängen."
+  - question: "Gibt es eine gute Single-Szene in Graz?"
+    answer: "Absolut! Graz hat eine lebendige und entspannte Single-Szene. Die Stadt ist studentisch geprägt, was bedeutet, dass es viele junge Menschen gibt, die offen zum Kennenlernen sind. Die Kneipen und Cafés sind ausgezeichnete Orte zum Abhängen, und Events wie Kunstausstellungen oder Markttage bringen Menschen zusammen. Die Grazerin und der Grazer sind generell freundlich und aufgeschlossen gegenüber neuen Bekanntschaften."
 ---
 ## dating in Graz: Liebe in Österreichs Genusshauptstadt
 

@@ -15,11 +15,16 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Ist Streiten in einer Beziehung normal?', 'answer': 'Ja, absolut. Paare, die nie streiten, haben oft nur gelernt, Konflikte zu vermeiden – das ist langfristig ungesünder als ehrliche, faire Auseinandersetzungen.'}"
-  - "{'question': 'Wie lange sollte ein Streit dauern?', 'answer': 'Productive Konflikte sollten zwischen 15 Minuten und einer Stunde dauern. Alles darüber hinaus wird emotional erschöpfend und führt zu Wiederholungen.'}"
-  - "{'question': 'Was sind die schlimmsten Verhaltensweisen beim Streiten?', 'answer': 'Die vier Horsemen nach Gottman sind Kritik, Verachtung, Verteidigungshaltung und Blockieren. Diese sind starke Indikatoren für zukünftige Trennung.'}"
-  - "{'question': 'Wann sollte man eine Pause beim Streiten machen?', 'answer': 'Wenn einer von euch körperlich aufgeregt wird (schneller Puls, Hitze, Anspannung), solltet ihr 20 Minuten Pause machen. Der Körper kann sonst nicht rational denken.'}"
-  - "{'question': 'Helfen Paartherapien bei Streitkultur?', 'answer': 'Ja, ein guter Therapeut bringt euch bei, wie ihr Konflikte gesünder kommuniziert. Es geht nicht darum, keine Konflikte zu haben, sondern diese konstruktiv zu lösen.'}"
+  - question: "Ist Streiten in einer Beziehung normal?"
+    answer: "Ja, absolut. Paare, die nie streiten, haben oft nur gelernt, Konflikte zu vermeiden – das ist langfristig ungesünder als ehrliche, faire Auseinandersetzungen."
+  - question: "Wie lange sollte ein Streit dauern?"
+    answer: "Productive Konflikte sollten zwischen 15 Minuten und einer Stunde dauern. Alles darüber hinaus wird emotional erschöpfend und führt zu Wiederholungen."
+  - question: "Was sind die schlimmsten Verhaltensweisen beim Streiten?"
+    answer: "Die vier Horsemen nach Gottman sind Kritik, Verachtung, Verteidigungshaltung und Blockieren. Diese sind starke Indikatoren für zukünftige Trennung."
+  - question: "Wann sollte man eine Pause beim Streiten machen?"
+    answer: "Wenn einer von euch körperlich aufgeregt wird (schneller Puls, Hitze, Anspannung), solltet ihr 20 Minuten Pause machen. Der Körper kann sonst nicht rational denken."
+  - question: "Helfen Paartherapien bei Streitkultur?"
+    answer: "Ja, ein guter Therapeut bringt euch bei, wie ihr Konflikte gesünder kommuniziert. Es geht nicht darum, keine Konflikte zu haben, sondern diese konstruktiv zu lösen."
 ---
 ## Warum Streitkultur die Grundlage jeder stabilen beziehung ist
 

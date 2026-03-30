@@ -14,10 +14,14 @@ draft: false
 image: "/images/photos/romantik-im-alltag.webp"
 imageAlt: "Glückliches Paar im Alltag"
 faq:
-  - "{'question': 'Sind kleine romantische Gesten wirklich wichtig?', 'answer': "Ja, absolut. Sie zeigen Gedanken und Aufmerksamkeit. Ein kurzes 'Ich denke an dich' ist oft wichtiger als ein teures Geschenk."}"
-  - "{'question': 'Wie finde ich Zeit für Romantik im stressigen Alltag?', 'answer': 'Es braucht keine Zeit. Romantik kann sein: eine Umarmung am Morgen, ein Lied singen, zusammen kochen, oder nachts Hand halten. Kleine Momente zählen.'}"
-  - "{'question': 'Was tun, wenn mein Partner nicht romantisch ist?', 'answer': 'Menschen zeigen Liebe unterschiedlich. Dein Partner könnte praktisch liebevoll sein statt romantisch. Sprecht darüber, was Romantik für euch beiden bedeutet.'}"
-  - "{'question': 'Sollte Romantik spontan oder geplant sein?', 'answer': 'Idealerweise beides. Spontane Momente sind schön, aber auch bewusste Planung zeigt, dass die Beziehung dir wichtig ist. Ein Ausgleich ist perfekt.'}"
+  - question: "Sind kleine romantische Gesten wirklich wichtig?"
+    answer: "Ja, absolut. Sie zeigen Gedanken und Aufmerksamkeit. Ein kurzes 'Ich denke an dich' ist oft wichtiger als ein teures Geschenk."
+  - question: "Wie finde ich Zeit für Romantik im stressigen Alltag?"
+    answer: "Es braucht keine Zeit. Romantik kann sein: eine Umarmung am Morgen, ein Lied singen, zusammen kochen, oder nachts Hand halten. Kleine Momente zählen."
+  - question: "Was tun, wenn mein Partner nicht romantisch ist?"
+    answer: "Menschen zeigen Liebe unterschiedlich. Dein Partner könnte praktisch liebevoll sein statt romantisch. Sprecht darüber, was Romantik für euch beiden bedeutet."
+  - question: "Sollte Romantik spontan oder geplant sein?"
+    answer: "Idealerweise beides. Spontane Momente sind schön, aber auch bewusste Planung zeigt, dass die Beziehung dir wichtig ist. Ein Ausgleich ist perfekt."
 ---
 ## Warum kleine Gesten wichtiger sind als große
 

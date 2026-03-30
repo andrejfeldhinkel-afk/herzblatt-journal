@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/beziehung-und-musik.webp"
 imageAlt: "Paar hört zusammen Musik mit Kopfhörern"
 faq:
-  - "{'question': 'Wie wichtig ist gemeinsamer Musikgeschmack in einer Beziehung?', 'answer': 'Wichtiger als viele denken. Musik beeinflusst die Stimmung, schafft Erinnerungen und zeigt, wie jemand Emotionen verarbeitet. Gleicher Geschmack ist nicht nötig, aber gegenseitige Toleranz schon.'}"
-  - "{'question': 'Was tun, wenn man komplett verschiedene Musik mag?', 'answer': 'Macht euch gegenseitig Playlists, geht auf Konzerte des anderen mit, und findet Kompromisse für gemeinsame Momente – im Auto, beim Kochen, beim Aufräumen.'}"
-  - "{'question': 'Kann Musik beim Dating helfen?', 'answer': 'Absolut. Eine gemeinsame Lieblingsband, ein Song, den ihr beide liebt – das schafft sofort Verbundenheit. Musik auf dem Dating-Profil ist ein unterschätzter Eisbrecher.'}"
+  - question: "Wie wichtig ist gemeinsamer Musikgeschmack in einer Beziehung?"
+    answer: "Wichtiger als viele denken. Musik beeinflusst die Stimmung, schafft Erinnerungen und zeigt, wie jemand Emotionen verarbeitet. Gleicher Geschmack ist nicht nötig, aber gegenseitige Toleranz schon."
+  - question: "Was tun, wenn man komplett verschiedene Musik mag?"
+    answer: "Macht euch gegenseitig Playlists, geht auf Konzerte des anderen mit, und findet Kompromisse für gemeinsame Momente – im Auto, beim Kochen, beim Aufräumen."
+  - question: "Kann Musik beim Dating helfen?"
+    answer: "Absolut. Eine gemeinsame Lieblingsband, ein Song, den ihr beide liebt – das schafft sofort Verbundenheit. Musik auf dem Dating-Profil ist ein unterschätzter Eisbrecher."
 ---
 
 Musik ist das, was zwei Menschen zum gleichen Zeitpunkt fühlen lässt – und genau das ist Beziehung in ihrer simplesten Form. Sie verbindet, sie erinnert, sie spricht Gefühle an, die Worte allein nicht ausdrücken können. Wenn du merkst, dass dein Partner denselben Song liebt wie du, wenn ihr beide bei demselben Lyrik-Teil anfangt zu weinen, wenn er/sie einen Song vorzuspielt und du erkennst sofort, warum das ausgerechnet DIESER Song ist – das sind Momente, in denen du merkst: "Dieser Mensch versteht mich."

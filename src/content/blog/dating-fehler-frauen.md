@@ -13,10 +13,14 @@ draft: false
 image: "/images/photos/dating-fehler-frauen.webp"
 imageAlt: "Illustration Dating-Fehler Frauen"
 faq:
-  - "{'question': 'Sollte ich beim Dating aktiv sein oder passiv warten?', 'answer': 'Sei aktiv, aber nicht bedürftig. Es ist völlig okay, das erste Gespräch zu starten oder eine zweite Runde zu vorschlagen. Selbstsicherheit ist attraktiv.'}"
-  - "{'question': 'Wie viel sollte ich von mir offenbaren?', 'answer': 'Sei ehrlich und authentisch, aber gib nicht alles auf einmal preis. Lass das andere Person Schichten von dir langsam entdecken — so bleibt die Spannung erhalten.'}"
-  - "{'question': 'Warum verliere ich interessante Menschen nach dem ersten Date?', 'answer': 'Das kann verschiedene Gründe haben: zu schnelle Nähe, zu viel Bedürftigkeit anzeigen, oder einfach fehlende Chemie. Kommuniziere offen und gib ihm etwas Raum.'}"
-  - "{'question': 'Sollte ich Spielchen beim Dating spielen?', 'answer': 'Nein. Authentizität siegt über Spielchen. Wenn jemand echtes Interesse an dir hat, wird er es dir zeigen — mit oder ohne Spielchen'}"
+  - question: "Sollte ich beim Dating aktiv sein oder passiv warten?"
+    answer: "Sei aktiv, aber nicht bedürftig. Es ist völlig okay, das erste Gespräch zu starten oder eine zweite Runde zu vorschlagen. Selbstsicherheit ist attraktiv."
+  - question: "Wie viel sollte ich von mir offenbaren?"
+    answer: "Sei ehrlich und authentisch, aber gib nicht alles auf einmal preis. Lass das andere Person Schichten von dir langsam entdecken — so bleibt die Spannung erhalten."
+  - question: "Warum verliere ich interessante Menschen nach dem ersten Date?"
+    answer: "Das kann verschiedene Gründe haben: zu schnelle Nähe, zu viel Bedürftigkeit anzeigen, oder einfach fehlende Chemie. Kommuniziere offen und gib ihm etwas Raum."
+  - question: "Sollte ich Spielchen beim Dating spielen?"
+    answer: "Nein. Authentizität siegt über Spielchen. Wenn jemand echtes Interesse an dir hat, wird er es dir zeigen — mit oder ohne Spielchen"
 ---
 ## Frauen und Dating: Die anderen Fallen
 

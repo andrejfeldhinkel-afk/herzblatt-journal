@@ -13,10 +13,14 @@ draft: false
 image: "/images/photos/erste-nachricht-online-dating.webp"
 imageAlt: "Illustration einer ersten Nachricht"
 faq:
-  - "{'question': 'Wie lang sollte die erste Nachricht sein?', 'answer': 'Kurz und prägnant — 2-3 Sätze reichen. Es sollte eine Aussage oder Frage sein, die zum Nachdenken anregt, nicht lange Monologe.'}"
-  - "{'question': 'Sollte ich persönliche Details erwähnen oder generisch schreiben?', 'answer': 'Personalisieren! Beziehe dich auf etwas aus dem Profil, das dir gefällt. Das zeigt echtes Interesse und nicht, dass du die gleiche Nachricht an alle sendest.'}"
-  - "{'question': 'Wie lange sollte ich auf eine Antwort warten, bevor ich nachfasse?', 'answer': 'Gib ihr 2-3 Tage. Wenn keine Antwort kommt, ist das auch eine Antwort. Es ist OK, weiterzumachen — nicht jeder wird auf dich reagieren.'}"
-  - "{'question': 'Was sind No-Gos bei der ersten Nachricht?', 'answer': 'Vermeide: Sexuelle Anspielungen, Annahmen über ihr Leben, zu viele Fragen auf einmal, oder Nachrichten, die du an viele schickst. Sei authentisch und respektvoll.'}"
+  - question: "Wie lang sollte die erste Nachricht sein?"
+    answer: "Kurz und prägnant — 2-3 Sätze reichen. Es sollte eine Aussage oder Frage sein, die zum Nachdenken anregt, nicht lange Monologe."
+  - question: "Sollte ich persönliche Details erwähnen oder generisch schreiben?"
+    answer: "Personalisieren! Beziehe dich auf etwas aus dem Profil, das dir gefällt. Das zeigt echtes Interesse und nicht, dass du die gleiche Nachricht an alle sendest."
+  - question: "Wie lange sollte ich auf eine Antwort warten, bevor ich nachfasse?"
+    answer: "Gib ihr 2-3 Tage. Wenn keine Antwort kommt, ist das auch eine Antwort. Es ist OK, weiterzumachen — nicht jeder wird auf dich reagieren."
+  - question: "Was sind No-Gos bei der ersten Nachricht?"
+    answer: "Vermeide: Sexuelle Anspielungen, Annahmen über ihr Leben, zu viele Fragen auf einmal, oder Nachrichten, die du an viele schickst. Sei authentisch und respektvoll."
 ---
 ## Die perfekte erste Nachricht beim Online-Dating: 15 Beispiele
 

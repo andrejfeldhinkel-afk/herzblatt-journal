@@ -14,10 +14,14 @@ draft: false
 image: "/images/photos/flirten-lernen.webp"
 imageAlt: "Illustration zum Thema Flirten lernen"
 faq:
-  - "{'question': 'Kann man Flirten lernen?', 'answer': 'Ja, absolut! Flirten ist eine Fähigkeit, nicht ein Talent. Mit Übung, Selbstvertrauen und echtem Interesse kannst du flirten meistern.'}"
-  - "{'question': 'Welche Zeichen deuten darauf hin, dass jemand mit dir flirtet?', 'answer': 'Positives Zeichen sind: Augenkontakt, Lachen über deine Witze, Haare spielen, Nähe suchen, Berührungen, und aktives Zuhören.'}"
-  - "{'question': 'Wie flirte ich ohne creepy zu wirken?', 'answer': 'Sei authentisch statt manipulativ, respektiere Grenzen, achte auf Körpersprache der anderen Person, und vermeide zu intensiv oder bedürftig zu wirken. Leicht und spielerisch ist der Schlüssel.'}"
-  - "{'question': 'Was sind die besten Flirt-Tipps?', 'answer': 'Halte Augenkontakt, lächle, stelle offene Fragen, spiegle Körpersprache subtil, und konzentriere dich auf echtes Interesse zeigen. Selbstvertrauen und Authentizität sind immer attraktiv.'}"
+  - question: "Kann man Flirten lernen?"
+    answer: "Ja, absolut! Flirten ist eine Fähigkeit, nicht ein Talent. Mit Übung, Selbstvertrauen und echtem Interesse kannst du flirten meistern."
+  - question: "Welche Zeichen deuten darauf hin, dass jemand mit dir flirtet?"
+    answer: "Positives Zeichen sind: Augenkontakt, Lachen über deine Witze, Haare spielen, Nähe suchen, Berührungen, und aktives Zuhören."
+  - question: "Wie flirte ich ohne creepy zu wirken?"
+    answer: "Sei authentisch statt manipulativ, respektiere Grenzen, achte auf Körpersprache der anderen Person, und vermeide zu intensiv oder bedürftig zu wirken. Leicht und spielerisch ist der Schlüssel."
+  - question: "Was sind die besten Flirt-Tipps?"
+    answer: "Halte Augenkontakt, lächle, stelle offene Fragen, spiegle Körpersprache subtil, und konzentriere dich auf echtes Interesse zeigen. Selbstvertrauen und Authentizität sind immer attraktiv."
 ---## Flirten lernen: Der ultimative Guide für Anfänger und Fortgeschrittene
 
 Flirten ist für viele Menschen eine verwirrende Angelegenheit. Manche denken, es ist eine angeborene Talent, das man entweder hat oder nicht. Aber das ist ein Mythos! Flirten ist eine Fähigkeit, die man trainieren kann — genauso wie Autofahren oder Kochen. Mit den richtigen Techniken und ein wenig Selbstvertrauen kannst du die Kunst des Flirtens meistern und echte Verbindungen aufbauen.

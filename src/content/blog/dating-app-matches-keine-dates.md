@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - "{'question': 'Warum antworten Matches nicht auf Nachrichten?', 'answer': 'Die häufigsten Gründe: deine erste Nachricht war zu generisch, die Person hat zu viele Matches gleichzeitig, das Interesse war nur oberflächlich, oder dein Profil hat beim zweiten Blick nicht überzeugt. Eine personalisierte erste Nachricht erhöht deine Antwortrate deutlich.'}"
-  - "{'question': 'Wie viele Matches braucht man für ein Date?', 'answer': 'Im Durchschnitt führt etwa jedes 10. bis 20. Match zu einem tatsächlichen Treffen. Wenn deine Quote deutlich schlechter ist, liegt es meistens an der Gesprächsführung oder am Timing beim Date-Vorschlag.'}"
-  - "{'question': 'Wann sollte man ein Treffen vorschlagen?', 'answer': 'Nach 3-7 Tagen Chat oder wenn das Gespräch natürlich fließt und ihr gemeinsame Interessen entdeckt habt. Warte nicht zu lange — nach 2 Wochen reinem Texten sinkt die Wahrscheinlichkeit eines Treffens drastisch.'}"
-  - "{'question': 'Was tun wenn Dates immer wieder abgesagt werden?', 'answer': "Prüfe ob du zu weit im Voraus planst (max. 3-5 Tage), ob deine Date-Vorschläge zu aufwändig sind, und ob du zwischen Verabredung und Date den Kontakt hältst. Ein kurzes 'Freu mich auf morgen' am Vortag kann Wunder wirken."}"
+  - question: "Warum antworten Matches nicht auf Nachrichten?"
+    answer: "Die häufigsten Gründe: deine erste Nachricht war zu generisch, die Person hat zu viele Matches gleichzeitig, das Interesse war nur oberflächlich, oder dein Profil hat beim zweiten Blick nicht überzeugt. Eine personalisierte erste Nachricht erhöht deine Antwortrate deutlich."
+  - question: "Wie viele Matches braucht man für ein Date?"
+    answer: "Im Durchschnitt führt etwa jedes 10. bis 20. Match zu einem tatsächlichen Treffen. Wenn deine Quote deutlich schlechter ist, liegt es meistens an der Gesprächsführung oder am Timing beim Date-Vorschlag."
+  - question: "Wann sollte man ein Treffen vorschlagen?"
+    answer: "Nach 3-7 Tagen Chat oder wenn das Gespräch natürlich fließt und ihr gemeinsame Interessen entdeckt habt. Warte nicht zu lange — nach 2 Wochen reinem Texten sinkt die Wahrscheinlichkeit eines Treffens drastisch."
+  - question: "Was tun wenn Dates immer wieder abgesagt werden?"
+    answer: "Prüfe ob du zu weit im Voraus planst (max. 3-5 Tage), ob deine Date-Vorschläge zu aufwändig sind, und ob du zwischen Verabredung und Date den Kontakt hältst. Ein kurzes 'Freu mich auf morgen' am Vortag kann Wunder wirken."
 ---
 Das Szenario ist frustrierend und mehr Menschen erleben es, als du denkst: Dein Handy vibriert mit Benachrichtigungen über neue Matches, aber aus keinem dieser Matches wird ein echtes Treffen. Dein Posteingang ist voll mit angesammelten Chats, die von der dritten oder vierten Nachricht aus nie wieder weitergehen. Die Zahlen sind beeindruckend auf dem Papier, aber in der Realität sitzt du wieder allein zu Hause und fragst dich, was du falsch machst.
 

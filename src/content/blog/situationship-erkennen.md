@@ -15,10 +15,14 @@ draft: false
 image: "/images/photos/situationship-erkennen.webp"
 imageAlt: "Paar in unklarer Beziehungssituation"
 faq:
-  - "{'question': 'Was genau ist eine Situationship?', 'answer': 'Eine Situationship ist eine romantische Verbindung ohne klare Definition oder Commitment. Ihr verhaltet euch wie ein Paar, aber es gibt kein offizielles Label, keine klaren Erwartungen und oft keine Zukunftsplanung.'}"
-  - "{'question': 'Wie unterscheidet sich eine Situationship von Friends with Benefits?', 'answer': 'Bei Friends with Benefits steht die Freundschaft plus körperliche Intimität im Vordergrund — beide wissen, woran sie sind. In einer Situationship gibt es oft tiefere emotionale Verstrickungen, aber gleichzeitig keine Klarheit über die Zukunft.'}"
-  - "{'question': 'Kann aus einer Situationship eine Beziehung werden?', 'answer': 'Ja, aber nur wenn beide Seiten offen kommunizieren und bereit sind, sich festzulegen. Wichtig ist ein ehrliches Gespräch über Erwartungen und Wünsche.'}"
-  - "{'question': 'Wann sollte man eine Situationship beenden?', 'answer': 'Wenn du darunter leidest, dich emotional unsicher fühlst oder deine Bedürfnisse dauerhaft nicht erfüllt werden. Eine Verbindung, die dir mehr Schmerz als Freude bringt, verdient ein ehrliches Ende.'}"
+  - question: "Was genau ist eine Situationship?"
+    answer: "Eine Situationship ist eine romantische Verbindung ohne klare Definition oder Commitment. Ihr verhaltet euch wie ein Paar, aber es gibt kein offizielles Label, keine klaren Erwartungen und oft keine Zukunftsplanung."
+  - question: "Wie unterscheidet sich eine Situationship von Friends with Benefits?"
+    answer: "Bei Friends with Benefits steht die Freundschaft plus körperliche Intimität im Vordergrund — beide wissen, woran sie sind. In einer Situationship gibt es oft tiefere emotionale Verstrickungen, aber gleichzeitig keine Klarheit über die Zukunft."
+  - question: "Kann aus einer Situationship eine Beziehung werden?"
+    answer: "Ja, aber nur wenn beide Seiten offen kommunizieren und bereit sind, sich festzulegen. Wichtig ist ein ehrliches Gespräch über Erwartungen und Wünsche."
+  - question: "Wann sollte man eine Situationship beenden?"
+    answer: "Wenn du darunter leidest, dich emotional unsicher fühlst oder deine Bedürfnisse dauerhaft nicht erfüllt werden. Eine Verbindung, die dir mehr Schmerz als Freude bringt, verdient ein ehrliches Ende."
 ---
 Du kennst die Situation wahrscheinlich: Du seht euch regelmäßig, ihr teilt tiefe Gespräche, verbringt Zeit miteinander wie ein echtes Paar — aber irgendwie ist die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) nie „offiziell" geworden. Es gibt kein klares Label, keine definierten Grenzen und vor allem: keine Sicherheit. Diese unscharfe Grauzone nennt sich **Situationship**, und sie ist in der modernen Dating-Welt leider immer häufiger anzutreffen.
 

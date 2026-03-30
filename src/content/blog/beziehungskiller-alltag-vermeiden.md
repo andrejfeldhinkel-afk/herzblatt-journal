@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Was ist der häufigste Beziehungskiller?', 'answer': 'Mangelnde Kommunikation — und damit ist nicht gemeint, dass ihr nicht redet. Sondern dass ihr nicht wirklich zuhört, nicht über Gefühle sprecht und Probleme unter den Teppich kehrt. Das zerstört auf leisen Sohlen.'}"
-  - "{'question': 'Kann Routine eine Beziehung zerstören?', 'answer': 'Routine an sich ist nicht schlecht — sie gibt Sicherheit. Problematisch wird es, wenn die Routine so dominant wird, dass kein Raum für Spontanität, Überraschung und neue Erfahrungen bleibt. Balance ist der Schlüssel.'}"
-  - "{'question': 'Wie erkennt man Beziehungskiller frühzeitig?', 'answer': 'Achte auf subtile Veränderungen: Ihr redet weniger über Persönliches, vermeidet Augenkontakt, seid gereizt ohne klaren Grund, oder fühlt euch eher wie Mitbewohner als ein Paar. Das sind Frühwarnsignale.'}"
-  - "{'question': 'Was kann man gegen den Alltagstrott in der Beziehung tun?', 'answer': 'Plane bewusst Neues ein: ein anderes Restaurant, ein unerwarteter Ausflug, eine neue gemeinsame Aktivität. Schon kleine Änderungen der Routine aktivieren das Belohnungssystem im Gehirn und bringen frischen Wind.'}"
+  - question: "Was ist der häufigste Beziehungskiller?"
+    answer: "Mangelnde Kommunikation — und damit ist nicht gemeint, dass ihr nicht redet. Sondern dass ihr nicht wirklich zuhört, nicht über Gefühle sprecht und Probleme unter den Teppich kehrt. Das zerstört auf leisen Sohlen."
+  - question: "Kann Routine eine Beziehung zerstören?"
+    answer: "Routine an sich ist nicht schlecht — sie gibt Sicherheit. Problematisch wird es, wenn die Routine so dominant wird, dass kein Raum für Spontanität, Überraschung und neue Erfahrungen bleibt. Balance ist der Schlüssel."
+  - question: "Wie erkennt man Beziehungskiller frühzeitig?"
+    answer: "Achte auf subtile Veränderungen: Ihr redet weniger über Persönliches, vermeidet Augenkontakt, seid gereizt ohne klaren Grund, oder fühlt euch eher wie Mitbewohner als ein Paar. Das sind Frühwarnsignale."
+  - question: "Was kann man gegen den Alltagstrott in der Beziehung tun?"
+    answer: "Plane bewusst Neues ein: ein anderes Restaurant, ein unerwarteter Ausflug, eine neue gemeinsame Aktivität. Schon kleine Änderungen der Routine aktivieren das Belohnungssystem im Gehirn und bringen frischen Wind."
 ---
 Manche Paare fallen nicht wegen großer Dramen auseinander. Sie fallen auseinander wegen Alltag. Sie ersticken an Routine. Sie ignorieren kleine Dinge, die werden zu großen Dingen. Sie gewöhnen sich aneinander, bis der andere Mensch unsichtbar wird.
 

@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/dating-apps-fuer-frauen.webp"
 imageAlt: "Frau mit Smartphone beim Online-Dating in einem Café"
 faq:
-  - "{'question': 'Welche Dating-App ist für Frauen am besten?', 'answer': 'Bumble gibt Frauen die Kontrolle, weil nur sie den ersten Schritt machen können. Hinge setzt auf tiefere Profile. Am besten probierst du zwei Apps parallel und schaust, wo du dich wohler fühlst.'}"
-  - "{'question': 'Wie gehe ich mit unerwünschten Nachrichten um?', 'answer': 'Blockieren, melden, weiterswipen. Du schuldest niemandem eine Antwort. Die meisten Apps haben gute Meldefunktionen – nutze sie ohne schlechtes Gewissen.'}"
-  - "{'question': 'Wann sollte ich meine Nummer rausgeben?', 'answer': 'Erst wenn du dich wirklich sicher fühlst. Viele wechseln nach ein paar Tagen Chat zum Telefonieren oder nutzen zunächst Instagram statt der privaten Nummer.'}"
+  - question: "Welche Dating-App ist für Frauen am besten?"
+    answer: "Bumble gibt Frauen die Kontrolle, weil nur sie den ersten Schritt machen können. Hinge setzt auf tiefere Profile. Am besten probierst du zwei Apps parallel und schaust, wo du dich wohler fühlst."
+  - question: "Wie gehe ich mit unerwünschten Nachrichten um?"
+    answer: "Blockieren, melden, weiterswipen. Du schuldest niemandem eine Antwort. Die meisten Apps haben gute Meldefunktionen – nutze sie ohne schlechtes Gewissen."
+  - question: "Wann sollte ich meine Nummer rausgeben?"
+    answer: "Erst wenn du dich wirklich sicher fühlst. Viele wechseln nach ein paar Tagen Chat zum Telefonieren oder nutzen zunächst Instagram statt der privaten Nummer."
 ---
 ## Die Realität auf Dating-Apps: Die ungleiche Erfahrung
 

@@ -16,11 +16,16 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Was ist der Unterschied zwischen Ich- und Du-Botschaften?', 'answer': "Du-Botschaften werfen den Ball dem anderen zu: 'Du machst immer...' Das triggert Defensivität. Ich-Botschaften sprechen von deinem Erleben: 'Ich fühle mich...' Das ist schwerer zu kritisieren, weil es deine Wahrheit ist."}"
-  - "{'question': 'Klingt Ich-Botschaften nicht egoistisch?', 'answer': 'Nein. Egoistisch ist, deinem Partner Vorwürfe zu machen. Authentisch ist, deine Gefühle zu teilen. Es ist tatsächlich liebevoller, weil du deinen Partner damit nicht angreifst.'}"
-  - "{'question': 'Funktionieren Ich-Botschaften immer?', 'answer': 'Nicht immer sofort. Aber mit Übung und wenn beide Partner offen sind, transformieren sie Kommunikation. Manche Menschen werden trotzdem defensiv, aber das ist ihr Thema.'}"
-  - "{'question': 'Wie formuliere ich eine gute Ich-Botschaft?', 'answer': "Schema: Ich fühle mich (Gefühl), wenn (Situation), weil (Bedürfnis/Grund). Beispiel: 'Ich fühle mich verletzt, wenn du meine Anrufe ignorierst, weil ich Wertschätzung brauche.'"}"
-  - "{'question': 'Was, wenn mein Partner auf Ich-Botschaften nicht reagiert?', 'answer': 'Das ist ein Signal. Ein liebevoller Partner wird versuchen zu verstehen. Wenn er deine Gefühle ständig ignoriert, ist das ein größeres Beziehungsproblem, das Paartherapie braucht.'}"
+  - question: "Was ist der Unterschied zwischen Ich- und Du-Botschaften?"
+    answer: "Du-Botschaften werfen den Ball dem anderen zu: 'Du machst immer...' Das triggert Defensivität. Ich-Botschaften sprechen von deinem Erleben: 'Ich fühle mich...' Das ist schwerer zu kritisieren, weil es deine Wahrheit ist."
+  - question: "Klingt Ich-Botschaften nicht egoistisch?"
+    answer: "Nein. Egoistisch ist, deinem Partner Vorwürfe zu machen. Authentisch ist, deine Gefühle zu teilen. Es ist tatsächlich liebevoller, weil du deinen Partner damit nicht angreifst."
+  - question: "Funktionieren Ich-Botschaften immer?"
+    answer: "Nicht immer sofort. Aber mit Übung und wenn beide Partner offen sind, transformieren sie Kommunikation. Manche Menschen werden trotzdem defensiv, aber das ist ihr Thema."
+  - question: "Wie formuliere ich eine gute Ich-Botschaft?"
+    answer: "Schema: Ich fühle mich (Gefühl), wenn (Situation), weil (Bedürfnis/Grund). Beispiel: 'Ich fühle mich verletzt, wenn du meine Anrufe ignorierst, weil ich Wertschätzung brauche.'"
+  - question: "Was, wenn mein Partner auf Ich-Botschaften nicht reagiert?"
+    answer: "Das ist ein Signal. Ein liebevoller Partner wird versuchen zu verstehen. Wenn er deine Gefühle ständig ignoriert, ist das ein größeres Beziehungsproblem, das Paartherapie braucht."
 ---
 Du sitzt mit deinem Partner auf der Couch. Er hatte wieder einen langen Abend mit seinen Freunden. Das dritte Mal diese Woche. Du platzt heraus: "Du ignorierst mich ständig! Du könntest mir nicht weniger Zeit geben, wenn du es versuchen würdest!"
 

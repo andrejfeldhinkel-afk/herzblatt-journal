@@ -18,11 +18,16 @@ keywords:
   - "Langzeitbeziehung"
 draft: false
 faq:
-  - "{'question': 'Was ist eine Love Map nach Gottman?', 'answer': 'Eine Love Map ist die innere Welt eines Partners: seine Träume, Ängste, Stressoren, Lieblingsgegenstände und zukünftigen Pläne. Es ist eine mentale Landkarte von wer diese Person wirklich ist. Paare, die starke Love Maps haben, kennen ihre Partner tief und können daher besser unterstützen und verbinden.'}"
-  - "{'question': 'Warum verlieren Paare ihre Love Maps?', 'answer': 'Mit der Zeit, Routine, Kindern, Karriere und Ablenkung vergessen Paare, nach ihren Partnern zu fragen. Sie nehmen an, dass sie alles wissen. Oder sie sprechen nur über praktische Dinge: Wer kauft Milch, wo ist das Auto. Die tieferen Dinge werden ignoriert, und die Love Map verfällt.'}"
-  - "{'question': 'Wie aktualisiere ich meine Love Map?', 'answer': "Durch Fragen stellen und aktiv zuhören. Nutze die 40+ Fragen in diesem Artikel. Setze regelmäßige 'Love Map' Dates durch dich ein. Stelle Fragen, die dich über deine Partner überraschen. Arbeite, dich von deinen Annahmen zu befreien und dein Partner als neu zu sehen."}"
-  - "{'question': 'Wie vorhersagen Love Maps das Schicksal von Beziehungen?', 'answer': 'Gottmans Forschung zeigt, dass Paare, die starke Love Maps haben, durchschnittlich langfristige Beziehungen haben. Sie kommunizieren besser, unterstützen sich mehr, und können Konflikte besser navigieren. Paare mit schwachen Love Maps sind anfälliger für Drift und Scheidung.'}"
-  - "{'question': 'Kann man die Love Map eines Partners verlieren?', 'answer': 'Ja, leider. Mit Stille, fehlender Kommunikation, oder bewusstem Distanzieren können Paare ihre Love Map voneinander vergessen. Das ist ein Zeichen von emotionaler Distanzierung. Die gute Nachricht: Sie können es wiederherstellen, indem Sie wieder anfangen, sich zu fragen und einander zu kennen.'}"
+  - question: "Was ist eine Love Map nach Gottman?"
+    answer: "Eine Love Map ist die innere Welt eines Partners: seine Träume, Ängste, Stressoren, Lieblingsgegenstände und zukünftigen Pläne. Es ist eine mentale Landkarte von wer diese Person wirklich ist. Paare, die starke Love Maps haben, kennen ihre Partner tief und können daher besser unterstützen und verbinden."
+  - question: "Warum verlieren Paare ihre Love Maps?"
+    answer: "Mit der Zeit, Routine, Kindern, Karriere und Ablenkung vergessen Paare, nach ihren Partnern zu fragen. Sie nehmen an, dass sie alles wissen. Oder sie sprechen nur über praktische Dinge: Wer kauft Milch, wo ist das Auto. Die tieferen Dinge werden ignoriert, und die Love Map verfällt."
+  - question: "Wie aktualisiere ich meine Love Map?"
+    answer: "Durch Fragen stellen und aktiv zuhören. Nutze die 40+ Fragen in diesem Artikel. Setze regelmäßige 'Love Map' Dates durch dich ein. Stelle Fragen, die dich über deine Partner überraschen. Arbeite, dich von deinen Annahmen zu befreien und dein Partner als neu zu sehen."
+  - question: "Wie vorhersagen Love Maps das Schicksal von Beziehungen?"
+    answer: "Gottmans Forschung zeigt, dass Paare, die starke Love Maps haben, durchschnittlich langfristige Beziehungen haben. Sie kommunizieren besser, unterstützen sich mehr, und können Konflikte besser navigieren. Paare mit schwachen Love Maps sind anfälliger für Drift und Scheidung."
+  - question: "Kann man die Love Map eines Partners verlieren?"
+    answer: "Ja, leider. Mit Stille, fehlender Kommunikation, oder bewusstem Distanzieren können Paare ihre Love Map voneinander vergessen. Das ist ein Zeichen von emotionaler Distanzierung. Die gute Nachricht: Sie können es wiederherstellen, indem Sie wieder anfangen, sich zu fragen und einander zu kennen."
 ---
 ## Die Love Map: Das Geheimnis glücklicher Langzeitbeziehungen
 

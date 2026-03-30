@@ -17,9 +17,12 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Welche Hormone sind für Verliebtsein verantwortlich?', 'answer': 'Dopamin (Belohnungsgefühl), Noradrenalin (Herzklopfen, Aufregung), Phenylethylamin (Euphorie) und reduziertes Serotonin (obsessives Denken an die Person). In der Bindungsphase kommen Oxytocin und Vasopressin dazu.'}"
-  - "{'question': 'Warum lässt das Verliebtsein nach?', 'answer': 'Dein Gehirn kann den Dopamin-Rausch der Verliebtheit nicht dauerhaft aufrechterhalten — es gewöhnt sich daran (Toleranz). Nach 12-18 Monaten wird die Verliebtheit durch Bindungshormone wie Oxytocin ersetzt.'}"
-  - "{'question': 'Kann man die Verliebtheit zurückholen?', 'answer': 'Teilweise ja! Neue gemeinsame Erlebnisse, Überraschungen und körperliche Nähe können Dopamin-Schübe auslösen. Es wird nie mehr wie am ersten Tag — aber die reife Liebe hat ihre eigene, tiefere Schönheit.'}"
+  - question: "Welche Hormone sind für Verliebtsein verantwortlich?"
+    answer: "Dopamin (Belohnungsgefühl), Noradrenalin (Herzklopfen, Aufregung), Phenylethylamin (Euphorie) und reduziertes Serotonin (obsessives Denken an die Person). In der Bindungsphase kommen Oxytocin und Vasopressin dazu."
+  - question: "Warum lässt das Verliebtsein nach?"
+    answer: "Dein Gehirn kann den Dopamin-Rausch der Verliebtheit nicht dauerhaft aufrechterhalten — es gewöhnt sich daran (Toleranz). Nach 12-18 Monaten wird die Verliebtheit durch Bindungshormone wie Oxytocin ersetzt."
+  - question: "Kann man die Verliebtheit zurückholen?"
+    answer: "Teilweise ja! Neue gemeinsame Erlebnisse, Überraschungen und körperliche Nähe können Dopamin-Schübe auslösen. Es wird nie mehr wie am ersten Tag — aber die reife Liebe hat ihre eigene, tiefere Schönheit."
 ---
 
 ## Die Biochemie der Liebe: Was in deinem Gehirn passiert, wenn du dich verliebst

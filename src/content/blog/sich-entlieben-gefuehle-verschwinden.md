@@ -17,10 +17,14 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Ist es normal, sich in einer Beziehung zu entlieben?', 'answer': 'Ja, das ist häufiger als du denkst. Verliebtheit ist ein temporärer Zustand — sie vergeht bei jedem Paar. Entscheidend ist, ob sich daraus eine tiefere Liebe entwickelt hat oder ob tatsächlich alle Gefühle verschwunden sind.'}"
-  - "{'question': 'Können die Gefühle zurückkommen?', 'answer': 'In vielen Fällen ja — besonders wenn die Entliebung durch Stress, Routine oder Vernachlässigung der Beziehung entstanden ist. Es braucht aber aktive Arbeit von beiden Seiten.'}"
-  - "{'question': 'Wie sage ich meinem Partner, dass ich nichts mehr fühle?', 'answer': "Sei ehrlich, aber einfühlsam. Sprich aus der Ich-Perspektive: 'Ich merke, dass sich bei mir etwas verändert hat.' Vermeide Schuldzuweisungen. Ein ruhiger, privater Moment ist wichtig."}"
-  - "{'question': 'Entlieben sich Männer und Frauen unterschiedlich?', 'answer': 'Der Prozess ist ähnlich, aber Männer bemerken den Verlust oft später, weil sie weniger auf ihre Gefühle achten. Frauen spüren es meist früher, weil sie emotional aufmerksamer sind.'}"
+  - question: "Ist es normal, sich in einer Beziehung zu entlieben?"
+    answer: "Ja, das ist häufiger als du denkst. Verliebtheit ist ein temporärer Zustand — sie vergeht bei jedem Paar. Entscheidend ist, ob sich daraus eine tiefere Liebe entwickelt hat oder ob tatsächlich alle Gefühle verschwunden sind."
+  - question: "Können die Gefühle zurückkommen?"
+    answer: "In vielen Fällen ja — besonders wenn die Entliebung durch Stress, Routine oder Vernachlässigung der Beziehung entstanden ist. Es braucht aber aktive Arbeit von beiden Seiten."
+  - question: "Wie sage ich meinem Partner, dass ich nichts mehr fühle?"
+    answer: "Sei ehrlich, aber einfühlsam. Sprich aus der Ich-Perspektive: 'Ich merke, dass sich bei mir etwas verändert hat.' Vermeide Schuldzuweisungen. Ein ruhiger, privater Moment ist wichtig."
+  - question: "Entlieben sich Männer und Frauen unterschiedlich?"
+    answer: "Der Prozess ist ähnlich, aber Männer bemerken den Verlust oft später, weil sie weniger auf ihre Gefühle achten. Frauen spüren es meist früher, weil sie emotional aufmerksamer sind."
 ---
 
 ## Einleitung: Das Gefühl, wenn die Liebe leise geht

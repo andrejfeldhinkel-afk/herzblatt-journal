@@ -15,11 +15,16 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Ist es jemals okay, eine Beziehung geheim zu halten?', 'answer': 'Selten. Es gibt legitime Gründe (Arbeitsverhältnis, sehr unterschiedliche sozialen Kreise), aber die Norm ist: Wenn dein Partner dich nicht zeigen will, ist das ein Problem. Eine gesunde Beziehung braucht nicht Geheimnis – sie braucht Sicherheit.'}"
-  - "{'question': 'Was sind legitime Gründe für Geheimnis?', 'answer': 'Der Partner ist noch verheiratet (scheidung läuft). Es gibt einen großen Altersunterschied und Familie würde negativ reagieren. Arbeitsverhältnis (Professor/Student). Aber auch dann sollte es nicht ewig geheim sein – es sollte ein Endpunkt geben.'}"
-  - "{'question': 'Wie lange ist es okay, geheim zu bleiben?', 'answer': 'Wenn es nach 3 Monaten noch geheim ist ohne guten Grund – das ist verdächtig. Nach 6 Monaten – das ist ein Problem. Nach einem Jahr – du bist eine Affäre, ob er/sie das so nennt oder nicht.'}"
-  - "{'question': 'Soll ich meinen Freunden erzählen, dass ich in einer geheimen Beziehung bin?', 'answer': 'Ja. Nicht, um den Partner zu sabotieren, sondern weil deine Freunde ein Recht haben zu wissen, warum du nicht zu ihren Partys kommst oder nicht verfügbar bist. Es ist auch wichtig für DEINE Unterstützung – du brauchst Menschen, die dich kennen.'}"
-  - "{'question': 'Was, wenn er/sie sagt, es ist temporal?', 'answer': 'Frag nach dem Enddatum. Nicht "irgendwann" – konkret. "Bis wann darf deine Familie von mir wissen?" Wenn er/sie kein konkretes Datum hat, ist es nicht temporal – es ist permanent.'}"
+  - question: "Ist es jemals okay, eine Beziehung geheim zu halten?"
+    answer: "Selten. Es gibt legitime Gründe (Arbeitsverhältnis, sehr unterschiedliche sozialen Kreise), aber die Norm ist: Wenn dein Partner dich nicht zeigen will, ist das ein Problem. Eine gesunde Beziehung braucht nicht Geheimnis – sie braucht Sicherheit."
+  - question: "Was sind legitime Gründe für Geheimnis?"
+    answer: "Der Partner ist noch verheiratet (scheidung läuft). Es gibt einen großen Altersunterschied und Familie würde negativ reagieren. Arbeitsverhältnis (Professor/Student). Aber auch dann sollte es nicht ewig geheim sein – es sollte ein Endpunkt geben."
+  - question: "Wie lange ist es okay, geheim zu bleiben?"
+    answer: "Wenn es nach 3 Monaten noch geheim ist ohne guten Grund – das ist verdächtig. Nach 6 Monaten – das ist ein Problem. Nach einem Jahr – du bist eine Affäre, ob er/sie das so nennt oder nicht."
+  - question: "Soll ich meinen Freunden erzählen, dass ich in einer geheimen Beziehung bin?"
+    answer: "Ja. Nicht, um den Partner zu sabotieren, sondern weil deine Freunde ein Recht haben zu wissen, warum du nicht zu ihren Partys kommst oder nicht verfügbar bist. Es ist auch wichtig für DEINE Unterstützung – du brauchst Menschen, die dich kennen."
+  - question: "Was, wenn er/sie sagt, es ist temporal?"
+    answer: "Frag nach dem Enddatum. Nicht \"irgendwann\" – konkret. \"Bis wann darf deine Familie von mir wissen?\" Wenn er/sie kein konkretes Datum hat, ist es nicht temporal – es ist permanent."
 ---
 
 ## Wenn der Partner die beziehung geheim hält

@@ -15,11 +15,15 @@ keywords:
 draft: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Warum verliebe ich mich immer in unerreichbare Menschen?', 'answer': 'Weil Unerreichbarkeit Sehnsucht erzeugt — und Sehnsucht fühlt sich wie Liebe an. Dahinter steckt oft ein unsicherer Bindungsstil: Du verwechselst Angst mit Anziehung.'}"
-  - "{'question': 'Kann ich mein Beuteschema ändern?', 'answer': "Ja, aber es braucht bewusste Arbeit. Der erste Schritt ist Muster erkennen. Der zweite: Dich bewusst auf Menschen einlassen die 'langweilig' wirken — die sich aber tatsächlich gut anfühlen."}"
-  - "{'question': 'Ist Therapie bei wiederkehrenden Beziehungsmustern sinnvoll?', 'answer': 'Absolut. Ein Therapeut hilft dir, unbewusste Muster zu erkennen die du allein nicht siehst. Besonders bei Mustern aus der Kindheit ist professionelle Begleitung extrem wertvoll.'}"
+  - question: "Warum verliebe ich mich immer in unerreichbare Menschen?"
+    answer: "Weil Unerreichbarkeit Sehnsucht erzeugt — und Sehnsucht fühlt sich wie Liebe an. Dahinter steckt oft ein unsicherer Bindungsstil: Du verwechselst Angst mit Anziehung."
+  - question: "Kann ich mein Beuteschema ändern?"
+    answer: "Ja, aber es braucht bewusste Arbeit. Der erste Schritt ist Muster erkennen. Der zweite: Dich bewusst auf Menschen einlassen die 'langweilig' wirken — die sich aber tatsächlich gut anfühlen."
+  - question: "Ist Therapie bei wiederkehrenden Beziehungsmustern sinnvoll?"
+    answer: "Absolut. Ein Therapeut hilft dir, unbewusste Muster zu erkennen die du allein nicht siehst. Besonders bei Mustern aus der Kindheit ist professionelle Begleitung extrem wertvoll."
   - "{'question': "Was wenn mein Partner 'langweilig' wirkt aber eigentlich gut für mich ist?", 'answer': 'Das ist ein sehr gutes Zeichen. Aufregung und Sicherheit fühlen sich unterschiedlich an. Aufregung ist häufig toxisch. Sicherheit ist oft das was du brauchst. Gib dieser Person Zeit bevor du sie abschreibst.'}"
-  - "{'question': 'Wie lange dauert es bis sich ein Beuteschema ändert?', 'answer': 'Wochen bis Monate wenn du bewusst daran arbeitest. Aber unbewusst kann es tief verankert sein. Der Schlüssel ist: Erkenne das Muster, kündige ihm auf, wähle bewusst anders, wiederhole bis es zur Gewohnheit wird.'}"
+  - question: "Wie lange dauert es bis sich ein Beuteschema ändert?"
+    answer: "Wochen bis Monate wenn du bewusst daran arbeitest. Aber unbewusst kann es tief verankert sein. Der Schlüssel ist: Erkenne das Muster, kündige ihm auf, wähle bewusst anders, wiederhole bis es zur Gewohnheit wird."
 ---
 
 ## Das Muster das dein Leben zerstört

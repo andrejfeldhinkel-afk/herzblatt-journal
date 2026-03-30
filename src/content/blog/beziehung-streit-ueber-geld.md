@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/beziehung-streit-ueber-geld.webp"
 imageAlt: "Paar diskutiert Budget und finanzielle Planung"
 faq:
-  - "{'question': 'Sollten Paare ihre Konten kombinieren oder separat halten?', 'answer': 'Es gibt kein richtig oder falsch. Manche Paare teilen alles, andere behalten Konten separat. Das Wichtigste ist, dass beide glücklich sind mit dem Arrangement und transparent über Geld.'}"
-  - "{'question': 'Was wenn Verdienst ungleich ist in einer Beziehung?', 'answer': 'Das ist üblich. Ihr müsst eine faire Weise finden, Rechnungen zu teilen - nicht notwendigerweise 50/50, aber basierend auf Fähigkeit zu zahlen. Kommunikation ist wichtig.'}"
-  - "{'question': 'Wie kann ich einen Partner ansprechen, der Geld verschwenderisch ist?', 'answer': "Nicht anklagend oder kritisch. Teile deine Bedenken mit 'Ich'-Aussagen. 'Mir sorgen machen diese Ausgaben wegen unsere langfristige Ziele.' Dann zuhören, verstehen warum, und gemeinsam Problem-lösen."}"
+  - question: "Sollten Paare ihre Konten kombinieren oder separat halten?"
+    answer: "Es gibt kein richtig oder falsch. Manche Paare teilen alles, andere behalten Konten separat. Das Wichtigste ist, dass beide glücklich sind mit dem Arrangement und transparent über Geld."
+  - question: "Was wenn Verdienst ungleich ist in einer Beziehung?"
+    answer: "Das ist üblich. Ihr müsst eine faire Weise finden, Rechnungen zu teilen - nicht notwendigerweise 50/50, aber basierend auf Fähigkeit zu zahlen. Kommunikation ist wichtig."
+  - question: "Wie kann ich einen Partner ansprechen, der Geld verschwenderisch ist?"
+    answer: "Nicht anklagend oder kritisch. Teile deine Bedenken mit 'Ich'-Aussagen. 'Mir sorgen machen diese Ausgaben wegen unsere langfristige Ziele.' Dann zuhören, verstehen warum, und gemeinsam Problem-lösen."
 ---## Die Tabu-Subjekt
 
 Geld ist das Nummer-eins-Streit-Thema in Beziehungen. Mehr als Sex, mehr als Kinder, mehr als jede andere Sache.

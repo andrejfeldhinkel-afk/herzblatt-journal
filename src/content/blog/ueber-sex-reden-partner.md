@@ -16,11 +16,16 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Wann ist der richtige Zeitpunkt, um über Sex zu sprechen?', 'answer': 'Der beste Moment ist außerhalb des Schlafzimmers – beim Spaziergang, beim Essen oder entspannt auf der Couch. Vermeide Gespräche direkt vor oder nach Sex, da die Emotionen zu hoch sind.'}"
-  - "{'question': 'Was mache ich, wenn mein Partner defensiv reagiert?', 'answer': "Bleibe ruhig und betone, dass es dir um die gemeinsame Erfüllung geht. Nutze ‚Ich'-Aussagen statt Vorwürfe: ‚Mir wäre es schön, wenn…' statt ‚Du machst nie…'."}"
-  - "{'question': 'Wie starte ich das Gespräch, ohne es unangenehm zu machen?', 'answer': "Beginne mit einer positiven Aussage: ‚Mir gefällt es sehr, wenn wir zusammen sind. Ich würde gerne noch mehr Freude teilen.' So schaffst du eine konstruktive Basis."}"
-  - "{'question': 'Was ist, wenn ich nicht genau weiß, was ich möchte?', 'answer': "Das ist völlig normal. Du kannst offen sagen: ‚Ich bin mir noch nicht ganz sicher, aber ich würde gerne mit dir experimentieren und gemeinsam herausfinden, was uns gut tut.'"}"
-  - "{'question': 'Wie gehe ich mit Ablehnung um?', 'answer': 'Nicht jede Idee wird begeistert aufgenommen – und das ist okay. Frag nach den Gründen und respektiere die Grenzen deines Partners. Kommunikation ist ein Prozess, kein Resultat.'}"
+  - question: "Wann ist der richtige Zeitpunkt, um über Sex zu sprechen?"
+    answer: "Der beste Moment ist außerhalb des Schlafzimmers – beim Spaziergang, beim Essen oder entspannt auf der Couch. Vermeide Gespräche direkt vor oder nach Sex, da die Emotionen zu hoch sind."
+  - question: "Was mache ich, wenn mein Partner defensiv reagiert?"
+    answer: "Bleibe ruhig und betone, dass es dir um die gemeinsame Erfüllung geht. Nutze ‚Ich'-Aussagen statt Vorwürfe: ‚Mir wäre es schön, wenn…' statt ‚Du machst nie…'."
+  - question: "Wie starte ich das Gespräch, ohne es unangenehm zu machen?"
+    answer: "Beginne mit einer positiven Aussage: ‚Mir gefällt es sehr, wenn wir zusammen sind. Ich würde gerne noch mehr Freude teilen.' So schaffst du eine konstruktive Basis."
+  - question: "Was ist, wenn ich nicht genau weiß, was ich möchte?"
+    answer: "Das ist völlig normal. Du kannst offen sagen: ‚Ich bin mir noch nicht ganz sicher, aber ich würde gerne mit dir experimentieren und gemeinsam herausfinden, was uns gut tut.'"
+  - question: "Wie gehe ich mit Ablehnung um?"
+    answer: "Nicht jede Idee wird begeistert aufgenommen – und das ist okay. Frag nach den Gründen und respektiere die Grenzen deines Partners. Kommunikation ist ein Prozess, kein Resultat."
 ---
 
 Das Thema Sex ist in vielen Beziehungen ein echtes Tabu. Du möchtest dir etwas wünschen, aber dir fällt die Hälfte weg, bevor du es aussprichst. Dein Partner macht etwas, das dir gar nicht zusagt – und du sagst nichts. Diese Dynamik führt zu Frust, Missverständnissen und letztendlich zu weniger Intimität statt mehr.

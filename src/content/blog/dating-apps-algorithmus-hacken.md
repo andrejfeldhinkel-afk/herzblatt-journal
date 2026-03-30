@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/dating-apps-algorithmus-hacken.webp"
 imageAlt: "Dating App Optimierung"
 faq:
-  - "{'question': 'Bestraft der Algorithmus dich, wenn du nicht aktiv bist?', 'answer': 'Verschiedene Apps haben verschiedene Algorithmen. Einige Apps tatsächlich verstecken Profile, die nicht regelmäßig aktiv sind. Wenn du möchtest mehr Matches, logge dich regelmäßig ein und nutze die App. Einige Apps belohnen dich sogar für tägliche Einmischung.'}"
-  - "{'question': 'Ist mein Profil dem Algorithmus zu neue?', 'answer': 'Ja. Neue Profile erhalten typischerweise einen "Boost" beim Start. Dies ist, warum dein Profil vielleicht das erste Wochenende bekommt viele Matches, dann sie verlangsamt. Die App möchte neue Benutzer zu engagieren. Dies ist nicht für immer – das Boost wird normalerweise in einer Woche verblassen.'}"
-  - "{'question': 'Wie kann ich den Algorithmus sagen, dass ich ein hohes Qualitätsmatch bin?', 'answer': 'Durch dein Verhalten. Wenn du viel Matches hast, aber niemand antwortet, sagt das dem Algorithmus, dass dein Profil nicht gut ist. Wenn du viele Matches erhältst und viele davon zu Daten führen, sagt das dem Algorithmus, dass dein Profil großartig ist. So verbessere dein Profil um mehr Qualität Matches zu erhalten.'}"
+  - question: "Bestraft der Algorithmus dich, wenn du nicht aktiv bist?"
+    answer: "Verschiedene Apps haben verschiedene Algorithmen. Einige Apps tatsächlich verstecken Profile, die nicht regelmäßig aktiv sind. Wenn du möchtest mehr Matches, logge dich regelmäßig ein und nutze die App. Einige Apps belohnen dich sogar für tägliche Einmischung."
+  - question: "Ist mein Profil dem Algorithmus zu neue?"
+    answer: "Ja. Neue Profile erhalten typischerweise einen \"Boost\" beim Start. Dies ist, warum dein Profil vielleicht das erste Wochenende bekommt viele Matches, dann sie verlangsamt. Die App möchte neue Benutzer zu engagieren. Dies ist nicht für immer – das Boost wird normalerweise in einer Woche verblassen."
+  - question: "Wie kann ich den Algorithmus sagen, dass ich ein hohes Qualitätsmatch bin?"
+    answer: "Durch dein Verhalten. Wenn du viel Matches hast, aber niemand antwortet, sagt das dem Algorithmus, dass dein Profil nicht gut ist. Wenn du viele Matches erhältst und viele davon zu Daten führen, sagt das dem Algorithmus, dass dein Profil großartig ist. So verbessere dein Profil um mehr Qualität Matches zu erhalten."
 ---
 Die moderne Datierung ist nicht so zufällig, wie es scheint. Hinter den Kulissen der [dating](/blog/anzeichen-er-steht-auf-dich/)-Apps arbeiten Algorithmen daran, zu entscheiden, wessen Profil du siehst und wessen Profil andere sehen. Diese Algorithmen sind undurchsichtig, aber es gibt Strategien, die du nutzen kannst, um sie zu optimieren.
 

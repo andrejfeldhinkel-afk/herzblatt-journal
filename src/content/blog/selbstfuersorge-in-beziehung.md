@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Ist Selbstfürsorge in der Beziehung egoistisch?', 'answer': 'Nein — es ist das Gegenteil. Du kannst nur geben, was du selbst hast. Wenn du emotional leer bist, leidet die gesamte Beziehung. Selbstfürsorge ist ein Akt der Liebe — zu dir und zu deinem Partner.'}"
-  - "{'question': 'Wie viel Me-Time ist normal in einer Beziehung?', 'answer': 'Das ist individuell, aber die meisten Beziehungsexperten empfehlen mindestens ein paar Stunden pro Woche nur für dich. Wichtig: Me-Time ist kein Zeichen von Distanz, sondern gibt euch frische Energie füreinander.'}"
-  - "{'question': 'Mein Partner versteht nicht warum ich Zeit für mich brauche. Was tun?', 'answer': "Erkläre es als Investment in die Beziehung: 'Wenn ich aufgetankt bin, bin ich ein besserer Partner für dich.' Wenn dein Partner deine Alleinsein-Bedürfnisse grundsätzlich nicht respektiert, ist das ein ernstes Warnsignal."}"
-  - "{'question': 'Was gehört alles zur Selbstfürsorge?', 'answer': 'Vier Bereiche: körperlich (Schlaf, Bewegung, Ernährung), emotional (Gefühle zulassen, Grenzen setzen), sozial (eigene Freundschaften pflegen) und geistig (Hobbys, Lernen, Kreativität). Alle vier brauchen Aufmerksamkeit.'}"
+  - question: "Ist Selbstfürsorge in der Beziehung egoistisch?"
+    answer: "Nein — es ist das Gegenteil. Du kannst nur geben, was du selbst hast. Wenn du emotional leer bist, leidet die gesamte Beziehung. Selbstfürsorge ist ein Akt der Liebe — zu dir und zu deinem Partner."
+  - question: "Wie viel Me-Time ist normal in einer Beziehung?"
+    answer: "Das ist individuell, aber die meisten Beziehungsexperten empfehlen mindestens ein paar Stunden pro Woche nur für dich. Wichtig: Me-Time ist kein Zeichen von Distanz, sondern gibt euch frische Energie füreinander."
+  - question: "Mein Partner versteht nicht warum ich Zeit für mich brauche. Was tun?"
+    answer: "Erkläre es als Investment in die Beziehung: 'Wenn ich aufgetankt bin, bin ich ein besserer Partner für dich.' Wenn dein Partner deine Alleinsein-Bedürfnisse grundsätzlich nicht respektiert, ist das ein ernstes Warnsignal."
+  - question: "Was gehört alles zur Selbstfürsorge?"
+    answer: "Vier Bereiche: körperlich (Schlaf, Bewegung, Ernährung), emotional (Gefühle zulassen, Grenzen setzen), sozial (eigene Freundschaften pflegen) und geistig (Hobbys, Lernen, Kreativität). Alle vier brauchen Aufmerksamkeit."
 ---
 
 Dein Partner war müde von der Arbeit. Du hast das Abendessen gekocht, die Wäsche gemacht, dich unterhaltsam gemacht. Du wolltest nicht dass er oder sie sich unwohl fühlt.

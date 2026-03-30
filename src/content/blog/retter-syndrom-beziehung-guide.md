@@ -17,11 +17,16 @@ keywords:
   - "Retterdynamik"
 draft: false
 faq:
-  - "{'question': 'Was ist das Retter-Syndrom genau?', 'answer': "Das Retter-Syndrom ist ein psychologisches Muster, bei dem eine Person in Beziehungen primär als Helfer oder Retter funktioniert. Sie wählt Partner, die 'kaputt' oder bedürftig sind, und versucht, sie zu heilen oder zu retten. Das gibt dem Retter ein Gefühl von Selbstwert, was unhealthy ist, weil es auf die Abhängigkeit des anderen basiert."}"
-  - "{'question': 'Bin ich ein Retter oder einfach eine fürsorgliche Person?', 'answer': 'Eine fürsorgliche Person hilft und unterstützt, aber respektiert die Grenzen und Autonomie des anderen. Ein Retter hingegen opfert sich selbst auf, übernimmt Verantwortung für die Genesung des anderen und fühlt sich verloren, wenn der andere nicht hilft. Wenn dein Selbstwert davon abhängt, dass der andere dich braucht, bist du wahrscheinlich ein Retter.'}"
-  - "{'question': 'Woher kommt das Retter-Syndrom?', 'answer': 'Es hat oft Wurzeln in der Kindheit. Vielleicht hattest du einen Elternteil, der deine emotionale Unterstützung brauchte. Vielleicht lerntest du, dass dein Wert darin lag, nützlich und notwendig zu sein. Diese frühen Erfahrungen prägen dein Muster in Erwachsenenbeziehungen.'}"
-  - "{'question': 'Können Menschen mit Retter-Syndrom glückliche Beziehungen haben?', 'answer': 'Ja, aber sie müssen das Muster erkennen und daran arbeiten. Mit Therapie, Bewusstsein und bewusster Wahl können Menschen mit Retter-Tendenzen gesunde Partnerschaften aufbauen. Der Schlüssel ist, zu lernen, dass du wertvoll bist, auch wenn du nicht rettend brauchst.'}"
-  - "{'question': 'Wie helfe ich meinem Partner, ohne ein Retter zu sein?', 'answer': 'Gesundes Helfen hat Grenzen. Du kannst Unterstützung anbieten, aber der andere Mensch bleibt für seine Genesung verantwortlich. Du fragst, wie du helfen kannst, statt anzunehmen, dass du weißt, was nötig ist. Du hältst fest an deinen eigenen Grenzen und Bedürfnissen. Du versucht nicht, eine Person zu ändern, die nicht ändern will.'}"
+  - question: "Was ist das Retter-Syndrom genau?"
+    answer: "Das Retter-Syndrom ist ein psychologisches Muster, bei dem eine Person in Beziehungen primär als Helfer oder Retter funktioniert. Sie wählt Partner, die 'kaputt' oder bedürftig sind, und versucht, sie zu heilen oder zu retten. Das gibt dem Retter ein Gefühl von Selbstwert, was unhealthy ist, weil es auf die Abhängigkeit des anderen basiert."
+  - question: "Bin ich ein Retter oder einfach eine fürsorgliche Person?"
+    answer: "Eine fürsorgliche Person hilft und unterstützt, aber respektiert die Grenzen und Autonomie des anderen. Ein Retter hingegen opfert sich selbst auf, übernimmt Verantwortung für die Genesung des anderen und fühlt sich verloren, wenn der andere nicht hilft. Wenn dein Selbstwert davon abhängt, dass der andere dich braucht, bist du wahrscheinlich ein Retter."
+  - question: "Woher kommt das Retter-Syndrom?"
+    answer: "Es hat oft Wurzeln in der Kindheit. Vielleicht hattest du einen Elternteil, der deine emotionale Unterstützung brauchte. Vielleicht lerntest du, dass dein Wert darin lag, nützlich und notwendig zu sein. Diese frühen Erfahrungen prägen dein Muster in Erwachsenenbeziehungen."
+  - question: "Können Menschen mit Retter-Syndrom glückliche Beziehungen haben?"
+    answer: "Ja, aber sie müssen das Muster erkennen und daran arbeiten. Mit Therapie, Bewusstsein und bewusster Wahl können Menschen mit Retter-Tendenzen gesunde Partnerschaften aufbauen. Der Schlüssel ist, zu lernen, dass du wertvoll bist, auch wenn du nicht rettend brauchst."
+  - question: "Wie helfe ich meinem Partner, ohne ein Retter zu sein?"
+    answer: "Gesundes Helfen hat Grenzen. Du kannst Unterstützung anbieten, aber der andere Mensch bleibt für seine Genesung verantwortlich. Du fragst, wie du helfen kannst, statt anzunehmen, dass du weißt, was nötig ist. Du hältst fest an deinen eigenen Grenzen und Bedürfnissen. Du versucht nicht, eine Person zu ändern, die nicht ändern will."
 ---
 
 ## Was ist das Retter-Syndrom – Eine klare Definition

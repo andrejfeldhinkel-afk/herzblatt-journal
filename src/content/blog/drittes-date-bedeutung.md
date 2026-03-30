@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/drittes-date-bedeutung.webp"
 imageAlt: "Paar beim dritten Date"
 faq:
-  - "{'question': 'Ist das dritte Date wirklich so bedeutsam?', 'answer': 'Ja, das dritte Date markiert oft den Punkt, an dem aus Chemie tatsächliche Gefühle werden. Es ist der Moment, in dem viele Menschen merken, ob sie wirklich eine Beziehung wollen oder ob es nur oberflächliche Anziehung war.'}"
-  - "{'question': 'Was sollte man beim dritten Date anders machen?', 'answer': 'Beim dritten Date können Sie beginnen, verletzlicher zu werden. Teilen Sie mehr über Ihre Gefühle und Erwartungen mit, anstatt nur oberflächliche Themen zu besprechen. Dies ist der ideale Zeitpunkt, um über die Zukunft zu sprechen.'}"
-  - "{'question': 'Was bedeutet es, wenn das dritte Date nicht gut läuft?', 'answer': 'Wenn das dritte Date schwierig ist, könnte dies ein Zeichen sein, dass die Chemie nicht stimmt oder dass unterschiedliche Erwartungen vorhanden sind. Das ist okay – nicht jede Verbindung soll sich zu etwas entwickeln.'}"
+  - question: "Ist das dritte Date wirklich so bedeutsam?"
+    answer: "Ja, das dritte Date markiert oft den Punkt, an dem aus Chemie tatsächliche Gefühle werden. Es ist der Moment, in dem viele Menschen merken, ob sie wirklich eine Beziehung wollen oder ob es nur oberflächliche Anziehung war."
+  - question: "Was sollte man beim dritten Date anders machen?"
+    answer: "Beim dritten Date können Sie beginnen, verletzlicher zu werden. Teilen Sie mehr über Ihre Gefühle und Erwartungen mit, anstatt nur oberflächliche Themen zu besprechen. Dies ist der ideale Zeitpunkt, um über die Zukunft zu sprechen."
+  - question: "Was bedeutet es, wenn das dritte Date nicht gut läuft?"
+    answer: "Wenn das dritte Date schwierig ist, könnte dies ein Zeichen sein, dass die Chemie nicht stimmt oder dass unterschiedliche Erwartungen vorhanden sind. Das ist okay – nicht jede Verbindung soll sich zu etwas entwickeln."
 ---
 
 Das dritte Date hat in der modernen Datierungskultur eine fast mystische Bedeutung erlangt — besonders wenn es um wirklich geht. Viele Singles fragen sich: Ist dies der Punkt, an dem ich weiß, ob diese Person meine Zukunft ist? Während es keine universelle Regel gibt, gibt es einige psychologische Gründe, warum das dritte Date tatsächlich wichtig sein kann.

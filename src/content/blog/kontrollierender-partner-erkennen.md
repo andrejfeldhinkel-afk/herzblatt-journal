@@ -17,10 +17,14 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Wie erkenne ich einen kontrollierenden Partner?', 'answer': 'Typische Anzeichen sind: Er/sie will immer wissen wo du bist, kritisiert deine Freundschaften, kontrolliert deine Finanzen, macht dir Schuldgefühle wenn du Zeit ohne ihn/sie verbringst, und reagiert unverhältnismäßig auf kleine Dinge.'}"
-  - "{'question': 'Ist Kontrolle in der Beziehung immer absichtlich?', 'answer': 'Nein. Viele kontrollierende Partner handeln aus tiefer Unsicherheit und Verlustangst. Das macht das Verhalten nicht akzeptabel, erklärt aber, warum es oft schleichend beginnt und schwer zu erkennen ist.'}"
-  - "{'question': 'Kann sich ein kontrollierender Partner ändern?', 'answer': 'Nur wenn die Person ihr Verhalten als Problem erkennt und aktiv an sich arbeitet — meist mit professioneller Hilfe. Ohne diese Einsicht ist dauerhafte Veränderung unwahrscheinlich.'}"
-  - "{'question': 'Was kann ich tun wenn mein Partner mich kontrolliert?', 'answer': 'Setze klare Grenzen, kommuniziere deine Bedürfnisse, such dir Unterstützung im Umfeld oder bei einer Beratungsstelle. Wenn sich nichts ändert oder die Situation eskaliert, plane deinen Ausstieg — deine Sicherheit geht vor.'}"
+  - question: "Wie erkenne ich einen kontrollierenden Partner?"
+    answer: "Typische Anzeichen sind: Er/sie will immer wissen wo du bist, kritisiert deine Freundschaften, kontrolliert deine Finanzen, macht dir Schuldgefühle wenn du Zeit ohne ihn/sie verbringst, und reagiert unverhältnismäßig auf kleine Dinge."
+  - question: "Ist Kontrolle in der Beziehung immer absichtlich?"
+    answer: "Nein. Viele kontrollierende Partner handeln aus tiefer Unsicherheit und Verlustangst. Das macht das Verhalten nicht akzeptabel, erklärt aber, warum es oft schleichend beginnt und schwer zu erkennen ist."
+  - question: "Kann sich ein kontrollierender Partner ändern?"
+    answer: "Nur wenn die Person ihr Verhalten als Problem erkennt und aktiv an sich arbeitet — meist mit professioneller Hilfe. Ohne diese Einsicht ist dauerhafte Veränderung unwahrscheinlich."
+  - question: "Was kann ich tun wenn mein Partner mich kontrolliert?"
+    answer: "Setze klare Grenzen, kommuniziere deine Bedürfnisse, such dir Unterstützung im Umfeld oder bei einer Beratungsstelle. Wenn sich nichts ändert oder die Situation eskaliert, plane deinen Ausstieg — deine Sicherheit geht vor."
 ---
 ## Einleitung: Wie Kontrolle sich einschleicht — und warum du es anfangs nicht bemerkst
 

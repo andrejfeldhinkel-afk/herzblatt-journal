@@ -15,11 +15,16 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - "{'question': 'Wie erkenne ich, ob jemand an mir interessiert ist?', 'answer': 'Achte auf Augenkontakt, Lächeln, aufrechte Körperhaltung und dass die Person sich dir zuzuwendet. Echtes Interesse zeigt sich konsistent über mehrere Signale, nicht nur eines.'}"
-  - "{'question': 'Unterscheidet sich Körpersprache zwischen Männern und Frauen beim Flirten?', 'answer': 'Ja, es gibt subtile Unterschiede. Frauen nutzen oft subtilere Signale, Männer sind manchmal direkter. Aber echtes Interesse zeigt sich bei beiden in ähnlichen Grundelementen.'}"
-  - "{'question': 'Was ist der Unterschied zwischen höflicher Freundlichkeit und echtem Flirten?', 'answer': 'Echtes Flirten beinhaltet meist verlängerten Augenkontakt, leichte Berührungen und häufiges Lächeln. Höfliche Freundlichkeit ist distanzierter und weniger konsistent.'}"
-  - "{'question': 'Kann ich meine eigene Körpersprache beim Flirten verbessern?', 'answer': 'Ja, absolut. Aufrechte Haltung, Blickkontakt halten, authentisches Lächeln und offene Gesten machen dich attraktiver und zugänglicher für andere.'}"
-  - "{'question': 'Was bedeutet es, wenn jemand seinen Körper zu mir neigt?', 'answer': 'Das ist normalerweise ein positives Zeichen. Es zeigt, dass die Person sich zu dir hingezogen fühlt und sich dir nähern möchte. Das ist eines der zuverlässigsten Flirtsignale.'}"
+  - question: "Wie erkenne ich, ob jemand an mir interessiert ist?"
+    answer: "Achte auf Augenkontakt, Lächeln, aufrechte Körperhaltung und dass die Person sich dir zuzuwendet. Echtes Interesse zeigt sich konsistent über mehrere Signale, nicht nur eines."
+  - question: "Unterscheidet sich Körpersprache zwischen Männern und Frauen beim Flirten?"
+    answer: "Ja, es gibt subtile Unterschiede. Frauen nutzen oft subtilere Signale, Männer sind manchmal direkter. Aber echtes Interesse zeigt sich bei beiden in ähnlichen Grundelementen."
+  - question: "Was ist der Unterschied zwischen höflicher Freundlichkeit und echtem Flirten?"
+    answer: "Echtes Flirten beinhaltet meist verlängerten Augenkontakt, leichte Berührungen und häufiges Lächeln. Höfliche Freundlichkeit ist distanzierter und weniger konsistent."
+  - question: "Kann ich meine eigene Körpersprache beim Flirten verbessern?"
+    answer: "Ja, absolut. Aufrechte Haltung, Blickkontakt halten, authentisches Lächeln und offene Gesten machen dich attraktiver und zugänglicher für andere."
+  - question: "Was bedeutet es, wenn jemand seinen Körper zu mir neigt?"
+    answer: "Das ist normalerweise ein positives Zeichen. Es zeigt, dass die Person sich zu dir hingezogen fühlt und sich dir nähern möchte. Das ist eines der zuverlässigsten Flirtsignale."
 ---
 
 ## körpersprache beim flirten: So erkennst du echtes Interesse

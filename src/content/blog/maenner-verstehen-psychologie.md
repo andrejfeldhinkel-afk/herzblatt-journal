@@ -17,10 +17,14 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Warum ziehen sich Männer plötzlich zurück?', 'answer': 'Männer brauchen oft Raum, um Stress oder Emotionen zu verarbeiten. Dieser Rückzug ist meist kein Zeichen von Desinteresse, sondern ein erlerntes Verhalten — sie regulieren sich durch Alleinsein statt durch Gespräche.'}"
-  - "{'question': 'Wie erkenne ich, ob ein Mann echte Gefühle hat?', 'answer': 'Achte auf Taten statt Worte. Männer zeigen Liebe häufiger durch Handlungen: Er merkt sich Details, plant Zeit mit dir ein, stellt dich seiner Familie vor und ist zuverlässig da, wenn du ihn brauchst.'}"
-  - "{'question': 'Warum sagen Männer nicht, was sie fühlen?', 'answer': 'Die meisten Männer wurden sozialisiert, Emotionen zu unterdrücken. Es ist keine Absicht — sie haben oft schlicht kein Vokabular für ihre Gefühle entwickelt. Geduld und ein sicherer Raum helfen enorm.'}"
-  - "{'question': 'Kann ich einen Mann ändern?', 'answer': 'Kurz: Nein. Aber du kannst ein Umfeld schaffen, in dem Veränderung möglich wird. Veränderung muss von ihm selbst kommen — dein Einfluss liegt darin, Grenzen zu setzen und klar zu kommunizieren, was du brauchst.'}"
+  - question: "Warum ziehen sich Männer plötzlich zurück?"
+    answer: "Männer brauchen oft Raum, um Stress oder Emotionen zu verarbeiten. Dieser Rückzug ist meist kein Zeichen von Desinteresse, sondern ein erlerntes Verhalten — sie regulieren sich durch Alleinsein statt durch Gespräche."
+  - question: "Wie erkenne ich, ob ein Mann echte Gefühle hat?"
+    answer: "Achte auf Taten statt Worte. Männer zeigen Liebe häufiger durch Handlungen: Er merkt sich Details, plant Zeit mit dir ein, stellt dich seiner Familie vor und ist zuverlässig da, wenn du ihn brauchst."
+  - question: "Warum sagen Männer nicht, was sie fühlen?"
+    answer: "Die meisten Männer wurden sozialisiert, Emotionen zu unterdrücken. Es ist keine Absicht — sie haben oft schlicht kein Vokabular für ihre Gefühle entwickelt. Geduld und ein sicherer Raum helfen enorm."
+  - question: "Kann ich einen Mann ändern?"
+    answer: "Kurz: Nein. Aber du kannst ein Umfeld schaffen, in dem Veränderung möglich wird. Veränderung muss von ihm selbst kommen — dein Einfluss liegt darin, Grenzen zu setzen und klar zu kommunizieren, was du brauchst."
 ---
 
 ## Einleitung: Warum Männer wie eine Fremdsprache wirken

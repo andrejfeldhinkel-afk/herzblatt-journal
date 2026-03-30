@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/dating-als-schuechterne-frau.webp"
 imageAlt: "Schüchterne Frau beim Daten"
 faq:
-  - "{'question': 'Bin ich zu schüchtern um zu daten?', 'answer': 'Nein, Schüchternheit ist kein Hindernis sondern eine Persönlichkeitseigenschaft. Viele erfolgreiche Menschen sind schüchtern. Der Schlüssel liegt darin, die eigene Art anzunehmen und sie nicht als Mangel zu betrachten.'}"
-  - "{'question': 'Sollte ich versuchen offener zu sein wenn ich schüchtern bin?', 'answer': 'Du kannst an deinem Selbstbewusstsein arbeiten, aber versuche nicht deine grundlegende Natur zu verändern. Manche Menschen werden deine Ruhe und Zurückhaltung sehr schätzen. Sei authentisch, nicht eine aufgesetzte Version deiner selbst.'}"
-  - "{'question': 'Wie kann ich als schüchterne Frau den ersten Schritt machen?', 'answer': 'Du musst nicht immer die Initiatorin sein. Aber wenn du etwas initiieren möchtest, plane es voraus und fang mit kleinen Gesten an. Ein einfaches Lächeln oder eine kurze Nachricht sind leichter als große Gesten. Beginne klein und steigere dich.'}"
+  - question: "Bin ich zu schüchtern um zu daten?"
+    answer: "Nein, Schüchternheit ist kein Hindernis sondern eine Persönlichkeitseigenschaft. Viele erfolgreiche Menschen sind schüchtern. Der Schlüssel liegt darin, die eigene Art anzunehmen und sie nicht als Mangel zu betrachten."
+  - question: "Sollte ich versuchen offener zu sein wenn ich schüchtern bin?"
+    answer: "Du kannst an deinem Selbstbewusstsein arbeiten, aber versuche nicht deine grundlegende Natur zu verändern. Manche Menschen werden deine Ruhe und Zurückhaltung sehr schätzen. Sei authentisch, nicht eine aufgesetzte Version deiner selbst."
+  - question: "Wie kann ich als schüchterne Frau den ersten Schritt machen?"
+    answer: "Du musst nicht immer die Initiatorin sein. Aber wenn du etwas initiieren möchtest, plane es voraus und fang mit kleinen Gesten an. Ein einfaches Lächeln oder eine kurze Nachricht sind leichter als große Gesten. Beginne klein und steigere dich."
 ---
 Als schüchterne Frau ins [dating](/blog/anzeichen-er-steht-auf-dich/) zu gehen kann sich doppelt schwierig anfühlen. Nicht nur gibt es die normalen Angst und Unsicherheit, aber es gibt auch kulturelle Erwartungen, dass Frauen selbstbewusst und outgoing sein sollten.
 

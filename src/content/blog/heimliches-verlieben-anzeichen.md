@@ -12,8 +12,10 @@ draft: false
 image: "/images/photos/anzeichen-interesse.webp"
 imageAlt: "Heimlich verliebt? 15 Anzeichen, die dich verraten"
 faq:
-  - "{'question': 'Was ist das Wichtigste bei heimlich verliebt? 15 anzeichen, die dich verraten?', 'answer': 'Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst.'}"
-  - "{'question': 'Wo finde ich Hilfe zum Thema heimlich verliebt? 15 anzeichen, die dich verraten?', 'answer': 'Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung.'}"
+  - question: "Was ist das Wichtigste bei heimlich verliebt? 15 anzeichen, die dich verraten?"
+    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
+  - question: "Wo finde ich Hilfe zum Thema heimlich verliebt? 15 anzeichen, die dich verraten?"
+    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
 ---
 ## 15 Zeichen, dass du heimlich verliebt bist (und es vielleicht noch nicht weißt)
 

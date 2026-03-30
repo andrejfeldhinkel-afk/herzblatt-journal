@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/beziehung-und-freundschaften.webp"
 imageAlt: "Freunde und Beziehung zusammen"
 faq:
-  - "{'question': 'Ist es normal, weniger Zeit mit Freunden zu verbringen, wenn man verliebt ist?', 'answer': 'Ja, es ist völlig normal. In der Anfangsphase einer Beziehung wollen viele Menschen viel Zeit mit ihrem neuen Partner verbringen. Das ist die Honeymoon-Phase. Das Problem entsteht nur, wenn du deine Freundschaften komplett vernachlässigst oder deinen Partner ständig vermisst.'}"
-  - "{'question': 'Wie sage ich meinem Partner, dass ich Zeit mit meinen Freunden brauche?', 'answer': 'Sei direkt und ruhig: "Mir sind meine Freundschaften wichtig, und ich möchte Zeit mit ihnen verbringen, ohne mich schuldig zu fühlen." Ein Partner, der das nicht akzeptiert, ist wahrscheinlich kontrollierend. Eine gesunde Beziehung unterstützt beide Partner in ihren Beziehungen außerhalb der Romantik.'}"
-  - "{'question': 'Was mache ich, wenn mein Partner meine Freunde nicht mag?', 'answer': 'Das ist ein größeres Problem. Dein Partner muss deine Freunde nicht lieben, aber er muss sie respektieren. Wenn er versucht, dich von ihnen zu isolieren, ist das ein Warnsignal. Wenn es nur Unbehagen ist, könnte Zeit helfen.'}"
+  - question: "Ist es normal, weniger Zeit mit Freunden zu verbringen, wenn man verliebt ist?"
+    answer: "Ja, es ist völlig normal. In der Anfangsphase einer Beziehung wollen viele Menschen viel Zeit mit ihrem neuen Partner verbringen. Das ist die Honeymoon-Phase. Das Problem entsteht nur, wenn du deine Freundschaften komplett vernachlässigst oder deinen Partner ständig vermisst."
+  - question: "Wie sage ich meinem Partner, dass ich Zeit mit meinen Freunden brauche?"
+    answer: "Sei direkt und ruhig: \"Mir sind meine Freundschaften wichtig, und ich möchte Zeit mit ihnen verbringen, ohne mich schuldig zu fühlen.\" Ein Partner, der das nicht akzeptiert, ist wahrscheinlich kontrollierend. Eine gesunde Beziehung unterstützt beide Partner in ihren Beziehungen außerhalb der Romantik."
+  - question: "Was mache ich, wenn mein Partner meine Freunde nicht mag?"
+    answer: "Das ist ein größeres Problem. Dein Partner muss deine Freunde nicht lieben, aber er muss sie respektieren. Wenn er versucht, dich von ihnen zu isolieren, ist das ein Warnsignal. Wenn es nur Unbehagen ist, könnte Zeit helfen."
 ---
 Eine der größten Herausforderungen in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/) ist das Gleichgewicht zwischen der Romantik mit deinem Partner und der Aufrechterhaltung deiner Freundschaften. Es ist leicht, sich in die Liebelei zu verlaufen und plötzlich deine besten Freunde zu vernachlässigen. Aber langfristig glückliche Menschen haben beides – eine erfüllende Beziehung UND enge Freundschaften.
 

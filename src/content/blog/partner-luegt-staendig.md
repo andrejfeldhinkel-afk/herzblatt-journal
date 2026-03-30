@@ -15,11 +15,16 @@ keywords:
 draft: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Warum lügt mein Partner ständig?', 'answer': 'Häufige Gründe sind Konfliktvermeidung, Scham, Angst vor Konsequenzen oder erlerntes Verhalten aus der Kindheit. Manche Menschen lügen auch aus Gewohnheit, ohne böse Absicht.'}"
-  - "{'question': 'Kann ein Lügner sich ändern?', 'answer': 'Ja, aber nur wenn er das Problem selbst erkennt und aktiv daran arbeiten will. Ohne Einsicht und den echten Wunsch zur Veränderung wird sich das Muster wiederholen.'}"
-  - "{'question': 'Soll ich die Beziehung beenden wenn mein Partner lügt?', 'answer': 'Das kommt auf die Art und Häufigkeit der Lügen an. Notlügen sind menschlich, systematisches Lügen über wichtige Dinge ist ein ernstes Problem. Wenn dein Grundvertrauen zerstört ist, ist eine Trennung oft gesünder.'}"
-  - "{'question': 'Wie erkenne ich, ob mein Partner mich anlügt?', 'answer': 'Achte auf Inkonsistenzen in seinen Geschichten, Veränderungen in Körpersprache und Tonfall, und auf Reaktionen wie Abwehr oder Ausweichen. Ein ehrlicher Partner kann auf Fragen direkt antworten.'}"
-  - "{'question': 'Was kann ich tun, um eine ehrlichere Beziehung zu schaffen?', 'answer': 'Schaffe einen sicheren Raum, in dem Fehler erlaubt sind (und Konsequenzen haben), ohne dass es zu Bestrafung führt. Kommuniziere offen, welche Grenzen für dich wichtig sind, und halte sie konsequent.'}"
+  - question: "Warum lügt mein Partner ständig?"
+    answer: "Häufige Gründe sind Konfliktvermeidung, Scham, Angst vor Konsequenzen oder erlerntes Verhalten aus der Kindheit. Manche Menschen lügen auch aus Gewohnheit, ohne böse Absicht."
+  - question: "Kann ein Lügner sich ändern?"
+    answer: "Ja, aber nur wenn er das Problem selbst erkennt und aktiv daran arbeiten will. Ohne Einsicht und den echten Wunsch zur Veränderung wird sich das Muster wiederholen."
+  - question: "Soll ich die Beziehung beenden wenn mein Partner lügt?"
+    answer: "Das kommt auf die Art und Häufigkeit der Lügen an. Notlügen sind menschlich, systematisches Lügen über wichtige Dinge ist ein ernstes Problem. Wenn dein Grundvertrauen zerstört ist, ist eine Trennung oft gesünder."
+  - question: "Wie erkenne ich, ob mein Partner mich anlügt?"
+    answer: "Achte auf Inkonsistenzen in seinen Geschichten, Veränderungen in Körpersprache und Tonfall, und auf Reaktionen wie Abwehr oder Ausweichen. Ein ehrlicher Partner kann auf Fragen direkt antworten."
+  - question: "Was kann ich tun, um eine ehrlichere Beziehung zu schaffen?"
+    answer: "Schaffe einen sicheren Raum, in dem Fehler erlaubt sind (und Konsequenzen haben), ohne dass es zu Bestrafung führt. Kommuniziere offen, welche Grenzen für dich wichtig sind, und halte sie konsequent."
 ---
 Es sind immer die gleichen Anzeichen: Da sagt dir dein Partner, er war im Fitnessstudio, aber sein bester Freund erzählt dir zufällig, dass er bei ihm zuhause war. Oder du findest eine Nachricht auf seinem Handy, die der Geschichte widerspricht, die er dir noch vor einer Stunde erzählt hat. Wenn dein Partner lügt ständig, zerrt das nicht nur am Vertrauen — es frisst auch an dir selbst auf.
 

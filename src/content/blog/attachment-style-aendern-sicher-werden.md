@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Kann man seinen Bindungsstil wirklich ändern?', 'answer': 'Ja. Neurowissenschaftliche Forschung zeigt dass unser Gehirn durch neuroplastische Prozesse neue Beziehungsmuster lernen kann. Es ist nicht einfach und braucht Zeit (oft 1-3 Jahre bewusste Arbeit), aber es ist definitiv möglich.'}"
-  - "{'question': 'Welcher Bindungsstil ist am schwierigsten zu ändern?', 'answer': 'Der desorganisierte (ängstlich-vermeidende) Bindungsstil, weil er oft mit Kindheitstraumata verbunden ist. Hier ist professionelle therapeutische Begleitung besonders wichtig. Aber auch dieser Stil ist veränderbar.'}"
-  - "{'question': 'Brauche ich eine Therapie um meinen Bindungsstil zu ändern?', 'answer': 'Nicht zwingend, aber es hilft enorm. Ein Therapeut kann blinde Flecken aufdecken die dir selbst nicht auffallen. Für ängstlich-vermeidende oder desorganisierte Stile ist Therapie stark empfohlen.'}"
-  - "{'question': 'Kann eine Beziehung meinen Bindungsstil verändern?', 'answer': "Ja. Eine 'korrigierende Beziehungserfahrung' mit einem sicher gebundenen Partner kann heilend wirken. Aber Achtung: Du solltest nicht erwarten, dass dein Partner dein Therapeut ist. Eigenarbeit bleibt wichtig."}"
+  - question: "Kann man seinen Bindungsstil wirklich ändern?"
+    answer: "Ja. Neurowissenschaftliche Forschung zeigt dass unser Gehirn durch neuroplastische Prozesse neue Beziehungsmuster lernen kann. Es ist nicht einfach und braucht Zeit (oft 1-3 Jahre bewusste Arbeit), aber es ist definitiv möglich."
+  - question: "Welcher Bindungsstil ist am schwierigsten zu ändern?"
+    answer: "Der desorganisierte (ängstlich-vermeidende) Bindungsstil, weil er oft mit Kindheitstraumata verbunden ist. Hier ist professionelle therapeutische Begleitung besonders wichtig. Aber auch dieser Stil ist veränderbar."
+  - question: "Brauche ich eine Therapie um meinen Bindungsstil zu ändern?"
+    answer: "Nicht zwingend, aber es hilft enorm. Ein Therapeut kann blinde Flecken aufdecken die dir selbst nicht auffallen. Für ängstlich-vermeidende oder desorganisierte Stile ist Therapie stark empfohlen."
+  - question: "Kann eine Beziehung meinen Bindungsstil verändern?"
+    answer: "Ja. Eine 'korrigierende Beziehungserfahrung' mit einem sicher gebundenen Partner kann heilend wirken. Aber Achtung: Du solltest nicht erwarten, dass dein Partner dein Therapeut ist. Eigenarbeit bleibt wichtig."
 ---
 Bindungsstil. Du hast wahrscheinlich das Wort schon 100 Mal gehört. Sicher gebunden, ängstlich gebunden, vermeidend gebunden. Es klingt nach esoterischem Kram. Aber es ist nicht — es ist Psychologie die fundamental wichtig ist für dein romantisches Leben.
 

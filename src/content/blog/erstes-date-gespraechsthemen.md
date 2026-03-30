@@ -15,11 +15,16 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - "{'question': 'Sollte ich eine Liste mit Fragen vorbereiten?', 'answer': 'Du solltest nicht mit einer Liste dagesessen! Aber es ist völlig ok, ein paar interessante Fragen im Hinterkopf zu haben. Sie dienen nur als Backup, wenn die Unterhaltung stagniert.'}"
-  - "{'question': 'Was ist, wenn wir schweigen?', 'answer': 'Stille beim Dating ist normal und nicht unbedingt schlecht. Kurze Pausen zeigen, dass du präsent bist, nicht nervös. Nutze sie, um zu beobachten und dein Date anzuschauen.'}"
-  - "{'question': 'Wie lange sollte ein erstes Date sein?', 'answer': 'Plane 1,5 bis 2 Stunden ein. Das reicht aus, um zu sehen, ob die Chemie da ist, ist aber nicht so lang, dass es unangenehm wird, wenn die Chemie fehlt.'}"
-  - "{'question': 'Sollte ich persönliche Fragen stellen?', 'answer': 'Ja, aber mit Augenmaß. Starten Sie mit leichteren Fragen und gehen Sie allmählich zu tieferen Themen über. Wenn dein Date nicht gerne von sich spricht, respektiere das.'}"
-  - "{'question': 'Was sollte ich auf keinen Fall fragen?', 'answer': 'Vermeide Ex-Partner, Politik, Religion und finanzielle Details beim ersten Date. Das sind zu persönlich und zu beladen für diesen Moment.'}"
+  - question: "Sollte ich eine Liste mit Fragen vorbereiten?"
+    answer: "Du solltest nicht mit einer Liste dagesessen! Aber es ist völlig ok, ein paar interessante Fragen im Hinterkopf zu haben. Sie dienen nur als Backup, wenn die Unterhaltung stagniert."
+  - question: "Was ist, wenn wir schweigen?"
+    answer: "Stille beim Dating ist normal und nicht unbedingt schlecht. Kurze Pausen zeigen, dass du präsent bist, nicht nervös. Nutze sie, um zu beobachten und dein Date anzuschauen."
+  - question: "Wie lange sollte ein erstes Date sein?"
+    answer: "Plane 1,5 bis 2 Stunden ein. Das reicht aus, um zu sehen, ob die Chemie da ist, ist aber nicht so lang, dass es unangenehm wird, wenn die Chemie fehlt."
+  - question: "Sollte ich persönliche Fragen stellen?"
+    answer: "Ja, aber mit Augenmaß. Starten Sie mit leichteren Fragen und gehen Sie allmählich zu tieferen Themen über. Wenn dein Date nicht gerne von sich spricht, respektiere das."
+  - question: "Was sollte ich auf keinen Fall fragen?"
+    answer: "Vermeide Ex-Partner, Politik, Religion und finanzielle Details beim ersten Date. Das sind zu persönlich und zu beladen für diesen Moment."
 ---
 ## Das Geheimnis guter Date-Gespräche
 

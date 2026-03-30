@@ -13,8 +13,10 @@ draft: false
 image: "/images/photos/dating-nach-toxischer-beziehung.webp"
 imageAlt: "Dating nach emotionalem Missbrauch"
 faq:
-  - "{'question': 'Was ist das Wichtigste bei dating nach emotionalem missbrauch?', 'answer': 'Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst.'}"
-  - "{'question': 'Wo finde ich Hilfe zum Thema dating nach emotionalem missbrauch?', 'answer': 'Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung.'}"
+  - question: "Was ist das Wichtigste bei dating nach emotionalem missbrauch?"
+    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
+  - question: "Wo finde ich Hilfe zum Thema dating nach emotionalem missbrauch?"
+    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
 ---## Nach emotionalem Missbrauch wieder lieben: Ein behutsamer Weg zur Heilung
 
 Nach einer emotionalen missbrauchlichen [Beziehung](/blog/adhs-und-beziehung-komplett-guide/) wieder zu daten fühlt sich wie eine unmögliche Aufgabe an. Es ist nicht einfach, dass die letzte Beziehung endete. Es ist, dass die letzte Beziehung dir Schaden zugefügt hat. Wunden, die nicht sichtbar sind, aber weitreichend sind.

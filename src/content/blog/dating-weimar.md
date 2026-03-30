@@ -14,9 +14,12 @@ draft: false
 image: "/images/photos/dating-weimar.webp"
 imageAlt: "Weimar Goethes Gartenhaus"
 faq:
-  - "{'question': 'Wo lernt man in Weimar Singles kennen?', 'answer': 'Die beste Single-Szene findest du in den Kultur-Cafés der Altstadt, den Kneipen rund um den Marktplatz und den künstlerischen Spaces. Auch Parks und Kulturveranstaltungen sind großartig für Treffen.'}"
-  - "{'question': 'Was sind die besten Date-Ideen in Weimar?', 'answer': 'Spaziergang durch den Park an der Ilm, Besuch in Goethes Gartenhaus, Kunstmuseen, Kulturveranstaltungen und Kneipen-Dates in der Altstadt. Weimar ist Kultur-Dating!'}"
-  - "{'question': 'Gibt es eine gute Single-Szene in Weimar?', 'answer': 'Ja, aber anders als in anderen Städten. Weimar zieht kulturinteressierte, nachdenkliche Menschen an. Die Szene ist klein aber hochwertig – Qualität statt Quantität.'}"
+  - question: "Wo lernt man in Weimar Singles kennen?"
+    answer: "Die beste Single-Szene findest du in den Kultur-Cafés der Altstadt, den Kneipen rund um den Marktplatz und den künstlerischen Spaces. Auch Parks und Kulturveranstaltungen sind großartig für Treffen."
+  - question: "Was sind die besten Date-Ideen in Weimar?"
+    answer: "Spaziergang durch den Park an der Ilm, Besuch in Goethes Gartenhaus, Kunstmuseen, Kulturveranstaltungen und Kneipen-Dates in der Altstadt. Weimar ist Kultur-Dating!"
+  - question: "Gibt es eine gute Single-Szene in Weimar?"
+    answer: "Ja, aber anders als in anderen Städten. Weimar zieht kulturinteressierte, nachdenkliche Menschen an. Die Szene ist klein aber hochwertig – Qualität statt Quantität."
 ---
 
 ## Willkommen in Weimar – Wo Kultur zum Dating wird

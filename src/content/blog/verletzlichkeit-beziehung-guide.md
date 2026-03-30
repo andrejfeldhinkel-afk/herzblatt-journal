@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Warum fällt Verletzlichkeit in Beziehungen so schwer?', 'answer': 'Weil wir gelernt haben, dass Verletzlichkeit Schwäche bedeutet. In Wahrheit ist sie das Gegenteil: Es erfordert enormen Mut, sich emotional zu zeigen. Oft stecken Kindheitserfahrungen dahinter — wer für Gefühle bestraft wurde, schützt sich als Erwachsener.'}"
-  - "{'question': 'Wie kann ich in meiner Beziehung verletzlicher werden?', 'answer': 'Starte klein: Teile eine Unsicherheit oder Angst mit deinem Partner. Wähle einen ruhigen Moment, nicht im Streit. Sage konkret was du fühlst, nicht was der andere falsch macht. Und gib deinem Partner Zeit zu reagieren.'}"
-  - "{'question': 'Was wenn mein Partner meine Verletzlichkeit ausnutzt?', 'answer': 'Dann ist das ein ernstes Red Flag. Ein liebevoller Partner wird deine Offenheit mit Respekt und Empathie behandeln. Wenn jemand deine Verletzlichkeit gegen dich verwendet, ist das emotionaler Missbrauch — nicht deine Schuld.'}"
-  - "{'question': 'Ist Verletzlichkeit das Gleiche wie Schwäche?', 'answer': "Nein, das Gegenteil. Brené Brown's Forschung zeigt: Verletzlichkeit ist die Geburtsstätte von Liebe, Zugehörigkeit, Freude und Mut. Es braucht mehr Stärke, sich emotional zu zeigen, als sich hinter einer Mauer zu verstecken."}"
+  - question: "Warum fällt Verletzlichkeit in Beziehungen so schwer?"
+    answer: "Weil wir gelernt haben, dass Verletzlichkeit Schwäche bedeutet. In Wahrheit ist sie das Gegenteil: Es erfordert enormen Mut, sich emotional zu zeigen. Oft stecken Kindheitserfahrungen dahinter — wer für Gefühle bestraft wurde, schützt sich als Erwachsener."
+  - question: "Wie kann ich in meiner Beziehung verletzlicher werden?"
+    answer: "Starte klein: Teile eine Unsicherheit oder Angst mit deinem Partner. Wähle einen ruhigen Moment, nicht im Streit. Sage konkret was du fühlst, nicht was der andere falsch macht. Und gib deinem Partner Zeit zu reagieren."
+  - question: "Was wenn mein Partner meine Verletzlichkeit ausnutzt?"
+    answer: "Dann ist das ein ernstes Red Flag. Ein liebevoller Partner wird deine Offenheit mit Respekt und Empathie behandeln. Wenn jemand deine Verletzlichkeit gegen dich verwendet, ist das emotionaler Missbrauch — nicht deine Schuld."
+  - question: "Ist Verletzlichkeit das Gleiche wie Schwäche?"
+    answer: "Nein, das Gegenteil. Brené Brown's Forschung zeigt: Verletzlichkeit ist die Geburtsstätte von Liebe, Zugehörigkeit, Freude und Mut. Es braucht mehr Stärke, sich emotional zu zeigen, als sich hinter einer Mauer zu verstecken."
 ---
 ## Verletzlichkeit in Beziehungen: Warum emotionale Offenheit der Schlüssel zu tiefer Liebe ist
 

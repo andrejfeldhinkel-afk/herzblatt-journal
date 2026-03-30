@@ -15,9 +15,12 @@ keywords:
 draft: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Was sind Daddy Issues genau?', 'answer': 'Der Begriff beschreibt Beziehungsmuster die durch eine problematische oder fehlende Vater-Beziehung entstanden sind. Es ist kein klinischer Begriff, beschreibt aber reale Auswirkungen auf das Bindungsverhalten.'}"
-  - "{'question': 'Haben nur Frauen Daddy Issues?', 'answer': 'Nein. Auch Männer werden von der Beziehung zum Vater geprägt — sie zeigen es nur anders. Söhne abwesender Väter haben oft Probleme mit männlicher Identität und emotionaler Nähe.'}"
-  - "{'question': 'Kann man Daddy Issues heilen?', 'answer': 'Ja. Bewusstsein ist der erste Schritt. Therapie, besonders bindungsorientierte Ansätze, hilft die alten Wunden zu verarbeiten und neue, gesunde Beziehungsmuster aufzubauen.'}"
+  - question: "Was sind Daddy Issues genau?"
+    answer: "Der Begriff beschreibt Beziehungsmuster die durch eine problematische oder fehlende Vater-Beziehung entstanden sind. Es ist kein klinischer Begriff, beschreibt aber reale Auswirkungen auf das Bindungsverhalten."
+  - question: "Haben nur Frauen Daddy Issues?"
+    answer: "Nein. Auch Männer werden von der Beziehung zum Vater geprägt — sie zeigen es nur anders. Söhne abwesender Väter haben oft Probleme mit männlicher Identität und emotionaler Nähe."
+  - question: "Kann man Daddy Issues heilen?"
+    answer: "Ja. Bewusstsein ist der erste Schritt. Therapie, besonders bindungsorientierte Ansätze, hilft die alten Wunden zu verarbeiten und neue, gesunde Beziehungsmuster aufzubauen."
 ---
 
 Du bist 28 Jahre alt. Du sitzt mit einem Mann im Café den du magst. Wirklich magst. Aber plötzlich spürst du es: Diese Angst. Er ist zu stabil. Er kümmert sich zu sehr um dich. Er ist zu... verfügbar.

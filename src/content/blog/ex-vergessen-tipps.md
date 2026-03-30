@@ -16,11 +16,16 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - "{'question': 'Wie lange dauert es, um einen Ex wirklich zu vergessen?', 'answer': "Es gibt hier keine Standardantwort. Psychologen sagen: 3-4 Monate für Leichte Abhängigkeiten, 6-12 Monate für tiefe Beziehungen. Aber 'vergessen' ist nicht das Ziel. 'Loslassen' ist das Ziel. Das dauert kürzer."}"
-  - "{'question': 'Ist es möglich, Freunde mit dem Ex zu bleiben, während ich versuche, ihn zu vergessen?', 'answer': 'Nein, nicht am Anfang. Warte mindestens 6-12 Monate. Die erste Phase der Heilung braucht Abstand. Später kannst du vielleicht Freunde sein. Aber nicht jetzt. Jetzt musst du ihn loslassen.'}"
-  - "{'question': 'Warum finde ich mich dabei, seine Social Media zu stalken, obwohl ich vergessen will?', 'answer': 'Das ist normal. Dein Gehirn sucht nach Closure. Es hoffnungslos, weitere Informationen zu finden, die Sinn ergeben. Aber das Stalking verhindert Heilung. Blockiere ihn. Jetzt.'}"
-  - "{'question': 'Macht es Sinn, mit jemandem Neuem zu daten, um meinen Ex zu vergessen?', 'answer': 'Nein. Das ist Flucht, nicht Heilung. Du wirst emotionale Gepäck in die neue Beziehung bringen. Warte, bis du geheilt bist. Dann wirst du bessere Entscheidungen treffen.'}"
-  - "{'question': 'Was tue ich, wenn ich meinen Ex vor mir sehe und zusammenbreche?', 'answer': 'Das wird weniger mit der Zeit. Aber die erste Zeit ist hart. Wenn du weißt, dass du ihn sehen könntest: Plane einen Fluchtweg. Vermeide diese Orte für jetzt. Später wirst du da sein können, ohne zu brechen.'}"
+  - question: "Wie lange dauert es, um einen Ex wirklich zu vergessen?"
+    answer: "Es gibt hier keine Standardantwort. Psychologen sagen: 3-4 Monate für Leichte Abhängigkeiten, 6-12 Monate für tiefe Beziehungen. Aber 'vergessen' ist nicht das Ziel. 'Loslassen' ist das Ziel. Das dauert kürzer."
+  - question: "Ist es möglich, Freunde mit dem Ex zu bleiben, während ich versuche, ihn zu vergessen?"
+    answer: "Nein, nicht am Anfang. Warte mindestens 6-12 Monate. Die erste Phase der Heilung braucht Abstand. Später kannst du vielleicht Freunde sein. Aber nicht jetzt. Jetzt musst du ihn loslassen."
+  - question: "Warum finde ich mich dabei, seine Social Media zu stalken, obwohl ich vergessen will?"
+    answer: "Das ist normal. Dein Gehirn sucht nach Closure. Es hoffnungslos, weitere Informationen zu finden, die Sinn ergeben. Aber das Stalking verhindert Heilung. Blockiere ihn. Jetzt."
+  - question: "Macht es Sinn, mit jemandem Neuem zu daten, um meinen Ex zu vergessen?"
+    answer: "Nein. Das ist Flucht, nicht Heilung. Du wirst emotionale Gepäck in die neue Beziehung bringen. Warte, bis du geheilt bist. Dann wirst du bessere Entscheidungen treffen."
+  - question: "Was tue ich, wenn ich meinen Ex vor mir sehe und zusammenbreche?"
+    answer: "Das wird weniger mit der Zeit. Aber die erste Zeit ist hart. Wenn du weißt, dass du ihn sehen könntest: Plane einen Fluchtweg. Vermeide diese Orte für jetzt. Später wirst du da sein können, ohne zu brechen."
 ---
 
 ## Die Obsession ist normal – und temporary

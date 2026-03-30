@@ -14,11 +14,16 @@ keywords:
 draft: false
 author: "markus-hoffmann"
 faq:
-  - "{'question': 'Ist Flirten in einer Beziehung okay?', 'answer': 'Das hängt von eurer Definition ab. Für manche ist ein freundliches Lächeln okay, für andere ist schon ein Kompliment zu viel. Entscheidend ist, dass ihr die gleiche Grenze habt.'}"
-  - "{'question': 'Wie spreche ich an dass mich sein Flirten stört?', 'answer': "Konkret und ohne Vorwurf: 'Wenn du auf der Party so mit ihr geredet hast, habe ich mich unwichtig gefühlt.' Vermeide 'Du flirtest immer' — das führt nur zur Abwehr."}"
-  - "{'question': 'Ist Flirten eine Form von Fremdgehen?', 'answer': 'Kommt auf den Kontext an. Einmaliges harmloses Flirten ist kein Fremdgehen. Aber systematisches, heimliches Flirten mit derselben Person — besonders online — bewegt sich in eine problematische Richtung.'}"
-  - "{'question': 'Woran erkenne ich ob es ernst wird?', 'answer': 'Wenn dein Partner Gespräche mit der Person verheimlicht, ständig erreichbar sein möchte oder sich unauffällig macht wenn die Person anruft, ist das ein Warnsignal.'}"
-  - "{'question': 'Sollten wir Grenzen absprechen?', 'answer': 'Ja, definitiv. Setzt gemeinsam fest was okay ist und was nicht. Das kann von Paar zu Paar unterschiedlich sein — es geht darum dass ihr die gleichen Erwartungen habt.'}"
+  - question: "Ist Flirten in einer Beziehung okay?"
+    answer: "Das hängt von eurer Definition ab. Für manche ist ein freundliches Lächeln okay, für andere ist schon ein Kompliment zu viel. Entscheidend ist, dass ihr die gleiche Grenze habt."
+  - question: "Wie spreche ich an dass mich sein Flirten stört?"
+    answer: "Konkret und ohne Vorwurf: 'Wenn du auf der Party so mit ihr geredet hast, habe ich mich unwichtig gefühlt.' Vermeide 'Du flirtest immer' — das führt nur zur Abwehr."
+  - question: "Ist Flirten eine Form von Fremdgehen?"
+    answer: "Kommt auf den Kontext an. Einmaliges harmloses Flirten ist kein Fremdgehen. Aber systematisches, heimliches Flirten mit derselben Person — besonders online — bewegt sich in eine problematische Richtung."
+  - question: "Woran erkenne ich ob es ernst wird?"
+    answer: "Wenn dein Partner Gespräche mit der Person verheimlicht, ständig erreichbar sein möchte oder sich unauffällig macht wenn die Person anruft, ist das ein Warnsignal."
+  - question: "Sollten wir Grenzen absprechen?"
+    answer: "Ja, definitiv. Setzt gemeinsam fest was okay ist und was nicht. Das kann von Paar zu Paar unterschiedlich sein — es geht darum dass ihr die gleichen Erwartungen habt."
 ---
 
 ## Du merkst es an einem Bauchgefühl

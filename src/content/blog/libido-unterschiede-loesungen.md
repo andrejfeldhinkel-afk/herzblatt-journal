@@ -16,11 +16,16 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Wie unterschiedlich darf die Libido sein?', 'answer': "Es gibt da kein ‚zu unterschiedlich'. Manche Paare haben 5x pro Woche vs. 1x pro Monat Unterschied – und es funktioniert trotzdem. Der Schlüssel ist: beide Partner fühlen sich respektiert, nicht vernachlässigt oder gedrängt."}"
-  - "{'question': 'Ist niedriges Verlangen ein zeichen von fehlender Liebe?', 'answer': 'Nein, das ist ein häufiges Missverständnis. Libido ist biologisch, nicht emotional. Jemand kann dich lieben und trotzdem keine hohe Libido haben. Das eine hat mit dem anderen nichts zu tun.'}"
-  - "{'question': 'Kann man seine Libido erhöhen?', 'answer': 'Ja, teilweise. Bewegung, guter Schlaf, Stressabbau und bessere emotionale Verbindung erhöhen oft die Libido. Aber: Die biologische Grundlage ist unterschiedlich. Ein introvertierter Partner wird wahrscheinlich nie so viel Sex brauchen wie ein extrovertierter.'}"
-  - "{'question': 'Ist Selbstbefriedigung ein Problem, wenn die Libidos unterschiedlich sind?', 'answer': 'Nein, es kann sogar hilfreich sein. Der Partner mit höherer Libido kann so seinen Bedarf erfüllen, ohne Druck auf den anderen auszuüben. Wichtig ist nur, dass es nicht zum Ersatz für Beziehungs-Sexualität wird.'}"
-  - "{'question': 'Wann ist Libido-Unterschied ein Deal-Breaker?', 'answer': 'Wenn ein Partner ständig frustriert oder der andere sich ständig schuldig fühlt – das ist nicht nachhaltig. Wenn aber beide Verständnis haben und bereit sind, kreativ Lösungen zu finden, kann es funktionieren.'}"
+  - question: "Wie unterschiedlich darf die Libido sein?"
+    answer: "Es gibt da kein ‚zu unterschiedlich'. Manche Paare haben 5x pro Woche vs. 1x pro Monat Unterschied – und es funktioniert trotzdem. Der Schlüssel ist: beide Partner fühlen sich respektiert, nicht vernachlässigt oder gedrängt."
+  - question: "Ist niedriges Verlangen ein zeichen von fehlender Liebe?"
+    answer: "Nein, das ist ein häufiges Missverständnis. Libido ist biologisch, nicht emotional. Jemand kann dich lieben und trotzdem keine hohe Libido haben. Das eine hat mit dem anderen nichts zu tun."
+  - question: "Kann man seine Libido erhöhen?"
+    answer: "Ja, teilweise. Bewegung, guter Schlaf, Stressabbau und bessere emotionale Verbindung erhöhen oft die Libido. Aber: Die biologische Grundlage ist unterschiedlich. Ein introvertierter Partner wird wahrscheinlich nie so viel Sex brauchen wie ein extrovertierter."
+  - question: "Ist Selbstbefriedigung ein Problem, wenn die Libidos unterschiedlich sind?"
+    answer: "Nein, es kann sogar hilfreich sein. Der Partner mit höherer Libido kann so seinen Bedarf erfüllen, ohne Druck auf den anderen auszuüben. Wichtig ist nur, dass es nicht zum Ersatz für Beziehungs-Sexualität wird."
+  - question: "Wann ist Libido-Unterschied ein Deal-Breaker?"
+    answer: "Wenn ein Partner ständig frustriert oder der andere sich ständig schuldig fühlt – das ist nicht nachhaltig. Wenn aber beide Verständnis haben und bereit sind, kreativ Lösungen zu finden, kann es funktionieren."
 ---
 Die Szene ist so klassisch, dass sie fast klischeehaft wirkt: Er möchte Sex, sie ist zu müde. Das Wochenende kommt, er hofft, sie plant den Haushalt. Er fühlt sich zurückgewiesen, sie fühlt sich gedrängt. Und doch: Das ist die Realität für viele Paare.
 

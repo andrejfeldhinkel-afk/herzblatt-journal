@@ -14,9 +14,12 @@ draft: false
 image: "/images/photos/dating-marburg.webp"
 imageAlt: "Marburg Schloss"
 faq:
-  - "{'question': 'Wo lernt man in Marburg Singles kennen?', 'answer': 'Die beste Single-Szene ist in der Oberstadt mit ihren Kneipen und dem Schloss, am Lahnufer, und in den Uni-nahen Cafés. Auch der Südviertel mit modernen Bars ist großartig.'}"
-  - "{'question': 'Was sind die besten Date-Ideen in Marburg?', 'answer': 'Spaziergang zum Schloss, Kanufahrt auf der Lahn, Kneipen-Hopping in der Oberstadt, Märchen-Spaziergang, Café-Dates im Südviertel. Marburg ist Dating-freundlich!'}"
-  - "{'question': 'Gibt es eine gute Single-Szene in Marburg?', 'answer': 'Definitiv! Marburg ist Universitätsstadt mit warmherziger Atmosphäre. Die Menschen sind offen, die Szene ist lebendig, und es gibt überall Dating-Möglichkeiten.'}"
+  - question: "Wo lernt man in Marburg Singles kennen?"
+    answer: "Die beste Single-Szene ist in der Oberstadt mit ihren Kneipen und dem Schloss, am Lahnufer, und in den Uni-nahen Cafés. Auch der Südviertel mit modernen Bars ist großartig."
+  - question: "Was sind die besten Date-Ideen in Marburg?"
+    answer: "Spaziergang zum Schloss, Kanufahrt auf der Lahn, Kneipen-Hopping in der Oberstadt, Märchen-Spaziergang, Café-Dates im Südviertel. Marburg ist Dating-freundlich!"
+  - question: "Gibt es eine gute Single-Szene in Marburg?"
+    answer: "Definitiv! Marburg ist Universitätsstadt mit warmherziger Atmosphäre. Die Menschen sind offen, die Szene ist lebendig, und es gibt überall Dating-Möglichkeiten."
 ---
 ## Willkommen in Marburg – Märchenhaft verlieben
 

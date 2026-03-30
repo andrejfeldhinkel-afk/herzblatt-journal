@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/beziehung-nach-kinderwunsch.webp"
 imageAlt: "Paar diskutiert Kinderwunsch"
 faq:
-  - "{'question': 'Kann man eine Beziehung retten, wenn ein Partner Kinder möchte und der andere nicht?', 'answer': 'Es ist möglich, aber schwierig. Es hängt davon ab, wie Nicht-verhandelbar dieses Ziel für jeden ist. Wenn für einen von euch Kinder absolut notwendig sind für Glück, und der andere absolut nicht, dann ist dies möglicherweise ein Dealbreaker. Es gibt keinen echten Kompromiss bei Kindern.'}"
-  - "{'question': 'Was ist mit Adoption, wenn einer nicht biologische Kinder möchte?', 'answer': 'Adoption ist eine Option, aber nicht für jeden. Jemand, der nicht biologische Kinder möchte, könnte immer noch nicht am Bild eines Kindes interessiert sein. Es ist wichtig zu verstehen, was genau dein Partner ablehnt – ist es der biologische Aspekt oder die Realität eines Kindes insgesamt?'}"
-  - "{'question': 'Sollte ich mich aufopfern und Kinder haben/nicht haben um die Beziehung zu retten?', 'answer': 'Nein. Wenn du nicht Kinder möchtest und bekommst sie um deine Beziehung zu retten, wirst du wahrscheinlich verbittert werden. Gleichermaßen, wenn du Kinder möchtest und aufgibst, könntest du es bereuen. Ein Kind ist eine 18-jährige Verpflichtung – nicht etwas, das man aufgrund von Beziehungsproblemen macht.'}"
+  - question: "Kann man eine Beziehung retten, wenn ein Partner Kinder möchte und der andere nicht?"
+    answer: "Es ist möglich, aber schwierig. Es hängt davon ab, wie Nicht-verhandelbar dieses Ziel für jeden ist. Wenn für einen von euch Kinder absolut notwendig sind für Glück, und der andere absolut nicht, dann ist dies möglicherweise ein Dealbreaker. Es gibt keinen echten Kompromiss bei Kindern."
+  - question: "Was ist mit Adoption, wenn einer nicht biologische Kinder möchte?"
+    answer: "Adoption ist eine Option, aber nicht für jeden. Jemand, der nicht biologische Kinder möchte, könnte immer noch nicht am Bild eines Kindes interessiert sein. Es ist wichtig zu verstehen, was genau dein Partner ablehnt – ist es der biologische Aspekt oder die Realität eines Kindes insgesamt?"
+  - question: "Sollte ich mich aufopfern und Kinder haben/nicht haben um die Beziehung zu retten?"
+    answer: "Nein. Wenn du nicht Kinder möchtest und bekommst sie um deine Beziehung zu retten, wirst du wahrscheinlich verbittert werden. Gleichermaßen, wenn du Kinder möchtest und aufgibst, könntest du es bereuen. Ein Kind ist eine 18-jährige Verpflichtung – nicht etwas, das man aufgrund von Beziehungsproblemen macht."
 ---
 Einer der tiefsten Konflikte, die ich in Beziehungen sehe, ist dieser: Einer möchte Kinder, und der andere möchte keine. Es ist nicht oberflächlich – es ist existenziell. Es prägt dein ganzes Leben.
 

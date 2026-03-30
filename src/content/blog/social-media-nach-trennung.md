@@ -16,11 +16,16 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - "{'question': 'Ist es unreif, meinen Ex zu blockieren?', 'answer': 'Nein, das Gegenteil ist wahr. Blockieren ist eine aktive Entscheidung für dein emotionales Wohlbefinden. Du stellst dich selbst an erste Stelle. Das ist reif und gesund.'}"
-  - "{'question': 'Sollte ich meinen Ex auf allen Plattformen blockieren?', 'answer': 'Das ist deine Entscheidung. Manche Menschen blockieren überall, andere nur auf bestimmten Plattformen. Vertrau deinem Bauchgefühl. Wenn dich sein Instagram-Account triggert, weg damit.'}"
-  - "{'question': 'Was mache ich mit gemeinsamen Fotos auf meinem Profil?', 'answer': 'Du darfst diese Fotos löschen. Das ist dein Profil, dein Raum. Wenn du sie sehen kannst, ohne dich elend zu fühlen, können sie bleiben. Wenn nicht, lösch sie. Es ist ok.'}"
-  - "{'question': 'Wird mein Ex bemerken, wenn ich ihn blockiere?', 'answer': 'Ja, wahrscheinlich. Das ist aber nicht dein Problem. Du blockierst ihn aus Selbstliebe, nicht um ihn zu verletzen. Seine Reaktion geht dich nichts an.'}"
-  - "{'question': 'Nach wie lange Zeit kann ich meinen Ex wieder entblockieren?', 'answer': 'Es gibt hier kein Richtig oder Falsch. Manche halten das Jahr aus, andere länger. Wichtig ist: Blockiere ihn wieder, wenn dich das Entblockieren nicht guttut.'}"
+  - question: "Ist es unreif, meinen Ex zu blockieren?"
+    answer: "Nein, das Gegenteil ist wahr. Blockieren ist eine aktive Entscheidung für dein emotionales Wohlbefinden. Du stellst dich selbst an erste Stelle. Das ist reif und gesund."
+  - question: "Sollte ich meinen Ex auf allen Plattformen blockieren?"
+    answer: "Das ist deine Entscheidung. Manche Menschen blockieren überall, andere nur auf bestimmten Plattformen. Vertrau deinem Bauchgefühl. Wenn dich sein Instagram-Account triggert, weg damit."
+  - question: "Was mache ich mit gemeinsamen Fotos auf meinem Profil?"
+    answer: "Du darfst diese Fotos löschen. Das ist dein Profil, dein Raum. Wenn du sie sehen kannst, ohne dich elend zu fühlen, können sie bleiben. Wenn nicht, lösch sie. Es ist ok."
+  - question: "Wird mein Ex bemerken, wenn ich ihn blockiere?"
+    answer: "Ja, wahrscheinlich. Das ist aber nicht dein Problem. Du blockierst ihn aus Selbstliebe, nicht um ihn zu verletzen. Seine Reaktion geht dich nichts an."
+  - question: "Nach wie lange Zeit kann ich meinen Ex wieder entblockieren?"
+    answer: "Es gibt hier kein Richtig oder Falsch. Manche halten das Jahr aus, andere länger. Wichtig ist: Blockiere ihn wieder, wenn dich das Entblockieren nicht guttut."
 ---
 
 ## Die Social-Media-Falle nach einer Trennung

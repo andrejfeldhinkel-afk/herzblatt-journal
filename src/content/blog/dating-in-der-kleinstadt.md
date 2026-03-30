@@ -15,11 +15,16 @@ keywords:
 draft: false
 author: "laura-weber"
 faq:
-  - "{'question': 'Ist Dating in der Kleinstadt schwieriger?', 'answer': 'Anders, nicht unbedingt schwieriger. Der Pool ist kleiner, aber die Verbindungen tiefer. Man trifft sich öfter, teilt mehr Kontext und baut schneller Vertrauen auf.'}"
-  - "{'question': 'Soll ich auch Leute in Nachbarstädten daten?', 'answer': 'Unbedingt! Erweitere deinen Radius auf 30-50 Kilometer. Viele glückliche Paare haben sich so gefunden — die kleine Distanz ist kein echtes Hindernis.'}"
-  - "{'question': 'Was wenn jeder jeden kennt?', 'answer': 'Das ist Fluch und Segen zugleich. Vorteil: Du weißt schnell, mit wem du es zu tun hast. Nachteil: Gescheiterte Dates werden zum Dorfgespräch. Lösung: Diskretion und Humor.'}"
-  - "{'question': 'Welche Dating-Apps funktionieren auf dem Land?', 'answer': 'Tinder und Bumble funktionieren überall aber Nischen-Apps wie Lovoo oder zoosk haben oft bessere Filter. Entscheidend ist aber den Radius groß genug zu machen — 50+ Kilometer statt 5.'}"
-  - "{'question': 'Ist es ein Problem wenn ich in die nächste Stadt ziehen muss für eine Beziehung?', 'answer': 'Nur wenn du es als Problem siehst. Viele Paare pendeln oder ziehen zusammen — und das ist normal. Wenn die Chemie stimmt löst man räumliche Dinge. Wenn sie nicht stimmt hilft kein Umzug.'}"
+  - question: "Ist Dating in der Kleinstadt schwieriger?"
+    answer: "Anders, nicht unbedingt schwieriger. Der Pool ist kleiner, aber die Verbindungen tiefer. Man trifft sich öfter, teilt mehr Kontext und baut schneller Vertrauen auf."
+  - question: "Soll ich auch Leute in Nachbarstädten daten?"
+    answer: "Unbedingt! Erweitere deinen Radius auf 30-50 Kilometer. Viele glückliche Paare haben sich so gefunden — die kleine Distanz ist kein echtes Hindernis."
+  - question: "Was wenn jeder jeden kennt?"
+    answer: "Das ist Fluch und Segen zugleich. Vorteil: Du weißt schnell, mit wem du es zu tun hast. Nachteil: Gescheiterte Dates werden zum Dorfgespräch. Lösung: Diskretion und Humor."
+  - question: "Welche Dating-Apps funktionieren auf dem Land?"
+    answer: "Tinder und Bumble funktionieren überall aber Nischen-Apps wie Lovoo oder zoosk haben oft bessere Filter. Entscheidend ist aber den Radius groß genug zu machen — 50+ Kilometer statt 5."
+  - question: "Ist es ein Problem wenn ich in die nächste Stadt ziehen muss für eine Beziehung?"
+    answer: "Nur wenn du es als Problem siehst. Viele Paare pendeln oder ziehen zusammen — und das ist normal. Wenn die Chemie stimmt löst man räumliche Dinge. Wenn sie nicht stimmt hilft kein Umzug."
 ---
 
 ## Der Mythos vom Dorf ohne dating

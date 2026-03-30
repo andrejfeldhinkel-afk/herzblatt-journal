@@ -13,8 +13,10 @@ draft: false
 image: "/images/photos/attachment-styles-dating.webp"
 imageAlt: "Die 4 Beziehungstypen"
 faq:
-  - "{'question': 'Was ist das Wichtigste bei die 4 beziehungstypen?', 'answer': 'Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst.'}"
-  - "{'question': 'Wo finde ich Hilfe zum Thema die 4 beziehungstypen?', 'answer': 'Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung.'}"
+  - question: "Was ist das Wichtigste bei die 4 beziehungstypen?"
+    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
+  - question: "Wo finde ich Hilfe zum Thema die 4 beziehungstypen?"
+    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
 ---
 ## Die vier Bindungsstile: Welcher bist du?
 

@@ -14,11 +14,16 @@ keywords:
 draft: false
 author: "laura-weber"
 faq:
-  - "{'question': 'Können unterschiedliche Schlafzeiten eine Beziehung belasten?', 'answer': 'Ja — weniger gemeinsame Abende, gestörter Schlaf und weniger Intimität können zu Problemen führen. Mit guter Kommunikation und festen Ritualen ist es aber gut machbar.'}"
-  - "{'question': 'Wie finden wir trotz unterschiedlicher Schlafzeiten gemeinsame Zeit?', 'answer': 'Plant feste Überlappungszeiten: gemeinsames Abendessen, ein Ritual vor dem Schlafengehen des Ersten, oder gemeinsame Wochenend-Morgen.'}"
-  - "{'question': 'Kann man seinen Schlafrhythmus ändern?', 'answer': 'Teilweise, aber Chronotypen sind biologisch verankert. Kleine Anpassungen sind möglich, eine komplette Umstellung ist weder gesund noch nachhaltig.'}"
-  - "{'question': 'Was wenn mich sein Schnarchgeräusch weckt?', 'answer': 'Das ist real und frustrierend. Getrennte Schlafzimmer sind keine Niederlage — sie sind oft die praktischste Lösung. Viele glückliche Paare schlafen getrennt und haben trotzdem eine großartige Intimität.'}"
-  - "{'question': 'Leidet die Sexualität wenn wir unterschiedliche Schlafzeiten haben?', 'answer': 'Das muss nicht sein — aber es wird kniffliger. Wichtig ist, dass ihr aktiv Zeit für Intimität plant, statt spontan zu hoffen. Wochenendmorgen oder geplante Dates helfen.'}"
+  - question: "Können unterschiedliche Schlafzeiten eine Beziehung belasten?"
+    answer: "Ja — weniger gemeinsame Abende, gestörter Schlaf und weniger Intimität können zu Problemen führen. Mit guter Kommunikation und festen Ritualen ist es aber gut machbar."
+  - question: "Wie finden wir trotz unterschiedlicher Schlafzeiten gemeinsame Zeit?"
+    answer: "Plant feste Überlappungszeiten: gemeinsames Abendessen, ein Ritual vor dem Schlafengehen des Ersten, oder gemeinsame Wochenend-Morgen."
+  - question: "Kann man seinen Schlafrhythmus ändern?"
+    answer: "Teilweise, aber Chronotypen sind biologisch verankert. Kleine Anpassungen sind möglich, eine komplette Umstellung ist weder gesund noch nachhaltig."
+  - question: "Was wenn mich sein Schnarchgeräusch weckt?"
+    answer: "Das ist real und frustrierend. Getrennte Schlafzimmer sind keine Niederlage — sie sind oft die praktischste Lösung. Viele glückliche Paare schlafen getrennt und haben trotzdem eine großartige Intimität."
+  - question: "Leidet die Sexualität wenn wir unterschiedliche Schlafzeiten haben?"
+    answer: "Das muss nicht sein — aber es wird kniffliger. Wichtig ist, dass ihr aktiv Zeit für Intimität plant, statt spontan zu hoffen. Wochenendmorgen oder geplante Dates helfen."
 ---
 
 Es ist 22 Uhr. Du bist tod müde und willst ins Bett. Dein Partner sitzt noch hellwach auf der Couch mit seinem Laptop, trinkt seinen dritten Kaffee, hat noch Energie für drei Stunden. Um 23 Uhr legst du dich hin, und er macht gerade richtig Dampf. Du versuchst zu schlafen während er im Wohnzimmer noch arbeitet oder Games spielt.

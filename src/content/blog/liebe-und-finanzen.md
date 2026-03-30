@@ -14,10 +14,14 @@ keywords:
 draft: false
 featured: false
 faq:
-  - "{'question': 'Sollten Paare alle Finanzen teilen?', 'answer': 'Das ist persönlich. Manche Paare teilen alles, andere halten Konten getrennt. Der Schlüssel ist, was beide Parteien sich wohlfühlen lässt und Transparenz.'}"
-  - "{'question': 'Wie beginne ich das Gespräch über Geld mit meinem Partner?', 'answer': "Sei direkt und nicht wertend. Sag etwas wie: 'Ich möchte mit dir über unsere Finanzen sprechen, damit wir auf dem gleichen Blatt sind.' Wähle einen entspannten Moment."}"
-  - "{'question': 'Was tun, wenn mein Partner und ich unterschiedliche Finanz-Philosophien haben?', 'answer': 'Versteht gegenseitig die Herkunft dieser Einstellungen. Findet einen Kompromiss, bei dem sich beide wohlfühlen. Ein Finanz-Berater kann auch helfen.'}"
-  - "{'question': 'Ist es okay, finanzielle Ungleichheit in einer Beziehung zu haben?', 'answer': 'Ja, wenn ihr klar kommuniziert wie ihr damit umgeht. Manche Paare splittieren proportional zu ihrem Einkommen. Das Wichtigste ist, fair und ehrlich zu sein.'}"
+  - question: "Sollten Paare alle Finanzen teilen?"
+    answer: "Das ist persönlich. Manche Paare teilen alles, andere halten Konten getrennt. Der Schlüssel ist, was beide Parteien sich wohlfühlen lässt und Transparenz."
+  - question: "Wie beginne ich das Gespräch über Geld mit meinem Partner?"
+    answer: "Sei direkt und nicht wertend. Sag etwas wie: 'Ich möchte mit dir über unsere Finanzen sprechen, damit wir auf dem gleichen Blatt sind.' Wähle einen entspannten Moment."
+  - question: "Was tun, wenn mein Partner und ich unterschiedliche Finanz-Philosophien haben?"
+    answer: "Versteht gegenseitig die Herkunft dieser Einstellungen. Findet einen Kompromiss, bei dem sich beide wohlfühlen. Ein Finanz-Berater kann auch helfen."
+  - question: "Ist es okay, finanzielle Ungleichheit in einer Beziehung zu haben?"
+    answer: "Ja, wenn ihr klar kommuniziert wie ihr damit umgeht. Manche Paare splittieren proportional zu ihrem Einkommen. Das Wichtigste ist, fair und ehrlich zu sein."
 ---
 Geld ist einer der häufigsten Streitgründe in Partnerschaften. Statistiken zeigen, dass etwa 36 % aller Paare regelmäßig über Finanzen streiten. Doch das Gute ist: Mit offener [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) und gegenseitigem Verständnis wird Geld zum Werkzeug für gemeinsame Träume statt zum Konfliktthema. In diesem Ratgeber erfährst du, wie du und dein Partner finanziell harmonieren und zusammen eine sichere Zukunft aufbaut.
 

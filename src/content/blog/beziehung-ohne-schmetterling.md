@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/beziehung-ohne-schmetterling.webp"
 imageAlt: "Liebe ohne Schmetterlinge"
 faq:
-  - "{'question': 'Ist es schlecht, keinen Schmetterlinge beim ersten Date zu fühlen?', 'answer': 'Nein, nicht unbedingt. Schmetterlinge sind Nervosität und Spannung, nicht unbedingt echte Liebe. Manche Menschen fühlen sich zu schnell zu Fremden angezogen, was oberflächlich Attraction ist. Echte Chemie kann über Zeit entwickelt werden, wenn es Kompatibilität und echte Verbindung gibt.'}"
-  - "{'question': 'Sollte ich eine Beziehung geben, wenn es keine unmittelbare Anziehung gibt?', 'answer': 'Das ist deine persönliche Entscheidung. Einige Menschen brauchen initiale Anziehung; andere nicht. Wenn du dich mit der Person verbunden fühlst und du wissen möchtest mehr zu wissen, verdient sie eine Chance. Wenn du absolut keine Anziehung fühlt, ist das okay. Das ist nicht falsch.'}"
-  - "{'question': 'Kann Liebe ohne Leidenschaft erfüllend sein?', 'answer': 'Ja, absolut. Die beste Liebestypen sind oft nicht die leidenschaftlichsten – sie sind die ruhigen, stabilen, tiefen. Sie könnten keine Schmetterlinge haben, aber du hast einen Partner, auf dem du dich verlassen kannst. Das ist sehr befriedigend.'}"
+  - question: "Ist es schlecht, keinen Schmetterlinge beim ersten Date zu fühlen?"
+    answer: "Nein, nicht unbedingt. Schmetterlinge sind Nervosität und Spannung, nicht unbedingt echte Liebe. Manche Menschen fühlen sich zu schnell zu Fremden angezogen, was oberflächlich Attraction ist. Echte Chemie kann über Zeit entwickelt werden, wenn es Kompatibilität und echte Verbindung gibt."
+  - question: "Sollte ich eine Beziehung geben, wenn es keine unmittelbare Anziehung gibt?"
+    answer: "Das ist deine persönliche Entscheidung. Einige Menschen brauchen initiale Anziehung; andere nicht. Wenn du dich mit der Person verbunden fühlst und du wissen möchtest mehr zu wissen, verdient sie eine Chance. Wenn du absolut keine Anziehung fühlt, ist das okay. Das ist nicht falsch."
+  - question: "Kann Liebe ohne Leidenschaft erfüllend sein?"
+    answer: "Ja, absolut. Die beste Liebestypen sind oft nicht die leidenschaftlichsten – sie sind die ruhigen, stabilen, tiefen. Sie könnten keine Schmetterlinge haben, aber du hast einen Partner, auf dem du dich verlassen kannst. Das ist sehr befriedigend."
 ---Wir sind aufgewachsen mit Hollywood-Liebesgeschichten. Der erste Blick, Schmetterlinge im Bauch, die unmittelbare Anziehung. Wenn du das nicht beim ersten Treffen fühlst, denkst du vielleicht, dass es nicht die Richtige ist.
 
 Aber die Realität ist komplizierter. Einige der beste Liebesgeschichten beginnen nicht mit Schmetterlinge – sie beginnen mit Kompatibilität und Verständnis.

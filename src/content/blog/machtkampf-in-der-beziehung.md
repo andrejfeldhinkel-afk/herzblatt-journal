@@ -17,10 +17,14 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Warum gibt es Machtkämpfe in Beziehungen?', 'answer': 'Machtkämpfe entstehen, wenn beide Partner das Gefühl haben, nicht gehört zu werden oder ihre Bedürfnisse zu kurz kommen. Oft stecken dahinter Verlustangst, unterschiedliche Werte oder der Wunsch nach Autonomie.'}"
-  - "{'question': 'Wie beende ich einen Machtkampf mit meinem Partner?', 'answer': 'Der erste Schritt ist, den Machtkampf als solchen zu erkennen. Dann: Aufhören, gewinnen zu wollen. Stattdessen frag dich: Was brauche ich wirklich? Und was braucht mein Partner? Oft geht es gar nicht um das Thema, über das ihr streitet.'}"
-  - "{'question': 'Ist ein Machtkampf in der Beziehung normal?', 'answer': 'Ja! Die Machtkampf-Phase ist sogar eine natürliche Beziehungsphase, die nach der Honeymoon-Phase kommt. Entscheidend ist, ob ihr als Paar einen Weg findet, durch diese Phase hindurchzuwachsen.'}"
-  - "{'question': 'Wann wird ein Machtkampf zur toxischen Beziehung?', 'answer': 'Wenn einer oder beide Partner manipulieren, drohen, erniedrigen oder emotional erpressen, um zu gewinnen. Gesunde Machtkämpfe handeln von Bedürfnissen — toxische von Kontrolle und Dominanz.'}"
+  - question: "Warum gibt es Machtkämpfe in Beziehungen?"
+    answer: "Machtkämpfe entstehen, wenn beide Partner das Gefühl haben, nicht gehört zu werden oder ihre Bedürfnisse zu kurz kommen. Oft stecken dahinter Verlustangst, unterschiedliche Werte oder der Wunsch nach Autonomie."
+  - question: "Wie beende ich einen Machtkampf mit meinem Partner?"
+    answer: "Der erste Schritt ist, den Machtkampf als solchen zu erkennen. Dann: Aufhören, gewinnen zu wollen. Stattdessen frag dich: Was brauche ich wirklich? Und was braucht mein Partner? Oft geht es gar nicht um das Thema, über das ihr streitet."
+  - question: "Ist ein Machtkampf in der Beziehung normal?"
+    answer: "Ja! Die Machtkampf-Phase ist sogar eine natürliche Beziehungsphase, die nach der Honeymoon-Phase kommt. Entscheidend ist, ob ihr als Paar einen Weg findet, durch diese Phase hindurchzuwachsen."
+  - question: "Wann wird ein Machtkampf zur toxischen Beziehung?"
+    answer: "Wenn einer oder beide Partner manipulieren, drohen, erniedrigen oder emotional erpressen, um zu gewinnen. Gesunde Machtkämpfe handeln von Bedürfnissen — toxische von Kontrolle und Dominanz."
 ---
 ## Wenn Liebe zum Wettkampf wird: Die unterschätzte Krise in deiner beziehung
 
