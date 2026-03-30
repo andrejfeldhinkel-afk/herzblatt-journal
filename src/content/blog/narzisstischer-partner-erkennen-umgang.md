@@ -17,6 +17,8 @@ keywords:
   - "narzisst erkennen beziehung"
   - "leben mit narzisst"
 draft: false
+image: "/images/photos/narzisstischer-partner-erkennen-umgang.webp"
+imageAlt: "Narzisstischer Partner erkennen und richtig reagieren"
 featured: false
 author: "sarah-kellner"
 faq:

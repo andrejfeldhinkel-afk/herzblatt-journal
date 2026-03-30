@@ -17,6 +17,8 @@ keywords:
   - "introvertierter narzisst"
   - "passiv aggressiver narzissmus"
 draft: false
+image: "/images/photos/verdeckter-narzissmus-erkennen-guide.webp"
+imageAlt: "Verdeckter Narzissmus in der Beziehung erkennen"
 featured: false
 author: "sarah-kellner"
 faq:

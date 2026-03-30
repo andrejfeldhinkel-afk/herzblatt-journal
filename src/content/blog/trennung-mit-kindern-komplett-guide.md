@@ -17,6 +17,8 @@ keywords:
   - "trennung wegen kinder bleiben"
   - "wechselmodell kinder"
 draft: false
+image: "/images/photos/trennung-mit-kindern-komplett-guide.webp"
+imageAlt: "Trennung mit Kindern — Ratgeber für Eltern"
 featured: false
 author: "sarah-kellner"
 faq:

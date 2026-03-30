@@ -17,6 +17,8 @@ keywords:
   - "mutter tochter beziehung toxisch"
   - "kontaktabbruch narzisstische mutter"
 draft: false
+image: "/images/photos/narzisstische-mutter-komplett-guide.webp"
+imageAlt: "Narzisstische Mutter — Anzeichen erkennen und heilen"
 featured: false
 author: "sarah-kellner"
 faq:

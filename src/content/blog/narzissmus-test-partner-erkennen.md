@@ -16,6 +16,8 @@ keywords:
   - "narzissmus anzeichen"
   - "narzissmus selbsttest"
 draft: false
+image: "/images/photos/narzissmus-test-partner-erkennen.webp"
+imageAlt: "Narzissmus Test — Ist dein Partner ein Narzisst?"
 featured: false
 author: "thomas-peters"
 faq:
