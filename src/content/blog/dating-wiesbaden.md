@@ -14,14 +14,10 @@ draft: false
 image: "/images/photos/dating-wiesbaden.webp"
 imageAlt: "Wiesbaden dating scene"
 faq:
-  - question: "Wo kann man in Wiesbaden am besten Singles kennenlernen?"
-    answer: "Der elegante Kurhaus-Platz, die gemütliche Altstadt und der Schlossplatz sind die Top-Locations um Singles kennenzulernen. Das Neroberg-Restaurant mit Bergbahn ist auch sehr beliebt. Auch die Bars rund um die Wilhelmstraße sind großartig, und natürlich der Rheingau direkt nebenan für Weinverkostungen."
-  - question: "Welche Dating-Apps sind in Wiesbaden beliebt?"
-    answer: "In Wiesbaden funktionieren Tinder, Bumble und ElitePartner sehr gut, da die Stadt ein gehobenes Publikum hat. Lovoo und Hinge haben auch gute Communities. Der Vorteil Wiesbadens: Es ist nah an Mainz, Frankfurt und dem Rheingau, sodass deine Optionen geografisch vergrößert werden."
-  - question: "Was sind die besten Date-Ideen in Wiesbaden?"
-    answer: "Romantisch: Spaziergang durchs Kurhaus-Areal, Besuch in einer der 26 Thermalbäder, oder Picknick am Rhein. Kulturell: Russische Kirche und Museen. Kulinarisch: Weintasting im Rheingau, Dinner im Kurhaus-Restaurant. Aktiv: Wanderung auf den Neroberg mit Bergbahn, Spaziergang durch die Weinlandschaft."
-  - question: "Gibt es in Wiesbaden eine gute Single-Szene?"
-    answer: "Ja, Wiesbaden hat eine reife, gehobene Single-Szene. Es ist eine Kurstadt mit vielen wohlhabenden, etablierten Singles. Die Szene ist weniger wild-jung als in Düsseldorf, dafür aber kultivierter und oftmals ernsthafter. Perfekt, wenn du nach etwas Substanzvollerem suchst."
+  - "{'question': 'Wo kann man in Wiesbaden am besten Singles kennenlernen?', 'answer': 'Der elegante Kurhaus-Platz, die gemütliche Altstadt und der Schlossplatz sind die Top-Locations um Singles kennenzulernen. Das Neroberg-Restaurant mit Bergbahn ist auch sehr beliebt. Auch die Bars rund um die Wilhelmstraße sind großartig, und natürlich der Rheingau direkt nebenan für Weinverkostungen.'}"
+  - "{'question': 'Welche Dating-Apps sind in Wiesbaden beliebt?', 'answer': 'In Wiesbaden funktionieren Tinder, Bumble und ElitePartner sehr gut, da die Stadt ein gehobenes Publikum hat. Lovoo und Hinge haben auch gute Communities. Der Vorteil Wiesbadens: Es ist nah an Mainz, Frankfurt und dem Rheingau, sodass deine Optionen geografisch vergrößert werden.'}"
+  - "{'question': 'Was sind die besten Date-Ideen in Wiesbaden?', 'answer': 'Romantisch: Spaziergang durchs Kurhaus-Areal, Besuch in einer der 26 Thermalbäder, oder Picknick am Rhein. Kulturell: Russische Kirche und Museen. Kulinarisch: Weintasting im Rheingau, Dinner im Kurhaus-Restaurant. Aktiv: Wanderung auf den Neroberg mit Bergbahn, Spaziergang durch die Weinlandschaft.'}"
+  - "{'question': 'Gibt es in Wiesbaden eine gute Single-Szene?', 'answer': 'Ja, Wiesbaden hat eine reife, gehobene Single-Szene. Es ist eine Kurstadt mit vielen wohlhabenden, etablierten Singles. Die Szene ist weniger wild-jung als in Düsseldorf, dafür aber kultivierter und oftmals ernsthafter. Perfekt, wenn du nach etwas Substanzvollerem suchst.'}"
 ---
 ## Dating in Wiesbaden: Eleganz, Wein und die Kunst des Flirtens
 

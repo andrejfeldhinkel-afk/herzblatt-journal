@@ -15,12 +15,9 @@ keywords:
   - "Dating Tipps"
   - "Beste Profilbilder"
 faq:
-  - question: "Wie viele Fotos sollte ich hochladen?"
-    answer: "Idealerweise 4-6 Fotos. Ein primäres Kopfbild, 2-3 Ganzkörperaufnahmen und vielleicht eines bei einer Aktivität, die Ihnen Spaß macht."
-  - question: "Sollte ich Filter verwenden?"
-    answer: "Minimal bis gar nicht. Leichte Helligkeit/Kontrast-Anpassungen sind in Ordnung, aber starke Filter sind ein No-Go. Sie wollen, dass Menschen Sie wie Sie wirklich aussehen kennenlernen."
-  - question: "Was ist mit Selfies?"
-    answer: "Ein gutes Selfie als primäres Foto ist völlig akzeptabel, wenn das Licht gut ist und Ihr Gesicht klar sichtbar ist. Aber variieren Sie – zeigen Sie auch andere Perspektiven."
+  - "{'question': 'Wie viele Fotos sollte ich hochladen?', 'answer': 'Idealerweise 4-6 Fotos. Ein primäres Kopfbild, 2-3 Ganzkörperaufnahmen und vielleicht eines bei einer Aktivität, die Ihnen Spaß macht.'}"
+  - "{'question': 'Sollte ich Filter verwenden?', 'answer': 'Minimal bis gar nicht. Leichte Helligkeit/Kontrast-Anpassungen sind in Ordnung, aber starke Filter sind ein No-Go. Sie wollen, dass Menschen Sie wie Sie wirklich aussehen kennenlernen.'}"
+  - "{'question': 'Was ist mit Selfies?', 'answer': 'Ein gutes Selfie als primäres Foto ist völlig akzeptabel, wenn das Licht gut ist und Ihr Gesicht klar sichtbar ist. Aber variieren Sie – zeigen Sie auch andere Perspektiven.'}"
 ---
 Ein Bild sagt mehr als tausend Worte, und beim Online-Dating ist Ihr erstes Foto Ihre erste Chance, einen Eindruck zu hinterlassen. Die richtigen Fotos können Ihre Match-Rate dramatisch erhöhen, während schlecht ausgewählte Bilder potenzielle Partner abschrecken. In diesem Leitfaden erfahren Sie, wie Sie die besten Fotos für Ihr Online-Dating-Profil auswählen und aufnehmen.
 

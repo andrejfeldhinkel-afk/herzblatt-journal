@@ -15,16 +15,11 @@ keywords:
 draft: false
 author: "sarah-kellner"
 faq:
-  - question: "Soll ich die Schulden meines Partners mit bezahlen?"
-    answer: "Grundsätzlich nein — es sei denn ihr seid verheiratet und habt gemeinsame Finanzen. Du kannst unterstützen durch gemeinsame Budgetplanung, aber seine Schulden sind nicht deine Verantwortung."
-  - question: "Wann sind Schulden ein Trennungsgrund?"
-    answer: "Wenn dein Partner unehrlich darüber ist, keine Einsicht zeigt, weiter Schulden macht oder dich finanziell mit reinzieht. Einmalige Schulden aus einer Krise sind etwas anderes als chronische Verschuldung."
-  - question: "Wie spreche ich das Thema Schulden an?"
-    answer: "Direkt aber einfühlsam. Sage dass du über eure finanzielle Zukunft reden möchtest. Stelle Fragen statt Vorwürfe: 'Wie ist die Situation entstanden?' statt 'Warum hast du so viel ausgegeben?'"
-  - question: "Kann ich meinen Partner dazu bringen die Schulden zu zahlen?"
-    answer: "Nein, das kannst du nicht. Du kannst ihn nur unterstützen und Grenzen setzen. Wenn er kein Interesse hat, seine Schulden zu lösen, dann ist das sein Problem — aber es kann zum Beziehungsproblem werden."
-  - question: "Was bedeutet es wenn mein Partner versteckt dass er Schulden hat?"
-    answer: "Das ist das größere Problem als die Schulden selbst. Das signalisiert Lügen, Scham oder mangelndes Vertrauen in euch. Die Schulden sind ein Geld-Ding. Lügen darüber sind ein Beziehungs-Ding."
+  - "{'question': 'Soll ich die Schulden meines Partners mit bezahlen?', 'answer': 'Grundsätzlich nein — es sei denn ihr seid verheiratet und habt gemeinsame Finanzen. Du kannst unterstützen durch gemeinsame Budgetplanung, aber seine Schulden sind nicht deine Verantwortung.'}"
+  - "{'question': 'Wann sind Schulden ein Trennungsgrund?', 'answer': 'Wenn dein Partner unehrlich darüber ist, keine Einsicht zeigt, weiter Schulden macht oder dich finanziell mit reinzieht. Einmalige Schulden aus einer Krise sind etwas anderes als chronische Verschuldung.'}"
+  - "{'question': 'Wie spreche ich das Thema Schulden an?', 'answer': "Direkt aber einfühlsam. Sage dass du über eure finanzielle Zukunft reden möchtest. Stelle Fragen statt Vorwürfe: 'Wie ist die Situation entstanden?' statt 'Warum hast du so viel ausgegeben?'"}"
+  - "{'question': 'Kann ich meinen Partner dazu bringen die Schulden zu zahlen?', 'answer': 'Nein, das kannst du nicht. Du kannst ihn nur unterstützen und Grenzen setzen. Wenn er kein Interesse hat, seine Schulden zu lösen, dann ist das sein Problem — aber es kann zum Beziehungsproblem werden.'}"
+  - "{'question': 'Was bedeutet es wenn mein Partner versteckt dass er Schulden hat?', 'answer': 'Das ist das größere Problem als die Schulden selbst. Das signalisiert Lügen, Scham oder mangelndes Vertrauen in euch. Die Schulden sind ein Geld-Ding. Lügen darüber sind ein Beziehungs-Ding.'}"
 ---
 
 ## Der Moment als du es erfährst

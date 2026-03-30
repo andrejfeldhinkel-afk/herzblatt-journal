@@ -12,10 +12,8 @@ draft: false
 image: "/images/photos/kennenlernen-ohne-apps.webp"
 imageAlt: "Dating in einer neuen Stadt"
 faq:
-  - question: "Was ist das Wichtigste bei dating in einer neuen stadt?"
-    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
-  - question: "Wo finde ich Hilfe zum Thema dating in einer neuen stadt?"
-    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
+  - "{'question': 'Was ist das Wichtigste bei dating in einer neuen stadt?', 'answer': 'Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst.'}"
+  - "{'question': 'Wo finde ich Hilfe zum Thema dating in einer neuen stadt?', 'answer': 'Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung.'}"
 ---
 ## Dating in einer neuen Stadt
 

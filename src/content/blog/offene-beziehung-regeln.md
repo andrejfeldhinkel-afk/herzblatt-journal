@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/offene-beziehung-regeln.webp"
 imageAlt: "Offene Beziehung Kommunikation"
 faq:
-  - question: "Ist eine offene Beziehung das Gleiche wie Polyamorie?"
-    answer: "Nein. Eine offene Beziehung bedeutet normalerweise, dass du mit einer Person in einer primären Beziehung bist, aber mit anderen Menschen Sex oder auch Dating haben kannst. Polyamorie bedeutet, dass du mehrere emotionale und romantische Beziehungen gleichzeitig hast. Sie können sich überschneiden, aber sie sind unterschiedlich."
-  - question: "Wie startet man eine Konversation über offene Beziehung?"
-    answer: "Mit Ehrlichkeit und Sensibilität. Du könntest sagen: \"Ich bin an der Erkundung einer offenen Beziehung interessiert. Ich möchte wissen, wie du dazu stehst.\" Sei bereit, dass dein Partner nein sagen könnte, und akzeptiere das. Du kannst nicht jemanden zu einer offenen Beziehung zwingen."
-  - question: "Welche Regeln sind in einer offenen Beziehung wichtig?"
-    answer: "Die Regeln sind unterschiedlich für jedes Paar, aber häufige sind: Schutz beim Sex (Kondome, Tests), Ehrlichkeit über sexuelle Begegnungen, keine Gefühle für andere Menschen entwickeln, bestimmte Orte oder Menschen sind tabu. Die Wichtigste Regel ist gegenseitiger Respekt und Ehrlichkeit."
+  - "{'question': 'Ist eine offene Beziehung das Gleiche wie Polyamorie?', 'answer': 'Nein. Eine offene Beziehung bedeutet normalerweise, dass du mit einer Person in einer primären Beziehung bist, aber mit anderen Menschen Sex oder auch Dating haben kannst. Polyamorie bedeutet, dass du mehrere emotionale und romantische Beziehungen gleichzeitig hast. Sie können sich überschneiden, aber sie sind unterschiedlich.'}"
+  - "{'question': 'Wie startet man eine Konversation über offene Beziehung?', 'answer': 'Mit Ehrlichkeit und Sensibilität. Du könntest sagen: "Ich bin an der Erkundung einer offenen Beziehung interessiert. Ich möchte wissen, wie du dazu stehst." Sei bereit, dass dein Partner nein sagen könnte, und akzeptiere das. Du kannst nicht jemanden zu einer offenen Beziehung zwingen.'}"
+  - "{'question': 'Welche Regeln sind in einer offenen Beziehung wichtig?', 'answer': 'Die Regeln sind unterschiedlich für jedes Paar, aber häufige sind: Schutz beim Sex (Kondome, Tests), Ehrlichkeit über sexuelle Begegnungen, keine Gefühle für andere Menschen entwickeln, bestimmte Orte oder Menschen sind tabu. Die Wichtigste Regel ist gegenseitiger Respekt und Ehrlichkeit.'}"
 ---
 Offene Beziehungen sind nicht für alle, aber für einige Menschen sind sie eine bereichernde und authentische Art zu leben. Die Vorstellung, dass Menschen ausschließlich mit einer anderen Person Sex haben müssen, ist kulturell konstruiert – nicht biologisch notwendig.
 

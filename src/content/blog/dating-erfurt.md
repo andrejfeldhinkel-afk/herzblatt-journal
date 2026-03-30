@@ -14,14 +14,10 @@ draft: false
 image: "/images/photos/dating-erfurt.webp"
 imageAlt: "Erfurt dating scene"
 faq:
-  - question: "Wo kann man in Erfurt am besten Singles kennenlernen?"
-    answer: "Der Domplatz und die Krämerbrücke sind die besten Plätze zum Flanieren und Leute kennenlernen. Die Altstadt-Bars rund um den Fischmarkt sind perfekt für erste Drinks und Flirts. Auch Cafés in der Altstadt sind gute Startpunkte."
-  - question: "Welche Dating-Apps sind in Erfurt beliebt?"
-    answer: "Tinder und Bumble haben die meisten aktiven Singles in Erfurt. Hinge wird immer beliebter, besonders bei denen, die eine Beziehung suchen. Die Apps bieten gute Chancen, schnell Matches zu finden."
-  - question: "Was sind die besten Date-Ideen in Erfurt?"
-    answer: "Spaziergänge über die Krämerbrücke, Museumsbesuche, romantische Abende auf dem Domplatz oder am Fischmarkt. Im Sommer Biergärten, im Winter Glühwein auf Weihnachtsmärkten. Altstadttouren sind auch beliebt."
-  - question: "Gibt es in Erfurt eine aktive Single-Szene?"
-    answer: "Ja! Erfurt hat eine lebendige, kulturelle Single-Szene. Die mittelalterliche Altstadt schafft eine romantische Atmosphäre, und es gibt viele Veranstaltungen für Singles. Die Stadt ist perfekt für Dating."
+  - "{'question': 'Wo kann man in Erfurt am besten Singles kennenlernen?', 'answer': 'Der Domplatz und die Krämerbrücke sind die besten Plätze zum Flanieren und Leute kennenlernen. Die Altstadt-Bars rund um den Fischmarkt sind perfekt für erste Drinks und Flirts. Auch Cafés in der Altstadt sind gute Startpunkte.'}"
+  - "{'question': 'Welche Dating-Apps sind in Erfurt beliebt?', 'answer': 'Tinder und Bumble haben die meisten aktiven Singles in Erfurt. Hinge wird immer beliebter, besonders bei denen, die eine Beziehung suchen. Die Apps bieten gute Chancen, schnell Matches zu finden.'}"
+  - "{'question': 'Was sind die besten Date-Ideen in Erfurt?', 'answer': 'Spaziergänge über die Krämerbrücke, Museumsbesuche, romantische Abende auf dem Domplatz oder am Fischmarkt. Im Sommer Biergärten, im Winter Glühwein auf Weihnachtsmärkten. Altstadttouren sind auch beliebt.'}"
+  - "{'question': 'Gibt es in Erfurt eine aktive Single-Szene?', 'answer': 'Ja! Erfurt hat eine lebendige, kulturelle Single-Szene. Die mittelalterliche Altstadt schafft eine romantische Atmosphäre, und es gibt viele Veranstaltungen für Singles. Die Stadt ist perfekt für Dating.'}"
 ---
 ## Dating in Erfurt: Romantik in der mittelalterlichen Altstadt
 

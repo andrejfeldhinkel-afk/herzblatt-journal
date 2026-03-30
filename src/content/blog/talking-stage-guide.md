@@ -18,14 +18,10 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - question: "Was bedeutet Talking Stage?"
-    answer: "Die Talking Stage ist die Phase zwischen dem ersten Kontakt und einer festen Beziehung. Ihr schreibt euch regelmäßig, trefft euch vielleicht, aber seid noch nicht exklusiv. Es ist die moderne Kennenlernphase — ohne feste Regeln oder Labels."
-  - question: "Wie lange sollte die Talking Stage dauern?"
-    answer: "Idealerweise 4-8 Wochen. Länger als 3 Monate ist ein Warnsignal — dann will wahrscheinlich eine Person kein Commitment eingehen. Kürzer als 2 Wochen reicht selten, um jemanden wirklich kennenzulernen."
-  - question: "Was sind Red Flags in der Talking Stage?"
-    answer: "Typische Red Flags: Die Person antwortet nur spät nachts, macht nie konkrete Pläne, hält andere Optionen offen, vermeidet persönliche Gespräche und gibt dir das Gefühl, dass du mehr investierst als sie."
-  - question: "Darf man in der Talking Stage mit anderen Leuten daten?"
-    answer: "Technisch ja — ihr seid nicht exklusiv. Aber Transparenz ist wichtig. Wenn du merkst, dass es ernster wird, ist ein offenes Gespräch über Exklusivität der richtige nächste Schritt."
+  - "{'question': 'Was bedeutet Talking Stage?', 'answer': 'Die Talking Stage ist die Phase zwischen dem ersten Kontakt und einer festen Beziehung. Ihr schreibt euch regelmäßig, trefft euch vielleicht, aber seid noch nicht exklusiv. Es ist die moderne Kennenlernphase — ohne feste Regeln oder Labels.'}"
+  - "{'question': 'Wie lange sollte die Talking Stage dauern?', 'answer': 'Idealerweise 4-8 Wochen. Länger als 3 Monate ist ein Warnsignal — dann will wahrscheinlich eine Person kein Commitment eingehen. Kürzer als 2 Wochen reicht selten, um jemanden wirklich kennenzulernen.'}"
+  - "{'question': 'Was sind Red Flags in der Talking Stage?', 'answer': 'Typische Red Flags: Die Person antwortet nur spät nachts, macht nie konkrete Pläne, hält andere Optionen offen, vermeidet persönliche Gespräche und gibt dir das Gefühl, dass du mehr investierst als sie.'}"
+  - "{'question': 'Darf man in der Talking Stage mit anderen Leuten daten?', 'answer': 'Technisch ja — ihr seid nicht exklusiv. Aber Transparenz ist wichtig. Wenn du merkst, dass es ernster wird, ist ein offenes Gespräch über Exklusivität der richtige nächste Schritt.'}"
 ---
 
 ## Der Schwebezustand, den du nur zu gut kennst

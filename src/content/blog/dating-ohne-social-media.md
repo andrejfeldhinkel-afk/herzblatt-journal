@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/dating-ohne-social-media.webp"
 imageAlt: "Person genießt Kaffee in einem Café ohne Smartphone"
 faq:
-  - question: "Ist es ein Red Flag, kein Social Media zu haben?"
-    answer: "Nein. Immer mehr Menschen verzichten bewusst auf soziale Medien. Es zeigt eher, dass jemand seine Aufmerksamkeit anders priorisiert."
-  - question: "Wie lerne ich ohne Social Media neue Leute kennen?"
-    answer: "Vereine, Kurse, Ehrenamt, Sportgruppen, Events – offline gibt es viele Möglichkeiten. Und Dating-Apps funktionieren auch ohne Instagram-Verlinkung."
-  - question: "Sollte ich in meinem Dating-Profil erwähnen, dass ich kein Social Media habe?"
-    answer: "Kannst du, musst du aber nicht. Wenn jemand danach fragt, erklär einfach kurz, warum – das wirkt selbstbewusst und authentisch."
+  - "{'question': 'Ist es ein Red Flag, kein Social Media zu haben?', 'answer': 'Nein. Immer mehr Menschen verzichten bewusst auf soziale Medien. Es zeigt eher, dass jemand seine Aufmerksamkeit anders priorisiert.'}"
+  - "{'question': 'Wie lerne ich ohne Social Media neue Leute kennen?', 'answer': 'Vereine, Kurse, Ehrenamt, Sportgruppen, Events – offline gibt es viele Möglichkeiten. Und Dating-Apps funktionieren auch ohne Instagram-Verlinkung.'}"
+  - "{'question': 'Sollte ich in meinem Dating-Profil erwähnen, dass ich kein Social Media habe?', 'answer': 'Kannst du, musst du aber nicht. Wenn jemand danach fragt, erklär einfach kurz, warum – das wirkt selbstbewusst und authentisch.'}"
 ---
 ## Kein Instagram? Verdächtig!
 

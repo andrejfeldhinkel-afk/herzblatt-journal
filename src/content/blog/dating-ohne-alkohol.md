@@ -15,12 +15,9 @@ keywords:
 draft: false
 author: "laura-weber"
 faq:
-  - question: "Muss ich erklären warum ich keinen Alkohol trinke?"
-    answer: "Nein. Ein einfaches 'Ich trinke gerade nicht' oder 'Ich fahre noch' reicht. Wer nachhakt oder dich unter Druck setzt, zeigt dir damit schon etwas über seinen Charakter."
-  - question: "Wo kann man gut nüchtern daten?"
-    answer: "Cafés, Spaziergänge, Museen, Kochkurse, Minigolf oder Eis essen. Aktivitäten bei denen Alkohol keine Rolle spielt, machen das Date sogar besser — weil ihr euch wirklich kennenlernt."
-  - question: "Bin ich langweilig wenn ich nichts trinke?"
-    answer: "Absolut nicht. Wer dich nur mit Alkohol interessant findet, ist nicht der richtige Mensch für dich. Nüchternheit zeigt Selbstbewusstsein und Klarheit."
+  - "{'question': 'Muss ich erklären warum ich keinen Alkohol trinke?', 'answer': "Nein. Ein einfaches 'Ich trinke gerade nicht' oder 'Ich fahre noch' reicht. Wer nachhakt oder dich unter Druck setzt, zeigt dir damit schon etwas über seinen Charakter."}"
+  - "{'question': 'Wo kann man gut nüchtern daten?', 'answer': 'Cafés, Spaziergänge, Museen, Kochkurse, Minigolf oder Eis essen. Aktivitäten bei denen Alkohol keine Rolle spielt, machen das Date sogar besser — weil ihr euch wirklich kennenlernt.'}"
+  - "{'question': 'Bin ich langweilig wenn ich nichts trinke?', 'answer': 'Absolut nicht. Wer dich nur mit Alkohol interessant findet, ist nicht der richtige Mensch für dich. Nüchternheit zeigt Selbstbewusstsein und Klarheit.'}"
 ---
 
 Die alte Regel war: Ein Glas Wein beruhigt die Nerven. Ein zweites macht die Sache flüssiger. Das dritte? Jetzt vergesse ich, dass ich nervös bin. Und plötzlich erzähle ich jemandem, den ich zwei Stunden kenne, meine ganze Lebensgeschichte. Das ist nicht Authentizität, das ist flüssiger Mut. Und dann wundern wir uns, warum die Chemie am nächsten Tag anders wirkt als beim Date.

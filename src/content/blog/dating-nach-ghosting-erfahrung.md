@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/dating-nach-ghosting-erfahrung.webp"
 imageAlt: "Person schaut nachdenklich auf ihr Smartphone"
 faq:
-  - question: "Wie lange braucht man, um Ghosting zu verarbeiten?"
-    answer: "Das ist individuell. Manche brauchen ein paar Wochen, andere Monate. Erlaub dir die Zeit, die du brauchst, und setz dich nicht unter Druck, sofort wieder zu daten."
-  - question: "Warum ghosten Menschen überhaupt?"
-    answer: "Oft aus Konfliktvermeidung, Überforderung oder mangelnder Empathie. Es sagt fast immer mehr über den Ghoster aus als über dich."
-  - question: "Wie schütze ich mich vor erneutem Ghosting?"
-    answer: "Ganz verhindern kannst du es nicht. Aber achte auf Warnsignale: Jemand, der nur sporadisch schreibt, Treffen ständig verschiebt oder nie über persönliche Dinge redet, ist eher ein Ghosting-Kandidat."
+  - "{'question': 'Wie lange braucht man, um Ghosting zu verarbeiten?', 'answer': 'Das ist individuell. Manche brauchen ein paar Wochen, andere Monate. Erlaub dir die Zeit, die du brauchst, und setz dich nicht unter Druck, sofort wieder zu daten.'}"
+  - "{'question': 'Warum ghosten Menschen überhaupt?', 'answer': 'Oft aus Konfliktvermeidung, Überforderung oder mangelnder Empathie. Es sagt fast immer mehr über den Ghoster aus als über dich.'}"
+  - "{'question': 'Wie schütze ich mich vor erneutem Ghosting?', 'answer': 'Ganz verhindern kannst du es nicht. Aber achte auf Warnsignale: Jemand, der nur sporadisch schreibt, Treffen ständig verschiebt oder nie über persönliche Dinge redet, ist eher ein Ghosting-Kandidat.'}"
 ---
 
 Du kennst das: Eine Person, mit der du sprichst, mit der du dich wirklich verbunden gefühlt hast — und dann, aus dem Nichts, Funkstille. Das ist Ghosting. Und es tut weh auf eine Weise, die schwer zu erklären ist. Die Enttäuschung ist groß, aber die Verwirrung ist noch größer. Du weißt nicht, was passiert ist. Dann geht es dir wie vielen anderen — und das Wiedereingehen ins Dating nach einer Ghosting-Erfahrung ist dabei ein zentraler Faktor, den du nicht ignorieren solltest. In diesem Artikel zeigen wir dir, wie du damit umgehen kannst und wieder vertrauen lernst.

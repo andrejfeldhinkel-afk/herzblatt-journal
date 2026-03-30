@@ -18,16 +18,11 @@ keywords:
   - "Heilung"
 draft: false
 faq:
-  - question: "Was ist Fleabagging und woher kommt der Begriff?"
-    answer: "Fleabagging kommt von der britischen TV-Serie 'Fleabag' und beschreibt ein Muster, bei dem man wiederholt Menschen datet, die nicht gut für dich sind. Die Hauptfigur Fleabag datiert kontinuierlich den falschen Typ, obwohl sie es besser weiß. Es ist ein erkennbares, destruktives Muster."
-  - question: "Warum datet man immer den falschen Typ?"
-    answer: "Die Gründe sind vielfältig: niedriges Selbstwertgefühl, unterbewusste Skripte aus der Kindheit, Attachment Anxiety, die Suche nach 'bekanntem Schmerz', oder unbewusste Überzeugungen, dass du nicht besser verdienst. Es ist selten Zufall. Es ist ein Muster."
-  - question: "Kann man sein Fleabagging-Muster erkennen?"
-    answer: "Ja. Schau auf deine Ex-Partner: Haben sie ähnliche Charakterzüge? Verhalten sich die gleich? Wenn du ein konsistentes Muster siehst, wenn alle deine Beziehungen ähnlich enden, dann fleabaggerst du wahrscheinlich."
-  - question: "Wie bricht man das Fleabagging-Muster?"
-    answer: "Erkenne zuerst das Muster. Arbeite an deinem Selbstwertgefühl und deinen unterbewussten Überzeugungen. Redefine deine 'Type'. Praktiziere Pattern Interruption: Wenn du merkst, dass du wieder zu diesem Typ greifen willst, stoppage und frag dich, warum. Mit Zeit und Arbeit kann man das brechen."
-  - question: "Kann man die falsche Person lieben lernen?"
-    answer: "Liebe ist nicht genug. Du kannst jemanden lieben und sie sind trotzdem nicht die richtige Person für dich. Kompatibilität, Wertvorstellungen, Lebensvisionen und gegenseitiges Engagement sind genauso wichtig. Nicht alles, das sich wie Liebe anfühlt, ist gesund."
+  - "{'question': 'Was ist Fleabagging und woher kommt der Begriff?', 'answer': "Fleabagging kommt von der britischen TV-Serie 'Fleabag' und beschreibt ein Muster, bei dem man wiederholt Menschen datet, die nicht gut für dich sind. Die Hauptfigur Fleabag datiert kontinuierlich den falschen Typ, obwohl sie es besser weiß. Es ist ein erkennbares, destruktives Muster."}"
+  - "{'question': 'Warum datet man immer den falschen Typ?', 'answer': "Die Gründe sind vielfältig: niedriges Selbstwertgefühl, unterbewusste Skripte aus der Kindheit, Attachment Anxiety, die Suche nach 'bekanntem Schmerz', oder unbewusste Überzeugungen, dass du nicht besser verdienst. Es ist selten Zufall. Es ist ein Muster."}"
+  - "{'question': 'Kann man sein Fleabagging-Muster erkennen?', 'answer': 'Ja. Schau auf deine Ex-Partner: Haben sie ähnliche Charakterzüge? Verhalten sich die gleich? Wenn du ein konsistentes Muster siehst, wenn alle deine Beziehungen ähnlich enden, dann fleabaggerst du wahrscheinlich.'}"
+  - "{'question': 'Wie bricht man das Fleabagging-Muster?', 'answer': "Erkenne zuerst das Muster. Arbeite an deinem Selbstwertgefühl und deinen unterbewussten Überzeugungen. Redefine deine 'Type'. Praktiziere Pattern Interruption: Wenn du merkst, dass du wieder zu diesem Typ greifen willst, stoppage und frag dich, warum. Mit Zeit und Arbeit kann man das brechen."}"
+  - "{'question': 'Kann man die falsche Person lieben lernen?', 'answer': 'Liebe ist nicht genug. Du kannst jemanden lieben und sie sind trotzdem nicht die richtige Person für dich. Kompatibilität, Wertvorstellungen, Lebensvisionen und gegenseitiges Engagement sind genauso wichtig. Nicht alles, das sich wie Liebe anfühlt, ist gesund.'}"
 ---
 
 ## Das Fleabagging-Phänomen: Warum wir immer wieder die gleiche Person daten

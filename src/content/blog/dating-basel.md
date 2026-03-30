@@ -14,12 +14,9 @@ draft: false
 image: "/images/photos/dating-basel.webp"
 imageAlt: "Basel"
 faq:
-  - question: "Wo lernt man in Basel Singles kennen?"
-    answer: "Die beste Gelegenheit, Singles in Basel kennenzulernen, bieten die vielen Kultur- und Kunstveranstaltungen, die beliebten Cafés und Bars in der Altstadt, sowie die sozialen Treffpunkte am Rheinufer. Die junge Szene trifft sich gerne in Kleiner Basel und St. Johann, während die Kulturszene rund um die Kunstmuseen aktiv ist. Auch während der Fasnacht entstehen viele ungezwungene Begegnungen."
-  - question: "Was sind die besten Date-Ideen in Basel?"
-    answer: "Romantische Klassiker sind eine Rheinfähre-Fahrt oder ein Picknick auf der Münsterterrasse mit Blick auf den Fluss. Kulturfreunde genießen eine Ausstellung im Kunstmuseum oder einen Spaziergang durch die liebevoll restaurierte Altstadt. Outdoor-Fans unternehmen eine Wanderung ins nahe Dreiländereck oder schwimmen gemeinsam im Rhein. Zum Abendessen bieten sich gemütliche Restaurants in Grossbasel oder trendige Lokale in Kleiner Basel an."
-  - question: "Gibt es eine gute Single-Szene in Basel?"
-    answer: "Ja, Basel hat eine aktive und aufgeschlossene Single-Szene. Die Stadt ist jung, weltoffen und kulturell vielfältig durch die Nähe zu Frankreich und Deutschland. Die regelmäßigen Veranstaltungen, Kunstausstellungen, Konzerte und natürlich die legendäre Fasnacht schaffen viele natürliche Treffpunkte. Besonders in den Vierteln Kleiner Basel und St. Johann ist die Szene sehr lebendig und freundlich."
+  - "{'question': 'Wo lernt man in Basel Singles kennen?', 'answer': 'Die beste Gelegenheit, Singles in Basel kennenzulernen, bieten die vielen Kultur- und Kunstveranstaltungen, die beliebten Cafés und Bars in der Altstadt, sowie die sozialen Treffpunkte am Rheinufer. Die junge Szene trifft sich gerne in Kleiner Basel und St. Johann, während die Kulturszene rund um die Kunstmuseen aktiv ist. Auch während der Fasnacht entstehen viele ungezwungene Begegnungen.'}"
+  - "{'question': 'Was sind die besten Date-Ideen in Basel?', 'answer': 'Romantische Klassiker sind eine Rheinfähre-Fahrt oder ein Picknick auf der Münsterterrasse mit Blick auf den Fluss. Kulturfreunde genießen eine Ausstellung im Kunstmuseum oder einen Spaziergang durch die liebevoll restaurierte Altstadt. Outdoor-Fans unternehmen eine Wanderung ins nahe Dreiländereck oder schwimmen gemeinsam im Rhein. Zum Abendessen bieten sich gemütliche Restaurants in Grossbasel oder trendige Lokale in Kleiner Basel an.'}"
+  - "{'question': 'Gibt es eine gute Single-Szene in Basel?', 'answer': 'Ja, Basel hat eine aktive und aufgeschlossene Single-Szene. Die Stadt ist jung, weltoffen und kulturell vielfältig durch die Nähe zu Frankreich und Deutschland. Die regelmäßigen Veranstaltungen, Kunstausstellungen, Konzerte und natürlich die legendäre Fasnacht schaffen viele natürliche Treffpunkte. Besonders in den Vierteln Kleiner Basel und St. Johann ist die Szene sehr lebendig und freundlich.'}"
 ---
 ## dating in Basel: Wo Kultur auf Romantik trifft
 

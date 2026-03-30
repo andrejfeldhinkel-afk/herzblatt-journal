@@ -17,16 +17,11 @@ keywords:
 image: "/images/blog/beige-flags-dating-guide.webp"
 draft: false
 faq:
-  - question: "Was sind Beige Flags im Dating?"
-    answer: "Beige Flags sind keine echten Red Flags, aber auch keine Green Flags. Sie sind langweilige, generische oder uninspirierende Eigenschaften, die dir nicht unbedingt Angst machen, aber die Leidenschaft nicht entfachen."
-  - question: "Woher kommt der Begriff Beige Flag?"
-    answer: "Der Begriff entstand auf TikTok und anderen sozialen Medien, um Dating-Profile und Partner zu beschreiben, die extrem generisch und charakterlos wirken – wie die Farbe Beige: neutral und uninspirierend."
-  - question: "Sind Beige Flags Dealbreaker?"
-    answer: "Das hängt ab. Manche Menschen lieben Stabilität und Ruhe. Für andere können Beige Flags bedeuten, dass die Leidenschaft fehlt. Es kommt auf deine Prioritäten an."
-  - question: "Kann man eine langweilige Person bereichern?"
-    answer: "Ja, aber nur wenn die Person daran arbeiten möchte. Du kannst nicht jemanden inspirieren, der sich nicht inspirieren lassen will. Erwartet nicht, dass du jemanden veränderst."
-  - question: "Wie vermeide ich, dass ich selbst ein Beige Flag werde?"
-    answer: "Entwickle Hobbys und Interessen, die du liebst. Sei authentisch in deinem Profil. Zeige deine Persönlichkeit. Sprich über die Dinge, die dir wirklich wichtig sind."
+  - "{'question': 'Was sind Beige Flags im Dating?', 'answer': 'Beige Flags sind keine echten Red Flags, aber auch keine Green Flags. Sie sind langweilige, generische oder uninspirierende Eigenschaften, die dir nicht unbedingt Angst machen, aber die Leidenschaft nicht entfachen.'}"
+  - "{'question': 'Woher kommt der Begriff Beige Flag?', 'answer': 'Der Begriff entstand auf TikTok und anderen sozialen Medien, um Dating-Profile und Partner zu beschreiben, die extrem generisch und charakterlos wirken – wie die Farbe Beige: neutral und uninspirierend.'}"
+  - "{'question': 'Sind Beige Flags Dealbreaker?', 'answer': 'Das hängt ab. Manche Menschen lieben Stabilität und Ruhe. Für andere können Beige Flags bedeuten, dass die Leidenschaft fehlt. Es kommt auf deine Prioritäten an.'}"
+  - "{'question': 'Kann man eine langweilige Person bereichern?', 'answer': 'Ja, aber nur wenn die Person daran arbeiten möchte. Du kannst nicht jemanden inspirieren, der sich nicht inspirieren lassen will. Erwartet nicht, dass du jemanden veränderst.'}"
+  - "{'question': 'Wie vermeide ich, dass ich selbst ein Beige Flag werde?', 'answer': 'Entwickle Hobbys und Interessen, die du liebst. Sei authentisch in deinem Profil. Zeige deine Persönlichkeit. Sprich über die Dinge, die dir wirklich wichtig sind.'}"
 ---
 ## Was sind Beige Flags und warum kümmert uns das?
 

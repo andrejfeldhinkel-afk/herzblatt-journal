@@ -17,14 +17,10 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Was ist eine Beziehungsinventur?"
-    answer: "Eine Beziehungsinventur ist ein bewusster, ehrlicher Blick auf alle Bereiche deiner Partnerschaft — Kommunikation, Intimität, Vertrauen, gemeinsame Ziele, Respekt. Wie eine Inventur im Geschäft, nur für deine Beziehung."
-  - question: "Wie oft sollte man eine Beziehungsinventur machen?"
-    answer: "Mindestens einmal im Jahr — idealerweise gemeinsam. Manche Paare machen das zum Jahrestag oder Silvester. Es geht nicht darum, Fehler zu suchen, sondern bewusst auf eure Beziehung zu schauen."
-  - question: "Was mache ich wenn die Beziehungsinventur negativ ausfällt?"
-    answer: "Erstens: Keine Panik. Eine ehrliche Bestandsaufnahme ist der erste Schritt zur Verbesserung. Identifiziere die 2-3 wichtigsten Baustellen und arbeitet gemeinsam daran — Schritt für Schritt."
-  - question: "Kann man eine Beziehungsinventur alleine machen?"
-    answer: "Ja, das ist sogar ein guter Anfang. Aber die größte Wirkung entfaltet sie, wenn beide Partner separat reflektieren und dann offen darüber sprechen."
+  - "{'question': 'Was ist eine Beziehungsinventur?', 'answer': 'Eine Beziehungsinventur ist ein bewusster, ehrlicher Blick auf alle Bereiche deiner Partnerschaft — Kommunikation, Intimität, Vertrauen, gemeinsame Ziele, Respekt. Wie eine Inventur im Geschäft, nur für deine Beziehung.'}"
+  - "{'question': 'Wie oft sollte man eine Beziehungsinventur machen?', 'answer': 'Mindestens einmal im Jahr — idealerweise gemeinsam. Manche Paare machen das zum Jahrestag oder Silvester. Es geht nicht darum, Fehler zu suchen, sondern bewusst auf eure Beziehung zu schauen.'}"
+  - "{'question': 'Was mache ich wenn die Beziehungsinventur negativ ausfällt?', 'answer': 'Erstens: Keine Panik. Eine ehrliche Bestandsaufnahme ist der erste Schritt zur Verbesserung. Identifiziere die 2-3 wichtigsten Baustellen und arbeitet gemeinsam daran — Schritt für Schritt.'}"
+  - "{'question': 'Kann man eine Beziehungsinventur alleine machen?', 'answer': 'Ja, das ist sogar ein guter Anfang. Aber die größte Wirkung entfaltet sie, wenn beide Partner separat reflektieren und dann offen darüber sprechen.'}"
 ---
 ## Beziehungsinventur: Der ehrliche Check ob deine beziehung noch gesund ist
 

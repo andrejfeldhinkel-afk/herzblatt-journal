@@ -14,14 +14,10 @@ draft: false
 image: "/images/photos/erstes-date-tipps.webp"
 imageAlt: "Illustration eines ersten Dates"
 faq:
-  - question: "Was sollte ich beim ersten Date anziehen?"
-    answer: "Trage etwas, worin du dich wohlfühlst und das deinen persönlichen Stil ausdrückt. Es muss nicht elegant sein, aber sauber und gepflegt. Das Wichtigste ist, dass du dich selbstbewusst fühlst."
-  - question: "Wie lange sollte ein erstes Date dauern?"
-    answer: "Idealerweise 1-2 Stunden. Das gibt euch genug Zeit zum Kennenlernen, ohne dass es zu ermüdend wird oder die Spannung nachlässt."
-  - question: "Wer sollte zahlen beim ersten Date?"
-    answer: "Im modernen Dating ist es üblich, dass jeder seine eigene Rechnung zahlt oder ihr teilt. Falls jemand eindeutig eingeladen hat, ist es höflich anzubieten zu zahlen."
-  - question: "Welche Themen sollte ich beim ersten Date vermeiden?"
-    answer: "Vermeide ex-Partner, Finanzen, Politik und Religion am Anfang. Konzentriere dich auf leichtere Themen und erkundige dich nach den Interessen und Erfahrungen des anderen."
+  - "{'question': 'Was sollte ich beim ersten Date anziehen?', 'answer': 'Trage etwas, worin du dich wohlfühlst und das deinen persönlichen Stil ausdrückt. Es muss nicht elegant sein, aber sauber und gepflegt. Das Wichtigste ist, dass du dich selbstbewusst fühlst.'}"
+  - "{'question': 'Wie lange sollte ein erstes Date dauern?', 'answer': 'Idealerweise 1-2 Stunden. Das gibt euch genug Zeit zum Kennenlernen, ohne dass es zu ermüdend wird oder die Spannung nachlässt.'}"
+  - "{'question': 'Wer sollte zahlen beim ersten Date?', 'answer': 'Im modernen Dating ist es üblich, dass jeder seine eigene Rechnung zahlt oder ihr teilt. Falls jemand eindeutig eingeladen hat, ist es höflich anzubieten zu zahlen.'}"
+  - "{'question': 'Welche Themen sollte ich beim ersten Date vermeiden?', 'answer': 'Vermeide ex-Partner, Finanzen, Politik und Religion am Anfang. Konzentriere dich auf leichtere Themen und erkundige dich nach den Interessen und Erfahrungen des anderen.'}"
 ---
 ## Die Nervosität ist normal
 

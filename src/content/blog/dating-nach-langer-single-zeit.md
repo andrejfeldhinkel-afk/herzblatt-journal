@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/dating-nach-langer-single-zeit.webp"
 imageAlt: "Frau bereit fürs Dating"
 faq:
-  - question: 'Wie lange sollte man Single sein, bevor es "lange" ist?'
-    answer: 'Das ist subjektiv. Manche Menschen fühlen sich nach einem Jahr allein verletzlich, andere nach 5 Jahren. Es geht weniger um die Zeit als vielmehr darum, wie du dich fühlst. Wenn du dich verloren in deinem eigenen Leben fühlst, bist du wahrscheinlich nicht bereit.'
-  - question: 'Wo finde ich das Vertrauen, dass ich noch attraktiv bin?'
-    answer: 'Das Vertrauen kommt nicht vom Aussehen – es kommt von Inneren heraus. Arbeite an Selbstliebe. Pflege dich. Erinnere dich an deine Stärken. Und ja, wenn du dich besser aussehen möchtest, kannst du in dein Aussehen investieren. Aber echte Anziehung beginnt mit innerem Vertrauen.'
-  - question: 'Bin ich zu alt oder zu beschädigt nach so langer Single-Zeit?'
-    answer: 'Nein. Menschen treffen sich und verlieben sich in jedem Alter. Deine Zeit als Single bedeutet nicht, dass du weniger wertvoll oder fähig bist zu lieben. Es bedeutet, dass du gekämpft hast, um allein zu sein – das ist eigentlich eine Stärke.'
+  - "{'question': 'Wie lange sollte man Single sein, bevor es "lange" ist?', 'answer': 'Das ist subjektiv. Manche Menschen fühlen sich nach einem Jahr allein verletzlich, andere nach 5 Jahren. Es geht weniger um die Zeit als vielmehr darum, wie du dich fühlst. Wenn du dich verloren in deinem eigenen Leben fühlst, bist du wahrscheinlich nicht bereit.'}"
+  - "{'question': 'Wo finde ich das Vertrauen, dass ich noch attraktiv bin?', 'answer': 'Das Vertrauen kommt nicht vom Aussehen – es kommt von Inneren heraus. Arbeite an Selbstliebe. Pflege dich. Erinnere dich an deine Stärken. Und ja, wenn du dich besser aussehen möchtest, kannst du in dein Aussehen investieren. Aber echte Anziehung beginnt mit innerem Vertrauen.'}"
+  - "{'question': 'Bin ich zu alt oder zu beschädigt nach so langer Single-Zeit?', 'answer': 'Nein. Menschen treffen sich und verlieben sich in jedem Alter. Deine Zeit als Single bedeutet nicht, dass du weniger wertvoll oder fähig bist zu lieben. Es bedeutet, dass du gekämpft hast, um allein zu sein – das ist eigentlich eine Stärke.'}"
 ---
 Nach einer langen Zeit als Single zurück ins Dating zu gehen kann sich überwältigend anfühlen. Die Welt hat sich möglicherweise verändert, deine Gefühle haben sich verändert, und du bist möglicherweise unsicher, ob du überhaupt noch attraktiv bist oder wie man „datet". Aber hier ist die Wahrheit: Du bist bereit, wenn du es dir selbst erlaubst, es zu sein.
 

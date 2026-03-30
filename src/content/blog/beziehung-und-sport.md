@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/beziehung-und-sport.webp"
 imageAlt: "Paar joggt zusammen im Park"
 faq:
-  - question: "Sollten Paare zusammen trainieren?"
-    answer: "Wenn es beiden Spaß macht, ja. Aber es ist auch völlig okay, getrennt Sport zu machen. Der eigene Ausgleich ist genauso wichtig."
-  - question: "Was tun, wenn einer viel sportlicher ist als der andere?"
-    answer: "Findet Aktivitäten, bei denen das Fitnesslevel weniger wichtig ist – Wandern, Schwimmen, Yoga. Oder macht euer eigenes Ding und teilt die Leidenschaft trotzdem."
-  - question: "Kann Sport die Beziehung belasten?"
-    answer: "Ja, wenn einer besessen trainiert und die Beziehung vernachlässigt, oder wenn Leistungsdruck entsteht. Balance ist der Schlüssel."
+  - "{'question': 'Sollten Paare zusammen trainieren?', 'answer': 'Wenn es beiden Spaß macht, ja. Aber es ist auch völlig okay, getrennt Sport zu machen. Der eigene Ausgleich ist genauso wichtig.'}"
+  - "{'question': 'Was tun, wenn einer viel sportlicher ist als der andere?', 'answer': 'Findet Aktivitäten, bei denen das Fitnesslevel weniger wichtig ist – Wandern, Schwimmen, Yoga. Oder macht euer eigenes Ding und teilt die Leidenschaft trotzdem.'}"
+  - "{'question': 'Kann Sport die Beziehung belasten?', 'answer': 'Ja, wenn einer besessen trainiert und die Beziehung vernachlässigt, oder wenn Leistungsdruck entsteht. Balance ist der Schlüssel.'}"
 ---
 ## Schwitzen verbindet
 

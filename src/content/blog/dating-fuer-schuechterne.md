@@ -1,15 +1,14 @@
 ---
-title: "Online-Dating als Refugium"
-description: "Ratgeber zum Thema Online-Dating als Refugium — Herzblatt Journal"
-tags:
-  - "Ratgeber"
-keywords:
-  - "dating-fuer-schuechterne"
-draft: false
-image: "/images/photos/dating-fuer-schuechterne.webp"
-imageAlt: "Online-Dating als Refugium"
+title: Dating Fuer Schuechterne
+description: ''
+date: '2026-03-01'
+updated: '2026-03-01'
+tags: []
+draft: true
 ---
-## dating für Schüchterne
+
+---
+---## dating für Schüchterne
 
 Dein Handy vibriert. Ein Match. Dein Herz beginnt zu rasen. Stunden vergehen, und du hast immer noch nicht die erste Nachricht geschrieben. Die Vorstellung eines Dates macht dich nervös. Diese Angst ist real, aber sie ist nicht unüberwindbar. Schüchternheit ist nicht das Ende deiner Dating-Chancen — es könnte sogar dein größter Vorteil sein.
 

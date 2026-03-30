@@ -16,12 +16,9 @@ draft: false
 image: "/images/photos/beziehung-auffrischen.webp"
 imageAlt: "Glückliches Paar"
 faq:
-  - question: "Wie kann ich meine Beziehung wieder auffrischen?"
-    answer: "Der Schlüssel liegt in gemeinsamen neuen Erfahrungen. Brecht eure Routinen bewusst auf: plant überraschende Date Nights, lernt zusammen etwas Neues, redet über Träume statt über den Alltag, und schafft kleine Rituale der Wertschätzung. Schon kleine Veränderungen können große Wirkung haben."
-  - question: "Ist es normal dass eine Beziehung langweilig wird?"
-    answer: "Ja, absolut normal! Die Wissenschaft nennt es hedonistische Adaptation — wir gewöhnen uns an alles, auch an unseren Partner. Das ist kein Zeichen, dass die Liebe weg ist. Es bedeutet nur, dass ihr aktiv in eure Beziehung investieren müsst, um die Spannung aufrechtzuerhalten."
-  - question: "Ab wann sollte man sich Sorgen machen?"
-    answer: "Sorgen sind angebracht, wenn Langeweile in Gleichgültigkeit umschlägt — wenn es euch egal ist, was der andere macht, ihr kein Bedürfnis nach Nähe habt, und Gespräche nur noch funktional sind. Dann ist professionelle Paarberatung sinnvoll."
+  - "{'question': 'Wie kann ich meine Beziehung wieder auffrischen?', 'answer': 'Der Schlüssel liegt in gemeinsamen neuen Erfahrungen. Brecht eure Routinen bewusst auf: plant überraschende Date Nights, lernt zusammen etwas Neues, redet über Träume statt über den Alltag, und schafft kleine Rituale der Wertschätzung. Schon kleine Veränderungen können große Wirkung haben.'}"
+  - "{'question': 'Ist es normal dass eine Beziehung langweilig wird?', 'answer': 'Ja, absolut normal! Die Wissenschaft nennt es hedonistische Adaptation — wir gewöhnen uns an alles, auch an unseren Partner. Das ist kein Zeichen, dass die Liebe weg ist. Es bedeutet nur, dass ihr aktiv in eure Beziehung investieren müsst, um die Spannung aufrechtzuerhalten.'}"
+  - "{'question': 'Ab wann sollte man sich Sorgen machen?', 'answer': 'Sorgen sind angebracht, wenn Langeweile in Gleichgültigkeit umschlägt — wenn es euch egal ist, was der andere macht, ihr kein Bedürfnis nach Nähe habt, und Gespräche nur noch funktional sind. Dann ist professionelle Paarberatung sinnvoll.'}"
 ---Jede [beziehung](/blog/adhs-und-beziehung-komplett-guide/) braucht Aufmerksamkeit — besonders wenn es um auffrischen geht. Beziehung spielt dabei eine größere Rolle, als du vielleicht denkst. Hier erfährst du, wie du diese wichtige Komponente nutzen kannst, um deine Partnerschaft zu stärken.
 
 ## Einleitung: Warum jede Beziehung mal frischen Wind braucht

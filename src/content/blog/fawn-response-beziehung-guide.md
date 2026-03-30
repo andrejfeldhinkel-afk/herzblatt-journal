@@ -18,16 +18,11 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Was ist der Fawn Response?"
-    answer: "Der Fawn Response ist eine Trauma-Reaktion, bei der du automatisch versuchst, anderen zu gefallen und Konflikte zu vermeiden — auf Kosten deiner eigenen Bedürfnisse. Neben Fight, Flight und Freeze ist Fawn der vierte Überlebensmechanismus."
-  - question: "Woher kommt der Fawn Response?"
-    answer: "Er entsteht meist in der Kindheit, wenn ein Kind lernt, dass Anpassung und das Erfüllen der Bedürfnisse anderer der einzige Weg ist, Sicherheit und Zuneigung zu erfahren — oft bei emotional instabilen oder narzisstischen Eltern."
-  - question: "Ist Fawning das Gleiche wie People-Pleasing?"
-    answer: "People-Pleasing ist die sichtbare Verhaltensweise, Fawning ist der tieferliegende Trauma-Mechanismus dahinter. Nicht jedes People-Pleasing ist traumabedingt, aber wenn du dich zwanghaft nicht anders verhalten KANNST, ist es wahrscheinlich ein Fawn Response."
-  - question: "Wie heile ich meinen Fawn Response?"
-    answer: "Der erste Schritt ist Bewusstsein: Erkenne die Momente, in denen du automatisch in den Fawn-Modus schaltest. Dann übe kleine Schritte: Sage nein zu unwichtigen Dingen, äußere eine abweichende Meinung, halte Unbehagen aus. Therapie — besonders Somatic Experiencing oder EMDR — kann den Heilungsprozess beschleunigen."
-  - question: "Wie wirkt sich der Fawn Response auf Beziehungen aus?"
-    answer: "Du verlierst dich selbst in Beziehungen, hast keine klaren Grenzen, ziehst oft narzisstische oder dominante Partner an und fühlst dich innerlich leer — weil du ständig die Rolle spielst, von der du glaubst, dass sie geliebt wird."
+  - "{'question': 'Was ist der Fawn Response?', 'answer': 'Der Fawn Response ist eine Trauma-Reaktion, bei der du automatisch versuchst, anderen zu gefallen und Konflikte zu vermeiden — auf Kosten deiner eigenen Bedürfnisse. Neben Fight, Flight und Freeze ist Fawn der vierte Überlebensmechanismus.'}"
+  - "{'question': 'Woher kommt der Fawn Response?', 'answer': 'Er entsteht meist in der Kindheit, wenn ein Kind lernt, dass Anpassung und das Erfüllen der Bedürfnisse anderer der einzige Weg ist, Sicherheit und Zuneigung zu erfahren — oft bei emotional instabilen oder narzisstischen Eltern.'}"
+  - "{'question': 'Ist Fawning das Gleiche wie People-Pleasing?', 'answer': 'People-Pleasing ist die sichtbare Verhaltensweise, Fawning ist der tieferliegende Trauma-Mechanismus dahinter. Nicht jedes People-Pleasing ist traumabedingt, aber wenn du dich zwanghaft nicht anders verhalten KANNST, ist es wahrscheinlich ein Fawn Response.'}"
+  - "{'question': 'Wie heile ich meinen Fawn Response?', 'answer': 'Der erste Schritt ist Bewusstsein: Erkenne die Momente, in denen du automatisch in den Fawn-Modus schaltest. Dann übe kleine Schritte: Sage nein zu unwichtigen Dingen, äußere eine abweichende Meinung, halte Unbehagen aus. Therapie — besonders Somatic Experiencing oder EMDR — kann den Heilungsprozess beschleunigen.'}"
+  - "{'question': 'Wie wirkt sich der Fawn Response auf Beziehungen aus?', 'answer': 'Du verlierst dich selbst in Beziehungen, hast keine klaren Grenzen, ziehst oft narzisstische oder dominante Partner an und fühlst dich innerlich leer — weil du ständig die Rolle spielst, von der du glaubst, dass sie geliebt wird.'}"
 ---
 ## Der stille Schmerz des Sich-selbst-Aufgebens
 

@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/dating-nach-toxischer-beziehung.webp"
 imageAlt: "Frau findet Hoffnung nach toxischer Beziehung"
 faq:
-  - question: "Wie lange sollte ich warten, bevor ich nach einer toxischen Beziehung wieder datiere?"
-    answer: "Es gibt keine feste Regel, aber Experten empfehlen mindestens 3-6 Monate Zeit für Heilung und Selbstreflexion. Die wichtigere Frage ist nicht die Zeit, sondern ob du psychologisch bereit bist und die Muster der toxischen Beziehung erkannt hast."
-  - question: "Wie erkenne ich, ob ich wirklich bereit bin?"
-    answer: "Du bist bereit, wenn du ohne Schmerz über deine Ex sprechen kannst, neue Grenzen setzen kannst und eine gesunde Liebe von dir selbst entwickelt hast. Wenn du noch hoffst, dass dein Ex sich ändert, bist du noch nicht bereit."
-  - question: "Wie vermeide ich, wieder in ein toxisches Muster zu geraten?"
-    answer: "Lerne die Red Flags kennen, die du übersehen hast. Vertraue deinem Bauchgefühl, kommuniziere früh über Grenzen, und zögere nicht, jemanden loszulassen, der deine Werte nicht respektiert."
+  - "{'question': 'Wie lange sollte ich warten, bevor ich nach einer toxischen Beziehung wieder datiere?', 'answer': 'Es gibt keine feste Regel, aber Experten empfehlen mindestens 3-6 Monate Zeit für Heilung und Selbstreflexion. Die wichtigere Frage ist nicht die Zeit, sondern ob du psychologisch bereit bist und die Muster der toxischen Beziehung erkannt hast.'}"
+  - "{'question': 'Wie erkenne ich, ob ich wirklich bereit bin?', 'answer': 'Du bist bereit, wenn du ohne Schmerz über deine Ex sprechen kannst, neue Grenzen setzen kannst und eine gesunde Liebe von dir selbst entwickelt hast. Wenn du noch hoffst, dass dein Ex sich ändert, bist du noch nicht bereit.'}"
+  - "{'question': 'Wie vermeide ich, wieder in ein toxisches Muster zu geraten?', 'answer': 'Lerne die Red Flags kennen, die du übersehen hast. Vertraue deinem Bauchgefühl, kommuniziere früh über Grenzen, und zögere nicht, jemanden loszulassen, der deine Werte nicht respektiert.'}"
 ---
 Nach einer toxischen [beziehung](/blog/adhs-und-beziehung-komplett-guide/) wieder ins Dating zu gehen fühlt sich wie das Betreten eines dunklen Raums an, in dem man nicht weiß, wo die Wände sind. Die Narben, die zurückgeblieben sind, können groß sein, aber [heilung](/blog/aengstlicher-bindungsstil-heilen/) und ein neuer Anfang sind möglich. In diesem Artikel werde ich dir helfen zu verstehen, wie du wieder bereit wirst und wie du dich selbst schützt.
 

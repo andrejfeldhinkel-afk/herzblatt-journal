@@ -13,10 +13,8 @@ draft: false
 image: "/images/photos/online-dating-muedigkeit.webp"
 imageAlt: "Dating-App-Sucht: Wenn Swipen zur Obsession wird"
 faq:
-  - question: "Was ist das Wichtigste bei dating-app-sucht?"
-    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
-  - question: "Wo finde ich Hilfe zum Thema dating-app-sucht?"
-    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
+  - "{'question': 'Was ist das Wichtigste bei dating-app-sucht?', 'answer': 'Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst.'}"
+  - "{'question': 'Wo finde ich Hilfe zum Thema dating-app-sucht?', 'answer': 'Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung.'}"
 ---
 ## dating-App-Sucht: Wenn Swipen zur Obsession wird
 

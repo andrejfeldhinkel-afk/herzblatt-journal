@@ -16,14 +16,10 @@ draft: false
 image: "/images/photos/beziehung-nach-fremdgehen.webp"
 imageAlt: "Paar das nach einem Vertrauensbruch kämpft"
 faq:
-  - question: "Kann eine Beziehung nach Fremdgehen überleben?"
-    answer: "Ja — aber es erfordert harte Arbeit von beiden Seiten. Studien zeigen, dass etwa 60-75% der Paare nach einer Affäre zusammenbleiben, wenn beide bereit sind, an der Beziehung zu arbeiten."
-  - question: "Wie lange dauert es, Fremdgehen zu verarbeiten?"
-    answer: "Die Heilung dauert in der Regel 1-2 Jahre. Es ist ein Prozess mit Höhen und Tiefen. Professionelle Paartherapie kann diesen Weg deutlich verkürzen und strukturieren."
-  - question: "Sollte ich die Details des Seitensprungs wissen wollen?"
-    answer: "Ein gewisses Maß an Wahrheit ist wichtig für die Verarbeitung. Aber obsessives Nachfragen nach jedem Detail kann den Heilungsprozess behindern. Ein Therapeut kann helfen, die richtige Balance zu finden."
-  - question: "Wann sollte man nach Fremdgehen definitiv gehen?"
-    answer: "Wenn der Partner keine Reue zeigt, die Affäre nicht beendet, dich für deine Gefühle beschuldigt oder wiederholt untreu war. Auch wenn du nach langer Zeit merkst, dass du nicht verzeihen kannst."
+  - "{'question': 'Kann eine Beziehung nach Fremdgehen überleben?', 'answer': 'Ja — aber es erfordert harte Arbeit von beiden Seiten. Studien zeigen, dass etwa 60-75% der Paare nach einer Affäre zusammenbleiben, wenn beide bereit sind, an der Beziehung zu arbeiten.'}"
+  - "{'question': 'Wie lange dauert es, Fremdgehen zu verarbeiten?', 'answer': 'Die Heilung dauert in der Regel 1-2 Jahre. Es ist ein Prozess mit Höhen und Tiefen. Professionelle Paartherapie kann diesen Weg deutlich verkürzen und strukturieren.'}"
+  - "{'question': 'Sollte ich die Details des Seitensprungs wissen wollen?', 'answer': 'Ein gewisses Maß an Wahrheit ist wichtig für die Verarbeitung. Aber obsessives Nachfragen nach jedem Detail kann den Heilungsprozess behindern. Ein Therapeut kann helfen, die richtige Balance zu finden.'}"
+  - "{'question': 'Wann sollte man nach Fremdgehen definitiv gehen?', 'answer': 'Wenn der Partner keine Reue zeigt, die Affäre nicht beendet, dich für deine Gefühle beschuldigt oder wiederholt untreu war. Auch wenn du nach langer Zeit merkst, dass du nicht verzeihen kannst.'}"
 ---
 Dein Herz pocht bis zum Hals. Die Worte sind gefallen: „Ich bin dir untreu gewesen" oder „Ich habe jemanden getroffen." In diesem Moment fühlt sich deine Welt an, als würde sie auseinanderfallen. Der **Vertrauensbruch** durch Fremdgehen ist einer der schmerzhaftesten Momente in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/) — doch es ist nicht automatisch das Ende der Geschichte.
 

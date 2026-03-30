@@ -12,10 +12,8 @@ draft: false
 image: "/images/photos/dating-mit-kindern.webp"
 imageAlt: "Beziehung nach dem ersten Baby"
 faq:
-  - question: "Was ist das Wichtigste bei beziehung nach dem ersten baby?"
-    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
-  - question: "Wo finde ich Hilfe zum Thema beziehung nach dem ersten baby?"
-    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
+  - "{'question': 'Was ist das Wichtigste bei beziehung nach dem ersten baby?', 'answer': 'Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst.'}"
+  - "{'question': 'Wo finde ich Hilfe zum Thema beziehung nach dem ersten baby?', 'answer': 'Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung.'}"
 ---
 ## Die beziehung nach dem Baby: Wie ihr die Liebe bewahrt im Chaos
 

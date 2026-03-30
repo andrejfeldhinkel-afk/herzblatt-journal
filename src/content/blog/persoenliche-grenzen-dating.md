@@ -1,19 +1,20 @@
 ---
-title: "Persönliche Grenzen beim Dating: Der Unterschied zwischen"
-slug: "persoenliche-grenzen-dating"
-description: "Du hast keine Grenzen beim Dating und wunderst dich, warum du ausgenutzt wirst. Ich zeige dir, wie du dich selbst schützt und trotzdem offen bleibst."
-author: "sarah-kellner"
-image: "/images/photos/persoenliche-grenzen-dating.webp"
-imageAlt: "Persönliche Grenzen symbolisch dargestellt"
-category: "Dating"
+title: 'Persönliche Grenzen beim Dating: Der Unterschied zwischen'
+slug: persoenliche-grenzen-dating
+description: Du hast keine Grenzen beim Dating und wunderst dich, warum du ausgenutzt
+  wirst. Ich zeige dir, wie du dich selbst schützt und trotzdem offen bleibst.
+author: sarah-kellner
+image: /images/photos/persoenliche-grenzen-dating.webp
+imageAlt: Persönliche Grenzen symbolisch dargestellt
+category: Dating
 tags:
-  - "Psychologie"
-  - "Dating"
-  - "Selbstliebe"
+- Psychologie
+- Dating
+- Selbstliebe
 keywords:
-  - "grenzen setzen dating"
-  - "persönliche grenzen dating"
-  - "dating grenzen"
+- grenzen setzen dating
+- persönliche grenzen dating
+- dating grenzen
 ---
 
 Du gehst auf ein Date. Der andere Mensch sagt: "Ich zahle nicht für Essen, wir teilen uns." Du entschuldigst dich und zahlst deine Hälfte.

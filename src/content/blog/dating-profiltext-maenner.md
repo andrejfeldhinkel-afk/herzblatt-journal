@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/dating-profiltext-maenner.webp"
 imageAlt: "Mann schreibt am Laptop seinen Dating-Profiltext"
 faq:
-  - question: "Was gehört in einen guten Dating-Profiltext?"
-    answer: "Schreib konkret, was dich ausmacht – ein Hobby, eine Leidenschaft, ein Witz. Vermeide langweilige Floskeln wie 'Ich bin humorvoll und treu'. Zeig lieber, statt zu erzählen."
-  - question: "Wie lang sollte mein Profiltext sein?"
-    answer: "Drei bis fünf Sätze reichen völlig. Kurz genug, um Neugier zu wecken, lang genug, um einen Eindruck zu hinterlassen."
-  - question: "Sollte ich Humor in meinem Profil verwenden?"
-    answer: "Auf jeden Fall – aber nur, wenn er echt ist. Erzwungene Witze wirken peinlich. Ein lockerer Spruch, der zu dir passt, kommt meistens gut an."
+  - "{'question': 'Was gehört in einen guten Dating-Profiltext?', 'answer': "Schreib konkret, was dich ausmacht – ein Hobby, eine Leidenschaft, ein Witz. Vermeide langweilige Floskeln wie 'Ich bin humorvoll und treu'. Zeig lieber, statt zu erzählen."}"
+  - "{'question': 'Wie lang sollte mein Profiltext sein?', 'answer': 'Drei bis fünf Sätze reichen völlig. Kurz genug, um Neugier zu wecken, lang genug, um einen Eindruck zu hinterlassen.'}"
+  - "{'question': 'Sollte ich Humor in meinem Profil verwenden?', 'answer': 'Auf jeden Fall – aber nur, wenn er echt ist. Erzwungene Witze wirken peinlich. Ein lockerer Spruch, der zu dir passt, kommt meistens gut an.'}"
 ---
 
 ## Dein Profiltext entscheidet mehr als dein Foto

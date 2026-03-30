@@ -14,14 +14,10 @@ draft: false
 image: "/images/photos/dating-chemnitz.webp"
 imageAlt: "Moderne Kunstmuseen und Architektur von Chemnitz"
 faq:
-  - question: "Wo treffen sich junge Menschen in Chemnitz?"
-    answer: "Die Zwickauer Straße ist die Partymeile. Der Königshof-Platz ist zentral. Die Gegend um die TU Chemnitz ist jung. Der Zentralpark ist für Natur-Dates perfekt."
-  - question: "Welche Restaurants und Bars sind gut?"
-    answer: "'Villa Marie' bietet regionale Küche. 'Zellner's' ist traditionell elegant. 'Café Haupt' ist trendig und gemütlich."
-  - question: "Was kann man unternehmen außer Essen?"
-    answer: "Kunstmuseen besuchen. Spaziergang im Zentralpark. Theater-Aufführungen. Technik-Museum erkunden. Stadttouren."
-  - question: "Wie ist die Single-Szene hier?"
-    answer: "Chemnitz wurde zur Kulturhauptstadt 2025. Mit renovierter Kunstszene und junger Energie ist die Dating-Szene lebendig und vielversprechend."
+  - "{'question': 'Wo treffen sich junge Menschen in Chemnitz?', 'answer': 'Die Zwickauer Straße ist die Partymeile. Der Königshof-Platz ist zentral. Die Gegend um die TU Chemnitz ist jung. Der Zentralpark ist für Natur-Dates perfekt.'}"
+  - "{'question': 'Welche Restaurants und Bars sind gut?', 'answer': "'Villa Marie' bietet regionale Küche. 'Zellner's' ist traditionell elegant. 'Café Haupt' ist trendig und gemütlich."}"
+  - "{'question': 'Was kann man unternehmen außer Essen?', 'answer': 'Kunstmuseen besuchen. Spaziergang im Zentralpark. Theater-Aufführungen. Technik-Museum erkunden. Stadttouren.'}"
+  - "{'question': 'Wie ist die Single-Szene hier?', 'answer': 'Chemnitz wurde zur Kulturhauptstadt 2025. Mit renovierter Kunstszene und junger Energie ist die Dating-Szene lebendig und vielversprechend.'}"
 ---
 ## dating in Chemnitz: Die aufstrebende Kulturhauptstadt für Dates
 

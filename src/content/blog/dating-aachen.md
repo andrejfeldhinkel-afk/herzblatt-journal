@@ -14,14 +14,10 @@ draft: false
 image: "/images/photos/dating-aachen.webp"
 imageAlt: "Romantische Altstadt von Aachen mit Blick auf den Dom"
 faq:
-  - question: "Wo treffen sich junge Singles in Aachen?"
-    answer: "Die Altstadt ist das Zentrum des Nachtlebens. Beliebte Bars finden sich rund um den Katschhof und die Pontstraße. Dating-Apps wie Tinder und Bumble sind auch unter Aachener Singles verbreitet."
-  - question: "Welche Restaurants sind romantic für ein erstes Date?"
-    answer: "Das 'La Fontanella' bietet italienische Küche mit Atmosphäre. 'Zum Postwagen' besticht durch traditionelle Aachener Spezialitäten in gemütlichem Ambiente."
-  - question: "Was kann man tagsüber unternehmen?"
-    answer: "Der Elisabrunnen ist perfekt für einen Spaziergang. Die Aachener Thermalquellen laden zu entspannten Besuchen ein. Der Lousberg bietet schöne Aussichten."
-  - question: "Wann ist die beste Zeit zum Ausgehen in Aachen?"
-    answer: "Freitag und Samstag ab 21 Uhr sind die Hochzeiten in den Bars. Mittags sind Cafés und Restaurants für entspanntere Dates perfekt."
+  - "{'question': 'Wo treffen sich junge Singles in Aachen?', 'answer': 'Die Altstadt ist das Zentrum des Nachtlebens. Beliebte Bars finden sich rund um den Katschhof und die Pontstraße. Dating-Apps wie Tinder und Bumble sind auch unter Aachener Singles verbreitet.'}"
+  - "{'question': 'Welche Restaurants sind romantic für ein erstes Date?', 'answer': "Das 'La Fontanella' bietet italienische Küche mit Atmosphäre. 'Zum Postwagen' besticht durch traditionelle Aachener Spezialitäten in gemütlichem Ambiente."}"
+  - "{'question': 'Was kann man tagsüber unternehmen?', 'answer': 'Der Elisabrunnen ist perfekt für einen Spaziergang. Die Aachener Thermalquellen laden zu entspannten Besuchen ein. Der Lousberg bietet schöne Aussichten.'}"
+  - "{'question': 'Wann ist die beste Zeit zum Ausgehen in Aachen?', 'answer': 'Freitag und Samstag ab 21 Uhr sind die Hochzeiten in den Bars. Mittags sind Cafés und Restaurants für entspanntere Dates perfekt.'}"
 ---
 ## dating in Aachen: Romantik an der Grenze
 

@@ -10,12 +10,9 @@ image: "/images/photos/online-dating-muedigkeit.webp"
 imageAlt: "Person nimmt eine Dating-App-Pause und entspannt sich"
 featured: false
 faq:
-  - question: "Wie erkenne ich, dass ich Dating-Müdigkeit habe?"
-    answer: "Zeichen sind: Du swipest ohne echtes Interesse, Dates fühlen sich wie Aufgaben an, du hoffst auf nichts, du fragst dich, ob echte Liebe möglich ist. Wenn das klingt nach dir, du hast wahrscheinlich Müdigkeit."
-  - question: "Sollte ich alle Dating-Apps löschen und eine Pause machen?"
-    answer: "Manchmal ja. Wenn du total ausgebrannt bist, braucht du vielleicht 1-3 Monate Pause. Aber manche Menschen brauchen nur eine App statt vielen, oder weniger Zeit pro Tag. Es hängt davon ab, wie schlecht es ist."
-  - question: "Wie lange dauert es, wieder hoffnungsvoll zu werden?"
-    answer: "Mit Veränderung kann es schnell gehen – manchmal Wochen. Mit einer Pause kann es 1-3 Monate sein, bis du wieder bereit bist. Der wichtige Punkt ist, deinem Nervensystem Zeit zu geben, sich zurückzusetzen."
+  - "{'question': 'Wie erkenne ich, dass ich Dating-Müdigkeit habe?', 'answer': 'Zeichen sind: Du swipest ohne echtes Interesse, Dates fühlen sich wie Aufgaben an, du hoffst auf nichts, du fragst dich, ob echte Liebe möglich ist. Wenn das klingt nach dir, du hast wahrscheinlich Müdigkeit.'}"
+  - "{'question': 'Sollte ich alle Dating-Apps löschen und eine Pause machen?', 'answer': 'Manchmal ja. Wenn du total ausgebrannt bist, braucht du vielleicht 1-3 Monate Pause. Aber manche Menschen brauchen nur eine App statt vielen, oder weniger Zeit pro Tag. Es hängt davon ab, wie schlecht es ist.'}"
+  - "{'question': 'Wie lange dauert es, wieder hoffnungsvoll zu werden?', 'answer': 'Mit Veränderung kann es schnell gehen – manchmal Wochen. Mit einer Pause kann es 1-3 Monate sein, bis du wieder bereit bist. Der wichtige Punkt ist, deinem Nervensystem Zeit zu geben, sich zurückzusetzen.'}"
 ---
 Du swiepst nach links. Links. Links. Rechts (das matchst, aber der Chat ist langweilig). Links, links, links.
 

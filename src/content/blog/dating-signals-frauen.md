@@ -12,10 +12,8 @@ draft: false
 image: "/images/photos/flirten-lernen.webp"
 imageAlt: "Diese Signale senden Frauen beim Flirten"
 faq:
-  - question: "Was ist das Wichtigste bei diese signale senden frauen beim flirten?"
-    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
-  - question: "Wo finde ich Hilfe zum Thema diese signale senden frauen beim flirten?"
-    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
+  - "{'question': 'Was ist das Wichtigste bei diese signale senden frauen beim flirten?', 'answer': 'Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst.'}"
+  - "{'question': 'Wo finde ich Hilfe zum Thema diese signale senden frauen beim flirten?', 'answer': 'Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung.'}"
 ---
 
 ## Flirtsignale von frauen: Was du wirklich wissen musst

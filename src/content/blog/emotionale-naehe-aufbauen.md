@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/emotionale-naehe-aufbauen.webp"
 imageAlt: "Paar in vertrautem Gespräch auf der Couch"
 faq:
-  - question: "Wie merke ich, dass emotionale Nähe fehlt?"
-    answer: "Wenn Gespräche nur noch oberflächlich sind, ihr euch emotional voneinander entfernt fühlt oder kaum noch persönliche Dinge teilt – das sind typische Anzeichen."
-  - question: "Kann man emotionale Nähe lernen?"
-    answer: "Ja. Emotionale Nähe ist eine Fähigkeit, die man trainieren kann. Durch bewusstes Zuhören, Verletzlichkeit zeigen und regelmäßige, tiefe Gespräche wächst die Verbindung."
-  - question: "Warum fällt es manchen Menschen schwer, emotional nah zu sein?"
-    answer: "Oft liegt das an früheren Erfahrungen – unsichere Bindung in der Kindheit, vergangene Verletzungen oder die Angst, sich verletzbar zu machen. Das ist normal und lässt sich bearbeiten."
+  - "{'question': 'Wie merke ich, dass emotionale Nähe fehlt?', 'answer': 'Wenn Gespräche nur noch oberflächlich sind, ihr euch emotional voneinander entfernt fühlt oder kaum noch persönliche Dinge teilt – das sind typische Anzeichen.'}"
+  - "{'question': 'Kann man emotionale Nähe lernen?', 'answer': 'Ja. Emotionale Nähe ist eine Fähigkeit, die man trainieren kann. Durch bewusstes Zuhören, Verletzlichkeit zeigen und regelmäßige, tiefe Gespräche wächst die Verbindung.'}"
+  - "{'question': 'Warum fällt es manchen Menschen schwer, emotional nah zu sein?', 'answer': 'Oft liegt das an früheren Erfahrungen – unsichere Bindung in der Kindheit, vergangene Verletzungen oder die Angst, sich verletzbar zu machen. Das ist normal und lässt sich bearbeiten.'}"
 ---
 ## Verliebtheit reicht nicht
 

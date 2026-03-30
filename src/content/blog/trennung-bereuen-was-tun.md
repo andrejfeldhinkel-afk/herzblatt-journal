@@ -16,16 +16,11 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Bereut man eine Trennung wirklich oder ist es nur Einsamkeit?"
-    answer: "Die Antwort ist komplex. Oft ist es eine Mischung. Der erste Schmerz ist real und wird mit Einsamkeit gemischt. Warte mindestens 3-4 Wochen. Wenn der Schmerz dann noch vorhanden ist, könnte es echte Reue sein."
-  - question: "Wann ist es richtig, zum Ex zurückzukehren?"
-    answer: "Nur wenn: Du dich nicht unter Druck setzt. Die Probleme, die zur Trennung führten, wurden adressiert. Du dich selbst wieder verliebt hast, nicht aus Mangel. Du Grenzen setzen kannst. Es ist selten richtig."
-  - question: "Wird es beim zweiten Mal besser, wenn wir zurückgehen?"
-    answer: "Manchmal ja, manchmal nein. Wenn die grundlegenden Probleme nicht gelöst wurden, werden sie einfach wiederkommen. Ein zweiter Versuch funktioniert nur, wenn wirkliche Veränderung geschah."
-  - question: "Wie sage ich dem Ex, dass ich Reue habe, ohne mein Selbstwertgefühl zu verlieren?"
-    answer: "Sei ehrlich, aber nicht verzweifelt. 'Ich vermisse dich und glaube, wir sollten reden' ist besser als 'Bitte nimm mich zurück, ich kann ohne dich nicht leben'. Bewahre deine Würde."
-  - question: "Was wenn der Ex nicht zurückkommt, auch wenn ich Reue habe?"
-    answer: "Das ist schmerzhaft, aber auch befreiend. Es bedeutet: Die Tür ist geschlossen. Und manchmal ist das das beste, was passieren kann. Wende dich nach vorne, nicht nach hinten."
+  - "{'question': 'Bereut man eine Trennung wirklich oder ist es nur Einsamkeit?', 'answer': 'Die Antwort ist komplex. Oft ist es eine Mischung. Der erste Schmerz ist real und wird mit Einsamkeit gemischt. Warte mindestens 3-4 Wochen. Wenn der Schmerz dann noch vorhanden ist, könnte es echte Reue sein.'}"
+  - "{'question': 'Wann ist es richtig, zum Ex zurückzukehren?', 'answer': 'Nur wenn: Du dich nicht unter Druck setzt. Die Probleme, die zur Trennung führten, wurden adressiert. Du dich selbst wieder verliebt hast, nicht aus Mangel. Du Grenzen setzen kannst. Es ist selten richtig.'}"
+  - "{'question': 'Wird es beim zweiten Mal besser, wenn wir zurückgehen?', 'answer': 'Manchmal ja, manchmal nein. Wenn die grundlegenden Probleme nicht gelöst wurden, werden sie einfach wiederkommen. Ein zweiter Versuch funktioniert nur, wenn wirkliche Veränderung geschah.'}"
+  - "{'question': 'Wie sage ich dem Ex, dass ich Reue habe, ohne mein Selbstwertgefühl zu verlieren?', 'answer': "Sei ehrlich, aber nicht verzweifelt. 'Ich vermisse dich und glaube, wir sollten reden' ist besser als 'Bitte nimm mich zurück, ich kann ohne dich nicht leben'. Bewahre deine Würde."}"
+  - "{'question': 'Was wenn der Ex nicht zurückkommt, auch wenn ich Reue habe?', 'answer': 'Das ist schmerzhaft, aber auch befreiend. Es bedeutet: Die Tür ist geschlossen. Und manchmal ist das das beste, was passieren kann. Wende dich nach vorne, nicht nach hinten.'}"
 ---
 
 ## Die erste Welle: Das ist normal

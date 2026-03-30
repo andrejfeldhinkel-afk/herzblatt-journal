@@ -16,16 +16,11 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Bin ich mit 40 zu alt, meine Karriere zu wechseln?"
-    answer: "Nein. Mit 40 hast du Erfahrung, Reife und Selbstkenntnis. Du weißt, was du nicht willst. Das ist ein riesiger Vorteil. Viele erfolgreiche Menschen haben mit 40+ Karrierewechsel gemacht."
-  - question: "Kann ich mit 40 noch eine neue Liebe finden?"
-    answer: "Ja. Sogar besser als mit 20. Mit 40 weißt du, was du willst und was du nicht willst. Du akzeptierst Partner, wie sie sind. Die Chancen sind besser, weil deine Ansprüche klarer sind."
-  - question: "Habe ich 20 Jahre vergeudet, wenn ich mit 40 erst beginne?"
-    answer: "Nein. Diese 20 Jahre waren notwendig. Du musstest die falschen Dinge lernen, um die richtigen zu wissen. Das ist nicht Verschwendung, das ist Entwicklung. Jetzt, mit diesem Wissen, beginnt die beste Phase."
-  - question: "Was ist, wenn ich mit 40 allein bin und das ändern möchte?"
-    answer: "Das ist die beste Ausgangslage. Du bist nicht depressiv nach einer Trennung. Du hast dich Zeit gegeben. Jetzt kannst du von Grund auf neu aufbauen, wie du es möchtest."
-  - question: "Brauche ich finanzielle Stabilität, um mit 40 einen Neuanfang zu machen?"
-    answer: "Es hilft, aber es ist nicht notwendig. Mit 40 hast du auch ohne Geld Werkzeuge: Erfahrung, Netzwerk, Wissen. Das ist oft wertvoller als Geld. Fang an, wo du bist."
+  - "{'question': 'Bin ich mit 40 zu alt, meine Karriere zu wechseln?', 'answer': 'Nein. Mit 40 hast du Erfahrung, Reife und Selbstkenntnis. Du weißt, was du nicht willst. Das ist ein riesiger Vorteil. Viele erfolgreiche Menschen haben mit 40+ Karrierewechsel gemacht.'}"
+  - "{'question': 'Kann ich mit 40 noch eine neue Liebe finden?', 'answer': 'Ja. Sogar besser als mit 20. Mit 40 weißt du, was du willst und was du nicht willst. Du akzeptierst Partner, wie sie sind. Die Chancen sind besser, weil deine Ansprüche klarer sind.'}"
+  - "{'question': 'Habe ich 20 Jahre vergeudet, wenn ich mit 40 erst beginne?', 'answer': 'Nein. Diese 20 Jahre waren notwendig. Du musstest die falschen Dinge lernen, um die richtigen zu wissen. Das ist nicht Verschwendung, das ist Entwicklung. Jetzt, mit diesem Wissen, beginnt die beste Phase.'}"
+  - "{'question': 'Was ist, wenn ich mit 40 allein bin und das ändern möchte?', 'answer': 'Das ist die beste Ausgangslage. Du bist nicht depressiv nach einer Trennung. Du hast dich Zeit gegeben. Jetzt kannst du von Grund auf neu aufbauen, wie du es möchtest.'}"
+  - "{'question': 'Brauche ich finanzielle Stabilität, um mit 40 einen Neuanfang zu machen?', 'answer': 'Es hilft, aber es ist nicht notwendig. Mit 40 hast du auch ohne Geld Werkzeuge: Erfahrung, Netzwerk, Wissen. Das ist oft wertvoller als Geld. Fang an, wo du bist.'}"
 ---
 
 ## Das Vorurteil: Mit 40 ist man zu spät dran

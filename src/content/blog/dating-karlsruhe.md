@@ -14,14 +14,10 @@ draft: false
 image: "/images/photos/dating-karlsruhe.webp"
 imageAlt: "Schöne Altstadt und Schloss von Karlsruhe"
 faq:
-  - question: "Wo treffen sich junge Menschen und Singles in Karlsruhe?"
-    answer: "Das Schloss und die Umgebung sind zentral. Die Kaiserstraße ist die Einkaufs- und Bar-Meile. Das Studentenviertel rund um die TH ist jung und lebendig."
-  - question: "Welche Restaurants sind gut für Dates?"
-    answer: "'La Stanza' bietet italienische Küche elegant. 'Wetterstein' ist traditionell-bayrisch. 'Café Crêpes' ist perfekt für Morgendates."
-  - question: "Was sind gute Aktivitäten?"
-    answer: "Spaziergang durchs Schloss. Besuch der botanischen Gärten. Fahrrad-Touren entlang des Rheins. Museumsbesuche."
-  - question: "Wie ist das Dating-Klima in Karlsruhe?"
-    answer: "Karlsruhe ist eine progressive Stadt mit guter Tech-Szene. Singles sind offen und modern. Dating-Apps sind sehr verbreitet."
+  - "{'question': 'Wo treffen sich junge Menschen und Singles in Karlsruhe?', 'answer': 'Das Schloss und die Umgebung sind zentral. Die Kaiserstraße ist die Einkaufs- und Bar-Meile. Das Studentenviertel rund um die TH ist jung und lebendig.'}"
+  - "{'question': 'Welche Restaurants sind gut für Dates?', 'answer': "'La Stanza' bietet italienische Küche elegant. 'Wetterstein' ist traditionell-bayrisch. 'Café Crêpes' ist perfekt für Morgendates."}"
+  - "{'question': 'Was sind gute Aktivitäten?', 'answer': 'Spaziergang durchs Schloss. Besuch der botanischen Gärten. Fahrrad-Touren entlang des Rheins. Museumsbesuche.'}"
+  - "{'question': 'Wie ist das Dating-Klima in Karlsruhe?', 'answer': 'Karlsruhe ist eine progressive Stadt mit guter Tech-Szene. Singles sind offen und modern. Dating-Apps sind sehr verbreitet.'}"
 ---
 ## dating in Karlsruhe: Eleganz in der Fächerstadt
 

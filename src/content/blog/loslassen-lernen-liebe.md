@@ -1,19 +1,20 @@
 ---
-title: "Loslassen lernen in der Liebe: Der Weg zur emotionalen"
-slug: "loslassen-lernen-liebe"
-description: "Dein Giff ist das Halten. Ich zeige dir, wie du wirklich loslässt — ohne die Liebe aufzugeben."
-author: "sarah-kellner"
-image: "/images/photos/loslassen-lernen-liebe.webp"
-imageAlt: "Luftballon loslassen als Symbol der Befreiung"
-category: "Selbstliebe"
+title: 'Loslassen lernen in der Liebe: Der Weg zur emotionalen'
+slug: loslassen-lernen-liebe
+description: Dein Giff ist das Halten. Ich zeige dir, wie du wirklich loslässt — ohne
+  die Liebe aufzugeben.
+author: sarah-kellner
+image: /images/photos/loslassen-lernen-liebe.webp
+imageAlt: Luftballon loslassen als Symbol der Befreiung
+category: Selbstliebe
 tags:
-  - "Psychologie"
-  - "Selbstliebe"
-  - "Heilung"
+- Psychologie
+- Selbstliebe
+- Heilung
 keywords:
-  - "loslassen lernen liebe"
-  - "loslassen beziehung"
-  - "partner loslassen lernen"
+- loslassen lernen liebe
+- loslassen beziehung
+- partner loslassen lernen
 ---
 
 Du hältst fest. Mit den Fingernägeln, mit den Zähnen, mit allem, was du hast. Du fragst dich: "Wenn ich ihn/sie loslasse, könnte er/sie gehen."

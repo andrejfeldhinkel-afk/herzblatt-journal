@@ -13,14 +13,10 @@ draft: false
 image: "/images/photos/dating-nach-trennung.webp"
 imageAlt: "Illustration Dating nach Trennung"
 faq:
-  - question: "Wie lange sollte ich nach einer Trennung warten, bevor ich daten gehe?"
-    answer: "Es gibt keine magische Zahl, aber mindestens 1-3 Monate sind wichtig. Nutze die Zeit, um zu heilen, dich selbst zu entdecken und dein Wohlbefinden wiederzugewinnen."
-  - question: "Wie erkenne ich, ob ich emotional bereit bin?"
-    answer: "Wenn du nicht mehr täglich an deinen Ex denkst, über die Trennung Frieden hast und dich auf neue Menschen freust — dann bist du bereit. Wenn du nur Schmerz vermeiden willst, bist du nicht bereit."
-  - question: "Was ist eine Rebound-Beziehung und ist sie schlecht?"
-    answer: "Eine Rebound-Beziehung ist eine kurze Beziehung, um Schmerz zu vermeiden. Sie sind nicht immer schlecht, können aber zu mehr Verletzung führen. Sei bewusst, was du suchst."
-  - question: "Sollte ich meinem neuen Partner von meiner Trennung erzählen?"
-    answer: "Ja, bei Gelegenheit. Du musst nicht alle Details offenbaren, aber Offenheit über deine emotionale Geschichte schafft Vertrauen und hilft anderen, dich zu verstehen."
+  - "{'question': 'Wie lange sollte ich nach einer Trennung warten, bevor ich daten gehe?', 'answer': 'Es gibt keine magische Zahl, aber mindestens 1-3 Monate sind wichtig. Nutze die Zeit, um zu heilen, dich selbst zu entdecken und dein Wohlbefinden wiederzugewinnen.'}"
+  - "{'question': 'Wie erkenne ich, ob ich emotional bereit bin?', 'answer': 'Wenn du nicht mehr täglich an deinen Ex denkst, über die Trennung Frieden hast und dich auf neue Menschen freust — dann bist du bereit. Wenn du nur Schmerz vermeiden willst, bist du nicht bereit.'}"
+  - "{'question': 'Was ist eine Rebound-Beziehung und ist sie schlecht?', 'answer': 'Eine Rebound-Beziehung ist eine kurze Beziehung, um Schmerz zu vermeiden. Sie sind nicht immer schlecht, können aber zu mehr Verletzung führen. Sei bewusst, was du suchst.'}"
+  - "{'question': 'Sollte ich meinem neuen Partner von meiner Trennung erzählen?', 'answer': 'Ja, bei Gelegenheit. Du musst nicht alle Details offenbaren, aber Offenheit über deine emotionale Geschichte schafft Vertrauen und hilft anderen, dich zu verstehen.'}"
 ---
 Die Trennung ist vorbei. Die schlimmsten Momente scheinen hinter dir zu liegen. Jetzt fragt sich wahrscheinlich: „Bin ich bereit, wieder zu daten?" Das ist eine kritische Frage, denn wenn du dich zu früh ins Dating stürzt, kannst du in eine Rebound-[beziehung](/blog/adhs-und-beziehung-komplett-guide/) geraten, die mehr Schmerz als Freude bringt.
 

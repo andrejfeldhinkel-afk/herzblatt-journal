@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/dating-auf-reisen.webp"
 imageAlt: "Zwei Menschen unterhalten sich in einer Bar am Strand"
 faq:
-  - question: "Kann aus einem Urlaubsflirt eine echte Beziehung werden?"
-    answer: "Ja, aber es braucht Realismus. Die Urlaubsstimmung verzerrt Gefühle. Gebt euch nach dem Urlaub Zeit, um zu sehen, ob die Verbindung auch im Alltag hält."
-  - question: "Wo lernt man auf Reisen am besten Leute kennen?"
-    answer: "Hostels, geführte Touren, Bars, Co-Working-Spaces und lokale Events. Überall dort, wo Menschen offen für Kontakt sind."
-  - question: "Sollte ich im Urlaub Dating-Apps nutzen?"
-    answer: "Warum nicht? Tinder hat eine Passport-Funktion, und Apps wie Bumble funktionieren weltweit. So kannst du schon vor der Reise Kontakte knüpfen."
+  - "{'question': 'Kann aus einem Urlaubsflirt eine echte Beziehung werden?', 'answer': 'Ja, aber es braucht Realismus. Die Urlaubsstimmung verzerrt Gefühle. Gebt euch nach dem Urlaub Zeit, um zu sehen, ob die Verbindung auch im Alltag hält.'}"
+  - "{'question': 'Wo lernt man auf Reisen am besten Leute kennen?', 'answer': 'Hostels, geführte Touren, Bars, Co-Working-Spaces und lokale Events. Überall dort, wo Menschen offen für Kontakt sind.'}"
+  - "{'question': 'Sollte ich im Urlaub Dating-Apps nutzen?', 'answer': 'Warum nicht? Tinder hat eine Passport-Funktion, und Apps wie Bumble funktionieren weltweit. So kannst du schon vor der Reise Kontakte knüpfen.'}"
 ---
 
 Dating ist eine Kunstform, und Reisen ist eine der besten Kulissen dafür. Wenn du auf Reisen gehst, legst du deine gewohnte Haut ab. Du bist nicht der nervöse Marketing-Manager aus der Heimatstadt, du bist die abenteuerlustige, spontane Version von dir selbst. Und genau in diesem Zustand entstehen die Begegnungen, die bleiben – oder einfach die sind, die bleiben müssen, weil die Realität schnell wieder Einzug hält.

@@ -16,14 +16,10 @@ draft: false
 image: "/images/photos/dating-nach-burnout.webp"
 imageAlt: "Person die nach schwerer Zeit wieder Hoffnung für die Liebe findet"
 faq:
-  - question: "Wann bin ich nach einem Burnout bereit zu daten?"
-    answer: "Es gibt keinen festen Zeitpunkt. Wichtige Zeichen der Bereitschaft sind: Du fühlst dich emotional stabil, hast Freude an sozialen Kontakten, dein Selbstwertgefühl ist nicht mehr vom Partner abhängig und du datest aus Lust — nicht aus Einsamkeit."
-  - question: "Sollte ich meinem Date von meinem Burnout erzählen?"
-    answer: "Nicht beim ersten Date. Warte, bis Vertrauen gewachsen ist. Du schuldest niemandem deine komplette Geschichte — aber Ehrlichkeit, wenn die Beziehung tiefer wird, schafft echte Verbundenheit."
-  - question: "Was wenn die Angst vor Rückfällen mich vom Dating abhält?"
-    answer: "Diese Angst ist normal und sogar gesund — sie zeigt, dass du auf dich achtest. Gehe langsam vor, setze klare Grenzen und behalte deine Selbstfürsorge-Routinen bei."
-  - question: "Kann eine Beziehung bei der Genesung helfen?"
-    answer: "Eine gesunde Beziehung kann unterstützend wirken, aber sie sollte nicht deine Therapie ersetzen. Dein Wohlbefinden sollte nie allein von einem Partner abhängen."
+  - "{'question': 'Wann bin ich nach einem Burnout bereit zu daten?', 'answer': 'Es gibt keinen festen Zeitpunkt. Wichtige Zeichen der Bereitschaft sind: Du fühlst dich emotional stabil, hast Freude an sozialen Kontakten, dein Selbstwertgefühl ist nicht mehr vom Partner abhängig und du datest aus Lust — nicht aus Einsamkeit.'}"
+  - "{'question': 'Sollte ich meinem Date von meinem Burnout erzählen?', 'answer': 'Nicht beim ersten Date. Warte, bis Vertrauen gewachsen ist. Du schuldest niemandem deine komplette Geschichte — aber Ehrlichkeit, wenn die Beziehung tiefer wird, schafft echte Verbundenheit.'}"
+  - "{'question': 'Was wenn die Angst vor Rückfällen mich vom Dating abhält?', 'answer': 'Diese Angst ist normal und sogar gesund — sie zeigt, dass du auf dich achtest. Gehe langsam vor, setze klare Grenzen und behalte deine Selbstfürsorge-Routinen bei.'}"
+  - "{'question': 'Kann eine Beziehung bei der Genesung helfen?', 'answer': 'Eine gesunde Beziehung kann unterstützend wirken, aber sie sollte nicht deine Therapie ersetzen. Dein Wohlbefinden sollte nie allein von einem Partner abhängen.'}"
 ---Du hast es geschafft. Du hast die schwierigste Phase hinter dir — oder befindest dich gerade darin, sie langsam zu verlassen. Die Tage waren dunkel, vielleicht fast unerträglich. Und jetzt fragst du dich: Bin ich bereit, mich wieder auf die Liebe einzulassen? Bin ich bereit zu daten?
 
 Diese Frage zu stellen, zeigt bereits eine wichtige Selbstfürsorge. Du fragst dich nicht einfach, ob du wieder daten *solltest*, sondern ob du bereit *bist*. Das ist der Unterschied zwischen einem impulsiven Schritt und einer bewussten Entscheidung.

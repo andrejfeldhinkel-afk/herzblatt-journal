@@ -15,16 +15,11 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - question: "Was ist der Unterschied zwischen Ghosting und einfach nicht interessiert sein?"
-    answer: "Nicht interessiert sein bedeutet, dass du mit dir redest, um Bescheid zu sagen. Ghosting bedeutet, dass du komplett verschwindest ohne Erklärung. Das ist der Unterschied."
-  - question: "Warum ghosten Menschen?"
-    answer: "Aus verschiedenen Gründen: Angst vor Konfrontation, mangelnde Empathie, Bindungsängstlichkeit, oder sie sind einfach nicht erwachsen genug, um Konversationen zu führen."
-  - question: "Ist es meine Schuld, wenn jemand mich ghostet?"
-    answer: "Nein. Ghosting ist eine Wahl der anderen Person. Es sagt nichts über deinen Wert aus. Es sagt etwas über ihre Fähigkeit aus, respektvoll zu kommunizieren."
-  - question: "Sollte ich nachricht schreiben, wenn jemand mich ghostet?"
-    answer: "Das hängt davon ab. Wenn es frühes Dating ist, lass es los. Wenn ihr eine etablierte Beziehung hattet, kannst du Honesty-Gründe nach Informationen suchen. Aber rechne nicht damit, eine Antwort zu bekommen."
-  - question: "Wie lange braucht es, um Ghosting zu überwinden?"
-    answer: "Einige Wochen bis Monate, abhängig davon, wie lange ihr zusammen wart. Je kürzer die Beziehung, desto schneller kannst du normalerweise weitergehen."
+  - "{'question': 'Was ist der Unterschied zwischen Ghosting und einfach nicht interessiert sein?', 'answer': 'Nicht interessiert sein bedeutet, dass du mit dir redest, um Bescheid zu sagen. Ghosting bedeutet, dass du komplett verschwindest ohne Erklärung. Das ist der Unterschied.'}"
+  - "{'question': 'Warum ghosten Menschen?', 'answer': 'Aus verschiedenen Gründen: Angst vor Konfrontation, mangelnde Empathie, Bindungsängstlichkeit, oder sie sind einfach nicht erwachsen genug, um Konversationen zu führen.'}"
+  - "{'question': 'Ist es meine Schuld, wenn jemand mich ghostet?', 'answer': 'Nein. Ghosting ist eine Wahl der anderen Person. Es sagt nichts über deinen Wert aus. Es sagt etwas über ihre Fähigkeit aus, respektvoll zu kommunizieren.'}"
+  - "{'question': 'Sollte ich nachricht schreiben, wenn jemand mich ghostet?', 'answer': 'Das hängt davon ab. Wenn es frühes Dating ist, lass es los. Wenn ihr eine etablierte Beziehung hattet, kannst du Honesty-Gründe nach Informationen suchen. Aber rechne nicht damit, eine Antwort zu bekommen.'}"
+  - "{'question': 'Wie lange braucht es, um Ghosting zu überwinden?', 'answer': 'Einige Wochen bis Monate, abhängig davon, wie lange ihr zusammen wart. Je kürzer die Beziehung, desto schneller kannst du normalerweise weitergehen.'}"
 ---
 
 ## Ghosting überwinden: Warum es passiert und wie du damit umgehst

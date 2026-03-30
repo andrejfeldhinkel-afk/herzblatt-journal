@@ -14,12 +14,9 @@ draft: false
 image: "/images/photos/emotionale-manipulation-dating.webp"
 imageAlt: "Person erkennt emotionalen Missbrauch"
 faq:
-  - question: "Ist jede emotionale Manipulation ein Grund, jemanden zu verlassen?"
-    answer: "Das hängt vom Kontext ab. Einmalige Manipulationen, wenn erkannt und bereut, könnten adressierbar sein. Chronisches Muster ist ein Zeichen, dass die Person nicht ändert und du gehen solltest."
-  - question: "Kann ich jemanden helfen, der emotional manipulativ ist?"
-    answer: "Du kannst nicht. Das ist ihre Arbeit zu tun. Wenn du versuchst, sie zu 'heilen', du wirst dich zerstören. Dein Job ist, dich selbst zu schützen, nicht, sie zu reparieren."
-  - question: "Wie erkenne ich, wenn ich selbst manipulativ bin?"
-    answer: "Hör zu, wenn Freunde dir sagen, dass dein Verhalten verletzend ist. Erfrage dich ehrlich, wenn du Macht-Spiele spielst, wenn du Schuldgefühl benutzt. Wenn ja, versuche zu ändern oder suche Therapie."
+  - "{'question': 'Ist jede emotionale Manipulation ein Grund, jemanden zu verlassen?', 'answer': 'Das hängt vom Kontext ab. Einmalige Manipulationen, wenn erkannt und bereut, könnten adressierbar sein. Chronisches Muster ist ein Zeichen, dass die Person nicht ändert und du gehen solltest.'}"
+  - "{'question': 'Kann ich jemanden helfen, der emotional manipulativ ist?', 'answer': "Du kannst nicht. Das ist ihre Arbeit zu tun. Wenn du versuchst, sie zu 'heilen', du wirst dich zerstören. Dein Job ist, dich selbst zu schützen, nicht, sie zu reparieren."}"
+  - "{'question': 'Wie erkenne ich, wenn ich selbst manipulativ bin?', 'answer': 'Hör zu, wenn Freunde dir sagen, dass dein Verhalten verletzend ist. Erfrage dich ehrlich, wenn du Macht-Spiele spielst, wenn du Schuldgefühl benutzt. Wenn ja, versuche zu ändern oder suche Therapie.'}"
 ---
 ## Das Pattern
 

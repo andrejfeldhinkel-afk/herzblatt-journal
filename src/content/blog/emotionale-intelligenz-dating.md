@@ -15,14 +15,10 @@ keywords:
 draft: false
 featured: false
 faq:
-  - question: "Kann ich meine emotionale Intelligenz verbessern?"
-    answer: "Ja, definitiv. EQ wächst durch Selbstbewusstsein, Empathie üben, aktives Zuhören und Verständnis für andere. Es ist eine Fähigkeit, die man entwickeln kann."
-  - question: "Wie erkenne ich einen Partner mit hohem EQ?"
-    answer: "Er/Sie hört dir zu, kann Gefühle benennen, akzeptiert Feedback ohne Defensivität, zeigt Empathie und kann Konflikte konstruktiv lösen."
-  - question: "Ist EQ wichtiger als körperliche Anziehung?"
-    answer: "Idealerweise brauchst du beides. Körperliche Anziehung ist wichtig, aber hoher EQ führt zu tieferen Verbindungen und dauerhafteren Beziehungen."
-  - question: "Wie zeige ich emotionale Intelligenz beim Dating?"
-    answer: "Sei ein guter Zuhörer, stelle Fragen über ihre Gefühle, sei ehrlich über deine Emotionen, und reagiere empathisch auf ihre Bedürfnisse."
+  - "{'question': 'Kann ich meine emotionale Intelligenz verbessern?', 'answer': 'Ja, definitiv. EQ wächst durch Selbstbewusstsein, Empathie üben, aktives Zuhören und Verständnis für andere. Es ist eine Fähigkeit, die man entwickeln kann.'}"
+  - "{'question': 'Wie erkenne ich einen Partner mit hohem EQ?', 'answer': 'Er/Sie hört dir zu, kann Gefühle benennen, akzeptiert Feedback ohne Defensivität, zeigt Empathie und kann Konflikte konstruktiv lösen.'}"
+  - "{'question': 'Ist EQ wichtiger als körperliche Anziehung?', 'answer': 'Idealerweise brauchst du beides. Körperliche Anziehung ist wichtig, aber hoher EQ führt zu tieferen Verbindungen und dauerhafteren Beziehungen.'}"
+  - "{'question': 'Wie zeige ich emotionale Intelligenz beim Dating?', 'answer': 'Sei ein guter Zuhörer, stelle Fragen über ihre Gefühle, sei ehrlich über deine Emotionen, und reagiere empathisch auf ihre Bedürfnisse.'}"
 ---Heute, die von physischen Standards besessen ist, vergessen wir oft, was wirklich zählt: emotionale Intelligenz. Eine Person mit hohem EQ kann eine tiefere Verbindung aufbauen, bessere Beziehungen führen und länger glücklich bleiben als jemand, der nach den klassischen Schönheitsstandards perfekt ist. Tatsächlich ist emotionale Intelligenz einer der stärksten Prädiktoren für romantischen Erfolg und Beziehungszufriedenheit. In diesem Artikel erfährst du, was emotionale Intelligenz ist und wie du sie nutzen kannst, um bessere Beziehungen aufzubauen.
 
 ## Was ist emotionale Intelligenz (EQ)?

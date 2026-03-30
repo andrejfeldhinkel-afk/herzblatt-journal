@@ -1,18 +1,19 @@
 ---
-title: "Beziehungsanarchie: Liebe ohne Regeln, Hierarchien und"
-author: "sarah-kellner"
+title: 'Beziehungsanarchie: Liebe ohne Regeln, Hierarchien und'
+author: sarah-kellner
 draft: false
-image: "/images/blog/beziehungsanarchie-guide.webp"
-imageAlt: "Mehrere bunte Herzen und Verbindungsfäden symbolisieren die vielfältigen Beziehungsstrukturen der Beziehungsanarchie"
+image: /images/blog/beziehungsanarchie-guide.webp
+imageAlt: Mehrere bunte Herzen und Verbindungsfäden symbolisieren die vielfältigen
+  Beziehungsstrukturen der Beziehungsanarchie
 tags:
-  - "Beziehung"
-  - "Lifestyle"
-  - "Ratgeber"
+- Beziehung
+- Lifestyle
+- Ratgeber
 keywords:
-  - "beziehungsanarchie"
-  - "relationship anarchy"
-  - "liebe ohne labels"
-  - "alternative beziehungsformen"
+- beziehungsanarchie
+- relationship anarchy
+- liebe ohne labels
+- alternative beziehungsformen
 ---
 ## Beziehungsanarchie: Liebe ohne Regeln, Hierarchien und Labels
 

@@ -1,4 +1,13 @@
 ---
+title: Emotionaler Missbrauch Beziehung Guide
+description: ''
+date: '2026-03-01'
+updated: '2026-03-01'
+tags: []
+draft: true
+---
+
+---
 title: "Emotionaler Missbrauch in Beziehungen: Erkennen & Heilen"
 description: "Emotionaler Missbrauch erkennen: Die subtilen Zeichen psychischer Gewalt in Beziehungen — und wie du dich befreist und heilst."
 image: "/images/photos/emotionaler-missbrauch-beziehung-guide.webp"
@@ -18,14 +27,10 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - question: "Was zählt als emotionaler Missbrauch?"
-    answer: "Emotionaler Missbrauch umfasst jedes Verhaltensmuster, das darauf abzielt, dein Selbstwertgefühl zu zerstören, dich zu kontrollieren oder zu manipulieren. Dazu gehören Demütigungen, Gaslighting, Isolation von Freunden, ständige Kritik, Drohungen, Silent Treatment und emotionale Erpressung."
-  - question: "Warum erkennen Betroffene emotionalen Missbrauch oft nicht?"
-    answer: "Weil emotionaler Missbrauch keine sichtbaren Spuren hinterlässt und sich schleichend entwickelt. Täter normalisieren ihr Verhalten, Betroffene gewöhnen sich daran und beginnen, sich selbst die Schuld zu geben. Außerdem gibt es oft auch gute Phasen, die Hoffnung machen."
-  - question: "Kann ein emotional missbräuchlicher Partner sich ändern?"
-    answer: "Es ist möglich, aber selten — und nur wenn die Person ihr Verhalten vollständig anerkennt und professionelle Hilfe sucht. Veränderung kann nicht durch die Liebe oder Geduld des Partners erzwungen werden."
-  - question: "Was sind die Langzeitfolgen von emotionalem Missbrauch?"
-    answer: "Typische Langzeitfolgen sind PTBS, Angststörungen, Depressionen, chronisch niedriges Selbstwertgefühl, Vertrauensprobleme, Bindungsangst und Schwierigkeiten in zukünftigen Beziehungen."
+  - "{'question': 'Was zählt als emotionaler Missbrauch?', 'answer': 'Emotionaler Missbrauch umfasst jedes Verhaltensmuster, das darauf abzielt, dein Selbstwertgefühl zu zerstören, dich zu kontrollieren oder zu manipulieren. Dazu gehören Demütigungen, Gaslighting, Isolation von Freunden, ständige Kritik, Drohungen, Silent Treatment und emotionale Erpressung.'}"
+  - "{'question': 'Warum erkennen Betroffene emotionalen Missbrauch oft nicht?', 'answer': 'Weil emotionaler Missbrauch keine sichtbaren Spuren hinterlässt und sich schleichend entwickelt. Täter normalisieren ihr Verhalten, Betroffene gewöhnen sich daran und beginnen, sich selbst die Schuld zu geben. Außerdem gibt es oft auch gute Phasen, die Hoffnung machen.'}"
+  - "{'question': 'Kann ein emotional missbräuchlicher Partner sich ändern?', 'answer': 'Es ist möglich, aber selten — und nur wenn die Person ihr Verhalten vollständig anerkennt und professionelle Hilfe sucht. Veränderung kann nicht durch die Liebe oder Geduld des Partners erzwungen werden.'}"
+  - "{'question': 'Was sind die Langzeitfolgen von emotionalem Missbrauch?', 'answer': 'Typische Langzeitfolgen sind PTBS, Angststörungen, Depressionen, chronisch niedriges Selbstwertgefühl, Vertrauensprobleme, Bindungsangst und Schwierigkeiten in zukünftigen Beziehungen.'}"
 ---## Emotionaler Missbrauch in Beziehungen: Erkennen, verstehen und heilen
 
 ## Der stille Schmerz, den niemand sieht

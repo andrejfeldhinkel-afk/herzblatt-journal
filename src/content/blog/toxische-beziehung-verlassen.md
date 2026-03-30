@@ -15,16 +15,11 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Wie erkenne ich, ob meine Beziehung wirklich toxisch ist oder nur schwierig?"
-    answer: "Eine schwierige Beziehung hat noch gegenseitigen Respekt und Kommunikation. Eine toxische Beziehung hat systematische Abwertung, Kontrollverhalten und emotionalen Missbrauch. Wenn du dich ständig schlecht über dich selbst fühlst, ist es wahrscheinlich toxisch."
-  - question: "Werde ich schuldig fühlen, wenn ich gehe?"
-    answer: "Ja, sehr. Toxische Partner machen dich oft verantwortlich für ihre Gefühle. Aber das ist nicht deine Verantwortung. Der Schuldgefühl ist part des Prozesses – aber es ist nicht wahr."
-  - question: "Was ist, wenn er/sie sagt, dass ich das kaputt machen werde?"
-    answer: "Das ist eine Manipulation-Taktik. Die Beziehung ist bereits kaputt – das ist nicht deine Schuld. Und selbst wenn – du darfst weg, wenn du nicht glücklich bist. Du darfst dich selbst retten."
-  - question: "Wie lange dauert es, sich vollständig von einer toxischen Beziehung zu erholen?"
-    answer: "Das hängt von der Länge und Intensität der Beziehung ab. Im Durchschnitt 6-18 Monate für emotionale Heilung. Aber dein Leben wird sich fast sofort verbessern, nachdem du gehst."
-  - question: "Was ist, wenn er/sie bedroht, Selbstmord zu begehen?"
-    answer: "Das ist emotionale Erpressung. Seine/ihre psychische Gesundheit ist nicht deine Verantwortung. Aber wenn es ein echtes Selbstmord-Risiko gibt, verständige die Behörden oder Familie. Dann geh."
+  - "{'question': 'Wie erkenne ich, ob meine Beziehung wirklich toxisch ist oder nur schwierig?', 'answer': 'Eine schwierige Beziehung hat noch gegenseitigen Respekt und Kommunikation. Eine toxische Beziehung hat systematische Abwertung, Kontrollverhalten und emotionalen Missbrauch. Wenn du dich ständig schlecht über dich selbst fühlst, ist es wahrscheinlich toxisch.'}"
+  - "{'question': 'Werde ich schuldig fühlen, wenn ich gehe?', 'answer': 'Ja, sehr. Toxische Partner machen dich oft verantwortlich für ihre Gefühle. Aber das ist nicht deine Verantwortung. Der Schuldgefühl ist part des Prozesses – aber es ist nicht wahr.'}"
+  - "{'question': 'Was ist, wenn er/sie sagt, dass ich das kaputt machen werde?', 'answer': 'Das ist eine Manipulation-Taktik. Die Beziehung ist bereits kaputt – das ist nicht deine Schuld. Und selbst wenn – du darfst weg, wenn du nicht glücklich bist. Du darfst dich selbst retten.'}"
+  - "{'question': 'Wie lange dauert es, sich vollständig von einer toxischen Beziehung zu erholen?', 'answer': 'Das hängt von der Länge und Intensität der Beziehung ab. Im Durchschnitt 6-18 Monate für emotionale Heilung. Aber dein Leben wird sich fast sofort verbessern, nachdem du gehst.'}"
+  - "{'question': 'Was ist, wenn er/sie bedroht, Selbstmord zu begehen?', 'answer': 'Das ist emotionale Erpressung. Seine/ihre psychische Gesundheit ist nicht deine Verantwortung. Aber wenn es ein echtes Selbstmord-Risiko gibt, verständige die Behörden oder Familie. Dann geh.'}"
 ---
 
 ## Die Definition einer toxischen beziehung

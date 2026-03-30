@@ -12,10 +12,8 @@ draft: false
 image: "/images/photos/moderne-dating-regeln.webp"
 imageAlt: "Ehrlichkeit beim Dating"
 faq:
-  - question: "Was ist das Wichtigste bei ehrlichkeit beim dating?"
-    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
-  - question: "Wo finde ich Hilfe zum Thema ehrlichkeit beim dating?"
-    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
+  - "{'question': 'Was ist das Wichtigste bei ehrlichkeit beim dating?', 'answer': 'Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst.'}"
+  - "{'question': 'Wo finde ich Hilfe zum Thema ehrlichkeit beim dating?', 'answer': 'Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung.'}"
 ---
 ## Ehrlichkeit beim dating
 

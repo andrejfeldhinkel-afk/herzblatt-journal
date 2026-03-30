@@ -16,16 +16,11 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Ist es schlecht, in einer Beziehung zu streiten?"
-    answer: "Nein, überhaupt nicht. Paare, die gar nicht streiten, unterdrücken ihre Gefühle. Das führt zu Groll und emotionaler Entfernung. Gesunde Paare streiten fair."
-  - question: "Was ist der Unterschied zwischen 'fair' und 'unfair' streiten?"
-    answer: "Fair: Du sprichst über das Problem. Unfair: Du attackierst den anderen als Person. Fair: Du bleibst verletzlich. Unfair: Du wirst aggressiv oder kalt. Fair: Du willst verstanden werden. Unfair: Du willst gewinnen."
-  - question: "Kann man einen Streit 'gewinnen'?"
-    answer: "Nein. In einer echten Partnerschaft gibt es kein Gewinnen. Es gibt nur Verstehen oder Nicht-Verstehen. Wenn einer 'gewinnt' und der andere verliert, verliert letztlich auch der Gewinner."
-  - question: "Was soll ich tun, wenn mir im Streit zu heiß wird?"
-    answer: "Unterbreche. Sag: 'Mir wird zu emotional. Ich brauche eine Pause.' Mach eine halbe Stunde Pause. Das ist nicht Flucht – das ist Selbstkontrolle. Kommt dann zurück."
-  - question: "Kann ich Streit verhindern?"
-    answer: "Teilweise. Du kannst lernen, Konflikte früher zu erkennen und konstruktiv anzusprechen. Aber Konflikte sind normal in Beziehungen. Du kannst sie nicht alle verhindern, aber fair mit ihnen umgehen."
+  - "{'question': 'Ist es schlecht, in einer Beziehung zu streiten?', 'answer': 'Nein, überhaupt nicht. Paare, die gar nicht streiten, unterdrücken ihre Gefühle. Das führt zu Groll und emotionaler Entfernung. Gesunde Paare streiten fair.'}"
+  - "{'question': "Was ist der Unterschied zwischen 'fair' und 'unfair' streiten?", 'answer': 'Fair: Du sprichst über das Problem. Unfair: Du attackierst den anderen als Person. Fair: Du bleibst verletzlich. Unfair: Du wirst aggressiv oder kalt. Fair: Du willst verstanden werden. Unfair: Du willst gewinnen.'}"
+  - "{'question': "Kann man einen Streit 'gewinnen'?", 'answer': "Nein. In einer echten Partnerschaft gibt es kein Gewinnen. Es gibt nur Verstehen oder Nicht-Verstehen. Wenn einer 'gewinnt' und der andere verliert, verliert letztlich auch der Gewinner."}"
+  - "{'question': 'Was soll ich tun, wenn mir im Streit zu heiß wird?', 'answer': "Unterbreche. Sag: 'Mir wird zu emotional. Ich brauche eine Pause.' Mach eine halbe Stunde Pause. Das ist nicht Flucht – das ist Selbstkontrolle. Kommt dann zurück."}"
+  - "{'question': 'Kann ich Streit verhindern?', 'answer': 'Teilweise. Du kannst lernen, Konflikte früher zu erkennen und konstruktiv anzusprechen. Aber Konflikte sind normal in Beziehungen. Du kannst sie nicht alle verhindern, aber fair mit ihnen umgehen.'}"
 ---
 
 Der Streit hat angefangen wie immer. Eine kleine Bemerkung. Dann eine Gegenremark. Dann wird es lauter. Und plötzlich redet ihr nicht über das ursprüngliche Problem. Ihr attackiert euch gegenseitig. Dinge, die weh tun. Und hinterher sitzt ihr beide verletzt und fühlt euch allein.

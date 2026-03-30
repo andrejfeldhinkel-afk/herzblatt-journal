@@ -14,16 +14,11 @@ keywords:
 draft: false
 author: "laura-weber"
 faq:
-  - question: "Warum ist es so schwer als Erwachsener Freunde zu finden?"
-    answer: "Fehlende Strukturen. In der Schule und Uni hattest du automatisch Kontakte durch tägliche Nähe. Als Erwachsener musst du aktiv Gelegenheiten schaffen — und das fühlt sich anfangs künstlich an."
-  - question: "Wo finde ich neue Freunde als Erwachsener?"
-    answer: "Vereine, Kurse, Ehrenamt, Sport-Communities, Sprachkurse, Stammtische, Apps wie Bumble BFF. Der Trick ist Regelmäßigkeit — einmalige Events reichen nicht."
-  - question: "Wie wird aus einer Bekanntschaft eine Freundschaft?"
-    answer: "Durch wiederholten Kontakt und geteilte Erlebnisse. Forschung zeigt: Es braucht etwa 50 Stunden gemeinsame Zeit für eine Freundschaft und 200+ für eine enge."
-  - question: "Ich treffe Leute aber es wird nie was Tiefes. Warum?"
-    answer: "Weil oberflächliche Begegnungen nicht reichen. Du musst dich auch verletzlich zeigen. Echte Freundschaft braucht ehrliche Gespräche nicht nur Surface-Level Talk."
-  - question: "Ab welchem Alter wird es noch schwerer Freunde zu finden?"
-    answer: "Es wird progressiv schwerer aber es ist nie unmöglich. Mit 45+ ist es schwärer als mit 25 aber viele Menschen machen es. Der Schlüssel ist Priorität — du musst es wie Training sehen nicht wie Hobby."
+  - "{'question': 'Warum ist es so schwer als Erwachsener Freunde zu finden?', 'answer': 'Fehlende Strukturen. In der Schule und Uni hattest du automatisch Kontakte durch tägliche Nähe. Als Erwachsener musst du aktiv Gelegenheiten schaffen — und das fühlt sich anfangs künstlich an.'}"
+  - "{'question': 'Wo finde ich neue Freunde als Erwachsener?', 'answer': 'Vereine, Kurse, Ehrenamt, Sport-Communities, Sprachkurse, Stammtische, Apps wie Bumble BFF. Der Trick ist Regelmäßigkeit — einmalige Events reichen nicht.'}"
+  - "{'question': 'Wie wird aus einer Bekanntschaft eine Freundschaft?', 'answer': 'Durch wiederholten Kontakt und geteilte Erlebnisse. Forschung zeigt: Es braucht etwa 50 Stunden gemeinsame Zeit für eine Freundschaft und 200+ für eine enge.'}"
+  - "{'question': 'Ich treffe Leute aber es wird nie was Tiefes. Warum?', 'answer': 'Weil oberflächliche Begegnungen nicht reichen. Du musst dich auch verletzlich zeigen. Echte Freundschaft braucht ehrliche Gespräche nicht nur Surface-Level Talk.'}"
+  - "{'question': 'Ab welchem Alter wird es noch schwerer Freunde zu finden?', 'answer': 'Es wird progressiv schwerer aber es ist nie unmöglich. Mit 45+ ist es schwärer als mit 25 aber viele Menschen machen es. Der Schlüssel ist Priorität — du musst es wie Training sehen nicht wie Hobby.'}"
 ---
 
 ## Das unerwartete Problem: Erwachsene sind einsam

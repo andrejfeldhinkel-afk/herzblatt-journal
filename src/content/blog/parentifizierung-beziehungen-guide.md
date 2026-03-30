@@ -18,16 +18,11 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - question: "Was ist Parentifizierung?"
-    answer: "Parentifizierung ist eine Rollenumkehr, bei der ein Kind die emotionale oder praktische Verantwortung für einen oder beide Elternteile übernimmt. Das Kind wird zum Tröster, Vermittler, Haushälter oder emotionalen Stützpfeiler — Rollen, die eigentlich Erwachsenen vorbehalten sind."
-  - question: "Welche Arten von Parentifizierung gibt es?"
-    answer: "Es gibt zwei Hauptformen: Emotionale Parentifizierung (das Kind wird zum Therapeuten, Tröster oder Partner-Ersatz) und instrumentelle Parentifizierung (das Kind übernimmt Haushalt, Kochen, Geschwisterbetreuung). Emotionale Parentifizierung gilt als die schädlichere Form."
-  - question: "Wie beeinflusst Parentifizierung meine Beziehungen?"
-    answer: "Parentifizierte Erwachsene neigen dazu, in Beziehungen die Helfer-Rolle zu übernehmen, die Bedürfnisse anderer über die eigenen zu stellen, Partner zu 'retten' statt gleichberechtigte Beziehungen zu führen, und sich nur wertvoll zu fühlen, wenn sie gebraucht werden."
-  - question: "Kann man Parentifizierung heilen?"
-    answer: "Ja, aber es braucht bewusste Arbeit. Der erste Schritt ist zu erkennen, dass du als Kind eine Last getragen hast, die nicht deine war. Therapie — besonders Schematherapie oder innere-Kind-Arbeit — kann helfen, die alten Muster aufzulösen und gesündere Beziehungsdynamiken zu entwickeln."
-  - question: "Ist Parentifizierung eine Form von Kindesmissbrauch?"
-    answer: "Psychologen stufen schwere Parentifizierung als eine Form von emotionaler Vernachlässigung ein. Auch wenn Eltern es selten absichtlich tun, werden die Bedürfnisse des Kindes dabei systematisch ignoriert — was langfristige psychische Folgen haben kann."
+  - "{'question': 'Was ist Parentifizierung?', 'answer': 'Parentifizierung ist eine Rollenumkehr, bei der ein Kind die emotionale oder praktische Verantwortung für einen oder beide Elternteile übernimmt. Das Kind wird zum Tröster, Vermittler, Haushälter oder emotionalen Stützpfeiler — Rollen, die eigentlich Erwachsenen vorbehalten sind.'}"
+  - "{'question': 'Welche Arten von Parentifizierung gibt es?', 'answer': 'Es gibt zwei Hauptformen: Emotionale Parentifizierung (das Kind wird zum Therapeuten, Tröster oder Partner-Ersatz) und instrumentelle Parentifizierung (das Kind übernimmt Haushalt, Kochen, Geschwisterbetreuung). Emotionale Parentifizierung gilt als die schädlichere Form.'}"
+  - "{'question': 'Wie beeinflusst Parentifizierung meine Beziehungen?', 'answer': "Parentifizierte Erwachsene neigen dazu, in Beziehungen die Helfer-Rolle zu übernehmen, die Bedürfnisse anderer über die eigenen zu stellen, Partner zu 'retten' statt gleichberechtigte Beziehungen zu führen, und sich nur wertvoll zu fühlen, wenn sie gebraucht werden."}"
+  - "{'question': 'Kann man Parentifizierung heilen?', 'answer': 'Ja, aber es braucht bewusste Arbeit. Der erste Schritt ist zu erkennen, dass du als Kind eine Last getragen hast, die nicht deine war. Therapie — besonders Schematherapie oder innere-Kind-Arbeit — kann helfen, die alten Muster aufzulösen und gesündere Beziehungsdynamiken zu entwickeln.'}"
+  - "{'question': 'Ist Parentifizierung eine Form von Kindesmissbrauch?', 'answer': 'Psychologen stufen schwere Parentifizierung als eine Form von emotionaler Vernachlässigung ein. Auch wenn Eltern es selten absichtlich tun, werden die Bedürfnisse des Kindes dabei systematisch ignoriert — was langfristige psychische Folgen haben kann.'}"
 ---
 
 ## Erkennst du dich in dieser Geschichte wieder?

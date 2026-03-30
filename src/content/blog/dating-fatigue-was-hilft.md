@@ -15,16 +15,11 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - question: "Was ist Dating Fatigue genau?"
-    answer: "Es ist emotionale Erschöpfung von wiederholten Dates, ständigen Enttäuschungen und dem Gefühl, dass es nie funktioniert. Es ist wie Arbeit, statt Vergnügen. Du fragst dich: \"Warum mache ich das?\" und die Antwort ist nicht \"weil ich es will\", sondern \"weil ich sollte\"."
-  - question: "Wie lange dauert es, Dating Fatigue zu bekommen?"
-    answer: "Das variiert. Manche Menschen sind nach 6 Monaten intensiven Datings erschöpft. Manche halten länger durch. Aber wenn du dich wöchentlich antreibst, statt es zu genießen – das ist bereits ein Zeichen."
-  - question: "Ist es okay, mit dem Daten zu pausieren?"
-    answer: "Ja, absolut. Nicht nur okay – empfohlen. Eine Pause ist nicht ein Zeichen von Versagen. Es ist ein Zeichen von Selbstschutz. Pausiere, bis du wieder Lust darauf hast."
-  - question: "Wie erkenne ich, ob ich fatigue habe oder einfach Pech mit Menschen?"
-    answer: "Fatigue ist emotionale Erschöpfung generell. Du findest ALLE Dates anstrengend, nicht nur die falschen. Du stellst dich nicht mehr auf Dates vor, du erscheinst. Das ist fatigue. Wenn du immer noch hoffnungsvoll bist, nur die Matches sind falsch – das ist normales Dating."
-  - question: "Kann ich daten und gleichzeitig fatigue heilen?"
-    answer: "Schwierig. Dating Fatigue zu heilen, während du weiter aktiv datierst, ist wie ein Burnout zu heilen, während du weiter überarbeitet wirst. Es ist möglich, wenn du drastisch änderst, wie du datierst (weniger oft, weniger Druck), aber eine Pause ist wahrscheinlich besser."
+  - "{'question': 'Was ist Dating Fatigue genau?', 'answer': 'Es ist emotionale Erschöpfung von wiederholten Dates, ständigen Enttäuschungen und dem Gefühl, dass es nie funktioniert. Es ist wie Arbeit, statt Vergnügen. Du fragst dich: "Warum mache ich das?" und die Antwort ist nicht "weil ich es will", sondern "weil ich sollte".'}"
+  - "{'question': 'Wie lange dauert es, Dating Fatigue zu bekommen?', 'answer': 'Das variiert. Manche Menschen sind nach 6 Monaten intensiven Datings erschöpft. Manche halten länger durch. Aber wenn du dich wöchentlich antreibst, statt es zu genießen – das ist bereits ein Zeichen.'}"
+  - "{'question': 'Ist es okay, mit dem Daten zu pausieren?', 'answer': 'Ja, absolut. Nicht nur okay – empfohlen. Eine Pause ist nicht ein Zeichen von Versagen. Es ist ein Zeichen von Selbstschutz. Pausiere, bis du wieder Lust darauf hast.'}"
+  - "{'question': 'Wie erkenne ich, ob ich fatigue habe oder einfach Pech mit Menschen?', 'answer': 'Fatigue ist emotionale Erschöpfung generell. Du findest ALLE Dates anstrengend, nicht nur die falschen. Du stellst dich nicht mehr auf Dates vor, du erscheinst. Das ist fatigue. Wenn du immer noch hoffnungsvoll bist, nur die Matches sind falsch – das ist normales Dating.'}"
+  - "{'question': 'Kann ich daten und gleichzeitig fatigue heilen?', 'answer': 'Schwierig. Dating Fatigue zu heilen, während du weiter aktiv datierst, ist wie ein Burnout zu heilen, während du weiter überarbeitet wirst. Es ist möglich, wenn du drastisch änderst, wie du datierst (weniger oft, weniger Druck), aber eine Pause ist wahrscheinlich besser.'}"
 ---
 
 ## Dating Fatigue: Wenn die Partnersuche nur noch erschöpft

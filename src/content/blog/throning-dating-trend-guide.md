@@ -18,16 +18,11 @@ keywords:
   - "Beziehung"
 draft: false
 faq:
-  - question: "Was ist Throning genau?"
-    answer: "Throning ist ein Dating-Muster, bei dem ein Partner den anderen hauptsächlich in der Öffentlichkeit zur Schau stellt, um seinen eigenen Status zu erhöhen. Dabei behandelt der 'Throner' seinen Partner wie ein Accessoire oder eine Statue auf einem Podest (throne = Thron) - sichtbar, bewundert, aber emotional distanziert."
-  - question: "Wie erkenne ich, dass ich gerade getroned werde?"
-    answer: "Typische Zeichen sind: dein Partner liebt öffentliche Dates, meidet aber private Zeit, stellt dich hochrangigen Personen vor, um zu beeindrucken, und interessiert sich vor allem für deine äußere Erscheinung, deinen Beruf oder deine sozialen Kontakte statt für deine Gedanken und Gefühle."
-  - question: "Ist es dasselbe wie Pride in seinem Partner?"
-    answer: "Nein. Echte Partnerschaft beinhaltet sowohl öffentliches als auch privates Miteinander, Neugier auf deine innere Welt und emotionale Nähe. Throning dagegen ist einseitig, oberflächlich und ignoriert deine Bedürfnisse nach echter Verbindung."
-  - question: "Was sollte ich tun, wenn ich Throning erkenne?"
-    answer: "Kommuniziere klar, was du brauchst und beobachte, ob dein Partner bereit ist, sich zu ändern. Setze Grenzen. Wenn keine echte Veränderung folgt, ist es wahrscheinlich Zeit, die Beziehung zu beenden, um deine emotionale Gesundheit zu schützen."
-  - question: "Kann man Throning in sozialen Medien erkennen?"
-    answer: "Ja, deutlich. Achte darauf, ob dein Partner dich ständig postet, aber privat wenig mit dir kommuniziert, ob die Bilder inszeniert wirken und dich in der besten Pose zeigen, oder ob er dich eher nach attraktiven Bildern von dir fragt statt nach deinem Wohlbefinden."
+  - "{'question': 'Was ist Throning genau?', 'answer': "Throning ist ein Dating-Muster, bei dem ein Partner den anderen hauptsächlich in der Öffentlichkeit zur Schau stellt, um seinen eigenen Status zu erhöhen. Dabei behandelt der 'Throner' seinen Partner wie ein Accessoire oder eine Statue auf einem Podest (throne = Thron) - sichtbar, bewundert, aber emotional distanziert."}"
+  - "{'question': 'Wie erkenne ich, dass ich gerade getroned werde?', 'answer': 'Typische Zeichen sind: dein Partner liebt öffentliche Dates, meidet aber private Zeit, stellt dich hochrangigen Personen vor, um zu beeindrucken, und interessiert sich vor allem für deine äußere Erscheinung, deinen Beruf oder deine sozialen Kontakte statt für deine Gedanken und Gefühle.'}"
+  - "{'question': 'Ist es dasselbe wie Pride in seinem Partner?', 'answer': 'Nein. Echte Partnerschaft beinhaltet sowohl öffentliches als auch privates Miteinander, Neugier auf deine innere Welt und emotionale Nähe. Throning dagegen ist einseitig, oberflächlich und ignoriert deine Bedürfnisse nach echter Verbindung.'}"
+  - "{'question': 'Was sollte ich tun, wenn ich Throning erkenne?', 'answer': 'Kommuniziere klar, was du brauchst und beobachte, ob dein Partner bereit ist, sich zu ändern. Setze Grenzen. Wenn keine echte Veränderung folgt, ist es wahrscheinlich Zeit, die Beziehung zu beenden, um deine emotionale Gesundheit zu schützen.'}"
+  - "{'question': 'Kann man Throning in sozialen Medien erkennen?', 'answer': 'Ja, deutlich. Achte darauf, ob dein Partner dich ständig postet, aber privat wenig mit dir kommuniziert, ob die Bilder inszeniert wirken und dich in der besten Pose zeigen, oder ob er dich eher nach attraktiven Bildern von dir fragt statt nach deinem Wohlbefinden.'}"
 ---
 ## Throning im modernen Dating: Das toxische Muster, das du kennen musst
 

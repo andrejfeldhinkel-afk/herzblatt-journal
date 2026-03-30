@@ -14,14 +14,10 @@ draft: false
 image: "/images/photos/koerpersprache-deuten.webp"
 imageAlt: "Illustration Körpersprache deuten"
 faq:
-  - question: "Welche Körpersprache zeigt echtes Interesse?"
-    answer: "Anhaltender Augenkontakt, große Pupillen, echtes Lächeln bis zu den Augen, Nähe suchen, Spiegeln deiner Bewegungen, und aktives Zuhören mit Nicken sind starke positive Signale."
-  - question: "Was bedeuten verschränkte Arme beim Dating?"
-    answer: "Verschränkte Arme können Defensivität oder emotionale Distanzierung signalisieren, sind aber nicht immer ein negatives Zeichen — manche Menschen verschränken aus Gewohnheit. Achte auf das Gesamtbild."
-  - question: "Wie wichtig ist Augenkontakt beim Dating?"
-    answer: "Sehr wichtig! Längerer Augenkontakt signalisiert Interesse und Aufmerksamkeit. Ein langer, ruhiger Blick kann mehr aussagen als tausend Worte und setzt Oxytocin frei."
-  - question: "Wie lese ich gemischte Signale?"
-    answer: "Achte auf Muster statt einzelne Signale. Wenn die meisten Zeichen positiv sind, gibt es echtes Interesse. Wenn gemischte Signale persistent sind, vertrau deinem Instinkt und frage direkt nach Klarheit."
+  - "{'question': 'Welche Körpersprache zeigt echtes Interesse?', 'answer': 'Anhaltender Augenkontakt, große Pupillen, echtes Lächeln bis zu den Augen, Nähe suchen, Spiegeln deiner Bewegungen, und aktives Zuhören mit Nicken sind starke positive Signale.'}"
+  - "{'question': 'Was bedeuten verschränkte Arme beim Dating?', 'answer': 'Verschränkte Arme können Defensivität oder emotionale Distanzierung signalisieren, sind aber nicht immer ein negatives Zeichen — manche Menschen verschränken aus Gewohnheit. Achte auf das Gesamtbild.'}"
+  - "{'question': 'Wie wichtig ist Augenkontakt beim Dating?', 'answer': 'Sehr wichtig! Längerer Augenkontakt signalisiert Interesse und Aufmerksamkeit. Ein langer, ruhiger Blick kann mehr aussagen als tausend Worte und setzt Oxytocin frei.'}"
+  - "{'question': 'Wie lese ich gemischte Signale?', 'answer': 'Achte auf Muster statt einzelne Signale. Wenn die meisten Zeichen positiv sind, gibt es echtes Interesse. Wenn gemischte Signale persistent sind, vertrau deinem Instinkt und frage direkt nach Klarheit.'}"
 ---
 Körpersprache ist das universelle Kommunikationsmittel, das nie lügt. Während Worte gewählt oder verschleiert sein können, sagt der Körper die Wahrheit. Besonders beim Dating ist die Fähigkeit, Körpersprache zu deuten, entscheidend. Sie ermöglicht dir, echtes Interesse zu erkennen und zu vermeiden, Signale falsch zu interpretieren. In diesem Guide erfährst du die 20 wichtigsten Körpersprache-Signale, die verraten, ob jemand dich wirklich mag.
 

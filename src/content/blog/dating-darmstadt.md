@@ -14,14 +14,10 @@ draft: false
 image: "/images/photos/dating-darmstadt.webp"
 imageAlt: "Moderne Architektur und grüne Parks in Darmstadt"
 faq:
-  - question: "Welche Gegend in Darmstadt ist am besten zum Ausgehen?"
-    answer: "Die Kaiserstraße ist die Partymeile mit vielen Bars. Der Marktplatz ist traditionell und gemütlich. Die Gegend um die Technische Universität ist jung und lebendig."
-  - question: "Gibt es gute Restaurants für romantische Dates?"
-    answer: "'Osteria Pasubio' bietet italienische Küche mit Stil. 'Brennessel' ist vegetarisch und trendy. 'Kolibri' ist modern und innovativ."
-  - question: "Was kann man tagsüber unternehmen?"
-    answer: "Das Schloss Darmstadt erkunden. Den Botanischen Garten besuchen. Ein Spaziergang durch die Jugendstil-Gegend. Die Künstlerkolonie Mathildenhöhe besuchen."
-  - question: "Wie ist die junge Dating-Szene hier?"
-    answer: "Darmstadt ist eine Universitätsstadt mit vielen jungen Menschen. Die Szene ist liberal und offen. Dating-Apps sind sehr verbreitet"
+  - "{'question': 'Welche Gegend in Darmstadt ist am besten zum Ausgehen?', 'answer': 'Die Kaiserstraße ist die Partymeile mit vielen Bars. Der Marktplatz ist traditionell und gemütlich. Die Gegend um die Technische Universität ist jung und lebendig.'}"
+  - "{'question': 'Gibt es gute Restaurants für romantische Dates?', 'answer': "'Osteria Pasubio' bietet italienische Küche mit Stil. 'Brennessel' ist vegetarisch und trendy. 'Kolibri' ist modern und innovativ."}"
+  - "{'question': 'Was kann man tagsüber unternehmen?', 'answer': 'Das Schloss Darmstadt erkunden. Den Botanischen Garten besuchen. Ein Spaziergang durch die Jugendstil-Gegend. Die Künstlerkolonie Mathildenhöhe besuchen.'}"
+  - "{'question': 'Wie ist die junge Dating-Szene hier?', 'answer': 'Darmstadt ist eine Universitätsstadt mit vielen jungen Menschen. Die Szene ist liberal und offen. Dating-Apps sind sehr verbreitet'}"
 ---
 ## dating in Darmstadt: Wissenschaft trifft Romantik
 

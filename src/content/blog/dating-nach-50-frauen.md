@@ -14,12 +14,9 @@ draft: false
 image: "/images/photos/dating-nach-50-frauen.webp"
 imageAlt: "Selbstbewusste reife Frau beim Dating"
 faq:
-  - question: "Ist es zu spät mit 50+ Jahren neu anzufangen zu daten?"
-    answer: "Absolut nicht. Viele Frauen finden über 50 tiefere, erfüllendere Beziehungen. Sie haben Lebenserfahrung, wissen, was sie wollen, und sind weniger von oberflächlichen Dingen abgelenkt."
-  - question: "Wie gehe ich mit Altersdiskriminierung beim Online-Dating um?"
-    answer: "Akzeptieren Sie, dass nicht jeder sein wird, aber vergessen Sie nicht, dass es viele gibt, die reife Frauen attraktiv finden. Seien Sie wählerisch und konzentrieren Sie sich auf die, die Ihr Aussehen und Ihre Person würdigen."
-  - question: "Sollte ich mein Alter oder Aussehen in meinem Profil verbergen?"
-    answer: "Nein. Authentizität ist am wichtigsten. Ein ehrliches Profil mit aktuellen Fotos zieht Menschen an, die Sie wirklich interessieren werden."
+  - "{'question': 'Ist es zu spät mit 50+ Jahren neu anzufangen zu daten?', 'answer': 'Absolut nicht. Viele Frauen finden über 50 tiefere, erfüllendere Beziehungen. Sie haben Lebenserfahrung, wissen, was sie wollen, und sind weniger von oberflächlichen Dingen abgelenkt.'}"
+  - "{'question': 'Wie gehe ich mit Altersdiskriminierung beim Online-Dating um?', 'answer': 'Akzeptieren Sie, dass nicht jeder sein wird, aber vergessen Sie nicht, dass es viele gibt, die reife Frauen attraktiv finden. Seien Sie wählerisch und konzentrieren Sie sich auf die, die Ihr Aussehen und Ihre Person würdigen.'}"
+  - "{'question': 'Sollte ich mein Alter oder Aussehen in meinem Profil verbergen?', 'answer': 'Nein. Authentizität ist am wichtigsten. Ein ehrliches Profil mit aktuellen Fotos zieht Menschen an, die Sie wirklich interessieren werden.'}"
 ---
 ## Das Vorurteil ablegen
 

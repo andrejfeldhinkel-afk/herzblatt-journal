@@ -14,14 +14,10 @@ draft: false
 image: "/images/photos/online-dating-muedigkeit.webp"
 imageAlt: "Person müde am Handy"
 faq:
-  - question: "Warum macht Online-Dating so müde?"
-    answer: "Ständiges Swiping, unzählige oberflächliche Matches, enttäuschte Hoffnungen — es ist emotional anstrengend. Dazu kommt unbewusste Ständigkeit und Paradoxon der Auswahl."
-  - question: "Wie viel Swiping pro Tag ist normal?"
-    answer: "Es gibt keine richtige Zahl. Aber wenn es zu einem Zwang wird oder Stunden deines Tages nimmt, wird es ungesund. Setz Limits."
-  - question: "Sollte ich alle Dating-Apps löschen?"
-    answer: "Nicht unbedingt. Aber nimm eine Pause. Reduziere auf 1-2 Apps statt vielen. Nutze sie strategisch, nicht süchtig."
-  - question: "Wie finde ich die Freude am Dating zurück?"
-    answer: "Nimm eine echte Pause (1-4 Wochen). Mach andere Dinge, die dir Freude bringen. Wenn du zurückkommst, tu es bewusst und mit realistischen Erwartungen."
+  - "{'question': 'Warum macht Online-Dating so müde?', 'answer': 'Ständiges Swiping, unzählige oberflächliche Matches, enttäuschte Hoffnungen — es ist emotional anstrengend. Dazu kommt unbewusste Ständigkeit und Paradoxon der Auswahl.'}"
+  - "{'question': 'Wie viel Swiping pro Tag ist normal?', 'answer': 'Es gibt keine richtige Zahl. Aber wenn es zu einem Zwang wird oder Stunden deines Tages nimmt, wird es ungesund. Setz Limits.'}"
+  - "{'question': 'Sollte ich alle Dating-Apps löschen?', 'answer': 'Nicht unbedingt. Aber nimm eine Pause. Reduziere auf 1-2 Apps statt vielen. Nutze sie strategisch, nicht süchtig.'}"
+  - "{'question': 'Wie finde ich die Freude am Dating zurück?', 'answer': 'Nimm eine echte Pause (1-4 Wochen). Mach andere Dinge, die dir Freude bringen. Wenn du zurückkommst, tu es bewusst und mit realistischen Erwartungen.'}"
 ---
 ## Das Paradox der Auswahl
 

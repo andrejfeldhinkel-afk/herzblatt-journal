@@ -15,12 +15,9 @@ keywords:
   - "Reife Beziehung"
   - "Senior Dating"
 faq:
-  - question: "Ist es zu spät, die Liebe über 50 zu finden?"
-    answer: "Überhaupt nicht. Viele Menschen finden großartige Beziehungen über 50. Sie haben tatsächlich mehr Selbstverständnis und wissen, was Sie wollen, als Sie in früheren Jahren."
-  - question: "Sollte ich Online-Dating oder Offline-Dating versuchen?"
-    answer: "Beide haben Vorteile. Online-Dating gibt Sie Zugang zu mehr Optionen. Offline-Dating (Clubs, Veranstaltungen, etc.) erlaubt natürliche Konversationen. Versuchen Sie beide."
-  - question: "Wie behandle ich die körperlichen Veränderungen, die mit dem Alter kommen?"
-    answer: "Mit Milde und Realismus. Menschen über 50 verstehen, dass Körper mit dem Alter verändern. Seien Sie in guter Form und achte auf Ihre Gesundheit, aber auch selbst-akzeptierend."
+  - "{'question': 'Ist es zu spät, die Liebe über 50 zu finden?', 'answer': 'Überhaupt nicht. Viele Menschen finden großartige Beziehungen über 50. Sie haben tatsächlich mehr Selbstverständnis und wissen, was Sie wollen, als Sie in früheren Jahren.'}"
+  - "{'question': 'Sollte ich Online-Dating oder Offline-Dating versuchen?', 'answer': 'Beide haben Vorteile. Online-Dating gibt Sie Zugang zu mehr Optionen. Offline-Dating (Clubs, Veranstaltungen, etc.) erlaubt natürliche Konversationen. Versuchen Sie beide.'}"
+  - "{'question': 'Wie behandle ich die körperlichen Veränderungen, die mit dem Alter kommen?', 'answer': 'Mit Milde und Realismus. Menschen über 50 verstehen, dass Körper mit dem Alter verändern. Seien Sie in guter Form und achte auf Ihre Gesundheit, aber auch selbst-akzeptierend.'}"
 ---
 Dating über 50 ist völlig anders als in Ihren 20ern oder 30ern. Sie haben mehr Selbstverständnis, klarere Prioritäten und weniger Geduld für Spiele. Das sind alles großartige Dinge. Gleichzeitig bringt das Alter über 50 seine eigenen Herausforderungen. In diesem Leitfaden erfahren Sie, wie Sie authentisch und erfolgreich über 50 datierten.
 

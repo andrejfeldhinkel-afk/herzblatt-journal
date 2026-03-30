@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/love-languages-beziehung.webp"
 imageAlt: "Liebe in verschiedenen Sprachen"
 faq:
-  - question: "Können Menschen mehrere Liebessprachen haben?"
-    answer: "Ja, absolut. Die meisten Menschen haben eine primäre Liebessprache, aber auch sekundäre. Es ist möglich, dass deine primäre Sprache Zärtlichkeit ist, aber du brauchst auch Bestätigung und Zeit. Der Schlüssel ist, deine primäre Sprache zu identifizieren, damit dein Partner weiß, wie er dich am besten erreichen kann."
-  - question: "Was wenn mein Partner und ich unterschiedliche Liebessprachen sprechen?"
-    answer: "Das ist sehr häufig und führt oft zu Missverständnissen. Zum Beispiel, wenn du Worte der Bestätigung brauchst, aber dein Partner Taten zeigt (mit Gesten), könntest du dich unterbewertet fühlen, obwohl er versucht, dich zu lieben. Die Lösung ist, einander zu verstehen und sich bewusst zu bemühen, in der Sprache des anderen zu sprechen."
-  - question: "Wie finde ich meine Liebessprache heraus?"
-    answer: "Denke darüber nach, was dich am glücklichsten in einer Beziehung macht. Was vermisst du am meisten, wenn es nicht da ist? Wenn dein Partner lange arbeitet und wenig Zeit mit dir verbringt, vermisst du Qualitätszeit? Wenn er dir nie Komplimente macht, vermisst du Worte der Bestätigung? Das ist ein Hinweis auf deine Liebessprache."
+  - "{'question': 'Können Menschen mehrere Liebessprachen haben?', 'answer': 'Ja, absolut. Die meisten Menschen haben eine primäre Liebessprache, aber auch sekundäre. Es ist möglich, dass deine primäre Sprache Zärtlichkeit ist, aber du brauchst auch Bestätigung und Zeit. Der Schlüssel ist, deine primäre Sprache zu identifizieren, damit dein Partner weiß, wie er dich am besten erreichen kann.'}"
+  - "{'question': 'Was wenn mein Partner und ich unterschiedliche Liebessprachen sprechen?', 'answer': 'Das ist sehr häufig und führt oft zu Missverständnissen. Zum Beispiel, wenn du Worte der Bestätigung brauchst, aber dein Partner Taten zeigt (mit Gesten), könntest du dich unterbewertet fühlen, obwohl er versucht, dich zu lieben. Die Lösung ist, einander zu verstehen und sich bewusst zu bemühen, in der Sprache des anderen zu sprechen.'}"
+  - "{'question': 'Wie finde ich meine Liebessprache heraus?', 'answer': 'Denke darüber nach, was dich am glücklichsten in einer Beziehung macht. Was vermisst du am meisten, wenn es nicht da ist? Wenn dein Partner lange arbeitet und wenig Zeit mit dir verbringt, vermisst du Qualitätszeit? Wenn er dir nie Komplimente macht, vermisst du Worte der Bestätigung? Das ist ein Hinweis auf deine Liebessprache.'}"
 ---
 Der Psychologe Gary Chapman hat eine revolutionäre Idee eingeführt: dass Menschen Liebe in fünf verschiedenen „Sprachen" ausdrücken und verstehen. Wenn dein Partner dich in seiner Liebessprache liebt, du aber deine eigen sprichst, könnte es sein, dass ihr aneinander vorbei redet – ohne es zu merken.
 

@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/beziehung-altersunterschied.webp"
 imageAlt: "Paar mit Altersunterschied"
 faq:
-  - question: "Wie viel Altersunterschied ist zu viel?"
-    answer: "Es gibt keine universelle Regel, aber viele Psychologen sagen, dass wenn der Altersunterschied größer als 10-15 Jahre ist, entstehen Herausforderungen. Das Problem ist nicht das Alter selbst, sondern die unterschiedlichen Lebensphasen. Wenn einer in college gerade ist und der andere fertig ist, das ist schwierig."
-  - question: "Ist eine Beziehung zwischen älteren Erwachsenen und viel jüngeren Menschen immer falsch?"
-    answer: "Nicht unbedingt, aber es erfordert selbstbewusstsein. Die Gefahr mit großen Altersunterschieden ist Machtungleichgewicht. Der ältere Partner könnte unbewusst kontrollierend sein, oder der jüngere könnte abhängig werden. Es ist wichtig, bewusst zu sein von diesen Dynamiken."
-  - question: "Was kann eine Beziehung mit großem Altersunterschied zum Funktionieren bringen?"
-    answer: "Gegenseitiger Respekt, offene Kommunikation über Unterschiede, und realistische Erwartungen. Beide Partner müssen verstehen, dass sie in verschiedenen Lebensphasen sind. Und beide müssen aktiv daran arbeiten, die andere Person zu unterstützen, statt zu versuchen, sie zu ändern."
+  - "{'question': 'Wie viel Altersunterschied ist zu viel?', 'answer': 'Es gibt keine universelle Regel, aber viele Psychologen sagen, dass wenn der Altersunterschied größer als 10-15 Jahre ist, entstehen Herausforderungen. Das Problem ist nicht das Alter selbst, sondern die unterschiedlichen Lebensphasen. Wenn einer in college gerade ist und der andere fertig ist, das ist schwierig.'}"
+  - "{'question': 'Ist eine Beziehung zwischen älteren Erwachsenen und viel jüngeren Menschen immer falsch?', 'answer': 'Nicht unbedingt, aber es erfordert selbstbewusstsein. Die Gefahr mit großen Altersunterschieden ist Machtungleichgewicht. Der ältere Partner könnte unbewusst kontrollierend sein, oder der jüngere könnte abhängig werden. Es ist wichtig, bewusst zu sein von diesen Dynamiken.'}"
+  - "{'question': 'Was kann eine Beziehung mit großem Altersunterschied zum Funktionieren bringen?', 'answer': 'Gegenseitiger Respekt, offene Kommunikation über Unterschiede, und realistische Erwartungen. Beide Partner müssen verstehen, dass sie in verschiedenen Lebensphasen sind. Und beide müssen aktiv daran arbeiten, die andere Person zu unterstützen, statt zu versuchen, sie zu ändern.'}"
 ---
 Eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) mit großem Altersunterschied kann romantisch und erfüllend sein. Es könnte auch kompliziert und schwierig sein. Die Wahrheit liegt irgendwo dazwischen, und viel hängt davon ab, wie bewusst und kommunikativ beide Partner sind.
 

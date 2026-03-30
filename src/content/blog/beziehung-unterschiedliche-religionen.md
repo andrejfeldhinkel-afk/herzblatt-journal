@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/beziehung-unterschiedliche-religionen.webp"
 imageAlt: "Respektvolles Paar mit unterschiedlichem Glauben"
 faq:
-  - question: "Kann eine Beziehung zwischen Menschen verschiedener Religionen funktionieren?"
-    answer: "Ja, durchaus. Die religiöse Überzeugung ist nur ein Aspekt einer Person. Was zählt, sind gegenseitiger Respekt, Verständnis und die Bereitschaft, über Unterschiede zu sprechen."
-  - question: "Was ist mit Kindern und deren religiöser Erziehung?"
-    answer: "Das ist eine wichtige Frage, die Paare früh besprechen sollten. Einige lassen Kinder selbst wählen, andere einigen sich auf einen gemeinsamen Weg. Es erfordert Kompromiss und gegenseitiges Verständnis."
-  - question: "Wie gehe ich damit um, wenn Familie die Beziehung nicht akzeptiert?"
-    answer: "Das ist schmerzhaft, aber nicht unmöglich. Es braucht Zeit und Geduld. Zeigt, dass eure Liebe real und respektvoll ist. Manchmal ändert sich die Haltung der Familie mit der Zeit."
+  - "{'question': 'Kann eine Beziehung zwischen Menschen verschiedener Religionen funktionieren?', 'answer': 'Ja, durchaus. Die religiöse Überzeugung ist nur ein Aspekt einer Person. Was zählt, sind gegenseitiger Respekt, Verständnis und die Bereitschaft, über Unterschiede zu sprechen.'}"
+  - "{'question': 'Was ist mit Kindern und deren religiöser Erziehung?', 'answer': 'Das ist eine wichtige Frage, die Paare früh besprechen sollten. Einige lassen Kinder selbst wählen, andere einigen sich auf einen gemeinsamen Weg. Es erfordert Kompromiss und gegenseitiges Verständnis.'}"
+  - "{'question': 'Wie gehe ich damit um, wenn Familie die Beziehung nicht akzeptiert?', 'answer': 'Das ist schmerzhaft, aber nicht unmöglich. Es braucht Zeit und Geduld. Zeigt, dass eure Liebe real und respektvoll ist. Manchmal ändert sich die Haltung der Familie mit der Zeit.'}"
 ---
 ## Die Liebe überschreitet religiöse Grenzen
 

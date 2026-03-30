@@ -16,16 +16,11 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - question: "Was ist Stonewalling genau?"
-    answer: "Stonewalling ist, wenn ein Partner emotional sich zurückzieht und nicht reagiert. Er antwortet nicht, schaut nicht, redet nicht. Er wird wie eine Mauer. Es ist eine Form von Kontrolle."
-  - question: "Ist Stonewalling dasselbe wie eine Pause nehmen?"
-    answer: "Nein. Eine Pause ist, wenn man sagt: 'Ich brauche ein paar Minuten, um zu beruhigen.' Stonewalling ist, wenn man nichts sagt und einfach nicht reagiert. Keine Kommunikation über die Pause selbst."
-  - question: "Warum macht mein Partner das?"
-    answer: "Oft aus Überwältigung. Sein Nervensystem ist am Limit. Aber es kann auch ein Kontrollmechanismus sein – Schweigen als Waffe. Manchmal beides."
-  - question: "Ist Stonewalling emotional Missbrauch?"
-    answer: "In extremen, bewussten Formen ja. Wenn dein Partner bewusst Schweigen nutzt, um dich zu strafen oder zu kontrollieren, ist das emotionaler Missbrauch. Wenn es aus Überwältigung kommt, ist es ein Problem, aber kein absichtlicher Missbrauch."
-  - question: "Wie durchbreche ich das Stonewalling?"
-    answer: "Erst: Achte auf deine eigene Reaktion. Stoppe nicht, Panik zu geraten. Bleib ruhig. Dann: Bricht dein Partner sein Schweigen nicht, führt es zu echtem Gespräch: 'Das tut mir weh. Ich brauche dich, um mit mir zu reden.' Wenn es eine regelmäßiges Pattern ist, brauchst du externe Hilfe."
+  - "{'question': 'Was ist Stonewalling genau?', 'answer': 'Stonewalling ist, wenn ein Partner emotional sich zurückzieht und nicht reagiert. Er antwortet nicht, schaut nicht, redet nicht. Er wird wie eine Mauer. Es ist eine Form von Kontrolle.'}"
+  - "{'question': 'Ist Stonewalling dasselbe wie eine Pause nehmen?', 'answer': "Nein. Eine Pause ist, wenn man sagt: 'Ich brauche ein paar Minuten, um zu beruhigen.' Stonewalling ist, wenn man nichts sagt und einfach nicht reagiert. Keine Kommunikation über die Pause selbst."}"
+  - "{'question': 'Warum macht mein Partner das?', 'answer': 'Oft aus Überwältigung. Sein Nervensystem ist am Limit. Aber es kann auch ein Kontrollmechanismus sein – Schweigen als Waffe. Manchmal beides.'}"
+  - "{'question': 'Ist Stonewalling emotional Missbrauch?', 'answer': 'In extremen, bewussten Formen ja. Wenn dein Partner bewusst Schweigen nutzt, um dich zu strafen oder zu kontrollieren, ist das emotionaler Missbrauch. Wenn es aus Überwältigung kommt, ist es ein Problem, aber kein absichtlicher Missbrauch.'}"
+  - "{'question': 'Wie durchbreche ich das Stonewalling?', 'answer': "Erst: Achte auf deine eigene Reaktion. Stoppe nicht, Panik zu geraten. Bleib ruhig. Dann: Bricht dein Partner sein Schweigen nicht, führt es zu echtem Gespräch: 'Das tut mir weh. Ich brauche dich, um mit mir zu reden.' Wenn es eine regelmäßiges Pattern ist, brauchst du externe Hilfe."}"
 ---
 
 Du merkst, dass er dir nicht antwortet. Zuerst denkst du, er hat dich nicht gehört. Du wiederholst die Frage. Keine Antwort. Er schaut dich nicht an. Er atmet sogar anders – flacher, kontrollierter.

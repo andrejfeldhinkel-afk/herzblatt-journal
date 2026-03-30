@@ -17,16 +17,11 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Wie lange sollte so ein Check-in dauern?"
-    answer: "Optimal 20-40 Minuten. Nicht kürzer, weil es oberflächlich wird. Nicht länger, weil es anstrengend wird. Ein wöchentlicher Rhythmus funktioniert besser als täglich oder monatlich."
-  - question: "Was mache ich, wenn mein Partner nicht gesprächig ist?"
-    answer: "Frag konkrete Fragen statt 'Wie war deine Woche?' Frag: 'Was hat dir Energie gegeben diese Woche?' oder 'Wann hast du dich mir fern gefühlt?' Konkrete Fragen bekommen konkrete Antworten."
-  - question: "Sollen wir Probleme lösen im Check-in oder nur reden?"
-    answer: "Beide. Aber struktur: Erst reden und verstehen (40%), dann konkret arbeiten an Lösungen (60%). Wenn ihr sofort in Problem-Lösung geht, wird es zu kognitiv. Erst verbinden, dann planen."
-  - question: "Was mache ich, wenn im Check-in Konflikte kommen?"
-    answer: "Das ist normal und sogar gut. Konflikte im Check-in sind kontrolled. Sag: 'Das ist wichtig. Lass mich verstehen, wo du herkommst' statt sofort defensiv zu werden. Das ist oft die beste Zeit, tiefe Konflikte wirklich zu klären."
-  - question: "Funktioniert ein Check-in auch für Langzeit-Paare?"
-    answer: "Absolut. Besonders für Langzeit-Paare. Nach Jahren zusammen werden Check-ins zur einzigen strukturierten Zeit, in der ihr wirklich sprecht. Das Gefühl von Routine ist oft genau das, was Check-ins durchbrechen."
+  - "{'question': 'Wie lange sollte so ein Check-in dauern?', 'answer': 'Optimal 20-40 Minuten. Nicht kürzer, weil es oberflächlich wird. Nicht länger, weil es anstrengend wird. Ein wöchentlicher Rhythmus funktioniert besser als täglich oder monatlich.'}"
+  - "{'question': 'Was mache ich, wenn mein Partner nicht gesprächig ist?', 'answer': "Frag konkrete Fragen statt 'Wie war deine Woche?' Frag: 'Was hat dir Energie gegeben diese Woche?' oder 'Wann hast du dich mir fern gefühlt?' Konkrete Fragen bekommen konkrete Antworten."}"
+  - "{'question': 'Sollen wir Probleme lösen im Check-in oder nur reden?', 'answer': 'Beide. Aber struktur: Erst reden und verstehen (40%), dann konkret arbeiten an Lösungen (60%). Wenn ihr sofort in Problem-Lösung geht, wird es zu kognitiv. Erst verbinden, dann planen.'}"
+  - "{'question': 'Was mache ich, wenn im Check-in Konflikte kommen?', 'answer': "Das ist normal und sogar gut. Konflikte im Check-in sind kontrolled. Sag: 'Das ist wichtig. Lass mich verstehen, wo du herkommst' statt sofort defensiv zu werden. Das ist oft die beste Zeit, tiefe Konflikte wirklich zu klären."}"
+  - "{'question': 'Funktioniert ein Check-in auch für Langzeit-Paare?', 'answer': 'Absolut. Besonders für Langzeit-Paare. Nach Jahren zusammen werden Check-ins zur einzigen strukturierten Zeit, in der ihr wirklich sprecht. Das Gefühl von Routine ist oft genau das, was Check-ins durchbrechen.'}"
 ---
 
 ## Beziehungs-Check-in: Das wöchentliche Ritual das alles ändert

@@ -18,14 +18,10 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Warum werde ich ständig unmatched?"
-    answer: "Die häufigsten Gründe: dein Opener war zu generisch, die Person hat sich für jemand anderen entschieden, sie hat ihr Profil gelöscht oder ihr Account wurde gesperrt. In den meisten Fällen hat es nichts mit dir persönlich zu tun."
-  - question: "Ist Unmatching das gleiche wie Ghosting?"
-    answer: "Nicht ganz. Ghosting ist wenn jemand mitten in einer Unterhaltung aufhört zu antworten. Unmatching ist radikaler — die Person löscht die Verbindung komplett. Beide sind schmerzhaft, aber Unmatching ist zumindest eine klare Aussage."
-  - question: "Soll ich jemanden anschreiben der mich unmatched hat?"
-    answer: "Nein. Wenn jemand dich unmatched hat, hat die Person eine Entscheidung getroffen. Diese Grenze zu respektieren ist wichtig — auch wenn du nicht verstehst warum. Auf anderen Kanälen nachzuhaken wirkt stalkerisch."
-  - question: "Wie verhindere ich dass ich unmatched werde?"
-    answer: "Schreibe zeitnah nach dem Match, stell persönliche Fragen statt generischer, und schlag nach ein paar Tagen ein Treffen vor. Je länger ein Match ohne echtes Gespräch bleibt, desto höher die Chance des Unmatchens."
+  - "{'question': 'Warum werde ich ständig unmatched?', 'answer': 'Die häufigsten Gründe: dein Opener war zu generisch, die Person hat sich für jemand anderen entschieden, sie hat ihr Profil gelöscht oder ihr Account wurde gesperrt. In den meisten Fällen hat es nichts mit dir persönlich zu tun.'}"
+  - "{'question': 'Ist Unmatching das gleiche wie Ghosting?', 'answer': 'Nicht ganz. Ghosting ist wenn jemand mitten in einer Unterhaltung aufhört zu antworten. Unmatching ist radikaler — die Person löscht die Verbindung komplett. Beide sind schmerzhaft, aber Unmatching ist zumindest eine klare Aussage.'}"
+  - "{'question': 'Soll ich jemanden anschreiben der mich unmatched hat?', 'answer': 'Nein. Wenn jemand dich unmatched hat, hat die Person eine Entscheidung getroffen. Diese Grenze zu respektieren ist wichtig — auch wenn du nicht verstehst warum. Auf anderen Kanälen nachzuhaken wirkt stalkerisch.'}"
+  - "{'question': 'Wie verhindere ich dass ich unmatched werde?', 'answer': 'Schreibe zeitnah nach dem Match, stell persönliche Fragen statt generischer, und schlag nach ein paar Tagen ein Treffen vor. Je länger ein Match ohne echtes Gespräch bleibt, desto höher die Chance des Unmatchens.'}"
 ---
 Dieser Moment ist jedem bekannt, der länger als zwei Wochen auf Dating-Apps unterwegs ist: Du öffnest deine Nachrichtenbox und der Chat mit dieser Person ist plötzlich weg. Vollständig gelöscht. Die Unterhaltung, in die du Hoffnung und vielleicht auch ein bisschen emotionale Energie investiert hast, existiert nicht mehr. Du wurdest **unmatched**. Die unmittelbare Reaktion ist fast immer die gleiche: ein kleiner Stich im Bauch, gefolgt von Fragen, die du dir selbst stellst. Was habe ich falsch gesagt? War ich nicht interessant genug? Oder — und das ist oft die schmerzhafteste Frage — bin ich einfach nicht gut genug?
 

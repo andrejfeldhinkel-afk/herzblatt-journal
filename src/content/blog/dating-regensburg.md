@@ -14,12 +14,9 @@ draft: false
 image: "/images/photos/dating-regensburg.webp"
 imageAlt: "Regensburg"
 faq:
-  - question: "Wo lernt man in Regensburg Singles kennen?"
-    answer: "In Regensburg triffst du Singles vor allem in der malerischen Altstadt, an den Donau-Ufern, in gemütlichen Biergärten und Weinstuben. Die Gastronomieszene ist sehr lebendig, und besonders an den Wochenenden sind Bars und Restaurants voll mit interessanten Menschen."
-  - question: "Was sind die besten Date-Ideen in Regensburg?"
-    answer: "Perfekte Dates sind an der Steinerne Brücke, bei einer Donau-Spaziergang, in der UNESCO-Altstadt oder bei einer Bootsfahrt. Auch die Wurstküche für authentische kulinarische Erlebnisse oder die vielen historischen Kirchen und Museen sind großartig für gemeinsame Entdeckungen."
-  - question: "Gibt es eine gute Single-Szene in Regensburg?"
-    answer: "Absolut! Regensburg ist eine geschäftige Stadt mit etwa 150.000 Einwohnern und hat eine sehr lebendig Single-Szene. Zwischen Studierenden, Berufstätigen und Touristen gibt es ständig neue Menschen kennenzulernen. Die Stadt ist jung, weltoffen und Dating-freundlich."
+  - "{'question': 'Wo lernt man in Regensburg Singles kennen?', 'answer': 'In Regensburg triffst du Singles vor allem in der malerischen Altstadt, an den Donau-Ufern, in gemütlichen Biergärten und Weinstuben. Die Gastronomieszene ist sehr lebendig, und besonders an den Wochenenden sind Bars und Restaurants voll mit interessanten Menschen.'}"
+  - "{'question': 'Was sind die besten Date-Ideen in Regensburg?', 'answer': 'Perfekte Dates sind an der Steinerne Brücke, bei einer Donau-Spaziergang, in der UNESCO-Altstadt oder bei einer Bootsfahrt. Auch die Wurstküche für authentische kulinarische Erlebnisse oder die vielen historischen Kirchen und Museen sind großartig für gemeinsame Entdeckungen.'}"
+  - "{'question': 'Gibt es eine gute Single-Szene in Regensburg?', 'answer': 'Absolut! Regensburg ist eine geschäftige Stadt mit etwa 150.000 Einwohnern und hat eine sehr lebendig Single-Szene. Zwischen Studierenden, Berufstätigen und Touristen gibt es ständig neue Menschen kennenzulernen. Die Stadt ist jung, weltoffen und Dating-freundlich.'}"
 ---
 
 Du kennst das: regensburg. Dann geht es dir wie vielen anderen — und [dating](/blog/anzeichen-er-steht-auf-dich/) ist dabei ein zentraler Faktor, den du nicht ignorieren solltest. In diesem Artikel zeigen wir dir, wie du damit umgehen kannst.

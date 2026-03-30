@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/dating-mit-sozialer-angst.webp"
 imageAlt: "Dating mit sozialer Angststörung"
 faq:
-  - question: "Muss ich meine soziale Angst vollständig überwinden, um zu daten?"
-    answer: "Nein. Vollständige Überwindung ist unrealistisch – viele Menschen mit sozialer Angststörung werden es immer bis zu einem gewissen Grad haben. Aber du kannst lernen, damit umzugehen und trotzdem Beziehungen zu haben. Es ist eine progressive Exposition mit Selbstmitgefühl."
-  - question: "Sind Online-Dating-Apps besser für Menschen mit sozialer Angst?"
-    answer: "Ja und nein. Online-Dating ermöglicht dir, in deinem eigenen Tempo zu kommunizieren, was leichter sein kann. Aber irgendwann musst du dich persönlich treffen, und das kann angstauslösend sein. Die beste Herangehensweise ist eine Kombination – Online-Chat zum Komfortspalten, dann persönliche Dates."
-  - question: "Soll ich meinem Date über meine soziale Angststörung erzählen?"
-    answer: "Du musst nicht alles beim ersten Date offenbaren. Aber wenn du merken, dass die Beziehung seriös wird, solltest du transparent sein. Ein guter Partner wird dich verstehen und dich unterstützen. Wenn er/sie nicht verständnisvoll ist, ist das wahrscheinlich ein größeres Zeichen der Inkompatibilität."
+  - "{'question': 'Muss ich meine soziale Angst vollständig überwinden, um zu daten?', 'answer': 'Nein. Vollständige Überwindung ist unrealistisch – viele Menschen mit sozialer Angststörung werden es immer bis zu einem gewissen Grad haben. Aber du kannst lernen, damit umzugehen und trotzdem Beziehungen zu haben. Es ist eine progressive Exposition mit Selbstmitgefühl.'}"
+  - "{'question': 'Sind Online-Dating-Apps besser für Menschen mit sozialer Angst?', 'answer': 'Ja und nein. Online-Dating ermöglicht dir, in deinem eigenen Tempo zu kommunizieren, was leichter sein kann. Aber irgendwann musst du dich persönlich treffen, und das kann angstauslösend sein. Die beste Herangehensweise ist eine Kombination – Online-Chat zum Komfortspalten, dann persönliche Dates.'}"
+  - "{'question': 'Soll ich meinem Date über meine soziale Angststörung erzählen?', 'answer': 'Du musst nicht alles beim ersten Date offenbaren. Aber wenn du merken, dass die Beziehung seriös wird, solltest du transparent sein. Ein guter Partner wird dich verstehen und dich unterstützen. Wenn er/sie nicht verständnisvoll ist, ist das wahrscheinlich ein größeres Zeichen der Inkompatibilität.'}"
 ---
 [dating](/blog/anzeichen-er-steht-auf-dich/) mit sozialer Angststörung fühlt sich manchmal wie unmöglich an. Die Gedanke, einen Fremden zu treffen, mit ihnen zu sprechen, die richtige Sache zu sagen – alles wird durch eine Lense der Angst gefiltert. Aber ich möchte dir sagen, dass es möglich ist. Tausende von Menschen mit sozialer Angststörung haben erfüllende Beziehungen.
 

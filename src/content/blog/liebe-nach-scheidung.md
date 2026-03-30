@@ -15,16 +15,11 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - question: "Wie lange sollte ich warten, bevor ich wieder date nach einer Scheidung?"
-    answer: "Es gibt keine magische Zahl. Manche brauchen 6 Monate, manche ein Jahr, manche drei. Die Frage ist: Bist du emotional bereit? Kannst du den anderen sehen oder projizierst du deinen Ex auf ihn?"
-  - question: "Wie gehe ich damit um, wenn mein Kind meinen neuen Partner nicht mag?"
-    answer: "Das ist eine echte Herausforderung. Wichtig: Gib dem Kind Zeit. Zwing die Beziehung nicht. Aber lass das Kind auch nicht komplett entscheiden. Das ist ein Balance-Akt."
-  - question: "Sollte ich auf erstem Date über meine Scheidung sprechen?"
-    answer: "Ja, aber nicht obsessiv. Eine kurze Erwähnung ist okay – das zeigt Authentizität. Aber wenn du den ganzen Abend über deinen Ex sprichst, ist das ein Zeichen, dass du nicht bereit bist."
-  - question: "Was ist normal nach einer Scheidung zu fühlen?"
-    answer: "Alles ist normal: Trauer, Wut, Angst, Hoffnung, Erleichterung. Manche Tage magst du, manche Tage hasst du alles. Das ist Heilung – das ist chaotisch."
-  - question: "Wie baue ich Vertrauen wieder auf, wenn ich verletzt wurde?"
-    answer: "Langsam. Sehr langsam. Du musst einen neuen Partner auf kleine Dinge testen – hält er Versprechen? Ist er konsistent? Beweise, nicht Worte."
+  - "{'question': 'Wie lange sollte ich warten, bevor ich wieder date nach einer Scheidung?', 'answer': 'Es gibt keine magische Zahl. Manche brauchen 6 Monate, manche ein Jahr, manche drei. Die Frage ist: Bist du emotional bereit? Kannst du den anderen sehen oder projizierst du deinen Ex auf ihn?'}"
+  - "{'question': 'Wie gehe ich damit um, wenn mein Kind meinen neuen Partner nicht mag?', 'answer': 'Das ist eine echte Herausforderung. Wichtig: Gib dem Kind Zeit. Zwing die Beziehung nicht. Aber lass das Kind auch nicht komplett entscheiden. Das ist ein Balance-Akt.'}"
+  - "{'question': 'Sollte ich auf erstem Date über meine Scheidung sprechen?', 'answer': 'Ja, aber nicht obsessiv. Eine kurze Erwähnung ist okay – das zeigt Authentizität. Aber wenn du den ganzen Abend über deinen Ex sprichst, ist das ein Zeichen, dass du nicht bereit bist.'}"
+  - "{'question': 'Was ist normal nach einer Scheidung zu fühlen?', 'answer': 'Alles ist normal: Trauer, Wut, Angst, Hoffnung, Erleichterung. Manche Tage magst du, manche Tage hasst du alles. Das ist Heilung – das ist chaotisch.'}"
+  - "{'question': 'Wie baue ich Vertrauen wieder auf, wenn ich verletzt wurde?', 'answer': 'Langsam. Sehr langsam. Du musst einen neuen Partner auf kleine Dinge testen – hält er Versprechen? Ist er konsistent? Beweise, nicht Worte.'}"
 ---
 ## Der Schmerz nach einer Scheidung ist nicht das Ende
 

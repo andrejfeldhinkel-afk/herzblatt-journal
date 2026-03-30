@@ -1,18 +1,20 @@
 ---
-title: "Unerfüllter Kinderwunsch: Wenn der Traum vom Baby die"
-author: "sarah-kellner"
+title: 'Unerfüllter Kinderwunsch: Wenn der Traum vom Baby die'
+author: sarah-kellner
 draft: false
-image: "/images/blog/unerfuellter-kinderwunsch-beziehung-guide.webp"
-imageAlt: "Ein Paar sitzt sich gegenüber und hält Hände, während es sich über emotionale Themen austauscht"
+image: /images/blog/unerfuellter-kinderwunsch-beziehung-guide.webp
+imageAlt: Ein Paar sitzt sich gegenüber und hält Hände, während es sich über emotionale
+  Themen austauscht
 tags:
-  - "Beziehung"
-  - "Gesundheit"
-  - "Ratgeber"
+- Beziehung
+- Gesundheit
+- Ratgeber
 keywords:
-  - "unerfüllter kinderwunsch beziehung"
-  - "kinderwunsch stress partnerschaft"
-  - "fruchtbarkeit beziehung"
-description: "Ein unerfüllter Kinderwunsch kann eine Beziehung stark belasten. Lerne, wie du und dein Partner damit umgehen, kommunizieren und wieder zusammenfinden könnt."
+- unerfüllter kinderwunsch beziehung
+- kinderwunsch stress partnerschaft
+- fruchtbarkeit beziehung
+description: Ein unerfüllter Kinderwunsch kann eine Beziehung stark belasten. Lerne,
+  wie du und dein Partner damit umgehen, kommunizieren und wieder zusammenfinden könnt.
 ---
 ## Unerfüllter Kinderwunsch: Wenn der Traum vom Baby die beziehung belastet
 

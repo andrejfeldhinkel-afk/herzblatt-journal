@@ -16,14 +16,10 @@ draft: false
 image: "/images/photos/richtig-schluss-machen.webp"
 imageAlt: "Nachdenkliche Person die eine schwere Entscheidung trifft"
 faq:
-  - question: "Wie macht man am besten Schluss?"
-    answer: "Immer persönlich, an einem ruhigen Ort, mit klaren und ehrlichen Worten. Vermeide Schuldzuweisungen, erkläre deine Gefühle in Ich-Botschaften und gib der anderen Person Raum, zu reagieren."
-  - question: "Ist es okay, per Nachricht Schluss zu machen?"
-    answer: "In den meisten Fällen nein — es zeigt mangelnden Respekt. Ausnahmen sind toxische oder gefährliche Beziehungen, Fernbeziehungen oder sehr kurze Dating-Phasen."
-  - question: "Was sage ich beim Trennungsgespräch?"
-    answer: "Sei ehrlich, aber einfühlsam. Erkläre, warum du dich trennst, ohne den anderen zu erniedrigen. Verwende Sätze wie 'Ich fühle, dass...' statt 'Du hast immer...'."
-  - question: "Wie gehe ich mit Schuldgefühlen nach der Trennung um?"
-    answer: "Schuldgefühle sind normal und zeigen, dass du empathisch bist. Erinnere dich daran, dass eine unehrliche Beziehung fortzuführen beiden mehr schadet als eine respektvolle Trennung."
+  - "{'question': 'Wie macht man am besten Schluss?', 'answer': 'Immer persönlich, an einem ruhigen Ort, mit klaren und ehrlichen Worten. Vermeide Schuldzuweisungen, erkläre deine Gefühle in Ich-Botschaften und gib der anderen Person Raum, zu reagieren.'}"
+  - "{'question': 'Ist es okay, per Nachricht Schluss zu machen?', 'answer': 'In den meisten Fällen nein — es zeigt mangelnden Respekt. Ausnahmen sind toxische oder gefährliche Beziehungen, Fernbeziehungen oder sehr kurze Dating-Phasen.'}"
+  - "{'question': 'Was sage ich beim Trennungsgespräch?', 'answer': "Sei ehrlich, aber einfühlsam. Erkläre, warum du dich trennst, ohne den anderen zu erniedrigen. Verwende Sätze wie 'Ich fühle, dass...' statt 'Du hast immer...'."}"
+  - "{'question': 'Wie gehe ich mit Schuldgefühlen nach der Trennung um?', 'answer': 'Schuldgefühle sind normal und zeigen, dass du empathisch bist. Erinnere dich daran, dass eine unehrliche Beziehung fortzuführen beiden mehr schadet als eine respektvolle Trennung.'}"
 ---
 Eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) zu beenden ist eine der schwierigsten Entscheidungen, die du treffen kannst. Egal, ob du sich auseinandergewachsen habt, die Chemie verloren gegangen ist oder grundlegende Unterschiede unüberwindbar geworden sind — der Gedanke, dein Gegenüber zu verletzen, kann dich lahmlegen. Doch genau hier liegt der Knackpunkt: Eine ehrliche, respektvolle Trennung ist der liebevollste Weg für beide Seiten. Dieser Leitfaden zeigt dir, wie du mit Würde Schluss machst.
 

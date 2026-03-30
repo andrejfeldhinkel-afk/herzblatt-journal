@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/beziehung-und-smartphone.webp"
 imageAlt: "Paar mit Smartphones anstatt miteinander zu reden"
 faq:
-  - question: "Ist es normal, dass mein Partner auf sein Handy schaut, während wir zusammen sind?"
-    answer: "Manchmal ist es normal. Wenn es das Muster ist – dein Partner schaut fast immer auf sein Handy statt mit dir zu sprechen – dann ist es ein Problem, das adressiert werden muss."
-  - question: "Sollte ich mein Handy in der Schlafzimmer verbieten?"
-    answer: "Das ist eine gute Idee für viele Paare. Handys vor dem Schlafengehen reduzieren Ablenkung und können sogar die Schlafqualität verbessern. Teile diese Regel mit deinem Partner."
-  - question: "Wie kann ich meinem Partner sagen, dass er zu viel auf seinem Handy ist?"
-    answer: "Nicht anklagend. Verwende 'Ich'-Aussagen statt. 'Ich fühle mich vernachlässigt, wenn du auf deinem Handy bist' ist besser als 'Du bist immer auf deinem Handy.'"
+  - "{'question': 'Ist es normal, dass mein Partner auf sein Handy schaut, während wir zusammen sind?', 'answer': 'Manchmal ist es normal. Wenn es das Muster ist – dein Partner schaut fast immer auf sein Handy statt mit dir zu sprechen – dann ist es ein Problem, das adressiert werden muss.'}"
+  - "{'question': 'Sollte ich mein Handy in der Schlafzimmer verbieten?', 'answer': 'Das ist eine gute Idee für viele Paare. Handys vor dem Schlafengehen reduzieren Ablenkung und können sogar die Schlafqualität verbessern. Teile diese Regel mit deinem Partner.'}"
+  - "{'question': 'Wie kann ich meinem Partner sagen, dass er zu viel auf seinem Handy ist?', 'answer': "Nicht anklagend. Verwende 'Ich'-Aussagen statt. 'Ich fühle mich vernachlässigt, wenn du auf deinem Handy bist' ist besser als 'Du bist immer auf deinem Handy.'"}"
 ---
 ## Die stille Epidemie
 

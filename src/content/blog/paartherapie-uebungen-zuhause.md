@@ -1,18 +1,19 @@
 ---
-title: "Paartherapie-Übungen für zuhause: 15 Methoden die eure"
-author: "sarah-kellner"
+title: 'Paartherapie-Übungen für zuhause: 15 Methoden die eure'
+author: sarah-kellner
 draft: false
-image: "/images/blog/paartherapie-uebungen-zuhause.webp"
-imageAlt: "Ein Paar sitzt sich gegenüber in einer häuslichen Umgebung und praktiziert Paartherapie-Übungen miteinander"
+image: /images/blog/paartherapie-uebungen-zuhause.webp
+imageAlt: Ein Paar sitzt sich gegenüber in einer häuslichen Umgebung und praktiziert
+  Paartherapie-Übungen miteinander
 tags:
-  - "Beziehung"
-  - "Kommunikation"
-  - "Ratgeber"
+- Beziehung
+- Kommunikation
+- Ratgeber
 keywords:
-  - "paartherapie übungen"
-  - "beziehung stärken übungen"
-  - "kommunikationsübungen paar"
-  - "gottman übungen"
+- paartherapie übungen
+- beziehung stärken übungen
+- kommunikationsübungen paar
+- gottman übungen
 ---
 ## Paartherapie-Übungen für zuhause: 15 Methoden die eure beziehung stärken
 

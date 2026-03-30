@@ -16,16 +16,11 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Wann ist Sex nach einer Geburt medizinisch unbedenklich?"
-    answer: "Das Faustreden: 6 Wochen für vaginale Geburten, bis zu 8 Wochen bei Kaiserschnitt. Aber das ist nur eine Richtlinie. Es kommt auf Wundheilung an. Fragt bei der Nachuntersuchung euren Frauenarzt, nicht bei der Mutter-Oma."
-  - question: "Warum habe ich nach der Geburt keine Lust auf Sex?"
-    answer: "Das ist völlig normal. Der Körper ist erschöpft, die Hormone sind im Chaos, Angst vor Schmerzen ist oft präsent, und psychisch ist die Mutter in einer komplett neuen Rolle. Das braucht Zeit – nicht Druck."
-  - question: "Kann ich während des Stillens Sex haben?"
-    answer: "Ja, aber manchmal ist Brustentzündung ein Risiko. Genießt alternative Positionen, seid vorsichtig mit den Brüsten, und – wichtig – verhütet! Nach Geburt kann man schneller erneut schwanger werden als man denkt."
-  - question: "Was mache ich, wenn mein Partner nicht verstehen kann, dass ich keine Lust habe?"
-    answer: "Das ist wichtig zu besprechen. Erkläre, dass das ein biologischer Prozess ist, keine Ablehnung von ihm. Vielleicht liest er selbst einen Artikel darüber. Es geht darum, sich als Team zu verstehen, nicht als Gegner."
-  - question: "Wie kriege ich meine Libido zurück?"
-    answer: "Geduld, körperliche Erholung und langsame Rückkehr zur Sexualität. Fangt mit Nähe an – kuscheln, massieren – ohne Erwartung, dass es zu Sex führt. Der Körper und die Libido kommen zurück – aber das braucht Monate, nicht Wochen."
+  - "{'question': 'Wann ist Sex nach einer Geburt medizinisch unbedenklich?', 'answer': 'Das Faustreden: 6 Wochen für vaginale Geburten, bis zu 8 Wochen bei Kaiserschnitt. Aber das ist nur eine Richtlinie. Es kommt auf Wundheilung an. Fragt bei der Nachuntersuchung euren Frauenarzt, nicht bei der Mutter-Oma.'}"
+  - "{'question': 'Warum habe ich nach der Geburt keine Lust auf Sex?', 'answer': 'Das ist völlig normal. Der Körper ist erschöpft, die Hormone sind im Chaos, Angst vor Schmerzen ist oft präsent, und psychisch ist die Mutter in einer komplett neuen Rolle. Das braucht Zeit – nicht Druck.'}"
+  - "{'question': 'Kann ich während des Stillens Sex haben?', 'answer': 'Ja, aber manchmal ist Brustentzündung ein Risiko. Genießt alternative Positionen, seid vorsichtig mit den Brüsten, und – wichtig – verhütet! Nach Geburt kann man schneller erneut schwanger werden als man denkt.'}"
+  - "{'question': 'Was mache ich, wenn mein Partner nicht verstehen kann, dass ich keine Lust habe?', 'answer': 'Das ist wichtig zu besprechen. Erkläre, dass das ein biologischer Prozess ist, keine Ablehnung von ihm. Vielleicht liest er selbst einen Artikel darüber. Es geht darum, sich als Team zu verstehen, nicht als Gegner.'}"
+  - "{'question': 'Wie kriege ich meine Libido zurück?', 'answer': 'Geduld, körperliche Erholung und langsame Rückkehr zur Sexualität. Fangt mit Nähe an – kuscheln, massieren – ohne Erwartung, dass es zu Sex führt. Der Körper und die Libido kommen zurück – aber das braucht Monate, nicht Wochen.'}"
 ---
 
 Die erste Nacht nach der Heimkehr mit dem Neugeborenen: Du bist erschöpft, verletzt, hormonell durcheinander. Dein Partner sitzt neben dir und denkt vielleicht schon: Wann geht es denn wieder „normal" los?

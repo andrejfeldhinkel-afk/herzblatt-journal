@@ -18,14 +18,10 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Ist es normal unterschiedliche Libido zu haben?"
-    answer: "Absolut normal. Es ist sogar die Regel, nicht die Ausnahme. Studien zeigen dass in über 80% aller Langzeitbeziehungen die Partner unterschiedliche sexuelle Bedürfnisse haben. Das allein ist kein Problem — wie ihr damit umgeht, macht den Unterschied."
-  - question: "Was tun wenn mein Partner nie Lust hat?"
-    answer: "Zuerst: Druck rausnehmen. Anhaltende sexuelle Unlust kann medizinische Ursachen haben (Hormone, Medikamente, Stress) oder emotionale (Beziehungsprobleme, Trauma). Ein offenes, vorwurfsfreies Gespräch ist der erste Schritt."
-  - question: "Kann man eine Beziehung ohne Sex führen?"
-    answer: "Wenn beide Partner damit zufrieden sind, ja. Es gibt glückliche asexuelle Beziehungen. Problematisch wird es nur, wenn ein Partner leidet. Dann braucht es einen ehrlichen Dialog über Kompromisse und Alternativen."
-  - question: "Hilft Paartherapie bei sexuellen Problemen?"
-    answer: "Sehr oft, ja. Eine Sexual- oder Paartherapie kann helfen, die Ursachen zu verstehen und neue Wege der Intimität zu entdecken. Viele Paare berichten von deutlicher Verbesserung nach nur wenigen Sitzungen."
+  - "{'question': 'Ist es normal unterschiedliche Libido zu haben?', 'answer': 'Absolut normal. Es ist sogar die Regel, nicht die Ausnahme. Studien zeigen dass in über 80% aller Langzeitbeziehungen die Partner unterschiedliche sexuelle Bedürfnisse haben. Das allein ist kein Problem — wie ihr damit umgeht, macht den Unterschied.'}"
+  - "{'question': 'Was tun wenn mein Partner nie Lust hat?', 'answer': 'Zuerst: Druck rausnehmen. Anhaltende sexuelle Unlust kann medizinische Ursachen haben (Hormone, Medikamente, Stress) oder emotionale (Beziehungsprobleme, Trauma). Ein offenes, vorwurfsfreies Gespräch ist der erste Schritt.'}"
+  - "{'question': 'Kann man eine Beziehung ohne Sex führen?', 'answer': 'Wenn beide Partner damit zufrieden sind, ja. Es gibt glückliche asexuelle Beziehungen. Problematisch wird es nur, wenn ein Partner leidet. Dann braucht es einen ehrlichen Dialog über Kompromisse und Alternativen.'}"
+  - "{'question': 'Hilft Paartherapie bei sexuellen Problemen?', 'answer': 'Sehr oft, ja. Eine Sexual- oder Paartherapie kann helfen, die Ursachen zu verstehen und neue Wege der Intimität zu entdecken. Viele Paare berichten von deutlicher Verbesserung nach nur wenigen Sitzungen.'}"
 ---
 Es ist ein stilles Leiden in vielen Beziehungen, ein unausgesprochener Konflikt, der sich über Monate und Jahre aufbaut: Einer will Sex. Der andere will nicht — oder will deutlich weniger. Vielleicht sogar viel weniger. Der Partner mit höherer Libido fühlt sich abgelehnt, ungeliebt, nicht gewolltt. Der Partner mit niedriger Libido fühlt sich unter konstanten Druck, nicht verstanden, nicht respektiert. Beide fühlen sich missverstanden. Und keiner spricht wirklich, echt, darüber.
 

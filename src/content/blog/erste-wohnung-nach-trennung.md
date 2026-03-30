@@ -16,16 +16,11 @@ draft: false
 featured: false
 author: "laura-weber"
 faq:
-  - question: "Wie finde ich die richtige Wohnung nach einer Trennung?"
-    answer: "Wähle einen Ort, der sich NICHT wie der alte Ort anfühlt. Anderes Viertel, anderer Stil, vielleicht sogar andere Stadt. Ein neuer physischer Raum hilft psychologisch bei Heilung und Neuanfang."
-  - question: "Sollte ich viele alte Sachen mitnehmen?"
-    answer: "Nein – wenn möglich nur die notwendigsten Basics. Alte Möbel, alte Dekoration – alles erinnert dich an die Vergangenheit. Kaufe dir neue Dinge, die deine neue Phase repräsentieren."
-  - question: "Was ist die beste Zeit, die erste Wohnung zu nehmen?"
-    answer: "Zu früh: Dein Gehirn ist im Schock, Entscheidungen sind schlecht. Zu spät: Du hackst in der alten Umgebung fest. Ideal: 1-2 Monate nach Trennung, wenn der erste Schmerz vorbei ist, aber du noch Energie hast."
-  - question: "Wie überwinde ich die Einsamkeit in der neuen Wohnung?"
-    answer: "Die erste Nacht ist schwer – das ist normal. Aber nach einer Woche wirst du merken: Das ist *dein* Raum. Deine Regeln. Das wird bald Trost statt Einsamkeit sein."
-  - question: "Budgetierung: Wie viel sollte ich für die Wohnung ausgeben?"
-    answer: "Nach Trennung gibt es finanzielle Anpassungen. Budget realistisch – nicht weniger als 30% des Einkommens, aber auch nicht verschwenderisch. Es muss haltbar sein – diese Wohnung ist dein Zuhause für eine Weile."
+  - "{'question': 'Wie finde ich die richtige Wohnung nach einer Trennung?', 'answer': 'Wähle einen Ort, der sich NICHT wie der alte Ort anfühlt. Anderes Viertel, anderer Stil, vielleicht sogar andere Stadt. Ein neuer physischer Raum hilft psychologisch bei Heilung und Neuanfang.'}"
+  - "{'question': 'Sollte ich viele alte Sachen mitnehmen?', 'answer': 'Nein – wenn möglich nur die notwendigsten Basics. Alte Möbel, alte Dekoration – alles erinnert dich an die Vergangenheit. Kaufe dir neue Dinge, die deine neue Phase repräsentieren.'}"
+  - "{'question': 'Was ist die beste Zeit, die erste Wohnung zu nehmen?', 'answer': 'Zu früh: Dein Gehirn ist im Schock, Entscheidungen sind schlecht. Zu spät: Du hackst in der alten Umgebung fest. Ideal: 1-2 Monate nach Trennung, wenn der erste Schmerz vorbei ist, aber du noch Energie hast.'}"
+  - "{'question': 'Wie überwinde ich die Einsamkeit in der neuen Wohnung?', 'answer': 'Die erste Nacht ist schwer – das ist normal. Aber nach einer Woche wirst du merken: Das ist *dein* Raum. Deine Regeln. Das wird bald Trost statt Einsamkeit sein.'}"
+  - "{'question': 'Budgetierung: Wie viel sollte ich für die Wohnung ausgeben?', 'answer': 'Nach Trennung gibt es finanzielle Anpassungen. Budget realistisch – nicht weniger als 30% des Einkommens, aber auch nicht verschwenderisch. Es muss haltbar sein – diese Wohnung ist dein Zuhause für eine Weile.'}"
 ---
 Die Schlüssel sind in deiner Hand. Du öffnest die Tür zu einer leeren Wohnung. Eine Wohnung, die nur dir gehört.
 

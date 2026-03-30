@@ -13,10 +13,8 @@ draft: false
 image: "/images/photos/liebeskummer-ueberwinden.webp"
 imageAlt: "Nachdenkliche Person schaut in die Ferne"
 faq:
-  - question: "Warum ist die erste Liebe so schwer zu vergessen?"
-    answer: "Die erste Liebe prägt unser Gehirn besonders stark, weil alles neu und intensiv ist. Neurologisch werden dabei besonders tiefe Verknüpfungen gebildet, die lange bestehen bleiben."
-  - question: "Wie lange dauert es, die erste Liebe zu vergessen?"
-    answer: "Das ist individuell verschieden. Manche brauchen Monate, andere Jahre. Wichtig ist nicht die Zeit, sondern die aktive Verarbeitung der Gefühle."
+  - "{'question': 'Warum ist die erste Liebe so schwer zu vergessen?', 'answer': 'Die erste Liebe prägt unser Gehirn besonders stark, weil alles neu und intensiv ist. Neurologisch werden dabei besonders tiefe Verknüpfungen gebildet, die lange bestehen bleiben.'}"
+  - "{'question': 'Wie lange dauert es, die erste Liebe zu vergessen?', 'answer': 'Das ist individuell verschieden. Manche brauchen Monate, andere Jahre. Wichtig ist nicht die Zeit, sondern die aktive Verarbeitung der Gefühle.'}"
 ---
 ## Warum die erste Liebe so besonders ist
 

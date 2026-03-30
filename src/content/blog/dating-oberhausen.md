@@ -14,14 +14,10 @@ draft: false
 image: "/images/photos/dating-oberhausen.webp"
 imageAlt: "Moderne Architektur und grüne Gegenden von Oberhausen"
 faq:
-  - question: "Wo treffen sich junge Menschen in Oberhausen?"
-    answer: "Das Zentrum rund um die Fußgängerzone ist zentral. Das CentrO Shopping-Center hat Restaurants und Bars. Die Gegend um die Lippe ist naturbeladen."
-  - question: "Gibt es gute Restaurants und Bars?"
-    answer: "'Zum Anker' bietet traditionelle Ruhrgebiet-Küche. 'Ufo' ist modern und trendy. 'Kaffeehaus Bremen' ist gemütlich und stylisch."
-  - question: "Was kann man außer Essen unternehmen?"
-    answer: "Das Gasometer besuchen. Spaziergang entlang der Lippe. Kunstmuseen erkunden. Fahrradtouren im Ruhrgebiet. Theater-Aufführungen."
-  - question: "Wie ist die Dating-Kultur in Oberhausen?"
-    answer: "Oberhausen ist relativ jung und progressiv. Mit Industrie-Vergangenheit und kultureller Erneuerung hat es eine coole Vibe."
+  - "{'question': 'Wo treffen sich junge Menschen in Oberhausen?', 'answer': 'Das Zentrum rund um die Fußgängerzone ist zentral. Das CentrO Shopping-Center hat Restaurants und Bars. Die Gegend um die Lippe ist naturbeladen.'}"
+  - "{'question': 'Gibt es gute Restaurants und Bars?', 'answer': "'Zum Anker' bietet traditionelle Ruhrgebiet-Küche. 'Ufo' ist modern und trendy. 'Kaffeehaus Bremen' ist gemütlich und stylisch."}"
+  - "{'question': 'Was kann man außer Essen unternehmen?', 'answer': 'Das Gasometer besuchen. Spaziergang entlang der Lippe. Kunstmuseen erkunden. Fahrradtouren im Ruhrgebiet. Theater-Aufführungen.'}"
+  - "{'question': 'Wie ist die Dating-Kultur in Oberhausen?', 'answer': 'Oberhausen ist relativ jung und progressiv. Mit Industrie-Vergangenheit und kultureller Erneuerung hat es eine coole Vibe.'}"
 ---
 ## dating in Oberhausen: Ruhrgebiet Romance mit Industriecharme
 

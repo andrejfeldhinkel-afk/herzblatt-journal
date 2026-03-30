@@ -1,4 +1,13 @@
 ---
+title: Selbstliebe Vor Partnersuche
+description: ''
+date: '2026-03-01'
+updated: '2026-03-01'
+tags: []
+draft: true
+---
+
+---
 title: "Selbstliebe: Warum du dich zuerst finden musst, bevor du"
 description: "Selbstliebe als Grundlage für gesunde Beziehungen: Umfassender Ratgeber mit praktischen Übungen und psychologischen Erkenntnissen."
 tags:
@@ -10,12 +19,9 @@ image: "/images/photos/selbstliebe-dating.webp"
 imageAlt: "Person sitzt friedlich und umarmt sich selbst"
 featured: false
 faq:
-  - question: "Was bedeutet Selbstliebe genau? Ist es nicht egoistisch?"
-    answer: "Selbstliebe ist nicht Egoismus – es ist Selbstrespekt. Es bedeutet, dich selbst wie einen guten Freund zu behandeln. Du schuldest dir Grenzen, Sorgfalt und Freundlichkeit. Das ist nicht egoistisch, es ist notwendig."
-  - question: "Kann ich ohne Selbstliebe eine glückliche Beziehung haben?"
-    answer: "Es ist schwierig. Ohne Selbstliebe wirst du andere Menschen suchen, um dich wichtig zu fühlen. Das ist ein Rezept für abhängige, ungesunde Beziehungen. Selbstliebe ist das Fundament einer gesunden Partnerschaft."
-  - question: "Wie lange dauert es, Selbstliebe zu entwickeln?"
-    answer: "Es ist ein lebenslanger Prozess, nicht ein Endziel. Aber kleine Veränderungen können schnell passieren. Mit fokussierter Arbeit kannst du in 6-12 Monaten signifikante Veränderungen sehen. Geduld mit dir selbst ist Schlüssel."
+  - "{'question': 'Was bedeutet Selbstliebe genau? Ist es nicht egoistisch?', 'answer': 'Selbstliebe ist nicht Egoismus – es ist Selbstrespekt. Es bedeutet, dich selbst wie einen guten Freund zu behandeln. Du schuldest dir Grenzen, Sorgfalt und Freundlichkeit. Das ist nicht egoistisch, es ist notwendig.'}"
+  - "{'question': 'Kann ich ohne Selbstliebe eine glückliche Beziehung haben?', 'answer': 'Es ist schwierig. Ohne Selbstliebe wirst du andere Menschen suchen, um dich wichtig zu fühlen. Das ist ein Rezept für abhängige, ungesunde Beziehungen. Selbstliebe ist das Fundament einer gesunden Partnerschaft.'}"
+  - "{'question': 'Wie lange dauert es, Selbstliebe zu entwickeln?', 'answer': 'Es ist ein lebenslanger Prozess, nicht ein Endziel. Aber kleine Veränderungen können schnell passieren. Mit fokussierter Arbeit kannst du in 6-12 Monaten signifikante Veränderungen sehen. Geduld mit dir selbst ist Schlüssel.'}"
 ---Hier ist eine Wahrheit, die die Gesellschaft dir nicht sagt: Du kannst nicht eine andere Person lieben, bevor du dich selbst liebst.
 
 Nicht vollständig. Nicht auf gesunde Weise.

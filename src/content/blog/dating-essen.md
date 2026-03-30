@@ -14,12 +14,9 @@ draft: false
 image: "/images/photos/dating-essen.webp"
 imageAlt: "Essen Rüttenscheid und Baldeneysee bei Sonnenuntergang"
 faq:
-  - question: "Wo lernt man in Essen Singles kennen?"
-    answer: "Die beste Single-Szene findest du in Rüttenscheid mit seinen vielen Cafés und Bars, sowie in Werden und Kettwig mit ihrem dörflichen Charme. Der Baldeneysee ist ein Hotspot im Sommer. Auch die Innenstadt und das Museumsquartier (Zeche Zollverein) sind Orte, wo Singles sich treffen."
-  - question: "Was sind die besten Date-Ideen in Essen?"
-    answer: "Der Baldeneysee ist perfekt für Spaziergänge, Picknicks und Tretboot-Fahrten. Die Zeche Zollverein ist ein UNESCO-Welterbe und Kulturzentrum – ideal für kulturinteressierte Paare. Werden und Kettwig sind charmante, kleinere Orte mit Rhein-Blick. Rüttenscheid lädt zu Café-Hopping und Bars ein."
-  - question: "Gibt es eine gute Single-Szene in Essen?"
-    answer: "Ja, Essen hat eine wachsende und sehr aktive Single-Szene. Die Stadt hat lange im Schatten von Düsseldorf gestanden, aber entwickelt sich zu einem eigenständigen Dating-Hotspot. Rüttenscheid ist das Zentrum, aber auch die Innenstadt und die Ruhr-Auen sind lebendig."
+  - "{'question': 'Wo lernt man in Essen Singles kennen?', 'answer': 'Die beste Single-Szene findest du in Rüttenscheid mit seinen vielen Cafés und Bars, sowie in Werden und Kettwig mit ihrem dörflichen Charme. Der Baldeneysee ist ein Hotspot im Sommer. Auch die Innenstadt und das Museumsquartier (Zeche Zollverein) sind Orte, wo Singles sich treffen.'}"
+  - "{'question': 'Was sind die besten Date-Ideen in Essen?', 'answer': 'Der Baldeneysee ist perfekt für Spaziergänge, Picknicks und Tretboot-Fahrten. Die Zeche Zollverein ist ein UNESCO-Welterbe und Kulturzentrum – ideal für kulturinteressierte Paare. Werden und Kettwig sind charmante, kleinere Orte mit Rhein-Blick. Rüttenscheid lädt zu Café-Hopping und Bars ein.'}"
+  - "{'question': 'Gibt es eine gute Single-Szene in Essen?', 'answer': 'Ja, Essen hat eine wachsende und sehr aktive Single-Szene. Die Stadt hat lange im Schatten von Düsseldorf gestanden, aber entwickelt sich zu einem eigenständigen Dating-Hotspot. Rüttenscheid ist das Zentrum, aber auch die Innenstadt und die Ruhr-Auen sind lebendig.'}"
 ---
 ## dating in Essen: Industriestadt im Wandel, Herz voller Charme
 

@@ -15,16 +15,11 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Ist jemand, der schnell verliebt ist, automatisch ein Love Bomber?"
-    answer: "Nein. Es gibt einen Unterschied zwischen schneller Gefühlsentwicklung und Love Bombing. Ein echter Liebender respektiert deine Grenzen, auch wenn er schnell verliebt ist. Ein Love Bomber respektiert deine Grenzen nicht."
-  - question: "Können Frauen auch Love Bomber sein?"
-    answer: "Ja, absolut. Love Bombing ist nicht männlich oder weiblich. Es ist ein Manipulationsmuster, das jeder nutzen kann. Frauen sind oft einfach subtiler darin."
-  - question: "Was sollte ich tun, wenn ich merke, dass ich Love Bombed werde?"
-    answer: "Verlangsam die Beziehung. Setz Grenzen. Beobachte, wie die Person reagiert. Ein echter Liebender wird Verständnis haben. Ein Love Bomber wird Druck machen oder Manipulation nutzen."
-  - question: "Gibt es Fälle, wo Love Bombing vom Narzisst kommt?"
-    answer: "Ja, oft. Narzissten nutzen Love Bombing als Taktik, um dich süchtig nach ihrer Aufmerksamkeit zu machen. Aber nicht alle Love Bomber sind Narzissten – einige sind einfach emotional unreif."
-  - question: "Wie erholt man sich von Love Bombing?"
-    answer: "Es ist wie ein emotionaler Entzug. Die Person war alles für dich, dann ist sie das nicht mehr. Das ist Trauer. Das braucht Zeit, Therapie, Unterstützung und die Realisation, dass die Liebe nicht echt war."
+  - "{'question': 'Ist jemand, der schnell verliebt ist, automatisch ein Love Bomber?', 'answer': 'Nein. Es gibt einen Unterschied zwischen schneller Gefühlsentwicklung und Love Bombing. Ein echter Liebender respektiert deine Grenzen, auch wenn er schnell verliebt ist. Ein Love Bomber respektiert deine Grenzen nicht.'}"
+  - "{'question': 'Können Frauen auch Love Bomber sein?', 'answer': 'Ja, absolut. Love Bombing ist nicht männlich oder weiblich. Es ist ein Manipulationsmuster, das jeder nutzen kann. Frauen sind oft einfach subtiler darin.'}"
+  - "{'question': 'Was sollte ich tun, wenn ich merke, dass ich Love Bombed werde?', 'answer': 'Verlangsam die Beziehung. Setz Grenzen. Beobachte, wie die Person reagiert. Ein echter Liebender wird Verständnis haben. Ein Love Bomber wird Druck machen oder Manipulation nutzen.'}"
+  - "{'question': 'Gibt es Fälle, wo Love Bombing vom Narzisst kommt?', 'answer': 'Ja, oft. Narzissten nutzen Love Bombing als Taktik, um dich süchtig nach ihrer Aufmerksamkeit zu machen. Aber nicht alle Love Bomber sind Narzissten – einige sind einfach emotional unreif.'}"
+  - "{'question': 'Wie erholt man sich von Love Bombing?', 'answer': 'Es ist wie ein emotionaler Entzug. Die Person war alles für dich, dann ist sie das nicht mehr. Das ist Trauer. Das braucht Zeit, Therapie, Unterstützung und die Realisation, dass die Liebe nicht echt war.'}"
 ---
 ## Was ist Love Bombing wirklich?
 

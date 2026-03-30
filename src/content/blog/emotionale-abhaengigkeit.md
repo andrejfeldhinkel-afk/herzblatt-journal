@@ -15,12 +15,9 @@ keywords:
   - "Unabhängigkeit"
   - "Psychische Gesundheit"
 faq:
-  - question: "Was ist emotionale Abhängigkeit?"
-    answer: "Es ist, wenn Ihr Sinn des Wertes oder der Glück hauptsächlich abhängig von einer anderen Person ist. Sie lehen sich stark auf ihren Bestätigung und Anwesenheit an."
-  - question: "Ist es normal, sich emotional zu kümmern?"
-    answer: "Ja, Beziehungen sollten emotional bedeutsam sein. Aber gesunde Beziehungen haben Balance. Sie sollten nicht von Ihrem Partner abhängig sein, um sich wertvoll oder glücklich zu fühlen."
-  - question: "Kann ich emotionale Abhängigkeit überwinden?"
-    answer: "Ja, absolut. Es erfordert Bewusstsein, Selbstkritik und oft professionelle Hilfe. Sie müssen Ihren Selbstwert außerhalb Ihrer Beziehung bauen."
+  - "{'question': 'Was ist emotionale Abhängigkeit?', 'answer': 'Es ist, wenn Ihr Sinn des Wertes oder der Glück hauptsächlich abhängig von einer anderen Person ist. Sie lehen sich stark auf ihren Bestätigung und Anwesenheit an.'}"
+  - "{'question': 'Ist es normal, sich emotional zu kümmern?', 'answer': 'Ja, Beziehungen sollten emotional bedeutsam sein. Aber gesunde Beziehungen haben Balance. Sie sollten nicht von Ihrem Partner abhängig sein, um sich wertvoll oder glücklich zu fühlen.'}"
+  - "{'question': 'Kann ich emotionale Abhängigkeit überwinden?', 'answer': 'Ja, absolut. Es erfordert Bewusstsein, Selbstkritik und oft professionelle Hilfe. Sie müssen Ihren Selbstwert außerhalb Ihrer Beziehung bauen.'}"
 ---
 Emotionale Abhängigkeit ist ein häufiges Problem in Beziehungen. Es ist, wenn Ihr Sinn von Wert, Glück und Sicherheit stark von einer anderen Person abhängig ist. Wenn sie glücklich sind, sind Sie glücklich. Wenn sie zufrieden sind, sind Sie zufrieden. Wenn sie Sie ignorieren, fallen Sie auseinander. In diesem Leitfaden erfahren Sie, was emotionale Abhängigkeit ist, warum es schädlich ist und wie Sie es überwinden können.
 

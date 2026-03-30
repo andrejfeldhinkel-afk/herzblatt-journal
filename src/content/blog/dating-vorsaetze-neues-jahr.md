@@ -13,10 +13,8 @@ draft: false
 image: "/images/photos/dating-trends-2026.webp"
 imageAlt: "Dating-Vorsätze: So findest du im neuen Jahr die L"
 faq:
-  - question: "Was ist das Wichtigste bei dating-vorsätze?"
-    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
-  - question: "Wo finde ich Hilfe zum Thema dating-vorsätze?"
-    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
+  - "{'question': 'Was ist das Wichtigste bei dating-vorsätze?', 'answer': 'Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst.'}"
+  - "{'question': 'Wo finde ich Hilfe zum Thema dating-vorsätze?', 'answer': 'Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung.'}"
 ---
 
 ## Deine Dating-Vorsätze für das neue Jahr: Konkrete Ziele setzen und umsetzen

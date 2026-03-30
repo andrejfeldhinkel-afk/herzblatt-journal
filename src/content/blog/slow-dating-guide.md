@@ -16,14 +16,10 @@ draft: false
 image: "/images/photos/slow-dating-guide.webp"
 imageAlt: "Entspanntes Paar beim achtsamen Kennenlernen"
 faq:
-  - question: "Was ist Slow Dating genau?"
-    answer: "Slow Dating bedeutet, sich bewusst Zeit beim Kennenlernen zu nehmen. Statt Dutzende Matches gleichzeitig zu verfolgen, investierst du gezielt in wenige, vielversprechende Verbindungen — mit echten Gesprächen statt oberflächlichem Swipen."
-  - question: "Wie funktioniert Slow Dating auf Dating-Apps?"
-    answer: "Begrenze deine tägliche Swipe-Zeit, chatte nur mit 2-3 Personen gleichzeitig, nimm dir Zeit für tiefere Gespräche vor dem ersten Treffen und plane bewusste, längere erste Dates."
-  - question: "Ist Slow Dating nicht ineffizient?"
-    answer: "Im Gegenteil — es spart langfristig Zeit. Statt endlose oberflächliche Dates zu haben, lernst du wenige Menschen tiefgründig kennen. Die Erfolgsrate für echte Verbindungen ist deutlich höher."
-  - question: "Für wen eignet sich Slow Dating?"
-    answer: "Für alle, die von Dating-App-Müdigkeit betroffen sind, tiefe statt oberflächliche Verbindungen suchen, oder nach einer Reihe enttäuschender Dates einen Neuanfang wollen."
+  - "{'question': 'Was ist Slow Dating genau?', 'answer': 'Slow Dating bedeutet, sich bewusst Zeit beim Kennenlernen zu nehmen. Statt Dutzende Matches gleichzeitig zu verfolgen, investierst du gezielt in wenige, vielversprechende Verbindungen — mit echten Gesprächen statt oberflächlichem Swipen.'}"
+  - "{'question': 'Wie funktioniert Slow Dating auf Dating-Apps?', 'answer': 'Begrenze deine tägliche Swipe-Zeit, chatte nur mit 2-3 Personen gleichzeitig, nimm dir Zeit für tiefere Gespräche vor dem ersten Treffen und plane bewusste, längere erste Dates.'}"
+  - "{'question': 'Ist Slow Dating nicht ineffizient?', 'answer': 'Im Gegenteil — es spart langfristig Zeit. Statt endlose oberflächliche Dates zu haben, lernst du wenige Menschen tiefgründig kennen. Die Erfolgsrate für echte Verbindungen ist deutlich höher.'}"
+  - "{'question': 'Für wen eignet sich Slow Dating?', 'answer': 'Für alle, die von Dating-App-Müdigkeit betroffen sind, tiefe statt oberflächliche Verbindungen suchen, oder nach einer Reihe enttäuschender Dates einen Neuanfang wollen.'}"
 ---
 Du kennst das: weniger. Dann geht es dir wie vielen anderen — und slow ist dabei ein zentraler Faktor, den du nicht ignorieren solltest. In diesem Artikel zeigen wir dir, wie du damit umgehen kannst.
 

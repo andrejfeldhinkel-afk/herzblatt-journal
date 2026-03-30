@@ -16,16 +16,11 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - question: "Wer ist Gottman und warum ist das relevant?"
-    answer: "John Gottman ist ein Beziehungsforscher mit 40 Jahren Studien über Paare. Er konnte mit 90% Genauigkeit vorhersagen, welche Paare sich trennen würden - basierend auf den vier Reitern. Das ist ziemlich beeindruckend."
-  - question: "Wenn ich einen Reiter zeige, bedeutet das, dass meine Beziehung vorbei ist?"
-    answer: "Nein. Alle Paare zeigen manchmal die Reiter. Das Problem ist, wenn sie regelmäßig sind und nicht repariert werden. Ein Reiter hier und da ist normal. Ein Muster ist besorgniserregend."
-  - question: "Welcher Reiter ist am schlimmsten?"
-    answer: "Verachtung ist der giftigste. Kritik kann verbessert werden. Verachtung bedeutet, dass du die andere Person als unwürdig siehst. Das ist schwer zu reparieren."
-  - question: "Kann ich die Reiter erkennen und ändern?"
-    answer: "Ja. Die Erkennung ist der erste Schritt. Mit bewusstem Arbeiten und möglicherweise Paartherapie kannst du neue Muster aufbauen."
-  - question: "Sind die Reiter nur das Problem, oder gibt es noch andere?"
-    answer: "Die Reiter sind die vier kritischsten Muster. Es gibt andere Probleme, aber diese vier sind die stärksten Prädiktoren für Trennungen."
+  - "{'question': 'Wer ist Gottman und warum ist das relevant?', 'answer': 'John Gottman ist ein Beziehungsforscher mit 40 Jahren Studien über Paare. Er konnte mit 90% Genauigkeit vorhersagen, welche Paare sich trennen würden - basierend auf den vier Reitern. Das ist ziemlich beeindruckend.'}"
+  - "{'question': 'Wenn ich einen Reiter zeige, bedeutet das, dass meine Beziehung vorbei ist?', 'answer': 'Nein. Alle Paare zeigen manchmal die Reiter. Das Problem ist, wenn sie regelmäßig sind und nicht repariert werden. Ein Reiter hier und da ist normal. Ein Muster ist besorgniserregend.'}"
+  - "{'question': 'Welcher Reiter ist am schlimmsten?', 'answer': 'Verachtung ist der giftigste. Kritik kann verbessert werden. Verachtung bedeutet, dass du die andere Person als unwürdig siehst. Das ist schwer zu reparieren.'}"
+  - "{'question': 'Kann ich die Reiter erkennen und ändern?', 'answer': 'Ja. Die Erkennung ist der erste Schritt. Mit bewusstem Arbeiten und möglicherweise Paartherapie kannst du neue Muster aufbauen.'}"
+  - "{'question': 'Sind die Reiter nur das Problem, oder gibt es noch andere?', 'answer': 'Die Reiter sind die vier kritischsten Muster. Es gibt andere Probleme, aber diese vier sind die stärksten Prädiktoren für Trennungen.'}"
 ---
 
 Gottman nennt sie "Die vier apokalyptischen Reiter." Es ist eine dramatische Metapher. Aber angebracht.

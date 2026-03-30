@@ -18,14 +18,10 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - question: "Warum fühlt sich Swipen wie eine Sucht an?"
-    answer: "Dating-Apps nutzen variable Belohnungsmechanismen — das gleiche Prinzip wie Spielautomaten. Jeder Swipe könnte ein Match sein, und diese Unvorhersehbarkeit setzt Dopamin frei. Das Gehirn gewöhnt sich daran und will immer mehr."
-  - question: "Macht Online-Dating unglücklich?"
-    answer: "Nicht zwangsläufig, aber die paradox of choice kann überfordern. Studien zeigen, dass Menschen die Online-Dating bewusst und mit klaren Zielen nutzen, zufriedener sind als diejenigen die endlos swipen ohne sich zu entscheiden."
-  - question: "Warum ghosten Menschen statt ehrlich zu sein?"
-    answer: "Psychologisch gesehen ist Ghosting ein Vermeidungsverhalten. Die digitale Distanz reduziert Empathie und das Gefühl sozialer Verantwortung. Für den Ghoster fühlt es sich einfacher an als eine unangenehme Absage — obwohl es für den Empfänger schmerzhafter ist."
-  - question: "Sind wir beim Online-Dating oberflächlicher?"
-    answer: "Ja und nein. Studien zeigen, dass wir Profile in 0,3-0,5 Sekunden beurteilen — vor allem nach Attraktivität. Aber die Profile-basierten Apps wie Hinge zeigen, dass Menschen durchaus bereit sind, tiefer zu schauen, wenn man ihnen die Möglichkeit gibt."
+  - "{'question': 'Warum fühlt sich Swipen wie eine Sucht an?', 'answer': 'Dating-Apps nutzen variable Belohnungsmechanismen — das gleiche Prinzip wie Spielautomaten. Jeder Swipe könnte ein Match sein, und diese Unvorhersehbarkeit setzt Dopamin frei. Das Gehirn gewöhnt sich daran und will immer mehr.'}"
+  - "{'question': 'Macht Online-Dating unglücklich?', 'answer': 'Nicht zwangsläufig, aber die paradox of choice kann überfordern. Studien zeigen, dass Menschen die Online-Dating bewusst und mit klaren Zielen nutzen, zufriedener sind als diejenigen die endlos swipen ohne sich zu entscheiden.'}"
+  - "{'question': 'Warum ghosten Menschen statt ehrlich zu sein?', 'answer': 'Psychologisch gesehen ist Ghosting ein Vermeidungsverhalten. Die digitale Distanz reduziert Empathie und das Gefühl sozialer Verantwortung. Für den Ghoster fühlt es sich einfacher an als eine unangenehme Absage — obwohl es für den Empfänger schmerzhafter ist.'}"
+  - "{'question': 'Sind wir beim Online-Dating oberflächlicher?', 'answer': 'Ja und nein. Studien zeigen, dass wir Profile in 0,3-0,5 Sekunden beurteilen — vor allem nach Attraktivität. Aber die Profile-basierten Apps wie Hinge zeigen, dass Menschen durchaus bereit sind, tiefer zu schauen, wenn man ihnen die Möglichkeit gibt.'}"
 ---
 Es ist eine vertraute Szene: Du sitzt abends auf der Couch, öffnest deine Dating-App und schwupps — die nächsten zwei Stunden sind vorbei. Hunderte Profile, hunderte Swipes, und doch fühlt es sich nicht wie Zeitverschwendung an. Es fühlt sich notwendig an. Dringend sogar. Die Psychologie des Online-Datings funktioniert nicht zufällig so. Hinter jedem Swipe steckt ein faszinierendes Zusammenspiel aus evolutionären Mechanismen, psychologischen Biases und sehr bewusst gestalteter Technologie.
 

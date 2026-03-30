@@ -15,14 +15,10 @@ draft: false
 image: "/images/photos/dating-trends-2026.webp"
 imageAlt: "Modernes Dating im Jahr 2026"
 faq:
-  - question: "Was sind die größten Dating-Trends 2026?"
-    answer: "Die wichtigsten Trends sind Clear-Coding (klare Kommunikation von Absichten), Slow Dating (bewusst langsam kennenlernen), Friendfluence (Freunde als Dating-Berater), Real-Life-Dating-Comeback und therapie-orientiertes Dating."
-  - question: "Was bedeutet Clear-Coding beim Dating?"
-    answer: "Clear-Coding bedeutet, dass Singles von Anfang an offen kommunizieren, was sie suchen — ob eine feste Beziehung, etwas Lockeres oder einfach neue Bekanntschaften. 64% der Singles wünschen sich mehr emotionale Ehrlichkeit."
-  - question: "Ist Online-Dating 2026 noch relevant?"
-    answer: "Ja, aber die Art hat sich verändert. Apps werden bewusster genutzt, mit mehr Fokus auf Qualität statt Quantität. Gleichzeitig erleben Offline-Kennenlernmethoden ein starkes Comeback."
-  - question: "Was ist Slow Dating?"
-    answer: "Slow Dating bedeutet, sich bewusst Zeit zu nehmen beim Kennenlernen — weniger Matches, dafür tiefere Gespräche. Statt endlosem Swipen investiert man gezielt in wenige, vielversprechende Verbindungen."
+  - "{'question': 'Was sind die größten Dating-Trends 2026?', 'answer': 'Die wichtigsten Trends sind Clear-Coding (klare Kommunikation von Absichten), Slow Dating (bewusst langsam kennenlernen), Friendfluence (Freunde als Dating-Berater), Real-Life-Dating-Comeback und therapie-orientiertes Dating.'}"
+  - "{'question': 'Was bedeutet Clear-Coding beim Dating?', 'answer': 'Clear-Coding bedeutet, dass Singles von Anfang an offen kommunizieren, was sie suchen — ob eine feste Beziehung, etwas Lockeres oder einfach neue Bekanntschaften. 64% der Singles wünschen sich mehr emotionale Ehrlichkeit.'}"
+  - "{'question': 'Ist Online-Dating 2026 noch relevant?', 'answer': 'Ja, aber die Art hat sich verändert. Apps werden bewusster genutzt, mit mehr Fokus auf Qualität statt Quantität. Gleichzeitig erleben Offline-Kennenlernmethoden ein starkes Comeback.'}"
+  - "{'question': 'Was ist Slow Dating?', 'answer': 'Slow Dating bedeutet, sich bewusst Zeit zu nehmen beim Kennenlernen — weniger Matches, dafür tiefere Gespräche. Statt endlosem Swipen investiert man gezielt in wenige, vielversprechende Verbindungen.'}"
 ---## Die Dating-Landschaft 2026: Ein Weckruf für Authentizität und Achtsamkeit
 
 Das Dating im Jahr 2026 ist nicht mehr das oberflächliche Spiel aus den 2010ern. Nach Jahren von endlosen Matches, Ghosting und dem ständigen Gefühl, dass jemand Besseres nur einen Swipe entfernt ist, erleben wir einen fundamentalen Wandel. Singles sehnen sich nach Wahrheit, Tiefe und echten Verbindungen. Die Dating-Trends 2026 spiegeln diese Sehnsucht wider — es geht nicht mehr um die Anzahl der Dates, sondern um ihre Qualität.

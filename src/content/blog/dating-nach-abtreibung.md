@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/dating-nach-abtreibung.webp"
 imageAlt: "Frau sitzt nachdenklich - emotional unterstützt"
 faq:
-  - question: "Sollte ich bei Dating über eine Abtreibung sprechen?"
-    answer: "Nicht beim ersten Date. Aber wenn die Beziehung ernsthaft wird, solltest du mit jemandem sein, dem du das vertrauen kannst. Wenn er oder sie urteilend ist, ist es die falsche Person."
-  - question: "Wird eine Abtreibung mein Dating-Leben für immer beeinträchtigen?"
-    answer: "Nein. Das ist ein Teil deiner Vergangenheit, aber es definiert dich nicht. Mit Heilung und Zeit werden Sie erkennen, dass die richtige Person dies verstehen und respektieren kann."
-  - question: "Wie gehe ich mit Schuldgefühlen um, die mit dieser Entscheidung verbunden sind?"
-    answer: "Sprich mit einem Therapeuten oder Berater, nicht nur für Dating-Rat, sondern für echte emotionale Verarbeitung. Schuldgefühle sind normal, aber sie dürfen dich nicht davon abhalten, wieder zu lieben."
+  - "{'question': 'Sollte ich bei Dating über eine Abtreibung sprechen?', 'answer': 'Nicht beim ersten Date. Aber wenn die Beziehung ernsthaft wird, solltest du mit jemandem sein, dem du das vertrauen kannst. Wenn er oder sie urteilend ist, ist es die falsche Person.'}"
+  - "{'question': 'Wird eine Abtreibung mein Dating-Leben für immer beeinträchtigen?', 'answer': 'Nein. Das ist ein Teil deiner Vergangenheit, aber es definiert dich nicht. Mit Heilung und Zeit werden Sie erkennen, dass die richtige Person dies verstehen und respektieren kann.'}"
+  - "{'question': 'Wie gehe ich mit Schuldgefühlen um, die mit dieser Entscheidung verbunden sind?', 'answer': 'Sprich mit einem Therapeuten oder Berater, nicht nur für Dating-Rat, sondern für echte emotionale Verarbeitung. Schuldgefühle sind normal, aber sie dürfen dich nicht davon abhalten, wieder zu lieben.'}"
 ---
 
 Du kennst das: lebensentscheidungen. Dann geht es dir wie vielen anderen — und dating ist dabei ein zentraler Faktor, den du nicht ignorieren solltest. In diesem Artikel zeigen wir dir, wie du damit umgehen kannst.

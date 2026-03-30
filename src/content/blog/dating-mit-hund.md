@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/dating-mit-hund.webp"
 imageAlt: "Paar beim Spaziergang mit Hund im Park"
 faq:
-  - question: "Sollte ich meinen Hund zum ersten Date mitbringen?"
-    answer: "Besser nicht direkt beim ersten Treffen. Lern die Person erst kurz kennen. Beim zweiten oder dritten Date ist ein gemeinsamer Spaziergang mit Hund aber eine super Idee."
-  - question: "Wie spreche ich das Thema Hund im Profil an?"
-    answer: "Ehrlich und direkt. Dein Hund gehört zu deinem Leben, also sollte das von Anfang an klar sein. Ein Foto mit Hund kommt meistens gut an."
-  - question: "Was mache ich, wenn mein Date keine Hunde mag?"
-    answer: "Das ist eine wichtige Kompatibilitätsfrage. Wenn jemand grundsätzlich keine Hunde mag, wird es auf Dauer schwierig – denn dein Hund bleibt."
+  - "{'question': 'Sollte ich meinen Hund zum ersten Date mitbringen?', 'answer': 'Besser nicht direkt beim ersten Treffen. Lern die Person erst kurz kennen. Beim zweiten oder dritten Date ist ein gemeinsamer Spaziergang mit Hund aber eine super Idee.'}"
+  - "{'question': 'Wie spreche ich das Thema Hund im Profil an?', 'answer': 'Ehrlich und direkt. Dein Hund gehört zu deinem Leben, also sollte das von Anfang an klar sein. Ein Foto mit Hund kommt meistens gut an.'}"
+  - "{'question': 'Was mache ich, wenn mein Date keine Hunde mag?', 'answer': 'Das ist eine wichtige Kompatibilitätsfrage. Wenn jemand grundsätzlich keine Hunde mag, wird es auf Dauer schwierig – denn dein Hund bleibt.'}"
 ---
 
 Dein Hund ist nicht nur ein Haustier – er ist ein integraler Teil deines Lebens. Und deshalb ist er automatisch auch ein integraler Teil deines Dating-Lebens. Wenn du mit einem Hund dast, bedeutet das, dass du dein Dating-Leben um Spaziergang-Zeiten herum planen musst, dass deine Wochenenden nicht ganz spontan sind, und dass ein großer Teil deiner täglichen Routine nicht verhandelbar ist.

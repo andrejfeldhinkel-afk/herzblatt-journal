@@ -15,16 +15,11 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - question: "Wie lange dauert jedes Gespräch beim Speed Dating?"
-    answer: "Üblicherweise 3-5 Minuten pro Runde. Es ist kurz, aber genug Zeit, um einen ersten Eindruck zu bekommen und zu entscheiden, ob du diese Person wiedersehen möchtest."
-  - question: "Was sollte ich beim Speed Dating anziehen?"
-    answer: "Etwas, das du dir wohlfühlst und das deine Persönlichkeit zeigt. Es sollte Selbstvertrauen ausstrahlen. Vermeid zu casual (Trainingsanzug) oder zu formal (Tuxedo, wenn es nicht das Event ist)."
-  - question: "Sollte ich beim Speed Dating mein Telefon verwenden?"
-    answer: "Nein, niemals. Lege dein Telefon weg. Stelle Augenkontakt her. Konzentriere dich vollständig auf die Person vor dir."
-  - question: "Was ist die beste Strategie, um Leute nach dem Speed Dating zu treffen?"
-    answer: "Wenn du jemanden matched, texte ihn am nächsten Tag (nicht sofort nach der Veranstaltung). Sei spezifisch: 'Mir hat gefallen, dass du von deinem Reise nach Japan erzählt hast. Ich würde gerne das Gespräch fortsetzen.'"
-  - question: "Ist Speed Dating für Introvertierte?"
-    answer: "Ja, aber es ist anstrengend. Wenn du introvertiert bist, iss vorher gut, nimm Pausen, und sag dir selbst, dass jedes Gespräch nur 5 Minuten ist. Das macht es leichter."
+  - "{'question': 'Wie lange dauert jedes Gespräch beim Speed Dating?', 'answer': 'Üblicherweise 3-5 Minuten pro Runde. Es ist kurz, aber genug Zeit, um einen ersten Eindruck zu bekommen und zu entscheiden, ob du diese Person wiedersehen möchtest.'}"
+  - "{'question': 'Was sollte ich beim Speed Dating anziehen?', 'answer': 'Etwas, das du dir wohlfühlst und das deine Persönlichkeit zeigt. Es sollte Selbstvertrauen ausstrahlen. Vermeid zu casual (Trainingsanzug) oder zu formal (Tuxedo, wenn es nicht das Event ist).'}"
+  - "{'question': 'Sollte ich beim Speed Dating mein Telefon verwenden?', 'answer': 'Nein, niemals. Lege dein Telefon weg. Stelle Augenkontakt her. Konzentriere dich vollständig auf die Person vor dir.'}"
+  - "{'question': 'Was ist die beste Strategie, um Leute nach dem Speed Dating zu treffen?', 'answer': "Wenn du jemanden matched, texte ihn am nächsten Tag (nicht sofort nach der Veranstaltung). Sei spezifisch: 'Mir hat gefallen, dass du von deinem Reise nach Japan erzählt hast. Ich würde gerne das Gespräch fortsetzen.'"}"
+  - "{'question': 'Ist Speed Dating für Introvertierte?', 'answer': 'Ja, aber es ist anstrengend. Wenn du introvertiert bist, iss vorher gut, nimm Pausen, und sag dir selbst, dass jedes Gespräch nur 5 Minuten ist. Das macht es leichter.'}"
 ---
 
 Speed Dating: Der komplette Guide für ein erfolgreiches Erlebnis

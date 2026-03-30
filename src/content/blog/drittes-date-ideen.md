@@ -15,12 +15,9 @@ keywords:
 draft: false
 author: "laura-weber"
 faq:
-  - question: "Was ist besonders am dritten Date?"
-    answer: "Das dritte Date ist der Wendepunkt. Die Nervosität des Ersten und die Unsicherheit des Zweiten sind weg. Jetzt zeigt sich ob echte Chemie da ist — oder nur Höflichkeit."
-  - question: "Soll das dritte Date länger sein als die ersten beiden?"
-    answer: "Idealerweise ja. Plant 3-4 Stunden ein — ein gemeinsames Kochen, ein Marktbesuch mit Kaffee danach, oder eine Fahrradtour mit Picknick. Mehr Zeit zeigt mehr Persönlichkeit."
-  - question: "Ist Küssen beim dritten Date Pflicht?"
-    answer: "Nein. Jedes Paar hat sein eigenes Tempo. Aber wenn du bis zum dritten Date absolut keine körperliche Anziehung spürst, ist das ein Zeichen das du beachten solltest."
+  - "{'question': 'Was ist besonders am dritten Date?', 'answer': 'Das dritte Date ist der Wendepunkt. Die Nervosität des Ersten und die Unsicherheit des Zweiten sind weg. Jetzt zeigt sich ob echte Chemie da ist — oder nur Höflichkeit.'}"
+  - "{'question': 'Soll das dritte Date länger sein als die ersten beiden?', 'answer': 'Idealerweise ja. Plant 3-4 Stunden ein — ein gemeinsames Kochen, ein Marktbesuch mit Kaffee danach, oder eine Fahrradtour mit Picknick. Mehr Zeit zeigt mehr Persönlichkeit.'}"
+  - "{'question': 'Ist Küssen beim dritten Date Pflicht?', 'answer': 'Nein. Jedes Paar hat sein eigenes Tempo. Aber wenn du bis zum dritten Date absolut keine körperliche Anziehung spürst, ist das ein Zeichen das du beachten solltest.'}"
 ---
 
 Das dritte Date ist der Moment, in dem [dating](/blog/anzeichen-er-steht-auf-dich/) entweder zu etwas wird oder nicht. Nach zwei Dates wissen beide, dass der andere sieht okay aus (sonst hätte es kein zweites gegeben). Die Nervosität vom ersten Date ist weg. Die Unsicherheit "Mag die Person mich?" ist geklärt (sonst wären sie nicht hier).

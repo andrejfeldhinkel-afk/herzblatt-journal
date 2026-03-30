@@ -1,4 +1,13 @@
 ---
+title: Online Dating Sicherheit Tipps
+description: ''
+date: '2026-03-01'
+updated: '2026-03-01'
+tags: []
+draft: true
+---
+
+---
 title: "Online-Dating Sicherheit: So schützt du dich vor Betrug"
 description: "Umfassender Sicherheitsleitfaden für Online-Dating mit praktischen Tipps zum Schutz vor Betrug, Catfishing und Phishing."
 tags:
@@ -10,12 +19,9 @@ image: "/images/photos/online-dating-sicherheit.webp"
 imageAlt: "Person schaut skeptisch auf Telefon beim Online-Dating"
 featured: false
 faq:
-  - question: "Wie erkenne ich ein Fake-Profil auf Dating-Apps?"
-    answer: "Achte auf zu perfekte Fotos, widersprüchliche Angaben, schnelle Liebeserklärungen und Aufforderungen, die App zu verlassen. Nutze die Rückwärtsbildsuche von Google, um Fotos zu überprüfen."
-  - question: "Sollte ich meine persönlichen Daten sofort teilen?"
-    answer: "Nein. Gib niemals deine echte Telefonnummer, Adresse oder finanzielle Informationen an jemanden, den du nicht persönlich kennst. Nutze zunächst die Messagingfunktion der App."
-  - question: "Was sind die Warnsignale von Romance Scams?"
-    answer: "Wenn jemand sehr schnell von dir schwärmt, finanzielle Hilfe braucht oder sich nach wenigen Tagen treffen möchte, dann verschwinden lässt, sind das typische Zeichen für Betrug."
+  - "{'question': 'Wie erkenne ich ein Fake-Profil auf Dating-Apps?', 'answer': 'Achte auf zu perfekte Fotos, widersprüchliche Angaben, schnelle Liebeserklärungen und Aufforderungen, die App zu verlassen. Nutze die Rückwärtsbildsuche von Google, um Fotos zu überprüfen.'}"
+  - "{'question': 'Sollte ich meine persönlichen Daten sofort teilen?', 'answer': 'Nein. Gib niemals deine echte Telefonnummer, Adresse oder finanzielle Informationen an jemanden, den du nicht persönlich kennst. Nutze zunächst die Messagingfunktion der App.'}"
+  - "{'question': 'Was sind die Warnsignale von Romance Scams?', 'answer': 'Wenn jemand sehr schnell von dir schwärmt, finanzielle Hilfe braucht oder sich nach wenigen Tagen treffen möchte, dann verschwinden lässt, sind das typische Zeichen für Betrug.'}"
 ---Online-[dating](/blog/anzeichen-er-steht-auf-dich/) hat die Art revolutioniert, wie wir Menschen kennenlernen. Doch mit dieser Convenience kommt auch eine erhöhte Verantwortung für die eigene Sicherheit. In diesem Leitfaden erfährst du, wie du dich vor den häufigsten [online-dating](/blog/beste-dating-apps-2026/)-Gefahren schützt.
 
 ## Die häufigsten Online-Dating-Risiken verstehen

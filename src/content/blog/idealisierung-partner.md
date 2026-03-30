@@ -1,19 +1,20 @@
 ---
-title: "Partner idealisieren: Wenn Liebe zur Fantasie wird"
-slug: "idealisierung-partner"
-description: "Du liebst eine Version deines Partners, die nicht existiert. Ich zeige dir, wie du die echte Person siehst und lieben kannst."
-author: "thomas-peters"
-image: "/images/photos/idealisierung-partner.webp"
-imageAlt: "Partner auf ein Podest stellen"
-category: "Psychologie"
+title: 'Partner idealisieren: Wenn Liebe zur Fantasie wird'
+slug: idealisierung-partner
+description: Du liebst eine Version deines Partners, die nicht existiert. Ich zeige
+  dir, wie du die echte Person siehst und lieben kannst.
+author: thomas-peters
+image: /images/photos/idealisierung-partner.webp
+imageAlt: Partner auf ein Podest stellen
+category: Psychologie
 tags:
-  - "Psychologie"
-  - "Beziehung"
-  - "Ratgeber"
+- Psychologie
+- Beziehung
+- Ratgeber
 keywords:
-  - "partner idealisieren"
-  - "idealisierung beziehung"
-  - "partner auf podest"
+- partner idealisieren
+- idealisierung beziehung
+- partner auf podest
 ---
 
 Dein Partner ist perfekt. Er ist intelligent, lustig, liebevoll und genau das, was du dir immer gewünscht hast. Die einzige Anleitung ist: Er existiert nicht. Die Person, die du liebst, ist eine Mischung aus dem echten Menschen und einer Fantasie, die dein Gehirn erschaffen hat.

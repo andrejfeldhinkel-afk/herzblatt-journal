@@ -15,12 +15,9 @@ keywords:
   - "Ethische Nicht-Monogamie"
   - "Polyamorie Tipps"
 faq:
-  - question: "Was ist der Unterschied zwischen Polyamorie und Untreue?"
-    answer: "Polyamorie ist konsensual und ethisch. Alle Partner wissen voneinander und haben zugestimmt. Untreue ist geheim und verletzt Vertrauen. Polyamorie ist nicht Betrug."
-  - question: "Ist Polyamorie nur ein Ausrede für das Rumhängen?"
-    answer: "Nicht für alle. Manche Leute nutzen es so. Aber echte Polyamorie erfordert viel kommunikation, Grenzen, Respekt und Emotionalität. Es ist nicht leicht."
-  - question: "Kann eine Person monogam und ein Polyamorie Partner sein?"
-    answer: "Das ist schwierig. Wenn ein Partner monogam und einer polyamorie ist, können sie oft nicht kompatibel sein. Einige Paare machen Kompromisse (eine offene Beziehung), aber es erfordert viel Kommunikation."
+  - "{'question': 'Was ist der Unterschied zwischen Polyamorie und Untreue?', 'answer': 'Polyamorie ist konsensual und ethisch. Alle Partner wissen voneinander und haben zugestimmt. Untreue ist geheim und verletzt Vertrauen. Polyamorie ist nicht Betrug.'}"
+  - "{'question': 'Ist Polyamorie nur ein Ausrede für das Rumhängen?', 'answer': 'Nicht für alle. Manche Leute nutzen es so. Aber echte Polyamorie erfordert viel kommunikation, Grenzen, Respekt und Emotionalität. Es ist nicht leicht.'}"
+  - "{'question': 'Kann eine Person monogam und ein Polyamorie Partner sein?', 'answer': 'Das ist schwierig. Wenn ein Partner monogam und einer polyamorie ist, können sie oft nicht kompatibel sein. Einige Paare machen Kompromisse (eine offene Beziehung), aber es erfordert viel Kommunikation.'}"
 ---
 Polyamorie – die Praxis, romantische Gefühle oder Beziehungen mit mehr als einer Person zu haben, mit dem Wissen und Zustimmung aller Beteiligten – wird zunehmend häufiger. Aber es ist nicht für jeden und es ist nicht einfach. In diesem Leitfaden erfahren Sie, was Polyamorie ist, warum Menschen es praktizieren und wie man ethisch polyamorie lebt.
 

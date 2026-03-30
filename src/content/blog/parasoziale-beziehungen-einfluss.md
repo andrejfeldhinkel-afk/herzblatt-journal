@@ -1,4 +1,13 @@
 ---
+title: Parasoziale Beziehungen Einfluss
+description: ''
+date: '2026-03-01'
+updated: '2026-03-01'
+tags: []
+draft: true
+---
+
+---
 title: "Parasoziale Beziehungen und ihr Einfluss aufs Dating"
 description: "Parasoziale Beziehungen Einfluss: Influencer und Promis — wie parasoziale Beziehungen dein echtes Dating negativ beeinflussen."
 date: "2025-10-15"

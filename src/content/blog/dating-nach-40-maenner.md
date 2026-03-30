@@ -14,14 +14,10 @@ draft: false
 image: "/images/photos/dating-nach-40-maenner.webp"
 imageAlt: "Selbstbewusster Mann mittleren Alters"
 faq:
-  - question: "Bin ich zu alt zum Daten mit über 40?"
-    answer: "Absolut nicht! Viele Menschen daten erfolgreich über 40. Mit mehr Lebenserfahrung, Selbstkenntnissen und emotionaler Reife hast du oft bessere Chancen auf eine erfüllende Beziehung."
-  - question: "Wie aktualisiere ich mein Dating-Profil mit 40+?"
-    answer: "Nutze aktuelle Fotos, die deine echte Persönlichkeit zeigen. Sprich über deine Hobbys, Ziele und was du suchst. Sei authentisch — das zieht die richtigen Menschen an."
-  - question: "Gibt es Frauen, die einen Mann mit 40+ wirklich mögen?"
-    answer: "Ja, absolut. Viele Frauen suchen reife, stabile Männer. Dein Alter ist ein Plus, nicht ein Minus — wenn du eine gute Eigenpräsentation hast."
-  - question: "Sollte ich mich verjüngen, um attraktiver zu wirken?"
-    answer: "Nein. Authentizität ist attraktiver als eine falsche Fassade. Kümmere dich um deine Gesundheit und Stil, aber versuche nicht, jünger zu wirken als du bist."
+  - "{'question': 'Bin ich zu alt zum Daten mit über 40?', 'answer': 'Absolut nicht! Viele Menschen daten erfolgreich über 40. Mit mehr Lebenserfahrung, Selbstkenntnissen und emotionaler Reife hast du oft bessere Chancen auf eine erfüllende Beziehung.'}"
+  - "{'question': 'Wie aktualisiere ich mein Dating-Profil mit 40+?', 'answer': 'Nutze aktuelle Fotos, die deine echte Persönlichkeit zeigen. Sprich über deine Hobbys, Ziele und was du suchst. Sei authentisch — das zieht die richtigen Menschen an.'}"
+  - "{'question': 'Gibt es Frauen, die einen Mann mit 40+ wirklich mögen?', 'answer': 'Ja, absolut. Viele Frauen suchen reife, stabile Männer. Dein Alter ist ein Plus, nicht ein Minus — wenn du eine gute Eigenpräsentation hast.'}"
+  - "{'question': 'Sollte ich mich verjüngen, um attraktiver zu wirken?', 'answer': 'Nein. Authentizität ist attraktiver als eine falsche Fassade. Kümmere dich um deine Gesundheit und Stil, aber versuche nicht, jünger zu wirken als du bist.'}"
 ---
 ## Warum 40+ dein bestes Dating-Alter ist
 

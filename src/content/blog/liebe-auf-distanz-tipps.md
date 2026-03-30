@@ -14,14 +14,10 @@ draft: false
 image: "/images/photos/liebe-auf-distanz-tipps.webp"
 imageAlt: "Person bei Videocall mit Partner"
 faq:
-  - question: "Können Fernbeziehungen wirklich funktionieren?"
-    answer: "Ja, aber mit Aufwand. Sie brauchen starke Kommunikation, Vertrauen und einen klaren Plan für die Zukunft. Wenn beide engagiert sind, können sie funktionieren."
-  - question: "Wie oft sollten wir uns in einer Fernbeziehung sehen?"
-    answer: "Idealerweise alle 2-4 Wochen, wenn möglich. Die Häufigkeit hängt von Entfernung und Budget ab. Wichtiger ist Kontinuität als Häufigkeit."
-  - question: "Wie vermeide ich Vertrauensprobleme in einer Fernbeziehung?"
-    answer: "Kommuniziert offen und regelmäßig. Setzt klare Grenzen und Erwartungen. Vertraue deinem Partner, wenn er es verdient. Ständige Überwachung zerstört Vertrauen."
-  - question: "Sollten wir ein Enddatum für die Fernbeziehung haben?"
-    answer: "Ja. Ein Plan, wann ihr zusammenzieht oder näher zusammenlebt, gibt euch Hoffnung und Ziel. Ohne Endsicht kann eine Fernbeziehung frustrierend wirken."
+  - "{'question': 'Können Fernbeziehungen wirklich funktionieren?', 'answer': 'Ja, aber mit Aufwand. Sie brauchen starke Kommunikation, Vertrauen und einen klaren Plan für die Zukunft. Wenn beide engagiert sind, können sie funktionieren.'}"
+  - "{'question': 'Wie oft sollten wir uns in einer Fernbeziehung sehen?', 'answer': 'Idealerweise alle 2-4 Wochen, wenn möglich. Die Häufigkeit hängt von Entfernung und Budget ab. Wichtiger ist Kontinuität als Häufigkeit.'}"
+  - "{'question': 'Wie vermeide ich Vertrauensprobleme in einer Fernbeziehung?', 'answer': 'Kommuniziert offen und regelmäßig. Setzt klare Grenzen und Erwartungen. Vertraue deinem Partner, wenn er es verdient. Ständige Überwachung zerstört Vertrauen.'}"
+  - "{'question': 'Sollten wir ein Enddatum für die Fernbeziehung haben?', 'answer': 'Ja. Ein Plan, wann ihr zusammenzieht oder näher zusammenlebt, gibt euch Hoffnung und Ziel. Ohne Endsicht kann eine Fernbeziehung frustrierend wirken.'}"
 ---
 ## Fernbeziehung: Fluch oder Chance?
 

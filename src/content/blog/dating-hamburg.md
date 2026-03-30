@@ -15,14 +15,10 @@ draft: false
 image: "/images/photos/dating-hamburg.webp"
 imageAlt: "Hamburger Hafen mit Elbphilharmonie und Nacht-Skyline"
 faq:
-  - question: "Wo kann man in Hamburg am besten Singles kennenlernen?"
-    answer: "Die besten Orte sind die Bars und Cafés rund um die Alster, die angesagten Clubs in St. Pauli und Schanzenviertel, sowie die HafenCity mit ihren modernen Restaurants und Bars. Die Elbphilharmonie zieht auch viele kulturell interessierte Singles an. Dating-Apps wie Tinder und Bumble sind aktiv, aber Hamburg hat auch eine gute Offline-Single-Szene mit Events und sozialen Treffs."
-  - question: "Welche Dating-Apps sind in Hamburg besonders beliebt?"
-    answer: "Tinder und Bumble dominieren auch in Hamburg. Beliebt sind auch Hinge für ernsthaftere Beziehungen, Once für selektive Matches, und OkCupid. Besonders in Hamburg gibt es auch regionale Facebook-Gruppen und Meetup-Communities für Singles, die gezielt Events in der Stadt organisieren."
-  - question: "Was sind die besten Date-Ideen in Hamburg?"
-    answer: "Klassische Dates: Spaziergang entlang der Alster oder an der Elbe, Fahrt mit den Hafenfähren, Picknick im Plötzensee. Aktive Dates: Kanufahrt, Joggen an der Alster, Kletterpark. Kulturelle Dates: Elbphilharmonie-Konzert, Kunsthalle, Miniatur-Wunderland. Kulinarisch: Fischmarkt am Morgen, Restaurants in der HafenCity oder St. Pauli, Craft-Bier-Touren im Schanzenviertel."
-  - question: "Gibt es in Hamburg eine gute Single-Szene?"
-    answer: "Ja, Hamburg hat eine aktive Single-Szene. Die Stadt ist wohlhabend und kultiviert, mit regelmäßigen Events für Singles wie Salsa-Kurse, Dinner-Clubs, Single-Brunches und Networking-Events. Die Hamburger sind etwas formaler und traditioneller als Berliner, aber auch sehr offen und freundlich gegenüber Singles. Es gibt auch viele etablierte Single-Clubs und Agenturen."
+  - "{'question': 'Wo kann man in Hamburg am besten Singles kennenlernen?', 'answer': 'Die besten Orte sind die Bars und Cafés rund um die Alster, die angesagten Clubs in St. Pauli und Schanzenviertel, sowie die HafenCity mit ihren modernen Restaurants und Bars. Die Elbphilharmonie zieht auch viele kulturell interessierte Singles an. Dating-Apps wie Tinder und Bumble sind aktiv, aber Hamburg hat auch eine gute Offline-Single-Szene mit Events und sozialen Treffs.'}"
+  - "{'question': 'Welche Dating-Apps sind in Hamburg besonders beliebt?', 'answer': 'Tinder und Bumble dominieren auch in Hamburg. Beliebt sind auch Hinge für ernsthaftere Beziehungen, Once für selektive Matches, und OkCupid. Besonders in Hamburg gibt es auch regionale Facebook-Gruppen und Meetup-Communities für Singles, die gezielt Events in der Stadt organisieren.'}"
+  - "{'question': 'Was sind die besten Date-Ideen in Hamburg?', 'answer': 'Klassische Dates: Spaziergang entlang der Alster oder an der Elbe, Fahrt mit den Hafenfähren, Picknick im Plötzensee. Aktive Dates: Kanufahrt, Joggen an der Alster, Kletterpark. Kulturelle Dates: Elbphilharmonie-Konzert, Kunsthalle, Miniatur-Wunderland. Kulinarisch: Fischmarkt am Morgen, Restaurants in der HafenCity oder St. Pauli, Craft-Bier-Touren im Schanzenviertel.'}"
+  - "{'question': 'Gibt es in Hamburg eine gute Single-Szene?', 'answer': 'Ja, Hamburg hat eine aktive Single-Szene. Die Stadt ist wohlhabend und kultiviert, mit regelmäßigen Events für Singles wie Salsa-Kurse, Dinner-Clubs, Single-Brunches und Networking-Events. Die Hamburger sind etwas formaler und traditioneller als Berliner, aber auch sehr offen und freundlich gegenüber Singles. Es gibt auch viele etablierte Single-Clubs und Agenturen.'}"
 ---
 ## dating in Hamburg: Hafenromantik und Alster-Träume
 

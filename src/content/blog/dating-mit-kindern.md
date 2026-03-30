@@ -14,14 +14,10 @@ draft: false
 image: "/images/photos/dating-mit-kindern.webp"
 imageAlt: "Elternteil beim Spaziergang"
 faq:
-  - question: "Wann sollte ich meinen Date sagen, dass ich Kinder habe?"
-    answer: "Idealerweise im ersten Profil-Text oder spätestens beim ersten Gespräch. Manche Menschen mögen Kinder nicht, und das ist fair. Es ist besser, das früh zu wissen."
-  - question: "Wann sollte mein Kind meinen neuen Partner treffen?"
-    answer: "Frühestens nach 2-3 Monaten echten Datings, wenn die Beziehung stabil wirkt. Dein Kind muss nicht jeden kennenlernen, mit dem du dich triffst."
-  - question: "Wie stelle ich eine neue Liebe meinem Kind vor?"
-    answer: "Sei ehrlich und einfach. Sag dem Kind, dass du jemanden magst und dass dieser Mensch mehr Freizeit mit dir verbringen wird. Lass dem Kind Zeit, sich anzupassen."
-  - question: "Was sollte ich bei einem Date mit Kind beachten?"
-    answer: "Plane Dates um den Schulplan herum. Verbringe Zeit mit deinem Kind und dem Partner separat, bevor ihr zusammen Zeit verbringt. Lass die Beziehung natürlich wachsen."
+  - "{'question': 'Wann sollte ich meinen Date sagen, dass ich Kinder habe?', 'answer': 'Idealerweise im ersten Profil-Text oder spätestens beim ersten Gespräch. Manche Menschen mögen Kinder nicht, und das ist fair. Es ist besser, das früh zu wissen.'}"
+  - "{'question': 'Wann sollte mein Kind meinen neuen Partner treffen?', 'answer': 'Frühestens nach 2-3 Monaten echten Datings, wenn die Beziehung stabil wirkt. Dein Kind muss nicht jeden kennenlernen, mit dem du dich triffst.'}"
+  - "{'question': 'Wie stelle ich eine neue Liebe meinem Kind vor?', 'answer': 'Sei ehrlich und einfach. Sag dem Kind, dass du jemanden magst und dass dieser Mensch mehr Freizeit mit dir verbringen wird. Lass dem Kind Zeit, sich anzupassen.'}"
+  - "{'question': 'Was sollte ich bei einem Date mit Kind beachten?', 'answer': 'Plane Dates um den Schulplan herum. Verbringe Zeit mit deinem Kind und dem Partner separat, bevor ihr zusammen Zeit verbringt. Lass die Beziehung natürlich wachsen.'}"
 ---
 ## Liebe verdient jeder — auch du
 

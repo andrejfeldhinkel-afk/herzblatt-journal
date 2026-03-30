@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/beziehung-und-reisen.webp"
 imageAlt: "Paar am Flughafen mit Reisegepäck"
 faq:
-  - question: "Wann sollte man als Paar das erste Mal zusammen verreisen?"
-    answer: "Wenn ihr euch beide wohl miteinander fühlt und schon ein paar Monate zusammen seid. Ein Wochenendtrip ist ein guter Start, bevor ihr zwei Wochen Backpacking plant."
-  - question: "Was tun bei Streit im Urlaub?"
-    answer: "Akzeptiert, dass Reisestress normal ist. Nehmt euch kurz Abstand, atmet durch und redet in Ruhe darüber. Die schönsten Reisen haben auch holprige Momente."
-  - question: "Wie teilt man die Kosten fair auf?"
-    answer: "Besprecht das vorher. Ob fifty-fifty, nach Einkommen oder abwechselnd – Hauptsache, beide fühlen sich wohl damit. Geld ist der häufigste Stressfaktor auf Reisen."
+  - "{'question': 'Wann sollte man als Paar das erste Mal zusammen verreisen?', 'answer': 'Wenn ihr euch beide wohl miteinander fühlt und schon ein paar Monate zusammen seid. Ein Wochenendtrip ist ein guter Start, bevor ihr zwei Wochen Backpacking plant.'}"
+  - "{'question': 'Was tun bei Streit im Urlaub?', 'answer': 'Akzeptiert, dass Reisestress normal ist. Nehmt euch kurz Abstand, atmet durch und redet in Ruhe darüber. Die schönsten Reisen haben auch holprige Momente.'}"
+  - "{'question': 'Wie teilt man die Kosten fair auf?', 'answer': 'Besprecht das vorher. Ob fifty-fifty, nach Einkommen oder abwechselnd – Hauptsache, beide fühlen sich wohl damit. Geld ist der häufigste Stressfaktor auf Reisen.'}"
 ---
 Jede Beziehung muss auf die Probe gestellt werden – und keine Situation offenbart die Wahrheit schneller als eine gemeinsame Reise. Wenn du mit deinem Partner verreist, entsteht eine Intensität, die den Alltag komplett verändert. Plötzlich seid ihr nicht mehr durch Work, Freunde und separate Verpflichtungen entzerrt – ihr seid gemeinsam in einer neuen Welt, ohne Ablenkungen und ohne Eskapismmöglichkeiten. Genau hier zeigt sich, ob eure Beziehung auf soliden Fundamenten steht oder ob versteckte Bruchstellen unter Druck sichtbar werden.
 

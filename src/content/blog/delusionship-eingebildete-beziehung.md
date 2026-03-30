@@ -18,14 +18,10 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - question: "Was ist eine Delusionship?"
-    answer: "Eine Delusionship ist eine Beziehung, die hauptsächlich in deinem Kopf existiert. Du interpretierst kleine Gesten, Nachrichten oder Blicke als Zeichen tiefer Zuneigung — obwohl die andere Person kein echtes romantisches Interesse zeigt."
-  - question: "Woher kommt der Begriff Delusionship?"
-    answer: "Der Begriff ist ein Kofferwort aus 'delusion' (Wahnvorstellung) und 'relationship' (Beziehung). Er wurde durch TikTok und Social Media populär und beschreibt ein Phänomen, das es schon immer gab — nur hatte es vorher keinen Namen."
-  - question: "Wie erkenne ich, dass ich in einer Delusionship stecke?"
-    answer: "Typische Zeichen: Du investierst deutlich mehr als die andere Person, du interpretierst vieldeutige Signale immer positiv, du entschuldigst ständig ihr Verhalten, und deine Freunde sagen dir, dass du dir etwas einbildest."
-  - question: "Ist eine Delusionship schädlich?"
-    answer: "Ja. Delusionships können dein Selbstwertgefühl beschädigen, dich davon abhalten echte Verbindungen einzugehen, und emotional extrem belastend sein — weil du ständig auf etwas hoffst, das nie kommen wird."
+  - "{'question': 'Was ist eine Delusionship?', 'answer': 'Eine Delusionship ist eine Beziehung, die hauptsächlich in deinem Kopf existiert. Du interpretierst kleine Gesten, Nachrichten oder Blicke als Zeichen tiefer Zuneigung — obwohl die andere Person kein echtes romantisches Interesse zeigt.'}"
+  - "{'question': 'Woher kommt der Begriff Delusionship?', 'answer': "Der Begriff ist ein Kofferwort aus 'delusion' (Wahnvorstellung) und 'relationship' (Beziehung). Er wurde durch TikTok und Social Media populär und beschreibt ein Phänomen, das es schon immer gab — nur hatte es vorher keinen Namen."}"
+  - "{'question': 'Wie erkenne ich, dass ich in einer Delusionship stecke?', 'answer': 'Typische Zeichen: Du investierst deutlich mehr als die andere Person, du interpretierst vieldeutige Signale immer positiv, du entschuldigst ständig ihr Verhalten, und deine Freunde sagen dir, dass du dir etwas einbildest.'}"
+  - "{'question': 'Ist eine Delusionship schädlich?', 'answer': 'Ja. Delusionships können dein Selbstwertgefühl beschädigen, dich davon abhalten echte Verbindungen einzugehen, und emotional extrem belastend sein — weil du ständig auf etwas hoffst, das nie kommen wird.'}"
 ---
 
 ## Der Anfang einer Delusionship

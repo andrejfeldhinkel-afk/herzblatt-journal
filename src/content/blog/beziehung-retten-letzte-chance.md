@@ -18,14 +18,10 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Kann man eine Beziehung retten die am Ende ist?"
-    answer: "Ja, aber nur wenn beide Partner es wirklich wollen. Eine Beziehung retten ist wie ein Muskel-Training — es braucht tägliche Arbeit, Ehrlichkeit und die Bereitschaft, sich zu verändern. Wenn nur einer kämpft, reicht das leider nicht."
-  - question: "Woran erkenne ich dass es sich noch lohnt zu kämpfen?"
-    answer: "Wenn ihr euch trotz der Probleme noch gegenseitig respektiert, Momente der Verbundenheit habt und beide bereit seid, an euch zu arbeiten. Wenn nur noch Verachtung und Gleichgültigkeit da sind, ist professionelle Hilfe dringend nötig."
-  - question: "Wie lange dauert es eine Beziehung zu reparieren?"
-    answer: "Rechne mit mindestens 6-12 Monaten bewusster Arbeit. Die ersten Wochen sind oft die härtesten. Kleine Fortschritte kommen meist nach 4-6 Wochen konsequenter Veränderung."
-  - question: "Hilft Paartherapie wirklich?"
-    answer: "Ja — Studien zeigen dass 70% der Paare in Therapie signifikante Verbesserungen erleben. Der Schlüssel ist, nicht zu lange zu warten. Je früher ihr professionelle Hilfe sucht, desto besser die Prognose."
+  - "{'question': 'Kann man eine Beziehung retten die am Ende ist?', 'answer': 'Ja, aber nur wenn beide Partner es wirklich wollen. Eine Beziehung retten ist wie ein Muskel-Training — es braucht tägliche Arbeit, Ehrlichkeit und die Bereitschaft, sich zu verändern. Wenn nur einer kämpft, reicht das leider nicht.'}"
+  - "{'question': 'Woran erkenne ich dass es sich noch lohnt zu kämpfen?', 'answer': 'Wenn ihr euch trotz der Probleme noch gegenseitig respektiert, Momente der Verbundenheit habt und beide bereit seid, an euch zu arbeiten. Wenn nur noch Verachtung und Gleichgültigkeit da sind, ist professionelle Hilfe dringend nötig.'}"
+  - "{'question': 'Wie lange dauert es eine Beziehung zu reparieren?', 'answer': 'Rechne mit mindestens 6-12 Monaten bewusster Arbeit. Die ersten Wochen sind oft die härtesten. Kleine Fortschritte kommen meist nach 4-6 Wochen konsequenter Veränderung.'}"
+  - "{'question': 'Hilft Paartherapie wirklich?', 'answer': 'Ja — Studien zeigen dass 70% der Paare in Therapie signifikante Verbesserungen erleben. Der Schlüssel ist, nicht zu lange zu warten. Je früher ihr professionelle Hilfe sucht, desto besser die Prognose.'}"
 ---
 
 Deine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) steht am Rande. Ihr redet kaum noch miteinander, und wenn, werden aus Gesprächen Kämpfe. Du fragst dich jeden Morgen, ob heute der Tag ist, an dem alles vorbei ist. Das Vertrauen ist ramponiert, die Nähe ist weg, und selbst die guten Momente fühlen sich erzwungen an. **Eine Beziehung retten** ist möglich — aber es ist nicht die romantische Hollywood-Version, die du vielleicht erwartest. Es ist harte, ehrliche, tägliche Arbeit.

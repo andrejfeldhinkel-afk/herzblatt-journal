@@ -16,14 +16,10 @@ draft: false
 featured: false
 author: "laura-weber"
 faq:
-  - question: "Müssen gemeinsame Freunde sich zwischen mir und meinem Ex entscheiden?"
-    answer: "Nein, echte Freunde fühlen sich nicht gezwungen, Seite zu wählen. Es ist völlig ok, wenn deine Freunde beide Seiten noch sehen. Das bedeutet nicht, dass sie dich weniger lieben."
-  - question: "Wie lange sollte ich Abstand zu gemeinsamen Freunden halten?"
-    answer: "Das ist unterschiedlich. Wenn die Trennung noch sehr frisch ist, können 2-4 Wochen Pause sinnvoll sein. Danach kann der Kontakt wieder normal werden. Vertrau auf dein Bauchgefühl."
-  - question: "Was tue ich, wenn die Freunde mehr mit meinem Ex abhängen als mit mir?"
-    answer: "Das tut weh, ist aber nicht persönlich gemeint. Konzentrier dich auf deine besten Freunde und baue deine Freundesgruppe aus. Qualität vor Quantität zählt hier."
-  - question: "Kann ich meine Freunde treffen, ohne dass mein Ex erfährt?"
-    answer: "Du darfst mit deinen Freunden treffen, wen du möchtest. Aber vermeide, darüber zu tratschen. Halte dein Treffen privat und nicht über Social Media sichtbar."
+  - "{'question': 'Müssen gemeinsame Freunde sich zwischen mir und meinem Ex entscheiden?', 'answer': 'Nein, echte Freunde fühlen sich nicht gezwungen, Seite zu wählen. Es ist völlig ok, wenn deine Freunde beide Seiten noch sehen. Das bedeutet nicht, dass sie dich weniger lieben.'}"
+  - "{'question': 'Wie lange sollte ich Abstand zu gemeinsamen Freunden halten?', 'answer': 'Das ist unterschiedlich. Wenn die Trennung noch sehr frisch ist, können 2-4 Wochen Pause sinnvoll sein. Danach kann der Kontakt wieder normal werden. Vertrau auf dein Bauchgefühl.'}"
+  - "{'question': 'Was tue ich, wenn die Freunde mehr mit meinem Ex abhängen als mit mir?', 'answer': 'Das tut weh, ist aber nicht persönlich gemeint. Konzentrier dich auf deine besten Freunde und baue deine Freundesgruppe aus. Qualität vor Quantität zählt hier.'}"
+  - "{'question': 'Kann ich meine Freunde treffen, ohne dass mein Ex erfährt?', 'answer': 'Du darfst mit deinen Freunden treffen, wen du möchtest. Aber vermeide, darüber zu tratschen. Halte dein Treffen privat und nicht über Social Media sichtbar.'}"
 ---
 
 ## Die erste Zeit nach der Trennung

@@ -15,14 +15,10 @@ draft: false
 image: "/images/photos/beziehung-social-media.webp"
 imageAlt: "Zwei Menschen, die auf Social Media geteilt werden"
 faq:
-  - question: "Ist es normal, eifersüchtig auf Social Media zu sein?"
-    answer: "Ja, digitale Eifersucht ist normal. Social Media verstärkt unsere Unsicherheiten. Das Wichtigste ist, offen mit deinem Partner darüber zu sprechen und klare Grenzen zu setzen."
-  - question: "Sollte ich meine Beziehung auf Social Media zeigen?"
-    answer: "Das ist eine persönliche Entscheidung. Manche Paare genießen es, ihre Liebe zu teilen, andere bevorzugen Privatsphäre. Entscheidet zusammen, was sich für euch richtig anfühlt."
-  - question: "Wie viel sollte ich mein Liebesleben online teilen?"
-    answer: "Teile nur das, das sich authentisch anfühlt und das du nicht bereuen würdest. Vermeide Oversharing von intimen Details oder ständigen Liebes-Posts, die unnatürlich wirken."
-  - question: "Was kann ich gegen digitale Eifersucht tun?"
-    answer: "Setze Grenzen beim Social-Media-Konsum, vertrau deinem Partner, und kommuniziere offen. Manchmal hilft es, den Konsum von Inhalten zu reduzieren, die dich triggern."
+  - "{'question': 'Ist es normal, eifersüchtig auf Social Media zu sein?', 'answer': 'Ja, digitale Eifersucht ist normal. Social Media verstärkt unsere Unsicherheiten. Das Wichtigste ist, offen mit deinem Partner darüber zu sprechen und klare Grenzen zu setzen.'}"
+  - "{'question': 'Sollte ich meine Beziehung auf Social Media zeigen?', 'answer': 'Das ist eine persönliche Entscheidung. Manche Paare genießen es, ihre Liebe zu teilen, andere bevorzugen Privatsphäre. Entscheidet zusammen, was sich für euch richtig anfühlt.'}"
+  - "{'question': 'Wie viel sollte ich mein Liebesleben online teilen?', 'answer': 'Teile nur das, das sich authentisch anfühlt und das du nicht bereuen würdest. Vermeide Oversharing von intimen Details oder ständigen Liebes-Posts, die unnatürlich wirken.'}"
+  - "{'question': 'Was kann ich gegen digitale Eifersucht tun?', 'answer': 'Setze Grenzen beim Social-Media-Konsum, vertrau deinem Partner, und kommuniziere offen. Manchmal hilft es, den Konsum von Inhalten zu reduzieren, die dich triggern.'}"
 ---
 
 Jede [beziehung](/blog/adhs-und-beziehung-komplett-guide/) braucht Aufmerksamkeit — besonders wenn es um eifersucht geht. Beziehung spielt dabei eine größere Rolle, als du vielleicht denkst. Hier erfährst du, wie du diese wichtige Komponente nutzen kannst, um deine Partnerschaft zu stärken.

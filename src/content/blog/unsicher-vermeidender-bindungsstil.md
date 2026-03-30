@@ -1,20 +1,21 @@
 ---
-title: "Unsicher-vermeidender Bindungsstil: Wenn Nähe sich wie"
-slug: "unsicher-vermeidender-bindungsstil"
-description: "Der vermeidende Bindungsstil ist Liebe mit angezogener Notbremse. Ich zeige dir, was wirklich dahinter steckt und wie du damit umgehen kannst."
-author: "thomas-peters"
-image: "/images/photos/unsicher-vermeidender-bindungsstil.webp"
-imageAlt: "Paar mit emotionaler Distanz zueinander"
-category: "Psychologie"
+title: 'Unsicher-vermeidender Bindungsstil: Wenn Nähe sich wie'
+slug: unsicher-vermeidender-bindungsstil
+description: Der vermeidende Bindungsstil ist Liebe mit angezogener Notbremse. Ich
+  zeige dir, was wirklich dahinter steckt und wie du damit umgehen kannst.
+author: thomas-peters
+image: /images/photos/unsicher-vermeidender-bindungsstil.webp
+imageAlt: Paar mit emotionaler Distanz zueinander
+category: Psychologie
 tags:
-  - "Psychologie"
-  - "Beziehung"
-  - "Ratgeber"
+- Psychologie
+- Beziehung
+- Ratgeber
 keywords:
-  - "vermeidender bindungsstil"
-  - "unsicher vermeidend"
-  - "bindungsangst vermeidend"
-  - "partner vermeidend"
+- vermeidender bindungsstil
+- unsicher vermeidend
+- bindungsangst vermeidend
+- partner vermeidend
 ---
 
 Dein Partner ist unglaublich mit dir, wenn ihr allein seid. Das Gespräch ist tief. Der Sex ist leidenschaftlich. Die Nähe ist real.

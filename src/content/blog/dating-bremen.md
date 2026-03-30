@@ -14,14 +14,10 @@ draft: false
 image: "/images/photos/dating-bremen.webp"
 imageAlt: "Bremen dating scene"
 faq:
-  - question: "Wo kann man in Bremen am besten Singles kennenlernen?"
-    answer: "Der Schnoor mit seinen charmanten Gassen ist perfekt zum Flanieren und Leute kennenlernen. Das Viertel hat viele Bars und Cafés. Die Schlachte am Wasser ist ideal für Spaziergänge, und der Bürgerpark ist perfekt für entspannte Dates. Der Marktplatz ist auch ein großer Treffpunkt."
-  - question: "Welche Dating-Apps sind in Bremen beliebt?"
-    answer: "Tinder ist natürlich führend in Bremen. Bumble hat auch eine aktive Community, besonders unter jüngeren Frauen. Hinge wird immer beliebter für ernsthafte Beziehungen. OkCupid hat auch seine Fans in Bremen. Die Stadt ist groß genug für gute App-Erfolge."
-  - question: "Was sind die besten Date-Ideen in Bremen?"
-    answer: "Spaziergang durch den Schnoor mit Kaffee und Kuchen, Schlachte-Spaziergang mit Drinks, Museumsbesuche (Kunsthalle, Focke-Museum), Bürgerpark-Picknick, Biergärten im Sommer, Bootsfahrten auf der Weser, Weihnachtsmärkte im Winter. Bremen bietet viel Vielfalt."
-  - question: "Gibt es in Bremen eine gute Single-Szene?"
-    answer: "Ja! Bremen hat eine lebendige, vielfältige Single-Szene. Die Stadt ist groß genug für diversifizierte Dating-Optionen, aber klein genug für persönliches Flair. Es gibt viele junge Menschen, eine aktive Kunstszene und ein gutes Kulturangebot. Eine authentische, freundliche Dating-Stadt."
+  - "{'question': 'Wo kann man in Bremen am besten Singles kennenlernen?', 'answer': 'Der Schnoor mit seinen charmanten Gassen ist perfekt zum Flanieren und Leute kennenlernen. Das Viertel hat viele Bars und Cafés. Die Schlachte am Wasser ist ideal für Spaziergänge, und der Bürgerpark ist perfekt für entspannte Dates. Der Marktplatz ist auch ein großer Treffpunkt.'}"
+  - "{'question': 'Welche Dating-Apps sind in Bremen beliebt?', 'answer': 'Tinder ist natürlich führend in Bremen. Bumble hat auch eine aktive Community, besonders unter jüngeren Frauen. Hinge wird immer beliebter für ernsthafte Beziehungen. OkCupid hat auch seine Fans in Bremen. Die Stadt ist groß genug für gute App-Erfolge.'}"
+  - "{'question': 'Was sind die besten Date-Ideen in Bremen?', 'answer': 'Spaziergang durch den Schnoor mit Kaffee und Kuchen, Schlachte-Spaziergang mit Drinks, Museumsbesuche (Kunsthalle, Focke-Museum), Bürgerpark-Picknick, Biergärten im Sommer, Bootsfahrten auf der Weser, Weihnachtsmärkte im Winter. Bremen bietet viel Vielfalt.'}"
+  - "{'question': 'Gibt es in Bremen eine gute Single-Szene?', 'answer': 'Ja! Bremen hat eine lebendige, vielfältige Single-Szene. Die Stadt ist groß genug für diversifizierte Dating-Optionen, aber klein genug für persönliches Flair. Es gibt viele junge Menschen, eine aktive Kunstszene und ein gutes Kulturangebot. Eine authentische, freundliche Dating-Stadt.'}"
 ---
 ## Dating in Bremen: Altstadt-Charme trifft Hafenstadt-Energie
 

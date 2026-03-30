@@ -14,14 +14,10 @@ draft: false
 image: "/images/photos/eifersucht-beziehung-ueberwinden.webp"
 imageAlt: "Paar in nachdenklicher Stimmung"
 faq:
-  - question: "Wo kommt Eifersucht her?"
-    answer: "Eifersucht stammt oft aus Unsicherheiten, früheren Verletzungen oder unsicheren Bindungsmustern. Sie ist ein Signal, dass du dein Selbstwertgefühl oder Vertrauen stärken brauchst."
-  - question: "Ist Eifersucht ein Zeichen von Liebe?"
-    answer: "Nein. Echte Liebe vertraut. Eifersucht ist Angst vor Verlust, nicht Liebe. Wenn du dich liebst und vertraust, kannst du eifersüchtige Gefühle loslassen."
-  - question: "Wie kann ich meine Eifersucht kontrollieren?"
-    answer: "Erkenne die Eifersucht an, verstehe ihre Wurzeln, arbeite an deinem Selbstwertgefühl und lerne, zu vertrauen. Therapie kann dabei helfen, tiefere Muster zu bearbeiten."
-  - question: "Sollte mein Partner meine Eifersucht einschränken, um mir zu helfen?"
-    answer: "Nicht auf lange Sicht. Dein Partner kann unterstützend sein, aber nicht verantwortlich. Du musst an deinen Mustern selbst arbeiten, nicht dein Partner muss für dich leiden."
+  - "{'question': 'Wo kommt Eifersucht her?', 'answer': 'Eifersucht stammt oft aus Unsicherheiten, früheren Verletzungen oder unsicheren Bindungsmustern. Sie ist ein Signal, dass du dein Selbstwertgefühl oder Vertrauen stärken brauchst.'}"
+  - "{'question': 'Ist Eifersucht ein Zeichen von Liebe?', 'answer': 'Nein. Echte Liebe vertraut. Eifersucht ist Angst vor Verlust, nicht Liebe. Wenn du dich liebst und vertraust, kannst du eifersüchtige Gefühle loslassen.'}"
+  - "{'question': 'Wie kann ich meine Eifersucht kontrollieren?', 'answer': 'Erkenne die Eifersucht an, verstehe ihre Wurzeln, arbeite an deinem Selbstwertgefühl und lerne, zu vertrauen. Therapie kann dabei helfen, tiefere Muster zu bearbeiten.'}"
+  - "{'question': 'Sollte mein Partner meine Eifersucht einschränken, um mir zu helfen?', 'answer': 'Nicht auf lange Sicht. Dein Partner kann unterstützend sein, aber nicht verantwortlich. Du musst an deinen Mustern selbst arbeiten, nicht dein Partner muss für dich leiden.'}"
 ---
 ## Warum Eifersucht so mächtig ist
 

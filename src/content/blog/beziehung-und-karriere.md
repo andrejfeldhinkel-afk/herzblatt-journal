@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/beziehung-und-karriere.webp"
 imageAlt: "Karriereerfolg und Liebe"
 faq:
-  - question: "Muss ich meine Karriere opfern, wenn ich eine Beziehung will?"
-    answer: "Nein, nicht unbedingt. Aber eine Beziehung erfordert Zeit und Energie, und deine Karriere auch. Der Schlüssel ist intelligente Planung und Kommunikation mit deinem Partner. Einige Partner sind bereit, eine Beziehung anzupassen, wenn sie deine Ziele unterstützen."
-  - question: "Wie spreche ich mit meinem Partner über meine Karriereambitionen?"
-    answer: "Sei offen und ehrlich. Erkläre, warum dir deine Karriere wichtig ist und wie du dir vorstellen kannst, dich Zeit für die Beziehung zu nehmen. Ein Partner, der dich wirklich liebt, wird dich unterstützen. Wenn er/sie das nicht tut, könnte das eine wichtige Inkompatibilität sein."
-  - question: "Was, wenn mein Partner weniger ambitioniert ist als ich?"
-    answer: "Das kann funktionieren, aber es erfordert gegenseitigen Respekt. Du musst deine Karriere nicht runterfahren, aber dein Partner muss respektieren, dass dies wichtig für dich ist. Es ist auch wichtig, dass du ihn nicht für mangelnde Ambition verurteilst."
+  - "{'question': 'Muss ich meine Karriere opfern, wenn ich eine Beziehung will?', 'answer': 'Nein, nicht unbedingt. Aber eine Beziehung erfordert Zeit und Energie, und deine Karriere auch. Der Schlüssel ist intelligente Planung und Kommunikation mit deinem Partner. Einige Partner sind bereit, eine Beziehung anzupassen, wenn sie deine Ziele unterstützen.'}"
+  - "{'question': 'Wie spreche ich mit meinem Partner über meine Karriereambitionen?', 'answer': 'Sei offen und ehrlich. Erkläre, warum dir deine Karriere wichtig ist und wie du dir vorstellen kannst, dich Zeit für die Beziehung zu nehmen. Ein Partner, der dich wirklich liebt, wird dich unterstützen. Wenn er/sie das nicht tut, könnte das eine wichtige Inkompatibilität sein.'}"
+  - "{'question': 'Was, wenn mein Partner weniger ambitioniert ist als ich?', 'answer': 'Das kann funktionieren, aber es erfordert gegenseitigen Respekt. Du musst deine Karriere nicht runterfahren, aber dein Partner muss respektieren, dass dies wichtig für dich ist. Es ist auch wichtig, dass du ihn nicht für mangelnde Ambition verurteilst.'}"
 ---
 Der Traum vieler moderner Menschen ist, großartige Dinge in ihrer Karriere zu erreichen UND eine erfüllende romantische [beziehung](/blog/adhs-und-beziehung-komplett-guide/) zu haben. Aber der Realität ist, dass Zeit eine endliche Ressource ist, und Karriere und Liebe konkurrieren oft um deine Aufmerksamkeit.
 

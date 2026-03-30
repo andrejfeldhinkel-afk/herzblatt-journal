@@ -17,16 +17,11 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - question: "Warum helfen Umarmungen gegen Angst und Stress?"
-    answer: "Berührungen aktivieren den Parasympathikus – das Entspannungssystem des Körpers. Das Hormon Oxytocin wird ausgeschüttet, Cortisol sinkt. Eine 20-sekündige Umarmung kann den Blutdruck senken und das Nervensystem beruhigen."
-  - question: "Kann man ‚Berührungshunger' haben?"
-    answer: "Absolut. Menschen, die wenig berührt werden, entwickeln Stress, Depressionen und sogar körperliche Schmerzen. Das nennt sich ‚Skin Hunger' und ist eine echte psychologische Reaktion auf Mangel an physischen Kontakt."
-  - question: "Sind Massagen ein Ersatz für emotionale Nähe?"
-    answer: "Massagen sind wunderbar für den Körper, aber nicht als Ersatz für echte emotionale Verbindung. Sie funktionieren am besten, wenn sie Teil einer liebevollen Beziehung sind, nicht als ‚Pflichtaufgabe'."
-  - question: "Wie viel körperliche Nähe braucht man wirklich?"
-    answer: "Es gibt da keine feste Regel. Manche Menschen brauchen täglich viel Kontakt, andere weniger. Aber grundsätzlich: Regelmäßige Berührungen (mindestens täglich) sind wichtig für psychisches Wohlbefinden."
-  - question: "Was mache ich, wenn ich Berührungen eher abstoßend finde?"
-    answer: "Das kann ein Trauma-Signal sein oder einfach dein Temperament. Wichtig: Erkenne und respektiere deine Grenzen. Gleichzeitig kannst du bewusst kleine Dosen Berührung üben – das Nervensystem kann lernen, sich wieder sicher zu fühlen."
+  - "{'question': 'Warum helfen Umarmungen gegen Angst und Stress?', 'answer': 'Berührungen aktivieren den Parasympathikus – das Entspannungssystem des Körpers. Das Hormon Oxytocin wird ausgeschüttet, Cortisol sinkt. Eine 20-sekündige Umarmung kann den Blutdruck senken und das Nervensystem beruhigen.'}"
+  - "{'question': "Kann man ‚Berührungshunger' haben?", 'answer': "Absolut. Menschen, die wenig berührt werden, entwickeln Stress, Depressionen und sogar körperliche Schmerzen. Das nennt sich ‚Skin Hunger' und ist eine echte psychologische Reaktion auf Mangel an physischen Kontakt."}"
+  - "{'question': 'Sind Massagen ein Ersatz für emotionale Nähe?', 'answer': "Massagen sind wunderbar für den Körper, aber nicht als Ersatz für echte emotionale Verbindung. Sie funktionieren am besten, wenn sie Teil einer liebevollen Beziehung sind, nicht als ‚Pflichtaufgabe'."}"
+  - "{'question': 'Wie viel körperliche Nähe braucht man wirklich?', 'answer': 'Es gibt da keine feste Regel. Manche Menschen brauchen täglich viel Kontakt, andere weniger. Aber grundsätzlich: Regelmäßige Berührungen (mindestens täglich) sind wichtig für psychisches Wohlbefinden.'}"
+  - "{'question': 'Was mache ich, wenn ich Berührungen eher abstoßend finde?', 'answer': 'Das kann ein Trauma-Signal sein oder einfach dein Temperament. Wichtig: Erkenne und respektiere deine Grenzen. Gleichzeitig kannst du bewusst kleine Dosen Berührung üben – das Nervensystem kann lernen, sich wieder sicher zu fühlen.'}"
 ---
 
 Du sitzt neben deinem Partner, und er nimmt einfach deine Hand. Kein Wort wird gewechselt. Aber plötzlich fühlt sich alles ein bisschen leichter an – der Stress des Tages, die Angst, die dich gerade beschlich. Eine einfache Handberührung, und dein Körper beruhigt sich.

@@ -1,19 +1,22 @@
 ---
-title: "Solo-Polyamorie: Mehrere Beziehungen führen und trotzdem"
-author: "laura-weber"
+title: 'Solo-Polyamorie: Mehrere Beziehungen führen und trotzdem'
+author: laura-weber
 draft: false
-image: "/images/blog/solo-polyamorie-guide.webp"
-imageAlt: "Eine Person sitzt im Zentrum, mit mehreren leuchtenden Verbindungslinien zu unterschiedlichen Menschen - symbolisiert Liebe ohne Verschmelzung"
+image: /images/blog/solo-polyamorie-guide.webp
+imageAlt: Eine Person sitzt im Zentrum, mit mehreren leuchtenden Verbindungslinien
+  zu unterschiedlichen Menschen - symbolisiert Liebe ohne Verschmelzung
 tags:
-  - "Dating"
-  - "Lifestyle"
-  - "Beziehung"
+- Dating
+- Lifestyle
+- Beziehung
 keywords:
-  - "solo polyamorie"
-  - "solo poly deutsch"
-  - "polyamor und unabhängig"
-  - "mehrere beziehungen single"
-description: "Solo-Polyamorie ist nicht Promiskuität - es ist eine bewusste Lebensweise, in der du mit mehreren Menschen in Beziehung stehst, während du vollständig autonom bleibst."
+- solo polyamorie
+- solo poly deutsch
+- polyamor und unabhängig
+- mehrere beziehungen single
+description: Solo-Polyamorie ist nicht Promiskuität - es ist eine bewusste Lebensweise,
+  in der du mit mehreren Menschen in Beziehung stehst, während du vollständig autonom
+  bleibst.
 ---
 ## Solo-Polyamorie: Mehrere Beziehungen führen und trotzdem dein eigener Mensch bleiben
 

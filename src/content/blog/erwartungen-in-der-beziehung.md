@@ -17,14 +17,10 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - question: "Habe ich zu hohe Erwartungen an meinen Partner?"
-    answer: "Möglicherweise — wenn du erwartest, dass dein Partner all deine emotionalen Bedürfnisse erfüllt, immer deine Gedanken liest oder sich nie verändert. Gesunde Erwartungen basieren auf Respekt, Zuverlässigkeit und gemeinsamer Kommunikation."
-  - question: "Welche Erwartungen in einer Beziehung sind normal?"
-    answer: "Respekt, Ehrlichkeit, emotionale Präsenz, Treue (wie auch immer ihr das definiert) und die Bereitschaft, an Konflikten zu arbeiten. Das sind keine zu hohen Erwartungen — das sind Grundlagen."
-  - question: "Wie kommuniziere ich meine Erwartungen richtig?"
-    answer: "Klar, direkt und ohne Vorwurf. Formuliere Ich-Botschaften: 'Mir ist wichtig, dass...' statt 'Du solltest...'. Wähle einen ruhigen Moment und sei bereit, auch die Erwartungen deines Partners zu hören."
-  - question: "Was mache ich wenn mein Partner meine Erwartungen nie erfüllt?"
-    answer: "Prüfe zuerst, ob deine Erwartungen realistisch und klar kommuniziert sind. Wenn ja und dein Partner zeigt keine Bereitschaft, darauf einzugehen, musst du entscheiden, ob du mit dieser Realität leben kannst oder nicht."
+  - "{'question': 'Habe ich zu hohe Erwartungen an meinen Partner?', 'answer': 'Möglicherweise — wenn du erwartest, dass dein Partner all deine emotionalen Bedürfnisse erfüllt, immer deine Gedanken liest oder sich nie verändert. Gesunde Erwartungen basieren auf Respekt, Zuverlässigkeit und gemeinsamer Kommunikation.'}"
+  - "{'question': 'Welche Erwartungen in einer Beziehung sind normal?', 'answer': 'Respekt, Ehrlichkeit, emotionale Präsenz, Treue (wie auch immer ihr das definiert) und die Bereitschaft, an Konflikten zu arbeiten. Das sind keine zu hohen Erwartungen — das sind Grundlagen.'}"
+  - "{'question': 'Wie kommuniziere ich meine Erwartungen richtig?', 'answer': "Klar, direkt und ohne Vorwurf. Formuliere Ich-Botschaften: 'Mir ist wichtig, dass...' statt 'Du solltest...'. Wähle einen ruhigen Moment und sei bereit, auch die Erwartungen deines Partners zu hören."}"
+  - "{'question': 'Was mache ich wenn mein Partner meine Erwartungen nie erfüllt?', 'answer': 'Prüfe zuerst, ob deine Erwartungen realistisch und klar kommuniziert sind. Wenn ja und dein Partner zeigt keine Bereitschaft, darauf einzugehen, musst du entscheiden, ob du mit dieser Realität leben kannst oder nicht.'}"
 ---## Einleitung: Warum Erwartungen der stille Beziehungskiller Nummer 1 sind
 
 Du sitzt zu Hause, dein Partner kommt nach einem stressigen Arbeitstag nach Hause und wirft sich auf die Couch. Du erwartest, dass er dich umarmt, nach deinem Tag fragt und ein schönes Abendessen mit dir verbringst. Aber er sitzt einfach nur dort, scrollt durch sein Handy. Deine innere Stimme wird lauter: "Er interessiert sich nicht für mich", "Er liebt mich nicht genug", "Das war es, unsere [beziehung](/blog/adhs-und-beziehung-komplett-guide/) ist am Ende."

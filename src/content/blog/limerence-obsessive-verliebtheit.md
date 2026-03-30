@@ -18,16 +18,11 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - question: "Was ist Limerence genau?"
-    answer: "Limerence ist ein Zustand intensiver, obsessiver Verliebtheit, bei dem du zwanghaft an eine Person denkst, emotionale Abhängigkeit entwickelst und dein gesamtes Wohlbefinden von der Reaktion dieser Person abhängig machst. Der Begriff wurde 1979 von der Psychologin Dorothy Tennov geprägt."
-  - question: "Wie lange dauert Limerence?"
-    answer: "Unbehandelt kann Limerence zwischen 6 Monaten und 3 Jahren dauern. Bei manchen Menschen hält der Zustand sogar länger an, besonders wenn kein klares Ja oder Nein von der anderen Person kommt."
-  - question: "Ist Limerence eine psychische Erkrankung?"
-    answer: "Limerence ist keine offizielle Diagnose im DSM-5, aber ein anerkanntes psychologisches Phänomen. Es kann jedoch Symptome zeigen, die sich mit Angststörungen, OCD und Depressionen überschneiden."
-  - question: "Kann Limerence in echte Liebe übergehen?"
-    answer: "Ja, aber nur wenn beide Seiten bereit sind, eine reale Beziehung aufzubauen. Limerence basiert auf Idealisierung — echte Liebe entsteht erst, wenn du die andere Person so siehst wie sie wirklich ist."
-  - question: "Was ist der Unterschied zwischen Limerence und Verliebtheit?"
-    answer: "Normale Verliebtheit ist aufregend, aber lässt dich funktionieren. Limerence dagegen ist zwanghaft, verursacht Angst und Kontrollverlust, und dein Selbstwert hängt komplett davon ab, ob die andere Person dich zurückliebt."
+  - "{'question': 'Was ist Limerence genau?', 'answer': 'Limerence ist ein Zustand intensiver, obsessiver Verliebtheit, bei dem du zwanghaft an eine Person denkst, emotionale Abhängigkeit entwickelst und dein gesamtes Wohlbefinden von der Reaktion dieser Person abhängig machst. Der Begriff wurde 1979 von der Psychologin Dorothy Tennov geprägt.'}"
+  - "{'question': 'Wie lange dauert Limerence?', 'answer': 'Unbehandelt kann Limerence zwischen 6 Monaten und 3 Jahren dauern. Bei manchen Menschen hält der Zustand sogar länger an, besonders wenn kein klares Ja oder Nein von der anderen Person kommt.'}"
+  - "{'question': 'Ist Limerence eine psychische Erkrankung?', 'answer': 'Limerence ist keine offizielle Diagnose im DSM-5, aber ein anerkanntes psychologisches Phänomen. Es kann jedoch Symptome zeigen, die sich mit Angststörungen, OCD und Depressionen überschneiden.'}"
+  - "{'question': 'Kann Limerence in echte Liebe übergehen?', 'answer': 'Ja, aber nur wenn beide Seiten bereit sind, eine reale Beziehung aufzubauen. Limerence basiert auf Idealisierung — echte Liebe entsteht erst, wenn du die andere Person so siehst wie sie wirklich ist.'}"
+  - "{'question': 'Was ist der Unterschied zwischen Limerence und Verliebtheit?', 'answer': 'Normale Verliebtheit ist aufregend, aber lässt dich funktionieren. Limerence dagegen ist zwanghaft, verursacht Angst und Kontrollverlust, und dein Selbstwert hängt komplett davon ab, ob die andere Person dich zurückliebt.'}"
 ---
 
 Du denkst ständig an diese Person. Beim Wach werden ist sie der erste Gedanke. Beim Einschlafen der letzte. Du checkst deren Social-Media-Profile mehrmals täglich, hoffst auf eine Nachricht und spielst in deinem Kopf Szenen durch, die niemals passieren werden. Es geht dir nicht um echte Liebe — es ist etwas Dunkleres, Intensiveres, etwas Unkontrolliertes.

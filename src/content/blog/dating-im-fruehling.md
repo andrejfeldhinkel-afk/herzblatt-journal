@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/dating-im-fruehling.webp"
 imageAlt: "Paar beim Spaziergang im blühenden Park"
 faq:
-  - question: "Warum ist der Frühling gut fürs Dating?"
-    answer: "Längere Tage, besseres Wetter und mehr Aktivitäten draußen – der Frühling hebt die Stimmung und macht Menschen offener für Neues. Die Natur erwacht, und oft tun es die Gefühle auch."
-  - question: "Was sind gute Frühlings-Date-Ideen?"
-    answer: "Fahrradtour, Picknick im Park, Flohmarktbummel, Open-Air-Kino, Bootsfahrt, gemeinsam auf den Wochenmarkt gehen oder eine Wanderung machen."
-  - question: "Sind Dating-Apps im Frühling aktiver?"
-    answer: "Ja. Studien zeigen, dass die Aktivität auf Dating-Apps im Frühling deutlich ansteigt. Mehr Menschen suchen aktiv nach Dates und sind motivierter, sich zu treffen."
+  - "{'question': 'Warum ist der Frühling gut fürs Dating?', 'answer': 'Längere Tage, besseres Wetter und mehr Aktivitäten draußen – der Frühling hebt die Stimmung und macht Menschen offener für Neues. Die Natur erwacht, und oft tun es die Gefühle auch.'}"
+  - "{'question': 'Was sind gute Frühlings-Date-Ideen?', 'answer': 'Fahrradtour, Picknick im Park, Flohmarktbummel, Open-Air-Kino, Bootsfahrt, gemeinsam auf den Wochenmarkt gehen oder eine Wanderung machen.'}"
+  - "{'question': 'Sind Dating-Apps im Frühling aktiver?', 'answer': 'Ja. Studien zeigen, dass die Aktivität auf Dating-Apps im Frühling deutlich ansteigt. Mehr Menschen suchen aktiv nach Dates und sind motivierter, sich zu treffen.'}"
 ---
 ## Frühlingsgefühle sind echt
 

@@ -10,12 +10,9 @@ image: "/images/photos/online-dating-fotos.webp"
 imageAlt: "Perfekt geleuchtetes Profilfoto einer lächelnden Person"
 featured: false
 faq:
-  - question: "Wie viele Fotos sollte ich auf meinem Dating-Profil haben?"
-    answer: "Ideal sind 4-6 Fotos. Das erste ist das wichtigste (ein klares Gesichtsfoto). Danach solltest du verschiedene Aspekte zeigen: Ganzkörper, dich in Action/Hobbys, und vielleicht eines mit Freunden. Zu viele Fotos wirken wie Verweiflung, zu wenige wirken verdächtig."
-  - question: "Sollte ich mein Foto mit einem Filter bearbeiten?"
-    answer: "Minimale Bearbeitung ja, aber keine Filter. Nutze leichte Farbkorrektionen oder Hautglättung, aber dein Foto sollte immer noch wie du aussehen. Wenn dein Match dich treffen will, wird sofort sichtbar, dass du drei Filter brauchtest – das ist kontraproduktiv."
-  - question: "Sind Gruppenfotos gut für Dating-Apps?"
-    answer: "Eins ist okay (aber sei das Klarste Person), aber nicht als Hauptfoto. Wenn alle deine Fotos Gruppenfotos sind, weiß dein Match nicht, wer du bist. Nutze sie sparsam."
+  - "{'question': 'Wie viele Fotos sollte ich auf meinem Dating-Profil haben?', 'answer': 'Ideal sind 4-6 Fotos. Das erste ist das wichtigste (ein klares Gesichtsfoto). Danach solltest du verschiedene Aspekte zeigen: Ganzkörper, dich in Action/Hobbys, und vielleicht eines mit Freunden. Zu viele Fotos wirken wie Verweiflung, zu wenige wirken verdächtig.'}"
+  - "{'question': 'Sollte ich mein Foto mit einem Filter bearbeiten?', 'answer': 'Minimale Bearbeitung ja, aber keine Filter. Nutze leichte Farbkorrektionen oder Hautglättung, aber dein Foto sollte immer noch wie du aussehen. Wenn dein Match dich treffen will, wird sofort sichtbar, dass du drei Filter brauchtest – das ist kontraproduktiv.'}"
+  - "{'question': 'Sind Gruppenfotos gut für Dating-Apps?', 'answer': 'Eins ist okay (aber sei das Klarste Person), aber nicht als Hauptfoto. Wenn alle deine Fotos Gruppenfotos sind, weiß dein Match nicht, wer du bist. Nutze sie sparsam.'}"
 ---
 Dein Profilfoto ist das erste, was dein potenzielles Match sieht. Es entscheidet, ob diese Person dich überhaupt beachtet oder dich weiter wischt. Das erste Foto ist alles beim Online-[dating](/blog/anzeichen-er-steht-auf-dich/).
 

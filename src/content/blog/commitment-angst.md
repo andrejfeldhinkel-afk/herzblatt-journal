@@ -14,14 +14,10 @@ draft: false
 image: "/images/photos/commitment-angst.webp"
 imageAlt: "Person steht an einer Weggabelung"
 faq:
-  - question: "Wo kommt Commitment-Angst her?"
-    answer: "Oft aus früheren Verletzungen, unsicheren Bindungsmustern oder der Angst vor Verlust von Freiheit. Manchmal ist es auch Angst vor dem Scheitern."
-  - question: "Kann man Commitment-Angst überwinden?"
-    answer: "Ja, mit Therapie und Selbstbewusstsein. Erkenne die Angst an, verstehe ihre Wurzeln und arbeite daran, sichere Bindungsmuster zu entwickeln."
-  - question: "Sollte ich in einer Beziehung bleiben, wenn mein Partner Commitment-Angst hat?"
-    answer: "Das hängt davon ab, ob er aktiv an seiner Angst arbeitet. Wenn er unwillig ist, sich ändern zu wollen, musst du entscheiden, ob das für dich ausreicht."
-  - question: "Ist Commitment-Angst dasselbe wie Avoidant Attachment?"
-    answer: "Sie sind verwandt, aber nicht identisch. Commitment-Angst kann kurzfristig sein, während avoidant attachment ein tieferes, längerfristiges Muster ist."
+  - "{'question': 'Wo kommt Commitment-Angst her?', 'answer': 'Oft aus früheren Verletzungen, unsicheren Bindungsmustern oder der Angst vor Verlust von Freiheit. Manchmal ist es auch Angst vor dem Scheitern.'}"
+  - "{'question': 'Kann man Commitment-Angst überwinden?', 'answer': 'Ja, mit Therapie und Selbstbewusstsein. Erkenne die Angst an, verstehe ihre Wurzeln und arbeite daran, sichere Bindungsmuster zu entwickeln.'}"
+  - "{'question': 'Sollte ich in einer Beziehung bleiben, wenn mein Partner Commitment-Angst hat?', 'answer': 'Das hängt davon ab, ob er aktiv an seiner Angst arbeitet. Wenn er unwillig ist, sich ändern zu wollen, musst du entscheiden, ob das für dich ausreicht.'}"
+  - "{'question': 'Ist Commitment-Angst dasselbe wie Avoidant Attachment?', 'answer': 'Sie sind verwandt, aber nicht identisch. Commitment-Angst kann kurzfristig sein, während avoidant attachment ein tieferes, längerfristiges Muster ist.'}"
 ---
 ## Das paradoxe Gefühl
 

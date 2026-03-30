@@ -18,14 +18,10 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Was ist Future Faking?"
-    answer: "Future Faking ist eine Manipulationstechnik, bei der jemand dir eine gemeinsame Zukunft verspricht — Zusammenziehen, Heiraten, Reisen, Kinder — ohne die Absicht, diese Versprechen jemals einzulösen. Es dient dazu, dich emotional zu binden."
-  - question: "Ist Future Faking immer absichtlich?"
-    answer: "Nicht immer. Manche Menschen machen im Moment der Verliebtheit große Versprechen, die sie ehrlich meinen — aber nie umsetzen. Bei Narzissten und manipulativen Persönlichkeiten ist es jedoch oft eine bewusste Strategie."
-  - question: "Wie unterscheide ich Future Faking von echten Plänen?"
-    answer: "Echte Pläne werden konkret: Es gibt Termine, Schritte, Taten. Future Faking bleibt vage und wird immer wieder verschoben. Achte auf die Taten, nicht auf die Worte — wenn Versprechen nie zu Handlungen werden, ist es Future Faking."
-  - question: "Was tun, wenn mein Partner Future Faking betreibt?"
-    answer: "Sprich es direkt an. Sage klar, welche Versprechen gemacht wurden und dass du konkrete Schritte erwartest. Wenn sich nichts ändert und die Muster sich wiederholen, ist es Zeit, die Beziehung zu hinterfragen."
+  - "{'question': 'Was ist Future Faking?', 'answer': 'Future Faking ist eine Manipulationstechnik, bei der jemand dir eine gemeinsame Zukunft verspricht — Zusammenziehen, Heiraten, Reisen, Kinder — ohne die Absicht, diese Versprechen jemals einzulösen. Es dient dazu, dich emotional zu binden.'}"
+  - "{'question': 'Ist Future Faking immer absichtlich?', 'answer': 'Nicht immer. Manche Menschen machen im Moment der Verliebtheit große Versprechen, die sie ehrlich meinen — aber nie umsetzen. Bei Narzissten und manipulativen Persönlichkeiten ist es jedoch oft eine bewusste Strategie.'}"
+  - "{'question': 'Wie unterscheide ich Future Faking von echten Plänen?', 'answer': 'Echte Pläne werden konkret: Es gibt Termine, Schritte, Taten. Future Faking bleibt vage und wird immer wieder verschoben. Achte auf die Taten, nicht auf die Worte — wenn Versprechen nie zu Handlungen werden, ist es Future Faking.'}"
+  - "{'question': 'Was tun, wenn mein Partner Future Faking betreibt?', 'answer': 'Sprich es direkt an. Sage klar, welche Versprechen gemacht wurden und dass du konkrete Schritte erwartest. Wenn sich nichts ändert und die Muster sich wiederholen, ist es Zeit, die Beziehung zu hinterfragen.'}"
 ---
 ## Der Moment, der alles veränderte
 

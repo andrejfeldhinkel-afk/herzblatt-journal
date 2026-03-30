@@ -15,14 +15,10 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - question: "Kann man seinem Partner Fremdgehen wirklich verzeihen?"
-    answer: "Ja, verzeihen ist möglich, erfordert aber aktive Arbeit an der Beziehung und echte Reue vom Partner. Es ist nicht einfach, aber viele Paare schaffen es."
-  - question: "Wie lange dauert es, bis das Vertrauen wiederhergestellt ist?"
-    answer: "Das ist unterschiedlich - meist 1-3 Jahre intensive Arbeit. Manche Paare brauchen länger, andere schaffen es schneller. Es hängt von der Situation und dem Engagement ab."
-  - question: "Sollte ich trennen oder bleiben?"
-    answer: "Das hängt davon ab, ob dein Partner echte Reue zeigt, ob ihr bereit für Paartherapie seid, und ob die Beziehung sonst stabil war. Es gibt keine Universalantwort."
-  - question: "Was ist der größte Fehler nach Fremdgehen?"
-    answer: "Der größte Fehler ist, das Thema komplett zu verdrängen und so zu tun, als wäre nichts passiert. Das Vertrauen kann nur wachsen, wenn ihr es aktiv aufbaut."
+  - "{'question': 'Kann man seinem Partner Fremdgehen wirklich verzeihen?', 'answer': 'Ja, verzeihen ist möglich, erfordert aber aktive Arbeit an der Beziehung und echte Reue vom Partner. Es ist nicht einfach, aber viele Paare schaffen es.'}"
+  - "{'question': 'Wie lange dauert es, bis das Vertrauen wiederhergestellt ist?', 'answer': 'Das ist unterschiedlich - meist 1-3 Jahre intensive Arbeit. Manche Paare brauchen länger, andere schaffen es schneller. Es hängt von der Situation und dem Engagement ab.'}"
+  - "{'question': 'Sollte ich trennen oder bleiben?', 'answer': 'Das hängt davon ab, ob dein Partner echte Reue zeigt, ob ihr bereit für Paartherapie seid, und ob die Beziehung sonst stabil war. Es gibt keine Universalantwort.'}"
+  - "{'question': 'Was ist der größte Fehler nach Fremdgehen?', 'answer': 'Der größte Fehler ist, das Thema komplett zu verdrängen und so zu tun, als wäre nichts passiert. Das Vertrauen kann nur wachsen, wenn ihr es aktiv aufbaut.'}"
 ---
 
 ## Fremdgehen verzeihen: Kann eine beziehung nach Untreue überleben?

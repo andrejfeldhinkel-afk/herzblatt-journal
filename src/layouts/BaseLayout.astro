@@ -34,6 +34,8 @@ const {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const fullImageURL = new URL(image, Astro.site).toString();
+const safeBreadcrumbs = Array.isArray(breadcrumbs) ? breadcrumbs : [];
+const safeFaq = Array.isArray(faq) ? faq : [];
 
 // Organization Schema (on every page)
 const orgSchema = {
@@ -105,8 +107,6 @@ const articleSchema = isArticle ? {
 } : null;
 
 // Breadcrumb Schema
-const safeBreadcrumbs = Array.isArray(breadcrumbs) ? breadcrumbs : [];
-const safeFaq = Array.isArray(faq) ? faq : [];
 const breadcrumbSchema = safeBreadcrumbs.length > 0 ? {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
@@ -140,8 +140,8 @@ const faqSchema = safeFaq.length > 0 ? {
   <meta name="description" content={description} />
   <meta name="generator" content={Astro.generator} />
 
-  {keywords.length > 0 && (
-    <meta name="keywords" content={Array.isArray(keywords) ? keywords.join(", ") : (keywords || '')} />
+  {Array.isArray(keywords) && keywords.length > 0 && (
+    <meta name="keywords" content={keywords.join(", ")} />
   )}
 
   <!-- Open Graph -->
@@ -165,7 +165,7 @@ const faqSchema = safeFaq.length > 0 ? {
   <!-- OG Image dimensions -->
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
-  {isArticle && keywords.length > 0 && (
+  {isArticle && Array.isArray(keywords) && keywords.length > 0 && (
     <meta property="article:section" content={keywords[0]} />
   )}
 

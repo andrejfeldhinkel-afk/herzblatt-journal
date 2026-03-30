@@ -14,14 +14,10 @@ draft: false
 image: "/images/photos/date-ideen-kreativ.webp"
 imageAlt: "Illustration kreativer Date-Ideen"
 faq:
-  - question: "Wie teuer sollte ein Date sein?"
-    answer: "Es kommt nicht auf das Geld an. Günstige oder kostenlose Dates sind genauso bedeutungsvoll wie teure. Das Wichtigste ist, dass ihr echte Zeit zusammen verbringt."
-  - question: "Was sollte ich beim ersten Date vermeiden?"
-    answer: "Vermeide sehr lange Aktivitäten, zu viel Alkohol, Orte, wo du nicht sprechen kannst (Kino), und Aktivitäten, die zu intim sind. Wähle etwas Entspannendes und Gesprächsfreundliches."
-  - question: "Sollte ich immer den anderen beeindrucken wollen?"
-    answer: "Nein. Die beste Date-Idee ist eine, die natürlich zu dir passt. Wenn du authentisch bist, beeindruckst du mehr, als wenn du versuchst, jemanden zu beeindrucken."
-  - question: "Wie lange sollte ein Date sein?"
-    answer: "Idealerweise 2-3 Stunden. Das gibt euch Zeit zum Kennenlernen, ohne dass es zu anstrengend wird oder die Chemie nachlässt."
+  - "{'question': 'Wie teuer sollte ein Date sein?', 'answer': 'Es kommt nicht auf das Geld an. Günstige oder kostenlose Dates sind genauso bedeutungsvoll wie teure. Das Wichtigste ist, dass ihr echte Zeit zusammen verbringt.'}"
+  - "{'question': 'Was sollte ich beim ersten Date vermeiden?', 'answer': 'Vermeide sehr lange Aktivitäten, zu viel Alkohol, Orte, wo du nicht sprechen kannst (Kino), und Aktivitäten, die zu intim sind. Wähle etwas Entspannendes und Gesprächsfreundliches.'}"
+  - "{'question': 'Sollte ich immer den anderen beeindrucken wollen?', 'answer': 'Nein. Die beste Date-Idee ist eine, die natürlich zu dir passt. Wenn du authentisch bist, beeindruckst du mehr, als wenn du versuchst, jemanden zu beeindrucken.'}"
+  - "{'question': 'Wie lange sollte ein Date sein?', 'answer': 'Idealerweise 2-3 Stunden. Das gibt euch Zeit zum Kennenlernen, ohne dass es zu anstrengend wird oder die Chemie nachlässt.'}"
 ---
 ## 47 kreative Date-Ideen für jede Jahreszeit und jeden Geldbeutel
 

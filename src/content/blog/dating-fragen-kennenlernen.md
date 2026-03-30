@@ -13,10 +13,8 @@ draft: false
 image: "/images/photos/erstes-date-gespraechsthemen.webp"
 imageAlt: "50 Fragen zum Kennenlernen"
 faq:
-  - question: "Was ist das Wichtigste bei 50 fragen zum kennenlernen?"
-    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
-  - question: "Wo finde ich Hilfe zum Thema 50 fragen zum kennenlernen?"
-    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
+  - "{'question': 'Was ist das Wichtigste bei 50 fragen zum kennenlernen?', 'answer': 'Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst.'}"
+  - "{'question': 'Wo finde ich Hilfe zum Thema 50 fragen zum kennenlernen?', 'answer': 'Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung.'}"
 ---
 ## 50 Fragen zum Kennenlernen
 

@@ -15,16 +15,11 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Was ist Gaslighting genau?"
-    answer: "Gaslighting ist eine Form der emotionalen Manipulation, bei der jemand dir einredet, dass deine Wahrnehmung, Erinnerungen oder Gefühle nicht real sind. Der Manipulator versucht, dein Selbstvertrauen zu untergraben und dich abhängig zu machen."
-  - question: "Bin ich selbst schuld, wenn mein Partner gaslichtet?"
-    answer: "Nein, definitiv nicht. Gaslighting ist eine bewusste Manipulationstaktik des Partners. Es liegt nicht an dir. Viele intelligent, starke Menschen werden Opfer von Gaslighting, weil die Manipulatoren gezielt nach einfühlsamen, vertrauensvollen Menschen suchen."
-  - question: "Kann man eine Beziehung retten, wenn Gaslighting passiert?"
-    answer: "Nur wenn der Partner sein Verhalten aktiv ändern will und professionelle Hilfe sucht. Einfache Gespräche reichen nicht aus. Du musst klare Grenzen setzen und bereit sein zu gehen, falls sich nichts ändert."
-  - question: "Wie höre ich auf, mir selbst zu zweifeln?"
-    answer: "Dokumentiere Ereignisse, sprich mit vertrauenswürdigen Freunden über deine Wahrnehmung, und arbeite mit einem Therapeuten. Mit der Zeit wirst du wieder lernen, deinem Bauchgefühl zu vertrauen."
-  - question: "Wo bekomme ich Hilfe?"
-    answer: "Kontaktiere einen Therapeuten, der sich auf emotionale Manipulation spezialisiert hat, oder rufe eine Beratungshotline an. Auch Unterstützungsgruppen für Opfer von Gaslighting können unglaublich wertvoll sein."
+  - "{'question': 'Was ist Gaslighting genau?', 'answer': 'Gaslighting ist eine Form der emotionalen Manipulation, bei der jemand dir einredet, dass deine Wahrnehmung, Erinnerungen oder Gefühle nicht real sind. Der Manipulator versucht, dein Selbstvertrauen zu untergraben und dich abhängig zu machen.'}"
+  - "{'question': 'Bin ich selbst schuld, wenn mein Partner gaslichtet?', 'answer': 'Nein, definitiv nicht. Gaslighting ist eine bewusste Manipulationstaktik des Partners. Es liegt nicht an dir. Viele intelligent, starke Menschen werden Opfer von Gaslighting, weil die Manipulatoren gezielt nach einfühlsamen, vertrauensvollen Menschen suchen.'}"
+  - "{'question': 'Kann man eine Beziehung retten, wenn Gaslighting passiert?', 'answer': 'Nur wenn der Partner sein Verhalten aktiv ändern will und professionelle Hilfe sucht. Einfache Gespräche reichen nicht aus. Du musst klare Grenzen setzen und bereit sein zu gehen, falls sich nichts ändert.'}"
+  - "{'question': 'Wie höre ich auf, mir selbst zu zweifeln?', 'answer': 'Dokumentiere Ereignisse, sprich mit vertrauenswürdigen Freunden über deine Wahrnehmung, und arbeite mit einem Therapeuten. Mit der Zeit wirst du wieder lernen, deinem Bauchgefühl zu vertrauen.'}"
+  - "{'question': 'Wo bekomme ich Hilfe?', 'answer': 'Kontaktiere einen Therapeuten, der sich auf emotionale Manipulation spezialisiert hat, oder rufe eine Beratungshotline an. Auch Unterstützungsgruppen für Opfer von Gaslighting können unglaublich wertvoll sein.'}"
 ---
 
 ## Was ist Gaslighting überhaupt?

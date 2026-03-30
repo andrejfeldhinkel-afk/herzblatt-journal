@@ -13,10 +13,8 @@ draft: false
 image: "/images/photos/liebe-nach-30.webp"
 imageAlt: "Selbstbewusste Person beim Date in einem Café"
 faq:
-  - question: "Ist 30 zu alt zum Daten?"
-    answer: "Absolut nicht. Viele Menschen finden in ihren 30ern die erfüllendsten Beziehungen, weil sie mehr Selbstkenntnis und Klarheit haben."
-  - question: "Wo lerne ich mit 30 am besten neue Leute kennen?"
-    answer: "Neben Dating-Apps sind Hobbys, Sport, Weiterbildungen und das erweiterte Freundeskreis hervorragende Möglichkeiten."
+  - "{'question': 'Ist 30 zu alt zum Daten?', 'answer': 'Absolut nicht. Viele Menschen finden in ihren 30ern die erfüllendsten Beziehungen, weil sie mehr Selbstkenntnis und Klarheit haben.'}"
+  - "{'question': 'Wo lerne ich mit 30 am besten neue Leute kennen?', 'answer': 'Neben Dating-Apps sind Hobbys, Sport, Weiterbildungen und das erweiterte Freundeskreis hervorragende Möglichkeiten.'}"
 ---
 
 ## Warum 30 das neue dating-Goldzeitalter ist

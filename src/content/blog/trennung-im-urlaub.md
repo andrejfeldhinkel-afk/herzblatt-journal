@@ -16,16 +16,11 @@ draft: false
 featured: false
 author: "laura-weber"
 faq:
-  - question: "Sollten wir den Urlaub abbrechen, wenn die Beziehung im Urlaub in die Brüche geht?"
-    answer: "Nicht sofort. Gebt euch ein paar Tage Zeit. Der erste Schmerz ist am intensivsten. Wenn nach 3-4 Tagen nichts besser wird: Ja, fahrt nach Hause. Aber nicht in Panik."
-  - question: "Was tue ich, wenn mein Partner mich im Urlaub verlässt?"
-    answer: "Das ist brutal. Zuerst: Ruhe bewahren. Ruf ein Familienmitglied oder einen Freund an. Buchung ändern, wenn möglich. Allein auf Urlaub ist hart, aber durchzuhalten ist möglich."
-  - question: "Kann ich den Urlaub mit meinem Ex verbringen oder sollte ich gehen?"
-    answer: "Das hängt vom Ausmaß der Trennung ab. Wenn romantisch vorbei, aber noch freundschaftlich: Ja, könnte funktionieren. Wenn toxisch: Nein, hole dich selbst raus. Deine Geistesgesundheit ist wichtiger."
-  - question: "Wie gehe ich damit um, wenn wir den Urlaub nicht stornieren können?"
-    answer: "Macht euch nicht zu Stress. Separate Zimmer, wenn möglich. Nutzt die Zeit zur Reflexion statt für Konflikte. Manchmal helfen Tage ohne Druck, klarer zu sehen."
-  - question: "Wird ein Urlaub die Beziehung retten, wenn sie am Brechen ist?"
-    answer: "Nein. Das ist ein Mythos. Ein Urlaub kann Probleme kurzzeitig kaschieren, aber nicht lösen. Wenn die Beziehung bröckelt, wird ein Urlaub das Problem eher verschärfen."
+  - "{'question': 'Sollten wir den Urlaub abbrechen, wenn die Beziehung im Urlaub in die Brüche geht?', 'answer': 'Nicht sofort. Gebt euch ein paar Tage Zeit. Der erste Schmerz ist am intensivsten. Wenn nach 3-4 Tagen nichts besser wird: Ja, fahrt nach Hause. Aber nicht in Panik.'}"
+  - "{'question': 'Was tue ich, wenn mein Partner mich im Urlaub verlässt?', 'answer': 'Das ist brutal. Zuerst: Ruhe bewahren. Ruf ein Familienmitglied oder einen Freund an. Buchung ändern, wenn möglich. Allein auf Urlaub ist hart, aber durchzuhalten ist möglich.'}"
+  - "{'question': 'Kann ich den Urlaub mit meinem Ex verbringen oder sollte ich gehen?', 'answer': 'Das hängt vom Ausmaß der Trennung ab. Wenn romantisch vorbei, aber noch freundschaftlich: Ja, könnte funktionieren. Wenn toxisch: Nein, hole dich selbst raus. Deine Geistesgesundheit ist wichtiger.'}"
+  - "{'question': 'Wie gehe ich damit um, wenn wir den Urlaub nicht stornieren können?', 'answer': 'Macht euch nicht zu Stress. Separate Zimmer, wenn möglich. Nutzt die Zeit zur Reflexion statt für Konflikte. Manchmal helfen Tage ohne Druck, klarer zu sehen.'}"
+  - "{'question': 'Wird ein Urlaub die Beziehung retten, wenn sie am Brechen ist?', 'answer': 'Nein. Das ist ein Mythos. Ein Urlaub kann Probleme kurzzeitig kaschieren, aber nicht lösen. Wenn die Beziehung bröckelt, wird ein Urlaub das Problem eher verschärfen.'}"
 ---
 
 ## Der Traum wird zum Alptraum

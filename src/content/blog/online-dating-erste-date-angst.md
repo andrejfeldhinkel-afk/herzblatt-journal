@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/online-dating-erste-date-angst.webp"
 imageAlt: "Nervöse Person vor einem Date"
 faq:
-  - question: "Ist es normal, Angst vor einem Date zu haben?"
-    answer: "Ja, absolut. Die meisten Menschen sind nervös vor einem Date. Es zeigt, dass dir etwas wichtig ist. Nervosität ist nicht Bösartiges – es ist dein Körper, der aufmerksam ist."
-  - question: "Wie kann ich meine Nervosität in der Öffentlichkeit verbergen?"
-    answer: "Konzentriere dich auf Atmung und Körpersprache. Sitze aufrecht, sorge dafür, dass dein Gesicht offen ist. Vergessen Sie nicht zu lächeln. Und denken Sie daran, dass die andere Person wahrscheinlich auch nervös ist."
-  - question: "Was ist, wenn das Treffen nicht das ist, was ich erwartet habe?"
-    answer: "Das ist völlig in Ordnung. Chemie entwickelt sich nicht immer beim ersten Treffen. Sei höflich, gib dem Date eine Chance, aber wenn es nicht funktioniert, ist das akzeptabel. Nicht jeder ist für jeden bestimmt."
+  - "{'question': 'Ist es normal, Angst vor einem Date zu haben?', 'answer': 'Ja, absolut. Die meisten Menschen sind nervös vor einem Date. Es zeigt, dass dir etwas wichtig ist. Nervosität ist nicht Bösartiges – es ist dein Körper, der aufmerksam ist.'}"
+  - "{'question': 'Wie kann ich meine Nervosität in der Öffentlichkeit verbergen?', 'answer': 'Konzentriere dich auf Atmung und Körpersprache. Sitze aufrecht, sorge dafür, dass dein Gesicht offen ist. Vergessen Sie nicht zu lächeln. Und denken Sie daran, dass die andere Person wahrscheinlich auch nervös ist.'}"
+  - "{'question': 'Was ist, wenn das Treffen nicht das ist, was ich erwartet habe?', 'answer': 'Das ist völlig in Ordnung. Chemie entwickelt sich nicht immer beim ersten Treffen. Sei höflich, gib dem Date eine Chance, aber wenn es nicht funktioniert, ist das akzeptabel. Nicht jeder ist für jeden bestimmt.'}"
 ---
 
 Du kennst das: überwinden. Dann geht es dir wie vielen anderen — und erste ist dabei ein zentraler Faktor, den du nicht ignorieren solltest. In diesem Artikel zeigen wir dir, wie du damit umgehen kannst.

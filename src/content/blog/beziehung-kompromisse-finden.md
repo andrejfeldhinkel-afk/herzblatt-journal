@@ -17,16 +17,11 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Ist es unhealthy, immer Kompromisse zu machen?"
-    answer: "Ja. Wenn du ständig nachgibst, verlierst du dich selbst. Langfristig führt das zu Ressentiments und Verbittertheit. Echte Beziehungen brauchen ein ausgewogenes Geben und Nehmen — nicht nur Nehmen von dir."
-  - question: "Wie erkenne ich, ob etwas ein Deal-Breaker für mich ist?"
-    answer: "Fühle in dich hinein: Würde ich mich selbst nicht mehr kennen, wenn ich hier nachgebe? Fühlt es sich wie Verrat an meinen Werten an? Das sind Zeichen, dass es nicht nur um ein Thema geht, sondern um deine Integrität."
-  - question: "Was mache ich, wenn wir immer bei denselben Themen kollidieren?"
-    answer: "Das deutet oft auf unterschiedliche Wertesysteme hin. Manchmal braucht es die Hilfe eines Paartherapeuten, um diese zu verstehen. Aber du kannst auch fragen: 'Warum ist das dir so wichtig?' Oft findet man dann einen Weg."
-  - question: "Können Kompromisse eine Beziehung schwächen?"
-    answer: "Falsche Kompromisse ja — diejenigen, bei denen einer sich aufopfert. Echte Kompromisse, bei denen beide etwas geben und etwas gewinnen, stärken die Beziehung. Der Unterschied liegt in der Qualität, nicht in der Quantität."
-  - question: "Was ist der Unterschied zwischen Kompromiss und Kompromisslose Liebe?"
-    answer: "Kompromiss heißt, nicht alles zu bekommen, was man will — aber respektvoll zusammenzuleben. Kompromisslose Liebe heißt, dass man sich bei fundamentalen Werten nicht verbiegen lässt. Es sind zwei verschiedene Ebenen."
+  - "{'question': 'Ist es unhealthy, immer Kompromisse zu machen?', 'answer': 'Ja. Wenn du ständig nachgibst, verlierst du dich selbst. Langfristig führt das zu Ressentiments und Verbittertheit. Echte Beziehungen brauchen ein ausgewogenes Geben und Nehmen — nicht nur Nehmen von dir.'}"
+  - "{'question': 'Wie erkenne ich, ob etwas ein Deal-Breaker für mich ist?', 'answer': 'Fühle in dich hinein: Würde ich mich selbst nicht mehr kennen, wenn ich hier nachgebe? Fühlt es sich wie Verrat an meinen Werten an? Das sind Zeichen, dass es nicht nur um ein Thema geht, sondern um deine Integrität.'}"
+  - "{'question': 'Was mache ich, wenn wir immer bei denselben Themen kollidieren?', 'answer': "Das deutet oft auf unterschiedliche Wertesysteme hin. Manchmal braucht es die Hilfe eines Paartherapeuten, um diese zu verstehen. Aber du kannst auch fragen: 'Warum ist das dir so wichtig?' Oft findet man dann einen Weg."}"
+  - "{'question': 'Können Kompromisse eine Beziehung schwächen?', 'answer': 'Falsche Kompromisse ja — diejenigen, bei denen einer sich aufopfert. Echte Kompromisse, bei denen beide etwas geben und etwas gewinnen, stärken die Beziehung. Der Unterschied liegt in der Qualität, nicht in der Quantität.'}"
+  - "{'question': 'Was ist der Unterschied zwischen Kompromiss und Kompromisslose Liebe?', 'answer': 'Kompromiss heißt, nicht alles zu bekommen, was man will — aber respektvoll zusammenzuleben. Kompromisslose Liebe heißt, dass man sich bei fundamentalen Werten nicht verbiegen lässt. Es sind zwei verschiedene Ebenen.'}"
 ---
 
 ## Kompromisse in der beziehung: Wann ja und wann nein

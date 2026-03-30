@@ -15,14 +15,10 @@ draft: false
 image: "/images/photos/dating-berlin.webp"
 imageAlt: "Berliner Skyline mit Fernsehturm und Spree"
 faq:
-  - question: "Wo kann man in Berlin am besten Singles kennenlernen?"
-    answer: "Die besten Orte zum Kennenlernen sind die Bars in Kreuzberg und Friedrichshain (besonders am Wochenende), die Clubs an der Spree, die Cafés in Prenzlauer Berg und die Open-Air-Events im Sommer. Dating-Apps wie Tinder und Bumble sind in Berlin ebenfalls sehr aktiv, besonders weil die Stadt eine junge, mobile Bevölkerung hat."
-  - question: "Welche Dating-Apps sind in Berlin besonders beliebt?"
-    answer: "Tinder und Bumble dominieren die Berlin Dating-Szene, aber auch Hinge und Once sind bei anspruchsvolleren Singles beliebt. Lokale Gruppen in sozialen Medien organisieren auch Single-Events in verschiedenen Bezirken. Die Berliner sind generell offen und nutzen gerne Apps, um neue Menschen kennenzulernen."
-  - question: "Was sind die besten Date-Ideen in Berlin?"
-    answer: "Klassische Dates: Spaziergang entlang der Spree, Besuch eines Biergartens, Picknick im Tiergarten oder Mauerpark. Aktive Dates: Fahrradtour durch die Stadt, Kletterpark, Floßfahrt auf der Dahme. Kulturelle Dates: Street Art Tour in Kreuzberg, Museum Island, Kino in Friedrichshain. Kulinarische Dates: Markthalle Neun, Street Food beim Thursday Nights, Craft-Bier-Bar in Kreuzberg."
-  - question: "Gibt es in Berlin eine gute Single-Szene?"
-    answer: "Absolut! Berlin hat eine der lebendigsten Single-Szenen in Deutschland. Die Stadt ist jung, liberal und offen. Es gibt regelmäßig Single-Events, Speed-Dating-Abende, Salsa-Kurse, Tanzkurse und Social-Events speziell für Singles. Die Kultur ist unkompliziert und Menschen sind generell sehr aufgeschlossen für neue Bekanntschaften."
+  - "{'question': 'Wo kann man in Berlin am besten Singles kennenlernen?', 'answer': 'Die besten Orte zum Kennenlernen sind die Bars in Kreuzberg und Friedrichshain (besonders am Wochenende), die Clubs an der Spree, die Cafés in Prenzlauer Berg und die Open-Air-Events im Sommer. Dating-Apps wie Tinder und Bumble sind in Berlin ebenfalls sehr aktiv, besonders weil die Stadt eine junge, mobile Bevölkerung hat.'}"
+  - "{'question': 'Welche Dating-Apps sind in Berlin besonders beliebt?', 'answer': 'Tinder und Bumble dominieren die Berlin Dating-Szene, aber auch Hinge und Once sind bei anspruchsvolleren Singles beliebt. Lokale Gruppen in sozialen Medien organisieren auch Single-Events in verschiedenen Bezirken. Die Berliner sind generell offen und nutzen gerne Apps, um neue Menschen kennenzulernen.'}"
+  - "{'question': 'Was sind die besten Date-Ideen in Berlin?', 'answer': 'Klassische Dates: Spaziergang entlang der Spree, Besuch eines Biergartens, Picknick im Tiergarten oder Mauerpark. Aktive Dates: Fahrradtour durch die Stadt, Kletterpark, Floßfahrt auf der Dahme. Kulturelle Dates: Street Art Tour in Kreuzberg, Museum Island, Kino in Friedrichshain. Kulinarische Dates: Markthalle Neun, Street Food beim Thursday Nights, Craft-Bier-Bar in Kreuzberg.'}"
+  - "{'question': 'Gibt es in Berlin eine gute Single-Szene?', 'answer': 'Absolut! Berlin hat eine der lebendigsten Single-Szenen in Deutschland. Die Stadt ist jung, liberal und offen. Es gibt regelmäßig Single-Events, Speed-Dating-Abende, Salsa-Kurse, Tanzkurse und Social-Events speziell für Singles. Die Kultur ist unkompliziert und Menschen sind generell sehr aufgeschlossen für neue Bekanntschaften.'}"
 ---
 ## Dating in Berlin: Wo die Liebe auf der Spree fließt
 

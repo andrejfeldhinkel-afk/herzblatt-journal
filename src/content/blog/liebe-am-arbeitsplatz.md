@@ -14,14 +14,10 @@ draft: false
 image: "/images/photos/liebe-am-arbeitsplatz.webp"
 imageAlt: "Zwei Professionelle im Büro"
 faq:
-  - question: "Ist es professional, sich mit einem Kollegen zu verabreden?"
-    answer: "Das hängt von deinem Unternehmen ab. Viele Unternehmen haben Richtlinien. Überprüfe diese zuerst. Wenn erlaubt, sei diskret und halte Arbeit und Beziehung getrennt."
-  - question: "Wie sage ich einem Arbeitskollegen, dass ich ihn mag?"
-    answer: "Sei direkt aber respektvoll. Wähle einen privaten Moment außerhalb der Arbeit oder später nach Feierabend. Respektiere eine Ablehnung ohne Drama."
-  - question: "Was tun, wenn die Beziehung am Arbeitsplatz endet?"
-    answer: "Sei professionell. Keine öffentlichen Spannungen, keine Intrigen. Ihr könnt freundlich bleiben oder Distanz halten — je nachdem was sich richtig anfühlt."
-  - question: "Sollte ich meinen Chef oder direkten Vorgesetzten daten?"
-    answer: "Nein. Das schafft Machtdynamiken und kann Favoritism oder Nepotismus-Verdacht auslösen. Es ist zu riskant für beide Parteien."
+  - "{'question': 'Ist es professional, sich mit einem Kollegen zu verabreden?', 'answer': 'Das hängt von deinem Unternehmen ab. Viele Unternehmen haben Richtlinien. Überprüfe diese zuerst. Wenn erlaubt, sei diskret und halte Arbeit und Beziehung getrennt.'}"
+  - "{'question': 'Wie sage ich einem Arbeitskollegen, dass ich ihn mag?', 'answer': 'Sei direkt aber respektvoll. Wähle einen privaten Moment außerhalb der Arbeit oder später nach Feierabend. Respektiere eine Ablehnung ohne Drama.'}"
+  - "{'question': 'Was tun, wenn die Beziehung am Arbeitsplatz endet?', 'answer': 'Sei professionell. Keine öffentlichen Spannungen, keine Intrigen. Ihr könnt freundlich bleiben oder Distanz halten — je nachdem was sich richtig anfühlt.'}"
+  - "{'question': 'Sollte ich meinen Chef oder direkten Vorgesetzten daten?', 'answer': 'Nein. Das schafft Machtdynamiken und kann Favoritism oder Nepotismus-Verdacht auslösen. Es ist zu riskant für beide Parteien.'}"
 ---
 ## Die Anziehung am Arbeitsplatz ist völlig normal
 

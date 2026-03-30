@@ -14,12 +14,9 @@ draft: false
 image: "/images/photos/dating-trier.webp"
 imageAlt: "Trier Porta Nigra"
 faq:
-  - question: "Wo lernt man in Trier Singles kennen?"
-    answer: "Die beste Single-Szene findest du in den Weinkneipes der Altstadt, besonders rund um die Porta Nigra und die Simeonstraße. Auch die Studentenbars am Viehmarkt sind großartig für Treffen."
-  - question: "Was sind die besten Date-Ideen in Trier?"
-    answer: "Ein romantischer Spaziergang an der Mosel, eine Weinverkostung im Weingut oder ein Picknick in der UNESCO-Altstadt. Im Sommer sind die Flussufergärten ideal für Dates."
-  - question: "Gibt es eine gute Single-Szene in Trier?"
-    answer: "Ja! Trier hat eine lebendige Single-Community. Die Stadt ist klein genug zum Flirten, aber groß genug mit vielen Treffpunkten. Besonders die Uni-Nähe bringt junge Singles zusammen."
+  - "{'question': 'Wo lernt man in Trier Singles kennen?', 'answer': 'Die beste Single-Szene findest du in den Weinkneipes der Altstadt, besonders rund um die Porta Nigra und die Simeonstraße. Auch die Studentenbars am Viehmarkt sind großartig für Treffen.'}"
+  - "{'question': 'Was sind die besten Date-Ideen in Trier?', 'answer': 'Ein romantischer Spaziergang an der Mosel, eine Weinverkostung im Weingut oder ein Picknick in der UNESCO-Altstadt. Im Sommer sind die Flussufergärten ideal für Dates.'}"
+  - "{'question': 'Gibt es eine gute Single-Szene in Trier?', 'answer': 'Ja! Trier hat eine lebendige Single-Community. Die Stadt ist klein genug zum Flirten, aber groß genug mit vielen Treffpunkten. Besonders die Uni-Nähe bringt junge Singles zusammen.'}"
 ---
 ## Willkommen in Trier – Der perfekte Ort zum Verlieben
 

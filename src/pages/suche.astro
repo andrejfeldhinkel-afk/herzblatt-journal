@@ -12,7 +12,7 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
 const searchIndex = posts.map(p => ({
   title: p.data.title,
   description: p.data.description,
-  tags: p.data.tags || [],
+  tags: p.data.tags,
   slug: p.id,
   image: p.data.image,
   date: p.data.date ? new Date(p.data.date).toISOString().split('T')[0] : '',
@@ -77,7 +77,7 @@ const searchIndex = posts.map(p => ({
     const matches = searchIndex.filter(p =>
       p.title.toLowerCase().includes(q) ||
       p.description.toLowerCase().includes(q) ||
-      p.tags.some(t => t.toLowerCase().includes(q))
+      (p.tags || []).some(t => t.toLowerCase().includes(q))
     );
     if (matches.length === 0) {
       results.innerHTML = '';

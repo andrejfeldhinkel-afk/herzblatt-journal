@@ -18,14 +18,10 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - question: "Was ist Emotional Detachment?"
-    answer: "Emotional Detachment ist ein Zustand, in dem du dich innerlich von deinem Partner oder deinen Gefühlen abkoppelst. Du funktionierst, aber du fühlst nicht. Es ist ein Schutzmechanismus der sich verselbstständigt hat."
-  - question: "Ist Emotional Detachment das gleiche wie nicht mehr lieben?"
-    answer: "Nein. Detachment ist oft ein Schutz VOR Gefühlen — nicht das Fehlen von Gefühlen. Die Liebe kann unter der Schutzmauer noch da sein. Der Unterschied: Bei echtem Nicht-mehr-Lieben fehlt auch der Schmerz."
-  - question: "Kann Emotional Detachment geheilt werden?"
-    answer: "Ja, mit der richtigen Unterstützung. Der erste Schritt ist das Erkennen und Akzeptieren. Therapie (besonders somatische Therapie oder EMDR) kann helfen, den Zugang zu Emotionen wiederherzustellen."
-  - question: "Was tun wenn mein Partner emotional detached ist?"
-    answer: "Geduld, keine Vorwürfe, und sanftes Anbieten von Sicherheit. Sage: 'Ich bin da, auch wenn du gerade nichts fühlen kannst.' Druck erzeugt mehr Rückzug. Schlage professionelle Hilfe vor — als gemeinsamen Weg, nicht als Vorwurf."
+  - "{'question': 'Was ist Emotional Detachment?', 'answer': 'Emotional Detachment ist ein Zustand, in dem du dich innerlich von deinem Partner oder deinen Gefühlen abkoppelst. Du funktionierst, aber du fühlst nicht. Es ist ein Schutzmechanismus der sich verselbstständigt hat.'}"
+  - "{'question': 'Ist Emotional Detachment das gleiche wie nicht mehr lieben?', 'answer': 'Nein. Detachment ist oft ein Schutz VOR Gefühlen — nicht das Fehlen von Gefühlen. Die Liebe kann unter der Schutzmauer noch da sein. Der Unterschied: Bei echtem Nicht-mehr-Lieben fehlt auch der Schmerz.'}"
+  - "{'question': 'Kann Emotional Detachment geheilt werden?', 'answer': 'Ja, mit der richtigen Unterstützung. Der erste Schritt ist das Erkennen und Akzeptieren. Therapie (besonders somatische Therapie oder EMDR) kann helfen, den Zugang zu Emotionen wiederherzustellen.'}"
+  - "{'question': 'Was tun wenn mein Partner emotional detached ist?', 'answer': "Geduld, keine Vorwürfe, und sanftes Anbieten von Sicherheit. Sage: 'Ich bin da, auch wenn du gerade nichts fühlen kannst.' Druck erzeugt mehr Rückzug. Schlage professionelle Hilfe vor — als gemeinsamen Weg, nicht als Vorwurf."}"
 ---
 
 Du sitzt neben dieser Person die du liebst (oder liebtest?) und du fühlst... nichts. Nicht Liebe. Nicht Hass. Nicht Frustration. Nicht Freude. Du bist leer.

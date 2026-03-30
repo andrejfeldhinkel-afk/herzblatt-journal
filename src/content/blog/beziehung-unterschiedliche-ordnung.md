@@ -14,12 +14,9 @@ keywords:
 draft: false
 author: "laura-weber"
 faq:
-  - question: "Wie gehe ich damit um dass mein Partner unordentlich ist?"
-    answer: "Klare Bereiche definieren, Kompromisse finden und Erwartungen offen kommunizieren. Ein gemeinsamer Putzplan kann Wunder wirken — solange beide sich dran halten."
-  - question: "Ist Unordnung ein Trennungsgrund?"
-    answer: "Unordnung an sich nicht. Aber wenn dahinter mangelnder Respekt steckt und trotz Gesprächen nichts passiert, kann es zum Symbol für ein tieferes Problem werden."
-  - question: "Kann man einen unordentlichen Partner ändern?"
-    answer: "Nicht komplett, aber Kompromisse sind möglich. Akzeptiere, dass dein Partner nie so ordentlich sein wird wie du — und finde gemeinsam einen Mittelweg."
+  - "{'question': 'Wie gehe ich damit um dass mein Partner unordentlich ist?', 'answer': 'Klare Bereiche definieren, Kompromisse finden und Erwartungen offen kommunizieren. Ein gemeinsamer Putzplan kann Wunder wirken — solange beide sich dran halten.'}"
+  - "{'question': 'Ist Unordnung ein Trennungsgrund?', 'answer': 'Unordnung an sich nicht. Aber wenn dahinter mangelnder Respekt steckt und trotz Gesprächen nichts passiert, kann es zum Symbol für ein tieferes Problem werden.'}"
+  - "{'question': 'Kann man einen unordentlichen Partner ändern?', 'answer': 'Nicht komplett, aber Kompromisse sind möglich. Akzeptiere, dass dein Partner nie so ordentlich sein wird wie du — und finde gemeinsam einen Mittelweg.'}"
 ---
 Du kommst nach Hause und siehst: Socken auf dem Wohnzimmerboden. Die Tasse von diesem Morgen steht noch auf dem Tisch. Seine Jacke hängt über dem Stuhl. Ein Chaos von kleinen Dingen die nichts mit dir zu tun haben und doch Tränen der Frustration in dir hochbringen.
 

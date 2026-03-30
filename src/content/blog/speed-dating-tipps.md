@@ -15,12 +15,9 @@ keywords:
   - "Schnelle Dates"
   - "Dating Ratgeber"
 faq:
-  - question: "Was sollte ich beim Speed Dating anziehen?"
-    answer: "Etwas, das Sie selbstbewusst macht und in dem Sie sich wohl fühlen. Intelligente Freizeitkleidung ist normalerweise angemessen. Vermeiden Sie etwas zu Formelles oder Sexuellem."
-  - question: "Wie kann ich in nur 5 Minuten eine Verbindung aufbauen?"
-    answer: "Stellen Sie gute Fragen, höre aktiv zu, sei präsent und authentisch. Vermeiden Sie das Überreden Ihres Lebens oder Ihre ganze Geschichte zu erzählen."
-  - question: "Was ist, wenn ich nicht verlangen werde?"
-    answer: "Das ist völlig normal. Speed Dating ist ein Zahlenspiel. Jeder wird nicht mit jedem kompatibel sein. Konzentrieren Sie sich auf Qualität statt Quantität."
+  - "{'question': 'Was sollte ich beim Speed Dating anziehen?', 'answer': 'Etwas, das Sie selbstbewusst macht und in dem Sie sich wohl fühlen. Intelligente Freizeitkleidung ist normalerweise angemessen. Vermeiden Sie etwas zu Formelles oder Sexuellem.'}"
+  - "{'question': 'Wie kann ich in nur 5 Minuten eine Verbindung aufbauen?', 'answer': 'Stellen Sie gute Fragen, höre aktiv zu, sei präsent und authentisch. Vermeiden Sie das Überreden Ihres Lebens oder Ihre ganze Geschichte zu erzählen.'}"
+  - "{'question': 'Was ist, wenn ich nicht verlangen werde?', 'answer': 'Das ist völlig normal. Speed Dating ist ein Zahlenspiel. Jeder wird nicht mit jedem kompatibel sein. Konzentrieren Sie sich auf Qualität statt Quantität.'}"
 ---
 Speed [dating](/blog/anzeichen-er-steht-auf-dich/) kann eine unterhaltsame und effiziente Möglichkeit sein, potenzielle Partner kennenzulernen. In nur fünf Minuten pro Person müssen Sie einen großartigen Eindruck machen. In diesem Leitfaden erfahren Sie, wie Sie beim Speed Dating erfolgreich sind.
 

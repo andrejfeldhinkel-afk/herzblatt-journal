@@ -17,14 +17,10 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Was bedeutet emotional unerreichbar?"
-    answer: "Ein emotional unerreichbarer Partner vermeidet tiefe emotionale Nähe. Er oder sie kann Gefühle nicht zeigen, über Emotionen nicht sprechen und zieht sich bei emotionalen Themen zurück — oft ohne es selbst zu merken."
-  - question: "Kann ein emotional unerreichbarer Partner sich ändern?"
-    answer: "Ja, aber nur wenn die Person selbst erkennt, dass ein Problem besteht, und bereit ist, daran zu arbeiten — idealerweise mit therapeutischer Unterstützung. Du kannst den Anstoß geben, aber die Arbeit muss von der Person selbst kommen."
-  - question: "Warum ziehe ich immer emotional unerreichbare Partner an?"
-    answer: "Oft liegt das an eigenen Bindungsmustern aus der Kindheit. Wenn du mit einem emotional distanzierten Elternteil aufgewachsen bist, kann sich diese Dynamik vertraut anfühlen — auch wenn sie schmerzt. Selbstreflexion und ggf. Therapie helfen, dieses Muster zu durchbrechen."
-  - question: "Wann sollte ich die Beziehung beenden?"
-    answer: "Wenn du über Monate hinweg deine Bedürfnisse klar kommuniziert hast, aber keine Veränderung kommt. Wenn die Beziehung dich mehr erschöpft als bereichert und dein Selbstwert leidet, ist es Zeit, dich selbst an erste Stelle zu setzen."
+  - "{'question': 'Was bedeutet emotional unerreichbar?', 'answer': 'Ein emotional unerreichbarer Partner vermeidet tiefe emotionale Nähe. Er oder sie kann Gefühle nicht zeigen, über Emotionen nicht sprechen und zieht sich bei emotionalen Themen zurück — oft ohne es selbst zu merken.'}"
+  - "{'question': 'Kann ein emotional unerreichbarer Partner sich ändern?', 'answer': 'Ja, aber nur wenn die Person selbst erkennt, dass ein Problem besteht, und bereit ist, daran zu arbeiten — idealerweise mit therapeutischer Unterstützung. Du kannst den Anstoß geben, aber die Arbeit muss von der Person selbst kommen.'}"
+  - "{'question': 'Warum ziehe ich immer emotional unerreichbare Partner an?', 'answer': 'Oft liegt das an eigenen Bindungsmustern aus der Kindheit. Wenn du mit einem emotional distanzierten Elternteil aufgewachsen bist, kann sich diese Dynamik vertraut anfühlen — auch wenn sie schmerzt. Selbstreflexion und ggf. Therapie helfen, dieses Muster zu durchbrechen.'}"
+  - "{'question': 'Wann sollte ich die Beziehung beenden?', 'answer': 'Wenn du über Monate hinweg deine Bedürfnisse klar kommuniziert hast, aber keine Veränderung kommt. Wenn die Beziehung dich mehr erschöpft als bereichert und dein Selbstwert leidet, ist es Zeit, dich selbst an erste Stelle zu setzen.'}"
 ---
 ## Einleitung: Das Gefühl, an eine Wand zu sprechen
 

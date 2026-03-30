@@ -92,7 +92,7 @@ const ogImage = post.data.image || '/og-default.png';
   isArticle={true}
   keywords={post.data.keywords || []}
   datePublished={postDate ? postDate.toISOString() : ''}
-  dateModified={post.data.updated ? new Date(post.data.updated).toISOString() : (postDate ? postDate.toISOString() : '')}
+  dateModified={post.data.updated ? (post.data.updated instanceof Date ? post.data.updated : new Date(post.data.updated)).toISOString() : (postDate ? postDate.toISOString() : '')}
   breadcrumbs={breadcrumbs}
   faq={post.data.faq || []}
 >
@@ -146,7 +146,7 @@ const ogImage = post.data.image || '/og-default.png';
               <div>
                 <p class="text-sm font-semibold" style="color: var(--text);">Herzblatt Journal</p>
                 <div class="flex items-center gap-2 text-xs" style="color: var(--text-muted);">
-                  {postDate ? <time datetime={postDate.toISOString()}>{formattedDate}</time> : <span>{formattedDate}</span>}
+                  {postDate && <time datetime={postDate.toISOString()}>{formattedDate}</time>}
                   <span>·</span>
                   <span>{readingTime} Min. Lesezeit</span>
                 </div>

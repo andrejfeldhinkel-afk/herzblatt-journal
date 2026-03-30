@@ -15,12 +15,9 @@ keywords:
   - "Shy Dating"
   - "Introvert Tipps"
 faq:
-  - question: "Ist Online-Dating besser für Introvertierte?"
-    answer: "Oft ja. Online-Dating erlaubt Ihnen, in Ihrer Komfortzone zu sein und tiefe Konversationen durch Messaging zu führen, bevor Sie sich in Person treffen."
-  - question: "Wie kann ich mein Unbehagen in sozialen Situationen überwinden?"
-    answer: "Erinnern Sie sich daran, dass Sie nicht allein sind – die andere Person ist wahrscheinlich auch nervös. Beginnen Sie mit Eins-zu-Eins-Dates statt Gruppenszenen. Üben Sie Selbstmitgefühl."
-  - question: "Ist es ein Nachteil, introvertiert zu sein beim Dating?"
-    answer: "Nein, es ist einfach anders. Introvertierte sind oft gute Zuhörer, emotional intelligent und authentisch. Viele Menschen schätzen diese Qualitäten. Arbeite mit Ihrem natürlichen Stil, nicht dagegen."
+  - "{'question': 'Ist Online-Dating besser für Introvertierte?', 'answer': 'Oft ja. Online-Dating erlaubt Ihnen, in Ihrer Komfortzone zu sein und tiefe Konversationen durch Messaging zu führen, bevor Sie sich in Person treffen.'}"
+  - "{'question': 'Wie kann ich mein Unbehagen in sozialen Situationen überwinden?', 'answer': 'Erinnern Sie sich daran, dass Sie nicht allein sind – die andere Person ist wahrscheinlich auch nervös. Beginnen Sie mit Eins-zu-Eins-Dates statt Gruppenszenen. Üben Sie Selbstmitgefühl.'}"
+  - "{'question': 'Ist es ein Nachteil, introvertiert zu sein beim Dating?', 'answer': 'Nein, es ist einfach anders. Introvertierte sind oft gute Zuhörer, emotional intelligent und authentisch. Viele Menschen schätzen diese Qualitäten. Arbeite mit Ihrem natürlichen Stil, nicht dagegen.'}"
 ---
 [dating](/blog/anzeichen-er-steht-auf-dich/) als introvertierte Person kann sich überwältigend anfühlen. Die typischen Dating-Ratschläge – "sei lebhaft," "flirte mit Fremden," "auf Partys gehen" – fühlen sich für introvertierte Menschen nicht natürlich. Die gute Nachricht ist, dass Dating für Introvertierte möglich und erfolgreich ist. Sie müssen nur einen anderen Ansatz nehmen.
 

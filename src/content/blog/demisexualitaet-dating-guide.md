@@ -18,16 +18,11 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Was bedeutet demisexuell?"
-    answer: "Demisexuelle Menschen empfinden sexuelle Anziehung erst, wenn eine starke emotionale Verbindung besteht. Reine Optik oder oberflächlicher Flirt reichen nicht aus — es braucht Vertrauen, Nähe und eine echte Bindung."
-  - question: "Ist Demisexualität eine sexuelle Orientierung?"
-    answer: "Ja, Demisexualität gehört zum asexuellen Spektrum und ist eine anerkannte sexuelle Orientierung. Es beschreibt nicht WEN du attraktiv findest, sondern UNTER WELCHEN BEDINGUNGEN sexuelle Anziehung entsteht."
-  - question: "Wie date ich als demisexuelle Person?"
-    answer: "Nimm dir die Zeit, die du brauchst. Slow Dating ist dein bester Freund. Kommuniziere offen, dass körperliche Anziehung bei dir später kommt, und suche nach Menschen, die emotionale Tiefe schätzen."
-  - question: "Woher weiß ich, ob ich demisexuell bin?"
-    answer: "Typische Anzeichen: Du findest Fremde nie 'heiß', One-Night-Stands reizen dich nicht, du brauchst lange bis du jemanden körperlich attraktiv findest, und sexuelles Interesse entsteht erst nach intensivem emotionalen Kennenlernen."
-  - question: "Kann ich auf Dating-Apps demisexuell sein?"
-    answer: "Ja, aber es erfordert Anpassung. Nutze Apps die tiefere Profile erlauben (Hinge, OkCupid), erwähne deine Orientierung offen, und konzentriere dich auf ausführliches Chatten bevor du dich triffst."
+  - "{'question': 'Was bedeutet demisexuell?', 'answer': 'Demisexuelle Menschen empfinden sexuelle Anziehung erst, wenn eine starke emotionale Verbindung besteht. Reine Optik oder oberflächlicher Flirt reichen nicht aus — es braucht Vertrauen, Nähe und eine echte Bindung.'}"
+  - "{'question': 'Ist Demisexualität eine sexuelle Orientierung?', 'answer': 'Ja, Demisexualität gehört zum asexuellen Spektrum und ist eine anerkannte sexuelle Orientierung. Es beschreibt nicht WEN du attraktiv findest, sondern UNTER WELCHEN BEDINGUNGEN sexuelle Anziehung entsteht.'}"
+  - "{'question': 'Wie date ich als demisexuelle Person?', 'answer': 'Nimm dir die Zeit, die du brauchst. Slow Dating ist dein bester Freund. Kommuniziere offen, dass körperliche Anziehung bei dir später kommt, und suche nach Menschen, die emotionale Tiefe schätzen.'}"
+  - "{'question': 'Woher weiß ich, ob ich demisexuell bin?', 'answer': "Typische Anzeichen: Du findest Fremde nie 'heiß', One-Night-Stands reizen dich nicht, du brauchst lange bis du jemanden körperlich attraktiv findest, und sexuelles Interesse entsteht erst nach intensivem emotionalen Kennenlernen."}"
+  - "{'question': 'Kann ich auf Dating-Apps demisexuell sein?', 'answer': 'Ja, aber es erfordert Anpassung. Nutze Apps die tiefere Profile erlauben (Hinge, OkCupid), erwähne deine Orientierung offen, und konzentriere dich auf ausführliches Chatten bevor du dich triffst.'}"
 ---
 ## Wenn Schmetterlinge erst fliegen, wenn das Herz warm wird
 

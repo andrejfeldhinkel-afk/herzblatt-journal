@@ -14,16 +14,11 @@ keywords:
 draft: false
 author: "laura-weber"
 faq:
-  - question: "Darf ich ansprechen dass mein Partner zugenommen hat?"
-    answer: "Du darfst Sorge um die Gesundheit äußern, aber nicht das Aussehen kritisieren. Es gibt einen großen Unterschied zwischen 'Ich sorge mich um deine Gesundheit' und 'Du bist dick geworden.'"
-  - question: "Ist es oberflächlich sich an Gewichtszunahme zu stören?"
-    answer: "Nein. Körperliche Anziehung gehört zu einer Beziehung. Aber es lohnt sich zu hinterfragen, ob es wirklich ums Gewicht geht oder um tiefere Themen wie Fürsorge und Selbstrespekt."
-  - question: "Was wenn ich selbst zugenommen habe und mein Partner es anspricht?"
-    answer: "Versuche nicht sofort in die Defensive zu gehen. Frage was genau ihn beschäftigt, reflektiere ehrlich ob du dich wohl fühlst und ob Veränderung etwas ist das DU willst."
-  - question: "Hängt Liebe vom Gewicht ab?"
-    answer: "Das ist kompliziert. Liebe sollte bedingungslos sein — aber körperliche Anziehung ist echte Komponente einer Beziehung. Es ist okay beides zu brauchen, ohne dass das herzlos ist."
-  - question: "Wann sollte ich gehen wenn Gewichtszunahme mich stört?"
-    answer: "Wenn die Anziehung komplett weg ist und nicht wiederherstellbar, wenn der Partner sich nicht um Gesundheit kümmert, wenn die Beziehung leidet — musst du ehrlich werden über Kompatibilität."
+  - "{'question': 'Darf ich ansprechen dass mein Partner zugenommen hat?', 'answer': "Du darfst Sorge um die Gesundheit äußern, aber nicht das Aussehen kritisieren. Es gibt einen großen Unterschied zwischen 'Ich sorge mich um deine Gesundheit' und 'Du bist dick geworden.'"}"
+  - "{'question': 'Ist es oberflächlich sich an Gewichtszunahme zu stören?', 'answer': 'Nein. Körperliche Anziehung gehört zu einer Beziehung. Aber es lohnt sich zu hinterfragen, ob es wirklich ums Gewicht geht oder um tiefere Themen wie Fürsorge und Selbstrespekt.'}"
+  - "{'question': 'Was wenn ich selbst zugenommen habe und mein Partner es anspricht?', 'answer': 'Versuche nicht sofort in die Defensive zu gehen. Frage was genau ihn beschäftigt, reflektiere ehrlich ob du dich wohl fühlst und ob Veränderung etwas ist das DU willst.'}"
+  - "{'question': 'Hängt Liebe vom Gewicht ab?', 'answer': 'Das ist kompliziert. Liebe sollte bedingungslos sein — aber körperliche Anziehung ist echte Komponente einer Beziehung. Es ist okay beides zu brauchen, ohne dass das herzlos ist.'}"
+  - "{'question': 'Wann sollte ich gehen wenn Gewichtszunahme mich stört?', 'answer': 'Wenn die Anziehung komplett weg ist und nicht wiederherstellbar, wenn der Partner sich nicht um Gesundheit kümmert, wenn die Beziehung leidet — musst du ehrlich werden über Kompatibilität.'}"
 ---
 
 Vor zwei Jahren war dein Partner schlank. Aktiv. Sexy. Ihr habt zusammen trainiert, ihr habt gemeinsam gesund gegessen. Die Chemie war da.

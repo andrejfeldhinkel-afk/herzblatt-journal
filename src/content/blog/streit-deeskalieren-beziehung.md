@@ -1,20 +1,21 @@
 ---
-title: "Streit deeskalieren: Die vollständige Anleitung zur"
-author: "sarah-kellner"
+title: 'Streit deeskalieren: Die vollständige Anleitung zur'
+author: sarah-kellner
 draft: false
-image: "/images/blog/streit-deeskalieren-beziehung.webp"
-imageAlt: "Ein Paar sitzt sich mit ruhigen Gesichtsausdrücken gegenüber und übt respektvolle Konfliktlösung"
+image: /images/blog/streit-deeskalieren-beziehung.webp
+imageAlt: Ein Paar sitzt sich mit ruhigen Gesichtsausdrücken gegenüber und übt respektvolle
+  Konfliktlösung
 tags:
-  - "Kommunikation"
-  - "Beziehung"
-  - "Ratgeber"
+- Kommunikation
+- Beziehung
+- Ratgeber
 keywords:
-  - "streit deeskalieren"
-  - "konflikt lösen beziehung"
-  - "streit beenden"
-  - "deeskalation paar"
-  - "gottman 4 horsemen"
-  - "physiologische flooding"
+- streit deeskalieren
+- konflikt lösen beziehung
+- streit beenden
+- deeskalation paar
+- gottman 4 horsemen
+- physiologische flooding
 ---
 
 ## Streit deeskalieren: Die vollständige Anleitung zur Konfliktentschärfung in Beziehungen

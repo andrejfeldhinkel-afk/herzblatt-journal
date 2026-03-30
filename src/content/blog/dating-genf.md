@@ -15,12 +15,9 @@ draft: false
 image: "/images/photos/dating-genf.webp"
 imageAlt: "Genf"
 faq:
-  - question: "Wo lernt man in Genf Singles kennen?"
-    answer: "Die beste Gelegenheit, um Singles in Genf kennenzulernen, bieten die Bars und Cafés in der Altstadt, besonders rund um die Rue du Rhône und in Carouge. Auch in den internationalen Vierteln wie Pâquis und Eaux-Vives trifft man viele Menschen. Dating-Apps funktionieren in dieser international geprägten Stadt besonders gut, da viele Menschen zwischen verschiedenen Ländern pendeln."
-  - question: "Was sind die besten Date-Ideen in Genf?"
-    answer: "Klassiker sind ein Spaziergang entlang des Genfer Sees mit Blick auf den Jet d'Eau, ein gemeinsamer Besuch im Parc des Bastions oder ein romantisches Dinner in Carouge. Auch ein Ausflug auf den Mont Salève mit herrlichem Ausblick oder ein Brunch in einem der hippen Cafés der Eaux-Vives machen tolle erste Dates. Im Winter sind die Weihnachtsmärkte rund um die Kathedrale Saint-Pierre ebenfalls romantisch."
-  - question: "Gibt es eine gute Single-Szene in Genf?"
-    answer: "Ja, Genf hat eine lebendige Single-Szene, besonders unter jungen Berufstätigen aus aller Welt. Die internationale Atmosphäre - geprägt durch die UNO, zahlreiche Schweizer und französische Expats - macht die Stadt besonders offen und kosmopolitisch. Die Bar- und Café-Szene ist aktiv, und es gibt regelmäßig Events und Networking-Treffen für Singles."
+  - "{'question': 'Wo lernt man in Genf Singles kennen?', 'answer': 'Die beste Gelegenheit, um Singles in Genf kennenzulernen, bieten die Bars und Cafés in der Altstadt, besonders rund um die Rue du Rhône und in Carouge. Auch in den internationalen Vierteln wie Pâquis und Eaux-Vives trifft man viele Menschen. Dating-Apps funktionieren in dieser international geprägten Stadt besonders gut, da viele Menschen zwischen verschiedenen Ländern pendeln.'}"
+  - "{'question': 'Was sind die besten Date-Ideen in Genf?', 'answer': "Klassiker sind ein Spaziergang entlang des Genfer Sees mit Blick auf den Jet d'Eau, ein gemeinsamer Besuch im Parc des Bastions oder ein romantisches Dinner in Carouge. Auch ein Ausflug auf den Mont Salève mit herrlichem Ausblick oder ein Brunch in einem der hippen Cafés der Eaux-Vives machen tolle erste Dates. Im Winter sind die Weihnachtsmärkte rund um die Kathedrale Saint-Pierre ebenfalls romantisch."}"
+  - "{'question': 'Gibt es eine gute Single-Szene in Genf?', 'answer': 'Ja, Genf hat eine lebendige Single-Szene, besonders unter jungen Berufstätigen aus aller Welt. Die internationale Atmosphäre - geprägt durch die UNO, zahlreiche Schweizer und französische Expats - macht die Stadt besonders offen und kosmopolitisch. Die Bar- und Café-Szene ist aktiv, und es gibt regelmäßig Events und Networking-Treffen für Singles.'}"
 ---
 ## dating in Genf: Romantik an der Rhône
 

@@ -18,14 +18,10 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Wie lange halten Schmetterlinge im Bauch normalerweise?"
-    answer: "Die intensive Verliebtheit hält durchschnittlich 6-18 Monate. Bei manchen Paaren sind es 3 Monate, bei anderen bis zu 2 Jahre. Das Ende der Schmetterlinge ist biologisch programmiert — es ist kein Zeichen dass etwas falsch läuft."
-  - question: "Bedeutet es dass ich nicht mehr liebe wenn die Schmetterlinge weg sind?"
-    answer: "Nein! Verliebtheit und Liebe sind zwei verschiedene Dinge. Verliebtheit ist ein hormoneller Cocktail. Liebe ist eine bewusste Entscheidung. Was nach den Schmetterlingen kommt, kann viel tiefer und erfüllender sein."
-  - question: "Kann man die Schmetterlinge zurückbekommen?"
-    answer: "Ja, in Form von 'Micro-Schmetterlingen'. Gemeinsame neue Erlebnisse, Überraschungen und bewusstes Flirten können den Dopamin-Spiegel wieder anheben. Es wird sich anders anfühlen als am Anfang — aber nicht weniger schön."
-  - question: "Soll ich mich trennen wenn ich nichts mehr fühle?"
-    answer: "Nicht vorschnell. 'Nichts fühlen' kann viele Ursachen haben: Stress, Depression, Alltagstrott. Bevor du gehst, investiere 3 Monate in bewusste Beziehungsarbeit. Wenn danach wirklich nichts kommt, ist es eine ehrlichere Entscheidung."
+  - "{'question': 'Wie lange halten Schmetterlinge im Bauch normalerweise?', 'answer': 'Die intensive Verliebtheit hält durchschnittlich 6-18 Monate. Bei manchen Paaren sind es 3 Monate, bei anderen bis zu 2 Jahre. Das Ende der Schmetterlinge ist biologisch programmiert — es ist kein Zeichen dass etwas falsch läuft.'}"
+  - "{'question': 'Bedeutet es dass ich nicht mehr liebe wenn die Schmetterlinge weg sind?', 'answer': 'Nein! Verliebtheit und Liebe sind zwei verschiedene Dinge. Verliebtheit ist ein hormoneller Cocktail. Liebe ist eine bewusste Entscheidung. Was nach den Schmetterlingen kommt, kann viel tiefer und erfüllender sein.'}"
+  - "{'question': 'Kann man die Schmetterlinge zurückbekommen?', 'answer': "Ja, in Form von 'Micro-Schmetterlingen'. Gemeinsame neue Erlebnisse, Überraschungen und bewusstes Flirten können den Dopamin-Spiegel wieder anheben. Es wird sich anders anfühlen als am Anfang — aber nicht weniger schön."}"
+  - "{'question': 'Soll ich mich trennen wenn ich nichts mehr fühle?', 'answer': "Nicht vorschnell. 'Nichts fühlen' kann viele Ursachen haben: Stress, Depression, Alltagstrott. Bevor du gehst, investiere 3 Monate in bewusste Beziehungsarbeit. Wenn danach wirklich nichts kommt, ist es eine ehrlichere Entscheidung."}"
 ---
 ## Micro-Schmetterlinge: 15 Wege das Kribbeln zurückzubringen
 

@@ -18,14 +18,10 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Ist es moralisch okay mehrere Personen gleichzeitig zu daten?"
-    answer: "Ja, solange ihr euch noch nicht exklusiv verabredet habt. Multi-Dating ist in der Kennenlernphase völlig normal und sogar sinnvoll. Wichtig ist Ehrlichkeit — niemand sollte glauben, er oder sie sei die einzige Person die du triffst."
-  - question: "Wann sollte man sich für eine Person entscheiden?"
-    answer: "Spätestens wenn du merkst, dass du bei einer Person stärkere Gefühle entwickelst oder wenn jemand das Exklusivitätsgespräch sucht. Meistens passiert das nach 4-8 Dates mit einer Person."
-  - question: "Muss ich sagen dass ich andere Leute date?"
-    answer: "Du musst nicht jedes Detail teilen, aber Ehrlichkeit ist wichtig. Wenn jemand direkt fragt, antworte ehrlich. Und wenn es intim wird, ist Transparenz ein Muss — aus Respekt und zum Schutz aller Beteiligten."
-  - question: "Wie viele Personen kann man gleichzeitig daten?"
-    answer: "Mehr als 3-4 Personen gleichzeitig wird emotional und logistisch schwierig. Die Qualität leidet, du verwechselst Details und kannst dich nicht wirklich auf jemanden einlassen. Weniger ist hier definitiv mehr."
+  - "{'question': 'Ist es moralisch okay mehrere Personen gleichzeitig zu daten?', 'answer': 'Ja, solange ihr euch noch nicht exklusiv verabredet habt. Multi-Dating ist in der Kennenlernphase völlig normal und sogar sinnvoll. Wichtig ist Ehrlichkeit — niemand sollte glauben, er oder sie sei die einzige Person die du triffst.'}"
+  - "{'question': 'Wann sollte man sich für eine Person entscheiden?', 'answer': 'Spätestens wenn du merkst, dass du bei einer Person stärkere Gefühle entwickelst oder wenn jemand das Exklusivitätsgespräch sucht. Meistens passiert das nach 4-8 Dates mit einer Person.'}"
+  - "{'question': 'Muss ich sagen dass ich andere Leute date?', 'answer': 'Du musst nicht jedes Detail teilen, aber Ehrlichkeit ist wichtig. Wenn jemand direkt fragt, antworte ehrlich. Und wenn es intim wird, ist Transparenz ein Muss — aus Respekt und zum Schutz aller Beteiligten.'}"
+  - "{'question': 'Wie viele Personen kann man gleichzeitig daten?', 'answer': 'Mehr als 3-4 Personen gleichzeitig wird emotional und logistisch schwierig. Die Qualität leidet, du verwechselst Details und kannst dich nicht wirklich auf jemanden einlassen. Weniger ist hier definitiv mehr.'}"
 ---
 Du chattest mit drei verschiedenen Menschen auf einer Dating-App, hast mit zwei davon bereits Dates vereinbart und fragst dich: Ist das okay? Oder machst du etwas falsch? Die Antwort ist komplizierter als ein einfaches Ja oder Nein — und genau deshalb möchte ich dir in diesem Artikel zeigen, was Multi-Dating wirklich bedeutet, warum es in manchen Lebensphasen völlig sinnvoll ist und wann es problematisch wird.
 

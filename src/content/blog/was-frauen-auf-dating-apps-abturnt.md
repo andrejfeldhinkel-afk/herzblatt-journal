@@ -14,12 +14,9 @@ keywords:
 draft: false
 author: "laura-weber"
 faq:
-  - question: "Was sind die größten Dating-App-Fehler von Männern?"
-    answer: "Fischfotos, Gym-Selfies, nur Gruppenbilder, leere oder arrogante Bios, und sofort sexuelle Anspielungen. Das signalisiert entweder Eitelkeit oder mangelndes Interesse an der Person."
-  - question: "Welche Fotos kommen bei Frauen gut an?"
-    answer: "Echtes Lächeln, ein Foto mit Tier, ein Bild bei einer Aktivität die dich begeistert, und mindestens ein klares Porträt ohne Sonnenbrille. Authentizität schlägt Perfektion."
-  - question: "Wie schreibe ich eine gute erste Nachricht als Mann?"
-    answer: "Beziehe dich auf ihr Profil, stelle eine offene Frage und sei witzig aber nicht übertrieben. 'Hey' funktioniert nicht. 'Ich sehe du warst in Lissabon — Pastéis de Nata oder Francesinha?' schon eher."
+  - "{'question': 'Was sind die größten Dating-App-Fehler von Männern?', 'answer': 'Fischfotos, Gym-Selfies, nur Gruppenbilder, leere oder arrogante Bios, und sofort sexuelle Anspielungen. Das signalisiert entweder Eitelkeit oder mangelndes Interesse an der Person.'}"
+  - "{'question': 'Welche Fotos kommen bei Frauen gut an?', 'answer': 'Echtes Lächeln, ein Foto mit Tier, ein Bild bei einer Aktivität die dich begeistert, und mindestens ein klares Porträt ohne Sonnenbrille. Authentizität schlägt Perfektion.'}"
+  - "{'question': 'Wie schreibe ich eine gute erste Nachricht als Mann?', 'answer': "Beziehe dich auf ihr Profil, stelle eine offene Frage und sei witzig aber nicht übertrieben. 'Hey' funktioniert nicht. 'Ich sehe du warst in Lissabon — Pastéis de Nata oder Francesinha?' schon eher."}"
 ---
 
 Okay, lass mich ehrlich mit dir sein: Frauen auf [dating](/blog/anzeichen-er-steht-auf-dich/)-Apps bekommen täglich Dutzende von Matches und Nachrichten. Und die meisten? Landen direkt im digitalen Mülleimer. Es ist nicht böse gemeint, es ist nur Überfluss. Wenn du aber verstehst, was Frauen wirklich abturnt, schaffst du es aus der Masse heraus. Das ist keine Manipulation, sondern einfach Bewusstsein für das, was wirklich zählt.

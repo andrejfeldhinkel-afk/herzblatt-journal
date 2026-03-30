@@ -1,19 +1,20 @@
 ---
-title: "Warum ghosten Menschen? Die unbequeme Wahrheit hinter dem"
-slug: "warum-ghostet-man"
-description: "Ghosting ist verletzend. Aber warum machen Menschen das? Ich zeige dir die psychologischen Gründe hinter diesem Phänomen und wie du damit umgehen kannst."
-author: "thomas-peters"
-image: "/images/photos/warum-ghostet-man.webp"
-imageAlt: "Leere Chat-Nachrichten auf dem Handy"
-category: "Dating"
+title: Warum ghosten Menschen? Die unbequeme Wahrheit hinter dem
+slug: warum-ghostet-man
+description: Ghosting ist verletzend. Aber warum machen Menschen das? Ich zeige dir
+  die psychologischen Gründe hinter diesem Phänomen und wie du damit umgehen kannst.
+author: thomas-peters
+image: /images/photos/warum-ghostet-man.webp
+imageAlt: Leere Chat-Nachrichten auf dem Handy
+category: Dating
 tags:
-  - "Psychologie"
-  - "Dating"
-  - "Online-Dating"
+- Psychologie
+- Dating
+- Online-Dating
 keywords:
-  - "warum ghosten menschen"
-  - "ghosting psychologie"
-  - "warum ghostet er"
+- warum ghosten menschen
+- ghosting psychologie
+- warum ghostet er
 ---
 Du hattest gerade noch eine tolle Unterhaltung. Die Chemie war spürbar. Und dann — Stille. Keine Nachrichten, keine Erklärung, kein Echo. Ghosting ist verletzend, frustrierend und hinterlässt dich mit so vielen unbeantworteten Fragen. Aber warum machen Menschen das überhaupt? Was geht in ihrem Kopf vor? Ich werde dir die unbequeme Wahrheit zeigen.
 

@@ -15,16 +15,11 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Wann bin ich ready, nach einer psychischen Erkrankung zu daten?"
-    answer: "Das ist persönlich. Aber eine Faustregel: Wenn du wieder mit dir selbst komfortabel bist, nicht zur Ablenkung dated, und deine Medikation/Therapie stabil ist. Das kann 3 Monate sein, das kann ein Jahr sein. Es gibt kein \"zu lange\"."
-  - question: "Soll ich der Person erzählen, dass ich eine psychische Erkrankung hatte?"
-    answer: "Ja, aber nicht beim ersten Date. Vielleicht nach 3-4 Dates, wenn ihr beiden seht, dass das etwas wird. Sag es matter-of-factly: \"Ich hatte eine Depression / Angststörung. Ich bin jetzt in Therapie und es geht mir besser.\" Wenn sie/er damit nicht umgehen kann, ist sie/er eh nicht die richtige Person."
-  - question: "Wie erkenne ich, ob jemand ein Savior ist und keine echte Partnerin/Partnerschaft sucht?"
-    answer: "Saviors konzentrieren sich zu viel auf deine \"Heilung\". Sie wollen dein Held sein. Eine echte Person fragt: \"Wie geht es dir?\" Ein Savior sagt: \"Ich werde dich heilen.\" Das ist nicht Liebe – das ist Ego."
-  - question: "Was, wenn ich mich während des Dating wieder schlecht fühle?"
-    answer: "Sag es der Person. \"Mir geht es mental gerade nicht gut. Ich brauche ein paar Tage für mich.\" Ein guter Partner wird verstehen. Ein manipulativer wird es gegen dich verwenden. Das ist ein quick Test."
-  - question: "Kann ich eine gesunde Beziehung haben, wenn ich eine psychische Erkrankung habe?"
-    answer: "Absolut. Viele Menschen haben psychische Erkrankungen und glückliche Beziehungen. Der Schlüssel ist: Du musst dir selbst helfen, bevor du jemand anderen brauchst. Die Beziehung sollte ein Bonus sein, nicht deine Rettung."
+  - "{'question': 'Wann bin ich ready, nach einer psychischen Erkrankung zu daten?', 'answer': 'Das ist persönlich. Aber eine Faustregel: Wenn du wieder mit dir selbst komfortabel bist, nicht zur Ablenkung dated, und deine Medikation/Therapie stabil ist. Das kann 3 Monate sein, das kann ein Jahr sein. Es gibt kein "zu lange".'}"
+  - "{'question': 'Soll ich der Person erzählen, dass ich eine psychische Erkrankung hatte?', 'answer': 'Ja, aber nicht beim ersten Date. Vielleicht nach 3-4 Dates, wenn ihr beiden seht, dass das etwas wird. Sag es matter-of-factly: "Ich hatte eine Depression / Angststörung. Ich bin jetzt in Therapie und es geht mir besser." Wenn sie/er damit nicht umgehen kann, ist sie/er eh nicht die richtige Person.'}"
+  - "{'question': 'Wie erkenne ich, ob jemand ein Savior ist und keine echte Partnerin/Partnerschaft sucht?', 'answer': 'Saviors konzentrieren sich zu viel auf deine "Heilung". Sie wollen dein Held sein. Eine echte Person fragt: "Wie geht es dir?" Ein Savior sagt: "Ich werde dich heilen." Das ist nicht Liebe – das ist Ego.'}"
+  - "{'question': 'Was, wenn ich mich während des Dating wieder schlecht fühle?', 'answer': 'Sag es der Person. "Mir geht es mental gerade nicht gut. Ich brauche ein paar Tage für mich." Ein guter Partner wird verstehen. Ein manipulativer wird es gegen dich verwenden. Das ist ein quick Test.'}"
+  - "{'question': 'Kann ich eine gesunde Beziehung haben, wenn ich eine psychische Erkrankung habe?', 'answer': 'Absolut. Viele Menschen haben psychische Erkrankungen und glückliche Beziehungen. Der Schlüssel ist: Du musst dir selbst helfen, bevor du jemand anderen brauchst. Die Beziehung sollte ein Bonus sein, nicht deine Rettung.'}"
 ---
 
 ## Dating nach psychischer Erkrankung: Der behutsame Weg zurück

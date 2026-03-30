@@ -13,10 +13,8 @@ draft: false
 image: "/images/photos/psychologie-der-anziehung.webp"
 imageAlt: "Verliebtes Paar lächelt sich an"
 faq:
-  - question: "Sind Schmetterlinge im Bauch echte Liebe?"
-    answer: "Nicht unbedingt. Schmetterlinge sind ein Zeichen von Aufregung und Anziehung, aber echte Liebe entwickelt sich erst über Zeit durch Vertrauen und tiefe Verbindung."
-  - question: "Wie lange halten Schmetterlinge im Bauch an?"
-    answer: "Typischerweise dauert die intensive Verliebtheitsphase 6 bis 18 Monate. Danach wandeln sich die Gefühle in eine tiefere, ruhigere Form der Zuneigung."
+  - "{'question': 'Sind Schmetterlinge im Bauch echte Liebe?', 'answer': 'Nicht unbedingt. Schmetterlinge sind ein Zeichen von Aufregung und Anziehung, aber echte Liebe entwickelt sich erst über Zeit durch Vertrauen und tiefe Verbindung.'}"
+  - "{'question': 'Wie lange halten Schmetterlinge im Bauch an?', 'answer': 'Typischerweise dauert die intensive Verliebtheitsphase 6 bis 18 Monate. Danach wandeln sich die Gefühle in eine tiefere, ruhigere Form der Zuneigung.'}"
 ---
 
 ## Das Phänomen Schmetterlinge im Bauch

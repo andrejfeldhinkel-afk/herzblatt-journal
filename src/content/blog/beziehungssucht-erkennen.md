@@ -1,19 +1,20 @@
 ---
-title: "Beziehungssucht erkennen: Wenn du ohne Partner nicht leben"
-slug: "beziehungssucht-erkennen"
-description: "Beziehungssucht ist ein verstecktes Trauma. Lerne, die Zeichen zu erkennen und dich selbst wieder zu finden — bevor es zu spät ist."
-author: "thomas-peters"
-image: "/images/photos/beziehungssucht-erkennen.webp"
-imageAlt: "Symbolbild für Beziehungsabhängigkeit"
-category: "Psychologie"
+title: 'Beziehungssucht erkennen: Wenn du ohne Partner nicht leben'
+slug: beziehungssucht-erkennen
+description: Beziehungssucht ist ein verstecktes Trauma. Lerne, die Zeichen zu erkennen
+  und dich selbst wieder zu finden — bevor es zu spät ist.
+author: thomas-peters
+image: /images/photos/beziehungssucht-erkennen.webp
+imageAlt: Symbolbild für Beziehungsabhängigkeit
+category: Psychologie
 tags:
-  - "Psychologie"
-  - "Beziehung"
-  - "Heilung"
+- Psychologie
+- Beziehung
+- Heilung
 keywords:
-  - "beziehungssucht"
-  - "beziehungssucht erkennen"
-  - "abhängig von beziehung"
+- beziehungssucht
+- beziehungssucht erkennen
+- abhängig von beziehung
 ---
 
 Du verlässt eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) und wirkst sechs Wochen später mit jemandem neu zusammen. Dein Partner kritisiert dich, und du versuchst verzweifelt herauszufinden, wie du ihn ändern kannst, anstatt zu gehen. Dein Telefon ist dein bestes Freund — jede Benachrichtigung von deinem Partner löst einen Adrenalinrausch aus. Du kannst ohne ihn nicht atmen. Das ist keine Liebe. Das ist Beziehungssucht.

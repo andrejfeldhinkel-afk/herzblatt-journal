@@ -14,12 +14,9 @@ draft: false
 image: "/images/photos/dating-goettingen.webp"
 imageAlt: "Göttingen Gänseliesel"
 faq:
-  - question: "Wo lernt man in Göttingen Singles kennen?"
-    answer: "Die beste Single-Szene ist im Kneipenviertel rund um Kurze Straße und Johannisstraße. Auch die Bereiche rund um die Universität und das Gänseliesel sind Single-Hotspots."
-  - question: "Was sind die besten Date-Ideen in Göttingen?"
-    answer: "Spaziergang auf den Wall, Picknick im Philosophenweg, Bier in den Kneipen oder eine Stadtführung. Die Altstadt bietet überall romantische Ecken."
-  - question: "Gibt es eine gute Single-Szene in Göttingen?"
-    answer: "Absolut! Göttingen ist Studentenstadt Nummer eins. Die Kneipenszene ist legendär und die Menschen sind jung, aufgeschlossen und dating-enthusiastisch."
+  - "{'question': 'Wo lernt man in Göttingen Singles kennen?', 'answer': 'Die beste Single-Szene ist im Kneipenviertel rund um Kurze Straße und Johannisstraße. Auch die Bereiche rund um die Universität und das Gänseliesel sind Single-Hotspots.'}"
+  - "{'question': 'Was sind die besten Date-Ideen in Göttingen?', 'answer': 'Spaziergang auf den Wall, Picknick im Philosophenweg, Bier in den Kneipen oder eine Stadtführung. Die Altstadt bietet überall romantische Ecken.'}"
+  - "{'question': 'Gibt es eine gute Single-Szene in Göttingen?', 'answer': 'Absolut! Göttingen ist Studentenstadt Nummer eins. Die Kneipenszene ist legendär und die Menschen sind jung, aufgeschlossen und dating-enthusiastisch.'}"
 ---
 ## Willkommen in Göttingen – Wo Studieren und Verlieben sich treffen
 

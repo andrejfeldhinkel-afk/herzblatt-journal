@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/micro-cheating-erkennen.webp"
 imageAlt: "Micro-Cheating in Beziehung"
 faq:
-  - question: "Ist Micro-Cheating wirklich Untreue?"
-    answer: "Das ist subjektiv und hängt von der Beziehung ab. Für manche Menschen ist eine flirtende Nachricht eine große Sache; für andere nicht. Das Wichtigste ist, dass ihr beide die Grenzen definiert und respektiert. Wenn etwas sich untreu anfühlt, ist es ein Problem, das diskutiert werden muss."
-  - question: "Was ist der Unterschied zwischen Micro-Cheating und normalem Flirten?"
-    answer: "Normalles Flirten ist leicht und kontextabhängig – du lachst über den Witz eines Kellners. Micro-Cheating ist heimlich, gezielt, und verbirgt sich. Wenn dein Partner besonders bemüht ist zu verstecken, was er mit jemandem anderen tut, ist das ein Zeichen."
-  - question: "Sollte ich meinen Partner auf Micro-Cheating konfrontieren?"
-    answer: "Ja, aber mit Ruhe und Offenheit. Nicht angreifend: \"Warum versteckst du dein Handy vor mir?\" sondern Neugier: \"Mir ist aufgefallen, dass du dein Handy versteckst, und das macht mich unsicher. Können wir darüber sprechen?\" Offene Kommunikation ist wichtig."
+  - "{'question': 'Ist Micro-Cheating wirklich Untreue?', 'answer': 'Das ist subjektiv und hängt von der Beziehung ab. Für manche Menschen ist eine flirtende Nachricht eine große Sache; für andere nicht. Das Wichtigste ist, dass ihr beide die Grenzen definiert und respektiert. Wenn etwas sich untreu anfühlt, ist es ein Problem, das diskutiert werden muss.'}"
+  - "{'question': 'Was ist der Unterschied zwischen Micro-Cheating und normalem Flirten?', 'answer': 'Normalles Flirten ist leicht und kontextabhängig – du lachst über den Witz eines Kellners. Micro-Cheating ist heimlich, gezielt, und verbirgt sich. Wenn dein Partner besonders bemüht ist zu verstecken, was er mit jemandem anderen tut, ist das ein Zeichen.'}"
+  - "{'question': 'Sollte ich meinen Partner auf Micro-Cheating konfrontieren?', 'answer': 'Ja, aber mit Ruhe und Offenheit. Nicht angreifend: "Warum versteckst du dein Handy vor mir?" sondern Neugier: "Mir ist aufgefallen, dass du dein Handy versteckst, und das macht mich unsicher. Können wir darüber sprechen?" Offene Kommunikation ist wichtig.'}"
 ---
 Micro-Cheating ist ein moderener Begriff für etwas, das altbekannt ist: kleine romantische oder sexuelle Interaktionen mit jemandem anderen als deinem Partner. Es ist nicht volles Betrug, aber es bricht Grenzen und erodiert Vertrauen.
 

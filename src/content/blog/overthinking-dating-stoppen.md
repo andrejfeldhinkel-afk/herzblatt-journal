@@ -16,16 +16,11 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - question: "Warum denke ich ständig über Dating nach?"
-    answer: "Overthinking ist oft Angst. Dein Gehirn versucht, durch Analyse die Kontrolle zu behalten. Je mehr Szenarien du durchspielst, desto sicherer fühlst du dich. Das ist eine Illusion, aber dein Nervensystem glaubt es."
-  - question: "Ist Overthinking dasselbe wie Nachdenken?"
-    answer: "Nein. Nachdenken ist produktiv. Overthinking ist endlos und führt nirgendwo hin. Nach zehn Minuten hast du die Situation analysiert. Nach einer Stunde machst du nur noch Gedankenschleifen."
-  - question: "Kann ich Overthinking einfach abstellen?"
-    answer: "Nicht einfach. Aber du kannst es trainieren, wie einen Muskel. Mit Bewusstsein, Umleitung und regelmäßiger Praxis wirst du bedeutend besser."
-  - question: "Schadet mir Overthinking in der Beziehung?"
-    answer: "Ja. Es macht dich ängstlich, müde und unglücklich. Dein Partner fühlt deine Angst, auch wenn du sie nicht laut aussprichst. Das belastet die Beziehung."
-  - question: "Gibt es schnelle Tipps gegen Overthinking?"
-    answer: "Ja: 1) Schreib die Gedanken auf und schließ das Tagebuch. 2) Geh eine Stunde raus, ohne Handy. 3) Stell dir eine Timer auf 15 Minuten Nachdenken, dann Stopp. 4) Sag laut 'Stop' wenn die Spirale beginnt."
+  - "{'question': 'Warum denke ich ständig über Dating nach?', 'answer': 'Overthinking ist oft Angst. Dein Gehirn versucht, durch Analyse die Kontrolle zu behalten. Je mehr Szenarien du durchspielst, desto sicherer fühlst du dich. Das ist eine Illusion, aber dein Nervensystem glaubt es.'}"
+  - "{'question': 'Ist Overthinking dasselbe wie Nachdenken?', 'answer': 'Nein. Nachdenken ist produktiv. Overthinking ist endlos und führt nirgendwo hin. Nach zehn Minuten hast du die Situation analysiert. Nach einer Stunde machst du nur noch Gedankenschleifen.'}"
+  - "{'question': 'Kann ich Overthinking einfach abstellen?', 'answer': 'Nicht einfach. Aber du kannst es trainieren, wie einen Muskel. Mit Bewusstsein, Umleitung und regelmäßiger Praxis wirst du bedeutend besser.'}"
+  - "{'question': 'Schadet mir Overthinking in der Beziehung?', 'answer': 'Ja. Es macht dich ängstlich, müde und unglücklich. Dein Partner fühlt deine Angst, auch wenn du sie nicht laut aussprichst. Das belastet die Beziehung.'}"
+  - "{'question': 'Gibt es schnelle Tipps gegen Overthinking?', 'answer': "Ja: 1) Schreib die Gedanken auf und schließ das Tagebuch. 2) Geh eine Stunde raus, ohne Handy. 3) Stell dir eine Timer auf 15 Minuten Nachdenken, dann Stopp. 4) Sag laut 'Stop' wenn die Spirale beginnt."}"
 ---
 
 Dein Handy klingelt. Eine Nachricht von der Person, die dir gefällt. Zwei Worte: "Hey, alles klar?" Und du? Du gerätst ins Gedankenkarussell.

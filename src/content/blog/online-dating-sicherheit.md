@@ -14,14 +14,10 @@ draft: false
 image: "/images/photos/online-dating-sicherheit.webp"
 imageAlt: "Person, die sicher online datet"
 faq:
-  - question: "Wie erkenne ich Betrug beim Online-Dating?"
-    answer: "Sei vorsichtig bei: keine realen Fotos, schneller 'ich liebe dich', Geld-Anfragen, oder konstantes Verschieben von Dates. Verifyiere Fotos umgekehrt auf Google."
-  - question: "Ist es sicher, mit einem Fremden allein zu treffen?"
-    answer: "Am sichersten ist es, einen öffentlichen Ort zu wählen, es jemandem zu sagen, wo du bist, und dein Handy geladen zu halten. Vertrau deinem Bauchgefühl."
-  - question: "Wie lange sollte ich mit jemandem chatten, bevor ich mich treffe?"
-    answer: "1-2 Wochen ist fair. Zu lang wird es nur Zeitverschwendung, wenn ihr keine Chemie habt. Zu schnell kann unsicher sein."
-  - question: "Sollte ich meine persönlichen Infos (Adresse, Arbeit) früh teilen?"
-    answer: "Nein. Gib nur das, was notwendig ist. Adresse, voller Name oder Arbeit können erst nach mehreren Dates geteilt werden, wenn du vertraust."
+  - "{'question': 'Wie erkenne ich Betrug beim Online-Dating?', 'answer': "Sei vorsichtig bei: keine realen Fotos, schneller 'ich liebe dich', Geld-Anfragen, oder konstantes Verschieben von Dates. Verifyiere Fotos umgekehrt auf Google."}"
+  - "{'question': 'Ist es sicher, mit einem Fremden allein zu treffen?', 'answer': 'Am sichersten ist es, einen öffentlichen Ort zu wählen, es jemandem zu sagen, wo du bist, und dein Handy geladen zu halten. Vertrau deinem Bauchgefühl.'}"
+  - "{'question': 'Wie lange sollte ich mit jemandem chatten, bevor ich mich treffe?', 'answer': '1-2 Wochen ist fair. Zu lang wird es nur Zeitverschwendung, wenn ihr keine Chemie habt. Zu schnell kann unsicher sein.'}"
+  - "{'question': 'Sollte ich meine persönlichen Infos (Adresse, Arbeit) früh teilen?', 'answer': 'Nein. Gib nur das, was notwendig ist. Adresse, voller Name oder Arbeit können erst nach mehreren Dates geteilt werden, wenn du vertraust.'}"
 ---
 ## Die Realität: Online-dating hat echte Risiken
 

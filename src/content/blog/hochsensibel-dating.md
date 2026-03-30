@@ -15,12 +15,9 @@ keywords:
   - "Emotionale Sensibilität"
   - "Beziehungs Tipps"
 faq:
-  - question: "Was ist hochsensibilität?"
-    answer: "Es ist ein Temperament, charakterisiert durch tiefere Verarbeitung, größere emotionale Reaktivität und leichtere Überstimulation. Etwa 15-20% der Menschen ist HSP."
-  - question: "Ist hochsensibilität ein Nachteil beim Dating?"
-    answer: "Nicht unbedingt. HSPs sind oft intensiv, emotional intelligent und sehr liebevoll. Das kann großartig sein! Der Trick ist, jemanden zu treffen, der das wertschätzt."
-  - question: "Wie kann ich meine Überempfindlichkeit beim Dating nicht aktivieren?"
-    answer: "Genießen Sie eine sichere, unterstützende Umgebung. Vermeiden Sie hochstimulierende erste Daten. Finden Sie einen Partner, der sanfte, respektvolle Kommunikation versteht."
+  - "{'question': 'Was ist hochsensibilität?', 'answer': 'Es ist ein Temperament, charakterisiert durch tiefere Verarbeitung, größere emotionale Reaktivität und leichtere Überstimulation. Etwa 15-20% der Menschen ist HSP.'}"
+  - "{'question': 'Ist hochsensibilität ein Nachteil beim Dating?', 'answer': 'Nicht unbedingt. HSPs sind oft intensiv, emotional intelligent und sehr liebevoll. Das kann großartig sein! Der Trick ist, jemanden zu treffen, der das wertschätzt.'}"
+  - "{'question': 'Wie kann ich meine Überempfindlichkeit beim Dating nicht aktivieren?', 'answer': 'Genießen Sie eine sichere, unterstützende Umgebung. Vermeiden Sie hochstimulierende erste Daten. Finden Sie einen Partner, der sanfte, respektvolle Kommunikation versteht.'}"
 ---
 Hochsensibel zu sein bedeutet, dass Sie tiefere Gefühle haben, mehr über kleine Details bemerken und schneller überreized sein. Beim Dating könnte das bedeuten, dass Sie intensiver Gefühle erleben, dass Sie mehr Verletzung von Zurückweisung fühlen, und dass Sie einen ruhigen, verständnisvollen Partner brauchen. In diesem Leitfaden erfahren Sie, wie Sie als hochsensible Person erfolgreich datierten.
 

@@ -1,4 +1,13 @@
 ---
+title: Dating Nach 40 Neustart
+description: ''
+date: '2026-03-01'
+updated: '2026-03-01'
+tags: []
+draft: true
+---
+
+---
 title: "Dating ab 40: Neustart in der Lebensmitte"
 description: "Dating nach 40: Lerne, wie du Selbstvertrauen aufbaust und echte Liebe findest. Ein umfassender Ratgeber für dein Neuanfang!"
 tags:
@@ -10,12 +19,9 @@ image: "/images/photos/dating-nach-40-maenner.webp"
 imageAlt: "Reife Person strahlt Selbstvertrauen und Schönheit aus"
 featured: false
 faq:
-  - question: "Bin ich zu alt zum Daten? Werden Menschen in meinem Alter interessiert sein?"
-    answer: "Absolut nicht. Es gibt viele Menschen über 40, die aktiv daten und echte Beziehungen suchen. Du bringst mehr Reife, Klarheit über Werte und emotionale Stabilität mit – all das ist attraktiv."
-  - question: "Wie navigiere ich meine Vergangenheit (Ehen, Kinder, Karriere) beim Dating?"
-    answer: "Sei ehrlich, aber nicht übermäßig mitteilsam auf den ersten Dates. Teile deine Vergangenheit, wenn die Verbindung wächst. Menschen respektieren Transparenz – sie werden oft erleichtert sein, dass du keine versteckte Vergangenheit hast."
-  - question: "Was ist, wenn ich mich nach langer Zeit unattraktiv fühle oder aus Form bin?"
-    answer: "Das Erste, was du tun solltest, ist für DICH selbst zu arbeiten. Trainieren, Haut pflegen, Kleider anziehen, die dir passen und fühlen sich gut. Das ist nicht um andere zu beeindrucken – das ist um DICH zu respektieren. Wenn du dich gut fühlst, werden andere es sehen."
+  - "{'question': 'Bin ich zu alt zum Daten? Werden Menschen in meinem Alter interessiert sein?', 'answer': 'Absolut nicht. Es gibt viele Menschen über 40, die aktiv daten und echte Beziehungen suchen. Du bringst mehr Reife, Klarheit über Werte und emotionale Stabilität mit – all das ist attraktiv.'}"
+  - "{'question': 'Wie navigiere ich meine Vergangenheit (Ehen, Kinder, Karriere) beim Dating?', 'answer': 'Sei ehrlich, aber nicht übermäßig mitteilsam auf den ersten Dates. Teile deine Vergangenheit, wenn die Verbindung wächst. Menschen respektieren Transparenz – sie werden oft erleichtert sein, dass du keine versteckte Vergangenheit hast.'}"
+  - "{'question': 'Was ist, wenn ich mich nach langer Zeit unattraktiv fühle oder aus Form bin?', 'answer': 'Das Erste, was du tun solltest, ist für DICH selbst zu arbeiten. Trainieren, Haut pflegen, Kleider anziehen, die dir passen und fühlen sich gut. Das ist nicht um andere zu beeindrucken – das ist um DICH zu respektieren. Wenn du dich gut fühlst, werden andere es sehen.'}"
 ---Du bist über 40 und denkst über [dating](/blog/anzeichen-er-steht-auf-dich/) nach. Vielleicht wurdest du gerade geschieden. Vielleicht warst du lange Zeit verheiratet oder in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/). Vielleicht warst du einfach karrierefokussiert und merkst jetzt, dass du Liebe möchtest.
 
 Was auch immer es ist, eine Sache ist wahr: Dating ab 40 ist anders. Und auf viele Weisen besser.

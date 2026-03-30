@@ -18,14 +18,10 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Sind Beziehungspausen sinnvoll oder der Anfang vom Ende?"
-    answer: "Beides ist möglich. Eine gut strukturierte Pause mit klaren Regeln kann einen Reset ermöglichen. Eine Pause ohne Regeln ('Lass uns mal Abstand nehmen') ist dagegen oft nur eine schonende Trennung auf Raten."
-  - question: "Wie lange sollte eine Beziehungspause dauern?"
-    answer: "2-4 Wochen sind meistens optimal. Länger als 3 Monate wird gefährlich — beide leben sich ein und die Brücke zurück wird immer schwerer. Vereinbart ein festes Enddatum von Anfang an."
-  - question: "Darf man während einer Beziehungspause mit anderen daten?"
-    answer: "Das MUSS vorher geklärt werden. 'Wir sind auf Pause' ohne diese Klärung ist ein Rezept für Desaster. Die meisten erfolgreichen Pausen haben eine klare Exklusivitäts-Vereinbarung."
-  - question: "Was macht man während einer Beziehungspause?"
-    answer: "Reflektiere ehrlich: Was will ich? Was brauche ich? Was kann ich ändern? Geh in Therapie, triff Freunde, kümmere dich um dich selbst. Nutze die Zeit für echte Selbstreflexion — nicht um Tinder zu swipen."
+  - "{'question': 'Sind Beziehungspausen sinnvoll oder der Anfang vom Ende?', 'answer': "Beides ist möglich. Eine gut strukturierte Pause mit klaren Regeln kann einen Reset ermöglichen. Eine Pause ohne Regeln ('Lass uns mal Abstand nehmen') ist dagegen oft nur eine schonende Trennung auf Raten."}"
+  - "{'question': 'Wie lange sollte eine Beziehungspause dauern?', 'answer': '2-4 Wochen sind meistens optimal. Länger als 3 Monate wird gefährlich — beide leben sich ein und die Brücke zurück wird immer schwerer. Vereinbart ein festes Enddatum von Anfang an.'}"
+  - "{'question': 'Darf man während einer Beziehungspause mit anderen daten?', 'answer': "Das MUSS vorher geklärt werden. 'Wir sind auf Pause' ohne diese Klärung ist ein Rezept für Desaster. Die meisten erfolgreichen Pausen haben eine klare Exklusivitäts-Vereinbarung."}"
+  - "{'question': 'Was macht man während einer Beziehungspause?', 'answer': 'Reflektiere ehrlich: Was will ich? Was brauche ich? Was kann ich ändern? Geh in Therapie, triff Freunde, kümmere dich um dich selbst. Nutze die Zeit für echte Selbstreflexion — nicht um Tinder zu swipen.'}"
 ---
 
 Es kommt zu dem Gespräch. Einer von euch sagt: "Ich denke wir brauchen eine Pause." Die andere Person erstarrt. Das ist die Phrase die bedeutet "vielleicht Trennung" oder "ich möchte andere Menschen küssen" oder "Ich weiß nicht ob ich dich mehr liebe."

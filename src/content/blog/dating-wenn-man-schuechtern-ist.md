@@ -15,12 +15,9 @@ keywords:
 draft: false
 author: "markus-hoffmann"
 faq:
-  - question: "Ist Schüchternheit ein Dating-Nachteil?"
-    answer: "Nicht unbedingt. Viele Menschen finden Schüchternheit attraktiv — sie signalisiert Nachdenklichkeit und Tiefe. Das Problem ist nicht die Schüchternheit, sondern die Vermeidung."
-  - question: "Wie überwinde ich meine Angst vor dem ersten Date?"
-    answer: "Wähle eine vertraute Umgebung, plane eine Aktivität (das lenkt ab), und erinnere dich: Dein Date ist wahrscheinlich genauso nervös. Kleine Schritte sind besser als gar keine."
-  - question: "Welche Dating-App ist gut für Schüchterne?"
-    answer: "Bumble (Frauen machen den ersten Schritt) und Hinge (tiefere Profile statt Swipe-Marathon) sind gute Optionen. Das schriftliche Kennenlernen nimmt den Druck der ersten Sekunden."
+  - "{'question': 'Ist Schüchternheit ein Dating-Nachteil?', 'answer': 'Nicht unbedingt. Viele Menschen finden Schüchternheit attraktiv — sie signalisiert Nachdenklichkeit und Tiefe. Das Problem ist nicht die Schüchternheit, sondern die Vermeidung.'}"
+  - "{'question': 'Wie überwinde ich meine Angst vor dem ersten Date?', 'answer': 'Wähle eine vertraute Umgebung, plane eine Aktivität (das lenkt ab), und erinnere dich: Dein Date ist wahrscheinlich genauso nervös. Kleine Schritte sind besser als gar keine.'}"
+  - "{'question': 'Welche Dating-App ist gut für Schüchterne?', 'answer': 'Bumble (Frauen machen den ersten Schritt) und Hinge (tiefere Profile statt Swipe-Marathon) sind gute Optionen. Das schriftliche Kennenlernen nimmt den Druck der ersten Sekunden.'}"
 ---
 
 Schüchternheit ist keine Krankheit. Es ist auch keine Schwäche. Aber es fühlt sich so an, wenn man daten möchte und keine Ahnung hat, wie man anfangen soll.

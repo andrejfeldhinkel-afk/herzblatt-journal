@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/dating-als-introvertierter-mann.webp"
 imageAlt: "Introvertierter Mann beim gemütlichen Date"
 faq:
-  - question: "Müssen introvertierte Männer extrovertiert werden, um erfolgreich zu daten?"
-    answer: "Nein. Tatsächlich sind viele Menschen von authentischen, nachdenklichen Männern angezogen, die zuhören können. Die Fähigkeit zuzuhören ist eine enorme Stärke beim Dating."
-  - question: "Wie überwinde ich Angst beim Ansprechen von Frauen?"
-    answer: "Beginne klein. Übe mit niedrig-Einsatz-Situationen. Verinnerliche, dass Ablehnung keine Reflexion deines Wertes ist. Mit der Zeit wird es einfacher."
-  - question: "Sind Online-Dating-Apps besser für introvertierte Männer?"
-    answer: "Ja, viele introvertierte Männer finden Online-Dating einfacher, weil es weniger spontane Höchstleistung erfordert. Sie haben Zeit zu denken und können sich selbst darstellen."
+  - "{'question': 'Müssen introvertierte Männer extrovertiert werden, um erfolgreich zu daten?', 'answer': 'Nein. Tatsächlich sind viele Menschen von authentischen, nachdenklichen Männern angezogen, die zuhören können. Die Fähigkeit zuzuhören ist eine enorme Stärke beim Dating.'}"
+  - "{'question': 'Wie überwinde ich Angst beim Ansprechen von Frauen?', 'answer': 'Beginne klein. Übe mit niedrig-Einsatz-Situationen. Verinnerliche, dass Ablehnung keine Reflexion deines Wertes ist. Mit der Zeit wird es einfacher.'}"
+  - "{'question': 'Sind Online-Dating-Apps besser für introvertierte Männer?', 'answer': 'Ja, viele introvertierte Männer finden Online-Dating einfacher, weil es weniger spontane Höchstleistung erfordert. Sie haben Zeit zu denken und können sich selbst darstellen.'}"
 ---
 
 Du kennst das: introvertierte. Dann geht es dir wie vielen anderen — und [dating](/blog/anzeichen-er-steht-auf-dich/) ist dabei ein zentraler Faktor, den du nicht ignorieren solltest. In diesem Artikel zeigen wir dir, wie du damit umgehen kannst.

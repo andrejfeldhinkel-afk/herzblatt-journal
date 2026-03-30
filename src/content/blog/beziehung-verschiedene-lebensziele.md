@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/beziehung-verschiedene-lebensziele.webp"
 imageAlt: "Paar mit unterschiedlichen Träumen"
 faq:
-  - question: "Können Paare mit unterschiedlichen Lebenszielen wirklich zusammenbleiben?"
-    answer: "Ja, es ist möglich, aber es erfordert Kompromisse und gegenseitiges Verständnis. Der Schlüssel ist, herauszufinden, welche Ziele verhandelbar sind und welche nicht. Wenn die grundlegenden Werte übereinstimmen, können verschiedene Ziele sogar die Beziehung bereichern."
-  - question: "Wie unterscheidet man zwischen unbedeutenden und großen Unterschieden?"
-    answer: "Unbedeutend: einer mag Reisen, der andere mag Lesen. Groß: einer möchte Kinder, der andere nicht; einer strebt Karriere an, der andere will Hausarbeiten. Die großen unterscheiden sich darin, wie sie dein Leben prägen."
-  - question: "Was sollte ich tun, wenn ich merke, dass unsere Ziele unvereinbar sind?"
-    answer: "Führe ein offenes Gespräch, bevor es zu spät ist. Sei ehrlich über deine Bedürfnisse. Falls ihr wirklich unvereinbare Ziele habt, ist es besser, es früh zu erkennen, anstatt später unglücklich zu sein oder zu versuchen, deinen Partner zu ändern."
+  - "{'question': 'Können Paare mit unterschiedlichen Lebenszielen wirklich zusammenbleiben?', 'answer': 'Ja, es ist möglich, aber es erfordert Kompromisse und gegenseitiges Verständnis. Der Schlüssel ist, herauszufinden, welche Ziele verhandelbar sind und welche nicht. Wenn die grundlegenden Werte übereinstimmen, können verschiedene Ziele sogar die Beziehung bereichern.'}"
+  - "{'question': 'Wie unterscheidet man zwischen unbedeutenden und großen Unterschieden?', 'answer': 'Unbedeutend: einer mag Reisen, der andere mag Lesen. Groß: einer möchte Kinder, der andere nicht; einer strebt Karriere an, der andere will Hausarbeiten. Die großen unterscheiden sich darin, wie sie dein Leben prägen.'}"
+  - "{'question': 'Was sollte ich tun, wenn ich merke, dass unsere Ziele unvereinbar sind?', 'answer': 'Führe ein offenes Gespräch, bevor es zu spät ist. Sei ehrlich über deine Bedürfnisse. Falls ihr wirklich unvereinbare Ziele habt, ist es besser, es früh zu erkennen, anstatt später unglücklich zu sein oder zu versuchen, deinen Partner zu ändern.'}"
 ---
 Eines der schwierigsten Szenarien in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/) ist die Realisierung, dass dein [partner](/blog/beziehung-kompromisse-finden/) und du unterschiedliche Lebensziele haben. Er träumt von einer Karriere in Silicon Valley, während du in deiner kleinen Heimatstadt bleiben möchtest. Sie möchte drei Kinder, du möchtest kinderlos bleiben. Diese Unterschiede können eine Beziehung auf eine harte Probe stellen.
 

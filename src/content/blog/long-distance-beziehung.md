@@ -13,14 +13,10 @@ draft: false
 image: "/images/photos/long-distance-beziehung.webp"
 imageAlt: "Illustration Fernbeziehung"
 faq:
-  - question: "Wie lange dauert es, bevor eine Fernbeziehung zu nah wird?"
-    answer: "Das varies. Manche Paare halten 5+ Jahre, andere nicht. Der Schlüssel ist ein klares Ende-Datum und der Glaube, dass die Distanz temporär ist."
-  - question: "Ist Fernbeziehung schlechter als nähe Beziehungen?"
-    answer: "Nicht notwendigerweise. Sie erfordern mehr Arbeit, aber können auch stärker sein, weil die Kommunikation bewusster ist. Nähe schafft keine automatische Qualität."
-  - question: "Wie kümmere ich mich um meine emotionalen Bedürfnisse in einer Fernbeziehung?"
-    answer: "Bau dir ein soziales Leben auf. Habe Freunde, Hobbys, Interessen. Verlasse dich nicht nur auf deinen Partner für emotionale Erfüllung."
-  - question: "Sollte ich meinen Partner bei jedem Schritt meines Tages updaten?"
-    answer: "Nein, das ist nicht nötig oder gesund. Teile wichtige Momente, aber behalte auch Privatsphäre und Unabhängigkeit. Konstante Updates können erstickend sein."
+  - "{'question': 'Wie lange dauert es, bevor eine Fernbeziehung zu nah wird?', 'answer': 'Das varies. Manche Paare halten 5+ Jahre, andere nicht. Der Schlüssel ist ein klares Ende-Datum und der Glaube, dass die Distanz temporär ist.'}"
+  - "{'question': 'Ist Fernbeziehung schlechter als nähe Beziehungen?', 'answer': 'Nicht notwendigerweise. Sie erfordern mehr Arbeit, aber können auch stärker sein, weil die Kommunikation bewusster ist. Nähe schafft keine automatische Qualität.'}"
+  - "{'question': 'Wie kümmere ich mich um meine emotionalen Bedürfnisse in einer Fernbeziehung?', 'answer': 'Bau dir ein soziales Leben auf. Habe Freunde, Hobbys, Interessen. Verlasse dich nicht nur auf deinen Partner für emotionale Erfüllung.'}"
+  - "{'question': 'Sollte ich meinen Partner bei jedem Schritt meines Tages updaten?', 'answer': 'Nein, das ist nicht nötig oder gesund. Teile wichtige Momente, aber behalte auch Privatsphäre und Unabhängigkeit. Konstante Updates können erstickend sein.'}"
 ---Eine Fernbeziehung ist nicht das, was sich die meisten Menschen für ihre Liebe vorstellen. Kein spontanes Küssen, keine gemeinsamen Alltags-Momente, keine physische Nähe. Aber in unserer globalen Welt werden Fernbeziehungen immer häufiger, und viele Menschen beweisen, dass Distanz nicht Liebe destabilisieren muss.
 
 Tatsächlich, wenn sie richtig gehandhabt werden, können Fernbeziehungen sogar stärker sein als Beziehungen in der gleichen Stadt. In diesem Guide erfährst du, wie du eine Fernbeziehung aufbaust, die nicht nur überlebt, sondern gedeiht.

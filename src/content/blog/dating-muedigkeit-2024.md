@@ -13,10 +13,8 @@ draft: false
 image: "/images/photos/online-dating-muedigkeit.webp"
 imageAlt: "Dating-Müdigkeit 2024: Wenn Swipen keinen Spaß meh"
 faq:
-  - question: "Was ist das Wichtigste bei dating-müdigkeit 2024?"
-    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
-  - question: "Wo finde ich Hilfe zum Thema dating-müdigkeit 2024?"
-    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
+  - "{'question': 'Was ist das Wichtigste bei dating-müdigkeit 2024?', 'answer': 'Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst.'}"
+  - "{'question': 'Wo finde ich Hilfe zum Thema dating-müdigkeit 2024?', 'answer': 'Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung.'}"
 ---
 
 ## dating-Müdigkeit: Wenn Swipen zur Qual wird

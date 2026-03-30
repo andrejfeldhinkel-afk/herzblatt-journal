@@ -15,16 +15,11 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - question: "Was ist Bindungsangst genau?"
-    answer: "Bindungsangst ist die unbewusste oder bewusste Angst vor emotionaler Nähe und Verbindung. Menschen mit Bindungsangst sehnen sich nach Liebe, haben aber unbewusste Angst davor, sie zu empfangen."
-  - question: "Wird Bindungsangst vererbt oder ist sie gelernt?"
-    answer: "Bindungsangst ist fast immer gelernt – aber nicht bewusst. Sie kommt oft von deinen Erfahrungen in der Kindheit, besonders in deiner ersten Beziehung mit deinem Pfleger (Mutter, Vater oder andere)."
-  - question: "Kann ich mit jemandem mit Bindungsangst zusammen sein?"
-    answer: "Ja, aber nur wenn diese Person bereit ist, an ihrer Angst zu arbeiten. Wenn sie die Angst leugnet oder sich weigert, echte Arbeit zu leisten, wird die Beziehung leiden."
-  - question: "Wie lange dauert es, Bindungsangst zu überwinden?"
-    answer: "Es hängt ab, wie tief die Angst ist. Lichte Fälle könnten in Monaten besser werden. Tiefe Fälle könnten Jahre dauern. Das Wichtigste ist, dass es möglich ist."
-  - question: "Kann Therapie Bindungsangst heilen?"
-    answer: "Therapie kann helfen, aber es ist nicht magisch. Der Schlüssel ist deine Bereitschaft, unbequem zu werden, Verletzlichkeit zu üben und neue Verhaltensmuster zu schaffen."
+  - "{'question': 'Was ist Bindungsangst genau?', 'answer': 'Bindungsangst ist die unbewusste oder bewusste Angst vor emotionaler Nähe und Verbindung. Menschen mit Bindungsangst sehnen sich nach Liebe, haben aber unbewusste Angst davor, sie zu empfangen.'}"
+  - "{'question': 'Wird Bindungsangst vererbt oder ist sie gelernt?', 'answer': 'Bindungsangst ist fast immer gelernt – aber nicht bewusst. Sie kommt oft von deinen Erfahrungen in der Kindheit, besonders in deiner ersten Beziehung mit deinem Pfleger (Mutter, Vater oder andere).'}"
+  - "{'question': 'Kann ich mit jemandem mit Bindungsangst zusammen sein?', 'answer': 'Ja, aber nur wenn diese Person bereit ist, an ihrer Angst zu arbeiten. Wenn sie die Angst leugnet oder sich weigert, echte Arbeit zu leisten, wird die Beziehung leiden.'}"
+  - "{'question': 'Wie lange dauert es, Bindungsangst zu überwinden?', 'answer': 'Es hängt ab, wie tief die Angst ist. Lichte Fälle könnten in Monaten besser werden. Tiefe Fälle könnten Jahre dauern. Das Wichtigste ist, dass es möglich ist.'}"
+  - "{'question': 'Kann Therapie Bindungsangst heilen?', 'answer': 'Therapie kann helfen, aber es ist nicht magisch. Der Schlüssel ist deine Bereitschaft, unbequem zu werden, Verletzlichkeit zu üben und neue Verhaltensmuster zu schaffen.'}"
 ---
 
 Bindungsangst überwinden: Warum du dich nicht einlassen kannst und was hilft

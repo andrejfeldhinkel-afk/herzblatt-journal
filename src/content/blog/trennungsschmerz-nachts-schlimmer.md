@@ -15,16 +15,11 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - question: "Warum schmerzt die Trennung nachts mehr?"
-    answer: "Nachts ist unser Gehirn weniger beschäftigt, die Ablenkung fehlt. Stresshormone fallen ab, emotionale Schmerzen werden intensiver wahrgenommen. Der Körper ist im Parasympathikus-Modus und trägt all seine Gefühle intensiver zur Schau."
-  - question: "Wie lange dauert dieser Effekt an?"
-    answer: "Die erste bis dritte Woche ist meist am intensivsten. Danach lässt es schrittweise nach, kann aber Monate anhalten. Jede Person verarbeitet Trennungen unterschiedlich schnell."
-  - question: "Hilft es, abends noch aufs Handy zu schauen?"
-    answer: "Nein. Das blaue Licht stimuliert das Gehirn, Nachrichten vom Ex verschärfen den Schmerz. Handy mindestens 30 Minuten vor dem Schlafengehen weg – egal wie schwer es fällt."
-  - question: "Welche Medikamente helfen?"
-    answer: "Schlafmittel sollten nicht die erste Wahl sein. Versuche zuerst Bewegung, warme Getränke und Atemtechniken. Bei ernsthaften Schlafproblemen über zwei Wochen sprich mit deinem Arzt."
-  - question: "Kann ich nachts meditieren statt zu schlaf zu versuchen?"
-    answer: "Ja, absolut. Geführte Meditationen für Trauer oder gebrochene Herzen können wirklich helfen. Dein Gehirn beruhigt sich, emotionaler Schmerz wird weniger akut."
+  - "{'question': 'Warum schmerzt die Trennung nachts mehr?', 'answer': 'Nachts ist unser Gehirn weniger beschäftigt, die Ablenkung fehlt. Stresshormone fallen ab, emotionale Schmerzen werden intensiver wahrgenommen. Der Körper ist im Parasympathikus-Modus und trägt all seine Gefühle intensiver zur Schau.'}"
+  - "{'question': 'Wie lange dauert dieser Effekt an?', 'answer': 'Die erste bis dritte Woche ist meist am intensivsten. Danach lässt es schrittweise nach, kann aber Monate anhalten. Jede Person verarbeitet Trennungen unterschiedlich schnell.'}"
+  - "{'question': 'Hilft es, abends noch aufs Handy zu schauen?', 'answer': 'Nein. Das blaue Licht stimuliert das Gehirn, Nachrichten vom Ex verschärfen den Schmerz. Handy mindestens 30 Minuten vor dem Schlafengehen weg – egal wie schwer es fällt.'}"
+  - "{'question': 'Welche Medikamente helfen?', 'answer': 'Schlafmittel sollten nicht die erste Wahl sein. Versuche zuerst Bewegung, warme Getränke und Atemtechniken. Bei ernsthaften Schlafproblemen über zwei Wochen sprich mit deinem Arzt.'}"
+  - "{'question': 'Kann ich nachts meditieren statt zu schlaf zu versuchen?', 'answer': 'Ja, absolut. Geführte Meditationen für Trauer oder gebrochene Herzen können wirklich helfen. Dein Gehirn beruhigt sich, emotionaler Schmerz wird weniger akut.'}"
 ---
 
 ## Warum Trennungsschmerz nachts schlimmer ist

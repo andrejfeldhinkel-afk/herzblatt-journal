@@ -18,14 +18,10 @@ draft: false
 featured: false
 author: "laura-weber"
 faq:
-  - question: "Ist es mit 50 zu spät für die Liebe?"
-    answer: "Absolut nicht. Millionen Menschen finden ihre große Liebe nach 50. Du bringst Lebenserfahrung, Klarheit über deine Werte und emotionale Reife mit — das sind echte Vorteile beim Dating."
-  - question: "Welche Dating-Apps eignen sich ab 50?"
-    answer: "Parship und ElitePartner haben den höchsten Anteil an Ü50-Nutzern und setzen auf ernsthafte Vermittlung. Zweisam.de richtet sich speziell an die Generation 50+. Bumble ist eine gute Alternative für aktive Frauen."
-  - question: "Wie sage ich meinen erwachsenen Kindern, dass ich wieder date?"
-    answer: "Offen und ehrlich, aber ohne Rechtfertigung. Du hast jedes Recht auf ein erfülltes Liebesleben. Wähle einen ruhigen Moment, erkläre deine Gefühle und gib deinen Kindern Zeit, sich daran zu gewöhnen."
-  - question: "Worauf sollte ich beim Dating ab 50 besonders achten?"
-    answer: "Kenne deine Deal-Breaker, sei ehrlich über deine Lebenssituation, lass dir Zeit beim Kennenlernen und vergleiche neue Partner nicht mit deinem Ex. Authentizität und klare Kommunikation sind in diesem Alter wichtiger denn je."
+  - "{'question': 'Ist es mit 50 zu spät für die Liebe?', 'answer': 'Absolut nicht. Millionen Menschen finden ihre große Liebe nach 50. Du bringst Lebenserfahrung, Klarheit über deine Werte und emotionale Reife mit — das sind echte Vorteile beim Dating.'}"
+  - "{'question': 'Welche Dating-Apps eignen sich ab 50?', 'answer': 'Parship und ElitePartner haben den höchsten Anteil an Ü50-Nutzern und setzen auf ernsthafte Vermittlung. Zweisam.de richtet sich speziell an die Generation 50+. Bumble ist eine gute Alternative für aktive Frauen.'}"
+  - "{'question': 'Wie sage ich meinen erwachsenen Kindern, dass ich wieder date?', 'answer': 'Offen und ehrlich, aber ohne Rechtfertigung. Du hast jedes Recht auf ein erfülltes Liebesleben. Wähle einen ruhigen Moment, erkläre deine Gefühle und gib deinen Kindern Zeit, sich daran zu gewöhnen.'}"
+  - "{'question': 'Worauf sollte ich beim Dating ab 50 besonders achten?', 'answer': 'Kenne deine Deal-Breaker, sei ehrlich über deine Lebenssituation, lass dir Zeit beim Kennenlernen und vergleiche neue Partner nicht mit deinem Ex. Authentizität und klare Kommunikation sind in diesem Alter wichtiger denn je.'}"
 ---
 ## Die Liebe wartet nicht — und du auch nicht
 

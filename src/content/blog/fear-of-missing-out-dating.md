@@ -15,12 +15,9 @@ keywords:
 draft: false
 author: "thomas-peters"
 faq:
-  - question: "Warum habe ich beim Dating immer FOMO?"
-    answer: "Dating-Apps erzeugen die Illusion endloser Optionen. Dein Gehirn denkt: 'Wenn ich so viele Profile sehe, muss da noch jemand Besseres sein.' Das ist das Paradox der Wahl."
-  - question: "Wie überwinde ich Dating-FOMO?"
-    answer: "Begrenze deine Optionen bewusst. Wenn du jemanden magst, lösche die App für zwei Wochen und gib der Person eine echte Chance. FOMO ist ein Gefühl, keine Realität."
-  - question: "Ist FOMO ein Zeichen dass die Person nicht die Richtige ist?"
-    answer: "Nicht unbedingt. FOMO sagt oft mehr über dich als über die andere Person. Wenn du bei jedem Menschen FOMO hast, liegt das Problem nicht bei deinen Dates sondern bei deiner Bindungsbereitschaft."
+  - "{'question': 'Warum habe ich beim Dating immer FOMO?', 'answer': "Dating-Apps erzeugen die Illusion endloser Optionen. Dein Gehirn denkt: 'Wenn ich so viele Profile sehe, muss da noch jemand Besseres sein.' Das ist das Paradox der Wahl."}"
+  - "{'question': 'Wie überwinde ich Dating-FOMO?', 'answer': 'Begrenze deine Optionen bewusst. Wenn du jemanden magst, lösche die App für zwei Wochen und gib der Person eine echte Chance. FOMO ist ein Gefühl, keine Realität.'}"
+  - "{'question': 'Ist FOMO ein Zeichen dass die Person nicht die Richtige ist?', 'answer': 'Nicht unbedingt. FOMO sagt oft mehr über dich als über die andere Person. Wenn du bei jedem Menschen FOMO hast, liegt das Problem nicht bei deinen Dates sondern bei deiner Bindungsbereitschaft.'}"
 ---
 
 Du sitzt im Café mit jemandem der dich mag. Wirklich mag. Sie schaut dich an wie du der Anfang und das Ende ihrer Welt bist. Sie lacht bei jedem Witz. Sie scheint echte Gefühle für dich zu haben.

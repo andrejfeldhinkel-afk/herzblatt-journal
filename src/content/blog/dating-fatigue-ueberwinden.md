@@ -15,14 +15,10 @@ draft: false
 image: "/images/photos/dating-fatigue-ueberwinden.webp"
 imageAlt: "Person, die sich erschöpft auf einem Stuhl zurücklehnt"
 faq:
-  - question: "Wie erkenne ich, dass ich Dating-Müdigkeit habe?"
-    answer: "Du öffnest Dating-Apps ohne Hoffnung, findest niemanden interessant, lehnst potenzielle Daten ab oder hast keine Energie für Gespräche. Das sind klassische Zeichen von Dating-Burnout."
-  - question: "Sollte ich eine Dating-Pause machen?"
-    answer: "Ja, wenn du dich ausgebrannt fühlst. Eine 2-4 Wochen Pause kann dir helfen, Energie zu tanken und deine Perspektive zu erneuern. Es ist okay, eine Pause zu machen."
-  - question: "Wie lange dauert es, um Dating-Müdigkeit zu überwinden?"
-    answer: "Das hängt davon ab. Eine gute Pause kombiniert mit Selbstkare und neuen Aktivitäten kann dir in 2-4 Wochen helfen, deine Energie zurückzugewinnen."
-  - question: "Kann ich Dating-Apps reduzieren, ohne die Hoffnung aufzugeben?"
-    answer: "Ja. Nutze statt dessen 1-2 Apps statt vielen, setz dir Zeitlimits, und konzentriere dich auf Qualität statt Quantität von Matches."
+  - "{'question': 'Wie erkenne ich, dass ich Dating-Müdigkeit habe?', 'answer': 'Du öffnest Dating-Apps ohne Hoffnung, findest niemanden interessant, lehnst potenzielle Daten ab oder hast keine Energie für Gespräche. Das sind klassische Zeichen von Dating-Burnout.'}"
+  - "{'question': 'Sollte ich eine Dating-Pause machen?', 'answer': 'Ja, wenn du dich ausgebrannt fühlst. Eine 2-4 Wochen Pause kann dir helfen, Energie zu tanken und deine Perspektive zu erneuern. Es ist okay, eine Pause zu machen.'}"
+  - "{'question': 'Wie lange dauert es, um Dating-Müdigkeit zu überwinden?', 'answer': 'Das hängt davon ab. Eine gute Pause kombiniert mit Selbstkare und neuen Aktivitäten kann dir in 2-4 Wochen helfen, deine Energie zurückzugewinnen.'}"
+  - "{'question': 'Kann ich Dating-Apps reduzieren, ohne die Hoffnung aufzugeben?', 'answer': 'Ja. Nutze statt dessen 1-2 Apps statt vielen, setz dir Zeitlimits, und konzentriere dich auf Qualität statt Quantität von Matches.'}"
 ---
 
 Du kennst das: überwinden. Dann geht es dir wie vielen anderen — und dating ist dabei ein zentraler Faktor, den du nicht ignorieren solltest. In diesem Artikel zeigen wir dir, wie du damit umgehen kannst.

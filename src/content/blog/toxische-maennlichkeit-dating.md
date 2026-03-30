@@ -15,12 +15,9 @@ keywords:
   - "Emotionaler Missbrauch"
   - "Beziehungssicherheit"
 faq:
-  - question: "Was ist genau toxische Männlichkeit?"
-    answer: "Toxische Männlichkeit sind Verhaltensweisen und Einstellungen, die Schaden verursachen – wie Kontrollverhalten, emotionaler Missbrauch, Mangel an Emotionalität, Aggression und frauenfeindliche Einstellungen."
-  - question: "Kann jemand mit toxischen Verhaltensweisen sich ändern?"
-    answer: "Manchmal, aber nur wenn sie das Problem erkennen und aktiv daran arbeiten möchten. Das erfordert normalerweise professionelle Hilfe. Das ist nicht Ihre Verantwortung, das zu beheben."
-  - question: "Bin ich schuldig, wenn ich jemanden mit toxischen Verhaltensweisen verlasse?"
-    answer: "Nein, absolut nicht. Ihre Sicherheit und mentale Gesundheit sind die Priorität. Es ist nicht egoistisch oder lieblos, sich selbst zu schützen."
+  - "{'question': 'Was ist genau toxische Männlichkeit?', 'answer': 'Toxische Männlichkeit sind Verhaltensweisen und Einstellungen, die Schaden verursachen – wie Kontrollverhalten, emotionaler Missbrauch, Mangel an Emotionalität, Aggression und frauenfeindliche Einstellungen.'}"
+  - "{'question': 'Kann jemand mit toxischen Verhaltensweisen sich ändern?', 'answer': 'Manchmal, aber nur wenn sie das Problem erkennen und aktiv daran arbeiten möchten. Das erfordert normalerweise professionelle Hilfe. Das ist nicht Ihre Verantwortung, das zu beheben.'}"
+  - "{'question': 'Bin ich schuldig, wenn ich jemanden mit toxischen Verhaltensweisen verlasse?', 'answer': 'Nein, absolut nicht. Ihre Sicherheit und mentale Gesundheit sind die Priorität. Es ist nicht egoistisch oder lieblos, sich selbst zu schützen.'}"
 ---
 Toxische Männlichkeit ist ein Begriff, der häufig gehört wird, aber nicht immer verstanden wird. Im Kontext des Datings bezieht sich toxische Männlichkeit auf Verhaltensweisen und Einstellungen, die die emotionale Sicherheit, Autonomie und das Wohlbefinden von Frauen beeinträchtigen. Es ist wichtig, diese Warnsignale früh zu erkennen. In diesem Leitfaden erfahren Sie, wie Sie toxische Männlichkeit beim Dating identifizieren und sich selbst schützen.
 

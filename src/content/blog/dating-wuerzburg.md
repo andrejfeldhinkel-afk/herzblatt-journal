@@ -14,12 +14,9 @@ draft: false
 image: "/images/photos/dating-wuerzburg.webp"
 imageAlt: "Würzburg"
 faq:
-  - question: "Wo lernt man in Würzburg Singles kennen?"
-    answer: "In Würzburg findest du eine aktive Single-Szene in der Altstadt, auf der Mainbrücke, in Weinstuben und Bars der Innenstadt. Das studentische Leben (Uni Würzburg!) macht die Stadt lebendig, und die traditionellen Weinstuben sind perfekt für gesellige Kennenlernmomente."
-  - question: "Was sind die besten Date-Ideen in Würzburg?"
-    answer: "Perfekte Dates sind an der legendären Mainbrücke mit Brückenschoppen, in der malerischen Altstadt, auf dem Residenz-Platz oder bei einer Weintour durch die Weinberge. Auch die Festung Marienberg mit Aussicht oder ein gemütlicher Spaziergang am Main sind großartig."
-  - question: "Gibt es eine gute Single-Szene in Würzburg?"
-    answer: "Absolut! Würzburg ist eine junge, dynamische Stadt mit einer großen Universität. Die Szene ist lebendig, offen und sehr Dating-freundlich. Die Weinkultur macht das Soziale sehr einfach und natürlich."
+  - "{'question': 'Wo lernt man in Würzburg Singles kennen?', 'answer': 'In Würzburg findest du eine aktive Single-Szene in der Altstadt, auf der Mainbrücke, in Weinstuben und Bars der Innenstadt. Das studentische Leben (Uni Würzburg!) macht die Stadt lebendig, und die traditionellen Weinstuben sind perfekt für gesellige Kennenlernmomente.'}"
+  - "{'question': 'Was sind die besten Date-Ideen in Würzburg?', 'answer': 'Perfekte Dates sind an der legendären Mainbrücke mit Brückenschoppen, in der malerischen Altstadt, auf dem Residenz-Platz oder bei einer Weintour durch die Weinberge. Auch die Festung Marienberg mit Aussicht oder ein gemütlicher Spaziergang am Main sind großartig.'}"
+  - "{'question': 'Gibt es eine gute Single-Szene in Würzburg?', 'answer': 'Absolut! Würzburg ist eine junge, dynamische Stadt mit einer großen Universität. Die Szene ist lebendig, offen und sehr Dating-freundlich. Die Weinkultur macht das Soziale sehr einfach und natürlich.'}"
 ---
 ## dating in Würzburg: Wo Wein, Geschichte und Romantik sich treffen
 

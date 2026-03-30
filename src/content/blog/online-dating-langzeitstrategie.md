@@ -18,14 +18,10 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Wie lange sollte man Online-Dating betreiben bevor man aufgibt?"
-    answer: "Die meisten erfolgreichen Paare haben 6-12 Monate aktiv gesucht. Das klingt lang, aber mit der richtigen Strategie wird es nicht anstrengend. Setze dir Etappenziele statt eines Enddatums und mach regelmäßig Pausen."
-  - question: "Wie viel Zeit sollte man pro Tag auf Dating-Apps verbringen?"
-    answer: "15-20 Minuten pro Tag reichen völlig aus. Qualität schlägt Quantität. Lieber 10 bewusste Swipes und 2-3 gute Gespräche als stundenloses Scrollen. Setze dir feste Zeiten und halte dich daran."
-  - question: "Soll man mehrere Dating-Apps gleichzeitig nutzen?"
-    answer: "2-3 Apps gleichzeitig sind optimal. Eine für ernsthafte Suche (Hinge, Bumble), eine als Ergänzung (Tinder, OkCupid) und optional eine Nischen-App. Mehr als drei wird schnell unübersichtlich und anstrengend."
-  - question: "Wie bleibt man motiviert wenn es nicht klappt?"
-    answer: "Feiere kleine Erfolge (gutes Gespräch, nettes Date), mach regelmäßige Pausen, erinnere dich dass du nur eine Person brauchst, und investiere parallel in dein eigenes Leben. Dating sollte eine Ergänzung sein, nicht dein Lebensmittelpunkt."
+  - "{'question': 'Wie lange sollte man Online-Dating betreiben bevor man aufgibt?', 'answer': 'Die meisten erfolgreichen Paare haben 6-12 Monate aktiv gesucht. Das klingt lang, aber mit der richtigen Strategie wird es nicht anstrengend. Setze dir Etappenziele statt eines Enddatums und mach regelmäßig Pausen.'}"
+  - "{'question': 'Wie viel Zeit sollte man pro Tag auf Dating-Apps verbringen?', 'answer': '15-20 Minuten pro Tag reichen völlig aus. Qualität schlägt Quantität. Lieber 10 bewusste Swipes und 2-3 gute Gespräche als stundenloses Scrollen. Setze dir feste Zeiten und halte dich daran.'}"
+  - "{'question': 'Soll man mehrere Dating-Apps gleichzeitig nutzen?', 'answer': '2-3 Apps gleichzeitig sind optimal. Eine für ernsthafte Suche (Hinge, Bumble), eine als Ergänzung (Tinder, OkCupid) und optional eine Nischen-App. Mehr als drei wird schnell unübersichtlich und anstrengend.'}"
+  - "{'question': 'Wie bleibt man motiviert wenn es nicht klappt?', 'answer': 'Feiere kleine Erfolge (gutes Gespräch, nettes Date), mach regelmäßige Pausen, erinnere dich dass du nur eine Person brauchst, und investiere parallel in dein eigenes Leben. Dating sollte eine Ergänzung sein, nicht dein Lebensmittelpunkt.'}"
 ---
 
 ## Online-Dating Langzeitstrategie: So findest du nachhaltig den richtigen Partner

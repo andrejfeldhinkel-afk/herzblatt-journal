@@ -17,16 +17,11 @@ keywords:
 image: "/images/blog/micro-dating-beziehung-guide.webp"
 draft: false
 faq:
-  - question: "Was ist ein Micro-Date?"
-    answer: "Ein Micro-Date ist eine kleine, alltägliche Moment mit deinem Partner, die speziell dafür gestaltet ist, Nähe und Verbindung zu schaffen. Das kann ein gemeinsamer Kaffee am Morgen sein oder ein 10-Minuten-Spaziergang am Abend."
-  - question: "Warum sind Micro-Dates wichtiger als große Daten?"
-    answer: "Große Daten sind selten und erfordern Planung. Micro-Dates passieren regelmäßig und bauen konstante Nähe auf. Die Wissenschaft zeigt, dass kleine, regelmäßige Momente einer Beziehung mehr nützen als große Gelegenhete."
-  - question: "Wie oft sollten wir Micro-Dates haben?"
-    answer: "Idealerweise jeden Tag, auch wenn es nur 10-15 Minuten sind. Das ist wichtiger als einmal im Monat ein großes Date zu haben. Konstanz ist der Schlüssel."
-  - question: "Funktionieren Micro-Dates auch für langstrecken-Beziehungen?"
-    answer: "Ja! Video-Anrufe während gemeinsamer Mahlzeiten, morgendliche Nachrichten oder gemeinsames Online-Spiele spielen können Micro-Dates in Langstrecken-Beziehungen sein."
-  - question: "Was ist wenn wir keine Zeit haben?"
-    answer: "Das ist der ganze Punkt von Micro-Dates – sie brauchen keine lange Zeit. Selbst 5 Minuten echte Verbindung ist besser als 2 Stunden zusammen zu sein, während ihr beide auf euren Handys scrollt."
+  - "{'question': 'Was ist ein Micro-Date?', 'answer': 'Ein Micro-Date ist eine kleine, alltägliche Moment mit deinem Partner, die speziell dafür gestaltet ist, Nähe und Verbindung zu schaffen. Das kann ein gemeinsamer Kaffee am Morgen sein oder ein 10-Minuten-Spaziergang am Abend.'}"
+  - "{'question': 'Warum sind Micro-Dates wichtiger als große Daten?', 'answer': 'Große Daten sind selten und erfordern Planung. Micro-Dates passieren regelmäßig und bauen konstante Nähe auf. Die Wissenschaft zeigt, dass kleine, regelmäßige Momente einer Beziehung mehr nützen als große Gelegenhete.'}"
+  - "{'question': 'Wie oft sollten wir Micro-Dates haben?', 'answer': 'Idealerweise jeden Tag, auch wenn es nur 10-15 Minuten sind. Das ist wichtiger als einmal im Monat ein großes Date zu haben. Konstanz ist der Schlüssel.'}"
+  - "{'question': 'Funktionieren Micro-Dates auch für langstrecken-Beziehungen?', 'answer': 'Ja! Video-Anrufe während gemeinsamer Mahlzeiten, morgendliche Nachrichten oder gemeinsames Online-Spiele spielen können Micro-Dates in Langstrecken-Beziehungen sein.'}"
+  - "{'question': 'Was ist wenn wir keine Zeit haben?', 'answer': 'Das ist der ganze Punkt von Micro-Dates – sie brauchen keine lange Zeit. Selbst 5 Minuten echte Verbindung ist besser als 2 Stunden zusammen zu sein, während ihr beide auf euren Handys scrollt.'}"
 ---
 ## Was sind Micro-Dates und warum ändern sie alles?
 

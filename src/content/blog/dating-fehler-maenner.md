@@ -13,14 +13,10 @@ draft: false
 image: "/images/photos/dating-fehler-maenner.webp"
 imageAlt: "Illustration Dating-Fehler Männer"
 faq:
-  - question: "Sollte ich beim ersten Date zahlen?"
-    answer: "Es ist ein nettes Geste, aber nicht zwingend. Im modernen Dating ist es üblich, dass jeder zahlt oder ihr teilt. Das Wichtigste ist, es nicht zu großen Drama zu machen."
-  - question: "Wie schnell sollte ich nach dem ersten Date melden?"
-    answer: "Schreib ihr innerhalb von 1-2 Tagen, wenn du Interesse hast. Zu schnell wirkt bedürftig, zu langsam verliert sie Interesse. Ein einfaches 'Mir hat's mit dir gefallen' reicht."
-  - question: "Ist es okay, ehrlich zu sagen, dass ich nervös bin?"
-    answer: "Ja, das macht dich sympathischer. Ehrlichkeit schafft Vertrauen. Aber sei nicht der ganze Abend nervös — versuche, dich zu entspannen und präsent zu sein."
-  - question: "Wie gehe ich damit um, wenn sie nicht interessiert ist?"
-    answer: "Akzeptiere es mit Würde und versuche es nicht zu erzwingen. Es ist kein Fehler von dir, manchmal passen Menschen nicht zusammen. Weitermachen und nicht zu sehr darüber nachdenken."
+  - "{'question': 'Sollte ich beim ersten Date zahlen?', 'answer': 'Es ist ein nettes Geste, aber nicht zwingend. Im modernen Dating ist es üblich, dass jeder zahlt oder ihr teilt. Das Wichtigste ist, es nicht zu großen Drama zu machen.'}"
+  - "{'question': 'Wie schnell sollte ich nach dem ersten Date melden?', 'answer': "Schreib ihr innerhalb von 1-2 Tagen, wenn du Interesse hast. Zu schnell wirkt bedürftig, zu langsam verliert sie Interesse. Ein einfaches 'Mir hat's mit dir gefallen' reicht."}"
+  - "{'question': 'Ist es okay, ehrlich zu sagen, dass ich nervös bin?', 'answer': 'Ja, das macht dich sympathischer. Ehrlichkeit schafft Vertrauen. Aber sei nicht der ganze Abend nervös — versuche, dich zu entspannen und präsent zu sein.'}"
+  - "{'question': 'Wie gehe ich damit um, wenn sie nicht interessiert ist?', 'answer': 'Akzeptiere es mit Würde und versuche es nicht zu erzwingen. Es ist kein Fehler von dir, manchmal passen Menschen nicht zusammen. Weitermachen und nicht zu sehr darüber nachdenken.'}"
 ---
 ## Dating ist kein Eroberungszug
 

@@ -14,12 +14,9 @@ draft: false
 image: "/images/photos/dating-bamberg.webp"
 imageAlt: "Bamberg Klein-Venedig"
 faq:
-  - question: "Wo lernt man in Bamberg Singles kennen?"
-    answer: "Die beste Single-Szene findest du in Klein-Venedig beim Flussaußenlauf, in den Rauchbier-Kneipen rund um die Obere Brücke und auf der Promenade. Auch die Kneipen-Gassen der Altstadt sind großartig."
-  - question: "Was sind die besten Date-Ideen in Bamberg?"
-    answer: "Boot fahren durch Klein-Venedig, Spaziergang zum Schloss Seehof, Rauchbier-Verkostung, Fluss-Picknick, Stadtwanderung. Bamberg ist ganz Dating perfekt!"
-  - question: "Gibt es eine gute Single-Szene in Bamberg?"
-    answer: "Ja! Bamberg zieht Menschen an, die Kultur, Schönheit und Qualität schätzen. Es ist nicht groß, aber die Singles sind lebenserfahren und echte Qualität statt Menge."
+  - "{'question': 'Wo lernt man in Bamberg Singles kennen?', 'answer': 'Die beste Single-Szene findest du in Klein-Venedig beim Flussaußenlauf, in den Rauchbier-Kneipen rund um die Obere Brücke und auf der Promenade. Auch die Kneipen-Gassen der Altstadt sind großartig.'}"
+  - "{'question': 'Was sind die besten Date-Ideen in Bamberg?', 'answer': 'Boot fahren durch Klein-Venedig, Spaziergang zum Schloss Seehof, Rauchbier-Verkostung, Fluss-Picknick, Stadtwanderung. Bamberg ist ganz Dating perfekt!'}"
+  - "{'question': 'Gibt es eine gute Single-Szene in Bamberg?', 'answer': 'Ja! Bamberg zieht Menschen an, die Kultur, Schönheit und Qualität schätzen. Es ist nicht groß, aber die Singles sind lebenserfahren und echte Qualität statt Menge.'}"
 ---
 
 Du kennst das: bamberg. Dann geht es dir wie vielen anderen — und dating ist dabei ein zentraler Faktor, den du nicht ignorieren solltest. In diesem Artikel zeigen wir dir, wie du damit umgehen kannst.

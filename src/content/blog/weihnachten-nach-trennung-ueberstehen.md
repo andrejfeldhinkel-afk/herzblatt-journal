@@ -16,16 +16,11 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Sollte ich über Weihnachten zu meiner Familie fahren oder allein bleiben?"
-    answer: "Fahr zu deiner Familie, wenn die Beziehung zu ihr gut ist. Allein zu Hause zu sitzen ist destruktiv. Familie bedeutet: Du bist nicht vergessen, du bist Teil von etwas. Das ist wichtig nach einer Trennung."
-  - question: "Was tue ich, wenn meine Familie ständig nach meinem Ex fragt?"
-    answer: "Sag ihnen direkt: 'Wir sind getrennt. Das ist schmerzhaft. Ich brauche eure Unterstützung, nicht Fragen zu ihm.' Echte Familie wird das verstehen und dich schützen."
-  - question: "Ist es ok, über Weihnachten eine neue Person zu treffen?"
-    answer: "Das ist deine Entscheidung. Wenn es sich richtig anfühlt, mach es. Aber nicht aus Flucht vor der Einsamkeit. Mach es, weil du die Person wirklich treffen möchtest. Es ist zu früh, wenn die Trennung weniger als 3 Monate alt ist."
-  - question: "Wie gehe ich mit Weihnachtsdeko um, wenn sie mich an meinen Ex erinnert?"
-    answer: "Entferne diese Deko. Kaufe neue. Das ist nicht herzlos, das ist notwendig. Weihnachten muss sich wie ein Neubeginn anfühlen, nicht wie eine Erinnerung an die alte Beziehung."
-  - question: "Sollte ich mit meinem Ex über die Feiertage kommunizieren?"
-    answer: "Nur wenn nötig. Wenn ihr Kinder habt, ja. Sonst: Silence is golden. Kein 'Frohen Weihnachten'-Text. Keine Nachrichten. Die Feiertage sind für deine Heilung reserviert, nicht für Verhandlungen."
+  - "{'question': 'Sollte ich über Weihnachten zu meiner Familie fahren oder allein bleiben?', 'answer': 'Fahr zu deiner Familie, wenn die Beziehung zu ihr gut ist. Allein zu Hause zu sitzen ist destruktiv. Familie bedeutet: Du bist nicht vergessen, du bist Teil von etwas. Das ist wichtig nach einer Trennung.'}"
+  - "{'question': 'Was tue ich, wenn meine Familie ständig nach meinem Ex fragt?', 'answer': "Sag ihnen direkt: 'Wir sind getrennt. Das ist schmerzhaft. Ich brauche eure Unterstützung, nicht Fragen zu ihm.' Echte Familie wird das verstehen und dich schützen."}"
+  - "{'question': 'Ist es ok, über Weihnachten eine neue Person zu treffen?', 'answer': 'Das ist deine Entscheidung. Wenn es sich richtig anfühlt, mach es. Aber nicht aus Flucht vor der Einsamkeit. Mach es, weil du die Person wirklich treffen möchtest. Es ist zu früh, wenn die Trennung weniger als 3 Monate alt ist.'}"
+  - "{'question': 'Wie gehe ich mit Weihnachtsdeko um, wenn sie mich an meinen Ex erinnert?', 'answer': 'Entferne diese Deko. Kaufe neue. Das ist nicht herzlos, das ist notwendig. Weihnachten muss sich wie ein Neubeginn anfühlen, nicht wie eine Erinnerung an die alte Beziehung.'}"
+  - "{'question': 'Sollte ich mit meinem Ex über die Feiertage kommunizieren?', 'answer': "Nur wenn nötig. Wenn ihr Kinder habt, ja. Sonst: Silence is golden. Kein 'Frohen Weihnachten'-Text. Keine Nachrichten. Die Feiertage sind für deine Heilung reserviert, nicht für Verhandlungen."}"
 ---
 
 ## Die schwierigste Zeit des Jahres

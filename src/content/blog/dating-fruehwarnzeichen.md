@@ -13,12 +13,9 @@ draft: false
 image: "/images/photos/dating-fruehwarnzeichen.webp"
 imageAlt: "Nachdenkliche Person beim Date im Restaurant"
 faq:
-  - question: "Was ist der Unterschied zwischen Red Flags und Frühwarnzeichen?"
-    answer: "Red Flags sind klare Deal-Breaker – Aggression, Manipulation, Kontrollverhalten. Frühwarnzeichen sind subtiler: Sie deuten auf mögliche Probleme hin, ohne sofort ein K.O.-Kriterium zu sein."
-  - question: "Bin ich zu kritisch, wenn ich auf Warnzeichen achte?"
-    answer: "Nein. Aufmerksam sein ist gesund. Der Trick ist, zwischen echten Warnzeichen und normaler Nervosität zu unterscheiden. Muster sind wichtiger als einzelne Momente."
-  - question: "Sollte ich Frühwarnzeichen ansprechen?"
-    answer: "Ja, wenn sie sich wiederholen. Ein offenes Gespräch zeigt, ob die Person bereit ist, über Probleme zu reden – oder ob sie abblockt."
+  - "{'question': 'Was ist der Unterschied zwischen Red Flags und Frühwarnzeichen?', 'answer': 'Red Flags sind klare Deal-Breaker – Aggression, Manipulation, Kontrollverhalten. Frühwarnzeichen sind subtiler: Sie deuten auf mögliche Probleme hin, ohne sofort ein K.O.-Kriterium zu sein.'}"
+  - "{'question': 'Bin ich zu kritisch, wenn ich auf Warnzeichen achte?', 'answer': 'Nein. Aufmerksam sein ist gesund. Der Trick ist, zwischen echten Warnzeichen und normaler Nervosität zu unterscheiden. Muster sind wichtiger als einzelne Momente.'}"
+  - "{'question': 'Sollte ich Frühwarnzeichen ansprechen?', 'answer': 'Ja, wenn sie sich wiederholen. Ein offenes Gespräch zeigt, ob die Person bereit ist, über Probleme zu reden – oder ob sie abblockt.'}"
 ---
 
 Du wünschst dir, besser in der [Dating](/blog/anzeichen-er-steht-auf-dich/)-Welt klarzukommen? Du möchtest wissen, wie man zwischen echtem Potenzial und versteckten Problemen unterscheidet? Dann geht es dir wie vielen anderen — und Frühwarnzeichen sind dabei ein zentraler Faktor, den du nicht ignorieren solltest. In diesem Artikel zeigen wir dir, wie du damit umgehen kannst und dein Dating-Leben transformierst.

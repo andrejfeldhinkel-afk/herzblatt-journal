@@ -1,19 +1,21 @@
 ---
-title: "Das 4-Ohren-Modell in Beziehungen: Warum dein Partner etwas"
-author: "sarah-kellner"
+title: 'Das 4-Ohren-Modell in Beziehungen: Warum dein Partner etwas'
+author: sarah-kellner
 draft: false
-image: "/images/blog/schulz-von-thun-beziehung-guide.webp"
-imageAlt: "Ein Paar sitzt sich gegenüber, Sprechblasen zeigen unterschiedliche Interpretationen, bunte Symbole deuten auf verschiedene Kommunikationsebenen hin"
+image: /images/blog/schulz-von-thun-beziehung-guide.webp
+imageAlt: Ein Paar sitzt sich gegenüber, Sprechblasen zeigen unterschiedliche Interpretationen,
+  bunte Symbole deuten auf verschiedene Kommunikationsebenen hin
 tags:
-  - "Kommunikation"
-  - "Beziehung"
-  - "Psychologie"
+- Kommunikation
+- Beziehung
+- Psychologie
 keywords:
-  - "4 ohren modell beziehung"
-  - "schulz von thun beziehung"
-  - "kommunikation missverständnisse paar"
-  - "vier seiten einer nachricht"
-description: "Das 4-Ohren-Modell erklärt, warum eure Kommunikation so oft schiefgeht. Lerne, auf der richtigen Ebene zu sprechen und wirklich verstanden zu werden."
+- 4 ohren modell beziehung
+- schulz von thun beziehung
+- kommunikation missverständnisse paar
+- vier seiten einer nachricht
+description: Das 4-Ohren-Modell erklärt, warum eure Kommunikation so oft schiefgeht.
+  Lerne, auf der richtigen Ebene zu sprechen und wirklich verstanden zu werden.
 ---
 
 ## Das 4-Ohren-Modell in Beziehungen: Warum dein Partner etwas anderes hört als du sagst

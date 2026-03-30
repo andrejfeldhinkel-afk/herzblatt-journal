@@ -18,14 +18,10 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Wie lange dauert es von der Dating-App bis zur Beziehung?"
-    answer: "Im Durchschnitt dauert es 2-4 Monate vom ersten Match bis zu einer festen Beziehung. Manche Paare sind schneller, andere brauchen länger. Wichtiger als die Dauer ist, dass sich beide bereit fühlen und die gleiche Vision teilen."
-  - question: "Kann man über Dating-Apps eine ernste Beziehung finden?"
-    answer: "Ja, absolut. Laut Studien lernen sich mittlerweile über 30% aller neuen Paare online kennen. Der Schlüssel liegt darin, Apps zu wählen die auf ernsthafte Beziehungen ausgelegt sind und selbst klar zu kommunizieren was du suchst."
-  - question: "Wann sollte man die Dating-App löschen?"
-    answer: "Wenn ihr beide das Exklusivitätsgespräch hattet und euch einig seid. Es ist ein schöner symbolischer Schritt, aber sprecht vorher darüber — einseitiges App-Löschen kann zu Missverständnissen führen."
-  - question: "Was wenn einer noch auf der App ist obwohl wir uns daten?"
-    answer: "Solange ihr kein Exklusivitätsgespräch hattet, ist es normal dass beide noch die App nutzen. Wenn es dich stört, sprich es offen an — ohne Vorwürfe. Das Gespräch über Exklusivität ist wichtiger als heimliches Kontrollieren."
+  - "{'question': 'Wie lange dauert es von der Dating-App bis zur Beziehung?', 'answer': 'Im Durchschnitt dauert es 2-4 Monate vom ersten Match bis zu einer festen Beziehung. Manche Paare sind schneller, andere brauchen länger. Wichtiger als die Dauer ist, dass sich beide bereit fühlen und die gleiche Vision teilen.'}"
+  - "{'question': 'Kann man über Dating-Apps eine ernste Beziehung finden?', 'answer': 'Ja, absolut. Laut Studien lernen sich mittlerweile über 30% aller neuen Paare online kennen. Der Schlüssel liegt darin, Apps zu wählen die auf ernsthafte Beziehungen ausgelegt sind und selbst klar zu kommunizieren was du suchst.'}"
+  - "{'question': 'Wann sollte man die Dating-App löschen?', 'answer': 'Wenn ihr beide das Exklusivitätsgespräch hattet und euch einig seid. Es ist ein schöner symbolischer Schritt, aber sprecht vorher darüber — einseitiges App-Löschen kann zu Missverständnissen führen.'}"
+  - "{'question': 'Was wenn einer noch auf der App ist obwohl wir uns daten?', 'answer': 'Solange ihr kein Exklusivitätsgespräch hattet, ist es normal dass beide noch die App nutzen. Wenn es dich stört, sprich es offen an — ohne Vorwürfe. Das Gespräch über Exklusivität ist wichtiger als heimliches Kontrollieren.'}"
 ---
 
 ## Von der Dating-App zur beziehung: Der komplette Weg vom ersten Swipe zur festen Partnerschaft

@@ -18,14 +18,10 @@ draft: false
 featured: false
 author: "laura-weber"
 faq:
-  - question: "Wann ist der richtige Zeitpunkt zum Zusammenziehen?"
-    answer: "Es gibt keine magische Zahl, aber die meisten Experten empfehlen mindestens 12-18 Monate Beziehung. Wichtiger als die Zeit ist die Qualität: Habt ihr schon Konflikte gemeistert? Kennt ihr die Macken des anderen? Habt ihr schon längere Zeit zusammen verbracht?"
-  - question: "Was sollte man vor dem Zusammenziehen klären?"
-    answer: "Die Big 5: Finanzen (wer zahlt was), Haushalt (Aufgabenverteilung), Schlafgewohnheiten, Sozialleben (Besuch, Freunde) und persönlicher Rückzugsraum. Klärt das VORHER — nicht erst wenn der Umzugswagen vor der Tür steht."
-  - question: "Soll man vorher einen Probe-Monat machen?"
-    answer: "Unbedingt! Verbringt mindestens 2-4 Wochen am Stück in der Wohnung des anderen. Ihr werdet überrascht sein, was euch auffällt — im Guten wie im Herausfordernden."
-  - question: "Was ist der häufigste Fehler beim Zusammenziehen?"
-    answer: "Zu wenig über Finanzen reden. Geld ist der häufigste Streitgrund bei zusammenlebenden Paaren. Klärt vorher: Getrennte oder gemeinsame Kasse? Wer übernimmt welchen Anteil? Wie geht ihr mit unterschiedlichem Einkommen um?"
+  - "{'question': 'Wann ist der richtige Zeitpunkt zum Zusammenziehen?', 'answer': 'Es gibt keine magische Zahl, aber die meisten Experten empfehlen mindestens 12-18 Monate Beziehung. Wichtiger als die Zeit ist die Qualität: Habt ihr schon Konflikte gemeistert? Kennt ihr die Macken des anderen? Habt ihr schon längere Zeit zusammen verbracht?'}"
+  - "{'question': 'Was sollte man vor dem Zusammenziehen klären?', 'answer': 'Die Big 5: Finanzen (wer zahlt was), Haushalt (Aufgabenverteilung), Schlafgewohnheiten, Sozialleben (Besuch, Freunde) und persönlicher Rückzugsraum. Klärt das VORHER — nicht erst wenn der Umzugswagen vor der Tür steht.'}"
+  - "{'question': 'Soll man vorher einen Probe-Monat machen?', 'answer': 'Unbedingt! Verbringt mindestens 2-4 Wochen am Stück in der Wohnung des anderen. Ihr werdet überrascht sein, was euch auffällt — im Guten wie im Herausfordernden.'}"
+  - "{'question': 'Was ist der häufigste Fehler beim Zusammenziehen?', 'answer': 'Zu wenig über Finanzen reden. Geld ist der häufigste Streitgrund bei zusammenlebenden Paaren. Klärt vorher: Getrennte oder gemeinsame Kasse? Wer übernimmt welchen Anteil? Wie geht ihr mit unterschiedlichem Einkommen um?'}"
 ---
 
 Der Traum ist wunderbar. Ihr werdet zusammenziehen. Gemeinsame Wohnung, gemeinsames Leben, gemeinsame Morgen und Abende. Aber dann kommt die Realität: Wer zieht in wessen Wohnung? Wer bezahlt die Makler-Gebühr? Wessen Couch nehmen wir (die deine sieht aus wie 1998 aber die meine ist teuer)? Wie oft darf dein bester Freund zu Besuch kommen bevor ich nicht mehr dich mögen kann?

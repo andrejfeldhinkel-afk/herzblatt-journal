@@ -18,14 +18,10 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Ist es normal dass die Beziehung nach einem Baby leidet?"
-    answer: "Absolut. Studien zeigen dass bis zu 67% der Paare einen Rückgang der Beziehungszufriedenheit nach der Geburt erleben. Der Schlüssel ist, das zu erkennen und aktiv gegenzusteuern."
-  - question: "Wann normalisiert sich die Beziehung nach der Geburt?"
-    answer: "Die intensivste Phase dauert etwa 12-18 Monate. Viele Paare berichten, dass es ab dem zweiten Lebensjahr des Kindes deutlich besser wird — vorausgesetzt, sie kommunizieren offen über ihre Bedürfnisse."
-  - question: "Wie schaffen wir es als Eltern Zeit füreinander zu haben?"
-    answer: "Kleine, regelmäßige Momente sind wichtiger als seltene große Date-Nights. 15 Minuten bewusstes Gespräch am Abend, ein gemeinsames Ritual oder ein kurzer Spaziergang zu zweit können mehr bewirken als ein monatliches Dinner."
-  - question: "Was tun wenn mein Partner sich nach der Geburt emotional zurückzieht?"
-    answer: "Emotionaler Rückzug nach der Geburt ist häufig — bei Müttern und Vätern. Sprich es sanft an ohne Vorwürfe. Sage was du beobachtest und was du brauchst. Bei anhaltender Distanz kann eine Paarberatung den Unterschied machen."
+  - "{'question': 'Ist es normal dass die Beziehung nach einem Baby leidet?', 'answer': 'Absolut. Studien zeigen dass bis zu 67% der Paare einen Rückgang der Beziehungszufriedenheit nach der Geburt erleben. Der Schlüssel ist, das zu erkennen und aktiv gegenzusteuern.'}"
+  - "{'question': 'Wann normalisiert sich die Beziehung nach der Geburt?', 'answer': 'Die intensivste Phase dauert etwa 12-18 Monate. Viele Paare berichten, dass es ab dem zweiten Lebensjahr des Kindes deutlich besser wird — vorausgesetzt, sie kommunizieren offen über ihre Bedürfnisse.'}"
+  - "{'question': 'Wie schaffen wir es als Eltern Zeit füreinander zu haben?', 'answer': 'Kleine, regelmäßige Momente sind wichtiger als seltene große Date-Nights. 15 Minuten bewusstes Gespräch am Abend, ein gemeinsames Ritual oder ein kurzer Spaziergang zu zweit können mehr bewirken als ein monatliches Dinner.'}"
+  - "{'question': 'Was tun wenn mein Partner sich nach der Geburt emotional zurückzieht?', 'answer': 'Emotionaler Rückzug nach der Geburt ist häufig — bei Müttern und Vätern. Sprich es sanft an ohne Vorwürfe. Sage was du beobachtest und was du brauchst. Bei anhaltender Distanz kann eine Paarberatung den Unterschied machen.'}"
 ---
 Dein Baby liegt endlich im Bett. Es hat 45 Minuten gedauert, bis es einschlief — eine Schlacht aus Wiegen, Singen, sachten Patts und leiser Verzweiflung. Du setzt dich neben deinen Partner auf die Couch. Ihr sitzt beide da, und plötzlich merkt ihr, dass ihr euch stundenlang nichts Persönliches mehr gesagt habt. Die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) nach Elternschaft zu bewahren ist eine der größten Herausforderungen, die ein Paar durchleben kann. Es geht nicht um mangelnde Liebe. Es geht um Erschöpfung, neue Rollen, ungleich verteilte Lasten, und ein Leben, das sich in wenigen Monaten komplett umgekrempelt hat.
 

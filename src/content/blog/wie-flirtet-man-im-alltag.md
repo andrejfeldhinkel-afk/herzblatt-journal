@@ -15,16 +15,11 @@ keywords:
 draft: false
 author: "markus-hoffmann"
 faq:
-  - question: "Wie flirte ich ohne aufdringlich zu wirken?"
-    answer: "Bleib locker und situationsbezogen. Ein ehrliches Kompliment, eine witzige Bemerkung zur Situation, Augenkontakt und ein Lächeln — das reicht oft. Wenn das Gegenüber nicht reagiert, zieh dich freundlich zurück."
-  - question: "Kann man im Supermarkt flirten?"
-    answer: "Absolut! Ein Kommentar über ein Produkt, ein Lächeln in der Schlange, eine kleine Hilfe beim Erreichen eines Regals. Alltagssituationen sind perfekt für ungezwungene Kontakte."
-  - question: "Wie erkenne ich ob jemand zurückflirtet?"
-    answer: "Achte auf Körpersprache: zurücklächeln, Blickkontakt halten, offene Körperhaltung, und — der sicherste Indikator — die Person verlängert das Gespräch von sich aus."
-  - question: "Was wenn ich scheitere? Wie gehe ich mit Ablehnung um?"
-    answer: "Ablehnung ist normal und sagt nichts über deinen Wert aus. Lächle, nicke freundlich und geh einfach weiter. 9 von 10 Menschen werden es nicht bemerken, und die 1 Person wird es respektieren."
-  - question: "Gibt es Zeit-Grenzen? Wann ist zu spät zum Flirten?"
-    answer: "Flirten kann überall und jederzeit passieren, aber kontext ist wichtig. 23 Uhr nachts in der Dunkelheit ist komisch. 8 Uhr morgens im Fitnessstudio ist normal. Nutze dein Urteil."
+  - "{'question': 'Wie flirte ich ohne aufdringlich zu wirken?', 'answer': 'Bleib locker und situationsbezogen. Ein ehrliches Kompliment, eine witzige Bemerkung zur Situation, Augenkontakt und ein Lächeln — das reicht oft. Wenn das Gegenüber nicht reagiert, zieh dich freundlich zurück.'}"
+  - "{'question': 'Kann man im Supermarkt flirten?', 'answer': 'Absolut! Ein Kommentar über ein Produkt, ein Lächeln in der Schlange, eine kleine Hilfe beim Erreichen eines Regals. Alltagssituationen sind perfekt für ungezwungene Kontakte.'}"
+  - "{'question': 'Wie erkenne ich ob jemand zurückflirtet?', 'answer': 'Achte auf Körpersprache: zurücklächeln, Blickkontakt halten, offene Körperhaltung, und — der sicherste Indikator — die Person verlängert das Gespräch von sich aus.'}"
+  - "{'question': 'Was wenn ich scheitere? Wie gehe ich mit Ablehnung um?', 'answer': 'Ablehnung ist normal und sagt nichts über deinen Wert aus. Lächle, nicke freundlich und geh einfach weiter. 9 von 10 Menschen werden es nicht bemerken, und die 1 Person wird es respektieren.'}"
+  - "{'question': 'Gibt es Zeit-Grenzen? Wann ist zu spät zum Flirten?', 'answer': 'Flirten kann überall und jederzeit passieren, aber kontext ist wichtig. 23 Uhr nachts in der Dunkelheit ist komisch. 8 Uhr morgens im Fitnessstudio ist normal. Nutze dein Urteil.'}"
 ---
 
 ## Die Wahrheit: Du verpasst ständig Chancen

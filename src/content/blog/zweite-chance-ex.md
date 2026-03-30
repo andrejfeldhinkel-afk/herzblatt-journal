@@ -14,14 +14,10 @@ draft: false
 image: "/images/photos/zweite-chance-ex.webp"
 imageAlt: "Zwei Menschen, die sich unsicher ansehen"
 faq:
-  - question: "Können Beziehungen ein zweites Mal funktionieren?"
-    answer: "Ja, aber nur, wenn sich etwas grundlegend geändert hat. Die Probleme, die zur Trennung führten, müssen gelöst sein. Ohne echte Veränderung, selbe Muster, selbe Probleme."
-  - question: "Wie viel Zeit sollte zwischen Trennung und Wiedervereinigung vergehen?"
-    answer: "Mindestens 6-12 Monate. Genug Zeit zum Heilen und für echte Veränderung. Wenn ihr zu schnell wieder zusammenkommt, verarbeitet ihr die Trennung nicht."
-  - question: "Woran erkenne ich, dass mein Ex sich wirklich geändert hat?"
-    answer: "Nicht nur Worte, sondern Taten. Konkrete Verhaltensänderungen, Therapie, oder Bewusstsein für alte Fehler. Versprechungen ändern nichts — nur Handlungen."
-  - question: "Sollte ich meinen Ex nochmal geben, wenn ich noch Gefühle habe?"
-    answer: "Nicht nur wegen Gefühle. Gefühle können täuschen. Überprüfe, ob die Probleme wirklich gelöst sind und ob es gesund ist. Liebe allein reicht nicht."
+  - "{'question': 'Können Beziehungen ein zweites Mal funktionieren?', 'answer': 'Ja, aber nur, wenn sich etwas grundlegend geändert hat. Die Probleme, die zur Trennung führten, müssen gelöst sein. Ohne echte Veränderung, selbe Muster, selbe Probleme.'}"
+  - "{'question': 'Wie viel Zeit sollte zwischen Trennung und Wiedervereinigung vergehen?', 'answer': 'Mindestens 6-12 Monate. Genug Zeit zum Heilen und für echte Veränderung. Wenn ihr zu schnell wieder zusammenkommt, verarbeitet ihr die Trennung nicht.'}"
+  - "{'question': 'Woran erkenne ich, dass mein Ex sich wirklich geändert hat?', 'answer': 'Nicht nur Worte, sondern Taten. Konkrete Verhaltensänderungen, Therapie, oder Bewusstsein für alte Fehler. Versprechungen ändern nichts — nur Handlungen.'}"
+  - "{'question': 'Sollte ich meinen Ex nochmal geben, wenn ich noch Gefühle habe?', 'answer': 'Nicht nur wegen Gefühle. Gefühle können täuschen. Überprüfe, ob die Probleme wirklich gelöst sind und ob es gesund ist. Liebe allein reicht nicht.'}"
 ---
 ## Die ewige Frage: Sollte ich meinem Ex eine zweite Chance geben?
 

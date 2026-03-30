@@ -15,16 +15,11 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Bedeutet das, dass die Beziehung in Schwierigkeiten ist?"
-    answer: "Nicht automatisch. Manche Paare wählen eine offene Beziehung aus Liebe und Kommunikation. ABER: Wenn dein Partner es plötzlich fordert, weil \"ich dich liebe, aber auch andere Leute sehen will\" – das kann ein Problem sein. Die Gründe sind wichtig."
-  - question: "Was, wenn ich das nicht will?"
-    answer: "Dann ist deine Antwort Nein. Ein guter Partner wird das respektieren. Wenn er/sie Druck ausübt, dich manipuliert, oder sagt \"Wenn du liebst, machst du das\" – das ist eine rote Flagge. Deine Grenzen sind gültig."
-  - question: "Kann eine offene Beziehung funktionieren?"
-    answer: "Ja, aber nur mit extremer Transparenz, regelmäßigen Gesprächen und gegenseitigem Einverständnis. Das ist nicht weniger Arbeit als eine monogame Beziehung – es ist nur andere Arbeit. Wenn eine Person unwilling ist, scheitert es."
-  - question: "Soll ich es versuchen, um die Beziehung zu retten?"
-    answer: "Nein. Absolut nicht. Eine offene Beziehung \"retten\" nichts. Wenn die Grundlagen nicht stimmen, macht eine offene Beziehung es schlimmer. Das ist wie ein Pflaster auf einer großen Wunde."
-  - question: "Wie setze ich Grenzen, wenn ich zustimme?"
-    answer: "Schriftlich. Sprecht: No-Nos (Was ist nicht okay?), Kommunikation (Wie oft reden wir?), STI-Tests (Wann und wie oft?), Emotionale Regeln (Sind romantische Gefühle für andere okay?). Wenn ihr keine Grenzen definieren könnt, ist ihr nicht ready."
+  - "{'question': 'Bedeutet das, dass die Beziehung in Schwierigkeiten ist?', 'answer': 'Nicht automatisch. Manche Paare wählen eine offene Beziehung aus Liebe und Kommunikation. ABER: Wenn dein Partner es plötzlich fordert, weil "ich dich liebe, aber auch andere Leute sehen will" – das kann ein Problem sein. Die Gründe sind wichtig.'}"
+  - "{'question': 'Was, wenn ich das nicht will?', 'answer': 'Dann ist deine Antwort Nein. Ein guter Partner wird das respektieren. Wenn er/sie Druck ausübt, dich manipuliert, oder sagt "Wenn du liebst, machst du das" – das ist eine rote Flagge. Deine Grenzen sind gültig.'}"
+  - "{'question': 'Kann eine offene Beziehung funktionieren?', 'answer': 'Ja, aber nur mit extremer Transparenz, regelmäßigen Gesprächen und gegenseitigem Einverständnis. Das ist nicht weniger Arbeit als eine monogame Beziehung – es ist nur andere Arbeit. Wenn eine Person unwilling ist, scheitert es.'}"
+  - "{'question': 'Soll ich es versuchen, um die Beziehung zu retten?', 'answer': 'Nein. Absolut nicht. Eine offene Beziehung "retten" nichts. Wenn die Grundlagen nicht stimmen, macht eine offene Beziehung es schlimmer. Das ist wie ein Pflaster auf einer großen Wunde.'}"
+  - "{'question': 'Wie setze ich Grenzen, wenn ich zustimme?', 'answer': 'Schriftlich. Sprecht: No-Nos (Was ist nicht okay?), Kommunikation (Wie oft reden wir?), STI-Tests (Wann und wie oft?), Emotionale Regeln (Sind romantische Gefühle für andere okay?). Wenn ihr keine Grenzen definieren könnt, ist ihr nicht ready.'}"
 ---
 ## Partner will offene beziehung: Was jetzt?
 
