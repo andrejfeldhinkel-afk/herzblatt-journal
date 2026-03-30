@@ -1,0 +1,286 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = 'Der ultimative Online-Dating Guide 2026';
+const description = 'Vollständiger Online-Dating Guide mit Tipps zu Profil, Fotos, erste Nachricht, Dating-Apps, Sicherheit und dem Weg vom Chat zum Date. Alles was du wissen musst!';
+const keywords = ['Online-Dating', 'Dating-Guide', 'Dating-Tipps', 'Dating-Apps', 'Profil-Tipps', 'Online-Dating-Sicherheit'];
+
+const sections = [
+  {
+    id: 'profil-fotos',
+    emoji: '📸',
+    title: 'Profil & Fotos',
+    description: 'Dein Profil ist deine digitale Visitenkarte. Mit den richtigen Fotos und Informationen hebst du dich von der Masse ab und ziehst echte Singles an, die zu dir passen.',
+    links: [
+      { slug: 'online-dating-profil', title: 'Online-Dating Profil erstellen' },
+      { slug: 'perfektes-dating-profil', title: 'Das perfekte Dating-Profil' },
+      { slug: 'online-dating-fotos', title: 'Die besten Fotos für dein Profil' }
+    ]
+  },
+  {
+    id: 'erste-nachricht',
+    emoji: '💬',
+    title: 'Die erste Nachricht',
+    description: 'Die erste Nachricht entscheidet oft, ob ein Match zu einer Unterhaltung wird. Lerne, wie du aufmerksamkeitserregende, authentische und charmante erste Nachrichten schreibst.',
+    links: [
+      { slug: 'erste-nachricht-online-dating', title: 'Erste Nachricht – so machst du es richtig' },
+      { slug: 'flirten-lernen', title: 'Flirten lernen – Komplimente und Gesprächsstarter' },
+      { slug: 'komplimente-richtig-machen', title: 'Komplimente, die wirklich ankommen' }
+    ]
+  },
+  {
+    id: 'dating-apps',
+    emoji: '📱',
+    title: 'Dating-Apps verstehen',
+    description: 'Unterschiedliche Apps für unterschiedliche Ziele. Erfahre, wie die beliebtesten Dating-Apps funktionieren, wie ihre Algorithmen arbeiten und welche zu dir passt.',
+    links: [
+      { slug: 'beste-dating-apps-2026', title: 'Beste Dating-Apps 2026 im Vergleich' },
+      { slug: 'dating-apps-vergleich', title: 'Dating-Apps Vergleich – welche passt zu mir?' },
+      { slug: 'online-dating-algorithmus', title: 'Wie Online-Dating-Algorithmen funktionieren' }
+    ]
+  },
+  {
+    id: 'sicherheit',
+    emoji: '🛡️',
+    title: 'Sicherheit & Vorsicht',
+    description: 'Deine Sicherheit hat oberste Priorität. Lerne, rote Flaggen zu erkennen, dich vor Love-Bombing zu schützen und sicher online zu daten.',
+    links: [
+      { slug: 'online-dating-sicherheit', title: 'Sicher online daten – so schützt du dich' },
+      { slug: 'red-flags-erkennen', title: 'Rote Flaggen erkennen und meiden' },
+      { slug: 'love-bombing-erkennen', title: 'Love-Bombing erkennen und sich schützen' }
+    ]
+  },
+  {
+    id: 'vom-chat-zum-date',
+    emoji: '🎯',
+    title: 'Vom Chat zum Date',
+    description: 'Der Übergang vom Nachrichtenverkehr zum realen Treffen ist entscheidend. Erfahre, wann und wie du um ein Date bittest und was beim ersten Treffen wichtig ist.',
+    links: [
+      { slug: 'erstes-treffen-online-dating', title: 'Erstes Treffen nach Online-Dating – was du wissen musst' },
+      { slug: 'erstes-date-tipps', title: 'Tipps für das erste Date' },
+      { slug: 'erstes-date-gespraechsthemen', title: 'Gesprächsthemen für das erste Date' }
+    ]
+  },
+  {
+    id: 'wenn-es-nicht-klappt',
+    emoji: '💪',
+    title: 'Wenn es nicht klappt',
+    description: 'Ghosting und Dating-Müdigkeit sind real. Lerne, damit umzugehen, motiviert zu bleiben und die Zeichen zu erkennen, wenn es Zeit ist, eine Pause zu machen.',
+    links: [
+      { slug: 'ghosting-umgehen', title: 'Ghosting verstehen und damit umgehen' },
+      { slug: 'online-dating-muedigkeit', title: 'Online-Dating Müdigkeit – Ursachen und Lösungen' },
+      { slug: 'dating-fatigue-ueberwinden', title: 'Dating Fatigue überwinden und wieder Spaß haben' }
+    ]
+  }
+];
+
+const faqData = [
+  {
+    question: 'Wie viele Dating-Apps sollte ich gleichzeitig nutzen?',
+    answer: 'Das hängt von deiner Persönlichkeit ab. Manche Menschen verwenden 1-2 Apps und fokussieren sich, andere testen mehrere parallel. Beginne mit einer App, die zu dir passt. Wenn du nach einigen Wochen keine guten Matches hast, versuche eine zweite. Die Qualität ist wichtiger als die Quantität.'
+  },
+  {
+    question: 'Wann sollte ich vom Chat zum realen Treffen übergehen?',
+    answer: 'Idealerweise nach 3-5 Tagen Nachrichtenverkehr. Zu schnell wirkt es aufdringlich, zu langsam lässt die Spannung nach. Achte darauf, dass die Chemie stimmt und ihr genug über Interessen und Grenzen geredet habt. Vertrau auf dein Bauchgefühl!'
+  },
+  {
+    question: 'Wie erkenne ich, ob mein Online-Dating-Profil gut ist?',
+    answer: 'Ein gutes Profil erhält regelmäßig Matches und Nachrichten. Achte darauf, dass deine Fotos hochwertig, authentisch und vielfältig sind, deine Bio klar und witzig geschrieben ist und deine Interessen wirklich dir entsprechen. Wenn du nach 2 Wochen keine Matches hast, probiere neue Fotos oder überarbeite deine Bio.'
+  }
+];
+
+const breadcrumbs = [
+  { name: 'Startseite', url: '/' },
+  { name: 'Online-Dating Guide', url: '/online-dating-guide' }
+];
+---
+
+<BaseLayout 
+  title={title}
+  description={description}
+  keywords={keywords}
+  breadcrumbs={breadcrumbs}
+  faq={faqData}
+>
+  <!-- Hero Section -->
+  <section class="relative overflow-hidden" style="min-height: 500px;">
+    <div class="absolute inset-0" style="background: url('/images/online-dating-hero.webp') center/cover no-repeat;"></div>
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(190,24,93,0.55) 0%, rgba(136,19,55,0.65) 100%);"></div>
+    
+    <div class="relative max-w-6xl mx-auto px-4 sm:px-6 py-20 sm:py-32">
+      <div class="max-w-3xl">
+        <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-sm font-medium mb-6" style="background: rgba(255,255,255,0.15); color: white; border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(8px);">
+          <span class="w-2 h-2 rounded-full animate-pulse bg-white"></span>
+          Kompletter Guide
+        </div>
+        
+        <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold leading-[1.1] mb-6 text-white" style="font-family: var(--font-serif); letter-spacing: -0.03em; text-shadow: 0 2px 20px rgba(0,0,0,0.3);">
+          Der ultimative Online-Dating Guide
+        </h1>
+        
+        <p class="text-lg sm:text-xl leading-relaxed mb-8 max-w-lg text-white/90">
+          Von der Profiloptimierung über die erste Nachricht bis zum Date — alles was du über erfolgreiches Online-Dating wissen musst.
+        </p>
+        
+        <div class="flex flex-wrap gap-3">
+          <a href="/top-dating-seiten" class="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full text-sm font-bold text-white transition-all hover:shadow-lg hover:-translate-y-0.5" style="background: var(--color-primary-500); border: none;">
+            Dating-Apps vergleichen
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+          </a>
+          <a href="/dating-typ-test" class="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full text-sm font-medium transition-all text-white" style="border: 1px solid rgba(255,255,255,0.3); background: rgba(255,255,255,0.1); backdrop-filter: blur(8px);">
+            Dein Dating-Typ
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Sections Grid -->
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="grid gap-8 md:gap-10">
+        {sections.map((section, idx) => (
+          <div class="fade-in" style={`animation-delay: ${idx * 100}ms;`}>
+            <div class="grid md:grid-cols-12 gap-8 items-start">
+              <!-- Content Side -->
+              <div class="md:col-span-8">
+                <div class="flex items-start gap-4 mb-6">
+                  <div class="text-4xl" style="line-height: 1;">{section.emoji}</div>
+                  <div class="flex-1">
+                    <h2 class="text-2xl sm:text-3xl font-bold mb-3" style="color: var(--text); font-family: var(--font-serif);">
+                      {section.title}
+                    </h2>
+                    <p class="text-base leading-relaxed" style="color: var(--text-muted);">
+                      {section.description}
+                    </p>
+                  </div>
+                </div>
+              </div>
+              
+              <!-- Links Side -->
+              <div class="md:col-span-4">
+                <div class="space-y-3">
+                  {section.links.map((link) => (
+                    <a 
+                      href={`/blog/${link.slug}`}
+                      class="flex items-start gap-3 p-4 rounded-lg transition-all hover:shadow-md hover:-translate-y-0.5 group"
+                      style="background: var(--bg-soft); border: 1px solid var(--border); color: var(--text);"
+                    >
+                      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px; color: var(--color-primary-600);" class="group-hover:translate-x-1 transition-transform">
+                        <path d="M5 12h14"/><path d="m12 5 7 7-7 7"/>
+                      </svg>
+                      <span class="font-medium text-sm">{link.title}</span>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </div>
+            
+            {idx < sections.length - 1 && (
+              <div class="mt-12 mb-8" style="border-bottom: 1px solid var(--border);"></div>
+            )}
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Stats Section -->
+  <section class="py-12 sm:py-16" style="background: var(--bg-soft); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="grid grid-cols-2 md:grid-cols-3 gap-8 text-center">
+        <div>
+          <p class="text-3xl sm:text-4xl font-bold mb-2" style="color: var(--color-primary-600); font-family: var(--font-serif);">50+</p>
+          <p class="text-sm font-medium" style="color: var(--text-muted);">Detaillierte Guides</p>
+        </div>
+        <div>
+          <p class="text-3xl sm:text-4xl font-bold mb-2" style="color: var(--color-primary-600); font-family: var(--font-serif);">15K+</p>
+          <p class="text-sm font-medium" style="color: var(--text-muted);">Zufriedene Leser</p>
+        </div>
+        <div>
+          <p class="text-3xl sm:text-4xl font-bold mb-2" style="color: var(--color-primary-600); font-family: var(--font-serif);">100%</p>
+          <p class="text-sm font-medium" style="color: var(--text-muted);">Ehrliche Tipps</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA Section -->
+  <section class="py-16 sm:py-20" style="background: var(--bg);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div class="rounded-2xl p-8 sm:p-12 text-center fade-in" style="background: linear-gradient(135deg, var(--color-primary-50) 0%, var(--bg-soft) 100%); border: 1px solid var(--border);">
+        <h2 class="text-2xl sm:text-3xl font-bold mb-4" style="color: var(--text); font-family: var(--font-serif);">
+          Bereit, dein Online-Dating zu transformieren?
+        </h2>
+        <p class="text-base leading-relaxed mb-8 max-w-2xl mx-auto" style="color: var(--text-muted);">
+          Nutze unsere praktischen Tipps und Strategien, um bessere Matches zu bekommen, authentischere Verbindungen aufzubauen und die Person zu finden, die wirklich zu dir passt.
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <a href="/dating-typ-test" class="inline-flex items-center justify-center gap-2 px-7 py-4 rounded-full text-base font-bold text-white transition-all hover:shadow-lg hover:-translate-y-0.5" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600)); border: none;">
+            Kostenlos starten
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+          </a>
+          <a href="/blog" class="inline-flex items-center justify-center gap-2 px-7 py-4 rounded-full text-base font-medium transition-all" style="color: var(--color-primary-600); background: var(--color-primary-50); border: 1px solid var(--color-primary-100);">
+            Alle Artikel
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ Section -->
+  <section class="py-16 sm:py-24" style="background: var(--bg-soft); border-top: 1px solid var(--border);">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6">
+      <h2 class="text-3xl font-bold text-center mb-4" style="color: var(--text); font-family: var(--font-serif);">
+        Häufig gestellte Fragen
+      </h2>
+      <p class="text-center mb-12" style="color: var(--text-muted);">
+        Antworten auf deine wichtigsten Fragen zum Online-Dating
+      </p>
+      
+      <div class="space-y-6">
+        {faqData.map((item, idx) => (
+          <details class="fade-in" style={`animation-delay: ${idx * 100}ms;`}>
+            <summary class="flex items-center justify-between p-6 rounded-lg cursor-pointer font-semibold transition-all hover:bg-opacity-80" style="background: var(--bg); color: var(--text); border: 1px solid var(--border);">
+              <span>{item.question}</span>
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="transition: transform 0.3s; color: var(--color-primary-600);" class="group-open:rotate-180">
+                <path d="m6 9 6 6 6-6"/>
+              </svg>
+            </summary>
+            <div class="px-6 pb-6" style="color: var(--text-muted);">
+              {item.answer}
+            </div>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <style>
+    details[open] summary {
+      background: var(--color-primary-50);
+      color: var(--text);
+      border-color: var(--color-primary-200);
+    }
+    
+    details[open] summary svg {
+      transform: rotate(180deg);
+    }
+    
+    .fade-in {
+      opacity: 0;
+      animation: fadeInUp 0.6s ease forwards;
+    }
+    
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+</BaseLayout>

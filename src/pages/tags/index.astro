@@ -1,0 +1,73 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('blog', ({ data }) => !data.draft);
+const tagCounts = new Map<string, number>();
+
+posts.forEach(post => {
+  post.data.tags.forEach(tag => {
+    tagCounts.set(tag, (tagCounts.get(tag) || 0) + 1);
+  });
+});
+
+const sortedTags = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]);
+
+// Category definitions with icons and descriptions
+const categories: Record<string, { icon: string; desc: string; gradient: string }> = {
+  'Dating-Tipps': { icon: '💡', desc: 'Praktische Ratschläge für bessere Dates', gradient: 'from-rose-500 to-pink-600' },
+  'Online-Dating': { icon: '📱', desc: 'Alles rund um Apps, Profile und Nachrichten', gradient: 'from-violet-500 to-purple-600' },
+  'Beziehungen': { icon: '💑', desc: 'Tipps für eine glückliche Partnerschaft', gradient: 'from-pink-500 to-rose-600' },
+  'Flirten': { icon: '✨', desc: 'Flirtsignale erkennen und richtig flirten', gradient: 'from-amber-500 to-orange-600' },
+  'Psychologie': { icon: '🧠', desc: 'Die Wissenschaft hinter Liebe und Anziehung', gradient: 'from-blue-500 to-indigo-600' },
+  'Ratgeber': { icon: '📖', desc: 'Ausführliche Guides und Anleitungen', gradient: 'from-emerald-500 to-teal-600' },
+  'Date-Ideen': { icon: '🎯', desc: 'Kreative Ideen für unvergessliche Dates', gradient: 'from-orange-500 to-red-500' },
+  'Erstes Date': { icon: '🦋', desc: 'Alles für ein perfektes erstes Treffen', gradient: 'from-pink-400 to-rose-500' },
+};
+---
+
+<BaseLayout title="Themen — Herzblatt Journal" description="Alle Dating-Themen und Kategorien auf einen Blick.">
+  <section class="max-w-6xl mx-auto px-4 sm:px-6 py-16">
+    <div class="text-center mb-12">
+      <h1 class="text-3xl sm:text-4xl font-extrabold mb-3" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;">
+        Alle Themen
+      </h1>
+      <p class="text-lg max-w-lg mx-auto" style="color: var(--text-muted);">
+        Finde genau die Ratgeber, die zu deiner Situation passen
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {sortedTags.map(([tag, count]) => {
+        const cat = categories[tag] || { icon: '♥', desc: `${count} Artikel zum Thema ${tag}`, gradient: 'from-rose-500 to-pink-600' };
+        return (
+          <a
+            href={`/tags/${tag}`}
+            class="group relative rounded-2xl p-6 transition-all duration-300 hover:-translate-y-1 overflow-hidden"
+            style="background: var(--bg-card); border: 1px solid var(--border);"
+          >
+            <div class="absolute top-0 left-0 right-0 h-1 opacity-0 group-hover:opacity-100 transition-opacity" style="background: linear-gradient(90deg, var(--color-primary-400), var(--color-primary-600));"></div>
+
+            <div class="flex items-start gap-4">
+              <span class="text-3xl">{cat.icon}</span>
+              <div class="flex-1">
+                <div class="flex items-center justify-between mb-1">
+                  <h2 class="text-lg font-bold" style="color: var(--text); font-family: var(--font-serif);">{tag}</h2>
+                  <span class="text-xs font-semibold px-2.5 py-1 rounded-full" style="background: var(--color-primary-50); color: var(--color-primary-700);">
+                    {count}
+                  </span>
+                </div>
+                <p class="text-sm" style="color: var(--text-muted);">{cat.desc}</p>
+              </div>
+            </div>
+
+            <div class="mt-4 flex items-center text-sm font-medium opacity-0 group-hover:opacity-100 transition-opacity" style="color: var(--color-primary-600);">
+              Artikel entdecken
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="ml-1 transition-transform group-hover:translate-x-1"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+</BaseLayout>

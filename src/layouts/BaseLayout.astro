@@ -1,0 +1,317 @@
+---
+import '../styles/global.css'
+import Header from '../components/Header.astro'
+import Footer from '../components/Footer.astro'
+import PromoBanner from '../components/PromoBanner.astro'
+import CookieBanner from '../components/CookieBanner.astro'
+import DatingQuiz from '../components/DatingQuiz.astro'
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  type?: string;
+  keywords?: string[];
+  datePublished?: string;
+  dateModified?: string;
+  isArticle?: boolean;
+  breadcrumbs?: { name: string; url: string }[];
+  faq?: { question: string; answer: string }[];
+}
+
+const {
+  title,
+  description = 'Dating-Tipps, Flirt-Ratgeber und Beziehungs-Strategien — Herzblatt Journal hilft dir, die Liebe zu finden, die du verdienst.',
+  image = '/og-default.png',
+  type = 'website',
+  keywords = [],
+  datePublished,
+  dateModified,
+  isArticle = false,
+  breadcrumbs = [],
+  faq = [],
+} = Astro.props;
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const fullImageURL = new URL(image, Astro.site).toString();
+
+// Organization Schema (on every page)
+const orgSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Herzblatt Journal",
+  "url": "https://herzblatt-journal.com",
+  "logo": "https://herzblatt-journal.com/logo.svg",
+  "description": "Dein vertrauenswürdiger Ratgeber für Dating, Flirten und echte Beziehungen.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "L-P GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ballindamm 27",
+      "addressLocality": "Hamburg",
+      "postalCode": "20095",
+      "addressCountry": "DE"
+    }
+  }
+};
+
+// WebSite Schema (on every page)
+const siteSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Herzblatt Journal",
+  "url": "https://herzblatt-journal.com",
+  "description": description,
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://herzblatt-journal.com/suche?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+};
+
+// Article Schema (only on blog posts)
+// Extract clean headline (without site name suffix) for schema.org
+const cleanHeadline = title.replace(/\s*[\|—–]\s*Herzblatt Journal$/, '');
+const articleSchema = isArticle ? {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": cleanHeadline,
+  "description": description,
+  "image": fullImageURL,
+  "url": canonicalURL.toString(),
+  "datePublished": datePublished,
+  "dateModified": dateModified || datePublished,
+  "author": {
+    "@type": "Organization",
+    "name": "Herzblatt Journal",
+    "url": "https://herzblatt-journal.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Herzblatt Journal",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://herzblatt-journal.com/logo.svg",
+      "width": 200,
+      "height": 200
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": canonicalURL.toString()
+  },
+  "inLanguage": "de-DE"
+} : null;
+
+// Breadcrumb Schema
+const breadcrumbSchema = breadcrumbs.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": breadcrumbs.map((bc, i) => ({
+    "@type": "ListItem",
+    "position": i + 1,
+    "name": bc.name,
+    "item": new URL(bc.url, Astro.site).toString()
+  }))
+} : null;
+
+// FAQ Schema
+const faqSchema = faq.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faq.map(item => ({
+    "@type": "Question",
+    "name": item.question,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": item.answer
+    }
+  }))
+} : null;
+---
+<!DOCTYPE html>
+<html lang="de" dir="ltr" class="">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content={description} />
+  <meta name="generator" content={Astro.generator} />
+
+  {keywords.length > 0 && (
+    <meta name="keywords" content={keywords.join(", ")} />
+  )}
+
+  <!-- Open Graph -->
+  <meta property="og:type" content={isArticle ? 'article' : type} />
+  <meta property="og:url" content={canonicalURL} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:image" content={fullImageURL} />
+  <meta property="og:site_name" content="Herzblatt Journal" />
+  <meta property="og:locale" content="de_DE" />
+  {isArticle && datePublished && (
+    <meta property="article:published_time" content={datePublished} />
+  )}
+  {isArticle && (dateModified || datePublished) && (
+    <meta property="article:modified_time" content={dateModified || datePublished} />
+  )}
+  {isArticle && (
+    <meta property="article:author" content="Herzblatt Journal" />
+  )}
+
+  <!-- OG Image dimensions -->
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  {isArticle && keywords.length > 0 && (
+    <meta property="article:section" content={keywords[0]} />
+  )}
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@herzblattjournal" />
+  <meta name="twitter:creator" content="@herzblattjournal" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={fullImageURL} />
+
+  <!-- Canonical & Language -->
+  <link rel="canonical" href={canonicalURL} />
+  <link rel="alternate" hreflang="de" href={canonicalURL} />
+  <link rel="alternate" hreflang="x-default" href={canonicalURL} />
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="Herzblatt Journal RSS Feed" href="/rss.xml" />
+
+  <!-- Fonts (self-hosted for PageSpeed) -->
+  <link rel="preload" href="/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/fonts/playfair-latin.woff2" as="font" type="font/woff2" crossorigin />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+  <title>{title}</title>
+
+  <!-- Schema.org JSON-LD -->
+  <script type="application/ld+json" set:html={JSON.stringify(orgSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(siteSchema)} />
+  {articleSchema && (
+    <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+  )}
+  {breadcrumbSchema && (
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+  )}
+  {faqSchema && (
+    <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+  )}
+
+  <!-- Theme script (runs before render to prevent flash) -->
+  <script is:inline>
+    const theme = localStorage.getItem('theme') || 'light';
+    document.documentElement.classList.toggle('dark', theme === 'dark');
+  </script>
+  <style>
+    /* Enable body transition only after page load */
+    body.loaded { transition: background-color 0.3s ease, color 0.3s ease; }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col">
+  <PromoBanner />
+  <Header />
+  <main class="flex-1">
+    <slot />
+  </main>
+  <Footer />
+  <CookieBanner />
+  <DatingQuiz />
+
+  <!-- Sticky CTA Bar (appears on scroll) -->
+  <div id="sticky-cta" class="fixed bottom-0 left-0 right-0 z-[90] translate-y-full transition-transform duration-300" style="background: var(--bg-card); border-top: 1px solid var(--border); box-shadow: 0 -4px 20px rgba(0,0,0,0.08);">
+    <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
+      <p class="hidden sm:block text-sm font-medium" style="color: var(--text);">Finde die passende Dating-Seite für dich</p>
+      <div class="flex items-center gap-3 w-full sm:w-auto">
+        <button onclick="openDatingQuiz()" class="flex-1 sm:flex-none inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-full text-sm font-bold text-white cursor-pointer" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600)); border: none;">
+          Quiz starten
+          <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+        </button>
+        <a href="/top-dating-seiten" class="hidden sm:inline-flex text-xs font-medium px-4 py-2.5 rounded-full" style="color: var(--color-primary-600); background: var(--color-primary-50);">Vergleich ansehen</a>
+      </div>
+    </div>
+  </div>
+
+  <script is:inline>
+    // Sticky CTA: show after scrolling 600px, hide at top
+    (function() {
+      var stickyCta = document.getElementById('sticky-cta');
+      if (!stickyCta) return;
+      var shown = false;
+      window.addEventListener('scroll', function() {
+        if (window.scrollY > 600 && !shown) {
+          stickyCta.style.transform = 'translateY(0)';
+          shown = true;
+        } else if (window.scrollY <= 600 && shown) {
+          stickyCta.style.transform = 'translateY(100%)';
+          shown = false;
+        }
+      }, { passive: true });
+    })();
+
+    // Exit-Intent: open quiz when mouse leaves viewport (desktop only)
+    (function() {
+      if (window.innerWidth < 768) return;
+      var fired = false;
+      document.addEventListener('mouseout', function(e) {
+        if (fired) return;
+        if (e.clientY <= 0 && !document.getElementById('dating-quiz-overlay').classList.contains('hidden') === false) {
+          // Only if quiz isn't already open and hasn't been shown via exit-intent before
+          if (sessionStorage.getItem('exit-intent-shown')) return;
+          if (!document.getElementById('dating-quiz-overlay').classList.contains('hidden')) return;
+          fired = true;
+          sessionStorage.setItem('exit-intent-shown', '1');
+          openDatingQuiz();
+        }
+      });
+    })();
+  </script>
+
+  <!-- Scroll Animations -->
+  <style>
+    .fade-in {
+      opacity: 0;
+      transform: translateY(20px);
+      transition: opacity 0.6s ease, transform 0.6s ease;
+    }
+    .fade-in.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  </style>
+  <script is:inline>
+    document.addEventListener('DOMContentLoaded', () => {
+      // Make external links nofollow + open in new tab
+      document.querySelectorAll('.prose a[href^="http"]').forEach(a => {
+        if (!a.hostname.includes('herzblatt-journal.com')) {
+          a.setAttribute('rel', 'nofollow noopener');
+          a.setAttribute('target', '_blank');
+        }
+      });
+      // Auto-tag sections and cards for animation
+      document.querySelectorAll('section > .max-w-6xl, section > .max-w-5xl, .blog-post-item, .testimonial-card').forEach(el => {
+        el.classList.add('fade-in');
+      });
+      const obs = new IntersectionObserver((entries) => {
+        entries.forEach(e => {
+          if (e.isIntersecting) {
+            e.target.classList.add('visible');
+            obs.unobserve(e.target);
+          }
+        });
+      }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+      document.querySelectorAll('.fade-in').forEach(el => obs.observe(el));
+      // Enable body transition after load (prevents CLS)
+      document.body.classList.add('loaded');
+    });
+  </script>
+</body>
+</html>

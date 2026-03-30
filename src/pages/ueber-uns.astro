@@ -1,0 +1,124 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AppCTA from '../components/AppCTA.astro';
+---
+
+<BaseLayout title="Über uns — Herzblatt Journal" description="Erfahre mehr über das Team hinter Herzblatt Journal und unsere Mission.">
+  <section class="max-w-4xl mx-auto px-4 sm:px-6 py-16 sm:py-20">
+
+    <!-- Header -->
+    <div class="text-center mb-14">
+      <span class="text-4xl mb-4 block">💕</span>
+      <h1 class="text-3xl sm:text-4xl font-extrabold mb-4" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;">
+        Über Herzblatt Journal
+      </h1>
+      <p class="text-lg max-w-2xl mx-auto" style="color: var(--text-muted);">
+        Wir glauben, dass jeder Mensch die Liebe verdient — und manchmal braucht man nur die richtigen Tipps, um sie zu finden.
+      </p>
+    </div>
+
+    <!-- Mission -->
+    <div class="mb-14">
+      <div class="flex items-center gap-3 mb-4">
+        <div class="w-1 h-6 rounded-full" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-300));"></div>
+        <h2 class="text-xl font-bold" style="color: var(--text); font-family: var(--font-serif);">Unsere Mission</h2>
+      </div>
+      <div class="space-y-4 text-base leading-relaxed" style="color: var(--text-muted);">
+        <p>
+          Dating kann überwältigend sein — endloses Swipen, enttäuschende erste Dates und die ständige Frage: "Mache ich etwas falsch?" Wir kennen das Gefühl, und genau deshalb haben wir Herzblatt Journal gegründet.
+        </p>
+        <p>
+          Unser Ziel ist es, dir ehrliche, praxisnahe und wissenschaftlich fundierte Ratgeber zu bieten, die wirklich funktionieren. Keine leeren Versprechen, keine manipulativen Tricks — sondern authentische Tipps, die dir helfen, als Person zu wachsen und echte Verbindungen aufzubauen.
+        </p>
+        <p>
+          Ob du gerade erst ins Online-Dating einsteigst, nach einer Trennung neu anfängst oder deine bestehende Beziehung vertiefen möchtest — wir haben den passenden Ratgeber für dich.
+        </p>
+      </div>
+    </div>
+
+    <!-- Values -->
+    <div class="mb-14">
+      <div class="flex items-center gap-3 mb-6">
+        <div class="w-1 h-6 rounded-full" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-300));"></div>
+        <h2 class="text-xl font-bold" style="color: var(--text); font-family: var(--font-serif);">Wofür wir stehen</h2>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-5">
+        <div class="rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <span class="text-2xl mb-3 block">🎯</span>
+          <h3 class="text-sm font-bold mb-2" style="color: var(--text);">Ehrlichkeit</h3>
+          <p class="text-sm" style="color: var(--text-muted);">Keine Clickbait-Titel, keine unrealistischen Versprechen. Wir sagen dir, was wirklich funktioniert — auch wenn es nicht immer das ist, was du hören willst.</p>
+        </div>
+        <div class="rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <span class="text-2xl mb-3 block">🧠</span>
+          <h3 class="text-sm font-bold mb-2" style="color: var(--text);">Fundiertes Wissen</h3>
+          <p class="text-sm" style="color: var(--text-muted);">Unsere Artikel basieren auf psychologischer Forschung, echten Erfahrungen und bewährten Kommunikationsstrategien.</p>
+        </div>
+        <div class="rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <span class="text-2xl mb-3 block">💜</span>
+          <h3 class="text-sm font-bold mb-2" style="color: var(--text);">Respekt & Vielfalt</h3>
+          <p class="text-sm" style="color: var(--text-muted);">Liebe kennt keine Grenzen. Unsere Tipps sind für alle gedacht — unabhängig von Alter, Geschlecht oder Hintergrund.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Numbers -->
+    <div class="mb-14 rounded-2xl p-8" style="background: linear-gradient(135deg, var(--color-primary-50), var(--color-surface-100)); border: 1px solid var(--color-primary-100);">
+      <div class="grid grid-cols-2 sm:grid-cols-4 gap-6 text-center">
+        <div>
+          <p class="text-2xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">200+</p>
+          <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Ratgeber</p>
+        </div>
+        <div>
+          <p class="text-2xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">12K+</p>
+          <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Leser</p>
+        </div>
+        <div>
+          <p class="text-2xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">10+</p>
+          <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Themengebiete</p>
+        </div>
+        <div>
+          <p class="text-2xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">100%</p>
+          <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Kostenlos</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Partner -->
+    <div class="mb-14">
+      <div class="flex items-center gap-3 mb-4">
+        <div class="w-1 h-6 rounded-full" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-300));"></div>
+        <h2 class="text-xl font-bold" style="color: var(--text); font-family: var(--font-serif);">Unsere Partner-Plattformen</h2>
+      </div>
+      <div class="text-base leading-relaxed" style="color: var(--text-muted);">
+        <p class="mb-4">
+          Herzblatt Journal arbeitet mit den besten Dating-Plattformen Deutschlands zusammen — von xLoves über WhatsMeet bis hin zu MichVerlieben. Wir testen und vergleichen die Anbieter regelmäßig, damit du die perfekte Plattform für deine Bedürfnisse findest.
+        </p>
+        <p class="mb-6">
+          Wenn du bereit bist, die Tipps aus unseren Artikeln in die Praxis umzusetzen, hilft dir unser Quiz, die passende Dating-Seite für dich zu finden.
+        </p>
+        <div class="flex flex-wrap gap-3">
+          <button onclick="openDatingQuiz()" class="inline-flex items-center gap-2 px-6 py-3 rounded-full text-sm font-bold text-white transition-all hover:shadow-md hover:-translate-y-0.5 cursor-pointer" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); border: none;">
+            Dein Match finden
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+          </button>
+          <a href="/top-dating-seiten" class="inline-flex items-center gap-2 px-6 py-3 rounded-full text-sm font-semibold transition-all hover:shadow-md" style="color: var(--color-primary-600); background: var(--color-primary-50); border: 1px solid var(--color-primary-200);">
+            Alle Plattformen vergleichen
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Contact -->
+    <div class="rounded-2xl p-6 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);">
+      <h2 class="text-lg font-bold mb-2" style="color: var(--text); font-family: var(--font-serif);">Kontakt</h2>
+      <p class="text-sm mb-1" style="color: var(--text-muted);">Fragen, Anregungen oder Kooperationsanfragen?</p>
+      <p class="text-sm" style="color: var(--text-muted);">
+        Schreib uns an <a href="mailto:kontakt@herzblatt-journal.com" class="font-medium underline" style="color: var(--color-primary-600);">kontakt@herzblatt-journal.com</a>
+      </p>
+      <p class="text-xs mt-4" style="color: var(--text-muted);">
+        L-P GmbH · Ballindamm 27 · 20095 Hamburg
+      </p>
+    </div>
+
+  </section>
+</BaseLayout>
