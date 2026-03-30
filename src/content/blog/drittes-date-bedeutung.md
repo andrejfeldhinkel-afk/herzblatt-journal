@@ -1,6 +1,7 @@
 ---
 title: "Das dritte Date: Was es wirklich bedeutet"
 description: "Warum das dritte Date ein psychologischer Wendepunkt ist und wie du das Treffen nutzt, um zu wissen, ob es echte Gefühle sind."
+date: 2025-08-28
 tags:
   - "Dating-Tipps"
   - "Partnersuche"

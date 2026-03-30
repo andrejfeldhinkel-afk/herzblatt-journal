@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500">
+  <defs>
+    <linearGradient id="bg5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF69B4"/>
+      <stop offset="100%" style="stop-color:#FFB6D9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="500" fill="url(#bg5)"/>
+  <circle cx="220" cy="100" r="145" fill="white" opacity="0.08"/>
+  <circle cx="980" cy="400" r="195" fill="white" opacity="0.06"/>
+  <circle cx="600" cy="250" r="80" fill="white" opacity="0.1"/>
+  
+  <!-- User profile circle -->
+  <circle cx="600" cy="200" r="80" fill="white" stroke="#FF69B4" stroke-width="3"/>
+  
+  <!-- Head simplified -->
+  <circle cx="600" cy="160" r="35" fill="#FFB6D9"/>
+  
+  <!-- Body simplified -->
+  <rect x="570" y="200" width="60" height="50" rx="10" fill="#FFB6D9"/>
+  
+  <!-- Sparkle 1 -->
+  <circle cx="540" cy="120" r="8" fill="#FFD700"/>
+  <path d="M 540 105 L 545 120 L 540 135 L 535 120 Z" fill="#FFD700"/>
+  
+  <!-- Sparkle 2 -->
+  <circle cx="700" cy="140" r="6" fill="#FFD700"/>
+  <path d="M 700 128 L 704 140 L 700 152 L 696 140 Z" fill="#FFD700"/>
+  
+  <!-- Sparkle 3 -->
+  <circle cx="660" cy="280" r="7" fill="#FFD700"/>
+  <path d="M 660 268 L 665 280 L 660 292 L 655 280 Z" fill="#FFD700"/>
+  
+  <!-- Small decorative stars -->
+  <polygon points="480,250 485,260 495,260 488,267 491,277 480,271 469,277 472,267 465,260 475,260" fill="white" opacity="0.15"/>
+  <polygon points="750,310 753,318 762,318 756,323 759,331 750,326 741,331 744,323 738,318 747,318" fill="white" opacity="0.15"/>
+  
+  <!-- Pattern dots -->
+  <circle cx="100" cy="450" r="3" fill="white" opacity="0.2"/>
+  <circle cx="300" cy="50" r="2" fill="white" opacity="0.15"/>
+  <circle cx="900" cy="100" r="4" fill="white" opacity="0.15"/>
+  <circle cx="1100" cy="350" r="3" fill="white" opacity="0.2"/>
+</svg>

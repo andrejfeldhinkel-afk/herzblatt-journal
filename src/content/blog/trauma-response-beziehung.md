@@ -1,20 +1,17 @@
 ---
-title: 'Trauma-Reaktionen in Beziehungen: Fight, Flight, Freeze'
-slug: trauma-response-beziehung
-description: Deine Reaktionen in Konflikten sind nicht Absicht — sie sind Trauma-Reaktionen.
-  Ich zeige dir, wie du sie erkennst und änderst.
-author: thomas-peters
-image: /images/photos/trauma-response-beziehung.webp
-imageAlt: Trauma-Reaktionen in der Beziehung verstehen
-category: Psychologie
+title: "Trauma-Reaktionen in Beziehungen: Fight, Flight, Freeze"
+slug: "trauma-response-beziehung"
+description: "Deine Reaktionen in Konflikten sind nicht Absicht — sie sind Trauma-Reaktionen. Ich zeige dir, wie du sie erkennst und änderst."
+date: 2025-12-15
+author: "thomas-peters"
+image: "/images/photos/trauma-response-beziehung.webp"
+imageAlt: "Trauma-Reaktionen in der Beziehung verstehen"
+category: "Psychologie"
 tags:
-- Psychologie
-- Beziehung
-- Heilung
-keywords:
-- trauma reaktionen beziehung
-- fight flight freeze fawn
-- trauma response dating
+  - "Psychologie"
+  - "Beziehung"
+  - "Heilung"
+keywords: ["trauma reaktionen beziehung", "fight flight freeze fawn", "trauma response dating"]
 ---
 Es gibt einen Moment in deiner [beziehung](/blog/adhs-und-beziehung-komplett-guide/), in dem du und dein Partner in einem Konflikt geraten. Es ist nichts Großes. Vielleicht ist er spät nach Hause gekommen. Vielleicht hat sie etwas Unhöfliches gesagt.
 

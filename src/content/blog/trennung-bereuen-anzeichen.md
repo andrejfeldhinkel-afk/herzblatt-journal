@@ -1,6 +1,7 @@
 ---
 title: "Trennung bereuen: 7 sichere Anzeichen & wie du damit umgehen"
 description: "Du bereust deine Trennung? Erfahre konkrete Anzeichen, ob es wirklich ein Fehler war – und praktische Schritte für deine nächste Entscheidung."
+date: 2025-12-15
 tags:
   - "Trennung"
   - "Beziehung"

@@ -1,6 +1,7 @@
 ---
 title: "Drittes Date Ideen: Jetzt wird es persönlich"
 description: "Drittes Date und keine Idee? Die besten Aktivitäten die echte Nähe schaffen — weil das dritte Date über die Zukunft entscheidet."
+date: 2025-08-29
 image: "/images/photos/drittes-date-ideen.webp"
 imageAlt: "Paar beim gemeinsamen Spaziergang im Park"
 tags:

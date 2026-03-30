@@ -1,6 +1,7 @@
 ---
 title: "Red Flags beim Dating: Diese Warnsignale solltest du kennen"
 description: "Red Flags beim Dating erkennen: Lerne die wichtigsten Warnsignale kennen und schütze dich, bevor du dich emotional verletzt."
+date: 2025-12-15
 tags:
   - "Beziehungen"
   - "Ratgeber"

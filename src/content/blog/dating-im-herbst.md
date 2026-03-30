@@ -1,6 +1,7 @@
 ---
 title: "Dating im Herbst: Die beste Zeit zum Verlieben"
 description: "Dating im Herbst: Lerne, warum der Herbst perfekt zum Verlieben ist und entdecke die besten Date-Ideen für die Herbstzeit!"
+date: 2025-06-09
 tags:
   - "Dating"
   - "Lifestyle"

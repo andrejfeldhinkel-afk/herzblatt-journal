@@ -1,6 +1,7 @@
 ---
 title: "Partner flirtet mit anderen: Harmlos oder Problem?"
 description: "Dein Partner flirtet mit anderen? Erfahre wo die Grenze zwischen harmlosem Spaß und echtem Problem liegt — und wie du damit umgehst."
+date: 2025-12-15
 tags:
   - "Beziehung"
   - "Vertrauen"
@@ -17,7 +18,7 @@ faq:
   - question: "Ist Flirten in einer Beziehung okay?"
     answer: "Das hängt von eurer Definition ab. Für manche ist ein freundliches Lächeln okay, für andere ist schon ein Kompliment zu viel. Entscheidend ist, dass ihr die gleiche Grenze habt."
   - question: "Wie spreche ich an dass mich sein Flirten stört?"
-    answer: "Konkret und ohne Vorwurf:"
+    answer: "Konkret und ohne Vorwurf: 'Wenn du auf der Party so mit ihr geredet hast, habe ich mich unwichtig gefühlt.' Vermeide 'Du flirtest immer' — das führt nur zur Abwehr."
   - question: "Ist Flirten eine Form von Fremdgehen?"
     answer: "Kommt auf den Kontext an. Einmaliges harmloses Flirten ist kein Fremdgehen. Aber systematisches, heimliches Flirten mit derselben Person — besonders online — bewegt sich in eine problematische Richtung."
   - question: "Woran erkenne ich ob es ernst wird?"

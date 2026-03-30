@@ -1,6 +1,7 @@
 ---
 title: "Sexuelle Unsicherheiten in der Beziehung überwinden"
 description: "Du traust dich nicht, deinen Körper zu zeigen? Deine sexuellen Wünsche sind dir peinlich? Lerne, sexuelle Unsicherheiten zu überwinden und dich anzunehmen."
+date: 2025-12-15
 image: "/images/photos/sexuelle-unsicherheiten-ueberwinden.webp"
 imageAlt: "Selbstbewusste Frau überwindet körperliche Unsicherheiten"
 tags:
@@ -19,7 +20,7 @@ faq:
   - question: "Ist Körperunsicherheit normal?"
     answer: "Sehr normal – besonders für Frauen, aber auch für Männer. Wir wachsen in einer Kultur auf, die uns ständig sagt, dass unsere Körper nicht gut genug sind. Diese Unsicherheiten sind erlernt – und können auch wieder verlernt werden."
   - question: "Wie teile ich meinem Partner meine Unsicherheiten mit?"
-    answer: "Offen und früh. Sag etwas wie: ‚Ich habe Unsicherheiten um meinen Körper. Das ist nicht deine Schuld, aber es hilft mir, wenn du mir versicherst, dass du mich magst wie ich bin."
+    answer: "Offen und früh. Sag etwas wie: ‚Ich habe Unsicherheiten um meinen Körper. Das ist nicht deine Schuld, aber es hilft mir, wenn du mir versicherst, dass du mich magst wie ich bin.' Das öffnet Raum für Verständnis."
   - question: "Was mache ich, wenn mein Partner kritisch auf meinen Körper reagiert?"
     answer: "Das ist ein großes Zeichen. Ein liebevoller Partner wird immer versichern, dass er/sie dich mag. Wenn nicht – das ist etwas, das angegangen werden muss, möglicherweise mit Paartherapie."
   - question: "Kann Sex-Traumata meine Unsicherheit erklären?"

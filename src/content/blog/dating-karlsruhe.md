@@ -1,6 +1,7 @@
 ---
 title: "Dating in Karlsruhe: Die besten Orte, Tipps & Hotspots"
 description: "Karlsruhe Dating-Guide: Trendige Restaurants, charmante Cafés und beste Single-Szene der Fächerstadt. Deine romantischen Dating-Tipps hier!"
+date: 2025-06-13
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"
@@ -17,7 +18,7 @@ faq:
   - question: "Wo treffen sich junge Menschen und Singles in Karlsruhe?"
     answer: "Das Schloss und die Umgebung sind zentral. Die Kaiserstraße ist die Einkaufs- und Bar-Meile. Das Studentenviertel rund um die TH ist jung und lebendig."
   - question: "Welche Restaurants sind gut für Dates?"
-    answer: "'La Stanza"
+    answer: "'La Stanza' bietet italienische Küche elegant. 'Wetterstein' ist traditionell-bayrisch. 'Café Crêpes' ist perfekt für Morgendates."
   - question: "Was sind gute Aktivitäten?"
     answer: "Spaziergang durchs Schloss. Besuch der botanischen Gärten. Fahrrad-Touren entlang des Rheins. Museumsbesuche."
   - question: "Wie ist das Dating-Klima in Karlsruhe?"

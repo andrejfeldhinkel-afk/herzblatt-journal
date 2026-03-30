@@ -1,6 +1,7 @@
 ---
 title: "Rizz verbessern – Die Kunst des modernen Flirtens [2026"
 description: "Rizz Definition, verbessern und meistern: Körpersprache, Gesprächseinstiege, Online vs. Offline Flirten – ein kompletter 2026 Guide zum Erfolg."
+date: 2025-12-15
 tags:
   - "Flirten"
   - "Rizz"

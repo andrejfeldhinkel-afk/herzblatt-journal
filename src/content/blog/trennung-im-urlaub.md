@@ -1,6 +1,7 @@
 ---
 title: "Trennung im Urlaub: Wenn die Reise zum Beziehungs-Test wird"
 description: "Trennung im Urlaub: Wie Reisen Beziehungsprobleme triggern. Strategien für Urlaubstrennungen, Zusammenbruch unterwegs und wie man damit umgeht."
+date: 2025-12-15
 image: "/images/photos/trennung-im-urlaub.webp"
 imageAlt: "Paar am Strand mit nachdenklicher Stimmung"
 tags:

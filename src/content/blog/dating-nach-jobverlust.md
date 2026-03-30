@@ -1,15 +1,7 @@
 ---
-title: Dating Nach Jobverlust
-description: ''
-date: '2026-03-01'
-updated: '2026-03-01'
-tags: []
-draft: true
----
-
----
 title: "Dating nach Jobverlust: Lohnt es sich trotzdem?"
 description: "Dating nach Jobverlust: Warum Arbeitslosigkeit dein Dating-Leben nicht stoppen muss und wie du selbstbewusst damit umgehst."
+date: 2025-07-15
 tags:
   - "Dating"
   - "Psychologie"
@@ -22,9 +14,12 @@ draft: false
 image: "/images/photos/dating-nach-jobverlust.webp"
 imageAlt: "Mann nachdenklich mit Laptop in einem Café"
 faq:
-  - "{'question': 'Sollte ich beim Dating erwähnen, dass ich arbeitslos bin?', 'answer': 'Ja, sei ehrlich, aber definiere dich nicht darüber. Du kannst sagen, dass du gerade beruflich im Umbruch bist, ohne dich dafür zu schämen.'}"
-  - "{'question': 'Ist Arbeitslosigkeit ein Deal-Breaker beim Dating?', 'answer': 'Für manche ja, für andere nicht. Die richtige Person wird dich nicht nach deinem Jobstatus bewerten, sondern danach, wer du bist und wie du mit der Situation umgehst.'}"
-  - "{'question': 'Sollte ich erst einen Job finden, bevor ich date?', 'answer': 'Nicht unbedingt. Wenn du dich emotional stabil genug fühlst, kann Dating sogar guttun. Aber wenn der Jobverlust dich stark belastet, ist es okay, erst mal an dir zu arbeiten.'}"
+  - question: "Sollte ich beim Dating erwähnen, dass ich arbeitslos bin?"
+    answer: "Ja, sei ehrlich, aber definiere dich nicht darüber. Du kannst sagen, dass du gerade beruflich im Umbruch bist, ohne dich dafür zu schämen."
+  - question: "Ist Arbeitslosigkeit ein Deal-Breaker beim Dating?"
+    answer: "Für manche ja, für andere nicht. Die richtige Person wird dich nicht nach deinem Jobstatus bewerten, sondern danach, wer du bist und wie du mit der Situation umgehst."
+  - question: "Sollte ich erst einen Job finden, bevor ich date?"
+    answer: "Nicht unbedingt. Wenn du dich emotional stabil genug fühlst, kann Dating sogar guttun. Aber wenn der Jobverlust dich stark belastet, ist es okay, erst mal an dir zu arbeiten."
 ---## Kein Job, kein Date?
 
 Den Job zu verlieren kratzt am Selbstbewusstsein. Und genau das brauchst du beim [dating](/blog/anzeichen-er-steht-auf-dich/). Die Versuchung ist groß, sich zurückzuziehen und zu denken: "Erst mal einen Job finden, dann kann ich wieder daten." Verständlich, aber nicht immer sinnvoll.

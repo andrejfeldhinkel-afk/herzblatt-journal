@@ -1,7 +1,7 @@
 ---
 title: "Dating in Düsseldorf: Tipps und Hotspots"
 description: "Dating in Düsseldorf: Finde die besten Tipps und Dating-Hotspots in der Stadt. Von Altstadt zum Rhein – wo Singles sich treffen."
-date: "2025-05-09"
+date: 2025-05-09
 image: "/images/photos/dating-duesseldorf.webp"
 tags:
   - "dating"

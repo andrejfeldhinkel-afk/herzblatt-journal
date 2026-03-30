@@ -1,7 +1,7 @@
 ---
 title: "Wenn die Lust nachlässt: Ursachen und Lösungen"
 description: "Sexuelle Unlust in Beziehungen: Keine Lust mehr auf Sex? Verstehe biologische, psychologische und relationale Ursachen und finde zurück zur Leidenschaft."
-date: "2025-02-16"
+date: 2025-02-16
 image: "/images/photos/beziehung-nach-sexueller-unlust.webp"
 tags:
   - "Sexualität"

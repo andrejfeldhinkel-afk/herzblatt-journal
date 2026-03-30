@@ -1,7 +1,7 @@
 ---
 title: "Zusammenziehen: Wann ist der richtige Zeitpunkt?"
 description: "Entdecke die wichtigsten Zeichen, dass du bereit für das Zusammenleben bist, häufige Fehler und praktische Tipps für einen erfolgreichen Umzug."
-date: "2025-12-12"
+date: 2025-12-12
 image: "/images/photos/zusammenziehen-oder-nicht.webp"
 tags:
   - "Zusammenziehen"

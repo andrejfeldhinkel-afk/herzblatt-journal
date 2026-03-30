@@ -1,7 +1,7 @@
 ---
 title: "Herzschmerz nutzen: Aus Trennung wirklich wachsen"
 description: "Heartbreak als Wachstumschance: Liebeskummer überwinden und aus Trennung stärker hervorgehen. Neurobiologie, Phasen und praktische Übungen."
-date: "2025-08-31"
+date: 2025-08-31
 image: "/images/photos/heartbreak-als-wachstumschance.webp"
 tags:
   - "Herzschmerz"

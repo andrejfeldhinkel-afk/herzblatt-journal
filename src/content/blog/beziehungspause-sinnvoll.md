@@ -1,6 +1,7 @@
 ---
 title: "Beziehungspause: Sinnvoll oder Anfang vom Ende?"
 description: "Beziehungspause kann Beziehungen retten – wenn sie richtig gemacht wird. Regeln, Tipps und was du wirklich brauchst."
+date: 2025-03-31
 image: "/images/photos/beziehungspause-sinnvoll.webp"
 tags:
   - "Beziehung"

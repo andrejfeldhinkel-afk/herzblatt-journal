@@ -1,21 +1,16 @@
 ---
-title: 'Toxische Männlichkeit heilen: Ein Guide für Männer die mehr'
-author: thomas-peters
+title: "Toxische Männlichkeit heilen: Ein Guide für Männer die mehr"
+author: "thomas-peters"
 draft: false
-image: /images/blog/toxische-maennlichkeit-heilen-guide.webp
-imageAlt: Ein Mann sitzt nachdenklich und schaut auf seine Hände, wirkt verletzlich
-  und ehrlich
+image: "/images/blog/toxische-maennlichkeit-heilen-guide.webp"
+imageAlt: "Ein Mann sitzt nachdenklich und schaut auf seine Hände, wirkt verletzlich und ehrlich"
 tags:
-- Psychologie
-- Selbstliebe
-- Heilung
-keywords:
-- toxische männlichkeit überwinden
-- gesunde männlichkeit
-- männlichkeit neu definieren
-- mann sein heute
-description: Toxische Männlichkeit ist ein Gefängnis. Lerne, wie du als Mann aus diesen
-  Mustern ausbrichst und deine echte, verletzliche Stärke findest.
+  - "Psychologie"
+  - "Selbstliebe"
+  - "Heilung"
+keywords: ["toxische männlichkeit überwinden", "gesunde männlichkeit", "männlichkeit neu definieren", "mann sein heute"]
+description: "Toxische Männlichkeit ist ein Gefängnis. Lerne, wie du als Mann aus diesen Mustern ausbrichst und deine echte, verletzliche Stärke findest."
+date: 2025-12-15
 ---
 
 ## Toxische Männlichkeit heilen: Ein Guide für Männer die mehr sein wollen als 'stark'

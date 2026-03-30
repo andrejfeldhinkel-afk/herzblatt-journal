@@ -1,6 +1,7 @@
 ---
 title: "Karriere und Liebe vereinbaren"
 description: "Beziehung und Karriere: Wie du beide vereinbarst und eine erfüllende Partnerschaft aufbaust, ohne deine Ziele zu opfern."
+date: 2025-03-07
 tags:
   - "Beziehung"
   - "Ratgeber"

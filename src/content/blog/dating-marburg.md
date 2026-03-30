@@ -1,6 +1,7 @@
 ---
 title: "Dating in Marburg: Die besten Orte & Tipps für Singles"
 description: "Marburg Dating-Guide: Märchenstadt mit Schloss, Uni-Flair und Lahn-Romantik. Entdecke Marburgs beste Dating-Spots und geheime Lieblingsorte!"
+date: 2025-06-22
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

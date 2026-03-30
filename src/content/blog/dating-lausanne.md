@@ -1,7 +1,7 @@
 ---
 title: "Dating in Lausanne: Genfer See Romantik"
 description: "Dating in Lausanne: Romantik pur am Genfer See. Französische Kultur, Alpen und Weinberge — perfekt zum Verlieben in der Schweiz."
-date: "2025-05-28"
+date: 2025-05-28
 image: "/images/photos/dating-lausanne.webp"
 tags:
   - "dating"

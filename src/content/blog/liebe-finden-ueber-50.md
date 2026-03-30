@@ -1,6 +1,7 @@
 ---
 title: "Liebe finden über 50: Dating im reifen Alter"
 description: "Liebe finden über 50: Dating im reifen Alter. Wie du eine erfüllende Beziehung aufbaust und mit Authentizität, Selbstverständnis und Klarheit liebst."
+date: 2025-11-21
 tags:
   - "Ü40"
   - "Dating-Tipps"

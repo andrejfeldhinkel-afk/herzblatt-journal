@@ -1,6 +1,7 @@
 ---
 title: "Körpersprache beim Flirten: So erkennst du echtes Interesse"
 description: "Körpersprache beim Flirten verrät mehr als Worte. Lerne, die Signale zu erkennen und richtig zu deuten."
+date: 2025-11-07
 image: "/images/photos/koerpersprache-flirten.webp"
 tags:
   - "Flirten"

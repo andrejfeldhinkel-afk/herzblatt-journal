@@ -1,6 +1,7 @@
 ---
 title: "Liebe auf Distanz: So übersteht eure Fernbeziehung jede"
 description: "Fernbeziehung und trotzdem glücklich? Die besten Tipps für Kommunikation, Vertrauen und gemeinsame Rituale trotz Distanz."
+date: 2025-11-20
 tags:
   - "Beziehungen"
   - "Kommunikation"

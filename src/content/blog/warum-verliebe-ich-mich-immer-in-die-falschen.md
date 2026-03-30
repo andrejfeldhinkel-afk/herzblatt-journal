@@ -1,6 +1,7 @@
 ---
 title: "Warum verliebe ich mich immer in die Falschen?"
 description: "Immer die Falschen? Erfahre welche psychologischen Muster dahinter stecken, warum dein Beuteschema sabotiert und wie du den Kreislauf durchbrichst."
+date: 2025-12-15
 image: "/images/photos/warum-verliebe-ich-mich-immer-in-die-falschen.webp"
 imageAlt: "Nachdenkliche Frau reflektiert über Beziehungsmuster"
 tags:
@@ -18,7 +19,7 @@ faq:
   - question: "Warum verliebe ich mich immer in unerreichbare Menschen?"
     answer: "Weil Unerreichbarkeit Sehnsucht erzeugt — und Sehnsucht fühlt sich wie Liebe an. Dahinter steckt oft ein unsicherer Bindungsstil: Du verwechselst Angst mit Anziehung."
   - question: "Kann ich mein Beuteschema ändern?"
-    answer: "Ja, aber es braucht bewusste Arbeit. Der erste Schritt ist Muster erkennen. Der zweite: Dich bewusst auf Menschen einlassen die"
+    answer: "Ja, aber es braucht bewusste Arbeit. Der erste Schritt ist Muster erkennen. Der zweite: Dich bewusst auf Menschen einlassen die 'langweilig' wirken — die sich aber tatsächlich gut anfühlen."
   - question: "Ist Therapie bei wiederkehrenden Beziehungsmustern sinnvoll?"
     answer: "Absolut. Ein Therapeut hilft dir, unbewusste Muster zu erkennen die du allein nicht siehst. Besonders bei Mustern aus der Kindheit ist professionelle Begleitung extrem wertvoll."
   - question: "Was wenn mein Partner 'langweilig' wirkt aber eigentlich gut für mich ist?"

@@ -1,7 +1,7 @@
 ---
 title: "Partnersuche ab 50: Der ehrliche Komplett-Guide"
 description: "Partnersuche ab 50: Der ehrliche Komplett-Guide für neue Liebe in der zweiten Lebenshälfte. Tipps, Strategien und echte Chancen."
-date: "2025-10-22"
+date: 2025-10-22
 image: "/images/photos/partnersuche-ab-50-guide.webp"
 tags:
   - "Dating ab 50"

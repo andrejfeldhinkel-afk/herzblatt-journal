@@ -1,6 +1,7 @@
 ---
 title: "Dating ohne Social Media: Geht?"
 description: "Dating ohne Social Media: Warum manche Singles bewusst auf Instagram und Co. verzichten und wie das die Partnersuche verändert."
+date: 2025-07-28
 tags:
   - "Dating"
   - "Lifestyle"

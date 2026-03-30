@@ -1,7 +1,7 @@
 ---
 title: "Date Nights: Warum sie Beziehungen retten"
 description: "Date Nights klingen banal, wirken aber Wunder in Langzeitbeziehungen. Warum regelmäßige bewusste Zweisamkeit deine Liebe retten und stärken kann."
-date: "2025-04-15"
+date: 2025-04-15
 image: "/images/photos/date-nights-langzeitbeziehung.webp"
 tags:
   - "Date Night"

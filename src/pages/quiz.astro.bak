@@ -1,0 +1,565 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const faqData = [
+  {
+    question: "Wie funktioniert das Quiz?",
+    answer: "Das Quiz besteht aus 10 Fragen zu deinen Dating-Vorlieben. Du beantwortest sie nacheinander und erhältst am Ende ein Resultat, das dir zeigt, welcher Dating-Typ du bist. Das Resultat basiert auf deinen Antworten und wird speziell für dich berechnet."
+  },
+  {
+    question: "Kann ich das Quiz mehrmals machen?",
+    answer: "Ja, gerne! Du kannst das Quiz beliebig oft wiederholen und dabei andere Antworten geben. Jedes Mal erhältst du basierend auf deinen aktuellen Antworten ein neues Resultat."
+  },
+  {
+    question: "Was ist ein Dating-Typ?",
+    answer: "Ein Dating-Typ beschreibt deinen persönlichen Ansatz zum Dating und zu Beziehungen. Es gibt vier Typen: Der Romantiker liebt traditionelle Gesten, der Abenteurer sucht Spannung, der Analytiker geht methodisch vor, und der Empath setzt auf emotionale Tiefe."
+  },
+  {
+    question: "Sind die Resultate wissenschaftlich?",
+    answer: "Das Quiz basiert auf gängigen Dating- und Persönlichkeitsmodellen. Während das Resultat unterhaltsam und informativ ist, ist es keine professionelle psychologische Bewertung. Denke daran, dass jeder Mensch komplex ist und sich in verschiedenen Situationen unterschiedlich verhalten kann."
+  },
+  {
+    question: "Kann ich mein Resultat teilen?",
+    answer: "Ja! Nach deinem Quiz hast du die Möglichkeit, dein Resultat über einen Link zu kopieren oder direkt auf WhatsApp zu teilen. So können deine Freunde auch erfahren, welcher Dating-Typ sie sind."
+  }
+];
+
+const quizQuestions = [
+  {
+    id: 1,
+    question: "Wie stellst du dir einen perfekten ersten Date vor?",
+    answers: [
+      { text: "Ein klassisches Dinner bei Kerzenlicht mit Rose und Tränchen im Auge", type: "romantiker" },
+      { text: "Eine spontane Abenteuer-Tour: Kletterpark, Karaoke, danach noch Club!", type: "abenteurer" },
+      { text: "Ein Kaffee an neuem Ort, um herauszufinden, ob wir kompatibel sind", type: "analytiker" },
+      { text: "Tiefgründige Gespräche bei entspannter Atmosphäre, um echte Verbindung zu schaffen", type: "empath" }
+    ]
+  },
+  {
+    id: 2,
+    question: "Was fasziniert dich am meisten an einer neuen Person?",
+    answers: [
+      { text: "Ihre Leidenschaft, Romantik und wie sie sich dir nähert", type: "romantiker" },
+      { text: "Ihr Mut, ihre Spontaneität und wie aufregend sie ist", type: "abenteurer" },
+      { text: "Ihre Intelligenz, Logik und wie gut sie in deine Ziele passt", type: "analytiker" },
+      { text: "Ihre Tiefe, Einfühlsamkeit und emotionale Reife", type: "empath" }
+    ]
+  },
+  {
+    id: 3,
+    question: "Wie zeigst du jemandem, dass du ihn magst?",
+    answers: [
+      { text: "Mit romantischen Gesten: Blumen, handschriftliche Briefe, Überraschungen", type: "romantiker" },
+      { text: "Indem ich unvergessliche Erlebnisse mit ihm schaffe und ihn zum Lachen bringe", type: "abenteurer" },
+      { text: "Durch konsistente Aufmerksamkeit, Zuverlässigkeit und durchdachte Komplimente", type: "analytiker" },
+      { text: "Mit echter emotionaler Präsenz und aktiven Zuhören, ohne Spielchen", type: "empath" }
+    ]
+  },
+  {
+    id: 4,
+    question: "Was ist dein größtes Bedenken beim Dating?",
+    answers: [
+      { text: "Dass der andere nicht romantisch genug ist oder das Magische fehlt", type: "romantiker" },
+      { text: "Dass es langweilig werden könnte oder keine Leidenschaft mehr da ist", type: "abenteurer" },
+      { text: "Dass die Realität nicht meinen Erwartungen oder Plänen entspricht", type: "analytiker" },
+      { text: "Dass der andere meine Gefühle nicht erwidert oder mich verletzt", type: "empath" }
+    ]
+  },
+  {
+    id: 5,
+    question: "Wie gehst du mit Konflikten in einer Beziehung um?",
+    answers: [
+      { text: "Ich versuche, alles zu glätten und die Harmonie zurückzubringen, auch wenn es nicht ganz fair ist", type: "romantiker" },
+      { text: "Ich werde direkt und leidenschaftlich, oder ich brauche Raum um abzukühlen", type: "abenteurer" },
+      { text: "Ich analysiere das Problem rational und suche nach der beste Lösung", type: "analytiker" },
+      { text: "Ich will verstehen, was wirklich hinter dem Konflikt steckt und heile die emotionale Wunde", type: "empath" }
+    ]
+  },
+  {
+    id: 6,
+    question: "Was machst du gerne in deiner Freizeit?",
+    answers: [
+      { text: "Romantische Filme schauen, alte Lieder hören, in Träumen schwelgen", type: "romantiker" },
+      { text: "Neue Orte erkunden, Sport treiben, verrückte Abenteuer planen", type: "abenteurer" },
+      { text: "Lesen, Daten analysieren, an persönlichen Projekten arbeiten, lernen", type: "analytiker" },
+      { text: "Mit Freunden tiefgründig quatschen, Natur genießen, Menschen verstehen", type: "empath" }
+    ]
+  },
+  {
+    id: 7,
+    question: "Welche Eigenschaft ist für dich am attraktivsten?",
+    answers: [
+      { text: "Romantik, Sensibilität und emotionale Ausdrucksfähigkeit", type: "romantiker" },
+      { text: "Mut, Spontaneität und der Drang nach neuen Herausforderungen", type: "abenteurer" },
+      { text: "Intelligenz, Zuverlässigkeit und ein klarer Lebensplan", type: "analytiker" },
+      { text: "Empathie, Authentizität und die Fähigkeit, wirklich zuzuhören", type: "empath" }
+    ]
+  },
+  {
+    id: 8,
+    question: "Wie wichtig ist die Schnelligkeit in einer Beziehung für dich?",
+    answers: [
+      { text: "Ich glaube an Liebe auf den ersten Blick und schnelle, leidenschaftliche Bindungen", type: "romantiker" },
+      { text: "Schnell verlieben ist cool, aber ewig derselbe Partner könnte langweilig werden", type: "abenteurer" },
+      { text: "Ich baue Beziehungen schrittweise auf — Vertrauen braucht Zeit und Beweis", type: "analytiker" },
+      { text: "Ich warte geduldig, bis sich eine tiefe emotionale Verbindung entwickelt", type: "empath" }
+    ]
+  },
+  {
+    id: 9,
+    question: "Was würde dich am meisten bei der Partnersuche entmutigen?",
+    answers: [
+      { text: "Oberflächliche Menschen, die nicht an echte Liebe glauben", type: "romantiker" },
+      { text: "Langweiler, denen die Lust auf Neues und Abenteuer fehlt", type: "abenteurer" },
+      { text: "Unvorhersehbarkeit, mangelnde Kommunikation oder unklare Absichten", type: "analytiker" },
+      { text: "Menschen, die emotional nicht verfügbar sind oder Manipulationsspiele spielen", type: "empath" }
+    ]
+  },
+  {
+    id: 10,
+    question: "Was ist dein ultimatives Ziel beim Dating?",
+    answers: [
+      { text: "Eine tiefe, romantische Liebe, die wie aus einem Roman ist", type: "romantiker" },
+      { text: "Eine Beziehung voller Spannung, neuer Erlebnisse und gemeinsamen Abenteuern", type: "abenteurer" },
+      { text: "Eine stabile, durchdachte Partnerschaft mit geteilten Zielen und Kompatibilität", type: "analytiker" },
+      { text: "Eine authentische, emotionale Verbindung mit gegenseitigem Verständnis und Wachstum", type: "empath" }
+    ]
+  }
+];
+
+const resultTypes = {
+  romantiker: {
+    title: "Der Romantiker",
+    icon: "🌹",
+    percentage: 0,
+    description: "Du bist ein hoffnungsloser Romantiker mit großem Herzen. Du glaubst an die Liebe, an Schicksal und daran, dass echte Liebe mit Funkeln beginnt. Du wünschst dir Momente wie in Filmen — Überraschungen, Tränchen, Grand Gestures. Für dich ist Dating nicht nur eine Partnersuche, sondern eine emotionale Reise voller Magie.",
+    tips: [
+      "Zeige deine Gefühle offen und authentisch — Menschen lieben deine Leidenschaft",
+      "Achte darauf, nicht zu schnell zu verlieben oder andere idealisierst — Menschen sind menschlich",
+      "Balance-Tipp: Kombiniere Romantik mit praktischen Kommunikation für langfristige Beziehungen"
+    ]
+  },
+  abenteurer: {
+    title: "Der Abenteurer",
+    icon: "⚡",
+    percentage: 0,
+    description: "Du lebst für den Kick, die Spannung und das Unbekannte. Ein sicheres, vorhersehbares Leben ist dir zu langweilig. Du suchst Partner, die mithalten können, die spontan sind und nicht vor neuen Herausforderungen zurückschrecken. Für dich ist Dating ein spannendes Abenteuer, nicht ein geplantes Projekt.",
+    tips: [
+      "Suche nach Partnern mit ähnlicher Energie — gemeinsame Leidenschaft schafft starke Bindungen",
+      "Versuche auch, tiefere emotionale Momente zu schaffen, nicht nur adrenalingeladene",
+      "Balance-Tipp: Wahre Liebe braucht auch Stabilität — nicht nur Spektakel und Action"
+    ]
+  },
+  analytiker: {
+    title: "Der Analytiker",
+    icon: "🧩",
+    percentage: 0,
+    description: "Du gehst methodisch vor, vertraust Logik und Daten mehr als Bauchgefühl. Du möchtest verstehen, wie Menschen ticken, bevor du dein Herz öffnest. Für dich ist ein gutes Match wie ein Puzzle — die Teile müssen passen. Du schätzt Klarheit, Kommunikation und einen gemeinsamen Lebensplan.",
+    tips: [
+      "Dein analytischer Verstand ist eine Stärke — nutze ihn, um Red Flags zu erkennen",
+      "Lasse dich auch mal von Gefühlen überraschen — nicht alles im Leben ist logisch",
+      "Balance-Tipp: Kombiniere Rationalität mit Spontaneität für lebendigere Beziehungen"
+    ]
+  },
+  empath: {
+    title: "Der Empath",
+    icon: "💜",
+    percentage: 0,
+    description: "Du spürst die Gefühle anderer Menschen intensiv und sehnst dich nach echten, tiefgründigen Verbindungen. Du magst Menschen mit Tiefe und Authentizität. Oberflächlichkeit abstoßen dich. Für dich geht es beim Dating darum, einen Menschen wirklich zu verstehen und verstanden zu werden — auf der Seelen-Ebene.",
+    tips: [
+      "Deine Einfühlsamkeit ist deine Superkraft — nutze sie, um echte Intimität zu schaffen",
+      "Achte auf deine Grenzen — nimm nicht alle emotionalen Probleme anderer übernehmen",
+      "Balance-Tipp: Finde Partner, die deine Tiefe schätzen, aber auch emotionale Selbstständigkeit haben"
+    ]
+  }
+};
+---
+
+<BaseLayout
+  title="Welcher Dating-Typ bist du? | Herzblatt Journal"
+  description="Entdecke deinen Dating-Typ mit unserem kostenlosen interaktiven Quiz. Finde heraus, ob du Romantiker, Abenteurer, Analytiker oder Empath bist und erhalte personalisierte Dating-Tipps."
+  faq={faqData}
+>
+  <!-- Hero Section -->
+  <section class="relative overflow-hidden py-20 sm:py-28">
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, var(--color-primary-50) 0%, var(--color-surface-100) 50%, var(--color-primary-50) 100%);"></div>
+    <div class="absolute top-10 left-10 w-72 h-72 rounded-full opacity-20" style="background: var(--color-primary-200); filter: blur(80px);"></div>
+    <div class="absolute bottom-10 right-10 w-96 h-96 rounded-full opacity-15" style="background: var(--color-primary-300); filter: blur(100px);"></div>
+
+    <div class="relative max-w-4xl mx-auto px-4 sm:px-6 text-center">
+      <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-semibold mb-6" style="background: var(--color-primary-100); color: var(--color-primary-700);">
+        <span class="pulse-heart">💕</span> Selbstentdeckung durch Dating
+      </div>
+      <h1 class="text-4xl sm:text-5xl font-extrabold mb-6" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.03em; line-height: 1.1;">
+        Welcher<br>
+        <span style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Dating-Typ</span><br>
+        bist du?
+      </h1>
+      <p class="text-lg sm:text-xl max-w-2xl mx-auto leading-relaxed mb-8" style="color: var(--text-muted);">
+        In nur 10 Fragen entdeckst du deinen einzigartigen Dating-Stil. Lass dich überraschen, lache über die Ergebnisse und finde heraus, was dich beim Dating antreibt.
+      </p>
+      <button id="startBtn" class="inline-flex items-center gap-2 px-8 py-4 rounded-full text-base font-bold text-white transition-all hover:shadow-lg hover:-translate-y-1" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); border: none; cursor: pointer;">
+        Quiz starten
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+      </button>
+    </div>
+  </section>
+
+  <!-- Quiz Container -->
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 py-12">
+    <!-- Quiz Section (Hidden by default) -->
+    <section id="quizSection" class="hidden">
+      <!-- Progress Bar -->
+      <div class="mb-8">
+        <div class="flex items-center justify-between mb-3">
+          <span class="text-sm font-semibold" style="color: var(--text);">Frage <span id="currentQuestion">1</span> von <span id="totalQuestions">10</span></span>
+          <span id="progressPercent" class="text-sm font-semibold" style="color: var(--color-primary-600);">0%</span>
+        </div>
+        <div class="w-full h-2 rounded-full overflow-hidden" style="background: var(--border);">
+          <div id="progressBar" class="h-full rounded-full transition-all duration-300" style="background: linear-gradient(90deg, var(--color-primary-500), var(--color-primary-700)); width: 10%;"></div>
+        </div>
+      </div>
+
+      <!-- Question Card -->
+      <div class="rounded-2xl p-8 sm:p-10 mb-8 animate-fade-in" style="background: var(--bg); border: 1px solid var(--border);">
+        <h2 id="questionText" class="text-2xl sm:text-3xl font-bold mb-8" style="color: var(--text); font-family: var(--font-serif);">
+          Wie stellst du dir einen perfekten ersten Date vor?
+        </h2>
+
+        <!-- Answer Options -->
+        <div id="answersContainer" class="space-y-3">
+          <!-- Answers will be inserted here by JavaScript -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Result Section (Hidden by default) -->
+    <section id="resultSection" class="hidden">
+      <!-- Result Card -->
+      <div id="resultCard" class="rounded-2xl p-8 sm:p-10 mb-8 animate-fade-in" style="background: var(--bg); border: 1px solid var(--border);">
+        <!-- Icon and Title -->
+        <div class="text-center mb-8">
+          <div id="resultIcon" class="text-6xl mb-4" style="animation: bounce 1s ease-in-out;">🌹</div>
+          <h2 id="resultTitle" class="text-3xl sm:text-4xl font-bold mb-2" style="color: var(--text); font-family: var(--font-serif);">Der Romantiker</h2>
+          <div id="resultPercentage" class="inline-block px-4 py-1.5 rounded-full text-sm font-semibold mt-3" style="background: var(--color-primary-100); color: var(--color-primary-700);">
+            100% Match
+          </div>
+        </div>
+
+        <!-- Description -->
+        <p id="resultDescription" class="text-center text-base leading-relaxed mb-8" style="color: var(--text-muted);">
+          Du bist ein hoffnungsloser Romantiker mit großem Herz...
+        </p>
+
+        <!-- Tips Section -->
+        <div class="mb-8">
+          <h3 class="text-lg font-bold mb-4" style="color: var(--text); font-family: var(--font-serif);">Deine persönlichen Dating-Tipps:</h3>
+          <ul id="tipsList" class="space-y-3">
+            <!-- Tips will be inserted here by JavaScript -->
+          </ul>
+        </div>
+
+        <!-- Dating-Seiten Empfehlung -->
+        <div class="mb-8 rounded-2xl p-6 sm:p-8" style="background: linear-gradient(135deg, var(--color-primary-50), var(--color-surface-100)); border: 1px solid var(--color-primary-100);">
+          <div class="flex items-center gap-2 mb-3">
+            <span class="text-lg">🎯</span>
+            <h3 class="text-base font-bold" style="color: var(--text); font-family: var(--font-serif);">Unsere Empfehlung für dich</h3>
+          </div>
+          <p id="recommendationText" class="text-sm mb-4" style="color: var(--text-muted);">
+            Basierend auf deinem Dating-Typ haben wir die perfekte Plattform für dich:
+          </p>
+          <div class="rounded-xl p-5" style="background: var(--bg); border: 1px solid var(--border);">
+            <div class="flex items-center gap-3 mb-3">
+              <div class="w-10 h-10 rounded-xl flex items-center justify-center text-white font-bold text-sm" style="background: linear-gradient(135deg, #f43f5e, #be123c);">xL</div>
+              <div>
+                <div class="font-bold text-sm" style="color: var(--text);">xLoves</div>
+                <div class="flex items-center gap-1">
+                  <span style="color: #f59e0b;">★★★★★</span>
+                  <span class="text-xs" style="color: var(--text-muted);">4.8/5</span>
+                </div>
+              </div>
+              <span class="ml-auto text-[10px] font-semibold px-2 py-1 rounded-full" style="background: var(--color-primary-100); color: var(--color-primary-700);">Empfohlen</span>
+            </div>
+            <p id="siteRecommendation" class="text-sm mb-4" style="color: var(--text-muted);">
+              Perfekt für deinen Dating-Typ — echte Verbindungen, verifizierte Profile und eine aktive Community.
+            </p>
+            <a href="https://www.dating-tracker.com/cmp/CLQ868/78NZBG/?source_id=quiz&sub1=quiz-ergebnis" target="_blank" rel="nofollow sponsored noopener noreferrer" class="block text-center px-6 py-3.5 rounded-full text-sm font-bold text-white transition-all hover:shadow-lg hover:-translate-y-0.5" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); border: none; cursor: pointer; text-decoration: none;">
+              Kostenlos bei xLoves registrieren →
+            </a>
+          </div>
+          <a href="/top-dating-seiten" class="inline-flex items-center gap-1 text-xs font-medium mt-3 transition-colors hover:underline" style="color: var(--color-primary-600);">
+            Alle Top Dating Seiten ansehen →
+          </a>
+        </div>
+
+        <!-- Share Section -->
+        <div class="mb-8 pb-8" style="border-bottom: 1px solid var(--border);">
+          <p class="text-sm font-semibold mb-3" style="color: var(--text);">Teile dein Ergebnis:</p>
+          <div class="flex gap-3">
+            <button id="copyBtn" class="flex-1 px-4 py-2.5 rounded-lg text-sm font-semibold transition-all hover:shadow-md" style="background: var(--bg-soft); color: var(--text); border: 1px solid var(--border); cursor: pointer;">
+              📋 Link kopieren
+            </button>
+            <button id="whatsappBtn" class="flex-1 px-4 py-2.5 rounded-lg text-sm font-semibold transition-all hover:shadow-md" style="background: #25D366; color: white; border: none; cursor: pointer;">
+              💬 WhatsApp teilen
+            </button>
+          </div>
+        </div>
+
+        <!-- Repeat Quiz Button -->
+        <button id="retryBtn" class="w-full px-6 py-3 rounded-lg text-base font-semibold transition-all hover:shadow-md" style="background: var(--bg-soft); color: var(--text); border: 1px solid var(--border); cursor: pointer;">
+          🔄 Quiz wiederholen
+        </button>
+      </div>
+    </section>
+  </div>
+
+  <!-- FAQ Section -->
+  <section class="max-w-4xl mx-auto px-4 sm:px-6 py-16" style="border-top: 1px solid var(--border);">
+    <div class="flex items-center gap-3 mb-6">
+      <div class="w-1 h-8 rounded-full" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-300));"></div>
+      <h2 class="text-2xl font-bold" style="color: var(--text); font-family: var(--font-serif);">Häufige Fragen</h2>
+    </div>
+
+    <div class="space-y-4">
+      {faqData.map((item) => (
+        <details class="group rounded-2xl overflow-hidden" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <summary class="flex items-center justify-between p-5 cursor-pointer list-none">
+            <span class="text-sm font-semibold" style="color: var(--text);">{item.question}</span>
+            <svg class="w-5 h-5 transition-transform group-open:rotate-180" style="color: var(--text-muted);" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg>
+          </summary>
+          <div class="px-5 pb-5 text-sm leading-relaxed" style="color: var(--text-muted);">
+            {item.answer}
+          </div>
+        </details>
+      ))}
+    </div>
+  </section>
+
+  <style>
+    details summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .pulse-heart {
+      animation: heartbeat 1.4s ease-in-out infinite;
+    }
+
+    @keyframes heartbeat {
+      0%, 100% { transform: scale(1); }
+      15% { transform: scale(1.25); }
+      30% { transform: scale(1); }
+      45% { transform: scale(1.2); }
+      60% { transform: scale(1); }
+    }
+
+    @keyframes fade-in {
+      from {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes bounce {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.1); }
+    }
+
+    .animate-fade-in {
+      animation: fade-in 0.3s ease-out;
+    }
+
+    .answer-btn {
+      transition: all 0.3s ease;
+    }
+
+    .answer-btn:hover {
+      transform: translateX(4px);
+    }
+
+    .answer-btn.selected {
+      animation: none;
+    }
+
+    .answer-btn.correct {
+      animation: pulse 0.6s ease;
+    }
+
+    @keyframes pulse {
+      0% { transform: scale(1); }
+      50% { transform: scale(1.02); }
+      100% { transform: scale(1); }
+    }
+  </style>
+
+  <script define:vars={{quizQuestions, resultTypes}}>
+    let currentQuestionIndex = 0;
+    let answers = [];
+    const TOTAL_QUESTIONS = quizQuestions.length;
+
+    const elements = {
+      startBtn: document.getElementById('startBtn'),
+      quizSection: document.getElementById('quizSection'),
+      resultSection: document.getElementById('resultSection'),
+      questionText: document.getElementById('questionText'),
+      currentQuestion: document.getElementById('currentQuestion'),
+      totalQuestions: document.getElementById('totalQuestions'),
+      progressBar: document.getElementById('progressBar'),
+      progressPercent: document.getElementById('progressPercent'),
+      answersContainer: document.getElementById('answersContainer'),
+      resultCard: document.getElementById('resultCard'),
+      resultIcon: document.getElementById('resultIcon'),
+      resultTitle: document.getElementById('resultTitle'),
+      resultPercentage: document.getElementById('resultPercentage'),
+      resultDescription: document.getElementById('resultDescription'),
+      tipsList: document.getElementById('tipsList'),
+      copyBtn: document.getElementById('copyBtn'),
+      whatsappBtn: document.getElementById('whatsappBtn'),
+      retryBtn: document.getElementById('retryBtn'),
+    };
+
+    // Initialize
+    elements.totalQuestions.textContent = TOTAL_QUESTIONS;
+
+    // Start Quiz
+    elements.startBtn.addEventListener('click', () => {
+      elements.startBtn.closest('section').style.display = 'none';
+      elements.quizSection.classList.remove('hidden');
+      showQuestion(0);
+    });
+
+    // Show Question
+    function showQuestion(index) {
+      currentQuestionIndex = index;
+      const question = quizQuestions[index];
+
+      elements.questionText.textContent = question.question;
+      elements.currentQuestion.textContent = index + 1;
+      elements.progressBar.style.width = ((index + 1) / TOTAL_QUESTIONS * 100) + '%';
+      elements.progressPercent.textContent = Math.round((index + 1) / TOTAL_QUESTIONS * 100) + '%';
+
+      elements.answersContainer.innerHTML = '';
+      question.answers.forEach((answer, i) => {
+        const btn = document.createElement('button');
+        btn.className = 'answer-btn w-full text-left p-5 rounded-lg font-medium transition-all hover:shadow-md';
+        btn.style.cssText = `
+          background: var(--bg-soft);
+          color: var(--text);
+          border: 2px solid var(--border);
+          cursor: pointer;
+        `;
+        btn.textContent = answer.text;
+
+        btn.addEventListener('click', () => {
+          answers.push(answer.type);
+          if (index < TOTAL_QUESTIONS - 1) {
+            btn.style.opacity = '0.7';
+            setTimeout(() => showQuestion(index + 1), 300);
+          } else {
+            showResult();
+          }
+        });
+
+        elements.answersContainer.appendChild(btn);
+      });
+    }
+
+    // Show Result
+    function showResult() {
+      elements.quizSection.classList.add('hidden');
+      elements.resultSection.classList.remove('hidden');
+
+      // Calculate result
+      const counts = {
+        romantiker: 0,
+        abenteurer: 0,
+        analytiker: 0,
+        empath: 0,
+      };
+
+      answers.forEach(type => counts[type]++);
+
+      const resultType = Object.keys(counts).reduce((a, b) => counts[a] > counts[b] ? a : b);
+      const result = resultTypes[resultType];
+      const percentage = Math.round((counts[resultType] / TOTAL_QUESTIONS) * 100);
+
+      // Update result display
+      elements.resultIcon.textContent = result.icon;
+      elements.resultTitle.textContent = result.title;
+      elements.resultPercentage.textContent = percentage + '% Match';
+      elements.resultDescription.textContent = result.description;
+
+      elements.tipsList.innerHTML = '';
+      result.tips.forEach(tip => {
+        const li = document.createElement('li');
+        li.className = 'p-4 rounded-lg flex gap-3';
+        li.style.cssText = `background: var(--bg-soft); border: 1px solid var(--border);`;
+        li.innerHTML = `
+          <span style="color: var(--color-primary-600); flex-shrink-0;">✓</span>
+          <span style="color: var(--text-muted);">${tip}</span>
+        `;
+        elements.tipsList.appendChild(li);
+      });
+
+      // Share button handlers
+      const shareText = `Ich bin "${result.title}" 🎯\n\nEntdecke deinen Dating-Typ: https://herzblatt-journal.com/quiz`;
+
+      elements.copyBtn.addEventListener('click', () => {
+        const url = window.location.href + '?result=' + resultType;
+        navigator.clipboard.writeText(url).then(() => {
+          const originalText = elements.copyBtn.textContent;
+          elements.copyBtn.textContent = '✓ Kopiert!';
+          setTimeout(() => {
+            elements.copyBtn.textContent = originalText;
+          }, 2000);
+        });
+      });
+
+      elements.whatsappBtn.addEventListener('click', () => {
+        const text = encodeURIComponent(`Ich bin "${result.title}" beim Dating-Quiz! 🎯\n\n${result.description.slice(0, 100)}...\n\nMach auch du das Quiz: https://herzblatt-journal.com/quiz`);
+        window.open(`https://wa.me/?text=${text}`, '_blank');
+      });
+
+      // Retry button
+      elements.retryBtn.addEventListener('click', () => {
+        currentQuestionIndex = 0;
+        answers = [];
+        elements.resultSection.classList.add('hidden');
+        elements.quizSection.classList.remove('hidden');
+        showQuestion(0);
+      });
+
+      // Update recommendation based on result type
+      const recText = document.getElementById('recommendationText');
+      const siteRec = document.getElementById('siteRecommendation');
+      const recommendations = {
+        romantiker: {
+          text: 'Als Romantiker suchst du echte, tiefe Verbindungen. Diese Plattform ist perfekt für dich:',
+          site: 'Ideal für Romantiker — hier findest du Singles, die ebenfalls an die große Liebe glauben. Verifizierte Profile und eine aktive Community sorgen für echte Gespräche.'
+        },
+        abenteurer: {
+          text: 'Als Abenteurer willst du Spannung und neue Erfahrungen. Hier triffst du Gleichgesinnte:',
+          site: 'Perfekt für Abenteurer — spontane, aufgeschlossene Singles warten hier auf dich. Die moderne Plattform macht das Kennenlernen zum Erlebnis.'
+        },
+        analytiker: {
+          text: 'Als Analytiker schätzt du Qualität und Kompatibilität. Diese Plattform passt zu dir:',
+          site: 'Ideal für Analytiker — verifizierte Profile, detaillierte Angaben und smarte Matching-Algorithmen helfen dir, den perfekten Match zu finden.'
+        },
+        empath: {
+          text: 'Als Empath suchst du authentische, tiefgründige Verbindungen. Hier wirst du fündig:',
+          site: 'Perfekt für Empathen — eine Community, die auf echte Gespräche und authentische Profile setzt. Keine Spielchen, nur echte Menschen.'
+        }
+      };
+      if (recText && recommendations[resultType]) {
+        recText.textContent = recommendations[resultType].text;
+        siteRec.textContent = recommendations[resultType].site;
+      }
+
+      // Smooth scroll to result
+      elements.resultCard.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  </script>
+</BaseLayout>

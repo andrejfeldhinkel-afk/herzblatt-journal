@@ -1,7 +1,7 @@
 ---
 title: "Beziehungspause: Regeln die wirklich helfen"
 description: "Wann ist eine Pause sinnvoll? Welche Regeln schützen eure Beziehung und wann ist es vorbei?"
-date: "2025-02-24"
+date: 2025-02-24
 image: "/images/photos/beziehung-pause-regeln.webp"
 tags:
   - "Beziehung"

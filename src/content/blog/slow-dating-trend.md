@@ -1,6 +1,7 @@
 ---
 title: "Slow Dating – Warum weniger Matches zu mehr Liebe führen"
 description: "Slow Dating ist der neue Trend für nachhaltiges Daten. Erfahren Sie, wie Sie von der Swipe-Kultur abtreten und echte Verbindungen aufbauen."
+date: 2025-12-15
 tags:
   - "Dating-Tipps"
   - "Slow Dating"

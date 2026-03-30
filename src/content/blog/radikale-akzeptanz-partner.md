@@ -1,7 +1,7 @@
 ---
 title: "Radikale Akzeptanz: Den Partner nehmen wie er ist"
 description: "Radikale Akzeptanz: Lerne, deinen Partner komplett anzunehmen ohne Resignation. Die DBT-Methode für tiefere, authentische Beziehungen."
-date: "2025-10-28"
+date: 2025-10-28
 image: "/images/photos/radikale-akzeptanz-partner.webp"
 tags:
   - "Radikale Akzeptanz"

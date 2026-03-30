@@ -1,6 +1,7 @@
 ---
 title: "Im Winter zusammen: Cozy-Tipps für Paare"
 description: "Beziehung im Winter stärken: Der Winter ist perfekt, um eure Liebe zu vertiefen. Cozy-Tipps und gemütliche Ideen für mehr Nähe."
+date: 2025-02-28
 tags:
   - "Beziehung"
   - "Ratgeber"

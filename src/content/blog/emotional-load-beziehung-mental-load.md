@@ -1,6 +1,7 @@
 ---
 title: "Mental Load in der Beziehung: Die unsichtbare Last fair"
 description: "Mental Load in der Beziehung erkennen und fair verteilen. Lerne warum die unsichtbare Denkarbeit Beziehungen zerstört und wie ihr es besser macht."
+date: 2025-09-03
 tags:
   - "Beziehung"
   - "Kommunikation"
@@ -23,7 +24,7 @@ faq:
   - question: "Warum tragen meistens Frauen den Mental Load?"
     answer: "Das hat weniger mit Biologie zu tun als mit gesellschaftlicher Prägung. Mädchen werden von klein auf darauf trainiert, die Bedürfnisse anderer wahrzunehmen und vorausschauend zu planen. Das setzt sich in Beziehungen fort — oft unbewusst."
   - question: "Wie spreche ich Mental Load an ohne Streit?"
-    answer: "Vermeide Vorwürfe wie"
+    answer: "Vermeide Vorwürfe wie 'Du machst nie...' Beschreibe stattdessen konkret, was du alles im Kopf hast: 'Mir ist aufgefallen, dass ich an X, Y und Z denke. Können wir das aufteilen?' Ein sichtbares System wie eine geteilte App hilft beiden."
   - question: "Kann Mental Load eine Beziehung zerstören?"
     answer: "Ja. Ungleich verteilter Mental Load führt zu chronischer Erschöpfung, Resentment und dem Gefühl, nicht als gleichwertiger Partner gesehen zu werden. Langfristig ist das einer der häufigsten Trennungsgründe bei Paaren mit Kindern."
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Dating in Darmstadt: Die besten Orte, Tipps & Hotspots"
 description: "Darmstadt Dating-Guide: Entdecke trendige Bars, romantische Restaurants und praktische Tipps für erfolgreiche Dates in Darmstadt!"
+date: 2025-05-18
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"
@@ -17,7 +18,7 @@ faq:
   - question: "Welche Gegend in Darmstadt ist am besten zum Ausgehen?"
     answer: "Die Kaiserstraße ist die Partymeile mit vielen Bars. Der Marktplatz ist traditionell und gemütlich. Die Gegend um die Technische Universität ist jung und lebendig."
   - question: "Gibt es gute Restaurants für romantische Dates?"
-    answer: "'Osteria Pasubio"
+    answer: "'Osteria Pasubio' bietet italienische Küche mit Stil. 'Brennessel' ist vegetarisch und trendy. 'Kolibri' ist modern und innovativ."
   - question: "Was kann man tagsüber unternehmen?"
     answer: "Das Schloss Darmstadt erkunden. Den Botanischen Garten besuchen. Ein Spaziergang durch die Jugendstil-Gegend. Die Künstlerkolonie Mathildenhöhe besuchen."
   - question: "Wie ist die junge Dating-Szene hier?"

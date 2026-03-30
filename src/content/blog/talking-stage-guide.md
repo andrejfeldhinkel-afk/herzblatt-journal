@@ -1,6 +1,7 @@
 ---
 title: "Talking Stage: Die Phase vor der Beziehung — Alles was du"
 description: "Talking Stage verstehen und meistern: Was diese Dating-Phase bedeutet, wie lange sie dauern sollte und wie du sie erfolgreich navigierst."
+date: 2025-12-15
 image: "/images/photos/talking-stage-guide.webp"
 tags:
   - "Dating"

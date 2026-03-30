@@ -1,6 +1,7 @@
 ---
 title: "Emotionale Intelligenz im Dating: Warum EQ wichtiger ist?"
 description: "Emotionale Intelligenz im Dating: Lerne, wie du deinen EQ steigerst und tiefere Verbindungen aufbaust. Mit praktischen Tipps!"
+date: 2025-09-08
 tags:
   - "Psychologie"
   - "Dating-Tipps"

@@ -1,6 +1,7 @@
 ---
 title: "Bindungsangst überwinden: Warum du dich nicht einlassen"
 description: "Bindungsangst überwinden: Ursachen verstehen, Selbsttest machen, konkrete Schritte zur Heilung. Angst vor Nähe in Beziehungen meistern."
+date: 2025-04-04
 image: "/images/photos/bindungsangst-ueberwinden.webp"
 tags:
   - "Psychologie"

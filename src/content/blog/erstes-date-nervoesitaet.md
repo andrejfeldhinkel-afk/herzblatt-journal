@@ -1,6 +1,7 @@
 ---
 title: "Nervös vor dem ersten Date? So wirst du die Aufregung los"
 description: "Nervosität vor dem ersten Date überwinden: Mit praktischen Tipps wirst du entspannt und selbstbewusst in jedes Treffen gehen — garantiert."
+date: 2025-09-23
 tags:
   - "Dating-Tipps"
   - "Ratgeber"

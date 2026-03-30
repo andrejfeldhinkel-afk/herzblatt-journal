@@ -1,6 +1,7 @@
 ---
 title: "Angst für immer allein zu bleiben: So überwindest du sie"
 description: "Angst allein zu bleiben? Erfahre woher diese Angst kommt, warum sie dich beim Dating sabotiert und wie du sie Schritt für Schritt überwindest."
+date: 2025-01-18
 image: "/images/photos/angst-allein-zu-bleiben.webp"
 imageAlt: "Einsame Frau am Fenster"
 tags:

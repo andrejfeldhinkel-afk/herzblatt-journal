@@ -1,6 +1,7 @@
 ---
 title: "Streiten ohne zu verletzen: Faire Konfliktlösung für Paare"
 description: "Fair streiten in der Beziehung lernen ohne zu verletzen. Konfliktlösung mit praktischen Techniken für tiefere Verbindung."
+date: 2025-12-15
 image: "/images/photos/streiten-ohne-verletzen.webp"
 imageAlt: "Paar führt ruhige Diskussion"
 tags:
@@ -21,9 +22,9 @@ faq:
   - question: "Was ist der Unterschied zwischen 'fair' und 'unfair' streiten?"
     answer: "Fair: Du sprichst über das Problem. Unfair: Du attackierst den anderen als Person. Fair: Du bleibst verletzlich. Unfair: Du wirst aggressiv oder kalt. Fair: Du willst verstanden werden. Unfair: Du willst gewinnen."
   - question: "Kann man einen Streit 'gewinnen'?"
-    answer: "Nein. In einer echten Partnerschaft gibt es kein Gewinnen. Es gibt nur Verstehen oder Nicht-Verstehen. Wenn einer"
+    answer: "Nein. In einer echten Partnerschaft gibt es kein Gewinnen. Es gibt nur Verstehen oder Nicht-Verstehen. Wenn einer 'gewinnt' und der andere verliert, verliert letztlich auch der Gewinner."
   - question: "Was soll ich tun, wenn mir im Streit zu heiß wird?"
-    answer: "Unterbreche. Sag:"
+    answer: "Unterbreche. Sag: 'Mir wird zu emotional. Ich brauche eine Pause.' Mach eine halbe Stunde Pause. Das ist nicht Flucht – das ist Selbstkontrolle. Kommt dann zurück."
   - question: "Kann ich Streit verhindern?"
     answer: "Teilweise. Du kannst lernen, Konflikte früher zu erkennen und konstruktiv anzusprechen. Aber Konflikte sind normal in Beziehungen. Du kannst sie nicht alle verhindern, aber fair mit ihnen umgehen."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Dating in Kassel: Tipps und Date-Spots"
 description: "Entdecke die besten Dating-Orte in Kassel. Von Cafés über Parks bis zu Museen - so findest du den perfekten Ort für dein Date."
-date: "2025-05-24"
+date: 2025-05-24
 image: "/images/photos/dating-kassel.webp"
 tags:
   - "dating"

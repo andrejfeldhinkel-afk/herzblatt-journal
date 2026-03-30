@@ -1,6 +1,7 @@
 ---
 title: "Rebound-Beziehung erkennen und vermeiden"
 description: "Rebound-Beziehung erkennen: Wie du merkst, ob du in einer Rebound-Beziehung bist und wie du sie vermeidest oder damit umgehen kannst."
+date: 2025-12-15
 tags:
   - "Beziehung"
   - "Psychologie"

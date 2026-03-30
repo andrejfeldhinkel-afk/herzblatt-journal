@@ -1,6 +1,7 @@
 ---
 title: "Sexuelle Kompatibilität in Beziehungen: Warum es wichtig ist"
 description: "Verstehen Sie sexuelle Kompatibilität und warum es wesentlich für langfristige Beziehungen ist. Tipps zum offenen Gespräch mit Ihrem Partner."
+date: 2025-12-15
 tags:
   - "Beziehungen"
   - "Kommunikation"
@@ -20,7 +21,7 @@ faq:
   - question: "Kann eine Beziehung ohne sexuelle Kompatibilität funktionieren?"
     answer: "Es ist schwierig. Längerfristig, wenn ein Partner unsatisfied ist, kann es zu Ressentiment führen. Es ist etwas, das adressiert werden muss oder die Beziehung wird leiden."
   - question: "Wie spreche ich mit meinem Partner über sexuelle Inkompatibilität?"
-    answer: "Mit Mitgefühl und ohne Schuldvorwürfe. Verwenden Sie"
+    answer: "Mit Mitgefühl und ohne Schuldvorwürfe. Verwenden Sie 'Ich' Aussagen. 'Ich hätte gerne mehr/andere Intimität' nicht 'Du gibst mir nicht, was ich brauche.'"
 ---
 Sex ist oft das unbequeme Thema in Beziehungen. Menschen sprechen nicht gerne darüber oder sie sprechen nicht genug. Aber sexuelle Kompatibilität ist wesentlich für langfristige Beziehungszufriedenheit. In diesem Leitfaden erfahren Sie, warum sexuelle Kompatibilität wichtig ist und wie Sie damit in Ihrer [beziehung](/blog/adhs-und-beziehung-komplett-guide/) umgehen.
 

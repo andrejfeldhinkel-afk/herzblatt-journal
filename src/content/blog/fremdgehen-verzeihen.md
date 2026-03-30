@@ -1,6 +1,7 @@
 ---
 title: "Fremdgehen verzeihen: Kann eine Beziehung nach Untreue"
 description: "Fremdgehen verzeihen ist möglich. Erfahre, wie du einen Vertrauensbruch verarbeitest und deine Beziehung rettest."
+date: 2025-10-08
 image: "/images/photos/fremdgehen-verzeihen.webp"
 tags:
   - "Beziehung"

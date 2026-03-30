@@ -1,6 +1,7 @@
 ---
 title: "Midlife Crisis & Beziehung: So rettest du deine"
 description: "Midlife Crisis in der Beziehung? Erfahre, wie du als Paar diese Lebenskrise zusammen meisterst und eure Partnerschaft stärkst. Praktische Tipps."
+date: 2025-12-11
 tags:
   - "Beziehungskrise"
   - "Midlife Crisis"

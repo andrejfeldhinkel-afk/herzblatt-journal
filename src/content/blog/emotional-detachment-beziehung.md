@@ -1,6 +1,7 @@
 ---
 title: "Emotional Detachment: Wenn du in der Beziehung nichts mehr"
 description: "Emotional Detachment in der Beziehung erkennen und verstehen. Warum du dich emotional abschottest, was dahinter steckt und wie du den Weg zurück findest."
+date: 2025-09-01
 tags:
   - "Psychologie"
   - "Beziehung"
@@ -25,7 +26,7 @@ faq:
   - question: "Kann Emotional Detachment geheilt werden?"
     answer: "Ja, mit der richtigen Unterstützung. Der erste Schritt ist das Erkennen und Akzeptieren. Therapie (besonders somatische Therapie oder EMDR) kann helfen, den Zugang zu Emotionen wiederherzustellen."
   - question: "Was tun wenn mein Partner emotional detached ist?"
-    answer: "Geduld, keine Vorwürfe, und sanftes Anbieten von Sicherheit. Sage:"
+    answer: "Geduld, keine Vorwürfe, und sanftes Anbieten von Sicherheit. Sage: 'Ich bin da, auch wenn du gerade nichts fühlen kannst.' Druck erzeugt mehr Rückzug. Schlage professionelle Hilfe vor — als gemeinsamen Weg, nicht als Vorwurf."
 ---
 
 Du sitzt neben dieser Person die du liebst (oder liebtest?) und du fühlst... nichts. Nicht Liebe. Nicht Hass. Nicht Frustration. Nicht Freude. Du bist leer.

@@ -1,6 +1,7 @@
 ---
 title: "Multi-Dating: Mehrere Personen gleichzeitig daten — Ist das"
 description: "Multi-Dating ehrlich erklärt: Ist es okay mehrere Personen gleichzeitig zu daten? Ethik, Regeln, Kommunikation und wann du dich entscheiden solltest."
+date: 2025-12-15
 tags:
   - "Dating"
   - "Online-Dating"

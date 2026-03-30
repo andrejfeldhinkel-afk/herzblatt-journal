@@ -1,6 +1,7 @@
 ---
 title: "Emotionale Abhängigkeit überwinden: Unabhängigkeit"
 description: "Emotionale Abhängigkeit überwinden: Verstehe emotionale Abhängigkeit und lerne Unabhängigkeit in deinen Beziehungen aufzubauen."
+date: 2025-09-06
 tags:
   - "Psychologie"
   - "Selbstliebe"

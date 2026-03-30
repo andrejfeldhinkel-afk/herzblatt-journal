@@ -1,6 +1,7 @@
 ---
 title: "Slow Dating: Warum weniger Matches zu mehr Liebe führen"
 description: "Schluss mit endlosem Swipen! Slow Dating ist der Gegentrend zur Dating-App-Hektik. So findest du durch bewusstes Kennenlernen echte Verbindungen."
+date: 2025-12-15
 tags:
   - "Dating-Tipps"
   - "Online-Dating"

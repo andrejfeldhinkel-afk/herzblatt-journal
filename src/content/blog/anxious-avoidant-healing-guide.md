@@ -1,21 +1,16 @@
 ---
-title: 'Anxious-Avoidant Healing: Wie ängstliche und vermeidende'
-author: sarah-kellner
+title: "Anxious-Avoidant Healing: Wie ängstliche und vermeidende"
+author: "sarah-kellner"
 draft: false
-image: /images/blog/anxious-avoidant-healing-guide.webp
-imageAlt: Ein Paar sitzt nebeneinander, einer möchte näher zusammen rücken, der andere
-  sitzt leicht zurückgelehnt - ein zartes Bild der Spannung zwischen Nähe und Distanz
+image: "/images/blog/anxious-avoidant-healing-guide.webp"
+imageAlt: "Ein Paar sitzt nebeneinander, einer möchte näher zusammen rücken, der andere sitzt leicht zurückgelehnt - ein zartes Bild der Spannung zwischen Nähe und Distanz"
 tags:
-- Psychologie
-- Beziehung
-- Heilung
-keywords:
-- anxious avoidant healing
-- ängstlich vermeidend beziehung heilen
-- bindungsstile überwinden paar
-- protestverhalten stoppen
-description: Die anxious-avoidant Falle ist eine der schmerzhaftesten Dyaden in Beziehungen.
-  Lerne, wie beide Partner zusammen heilen können statt sich gegenseitig zu verletzen.
+  - "Psychologie"
+  - "Beziehung"
+  - "Heilung"
+keywords: ["anxious avoidant healing", "ängstlich vermeidend beziehung heilen", "bindungsstile überwinden paar", "protestverhalten stoppen"]
+description: "Die anxious-avoidant Falle ist eine der schmerzhaftesten Dyaden in Beziehungen. Lerne, wie beide Partner zusammen heilen können statt sich gegenseitig zu verletzen."
+date: 2025-01-19
 ---
 
 ## Anxious-Avoidant Healing: Wie ängstliche und vermeidende Bindungsstile zusammen heilen können

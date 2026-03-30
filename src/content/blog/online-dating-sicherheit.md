@@ -1,6 +1,7 @@
 ---
 title: "Online-Dating Sicherheit: So schützt du dich beim"
 description: "Online-Dating kann gefährlich sein, wenn man nicht aufpasst. Hier sind die wichtigsten Sicherheitsmaßnahmen, die dein Leben schützen."
+date: 2025-12-15
 tags:
   - "Online-Dating"
   - "Sicherheit"
@@ -15,7 +16,7 @@ image: "/images/photos/online-dating-sicherheit.webp"
 imageAlt: "Person, die sicher online datet"
 faq:
   - question: "Wie erkenne ich Betrug beim Online-Dating?"
-    answer: "Sei vorsichtig bei: keine realen Fotos, schneller"
+    answer: "Sei vorsichtig bei: keine realen Fotos, schneller 'ich liebe dich', Geld-Anfragen, oder konstantes Verschieben von Dates. Verifyiere Fotos umgekehrt auf Google."
   - question: "Ist es sicher, mit einem Fremden allein zu treffen?"
     answer: "Am sichersten ist es, einen öffentlichen Ort zu wählen, es jemandem zu sagen, wo du bist, und dein Handy geladen zu halten. Vertrau deinem Bauchgefühl."
   - question: "Wie lange sollte ich mit jemandem chatten, bevor ich mich treffe?"

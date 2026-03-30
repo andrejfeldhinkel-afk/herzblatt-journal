@@ -1,7 +1,7 @@
 ---
 title: "Grenzen setzen ohne Schuldgefühle"
 description: "Grenzen setzen ohne Schuldgefühle: Lerne, wie du klare Grenzen setzt und deine Bedürfnisse respektierst. Ein praktischer Guide mit transformativen Übungen."
-date: "2025-08-29"
+date: 2025-08-29
 image: "/images/photos/grenzen-setzen-ohne-schuldgefuehle.webp"
 tags:
   - "Grenzen setzen"

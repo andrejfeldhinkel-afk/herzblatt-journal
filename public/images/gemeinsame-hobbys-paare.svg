@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF8C00"/>
+      <stop offset="100%" stop-color="#DC143C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="500" fill="url(#bg)"/>
+
+  <!-- Decorative circles -->
+  <circle cx="170" cy="100" r="95" fill="rgba(255, 255, 255, 0.12)"/>
+  <circle cx="1030" cy="400" r="125" fill="rgba(255, 255, 255, 0.1)"/>
+
+  <!-- Main icon: Paintbrush and guitar crossed -->
+  <g transform="translate(600, 250)">
+    <!-- Paintbrush (tilted left) -->
+    <g transform="translate(-50, -50) rotate(-30)">
+      <!-- Handle -->
+      <rect x="0" y="0" width="12" height="80" fill="white" rx="6"/>
+      <!-- Brush head -->
+      <ellipse cx="6" cy="90" rx="18" ry="12" fill="rgba(255, 200, 100, 0.8)"/>
+    </g>
+
+    <!-- Guitar (tilted right) -->
+    <g transform="translate(60, -40) rotate(30)">
+      <!-- Body -->
+      <ellipse cx="0" cy="0" rx="25" ry="35" fill="none" stroke="white" stroke-width="6"/>
+      <!-- Sound hole -->
+      <circle cx="0" cy="0" r="8" fill="none" stroke="rgba(255, 255, 255, 0.6)" stroke-width="2"/>
+      <!-- Neck -->
+      <rect x="-8" y="30" width="16" height="60" fill="white" rx="4"/>
+      <!-- Frets -->
+      <line x1="-8" y1="40" x2="8" y2="40" stroke="rgba(255, 255, 255, 0.5)" stroke-width="1"/>
+      <line x1="-8" y1="50" x2="8" y2="50" stroke="rgba(255, 255, 255, 0.5)" stroke-width="1"/>
+      <line x1="-8" y1="60" x2="8" y2="60" stroke="rgba(255, 255, 255, 0.5)" stroke-width="1"/>
+      <!-- Headstock -->
+      <rect x="-6" y="80" width="12" height="25" fill="white" rx="3"/>
+    </g>
+
+    <!-- Two people silhouettes -->
+    <g transform="translate(-100, 80)">
+      <circle cx="0" cy="0" r="10" fill="white"/>
+      <path d="M -8,8 L -8,30 L -15,45 L -1,45 M -8,15 L -20,22" stroke="white" stroke-width="5" stroke-linecap="round" fill="none"/>
+    </g>
+
+    <g transform="translate(100, 80) scale(-1, 1)">
+      <circle cx="0" cy="0" r="10" fill="white"/>
+      <path d="M -8,8 L -8,30 L -15,45 L -1,45 M -8,15 L -20,22" stroke="white" stroke-width="5" stroke-linecap="round" fill="none"/>
+    </g>
+  </g>
+</svg>

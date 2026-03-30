@@ -1,6 +1,7 @@
 ---
 title: "Erstes Date Gesprächsthemen: 50 Fragen die jedes Eis brechen"
 description: "50 Gesprächsthemen fürs erste Date: Leichte, tiefe und flirty Fragen, die helfen, echte Verbindung aufzubauen und Nervosität zu überwinden."
+date: 2025-09-22
 image: "/images/photos/erstes-date-gespraechsthemen.webp"
 tags:
   - "Dating"

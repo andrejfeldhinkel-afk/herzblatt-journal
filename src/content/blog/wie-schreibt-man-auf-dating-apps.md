@@ -1,6 +1,7 @@
 ---
 title: "Richtig schreiben auf Dating-Apps: Der komplette Message-"
 description: "Richtig schreiben auf Dating-Apps? Der komplette Guide für Nachrichten die Antworten bekommen — von der ersten Message bis zur Date-Vereinbarung."
+date: 2025-12-15
 tags:
   - "Online-Dating"
   - "Ratgeber"

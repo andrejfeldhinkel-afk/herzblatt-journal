@@ -4,6 +4,7 @@ import AppCTA from '../../components/AppCTA.astro';
 import ReadingProgress from '../../components/ReadingProgress.astro';
 import BlogCard from '../../components/BlogCard.astro';
 import { getCollection, render } from 'astro:content';
+import { getAuthor } from '../../data/authors';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -15,31 +16,27 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content, headings } = await render(post);
+const author = getAuthor((post.data as any).author || "redaktion");
 
-const postDate = post.data.date ? (post.data.date instanceof Date ? post.data.date : new Date(post.data.date)) : null;
-const formattedDate = postDate && !isNaN(postDate.getTime()) ? new Intl.DateTimeFormat('de-DE', {
+const formattedDate = new Intl.DateTimeFormat('de-DE', {
   year: 'numeric',
   month: 'long',
   day: 'numeric',
-}).format(postDate) : '';
+}).format(post.data.date);
 
 const words = (post.body || '').split(/\s+/).length;
 const readingTime = Math.ceil(words / 200);
 
 // Related articles: same tags, excluding current post
 const allPosts = (await getCollection('blog', ({ data }) => !data.draft))
-  .sort((a, b) => {
-    const dateA = a.data.date ? new Date(a.data.date).valueOf() : 0;
-    const dateB = b.data.date ? new Date(b.data.date).valueOf() : 0;
-    return dateB - dateA;
-  });
+  .sort((a, b) => (b.data.date?.valueOf?.() || 0) - (a.data.date?.valueOf?.() || 0));
 
-const currentTags = new Set(post.data.tags || []);
+const currentTags = new Set(post.data.tags);
 const relatedPosts = allPosts
   .filter(p => p.id !== post.id)
   .map(p => ({
     post: p,
-    score: (p.data.tags || []).filter((t: string) => currentTags.has(t)).length
+    score: p.data.tags.filter((t: string) => currentTags.has(t)).length
   }))
   .filter(p => p.score > 0)
   .sort((a, b) => b.score - a.score)
@@ -52,12 +49,11 @@ function getReadingTime(body: string) {
 
 const shareUrl = `https://herzblatt-journal.com/blog/${post.id}`;
 const shareTitle = post.data.title;
-const pageTitle = `${post.data.title} | Herzblatt Journal`;
 
 // Build internal link map: for each tag, get other posts with that tag
 const internalLinks = allPosts
   .filter(p => p.id !== post.id)
-  .filter(p => (p.data.tags || []).some((t: string) => currentTags.has(t)))
+  .filter(p => p.data.tags.some((t: string) => currentTags.has(t)))
   .slice(0, 5)
   .map(p => ({ title: p.data.title, slug: p.id }));
 
@@ -80,19 +76,20 @@ const breadcrumbs = [
   { name: post.data.title, url: `/blog/${post.id}` },
 ];
 
-// OG image: use post image if available, otherwise default
-const ogImage = post.data.image || '/og-default.png';
+// OG image (generated branded image, falls back to post image)
+// OG: Nutze gebrandetes OG-Bild falls vorhanden, sonst Artikel-Bild, sonst Default
+const ogImage = post.data.image || `/og-default.png`;
 ---
 
 <BaseLayout
-  title={pageTitle}
+  title={`${post.data.title} — Herzblatt Journal`}
   description={post.data.description}
   image={ogImage}
   type="article"
   isArticle={true}
-  keywords={post.data.keywords || []}
-  datePublished={postDate ? postDate.toISOString() : ''}
-  dateModified={post.data.updated ? (post.data.updated instanceof Date ? post.data.updated : new Date(post.data.updated)).toISOString() : (postDate ? postDate.toISOString() : '')}
+  keywords={post.data.keywords || post.data.tags || []}
+  datePublished={post.data.date.toISOString()}
+  dateModified={post.data.updated ? post.data.updated.toISOString() : post.data.date.toISOString()}
   breadcrumbs={breadcrumbs}
   faq={post.data.faq || []}
 >
@@ -142,11 +139,11 @@ const ogImage = post.data.image || '/og-default.png';
 
           <div class="flex items-center justify-between py-4" style="border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
             <div class="flex items-center gap-4">
-              <div class="w-10 h-10 rounded-full flex items-center justify-center text-white text-sm font-bold" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700));">HJ</div>
+              <a href={`/autor/${author.slug}`}><img src={author.image} alt={author.name} class="w-10 h-10 rounded-full object-cover" style="border: 2px solid var(--color-primary-200);" loading="lazy" /></a>
               <div>
-                <p class="text-sm font-semibold" style="color: var(--text);">Herzblatt Journal</p>
+                <a href={`/autor/${author.slug}`} class="text-sm font-semibold hover:underline" style="color: var(--text); text-decoration: none;">{author.name}</a>
                 <div class="flex items-center gap-2 text-xs" style="color: var(--text-muted);">
-                  {postDate && <time datetime={postDate.toISOString()}>{formattedDate}</time>}
+                  <time datetime={post.data.date.toISOString()}>{formattedDate}</time>
                   <span>·</span>
                   <span>{readingTime} Min. Lesezeit</span>
                 </div>
@@ -202,7 +199,7 @@ const ogImage = post.data.image || '/og-default.png';
               <p style="font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: rgba(255,255,255,0.7); margin-bottom: 0.5rem;">In 30 Sekunden zum Ergebnis</p>
               <p class="text-xl sm:text-2xl font-extrabold mb-3" style="color: white; font-family: var(--font-serif); letter-spacing: -0.02em;">Welche Dating-Seite passt zu dir?</p>
               <p class="text-sm mb-6" style="color: rgba(255,255,255,0.8); max-width: 400px; margin: 0 auto;">Beantworte 4 kurze Fragen und finde dein perfektes Match — kostenlos.</p>
-              <button onclick="openDatingQuiz()" class="inline-flex items-center gap-2 px-7 py-3.5 rounded-full text-sm font-bold bg-white hover:bg-white/95 transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5 cursor-pointer" style="color: var(--color-primary-700); border: none;">
+              <button onclick="window.openDatingQuiz()" class="inline-flex items-center gap-2 px-7 py-3.5 rounded-full text-sm font-bold bg-white hover:bg-white/95 transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5 cursor-pointer" style="color: var(--color-primary-700); border: none;">
                 Quiz starten
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
               </button>
@@ -276,6 +273,22 @@ const ogImage = post.data.image || '/og-default.png';
             <button onclick="navigator.clipboard.writeText(window.location.href); this.textContent='Kopiert!'; setTimeout(()=>this.innerHTML='<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'16\' height=\'16\' viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'white\' stroke-width=\'2\' stroke-linecap=\'round\' stroke-linejoin=\'round\'><path d=\'M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71\'/><path d=\'M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71\'/></svg>',1500);" class="share-btn-lg text-xs font-medium text-white" style="background: var(--color-primary-500);">
               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
             </button>
+          </div>
+        </div>
+
+        <!-- Author Bio Box -->
+        <div class="mt-14 rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="flex items-start gap-4">
+            <a href={`/autor/${author.slug}`} class="shrink-0">
+              <img src={author.image} alt={author.name} class="w-16 h-16 rounded-full object-cover" style="border: 3px solid var(--color-primary-200);" loading="lazy" />
+            </a>
+            <div>
+              <p class="text-xs font-bold uppercase tracking-wider mb-1" style="color: var(--color-primary-600);">Über den Autor</p>
+              <a href={`/autor/${author.slug}`} class="text-lg font-bold hover:underline" style="color: var(--text); font-family: var(--font-serif); text-decoration: none;">{author.name}</a>
+              <p class="text-xs font-medium mb-2" style="color: var(--color-primary-600);">{author.role}</p>
+              <p class="text-sm leading-relaxed" style="color: var(--text-muted);">{author.shortBio}</p>
+              <a href={`/autor/${author.slug}`} class="inline-block mt-3 text-xs font-semibold" style="color: var(--color-primary-600);">Alle Artikel von {author.name} →</a>
+            </div>
           </div>
         </div>
 

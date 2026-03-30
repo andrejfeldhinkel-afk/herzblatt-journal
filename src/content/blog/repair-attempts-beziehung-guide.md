@@ -1,6 +1,7 @@
 ---
 title: "Repair Attempts — Die geheime Waffe glücklicher Paare"
 description: "Repair Attempts sind laut Gottman der beste Indikator für Beziehungserfolg. Lerne, effektive Reparaturen durchzuführen und deine Partnerschaft zu stärken."
+date: 2025-12-15
 author: "sarah-kellner"
 image: "/images/blog/repair-attempts-beziehung-guide.webp"
 alt: "Ein Paar lacht zusammen während eines Konfliktes und nutzt Humor als Reparaturversuch"
@@ -18,7 +19,7 @@ keywords:
 draft: false
 faq:
   - question: "Was sind Repair Attempts?"
-    answer: "Repair Attempts sind Versuche, einen eskalierenden Konflikt de-eskalieren. Das können sein Witze, körperliche Berührungen, Fragen wie"
+    answer: "Repair Attempts sind Versuche, einen eskalierenden Konflikt de-eskalieren. Das können sein Witze, körperliche Berührungen, Fragen wie 'Können wir neu anfangen?', oder einfach eine Pause vorschlagen. Sie unterbrechen negative Zyklen."
   - question: "Warum sind sie so wichtig?"
     answer: "Laut Gottmans Forschung sind Repair Attempts einer der besten Indikatoren für Beziehungserfolg—mehr als das, wie oft Paare streiten. Paare, die erfolgreich reparieren, werden zusammenbleiben. Paare, die nicht reparieren, drift auseinander oder trennen sich."
   - question: "Was passiert, wenn Repair Attempts nicht funktionieren?"
@@ -26,7 +27,7 @@ faq:
   - question: "Wie empfängt man einen Repair Attempt?"
     answer: "Der Schlüssel ist, es zu akzeptieren. Wenn dein Partner einen Witz macht, lache. Wenn er oder sie eine Umarmung versucht, nimm es an. Wenn er oder sie ein Gespräch pausieren möchte, stimmen zu. Das ist nicht Schwäche. Das ist Beziehungspflege."
   - question: "Was sind die besten Repair Attempts?"
-    answer: "Die besten sind oft die einfachsten: ein Lächeln, eine Berührung, ein"
+    answer: "Die besten sind oft die einfachsten: ein Lächeln, eine Berührung, ein 'Entschuldigung', ein Witz. Gebräuchliche sind auch spezifische Wörter oder Gesten, die für euer Paar spezifisch sind. Du brauchst etwas, das euch beide versteht."
 ---
 ## Repair Attempts: Das Handwerk, das Beziehungen rettet
 

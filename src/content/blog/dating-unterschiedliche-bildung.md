@@ -1,6 +1,7 @@
 ---
 title: "Dating mit unterschiedlichem Bildungsniveau: Funktioniert"
 description: "Kann eine Beziehung funktionieren wenn einer studiert hat und der andere nicht? Erfahre was die Forschung sagt und worauf es wirklich ankommt."
+date: 2025-08-13
 image: "/images/photos/dating-unterschiedliche-bildung.webp"
 imageAlt: "Paar beim Lesen und Austausch"
 tags:
@@ -21,7 +22,7 @@ faq:
   - question: "Was sagt die Forschung zu Bildungsunterschieden in Paaren?"
     answer: "Studien zeigen: Ähnliche Bildungsniveaus korrelieren statistisch mit höherer Zufriedenheit, aber Werte-Kompatibilität ist ein noch stärkerer Prädiktor für Beziehungserfolg."
   - question: "Wie merke ich ob die Unterschiede zu groß sind?"
-    answer: "Drei Warnsignale: Der andere hebt sich ständig hervor ("
+    answer: "Drei Warnsignale: Der andere hebt sich ständig hervor ('In meinem Studium haben wir gelernt...'), es gibt Machtungleichgewichte in Entscheidungen, oder ihr könnt nicht über eure Interessen sprechen ohne dass es arrogant wirkt."
   - question: "Kann sich ein Bildungsunterschied im Laufe der Beziehung verstärken?"
     answer: "Ja. Wenn die Person mit weniger formaler Ausbildung kein Selbstvertrauen aufbaut oder der andere bewusst oder unbewusst die Überlegenheit nutzt, kann das wachsen. Kommunikation und gegenseitiger Respekt sind entscheidend."
 ---

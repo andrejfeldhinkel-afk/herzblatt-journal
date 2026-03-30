@@ -1,7 +1,7 @@
 ---
 title: "Offene Kommunikation: So sagst du was du denkst"
 description: "Lerne authentische Kommunikation in Beziehungen. Ich-Botschaften, aktives Zuhören, schwierige Themen, Gottman-Methoden."
-date: "2025-02-20"
+date: 2025-02-20
 image: "/images/photos/beziehung-offene-kommunikation.webp"
 tags:
   - "Kommunikation"

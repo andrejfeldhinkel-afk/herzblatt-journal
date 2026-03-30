@@ -1,6 +1,7 @@
 ---
 title: "Peter-Pan-Syndrom — Wenn der Partner nicht erwachsen werden"
 description: "Erkenne das Peter-Pan-Syndrom in deinem Partner. Wie du damit umgehst und wann es Zeit ist zu gehen."
+date: 2025-12-15
 author: "sarah-kellner"
 image: "/images/blog/peter-pan-syndrom-beziehung-guide.webp"
 categories:

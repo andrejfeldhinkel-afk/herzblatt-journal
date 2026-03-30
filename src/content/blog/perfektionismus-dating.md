@@ -1,6 +1,7 @@
 ---
 title: "Perfektionismus beim Dating: Machen Ansprüche einsam?"
 description: "Perfektionismus sabotiert deine Partnersuche. Lerne den Unterschied zwischen gesunden Standards und unrealistischen Erwartungen."
+date: 2025-12-15
 tags:
   - "Psychologie"
   - "Dating-Tipps"

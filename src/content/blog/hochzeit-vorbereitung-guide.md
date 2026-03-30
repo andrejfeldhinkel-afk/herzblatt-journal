@@ -1,7 +1,7 @@
 ---
 title: "Vom Dating zur Hochzeit: Der Beziehungs-Fahrplan"
 description: "Hochzeit Vorbereitung: Von der ersten Nachricht bis zum Ja-Wort. Die 7 Phasen einer glücklichen Beziehung bis zur Hochzeit."
-date: "2025-09-04"
+date: 2025-09-04
 image: "/images/photos/hochzeit-vorbereitung-guide.webp"
 tags:
   - "Beziehungsphasen"

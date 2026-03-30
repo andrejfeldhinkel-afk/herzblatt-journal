@@ -1,6 +1,7 @@
 ---
 title: "Wo kann man einen Partner finden — ohne Dating-Apps?"
 description: "Partner finden ohne Apps? 20 echte Orte und Strategien wo du im realen Leben Menschen kennenlernst — für alle die genug vom Swipen haben."
+date: 2025-12-15
 tags:
   - "Dating"
   - "Partnersuche"
@@ -20,7 +21,7 @@ faq:
   - question: "Sind Dating-Apps die einzige Möglichkeit?"
     answer: "Definitiv nicht. Apps sind nur ein Kanal. Die meisten Beziehungen entstehen immer noch über gemeinsame Bekannte, Arbeit, Hobbys und zufällige Begegnungen im Alltag."
   - question: "Wie spreche ich jemanden im Alltag an?"
-    answer: "Natürlich und ohne Druck. Knüpfe an die Situation an:"
+    answer: "Natürlich und ohne Druck. Knüpfe an die Situation an: 'Der Kurs war toll, gehst du öfter?' Stelle eine offene Frage, lächle, und schau ob die Energie zurückkommt."
   - question: "Wie lange dauert es bis man einen Partner findet?"
     answer: "Das ist völlig individuell. Manche treffen jemanden nach einer Woche, andere brauchen Jahre. Der Trick ist nicht zu verzweifeln, sondern regelmäßig in Situationen zu sein, wo du Menschen treffen kannst."
   - question: "Kann ich in meinem Freundeskreis einen Partner finden?"

@@ -1,6 +1,7 @@
 ---
 title: "Die 5 Liebessprachen: Test und Anleitung für Paare"
 description: "Die 5 Liebessprachen nach Gary Chapman: Test, Bedeutung und wie du deine Liebessprache mit deinem Partner praktizierst"
+date: 2025-11-27
 image: "/images/photos/liebessprachen-test-anleitung.webp"
 imageAlt: "Die fünf Liebessprachen für Paare verstehen"
 tags:
@@ -24,7 +25,7 @@ faq:
   - question: "Kann ich alle 5 Liebessprachen sprechen?"
     answer: "Theoretisch ja. Praktisch hat jeder Mensch eine oder zwei, die ihm/ihr natürlich fallen. Die anderen zu sprechen braucht Bewusstsein und Effort. Das ist okay – die Effort selbst zeigt Liebe."
   - question: "Was, wenn der Partner meine Liebessprache nicht spricht?"
-    answer: "Das ist ein Gespräch wert. Nicht mit Vorwurf, sondern informativ:"
+    answer: "Das ist ein Gespräch wert. Nicht mit Vorwurf, sondern informativ: \"Mir ist wichtig, dass wir Zeit zusammen verbringen. Das macht mich sich geliebt fühlen. Können wir das mehr machen?\" Ein liebevoller Partner wird das verstehen und anpassen."
 ---
 
 ## Die 5 Liebessprachen: Test und Anleitung für Paare

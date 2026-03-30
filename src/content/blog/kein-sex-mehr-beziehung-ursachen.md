@@ -1,6 +1,7 @@
 ---
 title: "Kein Sex mehr in der Beziehung: Ursachen und Lösungen"
 description: "Kein Sex mehr? Das ist keine Seltenheit – doch es muss nicht so bleiben. Erfahre die echten Ursachen und praktische Lösungen für deine Beziehung."
+date: 2025-11-03
 image: "/images/photos/kein-sex-mehr-beziehung-ursachen.webp"
 imageAlt: "Emotionale Distanz im Schlafzimmer"
 tags:
@@ -23,7 +24,7 @@ faq:
   - question: "Kann man das Liebesleben zurückgewinnen?"
     answer: "Absolut – wenn beide Partner bereit sind. Meist reichen kleine Veränderungen: mehr Zeit füreinander, weniger Stress, ehrliche Kommunikation und eventuell professionelle Unterstützung."
   - question: "Was ist ein Deal-Breaker – Sex oder Liebe?"
-    answer: "Das ist individuell verschieden. Manche Menschen können ohne Sex glücklich sein, andere nicht. Wichtig ist, dass beide Partner offen über ihre Bedürfnisse sprechen – nicht, was ‚richtig"
+    answer: "Das ist individuell verschieden. Manche Menschen können ohne Sex glücklich sein, andere nicht. Wichtig ist, dass beide Partner offen über ihre Bedürfnisse sprechen – nicht, was ‚richtig' ist."
   - question: "Sollten wir einen Therapeuten aufsuchen?"
     answer: "Wenn das Problem länger anhält, keine Kommunikation möglich ist oder es emotionale Tiefschichten gibt, kann ein Paartherapeut oder Sexualtherapeut sehr hilfreich sein."
 ---

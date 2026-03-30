@@ -1,6 +1,7 @@
 ---
 title: "Negging — Die perfide Manipulationstaktik beim Dating"
 description: "Lerne, Negging zu erkennen und dich davor zu schützen. Ein Guide über diese manipulative Dating-Taktik aus der PUA-Community."
+date: 2025-12-15
 author: "markus-hoffmann"
 tags:
   - "Dating"

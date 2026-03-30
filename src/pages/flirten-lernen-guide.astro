@@ -1,0 +1,157 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import BlogCard from '../components/BlogCard.astro';
+import AppCTA from '../components/AppCTA.astro';
+import { getCollection } from 'astro:content';
+
+const title = 'Flirten lernen 2026: Der komplette Guide vom Ansprechen bis zum Date';
+const description = 'Flirten lernen leicht gemacht: Körpersprache deuten, Gesprächsstarter, Anmachsprüche die funktionieren, Online-Flirten und vom Match zum echten Date. Dein kompletter Flirt-Guide.';
+const keywords = ['flirten lernen', 'flirt tipps', 'ansprechen', 'kennenlernen', 'körpersprache flirten', 'dating tipps', 'gesprächsstarter'];
+
+const allPosts = (await getCollection('blog', ({ data }) => !data.draft))
+  .sort((a, b) => (b.data.date?.valueOf?.() || 0) - (a.data.date?.valueOf?.() || 0));
+
+function getPostsByTags(tags: string[]) {
+  const tagSet = new Set(tags.map(t => t.toLowerCase()));
+  return allPosts
+    .filter(p => p.data.tags.some((t: string) => tagSet.has(t.toLowerCase())))
+    .slice(0, 6);
+}
+
+function getReadingTime(body: string) {
+  return `${Math.ceil(body.split(/\s+/).length / 200)} Min. Lesezeit`;
+}
+
+const sections = [
+  {
+    id: 'grundlagen',
+    emoji: '🎯',
+    title: 'Die Grundlagen des Flirtens',
+    description: 'Bevor du jemanden ansprichst, ist Selbstbewusstsein der Schlüssel. Verstehe die Psychologie hinter Anziehung und warum echtes Interesse attraktiver ist als jeder Trick.',
+    tags: ['flirten', 'selbstbewusstsein', 'persönlichkeitsentwicklung', 'dating'],
+  },
+  {
+    id: 'koerpersprache',
+    emoji: '👀',
+    title: 'Körpersprache & Signale',
+    description: 'Über 90% der Kommunikation ist nonverbal. Lerne, die Signale deines Gegenübers zu lesen — und die richtigen selbst zu senden.',
+    tags: ['körpersprache', 'flirten', 'signale', 'ausstrahlung'],
+  },
+  {
+    id: 'ansprechen',
+    emoji: '💬',
+    title: 'Ansprechen & Gesprächsstarter',
+    description: 'Der erste Schritt ist der schwierigste. Hier findest du bewährte Gesprächseinstiege für jede Situation — von der Bar bis zum Supermarkt.',
+    tags: ['kennenlernen', 'flirten', 'ansprechen', 'dating-tipps'],
+  },
+  {
+    id: 'online-flirten',
+    emoji: '📱',
+    title: 'Online-Flirten & Dating-Apps',
+    description: 'Das perfekte Profil, die erste Nachricht, vom Chat zum Treffen. Alles über erfolgreiches Online-Dating in der App-Welt.',
+    tags: ['online-dating', 'dating-apps', 'profil', 'erste nachricht'],
+  },
+  {
+    id: 'erstes-date',
+    emoji: '☕',
+    title: 'Das erste Date meistern',
+    description: 'Nervös? Muss nicht sein! Lerne alles über Vorbereitung, Gesprächsthemen, die richtige Location und den perfekten Abschluss.',
+    tags: ['erstes date', 'date-ideen', 'kennenlernen', 'dating-tipps'],
+  },
+  {
+    id: 'fuer-introvertierte',
+    emoji: '🌙',
+    title: 'Flirten für Introvertierte',
+    description: 'Du musst kein Partylöwe sein, um zu flirten. Introvertierte haben besondere Stärken beim Dating — lerne, sie zu nutzen.',
+    tags: ['introvertiert', 'selbstbewusstsein', 'schüchternheit', 'angst'],
+  },
+];
+
+const breadcrumbs = [
+  { name: 'Home', url: '/' },
+  { name: 'Flirten lernen', url: '/flirten-lernen-guide' },
+];
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  keywords={keywords}
+  breadcrumbs={breadcrumbs}
+  faq={[
+    { question: 'Kann man Flirten wirklich lernen?', answer: 'Ja! Flirten ist eine soziale Fähigkeit wie jede andere. Es geht nicht um auswendig gelernte Sprüche, sondern um echtes Interesse, aktives Zuhören und authentische Kommunikation. Mit Übung wird es natürlicher und entspannter.' },
+    { question: 'Was sind die besten Flirt-Tipps für Anfänger?', answer: 'Augenkontakt halten, lächeln, offene Körpersprache zeigen, echte Fragen stellen und aktiv zuhören. Der wichtigste Tipp: Sei du selbst und zeige echtes Interesse an deinem Gegenüber statt Tricks anzuwenden.' },
+    { question: 'Wie erkenne ich, ob jemand mit mir flirtet?', answer: 'Typische Flirtsignale sind: häufiger Augenkontakt, Lächeln, die Person lehnt sich zu dir, berührt dich leicht, spielt mit den Haaren, stellt persönliche Fragen und lacht über deine Witze — auch wenn sie nicht besonders lustig sind.' },
+    { question: 'Was soll ich als Erstes sagen, wenn ich jemanden anspreche?', answer: 'Die besten Gesprächsstarter sind situationsbezogen und authentisch. Kommentiere etwas aus der Umgebung, stelle eine ehrliche Frage oder mache ein spezifisches Kompliment. Vermeide auswendig gelernte Anmachsprüche — sie wirken meist unnatürlich.' },
+  ]}
+>
+  <!-- Hero -->
+  <section class="relative overflow-hidden" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-800));">
+    <div style="position: absolute; top: -80px; right: -80px; width: 350px; height: 350px; border-radius: 50%; background: rgba(255,255,255,0.05);"></div>
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 py-16 sm:py-24 text-center relative">
+      <p class="text-xs font-bold uppercase tracking-widest mb-4" style="color: rgba(255,255,255,0.7);">Vom Anfänger zum Flirt-Profi</p>
+      <h1 class="text-3xl sm:text-5xl font-extrabold text-white mb-6" style="font-family: var(--font-serif); letter-spacing: -0.02em;">
+        Flirten lernen:<br/>Der komplette Guide
+      </h1>
+      <p class="text-lg max-w-2xl mx-auto" style="color: rgba(255,255,255,0.85);">
+        Alles was du brauchst — von der Körpersprache über Gesprächsstarter bis zum erfolgreichen ersten Date.
+      </p>
+
+      <div class="flex flex-wrap justify-center gap-2 mt-10">
+        {sections.map(s => (
+          <a href={`#${s.id}`} class="inline-flex items-center gap-1.5 px-4 py-2 rounded-full text-sm font-medium transition-all hover:-translate-y-0.5" style="background: rgba(255,255,255,0.15); color: white;">
+            <span>{s.emoji}</span> {s.title.split(' ')[0]}
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <div class="max-w-5xl mx-auto px-4 sm:px-6 py-16">
+    {sections.map((section, idx) => {
+      const posts = getPostsByTags(section.tags);
+      return (
+        <section id={section.id} class="mb-16 scroll-mt-24">
+          <div class="flex items-start gap-4 mb-8">
+            <div class="shrink-0 w-12 h-12 rounded-2xl flex items-center justify-center text-2xl" style="background: var(--color-primary-50); border: 1px solid var(--color-primary-100);">
+              {section.emoji}
+            </div>
+            <div>
+              <h2 class="text-2xl font-extrabold mb-2" style="color: var(--text); font-family: var(--font-serif);">{section.title}</h2>
+              <p class="text-sm" style="color: var(--text-muted);">{section.description}</p>
+            </div>
+          </div>
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {posts.slice(0, 6).map(p => (
+              <BlogCard
+                title={p.data.title}
+                description={p.data.description}
+                date={p.data.date}
+                tags={p.data.tags}
+                slug={p.id}
+                readingTime={getReadingTime(p.body || '')}
+                image={p.data.image}
+                imageAlt={p.data.imageAlt}
+              />
+            ))}
+          </div>
+          {idx < sections.length - 1 && <hr class="mt-12" style="border-color: var(--border);" />}
+        </section>
+      );
+    })}
+
+    <AppCTA variant="inline" />
+
+    <!-- Link to city pages -->
+    <section class="mt-16 pt-10" style="border-top: 1px solid var(--border);">
+      <h2 class="text-xl font-bold mb-4" style="color: var(--text); font-family: var(--font-serif);">Flirten & Dating in deiner Stadt</h2>
+      <div class="flex flex-wrap gap-2">
+        {['Berlin', 'München', 'Hamburg', 'Köln', 'Frankfurt', 'Stuttgart', 'Düsseldorf', 'Leipzig', 'Dresden', 'Nürnberg', 'Freiburg', 'Münster'].map(city => (
+          <a href={`/dating-in/${city.toLowerCase().replace('ü', 'ue')}`} class="text-xs font-medium px-3 py-1.5 rounded-full transition-all hover:-translate-y-0.5" style="background: var(--bg-soft); color: var(--text-muted); border: 1px solid var(--border);">
+            Dating in {city}
+          </a>
+        ))}
+      </div>
+    </section>
+  </div>
+</BaseLayout>

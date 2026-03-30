@@ -1,6 +1,7 @@
 ---
 title: "Co-Abhängigkeit erkennen und überwinden"
 description: "Co-Abhängigkeit erkennen: Lerne die Warnsignale zu erkennen und den Weg in eine gesunde Partnerschaft. Mit praktischem Ratgeber!"
+date: 2025-04-09
 tags:
   - "Psychologie"
   - "Beziehung"

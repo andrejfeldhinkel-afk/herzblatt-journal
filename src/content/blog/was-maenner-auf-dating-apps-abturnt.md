@@ -1,6 +1,7 @@
 ---
 title: "Was Männer auf Dating-Apps sofort abturnt"
 description: "Was turnt Männer auf Dating-Apps ab? Die häufigsten Profil-Fehler die Matches verhindern — und wie du es besser machst."
+date: 2025-12-15
 tags:
   - "Online-Dating"
   - "Ratgeber"

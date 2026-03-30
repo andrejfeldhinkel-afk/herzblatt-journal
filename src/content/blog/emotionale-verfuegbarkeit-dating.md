@@ -1,6 +1,7 @@
 ---
 title: "Emotionale Verfügbarkeit beim Dating"
 description: "Emotionale Verfügbarkeit beim Dating: Was sie bedeutet und warum sie wichtiger ist als körperliche Anziehung oder Liebe auf den ersten Blick."
+date: 2025-09-12
 tags:
   - "Dating-Tipps"
   - "Psychologie"

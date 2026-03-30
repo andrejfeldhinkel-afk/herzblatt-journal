@@ -1,15 +1,7 @@
 ---
-title: Beziehung Nach Corona
-description: ''
-date: '2026-03-01'
-updated: '2026-03-01'
-tags: []
-draft: true
----
-
----
 title: "Beziehung nach Corona – Was die Pandemie uns Liebe gelehrt"
 description: "Beziehung nach Corona: Die Pandemie hat Paare auf die Probe gestellt. Was wir aus dieser Erfahrung für die Zukunft lernen."
+date: 2025-02-09
 tags:
   - "Beziehung"
   - "Gesellschaft"
@@ -21,8 +13,10 @@ draft: false
 image: "/images/photos/beziehung-und-achtsamkeit.webp"
 imageAlt: "Beziehung nach Corona"
 faq:
-  - "{'question': 'Was ist das Wichtigste bei beziehung nach corona?', 'answer': 'Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst.'}"
-  - "{'question': 'Wo finde ich Hilfe zum Thema beziehung nach corona?', 'answer': 'Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung.'}"
+  - question: "Was ist das Wichtigste bei beziehung nach corona?"
+    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
+  - question: "Wo finde ich Hilfe zum Thema beziehung nach corona?"
+    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
 ---## beziehung nach Corona
 
 Der Lockdown war vorbei. Die Welt war wieder offen. Aber deine Beziehung... etwas hatte sich geändert. Ihr hattet Monate zusammen in einem Haus verbracht, den anderen auf einer Weise kennengelernt, die vorher nicht existiert hatte. Manche Paare wurden enger. Andere brachen auseinander. Zwei Jahre später sind wir immer noch am Prozess, den Pandemie-Effekt auf unsere Lieben zu verarbeiten.

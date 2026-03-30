@@ -1,6 +1,7 @@
 ---
 title: "Dating nach großer Körperveränderung"
 description: "Dating nach Gewichtsverlust: Wie du wieder mit echtem Selbstvertrauen datierst, wenn sich dein Körper drastisch verändert hat."
+date: 2025-07-13
 tags:
   - "Dating-Tipps"
   - "Selbstliebe"
@@ -14,9 +15,9 @@ image: "/images/photos/dating-nach-gewichtsverlust.webp"
 imageAlt: "Frau mit Selbstvertrauen nach Körperveränderung"
 faq:
   - question: "Sollte ich über meinen Gewichtsverlust in meinem Dating-Profil sprechen?"
-    answer: "Du schuldest keine Erklärung. Wenn jemand ein aktuelles Foto von dir sieht, ist das genug. Es ist nicht notwendig zu sagen"
+    answer: "Du schuldest keine Erklärung. Wenn jemand ein aktuelles Foto von dir sieht, ist das genug. Es ist nicht notwendig zu sagen \"Ich hatte Gewicht verloren.\" Das ist dein Privatleben. Sei authentisch in deinen Fotos und lass das Gespräch organisch entfalten."
   - question: "Was wenn mein Date über meine Körperveränderung kommentiert?"
-    answer: "Wenn jemand in einer Art kommentiert, die sich respektlos anfühlt, ist das ein rotes Flaggen. Ein guter Partner wird dich nicht für deine Körperveränderung beurteilen oder ausmalen. Wenn Sie positiv interessiert sind, könnten sie Fragen wie"
+    answer: "Wenn jemand in einer Art kommentiert, die sich respektlos anfühlt, ist das ein rotes Flaggen. Ein guter Partner wird dich nicht für deine Körperveränderung beurteilen oder ausmalen. Wenn Sie positiv interessiert sind, könnten sie Fragen wie \"Du siehst toll aus\" sagen, nicht \"Wow, du warst wirklich übergewichtig.\" "
   - question: "Wie werde ich wieder sicher mit dater, wenn ich in meinen Körper unsicher bin?"
     answer: "Das Selbstvertrauen kommt nicht vom Körper – es kommt von Inneren. Arbeite an Selbstliebe unabhängig von Gewicht. Erkenne, dass dein Körper stark ist, er hat sich verändert. Das ist eine Leistung. Wenn du sicher mit dir bist, werden andere es sehen."
 ---

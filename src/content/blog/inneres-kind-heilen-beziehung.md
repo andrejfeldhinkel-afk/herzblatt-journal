@@ -1,6 +1,7 @@
 ---
 title: "Inneres Kind heilen: Wie alte Wunden deine Beziehungen"
 description: "Inneres Kind heilen und bessere Beziehungen führen. Verstehe wie Kindheitserfahrungen dein Liebesleben prägen und lerne konkrete Übungen zur Heilung."
+date: 2025-10-31
 tags:
   - "Psychologie"
   - "Heilung"

@@ -1,6 +1,7 @@
 ---
 title: "50 kreative Date-Ideen: So wird euer erstes Treffen von der"
 description: "50 kreative Date-Ideen für das erste Treffen von der Dating-App: Von Budget-Dates bis Abenteuer — für jede Jahreszeit und jeden Geschmack."
+date: 2025-11-15
 tags:
   - "Date-Ideen"
   - "Dating"
@@ -25,7 +26,7 @@ faq:
   - question: "Was sollte man beim ersten Date von einer App vermeiden?"
     answer: "Vermeide Kino (kein Gespräch möglich), aufwändige Dinner (zu viel Druck), Gruppenaktivitäten (kein Zweiergespräch) und alles was sehr laut ist. Das erste Date sollte euch die Chance geben, euch wirklich kennenzulernen."
   - question: "Wie schlage ich ein kreatives Date vor ohne dass es weird wirkt?"
-    answer: "Knüpfe an ein gemeinsames Interesse an:"
+    answer: "Knüpfe an ein gemeinsames Interesse an: 'Du magst japanisches Essen? Ich kenne einen tollen Ramen-Laden!' oder 'Du wanderst gerne? Es gibt einen schönen Rundweg am See.' So wirkt der Vorschlag natürlich und durchdacht."
 ---
 
 Das erste Treffen mit jemandem aus einer Dating-App ist aufregend, nervös machend und voller Möglichkeiten. Doch während viele Menschen automatisch an Kaffee oder ein klassisches Dinner denken, gibt es unzählige kreative Date-Ideen, die euer erstes Treffen unvergesslich machen. Dieser umfassende Leitfaden präsentiert dir 50 großartige Vorschläge für originelle Dates, die garantiert Eindruck hinterlassen und echte Verbindungen ermöglichen.

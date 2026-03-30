@@ -1,6 +1,7 @@
 ---
 title: "Dating-Fotos selber machen: So fotografierst du dich mit dem"
 description: "Dating-Fotos selber machen mit dem Handy: Schritt-für-Schritt Anleitung für Beleuchtung, Posen, Locations und Bearbeitung — ohne Fotograf."
+date: 2025-05-27
 tags:
   - "Online-Dating"
   - "Ratgeber"
@@ -21,7 +22,7 @@ faq:
   - question: "Braucht man einen professionellen Fotografen für Dating-Fotos?"
     answer: "Nein. Mit einem modernen Smartphone, gutem Licht und den richtigen Tipps kannst du Fotos machen, die genauso gut oder sogar authentischer wirken als Profi-Bilder. Natürlichkeit kommt auf Dating-Apps besser an als gestellte Studio-Fotos."
   - question: "Welches Licht ist am besten für Dating-Fotos?"
-    answer: "Natürliches Licht ist unschlagbar. Die beste Zeit ist die"
+    answer: "Natürliches Licht ist unschlagbar. Die beste Zeit ist die 'Golden Hour' — eine Stunde nach Sonnenaufgang oder vor Sonnenuntergang. Alternativ funktioniert ein Platz am Fenster mit indirektem Tageslicht hervorragend."
   - question: "Wie viele Fotos brauche ich für ein Dating-Profil?"
     answer: "Mindestens 4-6 verschiedene Fotos: ein gutes Porträt, ein Ganzkörperbild, ein Hobby-/Aktivitätsfoto, ein Foto mit Freunden oder Haustier, und 1-2 Lifestyle-Bilder die deine Persönlichkeit zeigen."
   - question: "Sind Selfies für Dating-Apps okay?"

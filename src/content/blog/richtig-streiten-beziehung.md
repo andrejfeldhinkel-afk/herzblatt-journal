@@ -1,6 +1,7 @@
 ---
 title: "Richtig streiten in der Beziehung: Konflikte konstruktiv"
 description: "Richtig streiten in der Beziehung: Konflikte sind normal. Lerne konstruktive Techniken, um Streit in echte Nähe und Verständnis zu verwandeln."
+date: 2025-12-15
 tags:
   - "Beziehungen"
   - "Kommunikation"
@@ -18,11 +19,11 @@ faq:
   - question: "Gibt es einen richtigen Zeitpunkt zum Streiten?"
     answer: "Ja. Nicht wenn einer von euch müde, hungrig oder sehr wütend ist. Wählt einen ruhigen Moment, wenn ihr beide klar denken könnt."
   - question: "Wie vermeiden wir schmutzige Kämpfe?"
-    answer: "Keine Beleidigungen, keine Vergangenheit aufwärmen, und nicht"
+    answer: "Keine Beleidigungen, keine Vergangenheit aufwärmen, und nicht 'du machst immer...' sagen. Konzentriere dich auf das aktuelle Problem. Sei respektvoll."
   - question: "Sollten wir am gleichen Tag zu einem Ergebnis kommen?"
     answer: "Nicht unbedingt. Manchmal braucht es Raum. Aber setzt einen Zeitpunkt, um das Gespräch später fortzusetzen. Konflikte nicht einfach ignorieren."
   - question: "Wie kann ich mein Verhalten in einem Streit verbessern?"
-    answer: "Atme tief durch, nimm Verantwortung für deinen Teil, und versuche, deinen Partner zu verstehen."
+    answer: "Atme tief durch, nimm Verantwortung für deinen Teil, und versuche, deinen Partner zu verstehen. 'Ich verstehe, wie du dich fühlst' ist mächtiger als 'Du hast unrecht'."
 ---
 ## Der größte Mythos über Beziehungen: "Wir streiten gar nicht"
 

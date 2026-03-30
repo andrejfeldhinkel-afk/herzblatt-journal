@@ -1,7 +1,7 @@
 ---
 title: "Dating als neurodivergente Person: Ein Guide"
 description: "ADHS, Autismus und Dating — Herausforderungen und besondere Stärken. Dein vollständiger Guide für authentische Partnersuche als neurodivergente Person."
-date: "2025-04-26"
+date: 2025-04-26
 image: "/images/photos/dating-als-neurodivergent.webp"
 tags:
   - "Neurodivergenz"

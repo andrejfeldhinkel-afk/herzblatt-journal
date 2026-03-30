@@ -1,6 +1,7 @@
 ---
 title: "Online-Dating Profil optimieren – Der ultimative Guide 2024"
 description: "Online-Dating Profil optimieren: So gestaltest du Fotos, Bio und Einstellungen für maximale Matches und echte Kompatibilität mit deinem idealen Partner."
+date: 2025-12-15
 tags:
   - "Online-Dating"
   - "Ratgeber"

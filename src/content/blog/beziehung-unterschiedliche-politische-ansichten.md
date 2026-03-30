@@ -1,7 +1,7 @@
 ---
 title: "Liebe trotz politischer Unterschiede"
 description: "Beziehung mit politischen Unterschieden: Wie Paare divergente Ansichten navigieren. Kommunikationsstrategien und wenn es ein echter Dealbreaker ist."
-date: "2025-03-18"
+date: 2025-03-18
 image: "/images/photos/beziehung-unterschiedliche-politische-ansichten.webp"
 tags:
   - "Politik"

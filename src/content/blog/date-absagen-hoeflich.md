@@ -1,7 +1,7 @@
 ---
 title: "Date absagen: Ehrlich und respektvoll absagen"
 description: "Lerne, wie du Dates respektvoll absagst ohne falsche Hoffnungen zu machen. Professionelle Formulierungen und häufige Fehler."
-date: "2025-04-11"
+date: 2025-04-11
 image: "/images/photos/date-absagen-hoeflich.webp"
 tags:
   - "Dating"

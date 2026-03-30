@@ -1,6 +1,7 @@
 ---
 title: "Glücklich Single sein – Warum Alleinsein kein Problem ist"
 description: "Lerne, dich selbst zu lieben und glücklich Single zu sein. Mit praktischen Tipps zur Selbstliebe, Unabhängigkeit und zum Erfüllten Leben ohne Partner."
+date: 2025-12-15
 tags:
   - "Selbstliebe"
   - "Single"

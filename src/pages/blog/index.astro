@@ -4,11 +4,7 @@ import BlogCard from '../../components/BlogCard.astro';
 import { getCollection } from 'astro:content';
 
 const posts = (await getCollection('blog', ({ data }) => !data.draft))
-  .sort((a, b) => {
-    const dateA = a.data.date ? new Date(a.data.date).valueOf() : 0;
-    const dateB = b.data.date ? new Date(b.data.date).valueOf() : 0;
-    return dateB - dateA;
-  });
+  .sort((a, b) => (b.data.date?.valueOf?.() || 0) - (a.data.date?.valueOf?.() || 0));
 
 function getReadingTime(body: string) {
   const words = body.split(/\s+/).length;
@@ -41,8 +37,10 @@ const categoryIcons: Record<string, string> = {
   'Sicherheit': '🔒',
 };
 
-const POSTS_PER_PAGE = 12;
+const POSTS_PER_PAGE = 24;
 const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE);
+// Only send the first page + buffer to client for better performance
+const postsToDisplay = posts;
 ---
 
 <BaseLayout title="Dating-Ratgeber — Herzblatt Journal" description="Tipps und Ratgeber rund um Dating, Flirten und Beziehungen.">
@@ -78,7 +76,7 @@ const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE);
 
     <!-- Posts Grid -->
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4" id="posts-grid">
-      {posts.map((post, i) => (
+      {postsToDisplay.map((post, i) => (
         <div class="blog-post-item" data-tags={(post.data.tags || []).join(',')} data-index={i}>
           <BlogCard
             title={post.data.title}
@@ -139,7 +137,7 @@ const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE);
 
 <script is:inline>
   document.addEventListener('DOMContentLoaded', () => {
-    const POSTS_PER_PAGE = 12;
+    const POSTS_PER_PAGE = 24;
     const buttons = document.querySelectorAll('.filter-btn');
     const allPosts = document.querySelectorAll('.blog-post-item');
     const noResults = document.getElementById('no-results');

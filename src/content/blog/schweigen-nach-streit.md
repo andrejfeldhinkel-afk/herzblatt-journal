@@ -1,6 +1,7 @@
 ---
 title: "Schweigen nach dem Streit: Wie lange ist normal?"
 description: "Schweigen nach Streit in Beziehungen verstehen. Wie lange ist normal, wann wird es problematisch, und wie kommunizierst du wieder?"
+date: 2025-12-15
 image: "/images/photos/schweigen-nach-streit.webp"
 imageAlt: "Stille zwischen einem Paar nach einem Streit"
 tags:
@@ -21,11 +22,11 @@ faq:
   - question: "Wie lange sollte die Stille nach einem Streit dauern?"
     answer: "Typically 15 Minuten bis eine Stunde. Das gibt beide Personen Zeit, emotional runterfahren. Alles länger als 24 Stunden wird problematisch – es wird zu stille Strafe."
   - question: "Was ist der Unterschied zwischen einer 'Pause' und 'Stonewalling'?"
-    answer: "Eine Pause: Du sagst"
+    answer: "Eine Pause: Du sagst 'Ich brauche einen Moment.' Du kommst zurück. Stonewalling: Du wirst zur Mauer, sagst nichts, ignierst die Person. Es gibt keine Zeitrahmen, kein Plan zurück."
   - question: "Was soll ich tun, wenn mein Partner nicht mit mir reden will?"
-    answer: "Gib ihm Raum, aber keine Manipulation. Sag:"
+    answer: "Gib ihm Raum, aber keine Manipulation. Sag: 'Ich brauche, dass wir später reden.' Wenn er weigert sich, tagelang zu reden, ist das ein Problem, das Therapie braucht."
   - question: "Wer sollte das erste Gespräch nach einem Streit anfangen?"
-    answer: "Es muss nicht die"
+    answer: "Es muss nicht die 'verlierende' Person sein. Der erste, der bereit ist, sollte initiieren. Wenn keiner initiiert, ist das ein Problem. Nach 24 Stunden sollte jemand sagen: 'Können wir reden?'"
 ---
 
 Der Streit war heftig. Worte wurden gesagt, die nicht hätten gesagt werden sollen. Jetzt sitzt ihr in der gleichen Wohnung, aber sie könnte eine Tausend Kilometer entfernt sein.

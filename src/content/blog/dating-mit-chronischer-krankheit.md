@@ -1,7 +1,7 @@
 ---
 title: "Dating mit chronischer Krankheit: Ehrlich und mutig"
 description: "Dating mit chronischer Krankheit: Ehrlich und mutig. So sprichst du offen darüber und findest einen Partner, der dich vollständig sieht und akzeptiert."
-date: "2025-06-06"
+date: 2025-06-06
 image: "/images/photos/dating-mit-chronischer-krankheit.webp"
 tags:
   - "Chronische Krankheit"

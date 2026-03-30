@@ -1,7 +1,7 @@
 ---
 title: "Sexuelle Wünsche ansprechen ohne Scham"
 description: "Sexuelle Wünsche kommunizieren: Wie du offene Gespräche über deine Bedürfnisse führst — ohne Scham, ohne Druck und mit gegenseitigem Respekt."
-date: "2025-11-04"
+date: 2025-11-04
 image: "/images/photos/sexuelle-wuensche-kommunizieren.webp"
 tags:
   - "Sexualität"

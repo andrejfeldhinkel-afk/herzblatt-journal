@@ -1,7 +1,7 @@
 ---
 title: "Steht sie auf mich? 12 sichere Signale"
 description: "12 weibliche Flirtsignale und sichere Zeichen, dass sie Interesse hat. Lerne die subtilen und offensichtlichen Zeichen zu erkennen."
-date: "2025-01-23"
+date: 2025-01-23
 image: "/images/photos/anzeichen-sie-steht-auf-dich.webp"
 tags:
   - "Dating"

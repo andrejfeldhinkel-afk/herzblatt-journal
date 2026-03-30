@@ -1,6 +1,7 @@
 ---
 title: "Ghosting überwinden: Warum es passiert und wie du damit"
 description: "Ghosting verstehen und überwinden. Warum Menschen ghosten und wie du dich selbst heilst."
+date: 2025-10-20
 image: "/images/photos/ghosting-ueberwinden.webp"
 tags:
   - "Dating"

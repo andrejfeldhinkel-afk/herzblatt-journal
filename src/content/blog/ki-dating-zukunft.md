@@ -1,7 +1,7 @@
 ---
 title: "KI und Dating: Wie Technologie Liebe verändert"
 description: "Wie Künstliche Intelligenz das Dating prägt: Dating-Apps, Algorithmen, Matching-Systeme und die Zukunft der Liebe in der digitalen Ära."
-date: "2025-09-13"
+date: 2025-09-13
 image: "/images/photos/ki-dating-zukunft.webp"
 tags:
   - "dating"

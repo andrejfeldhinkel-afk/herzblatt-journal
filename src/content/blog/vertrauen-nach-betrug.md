@@ -1,6 +1,7 @@
 ---
 title: "Vertrauen nach einem Betrug aufbauen: Heilung Wiederaufbau"
 description: "Wie Sie Vertrauen nach Untreue wiederaufbauen. Tipps zum Heilen von emotionalen Wunden und zum Aufbauen einer stärkeren Beziehung."
+date: 2025-12-15
 tags:
   - "Beziehungen"
   - "Vertrauen"

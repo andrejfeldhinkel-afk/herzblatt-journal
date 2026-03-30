@@ -1,6 +1,7 @@
 ---
 title: "Sex vs. Liebe machen: Gibt es einen Unterschied?"
 description: "Ist Sex nur Sex oder Liebe machen? Der Unterschied liegt nicht in den Bewegungen, sondern in der Absicht und Präsenz. Erfahre, was den Unterschied wirklich macht."
+date: 2025-12-15
 image: "/images/photos/unterschied-sex-liebe-machen.webp"
 imageAlt: "Romantische Kerzenstimmung für Intimität"
 tags:
@@ -17,9 +18,9 @@ featured: false
 author: "thomas-peters"
 faq:
   - question: "Ist Sex immer oberflächlich?"
-    answer: "Nein, aber es *kann* oberflächlich sein. Sex ist neutral – es kommt auf die Absicht und Präsenz an. Du kannst Sex mit tiefer Präsenz haben, oder ‚Liebe machen"
+    answer: "Nein, aber es *kann* oberflächlich sein. Sex ist neutral – es kommt auf die Absicht und Präsenz an. Du kannst Sex mit tiefer Präsenz haben, oder ‚Liebe machen' mit emotionaler Abwesenheit. Der Unterschied ist die innere Haltung, nicht die Bewegung."
   - question: "Können Single-Personen Liebe machen?"
-    answer: "Ja, mit sich selbst. Aber typischerweise meinen wir mit ‚Liebe machen"
+    answer: "Ja, mit sich selbst. Aber typischerweise meinen wir mit ‚Liebe machen' etwas mit einem anderen Menschen. Mit sich selbst ist es eher bewusstvolle Selbst-Erotik oder Meditation."
   - question: "Ist ‚Liebe machen' gleichbedeutend mit langfristigen Beziehungen?"
     answer: "Nicht unbedingt. Du kannst mit einem neuen Partner leidenschaftlich Liebe machen. Oder nach 20 Jahren noch mechanisch Sex haben. Es geht um Präsenz und emotionale Verfügbarkeit, nicht um Dauer der Beziehung."
   - question: "Kann man während Sex wechseln zwischen Sex haben und Liebe machen?"

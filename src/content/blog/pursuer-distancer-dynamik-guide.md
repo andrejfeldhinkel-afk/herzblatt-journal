@@ -1,6 +1,7 @@
 ---
 title: "Pursuer-Distancer Dynamik — Der Teufelskreis aus Nähe und"
 description: "Verstehe den Pursuer-Distancer-Muster in Beziehungen. Wie dieser Teufelskreis entsteht, warum Bindungsstile ihn antreiben, und wie man ihn bricht."
+date: 2025-12-15
 author: "sarah-kellner"
 draft: false
 tags:

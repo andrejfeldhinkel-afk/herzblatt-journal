@@ -1,6 +1,7 @@
 ---
 title: "Streit wegen Kindererziehung: So findet ihr als Paar"
 description: "Streit wegen Erziehung? Erfahre warum Eltern unterschiedliche Erziehungsstile haben und wie ihr einen gemeinsamen Weg findet — ohne die Beziehung zu gefährden."
+date: 2025-12-15
 tags:
   - "Beziehung"
   - "Kommunikation"

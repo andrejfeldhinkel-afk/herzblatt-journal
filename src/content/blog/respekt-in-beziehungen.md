@@ -1,6 +1,7 @@
 ---
 title: "Respekt in Beziehungen – Warum er wichtiger als Liebe ist"
 description: "Respekt in Beziehungen: Das vergessene Fundament. Warum gegenseitiger Respekt sogar wichtiger als Liebe für echte Partnerschaft ist."
+date: 2025-12-15
 tags:
   - "Beziehung"
   - "Psychologie"

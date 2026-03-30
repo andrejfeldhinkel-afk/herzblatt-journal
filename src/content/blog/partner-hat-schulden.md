@@ -1,6 +1,7 @@
 ---
 title: "Partner hat Schulden: Wie gehst du damit um?"
 description: "Dein Partner hat Schulden? Erfahre wie du damit umgehst, welche Fragen du stellen solltest und wann Schulden ein echtes Beziehungsproblem sind."
+date: 2025-12-15
 tags:
   - "Beziehung"
   - "Ratgeber"
@@ -20,7 +21,7 @@ faq:
   - question: "Wann sind Schulden ein Trennungsgrund?"
     answer: "Wenn dein Partner unehrlich darüber ist, keine Einsicht zeigt, weiter Schulden macht oder dich finanziell mit reinzieht. Einmalige Schulden aus einer Krise sind etwas anderes als chronische Verschuldung."
   - question: "Wie spreche ich das Thema Schulden an?"
-    answer: "Direkt aber einfühlsam. Sage dass du über eure finanzielle Zukunft reden möchtest. Stelle Fragen statt Vorwürfe:"
+    answer: "Direkt aber einfühlsam. Sage dass du über eure finanzielle Zukunft reden möchtest. Stelle Fragen statt Vorwürfe: 'Wie ist die Situation entstanden?' statt 'Warum hast du so viel ausgegeben?'"
   - question: "Kann ich meinen Partner dazu bringen die Schulden zu zahlen?"
     answer: "Nein, das kannst du nicht. Du kannst ihn nur unterstützen und Grenzen setzen. Wenn er kein Interesse hat, seine Schulden zu lösen, dann ist das sein Problem — aber es kann zum Beziehungsproblem werden."
   - question: "Was bedeutet es wenn mein Partner versteckt dass er Schulden hat?"

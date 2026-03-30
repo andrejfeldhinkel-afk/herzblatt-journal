@@ -1,6 +1,7 @@
 ---
 title: "10 Online-Dating Fehler die fast jeder macht"
 description: "Online-Dating Fehler: Lerne die 10 größten Fehler und wie du sie vermeidest. Profil-Tipps bis Messaging-Strategien mit praktischen Lösungen!"
+date: 2025-12-15
 tags:
   - "Online-Dating"
   - "Dating-Tipps"

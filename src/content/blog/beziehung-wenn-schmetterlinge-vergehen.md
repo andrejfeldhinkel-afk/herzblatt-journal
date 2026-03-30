@@ -1,6 +1,7 @@
 ---
 title: "Wenn die Schmetterlinge vergehen: Warum das der wahre Beginn"
 description: "Schmetterlinge vergehen — und das ist gut so. Erfahre warum das Ende der Verliebtheit der Anfang echter Liebe ist und wie du die Tiefe danach findest."
+date: 2025-03-24
 tags:
   - "Beziehung"
   - "Psychologie"
@@ -23,9 +24,9 @@ faq:
   - question: "Bedeutet es dass ich nicht mehr liebe wenn die Schmetterlinge weg sind?"
     answer: "Nein! Verliebtheit und Liebe sind zwei verschiedene Dinge. Verliebtheit ist ein hormoneller Cocktail. Liebe ist eine bewusste Entscheidung. Was nach den Schmetterlingen kommt, kann viel tiefer und erfüllender sein."
   - question: "Kann man die Schmetterlinge zurückbekommen?"
-    answer: "Ja, in Form von"
+    answer: "Ja, in Form von 'Micro-Schmetterlingen'. Gemeinsame neue Erlebnisse, Überraschungen und bewusstes Flirten können den Dopamin-Spiegel wieder anheben. Es wird sich anders anfühlen als am Anfang — aber nicht weniger schön."
   - question: "Soll ich mich trennen wenn ich nichts mehr fühle?"
-    answer: "Nicht vorschnell."
+    answer: "Nicht vorschnell. 'Nichts fühlen' kann viele Ursachen haben: Stress, Depression, Alltagstrott. Bevor du gehst, investiere 3 Monate in bewusste Beziehungsarbeit. Wenn danach wirklich nichts kommt, ist es eine ehrlichere Entscheidung."
 ---
 ## Micro-Schmetterlinge: 15 Wege das Kribbeln zurückzubringen
 

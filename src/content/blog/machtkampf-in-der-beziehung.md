@@ -1,6 +1,7 @@
 ---
 title: "Machtkampf in der Beziehung: Warum ihr gegeneinander statt"
 description: "Machtkampf in der Beziehung? Erfahre warum Paare um Kontrolle ringen, wie du die Dynamik erkennst und wie ihr wieder zu einem Team werdet."
+date: 2025-12-04
 image: "/images/photos/machtkampf-in-der-beziehung.webp"
 tags:
   - "Beziehung"

@@ -1,6 +1,7 @@
 ---
 title: "Future Faking: Wenn dein Partner eine gemeinsame Zukunft"
 description: "Future Faking erkennen und dich schützen: Warum manche Menschen Zukunftsversprechen machen, die sie nie einhalten — und was du dagegen tun kannst."
+date: 2025-10-12
 image: "/images/photos/future-faking-erkennen.webp"
 tags:
   - "Red Flags"

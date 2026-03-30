@@ -1,6 +1,7 @@
 ---
 title: "Das erste Telefonat vor dem Date: So machst du es richtig"
 description: "Erstes Telefonat vor dem Date meistern: Tipps für den perfekten Anruf, Gesprächsthemen, Timing und wie du Nervosität überwindest."
+date: 2025-09-25
 tags:
   - "Dating"
   - "Online-Dating"
@@ -21,7 +22,7 @@ faq:
   - question: "Sollte man vor dem ersten Date telefonieren?"
     answer: "Ja, ein kurzes Telefonat von 15-20 Minuten ist eine hervorragende Idee. Du bekommst ein Gefühl für die Stimme und den Humor der Person und kannst besser einschätzen ob ein Date sich lohnt."
   - question: "Wie schlage ich ein Telefonat vor ohne komisch zu wirken?"
-    answer: "Locker und direkt:"
+    answer: "Locker und direkt: 'Hey, ich telefoniere lieber als endlos zu tippen. Hast du Lust auf ein kurzes Telefonat diese Woche?' Die meisten finden das charmant und erfrischend."
   - question: "Wie lange sollte das erste Telefonat dauern?"
     answer: "15-30 Minuten sind ideal für ein erstes Telefonat. Lang genug um ein Gefühl füreinander zu bekommen, kurz genug um die Spannung für das echte Date zu halten."
   - question: "Was wenn das Telefonat peinlich still wird?"

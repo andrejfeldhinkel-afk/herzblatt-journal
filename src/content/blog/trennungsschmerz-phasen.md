@@ -1,7 +1,7 @@
 ---
 title: "Trennungsschmerz: Die 5 Phasen der Heilung verstehen"
 description: "Verstehe die 5 Phasen der Trennungsverarbeitung (Verleugnung, Wut, Verhandlung, Depression, Akzeptanz). Tipps für jede Phase, Rückfälle & Wachstum nach Trennung."
-date: "2025-11-23"
+date: 2025-11-23
 image: "/images/photos/trennungsschmerz-phasen.webp"
 tags:
   - "Trennung"

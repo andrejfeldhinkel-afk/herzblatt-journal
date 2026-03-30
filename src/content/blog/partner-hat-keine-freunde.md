@@ -1,6 +1,7 @@
 ---
 title: "Wenn dein Partner keine eigenen Freunde hat"
 description: "Dein Partner hat keine Freunde und du bist sein einziger Sozialkontakt? Erfahre warum das problematisch sein kann und wie ihr es löst."
+date: 2025-12-15
 tags:
   - "Beziehung"
   - "Psychologie"

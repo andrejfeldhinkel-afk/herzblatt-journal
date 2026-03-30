@@ -1,7 +1,7 @@
 ---
 title: "Liebe oder Gewohnheit? So findest du es heraus"
 description: "Liebst du noch oder ist es nur Gewohnheit? 15 ehrliche Fragen helfen dir, Klarheit zu gewinnen und die richtige Entscheidung zu treffen."
-date: "2025-09-28"
+date: 2025-09-28
 image: "/images/photos/liebe-oder-gewohnheit-test.webp"
 tags:
   - "Beziehung"

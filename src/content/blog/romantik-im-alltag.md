@@ -1,6 +1,7 @@
 ---
 title: "Romantik im Alltag: 15 kleine Gesten, die eure Liebe"
 description: "Große Gesten sind schön, aber die kleinen machen den Unterschied. 15 alltagstaugliche Ideen, um die Romantik in deiner Beziehung zu bewahren."
+date: 2025-12-15
 tags:
   - "Beziehungen"
   - "Kommunikation"
@@ -15,7 +16,7 @@ image: "/images/photos/romantik-im-alltag.webp"
 imageAlt: "Glückliches Paar im Alltag"
 faq:
   - question: "Sind kleine romantische Gesten wirklich wichtig?"
-    answer: "Ja, absolut. Sie zeigen Gedanken und Aufmerksamkeit. Ein kurzes"
+    answer: "Ja, absolut. Sie zeigen Gedanken und Aufmerksamkeit. Ein kurzes 'Ich denke an dich' ist oft wichtiger als ein teures Geschenk."
   - question: "Wie finde ich Zeit für Romantik im stressigen Alltag?"
     answer: "Es braucht keine Zeit. Romantik kann sein: eine Umarmung am Morgen, ein Lied singen, zusammen kochen, oder nachts Hand halten. Kleine Momente zählen."
   - question: "Was tun, wenn mein Partner nicht romantisch ist?"

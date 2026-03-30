@@ -1,6 +1,7 @@
 ---
 title: "Warum Trennungsschmerz nachts schlimmer ist"
 description: "Trennungsschmerz nachts intensiver: Biologische Gründe, emotionale Faktoren und praktische Tipps für besseren Schlaf"
+date: 2025-12-15
 image: "/images/photos/trennungsschmerz-nachts-schlimmer.webp"
 imageAlt: "Schlaflose Nacht mit Trennungsschmerz"
 tags:

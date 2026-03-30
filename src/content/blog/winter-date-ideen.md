@@ -1,6 +1,7 @@
 ---
 title: "20 romantische Winter-Date-Ideen"
 description: "Winter-Date-Ideen: Weihnachtsmärkte, Schlittschuhlaufen, gemütliche Abende. Entdecke 20 romantische Dates in der Winterzeit!"
+date: 2025-12-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

@@ -1,6 +1,7 @@
 ---
 title: "Gaslighting in der Beziehung: So erkennst du emotionale"
 description: "Gaslighting ist eine der subtilsten Formen emotionaler Manipulation. Erfahre, wie du die Warnsignale erkennst und dich schützt."
+date: 2025-10-14
 tags:
   - "Psychologie"
   - "Red-Flags"

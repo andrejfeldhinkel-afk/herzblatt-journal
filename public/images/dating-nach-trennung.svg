@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500">
+  <defs>
+    <linearGradient id="bg14" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFA500"/>
+      <stop offset="100%" style="stop-color:#FFB347"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="500" fill="url(#bg14)"/>
+  <circle cx="200" cy="80" r="135" fill="white" opacity="0.08"/>
+  <circle cx="1000" cy="420" r="200" fill="white" opacity="0.06"/>
+  <circle cx="600" cy="250" r="82" fill="white" opacity="0.1"/>
+  
+  <!-- Horizon line -->
+  <line x1="300" y1="280" x2="900" y2="280" stroke="white" stroke-width="4" opacity="0.3"/>
+  
+  <!-- Sun rising -->
+  <circle cx="600" cy="300" r="70" fill="white" opacity="0.8"/>
+  <circle cx="600" cy="300" r="65" fill="#FFA500" opacity="0.6"/>
+  
+  <!-- Sun rays -->
+  <line x1="600" y1="150" x2="600" y2="100" stroke="white" stroke-width="4" opacity="0.6"/>
+  <line x1="720" y1="180" x2="750" y2="150" stroke="white" stroke-width="4" opacity="0.6"/>
+  <line x1="760" y1="260" x2="800" y2="260" stroke="white" stroke-width="4" opacity="0.6"/>
+  <line x1="480" y1="180" x2="450" y2="150" stroke="white" stroke-width="4" opacity="0.6"/>
+  <line x1="440" y1="260" x2="400" y2="260" stroke="white" stroke-width="4" opacity="0.6"/>
+  
+  <!-- Mountains/landscape -->
+  <polygon points="300,280 450,180 550,200 600,120 700,200 800,150 900,280" fill="white" opacity="0.15"/>
+  
+  <!-- Bird flying -->
+  <path d="M 400 200 Q 410 195 420 200" fill="none" stroke="white" stroke-width="2" opacity="0.5"/>
+  <path d="M 385 200 L 395 195 L 395 205 Z" fill="white" opacity="0.5"/>
+  
+  <!-- Decorative shapes -->
+  <rect x="250" y="140" width="60" height="60" rx="10" fill="white" opacity="0.1"/>
+  <circle cx="900" cy="100" r="40" fill="white" opacity="0.12"/>
+  
+  <!-- Pattern dots -->
+  <circle cx="100" cy="450" r="3" fill="white" opacity="0.2"/>
+  <circle cx="300" cy="50" r="2" fill="white" opacity="0.15"/>
+  <circle cx="900" cy="100" r="4" fill="white" opacity="0.15"/>
+  <circle cx="1100" cy="350" r="3" fill="white" opacity="0.2"/>
+</svg>

@@ -154,8 +154,8 @@
       <!-- Terms -->
       <p class="text-[9px] text-center leading-relaxed" style="color: var(--text-muted); opacity: 0.6;">
         Mit der Registrierung bestätigst du unsere
-        <a href="https://xloves.com/agb" target="_blank" class="underline hover:opacity-80">AGB</a>,
-        <a href="https://xloves.com/flirthinweise" target="_blank" class="underline hover:opacity-80">Flirthinweise</a> &amp;
+        <a href="https://www.dating-tracker.com/cmp/CLQ868/78NZBG/?source_id=herzblatt&sub1=xloves/agb" target="_blank" class="underline hover:opacity-80">AGB</a>,
+        <a href="https://www.dating-tracker.com/cmp/CLQ868/78NZBG/?source_id=herzblatt&sub1=xloves/flirthinweise" target="_blank" class="underline hover:opacity-80">Flirthinweise</a> &amp;
         <a href="/datenschutz" class="underline hover:opacity-80">Datenschutz</a>
       </p>
     </form>
@@ -241,7 +241,7 @@ document.getElementById('register-form')?.addEventListener('submit', async funct
       msg.style.color = 'var(--color-primary-700)';
       msg.textContent = 'Erfolgreich registriert! Weiterleitung...';
       setTimeout(() => {
-        window.open('https://xloves.com/dashboard', '_blank');
+        window.open('https://www.dating-tracker.com/cmp/CLQ868/78NZBG/?source_id=herzblatt&sub1=xloves/dashboard', '_blank');
       }, 1500);
     } else {
       const errorMsg = data?.message || data?.errors ? Object.values(data.errors).flat().join(', ') : 'Registrierung fehlgeschlagen.';

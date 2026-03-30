@@ -1,6 +1,7 @@
 ---
 title: "Unmatched werden: Warum es passiert und wie du damit umgehst"
 description: "Unmatched werden auf Dating-Apps tut weh. Erfahre die 12 häufigsten Gründe, wie du damit umgehst und warum es mehr über die andere Person aussagt als über dich."
+date: 2025-12-15
 tags:
   - "Online-Dating"
   - "Psychologie"

@@ -1,7 +1,7 @@
 ---
 title: "Schwierige Gespräche in der Beziehung führen"
 description: "Schwierige Gespräche in der Beziehung: Geld, Sex, Zukunft, Ex-Partner — so meisterst du die wichtigsten und schwierigsten Gesprächsthemen."
-date: "2025-10-30"
+date: 2025-10-30
 image: "/images/photos/schwierige-gespraeche-beziehung.webp"
 tags:
   - "Kommunikation"

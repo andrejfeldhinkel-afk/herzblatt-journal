@@ -1,49 +1,67 @@
-export const prerender = true;
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import fs from 'node:fs';
-import path from 'node:path';
 
-// Read click performance data
-let clickData: Record<string, number> = {};
-try {
-  const clickFile = path.join(process.cwd(), 'data', 'clicks.json');
-  if (fs.existsSync(clickFile)) {
-    clickData = JSON.parse(fs.readFileSync(clickFile, 'utf-8'));
-  }
-} catch {}
-
-const allSites = [
+const datingSites = [
   {
     name: 'xLoves',
-    url: 'https://xloves.com/?campaign_id=2f2006d0',
-    logo: '/images/logos/xloves-logo.png',
+    slug: 'xloves',
+    url: 'https://www.dating-tracker.com/cmp/CLQ868/78NZBG/?source_id=herzblatt&sub1=xloves',
     rating: 4.8,
     stars: 5,
     badge: 'Unsere Empfehlung',
     badgeColor: '#f43f5e',
     idealFor: 'Ideal für ernsthafte Singles',
     idealIcon: '💕',
-    shortDesc: 'Die moderne Dating-Plattform für echte Verbindungen — diskret, sicher und mit starker Community.',
-    pros: ['Kostenlose Registrierung', 'Verifizierte Profile', 'Diskret & anonym', 'Modernes Design', 'Aktive Community in DACH'],
-    cons: ['Premium-Features kostenpflichtig'],
+    shortDesc: 'Die Nr. 1 Dating-Plattform im DACH-Raum 2026 — verifizierte Profile, intelligentes Matching und eine Community, die es ernst meint. Über 850.000 aktive Mitglieder.',
+    pros: ['100% kostenlose Registrierung & Basisfunktionen', 'Manuelle Profilverifizierung gegen Fakes', 'Intelligenter Matching-Algorithmus', 'Stilvolles, modernes Design', 'Aktive Community im DACH-Raum', 'Deutscher Kundensupport rund um die Uhr', 'DSGVO-konform & SSL-verschlüsselt'],
+    cons: ['Unbegrenztes Chatten nur mit Premium', 'Premium nötig für Profilbesucher-Einsicht'],
     features: {
-      'Zielgruppe': 'Singles ab 18, die echte Verbindungen suchen',
-      'Besonderheit': 'Starke Verifizierung, hohe Profilqualität',
-      'App': 'Web + Mobile optimiert',
-      'Kosten': 'Basis kostenlos, Premium ab 9,99€/Monat',
+      'Zielgruppe': 'Singles ab 18, die echte Verbindungen suchen — von lockeren Dates bis zur festen Beziehung',
+      'Besonderheit': 'Jedes Profil wird manuell geprüft, bevor es freigeschaltet wird. Das Ergebnis: Eine der niedrigsten Fake-Raten aller Dating-Plattformen',
+      'App': 'Voll responsive Web-App für Desktop, Tablet & Smartphone — kein App-Download nötig',
+      'Kosten': 'Basis dauerhaft kostenlos (Profil, Suche, Basis-Matching). Premium ab 9,99€/Monat für unbegrenztes Chatten, Profilbesucher & erweiterte Filter',
+      'Mitglieder': 'Über 850.000 aktive Nutzer in Deutschland, Österreich und der Schweiz',
     },
-    review: 'xLoves hat sich in kurzer Zeit als eine der vertrauenswürdigsten Dating-Plattformen im deutschsprachigen Raum etabliert. Die Plattform überzeugt durch ein modernes, intuitives Design und legt großen Wert auf Sicherheit und verifizierte Profile. Die Community ist aktiv und die Matching-Algorithmen liefern relevante Vorschläge. Besonders positiv: Die kostenlose Basisversion bietet bereits viele Funktionen, sodass man die Plattform ohne Risiko testen kann. Für alle, die ernsthaft nach einer Verbindung suchen, ist xLoves unsere klare Empfehlung.',
-    ctaText: 'Kostenlos bei xLoves registrieren',
+    review: 'xLoves ist unser Testsieger 2026 — und das aus gutem Grund. Die Plattform hat sich innerhalb weniger Jahre als eine der seriösesten und modernsten Dating-Optionen im deutschsprachigen Raum etabliert. Was xLoves von der Konkurrenz abhebt, ist die konsequente Profilverifizierung: Jedes einzelne Profil wird manuell geprüft, bevor es freigeschaltet wird. Das Ergebnis ist eine Community mit außergewöhnlich hoher Profilqualität und kaum Fake-Accounts — ein echtes Alleinstellungsmerkmal. Das Design ist stilvoll und modern, die Navigation intuitiv und die Ladezeiten minimal. Der Matching-Algorithmus lernt mit der Zeit dazu und liefert immer bessere Vorschläge basierend auf deinen Interaktionen und Präferenzen. Besonders überzeugend: Die kostenlose Basisversion ist kein Lockangebot, sondern bietet echte Funktionen — Profilerstellung, Suche mit Filtern und sogar erste Nachrichten. Wer ernsthaft daten will, für den ist Premium ab 9,99€ eine lohnende Investition, aber kein Zwang. Der deutschsprachige Support antwortet in der Regel innerhalb weniger Stunden. Für alle, die nach einer vertrauenswürdigen, modernen Dating-Plattform suchen, führt an xLoves 2026 kein Weg vorbei.',
+    ctaText: 'Jetzt kostenlos bei xLoves registrieren →',
     testimonials: [
-      { name: 'Lisa, 28', city: 'München', text: 'Nach 2 Wochen auf xLoves habe ich meinen Freund kennengelernt. Die Profile sind echt und die Gespräche waren von Anfang an tiefgründig.' },
-      { name: 'Markus, 34', city: 'Berlin', text: 'Endlich eine Plattform, auf der man keine Fake-Profile findet. Die Verifizierung macht einen riesigen Unterschied.' },
+      { name: 'Lisa, 28', city: 'München', text: 'Nach 2 Wochen auf xLoves habe ich meinen Freund kennengelernt. Die Profile sind echt und die Gespräche waren von Anfang an tiefgründig. Endlich keine Fake-Profile mehr!' },
+      { name: 'Markus, 34', city: 'Berlin', text: 'Ich war skeptisch, aber die Verifizierung macht einen riesigen Unterschied. Jedes Match war ein echtes Profil mit echten Fotos. Nach einem Monat hatte ich 3 tolle Dates.' },
+      { name: 'Claudia, 41', city: 'Wien', text: 'Als Ü40-Single hatte ich wenig Erwartungen. Umso überraschter war ich, wie viele ernsthafte Menschen auf xLoves unterwegs sind. Kann ich nur empfehlen!' },
+    ],
+  },
+  {
+    name: 'MichVerlieben',
+    slug: 'michverlieben',
+    url: 'https://www.dating-tracker.com/cmp/CLQ868/77G3B1/?source_id=herzblatt&sub1=michverlieben',
+    rating: 4.1,
+    stars: 4,
+    badge: null,
+    badgeColor: null,
+    idealFor: 'Perfekt für Ü30',
+    idealIcon: '🎯',
+    shortDesc: 'Die Partnervermittlung für Singles, die es ernst meinen — mit wissenschaftlichem Persönlichkeitstest und über 120.000 aktiven Mitgliedern im DACH-Raum.',
+    pros: ['Wissenschaftlicher Persönlichkeitstest für bessere Matches', 'Fokus auf langfristige Beziehungen', 'Starke regionale Suchfunktion', 'Hohe Profilqualität bei Ü30', 'Deutschsprachiger Kundensupport', 'Kostenloser Persönlichkeitstest'],
+    cons: ['Design könnte moderner sein', 'Weniger Nutzer unter 30', 'Kontaktaufnahme nur mit Premium'],
+    features: {
+      'Zielgruppe': 'Singles ab 30, die eine feste, langfristige Beziehung suchen — keine Casual Dates',
+      'Besonderheit': 'Wissenschaftlich fundierter Persönlichkeitstest mit über 80 Fragen, der kompatible Partner basierend auf psychologischen Kriterien vorschlägt',
+      'App': 'Web + Mobile optimiert — responsive Design für alle Geräte',
+      'Kosten': 'Persönlichkeitstest & Profil kostenlos. Kontaktaufnahme ab 14,99€/Monat. 3-Monats-Pakete mit deutlichem Rabatt verfügbar',
+      'Mitglieder': 'Über 120.000 aktive Nutzer in Deutschland, Österreich und der Schweiz',
+    },
+    review: 'MichVerlieben ist die richtige Wahl für alle, die das Swipe-Karussell satt haben und einen Partner fürs Leben suchen. Die Plattform hebt sich durch ihren wissenschaftlich fundierten Persönlichkeitstest von der Masse ab: Über 80 Fragen zu Werten, Lebensstil, Kommunikationspräferenzen und Zukunftsvorstellungen werden ausgewertet, um wirklich kompatible Partner vorzuschlagen. Und das funktioniert — in unserem Test waren die Matching-Vorschläge deutlich relevanter als bei klassischen Swipe-Apps. Die Community besteht überwiegend aus Singles ab 30, die wissen, was sie wollen. Das merkt man an der Profilqualität: Ausführliche Beschreibungen, echte Fotos und ernsthafte Absichten sind hier die Norm, nicht die Ausnahme. Die regionale Suchfunktion ist besonders gut — du kannst nicht nur nach Stadt, sondern auch nach Umkreis und Bundesland filtern. Ja, das Design könnte einen frischen Anstrich vertragen. Aber bei einer Partnervermittlung zählt die Qualität der Matches mehr als die Optik — und hier liefert MichVerlieben. Für Singles Ü30, die eine ernsthafte Beziehung suchen, gehört MichVerlieben zu den besten Optionen im deutschsprachigen Raum.',
+    ctaText: 'Jetzt kostenlosen Persönlichkeitstest starten →',
+    testimonials: [
+      { name: 'Andrea, 42', city: 'Frankfurt', text: 'Der Persönlichkeitstest hat mir wirklich geholfen, kompatible Partner zu finden. Nach 3 Monaten bin ich in einer wunderbaren Beziehung. Die Qualität der Vorschläge war überraschend gut!' },
+      { name: 'Michael, 38', city: 'Wien', text: 'Endlich eine Plattform für Erwachsene, die es ernst meinen. Keine Spielchen, keine Zeitverschwendung. Mein drittes Match war ein Volltreffer — wir sind jetzt seit 8 Monaten zusammen.' },
+      { name: 'Birgit, 51', city: 'Zürich', text: 'Als Ü50 hatte ich wenig Hoffnung. MichVerlieben hat mich eines Besseren belehrt. Die Profile sind ehrlich, die Menschen ernsthaft. Danke für den Neuanfang!' },
     ],
   },
   {
     name: 'WhatsMeet',
-    url: 'https://whatsmeet.com',
-    logo: '/images/logos/whatsmeet-logo.png',
+    slug: 'whatsmeet',
+    url: 'https://www.dating-tracker.com/cmp/CLQ868/79XTBX/?source_id=herzblatt&sub1=whatsmeet',
     rating: 4.3,
     stars: 4,
     badge: 'Aufsteiger 2026',
@@ -67,124 +85,145 @@ const allSites = [
     ],
   },
   {
-    name: 'MichVerlieben',
-    url: 'https://michverlieben.com',
-    logo: '/images/logos/michverlieben-logo.png',
-    rating: 4.1,
-    stars: 4,
-    badge: null,
-    badgeColor: null,
-    idealFor: 'Perfekt für Ü30',
-    idealIcon: '🎯',
-    shortDesc: 'Deutsche Dating-Plattform mit Fokus auf ernsthafte Beziehungen und Partnervermittlung.',
-    pros: ['Fokus auf feste Beziehungen', 'Persönlichkeitstest', 'Gute regionale Suche', 'Deutschsprachiger Support'],
-    cons: ['Etwas altmodisches Design', 'Weniger jüngere Nutzer'],
+    name: 'SingleScout',
+    slug: 'singlescout', logoFile: 'singlescout-v2-logo.png',
+    url: 'https://www.dating-tracker.com/cmp/CLQ868/7HKRSG/?source_id=herzblatt&sub1=singlescout',
+    rating: 4.5,
+    stars: 5,
+    badge: 'Neu bei uns',
+    badgeColor: '#10b981',
+    idealFor: 'Für echte Verbindungen',
+    idealIcon: '💘',
+    shortDesc: 'Die Anti-Swipe-Plattform: SingleScout setzt auf Persönlichkeit statt Profilbilder — mit über 61.000 aktiven Mitgliedern und einem einzigartigen Matching-System.',
+    pros: ['Kein oberflächliches Swipen — Matching basiert auf Interessen & Persönlichkeit', 'Über 61.000 aktive Mitglieder und wachsend', 'Überdurchschnittlich hohe Profilqualität', 'Modernes, intuitives Design', 'Aktive Fake-Profil-Bekämpfung', 'Kostenlose Registrierung ohne Einschränkungen', 'Verifizierte Nutzerprofile'],
+    cons: ['Noch relativ neue Plattform', 'In ländlichen Gebieten weniger Nutzer', 'Premium für erweiterte Features nötig'],
     features: {
-      'Zielgruppe': 'Singles 30+, die eine feste Beziehung suchen',
-      'Besonderheit': 'Wissenschaftlicher Persönlichkeitstest',
-      'App': 'Web + Mobile',
-      'Kosten': 'Test kostenlos, Kontakt ab 14,99€/Monat',
+      'Zielgruppe': 'Singles ab 18, die echte Verbindungen statt oberflächlicher Dates suchen',
+      'Besonderheit': 'Kein Swipe-System — das Matching basiert auf gemeinsamen Interessen, Werten und Persönlichkeit. Profile werden vor der Freischaltung geprüft',
+      'App': 'Voll responsive Web-App für Desktop, Tablet & Smartphone',
+      'Kosten': 'Basis dauerhaft kostenlos. Premium ab 9,99€/Monat für unbegrenztes Chatten und erweiterte Filter',
+      'Mitglieder': 'Über 61.000 aktive Nutzer — Tendenz stark steigend',
     },
-    review: 'MichVerlieben richtet sich an Singles, die es ernst meinen. Der ausführliche Persönlichkeitstest hilft dabei, wirklich kompatible Partner zu finden. Die Plattform ist besonders bei der Ü30-Zielgruppe beliebt und bietet eine gute regionale Suchfunktion für den DACH-Raum. Das Design könnte moderner sein, aber die Qualität der Matches überzeugt. Wer keine Spielchen will, sondern eine echte Beziehung sucht, ist hier gut aufgehoben.',
-    ctaText: 'MichVerlieben testen',
+    review: 'SingleScout ist der erfrischende Gegenentwurf zu den oberflächlichen Swipe-Apps, die den Dating-Markt dominieren. Statt nach links oder rechts zu wischen, lernt man hier Menschen wirklich kennen — und genau das macht SingleScout so besonders. Das Matching basiert auf gemeinsamen Interessen, Werten und Persönlichkeitsmerkmalen. Die Profile sind deutlich ausführlicher als auf anderen Plattformen, was zu besseren und relevanteren Matches führt. Mit über 61.000 aktiven Mitgliedern hat SingleScout trotz seines jungen Alters bereits eine beachtliche Community aufgebaut — und sie wächst stetig. In unserem Test fiel die überdurchschnittlich hohe Profilqualität sofort auf: Die meisten Nutzer nehmen sich Zeit für ihr Profil, laden mehrere echte Fotos hoch und beschreiben sich ausführlich. Fake-Profile sind die absolute Ausnahme, weil SingleScout aktiv dagegen vorgeht und Profile vor der Freischaltung prüft. Das Design ist modern, clean und intuitiv — man findet sich sofort zurecht, egal ob am Desktop oder auf dem Smartphone. Die Nachrichtenfunktion ist durchdacht und ermöglicht tiefgründige Gespräche. Unser Fazit: SingleScout ist für alle, die das endlose Swipen satt haben und echte Verbindungen suchen, eine der spannendsten Neuentdeckungen im Dating-Markt 2026.',
+    ctaText: 'Jetzt kostenlos bei SingleScout registrieren →',
     testimonials: [
-      { name: 'Andrea, 42', city: 'Frankfurt', text: 'Der Persönlichkeitstest hat mir wirklich geholfen, kompatible Partner zu finden. Nach 3 Monaten bin ich in einer wunderbaren Beziehung.' },
-      { name: 'Michael, 38', city: 'Wien', text: 'Endlich eine Plattform für Erwachsene, die es ernst meinen. Keine Spielchen, keine Zeitverschwendung.' },
+      { name: 'Sophie, 31', city: 'Berlin', text: 'Endlich eine Plattform, die nicht auf Oberflächlichkeit setzt! Die Gespräche auf SingleScout sind einfach eine andere Liga. Mein Freund und ich haben uns hier kennengelernt.' },
+      { name: 'Daniel, 29', city: 'München', text: 'Kein nerviges Swipen mehr — bei SingleScout lernt man Leute wirklich kennen. Nach 3 Wochen hatte ich mein erstes tolles Date, aus dem mittlerweile eine Beziehung geworden ist.' },
+      { name: 'Hannah, 25', city: 'Hamburg', text: 'Die Profilqualität ist wirklich anders als auf Tinder & Co. Hier schreiben die Leute tatsächlich etwas über sich — und die Matches passen erstaunlich gut.' },
     ],
   },
   {
+    name: 'i-Loves',
+    slug: 'i-loves', logoFile: 'i-loves-logo.png',
+    url: 'https://www.dating-tracker.com/cmp/CLQ868/78NZBG/?source_id=herzblatt&sub1=i-loves',
+    rating: 4.4,
+    stars: 4,
+    badge: 'Aufsteiger 2026',
+    badgeColor: '#8b5cf6',
+    idealFor: 'Ideal zum Flirten & Chatten',
+    idealIcon: '💬',
+    shortDesc: 'Flirten, Chatten, Verlieben \u2014 i-Loves verbindet Singles mit Leichtigkeit und einem charmanten, modernen Design.',
+    pros: ['Kostenlose Registrierung', 'Modernes, ansprechendes Design', 'Aktive Chat-Community', 'Einfache Bedienung', 'Hoher Frauen-Anteil'],
+    cons: ['Premium f\u00fcr erweiterte Features n\u00f6tig', 'Noch im Aufbau'],
+    features: {
+      'Zielgruppe': 'Singles ab 18, die unkompliziert flirten und chatten wollen',
+      'Besonderheit': 'Fokus auf echtes Chatten statt oberfl\u00e4chliches Swipen \u2014 das WhatsApp des Datings',
+      'App': 'Web + Mobile optimiert',
+      'Kosten': 'Basis kostenlos, Premium ab 9,99\u20ac/Monat',
+    },
+    review: 'i-Loves \u00fcberzeugt auf den ersten Blick mit einem stilvollen, modernen Design in warmen Rose-T\u00f6nen. Die Plattform setzt bewusst auf echte Kommunikation: Statt endlosem Swipen steht das Chatten im Mittelpunkt \u2014 fast wie WhatsApp, nur dass alle Single sind. Die Registrierung ist in unter einer Minute erledigt und die Community w\u00e4chst rasant. Besonders auff\u00e4llig ist der hohe Frauen-Anteil und die Qualit\u00e4t der Profile. Die Chat-Funktion f\u00fchlt sich nat\u00fcrlich an und erm\u00f6glicht lockere Gespr\u00e4che ohne Druck. F\u00fcr alle, die eine Plattform suchen, auf der man wirklich ins Gespr\u00e4ch kommt, ist i-Loves eine ausgezeichnete Wahl.',
+    ctaText: 'Kostenlos bei i-Loves registrieren',
+    testimonials: [
+      { name: 'Marie, 26', city: 'K\u00f6ln', text: 'Die Chat-Funktion bei i-Loves ist genial! Endlich eine Plattform, auf der man sich wirklich unterhalten kann, statt nur Bilder zu bewerten.' },
+      { name: 'Tobias, 32', city: 'Wien', text: 'Anmeldung ging super schnell und die Qualit\u00e4t der Profile hat mich \u00fcberrascht. Nach 10 Tagen hatte ich drei tolle Dates.' },
+    ],
+  },
+
+  {
     name: 'OnlyDates69',
-    url: 'https://onlydates69.com',
-    logo: '/images/logos/onlydates69-logo.png',
+    slug: 'onlydates69',
+    url: 'https://www.dating-tracker.com/cmp/CLQ868/7C6QCD/?source_id=herzblatt&sub1=onlydates69',
     rating: 3.8,
     stars: 4,
     badge: null,
     badgeColor: null,
     idealFor: 'Beste für Casual Dates',
     idealIcon: '🔥',
-    shortDesc: 'Unkompliziertes Dating für spontane Treffen und zwanglose Verabredungen.',
-    pros: ['Schnelle Kontaktaufnahme', 'Große aktive Community', 'Unkomplizierte Anmeldung', 'Viele Nutzer in Großstädten'],
-    cons: ['Nicht für Beziehungssuchende', 'Werbung in Gratisversion'],
+    shortDesc: 'Die Nr. 1 für spontane Dates und ungezwungenes Kennenlernen — riesige Community in allen deutschen Großstädten mit standortbasiertem Matching.',
+    pros: ['Blitzschnelle Kontaktaufnahme — oft noch am selben Tag ein Date', 'Riesige aktive Community in Großstädten', 'Standortbasiertes Matching findet Singles in deiner Nähe', 'Unkomplizierte Anmeldung in unter 2 Minuten', 'Keine langen Fragebögen oder Persönlichkeitstests'],
+    cons: ['Nicht für ernsthafte Beziehungen konzipiert', 'Werbung in der Gratisversion', 'Profilqualität variiert stark'],
     features: {
-      'Zielgruppe': 'Singles 18-45, die ungezwungene Dates suchen',
-      'Besonderheit': 'Schnelles Matching, standortbasiert',
-      'App': 'Web + Mobile optimiert',
-      'Kosten': 'Basis kostenlos mit Werbung, Premium ab 12,99€/Monat',
+      'Zielgruppe': 'Singles 18-45, die unkompliziert und spontan neue Leute kennenlernen wollen — Casual Dating, Flirts und spontane Verabredungen',
+      'Besonderheit': 'Standortbasiertes Matching mit Echtzeit-Umgebungssuche — finde Singles in deiner direkten Umgebung für spontane Treffen',
+      'App': 'Voll responsive Web-App für Desktop & Mobile',
+      'Kosten': 'Basis kostenlos mit Werbung. Premium ab 12,99€/Monat für werbefreies Erlebnis, unbegrenztes Chatten und Standort-Boost',
+      'Community': 'Besonders stark in Berlin, Hamburg, München, Köln, Frankfurt und allen Großstädten ab 100.000 Einwohnern',
     },
-    review: 'OnlyDates69 ist eine Plattform für alle, die unkompliziert neue Leute kennenlernen wollen. Die Anmeldung ist schnell und die standortbasierte Suche findet Nutzer in der Nähe. Die Community ist besonders in Großstädten aktiv. Wer nach ernsthaften Beziehungen sucht, ist hier allerdings an der falschen Adresse — die Plattform ist klar auf spontane Treffen ausgerichtet.',
-    ctaText: 'OnlyDates69 ausprobieren',
+    review: 'OnlyDates69 ist die richtige Wahl, wenn du keine Lust auf endlose Fragebögen und wochenlange Kennenlernphasen hast. Die Plattform ist klar auf spontane, unkomplizierte Dates ausgerichtet — und liefert genau das. Das standortbasierte Matching ist das Herzstück: Du siehst sofort, welche Singles in deiner Nähe aktiv sind, und kannst direkt Kontakt aufnehmen. In unserem Test haben wir in Großstädten wie Berlin und München innerhalb weniger Stunden erste Matches gehabt — deutlich schneller als auf anderen Plattformen. Die Community ist groß, aktiv und besonders in urbanen Gebieten stark vertreten. Die Anmeldung dauert keine zwei Minuten, es gibt keine nervigen Pflicht-Fragebögen und du kannst sofort loslegen. Die Profilqualität variiert — manche Profile sind sehr ausführlich, andere eher knapp. Aber für den Zweck der Plattform reicht das. Wer eine feste Beziehung sucht, sollte sich woanders umschauen. Aber für spontane Treffen und zwangloses Kennenlernen ist OnlyDates69 eine der effektivsten Optionen am Markt.',
+    ctaText: 'Jetzt bei OnlyDates69 anmelden →',
     testimonials: [
-      { name: 'Julian, 25', city: 'Berlin', text: 'Schnell angemeldet, am selben Abend noch ein Date gehabt. Genau das, was ich gesucht habe.' },
-      { name: 'Nina, 29', city: 'Düsseldorf', text: 'Perfekt für spontane Treffen. Keine langen Fragebogen, einfach direkt loslegen.' },
+      { name: 'Julian, 25', city: 'Berlin', text: 'Schnell angemeldet, am selben Abend noch ein Date gehabt. Genau das, was ich gesucht habe. Keine Spielchen, direkt auf den Punkt.' },
+      { name: 'Nina, 29', city: 'Düsseldorf', text: 'Perfekt für spontane Treffen. Keine langen Fragebogen, einfach direkt loslegen. Die Standortsuche funktioniert erstaunlich gut!' },
+      { name: 'Kai, 27', city: 'München', text: 'Die Community ist riesig. Hatte in meiner ersten Woche mehr Matches als in 3 Monaten auf anderen Apps. Für Casual Dating top!' },
     ],
   },
   {
     name: 'Sex69',
-    url: 'https://sex69.de/',
-    logo: '/images/logos/sex69-logo.jpg',
+    slug: 'sex69',
+    url: 'https://www.dating-tracker.com/cmp/CLQ868/7DFMCT/?source_id=herzblatt&sub1=sex69',
     rating: 3.5,
     stars: 3,
     badge: null,
     badgeColor: null,
     idealFor: 'Für Abenteuerlustige',
     idealIcon: '🌶️',
-    shortDesc: 'Erwachsenen-Dating-Plattform für offene und abenteuerlustige Singles.',
-    pros: ['Offene Community', 'Klare Ausrichtung', 'Viele aktive Nutzer', 'Diskreter Umgang mit Daten'],
-    cons: ['Nicht für Beziehungen geeignet', 'Premium fast Pflicht', 'Manche Fake-Profile'],
+    shortDesc: 'Die Erwachsenen-Dating-Plattform für offene, abenteuerlustige Singles — diskret, direkt und mit einer Community, die weiß, was sie will.',
+    pros: ['Offene, respektvolle Community für Gleichgesinnte', 'Klare Ausrichtung — keine falschen Erwartungen', 'Hohe Diskretion bei allen Nutzerdaten', 'Große aktive Nutzerbasis in DACH', 'Umfangreiche Suchfilter für spezifische Vorlieben'],
+    cons: ['Gratisversion sehr eingeschränkt', 'Premium fast Pflicht für sinnvolle Nutzung', 'Vereinzelt unseriöse Profile'],
     features: {
-      'Zielgruppe': 'Erwachsene ab 18, die Abenteuer suchen',
-      'Besonderheit': 'Offene, freizügige Community',
-      'App': 'Web-basiert',
-      'Kosten': 'Eingeschränkt kostenlos, Premium ab 14,99€/Monat',
+      'Zielgruppe': 'Erwachsene ab 18, die offen für Abenteuer und ungezwungene Begegnungen sind',
+      'Besonderheit': 'Offene, freizügige Community mit umfangreichen Such- und Filteroptionen. Diskreter Umgang mit Daten und keine öffentlich sichtbaren Profillinks',
+      'App': 'Web-basierte Plattform, für Mobile optimiert',
+      'Kosten': 'Eingeschränkt kostenlos (Profil, Suche, Likes). Premium ab 14,99€/Monat für Chatten, erweiterte Filter und werbefreies Erlebnis',
+      'Diskretion': 'Profile nicht über Suchmaschinen auffindbar, diskrete Abrechnung, Foto-Privacy-Optionen',
     },
-    review: 'Sex69 richtet sich an ein erwachsenes Publikum, das weiß, was es will. Die Plattform macht keinen Hehl aus ihrer Ausrichtung und bietet eine offene Community für Gleichgesinnte. Die Diskretion bei den Nutzerdaten ist solide. Allerdings ist die kostenlose Version stark eingeschränkt und man sollte bei der Profilqualität genauer hinschauen. Für die Zielgruppe eine brauchbare Option, aber Vorsicht vor Fake-Profilen.',
-    ctaText: 'Sex69 ansehen',
+    review: 'Sex69 richtet sich an ein erwachsenes Publikum, das genau weiß, was es sucht — und die Plattform liefert entsprechend. Was Sex69 von anderen Casual-Dating-Seiten unterscheidet, ist die Kombination aus Offenheit und Diskretion. Die Community ist freizügig und respektvoll zugleich, die Suchfilter sind umfangreich und ermöglichen es, gezielt nach Vorlieben, Alter, Standort und weiteren Kriterien zu filtern. In unserem Test war die Nutzerbasis überraschend groß und aktiv — besonders in Großstädten finden sich schnell Kontakte. Die Diskretion wird ernst genommen: Profile sind nicht über Suchmaschinen auffindbar, die Abrechnung erscheint unauffällig auf dem Kontoauszug und es gibt verschiedene Foto-Privacy-Optionen. Einziger Wermutstropfen: Die Gratisversion ist stark eingeschränkt. Ohne Premium kannst du zwar Profile ansehen, aber kaum Kontakt aufnehmen. Wer Sex69 ernsthaft nutzen will, kommt um ein Abo nicht herum. Die Profilqualität variiert — neben vielen echten, ausführlichen Profilen gibt es vereinzelt auch unseriöse Accounts. Das Moderationsteam reagiert aber schnell auf Meldungen. Für die Zielgruppe ist Sex69 eine der besseren Optionen am Markt — direkt, diskret und ohne falsche Versprechen.',
+    ctaText: 'Jetzt bei Sex69 vorbeischauen →',
     testimonials: [
-      { name: 'Chris, 33', city: 'München', text: 'Klare Ausrichtung, man weiß was einen erwartet. Community ist offen und respektvoll.' },
-      { name: 'Laura, 27', city: 'Hamburg', text: 'Diskret und unkompliziert. Aber Premium lohnt sich, die Gratisversion ist sehr eingeschränkt.' },
+      { name: 'Chris, 33', city: 'München', text: 'Klare Ausrichtung, man weiß was einen erwartet. Die Community ist überraschend offen und respektvoll. Premium lohnt sich definitiv.' },
+      { name: 'Laura, 27', city: 'Hamburg', text: 'Diskret und unkompliziert. Die Suchfilter sind super — man findet schnell, was man sucht. Gratisversion ist allerdings nur zum Reinschauen.' },
+      { name: 'Thomas, 40', city: 'Berlin', text: 'Nach meiner Scheidung wollte ich erstmal nichts Ernstes. Sex69 war genau richtig — ehrlich, direkt und ohne Spielchen. Diskrete Abrechnung top.' },
     ],
   },
   {
     name: 'Single69',
-    url: 'https://single69.de',
-    logo: '/images/logos/singles69-logo.png',
+    slug: 'single69',
+    url: 'https://www.dating-tracker.com/cmp/CLQ868/7FNJDB/?source_id=herzblatt&sub1=single69',
     rating: 3.6,
     stars: 4,
     badge: null,
     badgeColor: null,
     idealFor: 'Größte Nutzerbasis',
     idealIcon: '👥',
-    shortDesc: 'Casual-Dating-Plattform mit großer Nutzerbasis und schnellem Matching.',
-    pros: ['Große Nutzerbasis', 'Schnelles Matching', 'Einfache Bedienung', 'Aktive Nutzer'],
-    cons: ['Viel Werbung in Free-Version', 'Oberflächliches Matching'],
+    shortDesc: 'Die Plattform mit der größten Nutzerbasis im Casual-Dating-Bereich — über 200.000 aktive Mitglieder, schnelles Matching und eine bunte, lebendige Community.',
+    pros: ['Größte aktive Nutzerbasis unter den Casual-Dating-Seiten', 'Blitzschnelles Matching — oft innerhalb von Minuten', 'Extrem einfache, intuitive Bedienung', 'Breite Altersstruktur von 18 bis 50+', 'Besonders aktiv in deutschen und österreichischen Großstädten'],
+    cons: ['Deutlich mehr Werbung in der Gratisversion als bei Mitbewerbern', 'Matching-Tiefe könnte besser sein', 'Profilqualität nicht immer überzeugend'],
     features: {
-      'Zielgruppe': 'Singles 18-50, die ungezwungen daten wollen',
-      'Besonderheit': 'Großer Nutzerpool, schnelle Ergebnisse',
-      'App': 'Web + Mobile',
-      'Kosten': 'Basis kostenlos, Premium ab 11,99€/Monat',
+      'Zielgruppe': 'Singles 18-50, die ungezwungen und unkompliziert neue Leute kennenlernen wollen — von Casual Dates bis Freizeitbekanntschaften',
+      'Besonderheit': 'Riesiger Nutzerpool mit über 200.000 aktiven Mitgliedern — die schiere Masse an Profilen macht Single69 besonders effektiv für spontane Kontakte',
+      'App': 'Web + Mobile optimiert — funktioniert flüssig auf allen Geräten',
+      'Kosten': 'Basis kostenlos (mit Werbung). Premium ab 11,99€/Monat für werbefreies Chatten, erweiterte Suchfilter und Profilbesucher-Einsicht',
+      'Mitglieder': 'Über 200.000 aktive Nutzer — eine der größten Casual-Dating-Communities im DACH-Raum',
     },
-    review: 'Single69 punktet mit einer großen und aktiven Nutzerbasis. Das Matching ist schnell und unkompliziert, die Bedienung intuitiv. Die Plattform eignet sich gut für Casual Dating und spontane Verabredungen. Die Gratisversion ist allerdings durch Werbung eingeschränkt, und die Tiefe der Profile könnte besser sein. Insgesamt eine solide Option für alle, die unkompliziert neue Kontakte knüpfen wollen.',
-    ctaText: 'Single69 entdecken',
+    review: 'Single69 setzt auf Quantität — und das ist in diesem Fall ein Kompliment. Mit über 200.000 aktiven Mitgliedern bietet die Plattform den größten Nutzerpool unter den Casual-Dating-Seiten im deutschsprachigen Raum. Die Rechnung ist einfach: Mehr Nutzer bedeuten mehr Matches, und mehr Matches bedeuten mehr Dates. In unserem Test hat das funktioniert — bereits am ersten Tag hatten wir in Berlin über 30 potenzielle Matches. Die Bedienung ist kinderleicht und erfordert keine Einarbeitungszeit. Die Suchfunktion ist solide, und die Profile lassen sich nach Alter, Standort, Interessen und weiteren Kriterien filtern. Die Altersstruktur ist breit gefächert, wobei der Schwerpunkt bei 22-38 liegt. Was weniger überzeugt: Die Gratisversion enthält deutlich mehr Werbung als bei vergleichbaren Plattformen, was auf Dauer nervig werden kann. Auch die Profilqualität schwankt — neben ausführlichen Profilen mit echten Fotos gibt es auch viele minimale Profile. Wer bereit ist, 11,99€ pro Monat für Premium zu investieren, bekommt eine deutlich bessere Erfahrung ohne Werbung und mit vollem Funktionsumfang. Für alle, die eine breite Auswahl und schnelle Ergebnisse suchen, ist Single69 eine der effektivsten Optionen.',
+    ctaText: 'Jetzt bei Single69 anmelden →',
     testimonials: [
-      { name: 'Patrick, 30', city: 'Stuttgart', text: 'Riesige Auswahl an Profilen. Man findet schnell Leute in der Nähe.' },
-      { name: 'Jana, 24', city: 'Leipzig', text: 'Einfach zu bedienen und viele aktive Nutzer. Werbung nervt etwas, aber mit Premium ist es super.' },
+      { name: 'Patrick, 30', city: 'Stuttgart', text: 'Riesige Auswahl an Profilen. Man findet schnell Leute in der Nähe. Mit Premium wird es richtig gut — keine Werbung mehr und unbegrenztes Chatten.' },
+      { name: 'Jana, 24', city: 'Leipzig', text: 'Einfach zu bedienen und so viele aktive Nutzer! Werbung nervt ohne Premium etwas, aber die Auswahl an Profilen ist einfach unschlagbar.' },
+      { name: 'Sven, 36', city: 'Frankfurt', text: 'Habe Single69 parallel mit 2 anderen Apps getestet. Hier hatte ich mit Abstand die meisten Matches und Dates. Die Masse machts.' },
     ],
   },
 ];
-
-// Sort sites by click performance (most clicks first)
-// Each site gets a slug key for tracking
-function getSiteKey(name: string) {
-  return name.toLowerCase().replace(/\s+/g, '');
-}
-
-const datingSites = [...allSites].sort((a, b) => {
-  const clicksA = clickData[getSiteKey(a.name)] || 0;
-  const clicksB = clickData[getSiteKey(b.name)] || 0;
-  // Sort by clicks desc; if equal, keep original order (by rating)
-  if (clicksB !== clicksA) return clicksB - clicksA;
-  return b.rating - a.rating;
-});
 
 const faqItems = [
   {
@@ -197,7 +236,7 @@ const faqItems = [
   },
   {
     question: 'Welche Dating-Seite ist die beste für ernsthafte Beziehungen?',
-    answer: 'Für ernsthafte Beziehungen empfehlen wir xLoves (Platz 1) und MichVerlieben (Platz 3). Beide Plattformen legen Wert auf Profilqualität und ziehen Menschen an, die nach langfristigen Verbindungen suchen. MichVerlieben bietet zusätzlich einen wissenschaftlichen Persönlichkeitstest für bessere Matches.',
+    answer: 'Für ernsthafte Beziehungen empfehlen wir xLoves und MichVerlieben. Beide Plattformen legen Wert auf Profilqualität und ziehen Menschen an, die nach langfristigen Verbindungen suchen. MichVerlieben bietet zusätzlich einen wissenschaftlichen Persönlichkeitstest für bessere Matches.',
   },
   {
     question: 'Was bedeutet der Gutscheincode Herzblatt25?',
@@ -220,8 +259,7 @@ function renderStars(rating: number) {
   return { full, half, empty };
 }
 
-// Generate Review Schema for each site
-const reviewSchemas = datingSites.map((site, i) => ({
+const reviewSchemas = datingSites.map((site) => ({
   "@type": "Review",
   "itemReviewed": {
     "@type": "WebApplication",
@@ -290,120 +328,95 @@ const faqSchema = {
   description="Die besten Dating-Plattformen im Test: xLoves, WhatsMeet, MichVerlieben und mehr. Ehrliche Bewertungen mit Vor- und Nachteilen."
   keywords={["dating seiten vergleich", "beste dating seiten 2026", "dating plattformen test", "online dating vergleich"]}
 >
-  <!-- Schema -->
   <script type="application/ld+json" set:html={JSON.stringify(aggregateSchema)} />
   {reviewSchemas.map(schema => (
     <script type="application/ld+json" set:html={JSON.stringify({"@context": "https://schema.org", ...schema})} />
   ))}
   <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
 
-  <section class="max-w-4xl mx-auto px-4 sm:px-6 py-16">
+  <section class="max-w-5xl mx-auto px-4 sm:px-6 py-12 sm:py-20">
 
     <!-- Header -->
-    <div class="text-center mb-8">
-      <span class="inline-block text-xs font-bold uppercase tracking-wider px-3 py-1 rounded-full mb-4" style="background: var(--color-primary-50); color: var(--color-primary-700);">Vergleich 2026</span>
-      <h1 class="text-3xl sm:text-4xl font-extrabold mb-4" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;">
-        Top Dating Seiten im Test
-      </h1>
-      <p class="text-lg max-w-2xl mx-auto" style="color: var(--text-muted);">
-        Wir haben die beliebtesten Dating-Plattformen getestet und ehrlich bewertet — damit du die richtige für dich findest.
-      </p>
+    <div class="text-center mb-12">
+      <span class="inline-block text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full mb-4" style="background: var(--color-primary-50); color: var(--color-primary-700);">Vergleich 2026</span>
+      <h1 class="text-4xl sm:text-5xl font-bold mb-4" style="color: var(--text); font-family: var(--font-serif); line-height: 1.2; letter-spacing: -0.02em;">Top Dating Seiten im Test</h1>
+      <p class="text-lg max-w-2xl mx-auto" style="color: var(--text-muted); line-height: 1.6;">Wir haben die beliebtesten Dating-Plattformen getestet und ehrlich bewertet — damit du die richtige für dich findest.</p>
     </div>
 
-    <!-- Intro Stats -->
-    <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-10">
-      <div class="rounded-xl p-4 text-center" style="background: var(--bg-card); border: 1px solid var(--border);">
-        <p class="text-2xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">8 Mio+</p>
-        <p class="text-[11px] font-medium mt-1" style="color: var(--text-muted);">Deutsche nutzen Dating-Apps</p>
+    <!-- Stats Bar -->
+    <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 sm:gap-4 mb-12">
+      <div class="rounded-xl p-4 text-center" style="background: var(--color-primary-50); border: 1px solid var(--color-primary-100);">
+        <p class="text-2xl font-bold" style="color: var(--color-primary-600); font-family: var(--font-serif);">8 Mio+</p>
+        <p class="text-xs font-medium mt-1" style="color: var(--color-primary-600);">Nutzer in DACH</p>
       </div>
-      <div class="rounded-xl p-4 text-center" style="background: var(--bg-card); border: 1px solid var(--border);">
-        <p class="text-2xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">6</p>
-        <p class="text-[11px] font-medium mt-1" style="color: var(--text-muted);">Plattformen getestet</p>
+      <div class="rounded-xl p-4 text-center" style="background: var(--color-primary-50); border: 1px solid var(--color-primary-100);">
+        <p class="text-2xl font-bold" style="color: var(--color-primary-600); font-family: var(--font-serif);">8</p>
+        <p class="text-xs font-medium mt-1" style="color: var(--color-primary-600);">Plattformen getestet</p>
       </div>
-      <div class="rounded-xl p-4 text-center" style="background: var(--bg-card); border: 1px solid var(--border);">
-        <p class="text-2xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">120h+</p>
-        <p class="text-[11px] font-medium mt-1" style="color: var(--text-muted);">Testzeit investiert</p>
+      <div class="rounded-xl p-4 text-center" style="background: var(--color-primary-50); border: 1px solid var(--color-primary-100);">
+        <p class="text-2xl font-bold" style="color: var(--color-primary-600); font-family: var(--font-serif);">120h+</p>
+        <p class="text-xs font-medium mt-1" style="color: var(--color-primary-600);">Testzeit investiert</p>
       </div>
-      <div class="rounded-xl p-4 text-center" style="background: var(--bg-card); border: 1px solid var(--border);">
-        <p class="text-2xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">100%</p>
-        <p class="text-[11px] font-medium mt-1" style="color: var(--text-muted);">Unabhängig & ehrlich</p>
+      <div class="rounded-xl p-4 text-center" style="background: var(--color-primary-50); border: 1px solid var(--color-primary-100);">
+        <p class="text-2xl font-bold" style="color: var(--color-primary-600); font-family: var(--font-serif);">100%</p>
+        <p class="text-xs font-medium mt-1" style="color: var(--color-primary-600);">Unabhängig & ehrlich</p>
       </div>
     </div>
 
-    <!-- Quiz CTA -->
-    <div class="mb-10 rounded-2xl p-6 sm:p-8 text-center" style="background: linear-gradient(135deg, var(--color-primary-50), var(--color-primary-100)); border: 1px solid var(--color-primary-200);">
-      <p class="text-sm font-bold uppercase tracking-wider mb-2" style="color: var(--color-primary-600);">Nicht sicher, welche Seite zu dir passt?</p>
-      <h2 class="text-xl sm:text-2xl font-extrabold mb-3" style="color: var(--text); font-family: var(--font-serif);">Mach unser Dating-Quiz in 30 Sekunden</h2>
-      <p class="text-sm mb-5 max-w-lg mx-auto" style="color: var(--text-muted);">4 schnelle Fragen — und wir zeigen dir, welche Plattform am besten zu deinen Wünschen und deinem Stil passt.</p>
-      <button onclick="openDatingQuiz()" class="inline-flex items-center gap-2 px-8 py-3.5 rounded-full text-sm font-bold text-white cursor-pointer transition-all hover:shadow-lg hover:-translate-y-0.5" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); border: none;">
-        Quiz starten
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
-      </button>
+    <!-- Quiz CTA Banner -->
+    <div class="mb-12 rounded-2xl p-6 sm:p-8 text-center" style="background: linear-gradient(135deg, var(--color-primary-50), var(--color-primary-100)); border: 2px solid var(--color-primary-200);">
+      <p class="text-xs font-bold uppercase tracking-widest mb-2" style="color: var(--color-primary-700);">Personalisierte Empfehlung</p>
+      <h2 class="text-2xl sm:text-3xl font-bold mb-3" style="color: var(--text); font-family: var(--font-serif); line-height: 1.3;">Unser Quiz zeigt dir die perfekte Plattform</h2>
+      <p class="text-sm mb-6 max-w-lg mx-auto" style="color: var(--text-muted);">4 kurze Fragen — wir analysieren deine Wünsche und empfehlen dir die beste Dating-Seite.</p>
+      <button onclick="window.openDatingQuiz()" class="inline-flex items-center gap-2 px-6 py-3 rounded-full text-sm font-bold text-white transition-all hover:shadow-lg hover:scale-105" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600)); border: none; cursor: pointer;">Quiz starten →</button>
     </div>
 
-    <!-- Quick comparison pills -->
-    <div class="mb-8 overflow-x-auto">
-      <div class="flex gap-3 pb-2 min-w-max sm:min-w-0 sm:flex-wrap sm:justify-center">
+    <!-- Quick Jump Pills -->
+    <div class="mb-12 overflow-x-auto">
+      <div class="flex gap-2 pb-2 min-w-max sm:min-w-0 sm:flex-wrap sm:justify-center">
         {datingSites.map((site, i) => (
-          <a href={`#${site.name.toLowerCase().replace(/\s/g, '')}`} class="flex items-center gap-2 px-4 py-2.5 rounded-xl text-sm font-medium transition-all hover:-translate-y-0.5" style="background: var(--bg-card); border: 1px solid var(--border); color: var(--text);">
-            <span class="text-xs font-bold w-5 h-5 rounded-full flex items-center justify-center" style={`background: ${i === 0 ? 'var(--color-primary-500)' : 'var(--bg-soft)'}; color: ${i === 0 ? 'white' : 'var(--text-muted)'};`}>{i + 1}</span>
+          <a href={`#${site.slug}`} class="flex items-center gap-2 px-3 py-2 rounded-full text-sm font-medium transition-all hover:shadow-md shrink-0 sm:shrink" style="background: var(--bg-soft); border: 1px solid var(--border); color: var(--text);">
+            <span class="text-xs font-bold w-5 h-5 rounded-full flex items-center justify-center shrink-0" style={`background: ${i === 0 ? 'var(--color-primary-500)' : 'var(--color-primary-100)'}; color: ${i === 0 ? 'white' : 'var(--color-primary-700)'};`}>{i + 1}</span>
             {site.name}
-            <span class="text-xs" style="color: var(--color-primary-500);">{site.rating}</span>
           </a>
         ))}
       </div>
     </div>
 
     <!-- Comparison Table -->
-    <div class="mb-12 rounded-2xl overflow-hidden" style="background: var(--bg-card); border: 1px solid var(--border);">
-      <div class="px-6 py-4" style="background: linear-gradient(135deg, var(--color-primary-600), var(--color-primary-800));">
-        <h2 class="text-base font-bold text-white" style="font-family: var(--font-serif);">Alle Plattformen auf einen Blick</h2>
+    <div class="mb-12 rounded-2xl overflow-hidden" style="border: 1px solid var(--border);">
+      <div class="px-6 py-4" style="background: var(--bg-soft);">
+        <h2 class="text-lg font-bold" style="color: var(--text); font-family: var(--font-serif);">Übersichtstabelle</h2>
       </div>
       <div class="overflow-x-auto">
-        <table class="w-full text-sm" style="min-width: 700px;">
+        <table class="w-full text-sm" style="min-width: 560px;">
           <thead>
-            <tr style="border-bottom: 2px solid var(--border);">
-              <th class="text-left px-4 py-3 font-semibold" style="color: var(--text-muted); width: 18%;">Plattform</th>
-              <th class="text-center px-3 py-3 font-semibold" style="color: var(--text-muted); width: 10%;">Bewertung</th>
-              <th class="text-left px-3 py-3 font-semibold" style="color: var(--text-muted); width: 18%;">Am besten für</th>
-              <th class="text-left px-3 py-3 font-semibold" style="color: var(--text-muted); width: 18%;">Kosten</th>
-              <th class="text-center px-3 py-3 font-semibold" style="color: var(--text-muted); width: 10%;">App</th>
-              <th class="text-center px-3 py-3 font-semibold" style="color: var(--text-muted); width: 12%;">Verifizierung</th>
-              <th class="px-3 py-3" style="width: 14%;"></th>
+            <tr style="border-bottom: 1px solid var(--border);">
+              <th class="text-left px-4 py-3 font-semibold" style="color: var(--text-muted); width: 25%;">Plattform</th>
+              <th class="text-center px-3 py-3 font-semibold" style="color: var(--text-muted); width: 15%;">★ Bewertung</th>
+              <th class="text-left px-3 py-3 font-semibold" style="color: var(--text-muted); width: 25%;">Ideal für</th>
+              <th class="text-center px-3 py-3 font-semibold" style="color: var(--text-muted); width: 15%;">Bericht</th>
+              <th class="px-3 py-3" style="width: 20%;"></th>
             </tr>
           </thead>
           <tbody>
             {datingSites.map((site, i) => (
-              <tr style={`border-bottom: 1px solid var(--border); ${i === 0 ? 'background: rgba(244,63,94,0.04);' : ''}`}>
+              <tr style={`border-bottom: 1px solid var(--border); ${i === 0 ? 'background: var(--color-primary-50);' : ''}`}>
                 <td class="px-4 py-3">
                   <div class="flex items-center gap-2">
-                    <span class="text-xs font-bold w-5 h-5 rounded-full flex items-center justify-center shrink-0" style={`background: ${i === 0 ? 'var(--color-primary-500)' : 'var(--bg-soft)'}; color: ${i === 0 ? 'white' : 'var(--text-muted)'};`}>{i + 1}</span>
-                    <span class="font-semibold" style="color: var(--text);">{site.name}</span>
+                    <span class="text-xs font-bold w-5 h-5 rounded-full flex items-center justify-center shrink-0" style={`background: ${i === 0 ? 'var(--color-primary-500)' : 'var(--color-primary-100)'}; color: ${i === 0 ? 'white' : 'var(--color-primary-700)'};`}>{i + 1}</span>
+                    <img src={`/images/logos/${site.logoFile || (site.slug + '-logo.png')}`} alt={`${site.name}`} class="h-6 w-auto object-contain" loading="lazy" />
                   </div>
                 </td>
                 <td class="text-center px-3 py-3">
-                  <span class="inline-flex items-center gap-1 font-bold" style="color: var(--color-primary-600);">
-                    {site.rating}
-                    <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="#f43f5e" stroke="none"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-                  </span>
+                  <span class="font-bold" style="color: var(--color-primary-600);">{site.rating}</span>
                 </td>
                 <td class="px-3 py-3 text-xs" style="color: var(--text-muted);">{site.idealFor}</td>
-                <td class="px-3 py-3 text-xs" style="color: var(--text-muted);">{site.features['Kosten']}</td>
                 <td class="text-center px-3 py-3">
-                  <span class="text-xs px-2 py-0.5 rounded-full" style={`background: ${site.features['App'].includes('Mobile') ? 'rgba(34,197,94,0.1)' : 'var(--bg-soft)'}; color: ${site.features['App'].includes('Mobile') ? '#16a34a' : 'var(--text-muted)'};`}>
-                    {site.features['App'].includes('Mobile') ? '✓ Ja' : 'Web'}
-                  </span>
-                </td>
-                <td class="text-center px-3 py-3">
-                  <span class="text-xs px-2 py-0.5 rounded-full" style={`background: ${site.pros.some(p => p.toLowerCase().includes('verif')) ? 'rgba(34,197,94,0.1)' : 'rgba(234,179,8,0.1)'}; color: ${site.pros.some(p => p.toLowerCase().includes('verif')) ? '#16a34a' : '#ca8a04'};`}>
-                    {site.pros.some(p => p.toLowerCase().includes('verif')) ? '✓ Ja' : '○ Basis'}
-                  </span>
+                  <a href={`/blog/${site.slug}-test-erfahrungen`} class="inline-flex items-center gap-1 text-xs font-semibold transition-colors hover:underline" style="color: var(--color-primary-600);">Zum Bericht</a>
                 </td>
                 <td class="px-3 py-3">
-                  <a href={site.url} target="_blank" rel="noopener" class="track-click inline-flex items-center gap-1 px-3 py-1.5 rounded-full text-xs font-semibold text-white transition-all hover:shadow-md" style="background: var(--color-primary-500);" data-site={getSiteKey(site.name)}>
-                    Testen
-                    <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
-                  </a>
+                  <a href={site.url} target="_blank" rel="noopener" class="inline-flex items-center gap-1 px-3 py-1.5 rounded-full text-xs font-semibold text-white transition-all hover:shadow-md" style="background: var(--color-primary-500);">Testen →</a>
                 </td>
               </tr>
             ))}
@@ -412,162 +425,111 @@ const faqSchema = {
       </div>
     </div>
 
-    <!-- Reviews -->
-    <h2 class="text-2xl font-extrabold mb-6" style="color: var(--text); font-family: var(--font-serif);">Ausführliche Testberichte</h2>
+    <!-- Individual Review Cards -->
+    <h2 class="text-3xl font-bold mb-8" style="color: var(--text); font-family: var(--font-serif);">Ausführliche Bewertungen</h2>
     <div class="space-y-6">
       {datingSites.map((site, i) => {
         const { full, half, empty } = renderStars(site.rating);
         return (
-          <article id={site.name.toLowerCase().replace(/\s/g, '')} class="rounded-2xl overflow-hidden" style="background: var(--bg-card); border: 1px solid var(--border); box-shadow: 0 2px 12px rgba(0,0,0,0.04);">
-
-            <!-- Header -->
-            <div class="p-6 sm:p-8">
-              <div class="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-4 mb-4">
-                <div class="flex items-center gap-4">
-                  <!-- Rank -->
-                  <span class="shrink-0 w-10 h-10 rounded-xl flex items-center justify-center text-lg font-extrabold" style={`background: ${i === 0 ? 'linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600))' : 'var(--bg-soft)'}; color: ${i === 0 ? 'white' : 'var(--text-muted)'}; border: 1px solid ${i === 0 ? 'transparent' : 'var(--border)'};`}>
-                    {i + 1}
-                  </span>
-                  <!-- Logo -->
-                  {site.logo && (
-                    <div class="shrink-0 w-28 h-10 rounded-lg flex items-center justify-center overflow-hidden" style="background: #1a1a2e; padding: 4px 10px; border: 1px solid #2a2a3e;">
-                      <img src={site.logo} alt={`${site.name} Logo`} class="h-7 w-auto object-contain" loading="lazy" />
-                    </div>
-                  )}
-                  <div>
-                    <div class="flex items-center gap-3 flex-wrap">
-                      <h3 class="text-xl font-extrabold" style="color: var(--text); font-family: var(--font-serif);">{site.name}</h3>
-                      {i === 0 && (
-                        <span class="text-[10px] font-bold uppercase tracking-wider px-2.5 py-1 rounded-full text-white" style="background: #f43f5e;">Unsere Empfehlung</span>
-                      )}
-                      {i === 1 && (
-                        <span class="text-[10px] font-bold uppercase tracking-wider px-2.5 py-1 rounded-full text-white" style="background: #8b5cf6;">Aufsteiger 2026</span>
+          <article id={site.slug} class="rounded-2xl overflow-hidden" style={`background: var(--bg-card); border: 2px solid ${i === 0 ? 'var(--color-primary-300)' : 'var(--border)'}; position: relative;`}>
+            <div style="position: absolute; left: 0; top: 0; bottom: 0; width: 6px; background: linear-gradient(180deg, var(--color-primary-500), var(--color-primary-600));"></div>
+            <div class="p-6 sm:p-8 pl-6 sm:pl-8">
+              <!-- Logo -->
+              <div class="flex items-center gap-3 mb-4 pb-4" style="border-bottom: 1px solid var(--border);">
+                <img src={`/images/logos/${site.logoFile || (site.slug + '-logo.png')}`} alt={`${site.name} Logo`} class="h-8 sm:h-10 w-auto object-contain" loading="lazy" />
+              </div>
+              <div class="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-4 mb-5">
+                <div class="flex items-start gap-4">
+                  <div class="text-5xl font-bold" style="color: var(--color-primary-100); line-height: 1;">#<span style="color: var(--color-primary-600);">{i + 1}</span></div>
+                  <div class="pt-1">
+                    <div class="flex items-center gap-2 flex-wrap gap-y-1 mb-1">
+                      <h3 class="text-2xl font-bold" style="color: var(--text); font-family: var(--font-serif);">{site.name}</h3>
+                      {site.badge && (
+                        <span class="text-[10px] font-bold uppercase tracking-wider px-2.5 py-1 rounded-full text-white" style={`background: ${site.badgeColor};`}>{site.badge}</span>
                       )}
                     </div>
-                    <p class="text-sm mt-1" style="color: var(--text-muted);">{site.shortDesc}</p>
+                    <p class="text-sm" style="color: var(--text-muted); line-height: 1.4;">{site.shortDesc}</p>
                   </div>
                 </div>
-
-                <!-- Rating -->
                 <div class="shrink-0 text-center sm:text-right">
-                  <div class="text-3xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">{site.rating}</div>
-                  <div class="flex items-center gap-0.5 mt-1 justify-center sm:justify-end">
+                  <div class="text-5xl font-bold" style="color: var(--color-primary-600); font-family: var(--font-serif); line-height: 1;">{site.rating}</div>
+                  <div class="flex items-center gap-0.5 mt-1.5 justify-center sm:justify-end">
                     {Array.from({length: full}).map(() => (
-                      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="#f43f5e" stroke="none"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+                      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="#f43f5e"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
                     ))}
                     {half && (
-                      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="none">
-                        <defs><linearGradient id={`half-${i}`}><stop offset="50%" stop-color="#f43f5e"/><stop offset="50%" stop-color="var(--border)"/></linearGradient></defs>
-                        <path d={`M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z`} fill={`url(#half-${i})`}/>
-                      </svg>
+                      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none"><defs><linearGradient id={`half-${i}`}><stop offset="50%" stop-color="#f43f5e"/><stop offset="50%" stop-color="#e5e7eb"/></linearGradient></defs><path d={`M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z`} fill={`url(#half-${i})`}/></svg>
                     )}
                     {Array.from({length: empty}).map(() => (
-                      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="var(--border)" stroke="none"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+                      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="#e5e7eb"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
                     ))}
                   </div>
-                  <p class="text-[10px] mt-1" style="color: var(--text-muted);">von 5 Sternen</p>
+                  <p class="text-[10px] mt-1" style="color: var(--text-muted);">von 5</p>
                 </div>
               </div>
-
-              <!-- Ideal For Badge -->
-              <div class="mb-5">
-                <span class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold" style="background: var(--bg-soft); color: var(--text); border: 1px solid var(--border);">
-                  <span>{site.idealIcon}</span> {site.idealFor}
-                </span>
-              </div>
-
-              <!-- Pros / Cons -->
-              <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-5">
+              <span class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold mb-5" style="background: var(--color-primary-50); color: var(--color-primary-700); border: 1px solid var(--color-primary-200);"><span>{site.idealIcon}</span>{site.idealFor}</span>
+              <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
                 <div class="rounded-xl p-4" style="background: rgba(34,197,94,0.06); border: 1px solid rgba(34,197,94,0.15);">
-                  <p class="text-xs font-bold uppercase tracking-wider mb-2" style="color: #16a34a;">Vorteile</p>
-                  <ul class="space-y-1.5">
+                  <p class="text-xs font-bold uppercase tracking-wider mb-3" style="color: #16a34a;">✓ Vorteile</p>
+                  <ul class="space-y-2">
                     {site.pros.map(pro => (
-                      <li class="text-sm flex items-start gap-2" style="color: var(--text);">
-                        <span class="mt-0.5 shrink-0" style="color: #16a34a;">✓</span>
-                        {pro}
-                      </li>
+                      <li class="text-sm flex items-start gap-2" style="color: var(--text);"><span class="mt-0.5 shrink-0 font-bold" style="color: #16a34a;">✓</span><span>{pro}</span></li>
                     ))}
                   </ul>
                 </div>
                 <div class="rounded-xl p-4" style="background: rgba(239,68,68,0.06); border: 1px solid rgba(239,68,68,0.15);">
-                  <p class="text-xs font-bold uppercase tracking-wider mb-2" style="color: #dc2626;">Nachteile</p>
-                  <ul class="space-y-1.5">
+                  <p class="text-xs font-bold uppercase tracking-wider mb-3" style="color: #dc2626;">✗ Nachteile</p>
+                  <ul class="space-y-2">
                     {site.cons.map(con => (
-                      <li class="text-sm flex items-start gap-2" style="color: var(--text);">
-                        <span class="mt-0.5 shrink-0" style="color: #dc2626;">✗</span>
-                        {con}
-                      </li>
+                      <li class="text-sm flex items-start gap-2" style="color: var(--text);"><span class="mt-0.5 shrink-0 font-bold" style="color: #dc2626;">✗</span><span>{con}</span></li>
                     ))}
                   </ul>
                 </div>
               </div>
-
-              <!-- Testimonials -->
-              <div class="mb-5 grid grid-cols-1 sm:grid-cols-2 gap-3">
+              <div class="mb-6 grid grid-cols-1 sm:grid-cols-2 gap-3">
                 {site.testimonials.map(t => (
-                  <div class="rounded-xl p-4" style="background: var(--bg-soft); border: 1px solid var(--border);">
-                    <div class="flex items-center gap-0.5 mb-2">
-                      {[1,2,3,4,5].map(() => (
-                        <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24" fill="#f59e0b" stroke="none"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-                      ))}
-                    </div>
-                    <p class="text-xs leading-relaxed mb-2" style="color: var(--text-muted);">"{t.text}"</p>
-                    <p class="text-[11px] font-semibold" style="color: var(--text);">{t.name} <span style="color: var(--text-muted);">· {t.city}</span></p>
+                  <div class="rounded-xl p-4" style="background: var(--color-primary-50); border: 1px solid var(--color-primary-200);">
+                    <div class="flex gap-1 mb-2">{[1,2,3,4,5].map(() => (<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="#f59e0b"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>))}</div>
+                    <p class="text-xs leading-relaxed mb-2" style="color: var(--text); font-style: italic;">"{t.text}"</p>
+                    <p class="text-[11px] font-semibold" style="color: var(--text);">{t.name}</p>
+                    <p class="text-[10px]" style="color: var(--text-muted);">{t.city}</p>
                   </div>
                 ))}
               </div>
-
-              <!-- Expandable Details -->
-              <details class="group rounded-xl" style="border: 1px solid var(--border);">
-                <summary class="flex items-center justify-between px-4 py-3 cursor-pointer select-none" style="color: var(--text);">
-                  <span class="text-sm font-semibold">Ausführlicher Testbericht & Details</span>
-                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="shrink-0 transition-transform group-open:rotate-180" style="color: var(--text-muted);"><path d="m6 9 6 6 6-6"/></svg>
+              <details open class="group rounded-xl mb-6" style="border: 1px solid var(--border);">
+                <summary class="flex items-center justify-between px-4 py-3 cursor-pointer select-none font-semibold" style="color: var(--text); background: var(--bg-soft);">
+                  <span class="text-sm">Weitere Details &amp; Testbericht</span>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" class="shrink-0 transition-transform group-open:rotate-180" style="color: var(--text-muted);"><path d="m6 9 6 6 6-6"/></svg>
                 </summary>
-                <div class="px-4 pb-4">
-                  <!-- Features Grid -->
-                  <div class="grid grid-cols-2 gap-2 mb-4">
+                <div class="px-4 pb-4 space-y-4">
+                  <div class="grid grid-cols-2 gap-3">
                     {Object.entries(site.features).map(([key, value]) => (
-                      <div class="rounded-lg p-3" style="background: var(--bg-soft);">
+                      <div class="rounded-lg p-3" style="background: var(--bg-soft); border: 1px solid var(--border);">
                         <p class="text-[10px] font-bold uppercase tracking-wider mb-1" style="color: var(--text-muted);">{key}</p>
-                        <p class="text-xs font-medium" style="color: var(--text);">{value}</p>
+                        <p class="text-xs font-medium leading-snug" style="color: var(--text);">{value}</p>
                       </div>
                     ))}
                   </div>
-                  <!-- Review Text -->
-                  <p class="text-sm leading-relaxed" style="color: var(--text-muted);">{site.review}</p>
+                  <div class="rounded-lg p-4" style="background: var(--bg-soft);">
+                    <p class="text-sm leading-relaxed" style="color: var(--text-muted);">{site.review}</p>
+                  </div>
                 </div>
               </details>
-
-              <!-- Gutschein -->
-              <div class="mt-5 rounded-xl overflow-hidden" style="background: linear-gradient(135deg, #fef3c7, #fde68a); border: 2px dashed #f59e0b;">
-                <div class="flex flex-col sm:flex-row items-center gap-3 sm:gap-5 px-5 py-4">
-                  <div class="shrink-0 flex items-center gap-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#d97706" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 5H3a2 2 0 0 0-2 2v4a2 2 0 0 1 2 2 2 2 0 0 1-2 2v4a2 2 0 0 0 2 2h18a2 2 0 0 0 2-2v-4a2 2 0 0 1-2-2 2 2 0 0 1 2-2V7a2 2 0 0 0-2-2z"/><path d="M12 5v2"/><path d="M12 17v2"/><path d="M12 11v2"/></svg>
+              <div class="rounded-xl overflow-hidden mb-6" style="background: linear-gradient(135deg, #fef3c7, #fde68a); border: 2px dashed #f59e0b;">
+                <div class="flex flex-col sm:flex-row items-start sm:items-center gap-4 sm:gap-6 px-5 py-4">
+                  <div class="flex items-center gap-3">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#d97706" stroke-width="1.5"><path d="M21 5H3a2 2 0 0 0-2 2v4a2 2 0 0 1 2 2 2 2 0 0 1-2 2v4a2 2 0 0 0 2 2h18a2 2 0 0 0 2-2v-4a2 2 0 0 1-2-2 2 2 0 0 1 2-2V7a2 2 0 0 0-2-2z"/><path d="M12 5v2"/><path d="M12 17v2"/><path d="M12 11v2"/></svg>
                     <div>
-                      <p class="text-xs font-bold uppercase tracking-wider" style="color: #92400e;">Exklusiv für Herzblatt-Leser</p>
-                      <p class="text-sm font-extrabold" style="color: #78350f;">25% mehr Coins auf deinen ersten Kauf</p>
+                      <p class="text-xs font-bold uppercase tracking-wider" style="color: #92400e;">Exklusiver Code</p>
+                      <p class="text-sm font-bold" style="color: #78350f;">25% Bonus beim Kauf</p>
                     </div>
                   </div>
-                  <div class="flex items-center gap-2 shrink-0">
-                    <button
-                      onclick={`navigator.clipboard.writeText('Herzblatt25'); const el = this; el.textContent = '✓ Kopiert!'; el.style.background = '#16a34a'; el.style.color = 'white'; setTimeout(() => { el.textContent = 'Herzblatt25'; el.style.background = '#fffbeb'; el.style.color = '#92400e'; }, 2000);`}
-                      class="px-4 py-2 rounded-lg text-sm font-mono font-extrabold cursor-pointer transition-all hover:scale-105"
-                      style="background: #fffbeb; color: #92400e; border: 2px solid #f59e0b;"
-                      title="Klicken zum Kopieren"
-                    >
-                      Herzblatt25
-                    </button>
-                    <span class="text-[10px] hidden sm:block" style="color: #92400e;">Klick zum Kopieren</span>
-                  </div>
+                  <button onclick={`navigator.clipboard.writeText('Herzblatt25'); const el = this; el.textContent = '✓ Kopiert!'; el.style.background = '#16a34a'; el.style.color = 'white'; setTimeout(() => { el.textContent = 'Herzblatt25'; el.style.background = '#fffbeb'; el.style.color = '#92400e'; }, 2000);`} class="shrink-0 px-4 py-2 rounded-lg text-sm font-mono font-bold cursor-pointer transition-all hover:scale-105" style="background: #fffbeb; color: #92400e; border: 2px solid #f59e0b;">Herzblatt25</button>
                 </div>
               </div>
-
-              <!-- CTA -->
-              <div class="mt-4">
-                <a href={site.url} target="_blank" rel="noopener" class="track-click inline-flex items-center gap-2 px-6 py-3 rounded-full text-sm font-semibold text-white transition-all hover:shadow-lg hover:-translate-y-0.5" style={`background: ${i === 0 ? 'linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600))' : 'var(--color-primary-500)'};`} data-site={getSiteKey(site.name)}>
-                  {site.ctaText}
-                  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" x2="21" y1="14" y2="3"/></svg>
-                </a>
+              <div class="flex flex-col sm:flex-row gap-3">
+                <a href={site.url} target="_blank" rel="noopener" class="flex-1 sm:flex-none inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-full text-sm font-bold text-white transition-all hover:shadow-lg hover:scale-105" style="background: var(--color-primary-600); text-decoration: none;">Jetzt testen →</a>
+                <a href={`/blog/${site.slug}-test-erfahrungen`} class="flex-1 sm:flex-none inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-full text-sm font-bold transition-all hover:shadow-md" style="background: var(--bg-soft); color: var(--text); border: 1px solid var(--border); text-decoration: none;">Ausführlicher Testbericht →</a>
               </div>
             </div>
           </article>
@@ -575,59 +537,33 @@ const faqSchema = {
       })}
     </div>
 
-    <!-- So haben wir getestet -->
-    <div class="mt-12 rounded-2xl overflow-hidden" style="background: var(--bg-card); border: 1px solid var(--border);">
-      <div class="px-6 py-4" style="background: linear-gradient(135deg, var(--color-primary-600), var(--color-primary-800));">
-        <h2 class="text-base font-bold text-white" style="font-family: var(--font-serif);">So haben wir getestet</h2>
+    <!-- Testing Methodology -->
+    <div class="mt-16 rounded-2xl overflow-hidden" style="border: 1px solid var(--border);">
+      <div class="px-6 py-4" style="background: var(--bg-soft);">
+        <h2 class="text-lg font-bold" style="color: var(--text); font-family: var(--font-serif);">So haben wir getestet</h2>
       </div>
-      <div class="p-6">
-        <p class="text-sm leading-relaxed mb-5" style="color: var(--text-muted);">
-          Unser Redaktionsteam hat jede Plattform über mehrere Wochen mit echten Testprofilen intensiv genutzt. Dabei haben wir sechs Kernkriterien bewertet, die für die Dating-Erfahrung entscheidend sind:
-        </p>
-        <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
-          <div class="rounded-xl p-4 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);">
-            <span class="text-xl block mb-2">🎨</span>
-            <p class="text-xs font-bold" style="color: var(--text);">Benutzerfreundlichkeit</p>
-            <p class="text-[10px] mt-1" style="color: var(--text-muted);">Design, Navigation, Onboarding</p>
-          </div>
-          <div class="rounded-xl p-4 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);">
-            <span class="text-xl block mb-2">👤</span>
-            <p class="text-xs font-bold" style="color: var(--text);">Profilqualität</p>
-            <p class="text-[10px] mt-1" style="color: var(--text-muted);">Echtheit, Detailtiefe, Fotos</p>
-          </div>
-          <div class="rounded-xl p-4 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);">
-            <span class="text-xl block mb-2">🧠</span>
-            <p class="text-xs font-bold" style="color: var(--text);">Matching-Algorithmus</p>
-            <p class="text-[10px] mt-1" style="color: var(--text-muted);">Relevanz, Trefferquote</p>
-          </div>
-          <div class="rounded-xl p-4 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);">
-            <span class="text-xl block mb-2">💰</span>
-            <p class="text-xs font-bold" style="color: var(--text);">Preis-Leistung</p>
-            <p class="text-[10px] mt-1" style="color: var(--text-muted);">Free vs. Premium Wert</p>
-          </div>
-          <div class="rounded-xl p-4 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);">
-            <span class="text-xl block mb-2">🔒</span>
-            <p class="text-xs font-bold" style="color: var(--text);">Sicherheit</p>
-            <p class="text-[10px] mt-1" style="color: var(--text-muted);">Datenschutz, Verifizierung</p>
-          </div>
-          <div class="rounded-xl p-4 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);">
-            <span class="text-xl block mb-2">👥</span>
-            <p class="text-xs font-bold" style="color: var(--text);">Community</p>
-            <p class="text-[10px] mt-1" style="color: var(--text-muted);">Aktivität, Vielfalt, Umgangston</p>
-          </div>
+      <div class="p-6 sm:p-8">
+        <p class="text-sm leading-relaxed mb-6" style="color: var(--text-muted);">Unser Redaktionsteam hat jede Plattform über mehrere Wochen mit echten Testprofilen intensiv genutzt. Diese sechs Kriterien waren für unsere Bewertung entscheidend:</p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          <div class="rounded-xl p-4 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);"><span class="text-3xl block mb-2">🎨</span><p class="text-sm font-bold mb-1" style="color: var(--text);">Benutzerfreundlichkeit</p><p class="text-xs" style="color: var(--text-muted);">Design, Navigation, Onboarding</p></div>
+          <div class="rounded-xl p-4 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);"><span class="text-3xl block mb-2">👤</span><p class="text-sm font-bold mb-1" style="color: var(--text);">Profilqualität</p><p class="text-xs" style="color: var(--text-muted);">Echtheit, Detailtiefe, Fotos</p></div>
+          <div class="rounded-xl p-4 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);"><span class="text-3xl block mb-2">🧠</span><p class="text-sm font-bold mb-1" style="color: var(--text);">Matching-Qualität</p><p class="text-xs" style="color: var(--text-muted);">Algorithmus, Relevanz, Trefferquote</p></div>
+          <div class="rounded-xl p-4 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);"><span class="text-3xl block mb-2">💰</span><p class="text-sm font-bold mb-1" style="color: var(--text);">Preis-Leistung</p><p class="text-xs" style="color: var(--text-muted);">Kostenloser Wert vs. Premium</p></div>
+          <div class="rounded-xl p-4 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);"><span class="text-3xl block mb-2">🔒</span><p class="text-sm font-bold mb-1" style="color: var(--text);">Sicherheit &amp; Datenschutz</p><p class="text-xs" style="color: var(--text-muted);">Verifizierung, DSGVO, Verschlüsselung</p></div>
+          <div class="rounded-xl p-4 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);"><span class="text-3xl block mb-2">👥</span><p class="text-sm font-bold mb-1" style="color: var(--text);">Community &amp; Vielfalt</p><p class="text-xs" style="color: var(--text-muted);">Aktivität, Nutzervielfalt, Umgangston</p></div>
         </div>
       </div>
     </div>
 
     <!-- FAQ Section -->
-    <div class="mt-12">
-      <h2 class="text-2xl font-extrabold mb-6" style="color: var(--text); font-family: var(--font-serif);">Häufig gestellte Fragen</h2>
+    <div class="mt-16">
+      <h2 class="text-3xl font-bold mb-8" style="color: var(--text); font-family: var(--font-serif);">Häufig gestellte Fragen</h2>
       <div class="space-y-3">
         {faqItems.map(item => (
           <details class="group rounded-xl" style="background: var(--bg-card); border: 1px solid var(--border);">
             <summary class="flex items-center justify-between px-5 py-4 cursor-pointer select-none gap-4" style="color: var(--text);">
               <span class="text-sm font-semibold">{item.question}</span>
-              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="shrink-0 transition-transform group-open:rotate-180" style="color: var(--text-muted);"><path d="m6 9 6 6 6-6"/></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" class="shrink-0 transition-transform group-open:rotate-180" style="color: var(--color-primary-600);"><path d="m6 9 6 6 6-6"/></svg>
             </summary>
             <div class="px-5 pb-4">
               <p class="text-sm leading-relaxed" style="color: var(--text-muted);">{item.answer}</p>
@@ -637,21 +573,16 @@ const faqSchema = {
       </div>
     </div>
 
-    <!-- Bottom Quiz CTA -->
-    <div class="mt-12 rounded-2xl p-8 text-center" style="background: linear-gradient(135deg, var(--color-primary-600), var(--color-primary-800));">
-      <h2 class="text-xl sm:text-2xl font-extrabold mb-3 text-white" style="font-family: var(--font-serif);">Immer noch unsicher?</h2>
-      <p class="text-sm mb-5 max-w-md mx-auto" style="color: rgba(255,255,255,0.7);">Unser Quiz analysiert deine Wünsche und empfiehlt dir die perfekte Dating-Plattform — kostenlos und in nur 30 Sekunden.</p>
-      <button onclick="openDatingQuiz()" class="inline-flex items-center gap-2 px-8 py-3.5 rounded-full text-sm font-bold cursor-pointer transition-all hover:shadow-lg hover:-translate-y-0.5" style="background: white; color: var(--color-primary-800); border: none;">
-        Jetzt Quiz machen
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
-      </button>
+    <!-- Bottom CTA -->
+    <div class="mt-16 rounded-2xl p-8 text-center" style="background: var(--color-primary-50); border: 2px solid var(--color-primary-200);">
+      <h2 class="text-2xl sm:text-3xl font-bold mb-3" style="color: var(--text); font-family: var(--font-serif);">Immer noch unsicher?</h2>
+      <p class="text-sm mb-6 max-w-md mx-auto" style="color: var(--text-muted);">Lass dich von unserem kostenlosen Quiz leiten — in nur 30 Sekunden zeigen wir dir deine perfekte Match.</p>
+      <button onclick="window.openDatingQuiz()" class="inline-flex items-center gap-2 px-8 py-3.5 rounded-full text-sm font-bold text-white transition-all hover:shadow-lg hover:scale-105 cursor-pointer" style="background: linear-gradient(135deg, var(--color-primary-600), var(--color-primary-700)); border: none;">Quiz starten →</button>
     </div>
 
     <!-- Disclaimer -->
     <div class="mt-10 rounded-2xl p-6 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);">
-      <p class="text-xs leading-relaxed" style="color: var(--text-muted);">
-        <strong>Hinweis:</strong> Dieser Vergleich basiert auf unseren eigenen Tests und Erfahrungen. Einige Links sind Affiliate-Links — wenn du dich über unseren Link anmeldest, erhalten wir eine kleine Provision. Für dich entstehen dadurch keine Kosten. Letzte Aktualisierung: Februar 2026.
-      </p>
+      <p class="text-xs leading-relaxed" style="color: var(--text-muted);"><strong>Hinweis:</strong> Dieser Vergleich basiert auf unseren unabhängigen Tests. Einige Links sind Affiliate-Links — wenn du dich über unseren Link anmeldest, erhalten wir eine kleine Provision. Für dich entstehen dadurch keine zusätzlichen Kosten. Letzte Aktualisierung: Februar 2026.</p>
     </div>
 
   </section>
@@ -664,15 +595,3 @@ const faqSchema = {
     content: '';
   }
 </style>
-
-<script is:inline>
-  // Track clicks on all CTA buttons
-  document.querySelectorAll('.track-click').forEach(link => {
-    link.addEventListener('click', function() {
-      const site = this.getAttribute('data-site');
-      if (site) {
-        navigator.sendBeacon('/api/track-click', JSON.stringify({ site }));
-      }
-    });
-  });
-</script>

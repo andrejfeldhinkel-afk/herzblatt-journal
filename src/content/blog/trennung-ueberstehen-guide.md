@@ -1,7 +1,7 @@
 ---
 title: "Trennung überstehen: Der ehrliche Komplett-Guide"
 description: "Trennung überstehen: Ehrlicher Komplett-Guide durch alle Phasen des Trauerns. Verstehe dein Gehirn und finde zurück zum Glück nach Trennungsschmerz."
-date: "2025-11-21"
+date: 2025-11-21
 image: "/images/photos/trennung-ueberstehen-guide.webp"
 tags:
   - "Trennung"

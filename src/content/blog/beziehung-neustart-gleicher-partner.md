@@ -1,7 +1,7 @@
 ---
 title: "Neustart mit dem Ex: So klappt es wirklich"
 description: "Zweiter Versuch mit der Ex-Partnerin? Lerne, wann es sinnvoll ist, worauf du achten solltest und wie du alte Muster durchbrichst."
-date: "2025-02-18"
+date: 2025-02-18
 image: "/images/photos/beziehung-neustart-gleicher-partner.webp"
 tags:
   - "Beziehung"

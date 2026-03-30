@@ -1,7 +1,7 @@
 ---
 title: "Körperliche Nähe in Beziehungen neu entdecken"
 description: "Körperliche Nähe ist mehr als Sex. Wie ihr eine liebevolle Berührungskultur aufbaut und emotionale Intimität durch Zärtlichkeit vertieft."
-date: "2025-09-17"
+date: 2025-09-17
 image: "/images/photos/koerperliche-naehe-beziehung.webp"
 tags:
   - "Intimität"

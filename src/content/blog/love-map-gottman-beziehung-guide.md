@@ -1,6 +1,7 @@
 ---
 title: "Love Maps — Wie gut kennst du deinen Partner wirklich?"
 description: "Gottmans Love Maps sind die Grundlage glücklicher Langzeitbeziehungen. Entdecke die 40+ Fragen, um deine Love Map zu aktualisieren und wie Paare diese nutzen können."
+date: 2025-12-03
 author: "sarah-kellner"
 image: "/images/blog/love-map-gottman-beziehung-guide.webp"
 alt: "Ein Paar sitzt zusammen und führt ein tiefes Gespräch über ihre Träume und Ängste"
@@ -23,7 +24,7 @@ faq:
   - question: "Warum verlieren Paare ihre Love Maps?"
     answer: "Mit der Zeit, Routine, Kindern, Karriere und Ablenkung vergessen Paare, nach ihren Partnern zu fragen. Sie nehmen an, dass sie alles wissen. Oder sie sprechen nur über praktische Dinge: Wer kauft Milch, wo ist das Auto. Die tieferen Dinge werden ignoriert, und die Love Map verfällt."
   - question: "Wie aktualisiere ich meine Love Map?"
-    answer: "Durch Fragen stellen und aktiv zuhören. Nutze die 40+ Fragen in diesem Artikel. Setze regelmäßige"
+    answer: "Durch Fragen stellen und aktiv zuhören. Nutze die 40+ Fragen in diesem Artikel. Setze regelmäßige 'Love Map' Dates durch dich ein. Stelle Fragen, die dich über deine Partner überraschen. Arbeite, dich von deinen Annahmen zu befreien und dein Partner als neu zu sehen."
   - question: "Wie vorhersagen Love Maps das Schicksal von Beziehungen?"
     answer: "Gottmans Forschung zeigt, dass Paare, die starke Love Maps haben, durchschnittlich langfristige Beziehungen haben. Sie kommunizieren besser, unterstützen sich mehr, und können Konflikte besser navigieren. Paare mit schwachen Love Maps sind anfälliger für Drift und Scheidung."
   - question: "Kann man die Love Map eines Partners verlieren?"

@@ -1,7 +1,7 @@
 ---
 title: "Dating-App Bio: Profiltexte die matchen"
 description: "Lerne, wie du eine überzeugende Dating-App Bio schreibst. Praktische Tipps, Do's und Don'ts sowie konkrete Beispiele für Männer und Frauen."
-date: "2025-04-30"
+date: 2025-04-30
 image: "/images/photos/dating-app-bio-schreiben.webp"
 tags:
   - "Online-Dating"

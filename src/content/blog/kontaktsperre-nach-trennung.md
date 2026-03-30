@@ -1,6 +1,7 @@
 ---
 title: "Kontaktsperre nach Trennung – Warum sie so wichtig ist"
 description: "Kontaktsperre nach Trennung: Warum die No-Contact-Regel so wichtig ist, wie lange du sie durchhältst und wie du heilest."
+date: 2025-11-12
 tags:
   - "Liebeskummer"
   - "Ratgeber"

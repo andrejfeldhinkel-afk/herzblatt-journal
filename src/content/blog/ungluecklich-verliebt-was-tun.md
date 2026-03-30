@@ -1,6 +1,7 @@
 ---
 title: "Unglücklich verliebt? 7 konkrete Schritte zum Loslassen"
 description: "Du bist unglücklich verliebt? Erfahre praktische Tipps gegen Liebeskummer, unerwiderte Liebe und Herzschmerz. Jetzt handeln und wieder glücklich werden!"
+date: 2025-12-15
 tags:
   - "Liebeskummer"
   - "Unerwiderte Liebe"

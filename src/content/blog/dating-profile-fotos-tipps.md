@@ -1,6 +1,7 @@
 ---
 title: "Die perfekten Profilfotos für Dating-Apps: So wirst du"
 description: "Guide für professionelle Dating-Profilfotos: Tipps für Lichtsetzung, Bildausschnitte und Bearbeitung, um echte Matches anzuziehen."
+date: 2025-07-29
 tags:
   - "Online-Dating"
   - "Profilfotos"

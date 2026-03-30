@@ -1,6 +1,7 @@
 ---
 title: "Neue Freunde finden als Erwachsener: Der ehrliche Guide"
 description: "Neue Freunde finden als Erwachsener ist schwieriger als Dating. Erfahre warum das so ist und wie du als 25, 35 oder 45+ echte Freundschaften aufbaust."
+date: 2025-10-09
 image: "/images/photos/freund-finden-als-erwachsener.webp"
 imageAlt: "Gruppe Erwachsener bei gemeinsamem Treffen"
 tags:

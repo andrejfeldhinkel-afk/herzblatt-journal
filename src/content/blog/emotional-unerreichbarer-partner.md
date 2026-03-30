@@ -1,6 +1,7 @@
 ---
 title: "Emotional unerreichbarer Partner: Warum du an eine Wand"
 description: "Emotional unerreichbarer Partner? Erfahre die wahren Ursachen, erkenne die Anzeichen und lerne, ob die Beziehung noch eine Chance hat."
+date: 2025-09-05
 image: "/images/photos/emotional-unerreichbarer-partner.webp"
 tags:
   - "Beziehung"

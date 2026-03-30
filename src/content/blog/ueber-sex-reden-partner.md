@@ -1,6 +1,7 @@
 ---
 title: "Über Sex reden: So sprichst du Wünsche offen an"
 description: "Über Sex reden ist unbequem? Nicht wenn du diese Strategien nutzt. Lerne, wie du deine Wünsche offen mit deinem Partner kommunizierst."
+date: 2025-12-15
 image: "/images/photos/ueber-sex-reden-partner.webp"
 imageAlt: "Offenes Gespräch über Sexualität in der Beziehung"
 tags:
@@ -19,11 +20,11 @@ faq:
   - question: "Wann ist der richtige Zeitpunkt, um über Sex zu sprechen?"
     answer: "Der beste Moment ist außerhalb des Schlafzimmers – beim Spaziergang, beim Essen oder entspannt auf der Couch. Vermeide Gespräche direkt vor oder nach Sex, da die Emotionen zu hoch sind."
   - question: "Was mache ich, wenn mein Partner defensiv reagiert?"
-    answer: "Bleibe ruhig und betone, dass es dir um die gemeinsame Erfüllung geht. Nutze ‚Ich"
+    answer: "Bleibe ruhig und betone, dass es dir um die gemeinsame Erfüllung geht. Nutze ‚Ich'-Aussagen statt Vorwürfe: ‚Mir wäre es schön, wenn…' statt ‚Du machst nie…'."
   - question: "Wie starte ich das Gespräch, ohne es unangenehm zu machen?"
-    answer: "Beginne mit einer positiven Aussage: ‚Mir gefällt es sehr, wenn wir zusammen sind. Ich würde gerne noch mehr Freude teilen."
+    answer: "Beginne mit einer positiven Aussage: ‚Mir gefällt es sehr, wenn wir zusammen sind. Ich würde gerne noch mehr Freude teilen.' So schaffst du eine konstruktive Basis."
   - question: "Was ist, wenn ich nicht genau weiß, was ich möchte?"
-    answer: "Das ist völlig normal. Du kannst offen sagen: ‚Ich bin mir noch nicht ganz sicher, aber ich würde gerne mit dir experimentieren und gemeinsam herausfinden, was uns gut tut."
+    answer: "Das ist völlig normal. Du kannst offen sagen: ‚Ich bin mir noch nicht ganz sicher, aber ich würde gerne mit dir experimentieren und gemeinsam herausfinden, was uns gut tut.'"
   - question: "Wie gehe ich mit Ablehnung um?"
     answer: "Nicht jede Idee wird begeistert aufgenommen – und das ist okay. Frag nach den Gründen und respektiere die Grenzen deines Partners. Kommunikation ist ein Prozess, kein Resultat."
 ---

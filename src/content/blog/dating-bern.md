@@ -1,7 +1,7 @@
 ---
 title: "Dating in Bern: Orte und Tipps"
 description: "Dating in Bern: Entdecke die besten Orte, Restaurants, Bars und romantische Spots für dein Date in der wunderschönen Schweizer Hauptstadt."
-date: "2025-05-02"
+date: 2025-05-02
 image: "/images/photos/dating-bern.webp"
 tags:
   - "dating"

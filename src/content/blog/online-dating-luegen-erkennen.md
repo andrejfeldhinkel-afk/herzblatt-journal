@@ -1,6 +1,7 @@
 ---
 title: "Lügen beim Online-Dating erkennen: So durchschaust du"
 description: "Lügen beim Online-Dating erkennen: Die häufigsten Schwindeleien in Profilen, Warnsignale im Chat und wie du echte Menschen von Fakes unterscheidest."
+date: 2025-12-15
 tags:
   - "Online-Dating"
   - "Red Flags"

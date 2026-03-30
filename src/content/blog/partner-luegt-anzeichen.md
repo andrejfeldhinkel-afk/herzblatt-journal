@@ -1,7 +1,7 @@
 ---
 title: "Partner lügt: 10 Anzeichen erkennen"
 description: "10 Warnsignale, dass dein Partner lügt: Körpersprache, Verhaltensänderungen, Kommunikationsmuster & wie du reagierst."
-date: "2025-10-19"
+date: 2025-10-19
 image: "/images/photos/partner-luegt-anzeichen.webp"
 tags:
   - "Beziehung"

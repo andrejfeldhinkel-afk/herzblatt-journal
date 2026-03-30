@@ -1,6 +1,7 @@
 ---
 title: "Toxische Beziehung verlassen: Der Schritt-für-Schritt Guide"
 description: "Toxische Beziehung verlassen: Erkenne Warnsignale, plane deine Flucht, etabliere No-Contact und beginne deine Heilungsreise mit praktischen Schritten."
+date: 2025-12-15
 image: "/images/photos/toxische-beziehung-verlassen.webp"
 tags:
   - "Beziehung"

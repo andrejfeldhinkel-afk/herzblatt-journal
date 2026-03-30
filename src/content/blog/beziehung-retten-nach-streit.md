@@ -1,7 +1,7 @@
 ---
 title: "Beziehung retten nach Streit: 8 Schritte"
 description: "8 konkrete Schritte zur Versöhnung nach Streit: Abkühlphase, Kommunikation & Konflikte dauerhaft lösen."
-date: "2025-03-01"
+date: 2025-03-01
 image: "/images/photos/beziehung-retten-nach-streit.webp"
 tags:
   - "Beziehung"

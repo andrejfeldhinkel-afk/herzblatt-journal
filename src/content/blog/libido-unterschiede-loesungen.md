@@ -1,6 +1,7 @@
 ---
 title: "Verschiedene Libido: Praktische Lösungen für Paare"
 description: "Ein Partner möchte Sex täglich, der andere monatlich? Unterschiedliche Libido ist normal – und lösbar. Praktische Strategien für harmonische Sexualität."
+date: 2025-11-16
 image: "/images/photos/libido-unterschiede-loesungen.webp"
 imageAlt: "Paar findet Lösungen bei unterschiedlicher Libido"
 tags:
@@ -17,7 +18,7 @@ featured: false
 author: "sarah-kellner"
 faq:
   - question: "Wie unterschiedlich darf die Libido sein?"
-    answer: "Es gibt da kein ‚zu unterschiedlich"
+    answer: "Es gibt da kein ‚zu unterschiedlich'. Manche Paare haben 5x pro Woche vs. 1x pro Monat Unterschied – und es funktioniert trotzdem. Der Schlüssel ist: beide Partner fühlen sich respektiert, nicht vernachlässigt oder gedrängt."
   - question: "Ist niedriges Verlangen ein zeichen von fehlender Liebe?"
     answer: "Nein, das ist ein häufiges Missverständnis. Libido ist biologisch, nicht emotional. Jemand kann dich lieben und trotzdem keine hohe Libido haben. Das eine hat mit dem anderen nichts zu tun."
   - question: "Kann man seine Libido erhöhen?"

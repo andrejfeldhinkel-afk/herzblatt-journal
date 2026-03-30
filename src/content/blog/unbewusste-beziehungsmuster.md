@@ -1,7 +1,7 @@
 ---
 title: "Unbewusste Beziehungsmuster durchbrechen"
 description: "Unbewusste Beziehungsmuster durchbrechen: Warum du immer den gleichen Typ wählst. Erkenne Wiederholungszwang und heile deine Bindungsmuster psychologisch."
-date: "2025-11-29"
+date: 2025-11-29
 image: "/images/photos/unbewusste-beziehungsmuster.webp"
 tags:
   - "Beziehungsmuster"

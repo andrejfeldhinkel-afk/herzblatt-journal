@@ -1,6 +1,7 @@
 ---
 title: "Zweites Date: Tipps für ein perfektes Wiedersehen"
 description: "Zweites Date planen: Ratgeber für das perfekte Wiedersehen. Timing, Aktivitäten, Gesprächsthemen und wie du echtes Interesse zeigst."
+date: 2025-12-15
 tags:
   - "Dating"
   - "Tipps"
@@ -11,7 +12,7 @@ imageAlt: "Paar sitzt in einem Café und trinkt Kaffee zusammen"
 featured: false
 faq:
   - question: "Wie lange sollte ich nach dem ersten Date warten, bevor ich mich melde?"
-    answer: "Es hängt von der Chemie ab, aber generell ist es authentisch, sich innerhalb von 24 Stunden zu melden. Eine nette Nachricht wie"
+    answer: "Es hängt von der Chemie ab, aber generell ist es authentisch, sich innerhalb von 24 Stunden zu melden. Eine nette Nachricht wie 'Mir hat es mit dir gestern sehr gefallen' zeigt Interesse ohne zu bedürftig zu wirken."
   - question: "Wer sollte das zweite Date planen?"
     answer: "Idealerweise sollte beide aktiv sein. Aber wenn du das erste Date gut gelaufen war und dein Date nicht von sich aus Interesse zeigt, kannst du die Initiative ergreifen. Es ist nicht übergriffig, Vorschläge zu machen."
   - question: "Was sollte ich beim zweiten Date vermeiden?"

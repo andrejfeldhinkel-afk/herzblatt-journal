@@ -1,7 +1,7 @@
 ---
 title: "Wertebasiertes Dating: Passende Partner finden"
 description: "Wertebasiertes Dating: Entdecke deine Kernwerte und finde Partner, die wirklich zu dir passen — mit praktischen Übungen."
-date: "2025-12-08"
+date: 2025-12-08
 image: "/images/photos/werte-basiertes-dating.webp"
 tags:
   - "Wertebasiertes Dating"

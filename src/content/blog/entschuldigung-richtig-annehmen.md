@@ -1,6 +1,7 @@
 ---
 title: "Entschuldigungen annehmen: Warum es so schwer fällt"
 description: "Entschuldigungen akzeptieren: Warum du zögerst und wie du es lernst, echte Reue anzunehmen"
+date: 2025-09-16
 image: "/images/photos/entschuldigung-richtig-annehmen.webp"
 imageAlt: "Hände als Symbol für Vergebung und Entschuldigung"
 tags:
@@ -22,7 +23,7 @@ faq:
   - question: "Ist Annehmen gleich wie Vergeben?"
     answer: "Nein. Du kannst eine Entschuldigung annehmen (anerkennen, dass der andere Reue zeigt) und trotzdem noch nicht vergeben (nicht bereit, weiterzumachen). Das sind zwei verschiedene Schritte im Heilungsprozess."
   - question: "Was mache ich, wenn die Entschuldigung nicht echt wirkt?"
-    answer: "Vertrau dem Gefühl. Echte Entschuldigung ist spezifisch ("
+    answer: "Vertrau dem Gefühl. Echte Entschuldigung ist spezifisch ('Mir ist Leid, dass ich das getan habe'), nicht generisch ('Mir tut alles leid'). Echte Entschuldigung beinhaltet Verstehen ('Ich sehe jetzt, wie sehr das dich verletzt hat'). Wenn das fehlt, ist es nicht echte Reue."
   - question: "Kann ich eine Entschuldigung annehmen und trotzdem die Beziehung beenden?"
     answer: "Ja. Annehmen, dass dein Partner Reue empfindet, bedeutet nicht, dass ihr zusammen sein müsst. Das ist ein wichtiger Unterschied. Du kannst den anderen respektieren und trotzdem wissen, dass ihr nicht zusammenpasst."
   - question: "Was macht man mit der Entschuldigung nach man sie annimmt?"

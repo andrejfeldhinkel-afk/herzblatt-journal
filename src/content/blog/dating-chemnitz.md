@@ -1,6 +1,7 @@
 ---
 title: "Dating in Chemnitz: Die besten Orte, Tipps & Hotspots"
 description: "Chemnitz Dating-Guide: Entdecke trendige Bars, Restaurants und die beste Single-Szene der Kulturhauptstadt. Deine persönlichen Dating-Tipps!"
+date: 2025-05-17
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"
@@ -17,7 +18,7 @@ faq:
   - question: "Wo treffen sich junge Menschen in Chemnitz?"
     answer: "Die Zwickauer Straße ist die Partymeile. Der Königshof-Platz ist zentral. Die Gegend um die TU Chemnitz ist jung. Der Zentralpark ist für Natur-Dates perfekt."
   - question: "Welche Restaurants und Bars sind gut?"
-    answer: "'Villa Marie"
+    answer: "'Villa Marie' bietet regionale Küche. 'Zellner's' ist traditionell elegant. 'Café Haupt' ist trendig und gemütlich."
   - question: "Was kann man unternehmen außer Essen?"
     answer: "Kunstmuseen besuchen. Spaziergang im Zentralpark. Theater-Aufführungen. Technik-Museum erkunden. Stadttouren."
   - question: "Wie ist die Single-Szene hier?"

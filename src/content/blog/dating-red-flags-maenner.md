@@ -1,6 +1,7 @@
 ---
 title: "Red Flags bei Männern – 15 Warnsignale beim Dating"
 description: "Erkenne 15 kritische Red Flags bei Männern beim Dating. Lerne, toxische Verhaltensmuster früh zu erkennen und dich selbst zu schützen."
+date: 2025-08-01
 tags:
   - "Red-Flags"
   - "Dating-Tipps"

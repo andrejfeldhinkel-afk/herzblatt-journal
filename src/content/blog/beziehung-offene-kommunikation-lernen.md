@@ -1,6 +1,7 @@
 ---
 title: "Offene Kommunikation in der Beziehung: Der komplette Guide"
 description: "Offene Kommunikation in der Beziehung lernen: Wie du schwierige Themen ansprichst, besser zuhörst und eine Gesprächskultur aufbaust die eure Liebe stärkt."
+date: 2025-02-23
 tags:
   - "Kommunikation"
   - "Beziehung"
@@ -23,9 +24,9 @@ faq:
   - question: "Wie sage ich meinem Partner etwas Schwieriges?"
     answer: "Nutze die Sandwich-Methode: Beginne mit etwas Positivem, bringe dann dein Anliegen vor, und schließe mit einer Lösung oder einem Wunsch ab. Zeitpunkt ist alles — nie zwischen Tür und Angel oder im Streit."
   - question: "Mein Partner will nie über Probleme reden. Was tun?"
-    answer: "Respektiere seinen Stil, aber mache klar, dass Schweigen keine Lösung ist. Biete Alternativen an: Schreiben statt Reden, kürzere Gespräche, oder ein"
+    answer: "Respektiere seinen Stil, aber mache klar, dass Schweigen keine Lösung ist. Biete Alternativen an: Schreiben statt Reden, kürzere Gespräche, oder ein 'Check-in' Format mit Timer. Manchmal hilft auch eine neutrale dritte Person."
   - question: "Wie oft sollte man über die Beziehung reden?"
-    answer: "Ein wöchentliches"
+    answer: "Ein wöchentliches 'State of the Union' Gespräch (15-20 Minuten) reicht für die meisten Paare. Dazu natürlich spontane Gespräche wenn etwas wichtig ist. Zu viel Beziehungs-Analyse kann auch schaden — es muss nicht alles zerredet werden."
 ---
 
 **Die meisten Beziehungen enden nicht wegen mangelnder Liebe.** Sie enden wegen mangelnder Kommunikation.

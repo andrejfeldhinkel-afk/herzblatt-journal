@@ -1,6 +1,7 @@
 ---
 title: "Selbstliebe als Dating-Geheimwaffe: Warum du dich selbst"
 description: "Selbstliebe ist kein Trend — sie ist die Grundlage für jede gesunde Beziehung. So stärkst du dein Selbstwertgefühl fürs Dating."
+date: 2025-12-15
 tags:
   - "Psychologie"
   - "Ratgeber"
@@ -19,7 +20,7 @@ faq:
   - question: "Wie baue ich Selbstwertgefühl vor dem Dating auf?"
     answer: "Praktiziere Selbstmitgefühl, setze Grenzen, führe ein Dankbarkeitstagebuch, und verdanke dich selbst kleine Erfolge. Therapeutische Hilfe kann auch sehr wertvoll sein."
   - question: "Ist es okay, single zu sein?"
-    answer: "Ja, absolut. Single-Sein ist nicht ein Fehler oder etwas zu"
+    answer: "Ja, absolut. Single-Sein ist nicht ein Fehler oder etwas zu 'Fixieren'. Es ist eine Gelegenheit, dich selbst zu entdecken und echte Selbstliebe zu entwickeln."
   - question: "Wie erkenne ich, dass ich mich selbst liebe?"
     answer: "Du akzeptierst deine Unvollkommenheiten, setzt Grenzen ohne Schuldgefühle, verhandelst nicht über deine Standards, und wählst Beziehungen statt sie zu brauchen."
 ---## Selbstliebe: Der Grundstein für Dating-Erfolg

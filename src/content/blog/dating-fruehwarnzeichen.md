@@ -1,6 +1,7 @@
 ---
 title: "Frühwarnzeichen beim Dating: Worauf du achten solltest"
 description: "Frühwarnzeichen beim Dating: Diese subtilen Signale verraten dir früh, ob jemand der richtige Partner und gute Beziehung für dich ist."
+date: 2025-05-29
 tags:
   - "Dating"
   - "Psychologie"

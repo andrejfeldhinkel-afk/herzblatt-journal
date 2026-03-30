@@ -1,6 +1,7 @@
 ---
 title: "Dating für Introvertierte: Tipps zum Finden von Liebe"
 description: "Dating für Introvertierte: Praktische Strategien und Tipps, um deine Schüchternheit zu überwinden und echte Verbindungen aufzubauen."
+date: 2025-06-12
 tags:
   - "Dating-Tipps"
   - "Selbstbewusstsein"

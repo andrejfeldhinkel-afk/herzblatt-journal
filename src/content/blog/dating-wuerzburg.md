@@ -1,6 +1,7 @@
 ---
 title: "Dating in Würzburg: Die besten Orte & Tipps für Singles"
 description: "Dating in Würzburg: Die besten Orte und Tipps für Singles. Mainbrücke, Altstadt und romantische Fränkische Weinberge entdecken."
+date: 2025-08-21
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

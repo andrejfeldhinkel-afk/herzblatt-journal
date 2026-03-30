@@ -1,6 +1,7 @@
 ---
 title: "Dating Fatigue: Wenn die Partnersuche nur noch erschöpft"
 description: "Dating Fatigue: Burnout in der Partnersuche, Anzeichen erkennen und wieder Freude am Daten finden – praktische Tipps"
+date: 2025-05-24
 image: "/images/photos/dating-fatigue-was-hilft.webp"
 imageAlt: "Erschöpfte Person leidet unter Dating-Müdigkeit"
 tags:
@@ -16,7 +17,7 @@ featured: false
 author: "markus-hoffmann"
 faq:
   - question: "Was ist Dating Fatigue genau?"
-    answer: "Es ist emotionale Erschöpfung von wiederholten Dates, ständigen Enttäuschungen und dem Gefühl, dass es nie funktioniert. Es ist wie Arbeit, statt Vergnügen. Du fragst dich:"
+    answer: "Es ist emotionale Erschöpfung von wiederholten Dates, ständigen Enttäuschungen und dem Gefühl, dass es nie funktioniert. Es ist wie Arbeit, statt Vergnügen. Du fragst dich: \"Warum mache ich das?\" und die Antwort ist nicht \"weil ich es will\", sondern \"weil ich sollte\"."
   - question: "Wie lange dauert es, Dating Fatigue zu bekommen?"
     answer: "Das variiert. Manche Menschen sind nach 6 Monaten intensiven Datings erschöpft. Manche halten länger durch. Aber wenn du dich wöchentlich antreibst, statt es zu genießen – das ist bereits ein Zeichen."
   - question: "Ist es okay, mit dem Daten zu pausieren?"

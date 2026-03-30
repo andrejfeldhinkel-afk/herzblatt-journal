@@ -1,15 +1,7 @@
 ---
-title: Dating Mit Adhd
-description: ''
-date: '2026-03-01'
-updated: '2026-03-01'
-tags: []
-draft: true
----
-
----
 title: "Dating mit ADHS – Herausforderungen und Stärken"
 description: "Dating mit ADHS: Nutze deine Stärken und meistere typische Herausforderungen. Mit praktischen Tipps für erfolgreiches Dating mit ADHS!"
+date: 2025-06-23
 tags:
   - "Psychologie"
   - "Dating-Tipps"
@@ -22,8 +14,10 @@ draft: false
 image: "/images/photos/emotionale-intelligenz-dating.webp"
 imageAlt: "Dating mit ADHS"
 faq:
-  - "{'question': 'Was ist das Wichtigste bei dating mit adhs?', 'answer': 'Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst.'}"
-  - "{'question': 'Wo finde ich Hilfe zum Thema dating mit adhs?', 'answer': 'Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung.'}"
+  - question: "Was ist das Wichtigste bei dating mit adhs?"
+    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
+  - question: "Wo finde ich Hilfe zum Thema dating mit adhs?"
+    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
 ---## Dating mit ADHS
 
 Du siehst jemanden, und plötzlich ist diese Person die wichtigste Person in deinem Leben. Du denkst nur noch an sie, planst euer erstes Date mit Perfektionismus, schreibst Nachrichten, die mehrere Seiten lang sind. Das ist Hyperfocus — und es ist einer der intensivsten, wundervollsten und gleichzeitig anstrengendsten Aspekte des ADHS-Datings.

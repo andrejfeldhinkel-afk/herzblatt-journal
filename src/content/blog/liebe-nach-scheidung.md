@@ -1,6 +1,7 @@
 ---
 title: "Liebe nach Scheidung: Wie du dein Herz wieder öffnest"
 description: "Nach Scheidung wieder lieben: Heilungsschritte, wann du bereit für neue Beziehungen bist und wie du Vertrauen wiederaufbaust."
+date: 2025-11-23
 image: "/images/photos/liebe-nach-scheidung.webp"
 tags:
   - "Dating"

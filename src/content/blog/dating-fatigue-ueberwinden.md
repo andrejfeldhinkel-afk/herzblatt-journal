@@ -1,6 +1,7 @@
 ---
 title: "Dating-Müdigkeit überwinden: Wenn die Suche erschöpft"
 description: "Burnout beim Dating? Du bist nicht allein. Erfahre, warum Dating-Fatigue entsteht und wie du deine Energie zurückgewinnst."
+date: 2025-05-23
 tags:
   - "Dating-Tipps"
   - "Psychologie"

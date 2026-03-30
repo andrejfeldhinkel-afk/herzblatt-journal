@@ -1,6 +1,7 @@
 ---
 title: "Partner lügt ständig: Warum und was du tun kannst"
 description: "Dein Partner lügt ständig? Erfahre die psychologischen Gründe, erkenne die Muster und lerne, wie du damit umgehst — ehrlich und klar."
+date: 2025-12-15
 tags:
   - "Beziehung"
   - "Vertrauen"

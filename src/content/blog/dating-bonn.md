@@ -1,6 +1,7 @@
 ---
 title: "Dating in Bonn: Die besten Orte & Tipps für Singles"
 description: "Dating in Bonn: Entdecke wo Uni-Flair auf Rhein-Romantik trifft. Altstadt, Südstadt, Poppelsdorf und die beste Single-Szene der Stadt."
+date: 2025-05-13
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

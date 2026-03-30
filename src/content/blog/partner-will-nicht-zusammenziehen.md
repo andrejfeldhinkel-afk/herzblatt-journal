@@ -1,6 +1,7 @@
 ---
 title: "Partner will nicht zusammenziehen: Was steckt dahinter?"
 description: "Dein Partner will nicht zusammenziehen? Erfahre die wahren Gründe, wie du das Gespräch führst und wann es ein echtes Warnsignal ist."
+date: 2025-12-15
 tags:
   - "Beziehung"
   - "Ratgeber"

@@ -1,12 +1,11 @@
 ---
-title: Dating Fuer Schuechterne
-description: ''
-date: '2026-03-01'
-updated: '2026-03-01'
-tags: []
-draft: true
+title: "Dating für Schüchterne: Dein praktischer Guide"
+description: "Dating für Schüchterne: Dein praktischer Schritt-für-Schritt-Guide zur erfolgreichen Partnersuche trotz Schüchternheit."
+date: 2026-03-07
+tags: ["Dating", "Selbstbewusstsein", "Ratgeber"]
+image: "/images/photos/dating-fuer-schuechterne.webp"
+draft: false
 ---
-
 ---
 ---## dating für Schüchterne
 

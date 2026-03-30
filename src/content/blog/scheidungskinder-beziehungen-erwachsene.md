@@ -1,6 +1,7 @@
 ---
 title: "Scheidungskinder und Liebe: Wie die Trennung deiner Eltern"
 description: "Scheidungskinder in Beziehungen: Warum die Trennung deiner Eltern dein Liebesleben beeinflusst — und wie du alte Muster durchbrichst."
+date: 2025-12-15
 image: "/images/photos/scheidungskinder-beziehungen-erwachsene.webp"
 tags:
   - "Psychologie"

@@ -1,6 +1,7 @@
 ---
 title: "Commitment Phobia — Warum manche Menschen sich nie festlegen"
 description: "Bindungsangst ist real und kann eine Beziehung zerstören. Wir zeigen dir die Zeichen, die Ursachen, und wie man damit umgeht — ob du selbst betroffen bist oder dein Partner."
+date: 2025-04-14
 author: "thomas-peters"
 image: "/images/blog/commitment-phobia-bindungsangst-guide.webp"
 draft: false
@@ -23,9 +24,9 @@ faq:
   - question: "Kann man Commitment Phobia überwinden?"
     answer: "Ja, mit Arbeit. Es erfordert Therapie, Selbstbewusstsein, und ein Wunsch zu heilen. Es erfordert auch Zeit. Binding Phobia zu überwinden ist ein Prozess, nicht ein schneller Fix. Aber es ist möglich, wenn die Person bereit ist, die Arbeit zu machen."
   - question: "Wie datiert man jemanden mit Commitment Phobia?"
-    answer: "Mit großer Geduld und klaren Grenzen. Du kannst dich nicht jemanden"
+    answer: "Mit großer Geduld und klaren Grenzen. Du kannst dich nicht jemanden 'heilen', aber du kannst präsent sein. Die wichtigste Sache ist, deine eigenen Grenzen zu kennen. Wie lange wirst du warten? Wann ist es genug? Du kannst nicht jemanden retten, der nicht gerettet werden will."
   - question: "Wann sollte ich jemanden mit Commitment Phobia verlassen?"
-    answer: "Wenn: 1) Sie weigern sich, Hilfe zu suchen, 2) Sie sabotieren ständig die Beziehung, 3) Du anfängst zu glauben, dass du nicht"
+    answer: "Wenn: 1) Sie weigern sich, Hilfe zu suchen, 2) Sie sabotieren ständig die Beziehung, 3) Du anfängst zu glauben, dass du nicht 'gut genug' bist, 4) Deine psychische Gesundheit leidet, 5) Du merkst, dass deine Grenzen nicht respektiert werden, oder 6) Du Jahre wartest und nichts ändert sich."
 ---## Was ist Commitment Phobia wirklich?
 
 Commitment Phobia ist nicht dasselbe wie "Ich bin nicht bereit für eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/)". Es ist eine tiefere, irrationale Angst vor dem Konzept der Bindung selbst.

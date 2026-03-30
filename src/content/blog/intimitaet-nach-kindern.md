@@ -1,7 +1,7 @@
 ---
 title: "Intimität als Eltern: So bleibt ihr ein Paar"
 description: "Kinder verändern alles — auch die Beziehung und Intimität. Praktische Strategien, wie ihr eure Verbindung bewahrt und weiterhin ein Liebespaar bleibt."
-date: "2025-09-11"
+date: 2025-09-11
 image: "/images/photos/intimitaet-nach-kindern.webp"
 tags:
   - "Elternschaft"

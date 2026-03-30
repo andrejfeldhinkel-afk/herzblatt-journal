@@ -1,6 +1,7 @@
 ---
 title: "Grenzen setzen in der Beziehung: Warum es Liebe stärkt statt"
 description: "Gesunde Grenzen sind das Fundament jeder starken Beziehung. Lerne, wie du deine Bedürfnisse kommunizierst, ohne deinen Partner zu verletzen."
+date: 2025-10-23
 tags:
   - "Beziehungen"
   - "Kommunikation"

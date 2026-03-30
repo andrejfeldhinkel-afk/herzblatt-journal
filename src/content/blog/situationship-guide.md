@@ -1,13 +1,10 @@
 ---
-title: Situationship Guide
-description: ''
-date: '2026-03-01'
-updated: '2026-03-01'
-tags: []
-draft: true
----
-
----
+title: "Situationship: Zwischen Freundschaft und Beziehung"
+description: "Situationship: Lerne die Warnsignale zu erkennen und finde Klarheit in dieser Grauzone zwischen Freundschaft und Beziehung."
+date: 2025-08-20
+tags: ["Beziehungstipps", "Dating", "Ratgeber"]
+image: "/images/photos/situationship-guide.webp"
+draft: false
 ---
 ## Situationship – Was tun, wenn es mehr als Freundschaft aber keine beziehung ist?
 

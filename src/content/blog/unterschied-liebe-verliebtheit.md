@@ -1,6 +1,7 @@
 ---
 title: "Liebe vs. Verliebtheit – Der entscheidende Unterschied"
 description: "Liebe vs. Verliebtheit: Der entscheidende Unterschied. Bist du verliebt oder liebst du wirklich? Erkenne echte, wahre Liebe."
+date: 2025-12-15
 tags:
   - "Psychologie"
   - "Liebe"

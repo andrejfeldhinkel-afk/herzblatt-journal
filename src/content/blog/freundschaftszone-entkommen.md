@@ -1,6 +1,7 @@
 ---
 title: "Friendzone entkommen – Geht das überhaupt?"
 description: "Friendzone entkommen: Erfahre, ob und wie du der Freundschaftszone entkommen kannst und wann es besser ist, loszulassen."
+date: 2025-10-10
 tags:
   - "Dating-Tipps"
   - "Ratgeber"

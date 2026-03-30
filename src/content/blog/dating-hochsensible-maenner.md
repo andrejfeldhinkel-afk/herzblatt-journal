@@ -1,6 +1,7 @@
 ---
 title: "Dating als hochsensibler Mann: Tiefe statt Fassade"
 description: "HSP-Dating für Männer: Lerne, deine Sensibilität als Stärke beim Dating zu nutzen. Mit praktischen Tipps für erfolgreiche Beziehungen!"
+date: 2025-06-06
 tags:
   - "Dating-Tipps"
   - "Psychologie"

@@ -1,6 +1,7 @@
 ---
 title: "Date-Gespräche die nie langweilig werden: 100 Fragen und"
 description: "Date-Gespräche die begeistern: 100 Fragen, 10 Gesprächstechniken und die Kunst, beim Date eine echte Verbindung aufzubauen die in Erinnerung bleibt."
+date: 2025-04-18
 tags:
   - "Dating"
   - "Flirten"
@@ -21,7 +22,7 @@ faq:
   - question: "Was sind gute Gesprächsthemen fürs erste Date?"
     answer: "Reisen, Leidenschaften, lustige Kindheitserinnerungen, Zukunftsträume und Food. Vermeide anfangs: Ex-Partner, Gehalt, Politik und Krankheiten. Die goldene Regel: Alles was die Augen zum Leuchten bringt."
   - question: "Was tun wenn das Gespräch ins Stocken gerät?"
-    answer: "Drei Rettungsanker: 1) Beobachte etwas in der Umgebung und kommentiere es. 2) Greife ein früheres Thema auf ("
+    answer: "Drei Rettungsanker: 1) Beobachte etwas in der Umgebung und kommentiere es. 2) Greife ein früheres Thema auf ('Du hast vorhin gesagt...'). 3) Teile etwas Persönliches — Verletzlichkeit öffnet Türen."
   - question: "Wie tief sollte man beim ersten Date gehen?"
     answer: "Tiefe entsteht nicht durch schwere Themen, sondern durch echtes Interesse und Verletzlichkeit. Eine persönliche Geschichte oder eine ehrliche Meinung ist perfekt. Eine Therapiesitzung ist es nicht."
   - question: "Muss ich besonders witzig oder smart sein?"

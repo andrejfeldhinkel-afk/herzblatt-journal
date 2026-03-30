@@ -1,6 +1,7 @@
 ---
 title: "Relationship OCD (ROCD) — Wenn Zweifel zur Qual werden"
 description: "Verstehe Relationship OCD: Die Zwangsstörung, die deine Beziehung in Frage stellt. Symptome, Unterschiede zu normalen Zweifeln, und Wege zur Heilung."
+date: 2025-12-15
 author: "thomas-peters"
 draft: false
 tags:

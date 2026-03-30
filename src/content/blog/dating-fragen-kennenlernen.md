@@ -1,6 +1,7 @@
 ---
 title: "50 Fragen zum Kennenlernen – Für tiefere Gespräche beim"
 description: "50 Fragen zum Kennenlernen: Die besten Fragen von Smalltalk bis Tiefgang für echte, unvergessliche und bedeutungsvolle Gespräche."
+date: 2025-05-28
 tags:
   - "Dating-Tipps"
   - "Kommunikation"

@@ -1,6 +1,7 @@
 ---
 title: "Dating ab 50: Der komplette Guide für die Liebe in der"
 description: "Dating ab 50 leicht gemacht: Die besten Strategien, Apps und Tipps für die Partnersuche — damit du die Liebe findest, die du verdienst."
+date: 2025-04-22
 image: "/images/photos/dating-ab-50-kompletter-guide.webp"
 tags:
   - "Dating"

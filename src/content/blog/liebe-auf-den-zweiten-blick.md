@@ -1,6 +1,7 @@
 ---
 title: "Liebe auf den zweiten Blick – Warum langsame Liebe stärker"
 description: "Liebe auf den zweiten Blick: Warum langsam wachsende Gefühle oft zu den stärksten und besten Beziehungen führen — neurobiologisch erklärt."
+date: 2025-11-19
 tags:
   - "Liebe"
   - "Psychologie"

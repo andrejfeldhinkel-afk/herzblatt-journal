@@ -1,6 +1,7 @@
 ---
 title: "Valentinstag: 15 Date-Ideen die mehr als Blumen sagen"
 description: "Kreative Valentinstag-Date-Ideen statt Standard-Dinner: DIY-Geschenke, Erlebnisse, Budget-Ideen und Last-Minute-Alternativen für Paare."
+date: 2025-12-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

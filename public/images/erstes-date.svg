@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFB6D9"/>
+      <stop offset="100%" style="stop-color:#FF9AB8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="500" fill="url(#bg1)"/>
+  <circle cx="200" cy="100" r="150" fill="white" opacity="0.08"/>
+  <circle cx="1000" cy="400" r="200" fill="white" opacity="0.06"/>
+  <circle cx="600" cy="250" r="80" fill="white" opacity="0.1"/>
+  
+  <!-- Coffee cup -->
+  <path d="M 500 200 L 520 200 Q 530 200 530 210 L 530 330 Q 530 340 520 340 L 500 340 Q 490 340 490 330 L 490 210 Q 490 200 500 200 Z" fill="white" stroke="#FF9AB8" stroke-width="3"/>
+  <rect x="480" y="320" width="70" height="15" rx="7" fill="#FF9AB8"/>
+  <path d="M 540 250 Q 560 245 560 265 Q 560 285 540 280" fill="none" stroke="white" stroke-width="3"/>
+  
+  <!-- Heart in coffee -->
+  <path d="M 510 260 Q 510 250 520 250 Q 530 250 520 260 Q 530 270 520 280 Q 510 270 510 260" fill="#FF1493" opacity="0.8"/>
+  <circle cx="520" cy="265" r="12" fill="#FF1493"/>
+  
+  <!-- Decorative hearts -->
+  <circle cx="380" cy="150" r="15" fill="white" opacity="0.2"/>
+  <circle cx="680" cy="200" r="20" fill="white" opacity="0.15"/>
+  <circle cx="750" cy="350" r="12" fill="white" opacity="0.18"/>
+  
+  <!-- Pattern dots -->
+  <circle cx="100" cy="450" r="3" fill="white" opacity="0.2"/>
+  <circle cx="300" cy="50" r="2" fill="white" opacity="0.15"/>
+  <circle cx="900" cy="100" r="4" fill="white" opacity="0.15"/>
+  <circle cx="1100" cy="350" r="3" fill="white" opacity="0.2"/>
+</svg>

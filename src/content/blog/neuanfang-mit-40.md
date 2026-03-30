@@ -1,6 +1,7 @@
 ---
 title: "Neuanfang mit 40: Alles ist möglich — und so geht es"
 description: "Neuanfang mit 40: Karriere, Liebe und Selbstbewusstsein. Warum 40 der perfekte Zeitpunkt ist, dein Leben neu zu erfinden und wie du es machst."
+date: 2025-12-15
 image: "/images/photos/neuanfang-mit-40.webp"
 imageAlt: "Selbstbewusste Frau startet mit 40 neu durch"
 tags:

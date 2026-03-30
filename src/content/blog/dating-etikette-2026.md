@@ -1,6 +1,7 @@
 ---
 title: "Dating-Knigge 2026: Die neuen Regeln der modernen Liebe"
 description: "Modernes Dating-Etikette für 2026: Die neuen Regeln für Handy-Benehmen, Ghosting, Exclusivity, Nachrichtenverkehr und Social-Media-Verhalten."
+date: 2025-05-22
 tags:
   - "Dating-Tipps"
   - "Ratgeber"
@@ -18,9 +19,9 @@ faq:
   - question: "Ist es noch unhöflich, sich während eines Dates auf das Handy zu konzentrieren?"
     answer: "Ja, absolut. Handy auf dem Tisch ist 2026 weiterhin ein großes No-Go. Es signalisiert Desinteresse und mangelnden Respekt. Allenfalls kurze, notwendige Checks sind okay (z.B. Zeit zu prüfen), aber ständiges Scrollen oder Antworten auf Nachrichten ist unhöflich. Wenn dein Date dich nicht interessiert genug, um dein Handy zu ignorieren, dann fragst du dich wahrscheinlich, warum du überhaupt dort bist."
   - question: "Wer sollte beim ersten Date zahlen?"
-    answer: "Die moderne Etikette ist mehr Flexibilität. Der traditionelle Ansatz"
+    answer: "Die moderne Etikette ist mehr Flexibilität. Der traditionelle Ansatz 'Mann zahlt' ist veraltet. Fairere Optionen: Jeder zahlt für sich selbst, ihr teilt die Rechnung, oder derjenige, der eingeladen hat, zahlt. Wichtig: Macht es nicht zum großen Drama. Wenn jemand sagt 'Lass mich zahlen', akzeptiere es mit Freude und sage 'Danke', ohne dich schlecht zu fühlen. Beim nächsten Date kannst du anbieten zu zahlen."
   - question: "Ist Doppel-Texting in 2026 noch ein Tabu?"
-    answer: "Nein, die"
+    answer: "Nein, die 'Spielregeln' des Datings sind vorbei. Wenn du etwas Wichtiges mitteilen möchtest und die Person nicht antwortet, ist eine zweite Nachricht okay. Allerdings: Respektiere ihre Zeit und ihren Raum. Mehr als eine oder zwei Nachrichten ohne Antwort ist zu viel. Wenn sie auf deine Nachricht nach einigen Tagen nicht antwortet, ist wahrscheinlich nicht das Interesse vorhanden. Akzeptiere das und konzentriere dich auf Menschen, die deine Energie erwidern."
 ---
 ## Dating-Knigge 2026: Die neuen Regeln der modernen Liebe
 

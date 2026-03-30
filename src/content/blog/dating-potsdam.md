@@ -1,7 +1,7 @@
 ---
 title: "Dating in Potsdam: Schlösser und Romantik"
 description: "Dating in Potsdam: Schlösser und Romantik. Märchenschlösser, Seen und königliche Eleganz — die perfekte Dating-Destination neben Berlin."
-date: "2025-07-02"
+date: 2025-07-02
 image: "/images/photos/dating-potsdam.webp"
 tags:
   - "dating"

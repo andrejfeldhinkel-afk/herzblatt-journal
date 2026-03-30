@@ -1,6 +1,7 @@
 ---
 title: "Erste Liebe vergessen – Wie du endlich loslassen kannst"
 description: "Die erste Liebe vergessen ist schwer. Erfahre bewährte Strategien, um loszulassen und dich für neue Beziehungen zu öffnen."
+date: 2025-09-18
 tags:
   - "Liebeskummer"
   - "Psychologie"

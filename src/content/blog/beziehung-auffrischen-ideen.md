@@ -1,6 +1,7 @@
 ---
 title: "Beziehung auffrischen: 30 kreative Ideen"
 description: "Beziehung eingefahren? 30 kreative Ideen, um Schwung, Romantik und Nähe zurück in eure Partnerschaft zu bringen."
+date: 2025-01-28
 tags:
   - "Beziehungstipps"
   - "Date-Ideen"

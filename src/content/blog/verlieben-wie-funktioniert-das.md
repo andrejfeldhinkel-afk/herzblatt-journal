@@ -1,7 +1,7 @@
 ---
 title: "Wie verlieben wir uns? Die Psychologie"
 description: "Die Wissenschaft hinter der Liebe: Von Dopamin über die Bindungstheorie bis zu den Phasen des Verliebens. Verstehe, wie Liebe tatsächlich funktioniert."
-date: "2025-12-06"
+date: 2025-12-06
 image: "/images/photos/verlieben-wie-funktioniert-das.webp"
 tags:
   - "Psychologie"

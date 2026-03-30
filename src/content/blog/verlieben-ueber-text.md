@@ -1,6 +1,7 @@
 ---
 title: "Kann man sich über Textnachrichten verlieben?"
 description: "Verlieben über Text — geht das wirklich? Erfahre was die Psychologie sagt, warum es gefährlich sein kann und wann es zu echter Liebe führt."
+date: 2025-12-15
 image: "/images/photos/verlieben-ueber-text.webp"
 imageAlt: "Verliebte Textnachrichten auf dem Handy"
 tags:

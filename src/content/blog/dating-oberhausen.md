@@ -1,6 +1,7 @@
 ---
 title: "Dating in Oberhausen: Die besten Orte, Tipps & Hotspots"
 description: "Oberhausen Dating-Guide: Trendige Bars, gute Restaurants und beste Single-Szene der Ruhrgebiet-Stadt. Deine praktischen Dating-Tipps!"
+date: 2025-07-26
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"
@@ -17,7 +18,7 @@ faq:
   - question: "Wo treffen sich junge Menschen in Oberhausen?"
     answer: "Das Zentrum rund um die Fußgängerzone ist zentral. Das CentrO Shopping-Center hat Restaurants und Bars. Die Gegend um die Lippe ist naturbeladen."
   - question: "Gibt es gute Restaurants und Bars?"
-    answer: "'Zum Anker"
+    answer: "'Zum Anker' bietet traditionelle Ruhrgebiet-Küche. 'Ufo' ist modern und trendy. 'Kaffeehaus Bremen' ist gemütlich und stylisch."
   - question: "Was kann man außer Essen unternehmen?"
     answer: "Das Gasometer besuchen. Spaziergang entlang der Lippe. Kunstmuseen erkunden. Fahrradtouren im Ruhrgebiet. Theater-Aufführungen."
   - question: "Wie ist die Dating-Kultur in Oberhausen?"

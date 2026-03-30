@@ -1,7 +1,7 @@
 ---
 title: "Dating München: Die besten Locations für Singles"
 description: "Entdecke 25 perfekte Date-Locations in München: Cafés, Parks, Bars & Events. Dein Guide zur Münchner Dating-Szene für unvergessliche Treffen."
-date: "2025-06-10"
+date: 2025-06-10
 image: "/images/photos/dating-muenchner-singles.webp"
 tags:
   - "Dating"

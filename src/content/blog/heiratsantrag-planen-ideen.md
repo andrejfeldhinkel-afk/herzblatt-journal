@@ -1,7 +1,7 @@
 ---
 title: "Heiratsantrag planen: 30 romantische Ideen"
 description: "30 inspirierende Heiratsantrag-Ideen von klassisch bis abenteuerlich. Perfekt für deinen großen Moment mit professionellen Tipps."
-date: "2025-09-02"
+date: 2025-09-02
 image: "/images/photos/heiratsantrag-planen-ideen.webp"
 tags:
   - "Heiratsantrag"

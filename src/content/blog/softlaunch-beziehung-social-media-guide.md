@@ -1,6 +1,7 @@
 ---
 title: "Softlaunch einer Beziehung: Die neue Art, Liebe auf Social"
 description: "Softlaunching ist das neue Datinglevel. Wir zeigen dir, was es bedeutet, wie du es richtig machst, und wann ein Hardlaunch Zeit wird."
+date: 2025-12-15
 author: "laura-weber"
 image: "/images/blog/softlaunch-beziehung-social-media-guide.webp"
 draft: false
@@ -19,7 +20,7 @@ faq:
   - question: "Was ist Softlaunching einer Beziehung?"
     answer: "Softlaunching bedeutet, die neue Beziehung schrittweise und subtil auf Social Media zu teilen, statt eine große Ankündigung zu machen. Du zeigst deinen Partner oder deine Partnerin indirekt — durch Bilder, auf denen nur eine Hand, der Schatten oder die Beine zu sehen sind, oder du taggst die gemeinsame Location, ohne dass dein Gegenüber direkt erkennbar ist."
   - question: "Warum ist Softlaunching so beliebt geworden?"
-    answer: "Gen Z und junge Millennials nutzen Softlaunching aus mehreren Gründen: Es gibt Zeit, um sicherzustellen, dass die Beziehung stabil ist, bevor die Social-Media-Welt Meinungen bildet. Es reduziert auch den Druck und die Erwartungen anderer Menschen und bietet einen sanfteren Übergang von"
+    answer: "Gen Z und junge Millennials nutzen Softlaunching aus mehreren Gründen: Es gibt Zeit, um sicherzustellen, dass die Beziehung stabil ist, bevor die Social-Media-Welt Meinungen bildet. Es reduziert auch den Druck und die Erwartungen anderer Menschen und bietet einen sanfteren Übergang von 'Single' zu 'In a Relationship'."
   - question: "Welche Vorteile hat das Softlaunching?"
     answer: "Die Hauptvorteile sind der Schutz deiner Privatsphäre, weniger externe Erwartungen und Druck, Zeit, um zu testen, ob die Beziehung haltbar ist, und eine kreativere, spielerischere Art, deine Partnerschaft zu dokumentieren. Es fühlt sich auch weniger performativ an als ein klassisches Couple-Post."
   - question: "Wann sollte ich von Softlaunch zu Hardlaunch übergehen?"

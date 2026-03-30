@@ -1,6 +1,7 @@
 ---
 title: "Dating in Basel: Die besten Orte & Tipps für Singles"
 description: "Basel Dating-Guide: Kulturelle Highlights, romantische Orte am Rhein & Münster, coole Cafés und Bars. Dein perfektes Dating-Abenteuer!"
+date: 2025-05-10
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

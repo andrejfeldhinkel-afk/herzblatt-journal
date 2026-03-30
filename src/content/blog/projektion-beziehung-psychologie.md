@@ -1,7 +1,7 @@
 ---
 title: "Projektion in Beziehungen verstehen und stoppen"
 description: "Projektion in Beziehungen: Erkenne, wie du deine Unsicherheiten auf deinen Partner projizierst und stoppe dieses Muster psychologisch."
-date: "2025-10-26"
+date: 2025-10-26
 image: "/images/photos/projektion-beziehung-psychologie.webp"
 tags:
   - "Psychologie"

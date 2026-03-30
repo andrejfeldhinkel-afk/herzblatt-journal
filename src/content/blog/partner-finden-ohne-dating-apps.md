@@ -1,7 +1,7 @@
 ---
 title: "Partner finden ohne Dating-Apps: Offline"
 description: "Partner offline finden: Lerne traditionelle Wege, deinen Partner ohne Dating-Apps zu treffen. Mit praktischen und bewährten Strategien!"
-date: "2025-10-17"
+date: 2025-10-17
 image: "/images/photos/partner-finden-ohne-dating-apps.webp"
 tags:
   - "dating"

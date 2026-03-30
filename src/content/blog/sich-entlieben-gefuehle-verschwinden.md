@@ -1,6 +1,7 @@
 ---
 title: "Sich entlieben: Wenn die Gefühle für den Partner"
 description: "Du merkst, dass deine Gefühle nachlassen? Erfahre warum man sich entliebt, ob die Liebe zurückkommen kann und wann es Zeit ist loszulassen."
+date: 2025-12-15
 image: "/images/photos/sich-entlieben-gefuehle-verschwinden.webp"
 tags:
   - "Beziehung"
@@ -22,7 +23,7 @@ faq:
   - question: "Können die Gefühle zurückkommen?"
     answer: "In vielen Fällen ja — besonders wenn die Entliebung durch Stress, Routine oder Vernachlässigung der Beziehung entstanden ist. Es braucht aber aktive Arbeit von beiden Seiten."
   - question: "Wie sage ich meinem Partner, dass ich nichts mehr fühle?"
-    answer: "Sei ehrlich, aber einfühlsam. Sprich aus der Ich-Perspektive:"
+    answer: "Sei ehrlich, aber einfühlsam. Sprich aus der Ich-Perspektive: 'Ich merke, dass sich bei mir etwas verändert hat.' Vermeide Schuldzuweisungen. Ein ruhiger, privater Moment ist wichtig."
   - question: "Entlieben sich Männer und Frauen unterschiedlich?"
     answer: "Der Prozess ist ähnlich, aber Männer bemerken den Verlust oft später, weil sie weniger auf ihre Gefühle achten. Frauen spüren es meist früher, weil sie emotional aufmerksamer sind."
 ---

@@ -1,6 +1,7 @@
 ---
 title: "10 Dating-Fehler, die Männer ständig machen (und wie du sie"
 description: "Von zu viel Druck bis zu fehlender Initiative — diese typischen Dating-Fehler kosten dich Chancen. So machst du es besser."
+date: 2025-05-26
 tags:
   - "Dating-Tipps"
   - "Ratgeber"
@@ -16,7 +17,7 @@ faq:
   - question: "Sollte ich beim ersten Date zahlen?"
     answer: "Es ist ein nettes Geste, aber nicht zwingend. Im modernen Dating ist es üblich, dass jeder zahlt oder ihr teilt. Das Wichtigste ist, es nicht zu großen Drama zu machen."
   - question: "Wie schnell sollte ich nach dem ersten Date melden?"
-    answer: "Schreib ihr innerhalb von 1-2 Tagen, wenn du Interesse hast. Zu schnell wirkt bedürftig, zu langsam verliert sie Interesse. Ein einfaches"
+    answer: "Schreib ihr innerhalb von 1-2 Tagen, wenn du Interesse hast. Zu schnell wirkt bedürftig, zu langsam verliert sie Interesse. Ein einfaches 'Mir hat's mit dir gefallen' reicht."
   - question: "Ist es okay, ehrlich zu sagen, dass ich nervös bin?"
     answer: "Ja, das macht dich sympathischer. Ehrlichkeit schafft Vertrauen. Aber sei nicht der ganze Abend nervös — versuche, dich zu entspannen und präsent zu sein."
   - question: "Wie gehe ich damit um, wenn sie nicht interessiert ist?"

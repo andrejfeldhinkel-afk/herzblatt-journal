@@ -1,6 +1,7 @@
 ---
 title: "Die 5 Sprachen der Liebe im Alltag"
 description: "Die 5 Sprachen der Liebe: Verstehe und nutze sie, um deine Beziehung zu vertiefen und deine Partnerin oder deinen Partner zu verstehen."
+date: 2025-12-02
 tags:
   - "Beziehung"
   - "Kommunikation"

@@ -1,6 +1,7 @@
 ---
 title: "Schmetterlinge im Bauch – Was dahinter steckt was sie"
 description: "Was bedeuten Schmetterlinge im Bauch wirklich? Die Wissenschaft hinter dem Verliebtsein und warum dieses Gefühl nicht immer Liebe bedeutet."
+date: 2025-12-15
 tags:
   - "Psychologie"
   - "Liebe"

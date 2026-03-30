@@ -1,6 +1,7 @@
 ---
 title: "Gefühle gestehen: 8 praktische Tipps für Liebe und Mut"
 description: "Wie du deine Gefühle gestehen kannst – konkrete Tipps gegen Angst vor Ablehnung, die richtige Vorbereitung und mutige erste Worte."
+date: 2025-10-16
 tags:
   - "Gefühle gestehen"
   - "Liebe gestehen Tipps"

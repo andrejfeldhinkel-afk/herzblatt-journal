@@ -1,6 +1,7 @@
 ---
 title: "Dating nach einer Langzeitbeziehung: Ein kompletter Neustart"
 description: "Dating nach Langzeitbeziehung: Lerne, wie du wieder ins Dating-Leben startest und einen erfolgreichen Neuanfang schaffst. Ein praktischer Ratgeber."
+date: 2025-07-18
 tags:
   - "Dating"
   - "Psychologie"

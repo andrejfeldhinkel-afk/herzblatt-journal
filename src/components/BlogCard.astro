@@ -14,11 +14,14 @@ interface Props {
 const { title, description, date: rawDate, tags, slug, readingTime, featured = false, image, imageAlt } = Astro.props;
 
 const date = rawDate ? (rawDate instanceof Date ? rawDate : new Date(rawDate)) : null;
-const formattedDate = date && !isNaN(date.getTime()) ? new Intl.DateTimeFormat('de-DE', {
-  year: 'numeric',
-  month: 'long',
-  day: 'numeric',
-}).format(date) : '';
+
+const formattedDate = date && !isNaN(date.getTime())
+  ? new Intl.DateTimeFormat('de-DE', {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric',
+    }).format(date)
+  : '';
 ---
 
 <article

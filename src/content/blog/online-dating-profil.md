@@ -1,6 +1,7 @@
 ---
 title: "So erstellst du ein Dating-Profil, das wirklich auffällt"
 description: "Dating-Profil erstellen: Dein Profil ist deine Visitenkarte. So machst du es richtig — von Fotos bis zur perfekten Bio für maximale Matches."
+date: 2025-12-15
 tags:
   - "Online-Dating"
   - "Dating-Tipps"
@@ -18,7 +19,7 @@ faq:
   - question: "Was sollte ich in meiner Bio schreiben?"
     answer: "Schreib 3-4 Sätze, die zeigen, wer du bist: eine Eigenschaft, deine Hobbys/Interessen, und was du suchst. Sei spezifisch und authentisch statt generisch."
   - question: "Wie schreibe ich die beste erste Nachricht?"
-    answer: "Beziehe dich auf etwas aus seinem/ihrem Profil und stelle eine offene Frage. Vermeide generische Opener wie"
+    answer: "Beziehe dich auf etwas aus seinem/ihrem Profil und stelle eine offene Frage. Vermeide generische Opener wie 'Hey'. Zeige echtes Interesse und Persönlichkeit."
   - question: "Welche Dating-App ist die beste?"
     answer: "Die beste App ist die, wo deine Zielgruppe aktiv ist. Probiere verschiedene aus und schaue, wo du die meisten echten Matches mit guter Chemie findest."
 ---

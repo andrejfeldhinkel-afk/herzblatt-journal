@@ -1,6 +1,7 @@
 ---
 title: "Dating mit Behinderung: Liebe finden mit Authentizität"
 description: "Dating mit Behinderung: Liebe finden mit Authentizität. Tipps und Strategien für erfüllende Beziehungen und echte Verbindung."
+date: 2025-06-25
 tags:
   - "Dating-Tipps"
   - "Selbstliebe"
@@ -20,7 +21,7 @@ faq:
   - question: "Was ist, wenn mein Datum meine Behinderung merkwürdig findet?"
     answer: "Das ist ihr Unsicherheit oder Ignoranz, nicht dein Problem. Sie verdienen jemanden, der dich und deine ganze Person akzeptiert. Es ist okay, weiterzugehen."
   - question: "Wie gehe ich mit Pity oder Inspiration-Porn um?"
-    answer: "Seien Sie direkt."
+    answer: "Seien Sie direkt. 'Ich bin nicht hier, um inspiriert zu werden. Ich bin hier, um dich kennenzulernen.' Die richtige Person wird Sie als gleichwertig sehen."
 ---
 Dating mit einer Behinderung bringt einzigartige Herausforderungen. Sie müssen möglicherweise über Ihre Behinderung sprechen. Sie könnten auf Ablehnung oder Fetischisierung treffen. Sie könnten Fragen über Ihre Fähigkeit zu Sex haben. Aber Sie verdienen Liebe, Verbindung und erfüllte Beziehungen, genau wie jeder andere. In diesem Leitfaden erfahren Sie, wie Sie authentisch datierten mit einer Behinderung.
 

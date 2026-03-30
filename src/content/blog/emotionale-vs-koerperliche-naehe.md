@@ -1,6 +1,7 @@
 ---
 title: "Emotionale vs. körperliche Nähe: Warum beides zählt"
 description: "Emotionale und körperliche Nähe sind unterschiedlich – doch beides ist essentiell für eine erfüllte Beziehung. Hier erfährst du den Unterschied."
+date: 2025-09-13
 image: "/images/photos/emotionale-vs-koerperliche-naehe.webp"
 imageAlt: "Emotionale und körperliche Verbindung im Vergleich"
 tags:
@@ -25,7 +26,7 @@ faq:
   - question: "Was ist der Unterschied zwischen Sex und Liebe machen?"
     answer: "Sex kann mechanisch und lustorientiert sein. Liebe machen ist Sex mit emotionaler Verbindung – gegenseitiger Aufmerksamkeit, Zärtlichkeit und dem Gefühl, wirklich gesehen zu werden. Beides hat seinen Platz."
   - question: "Kann man zu viel emotionale Nähe ohne körperliche haben?"
-    answer: "Ja, das führt oft zu Frustration. Zu viel"
+    answer: "Ja, das führt oft zu Frustration. Zu viel 'herzlich' ohne 'körperlich' kann sich für den körperlich willigeren Partner einsam anfühlen. Balance ist wichtig – auch wenn diese für jedes Paar anders aussieht."
 ---
 Stellt euch vor: Du sitzt mit deinem Partner auf der Couch. Ihr unterhaltet euch tiefgründig über Träume, Ängste, Hoffnungen. Ihr fühlt euch wirklich verstanden. Das ist emotionale Nähe – und es fühlt sich wunderbar an.
 

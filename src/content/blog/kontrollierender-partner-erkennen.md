@@ -1,6 +1,7 @@
 ---
 title: "Kontrollierender Partner: 20 Warnsignale und wie du dich"
 description: "Kontrollierender Partner? Erkenne die subtilen und offensichtlichen Warnzeichen, verstehe die Psychologie dahinter und finde deinen Weg in die Freiheit."
+date: 2025-11-13
 image: "/images/photos/kontrollierender-partner-erkennen.webp"
 tags:
   - "Beziehung"

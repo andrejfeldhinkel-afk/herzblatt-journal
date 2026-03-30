@@ -1,6 +1,7 @@
 ---
 title: "Grenzen setzen: Liebe mit Selbstschutz"
 description: "Grenzen setzen in der Beziehung: Gesunde Grenzen sind essentiell. Lerne, Grenzen zu setzen, ohne deine Liebe zu gefährden."
+date: 2025-03-04
 tags:
   - "Beziehung"
   - "Kommunikation"

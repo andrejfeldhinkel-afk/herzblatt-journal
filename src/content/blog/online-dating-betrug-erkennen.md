@@ -1,6 +1,7 @@
 ---
 title: "Online Dating Betrug erkennen: Warnsignale einer Romance"
 description: "Romance Scam und Online Dating Betrug erkennen: Praktische Tipps, Warnsignale und Schutzmaßnahmen vor Liebe Scamming und Fake Profilen."
+date: 2025-12-15
 tags:
   - "Romance Scam"
   - "Online Dating Sicherheit"

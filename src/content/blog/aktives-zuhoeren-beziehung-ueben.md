@@ -1,6 +1,7 @@
 ---
 title: "Aktives Zuhören üben: Besser verstehen in 7 Schritten"
 description: "Aktives Zuhören Technik: Wie du deinem Partner wirklich zuhörst und eure Beziehung vertiefst"
+date: 2025-01-17
 image: "/images/photos/aktives-zuhoeren-beziehung-ueben.webp"
 imageAlt: "Empathisches Zuhören in der Partnerschaft"
 tags:
@@ -24,7 +25,7 @@ faq:
   - question: "Wie oft sollten wir aktiv miteinander reden?"
     answer: "Ideal sind regelmäßige Gesprächszeiten — mindestens zwei bis drei Mal pro Woche, wenn möglich täglich. Nicht tiefe Diskussionen jedes Mal, aber bewusstes Zuhören bei dem, was der andere mitteilt."
   - question: "Was mache ich, wenn ich während des Zuhörens merke, dass ich unrecht habe?"
-    answer: "Sag es ehrlich:"
+    answer: "Sag es ehrlich: 'Ich merke gerade, dass ich das falsch verstanden habe' oder 'Du hast recht, ich sehe das jetzt anders.' Das ist nicht schwach, das ist integer. Und es zeigt, dass du wirklich zuhörst — auch auf dich selbst."
   - question: "Ist aktives Zuhören nicht anstrengend?"
     answer: "Am Anfang ja. Es ist eine neue Fähigkeit. Aber je öfter du es übst, desto natürlicher wird es. Und am Ende ist es viel weniger anstrengend als ständige Missverständnisse und Konflikte."
 ---

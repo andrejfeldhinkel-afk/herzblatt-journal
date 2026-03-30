@@ -1,6 +1,7 @@
 ---
 title: "Männer und Gefühle: Warum emotionale Offenheit keine"
 description: "Männer und Gefühle zeigen: Warum Männer lernen müssen, emotional offen zu sein — und wie das Beziehungen und mentale Gesundheit transformiert."
+date: 2025-12-05
 tags:
   - "Psychologie"
   - "Beziehung"
@@ -19,7 +20,7 @@ featured: false
 author: "thomas-peters"
 faq:
   - question: "Warum fällt es Männern schwer, Gefühle zu zeigen?"
-    answer: "Jungs lernen früh:"
+    answer: "Jungs lernen früh: 'Sei stark, wein nicht, reiß dich zusammen.' Diese Konditionierung sitzt tief. Dazu kommt gesellschaftlicher Druck — Männer die Gefühle zeigen werden oft als schwach wahrgenommen."
   - question: "Wie kann ich als Mann lernen, emotionaler zu sein?"
     answer: "Beginne damit, Gefühle bei dir selbst zu benennen. Führe ein Gefühlstagebuch. Suche dir einen vertrauenswürdigen Menschen zum Üben. Und: Therapie ist kein Zeichen von Schwäche, sondern von Stärke."
   - question: "Wie unterstütze ich meinen Partner dabei, Gefühle zu zeigen?"

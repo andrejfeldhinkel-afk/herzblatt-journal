@@ -1,7 +1,7 @@
 ---
 title: "Toxische Beziehung erkennen: 15 Warnsignale"
 description: "Toxische Beziehung erkennen: Lerne die 15 Warnsignale und entdecke, wann es Zeit ist zu gehen. Ein praktischer Ratgeber zur Selbstschutz."
-date: "2025-11-16"
+date: 2025-11-16
 image: "/images/photos/toxische-beziehung-erkennen.webp"
 tags:
   - "beziehung"

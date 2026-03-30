@@ -1,7 +1,7 @@
 ---
 title: "Liebes-Vision-Board: Beziehung manifestieren"
 description: "Erschaffe dein ideales Liebesleben mit einem Vision Board. Psychologie, Schritt-für-Schritt Anleitung und praktische Übungen."
-date: "2025-10-02"
+date: 2025-10-02
 image: "/images/photos/liebes-vision-board-beziehung.webp"
 tags:
   - "Vision Board"

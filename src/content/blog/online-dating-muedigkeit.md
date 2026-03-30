@@ -1,6 +1,7 @@
 ---
 title: "Online-Dating-Müdigkeit: Wenn Swipen zur Last wird"
 description: "Du bist erschöpft vom Online-Dating? Erfahre, warum Dating-Müdigkeit entsteht und wie du die Freude am Kennenlernen zurückgewinnst."
+date: 2025-12-15
 tags:
   - "Online-Dating"
   - "Psychologie"

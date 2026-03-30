@@ -1,6 +1,7 @@
 ---
 title: "Verletzlichkeit in Beziehungen: Warum emotionale Offenheit"
 description: "Verletzlichkeit in Beziehungen lernen: Warum es Mut braucht, sich emotional zu öffnen — und wie genau das deine Partnerschaft transformiert."
+date: 2025-12-15
 tags:
   - "Beziehung"
   - "Psychologie"
@@ -25,7 +26,7 @@ faq:
   - question: "Was wenn mein Partner meine Verletzlichkeit ausnutzt?"
     answer: "Dann ist das ein ernstes Red Flag. Ein liebevoller Partner wird deine Offenheit mit Respekt und Empathie behandeln. Wenn jemand deine Verletzlichkeit gegen dich verwendet, ist das emotionaler Missbrauch — nicht deine Schuld."
   - question: "Ist Verletzlichkeit das Gleiche wie Schwäche?"
-    answer: "Nein, das Gegenteil. Brené Brown"
+    answer: "Nein, das Gegenteil. Brené Brown's Forschung zeigt: Verletzlichkeit ist die Geburtsstätte von Liebe, Zugehörigkeit, Freude und Mut. Es braucht mehr Stärke, sich emotional zu zeigen, als sich hinter einer Mauer zu verstecken."
 ---
 ## Verletzlichkeit in Beziehungen: Warum emotionale Offenheit der Schlüssel zu tiefer Liebe ist
 

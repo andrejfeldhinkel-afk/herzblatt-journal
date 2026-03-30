@@ -1,7 +1,7 @@
 ---
 title: "Liebeskummer überwinden: 15 Soforthilfen"
 description: "Liebeskummer sofort lindern: 15 konkrete Sofortmaßnahmen, Phasen verstehen, No-Contact-Regel, Selbstheilung starten."
-date: "2025-10-04"
+date: 2025-10-04
 image: "/images/photos/liebeskummer-schnell-ueberwinden.webp"
 tags:
   - "Liebeskummer"

@@ -1,6 +1,7 @@
 ---
 title: "Dating mit sozialer Angststörung"
 description: "Dating mit sozialer Angst: Praktische Tipps für Menschen mit Sozialangststörung zum erfolgreichen Dating und Beziehungsaufbau."
+date: 2025-06-29
 tags:
   - "Dating-Tipps"
   - "Ratgeber"

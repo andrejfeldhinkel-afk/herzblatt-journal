@@ -1,6 +1,7 @@
 ---
 title: "Zweites Date aber kein Kribbeln: Trotzdem weitermachen?"
 description: "Zweites Date und kein Kribbeln? Erfahre ob fehlende Schmetterlinge ein schlechtes Zeichen sind oder ob echte Liebe einfach langsamer wächst."
+date: 2025-12-15
 tags:
   - "Dating"
   - "Psychologie"

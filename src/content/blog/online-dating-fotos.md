@@ -1,6 +1,7 @@
 ---
 title: "Perfekte Fotos fürs Online-Dating: Der vollständige"
 description: "Online-Dating Fotos: Wähle die besten Bilder für dein Profil. Tipps für Lichtsetzung, Winkel, Authentizität und perfekte Bilder."
+date: 2025-12-15
 tags:
   - "Online-Dating"
   - "Dating-Tipps"

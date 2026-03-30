@@ -1,6 +1,7 @@
 ---
 title: "Dating-Müdigkeit 2024: Wenn Swipen keinen Spaß mehr macht"
 description: "Dating-Müdigkeit 2024: Wenn Swipen keinen Spaß mehr macht. Verstehe die Ursachen und gewinne die Freude am Kennenlernen zurück."
+date: 2025-07-01
 tags:
   - "Online-Dating"
   - "Psychologie"

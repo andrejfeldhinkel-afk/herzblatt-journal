@@ -1,6 +1,7 @@
 ---
 title: "Delusionship: Wenn du dir eine Beziehung einbildest, die es"
 description: "Delusionship erkennen und beenden: Warum wir uns Beziehungen einbilden, die nie existiert haben — und wie du zurück in die Realität findest."
+date: 2025-08-23
 image: "/images/photos/delusionship-eingebildete-beziehung.webp"
 tags:
   - "Dating"
@@ -21,7 +22,7 @@ faq:
   - question: "Was ist eine Delusionship?"
     answer: "Eine Delusionship ist eine Beziehung, die hauptsächlich in deinem Kopf existiert. Du interpretierst kleine Gesten, Nachrichten oder Blicke als Zeichen tiefer Zuneigung — obwohl die andere Person kein echtes romantisches Interesse zeigt."
   - question: "Woher kommt der Begriff Delusionship?"
-    answer: "Der Begriff ist ein Kofferwort aus"
+    answer: "Der Begriff ist ein Kofferwort aus 'delusion' (Wahnvorstellung) und 'relationship' (Beziehung). Er wurde durch TikTok und Social Media populär und beschreibt ein Phänomen, das es schon immer gab — nur hatte es vorher keinen Namen."
   - question: "Wie erkenne ich, dass ich in einer Delusionship stecke?"
     answer: "Typische Zeichen: Du investierst deutlich mehr als die andere Person, du interpretierst vieldeutige Signale immer positiv, du entschuldigst ständig ihr Verhalten, und deine Freunde sagen dir, dass du dir etwas einbildest."
   - question: "Ist eine Delusionship schädlich?"

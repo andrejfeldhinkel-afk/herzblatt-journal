@@ -1,7 +1,7 @@
 ---
 title: "Gesunde Beziehung führen: Der komplette Guide"
 description: "Beziehung führen: Der komplette Guide zu Kommunikation, Vertrauen, Intimität und wie ihr zusammen wachst. Alles was du wissen musst."
-date: "2025-02-03"
+date: 2025-02-03
 image: "/images/photos/beziehung-fuehren-kompletter-guide.webp"
 tags:
   - "Beziehungstipps"

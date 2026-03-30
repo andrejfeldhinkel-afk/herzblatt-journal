@@ -1,6 +1,7 @@
 ---
 title: "Fernbeziehung meistern: Tipps für eine starke Partnerschaft"
 description: "Fernbeziehung meistern: Long-Distance ist eine Herausforderung. Mit den richtigen Strategien und Kommunikation werden Fernbeziehungen sogar stärker."
+date: 2025-11-29
 tags:
   - "Beziehungen"
   - "Ratgeber"

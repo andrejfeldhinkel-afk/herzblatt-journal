@@ -1,6 +1,7 @@
 ---
 title: "Liebe und Geld: Wie Paare finanziell harmonieren"
 description: "Liebe und Finanzen: Geld ist Streitthema Nr. 1. So sprecht ihr offen über Geld, plant gemeinsam und harmoniert finanziell."
+date: 2025-11-24
 tags:
   - "Beziehungen"
   - "Ratgeber"
@@ -17,7 +18,7 @@ faq:
   - question: "Sollten Paare alle Finanzen teilen?"
     answer: "Das ist persönlich. Manche Paare teilen alles, andere halten Konten getrennt. Der Schlüssel ist, was beide Parteien sich wohlfühlen lässt und Transparenz."
   - question: "Wie beginne ich das Gespräch über Geld mit meinem Partner?"
-    answer: "Sei direkt und nicht wertend. Sag etwas wie:"
+    answer: "Sei direkt und nicht wertend. Sag etwas wie: 'Ich möchte mit dir über unsere Finanzen sprechen, damit wir auf dem gleichen Blatt sind.' Wähle einen entspannten Moment."
   - question: "Was tun, wenn mein Partner und ich unterschiedliche Finanz-Philosophien haben?"
     answer: "Versteht gegenseitig die Herkunft dieser Einstellungen. Findet einen Kompromiss, bei dem sich beide wohlfühlen. Ein Finanz-Berater kann auch helfen."
   - question: "Ist es okay, finanzielle Ungleichheit in einer Beziehung zu haben?"

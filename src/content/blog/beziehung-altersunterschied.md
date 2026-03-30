@@ -1,6 +1,7 @@
 ---
 title: "Beziehung mit großem Altersunterschied"
 description: "Beziehung mit großem Altersunterschied: Kann sie funktionieren? Die wichtigsten Tipps und was du wissen solltest für dein Glück."
+date: 2025-01-27
 tags:
   - "Beziehung"
   - "Ratgeber"

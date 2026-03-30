@@ -1,7 +1,7 @@
 ---
 title: "Beziehung nach 10 Jahren: Liebe neu entfachen"
 description: "Wie du nach einer Dekade Beziehung die Liebe neu entfachst. Strategien gegen Routine, Intimität bewahren und gemeinsame Ziele neu definieren."
-date: "2025-02-12"
+date: 2025-02-12
 image: "/images/photos/beziehung-nach-10-jahren.webp"
 tags:
   - "Beziehung"

@@ -1,7 +1,7 @@
 ---
 title: "Dating mit Unsicherheiten: Trotzdem mutig sein"
 description: "Wie du Dating trotz Körperunsicherheiten, Angst & Selbstzweifel bewältigst. Praktische Übungen für Selbstvertrauen."
-date: "2025-06-08"
+date: 2025-06-08
 image: "/images/photos/dating-mit-unsicherheiten.webp"
 tags:
   - "Dating"

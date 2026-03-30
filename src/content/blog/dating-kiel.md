@@ -1,7 +1,7 @@
 ---
 title: "Dating in Kiel: Meer, Hafen, Romantik"
 description: "Dating in Kiel: Maritimes Flair für perfekte Dates. Hafen, Strände und Segelabende nutzen — so verliebt man sich in der Hafenstadt."
-date: "2025-05-26"
+date: 2025-05-26
 image: "/images/photos/dating-kiel.webp"
 tags:
   - "dating"

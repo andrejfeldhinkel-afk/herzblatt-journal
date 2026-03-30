@@ -1,6 +1,7 @@
 ---
 title: "Interkulturell Daten: Liebe über Kulturgrenzen hinweg"
 description: "Ratgeber für interkulturelles Dating: Kulturelle Unterschiede, Kommunikationsstile und Tipps für erfolgreiche Beziehungen."
+date: 2025-06-17
 tags:
   - "Dating-Tipps"
   - "Ratgeber"

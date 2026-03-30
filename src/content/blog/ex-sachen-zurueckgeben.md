@@ -1,6 +1,7 @@
 ---
 title: "Ex Sachen zurückgeben: Wie, wann und was du beachten"
 description: "Ex Sachen zurückgeben: Praktischer Guide für Übergabe ohne Drama. Timing, Strategie und emotionale Vorbereitung für die Rückgabe von Gegenständen nach Trennung."
+date: 2025-09-28
 image: "/images/photos/ex-sachen-zurueckgeben.webp"
 imageAlt: "Karton mit persönlichen Gegenständen zum Zurückgeben"
 tags:

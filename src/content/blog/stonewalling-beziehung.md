@@ -1,7 +1,7 @@
 ---
 title: "Stonewalling: Wenn der Partner mauert"
 description: "Stonewalling in Beziehungen: Wenn dein Partner abschaltet. Erkenne Mauerbau-Verhalten und durchbreche die emotionale Abschottung mit Gottman-Methoden."
-date: "2025-11-10"
+date: 2025-11-10
 image: "/images/photos/stonewalling-beziehung.webp"
 tags:
   - "Kommunikation"

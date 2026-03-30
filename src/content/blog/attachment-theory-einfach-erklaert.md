@@ -1,6 +1,7 @@
 ---
 title: "Bindungstheorie einfach erklärt"
 description: "Bindungstheorie einfach erklärt: Verstehe, warum du so liebst und wie die Attachment-Theorie zu besseren Beziehungen führt."
+date: 2025-01-22
 tags:
   - "Psychologie"
   - "Ratgeber"

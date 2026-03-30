@@ -1,6 +1,7 @@
 ---
 title: "Die neuen Dating-Regeln 2026: Was wirklich funktioniert"
 description: "Moderne Dating-Regeln 2026: Vergiss veraltete Spielregeln. Entdecke, welche authentischen, modernen Ansätze wirklich zu erfolgreichen Dates führen."
+date: 2025-12-12
 tags:
   - "Dating-Tipps"
   - "Online-Dating"
@@ -16,7 +17,7 @@ draft: false
 featured: false
 faq:
   - question: "Sind die '3-Tage-Regel' und andere alte Regeln noch relevant?"
-    answer: "Nein. Die"
+    answer: "Nein. Die '3-Tage-Regel' ist veraltete Spielerei. Moderne Dating funktioniert besser mit Authentizität und Direktheit. Schreib, wenn du dich freust ihn/sie zu sehen."
   - question: "Wer sollte die erste Nachricht schreiben — das Geschlecht ist egal?"
     answer: "Richtig. Wer Interesse hat, schreibt. Geschlecht ist irrelevant. Die beste erste Nachricht kommt von jemandem, dem du wirklich gefällst."
   - question: "Ist es okay, über mehrere Menschen gleichzeitig zu daten?"

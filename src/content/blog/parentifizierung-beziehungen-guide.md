@@ -1,6 +1,7 @@
 ---
 title: "Parentifizierung: Wenn du als Kind die Elternrolle"
 description: "Parentifizierung erkennen und heilen: Wie die Rollenumkehr in deiner Kindheit deine Beziehungen als Erwachsener beeinflusst — und was du dagegen tun kannst."
+date: 2025-12-15
 image: "/images/photos/parentifizierung-beziehungen-guide.webp"
 tags:
   - "Psychologie"
@@ -23,7 +24,7 @@ faq:
   - question: "Welche Arten von Parentifizierung gibt es?"
     answer: "Es gibt zwei Hauptformen: Emotionale Parentifizierung (das Kind wird zum Therapeuten, Tröster oder Partner-Ersatz) und instrumentelle Parentifizierung (das Kind übernimmt Haushalt, Kochen, Geschwisterbetreuung). Emotionale Parentifizierung gilt als die schädlichere Form."
   - question: "Wie beeinflusst Parentifizierung meine Beziehungen?"
-    answer: "Parentifizierte Erwachsene neigen dazu, in Beziehungen die Helfer-Rolle zu übernehmen, die Bedürfnisse anderer über die eigenen zu stellen, Partner zu"
+    answer: "Parentifizierte Erwachsene neigen dazu, in Beziehungen die Helfer-Rolle zu übernehmen, die Bedürfnisse anderer über die eigenen zu stellen, Partner zu 'retten' statt gleichberechtigte Beziehungen zu führen, und sich nur wertvoll zu fühlen, wenn sie gebraucht werden."
   - question: "Kann man Parentifizierung heilen?"
     answer: "Ja, aber es braucht bewusste Arbeit. Der erste Schritt ist zu erkennen, dass du als Kind eine Last getragen hast, die nicht deine war. Therapie — besonders Schematherapie oder innere-Kind-Arbeit — kann helfen, die alten Muster aufzulösen und gesündere Beziehungsdynamiken zu entwickeln."
   - question: "Ist Parentifizierung eine Form von Kindesmissbrauch?"

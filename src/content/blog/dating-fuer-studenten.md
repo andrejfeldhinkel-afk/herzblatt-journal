@@ -1,6 +1,7 @@
 ---
 title: "Dating als Student: Campus, Clubs & Connections"
 description: "Dating als Student: Wie du Leute an der Uni kennenlernst, Budget-Dates planst und echte Liebe während des Studiums aufbaust."
+date: 2025-05-31
 tags:
   - "Dating-Tipps"
   - "Ratgeber"

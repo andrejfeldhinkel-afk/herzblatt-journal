@@ -1,7 +1,7 @@
 ---
 title: "Zusammenziehen: Tipps für den großen Schritt"
 description: "Zusammenziehen Tipps: Was du wissen musst, bevor ihr zusammenzieht. Praktische Ratschläge für ein gelungenes gemeinsames Leben."
-date: "2025-12-15"
+date: 2025-12-15
 image: "/images/photos/zusammenziehen-tipps.webp"
 tags:
   - "beziehung"

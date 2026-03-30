@@ -1,6 +1,7 @@
 ---
 title: "Dating-Tipps für schüchterne Frauen"
 description: "Dating-Tipps für schüchterne Frauen: Lerne, selbstbewusst und authentisch zu daten, ohne deine Persönlichkeit zu verändern."
+date: 2025-04-25
 tags:
   - "Dating-Tipps"
   - "Ratgeber"

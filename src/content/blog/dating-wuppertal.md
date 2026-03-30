@@ -1,6 +1,7 @@
 ---
 title: "Dating in Wuppertal: Die besten Orte, Tipps & Hotspots"
 description: "Wuppertal Dating-Guide: Stylische Bars, gute Restaurants und beste Single-Szene der Bergischen Stadt. Deine praktischen Dating-Tipps hier!"
+date: 2025-08-22
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"
@@ -17,7 +18,7 @@ faq:
   - question: "Wo treffen sich Singles in Wuppertal?"
     answer: "Die Altstadt (Elberfeld und Barmen) ist zentral. Die Gegend um die Kunsthalle ist trendy. Die Schwebebahn ist ikonisch und besonders."
   - question: "Gibt es gute Restaurants und Bars?"
-    answer: "'Brauhaus zur Post"
+    answer: "'Brauhaus zur Post' ist traditionell. 'Pelmeni' bietet russisches Flair. 'Café Extrablatt' ist gemütlich und trendy."
   - question: "Was kann man außer Essen unternehmen?"
     answer: "Mit der Schwebebahn fahren. Kunsthalle Wuppertal besuchen. Spaziergang durchs Tal. Theater-Besuche. Museums-Touren."
   - question: "Wie ist die Kulturszene in Wuppertal?"

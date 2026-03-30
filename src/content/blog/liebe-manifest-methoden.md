@@ -1,7 +1,7 @@
 ---
 title: "Liebe manifestieren: Methoden die wirken"
 description: "Wie du Liebe manifestierst: Vision Board, Affirmationen, innere Blockaden lösen, Journaling und praktische Übungen für echte Liebe."
-date: "2025-09-24"
+date: 2025-09-24
 image: "/images/photos/liebe-manifest-methoden.webp"
 tags:
   - "Liebe"

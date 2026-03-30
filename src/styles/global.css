@@ -76,19 +76,6 @@
   --code-bg: var(--color-surface-100);
 }
 
-:root.dark {
-  --bg: var(--color-surface-950);
-  --bg-card: var(--color-surface-900);
-  --bg-soft: var(--color-surface-800);
-  --text: var(--color-surface-100);
-  --text-muted: var(--color-surface-400);
-  --border: var(--color-surface-700);
-  --code-bg: var(--color-surface-800);
-  --color-primary-50: rgba(244, 63, 94, 0.08);
-  --color-primary-100: rgba(244, 63, 94, 0.15);
-  --color-primary-200: rgba(244, 63, 94, 0.25);
-}
-
 body {
   background-color: var(--bg);
   color: var(--text);
@@ -117,11 +104,11 @@ body {
 
 .prose h1 { font-size: 2.25rem; }
 .prose h2 { font-size: 1.625rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--color-primary-100); }
-.dark .prose h2 { border-bottom-color: var(--color-surface-700); }
+
 .prose h3 { font-size: 1.25rem; }
 .prose p { margin-bottom: 1.5em; color: var(--text); }
 .prose a { color: var(--color-primary-600); text-decoration: underline; text-underline-offset: 3px; }
-.dark .prose a { color: var(--color-primary-400); }
+
 .prose a:hover { color: var(--color-primary-700); }
 .prose strong { font-weight: 600; }
 
@@ -133,8 +120,6 @@ body {
   border-radius: 0 12px 12px 0;
   font-style: italic;
 }
-
-.dark .prose blockquote { background: var(--color-surface-800); }
 
 .prose code {
   background: var(--code-bg);
@@ -200,10 +185,6 @@ body {
   background: var(--color-primary-50);
 }
 
-.dark .prose tbody tr:hover {
-  background: var(--color-surface-800);
-}
-
 .prose tbody td {
   padding: 0.75rem 1rem;
   border-top: 1px solid var(--border);
@@ -247,6 +228,7 @@ html { scroll-behavior: smooth; }
 }
 
 .animate-fade-up { animation: fade-up 0.6s ease-out forwards; }
+
 .animate-float { animation: float 6s ease-in-out infinite; }
 
 .gradient-text {
@@ -260,8 +242,6 @@ html { scroll-behavior: smooth; }
   backdrop-filter: blur(16px) saturate(180%);
   background: rgba(255, 255, 255, 0.8);
 }
-
-.dark .glass { background: rgba(12, 10, 9, 0.8); }
 
 *:focus-visible {
   outline: 2px solid var(--color-primary-500);

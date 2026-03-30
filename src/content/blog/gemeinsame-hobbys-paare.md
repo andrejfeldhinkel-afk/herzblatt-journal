@@ -1,6 +1,7 @@
 ---
 title: "Gemeinsame Hobbys für Paare: 25 Aktivitäten, die eure"
 description: "Gemeinsame Hobbys für Paare: 25 Aktivitäten, die eure Beziehung stärken und gemeinsame Erinnerungen schaffen. Von sportlich bis kreativ."
+date: 2025-10-18
 tags:
   - "Beziehungen"
   - "Date-Ideen"

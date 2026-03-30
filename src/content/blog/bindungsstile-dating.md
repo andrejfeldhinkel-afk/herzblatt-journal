@@ -1,6 +1,7 @@
 ---
 title: "Bindungsstile im Dating: Warum du immer wieder an die"
 description: "Bindungsstile im Dating verstehen und endlich bessere Partner anziehen. Erfahre, welcher Bindungstyp du bist und wie du gesündere Beziehungen führst."
+date: 2025-04-05
 tags:
   - "Psychologie"
   - "Dating"

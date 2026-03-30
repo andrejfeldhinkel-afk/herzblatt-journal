@@ -1,6 +1,7 @@
 ---
 title: "Wenn die Eltern gegen die Beziehung sind"
 description: "Deine Eltern sind gegen deine Beziehung? Erfahre wie du damit umgehst, Grenzen setzt und trotzdem die Familie nicht verlierst."
+date: 2025-03-23
 tags:
   - "Beziehung"
   - "Psychologie"

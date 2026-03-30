@@ -1,6 +1,7 @@
 ---
 title: "Dating mit Kind: So gelingt die Partnersuche als"
 description: "Dating mit Kind ist komplex. Erfahre, wie du einen neuen Partner findest und eine Blended Family aufbaust."
+date: 2025-06-27
 image: "/images/photos/dating-mit-kind.webp"
 tags:
   - "Dating"
@@ -18,7 +19,7 @@ faq:
   - question: "Wann sollte ich mit Dating anfangen als alleinerziehender Elternteil?"
     answer: "Es gibt keine universale Antwort, aber die meisten Experten sagen: mindestens 6-12 Monate nach der Trennung. Du brauchst Zeit, um dich selbst wieder zu finden."
   - question: "Sollte ich mein Kind meinem Date sagen, bevor wir uns treffen?"
-    answer: "Ja, auf jeden Fall. Es ist unethisch, jemanden zu daten und dann überrascht zu sagen"
+    answer: "Ja, auf jeden Fall. Es ist unethisch, jemanden zu daten und dann überrascht zu sagen 'oh, ich habe übrigens ein Kind'. Honesty von Anfang an ist wichtig."
   - question: "Wann sollte mein Kind meinen neuen Partner kennenlernen?"
     answer: "Nicht vor 3-6 Monaten Dating und nicht bevor die Beziehung ernsthaft ist. Kinder sollten nicht mit jedem neuen Person deines Dating-Lebens konfrontiert werden."
   - question: "Wie gehe ich mit einem Ex um, der eifersüchtig auf meinen neuen Partner ist?"

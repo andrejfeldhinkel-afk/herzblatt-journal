@@ -1,6 +1,7 @@
 ---
 title: "Polyamorie: Grundlagen & Tipps für alternative"
 description: "Polyamorie Grundlagen: Verstehe alternative Beziehungsstrukturen, ethisches Leben, Kommunikation und Konfliktlösung in der Polyamorie."
+date: 2025-12-15
 tags:
   - "Beziehungen"
   - "Psychologie"

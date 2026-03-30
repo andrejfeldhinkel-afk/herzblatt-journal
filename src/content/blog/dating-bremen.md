@@ -1,6 +1,7 @@
 ---
 title: "Dating in Bremen: Die besten Orte, Tipps & Hotspots"
 description: "Bremen Dating-Guide: Schnoor, Schlachte, Bürgerpark & mehr. Maritimes Flair und beste Dating-Spots für dein Liebesleben in Bremen!"
+date: 2025-05-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

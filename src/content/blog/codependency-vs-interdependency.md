@@ -1,7 +1,7 @@
 ---
 title: "Abhängigkeit vs. gesunde Verbundenheit erkennen"
 description: "Codependency vs. Interdependenz: Wo endet gesunde Nähe und wo beginnt ungesunde Abhängigkeit? Praktische Hilfe zum Erkennen und Ändern von Co-Abhängigkeit."
-date: "2025-04-09"
+date: 2025-04-09
 image: "/images/photos/codependency-vs-interdependency.webp"
 tags:
   - "Co-Abhängigkeit"

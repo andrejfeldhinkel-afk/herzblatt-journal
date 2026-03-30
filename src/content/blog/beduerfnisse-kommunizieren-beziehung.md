@@ -1,7 +1,7 @@
 ---
 title: "Bedürfnisse kommunizieren ohne Vorwürfe"
 description: "Bedürfnisse kommunizieren ohne Vorwürfe: Deine Anforderungen und Wünsche ausdrücken, ohne Schuldgefühle oder Konflikte. Schritt-für-Schritt-Anleitung."
-date: "2025-02-01"
+date: 2025-02-01
 image: "/images/photos/beduerfnisse-kommunizieren-beziehung.webp"
 tags:
   - "Kommunikation"

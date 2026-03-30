@@ -1,7 +1,7 @@
 ---
 title: "Eifersucht bekämpfen: 10 wirksame Strategien"
 description: "Eifersucht bekämpfen: 10 wirksame Strategien. Verstehe deine Unsicherheiten und lerne praktische Techniken zur Bewältigung von Eifersucht."
-date: "2025-07-19"
+date: 2025-07-19
 image: "/images/photos/eifersucht-bekaempfen.webp"
 tags:
   - "beziehung"

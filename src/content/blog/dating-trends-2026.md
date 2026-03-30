@@ -1,6 +1,7 @@
 ---
 title: "Dating-Trends 2026: 10 wichtige Entwicklungen"
 description: "Dating-Trends 2026: Entdecke die 10 wichtigsten Entwicklungen von Clear-Coding bis Slow Dating und wie sie dein Liebesleben verändern."
+date: 2025-08-09
 tags:
   - "Dating-Tipps"
   - "Online-Dating"

@@ -1,7 +1,7 @@
 ---
 title: "Dating nach Gewaltbeziehung: Sicher neu starten"
 description: "Sicheres Dating nach Gewalt. Trigger erkennen, sichere Dates planen, rote Flaggen sofort sehen, Vertrauen aufbauen und Selbstschutz."
-date: "2025-06-16"
+date: 2025-06-16
 image: "/images/photos/dating-nach-gewaltbeziehung.webp"
 tags:
   - "Dating"

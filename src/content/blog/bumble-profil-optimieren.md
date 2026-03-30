@@ -1,7 +1,7 @@
 ---
 title: "Bumble Profil optimieren: Mehr Erfolg haben"
 description: "Spezielle Tipps zur Bumble Profil-Optimierung: Nutze die Besonderheiten der App für mehr Matches."
-date: "2025-04-06"
+date: 2025-04-06
 image: "/images/photos/bumble-profil-optimieren.webp"
 tags:
   - "Bumble"

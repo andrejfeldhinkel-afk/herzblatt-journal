@@ -1,6 +1,7 @@
 ---
 title: "Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare"
 description: "Introvertiert-extrovertiert Paare können fantastisch funktionieren. Lerne die Stärken eurer Gegensätze zu nutzen und typische Fallstricke zu vermeiden."
+date: 2025-02-04
 tags:
   - "Beziehung"
   - "Psychologie"
@@ -21,7 +22,7 @@ faq:
   - question: "Können introvertierte und extrovertierte Partner glücklich werden?"
     answer: "Absolut. Studien zeigen sogar, dass intro-extro Paare oft besonders stabile Beziehungen haben, weil sie sich gegenseitig ergänzen und aus der Komfortzone holen. Der Schlüssel ist Verständnis und Respekt für den Stil des anderen."
   - question: "Wie gehe ich damit um wenn mein Partner immer unter Leute will?"
-    answer: "Setze klare Grenzen ohne dich schuldig zu fühlen."
+    answer: "Setze klare Grenzen ohne dich schuldig zu fühlen. 'Ich komme gerne mit zur Party, aber ich gehe nach zwei Stunden.' Oder: 'Geh du, ich genieße den Abend für mich.' Beides ist vollkommen okay."
   - question: "Mein introvertierter Partner redet nie über Gefühle. Ist das normal?"
     answer: "Introvertierte verarbeiten intern und brauchen oft mehr Zeit für emotionale Gespräche. Gib Raum statt zu drängen. Viele Introvertierte öffnen sich besser schriftlich oder bei einem ruhigen Spaziergang als in einem Face-to-Face-Gespräch."
   - question: "Werden die Unterschiede mit der Zeit besser oder schlimmer?"

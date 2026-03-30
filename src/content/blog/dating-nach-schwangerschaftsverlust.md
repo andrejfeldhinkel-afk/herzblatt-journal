@@ -1,7 +1,7 @@
 ---
 title: "Dating nach Fehlgeburt: Behutsam neu beginnen"
 description: "Tipps für Dating nach Fehlgeburt oder Schwangerschaftsverlust. Wie du deine Trauer verarbeitest und wieder offen für Liebe wirst."
-date: "2025-06-23"
+date: 2025-06-23
 image: "/images/photos/dating-nach-schwangerschaftsverlust.webp"
 tags:
   - "Dating"

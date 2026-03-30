@@ -1,6 +1,7 @@
 ---
 title: "Dating in Rostock: Die besten Orte & Tipps für Singles"
 description: "Rostock Dating-Guide: KTV, Warnemünde, Altstadt & mehr. Entdecke Ostsee-Romantik und beste Dating-Spots für Singles in Rostock!"
+date: 2025-08-03
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

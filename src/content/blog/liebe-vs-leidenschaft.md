@@ -1,7 +1,7 @@
 ---
 title: "Liebe vs. Leidenschaft: Braucht man beides?"
 description: "Liebe vs. Leidenschaft: Braucht eine erfüllende Beziehung das Feuer? Die ehrliche psychologische Antwort auf eine zentrale Beziehungsfrage."
-date: "2025-09-30"
+date: 2025-09-30
 image: "/images/photos/liebe-vs-leidenschaft.webp"
 tags:
   - "Liebe"

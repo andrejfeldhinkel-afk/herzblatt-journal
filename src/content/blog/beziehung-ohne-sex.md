@@ -1,7 +1,7 @@
 ---
 title: "Beziehung ohne Sex: Ursachen, Lösungen und Wichtiges"
 description: "Sexlose Beziehungen verstehen: Häufige Ursachen (Stress, Trauma, Medikamente), asexuelles Spektrum, offene Kommunikation, Intimität & wann es ein Problem ist."
-date: "2025-02-22"
+date: 2025-02-22
 image: "/images/photos/beziehung-ohne-sex.webp"
 tags:
   - "Beziehung"

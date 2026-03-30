@@ -1,6 +1,7 @@
 ---
 title: "Fawn Response: Wenn du dich in Beziehungen aufgibst, um"
 description: "Fawn Response erkennen und heilen: Warum du in Beziehungen immer die Bedürfnisse anderer über deine eigenen stellst — und wie du damit aufhörst."
+date: 2025-10-01
 image: "/images/photos/fawn-response-beziehung-guide.webp"
 tags:
   - "Psychologie"

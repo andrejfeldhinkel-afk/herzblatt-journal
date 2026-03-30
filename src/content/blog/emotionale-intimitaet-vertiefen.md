@@ -1,7 +1,7 @@
 ---
 title: "Emotionale Intimität vertiefen: 20 Wege zur Nähe"
 description: "Emotionale Intimität vertiefen: 20 praktische Wege zur tieferen Nähe jenseits des Schlafzimmers. Das Fundament echter Beziehung aufbauen."
-date: "2025-07-25"
+date: 2025-07-25
 image: "/images/photos/emotionale-intimitaet-vertiefen.webp"
 tags:
   - "Intimität"

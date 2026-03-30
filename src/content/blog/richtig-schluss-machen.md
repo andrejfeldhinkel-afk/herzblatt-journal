@@ -1,6 +1,7 @@
 ---
 title: "Richtig Schluss machen: So beendest du eine Beziehung"
 description: "Richtig Schluss machen: Lerne, wie du ehrlich und respektvoll eine Beziehung beendest – ohne unnötigen Schmerz für beide Seiten!"
+date: 2025-12-15
 tags:
   - "Beziehungen"
   - "Kommunikation"
@@ -21,7 +22,7 @@ faq:
   - question: "Ist es okay, per Nachricht Schluss zu machen?"
     answer: "In den meisten Fällen nein — es zeigt mangelnden Respekt. Ausnahmen sind toxische oder gefährliche Beziehungen, Fernbeziehungen oder sehr kurze Dating-Phasen."
   - question: "Was sage ich beim Trennungsgespräch?"
-    answer: "Sei ehrlich, aber einfühlsam. Erkläre, warum du dich trennst, ohne den anderen zu erniedrigen. Verwende Sätze wie"
+    answer: "Sei ehrlich, aber einfühlsam. Erkläre, warum du dich trennst, ohne den anderen zu erniedrigen. Verwende Sätze wie 'Ich fühle, dass...' statt 'Du hast immer...'."
   - question: "Wie gehe ich mit Schuldgefühlen nach der Trennung um?"
     answer: "Schuldgefühle sind normal und zeigen, dass du empathisch bist. Erinnere dich daran, dass eine unehrliche Beziehung fortzuführen beiden mehr schadet als eine respektvolle Trennung."
 ---

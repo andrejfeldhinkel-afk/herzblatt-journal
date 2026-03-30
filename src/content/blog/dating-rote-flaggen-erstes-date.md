@@ -1,6 +1,7 @@
 ---
 title: "10 Red Flags beim ersten Date die du nicht ignorieren"
 description: "Red Flags beim ersten Date erkennen: Diese 10 Warnsignale zeigen dir sofort ob die Person Probleme bringt — und wann du gehen solltest."
+date: 2025-08-04
 tags:
   - "Dating"
   - "Red Flags"

@@ -1,6 +1,7 @@
 ---
 title: "Ordnung vs. Chaos: Wenn der Partner unordentlich ist"
 description: "Dein Partner ist unordentlich und es macht dich wahnsinnig? Praktische Tipps für Paare mit unterschiedlichem Ordnungssinn — ohne Streit."
+date: 2025-03-17
 tags:
   - "Beziehung"
   - "Lifestyle"

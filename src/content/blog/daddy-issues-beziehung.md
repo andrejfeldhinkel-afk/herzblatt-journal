@@ -1,6 +1,7 @@
 ---
 title: "Daddy Issues: Wie dein Vater deine Beziehungen beeinflusst"
 description: "Daddy Issues verstehen: Wie die Beziehung zu deinem Vater dein Liebesleben prägt — und was du tun kannst, um alte Muster zu durchbrechen."
+date: 2025-04-17
 image: "/images/photos/daddy-issues-beziehung.webp"
 imageAlt: "Vater-Tochter-Beziehung und ihr Einfluss"
 tags:

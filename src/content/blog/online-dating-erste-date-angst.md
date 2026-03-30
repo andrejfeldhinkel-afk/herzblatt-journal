@@ -1,6 +1,7 @@
 ---
 title: "Erste-Date-Angst beim Online-Dating überwinden"
 description: "Erste-Date-Angst überwinden: Praktische Strategien und Techniken, um deine Nervosität zu bewältigen und selbstsicher zum Date zu gehen."
+date: 2025-12-15
 tags:
   - "Dating-Tipps"
   - "Online-Dating"

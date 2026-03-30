@@ -1,6 +1,7 @@
 ---
 title: "Kompromisse in der Beziehung: Wann ja und wann nein"
 description: "Kompromisse richtig finden: Wann du nachgeben solltest und wann du deine Grenzen halten musst"
+date: 2025-02-05
 image: "/images/photos/beziehung-kompromisse-finden.webp"
 imageAlt: "Balance und Kompromisse in der Beziehung"
 tags:
@@ -22,7 +23,7 @@ faq:
   - question: "Wie erkenne ich, ob etwas ein Deal-Breaker für mich ist?"
     answer: "Fühle in dich hinein: Würde ich mich selbst nicht mehr kennen, wenn ich hier nachgebe? Fühlt es sich wie Verrat an meinen Werten an? Das sind Zeichen, dass es nicht nur um ein Thema geht, sondern um deine Integrität."
   - question: "Was mache ich, wenn wir immer bei denselben Themen kollidieren?"
-    answer: "Das deutet oft auf unterschiedliche Wertesysteme hin. Manchmal braucht es die Hilfe eines Paartherapeuten, um diese zu verstehen. Aber du kannst auch fragen:"
+    answer: "Das deutet oft auf unterschiedliche Wertesysteme hin. Manchmal braucht es die Hilfe eines Paartherapeuten, um diese zu verstehen. Aber du kannst auch fragen: 'Warum ist das dir so wichtig?' Oft findet man dann einen Weg."
   - question: "Können Kompromisse eine Beziehung schwächen?"
     answer: "Falsche Kompromisse ja — diejenigen, bei denen einer sich aufopfert. Echte Kompromisse, bei denen beide etwas geben und etwas gewinnen, stärken die Beziehung. Der Unterschied liegt in der Qualität, nicht in der Quantität."
   - question: "Was ist der Unterschied zwischen Kompromiss und Kompromisslose Liebe?"

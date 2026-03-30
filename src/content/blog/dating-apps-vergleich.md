@@ -1,6 +1,7 @@
 ---
 title: "Dating Apps Vergleich 2026: Die beste App für Sie wählen"
 description: "Großer Vergleich der Top-Dating-Apps 2026: Funktionen, Kosten und Zielgruppen im Test. Finde heraus, welche App am besten zu deinen Bedürfnissen passt."
+date: 2025-05-06
 tags:
   - "Online-Dating"
   - "Dating-Tipps"

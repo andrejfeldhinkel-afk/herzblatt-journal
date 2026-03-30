@@ -1,6 +1,7 @@
 ---
 title: "Erste eigene Wohnung nach Trennung: Der Neustart-Guide"
 description: "Nach der Trennung: Jetzt die eigene Wohnung. Praktische Tipps, emotionale Bewältigung und wie du deinen Raum zu einem Neuanfang machst."
+date: 2025-09-21
 image: "/images/photos/erste-wohnung-nach-trennung.webp"
 imageAlt: "Neue eigene Wohnung als Neuanfang"
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "Selbstliebe lernen nach Trennung: Dein Weg zurück zu dir"
 description: "Selbstliebe nach Trennung: Psychologische Phasen, tägliche Praktiken, Grenzensetzen und wie du wieder vertraust – ein praktischer Heilungsweg."
+date: 2025-12-15
 image: "/images/photos/selbstliebe-nach-trennung.webp"
 tags:
   - "Selbstliebe"

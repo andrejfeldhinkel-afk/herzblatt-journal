@@ -1,20 +1,17 @@
 ---
-title: 'Verlustangst in Beziehungen: Wie deine Kindheit dich'
-slug: verlustangst-bei-kindern-beziehung
-description: Verlustangst ist ein Muster, das in deiner Kindheit gepflanzt wurde.
-  Lerne, es zu erkennen und endlich zu befreien.
-author: thomas-peters
-image: /images/photos/verlustangst-bei-kindern-beziehung.webp
-imageAlt: Kindheitserfahrungen prägen Beziehungsverhalten
-category: Psychologie
+title: "Verlustangst in Beziehungen: Wie deine Kindheit dich"
+slug: "verlustangst-bei-kindern-beziehung"
+description: "Verlustangst ist ein Muster, das in deiner Kindheit gepflanzt wurde. Lerne, es zu erkennen und endlich zu befreien."
+date: 2025-12-15
+author: "thomas-peters"
+image: "/images/photos/verlustangst-bei-kindern-beziehung.webp"
+imageAlt: "Kindheitserfahrungen prägen Beziehungsverhalten"
+category: "Psychologie"
 tags:
-- Psychologie
-- Beziehung
-- Heilung
-keywords:
-- verlustangst kindheit
-- verlustangst beziehung ursachen
-- kindheit prägt beziehung
+  - "Psychologie"
+  - "Beziehung"
+  - "Heilung"
+keywords: ["verlustangst kindheit", "verlustangst beziehung ursachen", "kindheit prägt beziehung"]
 ---
 
 Du rufst deinen Partner zwanzig Mal an. Er antwortet nicht. Du fängst an zu zittern. Dein Herz rast. Du bist überzeugt, dass er dich verlassen hat. Vielleicht ist ihm etwas passiert. Vielleicht mag er dich nicht mehr. Die Panik ist physisch. Sie fühlt sich an wie Sterben.

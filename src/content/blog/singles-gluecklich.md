@@ -1,6 +1,7 @@
 ---
 title: "Glücklich Single: Warum Alleinsein keine Schwäche ist"
 description: "Single sein wird oft als Misserfolg angesehen. Aber es ist eine Chance für Wachstum, Selbstliebe und echtes Glück ohne Partner zu schaffen."
+date: 2025-12-15
 tags:
   - "Single"
   - "Selbstbewusstsein"
@@ -23,7 +24,7 @@ faq:
   - question: "Sollte ich auf Partnersuche gehen oder glücklich Single sein?"
     answer: "Beide! Sei glücklich mit dir selbst, aber sei offen für eine gute Beziehung, wenn sie kommt. Nicht von Partnersuche besessen sein ist attraktiver sowieso."
   - question: "Wie handle ich mit Fragen 'Warum bist du noch nicht mit jemandem zusammen?'"
-    answer: "Mit Humvor und Selbstvertrauen antworten:"
+    answer: "Mit Humvor und Selbstvertrauen antworten: 'Weil ich mich liebe!' oder 'Die richtige Person wird kommen.' Keine Rechtfertigung nötig."
 ---
 ## Der gesellschaftliche Druck: "Du brauchst einen Partner"
 

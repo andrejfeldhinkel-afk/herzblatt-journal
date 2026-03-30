@@ -1,6 +1,7 @@
 ---
 title: "Männer verstehen: Die komplette Psychologie hinter"
 description: "Männer verstehen leicht gemacht. Erfahre, warum Männer so handeln, wie sie es tun — von Rückzug über Kommunikation bis zu echten Gefühlen."
+date: 2025-12-06
 image: "/images/photos/maenner-verstehen-psychologie.webp"
 tags:
   - "Psychologie"

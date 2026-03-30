@@ -1,6 +1,7 @@
 ---
 title: "Dating nach dem Coming-Out: Authentisch und Mutig"
 description: "LGBTQ+ Dating nach Coming-Out: Lerne, wie du authentisch in die Partnersuche einsteigst und deine wahre Identität lebst. Mit Tipps!"
+date: 2025-07-11
 tags:
   - "Dating-Tipps"
   - "Selbstliebe"

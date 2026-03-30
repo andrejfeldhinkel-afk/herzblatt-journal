@@ -1,6 +1,7 @@
 ---
 title: "Dating in Wiesbaden: Die besten Orte, Tipps & Hotspots?"
 description: "Wiesbaden Dating-Guide: Elegante Thermalbäder, Rheingau & malerische Spots. Entdecke die schönsten Plätze für dein Date in dieser Kurstadt!"
+date: 2025-08-19
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

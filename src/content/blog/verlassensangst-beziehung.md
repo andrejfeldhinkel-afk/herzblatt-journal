@@ -1,7 +1,7 @@
 ---
 title: "Verlassensangst: Woher sie kommt und was hilft"
 description: "Verlassensangst sabotiert deine Beziehungen. Verstehe die psychologischen Ursachen und lerne mit 7 praktischen Strategien, die Angst zu überwinden."
-date: "2025-12-04"
+date: 2025-12-04
 image: "/images/photos/verlassensangst-beziehung.webp"
 tags:
   - "Verlassensangst"

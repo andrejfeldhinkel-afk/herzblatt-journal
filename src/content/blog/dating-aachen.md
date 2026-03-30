@@ -1,6 +1,7 @@
 ---
 title: "Dating in Aachen: Die besten Orte, Tipps & Hotspots"
 description: "Dating in Aachen: Die besten Orte und Tipps für Singles. Romantische Restaurants, Bars und Dating-Szene in der Altstadt."
+date: 2025-04-21
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"
@@ -17,7 +18,7 @@ faq:
   - question: "Wo treffen sich junge Singles in Aachen?"
     answer: "Die Altstadt ist das Zentrum des Nachtlebens. Beliebte Bars finden sich rund um den Katschhof und die Pontstraße. Dating-Apps wie Tinder und Bumble sind auch unter Aachener Singles verbreitet."
   - question: "Welche Restaurants sind romantic für ein erstes Date?"
-    answer: "Das"
+    answer: "Das 'La Fontanella' bietet italienische Küche mit Atmosphäre. 'Zum Postwagen' besticht durch traditionelle Aachener Spezialitäten in gemütlichem Ambiente."
   - question: "Was kann man tagsüber unternehmen?"
     answer: "Der Elisabrunnen ist perfekt für einen Spaziergang. Die Aachener Thermalquellen laden zu entspannten Besuchen ein. Der Lousberg bietet schöne Aussichten."
   - question: "Wann ist die beste Zeit zum Ausgehen in Aachen?"

@@ -1,7 +1,7 @@
 ---
 title: "Kontaktsperre zum Ex: Warum es sich lohnt"
 description: "No Contact funktioniert wirklich. Wie Kontaktsperre heilt, dich schützt und dich nach vorne bringt."
-date: "2025-08-12"
+date: 2025-08-12
 image: "/images/photos/ex-kontaktsperre-durchhalten.webp"
 tags:
   - "Trennung"

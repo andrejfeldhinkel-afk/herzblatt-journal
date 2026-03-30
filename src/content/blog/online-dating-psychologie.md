@@ -1,6 +1,7 @@
 ---
 title: "Die Psychologie des Online-Datings: Warum wir swipen wie wir"
 description: "Die Psychologie hinter Online-Dating verstehen: Warum wir bestimmte Profile attraktiv finden, wie Algorithmen uns manipulieren und was die Forschung sagt."
+date: 2025-12-15
 tags:
   - "Psychologie"
   - "Online-Dating"

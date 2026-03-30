@@ -1,6 +1,7 @@
 ---
 title: "Richtig streiten in der Beziehung: Streitkultur die eure"
 description: "Richtig streiten lernen: Wie du Konflikte in der Beziehung so führst, dass sie eure Verbindung stärken statt zu zerstören. Mit konkreten Techniken und Beispielen."
+date: 2025-12-15
 tags:
   - "Beziehung"
   - "Kommunikation"
@@ -21,9 +22,9 @@ faq:
   - question: "Ist Streiten in einer Beziehung normal?"
     answer: "Absolut. Paare die nie streiten unterdrücken oft ihre Bedürfnisse. Entscheidend ist nicht ob ihr streitet, sondern wie. Paare die fair streiten haben sogar stabilere Beziehungen als Paare die Konflikte vermeiden."
   - question: "Wie verhindere ich dass ein Streit eskaliert?"
-    answer: "Das Zauberwort heißt"
+    answer: "Das Zauberwort heißt 'Pause'. Wenn dein Puls über 100 steigt, bist du physiologisch nicht mehr in der Lage rational zu kommunizieren. Sag: 'Ich brauche 20 Minuten Pause, dann reden wir weiter.' Das ist kein Rückzug, sondern Selbstregulation."
   - question: "Was tun wenn mein Partner im Streit mauert?"
-    answer: "Stonewalling (Mauern) ist oft ein Zeichen von Überforderung, nicht von Desinteresse. Gib deinem Partner Raum und signalisiere:"
+    answer: "Stonewalling (Mauern) ist oft ein Zeichen von Überforderung, nicht von Desinteresse. Gib deinem Partner Raum und signalisiere: 'Ich bin da wenn du bereit bist.' Dränge nicht — das verschlimmert die Mauer."
   - question: "Sollte man Konflikte immer sofort klären?"
     answer: "Nein. Manchmal ist es klüger, eine Nacht darüber zu schlafen. Emotionen die sich nach 24 Stunden gelegt haben, waren vielleicht situativ. Was danach noch da ist, ist wirklich wichtig und sollte angesprochen werden."
 ---

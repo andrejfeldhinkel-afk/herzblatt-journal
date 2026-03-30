@@ -1,6 +1,7 @@
 ---
 title: "Dating App Profil optimieren: So bekommst du mehr Matches"
 description: "Dating Profil optimieren: Perfekte Fotos, Bio-Tipps, Prompt-Antworten und App-spezifische Strategien für mehr Matches auf Tinder, Bumble und Hinge."
+date: 2025-05-01
 image: "/images/photos/dating-app-profil-optimieren.webp"
 tags:
   - "Online-Dating"

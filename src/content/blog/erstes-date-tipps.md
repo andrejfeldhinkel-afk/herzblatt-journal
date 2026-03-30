@@ -1,6 +1,7 @@
 ---
 title: "Erstes Date: 10 Tipps, damit es richtig gut wird"
 description: "Nervös vor dem ersten Treffen? Diese bewährten Tipps helfen dir, entspannt zu bleiben und einen echten Eindruck zu hinterlassen."
+date: 2025-09-24
 tags:
   - "Erstes Date"
   - "Dating-Tipps"

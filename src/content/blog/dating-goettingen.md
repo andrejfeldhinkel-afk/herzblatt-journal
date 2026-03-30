@@ -1,6 +1,7 @@
 ---
 title: "Dating in Göttingen: Die besten Orte & Tipps für Singles"
 description: "Göttingen Dating-Guide: Kneipenviertel, Uni-Szene und Gänseliesel-Flair. Entdecke die beste Single-Szene der Studentenstadt Göttingen!"
+date: 2025-06-02
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

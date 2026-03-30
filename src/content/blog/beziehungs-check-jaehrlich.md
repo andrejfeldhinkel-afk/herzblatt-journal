@@ -1,7 +1,7 @@
 ---
 title: "Der jährliche Beziehungs-Check: 50 Fragen"
 description: "Der jährliche Beziehungs-Check: 50 inspirierende Fragen für tiefe Reflexion. Schafft neue Nähe und vertieft eure Liebe durch bewusste Kommunikation."
-date: "2025-03-29"
+date: 2025-03-29
 image: "/images/photos/beziehungs-check-jaehrlich.webp"
 tags:
   - "Beziehungs-Check"

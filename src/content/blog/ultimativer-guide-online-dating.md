@@ -1,7 +1,7 @@
 ---
 title: "Online-Dating-Guide 2026: Alles was du wissen musst"
 description: "Der ultimative Online-Dating-Guide 2026: App-Wahl, Profiloptimerung, Nachrichten-Strategie bis zum ersten Date. Alles für deinen Erfolg beim Daten."
-date: "2025-11-25"
+date: 2025-11-25
 image: "/images/photos/ultimativer-guide-online-dating.webp"
 tags:
   - "Online-Dating"

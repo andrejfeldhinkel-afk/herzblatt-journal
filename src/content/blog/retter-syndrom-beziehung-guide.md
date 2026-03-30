@@ -1,6 +1,7 @@
 ---
 title: "Retter-Syndrom (White Knight Syndrome) — Wenn Helfen zur"
 description: "Verstehe das Retter-Syndrom und wie du aus destruktiven Helferdynamiken ausbrechen kannst. Ein Leitfaden zu gesundem Helfen."
+date: 2025-12-15
 author: "thomas-peters"
 image: "/images/blog/retter-syndrom-beziehung-guide.webp"
 categories:
@@ -18,7 +19,7 @@ keywords:
 draft: false
 faq:
   - question: "Was ist das Retter-Syndrom genau?"
-    answer: "Das Retter-Syndrom ist ein psychologisches Muster, bei dem eine Person in Beziehungen primär als Helfer oder Retter funktioniert. Sie wählt Partner, die"
+    answer: "Das Retter-Syndrom ist ein psychologisches Muster, bei dem eine Person in Beziehungen primär als Helfer oder Retter funktioniert. Sie wählt Partner, die 'kaputt' oder bedürftig sind, und versucht, sie zu heilen oder zu retten. Das gibt dem Retter ein Gefühl von Selbstwert, was unhealthy ist, weil es auf die Abhängigkeit des anderen basiert."
   - question: "Bin ich ein Retter oder einfach eine fürsorgliche Person?"
     answer: "Eine fürsorgliche Person hilft und unterstützt, aber respektiert die Grenzen und Autonomie des anderen. Ein Retter hingegen opfert sich selbst auf, übernimmt Verantwortung für die Genesung des anderen und fühlt sich verloren, wenn der andere nicht hilft. Wenn dein Selbstwert davon abhängt, dass der andere dich braucht, bist du wahrscheinlich ein Retter."
   - question: "Woher kommt das Retter-Syndrom?"

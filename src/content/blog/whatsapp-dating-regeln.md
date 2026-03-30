@@ -1,6 +1,7 @@
 ---
 title: "WhatsApp-Dating: Regeln für das Schreiben mit dem Schwarm"
 description: "WhatsApp-Dating: Lerne die wichtigsten Regeln für Antwortzeiten, Emojis und Gesprächsthemen mit deinem neuen Schwarm. Mit praktischen Tipps!"
+date: 2025-12-15
 tags:
   - "Dating-Tipps"
   - "Kommunikation"

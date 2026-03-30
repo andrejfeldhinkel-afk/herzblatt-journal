@@ -1,6 +1,7 @@
 ---
 title: "Sprachnachrichten beim Dating: Warum Voice Notes das neue"
 description: "Sprachnachrichten beim Dating richtig nutzen: Warum Voice Notes besser als Texte sind, wann du sie schicken solltest und wie du damit Herzen gewinnst."
+date: 2025-05-03
 tags:
   - "Online-Dating"
   - "Flirten"
@@ -21,7 +22,7 @@ faq:
   - question: "Sind Sprachnachrichten beim Dating attraktiver als Texte?"
     answer: "Studien zeigen, dass die Stimme einer Person einen großen Einfluss auf die wahrgenommene Attraktivität hat. Sprachnachrichten vermitteln Emotionen, Humor und Persönlichkeit viel besser als Text — und bauen schneller Vertrauen auf."
   - question: "Wann sollte man die erste Sprachnachricht schicken?"
-    answer: "Nicht als allererste Nachricht. Warte bis ihr ein paar Textnachrichten ausgetauscht habt und das Gespräch gut läuft. Dann kannst du locker sagen:"
+    answer: "Nicht als allererste Nachricht. Warte bis ihr ein paar Textnachrichten ausgetauscht habt und das Gespräch gut läuft. Dann kannst du locker sagen: 'Ich bin ehrlich gesagt besser im Reden als im Tippen — darf ich dir eine Sprachnachricht schicken?'"
   - question: "Wie lang sollte eine Sprachnachricht sein?"
     answer: "30-90 Sekunden sind ideal für die Anfangsphase. Alles unter 15 Sekunden wirkt lieblos, alles über 2 Minuten kann überwältigend sein. Mit zunehmender Vertrautheit dürfen sie auch mal länger werden."
   - question: "Was wenn meine Stimme komisch klingt?"

@@ -1,6 +1,7 @@
 ---
 title: "Verlustangst in der Beziehung – Ursachen, Symptome Lösungen"
 description: "Verlustangst in der Beziehung: Verstehe woher sie kommt und lerne effektive Strategien, um sie zu überwinden und zu heilen."
+date: 2025-12-15
 tags:
   - "Psychologie"
   - "Beziehung"

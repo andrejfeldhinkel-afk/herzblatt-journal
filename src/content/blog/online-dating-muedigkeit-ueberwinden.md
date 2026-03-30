@@ -1,6 +1,7 @@
 ---
 title: "Dating-App-Müdigkeit überwinden: Wie du wieder Hoffnung"
 description: "Online-Dating-Müdigkeit überwinden: Bewährte Strategien gegen Burnout bei Dating-Apps. Wie du wieder Hoffnung und Spaß beim Kennenlernen findest."
+date: 2025-12-15
 tags:
   - "Online-Dating"
   - "Dating-Apps"

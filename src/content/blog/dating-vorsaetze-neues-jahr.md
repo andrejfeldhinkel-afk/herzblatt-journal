@@ -1,6 +1,7 @@
 ---
 title: "Dating-Vorsätze: So findest du im neuen Jahr die Liebe"
 description: "Dating-Vorsätze: Starte mit den richtigen Zielen ins neue Jahr. Konkrete Strategien für deine erfolgreiche Partnersuche im Neuen Jahr!"
+date: 2025-08-15
 tags:
   - "Dating-Tipps"
   - "Ratgeber"

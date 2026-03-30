@@ -1,6 +1,7 @@
 ---
 title: "Digitale Eifersucht: Wenn Social Media die Beziehung"
 description: "Digitale Eifersucht: Lerne, wie du mit Eifersucht in sozialen Medien umgehst und deine Beziehung schützt. Mit praktischen Strategien!"
+date: 2025-08-26
 tags:
   - "Beziehung"
   - "Kommunikation"

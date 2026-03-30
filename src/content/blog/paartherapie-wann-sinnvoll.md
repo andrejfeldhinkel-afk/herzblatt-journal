@@ -1,6 +1,7 @@
 ---
 title: "Paartherapie wann sinnvoll: Der richtige Zeitpunkt"
 description: "Wann ist Paartherapie wirklich sinnvoll? Erfahre, welche Probleme professionelle Hilfe rechtfertigen und wie du den passenden Therapeuten findest."
+date: 2025-12-15
 tags:
   - "Paartherapie"
   - "Eheberatung"

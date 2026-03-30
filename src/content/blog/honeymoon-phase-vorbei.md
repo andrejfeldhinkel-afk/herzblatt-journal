@@ -1,6 +1,7 @@
 ---
 title: "Honeymoon-Phase vorbei: Warum die Schmetterlinge gehen — und"
 description: "Die Honeymoon-Phase ist vorbei? Erfahre warum das normal ist, was die Wissenschaft sagt und wie echte Liebe erst jetzt richtig beginnt."
+date: 2025-10-27
 image: "/images/photos/honeymoon-phase-vorbei.webp"
 tags:
   - "Beziehung"

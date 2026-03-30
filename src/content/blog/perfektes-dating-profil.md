@@ -1,6 +1,7 @@
 ---
 title: "Das perfekte Dating-Profil: Schritt-für-Schritt"
 description: "Das perfekte Dating-Profil: Mit dieser Schritt-für-Schritt-Anleitung erstellst du ein Profil, das authentisch ist und echte Matches anzieht."
+date: 2025-12-15
 tags:
   - "Online-Dating"
   - "Dating-Tipps"
@@ -18,7 +19,7 @@ faq:
   - question: "Welche Fotos sollte ich verwenden?"
     answer: "Ein klares, gut belichtetes Foto deines Gesichts, 1-2 Ganzkörperfotos, und optional 1 Hobbyfoto. Keine Filter, keine ex-Partner im Bild, keine alten Fotos."
   - question: "Wie schreibe ich eine gute Bio?"
-    answer: "Sei authentisch und prägnant. 3-4 Sätze über deine Leidenschaft, Humor oder was du suchst. Nutze Emojis sparsam und keine Klichees wie"
+    answer: "Sei authentisch und prägnant. 3-4 Sätze über deine Leidenschaft, Humor oder was du suchst. Nutze Emojis sparsam und keine Klichees wie 'no drama'."
   - question: "Sollte ich meine Beziehungsziele in meiner Bio erwähnen?"
     answer: "Ja. Wenn du langfristig suchst, sag es. Wenn du casual daten willst, sag es auch. Klarheit spart Zeit und vermeidet Missverständnisse."
   - question: "Wie oft sollte ich mein Profil aktualisieren?"

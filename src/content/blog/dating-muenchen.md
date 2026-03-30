@@ -1,6 +1,7 @@
 ---
 title: "Dating in München: Die besten Orte, Tipps & Hotspots"
 description: "München Dating-Guide: Schwabing, Englischer Garten, Biergärten. Verlieb dich in bayerische Romantik und beste Dating-Spots für Singles!"
+date: 2025-07-02
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

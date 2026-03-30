@@ -1,6 +1,7 @@
 ---
 title: "Ex vergessen: 12 Tipps die wirklich helfen"
 description: "Ex vergessen: 12 Strategien zur Überwindung von Trennungsschmerz. Psychologische und praktische Tipps, um deine Gefühle zu heilen und voranzukommen."
+date: 2025-09-29
 image: "/images/photos/ex-vergessen-tipps.webp"
 imageAlt: "Vorwärts gehen und loslassen nach der Trennung"
 tags:
@@ -17,7 +18,7 @@ featured: false
 author: "markus-hoffmann"
 faq:
   - question: "Wie lange dauert es, um einen Ex wirklich zu vergessen?"
-    answer: "Es gibt hier keine Standardantwort. Psychologen sagen: 3-4 Monate für Leichte Abhängigkeiten, 6-12 Monate für tiefe Beziehungen. Aber"
+    answer: "Es gibt hier keine Standardantwort. Psychologen sagen: 3-4 Monate für Leichte Abhängigkeiten, 6-12 Monate für tiefe Beziehungen. Aber 'vergessen' ist nicht das Ziel. 'Loslassen' ist das Ziel. Das dauert kürzer."
   - question: "Ist es möglich, Freunde mit dem Ex zu bleiben, während ich versuche, ihn zu vergessen?"
     answer: "Nein, nicht am Anfang. Warte mindestens 6-12 Monate. Die erste Phase der Heilung braucht Abstand. Später kannst du vielleicht Freunde sein. Aber nicht jetzt. Jetzt musst du ihn loslassen."
   - question: "Warum finde ich mich dabei, seine Social Media zu stalken, obwohl ich vergessen will?"

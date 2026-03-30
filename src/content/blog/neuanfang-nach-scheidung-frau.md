@@ -1,6 +1,7 @@
 ---
 title: "Neuanfang nach Scheidung als Frau: Stark und frei"
 description: "Neuanfang nach Scheidung für Frauen: Selbstbewusstsein, Unabhängigkeit und neue Identität. Wie du nach einem Beziehungsende wirklich wieder anfängst und dabei du selbst wirst."
+date: 2025-12-15
 image: "/images/photos/neuanfang-nach-scheidung-frau.webp"
 imageAlt: "Starke Frau genießt ihre neue Freiheit nach Scheidung"
 tags:
@@ -17,7 +18,7 @@ featured: false
 author: "sarah-kellner"
 faq:
   - question: "Wie lange dauert es, bis man nach einer Scheidung wieder 'normal' ist?"
-    answer: "Es gibt kein"
+    answer: "Es gibt kein 'normal'. Psychologen sagen: 2-3 Jahre für echte Heilung. Aber du wirst schon nach wenigen Monaten merken, dass das Leben möglich ist. Normal ist überrated, wertvoll ist zu wissen: Ich bin ok."
   - question: "Werde ich mich jemals wieder verliebt fühlen nach einer Scheidung?"
     answer: "Ja. Nicht sofort. Aber ja. Und die nächste Liebe wird anders sein. Nicht besser, nicht schlechter. Aber basierend auf deinem neuen Wissen über dich selbst. Das macht sie tiefer."
   - question: "Was tue ich mit meiner Identität, wenn sie lange Zeit 'verheiratet' war?"

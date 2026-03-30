@@ -1,6 +1,7 @@
 ---
 title: "Dating in Bielefeld: Die besten Orte, Tipps & Hotspots"
 description: "Bielefeld Dating-Guide: Trendige Bars, romantische Restaurants und beste Single-Szene. Entdecke die schönsten Orte für dein perfektes Date!"
+date: 2025-05-12
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"
@@ -17,7 +18,7 @@ faq:
   - question: "Welche Gegend in Bielefeld ist am besten zum Daten?"
     answer: "Die Innenstadt rund um den Kesselbrink ist zentral. Die Gegend um die Kunsthalle ist trendy. Das Umland mit dem Teutoburger Wald bietet Natur-Dates."
   - question: "Gibt es gute Restaurants in Bielefeld?"
-    answer: "'Theaterküche"
+    answer: "'Theaterküche' ist modern und kreativ. 'Zum Puls' ist gemütlich und traditionell. 'Räuberwald' ist rustikale Liebe mit guter Küche."
   - question: "Was kann man unternehmen außer Essen?"
     answer: "Wanderungen im Teutoburger Wald. Besuch der Kunsthalle. Spaziergang im Botanischen Garten. Besuche bei kulturellen Veranstaltungen."
   - question: "Wie ist die Single-Szene in Bielefeld?"

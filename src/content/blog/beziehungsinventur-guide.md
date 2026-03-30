@@ -1,6 +1,7 @@
 ---
 title: "Beziehungsinventur: Der ehrliche Check ob deine Beziehung"
 description: "Zeit für eine Beziehungsinventur? Mit diesem ehrlichen Guide prüfst du alle Bereiche deiner Partnerschaft — von Kommunikation bis Intimität."
+date: 2025-03-28
 image: "/images/photos/beziehungsinventur-guide.webp"
 tags:
   - "Beziehung"

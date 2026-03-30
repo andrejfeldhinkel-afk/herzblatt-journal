@@ -1,7 +1,7 @@
 ---
 title: "Dating Detox: Warum eine Pause dir guttut"
 description: "Dating Pause: Anzeichen, dass du eine Pause brauchst, wie lange, Selbstreflexion und Neustart-Strategien für gesundes Dating."
-date: "2025-05-04"
+date: 2025-05-04
 image: "/images/photos/dating-detox-pause.webp"
 tags:
   - "Dating"

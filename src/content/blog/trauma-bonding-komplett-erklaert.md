@@ -1,7 +1,7 @@
 ---
 title: "Trauma Bonding: Warum du nicht loslassen kannst"
 description: "Trauma Bonding vollständig erklärt: Die Neuroscience hinter toxischen Sucht-Beziehungen und wie du die Bindung psychologisch durchbrichst und heilst."
-date: "2025-11-19"
+date: 2025-11-19
 image: "/images/photos/trauma-bonding-komplett-erklaert.webp"
 tags:
   - "Psychologie"

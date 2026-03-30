@@ -1,19 +1,16 @@
 ---
-title: 'Coming-Out in der Beziehung: Wenn du dich selbst findest'
-author: sarah-kellner
+title: "Coming-Out in der Beziehung: Wenn du dich selbst findest"
+description: "Coming-Out in der Beziehung: Wie du dich selbst findest und deine Partnerschaft dabei stärkst."
+date: 2025-04-11
+author: "sarah-kellner"
 draft: false
-image: /images/blog/coming-out-und-beziehung-guide.webp
-imageAlt: Eine Person findet Selbstakzeptanz und Authentizität in einer liebevollen
-  Beziehung
+image: "/images/blog/coming-out-und-beziehung-guide.webp"
+imageAlt: "Eine Person findet Selbstakzeptanz und Authentizität in einer liebevollen Beziehung"
 tags:
-- Beziehung
-- Psychologie
-- Selbstliebe
-keywords:
-- coming out beziehung
-- coming out partner
-- lgbtq beziehung
-- sexuelle orientierung beziehung
+  - "Beziehung"
+  - "Psychologie"
+  - "Selbstliebe"
+keywords: ["coming out beziehung", "coming out partner", "lgbtq beziehung", "sexuelle orientierung beziehung"]
 ---
 ## Coming-Out in der beziehung: Wenn du dich selbst findest während du jemanden liebst
 

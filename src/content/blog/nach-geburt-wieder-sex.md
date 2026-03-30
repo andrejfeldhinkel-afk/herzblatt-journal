@@ -1,6 +1,7 @@
 ---
 title: "Sex nach der Geburt: Wann und wie ihr wieder zueinander"
 description: "Nach Babys Geburt gibt es oft keinen Sex mehr. Wann es medizinisch okay ist und wie ihr wieder Lust und Nähe aufbaut – praktische Tipps für Eltern."
+date: 2025-12-14
 image: "/images/photos/nach-geburt-wieder-sex.webp"
 imageAlt: "Junge Eltern finden als Paar wieder zueinander"
 tags:

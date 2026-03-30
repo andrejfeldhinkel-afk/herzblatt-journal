@@ -1,7 +1,7 @@
 ---
 title: "Dating nach Essstörung: Partnersuche in Recovery"
 description: "Wie du wieder daten kannst, wenn du eine Essstörung durchlebt hast. Trigger-Management, Kommunikation und Selbstfürsorge."
-date: "2025-06-14"
+date: 2025-06-14
 image: "/images/photos/dating-nach-essstoerung.webp"
 tags:
   - "Essstörung"

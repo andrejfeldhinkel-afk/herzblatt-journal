@@ -1,6 +1,7 @@
 ---
 title: "Dating nach 40 als Mann: Dein zweiter Frühling"
 description: "Mit 40+ noch mal neu anfangen? Warum das der perfekte Zeitpunkt ist und wie du als reifer Mann die richtige Partnerin findest."
+date: 2025-07-06
 tags:
   - "Dating-Tipps"
   - "Online-Dating"

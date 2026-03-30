@@ -1,0 +1,998 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const successStories = [
+  {
+    id: 1,
+    names: "Lisa & Marco",
+    ages: "28 & 31",
+    avatar1: "LM",
+    avatar2: "MC",
+    howWeMet: "Über eine Dating-App",
+    duration: "18 Monate",
+    story: "Lisa war eine Online-Dating-Skeptikerin, bis sie Marcos Profil sah. Was als Scherz gemeint war, verwandelte sich schnell in echte Chemie. Heute planen sie gemeinsam eine Hochzeit auf Sizilien.",
+    quote: "Ich hätte nie gedacht, dass man die Liebe seines Lebens über eine App finden kann. Marco ist mein Soulmate.",
+    rating: 5,
+    tags: ["Online-Dating", "Match", "Hochzeit geplant"],
+    gradientFrom: "#FEE2E2",
+    gradientTo: "#FECACA",
+    textColor: "#B91C1C"
+  },
+  {
+    id: 2,
+    names: "Anna & David",
+    ages: "32 & 34",
+    avatar1: "AD",
+    avatar2: "DK",
+    howWeMet: "Beim Joggen im Park",
+    duration: "2 Jahre",
+    story: "Anna und David trafen sich völlig zufällig beim Morgenlauf im Englischen Garten. Ein Sturz, eine helfende Hand, ein Lächeln — und der Rest ist Geschichte. Sie trainieren bis heute zusammen.",
+    quote: "Sport war schon immer meine Leidenschaft. Jetzt habe ich jemanden, mit dem ich sie teilen kann.",
+    rating: 5,
+    tags: ["Sport", "Zufallsbegegnung", "Aktive Beziehung"],
+    gradientFrom: "#DCFCE7",
+    gradientTo: "#86EFAC",
+    textColor: "#166534"
+  },
+  {
+    id: 3,
+    names: "Sophie & Philipp",
+    ages: "26 & 29",
+    avatar1: "SP",
+    avatar2: "PK",
+    howWeMet: "In der Bibliothek",
+    duration: "3 Jahre",
+    story: "Zwei Menschen, die nach dem gleichen Buch fragten. Philipp machte Sophie ein Angebot: Er würde das Buch zuerst lesen und es dann mit ihr besprechen. Ein Literaturabend folgte dem anderen, bis eines Tages die Gefühle überwogen.",
+    quote: "Wir sagen immer Scherzhaft: Das Buch hat uns zusammengebracht. Aber eigentlich waren wir es selbst.",
+    rating: 5,
+    tags: ["Klassische Begegnung", "Gemeinsame Interessen", "Langfristig stabil"],
+    gradientFrom: "#E0E7FF",
+    gradientTo: "#A5B4FC",
+    textColor: "#4338CA"
+  },
+  {
+    id: 4,
+    names: "Petra & Markus",
+    ages: "38 & 41",
+    avatar1: "PM",
+    avatar2: "MR",
+    howWeMet: "Bei einem Firmen-Event",
+    duration: "1 Jahr",
+    story: "Beide dachten, dass die große Liebe vorbei ist. Ein Wiedersehen nach 15 Jahren auf einer Betriebsfeier änderte alles. Die alte Anziehungskraft war plötzlich wieder da, reifer und stärker denn je.",
+    quote: "Manchmal muss man erst den richtigen Moment im Leben erreichen, um sich für den richtigen Menschen zu öffnen.",
+    rating: 5,
+    tags: ["Zweite Chance", "Reife Liebe", "Nicht beim ersten Mal"],
+    gradientFrom: "#F3E8FF",
+    gradientTo: "#D8B4FE",
+    textColor: "#7E22CE"
+  },
+  {
+    id: 5,
+    names: "Hannah & Felix",
+    ages: "25 & 27",
+    avatar1: "HF",
+    avatar2: "FJ",
+    howWeMet: "Über Social Media",
+    duration: "14 Monate",
+    story: "Felix kommentierte ein Foto von Hannah mit einer klugen Bemerkung. Ein witziger Austausch folgte, dann eine Direktnachricht, dann ein echtes Treffen. Heute sind sie in zwei verschiedenen Ländern und planen zusammenzuziehen.",
+    quote: "Ich dachte immer, Online-Beziehungen funktionieren nicht. Wir beweisen das Gegenteil – jeden Tag.",
+    rating: 5,
+    tags: ["Social Media", "Fernbeziehung", "Moderne Liebe"],
+    gradientFrom: "#FEF3C7",
+    gradientTo: "#FCD34D",
+    textColor: "#B45309"
+  },
+  {
+    id: 6,
+    names: "Christina & Thomas",
+    ages: "35 & 38",
+    avatar1: "CT",
+    avatar2: "TB",
+    howWeMet: "Beim Kochen-Kurs",
+    duration: "2 Jahre",
+    story: "Christina wollte ihre Kochfähigkeiten verbessern. Thomas war der Kurs-Instructor. Das Timing war perfekt – sein letzter Kurs, ihr erster. Sie kochten zusammen nach dem Kurs, im ersten Restaurant, und Jahre später auch zuhause.",
+    quote: "Kochen ist jetzt unsere gemeinsame Leidenschaft. Jeden Donnerstag bereiten wir ein neues Rezept vor.",
+    rating: 5,
+    tags: ["Hobby-Event", "Gemeinsame Leidenschaft", "Stabil & glücklich"],
+    gradientFrom: "#FEE2E2",
+    gradientTo: "#FCA5A5",
+    textColor: "#991B1B"
+  },
+  {
+    id: 7,
+    names: "Lea & Christoph",
+    ages: "29 & 32",
+    avatar1: "LC",
+    avatar2: "CB",
+    howWeMet: "Im Café",
+    duration: "11 Monate",
+    story: "Sie suchte einen ruhigen Ort zum Arbeiten, er las sein Lieblingsbuch. Das Café-Personal kannte beide gut und spielte Amor: Sie setzten sie nebeneinander. Der Rest war Schicksal.",
+    quote: "Das Beste an unserem Meeting? Es war ungeplant, echt und völlig organisch. Genau wie unsere Liebe.",
+    rating: 5,
+    tags: ["Zufallsbegegnung", "Analog", "Mütterchen Natur"],
+    gradientFrom: "#DCE7F0",
+    gradientTo: "#B4D4ED",
+    textColor: "#1E40AF"
+  },
+  {
+    id: 8,
+    names: "Nina & Robert",
+    ages: "30 & 33",
+    avatar1: "NR",
+    avatar2: "RB",
+    howWeMet: "Bei der Freiwilligenarbeit",
+    duration: "1,5 Jahre",
+    story: "Beide engagierten sich bei der lokalen Tafel. Sie stellten fest, dass sie nicht nur über Liebe sprachen, sondern auch Werte teilten. Das war der Ausgangspunkt für ein echtes Miteinander mit Sinn und Zweck.",
+    quote: "Die größte Liebe beginnt, wenn man zusammen für etwas Größeres arbeitet.",
+    rating: 5,
+    tags: ["Gemeinsame Werte", "Ehrenamt", "Tiefe & Bedeutung"],
+    gradientFrom: "#F0FDF4",
+    gradientTo: "#BBEF60",
+    textColor: "#365314"
+  },
+  {
+    id: 9,
+    names: "Ingrid & Wolfgang",
+    ages: "62 & 67",
+    avatar1: "IW",
+    avatar2: "WG",
+    howWeMet: "Über eine Zeitungsannonce",
+    duration: "4 Jahre",
+    story: "Nach dem Tod ihres Mannes wagte Ingrid einen mutigen Schritt und gab eine Annonce auf. Wolfgang, selbst seit 3 Jahren verwitwet, antwortete mit einem handgeschriebenen Brief. Ihr erstes Treffen im Botanischen Garten dauerte 5 Stunden. Heute reisen sie gemeinsam durch Europa.",
+    quote: "Mit 60 dachte ich, die Liebe sei vorbei. Wolfgang hat mir gezeigt, dass das Leben noch so viel zu bieten hat.",
+    rating: 5,
+    tags: ["Ü60-Dating", "Zweiter Frühling", "Reiseliebe"],
+    gradientFrom: "#FEF9C3",
+    gradientTo: "#FDE68A",
+    textColor: "#92400E"
+  },
+  {
+    id: 10,
+    names: "Monika & Klaus",
+    ages: "55 & 58",
+    avatar1: "MK",
+    avatar2: "KH",
+    howWeMet: "Beim Wanderverein",
+    duration: "3 Jahre",
+    story: "Beide hatten eine Scheidung hinter sich und suchten erstmal nur Gesellschaft. Im Wanderverein entstand aus gemeinsamen Gipfeltouren eine tiefe Verbundenheit. Auf dem Gipfel des Zugspitze fragte Klaus, ob sie seine Partnerin sein will.",
+    quote: "Manchmal muss man erst den richtigen Berg besteigen, um den richtigen Menschen zu finden.",
+    rating: 5,
+    tags: ["Ü50-Dating", "Nach Scheidung", "Gemeinsames Hobby"],
+    gradientFrom: "#D1FAE5",
+    gradientTo: "#6EE7B7",
+    textColor: "#065F46"
+  },
+  {
+    id: 11,
+    names: "Helga & Dieter",
+    ages: "71 & 74",
+    avatar1: "HD",
+    avatar2: "DR",
+    howWeMet: "Im Seniorencafé",
+    duration: "2 Jahre",
+    story: "Helga besuchte zum ersten Mal das Seniorencafé in ihrer Stadt. Dieter saß allein am Fensterplatz. Ein Blick, ein Lächeln, ein gemeinsames Stück Kuchen — und plötzlich fühlten sich beide wieder wie 20. Ihre Kinder und Enkel freuen sich riesig.",
+    quote: "Liebe kennt kein Alter. Mit 70 kann das Herz genauso laut klopfen wie mit 17.",
+    rating: 5,
+    tags: ["Ü70-Dating", "Spätes Glück", "Familie freut sich"],
+    gradientFrom: "#EDE9FE",
+    gradientTo: "#C4B5FD",
+    textColor: "#5B21B6"
+  },
+  {
+    id: 12,
+    names: "Susanne & Jürgen",
+    ages: "48 & 52",
+    avatar1: "SJ",
+    avatar2: "JM",
+    howWeMet: "Über eine Dating-App",
+    duration: "1,5 Jahre",
+    story: "Nach 20 Jahren Ehe und einer schwierigen Scheidung traute sich Susanne kaum, eine Dating-App zu installieren. Jürgen war ihr zweites Match — und ihr letztes. Sie verstanden sich vom ersten Chat an und merkten schnell, dass reife Liebe die schönste ist.",
+    quote: "Mit Ende 40 nochmal neu anfangen war beängstigend. Aber Jürgen hat mir gezeigt, dass das Beste noch kommen kann.",
+    rating: 5,
+    tags: ["Ü40-Dating", "Neuanfang", "Online-Dating"],
+    gradientFrom: "#FFE4E6",
+    gradientTo: "#FDA4AF",
+    textColor: "#9F1239"
+  },
+  {
+    id: 13,
+    names: "Renate & Hans-Peter",
+    ages: "65 & 69",
+    avatar1: "RH",
+    avatar2: "HP",
+    howWeMet: "Beim Tanzkurs",
+    duration: "5 Jahre",
+    story: "Renate meldete sich für einen Tanzkurs an, um nach der Pensionierung aktiv zu bleiben. Hans-Peter hatte das gleiche Ziel. Beim Wiener Walzer funkte es — und seitdem tanzen sie durchs Leben. Letztes Jahr haben sie geheiratet.",
+    quote: "Wir beweisen: Man kann mit 65 noch die Liebe finden und mit 69 noch heiraten. Das Alter ist nur eine Zahl.",
+    rating: 5,
+    tags: ["Ü65-Dating", "Hochzeit", "Tanzen verbindet"],
+    gradientFrom: "#FFF7ED",
+    gradientTo: "#FDBA74",
+    textColor: "#C2410C"
+  },
+  {
+    id: 14,
+    names: "Julia & Sven",
+    ages: "27 & 30",
+    avatar1: "JS",
+    avatar2: "SV",
+    howWeMet: "Über eine Dating-App",
+    duration: "8 Monate",
+    story: "Julia hatte die App eigentlich schon wieder löschen wollen, als Svens Profil auftauchte. Das erste Date war nett, aber kein Feuerwerk. Erst beim dritten Treffen merkten beide, dass da mehr ist. Heute sind sie glücklich, auch wenn es nicht immer einfach ist.",
+    quote: "Es war kein Blitz-Moment. Es war ein langsames Wachsen. Und das ist auch okay so.",
+    rating: 4,
+    tags: ["Online-Dating", "Slow Dating", "Realistische Liebe"],
+    gradientFrom: "#FEF3C7",
+    gradientTo: "#FDE68A",
+    textColor: "#92400E"
+  },
+  {
+    id: 15,
+    names: "Kathrin & Oleg",
+    ages: "34 & 37",
+    avatar1: "KO",
+    avatar2: "OL",
+    howWeMet: "Auf einer Hochzeit",
+    duration: "1 Jahr",
+    story: "Sie saßen zufällig am gleichen Tisch. Er sprach kaum Deutsch, sie kein Russisch. Trotzdem unterhielten sie sich den ganzen Abend mit Händen, Füßen und Google Translate. Die Sprachbarriere war anfangs eine Herausforderung, aber sie haben es geschafft.",
+    quote: "Liebe braucht keine perfekte Grammatik. Manchmal reicht ein Lächeln.",
+    rating: 4,
+    tags: ["Interkulturell", "Sprachbarriere", "Hochzeitsbegegnung"],
+    gradientFrom: "#E0F2FE",
+    gradientTo: "#7DD3FC",
+    textColor: "#0369A1"
+  },
+  {
+    id: 16,
+    names: "Tanja & Bernd",
+    ages: "42 & 45",
+    avatar1: "TB",
+    avatar2: "BW",
+    howWeMet: "Beim Elternabend",
+    duration: "10 Monate",
+    story: "Beide alleinerziehend, beide am gleichen Elternabend. Bernd sprach Tanja danach auf dem Parkplatz an, weil er ihren Humor mochte. Es war nicht Liebe auf den ersten Blick, und die Kinder mussten sich erst aneinander gewöhnen. Ein paar Rückschläge gab es auch.",
+    quote: "Eine Patchwork-Familie aufzubauen ist Arbeit. Aber es lohnt sich, wenn man den richtigen Menschen findet.",
+    rating: 3,
+    tags: ["Patchwork-Familie", "Alleinerziehend", "Neuanfang"],
+    gradientFrom: "#FEE2E2",
+    gradientTo: "#FECACA",
+    textColor: "#B91C1C"
+  },
+  {
+    id: 17,
+    names: "Maren & Jonas",
+    ages: "25 & 26",
+    avatar1: "MJ",
+    avatar2: "JN",
+    howWeMet: "Im Urlaub auf Mallorca",
+    duration: "6 Monate",
+    story: "Was als Urlaubsflirt begann, wurde überraschend ernst. Maren lebt in Hamburg, Jonas in Stuttgart. Die Fernbeziehung ist nicht leicht, aber sie sehen sich alle zwei Wochen. Ob das auf Dauer klappt? Sie sind optimistisch, aber realistisch.",
+    quote: "Fernbeziehung ist härter als man denkt. Aber wenn man es will, findet man einen Weg.",
+    rating: 3,
+    tags: ["Urlaubsliebe", "Fernbeziehung", "Langstrecke"],
+    gradientFrom: "#DBEAFE",
+    gradientTo: "#93C5FD",
+    textColor: "#1D4ED8"
+  },
+  {
+    id: 18,
+    names: "Eva & Michael",
+    ages: "39 & 43",
+    avatar1: "EM",
+    avatar2: "MI",
+    howWeMet: "Über gemeinsame Freunde",
+    duration: "2,5 Jahre",
+    story: "Freunde hatten sie dreimal verkuppeln wollen, dreimal hatte Eva abgelehnt. Beim vierten Mal sagte sie widerwillig ja — und bereut es bis heute nicht. Michael ist ruhig, Eva temperamentvoll. Sie ergänzen sich perfekt und haben letztes Jahr zusammengezogen.",
+    quote: "Manchmal wissen die Freunde besser als man selbst, wer zu einem passt. Ich hätte früher auf sie hören sollen.",
+    rating: 5,
+    tags: ["Verkuppelt", "Gegensätze", "Zusammengezogen"],
+    gradientFrom: "#F0FDF4",
+    gradientTo: "#86EFAC",
+    textColor: "#166534"
+  },
+  {
+    id: 19,
+    names: "Stefanie & Ali",
+    ages: "31 & 33",
+    avatar1: "SA",
+    avatar2: "AL",
+    howWeMet: "Im Sprachkurs",
+    duration: "1,5 Jahre",
+    story: "Ali kam aus Syrien nach Deutschland. Im Integrations-Sprachkurs half Stefanie als Ehrenamtliche. Aus Hilfsbereitschaft wurde Freundschaft, aus Freundschaft wurde mehr. Die kulturellen Unterschiede waren anfangs eine Herausforderung, besonders mit Alis Familie.",
+    quote: "Wir haben gelernt, dass Liebe Brücken bauen kann — auch zwischen zwei Welten.",
+    rating: 4,
+    tags: ["Interkulturell", "Ehrenamt", "Brücken bauen"],
+    gradientFrom: "#E0E7FF",
+    gradientTo: "#A5B4FC",
+    textColor: "#4338CA"
+  },
+  {
+    id: 20,
+    names: "Birgit & Werner",
+    ages: "58 & 63",
+    avatar1: "BW",
+    avatar2: "WR",
+    howWeMet: "Über eine Zeitungsannonce",
+    duration: "9 Monate",
+    story: "Birgit wollte nach dem Tod ihres Mannes nicht allein bleiben. Werner suchte ebenfalls Gesellschaft. Ihr erstes Treffen war nett, aber ohne Schmetterlinge. Trotzdem haben sie weitergemacht. Heute sind sie dankbar füreinander, auch wenn es keine leidenschaftliche Romanze ist.",
+    quote: "In unserem Alter geht es weniger um Schmetterlinge und mehr um Verlässlichkeit. Das ist auch schön.",
+    rating: 3,
+    tags: ["Ü55-Dating", "Verlässlichkeit", "Begleitung"],
+    gradientFrom: "#FEF9C3",
+    gradientTo: "#FDE68A",
+    textColor: "#92400E"
+  },
+  {
+    id: 21,
+    names: "Lena & Patrick",
+    ages: "29 & 31",
+    avatar1: "LP",
+    avatar2: "PK",
+    howWeMet: "Beim Festival",
+    duration: "2 Jahre",
+    story: "Rock am Ring, Regen, Matsch. Patrick bot Lena sein Bier an, weil sie traurig aussah. Was als betrunkener Festivalspaß begann, überstand den Realitätscheck danach. Heute wohnen sie zusammen und gehen jedes Jahr zurück zum gleichen Festival.",
+    quote: "Wir sagen immer: Der schönste Regen unseres Lebens.",
+    rating: 5,
+    tags: ["Festival-Liebe", "Zusammengezogen", "Tradition"],
+    gradientFrom: "#F3E8FF",
+    gradientTo: "#D8B4FE",
+    textColor: "#7E22CE"
+  },
+  {
+    id: 22,
+    names: "Simone & Torsten",
+    ages: "36 & 40",
+    avatar1: "ST",
+    avatar2: "TN",
+    howWeMet: "Über eine Dating-App",
+    duration: "4 Monate",
+    story: "Simone und Torsten matchten sich und trafen sich schnell. Die Chemie stimmte sofort, aber nach zwei Monaten kam eine Krise. Verschiedene Vorstellungen über Kinder führten zu langen Gesprächen. Sie arbeiten daran und sind vorsichtig optimistisch.",
+    quote: "Wir sind noch am Anfang und es ist nicht perfekt. Aber wir reden miteinander, und das zählt.",
+    rating: 3,
+    tags: ["Online-Dating", "Kommunikation", "Work in Progress"],
+    gradientFrom: "#FFF1F2",
+    gradientTo: "#FECDD3",
+    textColor: "#9F1239"
+  },
+  {
+    id: 23,
+    names: "Diana & Florian",
+    ages: "33 & 35",
+    avatar1: "DF",
+    avatar2: "FL",
+    howWeMet: "Im Fitnessstudio",
+    duration: "3 Jahre",
+    story: "Er bat sie, ihm beim Bankdrücken zu helfen. Sie rollte mit den Augen — der älteste Trick der Welt. Aber Florian war tatsächlich nett und nicht aufdringlich. Nach Wochen des gemeinsamen Trainings fragte er endlich nach einem Kaffee. Heute trainieren sie immer noch zusammen.",
+    quote: "Er war der erste Mann im Gym, der mich nicht genervt hat. Das allein war schon beeindruckend.",
+    rating: 5,
+    tags: ["Fitnessstudio", "Geduld zahlt sich aus", "Sport"],
+    gradientFrom: "#DCFCE7",
+    gradientTo: "#86EFAC",
+    textColor: "#166534"
+  },
+  {
+    id: 24,
+    names: "Anja & Tim",
+    ages: "28 & 29",
+    avatar1: "AT",
+    avatar2: "TM",
+    howWeMet: "Tinder",
+    duration: "1 Jahr",
+    story: "Das typische Tinder-Date: Er sah anders aus als auf den Fotos, sie war nervöser als erwartet. Trotzdem blieben sie drei Stunden im Café. Tim machte keinen perfekten ersten Eindruck, aber Anja gab ihm eine zweite Chance. Eine gute Entscheidung.",
+    quote: "Erste Eindrücke können täuschen. Gut, dass ich ihm noch eine Chance gegeben habe.",
+    rating: 4,
+    tags: ["Tinder", "Zweite Chance", "Nicht perfekt"],
+    gradientFrom: "#FEE2E2",
+    gradientTo: "#FCA5A5",
+    textColor: "#991B1B"
+  },
+  {
+    id: 25,
+    names: "Claudia & Stefan",
+    ages: "47 & 50",
+    avatar1: "CS",
+    avatar2: "SF",
+    howWeMet: "Beim Weinwandern",
+    duration: "2 Jahre",
+    story: "Beide waren allein auf einer Weinwanderung an der Mosel. Nach dem dritten Glas kamen sie ins Gespräch. Stefan ist Lehrer, Claudia Krankenschwester — unterschiedliche Welten, aber gleicher Humor. Sie pendelt jetzt am Wochenende zu ihm.",
+    quote: "Wein hat uns zusammengebracht, aber der Humor hält uns zusammen.",
+    rating: 4,
+    tags: ["Weinwandern", "Humor verbindet", "Wochenendbeziehung"],
+    gradientFrom: "#EDE9FE",
+    gradientTo: "#C4B5FD",
+    textColor: "#5B21B6"
+  },
+  {
+    id: 26,
+    names: "Sarah & Niklas",
+    ages: "24 & 25",
+    avatar1: "SN",
+    avatar2: "NK",
+    howWeMet: "An der Uni",
+    duration: "7 Monate",
+    story: "Sie saßen ein ganzes Semester nebeneinander in der Vorlesung, ohne ein Wort zu wechseln. Erst bei der Lerngruppe für die Klausur kamen sie ins Reden. Es ist noch frisch und sie wollen nichts überstürzen, aber die Zeichen stehen gut.",
+    quote: "Wir nehmen uns bewusst Zeit. Kein Druck, kein Drama. Einfach schauen, wohin es führt.",
+    rating: 3,
+    tags: ["Uni-Liebe", "Slow Dating", "Jung & Entspannt"],
+    gradientFrom: "#F0F9FF",
+    gradientTo: "#BAE6FD",
+    textColor: "#0C4A6E"
+  },
+  {
+    id: 27,
+    names: "Gabi & Rainer",
+    ages: "53 & 57",
+    avatar1: "GR",
+    avatar2: "RN",
+    howWeMet: "Über eine Dating-App",
+    duration: "1,5 Jahre",
+    story: "Gabi hatte null Erfahrung mit Dating-Apps und brauchte die Hilfe ihrer Tochter. Rainer war ihr drittes Date — die ersten zwei waren Katastrophen. Aber beim dritten Mal klappte es. Sie leben getrennt, sehen sich aber fast täglich. Für beide die perfekte Lösung.",
+    quote: "Getrennte Wohnungen, aber ein gemeinsames Leben. In unserem Alter weiß man, was man will.",
+    rating: 5,
+    tags: ["Ü50-Dating", "LAT-Beziehung", "Dritte Mal Glück"],
+    gradientFrom: "#D1FAE5",
+    gradientTo: "#6EE7B7",
+    textColor: "#065F46"
+  },
+  {
+    id: 28,
+    names: "Marie & Jan",
+    ages: "30 & 32",
+    avatar1: "MJ",
+    avatar2: "JN",
+    howWeMet: "Bei einem Blind Date",
+    duration: "5 Monate",
+    story: "Ihre Mütter organisierten das Treffen — peinlich, fanden beide. Aber aus Höflichkeit gingen sie hin. Das Restaurant war überfüllt, sie mussten woanders hin. Dieser spontane Planwechsel brach das Eis. Es ist noch frisch, aber vielversprechend.",
+    quote: "Danke, Mama. Auch wenn ich es nie zugeben werde.",
+    rating: 4,
+    tags: ["Blind Date", "Familie verkuppelt", "Spontan"],
+    gradientFrom: "#FFF7ED",
+    gradientTo: "#FDBA74",
+    textColor: "#C2410C"
+  },
+  {
+    id: 29,
+    names: "Heike & Volker",
+    ages: "60 & 64",
+    avatar1: "HV",
+    avatar2: "VK",
+    howWeMet: "Beim Kreuzfahrt-Urlaub",
+    duration: "3 Jahre",
+    story: "Heike buchte die Kreuzfahrt allein, weil ihre Freundin absagte. Am Kapitänstisch saß Volker, ebenfalls allein unterwegs. Sieben Tage Mittelmeer, und sie redeten jeden Abend stundenlang. Zurück in Deutschland trafen sie sich weiter. Nächstes Jahr fahren sie wieder — als Paar.",
+    quote: "Manchmal muss man die Komfortzone verlassen und alleine losfahren, um jemanden zu finden.",
+    rating: 5,
+    tags: ["Ü60-Dating", "Kreuzfahrt", "Allein verreist"],
+    gradientFrom: "#E0F2FE",
+    gradientTo: "#7DD3FC",
+    textColor: "#0369A1"
+  },
+  {
+    id: 30,
+    names: "Melanie & Christian",
+    ages: "35 & 38",
+    avatar1: "MC",
+    avatar2: "CH",
+    howWeMet: "Über Bumble",
+    duration: "11 Monate",
+    story: "Melanie hatte sich geschworen, nie wieder Online-Dating. Christian war das Gleiche. Beide waren nur aus Langeweile auf Bumble. Das erste Date war ein Desaster — er verschüttete Kaffee auf ihrem Kleid. Trotzdem trafen sie sich wieder. Heute lachen sie darüber.",
+    quote: "Er hat Kaffee auf mein Lieblingskleid geschüttet. Und trotzdem wollte ich ihn wiedersehen. Das sagt wohl alles.",
+    rating: 4,
+    tags: ["Bumble", "Peinliches Erstes Date", "Humor"],
+    gradientFrom: "#FEF3C7",
+    gradientTo: "#FDE68A",
+    textColor: "#92400E"
+  },
+  {
+    id: 31,
+    names: "Daniela & Lukas",
+    ages: "27 & 28",
+    avatar1: "DL",
+    avatar2: "LK",
+    howWeMet: "Im Co-Working-Space",
+    duration: "8 Monate",
+    story: "Beide Freelancer, beide am gleichen Tisch. Erst tauschten sie nur WLAN-Passwörter, dann Mittagessen, dann Telefonnummern. Es ist unkompliziert und leicht. Keine großen Dramen, keine Schmetterlinge — einfach ein ruhiges Zusammenwachsen.",
+    quote: "Wir sind nicht das lauteste Paar. Aber wir passen einfach zusammen, und das reicht.",
+    rating: 4,
+    tags: ["Co-Working", "Freelancer-Liebe", "Unkompliziert"],
+    gradientFrom: "#F0FDF4",
+    gradientTo: "#86EFAC",
+    textColor: "#166534"
+  },
+  {
+    id: 32,
+    names: "Andrea & Matthias",
+    ages: "44 & 48",
+    avatar1: "AM",
+    avatar2: "MT",
+    howWeMet: "Beim Hundespaziergang",
+    duration: "1,5 Jahre",
+    story: "Ihre Hunde verstanden sich sofort. Die Besitzer brauchten etwas länger. Drei Monate lang trafen sie sich zufällig im Park, bis Matthias endlich fragte, ob sie mal ohne Hunde einen Kaffee trinken wollen. Andrea sagte ja — und die Hunde freuten sich auch.",
+    quote: "Unsere Hunde waren die besseren Kuppler als jede App. Rocky und Bella haben das verdient.",
+    rating: 5,
+    tags: ["Hundespaziergang", "Tier-Liebe", "Schicksal"],
+    gradientFrom: "#DCFCE7",
+    gradientTo: "#86EFAC",
+    textColor: "#166534"
+  },
+  {
+    id: 33,
+    names: "Jasmin & Erik",
+    ages: "26 & 30",
+    avatar1: "JE",
+    avatar2: "EK",
+    howWeMet: "Über Instagram",
+    duration: "5 Monate",
+    story: "Erik folgte Jasmin wegen ihrer Reisefotos. Sie folgte zurück, weil sein Hund süß war. Es dauerte Wochen, bis er eine DM schrieb. Es ist noch ganz frisch, sie haben sich erst viermal getroffen. Fernbeziehung München-Berlin ist teuer, aber sie versuchen es.",
+    quote: "Vier Dates in fünf Monaten klingt wenig. Aber jedes einzelne war besonders.",
+    rating: 3,
+    tags: ["Instagram", "Fernbeziehung", "Ganz am Anfang"],
+    gradientFrom: "#F3E8FF",
+    gradientTo: "#D8B4FE",
+    textColor: "#7E22CE"
+  },
+  {
+    id: 34,
+    names: "Karin & Detlef",
+    ages: "56 & 61",
+    avatar1: "KD",
+    avatar2: "DF",
+    howWeMet: "Im Chor",
+    duration: "4 Jahre",
+    story: "Karin singt Sopran, Detlef Bass. Zwei Jahre lang standen sie im gleichen Chor, ohne privat zu reden. Erst die Weihnachtsfeier brachte den Durchbruch. Heute singen sie nicht nur zusammen, sondern leben auch zusammen. Ihre Kinder aus früheren Ehen verstehen sich gut.",
+    quote: "Wir sagen immer: Der Chor hat uns die richtige Tonart fürs Leben gegeben.",
+    rating: 5,
+    tags: ["Chor", "Gemeinsames Hobby", "Patchwork"],
+    gradientFrom: "#EDE9FE",
+    gradientTo: "#C4B5FD",
+    textColor: "#5B21B6"
+  },
+  {
+    id: 35,
+    names: "Vanessa & Kai",
+    ages: "31 & 34",
+    avatar1: "VK",
+    avatar2: "KA",
+    howWeMet: "Beim Speed-Dating",
+    duration: "6 Monate",
+    story: "Vanessa fand Speed-Dating albern, ging aber trotzdem hin. Kai war ihr vorletztes Gespräch — drei Minuten, die alles änderten. Oder auch nicht: Das erste richtige Date war ziemlich awkward. Aber sie gaben sich eine dritte und vierte Chance. Läuft jetzt ganz gut.",
+    quote: "Drei Minuten haben gereicht, um neugierig zu werden. Der Rest hat etwas länger gedauert.",
+    rating: 3,
+    tags: ["Speed-Dating", "Mehrere Chancen", "Geduldig"],
+    gradientFrom: "#FFF1F2",
+    gradientTo: "#FECDD3",
+    textColor: "#9F1239"
+  },
+  {
+    id: 36,
+    names: "Ute & Manfred",
+    ages: "68 & 72",
+    avatar1: "UM",
+    avatar2: "MF",
+    howWeMet: "Im Altersheim-Café",
+    duration: "2 Jahre",
+    story: "Ute zog nach dem Tod ihres Mannes in eine Seniorenresidenz. Manfred lebte schon drei Jahre dort. Er lud sie zum Kartenspiel ein. Aus Skat wurde Freundschaft, aus Freundschaft wurde Liebe. Ihre Enkel finden es süß, die Pfleger freuen sich mit.",
+    quote: "Mit 68 dachte ich, das Kapitel Liebe ist abgeschlossen. Manfred hat ein neues aufgeschlagen.",
+    rating: 4,
+    tags: ["Ü65-Dating", "Seniorenresidenz", "Neues Kapitel"],
+    gradientFrom: "#FEF9C3",
+    gradientTo: "#FDE68A",
+    textColor: "#92400E"
+  },
+  {
+    id: 37,
+    names: "Natascha & Dennis",
+    ages: "29 & 31",
+    avatar1: "ND",
+    avatar2: "DN",
+    howWeMet: "Über OKCupid",
+    duration: "1 Jahr",
+    story: "Natascha mag lange Fragebögen, deshalb OKCupid. Dennis hasst sie, füllte seinen aber trotzdem aus. 93% Match. Das erste Date war okay, nicht mehr. Aber sie schrieben weiter, trafen sich wieder, und irgendwann war da plötzlich dieses Gefühl. Langsam, aber sicher.",
+    quote: "93% Match laut Algorithmus. In Wirklichkeit waren es anfangs eher 60%. Aber wir haben aufgeholt.",
+    rating: 4,
+    tags: ["OKCupid", "Algorithmus-Liebe", "Langsam gewachsen"],
+    gradientFrom: "#DBEAFE",
+    gradientTo: "#93C5FD",
+    textColor: "#1D4ED8"
+  },
+  {
+    id: 38,
+    names: "Franziska & Ole",
+    ages: "33 & 36",
+    avatar1: "FO",
+    avatar2: "OL",
+    howWeMet: "Beim Bouldern",
+    duration: "2 Jahre",
+    story: "Franziska steckte an einer Route fest. Ole half ihr runter. Sie fand ihn erst etwas überheblich, aber beim nächsten Mal in der Halle entschuldigte er sich charmant. Heute klettern sie zusammen — im Sport und im Leben. Verlobung ist geplant.",
+    quote: "Er hat mir beigebracht, dass Vertrauen beim Klettern und in der Liebe gleich wichtig ist.",
+    rating: 5,
+    tags: ["Bouldern", "Sport verbindet", "Verlobung geplant"],
+    gradientFrom: "#D1FAE5",
+    gradientTo: "#6EE7B7",
+    textColor: "#065F46"
+  },
+  {
+    id: 39,
+    names: "Petra & Achim",
+    ages: "51 & 54",
+    avatar1: "PA",
+    avatar2: "AC",
+    howWeMet: "Über Parship",
+    duration: "7 Monate",
+    story: "Petra zahlte widerwillig für Parship, weil ihre Schwester es empfahl. Achim war ihr fünftes Date in drei Monaten — die vorherigen vier waren enttäuschend. Er war anders: ruhig, aufmerksam, ehrlich. Es ist noch nicht perfekt, sie streiten über Kleinigkeiten. Aber die Basis stimmt.",
+    quote: "Nach vier schlechten Dates wollte ich aufgeben. Nummer fünf hat alles geändert.",
+    rating: 3,
+    tags: ["Parship", "Nicht aufgeben", "Work in Progress"],
+    gradientFrom: "#FEE2E2",
+    gradientTo: "#FCA5A5",
+    textColor: "#991B1B"
+  },
+  {
+    id: 40,
+    names: "Sonja & Marcus",
+    ages: "37 & 39",
+    avatar1: "SM",
+    avatar2: "MR",
+    howWeMet: "Am Arbeitsplatz",
+    duration: "3 Jahre",
+    story: "Alle warnten: Keine Beziehung mit Kollegen. Aber als Sonja und Marcus beim Firmenlauf nebeneinander liefen und einfach nicht aufhören konnten zu reden, ignorierten sie den Rat. Inzwischen arbeitet Sonja woanders, aber zusammen sind sie immer noch.",
+    quote: "Ja, es war riskant. Ja, es war kompliziert. Und ja, es war die beste Entscheidung meines Lebens.",
+    rating: 5,
+    tags: ["Büro-Romanze", "Risiko", "Firmenlauf"],
+    gradientFrom: "#E0E7FF",
+    gradientTo: "#A5B4FC",
+    textColor: "#4338CA"
+  },
+  {
+    id: 41,
+    names: "Leonie & Tom",
+    ages: "24 & 25",
+    avatar1: "LT",
+    avatar2: "TM",
+    howWeMet: "Über Hinge",
+    duration: "3 Monate",
+    story: "Tom schickte den schlimmsten Opening-Satz, den Leonie je gelesen hatte. Sie antwortete nur aus Mitleid. Aber dann wurde es witzig, dann interessant, dann persönlich. Drei Monate ist es jetzt her. Noch ganz frisch, noch ganz aufregend, noch ganz unsicher.",
+    quote: "Sein erster Satz war so schlecht, dass er schon wieder gut war. Und dann wurde es besser.",
+    rating: 3,
+    tags: ["Hinge", "Schlechter Start", "Ganz frisch"],
+    gradientFrom: "#F0F9FF",
+    gradientTo: "#BAE6FD",
+    textColor: "#0C4A6E"
+  },
+  {
+    id: 42,
+    names: "Gabriele & Friedrich",
+    ages: "63 & 67",
+    avatar1: "GF",
+    avatar2: "FR",
+    howWeMet: "Beim Malkurs",
+    duration: "5 Jahre",
+    story: "Nach der Pensionierung wollte Gabriele endlich malen lernen. Friedrich war seit Jahren im Kurs und bot ihr Hilfe an. Erst malten sie Stillleben, dann Landschaften, dann Porträts voneinander. Letztes Weihnachten haben sie geheiratet — kleine Feier, großes Glück.",
+    quote: "Friedrich hat mich gelehrt, dass man auch mit über 60 noch ein komplett neues Bild vom Leben malen kann.",
+    rating: 5,
+    tags: ["Ü60-Dating", "Malkurs", "Hochzeit"],
+    gradientFrom: "#FFF7ED",
+    gradientTo: "#FDBA74",
+    textColor: "#C2410C"
+  },
+  {
+    id: 43,
+    names: "Isabel & Nico",
+    ages: "30 & 33",
+    avatar1: "IN",
+    avatar2: "NC",
+    howWeMet: "Beim Nachbarn",
+    duration: "1,5 Jahre",
+    story: "Isabel und Nico wohnten drei Jahre im selben Haus, ohne ein Wort zu wechseln. Erst ein Paketbote, der bei ihr klingelte, weil Nico nicht da war, brachte den Kontakt. Sie brachte das Paket vorbei, er lud sie auf einen Tee ein. Der Rest ergab sich von selbst.",
+    quote: "Drei Jahre Tür an Tür und wir haben uns ignoriert. Danke an DHL für die Hilfe.",
+    rating: 4,
+    tags: ["Nachbarn", "Zufallsbegegnung", "Lustiger Anfang"],
+    gradientFrom: "#DCFCE7",
+    gradientTo: "#86EFAC",
+    textColor: "#166534"
+  }
+];
+
+const formSubmitted = false;
+---
+
+<BaseLayout
+  title="Erfolgsgeschichten — Herzblatt Journal | Echte Liebesgeschichten unserer Leser"
+  description="Lese echte Erfolgsgeschichten von Paaren, die durch Dating-Ratgeber, Tipps und sich selbst die große Liebe gefunden haben. Inspirierende Liebesgeschichten aus dem deutschsprachigen Raum."
+>
+  <!-- Hero Section -->
+  <section class="relative overflow-hidden py-20 sm:py-28">
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, var(--color-primary-50) 0%, var(--color-surface-100) 50%, var(--color-primary-50) 100%);"></div>
+    <div class="absolute top-10 left-10 w-72 h-72 rounded-full opacity-20" style="background: var(--color-primary-200); filter: blur(80px);"></div>
+    <div class="absolute bottom-10 right-10 w-96 h-96 rounded-full opacity-15" style="background: var(--color-primary-300); filter: blur(100px);"></div>
+
+    <div class="relative max-w-4xl mx-auto px-4 sm:px-6 text-center">
+      <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-semibold mb-6" style="background: var(--color-primary-100); color: var(--color-primary-700);">
+        <span class="heart-pulse">💕</span> Wahre Geschichten
+      </div>
+      <h1 class="text-4xl sm:text-5xl font-extrabold mb-6" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.03em; line-height: 1.1;">
+        Echte Liebesgeschichten<br>
+        <span style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">unserer Leser</span>
+      </h1>
+      <p class="text-lg sm:text-xl max-w-2xl mx-auto leading-relaxed" style="color: var(--text-muted);">
+        Inspiration pur: Echte Menschen, echte Begegnungen, echte Liebe. Lese, wie unsere Leser die Partner ihres Lebens gefunden haben — und lass dich von ihren Geschichten inspirieren.
+      </p>
+    </div>
+  </section>
+
+  <!-- Stats Bar -->
+  <section class="relative -mt-8 z-10 max-w-5xl mx-auto px-4 sm:px-6">
+    <div class="rounded-2xl p-6 sm:p-8 shadow-lg" style="background: var(--bg); border: 1px solid var(--border);">
+      <div class="grid grid-cols-2 sm:grid-cols-3 gap-6 text-center">
+        <div>
+          <p class="text-3xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">250+</p>
+          <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Erfolgsgeschichten</p>
+        </div>
+        <div>
+          <p class="text-3xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">89%</p>
+          <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">fanden die große Liebe</p>
+        </div>
+        <div>
+          <p class="text-3xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">Seit 2024</p>
+          <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Begleiten wir dich</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="max-w-6xl mx-auto px-4 sm:px-6">
+
+    <!-- Success Stories Grid -->
+    <section class="py-16">
+      <div class="flex items-center gap-3 mb-8">
+        <div class="w-1 h-8 rounded-full" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-300));"></div>
+        <h2 class="text-2xl font-bold" style="color: var(--text); font-family: var(--font-serif);">Die schönsten Erfolgsgeschichten</h2>
+      </div>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 mb-12">
+        {successStories.map((story) => (
+          <div class="rounded-2xl p-6 overflow-hidden" style={`background: var(--bg-soft); border: 1px solid var(--border); transition: all 0.3s ease;`}>
+            <!-- Header with avatars and metadata -->
+            <div class="flex items-start justify-between mb-4">
+              <div>
+                <h3 class="text-lg font-bold" style="color: var(--text);">{story.names}</h3>
+                <p class="text-sm" style="color: var(--text-muted);">{story.ages}</p>
+                <p class="text-xs font-medium mt-2" style="color: var(--color-primary-600);">📍 {story.howWeMet}</p>
+              </div>
+              <div class="flex gap-2">
+                <div
+                  class="w-12 h-12 rounded-full flex items-center justify-center text-sm font-bold"
+                  style={`background: linear-gradient(135deg, ${story.gradientFrom}, ${story.gradientTo}); color: ${story.textColor};`}
+                >
+                  {story.avatar1}
+                </div>
+                <div
+                  class="w-12 h-12 rounded-full flex items-center justify-center text-sm font-bold"
+                  style={`background: linear-gradient(135deg, ${story.gradientFrom}, ${story.gradientTo}); color: ${story.textColor};`}
+                >
+                  {story.avatar2}
+                </div>
+              </div>
+            </div>
+
+            <!-- Duration badge -->
+            <div class="inline-block px-3 py-1 rounded-full text-xs font-semibold mb-4" style={`background: rgba(${story.textColor === '#B91C1C' ? '185, 28, 28' : story.textColor === '#166534' ? '22, 101, 52' : story.textColor === '#4338CA' ? '67, 56, 202' : story.textColor === '#7E22CE' ? '126, 34, 206' : story.textColor === '#B45309' ? '180, 83, 9' : story.textColor === '#991B1B' ? '153, 27, 27' : story.textColor === '#1E40AF' ? '30, 64, 175' : '54, 83, 20'}, 0.15); color: ${story.textColor};`}>
+              💕 Zusammen seit {story.duration}
+            </div>
+
+            <!-- Story text -->
+            <p class="text-sm leading-relaxed mb-4" style="color: var(--text-muted);">
+              {story.story}
+            </p>
+
+            <!-- Quote -->
+            <div class="mb-4 pl-4 border-l-2" style={`border-color: ${story.textColor}; color: var(--text-muted);`}>
+              <p class="text-sm italic">"{story.quote}"</p>
+            </div>
+
+            <!-- Rating -->
+            <div class="flex gap-1 mb-4">
+              {[...Array(5)].map((_, i) => (
+                <span style={i < story.rating ? "color: #F59E0B;" : "color: #D1D5DB;"}>{i < story.rating ? "★" : "☆"}</span>
+              ))}
+            </div>
+
+            <!-- Tags -->
+            <div class="flex flex-wrap gap-2">
+              {story.tags.map((tag) => (
+                <span
+                  class="text-xs px-2 py-1 rounded-full font-medium"
+                  style={`background: ${story.textColor}20; color: ${story.textColor};`}
+                >
+                  {tag}
+                </span>
+              ))}
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="relative overflow-hidden rounded-2xl p-8 sm:p-12 mb-12 text-center" style="background: linear-gradient(135deg, var(--color-primary-50), var(--color-surface-100)); border: 1px solid var(--color-primary-100);">
+      <div class="absolute -top-10 -right-10 w-40 h-40 rounded-full opacity-10" style="background: var(--color-primary-300); filter: blur(60px);"></div>
+      <div class="absolute -bottom-10 -left-10 w-40 h-40 rounded-full opacity-10" style="background: var(--color-primary-200); filter: blur(60px);"></div>
+
+      <div class="relative max-w-2xl mx-auto">
+        <h2 class="text-3xl font-extrabold mb-4" style="color: var(--text); font-family: var(--font-serif);">
+          Bereit für deine eigene<br>
+          <span style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Erfolgsgeschichte?</span>
+        </h2>
+        <p class="text-base leading-relaxed mb-8" style="color: var(--text-muted);">
+          Die Tipps und Ratgeber von Herzblatt Journal haben hunderten geholfen, ihre große Liebe zu finden. Es könnte auch deine Geschichte sein.
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <a
+            href="https://www.dating-tracker.com/cmp/CLQ868/78NZBG/?source_id=erfolgsgeschichten&sub1=cta-button"
+            target="_blank"
+            rel="nofollow sponsored noopener noreferrer"
+            class="inline-flex items-center justify-center gap-2 px-8 py-3 rounded-full text-sm font-bold text-white transition-all hover:shadow-md hover:-translate-y-0.5"
+            style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700));"
+          >
+            Jetzt starten
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+          </a>
+          <a
+            href="/top-dating-seiten"
+            class="inline-flex items-center justify-center gap-2 px-8 py-3 rounded-full text-sm font-semibold transition-all hover:shadow-md"
+            style="color: var(--color-primary-600); background: var(--color-primary-50); border: 1px solid var(--color-primary-200);"
+          >
+            Alle Plattformen vergleichen
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Form Section -->
+    <section class="py-16" style="border-top: 1px solid var(--border);">
+      <div class="flex items-center gap-3 mb-6">
+        <div class="w-1 h-8 rounded-full" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-300));"></div>
+        <h2 class="text-2xl font-bold" style="color: var(--text); font-family: var(--font-serif);">Deine Geschichte teilen</h2>
+      </div>
+
+      <div class="max-w-2xl">
+        <p class="text-base leading-relaxed mb-8" style="color: var(--text-muted);">
+          Du hast deine große Liebe gefunden? Inspiriere andere mit deiner Geschichte! Teile, wie du deinen Partner kennengelernt hast und wie die Herzblatt Journal Tipps dir geholfen haben.
+        </p>
+
+        <form id="successStoryForm" class="space-y-6">
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+            <div>
+              <label for="firstName" class="block text-sm font-semibold mb-2" style="color: var(--text);">Euer Namen</label>
+              <input
+                type="text"
+                id="firstName"
+                placeholder="z.B. Lisa & Marco"
+                class="w-full px-4 py-3 rounded-lg text-sm transition-all"
+                style="background: var(--bg); border: 1px solid var(--border); color: var(--text);"
+                required
+              />
+            </div>
+            <div>
+              <label for="email" class="block text-sm font-semibold mb-2" style="color: var(--text);">Eure E-Mail</label>
+              <input
+                type="email"
+                id="email"
+                placeholder="kontakt@example.com"
+                class="w-full px-4 py-3 rounded-lg text-sm transition-all"
+                style="background: var(--bg); border: 1px solid var(--border); color: var(--text);"
+                required
+              />
+            </div>
+          </div>
+
+          <div>
+            <label for="story" class="block text-sm font-semibold mb-2" style="color: var(--text);">Eure Geschichte (mindestens 100 Zeichen)</label>
+            <textarea
+              id="story"
+              placeholder="Schreib uns: Wie habt ihr euch kennengelernt? Wie hat Herzblatt Journal euch geholfen? Was hat sich seitdem verändert?"
+              rows="6"
+              class="w-full px-4 py-3 rounded-lg text-sm transition-all resize-none"
+              style="background: var(--bg); border: 1px solid var(--border); color: var(--text);"
+              required
+            ></textarea>
+            <p class="text-xs mt-2" style="color: var(--text-muted);">Datenschutz: Deine Story wird nur mit deiner Zustimmung veröffentlicht.</p>
+          </div>
+
+          <button
+            type="submit"
+            class="w-full px-6 py-3 rounded-full text-sm font-bold text-white transition-all hover:shadow-md hover:-translate-y-0.5 cursor-pointer"
+            style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); border: none;"
+          >
+            Meine Geschichte einreichen
+          </button>
+
+          <div id="successMessage" class="hidden p-4 rounded-lg text-center" style="background: var(--color-primary-50); border: 1px solid var(--color-primary-200);">
+            <p class="text-sm font-semibold" style="color: var(--color-primary-700);">
+              💕 Danke! Deine Geschichte hat uns erreicht. Wir überprüfen sie und melden uns bei dir!
+            </p>
+          </div>
+        </form>
+      </div>
+    </section>
+
+    <!-- Why Share Section -->
+    <section class="py-16" style="border-top: 1px solid var(--border);">
+      <div class="flex items-center gap-3 mb-6">
+        <div class="w-1 h-8 rounded-full" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-300));"></div>
+        <h2 class="text-2xl font-bold" style="color: var(--text); font-family: var(--font-serif);">Warum eine Geschichte teilen?</h2>
+      </div>
+
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-5">
+        <div class="rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="text-3xl mb-3">💡</div>
+          <h3 class="text-sm font-bold mb-2" style="color: var(--text);">Andere inspirieren</h3>
+          <p class="text-sm" style="color: var(--text-muted);">Deine Geschichte könnte jemanden Hoffnung geben, der gerade zu zweifeln beginnt.</p>
+        </div>
+        <div class="rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="text-3xl mb-3">🎁</div>
+          <h3 class="text-sm font-bold mb-2" style="color: var(--text);">Wertvolles Feedback</h3>
+          <p class="text-sm" style="color: var(--text-muted);">Hilf uns, unsere Ratgeber noch besser zu machen, indem du teilst, was wirklich funktioniert.</p>
+        </div>
+        <div class="rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="text-3xl mb-3">✨</div>
+          <h3 class="text-sm font-bold mb-2" style="color: var(--text);">Für die Ewigkeit</h3>
+          <p class="text-sm" style="color: var(--text-muted);">Deine Liebesgeschichte wird auf Herzblatt Journal verewigt und inspiriert kommende Generationen.</p>
+        </div>
+      </div>
+    </section>
+
+  </div>
+
+  <style>
+    .heart-pulse {
+      animation: heartbeat 1.4s ease-in-out infinite;
+    }
+    @keyframes heartbeat {
+      0%, 100% { transform: scale(1); }
+      15% { transform: scale(1.25); }
+      30% { transform: scale(1); }
+      45% { transform: scale(1.2); }
+      60% { transform: scale(1); }
+    }
+    input:focus, textarea:focus {
+      outline: none;
+      border-color: var(--color-primary-300) !important;
+      box-shadow: 0 0 0 3px var(--color-primary-100);
+    }
+  </style>
+
+  <script>
+    document.getElementById('successStoryForm').addEventListener('submit', function(e) {
+      e.preventDefault();
+
+      const form = this;
+      const successMessage = document.getElementById('successMessage');
+
+      // Validate inputs
+      const names = document.getElementById('firstName').value.trim();
+      const email = document.getElementById('email').value.trim();
+      const story = document.getElementById('story').value.trim();
+
+      if (!names || !email || !story) {
+        alert('Bitte alle Felder ausfüllen');
+        return;
+      }
+
+      if (story.length < 100) {
+        alert('Deine Geschichte sollte mindestens 100 Zeichen lang sein');
+        return;
+      }
+
+      // Show success message and reset form
+      form.style.display = 'none';
+      successMessage.classList.remove('hidden');
+
+      // Reset form after 3 seconds
+      setTimeout(() => {
+        form.reset();
+        form.style.display = 'block';
+        successMessage.classList.add('hidden');
+      }, 5000);
+    });
+  </script>
+</BaseLayout>

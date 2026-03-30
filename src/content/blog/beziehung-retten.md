@@ -1,7 +1,7 @@
 ---
 title: "Beziehung retten: Praktische Strategien"
 description: "Beziehung retten: Lerne konkrete Strategien, um wieder Nähe aufzubauen, Kommunikation zu verbessern und deine Liebe zu retten — praktische Schritte."
-date: "2025-03-03"
+date: 2025-03-03
 image: "/images/photos/beziehung-retten.webp"
 tags:
   - "beziehung"

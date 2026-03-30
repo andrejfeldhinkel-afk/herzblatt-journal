@@ -1,7 +1,7 @@
 ---
 title: "Micro-Dating: Der Trend für Vielbeschäftigte"
 description: "Micro-Dating: Der Trend für Vielbeschäftigte. Warum kurze 15-30-Minuten-Dates effizient sind und wie du diesen Trend 2026 strategisch nutzt."
-date: "2025-10-09"
+date: 2025-10-09
 image: "/images/photos/micro-dating-trend-guide.webp"
 tags:
   - "Dating-Trends"

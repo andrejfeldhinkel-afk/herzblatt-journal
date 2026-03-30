@@ -1,6 +1,7 @@
 ---
 title: "Liebesbrief schreiben: Anleitung mit Beispielen & Vorlagen"
 description: "Lern wie du einen echten Liebesbrief schreibst. Mit Tipps, Beispielen und Vorlagen für deine Liebeserklärung. Jetzt inspirieren lassen!"
+date: 2025-11-25
 tags:
   - "Liebesbrief"
   - "Beziehung"

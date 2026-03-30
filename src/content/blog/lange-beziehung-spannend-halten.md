@@ -1,7 +1,7 @@
 ---
 title: "Lange Beziehung spannend halten: Tipps"
 description: "Lange Beziehung spannend halten: Wie du deine Liebe nach Jahren lebendig und aufregend hältst. Praktische Tipps für Paare."
-date: "2025-09-19"
+date: 2025-09-19
 image: "/images/photos/lange-beziehung-spannend-halten.webp"
 tags:
   - "beziehung"

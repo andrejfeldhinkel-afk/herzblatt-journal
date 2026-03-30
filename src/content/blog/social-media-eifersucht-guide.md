@@ -1,7 +1,7 @@
 ---
 title: "Social-Media-Eifersucht: Der komplette Guide"
 description: "Social-Media-Eifersucht: Likes, Follows, DMs. So erkennst und bewältigst du digitale Eifersucht in modernen Beziehungen konstruktiv."
-date: "2025-11-08"
+date: 2025-11-08
 image: "/images/photos/social-media-eifersucht-guide.webp"
 tags:
   - "Social Media"

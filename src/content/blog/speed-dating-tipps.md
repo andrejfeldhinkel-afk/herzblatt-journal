@@ -1,6 +1,7 @@
 ---
 title: "Speed-Dating-Tipps: So überzeugst du sofort"
 description: "Speed-Dating Tipps: Lerne praktische Strategien für schnelle Verbindungen und Chancenmaximierung. Mit Tipps zum Überzeugen beim Speed Dating!"
+date: 2025-12-15
 tags:
   - "Dating-Tipps"
   - "Erstes Date"

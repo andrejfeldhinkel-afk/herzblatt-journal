@@ -1,6 +1,7 @@
 ---
 title: "Partner finden durch Hobbys: Wo du offline die Liebe triffst"
 description: "Partner finden durch Hobbys: Die besten Aktivitäten und Orte zum Offline-Kennenlernen. Wie du echte Verbindungen aufbaust und die Liebe findest."
+date: 2025-12-15
 tags:
   - "Dating-Tipps"
   - "Flirten"

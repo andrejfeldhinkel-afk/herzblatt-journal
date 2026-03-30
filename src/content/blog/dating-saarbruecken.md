@@ -1,6 +1,7 @@
 ---
 title: "Dating in Saarbrücken: Die besten Orte, Tipps & Hotspots"
 description: "Saarbrücken Dating-Guide: St. Johanner Markt, Deutsch-Französischer Garten & mehr. Romantik in der Grenzstadt für dein perfektes Date!"
+date: 2025-08-05
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

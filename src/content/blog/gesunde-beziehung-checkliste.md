@@ -1,6 +1,7 @@
 ---
 title: "Gesunde Beziehung: Die ultimative Checkliste"
 description: "Gesunde Beziehung Checkliste: Woran erkennst du eine wirklich gesunde Partnerschaft? Die ultimative Kontrollliste für echte Liebe und Vertrauen."
+date: 2025-10-19
 tags:
   - "Beziehung"
   - "Ratgeber"

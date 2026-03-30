@@ -1,7 +1,7 @@
 ---
 title: "Erstes Date: Wohin? 25 geniale Orte"
 description: "25 inspirierende Date-Ideen nach Kategorien. Von Abenteuer bis Gemütlichkeit – finde den perfekten Ort für dein erstes Date."
-date: "2025-08-03"
+date: 2025-08-03
 image: "/images/photos/erste-date-wo-hingehen.webp"
 tags:
   - "Erstes Date"

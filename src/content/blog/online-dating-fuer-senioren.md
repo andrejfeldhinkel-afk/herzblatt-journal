@@ -1,6 +1,7 @@
 ---
 title: "Online-Dating für Senioren: Tech & Tipps für 65+"
 description: "Online-Dating für Senioren: Praktischer Leitfaden für 65+. Navigiere Dating-Apps sicher und finde echte Verbindung — Tech & Tipps."
+date: 2025-12-15
 tags:
   - "Ü40"
   - "Online-Dating"

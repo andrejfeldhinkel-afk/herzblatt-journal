@@ -1,7 +1,7 @@
 ---
 title: "Erstes Date Outfit: Was solltest du anziehen?"
 description: "Erstes Date Outfit: Das richtige Anziehen. Praktische Tipps zur Kleiderwahl, Styling und zum Selbstbewusstsein beim Dating."
-date: "2025-08-07"
+date: 2025-08-07
 image: "/images/photos/erstes-date-outfit.webp"
 tags:
   - "dating"

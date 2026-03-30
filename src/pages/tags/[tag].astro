@@ -5,21 +5,29 @@ import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
-  const tags = [...new Set(posts.flatMap(post => post.data.tags || []))];
+  const tagPosts = new Map();
   
-  return tags.map(tag => ({
-    params: { tag },
-    props: {
-      tag,
-      posts: posts
-        .filter(post => (post.data.tags || []).includes(tag) && !post.data.draft)
-        .sort((a, b) => {
-          const dateA = a.data.date ? new Date(a.data.date).valueOf() : 0;
-          const dateB = b.data.date ? new Date(b.data.date).valueOf() : 0;
-          return dateB - dateA;
-        }),
-    },
-  }));
+  for (const post of posts) {
+    if (post.data.draft) continue;
+    for (const tag of post.data.tags) {
+      if (!tagPosts.has(tag)) {
+        tagPosts.set(tag, []);
+      }
+      tagPosts.get(tag).push(post);
+    }
+  }
+  
+  const paths = [];
+  for (const [tag, postList] of tagPosts) {
+    paths.push({
+      params: { tag },
+      props: {
+        tag,
+        posts: postList.sort((a, b) => (b.data.date?.valueOf?.() || 0) - (a.data.date?.valueOf?.() || 0)),
+      },
+    });
+  }
+  return paths;
 }
 
 const { tag, posts } = Astro.props;

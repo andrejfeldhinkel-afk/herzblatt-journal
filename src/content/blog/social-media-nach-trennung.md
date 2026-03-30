@@ -1,6 +1,7 @@
 ---
 title: "Social Media nach der Trennung: Blockieren oder nicht?"
 description: "Social Media nach Trennung: Blockieren, Entfolgen oder Stummschalten? Strategien für den Umgang mit deinem Ex online ohne emotionalen Schmerz."
+date: 2025-12-15
 image: "/images/photos/social-media-nach-trennung.webp"
 imageAlt: "Social Media Entscheidungen nach der Trennung"
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "Partner lügt über Kleinigkeiten: Warum und was es bedeutet"
 description: "Kleine Lügen in der Beziehung: Wie du verarbeitest, wenn dein Partner immer kleine Unwahrheiten erzählt"
+date: 2025-12-15
 image: "/images/photos/partner-luegt-ueber-kleinigkeiten.webp"
 imageAlt: "Kleine Lügen in der Beziehung erkennen"
 tags:
@@ -19,11 +20,11 @@ featured: false
 author: "thomas-peters"
 faq:
   - question: "Sind kleine Lügen weniger schlimm als große Lügen?"
-    answer: "Nicht unbedingt. Eine große Lüge ist ein Event. Kleine Lügen sind ein Pattern. Ein Pattern zerstört das Vertrauen langsamer, aber gründlicher. Am Ende fragt sich der andere:"
+    answer: "Nicht unbedingt. Eine große Lüge ist ein Event. Kleine Lügen sind ein Pattern. Ein Pattern zerstört das Vertrauen langsamer, aber gründlicher. Am Ende fragt sich der andere: 'Kann ich überhaupt irgendetwas glauben, das dieser Mensch mir sagt?'"
   - question: "Muss ich jede kleine Lüge ansprechen?"
-    answer: "Nein. Aber ein Pattern ansprechen — ja."
+    answer: "Nein. Aber ein Pattern ansprechen — ja. 'Mir ist aufgefallen, dass du mich manchmal über kleine Dinge anlügst. Ich möchte verstehen, warum. Das verletzt mein Vertrauen.' Das ist anders als auf jede kleine Lüge herumzureiten."
   - question: "Warum lügt jemand, den man liebt, überhaupt über Kleinigkeiten?"
-    answer: "Oft aus Angst vor Konflikt, Scham, dem Gefühl"
+    answer: "Oft aus Angst vor Konflikt, Scham, dem Gefühl 'die Wahrheit ist unbequem' oder — und das ist wichtig — weil es ein Gewohnheits-Pattern ist. Manche Menschen lügen, weil sie gelernt haben, dass Wahrheit unsicher ist. Das ist nicht deine Schuld, aber es ist etwas, das bearbeitet werden muss."
   - question: "Wenn er/sie lügt, bedeutet das, dass ich ihm/ihr nicht trauen kann?"
     answer: "Nicht automatisch. Es bedeutet, dass dieses spezifische Verhalten nicht vertrauenswürdig ist. Es ist wichtig, zwischen der Person und dem Verhalten zu unterscheiden. Dein Partner kann in manchen Dingen sehr vertrauenswürdig und in anderen Dingen verlogen sein. Das heißt aber nicht, dass du alles akzeptieren musst."
   - question: "Wie gehe ich damit um, wenn ich merke, dass ich paranoid werde?"

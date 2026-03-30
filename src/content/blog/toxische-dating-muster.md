@@ -1,6 +1,7 @@
 ---
 title: "5 toxische Dating-Muster, die du sofort durchbrechen"
 description: "Immer wieder dieselben Fehler? Erfahre, welche unbewussten Muster dein Liebesleben sabotieren und wie du sie endlich änderst."
+date: 2025-12-15
 tags:
   - "Psychologie"
   - "Red-Flags"

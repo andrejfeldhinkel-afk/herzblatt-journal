@@ -1,6 +1,7 @@
 ---
 title: "Langeweile in der Beziehung? So bringst du frischen Wind"
 description: "Langeweile in der Beziehung ist normal, aber gefährlich. Entdecke erprobte Strategien, um die Leidenschaft und Spannung zurückzubringen."
+date: 2025-02-06
 tags:
   - "Beziehung"
   - "Ratgeber"

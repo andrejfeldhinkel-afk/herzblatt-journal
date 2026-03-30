@@ -1,6 +1,7 @@
 ---
 title: "Trennung bereuen: Zurück oder weitergehen?"
 description: "Trennung bereuen: Solltest du zurückgehen oder weitermachen? Unterscheide zwischen Heimweh und echter Liebe, und triff die richtige Entscheidung für dein Leben."
+date: 2025-12-15
 image: "/images/photos/trennung-bereuen-was-tun.webp"
 imageAlt: "Nachdenklicher Blick zurück nach einer Trennung"
 tags:
@@ -23,7 +24,7 @@ faq:
   - question: "Wird es beim zweiten Mal besser, wenn wir zurückgehen?"
     answer: "Manchmal ja, manchmal nein. Wenn die grundlegenden Probleme nicht gelöst wurden, werden sie einfach wiederkommen. Ein zweiter Versuch funktioniert nur, wenn wirkliche Veränderung geschah."
   - question: "Wie sage ich dem Ex, dass ich Reue habe, ohne mein Selbstwertgefühl zu verlieren?"
-    answer: "Sei ehrlich, aber nicht verzweifelt."
+    answer: "Sei ehrlich, aber nicht verzweifelt. 'Ich vermisse dich und glaube, wir sollten reden' ist besser als 'Bitte nimm mich zurück, ich kann ohne dich nicht leben'. Bewahre deine Würde."
   - question: "Was wenn der Ex nicht zurückkommt, auch wenn ich Reue habe?"
     answer: "Das ist schmerzhaft, aber auch befreiend. Es bedeutet: Die Tür ist geschlossen. Und manchmal ist das das beste, was passieren kann. Wende dich nach vorne, nicht nach hinten."
 ---

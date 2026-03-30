@@ -1,6 +1,7 @@
 ---
 title: "Beziehung retten: Der ehrliche Guide wenn es die letzte"
 description: "Beziehung retten wenn alles auf dem Spiel steht. Ehrliche Strategien, konkrete Übungen und der Mut zur Wahrheit — dein Guide für die letzte Chance."
+date: 2025-02-25
 tags:
   - "Beziehung"
   - "Kommunikation"

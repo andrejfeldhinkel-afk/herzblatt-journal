@@ -1,6 +1,7 @@
 ---
 title: "Partner vergleicht mich mit der Ex: So reagierst du"
 description: "Partner vergleicht mit Ex-Partner: Warum das passiert, wie es dich beeinflusst und wie du damit umgehst – praktische Strategien"
+date: 2025-12-15
 image: "/images/photos/partner-vergleicht-mich-mit-ex.webp"
 imageAlt: "Partner der Vergleiche mit der Ex-Partnerin zieht"
 tags:
@@ -20,9 +21,9 @@ faq:
   - question: "Ist Vergleichen mit der Ex immer ein Dealbreaker?"
     answer: "Nicht automatisch. Wenn es einmalig passiert und der Partner es einsieht, ist es machbar. Wenn es ein Muster ist – ja, das ist ein Problem. Ein Partner, der das kontinuierlich tut, respektiert dich nicht genug."
   - question: "Wie reagiere ich, wenn der Partner das macht?"
-    answer: "Nicht emotional. Sprich ruhig:"
+    answer: "Nicht emotional. Sprich ruhig: \"Ich fühle mich verletzt, wenn du mich mit deiner Ex vergleichst. Ich bin nicht sie, und ich will nicht mit ihr verglichen werden.\" Wenn er/sie defensiv wird – das ist ein Zeichen, dass er/sie das Verhalten verteidigen will."
   - question: "Was, wenn es in der Öffentlichkeit passiert?"
-    answer: "Das ist schlimmer als privat. Das ist nicht nur ein Vergleich – das ist öffentliche Demütigung. Das braucht ein ernstes Gespräch."
+    answer: "Das ist schlimmer als privat. Das ist nicht nur ein Vergleich – das ist öffentliche Demütigung. Das braucht ein ernstes Gespräch. \"Das war nicht okay. Ich fühle mich vor deinen Freunden beschämt.\" Wenn es wieder passiert – du hast ein Kontrollproblem."
   - question: "Sollte ich meine Ex-Partner mit meinem Partner vergleichen?"
     answer: "Nein. Das ist Rache und macht alles schlimmer. Dein Ziel sollte sein, das Vergleichen zu stoppen, nicht es eskaliert. Wenn du merkst, dass du das tun willst – das ist ein Zeichen, dass ihr beide in einer ungesunden Dynamik seid."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Das erste Beziehungsjahr: Was wirklich passiert"
 description: "Das erste Jahr einer Beziehung: Ein detaillierter Guide durch alle Phasen und Herausforderungen, um dich auf das vorzubereiten."
-date: "2025-08-09"
+date: 2025-08-09
 image: "/images/photos/erstes-jahr-beziehung.webp"
 tags:
   - "Beziehungstipps"

@@ -1,6 +1,7 @@
 ---
 title: "Micro-Dating — Kleine Momente die eure Beziehung retten"
 description: "Wie kleine Momente des Miteinanders deine Beziehung retten können: 30+ Micro-Date-Ideen und die Wissenschaft dahinter."
+date: 2025-12-09
 author: "sarah-kellner"
 tags:
   - "Beziehung"

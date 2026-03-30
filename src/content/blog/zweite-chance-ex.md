@@ -1,6 +1,7 @@
 ---
 title: "Zweite Chance für den Ex? Wann ein Neustart sinnvoll ist"
 description: "Solltest du deinen Ex zurückgeben eine Chance? Lerne, wie du erkennst, ob ein Neustart möglich ist oder ob es besser ist, loszulassen."
+date: 2025-12-15
 tags:
   - "Beziehungen"
   - "Psychologie"

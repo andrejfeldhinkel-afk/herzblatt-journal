@@ -1,6 +1,7 @@
 ---
 title: "Vertrauen aufbauen in der Beziehung: 12 bewährte Strategien"
 description: "Vertrauen ist das Fundament jeder Beziehung. Erfahre, wie du Vertrauen aufbaust, stärkst und nach Enttäuschungen wiederherstellst."
+date: 2025-12-15
 tags:
   - "Beziehungen"
   - "Psychologie"

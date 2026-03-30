@@ -1,6 +1,7 @@
 ---
 title: "Wenn der Partner zu viel trinkt: Alkohol in der Beziehung"
 description: "Dein Partner trinkt zu viel? Erfahre woran du ein Alkoholproblem erkennst, wie du es ansprichst und wo die Grenze zwischen Unterstützung und Selbstschutz liegt."
+date: 2025-12-15
 tags:
   - "Beziehung"
   - "Gesundheit"
@@ -18,7 +19,7 @@ faq:
   - question: "Woran erkenne ich dass mein Partner ein Alkoholproblem hat?"
     answer: "Wenn er regelmäßig mehr trinkt als geplant, gereizt reagiert wenn du es ansprichst, Alkohol braucht um zu entspannen, und sein Trinkverhalten Probleme im Alltag verursacht."
   - question: "Wie spreche ich das Thema Alkohol an?"
-    answer: "In einem ruhigen Moment, nicht wenn er getrunken hat. Benutze Ich-Botschaften:"
+    answer: "In einem ruhigen Moment, nicht wenn er getrunken hat. Benutze Ich-Botschaften: 'Ich mache mir Sorgen wenn...' statt Vorwürfe. Sei konkret mit Beispielen."
   - question: "Bin ich co-abhängig?"
     answer: "Wenn du sein Trinken entschuldigst, vertuscht, oder dein ganzes Leben um sein Problem herum organisierst — ja. Co-Abhängigkeit ist eine eigene Erkrankung die Hilfe braucht."
   - question: "Wann sollte ich die Beziehung beenden?"

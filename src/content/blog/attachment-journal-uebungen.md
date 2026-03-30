@@ -1,7 +1,7 @@
 ---
 title: "Bindungsjournal: 30 Übungen für sichere Bindung"
 description: "Bindungsjournal-Übungen: 30 Tage, 30 praktische Übungen für einen sichereren Bindungsstil und deutlich bessere Beziehungen."
-date: "2025-01-27"
+date: 2025-01-27
 image: "/images/photos/attachment-journal-uebungen.webp"
 tags:
   - "Bindungstheorie"

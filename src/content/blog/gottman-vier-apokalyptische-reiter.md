@@ -1,7 +1,7 @@
 ---
 title: "Die 4 apokalyptischen Reiter nach Gottman"
 description: "Die 4 apokalyptischen Reiter nach Gottman: Kritik, Verachtung, Mauern und Rechtfertigung — erkenne diese Beziehungskiller und Gegenmittel."
-date: "2025-08-27"
+date: 2025-08-27
 image: "/images/photos/gottman-vier-apokalyptische-reiter.webp"
 tags:
   - "Psychologie"

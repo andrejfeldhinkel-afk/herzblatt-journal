@@ -1,6 +1,7 @@
 ---
 title: "Intimität wieder aufbauen wenn sie verloren gegangen ist"
 description: "Emotionale und physische Nähe wiedererstellen: Praktische Schritte wenn die Intimität in der Beziehung verblasst"
+date: 2025-11-01
 image: "/images/photos/intimitaet-wieder-aufbauen.webp"
 imageAlt: "Paar baut emotionale Nähe wieder auf"
 tags:
@@ -25,7 +26,7 @@ faq:
   - question: "Kann Sex die emotionale Distanz überbrücken?"
     answer: "Kurzfristig ja. Aber es ist keine Lösung für emotionale Distanz. In der Tat kann erzwungener Sex oder Sex ohne emotionale Nähe die Distanz vergrößern. Das Fundament muss emotional sein."
   - question: "Was mache ich, wenn ich keine Lust auf Sex habe, aber weiß, dass wir Nähe brauchen?"
-    answer: "Sage die Wahrheit:"
+    answer: "Sage die Wahrheit: 'Mir fehlt die emotionale Nähe. Sex fühlt sich jetzt erzwungen an.' Dann arbeite an der emotionalen Nähe. Mit emotionaler Nähe kommt sexuelle Lust natürlich zurück."
   - question: "Kann man allein an Intimität arbeiten oder braucht man Hilfe?"
     answer: "Du kannst allein anfangen. Aber wenn Intimität völlig weg ist, hilft oft eine Paartherapeutin. Besonders wenn es ein echtes Trauma gab (Untreue, Gewalt). Ein Fachperson kann helfen, sichere Wege zu finden."
 ---

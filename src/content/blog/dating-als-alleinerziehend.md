@@ -1,7 +1,7 @@
 ---
 title: "Dating als Alleinerziehende/r"
 description: "Dating als Alleinerziehender: Praktische Tipps für deine Partnersuche mit Kindern — authentisch, ehrlich und wirklich erfolgreich."
-date: "2025-04-19"
+date: 2025-04-19
 image: "/images/photos/dating-als-alleinerziehend.webp"
 tags:
   - "dating"

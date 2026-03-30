@@ -1,6 +1,7 @@
 ---
 title: "Gemeinsame Freunde nach der Trennung: Wie geht das?"
 description: "Gemeinsame Freunde nach Trennung richtig handhaben. Tipps zum Umgang mit Freundeskreis nach Beziehungsende ohne Gewinner-Verlierer-Denken."
+date: 2025-10-17
 image: "/images/photos/gemeinsame-freunde-nach-trennung.webp"
 imageAlt: "Freundesgruppe nach einer Trennung navigieren"
 tags:

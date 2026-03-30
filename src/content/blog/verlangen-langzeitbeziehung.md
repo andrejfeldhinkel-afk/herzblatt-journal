@@ -1,7 +1,7 @@
 ---
 title: "Verlangen lebendig halten in langen Beziehungen"
 description: "Verlangen in Langzeitbeziehungen lebendig halten: Esther Perel erklärt das Sicherheits-Leidenschafts-Paradox und zeigt bewusste Strategien."
-date: "2025-12-02"
+date: 2025-12-02
 image: "/images/photos/verlangen-langzeitbeziehung.webp"
 tags:
   - "Langzeitbeziehung"

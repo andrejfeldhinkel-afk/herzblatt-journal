@@ -1,7 +1,7 @@
 ---
 title: "Dating in Dresden: Singles und Spots"
 description: "Dating in Dresden: Finde Singles und entdecke die romantischsten Spots. Barocke Kulisse, Elbe und perfekte Orte zum Verlieben."
-date: "2025-05-07"
+date: 2025-05-07
 image: "/images/photos/dating-dresden.webp"
 tags:
   - "dating"

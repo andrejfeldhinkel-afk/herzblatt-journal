@@ -1,6 +1,7 @@
 ---
 title: "Selbstfürsorge in der Beziehung: Warum du dich zuerst lieben"
 description: "Selbstfürsorge in der Beziehung ist kein Egoismus. Lerne warum die Pflege deiner eigenen Bedürfnisse das Fundament einer starken Partnerschaft ist."
+date: 2025-12-15
 tags:
   - "Selbstliebe"
   - "Beziehung"
@@ -23,7 +24,7 @@ faq:
   - question: "Wie viel Me-Time ist normal in einer Beziehung?"
     answer: "Das ist individuell, aber die meisten Beziehungsexperten empfehlen mindestens ein paar Stunden pro Woche nur für dich. Wichtig: Me-Time ist kein Zeichen von Distanz, sondern gibt euch frische Energie füreinander."
   - question: "Mein Partner versteht nicht warum ich Zeit für mich brauche. Was tun?"
-    answer: "Erkläre es als Investment in die Beziehung:"
+    answer: "Erkläre es als Investment in die Beziehung: 'Wenn ich aufgetankt bin, bin ich ein besserer Partner für dich.' Wenn dein Partner deine Alleinsein-Bedürfnisse grundsätzlich nicht respektiert, ist das ein ernstes Warnsignal."
   - question: "Was gehört alles zur Selbstfürsorge?"
     answer: "Vier Bereiche: körperlich (Schlaf, Bewegung, Ernährung), emotional (Gefühle zulassen, Grenzen setzen), sozial (eigene Freundschaften pflegen) und geistig (Hobbys, Lernen, Kreativität). Alle vier brauchen Aufmerksamkeit."
 ---

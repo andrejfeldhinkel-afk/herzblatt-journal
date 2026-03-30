@@ -1,7 +1,7 @@
 ---
 title: "Dating in Schwerin: Die Schlossstadt für Singles"
 description: "Dating in Schwerin: Die Schlossstadt an der Seenplatte. Märchenhaftes Schloss, Seen und romantische Orte — perfekt für unvergessliche Dates."
-date: "2025-07-08"
+date: 2025-07-08
 image: "/images/photos/dating-schwerin.webp"
 tags:
   - "dating"

@@ -1,6 +1,7 @@
 ---
 title: "Heiraten ja oder nein: Die ehrliche Entscheidungshilfe 2026"
 description: "Soll ich heiraten? Dieser Leitfaden zeigt dir die echten Vorteile & Nachteile der Ehe. Entdecke jetzt, was für dich passt!"
+date: 2025-10-25
 tags:
   - "Ehe und Beziehung"
   - "Heiraten Entscheidung"

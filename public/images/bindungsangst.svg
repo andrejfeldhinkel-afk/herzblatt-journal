@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500">
+  <defs>
+    <linearGradient id="bg9" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#20B2AA"/>
+      <stop offset="100%" style="stop-color:#4169E1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="500" fill="url(#bg9)"/>
+  <circle cx="200" cy="110" r="140" fill="white" opacity="0.08"/>
+  <circle cx="1000" cy="390" r="195" fill="white" opacity="0.06"/>
+  <circle cx="600" cy="250" r="75" fill="white" opacity="0.1"/>
+  
+  <!-- Left chain link -->
+  <rect x="400" y="225" width="80" height="50" rx="25" fill="none" stroke="white" stroke-width="4"/>
+  
+  <!-- Middle broken section -->
+  <line x1="480" y1="200" x2="520" y2="260" stroke="white" stroke-width="3" opacity="0.6"/>
+  <line x1="520" y1="200" x2="480" y2="260" stroke="white" stroke-width="3" opacity="0.6"/>
+  
+  <!-- Right chain link -->
+  <rect x="540" y="225" width="80" height="50" rx="25" fill="none" stroke="white" stroke-width="4"/>
+  
+  <!-- Additional decorative chain links -->
+  <rect x="300" y="240" width="60" height="40" rx="20" fill="none" stroke="white" stroke-width="3" opacity="0.5"/>
+  <rect x="640" y="240" width="60" height="40" rx="20" fill="none" stroke="white" stroke-width="3" opacity="0.5"/>
+  
+  <!-- Floating particles -->
+  <circle cx="500" cy="150" r="5" fill="white" opacity="0.3"/>
+  <circle cx="550" cy="160" r="4" fill="white" opacity="0.25"/>
+  <circle cx="510" cy="170" r="3" fill="white" opacity="0.2"/>
+  <circle cx="540" cy="180" r="5" fill="white" opacity="0.3"/>
+  
+  <!-- Decorative shapes -->
+  <circle cx="350" cy="300" r="50" fill="white" opacity="0.1"/>
+  <rect x="800" y="150" width="70" height="70" rx="15" fill="white" opacity="0.12"/>
+  
+  <!-- Pattern dots -->
+  <circle cx="100" cy="450" r="3" fill="white" opacity="0.2"/>
+  <circle cx="300" cy="50" r="2" fill="white" opacity="0.15"/>
+  <circle cx="900" cy="100" r="4" fill="white" opacity="0.15"/>
+  <circle cx="1100" cy="350" r="3" fill="white" opacity="0.2"/>
+</svg>

@@ -1,6 +1,7 @@
 ---
 title: "Das zweite Date: Tipps, Ideen & was du wissen musst"
 description: "Das erste Date lief gut — und jetzt? Alles über das zweite Date: die besten Ideen, Gesprächsthemen und wie du den nächsten Schritt machst."
+date: 2025-12-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

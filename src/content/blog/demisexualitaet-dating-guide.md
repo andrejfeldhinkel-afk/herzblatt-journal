@@ -1,6 +1,7 @@
 ---
 title: "Demisexualität und Dating: Wenn sexuelle Anziehung erst"
 description: "Demisexualität verstehen: Was es bedeutet, demisexuell zu sein, wie du damit datest und warum es kein Problem ist — sondern eine Stärke."
+date: 2025-08-24
 image: "/images/photos/demisexualitaet-dating-guide.webp"
 tags:
   - "Dating"
@@ -25,7 +26,7 @@ faq:
   - question: "Wie date ich als demisexuelle Person?"
     answer: "Nimm dir die Zeit, die du brauchst. Slow Dating ist dein bester Freund. Kommuniziere offen, dass körperliche Anziehung bei dir später kommt, und suche nach Menschen, die emotionale Tiefe schätzen."
   - question: "Woher weiß ich, ob ich demisexuell bin?"
-    answer: "Typische Anzeichen: Du findest Fremde nie"
+    answer: "Typische Anzeichen: Du findest Fremde nie 'heiß', One-Night-Stands reizen dich nicht, du brauchst lange bis du jemanden körperlich attraktiv findest, und sexuelles Interesse entsteht erst nach intensivem emotionalen Kennenlernen."
   - question: "Kann ich auf Dating-Apps demisexuell sein?"
     answer: "Ja, aber es erfordert Anpassung. Nutze Apps die tiefere Profile erlauben (Hinge, OkCupid), erwähne deine Orientierung offen, und konzentriere dich auf ausführliches Chatten bevor du dich triffst."
 ---

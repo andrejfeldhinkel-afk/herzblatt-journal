@@ -1,21 +1,17 @@
 ---
-title: 'Toxische Scham in Beziehungen: Wenn du glaubst, dass du'
-slug: toxische-scham-beziehung
-description: Toxische Scham ist das Glauben, dass du nicht gut genug bist. Ich zeige
-  dir, wie du dich von dieser versteckten Wunde befreist.
-author: sarah-kellner
-image: /images/photos/toxische-scham-beziehung.webp
-imageAlt: Frau versteckt sich vor toxischer Scham
-category: Psychologie
+title: "Toxische Scham in Beziehungen: Wenn du glaubst, dass du"
+slug: "toxische-scham-beziehung"
+description: "Toxische Scham ist das Glauben, dass du nicht gut genug bist. Ich zeige dir, wie du dich von dieser versteckten Wunde befreist."
+date: 2025-12-15
+author: "sarah-kellner"
+image: "/images/photos/toxische-scham-beziehung.webp"
+imageAlt: "Frau versteckt sich vor toxischer Scham"
+category: "Psychologie"
 tags:
-- Psychologie
-- Beziehung
-- Heilung
-keywords:
-- toxische scham
-- scham beziehung
-- scham liebe
-- ich bin nicht gut genug
+  - "Psychologie"
+  - "Beziehung"
+  - "Heilung"
+keywords: ["toxische scham", "scham beziehung", "scham liebe", "ich bin nicht gut genug"]
 ---
 Es gibt einen Unterschied zwischen zwei Gefühlen, die sehr ähnlich klingen, aber völlig verschieden sind:
 

@@ -1,5 +1,4 @@
 ---
-import ThemeToggle from './ThemeToggle.astro';
 
 const pathname = Astro.url.pathname;
 
@@ -14,7 +13,7 @@ const ratgeberCategories = [
   { href: '/erstes-date-guide', label: 'Erstes Date Guide', icon: '🦋' },
   { href: '/online-dating-guide', label: 'Online-Dating Guide', icon: '📱' },
   { href: '/beziehungsratgeber', label: 'Beziehungsratgeber', icon: '💑' },
-  { href: '/tags/Dating-Tipps', label: 'Dating-Tipps', icon: '💡' },
+  { href: '/tags/Dating', label: 'Dating', icon: '💕' },
   { href: '/tags/Flirten', label: 'Flirten', icon: '✨' },
   { href: '/tags/Psychologie', label: 'Psychologie', icon: '🧠' },
   { href: '/tags/Selbstliebe', label: 'Selbstliebe', icon: '💖' },
@@ -24,18 +23,26 @@ const ratgeberCategories = [
 const themenCategories = [
   { href: '/tags/Ratgeber', label: 'Ratgeber', icon: '📖' },
   { href: '/tags/Date-Ideen', label: 'Date-Ideen', icon: '🎯' },
-  { href: '/tags/Bindungsangst', label: 'Bindungsangst', icon: '🔒' },
-  { href: '/tags/Red-Flags', label: 'Red-Flags', icon: '🚩' },
-  { href: '/tags/Single', label: 'Single-Leben', icon: '💫' },
-  { href: '/tags/Ü40', label: 'Dating Ü40', icon: '🌟' },
-  { href: '/tags/Dating-nach-Trennung', label: 'Nach Trennung', icon: '🌱' },
-  { href: '/tags/Long-Distance', label: 'Fernbeziehung', icon: '🌍' },
+  { href: '/tags/Bindungstypen', label: 'Bindungstypen', icon: '🔗' },
+  { href: '/tags/Red Flags', label: 'Red Flags', icon: '🚩' },
+  { href: '/tags/Single-Leben', label: 'Single-Leben', icon: '🙋' },
+  { href: '/tags/Lebensphasen', label: 'Lebensphasen', icon: '🎂' },
+  { href: '/tags/Neuanfang', label: 'Neuanfang', icon: '🌅' },
+  { href: '/tags/Fernbeziehung', label: 'Fernbeziehung', icon: '✈️' },
   { href: '/tags/Vertrauen', label: 'Vertrauen', icon: '🤝' },
   { href: '/tags/Sicherheit', label: 'Sicherheit', icon: '🛡️' },
 ];
 
+const mehrCategories = [
+  { href: '/quiz', label: 'Dating-Typ Quiz', icon: '❓' },
+  { href: '/ebook', label: 'E-Book', icon: '📕' },
+  { href: '/erfolgsgeschichten', label: 'Erfolgsgeschichten', icon: '💕' },
+  { href: '/glossar', label: 'Glossar', icon: '📚' },
+];
+
 const isRatgeberActive = pathname.startsWith('/blog');
 const isThemenActive = pathname.startsWith('/tags');
+const isMehrActive = ['/quiz','/ebook','/erfolgsgeschichten','/glossar'].includes(pathname.replace(/\/$/, ''));
 ---
 
 <header class="sticky top-0 z-50 glass" style="border-bottom: 1px solid var(--border);">
@@ -172,6 +179,40 @@ const isThemenActive = pathname.startsWith('/tags');
         </div>
       </div>
 
+      <!-- Mehr Dropdown -->
+      <div class="relative" id="mehr-dropdown">
+        <button
+          class:list={[
+            'px-3.5 py-2 rounded-full text-sm font-medium transition-all duration-200 inline-flex items-center gap-1',
+            isMehrActive ? 'text-[var(--color-primary-700)]' : 'hover:text-[var(--text)]'
+          ]}
+          style={isMehrActive ? 'background: var(--color-primary-50); color: var(--color-primary-700);' : `color: var(--text-muted); background: none; border: none; cursor: pointer;`}
+        >
+          Mehr
+          <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="transition-transform duration-200" id="mehr-chevron"><path d="m6 9 6 6 6-6"/></svg>
+        </button>
+
+        <!-- Dropdown Panel -->
+        <div id="mehr-panel" class="absolute top-full left-1/2 -translate-x-1/2 pt-2 opacity-0 invisible transition-all duration-200" style="width: 280px;">
+          <div class="rounded-2xl p-4 shadow-xl" style="background: var(--bg-card); border: 1px solid var(--border);">
+            <div class="grid grid-cols-1 gap-1">
+              {mehrCategories.map(cat => (
+                <a
+                  href={cat.href}
+                  class="flex items-center gap-2.5 px-3 py-2.5 rounded-xl text-sm font-medium transition-all duration-150 hover:-translate-y-px"
+                  style="color: var(--text);"
+                  onmouseover="this.style.background='var(--color-primary-50)'"
+                  onmouseout="this.style.background='transparent'"
+                >
+                  <span class="text-lg">{cat.icon}</span>
+                  {cat.label}
+                </a>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+
       <!-- Über uns -->
       <a
         href="/ueber-uns"
@@ -187,16 +228,14 @@ const isThemenActive = pathname.startsWith('/tags');
       <a href="/suche" class="p-2 rounded-full transition-all hover:bg-[var(--color-primary-50)]" style="color: var(--text-muted);" aria-label="Suche">
         <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
       </a>
-      <div class="w-px h-5 mx-2" style="background: var(--border);"></div>
-      <ThemeToggle />
-      <button onclick="openDatingQuiz()" class="ml-2 px-5 py-2 rounded-full text-sm font-semibold text-white transition-all hover:shadow-lg hover:-translate-y-0.5 cursor-pointer" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600)); border: none;">
+
+      <button onclick="window.openDatingQuiz()" class="ml-2 px-5 py-2 rounded-full text-sm font-semibold text-white transition-all hover:shadow-lg hover:-translate-y-0.5 cursor-pointer" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600)); border: none;">
         Jetzt starten
       </button>
     </div>
 
     <!-- Mobile -->
     <div class="flex items-center gap-2 md:hidden">
-      <ThemeToggle />
       <button id="mobile-menu-btn" class="p-2 rounded-lg" style="color: var(--text);" aria-label="Menü">
         <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" x2="21" y1="6" y2="6"/><line x1="3" x2="21" y1="12" y2="12"/><line x1="3" x2="21" y1="18" y2="18"/></svg>
       </button>
@@ -251,6 +290,21 @@ const isThemenActive = pathname.startsWith('/tags');
         </div>
       </div>
 
+      <!-- Mehr mit Unterkategorien -->
+      <div>
+        <button id="mobile-mehr-btn" class="w-full px-4 py-3 rounded-xl text-sm font-medium flex items-center justify-between" style={isMehrActive ? 'background: var(--color-primary-50); color: var(--color-primary-700);' : 'color: var(--text);'}>
+          Mehr
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="transition-transform duration-200" id="mobile-mehr-chevron"><path d="m6 9 6 6 6-6"/></svg>
+        </button>
+        <div id="mobile-mehr-sub" class="hidden pl-4 pb-2">
+          {mehrCategories.map(cat => (
+            <a href={cat.href} class="flex items-center gap-2 px-4 py-2 rounded-lg text-sm" style="color: var(--text-muted);">
+              <span>{cat.icon}</span> {cat.label}
+            </a>
+          ))}
+        </div>
+      </div>
+
       <!-- Über uns -->
       <a href="/ueber-uns" class="px-4 py-3 rounded-xl text-sm font-medium" style={pathname.startsWith('/ueber-uns') ? 'background: var(--color-primary-50); color: var(--color-primary-700);' : 'color: var(--text);'}>
         Über uns
@@ -259,7 +313,7 @@ const isThemenActive = pathname.startsWith('/tags');
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
         Suche
       </a>
-      <button onclick="openDatingQuiz()" class="mx-4 my-2 py-3 rounded-xl text-sm font-semibold text-center text-white w-full cursor-pointer" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600)); border: none;">
+      <button onclick="window.openDatingQuiz()" class="mx-4 my-2 py-3 rounded-xl text-sm font-semibold text-center text-white w-full cursor-pointer" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600)); border: none;">
         Jetzt starten
       </button>
     </div>
@@ -322,6 +376,18 @@ const isThemenActive = pathname.startsWith('/tags');
     pan.addEventListener('mouseleave', hide);
   }
 
+  // Mobile Mehr submenu toggle
+  var mMehrBtn = document.getElementById('mobile-mehr-btn');
+  var mMehrSub = document.getElementById('mobile-mehr-sub');
+  var mMehrChev = document.getElementById('mobile-mehr-chevron');
+  if (mMehrBtn && mMehrSub) {
+    mMehrBtn.addEventListener('click', function() {
+      mMehrSub.classList.toggle('hidden');
+      if (mMehrChev) mMehrChev.style.transform = mMehrSub.classList.contains('hidden') ? '' : 'rotate(180deg)';
+    });
+  }
+
   setupDropdown('ratgeber-dropdown', 'ratgeber-panel', 'ratgeber-chevron');
   setupDropdown('themen-dropdown', 'themen-panel', 'themen-chevron');
+  setupDropdown('mehr-dropdown', 'mehr-panel', 'mehr-chevron');
 </script>

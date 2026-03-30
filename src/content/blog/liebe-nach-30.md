@@ -1,6 +1,7 @@
 ---
 title: "Dating ab 30: Warum es jetzt erst richtig spannend wird"
 description: "Liebe nach 30: Warum die besten Dating-Jahre erst richtig beginnen. Selbstkenntnis, Klarheit und echte Kompatibilität führen zu besseren Beziehungen."
+date: 2025-11-22
 tags:
   - "Beziehungen"
   - "Ratgeber"

@@ -1,15 +1,7 @@
 ---
-title: Patchwork Familie Dating
-description: ''
-date: '2026-03-01'
-updated: '2026-03-01'
-tags: []
-draft: true
----
-
----
 title: "Dating in einer Patchwork-Familie: Neue Liebe, bestehende"
 description: "Dating in Patchwork-Familie: Wie du als alleinerziehender Elternteil erfolgreich datest und neue Liebe mit Kindern aufbaust."
+date: 2025-12-15
 tags:
   - "Dating-Tipps"
   - "Beziehung"
@@ -22,9 +14,12 @@ draft: false
 image: "/images/photos/patchwork-familie-dating.webp"
 imageAlt: "Familie mit Kindern - neue Liebe in Patchwork-Familie"
 faq:
-  - "{'question': 'Wann sollte ich einen neuen Partner meinen Kindern vorstellen?', 'answer': 'Warte, bis die Beziehung ernsthaft und stabil ist. Kinder können sich schnell an neue Menschen binden oder verletzt werden, wenn die Person plötzlich verschwindet. Gewöhnlich empfiehlt man drei Monate oder mehr.'}"
-  - "{'question': 'Wie sage ich potenziellen Partnern, dass ich Kinder habe?', 'answer': 'Sei früh transparent. Im Profil oder beim ersten Treffen solltest du erwähnen, dass du Eltern bist. Das eliminiert Menschen, die nicht bereit sind, und spart dir Zeit.'}"
-  - "{'question': 'Was wenn mein Kind den neuen Partner nicht mag?', 'answer': 'Das ist eine schwierige Situation. Höre das Kind an, verstehe seine Bedenken. Erzwinge keine Beziehung. Mit Zeit und Geduld können Gefühle sich ändern. Aber das Kindeswohl steht an erster Stelle.'}"
+  - question: "Wann sollte ich einen neuen Partner meinen Kindern vorstellen?"
+    answer: "Warte, bis die Beziehung ernsthaft und stabil ist. Kinder können sich schnell an neue Menschen binden oder verletzt werden, wenn die Person plötzlich verschwindet. Gewöhnlich empfiehlt man drei Monate oder mehr."
+  - question: "Wie sage ich potenziellen Partnern, dass ich Kinder habe?"
+    answer: "Sei früh transparent. Im Profil oder beim ersten Treffen solltest du erwähnen, dass du Eltern bist. Das eliminiert Menschen, die nicht bereit sind, und spart dir Zeit."
+  - question: "Was wenn mein Kind den neuen Partner nicht mag?"
+    answer: "Das ist eine schwierige Situation. Höre das Kind an, verstehe seine Bedenken. Erzwinge keine Beziehung. Mit Zeit und Geduld können Gefühle sich ändern. Aber das Kindeswohl steht an erster Stelle."
 ---## Die doppelte Komplexität
 
 Dating als alleinerziehender Elternteil oder in einer bestehenden Patchwork-Familie ist anders. Du hast nicht nur deine eigenen Gefühle und Bedürfnisse zu berücksichtigen, sondern auch die deiner Kinder. Du kannst nicht einfach impulsiv eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) eingehen. Es gibt Menschen, die von deiner Entscheidung betroffen sind.

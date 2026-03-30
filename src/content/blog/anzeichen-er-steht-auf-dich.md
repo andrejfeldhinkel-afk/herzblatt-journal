@@ -1,7 +1,7 @@
 ---
 title: "Steht er auf mich? 12 eindeutige Anzeichen"
 description: "12 verlässliche Verhaltensweisen, die zeigen, dass er wirklich Interesse hat. Erkenne die Signale richtig und vermeide falsche Hoffnungen."
-date: "2025-01-21"
+date: 2025-01-21
 image: "/images/photos/anzeichen-er-steht-auf-dich.webp"
 tags:
   - "Dating"

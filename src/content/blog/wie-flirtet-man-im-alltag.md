@@ -1,6 +1,7 @@
 ---
 title: "Flirten im Alltag: 15 Gelegenheiten die du verpasst"
 description: "Flirten im Alltag ist leichter als du denkst. Entdecke 15 alltägliche Situationen zum Flirten und lerne die Kunst der beiläufigen Annäherung."
+date: 2025-12-15
 tags:
   - "Flirten"
   - "Dating"

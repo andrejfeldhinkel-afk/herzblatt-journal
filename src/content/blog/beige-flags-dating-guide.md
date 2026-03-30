@@ -1,6 +1,7 @@
 ---
 title: "Beige Flags — Die langweiligen Warnsignale beim Dating"
 description: "Sind Beige Flags echte Dealbreaker oder vergeben wir langweiligen Menschen zu schnell eine Chance? Ein ehrlicher Guide."
+date: 2025-01-24
 author: "laura-weber"
 tags:
   - "Dating"

@@ -1,6 +1,7 @@
 ---
 title: "Emotionale Nähe aufbauen: Mehr als nur Verliebtheit"
 description: "Emotionale Nähe aufbauen: Wie du echte Verbundenheit schaffst und pflegst. Mehr als nur Verliebtheit in deiner Beziehung."
+date: 2025-09-10
 tags:
   - "Beziehung"
   - "Kommunikation"

@@ -1,6 +1,7 @@
 ---
 title: "Chemistry beim Date: Woran du echte Anziehung erkennst und"
 description: "Chemistry beim Date erkennen und richtig einordnen. Lerne den Unterschied zwischen echter Anziehung und reiner Nervosität — und warum fehlende Chemistry nicht immer schlecht ist."
+date: 2025-04-08
 tags:
   - "Dating"
   - "Psychologie"
@@ -19,7 +20,7 @@ featured: false
 author: "markus-hoffmann"
 faq:
   - question: "Was genau ist Chemistry beim Dating?"
-    answer: "Chemistry ist das Zusammenspiel von physischer Anziehung, emotionaler Resonanz und intellektueller Stimulation. Es fühlt sich an wie ein"
+    answer: "Chemistry ist das Zusammenspiel von physischer Anziehung, emotionaler Resonanz und intellektueller Stimulation. Es fühlt sich an wie ein 'Klick' — das Gespräch fließt, die Zeit verfliegt, und du willst mehr von dieser Person."
   - question: "Kann Chemistry erst später entstehen?"
     answer: "Absolut. Slow-burn Chemistry ist häufiger als man denkt. Studien zeigen dass in über 30% der glücklichen Langzeitbeziehungen die Chemistry erst nach dem zweiten oder dritten Date kam. Gib ihm Zeit."
   - question: "Ist starke Chemistry immer ein gutes Zeichen?"

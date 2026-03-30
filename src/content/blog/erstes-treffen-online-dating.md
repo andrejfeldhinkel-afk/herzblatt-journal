@@ -1,6 +1,7 @@
 ---
 title: "Vom Chat zum ersten Treffen: Übergang zum echten Leben"
 description: "Erstes Treffen Online-Dating: Tipps für erfolgreiche Übergänge vom Chat zum echten Leben. Sichere und entspannte erste Dates."
+date: 2025-09-26
 tags:
   - "Online-Dating"
   - "Erstes Date"

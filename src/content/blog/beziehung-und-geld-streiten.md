@@ -1,7 +1,7 @@
 ---
 title: "Geldstreit in Beziehungen: Lösungen finden"
 description: "Finanzielle Konflikte zerstören Beziehungen. Lerne, wie du über Geld sprichst, Haushaltkonten nutzt und wieder in Einklang kommst."
-date: "2025-03-09"
+date: 2025-03-09
 image: "/images/photos/beziehung-und-geld-streiten.webp"
 tags:
   - "Beziehung"

@@ -1,6 +1,7 @@
 ---
 title: "Phubbing: Wenn das Smartphone die Beziehung stört"
 description: "Beziehung und Smartphone: Wie Handys und Phubbing deine Partnerschaft beeinflussen und was du konkret dagegen tun kannst."
+date: 2025-03-12
 tags:
   - "Beziehung"
   - "Kommunikation"
@@ -18,7 +19,7 @@ faq:
   - question: "Sollte ich mein Handy in der Schlafzimmer verbieten?"
     answer: "Das ist eine gute Idee für viele Paare. Handys vor dem Schlafengehen reduzieren Ablenkung und können sogar die Schlafqualität verbessern. Teile diese Regel mit deinem Partner."
   - question: "Wie kann ich meinem Partner sagen, dass er zu viel auf seinem Handy ist?"
-    answer: "Nicht anklagend. Verwende"
+    answer: "Nicht anklagend. Verwende 'Ich'-Aussagen statt. 'Ich fühle mich vernachlässigt, wenn du auf deinem Handy bist' ist besser als 'Du bist immer auf deinem Handy.'"
 ---
 ## Die stille Epidemie
 

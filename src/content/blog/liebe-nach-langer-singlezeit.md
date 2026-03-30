@@ -1,7 +1,7 @@
 ---
 title: "Sich öffnen nach Jahren als Single"
 description: "Liebe nach langer Singlezeit: So öffnest du dich wieder. Tipps gegen Bindungsangst, alte Gewohnheiten und Verletzlichkeit."
-date: "2025-09-26"
+date: 2025-09-26
 image: "/images/photos/liebe-nach-langer-singlezeit.webp"
 tags:
   - "Single-Leben"

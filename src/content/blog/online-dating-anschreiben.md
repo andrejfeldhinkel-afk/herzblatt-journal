@@ -1,6 +1,7 @@
 ---
 title: "Online-Dating Anschreiben – So bekommst du garantiert"
 description: "Online-Dating Anschreiben: Lerne Tipps, Beispiele und Vorlagen für die erste Nachricht, die garantiert Antworten bekommt. Mit praktischen Templates!"
+date: 2025-12-15
 tags:
   - "Online-Dating"
   - "Dating-Tipps"

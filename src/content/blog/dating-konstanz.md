@@ -1,6 +1,7 @@
 ---
 title: "Dating in Konstanz: Die besten Orte & Tipps für Singles"
 description: "Dating in Konstanz: Entdecke die besten Orte und Tipps für Singles mit Bodensee-Romantik, Altstadt, Hafenbars und wunderschönem Alpenblick."
+date: 2025-06-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

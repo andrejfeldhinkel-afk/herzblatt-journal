@@ -1,7 +1,7 @@
 ---
 title: "Frauen ansprechen: So gelingt der Kontakt"
 description: "Lerne, wie du Frauen selbstbewusst ansprichst. Praktische Tipps zu Opener, Körpersprache und Umgang mit Ablehnung im Dating."
-date: "2025-05-11"
+date: 2025-05-11
 image: "/images/photos/dating-frauen-ansprechen.webp"
 tags:
   - "Dating"

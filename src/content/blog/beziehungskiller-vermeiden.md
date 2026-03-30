@@ -1,7 +1,7 @@
 ---
 title: "Beziehungskiller: Wie man sie vermeidet"
 description: "Beziehungskiller vermeiden: Die 5 größten Beziehungskiller und konkrete praktische Strategien, um deine Liebe zu schützen."
-date: "2025-03-31"
+date: 2025-03-31
 image: "/images/photos/beziehungskiller-vermeiden.webp"
 tags:
   - "beziehung"

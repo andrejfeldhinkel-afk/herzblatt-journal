@@ -1,7 +1,7 @@
 ---
 title: "Tinder Tipps: So bekommst du mehr Matches"
 description: "Vermeide die häufigsten Fehler auf Tinder und verdopple deine Matches mit diesen bewährten Strategien."
-date: "2025-11-14"
+date: 2025-11-14
 image: "/images/photos/tinder-tipps-mehr-matches.webp"
 tags:
   - "Tinder"

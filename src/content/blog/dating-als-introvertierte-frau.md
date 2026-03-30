@@ -1,7 +1,7 @@
 ---
 title: "Dating als Introvertierte: Stärken nutzen"
 description: "Dating als introvertierte Frau: Erfolgreiche Partnersuche mit deinen Stärken. Online-Dating, ideale Dates und praktische Tipps."
-date: "2025-04-24"
+date: 2025-04-24
 image: "/images/photos/dating-als-introvertierte-frau.webp"
 tags:
   - "Introvertiert Dating"

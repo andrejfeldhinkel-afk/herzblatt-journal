@@ -1,7 +1,7 @@
 ---
 title: "One-Night-Stand bereuen: Umgang mit Gefühlen"
 description: "Du bereust einen One-Night-Stand? Verstehe warum, verarbeite Scham und arbeite daran, morgen besser zu handeln. Ein ehrlicher Ratgeber."
-date: "2025-10-11"
+date: 2025-10-11
 image: "/images/photos/one-night-stand-bereuen.webp"
 tags:
   - "Dating"

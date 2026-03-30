@@ -1,7 +1,7 @@
 ---
 title: "Bindungsangst erkennen und überwinden"
 description: "Bindungsangst erkennen: Erkenne die Symptome und lerne konkrete Strategien zur Überwindung für tiefere Liebe und echte Beziehungen."
-date: "2025-04-04"
+date: 2025-04-04
 image: "/images/photos/bindungsangst-erkennen.webp"
 tags:
   - "beziehung"

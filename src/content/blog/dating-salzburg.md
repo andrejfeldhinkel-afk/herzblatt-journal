@@ -1,6 +1,7 @@
 ---
 title: "Dating in Salzburg: Die besten Orte & Tipps für Singles"
 description: "Salzburg Dating-Guide: Romantische Orte, beste Cafés und Insider-Tipps. Entdecke die schönsten Spots für dein perfektes Date in Salzburg!"
+date: 2025-08-06
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

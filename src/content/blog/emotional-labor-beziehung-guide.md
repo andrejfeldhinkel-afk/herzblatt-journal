@@ -1,6 +1,7 @@
 ---
 title: "Emotional Labor — Die unsichtbare Arbeit in Beziehungen"
 description: "Die versteckte emotionale Arbeit, die deine Beziehung zum Funktionieren bringt. Erkenne sie, sprich darüber, und teile sie gerecht auf."
+date: 2025-09-02
 author: "sarah-kellner"
 draft: false
 tags:

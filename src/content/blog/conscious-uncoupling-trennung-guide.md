@@ -1,6 +1,7 @@
 ---
 title: "Conscious Uncoupling — Bewusste Trennung ohne Zerstörung"
 description: "Lerne, wie du eine Beziehung würdevoll und respektvoll beenden kannst. Ein umfassender Leitfaden zur bewussten Trennung."
+date: 2025-04-15
 author: "sarah-kellner"
 image: "/images/blog/conscious-uncoupling-trennung-guide.webp"
 categories:

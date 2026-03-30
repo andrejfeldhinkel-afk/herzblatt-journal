@@ -1,6 +1,7 @@
 ---
 title: "Erwartungen in der Beziehung: Wann sie helfen — und wann sie"
 description: "Erwartungen in der Beziehung können stärken oder zerstören. Erfahre, welche Erwartungen gesund sind, wo du loslassen musst und wie ihr darüber redet."
+date: 2025-09-27
 image: "/images/photos/erwartungen-in-der-beziehung.webp"
 tags:
   - "Beziehung"
@@ -22,7 +23,7 @@ faq:
   - question: "Welche Erwartungen in einer Beziehung sind normal?"
     answer: "Respekt, Ehrlichkeit, emotionale Präsenz, Treue (wie auch immer ihr das definiert) und die Bereitschaft, an Konflikten zu arbeiten. Das sind keine zu hohen Erwartungen — das sind Grundlagen."
   - question: "Wie kommuniziere ich meine Erwartungen richtig?"
-    answer: "Klar, direkt und ohne Vorwurf. Formuliere Ich-Botschaften:"
+    answer: "Klar, direkt und ohne Vorwurf. Formuliere Ich-Botschaften: 'Mir ist wichtig, dass...' statt 'Du solltest...'. Wähle einen ruhigen Moment und sei bereit, auch die Erwartungen deines Partners zu hören."
   - question: "Was mache ich wenn mein Partner meine Erwartungen nie erfüllt?"
     answer: "Prüfe zuerst, ob deine Erwartungen realistisch und klar kommuniziert sind. Wenn ja und dein Partner zeigt keine Bereitschaft, darauf einzugehen, musst du entscheiden, ob du mit dieser Realität leben kannst oder nicht."
 ---## Einleitung: Warum Erwartungen der stille Beziehungskiller Nummer 1 sind

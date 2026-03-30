@@ -1,20 +1,17 @@
 ---
-title: 'Retroaktive Eifersucht überwinden: Warum die Vergangenheit'
-slug: retroaktive-eifersucht-ueberwinden
-description: Du quälst dich mit der Vergangenheit deines Partners. Ich zeige dir,
-  wie du diese obsessive Eifersucht endlich loslässt.
-author: thomas-peters
-image: /images/photos/retroaktive-eifersucht-ueberwinden.webp
-imageAlt: Eifersüchtiger Mann denkt an die Vergangenheit
-category: Psychologie
+title: "Retroaktive Eifersucht überwinden: Warum die Vergangenheit"
+slug: "retroaktive-eifersucht-ueberwinden"
+description: "Du quälst dich mit der Vergangenheit deines Partners. Ich zeige dir, wie du diese obsessive Eifersucht endlich loslässt."
+date: 2025-12-15
+author: "thomas-peters"
+image: "/images/photos/retroaktive-eifersucht-ueberwinden.webp"
+imageAlt: "Eifersüchtiger Mann denkt an die Vergangenheit"
+category: "Psychologie"
 tags:
-- Psychologie
-- Beziehung
-- Ratgeber
-keywords:
-- retroaktive eifersucht
-- eifersüchtig auf ex des partners
-- eifersucht vergangenheit partner
+  - "Psychologie"
+  - "Beziehung"
+  - "Ratgeber"
+keywords: ["retroaktive eifersucht", "eifersüchtig auf ex des partners", "eifersucht vergangenheit partner"]
 ---
 Du willst nicht fragen. Du weißt, dass du nicht fragen sollst. Aber die Worte kommen trotzdem heraus: "Wie viele Menschen, bevor du mich getroffen hast?"
 

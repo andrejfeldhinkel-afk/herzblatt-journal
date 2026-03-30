@@ -1,7 +1,7 @@
 ---
 title: "Zusammenziehen: Die ultimative Checkliste"
 description: "Vollständige Checkliste zum Zusammenziehen: Finanzen, Haushalt, Erwartungen & häufige Fehler vermeiden."
-date: "2025-12-10"
+date: 2025-12-10
 image: "/images/photos/zusammenziehen-checkliste.webp"
 tags:
   - "Zusammenziehen"

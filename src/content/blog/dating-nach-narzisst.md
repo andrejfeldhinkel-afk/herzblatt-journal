@@ -1,6 +1,7 @@
 ---
 title: "Dating nach einer narzisstischen Beziehung: Heilung"
 description: "Nach einer toxischen Beziehung wieder vertrauen lernen? So erkennst du gesunde Partner und schützt dich vor neuen Red Flags."
+date: 2025-07-20
 tags:
   - "Psychologie"
   - "Beziehungen"

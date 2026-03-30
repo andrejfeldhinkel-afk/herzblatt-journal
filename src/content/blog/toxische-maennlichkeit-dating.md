@@ -1,6 +1,7 @@
 ---
 title: "Toxische Männlichkeit beim Dating: Warnsignale"
 description: "Lernen Sie, Zeichen toxischer Männlichkeit zu erkennen. Schützen Sie sich selbst vor emotionalen und körperlichen Missbrauch."
+date: 2025-12-15
 tags:
   - "Red-Flags"
   - "Sicherheit"

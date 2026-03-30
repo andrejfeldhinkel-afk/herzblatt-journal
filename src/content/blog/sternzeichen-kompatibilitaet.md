@@ -1,13 +1,10 @@
 ---
-title: Sternzeichen Kompatibilitaet
-description: ''
-date: '2026-03-01'
-updated: '2026-03-01'
-tags: []
-draft: true
----
-
----
+title: "Sternzeichen-Kompatibilität: Wie passt ihr zusammen?"
+description: "Sternzeichen-Kompatibilität beim Dating: Entdecke, was die Astrologie über deine Beziehung verrät."
+date: 2025-07-02
+tags: ["Dating", "Lifestyle", "Astrologie"]
+image: "/images/photos/sternzeichen-kompatibilitaet.webp"
+draft: false
 ---
 ## Sternzeichen-Kompatibilität: Spaß oder Science? Die Wahrheit hinter den Sternen
 

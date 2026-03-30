@@ -1,6 +1,7 @@
 ---
 title: "Heimlich verliebt? 15 Anzeichen, die dich verraten"
 description: "Heimlich verliebt? 15 Anzeichen verraten es — auch wenn du es dir selbst noch nicht eingestehst. Erkenne unbewusste Liebe und ihre körperlichen Signale."
+date: 2025-10-24
 tags:
   - "Liebe"
   - "Psychologie"

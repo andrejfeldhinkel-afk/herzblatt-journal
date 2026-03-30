@@ -1,6 +1,7 @@
 ---
 title: "Dating in Winterthur: Die besten Orte, Tipps & Hotspots"
 description: "Winterthur Dating-Guide: Charmante Restaurants, trendige Bars und beste Single-Szene der Schweizer Kunststadt. Deine Dating-Tipps hier!"
+date: 2025-08-20
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"
@@ -15,9 +16,9 @@ image: "/images/photos/dating-winterthur.webp"
 imageAlt: "Charmante Altstadt von Winterthur mit Fluss"
 faq:
   - question: "Wo treffen sich Singles in Winterthur?"
-    answer: "Die Altstadt rund um die Steinstraße ist das Zentrum. Der Platz"
+    answer: "Die Altstadt rund um die Steinstraße ist das Zentrum. Der Platz 'Oberer Graben' ist sehr beliebt. Die Gegend um die Kunstmuseen ist trendy und jung."
   - question: "Welche Restaurants sind romantisch und gut?"
-    answer: "'Osteria Ticinese"
+    answer: "'Osteria Ticinese' bietet italienische Küche. 'zur Krone' ist traditionell-elegant. 'Café Kafi' ist charmant und gemütlich für Kaffee-Dates."
   - question: "Was macht Winterthur besonders für Dates?"
     answer: "Die Kunstmuseen, die schöne Natur, die Nähe zu Zürich. Winterthur ist kulturell reich und gleichzeitig ruhiger und persönlicher als Zürich."
   - question: "Wie ist die Dating-Kultur in der Schweiz?"

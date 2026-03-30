@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFB6D9"/>
+      <stop offset="100%" stop-color="#DDA0DD"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="500" fill="url(#bg)"/>
+
+  <!-- Decorative circles -->
+  <circle cx="180" cy="110" r="100" fill="rgba(255, 255, 255, 0.12)"/>
+  <circle cx="1020" cy="390" r="120" fill="rgba(255, 255, 255, 0.1)"/>
+
+  <!-- Main icon: Butterfly emerging from cocoon -->
+  <g transform="translate(600, 250)">
+    <!-- Cocoon/chrysalis (left) -->
+    <g transform="translate(-80, 0)">
+      <ellipse cx="0" cy="0" rx="28" ry="45" fill="none" stroke="rgba(255, 255, 255, 0.5)" stroke-width="6"/>
+      <path d="M -20,-35 Q -15,-25 -20,-15 Q -25,-25 -20,-35" fill="rgba(255, 255, 255, 0.3)"/>
+    </g>
+
+    <!-- Butterfly emerging (right) -->
+    <g transform="translate(60, 0)">
+      <!-- Body -->
+      <ellipse cx="0" cy="0" rx="6" ry="30" fill="white"/>
+      <!-- Head -->
+      <circle cx="0" cy="-35" r="8" fill="white"/>
+      <!-- Antennae -->
+      <path d="M -4,-40 Q -15,-50 -20,-60" stroke="white" stroke-width="3" stroke-linecap="round" fill="none"/>
+      <path d="M 4,-40 Q 15,-50 20,-60" stroke="white" stroke-width="3" stroke-linecap="round" fill="none"/>
+
+      <!-- Upper left wing -->
+      <ellipse cx="-35" cy="-15" rx="28" ry="35" fill="white"/>
+      <!-- Upper right wing -->
+      <ellipse cx="35" cy="-15" rx="28" ry="35" fill="white"/>
+
+      <!-- Lower left wing -->
+      <ellipse cx="-28" cy="20" rx="20" ry="28" fill="rgba(255, 255, 255, 0.85)"/>
+      <!-- Lower right wing -->
+      <ellipse cx="28" cy="20" rx="20" ry="28" fill="rgba(255, 255, 255, 0.85)"/>
+
+      <!-- Wing patterns -->
+      <circle cx="-35" cy="-10" r="6" fill="rgba(255, 200, 200, 0.6)"/>
+      <circle cx="35" cy="-10" r="6" fill="rgba(255, 200, 200, 0.6)"/>
+    </g>
+
+    <!-- Flowers at base -->
+    <g transform="translate(-60, 60)">
+      <circle cx="0" cy="0" r="4" fill="rgba(255, 255, 255, 0.7)"/>
+      <circle cx="-6" cy="-8" r="5" fill="rgba(255, 255, 255, 0.6)"/>
+      <circle cx="6" cy="-8" r="5" fill="rgba(255, 255, 255, 0.6)"/>
+      <circle cx="-8" cy="4" r="5" fill="rgba(255, 255, 255, 0.6)"/>
+      <circle cx="8" cy="4" r="5" fill="rgba(255, 255, 255, 0.6)"/>
+    </g>
+
+    <g transform="translate(40, 70)">
+      <circle cx="0" cy="0" r="4" fill="rgba(255, 255, 255, 0.7)"/>
+      <circle cx="-6" cy="-8" r="5" fill="rgba(255, 255, 255, 0.6)"/>
+      <circle cx="6" cy="-8" r="5" fill="rgba(255, 255, 255, 0.6)"/>
+      <circle cx="-8" cy="4" r="5" fill="rgba(255, 255, 255, 0.6)"/>
+      <circle cx="8" cy="4" r="5" fill="rgba(255, 255, 255, 0.6)"/>
+    </g>
+  </g>
+</svg>

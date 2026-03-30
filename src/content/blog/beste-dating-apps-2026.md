@@ -1,6 +1,7 @@
 ---
 title: "Die besten Dating-Apps 2026"
 description: "Die besten Dating-Apps 2026 im großen Vergleich: Tinder, Bumble & mehr. Finde die App, die zu deinen Zielen und deinem Stil passt!"
+date: 2025-01-26
 tags:
   - "Online-Dating"
   - "Dating-Tipps"

@@ -1,6 +1,7 @@
 ---
 title: "Dating-Profiltext für Männer: So fällst du"
 description: "Dating-Profiltext für Männer: Praktische Tipps für einen authentischen, kreativen Text, der wirklich echte Matches bringt."
+date: 2025-05-06
 tags:
   - "Online Dating"
   - "Tipps"
@@ -14,7 +15,7 @@ image: "/images/photos/dating-profiltext-maenner.webp"
 imageAlt: "Mann schreibt am Laptop seinen Dating-Profiltext"
 faq:
   - question: "Was gehört in einen guten Dating-Profiltext?"
-    answer: "Schreib konkret, was dich ausmacht – ein Hobby, eine Leidenschaft, ein Witz. Vermeide langweilige Floskeln wie"
+    answer: "Schreib konkret, was dich ausmacht – ein Hobby, eine Leidenschaft, ein Witz. Vermeide langweilige Floskeln wie 'Ich bin humorvoll und treu'. Zeig lieber, statt zu erzählen."
   - question: "Wie lang sollte mein Profiltext sein?"
     answer: "Drei bis fünf Sätze reichen völlig. Kurz genug, um Neugier zu wecken, lang genug, um einen Eindruck zu hinterlassen."
   - question: "Sollte ich Humor in meinem Profil verwenden?"

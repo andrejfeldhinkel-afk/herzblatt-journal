@@ -1,6 +1,7 @@
 ---
 title: "Trennung wegen Fernbeziehung: Wenn die Distanz siegt"
 description: "Fernbeziehungen zerbrechen oft – nicht aus mangelnder Liebe, sondern aus der Gewalt der Distanz. Wie man eine Trennung verarbeitet und wieder heilt."
+date: 2025-12-15
 image: "/images/photos/trennung-wegen-fernbeziehung.webp"
 imageAlt: "Abschied am Bahnhof - Fernbeziehung"
 tags:
@@ -17,7 +18,7 @@ featured: false
 author: "sarah-kellner"
 faq:
   - question: "Ist eine Trennung wegen Fernbeziehung anders als andere Trennungen?"
-    answer: "Ja und nein. Das Schmerz ist ähnlich, aber die Dynamik ist anders. Es gibt oft weniger klare Gründe – es ist nicht ‚er hat mich betrogen"
+    answer: "Ja und nein. Das Schmerz ist ähnlich, aber die Dynamik ist anders. Es gibt oft weniger klare Gründe – es ist nicht ‚er hat mich betrogen', sondern ‚wir konnten die Distanz nicht tragen'. Das ist komplexer zu verarbeiten."
   - question: "Können Fernbeziehungen funktionieren?"
     answer: "Ja, aber nur mit klarem Enddatum und enormem Engagement von beiden Seiten. Fernbeziehungen, die offen sind – kein Enddatum, keine klare Richtung – scheitern meist irgendwann."
   - question: "Fühle ich mich schuldig, dass ich die Fernbeziehung nicht schaffen konnte?"

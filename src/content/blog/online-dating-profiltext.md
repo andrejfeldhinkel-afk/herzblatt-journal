@@ -1,13 +1,10 @@
 ---
-title: Online Dating Profiltext
-description: ''
-date: '2026-03-01'
-updated: '2026-03-01'
-tags: []
-draft: true
----
-
----
+title: "Perfekter Online-Dating Profiltext: Vorlagen & Tipps"
+description: "Online-Dating Profiltext: Schreibe überzeugend und authentisch. Mit Vorlagen, Tipps und Tricks für mehr echte Matches."
+date: 2025-09-15
+tags: ["Online-Dating", "Profiloptimierung", "Ratgeber"]
+image: "/images/photos/online-dating-profiltext.webp"
+draft: false
 ---
 In der Welt des Online-Datings sind die ersten Sekunden entscheidend. Während dein Foto die erste Aufmerksamkeit erregt, ist dein Profiltext der Schlüssel, um echte Verbindung herzustellen. Ein gut geschriebener Profiltext kann die Differenz zwischen ignoriert und angeschrieben werden ausmachen. Dieser [ratgeber](/blog/aktives-zuhoeren-beziehung-ueben/) zeigt dir, wie du einen Profiltext schreibst, der echte Matches anzieht und dich authentisch präsentiert.
 

@@ -1,7 +1,7 @@
 ---
 title: "Hochzeitstag feiern: 20 besondere Ideen"
 description: "20 kreative Ideen zum Feiern deines Hochzeitstags - von günstig bis luxuriös. Inspiration für jedes Budget und jedes Paar."
-date: "2025-09-06"
+date: 2025-09-06
 image: "/images/photos/hochzeitstag-ideen-feiern.webp"
 tags:
   - "Hochzeitstag"

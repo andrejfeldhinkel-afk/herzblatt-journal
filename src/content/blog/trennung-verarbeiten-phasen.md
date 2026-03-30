@@ -1,6 +1,7 @@
 ---
 title: "Trennung verarbeiten: Die 5 Phasen und wie du sie meisterst"
 description: "Trennung verarbeiten: Die 5 Phasen der Trennungsbewältigung nach Kübler-Ross. Lerne, Liebeskummer zu überwinden und wieder glücklich zu werden."
+date: 2025-12-15
 tags:
   - "Liebeskummer"
   - "Psychologie"

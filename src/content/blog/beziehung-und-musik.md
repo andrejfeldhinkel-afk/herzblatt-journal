@@ -1,6 +1,7 @@
 ---
 title: "Beziehung und Musik: Wenn der Soundtrack stimmt"
 description: "Beziehung und Musik: Wie gemeinsamer Musikgeschmack deine Beziehung stärkt und wie ihr mit Unterschieden erfolgreich umgeht."
+date: 2025-03-09
 tags:
   - "Beziehung"
   - "Lifestyle"

@@ -1,6 +1,7 @@
 ---
 title: "Vergebung in der Beziehung: Wann lohnt es sich?"
 description: "Lerne, wie du in deiner Beziehung vergeben kannst, ohne deine Grenzen zu opfern. Ein praxisorientierter Guide zur Vergebung."
+date: 2025-03-15
 tags:
   - "Beziehung"
   - "Psychologie"

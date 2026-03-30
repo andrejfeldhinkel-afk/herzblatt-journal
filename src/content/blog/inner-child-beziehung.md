@@ -1,7 +1,7 @@
 ---
 title: "Inneres Kind heilen für bessere Beziehungen"
 description: "Dein inneres Kind beeinflusst deine Beziehungen mehr als du denkst. So heilst du alte Wunden für eine erfüllte Partnerschaft."
-date: "2025-09-09"
+date: 2025-09-09
 image: "/images/photos/inner-child-beziehung.webp"
 tags:
   - "Inneres Kind"

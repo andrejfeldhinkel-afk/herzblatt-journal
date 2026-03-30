@@ -1,6 +1,7 @@
 ---
 title: "Urlaubsflirt – So wird aus dem Sommerabenteuer mehr"
 description: "Urlaubsflirt: Ist es echte Liebe oder nur Urlaubsmagie? Tipps zum Flirten im Urlaub und wie du eine echte Fernbeziehung daraus aufbaust."
+date: 2025-12-15
 tags:
   - "Flirten"
   - "Dating-Tipps"

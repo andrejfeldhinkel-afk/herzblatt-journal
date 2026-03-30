@@ -1,6 +1,7 @@
 ---
 title: "Liebe am Arbeitsplatz: Chancen, Risiken und Dos & Don'ts"
 description: "Sich am Arbeitsplatz zu verlieben ist menschlich — und riskant. Erfahre, wie du Karriere und Beziehung schützt und professionell bleibst."
+date: 2025-11-17
 tags:
   - "Beziehungen"
   - "Dating-Tipps"

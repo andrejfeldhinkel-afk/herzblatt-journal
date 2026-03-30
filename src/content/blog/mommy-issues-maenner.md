@@ -1,6 +1,7 @@
 ---
 title: "Mommy Issues bei Männern: Erkennen und verstehen"
 description: "Mommy Issues bei Männern: Was es bedeutet, wie du sie erkennst und was du tun kannst — ob du selbst betroffen bist oder dein Partner."
+date: 2025-12-13
 image: "/images/photos/mommy-issues-maenner.webp"
 imageAlt: "Mutter-Sohn-Beziehung und Bindungsmuster"
 tags:

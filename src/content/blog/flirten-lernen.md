@@ -1,6 +1,7 @@
 ---
 title: "Flirten lernen: Der ultimative Guide für Anfänger"
 description: "Flirten lernen: Entdecke, dass Flirten eine erlernbare Fähigkeit ist. Lerne Flirt-Techniken, die wirklich funktionieren. Mit Tipps!"
+date: 2025-10-07
 tags:
   - "Flirten"
   - "Dating-Tipps"

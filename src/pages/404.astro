@@ -3,6 +3,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
 <BaseLayout title="Seite nicht gefunden — Herzblatt Journal" description="Die gesuchte Seite wurde leider nicht gefunden.">
+  <!-- Auto-redirect for old /tags/* URLs -->
+  <script is:inline>
+    if (window.location.pathname.startsWith('/tags/') && window.location.pathname !== '/tags/') {
+      window.location.replace('/tags/');
+    }
+  </script>
+
   <section class="max-w-2xl mx-auto px-4 sm:px-6 py-20 sm:py-28 text-center">
 
     <div class="text-8xl mb-6">💔</div>

@@ -1,12 +1,11 @@
 ---
-title: Beziehung Rituale Staerken
-description: ''
-date: '2026-03-01'
-updated: '2026-03-01'
-tags: []
-draft: true
+title: "Rituale stärken Beziehung: Kleine Gewohnheiten"
+description: "Kleine Rituale, große Wirkung: Wie tägliche und wöchentliche Routinen eure Beziehung stabiler und tiefer machen."
+date: 2026-01-15
+tags: ["Beziehungstipps", "Kommunikation", "Partnerschaft"]
+image: "/images/photos/beziehung-rituale-staerken.webp"
+draft: false
 ---
-
 ---
 ---## Die Wissenschaft von Ritualen
 

@@ -1,6 +1,7 @@
 ---
 title: "Partner will keine Kinder — und jetzt?"
 description: "Dein Partner will keine Kinder aber du schon? Erfahre wie du damit umgehst, ob ein Kompromiss möglich ist und wann du eine Entscheidung treffen musst."
+date: 2025-12-15
 tags:
   - "Beziehung"
   - "Psychologie"

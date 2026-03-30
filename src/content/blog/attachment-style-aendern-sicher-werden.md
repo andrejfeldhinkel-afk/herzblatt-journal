@@ -1,6 +1,7 @@
 ---
 title: "Bindungsstil ändern: Wie du von unsicher zu sicher wirst"
 description: "Bindungsstil ändern ist möglich. Lerne wie du unsichere Bindungsmuster erkennst, verstehst und Schritt für Schritt einen sicheren Bindungsstil entwickelst."
+date: 2025-01-21
 tags:
   - "Psychologie"
   - "Selbstliebe"
@@ -25,7 +26,7 @@ faq:
   - question: "Brauche ich eine Therapie um meinen Bindungsstil zu ändern?"
     answer: "Nicht zwingend, aber es hilft enorm. Ein Therapeut kann blinde Flecken aufdecken die dir selbst nicht auffallen. Für ängstlich-vermeidende oder desorganisierte Stile ist Therapie stark empfohlen."
   - question: "Kann eine Beziehung meinen Bindungsstil verändern?"
-    answer: "Ja. Eine"
+    answer: "Ja. Eine 'korrigierende Beziehungserfahrung' mit einem sicher gebundenen Partner kann heilend wirken. Aber Achtung: Du solltest nicht erwarten, dass dein Partner dein Therapeut ist. Eigenarbeit bleibt wichtig."
 ---
 Bindungsstil. Du hast wahrscheinlich das Wort schon 100 Mal gehört. Sicher gebunden, ängstlich gebunden, vermeidend gebunden. Es klingt nach esoterischem Kram. Aber es ist nicht — es ist Psychologie die fundamental wichtig ist für dein romantisches Leben.
 

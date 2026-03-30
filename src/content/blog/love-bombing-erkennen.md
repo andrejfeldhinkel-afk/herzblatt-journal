@@ -1,6 +1,7 @@
 ---
 title: "Love Bombing erkennen: Wenn zu viel Liebe ein Warnsignal ist"
 description: "Love Bombing Zeichen erkennen: Wie du manipulative Beziehungsmuster von echter Liebe unterscheidest und dich schützt."
+date: 2025-12-01
 image: "/images/photos/love-bombing-erkennen.webp"
 tags:
   - "Dating"

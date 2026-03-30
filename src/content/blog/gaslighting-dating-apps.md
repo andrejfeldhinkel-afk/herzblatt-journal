@@ -1,6 +1,7 @@
 ---
 title: "Gaslighting auf Dating-Apps – So schützt du dich"
 description: "Gaslighting auf Dating-Apps: Erkenne Manipulationstaktiken früh. Breadcrumbing, Love Bombing und Schutzmechanismen gegen Online-Manipulation."
+date: 2025-10-15
 tags:
   - "Online-Dating"
   - "Red Flags"

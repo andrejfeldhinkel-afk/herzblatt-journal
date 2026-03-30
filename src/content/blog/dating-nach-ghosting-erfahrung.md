@@ -1,6 +1,7 @@
 ---
 title: "Dating nach einer Ghosting-Erfahrung: Wieder vertrauen"
 description: "Dating nach Ghosting: Lerne, wie du nach dem Schock zurück ins Dating findest und dich vor erneutem Ghosting schützt. Mit praktischen Tipps!"
+date: 2025-07-14
 tags:
   - "Dating"
   - "Psychologie"

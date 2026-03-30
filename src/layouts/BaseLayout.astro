@@ -34,8 +34,6 @@ const {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const fullImageURL = new URL(image, Astro.site).toString();
-const safeBreadcrumbs = Array.isArray(breadcrumbs) ? breadcrumbs : [];
-const safeFaq = Array.isArray(faq) ? faq : [];
 
 // Organization Schema (on every page)
 const orgSchema = {
@@ -73,12 +71,10 @@ const siteSchema = {
 };
 
 // Article Schema (only on blog posts)
-// Extract clean headline (without site name suffix) for schema.org
-const cleanHeadline = title.replace(/\s*[\|—–]\s*Herzblatt Journal$/, '');
 const articleSchema = isArticle ? {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": cleanHeadline,
+  "headline": title,
   "description": description,
   "image": fullImageURL,
   "url": canonicalURL.toString(),
@@ -94,23 +90,22 @@ const articleSchema = isArticle ? {
     "name": "Herzblatt Journal",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://herzblatt-journal.com/logo.svg",
-      "width": 200,
-      "height": 200
+      "url": "https://herzblatt-journal.com/logo.svg"
     }
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": canonicalURL.toString()
   },
-  "inLanguage": "de-DE"
+  "inLanguage": "de-DE",
+  "keywords": (Array.isArray(keywords) ? keywords : []).join(", ")
 } : null;
 
 // Breadcrumb Schema
-const breadcrumbSchema = safeBreadcrumbs.length > 0 ? {
+const breadcrumbSchema = breadcrumbs.length > 0 ? {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
-  "itemListElement": safeBreadcrumbs.map((bc, i) => ({
+  "itemListElement": (Array.isArray(breadcrumbs) ? breadcrumbs : []).map((bc, i) => ({
     "@type": "ListItem",
     "position": i + 1,
     "name": bc.name,
@@ -119,10 +114,10 @@ const breadcrumbSchema = safeBreadcrumbs.length > 0 ? {
 } : null;
 
 // FAQ Schema
-const faqSchema = safeFaq.length > 0 ? {
+const faqSchema = faq.length > 0 ? {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "mainEntity": safeFaq.map(item => ({
+  "mainEntity": (Array.isArray(faq) ? faq : []).map(item => ({
     "@type": "Question",
     "name": item.question,
     "acceptedAnswer": {
@@ -140,8 +135,8 @@ const faqSchema = safeFaq.length > 0 ? {
   <meta name="description" content={description} />
   <meta name="generator" content={Astro.generator} />
 
-  {Array.isArray(keywords) && keywords.length > 0 && (
-    <meta name="keywords" content={keywords.join(", ")} />
+  {keywords.length > 0 && (
+    <meta name="keywords" content={(Array.isArray(keywords) ? keywords : []).join(", ")} />
   )}
 
   <!-- Open Graph -->
@@ -165,7 +160,7 @@ const faqSchema = safeFaq.length > 0 ? {
   <!-- OG Image dimensions -->
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
-  {isArticle && Array.isArray(keywords) && keywords.length > 0 && (
+  {isArticle && keywords.length > 0 && (
     <meta property="article:section" content={keywords[0]} />
   )}
 
@@ -208,15 +203,36 @@ const faqSchema = safeFaq.length > 0 ? {
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
   )}
 
+  <!-- Theme color & PWA icons -->
+  <meta name="theme-color" content="#e11d48">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/manifest.json">
+
   <!-- Theme script (runs before render to prevent flash) -->
-  <script is:inline>
-    const theme = localStorage.getItem('theme') || 'light';
-    document.documentElement.classList.toggle('dark', theme === 'dark');
-  </script>
+  <!-- Always light mode -->
   <style>
     /* Enable body transition only after page load */
     body.loaded { transition: background-color 0.3s ease, color 0.3s ease; }
   </style>
+    <!-- Google Analytics 4 (deferred for PageSpeed) -->
+  <script is:inline>
+    // Load GA after page is interactive
+    window.addEventListener('load', function() {
+      setTimeout(function() {
+        var s = document.createElement('script');
+        s.src = 'https://www.googletagmanager.com/gtag/js?id=G-F3NFZBPW82';
+        s.async = true;
+        document.head.appendChild(s);
+        s.onload = function() {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          window.gtag = gtag;
+          gtag('js', new Date());
+          gtag('config', 'G-F3NFZBPW82');
+        };
+      }, 2000);
+    });
+  </script>
 </head>
 <body class="min-h-screen flex flex-col">
   <PromoBanner />
@@ -233,7 +249,7 @@ const faqSchema = safeFaq.length > 0 ? {
     <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
       <p class="hidden sm:block text-sm font-medium" style="color: var(--text);">Finde die passende Dating-Seite für dich</p>
       <div class="flex items-center gap-3 w-full sm:w-auto">
-        <button onclick="openDatingQuiz()" class="flex-1 sm:flex-none inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-full text-sm font-bold text-white cursor-pointer" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600)); border: none;">
+        <button onclick="window.openDatingQuiz()" class="flex-1 sm:flex-none inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-full text-sm font-bold text-white cursor-pointer" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600)); border: none;">
           Quiz starten
           <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
         </button>
@@ -271,7 +287,7 @@ const faqSchema = safeFaq.length > 0 ? {
           if (!document.getElementById('dating-quiz-overlay').classList.contains('hidden')) return;
           fired = true;
           sessionStorage.setItem('exit-intent-shown', '1');
-          openDatingQuiz();
+          window.openDatingQuiz();
         }
       });
     })();
@@ -315,5 +331,12 @@ const faqSchema = safeFaq.length > 0 ? {
       document.body.classList.add('loaded');
     });
   </script>
+    <script>
+      fetch("/api/pageview", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ path: window.location.pathname }),
+      }).catch(() => {});
+    </script>
 </body>
 </html>

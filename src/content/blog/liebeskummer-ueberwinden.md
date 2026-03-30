@@ -1,7 +1,7 @@
 ---
 title: "Liebeskummer überwinden: Der Weg zur Heilung"
 description: "Liebeskummer überwinden: Der komplette Weg zur emotionalen Heilung. Praktische Schritte und Strategien zum Weitermachen nach einer Trennung."
-date: "2025-10-07"
+date: 2025-10-07
 image: "/images/photos/liebeskummer-ueberwinden.webp"
 tags:
   - "beziehung"

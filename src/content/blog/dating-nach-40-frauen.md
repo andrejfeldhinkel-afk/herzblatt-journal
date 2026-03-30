@@ -1,7 +1,7 @@
 ---
 title: "Dating ab 40 als Frau: Neustart mit Selbstvertrauen"
 description: "Erfolgreich daten mit über 40. Warum 40 kein Nachteil ist, Online-Dating-Tipps, Selbstwert und echte Liebe."
-date: "2025-06-12"
+date: 2025-06-12
 image: "/images/photos/dating-nach-40-frauen.webp"
 tags:
   - "Dating"

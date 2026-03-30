@@ -1,6 +1,7 @@
 ---
 title: "Frisch verheiratet: 13 Tipps für dein erstes Ehejahr"
 description: "Das erste Ehejahr ist eine Herausforderung. Entdecke praktische Tipps für deine frische Ehe und starte gestärkt ins gemeinsame Leben."
+date: 2025-10-11
 tags:
   - "Hochzeit"
   - "Ehe"

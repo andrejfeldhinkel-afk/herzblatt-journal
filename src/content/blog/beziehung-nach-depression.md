@@ -1,6 +1,7 @@
 ---
 title: "Beziehung aufbauen nach einer Depression: Hoffnung vorwärts"
 description: "Beziehung aufbauen nach Depression: Wie du nach einer depressiven Episode wieder Vertrauen in Liebe und echte Beziehung aufbaust."
+date: 2025-02-10
 tags:
   - "Beziehung"
   - "Psychologie"

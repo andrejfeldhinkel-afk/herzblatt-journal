@@ -1,7 +1,7 @@
 ---
 title: "Selbstwertgefühl stärken für bessere Beziehungen"
 description: "Dein Selbstwert bestimmt deine Beziehungen. Lerne, wie du ihn aufbaust und endlich die Liebe bekommst, die du verdienst."
-date: "2025-11-01"
+date: 2025-11-01
 image: "/images/photos/selbstwertgefuehl-staerken-liebe.webp"
 tags:
   - "Selbstwert"

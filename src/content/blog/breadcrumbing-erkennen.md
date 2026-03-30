@@ -1,6 +1,7 @@
 ---
 title: "Breadcrumbing erkennen: Wenn dein Date dich nur warmhält"
 description: "Breadcrumbing erkennen: Lerne die Warnsignale, warum Menschen breadcrumben und wie du dich schützt. Mit realen Chat-Beispielen."
+date: 2025-04-07
 image: "/images/photos/breadcrumbing-erkennen.webp"
 tags:
   - "Dating"

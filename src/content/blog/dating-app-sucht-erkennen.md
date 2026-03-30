@@ -1,6 +1,7 @@
 ---
 title: "Dating-App-Sucht: Wenn Swipen zur Obsession wird"
 description: "Dating-App-Sucht erkennen und überwinden. Anzeichen von Swipen-Obsession und praktische Strategien für ein gesundes Dating-Verhalten ohne Abhängigkeit."
+date: 2025-05-02
 tags:
   - "Online-Dating"
   - "Psychologie"

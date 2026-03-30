@@ -1,6 +1,7 @@
 ---
 title: "Haustiere in der Beziehung und beim Dating"
 description: "Beziehung und Haustiere: Wie Haustiere deine Liebe beeinflussen und worauf du beim Dating mit Haustieren achten solltest."
+date: 2025-03-05
 tags:
   - "Beziehung"
   - "Dating-Tipps"

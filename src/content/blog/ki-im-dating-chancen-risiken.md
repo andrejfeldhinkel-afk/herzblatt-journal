@@ -1,7 +1,7 @@
 ---
 title: "KI im Dating: Algorithmus vs. echte Gefühle"
 description: "KI im Dating: Algorithmen schreiben Nachrichten und wählen Matches. Sind das echte Chancen oder verstecktes Risiko für die Authentizität?"
-date: "2025-09-15"
+date: 2025-09-15
 image: "/images/photos/ki-im-dating-chancen-risiken.webp"
 tags:
   - "KI"

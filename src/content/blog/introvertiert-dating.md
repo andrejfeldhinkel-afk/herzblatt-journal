@@ -1,6 +1,7 @@
 ---
 title: "Introvertiert und Dating: So findest du als stiller Mensch"
 description: "Dating als Introvertierter: Deine Stärken nutzen, richtige Partner finden und authentisch flirten ohne deine Energie zu verbrauchen."
+date: 2025-11-02
 image: "/images/photos/introvertiert-dating.webp"
 tags:
   - "Dating"

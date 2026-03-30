@@ -1,6 +1,7 @@
 ---
 title: "Single an Weihnachten? So genießt du die Feiertage trotzdem"
 description: "Single an Weihnachten? Tipps für eine wunderbare und erfüllende Weihnachtszeit ohne Partner. Wie du die Feiertage genießt und nicht isoliert wirkst."
+date: 2025-12-15
 tags:
   - "Single-Leben"
   - "Ratgeber"

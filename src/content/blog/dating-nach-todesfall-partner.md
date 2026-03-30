@@ -1,7 +1,7 @@
 ---
 title: "Dating nach dem Verlust des Partners"
 description: "Dating nach Todesfall: Wie du nach einem Trauerverlust wieder dein Herz öffnen kannst. Trauer, Schuldgefühle und neue Liebe."
-date: "2025-06-27"
+date: 2025-06-27
 image: "/images/photos/dating-nach-todesfall-partner.webp"
 tags:
   - "Dating nach Verlust"

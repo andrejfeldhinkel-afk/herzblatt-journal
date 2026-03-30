@@ -1,6 +1,7 @@
 ---
 title: "Kontrollzwang in der Beziehung: Warum du loslassen musst um"
 description: "Kontrollzwang in der Beziehung erkennen und überwinden. Lerne warum Kontrolle Liebe zerstört und wie du loslernst loszulassen — für eine freiere, tiefere Verbindung."
+date: 2025-11-14
 tags:
   - "Psychologie"
   - "Beziehung"
@@ -21,7 +22,7 @@ faq:
   - question: "Woran erkenne ich dass ich kontrollierend bin?"
     answer: "Typische Zeichen: Du checkst das Handy deines Partners, fragst ständig wo er/sie ist, bestimmst Freundschaften, wirst unruhig wenn du nicht erreichbar bist, oder wertest die Entscheidungen des anderen ab. Wenn mehr als 3 dieser Punkte zutreffen, lohnt sich ein genauerer Blick."
   - question: "Warum bin ich so kontrollierend?"
-    answer: "Kontrolle ist fast immer eine Angstreaktion. Dahinter steckt die Überzeugung:"
+    answer: "Kontrolle ist fast immer eine Angstreaktion. Dahinter steckt die Überzeugung: 'Wenn ich die Kontrolle verliere, passiert etwas Schlimmes.' Diese Angst hat meist Wurzeln in früheren Erfahrungen — Verlust, Betrug oder unberechenbarer Kindheit."
   - question: "Kann mein Partner sich ändern wenn er kontrollierend ist?"
     answer: "Ja, aber nur wenn er das Problem selbst erkennt und ändern WILL. Du kannst niemandem die Einsicht geben. Was du tun kannst: klare Grenzen setzen und konsequent bleiben. Wenn sich nichts ändert, schütze dich selbst."
   - question: "Ab wann ist Kontrolle in der Beziehung missbräuchlich?"

@@ -1,6 +1,7 @@
 ---
 title: "Dating-Tipps für introvertierte Männer: Authentizität statt"
 description: "Dating als introvertierter Mann: Wie du authentisch und erfolgreich datest, ohne deine echte Natur zu verleugnen — mit Tipps."
+date: 2025-04-24
 tags:
   - "Dating-Tipps"
   - "Selbstliebe"

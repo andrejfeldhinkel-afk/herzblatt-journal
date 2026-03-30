@@ -1,6 +1,7 @@
 ---
 title: "Online-Dating Langzeitstrategie: So findest du nachhaltig"
 description: "Online-Dating Langzeitstrategie entwickeln: Warum Marathon besser als Sprint ist und wie du mit System und Geduld den richtigen Partner findest."
+date: 2025-12-15
 tags:
   - "Online-Dating"
   - "Partnersuche"

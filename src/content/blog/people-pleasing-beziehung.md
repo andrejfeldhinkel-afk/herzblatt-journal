@@ -1,7 +1,7 @@
 ---
 title: "People Pleasing in Beziehungen überwinden"
 description: "People Pleasing in Beziehungen: Warum du immer Ja sagst. Durchbreche People-Pleasing-Muster und führe authentische, ehrliche Beziehungen."
-date: "2025-10-24"
+date: 2025-10-24
 image: "/images/photos/people-pleasing-beziehung.webp"
 tags:
   - "People Pleasing"

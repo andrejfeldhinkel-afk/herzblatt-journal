@@ -1,6 +1,7 @@
 ---
 title: "Kommunikation in der Beziehung: So führt ihr Gespräche,"
 description: "Kommunikation in der Beziehung: Lerne bewährte Techniken und Methoden, die Paartherapeuten empfehlen, um deine Partnerschaft zu stärken."
+date: 2025-11-08
 tags:
   - "Beziehungen"
   - "Psychologie"
@@ -21,7 +22,7 @@ faq:
   - question: "Ist Streit in einer Beziehung schlecht?"
     answer: "Nein. Gesunde Konflikte sind normal und wichtig. Schlecht ist, wenn ihr unfair streitet oder nicht zuzuhört. Die Art des Streits, nicht der Streit selbst, zählt."
   - question: "Wie kann ich mich besser ausdrücken ohne meinen Partner zu verletzen?"
-    answer: "Nutze"
+    answer: "Nutze 'Ich'-Aussagen statt 'Du'-Vorwürfe. Zum Beispiel: 'Ich fühlte mich vernachlässigt' statt 'Du vernachlässigst mich'. Das schafft Raum für echtes Verstehen."
 ---## Der größte Unterschied zwischen glücklichen und unglücklichen Paaren
 
 Es ist nicht, dass glückliche Paare keinen Konflikt haben. Es ist nicht, dass sie immer perfekt miteinander reden. Der Unterschied ist: Sie wissen, WIE man Konflikt navigiert. Sie haben gelernt, miteinander zu sprechen — vor allem wenn es schwierig wird.

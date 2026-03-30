@@ -1,6 +1,7 @@
 ---
 title: "Die Psychologie der Anziehung: Warum wir uns in bestimmte?"
 description: "Psychologie der Anziehung: Was passiert im Gehirn, wenn wir uns verlieben? Wissenschaftliche Grundlagen für dein Liebesleben."
+date: 2025-12-15
 tags:
   - "Psychologie"
   - "Dating-Tipps"
@@ -21,7 +22,7 @@ faq:
   - question: "Kann man Anziehung bewusst erzeugen?"
     answer: "Teilweise ja. Während die chemische Grundanziehung schwer steuerbar ist, kannst du durch Körpersprache, aktives Zuhören, Augenkontakt und authentisches Auftreten deine Anziehungskraft deutlich steigern."
   - question: "Warum fühlen wir uns oft zu den 'falschen' Menschen hingezogen?"
-    answer: "Unser Unterbewusstsein sucht oft Partner, die vertraute Muster aus der Kindheit wiederholen — auch negative. Dieses Phänomen nennt sich"
+    answer: "Unser Unterbewusstsein sucht oft Partner, die vertraute Muster aus der Kindheit wiederholen — auch negative. Dieses Phänomen nennt sich 'Repetition Compulsion' und kann durch Selbstreflexion durchbrochen werden."
   - question: "Wie lange dauert die Verliebtheitsphase?"
     answer: "Die intensive Verliebtheitsphase mit erhöhtem Dopamin und Noradrenalin dauert typischerweise 6-18 Monate. Danach wandelt sich das Gefühl in eine tiefere, ruhigere Form der Liebe, gesteuert durch Oxytocin."
 ---## Die verborgene Wissenschaft hinter der Liebe

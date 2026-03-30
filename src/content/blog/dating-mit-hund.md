@@ -1,6 +1,7 @@
 ---
 title: "Dating mit Hund: Fluch oder Segen"
 description: "Dating mit Hund: Lerne, wie dein Vierbeiner deine Partnersuche beeinflusst und worauf du beim Dating mit Hund achten solltest!"
+date: 2025-06-26
 tags:
   - "Dating"
   - "Lifestyle"

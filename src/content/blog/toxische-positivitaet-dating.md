@@ -1,6 +1,7 @@
 ---
 title: "Toxische Positivität beim Dating – Wenn Optimismus schadet"
 description: "Toxische Positivität beim Dating: Wann Optimismus schadet. Lerne, Warnsignale zu erkennen und realistische Erwartungen für gesundes Dating zu setzen."
+date: 2025-12-15
 tags:
   - "Psychologie"
   - "Dating-Tipps"

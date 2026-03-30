@@ -1,6 +1,7 @@
 ---
 title: "Vom Match zum Date: So wird aus einem Swipe ein echtes"
 description: "Vom Match zum Date in 7 Schritten: Lerne wie du auf Dating-Apps packende Gespräche führst und den perfekten Moment für ein Treffen findest."
+date: 2025-12-15
 tags:
   - "Online-Dating"
   - "Dating"

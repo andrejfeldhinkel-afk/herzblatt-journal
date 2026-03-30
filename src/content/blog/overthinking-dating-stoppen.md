@@ -1,6 +1,7 @@
 ---
 title: "Overthinking beim Dating: Wie du den Kopf abschaltest"
 description: "Overthinking beim Dating überwinden mit praktischen Techniken. Stoppe das Gedankenkarussell und genießende die Liebe wirklich."
+date: 2025-12-15
 image: "/images/photos/overthinking-dating-stoppen.webp"
 imageAlt: "Frau stoppt Overthinking beim Dating"
 tags:
@@ -25,7 +26,7 @@ faq:
   - question: "Schadet mir Overthinking in der Beziehung?"
     answer: "Ja. Es macht dich ängstlich, müde und unglücklich. Dein Partner fühlt deine Angst, auch wenn du sie nicht laut aussprichst. Das belastet die Beziehung."
   - question: "Gibt es schnelle Tipps gegen Overthinking?"
-    answer: "Ja: 1) Schreib die Gedanken auf und schließ das Tagebuch. 2) Geh eine Stunde raus, ohne Handy. 3) Stell dir eine Timer auf 15 Minuten Nachdenken, dann Stopp. 4) Sag laut"
+    answer: "Ja: 1) Schreib die Gedanken auf und schließ das Tagebuch. 2) Geh eine Stunde raus, ohne Handy. 3) Stell dir eine Timer auf 15 Minuten Nachdenken, dann Stopp. 4) Sag laut 'Stop' wenn die Spirale beginnt."
 ---
 
 Dein Handy klingelt. Eine Nachricht von der Person, die dir gefällt. Zwei Worte: "Hey, alles klar?" Und du? Du gerätst ins Gedankenkarussell.

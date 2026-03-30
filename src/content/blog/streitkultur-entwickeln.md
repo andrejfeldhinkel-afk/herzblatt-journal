@@ -1,7 +1,7 @@
 ---
 title: "Gesunde Streitkultur als Paar entwickeln"
 description: "Streiten ist normal — aber WIE ihr streitet entscheidet über eure Beziehung. So entwickelt ihr eine gesunde Streitkultur."
-date: "2025-11-12"
+date: 2025-11-12
 image: "/images/photos/streitkultur-entwickeln.webp"
 tags:
   - "Streitkultur"

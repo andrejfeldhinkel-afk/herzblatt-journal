@@ -1,7 +1,7 @@
 ---
 title: "Schwiegereltern: Wenn die Familie schwierig ist"
 description: "Umgang mit Schwiegereltern: Konflikte meistern, Grenzen setzen und Familienkonflikte konstruktiv lösen. Praktische Strategien."
-date: "2025-11-27"
+date: 2025-11-27
 image: "/images/photos/umgang-mit-schwiegereltern.webp"
 tags:
   - "Schwiegereltern"

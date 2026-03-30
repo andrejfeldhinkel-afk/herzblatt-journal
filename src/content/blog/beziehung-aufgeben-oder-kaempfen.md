@@ -1,6 +1,7 @@
 ---
 title: "Beziehung aufgeben oder kämpfen: Der ehrliche Guide"
 description: "Solltest du deine Beziehung beenden oder noch um sie kämpfen? Lese jetzt die wichtigsten Zeichen und praktischen Tipps."
+date: 2025-01-29
 tags:
   - "Beziehungsratgeber"
   - "Trennungsgedanken"

@@ -1,6 +1,7 @@
 ---
 title: "Narzissmus beim Dating – So erkennst du narzisstische"
 description: "Narzissmus beim Dating: Narzisstische Partner erkennen und schützen. Love Bombing, Warnsignale, Manipulationstechniken und Ausstiegsstrategien."
+date: 2025-12-15
 tags:
   - "Psychologie"
   - "Red Flags"

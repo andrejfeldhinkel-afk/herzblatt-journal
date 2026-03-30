@@ -1,6 +1,7 @@
 ---
 title: "FOMO beim Dating: Immer das Gefühl etwas Besseres zu"
 description: "FOMO beim Dating? Warum du immer denkst da draußen ist jemand Besseres — und wie du lernst dich auf einen Menschen einzulassen."
+date: 2025-10-02
 image: "/images/photos/fear-of-missing-out-dating.webp"
 imageAlt: "Person scrollt ängstlich durch Dating-App"
 tags:
@@ -16,7 +17,7 @@ draft: false
 author: "thomas-peters"
 faq:
   - question: "Warum habe ich beim Dating immer FOMO?"
-    answer: "Dating-Apps erzeugen die Illusion endloser Optionen. Dein Gehirn denkt:"
+    answer: "Dating-Apps erzeugen die Illusion endloser Optionen. Dein Gehirn denkt: 'Wenn ich so viele Profile sehe, muss da noch jemand Besseres sein.' Das ist das Paradox der Wahl."
   - question: "Wie überwinde ich Dating-FOMO?"
     answer: "Begrenze deine Optionen bewusst. Wenn du jemanden magst, lösche die App für zwei Wochen und gib der Person eine echte Chance. FOMO ist ein Gefühl, keine Realität."
   - question: "Ist FOMO ein Zeichen dass die Person nicht die Richtige ist?"

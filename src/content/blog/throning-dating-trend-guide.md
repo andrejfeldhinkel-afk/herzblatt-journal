@@ -1,6 +1,7 @@
 ---
 title: "Throning — Wenn du nur als Statussymbol datst"
 description: "Throning ist ein Dating-Trend, bei dem dein Partner dich nur als Accessoire und Statussymbol nutzt. Erkenne die Warnsignale, verstehe die Psychologie dahinter und lerne, dich zu schützen."
+date: 2025-12-15
 author: "markus-hoffmann"
 image: "/images/blog/throning-dating-trend-guide.webp"
 alt: "Zwei Menschen auf einer eleganten Party, wo einer seinen Partner wie ein Statussymbol zur Schau stellt"
@@ -19,7 +20,7 @@ keywords:
 draft: false
 faq:
   - question: "Was ist Throning genau?"
-    answer: "Throning ist ein Dating-Muster, bei dem ein Partner den anderen hauptsächlich in der Öffentlichkeit zur Schau stellt, um seinen eigenen Status zu erhöhen. Dabei behandelt der"
+    answer: "Throning ist ein Dating-Muster, bei dem ein Partner den anderen hauptsächlich in der Öffentlichkeit zur Schau stellt, um seinen eigenen Status zu erhöhen. Dabei behandelt der 'Throner' seinen Partner wie ein Accessoire oder eine Statue auf einem Podest (throne = Thron) - sichtbar, bewundert, aber emotional distanziert."
   - question: "Wie erkenne ich, dass ich gerade getroned werde?"
     answer: "Typische Zeichen sind: dein Partner liebt öffentliche Dates, meidet aber private Zeit, stellt dich hochrangigen Personen vor, um zu beeindrucken, und interessiert sich vor allem für deine äußere Erscheinung, deinen Beruf oder deine sozialen Kontakte statt für deine Gedanken und Gefühle."
   - question: "Ist es dasselbe wie Pride in seinem Partner?"

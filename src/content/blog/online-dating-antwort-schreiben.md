@@ -1,7 +1,7 @@
 ---
 title: "Online-Dating Antworten die Interesse zeigen"
 description: "Antworte smart beim Online-Dating. Lerne Messaging-Strategie, wann antworten, vom Chat zum Date, rote Flaggen & Beispiel-Nachrichten für Erfolg."
-date: "2025-10-13"
+date: 2025-10-13
 image: "/images/photos/online-dating-antwort-schreiben.webp"
 tags:
   - "Online-Dating"

@@ -1,6 +1,7 @@
 ---
 title: "Wenn der Kinderwunsch die Beziehung belastet"
 description: "Kinderwunsch und Beziehung: Wie du mit großen Spannungen umgehen kannst, wenn einer Kinder möchte und der Partner nicht."
+date: 2025-02-18
 tags:
   - "Beziehung"
   - "Ratgeber"

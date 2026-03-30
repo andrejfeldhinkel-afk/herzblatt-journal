@@ -1,6 +1,7 @@
 ---
 title: "Speed Dating: Der komplette Guide für ein erfolgreiches"
 description: "Speed Dating Guide: Tipps für erfolgreiche Gespräche, richtige Körpersprache, beste Fragen und Follow-up-Strategien. Erfolgreich daten."
+date: 2025-12-15
 image: "/images/photos/speed-dating-guide.webp"
 tags:
   - "Dating"
@@ -22,7 +23,7 @@ faq:
   - question: "Sollte ich beim Speed Dating mein Telefon verwenden?"
     answer: "Nein, niemals. Lege dein Telefon weg. Stelle Augenkontakt her. Konzentriere dich vollständig auf die Person vor dir."
   - question: "Was ist die beste Strategie, um Leute nach dem Speed Dating zu treffen?"
-    answer: "Wenn du jemanden matched, texte ihn am nächsten Tag (nicht sofort nach der Veranstaltung). Sei spezifisch:"
+    answer: "Wenn du jemanden matched, texte ihn am nächsten Tag (nicht sofort nach der Veranstaltung). Sei spezifisch: 'Mir hat gefallen, dass du von deinem Reise nach Japan erzählt hast. Ich würde gerne das Gespräch fortsetzen.'"
   - question: "Ist Speed Dating für Introvertierte?"
     answer: "Ja, aber es ist anstrengend. Wenn du introvertiert bist, iss vorher gut, nimm Pausen, und sag dir selbst, dass jedes Gespräch nur 5 Minuten ist. Das macht es leichter."
 ---

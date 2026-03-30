@@ -1,7 +1,7 @@
 ---
 title: "Liebe finden mit 30: Dein bestes Jahrzehnt"
 description: "Liebe finden mit 30: Dein bestes Jahrzehnt. Warum deine 30er ideal für echte, dauerhafte Liebe sind – mit praktischen Tipps."
-date: "2025-09-21"
+date: 2025-09-21
 image: "/images/photos/liebe-finden-mit-30.webp"
 tags:
   - "dating"

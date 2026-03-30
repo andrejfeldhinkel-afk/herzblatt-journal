@@ -1,6 +1,7 @@
 ---
 title: "Ghosting – Warum es passiert und wie du damit umgehst"
 description: "Ghosting-Ratgeber: Lerne, was Ghosting ist, warum es passiert und wie du damit umgehen kannst. Mit praktischen Strategien zur Heilung."
+date: 2025-10-21
 tags:
   - "Dating-Tipps"
   - "Ghosting"

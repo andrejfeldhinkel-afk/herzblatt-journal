@@ -1,6 +1,7 @@
 ---
 title: "Dating in Braunschweig: Die besten Orte, Tipps & Hotspots"
 description: "Braunschweig Dating-Guide: Entdecke charmante Restaurants, trendige Bars und die beste Single-Szene in der Löwenstadt. Tipps für erfolgreiche Dates!"
+date: 2025-05-14
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"
@@ -17,7 +18,7 @@ faq:
   - question: "Wo treffen sich junge Singles in Braunschweig?"
     answer: "Der Schlossplatz ist zentral und beliebt. Die Gegend um die TU Braunschweig ist jung. Die Altstadt mit Restaurants und Bars ist traditionell."
   - question: "Welche Restaurants sind gut zum Daten?"
-    answer: "'Adelsberger"
+    answer: "'Adelsberger' bietet regionale Küche. 'Baguio' ist exotisch-asiatisch. 'Café Herzog' ist gemütlich für Kaffee-Dates."
   - question: "Was kann man außer Essen machen?"
     answer: "Spaziergang durchs Schloss. Besuche der Museen. Fahrradtouren durchs Umland. Theater-Aufführungen."
   - question: "Wie ist die Dating-Kultur hier?"

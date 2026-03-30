@@ -1,6 +1,7 @@
 ---
 title: "Wenn der Partner die Beziehung geheim hält"
 description: "Partner versteckt Beziehung: Wann ist es okay, wann ist es ein Red Flag? Gründe, Konsequenzen, und wie du reagierst"
+date: 2025-02-02
 image: "/images/photos/beziehung-geheimhaltung-verstecken.webp"
 imageAlt: "Partner der die Beziehung geheim hält"
 tags:
@@ -24,7 +25,7 @@ faq:
   - question: "Soll ich meinen Freunden erzählen, dass ich in einer geheimen Beziehung bin?"
     answer: "Ja. Nicht, um den Partner zu sabotieren, sondern weil deine Freunde ein Recht haben zu wissen, warum du nicht zu ihren Partys kommst oder nicht verfügbar bist. Es ist auch wichtig für DEINE Unterstützung – du brauchst Menschen, die dich kennen."
   - question: "Was, wenn er/sie sagt, es ist temporal?"
-    answer: "Frag nach dem Enddatum. Nicht"
+    answer: "Frag nach dem Enddatum. Nicht \"irgendwann\" – konkret. \"Bis wann darf deine Familie von mir wissen?\" Wenn er/sie kein konkretes Datum hat, ist es nicht temporal – es ist permanent."
 ---
 
 ## Wenn der Partner die beziehung geheim hält

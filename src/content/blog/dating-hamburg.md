@@ -1,6 +1,7 @@
 ---
 title: "Dating in Hamburg: Die besten Orte, Tipps & Hotspots"
 description: "Hamburg Dating-Guide: St. Pauli, HafenCity, Alster-Spaziergänge. Entdecke romantische Orte und kulinarische Abenteuer für Singles in Hamburg!"
+date: 2025-06-04
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

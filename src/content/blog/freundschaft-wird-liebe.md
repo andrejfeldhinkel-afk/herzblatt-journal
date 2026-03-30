@@ -1,7 +1,7 @@
 ---
 title: "Wenn Freundschaft zu Liebe wird"
 description: "Freundschaft wird Liebe: Lerne, wie Gefühle in einer Freundschaft entstehen und wie du damit konstruktiv umgehen kannst. Ein praktischer Ratgeber!"
-date: "2025-08-20"
+date: 2025-08-20
 image: "/images/photos/freundschaft-wird-liebe.webp"
 tags:
   - "beziehung"

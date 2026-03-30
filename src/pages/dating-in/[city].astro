@@ -1,0 +1,221 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AppCTA from '../../components/AppCTA.astro';
+import BlogCard from '../../components/BlogCard.astro';
+import { getCollection } from 'astro:content';
+import { cities, type CityData } from '../../data/cities';
+
+
+
+
+export const prerender = true;
+
+export function getStaticPaths() {
+  return cities.map(city => ({
+    params: { city: city.slug },
+    props: { city },
+  }));
+}
+
+const { city } = Astro.props;
+
+// Get related blog posts
+const allPosts = (await getCollection('blog', ({ data }) => !data.draft))
+  .sort((a, b) => (b.data.date?.valueOf?.() || 0) - (a.data.date?.valueOf?.() || 0));
+
+const datingTags = new Set(['dating', 'flirten', 'kennenlernen', 'erstes date', 'beziehung', 'online-dating', 'partnersuche', 'singleleben']);
+const relatedPosts = allPosts
+  .filter(p => p.data.tags.some((t: string) => datingTags.has(t.toLowerCase())))
+  .slice(0, 6);
+
+const breadcrumbs = [
+  { name: 'Home', url: '/' },
+  { name: 'Dating in...', url: '/dating-in/berlin' },
+  { name: `Dating in ${city.name}`, url: `/dating-in/${city.slug}` },
+];
+
+const title = `Dating in ${city.name} 2026: Die besten Tipps, Date-Spots & Singles-Guide`;
+const description = `Dating in ${city.name}: Entdecke die besten Date-Spots, Ausgehtipps und die lokale Singles-Szene. ${city.nicknames[0]} — dein kompletter Dating-Guide für ${city.name}.`;
+
+function getReadingTime(body: string) {
+  return `${Math.ceil(body.split(/\s+/).length / 200)} Min. Lesezeit`;
+}
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  keywords={[`dating ${city.name.toLowerCase()}`, `singles ${city.name.toLowerCase()}`, `date spots ${city.name.toLowerCase()}`, `kennenlernen ${city.name.toLowerCase()}`, `ausgehen ${city.name.toLowerCase()}`]}
+  breadcrumbs={breadcrumbs}
+  faq={[
+    { question: `Wo kann man in ${city.name} am besten Leute kennenlernen?`, answer: `Die besten Orte zum Kennenlernen in ${city.name} sind ${city.top_areas.slice(0, 3).join(', ')}. Besonders beliebt sind ${city.date_spots[0].name} und ${city.date_spots[1].name}.` },
+    { question: `Welche Dating-Apps sind in ${city.name} beliebt?`, answer: `In ${city.name} sind Bumble, Tinder und Hinge die meistgenutzten Dating-Apps. Für ernsthaftere Absichten empfehlen wir Plattformen wie xLoves oder MichVerlieben, die auf den deutschsprachigen Markt spezialisiert sind.` },
+    { question: `Was sind die romantischsten Orte in ${city.name}?`, answer: `Die romantischsten Spots in ${city.name} sind ${city.romantic_spots.slice(0, 3).join(', ')}. Besonders bei Sonnenuntergang sind diese Orte perfekt für ein besonderes Date.` },
+    { question: `Wie ist die Single-Szene in ${city.name}?`, answer: city.dating_scene.split('.').slice(0, 2).join('.') + '.' },
+  ]}
+>
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 py-12 sm:py-16">
+    <!-- Breadcrumbs -->
+    <nav aria-label="Breadcrumb" class="mb-6">
+      <ol class="flex items-center gap-1.5 text-xs font-medium flex-wrap" style="color: var(--text-muted);">
+        <li><a href="/" class="hover:underline">Home</a></li>
+        <li><span class="mx-1">/</span></li>
+        <li><a href={`/dating-in/${city.slug}`} class="hover:underline">Dating in...</a></li>
+        <li><span class="mx-1">/</span></li>
+        <li style="color: var(--color-primary-600);">{city.name}</li>
+      </ol>
+    </nav>
+
+    <!-- Hero -->
+    <header class="mb-12">
+      <div class="flex flex-wrap gap-2 mb-4">
+        <span class="text-xs font-medium px-3 py-1.5 rounded-full" style="background: var(--color-primary-50); color: var(--color-primary-700); border: 1px solid var(--color-primary-100);">
+          {city.state}
+        </span>
+        <span class="text-xs font-medium px-3 py-1.5 rounded-full" style="background: var(--bg-soft); color: var(--text-muted); border: 1px solid var(--border);">
+          {city.population} Einwohner
+        </span>
+      </div>
+      <h1 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight mb-4" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;">
+        Dating in {city.name} 2026
+      </h1>
+      <p class="text-lg leading-relaxed" style="color: var(--text-muted);">
+        {city.nicknames.join(' · ')} — Dein ultimativer Singles-Guide für {city.name}.
+      </p>
+    </header>
+
+    <article class="prose" style="max-width: none;">
+      <!-- Dating Scene -->
+      <h2>Die Dating-Szene in {city.name}</h2>
+      <p>{city.dating_scene}</p>
+      <blockquote>
+        <p><strong>Insider-Tipp:</strong> {city.singles_tip}</p>
+      </blockquote>
+
+      <!-- Top Date Spots -->
+      <h2>Die 6 besten Date-Spots in {city.name}</h2>
+      <p>Von romantisch bis abenteuerlich — {city.name} hat für jedes Date den perfekten Ort. Hier sind unsere Top-Empfehlungen:</p>
+    </article>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-8">
+      {city.date_spots.map((spot, i) => (
+        <div class="rounded-2xl p-5 transition-all hover:-translate-y-0.5" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="flex items-start gap-3">
+            <span class="shrink-0 w-8 h-8 rounded-full flex items-center justify-center text-xs font-bold" style="background: var(--color-primary-100); color: var(--color-primary-700);">
+              {i + 1}
+            </span>
+            <div>
+              <h3 class="font-bold text-sm mb-1" style="color: var(--text);">{spot.name}</h3>
+              <span class="text-[10px] font-medium px-2 py-0.5 rounded-full mb-2 inline-block" style="background: var(--color-primary-50); color: var(--color-primary-600);">
+                {spot.type}
+              </span>
+              <p class="text-xs mt-1" style="color: var(--text-muted);">{spot.description}</p>
+            </div>
+          </div>
+        </div>
+      ))}
+    </div>
+
+    <article class="prose" style="max-width: none;">
+      <!-- Fun Fact -->
+      <div class="not-prose my-8 rounded-2xl p-6" style="background: linear-gradient(135deg, var(--color-primary-50), var(--bg-soft)); border: 1px solid var(--color-primary-100);">
+        <p class="text-xs font-bold uppercase tracking-wider mb-2" style="color: var(--color-primary-600);">Fun Fact</p>
+        <p class="text-sm font-medium" style="color: var(--text);">{city.fun_fact}</p>
+      </div>
+
+      <!-- Cafe Culture -->
+      <h2>Café-Kultur: Das perfekte erste Date in {city.name}</h2>
+      <p>{city.cafe_culture}</p>
+
+      <!-- Best Areas -->
+      <h2>Die besten Viertel zum Kennenlernen</h2>
+      <p>{city.name} hat für jeden Dating-Typ das passende Viertel. Die angesagtesten Ecken zum Ausgehen und Kennenlernen sind:</p>
+      <ul>
+        {city.top_areas.map(area => (
+          <li><strong>{area}</strong></li>
+        ))}
+      </ul>
+
+      <!-- Romantic Spots -->
+      <h2>Romantische Orte für besondere Dates</h2>
+      <p>Wenn du jemanden wirklich beeindrucken willst, dann sind diese romantischen Spots in {city.name} genau richtig:</p>
+      <ul>
+        {city.romantic_spots.map(spot => (
+          <li>{spot}</li>
+        ))}
+      </ul>
+
+      <!-- Outdoor Dates -->
+      <h2>Outdoor-Dates in {city.name}</h2>
+      <p>Aktive Dates sind perfekt fürs Kennenlernen — man hat immer etwas zu reden und die Endorphine tun ihr Übriges. In {city.name} bieten sich diese Outdoor-Aktivitäten an:</p>
+      <ul>
+        {city.outdoor_dates.map(d => (
+          <li>{d}</li>
+        ))}
+      </ul>
+
+      <!-- Nightlife -->
+      <h2>Nachtleben & Ausgehen in {city.name}</h2>
+      <p>Das Nachtleben in {city.name} ist vielfältig. Egal ob du Club, Bar oder gemütliche Kneipe bevorzugst — hier sind die beliebtesten Locations:</p>
+      <ul>
+        {city.nightlife.map(n => (
+          <li><strong>{n}</strong></li>
+        ))}
+      </ul>
+
+      <!-- Events -->
+      <h2>Events & Veranstaltungen zum Kennenlernen</h2>
+      <p>{city.name} bietet das ganze Jahr über Events, bei denen man neue Leute kennenlernen kann. Besonders beliebt bei Singles sind:</p>
+      <ul>
+        {city.events.map(e => (
+          <li>{e}</li>
+        ))}
+      </ul>
+
+      <blockquote>
+        <p><em>„{city.local_saying}"</em></p>
+      </blockquote>
+    </article>
+
+    <!-- CTA -->
+    <div class="my-12">
+      <AppCTA variant="inline" />
+    </div>
+
+    <!-- Related Blog Posts -->
+    {relatedPosts.length > 0 && (
+      <section class="mt-10 pt-10" style="border-top: 1px solid var(--border);">
+        <div class="flex items-center gap-3 mb-6">
+          <div class="w-1 h-6 rounded-full" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-300));"></div>
+          <h2 class="text-sm font-semibold uppercase tracking-wider" style="color: var(--text-muted);">Mehr Dating-Tipps</h2>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+          {relatedPosts.slice(0, 3).map(rp => (
+            <BlogCard
+              title={rp.data.title}
+              description={rp.data.description}
+              date={rp.data.date}
+              tags={rp.data.tags}
+              slug={rp.id}
+              readingTime={getReadingTime(rp.body || '')}
+              image={rp.data.image}
+              imageAlt={rp.data.imageAlt}
+            />
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- City Navigation -->
+    <nav class="mt-12 pt-8" style="border-top: 1px solid var(--border);">
+      <h3 class="text-xs font-bold uppercase tracking-wider mb-4" style="color: var(--text-muted);">Dating in anderen Städten</h3>
+      <div class="flex flex-wrap gap-2">
+        {cities.filter(c => c.slug !== city.slug).map(c => (
+          <a href={`/dating-in/${c.slug}`} class="text-xs font-medium px-3 py-1.5 rounded-full transition-all hover:-translate-y-0.5" style="background: var(--bg-soft); color: var(--text-muted); border: 1px solid var(--border);">
+            {c.name}
+          </a>
+        ))}
+      </div>
+    </nav>
+  </div>
+</BaseLayout>

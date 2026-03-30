@@ -1,6 +1,7 @@
 ---
 title: "Partner kritisiert mich ständig: Wie reagiere ich richtig?"
 description: "Ständige Kritik vom Partner ertragen und reagieren. Lerne, deine Grenzen zu setzen und dein Selbstwertgefühl zu schützen."
+date: 2025-12-15
 image: "/images/photos/partner-kritisiert-mich-staendig.webp"
 imageAlt: "Partnerkritik und wie man damit umgeht"
 tags:
@@ -21,7 +22,7 @@ faq:
   - question: "Warum kritisiert mein Partner mich so viel?"
     answer: "Es kann viele Gründe geben: Er hat hohe Ansprüche, wurde selbst kritisiert, verarbeitet Groll, oder es ist ein Kontrollmechanismus. Manchmal ist es einfach ein Persönlichkeitsmerkmal. Aber die Auswirkung ist auf dich – nicht sein Grund."
   - question: "Wenn ich mich verteitige, wird es nur schlimmer – stimmt das?"
-    answer: "Teilweise. Aggressive Verteidigung eskaliert. Aber ruhige, klare Grenzen setzen ist wichtig. Der Unterschied ist:"
+    answer: "Teilweise. Aggressive Verteidigung eskaliert. Aber ruhige, klare Grenzen setzen ist wichtig. Der Unterschied ist: 'Das tut mir weh und muss stoppt' statt 'Du machst das nicht!'"
   - question: "Wie viel Kritik ist zu viel?"
     answer: "Wenn es tägliche ist, wenn du dich ständig für deine Existenz rechtfertigst, wenn dein Selbstwertgefühl leidet – das ist zu viel. Ein gesunder Partner kritisiert konstruktiv, nicht permanent."
   - question: "Was, wenn mein Partner meine Grenzen ignoriert?"

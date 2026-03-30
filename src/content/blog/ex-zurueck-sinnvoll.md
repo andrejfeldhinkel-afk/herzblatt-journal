@@ -1,6 +1,7 @@
 ---
 title: "Ex zurückgewinnen – Wann es sich lohnt und wann"
 description: "Ex zurückgewinnen: Den Ex zurück wollen ist völlig normal — aber wann ist eine Rückkehr sinnvoll und wann schadet es dir?"
+date: 2025-09-30
 tags:
   - "Liebeskummer"
   - "Ratgeber"

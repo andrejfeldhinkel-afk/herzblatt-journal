@@ -1,7 +1,7 @@
 ---
 title: "Silent Treatment: Wenn Schweigen zur Waffe wird"
 description: "Silent Treatment in Beziehungen: Erkenne emotionalen Missbrauch durch Schweigen. Verstehe die Ursachen und lerne gesunde Reaktionen darauf."
-date: "2025-11-06"
+date: 2025-11-06
 image: "/images/photos/silent-treatment-beziehung.webp"
 tags:
   - "Emotionaler Missbrauch"

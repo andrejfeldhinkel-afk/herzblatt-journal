@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 50">
+  <style>
+    .brand { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 700; font-size: 34px; fill: #a81d4a; }
+    .heart { fill: #e8365d; }
+  </style>
+  <text class="brand" x="10" y="37">i-l</text>
+  <path class="heart" d="M82,14 C82,8 87,4 92,4 C97,4 101,8 101,14 C101,8 105,4 110,4 C115,4 119,8 119,14 C119,24 101,36 101,36 C101,36 82,24 82,14 Z" transform="translate(-5,-2) scale(0.8)"/>
+  <text class="brand" x="100" y="37">ves</text>
+</svg>

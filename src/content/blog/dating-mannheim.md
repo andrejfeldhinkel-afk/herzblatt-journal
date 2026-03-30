@@ -1,6 +1,7 @@
 ---
 title: "Dating in Mannheim: Die besten Orte & Tipps für Singles"
 description: "Mannheim Dating-Guide: Jungbusch, Quadrate, Neckarstadt & mehr. Entdecke die beste Single-Szene und Top-Locations für dein Date!"
+date: 2025-06-21
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

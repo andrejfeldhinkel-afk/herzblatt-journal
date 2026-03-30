@@ -1,6 +1,7 @@
 ---
 title: "Partner redet nicht über Gefühle: So erreichst du ihn"
 description: "Dein Partner redet nicht über Gefühle? Verstehe warum manche Menschen emotional verschlossen sind und lerne Strategien die wirklich funktionieren."
+date: 2025-12-15
 tags:
   - "Beziehung"
   - "Kommunikation"

@@ -1,7 +1,7 @@
 ---
 title: "Dating in Nürnberg: Franken-Romantik"
 description: "Dating in Nürnberg: Franken-Romantik zwischen Kaiserburg, Altstadt und Tradition. Die besten Spots für perfekte Dates in der fränkischen Schlossstadt."
-date: "2025-06-29"
+date: 2025-06-29
 image: "/images/photos/dating-nuernberg.webp"
 tags:
   - "dating"

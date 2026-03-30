@@ -1,6 +1,7 @@
 ---
 title: "Dating wenn du schüchtern bist: Praktische Strategien die"
 description: "Schüchtern und trotzdem daten? Entdecke praktische Strategien die dir helfen, ohne dich verstellen zu müssen — von der ersten Nachricht bis zum Date."
+date: 2025-08-17
 image: "/images/photos/dating-wenn-man-schuechtern-ist.webp"
 imageAlt: "Schüchterner Mensch bei sozialer Begegnung"
 tags:

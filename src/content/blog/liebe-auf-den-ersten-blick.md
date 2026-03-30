@@ -1,6 +1,7 @@
 ---
 title: "Liebe auf den ersten Blick: Mythos oder Realität"
 description: "Liebe auf den ersten Blick: Wissenschaftliche Perspektive auf echte Liebe. Entdecke, wie echte Liebe tatsächlich beginnt!"
+date: 2025-11-18
 tags:
   - "Liebe"
   - "Psychologie"
@@ -15,7 +16,7 @@ faq:
   - question: "Was ist der Unterschied zwischen Liebe auf den ersten Blick und Anziehung?"
     answer: "Anziehung ist momentan und basiert auf Aussehen und Energie. Liebe erfordert Zeit, Vertrauen und echtes Kennenlernen. Wenn es sich beim ersten Treffen wie Liebe anfühlt, ist es wahrscheinlich Lust oder intensive Anziehung."
   - question: "Gibt es echte Fälle von Liebe auf den ersten Blick?"
-    answer: "Es gibt Geschichten von Menschen, die sich sofort sicher waren, dass dieser Person wichtig ist. Aber meist bedeutete das"
+    answer: "Es gibt Geschichten von Menschen, die sich sofort sicher waren, dass dieser Person wichtig ist. Aber meist bedeutete das 'Ich muss diese Person kennenlernen', nicht 'Ich bin in sie verliebt'. Die echte Liebe kam später, nach dem Kennenlernen."
 ---
 Hollywood hat uns belogen. In jedem Film gibt es diesen Moment: Die Augen treffen sich über eine belebte Straße. Die Welt verlangsamt sich. Musik spielt. Und BAM – sie sind unsterblich verliebt.
 

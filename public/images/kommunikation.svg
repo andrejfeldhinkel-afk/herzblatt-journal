@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500">
+  <defs>
+    <linearGradient id="bg19" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#66BB6A"/>
+      <stop offset="100%" style="stop-color:#26A69A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="500" fill="url(#bg19)"/>
+  <circle cx="200" cy="110" r="130" fill="white" opacity="0.08"/>
+  <circle cx="1000" cy="390" r="195" fill="white" opacity="0.06"/>
+  <circle cx="600" cy="250" r="78" fill="white" opacity="0.1"/>
+  
+  <!-- Speech bubble 1 (left) -->
+  <rect x="350" y="180" width="160" height="110" rx="18" fill="white" opacity="0.85"/>
+  <path d="M 350 270 L 330 300 L 370 270 Z" fill="white" opacity="0.85"/>
+  
+  <!-- Speech bubble 2 (right) -->
+  <rect x="690" y="210" width="160" height="110" rx="18" fill="white" opacity="0.85"/>
+  <path d="M 850 270 L 870 300 L 830 270 Z" fill="white" opacity="0.85"/>
+  
+  <!-- Connection dots -->
+  <circle cx="530" cy="235" r="6" fill="#26A69A"/>
+  <circle cx="560" cy="235" r="6" fill="#26A69A"/>
+  <circle cx="590" cy="235" r="6" fill="#26A69A"/>
+  <circle cx="620" cy="235" r="6" fill="#26A69A"/>
+  <circle cx="650" cy="235" r="6" fill="#26A69A"/>
+  <circle cx="680" cy="235" r="6" fill="#26A69A"/>
+  
+  <!-- Arrows showing flow -->
+  <path d="M 540 240 Q 600 220 680 240" fill="none" stroke="#FF1493" stroke-width="2" stroke-dasharray="5,5" opacity="0.6"/>
+  <polygon points="680,240 685,235 675,245" fill="#FF1493" opacity="0.6"/>
+  
+  <path d="M 680 260 Q 600 280 540 260" fill="none" stroke="#FF1493" stroke-width="2" stroke-dasharray="5,5" opacity="0.6"/>
+  <polygon points="540,260 535,265 545,255" fill="#FF1493" opacity="0.6"/>
+  
+  <!-- Wave lines in bubbles -->
+  <line x1="365" y1="200" x2="500" y2="200" stroke="#26A69A" stroke-width="2" opacity="0.4"/>
+  <line x1="365" y1="215" x2="480" y2="215" stroke="#26A69A" stroke-width="2" opacity="0.4"/>
+  <line x1="365" y1="230" x2="460" y2="230" stroke="#26A69A" stroke-width="2" opacity="0.4"/>
+  
+  <line x1="705" y1="230" x2="840" y2="230" stroke="#26A69A" stroke-width="2" opacity="0.4"/>
+  <line x1="705" y1="245" x2="820" y2="245" stroke="#26A69A" stroke-width="2" opacity="0.4"/>
+  <line x1="705" y1="260" x2="800" y2="260" stroke="#26A69A" stroke-width="2" opacity="0.4"/>
+  
+  <!-- Decorative shapes -->
+  <rect x="280" y="140" width="60" height="60" rx="10" fill="white" opacity="0.1"/>
+  <circle cx="900" cy="330" r="50" fill="white" opacity="0.12"/>
+  
+  <!-- Pattern dots -->
+  <circle cx="100" cy="450" r="3" fill="white" opacity="0.2"/>
+  <circle cx="300" cy="50" r="2" fill="white" opacity="0.15"/>
+  <circle cx="900" cy="100" r="4" fill="white" opacity="0.15"/>
+  <circle cx="1100" cy="350" r="3" fill="white" opacity="0.2"/>
+</svg>

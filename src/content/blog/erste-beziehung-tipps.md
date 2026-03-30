@@ -1,6 +1,7 @@
 ---
 title: "Erste Beziehung – Was du wissen musst typische"
 description: "Erste Beziehung Tipps: Was du wissen musst, welche typischen Fehler du vermeidest und wie du einen guten Start hinlegst."
+date: 2025-09-17
 tags:
   - "Beziehung"
   - "Ratgeber"

@@ -1,6 +1,7 @@
 ---
 title: "Konflikte in Beziehungen konstruktiv lösen"
 description: "Konflikte lösen: Lerne konstruktive Strategien mit deinem Partner zu kommunizieren und Konflikte zu lösen, ohne Beziehung zu beschädigen!"
+date: 2025-11-10
 tags:
   - "Beziehung"
   - "Kommunikation"
@@ -16,9 +17,9 @@ faq:
   - question: "Ist es normal, viel mit deinem Partner zu argumentieren?"
     answer: "Ja, es ist normal, Konflikte zu haben. Das Thema ist nicht ob ihr Konflikte habt, sondern wie ihr damit umgeht. Paare, die konstruktiv argumentieren und sich verständigen können, haben stärkere Beziehungen als Paare, die nie argumentieren (oft weil einer die Konfrontation vermeidet)."
   - question: "Was ist die beste Zeit, einen Konflikt zu adressieren?"
-    answer: "Nicht wenn ihr beide angespannt seid. Wenn ihr mitten im Argument seid, könntet ihr sagen"
+    answer: "Nicht wenn ihr beide angespannt seid. Wenn ihr mitten im Argument seid, könntet ihr sagen \"Ich brauch eine Pause, lass uns später darüber sprechen.\" Wenn ihr ausgeruht und ruhig seid, werdet ihr besser kommunizieren. Aber vermeidet nicht das Problem – sprecht später darüber."
   - question: "Wie vermeidet man, persönlich zu werden im Streit?"
-    answer: "Nutze"
+    answer: "Nutze \"Ich\" Aussagen anstatt \"Du\" Aussagen. Sagen \"Ich fühle mich verletzt\" statt \"Du hast mich verletzt.\" Fokussiere auf das Verhalten, nicht auf die Persönlichkeit. Und atme – wenn du merkst, dass du böse wirst, atme und beruhige dich."
 ---
 Konflikte sind ein normaler Teil jeder [beziehung](/blog/adhs-und-beziehung-komplett-guide/). Es ist nicht, ob ihr Konflikte habt, sondern wie ihr damit umgeht, das bestimmt, ob eure Beziehung wächst oder zerbricht.
 

@@ -1,6 +1,7 @@
 ---
 title: "Beziehung nach Elternschaft: Wie ihr als Paar wieder"
 description: "Beziehung nach Elternschaft stärken: Praktische Strategien wie ihr trotz Baby, Schlafmangel und neuen Rollen wieder als Liebespaar zueinander findet."
+date: 2025-02-11
 tags:
   - "Beziehung"
   - "Ratgeber"

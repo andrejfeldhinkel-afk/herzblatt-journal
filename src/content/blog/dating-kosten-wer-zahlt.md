@@ -1,6 +1,7 @@
 ---
 title: "Wer zahlt beim Date? Die moderne Antwort auf eine alte Frage"
 description: "Wer zahlt beim Date? Die moderne Antwort. Ein fairer Blick auf Dating-Etikette, Tradition und zeitgemäße Lösungen beim Bezahlen."
+date: 2025-06-16
 tags:
   - "Dating-Tipps"
   - "Etikette"

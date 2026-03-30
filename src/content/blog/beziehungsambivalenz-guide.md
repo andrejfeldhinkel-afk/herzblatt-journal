@@ -1,6 +1,7 @@
 ---
 title: "Beziehungsambivalenz — Bleiben oder Gehen? Die ewige Frage"
 description: "Wenn du nicht weißt, ob du bleiben oder gehen sollst: Ein umfassender Leitfaden zur Beziehungsambivalenz."
+date: 2025-03-26
 author: "sarah-kellner"
 image: "/images/blog/beziehungsambivalenz-guide.webp"
 categories:
@@ -24,9 +25,9 @@ faq:
   - question: "Kann die Ambivalenz je vorbei gehen oder bin ich für immer unsicher?"
     answer: "Die Ambivalenz kann sich lösen, aber es erfordert arbeit. Du musst die zugrunde liegenden Angste erkunden, du musst klarer kommunizieren, du musst möglicherweise professionelle Hilfe in Anspruch nehmen. Wenn du nur abwartst und nichts tust, wird die Ambivalenz wahrscheinlich bleiben oder schlimmer werden."
   - question: "Mein Partner weiß nicht, dass ich ambivalent bin. Sollte ich es ihnen sagen?"
-    answer: "Das hängt ab. Wenn deine Ambivalenz tief gelebt ist und du über eine Trennung denkst, dann ja, dein Partner verdient es zu wissen. Aber teile es weise – sage nicht,"
+    answer: "Das hängt ab. Wenn deine Ambivalenz tief gelebt ist und du über eine Trennung denkst, dann ja, dein Partner verdient es zu wissen. Aber teile es weise – sage nicht, 'Ich bin nicht sicher, ob ich dich liebe,' ohne zu erklären, was das bedeutet und was nächste Schritte sind."
   - question: "Wie unterscheidet sich normale Beziehungszweifel von Ambivalenz?"
-    answer: "Normaler Zweifel ist selten –"
+    answer: "Normaler Zweifel ist selten – 'Diese Woche war ich offline. Ich vermisse dich. Aber ich weiß, dass ich dich liebe.' Ambivalenz ist anhaltend – 'Ich liebe dich, aber vielleicht gar nicht. Ich will bleiben, aber ich weiß nicht. Das hatte Monate gedauert.' Wenn es Jahre dauert und du nicht vorankommst, ist das Ambivalenz."
 ---
 ## Was ist Beziehungsambivalenz und warum ist sie so verwirrend
 

@@ -1,6 +1,7 @@
 ---
 title: "Trennen oder bleiben? Der ehrliche Guide zur schwersten"
 description: "Trennen oder bleiben? Dieser ehrliche Guide hilft dir, Klarheit zu finden — mit konkreten Fragen, psychologischen Erkenntnissen und einem Entscheidungs-Framework."
+date: 2025-12-15
 image: "/images/photos/trennen-oder-bleiben-guide.webp"
 tags:
   - "Beziehung"

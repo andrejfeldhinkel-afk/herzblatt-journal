@@ -1,6 +1,7 @@
 ---
 title: "Wieder daten nach einer toxischen Beziehung"
 description: "Dating nach toxischen Beziehungen: Wie du wieder bereit wirst. Erkenne Red Flags, setze gesunde Grenzen und mache dich bereit für eine erfüllende Liebe."
+date: 2025-07-22
 tags:
   - "Beziehung"
   - "Ratgeber"

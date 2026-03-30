@@ -1,7 +1,7 @@
 ---
 title: "Unsicheren Bindungsstil heilen: Schritt für Schritt"
 description: "Bindungsstil heilen: Wie du unsichere Bindungsmuster erkennst und Schritt für Schritt zu sicherer Bindung in Beziehungen wirst."
-date: "2025-01-25"
+date: 2025-01-25
 image: "/images/photos/attachment-healing-guide.webp"
 tags:
   - "Bindungstheorie"

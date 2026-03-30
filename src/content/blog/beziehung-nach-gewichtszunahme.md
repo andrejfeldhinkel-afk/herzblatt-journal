@@ -1,6 +1,7 @@
 ---
 title: "Beziehung und Gewichtszunahme: Ein heikles Thema ehrlich"
 description: "Gewichtszunahme in der Beziehung belastet viele Paare. Erfahre wie du ehrlich darüber redest ohne zu verletzen und was wirklich dahinter steckt."
+date: 2025-02-16
 tags:
   - "Beziehung"
   - "Gesundheit"
@@ -15,7 +16,7 @@ draft: false
 author: "laura-weber"
 faq:
   - question: "Darf ich ansprechen dass mein Partner zugenommen hat?"
-    answer: "Du darfst Sorge um die Gesundheit äußern, aber nicht das Aussehen kritisieren. Es gibt einen großen Unterschied zwischen"
+    answer: "Du darfst Sorge um die Gesundheit äußern, aber nicht das Aussehen kritisieren. Es gibt einen großen Unterschied zwischen 'Ich sorge mich um deine Gesundheit' und 'Du bist dick geworden.'"
   - question: "Ist es oberflächlich sich an Gewichtszunahme zu stören?"
     answer: "Nein. Körperliche Anziehung gehört zu einer Beziehung. Aber es lohnt sich zu hinterfragen, ob es wirklich ums Gewicht geht oder um tiefere Themen wie Fürsorge und Selbstrespekt."
   - question: "Was wenn ich selbst zugenommen habe und mein Partner es anspricht?"

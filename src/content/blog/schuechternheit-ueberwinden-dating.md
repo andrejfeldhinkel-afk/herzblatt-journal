@@ -1,6 +1,7 @@
 ---
 title: "Schüchternheit überwinden beim Dating: Der komplette Guide"
 description: "Schüchternheit beim Dating überwinden: Praktische Tipps, Übungen und Strategien zum erfolgreichen Daten als schüchterne Person!"
+date: 2025-12-15
 tags:
   - "Dating-Tipps"
   - "Selbstbewusstsein"

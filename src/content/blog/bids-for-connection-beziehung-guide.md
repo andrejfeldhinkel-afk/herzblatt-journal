@@ -1,6 +1,7 @@
 ---
 title: "Bids for Connection — Gottmans Konzept der"
 description: "Entdecke, wie kleine Momente der Verbindung Beziehungen transformieren. Ein tiefgreifender Guide zu Gottmans Zuwendungsversuchen und ihrer Kraft."
+date: 2025-04-03
 author: "sarah-kellner"
 draft: false
 tags:

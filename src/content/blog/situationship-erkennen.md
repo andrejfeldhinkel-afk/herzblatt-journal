@@ -1,6 +1,7 @@
 ---
 title: "Situationship erkennen: 12 klare Zeichen"
 description: "Situationship erkennen: Lerne die 12 Zeichen, warum sie entstehen und wie du entscheidest, ob du bleibst. Ein praktischer Ratgeber!"
+date: 2025-12-15
 tags:
   - "Beziehungen"
   - "Psychologie"

@@ -1,6 +1,7 @@
 ---
 title: "Die Kraft der Berührung: Warum körperliche Nähe heilt"
 description: "Berührungen sind mehr als angenehm – sie heilen psychische Wunden und stärken Beziehungen. Entdecke die wissenschaftlichen Hintergründe und praktische Anwendungen."
+date: 2025-01-25
 image: "/images/photos/beruehrungen-beziehung-bedeutung.webp"
 imageAlt: "Händchenhalten als heilende Berührung"
 tags:
@@ -20,9 +21,9 @@ faq:
   - question: "Warum helfen Umarmungen gegen Angst und Stress?"
     answer: "Berührungen aktivieren den Parasympathikus – das Entspannungssystem des Körpers. Das Hormon Oxytocin wird ausgeschüttet, Cortisol sinkt. Eine 20-sekündige Umarmung kann den Blutdruck senken und das Nervensystem beruhigen."
   - question: "Kann man ‚Berührungshunger' haben?"
-    answer: "Absolut. Menschen, die wenig berührt werden, entwickeln Stress, Depressionen und sogar körperliche Schmerzen. Das nennt sich ‚Skin Hunger"
+    answer: "Absolut. Menschen, die wenig berührt werden, entwickeln Stress, Depressionen und sogar körperliche Schmerzen. Das nennt sich ‚Skin Hunger' und ist eine echte psychologische Reaktion auf Mangel an physischen Kontakt."
   - question: "Sind Massagen ein Ersatz für emotionale Nähe?"
-    answer: "Massagen sind wunderbar für den Körper, aber nicht als Ersatz für echte emotionale Verbindung. Sie funktionieren am besten, wenn sie Teil einer liebevollen Beziehung sind, nicht als ‚Pflichtaufgabe"
+    answer: "Massagen sind wunderbar für den Körper, aber nicht als Ersatz für echte emotionale Verbindung. Sie funktionieren am besten, wenn sie Teil einer liebevollen Beziehung sind, nicht als ‚Pflichtaufgabe'."
   - question: "Wie viel körperliche Nähe braucht man wirklich?"
     answer: "Es gibt da keine feste Regel. Manche Menschen brauchen täglich viel Kontakt, andere weniger. Aber grundsätzlich: Regelmäßige Berührungen (mindestens täglich) sind wichtig für psychisches Wohlbefinden."
   - question: "Was mache ich, wenn ich Berührungen eher abstoßend finde?"

@@ -1,6 +1,7 @@
 ---
 title: "Ghosting: Warum es passiert und wie du damit umgehst"
 description: "Ghosting umgehen und verarbeiten: Warum Menschen ghosten und wie du verletzungslos über plötzliches Schweigen hinwegkommst und dich selbst schützt."
+date: 2025-10-22
 tags:
   - "Beziehungen"
   - "Online-Dating"
