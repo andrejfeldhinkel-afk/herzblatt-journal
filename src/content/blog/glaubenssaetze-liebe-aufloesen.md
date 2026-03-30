@@ -1,6 +1,6 @@
 ---
 title: "Negative Glaubenssätze über Liebe auflösen"
-description: "Glaubenssätze Liebe auflösen: Erkenne unbewusste Überzeugungen und transformiere sie. Von "nicht liebenswert" zu echter Selbstliebe."
+description: 'Glaubenssätze Liebe auflösen: Erkenne unbewusste Überzeugungen und transformiere sie. Von "nicht liebenswert" zu echter Selbstliebe.'
 date: "2025-08-24"
 image: "/images/photos/glaubenssaetze-liebe-aufloesen.webp"
 tags:

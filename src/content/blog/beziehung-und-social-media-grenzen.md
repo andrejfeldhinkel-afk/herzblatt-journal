@@ -1,7 +1,20 @@
 ---
+title: "Social Media Grenzen in der Beziehung: Was ist okay, was nicht?"
+description: "Wie setzt man gesunde Social-Media-Grenzen in der Beziehung? Tipps zu Likes, Fotos posten, Ex-Kontakte und Online-Eifersucht."
+tags:
+  - "Beziehungstipps"
+  - "Ratgeber"
+  - "Social Media"
+keywords:
+  - "social media beziehung"
+  - "grenzen social media"
+  - "beziehung und instagram"
+draft: false
+image: "/images/photos/beziehung-und-social-media-grenzen.webp"
+imageAlt: "Paar am Handy mit Social Media"
 ---
 
-## Social Media Grenzen in der beziehung: Was ist okay, was nicht?
+## Social Media Grenzen in der Beziehung: Was ist okay, was nicht?
 
 Social Media hat unsere Beziehungen verändert. Nicht nur, wie wir sie führen – sondern auch, wie wir sie zeigen. Plötzlich gibt es diesen zusätzlichen Kanal: Instagram, TikTok, Facebook. Und mit ihm tauchen Fragen auf, die unsere Eltern nie hatten.
 

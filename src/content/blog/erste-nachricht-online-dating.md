@@ -1,6 +1,6 @@
 ---
 title: "Die perfekte erste Nachricht beim Online-Dating: 15"
-description: "Nie wieder "Hey, wie geht's?" – Schreibe erste Nachrichten, die Antworten bekommen. Mit erprobten Mustern und Tipps!"
+description: "Nie wieder \"Hey, wie geht's?\" – Schreibe erste Nachrichten, die Antworten bekommen. Mit erprobten Mustern und Tipps!"
 tags:
   - "Online-Dating"
   - "Dating-Tipps"
