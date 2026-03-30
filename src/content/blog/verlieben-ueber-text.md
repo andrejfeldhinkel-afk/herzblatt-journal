@@ -15,9 +15,12 @@ keywords:
 draft: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Kann man sich wirklich über Texte verlieben?', 'answer': 'Ja und nein. Du kannst eine starke emotionale Verbindung aufbauen, aber wahre Verliebtheit braucht auch physische Präsenz — Körpersprache, Stimme, Geruch spielen eine große Rolle.'}"
-  - "{'question': 'Warum fühlt sich Texten manchmal intensiver an als echte Dates?', 'answer': 'Weil du beim Texten eine idealisierte Version des anderen erschaffst. Dein Gehirn füllt Lücken mit Wunschvorstellungen — das erzeugt eine Intensität die der Realität oft nicht standhält.'}"
-  - "{'question': 'Wann sollte man vom Chatten zum Treffen wechseln?', 'answer': 'Spätestens nach 1-2 Wochen. Je länger ihr nur textet, desto größer wird die Fantasie-Version und desto härter kann die Realität treffen.'}"
+  - question: "Kann man sich wirklich über Texte verlieben?"
+    answer: "Ja und nein. Du kannst eine starke emotionale Verbindung aufbauen, aber wahre Verliebtheit braucht auch physische Präsenz — Körpersprache, Stimme, Geruch spielen eine große Rolle."
+  - question: "Warum fühlt sich Texten manchmal intensiver an als echte Dates?"
+    answer: "Weil du beim Texten eine idealisierte Version des anderen erschaffst. Dein Gehirn füllt Lücken mit Wunschvorstellungen — das erzeugt eine Intensität die der Realität oft nicht standhält."
+  - question: "Wann sollte man vom Chatten zum Treffen wechseln?"
+    answer: "Spätestens nach 1-2 Wochen. Je länger ihr nur textet, desto größer wird die Fantasie-Version und desto härter kann die Realität treffen."
 ---
 
 Es ist 2 Uhr nachts. Du liest eine Nachricht und musst lächeln. Nicht grinsen. Lächeln. Das echte. Die Person schreibt gerade etwas, das dich zum Nachdenken bringt. Und plötzlich merkst du: "Okay, das ist nicht nur interessant. Das ist... anders."

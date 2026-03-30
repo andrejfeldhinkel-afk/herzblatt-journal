@@ -16,11 +16,16 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Ist Sex immer oberflächlich?', 'answer': "Nein, aber es *kann* oberflächlich sein. Sex ist neutral – es kommt auf die Absicht und Präsenz an. Du kannst Sex mit tiefer Präsenz haben, oder ‚Liebe machen' mit emotionaler Abwesenheit. Der Unterschied ist die innere Haltung, nicht die Bewegung."}"
-  - "{'question': 'Können Single-Personen Liebe machen?', 'answer': "Ja, mit sich selbst. Aber typischerweise meinen wir mit ‚Liebe machen' etwas mit einem anderen Menschen. Mit sich selbst ist es eher bewusstvolle Selbst-Erotik oder Meditation."}"
-  - "{'question': "Ist ‚Liebe machen' gleichbedeutend mit langfristigen Beziehungen?", 'answer': 'Nicht unbedingt. Du kannst mit einem neuen Partner leidenschaftlich Liebe machen. Oder nach 20 Jahren noch mechanisch Sex haben. Es geht um Präsenz und emotionale Verfügbarkeit, nicht um Dauer der Beziehung.'}"
-  - "{'question': 'Kann man während Sex wechseln zwischen Sex haben und Liebe machen?', 'answer': 'Absolut – und das ist oft das Beste. Manchmal ist es lustorientiert und schnell, manchmal ist es langsam und tief. Diese Variation ist gesund und erfüllend.'}"
-  - "{'question': 'Warum ist Liebe machen psychologisch wichtiger?', 'answer': 'Weil es Bindung, emotionale Sicherheit und tiefe Nähe schafft. Sex kann hedonistisch erfüllend sein – Liebe machen erfüllt auch emotional und spirituell. Beides ist wertvoll, aber auf unterschiedliche Weise.'}"
+  - question: "Ist Sex immer oberflächlich?"
+    answer: "Nein, aber es *kann* oberflächlich sein. Sex ist neutral – es kommt auf die Absicht und Präsenz an. Du kannst Sex mit tiefer Präsenz haben, oder ‚Liebe machen"
+  - question: "Können Single-Personen Liebe machen?"
+    answer: "Ja, mit sich selbst. Aber typischerweise meinen wir mit ‚Liebe machen"
+  - question: "Ist ‚Liebe machen' gleichbedeutend mit langfristigen Beziehungen?"
+    answer: "Nicht unbedingt. Du kannst mit einem neuen Partner leidenschaftlich Liebe machen. Oder nach 20 Jahren noch mechanisch Sex haben. Es geht um Präsenz und emotionale Verfügbarkeit, nicht um Dauer der Beziehung."
+  - question: "Kann man während Sex wechseln zwischen Sex haben und Liebe machen?"
+    answer: "Absolut – und das ist oft das Beste. Manchmal ist es lustorientiert und schnell, manchmal ist es langsam und tief. Diese Variation ist gesund und erfüllend."
+  - question: "Warum ist Liebe machen psychologisch wichtiger?"
+    answer: "Weil es Bindung, emotionale Sicherheit und tiefe Nähe schafft. Sex kann hedonistisch erfüllend sein – Liebe machen erfüllt auch emotional und spirituell. Beides ist wertvoll, aber auf unterschiedliche Weise."
 ---
 
 Stellt euch zwei Szenarien vor:

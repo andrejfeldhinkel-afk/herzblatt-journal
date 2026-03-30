@@ -15,11 +15,16 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - "{'question': 'Was ist Breadcrumbing und wie unterscheidet es sich von echtem Dating?', 'answer': 'Breadcrumbing ist, wenn jemand dir gelegentlich Nachrichten schreibt, um dich interessiert zu halten, ohne echte Absicht, sich mit dir zu treffen oder eine Beziehung aufzubauen. Es ist eine Form emotionaler Manipulation.'}"
-  - "{'question': 'Wie lange sollte ich warten, bevor ich erkenne, dass ich breadcrumbed werde?', 'answer': 'Wenn nach zwei Wochen kein echtes Treffen geplant ist, obwohl das Interesse ausgedrückt wurde, ist das ein Warnsignal. Nach einem Monat solltest du die Person aussortieren.'}"
-  - "{'question': 'Ist es jemals OK, Breadcrumbing zu akzeptieren?', 'answer': 'Nein, nie. Du verdienst jemanden, der dich als Priorität sieht, nicht als Option.'}"
-  - "{'question': 'Wie antworte ich auf Breadcrumbs ohne unhöflich zu sein?', 'answer': 'Du schuldest dieser Person Höflichkeit, aber nicht deine Zeit. Eine höfliche Blockierung ist völlig berechtigt. Du kannst auch einfach nicht antworten - das ist nicht unhöflich gegenüber jemandem, der unhöflich zu dir war.'}"
-  - "{'question': 'Kann ich jemanden heilen, der breadcrumbt?', 'answer': 'Nein. Das ist nicht dein Job. Eine Person muss selbst erkennen, dass dieses Verhalten falsch ist und es ändern wollen. Das ist nicht deine Aufgabe.'}"
+  - question: "Was ist Breadcrumbing und wie unterscheidet es sich von echtem Dating?"
+    answer: "Breadcrumbing ist, wenn jemand dir gelegentlich Nachrichten schreibt, um dich interessiert zu halten, ohne echte Absicht, sich mit dir zu treffen oder eine Beziehung aufzubauen. Es ist eine Form emotionaler Manipulation."
+  - question: "Wie lange sollte ich warten, bevor ich erkenne, dass ich breadcrumbed werde?"
+    answer: "Wenn nach zwei Wochen kein echtes Treffen geplant ist, obwohl das Interesse ausgedrückt wurde, ist das ein Warnsignal. Nach einem Monat solltest du die Person aussortieren."
+  - question: "Ist es jemals OK, Breadcrumbing zu akzeptieren?"
+    answer: "Nein, nie. Du verdienst jemanden, der dich als Priorität sieht, nicht als Option."
+  - question: "Wie antworte ich auf Breadcrumbs ohne unhöflich zu sein?"
+    answer: "Du schuldest dieser Person Höflichkeit, aber nicht deine Zeit. Eine höfliche Blockierung ist völlig berechtigt. Du kannst auch einfach nicht antworten - das ist nicht unhöflich gegenüber jemandem, der unhöflich zu dir war."
+  - question: "Kann ich jemanden heilen, der breadcrumbt?"
+    answer: "Nein. Das ist nicht dein Job. Eine Person muss selbst erkennen, dass dieses Verhalten falsch ist und es ändern wollen. Das ist nicht deine Aufgabe."
 ---
 
 Breadcrumbing erkennen: Wenn dein Date dich nur warmhält

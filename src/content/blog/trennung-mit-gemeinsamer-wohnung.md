@@ -16,11 +16,16 @@ draft: false
 featured: false
 author: "laura-weber"
 faq:
-  - "{'question': 'Wie lange kann man nach einer Trennung in der gleichen Wohnung leben?', 'answer': 'Das ist unterschiedlich. Ideal sind 2-6 Wochen. Danach sollte einer von euch gehen. Länger zusammen zu bleiben, verlängert den Heilungsprozess und führt zu neuen Konflikten.'}"
-  - "{'question': 'Wie können wir die Wohnung aufteilen, ohne ständig aufeinanderzutreffen?', 'answer': 'Schafft separate Bereiche. Ein Schlafzimmer pro Person, feste Zeiten für Bad und Küche. Macht einen Plan: Wer nutzt wann welche Räume? Das reduziert Konflikte um 80 Prozent.'}"
-  - "{'question': 'Darf mein Ex die Wohnung mit einer neuen Partnerin teilen, während ich noch da bin?', 'answer': 'Das ist emotional brutal. Rechtlich ist es erlaubt, wenn die Wohnung beiden gehört. Aber moralisch: Kommuniziert darüber. Das Übergangsarrangement braucht gegenseitigen Respekt.'}"
-  - "{'question': 'Was tue ich, wenn ich emotional nicht bereit bin, die Wohnung zu sehen, wo wir zusammen waren?', 'answer': 'Das ist völlig verständlich. Versuch, die Wohnung zu neuer Normalität umzugestalten. Ändere Möbelplatzierung, Deko, Farben. Die Wohnung muss sich wie ein neuer Raum anfühlen.'}"
-  - "{'question': 'Kann ich rechtlich erzwingen, dass mein Ex die Wohnung verlässt?', 'answer': 'Das hängt vom Mietvertrag ab. Wenn nur einer auf dem Vertrag steht, könnte er Probleme bereiten. Konsultiere einen Anwalt. Bei gemeinsamer Miete ist es kompliziert und braucht rechtliche Beratung.'}"
+  - question: "Wie lange kann man nach einer Trennung in der gleichen Wohnung leben?"
+    answer: "Das ist unterschiedlich. Ideal sind 2-6 Wochen. Danach sollte einer von euch gehen. Länger zusammen zu bleiben, verlängert den Heilungsprozess und führt zu neuen Konflikten."
+  - question: "Wie können wir die Wohnung aufteilen, ohne ständig aufeinanderzutreffen?"
+    answer: "Schafft separate Bereiche. Ein Schlafzimmer pro Person, feste Zeiten für Bad und Küche. Macht einen Plan: Wer nutzt wann welche Räume? Das reduziert Konflikte um 80 Prozent."
+  - question: "Darf mein Ex die Wohnung mit einer neuen Partnerin teilen, während ich noch da bin?"
+    answer: "Das ist emotional brutal. Rechtlich ist es erlaubt, wenn die Wohnung beiden gehört. Aber moralisch: Kommuniziert darüber. Das Übergangsarrangement braucht gegenseitigen Respekt."
+  - question: "Was tue ich, wenn ich emotional nicht bereit bin, die Wohnung zu sehen, wo wir zusammen waren?"
+    answer: "Das ist völlig verständlich. Versuch, die Wohnung zu neuer Normalität umzugestalten. Ändere Möbelplatzierung, Deko, Farben. Die Wohnung muss sich wie ein neuer Raum anfühlen."
+  - question: "Kann ich rechtlich erzwingen, dass mein Ex die Wohnung verlässt?"
+    answer: "Das hängt vom Mietvertrag ab. Wenn nur einer auf dem Vertrag steht, könnte er Probleme bereiten. Konsultiere einen Anwalt. Bei gemeinsamer Miete ist es kompliziert und braucht rechtliche Beratung."
 ---
 ## Die verflixte Situation: Trennung unter einem Dach
 

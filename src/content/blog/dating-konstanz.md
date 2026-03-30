@@ -14,9 +14,12 @@ draft: false
 image: "/images/photos/dating-konstanz.webp"
 imageAlt: "Konstanz"
 faq:
-  - "{'question': 'Wo lernt man in Konstanz Singles kennen?', 'answer': 'In Konstanz triffst du Singles rund um den Bodensee, in der charmanten Altstadt, in Hafenbars und modernen Cafés. Die Nähe zu Schweiz und Österreich macht die Stadt international und offen. Besonders die Hafenmeile und die vielen Seeufer-Restaurants sind Treffpunkte.'}"
-  - "{'question': 'Was sind die besten Date-Ideen in Konstanz?', 'answer': 'Romantische Dates sind beim Spaziergang am Bodenseeufer, in der Altstadt, am Hafen bei Sonnenuntergang, oder bei einem Ausflug zur Insel Mainau. Auch Bootsfahrten, Strandbesuche, Wassersport oder Ausflüge in benachbarte Schweiz/Österreich sind großartig.'}"
-  - "{'question': 'Gibt es eine gute Single-Szene in Konstanz?', 'answer': 'Ja! Konstanz hat etwa 80.000 Einwohner und eine sehr lebendige, internationale Single-Szene. Die Lage am See, die Nähe zu Alpen und Nachbarländer, und die kosmopolitische Atmosphäre macht Dating hier besonders offen und abenteuerlich.'}"
+  - question: "Wo lernt man in Konstanz Singles kennen?"
+    answer: "In Konstanz triffst du Singles rund um den Bodensee, in der charmanten Altstadt, in Hafenbars und modernen Cafés. Die Nähe zu Schweiz und Österreich macht die Stadt international und offen. Besonders die Hafenmeile und die vielen Seeufer-Restaurants sind Treffpunkte."
+  - question: "Was sind die besten Date-Ideen in Konstanz?"
+    answer: "Romantische Dates sind beim Spaziergang am Bodenseeufer, in der Altstadt, am Hafen bei Sonnenuntergang, oder bei einem Ausflug zur Insel Mainau. Auch Bootsfahrten, Strandbesuche, Wassersport oder Ausflüge in benachbarte Schweiz/Österreich sind großartig."
+  - question: "Gibt es eine gute Single-Szene in Konstanz?"
+    answer: "Ja! Konstanz hat etwa 80.000 Einwohner und eine sehr lebendige, internationale Single-Szene. Die Lage am See, die Nähe zu Alpen und Nachbarländer, und die kosmopolitische Atmosphäre macht Dating hier besonders offen und abenteuerlich."
 ---
 ## dating in Konstanz: Bodensee-Zauber, Alpenblick und Dreierländer-Flair
 

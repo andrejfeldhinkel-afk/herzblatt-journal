@@ -16,11 +16,16 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Kann emotionale Nähe körperliche Nähe ersetzen?', 'answer': 'Nein, nicht vollständig. Sie ergänzen sich. Manche Menschen können ohne Sex glücklich sein, wenn die emotionale Verbindung stark ist – aber die meisten brauchen irgendwann auch körperliche Nähe. Es ist wie Essen: Du brauchst Vitamine UND Kalorien.'}"
-  - "{'question': 'Warum fühle ich mich körperlich nah, aber emotional distanziert?', 'answer': 'Das passiert oft nach langer Beziehung oder wenn Vertrauen beschädigt wurde. Sex wird zur Routine, ohne echter Verbindung. Das Gegenmittel: Kommunikation, Langsamkeit und bewusste Präsenz statt Automatismus.'}"
-  - "{'question': 'Wie baue ich emotionale Nähe auf?', 'answer': 'Durch Verletzlichkeit, echtes Zuhören und Präsenz. Teile deine echten Gefühle (nicht nur Fakten), stelle Fragen aus echtem Interesse und sei da, wenn dein Partner spricht – ohne gleich Ratschläge zu geben.'}"
-  - "{'question': 'Was ist der Unterschied zwischen Sex und Liebe machen?', 'answer': 'Sex kann mechanisch und lustorientiert sein. Liebe machen ist Sex mit emotionaler Verbindung – gegenseitiger Aufmerksamkeit, Zärtlichkeit und dem Gefühl, wirklich gesehen zu werden. Beides hat seinen Platz.'}"
-  - "{'question': 'Kann man zu viel emotionale Nähe ohne körperliche haben?', 'answer': "Ja, das führt oft zu Frustration. Zu viel 'herzlich' ohne 'körperlich' kann sich für den körperlich willigeren Partner einsam anfühlen. Balance ist wichtig – auch wenn diese für jedes Paar anders aussieht."}"
+  - question: "Kann emotionale Nähe körperliche Nähe ersetzen?"
+    answer: "Nein, nicht vollständig. Sie ergänzen sich. Manche Menschen können ohne Sex glücklich sein, wenn die emotionale Verbindung stark ist – aber die meisten brauchen irgendwann auch körperliche Nähe. Es ist wie Essen: Du brauchst Vitamine UND Kalorien."
+  - question: "Warum fühle ich mich körperlich nah, aber emotional distanziert?"
+    answer: "Das passiert oft nach langer Beziehung oder wenn Vertrauen beschädigt wurde. Sex wird zur Routine, ohne echter Verbindung. Das Gegenmittel: Kommunikation, Langsamkeit und bewusste Präsenz statt Automatismus."
+  - question: "Wie baue ich emotionale Nähe auf?"
+    answer: "Durch Verletzlichkeit, echtes Zuhören und Präsenz. Teile deine echten Gefühle (nicht nur Fakten), stelle Fragen aus echtem Interesse und sei da, wenn dein Partner spricht – ohne gleich Ratschläge zu geben."
+  - question: "Was ist der Unterschied zwischen Sex und Liebe machen?"
+    answer: "Sex kann mechanisch und lustorientiert sein. Liebe machen ist Sex mit emotionaler Verbindung – gegenseitiger Aufmerksamkeit, Zärtlichkeit und dem Gefühl, wirklich gesehen zu werden. Beides hat seinen Platz."
+  - question: "Kann man zu viel emotionale Nähe ohne körperliche haben?"
+    answer: "Ja, das führt oft zu Frustration. Zu viel"
 ---
 Stellt euch vor: Du sitzt mit deinem Partner auf der Couch. Ihr unterhaltet euch tiefgründig über Träume, Ängste, Hoffnungen. Ihr fühlt euch wirklich verstanden. Das ist emotionale Nähe – und es fühlt sich wunderbar an.
 

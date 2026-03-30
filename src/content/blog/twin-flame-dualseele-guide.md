@@ -16,11 +16,16 @@ keywords:
   - "Liebe"
   - "Psychologie"
 faq:
-  - "{'question': 'Was ist eine Twin Flame oder Dualseele?', 'answer': "Eine Twin Flame wird oft als deine 'Spiegelseele' beschrieben — ein Mensch, mit dem du auf spiritueller Ebene komplett verbunden bist, als würde ihr zwei Hälften einer Seele sein. Das Konzept stammt aus esoterischen und spirituellen Traditionen und ist weniger wissenschaftlich als emotional und spiritual begründet. Eine Dualseele ist dabei der deutsche Begriff für diese Idee."}"
-  - "{'question': 'Welche Stadien durchlaufen Twin Flames?', 'answer': 'Es gibt meist acht Stadien: 1) Wiedererkennung/Der Traum, 2) Vernarrtheit und das Honeymoon-Gefühl, 3) Die Phase der Prüfung und der Trigger, 4) Krise und Distanzierung, 5) Runner-and-Chaser-Dynamik, 6) Zeichen und Synchronizität, 7) Ergeben und Loslassen, 8) Vereinigung oder andauernder Kontakt.'}"
-  - "{'question': 'Ist die Twin-Flame-Idee psychologisch belegt?', 'answer': 'Nein. Die Twin-Flame-Idee hat keine wissenschaftliche Basis. Was oft dahinter steckt, sind psychologische Phänomene wie Limerence (emotionale Vernarrtheit), Projektion, Fixation, oder auch Trauma-Bonding. Therapeuten warnen oft vor dem Twin-Flame-Konzept, weil es toxische Beziehungen rationalisieren kann.'}"
-  - "{'question': 'Kann eine Twin-Flame-Beziehung toxisch sein?', 'answer': "Ja, und oft sogar sehr. Das Twin-Flame-Konzept kann Missbrauch, Manipulation und emotionale Instabilität rechtfertigen. Ein Partner kann sich schlecht verhalten und sagen: 'Aber wir sind Twin Flames — diese Leiden gehören dazu.' Das ist psychologisch sehr gefährlich und kann jahrelange Leiden verursachen."}"
-  - "{'question': 'Wie kann ich zwischen echten Gefühlen und Twin-Flame-Illusion unterscheiden?', 'answer': 'Eine echte, gesunde Liebe fühlt sich sicher, unterstützend und klarer an. Wenn du dich ständig verletzt, verwirrt, manipuliert oder im Stress befindest, ist das wahrscheinlich keine Twin Flame — das ist eine toxische Dynamik. Echte Seelenverbindungen machen dein Leben besser, nicht kaputt.'}"
+  - question: "Was ist eine Twin Flame oder Dualseele?"
+    answer: "Eine Twin Flame wird oft als deine"
+  - question: "Welche Stadien durchlaufen Twin Flames?"
+    answer: "Es gibt meist acht Stadien: 1) Wiedererkennung/Der Traum, 2) Vernarrtheit und das Honeymoon-Gefühl, 3) Die Phase der Prüfung und der Trigger, 4) Krise und Distanzierung, 5) Runner-and-Chaser-Dynamik, 6) Zeichen und Synchronizität, 7) Ergeben und Loslassen, 8) Vereinigung oder andauernder Kontakt."
+  - question: "Ist die Twin-Flame-Idee psychologisch belegt?"
+    answer: "Nein. Die Twin-Flame-Idee hat keine wissenschaftliche Basis. Was oft dahinter steckt, sind psychologische Phänomene wie Limerence (emotionale Vernarrtheit), Projektion, Fixation, oder auch Trauma-Bonding. Therapeuten warnen oft vor dem Twin-Flame-Konzept, weil es toxische Beziehungen rationalisieren kann."
+  - question: "Kann eine Twin-Flame-Beziehung toxisch sein?"
+    answer: "Ja, und oft sogar sehr. Das Twin-Flame-Konzept kann Missbrauch, Manipulation und emotionale Instabilität rechtfertigen. Ein Partner kann sich schlecht verhalten und sagen:"
+  - question: "Wie kann ich zwischen echten Gefühlen und Twin-Flame-Illusion unterscheiden?"
+    answer: "Eine echte, gesunde Liebe fühlt sich sicher, unterstützend und klarer an. Wenn du dich ständig verletzt, verwirrt, manipuliert oder im Stress befindest, ist das wahrscheinlich keine Twin Flame — das ist eine toxische Dynamik. Echte Seelenverbindungen machen dein Leben besser, nicht kaputt."
 ---
 ## Was ist eine Twin Flame wirklich?
 

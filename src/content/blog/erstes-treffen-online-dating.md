@@ -15,9 +15,12 @@ keywords:
   - "First Date"
   - "Date Tipps"
 faq:
-  - "{'question': 'Wie lange sollte ich mit jemandem schreiben, bevor ich mich treffe?', 'answer': 'Idealerweise 3-7 Tage von konsistenten Nachrichten. Zu kurz und Sie wissen nichts übereinander. Zu lange und Sie bauen Chemie auf, die in Person nicht da sein kann.'}"
-  - "{'question': 'Was ist, wenn sie nicht wie ihr Profil aussehen?', 'answer': 'Das passiert manchmal – alte Fotos, schlechte Beleuchtung, Filter. Geben Sie 15 Minuten, bevor Sie urteilen. Wenn es ein Lügner ist, ist es in Ordnung, kurz zu bleiben.'}"
-  - "{'question': 'Wie kann ich sicher mit jemandem treffen, den ich nur online kenne?', 'answer': 'Treffen Sie sich an einem öffentlichen Ort während des Tages. Teilen Sie Ihren Standort mit einem Freund. Video-Anruf vor dem Treffen. Vertrau deinen Instinkten.'}"
+  - question: "Wie lange sollte ich mit jemandem schreiben, bevor ich mich treffe?"
+    answer: "Idealerweise 3-7 Tage von konsistenten Nachrichten. Zu kurz und Sie wissen nichts übereinander. Zu lange und Sie bauen Chemie auf, die in Person nicht da sein kann."
+  - question: "Was ist, wenn sie nicht wie ihr Profil aussehen?"
+    answer: "Das passiert manchmal – alte Fotos, schlechte Beleuchtung, Filter. Geben Sie 15 Minuten, bevor Sie urteilen. Wenn es ein Lügner ist, ist es in Ordnung, kurz zu bleiben."
+  - question: "Wie kann ich sicher mit jemandem treffen, den ich nur online kenne?"
+    answer: "Treffen Sie sich an einem öffentlichen Ort während des Tages. Teilen Sie Ihren Standort mit einem Freund. Video-Anruf vor dem Treffen. Vertrau deinen Instinkten."
 ---
 Der Übergang von Online-Chat zum echten Leben ist ein kritischer Moment beim Online-Dating. Sie haben mit jemandem geschrieben, die Chemie scheint groß, und nun werden Sie sich in Person treffen. Dieser Moment kann aufregend oder angespannt sein. In diesem Leitfaden erfahren Sie, wie Sie einen erfolgreichen Übergang vom Chat zum ersten echten Treffen machen.
 

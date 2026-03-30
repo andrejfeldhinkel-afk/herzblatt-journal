@@ -12,8 +12,10 @@ draft: false
 image: "/images/photos/dating-fatigue-ueberwinden.webp"
 imageAlt: "Toxische Positivität beim Dating"
 faq:
-  - "{'question': 'Was ist das Wichtigste bei toxische positivität beim dating?', 'answer': 'Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst.'}"
-  - "{'question': 'Wo finde ich Hilfe zum Thema toxische positivität beim dating?', 'answer': 'Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung.'}"
+  - question: "Was ist das Wichtigste bei toxische positivität beim dating?"
+    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
+  - question: "Wo finde ich Hilfe zum Thema toxische positivität beim dating?"
+    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
 ---
 ## Toxische Positivität beim dating: Wenn Optimismus zur Falle wird
 

@@ -16,11 +16,16 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - "{'question': 'Wie lange nach der Trennung sollte ich die Sachen zurückgeben?', 'answer': 'Idealerweise 1-2 Wochen. Nicht sofort, das ist zu emotional. Aber auch nicht Monate später, das verlängert die Verbindung unnötig. Nach der ersten emotionalen Welle, wenn du stabil bist.'}"
-  - "{'question': 'Was tue ich, wenn ich seine Sachen nicht einfach finden kann?', 'answer': 'Schreib eine Liste. Gehe systematisch die Wohnung durch. Sein Zahnputzbecher im Bad, seine Bücher im Regal, seine Unterlagen. Alles sammeln. Das Durchsuchen kann schmerzhaft sein, aber notwendig.'}"
-  - "{'question': 'Darf ich seine Sachen einfach wegwerfen, wenn er sie nicht abholt?', 'answer': 'Rechtlich: Es hängt vom Einzelfall ab. Moralisch: Nicht sofort. Gib ihm 2-3 Wochen Zeit. Dann: Ja, du darfst sie wegwerfen oder spenden. Seine Verantwortung, Grenzen zu setzen.'}"
-  - "{'question': 'Sollte ich mich treffen oder alles in einem Karton vor die Tür stellen?', 'answer': 'Ideale Variante: Neutral treffen, schnell übergeben, gehen. Nicht treffen: Karton vor Tür stellen ist respektlos und kann zu Konflikten führen. Es sei denn, die Trennung war toxisch.'}"
-  - "{'question': 'Was mache ich mit seinen Fotos und Geschenken, die ich auch gerne haben möchte?', 'answer': 'Fotos: Mach Kopien, gib ihm die Originale zurück. Geschenke: Wenn du sie magst, behalte sie. Es sind deine Geschenke. Er kann nicht zu Weihnachtsgeschenken sagen, gib sie zurück.'}"
+  - question: "Wie lange nach der Trennung sollte ich die Sachen zurückgeben?"
+    answer: "Idealerweise 1-2 Wochen. Nicht sofort, das ist zu emotional. Aber auch nicht Monate später, das verlängert die Verbindung unnötig. Nach der ersten emotionalen Welle, wenn du stabil bist."
+  - question: "Was tue ich, wenn ich seine Sachen nicht einfach finden kann?"
+    answer: "Schreib eine Liste. Gehe systematisch die Wohnung durch. Sein Zahnputzbecher im Bad, seine Bücher im Regal, seine Unterlagen. Alles sammeln. Das Durchsuchen kann schmerzhaft sein, aber notwendig."
+  - question: "Darf ich seine Sachen einfach wegwerfen, wenn er sie nicht abholt?"
+    answer: "Rechtlich: Es hängt vom Einzelfall ab. Moralisch: Nicht sofort. Gib ihm 2-3 Wochen Zeit. Dann: Ja, du darfst sie wegwerfen oder spenden. Seine Verantwortung, Grenzen zu setzen."
+  - question: "Sollte ich mich treffen oder alles in einem Karton vor die Tür stellen?"
+    answer: "Ideale Variante: Neutral treffen, schnell übergeben, gehen. Nicht treffen: Karton vor Tür stellen ist respektlos und kann zu Konflikten führen. Es sei denn, die Trennung war toxisch."
+  - question: "Was mache ich mit seinen Fotos und Geschenken, die ich auch gerne haben möchte?"
+    answer: "Fotos: Mach Kopien, gib ihm die Originale zurück. Geschenke: Wenn du sie magst, behalte sie. Es sind deine Geschenke. Er kann nicht zu Weihnachtsgeschenken sagen, gib sie zurück."
 ---
 
 ## Die emotional schwierigste praktische Aufgabe

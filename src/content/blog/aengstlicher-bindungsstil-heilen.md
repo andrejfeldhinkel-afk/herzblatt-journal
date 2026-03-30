@@ -16,11 +16,16 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Wie entsteht ein ängstlicher Bindungsstil?', 'answer': 'Ein ängstlicher Bindungsstil entsteht häufig durch Erfahrungen in der Kindheit, bei denen Zuneigung inkonsistent war oder du Ablehnung erlebt hast. Eltern, die emotional unverfügbar waren oder deren Aufmerksamkeit unvorhersehbar ausfiel, prägen diesen Stil.'}"
-  - "{'question': 'Kann man seinen Bindungsstil wirklich ändern?', 'answer': 'Ja, definitiv. Dein Bindungsstil ist nicht dein Schicksal. Mit bewusstem Arbeiten an dir selbst, therapeutischer Unterstützung und der richtigen Partnerschaft kannst du zu einer sicheren Bindung heranwachsen.'}"
-  - "{'question': 'Wie erkenne ich, dass ich einen ängstlichen Bindungsstil habe?', 'answer': 'Du fragst dich ständig, ob dein Partner dich noch liebt, brauchst viel Bestätigung, hast Angst vor Ablehnung und neigst zu Eifersucht. Du wünschst dir Nähe, fürchtest dich aber gleichzeitig vor Verlassen werden.'}"
-  - "{'question': 'Welche Rolle spielt der Partner bei der Heilung?', 'answer': 'Ein verständnisvoller Partner kann enorm helfen, indem er dir Sicherheit gibt. Allerdings: Die Hauptarbeit liegt bei dir selbst. Dein Partner kann dich unterstützen, aber nicht heilen.'}"
-  - "{'question': 'Wie lange dauert es, seinen Bindungsstil zu heilen?', 'answer': 'Das ist individuell verschieden. Erste Fortschritte siehst du oft nach wenigen Wochen konsequenten Arbeiten. Eine tiefe Veränderung braucht Monate bis Jahre, je nach Ausgangslage.'}"
+  - question: "Wie entsteht ein ängstlicher Bindungsstil?"
+    answer: "Ein ängstlicher Bindungsstil entsteht häufig durch Erfahrungen in der Kindheit, bei denen Zuneigung inkonsistent war oder du Ablehnung erlebt hast. Eltern, die emotional unverfügbar waren oder deren Aufmerksamkeit unvorhersehbar ausfiel, prägen diesen Stil."
+  - question: "Kann man seinen Bindungsstil wirklich ändern?"
+    answer: "Ja, definitiv. Dein Bindungsstil ist nicht dein Schicksal. Mit bewusstem Arbeiten an dir selbst, therapeutischer Unterstützung und der richtigen Partnerschaft kannst du zu einer sicheren Bindung heranwachsen."
+  - question: "Wie erkenne ich, dass ich einen ängstlichen Bindungsstil habe?"
+    answer: "Du fragst dich ständig, ob dein Partner dich noch liebt, brauchst viel Bestätigung, hast Angst vor Ablehnung und neigst zu Eifersucht. Du wünschst dir Nähe, fürchtest dich aber gleichzeitig vor Verlassen werden."
+  - question: "Welche Rolle spielt der Partner bei der Heilung?"
+    answer: "Ein verständnisvoller Partner kann enorm helfen, indem er dir Sicherheit gibt. Allerdings: Die Hauptarbeit liegt bei dir selbst. Dein Partner kann dich unterstützen, aber nicht heilen."
+  - question: "Wie lange dauert es, seinen Bindungsstil zu heilen?"
+    answer: "Das ist individuell verschieden. Erste Fortschritte siehst du oft nach wenigen Wochen konsequenten Arbeiten. Eine tiefe Veränderung braucht Monate bis Jahre, je nach Ausgangslage."
 ---
 
 Der ängstliche Bindungsstil ist wie ein unsichtbares Netz, das dich in deinen Beziehungen fesselt. Du verlangst nach Nähe, hast aber gleichzeitig Angst davor, verlassen zu werden. Du stellst dich klein, um deine Partnerschaft nicht zu gefährden. Du checkst dein Handy ständig, weil die Angst überwältigend ist, dass diese Person plötzlich weg ist.

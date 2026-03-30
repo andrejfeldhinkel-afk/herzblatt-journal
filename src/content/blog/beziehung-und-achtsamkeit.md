@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/beziehung-und-achtsamkeit.webp"
 imageAlt: "Paar meditiert zusammen im Wohnzimmer"
 faq:
-  - "{'question': 'Was bedeutet Achtsamkeit in der Beziehung?', 'answer': 'Wirklich präsent sein – beim Gespräch nicht aufs Handy schauen, Emotionen bewusst wahrnehmen, bevor man reagiert, und dem Partner aktiv zuhören, statt schon die Antwort zu formulieren.'}"
-  - "{'question': 'Muss ich dafür meditieren?', 'answer': 'Nein. Meditation ist ein Werkzeug, aber Achtsamkeit geht auch ohne. Es reicht, bewusster mit Momenten umzugehen – beim Essen, beim Reden, beim Zuhören.'}"
-  - "{'question': 'Kann Achtsamkeit bei Beziehungsproblemen helfen?', 'answer': 'Ja. Studien zeigen, dass achtsame Paare weniger reaktiv streiten, mehr Empathie zeigen und zufriedener miteinander sind.'}"
+  - question: "Was bedeutet Achtsamkeit in der Beziehung?"
+    answer: "Wirklich präsent sein – beim Gespräch nicht aufs Handy schauen, Emotionen bewusst wahrnehmen, bevor man reagiert, und dem Partner aktiv zuhören, statt schon die Antwort zu formulieren."
+  - question: "Muss ich dafür meditieren?"
+    answer: "Nein. Meditation ist ein Werkzeug, aber Achtsamkeit geht auch ohne. Es reicht, bewusster mit Momenten umzugehen – beim Essen, beim Reden, beim Zuhören."
+  - question: "Kann Achtsamkeit bei Beziehungsproblemen helfen?"
+    answer: "Ja. Studien zeigen, dass achtsame Paare weniger reaktiv streiten, mehr Empathie zeigen und zufriedener miteinander sind."
 ---
 
 Jede [Beziehung](/blog/adhs-und-beziehung-komplett-guide/) braucht Aufmerksamkeit — nicht nur am Anfang, sondern täglich. Achtsamkeit ist nicht nur eine spirituelle Praktik oder ein Trend — es ist ein Werkzeug, das deine Beziehung tiefgreifender, widerstandsfähiger und erfüllender machen kann. Hier erfährst du, wie du diese wichtige Komponente nutzen kannst, um deine [Partnerschaft](/blog/aktives-zuhoeren-partner/) wirklich zu stärken.

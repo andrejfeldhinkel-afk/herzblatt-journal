@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "laura-weber"
 faq:
-  - "{'question': 'Was ist ein Ambivert genau?', 'answer': 'Ein Ambivert ist jemand der Eigenschaften von Introvertierten und Extrovertierten vereint. Du genießt soziale Situationen, brauchst aber auch Alleinsein zum Aufladen. Du kannst beides — je nach Stimmung und Energielevel.'}"
-  - "{'question': 'Ist Ambiversion normal?', 'answer': 'Sogar sehr häufig. Schätzungen zufolge sind 60-70% der Menschen ambivertiert. Die meisten fallen nicht in die Extreme von intro- oder extrovertiert, sondern bewegen sich auf einem Spektrum.'}"
-  - "{'question': 'Welcher Dating-Stil passt am besten zu Ambiverten?', 'answer': 'Ein Mix aus Online und Offline. Nutze Dating-Apps wenn du in einer ruhigeren Phase bist, und geh auf Events wenn du dich energiegeladen fühlst. Der Schlüssel ist, dein Energielevel zu kennen und danach zu planen.'}"
-  - "{'question': 'Soll ich meinem Date sagen dass ich ambivertiert bin?', 'answer': 'Wenn es passt, ja. Es erklärt natürlich, warum du manchmal super gesellig bist und manchmal lieber ruhig. Die meisten finden es erfrischend ehrlich — besser als rätseln zu lassen.'}"
+  - question: "Was ist ein Ambivert genau?"
+    answer: "Ein Ambivert ist jemand der Eigenschaften von Introvertierten und Extrovertierten vereint. Du genießt soziale Situationen, brauchst aber auch Alleinsein zum Aufladen. Du kannst beides — je nach Stimmung und Energielevel."
+  - question: "Ist Ambiversion normal?"
+    answer: "Sogar sehr häufig. Schätzungen zufolge sind 60-70% der Menschen ambivertiert. Die meisten fallen nicht in die Extreme von intro- oder extrovertiert, sondern bewegen sich auf einem Spektrum."
+  - question: "Welcher Dating-Stil passt am besten zu Ambiverten?"
+    answer: "Ein Mix aus Online und Offline. Nutze Dating-Apps wenn du in einer ruhigeren Phase bist, und geh auf Events wenn du dich energiegeladen fühlst. Der Schlüssel ist, dein Energielevel zu kennen und danach zu planen."
+  - question: "Soll ich meinem Date sagen dass ich ambivertiert bin?"
+    answer: "Wenn es passt, ja. Es erklärt natürlich, warum du manchmal super gesellig bist und manchmal lieber ruhig. Die meisten finden es erfrischend ehrlich — besser als rätseln zu lassen."
 ---**Du verstehst dich nicht richtig im Dating.** Manchmal bist du der Extrovertierte, der auf Parties geht und neue Menschen trifft. Manchmal bist du der Introvertierte, der lieber zuhause bleibt und sich Zeit für sich selbst nimmt.
 
 Du fragst dich: "Bin ich introvertiert oder extrovertiert? Und wie beeinflusst das mein Dating-Leben?"

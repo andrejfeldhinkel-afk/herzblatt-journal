@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Was ist der Unterschied zwischen Liebe und Codependenz?', 'answer': "Liebe sagt: 'Ich liebe dich und ich liebe mich.' Codependenz sagt: 'Ich brauche dich um mich vollständig zu fühlen.' In gesunder Liebe bereichert ihr euch gegenseitig. In Codependenz verlierst du dich selbst."}"
-  - "{'question': 'Wie entsteht Codependenz?', 'answer': 'Meist in der Kindheit, wenn ein Kind lernt, dass seine Bedürfnisse weniger wichtig sind als die der Eltern. Kinder von Suchtkranken, psychisch Kranken oder narzisstischen Eltern entwickeln häufiger codependente Muster.'}"
-  - "{'question': 'Kann man codependent sein ohne es zu merken?', 'answer': "Absolut. Codependenz wird oft als 'gute Partnerin' oder 'aufopferungsvoller Partner' getarnt. Wenn du dich fragst ob du codependent bist, ist das oft schon ein erstes Zeichen von Bewusstwerdung."}"
-  - "{'question': 'Wie lange dauert die Heilung von Codependenz?', 'answer': 'Die Bewusstwerdung kommt oft schnell. Die tiefere Veränderung braucht meist 1-2 Jahre aktiver Arbeit. Rückfälle sind normal und kein Scheitern. Es ist ein Prozess, kein Event.'}"
+  - question: "Was ist der Unterschied zwischen Liebe und Codependenz?"
+    answer: "Liebe sagt:"
+  - question: "Wie entsteht Codependenz?"
+    answer: "Meist in der Kindheit, wenn ein Kind lernt, dass seine Bedürfnisse weniger wichtig sind als die der Eltern. Kinder von Suchtkranken, psychisch Kranken oder narzisstischen Eltern entwickeln häufiger codependente Muster."
+  - question: "Kann man codependent sein ohne es zu merken?"
+    answer: "Absolut. Codependenz wird oft als"
+  - question: "Wie lange dauert die Heilung von Codependenz?"
+    answer: "Die Bewusstwerdung kommt oft schnell. Die tiefere Veränderung braucht meist 1-2 Jahre aktiver Arbeit. Rückfälle sind normal und kein Scheitern. Es ist ein Prozess, kein Event."
 ---
 
 Du fragst nicht nach deinen eigenen Wünschen in der [beziehung](/blog/adhs-und-beziehung-komplett-guide/). Stattdessen fragst du: "Was brauchst du?" Dein ganzer innerer Kompass ist auf deinen Partner ausgerichtet. Wenn dein Partner glücklich ist, bist du glücklich. Wenn dein Partner leidet, leidest du — und fühlst dich schuldig.

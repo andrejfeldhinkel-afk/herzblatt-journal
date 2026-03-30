@@ -15,11 +15,16 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - "{'question': 'Wie lange dauert es, Ergebnisse nach einer Profiländerung zu sehen?', 'answer': 'Die Dating-Apps bevorzugen neue oder aktualisierte Profile. Du solltest Unterschiede innerhalb weniger Tage bis eine Woche sehen. Wenn nicht, versuche andere Bilder oder eine neue Bio.'}"
-  - "{'question': 'Sollte ich ein Selfie als erstes Foto verwenden?', 'answer': 'Nein. Dein erstes Foto sollte ein qualitativ gutes Foto sein, auf dem man dein Gesicht klar sehen kann, aber bei dem du auch eine Aktivität oder einen Kontext hast. Das zeigt Persönlichkeit.'}"
-  - "{'question': 'Wie viele Fotos sollte ich hochladen?', 'answer': 'Mindestens 4-6 Fotos. Der erste ist dein Gesicht, aber die anderen sollten verschiedene Seiten von dir zeigen – mit Freunden, bei einer Aktivität, in formeller Kleidung, usw.'}"
-  - "{'question': 'Sind Gym-Selfies gut für Matches?', 'answer': 'Gym-Selfies sind ok, wenn sie nicht 50% deines Profils ausmachen. Ein oder zwei Fotos, die zeigen, dass du aktiv bist, sind gut. Aber zu viele wirken eitel.'}"
-  - "{'question': 'Sollte ich Bearbeitungsfilter verwenden?', 'answer': 'Nicht die Snapchat-Filter mit Hunden-Ohren! Aber subtile Bearbeitung – besseres Licht, Sättigung – ist ok. Die Fotos sollten aber trotzdem wie du aussehen im echten Leben.'}"
+  - question: "Wie lange dauert es, Ergebnisse nach einer Profiländerung zu sehen?"
+    answer: "Die Dating-Apps bevorzugen neue oder aktualisierte Profile. Du solltest Unterschiede innerhalb weniger Tage bis eine Woche sehen. Wenn nicht, versuche andere Bilder oder eine neue Bio."
+  - question: "Sollte ich ein Selfie als erstes Foto verwenden?"
+    answer: "Nein. Dein erstes Foto sollte ein qualitativ gutes Foto sein, auf dem man dein Gesicht klar sehen kann, aber bei dem du auch eine Aktivität oder einen Kontext hast. Das zeigt Persönlichkeit."
+  - question: "Wie viele Fotos sollte ich hochladen?"
+    answer: "Mindestens 4-6 Fotos. Der erste ist dein Gesicht, aber die anderen sollten verschiedene Seiten von dir zeigen – mit Freunden, bei einer Aktivität, in formeller Kleidung, usw."
+  - question: "Sind Gym-Selfies gut für Matches?"
+    answer: "Gym-Selfies sind ok, wenn sie nicht 50% deines Profils ausmachen. Ein oder zwei Fotos, die zeigen, dass du aktiv bist, sind gut. Aber zu viele wirken eitel."
+  - question: "Sollte ich Bearbeitungsfilter verwenden?"
+    answer: "Nicht die Snapchat-Filter mit Hunden-Ohren! Aber subtile Bearbeitung – besseres Licht, Sättigung – ist ok. Die Fotos sollten aber trotzdem wie du aussehen im echten Leben."
 ---
 
 ## Das Geheimnis von Dating-App-Erfolg

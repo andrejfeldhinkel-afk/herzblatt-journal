@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/beziehung-und-mental-health.webp"
 imageAlt: "Mental Health in Beziehung"
 faq:
-  - "{'question': 'Kann ich in einer Beziehung sein, während ich Depression habe?', 'answer': 'Ja, aber es erfordert Honesty und Support. Depression beeinflusst deine Fähigkeit zu lieben und zu verbinden. Es ist wichtig, dass dein Partner weiß, dass du mit Depression kämpfst und dass es nicht persönlich gegen ihn ist. Professionelle Hilfe ist auch sehr wichtig.'}"
-  - "{'question': 'Sollte ich meinem Partner von meiner mentalen Gesundheitsprobleme erzählen?', 'answer': 'Wenn die Beziehung seriös wird, ja. Du schuldest nicht allen Details vom ersten Tag, aber wenn du weißt, dass dies langfristig ist, sollte dein Partner wissen. Ein guter Partner wird dich unterstützen, nicht verlassen dich. Wenn sie dich verlässt, warst du wahrscheinlich nicht kompatibel.'}"
-  - "{'question': 'Was, wenn mein Partner mentale Gesundheitsprobleme hat?', 'answer': 'Das ist nicht deine Aufgabe, ihn zu "heilen." Du kannst unterstützend sein, aber du kannst nicht seine Therapie oder Medikamente ersetzen. Es ist wichtig, deine eigenen Grenzen zu setzen. Du kannst nicht ihm helfen, wenn du auch zusammenbrichst.'}"
+  - question: "Kann ich in einer Beziehung sein, während ich Depression habe?"
+    answer: "Ja, aber es erfordert Honesty und Support. Depression beeinflusst deine Fähigkeit zu lieben und zu verbinden. Es ist wichtig, dass dein Partner weiß, dass du mit Depression kämpfst und dass es nicht persönlich gegen ihn ist. Professionelle Hilfe ist auch sehr wichtig."
+  - question: "Sollte ich meinem Partner von meiner mentalen Gesundheitsprobleme erzählen?"
+    answer: "Wenn die Beziehung seriös wird, ja. Du schuldest nicht allen Details vom ersten Tag, aber wenn du weißt, dass dies langfristig ist, sollte dein Partner wissen. Ein guter Partner wird dich unterstützen, nicht verlassen dich. Wenn sie dich verlässt, warst du wahrscheinlich nicht kompatibel."
+  - question: "Was, wenn mein Partner mentale Gesundheitsprobleme hat?"
+    answer: "Das ist nicht deine Aufgabe, ihn zu"
 ---
 Die Verbindung zwischen mentaler Gesundheit und [beziehung](/blog/adhs-und-beziehung-komplett-guide/) ist tiefer als vielen Menschen verstehen. Deine psychische Gesundheit beeinflusst deine Fähigkeit zu lieben, zu vertrauen, zu kommunizieren, und zu verbinden. Wenn du mit mentalen Gesundheitsproblemen kämpfst, kann das eine Beziehung sehr beeinflussen.
 

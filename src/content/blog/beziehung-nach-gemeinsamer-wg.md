@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/beziehung-nach-gemeinsamer-wg.webp"
 imageAlt: "Zwei junge Menschen in einer gemeinsamen Küche"
 faq:
-  - "{'question': 'Ist es eine gute Idee, mit dem Mitbewohner zusammenzukommen?', 'answer': 'Es kann wunderbar funktionieren, birgt aber Risiken. Ihr kennt euch bereits gut, was ein Vorteil ist. Aber wenn es schiefgeht, wird das Zusammenwohnen kompliziert.'}"
-  - "{'question': 'Wie spreche ich Gefühle für meinen Mitbewohner an?', 'answer': 'Ehrlich und direkt, aber ohne Druck. Wähle einen ruhigen Moment und mach klar, dass euch die Freundschaft und das Zusammenwohnen wichtig ist, egal wie die Antwort ausfällt.'}"
-  - "{'question': 'Was mache ich, wenn die Beziehung scheitert und wir noch zusammen wohnen?', 'answer': 'Redet frühzeitig über einen Plan B. Wer zieht aus? Wie lange braucht ihr? Klare Absprachen verhindern monatelange Spannungen.'}"
+  - question: "Ist es eine gute Idee, mit dem Mitbewohner zusammenzukommen?"
+    answer: "Es kann wunderbar funktionieren, birgt aber Risiken. Ihr kennt euch bereits gut, was ein Vorteil ist. Aber wenn es schiefgeht, wird das Zusammenwohnen kompliziert."
+  - question: "Wie spreche ich Gefühle für meinen Mitbewohner an?"
+    answer: "Ehrlich und direkt, aber ohne Druck. Wähle einen ruhigen Moment und mach klar, dass euch die Freundschaft und das Zusammenwohnen wichtig ist, egal wie die Antwort ausfällt."
+  - question: "Was mache ich, wenn die Beziehung scheitert und wir noch zusammen wohnen?"
+    answer: "Redet frühzeitig über einen Plan B. Wer zieht aus? Wie lange braucht ihr? Klare Absprachen verhindern monatelange Spannungen."
 ---
 ## Wenn aus Küchengesprächen mehr wird
 

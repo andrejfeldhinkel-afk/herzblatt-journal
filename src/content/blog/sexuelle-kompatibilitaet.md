@@ -15,9 +15,12 @@ keywords:
   - "Beziehung Intimität"
   - "Sexuelle Kommunikation"
 faq:
-  - "{'question': 'Was ist sexuelle Kompatibilität?', 'answer': 'Es ist, wenn zwei Partner ähnliche sexuelle Wünsche, Bedürfnisse und Häufigkeiten haben. Es geht nicht nur um Libido, sondern um Wünsche, Grenzen und Kommunikation.'}"
-  - "{'question': 'Kann eine Beziehung ohne sexuelle Kompatibilität funktionieren?', 'answer': 'Es ist schwierig. Längerfristig, wenn ein Partner unsatisfied ist, kann es zu Ressentiment führen. Es ist etwas, das adressiert werden muss oder die Beziehung wird leiden.'}"
-  - "{'question': 'Wie spreche ich mit meinem Partner über sexuelle Inkompatibilität?', 'answer': "Mit Mitgefühl und ohne Schuldvorwürfe. Verwenden Sie 'Ich' Aussagen. 'Ich hätte gerne mehr/andere Intimität' nicht 'Du gibst mir nicht, was ich brauche.'"}"
+  - question: "Was ist sexuelle Kompatibilität?"
+    answer: "Es ist, wenn zwei Partner ähnliche sexuelle Wünsche, Bedürfnisse und Häufigkeiten haben. Es geht nicht nur um Libido, sondern um Wünsche, Grenzen und Kommunikation."
+  - question: "Kann eine Beziehung ohne sexuelle Kompatibilität funktionieren?"
+    answer: "Es ist schwierig. Längerfristig, wenn ein Partner unsatisfied ist, kann es zu Ressentiment führen. Es ist etwas, das adressiert werden muss oder die Beziehung wird leiden."
+  - question: "Wie spreche ich mit meinem Partner über sexuelle Inkompatibilität?"
+    answer: "Mit Mitgefühl und ohne Schuldvorwürfe. Verwenden Sie"
 ---
 Sex ist oft das unbequeme Thema in Beziehungen. Menschen sprechen nicht gerne darüber oder sie sprechen nicht genug. Aber sexuelle Kompatibilität ist wesentlich für langfristige Beziehungszufriedenheit. In diesem Leitfaden erfahren Sie, warum sexuelle Kompatibilität wichtig ist und wie Sie damit in Ihrer [beziehung](/blog/adhs-und-beziehung-komplett-guide/) umgehen.
 

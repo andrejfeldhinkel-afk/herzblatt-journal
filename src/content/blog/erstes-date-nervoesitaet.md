@@ -12,8 +12,10 @@ draft: false
 image: "/images/photos/online-dating-erste-date-angst.webp"
 imageAlt: "Nervös vor dem ersten Date? So wirst du die Aufreg"
 faq:
-  - "{'question': 'Was ist das Wichtigste bei nervös vor dem ersten date? so wirst du die aufregung los?', 'answer': 'Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst.'}"
-  - "{'question': 'Wo finde ich Hilfe zum Thema nervös vor dem ersten date? so wirst du die aufregung los?', 'answer': 'Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung.'}"
+  - question: "Was ist das Wichtigste bei nervös vor dem ersten date? so wirst du die aufregung los?"
+    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
+  - question: "Wo finde ich Hilfe zum Thema nervös vor dem ersten date? so wirst du die aufregung los?"
+    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
 ---
 ## Nervös vor dem ersten Date? So wirst du die Aufregung los
 

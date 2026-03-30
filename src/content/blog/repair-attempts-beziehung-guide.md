@@ -17,11 +17,16 @@ keywords:
   - "Kommunikation"
 draft: false
 faq:
-  - "{'question': 'Was sind Repair Attempts?', 'answer': "Repair Attempts sind Versuche, einen eskalierenden Konflikt de-eskalieren. Das können sein Witze, körperliche Berührungen, Fragen wie 'Können wir neu anfangen?', oder einfach eine Pause vorschlagen. Sie unterbrechen negative Zyklen."}"
-  - "{'question': 'Warum sind sie so wichtig?', 'answer': 'Laut Gottmans Forschung sind Repair Attempts einer der besten Indikatoren für Beziehungserfolg—mehr als das, wie oft Paare streiten. Paare, die erfolgreich reparieren, werden zusammenbleiben. Paare, die nicht reparieren, drift auseinander oder trennen sich.'}"
-  - "{'question': 'Was passiert, wenn Repair Attempts nicht funktionieren?', 'answer': 'Wenn ein Partner versucht zu reparieren und der andere ignoriert oder lehnt ab, kann sich ein emotionaler Flutmuster entwickeln. Das ist, wenn überwältigende Emotionen es unmöglich machen, zu kommunizieren. Dies kann langfristig zu Scheidung führen.'}"
-  - "{'question': 'Wie empfängt man einen Repair Attempt?', 'answer': 'Der Schlüssel ist, es zu akzeptieren. Wenn dein Partner einen Witz macht, lache. Wenn er oder sie eine Umarmung versucht, nimm es an. Wenn er oder sie ein Gespräch pausieren möchte, stimmen zu. Das ist nicht Schwäche. Das ist Beziehungspflege.'}"
-  - "{'question': 'Was sind die besten Repair Attempts?', 'answer': "Die besten sind oft die einfachsten: ein Lächeln, eine Berührung, ein 'Entschuldigung', ein Witz. Gebräuchliche sind auch spezifische Wörter oder Gesten, die für euer Paar spezifisch sind. Du brauchst etwas, das euch beide versteht."}"
+  - question: "Was sind Repair Attempts?"
+    answer: "Repair Attempts sind Versuche, einen eskalierenden Konflikt de-eskalieren. Das können sein Witze, körperliche Berührungen, Fragen wie"
+  - question: "Warum sind sie so wichtig?"
+    answer: "Laut Gottmans Forschung sind Repair Attempts einer der besten Indikatoren für Beziehungserfolg—mehr als das, wie oft Paare streiten. Paare, die erfolgreich reparieren, werden zusammenbleiben. Paare, die nicht reparieren, drift auseinander oder trennen sich."
+  - question: "Was passiert, wenn Repair Attempts nicht funktionieren?"
+    answer: "Wenn ein Partner versucht zu reparieren und der andere ignoriert oder lehnt ab, kann sich ein emotionaler Flutmuster entwickeln. Das ist, wenn überwältigende Emotionen es unmöglich machen, zu kommunizieren. Dies kann langfristig zu Scheidung führen."
+  - question: "Wie empfängt man einen Repair Attempt?"
+    answer: "Der Schlüssel ist, es zu akzeptieren. Wenn dein Partner einen Witz macht, lache. Wenn er oder sie eine Umarmung versucht, nimm es an. Wenn er oder sie ein Gespräch pausieren möchte, stimmen zu. Das ist nicht Schwäche. Das ist Beziehungspflege."
+  - question: "Was sind die besten Repair Attempts?"
+    answer: "Die besten sind oft die einfachsten: ein Lächeln, eine Berührung, ein"
 ---
 ## Repair Attempts: Das Handwerk, das Beziehungen rettet
 

@@ -13,8 +13,10 @@ draft: false
 image: "/images/photos/bindungsangst-erkennen.webp"
 imageAlt: "Verlustangst in der Beziehung"
 faq:
-  - "{'question': 'Was ist das Wichtigste bei verlustangst in der beziehung?', 'answer': 'Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst.'}"
-  - "{'question': 'Wo finde ich Hilfe zum Thema verlustangst in der beziehung?', 'answer': 'Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung.'}"
+  - question: "Was ist das Wichtigste bei verlustangst in der beziehung?"
+    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
+  - question: "Wo finde ich Hilfe zum Thema verlustangst in der beziehung?"
+    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
 ---
 ## Verlustangst: Das Gefühl, dass alles zu gut ist, um wahr zu sein
 

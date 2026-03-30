@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Was ist das innere Kind?', 'answer': 'Das innere Kind ist der emotionale Teil in dir, der die Erfahrungen und Gefühle deiner Kindheit gespeichert hat. Es beeinflusst unbewusst wie du auf Konflikte, Nähe und Zurückweisung reagierst — besonders in romantischen Beziehungen.'}"
-  - "{'question': 'Wie merke ich dass mein inneres Kind getriggert wird?', 'answer': 'Typische Zeichen: Überreaktionen auf kleine Situationen, plötzliches Gefühl von Verlassenwerden, Wut die nicht zur Situation passt, der Impuls wegzulaufen oder zu klammern. Wenn du dich wie ein hilfloses Kind fühlst, ist wahrscheinlich dein inneres Kind aktiv.'}"
-  - "{'question': 'Kann ich mein inneres Kind selbst heilen?', 'answer': 'Viele Aspekte kannst du selbst bearbeiten — durch Journaling, Meditation und Selbstmitgefühl-Übungen. Bei tieferen Traumata (Missbrauch, Vernachlässigung, Gewalt) ist professionelle Begleitung aber wichtig und kein Zeichen von Schwäche.'}"
-  - "{'question': 'Wie lange dauert die Arbeit mit dem inneren Kind?', 'answer': 'Es ist kein Sprint, sondern ein lebenslanger Prozess. Erste Aha-Momente kommen oft nach wenigen Wochen. Tiefere Veränderungen in Beziehungsmustern brauchen meist 6-12 Monate kontinuierlicher Arbeit.'}"
+  - question: "Was ist das innere Kind?"
+    answer: "Das innere Kind ist der emotionale Teil in dir, der die Erfahrungen und Gefühle deiner Kindheit gespeichert hat. Es beeinflusst unbewusst wie du auf Konflikte, Nähe und Zurückweisung reagierst — besonders in romantischen Beziehungen."
+  - question: "Wie merke ich dass mein inneres Kind getriggert wird?"
+    answer: "Typische Zeichen: Überreaktionen auf kleine Situationen, plötzliches Gefühl von Verlassenwerden, Wut die nicht zur Situation passt, der Impuls wegzulaufen oder zu klammern. Wenn du dich wie ein hilfloses Kind fühlst, ist wahrscheinlich dein inneres Kind aktiv."
+  - question: "Kann ich mein inneres Kind selbst heilen?"
+    answer: "Viele Aspekte kannst du selbst bearbeiten — durch Journaling, Meditation und Selbstmitgefühl-Übungen. Bei tieferen Traumata (Missbrauch, Vernachlässigung, Gewalt) ist professionelle Begleitung aber wichtig und kein Zeichen von Schwäche."
+  - question: "Wie lange dauert die Arbeit mit dem inneren Kind?"
+    answer: "Es ist kein Sprint, sondern ein lebenslanger Prozess. Erste Aha-Momente kommen oft nach wenigen Wochen. Tiefere Veränderungen in Beziehungsmustern brauchen meist 6-12 Monate kontinuierlicher Arbeit."
 ---
 Es gibt einen Teil in dir, der noch immer sieben Jahre alt ist. Er oder sie fürchtet sich vor Verlassenwerden. Er braucht Versicherung. Er reagiert überempfindlich auf Kritik. Er klammert in Momenten von Stress.
 

@@ -15,11 +15,16 @@ draft: false
 featured: false
 author: "laura-weber"
 faq:
-  - "{'question': 'Wie lange kann eine Fernbeziehung funktionieren?', 'answer': 'Fernbeziehungen können Jahre oder sogar Jahrzehnte funktionieren, wenn beide Partner engagiert sind. Die Frage ist nicht, wie lange sie funktionieren kann, sondern, wie lange ihr beide bereit seid, die Anstrengung zu machen.'}"
-  - "{'question': 'Wie oft sollten wir uns sehen, um eine Fernbeziehung zu halten?', 'answer': 'Das hängt ab, aber mindestens jeden Monat ist ideal. Wenn du nur ein- oder zweimal pro Jahr siehst, ist das sehr schwierig. Idealerweise alle zwei Wochen.'}"
-  - "{'question': 'Ist Fernbeziehung Geschlechtergerecht, oder funktionieren sie für Frauen besser?', 'answer': 'Fernbeziehungen sind neutral gegenüber dem Geschlecht. Was funktioniert, ist Engagement und klare Kommunikation – unabhängig davon, wer wen besucht.'}"
-  - "{'question': 'Was ist das häufigste Problem in Fernbeziehungen?', 'answer': 'Eifersucht und Mangel an physischem Kontakt sind die Top-Probleme. Gefolgt von Missverständnissen in der Kommunikation und dem Aufbau von Ressentiments.'}"
-  - "{'question': 'Wann sollte ich aus einer Fernbeziehung aussteigen?', 'answer': 'Wenn einer von euch kein klares Enddatum hat, wenn die emotionale oder finanzielle Belastung nicht tragbar ist, oder wenn einer von euch nicht wirklich an der Beziehung ist, ist es Zeit zu gehen.'}"
+  - question: "Wie lange kann eine Fernbeziehung funktionieren?"
+    answer: "Fernbeziehungen können Jahre oder sogar Jahrzehnte funktionieren, wenn beide Partner engagiert sind. Die Frage ist nicht, wie lange sie funktionieren kann, sondern, wie lange ihr beide bereit seid, die Anstrengung zu machen."
+  - question: "Wie oft sollten wir uns sehen, um eine Fernbeziehung zu halten?"
+    answer: "Das hängt ab, aber mindestens jeden Monat ist ideal. Wenn du nur ein- oder zweimal pro Jahr siehst, ist das sehr schwierig. Idealerweise alle zwei Wochen."
+  - question: "Ist Fernbeziehung Geschlechtergerecht, oder funktionieren sie für Frauen besser?"
+    answer: "Fernbeziehungen sind neutral gegenüber dem Geschlecht. Was funktioniert, ist Engagement und klare Kommunikation – unabhängig davon, wer wen besucht."
+  - question: "Was ist das häufigste Problem in Fernbeziehungen?"
+    answer: "Eifersucht und Mangel an physischem Kontakt sind die Top-Probleme. Gefolgt von Missverständnissen in der Kommunikation und dem Aufbau von Ressentiments."
+  - question: "Wann sollte ich aus einer Fernbeziehung aussteigen?"
+    answer: "Wenn einer von euch kein klares Enddatum hat, wenn die emotionale oder finanzielle Belastung nicht tragbar ist, oder wenn einer von euch nicht wirklich an der Beziehung ist, ist es Zeit zu gehen."
 ---
 
 Fernbeziehung meistern: 25 Tipps für eine starke Liebe auf Distanz

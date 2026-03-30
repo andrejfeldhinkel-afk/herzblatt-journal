@@ -17,11 +17,16 @@ keywords:
 image: "/images/blog/negging-manipulation-dating-guide.webp"
 draft: false
 faq:
-  - "{'question': 'Was ist Negging genau?', 'answer': 'Negging ist eine Manipulationstaktik, bei der jemand dir subtile Kritik oder Insults gibt, um dein Selbstwertgefühl zu senken und dich dadurch abhängiger von seiner Zustimmung zu machen.'}"
-  - "{'question': 'Stammt Negging aus der PUA-Community?', 'answer': 'Ja, Negging wurde durch die Pick-up Artist (PUA) Community popularisiert und ist Teil ihrer manipulativen Spieltaktiken beim Dating.'}"
-  - "{'question': 'Wie unterscheidet sich Negging von echtem Teasing?', 'answer': 'Echtes Teasing ist liebevoll, beide Seiten lachen zusammen und es gibt keine schmerzhaften Gefühle. Negging ist verletzend gemeint und soll dein Selbstwertgefühl untergraben.'}"
-  - "{'question': 'Wie kann ich mich vor Negging schützen?', 'answer': 'Lerne die Warnsignale zu erkennen, vertraue deinem Bauchgefühl, höre nicht auf zu viele kleine Kritiken und achte auf ein Muster von negativen Kommentaren.'}"
-  - "{'question': 'Sollte ich einen Negging-Partner confrontieren?', 'answer': 'Ja, aber nur wenn du dich sicher fühlst. Klare Grenzen sind wichtig. Wenn die Person nicht bereit ist, ihr Verhalten zu ändern, ist es Zeit zu gehen.'}"
+  - question: "Was ist Negging genau?"
+    answer: "Negging ist eine Manipulationstaktik, bei der jemand dir subtile Kritik oder Insults gibt, um dein Selbstwertgefühl zu senken und dich dadurch abhängiger von seiner Zustimmung zu machen."
+  - question: "Stammt Negging aus der PUA-Community?"
+    answer: "Ja, Negging wurde durch die Pick-up Artist (PUA) Community popularisiert und ist Teil ihrer manipulativen Spieltaktiken beim Dating."
+  - question: "Wie unterscheidet sich Negging von echtem Teasing?"
+    answer: "Echtes Teasing ist liebevoll, beide Seiten lachen zusammen und es gibt keine schmerzhaften Gefühle. Negging ist verletzend gemeint und soll dein Selbstwertgefühl untergraben."
+  - question: "Wie kann ich mich vor Negging schützen?"
+    answer: "Lerne die Warnsignale zu erkennen, vertraue deinem Bauchgefühl, höre nicht auf zu viele kleine Kritiken und achte auf ein Muster von negativen Kommentaren."
+  - question: "Sollte ich einen Negging-Partner confrontieren?"
+    answer: "Ja, aber nur wenn du dich sicher fühlst. Klare Grenzen sind wichtig. Wenn die Person nicht bereit ist, ihr Verhalten zu ändern, ist es Zeit zu gehen."
 ---
 
 ## Was ist Negging und warum schadet es dir?

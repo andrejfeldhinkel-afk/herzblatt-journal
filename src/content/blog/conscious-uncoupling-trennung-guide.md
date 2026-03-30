@@ -17,11 +17,16 @@ keywords:
   - "Co-Parenting"
 draft: false
 faq:
-  - "{'question': 'Was genau ist Conscious Uncoupling?', 'answer': 'Conscious Uncoupling ist ein bewusster Prozess, bei dem zwei Menschen eine Beziehung respektvoll und wohlwollend beenden. Es geht darum, sich gegenseitig Liebe und Respekt zu bewahren, auch wenn die romantische Beziehung endet. Der Fokus liegt auf einem würdevollen Abschied statt auf Schuldzuweisungen oder Konflikten.'}"
-  - "{'question': 'Ist bewusste Trennung wirklich für alle Paare möglich?', 'answer': 'Nein, nicht für alle Paare. Sie funktioniert besonders gut, wenn beide Partner bereit sind, Verantwortung zu übernehmen und offen kommunizieren können. Bei hochkonflikthaften Situationen, Missbrauch oder extremer emotionaler Verletzung kann professionelle Hilfe notwendig sein oder Conscious Uncoupling ist nicht die richtige Methode.'}"
-  - "{'question': 'Wie unterscheidet sich bewusste Trennung von einer normalen Trennung?', 'answer': 'Bei einer normalen Trennung gibt es oft Wut, Schuldzuweisungen und gegenseitiges Verletzen. Bei Conscious Uncoupling wird bewusst gewählt, den anderen nicht als Feind zu sehen, sondern als jemanden, mit dem man eine wichtige Lebensphase geteilt hat. Es geht um bewusste Kommunikation statt Verletzung.'}"
-  - "{'question': 'Kann man nach Conscious Uncoupling noch Freunde sein?', 'answer': 'Ja, aber es braucht Zeit und Raum. Unmittelbar nach der Trennung ist Abstand oft sinnvoll, um emotional zu heilen. Mit der Zeit können manche Paare eine echte Freundschaft aufbauen. Das funktioniert aber nicht immer und ist auch nicht zwingend nötig.'}"
-  - "{'question': 'Welche Rolle spielen Therapeuten im Prozess?', 'answer': 'Therapeuten können immens hilfreich sein, um emotionale Prozesse zu verarbeiten, Kommunikationsmuster zu verstehen und Grenzen zu setzen. Sie helfen, alte Muster zu erkennen und neue, gesündere Wege zu gehen. Besonders bei Co-Parenting ist therapeutische Unterstützung wertvoll.'}"
+  - question: "Was genau ist Conscious Uncoupling?"
+    answer: "Conscious Uncoupling ist ein bewusster Prozess, bei dem zwei Menschen eine Beziehung respektvoll und wohlwollend beenden. Es geht darum, sich gegenseitig Liebe und Respekt zu bewahren, auch wenn die romantische Beziehung endet. Der Fokus liegt auf einem würdevollen Abschied statt auf Schuldzuweisungen oder Konflikten."
+  - question: "Ist bewusste Trennung wirklich für alle Paare möglich?"
+    answer: "Nein, nicht für alle Paare. Sie funktioniert besonders gut, wenn beide Partner bereit sind, Verantwortung zu übernehmen und offen kommunizieren können. Bei hochkonflikthaften Situationen, Missbrauch oder extremer emotionaler Verletzung kann professionelle Hilfe notwendig sein oder Conscious Uncoupling ist nicht die richtige Methode."
+  - question: "Wie unterscheidet sich bewusste Trennung von einer normalen Trennung?"
+    answer: "Bei einer normalen Trennung gibt es oft Wut, Schuldzuweisungen und gegenseitiges Verletzen. Bei Conscious Uncoupling wird bewusst gewählt, den anderen nicht als Feind zu sehen, sondern als jemanden, mit dem man eine wichtige Lebensphase geteilt hat. Es geht um bewusste Kommunikation statt Verletzung."
+  - question: "Kann man nach Conscious Uncoupling noch Freunde sein?"
+    answer: "Ja, aber es braucht Zeit und Raum. Unmittelbar nach der Trennung ist Abstand oft sinnvoll, um emotional zu heilen. Mit der Zeit können manche Paare eine echte Freundschaft aufbauen. Das funktioniert aber nicht immer und ist auch nicht zwingend nötig."
+  - question: "Welche Rolle spielen Therapeuten im Prozess?"
+    answer: "Therapeuten können immens hilfreich sein, um emotionale Prozesse zu verarbeiten, Kommunikationsmuster zu verstehen und Grenzen zu setzen. Sie helfen, alte Muster zu erkennen und neue, gesündere Wege zu gehen. Besonders bei Co-Parenting ist therapeutische Unterstützung wertvoll."
 ---
 
 ## Die Ursprünge: Gwyneth Paltrows Contribution zur Beziehungskultur

@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/emotionale-verfuegbarkeit-dating.webp"
 imageAlt: "Emotionale Verfügbarkeit"
 faq:
-  - "{'question': 'Was bedeutet es, emotional nicht verfügbar zu sein?', 'answer': 'Jemand, der nicht emotional verfügbar ist, könnte Schwierigkeiten haben, sich zu verbinden, könnte Angst vor Intimität haben, oder könnte zu beschäftigt/gestresst sein, um die emotionale Energie zu geben. Sie könnten auch noch nicht über eine frühere Beziehung hinwegzuseinen. Es gibt viele Gründe.'}"
-  - "{'question': 'Kann ich jemanden ändern, um emotional verfügbar zu sein?', 'answer': 'Nein, die kurze Antwort ist nein. Emotionale Verfügbarkeit kommt von innen. Wenn jemand emotional nicht verfügbar ist, müssen sie ihre eigene Arbeit tun – Therapie, Selbstreflexion, etc. Du kannst sie nicht lieben in einen emotional verfügbaren Status.'}"
-  - "{'question': 'Wie erkenne ich, ob jemand emotional verfügbar ist?', 'answer': 'Achte auf, ob sie vulnerable sein können, ob sie ihre Gefühle ausdrücken können, ob sie dich aktiv in ihrem Leben einbeziehen, ob sie über die Zukunft sprechen können, ob sie Zeit für dich machen. Emotional verfügbare Menschen öffnen sich über Zeit.'}"
+  - question: "Was bedeutet es, emotional nicht verfügbar zu sein?"
+    answer: "Jemand, der nicht emotional verfügbar ist, könnte Schwierigkeiten haben, sich zu verbinden, könnte Angst vor Intimität haben, oder könnte zu beschäftigt/gestresst sein, um die emotionale Energie zu geben. Sie könnten auch noch nicht über eine frühere Beziehung hinwegzuseinen. Es gibt viele Gründe."
+  - question: "Kann ich jemanden ändern, um emotional verfügbar zu sein?"
+    answer: "Nein, die kurze Antwort ist nein. Emotionale Verfügbarkeit kommt von innen. Wenn jemand emotional nicht verfügbar ist, müssen sie ihre eigene Arbeit tun – Therapie, Selbstreflexion, etc. Du kannst sie nicht lieben in einen emotional verfügbaren Status."
+  - question: "Wie erkenne ich, ob jemand emotional verfügbar ist?"
+    answer: "Achte auf, ob sie vulnerable sein können, ob sie ihre Gefühle ausdrücken können, ob sie dich aktiv in ihrem Leben einbeziehen, ob sie über die Zukunft sprechen können, ob sie Zeit für dich machen. Emotional verfügbare Menschen öffnen sich über Zeit."
 ---
 Wenn du eine erfüllende [beziehung](/blog/adhs-und-beziehung-komplett-guide/) möchtest, ist emotionale Verfügbarkeit wahrscheinlich wichtiger als körperliche Anziehung oder gemeinsame Interessen. Und doch ist emotionale Verfügbarkeit etwas, das viele Menschen übersehen beim Dating.
 

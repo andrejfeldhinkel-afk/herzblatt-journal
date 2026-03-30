@@ -15,11 +15,16 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Was sind die 5 Liebessprachen?', 'answer': '1. Lob und Anerkennung, 2. Zweisamkeit und Zeit, 3. Geschenke, 4. Hilfreiche Taten, 5. Körperliche Nähe. Jeder Mensch hat üblicherweise ein oder zwei primäre Liebessprachen, in denen er/sie sich am meisten gesehen fühlt.'}"
-  - "{'question': 'Kann sich die Liebessprache im Laufe der Beziehung ändern?', 'answer': 'Ja. Stress, Lebensereignisse, Alter – all das kann beeinflussen, welche Liebessprache wichtiger wird. Ein paar Jahre ehe die Prioritäten können sich verschieben. Deswegen ist es gut, regelmäßig zu überprüfen.'}"
-  - "{'question': 'Was, wenn wir verschiedene Liebessprachen sprechen?', 'answer': 'Das ist normal und nicht schlimm. Es bedeutet nur, dass ihr bewusst sein müsst. Wenn dein Partner Anerkennung braucht und du nur Time gibst – er/sie fühlt sich nicht gesehen. Die Lösung: Beide müssen die anderen Liebessprachen bewusst sprechen.'}"
-  - "{'question': 'Kann ich alle 5 Liebessprachen sprechen?', 'answer': 'Theoretisch ja. Praktisch hat jeder Mensch eine oder zwei, die ihm/ihr natürlich fallen. Die anderen zu sprechen braucht Bewusstsein und Effort. Das ist okay – die Effort selbst zeigt Liebe.'}"
-  - "{'question': 'Was, wenn der Partner meine Liebessprache nicht spricht?', 'answer': 'Das ist ein Gespräch wert. Nicht mit Vorwurf, sondern informativ: "Mir ist wichtig, dass wir Zeit zusammen verbringen. Das macht mich sich geliebt fühlen. Können wir das mehr machen?" Ein liebevoller Partner wird das verstehen und anpassen.'}"
+  - question: "Was sind die 5 Liebessprachen?"
+    answer: "1. Lob und Anerkennung, 2. Zweisamkeit und Zeit, 3. Geschenke, 4. Hilfreiche Taten, 5. Körperliche Nähe. Jeder Mensch hat üblicherweise ein oder zwei primäre Liebessprachen, in denen er/sie sich am meisten gesehen fühlt."
+  - question: "Kann sich die Liebessprache im Laufe der Beziehung ändern?"
+    answer: "Ja. Stress, Lebensereignisse, Alter – all das kann beeinflussen, welche Liebessprache wichtiger wird. Ein paar Jahre ehe die Prioritäten können sich verschieben. Deswegen ist es gut, regelmäßig zu überprüfen."
+  - question: "Was, wenn wir verschiedene Liebessprachen sprechen?"
+    answer: "Das ist normal und nicht schlimm. Es bedeutet nur, dass ihr bewusst sein müsst. Wenn dein Partner Anerkennung braucht und du nur Time gibst – er/sie fühlt sich nicht gesehen. Die Lösung: Beide müssen die anderen Liebessprachen bewusst sprechen."
+  - question: "Kann ich alle 5 Liebessprachen sprechen?"
+    answer: "Theoretisch ja. Praktisch hat jeder Mensch eine oder zwei, die ihm/ihr natürlich fallen. Die anderen zu sprechen braucht Bewusstsein und Effort. Das ist okay – die Effort selbst zeigt Liebe."
+  - question: "Was, wenn der Partner meine Liebessprache nicht spricht?"
+    answer: "Das ist ein Gespräch wert. Nicht mit Vorwurf, sondern informativ:"
 ---
 
 ## Die 5 Liebessprachen: Test und Anleitung für Paare

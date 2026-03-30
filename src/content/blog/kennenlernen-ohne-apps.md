@@ -15,9 +15,12 @@ draft: false
 image: "/images/photos/kennenlernen-ohne-apps.webp"
 imageAlt: "Freunde treffen sich in einem Café, spielen zusammen, lachen und verbinden sich auf natürliche Weise"
 faq:
-  - "{'question': 'Ist es wirklich besser, Menschen offline kennenzulernen als über Dating-Apps?', 'answer': 'Das hängt von deinen Zielen ab. Offline-Treffen haben Vorteile: echte Chemie, weniger Oberflächlichkeit, natürlichere Konversationen. Aber Dating-Apps sind effizienter und bieten mehr Optionen. Idealerweise kombinierst du beide. Apps sind ein Tool für dich, aber offline-Aktivitäten geben dir mehr Sicherheit und authentische Verbindungen. Menschen, die du in gemeinsamen Hobbys oder durch Freunde triffst, teilen bereits Interessen mit dir – das ist ein großer Vorteil.'}"
-  - "{'question': 'Wie überwinde ich Nervosität, wenn ich in einer Gruppe neue Menschen treffe?', 'answer': "Nervosität ist völlig normal und tatsächlich ein gutes Zeichen – es bedeutet, dass es dir wichtig ist. Strategien zur Überwindung: 1) Gehe mit Vertrauenspersonen hin, nicht allein. 2) Fokussiere dich auf das Hobby, nicht aufs 'Kennenlernen'. 3) Stelle Fragen an andere – Menschen lieben zu reden. 4) Gibt dir selbst 5 positive Aussagen, bevor du gehst. 5) Erinnere dich, dass andere auch nervös sind. Mit jedem Mal wird es leichter – Wiederholung ist Schlüssel."}"
-  - "{'question': "Wie erkenne ich, wann der richtige Moment ist, von 'Freunde kennenlernen' zu 'romantisches Interesse' zu wechseln?", 'answer': "Der beste Approach: Sei authentisch. Wenn du romantisches Interesse hast, sag das, statt zu spielen 'Wir sind nur Freunde'. Du kannst sagen: 'Ich habe eine gute Zeit mit dir und frage mich, ob du offen für etwas Romantisches bist?' Das ist mutig, aber ehrlich. Wenn die Person nicht interessiert ist, weißt du schnell, und ihr könnt entscheiden, ob Freundschaft möglich ist. Geheime Gefühle zu hegen ist für dich emotional belastend."}"
+  - question: "Ist es wirklich besser, Menschen offline kennenzulernen als über Dating-Apps?"
+    answer: "Das hängt von deinen Zielen ab. Offline-Treffen haben Vorteile: echte Chemie, weniger Oberflächlichkeit, natürlichere Konversationen. Aber Dating-Apps sind effizienter und bieten mehr Optionen. Idealerweise kombinierst du beide. Apps sind ein Tool für dich, aber offline-Aktivitäten geben dir mehr Sicherheit und authentische Verbindungen. Menschen, die du in gemeinsamen Hobbys oder durch Freunde triffst, teilen bereits Interessen mit dir – das ist ein großer Vorteil."
+  - question: "Wie überwinde ich Nervosität, wenn ich in einer Gruppe neue Menschen treffe?"
+    answer: "Nervosität ist völlig normal und tatsächlich ein gutes Zeichen – es bedeutet, dass es dir wichtig ist. Strategien zur Überwindung: 1) Gehe mit Vertrauenspersonen hin, nicht allein. 2) Fokussiere dich auf das Hobby, nicht aufs"
+  - question: "Wie erkenne ich, wann der richtige Moment ist, von 'Freunde kennenlernen' zu 'romantisches Interesse' zu wechseln?"
+    answer: "Der beste Approach: Sei authentisch. Wenn du romantisches Interesse hast, sag das, statt zu spielen"
 ---
 ## Menschen kennenlernen ohne dating-Apps: 20 Wege zur echten Begegnung
 

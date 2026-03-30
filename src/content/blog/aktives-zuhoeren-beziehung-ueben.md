@@ -17,11 +17,16 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Was ist der Unterschied zwischen zuhören und aktivem Zuhören?', 'answer': 'Normales Zuhören ist passiv — deine Ohren nehmen Geräusche auf. Aktives Zuhören ist ein bewusster Prozess, bei dem du versuchst, nicht nur die Worte zu verstehen, sondern auch die Gefühle und den tieferen Sinn dahinter. Du zeigst deinem Partner, dass du wirklich present bist.'}"
-  - "{'question': 'Kann ich aktives Zuhören auch üben, wenn mein Partner nicht kooperiert?', 'answer': 'Ja. Du kannst deinen Teil ändern, auch wenn dein Partner nicht mitarbeitet. Wenn du wirklich zuhörst, merkt der andere das oft und wird langsam empfänglicher. Aber es braucht Geduld und Konsistenz.'}"
-  - "{'question': 'Wie oft sollten wir aktiv miteinander reden?', 'answer': 'Ideal sind regelmäßige Gesprächszeiten — mindestens zwei bis drei Mal pro Woche, wenn möglich täglich. Nicht tiefe Diskussionen jedes Mal, aber bewusstes Zuhören bei dem, was der andere mitteilt.'}"
-  - "{'question': 'Was mache ich, wenn ich während des Zuhörens merke, dass ich unrecht habe?', 'answer': "Sag es ehrlich: 'Ich merke gerade, dass ich das falsch verstanden habe' oder 'Du hast recht, ich sehe das jetzt anders.' Das ist nicht schwach, das ist integer. Und es zeigt, dass du wirklich zuhörst — auch auf dich selbst."}"
-  - "{'question': 'Ist aktives Zuhören nicht anstrengend?', 'answer': 'Am Anfang ja. Es ist eine neue Fähigkeit. Aber je öfter du es übst, desto natürlicher wird es. Und am Ende ist es viel weniger anstrengend als ständige Missverständnisse und Konflikte.'}"
+  - question: "Was ist der Unterschied zwischen zuhören und aktivem Zuhören?"
+    answer: "Normales Zuhören ist passiv — deine Ohren nehmen Geräusche auf. Aktives Zuhören ist ein bewusster Prozess, bei dem du versuchst, nicht nur die Worte zu verstehen, sondern auch die Gefühle und den tieferen Sinn dahinter. Du zeigst deinem Partner, dass du wirklich present bist."
+  - question: "Kann ich aktives Zuhören auch üben, wenn mein Partner nicht kooperiert?"
+    answer: "Ja. Du kannst deinen Teil ändern, auch wenn dein Partner nicht mitarbeitet. Wenn du wirklich zuhörst, merkt der andere das oft und wird langsam empfänglicher. Aber es braucht Geduld und Konsistenz."
+  - question: "Wie oft sollten wir aktiv miteinander reden?"
+    answer: "Ideal sind regelmäßige Gesprächszeiten — mindestens zwei bis drei Mal pro Woche, wenn möglich täglich. Nicht tiefe Diskussionen jedes Mal, aber bewusstes Zuhören bei dem, was der andere mitteilt."
+  - question: "Was mache ich, wenn ich während des Zuhörens merke, dass ich unrecht habe?"
+    answer: "Sag es ehrlich:"
+  - question: "Ist aktives Zuhören nicht anstrengend?"
+    answer: "Am Anfang ja. Es ist eine neue Fähigkeit. Aber je öfter du es übst, desto natürlicher wird es. Und am Ende ist es viel weniger anstrengend als ständige Missverständnisse und Konflikte."
 ---
 ## Aktives Zuhören üben: Besser verstehen in 7 Schritten
 

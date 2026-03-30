@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - "{'question': 'Was ist das sicherste Zeichen dass mein Date Interesse hat?', 'answer': 'Konsistenter Augenkontakt kombiniert mit echtem Lächeln (Duchenne-Lächeln, bei dem sich auch die Augen verengen). Wenn jemand dich häufig ansieht und dabei lächelt, ist das Interesse sehr wahrscheinlich.'}"
-  - "{'question': 'Was bedeutet es wenn mein Date die Arme verschränkt?', 'answer': 'Nicht automatisch Ablehnung! Manche Menschen frieren, fühlen sich unsicher oder haben einfach eine Gewohnheit. Achte auf den Gesamtkontext: Ist die Person ansonsten zugewandt, lacht sie, stellt sie Fragen?'}"
-  - "{'question': 'Kann man Körpersprache faken?', 'answer': 'Einzelne Gesten ja, aber nicht das Gesamtbild. Echtes Interesse zeigt sich in Mikro-Expressionen (die nur Bruchteile von Sekunden dauern), Pupillenerweiterung und unbewusster Synchronisation — das kann man nicht kontrollieren.'}"
-  - "{'question': 'Wie zeige ich selbst Interesse durch Körpersprache?', 'answer': 'Offene Haltung, leicht nach vorne lehnen, Blickkontakt halten (aber nicht starren), die Füße zur Person richten, Berührung am Arm bei einem Lacher. Die wichtigste Regel: Sei präsent und steck dein Handy weg.'}"
+  - question: "Was ist das sicherste Zeichen dass mein Date Interesse hat?"
+    answer: "Konsistenter Augenkontakt kombiniert mit echtem Lächeln (Duchenne-Lächeln, bei dem sich auch die Augen verengen). Wenn jemand dich häufig ansieht und dabei lächelt, ist das Interesse sehr wahrscheinlich."
+  - question: "Was bedeutet es wenn mein Date die Arme verschränkt?"
+    answer: "Nicht automatisch Ablehnung! Manche Menschen frieren, fühlen sich unsicher oder haben einfach eine Gewohnheit. Achte auf den Gesamtkontext: Ist die Person ansonsten zugewandt, lacht sie, stellt sie Fragen?"
+  - question: "Kann man Körpersprache faken?"
+    answer: "Einzelne Gesten ja, aber nicht das Gesamtbild. Echtes Interesse zeigt sich in Mikro-Expressionen (die nur Bruchteile von Sekunden dauern), Pupillenerweiterung und unbewusster Synchronisation — das kann man nicht kontrollieren."
+  - question: "Wie zeige ich selbst Interesse durch Körpersprache?"
+    answer: "Offene Haltung, leicht nach vorne lehnen, Blickkontakt halten (aber nicht starren), die Füße zur Person richten, Berührung am Arm bei einem Lacher. Die wichtigste Regel: Sei präsent und steck dein Handy weg."
 ---
 
 **Du sitzt beim Date und fragst dich ständig: "Interessiert sich diese Person wirklich für mich?"** Das ist eine der schwierigsten Fragen beim Dating. Aber hier ist die gute Nachricht: Der menschliche Körper lügt nicht. Während dein Date möglicherweise mit Worten lügen kann, die Körpersprache ist meist ehrlich.

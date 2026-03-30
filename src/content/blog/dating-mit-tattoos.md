@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/dating-mit-tattoos.webp"
 imageAlt: "Tätowierte Person beim lockeren Date im Café"
 faq:
-  - "{'question': 'Finden die meisten Menschen Tattoos attraktiv?', 'answer': 'Die Meinungen sind gespalten. Manche finden Tattoos extrem anziehend, andere mögen sie gar nicht. Am Ende zählt die Person dahinter – Tattoos sind ein Aspekt, nicht das Gesamtbild.'}"
-  - "{'question': 'Sollte ich meine Tattoos auf Dating-Fotos zeigen?', 'answer': 'Ja. Deine Tattoos gehören zu dir. Zeig sie auf den Fotos, damit es keine Überraschung beim ersten Date gibt. Wer damit ein Problem hat, ist eh der falsche Match.'}"
-  - "{'question': 'Wie gehe ich mit negativen Kommentaren zu meinen Tattoos um?', 'answer': 'Selbstbewusst. Dein Körper, deine Entscheidung. Wer deine Tattoos kommentiert, ohne gefragt zu werden, überschreitet eine Grenze – unabhängig davon, ob der Kommentar positiv oder negativ ist.'}"
+  - question: "Finden die meisten Menschen Tattoos attraktiv?"
+    answer: "Die Meinungen sind gespalten. Manche finden Tattoos extrem anziehend, andere mögen sie gar nicht. Am Ende zählt die Person dahinter – Tattoos sind ein Aspekt, nicht das Gesamtbild."
+  - question: "Sollte ich meine Tattoos auf Dating-Fotos zeigen?"
+    answer: "Ja. Deine Tattoos gehören zu dir. Zeig sie auf den Fotos, damit es keine Überraschung beim ersten Date gibt. Wer damit ein Problem hat, ist eh der falsche Match."
+  - question: "Wie gehe ich mit negativen Kommentaren zu meinen Tattoos um?"
+    answer: "Selbstbewusst. Dein Körper, deine Entscheidung. Wer deine Tattoos kommentiert, ohne gefragt zu werden, überschreitet eine Grenze – unabhängig davon, ob der Kommentar positiv oder negativ ist."
 ---
 ## Tinte unter der Haut, Meinungen im Überfluss: Tattoos und ihre Rolle beim Dating
 

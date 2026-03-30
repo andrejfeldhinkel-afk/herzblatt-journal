@@ -14,10 +14,14 @@ draft: false
 image: "/images/photos/selbstliebe-dating.webp"
 imageAlt: "Illustration Selbstliebe"
 faq:
-  - "{'question': 'Kann man Liebe finden ohne sich selbst zu lieben?', 'answer': 'Theoretisch ja, aber es wird schwierig. Ohne Selbstliebe neigst du zu toxischen Beziehungen und verlierst dich selbst. Selbstliebe ist die Grundlage für gesunde Liebe.'}"
-  - "{'question': 'Wie baue ich Selbstwertgefühl vor dem Dating auf?', 'answer': 'Praktiziere Selbstmitgefühl, setze Grenzen, führe ein Dankbarkeitstagebuch, und verdanke dich selbst kleine Erfolge. Therapeutische Hilfe kann auch sehr wertvoll sein.'}"
-  - "{'question': 'Ist es okay, single zu sein?', 'answer': "Ja, absolut. Single-Sein ist nicht ein Fehler oder etwas zu 'Fixieren'. Es ist eine Gelegenheit, dich selbst zu entdecken und echte Selbstliebe zu entwickeln."}"
-  - "{'question': 'Wie erkenne ich, dass ich mich selbst liebe?', 'answer': 'Du akzeptierst deine Unvollkommenheiten, setzt Grenzen ohne Schuldgefühle, verhandelst nicht über deine Standards, und wählst Beziehungen statt sie zu brauchen.'}"
+  - question: "Kann man Liebe finden ohne sich selbst zu lieben?"
+    answer: "Theoretisch ja, aber es wird schwierig. Ohne Selbstliebe neigst du zu toxischen Beziehungen und verlierst dich selbst. Selbstliebe ist die Grundlage für gesunde Liebe."
+  - question: "Wie baue ich Selbstwertgefühl vor dem Dating auf?"
+    answer: "Praktiziere Selbstmitgefühl, setze Grenzen, führe ein Dankbarkeitstagebuch, und verdanke dich selbst kleine Erfolge. Therapeutische Hilfe kann auch sehr wertvoll sein."
+  - question: "Ist es okay, single zu sein?"
+    answer: "Ja, absolut. Single-Sein ist nicht ein Fehler oder etwas zu"
+  - question: "Wie erkenne ich, dass ich mich selbst liebe?"
+    answer: "Du akzeptierst deine Unvollkommenheiten, setzt Grenzen ohne Schuldgefühle, verhandelst nicht über deine Standards, und wählst Beziehungen statt sie zu brauchen."
 ---## Selbstliebe: Der Grundstein für Dating-Erfolg
 
 Das kennt jeder: Du sitzt auf einem Date und möchtest beeindrucken. Du versteckst deine echte Persönlichkeit, fragst ständig den anderen aus, während du über dich selbst lügst. Warum? Weil du unbewusst denkst, dass du nicht „genug" bist. Das ist das größte Dating-Hindernis überhaupt.

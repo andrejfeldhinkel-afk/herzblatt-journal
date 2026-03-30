@@ -16,11 +16,16 @@ keywords:
   - "Beziehung"
   - "Geheimnis"
 faq:
-  - "{'question': 'Was ist der Unterschied zwischen Privatsphäre und Geheimnis?', 'answer': "Privatsphäre ist Informationen, die du bewusst für dich behältst — wie dein Passwort, deine Gedanken im Tagebuch, oder Gespräche mit einem Therapeuten. Es ist nicht böse oder versteckt; es ist einfach dein persönlicher Raum. Geheimnis ist etwas, das du bewusst verbirgst, weil es schadet oder betrogen ist. Ein Geheimnis ist: 'Ich sehe jemanden hinter deinem Rücken.' Privatsphäre ist: 'Ich habe ein Tagebuch, und das ist meins.'"}"
-  - "{'question': 'Ist es okay, das Handy-Passwort nicht mit deinem Partner zu teilen?', 'answer': 'Ja, absolut. Dein Handy ist dein persönliches Gerät. Es gibt privaten Raum für deine Gedanken, deine Fotos, deine Kommunikationen. Auch in einer Beziehung brauchst du Privatsphäre. Gegenseitiges Vertrauen bedeutet nicht, dass dein Partner jede Konversation lesen kann. Eine gesunde Beziehung respektiert diese Grenzen.'}"
-  - "{'question': 'Sollte man den Partner sagen, wenn man mit Ex-Partnern spricht?', 'answer': "Das hängt vom Kontext ab. Wenn es eine flüchtige Nachricht ist ('Hey, wie geht es?'), musst du es nicht unbedingt sagen, es sei denn, du hältst es bewusst versteckt. Aber wenn du eine laufende emotionale Verbindung mit einem Ex hast, dann ja — dein Partner sollte das wissen, damit es transparent ist. Transparenz ist nicht das gleiche wie Privatsphäre."}"
-  - "{'question': 'Wie viel Alleinzeit ist normal in einer Beziehung?', 'answer': "Das variiert je nach Paar. Einige Paare sind ständig zusammen. Andere brauchen mehrere Stunden pro Woche alleine. Es gibt keine 'Nummer', die richtig ist. Das Wichtigste ist, dass beide Partner sich einig sind und dass niemand sich einsam oder verstoßen fühlt. Manche Menschen sind introvertiert und brauchen Alleinzeit zum Aufladen. Das ist normal und gesund."}"
-  - "{'question': 'Was sind Red Flags bei der Privatsphäre in Beziehungen?', 'answer': 'Red Flags sind: Dein Partner verbietet dir, Freunde zu sehen. Dein Partner will alle deine Passwörter kennen und überprüft dein Handy regelmäßig. Dein Partner wird wütend, wenn du nicht sofort antwortest. Dein Partner isoliert dich von Familie und Freunden. Diese Verhaltensweisen sind nicht von Eifersucht; das ist Kontrolle und Missbrauch.'}"
+  - question: "Was ist der Unterschied zwischen Privatsphäre und Geheimnis?"
+    answer: "Privatsphäre ist Informationen, die du bewusst für dich behältst — wie dein Passwort, deine Gedanken im Tagebuch, oder Gespräche mit einem Therapeuten. Es ist nicht böse oder versteckt; es ist einfach dein persönlicher Raum. Geheimnis ist etwas, das du bewusst verbirgst, weil es schadet oder betrogen ist. Ein Geheimnis ist:"
+  - question: "Ist es okay, das Handy-Passwort nicht mit deinem Partner zu teilen?"
+    answer: "Ja, absolut. Dein Handy ist dein persönliches Gerät. Es gibt privaten Raum für deine Gedanken, deine Fotos, deine Kommunikationen. Auch in einer Beziehung brauchst du Privatsphäre. Gegenseitiges Vertrauen bedeutet nicht, dass dein Partner jede Konversation lesen kann. Eine gesunde Beziehung respektiert diese Grenzen."
+  - question: "Sollte man den Partner sagen, wenn man mit Ex-Partnern spricht?"
+    answer: "Das hängt vom Kontext ab. Wenn es eine flüchtige Nachricht ist ("
+  - question: "Wie viel Alleinzeit ist normal in einer Beziehung?"
+    answer: "Das variiert je nach Paar. Einige Paare sind ständig zusammen. Andere brauchen mehrere Stunden pro Woche alleine. Es gibt keine"
+  - question: "Was sind Red Flags bei der Privatsphäre in Beziehungen?"
+    answer: "Red Flags sind: Dein Partner verbietet dir, Freunde zu sehen. Dein Partner will alle deine Passwörter kennen und überprüft dein Handy regelmäßig. Dein Partner wird wütend, wenn du nicht sofort antwortest. Dein Partner isoliert dich von Familie und Freunden. Diese Verhaltensweisen sind nicht von Eifersucht; das ist Kontrolle und Missbrauch."
 ---
 ## Was ist Privatsphäre wirklich?
 

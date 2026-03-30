@@ -16,9 +16,12 @@ draft: false
 image: "/images/photos/dating-psychologie.webp"
 imageAlt: "Verliebtes Paar das sich ansieht"
 faq:
-  - "{'question': 'Was macht einen Menschen wirklich attraktiv?', 'answer': 'Forschung zeigt, dass Attraktivität weit über Äußerlichkeiten hinausgeht. Die wichtigsten Faktoren sind: Selbstbewusstsein, Humor, emotionale Intelligenz, Authentizität und Freundlichkeit. Äußere Attraktivität spielt zwar initial eine Rolle, verliert aber schnell an Bedeutung zugunsten von Persönlichkeit und Charakter.'}"
-  - "{'question': 'Gibt es eine Formel für Anziehung?', 'answer': 'Die Wissenschaft hat tatsächlich Muster identifiziert: Nähe (Proximity-Effekt), Ähnlichkeit (Similarity-Attraction), Gegenseitigkeit (Reciprocity) und Mysteriösität (Gain-Loss-Theorie) sind die vier Hauptfaktoren. Dazu kommen individuelle Prägungen durch Kindheit und frühere Beziehungen.'}"
-  - "{'question': 'Warum verlieben wir uns in die falschen Menschen?', 'answer': 'Oft verwechseln wir Aufregung mit Anziehung (Misattribution of Arousal). Außerdem suchen wir unbewusst nach vertrauten Mustern — auch wenn diese toxisch sind. Wer beispielsweise emotional unerreichbare Eltern hatte, fühlt sich oft zu emotional distanzierten Partnern hingezogen.'}"
+  - question: "Was macht einen Menschen wirklich attraktiv?"
+    answer: "Forschung zeigt, dass Attraktivität weit über Äußerlichkeiten hinausgeht. Die wichtigsten Faktoren sind: Selbstbewusstsein, Humor, emotionale Intelligenz, Authentizität und Freundlichkeit. Äußere Attraktivität spielt zwar initial eine Rolle, verliert aber schnell an Bedeutung zugunsten von Persönlichkeit und Charakter."
+  - question: "Gibt es eine Formel für Anziehung?"
+    answer: "Die Wissenschaft hat tatsächlich Muster identifiziert: Nähe (Proximity-Effekt), Ähnlichkeit (Similarity-Attraction), Gegenseitigkeit (Reciprocity) und Mysteriösität (Gain-Loss-Theorie) sind die vier Hauptfaktoren. Dazu kommen individuelle Prägungen durch Kindheit und frühere Beziehungen."
+  - question: "Warum verlieben wir uns in die falschen Menschen?"
+    answer: "Oft verwechseln wir Aufregung mit Anziehung (Misattribution of Arousal). Außerdem suchen wir unbewusst nach vertrauten Mustern — auch wenn diese toxisch sind. Wer beispielsweise emotional unerreichbare Eltern hatte, fühlt sich oft zu emotional distanzierten Partnern hingezogen."
 ---
 
 Du fragst dich, wie [psychologie](/blog/aengstlicher-bindungsstil-heilen/) dein Leben beeinflussen kann? Die Antwort ist einfacher als du denkst. In diesem Artikel zeigen wir dir, worauf es wirklich ankommt.

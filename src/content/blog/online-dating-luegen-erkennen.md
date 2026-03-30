@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Was sind die häufigsten Lügen auf Dating-Apps?', 'answer': 'Die Top 5 sind: Alter (meistens 2-5 Jahre jünger), Größe (2-5 cm dazu), veraltete Fotos (3+ Jahre alt), Beziehungsstatus (nicht wirklich single) und Beruf (aufgebauscht oder erfunden).'}"
-  - "{'question': 'Wie erkenne ich Fake-Profile auf Dating-Apps?', 'answer': 'Achte auf: nur professionelle Model-Fotos, sehr wenig Profiltext, sofortige intensive Nachrichten, Ausweichen bei Video-Calls, widersprüchliche Angaben und Druck, schnell die App zu verlassen.'}"
-  - "{'question': 'Soll ich jemanden konfrontieren wenn ich eine Lüge entdecke?', 'answer': 'Das kommt auf die Lüge an. Kleine Schönheitskorrektionen (leicht ältere Fotos) kannst du beim Date ansprechen. Bei großen Lügen (verheiratet, komplett falsches Profil) ist es besser, den Kontakt zu beenden und die Person zu melden.'}"
-  - "{'question': 'Wie ehrlich sollte ich selbst in meinem Profil sein?', 'answer': 'So ehrlich wie möglich. Kleine Optimierungen bei Fotos sind normal, aber dein Date sollte dich wiedererkennen. Ehrlichkeit baut Vertrauen auf und filtert die richtigen Menschen für dich.'}"
+  - question: "Was sind die häufigsten Lügen auf Dating-Apps?"
+    answer: "Die Top 5 sind: Alter (meistens 2-5 Jahre jünger), Größe (2-5 cm dazu), veraltete Fotos (3+ Jahre alt), Beziehungsstatus (nicht wirklich single) und Beruf (aufgebauscht oder erfunden)."
+  - question: "Wie erkenne ich Fake-Profile auf Dating-Apps?"
+    answer: "Achte auf: nur professionelle Model-Fotos, sehr wenig Profiltext, sofortige intensive Nachrichten, Ausweichen bei Video-Calls, widersprüchliche Angaben und Druck, schnell die App zu verlassen."
+  - question: "Soll ich jemanden konfrontieren wenn ich eine Lüge entdecke?"
+    answer: "Das kommt auf die Lüge an. Kleine Schönheitskorrektionen (leicht ältere Fotos) kannst du beim Date ansprechen. Bei großen Lügen (verheiratet, komplett falsches Profil) ist es besser, den Kontakt zu beenden und die Person zu melden."
+  - question: "Wie ehrlich sollte ich selbst in meinem Profil sein?"
+    answer: "So ehrlich wie möglich. Kleine Optimierungen bei Fotos sind normal, aber dein Date sollte dich wiedererkennen. Ehrlichkeit baut Vertrauen auf und filtert die richtigen Menschen für dich."
 ---
 
 Die wenigsten Menschen werden beim Online-Dating vollkommen ehrlich sein. Studien zeigen, dass etwa zwei Drittel aller Singles online lügen, zumindest bei kleineren Details. Doch während kleine Übertreibungen normal sind, gibt es auch Menschen, die bei Online-Dating-Lügen deutlich über die Linie gehen. Manche erfinden völlig neue Persönlichkeiten, andere nutzen das Dating für Betrug.

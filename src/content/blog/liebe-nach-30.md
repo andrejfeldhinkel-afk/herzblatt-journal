@@ -13,10 +13,14 @@ draft: false
 image: "/images/photos/liebe-nach-30.webp"
 imageAlt: "Illustration Dating ab 30"
 faq:
-  - "{'question': 'Ist es zu spät, eine Beziehung nach 30 zu finden?', 'answer': 'Überhaupt nicht. Mit 30 kennst du dich besser und weißt, was du willst. Viele Menschen finden ihre beste Beziehung nach 30, nicht davor.'}"
-  - "{'question': 'Warum haben ältere Singles weniger Optionen beim Dating?', 'answer': 'Das ist oft ein Selbstlüge. Es gibt weniger verfügbare Menschen, aber die verfügbaren sind oft reifer und ernsthafter. Qualität über Quantität.'}"
-  - "{'question': 'Sollte ich meine Anforderungen an einen Partner senken?', 'answer': 'Nein. Mit 30+ solltest du WÄHLERISCHER sein, nicht weniger. Du weißt jetzt, was du brauchst. Akzeptiere nur echte Kompatibilität.'}"
-  - "{'question': 'Wie überwinde ich die Angst, zu alt zu sein zum Daten?', 'answer': 'Erkenne, dass deine Reife ein Vorteil ist. Arbeite an deinem Selbstwertgefühl und Selbstliebe. Menschen, die dich für dein Alter schätzen, sind die richtigen.'}"
+  - question: "Ist es zu spät, eine Beziehung nach 30 zu finden?"
+    answer: "Überhaupt nicht. Mit 30 kennst du dich besser und weißt, was du willst. Viele Menschen finden ihre beste Beziehung nach 30, nicht davor."
+  - question: "Warum haben ältere Singles weniger Optionen beim Dating?"
+    answer: "Das ist oft ein Selbstlüge. Es gibt weniger verfügbare Menschen, aber die verfügbaren sind oft reifer und ernsthafter. Qualität über Quantität."
+  - question: "Sollte ich meine Anforderungen an einen Partner senken?"
+    answer: "Nein. Mit 30+ solltest du WÄHLERISCHER sein, nicht weniger. Du weißt jetzt, was du brauchst. Akzeptiere nur echte Kompatibilität."
+  - question: "Wie überwinde ich die Angst, zu alt zu sein zum Daten?"
+    answer: "Erkenne, dass deine Reife ein Vorteil ist. Arbeite an deinem Selbstwertgefühl und Selbstliebe. Menschen, die dich für dein Alter schätzen, sind die richtigen."
 ---
 ## Die 30 sind kein Ablaufdatum
 

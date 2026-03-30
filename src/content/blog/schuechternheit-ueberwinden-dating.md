@@ -15,9 +15,12 @@ draft: false
 image: "/images/photos/schuechternheit-dating.webp"
 imageAlt: "Schüchternes Lächeln beim Date"
 faq:
-  - "{'question': 'Kann man trotz Schüchternheit erfolgreich daten?', 'answer': 'Absolut! Schüchternheit ist kein Hindernis, sondern kann sogar ein Vorteil sein. Schüchterne Menschen gelten oft als aufmerksam, nachdenklich und authentisch — Eigenschaften, die viele Partner attraktiv finden. Es geht nicht darum, deine Persönlichkeit zu ändern, sondern Strategien zu entwickeln, mit denen du dich wohlfühlst.'}"
-  - "{'question': 'Wie fange ich ein Gespräch an wenn ich schüchtern bin?', 'answer': 'Starte mit situationsbezogenen Kommentaren statt mit einem perfekten Spruch. Frag nach einer Empfehlung, kommentiere die Umgebung, oder stell eine einfache Frage. Das nimmt den Druck raus. Bereite auch 2-3 Gesprächsthemen vor, die dir Sicherheit geben.'}"
-  - "{'question': 'Ist Schüchternheit ein Dealbreaker beim Dating?', 'answer': 'Im Gegenteil — viele Menschen finden Schüchternheit charmant und anziehend. Eine Studie zeigt, dass schüchterne Menschen als vertrauenswürdiger wahrgenommen werden. Wichtig ist nur, dass du trotz Schüchternheit Interesse zeigst und nicht komplett verschlossen wirkst'}"
+  - question: "Kann man trotz Schüchternheit erfolgreich daten?"
+    answer: "Absolut! Schüchternheit ist kein Hindernis, sondern kann sogar ein Vorteil sein. Schüchterne Menschen gelten oft als aufmerksam, nachdenklich und authentisch — Eigenschaften, die viele Partner attraktiv finden. Es geht nicht darum, deine Persönlichkeit zu ändern, sondern Strategien zu entwickeln, mit denen du dich wohlfühlst."
+  - question: "Wie fange ich ein Gespräch an wenn ich schüchtern bin?"
+    answer: "Starte mit situationsbezogenen Kommentaren statt mit einem perfekten Spruch. Frag nach einer Empfehlung, kommentiere die Umgebung, oder stell eine einfache Frage. Das nimmt den Druck raus. Bereite auch 2-3 Gesprächsthemen vor, die dir Sicherheit geben."
+  - question: "Ist Schüchternheit ein Dealbreaker beim Dating?"
+    answer: "Im Gegenteil — viele Menschen finden Schüchternheit charmant und anziehend. Eine Studie zeigt, dass schüchterne Menschen als vertrauenswürdiger wahrgenommen werden. Wichtig ist nur, dass du trotz Schüchternheit Interesse zeigst und nicht komplett verschlossen wirkst"
 ---
 ## Einleitung: Schüchternheit ist keine Schwäche
 

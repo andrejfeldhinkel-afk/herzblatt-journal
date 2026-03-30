@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/dating-nach-langzeitbeziehung.webp"
 imageAlt: "Person mit neuem Selbstbewusstsein auf dem Weg zum Date"
 faq:
-  - "{'question': 'Wie lange sollte ich nach einer Langzeitbeziehung warten, bevor ich date?', 'answer': 'Es gibt keine feste Regel. Manche brauchen Monate, andere ein Jahr. Entscheidend ist, ob du emotional bereit bist – nicht wie viel Zeit vergangen ist.'}"
-  - "{'question': 'Wie gehe ich damit um, dass sich Dating so verändert hat?', 'answer': 'Nimm dir Zeit, die Apps kennenzulernen. Frag Freunde um Rat. Und sei geduldig mit dir – es ist normal, dass sich alles erstmal fremd anfühlt.'}"
-  - "{'question': 'Was mache ich, wenn ich mich ständig mit meinem Ex vergleiche?', 'answer': 'Vergleiche sind normal, aber versuche sie bewusst loszulassen. Neue Menschen verdienen eine faire Chance, ohne am Maßstab deiner Ex gemessen zu werden.'}"
+  - question: "Wie lange sollte ich nach einer Langzeitbeziehung warten, bevor ich date?"
+    answer: "Es gibt keine feste Regel. Manche brauchen Monate, andere ein Jahr. Entscheidend ist, ob du emotional bereit bist – nicht wie viel Zeit vergangen ist."
+  - question: "Wie gehe ich damit um, dass sich Dating so verändert hat?"
+    answer: "Nimm dir Zeit, die Apps kennenzulernen. Frag Freunde um Rat. Und sei geduldig mit dir – es ist normal, dass sich alles erstmal fremd anfühlt."
+  - question: "Was mache ich, wenn ich mich ständig mit meinem Ex vergleiche?"
+    answer: "Vergleiche sind normal, aber versuche sie bewusst loszulassen. Neue Menschen verdienen eine faire Chance, ohne am Maßstab deiner Ex gemessen zu werden."
 ---
 ## Plötzlich wieder Single
 

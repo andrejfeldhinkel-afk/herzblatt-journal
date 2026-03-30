@@ -1,4 +1,15 @@
 ---
+title: "Social Media Grenzen in der Beziehung: Was ist okay, was nicht?"
+description: "Wie ihr gesunde Social-Media-Grenzen in eurer Beziehung setzt und Konflikte vermeidet"
+tags:
+  - "Beziehung"
+  - "Social Media"
+  - "Kommunikation"
+keywords:
+  - "social media beziehung"
+  - "grenzen setzen beziehung"
+  - "instagram beziehung"
+draft: false
 ---
 
 ## Social Media Grenzen in der beziehung: Was ist okay, was nicht?

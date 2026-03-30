@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - "{'question': 'Ist es creepy im Supermarkt zu flirten?', 'answer': 'Nur wenn du es creepy machst. Der Schlüssel ist, natürlich zu sein und die Situation zu lesen. Ein freundlicher Kommentar über ein Produkt ist völlig normal. Wenn die Person kein Interesse zeigt, akzeptiere es sofort und geh weiter.'}"
-  - "{'question': 'Wie fange ich ein Gespräch mit einem Fremden an?', 'answer': "Situative Kommentare funktionieren am besten: 'Die Schlange hier ist länger als mein Montag' oder 'Können Sie mir sagen ob das wirklich so gut ist wie alle sagen?' Leicht, kontextbezogen, mit einem Lächeln."}"
-  - "{'question': 'Wo lernt man am leichtesten neue Leute kennen?', 'answer': "Regelmäßige Aktivitäten wie Sportkurse, Sprachkurse oder Ehrenämter — überall wo du dieselben Menschen wiederholt triffst. Der 'Mere Exposure Effect' sorgt dafür, dass Vertrautheit Sympathie erzeugt."}"
-  - "{'question': 'Was mache ich wenn ich zu schüchtern zum Flirten bin?', 'answer': 'Fang klein an. Übe erstmal, Fremde nur anzulächeln. Dann kurze Kommentare. Dann Fragen. Flirten ist ein Muskel, der trainiert werden will. Nach 30 Tagen täglicher Mini-Übungen wirst du dich kaum wiedererkennen.'}"
+  - question: "Ist es creepy im Supermarkt zu flirten?"
+    answer: "Nur wenn du es creepy machst. Der Schlüssel ist, natürlich zu sein und die Situation zu lesen. Ein freundlicher Kommentar über ein Produkt ist völlig normal. Wenn die Person kein Interesse zeigt, akzeptiere es sofort und geh weiter."
+  - question: "Wie fange ich ein Gespräch mit einem Fremden an?"
+    answer: "Situative Kommentare funktionieren am besten:"
+  - question: "Wo lernt man am leichtesten neue Leute kennen?"
+    answer: "Regelmäßige Aktivitäten wie Sportkurse, Sprachkurse oder Ehrenämter — überall wo du dieselben Menschen wiederholt triffst. Der"
+  - question: "Was mache ich wenn ich zu schüchtern zum Flirten bin?"
+    answer: "Fang klein an. Übe erstmal, Fremde nur anzulächeln. Dann kurze Kommentare. Dann Fragen. Flirten ist ein Muskel, der trainiert werden will. Nach 30 Tagen täglicher Mini-Übungen wirst du dich kaum wiedererkennen."
 ---
 **Du fragst dich immer wieder: Wie lerne ich jemanden kennen, ohne mich bei noch einer Dating-App anzumelden?** Die ehrliche Antwort: Offline-Flirten ist nicht nur möglich, sondern oft deutlich natürlicher und erfolgreicher. Der Grund ist simpel — du triffst Menschen in ihrem echten Element, nicht hinter einem Filter oder einem sorgfältig kuratierten Profil.
 

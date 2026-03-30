@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Woran erkenne ich dass ich kontrollierend bin?', 'answer': 'Typische Zeichen: Du checkst das Handy deines Partners, fragst ständig wo er/sie ist, bestimmst Freundschaften, wirst unruhig wenn du nicht erreichbar bist, oder wertest die Entscheidungen des anderen ab. Wenn mehr als 3 dieser Punkte zutreffen, lohnt sich ein genauerer Blick.'}"
-  - "{'question': 'Warum bin ich so kontrollierend?', 'answer': "Kontrolle ist fast immer eine Angstreaktion. Dahinter steckt die Überzeugung: 'Wenn ich die Kontrolle verliere, passiert etwas Schlimmes.' Diese Angst hat meist Wurzeln in früheren Erfahrungen — Verlust, Betrug oder unberechenbarer Kindheit."}"
-  - "{'question': 'Kann mein Partner sich ändern wenn er kontrollierend ist?', 'answer': 'Ja, aber nur wenn er das Problem selbst erkennt und ändern WILL. Du kannst niemandem die Einsicht geben. Was du tun kannst: klare Grenzen setzen und konsequent bleiben. Wenn sich nichts ändert, schütze dich selbst.'}"
-  - "{'question': 'Ab wann ist Kontrolle in der Beziehung missbräuchlich?', 'answer': 'Wenn dein Partner dich isoliert, deine Finanzen kontrolliert, dich überwacht, einschüchtert oder bedroht. Das ist keine Beziehungsdynamik mehr — das ist Missbrauch. Hol dir sofort Hilfe.'}"
+  - question: "Woran erkenne ich dass ich kontrollierend bin?"
+    answer: "Typische Zeichen: Du checkst das Handy deines Partners, fragst ständig wo er/sie ist, bestimmst Freundschaften, wirst unruhig wenn du nicht erreichbar bist, oder wertest die Entscheidungen des anderen ab. Wenn mehr als 3 dieser Punkte zutreffen, lohnt sich ein genauerer Blick."
+  - question: "Warum bin ich so kontrollierend?"
+    answer: "Kontrolle ist fast immer eine Angstreaktion. Dahinter steckt die Überzeugung:"
+  - question: "Kann mein Partner sich ändern wenn er kontrollierend ist?"
+    answer: "Ja, aber nur wenn er das Problem selbst erkennt und ändern WILL. Du kannst niemandem die Einsicht geben. Was du tun kannst: klare Grenzen setzen und konsequent bleiben. Wenn sich nichts ändert, schütze dich selbst."
+  - question: "Ab wann ist Kontrolle in der Beziehung missbräuchlich?"
+    answer: "Wenn dein Partner dich isoliert, deine Finanzen kontrolliert, dich überwacht, einschüchtert oder bedroht. Das ist keine Beziehungsdynamik mehr — das ist Missbrauch. Hol dir sofort Hilfe."
 ---
 
 Du merkst dass dein Partner eine Nachricht von einem Freund erhalten hat und du wirst sofort nervös. Wer? Was wollte er oder sie? Warum hat dein Partner nicht erzählt?

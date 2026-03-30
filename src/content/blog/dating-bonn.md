@@ -14,9 +14,12 @@ draft: false
 image: "/images/photos/dating-bonn.webp"
 imageAlt: "Bonn"
 faq:
-  - "{'question': 'Wo lernt man in Bonn Singles kennen?', 'answer': 'Die beste Single-Szene findest du in der Altstadt (Marktplatz, Weinstrasse), der Südstadt (trendige Bars) und in Poppelsdorf (Uni-Viertel). Das Rheinaue-Park ist großartig für Spaziergänge, und der Drachenfels bietet Ausflüge mit Ausblick.'}"
-  - "{'question': 'Was sind die besten Date-Ideen in Bonn?', 'answer': 'Klassisch: Spaziergang mit Rhein-Blick. Kulturell: Kunstmuseen und Bonner Kunstausstellungen. Aktiv: Klettertour zum Drachenfels oder Fahrrad-Tour ins Siebengebirge. Gemütlich: Kaffee in der Altstadt oder Weinstube in Poppelsdorf. Romantisch: Picknick im Rheinaue-Park.'}"
-  - "{'question': 'Gibt es eine gute Single-Szene in Bonn?', 'answer': 'Sehr gute! Bonn ist eine Uni-Stadt mit vielen jungen, intellektuellen Singles. Die Szene ist lebendig, progressiv und offen. Die Altstadt und die Südstadt sind bekannt für ihr reges Nachtleben und ihre Dating-Kultur. Klein genug, um nicht anonym zu sein, groß genug für Vielfalt.'}"
+  - question: "Wo lernt man in Bonn Singles kennen?"
+    answer: "Die beste Single-Szene findest du in der Altstadt (Marktplatz, Weinstrasse), der Südstadt (trendige Bars) und in Poppelsdorf (Uni-Viertel). Das Rheinaue-Park ist großartig für Spaziergänge, und der Drachenfels bietet Ausflüge mit Ausblick."
+  - question: "Was sind die besten Date-Ideen in Bonn?"
+    answer: "Klassisch: Spaziergang mit Rhein-Blick. Kulturell: Kunstmuseen und Bonner Kunstausstellungen. Aktiv: Klettertour zum Drachenfels oder Fahrrad-Tour ins Siebengebirge. Gemütlich: Kaffee in der Altstadt oder Weinstube in Poppelsdorf. Romantisch: Picknick im Rheinaue-Park."
+  - question: "Gibt es eine gute Single-Szene in Bonn?"
+    answer: "Sehr gute! Bonn ist eine Uni-Stadt mit vielen jungen, intellektuellen Singles. Die Szene ist lebendig, progressiv und offen. Die Altstadt und die Südstadt sind bekannt für ihr reges Nachtleben und ihre Dating-Kultur. Klein genug, um nicht anonym zu sein, groß genug für Vielfalt."
 ---
 ## dating in Bonn: Uni-Flair und Rhein-Romantik
 

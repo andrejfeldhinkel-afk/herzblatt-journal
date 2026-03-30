@@ -15,10 +15,14 @@ keywords:
 draft: false
 featured: false
 faq:
-  - "{'question': 'Müssen Paare die gleichen Hobbys haben?', 'answer': 'Nein. Es ist sogar gesund, unterschiedliche Interessen zu haben. Wichtig ist, Zeit für gemeinsame Aktivitäten zu finden, bei denen ihr beide Spaß habt.'}"
-  - "{'question': 'Wie finde ich ein Hobby, das uns beiden gefällt?', 'answer': 'Experimentiert zusammen! Probiert verschiedene Aktivitäten aus und schaut, wo ihr euch beide wiedererkennt. Manchmal liegt die beste Aktivität dazwischen.'}"
-  - "{'question': 'Warum brauchen Paare gemeinsame Hobbys?', 'answer': 'Sie schaffen Qualitätszeit, verstärken Bindung und geben euch etwas Gemeinsames, worauf ihr euch freuen könnt. Sie halten die Beziehung frisch und verbunden.'}"
-  - "{'question': 'Was tun, wenn sich unser gemeinsames Hobby langweilig wird?', 'answer': 'Nicht alles bleibt für immer interessant. Es ist OK, neue Hobbys zu testen. Die beste Beziehung hat mehrere gemeinsame Aktivitäten, nicht nur eine.'}"
+  - question: "Müssen Paare die gleichen Hobbys haben?"
+    answer: "Nein. Es ist sogar gesund, unterschiedliche Interessen zu haben. Wichtig ist, Zeit für gemeinsame Aktivitäten zu finden, bei denen ihr beide Spaß habt."
+  - question: "Wie finde ich ein Hobby, das uns beiden gefällt?"
+    answer: "Experimentiert zusammen! Probiert verschiedene Aktivitäten aus und schaut, wo ihr euch beide wiedererkennt. Manchmal liegt die beste Aktivität dazwischen."
+  - question: "Warum brauchen Paare gemeinsame Hobbys?"
+    answer: "Sie schaffen Qualitätszeit, verstärken Bindung und geben euch etwas Gemeinsames, worauf ihr euch freuen könnt. Sie halten die Beziehung frisch und verbunden."
+  - question: "Was tun, wenn sich unser gemeinsames Hobby langweilig wird?"
+    answer: "Nicht alles bleibt für immer interessant. Es ist OK, neue Hobbys zu testen. Die beste Beziehung hat mehrere gemeinsame Aktivitäten, nicht nur eine."
 ---
 Eine der besten Investitionen in eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) ist Zeit – Zeit, die ihr zusammen verbringt, gemeinsame Erlebnisse schafft und Erinnerungen sammelt. Gemeinsame Hobbys sind mehr als nur Freizeitbeschäftigung. Sie sind der Leim, der Paare zusammenhält. Sie schaffen Raum für Lachen, Lernen, gegenseitige Unterstützung und tiefe Verbindung.
 

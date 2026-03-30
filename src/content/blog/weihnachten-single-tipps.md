@@ -13,8 +13,10 @@ draft: false
 image: "/images/photos/winter-date-ideen.webp"
 imageAlt: "Single an Weihnachten? So genießt du die Feiertage"
 faq:
-  - "{'question': 'Was ist das Wichtigste bei single an weihnachten? so genießt du die feiertage trotzdem?', 'answer': 'Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst.'}"
-  - "{'question': 'Wo finde ich Hilfe zum Thema single an weihnachten? so genießt du die feiertage trotzdem?', 'answer': 'Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung.'}"
+  - question: "Was ist das Wichtigste bei single an weihnachten? so genießt du die feiertage trotzdem?"
+    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
+  - question: "Wo finde ich Hilfe zum Thema single an weihnachten? so genießt du die feiertage trotzdem?"
+    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
 ---
 ## Weihnachten ohne partner: So machst du das Beste aus der Zeit
 

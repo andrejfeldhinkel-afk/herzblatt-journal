@@ -15,11 +15,16 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Was ist emotionale Intelligenz und warum ist sie in Beziehungen so wichtig?', 'answer': 'Emotionale Intelligenz ist die Fähigkeit, die eigenen Gefühle und die anderer Menschen zu verstehen und damit konstruktiv umzugehen. In Beziehungen ist sie der Schlüssel zu echter Intimität, besserer Konfliktlösung und tieferer emotionaler Verbindung.'}"
-  - "{'question': 'Kann man emotionale Intelligenz trainieren?', 'answer': 'Ja, absolut. Emotionale Intelligenz ist eine Fähigkeit, die man entwickeln kann. Mit regelmäßiger Übung, Selbstreflexion und Bewusstsein kannst du dein EQ Jahr für Jahr verbessern.'}"
-  - "{'question': 'Wie erkenne ich, dass mein Partner niedriges EQ hat?', 'answer': 'Anzeichen sind Schwierigkeiten, Gefühle auszudrücken, Mangel an Empathie, schnelle Wutausbrüche, Unfähigkeit zum Zuhören und Schwierigkeiten beim Perspektivwechsel.'}"
-  - "{'question': 'Was ist der Unterschied zwischen IQ und EQ?', 'answer': 'IQ misst logisches und analytisches Denken. EQ misst die Fähigkeit, Gefühle zu verstehen und zu managen. Für glückliche Beziehungen ist EQ oft wichtiger als IQ.'}"
-  - "{'question': 'Können zwei Menschen mit unterschiedlichem EQ zusammen glücklich sein?', 'answer': 'Ja, aber der Partner mit höherem EQ muss bereit sein, den anderen zu unterstützen und zu lehren. Der Partner mit niedrigerem EQ muss wiederum offen für Veränderung sein.'}"
+  - question: "Was ist emotionale Intelligenz und warum ist sie in Beziehungen so wichtig?"
+    answer: "Emotionale Intelligenz ist die Fähigkeit, die eigenen Gefühle und die anderer Menschen zu verstehen und damit konstruktiv umzugehen. In Beziehungen ist sie der Schlüssel zu echter Intimität, besserer Konfliktlösung und tieferer emotionaler Verbindung."
+  - question: "Kann man emotionale Intelligenz trainieren?"
+    answer: "Ja, absolut. Emotionale Intelligenz ist eine Fähigkeit, die man entwickeln kann. Mit regelmäßiger Übung, Selbstreflexion und Bewusstsein kannst du dein EQ Jahr für Jahr verbessern."
+  - question: "Wie erkenne ich, dass mein Partner niedriges EQ hat?"
+    answer: "Anzeichen sind Schwierigkeiten, Gefühle auszudrücken, Mangel an Empathie, schnelle Wutausbrüche, Unfähigkeit zum Zuhören und Schwierigkeiten beim Perspektivwechsel."
+  - question: "Was ist der Unterschied zwischen IQ und EQ?"
+    answer: "IQ misst logisches und analytisches Denken. EQ misst die Fähigkeit, Gefühle zu verstehen und zu managen. Für glückliche Beziehungen ist EQ oft wichtiger als IQ."
+  - question: "Können zwei Menschen mit unterschiedlichem EQ zusammen glücklich sein?"
+    answer: "Ja, aber der Partner mit höherem EQ muss bereit sein, den anderen zu unterstützen und zu lehren. Der Partner mit niedrigerem EQ muss wiederum offen für Veränderung sein."
 ---
 Emotionale Intelligenz in Beziehungen: Der Schlüssel zu einer glücklichen Partnerschaft
 

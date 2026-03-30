@@ -18,11 +18,16 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Ist sexuelle Langeweile ein Zeichen, dass die Liebe vorbei ist?', 'answer': 'Nein. Sexuelle Routine ist tatsächlich ein Zeichen einer stabilen, langfristigen Beziehung. Das Problem ist nicht die Routine selbst — es ist, wenn du sie nicht bewusst gestaltest. Liebe und Sexualität können zusammen wachsen.'}"
-  - "{'question': 'Ist es normal, nach ein paar Jahren Sex langweilig zu finden?', 'answer': "Absolut. Das ist sogar wissenschaftlich belegt. Nach 1-3 Jahren lässt die 'New Relationship Energy' nach. Das ist, wenn bewusstes Arbeiten an Sexualität anfängt — oder wenn sie beginnt zu sterben."}"
-  - "{'question': 'Wie spreche ich mit meinem Partner über sexuelle Langeweile, ohne ihn/sie zu verletzten?', 'answer': "'Mir fällt auf, dass Sex zwischen uns routiniert geworden ist. Das ist nicht deine Schuld — das ist eine Phase. Ich vermisse die Leidenschaft und ich möchte mit dir zusammen das zurückbringen.' Focus auf 'wir', nicht auf 'du bist langweilig'."}"
-  - "{'question': 'Hilft mehr Experimentieren wirklich gegen sexuelle Langeweile?', 'answer': "Manchmal. Aber nicht immer. Manchmal ist das Problem nicht das 'Was', sondern das 'Wie'. Vielleicht braucht es mehr Spannung, mehr Spielelemente, mehr Bewusstsein. Mehr Kinks ist nicht immer die Lösung."}"
-  - "{'question': 'Was, wenn mein Partner nicht interessiert ist, etwas zu ändern?', 'answer': 'Das ist ein tieferes Problem. Sexuelle Langeweile adressieren zu wollen ist ein Akt der Liebe. Wenn der andere das nicht verstehen kann, kann das auf Desinteresse in der Beziehung deuten — oder es braucht professionelle Hilfe, um zu verstehen, warum.'}"
+  - question: "Ist sexuelle Langeweile ein Zeichen, dass die Liebe vorbei ist?"
+    answer: "Nein. Sexuelle Routine ist tatsächlich ein Zeichen einer stabilen, langfristigen Beziehung. Das Problem ist nicht die Routine selbst — es ist, wenn du sie nicht bewusst gestaltest. Liebe und Sexualität können zusammen wachsen."
+  - question: "Ist es normal, nach ein paar Jahren Sex langweilig zu finden?"
+    answer: "Absolut. Das ist sogar wissenschaftlich belegt. Nach 1-3 Jahren lässt die"
+  - question: "Wie spreche ich mit meinem Partner über sexuelle Langeweile, ohne ihn/sie zu verletzten?"
+    answer: "'Mir fällt auf, dass Sex zwischen uns routiniert geworden ist. Das ist nicht deine Schuld — das ist eine Phase. Ich vermisse die Leidenschaft und ich möchte mit dir zusammen das zurückbringen."
+  - question: "Hilft mehr Experimentieren wirklich gegen sexuelle Langeweile?"
+    answer: "Manchmal. Aber nicht immer. Manchmal ist das Problem nicht das"
+  - question: "Was, wenn mein Partner nicht interessiert ist, etwas zu ändern?"
+    answer: "Das ist ein tieferes Problem. Sexuelle Langeweile adressieren zu wollen ist ein Akt der Liebe. Wenn der andere das nicht verstehen kann, kann das auf Desinteresse in der Beziehung deuten — oder es braucht professionelle Hilfe, um zu verstehen, warum."
 ---
 
 ## Sexuelle Langeweile in der beziehung überwinden

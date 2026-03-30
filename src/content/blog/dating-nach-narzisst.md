@@ -15,10 +15,14 @@ keywords:
 draft: false
 featured: false
 faq:
-  - "{'question': 'Wie lange sollte ich nach einer narzisstischen Beziehung warten, bevor ich daten gehe?', 'answer': 'Mindestens 3-6 Monate Heilung. Du brauchst Zeit, um dein Selbstwertgefühl wiederaufzubauen und deine Grenzen neu zu lernen. Hetzte nicht ins nächste Dating.'}"
-  - "{'question': 'Wie erkenne ich einen Narzissten beim Dating?', 'answer': 'Achte auf Liebe-Bomben früh, fehlende Empathie, ständige Manipulation und Schuldzuweisung. Vertraue deinem Bauchgefühl — wenn etwas sich falsch anfühlt, ist es wahrscheinlich so.'}"
-  - "{'question': 'Kann ich nach einer narzisstischen Beziehung wieder vertrauen?', 'answer': 'Ja, aber mit Zeit und Therapie. Vertraue schrittweise und achte auf konsistente Handlungen, nicht nur Worte. Arbeite mit einem Therapeuten, wenn du Vertrauensprobleme hast.'}"
-  - "{'question': 'Was ist rote Flaggen beim Dating, die ich nicht ignorieren sollte?', 'answer': 'Impulsivität, fehlende Verantwortung, Liebe-Bomben, Manipulation, Mangel an Grenzen, Kontrolle oder Aggressivität. Diese frühen Warnsignale sind wichtig — ignoriere sie nicht.'}"
+  - question: "Wie lange sollte ich nach einer narzisstischen Beziehung warten, bevor ich daten gehe?"
+    answer: "Mindestens 3-6 Monate Heilung. Du brauchst Zeit, um dein Selbstwertgefühl wiederaufzubauen und deine Grenzen neu zu lernen. Hetzte nicht ins nächste Dating."
+  - question: "Wie erkenne ich einen Narzissten beim Dating?"
+    answer: "Achte auf Liebe-Bomben früh, fehlende Empathie, ständige Manipulation und Schuldzuweisung. Vertraue deinem Bauchgefühl — wenn etwas sich falsch anfühlt, ist es wahrscheinlich so."
+  - question: "Kann ich nach einer narzisstischen Beziehung wieder vertrauen?"
+    answer: "Ja, aber mit Zeit und Therapie. Vertraue schrittweise und achte auf konsistente Handlungen, nicht nur Worte. Arbeite mit einem Therapeuten, wenn du Vertrauensprobleme hast."
+  - question: "Was ist rote Flaggen beim Dating, die ich nicht ignorieren sollte?"
+    answer: "Impulsivität, fehlende Verantwortung, Liebe-Bomben, Manipulation, Mangel an Grenzen, Kontrolle oder Aggressivität. Diese frühen Warnsignale sind wichtig — ignoriere sie nicht."
 ---
 Nach einer narzisstischen oder toxischen [beziehung](/blog/adhs-und-beziehung-komplett-guide/) wieder zu daten fühlt sich wie Betreten von unbekanntem Terrain an. Dein Vertrauen ist erschöpft, deine Selbstzweifel sind groß, und jedes rote Flag macht dir Angst. Aber es gibt Hoffnung. Mit Zeit, Selbstreflexion und praktischen Tools kannst du wieder zu gesundem, erfüllendem Dating zurückkehren – und dieses Mal mit Weisheit bewaffnet.
 

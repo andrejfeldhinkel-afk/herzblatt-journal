@@ -15,11 +15,16 @@ keywords:
 draft: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Woran erkenne ich dass mein Partner ein Alkoholproblem hat?', 'answer': 'Wenn er regelmäßig mehr trinkt als geplant, gereizt reagiert wenn du es ansprichst, Alkohol braucht um zu entspannen, und sein Trinkverhalten Probleme im Alltag verursacht.'}"
-  - "{'question': 'Wie spreche ich das Thema Alkohol an?', 'answer': "In einem ruhigen Moment, nicht wenn er getrunken hat. Benutze Ich-Botschaften: 'Ich mache mir Sorgen wenn...' statt Vorwürfe. Sei konkret mit Beispielen."}"
-  - "{'question': 'Bin ich co-abhängig?', 'answer': 'Wenn du sein Trinken entschuldigst, vertuscht, oder dein ganzes Leben um sein Problem herum organisierst — ja. Co-Abhängigkeit ist eine eigene Erkrankung die Hilfe braucht.'}"
-  - "{'question': 'Wann sollte ich die Beziehung beenden?', 'answer': 'Wenn dein Partner keine Bereitschaft zur Veränderung zeigt, deine Grenzen nicht respektiert oder du dich selbst aufgeben musst. Du kannst jemanden nicht retten der sich selbst nicht retten will.'}"
-  - "{'question': 'Gibt es Hilfe für Partner von Alkoholikern?', 'answer': 'Ja, es gibt Selbsthilfegruppen wie Al-Anon speziell für Angehörige. Einzeltherapie hilft dir auch eigene Muster zu erkennen und deine Grenzen zu stärken.'}"
+  - question: "Woran erkenne ich dass mein Partner ein Alkoholproblem hat?"
+    answer: "Wenn er regelmäßig mehr trinkt als geplant, gereizt reagiert wenn du es ansprichst, Alkohol braucht um zu entspannen, und sein Trinkverhalten Probleme im Alltag verursacht."
+  - question: "Wie spreche ich das Thema Alkohol an?"
+    answer: "In einem ruhigen Moment, nicht wenn er getrunken hat. Benutze Ich-Botschaften:"
+  - question: "Bin ich co-abhängig?"
+    answer: "Wenn du sein Trinken entschuldigst, vertuscht, oder dein ganzes Leben um sein Problem herum organisierst — ja. Co-Abhängigkeit ist eine eigene Erkrankung die Hilfe braucht."
+  - question: "Wann sollte ich die Beziehung beenden?"
+    answer: "Wenn dein Partner keine Bereitschaft zur Veränderung zeigt, deine Grenzen nicht respektiert oder du dich selbst aufgeben musst. Du kannst jemanden nicht retten der sich selbst nicht retten will."
+  - question: "Gibt es Hilfe für Partner von Alkoholikern?"
+    answer: "Ja, es gibt Selbsthilfegruppen wie Al-Anon speziell für Angehörige. Einzeltherapie hilft dir auch eigene Muster zu erkennen und deine Grenzen zu stärken."
 ---
 
 Dein Partner kommt nach der Arbeit heim und öffnet sofort eine Flasche Bier. Dann noch eine. Beim Essen merkt man, dass er nicht mehr richtig dabei ist. Am Wochenende ist es ähnlich — die erste Wein beim Frühstück, dann noch ein Feierabendbier, abends Cocktails. Wenn du fragst, ob das nicht zu viel ist, wird er gereizt oder lacht es einfach weg.

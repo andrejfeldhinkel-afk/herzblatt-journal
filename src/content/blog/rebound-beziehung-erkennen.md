@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/rebound-beziehung-erkennen.webp"
 imageAlt: "Paar das sich schnell näher kommt - Rebound-Beziehung"
 faq:
-  - "{'question': 'Wie lange sollte ich nach einer Trennung warten, bevor ich wieder daten gehe?', 'answer': 'Es gibt keine feste Regel. Manche Menschen brauchen Wochen, andere Monate. Die wichtige Frage ist, ob du den Ex emotionell losgelassen hast und ob du aus Hoffnung datest, nicht aus Vermeidung.'}"
-  - "{'question': 'Ist jede neue Beziehung nach einer Trennung automatisch eine Rebound?', 'answer': 'Nein. Wenn du emotional verarbeitet hast, klare Gedanken hast und aus gesunden Gründen daten gehst, kann das eine echte Beziehung sein. Rebound-Beziehungen haben bestimmte Muster.'}"
-  - "{'question': 'Kann eine Rebound-Beziehung sich doch noch zu etwas Echtem entwickeln?', 'answer': 'Manchmal ja. Wenn beide Partner reif genug sind, ihre Rollen zu hinterfragen und echte Gefühle füreinander entwickeln, kann aus einer Rebound etwas Bedeutungsvolles werden.'}"
+  - question: "Wie lange sollte ich nach einer Trennung warten, bevor ich wieder daten gehe?"
+    answer: "Es gibt keine feste Regel. Manche Menschen brauchen Wochen, andere Monate. Die wichtige Frage ist, ob du den Ex emotionell losgelassen hast und ob du aus Hoffnung datest, nicht aus Vermeidung."
+  - question: "Ist jede neue Beziehung nach einer Trennung automatisch eine Rebound?"
+    answer: "Nein. Wenn du emotional verarbeitet hast, klare Gedanken hast und aus gesunden Gründen daten gehst, kann das eine echte Beziehung sein. Rebound-Beziehungen haben bestimmte Muster."
+  - question: "Kann eine Rebound-Beziehung sich doch noch zu etwas Echtem entwickeln?"
+    answer: "Manchmal ja. Wenn beide Partner reif genug sind, ihre Rollen zu hinterfragen und echte Gefühle füreinander entwickeln, kann aus einer Rebound etwas Bedeutungsvolles werden."
 ---
 ## Was ist eine Rebound-beziehung wirklich?
 

@@ -15,11 +15,16 @@ draft: false
 featured: false
 author: "laura-weber"
 faq:
-  - "{'question': 'Was ist eine gute erste Date Idee?', 'answer': 'Etwas, das Gespräche erlaubt. Ein Park-Spaziergang, ein Café, eine Museumstour. Vermeid laute Bars und lange Dinneressen, bis ihr euch kennt.'}"
-  - "{'question': 'Wie viel sollte ich für ein Date ausgeben?', 'answer': 'Das kommt auf dein Budget an. Es gibt großartige Dates unter 20 Euro. Der Punkt ist nicht das Geld – es ist die Gedankenlichkeit.'}"
-  - "{'question': 'Was sollte ich für ein zweites Date tun, das anderes ist?', 'answer': 'Etwas, das etwas Abenteuer hat. Ein Kochkurs, eine Wanderung, eine Kunstausstellung. Etwas, das euch zusammen arbeiten lässt.'}"
-  - "{'question': 'Sind Zu-Hause-Dates romantisch oder faul?', 'answer': 'Beide. Ein gut durchdachtes Zu-Hause-Date mit gutem Essen, Musik, Gesprächen kann sehr romantisch sein. Ein einfaches Fernsehen ist faul.'}"
-  - "{'question': 'Wie plane ich ein Date, wenn wir different Interessen haben?', 'answer': 'Wechsel ab. Sein Ding ein Mal, dein Ding ein Mal. Oder finde etwas in der Mitte, das euch beide interessiert. Das ist Kompromiss, nicht Aufopferung.'}"
+  - question: "Was ist eine gute erste Date Idee?"
+    answer: "Etwas, das Gespräche erlaubt. Ein Park-Spaziergang, ein Café, eine Museumstour. Vermeid laute Bars und lange Dinneressen, bis ihr euch kennt."
+  - question: "Wie viel sollte ich für ein Date ausgeben?"
+    answer: "Das kommt auf dein Budget an. Es gibt großartige Dates unter 20 Euro. Der Punkt ist nicht das Geld – es ist die Gedankenlichkeit."
+  - question: "Was sollte ich für ein zweites Date tun, das anderes ist?"
+    answer: "Etwas, das etwas Abenteuer hat. Ein Kochkurs, eine Wanderung, eine Kunstausstellung. Etwas, das euch zusammen arbeiten lässt."
+  - question: "Sind Zu-Hause-Dates romantisch oder faul?"
+    answer: "Beide. Ein gut durchdachtes Zu-Hause-Date mit gutem Essen, Musik, Gesprächen kann sehr romantisch sein. Ein einfaches Fernsehen ist faul."
+  - question: "Wie plane ich ein Date, wenn wir different Interessen haben?"
+    answer: "Wechsel ab. Sein Ding ein Mal, dein Ding ein Mal. Oder finde etwas in der Mitte, das euch beide interessiert. Das ist Kompromiss, nicht Aufopferung."
 ---
 
 ## Warum Date-Ideen wichtig sind

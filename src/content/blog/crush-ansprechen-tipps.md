@@ -15,11 +15,16 @@ keywords:
 draft: false
 author: "markus-hoffmann"
 faq:
-  - "{'question': 'Wie spreche ich meinen Schwarm an ohne peinlich zu wirken?', 'answer': "Knüpfe an die Situation an — kommentiere etwas Gemeinsames. 'Hey, du bist auch im Kurs? Wie findest du es bisher?' ist natürlicher als ein einstudierter Anmachspruch."}"
-  - "{'question': 'Was wenn mein Schwarm mich ablehnt?', 'answer': 'Dann hast du Klarheit — und das ist ein Gewinn. Ablehnung sagt nichts über deinen Wert. Lächle, bedanke dich höflich und geh weiter. Dein Mut verdient Respekt.'}"
-  - "{'question': 'Ist es besser persönlich oder per Nachricht anzusprechen?', 'answer': 'Persönlich ist immer stärker. Körpersprache und Stimme transportieren Sympathie viel besser als Text. Aber wenn persönlich nicht möglich ist, ist eine Nachricht besser als gar nichts.'}"
-  - "{'question': 'Wie viel Zeit sollte ich zwischen Ansprache und Verabredung verstreichen lassen?', 'answer': "Nicht zu lange. Wenn der Moment stimmt, schlag gleich was vor — 'Wollen wir diese Woche mal einen Kaffee trinken?' ist direkter und ehrlicher als wochenlang zu warten."}"
-  - "{'question': 'Was sage ich, wenn ich extrem nervös bin?', 'answer': "Das ist okay — gestehe es! 'Ich bin ehrlich ein bisschen nervös, aber ich wollte dich ansprechen' macht dich menschlich und sympathisch. Nervosität ist kein Fehler, es ist Authentizität."}"
+  - question: "Wie spreche ich meinen Schwarm an ohne peinlich zu wirken?"
+    answer: "Knüpfe an die Situation an — kommentiere etwas Gemeinsames."
+  - question: "Was wenn mein Schwarm mich ablehnt?"
+    answer: "Dann hast du Klarheit — und das ist ein Gewinn. Ablehnung sagt nichts über deinen Wert. Lächle, bedanke dich höflich und geh weiter. Dein Mut verdient Respekt."
+  - question: "Ist es besser persönlich oder per Nachricht anzusprechen?"
+    answer: "Persönlich ist immer stärker. Körpersprache und Stimme transportieren Sympathie viel besser als Text. Aber wenn persönlich nicht möglich ist, ist eine Nachricht besser als gar nichts."
+  - question: "Wie viel Zeit sollte ich zwischen Ansprache und Verabredung verstreichen lassen?"
+    answer: "Nicht zu lange. Wenn der Moment stimmt, schlag gleich was vor —"
+  - question: "Was sage ich, wenn ich extrem nervös bin?"
+    answer: "Das ist okay — gestehe es!"
 ---
 
 ## Der größte Fehler: Warten

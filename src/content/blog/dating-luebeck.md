@@ -14,9 +14,12 @@ draft: false
 image: "/images/photos/dating-luebeck.webp"
 imageAlt: "Lübeck"
 faq:
-  - "{'question': 'Wo lernt man in Lübeck Singles kennen?', 'answer': 'In Lübeck findest du Singles in der malerischen Altstadt, in modernen Cafés und Bars, im Hafen-Viertel und in Travemünde an der Ostsee. Die Hafenmeile ist besonders lebendig, und die vielen Restaurants und Bars sind großartig für Kennenlernmomente.'}"
-  - "{'question': 'Was sind die besten Date-Ideen in Lübeck?', 'answer': 'Romantische Dates sind beim Spazieren durch die Altstadt, am Holstentor, im Hafen bei Sonnenuntergang, oder bei einem Ausflug nach Travemünde an den Strand. Auch Marzipan-Tastings, Museum-Besuche oder Wassersport an der Ostsee sind großartig.'}"
-  - "{'question': 'Gibt es eine gute Single-Szene in Lübeck?', 'answer': 'Ja! Lübeck hat etwa 220.000 Einwohner und eine sehr lebendige Single-Szene. Die Stadt ist offen, weltweit und hat viel kultuelle Aktivität. Die Nähe zur Ostsee macht Dating hier besonders schön und aktiv.'}"
+  - question: "Wo lernt man in Lübeck Singles kennen?"
+    answer: "In Lübeck findest du Singles in der malerischen Altstadt, in modernen Cafés und Bars, im Hafen-Viertel und in Travemünde an der Ostsee. Die Hafenmeile ist besonders lebendig, und die vielen Restaurants und Bars sind großartig für Kennenlernmomente."
+  - question: "Was sind die besten Date-Ideen in Lübeck?"
+    answer: "Romantische Dates sind beim Spazieren durch die Altstadt, am Holstentor, im Hafen bei Sonnenuntergang, oder bei einem Ausflug nach Travemünde an den Strand. Auch Marzipan-Tastings, Museum-Besuche oder Wassersport an der Ostsee sind großartig."
+  - question: "Gibt es eine gute Single-Szene in Lübeck?"
+    answer: "Ja! Lübeck hat etwa 220.000 Einwohner und eine sehr lebendige Single-Szene. Die Stadt ist offen, weltweit und hat viel kultuelle Aktivität. Die Nähe zur Ostsee macht Dating hier besonders schön und aktiv."
 ---
 ## dating in Lübeck: Hansestadt, Marzipan und Ostsee-Romantik
 

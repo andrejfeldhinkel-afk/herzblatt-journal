@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/beziehung-und-haustiere.webp"
 imageAlt: "Paar mit Haustier"
 faq:
-  - "{'question': 'Sollte mein Date über mein Haustier vorgewarnt werden?', 'answer': 'Ja, besonders wenn dein Haustier groß, laut, oder sehr präsent ist. Ein großer Hund, der springt und bellt, könnte dein Date überraschen. Aber du sollst nicht dein Haustier verstecken. Es ist Teil deines Lebens. Wenn dein Date keine Tiere mag, ist das wichtig früh zu wissen.'}"
-  - "{'question': 'Was mache ich, wenn mein Partner Haustiere nicht mag?', 'answer': 'Das ist ein echtes Problem, das adressiert werden muss. Wenn du Haustiere liebst und dein Partner nicht, musst ihr einen Kompromiss finden. Manchmal ist dies ein Dealbreaker. Es ist besser, es früh zu wissen, als Jahre später zu merken, dass ihr nicht kompatibel seid.'}"
-  - "{'question': 'Können Haustiere beziehungsprobleme verursachen?', 'answer': 'Ja. Unterschiedliche Meinungen über Pet-Care, Budgets für Tierarzt-Kosten, und wie viel Zeit mit Haustieren zu verbringen könnte Konflikt verursachen. Es ist wichtig, diese Sachen früh zu besprechen wenn du einen Partner hast, der auch Haustiere hat.'}"
+  - question: "Sollte mein Date über mein Haustier vorgewarnt werden?"
+    answer: "Ja, besonders wenn dein Haustier groß, laut, oder sehr präsent ist. Ein großer Hund, der springt und bellt, könnte dein Date überraschen. Aber du sollst nicht dein Haustier verstecken. Es ist Teil deines Lebens. Wenn dein Date keine Tiere mag, ist das wichtig früh zu wissen."
+  - question: "Was mache ich, wenn mein Partner Haustiere nicht mag?"
+    answer: "Das ist ein echtes Problem, das adressiert werden muss. Wenn du Haustiere liebst und dein Partner nicht, musst ihr einen Kompromiss finden. Manchmal ist dies ein Dealbreaker. Es ist besser, es früh zu wissen, als Jahre später zu merken, dass ihr nicht kompatibel seid."
+  - question: "Können Haustiere beziehungsprobleme verursachen?"
+    answer: "Ja. Unterschiedliche Meinungen über Pet-Care, Budgets für Tierarzt-Kosten, und wie viel Zeit mit Haustieren zu verbringen könnte Konflikt verursachen. Es ist wichtig, diese Sachen früh zu besprechen wenn du einen Partner hast, der auch Haustiere hat."
 ---
 Haustiere sind für viele Menschen nicht nur Begleiter – sie sind Familienmitglieder. Sie können eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) belebt oder kompliziert machen, abhängig von wie du und dein Partner Haustiere siehst.
 

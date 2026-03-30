@@ -14,10 +14,14 @@ draft: false
 image: "/images/photos/dating-mainz.webp"
 imageAlt: "Mainz dating scene"
 faq:
-  - "{'question': 'Wo kann man in Mainz am besten Singles kennenlernen?', 'answer': 'Die Altstadt mit ihren zahlreichen Bars und Kneipen ist das Epi-Zentrum. Der Rheinufer mit seinen Strandclubs (im Sommer) ist perfekt. Die Neustadt mit trendigen Restaurants und Bars ist auch sehr beliebt. Und natürlich die Weinfeste im Rheingau direkt nebenan!'}"
-  - "{'question': 'Welche Dating-Apps sind in Mainz beliebt?', 'answer': 'Tinder ist auch in Mainz die Nr. 1, gefolgt von Bumble und Lovoo. Für Weinliebhaber gibt es spezielle Nischen-Apps. ElitePartner ist für die älteren Singles beliebt. Die Stadt ist groß genug für eine aktive Dating-Community, aber nicht so übersättigt wie Berlin oder Köln.'}"
-  - "{'question': 'Was sind die besten Date-Ideen in Mainz?', 'answer': 'Klassisch: Spaziergang am Rheinufer mit Sonnenuntergang und anschließend Wein in der Altstadt. Weinerlebnis: Rheingau-Ausflug mit Weintasting und Burgbesichtigung. Kulturell: Gutenberg-Museum und Alte Mainz. Fastnachtlich (Feb/März): Teil der größten deutschen Fastnacht werden. Casual: Neustadt-Bummel mit Café und Cocktails.'}"
-  - "{'question': 'Gibt es in Mainz eine gute Single-Szene?', 'answer': 'Ja! Mainz hat eine aufgeschlossene, gesellige Single-Szene. Die Weinkultur schafft viele Gelegenheiten zum Kennenlernen. Fastnacht (Feb/März) ist wie Single-Dating auf Turbo. Die Stadt ist weltoffen und jung, mit vielen Studenten und Expats. Die Szene ist freundlich und authentisch.'}"
+  - question: "Wo kann man in Mainz am besten Singles kennenlernen?"
+    answer: "Die Altstadt mit ihren zahlreichen Bars und Kneipen ist das Epi-Zentrum. Der Rheinufer mit seinen Strandclubs (im Sommer) ist perfekt. Die Neustadt mit trendigen Restaurants und Bars ist auch sehr beliebt. Und natürlich die Weinfeste im Rheingau direkt nebenan!"
+  - question: "Welche Dating-Apps sind in Mainz beliebt?"
+    answer: "Tinder ist auch in Mainz die Nr. 1, gefolgt von Bumble und Lovoo. Für Weinliebhaber gibt es spezielle Nischen-Apps. ElitePartner ist für die älteren Singles beliebt. Die Stadt ist groß genug für eine aktive Dating-Community, aber nicht so übersättigt wie Berlin oder Köln."
+  - question: "Was sind die besten Date-Ideen in Mainz?"
+    answer: "Klassisch: Spaziergang am Rheinufer mit Sonnenuntergang und anschließend Wein in der Altstadt. Weinerlebnis: Rheingau-Ausflug mit Weintasting und Burgbesichtigung. Kulturell: Gutenberg-Museum und Alte Mainz. Fastnachtlich (Feb/März): Teil der größten deutschen Fastnacht werden. Casual: Neustadt-Bummel mit Café und Cocktails."
+  - question: "Gibt es in Mainz eine gute Single-Szene?"
+    answer: "Ja! Mainz hat eine aufgeschlossene, gesellige Single-Szene. Die Weinkultur schafft viele Gelegenheiten zum Kennenlernen. Fastnacht (Feb/März) ist wie Single-Dating auf Turbo. Die Stadt ist weltoffen und jung, mit vielen Studenten und Expats. Die Szene ist freundlich und authentisch."
 ---
 ## Dating in Mainz: Wein, Fastnacht und Rhein-Romantik
 

@@ -15,11 +15,16 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Ist es zu spät, nach 30 noch den passenden Partner zu finden?', 'answer': 'Nein, überhaupt nicht. Statistiken zeigen, dass viele Menschen nach 30 sogar bessere, stabilere Beziehungen eingehen. Du weißt besser, was du willst. Das macht die Suche effektiver, nicht schwächer.'}"
-  - "{'question': 'Warum fühlt sich Dating nach 30 anders an?', 'answer': 'Dein Gehirn hat sich entwickelt, deine Prioritäten haben sich verschoben, deine Filterkriterien sind besser. Das ist anstrengender, weil du nicht mehr auf bloße Anziehung reinfällst – aber es führt zu besseren Matches.'}"
-  - "{'question': 'Sollte ich mein Alter in Datingprofilen angeben?', 'answer': 'Ja. Menschen, die mit deinem Alter ein Problem haben, sind eh nicht die richtigen für dich. Transparenz filtert früh aus, wer nicht passt. Das spart dir Zeit und emotionale Energie.'}"
-  - "{'question': 'Wie viel Zeit sollte ich für Dating aufwenden?', 'answer': 'Behandle Dating wie ein Projekt, aber mit Grenzen: 10-15 Stunden pro Woche, inkl. Nachrichten und Dates. Danach ist Feierabend. Sonst wird es emotionaler Müll, kein Vergnügen.'}"
-  - "{'question': 'Was ist das häufigste Problem beim Dating nach 30?', 'answer': 'Ungeduld trifft auf hohe Standards. Viele Frauen erwarten schnelle Results, weil die Zeit kostbar ist. Das erzeugt Druck. Versuche, es zu genießen – gute Connections brauchen Zeit.'}"
+  - question: "Ist es zu spät, nach 30 noch den passenden Partner zu finden?"
+    answer: "Nein, überhaupt nicht. Statistiken zeigen, dass viele Menschen nach 30 sogar bessere, stabilere Beziehungen eingehen. Du weißt besser, was du willst. Das macht die Suche effektiver, nicht schwächer."
+  - question: "Warum fühlt sich Dating nach 30 anders an?"
+    answer: "Dein Gehirn hat sich entwickelt, deine Prioritäten haben sich verschoben, deine Filterkriterien sind besser. Das ist anstrengender, weil du nicht mehr auf bloße Anziehung reinfällst – aber es führt zu besseren Matches."
+  - question: "Sollte ich mein Alter in Datingprofilen angeben?"
+    answer: "Ja. Menschen, die mit deinem Alter ein Problem haben, sind eh nicht die richtigen für dich. Transparenz filtert früh aus, wer nicht passt. Das spart dir Zeit und emotionale Energie."
+  - question: "Wie viel Zeit sollte ich für Dating aufwenden?"
+    answer: "Behandle Dating wie ein Projekt, aber mit Grenzen: 10-15 Stunden pro Woche, inkl. Nachrichten und Dates. Danach ist Feierabend. Sonst wird es emotionaler Müll, kein Vergnügen."
+  - question: "Was ist das häufigste Problem beim Dating nach 30?"
+    answer: "Ungeduld trifft auf hohe Standards. Viele Frauen erwarten schnelle Results, weil die Zeit kostbar ist. Das erzeugt Druck. Versuche, es zu genießen – gute Connections brauchen Zeit."
 ---
 
 ## dating nach 30 als Frau: Warum es besser wird als du denkst

@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/beziehung-und-vergebung.webp"
 imageAlt: "Paar hält Händchen nach einem schwierigen Gespräch"
 faq:
-  - "{'question': 'Muss ich alles verzeihen, um eine gute Beziehung zu führen?', 'answer': 'Nein. Vergeben heißt nicht, alles zu akzeptieren. Manche Dinge sind unverzeihlich, und das ist in Ordnung. Vergebung sollte eine bewusste Entscheidung sein, keine Pflicht.'}"
-  - "{'question': 'Wie vergebe ich, wenn ich noch wütend bin?', 'answer': 'Vergebung und Wut schließen sich nicht aus. Du kannst vergeben und trotzdem wütend sein. Vergebung ist ein Prozess, kein Schalter, der sich umlegt.'}"
-  - "{'question': 'Wann ist es besser, nicht zu vergeben?', 'answer': 'Wenn sich das Verhalten wiederholt, wenn keine echte Reue da ist, oder wenn das Vergeben bedeutet, dass du dich selbst aufgibst – dann ist Loslassen manchmal besser als Verzeihen.'}"
+  - question: "Muss ich alles verzeihen, um eine gute Beziehung zu führen?"
+    answer: "Nein. Vergeben heißt nicht, alles zu akzeptieren. Manche Dinge sind unverzeihlich, und das ist in Ordnung. Vergebung sollte eine bewusste Entscheidung sein, keine Pflicht."
+  - question: "Wie vergebe ich, wenn ich noch wütend bin?"
+    answer: "Vergebung und Wut schließen sich nicht aus. Du kannst vergeben und trotzdem wütend sein. Vergebung ist ein Prozess, kein Schalter, der sich umlegt."
+  - question: "Wann ist es besser, nicht zu vergeben?"
+    answer: "Wenn sich das Verhalten wiederholt, wenn keine echte Reue da ist, oder wenn das Vergeben bedeutet, dass du dich selbst aufgibst – dann ist Loslassen manchmal besser als Verzeihen."
 ---
 ## Vergeben ist nicht vergessen
 

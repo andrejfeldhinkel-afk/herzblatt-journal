@@ -17,11 +17,16 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Wann ist der richtige Zeitpunkt für Kritik?', 'answer': 'Wähle einen ruhigen Moment ohne Ablenkungen, wenn beide Partner ausgeruht und emotional stabil sind. Vermeidе es, kritisches Feedback während eines Streits oder unter Stress zu geben. Ein gutes Zeitfenster ist oft ein ruhiger Abend oder das Wochenende.'}"
-  - "{'question': 'Wie formuliere ich Kritik, damit sie nicht persönlich wirkt?', 'answer': "Fokussiere dich auf das konkrete Verhalten, nicht auf die Person. Statt 'Du bist egozentrisch' sage 'Mir fiel auf, dass du heute nicht gefragt hast, wie mein Tag war.' Diese Unterscheidung schützt die Beziehung."}"
-  - "{'question': 'Was mache ich, wenn mein Partner defensiv wird?', 'answer': "Stoppe die Diskussion kurz. Sage: 'Es geht mir nicht darum, dich anzugreifen. Ich möchte nur, dass wir das verstehen.' Biete an, später weiterzureden. Manchmal braucht es Zeit für die Verarbeitung."}"
-  - "{'question': 'Kann ich Kritik auch schriftlich geben?', 'answer': 'Schriftliches Feedback ist hilfreich, wenn die Gefühle zu intensiv sind. Es gibt Zeit zum Formulieren und Reflektieren. Aber wichtige Konflikte sollten später mündlich geklärt werden, um Missverständnisse zu vermeiden.'}"
-  - "{'question': 'Wie erkenne ich den Unterschied zwischen Kritik und Beleidigung?', 'answer': "Kritik ist konkret, lösungsorientiert und respektvoll. Beleidigung ist verallgemeinernd, verletzend und persönlich herabwürdigend. 'Das nervt mich' vs. 'Du nervst mich ständig' — der Unterschied ist fundamental."}"
+  - question: "Wann ist der richtige Zeitpunkt für Kritik?"
+    answer: "Wähle einen ruhigen Moment ohne Ablenkungen, wenn beide Partner ausgeruht und emotional stabil sind. Vermeidе es, kritisches Feedback während eines Streits oder unter Stress zu geben. Ein gutes Zeitfenster ist oft ein ruhiger Abend oder das Wochenende."
+  - question: "Wie formuliere ich Kritik, damit sie nicht persönlich wirkt?"
+    answer: "Fokussiere dich auf das konkrete Verhalten, nicht auf die Person. Statt"
+  - question: "Was mache ich, wenn mein Partner defensiv wird?"
+    answer: "Stoppe die Diskussion kurz. Sage:"
+  - question: "Kann ich Kritik auch schriftlich geben?"
+    answer: "Schriftliches Feedback ist hilfreich, wenn die Gefühle zu intensiv sind. Es gibt Zeit zum Formulieren und Reflektieren. Aber wichtige Konflikte sollten später mündlich geklärt werden, um Missverständnisse zu vermeiden."
+  - question: "Wie erkenne ich den Unterschied zwischen Kritik und Beleidigung?"
+    answer: "Kritik ist konkret, lösungsorientiert und respektvoll. Beleidigung ist verallgemeinernd, verletzend und persönlich herabwürdigend."
 ---
 
 ## Kritik äußern ohne den Partner zu verletzen

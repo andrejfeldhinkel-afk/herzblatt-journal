@@ -16,10 +16,14 @@ draft: false
 image: "/images/photos/psychologie-der-anziehung.webp"
 imageAlt: "Illustration der Anziehung zwischen zwei Menschen"
 faq:
-  - "{'question': 'Was macht einen Menschen attraktiv?', 'answer': 'Attraktivität ist ein Zusammenspiel aus physischen Merkmalen, Persönlichkeit, Verhalten und Chemie. Studien zeigen, dass Humor, Selbstbewusstsein, Freundlichkeit und Ähnlichkeit die stärksten Anziehungsfaktoren sind.'}"
-  - "{'question': 'Kann man Anziehung bewusst erzeugen?', 'answer': 'Teilweise ja. Während die chemische Grundanziehung schwer steuerbar ist, kannst du durch Körpersprache, aktives Zuhören, Augenkontakt und authentisches Auftreten deine Anziehungskraft deutlich steigern.'}"
-  - "{'question': "Warum fühlen wir uns oft zu den 'falschen' Menschen hingezogen?", 'answer': "Unser Unterbewusstsein sucht oft Partner, die vertraute Muster aus der Kindheit wiederholen — auch negative. Dieses Phänomen nennt sich 'Repetition Compulsion' und kann durch Selbstreflexion durchbrochen werden."}"
-  - "{'question': 'Wie lange dauert die Verliebtheitsphase?', 'answer': 'Die intensive Verliebtheitsphase mit erhöhtem Dopamin und Noradrenalin dauert typischerweise 6-18 Monate. Danach wandelt sich das Gefühl in eine tiefere, ruhigere Form der Liebe, gesteuert durch Oxytocin.'}"
+  - question: "Was macht einen Menschen attraktiv?"
+    answer: "Attraktivität ist ein Zusammenspiel aus physischen Merkmalen, Persönlichkeit, Verhalten und Chemie. Studien zeigen, dass Humor, Selbstbewusstsein, Freundlichkeit und Ähnlichkeit die stärksten Anziehungsfaktoren sind."
+  - question: "Kann man Anziehung bewusst erzeugen?"
+    answer: "Teilweise ja. Während die chemische Grundanziehung schwer steuerbar ist, kannst du durch Körpersprache, aktives Zuhören, Augenkontakt und authentisches Auftreten deine Anziehungskraft deutlich steigern."
+  - question: "Warum fühlen wir uns oft zu den 'falschen' Menschen hingezogen?"
+    answer: "Unser Unterbewusstsein sucht oft Partner, die vertraute Muster aus der Kindheit wiederholen — auch negative. Dieses Phänomen nennt sich"
+  - question: "Wie lange dauert die Verliebtheitsphase?"
+    answer: "Die intensive Verliebtheitsphase mit erhöhtem Dopamin und Noradrenalin dauert typischerweise 6-18 Monate. Danach wandelt sich das Gefühl in eine tiefere, ruhigere Form der Liebe, gesteuert durch Oxytocin."
 ---## Die verborgene Wissenschaft hinter der Liebe
 
 Du kennst das Gefühl: Du siehst jemanden, und plötzlich schlägt dein Herz schneller, deine Hände werden feucht, und dein Verstand scheint sich aufgelöst zu haben. Diese magnetische Anziehung fühlt sich wie Magie an — aber die Wahrheit ist noch faszinierender. Was du spürst, ist eine komplexe biochemische Kaskade in deinem Gehirn, die von Millionen Jahren Evolution geprägt wurde.

@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - "{'question': 'Wie fange ich ein gutes Gespräch auf einer Dating-App an?', 'answer': "Beziehe dich auf etwas Konkretes aus dem Profil der anderen Person. Ein spezifisches Kompliment oder eine Frage zu einem Foto oder Hobby funktioniert deutlich besser als ein generisches 'Hey, wie geht's?'."}"
-  - "{'question': 'Was tun wenn der Chat einschläft?', 'answer': "Wechsle das Thema oder schlage etwas Interaktives vor — zum Beispiel ein 'Würdest du eher'-Spiel oder teile etwas Lustiges aus deinem Tag. Wenn mehrere Wiederbelebungsversuche scheitern, ist es okay loszulassen."}"
-  - "{'question': 'Wie viele Nachrichten sollte man pro Tag schreiben?', 'answer': 'Es gibt keine feste Regel, aber 5-10 Nachrichten pro Tag sind ein guter Richtwert. Wichtiger als die Menge ist die Qualität. Lieber eine durchdachte Nachricht als zehn inhaltslose.'}"
-  - "{'question': 'Wann sollte man von der App zu WhatsApp wechseln?', 'answer': 'Wenn ihr euch regelmäßig schreibt und das Gespräch natürlich fließt — meistens nach 3-5 Tagen. Biete es locker an, aber akzeptiere es auch wenn die andere Person lieber erstmal auf der App bleiben möchte.'}"
+  - question: "Wie fange ich ein gutes Gespräch auf einer Dating-App an?"
+    answer: "Beziehe dich auf etwas Konkretes aus dem Profil der anderen Person. Ein spezifisches Kompliment oder eine Frage zu einem Foto oder Hobby funktioniert deutlich besser als ein generisches"
+  - question: "Was tun wenn der Chat einschläft?"
+    answer: "Wechsle das Thema oder schlage etwas Interaktives vor — zum Beispiel ein"
+  - question: "Wie viele Nachrichten sollte man pro Tag schreiben?"
+    answer: "Es gibt keine feste Regel, aber 5-10 Nachrichten pro Tag sind ein guter Richtwert. Wichtiger als die Menge ist die Qualität. Lieber eine durchdachte Nachricht als zehn inhaltslose."
+  - question: "Wann sollte man von der App zu WhatsApp wechseln?"
+    answer: "Wenn ihr euch regelmäßig schreibt und das Gespräch natürlich fließt — meistens nach 3-5 Tagen. Biete es locker an, aber akzeptiere es auch wenn die andere Person lieber erstmal auf der App bleiben möchte."
 ---
 
 ## Dating-App Gespräche: Von Small Talk zu echten Verbindungen

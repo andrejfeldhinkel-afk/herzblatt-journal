@@ -15,10 +15,14 @@ draft: false
 image: "/images/photos/dating-muenchen.webp"
 imageAlt: "Münchner Marienplatz mit Neogotischem Rathaus"
 faq:
-  - "{'question': 'Wo kann man in München am besten Singles kennenlernen?', 'answer': 'Die besten Orte sind die Biergärten (besonders Augustiner-Bräu, Prater Garten, Hofbräuhaus), Cafés in Schwabing und dem Glockenbachviertel, Bars in der Altstadt und Maxvorstadt, sowie Events wie das Oktoberfest (September). Der Englische Garten ist auch großartig, besonders am Wochenende. Dating-Apps sind populär, aber München hat auch eine große traditionelle Single-Szene mit Vereinen und Events.'}"
-  - "{'question': 'Welche Dating-Apps sind in München besonders beliebt?', 'answer': 'Tinder und Bumble sind Standard. In München sind aber auch regionale Apps und Gruppen beliebt, besonders Facebook-Gruppen für Singles. Hinge, Once, und OkCupid haben auch aktive Communitys. München hat auch viele traditionelle Partnervermittler und Single-Agenturen, die von den konservativeren, älteren Singles genutzt werden.'}"
-  - "{'question': 'Was sind die besten Date-Ideen in München?', 'answer': 'Klassisch-bayerisch: Biergarten-Date mit Weißwurst und Brezn, Spaziergang entlang der Isar, Nymphenburg Schloss Besuch. Aktiv: Bootsfahrt auf der Isar, Radfahren entlang der Isar, Wanderung in den nahen Alpen. Kulturell: Opernhaus, Pinakotheken, Deutsches Museum. Kulinarisch: Viktualienmarkt, traditionelle Bayrische Restaurants, Kaffeehauskultur in Schwabing.'}"
-  - "{'question': 'Gibt es in München eine gute Single-Szene?', 'answer': 'Absolut! München hat eine sehr etablierte und aktive Single-Szene. Die Stadt ist wohlhabend mit vielen jungen Fachkräften. Es gibt zahlreiche Single-Clubs, Salsa-Kurse, Single-Brunches, Speed-Dating-Events und traditionelle Tanzveranstaltungen. Die Dating-Kultur ist etwas konservativer und familienorientierter als in Berlin, aber durchaus lebendig und aktiv.'}"
+  - question: "Wo kann man in München am besten Singles kennenlernen?"
+    answer: "Die besten Orte sind die Biergärten (besonders Augustiner-Bräu, Prater Garten, Hofbräuhaus), Cafés in Schwabing und dem Glockenbachviertel, Bars in der Altstadt und Maxvorstadt, sowie Events wie das Oktoberfest (September). Der Englische Garten ist auch großartig, besonders am Wochenende. Dating-Apps sind populär, aber München hat auch eine große traditionelle Single-Szene mit Vereinen und Events."
+  - question: "Welche Dating-Apps sind in München besonders beliebt?"
+    answer: "Tinder und Bumble sind Standard. In München sind aber auch regionale Apps und Gruppen beliebt, besonders Facebook-Gruppen für Singles. Hinge, Once, und OkCupid haben auch aktive Communitys. München hat auch viele traditionelle Partnervermittler und Single-Agenturen, die von den konservativeren, älteren Singles genutzt werden."
+  - question: "Was sind die besten Date-Ideen in München?"
+    answer: "Klassisch-bayerisch: Biergarten-Date mit Weißwurst und Brezn, Spaziergang entlang der Isar, Nymphenburg Schloss Besuch. Aktiv: Bootsfahrt auf der Isar, Radfahren entlang der Isar, Wanderung in den nahen Alpen. Kulturell: Opernhaus, Pinakotheken, Deutsches Museum. Kulinarisch: Viktualienmarkt, traditionelle Bayrische Restaurants, Kaffeehauskultur in Schwabing."
+  - question: "Gibt es in München eine gute Single-Szene?"
+    answer: "Absolut! München hat eine sehr etablierte und aktive Single-Szene. Die Stadt ist wohlhabend mit vielen jungen Fachkräften. Es gibt zahlreiche Single-Clubs, Salsa-Kurse, Single-Brunches, Speed-Dating-Events und traditionelle Tanzveranstaltungen. Die Dating-Kultur ist etwas konservativer und familienorientierter als in Berlin, aber durchaus lebendig und aktiv."
 ---
 ## dating in München: Wo das Herz bayerisch schlägt
 

@@ -14,9 +14,12 @@ keywords:
 draft: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Warum nimmt mein Partner mich nicht ernst?', 'answer': 'Mögliche Gründe: Er hat nie gelernt zuzuhören, er nimmt dich als selbstverständlich, oder er hat grundsätzlich wenig Respekt vor deinen Bedürfnissen. Manchmal liegt es auch an unklarer Kommunikation deinerseits.'}"
-  - "{'question': 'Wie bringe ich meinen Partner dazu mich ernst zu nehmen?', 'answer': "Durch klare Ich-Botschaften, konkrete Beispiele und konsequentes Handeln. Sage nicht 'Du hörst nie zu' sondern 'Wenn ich über X rede und du aufs Handy schaust, fühle ich mich unwichtig.'"}"
-  - "{'question': 'Ab wann ist mangelnder Respekt ein Trennungsgrund?', 'answer': 'Wenn du das Thema mehrfach klar angesprochen hast und sich nichts ändert. Wenn du dich dauerhaft klein, unsichtbar oder unwichtig fühlst, ist das ein ernstes Warnsignal.'}"
+  - question: "Warum nimmt mein Partner mich nicht ernst?"
+    answer: "Mögliche Gründe: Er hat nie gelernt zuzuhören, er nimmt dich als selbstverständlich, oder er hat grundsätzlich wenig Respekt vor deinen Bedürfnissen. Manchmal liegt es auch an unklarer Kommunikation deinerseits."
+  - question: "Wie bringe ich meinen Partner dazu mich ernst zu nehmen?"
+    answer: "Durch klare Ich-Botschaften, konkrete Beispiele und konsequentes Handeln. Sage nicht"
+  - question: "Ab wann ist mangelnder Respekt ein Trennungsgrund?"
+    answer: "Wenn du das Thema mehrfach klar angesprochen hast und sich nichts ändert. Wenn du dich dauerhaft klein, unsichtbar oder unwichtig fühlst, ist das ein ernstes Warnsignal."
 ---
 
 Du versuchst, deinem Partner etwas zu erklären, das dir wichtig ist. Du merkst, wie er nur halb zuhört, mit seinem Handy herumspieltoder dir einfach nicht in die Augen schaut. Und dann die klassischen Kommentare: "Überreib nicht." "Das ist doch kein großes Problem." "Du machst es dir selbst schwer." Deine Sorge wird als Drama abgetan. Dein Gefühl wird als unbegründet behandelt.

@@ -16,10 +16,14 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Wie lange dauert die Honeymoon-Phase?', 'answer': 'Typischerweise 6-18 Monate. Die Neurochemie der Verliebtheit — Dopamin, Noradrenalin, Serotonin — normalisiert sich in dieser Zeit. Das ist biologisch programmiert und bei jedem Paar so.'}"
-  - "{'question': 'Ist die Beziehung vorbei wenn die Schmetterlinge weg sind?', 'answer': 'Nein! Die Schmetterlinge waren nie die Liebe — sie waren Verliebtheit, ein neurochemischer Cocktail. Echte Liebe beginnt erst, wenn dieser Rausch nachlässt und ihr euch bewusst füreinander entscheidet.'}"
-  - "{'question': 'Kann man die Schmetterlinge zurückholen?', 'answer': 'Die exakt gleiche Intensität nicht — aber das Kribbeln absolut. Neue gemeinsame Erfahrungen, Überraschungen und bewusste Romantik aktivieren ähnliche Gehirnareale wie in der Anfangsphase.'}"
-  - "{'question': 'Wie merke ich ob ich noch verliebt bin oder nur gewöhnt?', 'answer': 'Frag dich: Freust du dich, wenn dein Partner nach Hause kommt? Möchtest du seine/ihre Meinung hören? Berührt es dich, wenn er/sie traurig ist? Wenn ja, sind das Zeichen tiefer Verbundenheit — das ist mehr als Gewohnheit.'}"
+  - question: "Wie lange dauert die Honeymoon-Phase?"
+    answer: "Typischerweise 6-18 Monate. Die Neurochemie der Verliebtheit — Dopamin, Noradrenalin, Serotonin — normalisiert sich in dieser Zeit. Das ist biologisch programmiert und bei jedem Paar so."
+  - question: "Ist die Beziehung vorbei wenn die Schmetterlinge weg sind?"
+    answer: "Nein! Die Schmetterlinge waren nie die Liebe — sie waren Verliebtheit, ein neurochemischer Cocktail. Echte Liebe beginnt erst, wenn dieser Rausch nachlässt und ihr euch bewusst füreinander entscheidet."
+  - question: "Kann man die Schmetterlinge zurückholen?"
+    answer: "Die exakt gleiche Intensität nicht — aber das Kribbeln absolut. Neue gemeinsame Erfahrungen, Überraschungen und bewusste Romantik aktivieren ähnliche Gehirnareale wie in der Anfangsphase."
+  - question: "Wie merke ich ob ich noch verliebt bin oder nur gewöhnt?"
+    answer: "Frag dich: Freust du dich, wenn dein Partner nach Hause kommt? Möchtest du seine/ihre Meinung hören? Berührt es dich, wenn er/sie traurig ist? Wenn ja, sind das Zeichen tiefer Verbundenheit — das ist mehr als Gewohnheit."
 ---
 ## Einleitung: Dieses seltsame Gefühl, wenn der Rausch nachlässt
 

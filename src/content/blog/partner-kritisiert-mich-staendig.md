@@ -16,11 +16,16 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Ist es normal, dass ein Partner mich kritisiert?', 'answer': 'Ja, aber es gibt einen Unterschied zwischen konstruktivem Feedback und ständiger Kritik. Konstruktives Feedback ist selten, spezifisch und liebevoll formuliert. Ständige Kritik ist regelmäßig, verallgemeinert und verletzend.'}"
-  - "{'question': 'Warum kritisiert mein Partner mich so viel?', 'answer': 'Es kann viele Gründe geben: Er hat hohe Ansprüche, wurde selbst kritisiert, verarbeitet Groll, oder es ist ein Kontrollmechanismus. Manchmal ist es einfach ein Persönlichkeitsmerkmal. Aber die Auswirkung ist auf dich – nicht sein Grund.'}"
-  - "{'question': 'Wenn ich mich verteitige, wird es nur schlimmer – stimmt das?', 'answer': "Teilweise. Aggressive Verteidigung eskaliert. Aber ruhige, klare Grenzen setzen ist wichtig. Der Unterschied ist: 'Das tut mir weh und muss stoppt' statt 'Du machst das nicht!'"}"
-  - "{'question': 'Wie viel Kritik ist zu viel?', 'answer': 'Wenn es tägliche ist, wenn du dich ständig für deine Existenz rechtfertigst, wenn dein Selbstwertgefühl leidet – das ist zu viel. Ein gesunder Partner kritisiert konstruktiv, nicht permanent.'}"
-  - "{'question': 'Was, wenn mein Partner meine Grenzen ignoriert?', 'answer': 'Dann hast du ein ernstes Problem. Ein liebevoller Partner wird auf deine Grenzen respektieren. Wenn er sie ignoriert, ist das ein Zeichen von emotionalen Missbrauch. Du brauchst möglicherweise externe Hilfe oder zu gehen.'}"
+  - question: "Ist es normal, dass ein Partner mich kritisiert?"
+    answer: "Ja, aber es gibt einen Unterschied zwischen konstruktivem Feedback und ständiger Kritik. Konstruktives Feedback ist selten, spezifisch und liebevoll formuliert. Ständige Kritik ist regelmäßig, verallgemeinert und verletzend."
+  - question: "Warum kritisiert mein Partner mich so viel?"
+    answer: "Es kann viele Gründe geben: Er hat hohe Ansprüche, wurde selbst kritisiert, verarbeitet Groll, oder es ist ein Kontrollmechanismus. Manchmal ist es einfach ein Persönlichkeitsmerkmal. Aber die Auswirkung ist auf dich – nicht sein Grund."
+  - question: "Wenn ich mich verteitige, wird es nur schlimmer – stimmt das?"
+    answer: "Teilweise. Aggressive Verteidigung eskaliert. Aber ruhige, klare Grenzen setzen ist wichtig. Der Unterschied ist:"
+  - question: "Wie viel Kritik ist zu viel?"
+    answer: "Wenn es tägliche ist, wenn du dich ständig für deine Existenz rechtfertigst, wenn dein Selbstwertgefühl leidet – das ist zu viel. Ein gesunder Partner kritisiert konstruktiv, nicht permanent."
+  - question: "Was, wenn mein Partner meine Grenzen ignoriert?"
+    answer: "Dann hast du ein ernstes Problem. Ein liebevoller Partner wird auf deine Grenzen respektieren. Wenn er sie ignoriert, ist das ein Zeichen von emotionalen Missbrauch. Du brauchst möglicherweise externe Hilfe oder zu gehen."
 ---
 Du machst das Frühstück, und er sagt: "Du machst die Eier wieder zu knusprig." Du erzählst ihm von deine Arbeit, und sie antwortet: "Na ja, aber mit besserer Vorbereitung hätte das nicht passiert." Du trägst ein neue Kleid, und er schaut und sagt nichts – oder schlimmer, "Das sitzt dir irgendwie nicht."
 

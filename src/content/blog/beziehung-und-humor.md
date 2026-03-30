@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/beziehung-und-humor.webp"
 imageAlt: "Lachendes Paar beim gemeinsamen Abendessen"
 faq:
-  - "{'question': 'Wie wichtig ist gleicher Humor in einer Beziehung?', 'answer': 'Sehr wichtig. Paare mit ähnlichem Humor fühlen sich stärker verbunden und bewältigen Konflikte besser. Es geht nicht darum, dieselben Witze lustig zu finden, sondern darum, die Welt ähnlich zu sehen.'}"
-  - "{'question': 'Kann zu viel Humor in der Beziehung schaden?', 'answer': 'Ja, wenn Humor als Schutzschild benutzt wird. Wer jedes ernste Gespräch mit einem Witz abblockt, vermeidet echte Auseinandersetzung. Humor sollte verbinden, nicht ablenken.'}"
-  - "{'question': 'Was mache ich, wenn mein Partner meinen Humor nicht versteht?', 'answer': 'Erklärt euch gegenseitig, was ihr lustig findet und warum. Manchmal wächst das Verständnis mit der Zeit. Wenn der Humor aber grundsätzlich nicht passt, kann das auf Dauer zum Problem werden.'}"
+  - question: "Wie wichtig ist gleicher Humor in einer Beziehung?"
+    answer: "Sehr wichtig. Paare mit ähnlichem Humor fühlen sich stärker verbunden und bewältigen Konflikte besser. Es geht nicht darum, dieselben Witze lustig zu finden, sondern darum, die Welt ähnlich zu sehen."
+  - question: "Kann zu viel Humor in der Beziehung schaden?"
+    answer: "Ja, wenn Humor als Schutzschild benutzt wird. Wer jedes ernste Gespräch mit einem Witz abblockt, vermeidet echte Auseinandersetzung. Humor sollte verbinden, nicht ablenken."
+  - question: "Was mache ich, wenn mein Partner meinen Humor nicht versteht?"
+    answer: "Erklärt euch gegenseitig, was ihr lustig findet und warum. Manchmal wächst das Verständnis mit der Zeit. Wenn der Humor aber grundsätzlich nicht passt, kann das auf Dauer zum Problem werden."
 ---
 ## Lachen ist der kürzeste Weg zueinander: Die Wissenschaft dahinter
 

@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - "{'question': 'Soll ich ein neues Profil erstellen oder das alte reaktivieren?', 'answer': 'Ein komplett neues Profil ist fast immer die bessere Wahl. Du bekommst den Neulings-Boost des Algorithmus, kannst mit besseren Fotos und einem frischen Profiltext starten und hast keine alte Match-Liste die dich runterzieht.'}"
-  - "{'question': 'Wie lange sollte eine Dating-Pause sein?', 'answer': 'Mindestens 4-6 Wochen, idealerweise 2-3 Monate. Wichtiger als die Dauer ist, dass du die Pause aktiv nutzt — für Selbstreflexion, neue Hobbys und echte Erholung. Du solltest dich auf die Rückkehr freuen, nicht dazu zwingen.'}"
-  - "{'question': 'Was hat sich bei Dating-Apps seit meiner Pause geändert?', 'answer': 'Dating-Apps entwickeln sich schnell. 2026 sind Video-Profile, Voice-Prompts und KI-gestützte Matching-Algorithmen Standard. Die Grundprinzipien bleiben aber gleich: gute Fotos, authentischer Profiltext und echte Gespräche.'}"
-  - "{'question': 'Warum fühlt sich der Wiedereinstieg so schwer an?', 'answer': 'Das ist völlig normal. Du hattest dich an das Leben ohne die App gewöhnt und jetzt konfrontierst du dich wieder mit Verletzlichkeit. Der Trick ist, langsam zu starten — wenige Swipes pro Tag, keine Erwartungen, und Spaß dabei haben.'}"
+  - question: "Soll ich ein neues Profil erstellen oder das alte reaktivieren?"
+    answer: "Ein komplett neues Profil ist fast immer die bessere Wahl. Du bekommst den Neulings-Boost des Algorithmus, kannst mit besseren Fotos und einem frischen Profiltext starten und hast keine alte Match-Liste die dich runterzieht."
+  - question: "Wie lange sollte eine Dating-Pause sein?"
+    answer: "Mindestens 4-6 Wochen, idealerweise 2-3 Monate. Wichtiger als die Dauer ist, dass du die Pause aktiv nutzt — für Selbstreflexion, neue Hobbys und echte Erholung. Du solltest dich auf die Rückkehr freuen, nicht dazu zwingen."
+  - question: "Was hat sich bei Dating-Apps seit meiner Pause geändert?"
+    answer: "Dating-Apps entwickeln sich schnell. 2026 sind Video-Profile, Voice-Prompts und KI-gestützte Matching-Algorithmen Standard. Die Grundprinzipien bleiben aber gleich: gute Fotos, authentischer Profiltext und echte Gespräche."
+  - question: "Warum fühlt sich der Wiedereinstieg so schwer an?"
+    answer: "Das ist völlig normal. Du hattest dich an das Leben ohne die App gewöhnt und jetzt konfrontierst du dich wieder mit Verletzlichkeit. Der Trick ist, langsam zu starten — wenige Swipes pro Tag, keine Erwartungen, und Spaß dabei haben."
 ---
 Du öffnest dein Smartphone, scrollst durch deine Apps und siehst die Dating-App mit dem roten Benachrichtigungspunkt. Momente lang zögerst du. Es ist schon lange her, dass du die App zum letzten Mal geöffnet hast. Manche sprechen von wenigen Wochen, bei anderen sind es Monate. Das Gefühl ist aber überall gleich: eine Mischung aus Neugier, Nervosität und der stillen Hoffnung, dass es dieses Mal besser läuft.
 

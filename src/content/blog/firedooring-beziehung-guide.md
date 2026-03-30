@@ -17,11 +17,16 @@ keywords:
 image: "/images/blog/firedooring-beziehung-guide.webp"
 draft: false
 faq:
-  - "{'question': 'Was ist Firedooring in einer Beziehung?', 'answer': 'Firedooring ist, wenn eine Person in einer Beziehung (der Giver) alles tut – initiiert, bemüht sich, plant – während die andere Person (der Taker) passiv bleibt und sich nicht gleichwertig bemüht.'}"
-  - "{'question': 'Woher kommt der Begriff Firedooring?', 'answer': "Der Begriff kommt von Gillian Flynn's Buch. Eine 'Firedoor' ist eine Tür, die nur von einer Seite geöffnet werden kann. In einer Beziehung bedeutet das, dass nur eine Person die Tür öffnen kann, um Kontakt zu schaffen."}"
-  - "{'question': 'Wie unterscheidet sich Firedooring von Introversion?', 'answer': 'Ein introvertierter Partner könnte weniger soziale Energie haben, aber sie werden dich immer noch voll erwidern, wenn du Kontakt suchst. Ein Firedooring-Partner gibt dir auch wenn du dich anstrengst nicht viel zurück.'}"
-  - "{'question': 'Wie kann ich testen, ob ich firedoored werde?', 'answer': 'Stoppe alle Initiationen für eine Woche. Setz dich zurück. Wenn dein Partner dich während dieser Zeit kontaktiert oder nach dir fragt, dann wirst du wahrscheinlich nicht gefiredoort. Wenn nichts passiert, dann ja.'}"
-  - "{'question': 'Wann ist es Zeit, eine Firedooring-Beziehung zu beenden?', 'answer': 'Wenn du das Problem kommuniziert hast, dich deutlich bemüht hast, es zu beheben und die andere Person zeigt keine Bereitschaft zu verändern – dann ist es Zeit zu gehen.'}"
+  - question: "Was ist Firedooring in einer Beziehung?"
+    answer: "Firedooring ist, wenn eine Person in einer Beziehung (der Giver) alles tut – initiiert, bemüht sich, plant – während die andere Person (der Taker) passiv bleibt und sich nicht gleichwertig bemüht."
+  - question: "Woher kommt der Begriff Firedooring?"
+    answer: "Der Begriff kommt von Gillian Flynn"
+  - question: "Wie unterscheidet sich Firedooring von Introversion?"
+    answer: "Ein introvertierter Partner könnte weniger soziale Energie haben, aber sie werden dich immer noch voll erwidern, wenn du Kontakt suchst. Ein Firedooring-Partner gibt dir auch wenn du dich anstrengst nicht viel zurück."
+  - question: "Wie kann ich testen, ob ich firedoored werde?"
+    answer: "Stoppe alle Initiationen für eine Woche. Setz dich zurück. Wenn dein Partner dich während dieser Zeit kontaktiert oder nach dir fragt, dann wirst du wahrscheinlich nicht gefiredoort. Wenn nichts passiert, dann ja."
+  - question: "Wann ist es Zeit, eine Firedooring-Beziehung zu beenden?"
+    answer: "Wenn du das Problem kommuniziert hast, dich deutlich bemüht hast, es zu beheben und die andere Person zeigt keine Bereitschaft zu verändern – dann ist es Zeit zu gehen."
 ---
 
 ## Was ist Firedooring und warum ist es so verletzend?

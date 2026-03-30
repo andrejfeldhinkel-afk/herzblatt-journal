@@ -14,9 +14,12 @@ draft: false
 image: "/images/photos/dating-heidelberg.webp"
 imageAlt: "Heidelberg"
 faq:
-  - "{'question': 'Wo lernt man in Heidelberg Singles kennen?', 'answer': 'In Heidelberg findest du eine aktive Single-Szene vor allem in der Altstadt, an der Universität und in trendy Bars wie dem Dexter oder den Kulturfesten. Die vielen studentischen Kneipen in der Weststadt sind auch großartig für entspannte Kennenlernmomente.'}"
-  - "{'question': 'Was sind die besten Date-Ideen in Heidelberg?', 'answer': 'Romantische Dates sind am Schloss, entlang des Neckars oder auf dem Philosophenweg perfekt. Du kannst auch einen Spaziergang über die Alte Brücke machen, die Stadt vom Heidelberg Castle Tower genießen oder eine Weinprobe bei lokalen Winzern unternehmen.'}"
-  - "{'question': 'Gibt es eine gute Single-Szene in Heidelberg?', 'answer': 'Ja, Heidelberg hat eine sehr lebendige und junge Single-Szene. Mit etwa 30.000 Studierenden sind die Uni-Orte wie die Mensa, studentische Kneipen und Uni-Events ständig voll mit interessanten Menschen. Auch die vielen kulturellen Veranstaltungen ziehen regelmäßig Singles an.'}"
+  - question: "Wo lernt man in Heidelberg Singles kennen?"
+    answer: "In Heidelberg findest du eine aktive Single-Szene vor allem in der Altstadt, an der Universität und in trendy Bars wie dem Dexter oder den Kulturfesten. Die vielen studentischen Kneipen in der Weststadt sind auch großartig für entspannte Kennenlernmomente."
+  - question: "Was sind die besten Date-Ideen in Heidelberg?"
+    answer: "Romantische Dates sind am Schloss, entlang des Neckars oder auf dem Philosophenweg perfekt. Du kannst auch einen Spaziergang über die Alte Brücke machen, die Stadt vom Heidelberg Castle Tower genießen oder eine Weinprobe bei lokalen Winzern unternehmen."
+  - question: "Gibt es eine gute Single-Szene in Heidelberg?"
+    answer: "Ja, Heidelberg hat eine sehr lebendige und junge Single-Szene. Mit etwa 30.000 Studierenden sind die Uni-Orte wie die Mensa, studentische Kneipen und Uni-Events ständig voll mit interessanten Menschen. Auch die vielen kulturellen Veranstaltungen ziehen regelmäßig Singles an."
 ---
 ## dating in Heidelberg: Wo Romantik auf Studentenlife trifft
 

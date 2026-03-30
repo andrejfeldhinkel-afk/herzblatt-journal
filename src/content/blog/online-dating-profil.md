@@ -13,10 +13,14 @@ draft: false
 image: "/images/photos/online-dating-profil.webp"
 imageAlt: "Illustration eines Dating-Profils"
 faq:
-  - "{'question': 'Wie viele Fotos sollte ich in meinem Profil verwenden?', 'answer': 'Idealerweise 3-5 Fotos: ein klares Porträt, ein Ganzkörperfoto, eines bei einer Aktivität die du liebst, und vielleicht eins mit Freunden. Qualität ist wichtiger als Quantität.'}"
-  - "{'question': 'Was sollte ich in meiner Bio schreiben?', 'answer': 'Schreib 3-4 Sätze, die zeigen, wer du bist: eine Eigenschaft, deine Hobbys/Interessen, und was du suchst. Sei spezifisch und authentisch statt generisch.'}"
-  - "{'question': 'Wie schreibe ich die beste erste Nachricht?', 'answer': "Beziehe dich auf etwas aus seinem/ihrem Profil und stelle eine offene Frage. Vermeide generische Opener wie 'Hey'. Zeige echtes Interesse und Persönlichkeit."}"
-  - "{'question': 'Welche Dating-App ist die beste?', 'answer': 'Die beste App ist die, wo deine Zielgruppe aktiv ist. Probiere verschiedene aus und schaue, wo du die meisten echten Matches mit guter Chemie findest.'}"
+  - question: "Wie viele Fotos sollte ich in meinem Profil verwenden?"
+    answer: "Idealerweise 3-5 Fotos: ein klares Porträt, ein Ganzkörperfoto, eines bei einer Aktivität die du liebst, und vielleicht eins mit Freunden. Qualität ist wichtiger als Quantität."
+  - question: "Was sollte ich in meiner Bio schreiben?"
+    answer: "Schreib 3-4 Sätze, die zeigen, wer du bist: eine Eigenschaft, deine Hobbys/Interessen, und was du suchst. Sei spezifisch und authentisch statt generisch."
+  - question: "Wie schreibe ich die beste erste Nachricht?"
+    answer: "Beziehe dich auf etwas aus seinem/ihrem Profil und stelle eine offene Frage. Vermeide generische Opener wie"
+  - question: "Welche Dating-App ist die beste?"
+    answer: "Die beste App ist die, wo deine Zielgruppe aktiv ist. Probiere verschiedene aus und schaue, wo du die meisten echten Matches mit guter Chemie findest."
 ---
 ## Dein Profil entscheidet alles
 

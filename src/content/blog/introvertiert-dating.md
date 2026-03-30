@@ -15,11 +15,16 @@ draft: false
 featured: false
 author: "laura-weber"
 faq:
-  - "{'question': 'Ist es schwieriger, als Introvertierter einen Partner zu finden?', 'answer': 'Nicht schwieriger – anders. Du hast andere Stärken: Tiefe, Zuhören, Authentizität. Das Problem ist, dass du diese Stärken oft nicht zeigst, weil du nervös bist.'}"
-  - "{'question': 'Muss ich meine Introversion ändern, um zu daten?', 'answer': 'Nein, auf keinen Fall. Du brauchst Strategien, um deine Introversion zu arbeiten – nicht gegen sie. Das Richtige ist, dich selbst zu akzeptieren und Partner zu suchen, der das auch tut.'}"
-  - "{'question': 'Funktioniert Online-Dating besser für Introvertierte?', 'answer': 'Ja, oft. Es gibt dir Zeit, zu denken, bevor du antwortest. Du kannst Profile lesen und dich vorbereiten. Es ist weniger spontan, weniger energieverbrauchend.'}"
-  - "{'question': 'Wie zeige ich Interesse, ohne aufdringlich zu wirken?', 'answer': 'Durch aktives Zuhören, Fragen stellen, sich merken, was der andere sagt. Das ist subtil, authentisch und wirkt nicht erzwungen – weil es echt ist.'}"
-  - "{'question': 'Wie gehe ich mit der Angst vor Ablehnung um?', 'answer': 'Ablehnung tut weh. Aber introvertierte Menschen vergessen oft: Wenn jemand dich nicht mag, liegt es meist nicht an dir – er/sie passt nicht zu dir. Das ist Filterung, nicht Versagen.'}"
+  - question: "Ist es schwieriger, als Introvertierter einen Partner zu finden?"
+    answer: "Nicht schwieriger – anders. Du hast andere Stärken: Tiefe, Zuhören, Authentizität. Das Problem ist, dass du diese Stärken oft nicht zeigst, weil du nervös bist."
+  - question: "Muss ich meine Introversion ändern, um zu daten?"
+    answer: "Nein, auf keinen Fall. Du brauchst Strategien, um deine Introversion zu arbeiten – nicht gegen sie. Das Richtige ist, dich selbst zu akzeptieren und Partner zu suchen, der das auch tut."
+  - question: "Funktioniert Online-Dating besser für Introvertierte?"
+    answer: "Ja, oft. Es gibt dir Zeit, zu denken, bevor du antwortest. Du kannst Profile lesen und dich vorbereiten. Es ist weniger spontan, weniger energieverbrauchend."
+  - question: "Wie zeige ich Interesse, ohne aufdringlich zu wirken?"
+    answer: "Durch aktives Zuhören, Fragen stellen, sich merken, was der andere sagt. Das ist subtil, authentisch und wirkt nicht erzwungen – weil es echt ist."
+  - question: "Wie gehe ich mit der Angst vor Ablehnung um?"
+    answer: "Ablehnung tut weh. Aber introvertierte Menschen vergessen oft: Wenn jemand dich nicht mag, liegt es meist nicht an dir – er/sie passt nicht zu dir. Das ist Filterung, nicht Versagen."
 ---
 
 ## Einführung: Introversion ist kein Makel beim Dating

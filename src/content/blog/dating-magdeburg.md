@@ -14,10 +14,14 @@ draft: false
 image: "/images/photos/dating-magdeburg.webp"
 imageAlt: "Magdeburg dating scene"
 faq:
-  - "{'question': 'Wo kann man in Magdeburg am besten Singles kennenlernen?', 'answer': 'Der Hasselbachplatz ist der zentrale Treffpunkt für Singles. Auch am Elbauenpark und rund um den Dom kannst du viele Menschen kennenlernen. Die Bars im Stadtzentrum und das Kulturangebot sind weitere gute Gelegenheiten.'}"
-  - "{'question': 'Welche Dating-Apps sind in Magdeburg beliebt?', 'answer': 'In Magdeburg sind Tinder, Bumble und Hinge am weitesten verbreitet. Aber auch regionale Apps mit Fokus auf Ostdeutschland haben ihre Nutzer. Die größeren Apps bieten dir die besten Chancen, Matches zu finden.'}"
-  - "{'question': 'Was sind die besten Date-Ideen in Magdeburg?', 'answer': 'Romantische Spaziergänge entlang der Elbe, Museumsbesuche im Dom, Picknick im Elbauenpark oder gemütliche Drinks im Hasselbachplatz sind perfekt. Im Sommer auch Biergärten, im Winter weihnachtliche Märkte.'}"
-  - "{'question': 'Gibt es in Magdeburg eine gute Single-Szene?', 'answer': 'Ja, Magdeburg hat eine aktive Single-Szene mit vielen Veranstaltungen, Clubs und Bars. Die Stadt wird zunehmend jünger und trendiger, und die Nightlife-Szene entwickelt sich ständig weiter.'}"
+  - question: "Wo kann man in Magdeburg am besten Singles kennenlernen?"
+    answer: "Der Hasselbachplatz ist der zentrale Treffpunkt für Singles. Auch am Elbauenpark und rund um den Dom kannst du viele Menschen kennenlernen. Die Bars im Stadtzentrum und das Kulturangebot sind weitere gute Gelegenheiten."
+  - question: "Welche Dating-Apps sind in Magdeburg beliebt?"
+    answer: "In Magdeburg sind Tinder, Bumble und Hinge am weitesten verbreitet. Aber auch regionale Apps mit Fokus auf Ostdeutschland haben ihre Nutzer. Die größeren Apps bieten dir die besten Chancen, Matches zu finden."
+  - question: "Was sind die besten Date-Ideen in Magdeburg?"
+    answer: "Romantische Spaziergänge entlang der Elbe, Museumsbesuche im Dom, Picknick im Elbauenpark oder gemütliche Drinks im Hasselbachplatz sind perfekt. Im Sommer auch Biergärten, im Winter weihnachtliche Märkte."
+  - question: "Gibt es in Magdeburg eine gute Single-Szene?"
+    answer: "Ja, Magdeburg hat eine aktive Single-Szene mit vielen Veranstaltungen, Clubs und Bars. Die Stadt wird zunehmend jünger und trendiger, und die Nightlife-Szene entwickelt sich ständig weiter."
 ---
 ## Dating in Magdeburg: Dein Leitfaden zu Hansestadt Romantik
 

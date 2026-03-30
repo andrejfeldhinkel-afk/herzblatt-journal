@@ -14,10 +14,14 @@ draft: false
 image: "/images/photos/toxische-dating-muster.webp"
 imageAlt: "Nachdenkliche Person"
 faq:
-  - "{'question': 'Warum landen wir immer bei dem gleichen Typ?', 'answer': 'Das ist ein Bindungsmuster aus deiner Kindheit. Du wählst unbewusst Menschen, die vertraute (negative) Dynamiken reproduzieren. Therapie kann dir helfen, das zu durchbrechen.'}"
-  - "{'question': 'Wie erkenne ich toxische Dating-Muster in mir selbst?', 'answer': 'Schau dir deine Beziehungsgeschichte an. Sind da Gemeinsamkeiten? Wählst du emotional nicht verfügbare Menschen? Verlierst du immer dich selbst? Das sind Muster.'}"
-  - "{'question': 'Kann man ein toxisches Muster allein durchbrechen?', 'answer': 'Es ist schwierig allein. Therapie ist sehr effektiv. Selbstreflexion ist ein Start, aber professionelle Hilfe ist oft notwendig, um tiefe Muster zu ändern.'}"
-  - "{'question': 'Wie lange dauert es, ein Pattern zu durchbrechen?', 'answer': 'Das varies. Mit bewusstem Effort und Therapie: 6-12 Monate für erste Fortschritte. Echte Veränderung braucht manchmal Jahre. Sei geduldig mit dir selbst.'}"
+  - question: "Warum landen wir immer bei dem gleichen Typ?"
+    answer: "Das ist ein Bindungsmuster aus deiner Kindheit. Du wählst unbewusst Menschen, die vertraute (negative) Dynamiken reproduzieren. Therapie kann dir helfen, das zu durchbrechen."
+  - question: "Wie erkenne ich toxische Dating-Muster in mir selbst?"
+    answer: "Schau dir deine Beziehungsgeschichte an. Sind da Gemeinsamkeiten? Wählst du emotional nicht verfügbare Menschen? Verlierst du immer dich selbst? Das sind Muster."
+  - question: "Kann man ein toxisches Muster allein durchbrechen?"
+    answer: "Es ist schwierig allein. Therapie ist sehr effektiv. Selbstreflexion ist ein Start, aber professionelle Hilfe ist oft notwendig, um tiefe Muster zu ändern."
+  - question: "Wie lange dauert es, ein Pattern zu durchbrechen?"
+    answer: "Das varies. Mit bewusstem Effort und Therapie: 6-12 Monate für erste Fortschritte. Echte Veränderung braucht manchmal Jahre. Sei geduldig mit dir selbst."
 ---
 ## Warum du immer wieder beim gleichen Typ landest
 

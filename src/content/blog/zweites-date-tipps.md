@@ -15,9 +15,12 @@ draft: false
 image: "/images/photos/zweites-date.webp"
 imageAlt: "Paar beim romantischen Date"
 faq:
-  - "{'question': 'Was macht man beim zweiten Date?', 'answer': 'Das zweite Date sollte aktiver und persönlicher sein als das erste. Gute Ideen sind gemeinsam Kochen, ein Spaziergang mit Picknick, ein Museumsbesuch oder eine sportliche Aktivität. Wichtig ist, dass ihr mehr Zeit miteinander verbringt und euch in einer entspannten Atmosphäre besser kennenlernt.'}"
-  - "{'question': 'Wann sollte das zweite Date stattfinden?', 'answer': 'Ideal ist 3-7 Tage nach dem ersten Date. Zu schnell kann aufdringlich wirken, zu lange lässt das Interesse abkühlen. Melde dich am besten am nächsten Tag nach dem ersten Date und schlage innerhalb der Woche ein zweites Treffen vor.'}"
-  - "{'question': 'Wer sollte das zweite Date vorschlagen?', 'answer': 'Grundsätzlich derjenige, der mehr Interesse zeigt — unabhängig vom Geschlecht. Wenn du das zweite Date willst, schlag es vor. Warten und Spielchen spielen führt nur zu Unsicherheit auf beiden Seiten.'}"
+  - question: "Was macht man beim zweiten Date?"
+    answer: "Das zweite Date sollte aktiver und persönlicher sein als das erste. Gute Ideen sind gemeinsam Kochen, ein Spaziergang mit Picknick, ein Museumsbesuch oder eine sportliche Aktivität. Wichtig ist, dass ihr mehr Zeit miteinander verbringt und euch in einer entspannten Atmosphäre besser kennenlernt."
+  - question: "Wann sollte das zweite Date stattfinden?"
+    answer: "Ideal ist 3-7 Tage nach dem ersten Date. Zu schnell kann aufdringlich wirken, zu lange lässt das Interesse abkühlen. Melde dich am besten am nächsten Tag nach dem ersten Date und schlage innerhalb der Woche ein zweites Treffen vor."
+  - question: "Wer sollte das zweite Date vorschlagen?"
+    answer: "Grundsätzlich derjenige, der mehr Interesse zeigt — unabhängig vom Geschlecht. Wenn du das zweite Date willst, schlag es vor. Warten und Spielchen spielen führt nur zu Unsicherheit auf beiden Seiten."
 ---
 ## Das zweite Date: Warum dieser Moment entscheidend ist
 

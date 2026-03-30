@@ -16,11 +16,16 @@ keywords:
   - "Relationship Goals"
   - "Instagram"
 faq:
-  - "{'question': 'Was ist Softlaunching einer Beziehung?', 'answer': 'Softlaunching bedeutet, die neue Beziehung schrittweise und subtil auf Social Media zu teilen, statt eine große Ankündigung zu machen. Du zeigst deinen Partner oder deine Partnerin indirekt — durch Bilder, auf denen nur eine Hand, der Schatten oder die Beine zu sehen sind, oder du taggst die gemeinsame Location, ohne dass dein Gegenüber direkt erkennbar ist.'}"
-  - "{'question': 'Warum ist Softlaunching so beliebt geworden?', 'answer': "Gen Z und junge Millennials nutzen Softlaunching aus mehreren Gründen: Es gibt Zeit, um sicherzustellen, dass die Beziehung stabil ist, bevor die Social-Media-Welt Meinungen bildet. Es reduziert auch den Druck und die Erwartungen anderer Menschen und bietet einen sanfteren Übergang von 'Single' zu 'In a Relationship'."}"
-  - "{'question': 'Welche Vorteile hat das Softlaunching?', 'answer': 'Die Hauptvorteile sind der Schutz deiner Privatsphäre, weniger externe Erwartungen und Druck, Zeit, um zu testen, ob die Beziehung haltbar ist, und eine kreativere, spielerischere Art, deine Partnerschaft zu dokumentieren. Es fühlt sich auch weniger performativ an als ein klassisches Couple-Post.'}"
-  - "{'question': 'Wann sollte ich von Softlaunch zu Hardlaunch übergehen?', 'answer': 'Der Übergang zum Hardlaunch erfolgt normalerweise nach 2-6 Monaten, wenn die Beziehung stabil wirkt und beide Partner bereit sind, diese Stabilität auch öffentlich zu zeigen. Es sollte eine gegenseitige Entscheidung sein, nicht Druck von außen oder von der anderen Person ausgelöst.'}"
-  - "{'question': 'Was ist, wenn mein Partner nicht will, dass wir auf Social Media gezeigt werden?', 'answer': 'Das ist ein wichtiges Gespräch über Grenzen und Komfortzonen. Manche Menschen sind private Personen und möchten nicht öffentlich sein. Das ist berechtigt. Ihr solltet einen Kompromiss finden — vielleicht ein subtilerer Softlaunch oder vereinbarte Grenzen, wann und wie ihr euch zeigt. Gegenseitiger Respekt ist hierbei essentiell.'}"
+  - question: "Was ist Softlaunching einer Beziehung?"
+    answer: "Softlaunching bedeutet, die neue Beziehung schrittweise und subtil auf Social Media zu teilen, statt eine große Ankündigung zu machen. Du zeigst deinen Partner oder deine Partnerin indirekt — durch Bilder, auf denen nur eine Hand, der Schatten oder die Beine zu sehen sind, oder du taggst die gemeinsame Location, ohne dass dein Gegenüber direkt erkennbar ist."
+  - question: "Warum ist Softlaunching so beliebt geworden?"
+    answer: "Gen Z und junge Millennials nutzen Softlaunching aus mehreren Gründen: Es gibt Zeit, um sicherzustellen, dass die Beziehung stabil ist, bevor die Social-Media-Welt Meinungen bildet. Es reduziert auch den Druck und die Erwartungen anderer Menschen und bietet einen sanfteren Übergang von"
+  - question: "Welche Vorteile hat das Softlaunching?"
+    answer: "Die Hauptvorteile sind der Schutz deiner Privatsphäre, weniger externe Erwartungen und Druck, Zeit, um zu testen, ob die Beziehung haltbar ist, und eine kreativere, spielerischere Art, deine Partnerschaft zu dokumentieren. Es fühlt sich auch weniger performativ an als ein klassisches Couple-Post."
+  - question: "Wann sollte ich von Softlaunch zu Hardlaunch übergehen?"
+    answer: "Der Übergang zum Hardlaunch erfolgt normalerweise nach 2-6 Monaten, wenn die Beziehung stabil wirkt und beide Partner bereit sind, diese Stabilität auch öffentlich zu zeigen. Es sollte eine gegenseitige Entscheidung sein, nicht Druck von außen oder von der anderen Person ausgelöst."
+  - question: "Was ist, wenn mein Partner nicht will, dass wir auf Social Media gezeigt werden?"
+    answer: "Das ist ein wichtiges Gespräch über Grenzen und Komfortzonen. Manche Menschen sind private Personen und möchten nicht öffentlich sein. Das ist berechtigt. Ihr solltet einen Kompromiss finden — vielleicht ein subtilerer Softlaunch oder vereinbarte Grenzen, wann und wie ihr euch zeigt. Gegenseitiger Respekt ist hierbei essentiell."
 ---
 
 ## Was ist Softlaunching wirklich?

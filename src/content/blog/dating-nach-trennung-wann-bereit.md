@@ -10,9 +10,12 @@ image: "/images/photos/dating-nach-trennung.webp"
 imageAlt: "Person schaut hoffnungsvoll in die Zukunft"
 featured: false
 faq:
-  - "{'question': 'Wie lange sollte ich nach einer Trennung warten, bevor ich daten gehe?', 'answer': 'Es gibt keine feste Regel. Eine Faustregel: Mindestens 3-6 Monate, wenn die Beziehung kurz war. Für längere Beziehungen (3+ Jahre) solltest du 6-12 Monate warten. Aber echte Bereitschaft ist wichtiger als Zeitrahmen.'}"
-  - "{'question': 'Was sind Zeichen, dass ich nicht bereit zum Daten bin?', 'answer': 'Wenn du noch an deinem Ex denkst, hoffnungsvoll darauf wartest, dass ihr zusammenkommt, oder wenn du datierst, um die Schmerzen zu vermeiden – dann bist du nicht bereit. Bereitschaft bedeutet inneren Frieden mit der Trennung.'}"
-  - "{'question': 'Ist es falsch, schnell nach einer Trennung zu daten?', 'answer': 'Es hängt davon ab, warum. Wenn du wirklich über die Person hinwegkommst und dich einsam fühlst, ist etwas Daten okay. Wenn du vermeidest, deine Schmerzen zu fühlen – das ist unhealthy und führt zu Problemen in neuen Beziehungen.'}"
+  - question: "Wie lange sollte ich nach einer Trennung warten, bevor ich daten gehe?"
+    answer: "Es gibt keine feste Regel. Eine Faustregel: Mindestens 3-6 Monate, wenn die Beziehung kurz war. Für längere Beziehungen (3+ Jahre) solltest du 6-12 Monate warten. Aber echte Bereitschaft ist wichtiger als Zeitrahmen."
+  - question: "Was sind Zeichen, dass ich nicht bereit zum Daten bin?"
+    answer: "Wenn du noch an deinem Ex denkst, hoffnungsvoll darauf wartest, dass ihr zusammenkommt, oder wenn du datierst, um die Schmerzen zu vermeiden – dann bist du nicht bereit. Bereitschaft bedeutet inneren Frieden mit der Trennung."
+  - question: "Ist es falsch, schnell nach einer Trennung zu daten?"
+    answer: "Es hängt davon ab, warum. Wenn du wirklich über die Person hinwegkommst und dich einsam fühlst, ist etwas Daten okay. Wenn du vermeidest, deine Schmerzen zu fühlen – das ist unhealthy und führt zu Problemen in neuen Beziehungen."
 ---
 Du bist gerade von jemandem weggegangen, oder jemand ist von dir weggegangen. Der Schmerz ist noch frisch. Aber irgendwann fragst du dich: Wann kann ich wieder daten?
 

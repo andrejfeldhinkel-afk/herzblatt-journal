@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/dating-nach-freundschaft.webp"
 imageAlt: "Freund wird Partner"
 faq:
-  - "{'question': 'Kann eine Freundschaft in eine Beziehung verwandelt werden, ohne alles zu zerstören?', 'answer': 'Ja, aber es ist delicate. Wenn beide fühlen das gleiche, könnte es wirklich funktionieren. Aber wenn du der einzige bist, der romantische Gefühle hat, könntest du die Freundschaft verlieren. Es ist wichtig zu verstehen, wo dein Freund steht bevor du deine Gefühle aussagst.'}"
-  - "{'question': 'Sollte ich meinem Freund sagen, dass ich Gefühle haben?', 'answer': 'Das hängt davon ab, wie sehr du die Freundschaft schätzen. Wenn du dich okay fühlst mit Ablehnung und vielleicht der Freundschaft aufzugeben, sagen es. Wenn du absichtlich Gefühle verstecken möchtest, wird das manchmal schwer. Es ist besser, ehrlich zu sein.'}"
-  - "{'question': 'Wie navigierst du, wenn ein Freund Gefühle gesteht, aber du nicht retournierst?', 'answer': 'Mit Kindheit und Klarheit. "Ich schätze deine Honesty so sehr. Aber ich sehe dich nicht romantisch. Ich möchte unsere Freundschaft behalten, wenn möglich." Dann gib deinem Freund Raum, wenn nötig. Manchmal ist eine Pause notwendig.'}"
+  - question: "Kann eine Freundschaft in eine Beziehung verwandelt werden, ohne alles zu zerstören?"
+    answer: "Ja, aber es ist delicate. Wenn beide fühlen das gleiche, könnte es wirklich funktionieren. Aber wenn du der einzige bist, der romantische Gefühle hat, könntest du die Freundschaft verlieren. Es ist wichtig zu verstehen, wo dein Freund steht bevor du deine Gefühle aussagst."
+  - question: "Sollte ich meinem Freund sagen, dass ich Gefühle haben?"
+    answer: "Das hängt davon ab, wie sehr du die Freundschaft schätzen. Wenn du dich okay fühlst mit Ablehnung und vielleicht der Freundschaft aufzugeben, sagen es. Wenn du absichtlich Gefühle verstecken möchtest, wird das manchmal schwer. Es ist besser, ehrlich zu sein."
+  - question: "Wie navigierst du, wenn ein Freund Gefühle gesteht, aber du nicht retournierst?"
+    answer: "Mit Kindheit und Klarheit."
 ---
 
 Eine der kompliziertesten Dynamiken in der Datierung ist, wenn du Gefühle für einen Freund entwickelst — insbesondere wenn es um vom geht — besonders wenn es um partner geht. Die Verwirrung, der potenzielle Risiko, die Hoffnung – es ist eine emotionale Achterbahn.

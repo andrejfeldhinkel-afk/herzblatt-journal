@@ -17,10 +17,14 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - "{'question': 'Warum spielen Menschen beim Dating Spielchen?', 'answer': 'Die häufigsten Gründe sind Unsicherheit, Bindungsangst, das Bedürfnis nach Kontrolle oder schlicht fehlende emotionale Reife. Manche haben auch gelernt, dass Spielchen funktionieren — und wiederholen das Muster.'}"
-  - "{'question': 'Wie reagiere ich am besten auf Dating-Spielchen?', 'answer': 'Bleib bei dir. Mach nicht mit und spiegle das Verhalten nicht. Kommuniziere klar, was du dir wünschst. Wenn die andere Person nicht auf dein Level kommt, ist das deine Antwort.'}"
-  - "{'question': 'Sind alle Dating-Spielchen manipulativ?', 'answer': 'Nicht alle. Manche Menschen spielen unbewusst Spielchen aus Unsicherheit. Aber ob bewusst oder unbewusst — wenn dich das Verhalten verletzt und die Person nicht bereit ist, es zu ändern, ist es ein Problem.'}"
-  - "{'question': 'Ab wann sollte ich mich zurückziehen?', 'answer': 'Wenn du mehr Zeit damit verbringst, sein/ihr Verhalten zu analysieren, als die Beziehung zu genießen. Wenn du dich ständig unsicher fühlst und dein Selbstwert leidet, ist es Zeit, dich zu schützen.'}"
+  - question: "Warum spielen Menschen beim Dating Spielchen?"
+    answer: "Die häufigsten Gründe sind Unsicherheit, Bindungsangst, das Bedürfnis nach Kontrolle oder schlicht fehlende emotionale Reife. Manche haben auch gelernt, dass Spielchen funktionieren — und wiederholen das Muster."
+  - question: "Wie reagiere ich am besten auf Dating-Spielchen?"
+    answer: "Bleib bei dir. Mach nicht mit und spiegle das Verhalten nicht. Kommuniziere klar, was du dir wünschst. Wenn die andere Person nicht auf dein Level kommt, ist das deine Antwort."
+  - question: "Sind alle Dating-Spielchen manipulativ?"
+    answer: "Nicht alle. Manche Menschen spielen unbewusst Spielchen aus Unsicherheit. Aber ob bewusst oder unbewusst — wenn dich das Verhalten verletzt und die Person nicht bereit ist, es zu ändern, ist es ein Problem."
+  - question: "Ab wann sollte ich mich zurückziehen?"
+    answer: "Wenn du mehr Zeit damit verbringst, sein/ihr Verhalten zu analysieren, als die Beziehung zu genießen. Wenn du dich ständig unsicher fühlst und dein Selbstwert leidet, ist es Zeit, dich zu schützen."
 ---
 
 ## Einleitung: Warum Dating sich manchmal wie ein Schachspiel anfühlt

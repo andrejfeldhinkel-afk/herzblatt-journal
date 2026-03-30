@@ -14,10 +14,14 @@ draft: false
 image: "/images/photos/partner-finden-hobby.webp"
 imageAlt: "Menschen bei gemeinsamer Aktivität"
 faq:
-  - "{'question': 'Welche Hobbys sind am besten, um Menschen zu treffen?', 'answer': 'Alle, bei denen du mit anderen interagierst: Sportkurse, Buchclubs, Kunstklassen, Kochkurse, Wandergruppen. Wähle etwas, das dir selbst gefällt.'}"
-  - "{'question': 'Wie nähert man sich jemandem bei einem Hobby an?', 'answer': 'Sei natürlich. Knüpf ein Gespräch über das Hobby an. Wenn es klickt, frag nach Kaffee. Erzwing nichts — es soll organisch wirken.'}"
-  - "{'question': 'Ist es unangenehm, jemanden anzusprechen, den ich beim Hobby treffe?', 'answer': 'Nein, wenn du respektvoll bist. Ein einfaches Kompliment oder eine Frage zum Hobby ist nicht unangenehm. Die meisten Menschen sind offen dafür.'}"
-  - "{'question': 'Sollte ich mehrere Hobbys haben, um mehr Menschen zu treffen?', 'answer': 'Es hilft, aber qualität über Quantität. Ein Hobby, das du liebst und regelmäßig machst, ist besser als viele oberflächliche Hobbys.'}"
+  - question: "Welche Hobbys sind am besten, um Menschen zu treffen?"
+    answer: "Alle, bei denen du mit anderen interagierst: Sportkurse, Buchclubs, Kunstklassen, Kochkurse, Wandergruppen. Wähle etwas, das dir selbst gefällt."
+  - question: "Wie nähert man sich jemandem bei einem Hobby an?"
+    answer: "Sei natürlich. Knüpf ein Gespräch über das Hobby an. Wenn es klickt, frag nach Kaffee. Erzwing nichts — es soll organisch wirken."
+  - question: "Ist es unangenehm, jemanden anzusprechen, den ich beim Hobby treffe?"
+    answer: "Nein, wenn du respektvoll bist. Ein einfaches Kompliment oder eine Frage zum Hobby ist nicht unangenehm. Die meisten Menschen sind offen dafür."
+  - question: "Sollte ich mehrere Hobbys haben, um mehr Menschen zu treffen?"
+    answer: "Es hilft, aber qualität über Quantität. Ein Hobby, das du liebst und regelmäßig machst, ist besser als viele oberflächliche Hobbys."
 ---
 ## Warum Hobbys der beste Ort zum Kennenlernen sind
 

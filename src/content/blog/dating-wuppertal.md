@@ -14,10 +14,14 @@ draft: false
 image: "/images/photos/dating-wuppertal.webp"
 imageAlt: "Die berühmte Wuppertaler Schwebebahn über der Stadt"
 faq:
-  - "{'question': 'Wo treffen sich Singles in Wuppertal?', 'answer': 'Die Altstadt (Elberfeld und Barmen) ist zentral. Die Gegend um die Kunsthalle ist trendy. Die Schwebebahn ist ikonisch und besonders.'}"
-  - "{'question': 'Gibt es gute Restaurants und Bars?', 'answer': "'Brauhaus zur Post' ist traditionell. 'Pelmeni' bietet russisches Flair. 'Café Extrablatt' ist gemütlich und trendy."}"
-  - "{'question': 'Was kann man außer Essen unternehmen?', 'answer': 'Mit der Schwebebahn fahren. Kunsthalle Wuppertal besuchen. Spaziergang durchs Tal. Theater-Besuche. Museums-Touren.'}"
-  - "{'question': 'Wie ist die Kulturszene in Wuppertal?', 'answer': 'Wuppertal ist kulturreich! Mit Pina Bausch Tanztheater, Kunsthalle und aktiver Kunstszene ist es sehr inspirierend.'}"
+  - question: "Wo treffen sich Singles in Wuppertal?"
+    answer: "Die Altstadt (Elberfeld und Barmen) ist zentral. Die Gegend um die Kunsthalle ist trendy. Die Schwebebahn ist ikonisch und besonders."
+  - question: "Gibt es gute Restaurants und Bars?"
+    answer: "'Brauhaus zur Post"
+  - question: "Was kann man außer Essen unternehmen?"
+    answer: "Mit der Schwebebahn fahren. Kunsthalle Wuppertal besuchen. Spaziergang durchs Tal. Theater-Besuche. Museums-Touren."
+  - question: "Wie ist die Kulturszene in Wuppertal?"
+    answer: "Wuppertal ist kulturreich! Mit Pina Bausch Tanztheater, Kunsthalle und aktiver Kunstszene ist es sehr inspirierend."
 ---
 ## dating in Wuppertal: Kultur und Faszination in der Bergstadt
 

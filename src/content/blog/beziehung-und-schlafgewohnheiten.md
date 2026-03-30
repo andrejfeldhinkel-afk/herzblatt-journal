@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/beziehung-und-schlafgewohnheiten.webp"
 imageAlt: "Gemütliches Schlafzimmer mit großem Bett"
 faq:
-  - "{'question': 'Ist getrennt schlafen schlecht für die Beziehung?', 'answer': 'Nein. Viele Paare berichten von besserer Beziehungsqualität, seit sie getrennt schlafen. Ausgeruhte Partner sind geduldigere, liebevollere Partner.'}"
-  - "{'question': 'Wie spreche ich das Thema an, ohne meinen Partner zu verletzen?', 'answer': 'Erkläre, dass es um besseren Schlaf geht, nicht um weniger Nähe. Betone, dass du die Beziehung stärken willst, indem ihr beide ausgeruhter seid.'}"
-  - "{'question': 'Was mache ich, wenn mein Partner extrem laut schnarcht?', 'answer': 'Sprecht offen darüber und lasst das Schnarchen ärztlich abklären. Schnarchen kann ein Gesundheitsthema sein. Bis dahin können Ohrstöpsel oder getrennte Nächte helfen.'}"
+  - question: "Ist getrennt schlafen schlecht für die Beziehung?"
+    answer: "Nein. Viele Paare berichten von besserer Beziehungsqualität, seit sie getrennt schlafen. Ausgeruhte Partner sind geduldigere, liebevollere Partner."
+  - question: "Wie spreche ich das Thema an, ohne meinen Partner zu verletzen?"
+    answer: "Erkläre, dass es um besseren Schlaf geht, nicht um weniger Nähe. Betone, dass du die Beziehung stärken willst, indem ihr beide ausgeruhter seid."
+  - question: "Was mache ich, wenn mein Partner extrem laut schnarcht?"
+    answer: "Sprecht offen darüber und lasst das Schnarchen ärztlich abklären. Schnarchen kann ein Gesundheitsthema sein. Bis dahin können Ohrstöpsel oder getrennte Nächte helfen."
 ---
 Schlaf ist eine der wenigen Aktivitäten, die wir mit unserem Partner teilen und bei der beide komplett verletzlich sind. Wir schnorcheln, zucken, schnaufen, träumen laut vor uns hin. Unser Partner sitzt neben uns und erlebt all das – jede Nacht. Und doch ist Schlaf eine der tabusiertesten Themen in Beziehungen. Paare sprechen über Sex, aber nicht übers Schlafen. Das ist ein großer Fehler. Denn Schlafqualität bestimmt zu 40% die Beziehungsqualität. Das ist keine romantische These – das ist Neurologie.
 

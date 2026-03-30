@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Haben Scheidungskinder schlechtere Beziehungen?', 'answer': 'Nicht zwangsläufig. Studien zeigen zwar ein erhöhtes Scheidungsrisiko, aber viele Scheidungskinder führen erfüllte Beziehungen — besonders wenn sie ihre Muster reflektieren und bewusst daran arbeiten.'}"
-  - "{'question': 'Warum haben Scheidungskinder oft Bindungsangst?', 'answer': 'Die Scheidung der Eltern vermittelt oft unbewusst: Liebe ist nicht sicher, Menschen verlassen dich. Das kann zu vermeidendem Bindungsstil, Commitment-Angst oder der Überzeugung führen, dass Beziehungen sowieso scheitern.'}"
-  - "{'question': 'Wie beeinflusst die Eltern-Scheidung mein Dating-Verhalten?', 'answer': 'Häufige Muster: Du beendest Beziehungen vorschnell beim ersten Konflikt, du wählst emotional nicht verfügbare Partner, du vermeidest tiefe Bindungen, oder du klammerst aus Verlustangst.'}"
-  - "{'question': 'Kann Therapie Scheidungskindern in Beziehungen helfen?', 'answer': 'Absolut. Therapie — besonders Bindungstherapie oder Schematherapie — kann helfen, unbewusste Muster zu erkennen, alte Wunden zu heilen und gesündere Beziehungsskripte zu entwickeln.'}"
+  - question: "Haben Scheidungskinder schlechtere Beziehungen?"
+    answer: "Nicht zwangsläufig. Studien zeigen zwar ein erhöhtes Scheidungsrisiko, aber viele Scheidungskinder führen erfüllte Beziehungen — besonders wenn sie ihre Muster reflektieren und bewusst daran arbeiten."
+  - question: "Warum haben Scheidungskinder oft Bindungsangst?"
+    answer: "Die Scheidung der Eltern vermittelt oft unbewusst: Liebe ist nicht sicher, Menschen verlassen dich. Das kann zu vermeidendem Bindungsstil, Commitment-Angst oder der Überzeugung führen, dass Beziehungen sowieso scheitern."
+  - question: "Wie beeinflusst die Eltern-Scheidung mein Dating-Verhalten?"
+    answer: "Häufige Muster: Du beendest Beziehungen vorschnell beim ersten Konflikt, du wählst emotional nicht verfügbare Partner, du vermeidest tiefe Bindungen, oder du klammerst aus Verlustangst."
+  - question: "Kann Therapie Scheidungskindern in Beziehungen helfen?"
+    answer: "Absolut. Therapie — besonders Bindungstherapie oder Schematherapie — kann helfen, unbewusste Muster zu erkennen, alte Wunden zu heilen und gesündere Beziehungsskripte zu entwickeln."
 ---
 ## Scheidungskinder und Beziehungen: Wie die Trennung deiner Eltern dein Liebesleben prägt
 

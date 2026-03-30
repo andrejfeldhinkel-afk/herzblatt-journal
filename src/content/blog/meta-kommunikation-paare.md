@@ -17,11 +17,16 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Was ist Meta-Kommunikation genau?', 'answer': "Meta-Kommunikation ist Kommunikation über die Kommunikation selbst. Statt über das Thema zu sprechen, sprecht ihr darüber, wie ihr über das Thema sprecht. 'Mir fällt auf, dass du mich oft unterbrichst, wenn ich von meinen Gefühlen spreche' — das ist Meta-Kommunikation."}"
-  - "{'question': 'Wann sollte man Meta-Kommunikation benutzen?', 'answer': 'Wenn normale Kommunikation nicht funktioniert. Wenn ihr immer beim gleichen Thema steckt, oder wenn ihr merkt, dass etwas im Kommunikations-Prozess selbst nicht stimmt. Oft hilft Meta-Kommunikation, das Pattern zu unterbrechen.'}"
-  - "{'question': 'Ist Meta-Kommunikation nicht zu kognitiv?', 'answer': 'Am Anfang ja. Es fühlt sich merkwürdig an, über die Art zu sprechen, wie man spricht. Aber mit Übung wird es natürlich. Und es ist unglaublich wertvoll — es bricht viele Kommunikations-Sackgassen auf.'}"
-  - "{'question': 'Wie beginne ich ein Meta-Kommunikations-Gespräch ohne defensiv zu wirken?', 'answer': "Mit Beobachtung, nicht Vorwurf. 'Mir fällt auf...' statt 'Du machst immer...'. 'Ich merke, dass wir bei diesem Thema immer die gleichen Worte benutzen' statt 'Du hörst mir nie zu.'"}"
-  - "{'question': 'Was, wenn mein Partner nicht in Meta-Kommunikation mitkommen will?', 'answer': "Das ist okay. Nicht jeder liebt diesen Ansatz. Aber du kannst es trotzdem benutzen. 'Ich merke, dass wir nicht weiterkommen. Können wir kurz anders drüber sprechen?' Mit Geduld verstehen viele Partner, warum das hilfreich ist."}"
+  - question: "Was ist Meta-Kommunikation genau?"
+    answer: "Meta-Kommunikation ist Kommunikation über die Kommunikation selbst. Statt über das Thema zu sprechen, sprecht ihr darüber, wie ihr über das Thema sprecht."
+  - question: "Wann sollte man Meta-Kommunikation benutzen?"
+    answer: "Wenn normale Kommunikation nicht funktioniert. Wenn ihr immer beim gleichen Thema steckt, oder wenn ihr merkt, dass etwas im Kommunikations-Prozess selbst nicht stimmt. Oft hilft Meta-Kommunikation, das Pattern zu unterbrechen."
+  - question: "Ist Meta-Kommunikation nicht zu kognitiv?"
+    answer: "Am Anfang ja. Es fühlt sich merkwürdig an, über die Art zu sprechen, wie man spricht. Aber mit Übung wird es natürlich. Und es ist unglaublich wertvoll — es bricht viele Kommunikations-Sackgassen auf."
+  - question: "Wie beginne ich ein Meta-Kommunikations-Gespräch ohne defensiv zu wirken?"
+    answer: "Mit Beobachtung, nicht Vorwurf."
+  - question: "Was, wenn mein Partner nicht in Meta-Kommunikation mitkommen will?"
+    answer: "Das ist okay. Nicht jeder liebt diesen Ansatz. Aber du kannst es trotzdem benutzen."
 ---
 
 ## Meta-kommunikation: Über eure Kommunikation reden

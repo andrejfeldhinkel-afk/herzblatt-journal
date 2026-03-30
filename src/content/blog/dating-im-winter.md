@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/dating-im-winter.webp"
 imageAlt: "Winter Date romantisch"
 faq:
-  - "{'question': 'Sind Winter-Dates weniger romantisch als Sommer-Dates?', 'answer': 'Überhaupt nicht! Winter hat eine ganz eigene Magie. Es gibt etwas Enges und Romantisches über Wärmeteile zusammen in der Kälte. Winter-Dates können tatsächlich intimere Verbindung schaffen als Sommer-Dates.'}"
-  - "{'question': 'Was tun, wenn das Wetter sehr kalt ist?', 'answer': 'Wähle Indoor-Aktivitäten oder Aktivitäten, die Bewegung haben. Hot Chocolate in einem Café ist gemütlich, aber nach 20 Minuten läuft dir das Gespräch aus. Ein Weihnachtsmarkt oder eislaufen gibt euch etwas gemeinsam zu tun, während ihr redet.'}"
-  - "{'question': 'Wie vermeidet man, dass ein Winter-Date zu kurz ist?', 'answer': 'Plane mehrere Aktivitäten. Beginne mit eislaufen, geh dann zu einem gemütlichen Café, und vielleicht Weihnachtseinkaufen. Dies gibt euch mehrere Stunden zusammen, ohne sich langweilig zu werden.'}"
+  - question: "Sind Winter-Dates weniger romantisch als Sommer-Dates?"
+    answer: "Überhaupt nicht! Winter hat eine ganz eigene Magie. Es gibt etwas Enges und Romantisches über Wärmeteile zusammen in der Kälte. Winter-Dates können tatsächlich intimere Verbindung schaffen als Sommer-Dates."
+  - question: "Was tun, wenn das Wetter sehr kalt ist?"
+    answer: "Wähle Indoor-Aktivitäten oder Aktivitäten, die Bewegung haben. Hot Chocolate in einem Café ist gemütlich, aber nach 20 Minuten läuft dir das Gespräch aus. Ein Weihnachtsmarkt oder eislaufen gibt euch etwas gemeinsam zu tun, während ihr redet."
+  - question: "Wie vermeidet man, dass ein Winter-Date zu kurz ist?"
+    answer: "Plane mehrere Aktivitäten. Beginne mit eislaufen, geh dann zu einem gemütlichen Café, und vielleicht Weihnachtseinkaufen. Dies gibt euch mehrere Stunden zusammen, ohne sich langweilig zu werden."
 ---
 
 Winter ist möglicherweise die beste Jahreszeit zum [dating](/blog/anzeichen-er-steht-auf-dich/) — besonders wenn es um romantische geht. Während viele Menschen über kaltes Wetter jammern, gibt es etwas Verführerisches über Wärme zu teilen in der Kälte. Winter-Dates können intim, romantisch, und unvergesslich sein – wenn du die richtigen Ideen hast.

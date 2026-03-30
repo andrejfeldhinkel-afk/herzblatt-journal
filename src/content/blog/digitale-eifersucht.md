@@ -13,9 +13,12 @@ draft: false
 image: "/images/photos/digitale-eifersucht.webp"
 imageAlt: "Paar mit Smartphone - digitale Eifersucht vermeiden"
 faq:
-  - "{'question': 'Ist digitale Eifersucht ein Zeichen von mangelndem Vertrauen?', 'answer': 'Nicht unbedingt. Digitale Eifersucht ist eine moderne Herausforderung, die auch in vertrauensvollen Beziehungen auftreten kann, besonders wegen der ständigen Verfügbarkeit und Sichtbarkeit in sozialen Medien.'}"
-  - "{'question': 'Sollte ich meinem Partner Zugang zu Passwörtern geben?', 'answer': 'Das Teilen von Passwörtern ist eine persönliche Entscheidung. Echtes Vertrauen entsteht durch offene Kommunikation, nicht durch Kontrolle oder gegenseitige Überwachung.'}"
-  - "{'question': 'Wie kann ich meine eigene digitale Eifersucht überwinden?', 'answer': 'Begrenzen Sie Ihre Social-Media-Nutzung, setzen Sie bewusste Grenzen und arbeiten Sie an Ihrem Selbstwertgefühl. Versuchen Sie, offline qualitätsvolle Zeit mit Ihrem Partner zu verbringen.'}"
+  - question: "Ist digitale Eifersucht ein Zeichen von mangelndem Vertrauen?"
+    answer: "Nicht unbedingt. Digitale Eifersucht ist eine moderne Herausforderung, die auch in vertrauensvollen Beziehungen auftreten kann, besonders wegen der ständigen Verfügbarkeit und Sichtbarkeit in sozialen Medien."
+  - question: "Sollte ich meinem Partner Zugang zu Passwörtern geben?"
+    answer: "Das Teilen von Passwörtern ist eine persönliche Entscheidung. Echtes Vertrauen entsteht durch offene Kommunikation, nicht durch Kontrolle oder gegenseitige Überwachung."
+  - question: "Wie kann ich meine eigene digitale Eifersucht überwinden?"
+    answer: "Begrenzen Sie Ihre Social-Media-Nutzung, setzen Sie bewusste Grenzen und arbeiten Sie an Ihrem Selbstwertgefühl. Versuchen Sie, offline qualitätsvolle Zeit mit Ihrem Partner zu verbringen."
 ---
 ## Die unsichtbare Belastung
 

@@ -14,11 +14,16 @@ keywords:
 draft: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Ist unterschiedliche Bildung ein Problem für Beziehungen?', 'answer': 'Nicht automatisch. Was zählt sind gemeinsame Werte, emotionale Intelligenz und Respekt. Aber wenn Bildungsunterschiede zu Machtgefällen oder intellektueller Langeweile führen, kann es schwierig werden.'}"
-  - "{'question': 'Wie gehe ich mit Bildungs-Snobismus um?', 'answer': 'Klar ansprechen. Wenn dein Partner dich wegen deiner Bildung herabsetzt, ist das Respektlosigkeit — kein Bildungsproblem. Ein Studium macht niemanden zu einem besseren Partner.'}"
-  - "{'question': 'Was sagt die Forschung zu Bildungsunterschieden in Paaren?', 'answer': 'Studien zeigen: Ähnliche Bildungsniveaus korrelieren statistisch mit höherer Zufriedenheit, aber Werte-Kompatibilität ist ein noch stärkerer Prädiktor für Beziehungserfolg.'}"
-  - "{'question': 'Wie merke ich ob die Unterschiede zu groß sind?', 'answer': "Drei Warnsignale: Der andere hebt sich ständig hervor ('In meinem Studium haben wir gelernt...'), es gibt Machtungleichgewichte in Entscheidungen, oder ihr könnt nicht über eure Interessen sprechen ohne dass es arrogant wirkt."}"
-  - "{'question': 'Kann sich ein Bildungsunterschied im Laufe der Beziehung verstärken?', 'answer': 'Ja. Wenn die Person mit weniger formaler Ausbildung kein Selbstvertrauen aufbaut oder der andere bewusst oder unbewusst die Überlegenheit nutzt, kann das wachsen. Kommunikation und gegenseitiger Respekt sind entscheidend.'}"
+  - question: "Ist unterschiedliche Bildung ein Problem für Beziehungen?"
+    answer: "Nicht automatisch. Was zählt sind gemeinsame Werte, emotionale Intelligenz und Respekt. Aber wenn Bildungsunterschiede zu Machtgefällen oder intellektueller Langeweile führen, kann es schwierig werden."
+  - question: "Wie gehe ich mit Bildungs-Snobismus um?"
+    answer: "Klar ansprechen. Wenn dein Partner dich wegen deiner Bildung herabsetzt, ist das Respektlosigkeit — kein Bildungsproblem. Ein Studium macht niemanden zu einem besseren Partner."
+  - question: "Was sagt die Forschung zu Bildungsunterschieden in Paaren?"
+    answer: "Studien zeigen: Ähnliche Bildungsniveaus korrelieren statistisch mit höherer Zufriedenheit, aber Werte-Kompatibilität ist ein noch stärkerer Prädiktor für Beziehungserfolg."
+  - question: "Wie merke ich ob die Unterschiede zu groß sind?"
+    answer: "Drei Warnsignale: Der andere hebt sich ständig hervor ("
+  - question: "Kann sich ein Bildungsunterschied im Laufe der Beziehung verstärken?"
+    answer: "Ja. Wenn die Person mit weniger formaler Ausbildung kein Selbstvertrauen aufbaut oder der andere bewusst oder unbewusst die Überlegenheit nutzt, kann das wachsen. Kommunikation und gegenseitiger Respekt sind entscheidend."
 ---
 
 ## Das Tabu-Thema das niemand spricht

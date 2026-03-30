@@ -19,10 +19,14 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Kann sich mein Bindungsstil verändern?', 'answer': 'Ja, Bindungsstile sind nicht in Stein gemeißelt. Durch Selbstreflexion, Therapie und positive Beziehungserfahrungen kannst du von einem unsicheren zu einem sicheren Bindungsstil wachsen. Das braucht Zeit, aber es ist absolut möglich.'}"
-  - "{'question': 'Welcher Bindungsstil passt am besten zusammen?', 'answer': 'Die stabilsten Beziehungen entstehen, wenn mindestens ein Partner sicher gebunden ist. Sicher-sicher ist ideal. Schwierig wird es bei ängstlich-vermeidend — diese Kombination erzeugt oft einen Push-Pull-Kreislauf, der beide unglücklich macht.'}"
-  - "{'question': 'Woher weiß ich, welcher Bindungstyp ich bin?', 'answer': 'Achte auf dein Verhalten in den ersten Wochen einer neuen Beziehung: Wirst du schnell unsicher, wenn jemand nicht sofort antwortet? Oder ziehst du dich zurück, sobald es ernst wird? Diese Muster verraten deinen Bindungsstil. Online-Tests können einen ersten Hinweis geben, aber eine ehrliche Selbstreflexion ist aussagekräftiger.'}"
-  - "{'question': 'Ist Bindungsangst das Gleiche wie ein vermeidender Bindungsstil?', 'answer': 'Nicht ganz. Bindungsangst ist eher ein Sammelbegriff für die Angst vor emotionaler Nähe. Der vermeidende Bindungsstil ist eine spezifische Ausprägung davon. Auch ängstlich gebundene Menschen können Bindungsangst zeigen — nur äußert sie sich anders, nämlich durch Klammern statt Rückzug.'}"
+  - question: "Kann sich mein Bindungsstil verändern?"
+    answer: "Ja, Bindungsstile sind nicht in Stein gemeißelt. Durch Selbstreflexion, Therapie und positive Beziehungserfahrungen kannst du von einem unsicheren zu einem sicheren Bindungsstil wachsen. Das braucht Zeit, aber es ist absolut möglich."
+  - question: "Welcher Bindungsstil passt am besten zusammen?"
+    answer: "Die stabilsten Beziehungen entstehen, wenn mindestens ein Partner sicher gebunden ist. Sicher-sicher ist ideal. Schwierig wird es bei ängstlich-vermeidend — diese Kombination erzeugt oft einen Push-Pull-Kreislauf, der beide unglücklich macht."
+  - question: "Woher weiß ich, welcher Bindungstyp ich bin?"
+    answer: "Achte auf dein Verhalten in den ersten Wochen einer neuen Beziehung: Wirst du schnell unsicher, wenn jemand nicht sofort antwortet? Oder ziehst du dich zurück, sobald es ernst wird? Diese Muster verraten deinen Bindungsstil. Online-Tests können einen ersten Hinweis geben, aber eine ehrliche Selbstreflexion ist aussagekräftiger."
+  - question: "Ist Bindungsangst das Gleiche wie ein vermeidender Bindungsstil?"
+    answer: "Nicht ganz. Bindungsangst ist eher ein Sammelbegriff für die Angst vor emotionaler Nähe. Der vermeidende Bindungsstil ist eine spezifische Ausprägung davon. Auch ängstlich gebundene Menschen können Bindungsangst zeigen — nur äußert sie sich anders, nämlich durch Klammern statt Rückzug."
 ---
 
 Du lernst jemanden kennen. Die Chemie stimmt. Alles fühlt sich richtig an. Und dann — wie aus dem Nichts — zieht sich die andere Person zurück. Oder du merkst, dass du wieder an jemanden geraten bist, der emotional nicht verfügbar ist.

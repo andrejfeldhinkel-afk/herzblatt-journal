@@ -13,10 +13,14 @@ draft: false
 image: "/images/photos/ghosting-umgehen.webp"
 imageAlt: "Illustration zum Thema Ghosting"
 faq:
-  - "{'question': 'Warum ghosten Menschen eigentlich?', 'answer': 'Menschen ghosten meist aus Konfliktvermeidung, Überforderung oder weil sie selbst nicht wissen, was sie wollen. Es ist ein feiges Verhalten, das aber eher über die ghostende Person aussagt als über dich.'}"
-  - "{'question': 'Sollte ich nach Ghosting nochmal schreiben?', 'answer': 'Eine kurze, würdevolle Nachricht ist okay. Aber gib dir selbst eine Frist — etwa eine Woche. Wenn danach keine Antwort kommt, akzeptiere das und mach weiter.'}"
-  - "{'question': 'Ist Ghosting meine Schuld?', 'answer': 'Nein, absolut nicht. Ghosting sagt nichts über deinen Wert aus. Es ist ein Versagen der anderen Person, respektvolle Kommunikation zu zeigen.'}"
-  - "{'question': 'Wie komme ich über Ghosting hinweg?', 'answer': 'Praktiziere vollständigen Kontaktabbruch, rede mit Freunden darüber, und erinnere dich daran, dass du die Person nicht kennen lerntest, die dich wertschätzt. Das ist ein Glück, es früh zu erkennen.'}"
+  - question: "Warum ghosten Menschen eigentlich?"
+    answer: "Menschen ghosten meist aus Konfliktvermeidung, Überforderung oder weil sie selbst nicht wissen, was sie wollen. Es ist ein feiges Verhalten, das aber eher über die ghostende Person aussagt als über dich."
+  - question: "Sollte ich nach Ghosting nochmal schreiben?"
+    answer: "Eine kurze, würdevolle Nachricht ist okay. Aber gib dir selbst eine Frist — etwa eine Woche. Wenn danach keine Antwort kommt, akzeptiere das und mach weiter."
+  - question: "Ist Ghosting meine Schuld?"
+    answer: "Nein, absolut nicht. Ghosting sagt nichts über deinen Wert aus. Es ist ein Versagen der anderen Person, respektvolle Kommunikation zu zeigen."
+  - question: "Wie komme ich über Ghosting hinweg?"
+    answer: "Praktiziere vollständigen Kontaktabbruch, rede mit Freunden darüber, und erinnere dich daran, dass du die Person nicht kennen lerntest, die dich wertschätzt. Das ist ein Glück, es früh zu erkennen."
 ---
 ## Die Stille, die wehtut
 

@@ -15,11 +15,16 @@ keywords:
 draft: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Warum ist mein Partner ständig müde?', 'answer': 'Mögliche Ursachen: Schlafstörungen, Stress, Depression, Schilddrüsenprobleme, Vitamin-D-Mangel, Burnout oder ungesunder Lebensstil. Ein Arztbesuch kann viele Ursachen ausschließen.'}"
-  - "{'question': 'Wie unterstütze ich meinen müden Partner?', 'answer': 'Zeige Verständnis statt Vorwürfe. Ermutige einen Arztbesuch, biete praktische Hilfe an und achte gleichzeitig auf deine eigenen Bedürfnisse.'}"
-  - "{'question': 'Darf mich die Müdigkeit meines Partners frustrieren?', 'answer': 'Absolut. Deine Gefühle sind valid. Du darfst frustriert sein, wenn Pläne ausfallen und Intimität leidet. Wichtig ist, dass du die Frustration kommunizierst, nicht unterdrückst.'}"
-  - "{'question': 'Ab wann sollte ich mir wirklich Sorgen machen?', 'answer': 'Wenn die Müdigkeit Wochen anhält, wenn es die Lebensfähigkeit beeinträchtigt, wenn er süchtig wirkt oder wenn er keine Bereitschaft zeigt, sich helfen zu lassen. Dann ist professionelle Hilfe notwendig.'}"
-  - "{'question': 'Kann ich ihn allein retten?', 'answer': 'Nein. Du kannst unterstützen, ermutern und da sein — aber den Weg muss er gehen. Versuche nicht, sein Therapeut oder Arzt zu sein. Das zerstört eure Beziehung.'}"
+  - question: "Warum ist mein Partner ständig müde?"
+    answer: "Mögliche Ursachen: Schlafstörungen, Stress, Depression, Schilddrüsenprobleme, Vitamin-D-Mangel, Burnout oder ungesunder Lebensstil. Ein Arztbesuch kann viele Ursachen ausschließen."
+  - question: "Wie unterstütze ich meinen müden Partner?"
+    answer: "Zeige Verständnis statt Vorwürfe. Ermutige einen Arztbesuch, biete praktische Hilfe an und achte gleichzeitig auf deine eigenen Bedürfnisse."
+  - question: "Darf mich die Müdigkeit meines Partners frustrieren?"
+    answer: "Absolut. Deine Gefühle sind valid. Du darfst frustriert sein, wenn Pläne ausfallen und Intimität leidet. Wichtig ist, dass du die Frustration kommunizierst, nicht unterdrückst."
+  - question: "Ab wann sollte ich mir wirklich Sorgen machen?"
+    answer: "Wenn die Müdigkeit Wochen anhält, wenn es die Lebensfähigkeit beeinträchtigt, wenn er süchtig wirkt oder wenn er keine Bereitschaft zeigt, sich helfen zu lassen. Dann ist professionelle Hilfe notwendig."
+  - question: "Kann ich ihn allein retten?"
+    answer: "Nein. Du kannst unterstützen, ermutern und da sein — aber den Weg muss er gehen. Versuche nicht, sein Therapeut oder Arzt zu sein. Das zerstört eure Beziehung."
 ---
 
 Es ist Samstag und du freust dich auf den Tag mit deinem Partner. Du hattest geplant, ins Kino zu gehen, danach essen gehen. Um 11 Uhr schaust du in sein Gesicht und weißt sofort: Heute wird nichts. Er ist durch. Obwohl er acht Stunden geschlafen hat, obwohl ihr sonst ein bewegter Samstag geplant war — er hat einfach keine Energie.

@@ -14,9 +14,12 @@ keywords:
 draft: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Wie lange dauert es den Selbstwert nach einer toxischen Beziehung wieder aufzubauen?', 'answer': 'Das ist individuell — von Monaten bis zu mehreren Jahren. Es hängt davon ab wie lange die toxische Beziehung dauerte, wie tief die Wunden gehen und ob du professionelle Hilfe suchst.'}"
-  - "{'question': 'Warum ist mein Selbstwert nach der Beziehung so niedrig?', 'answer': 'Toxische Partner untergraben systematisch dein Selbstbild. Durch Gaslighting, Kritik, Kontrolle und emotionale Manipulation hast du gelernt, dir selbst nicht mehr zu vertrauen.'}"
-  - "{'question': 'Soll ich nach einer toxischen Beziehung sofort wieder daten?', 'answer': 'Nein. Gib dir Zeit zu heilen. Wenn du aus einer Position der Bedürftigkeit datest, ziehst du oft wieder ähnliche Muster an. Arbeite erst an dir, dann am nächsten Kapitel.'}"
+  - question: "Wie lange dauert es den Selbstwert nach einer toxischen Beziehung wieder aufzubauen?"
+    answer: "Das ist individuell — von Monaten bis zu mehreren Jahren. Es hängt davon ab wie lange die toxische Beziehung dauerte, wie tief die Wunden gehen und ob du professionelle Hilfe suchst."
+  - question: "Warum ist mein Selbstwert nach der Beziehung so niedrig?"
+    answer: "Toxische Partner untergraben systematisch dein Selbstbild. Durch Gaslighting, Kritik, Kontrolle und emotionale Manipulation hast du gelernt, dir selbst nicht mehr zu vertrauen."
+  - question: "Soll ich nach einer toxischen Beziehung sofort wieder daten?"
+    answer: "Nein. Gib dir Zeit zu heilen. Wenn du aus einer Position der Bedürftigkeit datest, ziehst du oft wieder ähnliche Muster an. Arbeite erst an dir, dann am nächsten Kapitel."
 ---
 
 Du schaust dich im Spiegel an und erkennst dich nicht.

@@ -13,8 +13,10 @@ draft: false
 image: "/images/photos/psychologie-der-anziehung.webp"
 imageAlt: "Liebe auf den zweiten Blick"
 faq:
-  - "{'question': 'Was ist das Wichtigste bei liebe auf den zweiten blick?', 'answer': 'Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst.'}"
-  - "{'question': 'Wo finde ich Hilfe zum Thema liebe auf den zweiten blick?', 'answer': 'Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung.'}"
+  - question: "Was ist das Wichtigste bei liebe auf den zweiten blick?"
+    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
+  - question: "Wo finde ich Hilfe zum Thema liebe auf den zweiten blick?"
+    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
 ---
 ## Liebe auf den zweiten Blick: Warum die langsamste Liebe die stärkste ist
 

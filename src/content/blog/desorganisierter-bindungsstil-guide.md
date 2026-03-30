@@ -17,9 +17,12 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Was ist der desorganisierte Bindungsstil?', 'answer': 'Der desorganisierte (fearful-avoidant) Bindungsstil kombiniert ängstliche und vermeidende Muster. Du sehnst dich nach Nähe, bekommst aber Panik wenn sie da ist. Du schwankst zwischen Klammern und Wegstoßen.'}"
-  - "{'question': 'Woher kommt der desorganisierte Bindungsstil?', 'answer': 'Meist aus einer Kindheit, in der die Bezugsperson gleichzeitig Quelle von Trost UND Angst war — etwa bei Vernachlässigung, Missbrauch oder einem Elternteil mit unverarbeiteten Traumata.'}"
-  - "{'question': 'Kann man einen desorganisierten Bindungsstil heilen?', 'answer': 'Ja, mit Bewusstsein, Geduld und idealerweise therapeutischer Begleitung. Der Weg führt über das Erkennen deiner Trigger, das Entwickeln von Selbstregulation und korrigierende Beziehungserfahrungen.'}"
+  - question: "Was ist der desorganisierte Bindungsstil?"
+    answer: "Der desorganisierte (fearful-avoidant) Bindungsstil kombiniert ängstliche und vermeidende Muster. Du sehnst dich nach Nähe, bekommst aber Panik wenn sie da ist. Du schwankst zwischen Klammern und Wegstoßen."
+  - question: "Woher kommt der desorganisierte Bindungsstil?"
+    answer: "Meist aus einer Kindheit, in der die Bezugsperson gleichzeitig Quelle von Trost UND Angst war — etwa bei Vernachlässigung, Missbrauch oder einem Elternteil mit unverarbeiteten Traumata."
+  - question: "Kann man einen desorganisierten Bindungsstil heilen?"
+    answer: "Ja, mit Bewusstsein, Geduld und idealerweise therapeutischer Begleitung. Der Weg führt über das Erkennen deiner Trigger, das Entwickeln von Selbstregulation und korrigierende Beziehungserfahrungen."
 ---
 
 ## Intro: Das Paradoxon, das dein Leben prägt

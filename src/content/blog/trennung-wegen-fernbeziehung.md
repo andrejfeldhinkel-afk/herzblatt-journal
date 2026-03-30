@@ -16,11 +16,16 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Ist eine Trennung wegen Fernbeziehung anders als andere Trennungen?', 'answer': "Ja und nein. Das Schmerz ist ähnlich, aber die Dynamik ist anders. Es gibt oft weniger klare Gründe – es ist nicht ‚er hat mich betrogen', sondern ‚wir konnten die Distanz nicht tragen'. Das ist komplexer zu verarbeiten."}"
-  - "{'question': 'Können Fernbeziehungen funktionieren?', 'answer': 'Ja, aber nur mit klarem Enddatum und enormem Engagement von beiden Seiten. Fernbeziehungen, die offen sind – kein Enddatum, keine klare Richtung – scheitern meist irgendwann.'}"
-  - "{'question': 'Fühle ich mich schuldig, dass ich die Fernbeziehung nicht schaffen konnte?', 'answer': 'Das ist normal, aber nicht fair zu dir selbst. Menschen sind für Nähe gebaut. Wenn die Fernbeziehung zu lange dauerte, ist das nicht dein Versagen – das ist menschliche Realität.'}"
-  - "{'question': 'Wie lange dauert es, sich nach einer Fernbeziehungs-Trennung zu erholen?', 'answer': 'Ähnlich wie andere Trennungen – 3-6 Monate bis du dich wieder grundsätzlich wie du selbst fühlst. Aber die Verarbeitung (warum es nicht funktioniert hat) braucht manchmal länger.'}"
-  - "{'question': 'Sollte ich noch in Kontakt mit meinem Ex bleiben?', 'answer': 'In der unmittelbaren Zeit danach: Nein, clean break ist meist besser. Nach 1-2 Monaten kann Kontakt okay sein, wenn beide emotional stabil sind. Aber intensive Kommunikation zu früh verzögert die Heilung.'}"
+  - question: "Ist eine Trennung wegen Fernbeziehung anders als andere Trennungen?"
+    answer: "Ja und nein. Das Schmerz ist ähnlich, aber die Dynamik ist anders. Es gibt oft weniger klare Gründe – es ist nicht ‚er hat mich betrogen"
+  - question: "Können Fernbeziehungen funktionieren?"
+    answer: "Ja, aber nur mit klarem Enddatum und enormem Engagement von beiden Seiten. Fernbeziehungen, die offen sind – kein Enddatum, keine klare Richtung – scheitern meist irgendwann."
+  - question: "Fühle ich mich schuldig, dass ich die Fernbeziehung nicht schaffen konnte?"
+    answer: "Das ist normal, aber nicht fair zu dir selbst. Menschen sind für Nähe gebaut. Wenn die Fernbeziehung zu lange dauerte, ist das nicht dein Versagen – das ist menschliche Realität."
+  - question: "Wie lange dauert es, sich nach einer Fernbeziehungs-Trennung zu erholen?"
+    answer: "Ähnlich wie andere Trennungen – 3-6 Monate bis du dich wieder grundsätzlich wie du selbst fühlst. Aber die Verarbeitung (warum es nicht funktioniert hat) braucht manchmal länger."
+  - question: "Sollte ich noch in Kontakt mit meinem Ex bleiben?"
+    answer: "In der unmittelbaren Zeit danach: Nein, clean break ist meist besser. Nach 1-2 Monaten kann Kontakt okay sein, wenn beide emotional stabil sind. Aber intensive Kommunikation zu früh verzögert die Heilung."
 ---
 
 Du sitzt in deinem Zimmer. Dein Partner sitzt 500 km weg in seinem Zimmer. Sie/ er ist im Videocall dabei, aber nicht da. Die wöchentlichen Besuche, die so wertvoll waren, reichen nicht mehr. Das Video-Sex ist nicht genug. Die emotionale Nähe ist da, aber die körperliche fehlt einfach zu sehr.

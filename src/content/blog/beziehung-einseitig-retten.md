@@ -15,11 +15,16 @@ keywords:
 draft: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Woran erkenne ich eine einseitige Beziehung?', 'answer': 'Typische Zeichen: Du initiierst immer den Kontakt, planst alle Dates, machst Kompromisse während der Partner keine macht, und du fühlst dich emotional ausgelaugt statt aufgeladen.'}"
-  - "{'question': 'Kann man eine einseitige Beziehung retten?', 'answer': 'Nur wenn beide es wollen. Wenn du das Problem ansprichst und dein Partner bereit ist, sich zu ändern, gibt es eine Chance. Wenn er abwehrt oder nichts ändert, hast du deine Antwort.'}"
-  - "{'question': 'Warum bleibe ich in einer einseitigen Beziehung?', 'answer': 'Oft spielen Verlustangst, niedriger Selbstwert oder die Hoffnung dass es besser wird eine Rolle. Manchmal ist es auch die Angst vor dem Alleinsein, die dich festhält.'}"
-  - "{'question': 'Wie kann ich die Dynamik ändern ohne die Beziehung zu sabotieren?', 'answer': 'Indem du bewusst aufhörst, überall zu initiieren. Nicht aggressiv, aber konsistent. Gib deinem Partner Raum zu zeigen, ob er sich anpassen kann. Das ist nicht Strafe — das ist Klarheit.'}"
-  - "{'question': 'Ist es ok, eine Beziehung zu beenden weil sie einseitig ist?', 'answer': 'Ja. Wenn du alles versucht hast und dein Partner nicht bereit ist sich zu ändern, dann ist eine Trennung nicht Versagen. Das ist Selbstschutz.'}"
+  - question: "Woran erkenne ich eine einseitige Beziehung?"
+    answer: "Typische Zeichen: Du initiierst immer den Kontakt, planst alle Dates, machst Kompromisse während der Partner keine macht, und du fühlst dich emotional ausgelaugt statt aufgeladen."
+  - question: "Kann man eine einseitige Beziehung retten?"
+    answer: "Nur wenn beide es wollen. Wenn du das Problem ansprichst und dein Partner bereit ist, sich zu ändern, gibt es eine Chance. Wenn er abwehrt oder nichts ändert, hast du deine Antwort."
+  - question: "Warum bleibe ich in einer einseitigen Beziehung?"
+    answer: "Oft spielen Verlustangst, niedriger Selbstwert oder die Hoffnung dass es besser wird eine Rolle. Manchmal ist es auch die Angst vor dem Alleinsein, die dich festhält."
+  - question: "Wie kann ich die Dynamik ändern ohne die Beziehung zu sabotieren?"
+    answer: "Indem du bewusst aufhörst, überall zu initiieren. Nicht aggressiv, aber konsistent. Gib deinem Partner Raum zu zeigen, ob er sich anpassen kann. Das ist nicht Strafe — das ist Klarheit."
+  - question: "Ist es ok, eine Beziehung zu beenden weil sie einseitig ist?"
+    answer: "Ja. Wenn du alles versucht hast und dein Partner nicht bereit ist sich zu ändern, dann ist eine Trennung nicht Versagen. Das ist Selbstschutz."
 ---
 
 Es ist eine stille Art, sich verloren zu fühlen. Du stellst Fragen, dein Partner antwortet kurz. Du planst etwas Schönes, er zeigt sich, aber sein Kopf ist irgendwo anders. Du öffnest dein Herz und sprichst über deine Träume, deine Ängste, deine Wünsche. Er hört zu, sagt "Das ist schön", und dann ist das Thema erledigt. Vorbei.

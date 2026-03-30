@@ -18,9 +18,12 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Warum fällt es Männern schwer, Gefühle zu zeigen?', 'answer': "Jungs lernen früh: 'Sei stark, wein nicht, reiß dich zusammen.' Diese Konditionierung sitzt tief. Dazu kommt gesellschaftlicher Druck — Männer die Gefühle zeigen werden oft als schwach wahrgenommen."}"
-  - "{'question': 'Wie kann ich als Mann lernen, emotionaler zu sein?', 'answer': 'Beginne damit, Gefühle bei dir selbst zu benennen. Führe ein Gefühlstagebuch. Suche dir einen vertrauenswürdigen Menschen zum Üben. Und: Therapie ist kein Zeichen von Schwäche, sondern von Stärke.'}"
-  - "{'question': 'Wie unterstütze ich meinen Partner dabei, Gefühle zu zeigen?', 'answer': 'Schaffe einen sicheren Raum ohne Bewertung. Reagiere nicht mit Ratschlägen, sondern mit Empathie. Bedanke dich, wenn er sich öffnet. Und nutze seine Verletzlichkeit niemals gegen ihn.'}"
+  - question: "Warum fällt es Männern schwer, Gefühle zu zeigen?"
+    answer: "Jungs lernen früh:"
+  - question: "Wie kann ich als Mann lernen, emotionaler zu sein?"
+    answer: "Beginne damit, Gefühle bei dir selbst zu benennen. Führe ein Gefühlstagebuch. Suche dir einen vertrauenswürdigen Menschen zum Üben. Und: Therapie ist kein Zeichen von Schwäche, sondern von Stärke."
+  - question: "Wie unterstütze ich meinen Partner dabei, Gefühle zu zeigen?"
+    answer: "Schaffe einen sicheren Raum ohne Bewertung. Reagiere nicht mit Ratschlägen, sondern mit Empathie. Bedanke dich, wenn er sich öffnet. Und nutze seine Verletzlichkeit niemals gegen ihn."
 ---
 ## Einleitung: Die unausgesprochene Krise
 

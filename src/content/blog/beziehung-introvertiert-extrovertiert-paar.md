@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "laura-weber"
 faq:
-  - "{'question': 'Können introvertierte und extrovertierte Partner glücklich werden?', 'answer': 'Absolut. Studien zeigen sogar, dass intro-extro Paare oft besonders stabile Beziehungen haben, weil sie sich gegenseitig ergänzen und aus der Komfortzone holen. Der Schlüssel ist Verständnis und Respekt für den Stil des anderen.'}"
-  - "{'question': 'Wie gehe ich damit um wenn mein Partner immer unter Leute will?', 'answer': "Setze klare Grenzen ohne dich schuldig zu fühlen. 'Ich komme gerne mit zur Party, aber ich gehe nach zwei Stunden.' Oder: 'Geh du, ich genieße den Abend für mich.' Beides ist vollkommen okay."}"
-  - "{'question': 'Mein introvertierter Partner redet nie über Gefühle. Ist das normal?', 'answer': 'Introvertierte verarbeiten intern und brauchen oft mehr Zeit für emotionale Gespräche. Gib Raum statt zu drängen. Viele Introvertierte öffnen sich besser schriftlich oder bei einem ruhigen Spaziergang als in einem Face-to-Face-Gespräch.'}"
-  - "{'question': 'Werden die Unterschiede mit der Zeit besser oder schlimmer?', 'answer': 'Beides ist möglich. Wenn ihr beide am Verständnis arbeitet, werden die Unterschiede zur Stärke. Wenn einer ständig den anderen ändern will, werden sie zum Konflikt. Akzeptanz ist der Schlüssel.'}"
+  - question: "Können introvertierte und extrovertierte Partner glücklich werden?"
+    answer: "Absolut. Studien zeigen sogar, dass intro-extro Paare oft besonders stabile Beziehungen haben, weil sie sich gegenseitig ergänzen und aus der Komfortzone holen. Der Schlüssel ist Verständnis und Respekt für den Stil des anderen."
+  - question: "Wie gehe ich damit um wenn mein Partner immer unter Leute will?"
+    answer: "Setze klare Grenzen ohne dich schuldig zu fühlen."
+  - question: "Mein introvertierter Partner redet nie über Gefühle. Ist das normal?"
+    answer: "Introvertierte verarbeiten intern und brauchen oft mehr Zeit für emotionale Gespräche. Gib Raum statt zu drängen. Viele Introvertierte öffnen sich besser schriftlich oder bei einem ruhigen Spaziergang als in einem Face-to-Face-Gespräch."
+  - question: "Werden die Unterschiede mit der Zeit besser oder schlimmer?"
+    answer: "Beides ist möglich. Wenn ihr beide am Verständnis arbeitet, werden die Unterschiede zur Stärke. Wenn einer ständig den anderen ändern will, werden sie zum Konflikt. Akzeptanz ist der Schlüssel."
 ---
 Ihr seid zusammen. Sie mag People. Sie liebt Parties. Sie redet mit Fremden in der Schlange. Du brauchst Ruhe. Du magst kleine Gruppen. Dein Ideal-Wochenende ist zu Hause mit einem Buch und deinem Partner der auch zuhause sitzt.
 

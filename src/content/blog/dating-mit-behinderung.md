@@ -15,9 +15,12 @@ keywords:
   - "Inklusive Dating"
   - "Authentisches Dating"
 faq:
-  - "{'question': 'Sollte ich meine Behinderung in meinem Dating-Profil erwähnen?', 'answer': 'Das ist persönlich. Wenn Ihre Behinderung sichtbar ist oder Ihr Datum-Plan beeinflusst (Zugänglichkeit), würde ich erwähnen. Wenn nicht, Sie müssen nicht.'}"
-  - "{'question': 'Was ist, wenn mein Datum meine Behinderung merkwürdig findet?', 'answer': 'Das ist ihr Unsicherheit oder Ignoranz, nicht dein Problem. Sie verdienen jemanden, der dich und deine ganze Person akzeptiert. Es ist okay, weiterzugehen.'}"
-  - "{'question': 'Wie gehe ich mit Pity oder Inspiration-Porn um?', 'answer': "Seien Sie direkt. 'Ich bin nicht hier, um inspiriert zu werden. Ich bin hier, um dich kennenzulernen.' Die richtige Person wird Sie als gleichwertig sehen."}"
+  - question: "Sollte ich meine Behinderung in meinem Dating-Profil erwähnen?"
+    answer: "Das ist persönlich. Wenn Ihre Behinderung sichtbar ist oder Ihr Datum-Plan beeinflusst (Zugänglichkeit), würde ich erwähnen. Wenn nicht, Sie müssen nicht."
+  - question: "Was ist, wenn mein Datum meine Behinderung merkwürdig findet?"
+    answer: "Das ist ihr Unsicherheit oder Ignoranz, nicht dein Problem. Sie verdienen jemanden, der dich und deine ganze Person akzeptiert. Es ist okay, weiterzugehen."
+  - question: "Wie gehe ich mit Pity oder Inspiration-Porn um?"
+    answer: "Seien Sie direkt."
 ---
 Dating mit einer Behinderung bringt einzigartige Herausforderungen. Sie müssen möglicherweise über Ihre Behinderung sprechen. Sie könnten auf Ablehnung oder Fetischisierung treffen. Sie könnten Fragen über Ihre Fähigkeit zu Sex haben. Aber Sie verdienen Liebe, Verbindung und erfüllte Beziehungen, genau wie jeder andere. In diesem Leitfaden erfahren Sie, wie Sie authentisch datierten mit einer Behinderung.
 

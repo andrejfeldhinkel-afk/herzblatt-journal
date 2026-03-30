@@ -14,11 +14,16 @@ keywords:
 draft: false
 author: "sarah-kellner"
 faq:
-  - "{'question': 'Warum redet mein Partner nicht über Gefühle?', 'answer': 'Häufige Gründe: Er wurde so sozialisiert (besonders Männer), hat schlechte Erfahrungen mit Verletzlichkeit gemacht, oder hat einen vermeidenden Bindungsstil. Es ist selten böse Absicht.'}"
-  - "{'question': 'Wie bringe ich meinen Partner zum Reden?', 'answer': 'Nicht durch Druck. Schaffe sichere Momente, stelle offene Fragen, höre ohne zu urteilen und zeige dass seine Gefühle bei dir sicher sind. Manchmal hilft auch Seite an Seite statt Auge in Auge.'}"
-  - "{'question': 'Wird mein Partner sich jemals öffnen?', 'answer': 'Mit Geduld, Sicherheit und ohne Druck öffnen sich die meisten Menschen Stück für Stück. Es kann Monate oder Jahre dauern — die Frage ist, ob du bereit bist, so lange zu warten.'}"
-  - "{'question': 'Was wenn mein Partner absolut nicht redet?', 'answer': 'Manchmal ist das ein Zeichen von Bindungstraumata oder Alexithymie (fehlende Emotionale Ausdrucksfähigkeit). Eine Therapie kann helfen. Aber die Frage ist auch: Kannst du mit jemandem leben der nicht emotional kommuniziert?'}"
-  - "{'question': 'Sind emotionally unavailable Partner zu retten?', 'answer': 'Das kommt darauf an wie willens der Partner ist. Wenn er bereit ist an sich zu arbeiten — ja. Wenn er denkt dass alles mit ihm okay ist und nicht ändern muss — nein. Das ist keine Liebesfrage, das ist eine Kompatibilitätsfrage.'}"
+  - question: "Warum redet mein Partner nicht über Gefühle?"
+    answer: "Häufige Gründe: Er wurde so sozialisiert (besonders Männer), hat schlechte Erfahrungen mit Verletzlichkeit gemacht, oder hat einen vermeidenden Bindungsstil. Es ist selten böse Absicht."
+  - question: "Wie bringe ich meinen Partner zum Reden?"
+    answer: "Nicht durch Druck. Schaffe sichere Momente, stelle offene Fragen, höre ohne zu urteilen und zeige dass seine Gefühle bei dir sicher sind. Manchmal hilft auch Seite an Seite statt Auge in Auge."
+  - question: "Wird mein Partner sich jemals öffnen?"
+    answer: "Mit Geduld, Sicherheit und ohne Druck öffnen sich die meisten Menschen Stück für Stück. Es kann Monate oder Jahre dauern — die Frage ist, ob du bereit bist, so lange zu warten."
+  - question: "Was wenn mein Partner absolut nicht redet?"
+    answer: "Manchmal ist das ein Zeichen von Bindungstraumata oder Alexithymie (fehlende Emotionale Ausdrucksfähigkeit). Eine Therapie kann helfen. Aber die Frage ist auch: Kannst du mit jemandem leben der nicht emotional kommuniziert?"
+  - question: "Sind emotionally unavailable Partner zu retten?"
+    answer: "Das kommt darauf an wie willens der Partner ist. Wenn er bereit ist an sich zu arbeiten — ja. Wenn er denkt dass alles mit ihm okay ist und nicht ändern muss — nein. Das ist keine Liebesfrage, das ist eine Kompatibilitätsfrage."
 ---
 
 Du erzählst deinem Partner von deinem stressigen Tag bei der Arbeit. Du spürst dass dich das emotional belastet. Und du möchtest, dass er versteht. Du schaust ihn an und wartest auf ein "Wie geht dir denn damit?" oder "Das klingt hart."

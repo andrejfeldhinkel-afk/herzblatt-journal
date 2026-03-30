@@ -16,10 +16,14 @@ draft: false
 image: "/images/photos/grenzen-setzen-beziehung.webp"
 imageAlt: "Paar im respektvollen Gespräch über Grenzen"
 faq:
-  - "{'question': 'Warum fällt es vielen so schwer, Grenzen zu setzen?', 'answer': 'Oft stecken Angst vor Ablehnung, ein geringes Selbstwertgefühl oder die Überzeugung dahinter, dass Liebe bedeutet, alles hinzunehmen. Viele haben in der Kindheit gelernt, die eigenen Bedürfnisse zurückzustellen.'}"
-  - "{'question': 'Sind Grenzen nicht egoistisch?', 'answer': 'Nein — Grenzen sind ein Akt der Selbstfürsorge und des Respekts. Sie zeigen deinem Partner, was du brauchst, und schaffen die Basis für eine gleichberechtigte Beziehung.'}"
-  - "{'question': 'Was mache ich, wenn mein Partner meine Grenzen nicht respektiert?', 'answer': 'Kommuniziere klar und ruhig die Konsequenzen. Wenn dein Partner wiederholt deine Grenzen übergeht und kein Verständnis zeigt, ist das ein ernstes Warnsignal für die Beziehung.'}"
-  - "{'question': 'Kann man auch zu viele Grenzen setzen?', 'answer': 'Ja — wenn Grenzen dazu dienen, sich emotional komplett abzuschotten, werden sie zur Mauer statt zum gesunden Zaun. Gesunde Grenzen erlauben Nähe und schützen gleichzeitig.'}"
+  - question: "Warum fällt es vielen so schwer, Grenzen zu setzen?"
+    answer: "Oft stecken Angst vor Ablehnung, ein geringes Selbstwertgefühl oder die Überzeugung dahinter, dass Liebe bedeutet, alles hinzunehmen. Viele haben in der Kindheit gelernt, die eigenen Bedürfnisse zurückzustellen."
+  - question: "Sind Grenzen nicht egoistisch?"
+    answer: "Nein — Grenzen sind ein Akt der Selbstfürsorge und des Respekts. Sie zeigen deinem Partner, was du brauchst, und schaffen die Basis für eine gleichberechtigte Beziehung."
+  - question: "Was mache ich, wenn mein Partner meine Grenzen nicht respektiert?"
+    answer: "Kommuniziere klar und ruhig die Konsequenzen. Wenn dein Partner wiederholt deine Grenzen übergeht und kein Verständnis zeigt, ist das ein ernstes Warnsignal für die Beziehung."
+  - question: "Kann man auch zu viele Grenzen setzen?"
+    answer: "Ja — wenn Grenzen dazu dienen, sich emotional komplett abzuschotten, werden sie zur Mauer statt zum gesunden Zaun. Gesunde Grenzen erlauben Nähe und schützen gleichzeitig."
 ---
 Ein häufiges Szenario: Du magst lieber freitags Zeit mit deinen Freunden verbringen, aber dein Partner erwartet, dass du jedes Wochenende mit ihm zusammen bist. Du hast Angst, „Nein" zu sagen, weil du dich nicht egoistisch fühlen möchtest. Also gibst du nach. Woche für Woche. Bis du dich ohnmächtig, ärgerlich und unverstanden fühlst.
 

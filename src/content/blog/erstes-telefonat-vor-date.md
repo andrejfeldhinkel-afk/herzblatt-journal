@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "markus-hoffmann"
 faq:
-  - "{'question': 'Sollte man vor dem ersten Date telefonieren?', 'answer': 'Ja, ein kurzes Telefonat von 15-20 Minuten ist eine hervorragende Idee. Du bekommst ein Gefühl für die Stimme und den Humor der Person und kannst besser einschätzen ob ein Date sich lohnt.'}"
-  - "{'question': 'Wie schlage ich ein Telefonat vor ohne komisch zu wirken?', 'answer': "Locker und direkt: 'Hey, ich telefoniere lieber als endlos zu tippen. Hast du Lust auf ein kurzes Telefonat diese Woche?' Die meisten finden das charmant und erfrischend."}"
-  - "{'question': 'Wie lange sollte das erste Telefonat dauern?', 'answer': '15-30 Minuten sind ideal für ein erstes Telefonat. Lang genug um ein Gefühl füreinander zu bekommen, kurz genug um die Spannung für das echte Date zu halten.'}"
-  - "{'question': 'Was wenn das Telefonat peinlich still wird?', 'answer': 'Keine Panik — kurze Stille ist normal und nicht so schlimm wie du denkst. Hab 3-4 Backup-Themen parat und erinnere dich: wenn ihr euch nichts zu sagen habt, ist das auch eine wertvolle Information.'}"
+  - question: "Sollte man vor dem ersten Date telefonieren?"
+    answer: "Ja, ein kurzes Telefonat von 15-20 Minuten ist eine hervorragende Idee. Du bekommst ein Gefühl für die Stimme und den Humor der Person und kannst besser einschätzen ob ein Date sich lohnt."
+  - question: "Wie schlage ich ein Telefonat vor ohne komisch zu wirken?"
+    answer: "Locker und direkt:"
+  - question: "Wie lange sollte das erste Telefonat dauern?"
+    answer: "15-30 Minuten sind ideal für ein erstes Telefonat. Lang genug um ein Gefühl füreinander zu bekommen, kurz genug um die Spannung für das echte Date zu halten."
+  - question: "Was wenn das Telefonat peinlich still wird?"
+    answer: "Keine Panik — kurze Stille ist normal und nicht so schlimm wie du denkst. Hab 3-4 Backup-Themen parat und erinnere dich: wenn ihr euch nichts zu sagen habt, ist das auch eine wertvolle Information."
 ---
 Das erste Telefonat vor dem Date ist eine Kunst für sich – und ja, genau darum geht es in diesem Artikel. In einer Zeit, in der die meisten Menschen lieber tippen als sprechen, wirkt ein echter Anruf fast rebellisch. Aber genau das ist der Punkt: Ein **erstes Telefonat vor dem Date** unterscheidet dich von den Hunderten anderen Matches, die nur Sprachnachrichten hin und her schieben.
 

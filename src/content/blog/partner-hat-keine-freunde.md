@@ -14,9 +14,12 @@ keywords:
 draft: false
 author: "thomas-peters"
 faq:
-  - "{'question': 'Ist es ein Problem wenn mein Partner keine Freunde hat?', 'answer': 'Es kann eines werden. Wenn du sein einziger Sozialkontakt bist, entsteht emotionaler Druck und Abhängigkeit. Gesunde Beziehungen brauchen auch gesunde Individuen mit eigenem Umfeld.'}"
-  - "{'question': 'Wie helfe ich meinem Partner Freunde zu finden?', 'answer': 'Ermutige ihn zu Hobbys, gemeinsamen Aktivitäten mit anderen Paaren, oder Vereinen. Aber dränge nicht — der Wunsch muss von ihm kommen.'}"
-  - "{'question': 'Warum hat mein Partner keine Freunde?', 'answer': 'Mögliche Gründe: Introversion, soziale Angst, vergangene negative Erfahrungen, häufige Umzüge oder ein toxisches Elternhaus das soziale Kontakte nicht gefördert hat.'}"
+  - question: "Ist es ein Problem wenn mein Partner keine Freunde hat?"
+    answer: "Es kann eines werden. Wenn du sein einziger Sozialkontakt bist, entsteht emotionaler Druck und Abhängigkeit. Gesunde Beziehungen brauchen auch gesunde Individuen mit eigenem Umfeld."
+  - question: "Wie helfe ich meinem Partner Freunde zu finden?"
+    answer: "Ermutige ihn zu Hobbys, gemeinsamen Aktivitäten mit anderen Paaren, oder Vereinen. Aber dränge nicht — der Wunsch muss von ihm kommen."
+  - question: "Warum hat mein Partner keine Freunde?"
+    answer: "Mögliche Gründe: Introversion, soziale Angst, vergangene negative Erfahrungen, häufige Umzüge oder ein toxisches Elternhaus das soziale Kontakte nicht gefördert hat."
 ---
 
 Am Anfang war es niedlich. Dein Partner wollte ständig Zeit mit dir verbringen. Er hatte keine anderen Freunde, also wart ihr immer zusammen. Manchmal dachtest du: "Wow, das ist echte Liebe — ich bin alles für ihn." Romantisch, dachtest du.

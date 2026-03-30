@@ -18,10 +18,14 @@ draft: false
 featured: false
 author: "laura-weber"
 faq:
-  - "{'question': 'Braucht man einen professionellen Fotografen für Dating-Fotos?', 'answer': 'Nein. Mit einem modernen Smartphone, gutem Licht und den richtigen Tipps kannst du Fotos machen, die genauso gut oder sogar authentischer wirken als Profi-Bilder. Natürlichkeit kommt auf Dating-Apps besser an als gestellte Studio-Fotos.'}"
-  - "{'question': 'Welches Licht ist am besten für Dating-Fotos?', 'answer': "Natürliches Licht ist unschlagbar. Die beste Zeit ist die 'Golden Hour' — eine Stunde nach Sonnenaufgang oder vor Sonnenuntergang. Alternativ funktioniert ein Platz am Fenster mit indirektem Tageslicht hervorragend."}"
-  - "{'question': 'Wie viele Fotos brauche ich für ein Dating-Profil?', 'answer': 'Mindestens 4-6 verschiedene Fotos: ein gutes Porträt, ein Ganzkörperbild, ein Hobby-/Aktivitätsfoto, ein Foto mit Freunden oder Haustier, und 1-2 Lifestyle-Bilder die deine Persönlichkeit zeigen.'}"
-  - "{'question': 'Sind Selfies für Dating-Apps okay?', 'answer': 'Ein gutes Selfie ist okay, aber es sollte nicht dein Hauptbild sein und maximal eines von sechs. Verwende den Timer deines Handys oder bitte jemanden, ein Foto von dir zu machen — das wirkt immer natürlicher.'}"
+  - question: "Braucht man einen professionellen Fotografen für Dating-Fotos?"
+    answer: "Nein. Mit einem modernen Smartphone, gutem Licht und den richtigen Tipps kannst du Fotos machen, die genauso gut oder sogar authentischer wirken als Profi-Bilder. Natürlichkeit kommt auf Dating-Apps besser an als gestellte Studio-Fotos."
+  - question: "Welches Licht ist am besten für Dating-Fotos?"
+    answer: "Natürliches Licht ist unschlagbar. Die beste Zeit ist die"
+  - question: "Wie viele Fotos brauche ich für ein Dating-Profil?"
+    answer: "Mindestens 4-6 verschiedene Fotos: ein gutes Porträt, ein Ganzkörperbild, ein Hobby-/Aktivitätsfoto, ein Foto mit Freunden oder Haustier, und 1-2 Lifestyle-Bilder die deine Persönlichkeit zeigen."
+  - question: "Sind Selfies für Dating-Apps okay?"
+    answer: "Ein gutes Selfie ist okay, aber es sollte nicht dein Hauptbild sein und maximal eines von sechs. Verwende den Timer deines Handys oder bitte jemanden, ein Foto von dir zu machen — das wirkt immer natürlicher."
 ---
 
 Die Wahrheit ist hart, aber wahr: Bei Online-Dating entscheiden sich potenzielle Partner in den ersten 1-3 Sekunden, ob sie dich interessant finden — basierend fast ausschließlich auf deinen Fotos. Nicht auf dein Profiltexten, nicht auf deine Interessen, sondern auf die **Dating-Fotos selber machen** — das ist deine größte Superpower. Die gute Nachricht? Du brauchst keinen teuren Fotografen, kein Studio-Equipment und auch keine professionelle Kamera. Mit deinem Smartphone und den richtigen Techniken, die ich dir in diesem ausführlichen Guide zeige, wirst du Bilder erstellen, die genauso professionell aussehen wie die von bezahlten Profis.
