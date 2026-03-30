@@ -331,6 +331,7 @@ Und dann, mit Zeit, mit Arbeit, mit Unterstützung – geh auf eine Beziehung zu
 ## Weiterlesen
 
 - [Emotionale Intelligenz in Beziehungen: Der Schlüssel zu](/blog/emotionale-intelligenz-beziehung/)
+- [Silent Treatment in der Beziehung](/blog/silent-treatment-beziehung/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
 - [Die Kraft der Berührung: Warum körperliche Nähe heilt](/blog/beruehrungen-beziehung-bedeutung/)
 - [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)

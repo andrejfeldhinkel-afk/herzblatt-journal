@@ -177,6 +177,7 @@ Wenn deine aktuelle Beziehung das nicht ist, verdienst du besser.
 Das zu erkennen und zu gehen ist nicht fehlgeschlagen – das ist einen großen Sieg.## Weiterlesen
 
 - [Gaslighting in Beziehungen erkennen: 15 Warnsignale und wie](/blog/gaslighting-beziehung-erkennen/)
+- [Silent Treatment in der Beziehung](/blog/silent-treatment-beziehung/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
 - [Beziehung und Gewichtszunahme: Ein heikles Thema ehrlich](/blog/beziehung-nach-gewichtszunahme/)
 - [Beziehung nach schwerer Krankheit: Wieder zueinander finden](/blog/beziehung-nach-krankheit/)

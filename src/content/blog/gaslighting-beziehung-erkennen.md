@@ -1,7 +1,7 @@
 ---
 title: "Gaslighting in Beziehungen erkennen: 15 Warnsignale und wie"
 description: "Gaslighting in Beziehungen erkennen: Lerne die 15 Warnsignale, erkenne emotionale Manipulation und schütze deine mentale Gesundheit mit praktischen Strategien."
-date: 2025-10-13
+date: 2025-11-06
 image: "/images/photos/gaslighting-beziehung-erkennen.webp"
 tags:
   - "Beziehung"
@@ -318,6 +318,7 @@ Du darfst gehen. Du darfst dich schützen. Du darfst dir selbst vertrauen. Die 1
 
 - [Gaslighting in der Beziehung: So erkennst du emotionale](/blog/gaslighting-beziehung/)
 - [Emotionaler Missbrauch in Beziehungen: Erkennen & Heilen](/blog/emotionaler-missbrauch-beziehung-guide/)
+- [Silent Treatment in der Beziehung](/blog/silent-treatment-beziehung/)
 - [Rebound-Beziehung erkennen und vermeiden](/blog/rebound-beziehung-erkennen/)
 - [Kontrollierender Partner: 20 Warnsignale und wie du dich](/blog/kontrollierender-partner-erkennen/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)

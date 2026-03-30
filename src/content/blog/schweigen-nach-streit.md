@@ -1,7 +1,7 @@
 ---
 title: "Schweigen nach dem Streit: Wie lange ist normal?"
 description: "Schweigen nach Streit in Beziehungen verstehen. Wie lange ist normal, wann wird es problematisch, und wie kommunizierst du wieder?"
-date: 2025-12-15
+date: 2025-11-06
 image: "/images/photos/schweigen-nach-streit.webp"
 imageAlt: "Stille zwischen einem Paar nach einem Streit"
 tags:
@@ -187,6 +187,7 @@ Das ist wo Intimität wirklich aufgebaut wird – nicht im Streit, aber in der R
 
 - [Nach Vertrauensbruch: Heilung finden](/blog/beziehung-nach-vertrauensbruch/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
+- [Silent Treatment in der Beziehung](/blog/silent-treatment-beziehung/)
 - [Beziehung retten nach Streit: 8 Schritte](/blog/beziehung-retten-nach-streit/)
 - [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
 - [Beziehung retten: Der ehrliche Guide wenn es die letzte](/blog/beziehung-retten-letzte-chance/)

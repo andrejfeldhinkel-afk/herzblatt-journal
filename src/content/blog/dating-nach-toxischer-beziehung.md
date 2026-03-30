@@ -1,7 +1,7 @@
 ---
 title: "Wieder daten nach einer toxischen Beziehung"
 description: "Dating nach toxischen Beziehungen: Wie du wieder bereit wirst. Erkenne Red Flags, setze gesunde Grenzen und mache dich bereit für eine erfüllende Liebe."
-date: 2025-07-22
+date: 2025-11-06
 tags:
   - "Beziehung"
   - "Ratgeber"
@@ -66,6 +66,7 @@ Weitere Informationen findest du bei Psychologie Heute: [Psychologie Heute](http
 Die Angst, dass du wieder in eine toxische Beziehung geraten könntest, ist verständlich. Aber mit Selbstreflexion, klaren Grenzen und der Erlaubnis, dich Zeit zu geben, wirst du wieder eine gesunde, liebevolle Beziehung finden können. Deine Vergangenheit definiert nicht deine Zukunft.## Weiterlesen
 
 - [Beziehung aufbauen nach einer Depression: Hoffnung vorwärts](/blog/beziehung-nach-depression/)
+- [Silent Treatment in der Beziehung](/blog/silent-treatment-beziehung/)
 - [Dating und Beziehung nach schwierigen Lebensentscheidungen](/blog/dating-nach-abtreibung/)
 - [Nach dem Narzissten: Komplett-Guide für den Neustart](/blog/dating-nach-narzisstischer-beziehung-guide/)
 - [Selbstwert wieder aufbauen nach toxischer Beziehung](/blog/selbstwert-nach-toxischer-beziehung/)
