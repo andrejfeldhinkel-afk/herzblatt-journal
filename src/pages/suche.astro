@@ -3,7 +3,11 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
 const posts = (await getCollection('blog', ({ data }) => !data.draft))
-  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+  .sort((a, b) => {
+    const dateA = a.data.date ? new Date(a.data.date).valueOf() : 0;
+    const dateB = b.data.date ? new Date(b.data.date).valueOf() : 0;
+    return dateB - dateA;
+  });
 
 const searchIndex = posts.map(p => ({
   title: p.data.title,
@@ -11,7 +15,7 @@ const searchIndex = posts.map(p => ({
   tags: p.data.tags,
   slug: p.id,
   image: p.data.image,
-  date: p.data.date.toISOString().split('T')[0],
+  date: p.data.date ? p.data.date.toISOString().split('T')[0] : '',
 }));
 ---
 

@@ -5,7 +5,11 @@ import AppCTA from '../components/AppCTA.astro';
 import { getCollection } from 'astro:content';
 
 const posts = (await getCollection('blog', ({ data }) => !data.draft))
-  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+  .sort((a, b) => {
+    const dateA = a.data.date ? new Date(a.data.date).valueOf() : 0;
+    const dateB = b.data.date ? new Date(b.data.date).valueOf() : 0;
+    return dateB - dateA;
+  });
 
 // Dynamischer Leser-Counter: Startwert + tägliches Wachstum (37-73 pro Tag, Seed-basiert)
 const readerBase = 51483;

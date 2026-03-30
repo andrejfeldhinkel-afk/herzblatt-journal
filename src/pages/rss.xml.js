@@ -9,7 +9,8 @@ export async function GET(context) {
     description: 'Dating-Tipps, Flirt-Ratgeber und Beziehungs-Strategien — Herzblatt Journal hilft dir, die Liebe zu finden, die du verdienst.',
     site: context.site || 'https://herzblatt-journal.com',
     items: blog
-      .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+      .filter((post) => post.data.date)
+      .sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf())
       .map((post) => ({
         title: post.data.title,
         pubDate: post.data.date,

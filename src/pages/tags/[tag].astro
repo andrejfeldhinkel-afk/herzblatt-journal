@@ -13,7 +13,11 @@ export async function getStaticPaths() {
       tag,
       posts: posts
         .filter(post => post.data.tags.includes(tag) && !post.data.draft)
-        .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
+        .sort((a, b) => {
+          const dateA = a.data.date ? new Date(a.data.date).valueOf() : 0;
+          const dateB = b.data.date ? new Date(b.data.date).valueOf() : 0;
+          return dateB - dateA;
+        }),
     },
   }));
 }

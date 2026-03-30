@@ -2,7 +2,7 @@
 interface Props {
   title: string;
   description: string;
-  date: Date;
+  date?: Date;
   tags: string[];
   slug: string;
   readingTime?: string;
@@ -13,11 +13,11 @@ interface Props {
 
 const { title, description, date, tags, slug, readingTime, featured = false, image, imageAlt } = Astro.props;
 
-const formattedDate = new Intl.DateTimeFormat('de-DE', {
+const formattedDate = date ? new Intl.DateTimeFormat('de-DE', {
   year: 'numeric',
   month: 'long',
   day: 'numeric',
-}).format(date);
+}).format(date) : '';
 ---
 
 <article
@@ -81,7 +81,7 @@ const formattedDate = new Intl.DateTimeFormat('de-DE', {
       <!-- Meta -->
       <div class="flex items-center justify-between">
         <div class="flex items-center gap-3 text-xs font-medium" style="color: var(--text-muted);">
-          <time datetime={date.toISOString()}>{formattedDate}</time>
+          {date && <time datetime={date.toISOString()}>{formattedDate}</time>}
           {readingTime && (
             <>
               <span class="w-1 h-1 rounded-full" style="background: var(--color-surface-300);"></span>
