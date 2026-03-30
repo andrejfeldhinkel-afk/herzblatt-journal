@@ -1,4 +1,13 @@
 ---
+title: "Sternzeichen-Kompatibilität: Spaß oder Science? Die Wahrheit hinter den Sternen"
+description: "Ratgeber zum Thema Sternzeichen-Kompatibilität: Spaß oder Science? Die Wahrheit hinter den Sternen — Herzblatt Journal"
+tags:
+  - "Ratgeber"
+keywords:
+  - "sternzeichen-kompatibilitaet"
+draft: false
+image: "/images/photos/sternzeichen-kompatibilitaet.webp"
+imageAlt: "Sternzeichen-Kompatibilität: Spaß oder Science? Die Wahrheit hinter den Sternen"
 ---
 ## Sternzeichen-Kompatibilität: Spaß oder Science? Die Wahrheit hinter den Sternen
 

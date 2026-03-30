@@ -1,5 +1,15 @@
 ---
----## Die Wissenschaft von Ritualen
+title: "Die Morgen-Ritual"
+description: "Ratgeber zum Thema Die Morgen-Ritual — Herzblatt Journal"
+tags:
+  - "Ratgeber"
+keywords:
+  - "beziehung-rituale-staerken"
+draft: false
+image: "/images/photos/beziehung-rituale-staerken.webp"
+imageAlt: "Die Morgen-Ritual"
+---
+## Die Wissenschaft von Ritualen
 
 Wenn Menschen denken, Beziehungen sind Liebe und Sex und großartige Daten, sie vergessen Rituale. Aber Rituale sind das Gerüst, auf das langfristige Liebe gebaut wird.
 

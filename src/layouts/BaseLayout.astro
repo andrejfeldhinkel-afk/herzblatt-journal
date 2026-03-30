@@ -105,10 +105,12 @@ const articleSchema = isArticle ? {
 } : null;
 
 // Breadcrumb Schema
-const breadcrumbSchema = breadcrumbs.length > 0 ? {
+const safeBreadcrumbs = Array.isArray(breadcrumbs) ? breadcrumbs : [];
+const safeFaq = Array.isArray(faq) ? faq : [];
+const breadcrumbSchema = safeBreadcrumbs.length > 0 ? {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
-  "itemListElement": breadcrumbs.map((bc, i) => ({
+  "itemListElement": safeBreadcrumbs.map((bc, i) => ({
     "@type": "ListItem",
     "position": i + 1,
     "name": bc.name,
@@ -117,10 +119,10 @@ const breadcrumbSchema = breadcrumbs.length > 0 ? {
 } : null;
 
 // FAQ Schema
-const faqSchema = faq.length > 0 ? {
+const faqSchema = safeFaq.length > 0 ? {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "mainEntity": faq.map(item => ({
+  "mainEntity": safeFaq.map(item => ({
     "@type": "Question",
     "name": item.question,
     "acceptedAnswer": {
@@ -139,7 +141,7 @@ const faqSchema = faq.length > 0 ? {
   <meta name="generator" content={Astro.generator} />
 
   {keywords.length > 0 && (
-    <meta name="keywords" content={keywords.join(", ")} />
+    <meta name="keywords" content={Array.isArray(keywords) ? keywords.join(", ") : (keywords || '')} />
   )}
 
   <!-- Open Graph -->

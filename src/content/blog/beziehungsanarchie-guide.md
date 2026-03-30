@@ -8,7 +8,11 @@ tags:
   - "Beziehung"
   - "Lifestyle"
   - "Ratgeber"
-keywords: "beziehungsanarchie, relationship anarchy, liebe ohne labels, alternative beziehungsformen"
+keywords:
+  - "beziehungsanarchie"
+  - "relationship anarchy"
+  - "liebe ohne labels"
+  - "alternative beziehungsformen"
 ---
 ## Beziehungsanarchie: Liebe ohne Regeln, Hierarchien und Labels
 

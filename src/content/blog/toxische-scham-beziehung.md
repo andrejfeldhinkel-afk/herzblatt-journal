@@ -10,7 +10,11 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Heilung"
-keywords: "toxische scham, scham beziehung, scham liebe, ich bin nicht gut genug"
+keywords:
+  - "toxische scham"
+  - "scham beziehung"
+  - "scham liebe"
+  - "ich bin nicht gut genug"
 ---
 Es gibt einen Unterschied zwischen zwei Gefühlen, die sehr ähnlich klingen, aber völlig verschieden sind:
 

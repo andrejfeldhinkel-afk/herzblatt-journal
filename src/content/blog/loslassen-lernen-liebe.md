@@ -10,7 +10,10 @@ tags:
   - "Psychologie"
   - "Selbstliebe"
   - "Heilung"
-keywords: "loslassen lernen liebe, loslassen beziehung, partner loslassen lernen"
+keywords:
+  - "loslassen lernen liebe"
+  - "loslassen beziehung"
+  - "partner loslassen lernen"
 ---
 
 Du hältst fest. Mit den Fingernägeln, mit den Zähnen, mit allem, was du hast. Du fragst dich: "Wenn ich ihn/sie loslasse, könnte er/sie gehen."

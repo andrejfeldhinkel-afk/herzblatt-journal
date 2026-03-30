@@ -8,7 +8,11 @@ tags:
   - "Dating"
   - "Lifestyle"
   - "Beziehung"
-keywords: "solo polyamorie, solo poly deutsch, polyamor und unabhängig, mehrere beziehungen single"
+keywords:
+  - "solo polyamorie"
+  - "solo poly deutsch"
+  - "polyamor und unabhängig"
+  - "mehrere beziehungen single"
 description: "Solo-Polyamorie ist nicht Promiskuität - es ist eine bewusste Lebensweise, in der du mit mehreren Menschen in Beziehung stehst, während du vollständig autonom bleibst."
 ---
 ## Solo-Polyamorie: Mehrere Beziehungen führen und trotzdem dein eigener Mensch bleiben

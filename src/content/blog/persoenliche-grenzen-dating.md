@@ -10,7 +10,10 @@ tags:
   - "Psychologie"
   - "Dating"
   - "Selbstliebe"
-keywords: "grenzen setzen dating, persönliche grenzen dating, dating grenzen"
+keywords:
+  - "grenzen setzen dating"
+  - "persönliche grenzen dating"
+  - "dating grenzen"
 ---
 
 Du gehst auf ein Date. Der andere Mensch sagt: "Ich zahle nicht für Essen, wir teilen uns." Du entschuldigst dich und zahlst deine Hälfte.

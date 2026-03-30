@@ -10,7 +10,11 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Ratgeber"
-keywords: "vermeidender bindungsstil, unsicher vermeidend, bindungsangst vermeidend, partner vermeidend"
+keywords:
+  - "vermeidender bindungsstil"
+  - "unsicher vermeidend"
+  - "bindungsangst vermeidend"
+  - "partner vermeidend"
 ---
 
 Dein Partner ist unglaublich mit dir, wenn ihr allein seid. Das Gespräch ist tief. Der Sex ist leidenschaftlich. Die Nähe ist real.

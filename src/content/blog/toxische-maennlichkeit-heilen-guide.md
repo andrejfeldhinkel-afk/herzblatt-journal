@@ -8,7 +8,11 @@ tags:
   - "Psychologie"
   - "Selbstliebe"
   - "Heilung"
-keywords: "toxische männlichkeit überwinden, gesunde männlichkeit, männlichkeit neu definieren, mann sein heute"
+keywords:
+  - "toxische männlichkeit überwinden"
+  - "gesunde männlichkeit"
+  - "männlichkeit neu definieren"
+  - "mann sein heute"
 description: "Toxische Männlichkeit ist ein Gefängnis. Lerne, wie du als Mann aus diesen Mustern ausbrichst und deine echte, verletzliche Stärke findest."
 ---
 

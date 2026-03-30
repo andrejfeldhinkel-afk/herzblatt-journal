@@ -10,7 +10,10 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Heilung"
-keywords: "beziehungssucht, beziehungssucht erkennen, abhängig von beziehung"
+keywords:
+  - "beziehungssucht"
+  - "beziehungssucht erkennen"
+  - "abhängig von beziehung"
 ---
 
 Du verlässt eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) und wirkst sechs Wochen später mit jemandem neu zusammen. Dein Partner kritisiert dich, und du versuchst verzweifelt herauszufinden, wie du ihn ändern kannst, anstatt zu gehen. Dein Telefon ist dein bestes Freund — jede Benachrichtigung von deinem Partner löst einen Adrenalinrausch aus. Du kannst ohne ihn nicht atmen. Das ist keine Liebe. Das ist Beziehungssucht.

@@ -8,7 +8,11 @@ tags:
   - "Beziehung"
   - "Psychologie"
   - "Selbstliebe"
-keywords: "coming out beziehung, coming out partner, lgbtq beziehung, sexuelle orientierung beziehung"
+keywords:
+  - "coming out beziehung"
+  - "coming out partner"
+  - "lgbtq beziehung"
+  - "sexuelle orientierung beziehung"
 ---
 ## Coming-Out in der beziehung: Wenn du dich selbst findest während du jemanden liebst
 

@@ -10,7 +10,10 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Heilung"
-keywords: "verlustangst kindheit, verlustangst beziehung ursachen, kindheit prägt beziehung"
+keywords:
+  - "verlustangst kindheit"
+  - "verlustangst beziehung ursachen"
+  - "kindheit prägt beziehung"
 ---
 
 Du rufst deinen Partner zwanzig Mal an. Er antwortet nicht. Du fängst an zu zittern. Dein Herz rast. Du bist überzeugt, dass er dich verlassen hat. Vielleicht ist ihm etwas passiert. Vielleicht mag er dich nicht mehr. Die Panik ist physisch. Sie fühlt sich an wie Sterben.

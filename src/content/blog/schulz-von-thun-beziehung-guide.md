@@ -8,7 +8,11 @@ tags:
   - "Kommunikation"
   - "Beziehung"
   - "Psychologie"
-keywords: "4 ohren modell beziehung, schulz von thun beziehung, kommunikation missverständnisse paar, vier seiten einer nachricht"
+keywords:
+  - "4 ohren modell beziehung"
+  - "schulz von thun beziehung"
+  - "kommunikation missverständnisse paar"
+  - "vier seiten einer nachricht"
 description: "Das 4-Ohren-Modell erklärt, warum eure Kommunikation so oft schiefgeht. Lerne, auf der richtigen Ebene zu sprechen und wirklich verstanden zu werden."
 ---
 

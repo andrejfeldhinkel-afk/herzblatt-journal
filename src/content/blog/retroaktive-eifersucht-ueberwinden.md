@@ -10,7 +10,10 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Ratgeber"
-keywords: "retroaktive eifersucht, eifersüchtig auf ex des partners, eifersucht vergangenheit partner"
+keywords:
+  - "retroaktive eifersucht"
+  - "eifersüchtig auf ex des partners"
+  - "eifersucht vergangenheit partner"
 ---
 Du willst nicht fragen. Du weißt, dass du nicht fragen sollst. Aber die Worte kommen trotzdem heraus: "Wie viele Menschen, bevor du mich getroffen hast?"
 

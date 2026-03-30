@@ -1,4 +1,13 @@
 ---
+title: "Situationship – Was tun, wenn es mehr als Freundschaft aber keine beziehung ist?"
+description: "Ratgeber zum Thema Situationship – Was tun, wenn es mehr als Freundschaft aber keine beziehung ist? — Herzblatt Journal"
+tags:
+  - "Ratgeber"
+keywords:
+  - "situationship-guide"
+draft: false
+image: "/images/photos/situationship-guide.webp"
+imageAlt: "Situationship – Was tun, wenn es mehr als Freundschaft aber keine beziehung ist?"
 ---
 ## Situationship – Was tun, wenn es mehr als Freundschaft aber keine beziehung ist?
 

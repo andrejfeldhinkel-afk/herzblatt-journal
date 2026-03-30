@@ -10,7 +10,10 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Heilung"
-keywords: "trauma reaktionen beziehung, fight flight freeze fawn, trauma response dating"
+keywords:
+  - "trauma reaktionen beziehung"
+  - "fight flight freeze fawn"
+  - "trauma response dating"
 ---
 Es gibt einen Moment in deiner [beziehung](/blog/adhs-und-beziehung-komplett-guide/), in dem du und dein Partner in einem Konflikt geraten. Es ist nichts Großes. Vielleicht ist er spät nach Hause gekommen. Vielleicht hat sie etwas Unhöfliches gesagt.
 

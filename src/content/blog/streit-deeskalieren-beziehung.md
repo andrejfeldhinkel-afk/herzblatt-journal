@@ -8,7 +8,13 @@ tags:
   - "Kommunikation"
   - "Beziehung"
   - "Ratgeber"
-keywords: "streit deeskalieren, konflikt lösen beziehung, streit beenden, deeskalation paar, gottman 4 horsemen, physiologische flooding"
+keywords:
+  - "streit deeskalieren"
+  - "konflikt lösen beziehung"
+  - "streit beenden"
+  - "deeskalation paar"
+  - "gottman 4 horsemen"
+  - "physiologische flooding"
 ---
 
 ## Streit deeskalieren: Die vollständige Anleitung zur Konfliktentschärfung in Beziehungen

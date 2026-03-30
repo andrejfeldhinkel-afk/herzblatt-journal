@@ -8,7 +8,11 @@ tags:
   - "Beziehung"
   - "Kommunikation"
   - "Ratgeber"
-keywords: "paartherapie übungen, beziehung stärken übungen, kommunikationsübungen paar, gottman übungen"
+keywords:
+  - "paartherapie übungen"
+  - "beziehung stärken übungen"
+  - "kommunikationsübungen paar"
+  - "gottman übungen"
 ---
 ## Paartherapie-Übungen für zuhause: 15 Methoden die eure beziehung stärken
 
