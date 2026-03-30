@@ -16,11 +16,12 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content, headings } = await render(post);
 
-const formattedDate = post.data.date ? new Intl.DateTimeFormat('de-DE', {
+const postDate = post.data.date ? (post.data.date instanceof Date ? post.data.date : new Date(post.data.date)) : null;
+const formattedDate = postDate && !isNaN(postDate.getTime()) ? new Intl.DateTimeFormat('de-DE', {
   year: 'numeric',
   month: 'long',
   day: 'numeric',
-}).format(post.data.date) : '';
+}).format(postDate) : '';
 
 const words = (post.body || '').split(/\s+/).length;
 const readingTime = Math.ceil(words / 200);
@@ -90,8 +91,8 @@ const ogImage = post.data.image || '/og-default.png';
   type="article"
   isArticle={true}
   keywords={post.data.keywords || []}
-  datePublished={post.data.date ? post.data.date.toISOString() : ''}
-  dateModified={post.data.updated ? post.data.updated.toISOString() : (post.data.date ? post.data.date.toISOString() : '')}
+  datePublished={postDate ? postDate.toISOString() : ''}
+  dateModified={post.data.updated ? new Date(post.data.updated).toISOString() : (postDate ? postDate.toISOString() : '')}
   breadcrumbs={breadcrumbs}
   faq={post.data.faq || []}
 >
@@ -145,7 +146,7 @@ const ogImage = post.data.image || '/og-default.png';
               <div>
                 <p class="text-sm font-semibold" style="color: var(--text);">Herzblatt Journal</p>
                 <div class="flex items-center gap-2 text-xs" style="color: var(--text-muted);">
-                  {post.data.date ? <time datetime={post.data.date.toISOString()}>{formattedDate}</time> : <span>{formattedDate}</span>}
+                  {postDate ? <time datetime={postDate.toISOString()}>{formattedDate}</time> : <span>{formattedDate}</span>}
                   <span>·</span>
                   <span>{readingTime} Min. Lesezeit</span>
                 </div>

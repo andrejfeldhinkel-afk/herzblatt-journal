@@ -2,7 +2,7 @@
 interface Props {
   title: string;
   description: string;
-  date?: Date;
+  date?: Date | string;
   tags?: string[];
   slug: string;
   readingTime?: string;
@@ -11,9 +11,10 @@ interface Props {
   imageAlt?: string;
 }
 
-const { title, description, date, tags, slug, readingTime, featured = false, image, imageAlt } = Astro.props;
+const { title, description, date: rawDate, tags, slug, readingTime, featured = false, image, imageAlt } = Astro.props;
 
-const formattedDate = date ? new Intl.DateTimeFormat('de-DE', {
+const date = rawDate ? (rawDate instanceof Date ? rawDate : new Date(rawDate)) : null;
+const formattedDate = date && !isNaN(date.getTime()) ? new Intl.DateTimeFormat('de-DE', {
   year: 'numeric',
   month: 'long',
   day: 'numeric',
