@@ -30,7 +30,7 @@ const morePosts = posts.filter(p => p !== featuredPost && !recentPosts.includes(
 // Build tag counts for categories
 const tagCounts = new Map<string, number>();
 posts.forEach(post => {
-  post.data.tags.forEach(tag => {
+  (post.data.tags || []).forEach(tag => {
     tagCounts.set(tag, (tagCounts.get(tag) || 0) + 1);
   });
 });

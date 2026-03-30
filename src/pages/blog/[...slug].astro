@@ -33,12 +33,12 @@ const allPosts = (await getCollection('blog', ({ data }) => !data.draft))
     return dateB - dateA;
   });
 
-const currentTags = new Set(post.data.tags);
+const currentTags = new Set(post.data.tags || []);
 const relatedPosts = allPosts
   .filter(p => p.id !== post.id)
   .map(p => ({
     post: p,
-    score: p.data.tags.filter((t: string) => currentTags.has(t)).length
+    score: (p.data.tags || []).filter((t: string) => currentTags.has(t)).length
   }))
   .filter(p => p.score > 0)
   .sort((a, b) => b.score - a.score)
@@ -56,7 +56,7 @@ const pageTitle = `${post.data.title} | Herzblatt Journal`;
 // Build internal link map: for each tag, get other posts with that tag
 const internalLinks = allPosts
   .filter(p => p.id !== post.id)
-  .filter(p => p.data.tags.some((t: string) => currentTags.has(t)))
+  .filter(p => (p.data.tags || []).some((t: string) => currentTags.has(t)))
   .slice(0, 5)
   .map(p => ({ title: p.data.title, slug: p.id }));
 
@@ -124,7 +124,7 @@ const ogImage = post.data.image || '/og-default.png';
         <!-- Header -->
         <header class="mb-10">
           <div class="flex flex-wrap gap-2 mb-5">
-            {post.data.tags.map((tag: string) => (
+            {(post.data.tags || []).map((tag: string) => (
               <a href={`/tags/${tag}`} class="text-xs font-medium px-3 py-1.5 rounded-full transition-colors hover:opacity-80" style="background: var(--color-primary-50); color: var(--color-primary-700); border: 1px solid var(--color-primary-100);">
                 {tag}
               </a>
@@ -310,7 +310,7 @@ const ogImage = post.data.image || '/og-default.png';
         <!-- Footer Tags -->
         <footer class="mt-8 pt-8" style="border-top: 1px solid var(--border);">
           <div class="flex flex-wrap gap-2 mb-6">
-            {post.data.tags.map((tag: string) => (
+            {(post.data.tags || []).map((tag: string) => (
               <a href={`/tags/${tag}`} class="text-sm px-3 py-1.5 rounded-full hover:opacity-80 transition-opacity" style="background: var(--bg-soft); color: var(--text-muted); border: 1px solid var(--border);">
                 #{tag}
               </a>
