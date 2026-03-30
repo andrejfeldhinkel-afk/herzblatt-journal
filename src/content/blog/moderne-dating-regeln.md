@@ -15,7 +15,8 @@ keywords:
 draft: false
 featured: false
 faq:
-  - "{'question': "Sind die '3-Tage-Regel' und andere alte Regeln noch relevant?", 'answer': "Nein. Die '3-Tage-Regel' ist veraltete Spielerei. Moderne Dating funktioniert besser mit Authentizität und Direktheit. Schreib, wenn du dich freust ihn/sie zu sehen."}"
+  - question: "Sind die '3-Tage-Regel' und andere alte Regeln noch relevant?"
+    answer: "Nein. Die '3-Tage-Regel' ist veraltete Spielerei. Moderne Dating funktioniert besser mit Authentizität und Direktheit. Schreib, wenn du dich freust ihn/sie zu sehen."
   - question: "Wer sollte die erste Nachricht schreiben — das Geschlecht ist egal?"
     answer: "Richtig. Wer Interesse hat, schreibt. Geschlecht ist irrelevant. Die beste erste Nachricht kommt von jemandem, dem du wirklich gefällst."
   - question: "Ist es okay, über mehrere Menschen gleichzeitig zu daten?"

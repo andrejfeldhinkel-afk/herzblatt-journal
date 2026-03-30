@@ -22,7 +22,8 @@ faq:
     answer: "Baue ein erfülltes Leben auf: Freunde, Hobbys, Karriere, Selbstpflege. Single zu sein ist eine Chance für Wachstum, nicht ein Mangel."
   - question: "Sollte ich auf Partnersuche gehen oder glücklich Single sein?"
     answer: "Beide! Sei glücklich mit dir selbst, aber sei offen für eine gute Beziehung, wenn sie kommt. Nicht von Partnersuche besessen sein ist attraktiver sowieso."
-  - "{'question': "Wie handle ich mit Fragen 'Warum bist du noch nicht mit jemandem zusammen?'", 'answer': "Mit Humvor und Selbstvertrauen antworten: 'Weil ich mich liebe!' oder 'Die richtige Person wird kommen.' Keine Rechtfertigung nötig."}"
+  - question: "Wie handle ich mit Fragen 'Warum bist du noch nicht mit jemandem zusammen?'"
+    answer: "Mit Humvor und Selbstvertrauen antworten: 'Weil ich mich liebe!' oder 'Die richtige Person wird kommen.' Keine Rechtfertigung nötig."
 ---
 ## Der gesellschaftliche Druck: "Du brauchst einen Partner"
 

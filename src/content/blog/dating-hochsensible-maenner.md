@@ -15,7 +15,8 @@ imageAlt: "Sensibler Mann öffnet sich emotional"
 faq:
   - question: "Ist Hochsensibilität bei Männern ein romantischer Nachteil?"
     answer: "Nein. Viele Frauen finden hochsensible Männer attraktiv, weil sie emotional präsent sind und wirklich zuhören. Die richtige Frau wird deine Sensibilität schätzen."
-  - "{'question': "Wie gehe ich damit um, wenn Frauen meine Sensibilität als 'nicht männlich' kritisieren?", 'answer': 'Ignoriere es. Diese Kritik kommt von Menschen, die begrenzte Ideen von Männlichkeit haben. Die richtige Frau wird deine emotionale Intelligenz respektieren, nicht kritisieren.'}"
+  - question: "Wie gehe ich damit um, wenn Frauen meine Sensibilität als 'nicht männlich' kritisieren?"
+    answer: "Ignoriere es. Diese Kritik kommt von Menschen, die begrenzte Ideen von Männlichkeit haben. Die richtige Frau wird deine emotionale Intelligenz respektieren, nicht kritisieren."
   - question: "Sollte ich meine Sensibilität beim Dating verbergen?"
     answer: "Nein. Verstecken wird zu Burnout führen und die falschen Frauen anziehen. Sei authentisch. Die richtige Person wird sich genau damit verlieben."
 ---

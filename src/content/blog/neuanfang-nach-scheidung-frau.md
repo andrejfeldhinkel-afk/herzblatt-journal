@@ -16,10 +16,12 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - "{'question': "Wie lange dauert es, bis man nach einer Scheidung wieder 'normal' ist?", 'answer': "Es gibt kein 'normal'. Psychologen sagen: 2-3 Jahre für echte Heilung. Aber du wirst schon nach wenigen Monaten merken, dass das Leben möglich ist. Normal ist überrated, wertvoll ist zu wissen: Ich bin ok."}"
+  - question: "Wie lange dauert es, bis man nach einer Scheidung wieder 'normal' ist?"
+    answer: "Es gibt kein 'normal'. Psychologen sagen: 2-3 Jahre für echte Heilung. Aber du wirst schon nach wenigen Monaten merken, dass das Leben möglich ist. Normal ist überrated, wertvoll ist zu wissen: Ich bin ok."
   - question: "Werde ich mich jemals wieder verliebt fühlen nach einer Scheidung?"
     answer: "Ja. Nicht sofort. Aber ja. Und die nächste Liebe wird anders sein. Nicht besser, nicht schlechter. Aber basierend auf deinem neuen Wissen über dich selbst. Das macht sie tiefer."
-  - "{'question': "Was tue ich mit meiner Identität, wenn sie lange Zeit 'verheiratet' war?", 'answer': 'Entdecke dich neu. Wer bist du ohne den Ring? Das ist kein einfache Frage. Aber sie ist wichtig. Dieser Prozess ist Heilung. Tu Dinge, die dich neugierig machen. Werde neu.'}"
+  - question: "Was tue ich mit meiner Identität, wenn sie lange Zeit 'verheiratet' war?"
+    answer: "Entdecke dich neu. Wer bist du ohne den Ring? Das ist kein einfache Frage. Aber sie ist wichtig. Dieser Prozess ist Heilung. Tu Dinge, die dich neugierig machen. Werde neu."
   - question: "Wie gehe ich mit Schuldgefühlen um, wenn ich die Scheidung initiiert habe?"
     answer: "Das ist kompliziert. Aber wisse: Du darfst dich selbst wählen. Das ist nicht egoistisch. Das ist lebenswichtig. Wenn du gelogen hast oder betrogen, dann arbeite daran. Aber die Scheidung selbst zu initiieren? Das ist dein Recht."
   - question: "Kann ich nach einer Scheidung als Frau wirtschaftlich unabhängig werden?"
