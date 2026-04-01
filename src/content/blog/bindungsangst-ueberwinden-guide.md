@@ -8,7 +8,6 @@ tags:
   - "Beziehung"
   - "Ratgeber"
 keywords: ["bindungsangst überwinden", "bindungsangst ursachen", "beziehungsangst", "angst vor nähe"]
-draft: false
 image: "/images/blog/bindungsangst-ueberwinden-guide.webp"
 imageAlt: "Bindungsangst Ueberwinden Guide"
 featured: false
