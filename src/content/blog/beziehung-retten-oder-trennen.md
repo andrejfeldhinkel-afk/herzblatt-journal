@@ -30,7 +30,7 @@ Es ist 3 Uhr morgens. Sie liegen wach und denken zum hundertsten Mal die gleiche
 
 "Sollte ich gehen?"
 
-Dies ist eine der schrecklichsten Momente in einem menschlichen Leben – nicht der dramatische Moment der Trennung, sondern die Nächte davor, wenn Sie hin und her oszillieren zwischen Hoffnung und Resignation, zwischen "Wir können das beheben" und "Ich kann nicht mehr."
+Dies ist eine der schrecklichsten Momente in einem menschlichen Leben – nicht der dramatische Moment der [Trennung](/blog/trennung-verarbeiten-12-schritte), sondern die Nächte davor, wenn Sie hin und her oszillieren zwischen Hoffnung und Resignation, zwischen "Wir können das beheben" und "Ich kann nicht mehr."
 
 Dies ist ein Entscheidungstag. Und es ist einer der wichtigsten, die Sie treffen werden.
 

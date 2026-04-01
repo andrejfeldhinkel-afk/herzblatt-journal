@@ -244,7 +244,7 @@ Bumble Bizz ist der professionelle Zweig. Du baust hier dein berufliches Netzwer
 
 Behandle es wie LinkedIn, aber mit dem Bumble-Gefühl (freundlich, keine Corporate-BS).
 
-## Bumble vs. Tinder vs. Hinge: Der Vergleich
+## Bumble vs. Tinder vs. [Hinge](/blog/hinge-guide-deutsch-2026): Der Vergleich
 
 **Bumble:**
 - Frauen schreiben zuerst

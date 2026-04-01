@@ -28,7 +28,7 @@ faq:
 
 ## Beziehungspause: Sinnvoll oder Anfang vom Ende?
 
-Du sitzt mit deinem Partner auf der Couch und einer von euch sagt es: "Ich denke, wir sollten eine Pause machen." Dein Herz sinkt. Das ist eines der gefährlichsten Sätze in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/), nicht weil es Trennung bedeutet, sondern weil es so mehrdeutig ist. Was bedeutet das? Wie lange? Darf ich mit anderen Leuten ausgehen? Ist das einfach eine verzögerte Trennung?
+Du sitzt mit deinem Partner auf der Couch und einer von euch sagt es: "Ich denke, wir sollten eine Pause machen." Dein Herz sinkt. Das ist eines der gefährlichsten Sätze in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/), nicht weil es [Trennung](/blog/trennung-verarbeiten-12-schritte) bedeutet, sondern weil es so mehrdeutig ist. Was bedeutet das? Wie lange? Darf ich mit anderen Leuten ausgehen? Ist das einfach eine verzögerte Trennung?
 
 Das Problem mit "Beziehungspause" ist, dass die meisten Paare sie völlig falsch machen. Sie gehen auf eine Pause, ohne klare Regeln oder einen klaren Plan, und alles wird schlimmer. Aber wenn du Beziehungspause richtig machst, kann sie wirklich die Krise sein, die eure Beziehung retten kann – oder wenigstens dir helfen, kluge Entscheidungen zu treffen.
 

@@ -24,7 +24,7 @@ Der Gedanke kommt Nacht für Nacht. Das Handy liegt in deiner Hand, und du scrol
 
 ## Wann macht eine Versöhnung Sinn?
 
-Es gibt wenige Fälle, in denen eine Reunion funktioniert. Der erste: Beide Partner haben an ihren individuellen Problemen gearbeitet. Die Gründe für die Trennung — zB mangelnde [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/), Treuprobleme, gegensätzliche Lebensziele — diese sind wirklich adressiert worden.
+Es gibt wenige Fälle, in denen eine Reunion funktioniert. Der erste: Beide Partner haben an ihren individuellen Problemen gearbeitet. Die Gründe für die [Trennung](/blog/trennung-verarbeiten-12-schritte) — zB mangelnde [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/), Treuprobleme, gegensätzliche Lebensziele — diese sind wirklich adressiert worden.
 
 Beide müssen aktiv das Glück der [beziehung](/blog/adhs-und-beziehung-komplett-guide/) suchen, nicht nur Comfort suchen. Es gibt einen großen Unterschied zwischen "Ich will wieder mit dir zusammen sein, weil wir toll zusammen waren" und "Ich will wieder mit dir zusammen sein, weil ich einsam bin."
 

@@ -307,7 +307,7 @@ Ghosting tut weh, auch wenn ihr "nur" in einer Talking Stage seid. Warum? Weil d
 
 Die harte Wahrheit: Ghosting sagt mehr über die andere Person aus als über dich. Es ist nicht, weil du nicht gut genug warst. Es ist, weil die andere Person nicht emotionale Reife hat, um ein klares "Mir hat es nicht gereicht" zu sagen. Das ist manchmal Angst, manchmal Feigheit, manchmal ist die Person einfach nicht in der Lage, Uncomfort zu tolerieren.
 
-Wenn du geghostet wirst, hier ist das Wichtigste: Versuche nicht, sie "zurückzubekommen". Schreib nicht sieben Nachrichten. Das macht es schlimmer. Akzeptiere, dass diese Person gezeigt hat, wer sie ist — jemand, der nicht respektvoll mit deinen Gefühlen umgeht. Und then move on.
+Wenn du [geghostet](/blog/ghosting-ueberwinden) wirst, hier ist das Wichtigste: Versuche nicht, sie "zurückzubekommen". Schreib nicht sieben Nachrichten. Das macht es schlimmer. Akzeptiere, dass diese Person gezeigt hat, wer sie ist — jemand, der nicht respektvoll mit deinen Gefühlen umgeht. Und then move on.
 
 Das ist eine Lektion, nicht eine Ablehnung.
 

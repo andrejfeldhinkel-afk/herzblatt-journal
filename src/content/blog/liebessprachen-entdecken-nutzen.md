@@ -105,7 +105,7 @@ Das ist auch das "Missverständnis-Hotspot", weil viele Menschen denken: "Ich ze
 Aber wenn die andere Person diese Sprache spricht, zählen Taten nicht. Worte zählen.
 
 Wie sie es zeigen:
-- Sie geben dir viele Komplimente
+- Sie geben dir viele [Komplimente](/blog/komplimente-fuer-maenner)
 - Sie loben dich öffentlich
 - Sie schreiben dir schöne Nachrichten
 - Sie bemerken, wenn du etwas neues machst

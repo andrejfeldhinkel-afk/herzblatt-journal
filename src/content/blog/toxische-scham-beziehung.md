@@ -109,7 +109,7 @@ Das schafft eine Beziehung ohne echte Verbindung. Der Partner kennt dich nicht w
 
 Hier sind die Zeichen:
 
-**Du kannst Komplimente nicht akzeptieren.** Jemand sagt etwas Nettes und du instinktiv widerlegst es. "Nein, ich bin nicht intelligent. Ich bin einfach Lucky." Du kannst das gute Gefühl nicht halten.
+**Du kannst [Komplimente](/blog/komplimente-fuer-maenner) nicht akzeptieren.** Jemand sagt etwas Nettes und du instinktiv widerlegst es. "Nein, ich bin nicht intelligent. Ich bin einfach Lucky." Du kannst das gute Gefühl nicht halten.
 
 **Du entschuldigst dich ständig.** Für Dinge, die nicht deine Schuld sind. "Es tut mir leid, dass ich da bin." "Es tut mir leid, dass ich das brauchte." Die Entschuldigung ist automatisch.
 

@@ -157,7 +157,7 @@ Es ist wie beim Bergsteigen: Du lernst dein Team nicht in der Ebene kennen. Du l
 
 **Kann eine Beziehung eine große Krise nicht überstehen?**
 
-Ja, natürlich. Manche Dinge sind einfach zu groß, zu schädlich oder zu grundlegend verschieden. Nicht alle Krisen sind ein Test, das man bestehen kann. Manchmal ist eine Trennung auch die richtige Antwort. Das ist nicht schlecht. Manchmal ist es sogar die liebevollere Option.
+Ja, natürlich. Manche Dinge sind einfach zu groß, zu schädlich oder zu grundlegend verschieden. Nicht alle Krisen sind ein Test, das man bestehen kann. Manchmal ist eine [Trennung](/blog/trennung-verarbeiten-12-schritte) auch die richtige Antwort. Das ist nicht schlecht. Manchmal ist es sogar die liebevollere Option.
 
 **Wie lange dauert es, eine Beziehungskrise zu überwinden?**
 

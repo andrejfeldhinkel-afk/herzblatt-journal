@@ -257,7 +257,7 @@ Ihr könnt auch kleine Meilensteine feiern. Wenn ihr 5000 Euro erreicht, feiert 
 
 ## Wenn die Beziehung endet: Finanzielle Planung für den Worst Case
 
-Das ist ein unbequemes Thema, aber es ist ein wichtiges. Viele Paare sprechen nicht gern darüber, wie sie finanzielle Dinge aufteilen würden, wenn die Beziehung endet. Aber statistisch gesehen, endet eine beträchtliche Anzahl von Beziehungen in Trennung oder Scheidung.
+Das ist ein unbequemes Thema, aber es ist ein wichtiges. Viele Paare sprechen nicht gern darüber, wie sie finanzielle Dinge aufteilen würden, wenn die Beziehung endet. Aber statistisch gesehen, endet eine beträchtliche Anzahl von Beziehungen in [Trennung](/blog/trennung-verarbeiten-12-schritte) oder Scheidung.
 
 Dies nicht geplant zu haben, kann zu großem Schmerz und teuren rechtlichen Kämpfen führen. Eine bessere Strategie ist, im voraus klare Grenzen zu ziehen.
 

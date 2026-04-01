@@ -33,7 +33,7 @@ faq:
 
 Weihnachten ist das Fest der Familie, der Liebe und der Togetherness. Das ist genau das Problem, wenn du gerade getrennt bist. Während alle anderen sich umarmen und Geschenke auspacken, sitzt du allein auf der Couch und fragst dich, warum die Person, die du liebst, dich verlassen hat.
 
-Weihnachten nach einer Trennung ist emotional vernichtend. Die Medien bombardieren dich mit glücklichen Paaren. Überall siehst du Weihnachtsmärkte voller verliebter Menschen. Deine Wohnung ist leer, dein Bett ist kalt, und die Stille ist ohrenbetäubend.
+Weihnachten nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte) ist emotional vernichtend. Die Medien bombardieren dich mit glücklichen Paaren. Überall siehst du Weihnachtsmärkte voller verliebter Menschen. Deine Wohnung ist leer, dein Bett ist kalt, und die Stille ist ohrenbetäubend.
 
 Das ist die Realität für viele Menschen. Und es ist ok, dass es schmerzt. Aber du wirst das überstehen. Viele haben es vor dir getan.
 

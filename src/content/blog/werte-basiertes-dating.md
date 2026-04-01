@@ -217,7 +217,7 @@ Manche Unterschiede sind kleine Dinge. Aber manche sind Game-Breaker. Diese soll
 
 Wenn du Kinder willst und er nicht – oder umgekehrt – ist das eine massive Inkompatibilität. Das ist nicht etwas, über das ihr später diskutieren könnt. Das ist nicht etwas, über das einer von euch die Meinung ändern wird.
 
-Trennung ist oft die einzige Option.
+[Trennung](/blog/trennung-verarbeiten-12-schritte) ist oft die einzige Option.
 
 ### Red Flag 2: Fundamentale moralische Unterschiede
 

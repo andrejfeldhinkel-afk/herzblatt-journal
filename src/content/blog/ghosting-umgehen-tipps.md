@@ -95,7 +95,7 @@ Das schwierigste: Tu nicht das, was dein Gehirn tun möchte – bläme dich selb
 
 ### Reframe die Erfahrung
 
-Statt "Ich wurde geghostet" denke "Jemand unreifer hat sich selbst als nicht würdig gezeigt". Das ist nicht über dich, das ist über sie.
+Statt "Ich wurde [geghostet](/blog/ghosting-ueberwinden)" denke "Jemand unreifer hat sich selbst als nicht würdig gezeigt". Das ist nicht über dich, das ist über sie.
 
 ### Lerne von der Erfahrung (wenn möglich)
 

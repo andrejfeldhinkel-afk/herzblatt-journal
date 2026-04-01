@@ -248,7 +248,7 @@ Flirten bei der Arbeit ist heikler. Es gibt Machtdynamiken, Professionalität un
 **Der Nachteil**: Es kann das Arbeitsumfeld beeinflussen. Es könnten Gerüchte entstehen.
 
 **Tipps**:
-- Sei subtil: Subtile Komplimente und Humor, nicht offensives Flirten
+- Sei subtil: Subtile [Komplimente](/blog/komplimente-fuer-maenner) und Humor, nicht offensives Flirten
 - Wähle private Momente: Nicht vor Kollegen
 - Sei professionell: Wenn die andere Person desinteressiert ist, respektiere das und macht normal
 - Achte auf Unternehmensrichtlinien: Manche Unternehmen haben Regeln für Beziehungen am Arbeitsplatz

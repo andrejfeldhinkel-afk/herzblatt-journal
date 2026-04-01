@@ -83,7 +83,7 @@ Wenn du dich beim nächsten Mal kritisiert fühlst, versuche diese Übung:
 
 2. **Höre aktiv zu**: Statt zu denken "Das ist unfair," konzentriere dich darauf, wirklich zu verstehen, was die andere Person sagt.
 
-3. **Trennung vornehmen**: Sage dir selbst: "Das ist Feedback zu meinem Verhalten, nicht zu meinem Wert als Person."
+3. **[Trennung](/blog/trennung-verarbeiten-12-schritte) vornehmen**: Sage dir selbst: "Das ist Feedback zu meinem Verhalten, nicht zu meinem Wert als Person."
 
 4. **Danken**: Versuche, deinen Kritiker zu danken. "Ich schätze, dass du mir das sagst. Lass mich darüber nachdenken."
 

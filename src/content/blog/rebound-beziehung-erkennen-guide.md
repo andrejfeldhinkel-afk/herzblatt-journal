@@ -59,7 +59,7 @@ Und wenn er nicht über seinen Ex hinweggekommen ist, dann ist er emotional noch
 
 "Du bist so anders als sie." "Das mag sie nicht, aber du magst es." "Ich mag, dass du nicht so Drama-voll bist wie sie." "Sie war so emotional, aber du bist so ruhig."
 
-Das sind keine Komplimente. Das sind Vergleiche. Und wenn er dich mit seinem Ex vergleicht, dann ist sein Ex immer noch im Hintergrund deiner Beziehung. Und du bist nicht du. Du bist "nicht-sein-Ex." Du bist die bessere Version. Aber das ist nicht die Basis für echte Liebe.
+Das sind keine [Komplimente](/blog/komplimente-fuer-maenner). Das sind Vergleiche. Und wenn er dich mit seinem Ex vergleicht, dann ist sein Ex immer noch im Hintergrund deiner Beziehung. Und du bist nicht du. Du bist "nicht-sein-Ex." Du bist die bessere Version. Aber das ist nicht die Basis für echte Liebe.
 
 **Zeichen 3: Die Beziehung wird zu schnell zu intensiv**
 
@@ -85,7 +85,7 @@ Und wenn er nicht über seinen Ex hinweggekommen ist, können seine Gefühle fü
 
 Sex ist großartig. Eine gesunde Beziehung braucht körperliche Nähe. Aber wenn eine Beziehung NUR von Sex lebt, und emotional nicht viel passiert — wenn ihr nie tiefe Gespräche führt, wenn er sich nie vulnerabel macht — dann ist das eine rote Flagge.
 
-Besonders nach einer Trennung suchen manche Menschen schnell körperliche Verbindung um emotionale Verbindung zu vergessen. Körperlich nah sein ist einfacher als emotional nah sein.
+Besonders nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte) suchen manche Menschen schnell körperliche Verbindung um emotionale Verbindung zu vergessen. Körperlich nah sein ist einfacher als emotional nah sein.
 
 **Zeichen 7: Er erzählt deinen Freunden schnell, dass er dich liebt**
 

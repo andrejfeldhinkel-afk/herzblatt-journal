@@ -162,7 +162,7 @@ Dieser Zyklus ist schrecklich für beide Seiten. Deine Partnerin fühlt sich wie
 Erkennst du dich hier wieder?
 
 - Wenn eine Beziehung näher wird, fängst du an zu sabotieren
-- Du sprichst schnell von 'Pausen' oder 'Trennung'
+- Du sprichst schnell von 'Pausen' oder '[Trennung](/blog/trennung-verarbeiten-12-schritte)'
 - Du fragst dich oft, ob du „wirklich in Liebe" bist
 - Du magst Distanz mehr als Nähe
 - Wenn jemand verliebt in dich wird, verlierst du Interesse

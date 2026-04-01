@@ -46,7 +46,7 @@ Wer offen ist und nicht nur sein Handy anstarrt, kommt schnell ins Gespräch. Da
 
 ## Die Dating-App-Strategie unterwegs
 
-Ein Geheimtipp: Dating-Apps funktionieren auf Reisen BESSER, nicht schlechter. Warum? Weil dort auch andere reisende Menschen sind, die offen sind. Tinder hat die "Passport"-Funktion, mit der du deinen Standort schon vor der Reise ändern kannst. Bumble funktioniert weltweit. Hinge ist überraschend gut, wenn du irgendwo längerfristig bist (drei Wochen +).
+Ein Geheimtipp: Dating-Apps funktionieren auf Reisen BESSER, nicht schlechter. Warum? Weil dort auch andere reisende Menschen sind, die offen sind. Tinder hat die "Passport"-Funktion, mit der du deinen Standort schon vor der Reise ändern kannst. Bumble funktioniert weltweit. [Hinge](/blog/hinge-guide-deutsch-2026) ist überraschend gut, wenn du irgendwo längerfristig bist (drei Wochen +).
 
 Der Vorteil: Du filterst direkt nach Leuten, die offen sind und singles oder gerade allein reisen. Und du kannst bereits Kontakt vor der Ankunft knüpfen, was oft entspannter ist als On-the-Ground-Flirten.
 

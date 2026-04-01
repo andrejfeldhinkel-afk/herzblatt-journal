@@ -536,7 +536,7 @@ Hier ist das Interessante: Du kannst am Telefon flirten, ohne etwas Unangenehmes
 
 **Das funktioniert nicht:**
 - Sofort mit sexuellen Anspielungen kommen
-- Generische Komplimente über Aussehen ("Du bist bestimmt sehr hübsch")
+- Generische [Komplimente](/blog/komplimente-fuer-maenner) über Aussehen ("Du bist bestimmt sehr hübsch")
 - Zu viel Nervosität und Zittern in der Stimme
 - Ständiges Unterbrechen und über sich selbst reden
 

@@ -50,7 +50,7 @@ Nicht alle Dating-Apps sind für introvertierte Menschen geeignet.
 
 Das Schlechteste für dich. Alles dreht sich um Fotos, schnelle Judgement, oberflächliche Matches. Du musst dich auf hundert Menschen pro Tag einstellen, viele werden dich anschreiben, ohne etwas Sinnvolles zu sagen. Das ist nicht dein Spiel.
 
-**Text-fokussierte Apps (OkCupid, Hinge bei einigen Einstellungen)**
+**Text-fokussierte Apps (OkCupid, [Hinge](/blog/hinge-guide-deutsch-2026) bei einigen Einstellungen)**
 
 Das ist dein Heimfeld. Diese Apps fragen dich nach Fragen, erlauben lange Profilbeschreibungen, und der Match basiert auf echten Interessen, nicht nur Fotos. Nutze das.
 

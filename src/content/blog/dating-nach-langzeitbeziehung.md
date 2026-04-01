@@ -31,7 +31,7 @@ Der erste Schritt: Durchatmen. Du musst nicht sofort wieder auf dem Markt sein. 
 
 ## Der emotionale Aspekt
 
-Die Trennung selbst tut weh, egal wie nötig sie war. Es gibt Trauer, auch wenn die Beziehung nicht funktioniert hat. Ihr wart vielleicht unglücklich, aber ihr wart zusammen. Das ist eine Identität, die du jetzt aufgeben musst.
+Die [Trennung](/blog/trennung-verarbeiten-12-schritte) selbst tut weh, egal wie nötig sie war. Es gibt Trauer, auch wenn die Beziehung nicht funktioniert hat. Ihr wart vielleicht unglücklich, aber ihr wart zusammen. Das ist eine Identität, die du jetzt aufgeben musst.
 
 Gib dir selbst Zeit für diese Trauer. Deine Freunde werden ungeduldig und sagen "Es ist Zeit, zurück ins Dating-Leben zu kommen!" Aber deine innere Welt sagt "Ich bin nicht bereit." Höre auf deine innere Stimme. Die Rückkehr ins Dating wird süßer sein, wenn du dich emotional bereit fühlst, nicht wenn die Außenwelt es von dir erwartet.
 
@@ -51,7 +51,7 @@ Und das ist okay. Das bedeutet nicht, dass die Zeit verschwendet war – du hast
 
 ## Die neue Dating-Welt verstehen
 
-Wenn du zuletzt vor Jahren gedatet hast, erwartet dich eine steile Lernkurve. Tinder, Bumble, Hinge – jede App funktioniert anders. [Ghosting](/blog/ghosting-komplett-guide), Breadcrumbing, Situationships – Begriffe, die du vielleicht zum ersten Mal hörst.
+Wenn du zuletzt vor Jahren gedatet hast, erwartet dich eine steile Lernkurve. Tinder, Bumble, [Hinge](/blog/hinge-guide-deutsch-2026) – jede App funktioniert anders. [Ghosting](/blog/ghosting-komplett-guide), Breadcrumbing, Situationships – Begriffe, die du vielleicht zum ersten Mal hörst.
 
 Keine Panik. Im Kern ist Dating immer noch dasselbe: Zwei Menschen treffen sich und schauen, ob es passt. Die Verpackung hat sich geändert, der Inhalt nicht.
 

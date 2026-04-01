@@ -289,7 +289,7 @@ Es könnte auch hilfreich sein, ein Notfall-Plan zu haben. Wenn die Depression s
 
 Manchmal, nachdem all die Sache und das Versuchen, funktioniert eine Beziehung mit Depression einfach nicht. Das ist auch okay.
 
-Eine Trennung aufgrund von Depression ist nicht ein Fehler. Es ist nicht lieblos. Es ist manchmal die realistischste Entscheidung.
+Eine [Trennung](/blog/trennung-verarbeiten-12-schritte) aufgrund von Depression ist nicht ein Fehler. Es ist nicht lieblos. Es ist manchmal die realistischste Entscheidung.
 
 Wenn du zu diesem Punkt kommst, ist es wichtig zu verstehen, dass Trennung nicht bedeutet, dass du sie aufgibst. Du kannst sich trennen und trotzdem unterstützend sein. Du kannst sich trennen und trotzdem ihre Heilung ermutigen.
 

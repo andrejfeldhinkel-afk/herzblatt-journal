@@ -85,7 +85,7 @@ Der Nachteil: Je spezialisierter die App, desto kleiner die Auswahl. In kleinen 
 
 **Große Apps mit Filtern**
 
-Bei Bumble und Hinge kannst du „Vegan" als Präferenz eingeben oder es in deinem Profil erwähnen. Das filtert nach Menschen, die zumindest das Label sehen und verstehen.
+Bei Bumble und [Hinge](/blog/hinge-guide-deutsch-2026) kannst du „Vegan" als Präferenz eingeben oder es in deinem Profil erwähnen. Das filtert nach Menschen, die zumindest das Label sehen und verstehen.
 
 OkCupid hat Fragen zum veganen Lebensstil, die du beantworten kannst. Das macht es einfacher zu sehen, wer kompatibel ist.
 

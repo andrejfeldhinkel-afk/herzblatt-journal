@@ -147,7 +147,7 @@ Viele erfolgreiche Slow-Dater berichten, dass sie ihre App-Nutzung komplett neu 
 
 Wenn du app-gestützt daten möchtest, gibt es Apps, die von Grund auf für Slow Dating designed sind:
 
-- **Hinge** oder ähnliche Apps mit weniger Swipes pro Tag
+- **[Hinge](/blog/hinge-guide-deutsch-2026)** oder ähnliche Apps mit weniger Swipes pro Tag
 - **Bumble**: Frauen treffen die erste Wahl, was oft zu besseren Gesprächen führt
 - **The League**: Ein bisschen exklusiv, aber mit fokussierteren Matches
 

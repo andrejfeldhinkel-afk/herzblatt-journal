@@ -23,7 +23,7 @@ faq:
   - question: "Sollte ich meinem neuen Partner von meiner Trennung erzählen?"
     answer: "Ja, bei Gelegenheit. Du musst nicht alle Details offenbaren, aber Offenheit über deine emotionale Geschichte schafft Vertrauen und hilft anderen, dich zu verstehen."
 ---
-Die Trennung ist vorbei. Die schlimmsten Momente scheinen hinter dir zu liegen. Jetzt fragt sich wahrscheinlich: „Bin ich bereit, wieder zu daten?" Das ist eine kritische Frage, denn wenn du dich zu früh ins Dating stürzt, kannst du in eine Rebound-[beziehung](/blog/adhs-und-beziehung-komplett-guide/) geraten, die mehr Schmerz als Freude bringt.
+Die [Trennung](/blog/trennung-verarbeiten-12-schritte) ist vorbei. Die schlimmsten Momente scheinen hinter dir zu liegen. Jetzt fragt sich wahrscheinlich: „Bin ich bereit, wieder zu daten?" Das ist eine kritische Frage, denn wenn du dich zu früh ins Dating stürzt, kannst du in eine Rebound-[beziehung](/blog/adhs-und-beziehung-komplett-guide/) geraten, die mehr Schmerz als Freude bringt.
 
 In diesem Guide erfährst du, wie du erkennst, ob du emotional bereit bist, wieder zu daten, und wie du es auf eine gesunde Weise angehst.
 

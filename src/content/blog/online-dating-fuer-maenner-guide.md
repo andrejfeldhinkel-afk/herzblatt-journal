@@ -92,7 +92,7 @@ Und hier ist, wo viele Männer es vermasseln.
 
 Sie schreiben: "Hi" oder "Hey, wie geht's?" Das ist langweilig. Es ist das, was hundert andere Männer auch geschrieben haben. Keine Frau wird begeistert sein.
 
-Aber sie schreiben auch nicht "Hey, deine Augen sind hypnotisierend" oder andere Komplimente über ihr Aussehen. Das wirkt, als würdest du nur ihre Fotos sehen, nicht sie als Person.
+Aber sie schreiben auch nicht "Hey, deine Augen sind hypnotisierend" oder andere [Komplimente](/blog/komplimente-fuer-maenner) über ihr Aussehen. Das wirkt, als würdest du nur ihre Fotos sehen, nicht sie als Person.
 
 Hier ist, was funktioniert: Schreib etwas, das zeigt, dass du wirklich ihr Profil gelesen hast. "Ich sehe, dass du gerne klettern gehst – wie lange machst du das schon?" Das ist nicht aufgesetzt. Das ist nicht manipulativ. Es zeigt Interesse an ihr, nicht nur in ihrer Aussehen.
 

@@ -23,7 +23,7 @@ faq:
   - question: "Was ist, wenn die andere Person nicht annimmt mein Kompliment?"
     answer: "Einige Leute sind nicht gut bei der Annahme von Komplimenten. Nicht nehmen es persönlich. Eine normale Antwort ist 'Danke' oder eine kurze Anerkennung. Beharren Sie nicht."
 ---
-Ein einfaches Kompliment kann jemanden ganzen Tag machen. Aber viele Leute geben Komplimente falsch – sie sind zu vag, zu manipulativ oder zu physisch fokussiert. In diesem Leitfaden erfahren Sie, wie Sie echte, aussagekräftige Komplimente machen, die tatsächlich ankommen.
+Ein einfaches Kompliment kann jemanden ganzen Tag machen. Aber viele Leute geben [Komplimente](/blog/komplimente-fuer-maenner) falsch – sie sind zu vag, zu manipulativ oder zu physisch fokussiert. In diesem Leitfaden erfahren Sie, wie Sie echte, aussagekräftige Komplimente machen, die tatsächlich ankommen.
 
 ## Warum Komplimente wichtig sind
 

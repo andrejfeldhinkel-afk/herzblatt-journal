@@ -200,7 +200,7 @@ Das ist genauso wichtig wie physische Sicherheit. Es gibt Menschen, die dich emo
 **[Love Bombing](/blog/love-bombing-erkennen-schuetzen):**
 Jemand übertreibt es mit Komplimenten, Aufmerksamkeit, Geschenken. Das fühlt sich anfangs großartig an, aber es ist manipulativ.
 
-**Gaslighting:**
+**[Gaslighting](/blog/gaslighting-komplett-guide):**
 Jemand bestreitet deine Realität. Du sagst „Du hast das gesagt", sie sagen „Nein, hab ich nicht" – und du fängst an zu zweifeln.
 
 **Isolation:**

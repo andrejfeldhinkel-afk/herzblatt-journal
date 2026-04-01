@@ -384,7 +384,7 @@ Marcus war ein erfolgreicher Entrepreneur. Aber in Beziehungen war er ein Chaos.
 Marcus war ängstlich gebunden. Er wusste es nicht, aber sein Bindungsstil war eine Zeitbombe in jeder Beziehung.
 
 **Die Erkenntnis:**
-Nach einer Trennung setze sich Marcus hin. Er erkannte das Muster. Seine Mutter war bipolar — manchmal Liebe, manchmal Ablehnung. Er hatte gelernt früh: "Liebe ist nicht sicher. Ich muss überwacht sein."
+Nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte) setze sich Marcus hin. Er erkannte das Muster. Seine Mutter war bipolar — manchmal Liebe, manchmal Ablehnung. Er hatte gelernt früh: "Liebe ist nicht sicher. Ich muss überwacht sein."
 
 **Die Arbeit:**
 - Sechs Monate Psychotherapie (IFS)

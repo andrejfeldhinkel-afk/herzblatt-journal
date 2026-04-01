@@ -45,7 +45,7 @@ Menschen mit unsicheren Bindungsstilen sind besonders anfällig für On-Off Bezi
 
 Eine toxische On-Off Beziehung ist nicht einfach nur eine Beziehung, in der zwei Menschen nicht zusammenpassen. Sie ist ein System aus schädlichen Mustern, das dich emotional auslaugt und deinen Selbstwert untergraben kann.
 
-Ein häufiges toxisches Muster ist die emotionale Manipulation. Ein Partner nutzt Entzug von Zuneigung, stille Behandlung oder Schuldgefühle, um Kontrolle auszuüben. Nach einer Trennung kontaktiert er dich plötzlich wieder, ist liebevoll und präsent, und du hoffst, dass es diesmal anders sein wird. Doch sobald du dich wieder emotional öffnest und das Gefühl hast, dass es wieder funktoniert, zieht sich der Partner zurück oder zeigt sein wahres, kontrollierendes Verhalten.
+Ein häufiges toxisches Muster ist die emotionale Manipulation. Ein Partner nutzt Entzug von Zuneigung, stille Behandlung oder Schuldgefühle, um Kontrolle auszuüben. Nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte) kontaktiert er dich plötzlich wieder, ist liebevoll und präsent, und du hoffst, dass es diesmal anders sein wird. Doch sobald du dich wieder emotional öffnest und das Gefühl hast, dass es wieder funktoniert, zieht sich der Partner zurück oder zeigt sein wahres, kontrollierendes Verhalten.
 
 Ein anderes toxisches Muster ist die Hoovering-Taktik. Der Name stammt vom Staubsauger Hoover und beschreibt, wie der Partner dich wieder "ansaugt", wenn du gerade dabei bist, ihn aus deinem Leben zu räumen. Er meldet sich mit liebevollen Nachrichten, schuldeinflößenden Aussagen oder unmöglichen Versprechungen. Diese Kontaktversuche dienen nicht dem echten Wunsch nach Versöhnung, sondern der Wiederherstellung von Kontrolle.
 

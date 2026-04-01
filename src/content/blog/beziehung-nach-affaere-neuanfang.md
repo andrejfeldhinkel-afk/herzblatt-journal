@@ -73,7 +73,7 @@ Es gibt keine Schande darin, zu erkennen, dass du das nicht überstehen kannst. 
 
 **Gibt es Kinder oder andere Bindungen?**
 
-Das macht die Entscheidung komplexer. Wenn ihr Kinder habt, ist Trennung ein größerer Schritt. Das bedeutet nicht, dass du bleiben solltest, wenn du unglücklich bist – aber es bedeutet, dass deine Entscheidung größere Konsequenzen hat.
+Das macht die Entscheidung komplexer. Wenn ihr Kinder habt, ist [Trennung](/blog/trennung-verarbeiten-12-schritte) ein größerer Schritt. Das bedeutet nicht, dass du bleiben solltest, wenn du unglücklich bist – aber es bedeutet, dass deine Entscheidung größere Konsequenzen hat.
 
 ## Wenn ihr entscheidet, es zu versuchen
 

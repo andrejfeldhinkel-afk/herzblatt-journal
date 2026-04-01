@@ -27,7 +27,7 @@ Eine Scheidung ist ein Umbruch in deinem Leben. Die Traurigkeit, die Verwirrung,
 
 ## Die emotionale Heilung: Der erste Schritt vor dem Dating
 
-Bevor du eine neue Person in dein Leben bringst, musst du deine Scheidung verarbeitet haben. Das heißt nicht, dass du nie wieder traurig sein darfst oder dass deine Ex völlig aus deinen Gedanken weg ist. Es heißt, dass du die Trennung akzeptiert hast, deine Grenzen gesetzt hast und weiß, was du nicht mehr willst.
+Bevor du eine neue Person in dein Leben bringst, musst du deine Scheidung verarbeitet haben. Das heißt nicht, dass du nie wieder traurig sein darfst oder dass deine Ex völlig aus deinen Gedanken weg ist. Es heißt, dass du die [Trennung](/blog/trennung-verarbeiten-12-schritte) akzeptiert hast, deine Grenzen gesetzt hast und weiß, was du nicht mehr willst.
 
 Wenn du direkt nach der Trennung dating anfängst, um deine Einsamkeit zu füllen, wirst du ungesunde Muster wiederholen. Du wirst zu schnell zu attached, dich verlieren in einer neuen Person, oder unbewusst jemanden wählen, der ähnlich ist wie der Ex.
 

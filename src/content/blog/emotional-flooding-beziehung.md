@@ -53,7 +53,7 @@ Das ist nicht Bosheit. Das ist Neurobiologie.
 
 ## Die vier Warnsignale – Erkennung ist die erste Waffe
 
-Gottman identifizierte vier kommunikative Muster, die fast garantiert zu einer Trennung führen. Er nennt sie "Die Vier Reiter der Apokalypse."
+Gottman identifizierte vier kommunikative Muster, die fast garantiert zu einer [Trennung](/blog/trennung-verarbeiten-12-schritte) führen. Er nennt sie "Die Vier Reiter der Apokalypse."
 
 **Kritik:** Das ist nicht konstruktive Kritik. Das ist Attacke. "Du machst immer..." "Du schaffst es nie..." Diese allgemeinen, verdammenden Aussagen laden das Nervensystem emotional auf.
 

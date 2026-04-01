@@ -62,7 +62,7 @@ Sportgruppen sind unterschätzt. Schwule Fußballclubs, Laufgruppen oder Fitness
 
 **Romeo** (formerly PlanetRomeo) ist europäisch geprägt und hat mehr Profil-Fokus. Es wirkt ein bisschen älter, aber dafür auch seriöser.
 
-### Universelle Apps: Tinder, Bumble, Hinge
+### Universelle Apps: Tinder, Bumble, [Hinge](/blog/hinge-guide-deutsch-2026)
 
 Viele schwule Männer unterschätzen universelle Dating-Apps. Hier findest du nicht nur schwule Männer, sondern auch bisexuelle und offene Menschen. Der Vorteil: Die Atmosfäre ist weniger sexualisiert, und wenn du mit cis Frauen oder bi Frauen matchst, erweiterst du deine Horizonte. Der Nachteil: Du sortierst viel aus, und nicht jeder, der auf Tinder ist, ist ready für ein Gay Dating-Abenteuer.
 

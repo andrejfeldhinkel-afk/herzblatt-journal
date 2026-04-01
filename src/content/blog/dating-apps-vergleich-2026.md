@@ -70,7 +70,7 @@ Con: Weniger Benutzer als Tinder, exklusiv zur Frau initiiert
 
 Urteil: Eine ausgezeichnete Alternative zu Tinder, besonders für Frauen.
 
-**Hinge**
+**[Hinge](/blog/hinge-guide-deutsch-2026)**
 
 Was es ist: Positioniert als „Dating-App für Ehe." Weniger Swipe, mehr Profil-basiert.
 

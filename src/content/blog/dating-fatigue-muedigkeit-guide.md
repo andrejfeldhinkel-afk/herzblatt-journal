@@ -222,7 +222,7 @@ Wenn dein Leben nicht voll ist, werden auch hunderte Dates dich nicht erfüllen.
 Nicht alle Dating-Apps sind gleich. Manche sind oberflächlicher als andere.
 
 - **Tinder** ist mehr Spiel-basiert. Schnelles Swipen. Oberflächliche. Gut für schnelle Konnektion, schlecht für tiefe Konnektion.
-- **Hinge** ist mehr auf echte Konnektion fokussiert. Weniger Swipes pro Tag. Mehr Nachrichten, weniger Matches.
+- **[Hinge](/blog/hinge-guide-deutsch-2026)** ist mehr auf echte Konnektion fokussiert. Weniger Swipes pro Tag. Mehr Nachrichten, weniger Matches.
 - **Bumble** gibt Frauen mehr Kontrolle.
 - **Match** ist mehr traditionell und weniger gamifiziert.
 

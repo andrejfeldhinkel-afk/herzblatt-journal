@@ -187,7 +187,7 @@ Die besten Tageszeiten sind Donnerstag und Freitag ab 18:00 Uhr, wenn die Studie
 
 ### Apps und Online-Dating in Göttingen
 
-Die Studentenstadt ist **Tinder-Hochburg**. Das ist bekannt und auch okay! Die Szene ist sehr digital und akzeptiert das. Auch Bumble funktioniert gut, und Hinge hat überraschend viele aktive User.
+Die Studentenstadt ist **Tinder-Hochburg**. Das ist bekannt und auch okay! Die Szene ist sehr digital und akzeptiert das. Auch Bumble funktioniert gut, und [Hinge](/blog/hinge-guide-deutsch-2026) hat überraschend viele aktive User.
 
 **Pro-Tipp**: In deinem Profil: Erwähne die Kneipenszene, deine Liebe für die Stadt, ein echtes Lachen-Foto. Das zieht die richtigen Menschen an! "Bier-enthusiast und Gänseliesel-Fan" wirkt authentisch Göttingen.
 

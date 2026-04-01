@@ -81,7 +81,7 @@ Dies kann zu Angstzuständen führen. Wann wird der Partner wieder mit mir sprec
 
 Das Selbstwertgefühl des ignorierten Partners leidet. Es ist leicht zu denken: „Ich bin nicht wichtig genug, um angesprochen zu werden." Das ist falsch, aber das ist es, was Stonewalling macht.
 
-Und wenn das Stonewalling über längere Zeiträume stattfindet, kann es zum emotionalen Trennung führen. Der liebende Partner gibt auf. Er versucht nicht mehr, zu engagieren. Er lernt, sich emotional zu desensibilisieren. Das ist das Ende einer echten Beziehung.
+Und wenn das Stonewalling über längere Zeiträume stattfindet, kann es zum emotionalen [Trennung](/blog/trennung-verarbeiten-12-schritte) führen. Der liebende Partner gibt auf. Er versucht nicht mehr, zu engagieren. Er lernt, sich emotional zu desensibilisieren. Das ist das Ende einer echten Beziehung.
 
 ## Unterschiede in Geschlecht und Stonewallingmuster
 

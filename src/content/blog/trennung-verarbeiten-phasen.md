@@ -19,7 +19,7 @@ faq:
   - question: "Wo finde ich Hilfe zum Thema trennung verarbeiten?"
     answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
 ---
-## Die Phasen einer Trennung: Ein Weg durch den Trauerprozess
+## Die Phasen einer [Trennung](/blog/trennung-verarbeiten-12-schritte): Ein Weg durch den Trauerprozess
 
 Eine Trennung ist wie ein Trauerprozess – und wie jede Trauer folgt sie Phasen. Der Psychologe Kübler-Ross hat diese Phasen ursprünglich für den Trauer um einen Todesfall beschrieben, aber sie passen perfekt auf Trennungen. Wenn du dich in dieser emotionalen Achterbahn befindest, ist es tröstlich zu wissen, dass du nicht alleine bist und dass es diese Phase geben wird.
 

@@ -533,7 +533,7 @@ Das ist nicht fair. Das ist nicht echte Liebe.
 - "Ich hätte dieses Problem nicht überwunden, ohne dich"
 - "Du bist der stärkste Mensch, den ich kenne" (auf eine fetischisierte Weise)
 
-Das sind nicht Komplimente. Das sind Zeichen, dass er deine Behinderung als dein Merkmal sieht, nicht als einen Teil von dir.
+Das sind nicht [Komplimente](/blog/komplimente-fuer-maenner). Das sind Zeichen, dass er deine Behinderung als dein Merkmal sieht, nicht als einen Teil von dir.
 
 Ein echter Partner wird sagen: "Ich mag dich. Du bist interessant. Ich mag, wie du lebst." Nicht "Ich bewundere deine Kraft durch Leid."
 

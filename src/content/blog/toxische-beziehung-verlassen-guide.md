@@ -65,7 +65,7 @@ Schreibe auch auf, wer du warst, bevor du diese Beziehung einging. Wie war dein 
 
 ## Planen und Vorbereiten: Das Wichtigste ist Geheimhaltung
 
-Das Verlassen einer toxischen Beziehung erfordert strategisches Denken. Das klingt vielleicht kühl, aber es ist notwendig. Wenn dein Partner weiß, dass du gehst, bevor du wirklich bereit bist, könnte er manipulieren, drohen oder eskalieren. Es gibt Statistiken, die zeigen, dass Gewalt oft zunimmt, wenn ein Partner eine Trennung ankündigt.
+Das Verlassen einer toxischen Beziehung erfordert strategisches Denken. Das klingt vielleicht kühl, aber es ist notwendig. Wenn dein Partner weiß, dass du gehst, bevor du wirklich bereit bist, könnte er manipulieren, drohen oder eskalieren. Es gibt Statistiken, die zeigen, dass Gewalt oft zunimmt, wenn ein Partner eine [Trennung](/blog/trennung-verarbeiten-12-schritte) ankündigt.
 
 Beginne damit, deine finanzielle Sicherheit zu sichern. Wenn ihr gemeinsame Konten habt, eröffne diskret ein separates Bankkonto. Sparen Sie, wenn möglich. Haben Sie Zugang zu genug Geld, um mindestens einen Monat Miete zu zahlen? Das ist ein Anker der Sicherheit. Finanzielle Abhängigkeit ist einer der Gründe, warum Menschen in toxischen Beziehungen bleiben. Wenn du diese Abhängigkeit brechen kannst, brechen Sie eine Kette, die dich festhält.
 

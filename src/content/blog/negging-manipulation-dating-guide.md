@@ -44,7 +44,7 @@ Wenn du das Gefühl hast, dass jemand dich regelmäßig klein macht oder dein Ve
 
 Die Pick-up Artist-Bewegung, die vor allem in den 2000er Jahren ihre Hochzeit hatte, hat Negging nicht erfunden – aber sie hat es perfektioniert und systematisiert. Autoren wie Neil Strauss in seinem Buch "The Game" dokumentierten und förderten Negging als eine bewährte Taktik, um Frauen zu manipulieren.
 
-Die Ideologie dahinter war: Frauen, die attraktiv sind, bekommen ständig Komplimente. Sie sind an positive Aufmerksamkeit gewöhnt und haben ein hohes Selbstbewusstsein. Also musst du sie "herunterbringen", damit sie unsicher werden und sich bemühen, deine Zustimmung zu gewinnen. Es ist eine taktische Umkehrung der Dynamik.
+Die Ideologie dahinter war: Frauen, die attraktiv sind, bekommen ständig [Komplimente](/blog/komplimente-fuer-maenner). Sie sind an positive Aufmerksamkeit gewöhnt und haben ein hohes Selbstbewusstsein. Also musst du sie "herunterbringen", damit sie unsicher werden und sich bemühen, deine Zustimmung zu gewinnen. Es ist eine taktische Umkehrung der Dynamik.
 
 Diese Community hat Negging nicht als etwas Schädliches oder Manipulatives dargestellt. Nein, es wurde als cleverer Trick verkauft, als etwas, das "funktioniert". Und das ist das Problem: Tausende von Männern haben diese Taktiken gelernt und angewendet, ohne die psychologischen Schäden zu verstehen, die sie anrichten.
 

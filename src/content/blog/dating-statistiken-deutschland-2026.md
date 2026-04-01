@@ -36,7 +36,7 @@ Die beliebtesten Apps in Deutschland sind:
 
 - **Tinder:** 3,8 Millionen aktive Nutzer (das ist immer noch die Nummer 1)
 - **Bumble:** 1,2 Millionen aktive Nutzer (wächst schnell)
-- **Hinge:** 890.000 Nutzer (fokussiert auf ernsthafte Beziehungen)
+- **[Hinge](/blog/hinge-guide-deutsch-2026):** 890.000 Nutzer (fokussiert auf ernsthafte Beziehungen)
 - **Grüne Soße, Once, Raya:** Kombiert etwa 2 Millionen Nutzer
 
 Die Daten zeigen: Tinder ist nicht "für oberflächliche Menschen" — es ist einfach die beliebteste Plattform. Es gibt auf Tinder genauso viele Menschen, die ernsthafte Beziehungen suchen, wie auf jeder anderen App.
@@ -134,7 +134,7 @@ Das bedeutet: Wenn du wirklich ehrlich bist, hebst du dich ab. Authentizität is
 
 **2. [Ghosting](/blog/ghosting-komplett-guide) ist Normal**
 
-42% der Menschen haben jemanden geghostet. 58% wurden geghostet. Das ist ein großes Problem im Online-Dating. Menschen verschwinden einfach ohne Erklärung.
+42% der Menschen haben jemanden [geghostet](/blog/ghosting-ueberwinden). 58% wurden geghostet. Das ist ein großes Problem im Online-Dating. Menschen verschwinden einfach ohne Erklärung.
 
 Das ist scheiße, aber es ist die Realität. Wenn dich jemand ghosted, ist es nicht deine Schuld — es ist ein Zeichen von mangelnden Manieren.
 

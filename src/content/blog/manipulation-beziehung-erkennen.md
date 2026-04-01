@@ -82,7 +82,7 @@ Das Problem dabei ist, dass es deine Fähigkeit untergräbt, deinem eigenen Urte
 
 Manche Partner nutzen Drohungen, um dich unter Kontrolle zu halten. Sie drohen damit, sich selbst etwas anzutun, wenn du sie verlässt. Sie drohen damit, das Sorgerecht für die Kinder zu bekämpfen. Sie drohen damit, dich wirtschaftlich zu ruinieren. Diese Drohungen sind Erpressungsversuche.
 
-Wenn dein Partner dir mit Selbstverletzung droht, wenn du die Beziehung beendest, musst du wissen, dass das nicht deine Verantwortung ist. Du bist nicht schuldig, wenn er sich selbst verletzt. Seine mentale Gesundheit ist seine Verantwortung, nicht deine. In diesem Fall solltest du dich professionelle Hilfe suchen und eine Trennung planen, bei der du mit Unterstützung von Fachleuten vorangehst.
+Wenn dein Partner dir mit Selbstverletzung droht, wenn du die Beziehung beendest, musst du wissen, dass das nicht deine Verantwortung ist. Du bist nicht schuldig, wenn er sich selbst verletzt. Seine mentale Gesundheit ist seine Verantwortung, nicht deine. In diesem Fall solltest du dich professionelle Hilfe suchen und eine [Trennung](/blog/trennung-verarbeiten-12-schritte) planen, bei der du mit Unterstützung von Fachleuten vorangehst.
 
 ## Die Invalidierung deiner Gefühle
 

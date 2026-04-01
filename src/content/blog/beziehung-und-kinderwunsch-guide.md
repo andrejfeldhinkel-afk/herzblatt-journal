@@ -212,7 +212,7 @@ Diese Optionen können funktionieren, wenn:
 
 Aber es ist wichtig zu beachten, dass Adoption ihre eigenen komplexen Herausforderungen hat und nicht nur ein "Kompromiss" ist, der alle zufriedenstellt.
 
-### Option 4: Die Trennung
+### Option 4: Die [Trennung](/blog/trennung-verarbeiten-12-schritte)
 
 Schließlich ist die Realität, dass einige Paare einfach nicht kompatibel sind in dieser fundamentalen Frage. Ein Partner möchte dringend Kinder, der andere absolut nicht. Nach echter Kommunikation, Beratung und Überlegung können sie zu dem Schluss kommen, dass sie auf unterschiedlichen Lebenwegen sind.
 

@@ -57,7 +57,7 @@ Verdeckte Narzissten brauchen genau so sehr wie offene Narzissten bewundernde Au
 Diese Unterscheidung ist entscheidend, um zu verstehen, warum verdeckter Narzissmus so schwer zu erkennen ist:
 
 ### Offener (extrovertierter) Narzissmus
-Der offene Narzisst ist laut, charismatisch und fordert Bewunderung aktiv ein. Er spricht ständig von seinen Erfolgen, benötigt Komplimente, reagiert auf Kritik mit Wut oder Verachtung. Er dominiert Gespräche und Räume. Er ist manipulativ, aber auf eine offensichtliche Weise — du merkst, dass er dich manipulieren will. Der offene Narzisst möchte bewundert werden. Er stellt sich auf ein Podest und schaut auf dich herab.
+Der offene Narzisst ist laut, charismatisch und fordert Bewunderung aktiv ein. Er spricht ständig von seinen Erfolgen, benötigt [Komplimente](/blog/komplimente-fuer-maenner), reagiert auf Kritik mit Wut oder Verachtung. Er dominiert Gespräche und Räume. Er ist manipulativ, aber auf eine offensichtliche Weise — du merkst, dass er dich manipulieren will. Der offene Narzisst möchte bewundert werden. Er stellt sich auf ein Podest und schaut auf dich herab.
 
 ### Verdeckter (introvertierter) Narzissmus
 Der verdeckte Narzisst ist leise, schüchtern wirkend und versteckt seine narzisstischen Bedürfnisse hinter Bescheidenheit. Er spricht selten von sich selbst — oder nur, um zu erzählen, wie verletzt er ist. Er reagiert auf Kritik mit Rückzug, Trauer oder dem Gefühl, nicht verstanden zu werden. Er dominiert nicht durch Lautstärke, sondern durch emotionale Abhängigkeit. Die Manipulation ist so subtil, dass du nicht merkst, dass du manipuliert wirst. Der verdeckte Narzisst will bewundert werden, aber dafür, wie sensibel, verletzlich und missverstanden er ist.

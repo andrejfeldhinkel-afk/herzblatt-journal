@@ -269,7 +269,7 @@ Wenn ein Partner sagt "Ich bin nicht hierin", ist Therapie schwierig. Du kannst 
 
 Manchmal, nach all diesem, ist die Antwort: Ja, das sollten wir beenden.
 
-### Wann ist Trennung die richtige Antwort?
+### Wann ist [Trennung](/blog/trennung-verarbeiten-12-schritte) die richtige Antwort?
 
 **Die Beziehung ist toxic:**
 Wenn es konstante emotionale, physische oder sexuelle Missbrauch gibt, ist Trennung sicher richtig.

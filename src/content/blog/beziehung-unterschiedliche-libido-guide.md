@@ -204,7 +204,7 @@ Erinnerungen Dich daran, dass unterschiedliche Libido nicht Deine Schuld ist. Du
 
 ## Missverständnisse über Libido und Beziehungen
 
-Es gibt viele weit verbreitete Missverständnisse über Libido, die Paare daran hindern, effektiv damit umzugehen. Das erste Missverständnis ist, dass eine hohe Libido ein Zeichen von mehr Liebe ist. Das ist falsch. Die sexuelle Lust und die Liebe zu einer Person sind zwei unterschiedliche Dinge. Du kannst jemanden zutiefst lieben und trotzdem niedrige Libido haben. Und Du kannst hohe Libido haben, ohne die Person besonders zu lieben. Diese Trennung zu verstehen ist befreiend.
+Es gibt viele weit verbreitete Missverständnisse über Libido, die Paare daran hindern, effektiv damit umzugehen. Das erste Missverständnis ist, dass eine hohe Libido ein Zeichen von mehr Liebe ist. Das ist falsch. Die sexuelle Lust und die Liebe zu einer Person sind zwei unterschiedliche Dinge. Du kannst jemanden zutiefst lieben und trotzdem niedrige Libido haben. Und Du kannst hohe Libido haben, ohne die Person besonders zu lieben. Diese [Trennung](/blog/trennung-verarbeiten-12-schritte) zu verstehen ist befreiend.
 
 Ein anderes Missverständnis ist, dass Frauen niedrigere Libido haben sollten und Männer höhere. Das ist ein Stereotyp, das nicht der Realität entspricht. Es gibt Frauen mit hoher Libido und Männer mit niedriger Libido. Geschlecht sagt nicht automatisch etwas über jemandes sexuelle Lust aus. Jeder Mensch ist einzigartig, und Verallgemeinerungen können tatsächlich schädlich sein.
 

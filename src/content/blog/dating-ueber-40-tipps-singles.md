@@ -165,7 +165,7 @@ Du warst 15 Jahre verheiratet und plötzlich bist du Single.
 Das ist überwältigend. Die Dating-Welt hat sich geändert. Du kennst dich möglicherweise nicht mehr.
 
 Was hilft:
-- Gebe dir Zeit, bevor du datierst. Nicht unmittelbar nach der Trennung.
+- Gebe dir Zeit, bevor du datierst. Nicht unmittelbar nach der [Trennung](/blog/trennung-verarbeiten-12-schritte).
 - Rediscover, wer du bist allein. Was magst du? Was interessiert dich?
 - Eine Therapeut hilft. Ein Lot zu verarbeiten.
 - Nicht deine Ex mit jemandem neuer vergleichen. Das ist unfair beiden.

@@ -112,7 +112,7 @@ Und dann sitzt ihr gegenüber bei Abendessen und denkt: "Wer bist du? Wer bin ic
 
 Dies ist das Empty-Nest-Syndrom und es ist real und es ist hart. Es ist nicht melodramatisch – es ist eine echte Identitätskrise für viele Menschen. Deine primäre Rolle (Elternteil) hat sich radikale verändert. Wer bist du jetzt?
 
-Einige Paare realisieren, dass sie nur noch Eltern sind und dass die Liebe bereits gegangen ist. Sie hatten sich nicht mal gemerkt. Sie waren zu beschäftigt mit Hausaufgaben, Sporttischen, Eltern-Lehrer-Konferenzen. Diese Trennung kann am schmerzhaftesten sein, weil die Liebe nicht plötzlich verschwunden ist – sie war einfach nicht da, versteckt unter der dringenden Notwendigkeit, Kinder großzuziehen.
+Einige Paare realisieren, dass sie nur noch Eltern sind und dass die Liebe bereits gegangen ist. Sie hatten sich nicht mal gemerkt. Sie waren zu beschäftigt mit Hausaufgaben, Sporttischen, Eltern-Lehrer-Konferenzen. Diese [Trennung](/blog/trennung-verarbeiten-12-schritte) kann am schmerzhaftesten sein, weil die Liebe nicht plötzlich verschwunden ist – sie war einfach nicht da, versteckt unter der dringenden Notwendigkeit, Kinder großzuziehen.
 
 Andere Paare verwandeln diese Krise in eine Gelegenheit. Sie sagen: "Das ist unsere Zeit. Wir haben uns selbst wieder. Wer wollen wir sein?" Und sie erfinden sich neu. Manche nehmen neue Hobbys an. Manche reisen endlich zu diesen Orten, die sie immer hinausschieben. Manche haben wieder großartigen Sex, jetzt ohne die Angst, dass ein Teenager hereinkommt. Manche werden größere beste Freunde als je zuvor. Sie gehen einfach zusammen spazieren, oder sitzen zusammen im Wohnzimmer und sprechen für Stunden.
 

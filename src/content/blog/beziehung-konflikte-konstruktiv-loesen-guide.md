@@ -304,7 +304,7 @@ Wenn das passiert, bist du in einem schwierigeren Situation. Du kannst nicht all
 Optionen:
 1. Paartherapie. Ein Therapeut kann helfen, Muster zu brechen.
 2. Ein ernsthaftes Gespräch: "Diese Beziehung funktioniert nicht. Ich brauche, dass wir zusammenarbeiten. Wenn wir das nicht tun, muss ich überdenken, ob ich bleibe."
-3. Wenn der Partner immer noch nicht kooperativ ist, ist eine Trennung wahrscheinlich notwendig.
+3. Wenn der Partner immer noch nicht kooperativ ist, ist eine [Trennung](/blog/trennung-verarbeiten-12-schritte) wahrscheinlich notwendig.
 
 ## Das Long Game: Konflikte als Beziehungs-Builder
 

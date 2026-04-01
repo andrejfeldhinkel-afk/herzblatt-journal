@@ -178,7 +178,7 @@ Die beste Tageszeit ist typischerweise Freitag oder Samstagabend ab 19:00 Uhr in
 
 ### Apps und Online-Dating in Bamberg
 
-Tinder ist aktiv. Aber **Bamberg zieht auch Qualitäts-Dating-Apps an** – hier sind viele, die eine echte [beziehung](/blog/adhs-und-beziehung-komplett-guide/) suchen, nicht nur etwas Leichtes. Bumble und Hinge haben überraschend aktive Nutzer.
+Tinder ist aktiv. Aber **Bamberg zieht auch Qualitäts-Dating-Apps an** – hier sind viele, die eine echte [beziehung](/blog/adhs-und-beziehung-komplett-guide/) suchen, nicht nur etwas Leichtes. Bumble und [Hinge](/blog/hinge-guide-deutsch-2026) haben überraschend aktive Nutzer.
 
 **Pro-Tipp**: Nutze dein Profil, um zu zeigen, dass du:
 - Kultur und Geschichte schätzt

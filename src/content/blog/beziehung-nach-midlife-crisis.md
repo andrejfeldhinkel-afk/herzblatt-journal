@@ -92,7 +92,7 @@ Dein Partner könnte weniger Interesse haben an Intimität – oder vielleicht z
 
 Du könntest auch fragen: „Wer bin ich in dieser Beziehung?" Das könnte gesund sein, oder es könnte chaos sein.
 
-**Es könnte endlich zur Trennung führen**
+**Es könnte endlich zur [Trennung](/blog/trennung-verarbeiten-12-schritte) führen**
 
 Manche Paare überleben nicht eine Midlife-Crisis. Der Partner entschließt, dass die Beziehung nicht mehr authentisch ist und erlässt sich.
 

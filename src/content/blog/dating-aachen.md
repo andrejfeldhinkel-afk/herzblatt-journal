@@ -64,7 +64,7 @@ Das **Ludwig Forum** für Internationale Kunst ist besonders bei jüngeren Singl
 
 ## Die Singles-Szene und Dating-Apps in Aachen
 
-Aachen ist eine typische Uni-Stadt mit aktiver Dating-Szene. **Tinder** ist hier das meistgenutzte Profil-App. **Bumble** ist bei etwas älteren, etablierteren Singles verbreitet. **Hinge** gewinnt an Popularität für ernsthaftere Beziehungen.
+Aachen ist eine typische Uni-Stadt mit aktiver Dating-Szene. **Tinder** ist hier das meistgenutzte Profil-App. **Bumble** ist bei etwas älteren, etablierteren Singles verbreitet. **[Hinge](/blog/hinge-guide-deutsch-2026)** gewinnt an Popularität für ernsthaftere Beziehungen.
 
 Die Uni schafft einen natürlichen Treffpunkt für junge Menschen. Viele Events und Parties werden durch Uni-Gruppen organisiert – großartig, um Menschen mit ähnlichen Interessen zu treffen.
 

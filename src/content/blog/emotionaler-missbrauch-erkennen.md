@@ -195,7 +195,7 @@ Es beginnt klein. Ein Kommentar. Ein Verdacht. “Warum warst du so lange weg?�
 
 Mit der Zeit verlieren Sie sich. Ihre Gedanken sind neblig. Sie können nicht klar denken. Sie zweifeln ständig Ihre Gedanken an. Dies ist ein beabsichtigter Zustand – gemacht durch Gaslighting und ständige Kritik.
 
-**Lesetipp:** [Grenzen nach einer Trennung: So schützt du dich](/blog/grenzen-nach-trennung-setzen) | [Manipulation in Beziehungen durchschauen](/blog/manipulation-in-beziehungen)
+**Lesetipp:** [Grenzen nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte): So schützt du dich](/blog/grenzen-nach-trennung-setzen) | [Manipulation in Beziehungen durchschauen](/blog/manipulation-in-beziehungen)
 
 ### Phase 3: Die Versöhnung
 

@@ -60,7 +60,7 @@ Narzissten sind oft sofort erkennbar, wenn du weißt, worauf du achten musst. Da
 
 ### Die Liebesbombe zu Anfang
 
-Das erste oder zweite Date wird zu einem Film-Szenario. Du bekommst überwältigende, konstante Aufmerksamkeit. Teure Geschenke. Komplimente, die sich endlos anfühlen. "Ich habe noch nie jemanden wie dich getroffen!" "Du bist so besonders, dass ich weiß, dass wir zusammen sein sollen!" Die Intensität ist berauschend. Es fühlt sich wie Seelenverwandtschaft an. Es fühlt sich an, als würde dich diese Person wirklich sehen und verstehen.
+Das erste oder zweite Date wird zu einem Film-Szenario. Du bekommst überwältigende, konstante Aufmerksamkeit. Teure Geschenke. [Komplimente](/blog/komplimente-fuer-maenner), die sich endlos anfühlen. "Ich habe noch nie jemanden wie dich getroffen!" "Du bist so besonders, dass ich weiß, dass wir zusammen sein sollen!" Die Intensität ist berauschend. Es fühlt sich wie Seelenverwandtschaft an. Es fühlt sich an, als würde dich diese Person wirklich sehen und verstehen.
 
 Hier ist das Problem: Das ist keine Liebe. Das ist ein perfektioniertes Muster, das der Narzisst mit vielen Menschen vorher gemacht hat und mit vielen danach wieder machen wird. Wissenschaftler nennen das "[Love Bombing](/blog/love-bombing-erkennen-schuetzen)" — eine Phase der intensiven romantischen Aufmerksamkeit, die dazu dient, dich schnell emotional zu binden.
 

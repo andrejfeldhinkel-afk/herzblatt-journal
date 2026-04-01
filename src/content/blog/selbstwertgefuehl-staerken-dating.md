@@ -64,7 +64,7 @@ Hier sind häufige Muster von niedriegem Selbstwertgefühl im Dating:
 
 **Leute-Gefälligkeit**: Du sagst Ja zu Dingen, die du nicht willst. Du "geht mit dem Fluss", auch wenn dein Bauch sagt "Nein". Du brauchst, dass dein Date glücklich ist, sogar wenn das bedeutet, dich selbst zu ignorieren.
 
-**Constant Validation-Seeking**: Du schickst Nachrichten zu häufig. Du wartest auf Replies. Du brauchst Komplimente, um dich gut zu fühlen. Du überanalyzen Nachrichten ("Warum hat sie/er keine Emoji verwendet? Bin ich nicht interessant?").
+**Constant Validation-Seeking**: Du schickst Nachrichten zu häufig. Du wartest auf Replies. Du brauchst [Komplimente](/blog/komplimente-fuer-maenner), um dich gut zu fühlen. Du überanalyzen Nachrichten ("Warum hat sie/er keine Emoji verwendet? Bin ich nicht interessant?").
 
 **Settling für weniger**: Du datierst Menschen, die dir nicht respektieren, weil sie "besser als Einsamkeit" sind. Du denkst: "Zumindest hat diese Person eine Beziehung mit mir."
 

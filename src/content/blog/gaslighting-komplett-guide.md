@@ -261,7 +261,7 @@ Dinge, um zu organisieren:
 
 Wenn es Familie ist, ist es schwerer (du kannst nicht immer Kontakt komplett brechen). Aber du kannst Gray Rock nutzen (hier unten).
 
-### Schritt 6: Die Trennung
+### Schritt 6: Die [Trennung](/blog/trennung-verarbeiten-12-schritte)
 
 Trenne dich von der Person. Das ist schmerzhaft, aber notwendig.
 

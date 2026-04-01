@@ -33,7 +33,7 @@ faq:
 
 Menschen sagen nicht was sie fühlen. Sie lassen Dinge ungesagt. Sie nehmen an was der Partner denkt statt zu fragen. Sie hoffen dass die andere Person die Gedanken lesen kann.
 
-Das ist nicht fair. Das ist nicht realistisch. Und das endet in Resentment, Missverständnis und oft in Trennung.
+Das ist nicht fair. Das ist nicht realistisch. Und das endet in Resentment, Missverständnis und oft in [Trennung](/blog/trennung-verarbeiten-12-schritte).
 
 Offene Kommunikation ist nicht sexy. Es ist nicht romantisch. Aber es ist das Fundament jeder langfristigen erfolgreichen [beziehung](/blog/adhs-und-beziehung-komplett-guide/).
 

@@ -134,7 +134,7 @@ Es gibt spezifische Dating-Apps für über 50:
 - Match.com (klassisch, seriös, viele über 50)
 - SilverSingles (spezialisiert für über 50)
 - OurTime (gegründet für über 50)
-- Hinge (wenn du unter 50 wirkst und mit vielen über 50 daten willst)
+- [Hinge](/blog/hinge-guide-deutsch-2026) (wenn du unter 50 wirkst und mit vielen über 50 daten willst)
 - eHarmony (in-depth matching, viele über 50)
 
 Nicht Tinder. Das ist für jüngere Leute (obwohl es älter Nutzer gibt).

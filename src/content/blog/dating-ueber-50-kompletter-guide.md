@@ -39,7 +39,7 @@ Bevor du mit Partnersuche ab 50 beginnst, ist es wichtig, dich selbst vorzuberei
 
 Beginne damit, deine Gesundheit zu bewerten. Das bedeutet nicht, dass du jung aussehen musst, sondern dass du dich um dein Wohlbefinden kümmerst. Treibe Sport, das du genießt, iss gesund und besuche regelmäßig den Arzt. Menschen werden von Konfidenzen angezogen, und Selbstfürsorge schafft diese Konfidenz.
 
-Überdenke auch deine emotionale Vorbereitung. Wenn du gerade aus einer langen Ehe kommst, brauchst du Zeit, um die Trennung zu verarbeiten. Wenn du verwitwet bist, brauchst du Zeit zu trauern. Dating ab 50 funktioniert am besten, wenn du bereit bist, nicht wenn du verzweifelt bist.
+Überdenke auch deine emotionale Vorbereitung. Wenn du gerade aus einer langen Ehe kommst, brauchst du Zeit, um die [Trennung](/blog/trennung-verarbeiten-12-schritte) zu verarbeiten. Wenn du verwitwet bist, brauchst du Zeit zu trauern. Dating ab 50 funktioniert am besten, wenn du bereit bist, nicht wenn du verzweifelt bist.
 
 Ersetze auch eine Sache, die wichtig ist: Warum möchtest du eine neue Beziehung? Ist es, weil du einsam bist? Ist es, weil du eine Partnerschaft mit jemandem möchtest? Die Antwort macht einen großen Unterschied. Wenn du Dating über 50 betreibst, um nicht allein zu sein, wirst du wahrscheinlich in schlechte Beziehungen geraten. Wenn du es tust, weil du eine tiefe Verbindung mit jemandem möchtest, werden deine Chancen viel besser.
 

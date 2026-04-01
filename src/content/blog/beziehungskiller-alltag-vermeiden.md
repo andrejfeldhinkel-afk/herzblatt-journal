@@ -40,7 +40,7 @@ Es gibt eine Studie von Psychologen, die zeigte: Der durchschnittliche Mensch me
 
 Sie untersuchten Paare, die sich trennten. Sie fragten: "Wusstet ihr, dass es zu Ende gehen würde?"
 
-Die meisten Paare sagten: "Ich merkte es erst nach drei Monaten Trennung. Ich sah nicht, dass es vorbei war, bis es vorbei war."
+Die meisten Paare sagten: "Ich merkte es erst nach drei Monaten [Trennung](/blog/trennung-verarbeiten-12-schritte). Ich sah nicht, dass es vorbei war, bis es vorbei war."
 
 Warum? Weil die Killer langsam wirken. Sie sind nicht dramatisch. Sie sind schleichend.
 

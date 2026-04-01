@@ -41,7 +41,7 @@ In diesen ersten Tagen ist es wichtig:
 
 **1. Selbstschutz an erster Stelle**: Wenn du sicher bist, dass dein Partner zur Besinnung kommen wird, großartig. Wenn nicht, schütze dich selbst. Das kann bedeuten, getrennte Schlafplätze zu haben, einen Freund anzurufen oder sogar zeitweise zu gehen.
 
-**2. Keine großen Entscheidungen treffen**: Dein Gehirn ist in Überlebensmodus. Große Entscheidungen wie Trennung oder "Ich vergebe dir" sollten nicht in den ersten 48 Stunden getroffen werden.
+**2. Keine großen Entscheidungen treffen**: Dein Gehirn ist in Überlebensmodus. Große Entscheidungen wie [Trennung](/blog/trennung-verarbeiten-12-schritte) oder "Ich vergebe dir" sollten nicht in den ersten 48 Stunden getroffen werden.
 
 **3. Mit deinen Gefühlen sitzen**: Erlaube dir, wütend zu sein, traurig zu sein, verwirrend zu sein. Unterdrücke diese Gefühle nicht.
 

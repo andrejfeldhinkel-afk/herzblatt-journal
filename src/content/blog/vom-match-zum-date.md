@@ -63,7 +63,7 @@ Das ist persönlich, zeigt Interesse und gibt der anderen Person sofort das Gef�
 
 **Keine Standard-Sprüche.** "Darf ich dir ein Rätsel aufgeben?" oder "Wenn du Eissorte wärst..." klingen abgedroschen und automatisch. Menschen fühlen das.
 
-**Keine Komplimente zum Aussehen – zumindest nicht als erste Nachricht.** Es ist nicht verboten, aber es ist ein schwaches Opener. Die andere Person weiß, dass sie auf dem Foto gut aussieht. Das ist keine neue Information.
+**Keine [Komplimente](/blog/komplimente-fuer-maenner) zum Aussehen – zumindest nicht als erste Nachricht.** Es ist nicht verboten, aber es ist ein schwaches Opener. Die andere Person weiß, dass sie auf dem Foto gut aussieht. Das ist keine neue Information.
 
 **Spezifisch sein.** Je spezifischer deine Nachricht, desto höher die Chance auf eine Antwort. Wenn du etwas einzigartiges über die Person ansprichst, fühlt sie sich gesehen.
 

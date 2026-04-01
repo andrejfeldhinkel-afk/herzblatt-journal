@@ -21,7 +21,7 @@ Bevor wir zu den konkreten Soforthilfen kommen, ist es wichtig zu verstehen, das
 
 ### Phase 1: Der Schock und die psychische Verleugnung
 
-Unmittelbar nach der Trennung befindest du dich in einem Zustand des Schocks. Dein Gehirn und deine emotionale Psyche können nicht akzeptieren, was passiert ist. Du wechselst zwischen Verleugnung und Ungläubigkeit. Du denkst: "Das kann nicht wahr sein. Das ist nicht wirklich passiert. Morgen früh wird er/sie anrufen und sagen, dass es ein großer Fehler war."
+Unmittelbar nach der [Trennung](/blog/trennung-verarbeiten-12-schritte) befindest du dich in einem Zustand des Schocks. Dein Gehirn und deine emotionale Psyche können nicht akzeptieren, was passiert ist. Du wechselst zwischen Verleugnung und Ungläubigkeit. Du denkst: "Das kann nicht wahr sein. Das ist nicht wirklich passiert. Morgen früh wird er/sie anrufen und sagen, dass es ein großer Fehler war."
 
 Diese Phase kann Stunden oder sogar Tage dauern. Du kannst dich selbst vielleicht nicht anfühlen – es ist wie eine emotionale und physische Taubheit. Manchmal ist das erleichternd. Manchmal ist es schrecklich.
 

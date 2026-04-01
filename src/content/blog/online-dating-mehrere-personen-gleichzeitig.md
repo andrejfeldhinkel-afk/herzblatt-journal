@@ -188,7 +188,7 @@ Hier ist ein praktischer Tipp: Nutze verschiedene Apps nicht, um zu täuschen, s
 Manche Menschen nutzen:
 - **Tinder** für Casual Dating und Kennenlernen
 - **Bumble** für etwas ernstere Matches
-- **Hinge** für Menschen, die eine Beziehung suchen
+- **[Hinge](/blog/hinge-guide-deutsch-2026)** für Menschen, die eine Beziehung suchen
 
 Das ist nicht unethisch. Das ist praktisch. Du wirst dadurch nicht zu einem Player — du wirst nur organisiert.
 

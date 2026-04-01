@@ -79,7 +79,7 @@ Das ist nicht immer schlecht. Aber wenn es passiert, weil einer von euch die Nä
 
 Dies ist vielleicht das traurigste Zeichen. Dein Partner ist neben dir, aber fühlt sich verloren. Nicht, weil du nicht lieben willst. Sondern weil Burnout dich unsichtbar gemacht hat.
 
-### Zeichen 5: Ihr redet über Trennung (nicht ernsthaft, aber es kommt zur Sprache)
+### Zeichen 5: Ihr redet über [Trennung](/blog/trennung-verarbeiten-12-schritte) (nicht ernsthaft, aber es kommt zur Sprache)
 
 Wenn "vielleicht sollten wir trennen" Teil der Gespräche wird, habt ihr kritischen Punkt erreicht. Das muss nicht das Ende bedeuten. Aber es bedeutet: Es ist Zeit für ernsthafte Intervention.
 

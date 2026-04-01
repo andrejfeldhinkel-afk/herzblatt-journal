@@ -92,7 +92,7 @@ Für HSPs: Schlecht.
 
 Für HSPs: Nicht ideal.
 
-**Hinge:**
+**[Hinge](/blog/hinge-guide-deutsch-2026):**
 - Besser als Tinder
 - Aber immer noch viele Optionen
 - Die "Prompts" sind gut, aber du brauchst immer noch zu viel zu verarbeiten

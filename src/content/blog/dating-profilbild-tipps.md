@@ -11,7 +11,7 @@ tags:
 ---
 ## Dein Profilbild entscheidet – Die Wissenschaft hinter deinen dating-Fotos
 
-Dein erstes Profilbild bei Tinder, Bumble, Hinge oder einer anderen Dating-App ist dein Türöffner. Es ist der erste Eindruck, und in der Online-Dating-Welt hast du buchstäblich Sekunden, um Aufmerksamkeit zu erregen. Studien zeigen, dass die durchschnittliche Person sich dein Profilbild etwa eine Sekunde lang ansieht, bevor sie nach links oder rechts wischt. Eine Sekunde. Das klingt brutal, und ehrlich gesagt ist es das auch.
+Dein erstes Profilbild bei Tinder, Bumble, [Hinge](/blog/hinge-guide-deutsch-2026) oder einer anderen Dating-App ist dein Türöffner. Es ist der erste Eindruck, und in der Online-Dating-Welt hast du buchstäblich Sekunden, um Aufmerksamkeit zu erregen. Studien zeigen, dass die durchschnittliche Person sich dein Profilbild etwa eine Sekunde lang ansieht, bevor sie nach links oder rechts wischt. Eine Sekunde. Das klingt brutal, und ehrlich gesagt ist es das auch.
 
 Aber es gibt gute Nachrichten: Es gibt echte, wissenschaftlich unterstützte Strategien, um ein Profilbild zu schaffen, das funktioniert. Mit den richtigen Fotos in der richtigen Reihenfolge, mit der richtigen Beleuchtung und dem richtigen Hintergrund kannst du die Chancen auf Matches erheblich erhöhen. Und das Beste? Du musst kein professionelles Model sein und kein perfekt gepflegt aussehen. Du musst nur smart sein, wie du dich präsentierst.
 

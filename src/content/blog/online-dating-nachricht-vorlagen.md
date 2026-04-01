@@ -40,7 +40,7 @@ faq:
 
 - **Zu lang** – Sie ist nicht interessiert in deiner Autobiografie
 
-- **Creepy Komplimente** – “Deine Lippen sind…”
+- **Creepy [Komplimente](/blog/komplimente-fuer-maenner)** – “Deine Lippen sind…”
 
 - **Offensichtlich kopiert** – Sie erkennt Vorlagen
 

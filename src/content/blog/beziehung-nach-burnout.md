@@ -280,7 +280,7 @@ Das ist ein Problem. Wenn dein Partner Burnout hat, sich aber weigert, zum Thera
 
 Das ist nicht herzlos. Das ist Selbstschutz. Du kannst nicht jemanden zwingen, sich helfen zu lassen. Irgendwann musst du entscheiden: "Ich kann nicht mit dieser Person zusammen sein, wenn sie sich nicht um sich selbst kümmert."
 
-Das könnte bedeuten, eine Trennung zu fordern oder zu vollziehen. Das ist legitim.
+Das könnte bedeuten, eine [Trennung](/blog/trennung-verarbeiten-12-schritte) zu fordern oder zu vollziehen. Das ist legitim.
 
 **Wenn es zu lange dauert und du zusammenbrichst**
 

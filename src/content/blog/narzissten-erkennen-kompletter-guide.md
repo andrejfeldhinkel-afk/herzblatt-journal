@@ -69,7 +69,7 @@ Verdeckte Narzissten sind schwerer zu erkennen, aber ihr Muster ist konsistent: 
 
 Der maligne Narzisst hat narzisstische Züge gemischt mit antisozialen Persönlichkeitsmerkmalen und oft auch Sadismus-Tendenzen. Diese Menschen sind manipulativ, haben kaum Empathie und genießen es manchmal, andere zu verletzen. Sie können charming sein, aber es gibt etwas Kaltes in ihren Augen. Sie manipulieren nicht aus Unsicherheit heraus (wie andere Narzissten), sondern weil es ihnen Freude bereitet.
 
-Ein Beispiel: Ein maligner Narzisst weiß genau, dass du Verlustangst hast. Er wird dich bewusst bedrohen, dich mit Trennung zu drohen, nur um zu sehen, wie du dich anstrengst, ihn zu halten. Wenn du leidest, sieht er das – und es interessiert ihn nicht.
+Ein Beispiel: Ein maligner Narzisst weiß genau, dass du Verlustangst hast. Er wird dich bewusst bedrohen, dich mit [Trennung](/blog/trennung-verarbeiten-12-schritte) zu drohen, nur um zu sehen, wie du dich anstrengst, ihn zu halten. Wenn du leidest, sieht er das – und es interessiert ihn nicht.
 
 Dies sind die gefährlichsten Narzissten. Wenn du mit einem malignen Narzissten zusammen bist, ist Vorsicht geboten.
 
@@ -185,7 +185,7 @@ Der Narzisst hört dir zu, aber nur wenn es um ihn geht. Wenn du versuchst, übe
 
 ### Warnsignal 20: Bewunderung ist ein Grundbedürfnis
 
-Der Narzisst braucht ständig Komplimente und Bewunderung. Er/Sie erzählt dir wiederholt von seinen Erfolgen, bis du sagst "Wow, das ist toll". Du lernst schnell, dass deine Aufgabe darin besteht, ihn/sie zu bewundern. Das ist anstrengend. Sehr anstrengend.
+Der Narzisst braucht ständig [Komplimente](/blog/komplimente-fuer-maenner) und Bewunderung. Er/Sie erzählt dir wiederholt von seinen Erfolgen, bis du sagst "Wow, das ist toll". Du lernst schnell, dass deine Aufgabe darin besteht, ihn/sie zu bewundern. Das ist anstrengend. Sehr anstrengend.
 
 ## Warnsignale 21-25: In Konflikten – DARVO, Projektion und Nebulosität
 

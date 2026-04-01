@@ -28,7 +28,7 @@ faq:
   - question: "Kann ich rechtlich erzwingen, dass mein Ex die Wohnung verlässt?"
     answer: "Das hängt vom Mietvertrag ab. Wenn nur einer auf dem Vertrag steht, könnte er Probleme bereiten. Konsultiere einen Anwalt. Bei gemeinsamer Miete ist es kompliziert und braucht rechtliche Beratung."
 ---
-## Die verflixte Situation: Trennung unter einem Dach
+## Die verflixte Situation: [Trennung](/blog/trennung-verarbeiten-12-schritte) unter einem Dach
 
 Die Trennung ist beschlossen. Aber einer von euch muss die Wohnung noch verlassen und hat noch keine neue gefunden. Die nächsten Wochen oder Monate werden hart. Du lebst mit deinem Ex-Partner zusammen, ohne zusammen zu sein.
 

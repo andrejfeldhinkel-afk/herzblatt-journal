@@ -475,7 +475,7 @@ Aber dein Partner CAN unterstützen deine Heilung.
 
 Wenn dein Partner nicht supportiv ist, müssen Sie diese Konversation führen.
 
-Oder ziehen Sie Trennung in Betracht.
+Oder ziehen Sie [Trennung](/blog/trennung-verarbeiten-12-schritte) in Betracht.
 
 Das ist nicht herzlos. Das ist notwendig.
 

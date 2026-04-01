@@ -231,7 +231,7 @@ Diese Grenzen halten dich lebendig. Sie halten die Beziehung lebendig.
 
 ### Wenn die Beziehung endet
 
-Manchmal ist das Grenzensetzen das, was letztendlich zu einer Trennung führt. Das ist nicht ein Fehler. Das ist oft ein Zeichen, dass du bereit bist, dich selbst zu respektieren.
+Manchmal ist das Grenzensetzen das, was letztendlich zu einer [Trennung](/blog/trennung-verarbeiten-12-schritte) führt. Das ist nicht ein Fehler. Das ist oft ein Zeichen, dass du bereit bist, dich selbst zu respektieren.
 
 ## Übungen zum Grenzensetzen trainieren
 

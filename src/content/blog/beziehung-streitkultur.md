@@ -45,7 +45,7 @@ Beispiele:
 - "Wie konnte ich dich je lieben?"
 - "Du machst ALLES falsch"
 
-Verachtung ist nicht nur verletzend – sie ist toxisch und zerstörerisch. Sie ist einer der größten Prädiktoren für Trennung.
+Verachtung ist nicht nur verletzend – sie ist toxisch und zerstörerisch. Sie ist einer der größten Prädiktoren für [Trennung](/blog/trennung-verarbeiten-12-schritte).
 
 ### 2. Kritik (nicht Beschwerde) – Das ständige Angreifen
 

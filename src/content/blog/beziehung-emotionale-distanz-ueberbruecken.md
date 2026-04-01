@@ -183,7 +183,7 @@ Dein Optionen:
 
 **Akzeptieren:** Es ist möglich, dass Dein Partner einfach nicht in der Lage ist, die Nähe zu geben die Du brauchst.
 
-**Trennung:** Manchmal, es ist nicht möglich, Distanz zu überbrücken. Das ist tragisch, aber es passiert.
+**[Trennung](/blog/trennung-verarbeiten-12-schritte):** Manchmal, es ist nicht möglich, Distanz zu überbrücken. Das ist tragisch, aber es passiert.
 
 ## Die Hoffnung
 

@@ -509,7 +509,7 @@ Ein Teil von dir wird wahrscheinlich immer einen Hauch von desorganisiertem Bind
 
 Menschen, die dies getan haben, berichten von:
 - Fähigkeit, Nähe zu genießen ohne Panik
-- Weniger Aktivierung bei Trennung
+- Weniger Aktivierung bei [Trennung](/blog/trennung-verarbeiten-12-schritte)
 - Kommunikation während Konflikten
 - Vertrauen in die Liebe des Partners
 - Weniger Scham und Selbstverurteilung

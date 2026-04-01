@@ -54,6 +54,12 @@ LINK_MAP = {
     "Friendzone": "/blog/friendzone-entkommen-guide",
     "Love Languages": "/blog/love-languages-komplett-guide",
     "Situationship": "/blog/situationship-erkennen-umgehen",
+    "geghostet": "/blog/ghosting-ueberwinden",
+    "Komplimente": "/blog/komplimente-fuer-maenner",
+    "Hinge": "/blog/hinge-guide-deutsch-2026",
+    "Liebesbrief Vorlage": "/blog/liebesbriefe-schreiben-vorlagen",
+    "Trennung": "/blog/trennung-verarbeiten-12-schritte",
+    "retrograde Eifersucht": "/blog/eifersucht-ex-partner-rebecca-syndrom",
 }
 
 # Slugs of ranking articles (don't add self-links)

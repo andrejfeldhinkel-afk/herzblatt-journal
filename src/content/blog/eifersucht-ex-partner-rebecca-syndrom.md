@@ -1,17 +1,17 @@
 ---
-title: "Eifersucht auf die Ex: Rebecca-Syndrom"
-description: "Eifersucht auf die Ex — Dein umfassender Ratgeber auf Herzblatt Journal. Praktische Tipps und Expertenwissen für die Liebe."
-keywords: ["eifersucht auf die ex", "eifersucht", "eifersucht rebecca-syndrom"]
+title: "Rebecca-Syndrom: Eifersucht auf die Ex verstehen & überwinden (2026)"
+description: "Das Rebecca-Syndrom (retrograde Eifersucht) macht dich wahnsinnig? Erfahre woher die Eifersucht auf die Ex kommt und wie du sie in 7 Schritten überwindest."
+keywords: ["rebecca syndrom", "eifersucht auf die ex", "retrograde eifersucht", "eifersucht ex partner", "rebecca syndrom überwinden"]
 date: 2025-12-11
 image: "/images/blog/eifersucht-ex-partner-rebecca-syndrom.webp"
-tags: ["Eifersucht"]
+tags: ["Eifersucht", "Psychologie"]
 faq:
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
-  - question: "Kann ich die Tipps sofort umsetzen?"
-    answer: "Ja, unsere Ratgeber sind praxisnah geschrieben. Du findest konkrete Schritte, die du direkt in deinem Alltag anwenden kannst."
+  - question: "Was ist das Rebecca-Syndrom?"
+    answer: "Das Rebecca-Syndrom (benannt nach dem Roman von Daphne du Maurier) beschreibt krankhafte Eifersucht auf die Ex-Partner des eigenen Partners. Fachlich heißt es retrograde Eifersucht."
+  - question: "Ist Eifersucht auf die Ex normal?"
+    answer: "Ja, retrograde Eifersucht ist weit verbreitet. Problematisch wird es, wenn die Gedanken obsessiv werden und deine aktuelle Beziehung belasten."
+  - question: "Wie überwindet man das Rebecca-Syndrom?"
+    answer: "Durch Selbstreflexion, offene Kommunikation mit dem Partner, bewusstes Stoppen von Vergleichen und ggf. professionelle Unterstützung durch einen Therapeuten."
 draft: false
 author: "sarah-kellner"
 ---

@@ -43,7 +43,7 @@ Diese Reise – von der Verzweiflung nach einer Scheidung zur Fähigkeit, sich w
 
 Es gibt keine festgelegte Zeitleiste, aber es gibt Phasen. Die erste Phase ist Schock und Verleugnung. Das kann zwei Wochen sein oder zwei Monate. Dein Gehirn akzeptiert einfach nicht, dass dies passiert ist. Du erwartest, dass er/sie anruft und sagt „Das war ein Fehler."
 
-Du merkst dich nicht, dass die Beziehung vorbei ist. Du magst körperlich mit der Trennung kooperieren – deine Sachen packst, unterschreibst die Papiere – aber emotional bist du nicht da.
+Du merkst dich nicht, dass die Beziehung vorbei ist. Du magst körperlich mit der [Trennung](/blog/trennung-verarbeiten-12-schritte) kooperieren – deine Sachen packst, unterschreibst die Papiere – aber emotional bist du nicht da.
 
 Dann kommt Trauer und Wut. Das ist die lange Phase. Das kann ein Jahr sein, es kann drei Jahre sein. Du trauert um die Beziehung, die Pläne, die Identität von dir als verheirateter Mensch. Du trauert um die Version deines Partners, die du liebtest und die nicht existiert – oder die existierte, aber nicht mehr. Und du bist wütend – auf deinen Ex, auf dich selbst, auf das Universum.
 

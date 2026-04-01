@@ -38,7 +38,7 @@ Bevor wir anfangen, müssen wir unterscheiden: Es gibt zwei sehr unterschiedlich
 
 ### Szenario 1: Ihr seid getrennt, habt sich nicht mehr gesehen, und jetzt meldet sich der Ex
 
-Das ist das dramatische Szenario. Wochen oder Monate nach der Trennung schreibt der Ex plötzlich. Es gibt Sehnsucht, Nostalgie, vielleicht sogar eine sincere Entschuldigung.
+Das ist das dramatische Szenario. Wochen oder Monate nach der [Trennung](/blog/trennung-verarbeiten-12-schritte) schreibt der Ex plötzlich. Es gibt Sehnsucht, Nostalgie, vielleicht sogar eine sincere Entschuldigung.
 
 Das ist emotional sehr verlockend. Du hast diese Person geliebt. Die guten Erinnerungen sind präsent. Und jetzt besteht Hoffnung...
 

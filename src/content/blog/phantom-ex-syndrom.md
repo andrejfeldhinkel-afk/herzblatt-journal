@@ -77,7 +77,7 @@ Die Heilung hier besteht darin, zu akzeptieren, dass diese Person perfekt für d
 
 ### Typ 2: Der „Ich bereue es" Ex
 
-Die Trennung war deine Idee. Vielleicht hattest du einen guten Grund – emotionaler Missbrauch, sich ändernde Werte, mangelnde gegenseitige Investition. Aber nachdem das Adrenalin der Trennung nachlässt, beginnst du zu zweifeln. „Was wenn ich einen Fehler gemacht habe? Was wenn diese Person ändert? Was wenn ich sie nicht wiederfinde?"
+Die [Trennung](/blog/trennung-verarbeiten-12-schritte) war deine Idee. Vielleicht hattest du einen guten Grund – emotionaler Missbrauch, sich ändernde Werte, mangelnde gegenseitige Investition. Aber nachdem das Adrenalin der Trennung nachlässt, beginnst du zu zweifeln. „Was wenn ich einen Fehler gemacht habe? Was wenn diese Person ändert? Was wenn ich sie nicht wiederfinde?"
 
 Dies ist besonders wahrscheinlich, wenn die andere Person versucht, dich nach der Trennung zu kontaktieren. Ein Text, ein Anruf, ein Treffen. Dies reicht aus, um dein Selbstwertgefühl zur Verfügung zu stellen und dich für deine Entscheidung zu zweifeln.
 

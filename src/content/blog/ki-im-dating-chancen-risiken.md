@@ -29,7 +29,7 @@ Das ist nicht Paranoia. Das ist die moderne Dating-Realität. Und es ist ein kom
 
 Lass uns mit dem Algorithmus selbst beginnen.
 
-Die großen Dating-Apps — Tinder, Bumble, Hinge, Match — verwenden alle Machine Learning Algorithmen, um dir Profile zu zeigen.
+Die großen Dating-Apps — Tinder, Bumble, [Hinge](/blog/hinge-guide-deutsch-2026), Match — verwenden alle Machine Learning Algorithmen, um dir Profile zu zeigen.
 
 Technisch arbeiten diese Algorithmen ungefähr so:
 

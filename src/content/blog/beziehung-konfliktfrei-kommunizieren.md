@@ -327,7 +327,7 @@ Wenn dein Partner Depression, schwere Angst oder andere mentale Gesundheitsprobl
 
 **4. Grundlegend unkompatible Bedürfnisse**
 
-Manchmal habt ihr tiefgreifende Bedürfnisse, die nicht zu lösen sind. Ein Partner braucht Kinder, die anderen nicht. Eine braucht Stadt, die anderen will Land. GFK kann euch das Gespräch führen, aber es könnte zu Trennung führen. Und das ist okay.
+Manchmal habt ihr tiefgreifende Bedürfnisse, die nicht zu lösen sind. Ein Partner braucht Kinder, die anderen nicht. Eine braucht Stadt, die anderen will Land. GFK kann euch das Gespräch führen, aber es könnte zu [Trennung](/blog/trennung-verarbeiten-12-schritte) führen. Und das ist okay.
 
 GFK hilft beim Kommunizieren. Es ist nicht ein Band-Aid für untragbare Situationen.
 

@@ -202,7 +202,7 @@ Das ist, wenn du echte Heilung beginnst.
 
 ## Die Nacht des Zweifels
 
-Es wird eine Nacht geben – wahrscheinlich 2-3 Monate nach der Trennung – wenn der Zweifel kommt. "War das wirklich so schlecht? Bin ich auf ihn zu hart gewesen? Könnte ich ihn eine Chance geben?"
+Es wird eine Nacht geben – wahrscheinlich 2-3 Monate nach der [Trennung](/blog/trennung-verarbeiten-12-schritte) – wenn der Zweifel kommt. "War das wirklich so schlecht? Bin ich auf ihn zu hart gewesen? Könnte ich ihn eine Chance geben?"
 
 Dies ist dein Gehirn, die sucht nach Löschung. Das sind suchend nach das chemische Hoch, das der Missbrauch/Liebe-Zyklus gab.
 

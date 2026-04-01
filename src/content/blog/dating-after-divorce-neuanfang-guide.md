@@ -675,7 +675,7 @@ Es ist nicht ihre Stelle, zu urteilen. Es ist ihre Stelle zu unterstützen.
 
 ### Rote Flagge 5: Sie haben selbst nicht ihre Vergangenheit verarbeitet
 
-Wenn sie eine Scheidung oder Trennung auch hatte, haben sie verarbeitet? Oder sind sie noch wütend? Sind sie immer noch schlecht über ihren Ex?
+Wenn sie eine Scheidung oder [Trennung](/blog/trennung-verarbeiten-12-schritte) auch hatte, haben sie verarbeitet? Oder sind sie noch wütend? Sind sie immer noch schlecht über ihren Ex?
 
 Wenn SIE nicht verarbeitet haben, werden sie nicht in der Lage sein, dich zu unterstützen, wenn du verarbeitest.
 

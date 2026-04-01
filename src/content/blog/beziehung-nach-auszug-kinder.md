@@ -390,7 +390,7 @@ Wenn das der Fall ist, dann ist es wichtig, die Scheidung respektvoll zu handhab
 
 Der Fokus sollte auf gegenseitiger Achtung und fairer Abwicklung sein.
 
-Und denk dran: Eine Trennung ist nicht das Ende deines Lebens. Manche Menschen starten nach einer Scheidung ein ganz neues, erfülltes Leben.
+Und denk dran: Eine [Trennung](/blog/trennung-verarbeiten-12-schritte) ist nicht das Ende deines Lebens. Manche Menschen starten nach einer Scheidung ein ganz neues, erfülltes Leben.
 
 Das ist auch eine Chance.
 

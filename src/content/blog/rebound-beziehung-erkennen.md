@@ -23,7 +23,7 @@ faq:
 ---
 ## Was ist eine Rebound-beziehung wirklich?
 
-Eine Rebound-Beziehung ist nicht einfach eine Beziehung, die schnell nach einer Trennung anfängt. Es geht um die emotionalen Gründe. Eine Rebound ist eine Beziehung, die entstanden ist, nicht weil du eine Person liebst, sondern weil du das Schmerz und die Einsamkeit vermeiden möchtest.
+Eine Rebound-Beziehung ist nicht einfach eine Beziehung, die schnell nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte) anfängt. Es geht um die emotionalen Gründe. Eine Rebound ist eine Beziehung, die entstanden ist, nicht weil du eine Person liebst, sondern weil du das Schmerz und die Einsamkeit vermeiden möchtest.
 
 In einer Rebound-Beziehung suchst du unbewusst jemanden, der den Schmerz der Trennung lindern soll. Du suchst Ablenkung, Vergessenheit, eine emotionale Erste Hilfe. Das ist nicht fair für die andere Person und meist auch nicht fair für dich selbst.
 

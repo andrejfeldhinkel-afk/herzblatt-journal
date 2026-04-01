@@ -236,7 +236,7 @@ Und wenn nicht? Dann weißt du zumindest, dass das tiefere ist als Kilo.
 
 Dann können ihr ehrlich entscheiden ob das etwas ist das ihr zusammen lösen könnt oder nicht.
 
-Und die Entscheidung kann für beide liebevoll sein, auch wenn sie Trennung ist.
+Und die Entscheidung kann für beide liebevoll sein, auch wenn sie [Trennung](/blog/trennung-verarbeiten-12-schritte) ist.
 ## Weiterlesen
 
 - [Beziehung und Schlafgewohnheiten: Getrennt schlafen](/blog/beziehung-und-schlafgewohnheiten/)

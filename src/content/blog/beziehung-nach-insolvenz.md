@@ -151,7 +151,7 @@ Manchmal sind die finanziellen und emotionalen Lasten zu groß. Wenn:
 - Ein Partner weigert sich, Verantwortung zu übernehmen
 - Die mentale Gesundheit von einem Partner ist ernsthaft gefährdet
 
-Dann ist möglicherweise Trennung die gesundere Option.
+Dann ist möglicherweise [Trennung](/blog/trennung-verarbeiten-12-schritte) die gesundere Option.
 
 ## Zusammenfassung: Konkrete Schritte
 

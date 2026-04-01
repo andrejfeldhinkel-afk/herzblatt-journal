@@ -31,7 +31,7 @@ Das ist die Macht von Lachen.
 
 Ich habe Paare gesehen, die sich außerhalb der Therapie scheiden wollten, dann anfangen, wieder zusammen zu lachen, und die ganze Dynamik ändert sich. Nicht, weil die Probleme verschwunden sind. Sondern weil Lachen sagt: "Wir sind in diesem zusammen, und es gibt noch Freude hier."
 
-Lachen ist nicht ein Extra in einer Beziehung. Es ist fundamental. Es ist das Gegenmittel zu Bitternis, Distanz und Trennung.
+Lachen ist nicht ein Extra in einer Beziehung. Es ist fundamental. Es ist das Gegenmittel zu Bitternis, Distanz und [Trennung](/blog/trennung-verarbeiten-12-schritte).
 
 ## Was passiert biologisch, wenn du lachst?
 

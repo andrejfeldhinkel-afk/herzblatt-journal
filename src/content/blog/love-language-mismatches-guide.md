@@ -45,7 +45,7 @@ Aber das ist nicht wahr. Liebe wird in verschiedenen Dialekten gesprochen. Und w
 
 Diese Menschen brauchen verbale Bestätigung. Sie brauchen zu hören, nicht nur zu sehen oder zu spüren, dass sie geliebt werden.
 
-Das sind nicht oberflächliche Komplimente — "Du siehst schön aus heute." Das sind echte, spezifische, echte Worte:
+Das sind nicht oberflächliche [Komplimente](/blog/komplimente-fuer-maenner) — "Du siehst schön aus heute." Das sind echte, spezifische, echte Worte:
 
 "Ich liebe deine Geduld und wie du mit Herausforderungen umgehst."
 

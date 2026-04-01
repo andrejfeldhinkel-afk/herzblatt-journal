@@ -403,7 +403,7 @@ Langstreckenbeziehungen können schwierig sein, aber wenn Kommunikation stark is
 
 ## Die Wissenschaft dahinter: Was Forschung über Kommunikation sagt
 
-Es gibt viel wissenschaftliche Forschung über Beziehungskommunikation. Ein Forscher namens John Gottman untersucht Paare für Jahrzehnte und identifizierte Muster, die zu Trennung führen.
+Es gibt viel wissenschaftliche Forschung über Beziehungskommunikation. Ein Forscher namens John Gottman untersucht Paare für Jahrzehnte und identifizierte Muster, die zu [Trennung](/blog/trennung-verarbeiten-12-schritte) führen.
 
 Die vier Reiter, die ich erwähnte – Kritik, Verachtung, Defensivität, Blockade – sind stark prädiktiv für Trennung. Wenn ein Paar diese Muster hat, ist es wahrscheinlich, dass sie sich trennen werden.
 

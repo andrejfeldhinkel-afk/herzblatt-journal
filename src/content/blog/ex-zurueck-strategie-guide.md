@@ -16,7 +16,7 @@ faq:
 draft: false
 ---
 
-Deine Ex zu gewinnen ist eine der schwierigsten emotionalen Aufgaben, die es gibt. Der Schmerz der Trennung ist frisch, du denkst an sie ständig, und der einzige Gedanke ist: Wie bekomme ich sie zurück?
+Deine Ex zu gewinnen ist eine der schwierigsten emotionalen Aufgaben, die es gibt. Der Schmerz der [Trennung](/blog/trennung-verarbeiten-12-schritte) ist frisch, du denkst an sie ständig, und der einzige Gedanke ist: Wie bekomme ich sie zurück?
 
 Das erste, was du wissen musst: Es ist möglich. Viele Paare geben sich eine zweite Chance — und manchmal funktioniert die Beziehung sogar besser als zuvor. Aber es erfordert eine klare Strategie, echte Selbstreflexion und harte Arbeit.
 

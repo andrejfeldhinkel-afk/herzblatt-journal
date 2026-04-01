@@ -98,7 +98,7 @@ Stelle klare, konkrete Fragen:
 
 Das letzte ist vielleicht die wichtigste Frage. Die Lüge ist bereits passiert und kann nicht ungeschehen gemacht werden. Es geht jetzt darum: Kann diese Beziehung repariert werden? Kann Vertrauen wiederhergestellt werden?
 
-## Reparatur oder Trennung — Die schwierige Entscheidung
+## Reparatur oder [Trennung](/blog/trennung-verarbeiten-12-schritte) — Die schwierige Entscheidung
 
 Nach einer großen Lüge oder nach einem Muster von Lügen musst du entscheiden: Kannst du das verzeihen und reparieren, oder ist die Beziehung vorbei?
 

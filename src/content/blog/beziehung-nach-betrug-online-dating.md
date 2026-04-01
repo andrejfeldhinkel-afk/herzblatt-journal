@@ -62,7 +62,7 @@ Bevor wir in Vertrauensbruch gehen, lassen Sie uns verstehen: Warum machen Mensc
 
 **Grund 1: Das Bedürfnis nach Aufmerksamkeit und Validierung**
 
-Dein Partner fühlt sich in der Beziehung weniger begehrt. Statt darüber zu sprechen, sucht er/sie externe Validierung. Eine Dating-App gibt das: Matches, Komplimente, das Gefühl, begehrt zu sein.
+Dein Partner fühlt sich in der Beziehung weniger begehrt. Statt darüber zu sprechen, sucht er/sie externe Validierung. Eine Dating-App gibt das: Matches, [Komplimente](/blog/komplimente-fuer-maenner), das Gefühl, begehrt zu sein.
 
 **Grund 2: Unbewusste Flucht aus der Beziehung**
 
@@ -209,7 +209,7 @@ Zeichen, dass die Heilung fehlschlägt:
 
 In diesen Fällen ist es manchmal am liebevollsten, zu gehen.
 
-Eine Trennung ist nicht ein Versagen. Es ist eine Erkenntnis, dass diese Beziehung nicht gesund ist.
+Eine [Trennung](/blog/trennung-verarbeiten-12-schritte) ist nicht ein Versagen. Es ist eine Erkenntnis, dass diese Beziehung nicht gesund ist.
 
 ## Teil 8: Wie du das nächste Mal verhindert
 

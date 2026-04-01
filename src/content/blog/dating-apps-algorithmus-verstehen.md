@@ -116,7 +116,7 @@ Das ist wertvoll, wenn:
 
 Bumble nutzt ein ähnliches System wie Tinder – sie nennen es nicht den ELO-Score, aber das Konzept ist das gleiche: Eine Desirability-Bewertung basierend auf, wie oft Leute dein Profil mögen.
 
-Hinge geht einen anderen Weg. Statt ein einfaches Swiping-System, fokussiert Hinge auf „Intentional Dating". Du magst nicht einfach irgendein Profil – du interagierst mit bestimmten Dingen (ein Foto kommentieren, eine Frage beantworten).
+[Hinge](/blog/hinge-guide-deutsch-2026) geht einen anderen Weg. Statt ein einfaches Swiping-System, fokussiert Hinge auf „Intentional Dating". Du magst nicht einfach irgendein Profil – du interagierst mit bestimmten Dingen (ein Foto kommentieren, eine Frage beantworten).
 
 Das verändert den Algorithmus:
 

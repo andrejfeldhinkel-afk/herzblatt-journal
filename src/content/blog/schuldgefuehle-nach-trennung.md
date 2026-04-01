@@ -24,7 +24,7 @@ faq:
 
 Du hast dich getrennt — oder wurdest verlassen — und jetzt frisst dich die Schuld von innen auf. Dieses nagende Gefühl, etwas falsch gemacht zu haben. Die Frage, ob du es hättest retten können. Die Bilder von deinem Ex, der weint, während du deine Sachen packst.
 
-Schuldgefühle nach einer Trennung gehören zu den quälendsten Emotionen überhaupt. Sie rauben dir den Schlaf, vergiften deine Gedanken und halten dich davon ab, nach vorne zu schauen. Aber sie lassen sich überwinden. Nicht indem du sie unterdrückst, sondern indem du sie verstehst und verarbeitest.
+Schuldgefühle nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte) gehören zu den quälendsten Emotionen überhaupt. Sie rauben dir den Schlaf, vergiften deine Gedanken und halten dich davon ab, nach vorne zu schauen. Aber sie lassen sich überwinden. Nicht indem du sie unterdrückst, sondern indem du sie verstehst und verarbeitest.
 
 ## Warum entstehen Schuldgefühle nach einer Trennung?
 

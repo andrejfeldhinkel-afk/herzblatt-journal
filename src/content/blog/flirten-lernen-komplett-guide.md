@@ -89,7 +89,7 @@ Deine Aufgabe diese Woche: Übe Banter mit Fremden. Wenn ein Barista dir sagt, d
 
 ## Die Macht des Kompliments beim Flirten
 
-Komplimente sind eines der mächtigsten Werkzeuge beim Flirten, aber viele Menschen nutzen sie falsch. Das größte Fehler ist, oberflächliche oder manipulative Komplimente zu geben. "Du hast schöne Augen" ist nicht besonders kreativ oder bedeutend.
+[Komplimente](/blog/komplimente-fuer-maenner) sind eines der mächtigsten Werkzeuge beim Flirten, aber viele Menschen nutzen sie falsch. Das größte Fehler ist, oberflächliche oder manipulative Komplimente zu geben. "Du hast schöne Augen" ist nicht besonders kreativ oder bedeutend.
 
 Gute Komplimente sind spezifisch, authentisch und beobachten Details, die die Person selbst gewählt hat. Statt "Du bist hübsch", sag "Die Farbe deines Pullovers bringt deine Augen zum Leuchten" oder "Der Weg, wie du über deine Leidenschaft sprichst, ist anziehend". Diese Komplimente zeigen, dass du die Person wirklich beobachtest.
 

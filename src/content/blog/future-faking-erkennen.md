@@ -46,7 +46,7 @@ Future Faking ist eine psychologische Manipulationstechnik, bei der jemand dir e
 
 Das Heimtückische daran ist dies: Das Versprechende merkt es vielleicht nicht mal selbst. Es kann sein, dass er im Moment wirklich meint, was er sagt. Aber sein Verhalten stimmt nicht mit seinen Worten überein. Und das ist das verräterische Zeichen.
 
-Future Faking unterscheidet sich von anderen Manipulationsmustern. Es ist nicht dasselbe wie Love Bombing, obwohl die beiden oft zusammen auftreten. Beim Love Bombing bombardiert dich jemand mit Aufmerksamkeit und Zuneigung, um dich zu erobern. Future Faking ist das emotionale Versprechen, das diesen Rausch intensiviert: "Nicht nur liebe ich dich jetzt, ich werde dich auch in unserer gemeinsamen Zukunft lieben."
+Future Faking unterscheidet sich von anderen Manipulationsmustern. Es ist nicht dasselbe wie [Love Bombing](/blog/love-bombing-erkennen-schuetzen), obwohl die beiden oft zusammen auftreten. Beim Love Bombing bombardiert dich jemand mit Aufmerksamkeit und Zuneigung, um dich zu erobern. Future Faking ist das emotionale Versprechen, das diesen Rausch intensiviert: "Nicht nur liebe ich dich jetzt, ich werde dich auch in unserer gemeinsamen Zukunft lieben."
 
 Die Psychologin Dr. Janis Spring hat dieses Muster gut beschrieben: Menschen, die Future Faking betreiben, versprechen nicht nur die gegenwärtige [beziehung](/blog/adhs-und-beziehung-komplett-guide/) — sie versprechen die Erfüllung aller deiner Sehnsüchte. Und in den ersten Wochen oder Monaten glaubst du, dass du sie endlich gefunden hast.
 
@@ -286,7 +286,7 @@ Baue dein Leben auf deine eigenen Träume und deine eigenen Fähigkeiten auf. Er
 
 ### Schaue auf [Red Flags](/blog/dating-red-flags-maenner-erkennen) im Dating
 
-Future Faking kommt selten allein. Es ist oft Teil eines größeren Musters von Manipulation oder emotionaler Unvereinfbarkeit. Lerne, andere Red Flags zu erkennen — schnelle Beziehungstempo, Gaslighting, Wut, Mangel an Eigenverantwortung, Kontrolliertes Verhalten.
+Future Faking kommt selten allein. Es ist oft Teil eines größeren Musters von Manipulation oder emotionaler Unvereinfbarkeit. Lerne, andere Red Flags zu erkennen — schnelle Beziehungstempo, [Gaslighting](/blog/gaslighting-komplett-guide), Wut, Mangel an Eigenverantwortung, Kontrolliertes Verhalten.
 
 Ein Mensch mit vielen Red Flags wird wahrscheinlich auch Future Faking betreiben.
 

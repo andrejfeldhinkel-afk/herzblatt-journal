@@ -87,7 +87,7 @@ Es gibt verschiedene Apps mit verschiedenen Vibe:
 
 **Bumble** gibt Frauen die Kontrolle – nur Frauen können den ersten Schritt machen. Das filtert automatisch viele problematische Männer raus (die nicht interessiert sind, wenn die Frau zuerst schreiben muss). Für viele Frauen ist Bumble darum deutlich besser als Tinder.
 
-**Hinge** konzentriert sich auf tiefere Profile und weniger oberflächliches Swipen. Es dauert länger, Matches zu bekommen, aber die Qualität ist oft höher.
+**[Hinge](/blog/hinge-guide-deutsch-2026)** konzentriert sich auf tiefere Profile und weniger oberflächliches Swipen. Es dauert länger, Matches zu bekommen, aber die Qualität ist oft höher.
 
 **Tinder** ist das Arbeitsmaul – viele User, viele Matches. Aber auch viel Rauschen.
 

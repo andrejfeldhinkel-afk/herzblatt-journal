@@ -76,7 +76,7 @@ Das ist romantisch und weniger bekannt als die Altstadt.
 
 ### Dating-Apps
 
-Bumble und Hinge funktionieren in Dresden. Tinder auch, aber für tiefere Beziehungen sind die anderen besser.
+Bumble und [Hinge](/blog/hinge-guide-deutsch-2026) funktionieren in Dresden. Tinder auch, aber für tiefere Beziehungen sind die anderen besser.
 
 In Deinem Profil: Erwähne, dass Du die Stadt liebst. Oder schreib über Deine Lieblingsorte. Das zieht Menschen an, die Deine Werte teilen.
 

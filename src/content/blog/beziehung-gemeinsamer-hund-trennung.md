@@ -38,7 +38,7 @@ Der Hund war wahrscheinlich mit euch zusammen aufgewachsen oder zumindest durch 
 
 ### Die Schuldgefühle – Sie sind real und verstehen
 
-Es ist normal, sich schuldig zu fühlen: "Wie kann ich diesen Hund verlassen? Er vertraut mir absolut. Ich habe mich um ihn gekümmert." Oder: "Der Hund leidet unter der Trennung. Was tue ich ihm an?" Diese Gefühle sind nicht nur verständlich – sie zeigen, dass Sie Mitgefühl haben.
+Es ist normal, sich schuldig zu fühlen: "Wie kann ich diesen Hund verlassen? Er vertraut mir absolut. Ich habe mich um ihn gekümmert." Oder: "Der Hund leidet unter der [Trennung](/blog/trennung-verarbeiten-12-schritte). Was tue ich ihm an?" Diese Gefühle sind nicht nur verständlich – sie zeigen, dass Sie Mitgefühl haben.
 
 Aber diese Schuldgefühle sollten euch nicht in ungesunde oder unfaire Entscheidungen treiben, die am Ende niemandem helfen.
 

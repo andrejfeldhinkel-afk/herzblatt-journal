@@ -181,7 +181,7 @@ Das könnte heißen:
 - Dein Partner erforscht es mit dir (ideal)
 - Dein Partner sagt „nein, aber ich verstehe, dass das wichtig ist" (okay, wenn du damit leben kannst)
 - Offene Beziehung oder ein Kompromiss (manchmal richtig, manchmal nicht)
-- Trennung (manchmal notwendig)
+- [Trennung](/blog/trennung-verarbeiten-12-schritte) (manchmal notwendig)
 
 All diese Optionen sind legitimate. Es hängt ab, was richtig für euch beide ist.
 

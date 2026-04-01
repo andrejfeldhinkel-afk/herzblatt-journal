@@ -98,7 +98,7 @@ Schlafmangel macht Liebeskummer 10x schlimmer. Eine Nacht richtig schlafen kann 
 
 Das ist nicht die Zeit, um Einzelgänger zu sein. Das ist die Zeit, um dich von Menschen umgeben zu lassen, die dich halten.
 
-Das bedeutet nicht, dass du ständig über die Trennung reden musst. Das ist nervig und macht es schlimmer. Es bedeutet: Sei mit Menschen zusammen. Lass sie dich ins Kino schleppen. Lass dich zum Essen einladen. Sei mit Menschen, die dich lieben.
+Das bedeutet nicht, dass du ständig über die [Trennung](/blog/trennung-verarbeiten-12-schritte) reden musst. Das ist nervig und macht es schlimmer. Es bedeutet: Sei mit Menschen zusammen. Lass sie dich ins Kino schleppen. Lass dich zum Essen einladen. Sei mit Menschen, die dich lieben.
 
 Isolation ist dein größter Feind beim Liebeskummer. Isolierung füttert die Depression und das Grübeln.
 

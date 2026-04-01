@@ -155,6 +155,6 @@ Du wirst durch das kommen. Nicht heil. Aber ganz. Nicht trotz der Abtreibung, so
 ## Das könnte dich auch interessieren
 
 - [Dating nach Abtreibung: Emotional und körperlich heilen](/blog/dating-nach-abtreibung/)
-- [Dating nach einer Trennung: Wann bist du wirklich bereit?](/blog/dating-nach-trennung/)
+- [Dating nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte): Wann bist du wirklich bereit?](/blog/dating-nach-trennung/)
 - [Dating nach einer Gewaltbeziehung](/blog/dating-nach-gewaltbeziehung/)
 - [Dating nach einer Freundschaft](/blog/dating-nach-freundschaft/)

@@ -506,7 +506,7 @@ Marc und Pablo waren 8 Jahre zusammen, als sie sich trennten.
 
 "Ich bin nicht davon ausgegangen, dass wir getrennt sein würden," sagt Marc. "Aber wir waren beide unglücklich und wir wussten nicht, wie wir es ändern können."
 
-Die Trennung war traurig, aber es war nicht tragisch. Sie sind immer noch Freunde. "Ich liebe ihn immer noch," sagt Marc. "Aber wir sind nicht romantische Partner. Wir sind Freunde. Das ist auch wertvoll."
+Die [Trennung](/blog/trennung-verarbeiten-12-schritte) war traurig, aber es war nicht tragisch. Sie sind immer noch Freunde. "Ich liebe ihn immer noch," sagt Marc. "Aber wir sind nicht romantische Partner. Wir sind Freunde. Das ist auch wertvoll."
 
 ### Stephens und Justins Geschichte
 

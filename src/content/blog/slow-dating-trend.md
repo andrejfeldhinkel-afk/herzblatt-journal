@@ -133,7 +133,7 @@ Mehrere neue Apps haben sich auf Slow Dating spezialisiert:
 
 ### Hinge – „Die Dating-App für Menschen, die Beziehungen wollen"
 
-Hinge begrenzt Swipes absichtlich und belohnt Nachrichten statt Swipes. Sie können pro Tag nur etwa 10 Matches haben, was Sie zwingt, selektiver zu sein. Die App verbietet bewusst bestimmte Typen von Bildern (nur Gesicht, bitte keine Bikini-Fotos), um die Tiefe zu fördern.
+[Hinge](/blog/hinge-guide-deutsch-2026) begrenzt Swipes absichtlich und belohnt Nachrichten statt Swipes. Sie können pro Tag nur etwa 10 Matches haben, was Sie zwingt, selektiver zu sein. Die App verbietet bewusst bestimmte Typen von Bildern (nur Gesicht, bitte keine Bikini-Fotos), um die Tiefe zu fördern.
 
 ### Bumble BFF – Für Freundschaften mit Slow-Dating-Prinzipien
 

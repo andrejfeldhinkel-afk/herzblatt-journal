@@ -154,6 +154,6 @@ Verwandte Artikel: [Neuanfang mit 40: Alles ist möglich — und so geht es](/bl
 
 - [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
 - [Dating nach 30 als Frau: Warum es besser wird als du denkst](/blog/dating-nach-30-als-frau/)
-- [Erste eigene Wohnung nach Trennung: Der Neustart-Guide](/blog/erste-wohnung-nach-trennung/)
+- [Erste eigene Wohnung nach [Trennung](/blog/trennung-verarbeiten-12-schritte): Der Neustart-Guide](/blog/erste-wohnung-nach-trennung/)
 - [Freundschaft nach Trennung: Geht das?](/blog/freundschaft-nach-trennung/)
 - [Gemeinsame Freunde nach der Trennung: Wie geht das?](/blog/gemeinsame-freunde-nach-trennung/)

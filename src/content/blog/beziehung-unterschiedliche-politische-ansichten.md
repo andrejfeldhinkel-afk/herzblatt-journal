@@ -968,7 +968,7 @@ Wenn dein Partner etwas tut, dass du nicht unterstützt, aber das ist wichtig zu
 
 Das zeigt Respekt, auch wenn du disagree.
 
-**Taktik 4: Die Freunde-Trennung**
+**Taktik 4: Die Freunde-[Trennung](/blog/trennung-verarbeiten-12-schritte)**
 
 Wenn möglich: Habt unterschiedliche politische Freundes-Gruppen.
 

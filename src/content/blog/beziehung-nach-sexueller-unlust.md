@@ -199,7 +199,7 @@ Aber offene Kommunikation ist wichtig. Spreche darüber, was funktioniert, was n
 
 **11. Adressiere Konflikt:** Wenn es ungelöste Konflikte gibt, adressiere sie. Arbeite an deinen Kampf-Stilen. Lerne, besser zu kommunizieren. Übe Vergebung.
 
-Du kannst nicht sexuell erregt werden, wenn du auf deinen Partner wütend bist. Die emotionale Trennung blockiert körperliche Nähe.
+Du kannst nicht sexuell erregt werden, wenn du auf deinen Partner wütend bist. Die emotionale [Trennung](/blog/trennung-verarbeiten-12-schritte) blockiert körperliche Nähe.
 
 **12. Versuche Paar-Therapie:** Manchmal hilft ein Profi. Ein Sex-Therapeut oder ein Paar-Therapeut kann dir helfen, diese Probleme zu umgehen mit.
 

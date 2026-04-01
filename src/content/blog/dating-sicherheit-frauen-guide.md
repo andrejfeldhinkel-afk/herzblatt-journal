@@ -72,7 +72,7 @@ Warum? Ein vollständiges Profil mit allerdings Informationen kann jemandem helf
 
 **Wähle nur Plattformen mit Verifizierung:**
 
-Hinge und Bumble haben Verifizierungs-Systeme. Tinder auch. Nutze diese.
+[Hinge](/blog/hinge-guide-deutsch-2026) und Bumble haben Verifizierungs-Systeme. Tinder auch. Nutze diese.
 
 **Überprüfe das Profil auf Rote Flaggen:**
 

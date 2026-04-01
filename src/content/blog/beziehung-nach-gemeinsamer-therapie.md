@@ -148,7 +148,7 @@ Manchmal arbeiten Paare in der Therapie wirklich hart daran, ihre Beziehung zu v
 
 Das klingt wie Scheitern. Ist es aber nicht.
 
-Ein Paar, das in Therapie sitzt und merkt, dass eine Trennung die bessere Option ist, hat auch etwas erreicht: Klarheit. Verständnis füreinander. Und oft die Fähigkeit, die Trennung nicht als Schlachtfeld, sondern als respektvolle Lösung zu gestalten.
+Ein Paar, das in Therapie sitzt und merkt, dass eine [Trennung](/blog/trennung-verarbeiten-12-schritte) die bessere Option ist, hat auch etwas erreicht: Klarheit. Verständnis füreinander. Und oft die Fähigkeit, die Trennung nicht als Schlachtfeld, sondern als respektvolle Lösung zu gestalten.
 
 Therapeuten unterstützen Paare auch bei dieser Entscheidung. "Ja, eine Trennung kann auch das richtige Ergebnis von Paartherapie sein."
 

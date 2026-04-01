@@ -29,7 +29,7 @@ Ein Grund ist kulturell: Uns wurde beigebracht, dass über Geld zu reden "unroma
 
 Das ist Unsinn. Und es zerstört Beziehungen.
 
-Hier ist der harte Realismus: Geld ist nicht die Wurzel aller romantischen Konflikte, aber es ist sehr nahe dran. Finanzielle Unstimmigkeit führt zu Stress, Resentment, und schließlich Trennung. Ich würde sogar sagen: Finanzielle Missverständnisse sind eine Top-3-Ursache für Beziehungs-Probleme, neben Mangel an Kommunikation und sexueller Unvereinbarkeit.
+Hier ist der harte Realismus: Geld ist nicht die Wurzel aller romantischen Konflikte, aber es ist sehr nahe dran. Finanzielle Unstimmigkeit führt zu Stress, Resentment, und schließlich [Trennung](/blog/trennung-verarbeiten-12-schritte). Ich würde sogar sagen: Finanzielle Missverständnisse sind eine Top-3-Ursache für Beziehungs-Probleme, neben Mangel an Kommunikation und sexueller Unvereinbarkeit.
 
 Aber hier ist die gute Nachricht: Mit Offenheit über Geld zu reden ist nicht schwer. Es ist unangenehm, ja. Aber es ist nicht kompliziert.
 

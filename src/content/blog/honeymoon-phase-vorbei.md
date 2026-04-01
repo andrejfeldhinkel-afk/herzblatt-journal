@@ -310,7 +310,7 @@ Lass mich versuchen, es für dich zu unterstützen.
 
 **Aus der Liebe rausfallen ist:**
 
-- Ein tieferes Missverstehen oder eine Trennung. Es ist nicht nur, dass die Intensität weniger ist. Es ist, dass die Verbindung nicht mehr da ist.
+- Ein tieferes Missverstehen oder eine [Trennung](/blog/trennung-verarbeiten-12-schritte). Es ist nicht nur, dass die Intensität weniger ist. Es ist, dass die Verbindung nicht mehr da ist.
 - Du magst deinen Partner grundsätzlich nicht. Du wünschst dir, dass dein Leben ohne diese Person einfacher wäre.
 - Du kannst nicht über tiefe Dinge mit ihnen sprechen, weil du nicht glaubst, dass sie dich wirklich verstehen oder es ihm nicht egal ist.
 - Sex oder körperliche Nähe fühlt sich eher wie eine Pflicht an als wie eine Verbindung. Du möchtest nicht mit dieser Person körperlich intim sein.

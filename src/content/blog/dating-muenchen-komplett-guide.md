@@ -251,7 +251,7 @@ München ist digital aktiv, aber nicht so sehr wie Berlin. Die meisten Menschen 
 - **Parship & ElitePartner:** Weit verbreitet, für ernstzunehmende Beziehungen
 - **Tinder:** Ja, aber mit ernsterer Nutzung als in Berlin
 - **OkCupid:** Für intelligente, progressivere Menschen
-- **Hinge:** Für Relationship-oriented Dating
+- **[Hinge](/blog/hinge-guide-deutsch-2026):** Für Relationship-oriented Dating
 
 **München-spezifische Strategien:**
 

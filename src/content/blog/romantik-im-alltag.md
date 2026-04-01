@@ -48,7 +48,7 @@ Forschung zeigt: Paare, die glücklich bleiben, pflegen ihre [beziehung](/blog/a
 
 **6. Überraschungssnack.** Du weißt, dass sie diesen einen Schokoriegel liebt? Bring ihn einfach mit. Kleine Überraschungen zeigen: Ich kenne dich.
 
-**7. Komplimente, die tiefer gehen.** Nicht nur „Du siehst gut aus", sondern „Ich bewundere, wie du mit dieser Situation umgegangen bist" oder „Dein Lachen macht jeden Raum heller."
+**7. [Komplimente](/blog/komplimente-fuer-maenner), die tiefer gehen.** Nicht nur „Du siehst gut aus", sondern „Ich bewundere, wie du mit dieser Situation umgegangen bist" oder „Dein Lachen macht jeden Raum heller."
 
 ### Am Abend
 

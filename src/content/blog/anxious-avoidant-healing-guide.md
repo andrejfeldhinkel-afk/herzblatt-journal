@@ -401,7 +401,7 @@ Andere Paare schaffen es durch und kommen stärker heraus.
 
 Der Unterschied ist oft: Glaube. Beide Partner müssen GLAUBEN, dass es besser wird, selbst wenn es gerade schlecht aussieht.
 
-Ohne diesen Glauben wird eine Heilungsreise zu einer Trennung.
+Ohne diesen Glauben wird eine Heilungsreise zu einer [Trennung](/blog/trennung-verarbeiten-12-schritte).
 
 Mit diesem Glauben wird es zu einer Transformation.
 

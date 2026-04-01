@@ -298,7 +298,7 @@ Köln ist digital aktiv. Dating-Apps sind weit verbreitet.
 - **Tinder:** Am weitesten verbreitet
 - **Bumble:** Wachsend, bei Frauen beliebt
 - **OkCupid:** Für intelligente, progressive Menschen
-- **Hinge:** Für Relationship-Dating
+- **[Hinge](/blog/hinge-guide-deutsch-2026):** Für Relationship-Dating
 - **Parship:** Für ernstzunehmende Partnersuche
 
 **Köln-spezifische Strategien:**

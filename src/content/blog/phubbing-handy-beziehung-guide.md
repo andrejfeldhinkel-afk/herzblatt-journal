@@ -141,7 +141,7 @@ Normale Handy-Nutzung:
 
 Die Forschung ist besorgniserregend. Eine Studie in der Zeitschrift "Computers in Human Behavior" zeigte, dass Phubbing mit Depressionen und Stress verbunden ist. Menschen, die phubbed werden, berichten von niedrigeren Zufriedenheit mit ihrer Beziehung.
 
-Ein weitere Studie fand, dass häufiges Phubbing ein Prädiktor für Trennung ist. Nicht "ein Faktor," sondern ein "Prädiktor." Das bedeutet, dass es wahrscheinlich ist, dass die Beziehung endet, wenn Phubbing ein Problem ist.
+Ein weitere Studie fand, dass häufiges Phubbing ein Prädiktor für [Trennung](/blog/trennung-verarbeiten-12-schritte) ist. Nicht "ein Faktor," sondern ein "Prädiktor." Das bedeutet, dass es wahrscheinlich ist, dass die Beziehung endet, wenn Phubbing ein Problem ist.
 
 Dies ist nicht Hype. Dies ist Wissenschaft.
 

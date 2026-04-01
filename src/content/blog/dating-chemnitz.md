@@ -80,7 +80,7 @@ Die **Kunsthofgalerie** zeigen zeitgenössische Werke. Perfekt für intellektuel
 
 Chemnitz hat sich dramatisch verändert. Mit Kulturhauptstadt-Status und neuer Kunstszene zieht es Kreative an.
 
-**Tinder** ist üblich. **Bumble** ist auch verbreitet. **Hinge** gewinnt unter seriöseren Singles an Boden.
+**Tinder** ist üblich. **Bumble** ist auch verbreitet. **[Hinge](/blog/hinge-guide-deutsch-2026)** gewinnt unter seriöseren Singles an Boden.
 
 Hilfreiche Ressourcen findest du bei Bundesamt für Sicherheit in der Informationstechnik: [Bundesamt für Sicherheit in der Informationstechnik](https://www.bsi.bund.de/)
 

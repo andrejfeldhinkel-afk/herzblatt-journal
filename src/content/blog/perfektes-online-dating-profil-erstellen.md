@@ -17,7 +17,7 @@ faq:
     answer: "Es empfiehlt sich, dein Profil mindestens monatlich zu überarbeiten. Wenn du weniger Matches bekommst als am Anfang, ist es Zeit für neue Fotos oder eine andere Bio. Der Algorithmus bevorzugt auch aktive Profile – wenn du regelmäßig dein Profil aktualisierst, erhältst du mehr Sichtbarkeit."
 ---
 
-# Das perfekte Dating-Profil erstellen: Der komplette Guide für Tinder, Bumble & Hinge
+# Das perfekte Dating-Profil erstellen: Der komplette Guide für Tinder, Bumble & [Hinge](/blog/hinge-guide-deutsch-2026)
 
 Du hast die Dating-App heruntergeladen. Dein Herz klopft vor Aufregung. Aber dann starrt du auf einen leeren Bildschirm: Foto hochladen, Bio schreiben, Biografie ausfüllen.
 

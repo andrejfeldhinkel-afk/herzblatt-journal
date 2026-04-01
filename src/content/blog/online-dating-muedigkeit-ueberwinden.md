@@ -83,7 +83,7 @@ Wenn du nicht willst zu pausieren ganz:
 
 - **Nutze nur eine App:** Statt drei zu verwenden, nutze nur eins.
 - **Begrenze deine Zeit:** 20 Minuten pro Tag statt Stunde.
-- **Wechsel zu langsameren Apps:** Nutzen Sie Apps wie Hinge (fokussiert auf echte Beziehungen), nicht Tinder (oberflächlich und schnell).
+- **Wechsel zu langsameren Apps:** Nutzen Sie Apps wie [Hinge](/blog/hinge-guide-deutsch-2026) (fokussiert auf echte Beziehungen), nicht Tinder (oberflächlich und schnell).
 - **Deaktiviere die Benachrichtigungen:** Lass nicht die App kontinuierlich dich erinnernd, dass du datin könntest.
 
 ## Strategie 3: Neurahmen des Prozesses

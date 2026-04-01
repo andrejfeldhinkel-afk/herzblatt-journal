@@ -110,7 +110,7 @@ Authentizität führt auch zu besseren Matches. Menschen werden zu dir hingezoge
 
 Authentizität bedeutet auch, Deine Grenzen zu setzen. Du darfst sagen "nein" zu Menschen oder Dingen, die Du nicht willst. Du darfst eine Person blockieren, wenn sie unhöflich oder unangenehm ist. Du darfst ein Date vorzeitig beenden, wenn Du Dich nicht sicher oder wohl fühlst. Deine Grenzen sind wichtig.
 
-Denke auch darüber nach, wie viel Du über Dein Coming-Out teilen möchtest. Dies ist persönlich und es gibt keine richtige Antwort. Manche Menschen teilen ihre Geschichte gerne – es ist ein wichtiger Teil von wer sie sind. Andere möchten lieber eine Trennung zwischen ihrer Vergangenheit und ihrer gegenwärtigen Realität. Beide sind gültig.
+Denke auch darüber nach, wie viel Du über Dein Coming-Out teilen möchtest. Dies ist persönlich und es gibt keine richtige Antwort. Manche Menschen teilen ihre Geschichte gerne – es ist ein wichtiger Teil von wer sie sind. Andere möchten lieber eine [Trennung](/blog/trennung-verarbeiten-12-schritte) zwischen ihrer Vergangenheit und ihrer gegenwärtigen Realität. Beide sind gültig.
 
 ## Häufig gestellte Fragen zum Dating nach dem Coming-Out
 

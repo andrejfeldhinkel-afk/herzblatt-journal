@@ -1,6 +1,6 @@
 ---
-title: "Green Flags beim Dating: Positive Zeichen richtig erkennen"
-description: "Lernen Sie, echte positive Signale beim Dating zu erkennen. Dieser Guide zeigt Ihnen, worauf Sie achten sollten für eine gesunde Beziehung."
+title: "Green Flags: 20 positive Zeichen, dass er/sie der Richtige ist (2026)"
+description: "Was sind Green Flags beim Dating? Die 20 wichtigsten positiven Zeichen, dass du einen guten Partner gefunden hast — und wie du sie erkennst."
 date: 2026-03-16
 tags:
   - "Beziehung"
@@ -8,7 +8,7 @@ tags:
   - "Partnersuche"
 image: "/images/blog/dating-green-flags-erkennen-guide.webp"
 imageAlt: "Ein lächelndes Paar sitzt zusammen und führt ein tiefes Gespräch"
-keywords: ["green flags dating", "positive zeichen beim dating", "worauf achten beim dating", "anzeichen guter partner"]
+keywords: ["green flag", "green flags dating", "green flags beziehung", "positive zeichen beim dating", "anzeichen guter partner"]
 draft: false
 featured: false
 author: "markus-hoffmann"

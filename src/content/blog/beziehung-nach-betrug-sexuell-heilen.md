@@ -121,7 +121,7 @@ Und dein Partner muss zuhören. Nicht weg verstecken. Nicht defensiv werden. Ein
 
 ### Phase 1: Getrennte Schlafzimmer (wenn möglich)
 
-Das klingt kontraintuitiv, aber die Trennung ist oft notwendig. Du brauchst einen sicheren Platz, wo du dich nicht daran erinnerst, dass dein Partner dich betrogen hat.
+Das klingt kontraintuitiv, aber die [Trennung](/blog/trennung-verarbeiten-12-schritte) ist oft notwendig. Du brauchst einen sicheren Platz, wo du dich nicht daran erinnerst, dass dein Partner dich betrogen hat.
 
 Das ist keine Bestrafung. Das ist Heilung. Gib dir selbst einen Monat oder zwei, in dem du allein schlafen kannst.
 

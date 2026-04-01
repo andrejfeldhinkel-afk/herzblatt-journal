@@ -215,7 +215,7 @@ Wenn diese Person klar macht, dass kein Mund-Kuss erwünscht ist, sind diese Alt
 
 ## Die Statistik: Wie viele Menschen küssen beim ersten Date?
 
-Eine Studie der Dating-App Hinge hat gezeigt, dass etwa 50% der Menschen auf einem ersten Date küssen. Das bedeutet, dass es kein absoluter Must-Have ist.
+Eine Studie der Dating-App [Hinge](/blog/hinge-guide-deutsch-2026) hat gezeigt, dass etwa 50% der Menschen auf einem ersten Date küssen. Das bedeutet, dass es kein absoluter Must-Have ist.
 
 Männer sind statistisch wahrscheinlicher, den Kuss zu initiieren. Frauen sind wahrscheinlicher, den Moment zu wählen. Aber das ändert sich – viele Frauen initiieren inzwischen den Kuss selbst.
 

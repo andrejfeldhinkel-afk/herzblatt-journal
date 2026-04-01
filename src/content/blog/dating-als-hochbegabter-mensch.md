@@ -174,7 +174,7 @@ Sie sind nicht perfekt. Aber sie sind **für dich genug**.
 
 **1. Wähle intelligente Datierungsplattformen:**
 
-Nicht alle Datierungsanwendungen sind gleich. Hinge spricht anders an als Tinder. OkCupid bietet Fragen, die Tiefe ermöglichen.
+Nicht alle Datierungsanwendungen sind gleich. [Hinge](/blog/hinge-guide-deutsch-2026) spricht anders an als Tinder. OkCupid bietet Fragen, die Tiefe ermöglichen.
 
 Wählen Sie Plattformen, die es Ihnen ermöglichen, die Dinge zu zeigen, die Sie sind – Ihre Leidenschaften, Ihre Gedanken – nicht nur Ihr Aussehen.
 

@@ -71,7 +71,7 @@ Wenn ein Partner bereit ist, einen Haustier-Mrt zu verbringen und der andere nic
 
 Der Hund bellt zu viel. Ein Partner akzeptiert es als Teil des Hundes sein. Der andere findet es unbearable.
 
-Dies könnte zu Konflikten über Training, oder sogar Trennung des Haustiers führen.
+Dies könnte zu Konflikten über Training, oder sogar [Trennung](/blog/trennung-verarbeiten-12-schritte) des Haustiers führen.
 
 ## Vor dem Zusammenleben: Die große Konversation
 

@@ -135,7 +135,7 @@ Nachteile:
 - Rechtlich komplex und oft illiberal
 - Teuer (30.000-50.000+ Euro)
 - Ethische Überlegungen (besonders wenn die Leihmutter in einem ärmeren Land ist)
-- Emotionale Komplexität (Trauer, Trennung von Schwangerschaft)
+- Emotionale Komplexität (Trauer, [Trennung](/blog/trennung-verarbeiten-12-schritte) von Schwangerschaft)
 
 ### Weg 4: Adoption
 

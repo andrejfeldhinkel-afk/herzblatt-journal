@@ -33,7 +33,7 @@ faq:
 
 Ihr habt monatelang auf diesen Urlaub hingearbeitet. Die Buchung ist gemacht, die Koffer sind gepackt. Und dann: Der erste Tag am Strand und ihr merkt, dass eure [beziehung](/blog/adhs-und-beziehung-komplett-guide/) gerade zerbricht. Oder sie war bereits am Brechen und der Urlaub hat es nur beschleunigt.
 
-Trennung im Urlaub ist besonders grausam. Ihr seid 1000 Kilometer weg von Zuhause, von Freunden, von der normalen Routine. Es gibt keinen Ort zum Rückzug. Es gibt nur euch beide und die Realität: Es funktioniert nicht mehr.
+[Trennung](/blog/trennung-verarbeiten-12-schritte) im Urlaub ist besonders grausam. Ihr seid 1000 Kilometer weg von Zuhause, von Freunden, von der normalen Routine. Es gibt keinen Ort zum Rückzug. Es gibt nur euch beide und die Realität: Es funktioniert nicht mehr.
 
 Das passiert öfter, als du denkst. Viele Trennungen sind "Urlaubs-Trennungen". Der intensive Kontakt, die Nähe, die fehlende Ablenkung durch Arbeit und Freunde – das alles führt dazu, dass Probleme explodieren.
 

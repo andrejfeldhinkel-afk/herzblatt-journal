@@ -26,7 +26,7 @@ faq:
 
 Viele Menschen sind unsicher mit Komplimenten beim Dating:
 
-- Zu viele Komplimente wirken manipulativ
+- Zu viele [Komplimente](/blog/komplimente-fuer-maenner) wirken manipulativ
 - Zu wenige wirken uninteressiert
 - Physische Komplimente können creepy wirken
 - Generische Komplimente wirken falsch

@@ -18,7 +18,7 @@ draft: false
 
 ## Der Schmerz bleibt, aber das Leben geht weiter
 
-Du sitzt zu Hause an einem Freitagabend, und zum ersten Mal seit Jahren denkst du daran, jemanden zu daten. Die Person, die du geliebt hast, ist weg — nicht durch Entfernung oder Trennung, sondern durch den letzten endgültigen Akt des Todes. Aber obwohl der Schmerz noch tief und präsent ist, merkst du, dass du nicht mehr alleine sein möchtest. Der Gedanke an eine neue Partnerin ist schuldbehaftet, verwirrend, überraschend und gleichzeitig irgendwie natürlich.
+Du sitzt zu Hause an einem Freitagabend, und zum ersten Mal seit Jahren denkst du daran, jemanden zu daten. Die Person, die du geliebt hast, ist weg — nicht durch Entfernung oder [Trennung](/blog/trennung-verarbeiten-12-schritte), sondern durch den letzten endgültigen Akt des Todes. Aber obwohl der Schmerz noch tief und präsent ist, merkst du, dass du nicht mehr alleine sein möchtest. Der Gedanke an eine neue Partnerin ist schuldbehaftet, verwirrend, überraschend und gleichzeitig irgendwie natürlich.
 
 Das ist das emotionale Dilemma einer Witwe oder eines Witwers: Du liebst jemanden zutiefst, der weg ist. Und du möchtest gleichzeitig auch geliebt werden von jemandem, der noch hier ist, der atmet, der neben dir schlafen kann. Diese zwei Gefühle scheinen im Konflikt zu sein — aber die Gesellschaft und die Welt um dich herum macht dich oft glauben, dass sie es sind.
 

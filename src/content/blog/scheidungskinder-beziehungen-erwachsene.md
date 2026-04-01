@@ -28,7 +28,7 @@ faq:
   - question: "Kann Therapie Scheidungskindern in Beziehungen helfen?"
     answer: "Absolut. Therapie — besonders Bindungstherapie oder Schematherapie — kann helfen, unbewusste Muster zu erkennen, alte Wunden zu heilen und gesündere Beziehungsskripte zu entwickeln."
 ---
-## Scheidungskinder und Beziehungen: Wie die Trennung deiner Eltern dein Liebesleben prägt
+## Scheidungskinder und Beziehungen: Wie die [Trennung](/blog/trennung-verarbeiten-12-schritte) deiner Eltern dein Liebesleben prägt
 
 Du sitzt in einer neuen [beziehung](/blog/adhs-und-beziehung-komplett-guide/), die vielversprechend anfing. Doch bei jedem Konflikt, bei jedem Argument überkommt dich ein Gefühl der Panik: *Das geht schief. Sie oder er wird gehen. Wie bei meinen Eltern.* Du kennst diesen inneren Alarm vielleicht zu gut. Du wischst die Hand weg, wenn sich dein Partner Nähe wünscht. Du testest, ob er dich verlässt, bevor er es selbst tut. Oder du klammerst dich fest, getrieben von einer tiefen Angst vor dem Alleinsein.
 

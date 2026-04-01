@@ -63,7 +63,7 @@ Wenn diese Argumente auch aggressiver werden, oder wenn eine Person einfach aufg
 
 Das Gute: Das kann man reparieren. Mit echtem Verständnis und möglicherweise mit Therapeutenhilfe. Aber es braucht Arbeit von beiden.
 
-## 4. Du denkst ständig über Trennung nach
+## 4. Du denkst ständig über [Trennung](/blog/trennung-verarbeiten-12-schritte) nach
 
 Wenn du dich ständig fragst "Sollte ich gehen?", "Würde ich ohne diese Person besser dran sein?", "Kann ich das noch ein Jahr aushalten?" – das ist dein Geist, der dir etwas sagt.
 

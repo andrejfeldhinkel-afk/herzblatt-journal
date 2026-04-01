@@ -237,7 +237,7 @@ Humor schafft auch einen sicheren Raum. Wenn es Lachen in einer Beziehung gibt, 
 
 Menschen zeigen Liebe auf verschiedene Wesen. Manche Menschen zeigen Liebe durch Worte. Manche durch Taten. Manche durch Geschenke. Manche durch Zeit. Manche durch Zärtlichkeit. Frauen (und Menschen allgemein) haben oft unterschiedliche Liebessprachen.
 
-Wenn du eine Frau verstehen möchtest, musst du ihre Liebe-Sprache verstehen. Was macht sie sich geliebt fühlen? Ist es Komplimente? Ist es Hilfe? Ist es Präsenz? Ist es Geschenke? Ist es Zärtlichkeit? Frag sie. Dann nutze diesen Wissen, um sie auf Wesen zu lieben, die für sie bedeuten.
+Wenn du eine Frau verstehen möchtest, musst du ihre Liebe-Sprache verstehen. Was macht sie sich geliebt fühlen? Ist es [Komplimente](/blog/komplimente-fuer-maenner)? Ist es Hilfe? Ist es Präsenz? Ist es Geschenke? Ist es Zärtlichkeit? Frag sie. Dann nutze diesen Wissen, um sie auf Wesen zu lieben, die für sie bedeuten.
 
 Dies ändert ein Beziehung. Wenn du sie auf Wesen liebst, die für sie wichtig sind, statt auf die Wesen, die für dich bequem sind, wird sie sich wirklich geliebt fühlen. Dies ist ein Punkt der Liebe.
 

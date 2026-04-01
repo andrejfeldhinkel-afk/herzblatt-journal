@@ -138,7 +138,7 @@ Münster hat eine **junge, lebendige Online-Dating-Szene**:
 - **Tinder**: Standard hier, aber auch sehr viele Fake-Profile – vorsichtig sein
 - **Bumble**: Wachsend, besonders bei Frauen
 - **OKCupid**: Für Intellektuelle
-- **Hinge**: Für Beziehungsorientierte
+- **[Hinge](/blog/hinge-guide-deutsch-2026)**: Für Beziehungsorientierte
 
 **Dein Münster-Dating-Profil-Geheimtipp:**
 

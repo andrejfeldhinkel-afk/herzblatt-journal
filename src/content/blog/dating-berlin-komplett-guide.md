@@ -229,7 +229,7 @@ Berlin ist hochgradig digital. Fast jeder nutzt Dating-Apps. Das ist für dich v
 **Beliebteste Apps in Berlin:**
 - **Tinder:** Am verbreitetsten, große Nutzerbasis
 - **Bumble:** Wachsend, bei Frauen beliebt
-- **Hinge:** Für seriöse Beziehungen
+- **[Hinge](/blog/hinge-guide-deutsch-2026):** Für seriöse Beziehungen
 - **OkCupid:** Für intelligente Menschen, progressive Dating
 - **ElitePartner/Parship:** Für ältere, ernsthafte Partnersuchung
 

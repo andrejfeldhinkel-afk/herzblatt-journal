@@ -89,7 +89,7 @@ Im Winter: Weihnachtsmärkte (Dezember), Kunstausstellungen, gemütliche Restaur
 
 ## Wo Du Menschen triffst
 
-Dating-Apps funktionieren in Bern. Bumble und Hinge sind besser als Tinder. Die Stadt hat viele gebildete Menschen, die auf diesen Apps vertreten sind.
+Dating-Apps funktionieren in Bern. Bumble und [Hinge](/blog/hinge-guide-deutsch-2026) sind besser als Tinder. Die Stadt hat viele gebildete Menschen, die auf diesen Apps vertreten sind.
 
 Bars im Länggasse-Quartier sind gute Orte, um Menschen kennenzulernen. Es ist casual, nicht zu touristisch.
 

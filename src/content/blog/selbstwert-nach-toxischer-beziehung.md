@@ -31,7 +31,7 @@ Zwei Jahre, fünf Jahre, oder zehn Jahre — egal wie lange du in dieser [bezieh
 
 Dein toxischer Partner hat dich nicht nur emotional verletzt. Er hat dir systematisch beigebracht dir selbst nicht zu vertrauen.
 
-Und jetzt, nach der Trennung, merkst du: Der Schmerz der Trennung ist real. Aber der größere Schmerz ist das Misstrauen zu dir selbst.
+Und jetzt, nach der [Trennung](/blog/trennung-verarbeiten-12-schritte), merkst du: Der Schmerz der Trennung ist real. Aber der größere Schmerz ist das Misstrauen zu dir selbst.
 
 Das ist das tiefste Trauma einer toxischen Beziehung: Nicht dass jemand anderes dich verletzt hat. Sondern dass du dir selbst nicht mehr vertraust.
 

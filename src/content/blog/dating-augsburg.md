@@ -108,7 +108,7 @@ Augsburg hat eine präsente, aber nicht übergesättigte Online-Dating-Szene:
 - **Tinder**: Standard, auch hier vertreten
 - **Bumble**: Wachsend, besonders bei Frauen über 25
 - **Lovoo**: Noch stark in kleineren süddeutschen Städten
-- **Hinge**: Für Beziehungsorientierte
+- **[Hinge](/blog/hinge-guide-deutsch-2026)**: Für Beziehungsorientierte
 
 **Dein Augsburg-Dating-Profil-Geheimtipp:**
 

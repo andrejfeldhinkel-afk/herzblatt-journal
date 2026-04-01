@@ -609,7 +609,7 @@ Dein Partner sollte das unterstützen, nicht blockieren.
 **Wann weiß ich, dass die Beziehung zugrunde geht?**
 
 Die Zeichen sind:
-- Du denkst häufig von Trennung
+- Du denkst häufig von [Trennung](/blog/trennung-verarbeiten-12-schritte)
 - Du schämst dich, dich deinen Freunden zu zeigen
 - Du magst diese Person nicht (nicht liebst — magst)
 - Deine psychische Gesundheit hat sich verschlechtert

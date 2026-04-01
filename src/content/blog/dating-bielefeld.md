@@ -76,7 +76,7 @@ Das **Historische Museum** zeigt Bielefelds Geschichte. Interessant für kulture
 
 Bielefeld hat eine offene, progressive Dating-Kultur. Mit der Universität gibt es viele junge Menschen, aber auch etablierte Berufstätige.
 
-**Tinder** und **Bumble** sind die Standard-Apps. **Hinge** ist unter ernsthaft suchenden Singles beliebt.
+**Tinder** und **Bumble** sind die Standard-Apps. **[Hinge](/blog/hinge-guide-deutsch-2026)** ist unter ernsthaft suchenden Singles beliebt.
 
 Die Stadt ist kompakt genug um echte Begegnungen zu ermöglichen, aber groß genug für anonyme Dates, wenn gewünscht.
 

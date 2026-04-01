@@ -55,7 +55,7 @@ Alle diese Nachrichten zeigen, dass du das Profil gelesen hast und echtes Intere
 
 ## Häufige Fehler vermeiden
 
-Vermeide reine Komplimente zum Aussehen als Opener. Ein Du bist hübsch sagt nichts über dich aus und gibt der Person nichts, worauf sie antworten kann. Wenn du das Aussehen ansprechen willst, sei spezifisch: Dein Lächeln auf dem dritten Foto ist ansteckend ist besser als Du siehst gut aus.
+Vermeide reine [Komplimente](/blog/komplimente-fuer-maenner) zum Aussehen als Opener. Ein Du bist hübsch sagt nichts über dich aus und gibt der Person nichts, worauf sie antworten kann. Wenn du das Aussehen ansprechen willst, sei spezifisch: Dein Lächeln auf dem dritten Foto ist ansteckend ist besser als Du siehst gut aus.
 
 Schicke keine zu langen Nachrichten. Drei Sätze sind optimal. Alles darüber wirkt aufdringlich oder verzweifelt. Die erste Nachricht soll ein Gespräch starten, nicht deine Lebensgeschichte erzählen.
 

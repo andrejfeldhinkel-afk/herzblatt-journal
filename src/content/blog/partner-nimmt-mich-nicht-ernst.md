@@ -181,7 +181,7 @@ Manche Beziehungen können genesen wenn beide arbeiten. Manche können nicht. Da
 
 Das Wichtigste ist dass du weißt: Du bist es wert gehört zu werden. Du bist es wert respektvoll behandelt zu werden. Du darfst in einer Beziehung sein, in der du nicht klein sein musst um dein Partner groß zu machen.
 
-Wenn du mehr über respektvolle Kommunikation lesen magst, schau dir [Bessere Kommunikation in der Beziehung](/blog/kommunikation-beziehung) an. Und wenn du bereits gemerkt hast dass die Beziehung vorbei ist, könnte Wie du nach einer Trennung wieder anfängst hilfreich sein.
+Wenn du mehr über respektvolle Kommunikation lesen magst, schau dir [Bessere Kommunikation in der Beziehung](/blog/kommunikation-beziehung) an. Und wenn du bereits gemerkt hast dass die Beziehung vorbei ist, könnte Wie du nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte) wieder anfängst hilfreich sein.
 
 ---
 

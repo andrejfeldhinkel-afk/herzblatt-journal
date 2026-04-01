@@ -485,7 +485,7 @@ Plane deine Abreise sorgfältig. Haben Sie einen Ort zum Gehen? Haben Sie finanz
 
 Vergib dir selbst, falls du lange in dieser Beziehung geblieben bist. Es ist nicht deine Schuld, dass du geliebt hast und gehofft hast. Es ist nicht deine Schuld, dass dein Partner sich so verhält. Du hast das beste gemacht, was du konntest.
 
-Nach der Trennung wird es schwer sein. Du wirst den Menschen vermissen, an den du gehofft hast, dass er sein könnte. Aber mit der Zeit wirst du heilen. Mit Unterstützung werden du klarer sehen. Und du wirst erkennen, dass du es verdient hast, viel besser behandelt zu werden.
+Nach der [Trennung](/blog/trennung-verarbeiten-12-schritte) wird es schwer sein. Du wirst den Menschen vermissen, an den du gehofft hast, dass er sein könnte. Aber mit der Zeit wirst du heilen. Mit Unterstützung werden du klarer sehen. Und du wirst erkennen, dass du es verdient hast, viel besser behandelt zu werden.
 
 ---
 

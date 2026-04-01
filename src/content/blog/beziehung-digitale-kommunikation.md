@@ -359,7 +359,7 @@ Wenn es ein Notfall ist, kann er anrufen.
 
 Alles andere kann warten bis du aufwachst.
 
-## Die Trennung von Online und Offline
+## Die [Trennung](/blog/trennung-verarbeiten-12-schritte) von Online und Offline
 
 Eine der besten Dinge, die du tun kannst, ist dein Online-Leben und dein Offline-Leben zu trennen.
 

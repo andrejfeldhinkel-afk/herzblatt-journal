@@ -173,7 +173,7 @@ Sprecht über die Grundstimmung, die ihr schaffen möchtet. Dann plant eure geme
 2. Vielleicht mach eine Trial Run. Verbringt ein paar Wochen zusammen an einer Raummiete (AirBnB) und lebt zusammen. Das gibt euch Real-World-Praktik, ohne euch fest zu verpflichten.
 3. Besucht potentielle Wohnungen zusammen. Kann ihr euch beide sehen, hier zu leben?
 4. Diskutiert finanzielle Arrangements. Schreib es auf.
-5. Vermutlich, mach einen Pakt, dass ihr zusammen arbeitet, wenn es schwierig wird. Nicht Trennung sind, sondern Therapie oder ein Berater.
+5. Vermutlich, mach einen Pakt, dass ihr zusammen arbeitet, wenn es schwierig wird. Nicht [Trennung](/blog/trennung-verarbeiten-12-schritte) sind, sondern Therapie oder ein Berater.
 
 ## Was zu tun ist NACHDEM ihr zusammenzieht
 

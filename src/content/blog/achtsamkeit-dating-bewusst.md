@@ -124,7 +124,7 @@ Hier ist noch ne kontroverse Sache, bei der Achtsamkeit hilft.
 
 Du hast ein date mit jemandem, und es ist klar: Das wird nix. Und jetzt überlegst du vielleicht, wie du das kommunizierst. Ghosting? Nett eine Nachricht? Nicht antworten?
 
-Wenn du achtsam bist, stellst du dir die andere Frage: Wie würde ich wollen, dass mir das mitgeteilt wird? Ich glaube, niemand will geghostet werden. Jeder will bescheid wissen.
+Wenn du achtsam bist, stellst du dir die andere Frage: Wie würde ich wollen, dass mir das mitgeteilt wird? Ich glaube, niemand will [geghostet](/blog/ghosting-ueberwinden) werden. Jeder will bescheid wissen.
 
 Also: Eine kurze, ehrliche Nachricht. "Hey, ich hab dich mega gemocht, aber ich glaub, wir sind nicht die richtige Kombi. Dir alles Gute." Das ist nicht herzlos. Das ist respektvoll.
 

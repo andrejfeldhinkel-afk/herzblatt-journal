@@ -147,7 +147,7 @@ Das ist fast immer ein Zeichen von Verbergen.
 
 Dein Partner hat einen E-Mail-Account, den du nicht kennst. Oder hat mehrere E-Mail-Accounts mit unterschiedlichen Namen.
 
-Das ist ein großes Zeichen von bewusster Trennung.
+Das ist ein großes Zeichen von bewusster [Trennung](/blog/trennung-verarbeiten-12-schritte).
 
 ### Social Media Aktivität spät in der Nacht
 

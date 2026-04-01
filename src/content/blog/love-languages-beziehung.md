@@ -27,7 +27,7 @@ Der Psychologe Gary Chapman hat eine revolutionäre Idee eingeführt: dass Mensc
 
 ### 1. Worte der Bestätigung
 
-Menschen mit dieser Liebessprache brauchen verbale Anerkennung und Komplimente. Sie mögen hören, dass du sie liebst, dass sie wichtig sind, dass deine stolz auf sie bist.
+Menschen mit dieser Liebessprache brauchen verbale Anerkennung und [Komplimente](/blog/komplimente-fuer-maenner). Sie mögen hören, dass du sie liebst, dass sie wichtig sind, dass deine stolz auf sie bist.
 
 Wenn dies deine Sprache ist und dein Partner dir nie Komplimente macht, könntest du dich ungeachtet fühlen, auch wenn er/sie in anderen Wegen viel tut.
 

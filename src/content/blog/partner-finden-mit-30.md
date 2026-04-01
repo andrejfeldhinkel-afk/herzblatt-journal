@@ -426,7 +426,7 @@ Hier sind einige Ressourcen, die helfen:
 
 **Dating-Apps spezialisiert für 30+:**
 
-- Hinge - "App designed to be deleted" - fokussiert auf ernsthafte Beziehungen
+- [Hinge](/blog/hinge-guide-deutsch-2026) - "App designed to be deleted" - fokussiert auf ernsthafte Beziehungen
 - The League - exklusiv für hochgebildete, karriere-fokussierte Singles
 - eHarmony - gutes Matching für langfristige Beziehungen
 - Bumble - Frau macht Kontakt zuerst

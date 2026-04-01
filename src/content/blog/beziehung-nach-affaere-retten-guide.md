@@ -102,7 +102,7 @@ Es gibt keine richtige Antwort. Aber es gibt bessere und schlechtere Entscheidun
 
 **Eine wichtige Unterscheidung:**
 
-Wenn du bleibst, sollte es nicht sein, "weil die Kinder das so wollen" oder "weil eine Trennung kompliziert ist" oder "weil ich Angst vor dem Alleinsein habe." Das sind keine guten Gründe. Das wird die Beziehung noch mehr zerstören.
+Wenn du bleibst, sollte es nicht sein, "weil die Kinder das so wollen" oder "weil eine [Trennung](/blog/trennung-verarbeiten-12-schritte) kompliziert ist" oder "weil ich Angst vor dem Alleinsein habe." Das sind keine guten Gründe. Das wird die Beziehung noch mehr zerstören.
 
 Du bleibst nur, wenn du - nach angemessener Zeit der Trauer - ein echtes Ja zu dieser Beziehung geben kannst. Ein Neuanfang ist nur möglich, wenn es kein "Ich bleibe, aber ich verzeihe dir nie" gibt.
 

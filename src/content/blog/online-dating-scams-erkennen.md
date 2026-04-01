@@ -318,7 +318,7 @@ Scammer sind nicht technisch Genie. Sie sind psychologische Manipulatoren. Sie v
 
 **Phase 1: [Love Bombing](/blog/love-bombing-erkennen-schuetzen)**
 
-Sie senden VIELE Nachrichten, Komplimente, Aufmerksamkeit. Du merkst nicht, wie überwältigend das ist – du bist einfach erleichtert, dass jemand dich endlich mag.
+Sie senden VIELE Nachrichten, [Komplimente](/blog/komplimente-fuer-maenner), Aufmerksamkeit. Du merkst nicht, wie überwältigend das ist – du bist einfach erleichtert, dass jemand dich endlich mag.
 
 Sie sagen:
 - "Ich kann nicht aufhören, an dich zu denken"
@@ -536,7 +536,7 @@ Sextortion ist anders, weil es nicht nur Geld ist – es ist Scham und Erpressun
 **In den nächsten Tagen:**
 
 5. **Melde es der Polizei.** Sextortion ist ein Kriminalfall.
-6. **Melde es der Plattform.** (Hinge, Telegram, Email-Provider, etc.)
+6. **Melde es der Plattform.** ([Hinge](/blog/hinge-guide-deutsch-2026), Telegram, Email-Provider, etc.)
 7. **Überprüf deine Sicherheit.** Wenn du gehackt wurdest, ändere ALLES.
 
 **Psychologisch:**

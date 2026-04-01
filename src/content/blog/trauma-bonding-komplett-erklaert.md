@@ -257,7 +257,7 @@ Hier ist ein Vergleich:
 - Es gibt Geheimnis, Verleugnung, Verzerrung der Realität.
 - Du bist ständig ängstlich, angespannt oder bereit, die nächste Krise zu bewältigen.
 - Es fühlt sich an wie eine Sucht. Du brauchst "einen Schuss" von seiner Aufmerksamkeit oder Zuneigung.
-- Die Trennung ist fast physisch schmerzhaft – wie Entzugserscheinungen.
+- Die [Trennung](/blog/trennung-verarbeiten-12-schritte) ist fast physisch schmerzhaft – wie Entzugserscheinungen.
 - Du rechtfertigst, deckst auf, entschuldigst sein Verhalten, selbst wenn es objektiv falsch ist.
 
 **Echte Liebe:**

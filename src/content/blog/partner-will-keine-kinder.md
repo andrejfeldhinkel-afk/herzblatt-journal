@@ -158,7 +158,7 @@ Es braucht auch Sicherheit, dass dein Partner nicht urplötzlich die Meinung än
 
 Das ist die Sache, die keiner aussprechen will. Aber es ist real.
 
-Wenn einer Kinder will und einer nicht, und nicht eine der anderen Optionen funktioniert, dann ist die Trennung die ehrliche Antwort.
+Wenn einer Kinder will und einer nicht, und nicht eine der anderen Optionen funktioniert, dann ist die [Trennung](/blog/trennung-verarbeiten-12-schritte) die ehrliche Antwort.
 
 Das ist schmerzhaft. Du liebst diesen Menschen. Aber du liebst die Idee von Kindern auch. Und du kannst nicht beides haben.
 

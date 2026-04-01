@@ -341,7 +341,7 @@ Es gibt auch spezialisierte Beratungsstellen für Opfer von Missbrauch. Viele Fr
 
 Online-Communities können auch hilfreich sein — Menschen, die das Gleiche durchgemacht haben, können dich verstehen, wenn andere Menschen das nicht können.
 
-Wenn du Kinder hast und eine Scheidung oder Trennung in Betracht ziehst, gibt es auch spezielle Ressourcen für die Unterstützung der Kinder durch diesen Prozess.
+Wenn du Kinder hast und eine Scheidung oder [Trennung](/blog/trennung-verarbeiten-12-schritte) in Betracht ziehst, gibt es auch spezielle Ressourcen für die Unterstützung der Kinder durch diesen Prozess.
 
 ## Typen missbräuchlicher Partner: Was du wissen solltest
 

@@ -90,7 +90,7 @@ Die Lektion: Privatsphäre ist schwierig aber nicht unmöglich. Und dein Umgang 
 
 Hier ist die ehrliche Antwort: Die großen Apps (Tinder, Bumble) funktionieren überall — aber nur wenn du deinen Radius richtig stellst. Tinder in einer Kleinstadt mit Radius 10 Kilometer ist nutzlos. Mit Radius 50 Kilometer funktioniert es.
 
-Bumble hat den Vorteil dass Frauen schreiben müssen was dem ganzen mehr Struktur gibt. Hinge ist neu aber fokussiert auf ernsthafte Beziehungen was für Kleinstädte gut passt.
+Bumble hat den Vorteil dass Frauen schreiben müssen was dem ganzen mehr Struktur gibt. [Hinge](/blog/hinge-guide-deutsch-2026) ist neu aber fokussiert auf ernsthafte Beziehungen was für Kleinstädte gut passt.
 
 Nischen-Apps wie Lovoo, zoosk oder Jappy haben oft bessere Filter was hilft wenn du nach bestimmten Werten suchst.
 

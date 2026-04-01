@@ -94,7 +94,7 @@ Bumble ist günstiger als Tinder. Das ist schon ein großer Pluspunkt. Wenn du B
 
 ## Hinge — Das „Dating-App mit Substanz"
 
-Hinge positioniert sich als „das Dating-App für Menschen, die heiraten wollen" (nicht nur zum Swipen).
+[Hinge](/blog/hinge-guide-deutsch-2026) positioniert sich als „das Dating-App für Menschen, die heiraten wollen" (nicht nur zum Swipen).
 
 **Kosten:**
 

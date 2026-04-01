@@ -25,7 +25,7 @@ faq:
 
 Wenn du hier bist, weil du in einer missbräuchlichen Beziehung warst – erst mal: Ich sehe dich, und ich bin stolz auf dich, dass du gegangen bist. Das war die richtige Wahl, selbst wenn es sich nicht so anfühlt.
 
-Vielleicht liest du das ein paar Monate nach der Trennung. Vielleicht zwei Jahre. Vielleicht fünf Jahre. Unabhängig davon: Wenn du über Dating nachdenken, ist das normal und valid. Es bedeutet nicht, dass du dein Trauma vergessen hast. Es bedeutet, dass du nach Verbindung suchst – das ist menschlich.
+Vielleicht liest du das ein paar Monate nach der [Trennung](/blog/trennung-verarbeiten-12-schritte). Vielleicht zwei Jahre. Vielleicht fünf Jahre. Unabhängig davon: Wenn du über Dating nachdenken, ist das normal und valid. Es bedeutet nicht, dass du dein Trauma vergessen hast. Es bedeutet, dass du nach Verbindung suchst – das ist menschlich.
 
 Aber hier ist, was du wissen musst: Healing ist nicht linear. Es gibt Tage, an denen du dich stark fühlst und bereit für ein neues Kapitel. Es gibt Tage, an denen ein Song, ein Geruch, ein Wort dich zurückwirft, und plötzlich erlebst du die Trauma wieder wie neulich.
 

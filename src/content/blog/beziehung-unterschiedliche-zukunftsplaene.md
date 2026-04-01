@@ -239,7 +239,7 @@ Das ist die schwierigste Frage. Manchmal ist die liebevollste Antwort: Es ist vo
 - Ihr könnt nicht offen darüber sprechen, ohne dass es zu Kampf wird.
 - Einer der Partner ändert fundamental ihre Pläne (plötzlich "Ich will Kinder", wenn die andere Person dies absolut nicht will).
 
-**Die liebevolle Trennung:**
+**Die liebevolle [Trennung](/blog/trennung-verarbeiten-12-schritte):**
 
 "Ich liebe dich. Aber unsere Zukunftsvision passt nicht zusammen. Es ist fairer für uns beide, wenn wir Leute finden, deren Träume mit unseren übereinstimmen."
 

@@ -101,7 +101,7 @@ Manchmal (nicht immer, aber manchmal) Emotional Detachment ist dein Unterbewusst
 
 Es ist nicht dass dein Partner ist schlecht. Es ist dass die Chemie fehlt, oder die Werte nicht align, oder etwas grundlegend stimmt nicht.
 
-Dein System erkennt das bevor dein bewusster Verstand tut. Also es fängt an zu disconnecten. Es ist dein Gehirn sagt: "Schütze dich selbst. Das wird nicht funktionieren. Lass mich die Gefühle runterfahren damit die Trennung nicht so schmerzhaft sein wird."
+Dein System erkennt das bevor dein bewusster Verstand tut. Also es fängt an zu disconnecten. Es ist dein Gehirn sagt: "Schütze dich selbst. Das wird nicht funktionieren. Lass mich die Gefühle runterfahren damit die [Trennung](/blog/trennung-verarbeiten-12-schritte) nicht so schmerzhaft sein wird."
 
 Das ist nicht immer der Fall — aber manchmal ist es.
 

@@ -40,7 +40,7 @@ Viele Menschen verwechseln eine echte Pause mit dem Ausbrennen. Beim **Dating-Bu
 
 Das ist unterschiedlich von einer bewussten Pause. Eine bewusste Pause ist ein aktiver Entschluss, sich Zeit zu nehmen, um wieder Kraft zu sammeln. Du erkennst, dass die ständige Verfügbarkeit und Recherche-Mentalität in Dating-Apps anstrengend ist und beschließt, das zu ändern.
 
-Menschen gehen aus verschiedensten Gründen in Dating-Pausen. Manchmal ist es ein bewusster Schritt zur Heilung nach einer Trennung. Vielleicht war die letzte [beziehung](/blog/adhs-und-beziehung-komplett-guide/) intensiv, emotional anstrengend oder endete mit Herzbreak. Eine Pause gibt dir Zeit, nicht sofort wieder in die nächste Beziehungssituation zu rennen.
+Menschen gehen aus verschiedensten Gründen in Dating-Pausen. Manchmal ist es ein bewusster Schritt zur Heilung nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte). Vielleicht war die letzte [beziehung](/blog/adhs-und-beziehung-komplett-guide/) intensiv, emotional anstrengend oder endete mit Herzbreak. Eine Pause gibt dir Zeit, nicht sofort wieder in die nächste Beziehungssituation zu rennen.
 
 Andere Menschen nehmen sich Zeit, weil sie gemerkt haben, dass sie in Dating-Apps ein falsches Ich präsentieren. Sie swipen immer schneller, schreiben standardisierte Nachrichten, optimieren ihre Profilfotos wie ein Unternehmen sein Marketing optimiert. Das ist anstrengend und erfolgreich ist es oft auch nicht.
 

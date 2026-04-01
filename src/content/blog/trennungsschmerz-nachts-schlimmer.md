@@ -30,7 +30,7 @@ faq:
 
 ## Warum Trennungsschmerz nachts schlimmer ist
 
-Die Trennung ist frisch, der Schmerz sitzt tief. Tagsüber hältst du dich noch irgendwie. Aber dann kommt die Nacht – und mit ihr dieser quälende Kloß im Hals, der dich wach hält. Du fragst dich, ob das normale ist. Die Antwort: Ja. Und es gibt wissenschaftliche Gründe dafür.
+Die [Trennung](/blog/trennung-verarbeiten-12-schritte) ist frisch, der Schmerz sitzt tief. Tagsüber hältst du dich noch irgendwie. Aber dann kommt die Nacht – und mit ihr dieser quälende Kloß im Hals, der dich wach hält. Du fragst dich, ob das normale ist. Die Antwort: Ja. Und es gibt wissenschaftliche Gründe dafür.
 
 Nachts verlierst du deine Ablenkung. Der Job fällt weg, Freunde sind nicht erreichbar, die Arbeit mit deinem Handy wird langweilig. Dein Gehirn hat weniger Außenreize und wendet sich nach innen. Genau dahin, wo der Schmerz sitzt. Es ist wie eine innere Lautstärke, die nachts plötzlich viel lauter wird.
 

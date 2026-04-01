@@ -256,7 +256,7 @@ Bevor du dich festlegst, hier sind einige letzte Dinge zu beachten:
 
 **Sprecht wirklich miteinander.** Nicht oberflächlich. Tiefgründig. Verbringt einen Abend damit, eure Erwartungen, Ängste und Träume auszutauschen. Was brauchst du? Was fürchtest du dich? Was hoffst du?
 
-**Macht einen Notfallplan.** Was passiert, wenn einer von euch einen Job verliert? Wenn ihr einen Konflikt nicht lösen könnt? Wie geht ihr mit einer möglichen Trennung um?
+**Macht einen Notfallplan.** Was passiert, wenn einer von euch einen Job verliert? Wenn ihr einen Konflikt nicht lösen könnt? Wie geht ihr mit einer möglichen [Trennung](/blog/trennung-verarbeiten-12-schritte) um?
 
 **Vertraut eurem Bauch.** Wenn etwas nicht stimmt – auch wenn alles logischerweise gut ist – höre auf deine Intuition. Dein Unbewusstsein nimmt Signale wahr, die dein bewusstes Gehirn noch nicht verarbeitet hat.
 

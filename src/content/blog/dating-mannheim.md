@@ -126,7 +126,7 @@ Mannheim hat eine **große Online-Dating-Community**. Die wichtigsten Apps sind:
 
 - **Tinder**: Sehr präsent, alle Altersgruppen, sehr viel Volumen an Profilen
 - **Bumble**: Beliebt bei Frauen, die selbst kontrollieren wollen, etwas weniger Volumen als Tinder, aber bessere Qualität
-- **Hinge**: Für Beziehungsorientierte, die nicht nur swipes wollen
+- **[Hinge](/blog/hinge-guide-deutsch-2026)**: Für Beziehungsorientierte, die nicht nur swipes wollen
 - **Lovoo**: Noch stark in Deutschland, auch in Mannheim, besonders bei jüngeren Singles
 - **OKCupid**: Für Intellektuelle, die mehr als Photos sehen möchten
 

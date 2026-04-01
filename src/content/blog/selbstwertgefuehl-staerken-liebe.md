@@ -602,7 +602,7 @@ Du glaubs nicht, dass du würdig bist. Du vertraust nicht deinem Urteilsvermöge
 
 Das ist eine tiefe Verletzung. Aber es ist heilbar.
 
-**Die Übung der Trennung**
+**Die Übung der [Trennung](/blog/trennung-verarbeiten-12-schritte)**
 
 Trennen dich selbst von dem, das er dich sagte.
 

@@ -124,7 +124,7 @@ Basierend auf ihrer Antwort:
 
 **Wenn sie sagen „Nein, ich bin nicht bereit":**
 - Fragen Sie, ob sie jemals bereit sein werden oder ob dies ein grundlegender Unterschied ist
-- Seien Sie ehrlich: „Ich kann nicht in dieser Grauzone bleiben. Ich brauche eine saubere Trennung."
+- Seien Sie ehrlich: „Ich kann nicht in dieser Grauzone bleiben. Ich brauche eine saubere [Trennung](/blog/trennung-verarbeiten-12-schritte)."
 - Folgen Sie dieser Aussage. Nicht sauber zu werden, ist schlimmer.
 
 **Wenn sie sagen „Ich bin mir nicht sicher":**

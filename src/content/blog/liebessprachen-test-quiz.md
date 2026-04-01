@@ -300,7 +300,7 @@ const quizData = [
   {
     question: "Wie reagierst du, wenn dein Partner Stress bei der Arbeit hat?",
     answers: [
-      { text: "Ich sage ihm aufmunternde Worte und Komplimente", language: "Worte der Bestätigung" },
+      { text: "Ich sage ihm aufmunternde Worte und [Komplimente](/blog/komplimente-fuer-maenner)", language: "Worte der Bestätigung" },
       { text: "Ich bin für ihn da und verbringe Zeit mit ihm", language: "Zweisamkeit" },
       { text: "Ich bringe ihm etwas mit, das ihm Freude macht", language: "Geschenke" },
       { text: "Ich unterstütze ihn praktisch und kümmere mich um ihn", language: "Hilfsbereitschaft" },

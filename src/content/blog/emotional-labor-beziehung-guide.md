@@ -488,7 +488,7 @@ Dies ist, was echte Liebe aussieht, unter der Haube: Gegenseitige Mühe. Gegense
 
 - Erfahre über [Bids for Connection](/blog/bids-for-connection-beziehung-guide) — wie kleine Momente Emotional Labor beeinflussen
 - Verstehe [Pursuer-Distancer Dynamik](/blog/pursuer-distancer-dynamik-guide) — wie Emotional Labor ungleichgewicht zu Mustern führt
-- Erkunde [Conscious Uncoupling](/blog/conscious-uncoupling-trennung-guide) — wenn Emotional Labor zu Trennung führt
+- Erkunde [Conscious Uncoupling](/blog/conscious-uncoupling-trennung-guide) — wenn Emotional Labor zu [Trennung](/blog/trennung-verarbeiten-12-schritte) führt
 
 ## Abschluss: Eine fairere, ausgewogenere Beziehung
 

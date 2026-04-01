@@ -123,7 +123,7 @@ Speed Dating ist für verschiedene Altersgruppen geeignet, aber die Events sind 
 
 Bei jüngeren Speed Dating Events ist die Energie meist höher und das Gespräche fließen schneller. Bei älteren Events sind die Gespräche oft tiefgründiger, da Menschen in diesem Alter genauer wissen, was sie wollen. Die Teilnehmer haben oft mehr Lebenserfahrung zu teilen.
 
-Speed Dating für über 40-Jährige ist besonders beliebt, da viele in dieser Altersgruppe wieder single sind (durch Trennung, Scheidung oder Tod des Partners) und es schwierig finden, neue Menschen kennenzulernen. Speed Dating bietet hier eine effizienz Lösung.
+Speed Dating für über 40-Jährige ist besonders beliebt, da viele in dieser Altersgruppe wieder single sind (durch [Trennung](/blog/trennung-verarbeiten-12-schritte), Scheidung oder Tod des Partners) und es schwierig finden, neue Menschen kennenzulernen. Speed Dating bietet hier eine effizienz Lösung.
 
 Unabhängig vom Alter ist die Einstellung wichtig: Wenn du offen, freundlich und präsent bist, wirst du Erfolg haben. Alter ist weniger wichtig als Authentizität und echtes Interesse an den Mitmenschen.
 

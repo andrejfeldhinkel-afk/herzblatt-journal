@@ -247,7 +247,7 @@ Das dritte Szenario ist der „aufregendsere Ex". Dein Ex war spontan, chaotisch
 
 Die Problem ist, dass Spannung und Chaos oft von Manipulation oder Unsicherheit stammen. Eine reife Beziehung ist weniger chaotisch, und das ist nicht unbedingt schlecht – das ist erwachsen.
 
-Das wichtigste ist zu erkennen, dass Vergleiche mit Exes oft unfair sind, weil du sie idealisiert oder demonisiert hast, je nachdem wie die Trennung endete. Der beste Weg ist, deinen aktuellen Partner nicht mit deinen Exes zu vergleichen, sondern zu fragen: „Bin ich glücklich mit dieser Person heute?"
+Das wichtigste ist zu erkennen, dass Vergleiche mit Exes oft unfair sind, weil du sie idealisiert oder demonisiert hast, je nachdem wie die [Trennung](/blog/trennung-verarbeiten-12-schritte) endete. Der beste Weg ist, deinen aktuellen Partner nicht mit deinen Exes zu vergleichen, sondern zu fragen: „Bin ich glücklich mit dieser Person heute?"
 
 ## Wann Ambivalenz eigentlich Angst ist – Die unbewussten Gründe
 

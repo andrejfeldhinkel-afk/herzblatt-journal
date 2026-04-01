@@ -119,7 +119,7 @@ Die Wahrheit ist, dass echte, tiefe Liebe nicht immer fotogen ist. Sie besteht a
 
 ## Dating-Apps und Online-Flirten: Ein neuer Standard
 
-Dating-Apps wie Tinder, Bumble und Hinge haben die Datinglandschaft revolutioniert. Sie haben auch neue Herausforderungen für bestehende Beziehungen geschaffen. Ist es okay, einen Dating-App-Profil zu haben, während man in einer Beziehung ist? Die meisten würden sagen, nein. Aber die Definition von "was ist nicht okay" ist verschwommen.
+Dating-Apps wie Tinder, Bumble und [Hinge](/blog/hinge-guide-deutsch-2026) haben die Datinglandschaft revolutioniert. Sie haben auch neue Herausforderungen für bestehende Beziehungen geschaffen. Ist es okay, einen Dating-App-Profil zu haben, während man in einer Beziehung ist? Die meisten würden sagen, nein. Aber die Definition von "was ist nicht okay" ist verschwommen.
 
 Einige Menschen argumentieren, dass das bloße Existieren auf einer Dating-App nicht Betrug ist, wenn man nicht aktiv daran teilnimmt. Andere sagen, dass eine Dating-App allein ein Vertrauensbruch ist. Wieder andere argumentieren, dass es okay ist, auf einer App zu sein, aber nicht mit jemandem zu chatten.
 

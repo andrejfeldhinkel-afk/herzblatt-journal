@@ -169,7 +169,7 @@ Die beste Tageszeit ist Freitag oder Samstagabend ab 18:00 Uhr in der Oberstadt.
 
 ### Apps und Online-Dating in Marburg
 
-Tinder ist aktiv (Uni-Stadt!). Aber auch **Bumble und Dating-Apps für "echte Beziehungen"** (Hinge, OkCupid) funktionieren gut. Marburger Dating-Menschen sind oft bodenständig und suchen echte Verbindung.
+Tinder ist aktiv (Uni-Stadt!). Aber auch **Bumble und Dating-Apps für "echte Beziehungen"** ([Hinge](/blog/hinge-guide-deutsch-2026), OkCupid) funktionieren gut. Marburger Dating-Menschen sind oft bodenständig und suchen echte Verbindung.
 
 **Pro-Tipp**: Zeige in deinem Profil, dass du:
 - Die Stadt und ihre Geschichte magst

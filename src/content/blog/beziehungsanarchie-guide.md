@@ -224,7 +224,7 @@ Finanzielle Vereinbarungen sind eine der praktischsten Herausforderungen in jede
 
 Manche Paare verbinden ihre Finanzen vollständig – all das Geld geht in einen gemeinsamen Topf und wird gemeinsam verwaltet. Das funktioniert, wenn es volle Transparenz gibt und alle Partner sich sicher fühlen.
 
-Andere praktizieren vollständige finanzielle Trennung – jeder verdient sein eigenes Geld, zahlt seinen eigenen Anteil an gemeinsamen Ausgaben und behält den Rest. Das funktioniert, wenn alle ähnlich viel verdienen oder wenn es klare Abmachungen über gerechte Verteilung gibt.
+Andere praktizieren vollständige finanzielle [Trennung](/blog/trennung-verarbeiten-12-schritte) – jeder verdient sein eigenes Geld, zahlt seinen eigenen Anteil an gemeinsamen Ausgaben und behält den Rest. Das funktioniert, wenn alle ähnlich viel verdienen oder wenn es klare Abmachungen über gerechte Verteilung gibt.
 
 Wieder andere haben ein Hybrid-Modell: Gemeinsame Ausgaben (Miete, Lebensmittel, Kinderbetreuung) werden gemeinsam bezahlt, aber alles andere ist privat. Das kann bedeuten, dass jede Person einen bestimmten Prozentanteil ihres Einkommens zu den Gemeinschaftsausgaben beiträgt, angepasst an ihr tatsächliches Einkommen.
 

@@ -87,7 +87,7 @@ Das klingt vielleicht weniger spontan und romantisch — aber Wahrheit ist: Mit 
 
 Es gibt auch **technische Lösungen**, die das Zusammenleben mit unterschiedlichen Schlafrhythmen erleichtern:
 
-**Separate Räume oder Türen.** Wenn der Partner noch wach ist und arbeitet und du schlafen willst — braucht ihr räumliche Trennung. Das kann eine Tür sein, die trennt. Das kann ein anderes Zimmer sein. Das ist nicht herzlos, das ist praktisch.
+**Separate Räume oder Türen.** Wenn der Partner noch wach ist und arbeitet und du schlafen willst — braucht ihr räumliche [Trennung](/blog/trennung-verarbeiten-12-schritte). Das kann eine Tür sein, die trennt. Das kann ein anderes Zimmer sein. Das ist nicht herzlos, das ist praktisch.
 
 **Blackout-Vorhänge und Ohrstöpsel.** Wenn du ein Früh-Mensch bist und um 6 Uhr natürlich wach wirst, aber dein Partner schläft noch — dann schlafen auch **die Augen** haben gesagt "Es ist Morgen" und das ist extrem schwer zu ignorieren. Blackout-Vorhänge helfen dem Partner noch zu schlafen, auch wenn für dich das Licht kommt.
 

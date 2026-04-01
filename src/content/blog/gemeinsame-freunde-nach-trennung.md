@@ -27,7 +27,7 @@ faq:
     answer: "Du darfst mit deinen Freunden treffen, wen du möchtest. Aber vermeide, darüber zu tratschen. Halte dein Treffen privat und nicht über Social Media sichtbar."
 ---
 
-## Die erste Zeit nach der Trennung
+## Die erste Zeit nach der [Trennung](/blog/trennung-verarbeiten-12-schritte)
 
 Die Trennung ist gerade hinter dir. Dein Herz schmerzt, und jetzt fragst du dich: Was ist mit Lisa, Marc und deinen anderen gemeinsamen Freunden? Das ist eine berechtigte Sorge. Viele Menschen verlieren nach einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/) nicht nur ihren Partner, sondern fühlen sich auch vom gesamten Freundeskreis entfernt.
 

@@ -117,7 +117,7 @@ Das Flirten per Text hat andere Regeln:
 
 - Sei nicht zu aufdringlich mit Emojis
 - Stelle Fragen, die echte Antworten erfordern
-- Mache keine durchschaubaren Komplimente
+- Mache keine durchschaubaren [Komplimente](/blog/komplimente-fuer-maenner)
 - Schlage relativ schnell ein echtes Treffen vor, statt ewig zu schreiben
 
 Detaillierte Infos bietet Verbraucherzentrale: [Verbraucherzentrale](https://www.verbraucherzentrale.de/)

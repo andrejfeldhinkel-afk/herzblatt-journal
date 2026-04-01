@@ -163,7 +163,7 @@ Das Zweite ist, nicht zu annehmen, dass dein Partner automatisch deine Erwartung
 
 Liebe wird unterschiedlich in verschiedenen Kulturen ausgedrückt.
 
-In manchen Kulturen wird Liebe durch Aktionen gezeigt – ein Partner, der alles für dich macht. In anderen wird es durch Worte gezeigt – Komplimente, Affirmationen. In anderen werden es durch Zeit gezeigt.
+In manchen Kulturen wird Liebe durch Aktionen gezeigt – ein Partner, der alles für dich macht. In anderen wird es durch Worte gezeigt – [Komplimente](/blog/komplimente-fuer-maenner), Affirmationen. In anderen werden es durch Zeit gezeigt.
 
 Du könntest aus einer Kultur kommen, in der Männer Blumen kaufen und Dinner buchen. Dein Partner könnte aus einer Kultur kommen, wo das kitschig ist. Die echte Liebe ist, dass er hart arbeitet, um für die Familie zu sorgen.
 

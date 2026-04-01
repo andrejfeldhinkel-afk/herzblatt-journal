@@ -17,7 +17,7 @@ faq:
 
 ---
 
-Nach einer Trennung ist eine der schwierigsten Dinge, die du tun musst, Grenzen setzen. Das ist besonders schwer, wenn du noch Gefühle für diese Person hast. Du möchtest noch mit ihr sprechen, noch ihre Updates sehen, vielleicht sogar noch ihre Nähe spüren. Aber um dich selbst zu heilen und vorwärtszugehen, musst du lernen, gesunde Grenzen zu setzen.
+Nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte) ist eine der schwierigsten Dinge, die du tun musst, Grenzen setzen. Das ist besonders schwer, wenn du noch Gefühle für diese Person hast. Du möchtest noch mit ihr sprechen, noch ihre Updates sehen, vielleicht sogar noch ihre Nähe spüren. Aber um dich selbst zu heilen und vorwärtszugehen, musst du lernen, gesunde Grenzen zu setzen.
 
 Grenzenlosigkeit nach einer Trennung ist einer der Hauptgründe, warum Menschen nicht weiterkommen. Sie schauen ständig, was ihr Ex macht. Sie „vergessen", die Nummer zu löschen. Sie bleiben Freunde auf Social Media. Und jedes Mal wenn sie etwas von ihrem Ex sehen, wird der Heilungsprozess unterbrochen.
 

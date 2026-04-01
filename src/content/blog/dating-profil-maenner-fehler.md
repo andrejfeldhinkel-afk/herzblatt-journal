@@ -121,7 +121,7 @@ Eine Frau liest das und denkt: "Dieser Mann ist noch nicht über seine Ex hinweg
 
 Deine Bio ist nicht der Ort, um über deine Vergangenheit zu sprechen. Es ist der Ort, um über dein Heute zu sprechen. Über deine Träume. Über das, was dir Freude macht.
 
-Wenn du noch frisch von einer Trennung bist, dann gib dir Zeit. Warte ein paar Monate. Heile. Dann kommst du raus mit einem klareren Kopf und bist bereit für etwas Neues.
+Wenn du noch frisch von einer [Trennung](/blog/trennung-verarbeiten-12-schritte) bist, dann gib dir Zeit. Warte ein paar Monate. Heile. Dann kommst du raus mit einem klareren Kopf und bist bereit für etwas Neues.
 
 Vertraue mir: Frauen können das riechen. Sie wissen, ob du emotional verfügbar bist oder nicht.
 

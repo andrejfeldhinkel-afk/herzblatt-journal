@@ -134,7 +134,7 @@ Das klingt klug, funktioniert aber nicht. Du kannst nicht so tun, dass Gefühle 
 
 Das funktioniert manchmal. Manchmal nicht. Aber es gibt dieser Person Raum, ihre eigenen Gefühle zu entwickeln – oder nicht. Und dir Raum, um zu sehen, ob du wirklich nur diese Person willst.
 
-**Option 3: Trennung**
+**Option 3: [Trennung](/blog/trennung-verarbeiten-12-schritte)**
 
 Das ist die reifste Option, auch wenn sie am schmerzhaftesten ist. „Ich liebe dich als Freund, aber ich habe entwickelt romantische Gefühle. Ich kann nicht so tun, dass die nicht da sind. Ich denke, wir sollten Abstand nehmen. Das ist nicht deine Schuld, das ist einfach, wie die Biologie funktioniert."
 

@@ -44,7 +44,7 @@ Hier ist etwas, das die meisten Ratgeber dir nicht sagen: Menschen gehen aus kom
 
 Manche Menschen fremdgehen, weil sie sich in der Beziehung nicht wertgeschätzt fühlen. Sie bekommen zu wenig Aufmerksamkeit, Sex, oder emotionale Nähe – und statt darüber zu sprechen, suchen sie sie woanders. Das ist keine Entschuldigung, sondern ein Grund. Der Unterschied ist wichtig.
 
-Andere fremdgehen aus Impulsivität heraus. Sie haben keinen stabilen Selbstwert und brauchen ständige externe Validierung. Die andere Person macht ihnen Komplimente, fühlt sich erregend an, und im Moment kümmern sie sich nicht um die Konsequenzen. Das ist oft mit Bindungsangst oder narzisstischen Zügen verbunden.
+Andere fremdgehen aus Impulsivität heraus. Sie haben keinen stabilen Selbstwert und brauchen ständige externe Validierung. Die andere Person macht ihnen [Komplimente](/blog/komplimente-fuer-maenner), fühlt sich erregend an, und im Moment kümmern sie sich nicht um die Konsequenzen. Das ist oft mit Bindungsangst oder narzisstischen Zügen verbunden.
 
 Es gibt auch emotionales Fremdgehen: Der Partner baut eine enge emotionale Bindung zu jemand anderem auf – Geheimnis teilen, intensive Gespräche, gegenseitiges Verstehen – ohne dass es körperlich wird. Das zerstört manchmal sogar mehr Vertrauen als eine körperliche Affäre, weil es bedeutet, dass dein Partner dich als seinen emotionalen Partner ersetzt hat.
 
@@ -184,7 +184,7 @@ Und es bedeutet, dass du nicht erwarten kannst, dass alles schnell "normal" wird
 
 ## Die langfristige Perspektive
 
-Statistiken zeigen, dass etwa 50-60% der Ehen, die mit Untreue konfrontiert sind, es schaffen, zusammenzubleiben. Der verbleibende Prozentsatz endet mit Trennung oder Scheidung. Das bedeutet nicht, dass Beziehungen nach Fremdgehen nicht funktionieren – es bedeutet nur, dass es schwierig ist.
+Statistiken zeigen, dass etwa 50-60% der Ehen, die mit Untreue konfrontiert sind, es schaffen, zusammenzubleiben. Der verbleibende Prozentsatz endet mit [Trennung](/blog/trennung-verarbeiten-12-schritte) oder Scheidung. Das bedeutet nicht, dass Beziehungen nach Fremdgehen nicht funktionieren – es bedeutet nur, dass es schwierig ist.
 
 Die Beziehungen, die funktionieren, sind die, in denen beide Partner hart arbeiten. Sie sind nicht die Beziehungen, in denen die Affäre "vergessen" wird. Sie sind die Beziehungen, in denen die Affäre integriert wird – als Teil der gemeinsamen Geschichte, nicht das Ende davon.
 

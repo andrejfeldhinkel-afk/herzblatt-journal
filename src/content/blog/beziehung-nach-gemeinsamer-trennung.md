@@ -20,7 +20,7 @@ faq:
     answer: "Das ist möglich. Wichtig ist, dass Ihr dann besser kommuniziert statt wieder zu trennen."
 ---
 
-# Beziehung nach Trennung: Versöhnung richtig angehen
+# Beziehung nach [Trennung](/blog/trennung-verarbeiten-12-schritte): Versöhnung richtig angehen
 
 Du sitzt allein in einer neuen Wohnung. Der Ring ist weg. Die gemeinsamen Freunde sind unangenehm um sich mit beiden von Euch. Und dennoch, Dein Telefon ertönt mit einer Nachricht.
 

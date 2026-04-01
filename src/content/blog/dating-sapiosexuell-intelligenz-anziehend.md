@@ -131,7 +131,7 @@ Auch Online-Events haben sich seit 2020 durchgesetzt. Virtuelle Vorträge, Disku
 Dating-Apps sind ein zweischneidiges Schwert für Sapiosexuelle. Einerseits kannst du sofort nach Interessen filtern. Andererseits sind die besten Apps nicht für tiefe Gespräche ausgelegt — sie sind für schnelles Swiping. Es ist eine strukturelle Challenge.
 
 Aber es gibt Nischen:
-- **Hinge** (verabredet mit der App fürs Dating, nicht fürs Hookup)
+- **[Hinge](/blog/hinge-guide-deutsch-2026)** (verabredet mit der App fürs Dating, nicht fürs Hookup)
 - **The League** (filtert nach Bildung)
 - **Specialist-Apps** für literarische oder philosophische Menschen
 - Oder ganz klassisch: **OkCupid** mit detaillierten Fragen

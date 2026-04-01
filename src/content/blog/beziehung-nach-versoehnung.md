@@ -30,7 +30,7 @@ Ich spreche hier nicht aus theoretischen Überlegungen, sondern aus eigener Beob
 
 ## Die erste Phase nach der Versöhnung – Das emotionale Vakuum
 
-Unmittelbar nach einer Versöhnung herrscht oft eine seltsame Erleichterung. Der Streit ist vorbei, die drohende Trennung ist abgewandt, und beide Partner atmen auf. Diese Erleichterung ist natürlich und verständlich, aber sie ist auch tückisch. Sie kann dir eine falsche Sicherheit geben, ein trügerisches Gefühl, dass "alles wieder gut ist", obwohl die zugrundeliegenden Probleme nicht gelöst wurden.
+Unmittelbar nach einer Versöhnung herrscht oft eine seltsame Erleichterung. Der Streit ist vorbei, die drohende [Trennung](/blog/trennung-verarbeiten-12-schritte) ist abgewandt, und beide Partner atmen auf. Diese Erleichterung ist natürlich und verständlich, aber sie ist auch tückisch. Sie kann dir eine falsche Sicherheit geben, ein trügerisches Gefühl, dass "alles wieder gut ist", obwohl die zugrundeliegenden Probleme nicht gelöst wurden.
 
 In den ersten Tagen nach einer Versöhnung erleben viele Paare eine Phase, die ich "das emotionale Vakuum" nenne. Es ist ein merkwürdiges Phänomen: Die intensive emotionale Energie, die während des Streits da war – egal ob Wut, Angst oder Trauer – verschwindet plötzlich. Übrig bleibt eine Art leerer Raum.
 

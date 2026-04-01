@@ -32,7 +32,7 @@ Als Alleinerziehende/r kennst du das Gefühl: Die Welt des Datings scheint sich 
 
 Dating mit Kind bringt einzigartige emotionale Herausforderungen mit sich. Du trägst nicht nur die Verantwortung für dein eigenes Liebesglück, sondern auch für das Wohlbefinden deines Kindes. Das ist eine enorme Last, und es ist völlig normal, wenn du dich manchmal überfordert fühlst. Die Statistiken zeigen, dass Alleinerziehende durchschnittlich weniger Zeit für Dating haben als kinderlose Menschen, aber auch weniger Sorgen um oberflächliche Dinge. Du weißt, was wirklich zählt.
 
-Der erste Schritt ist die emotionale Vorbereitung. Du musst mit dir selbst klären, ob du wirklich bereit für eine neue Beziehung bist oder ob du noch in der Verarbeitungsphase einer Trennung oder des Verlusts steckst. Viele Alleinerziehende daten aus Einsamkeit, nicht aus echtem Verlangen nach Partnerschaft. Das ist eine wichtige Unterscheidung, die deine gesamte Dating-Erfahrung beeinflussen wird.
+Der erste Schritt ist die emotionale Vorbereitung. Du musst mit dir selbst klären, ob du wirklich bereit für eine neue Beziehung bist oder ob du noch in der Verarbeitungsphase einer [Trennung](/blog/trennung-verarbeiten-12-schritte) oder des Verlusts steckst. Viele Alleinerziehende daten aus Einsamkeit, nicht aus echtem Verlangen nach Partnerschaft. Das ist eine wichtige Unterscheidung, die deine gesamte Dating-Erfahrung beeinflussen wird.
 
 ## Das Timing: Wann solltest du wirklich mit Dating anfangen?
 

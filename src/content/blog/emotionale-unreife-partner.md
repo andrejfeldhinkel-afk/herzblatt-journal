@@ -583,7 +583,7 @@ Du bist verantwortlich für deine eigene.
 
 Dies ist verwirrend für viele Menschen: Ein emotional unreifer Mensch kann wirklich nett sein.
 
-Sie können Blumen kaufen. Sie können dich Komplimente machen. Sie können dich mit Geschenken überschütten.
+Sie können Blumen kaufen. Sie können dich [Komplimente](/blog/komplimente-fuer-maenner) machen. Sie können dich mit Geschenken überschütten.
 
 Aber echte Liebe ist nicht Geschenke. Echte Liebe ist emotionale Verfügbarkeit.
 

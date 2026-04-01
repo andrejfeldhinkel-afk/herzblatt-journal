@@ -58,7 +58,7 @@ Psychologisch und neurologisch gesehen passiert bei der ersten großen Liebe etw
 
 Der Psychiater Bessel van der Kolk hat gezeigt, dass der Zustand der Verliebtheit tatsächlich ähnliche Gehirnmuster aktiviert wie Drogenabhängigkeit. Das ist nicht metaphorisch. Das ist biologische Realität. Dein Gehirn ist verändert.
 
-Wenn diese erste große Liebe dann endet – ob durch Trennung, durch Verrat, durch Umstände, die außerhalb deiner Kontrolle liegen – ist es wie der Entzug einer Droge. Dein Körper vermisst diese chemischen Zustände intensiv. Er sehnt sich danach, diese Ekstase wiederzuerleben. Dein Dopaminsystem ist kalibriert auf die Präsenz dieses Menschen. Seine Abwesenheit kreiert ein Vakuum.
+Wenn diese erste große Liebe dann endet – ob durch [Trennung](/blog/trennung-verarbeiten-12-schritte), durch Verrat, durch Umstände, die außerhalb deiner Kontrolle liegen – ist es wie der Entzug einer Droge. Dein Körper vermisst diese chemischen Zustände intensiv. Er sehnt sich danach, diese Ekstase wiederzuerleben. Dein Dopaminsystem ist kalibriert auf die Präsenz dieses Menschen. Seine Abwesenheit kreiert ein Vakuum.
 
 Hinzu kommt etwas anderes: die Prägung. Die erste Liebe legt fest, was Liebe für dich bedeutet. Sie kreiert ein Template, einen inneren Archetyp, gegen den du alle zukünftigen Beziehungen unbewusst misst. Wenn diese erste Liebe intensiv, leidenschaftlich und turbulent war, wirst du dich vielleicht immer nach dieser Art Leidenschaft sehnen – manchmal unbewusst, manchmal schmerzhaft bewusst.
 

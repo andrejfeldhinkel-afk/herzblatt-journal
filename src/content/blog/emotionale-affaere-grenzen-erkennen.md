@@ -199,7 +199,7 @@ Wahrscheinlich nicht.
 
 Manchmal ist eine emotionale Affäre zu viel für eine Beziehung. Das Vertrauen ist zu sehr verletzt. Oder die andere Person ist zu präsent, zu sehr ein Teil des Lebens des untreuen Partners.
 
-Das ist okay. Manchmal ist Trennung die beste Option.
+Das ist okay. Manchmal ist [Trennung](/blog/trennung-verarbeiten-12-schritte) die beste Option.
 
 Das bedeutet nicht, dass die Beziehung fehlgeschlagen ist. Es bedeutet, dass ihr einfach nicht die Menschen seid, die zusammen sein können – nicht jetzt.
 

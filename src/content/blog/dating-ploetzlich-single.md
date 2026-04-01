@@ -22,7 +22,7 @@ Die Frage, die jeder dir stellen wird: "Wie geht es dir?" Und die Antwort ist: K
 
 Gute Nachricht: Du wirst. Und ich zeige dir, wie.
 
-Die erste Monat nach einer Trennung ist kritisch. Es ist nicht nur emotional – es ist eine Zeit, wo deine Gewohnheiten, deine Gedankenmuster, deine Heilung beginnt. Wenn du diese 30 Tage richtig machst, setzt du die Bühne für einen wirklichen Neuanfang. Wenn du sie falsch machst, landest du in einem Zyklus von Traurigkeit und Rückkehr.
+Die erste Monat nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte) ist kritisch. Es ist nicht nur emotional – es ist eine Zeit, wo deine Gewohnheiten, deine Gedankenmuster, deine Heilung beginnt. Wenn du diese 30 Tage richtig machst, setzt du die Bühne für einen wirklichen Neuanfang. Wenn du sie falsch machst, landest du in einem Zyklus von Traurigkeit und Rückkehr.
 
 Das ist ein Plan. 30 Tage. Schritt für Schritt.
 

@@ -421,7 +421,7 @@ Manche Paare können Konflikte selbst lösen. Andere brauchen professional Hilfe
 - Die gleichen Konflikte wiederholen sich immer wieder
 - Ihr könnt nicht konstruktiv miteinander sprechen
 - Einer oder beide fühlen sich nicht gehört
-- Ihr habt Gedanken über Trennung
+- Ihr habt Gedanken über [Trennung](/blog/trennung-verarbeiten-12-schritte)
 - Vertrauen wurde verletzt
 - Es gibt emotionalen oder körperlichen Missbrauch
 

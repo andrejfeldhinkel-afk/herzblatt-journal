@@ -169,7 +169,7 @@ Inmitten der Krise kann Nähe wie Öl ins Feuer wirken. Aber kleine Rituale helf
 
 Eine kritische Sache: Du kannst nicht für deinen Partner in dieser Krise "einstehen". Du kannst nur für dein eigenes Wohlbefinden sorgen. Deine Grenzen sind wichtig.
 
-## Midlife Crisis Trennung: Wann ist es vorbei?
+## Midlife Crisis [Trennung](/blog/trennung-verarbeiten-12-schritte): Wann ist es vorbei?
 
 Nicht alle Partnerschaften überstehen die Midlife Crisis. Manchmal ist eine Trennung der richtige Weg. Wie erkennst du den Unterschied zwischen einer Krise, die überstanden werden kann, und einer Beziehung, die zu Ende geht?
 

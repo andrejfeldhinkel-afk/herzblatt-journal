@@ -129,7 +129,7 @@ Hamburg hat eine gut etablierte Online-Dating-Szene. Die beliebtesten Apps sind:
 
 **Bumble**: Bei progressiven Frauen beliebt.
 
-**Hinge**: Für ernsthaftere Beziehungen.
+**[Hinge](/blog/hinge-guide-deutsch-2026)**: Für ernsthaftere Beziehungen.
 
 **Once**: Für qualitäts-orientierte Singles.
 

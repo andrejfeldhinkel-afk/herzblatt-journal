@@ -105,7 +105,7 @@ Je transparenter du bist, desto mehr wird dein Partner dich vertrauen und desto 
 
 Wenn dies nicht ewig sein wird – wenn der Plan beispielsweise ist, zusammen zu ziehen in zwei Jahren – dann seid diese Deadline.
 
-Das gibt der Fernbeziehung ein Ziel. Es macht die Trennung vorübergehend anstatt präsent.
+Das gibt der Fernbeziehung ein Ziel. Es macht die [Trennung](/blog/trennung-verarbeiten-12-schritte) vorübergehend anstatt präsent.
 
 ## 12. Vertraut einander – und sprecht über Unsicherheiten
 

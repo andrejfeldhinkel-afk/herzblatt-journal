@@ -194,7 +194,7 @@ Wenn es irgendwelche Anzeichen von physischer Gewalt oder intensive psychologisc
 
 Der Narzisst wird dir sagen, dass es egoistisch ist, die Beziehung zu verlassen. Dass es herzlos ist. Dass du eine schlechte Person bist. Das ist Manipulation. Es ist nicht egoistisch, deine Gesundheit zu schützen.
 
-**Sei bei der Trennung klar und direkt:**
+**Sei bei der [Trennung](/blog/trennung-verarbeiten-12-schritte) klar und direkt:**
 
 Sag nicht „Ich brauche eine Pause". Sag nicht „Ich bin mir nicht sicher". Das gibt ihm Hoffnung und gibt ihm Werkzeuge zur Manipulation.
 

@@ -200,7 +200,7 @@ Ich habe mit Dutzenden von Paaren gesprochen, die Paartherapie gemacht haben. Hi
 
 **Die Erfolgsgeschichten:** Paare, die sagen, dass ihre Beziehung transformiert wurde. Sie verstehen einander jetzt. Sie wissen, wie sie Konflikte lösen. Sie fühlen sich wieder verbunden. Diese Paare beschreiben die Therapie normalerweise als „lebensverändernd."
 
-**Die Clarity-Paare:** Paare, die realisiert haben, dass die Beziehung nicht funktioniert und dass es besser ist zu gehen. Sie fühlen sich nicht Geschäft über die Trennung, weil sie wissen, dass es die richtige Wahl war. Manche sagen, dass die Therapie ihnen geholfen hat, die Trennung respektvoll zu machen.
+**Die Clarity-Paare:** Paare, die realisiert haben, dass die Beziehung nicht funktioniert und dass es besser ist zu gehen. Sie fühlen sich nicht Geschäft über die [Trennung](/blog/trennung-verarbeiten-12-schritte), weil sie wissen, dass es die richtige Wahl war. Manche sagen, dass die Therapie ihnen geholfen hat, die Trennung respektvoll zu machen.
 
 **Die Stalled-Paare:** Paare, die merken, dass einer von ihnen wirklich nicht beteiligt ist. Die Therapie funktioniert nicht, weil es an Engagement auf beiden Seiten fehlt.
 

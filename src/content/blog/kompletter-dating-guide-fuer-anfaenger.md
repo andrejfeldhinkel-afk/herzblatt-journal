@@ -56,7 +56,7 @@ Nimm dir Zeit, diese Erfahrungen zu verarbeiten. Das kann bedeuten, mit Freunden
 
 ## Phase 2: Das Profil – Deine digitale erste Impression
 
-Für die meisten Menschen beginnt Dating heute mit einem Online-Profil. Das kann auf einer App wie Tinder, Bumble, Hinge oder einer spezialisierteren Plattform sein. Dein Profil ist deine Chance, einen starken ersten Eindruck zu hinterlassen – bevor du überhaupt ein Wort sprichst.
+Für die meisten Menschen beginnt Dating heute mit einem Online-Profil. Das kann auf einer App wie Tinder, Bumble, [Hinge](/blog/hinge-guide-deutsch-2026) oder einer spezialisierteren Plattform sein. Dein Profil ist deine Chance, einen starken ersten Eindruck zu hinterlassen – bevor du überhaupt ein Wort sprichst.
 
 ### Fotos, die du zeigen solltest
 

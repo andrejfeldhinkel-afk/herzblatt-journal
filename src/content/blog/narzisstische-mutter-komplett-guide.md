@@ -104,7 +104,7 @@ Es gibt viele Warnzeichen, die auf eine narzisstische Mutter hindeuten. Nicht je
 
 **5. Grenzverletzungen:** Sie ignoriert deine Grenzen systematisch. Du sagst "Mama, bitte ruf nicht an während der Arbeit" und sie ruft fünf Mal an. Du sagst "Das ist ein privates Gespräch" und sie wiederholt es der ganzen Familie. Sie geht in dein Zimmer ohne zu klopfen, liest deine Tagebücher, öffnet deine Post.
 
-**6. Bedarf nach Bewunderung und konstanter Aufmerksamkeit:** Sie braucht regelmäßige Komplimente, Bestätigung und Anerkennung. Wenn du das nicht gibst, wird sie sich gekränkt oder verletzt verhalten. Sie kann dramatische Ankündigungen machen, um Aufmerksamkeit zu bekommen ("Ich glaube, ich werde einen Herzinfarkt haben" wenn sie sich ignoriert fühlt).
+**6. Bedarf nach Bewunderung und konstanter Aufmerksamkeit:** Sie braucht regelmäßige [Komplimente](/blog/komplimente-fuer-maenner), Bestätigung und Anerkennung. Wenn du das nicht gibst, wird sie sich gekränkt oder verletzt verhalten. Sie kann dramatische Ankündigungen machen, um Aufmerksamkeit zu bekommen ("Ich glaube, ich werde einen Herzinfarkt haben" wenn sie sich ignoriert fühlt).
 
 **7. Manipulation und emotionale Erpressung:** Sie nutzt Manipulationen, um dich zu kontrollieren. Das könnte emotionale Erpressung sein ("Wenn du mich verlässt, werde ich mir selbst Schaden zufügen"), Schuldgefühle ("Nach allem, was ich für dich aufgegeben habe") oder subtile Drohungen ("Wenn du das machst, werde ich dich enterben").
 

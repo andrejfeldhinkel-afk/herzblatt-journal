@@ -682,7 +682,7 @@ Es sagt dir, dass dein Partner nicht respektiert dir.
 
 Das ist ein großes rotes Zeichen.
 
-In diesem Punkt, du musste mehr radikale Maßnahmen nehmen – räumliche Trennung, Beziehungs-Therapie, oder Ablehnung.
+In diesem Punkt, du musste mehr radikale Maßnahmen nehmen – räumliche [Trennung](/blog/trennung-verarbeiten-12-schritte), Beziehungs-Therapie, oder Ablehnung.
 
 ## Die Rolle von Therapie
 

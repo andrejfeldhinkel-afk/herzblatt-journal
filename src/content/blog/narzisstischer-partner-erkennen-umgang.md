@@ -496,7 +496,7 @@ Wenn du diese Grenzen setzt und dein Partner reagiert mit Wut oder Stillem Treat
 
 Wenn dein Partner Gaslighting praktiziert, kann es hilfreich sein, deine Interaktionen zu dokumentieren. Nicht obsessiv — aber wenn wichtige Dinge passieren, schreibe sie auf. Daten, Zeiten, was passiert ist, was er sagte, was deine Reaktion war.
 
-Dieser Journal dient zwei Zwecken: Es hilft dir, reality zu behalten, wenn dein Partner die Wahrheit verzerrt. Und es kann legal wichtig sein, wenn du dich auf eine Trennung vorbereitest.
+Dieser Journal dient zwei Zwecken: Es hilft dir, reality zu behalten, wenn dein Partner die Wahrheit verzerrt. Und es kann legal wichtig sein, wenn du dich auf eine [Trennung](/blog/trennung-verarbeiten-12-schritte) vorbereitest.
 
 ### Therapeutische Unterstützung: Du brauchst ein außenstehe Verständnis
 

@@ -514,7 +514,7 @@ Oder es könnte einfach jemand sein, der schnell tippt. Das ist schwer zu sagen.
 
 ### Die schnelle Intensivität ohne Basis
 
-Die Person sagt dir nach drei Nachrichten: "Ich fühle mich wirklich verbunden mit dir" oder "Du bist anders als alle anderen". Das ist Love Bombing.
+Die Person sagt dir nach drei Nachrichten: "Ich fühle mich wirklich verbunden mit dir" oder "Du bist anders als alle anderen". Das ist [Love Bombing](/blog/love-bombing-erkennen-schuetzen).
 
 Ein echter Mensch würde langsamer vorgehen. Diese schnelle Intensivität ist ein Manipulationstakt, um dich emotional anzubinden.
 

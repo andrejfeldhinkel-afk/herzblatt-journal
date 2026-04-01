@@ -215,7 +215,7 @@ Bumble ist in Freiburg populär, besonders bei Frauen, die ernsthaft daten wolle
 
 ### Lokale Varianten
 
-Slow Dating Apps wie "Fitter" oder "Hinge" funktionieren in Freiburg besser als reine Swiping-Apps. Die Mentalität der Stadt passt dazu.
+Slow Dating Apps wie "Fitter" oder "[Hinge](/blog/hinge-guide-deutsch-2026)" funktionieren in Freiburg besser als reine Swiping-Apps. Die Mentalität der Stadt passt dazu.
 
 ### Die erste Nachricht
 

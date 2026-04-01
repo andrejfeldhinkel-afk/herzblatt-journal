@@ -36,7 +36,7 @@ Dein Partner kritisiert dich nicht nur in Konfliktsituationen, sondern macht dic
 
 In einer gesunden Beziehung kannst du Kritik vertragen, weil sie von jemandem kommt, der dir wohlgesonnen ist und dein bestes Interesse im Blick hat. In einer toxischen Beziehung wird Kritik zur Waffe. Sie ist nicht dazu gedacht, dir zu helfen, sondern dich zu verletzen. Du ziehst dich zurück, weil du weißt, dass alles, was du tust, kritisiert werden wird. Du versuchst, die Person zu sein, die dein Partner von dir erwartet, anstatt du selbst zu sein.
 
-Diese Form der konstanten Kritik ist psychologisch sehr schädlich. Sie führt zu Angststörungen, Depression und einem komplett zerstörten Selbstwertgefühl. Menschen, die dies lange durchhalten, berichten von Jahrzehnten, in denen sie glaubten, sie seien minderwertig. Nach einer Trennung dauert es oft Jahre, um diesen Schaden zu reparieren.
+Diese Form der konstanten Kritik ist psychologisch sehr schädlich. Sie führt zu Angststörungen, Depression und einem komplett zerstörten Selbstwertgefühl. Menschen, die dies lange durchhalten, berichten von Jahrzehnten, in denen sie glaubten, sie seien minderwertig. Nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte) dauert es oft Jahre, um diesen Schaden zu reparieren.
 
 ### 2. Gaslighting – Deine Realität wird angezweifelt
 

@@ -700,7 +700,7 @@ Umkehrung: "Ich habe Zeit. Ich wähle nur nicht, es zu prioritäten. Das ändert
 
 **Saboteur 3: "Wenn ich Grenzen setze, wird er oder sie mich verlassen"**
 
-Die Lüge: Grenzen = Ultimatum = Trennung.
+Die Lüge: Grenzen = Ultimatum = [Trennung](/blog/trennung-verarbeiten-12-schritte).
 
 Die Wahrheit: Grenzen sind einfach eine Aussage von wer du bist. "Ich kann nicht bei jemandem sein der mich beleidigt." Das ist nicht böse. Das ist gesund.
 

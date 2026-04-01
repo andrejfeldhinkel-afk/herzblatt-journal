@@ -163,7 +163,7 @@ Ich sagte es oben, aber lass mich es noch einmal sagen, weil es so wichtig ist u
 
 ### Die traditionelle Angst und das kulturelle Stigma
 
-Es gibt die alte Vorstellung, dass Paare zusammenschlafen müssen. Dass wenn ihr getrennte Schlafzimmer habt, eure Liebe kaputt ist oder ihr nicht „wirklich" verheiratet seid. Das ist Unsinn, purer sozialer Druck. Das stammt aus Zeiten, als Häuser klein waren und die Leute nicht die Wahl hatten. Heute haben wir die Wahl, und viele kluge Paare wählen die Trennung beim Schlafen.
+Es gibt die alte Vorstellung, dass Paare zusammenschlafen müssen. Dass wenn ihr getrennte Schlafzimmer habt, eure Liebe kaputt ist oder ihr nicht „wirklich" verheiratet seid. Das ist Unsinn, purer sozialer Druck. Das stammt aus Zeiten, als Häuser klein waren und die Leute nicht die Wahl hatten. Heute haben wir die Wahl, und viele kluge Paare wählen die [Trennung](/blog/trennung-verarbeiten-12-schritte) beim Schlafen.
 
 ### Die praktische Realität und die Liebe
 

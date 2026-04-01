@@ -18,7 +18,7 @@ Beziehungen enden nicht oft dramatisch. Sie verblassen. Sie ersticken langsam du
 
 Verachtung ist nicht Streit. Streit kann gesund sein. Verachtung ist, wenn Du zu Deinem Partner hinabschaust. Wenn Du ihn rolläugst, wenn er spricht. Wenn Du seine Gedanken oder Gefühle als lächerlich abtust.
 
-Verachtung ist der stärkste Vorhersager für Trennung. Das zeigen Jahrzehnte von Beziehungsforschung.
+Verachtung ist der stärkste Vorhersager für [Trennung](/blog/trennung-verarbeiten-12-schritte). Das zeigen Jahrzehnte von Beziehungsforschung.
 
 **Wie es aussieht:**
 

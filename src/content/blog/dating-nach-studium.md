@@ -131,7 +131,7 @@ Das ist nicht "zufällig jemanden treffen" vom Studium. Aber es ist besser als "
 
 Nutze Dating-Apps. Ernsthaft.
 
-Apps wie Hinge ("die Dating-App, um eine Beziehung zu finden") oder OKCupid sind gut für Menschen, die aus dem Studium sind.
+Apps wie [Hinge](/blog/hinge-guide-deutsch-2026) ("die Dating-App, um eine Beziehung zu finden") oder OKCupid sind gut für Menschen, die aus dem Studium sind.
 
 Sie sind weniger oberflächlich als Tinder. Sie ermöglichen Tiefe.
 

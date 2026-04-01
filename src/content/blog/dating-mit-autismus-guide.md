@@ -321,7 +321,7 @@ Du hast vielleicht tägliche Routinen oder Grenzen, die dein Nervensystem brauch
 
 **Online Dating mit Filters:**
 
-Apps wie Hinge, OkCupid und andere erlauben dir, "neurodivergent" oder "ADHD/Autismus-friendly" in deinem Profil zu schreiben. Dies filtert Menschen, die offen sind.
+Apps wie [Hinge](/blog/hinge-guide-deutsch-2026), OkCupid und andere erlauben dir, "neurodivergent" oder "ADHD/Autismus-friendly" in deinem Profil zu schreiben. Dies filtert Menschen, die offen sind.
 
 **Neurodivergente Dating Communities:**
 

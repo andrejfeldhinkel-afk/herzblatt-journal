@@ -53,7 +53,7 @@ Ein weiterer Unterschied: Ein echter Liebender interessiert sich für deine Geda
 
 **1. Extrem schnelle Progression.** Er/Sie möchte dich in den ersten Wochen treffen. Das ist nicht ungewöhnlich, aber kombiniert mit anderen Zeichen, ist es verdächtig. Innerhalb von zwei Wochen willst du [zusammenziehen](/blog/zusammenziehen-checkliste)? Das ist Alarm.
 
-**2. Übertriebene Komplimente.** Es sind nicht normale Komplimente. Es sind idealisierende Aussagen. „Du bist das perfekteste Mensch, das ich je getroffen habe" beim dritten Date. Das ist nicht echt – das ist ein Image, das du hast, nicht du. Dein Partner sieht nicht dich. Er/Sie sieht eine Fantasie.
+**2. Übertriebene [Komplimente](/blog/komplimente-fuer-maenner).** Es sind nicht normale Komplimente. Es sind idealisierende Aussagen. „Du bist das perfekteste Mensch, das ich je getroffen habe" beim dritten Date. Das ist nicht echt – das ist ein Image, das du hast, nicht du. Dein Partner sieht nicht dich. Er/Sie sieht eine Fantasie.
 
 **3. Schnelle Liebe Deklarationen.** „Ich liebe dich" nach zwei Wochen. Das kann real sein, aber kombiniert mit Druck, es zurückzusagen, ist es verdächtig. „Sag mir, dass du mich liebst" – das ist nicht eine Einladung, das ist ein Befehl.
 
@@ -169,7 +169,7 @@ Love Bomber nutzt spezifische psychologische Techniken:
 
 **Intermittent Reinforcement:** Manchmal bin ich dein Universum, manchmal ignoriere ich dich. Das macht dein Gehirn süchtig. Es ist wie Glücksspiel – du weißt nie, wenn du das Hoch bekommst, also versuchst du immer wieder. Dein Dopamin-System wird bombardiert.
 
-**Gaslighting:** „Das habe ich nie gesagt" oder „Du bist verrückt, dich das zu beschuldigen" – selbst wenn er/sie es direkt sagte. Das macht dich Angst, deinem eigenen Gedächtnis zu vertrauen. Du fragst dich: „War das wirklich so?"
+**[Gaslighting](/blog/gaslighting-komplett-guide):** „Das habe ich nie gesagt" oder „Du bist verrückt, dich das zu beschuldigen" – selbst wenn er/sie es direkt sagte. Das macht dich Angst, deinem eigenen Gedächtnis zu vertrauen. Du fragst dich: „War das wirklich so?"
 
 **Isolation:** „Deine Freunde mögen dich nicht wirklich" oder „Deine Familie ist toxic" – solange bis du nur noch die Person hast. Das ist absichtlich. Es schafft abhängigkeit.
 
@@ -362,7 +362,7 @@ Die schwierigste Phase ist, wenn der Love Bomber dich zurück haben will. Sie/Er
 Das ist sehr schwer zu widerstehen, weil:
 1. Du vermisst die intensive Liebe (auch wenn es fake war)
 2. Du hoffst, dass diese Person sich wirklich geändert hat
-3. Du bist emotional verwundbar nach der Trennung
+3. Du bist emotional verwundbar nach der [Trennung](/blog/trennung-verarbeiten-12-schritte)
 4. Dein Gehirn hat Süchtig nach der Aufmerksamkeit
 
 Das nennt sich der „Trauma-Bonding". Dein Gehirn hat gelernt, dass Gefühle auf einem Achterbahn erregend sind. Flach ist langweilig. Intensiv ist normal.

@@ -121,7 +121,7 @@ Das ist nicht eine Meinungsverschiedenheit. Das ist eine Invalidierung deiner Id
 
 Warum? Weil wenn dein Partner nicht vertraut deiner Selbstkenntnis über deine Sexualität, wird er/sie auch nicht vertrauen anderen wichtigen Dingen über dich. Es wird zu Kontrolle führen, zu Eifersucht, zu Vorwürfen.
 
-Wenn dein Partner diesen Zweifel hat, muss das bearbeitet werden – in Paartherapie, oder durch eine klare Konversation, oder durch Trennung. Dein Wohlbefinden ist wichtiger.
+Wenn dein Partner diesen Zweifel hat, muss das bearbeitet werden – in Paartherapie, oder durch eine klare Konversation, oder durch [Trennung](/blog/trennung-verarbeiten-12-schritte). Dein Wohlbefinden ist wichtiger.
 
 ### Wenn dein Partner denkt, dass Bisexualität = Untreue
 

@@ -22,7 +22,7 @@ faq:
 
 ## Vergeben nach Betrug: Geht das überhaupt?
 
-Dein Partner hat dich betrogen. Die Welt steht Kopf, Vertrauen liegt in Scherben, und alle sagen dir etwas anderes. Die einen raten zur sofortigen Trennung, die anderen zu Vergebung. Was richtig ist, kannst nur du entscheiden.
+Dein Partner hat dich betrogen. Die Welt steht Kopf, Vertrauen liegt in Scherben, und alle sagen dir etwas anderes. Die einen raten zur sofortigen [Trennung](/blog/trennung-verarbeiten-12-schritte), die anderen zu Vergebung. Was richtig ist, kannst nur du entscheiden.
 
 Das ist eine der schwersten Entscheidungen, die du in einer Beziehung treffen musst. Es geht nicht nur um Betrug — es geht um deine Würde, deine Grenzen, deine Zukunft. Es ist nicht einfach, und es gibt keine richtige Antwort, die für alle passt.
 

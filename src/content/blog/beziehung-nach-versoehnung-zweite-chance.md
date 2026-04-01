@@ -29,7 +29,7 @@ Sie haben sich getrennt, und jetzt denkt einer von Ihnen – vielleicht Sie selb
 
 ## Die emotionale Realität von Versöhnungen
 
-Wenn wir über Versöhnungen sprechen, müssen wir zunächst verstehen, dass unsere Emotionen uns täuschen können. Die Trennung war schmerzhaft, und dieser Schmerz kann uns zu der falschen Person zurückführen. Die Hoffnung, dass "dieses Mal wird es anders sein" ist mächtig, aber nicht immer ein guter Grund zur Versöhnung.
+Wenn wir über Versöhnungen sprechen, müssen wir zunächst verstehen, dass unsere Emotionen uns täuschen können. Die [Trennung](/blog/trennung-verarbeiten-12-schritte) war schmerzhaft, und dieser Schmerz kann uns zu der falschen Person zurückführen. Die Hoffnung, dass "dieses Mal wird es anders sein" ist mächtig, aber nicht immer ein guter Grund zur Versöhnung.
 
 ### Der Fallstrick der Wehmut
 

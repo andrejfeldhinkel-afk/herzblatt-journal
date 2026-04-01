@@ -29,7 +29,7 @@ faq:
 ---
 ## Die Wahrheit über Trennungen und Selbstwertgefühl
 
-Trennungen sind nicht nur emotional schmerzhaft – sie beschädigen dein Selbstwertgefühl auf eine grundlegende Art. Es spielt keine Rolle, ob du derjenige warst, der die Trennung initiiert hat. Dein Gehirn sagt dir immer noch: "Ich bin nicht genug. Die Person, die ich liebte, wollte mich nicht. Das muss an mir liegen."
+Trennungen sind nicht nur emotional schmerzhaft – sie beschädigen dein Selbstwertgefühl auf eine grundlegende Art. Es spielt keine Rolle, ob du derjenige warst, der die [Trennung](/blog/trennung-verarbeiten-12-schritte) initiiert hat. Dein Gehirn sagt dir immer noch: "Ich bin nicht genug. Die Person, die ich liebte, wollte mich nicht. Das muss an mir liegen."
 
 Das ist biologisch. Wenn jemand, den du liebst, dich zurückweist oder verlässt, interpretiert dein Gehirn das als persönliches Versagen. Es sagt dir, dass etwas mit dir nicht stimmt. Und dieses Signal ist weitreichend und verdirbt alles andere.
 

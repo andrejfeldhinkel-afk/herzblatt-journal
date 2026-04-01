@@ -47,7 +47,7 @@ Ein Beispiel: „Du bist so egoistisch" versus „Mich verletzt es, wenn du mein
 
 Wenn dein Partner mit Kritik anfängt, kann sich dein ganzer Körper anspannen. Du denkst: „Das ist nicht fair. Ich bin nicht so." Und sofort bist du in Verteidigungshaltung. Das Gespräch ist vorbei, die Eskalation hat begonnen.
 
-**Verachtung** ist noch schlimmer. Das ist, wenn du deinen Partner abwertest – durch Augenrollen, Sarkasmus, Höhnen oder körperliche Gesten der Verachtung. Es ist das Zeichen von Verachtung in einer Beziehung. Verachtung ist der stärkste Prädiktor für eine Trennung, weil sie zeigt, dass du dich deinem Partner überlegen fühlst. Das ist Gift für die Intimität.
+**Verachtung** ist noch schlimmer. Das ist, wenn du deinen Partner abwertest – durch Augenrollen, Sarkasmus, Höhnen oder körperliche Gesten der Verachtung. Es ist das Zeichen von Verachtung in einer Beziehung. Verachtung ist der stärkste Prädiktor für eine [Trennung](/blog/trennung-verarbeiten-12-schritte), weil sie zeigt, dass du dich deinem Partner überlegen fühlst. Das ist Gift für die Intimität.
 
 Ein Beispiel: „Das ist typisch dich" mit einem Augenzucker, während dein Partner spricht. Oder: „Wie kannst du so dumm sein?" oder ein übertriebenes Seufzen. Das sind unbewusste Gesten, aber sie sind verheerend. Sie sagen: „Du bist mir nicht ebenbürtig. Ich schaue auf dich herab."
 

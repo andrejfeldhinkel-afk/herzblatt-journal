@@ -298,7 +298,7 @@ Die regionale Suchfunktion ist großartig. Du musst nicht nach Berlin oder Münc
 
 ## Nachteile von MichVerlieben: Fair genannt
 
-**Design könnte moderner sein**: Gegenüber trendy Apps wie Hinge wirkt MichVerlieben etwas altbacken. Das Design funktioniert, ist aber nicht sexy.
+**Design könnte moderner sein**: Gegenüber trendy Apps wie [Hinge](/blog/hinge-guide-deutsch-2026) wirkt MichVerlieben etwas altbacken. Das Design funktioniert, ist aber nicht sexy.
 
 **Zeitaufwand**: Der Persönlichkeitstest dauert 20 Minuten. Die Profilstellung braucht Zeit. Das ist nicht die App für „quick dating in between".
 

@@ -284,7 +284,7 @@ Aber sie tun es. Und du wirst auch.
 Hier sind einige echte Geschichten:
 
 **Sarah, 28:**
-"Ich war 5 Jahre mit meinem Mann zusammen. Die Trennung war verheerend. Ich dachte, dass mein Leben vorbei war. Aber in 8 Monaten war ich wieder Dating, und ein Jahr später traf ich meine aktuelle Partner. Mein Ex war notwendig – er lehrte mich, was ich brauchte in einer Beziehung."
+"Ich war 5 Jahre mit meinem Mann zusammen. Die [Trennung](/blog/trennung-verarbeiten-12-schritte) war verheerend. Ich dachte, dass mein Leben vorbei war. Aber in 8 Monaten war ich wieder Dating, und ein Jahr später traf ich meine aktuelle Partner. Mein Ex war notwendig – er lehrte mich, was ich brauchte in einer Beziehung."
 
 **Marco, 31:**
 "Ich konnte nicht einmal das Haus verlassen nach der Trennung. Mein Freund zwang mich zum Fitness-Studio. Das war das beste, was passieren könnte. Nach 3 Monaten Training war ich in der besten Form meines Lebens und fühlte mich großartig. Die Trennung wird das beste zu sein, was mir jemals passiert ist."

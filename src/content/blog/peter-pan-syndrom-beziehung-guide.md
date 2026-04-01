@@ -296,7 +296,7 @@ Diese sind anonym, aber sie sind wahre Geschichten:
 
 Diese Geschichten zeigen, dass Erkennung früh ist wichtig und dass du nicht jemanden ändern kannst, der nicht ändern will.
 
-## Wiederaufbau nach einer Trennung von einem Peter-Pan Partner
+## Wiederaufbau nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte) von einem Peter-Pan Partner
 
 Wenn du einen Peter-Pan Partner verlässt, brauchst du Zeit zu heilen. Du hast wahrscheinlich emotionalen, finanziellen und psychologischen Verschleiß erlebt. Du hast möglicherweise:
 

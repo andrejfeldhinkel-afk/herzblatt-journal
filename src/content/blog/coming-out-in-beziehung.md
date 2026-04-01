@@ -302,7 +302,7 @@ Manchmal ist die Antwort: Das ist zu viel. Ich kann nicht das akzeptieren. Wir b
 
 Das ist traurig. Das ist auch okay.
 
-Eine Trennung nach einem Coming Out ist nicht das gleiche wie eine normale Trennung. Es ist eine Trennung, bei der ein Partner sich selbst entdeckt hat, und der andere Partner kann damit nicht umgehen. Das ist schmerzhaft für alle Beteiligten.
+Eine [Trennung](/blog/trennung-verarbeiten-12-schritte) nach einem Coming Out ist nicht das gleiche wie eine normale Trennung. Es ist eine Trennung, bei der ein Partner sich selbst entdeckt hat, und der andere Partner kann damit nicht umgehen. Das ist schmerzhaft für alle Beteiligten.
 
 Aber manchmal ist es das richtige Ding.
 

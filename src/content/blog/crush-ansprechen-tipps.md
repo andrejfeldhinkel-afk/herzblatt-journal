@@ -74,7 +74,7 @@ Die meisten Tipps sagen dir: „Sei spontan, sei witzig, sei charmant." Das ist 
 
 **Die praktische Ansprache**: „Wir haben ja ähnliche Interessen. Wollen wir mal zusammen zu [Event/Aktivität/Ort] gehen?" Das ist konkret und hat keine Ablehnung-Handhabe.
 
-Was du NICHT sagen solltest: Komplimente zum Aussehen. Klar ist „Du siehst krass aus" nett gemeint aber es ist auch das erste was ein Serienmörder sagen würde. Komplimente zu Stärken, Humor oder Geschmack sind persönlicher.
+Was du NICHT sagen solltest: [Komplimente](/blog/komplimente-fuer-maenner) zum Aussehen. Klar ist „Du siehst krass aus" nett gemeint aber es ist auch das erste was ein Serienmörder sagen würde. Komplimente zu Stärken, Humor oder Geschmack sind persönlicher.
 
 Ein echtes Beispiel: Thomas, 25, erzählte dass er eine Frau im Kurs so ansprach: „Mir ist aufgefallen dass du immer die besten Fragen stellst. Das finde ich echt cool und ich wollte dich fragen ob du Lust auf einen Kaffee hast?" Sie sagte ja. Es war nicht witzig oder glatt aber es war ehrlich und persönlich.
 

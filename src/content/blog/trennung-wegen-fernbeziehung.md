@@ -37,7 +37,7 @@ Es ist keine Liebes-Geschichte wie „Ich liebe dich nicht mehr". Es ist einfach
 
 Dieser spezifische Schmerz – dass eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) nicht an mangelnder Liebe scheitert, sondern an praktischer Unmöglichkeit – ist sein eigenes Trauma.
 
-## Die Besonderheit einer Fernbeziehungs-Trennung
+## Die Besonderheit einer Fernbeziehungs-[Trennung](/blog/trennung-verarbeiten-12-schritte)
 
 Bei anderen Trennungen gibt es oft eine klare Ursache. Untreue, Missbrauch, mangelnde Kommunikation. Das ist schrecklich, aber es gibt einen Grund.
 

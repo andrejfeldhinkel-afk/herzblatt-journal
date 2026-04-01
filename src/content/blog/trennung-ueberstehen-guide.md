@@ -12,7 +12,7 @@ tags:
 
 ## Trennung überstehen: Der ehrliche Komplett-Guide
 
-Eine Trennung ist einer der schmerzhaftesten Erfahrungen, die du je machen wirst. Es ist nicht nur der Verlust eines Partners. Es ist der Verlust einer Zukunft, die du dir vorgestellt hast. Einer Gewöhnung. Einer Identität, die du als "wir" hattest.
+Eine [Trennung](/blog/trennung-verarbeiten-12-schritte) ist einer der schmerzhaftesten Erfahrungen, die du je machen wirst. Es ist nicht nur der Verlust eines Partners. Es ist der Verlust einer Zukunft, die du dir vorgestellt hast. Einer Gewöhnung. Einer Identität, die du als "wir" hattest.
 
 Niemand wird dir sagen, wie sehr das wehtut. Dieser Guide wird es dir sagen. Und er wird dir auch sagen, dass es vorübergeht.
 

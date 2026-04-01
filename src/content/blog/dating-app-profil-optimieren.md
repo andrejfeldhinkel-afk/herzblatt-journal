@@ -134,7 +134,7 @@ Das beste erste Foto bei Bumble ist etwas, das Gesprächsstartern einlädt. Nich
 
 Bumble hat auch ein Feature namens "Spotlight", wo du dein Profil für eine kurze Zeit oben schieben kannst. Das ist nicht kostenlos, aber es funktioniert. Wenn du aktiv auf Bumble bist, erwäge Spotlight-Stöße.
 
-## App-spezifische Tipps: Hinge
+## App-spezifische Tipps: [Hinge](/blog/hinge-guide-deutsch-2026)
 
 Hinge bewirbt sich als "The dating app designed to be deleted" – was bedeutet, dass es auf Beziehungen ausgerichtet ist, nicht auf Hookups. Das ist wichtig zu verstehen.
 

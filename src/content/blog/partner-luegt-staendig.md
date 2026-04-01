@@ -178,7 +178,7 @@ Häufige Gründe sind Konfliktvermeidung, Scham, Angst vor Konsequenzen oder erl
 Ja, aber nur wenn er das Problem selbst erkennt und aktiv daran arbeiten will. Ohne Einsicht und den echten Wunsch zur Veränderung wird sich das Muster wiederholen.
 
 **Soll ich die Beziehung beenden wenn mein Partner lügt?**
-Das kommt auf die Art und Häufigkeit der Lügen an. Notlügen sind menschlich, systematisches Lügen über wichtige Dinge ist ein ernstes Problem. Wenn dein Grundvertrauen zerstört ist, ist eine Trennung oft gesünder.
+Das kommt auf die Art und Häufigkeit der Lügen an. Notlügen sind menschlich, systematisches Lügen über wichtige Dinge ist ein ernstes Problem. Wenn dein Grundvertrauen zerstört ist, ist eine [Trennung](/blog/trennung-verarbeiten-12-schritte) oft gesünder.
 
 **Wie erkenne ich, ob mein Partner mich anlügt?**
 Achte auf Inkonsistenzen in seinen Geschichten, Veränderungen in Körpersprache und Tonfall, und auf Reaktionen wie Abwehr oder Ausweichen. Ein ehrlicher Partner kann auf Fragen direkt antworten.

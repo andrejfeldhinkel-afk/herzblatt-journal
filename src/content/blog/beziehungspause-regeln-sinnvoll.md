@@ -29,7 +29,7 @@ faq:
     answer: "Reflektiere ehrlich: Was will ich? Was brauche ich? Was kann ich ändern? Geh in Therapie, triff Freunde, kümmere dich um dich selbst. Nutze die Zeit für echte Selbstreflexion — nicht um Tinder zu swipen."
 ---
 
-Es kommt zu dem Gespräch. Einer von euch sagt: "Ich denke wir brauchen eine Pause." Die andere Person erstarrt. Das ist die Phrase die bedeutet "vielleicht Trennung" oder "ich möchte andere Menschen küssen" oder "Ich weiß nicht ob ich dich mehr liebe."
+Es kommt zu dem Gespräch. Einer von euch sagt: "Ich denke wir brauchen eine Pause." Die andere Person erstarrt. Das ist die Phrase die bedeutet "vielleicht [Trennung](/blog/trennung-verarbeiten-12-schritte)" oder "ich möchte andere Menschen küssen" oder "Ich weiß nicht ob ich dich mehr liebe."
 
 Und dann beginnt die Ängstlichkeit. Was bedeutet eine Pause? Wie lange? Können wir mit anderen Menschen zusammen sein? Ist das das Ende?
 

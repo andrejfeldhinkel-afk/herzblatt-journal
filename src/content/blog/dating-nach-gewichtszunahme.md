@@ -98,7 +98,7 @@ Manche Dating-Apps sind besser, wenn du Body Positivity magst. Andere sind reine
 
 Oberflächlich und Aussehen-fokussiert: Tinder, Bumble (teilweise), The League
 
-Mehr Persönlichkeit-fokussiert: Hinge, OKCupid (mit ausführlicheren Profilen)
+Mehr Persönlichkeit-fokussiert: [Hinge](/blog/hinge-guide-deutsch-2026), OKCupid (mit ausführlicheren Profilen)
 
 Body-Positivity-fokussiert: Es gibt Apps wie „Meet Them" oder „BBWCupid" (falls du dich in Body Positivity Communities wohler fühlst)
 

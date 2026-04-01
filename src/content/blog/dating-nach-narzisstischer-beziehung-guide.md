@@ -164,7 +164,7 @@ Aber es gibt Dinge, die du vorab wissen solltest:
 
 **Gehe mit realistischen Erwartungen hin.** Nicht jeden Menschen, den du datest, werden magische Momente mit dir haben. Das ist okay. Dating ist ein Prozess der gegenseitigen Evaluierung, nicht die Suche nach einem Retter.
 
-**Beobachte sein Verhalten bei Unannehmlichkeiten.** Wartet der Kellner zu lange? Wie reagiert er? Ist die Reservierung falsch? Was macht er? Dies sagt dir mehr über seinen Charakter als hundert nette Komplimente.
+**Beobachte sein Verhalten bei Unannehmlichkeiten.** Wartet der Kellner zu lange? Wie reagiert er? Ist die Reservierung falsch? Was macht er? Dies sagt dir mehr über seinen Charakter als hundert nette [Komplimente](/blog/komplimente-fuer-maenner).
 
 **Vertrau deinen Triggern, aber nenne sie nicht als Dealbreaker, wenn sie unbegründet sind.** Wenn jemand eine Kleinigkeit sagt, die dich triggert, ist das eine Gelegenheit zu lernen, nicht zu entkommen. Aber wenn dein Körper durchgehend eine Warnung gibt, vertrau dem.
 

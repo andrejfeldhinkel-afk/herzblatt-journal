@@ -181,7 +181,7 @@ Mainz ist gut für Online-Dating:
 - **Bumble:** Sehr beliebt, modernes Publikum
 - **Lovoo:** Deutsche App mit guter Basis
 - **ElitePartner:** Für etabliertere Singles
-- **Hinge:** Für ernsthaftere Beziehungen
+- **[Hinge](/blog/hinge-guide-deutsch-2026):** Für ernsthaftere Beziehungen
 
 **Der Mainz-Vorteil:** Die Stadt ist groß genug (200k Einwohner), dass die Apps voller sind, aber klein genug, dass Matches wahrscheinlich sind. Viele Expats und Zugezogene machen die Dating-Szene vielfältig.
 

@@ -246,7 +246,7 @@ Markus war 30 Jahre verheiratet, als er sich outet. Er hat zwei Kinder. Es war d
 
 "Ich habe lange Zeit gehofft, dass die Gefühle sich ändern würden," sagt Markus heute, mit 53 Jahren. "Aber mit 47 war ich einfach zu müde zu lügen."
 
-Die Trennung war schwer. Die Familie hatte Zeit brauchte, ihn zu verstehen. Aber jetzt, sechs Jahre später, sagt Markus: "Meine Tochter akzeptiert mich. Mein Sohn akzeptiert mich. Und ich bin mit jemandem zusammen, der ich wirklich liebe – nicht eine Idee davon, wer ich sein sollte."
+Die [Trennung](/blog/trennung-verarbeiten-12-schritte) war schwer. Die Familie hatte Zeit brauchte, ihn zu verstehen. Aber jetzt, sechs Jahre später, sagt Markus: "Meine Tochter akzeptiert mich. Mein Sohn akzeptiert mich. Und ich bin mit jemandem zusammen, der ich wirklich liebe – nicht eine Idee davon, wer ich sein sollte."
 
 Seine aktuelle Partnerschaft ist 3 Jahre alt. "Es ist anders als das, was ich früher hatte. Es ist echter. Es ist nicht einfach, weil wir beide Verletzungen haben. Aber es ist richtig."
 

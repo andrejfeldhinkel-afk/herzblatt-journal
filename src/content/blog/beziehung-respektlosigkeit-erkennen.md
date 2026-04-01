@@ -423,7 +423,7 @@ Du brauchst Sicherheit. Du brauchst Unterstützung.
 
 Hol dir helfen.
 
-## Die Nach-Trennung Realität
+## Die Nach-[Trennung](/blog/trennung-verarbeiten-12-schritte) Realität
 
 Nach du weg gegangen bist, gibt es Phasen.
 

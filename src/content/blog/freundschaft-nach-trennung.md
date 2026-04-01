@@ -10,7 +10,7 @@ tags:
   - "Ratgeber"
 ---
 
-## Freundschaft nach Trennung: Geht das wirklich?
+## Freundschaft nach [Trennung](/blog/trennung-verarbeiten-12-schritte): Geht das wirklich?
 
 Die Trennung ist vollzogen, die emotionalen Wunden sind größtenteils verheilt, und plötzlich stellst du dir eine Frage, die viele Paare beschäftigt: Können wir Freunde bleiben? Diese Frage ist nicht einfach zu beantworten, und die Meinungen dazu sind so unterschiedlich wie die Beziehungen selbst. Manche sagen, dass eine Freundschaft nach einer romantischen [beziehung](/blog/adhs-und-beziehung-komplett-guide/) unmöglich ist, andere berichten von langjährigen, tiefgehenden Freundschaften mit ihren Ex-Partnern. Die Wahrheit liegt wie so oft irgendwo dazwischen – und es gibt durchaus Wege, wie eine echte Freundschaft entstehen kann, wenn beide Partner die richtigen Voraussetzungen mitbringen.
 

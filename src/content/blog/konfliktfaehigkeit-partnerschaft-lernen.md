@@ -101,7 +101,7 @@ Dies ist, wenn einer der Partner sich komplett abschaltet. Keine Antwort. Keine 
 
 Stonewalling ist das Gegenteil von Engagement. Es ist emotionaler Rückzug. Es ist destruktiv, weil es Konflikte nicht löst — es friert sie ein.
 
-**Der Schlüssel:** Gottman fand heraus, dass wenn diese vier Reiter in einem Streit auftauchen, ist eine Trennung wahrscheinlich. Aber wenn ein Paar lernt, diese zu vermeiden, können sie durch fast jeden Konflikt navigieren.
+**Der Schlüssel:** Gottman fand heraus, dass wenn diese vier Reiter in einem Streit auftauchen, ist eine [Trennung](/blog/trennung-verarbeiten-12-schritte) wahrscheinlich. Aber wenn ein Paar lernt, diese zu vermeiden, können sie durch fast jeden Konflikt navigieren.
 
 ![Paar führt einen heftigen Streit und zeigt emotionale Reaktionen](/images/blog/inline/konflikt-paar-streit.webp)
 

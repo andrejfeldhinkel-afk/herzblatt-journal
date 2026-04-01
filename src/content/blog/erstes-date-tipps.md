@@ -58,7 +58,7 @@ Ernsthaft. Leg dein Handy in die Tasche und vergiss es für die nächsten ein bi
 
 Augenkontakt halten, lächeln, dem Gegenüber zugewandt sitzen — dein Körper kommuniziert mehr als deine Worte. Achte darauf, dass deine Körpersprache Offenheit signalisiert.
 
-### 8. Komplimente — aber ehrlich
+### 8. [Komplimente](/blog/komplimente-fuer-maenner) — aber ehrlich
 
 Ein ehrliches, spezifisches Kompliment wirkt stärker als zehn generische. "Du hast eine ansteckende Art zu lachen" schlägt "Du siehst gut aus" um Längen.
 

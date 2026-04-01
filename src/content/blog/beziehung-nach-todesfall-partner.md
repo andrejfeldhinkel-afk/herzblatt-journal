@@ -367,7 +367,7 @@ Manchmal machst du alles richtig – du wählst mit Bedacht, du bewegst dich lan
 
 Das ist zusätzlich schwierig, weil du bereits weißt, wie Trauer sich anfühlt.
 
-Der Schmerz einer Trennung ist anderer als Tod. Es gibt Schuld ("Habe ich zu schnell gesprungen?"), Verwirrung ("War es falsch, es überhaupt zu versuchen?"), und Retraumatisierung ("Ich bin wieder allein").
+Der Schmerz einer [Trennung](/blog/trennung-verarbeiten-12-schritte) ist anderer als Tod. Es gibt Schuld ("Habe ich zu schnell gesprungen?"), Verwirrung ("War es falsch, es überhaupt zu versuchen?"), und Retraumatisierung ("Ich bin wieder allein").
 
 Das ist nicht die gleiche Trauer wie der Tod. Es ist eine verschiedene Trauer.
 

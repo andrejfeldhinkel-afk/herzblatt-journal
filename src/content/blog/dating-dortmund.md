@@ -160,7 +160,7 @@ Mit der U41/U49 fahrt ihr direkt zum Phoenix-See. Die Fahrt selbst ist schon int
 
 **Bumble** hat eine solide Community in Dortmund, besonders bei berufstätigen Frauen.
 
-**Hinge** funktioniert gut für ernsthafte Beziehungen-Sucher.
+**[Hinge](/blog/hinge-guide-deutsch-2026)** funktioniert gut für ernsthafte Beziehungen-Sucher.
 
 **OkCupid** war lange beliebt, hat aber etwas an Marktanteile an Hinge verloren.
 

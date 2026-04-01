@@ -50,7 +50,7 @@ Die neueste Forschung in der Psychologie und Neurowissenschaft zeigt einige fasz
 
 Aber hier ist das Interessante: Diese Wahrscheinlichkeit war nicht universell. Wenn die Eltern sich trennten, aber auf respektvolle und unterstützende Weise, war die Wahrscheinlichkeit viel geringer. Und wenn das Kind in einer Familie aufwuchs, in der über Gefühle offen gesprochen wurde, war es sogar noch geringer.
 
-Das bedeutet: Es geht nicht um die Trennung selbst. Es geht um den Kontext. Es geht um, wie du mit der Trennung umgegangen hast. Es geht um, was du über Beziehungen gelernt hast.
+Das bedeutet: Es geht nicht um die [Trennung](/blog/trennung-verarbeiten-12-schritte) selbst. Es geht um den Kontext. Es geht um, wie du mit der Trennung umgegangen hast. Es geht um, was du über Beziehungen gelernt hast.
 
 ## Kapitel 1: Die psychologischen Muster verstehen
 

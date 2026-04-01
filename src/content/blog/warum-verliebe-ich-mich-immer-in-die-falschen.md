@@ -32,7 +32,7 @@ faq:
 
 Du kennst es. Jedes Mal das gleiche Szenario.
 
-Du triffst jemanden. Sie ist attraktiv, interessant, charismatisch. Aber irgendwo auch distanziert. Oder verheiratet. Oder hat gerade eine Trennung. Oder ist einfach nicht wirklich verfügbar. Irgendein Grund warum es nicht funktionieren kann.
+Du triffst jemanden. Sie ist attraktiv, interessant, charismatisch. Aber irgendwo auch distanziert. Oder verheiratet. Oder hat gerade eine [Trennung](/blog/trennung-verarbeiten-12-schritte). Oder ist einfach nicht wirklich verfügbar. Irgendein Grund warum es nicht funktionieren kann.
 
 Du verliebst dich trotzdem. Hart. Du denks ständig an die Person. Du siehst Potenzial wo keines ist. „Sie ist jetzt durcheinander aber in drei Monaten wird alles anders." „Er war bisher bindungsängstlich aber mit mir wird er verstehen dass wahre Liebe existiert."
 

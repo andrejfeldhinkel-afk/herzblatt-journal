@@ -533,7 +533,7 @@ Das ist schwer zu hören, aber es ist real.
 
 Wenn dein Partner dich im Muster HÄLT (kritisiert dich, manipuliert dich), dann kannst du nicht heilen, während du mit ihm zusammen bist.
 
-Das bedeutet vielleicht: Trennung ist notwendig.
+Das bedeutet vielleicht: [Trennung](/blog/trennung-verarbeiten-12-schritte) ist notwendig.
 
 Das ist nicht Aufgabe. Das ist Notwendigkeit.
 

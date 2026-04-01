@@ -385,7 +385,7 @@ Die Heilung braucht Zeit — normalerweise Monate oder Jahre. Aber sie ist mögl
 
 ## Selbstwert nach toxischer Beziehung — Der nächste Schritt
 
-Wenn du aus einer Fawn-basierten, möglicherweise toxischen Beziehung kommst, ist der nächste Schritt nach der Trennung oder dem Heilung deines Fawn Response: dein Selbstwert wiederherstellen.
+Wenn du aus einer Fawn-basierten, möglicherweise toxischen Beziehung kommst, ist der nächste Schritt nach der [Trennung](/blog/trennung-verarbeiten-12-schritte) oder dem Heilung deines Fawn Response: dein Selbstwert wiederherstellen.
 
 Das bedeutet, dass du dich aktiv daran erinnerst, wer du bist, abseits von der Rolle, die du gespielt hast. Es bedeutet, deine Gedanken zu hinterfragen, die dir sagen, dass du nicht wertvoll bist. Es bedeutet, deine Bedürfnisse prioritär zu behandeln — nicht aus Egoismus, sondern aus Selbstachtung.
 

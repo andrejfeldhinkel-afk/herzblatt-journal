@@ -70,7 +70,7 @@ Du hast jemanden kennengelernt. Das Date war super. Ihr habt euch beide gut unte
 Jetzt gibt es zwei Szenarien:
 
 **Szenario 1 (Taktik):**
-Du warte bis Freitag, um zu schreiben, obwohl du am Mittwoch schreiben könntest. Du antwortest nie sofort auf ihre Nachrichten, sondern lässt immer ein paar Stunden verstreichen. Du machst keine Komplimente, weil du nicht bedürftig aussehen willst. Du redest viel über dein Leben, um zu zeigen, wie beschäftigt du bist. Du schließt dich emotional ab.
+Du warte bis Freitag, um zu schreiben, obwohl du am Mittwoch schreiben könntest. Du antwortest nie sofort auf ihre Nachrichten, sondern lässt immer ein paar Stunden verstreichen. Du machst keine [Komplimente](/blog/komplimente-fuer-maenner), weil du nicht bedürftig aussehen willst. Du redest viel über dein Leben, um zu zeigen, wie beschäftigt du bist. Du schließt dich emotional ab.
 
 **Szenario 2 (Ehrlichkeit):**
 Du schreibst am Mittwochabend und sagst, dass dir das Date gefallen hat. Du antwortest schnell, weil du dich freust, von der Person zu hören. Du machst Komplimente, wenn du sie meinst. Du teilst über dein Leben, aber auch du hörst zu. Du zeigst, dass du interessiert bist, ohne bedürftig zu sein.

@@ -21,7 +21,7 @@ faq:
 ---
 ## Die vier Bindungsstile: Welcher bist du?
 
-Deine Art zu lieben, ist nicht zufällig. Sie ist das Ergebnis deiner frühen Bindungserfahrungen mit deinen primären Bezugspersonen. Der Psychologe John Bowlby entdeckte, dass die ersten Jahre deines Lebens bestimmten, wie du dich in Beziehungen verhältst – wie viel Nähe du brauchst, wie du mit Trennung umgehst, ob du deinem Partner traust. Diese Erkenntnisse sind befreiend, weil sie zeigen, dass deine Bindungsmuster nicht dein Schicksal sind – sie sind Lernmuster, die verändert werden können.
+Deine Art zu lieben, ist nicht zufällig. Sie ist das Ergebnis deiner frühen Bindungserfahrungen mit deinen primären Bezugspersonen. Der Psychologe John Bowlby entdeckte, dass die ersten Jahre deines Lebens bestimmten, wie du dich in Beziehungen verhältst – wie viel Nähe du brauchst, wie du mit [Trennung](/blog/trennung-verarbeiten-12-schritte) umgehst, ob du deinem Partner traust. Diese Erkenntnisse sind befreiend, weil sie zeigen, dass deine Bindungsmuster nicht dein Schicksal sind – sie sind Lernmuster, die verändert werden können.
 
 ## Bindungsstil 1: Der sichere Bindungstyp
 

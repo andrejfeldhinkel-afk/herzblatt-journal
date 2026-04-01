@@ -190,7 +190,7 @@ Wenn ihr zusammenbleiben könnt durch die Angst, durch die Veränderung, durch d
 
 Aber das braucht ehrliche Kommunikation. Das braucht Geduld. Das braucht oft professionelle Hilfe.
 
-Und manchmal — manchmal — wird klar, dass die Beziehung nicht haltbar ist. Dass die Krankheit nur offenbart hat, dass die Beziehung bereits zerbrochen war. Das ist auch ok. Manchmal ist Trennung die richtige Antwort.
+Und manchmal — manchmal — wird klar, dass die Beziehung nicht haltbar ist. Dass die Krankheit nur offenbart hat, dass die Beziehung bereits zerbrochen war. Das ist auch ok. Manchmal ist [Trennung](/blog/trennung-verarbeiten-12-schritte) die richtige Antwort.
 
 ## Der Weg nach vorne
 

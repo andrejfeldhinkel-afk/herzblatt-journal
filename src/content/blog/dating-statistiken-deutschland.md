@@ -49,7 +49,7 @@ Die beliebtesten Apps in Deutschland:
 
 - **Tinder**: Noch immer der König. Etwa 8-10 Millionen monatlich aktive Nutzer in Deutschland.
 - **Bumble**: Schnell wachsend. Etwa 2-3 Millionen Nutzer.
-- **Hinge**: Die neue Hoffnung für „dating to marry". Etwa 1-2 Millionen.
+- **[Hinge](/blog/hinge-guide-deutsch-2026)**: Die neue Hoffnung für „dating to marry". Etwa 1-2 Millionen.
 - **Match.com**: Der Klassiker. Noch immer etwa 1-2 Millionen.
 - **Parship/ElitePartner**: Deutsche Klassiker. Zusammen etwa 3-4 Millionen.
 

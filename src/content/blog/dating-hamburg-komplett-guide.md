@@ -272,7 +272,7 @@ Hamburg ist digital aktiv. Die Dating-App-Nutzung ist hoch, aber etwas mehr foku
 - **Bumble:** Wachsend, bei Frauen beliebt
 - **OkCupid:** Für intelligente, progressive Menschen
 - **Parship:** Für ernstzunehmende Beziehung
-- **Hinge:** Für Relationship-orientiertes Dating
+- **[Hinge](/blog/hinge-guide-deutsch-2026):** Für Relationship-orientiertes Dating
 
 **Hamburg-spezifische Strategien:**
 

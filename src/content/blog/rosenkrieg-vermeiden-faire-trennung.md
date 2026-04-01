@@ -19,7 +19,7 @@ faq:
 ---
 
 
-Rosenkrieg vermeiden: Tipps für eine faire Trennung
+Rosenkrieg vermeiden: Tipps für eine faire [Trennung](/blog/trennung-verarbeiten-12-schritte)
 
 Es beginnt mit kleineren Dingen. Er behauptet das, sie behauptet das. Aber dann wird es größer. Anwälte. Anschuldigungen. Versuche, das Kind gegen die andere Person zu manipulieren.
 

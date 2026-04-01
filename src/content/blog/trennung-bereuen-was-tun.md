@@ -31,7 +31,7 @@ faq:
 
 ## Die erste Welle: Das ist normal
 
-Eine Woche nach der Trennung bist du in der Hölle. Du fragst dich: "Habe ich einen riesigen Fehler gemacht?" Das ist völlig normal.
+Eine Woche nach der [Trennung](/blog/trennung-verarbeiten-12-schritte) bist du in der Hölle. Du fragst dich: "Habe ich einen riesigen Fehler gemacht?" Das ist völlig normal.
 
 Das ist nicht unbedingt echte Reue. Das ist Trennungsschmerz. Das ist Einsamkeit. Das ist der Ausfallschock, wenn dein Alltag sich ändert.
 

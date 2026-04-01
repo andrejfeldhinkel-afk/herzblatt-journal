@@ -878,7 +878,7 @@ Das ist die schwierigste Frage, aber sie muss gestellt werden. Es gibt einen Pun
 
 ### Das Abschied-Dilemma
 
-Das Schwierigste ist, dass eine Trennung von jemandem, den du liebst, schrecklich ist. Selbst wenn die Beziehung dich nicht erfüllt hat, selbst wenn es richtig ist zu gehen, wird es weh tun.
+Das Schwierigste ist, dass eine [Trennung](/blog/trennung-verarbeiten-12-schritte) von jemandem, den du liebst, schrecklich ist. Selbst wenn die Beziehung dich nicht erfüllt hat, selbst wenn es richtig ist zu gehen, wird es weh tun.
 
 Aber hier ist die harte Wahrheit: Es wird später weniger weh tun als jetzt, wo du täglich verletzt wirst.
 

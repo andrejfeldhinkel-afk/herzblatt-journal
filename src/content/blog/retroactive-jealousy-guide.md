@@ -46,7 +46,7 @@ Um rückwirkende Eifersucht zu überwinden, musst du zuerst verstehen, woher sie
 
 **Kontrollbedarf**: Menschen, die gerne die Kontrolle haben, kämpfen besonders mit rückwirkender Eifersucht. Du kannst die Vergangenheit nicht kontrollieren, und das macht dich verrückt. Die obsessiven Gedanken sind ein unbewusster Versuch, durch Durchdenken die Kontrolle zurückzugewinnen.
 
-**Frühere Traumata und Vertrauensbruch**: Wenn du früher betrogen wurdest oder eine schmerzhafte Trennung erlebt hast, kann rückwirkende Eifersucht eine Schutzreaktion sein. Dein Verstand versucht, dich vor erneuter Verletzung zu bewahren, indem er potenzielle "Beweise" für die Untreue sammelt.
+**Frühere Traumata und Vertrauensbruch**: Wenn du früher betrogen wurdest oder eine schmerzhafte [Trennung](/blog/trennung-verarbeiten-12-schritte) erlebt hast, kann rückwirkende Eifersucht eine Schutzreaktion sein. Dein Verstand versucht, dich vor erneuter Verletzung zu bewahren, indem er potenzielle "Beweise" für die Untreue sammelt.
 
 ## Der Vergleich-Teufelskreis: Wie verschlimmert sich rückwirkende Eifersucht?
 

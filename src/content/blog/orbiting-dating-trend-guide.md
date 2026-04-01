@@ -132,7 +132,7 @@ Das erfordert ein hohes Maß an emotionaler Unabhängigkeit, aber es ist möglic
 
 Das ist mutig. "Ich bemerke, dass du meine Stories schaust, aber du schreibst nicht. Was ist das über?" Das öffnet ein Gespräch, das möglicherweise nicht du willst, oder es könnte klären, warum dein Ex orbitet.
 
-Das ist wahrscheinlich nicht eine gute Idee, wenn die Trennung sehr schmerzhaft war, aber es könnte funktionieren, wenn ihr beiden bereit seid, zu reden.
+Das ist wahrscheinlich nicht eine gute Idee, wenn die [Trennung](/blog/trennung-verarbeiten-12-schritte) sehr schmerzhaft war, aber es könnte funktionieren, wenn ihr beiden bereit seid, zu reden.
 
 ## Wenn du selbst orbittest
 

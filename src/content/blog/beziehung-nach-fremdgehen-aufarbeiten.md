@@ -302,7 +302,7 @@ Das ist Selbstliebe.
 
 ### Wie man es macht
 
-Die Trennung sollte klar sein. Nicht in Wut, nicht impulsiv – aber klar.
+Die [Trennung](/blog/trennung-verarbeiten-12-schritte) sollte klar sein. Nicht in Wut, nicht impulsiv – aber klar.
 
 "Ich habe lange überlegt. Ich kann das nicht vergeben. Ich kann der Person, mit dem ich leben soll, nicht vertrauen. Das ist vorbei."
 

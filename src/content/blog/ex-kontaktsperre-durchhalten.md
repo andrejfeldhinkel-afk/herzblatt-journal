@@ -11,7 +11,7 @@ tags:
 ---
 ## Kontaktsperre zum Ex: Warum es sich lohnt und wie du wirklich durchhältst
 
-Kontaktsperre – No-Contact – ist wahrscheinlich das schwierigste und gleichzeitig das wichtigste, das du nach einer Trennung tun kannst. Es ist schwierig, weil jede Faser deines emotionalen und neurobiologischen Körpers dich zum Ex-Partner zieht und dich dazu antreibt, diese Person zu kontaktieren. Es ist wichtig, weil es der einzige realistische Weg zu echter, tiefgreifender [heilung](/blog/aengstlicher-bindungsstil-heilen/) ist. Punkt. Keine Ausnahmen. Keine „aber"-Klauseln.
+Kontaktsperre – No-Contact – ist wahrscheinlich das schwierigste und gleichzeitig das wichtigste, das du nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte) tun kannst. Es ist schwierig, weil jede Faser deines emotionalen und neurobiologischen Körpers dich zum Ex-Partner zieht und dich dazu antreibt, diese Person zu kontaktieren. Es ist wichtig, weil es der einzige realistische Weg zu echter, tiefgreifender [heilung](/blog/aengstlicher-bindungsstil-heilen/) ist. Punkt. Keine Ausnahmen. Keine „aber"-Klauseln.
 
 Aber lasse uns eine tiefe Wahrheit klar sagen: Kontaktsperre ist nicht herzlos. Es ist nicht kalt oder unfreundlich. Es ist nicht „Spielchen spielen" oder „Machtspiele" in der [beziehung](/blog/adhs-und-beziehung-komplett-guide/). Kontaktsperre ist einer der liebevollsten und selbstliebendsten Akte, den du tun kannst – ein radikales Sagen „Nein" zu der Versuchung und ein Sagen „Ja" zu deiner eigenen Heilung.
 

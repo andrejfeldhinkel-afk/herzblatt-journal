@@ -53,7 +53,7 @@ Wenn Sie Ihren Partner wertschätzen, fühlt sich dieser gesehen und geliebt. Di
 
 Nicht alle Zeichen der Wertschätzung müssen groß sein. Viele der besten sind klein.
 
-### 1. Aufmerksame Komplimente
+### 1. Aufmerksame [Komplimente](/blog/komplimente-fuer-maenner)
 
 Nicht nur "Du siehst schön aus." Seien Sie spezifisch:
 - "Mir hat gefallen, wie du deinem Freund heute zugehört hast. Du bist so mitfühlend."

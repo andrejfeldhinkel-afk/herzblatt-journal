@@ -120,7 +120,7 @@ Berlin ist eine Stadt der Digital Natives. Die meisten Menschen nutzen Dating-Ap
 
 **Bumble**: Frauen machen den ersten Schritt – bei vielen feminismusorientierten Berliner Singles beliebt.
 
-**Hinge**: "The dating app designed to be deleted" – für Menschen, die eine echte [beziehung](/blog/adhs-und-beziehung-komplett-guide/) suchen, nicht nur Casual Dating.
+**[Hinge](/blog/hinge-guide-deutsch-2026)**: "The dating app designed to be deleted" – für Menschen, die eine echte [beziehung](/blog/adhs-und-beziehung-komplett-guide/) suchen, nicht nur Casual Dating.
 
 **Once**: Täglich nur eine Match-Empfehlung – für qualitätsorientierte Singles.
 
@@ -171,7 +171,7 @@ Weitere Informationen findest du bei Verbraucherzentrale: [Verbraucherzentrale](
 
 **Unpünktlichkeit ist normal**: Die Berliner sind berüchtigt für Zu-spät-kommen. 10-15 Minuten Verspätung ist völlig normal. Ärgere dich nicht zu sehr darüber.
 
-**Weniger ist mehr**: Berliner mögen es unkompliziert und ehrlich. Viel Smalltalk oder oberflächliche Komplimente wirken cringe.
+**Weniger ist mehr**: Berliner mögen es unkompliziert und ehrlich. Viel Smalltalk oder oberflächliche [Komplimente](/blog/komplimente-fuer-maenner) wirken cringe.
 
 **Alternative und progressive Einstellungen sind normal**: Berlin ist eine sehr liberale Stadt. Sei offen gegenüber verschiedenen Lebensweisen und Meinungen.
 

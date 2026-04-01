@@ -777,7 +777,7 @@ Diese Übungen sind nicht schnell gemacht. Sie können mehrere Wochen dauern. Ab
 
 Lass mich nochmal zurück zur Social Media, weil ich denke, dass es noch tiefere Schichten gibt, die ich nicht angesprochen habe.
 
-Nicht nur dass Social Media unrealistische Erwartungen über Liebe schafft — es schafft auch unrealistische Erwartungen darüber, wie glücklich deine Beziehung sein sollte, wie oft dein Partner dich anfassen sollte, wie oft dein Partner dir Komplimente machen sollte, wie oft ihr Spaß zusammen haben solltet.
+Nicht nur dass Social Media unrealistische Erwartungen über Liebe schafft — es schafft auch unrealistische Erwartungen darüber, wie glücklich deine Beziehung sein sollte, wie oft dein Partner dich anfassen sollte, wie oft dein Partner dir [Komplimente](/blog/komplimente-fuer-maenner) machen sollte, wie oft ihr Spaß zusammen haben solltet.
 
 Ein TikTok zeigt ein Paar, das wild tanzt und lacht. Dein Paar sitzt zusammen auf der Couch und schaut Netflix. Das fühlt sich falsch an. Aber das ist Leben.
 

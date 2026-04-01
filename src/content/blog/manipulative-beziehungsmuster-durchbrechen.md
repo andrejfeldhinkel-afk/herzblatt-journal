@@ -155,7 +155,7 @@ Schritt 4: Hilfe.
 
 Therapie. Ein Unterstützungsnetzwerk. Ein Berater. Du brauchst externe Hilfe, um aus dem Teufelskreis herauszukommen.
 
-Schritt 5: Distanz oder Trennung.
+Schritt 5: Distanz oder [Trennung](/blog/trennung-verarbeiten-12-schritte).
 
 Manchmal, wenn die Grenzen nicht funktionieren, musst du gehen. Das ist die letzte Option, aber manchmal die beste.
 

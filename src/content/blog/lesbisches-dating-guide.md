@@ -464,7 +464,7 @@ Wenn du nicht geoutet bist und datest, bedenke die Risiken:
 
 Deine Sicherheit und dein Coming-Out-Timing sind deine Entscheidung. Nicht hers.
 
-## Schnellelle Dating nach einer Trennung: Healing vs. Avoidance
+## Schnellelle Dating nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte): Healing vs. Avoidance
 
 Nach einer schmerzhaften Trennung, ist es verlockend, schnell wieder zu daten. Neue Person = kein altes Schmerz, richtig?
 

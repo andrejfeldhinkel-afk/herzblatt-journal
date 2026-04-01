@@ -42,7 +42,7 @@ Das Muster funktioniert so:
 
 **Phase 1: Die intensive Überflutung (Wochen 1-4)**
 
-Der Love Bomber zeigt sich als ideale Person. Er/Sie ist aufmerksam, präsent, gibt dir ständig Komplimente. "Du bist die schönste Person, die ich je getroffen habe." "Ich habe noch nie jemanden kennengelernt, der so intelligent ist wie du." "Ich denke, wir könnten zusammen wirklich etwas Großes aufbauen."
+Der Love Bomber zeigt sich als ideale Person. Er/Sie ist aufmerksam, präsent, gibt dir ständig [Komplimente](/blog/komplimente-fuer-maenner). "Du bist die schönste Person, die ich je getroffen habe." "Ich habe noch nie jemanden kennengelernt, der so intelligent ist wie du." "Ich denke, wir könnten zusammen wirklich etwas Großes aufbauen."
 
 Die Kommunikation ist konstant: Morgen-Texte, Nachmittag-Texte, Nacht-Texte. "Ich denke gerade an dich." "Ich kann nicht warten, dich zu sehen." Es ist überflooder. Es ist überwältigend. Es ist auch addictiv.
 

@@ -183,7 +183,7 @@ Der erste Schritt ist, das zu verstehen – das ist nicht etwas „falsches" mit
 
 Es gibt einen spezifischen Schmerz, der als „Relinquishment Trauma" bekannt ist – der Schmerz von aufgegeben zu werden.
 
-Auch wenn du glücklich aufgewachsen bist. Auch wenn deine Adoptiveltern dich liebten. Es ist nicht über das, was danach kam. Es ist über die Trennung selbst.
+Auch wenn du glücklich aufgewachsen bist. Auch wenn deine Adoptiveltern dich liebten. Es ist nicht über das, was danach kam. Es ist über die [Trennung](/blog/trennung-verarbeiten-12-schritte) selbst.
 
 Und dieser Schmerz kommt heraus in Beziehungen, oft ohne dass du merkst, dass das ist, was passiert.
 

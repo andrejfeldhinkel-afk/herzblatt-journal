@@ -34,7 +34,7 @@ Die Antwort ist ein klares Ja. Deine Kinder verdienen ein glückliches Elterntei
 
 Es gibt keine magische Formel. Aber einige Orientierungspunkte helfen:
 
-Nach einer Trennung solltest du dir mindestens sechs Monate Zeit geben, um zu heilen. Deine Kinder brauchen Stabilität, und du brauchst emotionale Klarheit. Daten aus Einsamkeit oder um dem Ex etwas zu beweisen, funktioniert selten.
+Nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte) solltest du dir mindestens sechs Monate Zeit geben, um zu heilen. Deine Kinder brauchen Stabilität, und du brauchst emotionale Klarheit. Daten aus Einsamkeit oder um dem Ex etwas zu beweisen, funktioniert selten.
 
 Du bist bereit, wenn du an die Zukunft denkst — nicht an die Vergangenheit. Wenn du jemanden als Bereicherung suchst, nicht als Rettung.
 

@@ -198,7 +198,7 @@ Mit der Zeit wird das Land mehr wie Zuhause. Und deine Gefühle werden stabiler.
 Okay, konkrete Tipps. Wo datet man als Expat?
 
 **Dating Apps.**
-Bumble, Tinder, Hinge, lokale Apps. Sag im Profil, dass du neu bist. Das ist großartig für Locals, die dir zeigen wollen, wie es funktioniert.
+Bumble, Tinder, [Hinge](/blog/hinge-guide-deutsch-2026), lokale Apps. Sag im Profil, dass du neu bist. Das ist großartig für Locals, die dir zeigen wollen, wie es funktioniert.
 
 Auch: Es gibt Apps speziell für Expats, wie InterNations, Couchsurfing, auch mit Dating-Elementen.
 

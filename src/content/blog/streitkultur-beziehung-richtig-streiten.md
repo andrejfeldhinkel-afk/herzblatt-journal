@@ -306,7 +306,7 @@ Verachtung ist schlimmer als Kritik. Verachtung ist der Versuch, deinen Partner 
 
 Verachtung ist das Signal: "Du bist unter mir." Es ist nicht Frustration. Es ist Ekel.
 
-Und hier ist, was wichtig ist: Verachtung ist der stärkste Prädiktor für eine Trennung. Nicht Kritik. Nicht Defensivität. Verachtung.
+Und hier ist, was wichtig ist: Verachtung ist der stärkste Prädiktor für eine [Trennung](/blog/trennung-verarbeiten-12-schritte). Nicht Kritik. Nicht Defensivität. Verachtung.
 
 Wenn Verachtung in einer Beziehung wächst, stirbt die Beziehung. Es dauert maybe noch Monate oder Jahre, aber es ist faktisch vorbei.
 

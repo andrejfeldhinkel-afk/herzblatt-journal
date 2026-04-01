@@ -154,7 +154,7 @@ Wenn einer von euch isoliert wird und nicht über Gefühle spricht, und der ande
 
 Wenn einer von euch denkt, dass Trauer bedeutet, dass die Beziehung tot ist, und der andere denkt, dass Trauer eine Weise ist, um zusammen zu bleiben, dann wird die Beziehung sich spalten.
 
-Die Trennung ist nicht die wegen das Kind ist tot. Die Trennung ist, weil die Trauer offenbart hat, dass ihr nicht zusammenbleiben könnt.
+Die [Trennung](/blog/trennung-verarbeiten-12-schritte) ist nicht die wegen das Kind ist tot. Die Trennung ist, weil die Trauer offenbart hat, dass ihr nicht zusammenbleiben könnt.
 
 Das ist nicht niemandes Schuld. Das ist einfach die Wahrheit.
 

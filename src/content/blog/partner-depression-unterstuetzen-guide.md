@@ -514,7 +514,7 @@ Wenn du mehrere dieser Zeichen hast, ist es Zeit, Hilfe zu suchen:
 - [ ] Ich isoliere mich von Freunden und Familie
 - [ ] Meine Gesundheit hat sich verschlechtert (Schlaf, Appetit, körperliche Schmerzen)
 - [ ] Ich fühle mich schuldig, wenn ich Zeit für mich nehme
-- [ ] Ich denke oft über Trennung nach
+- [ ] Ich denke oft über [Trennung](/blog/trennung-verarbeiten-12-schritte) nach
 - [ ] Ich habe Gedanken über Selbstverletzung oder Selbstmord
 
 Wenn du 3 oder mehr dieser Zeichen hast: Du brauchst dringend Unterstützung. Bitte suche professionelle Hilfe.

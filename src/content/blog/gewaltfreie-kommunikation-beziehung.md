@@ -367,7 +367,7 @@ Nachher: "Diesen Monat haben wir drei Wochenenden mit deiner Familie verbracht u
 
 Vorher: "Du bist so kalt! Du zeigst mir nie, dass du mich magst!"
 
-Nachher: "Mir ist aufgefallen, dass du mir selten Komplimente machst oder mir sagst, dass du mich liebst. Ich fühle mich unsicher und zweifle manchmal an deinen Gefühlen für mich. Mir ist wichtig, dass ich mich geliebt fühle. Könntest du mir öfter zeigen, dass ich dir wichtig bin?"
+Nachher: "Mir ist aufgefallen, dass du mir selten [Komplimente](/blog/komplimente-fuer-maenner) machst oder mir sagst, dass du mich liebst. Ich fühle mich unsicher und zweifle manchmal an deinen Gefühlen für mich. Mir ist wichtig, dass ich mich geliebt fühle. Könntest du mir öfter zeigen, dass ich dir wichtig bin?"
 
 **Situation 10: Unterschiedliche Interessen**
 

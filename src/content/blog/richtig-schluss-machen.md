@@ -26,7 +26,7 @@ faq:
   - question: "Wie gehe ich mit Schuldgefühlen nach der Trennung um?"
     answer: "Schuldgefühle sind normal und zeigen, dass du empathisch bist. Erinnere dich daran, dass eine unehrliche Beziehung fortzuführen beiden mehr schadet als eine respektvolle Trennung."
 ---
-Eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) zu beenden ist eine der schwierigsten Entscheidungen, die du treffen kannst. Egal, ob du sich auseinandergewachsen habt, die Chemie verloren gegangen ist oder grundlegende Unterschiede unüberwindbar geworden sind — der Gedanke, dein Gegenüber zu verletzen, kann dich lahmlegen. Doch genau hier liegt der Knackpunkt: Eine ehrliche, respektvolle Trennung ist der liebevollste Weg für beide Seiten. Dieser Leitfaden zeigt dir, wie du mit Würde Schluss machst.
+Eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) zu beenden ist eine der schwierigsten Entscheidungen, die du treffen kannst. Egal, ob du sich auseinandergewachsen habt, die Chemie verloren gegangen ist oder grundlegende Unterschiede unüberwindbar geworden sind — der Gedanke, dein Gegenüber zu verletzen, kann dich lahmlegen. Doch genau hier liegt der Knackpunkt: Eine ehrliche, respektvolle [Trennung](/blog/trennung-verarbeiten-12-schritte) ist der liebevollste Weg für beide Seiten. Dieser Leitfaden zeigt dir, wie du mit Würde Schluss machst.
 
 ## Erkenne die Zeichen: Wann ist es Zeit, sich zu trennen?
 

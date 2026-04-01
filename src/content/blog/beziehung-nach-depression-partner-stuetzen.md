@@ -214,7 +214,7 @@ Frag dich:
 - Ist der Partner bereit, an sich selbst zu arbeiten?
 - Kann ich die nächsten 5, 10, 20 Jahre so weitermachen?
 
-Wenn die Antworten negativ sind, ist eine Trennung vielleicht die liebevollste Antwort – für euch beide.
+Wenn die Antworten negativ sind, ist eine [Trennung](/blog/trennung-verarbeiten-12-schritte) vielleicht die liebevollste Antwort – für euch beide.
 
 ## Der Weg zur Heilung: Hoffnung und Realismus
 

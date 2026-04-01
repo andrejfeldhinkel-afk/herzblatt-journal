@@ -31,7 +31,7 @@ faq:
 
 ## Die Obsession ist normal – und temporary
 
-Die erste Woche nach der Trennung ist am schlimmsten. Dein Ex ist überall. In deinen Gedanken, auf deinem Handy, in deinen Träumen. Du wachst auf und fragst dich: War es real?
+Die erste Woche nach der [Trennung](/blog/trennung-verarbeiten-12-schritte) ist am schlimmsten. Dein Ex ist überall. In deinen Gedanken, auf deinem Handy, in deinen Träumen. Du wachst auf und fragst dich: War es real?
 
 Das ist neurobiologisch real. Dein Gehirn hat sich an die Anwesenheit dieser Person gewöhnt. Jetzt fehlt sie. Dein Gehirn sucht überall nach dieser Person.
 

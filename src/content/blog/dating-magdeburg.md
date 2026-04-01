@@ -163,7 +163,7 @@ Obwohl Magdeburg eine Stadt ist, wo es möglich ist, Menschen in der freien Natu
 
 **Bumble** ist die weiblichere Alternative und beliebt bei Frauen, die selbst den ersten Schritt machen möchten. Viele progressive Singles nutzen hier.
 
-**Hinge** wird immer beliebter und zieht Menschen an, die eher langfristige Beziehungen suchen. Oft eine bessere Qualität an Matches.
+**[Hinge](/blog/hinge-guide-deutsch-2026)** wird immer beliebter und zieht Menschen an, die eher langfristige Beziehungen suchen. Oft eine bessere Qualität an Matches.
 
 **OkCupid** hat eine treue Community in Magdeburg, besonders bei intellektuellen und kreativen Singles.
 

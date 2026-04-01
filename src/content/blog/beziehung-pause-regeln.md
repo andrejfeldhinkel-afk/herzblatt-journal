@@ -14,7 +14,7 @@ tags:
 
 Es ist ein Satz, den du vielleicht selbst schon gehört hast oder der dir schon über die Lippen gekommen ist: „Ich glaube, wir brauchen eine Pause." Diese Worte können sich anfühlen wie ein Todesstoss für eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) – oder wie eine Rettungslinie. Das Problem ist, dass eine Beziehungspause für viele Menschen die gleiche Bedeutung wie ein Seitensprung hat. Es bedeutet das Ende. Aber das ist nicht unbedingt wahr.
 
-Eine Beziehungspause ist nicht automatisch das Gleiche wie eine Trennung. Es ist auch nicht die gleiche wie „wir sollten zusammen sein, aber nicht zuviel Zeit miteinander verbringen". Eine echte Beziehungspause ist etwas ganz Spezifisches: eine vereinbarte Zeit, in der zwei Menschen, die zusammen waren, sich bewusst aus der Beziehung zurückziehen, um Klarheit zu gewinnen.
+Eine Beziehungspause ist nicht automatisch das Gleiche wie eine [Trennung](/blog/trennung-verarbeiten-12-schritte). Es ist auch nicht die gleiche wie „wir sollten zusammen sein, aber nicht zuviel Zeit miteinander verbringen". Eine echte Beziehungspause ist etwas ganz Spezifisches: eine vereinbarte Zeit, in der zwei Menschen, die zusammen waren, sich bewusst aus der Beziehung zurückziehen, um Klarheit zu gewinnen.
 
 Aber hier ist die kritische Wahrheit: Eine Beziehungspause funktioniert nur mit sehr klaren Regeln. Ohne diese Regeln wird es zu einer Quelle von Missverständnissen, Schmerz und oft zum Ende der Beziehung. Mit klaren Regeln kann sie tatsächlich helfen, eine Beziehung zu retten – oder euch in Klarheit helfen zu verstehen, dass die Beziehung vorbei sein sollte.
 

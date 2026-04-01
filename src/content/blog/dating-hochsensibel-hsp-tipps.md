@@ -110,7 +110,7 @@ Das heißt nicht, dass du nur HSPs daten musst. Aber wenn du anfängst zu screen
 
 Tinder kann überwältigend sein – hundert Bilder zum Swipen, hundert Matches zum Antworten. Das ist sensorische Überflutung im digitalen Format.
 
-Versuche stattdessen Apps wie Hinge, wo die Matches kleiner sind und die Profile umfassender. Oder treffe Menschen durch Freunde oder Events.
+Versuche stattdessen Apps wie [Hinge](/blog/hinge-guide-deutsch-2026), wo die Matches kleiner sind und die Profile umfassender. Oder treffe Menschen durch Freunde oder Events.
 
 ### 7. Hab einen Plan B für Overstimulation
 

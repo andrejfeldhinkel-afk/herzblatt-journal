@@ -30,7 +30,7 @@ In unserer globalisierten Welt stehen Millionen Paare vor dieser Frage: Wie gehe
 
 Dein erstes Gefühl wird Panik sein – das ist normal und berechtigt. In Sekunden verliert dein Gehirn das Fundament, das es für deine Zukunft gebaut hat. Plötzlich ist nichts mehr sicher.
 
-Das Wichtigste: Eine Auswanderung ist nicht dasselbe wie eine Trennung. Meist denken Menschen "ich will dorthin", nicht "ich will weg von dir". Das ist ein wichtiger Unterschied.
+Das Wichtigste: Eine Auswanderung ist nicht dasselbe wie eine [Trennung](/blog/trennung-verarbeiten-12-schritte). Meist denken Menschen "ich will dorthin", nicht "ich will weg von dir". Das ist ein wichtiger Unterschied.
 
 Aber dein Gefühl der Bedrohung ist vollkommen berechtigt. Deine Sicherheit, euer Alltag – alles steht zur Disposition. Ehe du reagierst, brauchst du Klarheit. Setz dich hin. Atme. Bereite ein echtes Gespräch vor.
 

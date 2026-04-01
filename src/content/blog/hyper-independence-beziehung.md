@@ -363,4 +363,4 @@ Deine Hyper-Independence war ein Überlebensmechanismus. Deine Heilung ist dein 
 - [Fawn Response: Wenn du dich in Beziehungen aufgibst, um](/blog/fawn-response-beziehung-guide/)
 - [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inneres-kind-heilen-beziehung/)
 - [Parentifizierung: Wenn du als Kind die Elternrolle](/blog/parentifizierung-beziehungen-guide/)
-- [Scheidungskinder und Liebe: Wie die Trennung deiner Eltern](/blog/scheidungskinder-beziehungen-erwachsene/)
+- [Scheidungskinder und Liebe: Wie die [Trennung](/blog/trennung-verarbeiten-12-schritte) deiner Eltern](/blog/scheidungskinder-beziehungen-erwachsene/)

@@ -473,7 +473,7 @@ Das ist genug, um zu beginnen.
 
 ## Das könnte dich auch interessieren
 
-- [Selbstliebe lernen nach Trennung: Dein Weg zurück zu dir selbst](/blog/selbstliebe-nach-trennung/)
+- [Selbstliebe lernen nach [Trennung](/blog/trennung-verarbeiten-12-schritte): Dein Weg zurück zu dir selbst](/blog/selbstliebe-nach-trennung/)
 - [Trennen oder bleiben? Der ehrliche Guide zur schwersten Entscheidung](/blog/trennen-oder-bleiben-guide/)
 - [Glücklich Single: Warum Alleinsein keine Schwäche ist](/blog/singles-gluecklich/)
 - [Emotionale Abhängigkeit überwinden](/blog/emotionale-abhaengigkeit/)

@@ -284,7 +284,7 @@ Das entfernt die langwierige Chat-Phase völlig. Du siehst dich sofort.
 
 **Klassische Apps, die Micro-Dating erlauben**
 
-Aber du brauchst spezialisierte Apps nicht. Tinder, Bumble, Hinge funktionieren auch — du musst nur strategisch sein.
+Aber du brauchst spezialisierte Apps nicht. Tinder, Bumble, [Hinge](/blog/hinge-guide-deutsch-2026) funktionieren auch — du musst nur strategisch sein.
 
 Auf Tinder: Sei konkret in der ersten Nachricht: "Ich mag kurze Kaffee-Dates. Morgen 17:00 im Café Eckstein?" Das ist nicht vage. Es sagt sofort, was du willst.
 

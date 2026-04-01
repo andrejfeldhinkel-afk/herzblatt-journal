@@ -134,7 +134,7 @@ Die populärsten Apps in München sind:
 
 **Bumble**: Progressiv und Frauen-gesteuert.
 
-**Hinge**: Für ernsthaftere Beziehungen.
+**[Hinge](/blog/hinge-guide-deutsch-2026)**: Für ernsthaftere Beziehungen.
 
 **Once**: Tägliche Matches mit Qualität vor Quantität.
 

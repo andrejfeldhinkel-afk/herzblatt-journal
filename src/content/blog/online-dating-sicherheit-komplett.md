@@ -211,7 +211,7 @@ Das ist offensichtlich Unsinn. Keine echte Person mit echtem Gold-Geschäft wür
 
 ### Das "Liebe auf den ersten Blick"-Szenario
 
-Ein absolut üblicher Betrug: Jemand bombardiert dich mit Aufmerksamkeit. Täglich lange Nachrichten, Emojis, ständige Komplimente. Nach einer Woche "Du bist meine Soulmate". Nach zwei Wochen "Ich liebe dich so sehr". Das ist nicht normal. Es ist Manipulation. Eine echte emotionale Bindung braucht Zeit und Präsenz — nicht nur Chats.
+Ein absolut üblicher Betrug: Jemand bombardiert dich mit Aufmerksamkeit. Täglich lange Nachrichten, Emojis, ständige [Komplimente](/blog/komplimente-fuer-maenner). Nach einer Woche "Du bist meine Soulmate". Nach zwei Wochen "Ich liebe dich so sehr". Das ist nicht normal. Es ist Manipulation. Eine echte emotionale Bindung braucht Zeit und Präsenz — nicht nur Chats.
 
 ## Datenschutz und Sicherheit bei Dating-Apps
 

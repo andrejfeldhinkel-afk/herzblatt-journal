@@ -214,7 +214,7 @@ Die Kosten für Paartherapie variieren. In Deutschland zahlen Krankenkassen oft 
 
 ![Paar macht einen Spaziergang und beginnt wieder zu kommunizieren](/images/blog/inline/seitensprung-neuanfang-entscheidung.webp)
 
-## Wenn du gehst: Trennung nach Seitensprung gesund verarbeiten
+## Wenn du gehst: [Trennung](/blog/trennung-verarbeiten-12-schritte) nach Seitensprung gesund verarbeiten
 
 Nicht alle Beziehungen sollten überstehen. Manchmal ist die beste Entscheidung, zu gehen. Das ist nicht "Versagen" — das ist Selbstschutz.
 

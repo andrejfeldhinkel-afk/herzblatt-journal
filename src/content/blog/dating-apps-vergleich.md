@@ -57,7 +57,7 @@ Bumble ist der "Feminist" Dating App – Frauen müssen die erste Nachricht send
 
 ### Hinge
 
-Hinge nennt sich "die App die für die Ehe entwickelt ist."
+[Hinge](/blog/hinge-guide-deutsch-2026) nennt sich "die App die für die Ehe entwickelt ist."
 
 **Beste für:** Ernsthaft Dating, langfristige Beziehungen, 25-40
 

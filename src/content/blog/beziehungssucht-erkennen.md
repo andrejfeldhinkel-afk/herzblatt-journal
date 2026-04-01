@@ -44,7 +44,7 @@ Erkennst du dich selbst in diesen Punkten wieder?
 
 Hier ist der Unterschied, den du verstehen musst: Echte Liebe ist ein Zusatz zu deinem Leben. Beziehungssucht ist ein Ersatz für dein Leben.
 
-Bei echter Liebe entscheidest du dich, mit jemandem zu wachsen. Du hast dein eigenes Ding, und diese Person fügt dem hinzu. Du kannst Zeit allein verbringen und dich freuen. Du vermisst die Person, aber du überlebst nicht die Trennung.
+Bei echter Liebe entscheidest du dich, mit jemandem zu wachsen. Du hast dein eigenes Ding, und diese Person fügt dem hinzu. Du kannst Zeit allein verbringen und dich freuen. Du vermisst die Person, aber du überlebst nicht die [Trennung](/blog/trennung-verarbeiten-12-schritte).
 
 Bei Beziehungssucht verwendest du die andere Person als Medikament. Sie ist dein Fix. Sie ist das, was dich fühlen lässt, dass dein Leben einen Sinn hat. Wenn sie weg ist, bist du weg. Es gibt kein "dein eigenes Ding". Es gibt nur die Beziehung.
 

@@ -49,7 +49,7 @@ Das ist nicht schlecht. Das ist gut. Aber es bedeutet, dass weniger Menschen den
 ### Sein auf den richtigen Plattformen
 Dating-Apps sind nicht nur für Junge. Viele Menschen ab 40 nutzen sie. Aber wähle die richtigen Apps.
 
-Apps wie Bumble oder Hinge funktionieren besser für Menschen, die Tiefe suchen. Tinder ist zu oberflächlich für die meisten ab 40.
+Apps wie Bumble oder [Hinge](/blog/hinge-guide-deutsch-2026) funktionieren besser für Menschen, die Tiefe suchen. Tinder ist zu oberflächlich für die meisten ab 40.
 
 ### Sei authentisch in Deinem Profil
 Nutze ein echtes Foto. Das muss nicht model-würdig sein. Es sollte wie Du aussehen.

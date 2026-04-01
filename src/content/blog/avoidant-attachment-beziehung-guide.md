@@ -117,7 +117,7 @@ Aber sobald der andere Partner sich emotionaler öffnet oder mehr Nähe sucht, b
 
 Der andere Partner fühlt sich verletzt oder verwirrt. Sie können versuchen, näher zu rücken oder Verständnis zu suchen. Aber je näher sie rücken, desto weiter zieht sich der vermeidende Partner zurück. Dies führt zu einem Zyklus von Verfolgung und Rückzug.
 
-Dieser Zyklus kann sich über Wochen, Monate oder Jahre hinziehen. Manchmal führt es zur Trennung, wenn die Bedürfnisse fundamentally incompatible sind. Manchmal bleibt die Beziehung aber oberflächlich und unbefriedigend für beide.
+Dieser Zyklus kann sich über Wochen, Monate oder Jahre hinziehen. Manchmal führt es zur [Trennung](/blog/trennung-verarbeiten-12-schritte), wenn die Bedürfnisse fundamentally incompatible sind. Manchmal bleibt die Beziehung aber oberflächlich und unbefriedigend für beide.
 
 Das Verstehen dieses Zyklus ist wichtig, weil es dem vermeidenden Menschen hilft zu verstehen, dass das Problem nicht „die andere Person" ist – es ist das eigene Nervensystem. Mit diesem Verständnis kann echte Veränderung beginnen.
 

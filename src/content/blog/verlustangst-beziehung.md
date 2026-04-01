@@ -35,7 +35,7 @@ Verlustangst hat häufig ihre Wurzeln in der Kindheit – und das ist important,
 
 Vielleicht war ein Elternteil emotional nicht erreichbar. Deine Mutter war immer müde, dein Vater immer frustriert. Du lerntest: "Liebe ist nicht sicher. Menschen, die dich lieben könnten, sind nicht verfügbar." Oder es gab Trennungen, die dein junges Gehirn verletzten. Ein Elternteil verließ, und du lerntest: "Ich bin nicht genug, um jemanden bei mir zu halten."
 
-Aber auch erwachsene Erfahrungen können Verlustangst auslösen. Eine unerwartete Trennung nach Jahren zusammen. Ein Seitensprung, der dein Vertrauen zerstörte. Ein Partner, der plötzlich die Beziehung beendete, ohne echte Erklärung. Diese Traumata können tiefe Narben hinterlassen.
+Aber auch erwachsene Erfahrungen können Verlustangst auslösen. Eine unerwartete [Trennung](/blog/trennung-verarbeiten-12-schritte) nach Jahren zusammen. Ein Seitensprung, der dein Vertrauen zerstörte. Ein Partner, der plötzlich die Beziehung beendete, ohne echte Erklärung. Diese Traumata können tiefe Narben hinterlassen.
 
 Das Gehirn lernt dann einen neuen Überlebensmechanismus: "Liebe ist unsicher. Menschen verlassen mich. Ich muss mich selbst schützen durch Kontrolle."
 

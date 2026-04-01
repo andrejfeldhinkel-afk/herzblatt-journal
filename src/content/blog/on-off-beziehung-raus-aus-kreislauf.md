@@ -58,7 +58,7 @@ Eine on-off Beziehung zehrt an dir auf. Es ist nicht nur der emotionale Stress, 
 
 Dein Nervensystem ist ständig im Alarmzustand. Dein Körper produziert kontinuierlich Stresshormone wie Cortisol. Das führt zu Burnout, Kopfschmerzen, Magen-Darm-Problemen und einem geschwächten Immunsystem. Du wirst buchstäblich krank von dieser Beziehung, ohne es vollständig zu erkennen.
 
-Psychisch wird es noch schlimmer. Dein Selbstwertgefühl sinkt mit jeder Trennung und Versöhnung. Du stellst deine eigenen Grenzen in Frage. Du zweifelt an deinen Gefühlen und deinen Entscheidungen. Du verlierst das Vertrauen in deine Intuition, weil du immer wieder entgegen deiner besseren Urteilskraft handelst.
+Psychisch wird es noch schlimmer. Dein Selbstwertgefühl sinkt mit jeder [Trennung](/blog/trennung-verarbeiten-12-schritte) und Versöhnung. Du stellst deine eigenen Grenzen in Frage. Du zweifelt an deinen Gefühlen und deinen Entscheidungen. Du verlierst das Vertrauen in deine Intuition, weil du immer wieder entgegen deiner besseren Urteilskraft handelst.
 
 Eine on-off Beziehung schadet auch deinen anderen Beziehungen. Deine Freunde und Familie sind frustriert, weil du immer wieder zum gleichen Partner zurückgehrst. Sie wollen dir helfen, aber deine ständigen emotionalen Zustände sind anstrengend. Du isolierst dich, weil du dich für deine Entscheidungen schämst.
 

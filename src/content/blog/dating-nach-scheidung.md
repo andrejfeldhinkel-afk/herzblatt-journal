@@ -14,7 +14,7 @@ tags:
 
 Eine Scheidung ist ein Bruch. Nicht nur die [beziehung](/blog/adhs-und-beziehung-komplett-guide/), sondern auch dein Selbstbild, deine Routinen, dein Leben. Und jetzt stellst du dir die Frage: Kann ich wieder daten? Sollte ich? Die Antwort ist komplexer als ja oder nein.
 
-## Erste Schritte nach der Trennung
+## Erste Schritte nach der [Trennung](/blog/trennung-verarbeiten-12-schritte)
 
 Bevor du dich in die Dating-Welt stürzt, brauchst du Zeit und Klarheit.
 

@@ -266,7 +266,7 @@ Das ist ok. Das ist keine Störung. Das ist einfach eine Art, zu lieben.
 
 Problematisch wird es nur, wenn EIN Partner mit keinem Sex ist ok und die andere nicht. Das schafft Leiden. Das ist keine Beziehung mehr, wo beide ihre Bedürfnisse erfüllt fühlen.
 
-Wenn du in einer Beziehung bist, wo Sex nicht passiert und ein Partner leidet, kann das nicht schweigend erduldet werden jahrelang. Das führt zu Resentment, zu Affären, zu Trennung.
+Wenn du in einer Beziehung bist, wo Sex nicht passiert und ein Partner leidet, kann das nicht schweigend erduldet werden jahrelang. Das führt zu Resentment, zu Affären, zu [Trennung](/blog/trennung-verarbeiten-12-schritte).
 
 Eine ehrliche Konversation muss passieren, möglicherweise über Therapie. Das könnte so aussehen: „Ich kann nicht in einer Beziehung ohne Sex sein. Das ist nicht böse oder falsch — es ist einfach wichtig zu mir. Wenn du nicht in der Lage bist, das zu liefern, müssen wir reden über, was die Optionen sind."
 

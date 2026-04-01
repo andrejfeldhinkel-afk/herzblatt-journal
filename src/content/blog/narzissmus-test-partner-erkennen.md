@@ -49,13 +49,13 @@ Das ist eines der häufigsten Zeichen einer Beziehung mit einem Narzissten: Dies
 
 ## Warum ein Narzissmus-Test sinnvoll ist
 
-Du kennst wahrscheinlich das Klischee vom Narzissten: selbstverliebter Mann, der ständig Komplimente braucht, sich in jedem Spiegel betrachtet und immer im Rampenlicht stehen muss. Aber die Realität ist komplizierter. Und deshalb ist ein strukturierter Test hilfreicher als deine Intuition allein.
+Du kennst wahrscheinlich das Klischee vom Narzissten: selbstverliebter Mann, der ständig [Komplimente](/blog/komplimente-fuer-maenner) braucht, sich in jedem Spiegel betrachtet und immer im Rampenlicht stehen muss. Aber die Realität ist komplizierter. Und deshalb ist ein strukturierter Test hilfreicher als deine Intuition allein.
 
 Ein guter Test hat mehrere Vorteile. Erstens schafft er Struktur. Statt vage zu fühlen, dass etwas nicht stimmt, kannst du konkrete Verhaltensweisen überprüfen. Zweitens reduziert ein Test Selbsttäuschung. Wenn du [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist oder lange mit jemandem zusammen, beschönigst du unbewusst sein Verhalten. Ein Test zwingt dich, ehrlich hinzuschauen. Drittens hilft er dir, zwischen "normalen" Persönlichkeitszügen und echtem pathologischem Narzissmus zu unterscheiden.
 
 **Ein Test ist nicht diagnostisch.** Das ist wichtig. Ein Online-Test kann keine klinische Diagnose stellen. Das braucht einen Psychiater oder klinischen Psychologen. Aber ein guter Test kann dir Signale geben. Er kann dir helfen zu sehen, ob die Beziehung schädlich ist — unabhängig davon, ob dein Partner "offiziell" narzisstisch ist oder nicht.
 
-Viele Menschen fragen sich nach einer Trennung von einem emotional manipulativen Partner: "War er ein Narzisst?" Diese Frage hat oft weniger mit einer Diagnose zu tun als mit dem Verständnis, warum die Beziehung wehtut. Und genau dabei kann dieser Test helfen.
+Viele Menschen fragen sich nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte) von einem emotional manipulativen Partner: "War er ein Narzisst?" Diese Frage hat oft weniger mit einer Diagnose zu tun als mit dem Verständnis, warum die Beziehung wehtut. Und genau dabei kann dieser Test helfen.
 
 ### Die Häufigkeit von Narzissmus
 

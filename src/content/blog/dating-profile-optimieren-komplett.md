@@ -292,7 +292,7 @@ Auf Tinder ist es ein schnelles Spiel. Dein Hauptfoto ist alles. Deine Bio ist z
 
 Auf Bumble, wo Frauen die erste Nachricht schreiben, sollte dein Profil mehr über Konversation einladen. Eine bio, die Fragen stellt, kann helfen. Deine Bilder sollten zeigen, dass du es wert bist, angeschrieben zu werden.
 
-Auf Hinge, das sich auf langfristige Beziehungen konzentriert, sollte dein Profil mehr Persönlichkeit aufbauen. Die Bio kann länger sein. Du kannst mehr über deine Werte sprechen. Deine Fotos sollten authentischer, weniger "perfekt" sein.
+Auf [Hinge](/blog/hinge-guide-deutsch-2026), das sich auf langfristige Beziehungen konzentriert, sollte dein Profil mehr Persönlichkeit aufbauen. Die Bio kann länger sein. Du kannst mehr über deine Werte sprechen. Deine Fotos sollten authentischer, weniger "perfekt" sein.
 
 Die Lektion: Werde nicht eins zu eins zwischen Apps übernommen. Adapte dein Profil-Branding für jede Plattform, während du authentisch bleibst.
 

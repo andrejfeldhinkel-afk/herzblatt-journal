@@ -92,7 +92,7 @@ Dieser Zyklus ist neurologisch süchtig machend. Das Trauma-Hormon Cortisol wird
 
 Menschen, die in Trauma-Bonding-Situationen sind, wissen oft, dass etwas falsch ist, aber sie können sich nicht wegbewegen. Dies ist nicht ein Mangel an Willenskraft oder Intelligenz - es ist eine biologische Falle, in die das Gehirn gefallen ist. Sie setzen oft ihre ganze Hoffnung in die Gnadenphasen, glauben, dass der Partner sich wirklich ändern wird, und tolerieren immer mehr Missbrauch in der Hoffnung, dass die perfekte Grenze oder Entschuldigung endlich alles heilt.
 
-Es ist entscheidend zu verstehen, dass wenn man in einer abusiven Beziehung ist, Heilung möglicherweise Trennung bedeutet, zumindest vorübergehend. Das Gehirn kann in einer aktiv missbrauchenden Beziehung nicht heilen. Die Neurowissenschaft ist hier klar: Eine Person kann nicht gleichzeitig in Sicherheit sein und heilen während sie Missbrauch erfährt.
+Es ist entscheidend zu verstehen, dass wenn man in einer abusiven Beziehung ist, Heilung möglicherweise [Trennung](/blog/trennung-verarbeiten-12-schritte) bedeutet, zumindest vorübergehend. Das Gehirn kann in einer aktiv missbrauchenden Beziehung nicht heilen. Die Neurowissenschaft ist hier klar: Eine Person kann nicht gleichzeitig in Sicherheit sein und heilen während sie Missbrauch erfährt.
 
 ## Körperliche Manifestationen von psychologischem Trauma
 

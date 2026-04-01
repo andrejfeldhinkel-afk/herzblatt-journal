@@ -76,7 +76,7 @@ Die **Kunstverein Braunschweig** zeigen zeitgenössische Kunstwerke. Perfekt fü
 
 Braunschweig ist eine lebendige Universitätsstadt. Mit TU und vielen Student:innen gibt es eine junge, progressive Dating-Szene.
 
-**Tinder** und **Bumble** sind dominant. **Hinge** ist bei ernsthafteren Singles beliebter.
+**Tinder** und **Bumble** sind dominant. **[Hinge](/blog/hinge-guide-deutsch-2026)** ist bei ernsthafteren Singles beliebter.
 
 Die Stadt hat eine offene, tolerante Atmosphäre. Verschiedene Dating-Stile sind willkommen.
 

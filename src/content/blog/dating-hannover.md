@@ -75,7 +75,7 @@ Es gibt auch regelmäßige Kunstausstellungen und Musik-Events.
 
 ### Dating-Apps
 
-[bumble](/blog/beste-dating-apps-2026/) und Hinge funktionieren in Hannover. Die Stadt hat viele gebildete, progressive Menschen.
+[bumble](/blog/beste-dating-apps-2026/) und [Hinge](/blog/hinge-guide-deutsch-2026) funktionieren in Hannover. Die Stadt hat viele gebildete, progressive Menschen.
 
 Dein Profil: Erwähne die Seen oder die Natur. Das zeigt, was Dir wichtig ist.
 

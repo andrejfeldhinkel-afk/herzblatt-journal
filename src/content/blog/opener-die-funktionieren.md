@@ -131,7 +131,7 @@ Warum das funktioniert: Es ist nachdenklich ohne depressiv zu sein. Es zeigt, da
 Nutze nicht die gleiche Nachricht für jeden. Das ist offensichtlich und fühlt sich nicht authentisch an.
 
 **Fehler 2: Zu viel Schmeichelei zu früh**
-Ein Kompliment ist schön, aber fünf Komplimente in einer ersten Nachricht ist zu viel.
+Ein Kompliment ist schön, aber fünf [Komplimente](/blog/komplimente-fuer-maenner) in einer ersten Nachricht ist zu viel.
 
 **Fehler 3: Dein Leben-Geschichte erzählen**
 Keine lange Biographie von dir in der ersten Nachricht. Lass die andere Person Dinge über dich lernen, während das Gespräch wächst.
@@ -173,6 +173,6 @@ Nutze diese Opener als Anleitung, aber pass sie an dich selbst an. Deine echte S
 ## Das könnte dich auch interessieren
 
 - [50 Opener für Dating-Apps die wirklich funktionieren](/blog/dating-app-opener-vorlagen/)
-- [Erste eigene Wohnung nach Trennung: Der Neustart-Guide](/blog/erste-wohnung-nach-trennung/)
+- [Erste eigene Wohnung nach [Trennung](/blog/trennung-verarbeiten-12-schritte): Der Neustart-Guide](/blog/erste-wohnung-nach-trennung/)
 - [Erste Nachricht Tipps: Wie du Aufmerksamkeit bekommst](/blog/dating-erste-nachricht-tipps/)
 - [Die perfekte erste Nachricht beim Online-Dating](/blog/dating-kommunikation-erste-nachricht-tipps/)

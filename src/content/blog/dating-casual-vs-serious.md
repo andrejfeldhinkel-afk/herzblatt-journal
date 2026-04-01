@@ -39,7 +39,7 @@ Das ist nicht gut oder schlecht – es ist eine Frage der Passung zu deinen Bed�
 
 Du bist in einer Casual-Dating-Phase, wenn:
 
-- Du gerade eine Trennung hinter dir hast und noch nicht bereit für Ernsthaftigkeit
+- Du gerade eine [Trennung](/blog/trennung-verarbeiten-12-schritte) hinter dir hast und noch nicht bereit für Ernsthaftigkeit
 - Du viel arbeiten/studieren musst und wenig Zeit für Beziehung hast
 - Du verschiedene Menschen kennenlernen und verstehen möchtest, was du willst
 - Du Spaß haben willst ohne emotionales Commitment

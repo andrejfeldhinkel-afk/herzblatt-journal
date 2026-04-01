@@ -234,7 +234,7 @@ Obwohl es „nur" eine Situationship war, darfst du trauern. Deine Gefühle ware
 
 ### Kontakt unterbrechen
 
-Starke Kontakt mit dieser Person — keine Messages, keine Social-Media-Verfolgung, keine „zufälligen" Begegnungen. Dein Gehirn braucht eine klare Trennung.
+Starke Kontakt mit dieser Person — keine Messages, keine Social-Media-Verfolgung, keine „zufälligen" Begegnungen. Dein Gehirn braucht eine klare [Trennung](/blog/trennung-verarbeiten-12-schritte).
 
 ### Mit Freunden sprechen
 

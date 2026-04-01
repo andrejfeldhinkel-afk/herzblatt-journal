@@ -182,7 +182,7 @@ Kostenlos zu betreten (nur Parking-Gebühr), was es auch für Budget-Dates attra
 
 **Bumble** hat eine solide Community in Essen, besonders bei berufstätigen Frauen.
 
-**Hinge** ist für ernsthaftere Beziehungs-Sucher beliebt.
+**[Hinge](/blog/hinge-guide-deutsch-2026)** ist für ernsthaftere Beziehungs-Sucher beliebt.
 
 **OkCupid** wurde lange genutzt, hat aber etwas an Marktanteile verloren.
 

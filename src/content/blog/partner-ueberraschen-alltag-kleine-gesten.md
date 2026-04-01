@@ -48,7 +48,7 @@ Wenn möglich, besuche deinen Partner überraschend bei der Arbeit. Bring Kaffee
 
 ### 6. Ein Kompliment zu einem unerwarteten Zeitpunkt
 
-Während ihr gerade etwas völlig Alltägliches macht – du wäschst Geschirr, er schaut gerade nach einer E-Mail – sage einfach, was dir gerade in den Sinn kommt, das dir an ihm gefällt. „Mir ist gerade aufgefallen, wie geduldig du mit diesem Problem umgehst" oder „Deine Augen sehen heute besonders schön aus". Unerwartete Komplimente wirken authentischer und freuen deutlich mehr.
+Während ihr gerade etwas völlig Alltägliches macht – du wäschst Geschirr, er schaut gerade nach einer E-Mail – sage einfach, was dir gerade in den Sinn kommt, das dir an ihm gefällt. „Mir ist gerade aufgefallen, wie geduldig du mit diesem Problem umgehst" oder „Deine Augen sehen heute besonders schön aus". Unerwartete [Komplimente](/blog/komplimente-fuer-maenner) wirken authentischer und freuen deutlich mehr.
 
 ### 7. Ein Lieblings-Snack besorgen
 

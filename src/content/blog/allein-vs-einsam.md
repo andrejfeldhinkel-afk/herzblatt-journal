@@ -118,7 +118,7 @@ Ein Missverständnis: Introvertierte Menschen sind einsam. Das ist nicht wahr.
 
 Introversion ist über, wie du Energie bekommst. Ein introvertiertes Mensch wird energiert durch Zeit allein. Ein extrovertiertes Mensch wird energiert durch Zeit mit anderen Menschen.
 
-Einsamkeit ist etwas anderes. Dies ist das Gefühl von Trennung und Schmerz, unabhängig davon, ob du introvertiert oder extrovertiert bist.
+Einsamkeit ist etwas anderes. Dies ist das Gefühl von [Trennung](/blog/trennung-verarbeiten-12-schritte) und Schmerz, unabhängig davon, ob du introvertiert oder extrovertiert bist.
 
 Tatsächlich sind Introvertierte oft besser darin, allein zu sein. Sie haben weniger Unbehagen mit Einsamkeit-freier Zeit. Das Problem für Introvertierte kommt eher, wenn sie nicht genug Zeit für sich selbst kriegen.
 

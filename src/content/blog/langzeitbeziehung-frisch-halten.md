@@ -168,7 +168,7 @@ Die wichtigste Veränderung ist nicht eine einzelne große Geste. Die wichtigste
 
 Eine Date Night pro Woche ist mächtiger als ein Überraschungs-Wochenende pro Jahr.
 
-Tägliche kleine Komplimente sind mächtiger als ein großes romantisches Dinner pro Jahr.
+Tägliche kleine [Komplimente](/blog/komplimente-fuer-maenner) sind mächtiger als ein großes romantisches Dinner pro Jahr.
 
 ## Das tiefere Problem: Warum Routinen entstehen
 

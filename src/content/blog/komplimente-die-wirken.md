@@ -20,7 +20,7 @@ faq:
 
 ---
 
-## Warum die meisten Komplimente verpuffen — und wie du es besser machst
+## Warum die meisten [Komplimente](/blog/komplimente-fuer-maenner) verpuffen — und wie du es besser machst
 
 "Du bist hübsch." Nett gemeint, vergessen in fünf Sekunden. Die meisten Komplimente scheitern, weil sie generisch sind. Sie könnten an jede Person gerichtet sein. Ein Kompliment, das deine Konkurrenz hätte bekommen, ist kein Kompliment. Es ist ein Reflex.
 

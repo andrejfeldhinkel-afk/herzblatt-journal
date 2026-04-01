@@ -41,7 +41,7 @@ Das ist anders für jeden. Es gibt keinen Standard Timeline. Aber hier sind eini
 
 **Bin ich emotional fertig?**
 
-- Bin ich mit der Trennung/Scheidung/Situation fertig, oder bin ich noch wütend?
+- Bin ich mit der [Trennung](/blog/trennung-verarbeiten-12-schritte)/Scheidung/Situation fertig, oder bin ich noch wütend?
 - Suche ich nach jemandem um Lücke zu füllen, oder suche ich nach echter Verbindung?
 - Kann ich einen neuen Person als eigenständig sehen, oder projiziere ich auf ihn?
 
@@ -119,7 +119,7 @@ Es gibt spezialisierte Apps für alleinerziehende Eltern. Das ist kein Versagen 
 - Pro: Größer Pool, Frau startet Conversation
 - Con: Immer noch mischen mit nicht-Parents
 
-**Hinge**
+**[Hinge](/blog/hinge-guide-deutsch-2026)**
 - Bekannt als "Dating-App für Beziehungen"
 - Kann deklarieren, dass du Elternteil bist
 - Pro: Qualität über Quantity, ernsthafte Absichten

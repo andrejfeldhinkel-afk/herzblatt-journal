@@ -56,7 +56,7 @@ Eine Beziehung mit einem Narzissten ist nicht einfach eine schlechte Beziehung. 
 
 Wenn so eine Beziehung endet – egal ob du derjenige bist, der sich befreit, oder derjenige, der verlassen wird – hinterlässt sie eine Verwüstung. Du zweifelsst an deinem Urteilsvermögen. Du bist unsicher über deine Fähigkeit, andere Menschen zu lesen. Du hast Angst, jemandem zu vertrauen. Und die Vorstellung, wieder zu daten, ist ungeheuer belastend.
 
-Dies ist einer der häufigen Wege, wie Narzissten dein Leben weitermachen, lange nach dem Datum der Trennung. Sie nehmen nicht nur deine Gegenwart – sie nehmen auch deine Zukunft. Sie vergiften deine Fähigkeit, neue Beziehungen aufzubauen. Es sei denn, du unternimmst bewusste Schritte, um dich selbst zu heilen.
+Dies ist einer der häufigen Wege, wie Narzissten dein Leben weitermachen, lange nach dem Datum der [Trennung](/blog/trennung-verarbeiten-12-schritte). Sie nehmen nicht nur deine Gegenwart – sie nehmen auch deine Zukunft. Sie vergiften deine Fähigkeit, neue Beziehungen aufzubauen. Es sei denn, du unternimmst bewusste Schritte, um dich selbst zu heilen.
 
 ## Was narzisstischer Missbrauch mit dir macht
 

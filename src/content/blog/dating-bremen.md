@@ -233,7 +233,7 @@ Online-Dating funktioniert in Bremen sehr gut. Die Stadt ist groß genug für ak
 
 **Bumble** hat eine gute Community, besonders bei progressiven, gebildeteren Frauen.
 
-**Hinge** wird beliebter und zieht Menschen an, die echte Beziehungen suchen. Oft bessere Match-Qualität.
+**[Hinge](/blog/hinge-guide-deutsch-2026)** wird beliebter und zieht Menschen an, die echte Beziehungen suchen. Oft bessere Match-Qualität.
 
 **OkCupid** hat Fans in Bremen, besonders unter intellektuellen Typen.
 

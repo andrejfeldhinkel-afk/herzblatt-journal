@@ -148,7 +148,7 @@ Dein Date sagt: „Du siehst so fit aus." oder „Du hast wirklich schöne Kurve
 Das ist deine Essstörungs-Stimme, nicht die Realität. Das ist dein Gehirn, das noch im Essstörungs-Modus ist.
 
 Was zu tun ist:
-- Denke daran, dass die meisten Menschen Komplimente bedeuten. Sie analytisieren nicht deinen Körper wie du.
+- Denke daran, dass die meisten Menschen [Komplimente](/blog/komplimente-fuer-maenner) bedeuten. Sie analytisieren nicht deinen Körper wie du.
 - Sag einfach „danke" und richte die Konversation um.
 - Wenn es dich wirklich stört, kannst du später darüber mit deinem Therapeuten sprechen. Das ist keine große Sache.
 

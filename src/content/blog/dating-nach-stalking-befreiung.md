@@ -27,7 +27,7 @@ faq:
 
 ## Der unsichtbare Albtraum, der sich in Vorsicht verwandelt
 
-Stalking ist nicht wie eine normale Trennung. Es ist nicht wie einfaches Heartbreak. Es ist eine Verletzung deiner Sicherheit, die bis in die tiefsten Teile deines Nervensystems eindringt. Nach einer Stalking-Erfahrung ist die Welt ein anderer Ort. Orte, die früher sicher waren, fühlen sich plötzlich offen an. Menschen, die früher vertrauenswürdig wirkten, wecken Misstrauen.
+Stalking ist nicht wie eine normale [Trennung](/blog/trennung-verarbeiten-12-schritte). Es ist nicht wie einfaches Heartbreak. Es ist eine Verletzung deiner Sicherheit, die bis in die tiefsten Teile deines Nervensystems eindringt. Nach einer Stalking-Erfahrung ist die Welt ein anderer Ort. Orte, die früher sicher waren, fühlen sich plötzlich offen an. Menschen, die früher vertrauenswürdig wirkten, wecken Misstrauen.
 
 Und dann kommt dieser Moment, wo du denkst: Ich möchte wieder daten. Ich möchte wieder eine Beziehung. Aber die Vorstellung macht dir Angst. Ist das normal? Ja. Ist es verständlich? Absolut. Ist es ein Grund, nicht zu daten? Nein.
 

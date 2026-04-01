@@ -144,7 +144,7 @@ Wenn du mehr über verwandte Themen erfahren möchtest, könnten diese Artikel h
 
 Trotz aller guten Absichten, trotz Therapie und echtem Commitment – manchmal kehrt das Vertrauen nicht zurück. Dies ist nicht ein Versagen von dir oder ihm. Dies ist manchmal einfach die emotionale Realität, die du akzeptieren musst.
 
-Manche Menschen können nicht emotional über den Betrug hinwegkommen, obwohl sie intensiv versuchen. Andere finden, dass der Partner nicht die tiefgreifenden Veränderungen einbringen kann, die notwendig sind. In diesen Fällen ist Trennung nicht Versagen – es ist Selbstschutz und Selbstliebe. Eine Beziehung ohne Vertrauen ist wie ein Baum ohne Wurzeln. Sie wird nicht gedeihen oder wachsen. Sie wird verdorren.
+Manche Menschen können nicht emotional über den Betrug hinwegkommen, obwohl sie intensiv versuchen. Andere finden, dass der Partner nicht die tiefgreifenden Veränderungen einbringen kann, die notwendig sind. In diesen Fällen ist [Trennung](/blog/trennung-verarbeiten-12-schritte) nicht Versagen – es ist Selbstschutz und Selbstliebe. Eine Beziehung ohne Vertrauen ist wie ein Baum ohne Wurzeln. Sie wird nicht gedeihen oder wachsen. Sie wird verdorren.
 
 Das Wichtige zu verstehen ist: Wenn du dich trennst, bedeutet es nicht, dass die Beziehung bedeutungslos oder verschwendet war. Ihr habt zusammen gelebt, geliebt, gelernt. Diese Zeit ist real und hat Wert, auch wenn die Beziehung endet. Eine Trennung kann sogar heilsam sein.
 

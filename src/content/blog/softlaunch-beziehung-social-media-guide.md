@@ -344,7 +344,7 @@ Das ist ein psychologisches Phänomen, das "Social Media Breakup Shame" genannt 
 
 Wie man damit umgehen kann:
 - Nicht alle Fotos löschen. Das ist offensichtlich. Einfach die neuen hochgeladenen Paare-Fotos entfernen.
-- Du brauchst dich nicht zu erklären. Dein Privatleben ist privat. Es ist okay, wenn andere nicht die Grund der Trennung wissen.
+- Du brauchst dich nicht zu erklären. Dein Privatleben ist privat. Es ist okay, wenn andere nicht die Grund der [Trennung](/blog/trennung-verarbeiten-12-schritte) wissen.
 - Block oder mute deinen Ex, wenn es dir hilft.
 - Poste dein Glück nach der Trennung. Zeige dich selbst, deine Freunde, dein Leben. Das hilft dir, weiterzuziehenforwarts.
 

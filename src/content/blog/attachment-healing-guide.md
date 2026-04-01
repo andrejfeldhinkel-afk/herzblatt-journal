@@ -12,7 +12,7 @@ tags:
 
 ## Einleitung: Die Macht deines Bindungsstils
 
-Dein Bindungsstil ist wie ein unsichtbares Drehbuch für deine Beziehungen. Er bestimmt, wie du dich an andere Menschen bindest, wie du Nähe erlebst, und wie du auf Trennung reagierst. Der britische Psychiater John Bowlby entdeckte in den 1950er Jahren, dass die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) zwischen Kind und Bezugsperson einen tiefgreifenden Einfluss auf unser gesamtes Leben hat.
+Dein Bindungsstil ist wie ein unsichtbares Drehbuch für deine Beziehungen. Er bestimmt, wie du dich an andere Menschen bindest, wie du Nähe erlebst, und wie du auf [Trennung](/blog/trennung-verarbeiten-12-schritte) reagierst. Der britische Psychiater John Bowlby entdeckte in den 1950er Jahren, dass die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) zwischen Kind und Bezugsperson einen tiefgreifenden Einfluss auf unser gesamtes Leben hat.
 
 Das Faszinierende ist: Du bist nicht dein Bindungsstil. Das ist die gute Nachricht. Egal ob du ängstlich, vermeidend, oder desorganisiert gebunden bist – all diese Muster sind nicht unveränderlich. Sie sind adaptive Strategien, die du als Kind entwickelt hast, um zu überleben und Liebe zu bekommen. Und jede Strategie kann überarbeitet werden.
 

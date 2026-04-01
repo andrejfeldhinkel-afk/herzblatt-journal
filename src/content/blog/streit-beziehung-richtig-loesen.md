@@ -162,7 +162,7 @@ Wenn du nicht bereit bist, dich zu entschuldigen, weil du glaubst, dass du nicht
 
 Umgekehrt: Wenn dein Partner sich entschuldigt, nimm die Entschuldigung an. Sag nicht "Du hast mir früher auch Dinge angetan" oder "Das ist nicht das erste Mal." Eine Entschuldigung zu vergeben ist ein Akt der Liebe in einer Beziehung.
 
-## Regel 13: Nehmt euch Zeit für Trennung, nicht als Flucht, sondern als Strategie
+## Regel 13: Nehmt euch Zeit für [Trennung](/blog/trennung-verarbeiten-12-schritte), nicht als Flucht, sondern als Strategie
 
 Manchmal, auch wenn ihr beide versuchst fair zu streiten, geht die Energie zur Neige. Der Streit wird im Kreis gehen. Das ist der Moment, eine Pause zu machen – nicht mit Wut zu gehen, sondern bewusst.
 

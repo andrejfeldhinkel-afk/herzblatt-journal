@@ -91,7 +91,7 @@ In dieser Phase:
 - Es gibt möglicherweise Career-Divergence (ein Partner bewegt sich schneller aufwärts)
 - Das Sexualleben ist oft minimal
 
-Die größte Herausforderung in dieser Phase: Du merkst, dass deine Beziehung nicht das ist, das du gehofft hast. Dies ist wenn viele Paare Affären haben oder ernsthaft über Trennung nachdenken.
+Die größte Herausforderung in dieser Phase: Du merkst, dass deine Beziehung nicht das ist, das du gehofft hast. Dies ist wenn viele Paare Affären haben oder ernsthaft über [Trennung](/blog/trennung-verarbeiten-12-schritte) nachdenken.
 
 **Phase 3: Die Neuorientierungs-Phase (Jahre 15+)**
 

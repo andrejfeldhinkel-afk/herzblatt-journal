@@ -247,4 +247,4 @@ Oft spielen [verlustangst](/blog/aengstlicher-bindungsstil-heilen/), niedriger S
 Indem du bewusst aufhörst, überall zu initiieren. Nicht aggressiv, aber konsistent. Gib deinem Partner Raum zu zeigen, ob er sich anpassen kann. Das ist nicht Strafe — das ist Klarheit.
 
 **Ist es ok, eine Beziehung zu beenden weil sie einseitig ist?**
-Ja. Wenn du alles versucht hast und dein Partner nicht bereit ist sich zu ändern, dann ist eine Trennung nicht Versagen. Das ist Selbstschutz.
+Ja. Wenn du alles versucht hast und dein Partner nicht bereit ist sich zu ändern, dann ist eine [Trennung](/blog/trennung-verarbeiten-12-schritte) nicht Versagen. Das ist Selbstschutz.

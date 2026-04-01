@@ -287,7 +287,7 @@ In der Anziehung zählt Körpersprache enorm.
 - **Lächeln:** Signalisiert Wärme und Freundlichkeit
 - **Nähe:** Der Proximity-Effekt funktioniert auch physisch. Wenn du näher bei jemandem sitzt, steigt die Anziehung (im angemessenen Maße)
 - **Aktives Zuhören:** Stelle Fragen, merke dir Details, beziehe dich später darauf. Das signalisiert echtes Interesse.
-- **Reziprozität zeigen:** Wenn jemand dir Komplimente macht, erwidere sie. Wenn jemand dich mag, zeige, dass du die Person auch magst.
+- **Reziprozität zeigen:** Wenn jemand dir [Komplimente](/blog/komplimente-fuer-maenner) macht, erwidere sie. Wenn jemand dich mag, zeige, dass du die Person auch magst.
 
 ### Muster durchbrechen
 

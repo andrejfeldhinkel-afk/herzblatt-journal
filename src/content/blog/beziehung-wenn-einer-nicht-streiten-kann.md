@@ -91,7 +91,7 @@ Ohne tiefe Kommunikation, ist die Beziehung nur oberflächlich. Es gibt keine wa
 - Der Partner macht Dich für alles verantwortlich
 - Es gibt ein konsistentes Muster von Kontrolle und Dominanz
 
-Wenn es das zweite ist, dann ist das ein Missbrauch-Problem, nicht ein Beziehungs-Problem. Das braucht professionelle Hilfe oder möglicherweise Trennung.
+Wenn es das zweite ist, dann ist das ein Missbrauch-Problem, nicht ein Beziehungs-Problem. Das braucht professionelle Hilfe oder möglicherweise [Trennung](/blog/trennung-verarbeiten-12-schritte).
 
 Aber wenn es das erste ist, gibt es Hoffnung.
 

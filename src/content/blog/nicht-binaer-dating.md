@@ -154,7 +154,7 @@ Dating-Apps sind nicht alle gleich geschaffen, wenn es um nicht-binäre Optionen
 - Ähnlich Tinder – hat nicht-binär, aber grundlegend
 - Besser als Tinder, aber nicht großartig
 
-**Hinge:**
+**[Hinge](/blog/hinge-guide-deutsch-2026):**
 - Weniger queer-freundlich
 - Kleinere nicht-binäre Nutzerbasis
 - Eher für Leute, die ernsthafte Beziehungen suchen (was gut sein kann, aber die Nutzerbasis ist weniger queerer)

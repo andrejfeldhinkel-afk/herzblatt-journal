@@ -29,7 +29,7 @@ Menschen mit sicherem Bindungsstil sind im Dating am entspanntesten unterwegs. S
 - Du brauchst regelmäßig Bestätigung, aber nicht ständig
 - Du schaffst es, Zeit alleine zu verbringen und Zeit mit der Partnerin zu genießen
 - Konflikte bringen Dich nicht in Panik
-- Du kannst Trennung verkraften, ohne Dein Selbstwertgefühl zu verlieren
+- Du kannst [Trennung](/blog/trennung-verarbeiten-12-schritte) verkraften, ohne Dein Selbstwertgefühl zu verlieren
 
 **Im Dating-Prozess:**
 

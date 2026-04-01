@@ -38,7 +38,7 @@ Bevor du auf der Dating-App swipest, musst du eine wichtige Frage beantworten: B
 
 Und das bedeutet nicht, dass du "perfekt" sein musst oder dass alle Wunden verheilt sein müssen. Es bedeutet: Hast du eine gewisse innere Ruhe gefunden? Oder bist du noch in Kriegsmodus mit deinem Ex?
 
-Julia merkt, dass sie drei Monate nach der Trennung anfing zu daten. Das war ein Fehler. Sie war nicht bereit. Sie wollte nur weg aus der Traurigkeit, und das führte zu Dating-Entscheidungen, die sie bereut. Sie wählte Partner, die ihr Ego strichen, anstatt Partner, die gut für sie und ihre Kinder waren.
+Julia merkt, dass sie drei Monate nach der [Trennung](/blog/trennung-verarbeiten-12-schritte) anfing zu daten. Das war ein Fehler. Sie war nicht bereit. Sie wollte nur weg aus der Traurigkeit, und das führte zu Dating-Entscheidungen, die sie bereut. Sie wählte Partner, die ihr Ego strichen, anstatt Partner, die gut für sie und ihre Kinder waren.
 
 Die wichtigere Frage: Was willst du wirklich?
 

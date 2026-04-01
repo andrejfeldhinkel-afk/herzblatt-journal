@@ -47,7 +47,7 @@ Dieser Guide wird dir helfen, genau das zu tun.
 
 ## Was ist eine Beziehungsinventur? — Konzept und Nutzen
 
-Lass mich erst mal klären, was eine Beziehungsinventur nicht ist: Sie ist nicht dafür da, um dich selbst oder deinen Partner zu verurteilen. Sie ist nicht die Vorstufe zur Trennung. Und sie ist definitiv nicht etwas, das du alleine mit Misstrauen oder Vorwürfen angehst.
+Lass mich erst mal klären, was eine Beziehungsinventur nicht ist: Sie ist nicht dafür da, um dich selbst oder deinen Partner zu verurteilen. Sie ist nicht die Vorstufe zur [Trennung](/blog/trennung-verarbeiten-12-schritte). Und sie ist definitiv nicht etwas, das du alleine mit Misstrauen oder Vorwürfen angehst.
 
 Eine Beziehungsinventur ist eine strukturierte, ehrliche Bestandsaufnahme. Du schaust dir an, wie es in verschiedenen Bereichen eurer Partnerschaft aussieht — ohne Beschönigung, aber auch ohne unnötige Dramatik.
 
@@ -71,7 +71,7 @@ Eine gute Beziehungsinventur schaut auf mindestens diese zehn Bereiche:
 
 **Individuelle Freiheit**: Gibt es genug Raum für Hobbys, Freunde, eigene Träume? Oder wurde aus Liebe allmählich Verschmelzung?
 
-**Wertschätzung**: Fühlt ihr euch gesehen? Oder sind die Komplimente irgendwann verstummt?
+**Wertschätzung**: Fühlt ihr euch gesehen? Oder sind die [Komplimente](/blog/komplimente-fuer-maenner) irgendwann verstummt?
 
 **Zukunftsvision**: Seht ihr euch zusammen in fünf Jahren? In zehn? Oder ist die Zukunft eher neblig?
 

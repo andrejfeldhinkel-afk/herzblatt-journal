@@ -27,7 +27,7 @@ faq:
 
 # Schluss machen: So beendest du eine Beziehung respektvoll
 
-Schluss machen ist einer der schwierigsten Gespräche, die du führen wirst. Es gibt Schmerz. Es gibt Tränen. Es gibt möglicherweise Wut und Verwirrung. Aber manchmal ist es das Richtige, das Mutigste und sogar das Liebevollste, was du tun kannst. Nicht jede Beziehung ist darauf ausgelegt zu bleiben. Nicht jede Liebe wird mit der Zeit stärker. Es gibt Zeiten, in denen Trennung der liebevollste Akt ist – für beide Partner. In diesem umfassenden Guide werde ich dir zeigen, wie du eine Beziehung respektvoll und würdevoll beendest. Dieser Guide behandelt nicht nur das schwierige Gespräch selbst, sondern auch die emotionale Vorbereitung davor und wie du danach mit dir selbst und deinem ehemaligen Partner umgehen kannst.
+Schluss machen ist einer der schwierigsten Gespräche, die du führen wirst. Es gibt Schmerz. Es gibt Tränen. Es gibt möglicherweise Wut und Verwirrung. Aber manchmal ist es das Richtige, das Mutigste und sogar das Liebevollste, was du tun kannst. Nicht jede Beziehung ist darauf ausgelegt zu bleiben. Nicht jede Liebe wird mit der Zeit stärker. Es gibt Zeiten, in denen [Trennung](/blog/trennung-verarbeiten-12-schritte) der liebevollste Akt ist – für beide Partner. In diesem umfassenden Guide werde ich dir zeigen, wie du eine Beziehung respektvoll und würdevoll beendest. Dieser Guide behandelt nicht nur das schwierige Gespräch selbst, sondern auch die emotionale Vorbereitung davor und wie du danach mit dir selbst und deinem ehemaligen Partner umgehen kannst.
 
 ## 1. Erkenne das tiefe Zeichen, dass es wirklich Zeit ist zu gehen
 

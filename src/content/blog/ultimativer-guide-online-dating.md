@@ -64,7 +64,7 @@ Bumble hat einen großen Unterschied zu Tinder: Bei heterosexuellen Matches müs
 
 ### Hinge
 
-Hinge nennt sich selbst "the dating app designed to be deleted" — weil du es löschen sollst, wenn du jemanden triffst. Das ist konzeptionell sehr anders. Hinge zeigt weniger Fotos, mehr Profil-Tiefe.
+[Hinge](/blog/hinge-guide-deutsch-2026) nennt sich selbst "the dating app designed to be deleted" — weil du es löschen sollst, wenn du jemanden triffst. Das ist konzeptionell sehr anders. Hinge zeigt weniger Fotos, mehr Profil-Tiefe.
 
 **Vorteile:** Bessere Profile, weniger oberflächlich, auch ältere und seriösere Menschen, gute Conversation-Starter.
 

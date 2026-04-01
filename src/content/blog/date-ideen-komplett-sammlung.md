@@ -699,7 +699,7 @@ Besser: Immer einen Plan B. Indoor-Option wenn nötig.
 
 ## Dates nach Trennungen: Wieder daten lernen
 
-Nach einer schlimmen Trennung ist wieder daten angespannt. Hier sind Tipps:
+Nach einer schlimmen [Trennung](/blog/trennung-verarbeiten-12-schritte) ist wieder daten angespannt. Hier sind Tipps:
 
 ### Erste Dates sollten kurz sein
 

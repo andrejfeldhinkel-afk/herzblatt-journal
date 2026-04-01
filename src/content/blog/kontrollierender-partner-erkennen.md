@@ -191,7 +191,7 @@ Doch, natürlich kann es. Das ist nur eine subtilere Form des Missbrauchs. Es ve
 
 ### Warnsignal 16: Dein Partner hat ein Backup-Drama
 
-Wenn du versuchst, dich abzugrenzen oder über eine Trennung nachzudenken, passiert etwas: Er wird krank. Sein Vater hat einen Herzanfall. Seine psychische Gesundheit bricht zusammen. Es ist immer ein Notfall, der deine ganze Aufmerksamkeit braucht.
+Wenn du versuchst, dich abzugrenzen oder über eine [Trennung](/blog/trennung-verarbeiten-12-schritte) nachzudenken, passiert etwas: Er wird krank. Sein Vater hat einen Herzanfall. Seine psychische Gesundheit bricht zusammen. Es ist immer ein Notfall, der deine ganze Aufmerksamkeit braucht.
 
 Das muss nicht absichtlich sein, aber es ist verdammt effektiv. Es macht dich zum Retter. Es gibt dir Schuldgefühle. Und es macht eine Trennung zu etwas, das unmöglich und egoistisch wirkt, wenn dieser Mensch gerade so sehr leidet.
 

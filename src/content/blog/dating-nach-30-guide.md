@@ -64,7 +64,7 @@ Aber es gibt auch Herausforderungen mit 30. Das ist nicht romantisch zu beschön
 
 **Du bist vielleicht weniger „flexibel".** Mit 25 konntest du vielleicht etwas mit jemandem anfangen, der eigentlich gar nicht zu dir passt, weil ihr jung wart und Spaß hattet. Mit 30 fragst du schneller: Passt das mittel- bis langfristig?
 
-**Die emotionalen Stakes sind höher.** Eine Trennung mit 30 fühlt sich anders an als mit 25. Du fragst dich: „Verliere ich Zeit?" Das ist psychologisch belastend.
+**Die emotionalen Stakes sind höher.** Eine [Trennung](/blog/trennung-verarbeiten-12-schritte) mit 30 fühlt sich anders an als mit 25. Du fragst dich: „Verliere ich Zeit?" Das ist psychologisch belastend.
 
 Das sind keine Gründe, beim Dating aufzugeben. Das sind nur Realitäten, die du einplanen solltest.
 

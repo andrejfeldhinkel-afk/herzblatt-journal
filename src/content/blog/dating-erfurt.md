@@ -192,7 +192,7 @@ Online-Dating funktioniert in Erfurt sehr gut. Die Stadt hat eine aktive Single-
 
 **Bumble** hat eine gute Community in Erfurt, besonders bei Frauen mit höherem Bildung und progressiver Einstellung.
 
-**Hinge** wird immer beliebter und hat qualitativ bessere Matches. Empfohlen, wenn du eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) suchst.
+**[Hinge](/blog/hinge-guide-deutsch-2026)** wird immer beliebter und hat qualitativ bessere Matches. Empfohlen, wenn du eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) suchst.
 
 **Facebook Dating** und **OkCupid** haben auch ihre Nutzer in Erfurt.
 

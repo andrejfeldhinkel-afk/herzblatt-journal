@@ -61,7 +61,7 @@ Das ist nicht deine Schuld. Das ist, wie unser Gehirn und unsere emotionalen Sys
 
 ## Die Dating-Apps und die neue, verwirrende Realität
 
-Wenn du lange verheiratet warst – vielleicht seit vor oder frühe Internet-Ära – ist die Welt von Dating-Apps wahrscheinlich völlig befremdlich. Tinder. Bumble. Hinge. OkCupid. Match. Eharmony. Es gibt so viele Optionen, es ist überwältigend. Und jede hat ihre eigene Kultur, ihre eigenen unausgesprochenen Normen, ihre eigenen Demographien.
+Wenn du lange verheiratet warst – vielleicht seit vor oder frühe Internet-Ära – ist die Welt von Dating-Apps wahrscheinlich völlig befremdlich. Tinder. Bumble. [Hinge](/blog/hinge-guide-deutsch-2026). OkCupid. Match. Eharmony. Es gibt so viele Optionen, es ist überwältigend. Und jede hat ihre eigene Kultur, ihre eigenen unausgesprochenen Normen, ihre eigenen Demographien.
 
 Zuerst ist das absolut überwältigend. Du musst ein Profil erstellen. Das bedeutet, dass du dich selbst verkaufen musst – etwas, das verheiratete Menschen seit Jahren nicht tun mussten. Du bist nicht auf dem romantischen Markt. Du kennst deine Partner. Dein Wert ist nicht in Frage.
 

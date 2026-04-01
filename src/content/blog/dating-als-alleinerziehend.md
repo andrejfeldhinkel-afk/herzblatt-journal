@@ -93,7 +93,7 @@ Wenn es der Richtige ist, werden sie glücklich sein, dass Du glücklich bist.
 
 ## Wo Du Menschen triffst
 
-Dating-Apps funktionieren für Alleinerziehende. Aber nutze Apps, die Tiefe erlauben. Bumble oder Hinge sind besser als Tinder.
+Dating-Apps funktionieren für Alleinerziehende. Aber nutze Apps, die Tiefe erlauben. Bumble oder [Hinge](/blog/hinge-guide-deutsch-2026) sind besser als Tinder.
 
 Treffe Menschen durch Freunde. Manchmal ist der beste Match jemand aus Deinem Freundeskreis, der Deine Realität kennt.
 

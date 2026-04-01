@@ -328,7 +328,7 @@ Nein, überhaupt nicht. Regensburg ist günstiger als größere Städte. Ein Kaf
 
 ### Welche Dating-Apps funktionieren in Regensburg?
 
-Tinder, Bumble, Hinge und Lovoo sind alle sehr aktiv in Regensburg. Wähle die App, die deinen Vorlieben entspricht. Einige Apps haben auch lokale Schwerpunkte, daher lohnt sich ein Blick.
+Tinder, Bumble, [Hinge](/blog/hinge-guide-deutsch-2026) und Lovoo sind alle sehr aktiv in Regensburg. Wähle die App, die deinen Vorlieben entspricht. Einige Apps haben auch lokale Schwerpunkte, daher lohnt sich ein Blick.
 
 ### Ist es einfach, als Frau/Mann in Regensburg zu daten?
 

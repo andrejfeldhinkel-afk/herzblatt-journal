@@ -116,7 +116,7 @@ In unserem Test haben diese personalisierten Gesprächsstarter tatsächlich geho
 
 Obwohl der Chat im Vordergrund steht, gibt es natürlich auch Profile. Die Profilkarten zeigen Fotos (bis zu 6), eine Bio (bis 300 Zeichen), Altersangabe, Standort und ausgewählte Interessen. Du kannst sie jederzeit während des Chats einsehen, um mehr über dein Gegenüber zu erfahren.
 
-Die Profile sind kompakter als bei Hinge, aber informativer als bei Tinder. Genau die richtige Balance — du weißt genug über die Person, ohne dich durch einen Roman lesen zu müssen.
+Die Profile sind kompakter als bei [Hinge](/blog/hinge-guide-deutsch-2026), aber informativer als bei Tinder. Genau die richtige Balance — du weißt genug über die Person, ohne dich durch einen Roman lesen zu müssen.
 
 ### Sicherheitsfeatures: Deine Privatsphäre zuerst
 

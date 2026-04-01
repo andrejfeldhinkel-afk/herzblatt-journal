@@ -353,7 +353,7 @@ Hier sind einige konkrete Dinge, die du tun kannst, um respektvoller Umgang in d
 
 **Grenzen Respekt:** Wähle eine Grenze deines Partners, die du nicht respektiert hast, und beginne sie zu respektieren. Das könnte Zeit allein sein oder ein Hobby.
 
-**Komplimente:** Sage deinem Partner mindestens ein echtes Kompliment pro Tag. Nicht über sein Aussehen – über sein Herz, seinen Verstand oder seine Qualitäten.
+**[Komplimente](/blog/komplimente-fuer-maenner):** Sage deinem Partner mindestens ein echtes Kompliment pro Tag. Nicht über sein Aussehen – über sein Herz, seinen Verstand oder seine Qualitäten.
 
 **Apologie-Praxis:** Wenn du deinen Partner desrespektiert hast, entschuldige dich spezifisch. „Es tut mir leid, dass ich dich unterbrochen habe, als du sprachst. Das war falsch von mir."
 

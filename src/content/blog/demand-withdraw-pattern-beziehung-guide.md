@@ -91,7 +91,7 @@ Um sich gegen die Bitterkeit zu schützen, schalten beide emotionale Distanz an.
 
 Plötzlich, es gibt keine Nähe. Es gibt nur zwei Menschen, die lernen, allein zu leben, während sie zusammen im selben Haus sind.
 
-### Extramarital-Angelegenheiten oder Trennung
+### Extramarital-Angelegenheiten oder [Trennung](/blog/trennung-verarbeiten-12-schritte)
 
 In einigen Fällen, nachdem beide verletzt und disconnected genug sind, sucht eine Person Nähe oder Verständnis außerhalb der Beziehung. Oder sie einfach verlässt, weil die Beziehung leer geworden ist.
 

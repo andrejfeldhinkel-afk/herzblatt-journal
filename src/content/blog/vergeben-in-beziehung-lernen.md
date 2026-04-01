@@ -156,7 +156,7 @@ Das ist tiefere Liebe. Schwierigere Liebe. Aber tiefere Liebe.
 
 ## Abschließende Gedanken
 
-Vergebung ist nicht immer notwendig. Manchmal ist Trennung die richtige Antwort.
+Vergebung ist nicht immer notwendig. Manchmal ist [Trennung](/blog/trennung-verarbeiten-12-schritte) die richtige Antwort.
 
 Aber wenn du bleibst, wenn die Beziehung fortgehen soll, dann ist Vergebung der Weg.
 

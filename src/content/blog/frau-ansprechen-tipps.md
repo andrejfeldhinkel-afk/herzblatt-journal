@@ -176,7 +176,7 @@ Nicht von dir selbst reden. Nicht deine Erfolgsgeschichte erzählen. Frag sie na
 
 ## Die Fehler, die die meisten Männer machen
 
-**Fehler 1: Zu viele Komplimente.**
+**Fehler 1: Zu viele [Komplimente](/blog/komplimente-fuer-maenner).**
 
 "Du bist wunderschön, dein Lächeln ist das schönste, deine Augen sind wie der Mond."
 

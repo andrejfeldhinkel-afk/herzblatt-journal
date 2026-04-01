@@ -69,7 +69,7 @@ Aber das Endergebnis ist das gleiche für dich: Du sitzt in der Stille und wirst
 
 Wenn du in Stonewalling feststeckst, passiert etwas Interessantes in deinen Nervensystem.
 
-Du wird angespannt. Dein Herz rast. Dein Gehirn interpretiert Schweigen als Bedrohung – möglicherweise die gleiche Bedrohung wie Ablehnung oder Trennung.
+Du wird angespannt. Dein Herz rast. Dein Gehirn interpretiert Schweigen als Bedrohung – möglicherweise die gleiche Bedrohung wie Ablehnung oder [Trennung](/blog/trennung-verarbeiten-12-schritte).
 
 Dein Körper geht in Panik-Modus. Du wirst aggressiv oder verzweifelt. Du fängst an zu betteln, zu drohen, oder zu versuchen, ihn zu "reparieren".
 

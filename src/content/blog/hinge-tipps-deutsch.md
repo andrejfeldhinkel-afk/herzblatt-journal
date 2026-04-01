@@ -21,7 +21,7 @@ faq:
 
 ## Die App, die dich heiraten will (und das ist nicht schlecht)
 
-Hinge nennt sich selbst „the app designed to be deleted" – also die App, die dazu gedacht ist, gelöscht zu werden. Das klingt komisch, aber es macht Sinn. Hinge ist nicht wie Tinder, wo du endlos swipest und die Chancen klein sind. Hinge ist anders. Es ist gebaut worden, um Menschen zu Beziehungen zu bringen – nicht zu endlosen Chats.
+[Hinge](/blog/hinge-guide-deutsch-2026) nennt sich selbst „the app designed to be deleted" – also die App, die dazu gedacht ist, gelöscht zu werden. Das klingt komisch, aber es macht Sinn. Hinge ist nicht wie Tinder, wo du endlos swipest und die Chancen klein sind. Hinge ist anders. Es ist gebaut worden, um Menschen zu Beziehungen zu bringen – nicht zu endlosen Chats.
 
 Das ist wichtig zu verstehen, wenn du auf Hinge anfängst. Es ist nicht die App für „ich will einfach rumflirten". Es ist die App für Menschen, die was Ernstes suchen. Und wenn das du bist, dann ist Hinge wahrscheinlich besser für dich als Tinder.
 

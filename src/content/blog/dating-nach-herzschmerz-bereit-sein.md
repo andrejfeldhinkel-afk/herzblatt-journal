@@ -22,7 +22,7 @@ faq:
 
 # Nach Herzschmerz wieder bereit fürs Dating: Ein Heilungs-Guide
 
-Die Trennung war hart. Sie haben Wochen oder Monate durchlebt, in denen einfach jeden Tag zu funktionieren schwierig war. Jetzt, mit etwas zeitlichem Abstand, stellen Sie sich die Frage: Bin ich bereit, wieder zu daten? In diesem Artikel erfahren Sie, wie Sie feststellen, ob Sie wirklich bereit sind.
+Die [Trennung](/blog/trennung-verarbeiten-12-schritte) war hart. Sie haben Wochen oder Monate durchlebt, in denen einfach jeden Tag zu funktionieren schwierig war. Jetzt, mit etwas zeitlichem Abstand, stellen Sie sich die Frage: Bin ich bereit, wieder zu daten? In diesem Artikel erfahren Sie, wie Sie feststellen, ob Sie wirklich bereit sind.
 
 ## Die unmittelbare Zeit nach einer Trennung
 

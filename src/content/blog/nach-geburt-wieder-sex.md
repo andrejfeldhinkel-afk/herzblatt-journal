@@ -88,7 +88,7 @@ Hier ist das klassische Muster:
 
 **Woche 12-24:** Immer noch kein Sex. Der Partner wird frustriert: „Es ist schon 4 Monate!" Die Mutter fühlt sich gedrängt und wird noch weniger lustreich. Sie beginnt, den Sex zu vermeiden, weil der Druck so groß ist.
 
-**Monat 6-12:** Die Beziehung beginnt zu leiden. Es gibt weniger Nähe, mehr Frustration. Manchmal führt das zu Affären oder Trennung, weil das Verständnis aufgebraucht ist.
+**Monat 6-12:** Die Beziehung beginnt zu leiden. Es gibt weniger Nähe, mehr Frustration. Manchmal führt das zu Affären oder [Trennung](/blog/trennung-verarbeiten-12-schritte), weil das Verständnis aufgebraucht ist.
 
 Das ist traurig – und meist vermeidbar.
 

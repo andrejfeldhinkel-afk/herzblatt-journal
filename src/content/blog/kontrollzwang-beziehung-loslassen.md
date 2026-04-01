@@ -932,7 +932,7 @@ Die Ironie: Die Kontrolle ist genau das was eine Person verlässt. Dein Partner 
 
 **Heilung für ängstlich-Kontrollierer:**
 - Erkenne: Kontrolle wird dich nicht behalten. Das wird dir isolieren. Das wird die Person die du liebst ferner machen.
-- Praxis: Kleine Momente der Trennung ohne Drama. Dein Partner geht zu Freunden. Du atme. Du überlebst. Dein Partner kommt zurück und ist besserer Laune weil er/sie hatte "mir" Zeit. Das ist Beweis dass Freiheit die Beziehung verstärkt.
+- Praxis: Kleine Momente der [Trennung](/blog/trennung-verarbeiten-12-schritte) ohne Drama. Dein Partner geht zu Freunden. Du atme. Du überlebst. Dein Partner kommt zurück und ist besserer Laune weil er/sie hatte "mir" Zeit. Das ist Beweis dass Freiheit die Beziehung verstärkt.
 - Affirmation: "Ich bin bemerkenswert. Ich werde nicht verlassen weil ich nicht kontrolliere. Ich werde wohl geliebt weil ich Freiheit gebe."
 
 Das ist nicht natürlich für dich. Das ist gegen dein Instinkt. Aber das ist genau warum es wirksam ist — es programmiert dein Nervensystem um.

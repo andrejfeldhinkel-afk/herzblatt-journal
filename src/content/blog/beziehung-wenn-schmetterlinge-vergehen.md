@@ -461,7 +461,7 @@ Es gibt einen Unterschied zwischen Langeweile und Tiefe.
 
 **Tiefe** ist: Der Aufregung ist weg, aber die Verbindung ist da. Ihr könnt einfach zusammen sein. Es ist beruhigend. Es ist Home.
 
-Wenn du in Langeweile bist, braucht ihr Arbeit oder ein Trennung. Wenn du in Tiefe bist, braucht ihr einfach zu verstehen, dass das normal ist.
+Wenn du in Langeweile bist, braucht ihr Arbeit oder ein [Trennung](/blog/trennung-verarbeiten-12-schritte). Wenn du in Tiefe bist, braucht ihr einfach zu verstehen, dass das normal ist.
 
 ## Warum Neuheit so wichtig ist: Das Dopamin back-up
 

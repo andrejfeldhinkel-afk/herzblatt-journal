@@ -160,7 +160,7 @@ Verschiedene Apps haben verschiedene Kulturen:
 
 - **Tinder:** Schnelles Swipen, oberflächlicher. Fotos sind hier König.
 - **Bumble:** Frauen schreiben zuerst. Bio-Text ist wichtiger.
-- **Hinge:** Langfristig orientiert. Ausführliche Bios und vertrauenswürdige Fotos sind wichtig.
+- **[Hinge](/blog/hinge-guide-deutsch-2026):** Langfristig orientiert. Ausführliche Bios und vertrauenswürdige Fotos sind wichtig.
 - **Grüne Soße, Once, Raya:** Gehobene Apps mit höherwertigen Profilen.
 
 Für dein Profil bedeutet das: Je nach App kannst du deinen Bio-Text anpassen. Bei Tinder kannst du kürzer sein. Bei Hinge kannst du ausführlicher sein.

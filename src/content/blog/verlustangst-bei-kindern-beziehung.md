@@ -44,7 +44,7 @@ Die subtile Unterscheidung ist wichtig: Liebe ist etwas, das du fühlst. Verlust
 
 Verlustangst ist fast immer eine Wunde, die in der Kindheit geschaffen wurde. Es gibt ein paar häufige Szenarien:
 
-**Szenario 1: Scheidung oder Trennung der Eltern**
+**Szenario 1: Scheidung oder [Trennung](/blog/trennung-verarbeiten-12-schritte) der Eltern**
 
 Dein Gehirn als Kind hat das gelernt: Eltern können gehen. Liebe ist nicht garantiert. Wenn der Elternteil, der dir am nächsten war, dich verlässt, wer sonst könnte?
 

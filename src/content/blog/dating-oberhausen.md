@@ -80,7 +80,7 @@ Regelmäßige **Kunstfestivals und Events** im Gasometer bieten großartige Dati
 
 Oberhausen hat eine progressive, urbane Dating-Kultur. Mit Transformation von Industrie-Stadt zu Kultur-Hotspot zieht es interessante Menschen an.
 
-**Tinder** und **Bumble** sind üblich. **Hinge** ist auch verbreitet.
+**Tinder** und **Bumble** sind üblich. **[Hinge](/blog/hinge-guide-deutsch-2026)** ist auch verbreitet.
 
 Hilfreiche Ressourcen findest du bei Bundesamt für Sicherheit in der Informationstechnik: [Bundesamt für Sicherheit in der Informationstechnik](https://www.bsi.bund.de/)
 

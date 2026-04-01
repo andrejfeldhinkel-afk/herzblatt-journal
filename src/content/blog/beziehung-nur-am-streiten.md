@@ -52,7 +52,7 @@ Bevor wir klären worum es wirklich geht, lass mich beschreiben, wie sich Dauers
 
 **Keine Versöhnung.** Selbst nachdem ihr streitet, fühlt sich nichts geklärt an. Es ist mehr eine Pause als ein Frieden. Ihr verzeiht euch nicht wirklich, sondern wartet bis der nächste Konflikt kommt.
 
-**Der Gedanke an Trennung.** Du denkst immer öfter: "Wäre ich alleine glücklicher?" Das ist ein großes Signal. Nicht, dass du unbedingt trennen solltest. Aber dass dein Gehirn die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) als Problem definiert, nicht als Lösung.
+**Der Gedanke an [Trennung](/blog/trennung-verarbeiten-12-schritte).** Du denkst immer öfter: "Wäre ich alleine glücklicher?" Das ist ein großes Signal. Nicht, dass du unbedingt trennen solltest. Aber dass dein Gehirn die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) als Problem definiert, nicht als Lösung.
 
 ## Was versteckt sich unter dem Streit: Die wahren Probleme
 

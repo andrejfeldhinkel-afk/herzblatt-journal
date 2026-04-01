@@ -483,7 +483,7 @@ Das ist nicht einfach und es braucht Praxis, aber es ist lernen. Mit Paartherapi
 
 ## Wenn die Beziehung sich wie eine Last anfühlt
 
-Es gibt einen Punkt, wo die Beziehung aufgehört hat, eine Quelle der Freude zu sein, und wurde eine Last. Du denkst an Trennung, aber du bist nicht sicher.
+Es gibt einen Punkt, wo die Beziehung aufgehört hat, eine Quelle der Freude zu sein, und wurde eine Last. Du denkst an [Trennung](/blog/trennung-verarbeiten-12-schritte), aber du bist nicht sicher.
 
 Das ist ein kritischer Punkt. Die Beziehung können Sie möglicherweise wiederherstellen, aber nur wenn beide bereit sind zu arbeiten. Wenn die Liebe weg ist, ist es manchmal besser zu gehen.
 

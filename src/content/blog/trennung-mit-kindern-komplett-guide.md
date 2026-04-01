@@ -36,7 +36,7 @@ faq:
 
 # Trennung mit Kindern: Der komplette Guide für Eltern
 
-Die Entscheidung, sich zu trennen, ist eine der schwersten Entscheidungen, die Eltern treffen können. **Trennung mit Kindern** zu navigieren bedeutet, nicht nur die eigene emotionale Krise zu bewältigen, sondern sich auch um das Wohlbefinden von kleinen Menschen zu kümmern, die von dieser Entscheidung tiefgreifend betroffen sind. Dieser Guide soll dir Klarheit, praktische Lösungen und emotionale Unterstützung bieten.
+Die Entscheidung, sich zu trennen, ist eine der schwersten Entscheidungen, die Eltern treffen können. **[Trennung](/blog/trennung-verarbeiten-12-schritte) mit Kindern** zu navigieren bedeutet, nicht nur die eigene emotionale Krise zu bewältigen, sondern sich auch um das Wohlbefinden von kleinen Menschen zu kümmern, die von dieser Entscheidung tiefgreifend betroffen sind. Dieser Guide soll dir Klarheit, praktische Lösungen und emotionale Unterstützung bieten.
 
 Die Wahrheit ist: Es gibt keine perfekte Art, eine Trennung mit Kindern zu handhaben. Aber es gibt bessere und schlechtere Wege. Dieser Artikel ist dafür gedacht, dass du die besseren Wege findest und gehst. Wir werden gemeinsam anschauen, wie du mit deinen Kindern über die Trennung sprichst, welche Auswirkungen diese haben kann, wie du legale Fragen klärst, und vor allem: Wie du eine Beziehung zu deinen Kindern aufbaust, die trotz oder sogar wegen der Trennung gesünder sein kann.
 

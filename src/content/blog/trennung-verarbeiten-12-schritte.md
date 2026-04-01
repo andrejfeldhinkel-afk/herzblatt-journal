@@ -1,6 +1,6 @@
 ---
-title: "Trennung verarbeiten: 12 Schritte die wirklich helfen"
-description: "Trennung verarbeiten in 12 bewährten Schritten. Von Schockphase bis Neuanfang — ehrliche Tipps die dir wirklich durch den Trennungsschmerz helfen."
+title: "Trennung verarbeiten: 12 Schritte, die wirklich helfen (Experten-Guide 2026)"
+description: "Trennung verarbeiten — Schritt für Schritt aus dem Trennungsschmerz. 12 bewährte Strategien von der Schockphase bis zum Neuanfang."
 date: 2026-03-21
 tags:
   - "Psychologie"

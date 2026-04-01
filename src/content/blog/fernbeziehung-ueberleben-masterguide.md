@@ -101,7 +101,7 @@ Setzt einen Plan für eine Enddatum. In zwei Jahren ziehen wir zusammen. In drei
 
 Wenn du zusammen bist, kann Trennungsangst euch überwältigen. Du weißt, dass diese Tage gezählt sind. In drei Tagen wird er gehen. Das kann dich depressiv machen.
 
-Der beste Weg, damit umzugehen, ist, sich präsent zu halten. Nicht denke über die Trennung nach. Sag zu dir selbst: "Ich habe diese Zeit mit ihm. Ich werde es genießen."
+Der beste Weg, damit umzugehen, ist, sich präsent zu halten. Nicht denke über die [Trennung](/blog/trennung-verarbeiten-12-schritte) nach. Sag zu dir selbst: "Ich habe diese Zeit mit ihm. Ich werde es genießen."
 
 Die Angst wird immer noch da sein, aber sie wird weniger überwältigend, wenn du dich präsent halten kannst.
 

@@ -20,7 +20,7 @@ faq:
 ---
 ## Der Neustart nach Jahren: Dating nach langer Beziehung
 
-Du warst jahrelang mit jemandem zusammen. Vielleicht war es fünf Jahre. Vielleicht zehn. Vielleicht noch länger. Und jetzt stehst du plötzlich wieder auf dem Dating-Markt. Die Welt hat sich verändert — Tinder, Bumble, Hinge sind normal geworden. Es gibt Swiping, Matching, Texten bis zum Date, [Ghosting](/blog/ghosting-komplett-guide). Während du in deiner Beziehung warst, wurde eine ganze neue Dating-Kultur geboren. Du bist nicht verstaut in dieser Welt. Und es ist völlig verständlich, sich überfordert, überstimuliert oder sogar ein bisschen verängstigt zu fühlen. Aber genau hier beginnt dein Abenteuer zurück in die Dating-Welt, und mit ein bisschen Geduld, Selbstmitgefühl und Verständnis für dich selbst wird es viel leichter werden, als du denkst.
+Du warst jahrelang mit jemandem zusammen. Vielleicht war es fünf Jahre. Vielleicht zehn. Vielleicht noch länger. Und jetzt stehst du plötzlich wieder auf dem Dating-Markt. Die Welt hat sich verändert — Tinder, Bumble, [Hinge](/blog/hinge-guide-deutsch-2026) sind normal geworden. Es gibt Swiping, Matching, Texten bis zum Date, [Ghosting](/blog/ghosting-komplett-guide). Während du in deiner Beziehung warst, wurde eine ganze neue Dating-Kultur geboren. Du bist nicht verstaut in dieser Welt. Und es ist völlig verständlich, sich überfordert, überstimuliert oder sogar ein bisschen verängstigt zu fühlen. Aber genau hier beginnt dein Abenteuer zurück in die Dating-Welt, und mit ein bisschen Geduld, Selbstmitgefühl und Verständnis für dich selbst wird es viel leichter werden, als du denkst.
 
 ## Der psychologische Schmerz des Neuanfangs — Du bist nicht allein
 

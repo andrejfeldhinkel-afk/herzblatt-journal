@@ -136,7 +136,7 @@ Arbeitet weiter an eurer Beziehung. Finanzen sind wichtig, aber sie sind nicht a
 
 ## Wenn die Beziehung nicht überstehen kann
 
-Manchmal kann eine Beziehung finanzielle Schwierigkeiten nicht überstehen. Das ist traurig, aber es passiert. Wenn das der Fall ist, dann ist es wichtig, die Trennung so respektvoll wie möglich zu handhaben.
+Manchmal kann eine Beziehung finanzielle Schwierigkeiten nicht überstehen. Das ist traurig, aber es passiert. Wenn das der Fall ist, dann ist es wichtig, die [Trennung](/blog/trennung-verarbeiten-12-schritte) so respektvoll wie möglich zu handhaben.
 
 Arbeitet mit einem Anwalt zusammen, um eure finanziellen Verflechtungen zu entwirren. Das ist nicht romantisch, aber es ist notwendig. Und es ist besser, das jetzt zu tun, als später in einem messy legal battle zu landen.
 

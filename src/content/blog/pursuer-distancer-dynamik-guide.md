@@ -151,7 +151,7 @@ Oder noch schlimmer, der Distancer könnte die Beziehung in Frage stellen: "Viel
 
 ### Phase 8: Der Pursuer in Panik
 
-Wenn der Distancer wirklich Trennung erwähnt, gerät der Pursuer in Panik. Der Pursuer könnte schwach werden, bitten, alles zu tun, um die Beziehung zu retten.
+Wenn der Distancer wirklich [Trennung](/blog/trennung-verarbeiten-12-schritte) erwähnt, gerät der Pursuer in Panik. Der Pursuer könnte schwach werden, bitten, alles zu tun, um die Beziehung zu retten.
 
 Dies bringt den Distancer für eine Weile näher — die Beziehung wird temporär rettung. Aber es wird nicht das zugrunde liegende Muster reparieren.
 

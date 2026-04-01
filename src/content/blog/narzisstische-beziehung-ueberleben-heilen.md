@@ -76,7 +76,7 @@ Wenn du in einer narzisstischen Beziehung bist, passiert das Gleiche immer wiede
 
 Am Anfang ist es magisch.
 
-Dein Partner ist dich gegenüber intensiv präsent. Er schreibt dir ständig. Er macht dir Komplimente. Er will ständig Zeit mit dir verbringen. Er redet von der Zukunft: "Ich weiß, dass dich jemand sein werde, den ich liebe."
+Dein Partner ist dich gegenüber intensiv präsent. Er schreibt dir ständig. Er macht dir [Komplimente](/blog/komplimente-fuer-maenner). Er will ständig Zeit mit dir verbringen. Er redet von der Zukunft: "Ich weiß, dass dich jemand sein werde, den ich liebe."
 
 Das ist nicht nur Liebe. Das ist Love Bombing.
 
@@ -311,7 +311,7 @@ Aber jetzt muss das echte Werk der Heilung beginnen.
 
 ### Die erste Phase: Akute Trauer (1-3 Monate)
 
-Nach der Trennung wirst du eine Phase erleben, die sich anfühlt, als würdest du verrückt werden.
+Nach der [Trennung](/blog/trennung-verarbeiten-12-schritte) wirst du eine Phase erleben, die sich anfühlt, als würdest du verrückt werden.
 
 Du vermisst ihn. Du vermisst die guten Teile (die Love Bombing-Phase). Du fragst dich, ob du einen Fehler gemacht hast. Du möchtest ihn anrufen.
 

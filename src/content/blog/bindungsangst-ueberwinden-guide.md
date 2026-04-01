@@ -47,7 +47,7 @@ Viertens: Der Nähe-Ferne-Rhythmus. Du bist super liebevoll und präsent, dann u
 
 Die Wurzeln von Bindungsangst liegen fast immer in der Kindheit. Das ist keine Schuldzuweisung an deine Eltern — es ist einfach eine neurologische Tatsache. Dein Gehirn speichert Muster ab. Wenn du in der Kindheit erlebt hast, dass Nähe unsicher war, lernten deine Nerven, vor Nähe zu fliehen. Vielleicht war ein Elternteil emotional verfügbar, aber plötzlich emotional nicht erreichbar. Oder ein Elternteil war zu klammernde, und du hast gelernt, dass Nähe Einengung bedeutet. Oder es gab Konflikte, bei denen ein Elternteil drohte zu gehen. Diese frühen Lektionen prägen dein nervliches System.
 
-Manche Menschen entwickeln Bindungsangst auch durch Traumata in Beziehungen. Ein heftiger Betrug, eine demütigende Trennung, emotionale Missbrauch — das alles kann dein System kalibrieren, um Nähe als gefährlich zu erleben. Dein Gehirn hat gelernt: "Menschen, denen ich vertraue, können mich verletzen. Deshalb halte ich andere auf Abstand."
+Manche Menschen entwickeln Bindungsangst auch durch Traumata in Beziehungen. Ein heftiger Betrug, eine demütigende [Trennung](/blog/trennung-verarbeiten-12-schritte), emotionale Missbrauch — das alles kann dein System kalibrieren, um Nähe als gefährlich zu erleben. Dein Gehirn hat gelernt: "Menschen, denen ich vertraue, können mich verletzen. Deshalb halte ich andere auf Abstand."
 
 Es gibt auch eine kulturelle Komponente. Du lebst in einer Gesellschaft, die Unabhängigkeit vergöttert, die Liebe als Schwäche darstellt und emotionale Offenheit oft mit Vulnerabilität gleichsetzt. Dir wurde vielleicht beigebracht, dass du "cool" sein sollst, deine Gefühle verbergen sollst oder dass emotionale Bedürftigkeit peinlich ist. Diese Botschaften internalisieren sich, und plötzlich empfindest du Nähe als einen Verstoß gegen deine Identität.
 
@@ -95,7 +95,7 @@ Bindungsängstliche Menschen haben oft gelernt, ihre Gefühle zu verstecken. Sie
 
 Sag deinem Partner nicht einfach "Mir geht es gut", sondern "Mir ist heute angst vor Nähe. Ich weiß, dass du sicher bist, aber mein Körper protestiert. Ich arbeite daran. Danke, dass du da bist." Das ist exponentiell schwerer als das erste, aber das ist auch der Punkt.
 
-Übe auch, Komplimente anzunehmen. Bindungsängstliche Menschen tendieren dazu, Lob zu unterminieren. Der Partner sagt "Du bist wunderbar" und du antwortest "Nee, ich bin chaotisch und unreif". Stop. Sag stattdessen: "Danke, das bedeutet mir viel."
+Übe auch, [Komplimente](/blog/komplimente-fuer-maenner) anzunehmen. Bindungsängstliche Menschen tendieren dazu, Lob zu unterminieren. Der Partner sagt "Du bist wunderbar" und du antwortest "Nee, ich bin chaotisch und unreif". Stop. Sag stattdessen: "Danke, das bedeutet mir viel."
 
 ## Schritt 5: Das Nervensystem regulieren
 

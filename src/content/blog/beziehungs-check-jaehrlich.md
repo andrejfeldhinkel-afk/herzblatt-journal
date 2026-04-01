@@ -546,7 +546,7 @@ Aber es ist auch ehrlich. Und Ehrlichkeit ist besser als Jahre des Versteckspiel
 
 In diesem Fall: Geht langsam. Das ist nicht eine Entscheidung, die eine Nacht entschieden wird. Aber auch: Ignoriere es nicht. Eine Person hat eine wichtige Wahrheit gesagt. Das verdient Respekt.
 
-Es könnte sein, dass Paartherapie die Beziehung rettbar macht. Es könnte auch sein, dass Trennung die beste Lösung ist. Aber das verdient Zeit und Raum, um herauszufinden.
+Es könnte sein, dass Paartherapie die Beziehung rettbar macht. Es könnte auch sein, dass [Trennung](/blog/trennung-verarbeiten-12-schritte) die beste Lösung ist. Aber das verdient Zeit und Raum, um herauszufinden.
 
 ### Das positive Outcome: Probleme reparieren
 

@@ -114,7 +114,7 @@ Bevor Sie antworten, pausieren Sie. Was fühlen Sie? Sind Sie wirklich über die
 
 ### 3. Bedenken Sie den Kontext
 
-Warum tauchen sie jetzt auf? Sind sie in einer schlechten Beziehung? Gerade eine Trennung durchmachend? Der Grund für das Submarining könnte Ihnen helfen zu verstehen, ob dies ein echtes Interesse ist oder nur Manipulation.
+Warum tauchen sie jetzt auf? Sind sie in einer schlechten Beziehung? Gerade eine [Trennung](/blog/trennung-verarbeiten-12-schritte) durchmachend? Der Grund für das Submarining könnte Ihnen helfen zu verstehen, ob dies ein echtes Interesse ist oder nur Manipulation.
 
 ### 4. Die Unresponse
 

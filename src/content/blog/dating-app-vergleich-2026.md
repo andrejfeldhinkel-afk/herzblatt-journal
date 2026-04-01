@@ -67,7 +67,7 @@ Bumble ist im Grunde Tinder, aber Frauen schreiben zuerst. Das ist ein großer U
 
 ## Hinge: "Die App, die dich zu Beziehungen führt"
 
-Hinge ist völlig anders. Es ist nicht Tinder. Es ist nicht für Hookups konzipiert.
+[Hinge](/blog/hinge-guide-deutsch-2026) ist völlig anders. Es ist nicht Tinder. Es ist nicht für Hookups konzipiert.
 
 **Das Gute:**
 - Die Nutzer wollen echte Beziehungen. Das ist nicht aufgestellt.

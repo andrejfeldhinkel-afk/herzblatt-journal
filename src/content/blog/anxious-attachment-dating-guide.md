@@ -177,7 +177,7 @@ Lerne auch, die grünen Flaggen zu erkennen und zu schätzen. Ein Partner, der o
 
 Für Menschen mit ängstlichem Bindungsstil ist der Umgang mit Trennungen besonders schmerzhaft und überwältigend. Die Angst vor Verlust wird zur grausamen Realität. Dein Nervensystem gerät in einen Zustand extremer Aktivierung und Verzweiflung. Du möchtest verzweifelt versuchen, deine Beziehung zu retten, auch wenn sie objektiv nicht zu retten ist.
 
-Es ist wichtig zu verstehen, dass eine Trennung nicht bedeutet, dass du schlecht, defekt oder fundamental ungeliebt bist. Eine Trennung bedeutet nur, dass diese spezifische Beziehung mit dieser spezifischen Person nicht funktioniert hat. Dies ist nicht ein Beweis für deine ganze Person oder deinen Wert.
+Es ist wichtig zu verstehen, dass eine [Trennung](/blog/trennung-verarbeiten-12-schritte) nicht bedeutet, dass du schlecht, defekt oder fundamental ungeliebt bist. Eine Trennung bedeutet nur, dass diese spezifische Beziehung mit dieser spezifischen Person nicht funktioniert hat. Dies ist nicht ein Beweis für deine ganze Person oder deinen Wert.
 
 Während einer Trennung benötigst du wahrscheinlich professionelle therapeutische Unterstützung. Ein Therapeut kann dir helfen, durch den Trauer-Prozess zu navigieren. Befreunde dich mit deinem Schmerz. Versuche nicht, ihn zu vermeiden oder zu betäuben mit Alkohol, Drogen oder destruktiven Verhaltensweisen. Erlauben Sie sich, vollständig zu trauern.
 

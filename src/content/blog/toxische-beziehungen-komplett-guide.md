@@ -173,7 +173,7 @@ Okay, du erkennst, dass die Beziehung toxisch ist. Du bist bereit zu gehen. Wie 
 - Schaffe dein eigenes Geldkonto
 - Häufig ein Bild deiner idealen Zukunft – nicht mit dem Partner
 
-### Phase 2: Die Trennung
+### Phase 2: Die [Trennung](/blog/trennung-verarbeiten-12-schritte)
 
 **Die Konversation:**
 - Wähle einen sicheren Ort und eine sichere Zeit

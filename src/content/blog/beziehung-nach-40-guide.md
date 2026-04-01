@@ -67,7 +67,7 @@ Eine tiefe, echte Beziehung ist bessere als 100 oberflächliche Matches.
 
 ### Online-Dating funktioniert besser über 40
 
-Die Dating-Apps wissen jetzt: Älter bedeutet nicht weniger aktiv. Apps haben spezielle Over-40-Features. Bumble, Hinge, und andere funktionieren sehr gut für diese Demografie.
+Die Dating-Apps wissen jetzt: Älter bedeutet nicht weniger aktiv. Apps haben spezielle Over-40-Features. Bumble, [Hinge](/blog/hinge-guide-deutsch-2026), und andere funktionieren sehr gut für diese Demografie.
 
 Plus: Menschen über 40 nutzen Apps anders. Weniger Spielkram, mehr echte Interessen.
 

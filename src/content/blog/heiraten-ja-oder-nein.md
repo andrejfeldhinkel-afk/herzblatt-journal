@@ -64,7 +64,7 @@ Aber es gibt auch wirklich gute Gründe, nicht zu heiraten. Und diese Punkte ver
 
 Die Scheidungsquote in Deutschland liegt bei etwa 35-40%. Das bedeutet: Von drei Ehen wird mindestens eine geschieden. Die Scheidung selbst ist emotional anstrengend und kostspielig. Anwälte, Gericht, die Aufteilung von Vermögen – es wird kompliziert.
 
-Wenn du nicht heiratest und die Beziehung endet, ist es emotionally genauso schmerzhaft, aber rechtlich deutlich einfacher. Es gibt keine langen Scheidungsprozesse. Keine Verhandlungen über Vermögensaufteilung. Das ist ein echtes Argument gegen die Heirat – besonders wenn du bereits eine schwierige Trennung hinter dir hast.
+Wenn du nicht heiratest und die Beziehung endet, ist es emotionally genauso schmerzhaft, aber rechtlich deutlich einfacher. Es gibt keine langen Scheidungsprozesse. Keine Verhandlungen über Vermögensaufteilung. Das ist ein echtes Argument gegen die Heirat – besonders wenn du bereits eine schwierige [Trennung](/blog/trennung-verarbeiten-12-schritte) hinter dir hast.
 
 ### Verlust von Unabhängigkeit (zumindest rechtlich)
 

@@ -436,7 +436,7 @@ Das Geheimnis: Established Couples unterschätzen die Kraft von unerwarteten kle
 Nach Jahren zusammen, müssen Dates intentional werden. Der Alltag kann romantik ersticken, wenn ihr nicht aktiv dagegen ankämpft.
 
 **Was zählt bei langfristigen Beziehungen:**
-- Absichtliche Trennung von Alltag-Themen (nicht über Finanzen beim Dinner reden)
+- Absichtliche [Trennung](/blog/trennung-verarbeiten-12-schritte) von Alltag-Themen (nicht über Finanzen beim Dinner reden)
 - Dankbarkeit ausdrücken (sag, was du an diesem Menschen schätzt)
 - Neue Dinge ausprobieren, die du noch nie gemacht hast (mit dieser Person)
 - Weniger "Aktivität," mehr "Präsenz" (sitzt zusammen, ohne dass etwas Besonderes passieren muss)

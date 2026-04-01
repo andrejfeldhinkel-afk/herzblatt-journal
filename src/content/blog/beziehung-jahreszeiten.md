@@ -160,7 +160,7 @@ Das ist die große Frage. Und es gibt keine einfache Antwort. Aber hier sind Fra
 - Kann ich diese Person in ihrer schlimmsten Phase sehen und immer noch "ja" sagen?
 - Vertraue ich dieser Person grundlegend?
 
-**Wenn die Antwort zu oft "Nein" ist, ist Trennung wahrscheinlich richtig.**
+**Wenn die Antwort zu oft "Nein" ist, ist [Trennung](/blog/trennung-verarbeiten-12-schritte) wahrscheinlich richtig.**
 
 **Wenn aber auch nur einige Fragen echte "Ja"s haben — dann könnte das arbeiten.**
 

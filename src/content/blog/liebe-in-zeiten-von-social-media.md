@@ -224,5 +224,5 @@ Dein echtes Leben ist immer interessanter als jedes Instagram-Video kann sein.
 
 - [Beziehung und Social Media: Segen oder Fluch für die Liebe?](/blog/beziehung-und-social-media-guide/)
 - [Social Media und Beziehung - Fluch oder Segen?](/blog/beziehung-social-media-einfluss/)
-- [Social Media nach der Trennung: Blockieren oder nicht?](/blog/social-media-nach-trennung/)
+- [Social Media nach der [Trennung](/blog/trennung-verarbeiten-12-schritte): Blockieren oder nicht?](/blog/social-media-nach-trennung/)
 - [Eifersucht durch Social Media: Was hilft?](/blog/eifersucht-social-media/)

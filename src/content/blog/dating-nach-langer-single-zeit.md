@@ -25,7 +25,7 @@ Nach einer langen Zeit als Single zurück ins Dating zu gehen kann sich überwä
 
 ## Warum eine lange Single-Phase passiert
 
-Menschen bleiben aus vielen Gründen lange Single – manchmal aus Wahl, manchmal aus Umständen. Du könntest eine schwierige Trennung durchgemacht haben und Zeit brauchte zu heilen. Du könntest dich auf deine Karriere konzentriert haben. Du könntest in einer Gegend gelebt haben, wo es schwer war, Partner zu finden. Du könntest einfach niemanden getroffen haben, den du mochtest.
+Menschen bleiben aus vielen Gründen lange Single – manchmal aus Wahl, manchmal aus Umständen. Du könntest eine schwierige [Trennung](/blog/trennung-verarbeiten-12-schritte) durchgemacht haben und Zeit brauchte zu heilen. Du könntest dich auf deine Karriere konzentriert haben. Du könntest in einer Gegend gelebt haben, wo es schwer war, Partner zu finden. Du könntest einfach niemanden getroffen haben, den du mochtest.
 
 Egal der Grund – eine lange Single-Phase ist nicht etwas, das dich beschädigt oder weniger wertvoll macht.
 

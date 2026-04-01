@@ -262,7 +262,7 @@ Ein echter Kompromiss in Beziehungen funktioniert auf drei Ebenen:
 
 Das ist die unbequeme Antwort: So früh wie möglich. Idealerweise im ersten Jahr einer Beziehung.
 
-Das klingt hart und unromantisch. Du willst nicht über "Kinder ja/nein" reden wenn ihr gerade angefangen habt zu daten. Das ist zu viel Druck, zu viel Ernsthaftigkeit. Aber die Realität ist: Wenn du in einem Jahr feststellt dass einer von euch keine Kinder will und der andere genau zwei, haben beide ein ganzes Jahr investiert. Beide haben emotional ausgebaut. Das macht die Trennung oder der schwierige Kompromiss schlimmer.
+Das klingt hart und unromantisch. Du willst nicht über "Kinder ja/nein" reden wenn ihr gerade angefangen habt zu daten. Das ist zu viel Druck, zu viel Ernsthaftigkeit. Aber die Realität ist: Wenn du in einem Jahr feststellt dass einer von euch keine Kinder will und der andere genau zwei, haben beide ein ganzes Jahr investiert. Beide haben emotional ausgebaut. Das macht die [Trennung](/blog/trennung-verarbeiten-12-schritte) oder der schwierige Kompromiss schlimmer.
 
 Die praktische Regel: Die großen Fragen in den ersten 6-12 Monaten ansprechen. Das sind:
 

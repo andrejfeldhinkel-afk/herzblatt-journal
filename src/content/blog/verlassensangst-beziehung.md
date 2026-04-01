@@ -31,7 +31,7 @@ Wenn du erlebtest, dass dein Bedarf nach Nähe nicht erfüllt wurde, hast du zwe
 
 ### Elterliche Scheidung und Trennungen
 
-Wenn deine Eltern sich trennt haben, hast du möglicherweise erlebt, dass eine der wichtigsten Beziehungen deines Lebens zerbrach. Selbst wenn die Eltern versucht haben, dich zu beruhigen und zu sagen, dass die Trennung nichts mit dir zu tun hat, verarbeitet dein Kindergehirn das anders.
+Wenn deine Eltern sich trennt haben, hast du möglicherweise erlebt, dass eine der wichtigsten Beziehungen deines Lebens zerbrach. Selbst wenn die Eltern versucht haben, dich zu beruhigen und zu sagen, dass die [Trennung](/blog/trennung-verarbeiten-12-schritte) nichts mit dir zu tun hat, verarbeitet dein Kindergehirn das anders.
 
 Eine Scheidung sendet dir ein unbewusstes Signal: "Menschen, die du liebst, können gehen. Liebe ist nicht für immer. Wenn du nicht vorsichtig bist, wirst du allein gelassen." Diese Überzeugung sitzt tief. Später in deinem Leben können diese Überzeugungen aktiviert werden, wenn es in deiner Beziehung Probleme gibt.
 

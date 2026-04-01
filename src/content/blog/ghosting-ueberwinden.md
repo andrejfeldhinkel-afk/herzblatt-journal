@@ -1,6 +1,6 @@
 ---
-title: "Ghosting überwinden: Warum es passiert und wie du damit"
-description: "Ghosting verstehen und überwinden. Warum Menschen ghosten und wie du dich selbst heilst."
+title: "Geghostet worden? So überwindest du Ghosting (Anleitung 2026)"
+description: "Du wurdest geghostet und fragst dich warum? Erfahre die wahren Gründe hinter Ghosting und wie du den Schmerz in 5 Schritten überwindest."
 date: 2025-10-20
 image: "/images/photos/ghosting-ueberwinden.webp"
 tags:
@@ -8,9 +8,10 @@ tags:
   - "Online-Dating"
   - "Heilung"
 keywords:
+  - "geghostet"
   - "ghosting überwinden"
   - "ghosting warum"
-  - "ghosting umgehen"
+  - "geghostet worden"
   - "ghosting verarbeiten"
 draft: false
 featured: false

@@ -142,7 +142,7 @@ Diese Veränderungen sind nicht von Aßen, sie sind von einem Wandel in der Gese
 
 Statistische sagen: Die kritischsten Jahre sind 1-7. Wenn eine Ehe diese überstanden hat, hat sie gute Chancen.
 
-Die häufigsten Gründe für Trennung in den ersten Jahren:
+Die häufigsten Gründe für [Trennung](/blog/trennung-verarbeiten-12-schritte) in den ersten Jahren:
 - Finanzielle Probleme
 - Kommunikationsfehler
 - Unterschiedliche Erwartungen

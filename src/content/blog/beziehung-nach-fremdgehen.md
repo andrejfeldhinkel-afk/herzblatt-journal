@@ -229,7 +229,7 @@ Du kannst nicht einfach über das Fremdgehen hinwegspulen und „normal" weiterm
 
 ## Wann solltest du wirklich gehen?
 
-Es gibt Punkte, an denen das Weitermachen einfach keine gute Idee ist. Hier sind klare Zeichen, dass eine Trennung wahrscheinlich die bessere Wahl ist:
+Es gibt Punkte, an denen das Weitermachen einfach keine gute Idee ist. Hier sind klare Zeichen, dass eine [Trennung](/blog/trennung-verarbeiten-12-schritte) wahrscheinlich die bessere Wahl ist:
 
 ### Der Partner zeigt keine echte Reue
 

@@ -20,7 +20,7 @@ faq:
 
 # Trennungsschmerz überwinden: Der komplette Heilungsweg
 
-Eine Trennung ist eine der schlimmsten Erfahrungen, die du machen kannst. Es fühlt sich an, als würde ein Teil von dir fehlen, und die Welt um dich herum wirkt plötzlich grau und leblos. Doch ich versichere dir: Dieser Schmerz wird sich verändern. Du wirst wieder lachen können, ohne dich schuldig zu fühlen. Du wirst wieder in den Spiegel schauen und dich selbst erkennen.
+Eine [Trennung](/blog/trennung-verarbeiten-12-schritte) ist eine der schlimmsten Erfahrungen, die du machen kannst. Es fühlt sich an, als würde ein Teil von dir fehlen, und die Welt um dich herum wirkt plötzlich grau und leblos. Doch ich versichere dir: Dieser Schmerz wird sich verändern. Du wirst wieder lachen können, ohne dich schuldig zu fühlen. Du wirst wieder in den Spiegel schauen und dich selbst erkennen.
 
 In diesem umfassenden Ratgeber begleite ich dich durch alle Phasen der Heilung. Wir werden zusammen erforschen, was während einer Trennung in dir vorgeht, wie du mit dem Schmerz umgehen kannst und wie du nicht nur überleben, sondern wieder aufblühen kannst.
 

@@ -11,7 +11,7 @@ tags:
 ---
 ## Trennungsschmerz: Die 5 Phasen der heilung und wie du jede durchstehst
 
-Eine Trennung ist einer der schmerzhaftesten menschlichen Erfahrungen. Es spielt keine Rolle, ob du die Person warst, die ging, oder die Person, die verlassen wurde – Trennungsschmerz ist real und weitreichend. Dein Leben war strukturiert um diese Person, deine Zukunft war geplant mit ihr, und plötzlich ist sie weg. Das ist emotional, spirituell und sogar körperlich schmerzhaft.
+Eine [Trennung](/blog/trennung-verarbeiten-12-schritte) ist einer der schmerzhaftesten menschlichen Erfahrungen. Es spielt keine Rolle, ob du die Person warst, die ging, oder die Person, die verlassen wurde – Trennungsschmerz ist real und weitreichend. Dein Leben war strukturiert um diese Person, deine Zukunft war geplant mit ihr, und plötzlich ist sie weg. Das ist emotional, spirituell und sogar körperlich schmerzhaft.
 
 Die gute Nachricht ist: Es gibt eine Struktur zu diesem Schmerz. Es gibt Phasen, die dein Geist und deine Emotionen durchlaufen, wenn du eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) verarbeitest. Diese Phasen wurden zuerst von Elisabeth Kübler-Ross in ihrer Arbeit über Trauer beschrieben, aber sie gelten genauso für Trennungen. Wenn du diese Phasen verstehst, kannst du durch sie umgehen mit mit mehr Selbstmitgefühl und Verständnis.
 

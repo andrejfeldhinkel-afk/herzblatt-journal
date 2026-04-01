@@ -58,7 +58,7 @@ Diese konkrete Vorbereitung ist der Unterschied zwischen einem generischen und e
 
 ---
 
-## Schritt 1: Die richtige Liebesbrief Vorlage wählen
+## Schritt 1: Die richtige [Liebesbrief Vorlage](/blog/liebesbriefe-schreiben-vorlagen) wählen
 
 Es gibt verschiedene Strukturen, um einen Liebesbrief zu schreiben. Ich zeige dir drei bewährte Formate.
 

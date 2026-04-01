@@ -51,7 +51,7 @@ Bevor du die Gefühle gestehst, bereite dich mental vor. Es gibt drei Szenarien:
 2. Die Person erwidert deine Gefühle nicht, will aber Freundschaft bleiben.
 3. Die Person erwidert deine Gefühle nicht und das Zusammenleben wird unangenehm.
 
-Das dritte Szenario ist das, vor dem jeder Angst hat. Und es ist berechtigt. Deshalb: Bevor du deine Gefühle aussprichst, überprüfe die Vorzeichen. Gibt es gegenseitige Berührungen? Schaut die Person dich länger an? Macht die Person dir Komplimente? Oder bin ich nur hoffnungsvoll?
+Das dritte Szenario ist das, vor dem jeder Angst hat. Und es ist berechtigt. Deshalb: Bevor du deine Gefühle aussprichst, überprüfe die Vorzeichen. Gibt es gegenseitige Berührungen? Schaut die Person dich länger an? Macht die Person dir [Komplimente](/blog/komplimente-fuer-maenner)? Oder bin ich nur hoffnungsvoll?
 
 Das ist eine ehrliche Überprüfung. Nicht Stalking, sondern Realitätsprüfung.
 
@@ -59,7 +59,7 @@ Das ist eine ehrliche Überprüfung. Nicht Stalking, sondern Realitätsprüfung.
 
 Wenn es nicht funktioniert, wird das Zusammenleben schwierig. Einen Ex in der Küche zu treffen, den Neuen beim Frühstück zu sehen – das kann brutal sein. Deshalb: Bevor ihr euch auf etwas einlasst, sprecht über den Worst Case. Wer würde ausziehen? Könnt ihr euch das leisten? Wie lange könnt ihr es ertragen, wenn es unangenehm wird?
 
-Das klingt unromantisch, aber es ist wichtig. Wenn ihr beide wisst, dass die WG bei einer Trennung beendet würde (z. B. "Eine Person zieht bis zum Ende des Mietvertrags aus"), habt ihr weniger Angst.
+Das klingt unromantisch, aber es ist wichtig. Wenn ihr beide wisst, dass die WG bei einer [Trennung](/blog/trennung-verarbeiten-12-schritte) beendet würde (z. B. "Eine Person zieht bis zum Ende des Mietvertrags aus"), habt ihr weniger Angst.
 
 Auch die WG-Dynamik ändert sich. Andere Mitbewohner fühlen sich vielleicht ausgeschlossen oder unwohl. Wenn ihr zusammen seid, verstärkt ihr euch gegenseitig. Die anderen sitzen allein beim Abendessen. Kommuniziert offen, auch mit den anderen. Macht sie nicht zum dritten Rad.
 

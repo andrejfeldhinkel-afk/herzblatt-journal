@@ -76,7 +76,7 @@ Das **Pfinzgau-Museum** zeigt lokale Kunstwerke. Interessant für kulturell inte
 
 Karlsruhe ist eine progressive Stadt mit großer Tech-Industrie. Das zieht viele intelligente, ambitionierte Menschen an.
 
-**Tinder**, **Bumble** und **Hinge** sind alle popular. Besonders **Hinge** ist bei ernsthaft suchenden Singles verbreitet.
+**Tinder**, **Bumble** und **[Hinge](/blog/hinge-guide-deutsch-2026)** sind alle popular. Besonders **Hinge** ist bei ernsthaft suchenden Singles verbreitet.
 
 Die Stadt hat eine moderne, offene Einstellung. Unterschiedliche Dating-Stile werden respektiert.
 

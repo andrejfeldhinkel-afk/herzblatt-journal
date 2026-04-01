@@ -95,7 +95,7 @@ Sich gegenseitig Fotos von eurem Tag zeigen und Geschichten dazu erzählen.
 
 Einfach auf der Couch zusammensitzen und nichts spezielles tun, nur zusammen sein.
 
-Eine Moment haben, in der ihr euch Komplimente macht – ohne sarkastisch zu sein.
+Eine Moment haben, in der ihr euch [Komplimente](/blog/komplimente-fuer-maenner) macht – ohne sarkastisch zu sein.
 
 Entspannung zusammen: Bath zusammen, oder entspannende Musik hören während ihr nebeneinander sitzt.
 

@@ -22,7 +22,7 @@ faq:
 
 ## Die No-Contact-Regel: Warum Funkstille so wichtig ist
 
-Die Kontaktsperre nach einer Trennung ist wahrscheinlich das beste Geschenk, das du dir selbst machen kannst. Du weißt, wie es geht – keine Texte, keine Anrufe, keine zufälligen Treffen, kein Stalking auf sozialen Medien. Aber warum ist das so wichtig? Und wie hältst du wirklich durch, wenn jede Faser deines Körpers dich drängt, diese Person zu kontaktieren?
+Die Kontaktsperre nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte) ist wahrscheinlich das beste Geschenk, das du dir selbst machen kannst. Du weißt, wie es geht – keine Texte, keine Anrufe, keine zufälligen Treffen, kein Stalking auf sozialen Medien. Aber warum ist das so wichtig? Und wie hältst du wirklich durch, wenn jede Faser deines Körpers dich drängt, diese Person zu kontaktieren?
 
 Die Kontaktsperre ist nicht eine Strafe. Es ist keine Taktik, um eine Person zur Rückkehr zu bewegen. Es ist ein notwendiger Neustart für deine psychische Gesundheit.
 

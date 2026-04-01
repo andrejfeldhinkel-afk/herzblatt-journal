@@ -257,7 +257,7 @@ Mindestens 3-4 Stunden. Das gibt euch genug Zeit, um eine Aktivität zu machen, 
 Heidelberg ist großartig für beides. Für ein erstes Treffen könnt ihr einen Spaziergang machen (weniger Druck). Für weitere Treffen könnt ihr tiefere Aktivitäten machen wie gemeinsames Kochen oder Wandern.
 
 **Gibt es Dating-Apps, die in Heidelberg popular sind?**
-Ja, die großen Dating-Apps wie Tinder, Bumble und Hinge sind auch in Heidelberg aktiv. Aber Heidelberg ist klein genug, dass direktes Treffen über Freunde oft besser funktioniert.
+Ja, die großen Dating-Apps wie Tinder, Bumble und [Hinge](/blog/hinge-guide-deutsch-2026) sind auch in Heidelberg aktiv. Aber Heidelberg ist klein genug, dass direktes Treffen über Freunde oft besser funktioniert.
 
 ## Online-Dating in Heidelberg und wie die Stadt hilft
 

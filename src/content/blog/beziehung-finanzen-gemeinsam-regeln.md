@@ -157,7 +157,7 @@ Beispiel: Er verdient 40.000, sie verdient 60.000. Die Miete kostet 1.500.
 
 **Wann das funktioniert:** Wenn große Einkommensgefälle existieren, und beide sind reif genug, das zu verstehen.
 
-### Modell 4: Völlige Trennung
+### Modell 4: Völlige [Trennung](/blog/trennung-verarbeiten-12-schritte)
 
 Jeder zahlt für das, das er nutzt. Er kauft sein Essen, sie ihres.
 

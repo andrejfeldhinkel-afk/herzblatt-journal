@@ -80,7 +80,7 @@ Du verlierst deine Freunde und Familie. Nicht, weil die Person dich verbietet mi
 
 Du vergleichst ständig. Du erinnere dich an die guten Momente endlos, und du minimierst die schlechten. "Erinnerst du dich, wie schön das Wochenende war?" Du fokussierst auf diese Momente und verdrehst sie in deinem Gedächtnis, sodass sie noch schöner werden. Das ist eine unbewusste Technik deines Gehirns, um die Bindung zu rationalisieren.
 
-Du hast Angst, die Person zu verlassen. Nicht Angst vor körperlichem Schmerz (obwohl das auch sein kann), sondern Angst vor dem Schmerz von Trennung. Du fühlst dich leer ohne diese Person. Du kannst dir dein Leben nicht ohne sie vorstellen. Und diese Angst macht dich gefangen.
+Du hast Angst, die Person zu verlassen. Nicht Angst vor körperlichem Schmerz (obwohl das auch sein kann), sondern Angst vor dem Schmerz von [Trennung](/blog/trennung-verarbeiten-12-schritte). Du fühlst dich leer ohne diese Person. Du kannst dir dein Leben nicht ohne sie vorstellen. Und diese Angst macht dich gefangen.
 
 Du findest Wege, die Person zu retten oder zu verbessern. Du glaubst, dass du der/die Einzige bist, der/die sie wirklich versteht. Wenn du die Person verlässt, wird sie im Leben nicht klarkommen. Diese "Helfer"-Rolle gibt dir eine falsche Identität und hält dich in der Beziehung.
 

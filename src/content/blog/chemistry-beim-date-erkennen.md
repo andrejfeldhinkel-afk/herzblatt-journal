@@ -446,7 +446,7 @@ Es gibt bestimmte Dinge die sofort Chemistry töten, selbst wenn es am Anfang da
 
 **Killer 9: Zu viel früh über ernsthafte Themen reden.** Wenn dein Date redet über Kinder, Heirat, finanzielle Probleme im Detail auf dem ersten oder zweiten Date, kann das die Chemistry killen. Zu viel Ernsthaftigkeit, zu schnell. Es braucht Leichtigkeit und Play vorher.
 
-**Killer 10: Zu viel Schmeicherei oder Manipulation.** Wenn dein Date ist zu charming, zu slick, zu viele Komplimente sehr schnell, kann das ein Red Flag sein. Das kann bedeuten dass die Person manipulativ ist. Echte Chemistry baut sich organisch auf, nicht forciert.
+**Killer 10: Zu viel Schmeicherei oder Manipulation.** Wenn dein Date ist zu charming, zu slick, zu viele [Komplimente](/blog/komplimente-fuer-maenner) sehr schnell, kann das ein Red Flag sein. Das kann bedeuten dass die Person manipulativ ist. Echte Chemistry baut sich organisch auf, nicht forciert.
 
 ## Wie man Chemistry intentional aufbaut
 

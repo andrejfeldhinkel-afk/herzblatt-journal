@@ -172,7 +172,7 @@ Deine Bindungsstile sind nicht dein Schicksal. Sie sind einfach ein Ausgangspunk
 
 ## Bindungsstile in verschiedenen Lebensphasen
 
-Bindungsstile sind nicht statisch – sie können sich durch verschiedene Lebensphasen verändern. In deinen Zwanzigern könntest du impulsiv und vermeidend sein, aber in deinen Dreißigern, wenn du dich reifer und selbstsicherer fühlst, könntest du einen sichereren Bindungsstil entwickeln. Große Lebensereignisse wie Karriereverlust, der Tod eines Elternteils oder eine traumatische Trennung können auch einen Bindungsstil vorübergehend verstärken.
+Bindungsstile sind nicht statisch – sie können sich durch verschiedene Lebensphasen verändern. In deinen Zwanzigern könntest du impulsiv und vermeidend sein, aber in deinen Dreißigern, wenn du dich reifer und selbstsicherer fühlst, könntest du einen sichereren Bindungsstil entwickeln. Große Lebensereignisse wie Karriereverlust, der Tod eines Elternteils oder eine traumatische [Trennung](/blog/trennung-verarbeiten-12-schritte) können auch einen Bindungsstil vorübergehend verstärken.
 
 Es ist wichtig zu verstehen, dass diese Veränderungen normal sind. Wenn du merkst, dass dein Bindungsstil sich verändert hat – besonders wenn er unsicherer geworden ist – ist das ein Zeichen, dass etwas in deinem Leben aufgelöst werden muss. Vielleicht ist es Zeit für Selbstmitleid, Therapie oder einfach für die Erlaubnis, andere zu bitten, dir zu helfen.
 

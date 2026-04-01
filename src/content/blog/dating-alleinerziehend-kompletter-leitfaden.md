@@ -407,7 +407,7 @@ Nicht alle Geschichten sind perfekt, aber hier sind real-ish Beispiele, die zeig
 
 **Fall 1: Anneliese, 38, ein Kind (7 Jahre alt)**
 
-Anneliese war fünf Jahren nach ihrer Trennung allein. Sie war nervös über Dating, weil sie dachte, kein Mann würde jemanden mit Kind datieren.
+Anneliese war fünf Jahren nach ihrer [Trennung](/blog/trennung-verarbeiten-12-schritte) allein. Sie war nervös über Dating, weil sie dachte, kein Mann würde jemanden mit Kind datieren.
 
 Sie versuchte online Dating und war offen in ihrem Profil. Sie matchte mit Stefan, der selbst kein Kind hatte, aber von Kindern um seine älteren Schwestern wusste.
 

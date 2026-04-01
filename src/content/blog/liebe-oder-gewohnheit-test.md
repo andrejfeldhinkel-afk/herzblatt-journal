@@ -109,7 +109,7 @@ Bei echter Liebe wünscht sich der andere, dass du wächst und deine Träume ver
 
 Wenn dein Partner deine Ambitionen sabotiert, deine Träume klein macht oder ignoriert, dann liebst du ihn/sie nicht wirklich. Und noch wichtiger: Du wirst nicht geliebt.
 
-### Frage 11: Wie oft denkst du konkret über eine Trennung nach?
+### Frage 11: Wie oft denkst du konkret über eine [Trennung](/blog/trennung-verarbeiten-12-schritte) nach?
 
 Das ist eine sehr wichtige Frage. Wie oft kommt dir der Gedanke, diese Beziehung zu beenden? Ist es ein zufälliger Gedanke, der kommt und geht, wenn die Dinge gerade schwierig sind? Oder ist er ein ständiger Begleiter, ein Gedanke, der morgens kommt und abends mit dir ins Bett geht?
 

@@ -184,7 +184,7 @@ Online-Dating funktioniert in Saarbrücken sehr gut wegen der internationalen Co
 
 **Bumble** hat gute Netzwerk in Saarbrücken, besonders bei gebildeteren, progressiven Singles.
 
-**Hinge** wird beliebter und hat qualitativ gute Matches.
+**[Hinge](/blog/hinge-guide-deutsch-2026)** wird beliebter und hat qualitativ gute Matches.
 
 **Happn** ist auch populär, da es location-basiert funktioniert.
 

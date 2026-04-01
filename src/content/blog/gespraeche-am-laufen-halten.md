@@ -130,7 +130,7 @@ Themen, die gut funktionieren:
 Themen, die nicht funktionieren:
 - Das Wetter (niemand will darüber erzählen)
 - Zu persönliche Dinge zu schnell (Religion, Politik, Ex-Partner)
-- Oberflächliche Komplimente ("Du siehst gut aus.")
+- Oberflächliche [Komplimente](/blog/komplimente-fuer-maenner) ("Du siehst gut aus.")
 - Dinge, die keine Antwort brauchen ("Dieser Film war gut.")
 
 Wenn du merkst, dass ein Thema nirgendwo hin führt, wechsle es einfach. "Aber genug davon. Erzähl mir, was macht dich am glücklichsten?"

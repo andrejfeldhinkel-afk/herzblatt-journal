@@ -86,7 +86,7 @@ Es ist großartig, wenn es Anziehung gibt, aber sich sofort zu sexuell oder roma
 
 ### Das richtige Balance
 
-Sei ein bisschen flirty, aber vor allem authentisch und respektvoll. Leichte, subtile Komplimente sind gut. Direktes sexuelles Material ist nicht der Weg.
+Sei ein bisschen flirty, aber vor allem authentisch und respektvoll. Leichte, subtile [Komplimente](/blog/komplimente-fuer-maenner) sind gut. Direktes sexuelles Material ist nicht der Weg.
 
 ## Fehler Nummer 7: Unterschiedliche Energieniveaus nicht erkennen
 

@@ -35,7 +35,7 @@ Seine Zahnbürste im Badezimmer. Seine Bücher im Regal. Seine Unterwäsche in d
 
 Die Sachen zurückzugeben ist nicht schwer, weil es praktisch kompliziert ist. Es ist schwer, weil jeder Gegenstand eine Erinnerung ist. Seine Jacke riecht nach ihm. Das Kochbuch, das er gelesen hat. Der USB-Stick mit gemeinsamen Fotos.
 
-Aber die Sachen müssen weg. Das ist der erste Schritt zur echten Trennung. Solange seine Dinge in deiner Wohnung sind, bist du psychologisch noch verbunden. Das verhindert [heilung](/blog/aengstlicher-bindungsstil-heilen/).
+Aber die Sachen müssen weg. Das ist der erste Schritt zur echten [Trennung](/blog/trennung-verarbeiten-12-schritte). Solange seine Dinge in deiner Wohnung sind, bist du psychologisch noch verbunden. Das verhindert [heilung](/blog/aengstlicher-bindungsstil-heilen/).
 
 ## Das richtige Timing
 

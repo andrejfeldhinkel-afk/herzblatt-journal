@@ -283,7 +283,7 @@ Es gibt bestimmte Dinge, die sofort "aus" signalisieren:
 
 **Negative Energie:** Wenn du wütend wirkst, nervös, angespannt — die andere Person wird das fühlen. Bevor du flirtest, entspann dich. Atme. Sei in deinem Körper.
 
-**Zu viel Compliments über Aussehen:** "Du hast aber einen Hintern" — ja, viele Frauen bekommen das zu hören. Es ist nicht charmant. Wenn du Komplimente machen willst, mach sie auf andere Dinge: "Dein Lachen ist ansteckend" oder "Du scheinst jemand zu sein, der richtig interessiert ist an den Dingen um dich."
+**Zu viel Compliments über Aussehen:** "Du hast aber einen Hintern" — ja, viele Frauen bekommen das zu hören. Es ist nicht charmant. Wenn du [Komplimente](/blog/komplimente-fuer-maenner) machen willst, mach sie auf andere Dinge: "Dein Lachen ist ansteckend" oder "Du scheinst jemand zu sein, der richtig interessiert ist an den Dingen um dich."
 
 ## Das erste Gespräch meistern
 

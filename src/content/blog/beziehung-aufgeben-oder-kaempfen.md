@@ -54,7 +54,7 @@ Das ist nicht unfair—das ist realistisch. Ein Paar braucht zwei Menschen, die 
 
 ## Die Anzeichen, dass eine Beziehung am Ende ist
 
-Es gibt bestimmte Signale, bei denen eine Trennung die beste Lösung ist—und nicht nur die letzte Auswegreisende. Achte auf diese Warnsignale:
+Es gibt bestimmte Signale, bei denen eine [Trennung](/blog/trennung-verarbeiten-12-schritte) die beste Lösung ist—und nicht nur die letzte Auswegreisende. Achte auf diese Warnsignale:
 
 ### Mangel an Respekt
 

@@ -83,7 +83,7 @@ Wenn nach zwei bis drei Wochen regelmäßigem Kontakt kein konkretes Treffen zus
 
 ### Beobachte Taten, nicht Worte
 
-Hübsche Nachrichten bedeuten nichts, wenn sie nicht von Handlungen begleitet werden. Achte darauf, ob die Person wirklich Zeit und Energie in euren Kontakt investiert oder ob es bei digitalen Brotkrumen bleibt. Zuverlässigkeit ist ein besserer Indikator für echtes Interesse als die schönsten Komplimente.
+Hübsche Nachrichten bedeuten nichts, wenn sie nicht von Handlungen begleitet werden. Achte darauf, ob die Person wirklich Zeit und Energie in euren Kontakt investiert oder ob es bei digitalen Brotkrumen bleibt. Zuverlässigkeit ist ein besserer Indikator für echtes Interesse als die schönsten [Komplimente](/blog/komplimente-fuer-maenner).
 
 ### Höre auf, die Lücken zu füllen
 

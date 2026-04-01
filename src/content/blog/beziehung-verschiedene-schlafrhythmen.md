@@ -104,7 +104,7 @@ Menschen, die versuchen, gegen ihren natürlichen Rhythmus zu arbeiten, werden s
 
 Das ist ein Rezept für Ressource.
 
-## Lösungsversuch Nummer Zwei: Trennung (funktioniert manchmal)
+## Lösungsversuch Nummer Zwei: [Trennung](/blog/trennung-verarbeiten-12-schritte) (funktioniert manchmal)
 
 Einige Paare entscheiden sich, in separaten Schlafzimmern zu schlafen.
 

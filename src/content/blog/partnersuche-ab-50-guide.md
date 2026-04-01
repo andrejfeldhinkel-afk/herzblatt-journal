@@ -141,7 +141,7 @@ Cons: Kleinere über-50 Nutzerbasis, mehr junge Menschen auf der App.
 Pros: Einfach zu bedienen, große Nutzerbasis, kostenlos funktioniert.
 Cons: Zu viele junge Menschen, zu viel "Spielen", weniger ernsthaft gemeint.
 
-**Hinge:** "Die Dating-App entworfen, um in der realen Leben zu beenden." Es konzentriert sich auf tiefere Verbindungen. Es ist nicht einfach Wischen. Es hat einen guten Ruf bei über 50.
+**[Hinge](/blog/hinge-guide-deutsch-2026):** "Die Dating-App entworfen, um in der realen Leben zu beenden." Es konzentriert sich auf tiefere Verbindungen. Es ist nicht einfach Wischen. Es hat einen guten Ruf bei über 50.
 
 Pros: Fokus auf tiefe Verbindungen, gute Konversation Starters, modernes Design.
 Cons: Kleinere Nutzerbasis in Deutschland, weniger Nutzer über 50 als spezialisierte Apps.
@@ -555,7 +555,7 @@ Die Menschen sagen, dass Liebe nach 50 nicht passiert. Das ist ein Lüge. Hier s
 
 **Geschichtennummer eins: Das unerwartete Wiedersehen**
 
-Klaus, 58, hatte 15 Jahre verheiratet. Seine Ehe endete mit einer stillen Trennung — nicht dramatisch, einfach zu unterschiedlich. Er dachte, dass sein romantisches Kapitel geschlossen war.
+Klaus, 58, hatte 15 Jahre verheiratet. Seine Ehe endete mit einer stillen [Trennung](/blog/trennung-verarbeiten-12-schritte) — nicht dramatisch, einfach zu unterschiedlich. Er dachte, dass sein romantisches Kapitel geschlossen war.
 
 Auf einer Wanderreise in Südtirol, traf er Petra, 55, eine Lehrerin, die allein reiste. Sie waren auf dem gleichen Wanderpfad. Sie sprachen kurz. Sie tauschten Nummern aus.
 

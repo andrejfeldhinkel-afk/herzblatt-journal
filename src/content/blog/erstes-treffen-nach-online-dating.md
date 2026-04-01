@@ -128,7 +128,7 @@ Also: Wenn sie nicht wie die Fotos aussehen, gib ihnen eine Chance. Sprich mit i
 
 ## Was du nicht tun solltest
 
-**Sich treffen, wenn du emotionsgeladen bist**: Wenn du gerade eine Trennung durchmachst oder dich selbst bewusst bist, verschiebe das Treffen.
+**Sich treffen, wenn du emotionsgeladen bist**: Wenn du gerade eine [Trennung](/blog/trennung-verarbeiten-12-schritte) durchmachst oder dich selbst bewusst bist, verschiebe das Treffen.
 
 **Über Ex-Partner sprechen**: Es ist okay, wenn die Person fragt "Wie ist deine letzte Beziehung endete?" – du kannst kurz antworten. Aber mache nicht dein ganzes erstes Datum über deine Ex.
 

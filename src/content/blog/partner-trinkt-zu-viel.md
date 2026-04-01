@@ -129,7 +129,7 @@ Hilfreiche Ressourcen findest du bei Bundesministerium für Familie: [Bundesmini
 
 **Schritt 3: Mache klare Grenzen.** Wenn er nicht bereit ist, sich helfen zu lassen: Klar formulieren, was deine Grenzen sind. "Ich kann nicht mit jemandem zusammenleben der täglich trinkt." "Wenn es weitergeht, muss ich überlegen, wie das mit meiner Gesundheit vereinbar ist."
 
-**Schritt 4: Sei bereit für harte Entscheidungen.** Das ist das Schwierigste, aber auch das Wichtigste. Du kannst die Beziehung nicht retten wenn er nicht mitspielt. Manchmal ist Trennung der liebevollste Akt — sowohl für ihn als auch für dich. Es zwingt ihn, die Konsequenzen zu sehen. Und es rettet dich.
+**Schritt 4: Sei bereit für harte Entscheidungen.** Das ist das Schwierigste, aber auch das Wichtigste. Du kannst die Beziehung nicht retten wenn er nicht mitspielt. Manchmal ist [Trennung](/blog/trennung-verarbeiten-12-schritte) der liebevollste Akt — sowohl für ihn als auch für dich. Es zwingt ihn, die Konsequenzen zu sehen. Und es rettet dich.
 
 ## Wo du konkrete Hilfe findest
 

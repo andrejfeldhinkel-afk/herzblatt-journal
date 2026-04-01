@@ -121,7 +121,7 @@ Denke an deine letzten drei romantischen Beziehungen. Schreib auf:
 3. Wie hast du in jeder Beziehung verhältensmäßig reagiert?
 4. Was war deine Rolle in jeder Beziehung?
 5. Wie endete jede Beziehung?
-6. Wie fühltest du dich nach der Trennung?
+6. Wie fühltest du dich nach der [Trennung](/blog/trennung-verarbeiten-12-schritte)?
 
 Schau jetzt auf diese drei Beziehungen. Siehst du ein Pattern?
 

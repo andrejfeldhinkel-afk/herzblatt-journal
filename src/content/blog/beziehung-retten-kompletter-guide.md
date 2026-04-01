@@ -417,7 +417,7 @@ Sie gingen in Paartherapie. Das war hart. Drei Monate der Therapie waren schwier
 
 Heute, fünf Jahre später, sagen sie, dass ihre Beziehung stärker ist als je zuvor. Der Betrug war schrecklich. Aber es führte auch zu einer tieferen Verbindung.
 
-**Szenario 3: Wann Trennung die richtige Antwort war**
+**Szenario 3: Wann [Trennung](/blog/trennung-verarbeiten-12-schritte) die richtige Antwort war**
 
 Michael und Jennifer waren verheiratet, aber sie waren nicht glücklich. Jennifer wollte kämpfen. Michael wollte einfach nicht. Nach mehreren Versuchen merkten sie beide, dass sie fundamentalen nicht übereinstimmten. Jennifer wollte Kinder. Michael wollte das nicht.
 

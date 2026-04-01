@@ -256,7 +256,7 @@ Selbst-Einfühlsamkeit ist nicht wünschenswert für dich selbst. Sie ist vorber
 
 Es gibt Situationen, wo GFK nicht funktioniert. Wenn dein Partner nicht bereit ist, zu hören. Wenn die Beziehung zu beschädigt ist. Wenn es emotionale oder physische Missbrauch gibt.
 
-In diesen Situationen ist GFK nicht das Problem. Das Problem ist, dass die Beziehung Unterstützung braucht, die über Kommunikation hinausgeht. Das könnte Paartherapie sein. Das könnte Trennung sein.
+In diesen Situationen ist GFK nicht das Problem. Das Problem ist, dass die Beziehung Unterstützung braucht, die über Kommunikation hinausgeht. Das könnte Paartherapie sein. Das könnte [Trennung](/blog/trennung-verarbeiten-12-schritte) sein.
 
 GFK ist ein Werkzeug für Menschen, die Verbindung wollen. Es funktioniert nicht, wenn einer der Partner nicht interessiert ist in Verbindung.
 

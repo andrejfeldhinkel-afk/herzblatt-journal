@@ -211,7 +211,7 @@ Die beste Tageszeit ist Freitagabend oder Samstagabend ab 19:00 Uhr in den tradi
 
 ### Apps und Online-Dating in Weimar
 
-Tinder ist vorhanden, aber **Dating-Apps für "echte Beziehungen"** funktionieren deutlich besser hier (z.B. Hinge, OkCupid). Weimar zieht ernstzunehmende Menschen an, die echte Verbindung suchen.
+Tinder ist vorhanden, aber **Dating-Apps für "echte Beziehungen"** funktionieren deutlich besser hier (z.B. [Hinge](/blog/hinge-guide-deutsch-2026), OkCupid). Weimar zieht ernstzunehmende Menschen an, die echte Verbindung suchen.
 
 **Pro-Tipp**: Zeige in deinem Profil:
 - Kultur-Interessen und Museum-Liebe

@@ -62,7 +62,7 @@ Dann gibt es die Dinge, die nicht sofort offensichtlich sind, aber mit der Zeit 
 
 Dann gibt es die gelben Flaggen – die Dinge, die dich aufhorchen lassen sollten, die aber nicht automatisch bedeuten, dass du gehen solltest.
 
-**Ungelöste Themen mit der Ex** – Das ist häufig. Wenn die Trennung frisch ist, kann man nicht einfach über die andere Person hinwegkommen. Aber es sollte Bewegung geben. Es sollte Heilung geben. Es sollte eine Erkenntnis geben, dass die Beziehung vorbei ist und warum. Wenn er nur wütend ist und redet wie "Sie war das Problem", ohne irgendeinen Anteil zu nehmen, dann schau genauer hin.
+**Ungelöste Themen mit der Ex** – Das ist häufig. Wenn die [Trennung](/blog/trennung-verarbeiten-12-schritte) frisch ist, kann man nicht einfach über die andere Person hinwegkommen. Aber es sollte Bewegung geben. Es sollte Heilung geben. Es sollte eine Erkenntnis geben, dass die Beziehung vorbei ist und warum. Wenn er nur wütend ist und redet wie "Sie war das Problem", ohne irgendeinen Anteil zu nehmen, dann schau genauer hin.
 
 **Muster in Beziehungen** – Wenn sein Dating-Profil zeigt, dass er alle drei Monate mit jemandem zusammen und getrennt ist, dann könnte das ein Muster sein. Manche Menschen sammeln einfach Menschen. Das bedeutet nicht, dass er mit dir nicht anders sein wird, aber es ist eine Flagge zum Beobachten.
 

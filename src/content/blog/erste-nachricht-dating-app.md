@@ -102,7 +102,7 @@ Das funktioniert, weil:
 
 **Zu direkt sexuell:** "Hey sexy" ist ein No-Go. Es sein denn, ihr habt schon etabliert, dass das okay ist.
 
-**Zu viele Komplimente zu früh:** Ein Kompliment ist schön. Drei Komplimente in der ersten Nachricht wirkt unecht.
+**Zu viele [Komplimente](/blog/komplimente-fuer-maenner) zu früh:** Ein Kompliment ist schön. Drei Komplimente in der ersten Nachricht wirkt unecht.
 
 **Typos und fehlerhafte Grammatik:** Sei nicht obsessiv, aber Prüflesung ist wichtig. Menschen lesen Typos als Mangel an Aufmerksamkeit.
 

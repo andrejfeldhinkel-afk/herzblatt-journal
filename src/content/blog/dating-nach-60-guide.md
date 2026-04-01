@@ -72,7 +72,7 @@ Nachteil: Weniger Optionen als generische Apps.
 
 **Generische Apps**
 
-Tinder, Bumble, Hinge haben Filter nach Alter. Du kannst Menschen in deinem Alter gezielt suchen.
+Tinder, Bumble, [Hinge](/blog/hinge-guide-deutsch-2026) haben Filter nach Alter. Du kannst Menschen in deinem Alter gezielt suchen.
 
 **In der echten Welt**
 

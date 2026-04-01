@@ -32,7 +32,7 @@ Dieser Artikel geht tief. Wir schauen uns an woher Verlustangst kommt, wie sie s
 
 Verlustangst ist mehr als normale Sorge. Jeder Mensch hat ab und zu die Angst, einen geliebten Menschen zu verlieren. Das ist natuerlich und gesund. Verlustangst wird zum Problem, wenn sie Dein Denken dominiert, Dein Verhalten steuert und Deine Lebensqualitaet einschraenkt.
 
-Menschen mit Verlustangst leben in einem Zustand permanenter Alarmbereitschaft. Sie scannen staendig nach Zeichen, dass der Partner sich entfernt. Eine kurze Nachricht wird als Desinteresse interpretiert. Ein Abend ohne Kontakt als Beginn des Endes. Ein Streit als Vorbote der Trennung.
+Menschen mit Verlustangst leben in einem Zustand permanenter Alarmbereitschaft. Sie scannen staendig nach Zeichen, dass der Partner sich entfernt. Eine kurze Nachricht wird als Desinteresse interpretiert. Ein Abend ohne Kontakt als Beginn des Endes. Ein Streit als Vorbote der [Trennung](/blog/trennung-verarbeiten-12-schritte).
 
 ### Der Unterschied zwischen normaler Sorge und Verlustangst
 

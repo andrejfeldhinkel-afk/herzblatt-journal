@@ -86,7 +86,7 @@ Ein Kind in dieser Position lernt früh, dass:
 
 Diese Glaubenssätze bleiben tief strukturiert, wenn die Person Erwachsenheit eintritt. Sie suchen automatisch nach Situationen, in denen sie diese Muster wiederholen können. Es fühlt sich wie Liebe an, weil es sich vertraut anfühlt.
 
-Beispiel: Katharina war zehn, als ihre Mutter nach ihrer Trennung von Katharinas Vater bei Katharina kam und weinte. Katharina tröstete ihre Mutter, hörte ihr zu, spielte die emotionale Unterstützerin. Katharina lernte, dass ihre Aufgabe war, ihre Mutter zu helfen, glücklich zu sein, ihre Mutter zu unterstützen. Sie war zu jung dafür, aber das war ihre Rolle. Als Katharina Erwachsene war, wählte sie ständig Partner, die emotionale Unterstützung brauchten. Sie war süchtig nach dem Gefühl, gebraucht zu werden, weil das sich wie Liebe anfühlte.
+Beispiel: Katharina war zehn, als ihre Mutter nach ihrer [Trennung](/blog/trennung-verarbeiten-12-schritte) von Katharinas Vater bei Katharina kam und weinte. Katharina tröstete ihre Mutter, hörte ihr zu, spielte die emotionale Unterstützerin. Katharina lernte, dass ihre Aufgabe war, ihre Mutter zu helfen, glücklich zu sein, ihre Mutter zu unterstützen. Sie war zu jung dafür, aber das war ihre Rolle. Als Katharina Erwachsene war, wählte sie ständig Partner, die emotionale Unterstützung brauchten. Sie war süchtig nach dem Gefühl, gebraucht zu werden, weil das sich wie Liebe anfühlte.
 
 ### Eltern, bei denen Liebe bedingungslos war
 

@@ -788,7 +788,7 @@ Der Extrovertierte sagt: "Du hast dich geändert. Du warst nicht immer so."
 
 Das ist wahr. Aber der Introvertierte hat sich nicht geändert — sie ist exhausted.
 
-Das endet oft in Trennung.
+Das endet oft in [Trennung](/blog/trennung-verarbeiten-12-schritte).
 
 **Szenario 2: Der Extrovertierte wird progressiv unterstimulated**
 

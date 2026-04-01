@@ -33,7 +33,7 @@ Aber - und das ist der wichtige Teil - es gibt auch Dinge, die du kontrollieren 
 
 Bevor wir tief einsteigen, lass mich dir einige Zahlen geben, die dir helfen, das Ganze in Perspektive zu setzen.
 
-**Match-to-Conversation-Rate:** Wie gesagt, etwa 30% der Matches führen zu einer tatsächlichen Konversation (mehr als zwei Nachrichten pro Person). Das variiert je nach App - Tinder hat eine niedrigere Rate, Bumble und Hinge haben etwas höhere Raten.
+**Match-to-Conversation-Rate:** Wie gesagt, etwa 30% der Matches führen zu einer tatsächlichen Konversation (mehr als zwei Nachrichten pro Person). Das variiert je nach App - Tinder hat eine niedrigere Rate, Bumble und [Hinge](/blog/hinge-guide-deutsch-2026) haben etwas höhere Raten.
 
 **First Message Response Rate:** Wenn du die erste Nachricht schreibst, liegt die Response-Rate bei etwa 30-40%, je nach dem, wie gut die Nachricht ist. Das ist nicht fantastisch, aber es ist auch nicht hoffnungslos.
 

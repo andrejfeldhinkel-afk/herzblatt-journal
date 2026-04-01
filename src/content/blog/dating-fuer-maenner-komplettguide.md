@@ -323,7 +323,7 @@ Café, Buch-Club, Supermarkt (naja, eher nicht). Der Weg ist: Kurzes, echtes Ges
 - Sie unterbrechen, wenn sie mit anderen redet
 - Zu intensiv/aufdringlich werden
 - Deine ganze Lebensgeschichte erzählen
-- Sexuelle Kommentare oder Komplimente zu ihrem Körper
+- Sexuelle Kommentare oder [Komplimente](/blog/komplimente-fuer-maenner) zu ihrem Körper
 
 **Was du TUN solltest**:
 - Ein authentisches, kurzes Gespräch führen

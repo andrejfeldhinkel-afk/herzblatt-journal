@@ -123,7 +123,7 @@ Wenn ihr nicht bereit seid, Paartherapie zu machen, dann seid ihr wahrscheinlich
 
 Hier ist die harte Wahrheit: Alte Muster sind sehr mächtig. Dein Gehirn hat Gewohnheitspfade aufgebaut – bestimmte Anlässe lösen bestimmte Reaktionen aus. Wenn ein Partner frustriert wirkt, gerätst du in einen Defensivmodus. Wenn der andere Partner eine Kritik bringt, erhältst du sofort eine Gegenattacke. Das ist Neuroplastizität – die Art, wie dein Gehirn gelernt hat, in dieser Beziehung zu funktionieren.
 
-Während einer Trennung, wenn der andere Partner nicht mehr da ist, verlieren diese Muster an Kraft. Aber wenn ihr wieder zusammenkommt, aktivieren sich diese Muster wieder – wie alte Rückkehr auf vertraute Pfade.
+Während einer [Trennung](/blog/trennung-verarbeiten-12-schritte), wenn der andere Partner nicht mehr da ist, verlieren diese Muster an Kraft. Aber wenn ihr wieder zusammenkommt, aktivieren sich diese Muster wieder – wie alte Rückkehr auf vertraute Pfade.
 
 Diese Muster zu durchbrechen ist schwer, aber es ist nicht unmöglich. Es erfordert Bewusstsein, Absicht und viel Wiederholung.
 

@@ -84,7 +84,7 @@ Wenn dein Partner dich morgen bitten würde, eine große Veränderung zu machen,
 
 Wenn du ihn nicht kennen würdest und ihn heute treffen würdest, würde dir an ihm gefallen? Würdest du ihn romantisch interessieren? Diese Frage entfernt die Gewohnheit aus der Gleichung.
 
-Wie oft denkst du über Trennung nach? Wenn diese Gedanken regelmäßig auftauchen, ist das ein starkes Zeichen dafür, dass etwas nicht stimmt.
+Wie oft denkst du über [Trennung](/blog/trennung-verarbeiten-12-schritte) nach? Wenn diese Gedanken regelmäßig auftauchen, ist das ein starkes Zeichen dafür, dass etwas nicht stimmt.
 
 Siehst du ihn, wenn er dich anschaut? Oder siehst du nur ein vertrautes Gesicht, das du nicht mehr wirklich kennst?
 

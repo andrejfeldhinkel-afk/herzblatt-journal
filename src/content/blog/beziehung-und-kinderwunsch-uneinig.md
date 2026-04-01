@@ -174,7 +174,7 @@ Das kann auch bedeuten, dass der Partner, der Kinder wollte, beschließt, diesen
 
 Der Unterschied ist: Dieser Mensch akzeptiert, nicht verzichtet.
 
-### Szenario 3: Die Trennung
+### Szenario 3: Die [Trennung](/blog/trennung-verarbeiten-12-schritte)
 
 Manchmal ist das die humanste Lösung. Zwei Menschen, die sich sonst lieben, aber in dieser fundamentalen Frage nicht übereinstimmen.
 

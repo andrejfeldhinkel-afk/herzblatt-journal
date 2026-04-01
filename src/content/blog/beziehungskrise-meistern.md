@@ -26,7 +26,7 @@ Es ist, wenn:
 - Das tägliche Leben hat sich dramatisch geändert
 - Ein wichtiges Problem wird nicht gelöst und wird größer
 - Die emotionale Verbindung hat sich stark verschlechtert
-- Ein oder beide Partner betrachten Trennung als echte Option
+- Ein oder beide Partner betrachten [Trennung](/blog/trennung-verarbeiten-12-schritte) als echte Option
 
 Das kann Wochen, Monate oder sogar ein Jahr dauern. Es ist nicht eine schnelle Sache.
 

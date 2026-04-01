@@ -24,7 +24,7 @@ draft: false
 
 Es gibt einen Moment im Leben, den viele nie erwartet haben. Du sitzt deinem Partner gegenüber, und du weißt mit absoluter Sicherheit, dass du ihn oder sie liebst. Das Gefühl ist da. Es ist echt. Es ist stark. Aber du weißt auch mit absoluter Sicherheit, dass diese Beziehung nicht funktioniert. Diese zwei Erkenntnisse kollidieren in dir und erzeugen eine emotionale Krise.
 
-Das ist die trennung trotz liebe – eine der schmerzhaftesten Entscheidungen, die ein Mensch treffen kann. Es ist nicht wie eine Trennung, bei der du wütend bist oder dich betrogen fühlst. Es ist nicht wie eine Trennung, bei der deine Gefühle abgekühlt sind. Es ist eine rationale Entscheidung, die dein Herz zerbricht, weil dein Verstand recht hat.
+Das ist die trennung trotz liebe – eine der schmerzhaftesten Entscheidungen, die ein Mensch treffen kann. Es ist nicht wie eine [Trennung](/blog/trennung-verarbeiten-12-schritte), bei der du wütend bist oder dich betrogen fühlst. Es ist nicht wie eine Trennung, bei der deine Gefühle abgekühlt sind. Es ist eine rationale Entscheidung, die dein Herz zerbricht, weil dein Verstand recht hat.
 
 Viele Menschen verstehen diese Art von Trennung nicht. Sie sagen dir: „Wenn ihr euch liebt, dann macht es doch!" Aber sie verstehen nicht, dass Liebe nur ein Teil einer Beziehung ist. Und manchmal ist es nicht der wichtigste Teil.
 

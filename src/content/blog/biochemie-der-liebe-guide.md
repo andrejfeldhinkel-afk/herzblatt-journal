@@ -262,7 +262,7 @@ Emotionale Intimität kann auch neue Dopamin-Spikes auslösen, wenn du das Gefü
 
 ### 4. Kampf und Versöhnung
 
-Es mag kontraintuiv klingen, aber Konflikt gefolgt von Versöhnung kann tatsächlich Dopamin und andere Neuro-Hormone auslösen. Das Adrenalin des Kampfes, das Leid der Trennung, und dann das Überfluss-Dopamin der Versöhnung — dies ist ein biologisches Cycle, das in manchen Paaren die frühere Leidenschaft aufrechterhält.
+Es mag kontraintuiv klingen, aber Konflikt gefolgt von Versöhnung kann tatsächlich Dopamin und andere Neuro-Hormone auslösen. Das Adrenalin des Kampfes, das Leid der [Trennung](/blog/trennung-verarbeiten-12-schritte), und dann das Überfluss-Dopamin der Versöhnung — dies ist ein biologisches Cycle, das in manchen Paaren die frühere Leidenschaft aufrechterhält.
 
 Das ist nicht unbedingt gesund, aber es erklärt, warum manche Paare, die viel kämpfen, auch eine sehr intensive Anziehung beibehalten. Die biologische Achterbahn hält sie in einem höheren Dopamin-Zustand.
 

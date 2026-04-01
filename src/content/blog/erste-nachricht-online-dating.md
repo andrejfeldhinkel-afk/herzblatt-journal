@@ -152,7 +152,7 @@ Manchmal ist einfach direkt und ehrlich am besten.
 
 ## Häufige Fehler beim Schreiben erster Nachrichten
 
-**Fehler 1: Zu viele Komplimente zu Aussehen**
+**Fehler 1: Zu viele [Komplimente](/blog/komplimente-fuer-maenner) zu Aussehen**
 Der Fehler: "Du bist wunderschön! Deine Augen sind unglaublich! Du hast die beste Figur!"
 
 Hilfreiche Ressourcen findest du bei Bundesamt für Sicherheit in der Informationstechnik: [Bundesamt für Sicherheit in der Informationstechnik](https://www.bsi.bund.de/)

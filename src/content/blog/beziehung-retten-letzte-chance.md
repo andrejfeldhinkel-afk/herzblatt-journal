@@ -45,7 +45,7 @@ John Gottman, einer der führenden Paartherapeuten, hat Jahrzehnte damit verbrac
 
 Beispiel: Statt "Es nervt mich, wenn die Küche nach deiner Arbeit so unaufgeräumt ist" sagst du "Du bist ein Ferkelbursche und total unhygienisch." Der zweite Weg verstärkt Kritik — auch wenn sie aus Frustration kommt.
 
-**Der zweite Reiter: Verachtung.** Das ist noch schlimmer als Kritik. Verachtung ist der Versuch, deinen Partner klein zu machen. Ein augenrollen, ein "Dafür bist du einfach zu dumm", ein Sarkasmus, der auf Kosten des anderen geht. Verachtung ist der größte Prädiktor für eine Trennung. Wenn dieser Reiter reitet, sind wir in echtem Trouble.
+**Der zweite Reiter: Verachtung.** Das ist noch schlimmer als Kritik. Verachtung ist der Versuch, deinen Partner klein zu machen. Ein augenrollen, ein "Dafür bist du einfach zu dumm", ein Sarkasmus, der auf Kosten des anderen geht. Verachtung ist der größte Prädiktor für eine [Trennung](/blog/trennung-verarbeiten-12-schritte). Wenn dieser Reiter reitet, sind wir in echtem Trouble.
 
 Beispiel: Wenn du fragst "Brauchst du schon wieder Hilfe bei der Steuererklärung?" mit diesem bestimmten Ton — als wäre dein Partner ein Kind. Das schadet mehr als zehn sachliche Kritiken würden.
 

@@ -40,7 +40,7 @@ Ghosting hinterlässt tiefe, unsichtbare Spuren. Beim nächsten Match denkst du 
 
 Das ist das heimtückische an Ghosting — es programmiert dein Gehirn um. Es trainiert dich, anderen nicht zu trauen. Und wenn du anderen nicht traust, kannst du keine echten Beziehungen aufbauen.
 
-Das ist, warum Ghosting schlecht ist — nicht nur für die Person, die geghostet wird, sondern für alle zukünftigen Partner dieser Person auch.
+Das ist, warum Ghosting schlecht ist — nicht nur für die Person, die [geghostet](/blog/ghosting-ueberwinden) wird, sondern für alle zukünftigen Partner dieser Person auch.
 
 ## Warum es nicht an dir liegt — Das erste, was du wissen musst
 

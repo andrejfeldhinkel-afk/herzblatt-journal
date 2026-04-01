@@ -74,7 +74,7 @@ Die **Mathildenhöhe-Ausstellungen** sind innovative Kunstpräsentationen. Sehr 
 
 Darmstadt ist jung. Die Technische Universität macht die Stadt zu einem Treffpunkt für ehrgeizige, innovative Menschen.
 
-**Tinder**, **Bumble** und **Hinge** sind alle präsent. **Tinder** ist für casual Dating beliebt, **Hinge** für ernsthaftere Beziehungen.
+**Tinder**, **Bumble** und **[Hinge](/blog/hinge-guide-deutsch-2026)** sind alle präsent. **Tinder** ist für casual Dating beliebt, **Hinge** für ernsthaftere Beziehungen.
 
 Die Stadt hat eine sehr offene, liberale Atmosphäre. Unterschiedliche Dating-Stile sind willkommen.
 

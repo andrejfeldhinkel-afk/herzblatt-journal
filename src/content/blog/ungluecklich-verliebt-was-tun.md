@@ -163,7 +163,7 @@ Wenn du mehr über gesunde Beziehungsmuster erfahren möchtest, lese auch unsere
 **Vergiss nicht: Du darfst Hilfe annehmen. Du darfst um Unterstützung bitten. Und du wirst wieder glücklich werden.**
 ## Weiterlesen
 
-- [Herzschmerz nutzen: Aus Trennung wirklich wachsen](/blog/heartbreak-als-wachstumschance/)
+- [Herzschmerz nutzen: Aus [Trennung](/blog/trennung-verarbeiten-12-schritte) wirklich wachsen](/blog/heartbreak-als-wachstumschance/)
 - [Liebeskummer überwinden: 15 Soforthilfen](/blog/liebeskummer-schnell-ueberwinden/)
 - [Liebeskummer überwinden: Der Weg zur Heilung](/blog/liebeskummer-ueberwinden/)
 - [Beziehung langweilig? 20 Dinge die helfen](/blog/beziehung-langweilig-was-tun/)

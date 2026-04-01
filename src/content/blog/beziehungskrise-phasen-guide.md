@@ -17,7 +17,7 @@ faq:
 draft: false
 ---
 
-Eine Beziehungskrise ist wie ein Sturm. Plötzlich wird es dunkel, stürmisch und unübersichtlich. Viele Paare glauben, dass eine Krise das Ende bedeutet. Aber das ist falsch. Eine Krise ist ein Wendepunkt — sie kann zu Trennung führen, aber auch zu einer tieferen, ehrlicheren Beziehung.
+Eine Beziehungskrise ist wie ein Sturm. Plötzlich wird es dunkel, stürmisch und unübersichtlich. Viele Paare glauben, dass eine Krise das Ende bedeutet. Aber das ist falsch. Eine Krise ist ein Wendepunkt — sie kann zu [Trennung](/blog/trennung-verarbeiten-12-schritte) führen, aber auch zu einer tieferen, ehrlicheren Beziehung.
 
 Der Schlüssel ist, die Phasen zu verstehen, durch die ihr geht. Wenn du weißt, in welcher Phase du bist, kannst du entsprechend handeln. Diese Anleitung zeigt dir die fünf Phasen einer Beziehungskrise und wie du jede bewältigst.
 

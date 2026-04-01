@@ -112,7 +112,7 @@ Andere Paare entscheiden, zu bleiben und zu arbeiten. Das ist auch okay. Und wen
 
 **Was wichtig ist in dieser Phase:**
 
-Macht die Entscheidung bewusst. Nicht „wir driften einfach weiter zusammen, weil Trennung zu kompliziert ist." Das wird zu Jahren der Unglücklichkeit führen.
+Macht die Entscheidung bewusst. Nicht „wir driften einfach weiter zusammen, weil [Trennung](/blog/trennung-verarbeiten-12-schritte) zu kompliziert ist." Das wird zu Jahren der Unglücklichkeit führen.
 
 Wenn ihr bleibt und arbeitet – dann arbeitet auch. Das bedeutet Paartherapie. Das bedeutet echte Gespräche. Das bedeutet Bereitschaft zu ändern.
 

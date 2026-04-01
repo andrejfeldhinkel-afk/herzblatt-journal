@@ -39,7 +39,7 @@ Das Gegenteil ist auch wahr: Wenn du viele Menschen likest, die dich nicht zurü
 
 **Bumble** nutzt einen etwas anderen Ansatz. Weil Frauen hier die erste Nachricht schreiben, wird der Algorithmus danach gewichtet, wem Profile gezeigt werden, die auch wahrscheinlich aktiv werden. Frauen, die regelmäßig schreiben, sehen mehr aktive Profile.
 
-**Hinge** bewirbt sich als "App für Dating, nicht zum Swipen" und nutzt deshalb ein komplett anderes System. Statt nur auf Fotos zu wischen, berücksichtigt Hinge auch deine Antworten auf Prompts, deine Interaktionen (Likes auf Profilteile) und deine Aktivität. Der Algorithmus bevorzugt Nutzer, die tatsächlich miteinander kommunizieren.
+**[Hinge](/blog/hinge-guide-deutsch-2026)** bewirbt sich als "App für Dating, nicht zum Swipen" und nutzt deshalb ein komplett anderes System. Statt nur auf Fotos zu wischen, berücksichtigt Hinge auch deine Antworten auf Prompts, deine Interaktionen (Likes auf Profilteile) und deine Aktivität. Der Algorithmus bevorzugt Nutzer, die tatsächlich miteinander kommunizieren.
 
 ## Der Swipe-Verhalten und dein digitaler Ruf
 

@@ -92,7 +92,7 @@ Das ist tückisch, weil es sich nicht immer wie ein bewusstes Spiel anfühlt. Ma
 
 **Warum Menschen das spielen:** Bindungsangst gepaart mit Egoismus. Die Person will die Sicherheit einer emotionalen Verbindung zu dir, ohne sich entscheiden zu müssen. Sie will dein Vertrauen. Deine Aufmerksamkeit. Deine Gefühle. Aber sie gibt nicht das gleiche zurück.
 
-### 4. Love Bombing — überwältigende Intensität
+### 4. [Love Bombing](/blog/love-bombing-erkennen-schuetzen) — überwältigende Intensität
 
 Love Bombing ist, wenn jemand dich geradezu überschüttet mit Aufmerksamkeit, Zärtlichkeit und Zuneigung — innerhalb von kurzer Zeit. Es ist nicht nur "er mag mich". Es ist "er ist verrückt nach mir innerhalb von zwei Wochen".
 
@@ -136,7 +136,7 @@ Orbiting ist eine Form von Kontrollsucht. Es ist auch eine Form von Egoismus. Di
 
 Cushioning ist ähnlich wie Benching, aber mit einem Unterschied. Beim Benching hältst du eine Person auf der Bank bereit, während du mit jemandem zusammen bist. Beim Cushioning hältst du mehrere Personen auf "Warm", für den Fall, dass deine aktuelle Beziehung nicht funktioniert.
 
-Das sieht so aus: Er ist mit jemandem zusammen. Aber er schreibt dir auch noch. Er macht dir Komplimente. Er sagt dir, wie wichtig du ihm bist. Er plants "irgendwann" Zeit mit dir. Gleichzeitig schreibt er auch noch dieser anderen Frau. Und dieser dritten auch.
+Das sieht so aus: Er ist mit jemandem zusammen. Aber er schreibt dir auch noch. Er macht dir [Komplimente](/blog/komplimente-fuer-maenner). Er sagt dir, wie wichtig du ihm bist. Er plants "irgendwann" Zeit mit dir. Gleichzeitig schreibt er auch noch dieser anderen Frau. Und dieser dritten auch.
 
 Du merkst nicht, dass du ein Kissen bist — einer von vielen. Du denkst, dass ihr etwas Spezielles habt. Aber du bist wirklich nur eine Option unter vielen.
 
@@ -540,7 +540,7 @@ Wenn es ein Muster über mehrere Beziehungen ist, dann ist es ein Charakter-Prob
 
 Wenn es nur mit dir ist, könnte es sein, dass die Chemie nicht richtig ist. Oder dass diese Person in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett) ist, aber ihre Bindungsangst in dieser speziellen Dynamik ausgelöst wird.
 
-Der Punkt ist: Manche Spielche sind Fenster in ernsthaft toxic Patrone. Love Bombing, Roaching, systematisches Gaslighting — das sind nicht "er ist unsicher", das ist "er ist potenziell ein Missbraucher".
+Der Punkt ist: Manche Spielche sind Fenster in ernsthaft toxic Patrone. Love Bombing, Roaching, systematisches [Gaslighting](/blog/gaslighting-komplett-guide) — das sind nicht "er ist unsicher", das ist "er ist potenziell ein Missbraucher".
 
 Wenn du die Spielche bemerkst, die gelb sind (Hot-and-Cold, Breadcrumbing), gibt es noch Hoffnung auf Veränderung. Aber wenn die Spielche rot sind (systematische Lügen, Betrug, Isolation), ist es Zeit zu gehen.
 

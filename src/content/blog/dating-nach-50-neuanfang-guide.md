@@ -24,7 +24,7 @@ faq:
 
 # Dating über 50: Der komplette Guide für einen erfolgreichen Neuanfang
 
-Die Vorstellung, mit über 50 Jahren wieder in die Dating-Welt einzusteigen, kann überwältigend wirken. Vielleicht bist du nach einer Trennung, einer Scheidung oder weil du endlich Zeit für dich selbst hattest. Egal welche Umstände dich hier führen — dieser Guide zeigt dir konkret, wie du das Dating nach 50 meistern wirst.
+Die Vorstellung, mit über 50 Jahren wieder in die Dating-Welt einzusteigen, kann überwältigend wirken. Vielleicht bist du nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte), einer Scheidung oder weil du endlich Zeit für dich selbst hattest. Egal welche Umstände dich hier führen — dieser Guide zeigt dir konkret, wie du das Dating nach 50 meistern wirst.
 
 Die gute Nachricht vorweg: Du startest mit enormen Vorteilen. Du kennst dich selbst besser, weißt, was dir wichtig ist, und hast gelernt, was du in einer Beziehung brauchst und was nicht. Das ist Gold wert.
 

@@ -105,7 +105,7 @@ Das hängt davon ab:
 **Sprechen Sie, wenn**:
 - Sie möchten eine klare Klärung
 - Du glaubst, dass sie nicht bekommen, wie invasiv es ist
-- Sie hatten eine gute Trennung und es war nur eine Sache, die schiefging
+- Sie hatten eine gute [Trennung](/blog/trennung-verarbeiten-12-schritte) und es war nur eine Sache, die schiefging
 
 **Nicht sprechen, wenn**:
 - Die Trennung hässlich war

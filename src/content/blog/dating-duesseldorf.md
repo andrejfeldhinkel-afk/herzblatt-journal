@@ -73,7 +73,7 @@ Das zeigt, dass Düsseldorf nicht nur traditionell ist.
 
 ### Dating-Apps
 
-[bumble](/blog/beste-dating-apps-2026/) und Hinge: Der Standard für Düsseldorf.
+[bumble](/blog/beste-dating-apps-2026/) und [Hinge](/blog/hinge-guide-deutsch-2026): Der Standard für Düsseldorf.
 
 In Deinem Profil: „Ich liebe die Altstadt und lange Spaziergänge am Rhein." Das zieht Menschen an, die deine Werte teilen.
 

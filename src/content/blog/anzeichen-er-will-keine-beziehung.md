@@ -349,7 +349,7 @@ const signals = [
     text: "Er gibt dich nicht so schnell auf bei Konflikten",
     green: "Er kämpft für die Beziehung. Das ist ein großartiges Zeichen.",
     yellow: "Er argumentiert, aber gibt dann schnell auf.",
-    red: "Er bedroht dich mit einer Trennung oder weigert sich zu kämpfen."
+    red: "Er bedroht dich mit einer [Trennung](/blog/trennung-verarbeiten-12-schritte) oder weigert sich zu kämpfen."
   },
   {
     text: "Er respektiert deine Grenzen und Bedürfnisse",

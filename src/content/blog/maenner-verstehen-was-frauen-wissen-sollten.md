@@ -204,7 +204,7 @@ Raum bedeutet:
 - Nicht versuchen, ihn zu "beheben"
 - Nur sein
 
-Raum ist nicht Trennung. Raum ist Liebe in dieser Moment.
+Raum ist nicht [Trennung](/blog/trennung-verarbeiten-12-schritte). Raum ist Liebe in dieser Moment.
 
 Wenn du ihn dringst, wenn er Raum braucht, wird er sich nur noch weiter zurückziehen.
 

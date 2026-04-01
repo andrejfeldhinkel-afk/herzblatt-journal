@@ -91,7 +91,7 @@ Mehr zum Thema erfährst du auf Bundesministerium für Familie: [Bundesministeri
 
 ## Was sagen Psychologen?
 
-Forschung schlägt vor, dass Beziehungen mit größeren Altersunterschieden eine höhere Wahrscheinlichkeit der Trennung haben. Das heißt aber nicht, dass sie nicht funktionieren – es bedeutet, dass sie erfordern mehr Absichtlichkeit und Kommunikation.
+Forschung schlägt vor, dass Beziehungen mit größeren Altersunterschieden eine höhere Wahrscheinlichkeit der [Trennung](/blog/trennung-verarbeiten-12-schritte) haben. Das heißt aber nicht, dass sie nicht funktionieren – es bedeutet, dass sie erfordern mehr Absichtlichkeit und Kommunikation.
 
 ## Die Kontrollfrage
 

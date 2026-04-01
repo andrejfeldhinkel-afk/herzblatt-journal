@@ -14,7 +14,7 @@ imageAlt: "Frau schaut nachdenklich aus dem Fenster und bereut ihre Trennung"
 
 ## Trennung bereuen: 7 sichere Anzeichen, dass es vielleicht ein Fehler war
 
-Du sitzt auf der Couch, schaust dein Handy an und fragst dich zum hundertsten Mal, ob du gerade das Beste aus deinem Leben weggeworfen hast. Die Trennung lag erst ein paar Wochen zurück – oder vielleicht sind es Monate – und jetzt schleicht sich immer öfter dieser Gedanke ein: "Habe ich einen riesigen Fehler gemacht?" Diese innere Unruhe, diese Sehnsucht nach deinem Ex, diese nagende Frage – das ist genau das Gefühl, über das ich heute mit dir sprechen möchte.
+Du sitzt auf der Couch, schaust dein Handy an und fragst dich zum hundertsten Mal, ob du gerade das Beste aus deinem Leben weggeworfen hast. Die [Trennung](/blog/trennung-verarbeiten-12-schritte) lag erst ein paar Wochen zurück – oder vielleicht sind es Monate – und jetzt schleicht sich immer öfter dieser Gedanke ein: "Habe ich einen riesigen Fehler gemacht?" Diese innere Unruhe, diese Sehnsucht nach deinem Ex, diese nagende Frage – das ist genau das Gefühl, über das ich heute mit dir sprechen möchte.
 
 **Trennung bereuen ist weit verbreitet**, und es ist vollkommen normal, sich danach zu sehnen, was einmal war. Aber es gibt einen großen Unterschied zwischen kurzfristigen Trennungsschmerzen und echtem Bedauern, das dir sagt, dass du eine falsche Entscheidung getroffen hast. In diesem Artikel zeige ich dir, wie du erkennst, ob deine Gefühle tatsächlich bedeuten, dass die Trennung rückgängig gemacht werden sollte – oder ob es nur die Trauer um das Alte ist.
 

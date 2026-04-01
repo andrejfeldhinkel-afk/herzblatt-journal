@@ -36,7 +36,7 @@ In den ersten 24 Stunden könnte es verlockend sein, sofort zu agieren. Eine Sch
 
 ## Das Gespräch – Das erste ehrliche Reden
 
-Nach 24-48 Stunden, wenn der akuteste Schmerz nachgelassen hat, muss das Gespräch kommen. Das ist keine optionale Diskussion. Das ist der erste Schritt zur Heilung oder zur Trennung.
+Nach 24-48 Stunden, wenn der akuteste Schmerz nachgelassen hat, muss das Gespräch kommen. Das ist keine optionale Diskussion. Das ist der erste Schritt zur Heilung oder zur [Trennung](/blog/trennung-verarbeiten-12-schritte).
 
 **Das musst du wissen:**
 

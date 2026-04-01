@@ -70,7 +70,7 @@ Teile mit deinem Partner, warum dir deine Freundschaften so wichtig sind, ohne d
 
 ## Gemeinsame Freunde: Ein Segen und eine Herausforderung
 
-Gemeinsame Freunde können eine großartige Ressource sein, aber auch eine Quelle von Komplikationen. Wenn du und dein Partner viele gemeinsame Freunde habt, wird es einfacher, Zeit miteinander zu verbringen und trotzdem deine sozialen Bedürfnisse zu erfüllen. Allerdings kann eine Trennung komplizierter werden, wenn sich alle Freunde "Seiten" aussuchen müssen. Aus diesem Grund ist es wichtig, auch individuelle Freundschaften zu pflegen, die nur dir gehören.
+Gemeinsame Freunde können eine großartige Ressource sein, aber auch eine Quelle von Komplikationen. Wenn du und dein Partner viele gemeinsame Freunde habt, wird es einfacher, Zeit miteinander zu verbringen und trotzdem deine sozialen Bedürfnisse zu erfüllen. Allerdings kann eine [Trennung](/blog/trennung-verarbeiten-12-schritte) komplizierter werden, wenn sich alle Freunde "Seiten" aussuchen müssen. Aus diesem Grund ist es wichtig, auch individuelle Freundschaften zu pflegen, die nur dir gehören.
 
 Versuche, ein gesundes Gleichgewicht zu halten. Habt einige gemeinsame Freunde, bei denen ihr beide eine gute Zeit haben könnt, aber bewahre auch deine eigenen Freunde, die dir persönlich nahestehen. Dies ermöglicht dir, deine Unabhängigkeit zu bewahren und verschiedene Seiten deiner Persönlichkeit auszudrücken. Mit deinem Partner über "seine" Freunde zu sprechen ist völlig normal und sollte kein Grund für Unbehagen sein.
 

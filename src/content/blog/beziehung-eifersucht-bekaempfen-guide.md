@@ -264,7 +264,7 @@ Kontrollierende Verhaltensweisen:
 
 Diese sind emotionaler Missbrauch. Es ist nicht "Eifersucht zu überwinden." Es ist "ein Missbrauchsmuster zu brechen."
 
-Das braucht professionelle Hilfe und möglicherweise auch Trennung.
+Das braucht professionelle Hilfe und möglicherweise auch [Trennung](/blog/trennung-verarbeiten-12-schritte).
 
 ## Teil 10: Der Heilungspfad - Es wird besser
 

@@ -185,7 +185,7 @@ Die Überreaktion ist, um dich ängstlich und Kontrolle-süchtig zu machen, so d
 
 "Das ist ein schönes Kleid, auch wenn es dir nicht besonders gut passt."
 
-Diese sind Komplimente mit eingebauten Beleidigungen. Sie hinterlassen dich verwerrend. Waren das Komplimente oder Angriffe?
+Diese sind [Komplimente](/blog/komplimente-fuer-maenner) mit eingebauten Beleidigungen. Sie hinterlassen dich verwerrend. Waren das Komplimente oder Angriffe?
 
 **12. Passive-Aggressive Verhalten**
 

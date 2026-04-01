@@ -23,7 +23,7 @@ Okay, lass mich direkt sein: Diese Artikel wird dir nicht sagen, dass du „spie
 
 Das hier wird dir die echte Wahrheit sagen: Manchmal funktioniert es, einen Ex zurückzugewinnen, manchmal nicht. Und ob es funktioniert, hängt nicht von dir ab – es hängt davon ab, ob ihr beide bereit seid, echte Arbeit zu leisten.
 
-Wenn du hier bist, dann wahrscheinlich schmerz. Die Trennung war schwer. Du möchtest diese Person zurück. Und dein Gehirn ist in einem Nebel von Sehnsucht und „Was-wenn".
+Wenn du hier bist, dann wahrscheinlich schmerz. Die [Trennung](/blog/trennung-verarbeiten-12-schritte) war schwer. Du möchtest diese Person zurück. Und dein Gehirn ist in einem Nebel von Sehnsucht und „Was-wenn".
 
 Das ist der Grund, warum dieser Artikel so wichtig ist. Weil Sehnen dich zu dummen Entscheidungen führt. Es führt dich dazu, dich selbst zu beschämen, zu betteln, oder emotional manipulativ zu sein. Und all das schadet deinen Chancen, nicht hilft.
 

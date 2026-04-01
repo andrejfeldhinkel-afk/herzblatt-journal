@@ -76,7 +76,7 @@ Das **Theater Winterthur** hat hochwertige Aufführungen. Klassisches Theater-Da
 
 Winterthur hat eine entspannte, authentische Dating-Szene. Die Stadt ist größer als ein Dorf, aber persönlicher als Zürich – ideal für echte Begegnungen.
 
-**Tinder** und **Bumble** sind üblich. **Hinge** ist beliebt unter ernsthaft suchenden Singles.
+**Tinder** und **Bumble** sind üblich. **[Hinge](/blog/hinge-guide-deutsch-2026)** ist beliebt unter ernsthaft suchenden Singles.
 
 Die Nähe zu Zürich bedeutet mehr Dating-Optionen. Viele Singles pendeln zwischen den beiden Städten.
 

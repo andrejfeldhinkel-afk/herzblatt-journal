@@ -41,7 +41,7 @@ Und wenn dein Partner sieht, dass du angespannt, laut oder defensiv wirst, passi
 
 ## Gottman's 4 Horsemen: Die Warnsignale der Eskalation
 
-Der Paartherapeut John Gottman hat jahrzehntelang Paare in seinen Laboren erforscht und herausgefunden, dass bestimmte Kommunikationsmuster mit großer Genauigkeit vorhersagen, ob eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) sich in Richtung Trennung entwickelt. Er nennt sie die „4 Horsemen der Apokalypse".
+Der Paartherapeut John Gottman hat jahrzehntelang Paare in seinen Laboren erforscht und herausgefunden, dass bestimmte Kommunikationsmuster mit großer Genauigkeit vorhersagen, ob eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) sich in Richtung [Trennung](/blog/trennung-verarbeiten-12-schritte) entwickelt. Er nennt sie die „4 Horsemen der Apokalypse".
 
 ### Der erste Horseman: Kritik
 

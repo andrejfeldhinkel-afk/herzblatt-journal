@@ -291,7 +291,7 @@ Aber mit Trauer kommt auch eine neue Art von Liebe. Eine Liebe, die getestet wur
 Viele Paare sagen, dass ihre Beziehung nach Elternschaft intensiver, tiefer ist. Sie mögen nicht die fehlende Spontaneität, aber die Tiefe ist wertvoll.
 
 
-## Wenn einer der Partner nahe einer Trennung ist
+## Wenn einer der Partner nahe einer [Trennung](/blog/trennung-verarbeiten-12-schritte) ist
 
 Es gibt ein Punkt, wenn der Stress so groß wird, dass ein Partner anfängt, zu denken "ist diese Beziehung überhaupt wert?" Das ist gefährlich. Das ist wenn Beziehungen enden.
 

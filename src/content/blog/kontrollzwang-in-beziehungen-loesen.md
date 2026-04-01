@@ -181,7 +181,7 @@ Wenn die Kontrolle deine psychische Gesundheit gefährdet, wenn du depressiv, ä
 
 ## Wie du in einer Beziehung mit Kontrollzwang bleibst und gleichzeitig dich selbst schützt
 
-Manchmal ist sofortige Trennung nicht möglich oder nicht realistisch. Vielleicht habt ihr Kinder, finanzielle Bindungen oder du brauchst einfach Zeit, um dich vorzubereiten. In diesem Fall gibt es Strategien, um dich selbst zu schützen:
+Manchmal ist sofortige [Trennung](/blog/trennung-verarbeiten-12-schritte) nicht möglich oder nicht realistisch. Vielleicht habt ihr Kinder, finanzielle Bindungen oder du brauchst einfach Zeit, um dich vorzubereiten. In diesem Fall gibt es Strategien, um dich selbst zu schützen:
 
 **Pflege deine Freundschaften intensiv**: Je unabhängiger du dich fühlen kannst, desto weniger Macht hat der Kontrollzwang über dich. Verbringe Zeit mit Freunden, baue dein Netzwerk auf.
 

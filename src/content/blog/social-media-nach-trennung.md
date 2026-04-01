@@ -29,7 +29,7 @@ faq:
     answer: "Es gibt hier kein Richtig oder Falsch. Manche halten das Jahr aus, andere länger. Wichtig ist: Blockiere ihn wieder, wenn dich das Entblockieren nicht guttut."
 ---
 
-## Die Social-Media-Falle nach einer Trennung
+## Die Social-Media-Falle nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte)
 
 Dein Ex hat gerade eine neue Story gepostet. Dein Herz zieht sich zusammen. Du öffnest sein Profil zum fünften Mal heute, obwohl es wehtut. Das ist das sichere Zeichen, dass du etwas ändern musst.
 

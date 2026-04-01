@@ -348,7 +348,7 @@ Die Frage kommt oft auf: Sollte ich anrufen oder eine Sprachnachricht schicken? 
 
 Das muss nicht linear sein — manche Menschen sind bereit für Anrufe schneller, andere mögen Video-Calls früher. Aber diese Reihenfolge verhindert, dass ihr zu schnell zu viel macht.
 
-## Sprachnachrichten auf verschiedenen Apps: WhatsApp, Bumble, Hinge
+## Sprachnachrichten auf verschiedenen Apps: WhatsApp, Bumble, [Hinge](/blog/hinge-guide-deutsch-2026)
 
 Nicht alle Apps funktionieren gleich, wenn es um Voice Notes geht. Lass mich dir zeigen, wie es auf den populärsten Plattformen funktioniert.
 

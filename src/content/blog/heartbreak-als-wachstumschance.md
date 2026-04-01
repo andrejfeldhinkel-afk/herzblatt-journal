@@ -9,7 +9,7 @@ tags:
   - "Persönliches Wachstum"
   - "Resilienz"
 ---
-## Herzschmerz nutzen: Aus Trennung wirklich wachsen
+## Herzschmerz nutzen: Aus [Trennung](/blog/trennung-verarbeiten-12-schritte) wirklich wachsen
 
 Es gibt einen Moment, in dem du realisierst, dass es vorbei ist. Vielleicht hat er es dir gesagt. Vielleicht war es ein langsames Verblassen, ein Entwachsen in entgegengesetzte Richtungen, bis ihr schließlich auf verschiedenen Seiten eines Abgrundes waren. Vielleicht war es ein Betrug, ein Verrat, etwas, das du nicht kommen hast sehen.
 

@@ -116,7 +116,7 @@ Jetzt gehen wir zu etwas Praktischem über. Hier sind die Zeichen, dass du dich 
 
 **11. Du hast kein Vertrauen mehr in ihn.** Nicht unbedingt, weil er dich betrogen hat — sondern weil du dich von ihm distanziert hast und diese Distanz als Vertrauensprobleme interpretierst.
 
-**12. Der Gedanke an Trennung macht dir Erleichterung, nicht Schmerz.** Das ist vielleicht das wichtigste Zeichen. Wenn eine Person dir sagen würde: "Deine Beziehung endet nächste Woche", würdest du traurig sein oder erleichtert?
+**12. Der Gedanke an [Trennung](/blog/trennung-verarbeiten-12-schritte) macht dir Erleichterung, nicht Schmerz.** Das ist vielleicht das wichtigste Zeichen. Wenn eine Person dir sagen würde: "Deine Beziehung endet nächste Woche", würdest du traurig sein oder erleichtert?
 
 Wenn du mindestens sechs davon hast, dann ist das kein nachlassen der Verliebtheit. Das ist echtes Entlieben.
 

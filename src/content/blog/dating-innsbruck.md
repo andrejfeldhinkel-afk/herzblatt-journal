@@ -83,7 +83,7 @@ Die Seen sind leicht erreichbar mit öffentlichen Verkehrsmitteln.
 
 ### Dating-Apps
 
-Bumble und Hinge: Standard in Innsbruck.
+Bumble und [Hinge](/blog/hinge-guide-deutsch-2026): Standard in Innsbruck.
 
 Dein Profil sollte zeigen, dass Du Natur und Abenteuer magst. Das ist wichtig hier. „Ich liebe Berge und Wandern" ist gut.
 

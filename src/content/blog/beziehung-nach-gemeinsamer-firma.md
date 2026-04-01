@@ -19,7 +19,7 @@ faq:
 
 Wenn du mit deinem Partner ein Business aufgebaut hast, habt ihr vermutlich hunderte Stunden zusammen verbracht. Ihr kennt euch in und auswendig, habt gemeinsam Krisen bewältigt und Erfolge gefeiert. Und dann passiert es: Die Beziehung funktioniert nicht mehr. Vielleicht seid ihr auseinander gewachsen, vielleicht hat sich eine Person verändert, vielleicht ist einfach die Chemie weg.
 
-Jetzt sitzt ihr vor einem echten Problem. Nicht nur eine persönliche Trennung, sondern auch eine geschäftliche. Und beide können schnell zur Katastrophe werden, wenn ihr nicht klug vorgeht.
+Jetzt sitzt ihr vor einem echten Problem. Nicht nur eine persönliche [Trennung](/blog/trennung-verarbeiten-12-schritte), sondern auch eine geschäftliche. Und beide können schnell zur Katastrophe werden, wenn ihr nicht klug vorgeht.
 
 ## Die härteste Realität: Business und Beziehung können nicht einfach getrennt werden
 

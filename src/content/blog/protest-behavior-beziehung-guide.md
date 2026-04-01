@@ -37,7 +37,7 @@ Protest-Verhalten ist ein unbewusstes Muster, in dem du destruktive oder manipul
 
 Der Psychologe Daniel Wile hat viel über Protest-Verhalten geschrieben. Das zentrale Merkmal ist, dass es nicht bewusst ist. Du realisierst oft nicht einmal, was du tust oder warum. Es ist wie ein automatischer Überlebensmodus, der von deinem Unterbewusstsein ausgelöst wird. Dein Gehirn erklärt eine emotionale Bedrohung – Abstand, Aufmerksamkeit, Nähe – und es feuert dein Notfall-System ab.
 
-Das Konzept von Protest-Verhalten geht bis zur Bindungstheorie von John Bowlby zurück. Bowlby merkte, dass Kleintiere – und besonders Menschenkinder – auf Trennung von ihrem Caregiver mit Protest reagieren. Das ist biologisch. Das ist überlebensfähig. Ein Baby, das auf der Gefahr reagiert, hat eine bessere Chance, vom Caregiver gehört zu werden.
+Das Konzept von Protest-Verhalten geht bis zur Bindungstheorie von John Bowlby zurück. Bowlby merkte, dass Kleintiere – und besonders Menschenkinder – auf [Trennung](/blog/trennung-verarbeiten-12-schritte) von ihrem Caregiver mit Protest reagieren. Das ist biologisch. Das ist überlebensfähig. Ein Baby, das auf der Gefahr reagiert, hat eine bessere Chance, vom Caregiver gehört zu werden.
 
 Das Problem ist, dass dieser Protest-Mechanism nicht mit dem Alter deaktiviert wird. Als Erwachsener aktiviert sich dieser Mechanism immer noch, wenn dein Partner emotional distanziert. Dein Körper reagiert, als würde dein Überleben gefährdet. Und dein Überlebensmechanismus ist: Schaffe eine Reaktion.
 

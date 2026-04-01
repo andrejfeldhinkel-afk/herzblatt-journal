@@ -32,7 +32,7 @@ Die Schlüssel sind in deiner Hand. Du öffnest die Tür zu einer leeren Wohnung
 
 Es ist ein merkwürdiges Gefühl. Erleichterung, Angst, Aufregung, Traurigkeit – alles gleichzeitig. Du bist endlich allein. Das ist das, das du wolltest. Aber die Leere fühlt sich manchmal zu laut an.
 
-Die erste eigene Wohnung nach einer Trennung ist kein Luxus oder Lifestyle-Upgrade. Sie ist ein Ritus. Ein physischer Marker zwischen damals und jetzt. Wenn du diesen Übergang richtig machst, wird es zum Katalysator für echte [heilung](/blog/aengstlicher-bindungsstil-heilen/).
+Die erste eigene Wohnung nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte) ist kein Luxus oder Lifestyle-Upgrade. Sie ist ein Ritus. Ein physischer Marker zwischen damals und jetzt. Wenn du diesen Übergang richtig machst, wird es zum Katalysator für echte [heilung](/blog/aengstlicher-bindungsstil-heilen/).
 
 ## Die Entscheidung: Welche Wohnung?
 

@@ -18,7 +18,7 @@ author: "sarah-kellner"
 
 # Getrennte Urlaube in der Beziehung: Warum Abstand Nähe stärkt
 
-Du kennst das Szenario: Die Urlaubsplanung steht an und dein Partner möchte zwei Wochen mit seinen Freunden nach Südamerika, während du dich nach Ruhe am Meer sehnst. Der erste Instinkt vieler Menschen in einer Beziehung ist Panik. "Getrennte Urlaube? Das ist doch nicht normal für Paare!" Der Gedanke an diese Trennung fühlt sich ungemütlich an, fast wie ein stilles Zeichen dafür, dass etwas mit der Beziehung nicht stimmt. Aber das könnte nicht weiter von der Wahrheit entfernt sein.
+Du kennst das Szenario: Die Urlaubsplanung steht an und dein Partner möchte zwei Wochen mit seinen Freunden nach Südamerika, während du dich nach Ruhe am Meer sehnst. Der erste Instinkt vieler Menschen in einer Beziehung ist Panik. "Getrennte Urlaube? Das ist doch nicht normal für Paare!" Der Gedanke an diese [Trennung](/blog/trennung-verarbeiten-12-schritte) fühlt sich ungemütlich an, fast wie ein stilles Zeichen dafür, dass etwas mit der Beziehung nicht stimmt. Aber das könnte nicht weiter von der Wahrheit entfernt sein.
 
 Immer mehr Paare entdecken, dass getrennte Urlaube nicht das Gegenteil einer glücklichen Beziehung sind – sie können sogar ein Zeichen dafür sein, dass man sich selbst und die Beziehung genug liebt, um bewusste Grenzen zu setzen. In diesem Artikel tauchen wir tief ein in die Welt der Solo-Reisen trotz Beziehung und warum sie für viele Paare eine wahre Bereicherung darstellen.
 

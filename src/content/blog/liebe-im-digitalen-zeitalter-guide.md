@@ -121,7 +121,7 @@ Dating-Apps haben unsere Vorstellung von Liebe fundamental verändert. Und währ
 
 ### Das Paradox der Wahl
 
-Mit Tinder, Bumble, Hinge, Match und Dutzenden anderen Apps hast du Zugang zu mehr möglichen Partnern als je zuvor.
+Mit Tinder, Bumble, [Hinge](/blog/hinge-guide-deutsch-2026), Match und Dutzenden anderen Apps hast du Zugang zu mehr möglichen Partnern als je zuvor.
 
 Aber das ist ein Problem.
 

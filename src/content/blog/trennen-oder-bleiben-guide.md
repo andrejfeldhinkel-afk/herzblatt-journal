@@ -35,7 +35,7 @@ Dein Partner schläft neben dir, und du fragst dich, ob du noch in diese Person 
 
 Das Schlimme: Keiner kann dir diese Entscheidung abnehmen. Deine beste Freundin wird dir sagen: "Verlass ihn!" Deine Mutter wird sagen: "Gebt euch noch eine Chance!" Und am Ende sitzt du wieder da, völlig verwirrt.
 
-Die Wahrheit ist, dass diese Entscheidung so verdammt schwer ist, weil sie nicht einfach schwarz oder weiß ist. Es gibt keine offensichtliche richtige Antwort. Dein Herz sagt das eine, dein Verstand das andere. Du liebst diese Person immer noch — aber du magst sie nicht mehr. Oder umgekehrt. Du weißt nicht, wie es dir nach einer Trennung gehen wird. Du weißt nicht, ob es wirklich besser wird. Du kennst die Schmerzen der Gegenwart, aber nicht die Schmerzen der Zukunft.
+Die Wahrheit ist, dass diese Entscheidung so verdammt schwer ist, weil sie nicht einfach schwarz oder weiß ist. Es gibt keine offensichtliche richtige Antwort. Dein Herz sagt das eine, dein Verstand das andere. Du liebst diese Person immer noch — aber du magst sie nicht mehr. Oder umgekehrt. Du weißt nicht, wie es dir nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte) gehen wird. Du weißt nicht, ob es wirklich besser wird. Du kennst die Schmerzen der Gegenwart, aber nicht die Schmerzen der Zukunft.
 
 Und genau deswegen bin ich hier. Nicht um dir zu sagen, was du tun sollst — sondern um dir dabei zu helfen, herauszufinden, was du wirklich willst.
 

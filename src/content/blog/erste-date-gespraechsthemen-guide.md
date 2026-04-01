@@ -196,7 +196,7 @@ Am Ende des Dates passiert oft das Wichtigste. Hier solltest du nicht abschalten
 Nicht einfach "Das war nett" sagen. Vielmehr: "Ich habe dir gerne zugehört. Mir gefällt, wie leidenschaftlich du von deinen Reisen sprichst."
 
 **Das echte Kompliment:**
-"Du bist anders als ich erwartet habe - auf eine gute Art" ist direkter und ehrlicher als generische Komplimente.
+"Du bist anders als ich erwartet habe - auf eine gute Art" ist direkter und ehrlicher als generische [Komplimente](/blog/komplimente-fuer-maenner).
 
 **Die klare Ankündigung:**
 Wenn ihr beide Interesse habt: "Ich würde dich gerne wiedersehen. Kann ich dir schreiben?"

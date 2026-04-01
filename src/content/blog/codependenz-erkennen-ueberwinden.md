@@ -809,7 +809,7 @@ Dies ist die schwerste Schritt für einen codependenten Menschen. Aber es ist no
 
 Du kannst sagen: "Ich sehe dass du kämpfst. Ich unterstütze dich wenn du Hilfe suchst." Aber du nicht kannst ihn oder sie hinzwingen.
 
-4. **Bereite dich auf Trennung vor.**
+4. **Bereite dich auf [Trennung](/blog/trennung-verarbeiten-12-schritte) vor.**
 
 Manchmal die einzige Grenze die effektiv ist, ist Trennung. "Ich liebe dich. Aber ich kann nicht in einer Beziehung mit jemandem sein der oder die süchtig ist. Wenn du nüchtern wirst und Hilfe suchst, können wir wieder zusammen kommen."
 

@@ -114,7 +114,7 @@ Bonn hat eine **junge, lebendige Online-Dating-Szene**:
 
 - **Tinder**: Standard, aber auch hier vertreten
 - **Bumble**: Besonders bei Frauen beliebt
-- **Hinge**: Für Beziehungsorientierte
+- **[Hinge](/blog/hinge-guide-deutsch-2026)**: Für Beziehungsorientierte
 - **OKCupid**: Hier findet man seltener, aber dafür intelligenteren Matches
 
 **Dein Bonn-Dating-Profil-Geheimtipp:**

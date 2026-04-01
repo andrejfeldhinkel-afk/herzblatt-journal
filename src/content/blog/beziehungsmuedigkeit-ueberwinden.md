@@ -26,7 +26,7 @@ Du merkst es zuerst in den kleinen Dingen. Dein Partner ruft an, und statt dich 
 
 Dann merkst du es in den größeren Dingen. Du stellst dir vor, wie es wäre, allein zu sein. Nicht, weil du jemand anderen lieben möchtest, sondern weil die Idee der Ruhe—ein Leben ohne die emotionale Last dieser Beziehung—verlockend wird.
 
-Die Beziehungsmüdigkeit kriecht auf dich zu. Es ist nicht wie eine plötzliche Trennung nach einem großen Kampf. Es ist eine langsame, stille Erosion deiner Fähigkeit, präsent zu sein.
+Die Beziehungsmüdigkeit kriecht auf dich zu. Es ist nicht wie eine plötzliche [Trennung](/blog/trennung-verarbeiten-12-schritte) nach einem großen Kampf. Es ist eine langsame, stille Erosion deiner Fähigkeit, präsent zu sein.
 
 ## Die Quellen der Erschöpfung: Woher kommt die Müdigkeit?
 

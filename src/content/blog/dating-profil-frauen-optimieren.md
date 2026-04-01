@@ -108,7 +108,7 @@ Wenn du eine Nachricht bekommst oder selbst erste Nachricht schreibst, sei authe
 **Schlechte erste Nachricht:**
 - "Hey" alleine
 - Sofort sexuelle Inhalte
-- Komplimente nur über Aussehen
+- [Komplimente](/blog/komplimente-fuer-maenner) nur über Aussehen
 - Zu lang
 
 ## Häufige Fehler
