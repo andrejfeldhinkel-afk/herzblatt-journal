@@ -2,6 +2,8 @@
 title: "Single über 50: Dating-Tipps für den Neustart (2026)"
 description: "Dating ab 50: Realistische Tipps, beste Apps und Strategien für die Partnersuche in der Lebensmitte. Ein ehrlicher Guide für reife Singles."
 date: 2026-04-01
+image: "/images/blog/single-ueber-50-dating-tipps.webp"
+imageAlt: "Single Ueber 50 Dating Tipps"
 tags:
   - "Dating"
   - "Partnersuche"

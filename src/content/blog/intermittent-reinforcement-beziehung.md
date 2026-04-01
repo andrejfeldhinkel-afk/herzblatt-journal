@@ -2,6 +2,8 @@
 title: "Intermittent Reinforcement: Warum toxische Liebe so süchtig macht (2026)"
 description: "Intermittent Reinforcement in Beziehungen: Warum wechselhafte Zuneigung uns süchtig macht und wie du dich befreist von toxischen Mustern."
 date: 2026-04-01
+image: "/images/blog/intermittent-reinforcement-beziehung.webp"
+imageAlt: "Intermittent Reinforcement Beziehung"
 tags:
   - "Psychologie"
   - "Beziehung"

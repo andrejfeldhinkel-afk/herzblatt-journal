@@ -2,6 +2,8 @@
 title: "Liebessprache Worte der Bestätigung: Die Kraft der richtigen Worte"
 description: "Worte der Bestätigung sind eine Liebessprache: Lob, Anerkennung und verbale Wertschätzung vertiefen deine Beziehung. So sprichst du diese Sprache."
 date: 2026-04-01
+image: "/images/blog/love-languages-words-of-affirmation.webp"
+imageAlt: "Love Languages Words Of Affirmation"
 tags:
   - "Beziehung"
   - "Kommunikation"

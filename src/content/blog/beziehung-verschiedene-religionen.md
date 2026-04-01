@@ -2,6 +2,8 @@
 title: "Beziehung mit verschiedenen Religionen: Wie es funktioniert (2026)"
 description: "Interreligiöse Beziehung erfolgreich gestalten: Praktische Tipps für Paare mit unterschiedlichen Religionen und Glaube – Kommunikation, Respekt, Lösungen."
 date: 2026-04-01
+image: "/images/blog/beziehung-verschiedene-religionen.webp"
+imageAlt: "Beziehung Verschiedene Religionen"
 tags: ["Beziehung", "Ratgeber"]
 keywords: ["beziehung verschiedene religionen", "interreligiöse beziehung", "unterschiedliche religion partnerschaft"]
 draft: false

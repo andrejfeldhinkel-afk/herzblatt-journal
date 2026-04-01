@@ -2,6 +2,8 @@
 title: "Push-Pull Dynamik: Der toxische Tanz in Beziehungen (2026)"
 description: "Push-Pull Dynamik ist wenn eine Person dich anzieht und abstößt. Ein toxischer emotionaler Tanz der Beziehungen zerstört. Erkenne es und brich aus."
 date: 2026-04-01
+image: "/images/blog/push-pull-dynamik-beziehung.webp"
+imageAlt: "Push Pull Dynamik Beziehung"
 tags:
   - "Psychologie"
   - "Beziehung"

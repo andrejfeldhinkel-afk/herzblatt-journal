@@ -2,6 +2,8 @@
 title: "Glückwünsche zur Hochzeit: 50 schöne Sprüche & Texte (2026)"
 description: "50 liebevolle Glückwünsche zur Hochzeit – von lustig bis romantisch. Kurz, berührend, zum Weitersagen oder zur Hochzeitskarte."
 date: 2026-04-01
+image: "/images/blog/glueckwuensche-zur-hochzeit-texte.webp"
+imageAlt: "Glueckwuensche Zur Hochzeit Texte"
 tags: ["Lifestyle"]
 keywords: ["glückwünsche zur hochzeit", "hochzeitsglückwünsche", "hochzeit gratulation text"]
 draft: false

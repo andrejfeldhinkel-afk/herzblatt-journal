@@ -2,6 +2,8 @@
 title: "Liebessprache Quality Time: Warum gemeinsame Zeit alles ist (2026)"
 description: "Quality Time als Liebessprache: Wie du tiefe Verbindung durch gemeinsame Zeit aufbaust — ohne Handy, mit voller Aufmerksamkeit"
 date: 2026-04-01
+image: "/images/blog/love-languages-quality-time.webp"
+imageAlt: "Love Languages Quality Time"
 tags:
   - "Beziehung"
   - "Kommunikation"

@@ -2,6 +2,8 @@
 title: "Narzissmus bei Frauen: 10 Anzeichen die du kennen musst (2026)"
 description: "Narzisstische Frauen sind nicht immer offensichtlich. Erkenne die 10 Anzeichen von Narzissmus bei Frauen und schütze dich vor emotionalen Manipulationen."
 date: 2026-04-01
+image: "/images/blog/narzissmus-bei-frauen-erkennen.webp"
+imageAlt: "Narzissmus Bei Frauen Erkennen"
 tags:
   - "Psychologie"
   - "Beziehung"

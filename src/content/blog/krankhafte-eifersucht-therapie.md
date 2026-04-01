@@ -2,6 +2,8 @@
 title: "Krankhafte Eifersucht: Ursachen, Test & Therapie (2026)"
 description: "Krankhafte Eifersucht ist nicht normal — es ist ein psychisches Gesundheitsproblem. Erkenne die Symptome, teste dich selbst und finde professionelle Hilfe."
 date: 2026-04-01
+image: "/images/blog/krankhafte-eifersucht-therapie.webp"
+imageAlt: "Krankhafte Eifersucht Therapie"
 tags:
   - "Psychologie"
   - "Gesundheit"

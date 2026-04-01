@@ -2,6 +2,8 @@
 title: "Zombieing: Wenn der Ghost plötzlich wieder auftaucht (2026)"
 description: "Zombieing erklärt: Das Dating-Phänomen, bei dem Exes zurückkehren. Warum es passiert, wie du es erkennst und wie du damit umgehst."
 date: 2026-04-01
+image: "/images/blog/zombie-dating-trend.webp"
+imageAlt: "Zombie Dating Trend"
 tags:
   - "Dating"
   - "Red Flags"

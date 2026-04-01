@@ -2,6 +2,8 @@
 title: "Catcalling: Was es ist, warum es schadet und wie du reagierst (2026)"
 description: "Catcalling erklärt: Warum Straßenbelästigung kein Kompliment ist. Wie du sicher damit umgehst und deine Grenzen setzt."
 date: 2026-04-01
+image: "/images/blog/catcalling-umgang-tipps.webp"
+imageAlt: "Catcalling Umgang Tipps"
 tags:
   - "Lifestyle"
   - "Selbstliebe"

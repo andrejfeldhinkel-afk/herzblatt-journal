@@ -2,6 +2,8 @@
 title: "Nein sagen in der Beziehung: Warum Grenzen Liebe stärken (2026)"
 description: "Nein sagen in der Beziehung ist kein Egoismus — es ist Selbstschutz. Lerne, Grenzen zu setzen, ohne Schuldgefühle oder Konflikte zu eskalieren. Mit 5 praktischen Techniken."
 date: 2026-04-01
+image: "/images/blog/nein-sagen-beziehung-lernen.webp"
+imageAlt: "Nein Sagen Beziehung Lernen"
 tags:
   - "Kommunikation"
   - "Beziehung"

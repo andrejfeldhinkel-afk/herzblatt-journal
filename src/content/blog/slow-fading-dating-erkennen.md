@@ -2,6 +2,8 @@
 title: "Slow Fading: Wenn er/sie sich langsam zurückzieht (2026)"
 description: "Slow Fading erkennen: Wie du merkst, dass dein Date sich abmeldet. Ursachen, Warnsignale und die richtige Reaktion auf dieses Dating-Phänomen."
 date: 2026-04-01
+image: "/images/blog/slow-fading-dating-erkennen.webp"
+imageAlt: "Slow Fading Dating Erkennen"
 tags:
   - "Dating"
   - "Red Flags"

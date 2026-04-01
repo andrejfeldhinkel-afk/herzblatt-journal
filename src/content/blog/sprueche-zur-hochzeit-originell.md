@@ -2,6 +2,8 @@
 title: "Sprüche zur Hochzeit: 40 originelle & lustige Ideen (2026)"
 description: "40 originelle und lustige Hochzeitssprüche für Traurede, Hochzeitskarte oder Rede. Witzig, berührend, zum Weitergeben."
 date: 2026-04-01
+image: "/images/blog/sprueche-zur-hochzeit-originell.webp"
+imageAlt: "Sprueche Zur Hochzeit Originell"
 tags: ["Lifestyle"]
 keywords: ["sprüche zur hochzeit", "hochzeitssprüche lustig", "hochzeitssprüche kurz"]
 draft: false

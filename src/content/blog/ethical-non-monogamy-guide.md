@@ -2,6 +2,8 @@
 title: "Ethische Nicht-Monogamie: Alle Beziehungsmodelle im Überblick (2026)"
 description: "Entdecke ethische Nicht-Monogamie: Polyamorie, offene Beziehungen und mehr. Alles über alternative Beziehungsmodelle für 2026."
 date: 2026-04-01
+image: "/images/blog/ethical-non-monogamy-guide.webp"
+imageAlt: "Ethical Non Monogamy Guide"
 tags: ["Beziehung", "Lifestyle"]
 keywords: ["ethische nicht-monogamie", "ethical non monogamy", "nicht-monogame beziehungsformen"]
 draft: false

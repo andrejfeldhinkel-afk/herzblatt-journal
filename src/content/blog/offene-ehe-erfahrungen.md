@@ -2,6 +2,8 @@
 title: "Offene Ehe: Erfahrungen, Regeln & ehrliche Tipps (2026)"
 description: "Offene Ehe ist nicht für jeden, aber für manche Paare funktioniert es. Echte Erfahrungen, wichtige Regeln und ehrliche Tipps vom Anfang bis zum Management."
 date: 2026-04-01
+image: "/images/blog/offene-ehe-erfahrungen.webp"
+imageAlt: "Offene Ehe Erfahrungen"
 tags:
   - "Beziehung"
   - "Lifestyle"

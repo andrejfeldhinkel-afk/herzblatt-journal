@@ -2,6 +2,8 @@
 title: "Anmachsprüche die funktionieren: 40 Opener für jede Situation (2026)"
 description: "40+ funktionierende Anmachsprüche & Eröffnungszeilen für Dating-Apps und echtes Leben. Kurz, witzig und authentisch"
 date: 2026-04-01
+image: "/images/blog/anmachsprueche-die-funktionieren.webp"
+imageAlt: "Anmachsprueche Die Funktionieren"
 tags:
   - "Flirten"
   - "Dating"

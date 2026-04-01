@@ -2,6 +2,8 @@
 title: "Hausarbeit aufteilen: Wie Paare den Mental Load fair verteilen (2026)"
 description: "Wie Paare Hausarbeit fair aufteilen und mentale Last gleichmäßig verteilen. Praktische Tipps für weniger Stress und mehr Gerechtigkeit."
 date: 2026-04-01
+image: "/images/blog/hausarbeit-aufteilen-beziehung.webp"
+imageAlt: "Hausarbeit Aufteilen Beziehung"
 tags: ["Beziehung", "Kommunikation"]
 keywords: ["hausarbeit aufteilen beziehung", "mental load beziehung", "haushalt fair aufteilen"]
 draft: false

@@ -2,6 +2,8 @@
 title: "Dating nach narzisstischer Beziehung: Sicher neu verlieben (2026)"
 description: "Nach emotionalem Missbrauch wieder vertrauen. Wie du deine Wunden heilst und dich neu öffnest. 8 praktische Schritte."
 date: 2026-04-01
+image: "/images/blog/dating-nach-narzissmus.webp"
+imageAlt: "Dating Nach Narzissmus"
 tags:
   - "Dating"
   - "Psychologie"

@@ -2,6 +2,8 @@
 title: "Freundschaft mit dem Ex: Möglich oder schlechte Idee? (2026)"
 description: "Freundschaft nach einer Beziehung: Ist es möglich? Wann ist es zu früh? Tipps für eine gesunde Ex-Freundschaft."
 date: 2026-04-01
+image: "/images/blog/ex-partner-freundschaft-moeglich.webp"
+imageAlt: "Ex Partner Freundschaft Moeglich"
 tags: ["Beziehung", "Heilung"]
 keywords: ["freundschaft mit ex", "ex partner freundschaft", "mit ex befreundet"]
 draft: false

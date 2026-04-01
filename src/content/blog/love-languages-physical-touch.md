@@ -2,6 +2,8 @@
 title: "Liebessprache Körperkontakt: Warum Berührungen so wichtig sind"
 description: "Körperkontakt ist eine Liebessprache: Berührungen, Nähe und Intimität sagen oft mehr als Worte. Lerne, diese kraftvolle Sprache zu sprechen."
 date: 2026-04-01
+image: "/images/blog/love-languages-physical-touch.webp"
+imageAlt: "Love Languages Physical Touch"
 tags:
   - "Beziehung"
   - "Intimität"

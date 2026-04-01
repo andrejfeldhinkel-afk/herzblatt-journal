@@ -2,6 +2,8 @@
 title: "Date Ideen Winter: 30 romantische Aktivitäten für kalte Tage"
 description: "Winter Date Ideen für Paare: 30 romantische Aktivitäten, die die kalte Jahreszeit unvergesslich machen. Von Ski bis Kaminfeuer."
 date: 2026-04-01
+image: "/images/blog/date-ideen-winter-romantisch.webp"
+imageAlt: "Date Ideen Winter Romantisch"
 tags:
   - "Date-Ideen"
   - "Lifestyle"

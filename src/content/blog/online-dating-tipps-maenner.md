@@ -2,6 +2,8 @@
 title: "Online Dating Tipps für Männer: Der komplette Guide (2026)"
 description: "Professionelle Online-Dating-Tipps für Männer: Profil optimieren, erste Nachrichten schreiben, Matches treffen & echte Beziehungen aufbauen"
 date: 2026-04-01
+image: "/images/blog/online-dating-tipps-maenner.webp"
+imageAlt: "Online Dating Tipps Maenner"
 tags:
   - "Dating"
   - "Online-Dating"

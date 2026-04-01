@@ -2,6 +2,8 @@
 title: "Gaslighting am Arbeitsplatz: Manipulation im Job erkennen (2026)"
 description: "Gaslighting im Job erkennen und stoppen: Manipulation am Arbeitsplatz, Strategien zur Selbstschutz, professionelle Grenzen setzen."
 date: 2026-04-01
+image: "/images/blog/gaslighting-am-arbeitsplatz.webp"
+imageAlt: "Gaslighting Am Arbeitsplatz"
 tags:
   - "Psychologie"
   - "Ratgeber"

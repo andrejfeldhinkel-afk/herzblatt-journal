@@ -2,6 +2,8 @@
 title: "Morgenroutine als Paar: 10 Rituale für einen besseren Start (2026)"
 description: "10 konkrete Morgenrituale für Paare: Kuscheln, gemeinsames Frühstück, Achtsamkeit. Starten Sie mit mehr Nähe in den Tag."
 date: 2026-04-01
+image: "/images/blog/morgenroutine-als-paar.webp"
+imageAlt: "Morgenroutine Als Paar"
 tags:
   - "Beziehung"
   - "Lifestyle"

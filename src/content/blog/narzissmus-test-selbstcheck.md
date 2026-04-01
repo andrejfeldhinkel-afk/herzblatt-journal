@@ -2,6 +2,8 @@
 title: "Narzissmus Test: Bin ich narzisstisch? Selbstcheck (2026)"
 description: "Bin ich narzisstisch? Ein wissenschaftlicher 20-Fragen-Test mit detaillierter Auswertung. Erkenne deine Muster."
 date: 2026-04-01
+image: "/images/blog/narzissmus-test-selbstcheck.webp"
+imageAlt: "Narzissmus Test Selbstcheck"
 tags:
   - "Psychologie"
 keywords: ["narzissmus test", "bin ich narzisst test", "narzissmus selbsttest"]

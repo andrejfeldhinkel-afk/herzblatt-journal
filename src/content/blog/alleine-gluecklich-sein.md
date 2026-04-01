@@ -2,6 +2,8 @@
 title: "Alleine glücklich sein: Wie du lernst, dich selbst zu genügen (2026)"
 description: "Alleine glücklich sein: Psychologische Techniken um Einsamkeit zu überwinden und echte Zufriedenheit ohne Partner zu finden."
 date: 2026-04-01
+image: "/images/blog/alleine-gluecklich-sein.webp"
+imageAlt: "Alleine Gluecklich Sein"
 tags:
   - "Selbstliebe"
   - "Psychologie"

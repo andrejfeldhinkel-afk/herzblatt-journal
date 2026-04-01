@@ -2,6 +2,8 @@
 title: "Trennung im Alter: Neuanfang nach 50+ Jahren (2026)"
 description: "Trennung mit 50+? Du fragst dich, wie du wieder glücklich wirst. Ehrliche Tipps zur Heilung, praktische Schritte und echte Hoffnung für deinen Neuanfang."
 date: 2026-04-01
+image: "/images/blog/trennung-im-alter-neuanfang.webp"
+imageAlt: "Trennung Im Alter Neuanfang"
 tags:
   - "Beziehung"
   - "Heilung"

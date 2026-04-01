@@ -2,6 +2,8 @@
 title: "Beziehung nach Fehlgeburt: Wie ihr als Paar damit umgeht (2026)"
 description: "Beziehung nach Fehlgeburt: Emotionale und physische Heilung als Paar. Wie ihr sich gegenseitig unterstützt und die Trauer zusammen tragt."
 date: 2026-04-01
+image: "/images/blog/beziehung-nach-fehlgeburt.webp"
+imageAlt: "Beziehung Nach Fehlgeburt"
 tags:
   - "Beziehung"
   - "Heilung"

@@ -2,6 +2,8 @@
 title: "Hoovering: Wenn der Narzisst dich zurückholen will (2026)"
 description: "Hoovering ist das Zurückholen-Spiel von Narzissten nach Trennung. Erkenne die Taktiken und halte durch — dein Verstand ist dein bestes Werkzeug."
 date: 2026-04-01
+image: "/images/blog/hoovering-narzissmus-erkennen.webp"
+imageAlt: "Hoovering Narzissmus Erkennen"
 tags:
   - "Psychologie"
   - "Heilung"

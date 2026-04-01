@@ -2,6 +2,8 @@
 title: "Sound Relationship House: Gottmans Modell für stabile Beziehungen (2026)"
 description: "Gottmans Sound Relationship House erklärt: Die 4 Komponenten für stabile, glückliche Beziehungen — mit praktischen Tipps"
 date: 2026-04-01
+image: "/images/blog/gottman-sound-relationship-house.webp"
+imageAlt: "Gottman Sound Relationship House"
 tags:
   - "Psychologie"
   - "Beziehung"

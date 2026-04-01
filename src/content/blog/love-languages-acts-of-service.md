@@ -2,6 +2,8 @@
 title: "Liebessprache Hilfsbereitschaft: Liebe durch Taten zeigen (2026)"
 description: "Acts of Service als Liebessprache: Wie du Liebe durch kleine & große Taten zeigst — Beispiele & praktische Tipps"
 date: 2026-04-01
+image: "/images/blog/love-languages-acts-of-service.webp"
+imageAlt: "Love Languages Acts Of Service"
 tags:
   - "Beziehung"
   - "Kommunikation"

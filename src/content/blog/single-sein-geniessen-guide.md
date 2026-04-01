@@ -2,6 +2,8 @@
 title: "Single sein genießen: 15 Gründe warum Alleinsein Freiheit ist (2026)"
 description: "Single sein genießen statt leiden: 15 praktische Gründe und Tipps, wie du dein Single-Dasein richtig auskostest und dabei glücklich wirst."
 date: 2026-04-01
+image: "/images/blog/single-sein-geniessen-guide.webp"
+imageAlt: "Single Sein Geniessen Guide"
 tags:
   - "Selbstliebe"
   - "Lifestyle"

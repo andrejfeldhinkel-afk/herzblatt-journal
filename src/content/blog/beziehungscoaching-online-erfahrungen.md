@@ -2,6 +2,8 @@
 title: "Beziehungscoaching online: Lohnt es sich? Erfahrungen (2026)"
 description: "Alles über Online-Beziehungscoaching: Wie es funktioniert, was es kostet, ob es hilft und echte Erfahrungen von Paaren."
 date: 2026-04-01
+image: "/images/blog/beziehungscoaching-online-erfahrungen.webp"
+imageAlt: "Beziehungscoaching Online Erfahrungen"
 tags: ["Beziehung", "Ratgeber"]
 keywords: ["beziehungscoaching online", "online paarberatung erfahrungen", "beziehungscoach"]
 draft: false

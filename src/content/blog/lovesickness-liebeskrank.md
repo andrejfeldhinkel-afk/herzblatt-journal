@@ -2,6 +2,8 @@
 title: "Liebeskrank: Warum Liebe sich manchmal wie eine Krankheit anfühlt"
 description: "Liebeskummer ist körperlich real: Liebeskrank ist nicht nur emotional, sondern auch biologisch. Verstehe die Wissenschaft hinter Liebeskummer und Heilung."
 date: 2026-04-01
+image: "/images/blog/lovesickness-liebeskrank.webp"
+imageAlt: "Lovesickness Liebeskrank"
 tags:
   - "Psychologie"
   - "Gesundheit"

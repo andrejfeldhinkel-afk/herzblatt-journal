@@ -2,6 +2,8 @@
 title: "Dating nach Therapie: Gesünder lieben lernen (2026)"
 description: "Wie du nach einer Therapie wieder daten kannst: Gesünder wählen, alte Muster erkennen, echte Verbindung aufbauen."
 date: 2026-04-01
+image: "/images/blog/dating-nach-therapie-guide.webp"
+imageAlt: "Dating Nach Therapie Guide"
 tags:
   - "Dating"
   - "Psychologie"

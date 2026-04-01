@@ -2,6 +2,8 @@
 title: "No Contact mit Narzisst: Kontaktabbruch durchhalten (2026)"
 description: "No Contact ist die einzige echte Rettung vor einem Narzissten. Lerne die Regel, warum sie funktioniert und wie du sie einhältst wenn es weh tut."
 date: 2026-04-01
+image: "/images/blog/no-contact-narzisst-durchhalten.webp"
+imageAlt: "No Contact Narzisst Durchhalten"
 tags:
   - "Psychologie"
   - "Heilung"

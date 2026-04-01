@@ -2,6 +2,8 @@
 title: "Dating App Algorithmus: So funktionieren Tinder, Bumble & Co. (2026)"
 description: "Wie Dating-App-Algorithmen funktionieren: Wie du bessere Matches bekommst und das System zu deinem Vorteil nutzt."
 date: 2026-04-01
+image: "/images/blog/dating-app-algorithmus-verstehen.webp"
+imageAlt: "Dating App Algorithmus Verstehen"
 tags:
   - "Online-Dating"
   - "Dating"

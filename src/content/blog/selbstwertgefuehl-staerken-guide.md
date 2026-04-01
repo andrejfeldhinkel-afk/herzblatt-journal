@@ -2,6 +2,8 @@
 title: "Selbstwertgefühl stärken: 15 Übungen die sofort wirken (2026)"
 description: "Wie du dein Selbstwertgefühl nachhaltig stärkst. 15 konkrete, sofort umsetzbare Übungen von Affirmationen bis Journaling."
 date: 2026-04-01
+image: "/images/blog/selbstwertgefuehl-staerken-guide.webp"
+imageAlt: "Selbstwertgefuehl Staerken Guide"
 tags:
   - "Selbstliebe"
   - "Psychologie"

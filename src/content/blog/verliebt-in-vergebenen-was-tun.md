@@ -2,6 +2,8 @@
 title: "Verliebt in einen Vergebenen: Was du jetzt tun solltest"
 description: "Du bist verliebt in jemanden, der vergeben ist. Was solltest du tun? Eine ehrliche, nicht-urteilende Anleitung für diese komplexe Situation."
 date: 2026-04-01
+image: "/images/blog/verliebt-in-vergebenen-was-tun.webp"
+imageAlt: "Verliebt In Vergebenen Was Tun"
 tags:
   - "Psychologie"
   - "Beziehung"

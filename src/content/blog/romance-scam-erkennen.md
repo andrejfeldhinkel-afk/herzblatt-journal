@@ -2,6 +2,8 @@
 title: "Romance Scam erkennen: So schützt du dich vor Liebesbetrug (2026)"
 description: "Romance Scam erkennen: Warnsignale, echte Beispiele und praktische Tipps, um Liebesbetrug zu vermeiden und dein Herz (und Geld) zu schützen."
 date: 2026-04-01
+image: "/images/blog/romance-scam-erkennen.webp"
+imageAlt: "Romance Scam Erkennen"
 tags:
   - "Dating"
   - "Online-Dating"

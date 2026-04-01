@@ -2,6 +2,8 @@
 title: "Beziehung Definition: Alle Beziehungsarten einfach erklärt (2026)"
 description: "Beziehung Definition: Von klassischer Partnerschaft bis zu modernen Beziehungsmodellen — alle Arten einfach und klar erklärt."
 date: 2026-04-01
+image: "/images/blog/beziehung-definition-arten.webp"
+imageAlt: "Beziehung Definition Arten"
 tags:
   - "Beziehung"
   - "Ratgeber"

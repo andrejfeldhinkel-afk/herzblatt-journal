@@ -2,6 +2,8 @@
 title: "Broken-Heart-Syndrom: Wenn Liebeskummer das Herz bricht (2026)"
 description: "Broken-Heart-Syndrom ist real: Liebeskummer kann buchstäblich dein Herz brechen. Verstehe die Symptome, die Wissenschaft dahinter und wie du dein Herz schützt."
 date: 2026-04-01
+image: "/images/blog/broken-heart-syndrom-erkennen.webp"
+imageAlt: "Broken Heart Syndrom Erkennen"
 tags:
   - "Psychologie"
   - "Gesundheit"

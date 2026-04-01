@@ -2,6 +2,8 @@
 title: "Date Ideen kostenlos: 25 kreative Dates die nichts kosten"
 description: "25 kostenlose Date-Ideen für Paare: Kreative, romantische Aktivitäten ohne Geld. Beweise, dass die beste Nähe umsonst ist."
 date: 2026-04-01
+image: "/images/blog/date-ideen-kostenlos-kreativ.webp"
+imageAlt: "Date Ideen Kostenlos Kreativ"
 tags:
   - "Date-Ideen"
   - "Lifestyle"

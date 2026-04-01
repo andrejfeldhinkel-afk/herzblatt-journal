@@ -2,6 +2,8 @@
 title: "Nice Guy Syndrom: Warum nett sein nicht reicht (2026)"
 description: "Nice Guy Syndrom ist das Problem, dass du alles gibst und nichts bekommst. Entdecke, warum Frauen dich anders sehen und wie du echte Anziehung aufbaust — nicht Mitleid."
 date: 2026-04-01
+image: "/images/blog/nice-guy-syndrom-erkennen.webp"
+imageAlt: "Nice Guy Syndrom Erkennen"
 tags:
   - "Dating"
   - "Psychologie"

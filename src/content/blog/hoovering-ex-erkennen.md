@@ -2,6 +2,8 @@
 title: "Hoovering vom Ex: Manipulation oder echte Reue?"
 description: "Hoovering ist eine Manipulationstaktik: Der Ex saugt dich zurück ein. Lerne, Hoovering zu erkennen und nicht hereinfallen. Mit echten Beispielen."
 date: 2026-04-01
+image: "/images/blog/hoovering-ex-erkennen.webp"
+imageAlt: "Hoovering Ex Erkennen"
 tags:
   - "Psychologie"
   - "Heilung"

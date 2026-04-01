@@ -2,6 +2,8 @@
 title: "Wenn der Ex sich meldet: So reagierst du richtig"
 description: "Dein Ex meldet sich wieder. Wie reagierst du? Eine ehrliche Anleitung für diese Situation, ohne dein Herz oder deinen Verstand zu verlieren."
 date: 2026-04-01
+image: "/images/blog/ex-meldet-sich-wieder-reagieren.webp"
+imageAlt: "Ex Meldet Sich Wieder Reagieren"
 tags:
   - "Beziehung"
   - "Heilung"

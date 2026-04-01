@@ -2,6 +2,8 @@
 title: "Attachment Wounds: Bindungsverletzungen erkennen & heilen (2026)"
 description: "Was sind Bindungswunden? Wie entstehen sie und wie kannst du sie mit deinem Partner heilen? Ein Heilungsguide."
 date: 2026-04-01
+image: "/images/blog/attachment-wound-heilen.webp"
+imageAlt: "Attachment Wound Heilen"
 tags:
   - "Psychologie"
   - "Bindungstypen"

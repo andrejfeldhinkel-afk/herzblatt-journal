@@ -2,6 +2,8 @@
 title: "Die 5:1 Regel nach Gottman: Das Geheimnis glücklicher Paare (2026)"
 description: "Die 5:1 Regel nach Gottman erklärt: Das wissenschaftliche Verhältnis von positiven zu negativen Interaktionen, das glückliche Paare glücklich macht."
 date: 2026-04-01
+image: "/images/blog/gottman-5-zu-1-regel.webp"
+imageAlt: "Gottman 5 Zu 1 Regel"
 tags:
   - "Psychologie"
   - "Beziehung"

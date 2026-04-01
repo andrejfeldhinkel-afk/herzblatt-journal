@@ -2,6 +2,8 @@
 title: "Bid for Connection: Wie kleine Gesten Beziehungen retten (2026)"
 description: "Gottmans Bid for Connection: Kleine Zeichen der Liebe & wie du darauf antwortest. Beziehungen mit kleinen Momenten stärken"
 date: 2026-04-01
+image: "/images/blog/bid-for-connection-gottman.webp"
+imageAlt: "Bid For Connection Gottman"
 tags:
   - "Psychologie"
   - "Kommunikation"

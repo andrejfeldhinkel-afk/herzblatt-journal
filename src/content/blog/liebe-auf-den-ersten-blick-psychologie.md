@@ -2,6 +2,8 @@
 title: "Liebe auf den ersten Blick: Was die Psychologie dazu sagt (2026)"
 description: "Liebe auf den ersten Blick Psychologie: Ist sie real? Erfahre wissenschaftliche Erkenntnisse über sofortige Anziehung und emotionale Verbindung."
 date: 2026-04-01
+image: "/images/blog/liebe-auf-den-ersten-blick-psychologie.webp"
+imageAlt: "Liebe Auf Den Ersten Blick Psychologie"
 tags: ["Psychologie", "Beziehung"]
 keywords: ["liebe auf den ersten blick", "liebe auf den ersten blick psychologie", "gibt es liebe auf den ersten blick"]
 draft: false

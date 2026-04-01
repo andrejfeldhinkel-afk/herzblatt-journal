@@ -2,6 +2,8 @@
 title: "Emotionales Fremdgehen: Wo fängt Untreue wirklich an? (2026)"
 description: "Emotionales Fremdgehen erklärt: Die unsichtbare Form der Untreue. Wie du es erkennst, warum es genauso verletzend ist und wie du damit umgehst."
 date: 2026-04-01
+image: "/images/blog/emotional-cheating-erkennen.webp"
+imageAlt: "Emotional Cheating Erkennen"
 tags:
   - "Beziehung"
   - "Vertrauen"

@@ -2,6 +2,8 @@
 title: "Ghosting: Die letzte Nachricht die du schreiben solltest (2026)"
 description: "Du wurdest geghostet? So schreibst du eine würdevolle letzte Nachricht. Und wenn du selbst ghosten willst: Besser als zu verschwinden."
 date: 2026-04-01
+image: "/images/blog/ghosting-letzte-nachricht-schreiben.webp"
+imageAlt: "Ghosting Letzte Nachricht Schreiben"
 tags: ["Dating", "Kommunikation"]
 keywords: ["ghosting letzte nachricht", "ghosting nachricht schreiben", "nach ghosting melden"]
 draft: false

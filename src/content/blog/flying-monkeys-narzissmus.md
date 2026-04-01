@@ -2,6 +2,8 @@
 title: "Flying Monkeys: Die Helfer des Narzissten erkennen (2026)"
 description: "Flying Monkeys sind Werkzeuge des Narzissten. Erkenne, wer unter seinem Einfluss steht und wie du dich schützt ohne dich zu isolieren."
 date: 2026-04-01
+image: "/images/blog/flying-monkeys-narzissmus.webp"
+imageAlt: "Flying Monkeys Narzissmus"
 tags:
   - "Psychologie"
   - "Red Flags"

@@ -2,6 +2,8 @@
 title: "Love Languages Test: Entdecke deine Liebessprache (2026)"
 description: "Lerne die 5 Liebessprachen kennen und finde deine heraus. Ein Guide mit Test, Beispielen und Tipps für bessere Kommunikation in der Beziehung."
 date: 2026-04-01
+image: "/images/blog/love-languages-test-guide.webp"
+imageAlt: "Love Languages Test Guide"
 tags: ["Beziehung", "Kommunikation"]
 keywords: ["love languages test", "liebessprachen test", "liebessprache herausfinden"]
 draft: false

@@ -2,6 +2,8 @@
 title: "Beziehung mit Altersunterschied: Chancen, Herausforderungen & Tipps (2026)"
 description: "Altersunterschied in der Beziehung: 20, 30+ Jahre Unterschied? Wie navigierst du gesellschaftliche Urteile, Lebensphasen, Finanzen? Praktische Tipps für glückliche Beziehungen."
 date: 2026-04-01
+image: "/images/blog/beziehung-altersunterschied-tipps.webp"
+imageAlt: "Beziehung Altersunterschied Tipps"
 tags: ["Beziehung", "Ratgeber"]
 keywords: ["beziehung altersunterschied", "altersunterschied beziehung", "große altersunterschied partnerschaft"]
 draft: false

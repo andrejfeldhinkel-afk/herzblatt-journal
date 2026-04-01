@@ -2,6 +2,8 @@
 title: "Fearful Avoidant: Der ängstlich-vermeidende Bindungsstil (2026)"
 description: "Fearful Avoidant Bindungsstil verstehen: Ängstlich-vermeidendes Verhalten, Beziehungsmuster & wie du damit umgehen kannst"
 date: 2026-04-01
+image: "/images/blog/fearful-avoidant-attachment-guide.webp"
+imageAlt: "Fearful Avoidant Attachment Guide"
 tags:
   - "Psychologie"
   - "Bindungstypen"

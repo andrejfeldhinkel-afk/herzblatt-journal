@@ -2,6 +2,8 @@
 title: "Beziehungstrauma heilen: Wege aus dem emotionalen Schmerz (2026)"
 description: "Beziehungstrauma ist real. Du bist nicht überempfindlich, nicht dramatisch. Lerne wie du dein Nervensystem heilst und wieder vertraust — wissenschaftlich."
 date: 2026-04-01
+image: "/images/blog/beziehungstrauma-heilen.webp"
+imageAlt: "Beziehungstrauma Heilen"
 tags:
   - "Psychologie"
   - "Heilung"

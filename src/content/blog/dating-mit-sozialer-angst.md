@@ -2,6 +2,8 @@
 title: "Dating mit sozialer Angst: Strategien die wirklich helfen (2026)"
 description: "Dating mit sozialer Angst und Schüchternheit: Praktische Strategien, wie du Panikanfälle überwinden und authentisch daten kannst."
 date: 2026-04-01
+image: "/images/blog/dating-mit-sozialer-angst.webp"
+imageAlt: "Dating Mit Sozialer Angst"
 tags:
   - "Dating"
   - "Psychologie"

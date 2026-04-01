@@ -2,6 +2,8 @@
 title: "Vulnerabler Narzissmus: Die versteckte Form erkennen (2026)"
 description: "Vulnerabler Narzissmus ist tückischer als grandiose Formen. Erkenne versteckte Signale und schütze dich vor emotionalen Manipulationen."
 date: 2026-04-01
+image: "/images/blog/vulnerabler-narzissmus-erkennen.webp"
+imageAlt: "Vulnerabler Narzissmus Erkennen"
 tags:
   - "Psychologie"
   - "Beziehung"

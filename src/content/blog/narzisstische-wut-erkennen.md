@@ -2,6 +2,8 @@
 title: "Narzisstische Wut: Wenn der Narzisst ausrastet (2026)"
 description: "Was passiert bei narzisstischer Wut? Ursachen, Warnsignale und wie du dich selbst schützt. Ein Überblicksguide."
 date: 2026-04-01
+image: "/images/blog/narzisstische-wut-erkennen.webp"
+imageAlt: "Narzisstische Wut Erkennen"
 tags:
   - "Psychologie"
   - "Red Flags"

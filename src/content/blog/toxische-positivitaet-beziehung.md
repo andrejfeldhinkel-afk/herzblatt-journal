@@ -2,6 +2,8 @@
 title: "Toxic Positivity in Beziehungen: Wenn positiv denken schadet (2026)"
 description: "Toxic Positivity in Beziehungen: Warum \"denk positiv\" manchmal giftig ist. Echte Unterstützung statt oberflächliche Positionalität."
 date: 2026-04-01
+image: "/images/blog/toxische-positivitaet-beziehung.webp"
+imageAlt: "Toxische Positivitaet Beziehung"
 tags:
   - "Psychologie"
   - "Kommunikation"

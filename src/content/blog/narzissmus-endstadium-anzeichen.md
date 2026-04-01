@@ -2,6 +2,8 @@
 title: "Narzissmus Endstadium: Wenn die Maske endgültig fällt (2026)"
 description: "Narzissmus im Endstadium zeigt sich anders — Isolation, Selbstzerstörung, verzweifelte Manipulation. Verstehe, warum ältere Narzissten so gefährlich sind."
 date: 2026-04-01
+image: "/images/blog/narzissmus-endstadium-anzeichen.webp"
+imageAlt: "Narzissmus Endstadium Anzeichen"
 tags:
   - "Psychologie"
 keywords: ["narzissmus endstadium", "narzisst im alter", "narzisstische persönlichkeitsstörung endstadium"]

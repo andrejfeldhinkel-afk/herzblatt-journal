@@ -2,6 +2,8 @@
 title: "Interkulturelle Beziehung: Wenn verschiedene Kulturen aufeinandertreffen (2026)"
 description: "Interkulturelle Beziehung erfolgreich navigieren: Kulturelle Unterschiede, Familienerwartungen, Kommunikation und praktische Tipps für binationaler Partnerschaften."
 date: 2026-04-01
+image: "/images/blog/beziehung-kulturelle-unterschiede.webp"
+imageAlt: "Beziehung Kulturelle Unterschiede"
 tags: ["Beziehung", "Lifestyle"]
 keywords: ["interkulturelle beziehung", "beziehung kulturelle unterschiede", "binationale partnerschaft"]
 draft: false

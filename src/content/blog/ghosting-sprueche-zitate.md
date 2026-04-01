@@ -2,6 +2,8 @@
 title: "Ghosting Sprüche: 30 Zitate über Schweigen & Loslassen (2026)"
 description: "Ghosting Sprüche und Zitate: 30+ kraftvolle Worte zum Verarbeiten von Ghosting, Loslassen und dem Weg nach vorne. Für dein Herz und deine Seele."
 date: 2026-04-01
+image: "/images/blog/ghosting-sprueche-zitate.webp"
+imageAlt: "Ghosting Sprueche Zitate"
 tags:
   - "Dating"
   - "Selbstliebe"

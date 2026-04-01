@@ -2,6 +2,8 @@
 title: "Wechseljahre & Beziehung: Wie ihr diese Phase gemeinsam meistert (2026)"
 description: "Wechseljahre verändern Beziehungen. Hormonelle Shifts beeinflussen Libido, Stimmung und Intimität. Ehrliche Tipps um diese Phase zusammen zu navigieren."
 date: 2026-04-01
+image: "/images/blog/wechseljahre-beziehung-tipps.webp"
+imageAlt: "Wechseljahre Beziehung Tipps"
 tags:
   - "Beziehung"
   - "Gesundheit"

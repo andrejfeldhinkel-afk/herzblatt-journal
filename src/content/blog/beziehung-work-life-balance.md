@@ -2,6 +2,8 @@
 title: "Work-Life-Balance als Paar: Karriere & Liebe vereinen (2026)"
 description: "Wie du als Paar Karriere und Beziehung in Einklang bringst. Strategien, Grenzensetzen und Tipps für bessere Balance."
 date: 2026-04-01
+image: "/images/blog/beziehung-work-life-balance.webp"
+imageAlt: "Beziehung Work Life Balance"
 tags:
   - "Beziehung"
   - "Lifestyle"

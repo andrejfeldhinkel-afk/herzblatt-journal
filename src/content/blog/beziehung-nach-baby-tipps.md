@@ -2,6 +2,8 @@
 title: "Beziehung nach dem Baby: So bleibt ihr ein Liebespaar (2026)"
 description: "Beziehung retten nach der Geburt: Vom Schlafmangel zur Routine, Intimität neu entdecken, als Team zusammenwachsen."
 date: 2026-04-01
+image: "/images/blog/beziehung-nach-baby-tipps.webp"
+imageAlt: "Beziehung Nach Baby Tipps"
 tags:
   - "Beziehung"
   - "Ratgeber"

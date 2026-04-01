@@ -2,6 +2,8 @@
 title: "Date Ideen Sommer: 30 Outdoor-Aktivitäten für Paare"
 description: "30 Sommer-Date-Ideen für Paare: Von Picknick bis Camping, von Klettern bis Strandnacht. Outdoor-Abenteuer, die Nähe schaffen."
 date: 2026-04-01
+image: "/images/blog/date-ideen-sommer-outdoor.webp"
+imageAlt: "Date Ideen Sommer Outdoor"
 tags:
   - "Date-Ideen"
   - "Lifestyle"

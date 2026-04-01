@@ -2,6 +2,8 @@
 title: "Queer Dating: Tipps, Apps & Herausforderungen (2026)"
 description: "Queer-Dating-Guide: Die besten Apps für LGBTQ+, Sicherheitstipps, Community finden & authentische Verbindungen aufbauen"
 date: 2026-04-01
+image: "/images/blog/queer-dating-tipps-guide.webp"
+imageAlt: "Queer Dating Tipps Guide"
 tags:
   - "Dating"
   - "Lifestyle"

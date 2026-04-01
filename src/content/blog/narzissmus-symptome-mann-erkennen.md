@@ -2,6 +2,8 @@
 title: "Narzissmus Symptome beim Mann: 12 Warnzeichen (2026)"
 description: "Narzisstische Männer zeigen klare Warnsignale. Erkenne die 12 Symptome bevor du dich zu sehr verstrickst — von Manipulation bis Kontrollsucht."
 date: 2026-04-01
+image: "/images/blog/narzissmus-symptome-mann-erkennen.webp"
+imageAlt: "Narzissmus Symptome Mann Erkennen"
 tags:
   - "Psychologie"
   - "Red Flags"

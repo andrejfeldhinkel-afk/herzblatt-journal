@@ -2,6 +2,8 @@
 title: "Streiten lernen: Wie Paare fair & konstruktiv streiten (2026)"
 description: "Streiten lernen: Die Wissenschaft hinter konstruktiven Konflikten und praktische Tipps, wie Paare fair kommunizieren und ihre Beziehung stärken."
 date: 2026-04-01
+image: "/images/blog/streiten-lernen-als-paar.webp"
+imageAlt: "Streiten Lernen Als Paar"
 tags:
   - "Kommunikation"
   - "Beziehung"

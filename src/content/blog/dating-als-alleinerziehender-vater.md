@@ -2,6 +2,8 @@
 title: "Dating als alleinerziehender Vater: Guide für den Neustart (2026)"
 description: "Dating als Single Dad: Von der Kinderbetreuung über Timing bis Ehrlichkeit. Wie du Liebe findest, ohne dein Kind zu vernachlässigen."
 date: 2026-04-01
+image: "/images/blog/dating-als-alleinerziehender-vater.webp"
+imageAlt: "Dating Als Alleinerziehender Vater"
 tags:
   - "Dating"
   - "Partnersuche"

@@ -2,6 +2,8 @@
 title: "Eifersucht Test: Wie eifersüchtig bist du wirklich? (2026)"
 description: "Eifersucht test für Selbstcheck: Entdecke dein echtes Eifersuchtslevel. Mit 20 Fragen & praktischen Tipps zur Überwindung von krankhafter Eifersucht."
 date: 2026-04-01
+image: "/images/blog/eifersuchts-test-selbstcheck.webp"
+imageAlt: "Eifersuchts Test Selbstcheck"
 tags:
   - "Psychologie"
   - "Selbstliebe"

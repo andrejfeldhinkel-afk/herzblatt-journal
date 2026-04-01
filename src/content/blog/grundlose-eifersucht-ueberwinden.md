@@ -2,6 +2,8 @@
 title: "Grundlose Eifersucht überwinden: Wenn Vertrauen fehlt (2026)"
 description: "Grundlose Eifersucht vergiftet Beziehungen. Erkenne die Wurzeln und lerne konkrete Techniken, um dein Vertrauen wiederherzustellen."
 date: 2026-04-01
+image: "/images/blog/grundlose-eifersucht-ueberwinden.webp"
+imageAlt: "Grundlose Eifersucht Ueberwinden"
 tags:
   - "Psychologie"
   - "Vertrauen"

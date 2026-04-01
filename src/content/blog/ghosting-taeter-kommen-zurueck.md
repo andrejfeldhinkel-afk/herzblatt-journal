@@ -2,6 +2,8 @@
 title: "Kommen Ghoster zurück? Warum sie es tun & wie du reagierst (2026)"
 description: "Kommen Ghoster zurück? Psychologische Gründe, wann sie Kontakt aufnehmen und wie du richtig reagierst — ohne dich selbst zu schaden."
 date: 2026-04-01
+image: "/images/blog/ghosting-taeter-kommen-zurueck.webp"
+imageAlt: "Ghosting Taeter Kommen Zurueck"
 tags:
   - "Dating"
   - "Psychologie"

@@ -2,6 +2,8 @@
 title: "Beziehung & Depression: Wenn der Partner depressiv ist (2026)"
 description: "So unterstützt du einen depressiven Partner: Grenzen setzen, Selbstfürsorge praktizieren, gemeinsam durch die Krise gehen."
 date: 2026-04-01
+image: "/images/blog/beziehung-depression-partner.webp"
+imageAlt: "Beziehung Depression Partner"
 tags:
   - "Beziehung"
   - "Psychologie"

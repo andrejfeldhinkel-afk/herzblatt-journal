@@ -2,6 +2,8 @@
 title: "Online Dating Tipps für Frauen: Sicher & erfolgreich daten (2026)"
 description: "Sichere Online-Dating-Tipps für Frauen: Profil erstellen, Sicherheit gewährleisten, rote Flaggen erkennen & deine Standards setzen"
 date: 2026-04-01
+image: "/images/blog/online-dating-tipps-frauen.webp"
+imageAlt: "Online Dating Tipps Frauen"
 tags:
   - "Dating"
   - "Online-Dating"

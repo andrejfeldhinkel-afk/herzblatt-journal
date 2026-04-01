@@ -2,6 +2,8 @@
 title: "Keine Lust auf Sex in der Beziehung: Ursachen & Lösungen (2026)"
 description: "Warum fehlt die Lust auf Sex? Entdecke die Ursachen von Lustlosigkeit und praktische Lösungen für mehr Intimität in deiner Beziehung."
 date: 2026-04-01
+image: "/images/blog/keine-lust-auf-sex-beziehung.webp"
+imageAlt: "Keine Lust Auf Sex Beziehung"
 tags: ["Beziehung", "Intimität", "Gesundheit"]
 keywords: ["keine lust auf sex beziehung", "lustlosigkeit beziehung", "sexuelle unlust"]
 draft: false

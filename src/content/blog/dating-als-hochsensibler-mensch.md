@@ -2,6 +2,8 @@
 title: "Dating als hochsensibler Mensch: Guide für HSP (2026)"
 description: "Dating als hochsensibler Mensch (HSP): Verstehe deine Hochsensibilität, nutze deine Stärken beim Dating und finde einen Partner, der deine Sensibilität schätzt."
 date: 2026-04-01
+image: "/images/blog/dating-als-hochsensibler-mensch.webp"
+imageAlt: "Dating Als Hochsensibler Mensch"
 tags: ["Dating", "Psychologie"]
 keywords: ["dating hochsensibel", "hochsensibler mensch dating", "hsp dating tipps"]
 draft: false

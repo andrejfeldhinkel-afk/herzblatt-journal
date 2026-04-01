@@ -2,6 +2,8 @@
 title: "Eheversprechen schreiben: Anleitung & Beispiele die berühren (2026)"
 description: "Lerne, wie du persönliche Eheversprechen schreibst, die von Herzen kommen. Mit Anleitung, Tipps und berührenden Beispielen für deinen großen Tag."
 date: 2026-04-01
+image: "/images/blog/eheversprechen-schreiben-tipps.webp"
+imageAlt: "Eheversprechen Schreiben Tipps"
 tags: ["Beziehung", "Lifestyle"]
 keywords: ["eheversprechen schreiben", "eheversprechen vorlage", "ehegelübde beispiele"]
 draft: false
