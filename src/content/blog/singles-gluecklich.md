@@ -220,7 +220,7 @@ Für mehr zu Selbstliebe und Selbstvertrauen, schau dir unseren Guide zu [Selbst
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/aktives-zuhoeren-beziehung-ueben/) zu [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten), [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/aktives-zuhoeren-beziehung-ueben/) zu [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten), [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden).## Weiterlesen
 
 - [Glücklich Single sein – Warum Alleinsein kein Problem ist](/blog/single-gluecklich-sein/)
 - [Emotionale Abhängigkeit überwinden: Unabhängigkeit](/blog/emotionale-abhaengigkeit/)

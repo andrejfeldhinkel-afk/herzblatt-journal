@@ -95,7 +95,7 @@ Sie vergleichen dich mit Exen oder andere Menschen. Sie fragen sich, ob es "Bess
 
 Das ist wichtig zu verstehen, weil es verwandt ist, aber nicht das gleiche.
 
-Avoidant attachment ist ein Bindungsstil aus der Kindheit. Wenn ein Parent emotional nicht verfügbar war — sie waren körperlich present, aber nicht emotional verbunden — entwickelt das Kind einen avoidant Bindungsstil. Sie lernt, dass Nähe nicht sicher ist. Sie wird unkomfortabel mit emotionaler Nähe. Sie wird Raum bevorzugen.
+Avoidant attachment ist ein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) aus der Kindheit. Wenn ein Parent emotional nicht verfügbar war — sie waren körperlich present, aber nicht emotional verbunden — entwickelt das Kind einen avoidant Bindungsstil. Sie lernt, dass Nähe nicht sicher ist. Sie wird unkomfortabel mit emotionaler Nähe. Sie wird Raum bevorzugen.
 
 Commitment Phobia ist anders. Das ist spezifisch eine Angst vor Commitment. Eine Person mit secure attachment kann Commitment Phobia entwickeln, wenn sie ein Vertrauens-Bruch oder eine traumatische Beziehung hat. Eine Person mit avoidant attachment wird wahrscheinlich auch Commitment Phobia haben, aber nicht alle Menschen mit Commitment Phobia haben avoidant attachment.
 

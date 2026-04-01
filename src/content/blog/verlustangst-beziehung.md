@@ -67,7 +67,7 @@ Der erste Schritt zur Heilung ist zu akzeptieren, dass Menschen fehlbar sind. Ei
 
 ## Das Attachment-System verstehen
 
-Deine Verlustangst ist nicht einfach "Angst". Es ist ein Bindungsmuster, das sich in der frühen Kindheit formte. Forscher nennen das "anxious attachment" oder "ängstlicher Bindungsstil".
+Deine Verlustangst ist nicht einfach "Angst". Es ist ein Bindungsmuster, das sich in der frühen Kindheit formte. Forscher nennen das "anxious attachment" oder "ängstlicher [Bindungsstil](/blog/avoidant-attachment-beziehung-guide)".
 
 Menschen mit diesem Bindungsstil brauchen konstante Nähe und Bestätigung. Sie werden von Trennung – auch kurzzeitig – angespannt. Wenn der Partner längere Zeit nicht antwortet, geraten sie in Panik. Der Grund: Das System, das dich als Baby mit der Mutter verband, funktioniert immer noch auf "höchster Alarmstufe."
 

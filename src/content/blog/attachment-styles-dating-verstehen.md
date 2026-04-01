@@ -23,7 +23,7 @@ author: "thomas-peters"
 ---
 ## Was sind Attachment Styles und warum sind sie wichtig?
 
-Hast du dich jemals gefragt, warum du in Beziehungen immer wieder in dieselben Muster verfällst? Warum du bei manchen Menschen sofort Vertrauen fasst und bei anderen instinktiv auf Distanz gehst? Die Antwort könnte in deinem Bindungsstil liegen.
+Hast du dich jemals gefragt, warum du in Beziehungen immer wieder in dieselben Muster verfällst? Warum du bei manchen Menschen sofort Vertrauen fasst und bei anderen instinktiv auf Distanz gehst? Die Antwort könnte in deinem [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) liegen.
 
 Die Bindungstheorie, ursprünglich von John Bowlby und Mary Ainsworth entwickelt, beschreibt, wie unsere frühkindlichen Erfahrungen mit Bezugspersonen unser späteres Beziehungsverhalten prägen. Was in der Psychologie als Attachment Styles bekannt ist, beeinflusst nicht nur unsere romantischen Beziehungen, sondern auch wie wir flirten, daten und auf emotionale Nähe reagieren.
 

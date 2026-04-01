@@ -30,7 +30,7 @@ Graz ist nicht Berlin, nicht Wien – und das ist sein großes Geheimnis. Die st
 
 Graz unterscheidet sich von größeren Städten durch eine besondere Leichtigkeit. Die Menschen hier sind freundlich, aufgeschlossen und nicht in einer ständigen Eile. Das macht sich auch beim Dating bemerkbar. Die Grazerinnen und Grazer nehmen sich Zeit füreinander, mögen tiefgründige Gespräche, und eine gute Portion Humor ist definitiv willkommen.
 
-Die Stadt ist geprägt von drei großen Faktoren: der Geschichte (UNESCO-Altstadt), der Kulinarik (Genusshauptstadt) und der studentischen Jugendlichkeit (rund 45.000 Studierende von rund 300.000 Einwohnern). Das bedeutet für Singles, dass es unzählige Gelegenheiten zum Kennenlernen gibt. Ob beim zufälligen Treffen im Café, durch gemeinsame Freunde auf einem Event oder durch Dating-Apps – in Graz passieren Verbindungen einfach.
+Die Stadt ist geprägt von drei großen Faktoren: der Geschichte (UNESCO-Altstadt), der Kulinarik (Genusshauptstadt) und der studentischen Jugendlichkeit (rund 45.000 Studierende von rund 300.000 Einwohnern). Das bedeutet für Singles, dass es unzählige Gelegenheiten zum [Kennenlernen](/blog/dating-fragen-kennenlernen) gibt. Ob beim zufälligen Treffen im Café, durch gemeinsame Freunde auf einem Event oder durch Dating-Apps – in Graz passieren Verbindungen einfach.
 
 Ein großer Vorteil: Die Stadt ist überschaubar. Du triffst Menschen wieder, es entwickelt sich eine gewisse Kontinuität. Und ja, es gibt die typische "du kennst jeden"-Situation, aber das macht das Ganze auch irgendwie charmant und persönlicher.
 

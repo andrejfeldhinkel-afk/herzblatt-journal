@@ -91,7 +91,7 @@ Der erste Schritt, die Ablehnung-Angst zu überwinden, ist zu verstehen, wo sie 
 
 Das ist nicht esoterisch. Das ist Wissenschaft. Es gibt verschiedene Bindungsstile, die du in der Kindheit entwickelt hast:
 
-**Sicherer Bindungsstil**: Du wurdest von deinen Eltern bedingungslos geliebt. Du weißt, dass du liebens wert bist, auch wenn du fehler machst. Deine Ablehnung-Angst ist gering.
+**Sicherer [Bindungsstil](/blog/avoidant-attachment-beziehung-guide)**: Du wurdest von deinen Eltern bedingungslos geliebt. Du weißt, dass du liebens wert bist, auch wenn du fehler machst. Deine Ablehnung-Angst ist gering.
 
 **Vermeidender Bindungsstil**: Deine Eltern waren emotional distanziert. Du hast gelernt: Nähe ist gefährlich. Du vermeidest also Nähe und Verletzlichkeit. Du schützt dich, indem du dich distanzierst.
 

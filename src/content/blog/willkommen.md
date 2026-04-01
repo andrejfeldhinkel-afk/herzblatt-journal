@@ -58,7 +58,7 @@ Gute Frage. Es gibt viele Blogs zum Thema Liebe und Beziehungen. Aber Herzblatt 
 
 Wenn du durch Herzblatt Journal stöberst, wirst du Artikel in verschiedenen Kategorien finden:
 
-### Dating und Kennenlernen
+### Dating und [Kennenlernen](/blog/dating-fragen-kennenlernen)
 
 In dieser Kategorie geht es um die Anfänge. Wie schreibst du beim Online-Dating an? Wie machst du das erste Treffen nicht zu stressig? Was ist emotional verfügbar und warum ist das wichtig? Wir helfen dir, die Dating-Phase mit Selbstbewusstsein zu meistern.
 

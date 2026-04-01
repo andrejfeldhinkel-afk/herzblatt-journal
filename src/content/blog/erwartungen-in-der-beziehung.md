@@ -469,7 +469,7 @@ Das Problem ist: Diese Erwartungen basieren auf Chemie, nicht auf Realität. Wen
 
 Das ist okay. Das ist normal. Der Trick ist, während dieser Zeit bereits die Grundlagen zu schaffen. Sprecht über Erwartungen. Stellt Fragen. Testet die Kompatibilität.
 
-**Phase 2: Das Kennenlernen (6 Monate - 2 Jahre)**
+**Phase 2: Das [Kennenlernen](/blog/dating-fragen-kennenlernen) (6 Monate - 2 Jahre)**
 
 Jetzt lernst du den echten Menschen kennen. Er ist nicht perfekt. Sie hat Macken. Sie haben unterschiedliche Essensgewohnheiten. Sie mögen unterschiedliche Musik.
 

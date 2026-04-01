@@ -39,7 +39,7 @@ Das beste Fundament für jede [beziehung](/blog/adhs-und-beziehung-komplett-guid
 
 ### 2. Sport und Fitness
 
-**Sportkurse** sind fantastisch zum Kennenlernen:
+**Sportkurse** sind fantastisch zum [Kennenlernen](/blog/dating-fragen-kennenlernen):
 - Yoga-Kurse
 - CrossFit oder Fitnessstudio-Gruppen
 - Lauftreffs

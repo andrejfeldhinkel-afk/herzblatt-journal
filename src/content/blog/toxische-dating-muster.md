@@ -42,7 +42,7 @@ Die Wahrheit: Du vermeidest, dich um dich selbst zu kümmern, indem du dich um a
 
 Du verliebst dich immer in Menschen, die dir nicht die gleiche Energie zurückgeben. Sie antworten spät, machen keine Pläne, halten dich auf Distanz. Und genau das macht sie interessant.
 
-Dahinter steckt oft ein unsicherer Bindungsstil. Die Distanz fühlt sich vertraut an, weil du sie als Kind erlebt hast.
+Dahinter steckt oft ein unsicherer [Bindungsstil](/blog/avoidant-attachment-beziehung-guide). Die Distanz fühlt sich vertraut an, weil du sie als Kind erlebt hast.
 
 **So durchbrichst du es:** Gib Menschen eine Chance, die dir von Anfang an zeigen, dass sie interessiert sind. Wenn sich „langweilig" anfühlt, ist das möglicherweise „gesund".
 

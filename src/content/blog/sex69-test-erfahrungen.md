@@ -118,7 +118,7 @@ Sex69 bietet über das reine Matching hinaus auch Community-Elemente:
 - **Content-Sharing**: Nutzer können Bilder, Gedanken und Erfahrungen teilen
 - **Bewertungen & Reviews**: Nach Treffen können sich Nutzer gegenseitig bewerten
 
-Dies schafft eine soziale Komponente, die über reines Matching hinausgeht und das Kennenlernen vielseitiger macht. Viele Nutzer schätzen diese Community-Aspekte, da sie zeigen, dass Sex69 nicht nur ein reines „Hook-up"-Portal ist, sondern tatsächlich ein Ort für Menschen mit gemeinsamen Interessen.
+Dies schafft eine soziale Komponente, die über reines Matching hinausgeht und das [Kennenlernen](/blog/dating-fragen-kennenlernen) vielseitiger macht. Viele Nutzer schätzen diese Community-Aspekte, da sie zeigen, dass Sex69 nicht nur ein reines „Hook-up"-Portal ist, sondern tatsächlich ein Ort für Menschen mit gemeinsamen Interessen.
 
 ### Diskretion und Privatsphäre — Ein Kernpfeiler
 

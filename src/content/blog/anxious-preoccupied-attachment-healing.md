@@ -40,7 +40,7 @@ Das ist Anxious-Preoccupied Bindung.
 
 Es ist nicht Unsicherheit im klassischen Sinne. Es ist nicht, dass du nicht selbstbewusst bist oder dass du nicht weißt, dass du gut bist. Es ist dass dein Bindungssystem ist überaktiviert.
 
-Bindung ist ein neurologisch eingebettetes System. Es wurde in der Kindheit geprägt, basierend auf wie konsistent deine primären Bezugspersonen waren. Wenn deine Eltern konsistent, verfügbar und responsiv waren, entwickeltest du einen "sicheren" Bindungsstil.
+Bindung ist ein neurologisch eingebettetes System. Es wurde in der Kindheit geprägt, basierend auf wie konsistent deine primären Bezugspersonen waren. Wenn deine Eltern konsistent, verfügbar und responsiv waren, entwickeltest du einen "sicheren" [Bindungsstil](/blog/avoidant-attachment-beziehung-guide).
 
 Aber wenn deine Eltern inkonsistent waren – manchmal verfügbar, manchmal nicht; manchmal liebevoll, manchmal kalt – dann entwickeltest du einen unsicheren Bindungsstil.
 

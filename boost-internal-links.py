@@ -41,6 +41,10 @@ RANKING_ARTICLES = {
     "beziehung retten": "beziehung-retten-kompletter-guide",
     "on-off beziehung": "on-off-beziehung-beenden",
     "fremdgehen verzeihen": "fremdgehen-verzeihen-kompletter-guide",
+    "toxische beziehung": "toxische-beziehungen-komplett-guide",
+    "silent treatment": "silent-treatment-beziehung",
+    "fragen zum kennenlernen": "dating-fragen-kennenlernen",
+    "vermeidender bindungsstil": "avoidant-attachment-beziehung-guide",
 }
 
 # Keywords that should link to ranking articles
@@ -72,6 +76,10 @@ LINK_MAP = {
     "Beziehung retten": "/blog/beziehung-retten-kompletter-guide",
     "On-Off Beziehung": "/blog/on-off-beziehung-beenden",
     "Fremdgehen": "/blog/fremdgehen-verzeihen-kompletter-guide",
+    "toxische Beziehung": "/blog/toxische-beziehungen-komplett-guide",
+    "Silent Treatment": "/blog/silent-treatment-beziehung",
+    "Kennenlernen": "/blog/dating-fragen-kennenlernen",
+    "Bindungsstil": "/blog/avoidant-attachment-beziehung-guide",
 }
 
 # Slugs of ranking articles (don't add self-links)

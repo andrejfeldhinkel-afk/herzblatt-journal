@@ -574,7 +574,7 @@ Der beste Weg zu denken ist: Ich arbeite an dies für den Rest meines Lebens. Ni
 
 ## Weiterlesen
 
-- [Unsicheren Bindungsstil heilen: Schritt für Schritt](/blog/attachment-healing-guide/)
+- [Unsicheren [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) heilen: Schritt für Schritt](/blog/attachment-healing-guide/)
 - [Die Biochemie der Liebe: Was in deinem Gehirn passiert, wenn](/blog/biochemie-der-liebe-guide/)
 - [Die 4 Beziehungstypen – Welcher bist du?](/blog/beziehungstypen-psychologie/)
 - [Männer verstehen: Die komplette Psychologie hinter](/blog/maenner-verstehen-psychologie/)

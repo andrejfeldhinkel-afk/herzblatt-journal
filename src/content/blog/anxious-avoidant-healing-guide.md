@@ -27,7 +27,7 @@ Wenn du dich hier findest, möchte ich dir zuerst etwas sagen: Das ist nicht dei
 
 Bevor wir reden, wie man das heilt, müssen wir verstehen, was da los ist.
 
-### Der ängstliche Bindungsstil (Anxious Attachment)
+### Der ängstliche [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) (Anxious Attachment)
 
 Wenn du einen ängstlichen Bindungsstil hast, dann teilst du folgende Merkmale:
 

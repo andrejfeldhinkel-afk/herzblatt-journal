@@ -31,7 +31,7 @@ Wien ist nicht umsonst eine der romantischsten Städte Europas. Mit ihrer elegan
 
 Bevor du dich in die Dating-Abenteuer Wiens stürzt, solltest du die lokale Mentalität verstehen. Wienerinnen und Wiener sind bekannt für ihren feinen Humor und ihre charakteristische Wiener Schmäh. Das ist kein Zeichen von Desinteresse, sondern Teil der Wiener DNA. Ein bisschen Sarcasmus gehört hier einfach dazu – und wer damit umgehen kann, hat bereits gewonnen.
 
-Die **Kaffeehauskultur** ist das Herz des Wiener Lebens. Hier wird nicht einfach nur Kaffee getrunken; es ist ein Lebensgefühl, eine Tradition, die bis ins 19. Jahrhundert zurückreicht. Ein erstes Date bei einer Tasse Melange oder Mokka ist daher absolut authentisch und schafft eine entspannte Atmosphäre zum Kennenlernen.
+Die **Kaffeehauskultur** ist das Herz des Wiener Lebens. Hier wird nicht einfach nur Kaffee getrunken; es ist ein Lebensgefühl, eine Tradition, die bis ins 19. Jahrhundert zurückreicht. Ein erstes Date bei einer Tasse Melange oder Mokka ist daher absolut authentisch und schafft eine entspannte Atmosphäre zum [Kennenlernen](/blog/dating-fragen-kennenlernen).
 
 Außerdem schätzen Wienerinnen und Wiener Authentizität und lokales Wissen. Wer die versteckten Ecken der Stadt kennt und nicht einfach nur die typischen Touristenpfade abläuft, macht definitiv Eindruck. Also: Geheimtipps sind willkommen!
 

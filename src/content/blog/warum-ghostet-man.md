@@ -39,7 +39,7 @@ Hier muss ich eine Unterscheidung treffen: Es gibt bewusstes Ghosting und unbewu
 
 Aber auch das unbewusste Ghosting ist ein Zeichen. Es zeigt, dass die andere Person dir nicht wichtig genug ist, um eine Nachricht zu priorisieren. Sie vergisst dich nicht, weil sie beschäftigt ist — sie vergisst dich, weil du für sie keine Priorität bist. Das mag weniger böse klingen, aber das Ergebnis ist dasselbe für dich: Schmerz und Verwirrung.
 
-## Welcher Bindungsstil ghostet am häufigsten?
+## Welcher [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) ghostet am häufigsten?
 
 Menschen mit unsicher-vermeidendem Bindungsstil sind häufiger Ghoster. Sie haben Angst vor Nähe und Verbindlichkeit, also verschwinden sie, wenn es ernst wird. Menschen mit anxious-ambivalentem Bindungsstil ghosten weniger, aber wenn sie es tun, dann aus Impulsivität oder Drama.
 

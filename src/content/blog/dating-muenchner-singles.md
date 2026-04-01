@@ -272,7 +272,7 @@ Bayerische Tradition und lokale Identität sind immer noch wichtig und prägen d
 
 ## Fazit: München als Dating-Destination und Ort der Begegnung
 
-München ist nicht nur eine wunderbare und lebenswerte Stadt zum Leben, sondern auch ein erstaunlicher, vielfältiger Ort zum Dating und Kennenlernen. Mit über 25 verschiedenen Locations und unzähligen Möglichkeiten, von traditionellen Biergärten über moderne Cocktail-Bars bis zu wunderschönen Parks und kulturellen Einrichtungen, hast du unendlich viele Optionen, mit jemandem interessante Zeit zu verbringen.
+München ist nicht nur eine wunderbare und lebenswerte Stadt zum Leben, sondern auch ein erstaunlicher, vielfältiger Ort zum Dating und [Kennenlernen](/blog/dating-fragen-kennenlernen). Mit über 25 verschiedenen Locations und unzähligen Möglichkeiten, von traditionellen Biergärten über moderne Cocktail-Bars bis zu wunderschönen Parks und kulturellen Einrichtungen, hast du unendlich viele Optionen, mit jemandem interessante Zeit zu verbringen.
 
 Der Schlüssel zu erfolgreichen Dates ist, den Ort basierend auf deinem Date, euren gemeinsamen Interessen und der Phase eurer Kennenlern-Reise zu wählen. Ein erstes Date könnte im entspannten, ungezwungenen Biergarten sein, während ein drittes oder viertes Date im gehobenen Restaurant mit gutem Service völlig angemessen und natürlich ist.
 

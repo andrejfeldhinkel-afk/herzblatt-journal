@@ -181,7 +181,7 @@ Großartige Paare sind nicht Menschen, die nie falsch sprechen. Sie sind Mensche
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
 
 - [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
 - [Beziehung & Social Media: Zwischen Eifersucht digitaler Nähe](/blog/beziehung-social-media/)

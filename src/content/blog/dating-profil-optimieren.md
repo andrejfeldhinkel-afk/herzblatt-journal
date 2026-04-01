@@ -31,7 +31,7 @@ Dein erstes Foto ist mit Abstand das wichtigste Element deines Profils. Es entsc
 
 Natürlichkeit gewinnt. Professionelle Fotoshootings in gestellten Posen wirken auf Dating-Apps deplatziert. Was funktioniert: ein echtes Lächeln, Tageslicht und eine Umgebung, die etwas über dich verrät. Ein Foto beim Wandern, in deiner Lieblingsbar oder mit deinem Hund erzählt eine Geschichte, die ein Studiofoto vor weißem Hintergrund nie erzählen kann.
 
-Zeig dein Gesicht klar und deutlich. Sonnenbrillen, Hüte, die das halbe Gesicht verdecken, und extreme Filtereffekte wecken Misstrauen. Menschen wollen sehen, wen sie treffen werden. Wenn dein Hauptbild nicht zeigt, wie du tatsächlich aussiehst, beginnt das Kennenlernen mit einer kleinen Täuschung.
+Zeig dein Gesicht klar und deutlich. Sonnenbrillen, Hüte, die das halbe Gesicht verdecken, und extreme Filtereffekte wecken Misstrauen. Menschen wollen sehen, wen sie treffen werden. Wenn dein Hauptbild nicht zeigt, wie du tatsächlich aussiehst, beginnt das [Kennenlernen](/blog/dating-fragen-kennenlernen) mit einer kleinen Täuschung.
 
 Lächle. Klingt banal, macht aber einen enormen Unterschied. Studien zeigen, dass lächelnde Profilbilder deutlich mehr positive Reaktionen bekommen als ernste oder coole Blicke. Ein echtes Lächeln signalisiert Offenheit, Wärme und die Bereitschaft, eine gute Zeit zu haben.
 

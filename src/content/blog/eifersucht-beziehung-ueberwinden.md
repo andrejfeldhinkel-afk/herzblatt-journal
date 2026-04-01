@@ -38,7 +38,7 @@ Bevor du gegen Eifersucht ankämpfst, musst du verstehen, woher sie kommt. Es gi
 
 **Geringes Selbstwertgefühl:** Wenn du dir selbst nicht genug wert bist, fragst du dich ständig: Warum sollte mich jemand wählen? Diese Unsicherheit projiziert sich auf die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) und erzeugt ständige Angst.
 
-**Bindungsstil:** Menschen mit unsicherem Bindungsstil neigen stärker zu Eifersucht. Wenn du als Kind gelernt hast, dass Nähe unsicher ist, trägst du dieses Muster in deine erwachsenen Beziehungen.
+**[Bindungsstil](/blog/avoidant-attachment-beziehung-guide):** Menschen mit unsicherem Bindungsstil neigen stärker zu Eifersucht. Wenn du als Kind gelernt hast, dass Nähe unsicher ist, trägst du dieses Muster in deine erwachsenen Beziehungen.
 
 ## 7 Strategien gegen Eifersucht
 

@@ -152,7 +152,7 @@ Ihre Sicherheit und mentale Gesundheit sind nicht verhandelbar. Eine echte Liebe
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/aktives-zuhoeren-beziehung-ueben/) zu [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten), [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/aktives-zuhoeren-beziehung-ueben/) zu [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten), [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden).## Weiterlesen
 
 - [Red Flags bei Männern – 15 Warnsignale beim Dating](/blog/dating-red-flags-maenner/)
 - [5 toxische Dating-Muster, die du sofort durchbrechen](/blog/toxische-dating-muster/)

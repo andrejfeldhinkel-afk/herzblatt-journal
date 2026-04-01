@@ -220,7 +220,7 @@ Das **Brauerei Restaurant Lübeck** ist eine Craft-Beer-Brauerei mit lebendiger 
 
 ### Clubs und Nachtleben
 
-Das **Drehbar** ist ein Club mit guter DJ-Musik und vielen jungen Menschen. Die Atmosphäre ist Party, aber auch zum Kennenlernen.
+Das **Drehbar** ist ein Club mit guter DJ-Musik und vielen jungen Menschen. Die Atmosphäre ist Party, aber auch zum [Kennenlernen](/blog/dating-fragen-kennenlernen).
 
 Das **Kunsthof** ist ein kultiger Club mit alternativerer Musik und Kunstgallerie-Feeling.
 

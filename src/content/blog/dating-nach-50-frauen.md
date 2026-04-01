@@ -58,7 +58,7 @@ Viele Frauen sagen, dass die beste Überraschung beim Dating mit 50+ ist, dass s
 
 Wenn du lange nicht mehr gedatet hast, kann das erste Date nervenaufreibend sein. Das ist normal. Wähle einen öffentlichen Ort, teile die Informationen mit einer Freundin und bleib entspannt.
 
-Denk dran: Ein Date ist ein gegenseitiges Kennenlernen. Du schaust ihn genauso kritisch an wie er dich. Du brauchst dich nicht zu verkaufen. Wenn es nicht passt, ist das völlig in Ordnung.
+Denk dran: Ein Date ist ein gegenseitiges [Kennenlernen](/blog/dating-fragen-kennenlernen). Du schaust ihn genauso kritisch an wie er dich. Du brauchst dich nicht zu verkaufen. Wenn es nicht passt, ist das völlig in Ordnung.
 
 ## Mit Ablehnung umgehen
 

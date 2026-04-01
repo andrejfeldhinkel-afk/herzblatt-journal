@@ -52,7 +52,7 @@ Die Generation Z und älter werdende Millennials verlangen Authentizität. Sie h
 
 4. **Regelmäßig nachchecken**: Clear-Coding ist nicht einmalig. Nach 3-4 Wochen: "Wie fühlst du dich, wo sind wir gerade?" — Diese Frage erspart dir Monaten von Missverständnissen.
 
-## 2. Slow Dating: Bewusstes, langsames Kennenlernen
+## 2. Slow Dating: Bewusstes, langsames [Kennenlernen](/blog/dating-fragen-kennenlernen)
 
 ### Was ist Slow Dating?
 

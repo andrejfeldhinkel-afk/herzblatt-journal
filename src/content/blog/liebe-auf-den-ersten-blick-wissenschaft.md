@@ -211,7 +211,7 @@ Es ist wichtig zu verstehen, dass die Geschwindigkeit, mit der du dich verliebt,
 
 ### Schnelle Verliebte und Bindungstypen — Attachment Matters
 
-Menschen mit einem sicheren Bindungsstil neigen dazu, schneller zu vertrauen und sich früher zu verlieben. Wenn deine Eltern verlässlich waren, wenn deine Beziehungsgeschichte positiv war, dann hast du gelernt, dass Menschen sicher sind. Du kannst dich dem hingeben.
+Menschen mit einem sicheren [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) neigen dazu, schneller zu vertrauen und sich früher zu verlieben. Wenn deine Eltern verlässlich waren, wenn deine Beziehungsgeschichte positiv war, dann hast du gelernt, dass Menschen sicher sind. Du kannst dich dem hingeben.
 
 Menschen mit einem unsicheren oder gehemmten Bindungsstil brauchen länger. Wenn dein Elternteil unvorhersehbar waren, wenn du emotional vernachlässigt wurdest, lernst du, vorsichtig zu sein. Dein Gehirn wurde verdrahtet, um zu warten, zu beobachten, zu testen, bevor du verletzlich wirst. Das ist eine Überlebensfähigkeit aus einer unsicheren Kindheit.
 

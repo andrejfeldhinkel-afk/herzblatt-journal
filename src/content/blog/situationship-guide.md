@@ -191,7 +191,7 @@ Detaillierte Infos bietet Caritas Beratung: [Caritas Beratung](https://www.carit
 
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
 - [Anxious-Avoidant Healing: Wie ängstliche und vermeidende](/blog/anxious-avoidant-healing-guide/)
-- [Unsicheren Bindungsstil heilen: Schritt für Schritt](/blog/attachment-healing-guide/)
+- [Unsicheren [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) heilen: Schritt für Schritt](/blog/attachment-healing-guide/)
 - [Autismus und Dating: Liebe finden auf dem Spektrum](/blog/autismus-und-dating-guide/)
 - [Beige Flags — Die langweiligen Warnsignale beim Dating](/blog/beige-flags-dating-guide/)
 ## FAQ – Situationship

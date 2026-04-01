@@ -140,7 +140,7 @@ Dies ist dein Text-Fenster. Bei Tinder sind es etwa 500 Zeichen. Bei Bumble und 
 Das funktioniert, weil es spezifisch ist (kommentiert beim Film), zeigt Persönlichkeit (Katzen-Mom), und hat eine humorvolle Kante (das Ananas-Ding). Menschen können antworten mit "Okay, aber Ananas auf Pizza??" und schon habt ihr ein Gespräch.
 
 **Der ernsthaft-romantische Typ:**
-"Ich glaube, dass tiefe Gespräche über alles Mögliche (Philosophie, Träume, Angst, Liebe) das beste Teil von einem neuen Kennenlernen sind. Bergwanderin. Kreative. Suche nach: echte Verbindung."
+"Ich glaube, dass tiefe Gespräche über alles Mögliche (Philosophie, Träume, Angst, Liebe) das beste Teil von einem neuen [Kennenlernen](/blog/dating-fragen-kennenlernen) sind. Bergwanderin. Kreative. Suche nach: echte Verbindung."
 
 Warum das funktioniert? Es ist ehrlich über das, was sie sucht. Es zeigt, was ihr wichtig ist. Menschen, die auch Tiefe wollen, werden reagieren.
 

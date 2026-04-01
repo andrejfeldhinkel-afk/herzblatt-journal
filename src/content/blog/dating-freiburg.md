@@ -95,7 +95,7 @@ Es gibt viele Sportclubs, die regelmäßig trainieren.
 
 ### Events
 
-Kunstfestivale, Musik-Events, Märkte. Freiburg ist lebendig. Das sind gute Orte zum Kennenlernen.
+Kunstfestivale, Musik-Events, Märkte. Freiburg ist lebendig. Das sind gute Orte zum [Kennenlernen](/blog/dating-fragen-kennenlernen).
 
 Die Uni veranstaltet viele Events.
 

@@ -64,7 +64,7 @@ Ein ehrliches, spezifisches Kompliment wirkt stärker als zehn generische. "Du h
 
 ### 9. Kein Druck
 
-Ein erstes Date ist ein Kennenlernen, keine Bewerbung. Ihr müsst nicht herausfinden, ob ihr heiraten wollt. Genießt den Moment und schaut, ob die Chemie stimmt.
+Ein erstes Date ist ein [Kennenlernen](/blog/dating-fragen-kennenlernen), keine Bewerbung. Ihr müsst nicht herausfinden, ob ihr heiraten wollt. Genießt den Moment und schaut, ob die Chemie stimmt.
 
 ### 10. Das Date schön beenden
 

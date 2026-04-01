@@ -262,7 +262,7 @@ Besonders positiv: Die Gespräche entwickelten sich natürlicher und schneller a
 
 ### Woche 4: Erste Daten und Fazit
 
-Die Qualität der Dates war überdurchschnittlich, was wir auf das bessere Vorab-Kennenlernen durch die intensiveren Chats zurückführen. Wenn man jemanden erst mal 30 Nachrichten lang zum Lachen gebracht hat, ist das erste Treffen deutlich entspannter.
+Die Qualität der Dates war überdurchschnittlich, was wir auf das bessere Vorab-[Kennenlernen](/blog/dating-fragen-kennenlernen) durch die intensiveren Chats zurückführen. Wenn man jemanden erst mal 30 Nachrichten lang zum Lachen gebracht hat, ist das erste Treffen deutlich entspannter.
 
 Insgesamt konnte ich in der ersten Woche 2 Treffen vereinbaren, in der zweiten und dritten Woche jeweils 3. In der vierten Woche liefen noch parallele Gespräche. Die Conversion-Rate (vom Chat zur Verabredung) lag bei beeindruckenden 15-20%, während sie bei klassischen Apps eher bei 3-5% liegt.
 

@@ -301,7 +301,7 @@ Es ist okay zu gehen. Das ist nicht Versagen. Das ist Selbstschutz.
 
 ## Integration mit anderen Artikeln
 
-Lerne wie Codependenz mit deinem [Bindungsstil](/blog/attachment-style-aendern-sicher-werden) verbunden ist — oft ist Codependenz eine Ausprägung von ängstlichem Bindungsstil.
+Lerne wie Codependenz mit deinem [Bindungsstil](/blog/attachment-style-aendern-sicher-werden) verbunden ist — oft ist Codependenz eine Ausprägung von ängstlichem [Bindungsstil](/blog/avoidant-attachment-beziehung-guide).
 
 Verstehe auch wie [innere Kindheit-Wunden](/blog/inneres-kind-heilen-beziehung) deine codependente Muster antreiben. Die Wurzeln sind oft dort.
 

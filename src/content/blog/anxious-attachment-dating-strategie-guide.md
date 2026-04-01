@@ -33,7 +33,7 @@ Sie wollen die Nummer wechseln. Du thinkist: „Sie wollen sich nicht mit mir ve
 
 Sie schreiben nicht zurück für zwei Stunden. Und du verfällst in Panik. Vielleicht mögen sie dich nicht. Vielleicht haben sie jemand anderen getroffen. Vielleicht sollte ich eine andere Nachricht schreiben?
 
-Das ist der ängstliche Bindungsstil. Und das Dating mit ihm ist wie das Fahren eines Autos ohne Lenkrad – du bist unausweichlich zum Absturz verurteilt.
+Das ist der ängstliche [Bindungsstil](/blog/avoidant-attachment-beziehung-guide). Und das Dating mit ihm ist wie das Fahren eines Autos ohne Lenkrad – du bist unausweichlich zum Absturz verurteilt.
 
 Aber es gibt gute Nachrichten: Du kannst lernen, anders zu funktionieren.
 

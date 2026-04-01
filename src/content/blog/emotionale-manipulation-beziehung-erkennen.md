@@ -97,7 +97,7 @@ Du fängst an zu zweifeln. War ich falsch? War es 11 oder 2? Du kennst die Antwo
 
 Das ist psychologisch verheerend, weil es dein Vertrauen in deine eigene Wahrnehmung zerstört.
 
-**2. Silent Treatment**
+**2. [Silent Treatment](/blog/silent-treatment-beziehung)**
 
 Der Partner spricht nicht mit dir. Tage, Wochen. Es ist eine Bestrafung für etwas, das du getan hast (oder was er denkt, du hast).
 
@@ -611,7 +611,7 @@ Schütze dich selbst. Mit liebevoller Bestimmtheit.
 
 Die Bindungstheorie, entwickelt von John Bowlby und Mary Ainsworth, bietet einen Schlüssel zum Verständnis, warum Menschen immer wieder in manipulative Beziehungen geraten. Deine Bindungssicherheit — wie sicher oder unsicher du dich in deinen frühen Beziehungen (besonders mit Eltern) gefühlt hast — prägt unbewusst, wen du als Partner wählst.
 
-Wenn du einen unsicheren Bindungsstil hast (sei es anxious — ängstlich/bedürftig — oder avoidant — zurückhaltend/unabhängig), könntest du unbewusst zu manipulativen Partnern hingezogen werden. Ein ängstlicher Bindungsstil könnte dich zu jemandem ziehen, der deine Bedürfnisse nach Bestätigung bestätigt und verwehrt, weil das dein vertrautes "Drama" wiederspiegelt. Ein avoidanter Bindungsstil könnte dich zu jemandem ziehen, der nicht zu emotionale Nähe drängt, aber trotzdem kontrolierend ist.
+Wenn du einen unsicheren [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) hast (sei es anxious — ängstlich/bedürftig — oder avoidant — zurückhaltend/unabhängig), könntest du unbewusst zu manipulativen Partnern hingezogen werden. Ein ängstlicher Bindungsstil könnte dich zu jemandem ziehen, der deine Bedürfnisse nach Bestätigung bestätigt und verwehrt, weil das dein vertrautes "Drama" wiederspiegelt. Ein avoidanter Bindungsstil könnte dich zu jemandem ziehen, der nicht zu emotionale Nähe drängt, aber trotzdem kontrolierend ist.
 
 Das ist nicht "deine Schuld". Es ist ein unbewusstes Muster. Aber wenn du dich wiederholend in manipulative Beziehungen findest, könnte es sich lohnen, mit einem Therapeuten zu arbeiten, um deine Bindungsmuster zu verstehen. Ein sicher gebundenes Selbst ist das beste Werkzeug gegen Manipulation. Wenn du weißt, dass du wert bist, ohne dass jemand dir das sagt, kann ein Manipulator dich nicht mit Entzug von Genehmigung kontrollieren.
 

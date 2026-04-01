@@ -48,7 +48,7 @@ Liebe auf den ersten Blick ist ein Widerspruch in sich. Die Definition von Liebe
 
 Wir sind romantisch. Wir wollen denken, dass die Liebe magisch ist, dass sie nicht erklärbar ist, dass sie dich einfach überkommt.
 
-Die Wahrheit: Liebe ist weniger magisch, aber auch bedeutsamer. Sie wächst. Sie wird gebaut. Sie wird gestärkt durch gemeinsame Momente, Herausforderungen überwunden, tiefe Gespräche und gegenseitiges Kennenlernen.
+Die Wahrheit: Liebe ist weniger magisch, aber auch bedeutsamer. Sie wächst. Sie wird gebaut. Sie wird gestärkt durch gemeinsame Momente, Herausforderungen überwunden, tiefe Gespräche und gegenseitiges [Kennenlernen](/blog/dating-fragen-kennenlernen).
 
 Das ist nicht weniger romantisch. Es ist einfach anders.
 

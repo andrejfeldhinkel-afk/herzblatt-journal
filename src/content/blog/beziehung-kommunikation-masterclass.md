@@ -111,7 +111,7 @@ Versteinerung ist wenn du völlig abschaltest und nicht mehr kommunizierst. Du w
 - Vollständige Stille ("Ich will nicht darüber reden")
 - Widerwille zu antworten oder zu engagieren
 - Sich abwenden oder verlassen
-- Der "Silent Treatment"
+- Der "[Silent Treatment](/blog/silent-treatment-beziehung)"
 - Emotionale Shutdown
 
 Versteinerung verhindert, dass irgendetwas gelöst wird. Es ist eine Form von Kontrolle und emotionaler Ablehnung.

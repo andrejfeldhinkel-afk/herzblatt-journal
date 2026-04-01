@@ -123,7 +123,7 @@ Das ist ein Traum. Aber dein Gehirn glaubt daran. Und es wird danach suchen. Imm
 
 Menschen mit unsicheren Bindungsstilen – besonders der ängstlich-besessene Stil – sind besonders anfällig für Liebessucht. Sie brauchen ständige Versicherung. Sie haben Angst vor Verlust. Sie idealisieren den Partner. Sie sind bereit, ihre Grenzen zu überschreiten, um die Beziehung zu halten.
 
-Ein ängstlich-besessener Bindungsstil entwickelt sich typischerweise, wenn die primäre Bezugsperson (meist die Mutter) manchmal sehr präsent und liebevoll ist, manchmal aber emotional nicht verfügbar oder sogar ablehnt. Das Kind lernt, dass Aufmerksamkeit nicht garantiert ist, sondern verdient werden muss. Es wird ein Experte darin, die Stimmungen des Elternteils zu lesen und sich anzupassen.
+Ein ängstlich-besessener [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) entwickelt sich typischerweise, wenn die primäre Bezugsperson (meist die Mutter) manchmal sehr präsent und liebevoll ist, manchmal aber emotional nicht verfügbar oder sogar ablehnt. Das Kind lernt, dass Aufmerksamkeit nicht garantiert ist, sondern verdient werden muss. Es wird ein Experte darin, die Stimmungen des Elternteils zu lesen und sich anzupassen.
 
 Ein vermeidender Bindungsstil – obwohl oft mit Liebessucht nicht assoziiert – kann auch zu Liebessucht führen, besonders wenn es mit [Bindungsangst](/blog/bindungsangst-komplett-guide) vermischt wird. Diese Menschen vermeiden emotionale Nähe, aber wenn sie jemanden treffen, der sie „durchbrechen" kann, werden sie obsessiv.
 

@@ -32,7 +32,7 @@ Du willst näher ran. Du brauchst diese Nähe wie Luft zum Atmen. Und in dem Mom
 
 Du sehnst dich nach einem Partner, der dir versteht, der bei dir ist. Dann werden seine Nachrichten dir zu viel, sein Interesse fühlt sich wie Ersticken an. Du fragst dich, warum du nicht einfach glücklich sein kannst, wenn jemand für dich da ist.
 
-Das ist nicht deine Schuld. Das ist nicht, weil du "zu kaputt" bist oder "die Liebe nicht verdienst". Das ist ein Bindungsmuster. Und es hat einen Namen: **desorganisierter Bindungsstil**.
+Das ist nicht deine Schuld. Das ist nicht, weil du "zu kaputt" bist oder "die Liebe nicht verdienst". Das ist ein Bindungsmuster. Und es hat einen Namen: **desorganisierter [Bindungsstil](/blog/avoidant-attachment-beziehung-guide)**.
 
 Wenn du diese innere Zerreißerei kennst — diese Ping-Pong-Bewegung zwischen "Bitte bleib" und "Geh weg" — dann ist dieser Artikel für dich geschrieben.
 

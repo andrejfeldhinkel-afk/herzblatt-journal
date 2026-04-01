@@ -78,7 +78,7 @@ Der Grund: Eine Sprachnachricht fühlt sich persönlicher an. Sie ist schneller 
 
 ## Gesprächsthemen: Wovon sprecht ihr?
 
-Hier unterscheiden sich Online-Dating und "echtes" Kennenlernen: Du hast weniger Kontext. Keine Körpersprache, keine Tonalität (außer bei Anrufen), nur Worte.
+Hier unterscheiden sich Online-Dating und "echtes" [Kennenlernen](/blog/dating-fragen-kennenlernen): Du hast weniger Kontext. Keine Körpersprache, keine Tonalität (außer bei Anrufen), nur Worte.
 
 Starke Themen:
 - Gemeinsame Interessen (ohne zu viel vorauszusetzen)

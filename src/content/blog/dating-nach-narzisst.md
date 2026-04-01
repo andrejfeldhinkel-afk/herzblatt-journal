@@ -240,7 +240,7 @@ Du verdienst das. Du bist es wert.
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten), [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten), [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden).## Weiterlesen
 
 - [Dating als hochsensible Person: Liebe mit tieferen Gefühlen](/blog/hochsensibel-dating/)
 - [Silent Treatment in der Beziehung](/blog/silent-treatment-beziehung/)

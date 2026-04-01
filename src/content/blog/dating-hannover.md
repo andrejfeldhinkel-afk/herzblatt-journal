@@ -95,7 +95,7 @@ Das Hannover Kunstfestival ist im Herbst.
 
 ### Sport und Hobby
 
-Laufen, Yoga, Schwimmen – die Seen laden dazu ein. Das sind gute Orte zum Kennenlernen.
+Laufen, Yoga, Schwimmen – die Seen laden dazu ein. Das sind gute Orte zum [Kennenlernen](/blog/dating-fragen-kennenlernen).
 
 Die Szene ist offen und nicht zu kompetitiv.
 

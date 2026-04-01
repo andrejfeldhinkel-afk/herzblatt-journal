@@ -30,7 +30,7 @@ faq:
 ---
 **Du fragst dich immer wieder: Wie lerne ich jemanden kennen, ohne mich bei noch einer Dating-App anzumelden?** Die ehrliche Antwort: Offline-Flirten ist nicht nur möglich, sondern oft deutlich natürlicher und erfolgreicher. Der Grund ist simpel — du triffst Menschen in ihrem echten Element, nicht hinter einem Filter oder einem sorgfältig kuratierten Profil.
 
-Flirten im Alltag funktioniert nicht nach Schema F. Es braucht weder Gimmicks noch Pickup-Lines. Es braucht nur eines: deine Präsenz und deine Aufmerksamkeit. In diesem Guide zeige ich dir 15 konkrete Orte zum Kennenlernen, exakte Gesprächseinstiege und die Körpersprache, die sagt: "Hey, ich bin interessiert, aber nicht bedürftig."
+Flirten im Alltag funktioniert nicht nach Schema F. Es braucht weder Gimmicks noch Pickup-Lines. Es braucht nur eines: deine Präsenz und deine Aufmerksamkeit. In diesem Guide zeige ich dir 15 konkrete Orte zum [Kennenlernen](/blog/dating-fragen-kennenlernen), exakte Gesprächseinstiege und die Körpersprache, die sagt: "Hey, ich bin interessiert, aber nicht bedürftig."
 
 ## Warum Offline-Flirten anders ist
 

@@ -30,7 +30,7 @@ Das ist eine einseitige Beziehung. Und es zerstört dich langsam, unmerklich, bi
 
 Einseitige Beziehungen entstehen aus verschiedenen psychologischen Dynamiken und Mustern. Es ist selten absichtlich böse Wille — es ist komplizierter.
 
-Manchmal ist es tatsächlich emotionales Unvermögen. Die andere Person ist psychologisch nicht in der Lage, sich so zu binden wie du es brauchst. Sie hat vielleicht ihr eigenes Trauma, ihre eigenen emotionalen Herausforderungen, vielleicht einen Bindungsstil, der das Geben blockiert. Sie liebt dich vielleicht, kann aber nicht die emotionale Verfügbarkeit zeigen, die du benötigst.
+Manchmal ist es tatsächlich emotionales Unvermögen. Die andere Person ist psychologisch nicht in der Lage, sich so zu binden wie du es brauchst. Sie hat vielleicht ihr eigenes Trauma, ihre eigenen emotionalen Herausforderungen, vielleicht einen [Bindungsstil](/blog/avoidant-attachment-beziehung-guide), der das Geben blockiert. Sie liebt dich vielleicht, kann aber nicht die emotionale Verfügbarkeit zeigen, die du benötigst.
 
 Manchmal ist es mangelnder Respekt und fehlende Wertschätzung. Die andere Person respektiert deine Zeit, deine Gefühle und deine Bedürfnisse nicht wirklich. Sie geht unbewusst davon aus, dass du immer da sein wirst, egal wie schlecht sie dich behandelt oder ignoriert. Sie nimmt dich als selbstverständlich hin.
 

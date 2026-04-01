@@ -34,7 +34,7 @@ Die Heilung nach einer toxischen Beziehung ist kein linearer Prozess. Es gibt Ta
 
 Die ersten Wochen nach einer Trennung sind die intensivsten. Du durchlebst ein Emotional Rollercoaster aus Erleichterung, Trauer, Wut und manchmal sogar Zweifel am Trennungsentscheid. Das ist eine normale Reaktion auf einen traumatischen Beziehungsverlauf.
 
-Der erste Schritt bei der Recovery toxische Beziehung ist es, konsequent Kontakt zu vermeiden. Das No-Contact-Prinzip ist nicht Strafe oder emotionale Abkühlung – es ist Selbstschutz. Jede Nachricht, jedes Profil-Check und jeder Versuch, noch „eine letzte Erklärung" zu bekommen, zieht dich zurück in den emotionalen Sumpf. Du musst dir erlauben, einen sauberen Schnitt zu machen.
+Der erste Schritt bei der Recovery [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) ist es, konsequent Kontakt zu vermeiden. Das No-Contact-Prinzip ist nicht Strafe oder emotionale Abkühlung – es ist Selbstschutz. Jede Nachricht, jedes Profil-Check und jeder Versuch, noch „eine letzte Erklärung" zu bekommen, zieht dich zurück in den emotionalen Sumpf. Du musst dir erlauben, einen sauberen Schnitt zu machen.
 
 Konkrete Maßnahmen für die erste Phase:
 - Blockiere deine:n Ex auf allen Plattformen (Handy, Email, Social Media, Messaging-Apps)

@@ -376,5 +376,5 @@ Erdeningstechniken: Tief atmen, Farben benennen, kaltes Wasser auf dein Gesicht,
 ## Lesenswerte Links
 
 - [[verlustangst](/blog/aengstlicher-bindungsstil-heilen/) aus der Kindheit überwinden](/blog/verlustangst-bei-kindern-beziehung)
-- [Unsicher-vermeidender Bindungsstil erklärt](/blog/unsicher-vermeidender-bindungsstil)
+- [Unsicher-vermeidender [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) erklärt](/blog/unsicher-vermeidender-bindungsstil)
 - [Loslassen lernen in der Liebe](/blog/loslassen-lernen-liebe)

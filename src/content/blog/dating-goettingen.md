@@ -56,7 +56,7 @@ Der **Wall** ist ein historischer Befestigungsring, der heute ein wunderschöner
 
 Das **Café am Wall** ist perfekt: schnell einen Kaffee holen (2-3€), dann hinsetzen und die Szene genießen. Du kannst auch gezielt hierher kommen, um Menschen kennenzulernen – es ist ein natürlicher Treffpunkt für alle.
 
-**Pro-Tipp**: Sonntagnachmittags (14:00-18:00 Uhr) am Wall – überraschend viele Singles (nicht nur als Paar, auch echte Singles!) nutzen den Ort gezielt zum Kennenlernen. Die Atmosphäre ist entspannt und locker, nicht aufdringlich, und das Flirten ergibt sich ganz natürlich.
+**Pro-Tipp**: Sonntagnachmittags (14:00-18:00 Uhr) am Wall – überraschend viele Singles (nicht nur als Paar, auch echte Singles!) nutzen den Ort gezielt zum [Kennenlernen](/blog/dating-fragen-kennenlernen). Die Atmosphäre ist entspannt und locker, nicht aufdringlich, und das Flirten ergibt sich ganz natürlich.
 
 ### Der Wall im Detail – dein Dating-Guide
 

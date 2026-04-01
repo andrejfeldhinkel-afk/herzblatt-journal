@@ -30,7 +30,7 @@ faq:
 
 ## Die Definition einer toxischen beziehung
 
-Eine toxische Beziehung ist eine, die dir konsequent Schaden zufügt – emotional, psychisch oder manchmal körperlich. Es ist nicht nur eine schwierige Beziehung oder eine in einer Lauf. Es ist eine, in der sich dein Partner – bewusst oder unbewusst – weigert, dir mit Respekt zu behandeln.
+Eine [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) ist eine, die dir konsequent Schaden zufügt – emotional, psychisch oder manchmal körperlich. Es ist nicht nur eine schwierige Beziehung oder eine in einer Lauf. Es ist eine, in der sich dein Partner – bewusst oder unbewusst – weigert, dir mit Respekt zu behandeln.
 
 Die Zeichen sind oft subtil am Anfang. Ein kritischer Kommentar. Eine Lüge. Eine Kontrolle. Mit der Zeit werden sie intensiver. Du merkst, dass du etwas falsch machst. Du fragst dich, ob du verrückt wirst.
 

@@ -32,7 +32,7 @@ Aber es ist nicht unmöglich. Es ist schwierig. Es erfordert Geduld, Selbstbewus
 
 Dieser Artikel führt dich durch den Heilungsprozess und gibt dir konkrete Strategien, wie du datierst, ohne dich wieder zu verletzen.
 
-## Was eine toxische Beziehung dir angetan hat: Das Trauma verstehen
+## Was eine [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) dir angetan hat: Das Trauma verstehen
 
 Bevor du wieder datierst, musst du verstehen, was eine toxische Beziehung dir wirklich angetan hat. Nicht nur emotional, sondern auch neurobiologisch.
 
@@ -48,7 +48,7 @@ Das ist, warum du jetzt, auch wenn du einen netten Partner hast, immer noch defe
 
 ### Bindungstrauma
 
-Wenn eine toxische Beziehung deine romantische Beziehung war, hat das auch dein Bindungsstil verändert. Du könntest jetzt "anxiously attached" sein, konstant in Angst, dass diese Person dich auch verlässt oder dich verletzt.
+Wenn eine toxische Beziehung deine romantische Beziehung war, hat das auch dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) verändert. Du könntest jetzt "anxiously attached" sein, konstant in Angst, dass diese Person dich auch verlässt oder dich verletzt.
 
 Oder du könntest "avoidant attached" sein, deine Wände so hoch gebaut haben, dass es schwierig ist, jemandem zu vertrauen.
 

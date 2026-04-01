@@ -92,7 +92,7 @@ Friedrichshain war lange das Gegenstück zu Prenzlauer Berg – noch alternative
 - Viele Live-Musik-Venues und Clubs
 - Menschen sind experimentell, offen, nicht konservativ
 - Es gibt viel Nachtleben
-- Weniger klassisches "Dating"-Feeling, mehr Kennenlernen auf Partys
+- Weniger klassisches "Dating"-Feeling, mehr [Kennenlernen](/blog/dating-fragen-kennenlernen) auf Partys
 
 **Beste Orte zum Daten:**
 - Ostkreuz (trendiges Gebiet mit Galerien, Bars, Restaurants)

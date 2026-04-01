@@ -38,7 +38,7 @@ Multi-Dating bedeutet, dass du gleichzeitig mehrere Menschen triffst und mit ihn
 
 Aber es ist anders als früher. Heute funktioniert Multi-Dating in Zeiten von Swipe-Apps und Nachrichten-Chats. Du triffst potenzielle Partner nicht mehr durch dein eigenes Netzwerk oder zufällig in der Stadt. Du erhältst Zugang zu Dutzenden von Profilen gleichzeitig. Diese Fülle an Optionen macht Multi-Dating gleichzeitig einfacher und komplizierter.
 
-Der zentrale Punkt: Multi-Dating findet in der **Kennenlernphase** statt — bevor ihr exklusiv werdet. Das ist der Schlüssel. Es geht nicht darum, jemanden zu betrügen oder hinter Rücken zu arbeiten. Es geht darum, dass beide Seiten noch nicht wissen, ob aus dem Kennenlernen etwas werden kann.
+Der zentrale Punkt: Multi-Dating findet in der **Kennenlernphase** statt — bevor ihr exklusiv werdet. Das ist der Schlüssel. Es geht nicht darum, jemanden zu betrügen oder hinter Rücken zu arbeiten. Es geht darum, dass beide Seiten noch nicht wissen, ob aus dem [Kennenlernen](/blog/dating-fragen-kennenlernen) etwas werden kann.
 
 ### Die verschiedenen Phasen des Dating verstehen
 
@@ -629,7 +629,7 @@ Das ist befreiend. Es nimmt den Druck aus jedem einzelnen Date.
 
 ## Bindungsstile und Multi-Dating
 
-Dein Bindungsstil beeinflusst, wie gut du Multi-Dating bewältigen kannst.
+Dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) beeinflusst, wie gut du Multi-Dating bewältigen kannst.
 
 ### Sicherer Bindungsstil
 

@@ -200,7 +200,7 @@ Angststörungen bedeuten, dass dein Nervensystem ständig auf Alarm ist. Es ist 
 
 Das macht es viel leichter, in Flooding zu gehen. Der Trigger muss nicht einmal so groß sein. Dein System ist schon auf Alarm.
 
-### Dein Bindungsstil
+### Dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide)
 
 Ein ängstlicher oder desorganisierter Bindungsstil macht es wahrscheinlicher, dass du flooded.
 

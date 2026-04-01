@@ -221,7 +221,7 @@ Tageszeit: Tagsüber oder am frühen Abend (vor 19:00 Uhr) ist besser als spät 
 
 Manche Menschen denken, sie sollten die ganz großen Fragen vorher klären. "Wollen wir Kinder? Welche Religion? Wo sehen wir uns in fünf Jahren?"
 
-Vergiss das. Das ist nicht an diesem Punkt relevant. Ihr seid beim ersten Treffen. Das ist zum Kennenlernen. Wenn es kein zweites Treffen gibt, waren diese Fragen sowieso nicht relevant.
+Vergiss das. Das ist nicht an diesem Punkt relevant. Ihr seid beim ersten Treffen. Das ist zum [Kennenlernen](/blog/dating-fragen-kennenlernen). Wenn es kein zweites Treffen gibt, waren diese Fragen sowieso nicht relevant.
 
 Bespreche Logistik: Wo genau treffen wir uns? Wann? (Nimm einen bestimmten Ort und eine bestimmte Zeit, nicht "irgendwann am Wochenende").
 

@@ -187,7 +187,7 @@ Die gute Nachricht ist, dass du lernen kannst, zukünftige Fantasy Bonds zu verm
 
 Das beginnt damit, dass du in deinen Beziehungen präsent bleibst. Dass du nicht in Fantasien verlierst. Dass du dich mit Menschen verbindest, die emotional verfügbar sind und dir das geben, was du brauchst.
 
-Es bedeutet auch, dass du dich selbst therapierst. Wenn du immer wieder zu emotionalen Unavailability gezogen wirst, gibt es einen Grund. Und dieser Grund liegt in deiner Geschichte. In deinem Bindungsstil. In dem, was dir früh gelehrt wurde, was Liebe ist.
+Es bedeutet auch, dass du dich selbst therapierst. Wenn du immer wieder zu emotionalen Unavailability gezogen wirst, gibt es einen Grund. Und dieser Grund liegt in deiner Geschichte. In deinem [Bindungsstil](/blog/avoidant-attachment-beziehung-guide). In dem, was dir früh gelehrt wurde, was Liebe ist.
 
 Die Beziehung zu dir selbst ist die erste Beziehung. Wenn du mit dir selbst real bist, wirst du auch in anderen Beziehungen real sein.
 

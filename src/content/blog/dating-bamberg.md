@@ -148,7 +148,7 @@ Das **Sandgebiet** (ein Stadtteil) wird zum Spazier-Paradies. Kleine Kneipen dor
 Die beste Zeit! Die Sonne scheint, die Fluss-Ufer sind voller Menschen mit Picknick, die Stimmung ist unglaublich positiv.
 
 - **Fluss-Open-Airs**: Kino und Musik direkt am Wasser!
-- **Biergärten**: Größere, weniger gemütliche als die Kneipen, aber großartig zum Kennenlernen neuer Menschen.
+- **Biergärten**: Größere, weniger gemütliche als die Kneipen, aber großartig zum [Kennenlernen](/blog/dating-fragen-kennenlernen) neuer Menschen.
 
 **Budget-Tipp**: Picknick statt Restaurant sparen Geld und ist genauso romantisch!
 

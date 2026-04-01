@@ -52,7 +52,7 @@ Es gibt mehrere Gründe, warum Menschen Freckling attraktiv finden:
 
 - **Keine Druck-Faktor**: Ohne das Ziel einer langfristigen Beziehung kann man entspannen und Spaß haben.
 - **Sommerliche Freiheit**: Der Sommer fühlt sich wie eine Zeit der Lizenzen an. Menschen sind Ausflügler, weniger an ihre normalen Routinen gebunden.
-- **Neue Erfahrungen**: Es gibt etwas romantisches über das Kennenlernen neuer Menschen während der Reisezeit.
+- **Neue Erfahrungen**: Es gibt etwas romantisches über das [Kennenlernen](/blog/dating-fragen-kennenlernen) neuer Menschen während der Reisezeit.
 - **Keine Langzeitangst**: Wenn Sie wissen, dass etwas Ende des Sommers endet, können Sie sich entspannen und nicht alle Treffen als "Das ist die Person?" überanalysieren.
 
 ### Die Sommer-Mentalität

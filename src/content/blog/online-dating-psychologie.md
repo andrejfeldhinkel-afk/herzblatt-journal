@@ -170,7 +170,7 @@ Vermeidende Menschen mögen Unabhängigkeit mehr als Nähe. Sie haben oft Angst 
 
 Ängstliche Menschen brauchen viel Sicherung und Nähe. Sie neigen dazu, zu viel zu wischen und in die Hoffnung [verliebt](/blog/mann-verliebt-anzeichen-komplett) zu werden, bevor sie den Menschen kennen.
 
-### Wie Bindungsstil Online-Dating-Verhalten formt
+### Wie [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) Online-Dating-Verhalten formt
 
 Der Psychologe Joshua Coleman hat untersucht, wie diese Bindungsstile Online-Dating beeinflussen. Was er fand: Ängstlich gebundene Menschen haben mehr Matches (weil sie mit mehr Menschen auseinandergehen, was Matches erhöht) aber weniger erfolgreiche Beziehungen (weil sie oft mit Menschen zusammengehen, die nicht gut für sie sind).
 

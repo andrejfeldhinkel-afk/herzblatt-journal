@@ -113,7 +113,7 @@ Das **Essener Rotstift** ist traditionell-cool.
 
 Die Innenstadt wird am Freitag/Samstag lebendig. Es ist nicht so organisiert wie andere Städte, aber dafür authentisch.
 
-**Geheimtipp:** Geht unter der Woche. Die Innenstadt ist entspannter, weniger touristisch, mehr zum echten Kennenlernen.
+**Geheimtipp:** Geht unter der Woche. Die Innenstadt ist entspannter, weniger touristisch, mehr zum echten [Kennenlernen](/blog/dating-fragen-kennenlernen).
 
 ### Rüttenscheid: Kulturviertel
 

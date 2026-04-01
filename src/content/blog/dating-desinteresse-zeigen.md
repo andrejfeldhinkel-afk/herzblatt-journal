@@ -91,7 +91,7 @@ Wenn du frei bist und eine Nachricht erhältst, antworte. Das ist nicht Bedürft
 "Ja, ich bin gerade verfügbar, und ich mag dich, also antworte ich" ist nicht schwach. Das ist echt.
 
 
-> **Lesetipp:** [50 Fragen zum Kennenlernen, die wirklich zählen](/blog/kennenlernen-fragen-stellen) | Unsicherheit beim Dating überwinden: 7 Schritte zum Selbstvertrauen
+> **Lesetipp:** [50 Fragen zum [Kennenlernen](/blog/dating-fragen-kennenlernen), die wirklich zählen](/blog/kennenlernen-fragen-stellen) | Unsicherheit beim Dating überwinden: 7 Schritte zum Selbstvertrauen
 
 
 ### 2. Aber wenn du nicht verfügbar bist, antworte später

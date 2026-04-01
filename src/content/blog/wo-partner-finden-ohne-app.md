@@ -179,7 +179,7 @@ Es reicht nicht nur, an diesen Orten zu sein. Du brauchst eine Strategie.
 
 **Offenheit.** Wenn das Bauchgefühl sagt "Das könnte interessant sein", sag ja. Zu dem Kaffee, dem Spaziergang, dem Austausch von Kontakten. Sei open.
 
-**Der richtige Ort.** Der beste Ort zum Kennenlernen ist nicht dort, wo die meisten Menschen sind, sondern dort, wo die Menschen sind die gleich zu dir sind.
+**Der richtige Ort.** Der beste Ort zum [Kennenlernen](/blog/dating-fragen-kennenlernen) ist nicht dort, wo die meisten Menschen sind, sondern dort, wo die Menschen sind die gleich zu dir sind.
 
 Wenn du introvertiert bist, geh nicht zu großen Partys. Geh zu Buchclubs. Wenn du extrovertiert bist, geh zu Festivals, nicht zu Online-Kursen.
 

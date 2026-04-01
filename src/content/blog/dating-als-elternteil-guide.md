@@ -451,7 +451,7 @@ Es gibt einen neuen Trend: "Speed-Dating für Eltern" – schnelle Events, wo El
 
 Das klingt großartig. Es ist aber kompliziert.
 
-**Das Problem:** Du wirst unter Zeitdruck getroffen. Alles fühlt sich schnell an. Manchmal triffst du jemanden, der interessant wirkt, aber du hast keine echte Zeit zum Kennenlernen.
+**Das Problem:** Du wirst unter Zeitdruck getroffen. Alles fühlt sich schnell an. Manchmal triffst du jemanden, der interessant wirkt, aber du hast keine echte Zeit zum [Kennenlernen](/blog/dating-fragen-kennenlernen).
 
 **Besser:** Normale Dating mit Geduld. Treffe Menschen übers Handy/Apps. Gib euch Zeit zu sehen, ob die Chemie da ist, BEVOR ihr den ganzen Elternschafts-Kontext hinzufügt.
 

@@ -137,7 +137,7 @@ Echo-Effekt: Wenn du dich distanzierst, distanziert sich ein verliebter Mann nic
 
 ## Bindungsstile und wie sie die Verliebtheit beeinflussen
 
-Nicht alle Männer drücken Liebe gleich aus. Das hängt von ihrem Bindungsstil ab.
+Nicht alle Männer drücken Liebe gleich aus. Das hängt von ihrem [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) ab.
 
 **Sichere Bindung:** Diese Männer verleben sich relativ schnell und können es gut zeigen. Sie sind konsistent, zuverlässig und emotional verfügbar.
 

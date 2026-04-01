@@ -292,7 +292,7 @@ Du könntest anhänglich sein. Ständig brauchend und Angst haben, verlassen zu 
 
 Oder du könntest unsicher sein. Ein Mix aus beiden.
 
-Mit therapeutischer Arbeit kannst du einen sicheren Bindungsstil entwickeln.
+Mit therapeutischer Arbeit kannst du einen sicheren [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) entwickeln.
 
 Das ist nicht schnell. Aber es ist möglich.
 

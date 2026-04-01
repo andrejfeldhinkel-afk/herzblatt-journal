@@ -26,7 +26,7 @@ Deine erste Liebe war nicht dein erster Partner. Deine erste Liebe waren deine E
 
 Wenn deine Eltern liebevoll waren, dann weißt du wahrscheinlich, wie echte Liebe aussieht. Wenn deine Eltern kritisch waren, dann fragst du dich wahrscheinlich, ob du liebenswert bist. Wenn deine Eltern kontrollierend waren, dann akzeptierst du wahrscheinlich Kontrolle in Beziehungen als normal.
 
-Das ist nicht deine Schuld. Das ist Psychologie. Die Psychologen nennen das "Bindungsstil" — die Art und Weise, wie du dich an Menschen bindest, basierend auf deinen frühen Erfahrungen mit deinen primären Bezugspersonen.
+Das ist nicht deine Schuld. Das ist Psychologie. Die Psychologen nennen das "[Bindungsstil](/blog/avoidant-attachment-beziehung-guide)" — die Art und Weise, wie du dich an Menschen bindest, basierend auf deinen frühen Erfahrungen mit deinen primären Bezugspersonen.
 
 Wenn deine Eltern unberechenbar waren — manchmal liebevoll, manchmal wütend, manchmal gleichgültig — dann suchst du wahrscheinlich Partner, die ähnlich sind. Du hoffst, dass du dieses Mal es richtig machen kannst, dass du genug Aufmerksamkeit bekommst. Das ist eine unbewusste Wiederholung.
 

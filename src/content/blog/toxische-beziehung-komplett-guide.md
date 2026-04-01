@@ -21,7 +21,7 @@ faq:
 
 Vielleicht sitzt du gerade bei einer Tasse Kaffee und fragst dich: "Ist meine Beziehung normal schwierig oder ist da etwas Größeres falsch?" Du merkst, dass dein Bauch dir etwas sagt, aber dein Kopf dir einredet, dass du überreagierst. Das ist ein klassisches Zeichen, dass du in einer toxischen Beziehung stecken könntest – und der erste Schritt ist, die Warnsignale zu erkennen.
 
-Eine toxische Beziehung ist keine Liebesbeziehung, die gelegentliche Konflikte hat. Es ist ein Muster von Verhalten, das dein Selbstwertgefühl, deine mentale Gesundheit und manchmal deine physische Sicherheit systematisch abbaut. Das Tückische: Es passiert nicht über Nacht. Es schleicht sich ein, Stück für Stück, bis du nicht mehr weißt, was normal ist.
+Eine [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) ist keine Liebesbeziehung, die gelegentliche Konflikte hat. Es ist ein Muster von Verhalten, das dein Selbstwertgefühl, deine mentale Gesundheit und manchmal deine physische Sicherheit systematisch abbaut. Das Tückische: Es passiert nicht über Nacht. Es schleicht sich ein, Stück für Stück, bis du nicht mehr weißt, was normal ist.
 
 ### Warnsignal 1: Ständige Kritik und Herabwürdigung
 

@@ -31,7 +31,7 @@ Wien, die Hauptstadt Österreichs, gilt weltweit als eine der romantischsten St�
 
 ## Klassische Romantik: Schönbrunn und Schloss Schönbrunn
 
-Das Schloss Schönbrunn ist eine der Top-Attraktionen Wiens und perfekt für ein romantisches Date. Mit seinen 1441 Zimmern, den prächtigen Gärten und der beeindruckenden Geschichte ist es ein Ort, der Paare verzaubert. Beim Spaziergang durch die Schönbrunn-Gärten kannst du deinem Date Zeit zum Kennenlernen geben und gleichzeitig die herrliche Atmosphäre genießen.
+Das Schloss Schönbrunn ist eine der Top-Attraktionen Wiens und perfekt für ein romantisches Date. Mit seinen 1441 Zimmern, den prächtigen Gärten und der beeindruckenden Geschichte ist es ein Ort, der Paare verzaubert. Beim Spaziergang durch die Schönbrunn-Gärten kannst du deinem Date Zeit zum [Kennenlernen](/blog/dating-fragen-kennenlernen) geben und gleichzeitig die herrliche Atmosphäre genießen.
 
 Die Golden Spring, die Fontäne mit der goldenen Gloriette im Hintergrund, ist eine der meistfotografierten Kulissen Wiens. Das ist der perfekte Ort, um gemeinsam ein Erinnerungsfoto zu machen. Du kannst einen Kaffee im Café Gloriette trinken und die Aussicht auf die Stadt genießen. Im Frühling und Sommer sind die Gärten besonders schön, wenn die Blüten in voller Pracht stehen.
 

@@ -102,7 +102,7 @@ Um diese Muster zu verstehen, müssen wir über Bindung sprechen. [Bindungstheor
 
 Bei Scheidungskindern ist diese sichere Basis erschüttert oder zerstört worden. Das führt zu drei Bindungsmustern:
 
-**Unsicherer vermeidender Bindungsstil (Avoidant):** Du lerntest, dich nicht auf andere zu verlassen. Dein Elternteil war nicht zuverlässig, oder der andere Elternteil war zu dominant. Also lerntest du, unabhängig zu sein — aber als Überlebensstrategie, nicht aus echtem inneren Vertrauen. Später wählst du Partner, die emotional nicht verfügbar sind, weil sie zu deinen unbewussten Erwartungen passen.
+**Unsicherer vermeidender [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) (Avoidant):** Du lerntest, dich nicht auf andere zu verlassen. Dein Elternteil war nicht zuverlässig, oder der andere Elternteil war zu dominant. Also lerntest du, unabhängig zu sein — aber als Überlebensstrategie, nicht aus echtem inneren Vertrauen. Später wählst du Partner, die emotional nicht verfügbar sind, weil sie zu deinen unbewussten Erwartungen passen.
 
 **Unsicherer anklammernd-[ängstlicher bindungsstil](/blog/aengstlicher-bindungsstil-heilen/) (Anxious):** Du lerntest, dass Nähe nicht gesichert war. Also überadaptierts du. Du machtest dich klein, um nicht verlassen zu werden. Du wirst überempfindlich gegenüber Ablehnung. Später brauchst du ständige Bestätigung vom Partner.
 

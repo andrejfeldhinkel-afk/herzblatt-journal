@@ -421,7 +421,7 @@ Das muss ich auch sagen: Nicht alle Langzeitbeziehungen sollten lange dauern.
 
 Manchmal ist es gesünder, sich zu trennen, als sich in einer toten Beziehung zu verstecken. Wenn ihr einander nicht mehr respektiert, nicht miteinander kommuniziert, nicht sexuell kompatibel seid, dann sind diese 30 Strategien keine Pflaster. Dann ist das eine rote Flagge.
 
-Der Unterschied ist: Eine langweilige Beziehung, die lebendig werden kann (mit diese Strategien), vs. eine toxische Beziehung, die nicht gesund ist (wo [Trennung](/blog/trennung-verarbeiten-12-schritte) die Antwort ist).
+Der Unterschied ist: Eine langweilige Beziehung, die lebendig werden kann (mit diese Strategien), vs. eine [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide), die nicht gesund ist (wo [Trennung](/blog/trennung-verarbeiten-12-schritte) die Antwort ist).
 
 Frag dich ehrlich: Liebt mich dieser Mensch? Liebe ich ihn? Können wir miteinander kommunizieren? Respektieren wir einander?
 

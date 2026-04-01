@@ -28,7 +28,7 @@ faq:
 ---
 
 
-## Warum Bars immer noch ein großartiger Ort zum Kennenlernen sind
+## Warum Bars immer noch ein großartiger Ort zum [Kennenlernen](/blog/dating-fragen-kennenlernen) sind
 
 In der Ära der Dating-Apps kann man vergessen, dass Menschen sich immer noch analog [kennenlernen](/blog/kennenlernen-fragen-stellen). Und ehrlich? Es ist immer noch einer der besten Orte.
 

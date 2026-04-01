@@ -27,7 +27,7 @@ Du öffnest die Dating-App. Fünf Minuten werden zu fünfzig. Plötzlich sind zw
 
 Das ist keine normale Nutzung. Das ist eine Sucht.
 
-Und du bist nicht allein. Millionen Menschen sind in dieser Dopamin-Falle gefangen, ohne es zu bemerken. Dating-Apps sind nicht einfach Tools zum Kennenlernen mehr – sie sind psychologisch optimierte Suchtmaschinen.
+Und du bist nicht allein. Millionen Menschen sind in dieser Dopamin-Falle gefangen, ohne es zu bemerken. Dating-Apps sind nicht einfach Tools zum [Kennenlernen](/blog/dating-fragen-kennenlernen) mehr – sie sind psychologisch optimierte Suchtmaschinen.
 
 ## Die Neurochemie der Match-Sucht
 
@@ -165,7 +165,7 @@ Die beste Beziehung wird nicht entstehen, während du durch tausend Profile scro
 Kontrolliere die Technologie. Lass dich nicht von ihr kontrollieren.
 ## Weiterlesen
 
-- [Attachment Styles: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating-verstehen/)
+- [Attachment Styles: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating-verstehen/)
 - [Dating Burnout – Wenn die Partnersuche zur Belastung wird](/blog/dating-burnout/)
 - Dating Fatigue: Wenn du vom Daten müde bist — und was hilft
 - [Frühwarnzeichen beim Dating: Worauf du achten solltest](/blog/dating-fruehwarnzeichen/)

@@ -788,7 +788,7 @@ Das ist small aber das ist powerful.
 
 ## Kommunikation und verschiedene Bindungsstile
 
-Dein Bindungsstil affects wie du kommunizierst.
+Dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) affects wie du kommunizierst.
 
 **Sichere Menschen:**
 

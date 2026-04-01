@@ -339,7 +339,7 @@ Dieser Test ist nicht dazu gedacht, dich zu verurteilen. Er ist dazu gedacht, di
 
 - [Grenzen setzen in der Beziehung: Warum es Liebe stärkt statt](/blog/grenzen-setzen-beziehung/)
 - [Projektion in Beziehungen verstehen und stoppen](/blog/projektion-beziehung-psychologie/)
-- [Unsicheren Bindungsstil heilen: Schritt für Schritt](/blog/attachment-healing-guide/)
+- [Unsicheren [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) heilen: Schritt für Schritt](/blog/attachment-healing-guide/)
 - [Negative Glaubenssätze über Liebe auflösen](/blog/glaubenssaetze-liebe-aufloesen/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
 ## FAQ

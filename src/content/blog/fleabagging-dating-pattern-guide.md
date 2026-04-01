@@ -458,7 +458,7 @@ Das ist okay. Das ist menschlich. Aber du kannst es tun. Mit Bewusstsein, mit Un
 
 Das Fleabagging-Muster ist nicht dein Schicksal. Es ist nicht wer du bist. Es ist ein Muster, das du gelernt hast. Und Muster können verlernt werden.
 
-Fang heute an. Schau dir deine letzten Beziehungen an. Erkenne das Muster. Sprich mit jemandem über deinen Bindungsstil und deine unterbewussten Überzeugungen. Und beginne zu praktizieren, weisere Entscheidungen zu treffen.
+Fang heute an. Schau dir deine letzten Beziehungen an. Erkenne das Muster. Sprich mit jemandem über deinen [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) und deine unterbewussten Überzeugungen. Und beginne zu praktizieren, weisere Entscheidungen zu treffen.
 
 Dein zukünftiges Selbst wird dir dankbar sein. Und—noch wichtiger—du wirst eine Beziehung finden, bei der du nicht fleabaggerst. Eine, bei der beide Partner würdig sind. Eine, die funktioniert. Das ist möglich. Das warte auf dich.
 

@@ -16,7 +16,7 @@ faq:
 draft: false
 ---
 
-Eine toxische Beziehung zu verlassen ist eine der schwierigsten Entscheidungen, die du treffen kannst. Es geht nicht nur um emotionale Belastung, sondern auch um praktische, finanzielle und physische Sicherheit. Dieser Leitfaden bietet dir einen strukturierten Sicherheitsplan mit detaillierten Schritten für jede Phase.
+Eine [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) zu verlassen ist eine der schwierigsten Entscheidungen, die du treffen kannst. Es geht nicht nur um emotionale Belastung, sondern auch um praktische, finanzielle und physische Sicherheit. Dieser Leitfaden bietet dir einen strukturierten Sicherheitsplan mit detaillierten Schritten für jede Phase.
 
 ## Warum ein Sicherheitsplan wichtig ist
 

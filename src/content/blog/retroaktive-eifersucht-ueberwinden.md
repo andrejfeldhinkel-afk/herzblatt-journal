@@ -292,5 +292,5 @@ Ja. Mit der Zeit führt es zu Ressentiment, Distanz und Vertrauensverlust. Aber 
 ## Lesenswerte Links
 
 - [Verlustangst in Beziehungen überwinden](/blog/verlustangst-bei-kindern-beziehung)
-- [Unsicher-vermeidender Bindungsstil erklärt](/blog/unsicher-vermeidender-bindungsstil)
+- [Unsicher-vermeidender [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) erklärt](/blog/unsicher-vermeidender-bindungsstil)
 - [Loslassen lernen: Der Weg zur emotionalen Freiheit](/blog/loslassen-lernen-liebe)

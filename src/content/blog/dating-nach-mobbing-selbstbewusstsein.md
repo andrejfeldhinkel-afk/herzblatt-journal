@@ -117,7 +117,7 @@ Hier sind Dinge, die helfen:
 
 **Vertrau deinen Instinkten.** Wenn etwas sich falsch anfühlt, ist es falsch. Du brauchst keinen Grund. Du brauchst keine Erklärung. Wenn dein Bauch sagt "Nein", dann geh weg.
 
-**Nimm dir Zeit.** Du musst dem anderen nicht deine Lebensgeschichte erzählen. Du kannst langsam gehen. Du kannst den anderen Zeit zum Kennenlernen geben.
+**Nimm dir Zeit.** Du musst dem anderen nicht deine Lebensgeschichte erzählen. Du kannst langsam gehen. Du kannst den anderen Zeit zum [Kennenlernen](/blog/dating-fragen-kennenlernen) geben.
 
 **Achte auf Warnsignale.** Jemand, der deine Grenzen nicht respektiert? Das ist ein Warnsignal. Jemand, der dich sofort schlecht über andere Menschen reden hört? Das ist ein Warnsignal. Jemand, der isoliert oder kontrollierend wirkt? Tschüss.
 

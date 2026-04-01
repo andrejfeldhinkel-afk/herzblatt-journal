@@ -126,7 +126,7 @@ Avoid:
 **Match-Erwartungen in Augsburg:**
 In kleineren Städten sind die Match-Raten oft **niedriger als in Großstädten**, aber die Matches sind **qualitativ besser**. Du wirst wahrscheinlich weniger Matches haben (0-1 pro Woche), aber dafür sind es ernsthafte People, nicht nur Swiper. Das ist eigentlich **viel besser für echte Dating**.
 
-**Geheimtipp:** Augsburgs lokale **Facebook-Gruppen** und **Meetup-Gruppen** sind sehr aktiv. Die Community organisiert regelmäßig **echte Treffen**, nicht nur Dating-App-Swipen. Veranstaltungen wie „Augsburger Single-Brunches" existieren und sind super für das Kennenlernen offline. Das schafft Authentizität und Sicherheit.
+**Geheimtipp:** Augsburgs lokale **Facebook-Gruppen** und **Meetup-Gruppen** sind sehr aktiv. Die Community organisiert regelmäßig **echte Treffen**, nicht nur Dating-App-Swipen. Veranstaltungen wie „Augsburger Single-Brunches" existieren und sind super für das [Kennenlernen](/blog/dating-fragen-kennenlernen) offline. Das schafft Authentizität und Sicherheit.
 
 Augsburgs Online-Szene ist **weniger zugeschwemmt** mit Profilen als in München oder Stuttgart – das bedeutet, deine Chancen sind besser, richtig wahrgenommen zu werden!
 

@@ -71,7 +71,7 @@ Tipp: Die **Wurstküche** ist immer voll. Komm am besten außerhalb der Stoßzei
 
 ### Gemütliche Cafés
 
-Das **Leere Beutel** ist ein bekanntes Kulturcafé in der Altstadt – hier gibt es Kaffee, kleine Speisen und eine inspirierende Atmosphäre. Es ist casual, nicht zu laut, und perfekt für ein entspanntes Kennenlernen über Kaffee.
+Das **Leere Beutel** ist ein bekanntes Kulturcafé in der Altstadt – hier gibt es Kaffee, kleine Speisen und eine inspirierende Atmosphäre. Es ist casual, nicht zu laut, und perfekt für ein entspanntes [Kennenlernen](/blog/dating-fragen-kennenlernen) über Kaffee.
 
 Das **Café am Haidplatz** ist ein wunderschönes, elegantes Café mit antiker Deko. Es fühlt sich an wie im 19. Jahrhundert, und der Kaffee sowie die Kuchen sind hervorragend. Ein bisschen formaleres, aber charmantest Café-Date.
 

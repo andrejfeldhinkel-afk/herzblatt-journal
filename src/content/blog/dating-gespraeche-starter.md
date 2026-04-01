@@ -60,7 +60,7 @@ faq:
 
 “Jeder hat irrational Fear. Meiner ist… [silly eine]. Was ist deine? Die sillier the better!”
 
-**Lesetipp:** [50 Fragen zum Kennenlernen, die wirklich zählen](/blog/kennenlernen-fragen-stellen) | [Komplimente, die wirklich wirken](/blog/komplimente-die-wirken)
+**Lesetipp:** [50 Fragen zum [Kennenlernen](/blog/dating-fragen-kennenlernen), die wirklich zählen](/blog/kennenlernen-fragen-stellen) | [Komplimente, die wirklich wirken](/blog/komplimente-die-wirken)
 
 **Beispiel:**
 

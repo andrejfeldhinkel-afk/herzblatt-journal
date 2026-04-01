@@ -46,7 +46,7 @@ Die Realität ist: Beide Partner tragen Verantwortung für die Beziehung. Es ist
 
 Stiller Entzug ist eine Form der emotionalen Bestrafung. Dein Partner ignoriert dich tagelang, antwortet nicht auf deine Fragen, gibt dir keine Aufmerksamkeit. Diese Methode ist besonders wirksam, weil du dich dadurch verletzlich und klein fühlst. Du wirst versuchen, ihn zu besänftigen, um wieder in seine Gunst zu kommen.
 
-Das Silent Treatment ist eine Form der emotionalen Gewalt. Es sagt: "Deine Gefühle und deine Bedürfnisse sind nicht wichtig für mich." Wenn dein Partner regelmäßig mit Stille antwortet, wenn du etwas Wichtiges mit ihm besprechen möchtest, musst du wissen, dass dies eine Manipulationstaktik ist. Die Lösung ist, klare Grenzen zu setzen und deutlich zu machen, dass du nicht bereit bist, in einer Beziehung zu leben, in der Kommunikationsverweigerung normal ist.
+Das [Silent Treatment](/blog/silent-treatment-beziehung) ist eine Form der emotionalen Gewalt. Es sagt: "Deine Gefühle und deine Bedürfnisse sind nicht wichtig für mich." Wenn dein Partner regelmäßig mit Stille antwortet, wenn du etwas Wichtiges mit ihm besprechen möchtest, musst du wissen, dass dies eine Manipulationstaktik ist. Die Lösung ist, klare Grenzen zu setzen und deutlich zu machen, dass du nicht bereit bist, in einer Beziehung zu leben, in der Kommunikationsverweigerung normal ist.
 
 ## Liebe als Waffe: Die Liebe als Manipulationsinstrument nutzen
 

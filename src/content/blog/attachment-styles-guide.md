@@ -28,7 +28,7 @@ faq:
 
 ## Bindungstypen verstehen: Der komplette Guide
 
-Stell dir vor, du sitzt bei jemandem, den du wirklich magst. Es ist eine perfekte Minute. Und dann—eine Gedanke kommt. "Ist das zu gut, um wahr zu sein? Wird diese Person mich verlassen?" Oder anderes Szenario: Der Mensch möchte näher werden, und plötzlich merkst du, dass du nicht atmen kannst. Du brauchst einen Weg raus. Diese sofortigen inneren Reaktionen? Das ist dein Bindungsstil am Werk.
+Stell dir vor, du sitzt bei jemandem, den du wirklich magst. Es ist eine perfekte Minute. Und dann—eine Gedanke kommt. "Ist das zu gut, um wahr zu sein? Wird diese Person mich verlassen?" Oder anderes Szenario: Der Mensch möchte näher werden, und plötzlich merkst du, dass du nicht atmen kannst. Du brauchst einen Weg raus. Diese sofortigen inneren Reaktionen? Das ist dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) am Werk.
 
 Dein Bindungsstil ist wie dein emotionales Betriebssystem. Es bestimmt, wie du Liebe empfängst, wie du geben kannst, wie du mit Konflikten umgehen kannst, und ob du in einer Beziehung ruhig oder panisch bist. Es ist nicht etwas, mit dem du geboren wurdest. Es wurde geprägt. Und ja—es kann sich ändern.
 

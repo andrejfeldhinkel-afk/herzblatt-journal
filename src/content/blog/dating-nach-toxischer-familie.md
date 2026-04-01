@@ -54,7 +54,7 @@ Erkennst du dich wieder? Das ist der erste Schritt.
 
 Erinnerst du dich an das Konzept der **Bindungstheorie**? Der britische Psychologe John Bowlby entdeckte etwas Fundamentales: Unsere frühesten Beziehungen – besonders zu unseren Bezugspersonen – prägen unsere späteren romantischen Beziehungen tiefgreifend.
 
-Wenn deine Familie toxisch war, hast du wahrscheinlich einen **unsicheren Bindungsstil** entwickelt. Das sind nicht zwei Kategorien, sondern eher ein Spektrum. Lass mich dir die drei Haupttypen zeigen:
+Wenn deine Familie toxisch war, hast du wahrscheinlich einen **unsicheren [Bindungsstil](/blog/avoidant-attachment-beziehung-guide)** entwickelt. Das sind nicht zwei Kategorien, sondern eher ein Spektrum. Lass mich dir die drei Haupttypen zeigen:
 
 ### Unsicherer Bindungsstil: Vermeidend
 

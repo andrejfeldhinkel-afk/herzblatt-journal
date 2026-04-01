@@ -136,7 +136,7 @@ Nicht verlassend ein Kampf hängend ist eines der schlechtesten Gefühle.
 
 Mit den limitierten Wochenenden, seid intentional über das Aufbauen von Nähe.
 
-Tiefe Gespräche. Vulnerabilität. Kennenlernen.
+Tiefe Gespräche. Vulnerabilität. [Kennenlernen](/blog/dating-fragen-kennenlernen).
 
 ### 7. Seid realistisch über eure Bedürfnisse
 

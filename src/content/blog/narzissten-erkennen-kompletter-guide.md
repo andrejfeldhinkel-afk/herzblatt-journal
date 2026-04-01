@@ -133,7 +133,7 @@ Nachdem die anfängliche Love-Bombing-Phase vorbei ist, nutzt der Narzisst Aufme
 
 Dies ist eine klassische "Bestrafung". Du lernst schnell, dass du dein Verhalten ändern musst, um wieder die "gute" Version von ihm zu bekommen.
 
-## Warnsignale 11-15: Die Abwertungsphase – Stonewalling, Silent Treatment und emotionale Verachtung
+## Warnsignale 11-15: Die Abwertungsphase – Stonewalling, [Silent Treatment](/blog/silent-treatment-beziehung) und emotionale Verachtung
 
 In dieser Phase wird der Narzisst nicht mehr nur manipulativ – er wird aktiv verletzend. Das ist, wenn die Love-Bombing-Phase vollständig vorbei ist und die wahre Natur des Narzissten sichtbar wird.
 

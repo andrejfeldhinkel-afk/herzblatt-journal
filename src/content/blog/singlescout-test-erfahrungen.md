@@ -368,7 +368,7 @@ Wie schneidet SingleScout gegen die Konkurrenz ab? Hier ein ehrlicher Vergleich:
 | Kostenlose Nutzung | Ja, gute Features | Ja, aber begrenzt |
 | Premium-Preis | ab 9,99€ | ab 11,99€ |
 | Sicherheit | Sehr gut | Gut |
-| Dauer zum Kennenlernen | Länger, aber ernsthafter | Schneller, oberflächlicher |
+| Dauer zum [Kennenlernen](/blog/dating-fragen-kennenlernen) | Länger, aber ernsthafter | Schneller, oberflächlicher |
 
 **Fazit**: Tinder ist größer, aber SingleScout ist gewissengewissenhafter.
 

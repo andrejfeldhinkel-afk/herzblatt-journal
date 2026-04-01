@@ -237,7 +237,7 @@ Hier ist etwas, das viele Frauen nicht wissen: Nicht alle Männer drücken Liebe
 
 **Unsichere-vermeidende Bindung:** Diese Männer haben Schwierigkeiten, Gefühle zu zeigen. Sie können dich wirklich lieben, aber sie drücken es nicht aus. Sie sind distanziert, sie vermeiden Gespräche über Gefühle, sie flüchten, wenn es zu nah wird. Wenn du mit diesem Typ zusammen bist, musst du zwischen den Zeilen lesen.
 
-**Unsichere-ambivalente Bindung:** Diese Männer sind hin- und hergerissen. Sie klammern manchmal, distanzieren sich manchmal. Sie können sagen "Ich liebe dich" und eine Stunde später unsicher sein. Das ist verwirrend, aber es ist nicht deine Schuld – es ist ihr Bindungsstil.
+**Unsichere-ambivalente Bindung:** Diese Männer sind hin- und hergerissen. Sie klammern manchmal, distanzieren sich manchmal. Sie können sagen "Ich liebe dich" und eine Stunde später unsicher sein. Das ist verwirrend, aber es ist nicht deine Schuld – es ist ihr [Bindungsstil](/blog/avoidant-attachment-beziehung-guide).
 
 Wenn du mit einem vermeidend gebundenen Mann zusammen bist, wirst du nicht immer hören "Ich liebe dich." Aber du wirst es in seinen Handlungen sehen.
 

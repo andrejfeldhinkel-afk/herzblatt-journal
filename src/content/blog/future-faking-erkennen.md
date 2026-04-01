@@ -410,7 +410,7 @@ Es ist wichtig zu verstehen, dass hinter Future Faking oft tiefe Angst und emoti
 
 Manche Menschen versprechen Future Faking, weil sie unbewusst Angst vor echter Nähe haben. Wenn sie dir eine traumatische Zukunft versprechen, können sie dich emotional halten, ohne sich wirklich zu verpflichten. Es ist eine Art, dich zu haben, ohne dich wirklich zu haben.
 
-Diese Menschen könnten einen ängstlich gebundenen oder vermeidenden Bindungsstil haben. Wenn das der Fall ist, könnte Therapie helfen. Aber das ist nicht deine Verantwortung zu reparieren. Das ist ihre.
+Diese Menschen könnten einen ängstlich gebundenen oder vermeidenden [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) haben. Wenn das der Fall ist, könnte Therapie helfen. Aber das ist nicht deine Verantwortung zu reparieren. Das ist ihre.
 
 ### Die Angst vor Enttäuschung
 

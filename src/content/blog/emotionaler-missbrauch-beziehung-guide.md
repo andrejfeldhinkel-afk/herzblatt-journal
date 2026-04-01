@@ -377,7 +377,7 @@ Der dominante Missbraucher wird oft von außerhalb der Beziehung als "traditione
 
 ## Der Unterschied zwischen toxischen Beziehungen und emotionalem Missbrauch
 
-Manchmal wird der Begriff "toxische Beziehung" verwendet, um alles zu beschreiben, was nicht perfekt ist. Aber es gibt einen Unterschied zwischen einer toxischen Beziehung und einer missbräuchlichen.
+Manchmal wird der Begriff "[toxische Beziehung](/blog/toxische-beziehungen-komplett-guide)" verwendet, um alles zu beschreiben, was nicht perfekt ist. Aber es gibt einen Unterschied zwischen einer toxischen Beziehung und einer missbräuchlichen.
 
 Eine toxische Beziehung ist gegenseitig ungesund. Beide Partner können beitragen zum Drama, zur Negativität und zum Schmerz. Es können Kommunikationsprobleme sein, unerfüllte Bedürfnisse, alte Wunden.
 

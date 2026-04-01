@@ -40,7 +40,7 @@ Weniger Spielchen, mehr Authentizität. Du spielst nicht "schwer zu bekommen" od
 
 Die Standard-Dating-Kultur ist eigentlich ganz absurd, wenn du einen Moment innehältst und darüber nachdenkst.
 
-Du hast hundert Optionen. Jede Option fühlt sich wie ein potenzieller "Fehler" an – was wenn die nächste Person besser ist? Du bist nie zufrieden. Du bist immer auf der Suche nach dem nächsten, besseren Match. Du verbringst Stunden mit Swipen und wenig Zeit mit echtem Kennenlernen.
+Du hast hundert Optionen. Jede Option fühlt sich wie ein potenzieller "Fehler" an – was wenn die nächste Person besser ist? Du bist nie zufrieden. Du bist immer auf der Suche nach dem nächsten, besseren Match. Du verbringst Stunden mit Swipen und wenig Zeit mit echtem [Kennenlernen](/blog/dating-fragen-kennenlernen).
 
 Minimalistische Dating fordert dich auf, zu verlangsamen. Nicht der Hälfte der Stadt hinterher zu jagen. Nicht ständig dein Telefon zu überprüfen, um neue Matches zu sehen. Sondern echte Beziehungen aufzubauen, mit echten Menschen.
 

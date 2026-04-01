@@ -272,7 +272,7 @@ Dies ist die Verwandlung die möglich ist wenn du Schmerz produktiv nutzt.
 
 ## Integration mit anderen Ressourcen
 
-Lerne wie Liebeskummer mit [Bindungsstil](/blog/attachment-style-aendern-sicher-werden) verband ist — dein Bindungsstil bestimmt oft wie du durch eine [Trennung](/blog/trennung-verarbeiten-12-schritte) gehst.
+Lerne wie Liebeskummer mit [Bindungsstil](/blog/attachment-style-aendern-sicher-werden) verband ist — dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) bestimmt oft wie du durch eine [Trennung](/blog/trennung-verarbeiten-12-schritte) gehst.
 
 Erkunde [Selbstliebe](/blog/selbstliebe-dating) als der Weg aus Liebeskummer — am Ende, es es nicht dein Ex den du brauchst, es ist Dich.
 

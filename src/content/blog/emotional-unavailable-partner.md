@@ -64,7 +64,7 @@ Die wahre Quelle dieses Musters liegt nicht in der anderen Person. Sie liegt in 
 
 Wenn dein Hauptbezugsperson emotional unerreichbar war—ein Elternteil, das nicht viele Gefühle ausdrückte, oder eines, das nur unter bestimmten Bedingungen verfügbar war—lerntest du, dass Liebe verdient werden muss. Du lerntest, dass es deine Aufgabe ist, die Liebe aus der anderen Person herauszulocken.
 
-Das schaffte ein Bindungsproblem: Der "anxious-avoidant" Zyklus. Dein Bindungsstil wurde "anxious" oder "preoccupied", was bedeutet, dass du viel Nähe brauchst, aber auch neigst, dich in Beziehungen mit vermeidenden Partnern zu verfangen, weil sie sich vertraut anfühlen.
+Das schaffte ein Bindungsproblem: Der "anxious-avoidant" Zyklus. Dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) wurde "anxious" oder "preoccupied", was bedeutet, dass du viel Nähe brauchst, aber auch neigst, dich in Beziehungen mit vermeidenden Partnern zu verfangen, weil sie sich vertraut anfühlen.
 
 Ein vermeidender Partner fühlt sich vertraut an, weil er der emotionalen Unerreichbarkeit ähnelt, die du vom Elternteil lerntest. Es ist schmerzhaft, aber es ist bekannt. Und dort, wo es bekannt ist, gibt es auch unbewusste Hoffnung: Dieses Mal werde ich es anders machen. Dieses Mal werde ich liebenswert genug sein.
 

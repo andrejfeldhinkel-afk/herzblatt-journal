@@ -217,7 +217,7 @@ Für mehr über [heilung](/blog/aengstlicher-bindungsstil-heilen/) nach einer Tr
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
 
 - [Sexuelle Kompatibilität in Beziehungen: Warum es wichtig ist](/blog/sexuelle-kompatibilitaet/)
 - [Ex zurückgewinnen – Wann es sich lohnt und wann](/blog/ex-zurueck-sinnvoll/)

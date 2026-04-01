@@ -83,7 +83,7 @@ Und das Muster ist etabliert.
 
 Das Pursuer-Distancer-Muster ist nicht zufällig. Es wird oft durch Bindungsstile angetrieben — wie du gelernt hast, zu sich selbst und anderen in enge Beziehungen zu verbinden.
 
-### Sicherer Bindungsstil
+### Sicherer [Bindungsstil](/blog/avoidant-attachment-beziehung-guide)
 
 Menschen mit einem sicheren Bindungsstil fühlen sich wohl sowohl bei Nähe als auch bei Unabhängigkeit. Sie können um Nähe fragen, ohne bedürftig zu wirken. Sie können Raum geben, ohne sich verloren zu fühlen. Sie sind normalerweise nicht in dem Pursuer-Distancer-Muster.
 

@@ -30,7 +30,7 @@ Salzburg ist nicht nur die Geburtsstadt von Wolfgang Amadeus Mozart und Schaupla
 
 Salzburg hat seinen ganz eigenen Charme, wenn es um Romantik und Dating geht. Die Stadt vereint die elegante Tradition einer österreichischen Kulturhauptstadt mit einem lockeren, freundlichen Lebensstil. Geprägt durch die Salzburger Festspiele, eine der renommiertesten Kulturveranstaltungen der Welt, hat die Stadt eine besondere Atmosphäre für Menschen mit Interesse an Musik, Theater und Kunst geschaffen.
 
-Die Salzburger sind generell offen und freundlich, und die Single-Szene ist lebendig und vielfältig. Ob du auf der Suche nach einem romantischen Partner, einem lockeren Kennenlernen oder einfach nur neuen Freunden bist – Salzburg bietet für jeden etwas. Die Stadt ist nicht zu groß, um sich verloren zu fühlen, aber groß genug, um eine Vielfalt an Möglichkeiten zu bieten.
+Die Salzburger sind generell offen und freundlich, und die Single-Szene ist lebendig und vielfältig. Ob du auf der Suche nach einem romantischen Partner, einem lockeren [Kennenlernen](/blog/dating-fragen-kennenlernen) oder einfach nur neuen Freunden bist – Salzburg bietet für jeden etwas. Die Stadt ist nicht zu groß, um sich verloren zu fühlen, aber groß genug, um eine Vielfalt an Möglichkeiten zu bieten.
 
 Das Dating in Salzburg zeichnet sich durch eine entspannte Grundhaltung aus. Man trifft sich gerne in Cafés, bei Spaziergängen oder zu kulturellen Veranstaltungen. Die Stadt hat eine starke Café-Kultur, und es ist völlig normal, mehrere Stunden in einem gemütlichen Lokal zu verbringen – perfekt also für lange, tiefgründige Gespräche beim ersten Date.
 

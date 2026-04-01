@@ -58,7 +58,7 @@ Gleichzeitig sind viele erschöpft. Wer während Corona monatelang geswiped hat,
 
 Dating-App-Müdigkeit betrifft laut aktuellen Umfragen über 70 Prozent der aktiven Nutzer. Die Apps sind zu voll, die Matches sind zu oberflächlich, die Enttäuschungen zu häufig. Viele Singles deaktivieren ihre Profile und sagen: "Ich date nie wieder auf den Apps."
 
-Was dagegen hilft: Pausen einlegen. Apps löschen, zwei Wochen lang nur offline leben, dann frisch starten. Oder ganz bewusst auf Offline-Kennenlernen setzen — Sportkurse, Kochklassen, Stammtische. Menschen treffen funktioniert immer noch am besten von Angesicht zu Angesicht.
+Was dagegen hilft: Pausen einlegen. Apps löschen, zwei Wochen lang nur offline leben, dann frisch starten. Oder ganz bewusst auf Offline-[Kennenlernen](/blog/dating-fragen-kennenlernen) setzen — Sportkurse, Kochklassen, Stammtische. Menschen treffen funktioniert immer noch am besten von Angesicht zu Angesicht.
 
 ## Remote Dating hat sich etabliert
 

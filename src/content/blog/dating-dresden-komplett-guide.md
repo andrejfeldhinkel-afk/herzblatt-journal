@@ -129,7 +129,7 @@ Das **Zapata** ist mehr Cocktail-Bar – wenn du jemanden beeindrucken willst mi
 
 Das **Katy Café** ist eher Café tagsüber, aber am Abend wird es zur angesagten Bar für die schöne Szene.
 
-**Wichtig:** Die beste Zeit zum Kennenlernen in Bars ist nicht um 23 Uhr, sondern um 21-22 Uhr. Später wird es zu laut und zu betrunken. Früher habt ihr mehr Zeit zum Reden.
+**Wichtig:** Die beste Zeit zum [Kennenlernen](/blog/dating-fragen-kennenlernen) in Bars ist nicht um 23 Uhr, sondern um 21-22 Uhr. Später wird es zu laut und zu betrunken. Früher habt ihr mehr Zeit zum Reden.
 
 ### Dating-Apps: Die modernen Ansätze
 

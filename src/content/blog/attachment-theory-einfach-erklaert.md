@@ -68,7 +68,7 @@ Die beste Frage ist nicht: "Was ist mein Attachment-Stil?" Es ist: "Kann ich mit
 
 Finde die erste.## Weiterlesen
 
-- [Unsicheren Bindungsstil heilen: Schritt für Schritt](/blog/attachment-healing-guide/)
+- [Unsicheren [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) heilen: Schritt für Schritt](/blog/attachment-healing-guide/)
 - [Trauma Bonding: Warum du nicht loslassen kannst](/blog/trauma-bonding-komplett-erklaert/)
 - [Die 4 Beziehungstypen – Welcher bist du?](/blog/beziehungstypen-psychologie/)
 - [Männer verstehen: Die komplette Psychologie hinter](/blog/maenner-verstehen-psychologie/)

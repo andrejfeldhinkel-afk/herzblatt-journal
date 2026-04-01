@@ -113,7 +113,7 @@ Einige wuchsen in Familien auf, in denen emotionale Äußerungen als Schwäche a
 
 ### Das Konzept des "Anxious-Avoidant" Bindungsstils
 
-Es gibt verschiedene Bindungsstile — die Art, wie wir lernen, mit anderen Menschen emotional umzugehen. Ein emotional unerreichbarer Partner hat meist einen "vermeidenden" oder "dismissiven" Bindungsstil. Aber hier wird es interessant: Oft werden Menschen mit vermeidendem Bindungsstil in Beziehungen mit Menschen mit "anxious" (ängstlich-ambivalent) Bindungsstil angezogen.
+Es gibt verschiedene Bindungsstile — die Art, wie wir lernen, mit anderen Menschen emotional umzugehen. Ein emotional unerreichbarer Partner hat meist einen "vermeidenden" oder "dismissiven" [Bindungsstil](/blog/avoidant-attachment-beziehung-guide). Aber hier wird es interessant: Oft werden Menschen mit vermeidendem Bindungsstil in Beziehungen mit Menschen mit "anxious" (ängstlich-ambivalent) Bindungsstil angezogen.
 
 Ein ängstlich-ambivalent gebundener Partner klammert, braucht ständig Versicherung, hat Trennungsangst. Ein vermeidender Partner zieht sich zurück, braucht Raum, fühlt sich eingeengt. Sie ergänzen sich perfekt — und schaffen dabei eine der schmerzhaftesten Dynamiken, die möglich sind.
 

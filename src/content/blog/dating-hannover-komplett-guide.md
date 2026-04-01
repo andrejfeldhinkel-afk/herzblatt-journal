@@ -121,7 +121,7 @@ Das **Pier 51** – direkt am Maschsee, sehr touristisch aber auch wirklich gut.
 
 **Reservierungstipp:** Auch in Hannover solltest du reservieren. Nicht alle, aber besondere Restaurants.
 
-## Events und Aktivitäten zum Kennenlernen
+## Events und Aktivitäten zum [Kennenlernen](/blog/dating-fragen-kennenlernen)
 
 ### Das Seefest und andere Maschsee-Events
 

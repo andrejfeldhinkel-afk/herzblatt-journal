@@ -180,7 +180,7 @@ Menschen mit sicherer Bindung können sich verletzlich zeigen. Sie trauen ihren 
 
 Menschen mit anderen Bindungsstilen haben mehr Schwierigkeiten mit Verletzlichkeit.
 
-Jemand mit ängstlich-anhänglichem Bindungsstil könnte sich verletzlich zeigen, aber aus Angst. „Wenn ich dich nicht alles zeige, wirst du mich verlassen." Das ist nicht gesunde Verletzlichkeit.
+Jemand mit ängstlich-anhänglichem [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) könnte sich verletzlich zeigen, aber aus Angst. „Wenn ich dich nicht alles zeige, wirst du mich verlassen." Das ist nicht gesunde Verletzlichkeit.
 
 Jemand mit vermeidendem Bindungsstil könnte sich nie verletzlich zeigen. Zu riskant. Zu viel Kontrolle aufgeben.
 

@@ -44,7 +44,7 @@ Es gibt hauptsächlich vier Bindungsstile: sicher, ängstlich-ambivalent, vermei
 
 Menschen mit vermeidender Bindung minimieren ihre emotionalen Bedürfnisse und betonen Unabhängigkeit. Menschen mit furchtsam-vermeidender Bindung sehnen sich nach Nähe, aber fürchten sie gleichzeitig intensiv. Beide Stile können sich sehr frustrierend anfühlen, wenn du mit dir Nähe und Konsistenz suchst.
 
-Der sichere Bindungsstil, den viele von uns anstreben, entsteht, wenn ein Kind erleben darf, dass Nähe sicher ist und dass emotionale Bedürfnisse erfüllt werden. Menschen mit sicherer Bindung können Intimität genießen, ohne sich bedroht zu fühlen.
+Der sichere [Bindungsstil](/blog/avoidant-attachment-beziehung-guide), den viele von uns anstreben, entsteht, wenn ein Kind erleben darf, dass Nähe sicher ist und dass emotionale Bedürfnisse erfüllt werden. Menschen mit sicherer Bindung können Intimität genießen, ohne sich bedroht zu fühlen.
 
 ## Interaktives Tool: Attachment-Stil-Kompatibilität Checker
 

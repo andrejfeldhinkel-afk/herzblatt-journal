@@ -108,7 +108,7 @@ Diese sind für die Mutigen unter euch — sie fallen auf.
 **Warum es funktioniert**: Es ist kreativ, hat eine positive Connotation und ist einprägsam.
 
 **Beispiel 9 — Der This-or-That**:
-*"Schnelle Frage zum Kennenlernen: Eher Pizza oder Pasta? (Meine Antwort ist 'wer zum Henker muss sich entscheiden?' und das sagt dir schon viel über mich.)"*
+*"Schnelle Frage zum [Kennenlernen](/blog/dating-fragen-kennenlernen): Eher Pizza oder Pasta? (Meine Antwort ist 'wer zum Henker muss sich entscheiden?' und das sagt dir schon viel über mich.)"*
 
 **Warum es funktioniert**: Es ist niedrig-Druck, macht Spaß und führt oft zu längeren Unterhaltungen.
 

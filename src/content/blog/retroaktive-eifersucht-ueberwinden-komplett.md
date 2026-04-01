@@ -234,6 +234,6 @@ Das ist die Wahrheit, an der du arbeiten musst zu glauben.
 ---
 
 **Verwandte Artikel:**
-- [Ängstlich-klammernder Bindungsstil heilen: Der komplette Weg zu sicherer Bindung](/blog/anxious-preoccupied-attachment-healing)
+- [Ängstlich-klammernder [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) heilen: Der komplette Weg zu sicherer Bindung](/blog/anxious-preoccupied-attachment-healing)
 - [Selbstsabotage beim Dating: Warum du immer wieder die Falschen wählst](/blog/selbstsabotage-dating-muster-guide)
 - [Grenzen setzen in Beziehungen: Der komplette Guide](/blog/)

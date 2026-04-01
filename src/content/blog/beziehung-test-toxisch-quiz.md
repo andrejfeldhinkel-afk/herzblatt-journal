@@ -18,7 +18,7 @@ faq:
 draft: false
 ---
 
-## Was ist eine toxische Beziehung wirklich?
+## Was ist eine [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) wirklich?
 
 Eine toxische Beziehung ist nicht einfach eine schwierige Beziehung. Es ist eine Beziehung, die dir systematisch schadet. Emotionaler Missbrauch, Kontrollverhalten, Manipulation und mangelnder Respekt sind die Zeichen. Eine toxische Beziehung zehrt an deiner Seele, an deinem Selbstwertgefühl und an deiner Gesundheit.
 

@@ -39,7 +39,7 @@ Das ist das tiefste Trauma einer toxischen Beziehung: Nicht dass jemand anderes 
 
 Bevor wir über [heilung](/blog/aengstlicher-bindungsstil-heilen/) sprechen müssen wir verstehen: Was war giftig?
 
-Eine toxische Beziehung ist nicht einfach "unhappy." Eine unhappy Beziehung ist wenn zwei gut gemeinte Menschen nicht kompatibel sind.
+Eine [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) ist nicht einfach "unhappy." Eine unhappy Beziehung ist wenn zwei gut gemeinte Menschen nicht kompatibel sind.
 
 Eine toxische Beziehung ist wenn einer (oder beide) systematisch den anderen untergräbt. Absichtlich.
 

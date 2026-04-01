@@ -1,6 +1,6 @@
 ---
-title: "Zusammenziehen: Die ultimative Checkliste für Paare (2026)"
-description: "Zusammenziehen mit dem Partner? Unsere Checkliste hilft: Finanzen klären, Haushalt planen, typische Fehler vermeiden. Alles was Paare vor dem Einzug wissen müssen."
+title: "Zusammenziehen 2026: Checkliste + 15 Tipps für Paare"
+description: "Zusammenziehen mit dem Partner — ultimative Checkliste zu Finanzen, Wohnung, Haushalt und häufigen Fehlern für einen perfekten Start."
 date: 2025-12-10
 image: "/images/photos/zusammenziehen-checkliste.webp"
 tags:
@@ -8,15 +8,29 @@ tags:
   - "Beziehung"
   - "Partnerschaft"
   - "Checkliste"
-keywords: ["zusammenziehen", "zusammenziehen Checkliste", "erste gemeinsame Wohnung", "Paar zusammenziehen Tipps", "Zusammenleben planen"]
+keywords:
+  - "zusammenziehen"
+  - "zusammenziehen checkliste"
+  - "zusammenziehen mit partner"
+  - "erste gemeinsame wohnung"
+  - "Paar zusammenziehen Tipps"
+  - "Zusammenleben planen"
+  - "wann zusammenziehen beziehung"
+  - "wohnung zusammenziehen kosten"
+  - "zusammenziehen checklist"
+  - "gemeinsam wohnung finden"
 author: "sarah-kellner"
 faq:
   - question: "Wann ist der richtige Zeitpunkt zum Zusammenziehen?"
-    answer: "Die meisten Beziehungsexperten empfehlen, mindestens 6-12 Monate zusammen zu sein, bevor man zusammenzieht. Wichtiger als die Zeit ist aber, dass beide Partner es wirklich wollen und offen über Erwartungen gesprochen haben."
-  - question: "Was muss man vor dem Zusammenziehen besprechen?"
-    answer: "Die wichtigsten Themen sind: Finanzen und Kostenaufteilung, Haushaltsaufgaben, persönlicher Freiraum, Besuchsregeln und gemeinsame Zukunftspläne. Je mehr ihr vorher klärt, desto weniger Konflikte entstehen."
-  - question: "Wie teilt man die Kosten beim Zusammenziehen?"
-    answer: "Die gängigsten Modelle sind: 50/50-Aufteilung, prozentuale Aufteilung nach Einkommen, oder ein gemeinsames Haushaltskonto. Welches Modell am besten passt, hängt von eurer finanziellen Situation und euren Werten ab."
+    answer: "6-12 Monate Beziehung sind Standard, aber wichtiger: Beide Partner müssen es wirklich wollen und offen über Erwartungen, Finanzen und Haushalt sprechen."
+  - question: "Was kostet Zusammenziehen durchschnittlich?"
+    answer: "Makler, Makettzeug, Möbel, Kaution: 3,000-8,000 EUR für erste gemeinsame Wohnung. Plus monatliche Fixkosten: Miete, Nebenkosten, Versicherungen."
+  - question: "Welche 10 Dinge muss man vor dem Zusammenziehen besprechen?"
+    answer: "Finanzen, Mietaufteilung, Haushaltsaufgaben, Besuchsregeln, Haustiere, Ordnungsgewohnheiten, Intimsphäre, Gemeinsame Ziele, Kündigungsfrist falls nötig, Versicherungen."
+  - question: "Wie finde ich mit meinem Partner die richtige Wohnung?"
+    answer: "Kriterien vorher klären (Lage, Größe, Budget). Online suchen, Besichtigungen zusammen machen, auf 'Bauchgefühl' achten. Budget sollte max. 30% des gemeinsamen Einkommens sein."
+  - question: "Welche häufigen Fehler machen Paare beim Zusammenziehen?"
+    answer: "Nicht über Finanzen sprechen, Haushalt nicht verteilen, zu schnell zusammenziehen, unterschiedliche Ordnungsansprüche ignorieren, fehlender persönlicher Freiraum."
 ---
 Zusammenziehen ist ein großer Schritt in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/). Es ist aufregend, manchmal auch überwältigend. Viele Paare unterschätzen, wie viel Planung und Kommunikation nötig ist, um diesen Übergang erfolgreich zu bewältigen. Ohne richtige Vorbereitung entstehen schnell Konflikte über Geld, Haushaltspflichten und unterschiedliche Erwartungen.
 

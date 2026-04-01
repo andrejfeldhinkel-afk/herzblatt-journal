@@ -156,7 +156,7 @@ Geschlossene Adoption – keine Kontakt mit den Geburtsparents.
 3. Sicherheitsüberprüfung und Hintergrundchecks
 4. Vorbereitung auf Elternschaft (obligatorische Kurse)
 5. Warten auf eine Zuordnung – das kann Jahre dauern
-6. Kennenlernen des Kindes
+6. [Kennenlernen](/blog/dating-fragen-kennenlernen) des Kindes
 7. Probephase (üblicherweise 6 Monate)
 8. Endgültige Adoption (vor Gericht)
 

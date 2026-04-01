@@ -88,7 +88,7 @@ Wenn du erkannt hast, dass du ein suchtartiges Verhalten entwickelt hast, gibt e
 
 ## Die Balance finden
 
-Das Ziel ist nicht, Dating-Apps komplett zu verdammen. Sie sind – richtig genutzt – ein legitimes Werkzeug zum Kennenlernen. Das Ziel ist, sie auf gesunde Weise zu nutzen.
+Das Ziel ist nicht, Dating-Apps komplett zu verdammen. Sie sind – richtig genutzt – ein legitimes Werkzeug zum [Kennenlernen](/blog/dating-fragen-kennenlernen). Das Ziel ist, sie auf gesunde Weise zu nutzen.
 
 Nutze sie als Werkzeug, nicht als Droge. Setze dich mit deinen Absichten auseinander. Treffe dich tatsächlich mit Menschen, anstatt nur zu swipen. Und vor allem: Vergiss nicht, dass echte Liebe und Verbindung offline passieren, nicht auf einem Bildschirm.
 

@@ -302,7 +302,7 @@ Aber echtes, gegenseitiges Lachen? Ja, das bedeutet, dass die Beziehung eine gut
 ## Weiterlesen
 
 - [Die Unterschiedliche Libido: Wenn einer mehr möchte als der andere](/blog/beziehung-ungleiche-libidos/)
-- [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating/)
+- [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating/)
 - [Grenzen setzen ohne Schuld: Der Leitfaden für liebevolle Grenzen](/blog/beziehung-grenzsetzen/)
 - [Konflikt-Stile: Kennde deinen Weg, um zu kämpfen](/blog/beziehung-konflikt-styles/)
 - [Das Geheimnis langjähriger Ehen: Was Paare falsch verstehen](/blog/beziehung-lange-ehe-geheimnis/)

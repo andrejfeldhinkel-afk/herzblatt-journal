@@ -209,7 +209,7 @@ Das **Custard Club** ist eine trendige Bar mit guten Cocktails und junger Atmosp
 
 Das **Café Miami** ist eine Club-Bar mit DJ und Tanzfläche.
 
-Diese Orte sind großartig zum Tanzen und zum Kennenlernen anderer Singles in entspanntem Setting.
+Diese Orte sind großartig zum Tanzen und zum [Kennenlernen](/blog/dating-fragen-kennenlernen) anderer Singles in entspanntem Setting.
 
 ## Studentisches Leben und Uni-Szene
 

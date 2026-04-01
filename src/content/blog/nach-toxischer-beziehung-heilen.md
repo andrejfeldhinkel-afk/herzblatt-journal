@@ -26,7 +26,7 @@ Dieser Artikel ist für dich – der oder die nach einer toxischen Beziehung hei
 
 ## Die erste Phase: Der Schock und die Verleugnung
 
-Wenn eine toxische Beziehung endet, ist die erste Phase oft nicht Trauer. Es ist Erleichterung, vermischt mit Verwirrung.
+Wenn eine [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) endet, ist die erste Phase oft nicht Trauer. Es ist Erleichterung, vermischt mit Verwirrung.
 
 Du fühlst dich erleichtert, weil der tägliche Stress weg ist. Du brauchst nicht mehr „richtig zu sein" für diese Person. Du brauchst nicht mehr ihre Stimmungen zu navigieren.
 

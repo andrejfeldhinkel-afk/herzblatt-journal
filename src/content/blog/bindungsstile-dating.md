@@ -32,7 +32,7 @@ faq:
 
 Du lernst jemanden kennen. Die Chemie stimmt. Alles fühlt sich richtig an. Und dann — wie aus dem Nichts — zieht sich die andere Person zurück. Oder du merkst, dass du wieder an jemanden geraten bist, der emotional nicht verfügbar ist.
 
-Wenn dir das bekannt vorkommt, liegt es wahrscheinlich nicht an Pech. Es liegt an deinem Bindungsstil — und an dem der Menschen, die du anziehst.
+Wenn dir das bekannt vorkommt, liegt es wahrscheinlich nicht an Pech. Es liegt an deinem [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) — und an dem der Menschen, die du anziehst.
 
 ## Was Bindungsstile sind und warum sie alles verändern
 

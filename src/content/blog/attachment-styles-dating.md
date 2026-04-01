@@ -15,7 +15,7 @@ Die Art, wie Du Dich in Beziehungen verhältst, hat tiefe Wurzeln. Sie reicht bi
 
 ## Was sind Bindungsstile überhaupt?
 
-Der Bindungsstil beschreibt, wie wir emotionale Nähe zu anderen Menschen aufbauen. Er entsteht durch unsere frühen Erfahrungen mit Bezugspersonen und bleibt relativ stabil, kann aber durch Bewusstsein und Arbeit verändert werden.
+Der [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) beschreibt, wie wir emotionale Nähe zu anderen Menschen aufbauen. Er entsteht durch unsere frühen Erfahrungen mit Bezugspersonen und bleibt relativ stabil, kann aber durch Bewusstsein und Arbeit verändert werden.
 
 Es gibt drei Haupttypen: sicher, ängstlich-ambivalent und vermeidend. Ein vierter, sehr seltener Typ ist der desorganisiert-chaotische Bindungsstil, den wir hier aber weniger intensiv behandeln.
 

@@ -36,7 +36,7 @@ Das Problem: Wie bei einem echten Feueralarm kann es Fehlalarme geben. Nicht jed
 
 ### Die Rolle des Bindungsstils
 
-Interessanterweise erleben Menschen mit vermeidendem Bindungsstil deutlich häufiger Icks als sicher gebundene Personen. Für sie sind Icks oft ein unbewusster Schutzmechanismus: Sobald es emotional zu nah wird, findet das Gehirn einen Grund, die Person abzuwerten und Distanz zu schaffen.
+Interessanterweise erleben Menschen mit vermeidendem [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) deutlich häufiger Icks als sicher gebundene Personen. Für sie sind Icks oft ein unbewusster Schutzmechanismus: Sobald es emotional zu nah wird, findet das Gehirn einen Grund, die Person abzuwerten und Distanz zu schaffen.
 
 Wenn du bei fast jedem Date nach kurzer Zeit einen Ick bekommst, könnte das weniger über deine Dates und mehr über dein eigenes Bindungsverhalten aussagen. Das ist kein Vorwurf, sondern eine Einladung zur Selbstreflexion.
 

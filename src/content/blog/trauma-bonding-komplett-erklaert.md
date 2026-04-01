@@ -226,7 +226,7 @@ Ein brillanter Verstand kann dich selbst täuschen, wenn es um emotionale Fragen
 
 **Starke Menschen sind oft daran gewöhnt, Probleme zu lösen.**
 
-Und eine toxische Beziehung fühlt sich wie ein Problem an, das gelöst werden kann – wenn du nur hart genug arbeitest, verstehst dich besser, liebst dich mehr. Die Stärke, die dich erfolgreich in anderen Aspekten deines Lebens gemacht hat, wird gegen dich verwendet.
+Und eine [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) fühlt sich wie ein Problem an, das gelöst werden kann – wenn du nur hart genug arbeitest, verstehst dich besser, liebst dich mehr. Die Stärke, die dich erfolgreich in anderen Aspekten deines Lebens gemacht hat, wird gegen dich verwendet.
 
 **Empathische Menschen können die Menschlichkeit in Missbrauchern sehen.**
 

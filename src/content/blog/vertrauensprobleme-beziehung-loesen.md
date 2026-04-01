@@ -44,7 +44,7 @@ Vertrauensprobleme fallen nicht vom Himmel. Sie haben immer eine Geschichte — 
 
 Dein Verhältnis zu Vertrauen wurde in den ersten Lebensjahren geprägt. Wenn deine Bezugspersonen unzuverlässig waren, emotional abwesend oder sogar verletzend, hast du gelernt: Andere Menschen sind nicht sicher. Diese Erfahrung sitzt tief — oft tiefer, als du dir bewusst bist.
 
-Menschen mit einem unsicher-vermeidenden Bindungsstil halten automatisch Distanz, weil Nähe für sie Gefahr bedeutet. Menschen mit einem ängstlich-ambivalenten Stil klammern und kontrollieren, weil sie ständig Angst vor Verlassenwerden haben. Beide Muster führen zu Vertrauensproblemen — nur auf unterschiedliche Weise.
+Menschen mit einem unsicher-vermeidenden [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) halten automatisch Distanz, weil Nähe für sie Gefahr bedeutet. Menschen mit einem ängstlich-ambivalenten Stil klammern und kontrollieren, weil sie ständig Angst vor Verlassenwerden haben. Beide Muster führen zu Vertrauensproblemen — nur auf unterschiedliche Weise.
 
 Das Wichtige daran: Diese Muster sind nicht deine Schuld, aber sie sind deine Verantwortung. Du kannst sie erkennen und verändern.
 

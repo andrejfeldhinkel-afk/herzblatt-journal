@@ -1,23 +1,27 @@
 ---
-title: "50 Fragen zum Kennenlernen – Für tiefere Gespräche beim"
-description: "50 Fragen zum Kennenlernen: Die besten Fragen von Smalltalk bis Tiefgang für echte, unvergessliche und bedeutungsvolle Gespräche."
-date: 2025-05-28
+title: "Fragen zum Kennenlernen: 100 Fragen für tiefe Gespräche (2026)"
+description: "Fragen zum Kennenlernen — 100 kreative, tiefgründige und lustige Fragen für Dates, Freundschaften oder den Partner."
+date: 2026-04-01
 tags:
   - "Dating-Tipps"
   - "Kommunikation"
 keywords:
-  - "fragen kennenlernen"
-  - "date fragen"
-  - "gesprächsthemen date"
+  - "fragen zum kennenlernen"
   - "kennenlernfragen"
+  - "tiefgründige fragen"
+  - "date fragen"
+  - "fragen erstes date"
+  - "gesprächsthemen date"
 draft: false
 image: "/images/photos/erstes-date-gespraechsthemen.webp"
-imageAlt: "50 Fragen zum Kennenlernen"
+imageAlt: "100 Fragen zum Kennenlernen"
 faq:
-  - question: "Was ist das Wichtigste bei 50 fragen zum kennenlernen?"
-    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
-  - question: "Wo finde ich Hilfe zum Thema 50 fragen zum kennenlernen?"
-    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
+  - question: "Welche Fragen sollte man beim Kennenlernen stellen?"
+    answer: "Beginne mit leichten Fragen zu Lieblingsplätzen und Interessen, steigere dich dann zu tieferen Fragen über Träume und Werte. Dies schafft eine natürliche Progression zu echter Verbindung."
+  - question: "Was sind gute Fragen fürs erste Date?"
+    answer: "Gute erste-Date-Fragen sind offen und laden zum Erzählen ein: 'Was ist dein Lieblingsorte hier?', 'Was machst du leidenschaftlich gerne?', 'Welches war dein bestes Abenteuer?'. Vermeide Fragen über Ex-Partner oder finanzielle Situation."
+  - question: "Welche Fragen sollte man beim Date vermeiden?"
+    answer: "Vermeide zu persönliche Fragen: Politik, Finanzen, Ex-Partner, Kritik oder Verhör-ähnliche Fragen. Stelle stattdessen Fragen, die Leidenschaft, Träume und Charakter zeigen und offene Gespräche ermöglichen."
 ---
 ## 50 Fragen zum Kennenlernen
 

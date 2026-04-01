@@ -64,7 +64,7 @@ Die gute Nachricht: Mit Therapie und bewusster Arbeit an diesem Trauma kann Soph
 
 ### Bindungsmuster aus der Kindheit
 
-Psychologen sprechen vom „Bindungsstil". Wenn deine Eltern dir Sicherheit gaben, wirst du wahrscheinlich einen sicheren Bindungsstil haben. Du vertraust Menschen, du kannst nah sein, aber auch alleine sein. Du brauchst nicht konstante Versicherung.
+Psychologen sprechen vom „[Bindungsstil](/blog/avoidant-attachment-beziehung-guide)". Wenn deine Eltern dir Sicherheit gaben, wirst du wahrscheinlich einen sicheren Bindungsstil haben. Du vertraust Menschen, du kannst nah sein, aber auch alleine sein. Du brauchst nicht konstante Versicherung.
 
 Wenn deine Eltern aber wechselhaft waren – mal liebevoll, mal emotional kalt – oder abwesend, entwickelst du einen unsicheren Bindungsstil. Es gibt zwei Subtypen:
 

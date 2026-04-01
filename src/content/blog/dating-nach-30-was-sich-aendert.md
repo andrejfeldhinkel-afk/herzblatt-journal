@@ -144,7 +144,7 @@ Lass mich ehrlich sein: Es ist oft schwerer. Nicht immer, aber oft.
 
 ## Wie du smart nach 30 datist
 
-### 1. Kennenlernen, nicht Hoffnungen machen
+### 1. [Kennenlernen](/blog/dating-fragen-kennenlernen), nicht Hoffnungen machen
 
 Wenn du jemanden triffst, gib dir selbst eine Deadline. Nach 3-4 Daten sollte klar sein: Ist das hier was, oder nicht? Nicht „Vielleicht wird es was mit der Zeit". Nein. Nach 3-4 Daten weißt du.
 

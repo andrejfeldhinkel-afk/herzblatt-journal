@@ -46,7 +46,7 @@ Menschen entwickeln sich weiter. Manchmal wachsen zwei Menschen in unterschiedli
 
 ### Die Beziehung schadet beiden
 
-Ständige Konflikte, fehlende Kommunikation oder emotionaler Missbrauch sind klare Anzeichen, dass die Beziehung beendet werden sollte. **Eine toxische Beziehung fortzuführen schadet beiden Partnern** — dem einen, der sich festgefahren fühlt, und dem anderen, der unbewusst Verhalten aufrechterhält, das nicht gesund ist.
+Ständige Konflikte, fehlende Kommunikation oder emotionaler Missbrauch sind klare Anzeichen, dass die Beziehung beendet werden sollte. **Eine [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) fortzuführen schadet beiden Partnern** — dem einen, der sich festgefahren fühlt, und dem anderen, der unbewusst Verhalten aufrechterhält, das nicht gesund ist.
 
 ### Du stellst dir das Beziehungsende vor
 

@@ -50,7 +50,7 @@ Das Besondere: Hier sind Menschen verschiedenster Altersgruppen, alle mit einem 
 
 **Was du hier machen kannst:**
 
-- **Spaziergang durch den Kurpark:** Kostenlos, malerisch, perfekt zum Kennenlernen
+- **Spaziergang durch den Kurpark:** Kostenlos, malerisch, perfekt zum [Kennenlernen](/blog/dating-fragen-kennenlernen)
 - **Kaffee oder Lunch im Café des Kurhauses:** Gehobenes Ambiente ohne steif zu wirken
 - **Besuch in den Thermalbädern:** Wenn du eine mutige Idee magst (Badekleidung beachten!), können gemeinsame Thermen-Besuche überraschend sinnlich sein
 - **Abendessen im Kurhaus-Restaurant:** Gehobene Küche mit klassischem Flair

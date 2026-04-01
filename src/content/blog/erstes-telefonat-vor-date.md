@@ -421,7 +421,7 @@ Okay, das erste Telefonat war gut. Ihr habt euch am Date gesehen oder ein zweite
 
 **Das zweite Telefonat – das ist anders:**
 
-Das erste war eine "Kennenlernen"-Session. Das zweite kann tiefer gehen.
+Das erste war eine "[Kennenlernen](/blog/dating-fragen-kennenlernen)"-Session. Das zweite kann tiefer gehen.
 
 Hier kannst du persönlichere Fragen stellen. Du kannst über die Dating-Experience sprechen. Du kannst fragen, was sie bei dir innerlich bewegt hat.
 

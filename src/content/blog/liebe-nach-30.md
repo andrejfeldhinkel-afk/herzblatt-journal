@@ -41,7 +41,7 @@ Aber die Wahrheit sieht anders aus.
 
 ### Die Herausforderungen — und wie du sie meisterst
 
-**Kleinerer Freundeskreis zum Kennenlernen.** In den 20ern lernt man ständig neue Leute kennen — an der Uni, auf Partys, durch WG-Mitbewohner. Mit 30 wird der Kreis kleiner. Die Lösung: Bewusst neue Wege gehen. Online-Dating, Hobbys, Kurse, Events.
+**Kleinerer Freundeskreis zum [Kennenlernen](/blog/dating-fragen-kennenlernen).** In den 20ern lernt man ständig neue Leute kennen — an der Uni, auf Partys, durch WG-Mitbewohner. Mit 30 wird der Kreis kleiner. Die Lösung: Bewusst neue Wege gehen. Online-Dating, Hobbys, Kurse, Events.
 
 **Höhere Ansprüche.** Du weißt, was du willst — aber manchmal werden daraus starre Checklisten. Bleib offen für Überraschungen. Die besten Beziehungen entstehen oft mit Menschen, die wir nicht "auf dem Zettel" hatten.
 
@@ -71,7 +71,7 @@ Dein Herzblatt wartet vielleicht gerade da draußen — und ist genauso bereit w
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/aktives-zuhoeren-beziehung-ueben/) zu [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/aktives-zuhoeren-beziehung-ueben/) zu [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
 
 - [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung/)
 - [Dating nach einer narzisstischen Beziehung: Heilung](/blog/dating-nach-narzisst/)

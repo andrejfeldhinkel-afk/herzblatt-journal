@@ -26,7 +26,7 @@ faq:
 
 Basel ist nicht nur eine der ältesten Universitätsstädte der Schweiz, sondern auch ein absoluter Geheimtipp für Singles auf der Suche nach Romantik. Die Rheinstadt an der Grenze von Schweiz, Deutschland und Frankreich hat eine besondere Magie: Hier vereinen sich weltoffene Kultur, historischer Charme und eine aufgeschlossene Community zu dem perfekten Pflaster für unvergessliche Dates.
 
-Die Stadt mit rund 175.000 Einwohnern wirkt auf den ersten Blick vielleicht nicht wie das klassische Flirt-Paradies, aber genau das ist ihr Geheimnis. Basel hat eine entspannte, kulturelle Vibe, die natürlich zum Kennenlernen einlädt. Ob beim gemeinsamen Museumsbesuch, beim romantischen Spaziergang durchs Dreiländereck oder beim Rheinschwimmen – Basel bietet für jeden Dating-Geschmack das Richtige.
+Die Stadt mit rund 175.000 Einwohnern wirkt auf den ersten Blick vielleicht nicht wie das klassische Flirt-Paradies, aber genau das ist ihr Geheimnis. Basel hat eine entspannte, kulturelle Vibe, die natürlich zum [Kennenlernen](/blog/dating-fragen-kennenlernen) einlädt. Ob beim gemeinsamen Museumsbesuch, beim romantischen Spaziergang durchs Dreiländereck oder beim Rheinschwimmen – Basel bietet für jeden Dating-Geschmack das Richtige.
 
 ## Die Basel-Vibe: Eine Stadt der Kultur und Offenheit
 

@@ -25,7 +25,7 @@ Nach einer toxischen [beziehung](/blog/adhs-und-beziehung-komplett-guide/) wiede
 
 ## Verstehe, was in der toxischen Beziehung passiert ist
 
-Bevor du zurück ins Dating gehst, ist es wichtig, die toxische Beziehung zu analysieren. Was waren die Warnsignale, die du übersehen hast? Wie hat sich die andere Person verhalten, und wie hast du darauf reagiert?
+Bevor du zurück ins Dating gehst, ist es wichtig, die [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) zu analysieren. Was waren die Warnsignale, die du übersehen hast? Wie hat sich die andere Person verhalten, und wie hast du darauf reagiert?
 
 Dies ist nicht dazu da, dich selbst zu beschuldigen, sondern um zu lernen. Viele Menschen, die aus toxischen Beziehungen herauskommen, erkennen, dass sie unbewusst nach Mustern aus ihrer Kindheit suchten. Eine Therapie kann dir bei diesem Verständnis helfen.
 

@@ -577,7 +577,7 @@ Wenn derEnt Partner nicht bereit, das zu tun, gehen.
 
 - [Projektion in Beziehungen verstehen und stoppen](/blog/projektion-beziehung-psychologie/)
 - [Unbewusste Beziehungsmuster durchbrechen](/blog/unbewusste-beziehungsmuster/)
-- [Unsicheren Bindungsstil heilen: Schritt für Schritt](/blog/attachment-healing-guide/)
+- [Unsicheren [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) heilen: Schritt für Schritt](/blog/attachment-healing-guide/)
 - [Bindungstheorie einfach erklärt](/blog/attachment-theory-einfach-erklaert/)
 - [Die 4 Beziehungstypen – Welcher bist du?](/blog/beziehungstypen-psychologie/)
 ## Häufig gestellte Fragen

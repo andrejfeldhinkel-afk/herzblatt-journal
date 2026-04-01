@@ -280,7 +280,7 @@ Vielleicht war es: "Ich fühle mich nicht priorisiert in dieser Beziehung."
 
 Das ist der Kern. Das ist, was ihr adressieren müsst.
 
-*Wo verboten wir mit unserem Bindungsstil oder Triggers?*
+*Wo verboten wir mit unserem [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) oder Triggers?*
 
 Dein Partner könnte sagen: "Ich merke, dass wenn du dich abwendest, aktiviert meine Verletzlichkeit. Ich denke, dass du mich nicht liebst, anstatt zu verstehen, dass du nur müde bist."
 

@@ -339,7 +339,7 @@ Verwende das folgende Werkzeug, um Manipulationstaktiken zu identifizieren und W
       </div>
     </div>
     
-    <!-- Silent Treatment -->
+    <!-- [Silent Treatment](/blog/silent-treatment-beziehung) -->
     <div class="mekg-pattern">
       <div class="mekg-pattern-header">
         <h4 class="mekg-pattern-title">🤐 Silent Treatment</h4>

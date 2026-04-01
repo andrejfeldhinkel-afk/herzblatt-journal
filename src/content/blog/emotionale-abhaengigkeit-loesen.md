@@ -144,7 +144,7 @@ Die Psychologin Sue Johnson spricht von drei Hauptbindungsmustern:
 
 **Avoidant (Vermeidend):** Du misstraust anderen. Du hast Angst vor Nähe. Du zieht dich zurück. Du wagst dich nicht zu binden.
 
-Wenn du emotional abhängig bist, hast du wahrscheinlich einen Anxious-Bindungsstil. Dein Nervensystem ist ständig in Alarm. Du suchst ständig nach Zeichen, dass der andere dich verlässt.
+Wenn du emotional abhängig bist, hast du wahrscheinlich einen Anxious-[Bindungsstil](/blog/avoidant-attachment-beziehung-guide). Dein Nervensystem ist ständig in Alarm. Du suchst ständig nach Zeichen, dass der andere dich verlässt.
 
 Das Verständnis deines Bindungsmusters ist nicht therapiegebunden. Es ist praktisch. Es hilft dir, dein Verhalten zu verstehen. Es ist nicht falsch, Angst zu haben. Es ist eine alte Überlebensstrategie. Aber sie funktioniert nicht mehr.
 

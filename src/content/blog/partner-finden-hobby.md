@@ -24,7 +24,7 @@ faq:
   - question: "Sollte ich mehrere Hobbys haben, um mehr Menschen zu treffen?"
     answer: "Es hilft, aber qualität über Quantität. Ein Hobby, das du liebst und regelmäßig machst, ist besser als viele oberflächliche Hobbys."
 ---
-## Warum Hobbys der beste Ort zum Kennenlernen sind
+## Warum Hobbys der beste Ort zum [Kennenlernen](/blog/dating-fragen-kennenlernen) sind
 
 Du kannst hunderte Profile auf [dating](/blog/anzeichen-er-steht-auf-dich/)-Apps durchswipen — oder du kannst dorthin gehen, wo Menschen das tun, was sie lieben. Und genau das ist der Vorteil: Wenn du jemanden über ein gemeinsames Hobby kennenlernst, habt ihr bereits etwas, das euch verbindet.
 

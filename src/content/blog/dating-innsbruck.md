@@ -107,7 +107,7 @@ Viele Locals treffen sich in den gleichen Bars – es ist eine echte Community.
 
 ### Sport und Abenteuer
 
-Klettern, Mountainbike, Ski – Innsbruck liebt das. Das sind gute Orte zum Kennenlernen von Menschen mit ähnlichen Werten.
+Klettern, Mountainbike, Ski – Innsbruck liebt das. Das sind gute Orte zum [Kennenlernen](/blog/dating-fragen-kennenlernen) von Menschen mit ähnlichen Werten.
 
 Diese Menschen sind authentisch und abenteuerlustig.
 

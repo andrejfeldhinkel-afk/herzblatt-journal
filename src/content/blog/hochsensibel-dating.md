@@ -182,7 +182,7 @@ Das Vertrauen in der Liebe als HSP ist möglich. Sie brauchen nur jemanden, der 
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Emotionale Abhängigkeit überwinden: Unabhängigkeit in Beziehungen](/blog/emotionale-abhaengigkeit), [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Emotionale Abhängigkeit überwinden: Unabhängigkeit in Beziehungen](/blog/emotionale-abhaengigkeit), [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
 
 - [Selbstliebe als Dating-Geheimwaffe: Warum du dich selbst](/blog/selbstliebe-dating/)
 - [Emotionale Abhängigkeit überwinden: Unabhängigkeit](/blog/emotionale-abhaengigkeit/)

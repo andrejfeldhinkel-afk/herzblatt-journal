@@ -216,7 +216,7 @@ Das ist nicht böse. Das ist Selbstschutz. Das sind Menschen, die verletzt wurde
 
 ### Avoidant Attachment und Unabhängigkeit
 
-Manche Menschen sind mit einem avoiding Bindungsstil aufgewachsen. Sie wurden gelehrt, dass Nähe erstickt. Dass Emotionalität schwach ist. Dass Unabhängigkeit das einzig Wichtige ist. Diese Menschen spielen Spielchen, um dir zu zeigen, dass sie dich nicht brauchen. Sie halten dich auf Armeslänge, weil Nähe sie angespannt macht.
+Manche Menschen sind mit einem avoiding [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) aufgewachsen. Sie wurden gelehrt, dass Nähe erstickt. Dass Emotionalität schwach ist. Dass Unabhängigkeit das einzig Wichtige ist. Diese Menschen spielen Spielchen, um dir zu zeigen, dass sie dich nicht brauchen. Sie halten dich auf Armeslänge, weil Nähe sie angespannt macht.
 
 ### Ambivalent Attachment und die konstante Suche nach Versicherung
 

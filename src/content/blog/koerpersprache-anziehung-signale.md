@@ -17,7 +17,7 @@ faq:
 
 ---
 
-Ungefähr 55 Prozent unserer Kommunikation erfolgt durch Körpersprache, nicht durch Worte. Das bedeutet, dass die Hälfte dessen, was du vermittelst, durch deine Bewegungen, Gesten und Positionen ausgedrückt wird. Beim Flirten und Kennenlernen ist dieses Wissen besonders wertvoll. Wenn du die Körpersprache der Anziehung lesen kannst, verstehst du viel mehr über die Person vor dir – oft mehr, als sie mit Worten ausdrücken würde.
+Ungefähr 55 Prozent unserer Kommunikation erfolgt durch Körpersprache, nicht durch Worte. Das bedeutet, dass die Hälfte dessen, was du vermittelst, durch deine Bewegungen, Gesten und Positionen ausgedrückt wird. Beim Flirten und [Kennenlernen](/blog/dating-fragen-kennenlernen) ist dieses Wissen besonders wertvoll. Wenn du die Körpersprache der Anziehung lesen kannst, verstehst du viel mehr über die Person vor dir – oft mehr, als sie mit Worten ausdrücken würde.
 
 ## Die Basics der Flirt-Körpersprache
 

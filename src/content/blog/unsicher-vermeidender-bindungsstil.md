@@ -22,7 +22,7 @@ Vielleicht brauchst du "Raum". Vielleicht sagt er/sie, dass er/sie nicht bereit 
 
 Es ist verwirrend, weil der Partner eine Minute dich zeigt, dass er/sie dich liebt, und die nächste Minute sich abschließt.
 
-Das ist der unsicher-vermeidende Bindungsstil. Und wenn du nicht verstehst, was passiert, wirst du dich selbst verrückt fahren.
+Das ist der unsicher-vermeidende [Bindungsstil](/blog/avoidant-attachment-beziehung-guide). Und wenn du nicht verstehst, was passiert, wirst du dich selbst verrückt fahren.
 
 ## Was ist ein unsicher-vermeidender Bindungsstil?
 

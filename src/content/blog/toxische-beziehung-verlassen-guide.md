@@ -25,7 +25,7 @@ faq:
 
 ## Die versteckte Last einer toxischen Beziehung
 
-Du kennst dieses Gefühl wahrscheinlich nur zu gut: Das Herzklopfen, wenn dein Partner die Tür öffnet. Das Überprüfen von Formulierungen vor dem Sprechen. Die ständige Angst, etwas Falsches zu sagen oder zu tun. Eine toxische Beziehung ist wie ein unsichtbares Gefängnis, in dem du selbst der Gefängniswärter bist. Es gibt keine Gitterstäbe, keine abgesperrte Tür — nur die Angst, die dich lähmt, und die Hoffnung, dass sich alles irgendwann ändert.
+Du kennst dieses Gefühl wahrscheinlich nur zu gut: Das Herzklopfen, wenn dein Partner die Tür öffnet. Das Überprüfen von Formulierungen vor dem Sprechen. Die ständige Angst, etwas Falsches zu sagen oder zu tun. Eine [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) ist wie ein unsichtbares Gefängnis, in dem du selbst der Gefängniswärter bist. Es gibt keine Gitterstäbe, keine abgesperrte Tür — nur die Angst, die dich lähmt, und die Hoffnung, dass sich alles irgendwann ändert.
 
 Viele Menschen, die in toxischen Beziehungen stecken, wissen oft gar nicht, dass sie sich in einer solchen befinden. Sie denken, dass die ständigen Konflikte, die manipulativen Spielchen und die emotionalen Auf und Abs einfach Teil jeder Liebe sind. Das ist nicht wahr. Eine gesunde Beziehung sollte dich nicht ständig ausgelaugt und niedergeschlagen fühlen lassen. Wenn du häufig nächtelang wach bleibst und über die neueste Auseinandersetzung nachdenkst, wenn du dich ständig selbst vorwirfst und schuldig fühlst — obwohl du weißt, dass du nichts falsch gemacht hast — dann ist es Zeit, die Wahrheit anzuerkennen.
 

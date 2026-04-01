@@ -126,7 +126,7 @@ Das Ergebnis ist immer das gleiche: Ein aufwachsendes Kind, dessen Nervensystem 
 
 ### Bindung und Fawn Response
 
-Die Psychologin Mary Ainsworth beschrieb verschiedene Bindungsstile, basierend darauf, wie Eltern auf die Bedürfnisse eines Kindes reagieren. Der Fawn Response ist eng mit dem **unsicheren Bindungsstil** verbunden — besonders mit der "anxious attachment" oder "anxious-preoccupied" Bindung.
+Die Psychologin Mary Ainsworth beschrieb verschiedene Bindungsstile, basierend darauf, wie Eltern auf die Bedürfnisse eines Kindes reagieren. Der Fawn Response ist eng mit dem **unsicheren [Bindungsstil](/blog/avoidant-attachment-beziehung-guide)** verbunden — besonders mit der "anxious attachment" oder "anxious-preoccupied" Bindung.
 
 Ein Kind mit unsicherer Bindung weiß nie wirklich, ob der Elternteil verfügbar sein wird. Manchmal ist er da, manchmal nicht. Manchmal ist er liebevoll, manchmal ist er kalt. Die Reaktion des Kindes ist eine Art: *"Ich werde alles tun, um diese Person nahe zu halten."*
 

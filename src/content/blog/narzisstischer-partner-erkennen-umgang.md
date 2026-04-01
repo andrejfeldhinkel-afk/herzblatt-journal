@@ -148,7 +148,7 @@ Jetzt werden wir sehr konkret. Hier sind 30 Warnsignale, die dir zeigen, dass du
 
 ### Warnsignale beim Love Bombing und Idealisierung
 
-**21. Er bewegt sich extrem schnell.** Drei Wochen nach dem Kennenlernen redet er von Heirat. Nach zwei Monaten wohnt ihr zusammen. Es gibt keine langsame, organische Entwicklung — nur explosive Intensität.
+**21. Er bewegt sich extrem schnell.** Drei Wochen nach dem [Kennenlernen](/blog/dating-fragen-kennenlernen) redet er von Heirat. Nach zwei Monaten wohnt ihr zusammen. Es gibt keine langsame, organische Entwicklung — nur explosive Intensität.
 
 **22. Er überleicht dich mit Aufmerksamkeit am Anfang.** Täglich Nachrichten, ständige Anrufe, Geschenke, Pläne. Du fühlst dich wie eine Königin — und genau darum geht es ihm: Du solltest dich so gebraucht fühlen, dass du blind für rote Flaggen wirst.
 
@@ -188,7 +188,7 @@ Die Bindungstheorie besagt, dass die Art und Weise, wie wir uns zu Erwachsenen b
 
 Es gibt verschiedene Bindungsstile: sicher, ängstlich-anhänglich, vermeidend und desorganisiert.
 
-Menschen mit ängstlich-anhänglichem Bindungsstil wurden oft als Kinder von einem Elternteil erzogen, der emotional verfügbar und dann wieder nicht verfügbar war. Manchmal war die Liebe bedingt. „Ich liebe dich, wenn du Deine Hausaufgaben machst." „Wenn du nicht perfekt bist, bin ich enttäuscht." Diese Menschen entwickeln eine tiefe Angst vor Verlust und ein bedürftiges Streben nach Bestätigung.
+Menschen mit ängstlich-anhänglichem [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) wurden oft als Kinder von einem Elternteil erzogen, der emotional verfügbar und dann wieder nicht verfügbar war. Manchmal war die Liebe bedingt. „Ich liebe dich, wenn du Deine Hausaufgaben machst." „Wenn du nicht perfekt bist, bin ich enttäuscht." Diese Menschen entwickeln eine tiefe Angst vor Verlust und ein bedürftiges Streben nach Bestätigung.
 
 Als Erwachsene werden sie von narzisstischen Partnern angezogen. Warum? Weil der Narzisst am Anfang genau das gibt, was sie immer wollten: ungeteilte, intensive Aufmerksamkeit. Die Liebe ist endlich verfügbar! Und wenn die Abwertung beginnt, triggert das das alte Muster: „Wenn ich nur perfekter bin, wenn ich nur alles richtig mache, kann ich ihn glücklich machen und seine Liebe zurückbekommen."
 

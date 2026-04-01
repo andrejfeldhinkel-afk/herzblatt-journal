@@ -174,7 +174,7 @@ Nicht unbedingt. Viele Menschen finden Schüchternheit attraktiv — sie signali
 Wähle eine vertraute Umgebung, plane eine Aktivität (das lenkt ab), und erinnere dich: Dein Date ist wahrscheinlich genauso nervös. Kleine Schritte sind besser als gar keine.
 
 **Welche Dating-App ist gut für Schüchterne?**
-Bumble (Frauen machen den ersten Schritt) und Hinge (tiefere Profile statt Swipe-Marathon) sind gute Optionen. Das schriftliche Kennenlernen nimmt den Druck der ersten Sekunden.
+Bumble (Frauen machen den ersten Schritt) und Hinge (tiefere Profile statt Swipe-Marathon) sind gute Optionen. Das schriftliche [Kennenlernen](/blog/dating-fragen-kennenlernen) nimmt den Druck der ersten Sekunden.
 
 **Sollte ich meine Schüchternheit im Profil erwähnen?**
 Ja. Es braucht nicht zu sagen "Ich bin schüchtern und ängstlich". Aber etwas wie "Ich bin introvertiert und brauche Zeit um aufzutauen" ist ehrlich und reduziert die falsche Erwartungen.

@@ -131,7 +131,7 @@ Der **Weihnachtsmarkt** ist legendär romantisch. Glühwein in der Hand, die Sta
 ## Praktische Dating-Tipps für Trier
 
 ### Die beste Tageszeit für ein Date
-- **Tagsüber (10:00-14:00)**: Porta Nigra + Spaziergang an der Mosel + Café-Stop = perfekt für erstes Kennenlernen
+- **Tagsüber (10:00-14:00)**: Porta Nigra + Spaziergang an der Mosel + Café-Stop = perfekt für erstes [Kennenlernen](/blog/dating-fragen-kennenlernen)
 - **Nachmittags (14:00-17:00)**: Museum oder Weingut-Besuch = intellektuell und entspannt
 - **Abends (18:00-22:00)**: Weinstube in der Altstadt + Spaziergang = romantisch und intim
 - **Wochenende**: Open-Air-Aktivitäten oder Bootsfahrt = entspannt und spaßig

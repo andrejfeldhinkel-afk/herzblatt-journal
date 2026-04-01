@@ -77,7 +77,7 @@ Diese Klarheit spart enorm viel Energie, weil du von Anfang an filterst und dich
 
 Slow Dating ist das bewusste Gegenstück zur Schnelllebigkeit des modernen Datings. Statt fünf oberflächliche Dates pro Woche zu haben, gönnst du dir eines — und gibst diesem einen Date deine volle Aufmerksamkeit.
 
-Nimm dir Zeit für das Kennenlernen. Schreibe länger, bevor du dich triffst. Stelle tiefere Fragen. Lasse das Gespräch organisch wachsen, statt einem inneren Skript zu folgen. Die Verlangsamung nimmt den Druck und gibt dem Dating seine Magie zurück.
+Nimm dir Zeit für das [Kennenlernen](/blog/dating-fragen-kennenlernen). Schreibe länger, bevor du dich triffst. Stelle tiefere Fragen. Lasse das Gespräch organisch wachsen, statt einem inneren Skript zu folgen. Die Verlangsamung nimmt den Druck und gibt dem Dating seine Magie zurück.
 
 ### Dein Selbstwert unabhängig vom Dating
 
@@ -98,7 +98,7 @@ Erinnere dich daran, warum du überhaupt datest: nicht um einen Lebenslauf abzua
 Und vielleicht — ganz vielleicht — ist die beste Version deines Dating-Lebens genau die, die nach einer Pause des Innehaltens beginnt.
 ## Weiterlesen
 
-- [Attachment Styles: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating-verstehen/)
+- [Attachment Styles: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating-verstehen/)
 - [Dating-App-Sucht: Wenn Swipen zur Obsession wird](/blog/dating-app-sucht-erkennen/)
 - [Frühwarnzeichen beim Dating: Worauf du achten solltest](/blog/dating-fruehwarnzeichen/)
 - [Dating mit Depression: Ehrlich bleiben, ohne sich zu verlieren](/blog/dating-mit-depression/)

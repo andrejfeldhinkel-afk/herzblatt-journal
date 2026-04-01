@@ -39,7 +39,7 @@ Video-Dates sind sicherer. Sie sehen die Person, bevor Sie sich treffen. Sie kö
 Statt 1-2 Stunden für ein Kaffeetermin zu investieren, können Sie 30 Minuten sehen, ob echte Chemie gibt. Dies ist weniger emotionale Investition für falsche Matches.
 **Geringere Angst:**
 Dies ist paradox, aber Video-Dates sind oft weniger angespannt als in-Person. Sie sind im sicheren Raum. Es gibt eine “Aus”-Taste. Dies ermöglicht mehr Authentizität.
-**Das echte Kennenlernen:**
+**Das echte [Kennenlernen](/blog/dating-fragen-kennenlernen):**
 Sie können gesichtsausdrücke sehen, Tonfall hören, echte [Gespräche](/blog/kennenlernen-fragen-stellen) führen – alles, was ein Chat nicht bietet, ohne die Vollverpflichtung eines Treffens.
 
 ### Die Vorteile für die Dater

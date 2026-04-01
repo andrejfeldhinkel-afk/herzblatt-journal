@@ -277,7 +277,7 @@ Das dauert Zeit – normalerweise Monate, nicht Tage. Aber es ist möglich.
 
 **Frage: "Ist es falsch, ängstlich zu sein?"**
 
-Nein, überhaupt nicht. Es ist einfach ein anderer Bindungsstil. Ängstliche Menschen sind oft empathisch, liebevoll und verlässlich. Der Nachteil ist, dass die Angst von dir Toll fordern kann. Mit Bewusstsein kannst du die beste Version deines ängstlichen Stils sein – eine liebevolle Person, die auch sich selbst vertraut.
+Nein, überhaupt nicht. Es ist einfach ein anderer [Bindungsstil](/blog/avoidant-attachment-beziehung-guide). Ängstliche Menschen sind oft empathisch, liebevoll und verlässlich. Der Nachteil ist, dass die Angst von dir Toll fordern kann. Mit Bewusstsein kannst du die beste Version deines ängstlichen Stils sein – eine liebevolle Person, die auch sich selbst vertraut.
 
 **Frage: "Kann ich mein Bindungsmuster allein verändern?"**
 

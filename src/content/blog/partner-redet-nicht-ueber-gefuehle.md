@@ -63,7 +63,7 @@ Manchmal hat dein Partner erlebt, dass Verletzlichkeit bestraft wurde. Sein Vate
 
 Wenn Verletzlichkeit mit Schmerz verbunden ist — dann wird der Mensch emotional dicht. Das ist nicht Kälte, das ist Selbschutz. Der Körper hat gelernt: "Gefühle = Gefahr. Versteck sie."
 
-### Ein vermeidender Bindungsstil
+### Ein vermeidender [Bindungsstil](/blog/avoidant-attachment-beziehung-guide)
 
 Es gibt vier Bindungsstile. Der **vermeidende Bindungsstil** ist: "Ich bin unabhängig, ich brauche emotionale Nähe nicht, Gefühle sind kompliziert."
 

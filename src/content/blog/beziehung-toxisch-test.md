@@ -12,7 +12,7 @@ tags:
 
 ## Toxische beziehung Test: 20 Warnsignale, die du ernst nehmen solltest
 
-Eine toxische Beziehung ist wie Gift in homöopathischen Dosen. Am Anfang merkst du nichts, doch mit der Zeit wird es schwächer und zerstörerischer. Du fragst dich, ob du überreagierst, ob deine Gefühle berechtigt sind oder ob du doch schuld trägst. Genau diesen Kreislauf der Verunsicherung möchten wir mit dir durchbrechen. Dieser umfassende Test hilft dir, klare Warnsignale zu erkennen und zu bewerten, ob deine Beziehung toxisch ist oder ob ihr nur eine schwierige Phase durchmacht.
+Eine [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) ist wie Gift in homöopathischen Dosen. Am Anfang merkst du nichts, doch mit der Zeit wird es schwächer und zerstörerischer. Du fragst dich, ob du überreagierst, ob deine Gefühle berechtigt sind oder ob du doch schuld trägst. Genau diesen Kreislauf der Verunsicherung möchten wir mit dir durchbrechen. Dieser umfassende Test hilft dir, klare Warnsignale zu erkennen und zu bewerten, ob deine Beziehung toxisch ist oder ob ihr nur eine schwierige Phase durchmacht.
 
 Wenn du heute eine dieser Seiten aufrufst, hast du wahrscheinlich schon bemerkt, dass etwas nicht stimmt. Vielleicht liest du diesen Artikel spät nachts, während dein Partner schläft. Vielleicht hast du gerade einen Streit gehabt. Oder es ist einfach eine stille Verzweiflung, die dich hierher gebracht hat – das diffuse Gefühl, dass etwas fundamental nicht in Ordnung ist.
 

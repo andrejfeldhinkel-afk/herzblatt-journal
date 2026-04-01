@@ -916,7 +916,7 @@ Manchmal die einzige Art um die Kontrolle nicht auszuüben ist, eine dritte Pers
 
 ## Kontrollzwang und verschiedene Bindungsstile
 
-Der Kontrollzwang manifestiert sich anders je nach deinem Bindungsstil. Zu verstehen deinen Typ ist wichtig weil es die beste Heilung-Route zeigt.
+Der Kontrollzwang manifestiert sich anders je nach deinem [Bindungsstil](/blog/avoidant-attachment-beziehung-guide). Zu verstehen deinen Typ ist wichtig weil es die beste Heilung-Route zeigt.
 
 ### Ängstlich-Kontrollierer
 

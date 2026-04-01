@@ -31,7 +31,7 @@ Das **Studium** ist eine magische Zeit für [dating](/blog/anzeichen-er-steht-au
 
 Uni-Dating hat seine **eigenen Regeln**. Du hast **unbegrenzte Zeit**, um Leute in **Vorlesungen**, **Seminaren** und auf **Parties** kennenzulernen. Es gibt **weniger Druck** (viele dateten mehrere Menschen gleichzeitig, was völlig normal ist). **Finanzielle Grenzen** machen dich **kreativ**. Und es gibt eine **Akzeptanz** für verschiedene **Beziehungsarten** – von **Spielen** bis **ernsthafte Beziehungen**. Außerdem teilst du oft den **gleichen sozialen Kreis**, was bedeutet, dass Beziehungen schneller **öffentlich** werden.
 
-## Orte an der Uni zum Kennenlernen
+## Orte an der Uni zum [Kennenlernen](/blog/dating-fragen-kennenlernen)
 
 ### Klassische Uni-Orte
 

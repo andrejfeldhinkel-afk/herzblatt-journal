@@ -197,7 +197,7 @@ Warum wartest du? Wählt eine Aktivität aus dieser Liste und plant euer erstes 
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
 
 - [Drittes Date Ideen: Jetzt wird es persönlich](/blog/drittes-date-ideen/)
 - [Sexuelle Kompatibilität in Beziehungen: Warum es wichtig ist](/blog/sexuelle-kompatibilitaet/)

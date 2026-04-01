@@ -130,7 +130,7 @@ Nachts und am Wochenende schneller zu antworten kann bedeuten, dass du Zeit hast
 Der Chat sollte sich entwickeln. Erste Nachrichten sind oberflächlich – "Woher kommst du? Was arbeitest du?" Das ist normal. Aber wenn ihr weitermacht, sollte es tiefer werden. Teilt persönlichere Dinge.
 
 **Progression:**
-1. Oberflächliches Kennenlernen: Arbeit, Hobbys, Größe der Stadt
+1. Oberflächliches [Kennenlernen](/blog/dating-fragen-kennenlernen): Arbeit, Hobbys, Größe der Stadt
 2. Interessen und Leidenschaften: "Was macht dir echte Freude?"
 3. Träume und Werte: "Wo siehst du dich in 5 Jahren?"
 4. Verletzlichkeit und echte Tiefe: "Was ist schwierig für dich gerade?"

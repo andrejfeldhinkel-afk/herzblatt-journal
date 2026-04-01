@@ -98,7 +98,7 @@ Ein Geheimtipp für date ideen regensburg: Es gibt kleine Weinstuben und Restaur
 
 Bars für das Dating: Regensburg hat eine lebendige Bar-Szene. Das Irish Pub, verschiedene Cocktail-Bars und traditionelle bayerische Kneipen bieten unterschiedliche Atmosphären. Ein Cocktail-Date ist besonders gut nach dem Essen oder als Aktivität für sich selbst. Für dating regensburg am Wochenende ist eine Bar-Tour auch eine Möglichkeit.
 
-Tipp für budget-bewusste singles regensburg: Ein Coffee-Date in einem schönen Café ist genauso wertvoll wie ein teures Restaurant-Date. Die Qualität des Gesprächs zählt mehr als der Preis. Regensburgs Cafés sind gemütlich und bieten eine perfekte Umgebung für das erste Kennenlernen.
+Tipp für budget-bewusste singles regensburg: Ein Coffee-Date in einem schönen Café ist genauso wertvoll wie ein teures Restaurant-Date. Die Qualität des Gesprächs zählt mehr als der Preis. Regensburgs Cafés sind gemütlich und bieten eine perfekte Umgebung für das erste [Kennenlernen](/blog/dating-fragen-kennenlernen).
 
 ## Das Niedermünster: Spirituelle und romantische Orte
 

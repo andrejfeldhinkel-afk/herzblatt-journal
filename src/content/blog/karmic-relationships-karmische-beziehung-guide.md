@@ -212,7 +212,7 @@ Eine schwierige karmische Beziehung wird dich herausfordern, aber du wirst insge
 
 Eine toxische karmische Beziehung wird dich schaden.
 
-Der Unterschied ist wichtig. Nicht jede Schwierigkeit ist toxisch. Aber nicht jede toxische Beziehung ist eine Lektion, die du ertragen musst.
+Der Unterschied ist wichtig. Nicht jede Schwierigkeit ist toxisch. Aber nicht jede [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) ist eine Lektion, die du ertragen musst.
 
 Manche Menschen verwenden das "karmische Beziehung" Konzept als Ausrede, in dysfunktionalen Beziehungen zu bleiben. "Es ist karmisch, also muss ich bleiben." Das ist nicht wahr. Karma bedeutet nicht, dich leiden zu lassen.
 

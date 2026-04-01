@@ -238,7 +238,7 @@ Umgebungen, die schön sind, machen auch Menschen schöner und fröhlicher wahrg
 
 ## Die Zweite Date – Den Ort erhöhen
 
-Wenn das erste Date großartig gelaufen ist, der nächste Schritt ist normalerweise ein zweites Date. Das zweite Date ist der Ort, an dem du es ein bisschen erhöhen kannst. Das erste Date war das Kennenlernen, das zweite Date ist der Anfang des Schaffens einer echten Verbindung.
+Wenn das erste Date großartig gelaufen ist, der nächste Schritt ist normalerweise ein zweites Date. Das zweite Date ist der Ort, an dem du es ein bisschen erhöhen kannst. Das erste Date war das [Kennenlernen](/blog/dating-fragen-kennenlernen), das zweite Date ist der Anfang des Schaffens einer echten Verbindung.
 
 Ein zweites Date könnte eine schönere Mahlzeit sein, ein Konzert oder Theater, oder vielleicht sogar ein Wochenend-Wochenende, wenn ihr beide interessiert seid. Das zweite Date sollte zeigen, dass du die erste Date genossen hast und dass du dich mehr Anstrengung gibst.
 

@@ -31,7 +31,7 @@ Bevor wir aber zu weit abschweifen – was ist Dry Dating überhaupt? Einfach ge
 
 Die Gen Z macht es vor: Laut aktuellen Studien verzichtet etwa 40 % der Menschen unter 30 Jahren regelmäßig auf Alkohol – sei es beim Dating oder generell. Das ist ein massiver Anstieg. Noch vor zehn Jahren war das undenkbar. Millennials waren die Generation, die „Alkohol ist ja zum Relaxen da" verinnerlicht hat. Gen Z denkt anders.
 
-Ein großes Portal für Online-Dating hat 2025 eine Umfrage durchgeführt: 58 % der Singles würden ein Date lieber sober verbringen als betrunken. 58 Prozent! Das ist keine Randgruppe mehr, sondern die Mehrheit. Besonders Frauen geben an, dass ihnen ein klarer Kopf beim Kennenlernen wichtig ist – und das ist ein verständlicher Grund.
+Ein großes Portal für Online-Dating hat 2025 eine Umfrage durchgeführt: 58 % der Singles würden ein Date lieber sober verbringen als betrunken. 58 Prozent! Das ist keine Randgruppe mehr, sondern die Mehrheit. Besonders Frauen geben an, dass ihnen ein klarer Kopf beim [Kennenlernen](/blog/dating-fragen-kennenlernen) wichtig ist – und das ist ein verständlicher Grund.
 
 Warum der Wandel? Zum einen ist Burnout ein großes Thema. Menschen sind erschöpfter, gestresster und wollen ihre Freizeit nicht mit Alkohol-Regeneration verbringen. Zum anderen wächst das Bewusstsein für mentale Gesundheit. Alkohol ist kein gutes Mittel, um mit Nervosität oder sozialer Angst umzugehen – das wissen wir mittlerweile besser.
 

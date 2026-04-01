@@ -40,7 +40,7 @@ Für ruhigere, zunächst vorsichtigere Dates empfehlen sich die Gegenden um die 
 
 **Zum Postwagen** befindet sich an der Hötstraße und ist der Klassiker für traditionelle Aachener Küche. Die Aachener Printe und die Leberwurst sind Spezialitäten, die man hier probieren sollte.
 
-**Café im Bild** ist perfekt für Treffen am Nachmittag. Mit gutem Kaffee und frischem Gebäck schafft man eine entspannte Atmosphäre für Kennenlernen.
+**Café im Bild** ist perfekt für Treffen am Nachmittag. Mit gutem Kaffee und frischem Gebäck schafft man eine entspannte Atmosphäre für [Kennenlernen](/blog/dating-fragen-kennenlernen).
 
 **Bricks** ist die trendige Bar-Lounge für Cocktails. Modern gestaltet und mit guter Musik – ideal, um den Abend ausklingen zu lassen.
 

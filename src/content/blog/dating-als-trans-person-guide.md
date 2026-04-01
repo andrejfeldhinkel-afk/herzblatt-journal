@@ -253,7 +253,7 @@ Als trans Person hast du bereits eine Sache erlebt, die viele cis Menschen nicht
 
 ## Navigiere verschiedene Phasen des Kennenlernens
 
-Das Kennenlernen verläuft normalerweise in Phasen. Jede Phase hat ihre eigenen Dynamiken und Anforderungen.
+Das [Kennenlernen](/blog/dating-fragen-kennenlernen) verläuft normalerweise in Phasen. Jede Phase hat ihre eigenen Dynamiken und Anforderungen.
 
 Die erste Phase ist die "Anziehungsphase" – wenn alles neu und aufregend ist. In dieser Phase ist es normal, sich gut zu fühlen und viel Hoffnung zu haben. Aber es ist auch wichtig, realistische Erwartungen zu haben. Diese Phase kann nicht ewig andauern – das ist neurochemisch unmöglich.
 

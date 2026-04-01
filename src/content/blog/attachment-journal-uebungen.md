@@ -14,7 +14,7 @@ tags:
 
 Du merkst, dass du immer Angst vor dem Verlassenwerden hast. Du klammmerst an Beziehungen fest, weißt aber nicht, warum. Oder das Gegenteil – du vermeidest Nähe, obwohl du die Verbindung möchtest. Du spielst Spielspiele, wartest darauf, dass er oder sie schreibt, überanalysierst jede Nachricht.
 
-Diese Muster sind nicht deine Schuld. Sie kommen wahrscheinlich von deinem Bindungsstil – eine Weise, wie du gelernt hast, in Beziehungen zu sein, oft basierend auf früheren Erfahrungen mit Eltern, Bezugspersonen oder vergangenen Partnern.
+Diese Muster sind nicht deine Schuld. Sie kommen wahrscheinlich von deinem [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) – eine Weise, wie du gelernt hast, in Beziehungen zu sein, oft basierend auf früheren Erfahrungen mit Eltern, Bezugspersonen oder vergangenen Partnern.
 
 Das Gute: Du kannst deinen Bindungsstil verändern. Das dauert nicht Jahre in der Therapie. Es dauert Bewusstsein, Regelmäßigkeit und 30 Tage, um einen neuen neuralen Weg zu bilden.
 
@@ -492,7 +492,7 @@ Dann werdet ihr beide arbeiten müssen. Idealerweise gemeinsam, mit Therapist-Hi
 
 **Was wenn ich in einer toxischen Beziehung bin?**
 
-Dann ist dies nur ein Anfang. Du brauchst möglicherweise mehr Hilfe, um die Beziehung zu verlassen. Kein Journal kann toxische Beziehung heilend machen. Aber es kann dich helfen, zu erkennen, dass Sie würdig sind, zu verlassen und besser zu haben.
+Dann ist dies nur ein Anfang. Du brauchst möglicherweise mehr Hilfe, um die Beziehung zu verlassen. Kein Journal kann [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) heilend machen. Aber es kann dich helfen, zu erkennen, dass Sie würdig sind, zu verlassen und besser zu haben.
 
 **Werde ich je sichere Bindung erhalten?**
 

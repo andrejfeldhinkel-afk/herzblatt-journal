@@ -423,7 +423,7 @@ In dem Fall: Ein Partner kann sagen, "Wir sind beide gerade aktiv. Können wir e
 
 ## Bindungsmuster und Emotionsregulation: Das tiefere Verständnis
 
-Emotionsregulation ist nicht in einem Vakuum. Sie ist tief verbunden mit deinem Bindungsstil — wie du in Beziehungen präsent bist.
+Emotionsregulation ist nicht in einem Vakuum. Sie ist tief verbunden mit deinem [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) — wie du in Beziehungen präsent bist.
 
 ### Unsicherer Bindungsstil
 

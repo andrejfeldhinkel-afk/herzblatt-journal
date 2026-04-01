@@ -38,7 +38,7 @@ Die moderne Traumaforschung, insbesondere die Arbeiten von Bessel van der Kolk u
 
 ## Trauma und Bindungsstile: Die Grundlagen verstehen
 
-Dein Bindungsstil wurde größtenteils in deinen frühen Jahren durch deine Beziehung zu deinen Bezugspersonen geprägt. Wenn diese Beziehungen sicher und zuverlässig waren, entwickelst du wahrscheinlich einen sicheren Bindungsstil. Doch wenn es in diesen frühen Jahren zu Traumatisierung, Vernachlässigung oder Instabilität kam, können sich unsichere Bindungsmuster entwickeln.
+Dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) wurde größtenteils in deinen frühen Jahren durch deine Beziehung zu deinen Bezugspersonen geprägt. Wenn diese Beziehungen sicher und zuverlässig waren, entwickelst du wahrscheinlich einen sicheren Bindungsstil. Doch wenn es in diesen frühen Jahren zu Traumatisierung, Vernachlässigung oder Instabilität kam, können sich unsichere Bindungsmuster entwickeln.
 
 Es gibt hauptsächlich vier Bindungsstile: Sicher, Ängstlich-Verstrickt (Anxious), Vermeidend und Ängstlich-Vermeidend (Fearful-Avoidant). Jeder dieser Stile wird stark von frühen Traumaerfahrungen beeinflusst. Menschen mit ängstlichem Bindungsstil haben oft erlebt, dass ihre Bedürfnisse unvorhersehbar erfüllt wurden. Sie wurden möglicherweise manchmal getröstet, manchmal ignoriert, was zu einer inneren Unsicherheit führte.
 

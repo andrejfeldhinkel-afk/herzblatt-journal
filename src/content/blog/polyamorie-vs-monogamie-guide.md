@@ -105,7 +105,7 @@ Eine weitere Herausforderung ist, dass nicht alle beteiligten Personen mögliche
 
 ## Bindungsstile und ihre Auswirkungen auf die Wahl des Modells
 
-Der Bindungsstil einer Person – ob sicher, ängstlich-ambivalent, vermeidend oder chaotisch-unsicher – beeinflusst stark die Beziehungsmodelle, in denen jemand gedeihen kann. Menschen mit sicherem Bindungsstil können sowohl in monogamen als auch in polyamoren Beziehungen erfolgreich sein, da sie grundsätzlich Vertrauen haben und klare Grenzen kommunizieren können.
+Der [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) einer Person – ob sicher, ängstlich-ambivalent, vermeidend oder chaotisch-unsicher – beeinflusst stark die Beziehungsmodelle, in denen jemand gedeihen kann. Menschen mit sicherem Bindungsstil können sowohl in monogamen als auch in polyamoren Beziehungen erfolgreich sein, da sie grundsätzlich Vertrauen haben und klare Grenzen kommunizieren können.
 
 Menschen mit ängstlich-ambivalentem Bindungsstil können in monogamer Struktur mehr Sicherheit finden, besonders wenn ihr Partner ebenfalls einen sicheren Stil hat. Das exklusive „du bist mein einziger" kann für diese Menschen sehr beruhigend sein. In Polyamorie können sich Menschen mit ängstlichem Bindungsstil verletzlich und verdrängt fühlen, obwohl es auch polyamor lebende Menschen mit ängstlichem Stil gibt, die ihre Unsicherheit durch offene Kommunikation bewältigen.
 

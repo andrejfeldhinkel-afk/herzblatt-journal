@@ -85,7 +85,7 @@ Das passiert in deiner Kindheit. Manchmal war dein Elternteil liebevoll und aufm
 
 Protest-Verhalten wird zu deinem Versuch, diese intermittierende Verstärkung zu schaffen. Du schaffst Drama, und manchmal bekommst du die emotionale Reaktion (die Belohnung). Manchmal nicht. Die Unvorhersehbarkeit treibt dich. Der Hunger danach treibt dich immer wieder.
 
-### Unsicherer Bindungsstil
+### Unsicherer [Bindungsstil](/blog/avoidant-attachment-beziehung-guide)
 
 Menschen mit ängstlichem Bindungsstil – was oft aus früher Vernachlässigung, Inkonsistenz oder Trauma kommt – sind besonders anfällig für Protest-Verhalten.
 

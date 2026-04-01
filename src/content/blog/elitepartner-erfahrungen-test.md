@@ -236,7 +236,7 @@ Abschließend möchte ich dir praktische Tipps geben, wie du ElitePartner am bes
 
 **4. Sei aktiv:** Je mehr du die Plattform nutzt, desto besser wird das Matching-System, dich zu verstehen. Logge regelmäßig ein, schau dir Vorschläge an, gib Feedback.
 
-**5. Treffe dich schnell:** Wenn ihr eine gute schriftliche Chemie habt, schlagt schnell ein Treffen vor. ElitePartner ist ein Werkzeug zum Kennenlernen, nicht zum Dauerhafte-E-Mail-Schreiben.
+**5. Treffe dich schnell:** Wenn ihr eine gute schriftliche Chemie habt, schlagt schnell ein Treffen vor. ElitePartner ist ein Werkzeug zum [Kennenlernen](/blog/dating-fragen-kennenlernen), nicht zum Dauerhafte-E-Mail-Schreiben.
 
 **6. Nutze die psychologischen Einsichten:** ElitePartner kann dir helfen zu verstehen, was dir wirklich in einer Beziehung wichtig ist. Nutze diese Einsichten!
 

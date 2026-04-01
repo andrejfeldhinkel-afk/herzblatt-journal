@@ -1,25 +1,21 @@
 ---
-title: "Love Bombing erkennen und Dich schützen"
-description: "Love Bombing fühlt sich wie echte Liebe an - ist aber emotional manipulativ. Lerne die Warnsignale zu erkennen und dich selbst zu schützen."
+title: "Love Bombing: Warnsignale erkennen & dich schützen (2026)"
+description: "Love Bombing erkennen und dich schützen — die manipulative Taktik verstehen, 8 Warnsignale und warum es keine echte Liebe ist."
 date: 2026-03-16
 tags: ["Dating", "Gesundheit", "Red Flags", "Selbstliebe"]
 image: "/images/blog/love-bombing-erkennen-schuetzen.webp"
 imageAlt: "Warnsignale für Love Bombing, overeager Partner"
-keywords: ["love bombing erkennen", "manipulative beziehung", "toxic dating", "warnsignale dating", "emotionale manipulation"]
+keywords: ["love bombing", "lovebombing", "love bombing erkennen", "love bombing narzisst", "love bombing phasen", "übertriebene zuneigung am anfang", "manipulative beziehung", "toxic dating", "warnsignale dating", "emotionale manipulation"]
 draft: false
 featured: False
 author: "sarah-kellner"
 faq:
-  - question: "Ist Love Bombing immer absichtlich manipulativ?"
-    answer: "Nicht immer. Manche Menschen love-bomben aus Unsicherheit oder Bindungsangst. Aber das Ergebnis ist das gleiche: Es ist unsustainabel und emotional damaging."
-  - question: "Kann sich jemand, der love-bombt, ändern?"
-    answer: "Ja - aber nur wenn sie ihre Verhaltensmuster erkennen und Therapie machen. Einfach zu hoffen, dass sie sich ändern, ist nicht sicher."
-  - question: "Was sollte ich tun, wenn ich gerade love-bombt werde?"
-    answer: "Verlangsame das Tempo. Stelle Grenzen. Beobachte, ob die andere Person respektvoll reagiert. Vertraue deinem Unbehagen, auch wenn es sich wie Liebe anfühlt."
-  - question: "Wie sieht echte Liebe im Gegensatz zu Love Bombing aus?"
-    answer: "Echte Liebe ist nachhaltig, respektiert deine Grenzen, verlangt nicht, dass du dich aufgibst. Love Bombing ist intensiv, invasiv und fordert schnelle Bindung."
-  - question: "Wenn ich love-bombt wurde - wie heile ich?"
-    answer: "Mit Zeit, Selbstmitgefühl und möglicherweise Therapie. Dein Vertrauen wurde verletzt. Das braucht echte Verarbeitung."
+  - question: "Was ist Love Bombing?"
+    answer: "Love Bombing ist eine Manipulationstechnik, bei der jemand mit übertriebenen Aufmerksamkeit, Komplimenten und Zuneigung überflutet wird — nicht aus echter Liebe, sondern um Kontrolle zu schaffen."
+  - question: "Ist Love Bombing immer Manipulation?"
+    answer: "Ja, Love Bombing ist immer manipulativ — egal ob bewusst oder unbewusst. Das Ergebnis ist das gleiche: eine unhaltbare, emotional schädigende Dynamik. Echte Liebe ist nachhaltig und respektiert Grenzen."
+  - question: "Wie unterscheidet man Love Bombing von echter Liebe?"
+    answer: "Echte Liebe ist nachhaltig, respektiert deine Grenzen und verlangt nicht, dass du dich selbst aufgibst. Love Bombing ist intensiv, invasiv, zerstörerisch und erzeugt schnelle, überwältigende Bindung."
 ---
 
 ## Einleitung: Das süße Gift der Überwältigung

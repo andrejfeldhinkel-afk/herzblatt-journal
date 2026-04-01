@@ -37,7 +37,7 @@ Der französische Einfluss ist überall spürbar – von der Café-Kultur über 
 
 Single sein in Genf bedeutet auch: Du findest schnell Menschen mit ähnlichen Interessen. Egal ob Outdoor-Enthusiast, Kulturjunkie oder Feinschmecker – in dieser internationalen Stadt gibt es eine Community für dich.
 
-## Die besten Viertel zum Kennenlernen und Flirten
+## Die besten Viertel zum [Kennenlernen](/blog/dating-fragen-kennenlernen) und Flirten
 
 ### Die Altstadt (Vieille Ville) – Klassik und Charme
 

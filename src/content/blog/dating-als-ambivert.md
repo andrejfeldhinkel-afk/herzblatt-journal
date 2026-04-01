@@ -568,7 +568,7 @@ Die Wahrheit ist: Wenn dein Date diese Dinge nicht versteht oder akzeptiert, dan
 
 ## Ambiversion und Bindungsstile
 
-Deine Ambiversion ist verbunden mit deinem Bindungsstil.
+Deine Ambiversion ist verbunden mit deinem [Bindungsstil](/blog/avoidant-attachment-beziehung-guide).
 
 **Sichere Ambiverte:**
 

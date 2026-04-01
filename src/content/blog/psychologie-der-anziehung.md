@@ -224,7 +224,7 @@ Das ist unterschiedlich von "Spielen" (bewusstes Ignorieren, Manipulation, emoti
 
 ## Bindungsstile: Warum du zu bestimmten Menschen hingezogen wirst
 
-Dein **Bindungsstil** — geprägt durch deine Kindheit und bisherige Beziehungen — beeinflusst massiv, zu welchen Menschen du dich hingezogen fühlst.
+Dein **[Bindungsstil](/blog/avoidant-attachment-beziehung-guide)** — geprägt durch deine Kindheit und bisherige Beziehungen — beeinflusst massiv, zu welchen Menschen du dich hingezogen fühlst.
 
 ### Die vier Bindungsstile
 

@@ -80,7 +80,7 @@ Oder es waren Traumatische Beziehungen. Du hast geliebt und dich auf jemanden ve
 
 Manchmal ist es auch kulturell. Wenn du aufgewachsen bist in einer Familie oder Kultur, die Unabhängigkeit über alles stellt, in der Schwäche eine Schande ist, dann hast du gelernt, dass du immer stark sein musst, dass es beschämend ist, um Hilfe zu bitten.
 
-Psychologisch gesprochen ist Hyper-Independence sehr nah an dem [vermeidenden Bindungsstil](/blog/unsicher-vermeidender-bindungsstil). Menschen mit vermeidendem Bindungsstil haben gelernt, dass Nähe bedrohlich ist. Sie bauen Mauern auf. Hyper-Independence ist eine verstärkte Version davon — ein Trauma-Response, der sagt: "Ich brauche niemanden und niemand braucht mich."
+Psychologisch gesprochen ist Hyper-Independence sehr nah an dem [vermeidenden Bindungsstil](/blog/unsicher-vermeidender-bindungsstil). Menschen mit vermeidendem [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) haben gelernt, dass Nähe bedrohlich ist. Sie bauen Mauern auf. Hyper-Independence ist eine verstärkte Version davon — ein Trauma-Response, der sagt: "Ich brauche niemanden und niemand braucht mich."
 
 ## Gesunde vs. ungesunde Unabhängigkeit
 

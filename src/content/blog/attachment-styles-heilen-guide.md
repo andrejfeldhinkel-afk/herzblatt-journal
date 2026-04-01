@@ -27,7 +27,7 @@ Oder das Gegenteil: Du liebst ihn, aber du kannst nicht nah beieinander sein. Du
 
 Beide Dinge haben einen Namen: Bindungsstile. Und beide können verändert werden.
 
-Dieser Artikel ist tief, praktisch und ehrlich. Wir schauen uns an, wie dein Bindungsstil gebildet wurde, warum er dich in Beziehungen sabotiert, und vor allem: wie du ihn heilen kannst.
+Dieser Artikel ist tief, praktisch und ehrlich. Wir schauen uns an, wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) gebildet wurde, warum er dich in Beziehungen sabotiert, und vor allem: wie du ihn heilen kannst.
 
 ## Was sind Bindungsstile überhaupt?
 

@@ -26,7 +26,7 @@ Ich kenne Paare, die nach dem zweiten Date keine Schmetterlinge spürten. Die si
 
 Kribbeln ist Nervosität gemischt mit Anziehung. Das ist nicht das gleiche wie Liebe. Das ist nicht das gleiche wie Kompatibilität. Oftmals ist Kribbeln sogar ein Zeichen dafür, dass du unbewusst jemanden verfolgst, der für dich nicht gut ist.
 
-Menschen mit unsicherem Bindungsstil — also Menschen die in ihrer Kindheit gelernt haben, dass Liebe bedeutet „andere müssen mich zur Aufmerksamkeit verdienen" — diese Menschen kribbeln oft für Menschen die ihnen nicht treu sind, die ambivalent sind, oder die sie einfach nicht zurücklieben.
+Menschen mit unsicherem [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) — also Menschen die in ihrer Kindheit gelernt haben, dass Liebe bedeutet „andere müssen mich zur Aufmerksamkeit verdienen" — diese Menschen kribbeln oft für Menschen die ihnen nicht treu sind, die ambivalent sind, oder die sie einfach nicht zurücklieben.
 
 Das ist das Drama-Kribbeln. Es fühlt sich wie Liebe an, aber es ist eigentlich Angst. Die Angst dass diese Person dich vielleicht verlässt. Die Angst dass du nicht gut genug bist. Die Angst dass du verloren hast, wenn du sie verlierst.
 

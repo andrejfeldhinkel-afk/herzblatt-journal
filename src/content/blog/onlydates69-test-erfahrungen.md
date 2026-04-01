@@ -380,7 +380,7 @@ Fake-Profile sind ein Thema. Schätzungsweise 5-15% der Accounts sind Bots oder 
 **Wie du Fakes erkennst:**
 - Stock-Fotos (Google Image Search bestätigt es)
 - Zu perfekte oder unrealistische Fotos
-- Sofort intimeOm Angebote ohne Kennenlernen
+- Sofort intimeOm Angebote ohne [Kennenlernen](/blog/dating-fragen-kennenlernen)
 - Profile mit 0 Aktivität seit Wochen (aber "gerade online")
 
 ### 4. Limited Moderations-Team

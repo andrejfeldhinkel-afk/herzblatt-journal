@@ -124,7 +124,7 @@ Die schwierige Wahrheit: Was du als "tiefe Liebe" empfindest, könnte tatsächli
 
 Limerence entsteht nicht aus dem Nichts. Es gibt tiefe psychologische Gründe, warum manche Menschen anfälliger dafür sind als andere.
 
-### Dein Bindungsstil
+### Dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide)
 
 Einer der stärksten Prädiktoren für Limerence ist dein Bindungsstil. Menschen mit [ängstlichem Bindungsstil](/blog/aengstlicher-bindungsstil-heilen) sind überproportional von Limerence betroffen.
 

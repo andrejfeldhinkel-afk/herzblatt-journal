@@ -41,7 +41,7 @@ Das Besondere: Es ist viel günstiger als vergleichbare Viertel in anderen deuts
 
 Der **Nordmarkt** mit der gleichnamigen U-Bahn-Station ist seit Jahren das Zentrum der Dortmunder Partyszene. Hier reihen sich Bars, Clubs und Restaurants aneinander.
 
-Die Atmosphäre ist laut, lebendig, und es geht hier ums Feiern und Kennenlernen. Wenn du Wert auf große Gruppen-Energien legst, ist das der Ort.
+Die Atmosphäre ist laut, lebendig, und es geht hier ums Feiern und [Kennenlernen](/blog/dating-fragen-kennenlernen). Wenn du Wert auf große Gruppen-Energien legst, ist das der Ort.
 
 Für Dates mit mehr Ruhe: Geh ins Kreuzviertel. Für Nacht-Abenteuer: Nordmarkt.
 

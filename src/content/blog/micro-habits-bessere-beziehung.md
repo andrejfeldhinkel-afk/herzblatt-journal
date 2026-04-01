@@ -401,7 +401,7 @@ Das ist es.
 
 Lerne wie diese Micro-Habits mit besserer Kommunikation in Beziehungen zusammenpassen. Micro-Habits sind wie das Fundament; echte Kommunikationsfähigkeiten sind die Wände.
 
-Falls du unsicheren Bindungsstil hast, lies über [wie du einen sicheren Bindungsstil entwickelst](/blog/attachment-style-aendern-sicher-werden) — das macht diese Habits noch wirkungsvoller.
+Falls du unsicheren [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) hast, lies über [wie du einen sicheren Bindungsstil entwickelst](/blog/attachment-style-aendern-sicher-werden) — das macht diese Habits noch wirkungsvoller.
 
 Und für langfristige Kraft, erkunde [emotionale Intelligenz im Dating](/blog/emotionale-intelligenz-dating) — das schafft die Grundlage dafür dass diese Habits in tiefere Ebenen eindringen können.
 
@@ -748,7 +748,7 @@ In dieser Phase ist die Chemie da. Das Neue ist aufregend. Das Gehirn ist voll m
 
 Aber es ist auch gefährlich. Das Neue fühlt sich sicher an. Du denkst nicht bewusst über die Beziehung nach.
 
-Micro-Habits in dieser Phase sollten fokussieren auf echte Kennenlernen:
+Micro-Habits in dieser Phase sollten fokussieren auf echte [Kennenlernen](/blog/dating-fragen-kennenlernen):
 
 - **Tiefe Fragen täglich (5 Minuten)**: Nicht "Wie war dein Tag?" Frag etwas das du wirklicht über diese Person wissen willst: "Was ist deine größte Angst?" "Wenn es keine Konsequenzen gäbe, was würdest du anders machen?" Diese Fragen kreieren intimität schneller als alles andere.
 

@@ -214,7 +214,7 @@ Das dritte Phänomen ist das „Uber-helping" in Gruppenchats oder Freundesgrupp
 
 Das vierte Phänomen ist das „digitale [Gaslighting](/blog/gaslighting-komplett-guide) Retten". Du hilfst jemandem, der dich manipuliert. Du erkennst die Manipulation nicht, weil sie sich hinter Hilfe und Unterstützung versteckt. Diese Person nutzt deine Rettermotivationen gegen dich.
 
-Die digitale Welt verstärkt das Retter-Syndrom, weil sie es einfach macht, sich in andere Menschen zu investieren, ohne echte Grenzen zu haben. Du kannst 24/7 verfügbar sein. Du kannst deine ganzen Gedanken investieren. Aber ohne echte Beziehung, ohne echtes Kennenlernen, ist das kein echtes Helfen. Das ist Illusion von Helfen.
+Die digitale Welt verstärkt das Retter-Syndrom, weil sie es einfach macht, sich in andere Menschen zu investieren, ohne echte Grenzen zu haben. Du kannst 24/7 verfügbar sein. Du kannst deine ganzen Gedanken investieren. Aber ohne echte Beziehung, ohne echtes [Kennenlernen](/blog/dating-fragen-kennenlernen), ist das kein echtes Helfen. Das ist Illusion von Helfen.
 
 ## Konkrete Therapie-Übungen für das Retter-Syndrom
 

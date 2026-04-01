@@ -185,7 +185,7 @@ Mainz ist gut für Online-Dating:
 
 **Der Mainz-Vorteil:** Die Stadt ist groß genug (200k Einwohner), dass die Apps voller sind, aber klein genug, dass Matches wahrscheinlich sind. Viele Expats und Zugezogene machen die Dating-Szene vielfältig.
 
-**Saisonaler Tipp:** Fastnacht (Februar/März) ist der beste Zeit zum Daten in Mainz! Menschen sind ausgelassener, offener und es gibt überall Events und Parties zum Kennenlernen.
+**Saisonaler Tipp:** Fastnacht (Februar/März) ist der beste Zeit zum Daten in Mainz! Menschen sind ausgelassener, offener und es gibt überall Events und Parties zum [Kennenlernen](/blog/dating-fragen-kennenlernen).
 
 ## Aktivitäten und Events in Mainz
 

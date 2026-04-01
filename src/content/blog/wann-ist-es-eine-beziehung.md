@@ -29,7 +29,7 @@ Aber diese Unklarheit? Das ist auch die Quelle von unbehaglicher Verwirrung. Du 
 
 In diesem Artikel geben ich dir ein Framework. Ich zeige dir die typischen 5 Phasen, die eine Dating-Situation durchläuft, ich gebe dir 10 konkrete Anzeichen, dass es eine echte Beziehung wird, und ich helfe dir, das richtige Gespräch zu führen, um Klarheit zu schaffen.
 
-## Die 5 Phasen: Von Kennenlernen bis Beziehung
+## Die 5 Phasen: Von [Kennenlernen](/blog/dating-fragen-kennenlernen) bis Beziehung
 
 Jede moderne Romantic Connection durchläuft ungefähr diese Phasen (nicht immer streng nacheinander, aber meistens):
 

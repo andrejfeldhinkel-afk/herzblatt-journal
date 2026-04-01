@@ -79,7 +79,7 @@ Niemand zwangt dich, schnell zu datieren. Du kannst langsam anfangen, vielleicht
 
 Es gibt keinen "richtig" oder "falsch" im Dating. Es gibt nur dein Komfortniveau und deine Grenzen.
 
-## Online-Dating nach Scheidung: Ein neuer Weg zum Kennenlernen
+## Online-Dating nach Scheidung: Ein neuer Weg zum [Kennenlernen](/blog/dating-fragen-kennenlernen)
 
 Viele Menschen scheuen sich vor Online-Dating. Es fühlt sich oberflächlich an, unpersönlich. Aber für geschiedene Menschen kann es großartig sein. Warum? Weil es transparent ist. Jeder dort weiß, dass man datet. Es gibt kein Versteckspiel.
 

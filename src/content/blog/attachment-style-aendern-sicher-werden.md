@@ -28,7 +28,7 @@ faq:
   - question: "Kann eine Beziehung meinen Bindungsstil verändern?"
     answer: "Ja. Eine 'korrigierende Beziehungserfahrung' mit einem sicher gebundenen Partner kann heilend wirken. Aber Achtung: Du solltest nicht erwarten, dass dein Partner dein Therapeut ist. Eigenarbeit bleibt wichtig."
 ---
-Bindungsstil. Du hast wahrscheinlich das Wort schon 100 Mal gehört. Sicher gebunden, ängstlich gebunden, vermeidend gebunden. Es klingt nach esoterischem Kram. Aber es ist nicht — es ist Psychologie die fundamental wichtig ist für dein romantisches Leben.
+[Bindungsstil](/blog/avoidant-attachment-beziehung-guide). Du hast wahrscheinlich das Wort schon 100 Mal gehört. Sicher gebunden, ängstlich gebunden, vermeidend gebunden. Es klingt nach esoterischem Kram. Aber es ist nicht — es ist Psychologie die fundamental wichtig ist für dein romantisches Leben.
 
 Hier ist die harte Wahrheit: Dein Bindungsstil ist nicht dein Schicksal. Es ist auch nicht etwas das du von deinen Eltern "geerbt" hast als genetisches Urteil. Es ist ein erlerntes Muster. Und erlerntes kann man umlernen.
 

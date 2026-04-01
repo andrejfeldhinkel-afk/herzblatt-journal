@@ -58,7 +58,7 @@ Wenn jemand nicht verfügbar ist kannst du dich nicht wirklich verletzlich zeige
 
 Warum ist das attraktiv? Weil echte Nähe gefährlich ist. Wenn du mit jemandem wirklich zusammen bist kannst du verletzt werden. Du kannst geliebt und dann weggeworfen werden. Mit unerreichbaren Personen ist das nicht möglich — sie sind bereits weg.
 
-Das ist unbewusst aber es ist real. Psychologische Forschung nennt das „Anxious Preoccupied Attachment Style". Menschen mit diesem Bindungsstil treten eine „Ich versuche dich näher zu holen" Dance wo niemand wirklich näher kommt.
+Das ist unbewusst aber es ist real. Psychologische Forschung nennt das „Anxious Preoccupied Attachment Style". Menschen mit diesem [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) treten eine „Ich versuche dich näher zu holen" Dance wo niemand wirklich näher kommt.
 
 Ein echtes Beispiel: Dominik, 26, verliebte sich immer in Menschen die gerade aus Beziehungen kamen oder verheiratet waren. Ich fragte ihn: „Was würde passieren wenn sie verfügbar würden?" Er dachte lange nach und sagte: „Ich würde wahrscheinlich Angst haben. Ich weiß nicht ob ich damit umgehen kann." Bingo. Die Unerreichbarkeit war nicht das Problem, es war die Sicherheit.
 

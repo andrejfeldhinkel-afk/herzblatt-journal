@@ -54,7 +54,7 @@ Familienstrukturen und Erwartungen unterscheiden sich enorm. In manchen Kulturen
 
 **Religion** ist oft ein großes Thema bei interkulturellem Dating. Wenn ihr unterschiedliche Religionen praktiziert, solltet ihr früh klären: Wie wichtig ist euch euer Glaube? Welche religiösen Praktiken sind nicht verhandelbar? Wie wollt ihr mit Kindern umgehen – werden sie eine oder beide Religionen kennenlernen? Diese Gespräche sind nicht unromantisch, sondern notwendig und schaffenklarheit.
 
-**Gesellschaftliche Erwartungen** können ebenfalls belastend sein. In manchen Kulturen ist es völlig normal, schnell zu heiraten, während in anderen ein längeres Kennenlernen Standard ist. Klarheit über diese unterschiedlichen Zeitrahmen und Erwartungen ist wichtig.
+**Gesellschaftliche Erwartungen** können ebenfalls belastend sein. In manchen Kulturen ist es völlig normal, schnell zu heiraten, während in anderen ein längeres [Kennenlernen](/blog/dating-fragen-kennenlernen) Standard ist. Klarheit über diese unterschiedlichen Zeitrahmen und Erwartungen ist wichtig.
 
 ## Sprachbarrieren als Chance, nicht als Hindernis
 

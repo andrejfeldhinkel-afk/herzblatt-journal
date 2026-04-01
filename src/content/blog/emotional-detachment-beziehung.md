@@ -547,7 +547,7 @@ In diesem Fall: Emotional Detachment ist nicht etwas um zu "fix." Das ist etwas 
 
 Der Fokus sollte sein: "Wie verlasse ich diese Beziehung?" Nicht "Wie öffne ich mich wieder?"
 
-Weil wenn dach öffnest dich in eine toxische Beziehung, wirst du mehr verletzen.
+Weil wenn dach öffnest dich in eine [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide), wirst du mehr verletzen.
 
 Das ist warum es ist wichtig um zu unterscheiden: "Bin ich detached weil ich brauche um zu schützen mich vor dieser Person oder bin ich detached weil ich habe Angst allgemein?"
 

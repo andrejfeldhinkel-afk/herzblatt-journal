@@ -29,7 +29,7 @@ faq:
     answer: "Das ist individuell verschieden. Erste Fortschritte siehst du oft nach wenigen Wochen konsequenten Arbeiten. Eine tiefe Veränderung braucht Monate bis Jahre, je nach Ausgangslage."
 ---
 
-Der ängstliche Bindungsstil ist wie ein unsichtbares Netz, das dich in deinen Beziehungen fesselt. Du verlangst nach Nähe, hast aber gleichzeitig Angst davor, verlassen zu werden. Du stellst dich klein, um deine Partnerschaft nicht zu gefährden. Du checkst dein Handy ständig, weil die Angst überwältigend ist, dass diese Person plötzlich weg ist.
+Der ängstliche [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) ist wie ein unsichtbares Netz, das dich in deinen Beziehungen fesselt. Du verlangst nach Nähe, hast aber gleichzeitig Angst davor, verlassen zu werden. Du stellst dich klein, um deine Partnerschaft nicht zu gefährden. Du checkst dein Handy ständig, weil die Angst überwältigend ist, dass diese Person plötzlich weg ist.
 
 Das ist anstrengend. Für dich. Und auch für deinen Partner. Aber es gibt einen Ausweg. Dieser Prozess braucht Geduld und Selbstmitgefühl, aber du kannst aus diesem Muster ausbrechen und zu einer sicheren Bindung finden.
 

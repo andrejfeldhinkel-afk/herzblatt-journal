@@ -56,7 +56,7 @@ Manche Beziehungen enden, wenn die Schmetterlinge vorbei sind, weil eine Person 
 
 Manchmal verwechseln wir Angst mit Aufregung. Wenn du bei einer Person Schmetterlinge spürst, die dich schlecht behandelt oder emotional nicht verfügbar ist, könnten diese Schmetterlinge eigentlich ein Warnsignal sein.
 
-Menschen mit unsicherem Bindungsstil verwechseln häufig Angst und Unsicherheit mit romantischer Anziehung. Das erklärt, warum manche immer wieder an die falschen Partner geraten: Sie interpretieren die Stressreaktion als Verliebtheit.
+Menschen mit unsicherem [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) verwechseln häufig Angst und Unsicherheit mit romantischer Anziehung. Das erklärt, warum manche immer wieder an die falschen Partner geraten: Sie interpretieren die Stressreaktion als Verliebtheit.
 
 Achte darauf, ob die Schmetterlinge von Freude oder von Unsicherheit begleitet werden. Gesunde Schmetterlinge fühlen sich aufregend und warm an. Ungesunde Schmetterlinge fühlen sich ängstlich und obsessiv an.
 

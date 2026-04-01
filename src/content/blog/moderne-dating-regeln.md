@@ -124,7 +124,7 @@ Mehr zum Thema erfährst du auf Bundesamt für Sicherheit in der Informationstec
 Weitere Informationen findest du bei Verbraucherzentrale: [Verbraucherzentrale](https://www.verbraucherzentrale.de/)
 - Druck, "perfekt" zu sein für die Öffentlichkeit
 
-**Die Regel für 2026:** Sei auf Social Media du selbst, aber nutze es nicht als dein einziges Dating-Tool. Das echte Kennenlernen passiert in echten Gesprächen.
+**Die Regel für 2026:** Sei auf Social Media du selbst, aber nutze es nicht als dein einziges Dating-Tool. Das echte [Kennenlernen](/blog/dating-fragen-kennenlernen) passiert in echten Gesprächen.
 
 ## Mit Situationships umgehen
 

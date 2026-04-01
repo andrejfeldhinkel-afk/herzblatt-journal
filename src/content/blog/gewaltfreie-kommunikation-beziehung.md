@@ -441,7 +441,7 @@ Diese 20 Beispiele zeigen dir, wie unterschiedlich die Energie einer Beziehung s
 
 Menschen haben unterschiedliche Bindungsstile – sicher, ängstlich-vermeidend, ängstlich-ambivalent, oder desorganisiert. GFK funktioniert mit allen, aber du musst es anpassen.
 
-Wenn dein Partner einen vermeidenden Bindungsstil hat, wird er bei zu viel emotionaler Intensität abschalten. Mit GFK kannst du präzise sein und fokussiert bleiben, was ihm hilft, nicht zu fliehen.
+Wenn dein Partner einen vermeidenden [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) hat, wird er bei zu viel emotionaler Intensität abschalten. Mit GFK kannst du präzise sein und fokussiert bleiben, was ihm hilft, nicht zu fliehen.
 
 Wenn dein Partner einen ängstlichen Bindungsstil hat, könnte deine GFK-Aussage bei ihm Angst auslösen: "Wenn ich dir etwas sage, was dich unglücklich macht, könnte das bedeuten, dass du mich verlässt." Hier hilft es, extra zu versichern, dass die Beziehung sicher ist.
 

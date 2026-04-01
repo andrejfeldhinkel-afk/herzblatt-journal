@@ -18,7 +18,7 @@ author: "sarah-kellner"
 
 # Dating nach toxischer Erfahrung: Wie du wieder vertraust, wenn Vertrauen zerbrochen wurde
 
-Du hast eine toxische Beziehung durchgemacht. Vielleicht war es emotional missbräuchlich. Vielleicht war es körperlich. Vielleicht war es einfach manipulativ und zerreißend. Und jetzt, wenn du daran denkst, wieder zu daten, fühlt sich dein ganzer Körper zusammen.
+Du hast eine [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) durchgemacht. Vielleicht war es emotional missbräuchlich. Vielleicht war es körperlich. Vielleicht war es einfach manipulativ und zerreißend. Und jetzt, wenn du daran denkst, wieder zu daten, fühlt sich dein ganzer Körper zusammen.
 
 Dein Herz schlägt schneller. Deine Gedanken spiralen. "Was, wenn es wieder passiert? Was, wenn ich wieder vertraue und wieder verletzt werde? Bin ich beschädigt? Kann ich überhaupt wieder geliebt werden?"
 

@@ -277,7 +277,7 @@ Das Dating ist nicht immer einfach, und es gibt Zeiten, in denen du abgelehnt wi
 
 **Verteile dein Dating**: Daten in Freiburg mit mehreren Menschen gleichzeitig zu versuchen, ist ein guter Weg, um deine Chancen auf Erfolg zu erhöhen. Du musst nicht emotional in eine einzige Person investieren, bis du weißt, dass sie wirklich interessiert ist. Datierung mit mehreren Menschen gibt dir mehr Optionen und verhindert, dass du dich zu schnell in jemanden verliebst, der nicht interessiert ist.
 
-**Vertrau auf den Prozess**: Das Dating kann eine lange Reise sein, aber vertrau auf den Prozess. Irgendwann wirst du jemanden treffen, mit dem die Chemie stimmt und der die richtige Person für dich ist. Sei geduldig, sei aktiv im Kennenlernen von neuen Menschen, und vertrau, dass die Liebe kommen wird.
+**Vertrau auf den Prozess**: Das Dating kann eine lange Reise sein, aber vertrau auf den Prozess. Irgendwann wirst du jemanden treffen, mit dem die Chemie stimmt und der die richtige Person für dich ist. Sei geduldig, sei aktiv im [Kennenlernen](/blog/dating-fragen-kennenlernen) von neuen Menschen, und vertrau, dass die Liebe kommen wird.
 
 ## Langfristige Beziehungen in Freiburg aufbauen
 

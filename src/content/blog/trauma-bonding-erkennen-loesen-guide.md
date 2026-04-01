@@ -197,7 +197,7 @@ Ein Therapeut ist wichtig hier. Nicht um dir zu helfen, diese Person zu verstehe
 
 Warum hast du dich diese Person gebunden? Warum konntest du nicht gehen, nachdem du sah, dass es verletzend war? Warum war dein Selbstwertgefühl so fragil, dass du dich an diese Person verband?
 
-War es deine Kindheit? Hattest du Eltern, die auch Trauma-Bonding-Muster zeigten? War es ein anderer Missbrauch früher in deinem Leben? War es dein Bindungsstil – waren du ängstlich-preoccupied, mit einer Angst vor Verlassenheit, die diese Person manipulieren konnte?
+War es deine Kindheit? Hattest du Eltern, die auch Trauma-Bonding-Muster zeigten? War es ein anderer Missbrauch früher in deinem Leben? War es dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) – waren du ängstlich-preoccupied, mit einer Angst vor Verlassenheit, die diese Person manipulieren konnte?
 
 Wenn du das nicht adressierst – wenn du nicht zu dir selbst zurück kommst – wird es wieder passieren. Mit einer anderen Person, möglicherweise.
 

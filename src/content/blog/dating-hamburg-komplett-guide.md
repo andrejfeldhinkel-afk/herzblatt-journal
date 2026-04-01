@@ -209,7 +209,7 @@ Die Schanze ist großartig für entspannte Café-Dates.
 **Wie das funktioniert:**
 1. Treffen in einem Café auf der Schulterblatt-Straße
 2. Kaffee oder Tee + Gebäck
-3. Gespräche und Kennenlernen
+3. Gespräche und [Kennenlernen](/blog/dating-fragen-kennenlernen)
 4. Vielleicht danach Spaziergang im Sternschanze-Park
 5. Könnte zu Dinner gehen wenn alles gut läuft
 

@@ -329,7 +329,7 @@ Ein finales Punkt: Wenn die andere Person dein Geschenk ablehnt oder seltsam dam
 
 ## First Date vs. Long-Term Couple Dates
 
-Ein erstes Date sollte anders sein als ein Date nach fünf Jahren. Das erste Date ist über Kennenlernen. Das sollte eine ruhige, konversations-freundliche Umgebung sein. Ein Café, ein Park, ein Museum.
+Ein erstes Date sollte anders sein als ein Date nach fünf Jahren. Das erste Date ist über [Kennenlernen](/blog/dating-fragen-kennenlernen). Das sollte eine ruhige, konversations-freundliche Umgebung sein. Ein Café, ein Park, ein Museum.
 
 Ein Paar-Date nach Jahren kann mehr Spaß und Abenteuer haben. Ihr kennt euch, also könnt ihr auch größere Experimente machen.
 

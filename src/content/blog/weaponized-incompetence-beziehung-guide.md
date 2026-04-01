@@ -91,7 +91,7 @@ Das fünfte Grund ist oft unbewusste oder sehr subtil ausgedrückte Frustration 
 
 ### Bindungsstil-Probleme
 
-Es gibt auch Bindungsstil-Faktoren. Jemand mit einem avoidant-dismissive Bindungsstil könnte absichtlich inkompetent in Aufgaben sein, die Nähe oder Interdependenz erfordern würden. Jemand mit einem anxious-preoccupied Bindungsstil könnte bewusst oder unbewusst "bedürftig" sein, um sich sicher zu fühlen, dass du ihn nicht verlässt.
+Es gibt auch [Bindungsstil](/blog/avoidant-attachment-beziehung-guide)-Faktoren. Jemand mit einem avoidant-dismissive Bindungsstil könnte absichtlich inkompetent in Aufgaben sein, die Nähe oder Interdependenz erfordern würden. Jemand mit einem anxious-preoccupied Bindungsstil könnte bewusst oder unbewusst "bedürftig" sein, um sich sicher zu fühlen, dass du ihn nicht verlässt.
 
 Was auf der psychologischen Ebene am oberflächlichsten passiert, ist dass die andere Person ihre Grenzen setzt, ohne dir wirklich Grenzen zu setzen. Sie sagt nicht "Ich werde das nicht tun" – das würde Konfrontation und Potenzial für Konflikt bedeuten. Sie sagt "Ich kann das nicht tun" – oder sie tut es so falsch, dass die Botschaft klar ist: "Vertrau mir nicht damit." Das fühlt sich ganz anders an. Die erste ist eine klare Grenzsetzung und könnte Respektlosigkeit sein. Die zweite ist... nun ja, wie kannst du jemanden verurteilen oder unter Druck setzen für etwas, das er angeblich nicht kann?
 

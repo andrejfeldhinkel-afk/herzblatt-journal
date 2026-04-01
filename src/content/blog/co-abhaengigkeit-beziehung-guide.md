@@ -49,7 +49,7 @@ Wichtig zu verstehen: Co-Abhängigkeit ist keine Charakterschwäche. Es ist kein
 
 ## Die Wurzeln: Wie entsteht Co-Abhängigkeit?
 
-Um Co-Abhängigkeit zu überwinden, musst Du verstehen, woher sie kommt. Fast immer liegen die Ursprünge in der Kindheit und in Deinen frühen Beziehungserfahrungen. Die Wissenschaft zeigt uns, dass unser Bindungsstil—wie wir uns in Beziehungen verhalten und was wir brauchen—hauptsächlich in den ersten Jahren unseres Lebens geformt wird.
+Um Co-Abhängigkeit zu überwinden, musst Du verstehen, woher sie kommt. Fast immer liegen die Ursprünge in der Kindheit und in Deinen frühen Beziehungserfahrungen. Die Wissenschaft zeigt uns, dass unser [Bindungsstil](/blog/avoidant-attachment-beziehung-guide)—wie wir uns in Beziehungen verhalten und was wir brauchen—hauptsächlich in den ersten Jahren unseres Lebens geformt wird.
 
 Viele Menschen mit Co-Abhängigkeit sind in Familien aufgewachsen, in denen emotional ein Elternteil instabil war. Vielleicht war Dein Vater süchtig, Deine Mutter depressiv, ein Elternteil hatte Angststörungen oder Zwangsstörungen. Möglicherweise gab es wiederkehrende Konflikte oder sogar Gewalt. Als Kind hattest Du keine Kontrolle über diese Situation, aber Du hast unbewusst gelernt, dass es Deine Aufgabe ist, den Elternteil zu versorgen und seine Stimmung zu managen.
 

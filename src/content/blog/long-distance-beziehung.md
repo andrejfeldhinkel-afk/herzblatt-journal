@@ -212,7 +212,7 @@ Mit Kommunikation, Vertrauen, Planung und gegenseitigem Engagement kann eine Fer
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
 
 - [Liebe auf Distanz: So übersteht eure Fernbeziehung jede](/blog/liebe-auf-distanz-tipps/)
 - [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung/)

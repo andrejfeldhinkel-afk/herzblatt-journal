@@ -29,7 +29,7 @@ Das Zusammenspiel all dieser Chemikalien ist, was das macht, das wir als „Lieb
 
 ## Die Bindungstheorie: Warum wir anbinden, wie wir anbinden
 
-Die Bindungstheorie, entwickelt von dem britischen Psychoanalytiker John Bowlby und erweitert von Mary Ainsworth, bietet einen anderen Blick auf Liebe und warum wir uns in Menschen verlieben. Diese Theorie besagt, dass wir als Säuglinge uns an unsere Bezugspersonen (normalerweise unsere Eltern) binden, um zu überleben. Diese frühe Bindung prägt unseren Bindungsstil für den Rest unseres Lebens.
+Die Bindungstheorie, entwickelt von dem britischen Psychoanalytiker John Bowlby und erweitert von Mary Ainsworth, bietet einen anderen Blick auf Liebe und warum wir uns in Menschen verlieben. Diese Theorie besagt, dass wir als Säuglinge uns an unsere Bezugspersonen (normalerweise unsere Eltern) binden, um zu überleben. Diese frühe Bindung prägt unseren [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) für den Rest unseres Lebens.
 
 Es gibt vier primäre Bindungsstile, die im Erwachsenenalter beobachtet werden. Der sichere Bindungsstil ist charakterisiert durch das Gefühl, wertvoll zu sein, darauf zu vertrauen, dass andere uns kümmern, und die Fähigkeit, Balance zwischen Unabhängigkeit und Nähe zu haben. Menschen mit sicherer Bindung sind in Lage, stabile, vertrauensvolle Beziehungen zu entwickeln.
 

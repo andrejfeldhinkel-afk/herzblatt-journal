@@ -61,7 +61,7 @@ Das ist der Anfang von Bindungsstilen.
 
 Die Theorie ist diese: Die Beziehung, die du als Kind zu deiner Bezugsperson hattest, schafft eine "innere Arbeitsmodell" – eine unbewusste Überzeugung darüber, wie Menschen sind, wie Liebe funktioniert, und wie sicher die Welt ist.
 
-Wenn deine Mutter warm und verfügbar war, lerntest du, dass die Welt sicher ist und Menschen zuverlässig sind. Das schafft einen sicheren Bindungsstil.
+Wenn deine Mutter warm und verfügbar war, lerntest du, dass die Welt sicher ist und Menschen zuverlässig sind. Das schafft einen sicheren [Bindungsstil](/blog/avoidant-attachment-beziehung-guide).
 
 Wenn deine Mutter unzuverlässig war – manchmal liebevoll, manchmal eiskalt – lerntest du, dass Menschen unvorhersehbar sind. Das schafft einen ängstlichen Bindungsstil.
 
