@@ -108,7 +108,7 @@ Der größte Fehler schüchterner Männer: Sie versuchen, nicht schüchtern zu s
 
 Erstens, du kannst die Fassade nicht lange aufrechterhalten. Irgendwann wirst du müde oder gestresst, und deine echte Nervosität ploppt heraus.
 
-Zweitens, du ziehst damit die falsche Person an. Wenn sie sich in die "coole Version" verliebt, wird sie enttäuscht, wenn die echte Version (die schüchterne Version) erscheint.
+Zweitens, du ziehst damit die falsche Person an. Wenn sie sich in die "coole Version" [verliebt](/blog/mann-verliebt-anzeichen-komplett), wird sie enttäuscht, wenn die echte Version (die schüchterne Version) erscheint.
 
 Die richtige Person – es gibt sie – wird deine Schüchternheit schätzen. Sie wird verstehen, dass Nervosität nicht Uninteresse bedeutet. Sie wird nicht versuchen, dich zu ändern. Sie wird dich einfach sehen und dich mögen.
 

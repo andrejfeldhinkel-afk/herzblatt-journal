@@ -46,7 +46,7 @@ Das alte Modell der Frau, die sich ansieht, wie der Mann für alles zahlt, ist v
 
 Biete an, deine Hälfte zu zahlen oder abwechselnd zu zahlen. Das schafft eine Ebene. Wenn er besteht darauf zu zahlen, lass ihn, aber schicke nicht das Signal, dass du es erwartest.
 
-Die Wahrheit ist: Ein Mann, der keinen Kaffee für einen Kaffee mit dir ausgeben möchte, ist nicht in dich verliebt. Aber wenn er es tut, bedeutet das nicht, dass du ihm etwas schuldest.
+Die Wahrheit ist: Ein Mann, der keinen Kaffee für einen Kaffee mit dir ausgeben möchte, ist nicht in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett). Aber wenn er es tut, bedeutet das nicht, dass du ihm etwas schuldest.
 
 ## Laufe nicht wegen eines Mannes weg
 

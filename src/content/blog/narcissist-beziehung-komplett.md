@@ -94,7 +94,7 @@ Was du wissen musst: Die Devaluation ist nicht an DIR. Es ist an SEINEM Bedürfn
 
 ## Gaslighting: Die psychologische Zerstörung
 
-Gaslighting ist eine der destruktivsten Manipulationstaktiken. Es ist, wenn dein Partner deine Wahrnehmung der Realität in Frage stellt, sodass du anfängst, dich selbst zu zweifeln.
+[Gaslighting](/blog/gaslighting-komplett-guide) ist eine der destruktivsten Manipulationstaktiken. Es ist, wenn dein Partner deine Wahrnehmung der Realität in Frage stellt, sodass du anfängst, dich selbst zu zweifeln.
 
 Hier sind klassische Gaslighting-Sätze:
 

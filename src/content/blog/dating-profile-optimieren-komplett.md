@@ -198,7 +198,7 @@ Das dritte Prinzip ist "Konsistenz schafft Vertrauen". Das bedeutet, dass alles 
 
 ## Die Rolle von Authentizität im digitalen Dating
 
-In einer Zeit, in der Fake-Profile, Catfishing und Ghosting endemisch sind, ist Authentizität eine kostbare Ressource. Menschen sind hungrig danach, zu wissen, wer wirklich hinter einem Profil steckt.
+In einer Zeit, in der Fake-Profile, Catfishing und [Ghosting](/blog/ghosting-komplett-guide) endemisch sind, ist Authentizität eine kostbare Ressource. Menschen sind hungrig danach, zu wissen, wer wirklich hinter einem Profil steckt.
 
 Das bedeutet, dass die besten Dateprofile nicht versuchen, jemand zu sein, den sie nicht sind. Sie versuchen, die beste, authentischste Version ihrer selbst zu präsentieren. Das ist ein subtiler, aber wichtiger Unterschied.
 

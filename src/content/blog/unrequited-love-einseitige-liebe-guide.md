@@ -79,13 +79,13 @@ Manchmal zeigt einseitige Liebe einen tieferen Mustern auf:
 
 Diese Muster zu sehen ist unangenehm. Aber es ist notwendig.
 
-## Die Psychologie der Friendzone
+## Die Psychologie der [Friendzone](/blog/friendzone-entkommen-guide)
 
 Die "Friendzone" ist ein gemischtes Konzept. Es ist real, dass jemand romantische Gefühle nicht teilt. Aber die emotionale Reaktion darauf – die Idee, dass du "trapped" bist – ist eine Geschichte, die dein Gehirn erzählt.
 
 **Warum Freundschaften mit unerwideerten Gefühlen schwierig sind:**
 
-Wenn du in jemanden verliebt bist, der dich nicht zurück liebt, sitzt du in einer seltsamen Position. Ihr seid Freunde, aber du brauchst etwas mehr. Das ist nicht fair – für dich und für sie. Du giest emotionale Energie, die nie gleichgewichtet wird.
+Wenn du in jemanden [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, der dich nicht zurück liebt, sitzt du in einer seltsamen Position. Ihr seid Freunde, aber du brauchst etwas mehr. Das ist nicht fair – für dich und für sie. Du giest emotionale Energie, die nie gleichgewichtet wird.
 
 Das ist nicht ihre Schuld. Sie kann ihre Gefühle nicht kontrollieren. Aber es ist deine Verantwortung, deine eigenen Grenzen zu schützen.
 

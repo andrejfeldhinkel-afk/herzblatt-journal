@@ -116,7 +116,7 @@ Die wichtigste Sache ist, nicht zu lange zu warten. Wenn du Gefühle für ihn ha
 
 Wenn du die meisten Zeichen nicht siehst, ist es vielleicht Zeit, weiterzugehen. Du verdienst jemanden, der keinen Zweifel darüber lässt, dass er auf dich steht. Du verdienst jemanden, der Anstrengung gibt und dich zu seiner Priorität macht.
 
-Es ist einfach, auf jemanden zu warten, auf den du hoffst, dass er sich in dich verliebt. Aber du verschwendest Zeit, in der du jemanden treffen könntest, der wirklich auf dich steht.
+Es ist einfach, auf jemanden zu warten, auf den du hoffst, dass er sich in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett). Aber du verschwendest Zeit, in der du jemanden treffen könntest, der wirklich auf dich steht.
 
 ## Die Unterschied zwischen Freundschaft und romantischem Interesse
 

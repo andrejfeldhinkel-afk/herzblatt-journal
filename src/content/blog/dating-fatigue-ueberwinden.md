@@ -57,7 +57,7 @@ Dating-Apps zeigen dir ständig "mehr Optionen". Es gibt immer jemand anderen, d
 
 Dieser Überfluss an Optionen führt paradoxerweise zu weniger Zufriedenheit, nicht zu mehr.
 
-### Das Ghosting und die Absagen
+### Das [Ghosting](/blog/ghosting-komplett-guide) und die Absagen
 
 Vielleicht das schlimmste: Das ständige Gefühl der Ablehnung oder Unsicherheit. Du schreibst jemandem, und die Nachricht wird "gesehen" — aber keine Antwort. Du hattest ein großartiges Date, und dann: Funkstille.
 

@@ -102,7 +102,7 @@ Und wenn Kinder in die Beziehung kommen oder geplant werden, wird es intensiver.
 
 Kulturschock manifestiert sich oft nicht in großen philosophischen Diskussionen oder dramatischen Krisen, sondern in den alltäglichen, mundanen, praktischen Dingen. Was und wie dein Partner isst. Wie er sein Zuhause organisiert und einrichtet. Wie er Zeit mit Familie verbringt. Welche Feiertage wichtig sind und wie man sie begeht. Hygienepraktiken. Schlafgewohnheiten. Umgang mit Geld.
 
-Du kannst verliebt sein und dennoch schockiert sein, dass dein Partner ein bestimmtes Essen, das du für essentiell für ein gutes Leben hältst, einfach nicht versteht oder sogar unangenehm findet. Oder dass er oder sie bestimmte alltägliche Rituale oder Gewohnheiten hat, die für dich seltsam oder auch unhygienisch wirken.
+Du kannst [verliebt](/blog/mann-verliebt-anzeichen-komplett) sein und dennoch schockiert sein, dass dein Partner ein bestimmtes Essen, das du für essentiell für ein gutes Leben hältst, einfach nicht versteht oder sogar unangenehm findet. Oder dass er oder sie bestimmte alltägliche Rituale oder Gewohnheiten hat, die für dich seltsam oder auch unhygienisch wirken.
 
 Ein kleines Beispiel: In manchen Kulturen ist es völlig normal und akzeptabel, sich die Schuhe nicht auszuziehen, wenn man ins Haus kommt – oder zumindest nicht in jedem Zimmer. In anderen Kulturen ist das undenkbar und unhöflich – die Schuhe gehören draußen. Diese kleine Sache könnte eine tägliche Quelle von Frustration sein.
 

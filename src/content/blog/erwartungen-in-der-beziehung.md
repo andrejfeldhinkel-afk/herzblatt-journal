@@ -605,7 +605,7 @@ Das ist anstrengend. Das ist nicht romantisch. Das ist Arbeit.
 
 2. **Visits planen, aber flexibel sein.** "Wir planen eine Visit alle drei Monate, aber wenn etwas dazwischenkommt, sind wir nicht enttäuscht."
 
-3. **Ein Enddatum.** Das ist wichtig. Wann wird die Fernbeziehung enden? Werden wir zusammenziehen? Wenn es kein Enddatum gibt, wird die Beziehung irgendwann zusammenbrechen.
+3. **Ein Enddatum.** Das ist wichtig. Wann wird die Fernbeziehung enden? Werden wir [zusammenziehen](/blog/zusammenziehen-checkliste)? Wenn es kein Enddatum gibt, wird die Beziehung irgendwann zusammenbrechen.
 
 4. **Unabhängigkeit akzeptieren.** Ihr seid nicht gekoppelt. Ihr habt beide euer Leben. Das ist okay. Das ist sogar gesund.
 

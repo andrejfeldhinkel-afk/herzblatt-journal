@@ -61,7 +61,7 @@ Hier ist das Geheimnis: Deine erste Beziehung mit 30 hat massive Vorteile.
 
 **Emotionale Reife:** Mit 30 verwechselst du nicht Drama mit Liebe. Du weißt, wer du bist. Du hast Karriere, Freunde, Leben. Du brauchst den Partner nicht zur Identität. Das macht dich weniger abhängig und stärker.
 
-**Selbstkenntnis:** Du kennst deine Triggers, Grenzen, Red Flags. Du weißt: Das ist ein Narzisst. Diese Person nicht verfügbar. Dieser Mensch ist gut.
+**Selbstkenntnis:** Du kennst deine Triggers, Grenzen, [Red Flags](/blog/dating-red-flags-maenner-erkennen). Du weißt: Das ist ein Narzisst. Diese Person nicht verfügbar. Dieser Mensch ist gut.
 
 **Klarheit:** Mit 30 kennst du deine Werte. Willst du Kinder? Zusammenleben? Jemanden Abenteuerlustige? Das verhindert Jahre in falschen Beziehungen.
 
@@ -91,7 +91,7 @@ Das alles gesagt, es gibt reale Ängste:
 
 Red Flags sind: Keine Interesse an deinen Gedanken. Versprechen sich zu ändern, tun es nicht. Isolation von Freunden. Eifersüchtig ohne Grund. Schlecht über Exen sprechen. Nie Verantwortung.
 
-**Vermeide schnelle Verpflichtungen:** "Lass uns zusammenziehen" nach 3 Monaten? Nein. "Lass uns heiraten" nach 1 Jahr? Vielleicht, aber nicht überhastet. Gib jeder Phase Zeit.
+**Vermeide schnelle Verpflichtungen:** "Lass uns [zusammenziehen](/blog/zusammenziehen-checkliste)" nach 3 Monaten? Nein. "Lass uns heiraten" nach 1 Jahr? Vielleicht, aber nicht überhastet. Gib jeder Phase Zeit.
 
 **Halte dein Leben intakt:** Dein Partner ist nicht dein ganzes Leben. Bleib die Person, die du warst. Freundschaften, Karriere, Hobbys bleiben. Das ist nicht egoistisch – das ist die Basis für gesunde Beziehungen.
 

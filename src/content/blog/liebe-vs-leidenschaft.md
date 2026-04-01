@@ -89,7 +89,7 @@ Echte Liebe kommt danach — wenn die Chemie nachlässt, und du die Person siehs
 
 Lass mich das klarer machen, weil es zentral ist.
 
-Wenn du in jemandem verliebt bist — in der Verliebtheit-Phase — weißt du nicht, wer diese Person wirklich ist. Du kennst deine Fantasie von dieser Person.
+Wenn du in jemandem [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist — in der Verliebtheit-Phase — weißt du nicht, wer diese Person wirklich ist. Du kennst deine Fantasie von dieser Person.
 
 Du hast Schmetterlinge im Bauch. Du denkst an ihn oder sie ständig. Du willst zehn Stunden mit ihr verbringen. Ihr küsst euch in der Öffentlichkeit. Sex ist wild und spontan. Alles ist neu und aufregend.
 

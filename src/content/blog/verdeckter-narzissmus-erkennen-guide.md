@@ -127,13 +127,13 @@ Die Fähigkeit zur Selbstreflexion ist praktisch null. "Ich kann meine Fehler ni
 
 Wenn Menschen sagen, "Ich hätte das nicht erwartet, dein Partner wirkte auf der Party so anders, so selbstbewusst, so lustig," merkst du, dass er in Bezug auf dich anders wirkt. Mit dir ist er traurig, bedürftig, verletzlich. Mit anderen scheint er zufrieden. Das ist nicht Heilung oder Authentizität — das ist Performance. Er präsentiert verschiedenen Menschen verschiedene Versionen seiner selbst, je nachdem, was ihm nützt.
 
-### 9. Love Bombing gefolgt von Ghosts
+### 9. [Love Bombing](/blog/love-bombing-erkennen-schuetzen) gefolgt von Ghosts
 
 Am Anfang der Beziehung war alles wunderbar. Er war aufmerksam, liebevoll, emotional verfügbar. Und dann, nachdem du emotional investiert hast, ändert sich das Verhalten. Das ist ein klassisches Muster: Intensive emotionale Verbindung am Anfang, gefolgt von emotional durchschnittliches oder sogar schlechtes Verhalten. Das ist nicht Liebe — das ist Manipulation. Der Love Bombing war die Angelrute; jetzt, wo du am Haken bist, wird er weniger Aufmerksamkeit geben.
 
 ### 10. Er dreht die Wahrheit
 
-Ein verdeckter Narzisst wird dir sagen, dass etwas, das definitiv passiert ist, nie passiert ist. "Das habe ich nie gesagt!" obwohl du genau weißt, dass er es gesagt hat. Oder er wird deine Wahrnehmung in Frage stellen: "Du bist zu emotional, du siehst das falsch." Dies ist ein klassisches Gaslighting-Taktik, und sie ist bei verdeckten Narzissten besonders effektiv, weil sie so ruhig und überzeugend wirken können.
+Ein verdeckter Narzisst wird dir sagen, dass etwas, das definitiv passiert ist, nie passiert ist. "Das habe ich nie gesagt!" obwohl du genau weißt, dass er es gesagt hat. Oder er wird deine Wahrnehmung in Frage stellen: "Du bist zu emotional, du siehst das falsch." Dies ist ein klassisches [Gaslighting](/blog/gaslighting-komplett-guide)-Taktik, und sie ist bei verdeckten Narzissten besonders effektiv, weil sie so ruhig und überzeugend wirken können.
 
 Lies mehr zu diesem Thema in unserem Artikel über [Gaslighting in Beziehungen erkennen](/blog/gaslighting-beziehung-erkennen/).
 
@@ -452,7 +452,7 @@ Ein wichtiger Punkt: Du kannst nicht "genug" Mitleid zeigen. Die Opferrolle ist 
 
 Die frühen Stadien einer Beziehung mit einem verdeckten Narzissten können magisch wirken. Das ist absichtlich. Er ist perfekt, verständnisvoll, emotional verfügbar. Das ist der Love Bomb, und er ist intensiv.
 
-Aber hier sind die Red Flags, die auch früh sichtbar werden, wenn du weißt, wie man schaut:
+Aber hier sind die [Red Flags](/blog/dating-red-flags-maenner-erkennen), die auch früh sichtbar werden, wenn du weißt, wie man schaut:
 
 **Er redet ständig von seinen Ex-Partnern.** Die Stories sind konsistent: Alle Ex-Partner waren herzlos, manipulativ oder psychisch krank. Wenn alle deine Ex-Partner verrückt sind, ist die Wahrscheinlichkeit hoch, dass du das Problem bist.
 

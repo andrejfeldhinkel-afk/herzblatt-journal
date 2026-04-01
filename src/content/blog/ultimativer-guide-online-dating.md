@@ -48,7 +48,7 @@ Tinder ist immer noch die populärste App weltweit. Es funktioniert mit einem ei
 
 **Vorteile:** Riesige Nutzerbasis, sehr intuitiv zu bedienen, kostenlos nutzbar, einfache Casual-Dating-Szene.
 
-**Nachteile:** Oberflächlich (Fotos zählen mehr als Biografie), viele Bot-Profile, Männer bekommen weniger Matches, viel Ghosting.
+**Nachteile:** Oberflächlich (Fotos zählen mehr als Biografie), viele Bot-Profile, Männer bekommen weniger Matches, viel [Ghosting](/blog/ghosting-komplett-guide).
 
 **Für wen geeignet?** Wenn du jung, attraktiv und offen für Casual-Dating bist, kann Tinder funktionieren. Aber erwartet nicht zu viel von der Qualität der Konversationen.
 

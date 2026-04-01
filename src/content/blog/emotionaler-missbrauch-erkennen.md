@@ -63,7 +63,7 @@ Ein systematisches Muster, bei dem ein Partner:
 
 Dies sind nicht nur “rote Flaggen” – diese sind “flashing red alarms.”
 
-### 1. Gaslighting
+### 1. [Gaslighting](/blog/gaslighting-komplett-guide)
 
 Dies ist, wenn Ihr Partner Sie dazu bringt, zu zweifeln, was Sie erinnern oder wissen.
 

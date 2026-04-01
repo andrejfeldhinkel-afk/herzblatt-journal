@@ -417,7 +417,7 @@ Das ist ein sehr unreifer Weg, diese Frage zu stellen, aber es kommt von einem v
 
 ## Die roten Flaggen: Wann wird es problematisch?
 
-### Emotionale Manipulation und Gaslighting
+### Emotionale Manipulation und [Gaslighting](/blog/gaslighting-komplett-guide)
 
 Nicht alle bindungsängstlichen Menschen sind manipulativ, aber einige verwenden Manipulationstaktiken unbewusst, um Nähe und Kontrolle auszugleichen. Sie könnten deine Wahrnehmung dessen, was passiert ist, in Frage stellen: "Das habe ich nicht gesagt" oder "Du interpretierst das falsch."
 

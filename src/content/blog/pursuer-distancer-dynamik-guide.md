@@ -272,7 +272,7 @@ Der Pursuer könnte beginnen:
 - Snooping auf Telefone oder Konten
 - Kontrollierend werden, das Verhalten des Distancers zu verhindern
 - Ultimativen erstellung ("Es ist mir oder dein Hobby")
-- Emotional Missbrauchlich werden (Gaslighting, Schuld-Verursachung)
+- Emotional Missbrauchlich werden ([Gaslighting](/blog/gaslighting-komplett-guide), Schuld-Verursachung)
 
 Der Distancer könnte beginnen:
 

@@ -62,13 +62,13 @@ Dies ist einer der häufigen Wege, wie Narzissten dein Leben weitermachen, lange
 
 Bevor wir über Dating nach einer narzisstischen Beziehung sprechen, müssen wir verstehen, was tatsächlich passiert ist. Narzisstischer Missbrauch ist nicht wie andere Missbrauchsformen. Er ist psychologisch, subtil und oft schwer zu definieren, weshalb viele Überlebende lange brauchen, um zu erkennen, dass sie überhaupt missbraucht wurden.
 
-Ein Narzisst wird dir zunächst alles geben, was du dir wünschst. Das nennt sich "Love Bombing". Er oder sie ist charmant, aufmerksam, romantisch. Du fühlst dich gesehen und verstanden. Das Hormon Oxytocin wird in deinem Gehirn ausgelöst – du bindest dich emotional an diese Person. Dann, langsam oder plötzlich, ändert sich die Dynamik.
+Ein Narzisst wird dir zunächst alles geben, was du dir wünschst. Das nennt sich "[Love Bombing](/blog/love-bombing-erkennen-schuetzen)". Er oder sie ist charmant, aufmerksam, romantisch. Du fühlst dich gesehen und verstanden. Das Hormon Oxytocin wird in deinem Gehirn ausgelöst – du bindest dich emotional an diese Person. Dann, langsam oder plötzlich, ändert sich die Dynamik.
 
 Der Narzisst beginnt, dich zu kritisieren. Anfangs sind es kleine Bemerkungen: "Das machst du nicht so richtig", "Andere würden besser aussehen in so etwas", "Du überreagierst wieder." Dann werden die Kritiken größer und häufiger. Du beginnst, dich selbst in Frage zu stellen. Vielleicht bin ich wirklich zu emotional. Vielleicht bin ich nicht attraktiv genug. Vielleicht verdiene ich nicht besser.
 
 Gleichzeitig werden widersprüchliche Botschaften gesendet. An einem Tag liebt dich der Narzisst und kann dich nicht genug anfassen. Am nächsten Tag ignoriert er dich völlig oder wirft dir Dinge vor. Diese emotionale Achterbahnfahrt ist dich verrückt machend. Dein Nervensystem ist in konstantem Stress, immer bereit, die nächste Ablehnung zu antizipieren.
 
-Der Narzisst wird auch Gaslighting verwenden – dir sagen, dass deine Wahrnehmung der Realität falsch ist. Du weiß, dass er/sie gelogen hat, aber dann sagt er/sie: "Das ist nie passiert", oder "Du erinnerst dich falsch", oder "Du bist verrückt, das zu denken". Mit der Zeit zweifelst du an dir selbst. Dein eigenes Urteilsvermögen beginnt zu verschwinden.
+Der Narzisst wird auch [Gaslighting](/blog/gaslighting-komplett-guide) verwenden – dir sagen, dass deine Wahrnehmung der Realität falsch ist. Du weiß, dass er/sie gelogen hat, aber dann sagt er/sie: "Das ist nie passiert", oder "Du erinnerst dich falsch", oder "Du bist verrückt, das zu denken". Mit der Zeit zweifelst du an dir selbst. Dein eigenes Urteilsvermögen beginnt zu verschwinden.
 
 All dies erzeugt ein psychologisches Trauma. Dein Nervensystem ist beschädigt. Du befindest dich in einem chronischen Zustand von "Fight-Flight-Freeze". Du weißt nicht mehr, wem du vertrauen kannst, auch nicht dir selbst. Dein Selbstwertgefühl ist erschöpft. Du zweifelsst an deinen eigenen Gedanken und Gefühlen.
 

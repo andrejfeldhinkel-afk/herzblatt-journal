@@ -72,7 +72,7 @@ Natürlich gibt es auch die andere Seite: Menschen, mit denen brauchst du gar ke
 
 Das passiert, wenn du merkst: Ich bin in meiner ganzen Energie nicht so wie ich sein will. Ich fühle mich unwohl. Wir haben nichts zu besprechen. Die Person interessiert sich nicht für mich, sondern redet nur von sich selbst. Die Person zeigt wenig bis keine Empathie.
 
-Das sind dann nicht „fehlende Schmetterlinge", das sind Red Flags. Und da brauchst du nicht weitermachen.
+Das sind dann nicht „fehlende Schmetterlinge", das sind [Red Flags](/blog/dating-red-flags-maenner-erkennen). Und da brauchst du nicht weitermachen.
 
 Der Unterschied ist: Fehlende Schmetterlinge fühlen sich an wie „neutral". Red Flags fühlen sich an wie „Vorsicht, Probleme". Wenn du nicht sicher bist, dann gib ihr das dritte Date. Wenn du dir sicher bist, dass da Probleme sind, dann spare dir die Zeit.
 

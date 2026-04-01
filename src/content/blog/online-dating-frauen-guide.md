@@ -274,7 +274,7 @@ Das ist, warum ich dir sagten, deine Grenzen zu setzen. Du musst dich selbst sch
 
 ### Wenn Online Dating zu viel wird
 
-Es ist okay, eine Pause zu nehmen. Wenn du dich überwältigt fühlst von Matches, von Ghosting, von Spielen – lische die App.
+Es ist okay, eine Pause zu nehmen. Wenn du dich überwältigt fühlst von Matches, von [Ghosting](/blog/ghosting-komplett-guide), von Spielen – lische die App.
 
 Nimm einen Monat aus. Treffe Menschen im echten Leben. Erinnere dich, dass nicht alle Liebe online kommt.
 

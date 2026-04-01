@@ -168,7 +168,7 @@ Du hast getroffen einen Menschen, gibt second date. Sie/er scheint interested. J
 
 - Sind sie consistent? Oder verschiedene Personen?
 
-- Red Flags? Greenflags?
+- [Red Flags](/blog/dating-red-flags-maenner-erkennen)? Greenflags?
 
 ✅ **Beginn Konversation zu “define relationship”**
 

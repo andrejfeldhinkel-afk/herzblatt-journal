@@ -34,7 +34,7 @@ Viele Menschen realisieren erst lange nach dem Beziehungsende, dass sie mit eine
 ### Zeichen einer narzisstischen Beziehung
 
 - **Konstante Kritik und Abwertung:** Dein Partner kritisierte dich ständig – dein Aussehen, deine Intelligenz, deine Fähigkeiten – was dein Selbstwertgefühl zerstörte
-- **Manipulation und Gaslighting:** Sie leugnete deine Wahrnehmung ("Das habe ich nie gesagt") oder zwang dich, an deinem eigenen Verstand zu zweifeln
+- **Manipulation und [Gaslighting](/blog/gaslighting-komplett-guide):** Sie leugnete deine Wahrnehmung ("Das habe ich nie gesagt") oder zwang dich, an deinem eigenen Verstand zu zweifeln
 - **Mangel an Empathie:** Dein Partner interessierte sich nicht für deine Gefühle. Alles drehte sich um ihn
 - **Kontrollverhalten:** Dein Partner kontrollierte dein Geld, deine Freunde, deine Aktivitäten
 - **Love-Bombing, dann Kälte:** Anfangs warst du "die Eine," dann wurden Affektionen zurückgezogen, um dich gefügig zu halten

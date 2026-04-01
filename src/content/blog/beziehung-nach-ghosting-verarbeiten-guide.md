@@ -33,7 +33,7 @@ Dann: Stille.
 
 Eine Nachricht bleibt unbeanwortet. Und dann eine andere. Und dann realizer du: Er wird nicht zurück schreiben.
 
-Das ist Ghosting. Und es ist eines der verstörendsten Dinge, die jemand dir antun kann.
+Das ist [Ghosting](/blog/ghosting-komplett-guide). Und es ist eines der verstörendsten Dinge, die jemand dir antun kann.
 
 Es ist nicht Ablehnung. Es ist nicht ein harter Break-up. Es ist Auslöschung. Es ist, als würdest du aufhören zu existieren.
 
@@ -214,6 +214,6 @@ Es braucht Zeit. Aber du wirst dort ankommen.
 ---
 
 **Weitere Artikel zum Thema:**
-- [Limerence vs. echte Liebe: Warum du nicht verliebt bist sondern besessen](/blog/limerence-vs-liebe-unterschied-guide)
+- [Limerence vs. echte Liebe: Warum du nicht [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist sondern besessen](/blog/limerence-vs-liebe-unterschied-guide)
 - [Dating mit sozialer Angst: Strategien die wirklich funktionieren](/blog/dating-mit-social-anxiety-guide)
 - [Dating-Burnout: Wenn die Partnersuche dich auslaugt und wie du zurückfindest](/blog/dating-burnout-recovery-guide)

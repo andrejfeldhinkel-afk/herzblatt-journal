@@ -250,7 +250,7 @@ Ein Paartherapeut kann helfen, diese systemischen Probleme zu identifizieren und
 
 Nachdem die Affäre beendet ist, gibt es einen Prozess der Reintegration in die Beziehung. Das bedeutet, dass du wieder anfängst, deinen Partner zu sehen als die Person, der du dich verpflichtet hast, nicht als "der Typ/die Typen, mit dem/der ich nicht glücklich bin". Diese Reintegration erfordert Intention und Praxis.
 
-Verbringe Zeit damit, deinen Partner zu beobachten, seine Qualitäten zu bemerken, die Gründe zu erinnern, warum du dich in ihn oder sie verliebt hast. Mit der Zeit werden die neuen, positiven Verbindungen die alten, negativen ersetzen.
+Verbringe Zeit damit, deinen Partner zu beobachten, seine Qualitäten zu bemerken, die Gründe zu erinnern, warum du dich in ihn oder sie [verliebt](/blog/mann-verliebt-anzeichen-komplett) hast. Mit der Zeit werden die neuen, positiven Verbindungen die alten, negativen ersetzen.
 
 ## Schritt 35: Die Bedeutung von Anwaltschaft und Unterstützung
 

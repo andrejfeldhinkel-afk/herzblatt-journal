@@ -125,7 +125,7 @@ Die Ironie: Diese Beziehungen funktionieren selten, weil du nicht verantwortlich
 
 **Das Distanz-Nähe-Spiel**
 
-Du brauchst jemandem, das dich wegstoßt – und dann spielst du ein Spiel, um ihn/sie zu "verdienen." Du bist am meisten verliebt, wenn der andere am wenigsten verfügbar ist.
+Du brauchst jemandem, das dich wegstoßt – und dann spielst du ein Spiel, um ihn/sie zu "verdienen." Du bist am meisten [verliebt](/blog/mann-verliebt-anzeichen-komplett), wenn der andere am wenigsten verfügbar ist.
 
 Die Wurzel: Deine primäre Bezugsperson war emotional nicht verfügbar. Du lerntest, dass Liebe schmerzhaft und unvorhersehbar ist. Jetzt suchst du unterbewusst nach dem gleichen Schmerz, weil es sich vertraut anfühlt.
 

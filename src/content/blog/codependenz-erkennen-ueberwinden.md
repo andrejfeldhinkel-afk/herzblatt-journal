@@ -921,7 +921,7 @@ Die Antwort ist komplex.
 
 **Die emotionale Verkettung**
 
-Codependenzen sind emotional verkettelt. Nicht verliebt — verkettelt. Das ist anders.
+Codependenzen sind emotional verkettelt. Nicht [verliebt](/blog/mann-verliebt-anzeichen-komplett) — verkettelt. Das ist anders.
 
 Eine Verkettung besteht aus:
 - Angst vor Verlassenheit

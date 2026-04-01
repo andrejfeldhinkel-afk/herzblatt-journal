@@ -450,7 +450,7 @@ Das ist der beste Zeitpunkt, um Selbstliebe zu lernen. Du brauchst keinen romant
 
 ### Selbstliebe in der frühen Beziehung
 
-Wenn du neu verliebt bist, ist es leicht, deine Bedürfnisse zu vergessen und den anderen zu prioritisieren.
+Wenn du neu [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, ist es leicht, deine Bedürfnisse zu vergessen und den anderen zu prioritisieren.
 
 **Fokus:**
 - Grenzen halten auch wenn du verliebt bist

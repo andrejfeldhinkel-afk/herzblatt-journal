@@ -38,7 +38,7 @@ Eine toxische Beziehung kann folgende Formen annehmen:
 - Sexueller Missbrauch (erzwungene sexuelle Handlungen)
 - Finanzielle Kontrolle (Kontrolle über Geld, Verhinderung von Arbeit)
 - Isolation (dich von Familie und Freunden fernhalten)
-- Gaslighting (dich zweifeln lassen an deiner eigenen Wahrnehmung)
+- [Gaslighting](/blog/gaslighting-komplett-guide) (dich zweifeln lassen an deiner eigenen Wahrnehmung)
 
 Wichtig: Giftige Beziehungen sind nicht auf lange, verheiratete Partnerschaften beschränkt. Sie können in Dating-Beziehungen, Verlobungen oder sogar Freundschaften auftreten.
 

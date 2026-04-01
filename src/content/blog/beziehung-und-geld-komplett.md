@@ -257,7 +257,7 @@ Das ist anders als Einkommensunterschiede. Das ist: Ein Partner hat bereits ein 
 Sie: 200.000 Euro in Ersparnissen, ein Haus, das sie erbt
 Er: Keine Ersparnisse, lebt von Gehalt zu Gehalt
 
-Sie lieben sich. Sie wollen zusammenziehen. Aber wie?
+Sie lieben sich. Sie wollen [zusammenziehen](/blog/zusammenziehen-checkliste). Aber wie?
 
 **Das braucht echte Conversations:**
 

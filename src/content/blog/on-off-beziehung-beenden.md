@@ -49,7 +49,7 @@ Ein häufiges toxisches Muster ist die emotionale Manipulation. Ein Partner nutz
 
 Ein anderes toxisches Muster ist die Hoovering-Taktik. Der Name stammt vom Staubsauger Hoover und beschreibt, wie der Partner dich wieder "ansaugt", wenn du gerade dabei bist, ihn aus deinem Leben zu räumen. Er meldet sich mit liebevollen Nachrichten, schuldeinflößenden Aussagen oder unmöglichen Versprechungen. Diese Kontaktversuche dienen nicht dem echten Wunsch nach Versöhnung, sondern der Wiederherstellung von Kontrolle.
 
-Gaslighting ist ein weiteres toxisches Element. Der Partner bestreitet deine Wahrnehmung, stellt deine Erinnerungen in Frage und macht dich glauben, dass du überreagierst oder verrückt bist. Nach einer Trennung versöhnt ihr euch, aber das alte Muster setzt sich fort – der psychologische Missbrauch wird fortgesetzt oder sogar intensiviert.
+[Gaslighting](/blog/gaslighting-komplett-guide) ist ein weiteres toxisches Element. Der Partner bestreitet deine Wahrnehmung, stellt deine Erinnerungen in Frage und macht dich glauben, dass du überreagierst oder verrückt bist. Nach einer Trennung versöhnt ihr euch, aber das alte Muster setzt sich fort – der psychologische Missbrauch wird fortgesetzt oder sogar intensiviert.
 
 ## Der emotionale Burnout einer On-Off Beziehung
 

@@ -175,7 +175,7 @@ Du bist bereit, wenn:
 
 Der letzte Punkt ist kritisch.
 
-Manche Menschen beginnen sofort eine neue Beziehung als Flucht vor Trauer. Das sieht aus wie: Du datierst aggressiv, verbringst schnell Zeit, redest ständig von der neuen Person, willst schnell zusammenziehen.
+Manche Menschen beginnen sofort eine neue Beziehung als Flucht vor Trauer. Das sieht aus wie: Du datierst aggressiv, verbringst schnell Zeit, redest ständig von der neuen Person, willst schnell [zusammenziehen](/blog/zusammenziehen-checkliste).
 
 Das ist nicht Heilung. Das ist emotionale Vermeidung.
 

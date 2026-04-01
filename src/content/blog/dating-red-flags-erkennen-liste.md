@@ -8,6 +8,7 @@ image: "/images/blog/dating-red-flags-erkennen-liste.webp"
 imageAlt: "Red Flags beim Dating: Die wichtigsten Warnzeichen erkennen"
 date: 2025-11-11
 author: "sarah-kellner"
+draft: true
 faq:
   - question: "Was sind typische Red Flags beim Dating?"
     answer: "Kontrollverhalten, Love Bombing, fehlende Empathie, ständiges Lügen, Isolation von Freunden und das Nicht-Respektieren deiner Grenzen."
@@ -19,7 +20,7 @@ faq:
 ---
 
 
-Red Flags beim Dating: Die wichtigsten Warnzeichen erkennen
+[Red Flags](/blog/dating-red-flags-maenner-erkennen) beim Dating: Die wichtigsten Warnzeichen erkennen
 
 Du dateest jemanden. Anfangs ist es großartig. Aber dann merkst du etwas, das dich ein bisschen unbequem macht. Kleine Dinge. Vieles könnten einfach Eigenheiten sein. Oder könnten sie sein Warnsignale?
 

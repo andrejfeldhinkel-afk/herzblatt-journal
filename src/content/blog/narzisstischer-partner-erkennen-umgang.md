@@ -62,9 +62,9 @@ Diese Phase ist wie ein Traum. Dein Partner ist plötzlich perfekt. Er meldet si
 
 Er merkt „zufällig" alle deine Lieblingssongs, deine Lieblingsspeisen, deine Träume auf. Er erzählt dir von seinen Träumen und verquickt sie mit deinen. Die Intensität ist überwältigend — du fühhlst dich endlich verstanden, endlich gesehen.
 
-Das ist Love Bombing. Es ist nicht Liebe. Es ist eine gezielte Taktik, um dich emotional abhängig zu machen, um dich an ihn zu binden, bevor die echte Persönlichkeit zum Vorschein kommt. Der Narzisst scannet deine Bedürfnisse, deine Wünsche, deine Schwachstellen — und gibt dir genau das, was du brauchst, um dich glücklich zu machen.
+Das ist [Love Bombing](/blog/love-bombing-erkennen-schuetzen). Es ist nicht Liebe. Es ist eine gezielte Taktik, um dich emotional abhängig zu machen, um dich an ihn zu binden, bevor die echte Persönlichkeit zum Vorschein kommt. Der Narzisst scannet deine Bedürfnisse, deine Wünsche, deine Schwachstellen — und gibt dir genau das, was du brauchst, um dich glücklich zu machen.
 
-In dieser Phase stellst du keine Fragen. Du bist zu verliebt, zu fasziniert, zu erleichtert, dass es funktioniert. Das ist absichtlich so. Die Love-Bombing-Phase ist so intensive, dass sie deine kritischen Fähigkeiten blockiert.
+In dieser Phase stellst du keine Fragen. Du bist zu [verliebt](/blog/mann-verliebt-anzeichen-komplett), zu fasziniert, zu erleichtert, dass es funktioniert. Das ist absichtlich so. Die Love-Bombing-Phase ist so intensive, dass sie deine kritischen Fähigkeiten blockiert.
 
 Ein konkretes Beispiel: Sarah trifft Tom in einer Bar. Innerhalb von zwei Wochen sieht sie ihn täglich. Er spricht ständig über ihre gemeinsame Zukunft, nennt sie „die Liebe seines Lebens", bucht spontane Kurztrips. Sie vergisst ihre Freunde, ihre Hobbies. Nach drei Monaten wohnt sie bereits bei ihm. Alles fühlt sich wie das größte Glück an.
 
@@ -78,7 +78,7 @@ Dann kommt etwas intensiveres. Der stille Krieg. Er schläft auf der anderen Sei
 
 Diese Phase ist psychologisch zermürbend. Du fragst dich ständig, was du falsch gemacht hast. Du versucht, alles zu beheben. Du wirst die beste Version deiner selbst — aber das reicht nie. Je mehr du dich bemühst, desto mehr zieht sich dein Partner zurück. Das ist kein Versehen. Das ist absichtlich.
 
-Die Abwertungsphase besteht oft aus mehreren Manipulationstechniken, die ich dir später detailliert erklären werde: Gaslighting, Silent Treatment, Stonewalling, Triangulation. Dein Partner macht dich für alles verantwortlich. „Das ist dein Fehler." „Du hast mich dazu gebracht." „Du bist zu viel, oder du bist nicht genug."
+Die Abwertungsphase besteht oft aus mehreren Manipulationstechniken, die ich dir später detailliert erklären werde: [Gaslighting](/blog/gaslighting-komplett-guide), Silent Treatment, Stonewalling, Triangulation. Dein Partner macht dich für alles verantwortlich. „Das ist dein Fehler." „Du hast mich dazu gebracht." „Du bist zu viel, oder du bist nicht genug."
 
 Ein konkretes Beispiel: Nach drei Monaten mit Tom beginnt die Kritik. Sarah trägt ein Kleid, das sie liebt, und Tom sagt: „Das steht dir nicht so gut wie das rote." Sie kauft sich das rote Kleid. Die nächste Woche sagt er: „Du versuchst zu sehr, mir zu gefallen. Das ist nicht attraktiv." Sie weiß nicht mehr, was richtig ist. Sie fängt an, nur noch Kleidung zu tragen, von der sie denkt, dass es ihm gefällt. Sie vergisst, was ihr selbst gefällt.
 

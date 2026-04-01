@@ -159,7 +159,7 @@ Erstens: Das ist nicht deine Schuld. Wenn jemand dich ablehnt, weil dein Körper
 
 Zweitens: Die Ablehnung wird leichter, je mehr Selbstbewusstsein du hast. Wenn dein innerer Dialog ist "Ich bin wertvoll", dann schmerzt eine oberflächliche Ablehnung nicht so sehr.
 
-Drittens: Es wird Momente geben, wo dein Übergewicht egal ist. Wo jemand dich sieht und sich wirklich in dich verliebt - nicht trotz, sondern als Teil davon, wer du bist. Diese Momente sind real. Und sie werden dein Vertrauen wieder aufbauen.
+Drittens: Es wird Momente geben, wo dein Übergewicht egal ist. Wo jemand dich sieht und sich wirklich in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett) - nicht trotz, sondern als Teil davon, wer du bist. Diese Momente sind real. Und sie werden dein Vertrauen wieder aufbauen.
 
 **Häufige Szenarien und wie man sie handhabt:**
 

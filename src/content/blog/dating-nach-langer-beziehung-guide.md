@@ -74,7 +74,7 @@ Sei pünktlich oder komme sogar etwas früher an. Dies zeigt Respekt und gibt di
 
 Während des Dates, vergesse nicht zu lächeln und Augenkontakt zu halten. Dies zeigt Engagement und Interesse. Beobachte die Körpersprache der anderen Person - lehnen sie sich zu dir vor oder weg? Dies kann dir viel über ihr Interesse verraten. Am Ende des Dates, wenn es gut gelaufen ist, sei nicht schüchtern, deine Absicht zu zeigen. "Ich hatte eine schöne Zeit mit dir. Können wir das wiederholen?" oder etwas Ähnliches ist direct und attraktiv.
 
-## Die Red Flags erkennen beim Dating nach langer Beziehung
+## Die [Red Flags](/blog/dating-red-flags-maenner-erkennen) erkennen beim Dating nach langer Beziehung
 
 Nach einer langen Beziehung kannst du manchmal nicht zu deinen besten Instinkten vertrauen. Es ist daher wichtig, klare Red Flags zu kennen, auf die du achten solltest. Wenn jemand dich schnell drückt, schnell zu viel Zeit zusammen zu verbringen oder schnell die Beziehung zu eskalieren, könnte das ein Red Flag sein. Dies könnte Liebebombing sein - eine Taktik, die toxische Menschen nutzen, um schnell eine Bindung zu schaffen.
 

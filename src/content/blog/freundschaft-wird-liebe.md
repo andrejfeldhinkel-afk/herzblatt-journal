@@ -98,7 +98,7 @@ Was du tun kannst:
 Hilfreiche Ressourcen findest du bei Bundesministerium für Familie: [Bundesministerium für Familie](https://www.bmfsfj.de/)
 - Mit der Zeit können echte Freundschaft und diese Gefühle auseinanderdriften
 
-Manchmal bedeutet es auch, dass diese Freundschaft nicht mehr wie zuvor sein wird. Das ist traurig, aber es ist realistisch. Du kannst nicht einfach so tun, als wärst du die ganze Zeit nicht verliebt gewesen.
+Manchmal bedeutet es auch, dass diese Freundschaft nicht mehr wie zuvor sein wird. Das ist traurig, aber es ist realistisch. Du kannst nicht einfach so tun, als wärst du die ganze Zeit nicht [verliebt](/blog/mann-verliebt-anzeichen-komplett) gewesen.
 
 ## Wenn du es nicht sagst
 

@@ -120,7 +120,7 @@ Es gibt viele Warnzeichen, die auf eine narzisstische Mutter hindeuten. Nicht je
 
 **12. Sie ignoriert oder bestraft Unabhängigkeit:** Wenn du versuchst, unabhängig zu werden oder deine eigenen Entscheidungen zu treffen, wird sie reagieren. Das kann bedeuten, dass sie dich beschämt, deine Entscheidungen sabotiert, dich mit Schweigen bestraft oder dich emotionalen Konsequenzen aussetzt.
 
-**13. Gaslighting und Realitätsverdrehung:** Sie ändert die Wahrheit, wenn es ihr passt. "Das habe ich nie gesagt" (obwohl sie es tat). "Das ist nicht passiert" (obwohl es dich traumatisierte). Sie macht dich verrückt mit ihren Umdeutungen deiner Realität. Mehr über Gaslighting kannst du in unserem [umfassenden Guide zu Gaslighting in Beziehungen](/blog/gaslighting-beziehung-erkennen/) lernen.
+**13. [Gaslighting](/blog/gaslighting-komplett-guide) und Realitätsverdrehung:** Sie ändert die Wahrheit, wenn es ihr passt. "Das habe ich nie gesagt" (obwohl sie es tat). "Das ist nicht passiert" (obwohl es dich traumatisierte). Sie macht dich verrückt mit ihren Umdeutungen deiner Realität. Mehr über Gaslighting kannst du in unserem [umfassenden Guide zu Gaslighting in Beziehungen](/blog/gaslighting-beziehung-erkennen/) lernen.
 
 **14. Sie zeigt wenig echtes Verständnis für deine Probleme:** Wenn du mit ihr über Probleme sprichst, gibt sie dir keine echte Unterstützung oder Lösungen. Stattdessen könnte sie sagen "Das ist nicht so wichtig wie das, was ich durchmache" oder "Seid einfach positiv".
 
@@ -470,7 +470,7 @@ Viele Menschen mit narzisstischen Müttern leiden unter chronischen Schmerzen, M
 
 Du könntest auch ein hypervigilantes Nervensystem haben. Du bist immer "auf Alarm", bereit auf emotionale Explosionen reagieren zu müssen. Dies führt zu Muskelverspannungen, erhöhtem Cortisol und einem Body, das sich immer "angespannt" anfühlt.
 
-Einige Menschen entwickeln auch automatische körperliche Reaktionen auf Dinge, die ihre Mutter erinnern. Wenn du sie siehst oder eine bestimmte Phrase hörst, könnte dein Herz rasen, deine Handflächen schwitzen oder dein Magen sich zusammenziehen. Das ist dein Körper, der ein altes Trauma erinnert.
+Einige Menschen entwickeln auch automatische körperliche Reaktionen auf Dinge, die ihre Mutter erinnern. Wenn du sie siehst oder eine bestimmte Phrase hörst, könnte dein Herz rasen, deine Handflächen schwitzen oder dein Magen sich [zusammenziehen](/blog/zusammenziehen-checkliste). Das ist dein Körper, der ein altes Trauma erinnert.
 
 Heilung muss daher auch körperbezogen sein. Das bedeutet:
 - Regelmäßige Bewegung zur Verarbeitung von gespeichertem Stress

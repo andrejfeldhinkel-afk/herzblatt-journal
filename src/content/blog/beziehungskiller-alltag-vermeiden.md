@@ -74,7 +74,7 @@ Das ist Killer 4: Conflict Avoidance.
 
 Mit vermiedenen Konflikten gibt es keine echte Intimität.
 
-Das ist Killer 5: Falsche Love Languages.
+Das ist Killer 5: Falsche [Love Languages](/blog/love-languages-komplett-guide).
 
 Mit mangelnder Kommunikation verlierst du deine Individualität, weil dein ganzes Leben ist jetzt "wir sind getrennt".
 
@@ -346,7 +346,7 @@ Dann, du gibst deine eigenen Hobbys auf, weil es leichter ist, zusammen etwas zu
 
 Dann, dein ganzes Leben ist dein Partner.
 
-Und du fragst dich: "Warum fühle ich mich nicht mehr in ihn/sie verliebt?"
+Und du fragst dich: "Warum fühle ich mich nicht mehr in ihn/sie [verliebt](/blog/mann-verliebt-anzeichen-komplett)?"
 
 Die Antwort ist: Du hast keine Individualität mehr, um verliebt zu sein.
 
@@ -1035,6 +1035,6 @@ Lese auch: Beziehung Kommunikation verbessern, [Emotionale Intelligenz beim Dati
 
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 - [Offene Kommunikation: So sagst du was du denkst](/blog/beziehung-offene-kommunikation/)
-- [Zusammenziehen: Der komplette Guide für den großen Schritt](/blog/zusammenziehen-richtig-planen/)
+- [Zusammenziehen: Der komplette Guide für den großen Schritt](/blog/[zusammenziehen](/blog/zusammenziehen-checkliste)-richtig-planen/)
 - [Aktives Zuhören üben: Besser verstehen in 7 Schritten](/blog/aktives-zuhoeren-beziehung-ueben/)
 - [Beziehung mit großem Altersunterschied](/blog/beziehung-altersunterschied/)

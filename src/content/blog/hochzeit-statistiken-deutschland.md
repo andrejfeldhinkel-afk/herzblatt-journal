@@ -172,7 +172,7 @@ Aber die Hochzeit ist nicht das Ende — es ist der Anfang. Und wie lange es dau
 
 ## Das Persönliche hinter den Zahlen
 
-Statistiken erzählen eine Geschichte, aber sie erzählen nicht die ganze Geschichte. Sie erzählen nicht von den Paaren, die nach 40 Jahren noch verliebt sind. Sie erzählen nicht von den Menschen, die allein glücklich sind. Sie erzählen nicht von denen, die heiraten und eine tiefe Partnerschaft aufbauen.
+Statistiken erzählen eine Geschichte, aber sie erzählen nicht die ganze Geschichte. Sie erzählen nicht von den Paaren, die nach 40 Jahren noch [verliebt](/blog/mann-verliebt-anzeichen-komplett) sind. Sie erzählen nicht von den Menschen, die allein glücklich sind. Sie erzählen nicht von denen, die heiraten und eine tiefe Partnerschaft aufbauen.
 
 Die Zahlen zeigen: Heirat ist weniger automatisch, seltener, aber wenn es passiert, stabiler. Das ist ein Fortschritt. Es bedeutet, dass Menschen bewusster entscheiden und dann engagierter bleiben.
 

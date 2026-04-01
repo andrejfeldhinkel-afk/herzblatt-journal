@@ -110,7 +110,7 @@ Der zweite Schritt ist Kommunikation. Nicht um Verantwortung zu übernehmen oder
 
 Der dritte Schritt ist Entscheidung. Entscheidest du dich, in dieser Beziehung zu investieren und wieder Liebe zu finden? Oder entscheidest du dich zu gehen?
 
-Beide Entscheidungen sind legitim. Manchmal können Paare ihre Liebe wiederentdecken. Sie gehen in eine Therapie, sie kommunizieren, sie erinnern sich daran, warum sie sich zusammen verliebt haben. Manchmal funktioniert das.
+Beide Entscheidungen sind legitim. Manchmal können Paare ihre Liebe wiederentdecken. Sie gehen in eine Therapie, sie kommunizieren, sie erinnern sich daran, warum sie sich zusammen [verliebt](/blog/mann-verliebt-anzeichen-komplett) haben. Manchmal funktioniert das.
 
 Manchmal nicht. Manchmal ist die beste Entscheidung, sich zu trennen. Das ist nicht ein Fehler. Das ist eine Erkenntnis. Das ist der Mut, die Wahrheit zu sehen und danach zu handeln.
 

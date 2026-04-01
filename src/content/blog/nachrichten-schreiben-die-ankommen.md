@@ -175,7 +175,7 @@ Wenn die andere Person:
 - Deine Fragen ignoriert und nur über sich spricht
 - Sexual aggressiv wird zu früh
 
-Das sind Zeichen von Desinteresse oder Red Flags. Nicht deine Zeit verschwenden.
+Das sind Zeichen von Desinteresse oder [Red Flags](/blog/dating-red-flags-maenner-erkennen). Nicht deine Zeit verschwenden.
 
 ## Sicherheit beim Messaging
 

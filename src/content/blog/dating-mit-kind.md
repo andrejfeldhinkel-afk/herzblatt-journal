@@ -141,7 +141,7 @@ Einige Kinder werden glücklich sein, einen neuen Erwachsenen in ihrem Leben zu 
 
 ## Red Flags: Wisse, wenn eine Person nicht richtig ist
 
-Es gibt einige Red Flags, die du als alleinerziehender Elternteil besonders aufmerksam sein solltest:
+Es gibt einige [Red Flags](/blog/dating-red-flags-maenner-erkennen), die du als alleinerziehender Elternteil besonders aufmerksam sein solltest:
 
 Die erste ist, wenn jemand möchte, dass dein Kind dich schnell kennenlernt. Das ist ein Zeichen, dass sie dein Kind nicht respektiert. Sie möchten schnell in dein Leben eindringen, ohne echte Arbeit.
 

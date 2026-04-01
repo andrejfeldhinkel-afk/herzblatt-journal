@@ -73,7 +73,7 @@ Dies erfordert auch, dass du neue Ziele deines Partners kennenlernst und umgekeh
 
 ## Date Nights: Nicht nur eine Tätigkeit, sondern eine Verpflichtung
 
-Es ist leicht, mit Date Nights zu beginnen, wenn man jung verliebt ist. Aber nach zehn Jahren können Date Nights zu etwas werden, das ihr ausfallen lasst, weil ihr zu müde seid, oder weil es einfach nicht passiert, wenn es nicht geplant ist. Aber dies ist genau der Moment, in dem Date Nights am wichtigsten sind.
+Es ist leicht, mit Date Nights zu beginnen, wenn man jung [verliebt](/blog/mann-verliebt-anzeichen-komplett) ist. Aber nach zehn Jahren können Date Nights zu etwas werden, das ihr ausfallen lasst, weil ihr zu müde seid, oder weil es einfach nicht passiert, wenn es nicht geplant ist. Aber dies ist genau der Moment, in dem Date Nights am wichtigsten sind.
 
 Ein Date Night ist nicht einfach nur, zusammen essen zu gehen. Es ist eine bewusste Zeit, in der ihr euch wieder als Liebende behandelt, nicht als Co-Managers eines Haushalts. Es ist eine Zeit, in der ihr euch anziehen würdet (nicht in Jogginghosen), in der ihr euch würdet unterhalten und miteinander flirten würdet.
 

@@ -129,7 +129,7 @@ Diese sind nicht reparierbar, besonders wenn keine Reue oder keine Bereitschaft 
 
 - **Finanzieller Missbrauch oder bedeutende finanzielle Irresponsabilität mit Mangel an Veränderung**
 
-- **Emotionale Gewalt: Gaslighting, Isolation, ständige Erniedrigung**
+- **Emotionale Gewalt: [Gaslighting](/blog/gaslighting-komplett-guide), Isolation, ständige Erniedrigung**
 
 Wenn Sie eine oder mehr dieser haben, und Ihr Partner zeigt keine Buße oder Bereitschaft zu verändern, ist die Entscheidung klarer: Gehen.
 

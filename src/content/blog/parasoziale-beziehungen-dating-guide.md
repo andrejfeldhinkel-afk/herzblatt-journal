@@ -124,7 +124,7 @@ Es wird nicht.
 
 Diese Person ist ein realer Mensch mit Fehlern und Schwächen und Problemen. Sie sind nicht die idealisierte Version, die du in deinem Kopf erschaffen hast.
 
-Und noch wichtiger: Dass dich zeigen denen könnte sie nicht überzeugen, dass ihr zusammen sein seid. Sie könnten nicht interessiert sein. Sie könnten bereits in jemanden anderes verliebt sein. Du weißt nichts.
+Und noch wichtiger: Dass dich zeigen denen könnte sie nicht überzeugen, dass ihr zusammen sein seid. Sie könnten nicht interessiert sein. Sie könnten bereits in jemanden anderes [verliebt](/blog/mann-verliebt-anzeichen-komplett) sein. Du weißt nichts.
 
 Die Fantasie ist sicherer als die Realität. Das ist warum, dass parasoziale Beziehungen so verlockend sind. Sie bieten Erfüllung ohne Risiko.
 

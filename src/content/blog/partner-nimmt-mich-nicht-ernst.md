@@ -39,7 +39,7 @@ Nicht ernst genommen zu werden ist nicht das gleiche wie nicht gehört zu werden
 
 Er hört dir nicht wirklich zu. Du sprichst, aber er wartet nur darauf, dass du fertig bist um selbst zu reden. Seine Gedanken sind woanders. Die Botschaft die es ihm sendet: Was du sagst ist irrelevant.
 
-Er nimmt deine Gefühle als unbegründet wahr. "Du bist überempfindlich." "Das sollte dich nicht aufregen." "Das sind nur deine Gefühle, nicht objektiv." Damit delegitimiert er deine innere Erfahrung. Das ist Emotionales Gaslighting.
+Er nimmt deine Gefühle als unbegründet wahr. "Du bist überempfindlich." "Das sollte dich nicht aufregen." "Das sind nur deine Gefühle, nicht objektiv." Damit delegitimiert er deine innere Erfahrung. Das ist Emotionales [Gaslighting](/blog/gaslighting-komplett-guide).
 
 Er macht Witze über das was dir wichtig ist. "Ha ha, deine Angst vor der Präsentation ist lustig." Witze können ein Ventil sein, aber wenn sie auf deine Kosten gehen, sagt er dir: Ich halte das nicht für wichtig.
 
@@ -189,7 +189,7 @@ Wenn du mehr über respektvolle Kommunikation lesen magst, schau dir [Bessere Ko
 
 - [Partner kritisiert mich ständig: Wie reagiere ich richtig?](/blog/partner-kritisiert-mich-staendig/)
 - [Partner vergleicht mich mit der Ex: So reagierst du](/blog/partner-vergleicht-mich-mit-ex/)
-- [Partner will nicht zusammenziehen: Was steckt dahinter?](/blog/partner-will-nicht-zusammenziehen/)
+- [Partner will nicht [zusammenziehen](/blog/zusammenziehen-checkliste): Was steckt dahinter?](/blog/partner-will-nicht-zusammenziehen/)
 - [Partner will offene Beziehung: Was jetzt?](/blog/partner-will-offene-beziehung/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 ## FAQ

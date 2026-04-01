@@ -348,7 +348,7 @@ Dating mit Behinderung ist eine Sache. Eine Beziehung zu haben ist eine andere.
 - Es wird Momente geben, wo deine Behinderung die Beziehung belastet. Ihr müsst das zusammen angehen.
 - Ein guter Partner wird nicht sagen: "Deine Behinderung ist ein Problem." Er wird sagen: "Wie können wir das zusammen managen?"
 
-**Red Flags in Beziehungen:**
+**[Red Flags](/blog/dating-red-flags-maenner-erkennen) in Beziehungen:**
 
 - Dein Partner versucht ständig, dich zu "heilen"
 - Dein Partner benutzt deine Behinderung gegen dich in Kämpfen

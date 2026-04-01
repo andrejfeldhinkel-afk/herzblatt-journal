@@ -399,7 +399,7 @@ Diese Handlungen sind teurer als Worte. Worte kosten nichts. Zuverlässigkeit, Z
 
 ### Die Zukunfts-Sprache
 
-Ein Mann, der es ernst meint, wird von der Zukunft mit dir sprechen. "Wenn wir zusammenziehen..." "Wenn wir heiraten..." Nicht konkret Planung unbedingt, aber er sieht die Zukunft mit dir in ihr.
+Ein Mann, der es ernst meint, wird von der Zukunft mit dir sprechen. "Wenn wir [zusammenziehen](/blog/zusammenziehen-checkliste)..." "Wenn wir heiraten..." Nicht konkret Planung unbedingt, aber er sieht die Zukunft mit dir in ihr.
 
 Ein Mann, der nicht ernst meint, wird alles in der Gegenwart halten. "Jetzt," "Heute," "Diese Woche." Die Zukunft ist zu weit weg oder zu unsicher.
 

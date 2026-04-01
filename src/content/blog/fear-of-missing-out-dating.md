@@ -189,7 +189,7 @@ Es gibt nicht "die beste Person." Es gibt Menschen mit denen du eine großartige
 
 Das ist nicht schwarz und weiß. Das ist nuanciert.
 
-Ein Mann erzählte mir: "Ich datete diese Frau. Sie war nicht meine ideale Typ auf Papier. Aber sie mochte mich. Wirklich. Sie war präsent. Nach sechs Monaten war ich verliebt.
+Ein Mann erzählte mir: "Ich datete diese Frau. Sie war nicht meine ideale Typ auf Papier. Aber sie mochte mich. Wirklich. Sie war präsent. Nach sechs Monaten war ich [verliebt](/blog/mann-verliebt-anzeichen-komplett).
 
 Wenn ich damals FOMO gehabt hätte, hätte ich sie verpassen können. Und ich hätte die beste Beziehung meines Lebens verpassen können.
 

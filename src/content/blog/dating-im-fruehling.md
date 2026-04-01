@@ -85,7 +85,7 @@ Das ist nicht mystisch – das ist die Macht von Jahreszeiten auf menschliche Ps
 
 ## Der Momentum nutzen
 
-Wenn du jemanden magst und gerade Frühling ist, zögere nicht zu lange. Der Momentum ist jetzt. Diese Energie, diese Hoffnung, diese Bereitschaft – die ist jetzt da. In zwei Wochen kann es vorbei sein, oder die Person hat sich bereits woanders verliebt.
+Wenn du jemanden magst und gerade Frühling ist, zögere nicht zu lange. Der Momentum ist jetzt. Diese Energie, diese Hoffnung, diese Bereitschaft – die ist jetzt da. In zwei Wochen kann es vorbei sein, oder die Person hat sich bereits woanders [verliebt](/blog/mann-verliebt-anzeichen-komplett).
 
 Schreib die Person an. "Hey, ich möchte nächstes Wochenende einen Spaziergang im Blütenpark machen. Hast du Lust?" Das ist direkt, es ist konkret, und es nutzt die Jahreszeit. Es zeigt auch: Ich bin proaktiv, ich weiß, was ich will, ich warte nicht herum.
 

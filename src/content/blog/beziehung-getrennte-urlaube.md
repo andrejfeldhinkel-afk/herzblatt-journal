@@ -64,7 +64,7 @@ Es ist ein klassisches Muster: Ein Paar wird zusammen, und nach ein paar Jahren 
 
 Und dann wundern sich die Menschen, warum die Beziehung sich anfühlt, als würde sie ersticken.
 
-Getrennte Urlaube sind eine bewusste Entscheidung, diese Falle zu vermeiden. Sie sagen: "Wir lieben uns, aber wir lieben auch unsere Unabhängigkeit." Das ist nicht etwas, das man aufgeben muss, nur weil man verliebt ist.
+Getrennte Urlaube sind eine bewusste Entscheidung, diese Falle zu vermeiden. Sie sagen: "Wir lieben uns, aber wir lieben auch unsere Unabhängigkeit." Das ist nicht etwas, das man aufgeben muss, nur weil man [verliebt](/blog/mann-verliebt-anzeichen-komplett) ist.
 
 Wenn du merkst, dass du eine Reise machen möchtest, die dein Partner nicht interessiert, dann buche sie. Geh allein. Oder geh mit Freunden. Erlebe dein eigenes Abenteuer. Und wenn er zurückkommt und dir von seinen Abenteuern erzählt, wirst du das verstehen und schätzen, weil du gerade das Gleiche getan hast.
 

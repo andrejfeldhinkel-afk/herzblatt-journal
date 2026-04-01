@@ -23,7 +23,7 @@ Wenn du wertebasiert datingst, trifft du nicht nur bessere Menschen. Du sparst d
 
 Viele Menschen verwechseln Werte mit Interessen oder Zielen. Das ist ein kritischer Fehler, der zu schlechten Partnerwahlen führt.
 
-Deine Werte sind die tiefsten Überzeugungen darüber, was richtig und wichtig in der Welt ist. Sie sind nicht verhandelbar. Sie sind nicht etwas, das du änderst, wenn du verliebt wirst.
+Deine Werte sind die tiefsten Überzeugungen darüber, was richtig und wichtig in der Welt ist. Sie sind nicht verhandelbar. Sie sind nicht etwas, das du änderst, wenn du [verliebt](/blog/mann-verliebt-anzeichen-komplett) wirst.
 
 Wenn du glaubst, dass Ehrlichkeit das wichtigste in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/) ist, dann ist das ein Wert. Wenn du denkst, dass Familie die wichtigste Institution ist, das ist ein Wert. Wenn du glaubst, dass finanzielle Unabhängigkeit kritisch ist, das ist ein Wert.
 

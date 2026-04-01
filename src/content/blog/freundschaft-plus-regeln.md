@@ -106,7 +106,7 @@ Und hier ist die gute Nachricht: Wenn ihr die Freundschaft richtig gefestigt hab
 
 Der Unterschied zwischen funktionierender Freundschaft Plus und einem kaputten Szenario ist oft: Hoffnung.
 
-Wenn einer von euch heimlich hofft, dass der andere sich verliebt, ist Freundschaft Plus bereits gescheitert. Es ist nicht unehrlich – es ist einfach nicht möglich, so zu tun, als hätte man keine Gefühle, wenn man sie hat.
+Wenn einer von euch heimlich hofft, dass der andere sich [verliebt](/blog/mann-verliebt-anzeichen-komplett), ist Freundschaft Plus bereits gescheitert. Es ist nicht unehrlich – es ist einfach nicht möglich, so zu tun, als hätte man keine Gefühle, wenn man sie hat.
 
 Das Schwierige: Die Hoffnung kann sich entwickeln. Du dachtest, du könntest es trennen – und plötzlich kannst du es nicht mehr. Das ist der Moment, zu reden.
 

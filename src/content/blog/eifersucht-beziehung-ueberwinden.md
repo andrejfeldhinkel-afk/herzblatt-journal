@@ -26,7 +26,7 @@ faq:
 ---
 ## Warum Eifersucht so mächtig ist
 
-Eifersucht gehört zu den intensivsten Gefühlen, die wir kennen. Sie lässt den Magen zusammenziehen, den Kopf rasen und das Herz schmerzen — manchmal alles gleichzeitig. Und das Schlimmste: Wir wissen oft selbst, dass unsere Eifersucht irrational ist, können aber trotzdem nicht aufhören.
+Eifersucht gehört zu den intensivsten Gefühlen, die wir kennen. Sie lässt den Magen [zusammenziehen](/blog/zusammenziehen-checkliste), den Kopf rasen und das Herz schmerzen — manchmal alles gleichzeitig. Und das Schlimmste: Wir wissen oft selbst, dass unsere Eifersucht irrational ist, können aber trotzdem nicht aufhören.
 
 Der Grund liegt tief in unserer Evolution. Eifersucht war einmal ein Überlebensmechanismus — sie sollte uns vor dem Verlust wichtiger Beziehungen schützen. Doch in der modernen Welt wird sie oft zum Problem, weil sie dort auftaucht, wo keine reale Bedrohung existiert.
 

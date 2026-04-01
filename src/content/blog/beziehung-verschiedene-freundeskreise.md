@@ -209,7 +209,7 @@ Manchmal wechseln die Freundschaften im Laufe einer Beziehung. Das ist schmerzha
 
 ## Die Übergangsphase bei neuen Beziehungen
 
-In der frühen Phase einer Beziehung ist es völlig normal (und eigentlich gesund), nicht viel Zeit mit Freunden zu verbringen. Du verbringst vielleicht die ganze Zeit mit deinem neuen Partner, und das ist okay. Das ist die Phase, in der ihr euch kennenlernt und verliebt.
+In der frühen Phase einer Beziehung ist es völlig normal (und eigentlich gesund), nicht viel Zeit mit Freunden zu verbringen. Du verbringst vielleicht die ganze Zeit mit deinem neuen Partner, und das ist okay. Das ist die Phase, in der ihr euch kennenlernt und [verliebt](/blog/mann-verliebt-anzeichen-komplett).
 
 Aber irgendwann sollte das Gleichgewicht zurückkommen. Deine Freunde sollten wieder wichtig werden. Dein eigenes Leben sollte wieder einen Platz haben.
 

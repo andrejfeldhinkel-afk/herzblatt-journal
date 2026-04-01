@@ -41,7 +41,7 @@ Liebessucht tritt in verschiedenen Formen auf. Manche Menschen sind serielle Bez
 
 ## Die Neurochemie der Liebessucht – Dein Gehirn spielt eine Rolle
 
-Wenn du verliebt bist, passiert in deinem Gehirn etwas Faszinierendes. Dopamin wird ausgeschüttet – derselbe Stoff, der bei Kokainkonsum freigesetzt wird. Das ist keine Übertreibung. Das ist Wissenschaft.
+Wenn du [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, passiert in deinem Gehirn etwas Faszinierendes. Dopamin wird ausgeschüttet – derselbe Stoff, der bei Kokainkonsum freigesetzt wird. Das ist keine Übertreibung. Das ist Wissenschaft.
 
 Dopamin ist das Belohnungshormon. Es macht dich süchtig nach dem Gefühl, süchtig danach, den anderen zu sehen, eine Nachricht zu bekommen, Nähe zu haben. Mit der Zeit brauchst du immer mehr von diesem Dopamin. Eine Nachricht reicht nicht mehr – du brauchst einen Anruf. Ein Anruf reicht nicht – du brauchst Stunden zusammen.
 

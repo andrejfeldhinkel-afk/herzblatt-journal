@@ -32,7 +32,7 @@ Was wir als Schmetterlinge im Bauch empfinden, ist eigentlich eine Stressreaktio
 
 Das enterische Nervensystem in unserem Bauch — oft als zweites Gehirn bezeichnet — reagiert auf diese Hormonschwankungen besonders sensibel. Die reduzierte Durchblutung des Verdauungstrakts zugunsten der Muskeln erzeugt genau dieses flatternde Gefühl.
 
-Interessanterweise ist diese Reaktion identisch mit der Angstreaktion. Dein Körper kann nicht unterscheiden, ob du verliebt oder verängstigt bist. Das erklärt, warum aufregende erste Dates oft intensivere Gefühle erzeugen als gemütliche Treffen.
+Interessanterweise ist diese Reaktion identisch mit der Angstreaktion. Dein Körper kann nicht unterscheiden, ob du [verliebt](/blog/mann-verliebt-anzeichen-komplett) oder verängstigt bist. Das erklärt, warum aufregende erste Dates oft intensivere Gefühle erzeugen als gemütliche Treffen.
 
 Die Neurochemie der frühen Verliebtheitsphase ist faszinierend. Phenyletylamin wird freigesetzt, ein natürliches Amphetamin, das dich energiegeladen und glücklich macht. Gleichzeitig sinkt dein Serotoninspiegel, was erklären könnte, warum du ständig an diese Person denken musst – ähnlich wie bei einer Zwangsstörung. Du kannst dich nicht konzentrieren, du vergisst zu essen, du schläfst schlecht. Das ist nicht Liebe – das ist dein Gehirn in einem hormonellen Ausnahmezustand.
 

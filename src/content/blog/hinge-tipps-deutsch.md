@@ -118,7 +118,7 @@ Hier sind 10 Prompt-Antworten, die ich selbst getestet habe oder von Freunden ge
 „Überrasch mich mit einem Roadtrip irgendwohin. Musik. Lachen bis der Bauch weh tut. Aber auch einfach zusammen zuhause sitzen und nicht sprechen – das ist auch schön."
 
 **4. „Das wird unpopulär sein, aber"**
-„Ich denke, dass Ghosting unhöflich ist und Menschen nicht mehr kommunizieren. Wenn es nicht funktioniert, sag es. Respekt ist sexy."
+„Ich denke, dass [Ghosting](/blog/ghosting-komplett-guide) unhöflich ist und Menschen nicht mehr kommunizieren. Wenn es nicht funktioniert, sag es. Respekt ist sexy."
 
 **5. „Ich bin daheim am glücklichsten"**
 „In meiner Küche Musik spielend während ich koche. Mit Freunden nach einem langen Abend auf der Couch zusammen."

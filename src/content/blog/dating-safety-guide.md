@@ -295,7 +295,7 @@ Alle windows checked
 
 War das eine gute Person?
 
-Hätte ich Red Flags übersehen?
+Hätte ich [Red Flags](/blog/dating-red-flags-maenner-erkennen) übersehen?
 
 Würde ich nächstes Date wollen?
 

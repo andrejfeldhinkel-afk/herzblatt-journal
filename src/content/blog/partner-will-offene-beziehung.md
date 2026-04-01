@@ -154,5 +154,5 @@ Manchmal ist die liebevolle Antwort nicht "Ja, ich mache mit" – es ist "Ich li
 - [Offene Beziehung: Regeln und Ehrlichkeit](/blog/offene-beziehung-regeln/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 - [Offene Kommunikation: So sagst du was du denkst](/blog/beziehung-offene-kommunikation/)
-- [Partner will nicht zusammenziehen: Was steckt dahinter?](/blog/partner-will-nicht-zusammenziehen/)
+- [Partner will nicht [zusammenziehen](/blog/zusammenziehen-checkliste): Was steckt dahinter?](/blog/partner-will-nicht-zusammenziehen/)
 - [Aktives Zuhören üben: Besser verstehen in 7 Schritten](/blog/aktives-zuhoeren-beziehung-ueben/)

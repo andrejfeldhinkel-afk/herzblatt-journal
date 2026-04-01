@@ -45,7 +45,7 @@ Dann, ganz allmählich, ändert sich die Dynamik. Die Kritik wird größer. Die 
 
 Das ist der Haken. Das ist, wie er dich hält.
 
-Die traumatischen Folgen sind stark. Du entwickelst Hypervigilanz – du liest in jeden Ton, jede Geste, jede Pause auf Zeichen von Ablehnung. Du entwickelst Verwirrung über deine eigene Realität. Du fragst dich ständig, ob du schuldig bist, ob du irrational bist, ob deine Gefühle berechtigt sind. Das nennt sich Gaslighting.
+Die traumatischen Folgen sind stark. Du entwickelst Hypervigilanz – du liest in jeden Ton, jede Geste, jede Pause auf Zeichen von Ablehnung. Du entwickelst Verwirrung über deine eigene Realität. Du fragst dich ständig, ob du schuldig bist, ob du irrational bist, ob deine Gefühle berechtigt sind. Das nennt sich [Gaslighting](/blog/gaslighting-komplett-guide).
 
 ## Die unmittelbare Phase nach dem Missbrauch
 
@@ -137,7 +137,7 @@ Die Antwort ist: Du bist bereit, wenn du dich selbst vertraust.
 
 Das bedeutet:
 - Du kannst auf dein Bauchgefühl hören und ihm folgen
-- Du erkennst Red Flags schnell und gehst weg
+- Du erkennst [Red Flags](/blog/dating-red-flags-maenner-erkennen) schnell und gehst weg
 - Du brauchst nicht die Bestätigung von jemandem, um dich wertvoll zu fühlen
 - Du kannst „nein" sagen, ohne dich schuldig zu fühlen
 - Du verstehst, dass es nicht deine Schuld ist, wenn die andere Person nicht richtig ist

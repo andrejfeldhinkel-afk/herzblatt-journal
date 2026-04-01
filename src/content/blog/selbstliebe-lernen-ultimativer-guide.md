@@ -365,7 +365,7 @@ Um alles zusammenzubinden, hier ist eine 30-Tage-Challenge. Jeder Tag hat eine k
 - Tag 24: Verbringe Zeit mit jemandem, der dich liebt (oder mit dir selbst)
 - Tag 25: Mach etwas, das deinen Selbstwert hebt
 - Tag 26: Bett eine Grenze wenn nötig (das praktizieren wird gut)
-- Tag 27: Schreib einen Liebesbrief an dich selbst
+- Tag 27: Schreib einen [Liebesbrief](/blog/liebesbrief-schreiben-anleitung) an dich selbst
 - Tag 28-30: Jede Tag, reflektiere eine Sache, die sich verändert hat in deinem Verhältnis zu dir selbst
 
 ## Bücher und Ressourcen

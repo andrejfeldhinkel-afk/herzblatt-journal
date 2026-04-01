@@ -128,7 +128,7 @@ SituationZeitAktion**Profil nicht interessant**1 SekundeSwipe left**Profile inte
 
 ## Time Wasters zu VERMEIDEN
 
-ZeitverschwendungProblemLösung**Endloses Chatten**3 Wochen Chat ohne DateNach 7 Tage “Treffen?”**Matches lesen ohne Antworten**Sieht dich als nicht-InteressiertAntworte oder ignore**Perfekte Nachricht schreiben**30 Min für eine Msg2-3 Min reicht**Zu viele Apps**5+ Apps durchscrollen2-3 Apps max**Swiping ohne Profil-Update**Match rate bleibt gleichUpdate monatlich**Daten ohne Klarheit**”Ich weiß nicht was ich will”Klar sein bevor App nutzen**Ghosting dich selbst**Du matchest aber nicht triffstPflicht-Daten halten
+ZeitverschwendungProblemLösung**Endloses Chatten**3 Wochen Chat ohne DateNach 7 Tage “Treffen?”**Matches lesen ohne Antworten**Sieht dich als nicht-InteressiertAntworte oder ignore**Perfekte Nachricht schreiben**30 Min für eine Msg2-3 Min reicht**Zu viele Apps**5+ Apps durchscrollen2-3 Apps max**Swiping ohne Profil-Update**Match rate bleibt gleichUpdate monatlich**Daten ohne Klarheit**”Ich weiß nicht was ich will”Klar sein bevor App nutzen**[Ghosting](/blog/ghosting-komplett-guide) dich selbst**Du matchest aber nicht triffstPflicht-Daten halten
 
 ## Wann sollte ich aufgeben?
 

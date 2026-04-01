@@ -25,7 +25,7 @@ faq:
     answer: "Das ist ein wichtiges Zeichen. Ein guter Partner wird deine Bemühungen sehen und dich unterstützen, auch wenn du dich noch verbessern wirst. Wenn er das nicht tut, könnte das sein Problem sein, nicht dein Fehler."
 ---
 
-Es ist leicht, die Red Flags in anderen zu sehen. Der Partner, der dich ignoriert. Der, der zu viel trinkt. Der, der deine Grenzen nicht respektiert.
+Es ist leicht, die [Red Flags](/blog/dating-red-flags-maenner-erkennen) in anderen zu sehen. Der Partner, der dich ignoriert. Der, der zu viel trinkt. Der, der deine Grenzen nicht respektiert.
 
 Aber es ist verdammt schwer, die Red Flags in dir selbst zu sehen.
 

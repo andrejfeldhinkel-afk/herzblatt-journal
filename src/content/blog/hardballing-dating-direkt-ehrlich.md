@@ -30,7 +30,7 @@ Der Begriff wurde von Autor und Dating-Coach Matthew Hussey populär gemacht, ob
 
 ### Ein neuer Ansatz zum Dating
 
-In einer Dating-Welt voller Spielchen, Ghosting und emotionaler Spielerei, könnte Hardballing radikal sein. Es könnte auch beängstigend sein, wenn Sie nicht daran gewöhnt sind. Aber je mehr Menschen es ausprobieren, desto mehr erkennen sie, dass es funktioniert.
+In einer Dating-Welt voller Spielchen, [Ghosting](/blog/ghosting-komplett-guide) und emotionaler Spielerei, könnte Hardballing radikal sein. Es könnte auch beängstigend sein, wenn Sie nicht daran gewöhnt sind. Aber je mehr Menschen es ausprobieren, desto mehr erkennen sie, dass es funktioniert.
 
 ## Warum wir traditionell Spielchen spielen
 
@@ -74,7 +74,7 @@ Wenn Sie ein Spiel spielen, baut die andere Person Beziehung zu dem Spiel, nicht
 
 ### Sagen Sie, was Sie denken
 
-Wenn Sie jemanden treffen, den Sie mögen, sagen Sie es (wenn angemessen). Nicht in einer intensiven Art und Weise – nicht "Ich bin verliebt in Sie nach einem Datum" – aber eine authentische Art. "Ich hatte wirklich eine gute Zeit mit dir. Ich möchte dich wieder sehen."
+Wenn Sie jemanden treffen, den Sie mögen, sagen Sie es (wenn angemessen). Nicht in einer intensiven Art und Weise – nicht "Ich bin [verliebt](/blog/mann-verliebt-anzeichen-komplett) in Sie nach einem Datum" – aber eine authentische Art. "Ich hatte wirklich eine gute Zeit mit dir. Ich möchte dich wieder sehen."
 
 ### Kommunizieren Sie Ihre Erwartungen
 

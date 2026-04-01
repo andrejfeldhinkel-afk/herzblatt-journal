@@ -34,7 +34,7 @@ Das ist Manipulation. Du wurdest bewegt, und jetzt versuchst du zu kontrollieren
 
 ## Die klassischen Tricks
 
-Gaslighting. Der Manipulator sagt dich, dass deine Wahrnehmung ist falsch. "Das nie geschah." "Du erinnerst falsch." "Du bist verrückt." Mit Zeit, du fängst an, dich selbst zu fragen. Du weißt nicht, was real ist.
+[Gaslighting](/blog/gaslighting-komplett-guide). Der Manipulator sagt dich, dass deine Wahrnehmung ist falsch. "Das nie geschah." "Du erinnerst falsch." "Du bist verrückt." Mit Zeit, du fängst an, dich selbst zu fragen. Du weißt nicht, was real ist.
 
 Isolation. Der Manipulator versucht, dich von Freunden und Familie zu trennen. Sie machen dich fühlen, dass nur SIE dich verstehen. Das macht es schwieriger, für andere Perspektiven oder Unterstützung zu suchen.
 

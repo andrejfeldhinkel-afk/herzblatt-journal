@@ -26,7 +26,7 @@ Glückwunsch! Deine erste echte Beziehung hat gerade angefangen. Aufregung, Schm
 
 Der größte Fehler: Du erwartest, dass die erste Beziehung wie in Filmen sein wird. Konstante Romantik, keine Lust auf Alltägliches, immer perfekt. Die Realität ist anders. Beziehungen sind Alltag. Es gibt Tage, an denen dein Partner müde ist und nur aufs Sofa will. Das hat nichts mit mangelnder Liebe zu tun.
 
-Passe deine Erwartungen an. Eine gute Beziehung bedeutet nicht, dass ihr immer verliebt wirkt. Sie bedeutet, dass du dich sicher fühlst, unterstützt und verstanden.
+Passe deine Erwartungen an. Eine gute Beziehung bedeutet nicht, dass ihr immer [verliebt](/blog/mann-verliebt-anzeichen-komplett) wirkt. Sie bedeutet, dass du dich sicher fühlst, unterstützt und verstanden.
 
 ## Verliere dich nicht selbst
 

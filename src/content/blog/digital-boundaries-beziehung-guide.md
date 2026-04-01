@@ -268,7 +268,7 @@ Wenn dein Partner dir verbietet, mit anderen Leuten zu chatten, aber er selbst t
 
 Wenn dein Partner dich ständig fragt, wen du vor ihm datiert hast, oder alte Fotos durchsucht, um zu sehen, mit wem du zusammen warst. Das ist Vergangenheits-Kontrolle. Und das zeigt, dass dein Partner versucht, dich zu kontrollieren — nicht nur jetzt, sondern auch rückwärts.
 
-Wenn du eines dieser Red Flags siehst, dann ist das nicht etwas, das du mit Transparenz lösen kannst. Das ist etwas, das professionelle Hilfe braucht.
+Wenn du eines dieser [Red Flags](/blog/dating-red-flags-maenner-erkennen) siehst, dann ist das nicht etwas, das du mit Transparenz lösen kannst. Das ist etwas, das professionelle Hilfe braucht.
 
 ## Die neuen Regeln: Wie gesunde Paare digitale Grenzen setzen
 

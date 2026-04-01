@@ -221,7 +221,7 @@ Eine Talking Stage, die nie zu etwas wird, ist eine emotionale Sackgasse. Das is
 **DON'Ts:**
 
 - **Don't: Investiere deine ganze emotionale Energie.** Das macht dich verletzlich und abhängig.
-- **Don't: Ignoriere Red Flags in der Hoffnung, dass sie sich ändern.** Menschen ändern sich selten, wenn es dem anderen nicht passt.
+- **Don't: Ignoriere [Red Flags](/blog/dating-red-flags-maenner-erkennen) in der Hoffnung, dass sie sich ändern.** Menschen ändern sich selten, wenn es dem anderen nicht passt.
 - **Don't: Spieliere Gleichgültigkeit.** "Ich antworte erst nach zwei Stunden, damit sie denkt, ich bin busy" ist manipulation. Sei echt.
 - **Don't: Vergleiche dich mit Ex-Partnern oder anderen Optionen.** Das ist Gift für die Psyche.
 - **Don't: Vergiss dein eigenes Leben.** Deine Karriere, Freunde, Interessen sollten nicht in den Hintergrund treten.
@@ -299,7 +299,7 @@ In westlichen, urbanen Kontexten ist die Talking Stage Standard. Sie gibt es, we
 
 Das bedeutet auch: Die Talking Stage ist nicht für alle Menschen gleich komfortabel. Wenn du aus einem Kulturkreis kommst, der weniger "ambivalent" mit Dating umgeht, kann die Talking Stage sich seltsam oder frustrierend anfühlen. Das ist ok. Das heißt nicht, dass du etwas falsch machst — es heißt, dass die Kommunikation mit der anderen Person noch wichtiger ist: "Ich brauche früher Klarheit, als vielleicht Standard ist. Für mein Wohlbefinden."
 
-## Talking Stage und Ghosting — Wenn die Kommunikation einfach stoppt
+## Talking Stage und [Ghosting](/blog/ghosting-komplett-guide) — Wenn die Kommunikation einfach stoppt
 
 Ein besonders schmerzhaftes Ende der Talking Stage ist Ghosting — wenn die Person einfach aufhört, zu antworten. Keine Erklärung, keine Verabschiedung. Einfach Funkstille.
 
@@ -341,7 +341,7 @@ Das ist schwer. Aber das ist das Ziel.
 **Kann die Talking Stage ewig dauern?**
 Technisch ja. Praktisch? Nein. Emotionale Energie ist nicht unendlich. Nach drei bis vier Monaten sollte klar sein, wohin das geht. Wenn nicht, ist das ein Problem.
 
-**Was ist, wenn ich mich verliebt habe und die andere Person nicht?**
+**Was ist, wenn ich mich [verliebt](/blog/mann-verliebt-anzeichen-komplett) habe und die andere Person nicht?**
 Das ist hart. Das ist auch nicht deine Schuld. Manchmal hat man unterschiedliche Feelings. Das bedeutet nicht, dass du zu viel gegeben hast — es bedeutet, dass die andere Person dich nicht auf die gleiche Weise liebt. Das ist ein Grund zu gehen, nicht zu bleiben.
 
 **Ist es ok, während der Talking Stage mit anderen zu daten?**

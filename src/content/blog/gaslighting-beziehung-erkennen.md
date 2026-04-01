@@ -28,7 +28,7 @@ faq:
     answer: "Kontaktiere einen Therapeuten, der sich auf emotionale Manipulation spezialisiert hat, oder rufe eine Beratungshotline an. Auch Unterstützungsgruppen für Opfer von Gaslighting können unglaublich wertvoll sein."
 ---
 
-## Was ist Gaslighting überhaupt?
+## Was ist [Gaslighting](/blog/gaslighting-komplett-guide) überhaupt?
 
 Gaslighting ist eine Form der psychologischen Manipulation, die dazu führt, dass du anfängst, deine eigene Wahrnehmung in Frage zu stellen. Der Begriff stammt vom Film "Gaslight" von 1944, in dem ein Ehemann seiner Ehefrau systematisch einredet, dass sie verrückt wird. Der Name ist Programm: Der Manipulator dimmt das Gaslicht und behauptet dann, dass es sich nicht verändert hat – genau wie in der [beziehung](/blog/adhs-und-beziehung-komplett-guide/), wo deine Realität ständig in Frage gestellt wird.
 

@@ -173,7 +173,7 @@ Macht keine Entscheidung unter emotionalen Druck. Wenn der Ex sagt "Sag mir morg
 
 ### 2. Sprecht mit einem Therapeuten (einzeln)
 
-Ein Therapeut kann dir helfen, deine Gefühle von Sehnsucht und Nostalgie zu durchschauen. Bin ich verliebt in diese Person oder verliebt in die Idee dieser Person?
+Ein Therapeut kann dir helfen, deine Gefühle von Sehnsucht und Nostalgie zu durchschauen. Bin ich [verliebt](/blog/mann-verliebt-anzeichen-komplett) in diese Person oder verliebt in die Idee dieser Person?
 
 ### 3. Habt ein klares Gespräch
 

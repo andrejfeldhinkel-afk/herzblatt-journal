@@ -18,7 +18,7 @@ faq:
   - question: "Gibt es echte Fälle von Liebe auf den ersten Blick?"
     answer: "Es gibt Geschichten von Menschen, die sich sofort sicher waren, dass dieser Person wichtig ist. Aber meist bedeutete das 'Ich muss diese Person kennenlernen', nicht 'Ich bin in sie verliebt'. Die echte Liebe kam später, nach dem Kennenlernen."
 ---
-Hollywood hat uns belogen. In jedem Film gibt es diesen Moment: Die Augen treffen sich über eine belebte Straße. Die Welt verlangsamt sich. Musik spielt. Und BAM – sie sind unsterblich verliebt.
+Hollywood hat uns belogen. In jedem Film gibt es diesen Moment: Die Augen treffen sich über eine belebte Straße. Die Welt verlangsamt sich. Musik spielt. Und BAM – sie sind unsterblich [verliebt](/blog/mann-verliebt-anzeichen-komplett).
 
 Das ist eine schöne Fantasie. Aber ist es real?
 
@@ -104,7 +104,7 @@ Das ist weniger dramatisch. Aber es ist echter.
 Wenn jemand dir sagt, dass er dich nach einer Stunde liebt, könnte das ein Warnsignal sein:
 
 Weitere Informationen findest du bei Psychologie Heute: [Psychologie Heute](https://www.psychologie-heute.de/)
-- Love Bombing (eine manipulative Taktik)
+- [Love Bombing](/blog/love-bombing-erkennen-schuetzen) (eine manipulative Taktik)
 - Obsessive Tendenzen
 - Mangel an Urteilsvermögen
 - Unrealistische Erwartungen

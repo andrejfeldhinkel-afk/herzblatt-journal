@@ -24,7 +24,7 @@ Genau das ist Benching in der Dating-Welt.
 
 Benching bedeutet, dass jemand mit dir kommuniziert, gerade genug um deine Hoffnung zu halten, aber nicht wirklich mit dir daten möchte oder bereit für eine Beziehung ist. Der Bencher hält sich mehrere Optionen offen. Du bist eine davon. Und wenn die „erste Wahl" nicht funktioniert, bringt er dich ins Spiel.
 
-Das Grausame an Benching ist, dass es sich nicht wie Ghosting anfühlt. Ghosting wäre fast einfacher. Mit Ghosting wüsstest du, dass die Person nicht interessiert ist. Mit Benching bekommst du gerade genug Aufmerksamkeit, um zu glauben, dass etwas Echtes zwischen euch passiert.
+Das Grausame an Benching ist, dass es sich nicht wie [Ghosting](/blog/ghosting-komplett-guide) anfühlt. Ghosting wäre fast einfacher. Mit Ghosting wüsstest du, dass die Person nicht interessiert ist. Mit Benching bekommst du gerade genug Aufmerksamkeit, um zu glauben, dass etwas Echtes zwischen euch passiert.
 
 ## Die psychologischen Wurzeln von Benching
 

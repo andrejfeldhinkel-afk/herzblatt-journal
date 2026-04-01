@@ -117,7 +117,7 @@ Dein Partner, der normalerweise nicht so aufmerksam ist, bringt plötzlich Gesch
 
 Das kann echte Liebe sein – aber es kann auch „Schuldgefühle-Ausgleich" sein. Das Gehirn versucht, die Untreue durch Überaufmerksamkeit zu kompensieren.
 
-## Digitale Red Flags: Handy-Verhalten
+## Digitale [Red Flags](/blog/dating-red-flags-maenner-erkennen): Handy-Verhalten
 
 Das Handy ist der moderne Ort, wo Untreue stattfindet. Schauen wir auf die digitalen Zeichen.
 

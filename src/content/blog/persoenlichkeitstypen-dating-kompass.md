@@ -200,7 +200,7 @@ Das bedeutet: Oberflächliche Dating wird dich langweilen. Du brauchst Tiefe. Ei
 
 Das ist nützlich Information über dich selbst.
 
-### Weg 4: Nutze sie um Red Flags zu identifizieren
+### Weg 4: Nutze sie um [Red Flags](/blog/dating-red-flags-maenner-erkennen) zu identifizieren
 
 Ein gesunder ENFP und ein unhealthier INFP sind nicht das gleiche. Das Enneagramm hilft dir zu sehen: Dieser Typ 2, der immer anderen hilft und seine eigenen Grenzen aufgibt – das ist ein Red Flag.
 

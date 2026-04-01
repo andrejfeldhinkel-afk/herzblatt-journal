@@ -35,7 +35,7 @@ Herzblatt Journal richtet sich an dich, wenn du:
 - In einer Fernbeziehung steckst und Tipps brauchst, damit es funktioniert
 - In einer etablierten Beziehung bist und diese stärken möchtest
 - Fragen zur emotionalen Verfügbarkeit, zu Grenzensetzen oder zur Kommunikation hast
-- Schwierige Situationen wie Ghosting, Manipulation oder rote Flaggen durchschaut hast und dich fragst, wie es weitergeht
+- Schwierige Situationen wie [Ghosting](/blog/ghosting-komplett-guide), Manipulation oder rote Flaggen durchschaut hast und dich fragst, wie es weitergeht
 - Dich selbst besser verstehen möchtest und deinen persönlichen Weg zu erfüllten Beziehungen finden willst
 
 Egal, wo du gerade stehst – dieser Blog ist für dich. Wir schreiben ohne Vorurteile, offen und ehrlich.
@@ -72,7 +72,7 @@ Fernbeziehungen sind eine besondere Herausforderung. Wir geben dir konkrete Tipp
 
 ### Rote Flaggen und schwierige Situationen
 
-Dating hat auch seine dunklen Seiten. Gaslighting, Manipulation, Ghosting – wir helfen dir, diese Dinge zu erkennen und richtig mit ihnen umzugehen. Deine Sicherheit und dein Wohlbefinden sind uns wichtig.
+Dating hat auch seine dunklen Seiten. [Gaslighting](/blog/gaslighting-komplett-guide), Manipulation, Ghosting – wir helfen dir, diese Dinge zu erkennen und richtig mit ihnen umzugehen. Deine Sicherheit und dein Wohlbefinden sind uns wichtig.
 
 ### Persönliches Wachstum und Selbstliebe
 

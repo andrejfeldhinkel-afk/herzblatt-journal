@@ -51,7 +51,7 @@ Das ist eines der häufigsten Zeichen einer Beziehung mit einem Narzissten: Dies
 
 Du kennst wahrscheinlich das Klischee vom Narzissten: selbstverliebter Mann, der ständig Komplimente braucht, sich in jedem Spiegel betrachtet und immer im Rampenlicht stehen muss. Aber die Realität ist komplizierter. Und deshalb ist ein strukturierter Test hilfreicher als deine Intuition allein.
 
-Ein guter Test hat mehrere Vorteile. Erstens schafft er Struktur. Statt vage zu fühlen, dass etwas nicht stimmt, kannst du konkrete Verhaltensweisen überprüfen. Zweitens reduziert ein Test Selbsttäuschung. Wenn du verliebt bist oder lange mit jemandem zusammen, beschönigst du unbewusst sein Verhalten. Ein Test zwingt dich, ehrlich hinzuschauen. Drittens hilft er dir, zwischen "normalen" Persönlichkeitszügen und echtem pathologischem Narzissmus zu unterscheiden.
+Ein guter Test hat mehrere Vorteile. Erstens schafft er Struktur. Statt vage zu fühlen, dass etwas nicht stimmt, kannst du konkrete Verhaltensweisen überprüfen. Zweitens reduziert ein Test Selbsttäuschung. Wenn du [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist oder lange mit jemandem zusammen, beschönigst du unbewusst sein Verhalten. Ein Test zwingt dich, ehrlich hinzuschauen. Drittens hilft er dir, zwischen "normalen" Persönlichkeitszügen und echtem pathologischem Narzissmus zu unterscheiden.
 
 **Ein Test ist nicht diagnostisch.** Das ist wichtig. Ein Online-Test kann keine klinische Diagnose stellen. Das braucht einen Psychiater oder klinischen Psychologen. Aber ein guter Test kann dir Signale geben. Er kann dir helfen zu sehen, ob die Beziehung schädlich ist — unabhängig davon, ob dein Partner "offiziell" narzisstisch ist oder nicht.
 
@@ -172,7 +172,7 @@ Kontrolle ist ein Schlüsselmerkmal von Narzissmus. Das kann subtil sein: "Warum
 
 **Frage 12:** Verdreht dein Partner häufig die Wahrheit oder "erinnert" dich an Dinge, die du nicht gesagt oder getan hast?
 
-Das ist Gaslighting. Ein Narzisst manipuliert deine Wahrnehmung, bis du deinem eigenen Gedächtnis nicht mehr traust. Lese mehr über [Gaslighting in Beziehungen](/blog/gaslighting-beziehung-erkennen/).
+Das ist [Gaslighting](/blog/gaslighting-komplett-guide). Ein Narzisst manipuliert deine Wahrnehmung, bis du deinem eigenen Gedächtnis nicht mehr traust. Lese mehr über [Gaslighting in Beziehungen](/blog/gaslighting-beziehung-erkennen/).
 
 **Frage 13:** Musst du ständig erklären oder rechtfertigen, was du tust?
 

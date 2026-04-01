@@ -166,7 +166,7 @@ Grüne Flaggen: Ein Partner, der dich ermutigt, deine Freundschaften und Hobbys 
 
 Und seien Sie vorsichtig, besonders früh in neuen Beziehungen. Die Liebe-Bombardierung ist real. Manche Menschen werden dich mit Aufmerksamkeit überfluten, nur um später zu entziehn. Das schafft ein Whiplash, das emotionale Abhängigkeit anfeuert. Gehen Sie langsam. Beobachte, ob dieses Verhalten beständig ist.
 
-Eine einfache Regel: In der ersten Woche nicht verliebt fallen. Beobachte. Sehe, wie die Person dich über Zeit behandelt. Das ist der Test.
+Eine einfache Regel: In der ersten Woche nicht [verliebt](/blog/mann-verliebt-anzeichen-komplett) fallen. Beobachte. Sehe, wie die Person dich über Zeit behandelt. Das ist der Test.
 
 ## Die Wahrheit über dein Wert
 

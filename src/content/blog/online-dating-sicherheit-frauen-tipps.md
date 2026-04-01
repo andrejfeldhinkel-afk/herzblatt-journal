@@ -193,7 +193,7 @@ Punkt. Keine Erklärung. Keine Verhandlung.
 
 Hier ist das psychologische Stück: Loneliness ist ein Öl für Romance Scams.
 
-Wenn du lange allein warst, wenn du dich nach Verbindung sehnst, wenn du bereit bist, verliebt zu sein — du wirst veranschaulicht für einen Mann, der weiß, wie er diese Sehnsucht ausnutzt.
+Wenn du lange allein warst, wenn du dich nach Verbindung sehnst, wenn du bereit bist, [verliebt](/blog/mann-verliebt-anzeichen-komplett) zu sein — du wirst veranschaulicht für einen Mann, der weiß, wie er diese Sehnsucht ausnutzt.
 
 Ein Romance Scammer wird alles geben, das zu sagen, was du hören wollen. Er wird dich verstehen. Er wird dir zuhören. Er wird interessiert sein. Er wird sich Mühe geben.
 

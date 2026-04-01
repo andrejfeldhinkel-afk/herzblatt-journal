@@ -57,7 +57,7 @@ Wenn du versuchst, den Status eurer Verbindung zu klären, weicht der Bencher au
 
 ## Warum Benching so wehtut
 
-Benching ist psychologisch besonders schmerzhaft, weil es die Hoffnung am Leben hält. Beim Ghosting ist die Botschaft klar: Die Person ist weg. Das tut weh, aber du kannst abschließen. Beim Benching gibt es immer wieder kleine Signale, die suggerieren, dass noch etwas möglich ist. Dieser ständige Wechsel zwischen Hoffnung und Enttäuschung erzeugt einen emotionalen Stress, der vergleichbar ist mit chronischer Unsicherheit in anderen Lebensbereichen.
+Benching ist psychologisch besonders schmerzhaft, weil es die Hoffnung am Leben hält. Beim [Ghosting](/blog/ghosting-komplett-guide) ist die Botschaft klar: Die Person ist weg. Das tut weh, aber du kannst abschließen. Beim Benching gibt es immer wieder kleine Signale, die suggerieren, dass noch etwas möglich ist. Dieser ständige Wechsel zwischen Hoffnung und Enttäuschung erzeugt einen emotionalen Stress, der vergleichbar ist mit chronischer Unsicherheit in anderen Lebensbereichen.
 
 
 > **Lesetipp:** [Gaslighting in der Beziehung: So erkennst du es](/blog/gaslighting-beziehung-verstehen) | [Emotionaler Missbrauch in Beziehungen: Warnsignale erkennen und handeln](/blog/emotionaler-missbrauch-erkennen)

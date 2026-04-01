@@ -37,7 +37,7 @@ Es ist nicht schlecht, Raum zu brauchen. Aber wenn Du dich würdest nach wenigen
 
 **Du wiehertst dich vor Verbindlichkeit.**
 
-Dein Partner möchte zusammenziehen. Du machst Ausreden: „Noch nicht der richtige Zeitpunkt." „Ich bin nicht bereit." „Lass uns warten."
+Dein Partner möchte [zusammenziehen](/blog/zusammenziehen-checkliste). Du machst Ausreden: „Noch nicht der richtige Zeitpunkt." „Ich bin nicht bereit." „Lass uns warten."
 
 Oder Du wechselst zwischen Engagement und Rückzug. Manchmal sagst Du „Ich liebe Dich", manchmal scheinst Du völlig gelöst.
 

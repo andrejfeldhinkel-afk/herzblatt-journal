@@ -68,7 +68,7 @@ Mit 25 lässt du dich von jemandem manipulieren, weil du Angst hast, allein zu s
 
 Das ist nicht weniger Liebe. Das ist mehr Selbstliebe.
 
-**Du erkennst Red Flags schneller.**
+**Du erkennst [Red Flags](/blog/dating-red-flags-maenner-erkennen) schneller.**
 
 Der Typ, der "nur nicht viel redet" ist in deinen 20ern mysteriös. In deinen 30ern erkennst du, dass er emotional unververfügbar ist.
 
@@ -244,7 +244,7 @@ Ich weiß, dass das alles Theorie ist. Du brauchst zu sehen, dass es funktionier
 
 Ich habe drei Monate Online-Dating gemacht. Das war anstrengend. Dann habe ich einen Typen getroffen, der war auch Arzt. Nicht besonders charmant beim Daten, aber... wir konnten miteinander reden.
 
-Jetzt sind wir zusammen, wir sind verliebt, und wir planen, in zwei Jahren zu heiraten. Das Beste: Er versteht meine Karriere, weil er auch eine hat.
+Jetzt sind wir zusammen, wir sind [verliebt](/blog/mann-verliebt-anzeichen-komplett), und wir planen, in zwei Jahren zu heiraten. Das Beste: Er versteht meine Karriere, weil er auch eine hat.
 
 Mit 25 hätte ich einen Typ ohne Karriere gewählt, weil er charmanter war. Mit 32 wusste ich besser."
 

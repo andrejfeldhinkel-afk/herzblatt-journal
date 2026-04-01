@@ -44,7 +44,7 @@ Das Wort kommt vom Hans und Gretel – das Märchen, wo die Charaktere einen Pfa
 
 Breadcrumbing ist die Handlung zu gelegentlich, unreaktiven Kommunikation zu engagieren – genug, um die andere Person interessiert zu halten, aber nicht genug, um sich zu verpflichten.
 
-Es ist nicht Ghosting (völlig Kontakt stoppen). Es ist subtiler. Es ist "Ich werde dich in meinen Leben halten, aber nicht in eine Weise, die meine Zeit oder Energie verpflichtet."
+Es ist nicht [Ghosting](/blog/ghosting-komplett-guide) (völlig Kontakt stoppen). Es ist subtiler. Es ist "Ich werde dich in meinen Leben halten, aber nicht in eine Weise, die meine Zeit oder Energie verpflichtet."
 
 ## Warum Menschen Brotkrumen
 

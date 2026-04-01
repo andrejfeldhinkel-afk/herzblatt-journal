@@ -42,7 +42,7 @@ Narzissmus wird oft missverstanden. Es ist nicht nur Vanität oder Selbstliebe. 
 
 Narzissisten haben eine enormen Bedürfnis nach Bewunderung und Aufmerksamkeit. Sie erwarten, dass andere sie als außergewöhnlich behandeln, ohne dass sie etwas Außergewöhnliches tun müssen. Sie sind oft oberflächlich charmant und können sich sehr gut "verkaufen", aber ihre Charme ist ein Mittel zum Zweck, nicht echte Wärme.
 
-Ein Narzisst wird sich schnell verlieben - oder besser gesagt, er wird sich in die Idee von dir verlieben. Du wirst wunderbar behandelt, idealisiert und auf ein Podest gestellt. Das ist die sogenannte "Love Bombing" Phase. Aber dieser Zustand ist nicht nachhaltig, und sobald die Realität in schleicht, wirst du "deidealisiert". Du wirst plötzlich unzureichend oder mangelhaft.
+Ein Narzisst wird sich schnell verlieben - oder besser gesagt, er wird sich in die Idee von dir verlieben. Du wirst wunderbar behandelt, idealisiert und auf ein Podest gestellt. Das ist die sogenannte "[Love Bombing](/blog/love-bombing-erkennen-schuetzen)" Phase. Aber dieser Zustand ist nicht nachhaltig, und sobald die Realität in schleicht, wirst du "deidealisiert". Du wirst plötzlich unzureichend oder mangelhaft.
 
 ## Machiavellismus: Manipulation und Taktik
 
@@ -76,7 +76,7 @@ Das fühlt sich unglaublich sein. Nach Jahren des Dating-Unbehagens ist es köst
 
 Das Problem mit Liebe Bombing ist, dass es nicht nachhaltig ist. Sobald die "Idealisierungs" Phase vorbei ist (typischerweise nach einigen Monaten bis zu einem Jahr), wird die Behandlung sinken. Der Partner wird mehr Kritik geben, weniger Aufmerksamkeit zeigen und anfangen, deine Fehler hervorzuheben. Dies ist Part des manipulativen Prozesses, der dich emotional abhängig hält.
 
-## Red Flag #2: Gaslighting und Wirklichkeitsverdrehung
+## Red Flag #2: [Gaslighting](/blog/gaslighting-komplett-guide) und Wirklichkeitsverdrehung
 
 Gaslighting ist ein psychologischer Manipulationstaktik, bei der jemand dich dazu bringt, deine Wahrnehmung, dein Gedächtnis und dein Verständnis zu bezweifeln. Es ist benannt nach dem Film "Gaslight" aus dem Jahr 1944, in dem ein Mann sein Frau systematisch einredet, dass sie verrückt ist.
 
@@ -241,7 +241,7 @@ Die Heilung wird Zeit brauchen. Du wirst trauern. Du wirst Trauer um das Gute em
 
 Ein wichtiger Schutzfaktor gegen Dark Triad Manipulation ist Selbstbewusstsein. Wenn du deine eigenen Werte, Grenzen und nicht-verhandelbaren Dinge kennst, bist du weniger anfällig für Manipulation.
 
-Wenn du weißt, dass Ehrlichkeit für dich wichtig ist, wirst du eine Person mit konsistenten Lügen nicht tolerieren. Wenn du weißt, dass Unabhängigkeit wichtig für dich ist, wirst du jemanden nicht akzeptieren, der dich isolieren möchte. Je klarer du über deine Werte bist, desto leichter ist es, Red Flags zu erkennen.
+Wenn du weißt, dass Ehrlichkeit für dich wichtig ist, wirst du eine Person mit konsistenten Lügen nicht tolerieren. Wenn du weißt, dass Unabhängigkeit wichtig für dich ist, wirst du jemanden nicht akzeptieren, der dich isolieren möchte. Je klarer du über deine Werte bist, desto leichter ist es, [Red Flags](/blog/dating-red-flags-maenner-erkennen) zu erkennen.
 
 Regelmäßige Selbstreflektion hilft. Schreib auf, was du in einer Beziehung brauchst. Schreib auf, was du nicht tolerieren wirst. Schreib auf, wer du sein möchtest. Dies wird ein innerer Kompass, der dich schützt.
 

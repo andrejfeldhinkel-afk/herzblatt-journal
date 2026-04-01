@@ -123,7 +123,7 @@ Das ist radikal anders von deinem üblichen Skript. Und das ist genau der Punkt.
 
 ## Schritt 7: Trigger identifizieren und transformieren
 
-Jeder hat spezifische Trigger — Dinge, die Bindungsangst auslösen. Vielleicht ist es, wenn der Partner sagt "Lass uns zusammenziehen". Vielleicht ist es "Ich mische dich meinen Freunden vor". Vielleicht ist es einfach, wenn jemand dich unerwartet umarmt.
+Jeder hat spezifische Trigger — Dinge, die Bindungsangst auslösen. Vielleicht ist es, wenn der Partner sagt "Lass uns [zusammenziehen](/blog/zusammenziehen-checkliste)". Vielleicht ist es "Ich mische dich meinen Freunden vor". Vielleicht ist es einfach, wenn jemand dich unerwartet umarmt.
 
 Schreib deine Top-Trigger auf. Sei detailliert. Dann, für jeden Trigger, frag dich: Was genau triggert das? Was bedeutet das für mein Nervensystem?
 
@@ -305,7 +305,7 @@ Nicht alle Bindungsängstlichen verhalten sich gleich. Es gibt verschiedene "Typ
 
 **Der Klammernde**: Das ist jemand, der Nähe braucht, aber dabei auch panisch wird. Du willst die andere Person ständig und gleichzeitig hast du Angst, dass sie dich verlässt. Dein Verhalten kann über-pursuing sein. Du textest zu viel, du brauchst Versicherung, du liest zu viel in ihre Worte herein. Der Stress für deinen Partner ist echte.
 
-**Der Zyklische**: Das bin ich, der hot-and-cold spielen. Du bist super verliebt und dann plötzlich total distanziert. Dein Partner weiß nie, welche Version von dir er bekommt. Das erzeugt echte Unsicherheit bei ihm.
+**Der Zyklische**: Das bin ich, der hot-and-cold spielen. Du bist super [verliebt](/blog/mann-verliebt-anzeichen-komplett) und dann plötzlich total distanziert. Dein Partner weiß nie, welche Version von dir er bekommt. Das erzeugt echte Unsicherheit bei ihm.
 
 **Der Unbewusste**: Das ist jemand, der bindungsängstlich ist, aber das nicht erkennt. Er denkt, er hat einfach "Pech mit Beziehungen" oder "Menschen sind unmöglich". Er sieht nicht sein eigenes Muster. Das ist wahrscheinlich der schwierigste Typ, weil ohne Bewusstsein gibt es keine Veränderung.
 

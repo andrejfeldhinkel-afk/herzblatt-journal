@@ -90,7 +90,7 @@ Das ist klar, direkt und macht keine falschen Versprechungen. Es drückt aus, da
 Das ist weniger eine Aussage und mehr eine Einladung zum Dialog. Du gibst der anderen Person Raum, ihre Gedanken zu äußern, bevor du deine Karten auf den Tisch legst.
 
 **3. Die verknüpfte Variante:**
-"Weißt du, wenn ich mit dir zusammen bin, fühle ich mich anders als mit anderen Menschen. Ich glaube, ich bin verliebt. Und ich glaube, ich muss wissen, ob du das auch empfindest oder ob ich meine Erwartungen anpassen muss."
+"Weißt du, wenn ich mit dir zusammen bin, fühle ich mich anders als mit anderen Menschen. Ich glaube, ich bin [verliebt](/blog/mann-verliebt-anzeichen-komplett). Und ich glaube, ich muss wissen, ob du das auch empfindest oder ob ich meine Erwartungen anpassen muss."
 
 Das ist verletzlich und mutig. Es legt deine Gefühle offen. Das funktioniert gut, wenn du weißt, dass der andere Mensch Verletzlichkeit schätzt.
 

@@ -312,7 +312,7 @@ Wenn wir über KI im Dating sprechen, müssen wir auch die großen ethischen Fra
 
 Das erste ethische Problem ist das der Transparenz. Wenn jemand einen KI-generierten Avatar verwendet und du das nicht weißt, ist das Betrug. Punkt. Du verbringst Wochen damit, mit jemandem zu chatten, der vielleicht nicht mal existiert. Der Bot hat deine Nachrichten beantwortet. Der Algorithmus hat deine Fragen verstanden. Aber die echte Person? Vielleicht hat sie deine Nachricht nie gelesen.
 
-Es gibt bereits Geschichten von Menschen, die sich in KI-Chatbots verliebt haben, ohne zu wissen, dass sie mit einer KI sprachen. Ein Mann verbrachte Monate damit, mit "einer Frau" zu chatten, um dann zu entdecken, dass die ganze Konversation von einem Chatbot geführt wurde. Das emotionale Trauma, das darauf folgt, ist real.
+Es gibt bereits Geschichten von Menschen, die sich in KI-Chatbots [verliebt](/blog/mann-verliebt-anzeichen-komplett) haben, ohne zu wissen, dass sie mit einer KI sprachen. Ein Mann verbrachte Monate damit, mit "einer Frau" zu chatten, um dann zu entdecken, dass die ganze Konversation von einem Chatbot geführt wurde. Das emotionale Trauma, das darauf folgt, ist real.
 
 Das zweite Problem ist die Manipulation durch KI. Dating-Algorithmen können absichtlich designed werden, um dich süchtig zu machen. Sie zeigen dir den nächsten Match immer dann, wenn du kurz davor bist, die App zu verlassen. Sie schicken dir Benachrichtigungen, um dich zurück zu bringen. Das ist nicht versehentlich. Das ist psychologische Manipulation.
 

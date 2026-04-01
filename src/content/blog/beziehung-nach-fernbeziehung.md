@@ -26,7 +26,7 @@ faq:
 
 ## Die Honeymoon-Phase
 
-Wenn Sie sich zum ersten Mal nach einer Fernbeziehung zusammenziehen, werden Sie wahrscheinlich in der "Honeymoon-Phase" sein. Alles ist aufregend und fantastisch. Sie sind endlich zusammen!
+Wenn Sie sich zum ersten Mal nach einer Fernbeziehung [zusammenziehen](/blog/zusammenziehen-checkliste), werden Sie wahrscheinlich in der "Honeymoon-Phase" sein. Alles ist aufregend und fantastisch. Sie sind endlich zusammen!
 
 Diese Phase ist normalerweise die ersten 2-4 Wochen. Genießen Sie es. Aber auch wissen, dass es nicht für immer andauert. Die Realität wird einsetzen.
 

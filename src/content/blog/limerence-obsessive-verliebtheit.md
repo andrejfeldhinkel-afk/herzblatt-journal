@@ -290,7 +290,7 @@ Wenn du sowohl co-abhängig als auch limerent bist, ist die Heilung schwieriger.
 
 Das ist nicht echte Liebe. Das kann es werden, aber es ist nicht von Anfang an so.
 
-Echte Liebe entwickelt sich über Zeit, wenn du die Person immer besser kennenlernst und dich trotz ihrer Fehler in sie verliebt.
+Echte Liebe entwickelt sich über Zeit, wenn du die Person immer besser kennenlernst und dich trotz ihrer Fehler in sie [verliebt](/blog/mann-verliebt-anzeichen-komplett).
 
 ### Limerence vs. Obsessive Love Disorder
 

@@ -120,7 +120,7 @@ Dies ist dein Text-Fenster. Bei Tinder sind es etwa 500 Zeichen. Bei Bumble und 
 
 **NICHT: Deine gesamte Lebensgeschichte.** Menschen wollen dich kennenlernen, aber nicht alles auf einmal. Gib ihnen ein Teaser, nicht eine Biografie.
 
-**NICHT: Negativität.** "Ich bin hier, weil ich mit Tinder-Bots fertig bin" oder "Keine Dramen!" Das sind Red Flags. Menschen wollen positiver Energie, nicht Beschwerde.
+**NICHT: Negativität.** "Ich bin hier, weil ich mit Tinder-Bots fertig bin" oder "Keine Dramen!" Das sind [Red Flags](/blog/dating-red-flags-maenner-erkennen). Menschen wollen positiver Energie, nicht Beschwerde.
 
 **NICHT: Ödland-Standard-Zeug.** "Ich liebe zu reisen, Lachen, Zeit mit Freunden verbringen!" Das schreibt JEDE PERSON. Das macht dich nicht erinnerbar.
 

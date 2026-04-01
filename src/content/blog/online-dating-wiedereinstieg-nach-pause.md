@@ -326,7 +326,7 @@ Deine erste Woche ist Vorbereitung, nicht Aktion.
 
 ### Die roten Flaggen, die du jetzt erkennst
 
-Nach einer Pause und Heilung wirst du Red Flags bemerken, die du vorher vielleicht übersehen hast. Das ist gut. Das ist dein Wachstum.
+Nach einer Pause und Heilung wirst du [Red Flags](/blog/dating-red-flags-maenner-erkennen) bemerken, die du vorher vielleicht übersehen hast. Das ist gut. Das ist dein Wachstum.
 
 Manche Menschen haben gelernt, dass "du wirst nach jemandem gemocht" nicht gleichzeitig ist mit "diese Person ist guttartig für dich." Manche Rot Flags: Wenn jemand nicht von sich selbst spricht. Wenn jemand dich zu schnell zu viel Aufmerksamkeit gibt (Lovebombing). Wenn jemand deine Grenzen nicht respektiert, wenn du "Nein" sagst.
 

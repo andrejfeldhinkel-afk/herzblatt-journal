@@ -284,7 +284,7 @@ Eine der besten Wege, dein Fleabagging-Muster zu erkennen, ist durch Schreiben.
 
 Für jeden ernsthaften Partner oder langen Dating-Prozess, führ ein privates Tagebuch. Schreib auf:
 
-- Erste Impression (Was war sofort attraktiv? Gab es sofort Red Flags?)
+- Erste Impression (Was war sofort attraktiv? Gab es sofort [Red Flags](/blog/dating-red-flags-maenner-erkennen)?)
 - Wie die Beziehung entwickelt hat (Schnelle Intensität? Langsam aufgebaut?)
 - Red Flags du ignoriert hast (Liste sie auf—keine Urteile, nur Beobachtungen)
 - Wie die Beziehung endete (Wer hat gekündigt? War es unvermeidlich?)

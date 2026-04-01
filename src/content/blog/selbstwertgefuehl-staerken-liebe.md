@@ -418,7 +418,7 @@ Das ist warum Selbstwertgefühl so wichtig ist. Es ist nicht egoistisch. Es ist 
 
 **Das "Love-Bombing" Muster**
 
-Er ist in dir verliebt — übermäßig verliebt. Ständig Nachrichten. Ständig Aufmerksamkeit. Ständig große Gesten.
+Er ist in dir [verliebt](/blog/mann-verliebt-anzeichen-komplett) — übermäßig verliebt. Ständig Nachrichten. Ständig Aufmerksamkeit. Ständig große Gesten.
 
 Das fühlt sich großartig an. Aber es ist nicht Liebe. Es ist Love-Bombing. Es ist ein Manipulationsmuster.
 
@@ -484,7 +484,7 @@ Der Weg zu Selbstwertgefühl ist Ignorieren dieser Muster früh zu erkennen und 
 
 Es gibt bestimmte Partner oder Verhaltensmuster, die spezifisch dafür entworfen sind, dein Selbstwertgefühl zu zerstören.
 
-**Gaslighting:** Er sagt dir, dass deine Wahrnehmung falsch ist. "Das habe ich nie gesagt." "Du erinnert dich falsch."
+**[Gaslighting](/blog/gaslighting-komplett-guide):** Er sagt dir, dass deine Wahrnehmung falsch ist. "Das habe ich nie gesagt." "Du erinnert dich falsch."
 
 Nach einer Weile, du beginnst zu glauben, dass du verrückt bist. Das ist sehr destruktiv.
 
@@ -492,7 +492,7 @@ Nach einer Weile, du beginnst zu glauben, dass du verrückt bist. Das ist sehr d
 
 Das ist erosion.
 
-**Love Bombing gefolgt von Vernachlässigung:** Er ist verrückt nach dir im Anfang. Dann, plötzlich, zieht er sich zurück. Du fragst dich, was du falsch getan hast.
+**[Love Bombing](/blog/love-bombing-erkennen-schuetzen) gefolgt von Vernachlässigung:** Er ist verrückt nach dir im Anfang. Dann, plötzlich, zieht er sich zurück. Du fragst dich, was du falsch getan hast.
 
 Das ist ein Zyklus, um dich abhängig zu machen.
 

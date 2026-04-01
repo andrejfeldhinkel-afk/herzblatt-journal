@@ -236,7 +236,7 @@ Die beste Intimität entwickelt sich, wenn beide Partner sicher sind, sich kenne
 
 ## Red Flags beim Dating ab 50
 
-Nicht jeder, den du triffst, hat gute Absichten. Hier sind einige Red Flags, auf die du achten solltest:
+Nicht jeder, den du triffst, hat gute Absichten. Hier sind einige [Red Flags](/blog/dating-red-flags-maenner-erkennen), auf die du achten solltest:
 
 ### Der Mann, der dich kontrollieren möchte
 
@@ -417,7 +417,7 @@ Wenn eine Beziehung ernst wird, müssen finanzielle Gespräche stattfinden. Wie 
 
 Diese Gespräche sind nicht romantisch, aber sie sind wichtig und sie sind zeichen von erwachsenen Menschen, die sich respektieren.
 
-## Wie man mit Ghosting und anderen digitalen Albträumen umgeht
+## Wie man mit [Ghosting](/blog/ghosting-komplett-guide) und anderen digitalen Albträumen umgeht
 
 Dating ab 50 bedeutet auch, dass du die Welt des digitalen Datings betreten hast. Und diese Welt hat Regeln und Fallgruben, die du vielleicht nicht kennst.
 

@@ -152,7 +152,7 @@ Das ist eine Beziehung, auf die du dich freuen kannst. Das ist nicht ständig An
 
 ## Warum Ehrlichkeit langfristig gewinnt
 
-Wenn du nur über Spielchen jemanden interessierst, wird das nicht lange gut gehen. Irgendwann wirst du müde von den Spielchen. Du wirst vergessen, so zu tun, als würde es dir nicht viel bedeuten. Du wirst dich zeigen, wie du wirklich bist. Und dann wird der andere merken: Das ist nicht die Person, in die ich mich verliebt habe. Die Person, in die ich mich verliebt habe, war eine Performance.
+Wenn du nur über Spielchen jemanden interessierst, wird das nicht lange gut gehen. Irgendwann wirst du müde von den Spielchen. Du wirst vergessen, so zu tun, als würde es dir nicht viel bedeuten. Du wirst dich zeigen, wie du wirklich bist. Und dann wird der andere merken: Das ist nicht die Person, in die ich mich [verliebt](/blog/mann-verliebt-anzeichen-komplett) habe. Die Person, in die ich mich verliebt habe, war eine Performance.
 
 Wenn du ehrlich bist, wird es länger gut gehen. Vielleicht nicht immer – manchmal passt es einfach nicht. Aber wenn es passt, wird es echte Nähe sein, nicht eine Performance.
 

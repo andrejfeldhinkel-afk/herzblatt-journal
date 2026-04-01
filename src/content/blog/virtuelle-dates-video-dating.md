@@ -48,7 +48,7 @@ Sie können gesichtsausdrücke sehen, Tonfall hören, echte [Gespräche](/blog/k
 
 - Männer: Erhöhte Rate von Frauen, die sich Zeit nehmen, zuzuhören und zu kommunizieren.
 
-- Alle: Weniger Ghosting nach dem ersten Treffen (weil Sie bereits eine Grundlage gebaut haben).
+- Alle: Weniger [Ghosting](/blog/ghosting-komplett-guide) nach dem ersten Treffen (weil Sie bereits eine Grundlage gebaut haben).
 
 ## Der technische Setup: Details Wichtig
 

@@ -27,11 +27,11 @@ faq:
   - question: "Wie erholt man sich von Love Bombing?"
     answer: "Es ist wie ein emotionaler Entzug. Die Person war alles für dich, dann ist sie das nicht mehr. Das ist Trauer. Das braucht Zeit, Therapie, Unterstützung und die Realisation, dass die Liebe nicht echt war."
 ---
-## Was ist Love Bombing wirklich?
+## Was ist [Love Bombing](/blog/love-bombing-erkennen-schuetzen) wirklich?
 
 Du triffst jemanden. Das Gespräch ist magisch. Er/Sie ruft dich nach einer Stunde an und sagt „Ich konnte dich nicht aus meinen Gedanken loswerden." Am nächsten Tag: Eine Nachricht mit Gedicht. Am dritten Tag: Er/Sie plant bereits ein Wochenendtrip. Am vierten Tag: „Ich bin mir sicher, du bist die Person, mit der ich den Rest meines Lebens verbringen will."
 
-Das fühlt sich fantastisch an. Es ist das, wovon du träumst – jemand, der so sehr in dich verliebt ist, dass er es einfach nicht verbergen kann. Das ist nicht Liebe. Das ist Manipulation.
+Das fühlt sich fantastisch an. Es ist das, wovon du träumst – jemand, der so sehr in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett) ist, dass er es einfach nicht verbergen kann. Das ist nicht Liebe. Das ist Manipulation.
 
 Love Bombing ist, wenn jemand dich mit übertriebener Aufmerksamkeit, Besitzergreifung und intensiven Gefühlen überflutet – nicht weil er/sie dich liebt, sondern weil er/sie dich kontrollieren will. Das Ziel ist nicht dein Glück. Das Ziel ist deine Abhängigkeit. Das Ziel ist, dich so süchtig nach ihrer Aufmerksamkeit zu machen, dass du nicht gehen wirst, wenn die wahre Natur dieser Person herauskommt.
 
@@ -51,7 +51,7 @@ Ein weiterer Unterschied: Ein echter Liebender interessiert sich für deine Geda
 
 ## Die 12 klassischen Zeichen von Love Bombing
 
-**1. Extrem schnelle Progression.** Er/Sie möchte dich in den ersten Wochen treffen. Das ist nicht ungewöhnlich, aber kombiniert mit anderen Zeichen, ist es verdächtig. Innerhalb von zwei Wochen willst du zusammenziehen? Das ist Alarm.
+**1. Extrem schnelle Progression.** Er/Sie möchte dich in den ersten Wochen treffen. Das ist nicht ungewöhnlich, aber kombiniert mit anderen Zeichen, ist es verdächtig. Innerhalb von zwei Wochen willst du [zusammenziehen](/blog/zusammenziehen-checkliste)? Das ist Alarm.
 
 **2. Übertriebene Komplimente.** Es sind nicht normale Komplimente. Es sind idealisierende Aussagen. „Du bist das perfekteste Mensch, das ich je getroffen habe" beim dritten Date. Das ist nicht echt – das ist ein Image, das du hast, nicht du. Dein Partner sieht nicht dich. Er/Sie sieht eine Fantasie.
 

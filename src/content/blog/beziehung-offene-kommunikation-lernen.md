@@ -412,7 +412,7 @@ Es gibt Dinge die, einmal gesagt, nicht ungesagt werden können.
 "Ich bereue dich."
 "Ich wünsche ich hätte jemand anderen geheiratet."
 "Deine Familie ist furchtbar."
-"Ich bin mit jemand anderm verliebt."
+"Ich bin mit jemand anderm [verliebt](/blog/mann-verliebt-anzeichen-komplett)."
 
 Diese sind nicht kleine Dinge. Das sind Beziehungs-Enders.
 

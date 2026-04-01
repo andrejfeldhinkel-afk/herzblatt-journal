@@ -27,13 +27,13 @@ faq:
 
 ## Das Problem mit der Red-Flag-Fixation
 
-Wir sind obsessed mit Red Flags zu meiden. Aber hier ist die Realität:
+Wir sind obsessed mit [Red Flags](/blog/dating-red-flags-maenner-erkennen) zu meiden. Aber hier ist die Realität:
 
 > **Sich NICHT verletzen zu lassen ist nicht dasselbe wie eine gute Beziehung zu haben.**
 
 Es ist Zeit, dich auf die grünen Flaggen zu konzentrieren. Auf die Zeichen, dass diese Person ein großartiger Partner sein könnte.
 
-## Die 20 Green Flags im Detail
+## Die 20 [Green Flags](/blog/dating-green-flags-erkennen-guide) im Detail
 
 ### Green Flags zur emotionalen Verfügbarkeit
 

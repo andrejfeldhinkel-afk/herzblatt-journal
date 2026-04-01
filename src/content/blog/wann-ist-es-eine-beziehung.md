@@ -151,7 +151,7 @@ Okay, das ist lustig, aber es ist auch wahr. Kleine Gesten zeigen, dass die ande
 
 Bevor wir zum Gespräch übergehen, will ich erwähnen: "Beziehung" ist nicht die einzige Form von romantischer Connection, die sinnvoll ist.
 
-**Situationship:** Ihr seid exklusiv, verbringt viel Zeit miteinander, seid aber emotional nicht wirklich investiert. Es ist unklar, ob es eine Zukunft gibt. Diese Form kann funktionieren, wenn beide Menschen klar sind, dass das ist, was es ist - aber sie ist oft verwirrend und verletzlich.
+**[Situationship](/blog/situationship-erkennen-umgehen):** Ihr seid exklusiv, verbringt viel Zeit miteinander, seid aber emotional nicht wirklich investiert. Es ist unklar, ob es eine Zukunft gibt. Diese Form kann funktionieren, wenn beide Menschen klar sind, dass das ist, was es ist - aber sie ist oft verwirrend und verletzlich.
 
 **Label-freie Beziehung:** Ihr habt alle Merkmale einer Beziehung (Exklusivität, emotionale Nähe, Zukunftspläne), aber ihr nennt es nicht offiziell "Beziehung". Das ist weniger häufig, aber es funktioniert für manche Menschen.
 

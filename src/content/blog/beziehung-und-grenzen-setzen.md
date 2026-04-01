@@ -42,7 +42,7 @@ Sei konsequent. Die erste Übertretung deiner Grenze ist noch nicht das Problem.
 
 Das erste Mal: Ein ruhiges Gespräch. "Das verletzt meine Grenze, die ich mit dir besprochen habe. Ich brauche, dass du das respektierst." Manchmal ist das genug.
 
-Das zweite Mal: Das ist schon ernster. Dein Partner braucht zu verstehen, dass das Konsequenzen hat. Was sind diese Konsequenzen für dich? Mehr Raum, weniger Verfügbarkeit, vielleicht eine Beziehungspause?
+Das zweite Mal: Das ist schon ernster. Dein Partner braucht zu verstehen, dass das Konsequenzen hat. Was sind diese Konsequenzen für dich? Mehr Raum, weniger Verfügbarkeit, vielleicht eine [Beziehungspause](/blog/beziehung-pause-regeln)?
 
 Das dritte Mal: Hier musst du ehrlich mit dir selbst sein. Kannst du mit jemandem zusammen sein, der deine fundamentalen Grenzen nicht respektiert? Die Antwort ist wahrscheinlich Nein. Es ist Zeit, weiter zu gehen.
 

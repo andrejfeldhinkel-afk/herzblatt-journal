@@ -212,7 +212,7 @@ Ja! Das Altstadtfest (Mai), das Mosel Wein Festival (August), und regelmäßig P
 Mit etwa 100.000 Einwohnern und einer Universität (Universität Trier) hat Trier eine respektable Single-Community. Es ist klein genug zum persönlichen Kennenlernen (Anonymität ist nicht garantiert!), aber groß genug um verschiedene Menschen zu treffen. Schätzungsweise 5-10% der Bevölkerung sind aktive Online-Dater.
 
 **Welche Altersgruppe dominiert in Trier?**
-Viele Studierenden (18-28) durch die Universität und ihre Fakultäten. Aber auch viele Arbeitstätige (28-45), die die Stadt wegen ihrer Qualität, Geschichte und Lage an der Mosel gewählt haben. Singles jeden Alters sind vertreten. Überraschenderweise gibt es auch eine gute Gruppe von 45+ Singles, die sich in die Stadt verliebt haben.
+Viele Studierenden (18-28) durch die Universität und ihre Fakultäten. Aber auch viele Arbeitstätige (28-45), die die Stadt wegen ihrer Qualität, Geschichte und Lage an der Mosel gewählt haben. Singles jeden Alters sind vertreten. Überraschenderweise gibt es auch eine gute Gruppe von 45+ Singles, die sich in die Stadt [verliebt](/blog/mann-verliebt-anzeichen-komplett) haben.
 
 **Gibt es spezielle Single-Events oder Speed-Dating in Trier?**
 Regelmäßig! Das Altstadtfest (Mai), das Mosel Wein Festival (August), und verschiedene Partys in den Studentenbars. Es gibt auch Yoga-Kurse, Lauf-Clubs und Kultur-Veranstaltungen – großartig um Menschen mit gemeinsamen Interessen zu treffen. Vereinzelt gibt es auch Speed-Dating Events bei lokalen Event-Veranstaltern.

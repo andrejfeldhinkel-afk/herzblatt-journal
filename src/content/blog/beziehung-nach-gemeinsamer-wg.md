@@ -25,7 +25,7 @@ faq:
 
 Es fängt harmlos an. Abends in der Küche kochen, Serien zusammen schauen, über den Tag reden. Irgendwann merkst du, dass du dich auf diese Momente freust. Dass der Mitbewohner oder die Mitbewohnerin nicht nur jemand ist, der die Miete teilt – sondern jemand, den du wirklich gern um dich hast.
 
-Vielleicht bekommst du Schmetterlinge, wenn die Person in die Küche kommt. Vielleicht findest du dich plötzlich sauberer machend vor ihrem Heimkommen. Vielleicht lächelst du im Bett und fragst dich, ob du gerade verliebt wirst.
+Vielleicht bekommst du Schmetterlinge, wenn die Person in die Küche kommt. Vielleicht findest du dich plötzlich sauberer machend vor ihrem Heimkommen. Vielleicht lächelst du im Bett und fragst dich, ob du gerade [verliebt](/blog/mann-verliebt-anzeichen-komplett) wirst.
 
 WG-Romanzen passieren häufiger als man denkt. Und sie haben einen unschlagbaren Vorteil: Ihr kennt euch schon im Alltag. Keine Überraschungen nach dem Zusammenziehen. Keine versteckte Seite, die nach dem "Ich liebe dich" auftaucht. Ihr habt euch schon in euren Schlabberklamotten, mit Erkältung, mit schlechter Laune erlebt.
 

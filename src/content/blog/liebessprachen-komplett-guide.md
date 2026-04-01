@@ -219,7 +219,7 @@ Dies erfordert Bewusstsein, Kommunikation und Übung. Es kann sich am Anfang unn
 
 ## Der 5-Sprachen-Test: Wie du deinen Partner und dich selbst einordnest
 
-Es gibt verschiedene Tests und Quizzes online, die dir helfen können, deine Liebessprache zu identifizieren. Der am häufigsten verwendete ist der offizielle "The 5 Love Languages Quiz" von Dr. Gary Chapman. In diesem Test werden dir verschiedene Szenarien und Aussagen gegeben, und du wählst aus, welche am meisten zu dir resoniert.
+Es gibt verschiedene Tests und Quizzes online, die dir helfen können, deine Liebessprache zu identifizieren. Der am häufigsten verwendete ist der offizielle "The 5 [Love Languages](/blog/love-languages-komplett-guide) Quiz" von Dr. Gary Chapman. In diesem Test werden dir verschiedene Szenarien und Aussagen gegeben, und du wählst aus, welche am meisten zu dir resoniert.
 
 Der Test ist relativ kurz und kann online kostenlos gemacht werden. Er gibt dir dann einen Überblick über deine Top-Liebessprachen, normalerweise mit einer Reihe von Punkten für jede Sprache. Dies hilft dir zu sehen, ob du eine klare primäre Sprache hast oder mehrere etwa gleich starke Sprachen.
 

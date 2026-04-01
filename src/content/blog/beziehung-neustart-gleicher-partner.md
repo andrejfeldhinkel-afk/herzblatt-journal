@@ -241,7 +241,7 @@ Und geh weiter – nicht in Bitterkeit, sondern in Klarheit. Du weißt jetzt, da
 
 Ich habe viel über wann gesprochen, es zu versuchen. Aber lass mich auch klar sein, wann du es NICHT versuchen solltest:
 
-- Wenn einer der Partner noch nicht "über" die andere Person ist. Wenn du noch verliebt bist oder wenn sie noch verliebt ist, ist das nicht ein Fundament für einen rationalen Neustart.
+- Wenn einer der Partner noch nicht "über" die andere Person ist. Wenn du noch [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist oder wenn sie noch verliebt ist, ist das nicht ein Fundament für einen rationalen Neustart.
 - Wenn die Trennung wegen einer fundamentalen Wertsdifferenz war (einer möchte Kinder, der andere nicht; einer ist gläubig, der andere nicht; einer möchte einen traditionellen Lebensstil, der andere nicht). Diese Dinge ändern sich nicht.
 - Wenn es Untreue gab und das Vertrauen nicht wiederhergestellt werden kann. Vertrauen kann wiederhergestellt werden, aber nur wenn beide Partner bereit sind, diesen Weg zu gehen.
 - Wenn einer der Partner dich direkt oder indirekt sagte "Ich will diesen Neustart nicht, ich gehe weiter mit meinem Leben." Respektier das. Lass los.

@@ -27,7 +27,7 @@ author: "sarah-kellner"
 
 ## Ghosting: Warum Menschen einfach verschwinden
 
-Du hattest ein tolles Date, die Gespräche liefen gut, die Chemie stimmte, und plötzlich — Stille. Absolute, totale Stille. Keine Antwort auf deine Nachricht, keine Erklärung, keine Existenz mehr. Die Person ist buchstäblich aus deinem Leben verschwunden, als würde sie nicht existieren. Das ist Ghosting, und es ist eine der schmerzhaftesten Formen der Ablehnung.
+Du hattest ein tolles Date, die Gespräche liefen gut, die Chemie stimmte, und plötzlich — Stille. Absolute, totale Stille. Keine Antwort auf deine Nachricht, keine Erklärung, keine Existenz mehr. Die Person ist buchstäblich aus deinem Leben verschwunden, als würde sie nicht existieren. Das ist [Ghosting](/blog/ghosting-komplett-guide), und es ist eine der schmerzhaftesten Formen der Ablehnung.
 
 Ghosting ist brutal, weil es keine Abschluss gibt. Bei einem Korb sagt jemand: „Es passt nicht." Das tut weh, aber du hast eine Antwort. Du kannst verarbeiten und weitermachen. Beim Ghosting bleibst du hängen, fragst dich „Warum?", suchst nach Fehlern in deinen Nachrichten, überlegt, ob du etwas Falsches gesagt hast.
 

@@ -63,7 +63,7 @@ Eines der wertvollsten Dinge, die Therapie dir gibt, ist die Fähigkeit, red fla
 
 **Die "aber es liegt an dir"-Kommunikation.** Diese Person macht etwas, das dich verletzt. Als du es benennst, sagte er/sie: "Das ist deine Interpretation. Ich habe das nie gemeint." oder "Du bist zu sensibel."
 
-Das ist eine Gaslighting-Taktik. Früher hättest du dich selbst blamed. Jetzt erkennst du es: Das ist emotionale Kontrolle.
+Das ist eine [Gaslighting](/blog/gaslighting-komplett-guide)-Taktik. Früher hättest du dich selbst blamed. Jetzt erkennst du es: Das ist emotionale Kontrolle.
 
 **Die Charm-Bombardement-Phase.** Alles ist intensiv am Anfang. Zu intensiv. Diese Person ist verfügbar immer. Sie sagt "Ich liebe dich" nach zwei Wochen. Sie redet schon von Zukunft.
 

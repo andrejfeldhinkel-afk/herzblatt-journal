@@ -703,7 +703,7 @@ Das ist, was du verdienst.
 
 ## Das könnte dich auch interessieren
 
-- [Dating Red Flags: 40 Warnsignale die du nicht ignorieren darfst](/blog/dating-red-flags-komplett-guide/)
+- [Dating [Red Flags](/blog/dating-red-flags-maenner-erkennen): 40 Warnsignale die du nicht ignorieren darfst](/blog/dating-red-flags-komplett-guide/)
 - [Dating-Vorsätze für das neue Jahr: Deine Ziele setzen](/blog/dating-vorsaetze-neues-jahr/)
 - [Dating-Spielchen durchschauen: Warum Menschen spielen und wie du damit umgehst](/blog/dating-spielchen-durchschauen/)
 - [5 toxische Dating-Muster, die du sofort durchbrechen](/blog/toxische-dating-muster/)

@@ -172,7 +172,7 @@ Wenn du merkst, dass ihr nicht alleine voran kommt, zögere nicht, einen Fachman
 
 ## 25. Liebe als Wahl treffen, nicht Gefühl
 
-Abschließend, verstehe, dass Liebe nicht nur ein Gefühl ist – es ist eine Wahl. Es ist die Wahl, präsent zu sein. Es ist die Wahl, zu kommunizieren. Es ist die Wahl, dein Partner zu priorisieren. An manchen Tagen wirst du nicht "verliebt fühlen", aber wenn du die Liebe als Wahl triffst, wirst du die Liebe schaffen.
+Abschließend, verstehe, dass Liebe nicht nur ein Gefühl ist – es ist eine Wahl. Es ist die Wahl, präsent zu sein. Es ist die Wahl, zu kommunizieren. Es ist die Wahl, dein Partner zu priorisieren. An manchen Tagen wirst du nicht "[verliebt](/blog/mann-verliebt-anzeichen-komplett) fühlen", aber wenn du die Liebe als Wahl triffst, wirst du die Liebe schaffen.
 
 Dies ist vielleicht das mächtigste Verständnis, das du haben kannst. Mit dieser Mindset, werden alle anderen 24 Tipps leichter umzusetzen, weil du weißt, dass du das tust aus einer Entscheidung, nicht aus einem flüchtigen Gefühl.
 

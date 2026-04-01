@@ -601,7 +601,7 @@ Wenn DU bist der kontrollierte Partner, erkenne die Zeichen früh.
 
 - Kleine Fragen die wachsen zu großen Fragen
 - Langsame Isolation von Freunden
-- Gaslighting ("Das habe ich nie gesagt")
+- [Gaslighting](/blog/gaslighting-komplett-guide) ("Das habe ich nie gesagt")
 - Veränderung dein Selbstvertrauen
 - Du fragst Erlaubnis für einfache Sachen
 

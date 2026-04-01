@@ -130,7 +130,7 @@ Es gibt immer Unterstützung. Aber es gibt auch immer Verantwortung.
 
 ## Die erste Welle: Das Honeymoon-Phase (Woche 1-4)
 
-Das ist leicht. Alles fühlt sich neu an. Du bist verliebt. Sogar die Kompromisse fühlen sich gut an.
+Das ist leicht. Alles fühlt sich neu an. Du bist [verliebt](/blog/mann-verliebt-anzeichen-komplett). Sogar die Kompromisse fühlen sich gut an.
 
 Genieß das. Das ist nicht falsch, aber es ist nicht nachhaltig.
 
@@ -254,7 +254,7 @@ Beide sind Freiheit. Nur unterschiedlich.
 
 Manchmal ist es nicht „Ich muss mich anpassen." Es ist „Das is nicht das Richtige für mich."
 
-Red Flags:
+[Red Flags](/blog/dating-red-flags-maenner-erkennen):
 
 - Dein Partner erwartet, dass du dich komplett änderst
 - Du vermisst die Single-Phase ständig (nicht manchmal, ständig)

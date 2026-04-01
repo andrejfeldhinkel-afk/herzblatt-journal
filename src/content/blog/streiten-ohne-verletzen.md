@@ -129,7 +129,7 @@ Es gibt Dinge, die niemals okay sind in einem Streit:
 
 **Physikalische Aggression**: Hauen, werfen, zerbrechen Dinge. Das ist das Ende. Du brauchst Hilfe und Trennung.
 
-**Emotionaler Missbrauch**: Beleidigungen, Gaslighting ("Das ist nie passiert"), Stalking, Kontrolle. Das ist nicht Streit – das ist Missbrauch.
+**Emotionaler Missbrauch**: Beleidigungen, [Gaslighting](/blog/gaslighting-komplett-guide) ("Das ist nie passiert"), Stalking, Kontrolle. Das ist nicht Streit – das ist Missbrauch.
 
 **Sexuelle Manipulation**: "Wenn du mit mir schlafen würdest, wäre ich nicht so sauer." Das ist Erpressung.
 

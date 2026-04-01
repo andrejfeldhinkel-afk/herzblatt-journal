@@ -105,7 +105,7 @@ Das ist Wahnsinn. Aber dein Overthinking-Gehirn macht es. Und es verschwendet de
 
 **4. "Ich sagte einen Witz und er lachte nicht so laut wie normalerweise. Er verliert das Interesse."**
 
-Oder er war abgelenkt. Oder er hatte einen schlechten Tag. Aber nein, dein Gehirn hat ein Szenario gebaut, wo du langweilig wirst und er sich verliebt in jemand Anderen.
+Oder er war abgelenkt. Oder er hatte einen schlechten Tag. Aber nein, dein Gehirn hat ein Szenario gebaut, wo du langweilig wirst und er sich [verliebt](/blog/mann-verliebt-anzeichen-komplett) in jemand Anderen.
 
 **5. "Wir waren großartig, aber was wenn das nicht anhält? Was wenn er sich am Anfang verliebt und dann verlässt mich?"**
 

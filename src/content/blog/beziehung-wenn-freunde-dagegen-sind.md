@@ -168,7 +168,7 @@ Frag: „Was genau beunruhigt dich? Können du mir spezifische Beispiele geben?"
 
 Nicht emotional. Rational.
 
-Schreib die Bedenken auf. Sind das echte Red Flags? Oder sind das Geschmacksfragen?
+Schreib die Bedenken auf. Sind das echte [Red Flags](/blog/dating-red-flags-maenner-erkennen)? Oder sind das Geschmacksfragen?
 
 Ein echter Red Flag: „Ich habe gesehen, dass er dich angebrüllt hat."
 
@@ -268,7 +268,7 @@ Du brauchst Zeit mit Freunden alone. Ohne deinen Partner. Das ist wichtig für d
 
 ### Akzeptiere, dass nicht alle deine Freunde deinen Partner lieben müssen
 
-Das ist realistisch. Deine beste Freundin braucht nicht verliebt in deinen Partner sein. Sie braucht ihn nur zu respektieren.
+Das ist realistisch. Deine beste Freundin braucht nicht [verliebt](/blog/mann-verliebt-anzeichen-komplett) in deinen Partner sein. Sie braucht ihn nur zu respektieren.
 
 ## Die großartige Wahrheit: Gute Freunde sind dein Sicherheitsnetz
 

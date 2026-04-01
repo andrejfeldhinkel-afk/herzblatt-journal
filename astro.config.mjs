@@ -91,7 +91,7 @@ export default defineConfig({
     '/blog/dating-fatigue-ueberwinden': { status: 301, destination: '/blog/dating-nach-burnout' },
     '/blog/dating-fehler-maenner': { status: 301, destination: '/blog/dating-fehler-frauen' },
     '/blog/dating-fotografie-tipps': { status: 301, destination: '/blog/dating-profile-fotos-tipps' },
-    '/blog/dating-fruehwarnzeichen': { status: 301, destination: '/blog/red-flags-erkennen' },
+    '/blog/dating-fruehwarnzeichen': { status: 301, destination: '/blog/dating-red-flags-maenner-erkennen' },
     '/blog/dating-fuer-introvertierte': { status: 301, destination: '/blog/introvertiert-dating' },
     '/blog/dating-ghosting-recovery': { status: 301, destination: '/blog/ghosting-umgehen-tipps' },
     '/blog/dating-introvertierte': { status: 301, destination: '/blog/introvertiert-dating' },
@@ -107,7 +107,7 @@ export default defineConfig({
     '/blog/dating-nach-trennung-wann-bereit': { status: 301, destination: '/blog/dating-nach-trennung' },
     '/blog/dating-profil-optimierung': { status: 301, destination: '/blog/online-dating-profiltext' },
     '/blog/dating-profilfotos-fehler': { status: 301, destination: '/blog/dating-profile-fotos-tipps' },
-    '/blog/dating-red-flags-maenner': { status: 301, destination: '/blog/red-flags-erkennen' },
+    '/blog/dating-red-flags-maenner': { status: 301, destination: '/blog/dating-red-flags-maenner-erkennen' },
     '/blog/dating-second-date-plan': { status: 301, destination: '/blog/zweites-date-tipps' },
     // 404 Tag-Seiten -> Redirect zu Tag-Uebersicht
     '/blog/dating-texting-regeln': { status: 301, destination: '/blog/texting-regeln-dating' },
@@ -115,7 +115,7 @@ export default defineConfig({
     '/blog/dating-ueber-whatsapp': { status: 301, destination: '/blog/texting-regeln-dating' },
     '/blog/dating-unterschiedliche-bindungsstile': { status: 301, destination: '/blog/attachment-styles-guide' },
     '/blog/dating-vorbereitung-erste-treffen': { status: 301, destination: '/blog/erstes-date-tipps' },
-    '/blog/dating-warnsignale-checkliste': { status: 301, destination: '/blog/red-flags-erkennen' },
+    '/blog/dating-warnsignale-checkliste': { status: 301, destination: '/blog/dating-red-flags-maenner-erkennen' },
     '/blog/digitale-eifersucht': { status: 301, destination: '/blog/eifersucht-bekaempfen' },
     '/blog/eifersucht-beziehung-ueberwinden': { status: 301, destination: '/blog/eifersucht-bekaempfen' },
     '/blog/erste-nachricht-online-dating': { status: 301, destination: '/blog/erste-nachricht-dating-app' },
@@ -157,6 +157,11 @@ export default defineConfig({
     '/blog/toxische-dating-muster-durchbrechen': { status: 301, destination: '/blog/toxische-beziehung-erkennen' },
     '/blog/vertrauen-nach-betrug': { status: 301, destination: '/blog/vertrauen-aufbauen-beziehung' },
     '/blog/zweites-date-planen': { status: 301, destination: '/blog/zweites-date-tipps' },
+    // Keyword cannibalization fix (2026-04-01)
+    '/blog/freundschaftszone-entkommen': { status: 301, destination: '/blog/friendzone-entkommen-guide' },
+    '/blog/red-flags-erkennen': { status: 301, destination: '/blog/dating-red-flags-maenner-erkennen' },
+    '/blog/dating-red-flags-komplett-guide': { status: 301, destination: '/blog/dating-red-flags-maenner-erkennen' },
+    '/blog/dating-red-flags-erkennen-liste': { status: 301, destination: '/blog/dating-red-flags-maenner-erkennen' },
   },
   compressHTML: true,
   build: {

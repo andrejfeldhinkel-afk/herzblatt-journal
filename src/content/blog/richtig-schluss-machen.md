@@ -38,7 +38,7 @@ Wenn du über längere Zeit hinweg denkst: "Das funktioniert nicht mehr" oder "I
 
 ### Die Beziehung ist eher Gewohnheit als Liebe
 
-Es ist völlig normal, dass die intensive Phase einer Beziehung nachlässt. Doch zwischen "weniger verliebt sein" und "gar nicht mehr verliebt sein" liegt ein großer Unterschied. Wenn du dich hauptsächlich deshalb bei dieser Person aufhältst, weil es sich "komfortabel" anfühlt oder weil du Angst vor der Einsamkeit hast, ist das ein Zeichen dafür, dass die Beziehung seinen Sinn verloren hat.
+Es ist völlig normal, dass die intensive Phase einer Beziehung nachlässt. Doch zwischen "weniger [verliebt](/blog/mann-verliebt-anzeichen-komplett) sein" und "gar nicht mehr verliebt sein" liegt ein großer Unterschied. Wenn du dich hauptsächlich deshalb bei dieser Person aufhältst, weil es sich "komfortabel" anfühlt oder weil du Angst vor der Einsamkeit hast, ist das ein Zeichen dafür, dass die Beziehung seinen Sinn verloren hat.
 
 ### Ihr passt nicht mehr zusammen
 

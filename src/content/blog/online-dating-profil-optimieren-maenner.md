@@ -323,7 +323,7 @@ Wenn eine Frau dein Profil öffnet, sucht sie das:
 1. **Attraktion:** (zu 70% die Fotos) – „Finde ich ihn körperlich anziehend?"
 2. **Charakter:** (30% die Fotos, 70% die Bio) – „Ist er jemand, mit dem ich reden will?"
 3. **Intention:** „Passt das zusammen? Will er das Gleiche wie ich?"
-4. **Red Flags:** „Gibt es etwas, das mir sagt, dass dieser Kerl problematisch ist?"
+4. **[Red Flags](/blog/dating-red-flags-maenner-erkennen):** „Gibt es etwas, das mir sagt, dass dieser Kerl problematisch ist?"
 
 Wenn dein Profil alle vier erfüllt, bekommst du Matches.
 

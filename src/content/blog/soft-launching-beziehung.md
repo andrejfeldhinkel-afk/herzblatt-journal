@@ -25,7 +25,7 @@ Du kennst die Szene: Ein Promi postet ein Foto von hinten, auf dem man nur das O
 
 Das heißt Soft Launching. Und es ist die neue Art, eine Beziehung anzukündigen. Nicht knallhart. Sondern subtil, strategisch und absolut bewusst.
 
-Während Hard Launching immer noch existiert (ein direktes "Ich bin verliebt und hier ist mein Partner"), ist Soft Launching das neue Normale für eine bestimmte Art von Menschen geworden. Und das aus gutem Grund.
+Während Hard Launching immer noch existiert (ein direktes "Ich bin [verliebt](/blog/mann-verliebt-anzeichen-komplett) und hier ist mein Partner"), ist Soft Launching das neue Normale für eine bestimmte Art von Menschen geworden. Und das aus gutem Grund.
 
 Diese Anleitung erklärt dir, was Soft Launching wirklich ist, warum es funktioniert, und wie du es für deine eigene Beziehung nutzen kannst – oder ob du das überhaupt solltest.
 

@@ -61,7 +61,7 @@ Das sind Spielspiele. Und sie sind ausgebrannt.
 
 Du gehst auf einen Date und du bist nicht du. Du bist eine kuratierte Version von dir. Die lustige Verison. Die interessante Version. Nicht die normale, komplizierte, real Version.
 
-Und wenn der Mensch sich in diese falsche Version verliebt, dann was? Du kannst nicht forever diese Performance aufrechterhalten.
+Und wenn der Mensch sich in diese falsche Version [verliebt](/blog/mann-verliebt-anzeichen-komplett), dann was? Du kannst nicht forever diese Performance aufrechterhalten.
 
 **Problem 3: Der Druck**
 

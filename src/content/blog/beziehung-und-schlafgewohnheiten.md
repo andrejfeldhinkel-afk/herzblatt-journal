@@ -61,7 +61,7 @@ Eine Studie der University of Pittsburgh zeigte, dass 64% der erfolgreichen lang
 
 Und hier das Wichtigste: Getrennt schlafen heißt nicht, getrennt leben. Ihr könnt trotzdem zusammen einschlafen, kuscheln, den Abend im selben Bett verbringen und dann zum Schlafen in verschiedene Räume gehen. Das ist nicht romantisch weniger – das ist praktisch klüger.
 
-Du kuschelt mit deinem Partner, ihr küsst euch, ihr ladet euch gegenseitig emotional auf. Dann sprichst du: "Ich gehe jetzt ins andere Zimmer, weil ich dort besser schlafen kann." Und er oder sie versteht das und sagt: "Ok, bis morgen früh." Das ist nicht weniger verliebt – das ist mehr RESPEKT, und Respekt ist die Grundlage für Liebe.
+Du kuschelt mit deinem Partner, ihr küsst euch, ihr ladet euch gegenseitig emotional auf. Dann sprichst du: "Ich gehe jetzt ins andere Zimmer, weil ich dort besser schlafen kann." Und er oder sie versteht das und sagt: "Ok, bis morgen früh." Das ist nicht weniger [verliebt](/blog/mann-verliebt-anzeichen-komplett) – das ist mehr RESPEKT, und Respekt ist die Grundlage für Liebe.
 
 ## Das heikle Gespräch führen: Die richtige Kommunikation
 

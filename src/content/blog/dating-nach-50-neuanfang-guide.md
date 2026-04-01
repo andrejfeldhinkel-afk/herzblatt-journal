@@ -139,7 +139,7 @@ Mit deiner neuen Klarheit und deiner Lebenserfahrung bist du gut gerüstet, um p
 
 **Er ist nicht ehrlich**: Widersprechende Geschichten, versteckt sein Profil auf anderen Apps. Das ist ein klares Zeichen für mangelnde Integrität.
 
-**Er verschiebt emotionale Grenzen**: Er wird schnell zu intensiv, sagt "ich liebe dich" nach zwei Wochen, will schnell zusammenziehen. Das ist liebombing. Es fühlt sich wunderbar an, aber es ist manipulativ.
+**Er verschiebt emotionale Grenzen**: Er wird schnell zu intensiv, sagt "ich liebe dich" nach zwei Wochen, will schnell [zusammenziehen](/blog/zusammenziehen-checkliste). Das ist liebombing. Es fühlt sich wunderbar an, aber es ist manipulativ.
 
 **Er respektiert deine Grenzen nicht**: Du sagst, dass du langsamer vorgehen möchtest, und er sagt, dass du übertreibst. Das ist jetzt schon disrespekt. Es wird nicht besser.
 
@@ -182,7 +182,7 @@ Nach einem guten ersten Date stellst du dir bereits vor, wie eure gemeinsame Zuk
 "Na ja, er ist nicht perfekt, aber mach ich mich verrückt, wenn ich alleine bleibe?" Ja, absolut. Eine mittelmäßige Beziehung ist schlimmer als Solo-Zeit. Halte an deinen Grenzen fest.
 
 **Fehler 3: Deine Freunde und Familie ignorieren**
-Wenn mehrere Menschen dir sagen, dass dein Date-Partner komisch wirkt, höre hin. Du siehst vielleicht nicht, was alle anderen sehen — weil du verliebt sein möchtest.
+Wenn mehrere Menschen dir sagen, dass dein Date-Partner komisch wirkt, höre hin. Du siehst vielleicht nicht, was alle anderen sehen — weil du [verliebt](/blog/mann-verliebt-anzeichen-komplett) sein möchtest.
 
 **Fehler 4: Dich "anpassen" um zu gefallen**
 Du magst klassische Musik, er mag Metal, also startest du Playlisten von Metal? Nein. Bleib authentisch. Die richtige Person liebt dich für das, was du bist.

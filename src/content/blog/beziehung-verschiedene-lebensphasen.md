@@ -42,7 +42,7 @@ Psychologisch, haben dich vielleicht noch nicht "erwachsene" Verantwortung. Du s
 
 Die Lernkurve ist steil. Du lernst zum ersten Mal, wie man einen anderen Menschen priorisiert. Wie man Konflikte handhabt, wenn du nicht wirklich mit jemandem gelebt hast. Wie man Sex und Liebe vereinbart. Wie man Treue bedeutet, wenn die Versuchung präsent ist.
 
-Die düstere Seite dieser Phase ist, dass Junge Menschen oft lieber schnell zusammenziehen oder heiraten, wenn die Hormonkochemie intensiv ist. Manchmal sind dies the beste Entscheidungen. Manchmal realisierst du zwei Jahre später: Wir hatten keine Basis außer Leidenschaft, und die Leidenschaft wird nicht für immer last.
+Die düstere Seite dieser Phase ist, dass Junge Menschen oft lieber schnell [zusammenziehen](/blog/zusammenziehen-checkliste) oder heiraten, wenn die Hormonkochemie intensiv ist. Manchmal sind dies the beste Entscheidungen. Manchmal realisierst du zwei Jahre später: Wir hatten keine Basis außer Leidenschaft, und die Leidenschaft wird nicht für immer last.
 
 Eine wichtige Lektion aus dieser Phase: Es ist in Ordnung, wenn Lieben nicht für immer sind. Nicht jede Person ist für dein gesamtes Leben bestimmt. Einige Menschen sind für diese unglaubliche, intensiv Kapitel bestimmt – und dann ist die Kapitel vorbei.
 

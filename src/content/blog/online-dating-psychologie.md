@@ -168,7 +168,7 @@ Sichere Menschen fühlen sich in Beziehungen wohl. Sie mögen es, die Nähe zu t
 
 Vermeidende Menschen mögen Unabhängigkeit mehr als Nähe. Sie haben oft Angst vor Verletzlichkeit. Sie swipen mehr, sind weniger engagiert.
 
-Ängstliche Menschen brauchen viel Sicherung und Nähe. Sie neigen dazu, zu viel zu wischen und in die Hoffnung verliebt zu werden, bevor sie den Menschen kennen.
+Ängstliche Menschen brauchen viel Sicherung und Nähe. Sie neigen dazu, zu viel zu wischen und in die Hoffnung [verliebt](/blog/mann-verliebt-anzeichen-komplett) zu werden, bevor sie den Menschen kennen.
 
 ### Wie Bindungsstil Online-Dating-Verhalten formt
 
@@ -210,7 +210,7 @@ Das ist einer der Gründe, warum Menschen in Chats mit Menschen hängen bleiben,
 
 ## Die Psychologie des Ghostings: Warum Menschen verschwinden
 
-Ghosting — das abrupte, ohne Erklärung Beenden einer Beziehung — ist eine psychologisch interessante Verhaltensweise. Es ist nicht böse. Es ist vermeidlich.
+[Ghosting](/blog/ghosting-komplett-guide) — das abrupte, ohne Erklärung Beenden einer Beziehung — ist eine psychologisch interessante Verhaltensweise. Es ist nicht böse. Es ist vermeidlich.
 
 Der Psychologe Leon Festinger beschrieb kognitive Dissonanz: Der Unbehagen, das du fühlst, wenn dein Handeln und deine Werte nicht zusammenpassen. Wenn du jemandem wehtuest, der dir mag, entsteht kognitive Dissonanz.
 

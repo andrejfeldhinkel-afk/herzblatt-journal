@@ -311,7 +311,7 @@ Ein guter Partner wird das verstehen und bereit sein. Er wird nicht nur dich lie
 
 Toxische Beziehungen sind besonders schädlich für Alleinerziehende und ihre Kinder. Dein Kind wird sehen, wie du in einer ungesunden Beziehung behandelt wirst, und könnte normale dysfunktionale Beziehungen als normal ansehen. Das ist etwas, das du um jeden Preis vermeiden möchtest.
 
-Toxische Warnsignale sind: Kontrolle über deine Bewegungen oder Freundschaften, Gaslighting, emotionale oder körperliche Missbrauch, Vernachlässigung deiner Bedürfnisse, ständige Kritik, oder finanzielle Kontrolle. Wenn dein Partner nur eines dieser Dinge tut, ist es Zeit, zu gehen.
+Toxische Warnsignale sind: Kontrolle über deine Bewegungen oder Freundschaften, [Gaslighting](/blog/gaslighting-komplett-guide), emotionale oder körperliche Missbrauch, Vernachlässigung deiner Bedürfnisse, ständige Kritik, oder finanzielle Kontrolle. Wenn dein Partner nur eines dieser Dinge tut, ist es Zeit, zu gehen.
 
 Es ist auch wichtig zu verstehen, dass Toxizität nicht immer offensichtlich ist. Manche Menschen sind subtil manipulativ. Sie sind nett in der Öffentlichkeit, aber kontrollierend zu Hause. Sie sind liebevoll, aber nur wenn du tust, was sie wollen. Das zu erkennen ist wichtig für deine Sicherheit und die deines Kindes.
 

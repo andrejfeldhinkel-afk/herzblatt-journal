@@ -172,7 +172,7 @@ Frage dich:
 - **Wenn das Schlimmste wahr wäre – würde die Welt untergehen?** Nein. Es würde weh tun. Ich würde trauern. Ich würde mich Fragen stellen. Aber ich würde überleben. Ich bin stärker als diese Angst.
 - **Was würde ich einem Freund sagen?** Wenn dein Freund dir das Szenario erzählte, würdest du sagen: „Er lächelt einer Kollegin? Das ist normal. Das bedeutet nicht, dass er sie mag."
 
-Umstrukturierter Gedanke: „Er lächelt. Das bedeutet nicht automatisch, dass er sich unsterblich verliebt hat. Menschen lächeln oft, wenn sie höflich sind. Und selbst wenn er sie attraktiv finden würde – Menschen finden andere Menschen attraktiv und verlieben sich trotzdem nicht in sie. Das passiert dauernd. Und auch wenn die Anziehung wäre – das würde nicht unbedingt bedeuten, dass er mich nicht liebt oder betrügt."
+Umstrukturierter Gedanke: „Er lächelt. Das bedeutet nicht automatisch, dass er sich unsterblich [verliebt](/blog/mann-verliebt-anzeichen-komplett) hat. Menschen lächeln oft, wenn sie höflich sind. Und selbst wenn er sie attraktiv finden würde – Menschen finden andere Menschen attraktiv und verlieben sich trotzdem nicht in sie. Das passiert dauernd. Und auch wenn die Anziehung wäre – das würde nicht unbedingt bedeuten, dass er mich nicht liebt oder betrügt."
 
 Diese Umstrukturierung klingt einfach, ist aber kraftvoll. Sie brauchst Übung. Beginne mit den harmlosen Gedanken und steigere dich zu den schlimmeren.
 

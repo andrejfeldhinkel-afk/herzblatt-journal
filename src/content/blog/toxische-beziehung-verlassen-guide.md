@@ -39,7 +39,7 @@ Die klassischen Zeichen einer toxischen Beziehung sind vielfältig. Dein Partner
 
 Ein besonders verräterisches Zeichen ist die Isolation. Toxische Partner wollen dich von deinen Freunden und deiner Familie fernhalten. Sie machen subtile Kommentare über deine besten Freunde oder finden plötzlich Gründe, warum du nicht zu Familientreffen gehen solltest. Du findest dich zunehmend allein wieder, abhängig von deinem Partner für emotionale Unterstützung und soziale Kontakte. Das ist ein klassisches Muster von Missbrauch.
 
-Gaslighting ist ein weiteres kritisches Warnsignal. Das ist die Taktik, bei der dein Partner deine Wahrnehmung der Realität in Frage stellt. Du sagst: "Das hast du gestern gesagt." Er antwortet: "Das habe ich nie gesagt. Du vergisst immer alles." Oder: "Du bist einfach zu emotional und dramatisch." Über Zeit hinweg zweifelt du an deinem eigenen Gedächtnis und Urteilsvermögen. Das ist psychologisch extrem schädlich.
+[Gaslighting](/blog/gaslighting-komplett-guide) ist ein weiteres kritisches Warnsignal. Das ist die Taktik, bei der dein Partner deine Wahrnehmung der Realität in Frage stellt. Du sagst: "Das hast du gestern gesagt." Er antwortet: "Das habe ich nie gesagt. Du vergisst immer alles." Oder: "Du bist einfach zu emotional und dramatisch." Über Zeit hinweg zweifelt du an deinem eigenen Gedächtnis und Urteilsvermögen. Das ist psychologisch extrem schädlich.
 
 ## Warum es so schwer ist, eine toxische Beziehung zu verlassen
 

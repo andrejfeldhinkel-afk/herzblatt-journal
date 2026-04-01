@@ -70,7 +70,7 @@ Das ist adaptiv gewesen. Das hat dir möglicherweise geholfen, die letzte Bezieh
 
 Das Problem: Mit Hypervigilanz erkennst du überall Gefahren. Ein Mann, der spät antwortet, wird ein Warnsignal. Ein Mann, der dich fragt, wohin du gehst, wird ein Kontrolling-Signal. Ein Mann, der manchmal Stille genießt, wird ein emotionales Abriegelung-Signal.
 
-Das ist nicht alles schlecht. Manche dieser Signale sind echte Red Flags. Das Problem ist: Du kannst nicht unterscheiden zwischen echten Red Flags und deiner Hypervigilanz.
+Das ist nicht alles schlecht. Manche dieser Signale sind echte [Red Flags](/blog/dating-red-flags-maenner-erkennen). Das Problem ist: Du kannst nicht unterscheiden zwischen echten Red Flags und deiner Hypervigilanz.
 
 **Wie du die Unterscheidung machst:**
 
@@ -683,7 +683,7 @@ Dein Examen war koercitiv-kontrollierend. Das ist ein Muster von Verhalten, das 
 - Soziale Isolation
 - Konstante Kritik
 - Threat oder körperliche Gewalt
-- Gaslighting (deine Realität bestreiten)
+- [Gaslighting](/blog/gaslighting-komplett-guide) (deine Realität bestreiten)
 - Ständige Überwachung
 
 Das ist kein "schlechte Beziehung." Das ist Missbrauch-Muster.

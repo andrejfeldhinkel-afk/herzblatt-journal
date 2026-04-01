@@ -270,7 +270,7 @@ Das Dating über 50 ist einfacher, wenn beide Menschen finanziell transparent si
 
 Beim Dating ab 50 könnte es verlockend sein, schnell zusammenzuziehen. Vielleicht bist du einsam und möchtest Zeit mit jemandem verbringen, oder vielleicht macht es finanziell Sinn. Aber es ist wichtig, langsam zu gehen.
 
-Gib euch Zeit, euch wirklich kennenzulernen, bevor ihr zusammenziehen. Mindestens ein Jahr ist ein guter Anhaltspunkt. Auf diese Weise wirst du sehen, wie die Person mit schwierigen Zeiten umgeht, wie sie Konflikte löst, und ob sie wirklich zu dir passt.
+Gib euch Zeit, euch wirklich kennenzulernen, bevor ihr [zusammenziehen](/blog/zusammenziehen-checkliste). Mindestens ein Jahr ist ein guter Anhaltspunkt. Auf diese Weise wirst du sehen, wie die Person mit schwierigen Zeiten umgeht, wie sie Konflikte löst, und ob sie wirklich zu dir passt.
 
 Das Dating über 50 bedeutet nicht, dass du es eilig haben musst. Nimm dir die Zeit, die du brauchst.
 
@@ -318,7 +318,7 @@ Manchmal wartet man darauf, dass die richtige Person zu dir kommt. Beim Dating a
 
 Das Dating über 50 funktioniert besser, wenn du aktiv daran arbeitest, dein Liebesleben zu schaffen.
 
-## 35. Lerne, die Warnsignale von Red Flags besser zu sehen
+## 35. Lerne, die Warnsignale von [Red Flags](/blog/dating-red-flags-maenner-erkennen) besser zu sehen
 
 Mit Erfahrung kommst du besser darin, Warnsignale zu erkennen. Ein Partner, der dich kontrolliert, dich kritisiert ständig, oder der nicht respektiert deine Grenzen – diese Zeichen sollten ernst genommen werden.
 
@@ -394,7 +394,7 @@ Das Dating über 50 wird einfacher, wenn du deiner inneren Weisheit vertraust.
 
 ## 47. Verstehe, dass Liebe zeitlos ist
 
-Eine letzte, wichtige Botschaft: Liebe ist zeitlos. Du bist nicht zu alt, um verliebt zu werden. Du bist nicht zu alt, um eine neue Beziehung zu starten. Du bist nicht zu alt für Leidenschaft, Abenteuer und tiefe Verbindung.
+Eine letzte, wichtige Botschaft: Liebe ist zeitlos. Du bist nicht zu alt, um [verliebt](/blog/mann-verliebt-anzeichen-komplett) zu werden. Du bist nicht zu alt, um eine neue Beziehung zu starten. Du bist nicht zu alt für Leidenschaft, Abenteuer und tiefe Verbindung.
 
 Das Dating über 50 wird zu einer der schönsten Zeiten deines Lebens, wenn du es zulässt.
 

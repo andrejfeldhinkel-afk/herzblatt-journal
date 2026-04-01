@@ -35,7 +35,7 @@ Das ist die Tragödie von Liebessprachen-Mismatch.
 
 ## Die 5 Liebessprachen: Ein tieferer Überblick
 
-Gary Chapman popularisierte die Idee von "Love Languages" oder "Liebessprachen" — die fundamentalen Wege, in denen Menschen Liebe ausdrücken und lernen, Liebe zu fühlen.
+Gary Chapman popularisierte die Idee von "[Love Languages](/blog/love-languages-komplett-guide)" oder "Liebessprachen" — die fundamentalen Wege, in denen Menschen Liebe ausdrücken und lernen, Liebe zu fühlen.
 
 Die meisten Menschen denken, dass Liebe universell ist. Dass wenn man jemanden liebt, zeigt man das auf eine bestimmte Weise, und die andere Person versteht das automatisch.
 

@@ -237,5 +237,5 @@ Das ist wenn es funktioniert.
 
 **Weitere Artikel zum Thema:**
 - [Dating mit sozialer Angst: Strategien die wirklich funktionieren](/blog/dating-mit-social-anxiety-guide)
-- [Limerence vs. echte Liebe: Warum du nicht verliebt bist sondern besessen](/blog/limerence-vs-liebe-unterschied-guide)
+- [Limerence vs. echte Liebe: Warum du nicht [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist sondern besessen](/blog/limerence-vs-liebe-unterschied-guide)
 - [Ghosting verarbeiten und wieder vertrauen lernen](/blog/beziehung-nach-ghosting-verarbeiten-guide)

@@ -39,7 +39,7 @@ Eine aromantische Person könnte durchaus sexuelle Anziehung verspüren, aber ke
 
 Dies ist wichtig zu verstehen. Ein aromantischer Asexueller verspürt weder romantische noch sexuelle Anziehung. Aber ein aromantischer Person könnte durchaus sexuelle Anziehung verspüren und eine sexuelle Beziehung wünschen – nur nicht das romantische "Drumherum".
 
-Ähnlich könnte eine Person sexuelle und romantische Anziehung trennen – sie könnte romantisch verliebt sein in eine Person, mit der sie nie Sex haben würde.
+Ähnlich könnte eine Person sexuelle und romantische Anziehung trennen – sie könnte romantisch [verliebt](/blog/mann-verliebt-anzeichen-komplett) sein in eine Person, mit der sie nie Sex haben würde.
 
 ## Leben als aromantische Person in einer romantischen Welt
 

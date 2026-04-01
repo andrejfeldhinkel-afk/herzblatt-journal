@@ -24,7 +24,7 @@ faq:
     answer: "Das hängt davon ab, wie lange ihr zusammen wart und wie emotional du investiert warst. Kurz-term Ghosting (nach ein paar Dates): ein paar Wochen. Lang-term Ghosting (Monate zusammen): Monate bis Jahre."
 ---
 
-## Das Schweigen, das tausend Worte spricht: Ghosting verstehen und heilen
+## Das Schweigen, das tausend Worte spricht: [Ghosting](/blog/ghosting-komplett-guide) verstehen und heilen
 
 Du stehst an der Bushaltestelle und dein Handy vibriert. Eine Nachricht. Dein Herz macht einen Satz. Es ist von ihm. "Hey, wie geht's dir?" Ihr habt wunderbare zwei Monate zusammen. Alles fühlt sich großartig an.
 
@@ -176,7 +176,7 @@ Glaube das oder nicht, aber du bist glücklicher ohne ihn, als du mit ihm gewese
 
 Das Wichtigste ist, nicht die Person mit dem Schmerz gleichzustellen. Der Schmerz war real. Aber der Mann – der war eine Illusion.
 
-Du warst in verliebt mit der Version von ihm, die du dachtest, dass er war. Du warst verliebt mit der Zukunft, die du imaginiert hattest. Du warst verliebt in deine Hoffnungen.
+Du warst in [verliebt](/blog/mann-verliebt-anzeichen-komplett) mit der Version von ihm, die du dachtest, dass er war. Du warst verliebt mit der Zukunft, die du imaginiert hattest. Du warst verliebt in deine Hoffnungen.
 
 Aber der echte Mann – der zeigte dir die Wahrheit durch sein Schweigen. Er war nicht würdig.
 

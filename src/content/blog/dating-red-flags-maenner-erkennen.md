@@ -33,7 +33,7 @@ Du ignorierst es, weil:
 - Du möchtest nicht gehässig sein
 - Du möchtest nicht zu vorsichtig sein
 - Du möchtest geben Chancen geben
-- Du bist verliebt in das Potenzial
+- Du bist [verliebt](/blog/mann-verliebt-anzeichen-komplett) in das Potenzial
 
 Das ist ein Fehler.
 

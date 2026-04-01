@@ -39,7 +39,7 @@ Die Prinzipien sind einfach:
 
 Die letzten Jahre waren von App-Dating, Speed-Dating und schneller Eskalation geprägt. Viele Menschen sind ausgebrannt.
 
-Dating Fatigue, Swipe Fatigue, Beziehungs-Müdigkeit – das alles ist real. Menschen werden müde von der Illusion unendlicher Optionen, müde von oberflächlichem Matching, müde von schnellen Ghosting-Zyklen.
+Dating Fatigue, Swipe Fatigue, Beziehungs-Müdigkeit – das alles ist real. Menschen werden müde von der Illusion unendlicher Optionen, müde von oberflächlichem Matching, müde von schnellen [Ghosting](/blog/ghosting-komplett-guide)-Zyklen.
 
 Slow Dating ist eine bewusste Ablehnung dessen. Es sagt: "Ich werde weniger daten, aber besser."
 

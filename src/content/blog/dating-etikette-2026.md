@@ -58,7 +58,7 @@ Wenn dein Date ständig auf dem Handy ist? Das ist ein großes rotes Flag. Entwe
 
 ## Ghosting vs. ehrliche Ablehnung
 
-Vielleicht die wichtigste Regel des modernen Dating: **Ghosting ist unhöflich.**
+Vielleicht die wichtigste Regel des modernen Dating: **[Ghosting](/blog/ghosting-komplett-guide) ist unhöflich.**
 
 **Ghosting** ist, wenn jemand einfach verschwindet, ohne zu antworten oder zu erklären, warum. Es ist verletzend, verwirrend und reif für Ausreißer.
 

@@ -39,7 +39,7 @@ Das Problem ist, dass viele dieser Dinge auf der oberflächlichen Ebene normal a
 
 Die erste Phase einer Beziehung mit einem Narzissten ist wie ein Märchen. Es ist intensiv, überraschend, und alles fühlt sich perfekt an. Der Narzisst wird dich mit einer überflutenden Menge von Aufmerksamkeit überfluten. Er/Sie wird dir sagen, dass du speziell bist, dass du die eine bist, dass er/sie noch nie jemanden so gefühlt hat.
 
-Das nennt sich Love Bombing. Und es ist nicht zufällig oder spontan. Es ist eine bewusste, berechnete Strategie, die nicht aus echter Liebe kommt, sondern aus einer Jagd nach "supply" – das heißt, emotionale Energie und Bewunderung.
+Das nennt sich [Love Bombing](/blog/love-bombing-erkennen-schuetzen). Und es ist nicht zufällig oder spontan. Es ist eine bewusste, berechnete Strategie, die nicht aus echter Liebe kommt, sondern aus einer Jagd nach "supply" – das heißt, emotionale Energie und Bewunderung.
 
 Der Narzisst wird dir sagen: "Ich habe dich noch nie jemanden getroffen wie dich." "Du verstehst mich besser als irgendjemand sonst." "Ich sehe eine Zukunft mit dir." "Du bist meine soulmate." Diese Worte sind geschickt konstruiert, um dein Herz zu öffnen.
 
@@ -63,7 +63,7 @@ Derselbe Mensch, der dich heilig gemacht hat, wird derselbe Mensch, der dich jet
 
 Während dieser Phase werden die Handlungen des Narzissten oft harte und direkt verletzend. Es kann emotionalen Missbrauch geben: Insults, Intimidation, öffentliche Verdemütigung, Kontrolle über Geld, Controlling des Aussehens. Es kann auch körperlich werden, obwohl nicht alle Narzissten körperlich missbrauchen. Psychischer Missbrauch ist ausreichend.
 
-Der Narzisst wird auch anfangen, die Wahrheit zu verzerren und dich wahnsinnig zu machen. Er/Sie wird dir sagen, dass du wahnsinnig bist. Er/Sie wird zu Incidents herangehen, die du dich klar erinnern kannst, und die Fakten verändern, so dass es aussieht, als hättest du es dir eingebildet. Das nennt sich Gaslighting, und es ist eine Form des psychologischen Missbrauchs, der dein Selbstvertrauen und deine Realitäts-Wahrnehmung untergräbt.
+Der Narzisst wird auch anfangen, die Wahrheit zu verzerren und dich wahnsinnig zu machen. Er/Sie wird dir sagen, dass du wahnsinnig bist. Er/Sie wird zu Incidents herangehen, die du dich klar erinnern kannst, und die Fakten verändern, so dass es aussieht, als hättest du es dir eingebildet. Das nennt sich [Gaslighting](/blog/gaslighting-komplett-guide), und es ist eine Form des psychologischen Missbrauchs, der dein Selbstvertrauen und deine Realitäts-Wahrnehmung untergräbt.
 
 ## Der Discard: Das Finale
 

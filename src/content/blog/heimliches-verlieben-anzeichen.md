@@ -18,7 +18,7 @@ faq:
   - question: "Wo finde ich Hilfe zum Thema heimlich verliebt? 15 anzeichen, die dich verraten?"
     answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
 ---
-## 15 Zeichen, dass du heimlich verliebt bist (und es vielleicht noch nicht weißt)
+## 15 Zeichen, dass du heimlich [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist (und es vielleicht noch nicht weißt)
 
 Manchmal schleicht sich die Liebe ein, ohne dass wir es merken. Du hast diese Person nicht als romantische Option gestartet, aber irgendwann war da ein Kribbeln. Erkennst du dich wieder in diesen Signalen?
 

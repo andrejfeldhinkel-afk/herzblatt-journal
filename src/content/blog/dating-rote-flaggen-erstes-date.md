@@ -21,7 +21,7 @@ Du sitzt am Tisch. Die erste halbe Stunde ist vorbei. Langsam merkst du: Etwas i
 
 Lass mich klar sein: Dein Bauchgefühl ist nicht zu kritisch. Wenn etwas sich seltsam anfühlt beim ersten Date, dann gibt es einen Grund dafür. Dein Körper erkennt etwas, was dein Verstand noch nicht in Worte gefasst hat.
 
-In diesem Artikel zeige ich dir die 10 Red Flags, die du beim ersten Date absolut nicht ignorieren solltest. Das sind die Warnsignale, die bedeuten: Diese Person könnte dir Probleme bringen.
+In diesem Artikel zeige ich dir die 10 [Red Flags](/blog/dating-red-flags-maenner-erkennen), die du beim ersten Date absolut nicht ignorieren solltest. Das sind die Warnsignale, die bedeuten: Diese Person könnte dir Probleme bringen.
 
 ## 1. Die Person redet ständig von ihrem/ihren Ex
 
@@ -172,7 +172,7 @@ Ständig über den/die Ex reden, unhöflich zu Servicepersonal sein, deine Grenz
 
 Kommt auf die Red Flag an. Unhöflichkeit zu Servicepersonal oder Grenzüberschreitungen — ja, abbrechen. Nervöses Vielreden oder ein schlechter Tag — verdient eine zweite Chance. Wenn es mehrere Red Flags gibt, oder wenn dein Bauchgefühl sagt „geh", dann geh.
 
-**Können Red Flags auch Green Flags sein?**
+**Können Red Flags auch [Green Flags](/blog/dating-green-flags-erkennen-guide) sein?**
 
 Nein, aber manche Verhaltensweisen werden falsch interpretiert. Nervosität ist keine Red Flag, Arroganz schon. Schüchternheit ist kein Problem, völliges Desinteresse an dir schon. Stelle sicher, dass du die Unterscheidung machst.
 

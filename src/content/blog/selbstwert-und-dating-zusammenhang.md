@@ -359,7 +359,7 @@ Du legst nicht länger dein Glück in andere Hände. Du wirst diskriminierender.
 
 **Du hörst auf, deine Werte zu kompromittieren.**
 
-Bevor: "Er mag mich nicht wirklich, aber ich bin verliebt. Ich werde mich ändern."
+Bevor: "Er mag mich nicht wirklich, aber ich bin [verliebt](/blog/mann-verliebt-anzeichen-komplett). Ich werde mich ändern."
 
 Nachher: "Er mag mich nicht so wie ich bin. Nächster."
 

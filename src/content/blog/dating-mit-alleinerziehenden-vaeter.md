@@ -108,7 +108,7 @@ Ein rotes Flagge: Ständige Drama zwischen deinem Partner und seiner Ex. Streits
 
 Lassen Sie mich direkt sein: Wenn du mit einem alleinerziehenden Vater eine ernsthafte Beziehung aufbaust, wirst du finanziell betroffen sein.
 
-Nicht direkt – sein Gehalt ist sein Gehalt. Aber wenn ihr zusammenziehen würdet, wenn ihr von zwei Haushalten zu einem (oder eins und eine Halbe) wechseln würdet, müsste geplant werden. Sein Einkommen geht teilweise an Kinderunterhaltzahlungen. Seine Zeit geht zu Schulgebühren und medizinischen Ausgaben.
+Nicht direkt – sein Gehalt ist sein Gehalt. Aber wenn ihr [zusammenziehen](/blog/zusammenziehen-checkliste) würdet, wenn ihr von zwei Haushalten zu einem (oder eins und eine Halbe) wechseln würdet, müsste geplant werden. Sein Einkommen geht teilweise an Kinderunterhaltzahlungen. Seine Zeit geht zu Schulgebühren und medizinischen Ausgaben.
 
 Dies ist ein Gespräch, das ihr haben müsst, aber es ist empfindlich. Er könnte sich von dir beurteilt fühlen. Du könntest dich von ihm finanziell belastet fühlen. Es ist nicht einfach.
 

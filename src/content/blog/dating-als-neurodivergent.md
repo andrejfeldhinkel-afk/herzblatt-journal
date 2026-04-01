@@ -16,7 +16,7 @@ Du fragst dich, ob du beim Dating ehrlich sagen solltest, dass du ADHS hast. Ode
 
 Die Wahrheit ist: Neurodivergenz ist nicht ein Fehler im Dating. Es ist einfach eine andere Neurowertung. Und während es Herausforderungen gibt – es gibt auch unglaubliche Stärken.
 
-In diesem Artikel werde ich dir einen vollständigen Guide geben, wie man neurodivergent und verliebt ist. Wir sprechen über ADHS, Autismus und andere Formen der Neurodivergenz. Wir sprechen über, was schwer ist, was großartig ist, und wie man jemanden findet, der dich wirklich versteht – nicht trotz deiner Neurodivergenz, sondern mit ihr.
+In diesem Artikel werde ich dir einen vollständigen Guide geben, wie man neurodivergent und [verliebt](/blog/mann-verliebt-anzeichen-komplett) ist. Wir sprechen über ADHS, Autismus und andere Formen der Neurodivergenz. Wir sprechen über, was schwer ist, was großartig ist, und wie man jemanden findet, der dich wirklich versteht – nicht trotz deiner Neurodivergenz, sondern mit ihr.
 
 ## Was ist Neurodivergenz wirklich?
 

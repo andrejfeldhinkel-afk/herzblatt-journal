@@ -69,7 +69,7 @@ Wut kann auch eine Schutzmechanismus sein. Es ist einfacher, wütend zu sein, al
 
 Du kannst kleine Dinge zu überreaktionen machen. Jemand parkt schlecht und du schreist. Ein Kollege sagt etwas Dummes und du wirst sauer. Das ist nicht normal Wut, das ist Trennung-Wut, die nach einem Outlet sucht.
 
-Du replaya die Beziehung immer wieder in deinem Kopf. Du merkst alle Fehler, alle Red Flags, alle Dinge, die nicht stimmten. Du erzählst jedem, was deine Ex alles Falsches gemacht hat.
+Du replaya die Beziehung immer wieder in deinem Kopf. Du merkst alle Fehler, alle [Red Flags](/blog/dating-red-flags-maenner-erkennen), alle Dinge, die nicht stimmten. Du erzählst jedem, was deine Ex alles Falsches gemacht hat.
 
 Manchmal ist die Wut gerichtet: "Sie hat mich betrogen! Sie ist böse!" Manchmal ist sie unfokussiert: "Alles ist schrecklich und alle Menschen sind scheißegal."
 

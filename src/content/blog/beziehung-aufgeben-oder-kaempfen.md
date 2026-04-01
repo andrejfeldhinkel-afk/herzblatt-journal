@@ -66,7 +66,7 @@ Du merkst das an kleinen Dingen: Wie wird über den anderen hinter seinem Rücke
 
 Hier gibt es keine Grauzone. Wenn Gewalt im Spiel ist, ist die Antwort klar: Du musst gehen.
 
-Das bedeutet nicht nur körperliche Schläge. Emotionale Misshandlung—ständige Erniedrigungen, Gaslighting, Isolation—ist genauso zerstörerisch. Dein Wohlbefinden ist nicht verhandelbar.
+Das bedeutet nicht nur körperliche Schläge. Emotionale Misshandlung—ständige Erniedrigungen, [Gaslighting](/blog/gaslighting-komplett-guide), Isolation—ist genauso zerstörerisch. Dein Wohlbefinden ist nicht verhandelbar.
 
 ### Totale Kommunikationsverweigerung
 
@@ -140,7 +140,7 @@ Hilfreiche Ressourcen findest du bei Telefonseelsorge: [Telefonseelsorge](https:
 
 Weitere Informationen findest du bei Deutsche Depressionshilfe: [Deutsche Depressionshilfe](https://www.deutsche-depressionshilfe.de/)
 
-### Du merkst, dass du dich nicht mehr verliebt: Gehen oder bleiben?
+### Du merkst, dass du dich nicht mehr [verliebt](/blog/mann-verliebt-anzeichen-komplett): Gehen oder bleiben?
 
 Es ist nicht egoistisch, dich selbst an erste Stelle zu setzen. Es ist nicht herzlos, zu sagen, dass es nicht funktioniert.
 

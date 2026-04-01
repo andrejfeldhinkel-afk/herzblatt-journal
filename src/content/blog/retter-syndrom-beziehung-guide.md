@@ -212,7 +212,7 @@ Das zweite Phänomen ist das „Social Media Retten". Du siehst jemanden, der ei
 
 Das dritte Phänomen ist das „Uber-helping" in Gruppenchats oder Freundesgruppen. Du postest immer den Rat, du antwortest immer den Fragen, du versuchst, alle Probleme zu lösen. Du wirst zur „Therapeutin" der Gruppe. Das kann zu Burnout führen, weil du keine Grenzen hast zwischen deinen Problemen und den Problemen aller anderen.
 
-Das vierte Phänomen ist das „digitale Gaslighting Retten". Du hilfst jemandem, der dich manipuliert. Du erkennst die Manipulation nicht, weil sie sich hinter Hilfe und Unterstützung versteckt. Diese Person nutzt deine Rettermotivationen gegen dich.
+Das vierte Phänomen ist das „digitale [Gaslighting](/blog/gaslighting-komplett-guide) Retten". Du hilfst jemandem, der dich manipuliert. Du erkennst die Manipulation nicht, weil sie sich hinter Hilfe und Unterstützung versteckt. Diese Person nutzt deine Rettermotivationen gegen dich.
 
 Die digitale Welt verstärkt das Retter-Syndrom, weil sie es einfach macht, sich in andere Menschen zu investieren, ohne echte Grenzen zu haben. Du kannst 24/7 verfügbar sein. Du kannst deine ganzen Gedanken investieren. Aber ohne echte Beziehung, ohne echtes Kennenlernen, ist das kein echtes Helfen. Das ist Illusion von Helfen.
 

@@ -51,7 +51,7 @@ Dein Partner sagt nicht aktiv schreckliche Dinge, aber:
 
 Das ist toxisch, weil es dich verwirrt. Es ist nicht offen genug, um zu kämpfen, aber deutlich genug, um wehzutun.
 
-## 5. Gaslighting
+## 5. [Gaslighting](/blog/gaslighting-komplett-guide)
 
 Das ist eine Form der psychologischen Manipulation, bei der dein Partner dich anfängt, an deinen eigenen Gedanken und Gefühlen zu zweifeln.
 

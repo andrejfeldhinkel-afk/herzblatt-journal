@@ -47,7 +47,7 @@ Wenn ihr gerne zusammen schaut, können Sie einen klaren Himmel nutzen. Du könn
 
 ### Gemeinsamer Lieblingort
 
-Es gibt Orte, an denen ihr zusammen wertvolle Momente geteilt habt. Vielleicht ein Park, wo ihr zum ersten Mal zusammen spaziert seid, oder ein Restaurant, in dem ihr euch verliebt habt. Kehrt an diesen Ort zurück und erneuert dort die Liebe mit deinem Antrag.
+Es gibt Orte, an denen ihr zusammen wertvolle Momente geteilt habt. Vielleicht ein Park, wo ihr zum ersten Mal zusammen spaziert seid, oder ein Restaurant, in dem ihr euch [verliebt](/blog/mann-verliebt-anzeichen-komplett) habt. Kehrt an diesen Ort zurück und erneuert dort die Liebe mit deinem Antrag.
 
 ### Schmuck-Box-Überraschung
 

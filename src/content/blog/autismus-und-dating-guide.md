@@ -175,7 +175,7 @@ Körperliche Intimität kann auch sensorisch überwältigend sein. Wenn du möch
 
 Wenn deine Beziehung sich entwickelt, ändern sich die Anforderungen. Das Adrenalin von frühem Dating kann verfallen. Die Wahrheit von, wer dein Partner ist und wer du bist, wird klarer. Das kann sowohl gut als auch schwierig sein.
 
-Eine Sache, die für viele autistische Menschen schwierig ist, ist Veränderung in Routine. Wenn ihr lange genug zusammen wart, um eine Routine zu entwickeln, wird die Änderung überwältigend sein. Wenn Sie zusammenziehen, zum Beispiel, kann die Änderung zur Routine überwältigend sein. Das ist normal. Mit Anpassung kommt Gewöhnung, aber in der Zwischenzeit könnte es stressig sein.
+Eine Sache, die für viele autistische Menschen schwierig ist, ist Veränderung in Routine. Wenn ihr lange genug zusammen wart, um eine Routine zu entwickeln, wird die Änderung überwältigend sein. Wenn Sie [zusammenziehen](/blog/zusammenziehen-checkliste), zum Beispiel, kann die Änderung zur Routine überwältigend sein. Das ist normal. Mit Anpassung kommt Gewöhnung, aber in der Zwischenzeit könnte es stressig sein.
 
 Eine andere Sache ist, dass wenn du lange maskierst hast, könntest du irgendwann zu maskieren aufhören, und dein Partner könnte überrascht sein. Plötzlich steht du mehr, oder deine Interesse wird intensiver, oder du hast mehr Bedürfnis für Alone-Zeit. Das könnte zu Konfusion führen. Es hilft, wenn dein Partner versteht, dass du nicht änderst; du wirst einfach weniger maskierter.
 

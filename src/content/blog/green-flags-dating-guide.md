@@ -25,7 +25,7 @@ faq:
 
 Du sitzt beim Date und merkst plötzlich: Dieser Mensch hört dir zu. Wirklich zu. Er oder sie stellt Fragen, die nicht "So, wie viel verdienst du?" sind, sondern echte Neugier zeigen. Du lachst. Nicht gezwungen. Sondern echtes Lachen. Du verlässt das Date und denkst nicht: "War ich interessant genug?" Sondern: "Ich möchte das wiederholen."
 
-Das fühlt sich anders an. Das sind Green Flags — und sie sind mindestens genauso wichtig wie das Erkennen von Red Flags. In der Tat, die meisten Dating-Ratgeber sprechen nur über, was du vermeiden solltest. Aber was ist mit dem, das du suchen solltest? Das ist, worüber wir sprechen werden.
+Das fühlt sich anders an. Das sind [Green Flags](/blog/dating-green-flags-erkennen-guide) — und sie sind mindestens genauso wichtig wie das Erkennen von [Red Flags](/blog/dating-red-flags-maenner-erkennen). In der Tat, die meisten Dating-Ratgeber sprechen nur über, was du vermeiden solltest. Aber was ist mit dem, das du suchen solltest? Das ist, worüber wir sprechen werden.
 
 ## Was sind Green Flags wirklich?
 

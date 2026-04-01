@@ -34,7 +34,7 @@ Aber mit der Zeit, wird es mehr. Ihr seid mehrere Male pro Woche zusammen. Du tr
 
 Aber die Worte werden niemals gesagt. Ihr habt niemals „Das Gespräch".
 
-Und irgendwann merkst du, dass du verliebt bist – aber dein Partner hat nicht definit, was es ist.
+Und irgendwann merkst du, dass du [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist – aber dein Partner hat nicht definit, was es ist.
 
 Das ist eine Situationship.
 
@@ -56,7 +56,7 @@ Hier ist, wie du weiß, dass du in einer Situationship bist:
 
 **Ihr ist unkonsequent**: Manchmal kontaktieren sie dich viel, manchmal ignorieren Sie dich.
 
-**Die Bedingungen können sich jederzeit ändern**: Diese Person kann einfach aufhören, dich zu kontaktieren und dich Ghosting. Es gibt keine Besprechung, dass es vorbei ist. Es ist einfach weg.
+**Die Bedingungen können sich jederzeit ändern**: Diese Person kann einfach aufhören, dich zu kontaktieren und dich [Ghosting](/blog/ghosting-komplett-guide). Es gibt keine Besprechung, dass es vorbei ist. Es ist einfach weg.
 
 Wenn das meisten von diesem wahr ist, du bist in einer Situationship.
 

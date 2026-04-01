@@ -88,7 +88,7 @@ Wenn Ihr beide sagen „Ja, wir mögen probieren wieder," hier ist, wie es zu tu
 
 **Nimm es langsam**
 
-Nicht gleich wieder zusammenziehen oder das tun, was Ihr vor dem Bruch tat. Gib Euch Zeit zu lernen zu sein zusammen in dieser neuen Version.
+Nicht gleich wieder [zusammenziehen](/blog/zusammenziehen-checkliste) oder das tun, was Ihr vor dem Bruch tat. Gib Euch Zeit zu lernen zu sein zusammen in dieser neuen Version.
 
 Datieren – ja, wieder datieren. Nehmen es langsam. Das erlaubt Euch auf bauen können Vertrauen mit Zeit.
 

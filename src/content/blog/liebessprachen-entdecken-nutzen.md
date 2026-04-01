@@ -209,7 +209,7 @@ Wie du es für sie tust:
 
 ## Der Test – Deine und die Liebessprache deines Partners
 
-Es gibt einen formalen Test online: Der 5 Love Languages Test. Du kannst ihn kostenlos machen.
+Es gibt einen formalen Test online: Der 5 [Love Languages](/blog/love-languages-komplett-guide) Test. Du kannst ihn kostenlos machen.
 
 Aber hier ist eine einfachere Version:
 

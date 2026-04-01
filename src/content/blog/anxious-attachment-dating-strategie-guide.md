@@ -202,7 +202,7 @@ Du musst lernen, mit diesem Unbehagen zu sitzen. Nicht in Panik verfallen. Nur s
 
 Das ist wahre Sicherheit. Und das ist das Ziel.
 
-## Die Red Flags: Menschen zu vermeiden, wenn du ängstlich bist
+## Die [Red Flags](/blog/dating-red-flags-maenner-erkennen): Menschen zu vermeiden, wenn du ängstlich bist
 
 Es gibt bestimmte Arten von Menschen, die dein ängstliches System verewigen werden.
 

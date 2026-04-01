@@ -354,7 +354,7 @@ In einer neuen Beziehung, Ambivalenz könnte bedeuten, dass du die Person nicht 
 
 In einer langfristigen Beziehung, Ambivalenz ist normaler. Langfristige Beziehungen haben Phasen. Es gibt Phasen von großer Nähe und Liebe. Es gibt Phasen von Freundschaft und Sicherheit. Es gibt auch Phasen von Langeweile oder Distanz. Das ist normal.
 
-Die Frage ist nicht „Bin ich immer glücklich und verliebt?" Die Frage ist „Im großen Ganzen, ist diese Beziehung erfüllend? Sind wir wachsend zusammen? Können wir die schwierige Phasen durchgehen?"
+Die Frage ist nicht „Bin ich immer glücklich und [verliebt](/blog/mann-verliebt-anzeichen-komplett)?" Die Frage ist „Im großen Ganzen, ist diese Beziehung erfüllend? Sind wir wachsend zusammen? Können wir die schwierige Phasen durchgehen?"
 
 Wenn die Antwort ja ist, dann ist die Ambivalenz wahrscheinlich temporär. Wenn die Antwort nein ist, dann ist die Ambivalenz ein Zeichen, dass etwas nicht funktioniert.
 

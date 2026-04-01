@@ -537,7 +537,7 @@ Kaffee-Dates sind typischerweise kurz und low-pressure. Das ist warum körperspr
 - Die Tasse wird slow getrunken statt schnell — das bedeutet die Person will länger bleiben
 - Kein Handy-Checken oder minimal Handy-Checken
 
-**Red Flags:**
+**[Red Flags](/blog/dating-red-flags-maenner-erkennen):**
 - Häufiges Handy-Checken
 - Nach hinten lehnen
 - Hände auf dem Schoß versteckt

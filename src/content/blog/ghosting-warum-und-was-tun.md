@@ -25,7 +25,7 @@ faq:
     answer: "Nein. Echte Zuneigung bedeutet, sich für die Gefühle des anderen zu interessieren. Wer ghostet, zeigt mangelnden Respekt und mangelnde emotionale Reife."
 ---
 
-## Das Phänomen Ghosting — Ein modernes Liebes-Mysterium
+## Das Phänomen [Ghosting](/blog/ghosting-komplett-guide) — Ein modernes Liebes-Mysterium
 
 Du hast jemanden kennengelernt, die Chemie hat gestimmt, ihr habt die ganze Nacht geredet, tausend Nachrichten ausgetauscht. Alles sieht nach mehr aus. Und dann? Stille. Völlige Stille. Keine Antwort auf deine letzte Nachricht, keine Erklärung, keine Vorwarnung. Diese Person ist einfach weg — als hätte es euch beide nie gegeben. Das ist Ghosting, und es trifft dich wahrscheinlich gerade ins Mark.
 

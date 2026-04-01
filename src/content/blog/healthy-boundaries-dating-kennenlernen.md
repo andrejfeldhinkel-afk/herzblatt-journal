@@ -122,7 +122,7 @@ Hier sind einige Grenzen, die ich empfehle:
 
 **Nicht mit jemandem zusammen sein, der nicht sagt, dass du wichtig bist**: Taten sprechen lauter als Worte. Sie zeigen, dass du wichtig bist oder nicht.
 
-**Kein Ghosting tolerieren**: Wenn jemand dich ghosted, lass sie los. Sie sind nicht reif für dich.
+**Kein [Ghosting](/blog/ghosting-komplett-guide) tolerieren**: Wenn jemand dich ghosted, lass sie los. Sie sind nicht reif für dich.
 
 **Nicht bereit sein zu warten**: Wenn sie nicht bereit für eine Beziehung sind, warte nicht. Finde jemanden, der es ist.
 

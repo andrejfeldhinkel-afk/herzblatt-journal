@@ -144,7 +144,7 @@ Wenn die Partnersuche ab 30 erfolgreich war und du mit jemandem zusammen geworde
 
 In dieser Phase solltest du bewusst bleiben. Verliebtheit ist wunderbar, aber sie kann auch deinen Blick trüben. Mit 30 Jahren hast du gelernt, Liebe und Verliebtheit zu unterscheiden. Nutze diese Fähigkeit! Achte darauf, ob dein Partner seine Worte in Taten umsetzt. Behalte deine Unabhängigkeit und deine Grenzen. Ignoriere keine Warnsignale nur, weil die Anziehung stark ist.
 
-Die beste Basis für eine langfristige Beziehung ist **gegenseitiger Respekt, klare Kommunikation und kompatible Lebensziele**. Wenn diese drei Dinge vorhanden sind, habt ihr eine echte Chance. Wenn eines davon fehlt, wird es später schwierig, egal wie sehr ihr euch zunächst verliebt.
+Die beste Basis für eine langfristige Beziehung ist **gegenseitiger Respekt, klare Kommunikation und kompatible Lebensziele**. Wenn diese drei Dinge vorhanden sind, habt ihr eine echte Chance. Wenn eines davon fehlt, wird es später schwierig, egal wie sehr ihr euch zunächst [verliebt](/blog/mann-verliebt-anzeichen-komplett).
 
 ### Warum Partnersuche ab 30 die beste Phase ist
 

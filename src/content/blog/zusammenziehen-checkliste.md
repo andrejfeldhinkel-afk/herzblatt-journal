@@ -1,6 +1,6 @@
 ---
-title: "Zusammenziehen: Die ultimative Checkliste"
-description: "Vollständige Checkliste zum Zusammenziehen: Finanzen, Haushalt, Erwartungen & häufige Fehler vermeiden."
+title: "Zusammenziehen: Die ultimative Checkliste für Paare (2026)"
+description: "Zusammenziehen mit dem Partner? Unsere Checkliste hilft: Finanzen klären, Haushalt planen, typische Fehler vermeiden. Alles was Paare vor dem Einzug wissen müssen."
 date: 2025-12-10
 image: "/images/photos/zusammenziehen-checkliste.webp"
 tags:
@@ -8,6 +8,15 @@ tags:
   - "Beziehung"
   - "Partnerschaft"
   - "Checkliste"
+keywords: ["zusammenziehen", "zusammenziehen Checkliste", "erste gemeinsame Wohnung", "Paar zusammenziehen Tipps", "Zusammenleben planen"]
+author: "sarah-kellner"
+faq:
+  - question: "Wann ist der richtige Zeitpunkt zum Zusammenziehen?"
+    answer: "Die meisten Beziehungsexperten empfehlen, mindestens 6-12 Monate zusammen zu sein, bevor man zusammenzieht. Wichtiger als die Zeit ist aber, dass beide Partner es wirklich wollen und offen über Erwartungen gesprochen haben."
+  - question: "Was muss man vor dem Zusammenziehen besprechen?"
+    answer: "Die wichtigsten Themen sind: Finanzen und Kostenaufteilung, Haushaltsaufgaben, persönlicher Freiraum, Besuchsregeln und gemeinsame Zukunftspläne. Je mehr ihr vorher klärt, desto weniger Konflikte entstehen."
+  - question: "Wie teilt man die Kosten beim Zusammenziehen?"
+    answer: "Die gängigsten Modelle sind: 50/50-Aufteilung, prozentuale Aufteilung nach Einkommen, oder ein gemeinsames Haushaltskonto. Welches Modell am besten passt, hängt von eurer finanziellen Situation und euren Werten ab."
 ---
 Zusammenziehen ist ein großer Schritt in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/). Es ist aufregend, manchmal auch überwältigend. Viele Paare unterschätzen, wie viel Planung und Kommunikation nötig ist, um diesen Übergang erfolgreich zu bewältigen. Ohne richtige Vorbereitung entstehen schnell Konflikte über Geld, Haushaltspflichten und unterschiedliche Erwartungen.
 
@@ -205,7 +214,7 @@ Zum Beispiel: „Wir versuchen, zusammen zu essen, aber wenn einer beschäftigt 
 
 ### Fehler 1: Zu schnell zusammenziehen
 
-Der klassische Fehler: Ihr seid verliebt und wollt sofort zusammen sein. Dann zieht ihr nach drei Monaten zusammen.
+Der klassische Fehler: Ihr seid [verliebt](/blog/mann-verliebt-anzeichen-komplett) und wollt sofort zusammen sein. Dann zieht ihr nach drei Monaten zusammen.
 
 Das ist zu schnell. Euer Liebe-Gehirn trübt euer Urteil. Nach mindestens einem Jahr (besser 18 Monaten) zu sehen, ob die Beziehung stabil ist.
 

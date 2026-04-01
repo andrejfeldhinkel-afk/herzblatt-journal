@@ -318,7 +318,7 @@ Es ist hilfreich zu verstehen, dass die Schmetterlinge nicht auf einmal verschwi
 In den ersten vier Wochen ist die Obsession am höchsten. Du kannst bei der Arbeit nicht konzentrieren. Du warst nachts auf, bis 3 Uhr morgens, nur um zu texten. Dein Dopamin ist so hoch, dass du kaum schlafen kannst.
 
 Dein Freund sagt: "Du siehst müde aus."
-Du sagst: "Ich bin verliebt."
+Du sagst: "Ich bin [verliebt](/blog/mann-verliebt-anzeichen-komplett)."
 
 Das ist nicht Übertreibung. Das ist wirklich, wie sich chemische Obsession anfühlt.
 

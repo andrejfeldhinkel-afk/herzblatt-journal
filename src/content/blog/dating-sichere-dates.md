@@ -40,7 +40,7 @@ Das ist nicht paranoia. Das ist Selbstschutz.
 
 Was du suchst:
 - Sind die Geschichten consistent?
-- Gibt es Red Flags (z.B. Meldungen von Missbrauch)?
+- Gibt es [Red Flags](/blog/dating-red-flags-maenner-erkennen) (z.B. Meldungen von Missbrauch)?
 - Ist diese Person real?
 
 Die meisten Menschen sind real. Aber einige sind Catfishes oder Betrüger.

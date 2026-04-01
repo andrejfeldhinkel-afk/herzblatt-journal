@@ -194,7 +194,7 @@ Es gibt auch das „selektive Negging", wo dein Partner dich in einer Bereich un
 
 Das wichtigste ist, dass Negging in einer bestehenden Beziehung Zeit ist zu gehen. Du kannst nicht mit jemandem zusammen sein, der dein Selbstwertgefühl systematisch untergraben. Eine gesunde Beziehung unterstützt dich, auch wenn es Kritik gibt.
 
-## Negging und Gaslighting – Die gefährliche Kombination
+## Negging und [Gaslighting](/blog/gaslighting-komplett-guide) – Die gefährliche Kombination
 
 Negging wird noch gefährlicher, wenn es mit Gaslighting kombiniert wird. Das ist, wenn die Person dich nicht nur kritisiert, sondern auch leugnet, dass sie es getan hat, oder dich verrückt macht dafür, dass du dich verletzt fühlst.
 
@@ -268,7 +268,7 @@ Wenn du dich vor Negging schützen willst, gibt es konkrete Strategien, die du n
 
 Die erste Strategie ist, dein Selbstwertgefühl zu stärken. Je stärker dein Selbstwertgefühl ist, desto weniger anfällig bist du für Negging. Das bedeutet, Zeit mit Menschen zu verbringen, die dich unterstützen, Dinge zu tun, die du liebst, und an dir selbst zu arbeiten.
 
-Eine zweite Strategie ist, Red Flags früh zu erkennen. Wenn jemand anfängt, dich zu neggen, erkenne es früh und reagiere sofort darauf. Sag klare Grenzen und sehen, wie die Person reagiert.
+Eine zweite Strategie ist, [Red Flags](/blog/dating-red-flags-maenner-erkennen) früh zu erkennen. Wenn jemand anfängt, dich zu neggen, erkenne es früh und reagiere sofort darauf. Sag klare Grenzen und sehen, wie die Person reagiert.
 
 Eine dritte Strategie ist, deinem Bauchgefühl zu vertrauen. Wenn sich etwas nicht richtig anfühlt, ist es wahrscheinlich nicht richtig. Dein Bauchgefühl ist eine großartige frühe Warnung für manipulatives Verhalten.
 

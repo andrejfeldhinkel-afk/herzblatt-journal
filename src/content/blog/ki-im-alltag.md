@@ -92,7 +92,7 @@ Hier sind einige Fragen, die wir stellen sollten:
 
 - **Sind Algorithmen fair?** Bevorzugen sie bestimmte Körper-Typen oder Rassen?
 - **Wem gehört deine Dating-Daten?** Wer kann sehen, mit wem du matchst?
-- **Ist automatisiertes Ghosting durch einen Bot okay?** (Es ist nicht.)
+- **Ist automatisiertes [Ghosting](/blog/ghosting-komplett-guide) durch einen Bot okay?** (Es ist nicht.)
 - **Ist es fair, KI zu benutzen, um jemanden zu manipulieren?** (Es ist nicht.)
 
 ### Meine Empfehlung

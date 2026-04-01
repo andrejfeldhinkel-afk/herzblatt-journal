@@ -37,7 +37,7 @@ Liebeskummer ist nicht etwas das du schnell überwinden solltest. Es ist etwas d
 
 ### Die neurochemische Abhängigkeit
 
-Wenn du in jemanden verliebt bist, passiert folgendes in deinem Gehirn:
+Wenn du in jemanden [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, passiert folgendes in deinem Gehirn:
 
 Dopamin wird freigesetzt (das Glück-Hormon). Oxytocin wird freigesetzt (das Bindungs-Hormon). Cortisol wird reguliert (du fühlst dich sicher).
 

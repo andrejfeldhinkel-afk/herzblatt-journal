@@ -317,7 +317,7 @@ Bumble hat eine spezifische Kultur. Hier sind ungeschriebene Regeln, die trotzde
 - Als Frau schreibst du in den 24 Stunden. Wenn du nicht schreiben möchtest, solltest du nicht swepen.
 - Sei respektvoll. Nur weil Frauen schreiben, bedeutet das nicht, dass Männer beleidigt, angebaggert oder manipuliert werden sollen.
 - Antworte relativ schnell. Wenn jemand dir geschrieben hat, ist er interessiert. Wenn du ihm antwortest, bedeutet das, dass du nicht weniger interessiert bist.
-- Beende Konversationen höflich, wenn du merkst, dass es nicht passt. Ein "Du bist wahrscheinlich ein toller Mensch, aber ich merke, dass wir nicht gut passen" ist besser als Ghosting.
+- Beende Konversationen höflich, wenn du merkst, dass es nicht passt. Ein "Du bist wahrscheinlich ein toller Mensch, aber ich merke, dass wir nicht gut passen" ist besser als [Ghosting](/blog/ghosting-komplett-guide).
 
 **Das wird auf Bumble nicht erwartet:**
 

@@ -133,7 +133,7 @@ Und dann, als separater Teil deines Lebens, siehst du diese Person.
 
 Nach ein paar Monaten, wenn ihr beiden sicher seid, dann könnt ihr langsam zusammenführen.
 
-## Fehler #4: Du ignorierst Red Flags
+## Fehler #4: Du ignorierst [Red Flags](/blog/dating-red-flags-maenner-erkennen)
 
 Die andere Person sagt etwas Kontrollierendes. Dein Gehirn merkt es. Aber du redest es dir aus.
 
@@ -202,7 +202,7 @@ Das ist es.
 
 Wenn du versuchst, diese Person zu ändern, wirst du frustriert. Die Person wird sich angegriffen fühlen. Und irgendwann wird die Beziehung kaputtgehen.
 
-Oder noch schlimmer: Du wirst die Person erfolgreich "ändern" und dann merkst du, dass sie nicht mehr die Person ist, in die du dich verliebt hast.
+Oder noch schlimmer: Du wirst die Person erfolgreich "ändern" und dann merkst du, dass sie nicht mehr die Person ist, in die du dich [verliebt](/blog/mann-verliebt-anzeichen-komplett) hast.
 
 Was solltest du stattdessen tun?
 

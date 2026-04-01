@@ -176,5 +176,5 @@ Der wichtigste Punkt ist: Ihr müsst beide "ja" sagen. Beide müssen wollen, das
 
 - [Fernbeziehung meistern – 15 Tipps für Liebe auf Distanz](/blog/fernbeziehung-tipps/)
 - [Fernbeziehung überleben](/blog/beziehung-fernbeziehung-ueberleben/)
-- [Fernbeziehung: Der Schritt zum Zusammenziehen – Ein praktischer Plan](/blog/beziehung-fernbeziehung-zusammenziehen/)
+- [Fernbeziehung: Der Schritt zum Zusammenziehen – Ein praktischer Plan](/blog/beziehung-fernbeziehung-[zusammenziehen](/blog/zusammenziehen-checkliste)/)
 - [Fernbeziehung meistern: Der ultimative Guide](/blog/liebe-auf-distanz-fernbeziehung-meistern/)

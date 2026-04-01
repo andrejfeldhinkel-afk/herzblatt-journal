@@ -9,7 +9,7 @@ keywords:
   - "friendzone entkommen"
   - "freundschaftszone raus"
   - "aus freundschaft wird liebe"
-draft: false
+draft: true
 image: "/images/photos/freundschaft-wird-liebe.webp"
 imageAlt: "Friendzone entkommen"
 faq:
@@ -20,7 +20,7 @@ faq:
 ---
 ## Friendzone entkommen: Die ehrliche Wahrheit
 
-Du bist in der Friendzone gelandet. Diese Person siehst du als romantische Möglichkeit, aber sie sieht dich als Freund. Das tut weh. Und jetzt die Frage: Kannst du da raus?
+Du bist in der [Friendzone](/blog/friendzone-entkommen-guide) gelandet. Diese Person siehst du als romantische Möglichkeit, aber sie sieht dich als Freund. Das tut weh. Und jetzt die Frage: Kannst du da raus?
 
 ## Ist die Friendzone real?
 

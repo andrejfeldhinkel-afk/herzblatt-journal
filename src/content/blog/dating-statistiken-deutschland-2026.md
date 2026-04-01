@@ -132,7 +132,7 @@ Das ist ein Problem für Menschen in ländlichen Gegenden. Es gibt einfach wenig
 
 Das bedeutet: Wenn du wirklich ehrlich bist, hebst du dich ab. Authentizität ist tatsächlich selten und wertvoll.
 
-**2. Ghosting ist Normal**
+**2. [Ghosting](/blog/ghosting-komplett-guide) ist Normal**
 
 42% der Menschen haben jemanden geghostet. 58% wurden geghostet. Das ist ein großes Problem im Online-Dating. Menschen verschwinden einfach ohne Erklärung.
 

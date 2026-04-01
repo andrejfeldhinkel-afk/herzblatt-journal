@@ -51,7 +51,7 @@ Die Person ist ständig auf deinem Social Media – liked Fotos, kommentiert. Ab
 
 **5. Verliebt spielen + Wirklichkeit vermeiden**
 
-Beim Kinofilm schaut die Person dich verliebt an. Nachher am Bett gesteht die Person: „Du bedeutest mir viel." Aber Dinge wie „Sag mir, dass du mich magst" oder „Ich liebe dich" – plötzlich zieht sich die Person zurück. Die Emotionen sind da, aber nicht in definierten Begriffen.
+Beim Kinofilm schaut die Person dich [verliebt](/blog/mann-verliebt-anzeichen-komplett) an. Nachher am Bett gesteht die Person: „Du bedeutest mir viel." Aber Dinge wie „Sag mir, dass du mich magst" oder „Ich liebe dich" – plötzlich zieht sich die Person zurück. Die Emotionen sind da, aber nicht in definierten Begriffen.
 
 **6. Durchgehend erreichbar + verschwindender**
 

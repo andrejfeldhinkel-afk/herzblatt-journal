@@ -11,7 +11,7 @@ featured: false
 image: "/images/photos/ghosting-umgehen.webp"
 imageAlt: "Ghosting verstehen und damit umgehen: Psychologie und Heilung"
 ---
-Das schlimmste Gefühl beim Dating ist, einfach ignoriert zu werden. Eine Person, mit der du Chemie hattest, mit der du lachtest und sprachest, verschwindet plötzlich. Keine Erklärung, keine Abschlussnachricht – nur Stille. Dies ist Ghosting. Es ist verletzend, verwirrend und lässt dich fragen: "Was ist falsch mit mir?" Dieser Ratgeber enthüllt die [psychologie](/blog/aengstlicher-bindungsstil-heilen/) hinter Ghosting und gibt dir Strategien, um damit umzugehen und dich davon zu erholen.
+Das schlimmste Gefühl beim Dating ist, einfach ignoriert zu werden. Eine Person, mit der du Chemie hattest, mit der du lachtest und sprachest, verschwindet plötzlich. Keine Erklärung, keine Abschlussnachricht – nur Stille. Dies ist [Ghosting](/blog/ghosting-komplett-guide). Es ist verletzend, verwirrend und lässt dich fragen: "Was ist falsch mit mir?" Dieser Ratgeber enthüllt die [psychologie](/blog/aengstlicher-bindungsstil-heilen/) hinter Ghosting und gibt dir Strategien, um damit umzugehen und dich davon zu erholen.
 
 ## Was ist Ghosting wirklich?
 

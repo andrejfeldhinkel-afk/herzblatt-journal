@@ -258,7 +258,7 @@ Zunächst: Wie sichtbar ist deine Krankheit? Wenn deine Krankheit offensichtlich
 
 Wenn deine Krankheit unsichtbar ist, hast du mehr Flexibilität. Aber denk daran: Je länger du wartest, desto mehr Zeit hat die andere Person, sich in dich zu verlieben, ohne die volle Information zu haben. Das schafft Probleme später.
 
-Ein guter Richtlinie: Wenn ihr plant, euch ein zweites oder drittes Mal zu treffen, ist es Zeit zu sprechen. Zu diesem Punkt habt ihr eine kleine Chemie, also wird die Person wahrscheinlich offen sein, aber nicht so verliebt, dass die Information eine Kernschmelze verursacht.
+Ein guter Richtlinie: Wenn ihr plant, euch ein zweites oder drittes Mal zu treffen, ist es Zeit zu sprechen. Zu diesem Punkt habt ihr eine kleine Chemie, also wird die Person wahrscheinlich offen sein, aber nicht so [verliebt](/blog/mann-verliebt-anzeichen-komplett), dass die Information eine Kernschmelze verursacht.
 
 Wie du sprichst ist ebenso wichtig. Nicht dramatisieren. Nicht entschuldigen. Nicht als ob du dies der anderen Person „antust". Du erklärst einfach eine Realität deines Lebens.
 

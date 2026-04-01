@@ -106,7 +106,7 @@ Die Lösung ist zu sprechen: Können die Kosten geteilt werden? Kann einer von e
 
 **Tipp 20: Wenn du dich unsicher fühlst, sag es.** "Ich fühle mich diese Woche unsicher. Ich brauche etwas mehr Aufmerksamkeit von dir." Das ist nicht bedürftig. Das ist offen und ehrlich. Ein Partner, der sich um dich kümmert, wird dir das geben.
 
-## Tipp 21-25: Red Flags und wenn man loslässt
+## Tipp 21-25: [Red Flags](/blog/dating-red-flags-maenner-erkennen) und wenn man loslässt
 
 **Tipp 21: Sei vorsichtig mit dem "Ersatz-Partner-Phänomen."** Das ist, wenn dein Partner die ganze Zeit mit deinem besten Freund des anderen Geschlechts abhängt und dich nicht sagt. Das ist nicht normal, selbst in nicht-fernbeziehungen. In Fernbeziehungen ist es ein Warnsignal.
 
@@ -128,7 +128,7 @@ Wenn du und dein Partner beide engagiert sind, wenn ihr ein Enddatum habt, wenn 
 
 ## Das Countdown-Effekt: Wenn das Enddatum näher kommt
 
-Ein interessantes Phänomen in Fernbeziehungen ist der "Countdown-Effekt". Wenn ihr wisst, dass ihr in sechs Monaten zusammenziehen werdet, ändert sich etwas. Die Distanz fühlt sich plötzlich endlich. Die Besuche fühlen sich wichtiger. Die Kommunikation wird bewusster.
+Ein interessantes Phänomen in Fernbeziehungen ist der "Countdown-Effekt". Wenn ihr wisst, dass ihr in sechs Monaten [zusammenziehen](/blog/zusammenziehen-checkliste) werdet, ändert sich etwas. Die Distanz fühlt sich plötzlich endlich. Die Besuche fühlen sich wichtiger. Die Kommunikation wird bewusster.
 
 Das ist großartig, aber es kann auch gefährlich sein. Manchmal verschärft der Countdown die bestehenden Probleme. Wenn die Beziehung Probleme hatte, werden sie schlimmer, wenn ihr wisst, dass ihr zusammenleben werdet.
 

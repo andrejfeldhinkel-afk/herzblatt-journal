@@ -83,7 +83,7 @@ Wenn jemand sehr schnell "intensiv" wird — nach wenigen Tagen Liebe-Geständni
 Das könnte sein:
 - Ein Raubtier, der versucht, dich zu kontrollieren
 - Ein Betrüger, der dich emotional einfangen will
-- Ein narzisstischer Person, der Love Bombing praktiziert
+- Ein narzisstischer Person, der [Love Bombing](/blog/love-bombing-erkennen-schuetzen) praktiziert
 
 [Love Bombing erkennen](/blog/love-bombing-erkennen) ist wichtig in diesem Kontext.
 
@@ -141,7 +141,7 @@ Wenn das Date sich strange anfühlt oder die Person handelt unangenehm:
 
 Du verdankst dieser Person NICHTS. Nicht deine Zeit, nicht deine Sicherheit.
 
-### 5. Achte auf Red Flags während des Datums
+### 5. Achte auf [Red Flags](/blog/dating-red-flags-maenner-erkennen) während des Datums
 
 Einige Dinge, die Probleme anzeigen:
 
@@ -208,7 +208,7 @@ Zusätzliche Überlegungen:
 
 Nicht alles Trauma von Online-Dating ist körperlich:
 
-- Emotionaler Missbrauch (Ghosting, Manipulation)
+- Emotionaler Missbrauch ([Ghosting](/blog/ghosting-komplett-guide), Manipulation)
 - Finanzielle Scams
 - Catfishing
 - Emotionale Manipulation

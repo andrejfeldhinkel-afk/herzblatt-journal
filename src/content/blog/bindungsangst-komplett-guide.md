@@ -65,7 +65,7 @@ Deine Partner fühlen sich oft zurückgewiesen und verlassen.
 
 ### Der Ambivalente Typ
 
-Du möchtest Nähe, aber wenn du sie bekommst, willst du dich zurückziehen. Du hast widersprüchliche Signale. Manchmal bist du super affektiv und verliebt, manchmal kalt und distanziert.
+Du möchtest Nähe, aber wenn du sie bekommst, willst du dich zurückziehen. Du hast widersprüchliche Signale. Manchmal bist du super affektiv und [verliebt](/blog/mann-verliebt-anzeichen-komplett), manchmal kalt und distanziert.
 
 Charakteristische Aussagen:
 - „Ich liebe dich, aber ich weiß nicht ob ich eine Beziehung kann."

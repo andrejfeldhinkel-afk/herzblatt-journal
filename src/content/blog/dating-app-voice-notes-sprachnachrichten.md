@@ -653,7 +653,7 @@ Die besten Sprachnachrichten sind Geschichte. Erzähle eine Geschichte, nicht nu
 
 Das ist für später, wenn die Beziehung intensiver wird. Diese Sprachnachricht signalisiert, dass es etwas Wichtiges gibt — etwas Emotionales oder ein wichtiges Moment.
 
-**Beispiel:** "Ich muss dir was sagen, und ich bin nervös... aber ich bin echt in dich verliebt. Ich weiß, das ist schnell, aber ich wollte, dass du das weißt."
+**Beispiel:** "Ich muss dir was sagen, und ich bin nervös... aber ich bin echt in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett). Ich weiß, das ist schnell, aber ich wollte, dass du das weißt."
 
 ### Die responsiven Anspielungen
 

@@ -277,7 +277,7 @@ Die Art und Häufigkeit von Bids ändert sich je nach Phase der Beziehung. Das V
 
 In dieser Phase sind Bids häufig, spielerisch und oft voller Spannung. Du bemerkst jeden kleinen Bid von deinem Partner. "Hast du bemerkt, wie ich dich anschaue?" wird erwidert mit einem Lächeln und voller Aufmerksamkeit. Sex ist häufig, weil die ganze Beziehung eine lange Serie von Bids ist.
 
-Die gute Nachricht: In dieser Phase ist die Bid Acceptance Rate normalerweise sehr hoch. Ihr ignoriert euch nicht oder wendet euch gegeneinander. Ihr seid beide leicht verliebt, aufmerksam und präsent.
+Die gute Nachricht: In dieser Phase ist die Bid Acceptance Rate normalerweise sehr hoch. Ihr ignoriert euch nicht oder wendet euch gegeneinander. Ihr seid beide leicht [verliebt](/blog/mann-verliebt-anzeichen-komplett), aufmerksam und präsent.
 
 Das Problem: Diese Phase ist nicht nachhaltig. Sie wird nicht für immer so sein. Das ist nicht ein Fehler — das ist die Natur langer Beziehungen.
 

@@ -58,7 +58,7 @@ Das neunte Zeichen ist der Mangel an langfristigen Freundschaften. Narzissten ha
 
 Das zehnte, vielleicht wichtigste Merkmal ist der Kreislauf von Idealisierung, Entwertung und Diskardierung. Du wirst zunächst auf ein Podest gestellt—du bist perfekt, du bist anders, du bist die Beste. Aber irgendwann fallst du vom Podest. Und dann passiert etwas Schreckliches: Der Mensch, den der Narzisst zu lieben vorgab, wird die Quelle aller Probleme.
 
-## Die emotionale Manipulation: Gaslighting und andere Techniken
+## Die emotionale Manipulation: [Gaslighting](/blog/gaslighting-komplett-guide) und andere Techniken
 
 Gaslighting ist wahrscheinlich die insidioseste Form der Manipulation, die ein Narzisst einsetzt. Es funktioniert so: Der Narzisst tut etwas Schmerzhaftes, und du reagierst verletzt. Aber statt seine Handlung zu anerkennen, sagt er: "Das ist nicht passiert" oder "Du hast das missverstanden" oder "Du bist viel zu sensibel".
 

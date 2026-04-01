@@ -588,7 +588,7 @@ Zehn Jahre später sagen sie: Es war das beste Ding, das uns passiert ist. Nicht
 
 ### Die Geschichte von David
 
-David war fünfzig Jahre alt und verheiratet mit einer Frau. Plötzlich war er heiß verliebt in einen Mann. Er versuchte, das zu ignorieren. Er konnte nicht.
+David war fünfzig Jahre alt und verheiratet mit einer Frau. Plötzlich war er heiß [verliebt](/blog/mann-verliebt-anzeichen-komplett) in einen Mann. Er versuchte, das zu ignorieren. Er konnte nicht.
 
 Er sprach mit seiner Frau. Sie war verletzt. Sie fühlte sich betrügt. Sie fragte: „War unsere ganze Ehe eine Lüge?"
 

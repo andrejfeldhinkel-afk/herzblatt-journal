@@ -155,7 +155,7 @@ Das ist der kritischste Moment für finanzielle Klarheit. Bevor ihr einen gemein
 
 Das klingt unromantisch, ist aber weiser als romantische Blindheit zu spielen.
 
-## Die Red Flags (und wie du sie nicht ignorierst)
+## Die [Red Flags](/blog/dating-red-flags-maenner-erkennen) (und wie du sie nicht ignorierst)
 
 Red Flags zu sehen und zu ignorieren ist sein eigenes Trauma-Muster. Wir sehen das Warnsignal, rationalisieren es weg, und wundern uns ein Jahr später, warum wir immer noch in der gleichen dynamischen Schleife sind.
 
@@ -268,7 +268,7 @@ Wenn du deine echten Gefühle versteckst, wirst du:
 
 - Dich selbst verraten
 - Ressentment aufbauen (weil er nicht weiß, was du wirklich fühlst)
-- Einen falschen Partner anziehen (weil er in die Lüge verliebt ist, nicht in dich)
+- Einen falschen Partner anziehen (weil er in die Lüge [verliebt](/blog/mann-verliebt-anzeichen-komplett) ist, nicht in dich)
 
 **Das bessere Weg:**
 

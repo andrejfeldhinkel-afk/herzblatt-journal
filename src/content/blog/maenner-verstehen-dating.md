@@ -93,7 +93,7 @@ Das bedeutet auch: Seine Liebe könnte sich in kleinen Taten zeigen, nicht in gr
 
 ## Love Languages und Männer: Warum "Action" lauter ist als "Worte"
 
-Gary Chapman hat mit seinem Konzept der "5 Love Languages" etwas für Dating-Zusammenhänge wirklich Hilfreiches geschaffen. Die fünf Sprachen sind:
+Gary Chapman hat mit seinem Konzept der "5 [Love Languages](/blog/love-languages-komplett-guide)" etwas für Dating-Zusammenhänge wirklich Hilfreiches geschaffen. Die fünf Sprachen sind:
 
 - Words of Affirmation (Worte der Bestätigung)
 - Quality Time (Qualitätszeit)
@@ -165,7 +165,7 @@ Statt diese Unbehagen zu ertragen, vermeiden sie es einfach. Sie ghosten.
 
 Das ist nicht okay, aber es ist verständlich. Ein Mann mit avoidantem Bindungsmuster wird eher ghosten als "Hey, ich bin nicht bereit für eine Beziehung". Ein Mann mit Angstabbau-Mechanismus wird eher ghosten als "Ich bin unsicher".
 
-Das bedeutet nicht, dass du Ghosting tolerieren solltest. Es bedeutet nur, dass wenn jemand dich ghostet, das wahrscheinlich mehr über ihn sagt als über dich.
+Das bedeutet nicht, dass du [Ghosting](/blog/ghosting-komplett-guide) tolerieren solltest. Es bedeutet nur, dass wenn jemand dich ghostet, das wahrscheinlich mehr über ihn sagt als über dich.
 
 ## FAQ
 

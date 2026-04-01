@@ -24,7 +24,7 @@ faq:
 
 # Diskriminierung beim Dating: Umgang mit Ablehnung und Vorurteilen als queere Person
 
-Die Nachricht kam um 20:37 Uhr: "Ich bin nicht wirklich in dich verliebt. Ich habe nur gemerkt, dass du zu... feminine bist für mich. Ich bin mehr für maskuline Typen."
+Die Nachricht kam um 20:37 Uhr: "Ich bin nicht wirklich in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett). Ich habe nur gemerkt, dass du zu... feminine bist für mich. Ich bin mehr für maskuline Typen."
 
 Du hattest sieben Monate miteinander verbracht. Du hattest dich geöffnet. Du hattest diese Person geliebt. Und die Grund, dich zu verlassen, war, dass deine Art, dich zu bewegen, zu sprechen, zu präsentieren – es entspricht nicht der Erwartung dieser Person davon, wie ein schwuler Mann sein sollte.
 
@@ -490,7 +490,7 @@ Diese Grenzen sind nicht egoistisch. Sie sind Selbstschutz.
 
 1. **Klare Bio-Angaben:** "Keine Fatphobes. Keine Rassisten. Keine Transphobes." Das ist direkt. Es schreckt die falschen Menschen ab und zieht die richtigen an.
 
-2. **Frühe Red Flags erkennen:** Wenn jemand dir auf dem ersten Date etwas Diskriminierendes sagt – das ist nicht eine Zeit zum "geben ihr eine Chance". Das ist eine Zeit zum Gehen. Blockieren. Fertig.
+2. **Frühe [Red Flags](/blog/dating-red-flags-maenner-erkennen) erkennen:** Wenn jemand dir auf dem ersten Date etwas Diskriminierendes sagt – das ist nicht eine Zeit zum "geben ihr eine Chance". Das ist eine Zeit zum Gehen. Blockieren. Fertig.
 
 3. **Nicht argumentieren:** Du musst nicht deine Grenzen erkläre oder verteidig. "Das ist ein No für mich" ist genug.
 

@@ -29,7 +29,7 @@ Ihr habt euch super verstanden, die Nachrichten flogen hin und her, vielleicht g
 
 ### Warum Menschen ghosten
 
-Ghosting fühlt sich persönlich an, hat aber meistens wenig mit dir zu tun. Die häufigsten Gründe:
+[Ghosting](/blog/ghosting-komplett-guide) fühlt sich persönlich an, hat aber meistens wenig mit dir zu tun. Die häufigsten Gründe:
 
 **Konfliktvermeidung.** Viele Menschen finden es leichter, einfach zu verschwinden, als ein unangenehmes Gespräch zu führen. Es ist die "einfache" Lösung — für die ghostende Person.
 

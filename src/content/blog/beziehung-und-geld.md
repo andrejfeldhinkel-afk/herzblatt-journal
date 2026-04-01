@@ -143,7 +143,7 @@ Ja, zumindest die Grundzüge. Ihr plant zusammen, also muss jeder wissen, wie di
 
 **Was mache ich, wenn mein Partner nicht über Geld reden will?**
 
-Das ist ein Problem. Du kannst niemanden zwingen, ein Gespräch zu führen, aber du kannst es an den Anfang einer ernsthaften Beziehung stellen. "Mir ist wichtig, dass wir offen über Geld reden, bevor wir zusammenziehen. Das ist nicht verhandelbar für mich." Wenn er/sie kategorisch ablehnt, könnte das ein Zeichen sein, dass es andere Kontrollprobleme gibt.
+Das ist ein Problem. Du kannst niemanden zwingen, ein Gespräch zu führen, aber du kannst es an den Anfang einer ernsthaften Beziehung stellen. "Mir ist wichtig, dass wir offen über Geld reden, bevor wir [zusammenziehen](/blog/zusammenziehen-checkliste). Das ist nicht verhandelbar für mich." Wenn er/sie kategorisch ablehnt, könnte das ein Zeichen sein, dass es andere Kontrollprobleme gibt.
 
 **Wie gehe ich damit um, wenn mein Partner mehr Schulden hat als ich?**
 

@@ -283,7 +283,7 @@ Ja, aber mit Vorsicht. Kinder lernen von den Mustern, die sie sehen. Wenn ein El
 
 ### Ist strategische Inkompetenz eine Form von emotionalem Missbrauch?
 
-Strategische Inkompetenz kann Teil eines größeren Musters von emotionalem Missbrauch sein. Allein ist es Manipulation, was destruktiv ist. Wenn es mit Gaslighting, Kontrolle und anderen missbrauchlichen Verhaltensweisen kombiniert ist, ist es definitiv Missbrauch.
+Strategische Inkompetenz kann Teil eines größeren Musters von emotionalem Missbrauch sein. Allein ist es Manipulation, was destruktiv ist. Wenn es mit [Gaslighting](/blog/gaslighting-komplett-guide), Kontrolle und anderen missbrauchlichen Verhaltensweisen kombiniert ist, ist es definitiv Missbrauch.
 
 ### Gibt es Männer, die strategisch inkompetent sind, oder nur Frauen?
 
@@ -422,7 +422,7 @@ Der Unterschied ist subtil, aber wichtig.
 
 Deine mentale Gesundheit und dein Wohlbefinden sind wichtig. Du verdienst einen Partner, der mit dir arbeitet, nicht jemand, der dich manipuliert. Vergiss das nicht.
 
-Für weitere Information über Red Flags und Beziehungsprobleme, schau dir auch unsere Artikel über [Toxische Beziehungsmuster erkannt](/blog/toxische-beziehungsmuster) und [Gaslighting und emotionale Manipulation](/blog/gaslighting-erkennen) an.
+Für weitere Information über [Red Flags](/blog/dating-red-flags-maenner-erkennen) und Beziehungsprobleme, schau dir auch unsere Artikel über [Toxische Beziehungsmuster erkannt](/blog/toxische-beziehungsmuster) und [Gaslighting und emotionale Manipulation](/blog/gaslighting-erkennen) an.
 
 ---
 

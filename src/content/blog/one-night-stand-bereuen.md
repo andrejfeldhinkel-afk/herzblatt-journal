@@ -135,7 +135,7 @@ Das ist eine komplexe Situation. Du hattest einen One-Night-Stand, den du bereus
 
 Wie gehst du damit um?
 
-Das erste ist: Das ist nicht deine Schuld. Du kannst nicht verantwortlich sein für die Gefühle anderer Menschen. Wenn diese Person sich verliebt hat oder tiefere Gefühle entwickelt hat, ist das ihre Verantwortung, damit umzugehen, nicht deine.
+Das erste ist: Das ist nicht deine Schuld. Du kannst nicht verantwortlich sein für die Gefühle anderer Menschen. Wenn diese Person sich [verliebt](/blog/mann-verliebt-anzeichen-komplett) hat oder tiefere Gefühle entwickelt hat, ist das ihre Verantwortung, damit umzugehen, nicht deine.
 
 Das zweite ist: Du musst ehrlich sein. Wenn du nicht die gleichen Gefühle hast, kannst du das nicht vortäuschen. Das ist nicht fair für diese Person. Es ist auch nicht fair für dich. Eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/), die auf falschen Versprechungen aufgebaut ist, wird nicht funktionieren.
 

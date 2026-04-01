@@ -43,7 +43,7 @@ Konkrete Maßnahmen für die erste Phase:
 - Vermeide Orte, an denen du diese Person treffen könntest
 - Schreib auf, warum die Beziehung toxisch war – du wirst das später brauchen
 
-Siehe auch: [Dating Green Flags: 30 Zeichen dass du einen Keeper gefunden hast](/blog/dating-green-flags-komplett) für ein besseres Verständnis, worauf du in zukünftigen Beziehungen achten solltest.
+Siehe auch: [Dating [Green Flags](/blog/dating-green-flags-erkennen-guide): 30 Zeichen dass du einen Keeper gefunden hast](/blog/dating-green-flags-komplett) für ein besseres Verständnis, worauf du in zukünftigen Beziehungen achten solltest.
 
 Diese Phase dauert normalerweise 2-6 Wochen. Du wirst dich fühlen, als würde es für immer dauern, aber dein Gehirn braucht diese Zeit, um sich von der Bindung zu trennen.
 
@@ -67,7 +67,7 @@ Du wirst wahrscheinlich durchleben:
 
 Alle diese Phasen sind Teil des Healing-Prozesses. Sie verlaufen nicht unbedingt in dieser Reihenfolge, und du kannst mehrmals zwischen ihnen hin und her springen. Das ist völlig normal.
 
-## Die Gaslighting-Auswirkungen erkennen und überwinden
+## Die [Gaslighting](/blog/gaslighting-komplett-guide)-Auswirkungen erkennen und überwinden
 
 Eine der tiefsten Wunden nach einer toxischen Beziehung ist der Schaden am Selbstwertgefühl und Vertrauen in deine Wahrnehmung. Wenn du gaslighting erlebt hast, hast du gelernt, deinen eigenen Erfahrungen zu misstrauen. Deine Expartnerin oder dein Expartner hat dir vielleicht gesagt: „Das ist nie passiert" oder „Du bist übertrieben" oder „Das war nur ein Witz, warum nimmst du alles so ernst?"
 

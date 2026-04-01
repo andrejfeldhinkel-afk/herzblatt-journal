@@ -118,7 +118,7 @@ Angenommen, du triffst jemanden und ihr wollt zusammen sein. Das erste Gespräch
 
 Du: "Ich mag dich wirklich. Aber ich möchte ehrlich über meinen Beziehungsstil sein. Ich bin Solo-Polyamor. Das bedeutet, dass ich nicht monogam bin und ich nicht mit jemandem zusammenleben möchte. Ich habe mehrere romantische/sexuelle Beziehungen und das wird wahrscheinlich fortgesetzt. Ich weiß, dass das nicht für alle funktioniert. Ich wollte nur ehrlich sein, bevor wir weiter gehen."
 
-Das ist direkt. Das ist klar. Und das gibt der anderen Person eine Chance, "Nein" zu sagen BEVOR sie verliebt wird.
+Das ist direkt. Das ist klar. Und das gibt der anderen Person eine Chance, "Nein" zu sagen BEVOR sie [verliebt](/blog/mann-verliebt-anzeichen-komplett) wird.
 
 Einige Menschen werden sagen "Nein, das ist nicht für mich" und dich verlassen.
 

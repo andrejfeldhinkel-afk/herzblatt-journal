@@ -26,7 +26,7 @@ Das ist Zombieing.
 
 Zombieing ist, wenn jemand, mit dem du datierst (oder datiert), einfach verschwindet. Ghostet dich. Und dann, aus dem Nichts, ohne Erklärung, kommt zurück.
 
-Das unterscheidet sich vom Ghosting:
+Das unterscheidet sich vom [Ghosting](/blog/ghosting-komplett-guide):
 - **Ghosting:** Sie/er ist weg und bleibt weg.
 - **Zombieing:** Sie/er ist weg, aber kommt wieder.
 

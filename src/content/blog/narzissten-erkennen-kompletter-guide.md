@@ -73,7 +73,7 @@ Ein Beispiel: Ein maligner Narzisst weiß genau, dass du Verlustangst hast. Er w
 
 Dies sind die gefährlichsten Narzissten. Wenn du mit einem malignen Narzissten zusammen bist, ist Vorsicht geboten.
 
-## Warnsignale 1-5: Die Anfangsphase – Love Bombing und Idealisierung
+## Warnsignale 1-5: Die Anfangsphase – [Love Bombing](/blog/love-bombing-erkennen-schuetzen) und Idealisierung
 
 Die erste Phase einer Beziehung mit einem Narzissten fühlt sich wie ein Märchen an. Das ist beabsichtigt. Narzissten wissen, wie man mit der Psychologie der Verliebung spielt.
 
@@ -105,7 +105,7 @@ Das klingt schön, aber es ist ein klassischer Anfang der Manipulation. Er samme
 
 Während der Love-Bombing-Phase beginnt der Narzisst subtil, dich von deinen Freunden und deiner Familie zu entfernen. "Deine Freunde verstehen dich nicht wie ich", oder "Deine Familie ist toxisch, lass uns mehr Zeit nur zu zweit verbringen". Du merkst nicht, dass es passiert, weil es sich natürlich anfühlt – du vergibst ohnehin mehr Zeit mit dieser faszinierenden neuen Person.
 
-## Warnsignale 6-10: Die Kontrollphase – Isolation, Gaslighting und psychologische Manipulation
+## Warnsignale 6-10: Die Kontrollphase – Isolation, [Gaslighting](/blog/gaslighting-komplett-guide) und psychologische Manipulation
 
 Nach der Love-Bombing-Phase beginnt der zweite Akt. Der Narzisst hat dich jetzt – du bist emotional investiert. Jetzt kann er seine Maske teilweise abnehmen. Die Kontrolle beginnt subtil.
 

@@ -18,7 +18,7 @@ author: "sarah-kellner"
 
 # Interkulturelle Beziehungen: Liebe ohne Grenzen
 
-Die Welt ist kleiner geworden. Du triffst Menschen aus unterschiedlichen Kulturen im Café, auf der Arbeit, online. Und manchmal fällst du in jemanden aus einer ganz anderen Kultur verliebt. Das ist aufregend – und auch herausfordernd.
+Die Welt ist kleiner geworden. Du triffst Menschen aus unterschiedlichen Kulturen im Café, auf der Arbeit, online. Und manchmal fällst du in jemanden aus einer ganz anderen Kultur [verliebt](/blog/mann-verliebt-anzeichen-komplett). Das ist aufregend – und auch herausfordernd.
 
 Eine interkulturelle Beziehung ist nicht einfach eine normale Beziehung mit Schwierigkeiten. Sie bringt eine ganz neue Dimension hinzu. Es geht nicht nur um persönliche Kompatibilität, sondern auch um kulturelle Kompatibilität. Und das ist komplexer.
 

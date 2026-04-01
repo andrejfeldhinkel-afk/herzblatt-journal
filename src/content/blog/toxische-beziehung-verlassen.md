@@ -52,7 +52,7 @@ Das fünfte Zeichen ist Unvorhersehbarkeit. Du weißt nie, welche Version deines
 
 Das sechste Zeichen ist Schuld. Du wirst für alles verantwortlich gemacht – seine/ihre Gefühle, sein/ihre Verhalten, sein/ihre Entscheidungen. "Wenn du das nicht getan hättest, hätte ich das nicht machen müssen."
 
-Das siebente Zeichen ist Gaslighting. Deine Wahrnehmung wird in Frage gestellt. Du fragst dich, ob du verrückt bist.
+Das siebente Zeichen ist [Gaslighting](/blog/gaslighting-komplett-guide). Deine Wahrnehmung wird in Frage gestellt. Du fragst dich, ob du verrückt bist.
 
 Das achte Zeichen ist Untreue oder emotionale Affären. Dein Partner hat Sex oder tiefe emotionale Verbindungen mit anderen Menschen und macht dich verantwortlich für die Schuld und Schmerz, die es verursacht.
 
@@ -88,7 +88,7 @@ Die Kombination dieser Dinge schafft ein perfektes Sturm, der es dir unmöglich 
 
 In einer toxischen Beziehung beginnt dein Gehirn, sich an den Missbrauch anzupassen. Das nennt sich "Traumabond" oder "Intermittent Reinforcement."
 
-Hier ist, wie es funktioniert: Dein Partner ist schrecklich zu dir – 80% der Zeit. Aber 20% der Zeit ist er/sie wunderbar. Diese 20% sind lebensverändernd. Du wirst verliebt.
+Hier ist, wie es funktioniert: Dein Partner ist schrecklich zu dir – 80% der Zeit. Aber 20% der Zeit ist er/sie wunderbar. Diese 20% sind lebensverändernd. Du wirst [verliebt](/blog/mann-verliebt-anzeichen-komplett).
 
 Dein Gehirn beginnt, diesen Zyklus zu erwarten. Der Missbrauch ist schrecklich, aber dann kommt die Liebe. Der Missbrauch ist schrecklich, dann kommt die Liebe. Mit der Zeit wird dein Gehirn abhängig von dieser emotionalen Achterbahn.
 

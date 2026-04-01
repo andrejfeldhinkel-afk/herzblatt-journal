@@ -113,7 +113,7 @@ Einer der häufigsten Fehler ist, zu viel über dich selbst zu reden. Du hast nu
 
 Ein weiterer Fehler ist zu kritisch zu sein. Auch wenn die Person nicht perfekt ist, sei respektvoll. Sätze wie "Das interessiert mich nicht" oder Kritik am Äußeren sind nicht hilfreich und wirken unhöflich. Es ist besser, einfach weiterzumachen.
 
-Viele Menschen machen auch den Fehler, zu viele Erwartungen an Speed Dating zu haben. Sie erwarten, ihre Seelenpartner zu finden. Realistischerweise geht es eher darum, Menschen zu treffen und vielleicht ein oder zwei spannende Kontakte zu machen. Mit diesem realistischerem Mindset wird das Event viel angenehmer.
+Viele Menschen machen auch den Fehler, zu viele Erwartungen an Speed Dating zu haben. Sie erwarten, ihre [Seelenpartner](/blog/seelenpartner-erkennen-zeichen) zu finden. Realistischerweise geht es eher darum, Menschen zu treffen und vielleicht ein oder zwei spannende Kontakte zu machen. Mit diesem realistischerem Mindset wird das Event viel angenehmer.
 
 Ein großer Fehler ist auch mangelnde Vorbereitung. Wenn du unvorbereitet hingst, wirst du in jedem Gespräch unsicher wirken. Fünf Minuten Vorbereitung – die Gedanken klären, ein paar Sätze über dich überlegen – kann einen großen Unterschied machen.
 
@@ -141,7 +141,7 @@ Online Speed Dating kann sehr erfolgreich sein, wenn du dich darauf konzentriers
 
 Wie erfolgreich ist Speed Dating wirklich? Die Quoten variieren, aber Studien zeigen, dass etwa 20-50% der Teilnehmer mindestens eine erfolgreiche Verbindung machen (also ein gegenseitiges Match). Von diesen wiederum führen etwa 20-30% zu tatsächlichen Dates.
 
-Diese Quoten mögen niedrig erscheinen, aber sie sind tatsächlich besser als bei vielen anderen Dating-Methoden. Bei Online-Dating ist es schwierig zu sagen, wie viel Prozent der Matches zu tatsächlichen Dates führen, aber viele Nutzer berichten von Frustration und einer großen Menge an "Ghosting".
+Diese Quoten mögen niedrig erscheinen, aber sie sind tatsächlich besser als bei vielen anderen Dating-Methoden. Bei Online-Dating ist es schwierig zu sagen, wie viel Prozent der Matches zu tatsächlichen Dates führen, aber viele Nutzer berichten von Frustration und einer großen Menge an "[Ghosting](/blog/ghosting-komplett-guide)".
 
 Der Schlüssel ist, die Erwartungen realistisch zu halten und mehrmals an Speed Dating Events teilzunehmen. Mit jeder Erfahrung wirst du besser darin, gute Gespräche zu führen und Menschen einzuschätzen. Viele Menschen treffen ihre Partnerin oder ihren Partner beim dritten oder vierten Event, nicht beim ersten.
 

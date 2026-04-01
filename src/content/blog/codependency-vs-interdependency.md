@@ -50,7 +50,7 @@ Das Paradoxe über Interdependenz ist, dass sie tatsächlich zu tieferer Verbind
 
 ### 2. Grenzen
 
-**Co-Abhängigkeit:** Du hast keine oder sehr schwache Grenzen. Du teilst deine Partner sein Leben – du schaust sein Telefon, du weißt all seine Passwörter, du hast keine Privatsphäre. Oder umgekehrt – dein Partner hat keine Grenzen und du erlaubst invasivem Verhalten. Du setzt Grenzen nur, um wieder verliebt zu werden, nicht weil es echte Grenzen sind.
+**Co-Abhängigkeit:** Du hast keine oder sehr schwache Grenzen. Du teilst deine Partner sein Leben – du schaust sein Telefon, du weißt all seine Passwörter, du hast keine Privatsphäre. Oder umgekehrt – dein Partner hat keine Grenzen und du erlaubst invasivem Verhalten. Du setzt Grenzen nur, um wieder [verliebt](/blog/mann-verliebt-anzeichen-komplett) zu werden, nicht weil es echte Grenzen sind.
 
 **Interdependenz:** Du hast klare, konsistente Grenzen. Du weißt, was okay für dich ist und was nicht. Du kommunizierst diese Grenzen liebevoll, aber standhaft. Wenn dein Partner deine Grenzen respektiert, vertieft sich die Intimität. Wenn dein Partner deine Grenzen nicht respektiert, überprüfst du die Beziehung. Dein Partner hat auch Grenzen und du respektierst sie.
 

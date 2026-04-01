@@ -22,7 +22,7 @@ faq:
     answer: "Ganz verhindern kannst du es nicht. Aber achte auf Warnsignale: Jemand, der nur sporadisch schreibt, Treffen ständig verschiebt oder nie über persönliche Dinge redet, ist eher ein Ghosting-Kandidat."
 ---
 
-Du kennst das: Eine Person, mit der du sprichst, mit der du dich wirklich verbunden gefühlt hast — und dann, aus dem Nichts, Funkstille. Das ist Ghosting. Und es tut weh auf eine Weise, die schwer zu erklären ist. Die Enttäuschung ist groß, aber die Verwirrung ist noch größer. Du weißt nicht, was passiert ist. Dann geht es dir wie vielen anderen — und das Wiedereingehen ins Dating nach einer Ghosting-Erfahrung ist dabei ein zentraler Faktor, den du nicht ignorieren solltest. In diesem Artikel zeigen wir dir, wie du damit umgehen kannst und wieder vertrauen lernst.
+Du kennst das: Eine Person, mit der du sprichst, mit der du dich wirklich verbunden gefühlt hast — und dann, aus dem Nichts, Funkstille. Das ist [Ghosting](/blog/ghosting-komplett-guide). Und es tut weh auf eine Weise, die schwer zu erklären ist. Die Enttäuschung ist groß, aber die Verwirrung ist noch größer. Du weißt nicht, was passiert ist. Dann geht es dir wie vielen anderen — und das Wiedereingehen ins Dating nach einer Ghosting-Erfahrung ist dabei ein zentraler Faktor, den du nicht ignorieren solltest. In diesem Artikel zeigen wir dir, wie du damit umgehen kannst und wieder vertrauen lernst.
 
 ## Der Schock, der bleibt
 
@@ -68,7 +68,7 @@ Der Heilungsprozess:
 
 **Phase 3: Reflektiere (aber nicht obsessiere)** (Wochen 4-8) — War es ein Date? War es nur Texten? Was hast du gelernt? Musst du etwas über dein Verhalten ändern, oder war es einfach eine Inkompatibilität? Aber obsessiere nicht: "Warum, warum, warum?" — Das ist ein Loch ohne Grund.
 
-**Phase 4: Gib dir selbst Gnade** (Wochen 8+) — Vergib dir dafür, dass du dich in diese Person verliebt hast. Es war nicht dumm. Es war menschlich. Es war richtig, jemanden zu vertrauen. Die andere Person war einfach nicht würdig dieses Vertrauens.
+**Phase 4: Gib dir selbst Gnade** (Wochen 8+) — Vergib dir dafür, dass du dich in diese Person [verliebt](/blog/mann-verliebt-anzeichen-komplett) hast. Es war nicht dumm. Es war menschlich. Es war richtig, jemanden zu vertrauen. Die andere Person war einfach nicht würdig dieses Vertrauens.
 
 Du bist bereit, zurückzukommen, wenn du dich sagen kannst: "Das tat weh. Aber es war nicht meine Schuld. Und es wird nicht mehr passieren" — nicht, weil du dich abschottst, sondern weil du gelernt hast, rote Flaggen zu erkennen.
 
@@ -96,7 +96,7 @@ Ganz verhindern lässt sich Ghosting nicht. Aber bestimmte Muster deuten auf ein
 
 **Keine Antwort auf emotionale oder tiefere Fragen** — Du fragst "Was ist dir wichtig im Leben?" und bekommst nur "lol idk". Das ist nicht die Person für dich.
 
-**Red Flags in ihrer Kommunikation** — Sie sagen abfällige Dinge über Exen, sie spielen Spielchen mit der Zeit zwischen Nachrichten, sie schreiben kryptisch. Das sind Zeichen von Unreife.
+**[Red Flags](/blog/dating-red-flags-maenner-erkennen) in ihrer Kommunikation** — Sie sagen abfällige Dinge über Exen, sie spielen Spielchen mit der Zeit zwischen Nachrichten, sie schreiben kryptisch. Das sind Zeichen von Unreife.
 
 ## Vertrauen ist eine Entscheidung — Der schwierigste Schritt
 

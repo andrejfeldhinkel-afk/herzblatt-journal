@@ -25,7 +25,7 @@ faq:
 
 Du fragst dich, ob er dich wirklich liebt. Nicht ob er dich mag. Nicht ob er dich attraktiv findet. Sondern ob er dich wirklich liebt.
 
-Das ist eine berechtigte Frage. Viele Frauen erkennen nicht die Unterschied zwischen Verliebtheit und echter Liebe. Ein Mann kann verliebt in dich sein und dich trotzdem nicht lieben. Er kann dich lieben und es nicht zeigen. Er kann sagen, dass er dich liebt und die Wörter nicht meinen.
+Das ist eine berechtigte Frage. Viele Frauen erkennen nicht die Unterschied zwischen Verliebtheit und echter Liebe. Ein Mann kann [verliebt](/blog/mann-verliebt-anzeichen-komplett) in dich sein und dich trotzdem nicht lieben. Er kann dich lieben und es nicht zeigen. Er kann sagen, dass er dich liebt und die Wörter nicht meinen.
 
 Die Wahrheit: Echte Liebe zeigt sich in Handlungen, nicht in Worten. Ein Mann, der dich wirklich liebt, wird es durch sein Verhalten zeigen, nicht nur durch schöne Worte.
 

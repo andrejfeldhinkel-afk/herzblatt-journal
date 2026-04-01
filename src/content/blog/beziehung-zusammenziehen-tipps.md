@@ -23,7 +23,7 @@ Zusammenziehen: Der große Beziehungsschritt richtig geplant
 
 Es ist ein Meilenstein, über den viele Paare nachdenken: Zusammenziehen. Aus verschiedenen Gründen – um näher beisammen zu sein, um Geld zu sparen, weil die Beziehung sich so anfühlt, als wäre es das Nächste.
 
-Aber zusammenziehen ist ein großer Schritt. Es ist nicht einfach, nach der Arbeit zu deinem Partner zu gehen – es ist, jeden Tag mit ihm zu leben. Seine Gewohnheiten zu sehen. Seine Art zu sehen, den Haushalt zu führen. Mit ihm zusammen zu sein, wenn ihr beide müde seid.
+Aber [zusammenziehen](/blog/zusammenziehen-checkliste) ist ein großer Schritt. Es ist nicht einfach, nach der Arbeit zu deinem Partner zu gehen – es ist, jeden Tag mit ihm zu leben. Seine Gewohnheiten zu sehen. Seine Art zu sehen, den Haushalt zu führen. Mit ihm zusammen zu sein, wenn ihr beide müde seid.
 
 Mit guter Planung und Kommunikation kann das wunderbar sein. Ohne diese Dinge kann es chaotisch werden.
 

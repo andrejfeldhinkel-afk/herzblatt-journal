@@ -13,7 +13,7 @@ tags:
   - "Online-Dating"
 keywords: ["warum ghosten menschen", "ghosting psychologie", "warum ghostet er"]
 ---
-Du hattest gerade noch eine tolle Unterhaltung. Die Chemie war spürbar. Und dann — Stille. Keine Nachrichten, keine Erklärung, kein Echo. Ghosting ist verletzend, frustrierend und hinterlässt dich mit so vielen unbeantworteten Fragen. Aber warum machen Menschen das überhaupt? Was geht in ihrem Kopf vor? Ich werde dir die unbequeme Wahrheit zeigen.
+Du hattest gerade noch eine tolle Unterhaltung. Die Chemie war spürbar. Und dann — Stille. Keine Nachrichten, keine Erklärung, kein Echo. [Ghosting](/blog/ghosting-komplett-guide) ist verletzend, frustrierend und hinterlässt dich mit so vielen unbeantworteten Fragen. Aber warum machen Menschen das überhaupt? Was geht in ihrem Kopf vor? Ich werde dir die unbequeme Wahrheit zeigen.
 
 ## Die Psychologie des Ghosting: Warum Menschen einfach verschwinden
 

@@ -30,7 +30,7 @@ Du fragst dich: „Ist diese Person die Richtige? Oder ignoriere ich rote Flagge
 
 Die Kultur redet viel über rote Flaggen, aber grüne Flaggen sind genauso wichtig. Sie sind die Zeichen, die dir sagen: „Ja, diese Person respektiert dich, kommuniziert ehrlich und ist bereit, eine echte Beziehung zu bauen." Lerne, diese Zeichen zu erkennen, und du wirst niemals mehr an der Seitenlinie deines eigenen Lebens stehen.
 
-Verwandt: [Dating Red Flags: Der komplette Guide zur Erkennung toxischer Partner](/blog/dating-red-flags-komplett-guide) hilft dir, die andere Seite der Medaille zu verstehen.
+Verwandt: [Dating [Red Flags](/blog/dating-red-flags-maenner-erkennen): Der komplette Guide zur Erkennung toxischer Partner](/blog/dating-red-flags-komplett-guide) hilft dir, die andere Seite der Medaille zu verstehen.
 
 ## Green Flag #1: Sie kommuniziert offen und ehrlich
 

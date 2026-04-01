@@ -275,7 +275,7 @@ Bevor du ein Date triffst, sei weise.
 
 ### Emotionale Sicherheit
 
-- Sei wachsam für Love Bombing (zu schnell zu viel Aufmerksamkeit)
+- Sei wachsam für [Love Bombing](/blog/love-bombing-erkennen-schuetzen) (zu schnell zu viel Aufmerksamkeit)
 - Wenn sie dich um Geld fragt, ist es ein Scam
 - Wenn die Chemie online null ist, wird sie persönlich nicht besser sein
 - Trau deinen Instinkten

@@ -149,7 +149,7 @@ Das ist das Gegenteil von "Ich habe Recht, du hast Unrecht". Das ist "Interessan
 
 Wenn das Funken Gespräch fließt und ihr beide einander intellektuell fasziniert: Das ist deine Chemie.
 
-## Sapiosexuell sein und sich verliebt — Das langfristige Bild
+## Sapiosexuell sein und sich [verliebt](/blog/mann-verliebt-anzeichen-komplett) — Das langfristige Bild
 
 Wenn ihr eine Beziehung entwickelt, wird es wichtig sein, intellektuelle Stimulation zu kultivieren. Das bedeutet nicht, dass ihr jede Nacht Philosophie diskutieren müsst. Das bedeutet: Ihr bleibt neugierig aufeinander. Ihr lernt zusammen. Ihr haut neue Ideen raus und hört einander zu.
 

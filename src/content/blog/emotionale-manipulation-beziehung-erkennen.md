@@ -61,7 +61,7 @@ Die Psychologin Harriet Braker nennt es den "Trauma-Bond." Ein Trauma-Bond ist e
 
 Hier ist wie es funktioniert:
 
-1. Das Honeymoon-Phase: Der Partner ist perfekt. Du bist verliebt. Dein Gehirn schüttet Oxytocin (das "Liebes-Hormon") aus.
+1. Das Honeymoon-Phase: Der Partner ist perfekt. Du bist [verliebt](/blog/mann-verliebt-anzeichen-komplett). Dein Gehirn schüttet Oxytocin (das "Liebes-Hormon") aus.
 
 2. Die Zergliederungs-Phase: Der Partner manipuliert, kritisiert oder verletzt dich. Stress-Hormone werden freigesetzt. Dein Körper ist in Angst.
 
@@ -83,7 +83,7 @@ Dies zu verstehen, ist hilfreich, wenn du versuchst zu verlassen oder dir zu fra
 
 Hier sind die Techniken, die Manipulatoren verwenden. Sie sind subtil. Sie sind effektiv. Und viele Menschen kennen sie nicht einmal, wenn sie ihnen passieren.
 
-**1. Gaslighting**
+**1. [Gaslighting](/blog/gaslighting-komplett-guide)**
 
 Das ist vielleicht die destructivste. Gaslighting ist, wenn jemand dich dazu bringt, deine Realität zu zweifeln.
 
@@ -117,7 +117,7 @@ Ihr: "Wirklich? Und wie oft hast du mich beleidigt? Du bist so kritisch."
 
 Deine ursprüngliche Beschwerde wird umgekehrt. Jetzt musst du dich verteidigen, statt dass er sich deiner Beschwerde stellt.
 
-**4. Love Bombing**
+**4. [Love Bombing](/blog/love-bombing-erkennen-schuetzen)**
 
 Der Partner überschüttet dich mit Aufmerksamkeit, Geschenken, Komplimenten — alles übertrieben und überwältigend.
 

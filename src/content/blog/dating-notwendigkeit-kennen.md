@@ -46,7 +46,7 @@ Das ist schön zu haben. Aber es ist nicht essential.
 
 Das ist nicht verhandelbar. Das ist die Foundation.
 
-**Red Flags** sind die Dinge, die instant-Deals sind, die dich sagen sollten: Gehe weg.
+**[Red Flags](/blog/dating-red-flags-maenner-erkennen)** sind die Dinge, die instant-Deals sind, die dich sagen sollten: Gehe weg.
 
 Das ist jemand, der manipulativ ist. Das ist jemand, der aggressive ist. Das ist jemand, der deine Grenzen nicht respektiert.
 

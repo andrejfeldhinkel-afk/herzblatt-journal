@@ -126,7 +126,7 @@ Hier ist eine Liste mit verschiedenen Emotionen:
 - **Traurigkeit:** niedergeschlagen, leer, hoffnungslos, enttäuscht, traurig, betrübt
 - **Angst:** nervös, ängstlich, panisch, besorgnisvoll, angespannt, bedroht
 - **Wut:** gereizt, wütend, verbitert, frustriert, zornig, aufgebracht
-- **Liebe/Zuneigung:** verliebt, dankbar, geborgen, geachtet, beschützt, warm
+- **Liebe/Zuneigung:** [verliebt](/blog/mann-verliebt-anzeichen-komplett), dankbar, geborgen, geachtet, beschützt, warm
 - **Überraschung:** überrascht, schockiert, verblüfft, unerwartet erfreut
 - **Ekel:** angewidert, verabscheut, unwohl, unwillig, abgestoßen
 - **Verwirrung:** verwirrt, desorientiert, ratlos, unsicher, durcheinander
@@ -363,7 +363,7 @@ Und wenn jemand dich fragt, kannst du sagen "Ich bin heute bei einer 6" — und 
 
 Einmal pro Woche, schreibe eine kurze Geschichte über einen Moment, in dem du ein starkes Gefühl hattest. Schreibe nicht darüber, was passierte, sondern darüber, wie es sich anfühlte.
 
-"Heute, als mein Chef kritik an meiner Arbeit gab, fühlte ich mich klein und unzureichend. Es war, als würde etwas in meiner Brust zusammenziehen. Ich wollte mich verteidigen, aber ich war auch dünn und verletzlich. Ich verließ das Büro und setzte mich in mein Auto für zehn Minuten, nur um zu atmen."
+"Heute, als mein Chef kritik an meiner Arbeit gab, fühlte ich mich klein und unzureichend. Es war, als würde etwas in meiner Brust [zusammenziehen](/blog/zusammenziehen-checkliste). Ich wollte mich verteidigen, aber ich war auch dünn und verletzlich. Ich verließ das Büro und setzte mich in mein Auto für zehn Minuten, nur um zu atmen."
 
 Das mag unbequem klingen. Das ist okay. Das ist der Punkt. Die Unbequemlichkeit ist eine Zeichen, dass du in ein neues Territorium vordringst.
 

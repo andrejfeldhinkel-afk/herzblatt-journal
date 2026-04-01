@@ -118,7 +118,7 @@ Ich kenne so viele Menschen, die jahrelang bei jemandem sind, obwohl sie tief dr
 
 Achtsam sein heißt auch: In deine eigenen Grenzen reinspüren. Und sie respektieren.
 
-### Achtsamkeit beim Ghosting und der Verabredung
+### Achtsamkeit beim [Ghosting](/blog/ghosting-komplett-guide) und der Verabredung
 
 Hier ist noch ne kontroverse Sache, bei der Achtsamkeit hilft.
 
@@ -172,7 +172,7 @@ Man kann es trainieren. Es ist wie ein Muskel. Je öfter du versuchst präsent z
 
 ## Weiterlesen
 
-- [Hochsensibel und verliebt: So gelingt die Beziehung](/blog/hochsensibel-lieben-tipps)
+- [Hochsensibel und [verliebt](/blog/mann-verliebt-anzeichen-komplett): So gelingt die Beziehung](/blog/hochsensibel-lieben-tipps)
 - [Neuen Partner den Kindern vorstellen: So geht''s richtig](/blog/alleinerziehend-partner-vorstellen)
 - [Den Alltag als Paar liebevoll gestalten](/blog/alltag-als-paar-gestalten)
 

@@ -134,7 +134,7 @@ Das ist die gute Nachricht: Beutescemas können verändert werden. Es braucht Be
 
 **Schritt 1: Erkenne das Muster**
 
-Schreib auf wer deine letzten fünf romantischen Interesse waren. Nicht nur Partner sondern auch Menschen in die du verliebt warst. Was haben sie gemeinsam? Sei brutal ehrlich. Nicht „naja verschiedene Menschen" sondern real was haben sie gemeinsam?
+Schreib auf wer deine letzten fünf romantischen Interesse waren. Nicht nur Partner sondern auch Menschen in die du [verliebt](/blog/mann-verliebt-anzeichen-komplett) warst. Was haben sie gemeinsam? Sei brutal ehrlich. Nicht „naja verschiedene Menschen" sondern real was haben sie gemeinsam?
 
 Warst du immer der/die die mehr wollte? Waren sie immer „zu beschäftigt"? Waren sie immer emotional distanziert?
 

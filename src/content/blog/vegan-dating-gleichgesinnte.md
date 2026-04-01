@@ -109,7 +109,7 @@ Freiwilligenarbeit. Das ist nicht nur eine Gelegenheit, etwas Gutes zu tun, sond
 
 ## Die Conversation über zusammenleben: Die echte Prüfung
 
-Wenn eure Beziehung seriös wird und ihr zusammenziehen wollt, kommt die echte Prüfung.
+Wenn eure Beziehung seriös wird und ihr [zusammenziehen](/blog/zusammenziehen-checkliste) wollt, kommt die echte Prüfung.
 
 **Szenarien, die aufkommen:**
 

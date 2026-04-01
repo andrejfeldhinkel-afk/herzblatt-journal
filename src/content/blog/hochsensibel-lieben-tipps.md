@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Hochsensibel und verliebt: Navigiere Liebe und Beziehungen mit tiefen Gefühlen
+# Hochsensibel und [verliebt](/blog/mann-verliebt-anzeichen-komplett): Navigiere Liebe und Beziehungen mit tiefen Gefühlen
 
 Hochsensibilität ist keine Schwäche und keine psychische Erkrankung. Es ist eine Persönlichkeitseigenschaft, bei der dein Nervensystem stimuli intensiver verarbeitet. Du siehst, hörst und FÜHLST mehr.
 

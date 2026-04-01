@@ -32,7 +32,7 @@ Die gute Nachricht ist: Es gibt konkrete Taktiken, die du lernen kannst, um Mani
 
 ## Gaslighting: Die Verwirrtaktik Nummer Eins
 
-Gaslighting ist eine der destruktivsten Manipulationstaktiken. Dein Partner macht dich glauben, dass deine Wahrnehmung falsch ist, deine Erinnerungen unzuverlässig sind oder dass du überreagierst. Er könnte beispielsweise leugnen, etwas gesagt zu haben, das du deutlich gehört hast. Wenn du protestierst, beschuldigt er dich, es dir "einzubilden". Mit der Zeit beginnst du, dir selbst nicht mehr zu trauen.
+[Gaslighting](/blog/gaslighting-komplett-guide) ist eine der destruktivsten Manipulationstaktiken. Dein Partner macht dich glauben, dass deine Wahrnehmung falsch ist, deine Erinnerungen unzuverlässig sind oder dass du überreagierst. Er könnte beispielsweise leugnen, etwas gesagt zu haben, das du deutlich gehört hast. Wenn du protestierst, beschuldigt er dich, es dir "einzubilden". Mit der Zeit beginnst du, dir selbst nicht mehr zu trauen.
 
 Ein konkretes Beispiel: Du erinnerst dich daran, dass euer Partner versprochen hat, am Samstag mit dir ins Kino zu gehen. Am Samstagmorgen sagt er, er hätte das nie versprochen. Du bist verwirrt und fragst dich, ob du das wirklich falsch verstanden hast. Wenn du dich selbst nicht trauen darfst, verlierst du deine innere Orientierung. Das ist genau das Ziel des Gaslightings. Um dich dagegen zu schützen, dokumentiere wichtige Gespräche. Schreib dir Dinge auf. Vertraue deinen Erinnerungen und hole dir Bestätigung von außen, beispielsweise durch Freunde oder Familie.
 

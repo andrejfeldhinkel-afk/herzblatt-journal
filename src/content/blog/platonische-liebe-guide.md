@@ -96,7 +96,7 @@ Deine Familie könnte sagen: "Das ist so seltsam, dass ihr beide zusammen lebt, 
 
 Das kann belastend sein. Du wünschst dir manchmal, dass die Gesellschaft mehr Raum für diese Art von Liebe hätte — dass es als genauso legitim angesehen würde wie eine romantische Beziehung.
 
-Eine weitere tiefe Herausforderung: Was passiert, wenn einer von euch sich verliebt? Was wenn einer heiraten will und die andere Person nicht? Wie navigiert ihr dann diese neuen Realitäten? Diese Fragen brauchen offene Kommunikation, gegenseitiges Verständnis und Flexibilität.
+Eine weitere tiefe Herausforderung: Was passiert, wenn einer von euch sich [verliebt](/blog/mann-verliebt-anzeichen-komplett)? Was wenn einer heiraten will und die andere Person nicht? Wie navigiert ihr dann diese neuen Realitäten? Diese Fragen brauchen offene Kommunikation, gegenseitiges Verständnis und Flexibilität.
 
 ## Kann platonische Liebe ein ganzes Leben halten?
 

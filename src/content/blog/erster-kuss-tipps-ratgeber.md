@@ -517,7 +517,7 @@ Nach einem großartigen ersten Kuss, werden deine Gefühle überwältigend sein.
 **Das ist auch normal, aber weniger hilfreich:**
 
 - Du planierst Hochzeitspläne mental
-- Du sagst deinen Freunden, dass du "verliebt" bist (es war EIN Kuss)
+- Du sagst deinen Freunden, dass du "[verliebt](/blog/mann-verliebt-anzeichen-komplett)" bist (es war EIN Kuss)
 - Du fragst ständig, was die andere Person fühlt
 - Du versuchst, den nächsten Kuss zu erzwingen
 

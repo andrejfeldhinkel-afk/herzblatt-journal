@@ -122,7 +122,7 @@ Sei präsent. Setz das Handy weg. Schau die Person an. Das ist eine Form von Int
 
 Teile echte Dinge über dich. Nicht sofort deine gesamte Lebensgeschichte, aber echte kleine Wahrheiten. Das macht dich menschlich und zugänglich. Es inspiriert den anderen, auch tiefer zu gehen.
 
-Das ist subtiler als „Du siehst toll aus! Ich bin so verliebt!" Aber es ist authentischer. Und authentisch ist viel attraktiver.
+Das ist subtiler als „Du siehst toll aus! Ich bin so [verliebt](/blog/mann-verliebt-anzeichen-komplett)!" Aber es ist authentischer. Und authentisch ist viel attraktiver.
 
 Ein Beispiel: Statt zu sagen „Ich mag deine Persönlichkeit", könntest du sagen „Mir gefällt, wie du über deine Arbeit sprichst. Das zeigt, dass dir dinge wichtig sind."
 

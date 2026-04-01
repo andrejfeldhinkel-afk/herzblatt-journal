@@ -245,7 +245,7 @@ Die Planung eines Urlaubs zusammen kann genauso viel Spaß sein wie der Urlaub s
 
 Diese gemeinsame Planung gibt euch Aufregung und Vorfreude. Mit der Zeit werdet ihr es kaum erwarten können, zusammen zu reisen.
 
-## 30. Schreib deinem Partner einen Liebesbrief von ganzen Herzen
+## 30. Schreib deinem Partner einen [Liebesbrief](/blog/liebesbrief-schreiben-anleitung) von ganzen Herzen
 
 Die letzte Idee ist vielleicht die wichtigste: Schreib deinem Partner einen echten, von Herzen kommenden Liebesbrief. Nicht nur ein paar Sätze, sondern etwas Längeres, das all deine Gefühle ausdrückt.
 

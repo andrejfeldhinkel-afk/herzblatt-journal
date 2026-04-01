@@ -192,7 +192,7 @@ Einige Best Practices:
 
 **Schriftliche Grenzen:** Manche Paare schreiben ihre Grenzen auf. "Wir schlafen nicht mit Freunden." "Wir informieren den anderen, bevor wir mit jemandem schlafen." "Wir benutzen Kondome, und wir werden getestet." Diese Klarheit nimmt Raum für Missverständnisse und Eifersucht.
 
-**Regeln über Emotionalität:** Die wichtigste Grenze ist oft nicht die sexuelle, sondern die emotionale. Viele Paare sagen: "Okay, ihr könnt mit anderen Menschen schlafen. Aber verliebt euch nicht." Das ist schwer durchzusetzen, aber es zeigt, wo der Schmerz liegt – nicht im Sex, sondern in der Angst vor emotionaler Ersetzung.
+**Regeln über Emotionalität:** Die wichtigste Grenze ist oft nicht die sexuelle, sondern die emotionale. Viele Paare sagen: "Okay, ihr könnt mit anderen Menschen schlafen. Aber [verliebt](/blog/mann-verliebt-anzeichen-komplett) euch nicht." Das ist schwer durchzusetzen, aber es zeigt, wo der Schmerz liegt – nicht im Sex, sondern in der Angst vor emotionaler Ersetzung.
 
 ## Wann ist Eifersucht ein Zeichen für tiefere Probleme?
 

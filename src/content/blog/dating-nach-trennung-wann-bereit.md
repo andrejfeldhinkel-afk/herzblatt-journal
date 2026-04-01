@@ -101,7 +101,7 @@ Hilfreiche Ressourcen findest du bei Bundesamt für Sicherheit in der Informatio
 
 4. **Achte auf deine Trigger:** Wenn bestimmte Situation oder Menschen dich an deinen Ex erinnern oder dich emotional triggern, notiere das. Das ist Information für dein Heilungsprozess.
 
-5. **Gib deinem Herzen Zeit:** Nur weil du bereit bist zu daten, bedeutet das nicht, dass du sofort verliebt werden möchtest. Das ist okay.
+5. **Gib deinem Herzen Zeit:** Nur weil du bereit bist zu daten, bedeutet das nicht, dass du sofort [verliebt](/blog/mann-verliebt-anzeichen-komplett) werden möchtest. Das ist okay.
 
 ## Die Gefahr von "Rebound"-Dating
 

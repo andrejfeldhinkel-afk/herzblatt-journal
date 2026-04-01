@@ -305,7 +305,7 @@ Dies ist eine wichtige Unterschied zu verstehen. Viele Menschen verwechseln Lime
 - Basiert auf Idealisierung, nicht auf echtem Wissen
 - Führt zu irrationalen Verhalten
 - Geht vorbei (normalerweise nach 2-3 Jahren)
-- Ist einseitig möglich (du kannst verliebt sein, ohne dass die andere Person es ist)
+- Ist einseitig möglich (du kannst [verliebt](/blog/mann-verliebt-anzeichen-komplett) sein, ohne dass die andere Person es ist)
 
 **Echte Liebe:**
 - Ist stabil und bewusst
@@ -377,12 +377,12 @@ Das Twin-Flame-Konzept ist perfekt für Menschen mit anxious attachment. Es gibt
 
 Die Lösung: Entwickle dein Selbstwertgefühl. Das ist nicht egoistisch – das ist notwendig. Wenn du dein Wert nicht von einer anderen Person abhängig machst, wirst du nicht so verletzlich für Twin-Flame-Konzepte.
 
-**Love Bombing und der Honeymoon-Effekt**
+**[Love Bombing](/blog/love-bombing-erkennen-schuetzen) und der Honeymoon-Effekt**
 Love Bombing ist, wenn jemand dich am Anfang mit Aufmerksamkeit und Liebe überwältigt. Es fühlt sich magisch an. Das ist das "Stadium 1" des Twin-Flame-Konzepts.
 
 Aber Love Bombing ist oft ein Manipulation-Taktik. Es ist nicht echte Liebe. Es ist eine Weise, dich in die Beziehung zu ziehen, damit die Person dich später kontrollieren kann.
 
-Das Twin-Flame-Konzept verhindert, dass du die Red Flags siehst. "Das ist nur, wie Twin Flames sich verlieben – intensiv und schnell."
+Das Twin-Flame-Konzept verhindert, dass du die [Red Flags](/blog/dating-red-flags-maenner-erkennen) siehst. "Das ist nur, wie Twin Flames sich verlieben – intensiv und schnell."
 
 Die Lösung: Verstehe Love Bombing. Wenn etwas zu schön zu sein scheint, um wahr zu sein, ist es wahrscheinlich. Echte Liebe baut langsam auf, nicht sofort.
 

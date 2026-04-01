@@ -585,7 +585,7 @@ Das macht es zur Routine, nicht zu etwas Besonderem.
 
 **Schritt 4: Ein Buch lesen oder einen Kurs machen — zusammen**
 
-Es gibt tausende Bücher über Beziehungen. Vielleicht "Gewaltfreie Kommunikation" von Marshall Rosenberg. Oder "The 5 Love Languages" von Gary Chapman. Oder einen Online-Kurs über Paarkommunikation.
+Es gibt tausende Bücher über Beziehungen. Vielleicht "Gewaltfreie Kommunikation" von Marshall Rosenberg. Oder "The 5 [Love Languages](/blog/love-languages-komplett-guide)" von Gary Chapman. Oder einen Online-Kurs über Paarkommunikation.
 
 Das ist nicht, weil ihr "kaputt" seid. Das ist, weil ihr einfach mehr Tools haben könnt.
 

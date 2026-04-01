@@ -94,7 +94,7 @@ Es ist nicht immer leicht zu erkennen, ob dein Partner dich emotional erpreßt. 
 
 **Er isoliert dich aktiv.** Wenn dein Partner es dir schwer macht, deine Freunde zu sehen, deine Familie zu besuchen oder Zeit alleine zu verbringen – mit emotionalen Konsequenzen – ist das Erpressung. Isolation ist ein Werkzeug der Kontrolle.
 
-**Du fragst dich oft, ob du die Böse im Szenario bist.** Wenn du regelmäßig denkst: "Bin ich zu kritisch? Bin ich zu egoistisch? Bin ich zu emotional?" – dann ist es möglich, dass er dir sein Narrativ eingeredet hat. Das ist Gaslighting gepaart mit Erpressung.
+**Du fragst dich oft, ob du die Böse im Szenario bist.** Wenn du regelmäßig denkst: "Bin ich zu kritisch? Bin ich zu egoistisch? Bin ich zu emotional?" – dann ist es möglich, dass er dir sein Narrativ eingeredet hat. Das ist [Gaslighting](/blog/gaslighting-komplett-guide) gepaart mit Erpressung.
 
 ## Die verstecktesten Formen: Das toxische Verhalten, das du übersehen könntest
 

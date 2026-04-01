@@ -64,7 +64,7 @@ Das ist für niemanden attraktiv. Das macht dich weniger interessant, nicht mehr
 
 **Du kannst Rot-Flaggen nicht von Rot-Pfeilen unterscheiden.** Ein Rot-Pfeil ist etwas Liebreizendes: Der Mann ist nervös wenn er dich sieht. Die Frau lacht ungewöhnlich viel bei deinen Witzen. Jemand ist unsicher — arbeitet aber daran.
 
-Eine Rot-Flagge ist etwas Gefährliches: Gaslighting. Emotionale Manipulation. Kontrollverhalten. Unverbundenheit. Wenn jemand deine Grenzen wiederholt ignoriert.
+Eine Rot-Flagge ist etwas Gefährliches: [Gaslighting](/blog/gaslighting-komplett-guide). Emotionale Manipulation. Kontrollverhalten. Unverbundenheit. Wenn jemand deine Grenzen wiederholt ignoriert.
 
 Angst allein zu bleiben macht unseren Radar dafür kaputt. "Vielleicht ist das normal. Vielleicht bilde ich mir das ein. Vielleicht bessert es sich wenn ich mehr Verständnis habe."
 

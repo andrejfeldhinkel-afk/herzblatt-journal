@@ -44,7 +44,7 @@ Hochsensibilität ist nicht Schüchternheit oder Angst. Es ist ein natürlicher 
 
 Wenn Sie hochsensibel sind, merken Sie möglicherweise:
 
-- **Sie werden schnell verliebt:** Das Datum Sie mögen und Sie können eintauchen
+- **Sie werden schnell [verliebt](/blog/mann-verliebt-anzeichen-komplett):** Das Datum Sie mögen und Sie können eintauchen
 - **Ablehnung verletzt tiefer:** Wenn sie nicht zurück schreiben, können Sie für Tage darüber denken
 - **Sie überanalysieren:** Eine Nachricht könnte mehrmals bedeuten
 - **Sensory-Dinge beeinflusst Sie:** Ein geschäftiger, lauter Dating-Ort könnte dich überreizen

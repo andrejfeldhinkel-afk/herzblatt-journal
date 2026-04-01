@@ -48,7 +48,7 @@ Wenn es in anderen Gesprächen natürlich kommt: "Was möchte ich langfristig?" 
 Wenn ihr ernsthaft werdet: Ein echtes Gespräch über Zeitplan, Zahlen, Wie.
 
 **Zu spät: Nach 5+ Jahren**
-Wenn ihr zusammenziehen wollt oder heiraten plant, sollte das bereits geklärt sein.
+Wenn ihr [zusammenziehen](/blog/zusammenziehen-checkliste) wollt oder heiraten plant, sollte das bereits geklärt sein.
 
 ## Das erste Gespräch: Wie man es angeht
 

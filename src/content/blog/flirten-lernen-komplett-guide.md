@@ -117,7 +117,7 @@ Einige Zeichen von positiven Flirt-Signalen: Sie lächeln viel. Sie lehnen sich 
 
 Einige Zeichen von negativen oder desinteressierten Signalen: Sie lehnen sich weg. Sie schauen auf ihr Telefon. Sie geben kurze Antworten ohne Gegenfragen. Sie berühren dich nicht. Sie unterbrechen oft dein Gespräch oder zeigen keine Reaktionen.
 
-Es ist wichtig zu verstehen: Wenn du negative Signale siehst, ist es nicht persönlich. Diese Person ist nicht in dich verliebt. Das ist ok. Es ist besser, dies früh zu erkennen und höflich weiterzumachen, als weiter zu pushen und sich selbst zu demütigen.
+Es ist wichtig zu verstehen: Wenn du negative Signale siehst, ist es nicht persönlich. Diese Person ist nicht in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett). Das ist ok. Es ist besser, dies früh zu erkennen und höflich weiterzumachen, als weiter zu pushen und sich selbst zu demütigen.
 
 Deine Aufgabe diese Woche: In jedem Gespräch, bemerk mindestens fünf Körpersprachsignale. Dies wird dir helfen, deine "Signal-Lesefähigkeit" zu entwickeln, die essentiell beim Flirten ist.
 

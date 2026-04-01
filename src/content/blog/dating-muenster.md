@@ -21,7 +21,7 @@ faq:
     answer: "Klassisch: Fahrrad-Tour durch die Stadt oder zum Aasee. Aktiv: Paddeln auf dem Aasee oder Picknick am Ufer. Kulturell: Kunstmuseen oder Dom-Besuch. Gemütlich: Kaffee im Kreuzviertel oder Bier am Hafen. Romantisch: Sonnenuntergang am Aasee."
   - question: "Gibt es eine gute Single-Szene in Münster?"
     answer: "Ja, sehr gut! Münster ist eine Uni-Stadt mit lebendiger, aufgeschlossener Single-Szene. Das Kreuzviertel ist legendär für seine Bars und das Nachtleben. Die Fahrrad-Kultur verbindet alle Menschen. Klein genug, um sich heimisch zu fühlen, groß genug, um vielfältig zu sein."
----## dating in Münster: Wo jeder auf dem Fahrrad verliebt ist
+---## dating in Münster: Wo jeder auf dem Fahrrad [verliebt](/blog/mann-verliebt-anzeichen-komplett) ist
 
 Münster ist die **Fahrrad-Stadt Deutschlands**. Das mag oberflächlich klingen, aber es sagt eigentlich alles über Münster: **entspannt, mobil, nachhaltig und voller Energie**. Hier verlieben sich Menschen nicht im Café, sondern während einer gemeinsamen Fahrrad-Tour. Und das ist eigentlich die beste Dating-Idee überhaupt – bewegen, reden, die Stadt sehen, alles parallel.
 

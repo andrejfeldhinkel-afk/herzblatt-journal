@@ -26,7 +26,7 @@ faq:
     answer: "Slow Dating bedeutet, sich bewusst Zeit zu nehmen beim Kennenlernen — weniger Matches, dafür tiefere Gespräche. Statt endlosem Swipen investiert man gezielt in wenige, vielversprechende Verbindungen."
 ---## Die Dating-Landschaft 2026: Ein Weckruf für Authentizität und Achtsamkeit
 
-Das Dating im Jahr 2026 ist nicht mehr das oberflächliche Spiel aus den 2010ern. Nach Jahren von endlosen Matches, Ghosting und dem ständigen Gefühl, dass jemand Besseres nur einen Swipe entfernt ist, erleben wir einen fundamentalen Wandel. Singles sehnen sich nach Wahrheit, Tiefe und echten Verbindungen. Die Dating-Trends 2026 spiegeln diese Sehnsucht wider — es geht nicht mehr um die Anzahl der Dates, sondern um ihre Qualität.
+Das Dating im Jahr 2026 ist nicht mehr das oberflächliche Spiel aus den 2010ern. Nach Jahren von endlosen Matches, [Ghosting](/blog/ghosting-komplett-guide) und dem ständigen Gefühl, dass jemand Besseres nur einen Swipe entfernt ist, erleben wir einen fundamentalen Wandel. Singles sehnen sich nach Wahrheit, Tiefe und echten Verbindungen. Die Dating-Trends 2026 spiegeln diese Sehnsucht wider — es geht nicht mehr um die Anzahl der Dates, sondern um ihre Qualität.
 
 Dieser Artikel führt dich durch die zehn wichtigsten Dating-Trends, die dein Liebesleben 2026 prägen werden. Ob du bereits auf Dating-Apps unterwegs bist oder dich fragst, wie die moderne Liebe aussieht: Diese Trends zeigen dir, wohin die Reise geht und wie du authentisch, bewusst und erfolgreich datin gehen kannst.
 
@@ -278,7 +278,7 @@ Gleichzeitig können AI-Tools hilfreich sein: Ein Tool zu nutzen, um Typos zu ko
 
 5. **Das menschliche Element bewahren**: Die beste Partie ist nicht, wer algorithmisch "perfekt" ist. Die beste Partie ist, mit wem du echte Chemie hast. Keine AI kann das vorhersagen — nur dein Herz kann.
 
-## Was bleibt: Dating 2026 ist ein Liebesbrief an Authentizität
+## Was bleibt: Dating 2026 ist ein [Liebesbrief](/blog/liebesbrief-schreiben-anleitung) an Authentizität
 
 2026 ist das Jahr, in dem Dating erwachsen wird. Nicht kompliziert, aber bewusst. Es geht nicht mehr um Spielchen, Speed-Dating oder Optionen ohne Ende. Es geht um **klare Kommunikation, emotionale Reife, gegenseitigen Respekt und echte Präsenz.**
 

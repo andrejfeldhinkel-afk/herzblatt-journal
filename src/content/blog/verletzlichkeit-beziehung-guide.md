@@ -278,7 +278,7 @@ Das ist, warum Heilung nicht bedeutet, einfach über die Verletzung hinwegzukomm
 
 Das könnte bedeuten:
 - Langsamer mit neuen Menschen zu vertrauen
-- Achtsamkeit auf Red Flags zu wahren
+- Achtsamkeit auf [Red Flags](/blog/dating-red-flags-maenner-erkennen) zu wahren
 - Deine Grenzen klar zu setzen
 - In einen Therapeuten zu investieren, der dir hilft, Vertrauen wieder aufzubauen
 

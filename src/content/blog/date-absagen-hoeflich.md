@@ -66,7 +66,7 @@ Es gibt bestimmte Fehler, die viele machen, wenn sie ein Date absagen. Diese sol
 
 **Zu viel erklären**: Du musst nicht deine gesamte Lebensgeschichte erzählen, um ein Date abzusagen. "Ich bin nicht interessiert" ist völlig ausreichend. Zu lange Erklärungen wirken defensiv oder unaufrichtig.
 
-**Ghosting**: Das Absolut-Schlimmste ist, einfach nicht zu antworten und den Kontakt abzubrechen. Das ist respektlos und verletzend. Auch wenn es dir schwerfällt, schreibe eine Nachricht.
+**[Ghosting](/blog/ghosting-komplett-guide)**: Das Absolut-Schlimmste ist, einfach nicht zu antworten und den Kontakt abzubrechen. Das ist respektlos und verletzend. Auch wenn es dir schwerfällt, schreibe eine Nachricht.
 
 **Negative Kommentare**: "Du bist nicht mein Typ" oder "Ich habe bessere Optionen gefunden" sind verletzend und unnötig. Du musst die andere Person nicht kritisieren, um ein Date abzusagen.
 
@@ -236,5 +236,5 @@ Das wichtigste Takeaway? Schreib die Nachricht. Mach es kurz, mach es freundlich
 - [Date-Gespräche die nie langweilig werden: 100 Fragen und](/blog/date-gespraeche-nie-langweilig/)
 - [Vom besten Freund zum Partner](/blog/dating-nach-freundschaft/)
 - [Emotionale Verfügbarkeit beim Dating](/blog/emotionale-verfuegbarkeit-dating/)
-- [10 Red Flags beim ersten Date die du nicht ignorieren](/blog/dating-rote-flaggen-erstes-date/)
+- [10 [Red Flags](/blog/dating-red-flags-maenner-erkennen) beim ersten Date die du nicht ignorieren](/blog/dating-rote-flaggen-erstes-date/)
 - [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)

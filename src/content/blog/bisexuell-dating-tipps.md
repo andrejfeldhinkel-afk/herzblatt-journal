@@ -442,7 +442,7 @@ Das ist schwierig. Es ist auch notwendig.
 
 ## Red Flags: Wenn du gehen solltest
 
-Wenn du bisexuell bist, gibt es spezifische Red Flags beim Dating.
+Wenn du bisexuell bist, gibt es spezifische [Red Flags](/blog/dating-red-flags-maenner-erkennen) beim Dating.
 
 - **Dein Partner zweifelt deine Bisexualität.** "Du bist nicht wirklich bi." Das ist Invalidierung und ein Prädiktor für Kontrolle.
 - **Dein Partner ist eifersüchtig auf Menschen des gleichen Geschlechts wie du.** "Ich vertraue dir nicht um Frauen zu sein" (wenn du eine Frau bist und auch Frauen magst). Das ist Kontrolle.

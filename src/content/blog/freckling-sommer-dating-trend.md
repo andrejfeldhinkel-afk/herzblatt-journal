@@ -75,7 +75,7 @@ Menschen können sich emotional an jemanden binden, auch wenn sie versuchen, es 
 
 In einigen Freckling-Situationen gibt es ein Macht-Ungleichgewicht. Eine Person ist bewusst nicht-verbindlich, die andere hofft, dass es sich zu mehr entwickelt. Dies führt zu Manipulation, ob absichtlich oder nicht.
 
-## Die Unterschiede zwischen Freckling und Ghosting
+## Die Unterschiede zwischen Freckling und [Ghosting](/blog/ghosting-komplett-guide)
 
 Verstehe: nicht all das kurzfristige Sommer-Dating "Freckling" ist. Der Begriff hat eine spezifische Bedeutung:
 

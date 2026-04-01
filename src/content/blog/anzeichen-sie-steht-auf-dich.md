@@ -131,7 +131,7 @@ Es ist auch wichtig zu wissen, welche Zeichen bedeuten, dass sie möglicherweise
 
 Wenn sie keine Mühe macht, Zeit mit dir zu verbringen, oder wenn sie dich immer ablehnt, wenn du eine Date vorschlägst, ist das auch nicht gut.
 
-Wenn sie dir sagt, dass sie "nur Freunde sein möchte", glaub ihr. Das ist kein Zeichen, dass du einfach warten musst und sie sich in dich verliebt.
+Wenn sie dir sagt, dass sie "nur Freunde sein möchte", glaub ihr. Das ist kein Zeichen, dass du einfach warten musst und sie sich in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett).
 
 Wenn sie dich immer in der "Freundzone" gibt oder dich zu anderen Männern ermutigt, ist sie möglicherweise nicht interessiert.
 

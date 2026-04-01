@@ -117,7 +117,7 @@ Stille im Gespräch ist okay. Du musst nicht ständig reden. Wenn es eine komfor
 
 Vertrau deinem Bauchgefühl. Wenn etwas sich komisch anfühlt, ist es das wahrscheinlich. Menschen sind Lügen nicht immer gut. Dein Bauch weiß oft, wenn etwas nicht stimmt.
 
-## Die Red Flags erkennen und dich selbst schützen
+## Die [Red Flags](/blog/dating-red-flags-maenner-erkennen) erkennen und dich selbst schützen
 
 Nach einer Scheidung bist du manchmal emotional verletzlich. Es ist leicht, über rote Flaggen zu laufen, weil du jemanden haben möchtest. Das ist verständlich, aber es ist ein Fehler.
 
@@ -167,7 +167,7 @@ Wenn du Kinder hast, ist das Schwierigste, einen neuen Partner einzuführen. Die
 
 Habt kein Rendezvous bei euch zu Hause, wenn die Kinder da sind. Behalte die Dating-Welt und die Welt der Elternschaft getrennt, solange die Beziehung nicht ernst wird.
 
-Wenn die Beziehung ernst wird und ihr zusammenziehen wollt oder mehr Zeit zusammen verbringt, sprecht mit den Kindern. Bereitet sie vor, beantwortet ihre Fragen, zeigt ihnen, dass sie immer noch deine Priorität sind.
+Wenn die Beziehung ernst wird und ihr [zusammenziehen](/blog/zusammenziehen-checkliste) wollt oder mehr Zeit zusammen verbringt, sprecht mit den Kindern. Bereitet sie vor, beantwortet ihre Fragen, zeigt ihnen, dass sie immer noch deine Priorität sind.
 
 Es ist okay, wieder zu lieben, während man Eltern ist. Aber es braucht Sensibilität und zeitliche Grenzen.
 
@@ -485,7 +485,7 @@ Ja. Anders kann besser sein. Deine Ehe war nicht großartig, also anders könnte
 
 Wenn die neue Beziehung langsamer entwickelt, bedeutet das nicht, dass es nicht funktioniert. Es bedeutet, dass ihr aufpassen.
 
-Wenn deine neue Partnerin dich nicht sofort verliebt ist, bedeutet das nicht, dass sie dich nicht will. Sie testet die Gewässer.
+Wenn deine neue Partnerin dich nicht sofort [verliebt](/blog/mann-verliebt-anzeichen-komplett) ist, bedeutet das nicht, dass sie dich nicht will. Sie testet die Gewässer.
 
 Das ist besser. Das ist reifer.
 

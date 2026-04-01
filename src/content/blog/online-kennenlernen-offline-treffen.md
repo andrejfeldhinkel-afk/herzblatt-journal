@@ -33,7 +33,7 @@ Ich sehe das oft: Menschen chatten für Wochen mit jemandem, bevor sie sich tref
 
 Das ist nicht deine Schuld. Das ist die Natur von Online-Kommunikation. Wir bauen Projektionen auf. Der Chat-Text ist nur ein Teil der Person. Der Tonfall fehlt, die Körpersprache fehlt, die Energiefigur fehlt.
 
-Plus: Je länger ihr chattet, desto höher werden die Erwartungen. Ihr habt euch schon fast verliebt — an einer Person, die halb imaginär ist. Und dann ist das echte Treffen entweder großartig (weil die Person noch besser ist) oder enttäuschend (weil sie anders ist).
+Plus: Je länger ihr chattet, desto höher werden die Erwartungen. Ihr habt euch schon fast [verliebt](/blog/mann-verliebt-anzeichen-komplett) — an einer Person, die halb imaginär ist. Und dann ist das echte Treffen entweder großartig (weil die Person noch besser ist) oder enttäuschend (weil sie anders ist).
 
 Die beste Strategie ist also: Nicht zu lange chatten. Ein bis zwei Wochen Maximum.
 

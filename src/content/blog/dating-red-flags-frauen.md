@@ -11,7 +11,7 @@ tags:
 ---
 ## Red Flags bei Frauen: Warnsignale erkennen
 
-Es ist wichtig zu verstehen, dass die Fähigkeit, Red Flags zu erkennen, nicht nur für Frauen relevant ist. Männer werden genauso oft von toxischen Beziehungen betroffen – und manchmal sind sie noch weniger geneigt, diese zu erkennen oder über sie zu sprechen. Der kulturelle Mythos des "starken Mannes, der alles ertragen kann" hat dazu geführt, dass viele Männer Warnsignale ignorieren, die sie früher bemerken sollten.
+Es ist wichtig zu verstehen, dass die Fähigkeit, [Red Flags](/blog/dating-red-flags-maenner-erkennen) zu erkennen, nicht nur für Frauen relevant ist. Männer werden genauso oft von toxischen Beziehungen betroffen – und manchmal sind sie noch weniger geneigt, diese zu erkennen oder über sie zu sprechen. Der kulturelle Mythos des "starken Mannes, der alles ertragen kann" hat dazu geführt, dass viele Männer Warnsignale ignorieren, die sie früher bemerken sollten.
 
 Hier 15 echte Red Flags bei Frauen durchgehen – nicht um Frauen als Ganzes zu verdammen, sondern um dir zu helfen, früh zu erkennen, wenn du mit jemandem zusammen bist, deren Verhalten giftig oder manipulativ ist. Wir werden auch untersuchen, wie man den Unterschied erkennt zwischen einer echten Warnung und einfach nur Unsicherheit oder seltsamer Verhalten, das Zeit braucht.
 
@@ -29,7 +29,7 @@ Mit dieser Definition im Kopf, lass uns die 15 Red Flags durchgehen. Während du
 
 ## Die 15 Red Flags bei Frauen
 
-### 1. Love Bombing
+### 1. [Love Bombing](/blog/love-bombing-erkennen-schuetzen)
 
 Love Bombing ist, wenn jemand in den frühen Stadien einer Beziehung überwältigend intensiv und zugewandt ist. Sie textet dich ständig, sagt ständig, dass sie dich liebt, möchte die ganze Zeit bei dir sein, plant schnell eine gemeinsame Zukunft.
 

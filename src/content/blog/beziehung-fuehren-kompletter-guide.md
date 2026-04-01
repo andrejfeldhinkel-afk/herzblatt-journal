@@ -556,7 +556,7 @@ Nach dieser Zeit kann sich die Beziehung weniger aufregend anfühlen. Das ist ni
 
 Der tiefe, stabile Liebe, die danach kommt, ist tatsächlich wertvoller.
 
-**Sollten wir zusammenziehen?**
+**Sollten wir [zusammenziehen](/blog/zusammenziehen-checkliste)?**
 
 Es gibt keine universelle Antwort. Manche Paare sollten es tun, manche nicht.
 

@@ -108,7 +108,7 @@ Das perfide ist, dass Love Bombing später oft in kalte Ablehnung umschlägt. We
 
 ### 5. Slow Fading — das langsame Ausfaden
 
-Slow Fading ist das sanfte Verschwinden. Es ist kein Ghosting, wo plötzlich komplett Schluss ist. Es ist ein langsamer, stetiger Rückzug. Jede Woche antwortet die Person ein bisschen später. Jede Woche sind die Nachrichten ein bisschen kürzer. Jede Woche ist die Energie ein bisschen weniger da.
+Slow Fading ist das sanfte Verschwinden. Es ist kein [Ghosting](/blog/ghosting-komplett-guide), wo plötzlich komplett Schluss ist. Es ist ein langsamer, stetiger Rückzug. Jede Woche antwortet die Person ein bisschen später. Jede Woche sind die Nachrichten ein bisschen kürzer. Jede Woche ist die Energie ein bisschen weniger da.
 
 Das sieht so aus: Zuerst schreibt er innerhalb von Minuten zurück. Dann innerhalb von Stunden. Dann innerhalb von Tagen. Die Nachrichten werden von Paragraphen zu Sätzen zu Wort-Antwortem. Die Dates werden seltener. Die Aufmerksamkeit vertrocknet.
 
@@ -272,7 +272,7 @@ Menschen mit angstvoller-vermeidendem Bindungsstil sind eine Mischung aus Anxiou
 
 Diese Menschen können dich lieben und dich gleichzeitig verletzten. Sie können dich hoffen lassen und dich zum Wahnsinn treiben. Sie sind oft die zerstörerischsten Partner, nicht aus Bosheit, sondern aus interner Verwirrung.
 
-## Spielchen erkennen: Die wichtigsten Red Flags
+## Spielchen erkennen: Die wichtigsten [Red Flags](/blog/dating-red-flags-maenner-erkennen)
 
 Jetzt hier ist die praktische Seite. Wie erkennst du, dass Spielchen gespielt werden?
 
@@ -538,7 +538,7 @@ Die Frage ist: Ist das ein Muster, das diese Person mit vielen Menschen macht? O
 
 Wenn es ein Muster über mehrere Beziehungen ist, dann ist es ein Charakter-Problem. Die Person weiß nicht wie man liebt, weil Liebe nicht in ihrer emotionalen Kapazität liegt.
 
-Wenn es nur mit dir ist, könnte es sein, dass die Chemie nicht richtig ist. Oder dass diese Person in dich verliebt ist, aber ihre Bindungsangst in dieser speziellen Dynamik ausgelöst wird.
+Wenn es nur mit dir ist, könnte es sein, dass die Chemie nicht richtig ist. Oder dass diese Person in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett) ist, aber ihre Bindungsangst in dieser speziellen Dynamik ausgelöst wird.
 
 Der Punkt ist: Manche Spielche sind Fenster in ernsthaft toxic Patrone. Love Bombing, Roaching, systematisches Gaslighting — das sind nicht "er ist unsicher", das ist "er ist potenziell ein Missbraucher".
 

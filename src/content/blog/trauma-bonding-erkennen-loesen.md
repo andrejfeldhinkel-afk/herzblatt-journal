@@ -70,7 +70,7 @@ Das ist nicht schwach von dir. Das ist ein natürliches Überlebensmuster, das i
 
 ## Die Anzeichen: Wie erkennst du, dass du trauma-gebunden bist?
 
-Es gibt klare Anzeichen, dass du Trauma Bonding erlebst, anstatt wirklich verliebt zu sein. Wenn du diese erkennst, kannst du handeln. Du brauchst nicht mehr in dieser Verwirrung zu leben.
+Es gibt klare Anzeichen, dass du Trauma Bonding erlebst, anstatt wirklich [verliebt](/blog/mann-verliebt-anzeichen-komplett) zu sein. Wenn du diese erkennst, kannst du handeln. Du brauchst nicht mehr in dieser Verwirrung zu leben.
 
 Du kannst die Person nicht verlassen, obwohl du dich unglücklich fühlst. Du versuchst, mehrmals zu gehen, aber du kommst immer zurück. Du machst eine Liste mit Gründen, warum du gehen solltest – und dann ignorierst du die Liste, wenn die Person dich wieder "liebevoll" behandelt.
 

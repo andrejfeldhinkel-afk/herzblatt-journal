@@ -82,7 +82,7 @@ Wenn du eifersüchtig bist, bedeutet das oft, dass du ein Bedürfnis hast, das n
 
 Eine andere Herausforderung ist das Management von Gefühlen, wenn ein Partner einen anderen Partner wählt, um mit etwas Wichtiges zu teilen. Wenn dein Partner mit seinem anderen Partner in den Urlaub geht, während du arbeiten musst, kann das weh tun. Dies wird als "Compersion" – die Fähigkeit, dich für deinen Partner zu freuen – und das ist eine Fähigkeit, die entwickelt werden muss.
 
-Es gibt auch praktische Herausforderungen. Wie teilt man Zeit fair auf? Was passiert, wenn man sich in jemanden verliebt, dessen andere Partner nicht mit dir einverstanden ist? Was ist, wenn ein Partner die Polyamorie plötzlich nicht mehr will? Dies sind alle reale, schwierige Fragen, die in einer polyamoren Beziehung entstehen können.
+Es gibt auch praktische Herausforderungen. Wie teilt man Zeit fair auf? Was passiert, wenn man sich in jemanden [verliebt](/blog/mann-verliebt-anzeichen-komplett), dessen andere Partner nicht mit dir einverstanden ist? Was ist, wenn ein Partner die Polyamorie plötzlich nicht mehr will? Dies sind alle reale, schwierige Fragen, die in einer polyamoren Beziehung entstehen können.
 
 ## Ist Polyamorie für dich richtig?
 
@@ -132,7 +132,7 @@ Und wenn du feststellst, dass es für dich richtig ist, dann sei darin stolz. Li
 ## Weiterlesen
 
 - [Beziehung mit großem Altersunterschied](/blog/beziehung-altersunterschied/)
-- [Von der Fernbeziehung zum Zusammenziehen: Der nächste Schritt](/blog/beziehung-fernbeziehung-zusammenziehen/)
+- [Von der Fernbeziehung zum Zusammenziehen: Der nächste Schritt](/blog/beziehung-fernbeziehung-[zusammenziehen](/blog/zusammenziehen-checkliste)/)
 - [Gemeinsam meditieren als Paar: Achtsamkeit zu zweit](/blog/beziehung-gemeinsam-meditieren/)
 - [Gemeinsames Haushaltsbuch als Paar: Geld fair verwalten](/blog/beziehung-gemeinsames-haushaltsbuch/)
 - [Gleichberechtigung in der Beziehung: Wie ihr als echte Partner leben könnt](/blog/beziehung-gleichberechtigung/)

@@ -148,7 +148,7 @@ Dein Partner lebt 45 Minuten entfernt. Oder eine Stunde. Oder zwei Stunden. Ihr 
 
 **Gute Kommunikation:** Ihr müsst über Text, Telefon und Video-Calls kommunizieren können – und das sollte nicht fühlen wie eine Checkliste, sondern wie echte Intimität.
 
-**Ein Plan zum zusammenziehen (oder nicht):** Irgendwann müsst ihr entscheiden: Zieht einer von euch um? Zieht ihr zusammen in eine neue Stadt? Oder bleibt ihr langfristig in verschiedenen Orten? Es ist wichtig, darüber zu sprechen.
+**Ein Plan zum [zusammenziehen](/blog/zusammenziehen-checkliste) (oder nicht):** Irgendwann müsst ihr entscheiden: Zieht einer von euch um? Zieht ihr zusammen in eine neue Stadt? Oder bleibt ihr langfristig in verschiedenen Orten? Es ist wichtig, darüber zu sprechen.
 
 Fernbeziehungen sind nicht für alle. Aber es ist bemerkbar, dass viele queere Paare sie navigieren – weil die Alternativen nicht immer besser sind.
 

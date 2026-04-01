@@ -166,7 +166,7 @@ Das ist nicht okay. Wenn er dein Kind nicht respektiert, respektiert er dich nic
 
 **Er will schnell zu seriös gehen.** Nach zwei Monaten spricht er von Zusammenleben oder Heirat.
 
-Das ist nicht schnell verliebt. Das ist reckless. Er weiß nicht, wer du wirklich bist. Er weiß nicht, wie du als Eltern bist. Er weiß nicht, ob es funktioniert.
+Das ist nicht schnell [verliebt](/blog/mann-verliebt-anzeichen-komplett). Das ist reckless. Er weiß nicht, wer du wirklich bist. Er weiß nicht, wie du als Eltern bist. Er weiß nicht, ob es funktioniert.
 
 ## Wie man diese Conversation mit Männern führt
 

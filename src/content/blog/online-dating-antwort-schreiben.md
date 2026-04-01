@@ -200,7 +200,7 @@ Sei nicht zu kritisch. Menschen können in Chats anders wirken als in Person. Da
 
 ### Zu intensive, zu schnelle Gefühle
 
-Wenn jemand nach 2-3 Tagen chatten sagt, dass er verliebt ist oder dass ihr soulmates seid, ist das ein rotes Flag. Das ist nicht echte Liebe, das ist Illusion basiert auf einem Chat.
+Wenn jemand nach 2-3 Tagen chatten sagt, dass er [verliebt](/blog/mann-verliebt-anzeichen-komplett) ist oder dass ihr soulmates seid, ist das ein rotes Flag. Das ist nicht echte Liebe, das ist Illusion basiert auf einem Chat.
 
 **Red Flag Beispiel:** "Ich hab das Gefühl, du bist die eine für mich. Ich denke die ganze Zeit an dich. ❤️"
 
@@ -373,7 +373,7 @@ Das ist cool. Nicht bedürftig. Nur freundlich.
 
 ### Wenn dich jemand ghostet
 
-Ghosting ist scheiße, aber es passiert. Manche Menschen sind einfach nicht reif genug, um zu sagen "ich bin nicht interessiert". Sie verschwinden einfach.
+[Ghosting](/blog/ghosting-komplett-guide) ist scheiße, aber es passiert. Manche Menschen sind einfach nicht reif genug, um zu sagen "ich bin nicht interessiert". Sie verschwinden einfach.
 
 Das ist nicht deine Schuld. Das ist ihre Unreife. Bewege dich weiter.
 

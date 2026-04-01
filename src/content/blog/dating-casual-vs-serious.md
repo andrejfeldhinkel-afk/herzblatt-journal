@@ -182,7 +182,7 @@ Wenn du weißt, was du suchst – egal ob casual oder ernsthaft – wird es leic
 
 ## Weiterlesen
 
-- [20 Green Flags: Zeichen dass er/sie der Richtige ist](/blog/dating-green-flags-guide)
+- [20 [Green Flags](/blog/dating-green-flags-erkennen-guide): Zeichen dass er/sie der Richtige ist](/blog/dating-green-flags-guide)
 - [Kenne deine Notwendigkeiten: Das Fundament guten Datings](/blog/dating-notwendigkeit-kennen)
 - [Schwiegereltern-Guide 2026: So gewinnst du sie für dich](/blog/beziehung-schwiegereltern-guide)
 

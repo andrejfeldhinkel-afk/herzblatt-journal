@@ -27,7 +27,7 @@ faq:
 
 # 111 Date-Ideen für jede Situation und jedes Budget: Von kostenlos bis Luxus
 
-Du sitzt vor einem leeren Bildschirm und fragst dich: "Was könnten wir denn bloß machen?" Die Antwort ist: Hunderte Möglichkeiten! Ein gutes Date muss nicht kompliziert, teuer oder zeitaufwändig sein. Es muss nur authentisch zu euch passen. In diesem Leitfaden findest du 111 konkrete Date-Ideen für jede Situation, jede Jahreszeit und jedes Budget. Egal ob du gerade verliebt bist oder eine lange Beziehung auffrischen möchtest — hier ist für jeden Geschmack etwas dabei.
+Du sitzt vor einem leeren Bildschirm und fragst dich: "Was könnten wir denn bloß machen?" Die Antwort ist: Hunderte Möglichkeiten! Ein gutes Date muss nicht kompliziert, teuer oder zeitaufwändig sein. Es muss nur authentisch zu euch passen. In diesem Leitfaden findest du 111 konkrete Date-Ideen für jede Situation, jede Jahreszeit und jedes Budget. Egal ob du gerade [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist oder eine lange Beziehung auffrischen möchtest — hier ist für jeden Geschmack etwas dabei.
 
 ## Outdoor-Dates: Die Natur und mehr
 
@@ -269,7 +269,7 @@ Sitzt zusammen, seht wie die Sonne sinkt, teilt Gedanken. Das ist ruhig, schön 
 
 Ein Bad mit Rosenblüten, Kerzen, ruhiger Musik. Das ist sehr intim und sinnlich. Budget: 20-40 Euro.
 
-### 55. Liebesbrief-Austausch
+### 55. [Liebesbrief](/blog/liebesbrief-schreiben-anleitung)-Austausch
 
 Schreiben sie euch gegenseitig Liebriefe, trefft euch an einem schönen Ort und lest sie euch vor. Das ist emotional und verdammt romantisch. Budget: 0 Euro.
 

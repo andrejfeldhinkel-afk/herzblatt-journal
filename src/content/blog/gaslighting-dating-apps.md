@@ -20,7 +20,7 @@ faq:
 ---
 ## Gaslighting auf Dating-Apps: Erkenne die Manipulationstaktiken früh
 
-Online-Dating bringt viele Chancen, aber auch neue Formen der Manipulation. Gaslighting — das Manipulieren jemandes Realitätswahrnehmung — passiert nicht nur in Beziehungen, es beginnt oft schon auf Dating-Apps.
+Online-Dating bringt viele Chancen, aber auch neue Formen der Manipulation. [Gaslighting](/blog/gaslighting-komplett-guide) — das Manipulieren jemandes Realitätswahrnehmung — passiert nicht nur in Beziehungen, es beginnt oft schon auf Dating-Apps.
 
 ## Breadcrumbing: Die subtilste Form
 

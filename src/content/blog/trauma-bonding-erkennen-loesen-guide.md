@@ -58,7 +58,7 @@ Der Trauma-Bonding-Zyklus hat eine sehr vorhersehbare, klare Struktur. Verstehen
 
 Es beginnt mit intensiver Aufmerksamkeit und Zuneigung. Der andere Mensch ist präsent, zugewandt, fokussiert komplett auf dich. Er sagt dir, dass du wunderbar, einzigartig, perfekt bist. Er schreibt dir lange Nachrichten. Er will ständig Zeit mit dir verbringen. Es fühlt sich großartig an, weil es wahnsinnig intensive Aufmerksamkeit ist – die Art von Aufmerksamkeit, die die meisten Menschen ihr ganzes Leben lang nicht erhalten. Es ist überwältigend, es ist romantisch, und es ist unbewusst süchtig machend.
 
-Während dieser Phase schüttet dein Gehirn Dopamin in großen Mengen aus – das gleiche Neurotransmitter, das du bekommst, wenn du Drogen nimmst oder wenn du das Gefühl hast, verliebt zu sein. Tatsächlich ist dein Gehirn sich nicht sicher, ob du verliebt bist oder süchtig. Es ist dasselbe.
+Während dieser Phase schüttet dein Gehirn Dopamin in großen Mengen aus – das gleiche Neurotransmitter, das du bekommst, wenn du Drogen nimmst oder wenn du das Gefühl hast, [verliebt](/blog/mann-verliebt-anzeichen-komplett) zu sein. Tatsächlich ist dein Gehirn sich nicht sicher, ob du verliebt bist oder süchtig. Es ist dasselbe.
 
 Diese Phase ist entscheidend und strategisch, weil sie dein Gehirn nicht nur emotional, sondern neurobiologisch prägt. Dein Gehirn wird auf diese Person geprägt als die Quelle von Glück, Sicherheit, Wert und Liebe. Das ist keine oberflächliche emotionale Bindung – das ist eine tiefe, neurale Pathways-Bindung, die schwer zu brechen ist.
 
@@ -74,7 +74,7 @@ Du machst dich unbewusst selbst verantwortlich für sein Verhalten. Das ist die 
 
 ### Phase 3: Der Missbrauch (The Abuse) – Das Trauma
 
-Das eskaliert. Es gibt emotionalen Missbrauch – Kritik, Gaslighting, Erniedrigung. Es gibt vielleicht auch körperliche Misshandlung. Es gibt Kontrollversuche – Wer du sehen kannst, was du tragen kannst, wo du gehen darfst. Es gibt Ignorieren, das sich wie emotionale Vernachlässigung anfühlt. Es gibt Momente, in denen du dich absolut nicht sicher mit dieser Person fühlst – nicht sicher, was sie sagen wird, nicht sicher, wie sie reagieren wird, nicht sicher, ob du schuld bist oder nicht.
+Das eskaliert. Es gibt emotionalen Missbrauch – Kritik, [Gaslighting](/blog/gaslighting-komplett-guide), Erniedrigung. Es gibt vielleicht auch körperliche Misshandlung. Es gibt Kontrollversuche – Wer du sehen kannst, was du tragen kannst, wo du gehen darfst. Es gibt Ignorieren, das sich wie emotionale Vernachlässigung anfühlt. Es gibt Momente, in denen du dich absolut nicht sicher mit dieser Person fühlst – nicht sicher, was sie sagen wird, nicht sicher, wie sie reagieren wird, nicht sicher, ob du schuld bist oder nicht.
 
 Das ist traumatisierend. Dein Körper ist im Akutstreß-Modus. Dein Adrenalin ist hoch. Dein Nervensystem ist aktiviert. Du versuchst, dich zu schützen, deinen Kopf zu senken, die richtige Antwort zu finden, das zu tun, das Konflikt vermeidet.
 

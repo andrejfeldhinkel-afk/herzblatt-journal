@@ -110,7 +110,7 @@ Achten Sie darauf, echte Kompatibilität von kurzfristigen Bedürfnissen zu unte
 - Jemand, der zu schnell zu intensiv wird
 - Jemand, der zukünftige Gespräche vermeidet
 - Jemand, der sich "vorübergehend" verhält, obwohl er sagt, dass er ernsthaft ist
-- Schnelle Gaslighting oder Manipulation
+- Schnelle [Gaslighting](/blog/gaslighting-komplett-guide) oder Manipulation
 
 ### 6. Bereiten Sie sich auf die Frühjahrs-Verschiebung vor
 

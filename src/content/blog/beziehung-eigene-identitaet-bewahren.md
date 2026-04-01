@@ -65,7 +65,7 @@ Eine gesunde Beziehung ist nicht die Fusion zweier Menschen. Sie ist das Zusamme
 
 Hier kommt das Kontraintuitive: Je mehr du versuchst, dich selbst zu verlieren, um näher zusammen zu sein, desto weiter wirst du dich vom anderen entfernen.
 
-Warum? Weil Menschen nicht in die Grenzenlosigkeit verliebt sich. Sie verlieben sich in Menschen, die lebendig, interessant und in sich selbst verwurzelt sind.
+Warum? Weil Menschen nicht in die Grenzenlosigkeit [verliebt](/blog/mann-verliebt-anzeichen-komplett) sich. Sie verlieben sich in Menschen, die lebendig, interessant und in sich selbst verwurzelt sind.
 
 Wenn du aufhörst, deine Hobbys zu pflegen, wird dir dein Leben öde. Wenn du keine Zeit mehr mit deinen Freunden verbringst, wird es stressig in der Beziehung. Wenn du deine Träume aufgibst, wird Resentment entstehen.
 

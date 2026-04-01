@@ -43,7 +43,7 @@ Und irgendwo in diesem Chaos soll auch Zeit für einen romantischen Partner sein
 
 Das ist nicht möglich. Die Mathematik geht nicht auf.
 
-Aber dein Hirn ignoriert das. Weil dein Hirn verliebt ist (oder möchte verliebt sein), und Verliebtheit ist irrational. Dein Hirn denkt: "Ich werde es genug machen. Ich werde an Wochenenden Qualität-Zeit machen. Es wird super sein."
+Aber dein Hirn ignoriert das. Weil dein Hirn [verliebt](/blog/mann-verliebt-anzeichen-komplett) ist (oder möchte verliebt sein), und Verliebtheit ist irrational. Dein Hirn denkt: "Ich werde es genug machen. Ich werde an Wochenenden Qualität-Zeit machen. Es wird super sein."
 
 Und dann, nach drei Daten, realierst du: Es reicht nicht.
 

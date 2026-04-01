@@ -127,7 +127,7 @@ Es gibt bestimmte Verhaltensweisen, die für dich rote Flaggen sein sollten, wen
 
 **Lügen und Betrug:** Ein Partner, der sich weigert, transparent zu sein oder der häufig lügt.
 
-**Gaslighting:** Ein Partner, der sagt, dass deine Wahrnehmung falsch ist. "Das ist nicht passiert" oder "Du erinnerst dich falsch."
+**[Gaslighting](/blog/gaslighting-komplett-guide):** Ein Partner, der sagt, dass deine Wahrnehmung falsch ist. "Das ist nicht passiert" oder "Du erinnerst dich falsch."
 
 **Spirituelle oder ideologische Kontrolle:** Ein Partner, der dich in eine Ideologie drücken will. Das ist ähnlich der Sekte.
 
@@ -434,6 +434,6 @@ Und mit der richtigen Unterstützung, mit der richtigen Person, mit der richtige
 ## Das könnte dich auch interessieren
 
 - [Dating nach Obdachlosigkeit – Liebe nach dem Neustart](/blog/dating-nach-obdachlosigkeit/)
-- [Dating nach einer Ghosting-Erfahrung](/blog/dating-nach-ghosting-erfahrung/)
+- [Dating nach einer [Ghosting](/blog/ghosting-komplett-guide)-Erfahrung](/blog/dating-nach-ghosting-erfahrung/)
 - [Dating nach dem Gefängnis – Zweite Chancen in der Liebe](/blog/dating-nach-gefaengnisaufenthalt/)
 - [Dating mit Borderline – Intensive Liebe zwischen Extremen](/blog/dating-mit-borderline-stoerung/)

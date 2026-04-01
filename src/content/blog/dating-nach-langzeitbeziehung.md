@@ -51,14 +51,14 @@ Und das ist okay. Das bedeutet nicht, dass die Zeit verschwendet war – du hast
 
 ## Die neue Dating-Welt verstehen
 
-Wenn du zuletzt vor Jahren gedatet hast, erwartet dich eine steile Lernkurve. Tinder, Bumble, Hinge – jede App funktioniert anders. Ghosting, Breadcrumbing, Situationships – Begriffe, die du vielleicht zum ersten Mal hörst.
+Wenn du zuletzt vor Jahren gedatet hast, erwartet dich eine steile Lernkurve. Tinder, Bumble, Hinge – jede App funktioniert anders. [Ghosting](/blog/ghosting-komplett-guide), Breadcrumbing, Situationships – Begriffe, die du vielleicht zum ersten Mal hörst.
 
 Keine Panik. Im Kern ist Dating immer noch dasselbe: Zwei Menschen treffen sich und schauen, ob es passt. Die Verpackung hat sich geändert, der Inhalt nicht.
 
 Aber es gibt wirklich einige neue Konzepte, die du kennenlernen solltest:
 - Ghosting: Jemand schreibt dir nicht mehr zurück, ohne Erklärung
 - Breadcrumbing: Jemand hält dich in Reserve, gibt dir ab und zu Aufmerksamkeit
-- Situationship: Eine Beziehung ohne Definition, nicht wirklich zusammen, aber auch nicht getrennt
+- [Situationship](/blog/situationship-erkennen-umgehen): Eine Beziehung ohne Definition, nicht wirklich zusammen, aber auch nicht getrennt
 - Benching: Jemand hält dich in Bereitschaft, aber datet andere
 
 Diese sind frustrierend, ja. Aber sie sind selektiv. Es gibt immer noch Menschen, die echte Beziehungen wollen. Du musst nur die finden.

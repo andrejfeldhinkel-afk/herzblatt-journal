@@ -307,7 +307,7 @@ Wenn dein Partner deine Grenzen verletzt — zum Beispiel, wenn du sagtest, dass
 
 ## Red Flags: Wenn Privatsphäre ein Kontrolle-Problem wird
 
-Hier sind einige echte Red Flags, dass Privatsphäre zu Kontrollverhalten geworden ist:
+Hier sind einige echte [Red Flags](/blog/dating-red-flags-maenner-erkennen), dass Privatsphäre zu Kontrollverhalten geworden ist:
 
 - Dein Partner möchte alle deine Passwörter kennen.
 - Dein Partner überprüft dein Handy regelmäßig ohne Grund.

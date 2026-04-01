@@ -186,7 +186,7 @@ Lass die Beziehung natürlich wachsen.
 
 ### Achte auf deine Trauma-Trigger
 
-Du wirst Red Flags übersehen, weil Dankbarkeit deine Gedanken nebelt.
+Du wirst [Red Flags](/blog/dating-red-flags-maenner-erkennen) übersehen, weil Dankbarkeit deine Gedanken nebelt.
 
 Das ist normal. Aber gefährlich.
 
@@ -202,7 +202,7 @@ Achte auf:
 
 **Liebe-Bombing:** Diese Person gibt dir instant Aufmerksamkeit, ständige Bestätigung. Das fühlt sich wie Heilung für deine Einsamkeit an. Aber es ist oft der erste Schritt zu Kontrolle.
 
-**Needy Behavior:** Sie klammert an dich oder möchte sofort zusammenziehen. Das sagt „Ich habe meine eigenen Probleme" – und du wirst die Person, die sie rettet.
+**Needy Behavior:** Sie klammert an dich oder möchte sofort [zusammenziehen](/blog/zusammenziehen-checkliste). Das sagt „Ich habe meine eigenen Probleme" – und du wirst die Person, die sie rettet.
 
 **Subtile Kritik:** Sie sagt dir, dass deine Isolation komisch war. Sie kritisiert deine Vergangenheit. Das ist Judging, nicht Support.
 

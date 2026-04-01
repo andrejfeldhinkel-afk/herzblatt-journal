@@ -158,7 +158,7 @@ Manchmal realisiert man während dieses Prozesses, dass die Liebe nicht mehr da 
 Es gibt Situationen, in denen du aufgeben solltest:
 
 - **Wenn sie dir sagt, dass sie dich nicht mehr liebt.** Glaube ihr. Wenn sie es mehrmals sagt, ist es wahrscheinlich wahr.
-- **Wenn sie in jemandem anders verliebt ist.** Das ist sehr schwierig. Es ist besser, loszulassen.
+- **Wenn sie in jemandem anders [verliebt](/blog/mann-verliebt-anzeichen-komplett) ist.** Das ist sehr schwierig. Es ist besser, loszulassen.
 - **Wenn die Beziehung toxisch war.** Wenn es verbale, emotionale oder physische Missbrauch gab, dann ist Zurückgewinnen nicht die Lösung — es ist ein roter Flagge.
 - **Wenn du nur aus Angst vor Einsamkeit zurückgewinnen willst.** Das wird nicht funktionieren.
 

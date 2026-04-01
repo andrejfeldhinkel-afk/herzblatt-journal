@@ -86,7 +86,7 @@ Es klingt seltsam, aber aus dieser Perspektive fällt es viel leichter, das Prob
 
 Dies ist eine Übung, die die Beziehungsforscher John und Julie Gottman empfehlen. Sie ist besonders nützlich, wenn ihr zu beschäftigt seid und nicht mehr echte Zeit miteinander verbringt – wenn eure Beziehung nur noch „Management" von alltäglichen Aufgaben ist.
 
-Jeden Tag reserviert ihr acht Minuten – nur acht Minuten! – um wieder zu verbinden. In dieser Zeit: Kein Handy. Kein Fernsehen. Keine Arbeit. Keine Ablenkung. Ihr sitzt zusammen und ihr erinnert euch, warum ihr euch verliebt habt. Ihr könnt euch erzählen, was euch heute überrascht hat. Ihr könnt euch anfassen. Ihr könnt einfach zusammen sein, ohne etwas zu „tun".
+Jeden Tag reserviert ihr acht Minuten – nur acht Minuten! – um wieder zu verbinden. In dieser Zeit: Kein Handy. Kein Fernsehen. Keine Arbeit. Keine Ablenkung. Ihr sitzt zusammen und ihr erinnert euch, warum ihr euch [verliebt](/blog/mann-verliebt-anzeichen-komplett) habt. Ihr könnt euch erzählen, was euch heute überrascht hat. Ihr könnt euch anfassen. Ihr könnt einfach zusammen sein, ohne etwas zu „tun".
 
 Acht Minuten klingt kurz, aber das ist der Punkt. Für acht Minuten könnt ihr euch Zeit nehmen, egal wie beschäftigt ihr seid. Und diese acht Minuten pro Tag können euer gesamtes Beziehungsgefühl verändern. Es ist nicht die Quantität der Zeit, es ist die Qualität.
 

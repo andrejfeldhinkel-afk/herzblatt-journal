@@ -13,13 +13,13 @@ imageAlt: "Red Flags bei Männern erkennen und vermeiden"
 ---
 Nicht jeder Mann ist das richtige Material für eine gesunde [beziehung](/blog/adhs-und-beziehung-komplett-guide/) — insbesondere wenn es um red geht. Manche zeigen subtile Zeichen, die darauf hindeuten, dass sie emotional unreif, manipulativ oder sogar gefährlich sind. Das Problem: Diese roten Flaggen sind oft nicht offensichtlich – besonders am Anfang, wenn die Leidenschaft blind macht. Dieser Ratgeber enthüllt 15 kritische Warnsignale bei Männern, auf die du beim Dating achten solltest.
 
-## Die psychologie von Red Flags
+## Die psychologie von [Red Flags](/blog/dating-red-flags-maenner-erkennen)
 
 Bevor wir die spezifischen Flaggen analysieren, ist es wichtig, zu verstehen, warum wir sie oft ignorieren:
 
 1. **Verliebtheit lässt uns blind werden**: Die Chemie und das Adrenalin können unsere Urteilskraft beeinflussen.
 2. **Hoffnung**: Wir hoffen, dass sein Verhalten sich ändert.
-3. **Gaslighting durch ihn**: Er könnte dir einreden, dass deine Bedenken unbegründet sind.
+3. **[Gaslighting](/blog/gaslighting-komplett-guide) durch ihn**: Er könnte dir einreden, dass deine Bedenken unbegründet sind.
 4. **Unser eigenes Trauma**: Wenn du in toxischen Beziehungen aufgewachsen bist, könnten Flaggen normal wirken.
 
 Der Schlüssel: Du musst deine Intuition hören und deine Grenzen respektieren.
@@ -50,7 +50,7 @@ Wenn er über unbedeutende Dinge lügt – wo er war, wen er traf, was er tat �
 
 ### Flag 6: Er möchte schnell zu ernsthaft oder zu schnell ein Liebeszgeständnis
 
-"Ich liebe dich" nach 2 Wochen? Er möchte schnell zusammenziehen? Er redet von Heiraten und Kindern? Dies könnte künstlerisches Lovebombing sein – eine Phase, in der er dich mit Aufmerksamkeit überschüttet, um dich zu binden, bevor du seine echte Natur siehst.
+"Ich liebe dich" nach 2 Wochen? Er möchte schnell [zusammenziehen](/blog/zusammenziehen-checkliste)? Er redet von Heiraten und Kindern? Dies könnte künstlerisches Lovebombing sein – eine Phase, in der er dich mit Aufmerksamkeit überschüttet, um dich zu binden, bevor du seine echte Natur siehst.
 
 ### Flag 7: Er möchte schnell dein Geld oder deine Ressourcen
 

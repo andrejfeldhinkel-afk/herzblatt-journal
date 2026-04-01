@@ -29,7 +29,7 @@ Sie haben gerade gesagt "Ich liebe dich" (ja, wirklich, nach 3 Wochen).
 
 Dann, wenige Tage später: "Mein Boss hat mir Geld gestohlen. Ich kann mein Visa nicht bezahlen. Wenn ich nicht 2.000 Euro zahle, werde ich meine Wohnung verlieren. Ich weiß, dass wir gerade erst kennenlernen, aber... könntest du mir helfen? Ich zahle es dir sofort zurück."
 
-Und dein Herz bricht, weil du eben verliebt bist (oder denkst, dass du es bist).
+Und dein Herz bricht, weil du eben [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist (oder denkst, dass du es bist).
 
 Das ist ein Romance Scam. Und es passiert tausenden Menschen jeden Monat.
 
@@ -316,7 +316,7 @@ Scammer sind nicht technisch Genie. Sie sind psychologische Manipulatoren. Sie v
 
 ### Die Phasen der psychologischen Manipulation
 
-**Phase 1: Love Bombing**
+**Phase 1: [Love Bombing](/blog/love-bombing-erkennen-schuetzen)**
 
 Sie senden VIELE Nachrichten, Komplimente, Aufmerksamkeit. Du merkst nicht, wie überwältigend das ist – du bist einfach erleichtert, dass jemand dich endlich mag.
 
@@ -644,7 +644,7 @@ Aber für viele, das beste ist, zu versuchen wieder, aber mit:
 - Frühere in-Person Treffen
 - Absolut keine Geld-Transfere
 
-## Kapitel 10B: Spezielle Szenarien und Red Flags im Detail
+## Kapitel 10B: Spezielle Szenarien und [Red Flags](/blog/dating-red-flags-maenner-erkennen) im Detail
 
 Es gibt bestimmte Szenarien, die immer Warnsignale sind. Hier sind konkrete Beispiele:
 

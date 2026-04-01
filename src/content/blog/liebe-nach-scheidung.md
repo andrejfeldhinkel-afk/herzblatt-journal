@@ -133,7 +133,7 @@ Der beste Ansatz: Verständnis für dein Kind. Gib ihm Zeit. Und wenn es wirklic
 
 ## Red Flags Neu erkennen: Was hast du gelernt?
 
-Nach einer Scheidung, hoffst du, dass du Red Flags schneller erkennst. Das ist real. Du hast Erfahrung.
+Nach einer Scheidung, hoffst du, dass du [Red Flags](/blog/dating-red-flags-maenner-erkennen) schneller erkennst. Das ist real. Du hast Erfahrung.
 
 Aber es gibt auch einen Risiko: Du könntest Paranoid werden. Du könntest normale Verhaltensweisen als Red Flags sehen, weil du verwundet bist.
 
@@ -360,5 +360,5 @@ Mehr Perspektive zum Thema findest du in Vertrauen in Beziehungen wiederaufbauen
 - [Dating nach psychischer Erkrankung: Der behutsame Weg zurück](/blog/dating-nach-psychischer-erkrankung/)
 - [Fleabagging — Warum du immer die falschen dattest](/blog/fleabagging-dating-pattern-guide/)
 - [Toxische Dating-Muster erkennen und durchbrechen:](/blog/toxische-dating-muster-durchbrechen/)
-- [Dating nach einer Ghosting-Erfahrung: Wieder vertrauen](/blog/dating-nach-ghosting-erfahrung/)
+- [Dating nach einer [Ghosting](/blog/ghosting-komplett-guide)-Erfahrung: Wieder vertrauen](/blog/dating-nach-ghosting-erfahrung/)
 - [Dating nach Jobverlust: Lohnt es sich trotzdem?](/blog/dating-nach-jobverlust/)

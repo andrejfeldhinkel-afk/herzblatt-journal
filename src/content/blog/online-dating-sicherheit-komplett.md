@@ -109,7 +109,7 @@ Echte Profile lassen sich oft mit Instagram, Facebook oder anderen Social-Media-
 
 ### Emotionale Schnelligkeit und Intensität
 
-Ein Betrüger wird dir schnell intensive Gefühle zeigen. Nach zwei Tagen Chatten: "Du bist so besonders, ich hatte das Gefühl nie zuvor." Nach einer Woche: "Ich glaube, ich bin verliebt in dich." Nach zwei Wochen: "Ich möchte dich heiraten." Das ist nicht normal und ist ein großes Warnsignal.
+Ein Betrüger wird dir schnell intensive Gefühle zeigen. Nach zwei Tagen Chatten: "Du bist so besonders, ich hatte das Gefühl nie zuvor." Nach einer Woche: "Ich glaube, ich bin [verliebt](/blog/mann-verliebt-anzeichen-komplett) in dich." Nach zwei Wochen: "Ich möchte dich heiraten." Das ist nicht normal und ist ein großes Warnsignal.
 
 Eine echte emotionale Entwicklung braucht Zeit. Menschen, die du nur online kennst, können dir nicht wirklich nahegehen. Seien Sie wachsam gegenüber emotionaler Schnelligkeit.
 

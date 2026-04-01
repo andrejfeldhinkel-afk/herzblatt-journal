@@ -455,7 +455,7 @@ Das ist schwer zu akzeptieren. Aber es ist wahr.
 
 ## Die Zukunftsvisionen
 
-Manchmal verliebt man sich in das Potenzial einer Person, nicht in den gegenwärtigen Menschen.
+Manchmal [verliebt](/blog/mann-verliebt-anzeichen-komplett) man sich in das Potenzial einer Person, nicht in den gegenwärtigen Menschen.
 
 Du siehst, wer diese Person sein könnte. Du siehst das Potenzial. Du liebst das Potenzial.
 

@@ -177,7 +177,7 @@ Und schließlich, sei nachsichtig mit dir selbst. Du wirst rückfällig in Stone
 
 Wenn Stonewalling fortgesetzt wird und nicht adressiert wird, hat es langfristige, ernsthafte Konsequenzen.
 
-Die Beziehung kann zu emotionaler Entfremdung führen. Der nicht-Stonewallaing Partner gibt auf. Sie hoffen nicht mehr. Sie werden kalt. Irgendwann verliebt sich diese Person nicht mehr in ihren Partner. Sie sind einfach zusammen, ohne echte Verbindung.
+Die Beziehung kann zu emotionaler Entfremdung führen. Der nicht-Stonewallaing Partner gibt auf. Sie hoffen nicht mehr. Sie werden kalt. Irgendwann [verliebt](/blog/mann-verliebt-anzeichen-komplett) sich diese Person nicht mehr in ihren Partner. Sie sind einfach zusammen, ohne echte Verbindung.
 
 Dies kann zu Untreue führen. Wenn jemand sich emotional nicht verbunden fühlt, suchen sie möglicherweise Verbindung woanders.
 

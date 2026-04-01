@@ -45,7 +45,7 @@ Eine toxische Beziehung ist wenn einer (oder beide) systematisch den anderen unt
 
 Hier sind die Zeichen einer toxischen Beziehung:
 
-**Gaslighting:** Dein Partner macht dir einreden dass deine Wahrnehmung falsch ist. "Das habe ich nie gesagt." "Du bist paranoisch." "Es ist alles in deinem Kopf."
+**[Gaslighting](/blog/gaslighting-komplett-guide):** Dein Partner macht dir einreden dass deine Wahrnehmung falsch ist. "Das habe ich nie gesagt." "Du bist paranoisch." "Es ist alles in deinem Kopf."
 
 Das ist psychologisch extrem destructiv. Es macht dir unmöglich, deinem eigenen Gedanknen zu trauen.
 

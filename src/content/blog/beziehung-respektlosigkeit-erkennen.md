@@ -218,7 +218,7 @@ Das ist ihn, der deinen Schmerz nicht wichtig findet.
 
 Das ist respektlos.
 
-## Die Gaslighting Variante
+## Die [Gaslighting](/blog/gaslighting-komplett-guide) Variante
 
 Eine besondere Form von Respektlosigkeit ist Gaslighting. Das ist, wenn dein Partner dir sagt, dass etwas nicht passiert ist, wenn es wirklich tat.
 

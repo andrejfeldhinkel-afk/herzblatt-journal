@@ -43,7 +43,7 @@ Es ist völlig normal, dass du in der Anfangsphase einer Beziehung dich konzentr
 
 Das Problem entsteht, wenn diese Phase vorüber ist und du merkst, dass du deine Freunde vernachlässigt hast. Manche Freunde werden beleidigt sein oder sich verletzt fühlen. Andere werden sich einfach distanzieren.
 
-Der Schlüssel ist, dies bewusst zu verwalten. Auch wenn du verliebt bist, sorge dafür, dass du deine Freundschaften prflegst.
+Der Schlüssel ist, dies bewusst zu verwalten. Auch wenn du [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, sorge dafür, dass du deine Freundschaften prflegst.
 
 ## Wie man die Balance hält
 

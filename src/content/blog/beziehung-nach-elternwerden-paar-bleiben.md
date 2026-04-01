@@ -184,7 +184,7 @@ Viele Paare berichten, dass ihre Beziehung stärker ist nach Elternschaft, beson
 
 ## Fazit: Geduld mit einander und sich Selbst
 
-Das erste Jahr (und wirklich die ersten 5) sind hart. Sie werden müde, reizbar, angespannt sein. Ihr Partner auch. Die Liebe könnte nicht wie "verliebt" fühlen.
+Das erste Jahr (und wirklich die ersten 5) sind hart. Sie werden müde, reizbar, angespannt sein. Ihr Partner auch. Die Liebe könnte nicht wie "[verliebt](/blog/mann-verliebt-anzeichen-komplett)" fühlen.
 
 Aber Liebe ist auch Geduld. Liebe ist auch Partnerschaft. Liebe ist auch "Ich weiß, du bist überwältigt, und ich bin auch, aber wir sind in diesem zusammen."
 

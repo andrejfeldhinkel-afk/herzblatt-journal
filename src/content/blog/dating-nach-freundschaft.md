@@ -58,7 +58,7 @@ Es gibt auch Zeiten, wenn die Umwandlung nicht funktioniert:
 
 ## Wie man es navigiert
 
-**Sei ehrlich mit dir selbst:** Fühlst du dich wirklich zu dieser Person romantisch angezogen, oder verliebt du dich in die Freundschaft? Das ist eine wichtige Unterscheidung.
+**Sei ehrlich mit dir selbst:** Fühlst du dich wirklich zu dieser Person romantisch angezogen, oder [verliebt](/blog/mann-verliebt-anzeichen-komplett) du dich in die Freundschaft? Das ist eine wichtige Unterscheidung.
 
 **Überlege die Konsequenzen:** Bist du bereit, diese Freundschaft zu riskieren? Wenn nicht, könntest du die Gefühle für dich behalten müssen.
 

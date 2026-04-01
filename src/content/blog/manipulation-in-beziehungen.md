@@ -86,7 +86,7 @@ Beispiele:
 - „Du bist zu empfindlich"
 - „Ich war nur zuschenken" (wenn sie dich verletzt haben)
 
-Gaslighting ist besonders gefährlich, weil es an dein Vertrauen zu deinem eigenen Verstand unterminiert.
+[Gaslighting](/blog/gaslighting-komplett-guide) ist besonders gefährlich, weil es an dein Vertrauen zu deinem eigenen Verstand unterminiert.
 
 ### Liebe-Bombing und Pullback
 

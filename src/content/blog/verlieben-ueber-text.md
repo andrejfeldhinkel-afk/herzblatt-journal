@@ -26,7 +26,7 @@ faq:
 
 Es ist 2 Uhr nachts. Du liest eine Nachricht und musst lächeln. Nicht grinsen. Lächeln. Das echte. Die Person schreibt gerade etwas, das dich zum Nachdenken bringt. Und plötzlich merkst du: "Okay, das ist nicht nur interessant. Das ist... anders."
 
-Und dann denkst du: "Bin ich verliebt?" Und die Antwort ist kompliziert, weil die Antwort von der [psychologie](/blog/aengstlicher-bindungsstil-heilen/) deines Gehirns abhängt, nicht von der echten Person.
+Und dann denkst du: "Bin ich [verliebt](/blog/mann-verliebt-anzeichen-komplett)?" Und die Antwort ist kompliziert, weil die Antwort von der [psychologie](/blog/aengstlicher-bindungsstil-heilen/) deines Gehirns abhängt, nicht von der echten Person.
 
 Ja, man kann sich über Text "verlieben". Aber das ist nicht dasselbe wie echte Verliebtheit. Es ist was anderes. Intensiv, aber anders.
 

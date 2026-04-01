@@ -422,7 +422,7 @@ Wenn es zwischen euch echte Probleme gibt (Untreue, Missbrauch, fundamentale Unv
 Lösung: Gehe zu einem Paartherapeuten. Micro-Dating kann ein Werkzeug sein, um eine gute Beziehung besser zu machen. Aber es kann keine schlechte Beziehung "heilen".
 
 **Grund 4: Deine Erwartungen sind zu hoch**
-Du erwartest, dass Micro-Dating deine Beziehung "retten" wird. Dass dein Partner sich plötzlich verliebt oder dass die Leidenschaft zurückkommt. Das wird nicht passieren.
+Du erwartest, dass Micro-Dating deine Beziehung "retten" wird. Dass dein Partner sich plötzlich [verliebt](/blog/mann-verliebt-anzeichen-komplett) oder dass die Leidenschaft zurückkommt. Das wird nicht passieren.
 
 Micro-Dating ist nicht magisch. Es ist ein Werkzeug für kontinuierliche Verbindung. Das ist es.
 

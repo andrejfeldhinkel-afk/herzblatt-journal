@@ -95,7 +95,7 @@ Nach ein paar Treffen und wenn du dich sicher fühlst? Dann erzähl die echte Fi
 
 Das ist nicht mystisch. Das ist dein Gehirn, das subtile Muster erkennt, die dein Bewusstsein nicht artikulieren kann.
 
-**Red Flags beim Chatten:**
+**[Red Flags](/blog/dating-red-flags-maenner-erkennen) beim Chatten:**
 
 - Sie stellen sich viele Fragen über deine Privatsphäre, Location, Routinen
 - Sie werden ausfallend, wenn du langsam antwortest
@@ -162,7 +162,7 @@ Verifiziert heißt: Die Person hat diese Nummer / Email registriert. Das ist all
 - Ihr Profil ist zu perfekt (Modell-Looks, perfekte Körper, perfekte Leben)
 - Sie haben nur 1-2 Fotos
 - Sie wollen sofort zu WhatsApp / Telegram
-- Sie bauen schnell emotionale Tiefe auf („Ich habe mich in dich verliebt...")
+- Sie bauen schnell emotionale Tiefe auf („Ich habe mich in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett)...")
 - Sie haben eine perfekte Tragödie (verstorbene Familie, Geldproblem, aber „nur du kannst mir helfen")
 - Sie fragen nach Geld / Krypto / Geschenkkarten
 - Sie wollen Bilder von dir (besonders intime)
@@ -197,7 +197,7 @@ Das ist allgemeine Sicherheit, nicht spezifisch für Dating.
 
 Das ist genauso wichtig wie physische Sicherheit. Es gibt Menschen, die dich emotional manipulieren werden.
 
-**Love Bombing:**
+**[Love Bombing](/blog/love-bombing-erkennen-schuetzen):**
 Jemand übertreibt es mit Komplimenten, Aufmerksamkeit, Geschenken. Das fühlt sich anfangs großartig an, aber es ist manipulativ.
 
 **Gaslighting:**

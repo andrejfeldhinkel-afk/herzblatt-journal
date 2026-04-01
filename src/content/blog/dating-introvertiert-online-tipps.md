@@ -184,7 +184,7 @@ Das sind nicht schwierige Anforderungen. Das sind Menschen-Anforderungen, und si
 3. **Sei in Chats authentisch, nicht strategisch**
 4. **Triff dich früher als dir bequem ist (um nicht in Online-Komfort zu fallen)**
 5. **Respektiere deine emotionalen Grenzen**
-6. **Vertrau deinem Bauchgefühl bei Red Flags**
+6. **Vertrau deinem Bauchgefühl bei [Red Flags](/blog/dating-red-flags-maenner-erkennen)**
 7. **Gib nicht auf – dein Mensch ist da draußen**
 
 ## Fazit: Introvertierte daten besser

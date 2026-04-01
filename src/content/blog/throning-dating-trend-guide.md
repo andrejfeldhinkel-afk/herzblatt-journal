@@ -72,7 +72,7 @@ Ein paar Throner sind auch einfach manipulativ oder haben potentiell antisoziale
 
 Die gemeinsame Wurzel ist aber immer: Mein Bedarf ist wichtiger als dein Wohlbefinden. Mein Ego ist fragil. Dein Wert liegt darin, dass du mir nützt.
 
-## Warnsignale: Die unmistakeable Red Flags des Throning
+## Warnsignale: Die unmistakeable [Red Flags](/blog/dating-red-flags-maenner-erkennen) des Throning
 
 Jetzt zur praktischen Ebene: Wie erkennst du, dass du gerade getroned wirst? Es gibt einige ziemlich klare Indikatoren.
 

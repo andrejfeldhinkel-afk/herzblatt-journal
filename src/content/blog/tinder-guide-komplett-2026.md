@@ -309,7 +309,7 @@ Mit hunderten von Profilen verfügbar, wählen manche Menschen niemals. Sie swip
 
 Er wird nicht. Die beste Strategie: Swipen Sie, Match, Datum, urteil. Nicht ewig swipen.
 
-### Wenn Matching zu Ghosting führt
+### Wenn Matching zu [Ghosting](/blog/ghosting-komplett-guide) führt
 
 Du matchst, er schreibt, dann plötzlich – Stille. Das ist Ghosting.
 

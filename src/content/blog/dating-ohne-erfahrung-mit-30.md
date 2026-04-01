@@ -195,5 +195,5 @@ Die rechte Person wird sagen: „Ja. Wir lernen zusammen.”
 
 - [Dating ab 30: Alles was du wissen musst](/blog/dating-nach-30-guide)
 - [Dating mit 30 – Warum jetzt die beste Zeit für die Liebe ist](/blog/dating-nach-30-tipps)
-- [Dating nach einer Ghosting-Erfahrung](/blog/dating-nach-ghosting-erfahrung)
+- [Dating nach einer [Ghosting](/blog/ghosting-komplett-guide)-Erfahrung](/blog/dating-nach-ghosting-erfahrung)
 

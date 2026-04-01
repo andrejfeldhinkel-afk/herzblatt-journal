@@ -79,7 +79,7 @@ Das Schwierigste an Delusionships ist, dass sie sich anfühlen wie echte Beziehu
 
 Eine echte Beziehung ist ein aktives, gegenseitiges Projekt. Eine Delusionship ist ein einseitiges Gedankengebäude.
 
-Das Problem: Delusionships sehen oft von außen aus wie eine [Situationship erkennen](/blog/situationship-erkennen) — eine unklar definierte romantische Situation. Der Unterschied ist subtil aber wichtig. In einer Situationship gibt es zumindest gegenseitiges Interesse und gegenseitige Ignoranz von Grenzen. In einer Delusionship interessiert sich eine Person nicht mal wirklich, während die andere Person das nicht wahrhaben will.
+Das Problem: Delusionships sehen oft von außen aus wie eine [Situationship erkennen](/blog/situationship-erkennen) — eine unklar definierte romantische Situation. Der Unterschied ist subtil aber wichtig. In einer [Situationship](/blog/situationship-erkennen-umgehen) gibt es zumindest gegenseitiges Interesse und gegenseitige Ignoranz von Grenzen. In einer Delusionship interessiert sich eine Person nicht mal wirklich, während die andere Person das nicht wahrhaben will.
 
 ## psychologie: Warum wir uns Beziehungen einbilden
 
@@ -95,7 +95,7 @@ Eine Delusionship ist nicht das Ergebnis von Dummheit oder Naivität. Sie ist ei
 
 **Angst vor echten Beziehungen:** Das ist das tiefste Muster. Eine Delusionship ist "sicher", weil sie außerhalb deiner Kontrolle existiert. Wenn du dir eine Beziehung einbildest, kannst du dich selbst ständig verletzen — aber zumindest weißt du, wer der Gegner ist: du selbst. In echten Beziehungen gibt es echte Unbekannte. Eine andere Person könnte dich verletzen. Das ist viel beängstigender als die vorhersehbare Verletzung einer Delusionship.
 
-**Anhaftung und emotionale Sicherheit:** Oft entstehen Delusionships aus einem tiefen Bedürfnis nach Bindung. Wenn du als Kind an eine Person gebunden warst, die emotional nicht verfügbar war, könntest du dieses Muster in deinen Beziehungen wiederholen. Die Person, in die du dich "verliebt hast", zeigt möglicherweise bewusst oder unbewusst die gleichen Muster: Sie ist verfügbar und nicht verfügbar. Warm und kalt. Interessiert und gleichgültig. Das ist vertraut für dich — es fühlt sich wie "Liebe" an, weil es wie die Liebe ist, die du in der Kindheit erlebtest.
+**Anhaftung und emotionale Sicherheit:** Oft entstehen Delusionships aus einem tiefen Bedürfnis nach Bindung. Wenn du als Kind an eine Person gebunden warst, die emotional nicht verfügbar war, könntest du dieses Muster in deinen Beziehungen wiederholen. Die Person, in die du dich "[verliebt](/blog/mann-verliebt-anzeichen-komplett) hast", zeigt möglicherweise bewusst oder unbewusst die gleichen Muster: Sie ist verfügbar und nicht verfügbar. Warm und kalt. Interessiert und gleichgültig. Das ist vertraut für dich — es fühlt sich wie "Liebe" an, weil es wie die Liebe ist, die du in der Kindheit erlebtest.
 
 Das ist eines der schmerzhaftesten Erkenntnisse: Wir reproduzieren in Delusionships oft die emotionalen Muster unserer Kindheit. Das bedeutet nicht, dass es deine Schuld ist. Es bedeutet, dass du das Glaubenssystem, das du geerbt hast, bewusst überprüfen musst.
 
@@ -143,7 +143,7 @@ Das ist schwer, weil die Geschichte eine emotionale Funktion erfüllt hat. Sie h
 
 Aber du gewinnst etwas Wertvolleres: dein Leben zurück.
 
-**Setze klare grenzen.** Wenn du aus einer Delusionship raus willst, musst du den Kontakt minimieren. Das bedeutet nicht unbedingt Ghosting — es bedeutet, dass du dich selbst respektierst. Du blockierst nicht ihre Nummer, aber du schreibst ihr nicht mehr zuerst. Du antwortest nicht unmittelbar auf ihre Nachrichten. Du siehst dich nicht mit ihr, um "herauszufinden, wie du dich fühlen könntest".
+**Setze klare grenzen.** Wenn du aus einer Delusionship raus willst, musst du den Kontakt minimieren. Das bedeutet nicht unbedingt [Ghosting](/blog/ghosting-komplett-guide) — es bedeutet, dass du dich selbst respektierst. Du blockierst nicht ihre Nummer, aber du schreibst ihr nicht mehr zuerst. Du antwortest nicht unmittelbar auf ihre Nachrichten. Du siehst dich nicht mit ihr, um "herauszufinden, wie du dich fühlen könntest".
 
 Diese Grenzen sind Mittel zur Selbstverteidigung, nicht zur Bestrafung.
 

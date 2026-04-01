@@ -202,7 +202,7 @@ Du stellst eine legitime Frage oder Bedenken. Sein Reaktion ist:
 - Defensive / Anger
 - Dismissive / „Du bist zu sensibel"
 - Silent treatment
-- Gaslighting / „Das habe ich nie gesagt"
+- [Gaslighting](/blog/gaslighting-komplett-guide) / „Das habe ich nie gesagt"
 
 Ein gesunder Partner kann schwierige Gespräche ertragen. Ein toxischer nicht.
 

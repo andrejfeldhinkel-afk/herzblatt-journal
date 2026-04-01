@@ -164,7 +164,7 @@ Wenn du offline pickst: Häufig in soziale Situationen gehen, wo du üben kannst
 
 **Strategie 2: Reframe das Ziel**
 
-Du denkst: „Mein Ziel ist, dass sie sich in mich verliebt."
+Du denkst: „Mein Ziel ist, dass sie sich in mich [verliebt](/blog/mann-verliebt-anzeichen-komplett)."
 
 Das ist unmöglich zu kontrollieren und setzt dich unter Druck.
 

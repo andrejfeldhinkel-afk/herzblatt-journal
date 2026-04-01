@@ -285,7 +285,7 @@ Dies führt zu sozialer Isolation, was Depressionen und Angststörungen verschli
 
 Ein besonders schmerzhaftes Element ist das Gefühl, verrückt zu werden. Weil dein Partner sich unauffällig distanziert (nicht mit großen dramatischen Gesten), fragst du dich, ob du die Situation richtig wahrnimmst. "Vielleicht bin ich zu empfindlich. Vielleicht stelle ich mir das ein."
 
-Das ist eine Form von emotionalem Gaslighting und kann zu einer dissoziativen Erfahrung führen, wo du nicht mehr vertraust, was du wirklich fühlst.
+Das ist eine Form von emotionalem [Gaslighting](/blog/gaslighting-komplett-guide) und kann zu einer dissoziativen Erfahrung führen, wo du nicht mehr vertraust, was du wirklich fühlst.
 
 Die Wahrheit ist: Diese Auswirkungen sind real. Du bist nicht verrückt. Und du verdienst eine Beziehung, die deine mentale Gesundheit unterstützt, nicht untergräbt.
 
@@ -592,7 +592,7 @@ Laura ist mit Chris zusammen. Chris ist ein toller Mensch — attraktiv, erfolgr
 
 Chris funktioniert perfekt — aber es ist wie mit einer Maschine zusammen zu sein. Es gibt keine Spontaneität, keine echten Gefühle, keine echte Leidenschaft. Alles ist optimiert, perfekt, leer.
 
-Laura beginnt zu verstehen, dass sie verliebt in eine Illusion ist. Der echte Chris ist jemand ganz anderes — und dieser echte Chris ist nicht sehr tiefgründig.
+Laura beginnt zu verstehen, dass sie [verliebt](/blog/mann-verliebt-anzeichen-komplett) in eine Illusion ist. Der echte Chris ist jemand ganz anderes — und dieser echte Chris ist nicht sehr tiefgründig.
 
 ## Praktische Übungen zur Selbstreflexion
 

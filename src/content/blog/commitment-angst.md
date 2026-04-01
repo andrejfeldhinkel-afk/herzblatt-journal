@@ -64,7 +64,7 @@ Sag deinem Partner: „Ich habe Angst vor Nähe, und ich arbeite daran." Das ist
 
 ### Kleine Schritte statt Sprünge
 
-Du musst nicht morgen zusammenziehen. Fang klein an: ein fester Wochentag, ein gemeinsamer Urlaub, ein Schlüssel. Jeder kleine Schritt in Richtung Verbindlichkeit ist ein Sieg.
+Du musst nicht morgen [zusammenziehen](/blog/zusammenziehen-checkliste). Fang klein an: ein fester Wochentag, ein gemeinsamer Urlaub, ein Schlüssel. Jeder kleine Schritt in Richtung Verbindlichkeit ist ein Sieg.
 
 ### Professionelle Hilfe
 

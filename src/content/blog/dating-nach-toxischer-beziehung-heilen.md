@@ -136,7 +136,7 @@ Es gibt verschiedene Wege, Wut zu verarbeiten:
 
 Mit Zeit wird die Wut zu Mitgefühl oder zumindest zu Gleichgültigkeit. Du wirst aufhören, ihn zu hassen und beginnen, ihn zu bedauern.
 
-## Warnsignale erkennen: Red Flags Learning
+## Warnsignale erkennen: [Red Flags](/blog/dating-red-flags-maenner-erkennen) Learning
 
 Eine der wichtigsten Lektionen aus einer toxischen Beziehung ist, rote Fahnen früher zu erkennen. Du wirst Fehler machen und Menschen mit schlechten Zeichen datieren. Aber wenn du weißt, worauf du achten musst, kann du früher gehen.
 
@@ -150,7 +150,7 @@ Eine der wichtigsten Lektionen aus einer toxischen Beziehung ist, rote Fahnen fr
 
 **Er zeigt wenig Empathie**: Wenn du dich schlecht fühlst und er nicht interessiert ist, das ist nicht gut. Ein liebevoller Partner möchte wissen, dass du okay bist.
 
-**Er macht dich für sein Verhalten verantwortlich**: Wenn du wütend wirst und er sagt "Du machst mich so wütend", das ist Gaslighting. Er ist für seine Gefühle und Handlungen verantwortlich.
+**Er macht dich für sein Verhalten verantwortlich**: Wenn du wütend wirst und er sagt "Du machst mich so wütend", das ist [Gaslighting](/blog/gaslighting-komplett-guide). Er ist für seine Gefühle und Handlungen verantwortlich.
 
 **Er manipuliert deine Emotionen**: Er sagt Dinge, um dich eifersüchtig oder unsicher zu machen. Oder er verbietet dir Dinge, um zu kontrollieren.
 
@@ -233,7 +233,7 @@ Schreib deine Dealbreaker auf. Merke sie dir. Wenn er eines tut, gehe weg. Nicht
 
 Du bist der Schlüssel zu deinem eigenen Glück. Wenn jemand deine Grenzen nicht respektiert, gehe weg.
 
-Das ist schwer, besonders wenn du verliebt wirst. Du könntest denken: Vielleicht bin ich zu streng. Vielleicht bin ich unlogisch. Vielleicht sollte ich geben.
+Das ist schwer, besonders wenn du [verliebt](/blog/mann-verliebt-anzeichen-komplett) wirst. Du könntest denken: Vielleicht bin ich zu streng. Vielleicht bin ich unlogisch. Vielleicht sollte ich geben.
 
 Nein. Deine Grenzen sind nicht verhandelbar. Das sind die Dinge, die dich sicher halten. Schütze sie.
 

@@ -577,7 +577,7 @@ Der Prozess ist immer ähnlich:
 
 1. **Die Anziehungs-Phase**: Der Scammer ist super charming, interessiert sich für dich, schreibt viel. Nach ein bis zwei Wochen fühlt sich das wie eine echte Beziehung an.
 
-2. **Die emotionale Bindungs-Phase**: Der Scammer sagt dir, dass er sich in dich verliebt hat. Er redet von Zukunfts-Plänen. Vielleicht schlägt er vor, dass ihr heiraten, zusammenziehen oder ein Geschäft starten.
+2. **Die emotionale Bindungs-Phase**: Der Scammer sagt dir, dass er sich in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett) hat. Er redet von Zukunfts-Plänen. Vielleicht schlägt er vor, dass ihr heiraten, [zusammenziehen](/blog/zusammenziehen-checkliste) oder ein Geschäft starten.
 
 3. **Die Problem-Phase**: Plötzlich passiert etwas. Ein Notfall. Ein Geschäfts-Problem. Eine medizinische Krise. Etwas, das Geld braucht.
 
@@ -824,7 +824,7 @@ Vertrau dieser inneren Stimme. Im Zweifelsfall, beende den Kontakt. Es gibt genu
 
 ## Die Ressourcen zum Selberschützen
 
-Wenn du mehr über [Online-Dating-Betrug erkennen](online-dating-betrug-erkennen) erfahren möchtest oder tiefergehen in die Thematik gehen willst, schau dir auch unsere Artikel zu [Online-Dating-Sicherheit-Tipps](online-dating-sicherheit-tipps) und [Dating Red Flags bei Männern](dating-red-flags-maenner) an.
+Wenn du mehr über [Online-Dating-Betrug erkennen](online-dating-betrug-erkennen) erfahren möchtest oder tiefergehen in die Thematik gehen willst, schau dir auch unsere Artikel zu [Online-Dating-Sicherheit-Tipps](online-dating-sicherheit-tipps) und [Dating [Red Flags](/blog/dating-red-flags-maenner-erkennen) bei Männern](dating-red-flags-maenner) an.
 
 Diese Artikel geben dir weitere konkrete Tipps und Strategien, um sicher zu bleiben.
 

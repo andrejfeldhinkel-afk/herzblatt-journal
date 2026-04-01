@@ -19,7 +19,7 @@ faq:
 
 # Beziehungspause: Wann sie sinnvoll ist und wie sie gelingt
 
-Eine Beziehungspause ist ein heikles Thema, das oft mit Verwirrung, Unsicherheit und Angst verbunden ist. Ist es das Ende der Beziehung? Ist es ein Fluchtversuch? Oder ist es tatsächlich eine Möglichkeit, die Beziehung zu retten? Die Wahrheit ist, dass eine Beziehungspause unter bestimmten Umständen sinnvoll und therapeutisch sein kann. Der Schlüssel liegt darin, zu verstehen, wann eine Pause notwendig ist, wie man sie richtig durchführt und wie man sie nutzt, um die Beziehung zu heilen oder eine Entscheidung zu treffen.
+Eine [Beziehungspause](/blog/beziehung-pause-regeln) ist ein heikles Thema, das oft mit Verwirrung, Unsicherheit und Angst verbunden ist. Ist es das Ende der Beziehung? Ist es ein Fluchtversuch? Oder ist es tatsächlich eine Möglichkeit, die Beziehung zu retten? Die Wahrheit ist, dass eine Beziehungspause unter bestimmten Umständen sinnvoll und therapeutisch sein kann. Der Schlüssel liegt darin, zu verstehen, wann eine Pause notwendig ist, wie man sie richtig durchführt und wie man sie nutzt, um die Beziehung zu heilen oder eine Entscheidung zu treffen.
 
 ## Was ist eine Beziehungspause wirklich?
 

@@ -25,7 +25,7 @@ faq:
 
 ## Eine ungewöhnliche Beziehung – Das Leben mit Uniform
 
-Das Militär ist nicht nur ein Job – es ist ein Lebensstil, eine Identität, fast eine zweite Familie. Wenn man sich in einen Soldaten oder eine Soldatin verliebt, verliebt man sich nicht nur in die Person, sondern auch in diese gesamte Realität mit all ihren Komplexitäten. Das ist grundlegend anders als in anderen Beziehungen.
+Das Militär ist nicht nur ein Job – es ist ein Lebensstil, eine Identität, fast eine zweite Familie. Wenn man sich in einen Soldaten oder eine Soldatin [verliebt](/blog/mann-verliebt-anzeichen-komplett), verliebt man sich nicht nur in die Person, sondern auch in diese gesamte Realität mit all ihren Komplexitäten. Das ist grundlegend anders als in anderen Beziehungen.
 
 Dieser Artikel ist für alle, die mit der Komplexität dieser speziellen Partnerschaft kämpfen. Ihr seid nicht allein, und es gibt konkrete, bewährte Strategien, die helfen.
 

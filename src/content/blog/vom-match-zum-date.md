@@ -372,7 +372,7 @@ Was du tun kannst:
 
 **Gib dem eine Chance.** Ein Treffen ist kein endgültiger Urteilsspruch. Manchmal wird die Chemie besser, wenn ihr die Nervosität überwindet.
 
-**Sei ehrlich, aber nett.** Wenn du nicht wieder treffen möchtest, ist es besser, das schnell zu sagen, als zu warten, bis zu viele Gefühle beteiligt sind. "Ich glaube, wir passen nicht zusammen. Aber ich wünsche dir viel Glück" ist besser als Ghosting.
+**Sei ehrlich, aber nett.** Wenn du nicht wieder treffen möchtest, ist es besser, das schnell zu sagen, als zu warten, bis zu viele Gefühle beteiligt sind. "Ich glaube, wir passen nicht zusammen. Aber ich wünsche dir viel Glück" ist besser als [Ghosting](/blog/ghosting-komplett-guide).
 
 **Lerne daraus.** Hat die Person gelogen? Waren die Fotos gefälscht? Das ist Information. Die nächste Person – stelle klarere Erwartungen.
 

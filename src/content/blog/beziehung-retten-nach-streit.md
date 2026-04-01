@@ -215,7 +215,7 @@ Dies ist eine wichtige Frage. Wann ist ein Streit zu groß, um zu überwinden?
 
 Es gibt Dinge, die unentschuldbar sind:
 - Körperliche Gewalt
-- Emotional Missbrauch oder Gaslighting
+- Emotional Missbrauch oder [Gaslighting](/blog/gaslighting-komplett-guide)
 - Untreue
 - Anhaltende emotional Vernachlässigung
 - Süchtiges Verhalten ohne Bereitschaft, Hilfe zu bekommen

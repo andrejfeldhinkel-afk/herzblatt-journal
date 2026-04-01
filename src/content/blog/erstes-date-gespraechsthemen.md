@@ -510,5 +510,5 @@ Die 50 Fragen sind nur Werkzeuge – sie sind nicht die Bestimmung. Die Bestimmu
 - [50 kreative Date-Ideen: So wird euer erstes Treffen von der](/blog/kreative-date-ideen-dating-app/)
 - [Das erste Telefonat vor dem Date: So machst du es richtig](/blog/erstes-telefonat-vor-date/)
 - [Drittes Date Ideen: Jetzt wird es persönlich](/blog/drittes-date-ideen/)
-- [10 Red Flags beim ersten Date die du nicht ignorieren](/blog/dating-rote-flaggen-erstes-date/)
+- [10 [Red Flags](/blog/dating-red-flags-maenner-erkennen) beim ersten Date die du nicht ignorieren](/blog/dating-rote-flaggen-erstes-date/)
 - [Chemistry beim Date: Woran du echte Anziehung erkennst und](/blog/chemistry-beim-date-erkennen/)

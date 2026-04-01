@@ -184,7 +184,7 @@ Das klingt übertrieben, aber es hilft.
 
 Es gibt bestimmte Verhaltensweisen, die signalisieren, dass jemand unsicher ist.
 
-### Die Top Red Flags
+### Die Top [Red Flags](/blog/dating-red-flags-maenner-erkennen)
 
 **1. Kontrollverhalten**
 
@@ -259,7 +259,7 @@ Das ist okay. Aber jetzt musst du proaktiv sein um Stalking zu vermeiden.
 
 Nicht ghost. Sag: „Danke, aber es war keine Chemie."
 
-Ghosting kann manchmal Obsession führen.
+[Ghosting](/blog/ghosting-komplett-guide) kann manchmal Obsession führen.
 
 **2. Vermeide Ihre Social Media zu folgen**
 

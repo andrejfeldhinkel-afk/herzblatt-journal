@@ -72,7 +72,7 @@ Das ist ein klassisches Szenario. Sein Liebesbeweis ist bedingt an ihre Gefügig
 
 **Ständige Kritik:** Alles an ihr ist falsch. Wie sie aussieht. Wie sie spricht. Wie sie ihre Zeit verbringt. Nichts ist je genug. Die Botschaft ist deutlich: Du bist nicht gut genug. Du solltest mir dankbar sein, dass ich bei dir bleibe.
 
-**Gaslighting:** Er verleugnet Dinge, die passiert sind. "Das habe ich nie gesagt." "Das ist in deinem Kopf." "Du bist verrückt." Sie fängt an, ihrer eigenen Realität nicht zu trauen.
+**[Gaslighting](/blog/gaslighting-komplett-guide):** Er verleugnet Dinge, die passiert sind. "Das habe ich nie gesagt." "Das ist in deinem Kopf." "Du bist verrückt." Sie fängt an, ihrer eigenen Realität nicht zu trauen.
 
 **Intermittente Verstärkung:** Manchmal ist er liebevoll. Manchmal ist er grausam. Diese Unvorhersehbarkeit hält sie emotional gebunden – sie arbeitet immer weg, um den liebevollen Versionen von ihm zu sehen.
 

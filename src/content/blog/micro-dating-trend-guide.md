@@ -475,7 +475,7 @@ Nicht spielerisch. Nicht warten. Direkt.
 
 **Tipp 6: Wenn es nicht passt**
 
-Sag schnell nein. Nicht nach einer Woche. Nicht mit Ghosting.
+Sag schnell nein. Nicht nach einer Woche. Nicht mit [Ghosting](/blog/ghosting-komplett-guide).
 
 "Mir hat es Spaß gemacht, dich zu treffen, aber ich glaube nicht, dass wir kompatibel sind. Alles Beste für dich."
 

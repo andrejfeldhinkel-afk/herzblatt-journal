@@ -67,7 +67,7 @@ Behandelt diese Dates wie zu Beginn eurer Beziehung — macht euch schick, plant
 Ein ehrliches Gespräch darüber, was ihr euch von der Beziehung wünscht, kann neue Energie freisetzen. "Wenn du deine ideale Beziehung mit mir könntest, wie würde sie aussehen?" Diese Frage kann alles ändern.
 
 **4. Überrascht euch gegenseitig** — nicht mit großen Geschenken, sondern mit Aufmerksamkeit. Kleine Gesten zeigen, dass ihr den anderen nicht für selbstverständlich nehmt:
-- Ein Liebesbrief mit echten, spezifischen Gründen, warum du diese Person liebst
+- Ein [Liebesbrief](/blog/liebesbrief-schreiben-anleitung) mit echten, spezifischen Gründen, warum du diese Person liebst
 - Ein spontanes Geschenk — nicht zu deinem Geburtstag, sondern just because
 - Ein unerwartetes Kompliment — nicht über das Aussehen, sondern über die Person
 - Eine spontane Geste: Du hast an die andere Person gedacht und tat etwas Schönes dafür

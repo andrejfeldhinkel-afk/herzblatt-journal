@@ -92,7 +92,7 @@ Aber diese zwei OK's können nicht zusammenleben. Das ist die schwierige Wahrhei
 
 ### Nicht auf die Hoffnung bauen dass sich die Meinung ändert
 
-Das ist der häufigste Fehler. Du denkst: "Wenn wir verheiratet sind, ändert er sich. Wenn wir zusammenziehen, ändert er sich. Wenn er/sie älter wird, ändert sie sich."
+Das ist der häufigste Fehler. Du denkst: "Wenn wir verheiratet sind, ändert er sich. Wenn wir [zusammenziehen](/blog/zusammenziehen-checkliste), ändert er sich. Wenn er/sie älter wird, ändert sie sich."
 
 Das ist Lügen, die du dir selbst erzählst. Menschen ändern ihre Grundmeinung zu Kinder nicht, weil Beziehungen sich vertiefen. Wenn überhaupt, werden sie noch mehr gegen Kinder weil sie das Leben ohne Kinder lieben.
 

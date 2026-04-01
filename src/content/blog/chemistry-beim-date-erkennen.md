@@ -64,7 +64,7 @@ Gleichzeitig werden Neurotransmitter freigesetzt:
 
 Wenn diese drei zusammenkommen, fühlt sich Chemistry wie Magie an.
 
-Das Problem: Diese gleichen Chemikalien werden auch freigesetzt wenn du in einen Narzissten verliebt wirst. Das ist warum Menschen oft mit toxischen Menschen eine "starke Chemistry" haben. Das Gehirn kann den Unterschied nicht sofort erkennen.
+Das Problem: Diese gleichen Chemikalien werden auch freigesetzt wenn du in einen Narzissten [verliebt](/blog/mann-verliebt-anzeichen-komplett) wirst. Das ist warum Menschen oft mit toxischen Menschen eine "starke Chemistry" haben. Das Gehirn kann den Unterschied nicht sofort erkennen.
 
 ## Die Neurowissenschaft der Chemistry — Tiefe Analyse der Chemikalien
 
@@ -290,7 +290,7 @@ Hier muss ich ehrlich sein. Das ist meistens nicht wahr.
 
 Menschen denken oft: "Sie ist nett, ich muss ihr nur mehr Zeit geben."
 
-Das ist das Rezept für das Friendzone. Und schmerzhafterweise ist das nicht fair zu der anderen Person. Sie warten darauf dass du Gefühle entwickelst, die nicht kommen.
+Das ist das Rezept für das [Friendzone](/blog/friendzone-entkommen-guide). Und schmerzhafterweise ist das nicht fair zu der anderen Person. Sie warten darauf dass du Gefühle entwickelst, die nicht kommen.
 
 **Die Wahrheit:** Physische Anziehung kann langsam wachsen (Slow-Burn Chemistry). Aber wenn du nach 2-3 Dates absolut nichts fühlst, wird es nicht passieren.
 

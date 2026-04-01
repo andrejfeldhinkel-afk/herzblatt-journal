@@ -74,7 +74,7 @@ Achte auf Menschen, die dich über deine Vergangenheit urteilen. Das ist nicht a
 
 Achte auf Menschen, die dich "heilen" wollen oder die Entscheidung "reparieren". Du brauchst keine Reparatur. Du brauchst Verständnis.
 
-Achte auf Menschen, die die Entscheidung gegen dich halten oder sagen, sie hätten dich "überredet" abzutreiben. Das ist Gaslighting und es ist inakzeptabel.
+Achte auf Menschen, die die Entscheidung gegen dich halten oder sagen, sie hätten dich "überredet" abzutreiben. Das ist [Gaslighting](/blog/gaslighting-komplett-guide) und es ist inakzeptabel.
 
 Die richtige Person wird respektiert, dass du eine schwierige Wahl getroffen hast. Sie werden nicht versuchen, dich dafür zu beschämen.
 

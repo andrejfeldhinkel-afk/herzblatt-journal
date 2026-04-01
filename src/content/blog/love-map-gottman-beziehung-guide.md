@@ -454,7 +454,7 @@ Indem du deine eigene Love Map verstehst, kannst du:
 
 1. Klarheit über, wer du wirklich bist (nicht, wer du denkst, dass du sein solltest)
 2. Klarheit über, welche Art von Partner du wirklich brauchst
-3. Fähigkeit, Red Flags früher zu erkennen
+3. Fähigkeit, [Red Flags](/blog/dating-red-flags-maenner-erkennen) früher zu erkennen
 4. Bessere Wahl treffen
 
 Eine Solo Love Map ist auch ein Akt von Selbstliebe. Es sagt: „Mein Leben, meine Träume, meine Ängste—das zählt."

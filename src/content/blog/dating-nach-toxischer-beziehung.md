@@ -41,7 +41,7 @@ Eine der wichtigsten Lehren aus einer toxischen Beziehung ist die Bedeutung von 
 
 Überlege dir: Welche Verhaltensweisen werde ich nicht tolerieren? Wie viel emotionale Arbeit werde ich in eine Beziehung investieren? Welche Werte sind nicht verhandelbar? Dies wird dir helfen, schneller Incompatibilität zu erkennen.
 
-## Die Red Flags früh erkennen
+## Die [Red Flags](/blog/dating-red-flags-maenner-erkennen) früh erkennen
 
 Nach einer toxischen Beziehung wirst du wahrscheinlich verletzlicher gegenüber Red Flags werden. Das ist normal. Der Schlüssel ist, sie früh zu erkennen.
 

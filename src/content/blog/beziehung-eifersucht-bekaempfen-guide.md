@@ -280,7 +280,7 @@ Und das ist echte Freiheit.
 
 Hier muss ich etwas wichtiges sagen: Es gibt einen Punkt, wo Eifersucht aufhört, ein emotionales Problem zu sein, und zu einem Sicherheitsproblem wird.
 
-Kontrollierende Verhaltensweisen - Handy-Kontrolle, Isolation, Gaslighting, emotionale Drohungen - das sind Warnsignale von emotionalem oder physischem Missbrauch.
+Kontrollierende Verhaltensweisen - Handy-Kontrolle, Isolation, [Gaslighting](/blog/gaslighting-komplett-guide), emotionale Drohungen - das sind Warnsignale von emotionalem oder physischem Missbrauch.
 
 Wenn du das erlebst: Das ist nicht "meine Eifersucht überwinden." Das ist "Ich muss diese Beziehung verlassen."
 

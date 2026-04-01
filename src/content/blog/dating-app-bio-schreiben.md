@@ -160,7 +160,7 @@ Eine gute Strategie ist, dass deine Bio und deine Fotos die gleiche Geschichte e
 
 ## Die richtige Plattform für deine Bio verstehen
 
-Verschiedene Dating-Apps haben unterschiedliche Kulturen und Anforderungen. Tinder ist eher auf oberflächliches Swiping ausgerichtet, daher kann deine Bio eher spielerisch und kurz sein. Hinge hat den Ruf, "die App, auf der man sich verliebt", zu sein, daher sollte deine Bio dort mehr Tiefe zeigen.
+Verschiedene Dating-Apps haben unterschiedliche Kulturen und Anforderungen. Tinder ist eher auf oberflächliches Swiping ausgerichtet, daher kann deine Bio eher spielerisch und kurz sein. Hinge hat den Ruf, "die App, auf der man sich [verliebt](/blog/mann-verliebt-anzeichen-komplett)", zu sein, daher sollte deine Bio dort mehr Tiefe zeigen.
 
 Bumble hat eine starke Fokus auf Frauen, die die erste Nachricht schreiben müssen, daher kann deine Bio als Mann mehr Anreiz zum Schreiben geben. Auf dating-spezifischen Apps wie Match oder ElitePartner können längere, durchdachtere Bios besser funktionieren.
 

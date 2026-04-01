@@ -21,7 +21,7 @@ faq:
 
 Diese Übergang ist eine der größten Veränderungen, die ein Paar durchlebt. Wie machst du es richtig?
 
-## Warum Fernbeziehungen zusammenziehen
+## Warum Fernbeziehungen [zusammenziehen](/blog/zusammenziehen-checkliste)
 
 Fernbeziehungen funktionieren, weil sie sorgfältig gepflegt werden. Jeder Besuch ist geplant. Jedes Gespräch ist bewusst. Es gibt keine alltägliche Langeweile. Aber das ist nicht das echte Leben.
 

@@ -98,4 +98,4 @@ Eine Fernbeziehung ist ein Übergang, kein Zielzustand. Je klarer das ist, desto
 - [Fernbeziehung — Der ultimative Guide zum Überleben und](/blog/fernbeziehung-ueberleben-masterguide/)
 - [Beziehung mit einem Narzissten — Erkennen, Überleben,](/blog/beziehung-narzisst-ueberleben/)
 - [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung/)
-- [Fernbeziehung: Der Schritt zum Zusammenziehen – Ein praktischer Plan](/blog/beziehung-fernbeziehung-zusammenziehen/)
+- [Fernbeziehung: Der Schritt zum Zusammenziehen – Ein praktischer Plan](/blog/beziehung-fernbeziehung-[zusammenziehen](/blog/zusammenziehen-checkliste)/)

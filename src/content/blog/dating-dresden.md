@@ -1,12 +1,21 @@
 ---
-title: "Dating in Dresden: Singles und Spots"
-description: "Dating in Dresden: Finde Singles und entdecke die romantischsten Spots. Barocke Kulisse, Elbe und perfekte Orte zum Verlieben."
+title: "Dating in Dresden: Die 15 besten Date-Spots & Tipps für Singles"
+description: "Die besten Date-Ideen in Dresden: Von romantischen Elbe-Spaziergängen über Neustadt-Bars bis zu Geheimtipps. Perfekte Orte für erstes Date, Pärchen und Singles."
 date: 2025-05-07
 image: "/images/photos/dating-dresden.webp"
 tags:
   - "dating"
   - "dresden"
   - "orte"
+keywords: ["Dating Dresden", "Date Ideen Dresden", "Singles Dresden", "Date Spots Dresden", "erstes Date Dresden"]
+author: "laura-weber"
+faq:
+  - question: "Wo kann man in Dresden gut daten?"
+    answer: "Die beliebtesten Date-Spots in Dresden sind die Brühlsche Terrasse mit Elbe-Blick, die Neustadt mit ihren Cafés und Bars, der Große Garten für Spaziergänge und die Altstadt rund um die Frauenkirche. Für ein besonderes Date eignen sich auch die Elbschlösser oder eine Fahrt mit dem Dampfschiff."
+  - question: "Welche Date-Ideen gibt es in Dresden bei Regen?"
+    answer: "Bei schlechtem Wetter bieten sich an: Das Grüne Gewölbe oder die Gemäldegalerie, ein gemütliches Café in der Neustadt, ein Kochkurs, der Escape Room oder ein Besuch im Programmkino Schauburg."
+  - question: "Wo lernt man in Dresden Singles kennen?"
+    answer: "Die besten Orte zum Kennenlernen sind die Bars und Kneipen in der Dresdner Neustadt (besonders die Louisenstraße), Sportvereine, kulturelle Events und natürlich Dating-Apps. Dresden hat eine aktive Single-Szene, besonders durch die vielen Studenten."
 ---
 
 ## dating In Dresden: Singles Und Date-Spots

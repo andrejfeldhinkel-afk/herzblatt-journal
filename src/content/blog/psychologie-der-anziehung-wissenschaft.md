@@ -30,7 +30,7 @@ Gute Nachricht: Die Wissenschaft hat in den letzten zwei Jahrzehnten enorm viel 
 
 Dieser Artikel wird dich durch die Neurowissenschaft, die Evolutionspsychologie und die praktische Anwendung der Anziehungswissenschaft führen. Am Ende wirst du nicht nur verstehen, warum du dich in Menschen verliebst, sondern auch, wie du tiefere, authentischere Verbindungen aufbaust.
 
-## Das Gehirn verliebt: Die Neurochemie der Anziehung
+## Das Gehirn [verliebt](/blog/mann-verliebt-anzeichen-komplett): Die Neurochemie der Anziehung
 
 ### Der erste Blick: Dopamin und Belohnung
 

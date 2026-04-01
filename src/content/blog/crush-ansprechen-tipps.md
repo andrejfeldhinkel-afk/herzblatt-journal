@@ -132,7 +132,7 @@ Und dann: Kurz vor dem Date nochmal bestätigen. Nicht ständig schreiben sonder
 
 Detaillierte Infos bietet Bundesamt für Sicherheit in der Informationstechnik: [Bundesamt für Sicherheit in der Informationstechnik](https://www.bsi.bund.de/)
 
-Ein echtes Beispiel: Kai, 26, litt unter „Ghosting". Bis er merkte dass er nie konkrete Verabredungen machte. Er sagte zu Frauen „Lass uns mal abhängen" statt „Samstag 15 Uhr Kino?" Sobald er konkreter wurde wurden mehr Dates zu echten Treffen.
+Ein echtes Beispiel: Kai, 26, litt unter „[Ghosting](/blog/ghosting-komplett-guide)". Bis er merkte dass er nie konkrete Verabredungen machte. Er sagte zu Frauen „Lass uns mal abhängen" statt „Samstag 15 Uhr Kino?" Sobald er konkreter wurde wurden mehr Dates zu echten Treffen.
 
 ## Der innere Grund: Warum Mut langfristig auszahlt
 

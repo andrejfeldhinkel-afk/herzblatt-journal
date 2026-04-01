@@ -38,7 +38,7 @@ Der erste Schritt ist zu erkennen, dass es wirklich Zeit ist zu gehen. Dies ist 
 - Du vertraust deinem Partner nicht mehr oder es wurde zerbrochen und repariert nicht
 - Der andere oder du wird emotional missbräuchlich, kontrollierend oder manchmal körperlich aggressiv
 - Ihr habt fundamental unterschiedliche Lebensziele und Werte, die sich nicht vereinbaren lassen
-- Du bist nicht mehr in den anderen verliebt oder respektierst ihn nicht mehr
+- Du bist nicht mehr in den anderen [verliebt](/blog/mann-verliebt-anzeichen-komplett) oder respektierst ihn nicht mehr
 - Du bleibst nur aus Angst vor Einsamkeit, aus Pflicht oder aus Schuldgefühl, nicht aus echter Liebe
 - Deine Sicherheit oder psychisches Wohlbefinden ist in Gefahr
 - Ihr habt versucht, Paartherapie zu machen, aber dein Partner weigert sich oder es schlägt fehl

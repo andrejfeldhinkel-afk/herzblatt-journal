@@ -20,7 +20,7 @@ faq:
 ---
 
 
-Du sitzt neben ihm, dein Herz rast, und die Worte bleiben dir im Hals stecken. Diese Situation kennt jeder, der sich unsterblich in jemanden verliebt hat. Die Angst vor Ablehnung ist real, aber die noch größere Angst ist oft, es einfach nie zu sagen.
+Du sitzt neben ihm, dein Herz rast, und die Worte bleiben dir im Hals stecken. Diese Situation kennt jeder, der sich unsterblich in jemanden [verliebt](/blog/mann-verliebt-anzeichen-komplett) hat. Die Angst vor Ablehnung ist real, aber die noch größere Angst ist oft, es einfach nie zu sagen.
 
 Ich zeige dir heute, wie du deine Gefühle authentisch ausdrückst – ohne dabei einen Auftritt zu machen oder dein Gesicht zu verlieren. Du wirst 12 konkrete Wege kennenlernen, und am wichtigsten: Du wirst verstehen, dass Verletzlichkeit kein Fehler ist.
 

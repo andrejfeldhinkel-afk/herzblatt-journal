@@ -339,7 +339,7 @@ An deinen schlechten Tagen könntest du wollen, dass eine Date dich rettet. An d
 Der Weg, damit umzugehen:
 - Erkenne an, dass deine Emotionen nicht stabil sind und das ist okay
 - Treffe wichtige Entscheidungen nicht an schlechten Tagen
-- Warte ein paar Tage, bevor du jemandem sagst, dass du dich verliebt hast
+- Warte ein paar Tage, bevor du jemandem sagst, dass du dich [verliebt](/blog/mann-verliebt-anzeichen-komplett) hast
 - Vertrau deinem Bauchgefühl, aber hinterfrag auch deine Gedanken
 
 Mit der Zeit wird die emotionale Achterbahn weniger intensiv. Die guten Tage werden häufiger und die schlechten Tage werden weniger schlecht.

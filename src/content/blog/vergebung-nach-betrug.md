@@ -52,7 +52,7 @@ Drei Voraussetzungen müssen erfüllt sein. Ohne mindestens zwei davon wird "Ver
 
 ### 1. Volle Verantwortung übernehmen
 
-Dein Partner muss vollständig zugeben, was passiert ist. Keine Ausreden, kein „Du warst ja auch nicht mehr aufmerksam." Das ist Gaslighting verkleidet als Erklärung. Volle Verantwortung bedeutet: „Ich habe dich betrogen. Das war falsch. Ich übernehme dafür Verantwortung."
+Dein Partner muss vollständig zugeben, was passiert ist. Keine Ausreden, kein „Du warst ja auch nicht mehr aufmerksam." Das ist [Gaslighting](/blog/gaslighting-komplett-guide) verkleidet als Erklärung. Volle Verantwortung bedeutet: „Ich habe dich betrogen. Das war falsch. Ich übernehme dafür Verantwortung."
 
 Es ist nicht akzeptabel:
 - „Es ist nur einmal passiert" (warum sagt man das?)

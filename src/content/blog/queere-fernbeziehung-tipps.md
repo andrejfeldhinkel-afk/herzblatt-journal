@@ -54,7 +54,7 @@ Das bedeutet: Wenn du bereits in einer Beziehung bist und sich outest – oder w
 
 ### Internationale Aspekte
 
-Es gibt auch internationale queere Fernbeziehungen. Du triffst jemanden aus einem anderen Land online oder bei einem Besuch. Du bist verliebt. Und dann: Visa, Visa, Visa.
+Es gibt auch internationale queere Fernbeziehungen. Du triffst jemanden aus einem anderen Land online oder bei einem Besuch. Du bist [verliebt](/blog/mann-verliebt-anzeichen-komplett). Und dann: Visa, Visa, Visa.
 
 Die queere Community ist relativ international. Menschen reisen, Menschen bewegen sich. Es ist nicht selten, dass du jemanden vom anderen Ende der Welt triffst und dich verliebst.
 

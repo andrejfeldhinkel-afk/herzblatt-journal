@@ -101,7 +101,7 @@ Der Mensch, der dich von deinen Freunden und Familie isoliert. Er findet Ausrede
 
 Der Mensch, der deine Privatsphäre in Frage stellt. Er möchte dein Telefon durchsuchen. Er möchte wissen, wen du fragst. Er wird eifersüchtig auf Menschen, mit denen du redest. Das ist nicht Liebe. Das ist Besitzanspruch. Das ist auch oft ein Vorläufer zu stalkingartigem Verhalten.
 
-Der Mensch, der nach wenigen Treffen zu schnell zu viel will. „Ich bin verliebt in dich" nach zwei Wochen. Pläne für die Zukunft nach dem ersten Monat. Dies ist ein Muster, das Stalker oft zeigen – sie bewegen sich schnell, um dich in eine emotionale Abhängigkeit zu verstricken.
+Der Mensch, der nach wenigen Treffen zu schnell zu viel will. „Ich bin [verliebt](/blog/mann-verliebt-anzeichen-komplett) in dich" nach zwei Wochen. Pläne für die Zukunft nach dem ersten Monat. Dies ist ein Muster, das Stalker oft zeigen – sie bewegen sich schnell, um dich in eine emotionale Abhängigkeit zu verstricken.
 
 Die gute Nachricht: Diese Zeichen sind nicht subtil. Du kannst sie früh erkennen, wenn du aufmerksam bist.
 

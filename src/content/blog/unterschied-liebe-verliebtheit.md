@@ -24,7 +24,7 @@ Im ersten Stadium der [beziehung](/blog/adhs-und-beziehung-komplett-guide/) sind
 
 ## Die Chemie der Verliebtheit
 
-Wenn du verliebt bist, schüttet dein Gehirn Phenylethylamin, Dopamin und Noradrenalin aus. Das sind die gleichen Chemikalien, die bei Drogenkonsum aktiviert werden. Dein Realitätssinn wird blockiert. Fehler deines Partners werden ignoriert, seine besseren Seiten werden überbewertet. Du siehst nicht den Menschen, du siehst ein Idealbild.
+Wenn du [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, schüttet dein Gehirn Phenylethylamin, Dopamin und Noradrenalin aus. Das sind die gleichen Chemikalien, die bei Drogenkonsum aktiviert werden. Dein Realitätssinn wird blockiert. Fehler deines Partners werden ignoriert, seine besseren Seiten werden überbewertet. Du siehst nicht den Menschen, du siehst ein Idealbild.
 
 Verliebtheit hält in der Regel zwei bis drei Jahre, manchmal auch nur wenige Monate. Es ist ein biologischer Prozess — nicht etwas, das du kontrollieren kannst. Der Körper raus aus dem Rausch, und hier beginnt die echte Arbeit.
 
@@ -56,7 +56,7 @@ Willst du mit dieser Person alt werden? Nicht weil es romantisch ist, sondern we
 
 ## Die Warnung vor "Verliebtheit-Illusion"
 
-Die größte Falle ist, Verliebtheit mit Liebe zu verwechseln und zu schnell große Entscheidungen zu treffen. "Lass uns zusammenziehen, lass uns heiraten, lass uns ein Kind bekommen" — im Stadium der Verliebtheit sind diese Entscheidungen blauäugig.
+Die größte Falle ist, Verliebtheit mit Liebe zu verwechseln und zu schnell große Entscheidungen zu treffen. "Lass uns [zusammenziehen](/blog/zusammenziehen-checkliste), lass uns heiraten, lass uns ein Kind bekommen" — im Stadium der Verliebtheit sind diese Entscheidungen blauäugig.
 
 Mehr zum Thema erfährst du auf Psychologie Heute: [Psychologie Heute](https://www.psychologie-heute.de/)
 

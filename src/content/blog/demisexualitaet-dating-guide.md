@@ -366,7 +366,7 @@ Demisexuell zu sein ist nicht etwas, das du beheben musst. Es ist nicht ein Prob
 
 ### Denk drüber nach:
 
-Du wirst nicht durch oberflächliche Anziehung abgelenkt. Du hast Fokus. Du kannst nicht in jemanden verliebt werden, nur weil er/sie gut aussieht.
+Du wirst nicht durch oberflächliche Anziehung abgelenkt. Du hast Fokus. Du kannst nicht in jemanden [verliebt](/blog/mann-verliebt-anzeichen-komplett) werden, nur weil er/sie gut aussieht.
 
 Du suchst nach echten Menschen, nicht nach Spiegelbildern. Das bedeutet tiefere Verbindungen, authentischere Beziehungen.
 

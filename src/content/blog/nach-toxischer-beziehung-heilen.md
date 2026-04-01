@@ -159,7 +159,7 @@ Vor deinem nächsten Dating würde ich warten, bis:
 - Du nicht mehr „retten" wollen würdest
 - Du jemandem „nein" sagen kannst, ohne dich schuldig zu fühlen
 
-Und wenn du datet: Vertraue auf Red Flags. Wenn etwas nicht passt, geh weg. Schnell.
+Und wenn du datet: Vertraue auf [Red Flags](/blog/dating-red-flags-maenner-erkennen). Wenn etwas nicht passt, geh weg. Schnell.
 
 ## Die langfristige Heilung: Was sich nicht ändert
 

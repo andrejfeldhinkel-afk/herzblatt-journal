@@ -411,7 +411,7 @@ Idealerweise: 15-30 Minuten nach Konflikt-Eskalation. Genug Zeit für Emotionen 
 Die Art der Reparaturversuch kann sich abhängig davon verändern, wie lange ihr zusammen seid.
 
 **In neue Beziehung (0-1 Jahr):**
-Reparaturversuche sind oft einfacher. Ihr seid noch „verliebt." Ein Witz, eine Umarmung, ein Entschuldigung sind einfacher zu akzeptieren.
+Reparaturversuche sind oft einfacher. Ihr seid noch „[verliebt](/blog/mann-verliebt-anzeichen-komplett)." Ein Witz, eine Umarmung, ein Entschuldigung sind einfacher zu akzeptieren.
 
 Der Schlüssel: Bau früh die Gewohnheit von Reparieren auf. Das schafft eine Kultur davon.
 

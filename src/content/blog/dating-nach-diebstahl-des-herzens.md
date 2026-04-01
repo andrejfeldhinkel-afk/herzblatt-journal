@@ -106,7 +106,7 @@ Wenn du nicht bereit bist, ein klares Nein zu sagen — das ist benching.
 
 Es ist nicht egoistisch, ehrlich zu sein. Es ist liebevoll.
 
-## Das größere Bild: Red Flags und Grenzen
+## Das größere Bild: [Red Flags](/blog/dating-red-flags-maenner-erkennen) und Grenzen
 
 Benching ist oft nicht das erste Problem in einer Situation. Es ist meist nur das Symptom. Die echte Frage ist: Was sagt mir das über diese Person? Was sagt mir das über meine Standards für Partnerinnen?
 

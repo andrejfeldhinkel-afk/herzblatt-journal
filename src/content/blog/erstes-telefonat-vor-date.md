@@ -299,7 +299,7 @@ Das zeigt: Du hast zugehört, du bist interessiert, und du freust dich schon auf
 **Was du nicht tun solltest:**
 - Sehr lange Nachrichten senden. Eine kurze Nachricht ist besser.
 - Sofort über tiefe Themen sprechen (Ex-Partner, Trauma, etc.)
-- Deine Gefühle zu sehr zeigen ("Ich bin total verliebt")
+- Deine Gefühle zu sehr zeigen ("Ich bin total [verliebt](/blog/mann-verliebt-anzeichen-komplett)")
 - Mehrere Nachrichten hintereinander senden
 - Warte nicht zu lange und wirke uninteressiert
 

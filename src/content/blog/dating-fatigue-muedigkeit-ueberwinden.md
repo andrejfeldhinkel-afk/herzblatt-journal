@@ -87,7 +87,7 @@ Arbeite aktiv daran, deinen Selbstwert von deinem Dating-Status zu entkoppeln. D
 
 ### Grenzen setzen und kommunizieren
 
-Lerne, Nein zu sagen — zu Dates, die sich nicht richtig anfühlen, zu Gesprächen, die nirgendwohin führen, und zu Verhaltensweisen, die deine Energie rauben. Ghosting, Breadcrumbing und andere toxische Dating-Muster musst du nicht tolerieren. Je klarer deine Grenzen sind, desto weniger erschöpfend wird das Dating.
+Lerne, Nein zu sagen — zu Dates, die sich nicht richtig anfühlen, zu Gesprächen, die nirgendwohin führen, und zu Verhaltensweisen, die deine Energie rauben. [Ghosting](/blog/ghosting-komplett-guide), Breadcrumbing und andere toxische Dating-Muster musst du nicht tolerieren. Je klarer deine Grenzen sind, desto weniger erschöpfend wird das Dating.
 
 ## Der Weg zurück zur Freude am Dating
 

@@ -169,4 +169,4 @@ Aber wenn Sie diese Arbeit erledigen, werden Sie die Beziehung haben, die Sie si
 - [Situationship erkennen: 12 Zeichen, dass du in einer](/blog/situationship-erkennen/)
 - [Gaslighting erkennen: 15 Zeichen und wie du dich befreist](/blog/gaslighting-erkennen-komplett/)
 - [Green Flags beim Dating: Positive Zeichen richtig erkennen](/blog/dating-green-flags-erkennen-guide/)
-- [Körpersprache Mann: 25 Zeichen dass er verliebt ist](/blog/koerpersprache-mann-verliebt-zeichen/)
+- [Körpersprache Mann: 25 Zeichen dass er [verliebt](/blog/mann-verliebt-anzeichen-komplett) ist](/blog/koerpersprache-mann-verliebt-zeichen/)

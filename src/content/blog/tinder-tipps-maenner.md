@@ -242,7 +242,7 @@ Das ist eine echte Frage und gibt ihr die Chance, interessant zu sein.
 
 "Schicke mir dein Nummer" – Das ist zu schnell.
 
-"Ich bin verliebt" – Das ist creepy nach einer Nachricht.
+"Ich bin [verliebt](/blog/mann-verliebt-anzeichen-komplett)" – Das ist creepy nach einer Nachricht.
 
 Sexuelle Kommentare über ihren Körper – Das ist respektlos.
 
@@ -282,7 +282,7 @@ Diese Dinge werden dich Matches kosten:
 
 **Ein Loch in deinem Profil graben:** Sie fragt, warum du auf Tinder bist. Nicht sagen "Ich suche nicht nach einer Beziehung." Das ist ein Killers. Sagen "Ich bin offen für etwas Echtes. Du?"
 
-**Ghosting nach Match:** Sie schreibt dir, und du antwortest nicht für Tage. Das ist rude.
+**[Ghosting](/blog/ghosting-komplett-guide) nach Match:** Sie schreibt dir, und du antwortest nicht für Tage. Das ist rude.
 
 **Dich zu verfügbar machen:** "Ich bin jederzeit verfügbar!" Das ist nicht attraktiv. Du hast ein Leben.
 

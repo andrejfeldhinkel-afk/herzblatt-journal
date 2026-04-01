@@ -23,7 +23,7 @@ faq:
 
 ## Der Trend, der Mut belohnt
 
-Es gibt einen neuen Dating-Trend, den ich liebe, weil er endlich das Gegenteil von „strategisch" ist. Bumble hat 2026 eine groß angelegte Studie gemacht, und die Ergebnisse sind faszinierend. Cannon Balling – das Gegenteil von Ghosting, das Gegenteil von Spielchen – ist das, womit sich Singles in diesem Jahr auseinandersetzen.
+Es gibt einen neuen Dating-Trend, den ich liebe, weil er endlich das Gegenteil von „strategisch" ist. Bumble hat 2026 eine groß angelegte Studie gemacht, und die Ergebnisse sind faszinierend. Cannon Balling – das Gegenteil von [Ghosting](/blog/ghosting-komplett-guide), das Gegenteil von Spielchen – ist das, womit sich Singles in diesem Jahr auseinandersetzen.
 
 Was genau ist Cannon Balling? Stellt euch vor, ihr seid auf einer Klippe. Ihr könnt lange am Rand stehen, kalkulieren, Tipps online lesen – oder ihr springt einfach. Genau das ist Cannon Balling beim Dating. Es heißt, sich selbst oder eine Beziehung mutig voranzutreiben, ohne zu viel zu planen oder zu zweifeln. Es bedeutet, verletzlich zu sein, obwohl es weh tun könnte.
 
@@ -102,7 +102,7 @@ Aber warte – es gibt auch eine Kehrseite. Cannon Balling bedeutet nicht, dass 
 
 **Naiv** ist:
 - Du vertraust jedem blind
-- Du ignorierst Red Flags, weil du „mutig" sein willst
+- Du ignorierst [Red Flags](/blog/dating-red-flags-maenner-erkennen), weil du „mutig" sein willst
 - Du hängst an jemandem, der dich nicht will
 - Du vergisst deine eigenen Grenzen
 

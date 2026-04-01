@@ -595,7 +595,7 @@ Das bedeutet: Wenn du einen älteren Partner gewählt, warte bis du älter wirst
 
 Hier ist der echte Test: **Können Sie sich vorstellen, zusammen zu altern?**
 
-Nicht "Kann ich vorstellen, mit dieser Person zu sein?" – das ist verliebt.
+Nicht "Kann ich vorstellen, mit dieser Person zu sein?" – das ist [verliebt](/blog/mann-verliebt-anzeichen-komplett).
 
 Aber "Kann ich mir vorstellen, zusammen mit dieser Person zu altern – wenn die Leidenschaft verblasst und wir einfach zwei alte Menschen sind, die nebeneinander sitzen?"
 

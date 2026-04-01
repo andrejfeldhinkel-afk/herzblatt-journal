@@ -308,7 +308,7 @@ Manchmal bist du mit jemandem, und sie haben große Pläne – Ein Wochenende au
 
 Als introvertiert Frau, dein erster Impuls könnte sein, Nein zu sagen. Das könnte zu überwältigend sein.
 
-Aber hier ist die Sache: Nicht alles, das überwältigend klingt, ist überwältigend. Manchmal, wenn du dich wirklich daran versuchst, wirst du dich in ein Abenteuer verliebt.
+Aber hier ist die Sache: Nicht alles, das überwältigend klingt, ist überwältigend. Manchmal, wenn du dich wirklich daran versuchst, wirst du dich in ein Abenteuer [verliebt](/blog/mann-verliebt-anzeichen-komplett).
 
 Mein Rat: Versuch es. Aber mit Grenzen. Wenn es ein Musik-Festival ist, dann könntest du dort für einen Tag gehen statt das ganze Wochenende. Wenn es eine Gruppen-Radfahrt ist, dann könntest du beim ersten oder zweiten Tag gehen.
 

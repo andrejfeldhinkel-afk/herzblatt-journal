@@ -55,7 +55,7 @@ Wut: Wenn dein Date-Partner wütend wird oder die Stimme erhebt – selbst wenn 
 
 Zunahmeverhalten: Wenn jemand versucht, schnell zu viel Nähe oder Kontrolle über dein Leben zu gewinnen, könnte das deine Alarm-Glocken läuten lassen.
 
-Gaslighting: Wenn jemand versucht, deine Realität zu leugnen oder zu delegitimieren, ist das ein großer Trigger, besonders wenn die Gewaltbeziehung Gaslighting beinhaltete.
+[Gaslighting](/blog/gaslighting-komplett-guide): Wenn jemand versucht, deine Realität zu leugnen oder zu delegitimieren, ist das ein großer Trigger, besonders wenn die Gewaltbeziehung Gaslighting beinhaltete.
 
 Einsamkeit/Hingabe: Wenn jemand versucht, dich zu isolieren oder möchte, dass du deine Freunde/Familie für ihn aufgibst.
 

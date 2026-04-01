@@ -27,7 +27,7 @@ Willkommen in der Welt der heimlichen Verliebtheit. Es ist schön, es ist schmer
 
 Die Frage ist nicht: "Mag ich diesen Menschen?" Die Frage ist: "Was mache ich jetzt damit?"
 
-Diese Anleitung bricht it down. Du erfährst, welche 10 Signale verraten, dass du wirklich verliebt bist (und nicht nur verknallt), und danach: konkrete Strategien für jede Konstellation.
+Diese Anleitung bricht it down. Du erfährst, welche 10 Signale verraten, dass du wirklich [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist (und nicht nur verknallt), und danach: konkrete Strategien für jede Konstellation.
 
 ## 10 psychologische Anzeichen, dass du heimlich verliebt bist
 

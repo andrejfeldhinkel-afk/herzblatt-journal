@@ -227,7 +227,7 @@ Und dann stelle Zeitwerte: Stelle sicher, dass dein Kind immer noch Qualität-Ze
 "Marc spielte nicht fair mit mir."
 "Ich mag, wie Marc mit dir redet."
 
-Das sind Red Flags. Nicht Überreaktionen – echte Observations.
+Das sind [Red Flags](/blog/dating-red-flags-maenner-erkennen). Nicht Überreaktionen – echte Observations.
 
 Hör zu. Frag Details. Wenn es ein Pattern ist, musst du Grenzen setzen oder die Beziehung beenden.
 
@@ -401,7 +401,7 @@ Das ist nicht "Willst du mein Kind ersetzen?" Das ist "Willst du ein Elternteil 
 
 Das ist unterschiedlich.
 
-Manche Menschen KÖNNEN das nicht. Sie sind nicht bereit für diese Verantwortung. Und du brauchst das zu wissen, BEVOR du stärker verliebt wirst.
+Manche Menschen KÖNNEN das nicht. Sie sind nicht bereit für diese Verantwortung. Und du brauchst das zu wissen, BEVOR du stärker [verliebt](/blog/mann-verliebt-anzeichen-komplett) wirst.
 
 ## Die "Step-Parent" Vorbereitung: Was es bedeutet
 

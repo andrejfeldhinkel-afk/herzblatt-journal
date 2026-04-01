@@ -165,7 +165,7 @@ Das ist ein großes Warnsignal. Es sagt dir nicht viel über die Ex-Partner; es 
 
 ### Warnsignal 12: Schnelle Eskalation der Beziehung
 
-Nach zwei Monaten möchte er heiraten. Oder zusammenziehen. Oder ein Kind bekommen. Alles muss schnell gehen, immer schneller. Es fühlt sich romantisch an, aber es ist tatsächlich strategisch.
+Nach zwei Monaten möchte er heiraten. Oder [zusammenziehen](/blog/zusammenziehen-checkliste). Oder ein Kind bekommen. Alles muss schnell gehen, immer schneller. Es fühlt sich romantisch an, aber es ist tatsächlich strategisch.
 
 Je schneller die Beziehung eskaliert, desto schwerer wird es für dich, auszubrechen. Je mehr gemeinsame Verpflichtungen es gibt (Haus, Kind, finanzielle Verflechtungen), desto stärker dein Gefühl, dass du feststeckst.
 
@@ -213,7 +213,7 @@ Das ist kein Zufall. Es ist Design.
 
 Du sprichst über ein bestimmtes Verhalten, das dich verletzt hat. Er sagt dir, dass es nicht passiert ist. Oder dass du es falsch erinnerst. Oder dass es nicht so schlimm war, wie du denkst. Oder dass du viel zu empfindlich bist.
 
-Das ist Gaslighting, und es ist einer der destruktivsten Formen der psychologischen Missbrauch. Es untergräbt dein Vertrauen in deine eigene Wahrnehmung. Mit der Zeit zweifels du an deinem eigenen Gedächtnis. Und wenn du dir selbst nicht trauen kannst, musst du deinem Partner trauen.
+Das ist [Gaslighting](/blog/gaslighting-komplett-guide), und es ist einer der destruktivsten Formen der psychologischen Missbrauch. Es untergräbt dein Vertrauen in deine eigene Wahrnehmung. Mit der Zeit zweifels du an deinem eigenen Gedächtnis. Und wenn du dir selbst nicht trauen kannst, musst du deinem Partner trauen.
 
 ### Warnsignal 20: Unverhältnismäßige Reaktionen auf deine kleine Fehler, kombiniert mit Erwartung vollständiger Vergebung seiner großen Fehler
 

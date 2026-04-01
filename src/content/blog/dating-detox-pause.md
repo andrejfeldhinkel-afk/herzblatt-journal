@@ -59,7 +59,7 @@ Du brauchst eine Pause, um herauszufinden, was dich zu diesen Arten von Menschen
 
 **Du wirst ständig getroffen**
 
-Du wirst vom Ghosting, von Absagen, von "Ich sehe dich nicht romantisch" getroffen.
+Du wirst vom [Ghosting](/blog/ghosting-komplett-guide), von Absagen, von "Ich sehe dich nicht romantisch" getroffen.
 
 Diese Momente sind schmerzhaft. Und wenn sie ständig passieren, beginnt es, an deinem Selbstwertgefühl zu nagen.
 

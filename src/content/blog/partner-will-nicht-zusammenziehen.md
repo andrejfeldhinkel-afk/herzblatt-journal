@@ -20,7 +20,7 @@ Du träumst schon lange davon, mit deinem Partner zusammenzuziehen. Ihr kennt eu
 
 ## Die echten Gründe dahinter
 
-Wenn dein Partner nicht zusammenziehen will, steckt fast immer mehr dahinter als einfach "keine Lust". Menschen sind kompliziert, und die Gründe sind oft unbewusst oder schwer auszusprechen.
+Wenn dein Partner nicht [zusammenziehen](/blog/zusammenziehen-checkliste) will, steckt fast immer mehr dahinter als einfach "keine Lust". Menschen sind kompliziert, und die Gründe sind oft unbewusst oder schwer auszusprechen.
 
 ### Angst vor Veränderung
 

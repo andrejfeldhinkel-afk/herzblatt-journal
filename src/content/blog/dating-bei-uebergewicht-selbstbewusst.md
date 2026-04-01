@@ -203,7 +203,7 @@ Aber wenn du abnimmst, weil du DICH besser fühlen möchtest – das ist gut. Da
 
 Das Wichtigste ist: Dein Dating-Leben wartet nicht auf dein Gewichtsverlust. Dein Leben jetzt ist wichtig. Deine Beziehung-Wünsche jetzt sind wichtig.
 
-## Die wichtigen Red Flags bei Partnern
+## Die wichtigen [Red Flags](/blog/dating-red-flags-maenner-erkennen) bei Partnern
 
 Wenn du übergewichtig bist, musst du besonders aufpassen auf:
 

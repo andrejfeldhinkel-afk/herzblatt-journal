@@ -21,7 +21,7 @@ faq:
 
 # Dating mit Depression: Liebe im Kampf mit Dunkelheit
 
-Du sitzt am Freitagabend zu Hause, es ist 19:30 Uhr, und du hast ein Date. Der Gedanke daran lässt dich erschöpft werden, noch bevor du überhaupt anfängst. Die Depression sitzt dir im Nacken wie eine schwere Last. Du wünschst dir, verliebt zu sein, eine Beziehung zu haben – aber gerade jetzt fühlt sich das unmöglich an. Dein Kopf ist nebelig, deine Energie ist bei null, und die Vorstellung, mit jemandem oberflächlich zu lachen und interessant zu wirken, kostet dich innerlich alles.
+Du sitzt am Freitagabend zu Hause, es ist 19:30 Uhr, und du hast ein Date. Der Gedanke daran lässt dich erschöpft werden, noch bevor du überhaupt anfängst. Die Depression sitzt dir im Nacken wie eine schwere Last. Du wünschst dir, [verliebt](/blog/mann-verliebt-anzeichen-komplett) zu sein, eine Beziehung zu haben – aber gerade jetzt fühlt sich das unmöglich an. Dein Kopf ist nebelig, deine Energie ist bei null, und die Vorstellung, mit jemandem oberflächlich zu lachen und interessant zu wirken, kostet dich innerlich alles.
 
 Das Verrückte ist: Viele Menschen mit Depression fühlen sich so. Und trotzdem sprechen wir kaum darüber. Dating ist ohnehin schon emotional anstrengend – wenn dann noch Depression dazukommt, kann sich das wie ein hoffnungsloser Kampf anfühlen.
 
@@ -127,7 +127,7 @@ Es gibt Menschen, die bei "Depression" sofort Angst bekommen oder böse reagiere
 **Rote Flaggen:**
 - "Das ist ja depressiv" oder Witze über deine psychische Gesundheit
 - "Du brauchst nur eine neue Perspektive" oder "Hast du versucht, positiver zu denken?"
-- Sofortiges Ghosting oder Distanzierung, ohne zu fragen
+- Sofortiges [Ghosting](/blog/ghosting-komplett-guide) oder Distanzierung, ohne zu fragen
 - "Ich bin nicht emotional stark genug, damit umzugehen" (das ist fair, aber nicht dein Problem)
 - "Das ist doch nicht so schlimm, andere haben es schlimmer" (die Minimalisierung deiner Kämpfe)
 - Du brauchst deine Medikamente oder Therapie zu reduzieren, um "normal" zu sein
@@ -483,7 +483,7 @@ Wenn du noch nicht sicher bist, ob du daten solltest, nutze diese Checkliste. Ni
 
 Wenn die meisten dieser Punkte ein "ja" sind, dann bist du wahrscheinlich bereit. Nicht perfekt bereit. Bereit genug.
 
-## Die Checkliste: Red Flags in einer Beziehung mit Depression
+## Die Checkliste: [Red Flags](/blog/dating-red-flags-maenner-erkennen) in einer Beziehung mit Depression
 
 Und hier ist eine Checkliste der Things, die dir sagen sollten: "Das ist nicht richtig."
 

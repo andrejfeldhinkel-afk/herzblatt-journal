@@ -34,7 +34,7 @@ Das ist das Stadium, in dem beide von euch wahrscheinlich am nervigsten für eur
 
 Das ist Verliebtheit. Und dein Gehirn – nicht dein Herz, dein Gehirn – ist zu dieser Zeit in einem speziellen Zustand. Dopamin und Oxytocin überfluten dein System. Du kannst schlecht schlafen, weil du dauernd an diese Person denkst. Du kannst kaum essen – nicht weil die Liebe dir die Fähigkeit nimmt, zu schlucken, sondern weil dein Gehirn gerade zu beschäftigt ist, um dir zu sagen, dass dein Körper Energie braucht.
 
-In dieser Phase, hat eure Beziehung nichts zu reißen. Ihr plant schon die gemeinsame Zukunft. Nach zwei Wochen redet ihr über Hochzeit. Nach drei Monaten haben beide überlegt, ob ihr zusammenziehen solltet.
+In dieser Phase, hat eure Beziehung nichts zu reißen. Ihr plant schon die gemeinsame Zukunft. Nach zwei Wochen redet ihr über Hochzeit. Nach drei Monaten haben beide überlegt, ob ihr [zusammenziehen](/blog/zusammenziehen-checkliste) solltet.
 
 Sex? Häufig und enthusiastisch, wenn nicht mehrmals pro Woche.
 

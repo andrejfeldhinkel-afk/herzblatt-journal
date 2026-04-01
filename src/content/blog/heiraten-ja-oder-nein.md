@@ -233,7 +233,7 @@ Sprecht offen mit eurem Partner. Stellt die unbequemen Fragen. Findet eure gemei
 
 Herzblatt Journal ist für dich da, egal, wie diese Antwort ausfällt. Wir unterstützen dich bei deiner ganz persönlichen Liebe und Lebensentscheidung.## Weiterlesen
 
-- [Zusammenziehen: Wann ist der richtige Zeitpunkt?](/blog/zusammenziehen-oder-nicht/)
+- [Zusammenziehen: Wann ist der richtige Zeitpunkt?](/blog/[zusammenziehen](/blog/zusammenziehen-checkliste)-oder-nicht/)
 - [Aktives Zuhören: Die Beziehungs-Superkraft](/blog/aktives-zuhoeren-partner/)
 - [Gesunde Beziehung führen: Der komplette Guide](/blog/beziehung-fuehren-kompletter-guide/)
 - [Gleichberechtigung in der Beziehung](/blog/beziehung-gleichberechtigung/)

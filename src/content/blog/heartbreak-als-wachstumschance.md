@@ -45,7 +45,7 @@ Etwas wichtiges, das die Menschen verwirrt: Du kannst traurig über eine Trennun
 
 Dies ist besonders wahr, wenn die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) für ein Jahr oder zwei kurz war, oder wenn die Beziehung lange war, aber die letzte Zeit was schwierig. Du könntest diese Person nicht haben wirklich gekannt. Oder du könntest sie gekannt haben, und du hast nicht wirklich gemocht, was du sah.
 
-Aber du trauest um die Idee. Du trauest um, was es hätte sein können. Du trauest um die Version von dir, die mit dieser Person war – eine Version, die jung war, oder verliebt, oder hoffnungsvoll.
+Aber du trauest um die Idee. Du trauest um, was es hätte sein können. Du trauest um die Version von dir, die mit dieser Person war – eine Version, die jung war, oder [verliebt](/blog/mann-verliebt-anzeichen-komplett), oder hoffnungsvoll.
 
 Dies ist sein Trauern ist nicht falsch. Aber es ist anders als Trauern um die wirkliche Person.
 

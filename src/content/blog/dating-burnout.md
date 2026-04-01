@@ -41,7 +41,7 @@ Dating Burnout ist nicht neu, aber es ist neulich intensiver geworden, weil:
 
 2. **Die Nonstop-Natur:** Eine Bar, die um 22:00 Uhr schließt, bedeutet, dass Sie um 22:00 Uhr müssen Pausen geben. Eine App bedeutet, dass Sie um 2:00 Uhr Uhr noch wischen können.
 
-3. **Ghosting ist Norm:** Die emotionale Schmerzen der ständigen Ablehnung (oft ohne Grund) summieren sich schnell.
+3. **[Ghosting](/blog/ghosting-komplett-guide) ist Norm:** Die emotionale Schmerzen der ständigen Ablehnung (oft ohne Grund) summieren sich schnell.
 
 4. **Die Vermarktung des „Spiels":** Dating-Apps vermarkten Dating als unterhaltsam, spielbar und einfach – wenn in Wirklichkeit nach 100 Swipes, wenn es sich nicht lustig anfühlt, leitet dies zu Burnout.
 

@@ -191,13 +191,13 @@ Wenn es weniger als 3 Monate her ist, dann sei vorsichtig. Wenn es weniger als 6
 
 **2. Beobachte, wie er über seinen Ex spricht**
 
-Wenn er zu gut über ihn spricht — nostalgisch, verliebt — dann ist er verliebt. Wenn er zu schlecht spricht — zornig, bitter, verächtlich — dann ist er verletzt.
+Wenn er zu gut über ihn spricht — nostalgisch, [verliebt](/blog/mann-verliebt-anzeichen-komplett) — dann ist er verliebt. Wenn er zu schlecht spricht — zornig, bitter, verächtlich — dann ist er verletzt.
 
 Beides ist ein Problem. Ein gesunder Mensch hat eine neutrale Perspektive auf seinen Ex.
 
 **3. Geh langsam**
 
-Nicht in einer Woche zusammenziehen. Nicht nach 2 Wochen "Ich liebe dich" sagen. Echte Liebe kann warten. Echte Liebe hat keine Angst, Zeit zu nehmen.
+Nicht in einer Woche [zusammenziehen](/blog/zusammenziehen-checkliste). Nicht nach 2 Wochen "Ich liebe dich" sagen. Echte Liebe kann warten. Echte Liebe hat keine Angst, Zeit zu nehmen.
 
 **4. Vertrau deinem Instinkt**
 

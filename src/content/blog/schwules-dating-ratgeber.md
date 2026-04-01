@@ -214,7 +214,7 @@ Nutze diese Phase, um zu sehen, ob das wirklich jemand ist, mit dem du sein will
 
 Der erste Streit ist ein Moment der Wahrheit. Wie geht ihr mit Uneinigkeit um?
 
-Destruktive Muster: Schreien, Abwerfen, körperliche Aggression (ja, das passiert in schwulen Beziehungen auch und es ist nicht okay), Gaslighting, stille Behandlung bis der andere zusammenbricht. Wenn euer erster Streit das ist, ist das ein großes rotes Flagge.
+Destruktive Muster: Schreien, Abwerfen, körperliche Aggression (ja, das passiert in schwulen Beziehungen auch und es ist nicht okay), [Gaslighting](/blog/gaslighting-komplett-guide), stille Behandlung bis der andere zusammenbricht. Wenn euer erster Streit das ist, ist das ein großes rotes Flagge.
 
 Konstruktive Muster: Ihr könnt über eure Gefühle sprechen, auch wenn es unbequem ist. Ihr könnt zuhören, ohne sofort zu verteidigen. Ihr könnt sagen: "Ich bin jetzt wütend, lass mich in 10 Minuten zurück kommen" und dann *tatsächlich* zurückkommt. Ihr könnt euch entschuldigen, wenn ihr falsch laget.
 
@@ -264,7 +264,7 @@ Es gibt zwei Extreme in der schwulen Community: "Sex ist alles, wir sind große 
 
 Sex-Positivität bedeutet: Sex ist ein natürlicher, wichtiger Teil menschlicher Existenz. Es kann lustvoll, lustig und einfach großartig sein. Es sollte konsensual, sicher und ehrlich sein. Und es ist okay, viel Sex zu haben, wenig Sex zu haben, oder gar keinen Sex zu haben.
 
-Wenn du viel Sex haben willst, das ist okay. Wenn du nur mit jemandem Sex haben willst, mit dem du verliebt bist, das ist auch okay. Wenn du nicht viel Libido hast, das ist auch okay.
+Wenn du viel Sex haben willst, das ist okay. Wenn du nur mit jemandem Sex haben willst, mit dem du [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, das ist auch okay. Wenn du nicht viel Libido hast, das ist auch okay.
 
 Das Problem: Wenn du Sex hast, aber dich danach beschämst. Das ist nicht Sex-Positivität – das ist sexuelle Neuroses. Wenn du dich nach Sex schuldig fühlst, weil du internalisierte Homophobie hast, die sagt "Schwuler Sex ist schmutzig," brauchst du Hilfe, nicht mehr Sex.
 

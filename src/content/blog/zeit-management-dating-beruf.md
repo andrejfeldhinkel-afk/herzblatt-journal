@@ -253,4 +253,4 @@ Aber das ist ein Anfang.
 - [Zurück ins Dating nach langer Single-Phase](/blog/dating-nach-langer-single-zeit/)
 - [Speed Dating Tipps: Wie Sie einen großartigen Eindruck in](/blog/speed-dating-tipps/)
 - [Dating über 50: Der komplette Guide für einen](/blog/dating-nach-50-neuanfang-guide/)
-- [Dating Green Flags: 30 Zeichen dass du einen Keeper gefunden hast](/blog/dating-green-flags-komplett/)
+- [Dating [Green Flags](/blog/dating-green-flags-erkennen-guide): 30 Zeichen dass du einen Keeper gefunden hast](/blog/dating-green-flags-komplett/)

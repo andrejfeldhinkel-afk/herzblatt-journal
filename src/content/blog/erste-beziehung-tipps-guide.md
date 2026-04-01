@@ -35,7 +35,7 @@ Das Ziel dieses Guides ist nicht dir zu sagen, wie deine erste Beziehung sein so
 
 Die ersten Wochen oder Monate einer neuen Beziehung sind magisch. Du bist ständig glücklich. Du erinnere dich an jede Kleinigkeit, die diese Person sagte. Du analysierst ihre Texte auf verborgene Bedeutung. Du ziehst Outfits an und denkst: "Wird es ihnen gefallen?" Das ist nicht irrrational — es ist Chemie.
 
-Wenn du verliebt wirst, freigesetzt dein Gehirn eine Flut von Neurotransmittern: Dopamin (das Vergnügen Hormon), Noradrenalin (das erhöht die Aufmerksamkeit), und senkt Serotonin (was erklärt, warum du obsessiv denkst). Diese chemische Cocktail erzeugt das Gefühl, das du "Schmetterlinge" nennst. Biologisch ist es echte Neurochemie.
+Wenn du [verliebt](/blog/mann-verliebt-anzeichen-komplett) wirst, freigesetzt dein Gehirn eine Flut von Neurotransmittern: Dopamin (das Vergnügen Hormon), Noradrenalin (das erhöht die Aufmerksamkeit), und senkt Serotonin (was erklärt, warum du obsessiv denkst). Diese chemische Cocktail erzeugt das Gefühl, das du "Schmetterlinge" nennst. Biologisch ist es echte Neurochemie.
 
 Diese Phase dauert normalerweise 3-6 Monate. Einige Beziehungen sind länger, einige kürzer. Das bedeutet nicht, dass deine Liebe gefälscht ist, wenn die Intensität abnimmt. Es bedeutet, dass dein Gehirn übergeht zu einer stabileren neurochemischen Situation. Das ist nicht weniger bedeutungsvoll — es ist nur anders.
 
@@ -89,7 +89,7 @@ Das erste Argument ist auch wertvoll. Es zeigt, wie diese Person Konflikt bearbe
 Häufige Themen für erste Argumente:
 Eifersucht. Du siehst ihn mit jemandem anderem sprechen und du gerätst in Panik.
 Verschiedene Werte. Vielleicht mag er Politik und du nicht. Vielleicht hat er eine andere Einstellung zum Geld.
-Unterschiedliche Love Languages. Du brauchst körperliche Zuneigung, und er ist nicht anfällig dafür. Oder er braucht Qualitätszeit, und du brauchst Raum.
+Unterschiedliche [Love Languages](/blog/love-languages-komplett-guide). Du brauchst körperliche Zuneigung, und er ist nicht anfällig dafür. Oder er braucht Qualitätszeit, und du brauchst Raum.
 Kleine Ärgers, die sich aufbauen. Kleine Dinge wie "er hört mir nicht zu" oder "sie schaut zu oft auf ihr Telefon" bauen sich auf bis zu einem Argument.
 
 Das Wichtigste ist, wie du das Argument bearbeitest. Einige Regeln für gesundes Konflikts:

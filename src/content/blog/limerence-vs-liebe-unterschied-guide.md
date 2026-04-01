@@ -25,7 +25,7 @@ faq:
     answer: "Theoretisch ja, praktisch ist es schwierig. Limerence ist grundlegend nicht gegenseitig hilfreich. Du bist fokussiert auf deine Gefühle und nicht auf deine Partner. Aber manche Paare durchbrechen Limerence zusammen und entwickeln echte Liebe."
 ---
 
-# Limerence vs. echte Liebe: Warum du nicht verliebt bist sondern besessen
+# Limerence vs. echte Liebe: Warum du nicht [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist sondern besessen
 
 Du siehst eine Nachricht von deinem Crush und dein Herz rast. Du stellst dir vor, wie eure Zukunft zusammen aussehen wird. Du liest eine alte Nachricht von ihm und analysierst jedes Wort. Du fragst deine Freunde immer wieder: "Glaubst du, dass er mich mag?"
 

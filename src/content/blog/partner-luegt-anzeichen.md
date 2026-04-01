@@ -325,7 +325,7 @@ Das zeigt ein tieferes Problem – möglicherweise ein Charaktermangel.
 
 Wenn er über Geld lügt, wenn er über Sex lügt, wenn er über die Treue lügt – das sind Vertrauensbrüche in grundlegenden Bereichen.
 
-### Manipulation und Gaslighting
+### Manipulation und [Gaslighting](/blog/gaslighting-komplett-guide)
 
 Wenn dein Partner lügt und dich dann glauben macht, dass du verrückt bist – „Das habe ich nie gesagt!" – das ist emotionaler Missbrauch.
 

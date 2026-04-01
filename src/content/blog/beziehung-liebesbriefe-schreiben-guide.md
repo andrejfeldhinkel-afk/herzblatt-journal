@@ -246,7 +246,7 @@ Gute Autoren, um zu lesen:
 
 ## Fazit
 
-Ein Liebesbrief ist eines der einfachsten, aber kraftvollsten Dinge, die Sie für jemanden tun können. Es braucht keine besonderen Fähigkeiten – nur Authentizität und Zeit.
+Ein [Liebesbrief](/blog/liebesbrief-schreiben-anleitung) ist eines der einfachsten, aber kraftvollsten Dinge, die Sie für jemanden tun können. Es braucht keine besonderen Fähigkeiten – nur Authentizität und Zeit.
 
 Nehmen Sie sich einen Nachmittag, suchen Sie nach ruhigen Moment, und schreiben Sie. Ihre Worte könnten für Ihr ganzes Leben bedeuten.
 

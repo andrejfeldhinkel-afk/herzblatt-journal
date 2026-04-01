@@ -26,7 +26,7 @@ faq:
     answer: "Das ist bereits eine Antwort. Der andere zeigt dir damit, dass die Beziehung für ihn nicht definitionsbedürftig ist. Du musst dann entscheiden: Akzeptierst du das, oder brauchst du mehr Klarheit und Verbindlichkeit?"
 ---
 
-## Was genau ist eine Situationship? Die emotionale Grauzone erklärt
+## Was genau ist eine [Situationship](/blog/situationship-erkennen-umgehen)? Die emotionale Grauzone erklärt
 
 Du kennst das Gefühl: Er schreibt dir jeden Tag, aber nicht morgens. Ihr seht euch regelmäßig, aber es ist nie geplant. Manchmal küsst ihr euch, manchmal nicht. Und wenn du fragst, was das eigentlich ist, bekommst du zu hören "Lass mich nicht so unter Druck setzen" oder "Warum müssen wir das etikettieren?"
 
@@ -54,7 +54,7 @@ Das zweite psychologische Problem ist die falsche Hoffnung. In einer Situationsh
 
 Die Neurowissenschaften zeigen, dass wenn wir Hoffnung haben – auch wenn sie nicht rational begründet ist – unser Gehirn Dopamin ausschüttet. Das ist das gleiche Neurotransmitter, das bei Glücksspiel oder Drogenkonsum freigesetzt wird. Wenn dieser andere Mensch dir wieder Aufmerksamkeit gibt, nach Tagen der Funkstille, schüttet dein Gehirn Dopamin aus. Das erzeugt ein High-Gefühl. Dein Gehirn wird buchstäblich süchtig nach dieser zyklischen Schmerz-Hoffnung-Schmerz-Hoffnung-Schleife. Das ist nicht psychologische Schwachheit, das ist Biologie. Dein Nervensystem wurde durch die Situationship gehackt, wie eine Spielsucht.
 
-Und ehrlich gesagt? Die Hoffnung ist oft nichts anderes als Denial. Du hoffst, dass die andere Person sich doch noch verliebt. Aber wenn sie sich verliebt hätte, hätte sie schon lange klar gemacht, dass sie eine echte Beziehung mit dir will. Die Tatsache, dass sie das nicht tut, ist bereits eine klare Botschaft. Sie muss dich nicht immer wieder absagen – die Abwesenheit der Zusage ist selbst die Ablehnung.
+Und ehrlich gesagt? Die Hoffnung ist oft nichts anderes als Denial. Du hoffst, dass die andere Person sich doch noch [verliebt](/blog/mann-verliebt-anzeichen-komplett). Aber wenn sie sich verliebt hätte, hätte sie schon lange klar gemacht, dass sie eine echte Beziehung mit dir will. Die Tatsache, dass sie das nicht tut, ist bereits eine klare Botschaft. Sie muss dich nicht immer wieder absagen – die Abwesenheit der Zusage ist selbst die Ablehnung.
 
 Das dritte Problem ist deine Würde und dein Selbstwertgefühl. Mit jeder Woche, jedem Monat, den du in einer Situationship verbringst, in der du mehr Gefühle für diese Person entwickelst und sie weiterhin unbewusst bleibt (oder bewusst unbewusst tut), verlierst du ein Stück Selbstliebe. Du signalisierst dir selbst: "Mir ist egal, dass ich nicht sicher bin. Mir ist egal, dass meine Grenzen nicht respektiert werden. Mir reicht auch die Liebe auf der Straße, die Miete der Aufmerksamkeit." Du bekommst, wenn überhaupt, emotionale Essensreste, nicht ein echtes Essen.
 

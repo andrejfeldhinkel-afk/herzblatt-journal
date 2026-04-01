@@ -268,7 +268,7 @@ Wenn sie fragen, erkläre – aber du musst dich nicht rechtfertigen.
 
 Dies ist wichtig. Sie möchten, dass Ihr Partner weiß, dass Sie pansexuell sind, damit er versteht, wer Sie sind. Sie können sagen:
 
-- „Ich möchte dich wissen lassen, dass ich pansexuell bin. Das bedeutet nicht, dass ich nicht in dich verliebt bin – es bedeutet einfach, dass ich zu Menschen aller Geschlechter angezogen bin. Aber ich wähle dich."
+- „Ich möchte dich wissen lassen, dass ich pansexuell bin. Das bedeutet nicht, dass ich nicht in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett) bin – es bedeutet einfach, dass ich zu Menschen aller Geschlechter angezogen bin. Aber ich wähle dich."
 - „Es ist wichtig für mich, dass du meine komplette Identität kennst. Ich bin pansexuell. Das ist ein wichtiger Teil davon, wer ich bin."
 - „Meine Orientierung ist etwas, das ich würde es schätzen, wenn du respektieren könntest, selbst wenn du nicht alles davon verstehst."
 

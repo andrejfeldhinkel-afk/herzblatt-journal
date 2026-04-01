@@ -37,7 +37,7 @@ Diese Momente passieren nicht zufällig. Sie entstehen, wenn beide bereit sind, 
 
 ## Verletzlichkeit als Stärke
 
-Viele – besonders Männer – haben gelernt, Gefühle runterzuschlucken. Stark sein, keine Schwäche zeigen. "Echte Männer" weinen nicht, "echte Frauen" sind nicht zu viel. In einer Beziehung ist das Gift. Denn wenn einer sich immer hinter einer Mauer versteckt, kommt der andere nicht ran. Und ohne echte Nähe verliebt sich die andere Person langsam aus der Beziehung heraus.
+Viele – besonders Männer – haben gelernt, Gefühle runterzuschlucken. Stark sein, keine Schwäche zeigen. "Echte Männer" weinen nicht, "echte Frauen" sind nicht zu viel. In einer Beziehung ist das Gift. Denn wenn einer sich immer hinter einer Mauer versteckt, kommt der andere nicht ran. Und ohne echte Nähe [verliebt](/blog/mann-verliebt-anzeichen-komplett) sich die andere Person langsam aus der Beziehung heraus.
 
 Verletzlichkeit heißt nicht, ständig zu weinen oder jede Unsicherheit breit zu treten. Es heißt: Ehrlich sagen, was dich bewegt. "Ich hab Angst, dich zu verlieren" braucht mehr Mut als "Mir ist alles egal." Und diese Ehrlichkeit schafft Verbindung. Wenn dein Partner deine Angst hört und sagt "Ich bin noch hier" – das ist echte Nähe.
 

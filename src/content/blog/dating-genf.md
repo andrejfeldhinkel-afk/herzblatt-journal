@@ -47,7 +47,7 @@ Das Viertel rund um die **Cathedrale Saint-Pierre** ist besonders schön – hie
 
 Tipp für Locals: Viele junge Berufstätige treffen sich in den kleineren Bars der Altstadt, nicht nur in den touristischen Spots. Frag nach echten lokalen Empfehlungen!
 
-### Carouge – Kreativ, bohemienisch, verliebt
+### Carouge – Kreativ, bohemienisch, [verliebt](/blog/mann-verliebt-anzeichen-komplett)
 
 Carouge ist das künstlerische, etwas bohemienischere Viertel Genfs – und es ist ein echter Magnet für Singles, die etwas Besonderes suchen. Mit seinen farbenfrohen Hausfassaden, den Kunstgalerien, den Second-Hand-Läden und den gemütlichen Bistros fühlt man sich hier fast wie in Paris, nur kleiner und intimer.
 

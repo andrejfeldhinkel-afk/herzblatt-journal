@@ -540,7 +540,7 @@ Kenne dein Budget und plane Dates darin. Das ist nicht Mangel – das ist Intell
 
 ## Red Flags bei Date-Planung
 
-Es gibt auch Red Flags, wenn jemand Dates planiert. Wenn jemand immer zu mir sagt „Überrasch mich" (und dann nichts plant), das ist eine Rote Flagge. Das ist nicht romantisch – das ist Manipulation. Ich mache die Arbeit.
+Es gibt auch [Red Flags](/blog/dating-red-flags-maenner-erkennen), wenn jemand Dates planiert. Wenn jemand immer zu mir sagt „Überrasch mich" (und dann nichts plant), das ist eine Rote Flagge. Das ist nicht romantisch – das ist Manipulation. Ich mache die Arbeit.
 
 Wenn jemand immer zu teure Dates plant, und dann erwartet, dass ich zahle – rote Flagge.
 

@@ -92,7 +92,7 @@ Das Problem: Du gibst deinem Match die Chance, "Nein" zu sagen, ohne sich schuld
 
 Ein direkter Vorschlag klingt so: "Ich finde dich spannend. Lass uns nächsten Samstag einen Kaffee trinken. Wie sieht's aus?" Das ist selbstsicher (ohne arrogant zu sein), direkt und gibt keinen Raum für mehrdeutige "Ja, vielleicht irgendwann mal"-Antworten.
 
-### 6. Ghosting nach dem ersten Match
+### 6. [Ghosting](/blog/ghosting-komplett-guide) nach dem ersten Match
 
 Das ist weniger bekannt, aber es passiert häufig: Du und dein Match haben sich geliked, die App zeigt euch das gegenseitige Match an, und dann... passiert nichts. Einer von euch schreibt nicht.
 
@@ -195,7 +195,7 @@ Dies ist eine Wissenschaft. Der ideale Zeitpunkt liegt zwischen dem dritten und 
 
 **Tag 3-7:** Perfekt. Ihr habt genug gechattet, um zu wissen, dass es Chemie gibt. Ihr habt kein Fantasie-Bild aufgebaut, das der Realität nicht entspricht. Es gibt noch Spannung.
 
-**Tag 8-14:** Riskant. Je länger es dauert, je mehr wird die Person in ihre eigene Fantasie über dich verliebt statt in die echte Version von dir. Eine Absage wird wahrscheinlicher.
+**Tag 8-14:** Riskant. Je länger es dauert, je mehr wird die Person in ihre eigene Fantasie über dich [verliebt](/blog/mann-verliebt-anzeichen-komplett) statt in die echte Version von dir. Eine Absage wird wahrscheinlicher.
 
 **Tag 15+:** Sehr wahrscheinlich zu spät. Die Person hat entweder mit jemandem anderen ein Date, oder dein Match ist in der "guter Freund"-Zone gelandet.
 

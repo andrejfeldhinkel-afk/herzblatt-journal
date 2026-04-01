@@ -28,7 +28,7 @@ Dating-Müdigkeit ist nicht Faulheit. Es ist nicht Desinteresse an Liebe. Es ist
 
 ## Die Ursachen: Warum wir müde werden
 
-Dating-Müdigkeit entsteht aus mehreren Faktoren. Erstens: Ghosting. Die Erfahrung, mit jemandem zu schreiben, dich zu freuen, und dann plötzlich – nichts. Radio Stille. Das passiert ständig, und es fühlt sich persönlich an. Zweitens: Endloser Überfluss. Es gibt immer jemand anderen, also warum sollte man sich mit dieser durchschnittlichen Person einigen? Diese mentale Haltung führt zu einer Art lähmenden Perfektionismus. Drittens: Die Oberflächlichkeit der Apps. Du kommst zum Urteil über jemanden in zwei Sekunden, basierend auf einem Foto. Das fühlt sich leere und bedeutungslos an.
+Dating-Müdigkeit entsteht aus mehreren Faktoren. Erstens: [Ghosting](/blog/ghosting-komplett-guide). Die Erfahrung, mit jemandem zu schreiben, dich zu freuen, und dann plötzlich – nichts. Radio Stille. Das passiert ständig, und es fühlt sich persönlich an. Zweitens: Endloser Überfluss. Es gibt immer jemand anderen, also warum sollte man sich mit dieser durchschnittlichen Person einigen? Diese mentale Haltung führt zu einer Art lähmenden Perfektionismus. Drittens: Die Oberflächlichkeit der Apps. Du kommst zum Urteil über jemanden in zwei Sekunden, basierend auf einem Foto. Das fühlt sich leere und bedeutungslos an.
 
 Viertens: Die psychologische Belastung durch wiederholte Ablehnung (auch wenn es nur nicht-Antworten sind, fühlt es sich wie Ablehnung an). Fünftens: Die Paradoxie der Wahl – je mehr Optionen du hast, desto unzufriedener wirst du. Sechstens: Der Aufwand-Nutzen-Vergleich ist schlecht. Du investierst viel emotionale Energie und bekommst wenig zurück.
 

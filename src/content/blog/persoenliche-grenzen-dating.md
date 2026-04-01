@@ -284,7 +284,7 @@ Grenzen schützen deine emotionale Energie und filtern Menschen heraus die deine
 Klar und freundlich: "Das ist nicht meins" oder "Ich fühle mich damit nicht wohl". Du musst Grenzen nicht rechtfertigen — ein Nein ist ein vollständiger Satz.
 
 **Welche Grenzen sollte ich beim Dating haben?**
-Grundlegende: Keine sexuellen Übergriffe, kein Ghosting tolerieren, keine Lügen akzeptieren. Individuelle: Dein Tempo beim Sex, wie schnell du dich triffst, was du teilst.
+Grundlegende: Keine sexuellen Übergriffe, kein [Ghosting](/blog/ghosting-komplett-guide) tolerieren, keine Lügen akzeptieren. Individuelle: Dein Tempo beim Sex, wie schnell du dich triffst, was du teilst.
 
 **Was sollte ich tun, wenn der andere Mensch meine Grenze nicht respektiert?**
 Das ist eine rote Flagge. Echte Partner respektieren Grenzen. Wenn someone argumentiert oder versucht, deine Grenze zu brechen, ist die Person nicht für dich geeignet.

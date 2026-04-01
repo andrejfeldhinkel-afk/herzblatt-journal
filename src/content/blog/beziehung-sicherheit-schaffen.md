@@ -35,7 +35,7 @@ Das ist nicht Liebe. Das ist Angst, die sich als Liebe verkleidet.
 
 Die unbequeme Wahrheit: **Liebe ohne Sicherheit ist Tortur.**
 
-Du kannst in jemanden verliebt sein und vollständig unsicher sein. In Tatsache passiert das viel. Menschen bleiben in unsicheren Beziehungen weil sie noch Liebe fühlen. Aber Liebe ohne Sicherheit ist wie Wasser trinken während du dürstig bist – es hilft nicht wirklich. Es verlängert nur die Pein.
+Du kannst in jemanden [verliebt](/blog/mann-verliebt-anzeichen-komplett) sein und vollständig unsicher sein. In Tatsache passiert das viel. Menschen bleiben in unsicheren Beziehungen weil sie noch Liebe fühlen. Aber Liebe ohne Sicherheit ist wie Wasser trinken während du dürstig bist – es hilft nicht wirklich. Es verlängert nur die Pein.
 
 Echte Liebe – die Art, die dauert – braucht ein Fundament. Und das Fundament ist nicht Romance. Es ist Sicherheit.
 

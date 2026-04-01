@@ -50,7 +50,7 @@ Die Kommunikation ist konstant: Morgen-Texte, Nachmittag-Texte, Nacht-Texte. "Ic
 
 Jetzt beginnt der Love Bomber, dich zu isolieren. "Deine Freunde verstehen dich nicht so wie ich." "Familie ist überschätzt, lass mich dein wichtigster Mensch sein." "Wir brauchen niemand anderen - wir haben uns."
 
-Gleichzeitig wird Intimität schnell forciert. "Ich liebe dich" nach zwei Wochen. "Lass mich in deinen Kopf einziehen" (metaphorisch und manchmal buchstäblich). "Wir sollten zusammenziehen" nach kurzer Zeit.
+Gleichzeitig wird Intimität schnell forciert. "Ich liebe dich" nach zwei Wochen. "Lass mich in deinen Kopf einziehen" (metaphorisch und manchmal buchstäblich). "Wir sollten [zusammenziehen](/blog/zusammenziehen-checkliste)" nach kurzer Zeit.
 
 **Phase 3: Die Devaluation (Woche 8+)**
 
@@ -78,7 +78,7 @@ Manche Menschen haben anxious-preoccupied Bindung. Sie wurden gelehrt, dass Lieb
 
 **Grund 4: Soziopathische Tendenzen**
 
-In extremen Fällen ist Love Bombing ein Werkzeug für Gaslighting, finanzielle Ausbeutung oder Missbrauch. Der Love Bomber ist nicht empathisch - er/sie benutzt Emotionen, um zu manipulieren.
+In extremen Fällen ist Love Bombing ein Werkzeug für [Gaslighting](/blog/gaslighting-komplett-guide), finanzielle Ausbeutung oder Missbrauch. Der Love Bomber ist nicht empathisch - er/sie benutzt Emotionen, um zu manipulieren.
 
 Die Wahrheit: Das Warum ändert nicht das Was. Unabhängig vom Grund ist Love Bombing schädlich.
 

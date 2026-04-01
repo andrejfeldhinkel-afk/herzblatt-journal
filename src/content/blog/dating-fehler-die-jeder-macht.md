@@ -42,7 +42,7 @@ Du lachst über Witze, die dich nicht lustig finden. Du interessierst dich für 
 
 Das ist extrem anstrengend. Und es funktioniert nicht.
 
-Wenn jemand sich in diese Version von dir verliebt, verliebt er sich nicht in dich. Er verliebt sich in deine Scharade. Und wenn die zusammenbricht – und sie wird zusammenbrechen – ist er enttäuscht.
+Wenn jemand sich in diese Version von dir [verliebt](/blog/mann-verliebt-anzeichen-komplett), verliebt er sich nicht in dich. Er verliebt sich in deine Scharade. Und wenn die zusammenbricht – und sie wird zusammenbrechen – ist er enttäuscht.
 
 Die meisten Menschen, die das tun, denken, dass sie so die Person beeindrucken müssen. Dass die echte Version von ihnen nicht gut genug ist. Das ist eine Lüge, die du dir erzählst.
 
@@ -116,7 +116,7 @@ Die bessere Strategie: Füllen Sie deine emotionalen Lücken selbst. Mit Freunde
 
 Dann, wenn du zu einem Date gehst, bist du nicht voller Bedürftigkeit. Du bist voller Fülle. Das ist attraktiv.
 
-## Fehler 5: Du ignorierst Red Flags
+## Fehler 5: Du ignorierst [Red Flags](/blog/dating-red-flags-maenner-erkennen)
 
 Du magst jemanden. Aber es gibt Dinge, die nicht stimmen.
 

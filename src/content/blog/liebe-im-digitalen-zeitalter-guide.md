@@ -149,7 +149,7 @@ Die Easyness, mit der Menschen auf Apps verschwinden können, ist beängstigend.
 
 Du redest mit jemandem, ihr haben großartige Chemie, plant ein Treffen… und dann: Radio Silence. Keine Nachricht mehr. Sie ist einfach weg.
 
-Das nennt sich "Ghosting". Und während es früher eine seltene Gemeinheit war, ist es jetzt die Norm auf Dating-Apps.
+Das nennt sich "[Ghosting](/blog/ghosting-komplett-guide)". Und während es früher eine seltene Gemeinheit war, ist es jetzt die Norm auf Dating-Apps.
 
 Die Kultur der Disposability hat sich entwickelt: Menschen sind nicht so wertvoll, dass man die Anstrengung nimmt, sich zu verabschieden.
 

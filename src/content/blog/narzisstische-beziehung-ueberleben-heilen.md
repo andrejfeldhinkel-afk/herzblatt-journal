@@ -38,7 +38,7 @@ In diesem Leitfaden werde ich dir zeigen, wie du erkennst, dass du in einer narz
 
 Bevor wir tiefer gehen, lass mich dir die Wissenschaft zeigen.
 
-Ein Narzisst ist nicht einfach nur eine Person, die verliebt ist in sich selbst. Das ist ein Missverständnis.
+Ein Narzisst ist nicht einfach nur eine Person, die [verliebt](/blog/mann-verliebt-anzeichen-komplett) ist in sich selbst. Das ist ein Missverständnis.
 
 Ein klinischer Narzisst hat eine Persönlichkeitsstörung, bei der die Person:
 
@@ -72,7 +72,7 @@ Die meisten Menschen, die in narzisstischen Beziehungen sind, haben einen von di
 
 Wenn du in einer narzisstischen Beziehung bist, passiert das Gleiche immer wieder. Es ist ein Zyklus. Und das Verständnis dieses Zyklus ist der erste Schritt zur Befreiung.
 
-### Phase 1: Love Bombing – Das süße Gift
+### Phase 1: [Love Bombing](/blog/love-bombing-erkennen-schuetzen) – Das süße Gift
 
 Am Anfang ist es magisch.
 
@@ -196,7 +196,7 @@ Lasse mich die Warnsignale aufzählen. Wenn drei oder mehr davon wahr sind, muss
 
 3. **Kontrolle:** Er bestimmt, wo du hingehst, mit wem du sprichst, sogar, was du anziehst.
 
-4. **Gaslighting:** Er leugnet Dinge, die eindeutig passiert sind. "Ich habe das nie gesagt." Oder: "Das ist in deinem Kopf."
+4. **[Gaslighting](/blog/gaslighting-komplett-guide):** Er leugnet Dinge, die eindeutig passiert sind. "Ich habe das nie gesagt." Oder: "Das ist in deinem Kopf."
 
 5. **Schuldmanipulation:** Er macht dich schuldig, damit du dich verpflichtet fühlst. "Nach allem, das ich für dich getan habe..."
 

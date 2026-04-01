@@ -228,7 +228,7 @@ Das ist nicht Scheitern. Das ist Clarity.
 
 ## Die Wahrheit über Leidenschaft
 
-Leidenschaft in long-term Beziehungen sieht nicht wie im Anfang aus. Es ist nicht dieser verrückte, can't-eat-can't-sleep-verliebt feeling.
+Leidenschaft in long-term Beziehungen sieht nicht wie im Anfang aus. Es ist nicht dieser verrückte, can't-eat-can't-sleep-[verliebt](/blog/mann-verliebt-anzeichen-komplett) feeling.
 
 Es ist etwas anderes. Es ist: Du wirst wach und du willst diese Person sehen. Es ist: Du bist nach dem Tag erschöpft, aber wenn diese Person Zeit mit dir braucht, sagst du ja. Es ist: Du machst effort, nicht weil du musst, sondern weil du willst.
 

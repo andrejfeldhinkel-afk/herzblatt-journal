@@ -144,7 +144,7 @@ Ein Partner, der dich liebt, wird verstehen, dass du Zeit und Ressourcen in dein
 
 ## Kommunikation, wenn Zwangsgedanken über die Beziehung auftauchen
 
-Dies ist der schwierigste Teil. Du hast einen Zwangsgedanken über die Beziehung. Vielleicht: "Ich bin nicht in ihn verliebt." Oder: "Ich finde ihn nicht attraktiv genug." Oder etwas noch Absurderes, wie "Ich könnte ihn nicht lieben, weil..."
+Dies ist der schwierigste Teil. Du hast einen Zwangsgedanken über die Beziehung. Vielleicht: "Ich bin nicht in ihn [verliebt](/blog/mann-verliebt-anzeichen-komplett)." Oder: "Ich finde ihn nicht attraktiv genug." Oder etwas noch Absurderes, wie "Ich könnte ihn nicht lieben, weil..."
 
 Dein natürlicher Instinkt: Den Gedanken analysieren. Das ist das "Sicherheitsverhalten" deiner Zwangsstörung. Du fragst dich: Ist dieser Gedanke wahr? Was bedeutet er?
 

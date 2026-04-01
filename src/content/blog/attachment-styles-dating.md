@@ -99,7 +99,7 @@ Arbeite an Dir selbst. Das bedeutet nicht, Dich komplett zu verändern. Es bedeu
 
 Suche Dir einen sicheren Partner oder jemanden, der bereit ist zu wachsen. Ein sicherer Partner kann Dir helfen, stabiler zu werden. Aber: Du kannst niemanden ändern. Suche jemanden, der Deine Arbeit an sich selbst respektiert und macht die eigene.
 
-Sei ehrlich beim Dating. Wenn Du weißt, dass Du zu schnell verliebt wirst, sag es. Wenn Du Raum brauchst, kommuniziere das klar. So findest Du jemanden, der damit umgehen kann.
+Sei ehrlich beim Dating. Wenn Du weißt, dass Du zu schnell [verliebt](/blog/mann-verliebt-anzeichen-komplett) wirst, sag es. Wenn Du Raum brauchst, kommuniziere das klar. So findest Du jemanden, der damit umgehen kann.
 
 ## Die gute Nachricht
 

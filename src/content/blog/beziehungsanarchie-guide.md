@@ -248,7 +248,7 @@ Die beste Weise zu verstehen, wie Beziehungsanarchie funktioniert, ist, Menschen
 
 „Ich lebe mit meinen zwei romantischen Partnern zusammen, Maya und Jordan. Wir alle teilen ein Haus mit drei Schlafzimmern, aber niemand von uns hat ein separates Zimmer – wir schlafen manchmal zusammen, manchmal einzeln, manchmal in verschiedenen Kombinationen. Es ist keine sexuelle Arrangement, es ist einfach Komfort.
 
-Maya und ich sind zusammen seit acht Jahren. Jordan ist zwei Jahre dabei. Wir haben keine Hierarchie zwischen ihnen – wir sind einfach beide verliebt. Das bedeutet nicht, dass alles gleich ist – Maya und ich haben verschiedene Geschichte, verschiedene Bindung. Aber Jordan ist nicht weniger „real" oder „wichtig".
+Maya und ich sind zusammen seit acht Jahren. Jordan ist zwei Jahre dabei. Wir haben keine Hierarchie zwischen ihnen – wir sind einfach beide [verliebt](/blog/mann-verliebt-anzeichen-komplett). Das bedeutet nicht, dass alles gleich ist – Maya und ich haben verschiedene Geschichte, verschiedene Bindung. Aber Jordan ist nicht weniger „real" oder „wichtig".
 
 Was anspruchsvoll ist: Kommunikation. Ständig. Wenn einer von uns eifersüchtig wird, reden wir darüber. Wenn es Konflikte gibt, arbeiten wir zusammen daran. Mein bester Freund Leon ist auch sehr wichtig für mich – wir teilen emotionale Intimität. Maya und Jordan akzeptieren das. Leon ist ein Teil unseres Lebens.
 

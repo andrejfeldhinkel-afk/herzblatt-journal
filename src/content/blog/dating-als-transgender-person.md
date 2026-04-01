@@ -64,7 +64,7 @@ Die Wahrheit ist: Es gibt keinen perfekten Zeitpunkt.
 
 Aber hier ist das, was die Wissenschaft sagt: Menschen brauchen Zeit, um dich als Person zu sehen, bevor sie dich als "die trans Person" sehen. Also brauuchst du etwas Zeit zu bauen, dass die Person dich kennt – deine Witze, deine Träume, deine Angst.
 
-Eine häufige Faustregel ist: In den ersten paar Wochen, nachdem du schon ein, zwei Daten hattest. Nicht beim ersten Treffen. Das ist zu früh. Aber auch nicht nach drei Monaten, wenn du schon verliebt bist.
+Eine häufige Faustregel ist: In den ersten paar Wochen, nachdem du schon ein, zwei Daten hattest. Nicht beim ersten Treffen. Das ist zu früh. Aber auch nicht nach drei Monaten, wenn du schon [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist.
 
 Das Zeitfenster ist oft: Nachdem du sicher bist, dass du diesen Menschen wieder treffen möchtest, aber bevor du wirklich an diesem Menschen gefühlsmäßig angefangen hast.
 

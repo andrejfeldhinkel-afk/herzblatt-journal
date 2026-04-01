@@ -24,11 +24,11 @@ Das ist einer der härtesten Konflikte, die du erleben kannst. Weil es nicht ein
 
 Bevor du reagierst, lohnt sich zu verstehen, warum deine Eltern überhaupt dagegen sind. Es gibt konkrete Muster, und nur wenn du diese erkennst, kannst du richtig damit umgehen.
 
-### Sie sehen echte Red Flags
+### Sie sehen echte [Red Flags](/blog/dating-red-flags-maenner-erkennen)
 
 Manchmal haben Eltern recht. Wirklich. Sie kennen dich dein ganzes Leben lang, sie kennen die Zeichen von emotionalem oder körperlichem Missbrauch, von Manipulation, von toxischen Mustern. Sie sehen, wenn dein Partner kontrollierend ist, wenn er oder sie dich isoliert, wenn die Beziehung ungleich verteilt ist.
 
-Das ist schwer zu hören, wenn du verliebt bist. Verliebte sind blind, das ist einfach so. Du siehst nur die guten Seiten. Deine Eltern sehen den Gesamtbild. Wenn mehrere Menschen in deinem Leben — nicht nur deine Eltern, sondern auch beste Freunde, Geschwister — Bedenken äußern, lohnt sich ehrliche Selbstreflexion. Nicht "die verstehen uns nicht", sondern "gibt es etwas, das ich nicht sehen will?"
+Das ist schwer zu hören, wenn du [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist. Verliebte sind blind, das ist einfach so. Du siehst nur die guten Seiten. Deine Eltern sehen den Gesamtbild. Wenn mehrere Menschen in deinem Leben — nicht nur deine Eltern, sondern auch beste Freunde, Geschwister — Bedenken äußern, lohnt sich ehrliche Selbstreflexion. Nicht "die verstehen uns nicht", sondern "gibt es etwas, das ich nicht sehen will?"
 
 ### Sie haben Vorurteile
 

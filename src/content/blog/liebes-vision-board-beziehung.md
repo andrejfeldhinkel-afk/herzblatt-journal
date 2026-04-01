@@ -129,7 +129,7 @@ Aber hier ist eine Warnung: Achte darauf, dass die Bilder echt wirken, nicht wie
 
 5. **Worte und Affirmationen** – Schreib oder schneide Worte aus, die deine Vision unterstützen. "Echte Liebe", "Gegenseitig unterstützend", "Tiefe Verbindung", "Vertrauen", "Lachen zusammen".
 
-**Eine wichtige Regel:** Verwende Bilder von Menschen, die nicht du selbst bist. Es ist eine häufige Anfängerfehler, sein eigenes Bild neben das eines potentiellen Partners zu kleben, um zu "manifestieren", dass diese spezifische Person verliebt wird. Das ist nicht, wie es funktioniert. Und es kann tatsächlich blockierend sein, weil es dich auf eine spezifische Person fixiert statt auf die Qualitäten zu konzentrieren, die diese Person verkörpert.
+**Eine wichtige Regel:** Verwende Bilder von Menschen, die nicht du selbst bist. Es ist eine häufige Anfängerfehler, sein eigenes Bild neben das eines potentiellen Partners zu kleben, um zu "manifestieren", dass diese spezifische Person [verliebt](/blog/mann-verliebt-anzeichen-komplett) wird. Das ist nicht, wie es funktioniert. Und es kann tatsächlich blockierend sein, weil es dich auf eine spezifische Person fixiert statt auf die Qualitäten zu konzentrieren, die diese Person verkörpert.
 
 Stattdessen nutze Bilder von Fremden oder Prominenten, die die Energie ausstrahlen, die du anziehen möchtest. Das gibt deinem Unterbewusstsein die Freiheit, diese Energie zu dir zu bringen – möglicherweise in Form einer Person, die du noch nicht kennst und die sogar noch besser zu dir passt.
 

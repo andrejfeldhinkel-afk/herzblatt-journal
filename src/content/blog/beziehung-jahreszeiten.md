@@ -55,7 +55,7 @@ Das klingt negativ, aber es ist tatsächlich eine gute Sache. Es bedeutet, dass 
 - Die Schmetterlinge sind weg (normale, nicht Mangel an Liebe)
 - Alltag wird Routine
 - Ihr lernt, wie die andere Person unter Stress ist
-- Möglicherweise beginnen erste größere Entscheidungen (zusammenziehen, Zukunft)
+- Möglicherweise beginnen erste größere Entscheidungen ([zusammenziehen](/blog/zusammenziehen-checkliste), Zukunft)
 
 **Aufgaben im Sommer:**
 - Lerne, konstruktiv zu streiten (Unterschied zwischen "Ich bin verletzt" und "Du bist ein Idiot")

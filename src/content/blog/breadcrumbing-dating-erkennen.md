@@ -32,7 +32,7 @@ Du kennst dieses Szenario vielleicht: Da ist jemand, an dem Du interessiert bist
 
 Breadcrumbing ist ein Dating-Phänomen, das in den letzten Jahren immer häufiger wird. Der Begriff kommt aus dem Englischen: „Breadcrumb" bedeutet Brotkrümel. Genau so funktioniert es auch – jemand wirft Dir immer wieder kleine Aufmerksamkeiten hin, ohne Dir jemals die volle Mahlzeit zu servieren. Das heißt konkret: Die andere Person gibt Dir gerade genug Aufmerksamkeit, um Dich interessiert und engagiert zu halten, ohne sich auf eine echte Beziehung oder auch nur regelmäßiges Treffen einzulassen.
 
-Das Tückische an Breadcrumbing ist, dass es nicht so offensichtlich ist wie Ghosting (das völlige Verschwinden) oder eine direkte Ablehnung. Stattdessen haltet Ihr ein seltsames Schwebezustand auf. Du fragst Dich ständig: „Interessiert es sich wirklich für mich? Soll ich nochmal schreiben? Bin ich zu aufdringlich?" Diese Unsicherheit führt dazu, dass Du Dich emotional an die Person bindest, ohne dass sie sich Dir gegenüber öffnet.
+Das Tückische an Breadcrumbing ist, dass es nicht so offensichtlich ist wie [Ghosting](/blog/ghosting-komplett-guide) (das völlige Verschwinden) oder eine direkte Ablehnung. Stattdessen haltet Ihr ein seltsames Schwebezustand auf. Du fragst Dich ständig: „Interessiert es sich wirklich für mich? Soll ich nochmal schreiben? Bin ich zu aufdringlich?" Diese Unsicherheit führt dazu, dass Du Dich emotional an die Person bindest, ohne dass sie sich Dir gegenüber öffnet.
 
 Breadcrumbing ist schädlich, weil es:
 

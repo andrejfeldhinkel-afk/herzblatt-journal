@@ -181,7 +181,7 @@ Hier ist die Wahrheit: Ich kenne einige der tiefsten, bedeutungsvollsten Beziehu
 
 Warum? Weil schüchterne Menschen nicht oberflächlich können.
 
-Schüchterne Menschen bauen langsamer auf. Sie geben nicht schnell ihr Herz. Aber wenn sie es tun – wenn sie sich verliebt haben – lieben sie wirklich.
+Schüchterne Menschen bauen langsamer auf. Sie geben nicht schnell ihr Herz. Aber wenn sie es tun – wenn sie sich [verliebt](/blog/mann-verliebt-anzeichen-komplett) haben – lieben sie wirklich.
 
 Und Leute können das fühlen.
 

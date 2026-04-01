@@ -353,7 +353,7 @@ Emotionale Ausnutzung ist, wenn dein Partner:
 - Bewusst auf deine emotionalen Bedürfnisse ignoriert, um deine Aufmerksamkeit auf sie zu konzentrieren
 - Verwendet deine Liebe gegen dich ("Du solltest mir helfen, wenn du mich wirklich liebst")
 - Erfordert konstante emotionale Unterstützung und gibt nichts zurück
-- Verwendet Gaslighting oder Manipulationen, um dich zu kontrollieren
+- Verwendet [Gaslighting](/blog/gaslighting-komplett-guide) oder Manipulationen, um dich zu kontrollieren
 - Lässt dich für seine Gefühle verantwortlich
 
 Wenn deine Beziehung emotionale Ausnutzung hat, ist das nicht nur ein Kommunikationsproblem. Das ist ein Problem mit Respekt und Grenzen. Und in diesem Fall brauchst du möglicherweise professionelle Unterstützung oder möglicherweise zu gehen.

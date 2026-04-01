@@ -571,7 +571,7 @@ Lasse mich noch ein paar häufige Blockaden ansprechen.
 
 ### Hürde 1: "Mein Körper ist nicht mehr jung"
 
-Das ist häufig. Du schaust dich an und denkst: "Das ist nicht der Körper, in den ich mich verliebt habe (oder den ich hatte)."
+Das ist häufig. Du schaust dich an und denkst: "Das ist nicht der Körper, in den ich mich [verliebt](/blog/mann-verliebt-anzeichen-komplett) habe (oder den ich hatte)."
 
 **Wahrheit:**
 

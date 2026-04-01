@@ -40,7 +40,7 @@ Während Schmetterlinge schön sind, können sie täuschen:
 - Sie können sehr schnell verblassen, wenn die Realität setzt in
 - Sie können dich dazu führen, mit jemandem zusammen zu bleiben, der nicht gut für dich ist
 
-Wie oft hast du gehört, „Ich war so verliebt, aber dann merkte ich, dass wir nichts gemeinsam hatten"?
+Wie oft hast du gehört, „Ich war so [verliebt](/blog/mann-verliebt-anzeichen-komplett), aber dann merkte ich, dass wir nichts gemeinsam hatten"?
 
 ## Langsam brennende Liebe
 

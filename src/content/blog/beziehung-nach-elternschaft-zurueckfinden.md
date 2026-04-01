@@ -48,7 +48,7 @@ Wenn ein Baby geboren wird — besonders wenn eine Mutter stillt — gibt es ein
 
 Diese unsichtbare Asymmetrie führt dazu, dass sich eine Person (oft die Frau, unabhängig vom Job-Status) für alles „verantwortlich" fühlt. Sie trägt die mentale Last. Sie weiß, dass die Windeln zu Ende gehen. Sie weiß, dass die Milchflaschen gereinigt werden müssen. Sie weiß, wann der nächste Zahnarzt-Termin ist. Der andere Partner, so engagiert er auch sein mag, verteilt seine Aufmerksamkeit unbewusst anders. Er geht vielleicht zur Arbeit und hat dort einen klaren Anfang und Ende. Sie ist ständig „on call", auch wenn sie nebenan schläft.
 
-Das Unfairste daran: Die Partnerschaft wird zum ersten Opfer dieser Asymmetrie. Wenn die Mutter oder die primäre Betreuungsperson komplett aufgebraucht ist, von der mentalen Last, der physischen Anstrengung, der emotionalen Verantwortung, hat sie absolut nichts mehr für die Partnerschaft. Sie hat keine Lust. Sie hat keine emotionale Verfügbarkeit. Sie hat nur noch Müdigkeit und Angst, dass sie alles falsch macht. Sie ist nicht herzlos. Sie ist nicht weniger verliebt. Sie ist schlicht und ergreifend leer.
+Das Unfairste daran: Die Partnerschaft wird zum ersten Opfer dieser Asymmetrie. Wenn die Mutter oder die primäre Betreuungsperson komplett aufgebraucht ist, von der mentalen Last, der physischen Anstrengung, der emotionalen Verantwortung, hat sie absolut nichts mehr für die Partnerschaft. Sie hat keine Lust. Sie hat keine emotionale Verfügbarkeit. Sie hat nur noch Müdigkeit und Angst, dass sie alles falsch macht. Sie ist nicht herzlos. Sie ist nicht weniger [verliebt](/blog/mann-verliebt-anzeichen-komplett). Sie ist schlicht und ergreifend leer.
 
 ## Der Schlafmangel-Faktor: Warum Liebe unter Schlafentzug zusammenbricht
 

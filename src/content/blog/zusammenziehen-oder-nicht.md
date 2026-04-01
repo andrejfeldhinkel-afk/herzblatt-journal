@@ -35,7 +35,7 @@ Das Zusammenleben unterscheidet sich grundlegend vom Zusammensein. Beim Zusammen
 
 ### Die ersten Konflikte haben sich gelegt
 
-In den ersten Monaten einer Beziehung schimmern all die schönen Seiten durcheinander. Ihr lacht zusammen, alles fühlt sich leicht an. Es gibt kaum Konflikte, weil ihr beide zu verliebt seid, um irgendwas negativ zu sehen. Das ist wunderbar, aber es ist nicht die Realität von Zusammenleben.
+In den ersten Monaten einer Beziehung schimmern all die schönen Seiten durcheinander. Ihr lacht zusammen, alles fühlt sich leicht an. Es gibt kaum Konflikte, weil ihr beide zu [verliebt](/blog/mann-verliebt-anzeichen-komplett) seid, um irgendwas negativ zu sehen. Das ist wunderbar, aber es ist nicht die Realität von Zusammenleben.
 
 Wenn du zusammenziehst, verschwindet diese Honeymoon-Phase schnell. Du merkst dann, wenn dein Partner die Zahnpasta nicht von unten ausdrückt, sondern von oben. Du merkst es, wenn er die Türen knallt. Du merkst es, wenn er eine Woche lang die Spülmaschine nicht ausräumt. Und plötzlich breiten sich diese kleinen Dinge aus, bis sie zu größeren Konflikten werden.
 

@@ -62,7 +62,7 @@ Die Antwort ist nein – aber du erkennst es nicht immer.
 
 Das ist ungesund.
 
-## Warum Orbiting schlimmer ist als Ghosting
+## Warum Orbiting schlimmer ist als [Ghosting](/blog/ghosting-komplett-guide)
 
 Hier ist das merkwürdige Ding: Wenn jemand dich ghosted, wenigstens weißt du, dass die Beziehung vorbei ist.
 

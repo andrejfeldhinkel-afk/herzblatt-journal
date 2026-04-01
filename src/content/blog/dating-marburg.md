@@ -274,7 +274,7 @@ Das ist ein riesiger Vorteil für Menschen, die echte Liebe suchen!
 Nein! Mit 75.000 Einwohnern und 30.000+ Studierenden ist die Single-Szene überraschend groß. Die Kleinheit ist sogar ein Vorteil – Menschen sind offener, neugieriger und weniger anonymous. Jeder kennt jeden, aber das macht Flirten leichter!
 
 **Wie ist das Dating-Alter-Spektrum?**
-Sehr divers! Viele Studis (18-28), aber auch viele junge Profis (28-40+) die Marburg bewusst gewählt haben. Auch ältere Menschen die sich in die Märchenstadt verliebt haben. Du findest mit Sicherheit dein Alters-Spektrum!
+Sehr divers! Viele Studis (18-28), aber auch viele junge Profis (28-40+) die Marburg bewusst gewählt haben. Auch ältere Menschen die sich in die Märchenstadt [verliebt](/blog/mann-verliebt-anzeichen-komplett) haben. Du findest mit Sicherheit dein Alters-Spektrum!
 
 **Sind Marburger Menschen romantisch?**
 Sie sind eher **real und authentisch als romantisch-kitschig**. Das macht sie attraktiver, nicht weniger! Aber die Stadt und die Natur machen Menschen trotzdem romantisch. Also: Ja, definitiv! Die Umgebung (Schloss, Lahn, Oberstadt) hilft dabei.

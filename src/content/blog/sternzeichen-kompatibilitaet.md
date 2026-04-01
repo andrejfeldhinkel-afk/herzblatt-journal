@@ -75,7 +75,7 @@ Die wirkliche Kompatibilität hängt von Dingen ab, die messbar und beobachtbar 
 
 **Gemeinsame Werte**: Glaubt ihr an die gleichen Dinge? Religion, Politik, Lebensziele?
 
-**Gegenseitiger Respekt**: Respektiert ihr euch gegenseitig? Oder respektiert du ihn, weil du verliebt bist, und er respektiert dich nicht?
+**Gegenseitiger Respekt**: Respektiert ihr euch gegenseitig? Oder respektiert du ihn, weil du [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, und er respektiert dich nicht?
 
 **Echte Kommunikation**: Könnt ihr ehrlich miteinander reden? Könnt ihr Konflikte konstruktiv durcharbeiten?
 

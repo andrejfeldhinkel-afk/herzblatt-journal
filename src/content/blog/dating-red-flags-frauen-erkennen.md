@@ -113,7 +113,7 @@ Eine Person, die nicht zuverlässig ist, ist nicht reif genug für eine ernsthaf
 
 Es gibt Unterschied zwischen spielerischem Teasing und gemeinem Humor. Wenn sie dich ständig unter dem Deckmantel von Humor beleidigt, dann versucht sie dich klein zu machen.
 
-Das ist Gaslighting. Das ist Manipulation.
+Das ist [Gaslighting](/blog/gaslighting-komplett-guide). Das ist Manipulation.
 
 ## 15. Sie hat keine Grenzen
 

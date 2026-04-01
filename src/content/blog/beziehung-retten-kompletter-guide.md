@@ -51,7 +51,7 @@ Nicht jede Beziehung sollte gerettet werden. Das ist eine unbequeme Wahrheit, ab
 
 ### Kriterium 1: Gegenseitige Liebe existiert noch
 
-Es gibt einen großen Unterschied zwischen "Ich liebe dich noch" und "Ich bin in dich verliebt". Die erste ist tiefer. Sie ist eine Wahl. Sie ist ein Fundament. Wenn du deinen Partner noch auf dieser Ebene liebst – nicht als romantische Fantasie, sondern als realen Menschen mit seinen Stärken und Schwächen – dann lohnt sich der Kampf.
+Es gibt einen großen Unterschied zwischen "Ich liebe dich noch" und "Ich bin in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett)". Die erste ist tiefer. Sie ist eine Wahl. Sie ist ein Fundament. Wenn du deinen Partner noch auf dieser Ebene liebst – nicht als romantische Fantasie, sondern als realen Menschen mit seinen Stärken und Schwächen – dann lohnt sich der Kampf.
 
 Aber Vorsicht: Liebe ist nicht das gleiche wie Abhängigkeit. Manchmal verwechseln wir Angst vor Einsamkeit mit Liebe. Frag dich: Würde ich diese Person lieben, wenn wir gerade nicht zusammen waren? Wenn die Antwort nein ist, ist es möglicherweise keine echte Liebe.
 

@@ -68,7 +68,7 @@ Vermeidend gebundene Menschen zeigen:
 
 **Fokus auf Unabhängigkeit.** Ihre Identität ist stark mit "Ich kann das alleine machen" verwoben. Abhängigkeit bedeutet Versagen.
 
-**Ghosting oder schnelle Beendigung von Beziehungen.** Wenn die Beziehung zu nahe wird, sind sie weg. Nicht aus Boshaftigkeit, sondern aus Überlebensangst.
+**[Ghosting](/blog/ghosting-komplett-guide) oder schnelle Beendigung von Beziehungen.** Wenn die Beziehung zu nahe wird, sind sie weg. Nicht aus Boshaftigkeit, sondern aus Überlebensangst.
 
 ### Der desorganisiert-unsichere Bindungsstil
 

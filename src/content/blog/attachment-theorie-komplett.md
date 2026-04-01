@@ -98,7 +98,7 @@ Die Antworten auf diese Fragen können dir zeigen, welcher Bindungsstil dich pr�
 
 ## Warum Bindungsstile im Dating wichtig sind
 
-Beim Dating spielen Bindungsstile eine zentrale Rolle. Dein Bindungsstil bestimmt, wen du attraktiv findest, wie schnell du dich verliebt, und wie du mit Unsicherheiten umgegangen. Wenn du ängstlich bist, könntest du dich zu vermeidenden Partnern hingezogen fühlen, weil ihre emotionale Unverfügbarkeit vertraut ist. Wenn du vermeidend bist, könntest du dich von ängstlichen Partnern abgestoßen fühlen.
+Beim Dating spielen Bindungsstile eine zentrale Rolle. Dein Bindungsstil bestimmt, wen du attraktiv findest, wie schnell du dich [verliebt](/blog/mann-verliebt-anzeichen-komplett), und wie du mit Unsicherheiten umgegangen. Wenn du ängstlich bist, könntest du dich zu vermeidenden Partnern hingezogen fühlen, weil ihre emotionale Unverfügbarkeit vertraut ist. Wenn du vermeidend bist, könntest du dich von ängstlichen Partnern abgestoßen fühlen.
 
 Das Verständnis deines Bindungsstils beim Dating hilft dir, bewusstere Entscheidungen zu treffen. Es hilft dir auch, rote Flaggen früher zu erkennen. Zum Beispiel, wenn du merkst, dass du dich in jemanden verliebt, der deine Bedürfnisse nicht erfüllen kann, könntest du ein unbewusstes Muster wiederhole – und das ist die Gelegenheit, etwas zu verändern.
 

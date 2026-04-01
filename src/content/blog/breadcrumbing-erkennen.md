@@ -313,7 +313,7 @@ Siehe auch: [Fernbeziehung meistern: 25 Tipps für eine starke Liebe auf Distanz
 ## Weiterlesen
 
 - [Lügen beim Online-Dating erkennen: So durchschaust du](/blog/online-dating-luegen-erkennen/)
-- [10 Red Flags beim ersten Date die du nicht ignorieren](/blog/dating-rote-flaggen-erstes-date/)
+- [10 [Red Flags](/blog/dating-red-flags-maenner-erkennen) beim ersten Date die du nicht ignorieren](/blog/dating-rote-flaggen-erstes-date/)
 - [Multi-Dating: Mehrere Personen gleichzeitig daten — Ist das](/blog/online-dating-mehrere-personen-gleichzeitig/)
 - [Die Psychologie des Online-Datings: Warum wir swipen wie wir](/blog/online-dating-psychologie/)
 - [Online-Dating Wiedereinstieg: So startest du nach einer](/blog/online-dating-wiedereinstieg-nach-pause/)

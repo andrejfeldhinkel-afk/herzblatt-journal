@@ -745,7 +745,7 @@ Diese sind nicht Entschuldigungen. Das ist, deine Gefühle als das Problem zu be
 
 Eine echte Entschuldigung sagt: "Ich tat das. Das war falsch. Punkt."
 
-**Zeichen 3: Es gibt ein Muster von Gaslighting**
+**Zeichen 3: Es gibt ein Muster von [Gaslighting](/blog/gaslighting-komplett-guide)**
 
 "Das ist nicht passiert."
 "Du erinnerst dich falsch."

@@ -27,7 +27,7 @@ Du kennst das Gefühl, oder? Die ersten Wochen mit deinem Partner sind voller Ma
 
 Hier kommt ein psychologisches Geheimnis ins Spiel, das viele Paare übersehen: **Beziehungsrituale**. Nicht irgendwelche steifen Zeremonien, sondern kleine, bewusste Momente, die ihr zusammen teilt. Diese Rituale sind der Leim, der starke Paarbeziehungen zusammenhält.
 
-In diesem Artikel zeige ich dir nicht nur die Theorie dahinter, sondern vor allem **50 konkrete Ritual-Ideen**, die du sofort umsetzen kannst. Egal ob Fernbeziehung, frisch verliebt oder lange verheiratet – hier findest du das richtige Ritual für eure Situation.
+In diesem Artikel zeige ich dir nicht nur die Theorie dahinter, sondern vor allem **50 konkrete Ritual-Ideen**, die du sofort umsetzen kannst. Egal ob Fernbeziehung, frisch [verliebt](/blog/mann-verliebt-anzeichen-komplett) oder lange verheiratet – hier findest du das richtige Ritual für eure Situation.
 
 ## Was sind Beziehungsrituale und warum funktionieren sie wirklich?
 

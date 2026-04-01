@@ -27,7 +27,7 @@ faq:
 
 Du kennst dieses Gefühl wahrscheinlich. Du denkst ständig an eine bestimmte Person. Du stellst dir eine Zukunft mit ihr vor. Du sehst das Potential in ihr, auch wenn andere Menschen um dich herum es nicht sehen. Du hoffst, dass sie sich ändert, dass sie endlich erkennt, wie großartig ihr zusammen sein könntet.
 
-Aber wenn du ehrlich mit dir selbst bist: Die Person, in die du verliebt bist, existiert vielleicht gar nicht.
+Aber wenn du ehrlich mit dir selbst bist: Die Person, in die du [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, existiert vielleicht gar nicht.
 
 Das nennt sich ein Fantasy Bond. Und es ist einer der zerstörerischsten emotionalen Zustände, in dem du dich befinden kannst.
 

@@ -49,7 +49,7 @@ In diesen ersten Stunden passiert echte Chemie-Überprüfung. Ihr seht, ob die P
 
 Du siehst diese Person jetzt regelmäßig. Zwei, drei, vier Dates pro Woche. Ihr probiert verschiedene Orte aus. Erst Kaffee, dann Dinner, dann Kino, dann wandern. Jedes Date bringt neue Infos.
 
-Das ist wenn die "Neue-[Beziehung](/blog/zusammenziehen-wann-richtig)s-Energie" richtig zuschlägt. Du denkst an diese Person ständig. Du checkst dein Handy, ob sie geschrieben hat. Du erzählst deinen Freunden alles über sie. Sie sind entweder begeistert oder rollen mit den Augen – es kommt drauf an, wie sehr du nervtötest.
+Das ist wenn die "Neue-[Beziehung](/blog/[zusammenziehen](/blog/zusammenziehen-checkliste)-wann-richtig)s-Energie" richtig zuschlägt. Du denkst an diese Person ständig. Du checkst dein Handy, ob sie geschrieben hat. Du erzählst deinen Freunden alles über sie. Sie sind entweder begeistert oder rollen mit den Augen – es kommt drauf an, wie sehr du nervtötest.
 
 Physische Nähe entwickelt sich schrittweise. Vielleicht halten ihr Hand beim dritten Date. Küssen beim vierten. Jede Beziehung ist anders, aber es gibt einen natürlichen Rhythmus.
 

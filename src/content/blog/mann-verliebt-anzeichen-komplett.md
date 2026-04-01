@@ -1,6 +1,6 @@
 ---
-title: "Ist er verliebt? 25 Anzeichen die ihn verraten"
-description: "Ist er verliebt? 25 Anzeichen die ihn verraten — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
+title: "Ist er verliebt? 25 eindeutige Anzeichen, die ihn verraten (2026)"
+description: "Ist er wirklich verliebt oder nur interessiert? Diese 25 wissenschaftlich fundierten Anzeichen verraten dir, ob ein Mann echte Gefühle hat. Von Körpersprache bis Verhalten."
 date: 2026-03-19
 image: "/images/blog/mann-verliebt-anzeichen-komplett.webp"
 imageAlt: "Mann zeigt Zeichen von Verliebtheit"

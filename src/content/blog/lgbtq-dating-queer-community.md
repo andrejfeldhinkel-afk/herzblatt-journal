@@ -149,7 +149,7 @@ Hate Crime ist real. Homophobia ist real. Das bedeutet nicht, dass du paranoid s
 
 Dating kann auch emotional nicht sicher sein – besonders wenn du verletzliche Teile von dir öffnest.
 
-Achte auf Zeichen von Gaslighting oder Manipulation. Achte auf Zeichen von Fetichisierung. Achte auf Zeichen von Mangel an Respekt für deine Identität.
+Achte auf Zeichen von [Gaslighting](/blog/gaslighting-komplett-guide) oder Manipulation. Achte auf Zeichen von Fetichisierung. Achte auf Zeichen von Mangel an Respekt für deine Identität.
 
 Wenn jemand sagt „Du bist nicht wirklich schwul", oder „Ich kann mit deinem nicht-binärem Ding nicht umgehen", hör zu. Das sagt dir, dass dieser Mensch nicht die richtige Übereinstimmung ist.
 

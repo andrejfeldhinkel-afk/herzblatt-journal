@@ -118,7 +118,7 @@ Ein Beispiel:
 
 Das Problem: Masking ist erschöpfend. Nach einem Date, das ganz "normal" wirkte, kannst du total burnout sein. Dein Nervensystem zittert.
 
-Und wenn du eine Beziehung mit Masking startest, wer wird dieser Person im verliebt? Die echte du, oder die Maske?
+Und wenn du eine Beziehung mit Masking startest, wer wird dieser Person im [verliebt](/blog/mann-verliebt-anzeichen-komplett)? Die echte du, oder die Maske?
 
 ## Die Superkräfte: Was Autisten beim Dating mitbringen
 

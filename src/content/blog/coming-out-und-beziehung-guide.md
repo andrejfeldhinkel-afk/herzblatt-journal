@@ -56,7 +56,7 @@ Es ist aber auch möglich, dass du erkennst, dass sich deine Gefühle für deine
 
 Wenn du erkannt hast, dass deine Geschlechtsidentität nicht dem entspricht, was dir bei der Geburt zugewiesen wurde, ist das tiefergreifend. Du bist vielleicht trans, nicht-binär oder genderfluid. Das ist nicht nur über deine innere Identität — es kann auch bedeuten, dass du dein Äußeres verändern möchtest, deinen Namen und deine Pronomen änderst, oder dich ganz anders durch die Welt bewegst.
 
-Das hat potenziell größere Auswirkungen auf deine Beziehung. Dein Partner hat dich möglicherweise als eine bestimmte Person geheiratet oder sich in eine bestimmte Person verliebt. Wenn du dich jetzt anders präsentierst, kann das destabilisierend sein. Aber es kann auch eine Gelegenheit sein, sich gegenseitig neu kennenzulernen.
+Das hat potenziell größere Auswirkungen auf deine Beziehung. Dein Partner hat dich möglicherweise als eine bestimmte Person geheiratet oder sich in eine bestimmte Person [verliebt](/blog/mann-verliebt-anzeichen-komplett). Wenn du dich jetzt anders präsentierst, kann das destabilisierend sein. Aber es kann auch eine Gelegenheit sein, sich gegenseitig neu kennenzulernen.
 
 Ein Beispiel: Alex war jahrelang verheiratet und als Frau in der Beziehung. Als erwachsener erkennt Alex, dass er sich eigentlich als Mann identifiziert. Das ist beängstigend. Nicht nur für Alex, sondern auch für seine Frau. Sie muss neu verhandeln, was das für ihre Sexualität bedeutet, wie sie sich in der Beziehung fühlt, ob sie mit einem Mann zusammensein möchte. Das sind legitime Fragen. Aber viele Paare arbeiten das durch. Einige werden noch näher beieinander. Einige erkennen, dass sie unterschiedliche Wege gehen müssen. Beides ist okay.
 

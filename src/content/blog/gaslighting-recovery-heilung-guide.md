@@ -27,7 +27,7 @@ faq:
 
 Du sitzt im Bett. Dein Partner sagt, dass das Gespräch, das ihr gestern Nacht hattet, nie passiert ist. Du erinnern dich klar. Du weißt, dass es passiert ist. Aber er ist so überzeugt davon, dass es nicht passiert ist, dass du anfängst zu zweifeln. "Habe ich das geträumt? Bin ich verrückt? Erinnere ich mich nicht korrekt?"
 
-Und das ist das perfekte Beispiel für Gaslighting. Eine Form von psychologischem Missbrauch, wo jemand dich so manipuliert, dass du dich selbst nicht mehr vertraust. Das ist eines der schlimmsten Dinge, die jemand tun kann. Weil es nicht nur dein Verhältnis zum anderen zerstört. Es zerstört dein Verhältnis zu dir selbst.
+Und das ist das perfekte Beispiel für [Gaslighting](/blog/gaslighting-komplett-guide). Eine Form von psychologischem Missbrauch, wo jemand dich so manipuliert, dass du dich selbst nicht mehr vertraust. Das ist eines der schlimmsten Dinge, die jemand tun kann. Weil es nicht nur dein Verhältnis zum anderen zerstört. Es zerstört dein Verhältnis zu dir selbst.
 
 Ich schreibe diesen Artikel für diejenigen, die gerade aus einer Gaslighting-Beziehung raus sind, oder denken, dass sie gerade drin sind. Weil Heilung möglich ist. Weil dein Selbstwertgefühl zurück kann. Weil du nicht verrückt bist.
 

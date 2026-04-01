@@ -77,7 +77,7 @@ Zweites oder drittes Date mit Hund? Jetzt machst du ein Date, das DEINEN Lebenss
 
 ## Der Hund bei Stress: Wenn Instinkte reagieren
 
-Hunde spüren, wenn jemand Neues in dein Leben tritt. Sie sind emotional sehr intelligent. Manche Hunde reagieren eifersüchtig – sie wollen plötzlich mehr Aufmerksamkeit. Andere Hunde werden sofort verliebt in die neue Person und ignorieren dich komplett.
+Hunde spüren, wenn jemand Neues in dein Leben tritt. Sie sind emotional sehr intelligent. Manche Hunde reagieren eifersüchtig – sie wollen plötzlich mehr Aufmerksamkeit. Andere Hunde werden sofort [verliebt](/blog/mann-verliebt-anzeichen-komplett) in die neue Person und ignorieren dich komplett.
 
 Gib deinem Hund Zeit, sich an die neue Person zu gewöhnen. Zwei, drei, vier Besuche. Erzwinge nichts. "Lass ihn dich streicheln" ist nicht unbedingt richtig. Wenn der Hund unsicher ist, braucht er Raum. Lass die beiden in ihrem eigenen Tempo zueinanderfinden.
 

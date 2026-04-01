@@ -30,7 +30,7 @@ TypKern-TraitDating-StilIdeal MatchRed Flag**1. Romantiker**TräumerischSchnell 
 
 **Charakterzüge:**
 
-- Schnell verliebt
+- Schnell [verliebt](/blog/mann-verliebt-anzeichen-komplett)
 
 - Glaubt an “The One”
 
@@ -60,7 +60,7 @@ TypKern-TraitDating-StilIdeal MatchRed Flag**1. Romantiker**TräumerischSchnell 
 
 - Andere Romantiker (verstehen dich)
 
-**Red Flags für dich:**
+**[Red Flags](/blog/dating-red-flags-maenner-erkennen) für dich:**
 
 - Pragmatiker (zu langsam)
 

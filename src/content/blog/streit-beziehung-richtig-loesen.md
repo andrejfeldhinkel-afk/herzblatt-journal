@@ -22,7 +22,7 @@ faq:
 
 ## Streit in der Beziehung: 15 Regeln für faires Streiten
 
-Jedes Paar streitet. Es spielt keine Rolle, wie verliebt ihr seid oder wie gut ihr miteinander auskommt – Konflikte sind Teil des menschlichen Zusammenseins. Die entscheidende Frage ist nicht "Ob streiten?" sondern "Wie streiten wir?"
+Jedes Paar streitet. Es spielt keine Rolle, wie [verliebt](/blog/mann-verliebt-anzeichen-komplett) ihr seid oder wie gut ihr miteinander auskommt – Konflikte sind Teil des menschlichen Zusammenseins. Die entscheidende Frage ist nicht "Ob streiten?" sondern "Wie streiten wir?"
 
 Der Unterschied zwischen Paaren, die zusammenbleiben und glücklich sind, und Paaren, die auseinanderdriften, ist oft nicht die Abwesenheit von Konflikten. Es ist die Art, wie sie mit Konflikten umgehen. Faires Streiten ist eine Fähigkeit, die gelernt werden kann. Und wenn du diese Fähigkeit entwickelst, kann deine Beziehung nicht nur überleben, sondern sogar wachsen.
 
@@ -276,7 +276,7 @@ Es gibt bestimmte Zeichen, die zeigen, dass der Streit unfair wird und dass ihr 
 
 **Stille Behandlung oder Shutdown**: Wenn einer Partner einfach aufhört zu sprechen und alles zu ignorieren, wird der Konflikt nicht gelöst. Das ist eine Form der emotionalen Misshandlung.
 
-**Manipulationen oder Gaslighting**: "Du bist verrückt dafür zu denken" oder "Das hast du nie gesagt" – das sind Manipulationen, nicht faire Argumente.
+**Manipulationen oder [Gaslighting](/blog/gaslighting-komplett-guide)**: "Du bist verrückt dafür zu denken" oder "Das hast du nie gesagt" – das sind Manipulationen, nicht faire Argumente.
 
 **Bedrohungen mit Trennung oder Schaden**: "Wenn du nicht zustimmst, gehe ich" oder "Wenn du das sagst, werde ich mich selbst verletzen" sind Drucktaktiken, nicht faire Argumente.
 

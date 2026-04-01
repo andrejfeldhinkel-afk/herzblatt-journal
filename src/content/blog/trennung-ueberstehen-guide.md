@@ -338,7 +338,7 @@ Ein paar Dates sind okay. Flirrten ist okay. Aber wenn du ein Muster siehst, bei
 
 Rebound-Beziehungen können destruktiv sein. Du wirst diese Person mit dem Loch vergleichen, das dein Ex hinterlassen hat. Du wirst versuchen, es mit ihr zu füllen. Das wird nicht funktionieren. Du wirst diese Person verletzt.
 
-Wenn jemand dich nach einem Monat sagt, "Ich liebe dich" oder "Lass uns zusammenziehen" — das ist ein Zeichen, dass etwas nicht richtig ist. Das ist zu schnell.
+Wenn jemand dich nach einem Monat sagt, "Ich liebe dich" oder "Lass uns [zusammenziehen](/blog/zusammenziehen-checkliste)" — das ist ein Zeichen, dass etwas nicht richtig ist. Das ist zu schnell.
 
 **Woran du merkst, dass du bereit bist zu datieren:**
 

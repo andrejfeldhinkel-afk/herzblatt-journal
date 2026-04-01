@@ -88,7 +88,7 @@ Bevor wir tiefer in die ethischen Fragen gehen, möchte ich dir zeigen, warum Mu
 
 ### Der Bestätigungsbias und warum Single-Dating problematisch ist
 
-Es gibt ein psychologisches Phänomen namens **Bestätigungsbias**: Wenn du dich in jemanden verliebt oder stärkere Gefühle entwickelst, fängst du an, alle guten Seiten dieser Person zu sehen — und ihre Macken zu ignorieren. Du bestätigst unbewusst deine eigene Annahme, dass diese Person perfekt für dich ist.
+Es gibt ein psychologisches Phänomen namens **Bestätigungsbias**: Wenn du dich in jemanden [verliebt](/blog/mann-verliebt-anzeichen-komplett) oder stärkere Gefühle entwickelst, fängst du an, alle guten Seiten dieser Person zu sehen — und ihre Macken zu ignorieren. Du bestätigst unbewusst deine eigene Annahme, dass diese Person perfekt für dich ist.
 
 Das Problem beim Single-Dating (nur eine Person treffen) ist, dass dieser Bias verstärkt wird. Du konzentrierst all deine emotionale Energie auf diese eine Person. Nach wenigen Dates fühlst du dich bereits gebunden. Du übersehst rote Flaggen. Du machst Abstriche, die du später bereust.
 
@@ -325,7 +325,7 @@ Das ist ein großes, sensibles Thema. Menschen entwickeln Gefühle. Das ist biol
 
 Wenn du merkst, dass eine Person tiefere Gefühle hat als du, dann musst du das Thema ansprechen. Nicht grausam, aber klar. "Mir geht es nicht so. Ich mag dich, aber ich entwickle nicht die gleichen Gefühle wie du. Es ist besser für uns, wenn wir hier pausieren."
 
-Das ist schmerzhaft, aber es ist die ethische Alternative zu "Ghosting" oder "Stringing along" (jemandem Hoffnungen machen, ohne dass du es ernst meinst).
+Das ist schmerzhaft, aber es ist die ethische Alternative zu "[Ghosting](/blog/ghosting-komplett-guide)" oder "Stringing along" (jemandem Hoffnungen machen, ohne dass du es ernst meinst).
 
 ## Das Exklusivitätsgespräch: Wann und wie
 
@@ -615,7 +615,7 @@ Menschen, die Multi-Dating betreiben, wirken oft selbstbewusster. Warum? Weil si
 
 Das ist nicht manipulativ. Das ist psychologisch gesund.
 
-### Die Abmilderung von Love Bombing
+### Die Abmilderung von [Love Bombing](/blog/love-bombing-erkennen-schuetzen)
 
 Wenn du nur eine Person triffst, ist es einfach, sehr schnell sehr intensiv zu werden. Menschen fallen oft in die "Love Bombing"-Phase — intensive Aufmerksamkeit, große Gesten, schnelle Gefühlsentwicklung.
 

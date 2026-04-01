@@ -60,7 +60,7 @@ Nach Missbrauch hast du gelernt, Warnsignale zu übersehen oder zu ignorieren. V
 Hier sind Warnsignale, bei denen du sofort gehen darfst:
 
 - **Dein Gegenüber respektiert deine Grenzen nicht**: Er oder sie drängt dich zu körperlichem Kontakt, obwohl du gesagt hast, du magst das nicht. Er oder sie ignoriert dein "Nein".
-- **Love Bombing**: Alles passiert zu schnell. Er oder sie sagt nach zwei Tagen, dass er oder sie dich liebt. Plant schon die Hochzeit. Das ist nicht Romantik – das ist Manipulation.
+- **[Love Bombing](/blog/love-bombing-erkennen-schuetzen)**: Alles passiert zu schnell. Er oder sie sagt nach zwei Tagen, dass er oder sie dich liebt. Plant schon die Hochzeit. Das ist nicht Romantik – das ist Manipulation.
 - **Dein Bauchgefühl flüstert**: Manchmal kannst du nicht erklären, warum du dich unwohl fühlst. Das ist okay. Vertrau deinem Körper. Er weiß mehr als dein Verstand.
 - **Controlling-Verhalten**: Er oder sie möchte wissen, wo du bist, wen du siehst, was du tust. Das ist nicht Liebe – das ist Kontrolle.
 - **Du wirst klein gemacht**: Deine Gedanken, deine Gefühle, deine Grenzen werden kritisiert oder lächerlich gemacht.

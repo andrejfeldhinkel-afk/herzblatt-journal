@@ -44,7 +44,7 @@ Die Forschung zum Thema Relationship OCD hat in den letzten 10 Jahren erheblich 
 
 Die klassische OCD-Schleife funktioniert so und ist der Schlüssel zum Verständnis, warum du nicht einfach aufhören kannst, dich zu sorgen:
 
-**1. Obsession**: Ein Gedanke taucht auf. "Bin ich nicht in diese Person verliebt?" Es ist nicht etwas, das du willkürlich herbeigeführt hast. Es kommt einfach. Intrusive. Unwillkommen. Es ist wie ein Pop-up-Fenster auf deinem Computer — du hast nicht darauf geklickt, aber es ist da.
+**1. Obsession**: Ein Gedanke taucht auf. "Bin ich nicht in diese Person [verliebt](/blog/mann-verliebt-anzeichen-komplett)?" Es ist nicht etwas, das du willkürlich herbeigeführt hast. Es kommt einfach. Intrusive. Unwillkommen. Es ist wie ein Pop-up-Fenster auf deinem Computer — du hast nicht darauf geklickt, aber es ist da.
 
 Oft geschieht dies beim Aufwachen. Manchmal in einem Moment der Routine, wenn dein Gehirn Platz zum Wandern hat. Manchmal während intimer Momente, wenn deine Gedanken dich sabotieren. Manchmal wird es ausgelöst durch etwas Externes — dein Partner sieht jemand anderen an, oder sagt etwas, das dich auslöst.
 

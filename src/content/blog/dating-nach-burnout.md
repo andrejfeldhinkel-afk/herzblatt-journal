@@ -351,7 +351,7 @@ Das ist wunderbar — und es erfordert eine neue Art von Achtsamkeit.
 
 ### Die Grenzen bleiben
 
-Nur weil du verliebt bist, heißt das nicht, dass deine Grenzen nicht mehr wichtig sind. Sie sind wichtiger denn je.
+Nur weil du [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, heißt das nicht, dass deine Grenzen nicht mehr wichtig sind. Sie sind wichtiger denn je.
 
 Du kannst tiefe Liebe haben und trotzdem "Ich brauche eine Nacht allein" sagen.
 

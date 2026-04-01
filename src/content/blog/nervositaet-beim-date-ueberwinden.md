@@ -162,7 +162,7 @@ All diese Erwartungen schaffen Nervosität.
 
 Die Lösung: Reduziere die Erwartung auf eine einfache Sache.
 
-Dein Ziel für dieses Date ist nicht, dass du heiraten wirst. Dein Ziel ist nicht, dass sie/er sich in dich verliebt. Dein Ziel ist:
+Dein Ziel für dieses Date ist nicht, dass du heiraten wirst. Dein Ziel ist nicht, dass sie/er sich in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett). Dein Ziel ist:
 
 **Du möchtest wissen, ob diese Person jemand ist, mit dem du wieder daten möchtest.**
 

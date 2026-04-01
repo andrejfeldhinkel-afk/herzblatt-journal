@@ -190,7 +190,7 @@ Ein paar Monate sollten es schon sein. Nicht zum ersten Geburtstag deines Kindes
 
 ## Weiterlesen
 
-- [Hochsensibel und verliebt: So gelingt die Beziehung](/blog/hochsensibel-lieben-tipps)
-- [Zusammenziehen: Wann ist der richtige Zeitpunkt?](/blog/zusammenziehen-wann-richtig)
+- [Hochsensibel und [verliebt](/blog/mann-verliebt-anzeichen-komplett): So gelingt die Beziehung](/blog/hochsensibel-lieben-tipps)
+- [Zusammenziehen: Wann ist der richtige Zeitpunkt?](/blog/[zusammenziehen](/blog/zusammenziehen-checkliste)-wann-richtig)
 - [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
 

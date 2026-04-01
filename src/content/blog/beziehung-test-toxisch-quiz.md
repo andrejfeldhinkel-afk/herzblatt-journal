@@ -433,7 +433,7 @@ Toxizität zeigt sich in Mustern, nicht in einzelnen Vorfällen. Einmal zu schre
 
 Isolation ist eine große rote Flagge. Wenn dein Partner aktiv versucht, dich von deinen Freunden und deiner Familie zu entfernen, kontrolliert er dich. Das ist ein Zeichen von emotionalem Missbrauch. Er möchte, dass du von ihm abhängig bist, damit du nicht weg gehen kannst.
 
-Manipulationen sind auch subtil. Dein Partner könnte Gaslighting betreiben — dir versichern, dass etwas nicht passiert ist, obwohl du weißt, dass es passiert ist. Oder er könnte emotionale Erpressung verwenden, in der er Drohungen damit macht, sich das Leben zu nehmen, wenn du ihn verlässt.
+Manipulationen sind auch subtil. Dein Partner könnte [Gaslighting](/blog/gaslighting-komplett-guide) betreiben — dir versichern, dass etwas nicht passiert ist, obwohl du weißt, dass es passiert ist. Oder er könnte emotionale Erpressung verwenden, in der er Drohungen damit macht, sich das Leben zu nehmen, wenn du ihn verlässt.
 
 Kontrollverhalten ist ein weiteres großes Zeichen. Das könnte bedeuten, dass dein Partner überprüft, wohin du gehst, mit wem du sprichst oder wie du dein Geld ausgibst. Das ist nicht Liebe. Das ist Kontrolle.
 

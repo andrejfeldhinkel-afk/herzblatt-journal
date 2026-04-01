@@ -392,6 +392,6 @@ Das ist der echte Preis. Nicht die Überwindung der Angst. Das ist die Verbindun
 ---
 
 **Weitere Artikel zum Thema:**
-- [Limerence vs. echte Liebe: Warum du nicht verliebt bist sondern besessen](/blog/limerence-vs-liebe-unterschied-guide)
+- [Limerence vs. echte Liebe: Warum du nicht [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist sondern besessen](/blog/limerence-vs-liebe-unterschied-guide)
 - [Parasoziale Beziehungen: Wenn Schwärmen zur Flucht wird](/blog/parasoziale-beziehungen-dating-guide)
 - [Dating-Burnout: Wenn die Partnersuche dich auslaugt und wie du zurückfindest](/blog/dating-burnout-recovery-guide)

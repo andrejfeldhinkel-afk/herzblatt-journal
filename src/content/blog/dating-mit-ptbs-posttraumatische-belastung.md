@@ -200,7 +200,7 @@ Das ist nicht immer deine Schuld. Es ist Trauma, das in deinem Nervensystem lebt
 
 Das ist ein sehr langer Prozess. Manchmal beschleunigt Therapie das. Aber es ist möglich.
 
-## Wenn dein Partner es NICHT versteht – Erkenne Red Flags
+## Wenn dein Partner es NICHT versteht – Erkenne [Red Flags](/blog/dating-red-flags-maenner-erkennen)
 
 Manche Partner werden dich einfach nicht verstehen, egal wie sehr du versuchst zu erklären, egal wie viel Therapie du machst, egal wie sehr du liebst.
 

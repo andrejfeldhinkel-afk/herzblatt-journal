@@ -87,7 +87,7 @@ Nein. Aber es fühlt sich so an.
 
 Aber ihr seid nicht zusammen. Du hast keine Recht zu eifersüchtig. Aber du wirst es trotzdem.
 
-**Die Hoffnung gegen die Wahrscheinlichkeit:** Du hoffst, dass diese Person realisierbst, dass sie in dich verliebt ist. Du wartest auf den Moment, wo sie kommt und sagt, dass alles ändert.
+**Die Hoffnung gegen die Wahrscheinlichkeit:** Du hoffst, dass diese Person realisierbst, dass sie in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett) ist. Du wartest auf den Moment, wo sie kommt und sagt, dass alles ändert.
 
 Aber dieser Moment wird wahrscheinlich nicht kommen. Die Person weiß nicht einmal, dass du diese Hoffnung hast.
 

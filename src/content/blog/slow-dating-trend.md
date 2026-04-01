@@ -52,7 +52,7 @@ Das Problem: Diese Denkweise ist ähnlich dem Geldproblem von Buffets. Wenn alle
 - **Dating-Burnout:** Das ständige Swipen, Chatting und Treffen wird emotionell und physisch erschöpfend
 - **Oberflächliche Verbindungen:** Sie sammeln Nummern, aber keine Beziehungen
 - **Mangel an Tiefe:** Echte Liebe wächst durch Tiefe, nicht Breite
-- **Ghosting-Kultur:** Wenn jeder „austauschbar" wirkt, ist es einfach, jemanden zu ghosten
+- **[Ghosting](/blog/ghosting-komplett-guide)-Kultur:** Wenn jeder „austauschbar" wirkt, ist es einfach, jemanden zu ghosten
 
 ### Die Psychologie der Überfluss
 

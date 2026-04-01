@@ -8,7 +8,7 @@ draft: false
 ---
 ## Situationship – Was tun, wenn es mehr als Freundschaft aber keine beziehung ist?
 
-Sie treffen diese Person regelmäßig. Manchmal haben Sie Sex. Sie kümmern sich umeinander und verbringen Quality Time zusammen. Aber „Was sind wir?" bleibt eine unbeantwortete Frage. Willkommen in einer Situationship – einem modernen Phänomen der Unklarheit, das Millionen verwirrt und frustriert zurücklässt.
+Sie treffen diese Person regelmäßig. Manchmal haben Sie Sex. Sie kümmern sich umeinander und verbringen Quality Time zusammen. Aber „Was sind wir?" bleibt eine unbeantwortete Frage. Willkommen in einer [Situationship](/blog/situationship-erkennen-umgehen) – einem modernen Phänomen der Unklarheit, das Millionen verwirrt und frustriert zurücklässt.
 
 In diesem Leitfaden erkunden wir, was eine Situationship ist, warum sie entstehen, wie man sie navigiert und vor allem – wie man sie entweder in eine echte Beziehung umwandelt oder respektvoll beendet.
 

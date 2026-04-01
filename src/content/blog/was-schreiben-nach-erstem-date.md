@@ -61,7 +61,7 @@ Manche Menschen texten wie Roboter. Andere wie betrunkene Fußballfans. Hier ist
 
 Hier ist, was funktioniert nicht:
 - Zu formal („Ich hoffe, dein Abend war entspannend")
-- Zu emotional („Ich bin SO verliebt in dich")
+- Zu emotional („Ich bin SO [verliebt](/blog/mann-verliebt-anzeichen-komplett) in dich")
 - Zu lang und dein Lebensgeschichte erzählen
 - Zu viele Emojis (wirkt unreif)
 - Emojis gar nicht (wirkt kalt)
@@ -233,7 +233,7 @@ Das ist hart, aber es passiert. Hier ist, wie du damit umgehen solltest:
 **Die Wahrheit:**
 Wenn jemand interessiert wäre, würde er antworten. Es tut weh, das zu akzeptieren, aber es ist die Realität. Nicht jedes Date führt zu mehr.
 
-## Der Ghosting-Faktor
+## Der [Ghosting](/blog/ghosting-komplett-guide)-Faktor
 
 Manche Menschen schreiben dir nicht zurück, nachdem das Date großartig war. Das ist Ghosting, und es passiert.
 

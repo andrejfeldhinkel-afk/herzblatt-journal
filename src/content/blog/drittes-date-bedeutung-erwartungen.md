@@ -253,7 +253,7 @@ Wenn nein, sei ehrlich. Nicht grausam, aber ehrlich.
 
 Das ist respektvoll und klar.
 
-## Der "Friendzone Moment"
+## Der "[Friendzone](/blog/friendzone-entkommen-guide) Moment"
 
 Es gibt einen häufigen Punkt beim dritten Date wo die Friendzone definiert wird.
 

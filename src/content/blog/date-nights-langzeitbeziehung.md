@@ -72,7 +72,7 @@ Augenkontakt fördert die Freisetzung von Oxytocin — das "Bindungshormon." Lac
 
 Während einer typischen Date Night — wenn du auf dieser Person konzentriert bist, wenn ihr an einer neuen Aktivität zusammen seid, wenn ihr lacht — ist dein Gehirn praktisch überflutet mit Oxytocin.
 
-Oxytocin ist das Hormon, das bewirkt, dass du dich verbunden, sicher und verliebt fühlst. Es ist das Gegenmittel zu: "Ich vermisse mein Partner" oder "Wir sprechen nicht mehr."
+Oxytocin ist das Hormon, das bewirkt, dass du dich verbunden, sicher und [verliebt](/blog/mann-verliebt-anzeichen-komplett) fühlst. Es ist das Gegenmittel zu: "Ich vermisse mein Partner" oder "Wir sprechen nicht mehr."
 
 Eine zweistündige Date Night kann mehr Oxytocin freigeben, als normale Wochen von "Zeit zusammen" zusammen. Das ist, warum eine Date Night sich danach so anders anfühlt.
 

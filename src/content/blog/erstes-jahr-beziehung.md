@@ -21,7 +21,7 @@ Dieser Guide ist ein Monat-für-Monat Anleitung durch das erste Jahr. Es bereite
 
 Bevor wir Monat eins besprechen, müssen wir die Chemie verstehen.
 
-Wenn du verliebt wirst, dein Gehirn ist nicht normal. Es ist in einem Rausch von Chemikalien.
+Wenn du [verliebt](/blog/mann-verliebt-anzeichen-komplett) wirst, dein Gehirn ist nicht normal. Es ist in einem Rausch von Chemikalien.
 
 Dopamin ist ein, das für das Gefühl verantwortlich ist, das hoch. Das ist warum frühe Beziehung sich wie Droge anfühlt. Du kannst nicht aufhören zu denken, über ihn. Du kannst nicht warten, ihn zu sehen.
 
@@ -420,13 +420,13 @@ Hier sind 20 Dinge, die die meisten Paare im ersten Jahr durchmachen. Das ist ni
 
 Diese 20 Meilensteine sind nicht ein Test. Sie sind ein Zeichen, dass ihr Fortschritt macht. Wenn du alle nicht erlebt hast, das ist okey. Jedes Paar ist unterschiedlich.
 
-## Red Flags und Green Flags im ersten Jahr — Ein Bewertungssystem
+## Red Flags und [Green Flags](/blog/dating-green-flags-erkennen-guide) im ersten Jahr — Ein Bewertungssystem
 
 Du brauchst eine Weise zu wissen: Ist dies ein gutes Relationship oder sollte ich gehen?
 
 Hier sind die Zeichen.
 
-**Red Flags — Bemerke diese früh**
+**[Red Flags](/blog/dating-red-flags-maenner-erkennen) — Bemerke diese früh**
 
 Kontrollierendes Verhalten: Er möchte wissen, wo du bist alle die Zeit. Er ist wütend, wenn du Freunde siehst.
 

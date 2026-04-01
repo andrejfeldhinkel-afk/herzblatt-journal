@@ -56,7 +56,7 @@ Das ist nicht, weil du blind bist (obwohl sich das so anfühlt). Das ist Neuroch
 
 ## Die Neurochemie der Verliebtheit: Dopamin, Oxytocin & Co.
 
-Wenn du verliebt bist, passieren in deinem Gehirn mehrere Dinge gleichzeitig. Lass mich dir die wichtigsten Akteure in diesem neurochemischen Drama zeigen:
+Wenn du [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, passieren in deinem Gehirn mehrere Dinge gleichzeitig. Lass mich dir die wichtigsten Akteure in diesem neurochemischen Drama zeigen:
 
 **Dopamin:** Das ist der Star des Ganzen. Dopamin ist der Neurotransmitter, der mit Verlangen und Lust verbunden ist. Wenn du deinen Partner siehst oder an ihn oder sie denkst, schüttet dein Gehirn Dopamin aus. Das erzeugt dieses süchtig machende Gefühl — du willst dich in seiner Nähe aufhalten, du willst mehr Zeit mit ihm oder ihr verbringen, du kannst nicht aufhören darüber nachzudenken.
 
@@ -128,7 +128,7 @@ In der Honeymoon-Phase kann es sein, dass ihr einfach nicht streitet. Oder wenn 
 
 **7. Du planst die Zukunft zusammen — weniger romantisch, mehr praktisch**
 
-In der Honeymoon-Phase ist die Zukunft eine Fantasie — ein glänzendes, wunderschönes Märchen-Leben, das ihr zusammen haben werdet. Jetzt redet ihr über praktische Dinge: Wollen wir einen gemeinsamen Namen haben? Wollen wir zusammenziehen? Wollen wir ein Kind bekommen? Das ist weniger romantisch, aber es ist realer. Es ist ein Zeichen, dass eure Beziehung reif wird.
+In der Honeymoon-Phase ist die Zukunft eine Fantasie — ein glänzendes, wunderschönes Märchen-Leben, das ihr zusammen haben werdet. Jetzt redet ihr über praktische Dinge: Wollen wir einen gemeinsamen Namen haben? Wollen wir [zusammenziehen](/blog/zusammenziehen-checkliste)? Wollen wir ein Kind bekommen? Das ist weniger romantisch, aber es ist realer. Es ist ein Zeichen, dass eure Beziehung reif wird.
 
 **8. Du kennst seine/ihre Familie und Freunde besser — und es macht einen Unterschied**
 
@@ -501,7 +501,7 @@ Das Szenario ist nicht unmöglich zu durchstehen. Aber es erfordert bewusste Kom
 
 Weitere Informationen findest du bei Therapie Portal: [Therapie Portal](https://www.therapie.de/)
 
-## Honeymoon-Phase vs. Love Bombing — Der wichtige Unterschied
+## Honeymoon-Phase vs. [Love Bombing](/blog/love-bombing-erkennen-schuetzen) — Der wichtige Unterschied
 
 Bevor wir weitergehen, müssen wir über etwas Kritisches sprechen: Love Bombing.
 

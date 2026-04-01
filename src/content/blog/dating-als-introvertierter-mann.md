@@ -78,7 +78,7 @@ Hilfreiche Ressourcen findest du bei Neurologen und Psychiater im Netz: [Neurolo
 
 Erstens, kannst du das nicht ewig durchhalten. Irgendwann wirst du müde.
 
-Zweitens, du ziehst damit die falsche Frau an. Wenn sie sich in einen aufgeregten Extroverten verliebt, wird sie enttäuscht, wenn deine echte Natur herauspringt.
+Zweitens, du ziehst damit die falsche Frau an. Wenn sie sich in einen aufgeregten Extroverten [verliebt](/blog/mann-verliebt-anzeichen-komplett), wird sie enttäuscht, wenn deine echte Natur herauspringt.
 
 Die richtige Frau? Sie wird deine Ruhe schätzen. Deine Fähigkeit zuzuhören. Deine Tiefe. Sie wird deine Introversion nicht als Mangel sehen, sondern als interessant, als nachdenklich, als charaktervoll.
 

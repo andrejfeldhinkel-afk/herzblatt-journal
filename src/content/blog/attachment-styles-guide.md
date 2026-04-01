@@ -137,7 +137,7 @@ Dein Partner ist verwirrt. "Was ist passiert? Gestern warst du all-in."
 
 Das Problem ist: Es ist echt. Beide Gefühle sind echt. Die Person fühlt sich wirklich in beiden Weisen.
 
-Konflikte sind dramatisch. Emotional. Manchmal explosive. Dann ist es super süß und verliebt. Dann wieder Drama.
+Konflikte sind dramatisch. Emotional. Manchmal explosive. Dann ist es super süß und [verliebt](/blog/mann-verliebt-anzeichen-komplett). Dann wieder Drama.
 
 ### Woher kommt das?
 

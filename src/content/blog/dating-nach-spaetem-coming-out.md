@@ -66,7 +66,7 @@ Das ist nicht falsch. Das ist menschlich. Es ist oft auch notwendig – dein Kö
 
 Aber hier ist die Warnung, die die meisten Menschen nicht bekommen: Diese Phase ist nicht das beste Basismaterial für wirkliches Dating. Diese Phase ist Heilung, nicht Liebe.
 
-Warum? Weil du noch nicht wirklich bei dir selbst angekommen bist. Du bist verliebt in die Freiheit – nicht unbedingt verliebt in die Person, die mit dir Freiheit erlebt.
+Warum? Weil du noch nicht wirklich bei dir selbst angekommen bist. Du bist [verliebt](/blog/mann-verliebt-anzeichen-komplett) in die Freiheit – nicht unbedingt verliebt in die Person, die mit dir Freiheit erlebt.
 
 Manche Menschen begeben sich in diese Phase und landen in toxischen Situationen, weil sie so dankbar sind, jemanden zu haben, der sie "akzeptiert", dass sie andere rote Flaggen übersehen. Manche Menschen begeben sich in diese Phase und verletzen andere, weil sie noch nicht wissen, wie es ist, sich selbst zu respektieren, und deshalb auch nicht wissen, wie man andere respektiert.
 

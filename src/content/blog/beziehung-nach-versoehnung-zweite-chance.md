@@ -90,7 +90,7 @@ Wenn die Beziehung gekennzeichnet war durch:
 - **Körperliche Gewalt:** Dies ist ein absolutes No-Go. Wer Sie schlägt, wird es wieder tun
 - **Emotionale Manipulation:** Wenn der Partner ständig mit Ihre Gefühle spielt
 - **Kontrolle:** Wenn Sie kritisiert, isoliert oder kontrolliert wurden
-- **Gaslighting:** Wenn Sie ständig über die Realität verwirrt wurden
+- **[Gaslighting](/blog/gaslighting-komplett-guide):** Wenn Sie ständig über die Realität verwirrt wurden
 
 Diese Muster sind tiefgreifend und ändern sich selten ohne intensive Fachbetreuung. Und sogar damit ist keine Änderung garantiert.
 

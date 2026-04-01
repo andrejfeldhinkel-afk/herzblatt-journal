@@ -285,7 +285,7 @@ Die Wahrheit ist hart: Menschen ändern nicht, es sei denn, sie wollen es. Und w
 
 ### Wenn es emotionalen Missbrauch gab
 
-Wenn die Beziehung mit Manipulation, Gaslighting oder emotionaler Erniedrigung war, brauchen Sie nicht zurückzugehen.
+Wenn die Beziehung mit Manipulation, [Gaslighting](/blog/gaslighting-komplett-guide) oder emotionaler Erniedrigung war, brauchen Sie nicht zurückzugehen.
 
 Das ist nicht etwa Vergebung und Heilung. Das ist sich selbst schaden.
 

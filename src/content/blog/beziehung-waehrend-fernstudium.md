@@ -57,7 +57,7 @@ Die Zeit, die ihr plant, wird nicht wunder-vollständig sein. Manche Tage werdet
 
 Wenn nur einer von euch fernstudiert, dann ist der andere Partner in einer Rolle der Unterstützung. Nicht der vollständigen Unterstützung – das ist nicht fair – aber der parteilichen Unterstützung.
 
-Das bedeutet, das zu verstehen: Dein Partner hat zusätzliche Arbeit. Er oder sie ist nicht faul, wenn er oder sie erschöpfter ist als sonst. Sie sind nicht weniger in euch verliebt, wenn sie Wochenenden Kurse anschauen statt euch zu sehen. Sie sind nur unter zusätzlichem Stress.
+Das bedeutet, das zu verstehen: Dein Partner hat zusätzliche Arbeit. Er oder sie ist nicht faul, wenn er oder sie erschöpfter ist als sonst. Sie sind nicht weniger in euch [verliebt](/blog/mann-verliebt-anzeichen-komplett), wenn sie Wochenenden Kurse anschauen statt euch zu sehen. Sie sind nur unter zusätzlichem Stress.
 
 Was hilft: Vereinbaren, dass ihr einige der alltäglichen Aufgaben übernehmt. Vielleicht machst du diese Semester mehr Haushaltsaufgaben. Vielleicht machst du die meisten Dinner-Pläne. Vielleicht übernimmst du mehr Verantwortung für bestimmte Dinge, so dass dein Partner weniger zu jonglieren hat.
 

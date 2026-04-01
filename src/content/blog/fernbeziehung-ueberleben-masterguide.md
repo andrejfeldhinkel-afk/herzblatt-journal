@@ -18,7 +18,7 @@ draft: false
 
 Eine Fernbeziehung ist eine der schwierigsten Formen einer Beziehung. Es ist nicht für schwache Nerven. Es ist nicht für Menschen, die ständig körperliche Nähe brauchen. Es ist nicht für Menschen, die Eifersucht kämpfen oder Vertrauen haben Probleme. Aber wenn du es richtig machst, kann eine Fernbeziehung die tiefste und bedeutendste Beziehung sein, die du hast.
 
-Das Problem ist, dass niemand dir sagt, wie man es richtig macht. Es gibt keinen Leitfaden. Es gibt nur Paare, die es versuchen, scheitern, neu versuchen, und schließlich entweder zusammenziehen oder trennen. Dieser Leitfaden ist für diejenigen, die nicht scheitern wollen. Für diejenigen, die dieses möglich machen wollen.
+Das Problem ist, dass niemand dir sagt, wie man es richtig macht. Es gibt keinen Leitfaden. Es gibt nur Paare, die es versuchen, scheitern, neu versuchen, und schließlich entweder [zusammenziehen](/blog/zusammenziehen-checkliste) oder trennen. Dieser Leitfaden ist für diejenigen, die nicht scheitern wollen. Für diejenigen, die dieses möglich machen wollen.
 
 ## Die emotionale Realität einer Fernbeziehung
 

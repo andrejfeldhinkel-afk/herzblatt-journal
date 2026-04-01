@@ -30,9 +30,9 @@ faq:
 ---
 ## Der Moment, der alles veränderte
 
-Du sitzt mit ihm im Café, und plötzlich nimmt er deine Hand. Seine Augen strahlen, wenn er über eure gemeinsame Zukunft spricht. "Nächstes Jahr wollen wir zusammenziehen", sagt er. "Ich stelle mir vor, wie wir gemeinsam ein Haus mit Garten einrichten. Irgendwann heiraten wir auf einer Insel, nur wir zwei. Und in ein paar Jahren haben wir Kinder."
+Du sitzt mit ihm im Café, und plötzlich nimmt er deine Hand. Seine Augen strahlen, wenn er über eure gemeinsame Zukunft spricht. "Nächstes Jahr wollen wir [zusammenziehen](/blog/zusammenziehen-checkliste)", sagt er. "Ich stelle mir vor, wie wir gemeinsam ein Haus mit Garten einrichten. Irgendwann heiraten wir auf einer Insel, nur wir zwei. Und in ein paar Jahren haben wir Kinder."
 
-Du schaust ihn verliebt an. Diese Worte sind wie Musik für dein Herz. Endlich jemand, der die gleiche Zukunft sieht wie du. Endlich jemand, der wirklich mit dir ein Leben aufbauen will.
+Du schaust ihn [verliebt](/blog/mann-verliebt-anzeichen-komplett) an. Diese Worte sind wie Musik für dein Herz. Endlich jemand, der die gleiche Zukunft sieht wie du. Endlich jemand, der wirklich mit dir ein Leben aufbauen will.
 
 Doch Wochen vergehen. Dein Partner spricht immer noch von diesen Plänen, aber konkret wird nichts. Das Thema Zusammenziehen wird ausgewichen, wenn du es konkret ansprechen möchtest. Die gemeinsame Reise, von der er so schwärmte? Sie rückt immer näher in die Ferne. Die Hochzeitspläne? "Das ist ja noch so weit weg, lass uns erst die Gegenwart genießen."
 
@@ -284,7 +284,7 @@ Das ist schwer, aber entscheidend: Mache keine großen Entscheidungen basierend 
 
 Baue dein Leben auf deine eigenen Träume und deine eigenen Fähigkeiten auf. Er kann ein Teil davon sein, aber nicht die Grundlage.
 
-### Schaue auf Red Flags im Dating
+### Schaue auf [Red Flags](/blog/dating-red-flags-maenner-erkennen) im Dating
 
 Future Faking kommt selten allein. Es ist oft Teil eines größeren Musters von Manipulation oder emotionaler Unvereinfbarkeit. Lerne, andere Red Flags zu erkennen — schnelle Beziehungstempo, Gaslighting, Wut, Mangel an Eigenverantwortung, Kontrolliertes Verhalten.
 

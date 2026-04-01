@@ -426,7 +426,7 @@ Café, Bar, Park — immer öffentlich und tagsüber oder abends. Sicherheit fir
 - Zu schön um wahr zu sein (Wahrscheinlich ist es das)
 - Eile & Druck ("Lass uns sofort treffen!")
 
-Bei Red Flags: BLOCK + MOVE ON. Es gibt genug andere Profile.
+Bei [Red Flags](/blog/dating-red-flags-maenner-erkennen): BLOCK + MOVE ON. Es gibt genug andere Profile.
 
 ---
 

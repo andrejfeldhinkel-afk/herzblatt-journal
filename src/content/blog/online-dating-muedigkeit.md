@@ -36,7 +36,7 @@ Die [psychologie](/blog/aengstlicher-bindungsstil-heilen/) dahinter ist gut erfo
 
 Dating-Apps geben uns das Gefühl endloser Möglichkeiten. Das klingt toll, führt aber dazu, dass wir niemanden wirklich kennenlernen, weil immer jemand Besseres einen Swipe entfernt sein könnte.
 
-Dazu kommen die typischen Frustrationen: Ghosting, oberflächliche Gespräche, Zeitverschwendung mit Menschen, die es nicht ernst meinen. Jede Enttäuschung nagt ein bisschen mehr an deiner Motivation.
+Dazu kommen die typischen Frustrationen: [Ghosting](/blog/ghosting-komplett-guide), oberflächliche Gespräche, Zeitverschwendung mit Menschen, die es nicht ernst meinen. Jede Enttäuschung nagt ein bisschen mehr an deiner Motivation.
 
 ## Die Warnsignale erkennen
 

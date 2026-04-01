@@ -34,7 +34,7 @@ Das Ziel ist, dass Übergang zu umgehen mit, ohne die Liebe zu verlieren, die eu
 
 Wenn ihr zusammen seid, ist normalerweise jedes Moment spezial. Ihr habt tolle Daten. Ihr habt großartige Geschlechtsverkehr. Ihr seid auf beste Version von euch.
 
-Wenn ihr zusammenziehen, das normale Life intrudes. Einer von euch könnte krank sein. Arbeitsstress könnte alles absorbieren. Reinigung braucht getan zu werden. Geld ist stressig.
+Wenn ihr [zusammenziehen](/blog/zusammenziehen-checkliste), das normale Life intrudes. Einer von euch könnte krank sein. Arbeitsstress könnte alles absorbieren. Reinigung braucht getan zu werden. Geld ist stressig.
 
 Das ist nicht, dass die Liebe weg ging. Es ist einfach, dass die Realität deutlicher wird.
 

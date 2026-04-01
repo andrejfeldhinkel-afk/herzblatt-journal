@@ -31,7 +31,7 @@ faq:
 
 Du sitzt nachts wach. Es ist 3 Uhr morgens, und dein Kopf dreht sich im Kreis. Die gleiche Frage, immer wieder: Sollen wir uns trennen oder weitermachen?
 
-Dein Partner schläft neben dir, und du fragst dich, ob du noch in diese Person verliebt bist. Oder ob das, was du einmal gefühlt hast, längst vorbei ist. Vielleicht hast du das schon hundert Mal überlegt. Vielleicht fragst du dich seit Monaten, ob die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) noch zu retten ist oder ob es Zeit ist, loszulassen.
+Dein Partner schläft neben dir, und du fragst dich, ob du noch in diese Person [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist. Oder ob das, was du einmal gefühlt hast, längst vorbei ist. Vielleicht hast du das schon hundert Mal überlegt. Vielleicht fragst du dich seit Monaten, ob die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) noch zu retten ist oder ob es Zeit ist, loszulassen.
 
 Das Schlimme: Keiner kann dir diese Entscheidung abnehmen. Deine beste Freundin wird dir sagen: "Verlass ihn!" Deine Mutter wird sagen: "Gebt euch noch eine Chance!" Und am Ende sitzt du wieder da, völlig verwirrt.
 

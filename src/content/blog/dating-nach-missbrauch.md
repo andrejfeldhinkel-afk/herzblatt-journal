@@ -62,7 +62,7 @@ Der Prozess, diese Reaktionen zu beruhigen, ist:
 
 ## Red Flags erkennen: Das beste Wissen aus dem Missbrauch
 
-Das Positive aus dieser schrecklichen Erfahrung ist, dass du jetzt die Warnsignale kennst. Du erkennst den Unterschied zwischen Liebe und Kontrolle. Du weißt, wie Manipulationen klingen. Du weißt, wie Gaslighting funktioniert.
+Das Positive aus dieser schrecklichen Erfahrung ist, dass du jetzt die Warnsignale kennst. Du erkennst den Unterschied zwischen Liebe und Kontrolle. Du weißt, wie Manipulationen klingen. Du weißt, wie [Gaslighting](/blog/gaslighting-komplett-guide) funktioniert.
 
 Das ist ein immenses Geschenk, obwohl es sich nicht so anfühlt.
 
@@ -130,5 +130,5 @@ Weitere Informationen findest du bei Psychologie Heute: [Psychologie Heute](http
 
 Detaillierte Infos bietet Neurologen und Psychiater im Netz: [Neurologen und Psychiater im Netz](https://www.neurologen-und-psychiater-im-netz.org/)
 - [Dating nach Burnout oder Depression: Wann bin ich bereit](/blog/dating-nach-burnout/)
-- [Dating nach einer Ghosting-Erfahrung: Wieder vertrauen](/blog/dating-nach-ghosting-erfahrung/)
+- [Dating nach einer [Ghosting](/blog/ghosting-komplett-guide)-Erfahrung: Wieder vertrauen](/blog/dating-nach-ghosting-erfahrung/)
 - [Dating nach Jobverlust: Lohnt es sich trotzdem?](/blog/dating-nach-jobverlust/)

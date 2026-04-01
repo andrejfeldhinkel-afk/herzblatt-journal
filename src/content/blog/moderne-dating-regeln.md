@@ -75,7 +75,7 @@ Consent ist nicht nur für intime Momente wichtig – es betrifft alles: Berühr
 ### 4. Digitale Etikette zählt
 Wie wir uns online verhalten, reflektiert unsere Persönlichkeit:
 
-- **Ghosting vermeiden:** Wenn die Chemie nicht stimmt, teile es mit. Eine kurze, ehrliche Nachricht ist respektvoll.
+- **[Ghosting](/blog/ghosting-komplett-guide) vermeiden:** Wenn die Chemie nicht stimmt, teile es mit. Eine kurze, ehrliche Nachricht ist respektvoll.
 - **Prompt-Antworten:** Wenn jemand dir antwortet, erwidere die Nachricht innerhalb eines Tages.
 - **Authentische Bilder:** Verwende aktuelle, ungefilter Fotos, die dich echt zeigen.
 - **Keine Belästigung:** Fortgesetzte Nachrichten nach einer Ablehnung sind nicht niedlich – sie sind beängstigend.
@@ -128,7 +128,7 @@ Weitere Informationen findest du bei Verbraucherzentrale: [Verbraucherzentrale](
 
 ## Mit Situationships umgehen
 
-Eine "Situationship" ist die moderne Falle: Eine emotionale Verbindung ohne klare Definition oder Zukunft. Es ist nicht casual genug, um Spaß zu sein, aber nicht definiert genug, um eine echte Beziehung zu sein.
+Eine "[Situationship](/blog/situationship-erkennen-umgehen)" ist die moderne Falle: Eine emotionale Verbindung ohne klare Definition oder Zukunft. Es ist nicht casual genug, um Spaß zu sein, aber nicht definiert genug, um eine echte Beziehung zu sein.
 
 **Wie man das vermeidet:**
 - Habe "das Gespräch" früh und oft

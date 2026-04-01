@@ -74,7 +74,7 @@ Lass dich nicht in eine Diskussion verwickeln. Du musst deine Entscheidung nicht
 
 ## Ghosting ist keine Absage
 
-Es gibt einen wichtigen Unterschied zwischen Absagen und einfach verschwinden. Ghosting, also das kommentarlose Beenden des Kontakts, ist keine Form der Absage. Es ist Vermeidung, und es hinterlässt bei der anderen Person mehr Schmerz als eine klare Absage es je könnte.
+Es gibt einen wichtigen Unterschied zwischen Absagen und einfach verschwinden. [Ghosting](/blog/ghosting-komplett-guide), also das kommentarlose Beenden des Kontakts, ist keine Form der Absage. Es ist Vermeidung, und es hinterlässt bei der anderen Person mehr Schmerz als eine klare Absage es je könnte.
 
 Wenn du bereits ein Date vereinbart hast, schuldest du der Person eine Nachricht. Das kostet dich dreißig Sekunden und erspart der anderen Person Stunden des Wartens und Zweifelns.
 

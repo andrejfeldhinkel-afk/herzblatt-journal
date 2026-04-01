@@ -34,7 +34,7 @@ Zunächst müssen wir ein großes Missverständnis klären: Die Phase der unkont
 
 In dieser Phase flutet Dopamin, Oxytocin und Noradrenalin dein Gehirn wie ein chemischer Tsunami. Du siehst deinen Partner durch eine rosarote Brille. Seine Macken sind süß und niedlich statt nervtötend. Sein Schnarchgeräusch ist irgendwie liebenswürdig. Seine Kritik an dir nimmt du nicht persönlich – du nimmst es sogar als hilfreiche Rückmeldung.
 
-Aber dann, nach etwa zwei Jahren, sinken die Hormonspiegel. Das ist normal und unvermeidbar. Es ist nicht ein Fehler oder ein Zeichen, dass die Liebe stirbt. Es ist ein natürlicher biologischer Prozess. Dein Gehirn muss sich wieder normalisieren, sonst würdest du 24/7 verliebt sein und nichts anderes tun.
+Aber dann, nach etwa zwei Jahren, sinken die Hormonspiegel. Das ist normal und unvermeidbar. Es ist nicht ein Fehler oder ein Zeichen, dass die Liebe stirbt. Es ist ein natürlicher biologischer Prozess. Dein Gehirn muss sich wieder normalisieren, sonst würdest du 24/7 [verliebt](/blog/mann-verliebt-anzeichen-komplett) sein und nichts anderes tun.
 
 An diesem Punkt könntet ihr sagen: „Die Liebe ist erloschen, wir sollten uns trennen und jemand Neues suchen, um die Schmetterlinge wieder zu erleben." Viele Menschen tun das. Sie sind Schmetterlinge-Jäger und verstehen nicht, dass die tiefste Liebe nach der Schmetterlinge-Phase kommt.
 

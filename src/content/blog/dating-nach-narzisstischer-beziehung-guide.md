@@ -60,7 +60,7 @@ Das passiert, weil der Narzisst dich gelehrt hat, dass dein Wert davon abhängt,
 
 **3. Trauma-Bindung mit neuen Menschen**
 
-Du wirst schnell "verliebt". Aber es ist nicht Liebe. Es ist Trauma-Bindung – das intensive Gefühl, das entsteht, wenn Menschen dich verletzen und dann wieder versorgen. Der Narzisst hat dich gelehrt, dass Schmerz und Nähe zusammenhängen.
+Du wirst schnell "[verliebt](/blog/mann-verliebt-anzeichen-komplett)". Aber es ist nicht Liebe. Es ist Trauma-Bindung – das intensive Gefühl, das entsteht, wenn Menschen dich verletzen und dann wieder versorgen. Der Narzisst hat dich gelehrt, dass Schmerz und Nähe zusammenhängen.
 
 Wenn ein neuer Partner also freundlich ist, wird dir schnell schwindelig. Das ist nicht magische Chemie. Das ist Neuro-Chemie eines verletzten Gehirns.
 
@@ -120,7 +120,7 @@ Gesunder Selbstwert ist ruhig. Er braucht keine große Bühne. Er weiß, dass er
 
 Hier ist eine Gabe von narzisstischer Erfahrung: Du wirst ein Detektor für Bullshit.
 
-**Liebe-Bomben am Anfang.** Er ist perfekt, zu schnell. Er will alles von dir. Er redet von eurer Zukunft nach zwei Wochen. Das ist nicht Romantik. Das ist Love Bombing. Der echte Narzisst folgt. Dein limbisches System wird das erkennen, weil es diesen Film schon gesehen hat.
+**Liebe-Bomben am Anfang.** Er ist perfekt, zu schnell. Er will alles von dir. Er redet von eurer Zukunft nach zwei Wochen. Das ist nicht Romantik. Das ist [Love Bombing](/blog/love-bombing-erkennen-schuetzen). Der echte Narzisst folgt. Dein limbisches System wird das erkennen, weil es diesen Film schon gesehen hat.
 
 **Subtile Kritik, die sich wie ein Kompliment anfühlt.** "Du bist hübsch, aber du siehst besser aus, wenn du dich mehr anstrengst." "Ich mag dein Haus, es ist nur ein bisschen kleiner als ich gehofft habe." Das ist Negging. Das ist die erste Stufe der Entwertung.
 

@@ -99,7 +99,7 @@ Das ist normal, aber wenn die Angst so groß ist, dass du nicht mal versuchen wi
 
 ### 5. Du bekommst zu schnell emotional mit neuen Daten
 
-Wenn du dich nach einem oder zwei Daten bereits verliebt glaubst, könnten das Rebound-Gefühle sein.
+Wenn du dich nach einem oder zwei Daten bereits [verliebt](/blog/mann-verliebt-anzeichen-komplett) glaubst, könnten das Rebound-Gefühle sein.
 
 ## Rebound-Beziehung vs. echte Beziehung
 

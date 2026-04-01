@@ -27,7 +27,7 @@ faq:
 ---
 Du findest dich immer wieder in Gesprächen wieder, nach denen du dich verunsichert, verwirrt und irgendwie „verrückt" fühlst. Du zweifelst an deinen Erinnerungen, fragst dich, ob du überreagierst, und entschuldigst dich ständig für Dinge, bei denen du eigentlich gar keine Schuld trägst. Du liebst deinen Partner, aber irgendwas läuft schief. Es ist, als würde die Realität, die du wahrgenommen hast, ständig verneint oder umgebogen werden.
 
-Das könnte **Gaslighting** sein — eine der subtilsten und psychologisch schädlichsten Formen emotionaler Manipulation in Beziehungen. Und du bist nicht allein. Viele Menschen erleben diese Form der Manipulation, ohne anfangs zu verstehen, was mit ihnen geschieht.
+Das könnte **[Gaslighting](/blog/gaslighting-komplett-guide)** sein — eine der subtilsten und psychologisch schädlichsten Formen emotionaler Manipulation in Beziehungen. Und du bist nicht allein. Viele Menschen erleben diese Form der Manipulation, ohne anfangs zu verstehen, was mit ihnen geschieht.
 
 In diesem Artikel möchte ich dir helfen, die Zeichen zu erkennen, ihre Auswirkungen zu verstehen und vor allem: dich selbst zu schützen.
 

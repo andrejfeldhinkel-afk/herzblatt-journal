@@ -218,7 +218,7 @@ Bevor du es veröffentlichst, stelle sicher:
 - [ ] Es ist klar, was du suchst
 - [ ] Es gibt keine grammatikalischen Fehler
 - [ ] Du wirk Ton ist positiv
-- [ ] Es gibt keine drastischen Red Flags für Dealbreaker
+- [ ] Es gibt keine drastischen [Red Flags](/blog/dating-red-flags-maenner-erkennen) für Dealbreaker
 
 ## A/B-Test dein Profil
 

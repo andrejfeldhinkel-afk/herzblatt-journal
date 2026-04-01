@@ -22,7 +22,7 @@ faq:
 
 # Bindungstypen verstehen: Der wissenschaftliche Komplett-Guide für bessere Beziehungen
 
-Du fragst dich manchmal, warum du in Beziehungen immer wieder die gleichen Muster erlebst? Warum du dich möglicherweise zu schnell verliebt, oder warum du Nähe vermeidest? Die Antwort liegt möglicherweise in deinem Bindungstyp.
+Du fragst dich manchmal, warum du in Beziehungen immer wieder die gleichen Muster erlebst? Warum du dich möglicherweise zu schnell [verliebt](/blog/mann-verliebt-anzeichen-komplett), oder warum du Nähe vermeidest? Die Antwort liegt möglicherweise in deinem Bindungstyp.
 
 Die Bindungstheorie ist eines der spannendsten Konzepte der modernen Psychologie – und sie erklärt so vieles über dein Beziehungsleben. Egal ob du gerade Single bist, eine neue Beziehung beginnst oder in einer langfristigen Partnerschaft lebst: Das Verständnis deines Bindungstyps wird dein Liebesleben transformieren.
 

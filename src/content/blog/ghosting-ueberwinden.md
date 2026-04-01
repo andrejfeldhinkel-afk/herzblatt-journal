@@ -30,7 +30,7 @@ faq:
 
 ## Ghosting überwinden: Warum es passiert und wie du damit umgehst
 
-Es gibt einen besonderen Art von Schmerz, der kommt, wenn jemand, mit dem du redest, einfach verschwindet. Keine Nachricht. Keine Erklärung. Nur Stille. Das ist Ghosting, und es ist eine der häufigsten und verletzendsten Dinge, die in der modernen Dating-Welt passiert.
+Es gibt einen besonderen Art von Schmerz, der kommt, wenn jemand, mit dem du redest, einfach verschwindet. Keine Nachricht. Keine Erklärung. Nur Stille. Das ist [Ghosting](/blog/ghosting-komplett-guide), und es ist eine der häufigsten und verletzendsten Dinge, die in der modernen Dating-Welt passiert.
 
 Du fragst dich: "Was habe ich falsch gemacht? Warum hat diese Person mir nicht nur eine ehrliche Nachricht geschrieben?" Du überanalysierst jede Konversation, jeden Text, jeden Moment. Hast du zu viel geredet? Zu wenig? Hast du das falsche Ding gesagt? War es etwas Physisches?
 
@@ -156,7 +156,7 @@ Wenn du mehrere dieser roten Flaggen siehst, könnte es klug sein, deine Gefühl
 
 Wenn du möchtest, dich selbst vor Ghosting zu schützen, gibt es einige Dinge, die du tun kannst.
 
-Das erste ist, langsam sich zu führen. Mit jemandem sehr schnell sich zu verbinden ist eine Möglichkeit zu leiden. Wenn du mit jemandem nach ein Datum verliebt wirst, ist es umgekehrt der Angst-Bonding, nicht echte Liebe. Nimm dir Zeit, um jemanden zu verstehen.
+Das erste ist, langsam sich zu führen. Mit jemandem sehr schnell sich zu verbinden ist eine Möglichkeit zu leiden. Wenn du mit jemandem nach ein Datum [verliebt](/blog/mann-verliebt-anzeichen-komplett) wirst, ist es umgekehrt der Angst-Bonding, nicht echte Liebe. Nimm dir Zeit, um jemanden zu verstehen.
 
 Das zweite ist, früh zu überprüfen. Wenn eine Person deine Grenzen nicht respektiert, nicht mit dir spricht, oder nicht zuverlässig ist, stoppe früh. Treffe dich mit 2-3 Daten und entscheide: Ist das jemand, der es wert ist, Zeit in zu investieren? Ist das jemand, der zuverlässig ist? Ist das jemand, der kommuniziert?
 
@@ -198,7 +198,7 @@ Für manche Menschen ist Ghosting nicht eine Einmal-Sache. Es wird ein Muster. I
 
 Wenn das dir passiert ist, hier ist, was du wissen solltest: Das ist nicht deine Schuld. Es gibt einen Grund, dass du wiederholtes Ghosting erlebst. Es könnte sein, dass du mit Menschen daten, die nicht reif sind. Es könnte sein, dass du deine Standards nicht setzt und Lügen zu früh glaubst. Es könnte sein, dass du dich selbst nicht schützt.
 
-Die beste Weise damit umzugehen ist, echte Introspektion. Warum wähle ich Menschen, die nicht respektvoll sind? Warum ignoriere ich Red Flags? Was in mir erlaubt mich, mit Menschen zu bleiben, die mich nicht respektieren?
+Die beste Weise damit umzugehen ist, echte Introspektion. Warum wähle ich Menschen, die nicht respektvoll sind? Warum ignoriere ich [Red Flags](/blog/dating-red-flags-maenner-erkennen)? Was in mir erlaubt mich, mit Menschen zu bleiben, die mich nicht respektieren?
 
 Manchmal ist die Antwort: Du hast niedriges Selbstwert. Du denkst, dass du nicht besser verdienst. Oder du hast Angst vor dem Allein. Oder du hoffst, dass du die Person "behebst". Arbeiten Sie an diesen Grundproblemen.
 

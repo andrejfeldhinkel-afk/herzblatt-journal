@@ -47,7 +47,7 @@ Wenn du merkst, dass ihr nicht mehr spricht, probiere das: Organisiere ein Gespr
 
 Physische Nähe ist nicht nur Sex – es sind Umarmungen, Küsse, Hand-Halten, Kuscheln auf der Couch. Wenn diese Dinge schwinden, ist es oft ein Zeichen, dass emotionale Distanz wächst.
 
-Es ist normal, dass die Honeymoon-Phase mit der Zeit vorbei ist. Das ist gesund. Aber völlige Abwesenheit von physischer Nähe? Das ist bedenklich. Menschen, die verliebt sind, wollen sich anfassen. Es ist grundlegend.
+Es ist normal, dass die Honeymoon-Phase mit der Zeit vorbei ist. Das ist gesund. Aber völlige Abwesenheit von physischer Nähe? Das ist bedenklich. Menschen, die [verliebt](/blog/mann-verliebt-anzeichen-komplett) sind, wollen sich anfassen. Es ist grundlegend.
 
 Wenn du merkst, dass ihr euch nicht mehr anfasst, ist das nicht zwangsläufig das Ende – aber es ist ein Zeichen, dass etwas nicht stimmt. Es könnte Stress sein, Depression, Krankheit oder fehlende emotionale Verbindung. Das müsste geklärt werden.
 

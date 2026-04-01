@@ -44,7 +44,7 @@ Das ist ein großer Unterschied.
 
 Hier sind die Anzeichen, dass du manipuliert wirst:
 
-**Gaslighting**: Dein Partner zieht in Frage, was du siehst oder erinnerst. "Das ist nie passiert." "Du überreagierst." "Das ist nur in deinem Kopf."
+**[Gaslighting](/blog/gaslighting-komplett-guide)**: Dein Partner zieht in Frage, was du siehst oder erinnerst. "Das ist nie passiert." "Du überreagierst." "Das ist nur in deinem Kopf."
 
 **Emotionale Erpressung**: Dein Partner nutzt deine Gefühle gegen dich. "Wenn du mich wirklich liebtest, würdest du..."
 
@@ -449,7 +449,7 @@ Das folgende Tool hilft dir, manipulatives vs. gesundes Verhalten zu identifizie
     </div>
 
     <div class="mpi-scenario">
-      <div class="mpi-scenario-title">Szenario 5: Love Bombing & Zurückweisung</div>
+      <div class="mpi-scenario-title">Szenario 5: [Love Bombing](/blog/love-bombing-erkennen-schuetzen) & Zurückweisung</div>
       <div class="mpi-scenario-text">Woche 1: Dein Partner schreibt ständig süße Nachrichten, möchte dich jeden Tag sehen, sagt "Ich liebe dich" nach einer Woche. Woche 2: Plötzlich antwortet er nicht mehr, sagt "Du bist zu fordernd", zieht sich emotional zurück. Du versuchst härter, ihn zu erfreuen. Er zieht sich immer mehr zurück.</div>
       <div class="mpi-buttons">
         <button class="mpi-btn mpi-btn-healthy" onclick="showResult(this, 'manipulative', 5)">Gesund</button>

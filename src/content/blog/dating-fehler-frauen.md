@@ -81,7 +81,7 @@ Das ist die häufigste Dating-Falle für Frauen. Du wirst die Florence-Nightinga
 
 **Die bessere Strategie**: Baue deine eigene Karriere auf. Halte deine Freundschaften. Habe Hobbys, die dir gehören. Deine Glück sollte von dir selbst abhängen, nicht von ihm. Das ist nicht herzlos — das ist Selbschutz.
 
-## Fehler 7: Mit jedem potenziellen Date „verliebt sein"
+## Fehler 7: Mit jedem potenziellen Date „[verliebt](/blog/mann-verliebt-anzeichen-komplett) sein"
 
 **Das Problem**: Nach dem zweiten Date fantasierst du bereits eure Zukunft zusammen. Du nennst ihn mental „Mein Freund". Du investierst emotional in jemanden, den du kaum kennst.
 

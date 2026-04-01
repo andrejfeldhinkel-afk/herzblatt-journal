@@ -172,7 +172,7 @@ Wenn du Polyamorie praktizierst, sagst du: "Ich bin nicht der traditionellen Fam
 
 Wenn du Beziehungsanarchie praktizierst, sagst du: "Nicht alle meine Beziehungen müssen in Kategorien fallen. Nicht alle Beziehungen sind 'weniger' als romantische Beziehungen."
 
-Wenn du Solo-Polyamor lebst, sagst du: "Ich muss nicht mit jemandem zusammenziehen, um meine Liebe zu validieren. Ich muss nicht mein Leben einem anderen Person unterordnen."
+Wenn du Solo-Polyamor lebst, sagst du: "Ich muss nicht mit jemandem [zusammenziehen](/blog/zusammenziehen-checkliste), um meine Liebe zu validieren. Ich muss nicht mein Leben einem anderen Person unterordnen."
 
 Das sind alle politische Aussagen. Das ist Widerstand.
 
@@ -212,7 +212,7 @@ Lassen Sie uns realistisch sein: Diese Modelle sind nicht einfacher. Sie sind an
 
 Eifersucht ist nicht "weniger" in offenen oder polyamoren Beziehungen. Sie ist oft mehr.
 
-Du kennst genau, dass dein Partner jemand anderen trifft. Du stellst dir vor, wie. Du fragst dich, ob die andere Person besser ist. Du fragst dich, ob dein Partner verliebt wird. Alles das ist echt und schmerzhaft.
+Du kennst genau, dass dein Partner jemand anderen trifft. Du stellst dir vor, wie. Du fragst dich, ob die andere Person besser ist. Du fragst dich, ob dein Partner [verliebt](/blog/mann-verliebt-anzeichen-komplett) wird. Alles das ist echt und schmerzhaft.
 
 Die Idee, dass Eifersucht "verschwindet", wenn du die Beziehung öffnest, ist ein Mythos. Manche Menschen berichten, dass ihre Eifersucht weniger wird – weil die Illusion der Ausschließlichkeit weg ist und sie sich damit auseinandersetzen müssen.
 

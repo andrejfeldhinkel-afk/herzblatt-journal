@@ -29,7 +29,7 @@ faq:
     answer: "Zu wenig über Finanzen reden. Geld ist der häufigste Streitgrund bei zusammenlebenden Paaren. Klärt vorher: Getrennte oder gemeinsame Kasse? Wer übernimmt welchen Anteil? Wie geht ihr mit unterschiedlichem Einkommen um?"
 ---
 
-Der Traum ist wunderbar. Ihr werdet zusammenziehen. Gemeinsame Wohnung, gemeinsames Leben, gemeinsame Morgen und Abende. Aber dann kommt die Realität: Wer zieht in wessen Wohnung? Wer bezahlt die Makler-Gebühr? Wessen Couch nehmen wir (die deine sieht aus wie 1998 aber die meine ist teuer)? Wie oft darf dein bester Freund zu Besuch kommen bevor ich nicht mehr dich mögen kann?
+Der Traum ist wunderbar. Ihr werdet [zusammenziehen](/blog/zusammenziehen-checkliste). Gemeinsame Wohnung, gemeinsames Leben, gemeinsame Morgen und Abende. Aber dann kommt die Realität: Wer zieht in wessen Wohnung? Wer bezahlt die Makler-Gebühr? Wessen Couch nehmen wir (die deine sieht aus wie 1998 aber die meine ist teuer)? Wie oft darf dein bester Freund zu Besuch kommen bevor ich nicht mehr dich mögen kann?
 
 **Zusammenziehen** ist nicht einfach eine logistische Sache. Das ist eine psychologische und emotionale Sache. Das ist der Moment wo "das ist jetzt mein Leben mit dieser Person" nicht mehr abstrakt ist — das ist real. Jeden Morgen sieht diese Person dich. Jeden Abend musst du mit dieser Person im Haus sein. Es gibt keinen Escape hatch mehr.
 
@@ -855,7 +855,7 @@ Nach etwa drei Monaten entsteht eine neue Normalität. Ihr habt Routinen. Ihr wi
 
 In dieser Phase beginnt auch der romantische Aspekt zu ändern. Das Zusammenziehn ist nicht mehr aufregend. Es ist Realität. Ihr müsst aktiv Romantik und Nähe schaffen, anstatt dass es natürlich passiert.
 
-Viele Paare berichten, dass um Monat drei, vier, die Anziehung sinkt ein bisschen. Das ist nicht, weil ihr weniger verliebt seid. Das ist, weil das Neue-Wohnung-Hormon nachlässt.
+Viele Paare berichten, dass um Monat drei, vier, die Anziehung sinkt ein bisschen. Das ist nicht, weil ihr weniger [verliebt](/blog/mann-verliebt-anzeichen-komplett) seid. Das ist, weil das Neue-Wohnung-Hormon nachlässt.
 
 Der Rat: Das ist normal. Erwarte nicht, dass alles wie in Woche 1 ist. Plant bewusst Zeit zusammen. Ein Kurs zusammen. Ein wöchentliches Date-Ritual. Es ist wichtig jetzt, da die Realität dich nicht automatisch zusammenbringt.
 

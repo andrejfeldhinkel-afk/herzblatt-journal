@@ -99,7 +99,7 @@ Und denke daran: Die beste Methode, um herauszufinden, ob jemand an dir interess
 
 ## Das könnte dich auch interessieren
 
-- [Körpersprache Mann verliebt — 20 Signale die ihn verraten](/blog/koerpersprache-mann-verliebt-signale/)
+- [Körpersprache Mann [verliebt](/blog/mann-verliebt-anzeichen-komplett) — 20 Signale die ihn verraten](/blog/koerpersprache-mann-verliebt-signale/)
 - [Körpersprache beim Date lesen: Was sein Körper verrät](/blog/koerpersprache-date-lesen/)
 - [Körpersprache beim Flirten – 12 Signale richtig deuten](/blog/koerpersprache-flirten/)
 - [Körpersprache Frau: 25 Zeichen dass sie Interesse hat](/blog/koerpersprache-frau-verliebt-zeichen/)

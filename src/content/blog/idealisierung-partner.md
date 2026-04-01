@@ -68,7 +68,7 @@ Das ist der Crash. Und es schmerzt wie die Hölle.
 
 ## Der Fall: Was passiert, wenn die Idealisierung zusammenbricht
 
-Bis zu diesem Punkt warst du verliebt in eine Fantasie. Die echte Person hat immer da gestanden, aber du hast sie nicht wirklich gesehen. Jetzt siehst du sie.
+Bis zu diesem Punkt warst du [verliebt](/blog/mann-verliebt-anzeichen-komplett) in eine Fantasie. Die echte Person hat immer da gestanden, aber du hast sie nicht wirklich gesehen. Jetzt siehst du sie.
 
 Der Fall kann auf verschiedene Arten passieren:
 

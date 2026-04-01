@@ -275,7 +275,7 @@ Das Gefährlichste ist: Du wirst wollen, sie zu retten.
 
 Du wirst denken: „Wenn ich nur genug liebe, genug unterstütze, genug präsent bin, wird sie besser."
 
-Das ist der weibliche Narzissmus der Rettung. Es ist, mit einem Angel-Komplex verliebt zu sein.
+Das ist der weibliche Narzissmus der Rettung. Es ist, mit einem Angel-Komplex [verliebt](/blog/mann-verliebt-anzeichen-komplett) zu sein.
 
 Aber du wirst sie nicht retten. Niemand wird sie retten. Nur sie kann sich selbst retten.
 

@@ -49,4 +49,4 @@ Wenn du jemanden triffst und es einen Funken gibt (aber nicht unmittelbare Leide
 Weitere Informationen findest du bei Therapie Portal: [Therapie Portal](https://www.therapie.de/)
 - [Liebe vs. Verliebtheit – Der entscheidende Unterschied](/blog/unterschied-liebe-verliebtheit/)
 - [Wie verlieben wir uns? Die Psychologie](/blog/verlieben-wie-funktioniert-das/)
-- [Heimlich verliebt? 15 Anzeichen, die dich verraten](/blog/heimliches-verlieben-anzeichen/)
+- [Heimlich [verliebt](/blog/mann-verliebt-anzeichen-komplett)? 15 Anzeichen, die dich verraten](/blog/heimliches-verlieben-anzeichen/)

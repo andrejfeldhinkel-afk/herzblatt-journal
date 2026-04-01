@@ -86,7 +86,7 @@ Okay, du hast ein Match. Jetzt musst du schreiben. Und hier wissen viele Mensche
 Die gängigen Fehler sind:
 - **Zu generisch**: "Hey, wie geht's dir?" Das ist eine Frage, die sich niemand wirklich durchlesen will. Jeder 50. andere Match fragt das Gleiche.
 - **Zu clever**: Ein aufwendiges Pickup-Line, ein versuchter Witz, der falsch ankommt. Das kann funktionieren, aber es ist auch riskant.
-- **Zu viel Emotion**: "Du bist so schön, ich bin verliebt" — das ist verstörend und wirkt nicht authentisch.
+- **Zu viel Emotion**: "Du bist so schön, ich bin [verliebt](/blog/mann-verliebt-anzeichen-komplett)" — das ist verstörend und wirkt nicht authentisch.
 - **Zu wenig Mühe**: Ein einsames "Hallo" oder sofort zu Nummern oder Treffen fragen. Das zeigt wenig echtes Interesse.
 
 ### Die goldene Regel der ersten Nachricht

@@ -8,6 +8,7 @@ date: 2026-03-21
 tags: ["Red Flags", "Dating", "Psychologie"]
 keywords: ["dating red flags", "red flags beziehung", "warnsignale dating", "red flags erkennen"]
 slug: dating-red-flags-komplett-guide
+draft: true
 faq:
   - question: "Was sind typische Red Flags beim Dating?"
     answer: "Kontrollverhalten, Love Bombing, fehlende Empathie, ständiges Lügen, Isolation von Freunden und das Nicht-Respektieren deiner Grenzen."
@@ -200,7 +201,7 @@ Beziehungen sind gegenseitig. Ein respektvoller Partner wird nicht erwarten, das
 
 Diese sind wahrscheinlich die gefährlichsten Warnsignale, da sie auf emotionalen Missbrauch hindeuten. Diese Verhalten können tiefgreifende psychologische Schäden verursachen.
 
-**Red Flag 26: Er/Sie nutzt Manipulation taktiken wie Gaslighting oder Verweis auf das Unbewusste**
+**Red Flag 26: Er/Sie nutzt Manipulation taktiken wie [Gaslighting](/blog/gaslighting-komplett-guide) oder Verweis auf das Unbewusste**
 
 Gaslighting ist, wenn jemand dich dazu bringt, an deinem eigenen Verstand zu zweifeln. Wenn dein Date dir sagt, dass du "zu emotional" bist oder dass du "etwas erfunden hast", das es eindeutig sagte, ist dies Gaslighting.
 
@@ -318,7 +319,7 @@ Der dritte Schritt ist zu beobachten, wie dein Date reagiert. Werden es die Krit
 
 Die Reaktion ist entscheidend. Ein gesunder Partner wird zuhören, verstehen und sich ändern. Ein unhealthy Partner wird abwehr, justifizieren oder dich schuldig machen. Die Art, wie sie reagiert, sagt dir alles, was du über dein zukünftiges zusammenleben brauchst zu wissen.
 
-## Das "Love Bombing" Phänomen - ein verstecktes Red Flag
+## Das "[Love Bombing](/blog/love-bombing-erkennen-schuetzen)" Phänomen - ein verstecktes Red Flag
 
 Ein subtiles aber wichtiges Red Flag ist "Love Bombing" - wenn jemand dich am Anfang mit Aufmerksamkeit und Liebe überschwemmt, nur um es später zu withdrawal. Dies ist oft ein Taktik von manipulativen oder narzisstischen Menschen.
 
@@ -366,7 +367,7 @@ Eine wichtige Frage ist: Wenn wir Red Flags erkennen, warum ignorieren wir sie? 
 
 **Der Sunk Cost Fallacy**: Je mehr Zeit und emotionalen Aufwand wir in eine Beziehung investieren, desto weniger mögen wir zu gehen, weil wir befürchten, dass die Zeit "verschwendet" wird. Aber dies ist ein fehler Denken - je länger du bei jemandem bleibst, der Red Flags zeigt, desto mehr Zeit wirst du wirklich verschwenden.
 
-**Die Liebe-Blase**: Wenn wir in jemandem verliebt sind, sind wir buchstäblich nicht in der Lage, ihre Fehler klar zu sehen. Das Gehirn eines verliebten Menschen funktioniert anders - es fokussiert auf die positiven Aspekte und drängt die negativen beiseite.
+**Die Liebe-Blase**: Wenn wir in jemandem [verliebt](/blog/mann-verliebt-anzeichen-komplett) sind, sind wir buchstäblich nicht in der Lage, ihre Fehler klar zu sehen. Das Gehirn eines verliebten Menschen funktioniert anders - es fokussiert auf die positiven Aspekte und drängt die negativen beiseite.
 
 **Niedriges Selbstwertgefühl**: Manche Menschen ignorieren Red Flags, weil sie nicht glauben, dass sie besser können. Sie denken, dass dies die beste Beziehung ist, die sie bekommen werden.
 

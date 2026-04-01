@@ -52,7 +52,7 @@ Das Wichtigste zu verstehen: Hochsensibilität ist kein Problem. Es ist ein Merk
 
 Wenn Du HSP bist, könnte Dein Dating-Leben so aussehen:
 
-**Du wirst schnell verliebt**
+**Du wirst schnell [verliebt](/blog/mann-verliebt-anzeichen-komplett)**
 
 HSPs erleben Gefühle tiefer. Wenn Du jemanden magst, magst Du sie *wirklich*. Das kann schön sein, aber es kann auch schmerzhaft sein, wenn diese Person das nicht erwidert.
 
@@ -162,7 +162,7 @@ Die Frage ist: Wie findest Du jemanden, der mit Deiner Hochsensibilität kompati
 
 Du könntest in Deinem Profil erwähnen, dass Du ein sensibler Mensch bist und tiefe Verbindungen schätzt. Das filtert vielleicht Leute, die nur nach Hookups suchen.
 
-**Achte auf Red Flags früh**
+**Achte auf [Red Flags](/blog/dating-red-flags-maenner-erkennen) früh**
 
 Wenn Dein Date Dich kritisiert, wenn es invalidiert Deine Gefühle, wenn es nicht zuhört – das ist ein rotes Flag. Dein HSP-Radar wird das früh erkennen, höre darauf.
 

@@ -11,7 +11,7 @@ tags:
 ---
 ## Die Neurochemie der Liebe: Dopamin, Oxytocin und mehr
 
-Wenn wir sagen, „Ich bin verliebt", sprechen wir oft über ein Gefühl, das sich überwältigend und magisch anfühlt – als würde etwas Übernatürliches in uns ablaufen. Die Wahrheit ist noch faszinierender: Liebe ist nicht magisch, sie ist chemisch. Und das macht sie nicht weniger wunderbar, sondern vertieft unser Verständnis dafür, was mit uns passiert.
+Wenn wir sagen, „Ich bin [verliebt](/blog/mann-verliebt-anzeichen-komplett)", sprechen wir oft über ein Gefühl, das sich überwältigend und magisch anfühlt – als würde etwas Übernatürliches in uns ablaufen. Die Wahrheit ist noch faszinierender: Liebe ist nicht magisch, sie ist chemisch. Und das macht sie nicht weniger wunderbar, sondern vertieft unser Verständnis dafür, was mit uns passiert.
 
 Wenn du dich in jemanden verliebst, explodiert dein Gehirn buchstäblich mit Chemikalien. Das erste große Spielfeld ist Dopamin, ein Neurotransmitter, der mit Vergnügen und Belohnung verbunden ist. Dopamin ist die Chemikalie, die dich dazu treibt, immer mehr zu wollen. Es ist das gleiche System, das bei Suchtverhalten aktiviert wird. Wenn du die Person siehst, die du liebst, wenn ihr zusammen seid, wenn du sogar nur an sie denkst, wird Dopamin freigesetzt. Das ist warum dein Herz schneller schlägt, warum du Schmetterlinge im Bauch hast, warum du auf einer Wolke zu schweben scheinst.
 

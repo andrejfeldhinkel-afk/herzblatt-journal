@@ -59,7 +59,7 @@ Typische Verhaltensweisen: Er erzählt dir von seiner Familie, seinen Zielen, se
 
 Wenn Phase 2 erfolgreich war, kommt Phase 3. Jetzt entwickelt er echte emotionale Gefühle.
 
-Das ist der Punkt, an dem sich ein Mann wirklich verliebt. Es geht nicht mehr um das körperliche Aussehen – obwohl er dich immer noch attraktiv findet. Jetzt geht es um dich als Person.
+Das ist der Punkt, an dem sich ein Mann wirklich [verliebt](/blog/mann-verliebt-anzeichen-komplett). Es geht nicht mehr um das körperliche Aussehen – obwohl er dich immer noch attraktiv findet. Jetzt geht es um dich als Person.
 
 Er vermisst dich, wenn du nicht da bist. Nicht weil er dich benutzen will, sondern weil er sich wirklich freut, wenn er dich sieht. Deine Witze machen ihm Spaß. Deine Art zu denken fasziniert ihn. Dein Lachen wird sein Lieblingslied.
 

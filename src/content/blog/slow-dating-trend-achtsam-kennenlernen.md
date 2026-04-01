@@ -54,7 +54,7 @@ Es bedeutet auch nicht, dass du nie mehr flirtest oder dass alles verkopft wird.
 
 Dating-Fatigue ist real. Du hast wahrscheinlich davon gehört – oder du lebst es.
 
-Es ist das Gefühl von Erschöpfung, das kommt, wenn du Hunderte von Profilen durchschaust hast, Dutzende von Daten hattest, und trotzdem die richtige Person nicht gefunden hast. Es ist das Trauma von Ghosting, von unerfüllten Erwartungen, von dem Gefühl, dass du eine Ware bin statt ein Mensch.
+Es ist das Gefühl von Erschöpfung, das kommt, wenn du Hunderte von Profilen durchschaust hast, Dutzende von Daten hattest, und trotzdem die richtige Person nicht gefunden hast. Es ist das Trauma von [Ghosting](/blog/ghosting-komplett-guide), von unerfüllten Erwartungen, von dem Gefühl, dass du eine Ware bin statt ein Mensch.
 
 Die Dating-App-Industrie basiert auf Engagement. Je mehr du swipen, je mehr du dich engagierst, desto mehr verdienen sie. Das Geschäftsmodell profitiert davon, dass du unzufrieden bist.
 

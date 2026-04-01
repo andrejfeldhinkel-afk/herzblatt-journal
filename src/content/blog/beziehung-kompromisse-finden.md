@@ -42,7 +42,7 @@ Das ist komplexer, als du vielleicht denkst. Die falsche Antwort kann eine Bezie
 
 Es gibt ein toxisches Narrativ, das besonders in Beziehungsratgebern herumschwirrt: "Echte Liebe bedeutet, sich aufzuopfern." Das ist falsch.
 
-Wenn du ständig deine Grenzen aufgibst, um deinen Partner glücklich zu machen, machst du dich selbst klein. Du verlierst deine Eigenständigkeit. Und — das ist der wichtige Teil — dein Partner verliert dich auch. Er verliert die Frau oder den Mann, in die oder den er sich verliebt hat.
+Wenn du ständig deine Grenzen aufgibst, um deinen Partner glücklich zu machen, machst du dich selbst klein. Du verlierst deine Eigenständigkeit. Und — das ist der wichtige Teil — dein Partner verliert dich auch. Er verliert die Frau oder den Mann, in die oder den er sich [verliebt](/blog/mann-verliebt-anzeichen-komplett) hat.
 
 Langfristig entsteht daraus nicht Liebe, sondern Verbittertung. "Du hast mich gezwungen, nachzugeben, und jetzt bin ich unglücklich." Das wird er oder sie early hören — und das ist nicht fair, weil dein Partner das oft gar nicht verlangt hat.
 

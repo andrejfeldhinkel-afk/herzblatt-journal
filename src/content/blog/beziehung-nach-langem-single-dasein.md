@@ -94,7 +94,7 @@ Wenn du merkst, dass du dich nach der Single-Zeit sehnst, frag dich: Was vermiss
 
 Am Ende ist der wichtigste Punkt: Verlier dich selbst nicht. Nach langer Single-Zeit wirst du die Person, die du warst. Mit deine Macken und deinen Grenzen und deinen Vorlieben.
 
-Eine gute Beziehung respektiert das. Dein Partner sollte wollen, dass du die Person bleibst, in die er sich verliebt hat. Nicht eine veränder Version davon.
+Eine gute Beziehung respektiert das. Dein Partner sollte wollen, dass du die Person bleibst, in die er sich [verliebt](/blog/mann-verliebt-anzeichen-komplett) hat. Nicht eine veränder Version davon.
 
 Es wird Anpassungen geben. Das ist natürlich und notwendig. Aber die Essenz von dir – wer du bist – das sollte bleiben.
 

@@ -24,7 +24,7 @@ faq:
 
 # Der komplette Dating-Guide für absolute Anfänger
 
-Du sitzt vor deinem Profil auf einer Dating-App oder hast gerade die Nummer eines interessanten Menschen bekommen – und fragst dich: *Wie mache ich das jetzt richtig?* Dating ist für viele Menschen ein großes Abenteuer, das gleichzeitig Nervosität und Aufregung mit sich bringt. Ob du zum ersten Mal in die Dating-Welt eintauchst oder nach einer längeren Beziehungspause wieder durchstartest – dieser Guide wird dir Schritt für Schritt zeigen, wie du diesen Prozess meistern kannst.
+Du sitzt vor deinem Profil auf einer Dating-App oder hast gerade die Nummer eines interessanten Menschen bekommen – und fragst dich: *Wie mache ich das jetzt richtig?* Dating ist für viele Menschen ein großes Abenteuer, das gleichzeitig Nervosität und Aufregung mit sich bringt. Ob du zum ersten Mal in die Dating-Welt eintauchst oder nach einer längeren [Beziehungspause](/blog/beziehung-pause-regeln) wieder durchstartest – dieser Guide wird dir Schritt für Schritt zeigen, wie du diesen Prozess meistern kannst.
 
 Das Spannende am Dating ist, dass es eigentlich ganz einfach sein kann, wenn du die Grundlagen verstehst. Es geht nicht um perfekte Spielchen oder manipulative Tricks, sondern um ehrliche Kommunikation, gegenseitigen Respekt und die Bereitschaft, dich auf neue Menschen einzulassen.
 

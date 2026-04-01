@@ -38,9 +38,9 @@ Das ist nicht Motivationssprech. Das ist echte Realität. Hier ist, warum Dating
 
 Mit 25 hattest du möglicherweise noch keine Ahnung, was in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/) wichtig ist. Mit 30 kennst du die Antwort. Nicht theoretisch – praktisch. Du hast gesehen, wie verschiedene Männer sind. Du weißt, welche Kompromisse funktionieren und welche dich auffressen.
 
-Das ist ein RIESIGER Vorteil. Das bedeutet, dass du weniger Zeit mit falschen Menschen verschwendest. Du siehst Red Flags schneller. Du erkennst, ob jemand emotional verfügbar ist, bereits in der ersten Nachricht. Diese Fähigkeit zu haben ist nicht "zu kritisch" – es ist intelligent.
+Das ist ein RIESIGER Vorteil. Das bedeutet, dass du weniger Zeit mit falschen Menschen verschwendest. Du siehst [Red Flags](/blog/dating-red-flags-maenner-erkennen) schneller. Du erkennst, ob jemand emotional verfügbar ist, bereits in der ersten Nachricht. Diese Fähigkeit zu haben ist nicht "zu kritisch" – es ist intelligent.
 
-Eine 30-jährige Frau, die weiß, dass sie einen Partner braucht, der respektvoll kommuniziert und nicht "ghostet", wird nicht auf dem ersten Date bei jemandem bleiben, der sein Handy die ganze Zeit checkt. Mit 25 hättest du das vielleicht übersehen und dich dann über zwei Monate hinweg in den falschen Menschen verliebt.
+Eine 30-jährige Frau, die weiß, dass sie einen Partner braucht, der respektvoll kommuniziert und nicht "ghostet", wird nicht auf dem ersten Date bei jemandem bleiben, der sein Handy die ganze Zeit checkt. Mit 25 hättest du das vielleicht übersehen und dich dann über zwei Monate hinweg in den falschen Menschen [verliebt](/blog/mann-verliebt-anzeichen-komplett).
 
 ## Das Spiel ist vorbei – und das ist gut
 

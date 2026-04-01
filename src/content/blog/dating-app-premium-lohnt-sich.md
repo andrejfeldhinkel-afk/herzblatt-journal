@@ -534,7 +534,7 @@ Hier ist die gute Nachricht: Du brauchst nicht zu zahlen um mit Dating-Apps Erfo
 Das wichtigste ist dein Profil. Investier Zeit darin:
 
 - **Fotos:** 4-6 gute Fotos. Das erste Foto ist am wichtigsten – ein klares Gesichtsfoto. Das zweite sollte Full Body sein. Danach: Hobbys, Aktivitäten, Interessen.
-- **Bio:** 150-200 Wörter, keine generischen Standardtexte. Sei spezifisch. Schreib nicht "Ich liebe Reisen" – schreib "Letzten Sommer war ich in Japan und habe mich in die Street-Food-Szene verliebt."
+- **Bio:** 150-200 Wörter, keine generischen Standardtexte. Sei spezifisch. Schreib nicht "Ich liebe Reisen" – schreib "Letzten Sommer war ich in Japan und habe mich in die Street-Food-Szene [verliebt](/blog/mann-verliebt-anzeichen-komplett)."
 - **Musik und Filme:** Nutze diese Kategorien um dich auszudrücken.
 - **Interessen:** Wähle 5-7 Dinge die dir wirklich wichtig sind, nicht alles was du irgendwann gemacht hast.
 

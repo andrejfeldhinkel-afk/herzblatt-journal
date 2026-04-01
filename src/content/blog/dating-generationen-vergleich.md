@@ -49,7 +49,7 @@ Gen X datet noch wie es in den 80ern war: Freunde, Bars, zufällige Treffen. Ein
 
 - Sie meinen, was sie sagen—Spielchen sind ausgelöst für sie
 
-**Red Flags wenn Gen X dating:**
+**[Red Flags](/blog/dating-red-flags-maenner-erkennen) wenn Gen X dating:**
 
 - Sie bringt/ihn zu schnell zum Treffen ihrer/seiner Familie
 

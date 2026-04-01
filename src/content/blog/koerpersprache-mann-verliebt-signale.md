@@ -23,7 +23,7 @@ draft: false
 
 Ein Mann kann mit Worten lügen. Er kann sagen, dass er nicht interessiert ist, während er dich anstarrt. Ein Mann kann behaupten, keine Zeit für dich zu haben, während er jede Minute mit dir verbringt. Die Körpersprache entlarvt das.
 
-Die Körpersprache ist die ursprünglichste Form der menschlichen Kommunikation. Sie ist nicht erlernt. Sie ist instinktiv. Wenn ein Mann verliebt ist, sendet sein Körper Signale, die er nicht kontrollieren kann.
+Die Körpersprache ist die ursprünglichste Form der menschlichen Kommunikation. Sie ist nicht erlernt. Sie ist instinktiv. Wenn ein Mann [verliebt](/blog/mann-verliebt-anzeichen-komplett) ist, sendet sein Körper Signale, die er nicht kontrollieren kann.
 
 Das Problem ist: Viele Frauen wissen nicht, wie man diese Signale liest. Sie interpretieren Verhalten falsch. Sie denken, dass ein nervöser Mann einfach nicht interessiert ist. Sie wissen nicht, dass Nervosität ein starkes Zeichen von tiefem Interesse ist.
 

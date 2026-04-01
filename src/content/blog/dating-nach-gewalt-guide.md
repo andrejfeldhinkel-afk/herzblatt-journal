@@ -28,7 +28,7 @@ Das, was ich dir sagen werde, ist nicht einfach. Und es ist nicht schnell. Aber 
 
 Zuerst lass mich dir etwas sagen: Was dir passiert ist, war nicht deine Schuld. Die Toxizität, der Missbrauch, die Manipulation – das war sein Verhalten, nicht ein Versagen von dir.
 
-Ich weiß, dass du das wahrscheinlich nicht glaubst. Toxische Menschen sind sehr gut darin, dich glauben zu machen, dass du das Problem bist. Sie sind geschickt in Gaslighting. Sie manipulieren deine Realität. Und selbst nachdem die Beziehung vorbei ist, flüsternd diese Stimme in deinem Kopf "Es war deine Schuld."
+Ich weiß, dass du das wahrscheinlich nicht glaubst. Toxische Menschen sind sehr gut darin, dich glauben zu machen, dass du das Problem bist. Sie sind geschickt in [Gaslighting](/blog/gaslighting-komplett-guide). Sie manipulieren deine Realität. Und selbst nachdem die Beziehung vorbei ist, flüsternd diese Stimme in deinem Kopf "Es war deine Schuld."
 
 Es war nicht.
 
@@ -102,7 +102,7 @@ Wenn ein Trigger auftritt, ist hier, was du tun solltest:
 
 Hier ist etwas, dass dein Trauma dir beibracht hat – du bist sehr gut darin, die Zeichen zu erkennen. Wenn nicht jetzt, kannst du dich lehren.
 
-Missbraucher sind nicht offensichtlich. Sie beginnen mit Love Bombing. Sie sind attraktiv und aufmerksam und romantisch. Aber dann, langsam, beginnen die subtilen Kontrollen. Zu viel Aufmerksamkeit wird zu Eifersucht. Romantik wird zu Besitztum.
+Missbraucher sind nicht offensichtlich. Sie beginnen mit [Love Bombing](/blog/love-bombing-erkennen-schuetzen). Sie sind attraktiv und aufmerksam und romantisch. Aber dann, langsam, beginnen die subtilen Kontrollen. Zu viel Aufmerksamkeit wird zu Eifersucht. Romantik wird zu Besitztum.
 
 Du kennst diese Zeichen jetzt. Und wenn du dich selbst vertraust, wirst du wissen, wann zu gehen ist.
 
@@ -154,5 +154,5 @@ Du verdienst die beste Version davon. Und diesmal, du wirst wissen, wie man sie 
 
 - [Dating nach häuslicher Gewalt: Der ehrliche Heilungsguide](/blog/dating-nach-gewalt-in-beziehung/)
 - [Dating nach toxischer Beziehung: Heilen und neu anfangen](/blog/dating-nach-toxischer-beziehung/)
-- [Dating nach einer Ghosting-Erfahrung](/blog/dating-nach-ghosting-erfahrung/)
+- [Dating nach einer [Ghosting](/blog/ghosting-komplett-guide)-Erfahrung](/blog/dating-nach-ghosting-erfahrung/)
 - [Dating nach toxischer Familie](/blog/dating-nach-toxischer-familie/)

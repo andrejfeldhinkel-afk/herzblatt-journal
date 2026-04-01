@@ -307,7 +307,7 @@ Wenn dein Chatpartner durchgehend Ein-Wort-Antworten gibt, ist das ein Zeichen, 
 
 Ja, Emojis sind wichtig. Aber nicht in der Weise, wie du denkst.
 
-Ein 😊 sagt nicht: „Ich bin verliebt in dich." Es sagt nur: „Ich bin nicht wütend auf dich."
+Ein 😊 sagt nicht: „Ich bin [verliebt](/blog/mann-verliebt-anzeichen-komplett) in dich." Es sagt nur: „Ich bin nicht wütend auf dich."
 
 Ein 😂 sagt nicht: „Das war das Lustigste, das ich je gelesen habe." Es sagt: „Das hat mir ein Lächeln ins Gesicht gezaubert."
 
@@ -500,7 +500,7 @@ Wenn die Unterhaltung sich wie ein Verhör anfühlt – Frage auf Frage auf Frag
 
 Ein gutes Gespräch ist ein Austausch. Nicht eine Befragung.
 
-### Der Ghosting-Angst-Killer
+### Der [Ghosting](/blog/ghosting-komplett-guide)-Angst-Killer
 
 Wenn du immer wieder nachfragst „Bist du noch da?" oder „Magst du mich noch?", wirkt das bedürftig.
 

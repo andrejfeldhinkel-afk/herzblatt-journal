@@ -30,7 +30,7 @@ Das ist nicht eine Entschuldigung. Es ist eine Erklärung. Die Wahrheit ist, das
 
 Es gibt acht primäre Wege, die Menschen manipulieren. Wenn du diese erkennst, kannst du beginnen, dich zu schützen.
 
-Die erste ist Gaslighting. Das ist, wenn jemand macht, dass du dich fragst, ob deine Gedanken real sind. "Das habe ich nicht gesagt." "Du machst das auf." "Du bist verrückt." Wenn du die ganze Zeit dich selbst zweifelst, wirst du abhängig von ihm, um dir zu sagen, was real ist. Das ist sehr mächtig.
+Die erste ist [Gaslighting](/blog/gaslighting-komplett-guide). Das ist, wenn jemand macht, dass du dich fragst, ob deine Gedanken real sind. "Das habe ich nicht gesagt." "Du machst das auf." "Du bist verrückt." Wenn du die ganze Zeit dich selbst zweifelst, wirst du abhängig von ihm, um dir zu sagen, was real ist. Das ist sehr mächtig.
 
 Die zweite ist Liebe-Bombing. Das ist, wenn jemand dich mit Aufmerksamkeit und Zuneigung überfordert früh in der Beziehung. "Du bist das beste, das mir passiert ist." "Ich habe mein ganzes Leben auf dich gewartet." Es ist intensiv und berauschend. Aber nach ein paar Wochen stoppt es. Und du fragst dich, was falsch ist. Das macht dich suchen, um es zurück zu erhalten.
 
@@ -311,7 +311,7 @@ Verwende das folgende Werkzeug, um Manipulationstaktiken zu identifizieren und W
       </div>
     </div>
     
-    <!-- Love Bombing -->
+    <!-- [Love Bombing](/blog/love-bombing-erkennen-schuetzen) -->
     <div class="mekg-pattern">
       <div class="mekg-pattern-header">
         <h4 class="mekg-pattern-title">💣 Love Bombing</h4>

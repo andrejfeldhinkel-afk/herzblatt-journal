@@ -214,7 +214,7 @@ Mit Geduld beginnt sie, diese neue "Familie"-Struktur zu akzeptieren.
 
 **Fallstudie 3: Die einzelne Mutter, die zu schnell datest**
 
-Anna ist gerade geschieden (3 Monate). Sie trifft einen neuen Mann und sie verliebt sich schnell. Sie stellt ihn ihren Kindern nach 3 Wochen vor.
+Anna ist gerade geschieden (3 Monate). Sie trifft einen neuen Mann und sie [verliebt](/blog/mann-verliebt-anzeichen-komplett) sich schnell. Sie stellt ihn ihren Kindern nach 3 Wochen vor.
 
 Ihre Kinder sind verwirrt und ängstlich. Dann, nach 2 Monaten, bricht die Beziehung zusammen.
 

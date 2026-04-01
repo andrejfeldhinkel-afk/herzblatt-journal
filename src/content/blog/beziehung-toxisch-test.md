@@ -22,7 +22,7 @@ Das ist vollkommen verständlich. Toxische Beziehungen sind verwirrt, emotional 
 
 Eine toxische Beziehung ist nicht einfach eine schwierige Partnerschaft. Der Begriff wird oft missverstanden und oft auch zu schnell angewendet. In einer schwierigen Beziehung gibt es Konflikte, Missverständnisse und manchmal auch verletzende Worte – das ist normal und sehr menschlich. In einer toxischen Beziehung hingegen gibt es ein systematisches Muster, das dich als Person untergräbt, dein Selbstwertgefühl zerstört und dich emotional, psychisch oder sogar physisch schadet.
 
-Toxizität bedeutet, dass ein oder beide Partner bewusst oder unbewusst Verhaltensweisen zeigen, die den anderen systematisch klein machen, kontrollieren, isolieren oder manipulieren. Diese Verhaltensweisen treten nicht nur ab und zu auf – sie sind regelmäßig. Sie sind strukturell und systemisch. Der toxische Partner nutzt oft emotionale Erpressung, Gaslighting, Demütigung oder finanzielle Kontrolle, um die Oberhand zu behalten und dich gefügig zu machen.
+Toxizität bedeutet, dass ein oder beide Partner bewusst oder unbewusst Verhaltensweisen zeigen, die den anderen systematisch klein machen, kontrollieren, isolieren oder manipulieren. Diese Verhaltensweisen treten nicht nur ab und zu auf – sie sind regelmäßig. Sie sind strukturell und systemisch. Der toxische Partner nutzt oft emotionale Erpressung, [Gaslighting](/blog/gaslighting-komplett-guide), Demütigung oder finanzielle Kontrolle, um die Oberhand zu behalten und dich gefügig zu machen.
 
 Das Tückische an toxischen Beziehungen ist, dass sie sich oft langsam entwickeln. Du merkst nicht, wann der Kipppunkt überschritten wird. Der erste Kontrollversuch wirkt wie Besorgnis um deine Sicherheit. Der erste manipulierte Gedanke wirkt wie Liebe und Fürsorge. Das erste Schuldgefühl wirkt berechtigt. Deshalb dauert es oft Jahre, bis Menschen erkennen, dass sie in einer toxischen Beziehung sind.
 
@@ -252,7 +252,7 @@ Viele Menschen haben toxische Beziehungen überstanden und sind auf der anderen 
 
 "Die erste Zeit nach der Trennung war die schwärzeste Zeit meines Lebens. Aber dann wurde es jeden Monat leichter. Jeden Tag ein kleines bisschen leichter."
 
-"Ich vergebe mir selbst, dass ich nicht früher ging. Ich war nicht dumm. Ich war verliebt und manipuliert. Das ist normal."
+"Ich vergebe mir selbst, dass ich nicht früher ging. Ich war nicht dumm. Ich war [verliebt](/blog/mann-verliebt-anzeichen-komplett) und manipuliert. Das ist normal."
 
 "Ich bin dankbar, dass ich ging. Nicht wegen ihm – sondern wegen mir. Ich bin eine bessere Person, seitdem ich mich selbst wieder kenne."
 

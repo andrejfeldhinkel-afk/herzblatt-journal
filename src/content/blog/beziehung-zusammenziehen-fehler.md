@@ -53,7 +53,7 @@ Ein praktischer Vorschlag: Macht ein Formular. Es klingt formal, aber es schafft
 
 ## Fehler 2: Die finanzielle Dimension unterschätzen
 
-Geld ist einer der größten Konflikt-Punkte bei Paaren, die zusammenziehen.
+Geld ist einer der größten Konflikt-Punkte bei Paaren, die [zusammenziehen](/blog/zusammenziehen-checkliste).
 
 Wer zahlt die Miete? Wenn einer von euch mehr verdient, zahlt diese Person mehr? Oder teilt ihr 50/50?
 

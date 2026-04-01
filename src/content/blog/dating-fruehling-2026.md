@@ -122,7 +122,7 @@ Das ist weniger anstrengend. Es ist auch authentischer.
 
 ## Die moderne Red Flag-Erkennung: Menschen erkennen Probleme schneller
 
-Schließlich, weil Menschen mehr über psychologische Gesundheit wissen, erkennen sie Red Flags viel schneller.
+Schließlich, weil Menschen mehr über psychologische Gesundheit wissen, erkennen sie [Red Flags](/blog/dating-red-flags-maenner-erkennen) viel schneller.
 
 Das bedeutet: Wenn du ein Problem hast, werden Menschen das schneller sehen.
 

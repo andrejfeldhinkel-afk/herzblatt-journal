@@ -259,7 +259,7 @@ Während einer Firedooring-Beziehung, stellst du oft deine eigenen Ziele zurück
 Firedooring schadet deinem Selbstwertgefühl. Du fragst dich, ob du genug bist. Die Heilung ist, dich selbst wieder als wertvoll zu sehen. Das könnte bedeuten: Affirmationen sprechen, ein Tagebuch führen, Sport treiben, oder einfach nur Zeit mit dir selbst verbringen.
 
 **Dein Muster erkennen**
-Es ist auch wichtig zu lernen, zukünftige Firedooring zu vermeiden. Das bedeutet, früh in Beziehungen auf die Zeichen zu achten. Wenn jemand von Anfang an reaktiv ist, wird das wahrscheinlich nicht besser. Red Flags früh zu erkennen kann dir Schmerz sparen.
+Es ist auch wichtig zu lernen, zukünftige Firedooring zu vermeiden. Das bedeutet, früh in Beziehungen auf die Zeichen zu achten. Wenn jemand von Anfang an reaktiv ist, wird das wahrscheinlich nicht besser. [Red Flags](/blog/dating-red-flags-maenner-erkennen) früh zu erkennen kann dir Schmerz sparen.
 
 Die Heilung ist nicht linear. Es gibt Tage, an denen du dich gut fühlst. Es gibt Tage, an denen du dich fragst, ob du die richtige Entscheidung getroffen hast. Das ist normal. Gib dir Zeit.
 

@@ -119,7 +119,7 @@ Hier ist die Wahrheit, die niemand dir sagt:
 
 Selbstliebe ist nicht ein Gefühl. Selbstliebe ist, wie du dich selbst behandelst.
 
-Du wartest nicht, um dich zu "fühlen" verliebt zu dir selbst. Du handelst, als ob du dich selbst liebst, und die Gefühle folgen.
+Du wartest nicht, um dich zu "fühlen" [verliebt](/blog/mann-verliebt-anzeichen-komplett) zu dir selbst. Du handelst, als ob du dich selbst liebst, und die Gefühle folgen.
 
 Wenn dein Freund machtlos wurde, würdest du ihr sagen: "Du bist wertlos?"
 

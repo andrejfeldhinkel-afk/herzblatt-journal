@@ -312,7 +312,7 @@ Diese Umwandlung ist schwierig, aber transformativ. Wenn Paare erfolgreich sind,
 
 Eine letzte, aber wichtige Überlegung: Wie sehen langfristige Beziehungen in beiden Modellen aus?
 
-In monogamen Beziehungen ist die Herausforderung, dass die intensive, leidenschaftliche Phase zeitlich begrenzt ist. Nach etwa 2-3 Jahren fällt viele monogame Paare in eine „flache" Phase, wo die Leidenschaft sinkt und Routine übernimmt. Dies ist nicht bedeutet, dass die Liebe weg ist – es ist nur, dass es sich weniger „verliebt" anfühlt.
+In monogamen Beziehungen ist die Herausforderung, dass die intensive, leidenschaftliche Phase zeitlich begrenzt ist. Nach etwa 2-3 Jahren fällt viele monogame Paare in eine „flache" Phase, wo die Leidenschaft sinkt und Routine übernimmt. Dies ist nicht bedeutet, dass die Liebe weg ist – es ist nur, dass es sich weniger „[verliebt](/blog/mann-verliebt-anzeichen-komplett)" anfühlt.
 
 Dies ist normal und erwartet, aber viele Paare sind von dieser Phase schockiert. Sie denken, „wir haben die Liebe verloren". In Realität haben sie nur die Phasen der Beziehung navigiert. Mit bewusster Anstrengung können sie neue Leidenschaft und Verbindung aufbauen, aber es erfordert Arbeit.
 

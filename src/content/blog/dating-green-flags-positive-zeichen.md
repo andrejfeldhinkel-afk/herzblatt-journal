@@ -19,7 +19,7 @@ faq:
 ---
 
 
-Green Flags: Positive Zeichen beim Dating erkennen
+[Green Flags](/blog/dating-green-flags-erkennen-guide): Positive Zeichen beim Dating erkennen
 
 Wir reden viel über rote Flaggen – die Zeichen, denen du davonlaufen solltest. Aber was ist mit den grünen Flaggen? Die Zeichen, die zeigen, dass jemand wirklich großartig ist?
 

@@ -10,7 +10,7 @@ keywords:
   - "red flags beziehung"
   - "warnsignale dating"
   - "red flags dating"
-draft: false
+draft: true
 image: "/images/photos/red-flags-erkennen.webp"
 imageAlt: "Illustration von Red Flags beim Dating"
 faq:
@@ -25,11 +25,11 @@ faq:
 ---
 ## Vertraue deinem Bauchgefühl
 
-Beim Dating sind wir oft so aufgeregt und verliebt in die Idee einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/), dass wir Warnsignale übersehen. Dabei sind die Zeichen meistens schon früh da — wir wollen sie nur nicht sehen. Unser Bauchgefühl flüstert uns oft die Wahrheit zu, aber unser hoffnungsvolles Herz schreit lauter. Dieses Dilemma zwischen Kopf und Bauch ist einer der Gründe, warum wir so viele rote Flaggen ignorieren, obwohl wir sie klar erkannt haben.
+Beim Dating sind wir oft so aufgeregt und [verliebt](/blog/mann-verliebt-anzeichen-komplett) in die Idee einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/), dass wir Warnsignale übersehen. Dabei sind die Zeichen meistens schon früh da — wir wollen sie nur nicht sehen. Unser Bauchgefühl flüstert uns oft die Wahrheit zu, aber unser hoffnungsvolles Herz schreit lauter. Dieses Dilemma zwischen Kopf und Bauch ist einer der Gründe, warum wir so viele rote Flaggen ignorieren, obwohl wir sie klar erkannt haben.
 
 Das Problem ist nicht der Mangel an Informationen. Wir wissen instinktiv, wenn etwas nicht stimmt. Das Problem ist, dass wir uns selbst eine Milliarde Geschichten erzählen, warum es vielleicht doch okay ist. "Er war heute grumpy, aber das bedeutet nicht, dass er manipulativ ist." "Sie hat mir gelogen, aber vielleicht schämte sie sich nur." Diese Rationalisierungen sind für dein Sicherheitsgefühl tödlich. Wenn dein Bauch dir sagt, dass etwas nicht stimmt, verdient dein Bauch Aufmerksamkeit — egal, was dein Verstand dir erzählt.
 
-## Die wichtigsten Red Flags, auf die du achten solltest
+## Die wichtigsten [Red Flags](/blog/dating-red-flags-maenner-erkennen), auf die du achten solltest
 
 ### Kommunikation — Die erste Schicht der Kontrolle
 
@@ -39,7 +39,7 @@ Das Problem ist nicht der Mangel an Informationen. Wir wissen instinktiv, wenn e
 
 **Lovebombing — die süße Lüge.** Übertriebene Komplimente und Liebeserklärungen nach dem zweiten Date sind keine Leidenschaft — sie sind ein Warnsignal. Lovebombing ist eine Taktik, die von manipulativen Menschen verwendet wird, um dich schnell an sie zu binden. Sie überhäufen dich mit Aufmerksamkeit, Geschenken und Versprechungen, um deine kritischen Gedanken zu überwältigen. Echte Zuneigung wächst langsam, bewusst und nachhaltig. Wenn es sich zu schnell anfühlt, ist es wahrscheinlich nicht echt.
 
-**Ständiges Ghosting und Benachrichtigungen.** Wenn diese Person ständig auftaucht und wieder verschwindet, wenn sie dich ignoriert und dann plötzlich Nachrichten wie "Ich vermisse dich" schreibt, manipuliert sie deine emotionalen Reaktionen. Das ist emotional dysregulierend und trainiert dein Gehirn, nach ihr zu verlangen wie nach einer Droge.
+**Ständiges [Ghosting](/blog/ghosting-komplett-guide) und Benachrichtigungen.** Wenn diese Person ständig auftaucht und wieder verschwindet, wenn sie dich ignoriert und dann plötzlich Nachrichten wie "Ich vermisse dich" schreibt, manipuliert sie deine emotionalen Reaktionen. Das ist emotional dysregulierend und trainiert dein Gehirn, nach ihr zu verlangen wie nach einer Droge.
 
 ### Verhalten — Das wahre Gesicht zeigt sich schnell
 

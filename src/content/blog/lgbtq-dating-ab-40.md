@@ -258,7 +258,7 @@ Dann fand sie eine Gruppe älterer Lesben durch einen Online-Kurs. "Das verände
 
 Heute, mit 48 Jahren, ist sie seit zwei Jahren mit jemandem zusammen, den sie auf einer Hiking-Gruppe traf. "Es ist das beste Dating-Szenario überhaupt. Wir hatten Zeit, uns organisch kennenzulernen. Wir entdeckten gemeinsame Interessen. Und wir waren beide frei, echt zu sein."
 
-### Tonys Geschichte: Lebenslangsingle mit 51, dann verliebt
+### Tonys Geschichte: Lebenslangsingle mit 51, dann [verliebt](/blog/mann-verliebt-anzeichen-komplett)
 
 Tony war sein ganzes Leben lang single. Er hatte Gründe dafür, aber hauptsächlich war es internalisierte Homophobie und Angst.
 

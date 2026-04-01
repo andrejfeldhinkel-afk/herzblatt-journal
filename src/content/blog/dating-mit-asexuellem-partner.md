@@ -43,7 +43,7 @@ Und hier ist die Sache, die wichtig ist: Asexuelle Menschen können verschiedene
 
 Manche asexuelle Menschen haben noch romantische Gefühle. Sie wollen Beziehungen. Sie wollen Liebe. Sie wollen Nähe. Sie wollen Zärtlichkeit. Sie wollen nur keinen Sex. Oder sie wollen sehr wenig Sex.
 
-Manche asexuelle Menschen sind auch "graysexual" – sie erleben sexuelle Anziehung, aber selten oder nur unter bestimmten Bedingungen. Vielleicht einmal im halben Jahr. Vielleicht nur mit bestimmten Menschen. Vielleicht nur wenn sie emotional verliebt sind.
+Manche asexuelle Menschen sind auch "graysexual" – sie erleben sexuelle Anziehung, aber selten oder nur unter bestimmten Bedingungen. Vielleicht einmal im halben Jahr. Vielleicht nur mit bestimmten Menschen. Vielleicht nur wenn sie emotional [verliebt](/blog/mann-verliebt-anzeichen-komplett) sind.
 
 Manche asexuelle Menschen sind "demisexual" – sie erleben sexuelle Anziehung nur wenn es eine emotionale Verbindung gibt. Sie könnten mit dir Jahre zusammen sein, und dann plötzlich auf dieser tiefen emotionalen Ebene Sex mit dir wollen.
 

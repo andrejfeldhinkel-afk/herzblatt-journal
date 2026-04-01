@@ -36,7 +36,7 @@ Wenn du ernsthaft darüber nachdenkst, mit deinem Ex-Partner befreundet zu sein,
 
 ### 1. Der Liebeskummer muss vergangen sein
 
-Das ist die wichtigste Voraussetzung. Wenn du noch in deinen Ex verliebt bist, wenn du nachts an ihn denkst und hoffst, dass er dich eines Tages zurückruft, dann ist jetzt nicht die Zeit für eine Freundschaft. Eine einseitige Hoffnung auf Wiedervereinigung wird jede Freundschaft vergiften. Du wirst unbewusst versuchen, die alte Beziehung wiederherzustellen, du wirst dich von Berichten über sein neues Dating-Leben verletzt fühlen, und du wirst jede kleine Aufmerksamkeit überinterpretieren.
+Das ist die wichtigste Voraussetzung. Wenn du noch in deinen Ex [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, wenn du nachts an ihn denkst und hoffst, dass er dich eines Tages zurückruft, dann ist jetzt nicht die Zeit für eine Freundschaft. Eine einseitige Hoffnung auf Wiedervereinigung wird jede Freundschaft vergiften. Du wirst unbewusst versuchen, die alte Beziehung wiederherzustellen, du wirst dich von Berichten über sein neues Dating-Leben verletzt fühlen, und du wirst jede kleine Aufmerksamkeit überinterpretieren.
 
 Die Wahrheit ist: Du brauchst Zeit, um dich selbst wiederzufinden und deine Gefühle zu verarbeiten. Das ist nicht schwach – das ist gesund. Die meisten Psychologen empfehlen, nach einer längeren Beziehung mindestens drei bis sechs Monate Abstand zu halten, bevor man wieder Kontakt aufnimmt.
 

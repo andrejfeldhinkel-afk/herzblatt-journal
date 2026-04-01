@@ -203,7 +203,7 @@ Das ist deine beste Chance. Du kannst:
 
 Das ist nicht aggressiv. Das ist direkt und authentisch. Das ist introvertiert-Stil.
 
-## Die Red Flags: Wer nicht zu dir passt
+## Die [Red Flags](/blog/dating-red-flags-maenner-erkennen): Wer nicht zu dir passt
 
 Nicht jeder ist für introvertierte Menschen richtig:
 

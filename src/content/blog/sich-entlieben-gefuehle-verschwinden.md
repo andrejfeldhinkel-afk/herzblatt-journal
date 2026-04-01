@@ -32,7 +32,7 @@ faq:
 
 Es gibt diesen Moment. Nicht dramatisch. Nicht laut. Einfach nur... leise. Du sitzt neben deinem Partner auf der Couch, schaut das gleiche TV-Programm, und plötzlich merkst du: Du empfindest nichts. Nicht Wut. Nicht Trauer. Einfach nichts. Kein Kribbeln im Bauch. Kein Sehnen. Kein innerer Brennpunkt, der dein Herz anzieht, wenn du ihn siehst.
 
-Und dann der böse Gedanke: *Bin ich noch verliebt?*
+Und dann der böse Gedanke: *Bin ich noch [verliebt](/blog/mann-verliebt-anzeichen-komplett)?*
 
 Dieses Szenario spielen sich Millionen Menschen ab. Es ist eines der schmerzhaftesten Geheimnisse, das in Beziehungen existiert, weil es sich so anfühlt, als würde man selbst schuldig sein. Als würde man etwas kaputt machen, während man dabeisitzt und zuschaut. Als würde man ein Monster sein, weil man die Person, die neben einem schläft, nicht mehr auf die gleiche Art liebt.
 

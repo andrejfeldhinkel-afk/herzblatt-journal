@@ -180,7 +180,7 @@ Keine dieser Fragen sind Dealbreaker. Sie sind nur... zu adressieren.
 
 ## Heimweh und Dating: Das emotionale Ding
 
-Ich will nett sein, aber ich muss ehrlich sein: Die ersten Monate nach Auswanderung ist die Wahrscheinlichkeit, dass du dich in das erste person verliebt, die dich mag, höher als normal.
+Ich will nett sein, aber ich muss ehrlich sein: Die ersten Monate nach Auswanderung ist die Wahrscheinlichkeit, dass du dich in das erste person [verliebt](/blog/mann-verliebt-anzeichen-komplett), die dich mag, höher als normal.
 
 Nicht weil diese Person so großartig ist. Sondern weil du allein bist und emotionallvulnerabel.
 
