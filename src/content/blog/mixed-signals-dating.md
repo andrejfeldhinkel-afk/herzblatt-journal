@@ -85,7 +85,7 @@ Manchmal ist die Person dein größter Fan – enthusiastisch, present, liebevol
 
 Das Wichtigste: Wenn die Person dir Mixed Signals gibt, bedeutet das nicht automatisch, dass sie dich nicht mag. Es bedeutet, dass sie etwas Anderes durchmacht. Hier sind die hauptsächlichen psychologischen Gründe:
 
-**Bindungsangst (Anxious-Avoidant Dynamic)**
+**[Bindungsangst](/blog/bindungsangst-komplett-guide) (Anxious-Avoidant Dynamic)**
 
 Die Person mag dich – aber die Nähe triggert Fluchtinstinkt. Je näher du kommst, desto mehr zieht sie sich zurück. Das ist ein Schutzmechanismus. Sie fürchtet, verletzt zu werden, also zieht sie die Kontrolle zurück. Das Ergebnis: Sie ist nah, dann fern, dann nah wieder.
 

@@ -35,6 +35,12 @@ RANKING_ARTICLES = {
     "bumble tipps": "bumble-tipps-tricks",
     "geghostet": "ghosting-ueberwinden",
     "liebesbrief vorlage": "liebesbriefe-schreiben-vorlagen",
+    "bindungsangst": "bindungsangst-komplett-guide",
+    "liebeskummer": "liebeskummer-phasen-komplett",
+    "offene beziehung": "offene-beziehung-regeln-guide",
+    "beziehung retten": "beziehung-retten-kompletter-guide",
+    "on-off beziehung": "on-off-beziehung-beenden",
+    "fremdgehen verzeihen": "fremdgehen-verzeihen-kompletter-guide",
 }
 
 # Keywords that should link to ranking articles
@@ -60,6 +66,12 @@ LINK_MAP = {
     "Liebesbrief Vorlage": "/blog/liebesbriefe-schreiben-vorlagen",
     "Trennung": "/blog/trennung-verarbeiten-12-schritte",
     "retrograde Eifersucht": "/blog/eifersucht-ex-partner-rebecca-syndrom",
+    "Bindungsangst": "/blog/bindungsangst-komplett-guide",
+    "Liebeskummer": "/blog/liebeskummer-phasen-komplett",
+    "offene Beziehung": "/blog/offene-beziehung-regeln-guide",
+    "Beziehung retten": "/blog/beziehung-retten-kompletter-guide",
+    "On-Off Beziehung": "/blog/on-off-beziehung-beenden",
+    "Fremdgehen": "/blog/fremdgehen-verzeihen-kompletter-guide",
 }
 
 # Slugs of ranking articles (don't add self-links)

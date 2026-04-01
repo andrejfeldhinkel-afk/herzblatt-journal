@@ -43,7 +43,7 @@ Es gibt verschiedene Arten von Gründen, und nicht alle sind gleichbedeutend mit
 
 **Der beängstigende Grund:** "Ich vermisse jemand anderes" oder "Ich habe jemand anderen kennengelernt und will mit ihm/ihr das ausprobieren." Das ist nicht unbedingt ein Dealbreaker, aber es ist ein anderer Kontext. Hier geht es um eine spezifische Person, nicht um ein abstraktes Konzept.
 
-**Der rote Grund:** "Du erfüllst nicht alle meine Bedürfnisse" (aus seinem/ihrem Mund, nachdem ihr andere Lösungen hättet versuchen sollen). Das ist ein Problemindikator. Wenn er/sie nicht bereit ist, das zu ARBEITEN, sondern sofort eine offene Beziehung fordert – das ist keine Lösung, das ist ein Ausweg.
+**Der rote Grund:** "Du erfüllst nicht alle meine Bedürfnisse" (aus seinem/ihrem Mund, nachdem ihr andere Lösungen hättet versuchen sollen). Das ist ein Problemindikator. Wenn er/sie nicht bereit ist, das zu ARBEITEN, sondern sofort eine [offene Beziehung](/blog/offene-beziehung-regeln-guide) fordert – das ist keine Lösung, das ist ein Ausweg.
 
 **Der manipulative Grund:** "Wenn du mich liebst, machst du das" oder "Das ist normal, alle Paare machen das (Spoiler: nicht wahr)." Das ist nicht ein Grund, das ist Druck. Das ist nicht okay.
 

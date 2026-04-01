@@ -1,12 +1,12 @@
 ---
-title: "Fremdgehen verzeihen: Kann eine Beziehung das überstehen?"
-description: "Fremdgehen verzeihen oder nicht? Ein ehrlicher Guide über Vertrauensaufbau, Heilung und die schwierigste Entscheidung in einer Beziehung."
+title: "Fremdgehen verzeihen: Kann eure Beziehung das überstehen? (2026)"
+description: "Fremdgehen verzeihen oder nicht? Ehrlicher Guide über Vertrauensaufbau nach Untreue, Heilungsphasen und die schwierigste Entscheidung in einer Beziehung."
 date: 2026-03-21
 tags:
   - "Beziehung"
   - "Vertrauen"
   - "Psychologie"
-keywords: ["fremdgehen verzeihen", "untreue verzeihen", "seitensprung verzeihen", "nach fremdgehen"]
+keywords: ["fremdgehen verzeihen", "untreue verzeihen", "seitensprung verzeihen", "nach fremdgehen", "untreue verzeihen tipps", "nach seitensprung beziehung retten", "vertrauen nach fremdgehen"]
 draft: false
 image: "/images/blog/fremdgehen-verzeihen-kompletter-guide.webp"
 imageAlt: "Fremdgehen Verzeihen Kompletter Guide"

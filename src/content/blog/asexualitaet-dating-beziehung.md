@@ -52,7 +52,7 @@ Hier wird es interessant. Viele asexuelle Menschen mögen Sex. Manche mögen ihn
 
 Das ist völlig normal und nicht widersprüchlich. Die Gesellschaft sagt uns, dass Sexualität und sexuelle Anziehung dasselbe sind. Das stimmt nicht. Du kannst völlig asexuell sein (keine sexuelle Anziehung) und trotzdem Sex genießen. Du kannst Sex mit deinem Partner genießen, weil du die emotionale Nähe magst, weil es sich körperlich gut anfühlt, oder weil du deinem Partner Freude bereiten möchtest.
 
-**Ein praktischer Ansatz:** Sitzt euch hin und sprecht darüber, wie Sexualität in eurer Beziehung aussehen könnte. Vielleicht habt ihr alle zwei Wochen Sex, weil dein Partner das braucht und du es genießt, auch wenn es nicht dein primärer Wunsch ist. Vielleicht erkundet ihr alternative Formen der Intimität, die beiden Freude bereiten. Vielleicht habt ihr eine offene Beziehung, in der dein Partner seine sexuellen Bedürfnisse außerhalb erfüllt, während ihr emotional exklusiv seid.
+**Ein praktischer Ansatz:** Sitzt euch hin und sprecht darüber, wie Sexualität in eurer Beziehung aussehen könnte. Vielleicht habt ihr alle zwei Wochen Sex, weil dein Partner das braucht und du es genießt, auch wenn es nicht dein primärer Wunsch ist. Vielleicht erkundet ihr alternative Formen der Intimität, die beiden Freude bereiten. Vielleicht habt ihr eine [offene Beziehung](/blog/offene-beziehung-regeln-guide), in der dein Partner seine sexuellen Bedürfnisse außerhalb erfüllt, während ihr emotional exklusiv seid.
 
 Es gibt kein „Muss" hier. Es gibt nur das, was für euch beide funktioniert.
 

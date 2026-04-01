@@ -11,7 +11,7 @@ tags:
 ---
 ## Liebeskummer überwinden: 15 Soforthilfen, die wirklich funktionieren
 
-Liebeskummer ist eine der schmerzhaftesten psychologischen Erfahrungen im menschlichen Leben. Es ist nicht nur emotional – es ist körperlich. Das ist eine echte Erkenntnis der modernen Neurowissenschaften. Dein Herz schmerzt mit einem echten, physischen Schmerz. Du kannst nicht essen, obwohl du weißt, dass du solltest. Du kannst nicht schlafen, weil dein Gehirn aktiv ist und sich Szenarien ausmalt. Die Welt sieht aus, als wäre sie in Grautönen. Jede Erinnerung ist wie ein Dolchstoß direkt in deine Brust. Jedes Lied, das ihr zusammen gehört habt, erinnert dich an ihn. Jeder Ort, an dem ihr zusammen wart, ist voller schmerzhafter Erinnerungen.
+[Liebeskummer](/blog/liebeskummer-phasen-komplett) ist eine der schmerzhaftesten psychologischen Erfahrungen im menschlichen Leben. Es ist nicht nur emotional – es ist körperlich. Das ist eine echte Erkenntnis der modernen Neurowissenschaften. Dein Herz schmerzt mit einem echten, physischen Schmerz. Du kannst nicht essen, obwohl du weißt, dass du solltest. Du kannst nicht schlafen, weil dein Gehirn aktiv ist und sich Szenarien ausmalt. Die Welt sieht aus, als wäre sie in Grautönen. Jede Erinnerung ist wie ein Dolchstoß direkt in deine Brust. Jedes Lied, das ihr zusammen gehört habt, erinnert dich an ihn. Jeder Ort, an dem ihr zusammen wart, ist voller schmerzhafter Erinnerungen.
 
 Liebeskummer ist absolut real. Deine Schmerz ist gültig. Deine Trauer ist berechtigt. Und es gibt konkrete, wissenschaftlich unterstützte Dinge, die du tun kannst, um schneller wieder auf deine Füße zu kommen und zu heilen.
 

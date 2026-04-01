@@ -237,7 +237,7 @@ Detaillierte Infos zum Thema Kommunikation findest du bei Bundesministerium für
 **Woran erkenne ich eine einseitige Beziehung?**
 Typische Zeichen: Du initiierst immer den Kontakt, planst alle Dates, machst Kompromisse während der Partner keine macht, und du fühlst dich emotional ausgelaugt statt aufgeladen.
 
-**Kann man eine einseitige Beziehung retten?**
+**Kann man eine einseitige [Beziehung retten](/blog/beziehung-retten-kompletter-guide)?**
 Nur wenn beide es wollen. Wenn du das Problem ansprichst und dein Partner bereit ist, sich zu ändern, gibt es eine Chance. Wenn er abwehrt oder nichts ändert, hast du deine Antwort.
 
 **Warum bleibe ich in einer einseitigen Beziehung?**

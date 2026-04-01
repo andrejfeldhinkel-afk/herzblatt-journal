@@ -13,7 +13,7 @@ faq:
     answer: "Oft liegen unbewusste Muster aus der Kindheit zugrunde. Der Bindungsstil und frühe Beziehungserfahrungen prägen, wen wir anziehen und wie wir in Beziehungen agieren."
   - question: "Ist dieser Ratgeber kostenlos?"
     answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-draft: false
+draft: true
 ---
 
 ## Was ist eine On-Off Beziehung wirklich?
@@ -62,7 +62,7 @@ Psychisch wird es noch schlimmer. Dein Selbstwertgefühl sinkt mit jeder [Trennu
 
 Eine on-off Beziehung schadet auch deinen anderen Beziehungen. Deine Freunde und Familie sind frustriert, weil du immer wieder zum gleichen Partner zurückgehrst. Sie wollen dir helfen, aber deine ständigen emotionalen Zustände sind anstrengend. Du isolierst dich, weil du dich für deine Entscheidungen schämst.
 
-Langfristig bekommst du Bindungsangst. Du beginnst, an der Fähigkeit zu zweifeln, jemals eine gesunde, stabile Beziehung zu haben. Du fragst dich, ob du zu viel verlangt bist oder ob die Liebe einfach nicht für dich gedacht ist. Diese Gedankenmuster können sich in zukünftige Beziehungen hineinziehen.
+Langfristig bekommst du [Bindungsangst](/blog/bindungsangst-komplett-guide). Du beginnst, an der Fähigkeit zu zweifeln, jemals eine gesunde, stabile Beziehung zu haben. Du fragst dich, ob du zu viel verlangt bist oder ob die Liebe einfach nicht für dich gedacht ist. Diese Gedankenmuster können sich in zukünftige Beziehungen hineinziehen.
 
 ## Der erste Schritt: Erkenne, dass du im Kreislauf bist
 

@@ -175,4 +175,4 @@ Du bist zusammen. Du schreibst nur die Regeln ein bisschen anders. Und das ist v
 - [Getrennte Urlaube in der Beziehung](/blog/beziehung-getrennte-urlaube/)
 - [Beziehung ab 40: Die besten Jahre beginnen](/blog/beziehung-nach-40-guide/)
 - [Die wichtigste Beziehung: Die mit dir selbst](/blog/beziehung-mit-sich-selbst/)
-- [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
+- [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)

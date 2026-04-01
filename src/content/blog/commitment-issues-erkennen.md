@@ -32,7 +32,7 @@ Die Wahrheit: Niemand ist perfekt. Es gibt nicht die eine "beste" Person. Es gib
 
 ## Self-Sabotage Patterns
 
-Menschen mit Bindungsangst sabotieren unbewusst. Sie starten Kämpfe kurz bevor sie sich tiefer binden. Sie [flirten](/blog/anzeichen-er-steht-auf-dich/) mit anderen Menschen, um ihre Optionen offen zu halten. Sie erfinden Gründe, die Beziehung zu beenden, bevor die andere Person zumeist verletzt hat.
+Menschen mit [Bindungsangst](/blog/bindungsangst-komplett-guide) sabotieren unbewusst. Sie starten Kämpfe kurz bevor sie sich tiefer binden. Sie [flirten](/blog/anzeichen-er-steht-auf-dich/) mit anderen Menschen, um ihre Optionen offen zu halten. Sie erfinden Gründe, die Beziehung zu beenden, bevor die andere Person zumeist verletzt hat.
 
 Dies schützt dich: Wenn ICH die Beziehung beende, werden sie mich nicht verlassen. Wenn ich ihre Fehler kritisiere, kann ich mich selbst kritisieren.
 

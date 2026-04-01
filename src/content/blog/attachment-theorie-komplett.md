@@ -110,7 +110,7 @@ Aber langfristige Beziehungen bieten auch die beste Gelegenheit zur Heilung. Mit
 
 ## Bindungsangst: Das größte Hindernis für Beziehungen
 
-Bindungsangst ist das Gefühl von Ersticken oder Panik, wenn eine Beziehung zu intensiv wird. Es kann sich anfühlen, als würde deine Identität verloren gehen oder du würdest dich in einer Falle befinden. Menschen mit Bindungsangst neigen dazu, die Beziehung zu sabotieren, just wenn sie wirklich wertvoll wird.
+[Bindungsangst](/blog/bindungsangst-komplett-guide) ist das Gefühl von Ersticken oder Panik, wenn eine Beziehung zu intensiv wird. Es kann sich anfühlen, als würde deine Identität verloren gehen oder du würdest dich in einer Falle befinden. Menschen mit Bindungsangst neigen dazu, die Beziehung zu sabotieren, just wenn sie wirklich wertvoll wird.
 
 Bindungsangst ist nicht das gleiche wie Bindungsvermeidung, obwohl sie verwandt sind. Eine Person mit Bindungsangst möchte tatsächlich eine Beziehung – sie hat nur Angst vor den Konsequenzen. Dieser innere Konflikt schafft ein Muster von Annäherung und Rückzug, das sowohl für die Person als auch für ihren Partner frustrierend ist.
 

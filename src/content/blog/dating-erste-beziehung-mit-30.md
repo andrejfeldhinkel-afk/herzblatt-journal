@@ -45,7 +45,7 @@ Es gibt viele legitime Gründe:
 
 **Peck beim Dating:** Unrequited crushes, falsches Timing. Manchmal braucht man länger. Das ist normal.
 
-**Bindungsangst:** Vielleicht vermiedest du unbewusst Nähe. Das ist häufig und normal.
+**[Bindungsangst](/blog/bindungsangst-komplett-guide):** Vielleicht vermiedest du unbewusst Nähe. Das ist häufig und normal.
 
 **Standards:** Zu vage oder zu klar – beides kann blockieren.
 

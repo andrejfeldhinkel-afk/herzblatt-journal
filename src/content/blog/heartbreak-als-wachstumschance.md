@@ -23,7 +23,7 @@ Aber hier ist das, was niemand dir sagt: Dieser Schmerz, so unerträglich wie er
 
 Die Frage ist: Wirst du diese Gelegenheit ergreifen oder wirst du dich in den Schmerz verlaufen?
 
-## Die neurobiologische Wahrheit: Warum Liebeskummer sich so körperlich anfühlt
+## Die neurobiologische Wahrheit: Warum [Liebeskummer](/blog/liebeskummer-phasen-komplett) sich so körperlich anfühlt
 
 Der Grund, dass Liebeskummer sich so intensiv körperlich anfühlt, ist, dass es ist. Es ist nicht psychisch. Es ist nicht "nur in deinem Kopf". Es ist eine biochemische, neurologische Ereignis.
 

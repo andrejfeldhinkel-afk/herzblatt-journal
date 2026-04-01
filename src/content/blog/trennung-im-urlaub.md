@@ -49,7 +49,7 @@ Auch Logistik spielt eine Rolle. Gemeinsames Zimmer, gemeinsame Mahlzeiten, geme
 
 Einige Trennungen kündigen sich an. Wenn ihr viel streitet, wenig redet, physisch nicht mehr zusammenpasst – sollte ein Urlaub hoch in der Priorität nicht sein.
 
-Die klassische Idee "Ein Urlaub wird unsere Beziehung retten" ist Wunschdenken. Ein Urlaub rettet keine kaputte Beziehung. Es verdeckt die Probleme höchstens für eine Woche.
+Die klassische Idee "Ein Urlaub wird unsere [Beziehung retten](/blog/beziehung-retten-kompletter-guide)" ist Wunschdenken. Ein Urlaub rettet keine kaputte Beziehung. Es verdeckt die Probleme höchstens für eine Woche.
 
 Wenn du dich fragst "Sollten wir diesen Urlaub wirklich zusammen machen?", ist die Antwort oft nein. Vertrau auf dein Bauchgefühl. Wenn dein Bauch sagt "Das wird ein Desaster", wird es wahrscheinlich eines.
 

@@ -357,7 +357,7 @@ Ein guter Therapeut oder eine gute Therapeutin wird:
 - Keine Annahmen über eure Beziehung machen
 - Euch Kommunikations-Tools geben
 - Bei der Lösung konkreter Probleme helfen
-- Euer Ziel respektieren (zusammenbleiben, trennen, offene Beziehung – was auch immer ihr wollt)
+- Euer Ziel respektieren (zusammenbleiben, trennen, [offene Beziehung](/blog/offene-beziehung-regeln-guide) – was auch immer ihr wollt)
 
 Das ist ein Prozess. Es nimmt Zeit. Aber es funktioniert.
 
@@ -818,7 +818,7 @@ Das sind schwere Worte. Das sind Worte, die Angst machen.
 Was zu tun:
 - Nicht Flucht sofort. Sitze mit der Unbequemheit.
 - Hole therapeutische Hilfe sofort.
-- Sei ehrlich mit dir selbst: Willst du diese Beziehung retten? Oder willst du raus?
+- Sei ehrlich mit dir selbst: Willst du diese [Beziehung retten](/blog/beziehung-retten-kompletter-guide)? Oder willst du raus?
 - Treffe keine großen Entscheidung, wenn du emotional überbelastet bist.
 
 ### Das Comeback

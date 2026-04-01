@@ -662,7 +662,7 @@ Der ängstliche Partner, müde von beharrlichem Zurückweisung, beginnt sich zu 
 
 Der vermeidende Partner, plötzlich nicht mit der Verfügung angegeben, begins zu panic. Sie mögen merken, dass sie tatsächlich verlassenheit fürchten.
 
-Manchmal kann dies die Beziehung retten – weil beide schließlich erkennen, dass das andere nicht der Problem ist. Das Nervensystem-Muster ist das Problem.
+Manchmal kann dies die [Beziehung retten](/blog/beziehung-retten-kompletter-guide) – weil beide schließlich erkennen, dass das andere nicht der Problem ist. Das Nervensystem-Muster ist das Problem.
 
 Manchmal wird es nur ein verkehrtes Drama.
 

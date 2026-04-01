@@ -85,7 +85,7 @@ Die meisten Menschen vermasseln dieses Gespräch, weil sie emotional reagieren s
 
 **Grenzen setzen, nicht Regeln.** Nach dem Gespräch könnt ihr gemeinsam überlegen, was okay ist. Das ist nicht: "Du darfst nicht mit Frauen reden." Das ist: "Wenn du jemanden triffst, sag mir Bescheid und sag auch mir wenn du diese Person weiterhin siehst." Das ist: "Ich möchte nicht dass du online mit jemandem flirtest." Grenzen sind Richtlinien, nicht Fesseln.
 
-## Wann ist es ernst: Das wahre Fremdgehen
+## Wann ist es ernst: Das wahre [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide)
 
 Lass mich eine Linie ziehen: Einmaliges Flirten auf einer Party ist nicht Fremdgehen. Ein süßes Kompliment ist nicht Fremdgehen. Ein lange Gespräch mit jemandem ist nicht Fremdgehen.
 

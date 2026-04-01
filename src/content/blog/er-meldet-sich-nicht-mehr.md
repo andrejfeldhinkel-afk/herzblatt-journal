@@ -61,7 +61,7 @@ Das ist nicht wirklich eine Ausrede für dich zu ignorieren, aber es ist manchma
 
 **Was du tun kannst:** Gib ihm ein bisschen Raum. Schreib nach ein paar Tagen eine simple, nichts-fordernde Nachricht: "Hey, ich hoffe, dass es dir gut geht. Wann haben wir Zeit?" Das zeigt, dass du da bist, aber nicht klammern.
 
-## Grund 3: Bindungsangst
+## Grund 3: [Bindungsangst](/blog/bindungsangst-komplett-guide)
 
 Er war sehr interessiert. Dann wurde es zu real. Die Beziehung wurde ernst. Und er hat Angst.
 

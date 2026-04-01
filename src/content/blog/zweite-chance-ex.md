@@ -91,7 +91,7 @@ Frag dich selbst — und frag den Ex:
 Die Antwort sollte konkret sein, nicht vage.
 
 "Ich habe viel über mich nachgedacht" ist nicht konkret genug.
-"Ich bin in Therapie gegangen, habe meine Bindungsangst adressiert, und jetzt kann ich vulnerabel mit dir sein" ist konkret.
+"Ich bin in Therapie gegangen, habe meine [Bindungsangst](/blog/bindungsangst-komplett-guide) adressiert, und jetzt kann ich vulnerabel mit dir sein" ist konkret.
 
 ### 3. Seid ihr beide bereit?
 
@@ -217,7 +217,7 @@ Für mehr über [heilung](/blog/aengstlicher-bindungsstil-heilen/) nach einer Tr
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
 
 - [Sexuelle Kompatibilität in Beziehungen: Warum es wichtig ist](/blog/sexuelle-kompatibilitaet/)
 - [Ex zurückgewinnen – Wann es sich lohnt und wann](/blog/ex-zurueck-sinnvoll/)

@@ -40,7 +40,7 @@ Es gibt mehrere Gründe, warum wir das tun:
 
 **Verliebte Neurochemie.** In den ersten 6-12 Monaten einer Beziehung ist dein Gehirn buchstäblich überflutet mit Neurochemikalien: Dopamin, Oxytocin, Noradrenalin. Diese Chemikalien machen die Person aussehen, als würde sie leuchten. Die Fehler verschwinden buchstäblich.
 
-**Bindungsangst.** Wenn du Angst vor Ablehnung hast, könnte dein Gehirn die andere Person idealisieren, damit du nicht SIEHST, dass sie einen Grund haben könnte, dich zu verlassen. Wenn die Person perfekt ist, können sie mich nicht verlassen.
+**[Bindungsangst](/blog/bindungsangst-komplett-guide).** Wenn du Angst vor Ablehnung hast, könnte dein Gehirn die andere Person idealisieren, damit du nicht SIEHST, dass sie einen Grund haben könnte, dich zu verlassen. Wenn die Person perfekt ist, können sie mich nicht verlassen.
 
 **Mangelnde [selbstliebe](/blog/allein-vs-einsam/).** Wenn du nicht viel von dir selbst denkst, können Menschen, die dich "mögen" oder zu mögen scheinen, wie himmlische Wesen wirken. Du bist so überrascht, dass sie dich überhaup mögen, dass du sie auf ein Podest stellst.
 

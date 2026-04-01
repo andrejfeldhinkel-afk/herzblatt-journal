@@ -61,7 +61,7 @@ Nach einer Sekte könntest du mehrere Probleme haben:
 
 **Vertrauensprobleme:** Du traust niemandem. Du denken, dass alle lügen, manipulieren, kontrollieren. Du liest böse Absichten in normale Handlungen.
 
-**Bindungsangst:** Du hast Angst, näher zu kommen, weil nähe Kontrolle bedeuten könnte. Du brauchst immer einen "Ausweg" aus der Beziehung.
+**[Bindungsangst](/blog/bindungsangst-komplett-guide):** Du hast Angst, näher zu kommen, weil nähe Kontrolle bedeuten könnte. Du brauchst immer einen "Ausweg" aus der Beziehung.
 
 **Überabhängigkeit oder Unabhängigkeit:** Manchmal brauchst du zu viel Bestätigung von deinem Partner (weil du daran gewöhnt warst, externe Validierung zu brauchen). Manchmal weigerst du dich, dich auf deinen Partner zu verlassen (weil du gelernt hast, nur auf dich selbst zu vertrauen). Beide sind problematisch.
 

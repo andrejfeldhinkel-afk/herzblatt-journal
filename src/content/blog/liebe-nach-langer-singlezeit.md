@@ -48,7 +48,7 @@ Wenn du deine Singlezeit gehasst hast, dann könntest du übereager sein. Du kö
 
 Beide sind Herausforderungen. Aber sie sind unterschiedliche Herausforderungen.
 
-## Die Bindungsangst verstehen
+## Die [Bindungsangst](/blog/bindungsangst-komplett-guide) verstehen
 
 Bindungsangst ist nicht "Angst vor Beziehungen". Das ist ein Missverständnis. Bindungsangst ist Angst vor Kontrollverlust.
 

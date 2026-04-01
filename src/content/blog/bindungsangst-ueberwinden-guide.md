@@ -2,6 +2,7 @@
 title: "Bindungsangst überwinden: Ursachen verstehen und Lösungen finden"
 description: "Bindungsangst überwinden mit konkreten Strategien. Verstehe die Ursachen deiner Beziehungsangst und lerne Schritt für Schritt Nähe zuzulassen."
 date: 2026-03-21
+draft: true
 tags:
   - "Psychologie"
   - "Beziehung"
@@ -23,7 +24,7 @@ faq:
 
 ## Bindungsangst überwinden: Dein Weg zu echter Nähe
 
-Du kennst das Gefühl vielleicht: Die Beziehung wird besser, der Partner wird liebevoller, alles scheint endlich zu klapfen — und auf einmal verspürst du einen inneren Widerstand. Ein Impuls zu fliehen. Eine unbegründete Verärgerung über kleine Dinge. Ein diffuses Gefühl, das dir sagt: Das ist falsch, das funktioniert nicht. Das ist Bindungsangst, und du bist damit nicht allein. Millionen Menschen kämpfen damit, ohne es manchmal überhaupt zu wissen. Die gute Nachricht: Bindungsangst lässt sich überwinden. Nicht über Nacht, aber mit Verständnis und systematischem Vorgehen. Dieser Leitfaden wird dir zeigen, wie.
+Du kennst das Gefühl vielleicht: Die Beziehung wird besser, der Partner wird liebevoller, alles scheint endlich zu klapfen — und auf einmal verspürst du einen inneren Widerstand. Ein Impuls zu fliehen. Eine unbegründete Verärgerung über kleine Dinge. Ein diffuses Gefühl, das dir sagt: Das ist falsch, das funktioniert nicht. Das ist [Bindungsangst](/blog/bindungsangst-komplett-guide), und du bist damit nicht allein. Millionen Menschen kämpfen damit, ohne es manchmal überhaupt zu wissen. Die gute Nachricht: Bindungsangst lässt sich überwinden. Nicht über Nacht, aber mit Verständnis und systematischem Vorgehen. Dieser Leitfaden wird dir zeigen, wie.
 
 ## Was ist Bindungsangst wirklich?
 

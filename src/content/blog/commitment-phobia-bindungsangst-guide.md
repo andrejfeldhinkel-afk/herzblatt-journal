@@ -39,7 +39,7 @@ Diese Gedanken sind invasiv. Sie sind nicht rational. Die Person mit Commitment 
 
 Commitment Phobia kann verschiedene Formen nehmen. Manche Menschen vermeiden aktiv Beziehungen. Manche Menschen sind in Beziehungen, sabotieren sie aber konstant. Manche Menschen sind Jahre mit jemandem zusammen, ohne jemals offiziell zu werden. Manche Menschen sind mit jemandem zusammen, weigern sich aber, über die Zukunft zu sprechen.
 
-## Die Ursprünge: Warum entwickelt man Bindungsangst?
+## Die Ursprünge: Warum entwickelt man [Bindungsangst](/blog/bindungsangst-komplett-guide)?
 
 Commitment Phobia kommt nicht aus dem Nichts. Es gibt normalerweise einen Grund — etwas aus der Kindheit, etwas aus einer Vergangenheitsbeziehung, oder etwas über die eigene Identität.
 

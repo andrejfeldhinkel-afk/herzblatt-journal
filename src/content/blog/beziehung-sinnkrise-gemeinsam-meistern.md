@@ -29,7 +29,7 @@ faq:
 
 Du kennst diese Momente. Du sitzt neben deinem Partner auf dem Sofa, ihr schaut eine Serie, und plötzlich überkommt dich eine Leere. Nicht, weil es einen großen Krach gibt. Nicht, weil die Liebe weg ist. Sondern weil plötzlich der Boden unter der Beziehung fehlt. Der Sinn. Das Warum.
 
-Eine Sinnkrise ist nicht einfach nur Liebeskummer oder ein Streit, der bald vorbei ist. Es ist eine tiefergehende Verunsicherung. Du fragst dich nicht mehr nur "Liebe ich diese Person noch?", sondern auch "Wozu liebe ich diese Person? Welchen Sinn hat unsere Beziehung? Was bauen wir zusammen auf? Bin ich auf dem richtigen Weg?"
+Eine Sinnkrise ist nicht einfach nur [Liebeskummer](/blog/liebeskummer-phasen-komplett) oder ein Streit, der bald vorbei ist. Es ist eine tiefergehende Verunsicherung. Du fragst dich nicht mehr nur "Liebe ich diese Person noch?", sondern auch "Wozu liebe ich diese Person? Welchen Sinn hat unsere Beziehung? Was bauen wir zusammen auf? Bin ich auf dem richtigen Weg?"
 
 Das kann brutal ehrlich sein. Viele Menschen denken, dass eine Sinnkrise ein untrügliches Zeichen ist, dass die Beziehung zu Ende geht. Das stimmt nicht. Es ist ein Zeichen dafür, dass ihr auf eine neue Ebene wechseln müsst. Dass die alte Form nicht mehr passt und ihr etwas Neues erfinden müsst.
 

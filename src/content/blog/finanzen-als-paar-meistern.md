@@ -403,4 +403,4 @@ Das ist grundlegend.
 - [Finanzen in der Beziehung fair regeln](/blog/beziehung-finanzen-gemeinsam-regeln/)
 - [Beziehung stärken nach finanzieller Krise oder Insolvenz](/blog/beziehung-nach-insolvenz/)
 - [Nach dem großen Vertrauensbruch: Reden oder gehen?](/blog/beziehung-nach-grossem-vertrauensbruch/)
-- [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
+- [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)

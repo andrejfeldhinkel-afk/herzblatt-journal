@@ -84,7 +84,7 @@ Wenn du dir das nicht vorstellen kannst oder wenn das beste Szenario immer noch 
 
 Wenn du dir aber vorstellen kannst, dass es besser wird, dass ihr wieder lachen zusammen, dass der andere Mensch sich ändert und ihr zusammen stärker werdet—dann lohnt sich der Kampf.
 
-## Die Beziehung retten: Konkrete Schritte für die letzte Chance
+## Die [Beziehung retten](/blog/beziehung-retten-kompletter-guide): Konkrete Schritte für die letzte Chance
 
 Wenn du dich entschieden hast, dass du kämpfen willst, hier sind die konkreten Schritte:
 

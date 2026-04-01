@@ -261,7 +261,7 @@ Das ist der Unterschied zwischen Neustart und Wiederholung. Ein Neustart bedeute
 
 Sei weise. Sei ehrlich. Sei mutig. Und egal was du entscheidest, stelle sicher, dass es deine Entscheidung ist, nicht die Angst.## Weiterlesen
 
-- [Partner will offene Beziehung: Was jetzt?](/blog/partner-will-offene-beziehung/)
+- [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
 - [Aktives Zuhören üben: Besser verstehen in 7 Schritten](/blog/aktives-zuhoeren-beziehung-ueben/)
 - [Beziehung mit großem Altersunterschied](/blog/beziehung-altersunterschied/)

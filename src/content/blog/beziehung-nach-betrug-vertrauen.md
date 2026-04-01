@@ -22,7 +22,7 @@ Der Moment, in dem du erfährst, dass dein Partner dich betrogen hat, ist einer 
 
 Die erste Instinktion ist oft: Trennen. Sofort. Für immer. Und das ist völlig legitim. Betrug ist nicht etwas, das man „übersehen" sollte, wie manche romantischen Filme es darstellen.
 
-Aber die Frage ist: Willst du die Beziehung retten? Oder willst du sie beenden?
+Aber die Frage ist: Willst du die [Beziehung retten](/blog/beziehung-retten-kompletter-guide)? Oder willst du sie beenden?
 
 Das ist nicht eine Frage, die andere beantworten können. Das ist nur eine Frage, die du beantworten kannst.
 

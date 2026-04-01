@@ -6,7 +6,7 @@ image: "/images/blog/beziehung-retten-12-schritte.webp"
 imageAlt: "Paar arbeitet an ihrer Beziehung"
 tags: ["Beziehung", "Paartherapie", "Kommunikation", "Konflikte", "Ratgeber"]
 keywords: ["Beziehung retten", "Beziehung Probleme", "Paartherapie", "Kommunikation", "Konflikte lösen"]
-draft: false
+draft: true
 author: "sarah-kellner"
 faq:
   - question: "Wann ist es zu spät, eine Beziehung zu retten?"

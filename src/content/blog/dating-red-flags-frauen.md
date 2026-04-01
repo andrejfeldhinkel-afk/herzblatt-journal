@@ -138,7 +138,7 @@ Ein Nein sollte annehmbar sein. Das ist ein fundamentaler Teil von Grenzen und R
 
 ## Die Unterscheidung: Red Flag vs. Insicherheit
 
-Hier ist es wichtig: Einige dieser Verhaltensweisen können auch aus Insicherheit kommen, nicht aus bewusster Böswilligkeit. Eine Frau, die eifersüchtig ist, könnte einfach unsicher sein – vielleicht wurde sie vorher betrogen, vielleicht hat sie Bindungsangst. Eine Frau, die ständig kritisiert, könnte aus einer Familie kommen, in der das normal war – vielleicht ist das die einzige Art, wie sie lieben gelernt hat.
+Hier ist es wichtig: Einige dieser Verhaltensweisen können auch aus Insicherheit kommen, nicht aus bewusster Böswilligkeit. Eine Frau, die eifersüchtig ist, könnte einfach unsicher sein – vielleicht wurde sie vorher betrogen, vielleicht hat sie [Bindungsangst](/blog/bindungsangst-komplett-guide). Eine Frau, die ständig kritisiert, könnte aus einer Familie kommen, in der das normal war – vielleicht ist das die einzige Art, wie sie lieben gelernt hat.
 
 Das bedeutet nicht, dass es in Ordnung ist. Es bedeutet, dass es einen Unterschied zwischen "reparierbar durch [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) und Arbeit" und "ein fundamentales Problem mit dieser Person" gibt.
 

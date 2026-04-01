@@ -89,7 +89,7 @@ Wenn du das alles notierst, wirst du wahrscheinlich ein Muster sehen. Ein Muster
 
 Das könnte aussehen wie:
 
-**Das Unavailable Pattern.** Deine Partner sind immer irgendwie nicht verfügbar. Sie haben einen Ex, auf den sie nicht ganz loslassen können. Sie sind zu fokussiert auf ihre Karriere. Sie haben Bindungsangst. Sie sind emotional distanziert. Es gibt immer einen Grund, warum sie nicht vollständig da sein können. Und du bist immer der, der hofft, dass sich das ändert.
+**Das Unavailable Pattern.** Deine Partner sind immer irgendwie nicht verfügbar. Sie haben einen Ex, auf den sie nicht ganz loslassen können. Sie sind zu fokussiert auf ihre Karriere. Sie haben [Bindungsangst](/blog/bindungsangst-komplett-guide). Sie sind emotional distanziert. Es gibt immer einen Grund, warum sie nicht vollständig da sein können. Und du bist immer der, der hofft, dass sich das ändert.
 
 **Das Drama Pattern.** Deine Beziehungen sind immer Achterbahnfahrten. Hochs und Tiefs. Manchmal sind es intensive, passionierte Verbindungen. Manchmal sind es Kriege. Aber es ist nie stabil, nie ruhig. Und du magst das, weil es sich lebendig anfühlt.
 

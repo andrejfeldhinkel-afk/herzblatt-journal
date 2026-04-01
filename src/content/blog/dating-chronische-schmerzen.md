@@ -161,7 +161,7 @@ Ein Therapeut, der Beziehungen UND chronische Schmerzen versteht, ist wertvoll. 
 
 ### 6. Eure eigenen Grenzen kennen – Selbstschutz ist wichtig
 
-Sie müssen nicht alles "ertragen". Wenn ein Partner aktiv nicht unterstützen will, das ist seine Wahl. Aber es bedeutet nicht, dass Sie die Beziehung retten müssen.
+Sie müssen nicht alles "ertragen". Wenn ein Partner aktiv nicht unterstützen will, das ist seine Wahl. Aber es bedeutet nicht, dass Sie die [Beziehung retten](/blog/beziehung-retten-kompletter-guide) müssen.
 
 ## Der Selbstwert – Das Fundament
 

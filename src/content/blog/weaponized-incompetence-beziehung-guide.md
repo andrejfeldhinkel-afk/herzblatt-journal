@@ -95,7 +95,7 @@ Es gibt auch Bindungsstil-Faktoren. Jemand mit einem avoidant-dismissive Bindung
 
 Was auf der psychologischen Ebene am oberflächlichsten passiert, ist dass die andere Person ihre Grenzen setzt, ohne dir wirklich Grenzen zu setzen. Sie sagt nicht "Ich werde das nicht tun" – das würde Konfrontation und Potenzial für Konflikt bedeuten. Sie sagt "Ich kann das nicht tun" – oder sie tut es so falsch, dass die Botschaft klar ist: "Vertrau mir nicht damit." Das fühlt sich ganz anders an. Die erste ist eine klare Grenzsetzung und könnte Respektlosigkeit sein. Die zweite ist... nun ja, wie kannst du jemanden verurteilen oder unter Druck setzen für etwas, das er angeblich nicht kann?
 
-Und du, mit deinem wahrscheinlich nicht gesunden Helfer-Syndrom oder deinem Bindungsangst, denkst: "Naja, jemand muss es tun. Ich liebe ihn, also muss ich das übernehmen." Also machst du es. Und damit unterrichtest du ihn, dass die Strategie funktioniert. Und die Fallstricke beginnen.
+Und du, mit deinem wahrscheinlich nicht gesunden Helfer-Syndrom oder deinem [Bindungsangst](/blog/bindungsangst-komplett-guide), denkst: "Naja, jemand muss es tun. Ich liebe ihn, also muss ich das übernehmen." Also machst du es. Und damit unterrichtest du ihn, dass die Strategie funktioniert. Und die Fallstricke beginnen.
 
 ## Die Folgen für die Beziehung und für dich persönlich – Der Unsichtbare Preis
 

@@ -178,7 +178,7 @@ Auf die Sexualität kann dies auch einen Einfluss haben. Einige Töchter narziss
 
 In romantischen Beziehungen wählen Töchter narzisstischer Mütter oft Partner, die ihren Müttern ähnlich sind. Sie fühlen sich zu Narzissten hingezogen, weil dies vertraut ist. Sie können auch Schwierigkeiten mit Vertrauen haben, weil sie nicht gelernt haben, dass Liebe konstant und sicher ist. Lies mehr über [Dating nach narzisstischer Beziehung](/blog/dating-nach-narzisstischer-beziehung-guide/) um deine Muster zu verstehen.
 
-Töchter narzisstischer Mütter könnten auch Bindungsangst entwickeln. Sie mögen Menschen nicht vertrauen und könnten sich unbewusst selbst sabotieren in Beziehungen, um zu verhindern, dass sie verletzt werden. Sie können auch Angst vor Nähe haben, weil Nähe in ihrer Familie bedeutet, ihre Grenzen verloren zu geben.
+Töchter narzisstischer Mütter könnten auch [Bindungsangst](/blog/bindungsangst-komplett-guide) entwickeln. Sie mögen Menschen nicht vertrauen und könnten sich unbewusst selbst sabotieren in Beziehungen, um zu verhindern, dass sie verletzt werden. Sie können auch Angst vor Nähe haben, weil Nähe in ihrer Familie bedeutet, ihre Grenzen verloren zu geben.
 
 Viele Töchter entwickeln auch perfektionistische Tendenzen. Sie haben gelernt, dass Liebe konditioniert ist — dass sie nur wertvoll sind, wenn sie perfekt sind, erfolgreich sind, attraktiv sind. Sie fahren sich selbst in den Burnout, um zu versuchen, genug zu sein.
 

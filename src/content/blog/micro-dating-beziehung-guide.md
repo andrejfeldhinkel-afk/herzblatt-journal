@@ -456,7 +456,7 @@ Das ist die Magie von Micro-Dating. Es ist nicht magisch – es ist [psychologie
 
 ## Fazit: Kleine Momente, große Effekt
 
-Das wichtigste ist zu verstehen: Die Moments, die eure Beziehung retten werden, sind nicht die großen, geplanten, teuren Momente. Sie sind die kleinen, alltäglichen, aufmerksamen Momente.
+Das wichtigste ist zu verstehen: Die Moments, die eure [Beziehung retten](/blog/beziehung-retten-kompletter-guide) werden, sind nicht die großen, geplanten, teuren Momente. Sie sind die kleinen, alltäglichen, aufmerksamen Momente.
 
 Ein täglicher Kaffee mit deinem Partner, ohne Handy, könnte wichtiger sein als ein großes romantisches Wochenende. Ein 10-Minuten-Spaziergang könnte eure Beziehung mehr helfen als eine Paartherapie.
 

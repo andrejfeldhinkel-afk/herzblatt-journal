@@ -315,7 +315,7 @@ Es funktioniert nicht, wenn:
 
 **1. Ein Partner grundsätzlich nicht kommunizieren will**
 
-GFK braucht bereitschaft von beiden Seiten. Wenn dein Partner refuses zu sprechen oder zu hören, kann GFK nicht alleine eine Beziehung retten. (Paartherapie könnte helfen.)
+GFK braucht bereitschaft von beiden Seiten. Wenn dein Partner refuses zu sprechen oder zu hören, kann GFK nicht alleine eine [Beziehung retten](/blog/beziehung-retten-kompletter-guide). (Paartherapie könnte helfen.)
 
 **2. Es gibt Missbrauch**
 

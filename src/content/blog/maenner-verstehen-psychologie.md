@@ -216,7 +216,7 @@ Erst dann kann er sich trauen, die Mauern runter zu lassen.
 
 ## Bindungsangst bei Männern: Das tiefste Labyrinth
 
-### Was ist Bindungsangst wirklich?
+### Was ist [Bindungsangst](/blog/bindungsangst-komplett-guide) wirklich?
 
 Bindungsangst ist nicht, dass ein Mann dich nicht liebt. Es ist, dass die Perspektive auf Verpflichtung ihn in Panik versetzt. Die Vorstellung, sich an jemanden zu binden, sich die Freiheit zu nehmen, sich für immer mit einer Person zu verbinden — das triggert in einem ängstlich gebundenen Mann echte Angst.
 

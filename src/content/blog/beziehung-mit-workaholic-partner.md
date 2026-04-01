@@ -201,7 +201,7 @@ Das wichtigste, das ich dir sagen kann: Du verdienst einen Partner, der da ist.
 
 Nicht perfekt da. Nicht immer da. Aber da.
 
-Wenn dein Partner grundsätzlich bereit ist, daran zu arbeiten, kann das funktionieren. Aber es muss von beiden Seiten kommen. Du kannst nicht allein die Beziehung retten, während dein Partner sich in Arbeit versteckt.
+Wenn dein Partner grundsätzlich bereit ist, daran zu arbeiten, kann das funktionieren. Aber es muss von beiden Seiten kommen. Du kannst nicht allein die [Beziehung retten](/blog/beziehung-retten-kompletter-guide), während dein Partner sich in Arbeit versteckt.
 
 Und wenn er/sie nicht bereit ist, dann musst du weiterziehen. Das ist nicht egoistisch. Das ist Selbstschutz.
 

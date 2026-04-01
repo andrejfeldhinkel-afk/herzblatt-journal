@@ -221,7 +221,7 @@ Wenn du Kinder willst und er nicht – oder umgekehrt – ist das eine massive I
 
 ### Red Flag 2: Fundamentale moralische Unterschiede
 
-Wenn dein Partner glaubt, dass es okay ist zu lügen und du nicht, ist das ein Wertkonflikt. Wenn er glaubt, dass Fremdgehen okay ist und du nicht, ist das ein Wertkonflikt.
+Wenn dein Partner glaubt, dass es okay ist zu lügen und du nicht, ist das ein Wertkonflikt. Wenn er glaubt, dass [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide) okay ist und du nicht, ist das ein Wertkonflikt.
 
 Diese Dinge werden dich verrückt machen.
 

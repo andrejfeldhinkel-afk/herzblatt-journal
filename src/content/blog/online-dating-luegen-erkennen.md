@@ -776,7 +776,7 @@ Größe: Die echte Größe oder zumindest nah dran (±2-3cm ist okay, wenn du un
 
 Beruf: Der echte Beruf. Nicht aufgebauscht, nicht erdacht. "Ich arbeite in der Buchhaltung für ein Tech-Unternehmen" ist besser als "Ich arbeite im Finance". Ehrlich ist sexy.
 
-Beziehungsstatus: Die Wahrheit. Wenn du noch verheiratet bist, aber getrennt, sag das. Wenn du offen für eine offene Beziehung bist, sag das.
+Beziehungsstatus: Die Wahrheit. Wenn du noch verheiratet bist, aber getrennt, sag das. Wenn du offen für eine [offene Beziehung](/blog/offene-beziehung-regeln-guide) bist, sag das.
 
 Rauchen/Trinken: Sei ehrlich. Das sind wichtige Informationen für dein Match. Wenn du täglich rauchst, sag es. Wenn du Alkoholiker bist und trocken, sag es. Menschen können damit umgehen, aber sie können nicht mit Lügen umgehen.
 

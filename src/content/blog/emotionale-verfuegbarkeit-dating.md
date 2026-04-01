@@ -49,7 +49,7 @@ Ein emotional verfügbare Partner führt zu:
 
 ## Die verschiedenen Typen von emotionaler Nicht-Verfügbarkeit
 
-**Der Vermeidende Typ:** Diese Person grunzt vor Intimität. Sie könnten schnell romantische Entwicklungen beenden oder einfach nicht näher werden. Sie könnten Bindungsangst haben.
+**Der Vermeidende Typ:** Diese Person grunzt vor Intimität. Sie könnten schnell romantische Entwicklungen beenden oder einfach nicht näher werden. Sie könnten [Bindungsangst](/blog/bindungsangst-komplett-guide) haben.
 
 **Der Beschäftigte Typ:** Sie haben buchstäblich keine Zeit oder Energie für eine Beziehung. Vielleicht gerade durchlebte Scheidung, Karriere-Krise, oder Familie Probleme.
 

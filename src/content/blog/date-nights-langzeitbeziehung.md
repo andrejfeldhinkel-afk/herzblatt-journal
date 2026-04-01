@@ -619,7 +619,7 @@ Ich möchte dir abschlussweise ein Mantra geben, das es wert ist, zu merken:
 
 Kleine konsistente Taten schlagen große gelegentliche Gesten.
 
-Es ist verlockend zu denken: "Ich werde einen großartigen Urlaub für mein Partner planen. Das wird unsere Beziehung retten."
+Es ist verlockend zu denken: "Ich werde einen großartigen Urlaub für mein Partner planen. Das wird unsere [Beziehung retten](/blog/beziehung-retten-kompletter-guide)."
 
 Das ist nicht wie es funktioniert.
 

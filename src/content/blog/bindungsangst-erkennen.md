@@ -2,6 +2,7 @@
 title: "Bindungsangst erkennen und überwinden"
 description: "Bindungsangst erkennen: Erkenne die Symptome und lerne konkrete Strategien zur Überwindung für tiefere Liebe und echte Beziehungen."
 date: 2025-04-04
+draft: true
 image: "/images/photos/bindungsangst-erkennen.webp"
 tags:
   - "beziehung"
@@ -13,7 +14,7 @@ tags:
 
 Du triffst jemanden und es ist anfangs magisch. Aber dann, wenn es ernsthaft wird, packst Du die Flucht. Oder Du sabotierst es unbewusst. Oder Du findest plötzlich Gründe, warum es nicht funktioniert.
 
-Das könnte Bindungsangst sein. Und sie ist weit verbreiteter als Du denkst.
+Das könnte [Bindungsangst](/blog/bindungsangst-komplett-guide) sein. Und sie ist weit verbreiteter als Du denkst.
 
 ## Was ist Bindungsangst?
 

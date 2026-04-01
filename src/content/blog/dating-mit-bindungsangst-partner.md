@@ -22,7 +22,7 @@ faq:
     answer: "Wenn die Person sich weigert, professionelle Hilfe zu suchen, dich emotional verletzt, Grenzverletzungen wiederholt oder du merkst, dass deine psychische Gesundheit leidet."
 ---
 
-## Einführung: Was ist Bindungsangst wirklich?
+## Einführung: Was ist [Bindungsangst](/blog/bindungsangst-komplett-guide) wirklich?
 
 Bindungsangst ist nicht einfach nur nervös vor Beziehungen zu sein. Es ist ein tiefes, oft unbewusstes Muster, das Menschen dazu bringt, sich gleichzeitig nach Nähe zu sehnen und diese zu fürchten. Dein bindungsängstlicher Partner könnte dich intensiv lieben und dich gleichzeitig unbewusst sabotieren, weil die Nähe zu überwältigend wird.
 

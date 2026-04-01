@@ -231,7 +231,7 @@ Selbstwertgefühl wird nicht über Nacht aufgebaut. Es ist Ergebnis von wiederho
 
 Du kannst neuen Partnern nicht vertrauen. Sogar wenn sie nett zu dir sind, warte ich auf den Schlag. Du beschuldigst sie von Dingen, die sie nicht getan haben, weil du erwartest, dass sie dich verletzen.
 
-Diese Bindungsangst ist keine Fehlerhaftigkeit in dir. Es ist eine normale Reaktion auf abnormale Behandlung. Mehr über dieses Thema erfährst du in unserem Artikel über [Selbstwert nach toxischer Beziehung](/blog/selbstwert-nach-toxischer-beziehung).
+Diese [Bindungsangst](/blog/bindungsangst-komplett-guide) ist keine Fehlerhaftigkeit in dir. Es ist eine normale Reaktion auf abnormale Behandlung. Mehr über dieses Thema erfährst du in unserem Artikel über [Selbstwert nach toxischer Beziehung](/blog/selbstwert-nach-toxischer-beziehung).
 
 ### Schlafstörungen, chronische Kopfschmerzen und körperliche Symptome
 

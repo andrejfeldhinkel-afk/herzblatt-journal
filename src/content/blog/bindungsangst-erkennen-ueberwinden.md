@@ -20,14 +20,14 @@ faq:
     answer: "Indem du weißt, was dir wirklich wichtig ist, authentisch auftrittst und offen für neue Erfahrungen bleibst."
   - question: "Wann sollte man professionelle Unterstützung holen?"
     answer: "Wenn bestimmte Muster sich wiederholen oder du allein nicht weiterkommst. Coaching oder Therapie sind ein Zeichen von Stärke."
-draft: false
+draft: true
 author: "sarah-kellner"
 ---
 
 
 ## Bindungsangst erkennen und überwinden
 
-Bindungsangst ist eine der frustrierendsten Dinge, die dir in einer [Beziehung](/blog/vergebung-nach-betrug) passieren können. Und dass Dumme daran? Oft weißt du gar nicht, dass du sie hast, bis es zu spät ist. Oder jemand gibt dir Feedback wie "Aber du zerstörst jede Beziehung!" – und du hast keine Ahnung, warum.
+[Bindungsangst](/blog/bindungsangst-komplett-guide) ist eine der frustrierendsten Dinge, die dir in einer [Beziehung](/blog/vergebung-nach-betrug) passieren können. Und dass Dumme daran? Oft weißt du gar nicht, dass du sie hast, bis es zu spät ist. Oder jemand gibt dir Feedback wie "Aber du zerstörst jede Beziehung!" – und du hast keine Ahnung, warum.
 
 Ich kenne viele Menschen, bei denen das genau so ist. Sie lieben jemanden wirklich. Aber wenn die Beziehung zu intensiv oder zu real wird, flippen sie aus. Sie finden plötzlich Fehler, die sie vorher nicht gesehen haben. Oder sie sabotieren alles, ohne wirklich zu wissen, warum.
 

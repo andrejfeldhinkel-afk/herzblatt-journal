@@ -82,7 +82,7 @@ Monogamie ist für viele queer Menschen die richtige Struktur. Und die Gesellsch
 
 ## Offene Beziehungen – Spektrum und Strukturen
 
-Eine offene Beziehung bedeutet, dass beide Partner sich außerhalb der Beziehung mit anderen Menschen physisch oder emotional (oder beides) verbinden dürfen.
+Eine [offene Beziehung](/blog/offene-beziehung-regeln-guide) bedeutet, dass beide Partner sich außerhalb der Beziehung mit anderen Menschen physisch oder emotional (oder beides) verbinden dürfen.
 
 Das ist nicht eine einzige Struktur. Es gibt hunderte von Variationen.
 

@@ -46,7 +46,7 @@ Denke auch über Deine Werte nach. Was ist Dir wichtig in einer Beziehung? Sind 
 
 Überlege auch, wie Du über Deine sexuelle Orientierung denkst. Bist Du stolz darauf? Bist Du noch unsicher oder wütend? Ist es etwas, über das Du gerne sprichst, oder ziehst Du es vor, privat zu bleiben? Es gibt keine richtige Antwort – es geht darum, ehrlich mit Dir selbst zu sein. Dies wird Dir helfen, partner zu finden, die Deine Perspektive verstehen und respektieren.
 
-Erkunde auch, welche Art von Beziehung Du suchst. Suchst Du eine langfristige Beziehung? Bist Du daran interessiert, zu erkunden? Suchst Du eine offene Beziehung? Es gibt viele verschiedene Arten von Beziehungsstrukturen in der queeren Community, und es ist wichtig, dass Du ehrlich mit Dir selbst und potenziellen Partnern über das bist, was Du suchst.
+Erkunde auch, welche Art von Beziehung Du suchst. Suchst Du eine langfristige Beziehung? Bist Du daran interessiert, zu erkunden? Suchst Du eine [offene Beziehung](/blog/offene-beziehung-regeln-guide)? Es gibt viele verschiedene Arten von Beziehungsstrukturen in der queeren Community, und es ist wichtig, dass Du ehrlich mit Dir selbst und potenziellen Partnern über das bist, was Du suchst.
 
 ## Die queere Community kennenlernen
 

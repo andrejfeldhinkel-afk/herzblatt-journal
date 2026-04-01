@@ -39,7 +39,7 @@ Ein verliebter Mann kann moody sein, aber nicht zu dir. Er ist nicht manchmal li
 
 Er kommt an, wenn er sagt, dass er kommt. Er ruft dich zurück, wenn er verspricht, dass er anruft. Er sagt, dass er dich liebt – und das zeigt sich nicht nur in Worten, sondern in Taten, die das bestätigen.
 
-Wenn ein Mann inkonsistent ist – manchmal sehr aufmerksam, manchmal völlig ghosting – dann ist das ein Zeichen, dass er nicht bereit ist für echte Liebe. Vielleicht hat er Bindungsangst. Vielleicht interessiert ihn jemand anderes. Aber wenn er dich wirklich liebt, wird er dir zeigen, dass du ihm wichtig bist.
+Wenn ein Mann inkonsistent ist – manchmal sehr aufmerksam, manchmal völlig ghosting – dann ist das ein Zeichen, dass er nicht bereit ist für echte Liebe. Vielleicht hat er [Bindungsangst](/blog/bindungsangst-komplett-guide). Vielleicht interessiert ihn jemand anderes. Aber wenn er dich wirklich liebt, wird er dir zeigen, dass du ihm wichtig bist.
 
 Die Konsistenz ist das Fundament. Alles andere baut darauf auf.
 

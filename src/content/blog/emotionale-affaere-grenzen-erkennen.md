@@ -408,6 +408,6 @@ Das ist gesunde Kommunikation.
 ## Das könnte dich auch interessieren
 
 - [Emotionale Erpressung in der Beziehung erkennen und stoppen](/blog/emotionale-erpressung-beziehung/)
-- [Micro-Cheating: Wo beginnt Fremdgehen wirklich?](/blog/micro-cheating-grenzen-beziehung/)
+- [Micro-Cheating: Wo beginnt [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide) wirklich?](/blog/micro-cheating-grenzen-beziehung/)
 - [Beziehung nach einer Affäre](/blog/beziehung-nach-affaere/)
 - [Beziehung nach Affäre retten: Ist das möglich?](/blog/beziehung-nach-affaere-retten-guide/)

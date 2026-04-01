@@ -183,6 +183,6 @@ Wenn der Partner das nicht geben kann – das ist sein/ihr Verlust, nicht deiner
 
 - [Partner kritisiert mich ständig: Wie reagiere ich richtig?](/blog/partner-kritisiert-mich-staendig/)
 - [Mein Partner nimmt mich nicht ernst — was tun?](/blog/partner-nimmt-mich-nicht-ernst/)
-- [Partner will offene Beziehung: Was jetzt?](/blog/partner-will-offene-beziehung/)
+- [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 - [Offene Kommunikation: So sagst du was du denkst](/blog/beziehung-offene-kommunikation/)

@@ -34,7 +34,7 @@ Die dritte Form ist das, wovon wir sprechen, wenn wir von echter Freundschaft na
 
 Wenn du ernsthaft darüber nachdenkst, mit deinem Ex-Partner befreundet zu sein, gibt es einige nicht verhandelbare Voraussetzungen:
 
-### 1. Der Liebeskummer muss vergangen sein
+### 1. Der [Liebeskummer](/blog/liebeskummer-phasen-komplett) muss vergangen sein
 
 Das ist die wichtigste Voraussetzung. Wenn du noch in deinen Ex [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, wenn du nachts an ihn denkst und hoffst, dass er dich eines Tages zurückruft, dann ist jetzt nicht die Zeit für eine Freundschaft. Eine einseitige Hoffnung auf Wiedervereinigung wird jede Freundschaft vergiften. Du wirst unbewusst versuchen, die alte Beziehung wiederherzustellen, du wirst dich von Berichten über sein neues Dating-Leben verletzt fühlen, und du wirst jede kleine Aufmerksamkeit überinterpretieren.
 

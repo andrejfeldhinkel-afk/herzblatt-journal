@@ -341,7 +341,7 @@ Statt zu gehen, sagte Jasper: "Ich verstehe. Lass mich dir zeigen, dass ich blei
 
 Mit Paartherapie und viel innerer Arbeit begann Sara, ihre Nervensystem-Reaktion zu erkennen. Sie lernte, dass die Panik nicht bedeutete, dass etwas falsch war. Es war nur alte Angst. Nach zwei Jahren war sie in der Lage zu bleiben, sich zu öffnen. Heute sind sie verheiratet.
 
-**Marcus, 38, anklammernd:** Marcus checkte sein Handy obsessiv, wenn sein Partner nicht antwortet. Ein Feierabend ohne Nachricht wurde zur Katastrophe. Seine Mutter verließ seinen Vater plötzlich — ohne Vorankündigung. Das verursachte bei Marcus einen Überraschungstrauma-Typ der Bindungsangst.
+**Marcus, 38, anklammernd:** Marcus checkte sein Handy obsessiv, wenn sein Partner nicht antwortet. Ein Feierabend ohne Nachricht wurde zur Katastrophe. Seine Mutter verließ seinen Vater plötzlich — ohne Vorankündigung. Das verursachte bei Marcus einen Überraschungstrauma-Typ der [Bindungsangst](/blog/bindungsangst-komplett-guide).
 
 In Therapie arbeitete Marcus an Selbstberuhigung. Er lernte: "Sein Nicht-Antworten bedeutet nicht, dass er geht. Menschen sind manchmal beschäftigt." Er praktizierte, sich selbst zu beruhigen, statt sich auf seinen Partner zu verlassen, um seine Angst zu regulieren.
 

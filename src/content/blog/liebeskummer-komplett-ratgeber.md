@@ -6,7 +6,7 @@ image: "/images/blog/liebeskummer-komplett-ratgeber.webp"
 imageAlt: "Person arbeitet an Selbstliebe nach Trennung"
 tags: ["Liebeskummer", "Trennung", "Heilung", "Selbstliebe", "Psychologie"]
 keywords: ["Liebeskummer", "Trennung verarbeiten", "Heilung", "Selbstliebe", "Trauerprozess"]
-draft: false
+draft: true
 author: "sarah-kellner"
 faq:
   - question: "Wie lange dauert es, über einen Menschen hinwegzukommen?"

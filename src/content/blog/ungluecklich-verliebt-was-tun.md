@@ -12,7 +12,7 @@ image: "/images/photos/ungluecklich-verliebt-was-tun.webp"
 imageAlt: "Frau schaut nachdenklich aus dem Fenster - wie man mit unglücklicher Liebe umgeht und loslässt"
 ---
 
-## Unglücklich [verliebt](/blog/mann-verliebt-anzeichen-komplett) – was tun? Dein Weg aus dem Liebeskummer
+## Unglücklich [verliebt](/blog/mann-verliebt-anzeichen-komplett) – was tun? Dein Weg aus dem [Liebeskummer](/blog/liebeskummer-phasen-komplett)
 
 Das Gefühl sitzt dir im Hals. Du denkst an diese Person, und dir wird schwer ums Herz. Du bist unglücklich verliebt, und nichts scheint diese Gefühle zu lindern. Das Schlimmste: Die Liebe ist nicht erwidert, oder die Person steht dir einfach nicht offen zur Verfügung. Du fragst dich verzweifelt: Was kann ich tun?
 

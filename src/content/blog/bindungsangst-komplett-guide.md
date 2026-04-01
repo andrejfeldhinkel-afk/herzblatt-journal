@@ -1,11 +1,11 @@
 ---
-title: "Bindungsangst verstehen und überwinden"
-description: "Kompletter Guide zu Bindungsangst: Ursachen, Symptome, Muster, wie du mit deiner Bindungsangst lebst, den Partner damit umgehen lässt, und wie Therapie..."
+title: "Bindungsangst: Ursachen, Symptome & wie du sie überwindest (2026)"
+description: "Bindungsangst erkennen und überwinden — Ursachen, 6 typische Symptome und bewährte Strategien für eine glückliche Beziehung trotz Bindungsangst."
 date: 2026-03-19
 image: "/images/blog/bindungsangst-komplett-guide.webp"
 imageAlt: "Mann sitzt am Fenster und blickt nach außen – symbolisch für emotionale Distanz und inneren Kampf"
 tags: ["Bindungstypen", "Beziehung", "Psychologie", "Intimität"]
-keywords: ["bindungsangst", "angststörung beziehung", "ambivalente bindung", "vermeidende bindung", "nähe angst"]
+keywords: ["bindungsangst", "bindungsangst überwinden", "bindungsangst symptome", "bindungsangst ursachen", "angststörung beziehung", "ambivalente bindung", "vermeidende bindung", "nähe angst"]
 draft: false
 author: "sarah-kellner"
 faq:

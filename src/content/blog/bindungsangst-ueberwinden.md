@@ -12,7 +12,7 @@ keywords:
   - "bindungsangst ursachen"
   - "angst vor nähe"
   - "beziehungsangst therapie"
-draft: false
+draft: true
 featured: false
 author: "thomas-peters"
 faq:
@@ -28,7 +28,7 @@ faq:
     answer: "Therapie kann helfen, aber es ist nicht magisch. Der Schlüssel ist deine Bereitschaft, unbequem zu werden, Verletzlichkeit zu üben und neue Verhaltensmuster zu schaffen."
 ---
 
-Bindungsangst überwinden: Warum du dich nicht einlassen kannst und was hilft
+[Bindungsangst](/blog/bindungsangst-komplett-guide) überwinden: Warum du dich nicht einlassen kannst und was hilft
 
 Du triffst diese wunderbare Person. Sie mag dich. Du magst sie auch – anfangs. Aber dann wird es zu eng. Du spürst, wie die Wände näher kommen. Du willst fliehen. Also tust du es. Du sabotierst die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) oder einfach – du hörst auf, dich zu melden.
 

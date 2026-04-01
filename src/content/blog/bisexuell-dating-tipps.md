@@ -383,7 +383,7 @@ Das ist psychologisch demolierend.
 
 ### James, Bi Mann, 35
 
-"Ich bin mit meiner Frau verheiratet und ich bin dankbar, dass sie meine Bisexualität akzeptiert. Sie verstand, dass nur, weil ich einen Mann attraktiv finde, nicht bedeutet, dass ich sie nicht liebe. Wir haben eine offene Beziehung aufgebaut, wo ich manchmal mit Männern flirten kann, und sie ist ok damit. Das funktioniert für uns."
+"Ich bin mit meiner Frau verheiratet und ich bin dankbar, dass sie meine Bisexualität akzeptiert. Sie verstand, dass nur, weil ich einen Mann attraktiv finde, nicht bedeutet, dass ich sie nicht liebe. Wir haben eine [offene Beziehung](/blog/offene-beziehung-regeln-guide) aufgebaut, wo ich manchmal mit Männern flirten kann, und sie ist ok damit. Das funktioniert für uns."
 
 **Lernpunkte:** Langzeitbeziehungen brauchen gegenseitiges Verständnis und Kommunikation über Bisexualität.
 

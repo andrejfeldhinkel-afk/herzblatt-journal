@@ -328,7 +328,7 @@ Es gibt bereits Antidepressiva (SSRIs), die Serotonin erhöhen, und sie haben al
 
 Ethisch ist dies natürlich kompliziert. Würde es ethisch sein, die Neurochemie der Liebe zu manipulieren? Würde das, wenn man verliebt ist, aufhören, echt zu sein? Diese sind keine einfachen Fragen, und es gibt kluge Menschen, die sich auf unterschiedliche Seiten positionieren.
 
-Es ist möglich, dass in Zukunft Menschen Medikamente haben könnten, um bei Liebeskummer zu helfen, um aus toxischen Beziehungen auszubrechen, oder um ihre bestehende Liebe zu vertiefen. Aber diese Zukunft ist noch weit weg, und es gibt viele ethische Bedenken, die zuerst berücksichtigt werden müssen.
+Es ist möglich, dass in Zukunft Menschen Medikamente haben könnten, um bei [Liebeskummer](/blog/liebeskummer-phasen-komplett) zu helfen, um aus toxischen Beziehungen auszubrechen, oder um ihre bestehende Liebe zu vertiefen. Aber diese Zukunft ist noch weit weg, und es gibt viele ethische Bedenken, die zuerst berücksichtigt werden müssen.
 
 ## Fazit: Die Schönheit in der Wissenschaft
 

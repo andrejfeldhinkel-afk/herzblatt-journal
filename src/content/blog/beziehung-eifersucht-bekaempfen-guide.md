@@ -129,7 +129,7 @@ Der erste Schritt ist zu verstehen: Woher kommt deine Eifersucht?
 - Ist es von deinem Selbstwert? ("Ich bin nicht genug")
 - Ist es von einem Trauma? ("Mein Ex betrog mich")
 - Ist es von einer echten Bedrohung? ("Mein Partner ist untreu")
-- Ist es von einer Bindungsangst? ("Ich werde verlassen")
+- Ist es von einer [Bindungsangst](/blog/bindungsangst-komplett-guide)? ("Ich werde verlassen")
 
 Schreib das auf. Sei ehrlich mit dir selbst.
 

@@ -30,7 +30,7 @@ Sie springen von einer Beziehung zur nächsten. Zwischen den Beziehungen können
 
 Sie idealisieren schnell und hart. Nach ein paar Dates siehst du die andere Person bereits als deinen Soulmate. Du weißt bereits, dass sie "die Eins" ist. Dein Gehirn springt zu Hochzeitsgedanken, während die andere Person dich noch kennenlernt.
 
-Sie entwickeln schnell Bindungsangst. Sobald es ernst wird, fängst du an zu klammern. Jede kleine Distanz wird als Ablehnung interpretiert. Du brauchst ständige Versicherungen. Du sendest viele Nachrichten. Du fängst an, die andere Person zu kontrollieren oder zu manipulieren, um sicherzustellen, dass sie bleibt.
+Sie entwickeln schnell [Bindungsangst](/blog/bindungsangst-komplett-guide). Sobald es ernst wird, fängst du an zu klammern. Jede kleine Distanz wird als Ablehnung interpretiert. Du brauchst ständige Versicherungen. Du sendest viele Nachrichten. Du fängst an, die andere Person zu kontrollieren oder zu manipulieren, um sicherzustellen, dass sie bleibt.
 
 Sie sind bereit zu lügen oder sich zu verstellen, um die Beziehung zu halten. Deine echte Meinung ist weniger wichtig als die Beziehung zu erhalten. Du bekommst das, was die andere Person will, und hoffst, dass sie dich dafür liebt.
 

@@ -64,7 +64,7 @@ Viele Throner haben ein fragiles Selbstvertrauen. Sie wissen nicht wirklich, wer
 
 Das ist auch ein Zeichen von Narzissmus. Nicht alle Throner sind Narzissten, aber viele narcissistische Merkmale findet man bei ihnen: das Bedürfnis nach Bewunderung, mangelnde Empathie, Instrumentalisierung anderer Menschen für eigene Ziele, ein aufgeblasenes Ego, das fragil ist.
 
-Einige Throner haben auch Bindungsangst. Wenn du emotional nahe wirst, greifen sie zu einem Abwehrmechanismus: Distanz. Indem sie dich als Objekt behandeln und nicht als Mensch, halten sie dich auf Distanz. Sie wollen die Vorteile einer Beziehung (Status, Attraktion, Bestätigung), ohne die Verletzlichkeit echter Nähe zu riskieren.
+Einige Throner haben auch [Bindungsangst](/blog/bindungsangst-komplett-guide). Wenn du emotional nahe wirst, greifen sie zu einem Abwehrmechanismus: Distanz. Indem sie dich als Objekt behandeln und nicht als Mensch, halten sie dich auf Distanz. Sie wollen die Vorteile einer Beziehung (Status, Attraktion, Bestätigung), ohne die Verletzlichkeit echter Nähe zu riskieren.
 
 Dann gibt es Throner, die in Umgebungen aufgewachsen sind, wo bedingungslose Liebe nicht existierte. Liebe war immer transaktional: Du wurdest geliebt, wenn du funktioniertest, aussahst wie erwartet oder die Familie repräsentiertest. Das ist alles, was sie kennen.
 

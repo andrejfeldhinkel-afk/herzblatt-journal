@@ -220,7 +220,7 @@ Das ist radikal anders von dem Verachtungsdenken: "Ich bin mehr wert als du, als
 
 Es ist: "Du bist ein Mensch mit Würde, auch wenn ich mit dir unzufrieden bin."
 
-Die Forschung zeigt: Paare, die es schaffen, von Verachtung zu Wertschätzung zu wechseln, können ihre Beziehung retten — sogar wenn vorher viel Schaden entstanden ist.
+Die Forschung zeigt: Paare, die es schaffen, von Verachtung zu Wertschätzung zu wechseln, können ihre [Beziehung retten](/blog/beziehung-retten-kompletter-guide) — sogar wenn vorher viel Schaden entstanden ist.
 
 ## Reiter 3: Defensivität — Die Mauer der Rechtfertigung
 

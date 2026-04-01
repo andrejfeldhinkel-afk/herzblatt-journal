@@ -257,7 +257,7 @@ Spricht mit deinem Partner. Lange, ehrliche Gespräche.
 
 "Wenn wir kämpfen, werden wir um Hilfe bitten?"
 
-Diese Fragen sind nicht romantisch. Aber sie könnten deine Beziehung retten.
+Diese Fragen sind nicht romantisch. Aber sie könnten deine [Beziehung retten](/blog/beziehung-retten-kompletter-guide).
 
 Und das ist das Wichtigste.
 

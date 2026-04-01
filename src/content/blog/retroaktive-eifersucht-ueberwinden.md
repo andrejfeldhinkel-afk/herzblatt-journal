@@ -55,7 +55,7 @@ Wenn du Angst hast verlassen zu werden, kann die Ex zum Symbol dieser Angst werd
 
 Die Wahrheit: Menschen verlassen dich nicht, weil eine Ex besser war. Sie verlassen dich, weil sie andere Bedürfnisse haben. Oder weil die Kompatibilität nicht passt. Oder weil dein Klammern (verursacht durch diese Eifersucht) sie erstickt.
 
-**Bindungsangst**
+**[Bindungsangst](/blog/bindungsangst-komplett-guide)**
 
 Manchmal sabotierst du unbewusst die Beziehung, weil du Angst vor der Nähe hast. Die retroaktive Eifersucht ist die Waffe, die du gegen dich selbst und gegen deinen Partner verwendest.
 

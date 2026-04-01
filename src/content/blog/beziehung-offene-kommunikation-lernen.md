@@ -1282,7 +1282,7 @@ Ein Paartherapeut berichtete: "Die meisten Beziehungs-Probleme sind nicht wirkli
 
 Ein weltbekannter Paartherapeut Dr. John Gottman hat vier Kommunikationsmuster identifiziert die fast sicher eine Beziehung zerstören. Sie heißen "Die vier Reiter."
 
-Wenn du diese erkennst und änderst, kannst du deine Beziehung retten.
+Wenn du diese erkennst und änderst, kannst du deine [Beziehung retten](/blog/beziehung-retten-kompletter-guide).
 
 **Reiter 1: Kritik**
 

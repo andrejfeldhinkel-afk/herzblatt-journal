@@ -22,7 +22,7 @@ faq:
     answer: "Normal flirten ist leicht und harmlos. Micro-Cheating hat eine versteckte Komponente und wird bewusst vor dem Partner verborgen."
 ---
 
-# Micro-Cheating: Wo beginnt Fremdgehen wirklich?
+# Micro-Cheating: Wo beginnt [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide) wirklich?
 
 Du kennst das Gefühl: Dein Partner schreibt mit jemandem so intensiv, dass du dich ausgeschlossen fühlst. Oder er/sie löscht schnell eine Nachricht weg, wenn du näherkommen. Das ist nicht unbedingt physisches Fremdgehen, aber es fühlt sich falsch an. Willkommen in der Welt des Micro-Cheating – einem Phänomen, das moderne Beziehungen mehr beschäftigt denn je.
 

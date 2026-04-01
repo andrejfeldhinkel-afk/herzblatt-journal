@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-## Warum ein Haushaltsbuch die Beziehung retten kann
+## Warum ein Haushaltsbuch die [Beziehung retten](/blog/beziehung-retten-kompletter-guide) kann
 
 Du und dein Partner sitzt abends zusammen und plötzlich gibt es ein heftiges Gespräch: „Wo ist denn unser ganzes Geld hin?" Keiner von euch weiß genau, wo jedes Euro ausgegeben wurde. Und statt eine Antwort zu haben, beschuldigt ihr euch gegenseitig zu viel zu kaufen.
 

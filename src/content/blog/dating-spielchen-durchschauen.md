@@ -66,7 +66,7 @@ Das ist der Kreislauf: heiß, kalt, heiß, kalt. Und mit jedem Zyklus bindest du
 
 Das Hot-and-Cold-Spielchen funktioniert, weil es eine psychologische Tatsache nutzt: unregelmäßige Verstärkung ist der effektivste Weg, um jemanden zu trainieren. Es ist das gleiche Prinzip, das Spielautomaten so süchtig macht.
 
-**Warum Menschen das spielen:** Meist sind das Menschen mit Bindungsangst. Sie mögen dich — wirklich. Aber je näher es wird, desto angespannter werden sie. Also ziehen sie sich zurück. Dann vermissen sie dich. Also kommen sie zurück. Das ist keine Liebe. Das ist Ambivalenz, die dich als Schachfigur behandelt.
+**Warum Menschen das spielen:** Meist sind das Menschen mit [Bindungsangst](/blog/bindungsangst-komplett-guide). Sie mögen dich — wirklich. Aber je näher es wird, desto angespannter werden sie. Also ziehen sie sich zurück. Dann vermissen sie dich. Also kommen sie zurück. Das ist keine Liebe. Das ist Ambivalenz, die dich als Schachfigur behandelt.
 
 ### 2. Breadcrumbing — er schmeißt dir Krümel hin
 
@@ -405,7 +405,7 @@ Mit Orbiting, die erste Schritt ist, dich von der Person zu trennen. Unfriend. U
 
 Ich weiß, dass das wie Overkill fühlt. Aber der Grund, dass diese Person weiterhin deine Stories ansieht, ist, dass es für sie einfach ist. Sie bekommt die Besten von dir — den Inhalt, den du kuratierst — ohne dir selbst echte Aufmerksamkeit zu geben.
 
-Durch die Trennung, du entziehst sie das. Und du entziehst dich selbst der ständigen Hoffnung, dass sie interagieren wird.
+Durch die [Trennung](/blog/trennung-verarbeiten-12-schritte), du entziehst sie das. Und du entziehst dich selbst der ständigen Hoffnung, dass sie interagieren wird.
 
 Die Nachricht, die du sendest: Du bist entweder in meinem Leben oder du bist nicht. Es gibt kein in-between.
 

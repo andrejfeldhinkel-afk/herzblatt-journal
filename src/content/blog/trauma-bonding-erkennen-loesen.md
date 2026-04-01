@@ -204,7 +204,7 @@ Trauma Bonding ist ein ernsthaftes psychologisches Phänomen, das professionelle
 
 Kognitive Verhaltenstherapie hilft dir, die verzerrten Denkmuster zu erkennen und zu verändern, die dich in der Bindung halten. EMDR kann traumatische Erinnerungen verarbeiten und ihre emotionale Ladung reduzieren. Somatische Therapie arbeitet direkt mit dem Körper, der die Trauma-Erfahrungen gespeichert hat.
 
-Such dir einen Therapeuten, der Erfahrung mit Beziehungstrauma und Bindungsstörungen hat. Nicht jeder Therapeut versteht Trauma Bonding — manche halten es für gewöhnlichen Liebeskummer. Du brauchst jemanden, der die spezifische Dynamik erkennt und gezielt behandeln kann.
+Such dir einen Therapeuten, der Erfahrung mit Beziehungstrauma und Bindungsstörungen hat. Nicht jeder Therapeut versteht Trauma Bonding — manche halten es für gewöhnlichen [Liebeskummer](/blog/liebeskummer-phasen-komplett). Du brauchst jemanden, der die spezifische Dynamik erkennt und gezielt behandeln kann.
 
 ---
 

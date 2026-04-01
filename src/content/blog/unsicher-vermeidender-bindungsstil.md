@@ -291,7 +291,7 @@ Hier ist die letzte Wahrheit: Vermeidende Menschen sind often kreativ, unabhenze
 
 Das ist nicht schlecht. Das ist großartig.
 
-Das Problem ist, dass diese Qualitäten vermischt mit Bindungsangst werden. Sie werden zum Schutz. Sie werden zum Ablehnung.
+Das Problem ist, dass diese Qualitäten vermischt mit [Bindungsangst](/blog/bindungsangst-komplett-guide) werden. Sie werden zum Schutz. Sie werden zum Ablehnung.
 
 Eine Person mit vermeidendem Bindungsstil kann tiefe, echte, liebevolle Beziehungen haben.
 

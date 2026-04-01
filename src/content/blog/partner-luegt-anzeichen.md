@@ -283,7 +283,7 @@ Eine Beziehung ohne Vertrauen ist nicht nachhaltig. Du verdienst jemanden, der d
 
 ## Vertrauen nach einer Lüge wiederherstellen
 
-Wenn dein Partner gelogen hat, aber ihr beide wollt die Beziehung retten, wie wird das Vertrauen wiederhergestellt?
+Wenn dein Partner gelogen hat, aber ihr beide wollt die [Beziehung retten](/blog/beziehung-retten-kompletter-guide), wie wird das Vertrauen wiederhergestellt?
 
 Mehr zum Thema erfährst du auf Caritas Beratung: [Caritas Beratung](https://www.caritas.de/)
 

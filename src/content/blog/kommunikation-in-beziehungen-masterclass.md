@@ -524,7 +524,7 @@ Das ist nicht ein Zeichen, dass deine Beziehung vorbei ist. Das ist ein Zeichen,
 - Dein erstes Gespräch sollte sich sicher anfühlen
 - Wenn es nicht passt, wechsle Therapeuten
 
-Paartherapie funktioniert. Die Forschung zeigt, dass die Mehrzahl der Paare, die Paartherapie machen, ihre Beziehung retten.
+Paartherapie funktioniert. Die Forschung zeigt, dass die Mehrzahl der Paare, die Paartherapie machen, ihre [Beziehung retten](/blog/beziehung-retten-kompletter-guide).
 
 ## Die tiefste Kommunikation: Erotisches Verständnis
 

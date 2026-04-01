@@ -19,7 +19,7 @@ faq:
     answer: "Wenn einer von euch sagt: 'Ich kann nicht länger versuchen, daran zu arbeiten.' Oder wenn der untreue Partner keine Schuld nimmt/sich nicht ändert. Oder wenn du dich selbst auf Kosten der 'Heilung' verlierst. Es ist vorbei, wenn eine der Parteien es aufgibt."
 ---
 
-# Beziehung nach Fremdgehen: Aufarbeitung, Heilung und Wahrheit
+# Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Aufarbeitung, Heilung und Wahrheit
 
 Es gibt keinen Moment, der wie dieser ist. Der Moment, in dem du erfährst, dass dein Partner fremdgegangen ist.
 

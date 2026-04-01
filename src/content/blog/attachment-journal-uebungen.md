@@ -314,7 +314,7 @@ Vereinbart zusammen ein Wort, das bedeutet: „Ich bin gerade im Angstzustand. I
 Einmal pro Woche, beide schreiben auf: Wie hat sich meine Bindung diese Woche angefühlt? Dann teilt ihr es. Nicht um zu urteilen, sondern um zu verstehen.
 
 **Paargemeinsam Übung 7: Die verletzliche Sharedown**
-Ihr sitzt euch gegenüber. Einer spricht für 10 Minuten über seine Bindungsangst, ohne unterbrochen zu werden. Der andere hört nur. Dann wechselt ihr. Dies schafft tiefe Intimität.
+Ihr sitzt euch gegenüber. Einer spricht für 10 Minuten über seine [Bindungsangst](/blog/bindungsangst-komplett-guide), ohne unterbrochen zu werden. Der andere hört nur. Dann wechselt ihr. Dies schafft tiefe Intimität.
 
 **Paargemeinsam Übung 8: Die Wiederverbindung nach Konflikt**
 Nach einem Argument, statt zu „reparieren", schreibt ihr beide: Was habe ich von meinem Partner in diesem Moment wirklich gebraucht? Dann sagt ihr es. Dies verhindert, dass Konflikte Bindung beschädigen.

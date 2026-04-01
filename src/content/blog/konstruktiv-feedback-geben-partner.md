@@ -132,7 +132,7 @@ Die beste Kritik ist also nicht diejenige, die dem anderen sagt, dass er falsch 
 Das ist der Unterschied zwischen Vorwurf und Vertrauen. Und dein Partner wird den Unterschied spüren.
 ## Weiterlesen
 
-- [Partner will offene Beziehung: Was jetzt?](/blog/partner-will-offene-beziehung/)
+- [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 - [Offene Kommunikation: So sagst du was du denkst](/blog/beziehung-offene-kommunikation/)
 - [Emotional unerreichbarer Partner: Warum du an eine Wand](/blog/emotional-unerreichbarer-partner/)

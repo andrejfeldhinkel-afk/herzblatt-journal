@@ -6,7 +6,7 @@ tags: ["Beziehung", "Kommunikation", "Paartherapie"]
 image: "/images/blog/beziehung-retten-ultimativer-guide.webp"
 imageAlt: "Paar in tiefem Gespräch und emotionaler Heilung"
 keywords: ["beziehung retten", "beziehungskrise", "paartherapie", "konflikt lösen", "beziehung verbessern"]
-draft: false
+draft: true
 featured: True
 author: "sarah-kellner"
 faq:

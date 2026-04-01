@@ -12,7 +12,7 @@ keywords:
   - "untreue verzeihen"
   - "beziehung nach fremdgehen"
   - "vertrauensbruch beziehung"
-draft: false
+draft: true
 featured: false
 author: "thomas-peters"
 faq:
@@ -28,7 +28,7 @@ faq:
 
 ## Fremdgehen verzeihen: Kann eine beziehung nach Untreue überleben?
 
-Dein Partner hat dich betrogen. Das Vertrauen ist weg, die Welt fühlt sich instabil an, und du fragst dich täglich: Soll ich gehen oder bleiben? Das ist vielleicht der schwerste Moment in einer Beziehung. Aber hier ist die Wahrheit: Verzeihen ist möglich, und ja, manche Beziehungen werden nach Fremdgehen sogar stärker. Das heißt nicht, dass es einfach ist. Es heißt nur, dass es einen Weg gibt.
+Dein Partner hat dich betrogen. Das Vertrauen ist weg, die Welt fühlt sich instabil an, und du fragst dich täglich: Soll ich gehen oder bleiben? Das ist vielleicht der schwerste Moment in einer Beziehung. Aber hier ist die Wahrheit: Verzeihen ist möglich, und ja, manche Beziehungen werden nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide) sogar stärker. Das heißt nicht, dass es einfach ist. Es heißt nur, dass es einen Weg gibt.
 
 ## Die psychologische Realität von Fremdgehen
 
@@ -44,7 +44,7 @@ Hier ist etwas, das die meisten Ratgeber dir nicht sagen: Menschen gehen aus kom
 
 Manche Menschen fremdgehen, weil sie sich in der Beziehung nicht wertgeschätzt fühlen. Sie bekommen zu wenig Aufmerksamkeit, Sex, oder emotionale Nähe – und statt darüber zu sprechen, suchen sie sie woanders. Das ist keine Entschuldigung, sondern ein Grund. Der Unterschied ist wichtig.
 
-Andere fremdgehen aus Impulsivität heraus. Sie haben keinen stabilen Selbstwert und brauchen ständige externe Validierung. Die andere Person macht ihnen [Komplimente](/blog/komplimente-fuer-maenner), fühlt sich erregend an, und im Moment kümmern sie sich nicht um die Konsequenzen. Das ist oft mit Bindungsangst oder narzisstischen Zügen verbunden.
+Andere fremdgehen aus Impulsivität heraus. Sie haben keinen stabilen Selbstwert und brauchen ständige externe Validierung. Die andere Person macht ihnen [Komplimente](/blog/komplimente-fuer-maenner), fühlt sich erregend an, und im Moment kümmern sie sich nicht um die Konsequenzen. Das ist oft mit [Bindungsangst](/blog/bindungsangst-komplett-guide) oder narzisstischen Zügen verbunden.
 
 Es gibt auch emotionales Fremdgehen: Der Partner baut eine enge emotionale Bindung zu jemand anderem auf – Geheimnis teilen, intensive Gespräche, gegenseitiges Verstehen – ohne dass es körperlich wird. Das zerstört manchmal sogar mehr Vertrauen als eine körperliche Affäre, weil es bedeutet, dass dein Partner dich als seinen emotionalen Partner ersetzt hat.
 
@@ -90,7 +90,7 @@ Verzeihen ist nicht das gleiche wie Versöhnung. Du kannst verzeihen – dem Par
 
 ## Die Bedingungen für echten Heilung
 
-Wenn du entscheidest, dass du verzeihen möchtest und die Beziehung retten möchtest, gibt es einige nicht verhandelbare Bedingungen.
+Wenn du entscheidest, dass du verzeihen möchtest und die [Beziehung retten](/blog/beziehung-retten-kompletter-guide) möchtest, gibt es einige nicht verhandelbare Bedingungen.
 
 Erstens: Dein Partner muss echte Reue zeigen. Das bedeutet nicht Tränen. Das bedeutet, dass er oder sie vollständig versteht, was er oder sie dir angetan hat. Sie müssen verstehen, wie ihre Lügen dich verletzt haben, wie ihr Handeln dein Vertrauen in die Beziehung zerstört hat, und wie sie dich tagtäglich verletzt haben, wenn sie die Affäre versteckt haben.
 

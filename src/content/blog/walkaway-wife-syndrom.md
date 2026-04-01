@@ -31,7 +31,7 @@ Das Walkaway-Wife-Syndrom ist ein psychologisches Phänomen, das in vielen moder
 
 Die Realität ist, dass das Walkaway-Wife-Syndrom ein stiller Prozess ist. Während der Mann möglicherweise denkt, dass alles in Ordnung ist, durchlebt die Frau eine tiefe emotionale [Trennung](/blog/trennung-verarbeiten-12-schritte). Sie kommuniziert möglicherweise ihre Unzufriedenheit, aber auf subtile Weise, die ihr Partner nicht versteht oder ignoriert. Sie versucht, die Situation zu ändern, aber wenn ihre Versuche ignoriert werden, zieht sie sich weiter zurück. Am Ende steht sie an einem Punkt, an dem sie die Liebe und Hoffnung aufgegeben hat.
 
-Dieser Artikel ist für Paare gedacht – besonders für Männer, die verstehen wollen, warum ihre Frauen gehen, und für Frauen, die erkennen möchten, ob sie selbst in diesem Prozess sind. Es ist auch für Menschen gedacht, die eine Beziehung retten wollen, bevor es zu spät ist.
+Dieser Artikel ist für Paare gedacht – besonders für Männer, die verstehen wollen, warum ihre Frauen gehen, und für Frauen, die erkennen möchten, ob sie selbst in diesem Prozess sind. Es ist auch für Menschen gedacht, die eine [Beziehung retten](/blog/beziehung-retten-kompletter-guide) wollen, bevor es zu spät ist.
 
 ## Was ist das Walkaway-Wife-Syndrom?
 

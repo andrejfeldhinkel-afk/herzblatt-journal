@@ -25,7 +25,7 @@ Vertrauen ist das Fundament jeder echten Beziehung. Ohne Vertrauen hast du nur e
 
 Das Problem: Viele von uns sind verletzt worden. Vielleicht von einem Partner, vielleicht von Eltern, vielleicht von Freunden. Diese Verletzungen hinterlassen Narben. Und diese Narben machen es schwer zu vertrauen.
 
-In diesem umfassenden Guide zeige ich dir, wie du Vertrauen aufbaust – von Grund auf, nach Vertrauensbrüchen und bei persönlichen Herausforderungen wie Bindungsangst.
+In diesem umfassenden Guide zeige ich dir, wie du Vertrauen aufbaust – von Grund auf, nach Vertrauensbrüchen und bei persönlichen Herausforderungen wie [Bindungsangst](/blog/bindungsangst-komplett-guide).
 
 ## Was ist Vertrauen wirklich?
 

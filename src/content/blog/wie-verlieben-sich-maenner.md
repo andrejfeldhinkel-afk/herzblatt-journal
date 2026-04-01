@@ -163,7 +163,7 @@ Wissenschaftlich dauert es für einen Durchschnittsmann 2-4 Monate, um in Phase 
 
 Commitment kommt später – zwischen Monat 6 und Monat 12. Das ist, wenn er weiß, dass das für lange Zeit sein soll.
 
-Wenn ein Mann nach 6 Monaten immer noch sagt, dass er "nicht sicher ist", muss du ehrlich mit dir selbst sein: Entweder hat er Bindungsangst (was bearbeitbar ist), oder du bist nicht die Richtige für ihn (das ist nicht deine Schuld, aber es ist wichtig zu wissen).
+Wenn ein Mann nach 6 Monaten immer noch sagt, dass er "nicht sicher ist", muss du ehrlich mit dir selbst sein: Entweder hat er [Bindungsangst](/blog/bindungsangst-komplett-guide) (was bearbeitbar ist), oder du bist nicht die Richtige für ihn (das ist nicht deine Schuld, aber es ist wichtig zu wissen).
 
 ## Rote Flaggen: Diese Anzeichen bedeuten NICHT Liebe
 

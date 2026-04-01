@@ -163,7 +163,7 @@ Emotional unerreichbare Frauen zeigen oft:
 - Sarkasmus und emotionale Distanzierung durch Humor
 - Perfektionismus in der Beziehung, aber keine echte Gefühlstiefe
 - Instrumentalisierung von Emotion (sie zeigen Gefühle, aber als Manipulation oder Kontrolle)
-- Bindungsangst kombiniert mit Unabhängenz-Drama
+- [Bindungsangst](/blog/bindungsangst-komplett-guide) kombiniert mit Unabhängenz-Drama
 
 Eine emotional unerreichbare Frau kann liebevoll wirken auf der Oberfläche, aber du wirst merken, dass du nicht wirklich zu ihr vordringst. Sie lässt dich nicht sehen, wer sie wirklich ist.
 
@@ -842,7 +842,7 @@ Echte Liebe hat Grenzen. Echte Liebe sagt: "Ich liebe dich, aber ich liebe mich 
 
 Wenn du merkst, dass du dich selbst aufopferst — deine Träume, deine Freunde, deine Gefühle — um deinen Partner zu halten, dann musst du aufhören.
 
-Die gute Nachricht: Grenzen setzen kann tatsächlich eine Beziehung retten. Ein Partner, der keine klaren Grenzen hat, ermutigt mehr Unerreichbarkeit. Ein Partner, der klar sagt "Das ist mein Limit", kann tatsächlich mehr Respekt auslösen.
+Die gute Nachricht: Grenzen setzen kann tatsächlich eine [Beziehung retten](/blog/beziehung-retten-kompletter-guide). Ein Partner, der keine klaren Grenzen hat, ermutigt mehr Unerreichbarkeit. Ein Partner, der klar sagt "Das ist mein Limit", kann tatsächlich mehr Respekt auslösen.
 
 ### Der lange Weg der Heilung
 

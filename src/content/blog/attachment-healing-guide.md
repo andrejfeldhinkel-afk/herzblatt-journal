@@ -508,7 +508,7 @@ A: Ja absolut. Du kannst mit dir selbst arbeiten, mit einem Therapeuten, oder mi
 
 A: Du kannst nicht jemanden heilen, der nicht geheilt werden will. Du kannst nur an dir selbst arbeiten. Manchmal, wenn du dich heilst, beginnt dein Partner auch – die Energie verändert sich. Manchmal nicht, und dann musst du entscheiden, ob du in dieser Beziehung bleiben willst.
 
-**F: Ist Bindungsangst normal?**
+**F: Ist [Bindungsangst](/blog/bindungsangst-komplett-guide) normal?**
 
 A: Ja. Auch sichere Menschen haben Bindungsangst manchmal. Der Unterschied ist, dass sichere Menschen mit ihr umgehen können, ohne zu panieren.
 

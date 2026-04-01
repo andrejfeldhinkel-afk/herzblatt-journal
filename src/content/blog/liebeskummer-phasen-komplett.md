@@ -1,12 +1,12 @@
 ---
-title: "Liebeskummer Phasen: Was passiert in dir und wann wird es besser"
-description: "Liebeskummer Phasen verstehen und durchleben. Erfahre was in jeder Phase passiert, wie lange sie dauert und was dir wirklich hilft."
+title: "Liebeskummer überwinden: Phasen, Dauer & was wirklich hilft (2026)"
+description: "Liebeskummer überwinden mit Experten-Tipps. Die 5 Phasen verstehen, wie lange es dauert und was dir wirklich hilft — Schritt für Schritt zurück ins Leben."
 author: "sarah-kellner"
 image: "/images/blog/liebeskummer-phasen-komplett.webp"
 imageAlt: "Liebeskummer Phasen Komplett"
 date: 2026-03-21
 tags: [Psychologie, Heilung, Selbstliebe]
-keywords: ["liebeskummer phasen", "liebeskummer dauer", "liebeskummer überwinden", "herzschmerz phasen"]
+keywords: ["liebeskummer", "liebeskummer überwinden", "liebeskummer phasen", "liebeskummer dauer", "liebeskummer überwinden tipps", "herzschmerz überwinden", "herzschmerz phasen"]
 faq:
   - question: "Wie lange dauert Liebeskummer durchschnittlich?"
     answer: "Die Dauer von Liebeskummer variiert je nach Länge der Beziehung, emotionaler Nähe und persönlicher Verarbeitungsfähigkeit. Für kurze Beziehungen können es wenige Wochen sein, für längere Partnerschaften können es Monate oder Jahre dauern. Psychologen sagen, dass die intensive Phase etwa 3-6 Monate dauert, danach wird es graduell leichter."

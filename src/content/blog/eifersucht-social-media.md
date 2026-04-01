@@ -308,7 +308,7 @@ Indem ihr euch gegenseitig vertraut.
 
 Und indem ihr bewusstsein macht, dass die Realität besser ist als das, was auf Instagram gezeigt wird.
 
-Das ist die Wahrheit, die eure Beziehung retten kann.
+Das ist die Wahrheit, die eure [Beziehung retten](/blog/beziehung-retten-kompletter-guide) kann.
 
 ---
 

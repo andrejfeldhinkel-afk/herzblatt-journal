@@ -26,7 +26,7 @@ faq:
   - question: "Wann sollte man nach Fremdgehen definitiv gehen?"
     answer: "Wenn der Partner keine Reue zeigt, die Affäre nicht beendet, dich für deine Gefühle beschuldigt oder wiederholt untreu war. Auch wenn du nach langer Zeit merkst, dass du nicht verzeihen kannst."
 ---
-Dein Herz pocht bis zum Hals. Die Worte sind gefallen: „Ich bin dir untreu gewesen" oder „Ich habe jemanden getroffen." In diesem Moment fühlt sich deine Welt an, als würde sie auseinanderfallen. Der **Vertrauensbruch** durch Fremdgehen ist einer der schmerzhaftesten Momente in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/) — doch es ist nicht automatisch das Ende der Geschichte.
+Dein Herz pocht bis zum Hals. Die Worte sind gefallen: „Ich bin dir untreu gewesen" oder „Ich habe jemanden getroffen." In diesem Moment fühlt sich deine Welt an, als würde sie auseinanderfallen. Der **Vertrauensbruch** durch [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide) ist einer der schmerzhaftesten Momente in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/) — doch es ist nicht automatisch das Ende der Geschichte.
 
 Die Frage, die sich dir jetzt stellt, ist kompliziert und nicht mit einfachen Ja- oder Nein-Antworten zu beantworten: Kann diese Beziehung überleben? Und vor allem: Sollte ich es versuchen?
 

@@ -108,7 +108,7 @@ Zusammenziehen ist nicht der Beweis von Liebe. Das sollte es nie sein. Es sollte
 
 ## Weiterlesen
 
-- [Partner will offene Beziehung: Was jetzt?](/blog/partner-will-offene-beziehung/)
+- [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)
 - [Zusammenziehen: Der komplette Guide für den großen Schritt](/blog/zusammenziehen-richtig-planen/)
 - [Mein Partner nimmt mich nicht ernst — was tun?](/blog/partner-nimmt-mich-nicht-ernst/)
 - [Fernbeziehung beenden: Zusammenziehen](/blog/beziehung-fernbeziehung-zusammenziehen/)

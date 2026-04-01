@@ -438,4 +438,4 @@ Dies ist die Arbeit der Liebe – alltäglich, manchmal unbequem, aber absolut s
 - [Kommunikation in Beziehungen: Die Masterclass](/blog/beziehung-kommunikation-masterclass/)
 - [Beziehung retten: Der komplette Guide mit 25 bewährten Strategien](/blog/beziehung-retten-kompletter-guide/)
 - [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung/)
-- [Partner will offene Beziehung: Was jetzt?](/blog/partner-will-offene-beziehung/)
+- [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)

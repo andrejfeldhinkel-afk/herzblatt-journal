@@ -159,7 +159,7 @@ Das ist verdächtig.
 
 Dein Partner hat plötzlich neue Freunde auf Instagram oder Facebook, mit denen er regelmäßig in Kontakt ist. Und du kennst diese Menschen nicht.
 
-## Emotionales vs. physisches Fremdgehen
+## Emotionales vs. physisches [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide)
 
 Es gibt zwei Arten von Untreue: emotional und physisch.
 

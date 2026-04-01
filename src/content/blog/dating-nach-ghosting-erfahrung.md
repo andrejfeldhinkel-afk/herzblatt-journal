@@ -47,7 +47,7 @@ Das ist, warum Ghosting schlecht ist — nicht nur für die Person, die [geghost
 Der wichtigste Punkt zuerst: Ghosting sagt NICHTS über deinen Wert aus. Das ist nicht über dich. Das ist über die andere Person.
 
 Menschen ghosten aus den unterschiedlichsten Gründen:
-- **Bindungsangst**: Sie wurden emotional zu verbunden und hatten Angst, also liefen sie weg
+- **[Bindungsangst](/blog/bindungsangst-komplett-guide)**: Sie wurden emotional zu verbunden und hatten Angst, also liefen sie weg
 - **Eine Ex ist wieder aufgetaucht**: Es hatte nichts mit dir zu tun
 - **Emotionale Unreife**: Sie wussten nicht, wie sie eine schwierige Konversation führen sollten
 - **Sie sind einfach nicht interessiert**: Manchmal ist es nichts Dramatisches — sie sind einfach weitergezogen

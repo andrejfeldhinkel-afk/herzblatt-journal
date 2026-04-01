@@ -74,7 +74,7 @@ Das ist emotional. Du wirst nervös sein. Das ist normal.
 
 **Vergleich mit deinem Ex:** Das werden Sie machen. Das ist normal, aber nicht hilfreich. Sage dir selbst: Das ist ein neuer Mensch. Nicht besser oder schlechter.
 
-**Angst vor Verpflichtung:** Eine Scheidung kann Bindungsangst verursachen. Das ist verständlich, aber thematisiere es mit deinem Date nicht sofort. Arbeite daran, bevor du jemanden kennenlernst.
+**Angst vor Verpflichtung:** Eine Scheidung kann [Bindungsangst](/blog/bindungsangst-komplett-guide) verursachen. Das ist verständlich, aber thematisiere es mit deinem Date nicht sofort. Arbeite daran, bevor du jemanden kennenlernst.
 
 **Finanzielle Belastung:** Wenn Unterhaltszahlungen oder andere Verpflichtungen dein Dating komplizieren - teile das mit, aber nicht beim ersten Date. Später, wenn es ernst wird.
 

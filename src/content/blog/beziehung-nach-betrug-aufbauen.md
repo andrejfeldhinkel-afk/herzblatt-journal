@@ -209,7 +209,7 @@ Aber wenn beide Partner bereit sind zu arbeiten, können Beziehungen nicht nur �
 
 Nicht alle Betrügereien sind gleich. Der Kontext und die Umstände können unterschiedlich sein, und der Heilungsprozess kann variieren:
 
-**Emotionale Affäre vs. physischer Betrug**: Eine emotionale Affäre – wo emotionale und möglicherweise kleine physische Intimität stattfand – kann manchmal schwerer zu heilen sein als ein Fremdgehen, das rein physisch war. Dies liegt daran, dass eine emotionale Verbindung tiefer geht. In anderen Fällen ist das reine physische Fremdgehen schwerer zu akzeptieren.
+**Emotionale Affäre vs. physischer Betrug**: Eine emotionale Affäre – wo emotionale und möglicherweise kleine physische Intimität stattfand – kann manchmal schwerer zu heilen sein als ein [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide), das rein physisch war. Dies liegt daran, dass eine emotionale Verbindung tiefer geht. In anderen Fällen ist das reine physische Fremdgehen schwerer zu akzeptieren.
 
 **Wiederholter Betrug**: Wenn das nicht das erste Mal ist, dass der Partner betrügt, ist die Heilung viel schwieriger. Der verwundete Partner muss sich fragen: Wird dies wieder passieren? Kann ich diesem Partner wirklich vertrauen? Diese sind legitime Fragen.
 

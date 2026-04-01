@@ -168,7 +168,7 @@ A: Nein, absolut nicht. Unterschiedliche Libido ist ein sehr häufiges Problem, 
 
 A: Nein, definitiv nicht. Sex erzwingen oder drängen ist eine Form von sexuellem Druck und ist schädlich für die Beziehung und das Wohlbefinden Deines Partners. Respekt und Einwilligung sind grundlegend für jede gesunde Beziehung. Druck wird das Problem nur verschärfen, nicht lösen. Es ist wichtig, die Grenzen Deines Partners zu respektieren, während Du auch Deine eigenen Grenzen kommunizierst.
 
-**F: Kann eine offene Beziehung die Lösung sein?**
+**F: Kann eine [offene Beziehung](/blog/offene-beziehung-regeln-guide) die Lösung sein?**
 
 A: Für manche Paare ja, aber nur wenn beide Partner das wirklich wollen und bereit sind, die Implikationen zu navigieren. Eine offene Beziehung wird nicht ein tieferes Problem in der Beziehung lösen – sie könnte es sogar verschärfen, wenn nicht sorgfältig navigiert. Wenn Du über eine offene Beziehung nachdenken, sollte das ein Gespräch mit Deinem Partner sein, nicht eine Lösung, die Du einseitig aufzwingst. Manche Paare finden, dass das Erlauben von sexueller Freiheit außerhalb der Beziehung Spannung reduziert und die Hauptbeziehung stärkt. Aber es braucht viel Vertrauen und Kommunikation.
 

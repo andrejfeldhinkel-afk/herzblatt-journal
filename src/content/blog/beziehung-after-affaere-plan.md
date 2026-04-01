@@ -46,7 +46,7 @@ Ein Partner, der nicht bereit ist, vollständig ehrlich zu sein, zeigt dir berei
 
 **Was du deinem Partner sagen solltest:**
 
-„Du hast mein Vertrauen gebrochen. Das ist eine schwerwiegende Verletzung. Ich bin noch nicht sicher, ob ich die Beziehung retten kann oder will. Aber wenn wir es versuchen, brauche ich folgende Dinge von dir:
+„Du hast mein Vertrauen gebrochen. Das ist eine schwerwiegende Verletzung. Ich bin noch nicht sicher, ob ich die [Beziehung retten](/blog/beziehung-retten-kompletter-guide) kann oder will. Aber wenn wir es versuchen, brauche ich folgende Dinge von dir:
 
 1. **Vollständige Transparenz.** Keine Lügen mehr. Keine versteckten Wahrheiten. Wenn ich eine Frage stelle, verdiene ich die volle Wahrheit.
 
@@ -123,7 +123,7 @@ Das ist verständlich, aber es ist auch eine emotionale Falle.
 
 **Die harte Wahrheit:**
 
-Das „Warum" hat mehr mit ihm zu tun als mit dir. Er könnte unsicher sein. Er könnte Bindungsangst haben. Er könnte an einem Trauma aus seiner Vergangenheit arbeiten. Er könnte sich unglücklich in der Beziehung gefühlt haben und nicht wissen, wie man darüber spricht. Alle diese Dinge sind seine Verantwortung zu heilen – nicht deine Schuld zu tragen.
+Das „Warum" hat mehr mit ihm zu tun als mit dir. Er könnte unsicher sein. Er könnte [Bindungsangst](/blog/bindungsangst-komplett-guide) haben. Er könnte an einem Trauma aus seiner Vergangenheit arbeiten. Er könnte sich unglücklich in der Beziehung gefühlt haben und nicht wissen, wie man darüber spricht. Alle diese Dinge sind seine Verantwortung zu heilen – nicht deine Schuld zu tragen.
 
 Die Affäre sagt nichts über deine Würde. Sie sagt nichts über deine Schönheit. Sie sagt nichts über deinen Wert. Sie sagt etwas über ihn.
 

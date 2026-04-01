@@ -790,7 +790,7 @@ Eine Beziehungspause kann funktionieren. Aber nur wenn:
 - Beide Menschen sind aligned über was die Pause ist für
 - Es gibt Honesty und keine Manipulation
 
-Wenn eine Pause erfolgreich ist, kann sie eine Beziehung retten. Wenn sie nicht erfolgreich ist, kann sie helfen beide Menschen zu sehen dass die Beziehung nicht funktioniert.
+Wenn eine Pause erfolgreich ist, kann sie eine [Beziehung retten](/blog/beziehung-retten-kompletter-guide). Wenn sie nicht erfolgreich ist, kann sie helfen beide Menschen zu sehen dass die Beziehung nicht funktioniert.
 
 Beides ist okay.
 

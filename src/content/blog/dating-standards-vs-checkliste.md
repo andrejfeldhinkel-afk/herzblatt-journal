@@ -79,7 +79,7 @@ Tiefe Angst leitet oft Checklisten an: Angst, dass du verletzt wirst. Angst, das
 
 Eine Checkliste fühlt sich an, als würde sie diese Ängste kontrollieren. Wenn die Person "die richtige ist", wird sie nicht gehen. Wenn die Person "erfolgreich" ist, wirst du nicht in Armut landen. Wenn die Person "klug" ist, wirst du keine langweilige Ehe haben.
 
-Das ist eine Illusion. Liebeskummer und Enttäuschung können jeden treffen, unabhängig davon, wie sorgfältig du deine Checkliste gemacht hast.
+Das ist eine Illusion. [Liebeskummer](/blog/liebeskummer-phasen-komplett) und Enttäuschung können jeden treffen, unabhängig davon, wie sorgfältig du deine Checkliste gemacht hast.
 
 Tatsächlich ist eine der sichersten Arten, Verletzungen in der Liebe zu vermeiden, nicht eine bessere Checkliste zu haben. Es ist, zu lernen, dich selbst zu lieben, weit genug, dass du nicht stirbst, wenn jemand geht.
 

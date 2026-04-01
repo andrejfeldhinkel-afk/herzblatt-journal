@@ -48,7 +48,7 @@ Du bist bereit, wenn du an die Zukunft denkst — nicht an die Vergangenheit. We
 
 ## Wann stellst du den neuen Partner vor?
 
-Dieser Punkt ist entscheidend. Zu früh vorgestellte Partner verwirren Kinder und erzeugen Bindungsangst. Zu spät vorgestellt wirkt es wie ein Geheimnis.
+Dieser Punkt ist entscheidend. Zu früh vorgestellte Partner verwirren Kinder und erzeugen [Bindungsangst](/blog/bindungsangst-komplett-guide). Zu spät vorgestellt wirkt es wie ein Geheimnis.
 
 Die Faustregel: Warte mindestens drei bis sechs Monate, bis die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) stabil ist. Stelle den neuen Partner zunächst in einem entspannten, unverfänglichen Setting vor — ein gemeinsamer Ausflug funktioniert besser als ein formelles Abendessen.
 

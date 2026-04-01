@@ -82,7 +82,7 @@ Und das Beste: Es kostet nichts außer ein bisschen Aufmerksamkeit.
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Komplimente richtig machen: Das Lob in Beziehungen](/blog/komplimente-richtig-machen), [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung), [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Komplimente richtig machen: Das Lob in Beziehungen](/blog/komplimente-richtig-machen), [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung), [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen).## Weiterlesen
 
 - [Komplimente richtig machen: Das Lob in Beziehungen](/blog/komplimente-richtig-machen/)
 - [Sexuelle Kompatibilität in Beziehungen: Warum es wichtig ist](/blog/sexuelle-kompatibilitaet/)

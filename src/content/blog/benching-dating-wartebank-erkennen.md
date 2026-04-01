@@ -32,7 +32,7 @@ Warum machen Menschen das? Es gibt mehrere Gründe, und Verständnis könnte dir
 
 **Die Angst vor Einsamkeit.** Der Bencher hat möglicherweise die tiefe Angst, allein zu sein. Statt eine echte Beziehung aufzubauen, sammelt er Optionen. Solange er dein Interesse hat, fühlt er sich weniger einsam. Das ist ein verdrehtes Sicherheitssystem, aber es ist menschlich.
 
-**Bindungsangst.** Manche Menschen haben echte Schwierigkeiten mit Intimität und Verpflichtung. Sie mögen dich, aber die Vorstellung, wirklich verletzlich zu werden, ist zu erschreckend. Also halten sie dich auf Distanz, genau nah genug, dass du nicht gehst.
+**[Bindungsangst](/blog/bindungsangst-komplett-guide).** Manche Menschen haben echte Schwierigkeiten mit Intimität und Verpflichtung. Sie mögen dich, aber die Vorstellung, wirklich verletzlich zu werden, ist zu erschreckend. Also halten sie dich auf Distanz, genau nah genug, dass du nicht gehst.
 
 **Niedrige Anstrengungsbereitschaft.** Manche Menschen sind einfach faul in der Liebe. Benching erfordert minimal Aufwand – ein gelegentlicher Text, ein Treffen pro Monat – während eine echte Beziehung tatsächliche Mühe erfordert. Der Bencher nimmt den einfachen Weg.
 

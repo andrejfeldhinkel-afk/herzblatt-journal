@@ -287,7 +287,7 @@ Wenn sie nicht kann – wenn sie zu krank ist, zu unwillig – dann musst du los
 
 Manchmal, nachdem eine Beziehung mit jemandem mit Borderline zu Ende geht, musst du heilen.
 
-Du könntest Bindungsangst entwickelt haben. Du könntest dich misstrauisch in neue Beziehungen begeben.
+Du könntest [Bindungsangst](/blog/bindungsangst-komplett-guide) entwickelt haben. Du könntest dich misstrauisch in neue Beziehungen begeben.
 
 Das ist normal. Das ist ein Trauma, das du durchgemacht hast.
 

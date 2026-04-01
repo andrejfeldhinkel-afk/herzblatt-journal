@@ -10,7 +10,7 @@ keywords:
   - "offene beziehung"
   - "polyamorie"
   - "beziehung"
-draft: false
+draft: true
 image: "/images/photos/offene-beziehung-regeln.webp"
 imageAlt: "Offene Beziehung Kommunikation"
 faq:
@@ -27,7 +27,7 @@ Aber offene Beziehungen funktionieren nur, wenn es starke Grenzen, gegenseitiger
 
 ## Was ist eine offene beziehung?
 
-Eine offene Beziehung ist in der Regel, wenn zwei Menschen in einer primären Beziehung sind, aber Freiheit haben, mit anderen Menschen Sex zu haben oder zu datieren. Das Wichtigste ist, dass es übereinstimmt und vereinbart ist.
+Eine [offene Beziehung](/blog/offene-beziehung-regeln-guide) ist in der Regel, wenn zwei Menschen in einer primären Beziehung sind, aber Freiheit haben, mit anderen Menschen Sex zu haben oder zu datieren. Das Wichtigste ist, dass es übereinstimmt und vereinbart ist.
 
 Dies ist unterschiedlich von Betrug, der Lüge und Verrat beinhaltet.
 

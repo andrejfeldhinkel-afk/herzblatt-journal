@@ -250,7 +250,7 @@ Wenn das passiert, habt ein ernstes Gespräch. „Ich glaube nicht, dass dies fu
 
 Dann entscheidt gemeinsam: Können wir Dinge verändern? Brauchen wir Unterstützung? Oder sollten wir getrennte Wege gehen?
 
-Manchmal, Änderungen werden die Beziehung retten. Manchmal, getrennte Wege ist die richtige Antwort.
+Manchmal, Änderungen werden die [Beziehung retten](/blog/beziehung-retten-kompletter-guide). Manchmal, getrennte Wege ist die richtige Antwort.
 
 Aber das Wichtige ist: Nicht zu verstecken in einer Beziehung, die nicht funktioniert. Das hilft niemandem.
 

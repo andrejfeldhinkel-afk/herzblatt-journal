@@ -162,6 +162,18 @@ export default defineConfig({
     '/blog/red-flags-erkennen': { status: 301, destination: '/blog/dating-red-flags-maenner-erkennen' },
     '/blog/dating-red-flags-komplett-guide': { status: 301, destination: '/blog/dating-red-flags-maenner-erkennen' },
     '/blog/dating-red-flags-erkennen-liste': { status: 301, destination: '/blog/dating-red-flags-maenner-erkennen' },
+    // Cannibalization fix round 2 (2026-04-01)
+    '/blog/bindungsangst-erkennen-ueberwinden': { status: 301, destination: '/blog/bindungsangst-komplett-guide' },
+    '/blog/bindungsangst-erkennen': { status: 301, destination: '/blog/bindungsangst-komplett-guide' },
+    '/blog/bindungsangst-ueberwinden': { status: 301, destination: '/blog/bindungsangst-komplett-guide' },
+    '/blog/bindungsangst-ueberwinden-guide': { status: 301, destination: '/blog/bindungsangst-komplett-guide' },
+    '/blog/liebeskummer-komplett-ratgeber': { status: 301, destination: '/blog/liebeskummer-phasen-komplett' },
+    '/blog/offene-beziehung-regeln': { status: 301, destination: '/blog/offene-beziehung-regeln-guide' },
+    '/blog/beziehung-retten-12-schritte': { status: 301, destination: '/blog/beziehung-retten-kompletter-guide' },
+    '/blog/beziehung-retten': { status: 301, destination: '/blog/beziehung-retten-kompletter-guide' },
+    '/blog/beziehung-retten-ultimativer-guide': { status: 301, destination: '/blog/beziehung-retten-kompletter-guide' },
+    '/blog/on-off-beziehung-raus-aus-kreislauf': { status: 301, destination: '/blog/on-off-beziehung-beenden' },
+    '/blog/fremdgehen-verzeihen': { status: 301, destination: '/blog/fremdgehen-verzeihen-kompletter-guide' },
   },
   compressHTML: true,
   build: {

@@ -32,7 +32,7 @@ Manchmal sind zwei Menschen einfach giftig zusammen. Sie bringen das Schlechtest
 
 In diese Situation können zwei Menschen, die sich lieben, keine produktiven Gespräche führen, weil die Emotionen zu hoch sind. Jedes Gespräch führt zu einem Konflikt. Jeder Versuch zu erklären, was dich verletzt hat, wird als Vorwurf gehört. Es ist unmöglich.
 
-Eine Pause, nur um körperlich voneinander getrennt zu sein und deine Emotionen zu verarbeiten, kann dir helfen, klarer zu denken. Das kann ein Weg sein, um zur Therapie zu gehen, deine eigenen Probleme zu untersuchen und dann zu entscheiden, ob die Beziehung retten kann. Eine einzelne Therapie (nicht Paartherapie) kann dir helfen zu verstehen, warum du in Mustern bist, die du nicht magst, und wie man das ändert.
+Eine Pause, nur um körperlich voneinander getrennt zu sein und deine Emotionen zu verarbeiten, kann dir helfen, klarer zu denken. Das kann ein Weg sein, um zur Therapie zu gehen, deine eigenen Probleme zu untersuchen und dann zu entscheiden, ob die [Beziehung retten](/blog/beziehung-retten-kompletter-guide) kann. Eine einzelne Therapie (nicht Paartherapie) kann dir helfen zu verstehen, warum du in Mustern bist, die du nicht magst, und wie man das ändert.
 
 Das ist eine legitime Nutzung von einer Beziehungspause – nicht als Bandaid, sondern als Zeit für intensive persönliche Arbeit.
 

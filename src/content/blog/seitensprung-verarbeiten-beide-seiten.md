@@ -210,7 +210,7 @@ In der zweiten Phase wird das "warum" erforscht. Warum hat der untreue Partner d
 
 Die dritte Phase konzentriert sich auf Vergebung und Wiederaufbau. Der Therapeut wird euch Techniken beibringen, um tiefe Verletzungen zu heilen und Nähe neu aufzubauen.
 
-Die Kosten für Paartherapie variieren. In Deutschland zahlen Krankenkassen oft 80 Euro pro Sitzung (bei einer Richtlinietherapeutin). Private Therapeuten verlangen 80-150 Euro pro Stunde. Eine vollständige Therapie könnte 40-60 Sitzungen dauern, was bedeutet 3000-9000 Euro. Es ist eine Investition, aber es könnte eure Beziehung retten.
+Die Kosten für Paartherapie variieren. In Deutschland zahlen Krankenkassen oft 80 Euro pro Sitzung (bei einer Richtlinietherapeutin). Private Therapeuten verlangen 80-150 Euro pro Stunde. Eine vollständige Therapie könnte 40-60 Sitzungen dauern, was bedeutet 3000-9000 Euro. Es ist eine Investition, aber es könnte eure [Beziehung retten](/blog/beziehung-retten-kompletter-guide).
 
 ![Paar macht einen Spaziergang und beginnt wieder zu kommunizieren](/images/blog/inline/seitensprung-neuanfang-entscheidung.webp)
 

@@ -102,7 +102,7 @@ Jemand, der Druck macht, wenn du Nein sagst, schmollt oder versucht, Schuldgefü
 
 **Sie sprechen negativ über Menschen in ihrem Leben**: Nicht nur Exen, sondern Familie, frühere Freunde, Kollegen. Wenn everyone in der Nähe dieser Person "ein Problem" ist, bist du möglicherweise als nächstes.
 
-**Sie reden zu schnell von Zukunft**: "Ich sehe uns verheiratet in zwei Jahren" — Nach zwei Monaten? Das ist nicht Romantik. Das ist wahrscheinlich Bindungsangst verkleidet als Commitment.
+**Sie reden zu schnell von Zukunft**: "Ich sehe uns verheiratet in zwei Jahren" — Nach zwei Monaten? Das ist nicht Romantik. Das ist wahrscheinlich [Bindungsangst](/blog/bindungsangst-komplett-guide) verkleidet als Commitment.
 
 **Sie sind zu perfekt, um wahr zu sein**: Alles an ihnen ist richtig. Sie haben nie einen schlechten Tag. Sie sind nie irritiert. Das ist nicht ein guter Mensch — das ist ein Mensch, der dir nicht seine wahre Seite zeigt.
 

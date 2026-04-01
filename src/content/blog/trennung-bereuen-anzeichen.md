@@ -22,7 +22,7 @@ Du sitzt auf der Couch, schaust dein Handy an und fragst dich zum hundertsten Ma
 
 Bevor wir uns den konkreten Anzeichen widmen, musst du eines verstehen: **Trennungsreue ist ein völlig menschliches Phänomen**. Unser Gehirn ist auf Bindung ausgerichtet. Eine Partnerschaft war Teil deiner täglichen Realität – und plötzlich ist sie weg. Das schmerzt, auch wenn die Trennung rational richtig war.
 
-Dazu kommt: In den ersten Wochen nach einer Trennung sehen wir oft nur die guten Seiten des Partners und der [beziehung](/blog/adhs-und-beziehung-komplett-guide/). Alle negativen Gründe, die zur Trennung führten, rücken in den Hintergrund. Das nennt sich "romantische Nostalgie", und es ist ein häufiger Grund, warum Menschen meinen, sie würden ihre Trennung bereuen – obwohl sie eigentlich nur Liebeskummer haben.
+Dazu kommt: In den ersten Wochen nach einer Trennung sehen wir oft nur die guten Seiten des Partners und der [beziehung](/blog/adhs-und-beziehung-komplett-guide/). Alle negativen Gründe, die zur Trennung führten, rücken in den Hintergrund. Das nennt sich "romantische Nostalgie", und es ist ein häufiger Grund, warum Menschen meinen, sie würden ihre Trennung bereuen – obwohl sie eigentlich nur [Liebeskummer](/blog/liebeskummer-phasen-komplett) haben.
 
 Ein weiterer Punkt: **Einsamkeit ist ein starker emotionaler Faktor**. Wenn dein Partner weg ist, merkst du ein echtes Loch im Alltag. Du hast niemanden mehr, mit dem du über deine Gedanken sprichst, niemanden, der dich abends umarmt. Diese fehlende Nähe kann sehr schmerzhaft sein – und das ist nicht dasselbe, wie die Person wirklich zu vermissen.
 

@@ -338,7 +338,7 @@ Das ist das Beste was du tun kannst: Dein eigenes Leben zurück.
 
 **Was sind Mommy Issues bei Männern?**
 
-Beziehungsmuster die durch eine überinvolvierte, narzisstische oder emotional abwesende Mutter entstanden sind. Sie zeigen sich als Bindungsangst, übermäßige Abhängigkeit von Frauen oder emotionale Unreife.
+Beziehungsmuster die durch eine überinvolvierte, narzisstische oder emotional abwesende Mutter entstanden sind. Sie zeigen sich als [Bindungsangst](/blog/bindungsangst-komplett-guide), übermäßige Abhängigkeit von Frauen oder emotionale Unreife.
 
 **Wie erkenne ich Mommy Issues bei meinem Partner?**
 

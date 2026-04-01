@@ -125,7 +125,7 @@ Menschen mit unsicheren Bindungsstilen – besonders der ängstlich-besessene St
 
 Ein ängstlich-besessener Bindungsstil entwickelt sich typischerweise, wenn die primäre Bezugsperson (meist die Mutter) manchmal sehr präsent und liebevoll ist, manchmal aber emotional nicht verfügbar oder sogar ablehnt. Das Kind lernt, dass Aufmerksamkeit nicht garantiert ist, sondern verdient werden muss. Es wird ein Experte darin, die Stimmungen des Elternteils zu lesen und sich anzupassen.
 
-Ein vermeidender Bindungsstil – obwohl oft mit Liebessucht nicht assoziiert – kann auch zu Liebessucht führen, besonders wenn es mit Bindungsangst vermischt wird. Diese Menschen vermeiden emotionale Nähe, aber wenn sie jemanden treffen, der sie „durchbrechen" kann, werden sie obsessiv.
+Ein vermeidender Bindungsstil – obwohl oft mit Liebessucht nicht assoziiert – kann auch zu Liebessucht führen, besonders wenn es mit [Bindungsangst](/blog/bindungsangst-komplett-guide) vermischt wird. Diese Menschen vermeiden emotionale Nähe, aber wenn sie jemanden treffen, der sie „durchbrechen" kann, werden sie obsessiv.
 
 Das ist nicht deine Schuld. Das ist nicht, weil du „zu viel" liebst. Das ist ein erlerntes Muster, eine Überlebensstrategie, die in deinem Körper gespeichert ist.
 

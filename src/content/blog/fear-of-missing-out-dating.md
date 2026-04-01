@@ -131,7 +131,7 @@ Dieser Typ hat echte FOMO. Nicht weil er schwierig ist. Sondern weil er ein inne
 
 Er fühlt sich in Beziehungen nie erfüllt. Er denkt ständig: "Was wenn es da draußen noch jemanden gibt der mich wirklich sehe?"
 
-Das ist nicht wirklich FOMO. Das ist Bindungsangst verkleidet als FOMO.
+Das ist nicht wirklich FOMO. Das ist [Bindungsangst](/blog/bindungsangst-komplett-guide) verkleidet als FOMO.
 
 Dieser Typ braucht nicht neue Menschen. Dieser Typ braucht Therapie.
 

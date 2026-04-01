@@ -97,7 +97,7 @@ Menschen, die eine schwierige Kindheit hatten, sind oft besonders anfällig für
 
 ### Bindungsangst — Der unbewusste Grund für Flucht
 
-Viele Ghoster leiden unter Bindungsangst. Diese Menschen können Nähe nicht ertragen. Je näher du ihnen kommst, desto unbequemer fühlen sie sich. Ihr Nervensystem schreit: "Gefahr! Flucht!" Anstatt das zu adressieren oder an sich selbst zu arbeiten, ghosten sie dich einfach. Es ist ihre Art, Sicherheit zu schaffen — indem sie abhauen.
+Viele Ghoster leiden unter [Bindungsangst](/blog/bindungsangst-komplett-guide). Diese Menschen können Nähe nicht ertragen. Je näher du ihnen kommst, desto unbequemer fühlen sie sich. Ihr Nervensystem schreit: "Gefahr! Flucht!" Anstatt das zu adressieren oder an sich selbst zu arbeiten, ghosten sie dich einfach. Es ist ihre Art, Sicherheit zu schaffen — indem sie abhauen.
 
 Menschen mit Bindungsangst sehen in Nähe oft eine Bedrohung ihrer Unabhängigkeit oder Autonomie. Sie haben gelernt, Beziehungen zu fürchten, möglicherweise weil wichtige Menschen in ihrer Kindheit unzuverlässig waren oder weil sie verlassen wurden. Ghosting ist ihre Fluchtreaktion, ihr Weg, Kontrolle über die Situation zu behalten — indem sie dich verlassen, bevor du sie verlässt. Sie wurden zuerst verlassen, und jetzt verlassen sie alle.
 

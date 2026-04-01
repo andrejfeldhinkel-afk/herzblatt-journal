@@ -168,7 +168,7 @@ Das ist ein Prozess, nicht etwas, das über Nacht passiert. Aber mit Engagement 
 
 Es gibt keine Schande darin, professionelle Hilfe zu suchen. Ein Paartherapeut kann euch Werkzeuge geben, um effektiver zu kommunizieren. Ein Therapeut kann dir helfen, deine eigenen Themen zu verstehen, die deine Beziehung beeinflussen. Hilfe zu suchen ist ein Zeichen von Stärke, nicht Schwäche.
 
-Wenn du merkst, dass ihr nicht alleine voran kommt, zögere nicht, einen Fachmann zu suchen. Oft kann ein paar Sitzungen eine Beziehung retten.
+Wenn du merkst, dass ihr nicht alleine voran kommt, zögere nicht, einen Fachmann zu suchen. Oft kann ein paar Sitzungen eine [Beziehung retten](/blog/beziehung-retten-kompletter-guide).
 
 ## 25. Liebe als Wahl treffen, nicht Gefühl
 

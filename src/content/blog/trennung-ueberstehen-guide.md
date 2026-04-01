@@ -140,7 +140,7 @@ Sei vorsichtig mit "Rebound"-Dating. Es ist okay, mit jemandem zu flirten. Aber 
 
 Sei vorsichtig mit gemeinsamen Freunden. Diese Freunde werden dich "neutral" sagen wollen. Das ist unmöglich. Entweder sie sind deine Freunde, oder sie sind nicht. Es ist okay, wenn ihr euch entwachst.
 
-## Physische Symptome von Liebeskummer
+## Physische Symptome von [Liebeskummer](/blog/liebeskummer-phasen-komplett)
 
 Menschen vergessen, dass Liebeskummer physisch ist. Dein Körper ist in Stress-Modus.
 

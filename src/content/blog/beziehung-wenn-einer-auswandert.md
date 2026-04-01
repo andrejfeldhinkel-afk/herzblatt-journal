@@ -132,7 +132,7 @@ Nutze das: Was braucht Partner wirklich? Was brauchst du?
 
 Auswanderung ist emotional schwer. Dein Gehirn registriert Bedrohung. Alles Sichere ist unsicher.
 
-Viele entwickeln Bindungsangst. Klammern fest. Aber: Klammern erstickt. Ersticken zu Trennung.
+Viele entwickeln [Bindungsangst](/blog/bindungsangst-komplett-guide). Klammern fest. Aber: Klammern erstickt. Ersticken zu Trennung.
 
 Stattdessen: Vertrau strategisch. Partner mit Freiheit bleibt eher als gefangener.
 

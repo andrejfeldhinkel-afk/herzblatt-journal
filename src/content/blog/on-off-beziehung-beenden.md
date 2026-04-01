@@ -1,13 +1,13 @@
 ---
-title: "On-Off Beziehung: Warum sie so süchtig macht und wie du aussteigst"
-description: "On-Off Beziehungen sind emotional zehrend und suchtähnlich. Erfahre, warum diese Muster entstehen, welche psychologischen Mechanismen dahinterstecken und wie du endlich aussteigen kannst."
+title: "On-Off Beziehung beenden: Raus aus dem toxischen Kreislauf (2026)"
+description: "On-Off Beziehung endlich beenden — warum diese Muster so süchtig machen, welche Psychologie dahintersteckt und wie du den Kreislauf durchbrichst."
 slug: on-off-beziehung-beenden
 author: sarah-kellner
 image: "/images/blog/on-off-beziehung-beenden.webp"
 imageAlt: "On Off Beziehung Beenden"
 date: 2026-03-21
 tags: ["Psychologie", "Beziehung", "Heilung"]
-keywords: ["on off beziehung", "on off beziehung beenden", "on off beziehung psychologie", "toxische on off beziehung"]
+keywords: ["on off beziehung", "on off beziehung beenden", "on off beziehung psychologie", "toxische on off beziehung", "on off beziehung beenden tipps", "toxische beziehung kreislauf", "on off beziehung warum"]
 featured: false
 faq:
   - question: "Kann man Beziehungsmuster verändern?"

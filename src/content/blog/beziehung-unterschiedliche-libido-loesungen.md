@@ -208,7 +208,7 @@ In diesem Fall gibt es einige tiefe Fragen zu stellen:
 
 Das bedeutet nicht, dass die Liebe nicht real ist. Das bedeutet nur, dass ein wichtiger Aspekt der Beziehung nicht funktioniert.
 
-**Sollten wir eine offene Beziehung in Betracht ziehen?** Das ist für manche Paare eine Option. Der Partner mit höhere Libido könnte mit jemandem anderem Sex haben (mit Wissen und Zustimmung des anderen Partners).
+**Sollten wir eine [offene Beziehung](/blog/offene-beziehung-regeln-guide) in Betracht ziehen?** Das ist für manche Paare eine Option. Der Partner mit höhere Libido könnte mit jemandem anderem Sex haben (mit Wissen und Zustimmung des anderen Partners).
 
 Das ist nicht ideal, aber für einige Paare funktioniert es besser als überhaupt kein Sex.
 

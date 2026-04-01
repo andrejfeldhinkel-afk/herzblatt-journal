@@ -251,7 +251,7 @@ Das ist verlockend, aber es ist kompliziert.
 
 ### Die Realität
 
-Offene Beziehungen funktionieren für manche Menschen. Aber wenn der Grund für die offene Beziehung ist, dass ein Partner nicht mit dem anderen schlafen möchte: Das ist oft ein Problem.
+Offene Beziehungen funktionieren für manche Menschen. Aber wenn der Grund für die [offene Beziehung](/blog/offene-beziehung-regeln-guide) ist, dass ein Partner nicht mit dem anderen schlafen möchte: Das ist oft ein Problem.
 
 Das Paar muss extrem kommunizieren und beide Partner müssen echtem agree. Wenn es ein Band-Aid für ein größeres Problem ist: Es wird nicht funktionieren.
 

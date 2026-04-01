@@ -27,7 +27,7 @@ faq:
 
 Du hast wahrscheinlich schon davon gehört. Dein Partner hat freundlich mit einer anderen Person geflirtet. Oder eine verschwiegene Nachricht geschrieben. Oder ein Like auf einem Foto hinterlassen, das... etwas zu flirty war.
 
-Und du fragst dich: Ist das Fremdgehen? Oder bin ich paranoid?
+Und du fragst dich: Ist das [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide)? Oder bin ich paranoid?
 
 Das ist die Grauzone des Micro-Cheating. Und es ist viel komplizierter, als es aussieht.
 

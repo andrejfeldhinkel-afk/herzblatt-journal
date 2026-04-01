@@ -1,12 +1,12 @@
 ---
-title: "Beziehung retten: Der komplette Guide mit 25 bewährten Strategien"
-description: "Beziehung retten mit 25 Experten-Strategien. Erfahre wann kämpfen lohnt, wie ihr wieder zueinander findet und wann loslassen besser ist."
+title: "Beziehung retten: 25 Strategien die wirklich funktionieren (2026)"
+description: "Beziehung retten mit 25 bewährten Experten-Strategien. Erfahre wann kämpfen lohnt, wie ihr wieder zueinander findet und wann Loslassen besser ist."
 date: 2026-03-21
 tags:
   - "Beziehung"
   - "Ratgeber"
   - "Kommunikation"
-keywords: ["beziehung retten", "beziehung retten tipps", "beziehung am ende retten", "partnerschaft retten"]
+keywords: ["beziehung retten", "beziehung retten tipps", "beziehung am ende retten", "partnerschaft retten", "ehe retten"]
 draft: false
 image: "/images/blog/beziehung-retten-kompletter-guide.webp"
 imageAlt: "Beziehung Retten Kompletter Guide"
@@ -459,7 +459,7 @@ Fangen Sie heute an.
 ## FAQ
 
 **Kann man jede Beziehung retten?**
-Nein, nicht jede Beziehung sollte gerettet werden. Wenn Missbrauch, wiederholtes Fremdgehen oder fundamentaler Respektverlust vorliegen, ist Loslassen oft der gesündere Weg.
+Nein, nicht jede Beziehung sollte gerettet werden. Wenn Missbrauch, wiederholtes [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide) oder fundamentaler Respektverlust vorliegen, ist Loslassen oft der gesündere Weg.
 
 **Wie lange dauert es, eine Beziehung zu retten?**
 Rechne mit 6-12 Monaten aktiver Arbeit. Veränderung braucht Zeit und die ersten Wochen sind meist die schwersten.

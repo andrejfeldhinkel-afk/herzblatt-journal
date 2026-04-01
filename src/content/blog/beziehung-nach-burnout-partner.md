@@ -214,4 +214,4 @@ Und wähle weise, wenn ist es Zeit zu gehen.
 - [Wenn der Partner sich zurückzieht: Ursachen und Lösungen](/blog/beziehung-nach-rueckzug-partner/)
 - [Partner beim Jobwechsel unterstützen](/blog/beziehung-partner-jobwechsel-unterstuetzen/)
 - [Beziehung nach Depression: Den Partner richtig stützen](/blog/beziehung-nach-depression-partner-stuetzen/)
-- [Partner will offene Beziehung: Was jetzt?](/blog/partner-will-offene-beziehung/)
+- [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)

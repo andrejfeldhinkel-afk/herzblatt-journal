@@ -169,7 +169,7 @@ Diese Klarheit hilft ungemein bei der Resilienz. Wenn du weißt, dass es eine En
 
 ## Paartherapie: Es ist kein Scheitern
 
-Wenn eure Beziehung unter Druck gerät – und das ist wahrscheinlich mit Schichtarbeit – dann denkt nicht, dass ihr scheitert. Paartherapie ist nicht nur für Paare, die am Rande der [Trennung](/blog/trennung-verarbeiten-12-schritte) stehen. Sie ist für Paare, die ihre Beziehung retten wollen, bevor es kritisch wird.
+Wenn eure Beziehung unter Druck gerät – und das ist wahrscheinlich mit Schichtarbeit – dann denkt nicht, dass ihr scheitert. Paartherapie ist nicht nur für Paare, die am Rande der [Trennung](/blog/trennung-verarbeiten-12-schritte) stehen. Sie ist für Paare, die ihre [Beziehung retten](/blog/beziehung-retten-kompletter-guide) wollen, bevor es kritisch wird.
 
 Ein guter Therapeut kann euch Werkzeuge geben, um mit Schichtarbeit umzugehen. Ein guter Therapeut kann euch helfen, nicht in die Muster von Schuldzuweisungen zu fallen.
 

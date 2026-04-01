@@ -103,7 +103,7 @@ Das klingt hart, und es kann in diesem Moment hart anfühlen. Aber es ist liebev
 
 Nicht jede Midlife-Crisis erfordert einen Therapeuten. Aber es gibt Punkte, an denen ihr professionelle Hilfe braucht. Das ist nicht schwach, das ist klug.
 
-Du solltest einen Therapeuten aufsuchen, wenn die emotionale Distanz so groß geworden ist, dass ihr nicht mehr produktiv miteinander reden könnt. Wenn ein Partner Gedanken hegt, sich selbst zu verletzen oder die Beziehung mit aller Gewalt zu beenden. Wenn es körperliche oder emotionale Gewalt gibt. Wenn ihr nicht wissen könnt, ob ihr die Beziehung retten wollt oder nicht – hier hilft ein Therapeut bei der Klärung.
+Du solltest einen Therapeuten aufsuchen, wenn die emotionale Distanz so groß geworden ist, dass ihr nicht mehr produktiv miteinander reden könnt. Wenn ein Partner Gedanken hegt, sich selbst zu verletzen oder die Beziehung mit aller Gewalt zu beenden. Wenn es körperliche oder emotionale Gewalt gibt. Wenn ihr nicht wissen könnt, ob ihr die [Beziehung retten](/blog/beziehung-retten-kompletter-guide) wollt oder nicht – hier hilft ein Therapeut bei der Klärung.
 
 Ein guter Paar-Therapeut kann euch helfen, wieder miteinander zu sprechen. Er ist nicht da, um die Beziehung zu retten oder zu beenden, sondern um euch beide besser zu verstehen und euch Werkzeuge zu geben, um miteinander klarzukommen. Er kann auch helfen, die Muster zu erkennen, die euch in diese Situation gebracht haben.
 

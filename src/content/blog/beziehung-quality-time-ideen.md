@@ -145,7 +145,7 @@ Die meisten Paare sagen: „Wir haben keine Zeit für Quality Time. Wir sind zu 
 
 Aber das ist nicht wahr. Ihr habt Zeit, ihr priorisiert es nur nicht.
 
-Wenn ich dir sagen würde, dass Quality Time deine Beziehung retten könnte – würdest du dann Zeit finden? Ja, wahrscheinlich.
+Wenn ich dir sagen würde, dass Quality Time deine [Beziehung retten](/blog/beziehung-retten-kompletter-guide) könnte – würdest du dann Zeit finden? Ja, wahrscheinlich.
 
 Wenn ich dir sagen würde, dass deine Beziehung ohne Quality Time wahrscheinlich nicht lange hält – würdest du dann Zeit finden? Ja, wahrscheinlich.
 

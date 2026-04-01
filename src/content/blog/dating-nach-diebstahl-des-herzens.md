@@ -44,7 +44,7 @@ Du musst nicht böse sein, um zu benchen. Wenn du verstehst, warum Menschen das 
 
 **Optionen offen halten:** In der Welt der Dating-Apps ist es leicht, fünf Kontakte gleichzeitig lauwarm zu halten. Die Person bewertetet dich möglicherweise als interessant, aber hat auch noch andere Optionen. Du bist nicht falsch, du bist nur nicht die TOP-Option. Wenn die TOP-Option nicht funktioniert, hast du noch dich.
 
-**Bindungsangst:** Ein echtes Treffen bedeutet Nähe. Ein echtes Datum bedeutet Verwundbarkeit. Die Nähe, die ein echtes Date bringt, macht dieser Person Angst. Also hält sie dich auf digitale Distanz, ohne dich ganz gehen zu lassen. Sie sagt: "Ich mag dich, aber ich will dich nicht anfassen."
+**[Bindungsangst](/blog/bindungsangst-komplett-guide):** Ein echtes Treffen bedeutet Nähe. Ein echtes Datum bedeutet Verwundbarkeit. Die Nähe, die ein echtes Date bringt, macht dieser Person Angst. Also hält sie dich auf digitale Distanz, ohne dich ganz gehen zu lassen. Sie sagt: "Ich mag dich, aber ich will dich nicht anfassen."
 
 **Bequemlichkeit:** Manche Menschen genießen einfach die Bestätigung. Das Gefühl, dass jemand an ihnen interessiert ist, gibt ihnen ein Hochgefühl. Sie nicht WOLLEN etwas mit dir anfangen, aber sie mögen die Aufmerksamkeit.
 

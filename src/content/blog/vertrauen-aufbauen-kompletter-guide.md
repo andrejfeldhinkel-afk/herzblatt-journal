@@ -156,6 +156,6 @@ Vertrauen ist das absolute Herzstück, das fundamentale Zentrum einer erfüllten
 ## Das könnte dich auch interessieren
 
 - [Vertrauen nach einem Betrug aufbauen](/blog/vertrauen-nach-betrug/)
-- [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
+- [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
 - [Vertrauen aufbauen in der Beziehung: 12 bewährte Strategien](/blog/vertrauen-aufbauen-beziehung/)
 - [Fernbeziehung meistern – 15 Tipps für Liebe auf Distanz](/blog/fernbeziehung-tipps/)

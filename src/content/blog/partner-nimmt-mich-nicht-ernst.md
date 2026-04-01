@@ -190,7 +190,7 @@ Wenn du mehr über respektvolle Kommunikation lesen magst, schau dir [Bessere Ko
 - [Partner kritisiert mich ständig: Wie reagiere ich richtig?](/blog/partner-kritisiert-mich-staendig/)
 - [Partner vergleicht mich mit der Ex: So reagierst du](/blog/partner-vergleicht-mich-mit-ex/)
 - [Partner will nicht [zusammenziehen](/blog/zusammenziehen-checkliste): Was steckt dahinter?](/blog/partner-will-nicht-zusammenziehen/)
-- [Partner will offene Beziehung: Was jetzt?](/blog/partner-will-offene-beziehung/)
+- [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 ## FAQ
 
