@@ -5,7 +5,7 @@ date: 2026-04-02
 tags: [beziehungen, psychologie, offene-beziehung, emotionale-intelligenz, bindungstheorie]
 image: "/images/blog/offene-beziehung-psychologie-perspektive.webp"
 imageAlt: "Paar kommuniziert offen über ihre Beziehungsform"
-keywords: "offene Beziehung, Psychologie, emotionale Intelligenz, Bindungstheorie, Eifersucht"
+keywords: ["offene Beziehung", "Psychologie", "emotionale Intelligenz", "Bindungstheorie", "Eifersucht"]
 draft: false
 featured: false
 author: sarah-kellner

@@ -5,7 +5,7 @@ date: 2026-04-02
 tags: [verlobung, ring, hochzeit, schmuck]
 image: "/images/blog/verlobungsring-ratgeber-guide.webp"
 imageAlt: "Glänzender Verlobungsring mit Diamanten auf weißem Hintergrund"
-keywords: "verlobungsring, engagement ring, ring kaufen, diamantring"
+keywords: ["verlobungsring", "engagement ring", "ring kaufen", "diamantring"]
 draft: false
 featured: false
 author: "thomas-peters"

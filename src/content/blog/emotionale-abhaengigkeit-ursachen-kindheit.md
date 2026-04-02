@@ -5,7 +5,7 @@ date: 2026-04-02
 tags: [emotionale-abhängigkeit, kindheit, psychologie, bindung]
 image: "/images/blog/emotionale-abhaengigkeit-ursachen-kindheit.webp"
 imageAlt: "Kind und Eltern - Bindungsmuster entstehen in der Kindheit"
-keywords: "emotionale abhängigkeit kindheit, bindungstrauma, eltern, ursachen"
+keywords: ["emotionale abhängigkeit kindheit", "bindungstrauma", "eltern", "ursachen"]
 draft: false
 featured: false
 author: "sarah-kellner"

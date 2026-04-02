@@ -5,7 +5,7 @@ date: 2026-04-02
 tags: [beziehung, beziehungskrise, trennung, liebe]
 image: "/images/blog/beziehung-retten-partner-will-nicht.webp"
 imageAlt: "Paar sitzt sich gegenüber und schaut sich nicht an"
-keywords: "beziehung retten, partner will nicht, beziehung in der krise, trennung"
+keywords: ["beziehung retten", "partner will nicht", "beziehung in der krise", "trennung"]
 draft: false
 featured: false
 author: "sarah-kellner"

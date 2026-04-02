@@ -5,7 +5,7 @@ date: 2026-04-02
 tags: [liebe, freundschaft, beste-freundin, romantische-gefühle, emotionale-intelligenz]
 image: "/images/blog/verliebt-in-beste-freundin.webp"
 imageAlt: "Zwei Freundinnen umarmen sich und schauen sich an"
-keywords: "verliebt in beste Freundin, Gefühle verstecken, Freundschaft bewahren, was tun"
+keywords: ["verliebt in beste Freundin", "Gefühle verstecken", "Freundschaft bewahren", "was tun"]
 draft: false
 featured: false
 author: sarah-kellner

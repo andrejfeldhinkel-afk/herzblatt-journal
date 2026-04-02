@@ -5,7 +5,7 @@ date: 2026-04-02
 tags: [patchwork-familie, blended-family, stiefkinder, beziehung]
 image: "/images/blog/patchwork-familie-probleme-loesen.webp"
 imageAlt: "Glückliche erweiterte Familie sitzt zusammen auf der Couch"
-keywords: "patchwork familie, blended family, stiefkinder, familiendynamik"
+keywords: ["patchwork familie", "blended family", "stiefkinder", "familiendynamik"]
 draft: false
 featured: false
 author: "sarah-kellner"

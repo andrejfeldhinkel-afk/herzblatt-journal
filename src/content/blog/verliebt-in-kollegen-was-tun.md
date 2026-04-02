@@ -5,7 +5,7 @@ date: 2026-04-02
 tags: [liebe, arbeitsplatz, kollegen, berufliche-grenzen, dating-tipps]
 image: "/images/blog/verliebt-in-kollegen-was-tun.webp"
 imageAlt: "Zwei Kollegen reden im Büro miteinander"
-keywords: "verliebt in Kollegen, Arbeitsplatz Liebe, wie damit umgehen, Risiken, Chancen"
+keywords: ["verliebt in Kollegen", "Arbeitsplatz Liebe", "wie damit umgehen", "Risiken", "Chancen"]
 draft: false
 featured: false
 author: laura-weber

@@ -5,7 +5,7 @@ date: 2026-04-02
 tags: [freundschaft-plus, gefühle, liebe, emotionale-intelligenz, beziehungsratgeber]
 image: "/images/blog/freundschaft-plus-gefuehle-entwickelt.webp"
 imageAlt: "Traurige Frau denkt über ihre Gefühle nach"
-keywords: "Freundschaft Plus Gefühle, verliebt in Freundschaft Plus, wie damit umgehen, Gefühle entwickelt"
+keywords: ["Freundschaft Plus Gefühle", "verliebt in Freundschaft Plus", "wie damit umgehen", "Gefühle entwickelt"]
 draft: false
 featured: false
 author: sarah-kellner

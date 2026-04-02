@@ -5,7 +5,7 @@ date: 2026-04-02
 tags: [emotionale-abhängigkeit, beziehung, psychologie, selbstliebe]
 image: "/images/blog/emotionale-abhaengigkeit-loesen-schritte.webp"
 imageAlt: "Frau sitzt nachdenklich und arbeitet an ihrer emotionalen Abhängigkeit"
-keywords: "emotionale abhängigkeit lösen, emotionale abhängigkeit überwinden, schritte, anleitung"
+keywords: ["emotionale abhängigkeit lösen", "emotionale abhängigkeit überwinden", "schritte", "anleitung"]
 draft: false
 featured: false
 author: "sarah-kellner"

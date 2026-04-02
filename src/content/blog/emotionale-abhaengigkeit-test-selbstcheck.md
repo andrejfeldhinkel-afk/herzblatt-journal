@@ -5,7 +5,7 @@ date: 2026-04-02
 tags: [emotionale-gesundheit, abhängigkeit, beziehungen, psychologie, selbsthilfe]
 image: "/images/blog/emotionale-abhaengigkeit-test-selbstcheck.webp"
 imageAlt: "Frau sitzt nachdenklich da und umarmt sich selbst"
-keywords: "emotionale Abhängigkeit Test, abhängig in Beziehung, Anzeichen emotionale Abhängigkeit, Selbstcheck"
+keywords: ["emotionale Abhängigkeit Test", "abhängig in Beziehung", "Anzeichen emotionale Abhängigkeit", "Selbstcheck"]
 draft: false
 featured: false
 author: sarah-kellner

@@ -5,7 +5,7 @@ date: 2026-04-02
 tags: [frauen, partnersuche, dating, beziehung]
 image: "/images/blog/warum-frauen-keinen-partner-finden.webp"
 imageAlt: "Nachdenkliche Frau schaut aus dem Fenster"
-keywords: "warum frauen keinen partner finden, partnersuche frau, single frau"
+keywords: ["warum frauen keinen partner finden", "partnersuche frau", "single frau"]
 draft: false
 featured: false
 author: "laura-weber"

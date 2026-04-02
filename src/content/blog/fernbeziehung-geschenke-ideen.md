@@ -5,7 +5,7 @@ date: 2026-04-02
 tags: [fernbeziehung, geschenke, liebe, beziehung]
 image: "/images/blog/fernbeziehung-geschenke-ideen.webp"
 imageAlt: "Liebevolles Geschenk in Geschenkpapier eingewickelt"
-keywords: "fernbeziehung geschenke, fernbeziehung ideen, geschenke für partner"
+keywords: ["fernbeziehung geschenke", "fernbeziehung ideen", "geschenke für partner"]
 draft: false
 featured: false
 author: "laura-weber"

@@ -5,7 +5,7 @@ date: 2026-04-02
 tags: [dating, liebe, schwarm, mut, authentizität, erste-schritte]
 image: "/images/blog/schwarm-ansprechen-tipps.webp"
 imageAlt: "Junger Mann spricht selbstbewusst mit einer Frau"
-keywords: "Schwarm ansprechen, wie spricht man jemanden an, erste Konversation, Dating Tipps, Mut"
+keywords: ["Schwarm ansprechen", "wie spricht man jemanden an", "erste Konversation", "Dating Tipps", "Mut"]
 draft: false
 featured: false
 author: markus-hoffmann

@@ -5,7 +5,7 @@ date: 2026-04-02
 tags: [liebe, beziehungen, anfang, romance, glück]
 image: "/images/blog/frisch-verliebt-phase-geniessen.webp"
 imageAlt: "Junges Paar küsst sich und lacht zusammen"
-keywords: "frisch verliebt Phase, Schmetterlinge im Bauch, neue Liebe, Beziehung anfang, Honeymoon Phase"
+keywords: ["frisch verliebt Phase", "Schmetterlinge im Bauch", "neue Liebe", "Beziehung anfang", "Honeymoon Phase"]
 draft: false
 featured: false
 author: laura-weber

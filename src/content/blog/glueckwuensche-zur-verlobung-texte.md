@@ -5,7 +5,7 @@ date: 2026-04-02
 tags: [verlobung, glückwünsche, hochzeit, liebe]
 image: "/images/blog/glueckwuensche-zur-verlobung-texte.webp"
 imageAlt: "Verlobtes Paar hält sich Hand mit Verlobungsringen"
-keywords: "glückwünsche verlobung, verlobung sprüche, texte zur verlobung"
+keywords: ["glückwünsche verlobung", "verlobung sprüche", "texte zur verlobung"]
 draft: false
 featured: false
 author: "laura-weber"

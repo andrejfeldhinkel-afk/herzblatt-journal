@@ -5,7 +5,7 @@ date: 2026-04-02
 tags: [fernbeziehung, psychologie, mental-health, beziehung]
 image: "/images/blog/fernbeziehung-psychische-belastung.webp"
 imageAlt: "Person schaut auf Handy und fühlt sich einsam"
-keywords: "fernbeziehung psychische belastung, fernbeziehung depression, fernbeziehung belastung"
+keywords: ["fernbeziehung psychische belastung", "fernbeziehung depression", "fernbeziehung belastung"]
 draft: false
 featured: false
 author: "sarah-kellner"

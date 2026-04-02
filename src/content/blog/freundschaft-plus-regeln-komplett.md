@@ -5,7 +5,7 @@ date: 2026-04-02
 tags: [freundschaft-plus, beziehungen, regeln-und-grenzen, emotionale-grenzen, dating-tipps]
 image: "/images/blog/freundschaft-plus-regeln-komplett.webp"
 imageAlt: "Zwei Freunde unterhalten sich offen über ihre Beziehung"
-keywords: "Freundschaft Plus, Regeln, mit Freund/in schlafen, emotionale Grenzen, Beziehungsregeln"
+keywords: ["Freundschaft Plus", "Regeln", "mit Freund/in schlafen", "emotionale Grenzen", "Beziehungsregeln"]
 draft: false
 featured: false
 author: markus-hoffmann

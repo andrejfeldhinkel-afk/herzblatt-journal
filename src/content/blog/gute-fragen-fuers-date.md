@@ -5,7 +5,7 @@ date: 2026-04-02
 tags: [dating, gespraeche, erste-treffen, beziehungen, verbindung]
 image: "/images/blog/gute-fragen-fuers-date.webp"
 imageAlt: "Couple spricht miteinander bei Kaffee"
-keywords: "Date Fragen, Gesprächsthemen Date, tiefe Fragen, wie man flirtet, erste Konversation"
+keywords: ["Date Fragen", "Gesprächsthemen Date", "tiefe Fragen", "wie man flirtet", "erste Konversation"]
 draft: false
 featured: false
 author: laura-weber

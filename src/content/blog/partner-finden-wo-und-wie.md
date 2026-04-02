@@ -5,7 +5,7 @@ date: 2026-04-02
 tags: [partnersuche, dating, beziehung, single]
 image: "/images/blog/partner-finden-wo-und-wie.webp"
 imageAlt: "Mann und Frau treffen sich und lächeln sich an"
-keywords: "partner finden, wo partner finden, dating tipps, partnersuche strategie"
+keywords: ["partner finden", "wo partner finden", "dating tipps", "partnersuche strategie"]
 draft: false
 featured: false
 author: "markus-hoffmann"
