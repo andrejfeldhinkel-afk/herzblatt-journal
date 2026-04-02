@@ -1,5 +1,5 @@
 ---
-title: "Beziehungspause: Guide zur Trennung auf Zeit – und wie man sie richtig macht"
+title: "Beziehungspause: Guide zur Trennung auf Zeit"
 description: "Sollte ihr eine Beziehungspause nehmen? Erfahre, wie eine Pause funktioniert, was du brauchst und wie ihr danach wieder zusammenkommt (oder nicht)."
 date: 2026-04-02
 tags: ["beziehungen", "trennung", "kommunikation", "liebe", "paartherapie"]
@@ -125,7 +125,7 @@ Hier ist die Wahrheit, die du hören musst: In den meisten Fällen endet eine Be
 
 Das ist nicht immer schlecht. Manchmal ist die Pause das, was ihr brauchte, um zu sehen, dass es vorbei war. Manchmal ist das ein Geschenk – eine klare Endzeit statt ein langsames, schmerzhaftes Sterben.
 
-[Lese auch unseren Artikel über Trennung und wie man damit umgehen](/blog/trennung-verarbeiten-guide).
+[Lese auch unseren Artikel über Trennung und wie man damit umgehen](/blog/trennung-verarbeiten-phasen).
 
 ## Wenn die Pause funktioniert
 

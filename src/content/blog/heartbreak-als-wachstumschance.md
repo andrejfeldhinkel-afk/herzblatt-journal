@@ -9,21 +9,7 @@ tags:
   - "Persönliches Wachstum"
   - "Resilienz"
 ---
-## Herzschmerz nutzen: Aus [Trennung](/blog/trennung-verarbeiten-12-schritte) wirklich wachsen
-
-Es gibt einen Moment, in dem du realisierst, dass es vorbei ist. Vielleicht hat er es dir gesagt. Vielleicht war es ein langsames Verblassen, ein Entwachsen in entgegengesetzte Richtungen, bis ihr schließlich auf verschiedenen Seiten eines Abgrundes waren. Vielleicht war es ein Betrug, ein Verrat, etwas, das du nicht kommen hast sehen.
-
-In diesem Moment durchläufst du nicht einfach Trauer. Dein ganzer Körper ist im Schock. Dein Gehirn verarbeitet die Realität, dass diese Person, mit der du Raum und Zeit geteilt hast, nicht länger Teil deines täglichen Lebens sein wird.
-
-Es gibt ein physisches Schmerz, der nicht metaphorisch ist. Es ist buchstäblich wie, wenn dein Herz, dein Körper, von innen reißt.
-
-Das ist nicht dramatisch. Das ist nicht zu viel. Das ist, dass dein Gehirn und dein Körper ein echtes neurologisches Ereignis verarbeiten – etwas so bedeutsam wie Trauer um einen geliebten Menschen oder körperlicher Schmerz.
-
-Aber hier ist das, was niemand dir sagt: Dieser Schmerz, so unerträglich wie er ist, ist auch eine Gelegenheit. Es ist nicht eine Gelegenheit auf eine inspirierende Instagram-Zitat-Art. Es ist eine echte, tiefe Gelegenheit, dich selbst zu verstehen, deine Muster zu erkennen und zu einer neuer Version von dir zu werden.
-
-Die Frage ist: Wirst du diese Gelegenheit ergreifen oder wirst du dich in den Schmerz verlaufen?
-
-## Die neurobiologische Wahrheit: Warum [Liebeskummer](/blog/liebeskummer-phasen-komplett) sich so körperlich anfühlt
+## Herzschmerz nutzen: Aus [Liebeskummer](/blog/liebeskummer-phasen-komplett) sich so körperlich anfühlt
 
 Der Grund, dass Liebeskummer sich so intensiv körperlich anfühlt, ist, dass es ist. Es ist nicht psychisch. Es ist nicht "nur in deinem Kopf". Es ist eine biochemische, neurologische Ereignis.
 
@@ -43,9 +29,7 @@ Das bedeutet nicht, dass du zwei Jahre in einem Depressions-Zustand sein wirst. 
 
 Etwas wichtiges, das die Menschen verwirrt: Du kannst traurig über eine Trennung sein, ohne über die tatsächliche Person traurig zu sein.
 
-Dies ist besonders wahr, wenn die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) für ein Jahr oder zwei kurz war, oder wenn die Beziehung lange war, aber die letzte Zeit was schwierig. Du könntest diese Person nicht haben wirklich gekannt. Oder du könntest sie gekannt haben, und du hast nicht wirklich gemocht, was du sah.
-
-Aber du trauest um die Idee. Du trauest um, was es hätte sein können. Du trauest um die Version von dir, die mit dieser Person war – eine Version, die jung war, oder [verliebt](/blog/mann-verliebt-anzeichen-komplett), oder hoffnungsvoll.
+Dies ist besonders wahr, wenn die [verliebt](/blog/mann-verliebt-anzeichen-komplett), oder hoffnungsvoll.
 
 Dies ist sein Trauern ist nicht falsch. Aber es ist anders als Trauern um die wirkliche Person.
 

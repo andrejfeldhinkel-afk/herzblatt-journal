@@ -351,74 +351,7 @@ Es gibt keine.
 
 Im ersten Monat deiner Arbeit an Selbstwertgefühl, du wirst nur bemerken. Bemerke deinen inneren Kritiker. Bemerke deine Grenzen nicht gesetzt. Bemerke deine Akzeptanz von schlechter Behandlung.
 
-Das ist nicht [heilung](/blog/aengstlicher-bindungsstil-heilen/). Das ist Bewusstsein. Aber es ist der erste Schritt.
-
-**Monat 2-3: Die Praxis**
-
-Jetzt beginnst du zu praktizieren. Du sagst nein zu etwas. Du stellst eine Grenze. Du sprichst mit deinem inneren Kritiker.
-
-Das fühlt sich falsch an. Du wirst dich schuldig fühlen. Das ist normal. Die neue Version von dir ist unbequem für die alte Version.
-
-Aber du machst es trotzdem.
-
-**Monat 4-6: Das Muster bricht**
-
-Um Monat vier, du wirst bemerken, dass etwas sich geändert hat. Du magst dich selbst ein wenig mehr.
-
-Du magst nicht alle deine Fehler akzeptiert haben. Aber du akzeptierst sie mit Mitgefühl statt Verachtung.
-
-Das ist eine große Verschiebung.
-
-**Monat 7-12: Der neue Normal**
-
-Nach einem Jahr, hohes Selbstwertgefühl ist keine Praxis. Es ist dein Zustand.
-
-Du wirst immer noch unsichere Momente haben. Das ist menschlich. Aber es ist nicht dein Standard.
-
-Dein Standard ist jetzt: "Ich bin würdig. Ich kümmere mich um meine Bedürfnisse. Ich verbinde mich mit Menschen, die mich respektieren."
-
-## Therapie-Ansätze für Selbstwertprobleme
-
-Es gibt mehrere bewährte Therapieformen für Selbstwertprobleme.
-
-**Cognitive Behavioral Therapy (CBT):** Dies konzentriert sich auf die Gedankenmuster, die dein Selbstwertgefühl sabotieren. Ein Therapeut hilft dir, diese Gedanken umzustrukturieren.
-
-**Schema-Therapie:** Dies konzentriert sich auf tiefe, unbewusste Überzeugungen, die du hast. Es ist langfristiger, aber tiefgreifender.
-
-Ein Schema ist ein tiefes Glaubensmuster wie "Ich bin nicht werth, geliebt zu werden." Schema-Therapie adressiert diese auf eine begründende Ebene.
-
-**Internal Family Systems (IFS):** Dies konzentriert sich auf die verschiedenen Teile von dir (dein inneres Kind, dein innerer Kritiker) und versucht, sie zu integrieren.
-
-Mit IFS, du lernst, den inneren Kritiker als einen Teil (nicht dein ganzer Sein) zu sehen, und du kommst mit diesem Teil auf verständliche Weise.
-
-**Psychodynamische Therapie:** Dies konzentriert sich auf, wie deine Kindheit und frühe Beziehungen deine Selbstwahrnehmung geformt haben.
-
-Wenn dein Elternteil kritisch war, wurdest du selbstkritisch. Diese Therapie würde adressieren, dass Verbindung und helfen, dich neu zu schreiben.
-
-**Was zu suchen in einem Therapeuten**
-
-Es ist nicht wichtig, welche Therapie. Es ist wichtig, dass du einen guten Therapeuten findest und dass du zuhörst.
-
-Ein guter Therapeut:
-- Macht dich nicht fühlen, geurteilt zu werden
-- Hilft dir, nicht nur zu reden, sondern zu handeln
-- Stellt Fragen, um tiefer zu gehen
-- Ist nicht neutral im Sinne unbeteiligte, aber neutral im Sinne, dass sie nicht einen Partnern nimmt
-- Gibt dir Werkzeuge, nicht nur Einsicht
-
-Wenn dein Therapeut keine dieser Dinge tut, ändere ihn. Es ist okay.
-
-## Erkenne giftige Muster früh — Ein tieferer Blick
-
-Wenn du niedriges Selbstwertgefühl hast, ziehst du oft toxische Partner an. Nicht weil du keine Wahl hast. Sondern weil toxische Partner wissen, wie man mit Menschen mit niedrigem Selbstwertgefühl arbeitet.
-
-Sie wissen, wie man dich klein hält. Wie man dich abhängig macht. Wie man dich kontrolliert.
-
-Das ist warum Selbstwertgefühl so wichtig ist. Es ist nicht egoistisch. Es ist Schutz.
-
-**Das "Love-Bombing" Muster**
-
-Er ist in dir [verliebt](/blog/mann-verliebt-anzeichen-komplett) — übermäßig verliebt. Ständig Nachrichten. Ständig Aufmerksamkeit. Ständig große Gesten.
+Das ist nicht [verliebt](/blog/mann-verliebt-anzeichen-komplett) — übermäßig verliebt. Ständig Nachrichten. Ständig Aufmerksamkeit. Ständig große Gesten.
 
 Das fühlt sich großartig an. Aber es ist nicht Liebe. Es ist Love-Bombing. Es ist ein Manipulationsmuster.
 
@@ -483,14 +416,6 @@ Der Weg zu Selbstwertgefühl ist Ignorieren dieser Muster früh zu erkennen und 
 ## Warnsignale — Partner, die dein Selbstwertgefühl zerstören
 
 Es gibt bestimmte Partner oder Verhaltensmuster, die spezifisch dafür entworfen sind, dein Selbstwertgefühl zu zerstören.
-
-**[Gaslighting](/blog/gaslighting-komplett-guide):** Er sagt dir, dass deine Wahrnehmung falsch ist. "Das habe ich nie gesagt." "Du erinnert dich falsch."
-
-Nach einer Weile, du beginnst zu glauben, dass du verrückt bist. Das ist sehr destruktiv.
-
-**Ständige Kritik:** Nichts ist jemals genug. Du bist nicht hübsch genug. Du bist nicht intelligente genug. Du bist nicht gute genug im Bett.
-
-Das ist erosion.
 
 **[Love Bombing](/blog/love-bombing-erkennen-schuetzen) gefolgt von Vernachlässigung:** Er ist verrückt nach dir im Anfang. Dann, plötzlich, zieht er sich zurück. Du fragst dich, was du falsch getan hast.
 

@@ -1,5 +1,5 @@
 ---
-title: "Helikopter-Eltern: Wie Überbehütung dein Liebesleben zerstört"
+title: "Helikopter-Eltern: Wie Überbehütung dein Liebesleben zers..."
 date: 2026-03-21
 author: "thomas-peters"
 image: "/images/blog/helicopter-parenting-beziehung-effekt.webp"

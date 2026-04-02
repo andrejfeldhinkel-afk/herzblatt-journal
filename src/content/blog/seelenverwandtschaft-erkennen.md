@@ -1,5 +1,5 @@
 ---
-title: "Seelenverwandtschaft erkennen: 10 Zeichen einer tiefen Verbindung (2026)"
+title: "Seelenverwandtschaft erkennen"
 description: "Seelenverwandtschaft Zeichen: Wie erkennst du echte Seelenverwandte? 10 psychologische Indikatoren für tiefe emotionale Verbindung und Seelenpartner."
 date: 2026-04-01
 image: "/images/blog/seelenverwandtschaft-erkennen.webp"

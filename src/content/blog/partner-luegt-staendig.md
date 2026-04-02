@@ -158,7 +158,7 @@ Wenn dein Partner lügt ständig, hast du jetzt eine Roadmap. Das erste ist das 
 
 Eine Beziehung ohne Vertrauen ist wie ein Haus ohne Fundament. Es mag noch stehen, aber es wird zusammenbrechen. Du schuldest dir selbst ein Fundament aus Wahrheit.
 
-Wenn du Probleme mit Vertrauen in deiner Beziehung hast, könnte dir auch dieser Artikel helfen: [Wie du wieder Vertrauen aufbaust nach Betrug](/blog/vertrauen-nach-betrug). Und wenn du merkst, dass die Kommunikation grundlegend das Problem ist, schau dir [Bessere Kommunikation in der Beziehung](/blog/kommunikation-beziehung) an.
+Wenn du Probleme mit Vertrauen in deiner Beziehung hast, könnte dir auch dieser Artikel helfen: [Bessere Kommunikation in der Beziehung](/blog/kommunikation-beziehung) an.
 
 ---
 
@@ -168,17 +168,7 @@ Wenn du Probleme mit Vertrauen in deiner Beziehung hast, könnte dir auch dieser
 - [Partner lügt: 10 Anzeichen erkennen](/blog/partner-luegt-anzeichen/)
 - [Eifersucht überwinden: Der komplette Guide](/blog/beziehung-und-eifersucht-ueberwinden/)
 - [Verletzlichkeit in Beziehungen: Warum emotionale Offenheit](/blog/verletzlichkeit-beziehung-guide/)
-- [Nach dem großen Vertrauensbruch: Reden oder gehen?](/blog/beziehung-nach-grossem-vertrauensbruch/)
-## FAQ
-
-**Warum lügt mein Partner ständig?**
-Häufige Gründe sind Konfliktvermeidung, Scham, Angst vor Konsequenzen oder erlerntes Verhalten aus der Kindheit. Manche Menschen lügen auch aus Gewohnheit, ohne böse Absicht.
-
-**Kann ein Lügner sich ändern?**
-Ja, aber nur wenn er das Problem selbst erkennt und aktiv daran arbeiten will. Ohne Einsicht und den echten Wunsch zur Veränderung wird sich das Muster wiederholen.
-
-**Soll ich die Beziehung beenden wenn mein Partner lügt?**
-Das kommt auf die Art und Häufigkeit der Lügen an. Notlügen sind menschlich, systematisches Lügen über wichtige Dinge ist ein ernstes Problem. Wenn dein Grundvertrauen zerstört ist, ist eine [Trennung](/blog/trennung-verarbeiten-12-schritte) oft gesünder.
+- [Trennung](/blog/trennung-verarbeiten-12-schritte) oft gesünder.
 
 **Wie erkenne ich, ob mein Partner mich anlügt?**
 Achte auf Inkonsistenzen in seinen Geschichten, Veränderungen in Körpersprache und Tonfall, und auf Reaktionen wie Abwehr oder Ausweichen. Ein ehrlicher Partner kann auf Fragen direkt antworten.

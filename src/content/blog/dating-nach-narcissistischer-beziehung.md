@@ -56,13 +56,7 @@ Eine Beziehung mit einem Narzissten ist nicht einfach eine schlechte Beziehung. 
 
 Wenn so eine Beziehung endet – egal ob du derjenige bist, der sich befreit, oder derjenige, der verlassen wird – hinterlässt sie eine Verwüstung. Du zweifelsst an deinem Urteilsvermögen. Du bist unsicher über deine Fähigkeit, andere Menschen zu lesen. Du hast Angst, jemandem zu vertrauen. Und die Vorstellung, wieder zu daten, ist ungeheuer belastend.
 
-Dies ist einer der häufigen Wege, wie Narzissten dein Leben weitermachen, lange nach dem Datum der [Trennung](/blog/trennung-verarbeiten-12-schritte). Sie nehmen nicht nur deine Gegenwart – sie nehmen auch deine Zukunft. Sie vergiften deine Fähigkeit, neue Beziehungen aufzubauen. Es sei denn, du unternimmst bewusste Schritte, um dich selbst zu heilen.
-
-## Was narzisstischer Missbrauch mit dir macht
-
-Bevor wir über Dating nach einer narzisstischen Beziehung sprechen, müssen wir verstehen, was tatsächlich passiert ist. Narzisstischer Missbrauch ist nicht wie andere Missbrauchsformen. Er ist psychologisch, subtil und oft schwer zu definieren, weshalb viele Überlebende lange brauchen, um zu erkennen, dass sie überhaupt missbraucht wurden.
-
-Ein Narzisst wird dir zunächst alles geben, was du dir wünschst. Das nennt sich "[Love Bombing](/blog/love-bombing-erkennen-schuetzen)". Er oder sie ist charmant, aufmerksam, romantisch. Du fühlst dich gesehen und verstanden. Das Hormon Oxytocin wird in deinem Gehirn ausgelöst – du bindest dich emotional an diese Person. Dann, langsam oder plötzlich, ändert sich die Dynamik.
+Dies ist einer der häufigen Wege, wie Narzissten dein Leben weitermachen, lange nach dem Datum der [Love Bombing](/blog/love-bombing-erkennen-schuetzen)". Er oder sie ist charmant, aufmerksam, romantisch. Du fühlst dich gesehen und verstanden. Das Hormon Oxytocin wird in deinem Gehirn ausgelöst – du bindest dich emotional an diese Person. Dann, langsam oder plötzlich, ändert sich die Dynamik.
 
 Der Narzisst beginnt, dich zu kritisieren. Anfangs sind es kleine Bemerkungen: "Das machst du nicht so richtig", "Andere würden besser aussehen in so etwas", "Du überreagierst wieder." Dann werden die Kritiken größer und häufiger. Du beginnst, dich selbst in Frage zu stellen. Vielleicht bin ich wirklich zu emotional. Vielleicht bin ich nicht attraktiv genug. Vielleicht verdiene ich nicht besser.
 

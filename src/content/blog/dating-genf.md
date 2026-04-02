@@ -37,17 +37,7 @@ Der französische Einfluss ist überall spürbar – von der Café-Kultur über 
 
 Single sein in Genf bedeutet auch: Du findest schnell Menschen mit ähnlichen Interessen. Egal ob Outdoor-Enthusiast, Kulturjunkie oder Feinschmecker – in dieser internationalen Stadt gibt es eine Community für dich.
 
-## Die besten Viertel zum [Kennenlernen](/blog/dating-fragen-kennenlernen) und Flirten
-
-### Die Altstadt (Vieille Ville) – Klassik und Charme
-
-Die Altstadt ist das romantische Herz Genfs. Mit ihren engen Kopfsteingassen, den alten Fassaden und den gemütlichen Weinbars ist sie der perfekte Ort für ein erstes Date mit Charakter.
-
-Das Viertel rund um die **Cathedrale Saint-Pierre** ist besonders schön – hier kannst du erst einen Spaziergang machen, die Treppe hinauf zur beeindruckenden Aussicht gehen, und danach in einer der vielen Bars vorbeischauen. Die Altstadt ist auch am Abend sehr lebendig, mit Bars, die bis spät in die Nacht offen sind.
-
-Tipp für Locals: Viele junge Berufstätige treffen sich in den kleineren Bars der Altstadt, nicht nur in den touristischen Spots. Frag nach echten lokalen Empfehlungen!
-
-### Carouge – Kreativ, bohemienisch, [verliebt](/blog/mann-verliebt-anzeichen-komplett)
+## Die besten Viertel zum [verliebt](/blog/mann-verliebt-anzeichen-komplett)
 
 Carouge ist das künstlerische, etwas bohemienischere Viertel Genfs – und es ist ein echter Magnet für Singles, die etwas Besonderes suchen. Mit seinen farbenfrohen Hausfassaden, den Kunstgalerien, den Second-Hand-Läden und den gemütlichen Bistros fühlt man sich hier fast wie in Paris, nur kleiner und intimer.
 

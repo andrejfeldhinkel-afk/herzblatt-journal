@@ -136,7 +136,7 @@ Sie haben die schwierigste Sache getan – Sie haben die Distanz überwunden. Da
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten), [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden), [Liebe auf Distanz: So übersteht eure Fernbeziehung jede Entfernung](/blog/liebe-auf-distanz-tipps).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden), [Liebe auf Distanz: So übersteht eure Fernbeziehung jede Entfernung](/blog/liebe-auf-distanz-tipps).## Weiterlesen
 
 - [Fernbeziehung beenden: Zusammenziehen](/blog/beziehung-fernbeziehung-zusammenziehen/)
 - [Fernbeziehung meistern: Tipps für eine starke Partnerschaft](/blog/long-distance-beziehung/)

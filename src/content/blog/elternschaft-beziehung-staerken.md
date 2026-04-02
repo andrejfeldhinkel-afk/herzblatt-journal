@@ -82,6 +82,5 @@ Das wird vorbei sein. Die Kinder werden größer. Irgendwann schlafen sie durch.
 
 ## Weiterlesen
 
-- [Beziehung nach Fehlgeburt: Gemeinsam durch die Trauer](/blog/beziehung-nach-fehlgeburt-staerken)
 - [Beziehungsrituale: Kleine Gewohnheiten die eure Liebe](/blog/beziehung-rituale-paare-staerken)
 - [Rituale die eure Beziehung stärken](/blog/beziehung-rituale-staerken)

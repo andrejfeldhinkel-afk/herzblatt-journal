@@ -54,37 +54,13 @@ Das ist nicht unfair—das ist realistisch. Ein Paar braucht zwei Menschen, die 
 
 ## Die Anzeichen, dass eine Beziehung am Ende ist
 
-Es gibt bestimmte Signale, bei denen eine [Trennung](/blog/trennung-verarbeiten-12-schritte) die beste Lösung ist—und nicht nur die letzte Auswegreisende. Achte auf diese Warnsignale:
-
-### Mangel an Respekt
-
-Wenn ein oder beide Partner den anderen nicht respektieren, ist die Grundlage weg. Respekt ist nicht etwas, das automatisch zurückkommt, wenn man nur lange genug wartet. Es ist oft ein Zeichen, dass sich die Dynamik fundamental verschoben hat.
-
-Du merkst das an kleinen Dingen: Wie wird über den anderen hinter seinem Rücken gesprochen? Werden Grenzen respektiert? Gibt es ein Gefühl von Gleichberechtigung?
-
-### Emotionale oder körperliche Gewalt
-
-Hier gibt es keine Grauzone. Wenn Gewalt im Spiel ist, ist die Antwort klar: Du musst gehen.
-
-Das bedeutet nicht nur körperliche Schläge. Emotionale Misshandlung—ständige Erniedrigungen, [Gaslighting](/blog/gaslighting-komplett-guide), Isolation—ist genauso zerstörerisch. Dein Wohlbefinden ist nicht verhandelbar.
+Es gibt bestimmte Signale, bei denen eine [Gaslighting](/blog/gaslighting-komplett-guide), Isolation—ist genauso zerstörerisch. Dein Wohlbefinden ist nicht verhandelbar.
 
 ### Totale Kommunikationsverweigerung
 
 Wenn ihr nicht mehr sprechen könnt—nicht weil ihr nicht wisst, wie, sondern weil ein Partner absolut nicht bereit ist zu sprechen—dann ist das ein Zeichen dafür, dass eine Veränderung kaum möglich ist.
 
-Paare, die sich retten, finden einen Weg zurück zur [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/). Sie können nicht immer sofort verstehen, worüber der andere denkt, aber sie versuchen es.
-
-Wenn dieser Wille komplett weg ist, ist es oft sinnvoller zu gehen.
-
-### Lohnt es sich zu kämpfen? Der Test
-
-Stelle dir diese Szene vor: Es ist zwei Jahre später. Ihr habt gekämpft, habt Paartherapie gemacht, habt euch wirklich Mühe gegeben. Wie sieht das beste Szenario aus?
-
-Wenn du dir das nicht vorstellen kannst oder wenn das beste Szenario immer noch dunkel und grau wirkt—dann ist das ein Zeichen, dass lohnt es sich zu kämpfen, wahrscheinlich nicht.
-
-Wenn du dir aber vorstellen kannst, dass es besser wird, dass ihr wieder lachen zusammen, dass der andere Mensch sich ändert und ihr zusammen stärker werdet—dann lohnt sich der Kampf.
-
-## Die [Beziehung retten](/blog/beziehung-retten-kompletter-guide): Konkrete Schritte für die letzte Chance
+Paare, die sich retten, finden einen Weg zurück zur [Beziehung retten](/blog/beziehung-retten-kompletter-guide): Konkrete Schritte für die letzte Chance
 
 Wenn du dich entschieden hast, dass du kämpfen willst, hier sind die konkreten Schritte:
 

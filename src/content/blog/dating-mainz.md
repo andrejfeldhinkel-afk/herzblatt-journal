@@ -119,69 +119,7 @@ Der **Mainzer Dom** (St. Martin's Cathedral) ist eine der imposantesten Kirchen 
 - **Spirituelle Momente:** Wenn es passt, kann man drinnen ruhig sitzen
 - **Anschließendes Café:** Nach der Besichtigung ein Kaffee oder Wein
 
-**Sonderheit:** Der Dom schafft eine besondere, tiefere Atmosphäre. Ideal wenn die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) substanzvoller wird.
-
-### Der Rheingau: Wein, Burgen und Romantik
-
-Der **Rheingau** ist nur 15-20 Min von Mainz entfernt und bietet eine andere Welt: Weinberge, Burgen, kleine Dörfer, und natürlich: großartige Weine.
-
-**Rheingau-Date-Idee:**
-
-- **Mit der Bahn fahren:** Schon die Anreise ist wunderschön
-- **Weingut besuchen:** Verkostung und Kennenlernens
-- **Durch Weinberge spazieren:** Herrliche Landschaft
-- **Burgbesichtigung:** Verschiedene Burgen sind zugänglich
-- **Essen in einem Weindorf:** Authentische Wirtschaft mit Rheingau-Küche
-- **Rheingau-Schiff:** Mit dem Schiff den Rhein entlang fahren
-
-**Gesamterlebnis:** Der Rheingau ist Mainz' "Geheimwaffe" für unvergessliche Dates. Die Landschaft ist wunderschön, der Wein ausgezeichnet, und die Atmosphäre romantisch.
-
-### Das Gutenberg-Museum: Geschichte und Kultur
-
-Das **Gutenberg-Museum** ist Mainz' wichtigstes kulturelles Juwel. Mit Ausstellungen über Johannes Gutenberg und die Druckkunst ist es perfekt für ein kulturelles Date.
-
-**Das Date:**
-
-- **Museum-Besuch:** Zusammen die Geschichte erkunden
-- **Tiefe Gespräche:** Die Ausstellungen schaffen Gesprächsstoff
-- **Buchladen:** Das Museum hat einen wunderschönen Buchladen
-- **Anschließendes Café:** Kaffee und Diskussion über das Gesehene
-
-**Ideal für:** Menschen die gerne Kultur, Geschichte und Tiefe mögen.
-
-## Bars, Cafés und Restaurants in Mainz
-
-### Traditionelle Weinstuben (Mainz-Klassiker!)
-
-- **Zum Kachelofen:** Traditionelle Weinstube mit Charme
-- **Geheimnis:** Weitere traditionelle Weinstube
-- **Heilig Blut:** Klassische Mainzer Weinstube mit Geschichte
-
-**Tipp:** Weinstuben-Hopping ist Mainz-Tradition! Geh mit deinem Date von Weinstube zu Weinstube und verkostet verschiedene Mainzer und Rheingau-Weine.
-
-### Moderne Restaurants und Bars
-
-- **Gelbes Haus:** Modernes Restaurant mit guter Küche
-- **Schiffchen:** Gehobene Gastronomie
-- **Adriana:** Modernes Restaurant in der Neustadt
-
-### Cafés und Tageszeit-Dates
-
-- **Café Licht und Liebe:** Schönes Café mit Charakter
-- **Bäckerei Café:** Verschiedene gute Cafés
-- **Rheinufer-Cafés:** Für Drinks mit Ausblick
-
-## Dating-Apps und Online-Dating in Mainz
-
-Mainz ist gut für Online-Dating:
-
-**Beliebte Apps:**
-
-- **Tinder:** Dominiert auch hier, große Community
-- **Bumble:** Sehr beliebt, modernes Publikum
-- **Lovoo:** Deutsche App mit guter Basis
-- **ElitePartner:** Für etabliertere Singles
-- **[Hinge](/blog/hinge-guide-deutsch-2026):** Für ernsthaftere Beziehungen
+**Sonderheit:** Der Dom schafft eine besondere, tiefere Atmosphäre. Ideal wenn die [Hinge](/blog/hinge-guide-deutsch-2026):** Für ernsthaftere Beziehungen
 
 **Der Mainz-Vorteil:** Die Stadt ist groß genug (200k Einwohner), dass die Apps voller sind, aber klein genug, dass Matches wahrscheinlich sind. Viele Expats und Zugezogene machen die Dating-Szene vielfältig.
 
@@ -414,7 +352,7 @@ Mach unser kostenloses [Dating-Quiz](/top-dating-seiten) und finde in 30 Sekunde
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/aktives-zuhoeren-beziehung-ueben/) zu [Dating in Augsburg: Die besten Orte & Tipps für Singles](/blog/dating-augsburg), [Dating in Bamberg: Die besten Orte & Tipps für Singles](/blog/dating-bamberg), [Dating in Berlin: Die besten Orte, Tipps & Hotspots für Singles](/blog/dating-berlin).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Dating in Augsburg: Die besten Orte & Tipps für Singles](/blog/dating-augsburg), [Dating in Berlin: Die besten Orte, Tipps & Hotspots für Singles](/blog/dating-berlin).## Weiterlesen
 
 - [Dating in Aachen: Die besten Orte, Tipps & Hotspots](/blog/dating-aachen/)
 - [Dating in Augsburg: Die besten Orte & Tipps für Singles](/blog/dating-augsburg/)

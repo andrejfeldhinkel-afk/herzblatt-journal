@@ -286,6 +286,6 @@ Ja, nach Jahren. Das ist okay. Variiert das Ritual, aber behaltet das Konzept. S
 
 - [Quality Time 2026: 40 Ideen für echte Zweisamkeit](/blog/beziehung-quality-time-ideen/)
 - [Beziehung mit großem Altersunterschied](/blog/beziehung-altersunterschied/)
-- [Von der Fernbeziehung zum Zusammenziehen: Der nächste Schritt](/blog/beziehung-fernbeziehung-[zusammenziehen](/blog/zusammenziehen-checkliste)/)
+- [zusammenziehen](/blog/zusammenziehen-checkliste)/)
 - [Gemeinsam meditieren als Paar: Achtsamkeit zu zweit](/blog/beziehung-gemeinsam-meditieren/)
 - [Gemeinsames Haushaltsbuch als Paar: Geld fair verwalten](/blog/beziehung-gemeinsames-haushaltsbuch/)

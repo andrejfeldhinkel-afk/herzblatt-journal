@@ -664,7 +664,7 @@ Das ist die beste Sex — nicht das leidenschaftlichste aber das tiefste.
 
 Die Wahrheit: Die besten Sex in Langzeit-Beziehungen ist nicht wie Anfang. Das ist besser — weil es basiert auf echter Verständnis, nicht nur Chemikalien.
 
-Für mehr über effektive Beziehungskommunikation, oder [wie du deine Bedürfnisse ausdrückst](/blog/emotionale-verfuegbarkeit-dating), oder [Grenzen in Beziehungen](/blog/persoenliche-grenzen-dating), schau dir unsere anderen Artikel an.
+Für mehr über effektive Beziehungskommunikation, oder [Grenzen in Beziehungen](/blog/persoenliche-grenzen-dating), schau dir unsere anderen Artikel an.
 
 ## Der Sexual-Kompatibilitäts-Check: 12 ehrliche Fragen
 

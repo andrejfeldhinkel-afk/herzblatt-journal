@@ -42,13 +42,7 @@ Forschung zeigt: Paare, die glücklich bleiben, pflegen ihre [beziehung](/blog/a
 
 ### Im Alltag
 
-**4. [aktives zuhören](/blog/aktives-zuhoeren-beziehung-ueben/).** Wenn dein Partner von seinem Tag erzählt, leg das Handy weg. Schau ihn an. Stell Fragen. Nichts sagt „Ich liebe dich" so deutlich wie echte Aufmerksamkeit.
-
-**5. Gemeinsam kochen.** Nicht „du kochst, ich sitze rum", sondern wirklich zusammen. Gemüse schneiden, Musik anmachen, Wein einschenken. Die Küche ist der romantischste Raum der Wohnung.
-
-**6. Überraschungssnack.** Du weißt, dass sie diesen einen Schokoriegel liebt? Bring ihn einfach mit. Kleine Überraschungen zeigen: Ich kenne dich.
-
-**7. [Komplimente](/blog/komplimente-fuer-maenner), die tiefer gehen.** Nicht nur „Du siehst gut aus", sondern „Ich bewundere, wie du mit dieser Situation umgegangen bist" oder „Dein Lachen macht jeden Raum heller."
+**4. [Komplimente](/blog/komplimente-fuer-maenner), die tiefer gehen.** Nicht nur „Du siehst gut aus", sondern „Ich bewundere, wie du mit dieser Situation umgegangen bist" oder „Dein Lachen macht jeden Raum heller."
 
 ### Am Abend
 
@@ -82,7 +76,7 @@ Und das Beste: Es kostet nichts außer ein bisschen Aufmerksamkeit.
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Komplimente richtig machen: Das Lob in Beziehungen](/blog/komplimente-richtig-machen), [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung), [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung), [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen).## Weiterlesen
 
 - [Komplimente richtig machen: Das Lob in Beziehungen](/blog/komplimente-richtig-machen/)
 - [Sexuelle Kompatibilität in Beziehungen: Warum es wichtig ist](/blog/sexuelle-kompatibilitaet/)

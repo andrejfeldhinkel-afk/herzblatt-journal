@@ -35,30 +35,7 @@ Herzblatt Journal richtet sich an dich, wenn du:
 - In einer Fernbeziehung steckst und Tipps brauchst, damit es funktioniert
 - In einer etablierten Beziehung bist und diese stärken möchtest
 - Fragen zur emotionalen Verfügbarkeit, zu Grenzensetzen oder zur Kommunikation hast
-- Schwierige Situationen wie [Ghosting](/blog/ghosting-komplett-guide), Manipulation oder rote Flaggen durchschaut hast und dich fragst, wie es weitergeht
-- Dich selbst besser verstehen möchtest und deinen persönlichen Weg zu erfüllten Beziehungen finden willst
-
-Egal, wo du gerade stehst – dieser Blog ist für dich. Wir schreiben ohne Vorurteile, offen und ehrlich.
-
-## Warum solltest du Herzblatt Journal lesen?
-
-Gute Frage. Es gibt viele Blogs zum Thema Liebe und Beziehungen. Aber Herzblatt Journal unterscheidet sich aus mehreren Gründen:
-
-**Ehrliche, praktische Ratschläge**: Wir geben dir keine esoterischen Tipps oder psychologischen Theorien, die du nicht umsetzen kannst. Unsere Artikel basieren auf echten Erfahrungen und praktischem Wissen, das du sofort anwenden kannst.
-
-**Du-Ansprache**: Wir schreiben mit dir, nicht an dich. Das macht die Artikel persönlicher und direkter. Du wirst merken, dass wir mit dir auf Augenhöhe sprechen.
-
-**Keine KI-Sprache**: Wenn du schon mal einen Text gelesen hast, der sich anfühlt, als würde ihn eine Maschine schreiben, dann weißt du, wie unangenehm das sein kann. Hier schreiben Menschen für Menschen. Der Text soll sich natürlich anfühlen, weil er echt ist.
-
-**Umfassende Themenabdeckung**: Von Dating über Fernbeziehungen bis zu speziellen Situationen wie Hochsensibilität oder LGBTQ+ Dating – wir decken viel ab.
-
-**Aktuelle Trends und bewährte Klassiker**: Wir schreiben über neue Dating-Trends wie Micro-Dating oder Orbiting, aber auch über zeitlose Themen wie Vertrauen, Respekt und emotionale Intimität.
-
-## Die Themen, die wir abdecken
-
-Wenn du durch Herzblatt Journal stöberst, wirst du Artikel in verschiedenen Kategorien finden:
-
-### Dating und [Kennenlernen](/blog/dating-fragen-kennenlernen)
+- Schwierige Situationen wie [Kennenlernen](/blog/dating-fragen-kennenlernen)
 
 In dieser Kategorie geht es um die Anfänge. Wie schreibst du beim Online-Dating an? Wie machst du das erste Treffen nicht zu stressig? Was ist emotional verfügbar und warum ist das wichtig? Wir helfen dir, die Dating-Phase mit Selbstbewusstsein zu meistern.
 

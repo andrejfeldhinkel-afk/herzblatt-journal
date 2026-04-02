@@ -807,55 +807,7 @@ Das Problem ist wenn eine Person wird plötzlich sauberer und der andere Person 
 
 **Die Wahrheit:** Verschiedene cleanliness Standards sind nicht zu "lösen." Sie sind zu "managen." Darum brauchst du ein Plan und regelmäßig Adjustments.
 
-Für mehr über [wie man Beziehungs-[kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) verbessert](/blog/beziehung-kommunikation-verbessern), oder [wie man Alltagskonflikte vermeidet](/blog/beziehungskiller-alltag-vermeiden), oder [persönliche Grenzen in Beziehungen](/blog/persoenliche-grenzen-dating), schau dir unsere anderen Guides an.
-
-## Die ersten 90 Tage zusammen: Überlebensguide
-
-Die ersten drei Monate zusammenzuleben sind wie eine zweite Honeymoon — aber mit Steuererklärungen und Haushaltsdiskussionen. Es ist ein Reality-Check. Hier ist, was du erwarten kannst und wie du es bewältigen kannst.
-
-### Woche 1-2: Das Verliebt-Sein ist real
-
-Die erste und zweite Woche sind oft magisch. Alles ist neu. Ihr macht zusammen Frühstück. Ihr schlaft zusammen. Ihr arrangiert zusammen Möbel. Es ist aufregend.
-
-In dieser Phase wirst du Dinge sehen, die dich überraschen. Der Typ, der dein Zuhause verlässt, ist anders als der Typ, der bei dir übernachtet hat. Seine Zahnbürste ist überall. Seine Socken. Seine Musik ist lauter als du es magst. Aber es ist okay, weil es noch neu ist.
-
-Der Rat für diese Phase: Genießt es. Dokumentiert es (Bilder, Notizen). Ihr werdet diese magischen ersten Wochen vermissen, wenn Routine einsetzt.
-
-Und: Sag schon jetzt, wenn kleine Dinge nerven. "Schatz, ich mag dich, aber deine Musik um 22 Uhr stört mich." Nicht vorwurfsvoll. Einfach praktisch. Kleine Dinge können in großen Konflikten werden, wenn sie nicht angesprochen werden.
-
-### Woche 3-4: Die Realität setzt ein
-
-Nach ungefähr zwei bis drei Wochen endet die Neue-Wohnung-Honeymoon. Du siehst, wie dein Partner wirklich lebt. Nicht, wie er sich verhält, wenn jemand zu Besuch ist. Wie er wirklich ist.
-
-Vielleicht ist er unhygienisch. Vielleicht lässt er Teller im Wohnzimmer stehen. Vielleicht ist er geräuschempfindlich am Morgen. Vielleicht vermutet er, dass du zu viel Geld für Dekoration ausgibst.
-
-Dies ist auch, wenn ihr anfangt, feststellen, wie unterschiedlich eure Routinen sind. Du bist jemand, der sofort aufräumt nach dem Essen. Er ist jemand, der alles später macht. Du schläfst mit offener Tür gerne. Er möchte die Tür geschlossen.
-
-Das ist nicht schlecht. Das ist normal. Aber es kann sich verstört anfühlen, wenn du nicht erwartet hattest, dass es anders sein würde.
-
-Der Rat: Seid sanft mit euch selbst. Diese Annäherungs-Phase ist normal. Ihr seid verschiedene Menschen, die plötzlich 24/7 zusammen sind. Es ist normal, kleine Dinge zu bemerken, die nerven.
-
-Und: Sprecht früh. "Ich sehe, dass dein Stil anders ist als mein. Können wir Regeln für Gemeinschaftsbereich vereinbaren?" Das ist nicht böse. Das ist teamwork.
-
-### Woche 5-8: Der erste große Konflikt
-
-Wenn alles glatt läuft, kommt das erste Problem später. Aber in den meisten Fällen gibt es um Woche fünf oder sechs einen echten Konflikt. Nichts Schreckliches, aber etwas, bei dem ihr euch nicht sofort einig seid.
-
-Es könnte sein über: Wer macht Haushalt. Wer zahlt. Wer lädt die Waschmaschine. Wie oft Freunde besuch kommen. Lautstärke. Ordnung.
-
-Dieser erste Konflikt ist wichtig. Es ist nicht ein Zeichen, dass zusammenleben nicht funktioniert. Es ist ein Zeichen, dass ihr echte Menschen seid, mit echten Unterschieden.
-
-Wie ihr mit diesem Konflikt umgeht, sagt euch viel über die Zukunft. Könnt ihr sachlich darüber sprechen? Könnt ihr zuhören? Könnt ihr einen Kompromiss finden? Oder ist einer davon entschlossen, recht zu haben?
-
-Der Rat: Dieser erste Konflikt kann sein die beste Schule für euch. Nutzt es. "Schatz, wir haben anders Gedanken über Putzen. Das ist okay. Wie können wir einen Weg finden, dass es für beide funktioniert?"
-
-### Woche 9-12: Die neue Normalität
-
-Nach etwa drei Monaten entsteht eine neue Normalität. Ihr habt Routinen. Ihr wisst, wann der andere es schwer hat. Ihr kennt, was nervig ist, und ihr habt gelernt, damit umzugehen — oder ihr seid noch dabei zu argumentieren.
-
-In dieser Phase beginnt auch der romantische Aspekt zu ändern. Das Zusammenziehn ist nicht mehr aufregend. Es ist Realität. Ihr müsst aktiv Romantik und Nähe schaffen, anstatt dass es natürlich passiert.
-
-Viele Paare berichten, dass um Monat drei, vier, die Anziehung sinkt ein bisschen. Das ist nicht, weil ihr weniger [verliebt](/blog/mann-verliebt-anzeichen-komplett) seid. Das ist, weil das Neue-Wohnung-Hormon nachlässt.
+Für mehr über [wie man Alltagskonflikte vermeidet](/blog/beziehungskiller-alltag-vermeiden), oder [verliebt](/blog/mann-verliebt-anzeichen-komplett) seid. Das ist, weil das Neue-Wohnung-Hormon nachlässt.
 
 Der Rat: Das ist normal. Erwarte nicht, dass alles wie in Woche 1 ist. Plant bewusst Zeit zusammen. Ein Kurs zusammen. Ein wöchentliches Date-Ritual. Es ist wichtig jetzt, da die Realität dich nicht automatisch zusammenbringt.
 

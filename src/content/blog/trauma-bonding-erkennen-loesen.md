@@ -70,17 +70,7 @@ Das ist nicht schwach von dir. Das ist ein natürliches Überlebensmuster, das i
 
 ## Die Anzeichen: Wie erkennst du, dass du trauma-gebunden bist?
 
-Es gibt klare Anzeichen, dass du Trauma Bonding erlebst, anstatt wirklich [verliebt](/blog/mann-verliebt-anzeichen-komplett) zu sein. Wenn du diese erkennst, kannst du handeln. Du brauchst nicht mehr in dieser Verwirrung zu leben.
-
-Du kannst die Person nicht verlassen, obwohl du dich unglücklich fühlst. Du versuchst, mehrmals zu gehen, aber du kommst immer zurück. Du machst eine Liste mit Gründen, warum du gehen solltest – und dann ignorierst du die Liste, wenn die Person dich wieder "liebevoll" behandelt.
-
-Du entschuldigst Verhaltensweisen, die inakzeptabel sind. "Er ist nur so, weil sein Vater ihn so behandelt hat." "Sie kann nichts dafür, dass sie so emotional instabil ist." Du findest endlose Gründe, warum er/sie nicht verantwortlich für sein/sein Verhalten ist. Aber die Verantwortung ist immer noch da.
-
-Du verlierst deine Freunde und Familie. Nicht, weil die Person dich verbietet mit ihnen zu sprechen (obwohl das manchmal auch passiert), sondern weil diese Menschen dich warnen, und du sie defensiv schützt. Du ziehst dich von ihnen zurück, weil sie nicht verstehen, was du "siehst" in dieser Person.
-
-Du vergleichst ständig. Du erinnere dich an die guten Momente endlos, und du minimierst die schlechten. "Erinnerst du dich, wie schön das Wochenende war?" Du fokussierst auf diese Momente und verdrehst sie in deinem Gedächtnis, sodass sie noch schöner werden. Das ist eine unbewusste Technik deines Gehirns, um die Bindung zu rationalisieren.
-
-Du hast Angst, die Person zu verlassen. Nicht Angst vor körperlichem Schmerz (obwohl das auch sein kann), sondern Angst vor dem Schmerz von [Trennung](/blog/trennung-verarbeiten-12-schritte). Du fühlst dich leer ohne diese Person. Du kannst dir dein Leben nicht ohne sie vorstellen. Und diese Angst macht dich gefangen.
+Es gibt klare Anzeichen, dass du Trauma Bonding erlebst, anstatt wirklich [Trennung](/blog/trennung-verarbeiten-12-schritte). Du fühlst dich leer ohne diese Person. Du kannst dir dein Leben nicht ohne sie vorstellen. Und diese Angst macht dich gefangen.
 
 Du findest Wege, die Person zu retten oder zu verbessern. Du glaubst, dass du der/die Einzige bist, der/die sie wirklich versteht. Wenn du die Person verlässt, wird sie im Leben nicht klarkommen. Diese "Helfer"-Rolle gibt dir eine falsche Identität und hält dich in der Beziehung.
 

@@ -1,5 +1,5 @@
 ---
-title: "Kommen Ghoster zurück? Warum sie es tun & wie du reagierst (2026)"
+title: "Kommen Ghoster zurück? Warum sie es tun & wie du reagierst"
 description: "Kommen Ghoster zurück? Psychologische Gründe, wann sie Kontakt aufnehmen und wie du richtig reagierst — ohne dich selbst zu schaden."
 date: 2026-04-01
 image: "/images/blog/ghosting-taeter-kommen-zurueck.webp"
@@ -151,9 +151,7 @@ Echte Liebe hat Mut. Echte Liebe sagt auch unbequem dinge. Echte Liebe ghostet n
 
 Diese Person hat dir bewiesen, dass sie eine Art Liebe nicht hat, die du brauchst.
 
-## [Mehr über emotionale Heilung: Lesen Sie unseren Guide zu Beziehung retten](/blog/beziehung-retten-kompletter-guide)
-
-Das ist der Grund, warum das Loslassen so wichtig ist. [Wenn du merkst, dass du Hilfe brauchst, um zu heilen, können Techniken zum Silent Treatment hilfreich sein](/blog/silent-treatment-beziehung) — nicht, um der Person zu schaden, sondern um dir selbst zu helfen.
+## [Wenn du merkst, dass du Hilfe brauchst, um zu heilen, können Techniken zum Silent Treatment hilfreich sein](/blog/silent-treatment-beziehung) — nicht, um der Person zu schaden, sondern um dir selbst zu helfen.
 
 ## Die langfristige Perspektive
 

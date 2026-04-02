@@ -1,5 +1,5 @@
 ---
-title: "Schlafgewohnheiten als Paar: Zusammenschlafen, aber getrennte Träume"
+title: "Schlafgewohnheiten als Paar"
 description: "Schlafgewohnheiten als Paar — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
 keywords: ["schlafgewohnheiten als paar", "beziehung", "gesundheit", "zusammenleben", "kommunikation", "schlafgewohnheiten paar:"]
 tags:

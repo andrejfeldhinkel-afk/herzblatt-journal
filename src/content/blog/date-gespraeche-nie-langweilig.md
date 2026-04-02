@@ -951,8 +951,7 @@ Dauer: 60-90 Minuten ist perfekt. Long genug um zu sehen, ob ihr Chemie habt, ab
 ---
 
 **Empfohlene weitere Lektüre:**
-- Lerne die Techniken des [Flirtens](/blog/flirten-im-supermarkt-alltag)
-- Verstehe [Körpersprache beim Dating](/blog/koerpersprache-date-deuten)
+- Lerne die Techniken des [Körpersprache beim Dating](/blog/koerpersprache-date-deuten)
 - Erkenne [Chemistry beim Date](/blog/chemistry-beim-date-erkennen)
 ## Weiterlesen
 

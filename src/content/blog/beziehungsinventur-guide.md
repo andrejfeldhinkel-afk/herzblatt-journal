@@ -47,31 +47,7 @@ Dieser Guide wird dir helfen, genau das zu tun.
 
 ## Was ist eine Beziehungsinventur? — Konzept und Nutzen
 
-Lass mich erst mal klären, was eine Beziehungsinventur nicht ist: Sie ist nicht dafür da, um dich selbst oder deinen Partner zu verurteilen. Sie ist nicht die Vorstufe zur [Trennung](/blog/trennung-verarbeiten-12-schritte). Und sie ist definitiv nicht etwas, das du alleine mit Misstrauen oder Vorwürfen angehst.
-
-Eine Beziehungsinventur ist eine strukturierte, ehrliche Bestandsaufnahme. Du schaust dir an, wie es in verschiedenen Bereichen eurer Partnerschaft aussieht — ohne Beschönigung, aber auch ohne unnötige Dramatik.
-
-Du würdest deine Beziehung von außen betrachten, wie eine gute Freundin, die dich liebt, aber dir auch sagt, wenn's nicht stimmt. Nicht um zu verletzen, sondern um zu helfen.
-
-Eine gute Beziehungsinventur schaut auf mindestens diese zehn Bereiche:
-
-**Kommunikation**: Redet ihr wirklich miteinander, oder nur über den Kinderkalender und die Wäsche? Könnt ihr über Gefühle sprechen oder wird das sofort abgewehrt?
-
-**Emotionale Nähe**: Fühlt ihr euch verstanden? Gibt es noch diesen Moment, in dem der andere "versteht", ohne dass du 100 Wörter erklären musst?
-
-**Körperliche Intimität**: Sex ist eine Sache, aber wie steht es mit Zärtlichkeit? Wie lange ist es her, dass ihr euch einfach gehalten habt?
-
-**Vertrauen**: Könnt ihr euch aufeinander verlassen? Gibt es Bereiche, in denen es hakelt — beruflich, finanziell, emotional?
-
-**Respekt**: Begegnet ihr euch auf Augenhöhe? Oder fallen alte Hierarchien auf, wenn's stressig wird?
-
-**Gemeinsame Ziele**: Zieht ihr noch am gleichen Strang? Oder habt ihr bemerkt, dass eure Träume in verschiedene Richtungen gehen?
-
-**Konfliktkultur**: Wie streitet ihr? Gibt es faire Spielregeln oder wird's immer persönlich?
-
-**Individuelle Freiheit**: Gibt es genug Raum für Hobbys, Freunde, eigene Träume? Oder wurde aus Liebe allmählich Verschmelzung?
-
-**Wertschätzung**: Fühlt ihr euch gesehen? Oder sind die [Komplimente](/blog/komplimente-fuer-maenner) irgendwann verstummt?
+Lass mich erst mal klären, was eine Beziehungsinventur nicht ist: Sie ist nicht dafür da, um dich selbst oder deinen Partner zu verurteilen. Sie ist nicht die Vorstufe zur [Komplimente](/blog/komplimente-fuer-maenner) irgendwann verstummt?
 
 **Zukunftsvision**: Seht ihr euch zusammen in fünf Jahren? In zehn? Oder ist die Zukunft eher neblig?
 
@@ -585,7 +561,7 @@ Das macht es zur Routine, nicht zu etwas Besonderem.
 
 **Schritt 4: Ein Buch lesen oder einen Kurs machen — zusammen**
 
-Es gibt tausende Bücher über Beziehungen. Vielleicht "Gewaltfreie Kommunikation" von Marshall Rosenberg. Oder "The 5 [Love Languages](/blog/love-languages-komplett-guide)" von Gary Chapman. Oder einen Online-Kurs über Paarkommunikation.
+Es gibt tausende Bücher über Beziehungen. Vielleicht "Gewaltfreie Kommunikation" von Marshall Rosenberg. Oder "The 5 [Love Languages](/blog/love-languages-test-guide)" von Gary Chapman. Oder einen Online-Kurs über Paarkommunikation.
 
 Das ist nicht, weil ihr "kaputt" seid. Das ist, weil ihr einfach mehr Tools haben könnt.
 
@@ -1180,11 +1156,11 @@ Also: Wann machst du deine Beziehungsinventur?
 ---
 
 *Weitere hilfreiche Artikel:*
-- [Gesunde Beziehung Checkliste](/gesunde-beziehung-checkliste)
-- [Beziehung führen - kompletter Guide](/beziehung-fuehren-kompletter-guide)
-- [Effektive Kommunikation in der Beziehung](/kommunikation-beziehung)
-- [7 Ideen wie du deine Beziehung auffrischen kannst](/beziehung-auffrischen-ideen)
-- [Wann ist Paartherapie sinnvoll?](/paartherapie-wann-sinnvoll)## Weiterlesen
+- [Gesunde Beziehung Checkliste](/blog/gesunde-beziehung-checkliste)
+- [Beziehung führen - kompletter Guide](/blog/beziehung-fuehren-kompletter-guide)
+- [Effektive Kommunikation in der Beziehung](/blog/kommunikation-beziehung)
+- [7 Ideen wie du deine Beziehung auffrischen kannst](/blog/beziehung-auffrischen-ideen)
+- [Wann ist Paartherapie sinnvoll?](/blog/paartherapie-wann-sinnvoll)## Weiterlesen
 
 - [Emotionsregulation in Beziehungen: Wie du lernst, deine](/blog/emotionsregulation-beziehung-guide/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)

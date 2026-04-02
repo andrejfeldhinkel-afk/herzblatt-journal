@@ -1,5 +1,5 @@
 ---
-title: "Fearful Avoidant: Der ängstlich-vermeidende Bindungsstil (2026)"
+title: "Fearful Avoidant: Der ängstlich-vermeidende Bindungsstil"
 description: "Fearful Avoidant Bindungsstil verstehen: Ängstlich-vermeidendes Verhalten, Beziehungsmuster & wie du damit umgehen kannst"
 date: 2026-04-01
 image: "/images/blog/fearful-avoidant-attachment-guide.webp"
@@ -178,4 +178,4 @@ Das ist nicht unmöglich. Das ist eine Reise.
 
 ---
 
-**Möchtest du mehr über [Bid for Connection](/blog/bid-for-connection-gottman) oder [Sound Relationship House](/blog/gottman-sound-relationship-house) erfahren?**
+**Möchtest du mehr über [Sound Relationship House](/blog/gottman-sound-relationship-house) erfahren?**

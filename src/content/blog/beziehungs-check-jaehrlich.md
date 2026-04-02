@@ -11,7 +11,7 @@ tags:
 ---
 ## Der jährliche Beziehungs-Check: 50 Fragen für eure Liebe
 
-Deine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) ist nicht statisch. Sie wächst, verändert sich, entwickelt sich. Das ist wunderbar. Aber ohne bewusste Aufmerksamkeit kann sie auch auseinanderdriften, langsam, fast unmerklich, bis ihr eines Tages feststellt, dass ihr wie Fremde zusammenleben. Du und dein Partner werdet älter, eure Ziele ändern sich, neue Herausforderungen tauchen auf – und manchmal, ohne es zu bemerken, seid ihr nicht mehr die beiden Menschen, die sich ineinander [verliebt](/blog/mann-verliebt-anzeichen-komplett) haben. Die Verbindung verblasst. Die [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) wird oberflächlicher. Die Zärtlichkeit wird weniger häufig.
+Deine [verliebt](/blog/mann-verliebt-anzeichen-komplett) haben. Die Verbindung verblasst. Die [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) wird oberflächlicher. Die Zärtlichkeit wird weniger häufig.
 
 Ein jährlicher Beziehungs-Check ist ein Weg, dies zu verhindern. Es ist nicht wie Paartherapie, nicht wirklich. Es ist nicht eine Intervention, die du brauchst, wenn die Beziehung in Schwierigkeiten ist. Es ist einfach bewusste Zeit zusammen, in der ihr reflektiert, wo ihr seid, wo ihr hingehen wollt, und wie ihr euch gegenseitig unterstützen könnt. Es ist präventiv. Es ist fürsorgend.
 

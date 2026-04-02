@@ -11,51 +11,7 @@ tags:
 ---
 ## Dating nach Gewaltbeziehung: Sicher neu starten
 
-Nach einer Gewaltbeziehung ins Dating zurückzukehren ist einer der mutigsten Schritte, die du machen kannst. Das erfordert [heilung](/blog/aengstlicher-bindungsstil-heilen/), Selbstvertrauen und die Fähigkeit, wieder zu vertrauen – nicht nur anderen Menschen, sondern auch dir selbst.
-
-Dieser Artikel ist nicht für Jeden. Er ist speziell für Menschen, die emotionale, psychologische oder physische Gewalt erlebt haben und versuchen, wieder ins Dating-Leben zurückzukehren. Es ist wichtig zu verstehen, dass es keinen universellen Zeitrahmen gibt. Es gibt keine "richtige" Zeit. Es gibt nur deine Zeit.
-
-Hier besprechen, wann du bereit sein könntest, wie du deine Trigger erkennst, wie du sichere Dates planst, wie du rote Flaggen sofort siehst, wie du Vertrauen langsam aufbaust, und wie du professionelle Unterstützung einbeziehst.
-
-## Wann bist du bereit?
-
-Das ist die erste und wichtigste Frage. Es gibt keine universelle Antwort, aber es gibt einige Indikatoren, die dir helfen können zu sehen, ob du bereit bist.
-
-**Zeichen, dass du bereit sein könntest:**
-
-Du hast mit dir selbst Frieden gemacht. Das bedeutet nicht, dass du die Gewalt vergeben musst oder dass du alle Fragen beantwortet hast. Es bedeutet, dass du verstanden hast, dass das nicht deine Schuld war. Du warst nicht schuld an der Gewalt. Du konntest nichts tun, um das zu verhindern. Der andere Mensch trug die volle Verantwortung.
-
-Du hast professionelle Hilfe bekommen oder zumindest angefangen hast. Das könnte Therapie sein, ein Selbsthilfe-Programm, oder Unterstützung durch vertraute Freunde und Familie. Du brauchst nicht perfekt zu sein oder alle deine Probleme gelöst zu haben. Aber du solltest aktiv an deiner Heilung arbeiten.
-
-Du vermagst wieder, andere Menschen zu treffen, ohne dich überfordert zu fühlen. Das bedeutet nicht, dass du keine Angst hast. Es bedeutet, dass du die Angst fühlen kannst und sie trotzdem tun kannst.
-
-Du hast deine Grenzen klarer. Du weißt, was du brauchst und was du nicht brauchst. Du kannst "Nein" sagen, ohne dich schuldig zu fühlen.
-
-**Zeichen, dass du noch nicht bereit bist:**
-
-Du bist noch in regelmäßigem Kontakt mit der Person, die dir Gewalt angetan hat. Du solltest diesen Kontakt beenden oder zumindest minimieren, bevor du anfängst zu daten.
-
-Du hast noch heftige Schuldgefühle. Du glaubst noch, dass du die Gewalt irgendwie verursacht hast oder dass du sie hättest verhindern können.
-
-Du hast keine Unterstützung oder professionelle Hilfe. Das ist nicht zu sagen, dass du nicht daten kannst, aber es ist riskant. Du brauchst jemanden, mit dem du sprechen kannst, wenn die Dinge auftauchen.
-
-Du suchst Dating, weil du alleine nicht mit dir selbst sein kannst. Du suchst jemanden, der dich "heilt" oder "rettet". Das wird nicht gut gehen.
-
-## Trigger erkennen und damit umgehen
-
-Eine der größten Herausforderungen beim Dating nach Gewalt ist, dass bestimmte Dinge Erinnerungen auslösen können. Das könnte ein Geruch sein, ein bestimmtes Wort, eine Geste, eine Art, wie jemand spricht. Plötzlich bist du nicht mehr in dem Date – du bist zurück in der Gewaltbeziehung.
-
-Das ist völlig normal. Traumatische Erfahrungen hinterlassen neurobiologische Spuren. Trigger sind nicht etwas, das du "überwinden" kannst. Sie sind etwas, das du lernen kannst, zu erkennen und zu bewältigen.
-
-**Häufige Trigger:**
-
-Kontrolle: Wenn jemand versucht, dich zu kontrollieren oder deine Entscheidungen zu beeinflussen, könnte das ein Trigger sein. Das könnte sein: "Was wirst du heute anziehen?" oder "Lass mich für dich bestellen."
-
-Wut: Wenn dein Date-Partner wütend wird oder die Stimme erhebt – selbst wenn es nichts mit dir zu tun hat – könnte das dich zurück in die Situation bringen.
-
-Zunahmeverhalten: Wenn jemand versucht, schnell zu viel Nähe oder Kontrolle über dein Leben zu gewinnen, könnte das deine Alarm-Glocken läuten lassen.
-
-[Gaslighting](/blog/gaslighting-komplett-guide): Wenn jemand versucht, deine Realität zu leugnen oder zu delegitimieren, ist das ein großer Trigger, besonders wenn die Gewaltbeziehung Gaslighting beinhaltete.
+Nach einer Gewaltbeziehung ins Dating zurückzukehren ist einer der mutigsten Schritte, die du machen kannst. Das erfordert [Gaslighting](/blog/gaslighting-komplett-guide): Wenn jemand versucht, deine Realität zu leugnen oder zu delegitimieren, ist das ein großer Trigger, besonders wenn die Gewaltbeziehung Gaslighting beinhaltete.
 
 Einsamkeit/Hingabe: Wenn jemand versucht, dich zu isolieren oder möchte, dass du deine Freunde/Familie für ihn aufgibst.
 

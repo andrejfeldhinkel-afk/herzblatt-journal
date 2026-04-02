@@ -1,5 +1,5 @@
 ---
-title: "Gaslighting am Arbeitsplatz: Manipulation im Job erkennen (2026)"
+title: "Gaslighting am Arbeitsplatz: Manipulation im Job erkennen"
 description: "Gaslighting im Job erkennen und stoppen: Manipulation am Arbeitsplatz, Strategien zur Selbstschutz, professionelle Grenzen setzen."
 date: 2026-04-01
 image: "/images/blog/gaslighting-am-arbeitsplatz.webp"
@@ -159,6 +159,5 @@ Dein mentale Gesundheit ist wichtiger als ein Job. Punkt.
 ## Interne Links zu verwandten Inhalten
 
 Wenn du Gaslighting am Arbeitsplatz erlebst, könnten auch diese Artikel helfen:
-- [Toxic Boss: Wie man mit einem schlechten Chef umgeht](/blog/toxic-boss-strategien)
-- [Work-Life Balance: Wenn der Job dein Leben übernimmt](/blog/work-life-balance-grenzen)
-- [Grenzen setzen im Job: Professionelle Grenzen schützen](/blog/grenzen-job)
+- [Work-Life Balance: Wenn der Job dein Leben übernimmt](/blog/beziehung-work-life-balance)
+- [Grenzen setzen im Job: Professionelle Grenzen schützen](/blog/gaslighting-am-arbeitsplatz)

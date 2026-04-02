@@ -230,4 +230,4 @@ Du brauchst nicht. Du verdienst einen besseren Weg zu leben.
 
 Und No Contact ist das Werkzeug, um dorthin zu gelangen.
 
-Wenn du mehr Hilfe brauchst, unterstützen die [Flying Monkeys](/blog/flying-monkeys-narzissmus) und [Hoovering](/blog/hoovering-narzissmus-erkennen) Artikel dich mit praktischen Strategien für gemeinsame Herausforderungen.
+Wenn du mehr Hilfe brauchst, unterstützen die [Hoovering](/blog/hoovering-narzissmus-erkennen) Artikel dich mit praktischen Strategien für gemeinsame Herausforderungen.

@@ -161,18 +161,7 @@ Du darfst einfach gehen und dein Leben weiterleben.
 - [Autismus und Dating: Liebe finden auf dem Spektrum](/blog/autismus-und-dating-guide/)
 - [Beige Flags — Die langweiligen Warnsignale beim Dating](/blog/beige-flags-dating-guide/)
 - [Dating ab 50: Der komplette Guide für die Liebe in der](/blog/dating-ab-50-kompletter-guide/)
-- [Dating als Alleinerziehende/r](/blog/dating-als-alleinerziehend/)
-## FAQ
-
-**Was sind die häufigsten Red Flags beim ersten Date?**
-
-Ständig über den/die Ex reden, unhöflich zu Servicepersonal sein, deine Grenzen nicht respektieren, nur über sich reden und kein echtes Interesse an dir zeigen, dich kritisieren, oder ein komisches energetisches Feeling. Achte auf Muster von mangelndem Respekt.
-
-**Soll ich nach einer Red Flag sofort abbrechen?**
-
-Kommt auf die Red Flag an. Unhöflichkeit zu Servicepersonal oder Grenzüberschreitungen — ja, abbrechen. Nervöses Vielreden oder ein schlechter Tag — verdient eine zweite Chance. Wenn es mehrere Red Flags gibt, oder wenn dein Bauchgefühl sagt „geh", dann geh.
-
-**Können Red Flags auch [Green Flags](/blog/dating-green-flags-erkennen-guide) sein?**
+- [Green Flags](/blog/dating-green-flags-erkennen-guide) sein?**
 
 Nein, aber manche Verhaltensweisen werden falsch interpretiert. Nervosität ist keine Red Flag, Arroganz schon. Schüchternheit ist kein Problem, völliges Desinteresse an dir schon. Stelle sicher, dass du die Unterscheidung machst.
 

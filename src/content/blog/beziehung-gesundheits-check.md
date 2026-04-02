@@ -1,5 +1,5 @@
 ---
-title: "Beziehungs-Gesundheits-Check – Ist eure Liebe wirklich gesund?"
+title: "Beziehungs-Gesundheits-Check"
 description: "Jede Beziehung braucht ein regelmäßig Gesundheit-Check. Hier ist ein ehrlicher Test, um zu sehen, ob eure Liebe wirklich gesund ist."
 keywords: ["beziehungs-gesundheits-check", "beziehung", "kommunikation", "red flags", "vertrauen", "psychologie"]
 date: 2025-07-20

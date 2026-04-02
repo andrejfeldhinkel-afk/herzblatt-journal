@@ -92,31 +92,7 @@ Ein Zeichen, dass ein Mann auf dich steht, ist, wenn er versucht, dich zu beeind
 
 Das bedeutet nicht, dass er vorgeben muss, etwas zu sein, das er nicht ist. Es bedeutet einfach, dass er sein bestes Selbst präsentiert, weil er möchte, dass du ihn magst.
 
-Ein Mann, der versucht, dich zu beeindrucken, zeigt auch Sicherheit. Er möchte die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) mit dir, daher gibt er Aufwand.
-
-## 11. Er ist eifersüchtig oder möchte allein mit dir sein
-
-Ein interessierter Mann könnte Zeichen von Eifersucht zeigen, wenn du mit anderen Männern sprichst. Das ist nicht immer ein negatives Zeichen, wenn es nicht obsessiv wird. Ein leichtes Gefühl von Eifersucht zeigt, dass er sich um dich sorgt und nicht möchte, dass du mit jemand anderem bist.
-
-Er könnte auch wollen, dass ihr allein zusammen seid, anstatt in einer Gruppe. Das zeigt, dass er dich lieber allein mit dir verbringt als mit anderen um euch herum.
-
-## 12. Er öffnet sich dir gegenüber
-
-Einer der tiefsten Zeichen, dass ein Mann auf dich steht, ist, wenn er sich dir gegenüber öffnet. Er teilt seine Gedanken, seine Ängste, seine Träume. Er erlaubt dir, die verletzliche Seite von ihm zu sehen. Dies ist nicht etwas, das alle Männer leicht tun.
-
-Ein Man, der sich dir öffnet, vertraut dir. Er sieht dich als jemanden, mit dem er tiefe, echte Dinge teilen kann. Diese emotionale Intimität ist ein großes Zeichen von echtem Interesse.
-
-## Was tun, wenn alle Zeichen da sind?
-
-Wenn du mehrere dieser Zeichen siehst, kannst du ziemlich sicher sein, dass er auf dich steht. Aber was machst du jetzt? Der nächste Schritt ist, mit ihm zu sprechen. Du könntest sagen: "Ich mag dich wirklich. Mag ich dich auch?" Oder du könntest weiter Daten gehen und sehen, wie die Beziehung sich entwickelt.
-
-Die wichtigste Sache ist, nicht zu lange zu warten. Wenn du Gefühle für ihn hast und die Zeichen sind da, es ist besser, es ihm zu sagen. Das Schlimmste, das passieren kann, ist, dass er nicht so fühlt, aber dann weißt du und kannst vorwärtsgehen. Das Beste ist, dass er fühlt das Gleiche.
-
-## Was tun, wenn nicht alle Zeichen da sind?
-
-Wenn du die meisten Zeichen nicht siehst, ist es vielleicht Zeit, weiterzugehen. Du verdienst jemanden, der keinen Zweifel darüber lässt, dass er auf dich steht. Du verdienst jemanden, der Anstrengung gibt und dich zu seiner Priorität macht.
-
-Es ist einfach, auf jemanden zu warten, auf den du hoffst, dass er sich in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett). Aber du verschwendest Zeit, in der du jemanden treffen könntest, der wirklich auf dich steht.
+Ein Mann, der versucht, dich zu beeindrucken, zeigt auch Sicherheit. Er möchte die [verliebt](/blog/mann-verliebt-anzeichen-komplett). Aber du verschwendest Zeit, in der du jemanden treffen könntest, der wirklich auf dich steht.
 
 ## Die Unterschied zwischen Freundschaft und romantischem Interesse
 

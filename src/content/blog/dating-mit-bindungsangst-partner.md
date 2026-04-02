@@ -22,29 +22,7 @@ faq:
     answer: "Wenn die Person sich weigert, professionelle Hilfe zu suchen, dich emotional verletzt, Grenzverletzungen wiederholt oder du merkst, dass deine psychische Gesundheit leidet."
 ---
 
-## Einführung: Was ist [Bindungsangst](/blog/bindungsangst-komplett-guide) wirklich?
-
-Bindungsangst ist nicht einfach nur nervös vor Beziehungen zu sein. Es ist ein tiefes, oft unbewusstes Muster, das Menschen dazu bringt, sich gleichzeitig nach Nähe zu sehnen und diese zu fürchten. Dein bindungsängstlicher Partner könnte dich intensiv lieben und dich gleichzeitig unbewusst sabotieren, weil die Nähe zu überwältigend wird.
-
-Das Wichtigste zu verstehen: Bindungsangst ist nicht deine Schuld. Es ist auch nicht immer die Schuld deines Partners. Es ist ein psychologisches Muster, das oft in der Kindheit wurzelt und sich wie ein automatischer Schutzmechanismus anfühlt.
-
-## Die Wurzeln von Bindungsangst: Ein Blick auf die Psychologie
-
-### Wie Bindungsangst entsteht
-
-Bindungsangst entwickelt sich typischerweise in der frühen Kindheit. Wenn ein Kind emotional verfügbar ist, sich aber die Eltern unzuverlässig, überwältigend oder kontrollierend verhalten, lernt das Kind unbewusst: Nähe ist unsicher. Der Körper merkt sich dieses Muster.
-
-Ein bindungsängstlicher Partner könnte einen Elternteil gehabt haben, der emotional kalt war oder dessen Liebe sich bedingt anfühlte. Oder vielleicht war ein Elternteil zu intensiv, zu kontrollierend oder emotional nicht reguliert. Das Kind lernte, sich selbst zu schützen, indem es sich emotional zurückzog.
-
-Diese frühen Erfahrungen werden verinnerlicht. Der Körper entwickelt ein Alarmesystem für Nähe. Wenn Intimität wächst, kann sich das für deinen Partner anfühlen wie eine Bedrohung, auch wenn sein verstandesmäßiges Ich die Person liebt.
-
-### Der Unterschied zwischen verschiedenen Bindungsstilen
-
-Es gibt hauptsächlich vier Bindungsstile: sicher, ängstlich-ambivalent, vermeidend und furchtsam-vermeidend. Ein bindungsängstlicher Partner hat typischerweise einen vermeidenden oder furchtsam-vermeidenden Stil.
-
-Menschen mit vermeidender Bindung minimieren ihre emotionalen Bedürfnisse und betonen Unabhängigkeit. Menschen mit furchtsam-vermeidender Bindung sehnen sich nach Nähe, aber fürchten sie gleichzeitig intensiv. Beide Stile können sich sehr frustrierend anfühlen, wenn du mit dir Nähe und Konsistenz suchst.
-
-Der sichere [Bindungsstil](/blog/avoidant-attachment-beziehung-guide), den viele von uns anstreben, entsteht, wenn ein Kind erleben darf, dass Nähe sicher ist und dass emotionale Bedürfnisse erfüllt werden. Menschen mit sicherer Bindung können Intimität genießen, ohne sich bedroht zu fühlen.
+## Einführung: Was ist [Bindungsstil](/blog/avoidant-attachment-beziehung-guide), den viele von uns anstreben, entsteht, wenn ein Kind erleben darf, dass Nähe sicher ist und dass emotionale Bedürfnisse erfüllt werden. Menschen mit sicherer Bindung können Intimität genießen, ohne sich bedroht zu fühlen.
 
 ## Interaktives Tool: Attachment-Stil-Kompatibilität Checker
 

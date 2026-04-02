@@ -242,47 +242,7 @@ Das ist eine echte Frage und gibt ihr die Chance, interessant zu sein.
 
 "Schicke mir dein Nummer" – Das ist zu schnell.
 
-"Ich bin [verliebt](/blog/mann-verliebt-anzeichen-komplett)" – Das ist creepy nach einer Nachricht.
-
-Sexuelle Kommentare über ihren Körper – Das ist respektlos.
-
-Screenshots von deinen Muskeln – Das ist arrogant.
-
-"Warum antwortst du nicht?" – Das ist bedürftig.
-
-Die beste Nachricht ist, die Aufmerksamkeit und Persönlichkeit zeigt. Das ist es.
-
-## Von Match zum Date: Die Strategie
-
-Okay, du matched, du schreibst einen guten Opener. Sie antwortet.
-
-Jetzt musst du es zum Date bewegen – nicht zu schnell, aber auch nicht zu langsam.
-
-**Nachrichten 1-3:** Baut Rapport auf. Frag nach ihrem Leben. Mach Witze. Sei ein echter Mensch.
-
-**Nachrichten 4-7:** Zu einem persönlicheren Thema bewegen. "Was machst du am liebsten an Wochenenden?" "Wo willst du in 5 Jahren sein?"
-
-**Nachrichten 8-10:** Suggeriere ein Date. "Ich denke, wir sollten uns treffen. Wie geht es dir mit Kaffee am Samstag?"
-
-Das sollte über 1-2 Tage Durchgang passieren.
-
-Nicht zu schnell – dich nicht bedürftig wirken lassen.
-
-Nicht zu langsam – du wirst in der "Texting-Friend" Kategorie landen.
-
-## Häufige Match-Killer
-
-Diese Dinge werden dich Matches kosten:
-
-**Zu viel sexuelle Sprache zu schnell:** Sie möchte nicht mit dir sexuell chatten nach einer Nachricht. Du willst sie respektieren.
-
-**Zu viel über dich reden:** Das erste Gespräch sollte 60% über sie, 40% über dich sein.
-
-**Nicht antworten schnell genug:** Wenn du stundenlang brauchst, um zu antworten und sie drei Nachrichten schreibt, wird sie das Interesse verlieren.
-
-**Ein Loch in deinem Profil graben:** Sie fragt, warum du auf Tinder bist. Nicht sagen "Ich suche nicht nach einer Beziehung." Das ist ein Killers. Sagen "Ich bin offen für etwas Echtes. Du?"
-
-**[Ghosting](/blog/ghosting-komplett-guide) nach Match:** Sie schreibt dir, und du antwortest nicht für Tage. Das ist rude.
+"Ich bin [Ghosting](/blog/ghosting-komplett-guide) nach Match:** Sie schreibt dir, und du antwortest nicht für Tage. Das ist rude.
 
 **Dich zu verfügbar machen:** "Ich bin jederzeit verfügbar!" Das ist nicht attraktiv. Du hast ein Leben.
 
@@ -398,7 +358,6 @@ Das ist du sein kannst.
 
 ## Weiterlesen
 
-- [Das perfekte Date-Outfit für Männer: Von Café bis Restaurant](/blog/date-outfit-maenner)
 - [10 Dating-Fehler, die Männer ständig machen (und wie du](/blog/dating-fehler-maenner)
 - [Dating als hochsensibler Mann: Tiefe statt Fassade](/blog/dating-hochsensible-maenner)
 

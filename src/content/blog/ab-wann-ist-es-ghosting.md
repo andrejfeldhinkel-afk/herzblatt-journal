@@ -1,5 +1,5 @@
 ---
-title: "Ab wann ist es Ghosting? Stunden, Tage, Wochen erklärt (2026)"
+title: "Ab wann ist es Ghosting? Stunden, Tage, Wochen erklärt"
 description: "Ab wann ist es Ghosting? Erfahre, wann fehlendes Kontakt zur emotional schädlichen Verhaltensweise wird und wie du damit umgehen solltest."
 date: 2026-04-01
 image: "/images/blog/ab-wann-ist-es-ghosting.webp"
@@ -108,7 +108,7 @@ Ghosting sagt nichts über deinen Wert aus. Es sagt alles über den Charakter de
 
 Und das ist all die Energie nicht wert, die du beim Warten aufgewendet hast.
 
-[Wenn du geghostet wurdest, können diese Sprüche helfen zu heilen](/blog/ghosting-sprueche-zitate). Und wenn du wissen möchtest, [ob der Ghoster zurückkommen wird](/blog/ghosting-taeter-kommen-zurueck), gibt es dafür auch Antworten.
+[ob der Ghoster zurückkommen wird](/blog/ghosting-taeter-kommen-zurueck), gibt es dafür auch Antworten.
 
 ## Die innere Haltung ist wichtiger
 

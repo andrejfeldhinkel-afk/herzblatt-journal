@@ -42,29 +42,7 @@ Das bedeutet: Deine Angst ist nicht irrational. Sie ist archaisch. Sie ist Teil 
 
 Keine Wunder, dass du dich ängstlich fühlst.
 
-**Dann können noch persönliche Erfahrungen hinzukommen.** Vielleicht hattest du eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) die dich brutal verletzt hat. Vielleicht hast du erlebt wie Eltern sich scheiden ließen und "allein sein" immer mit Trauer verbunden war. Vielleicht wurdest du als Kind ausgegrenzt, gehänselt, hattest du wenig enge Freundschaften. Diese Erfahrungen programmieren dein Nervensystem: "Alleinsein = Gefahr."
-
-Die Mischung aus Evolution, Kultureller Programmierung und persönlichen Wunden — das ist deine perfekte Angststorm.
-
-## Wie diese Angst dein Dating sabotiert
-
-Hier wird es praktisch. Denn die Angst allein zu bleiben hat konkrete, zerstörerische Auswirkungen auf dein Liebesleben.
-
-**Du ignorierst Warnsignale.** Der Typ flirtet mit deiner beste Freundin. Die Frau beleidigt dich regelmäßig und nennt es "ehrlich". Der Mann kann nicht über Gefühle sprechen und trinkt jeden Abend. Aber dein Gehirn flüstert: "Das ist vielleicht deine letzte Chance. Mit 30 musst du realistisch sein. Es ist besser ein problematischer Partner als gar keiner."
-
-Das ist Lüge. Aber deine Angst macht sie überzeugend.
-
-Ich hatte eine Klientin (nenne sie Lisa) die sich in einen Mann verliebte der bereits verheiratet war. Sie wusste es. Sie wusste, dass es unmöglich war. Aber Lisa hatte diese brennende Angst allein zu bleiben. Also rechtfertigte sie es: "Vielleicht lässt er sich trennen. Vielleicht liebe ich ihn und das wird alles regeln." Sie verschwendete 3 Jahre auf etwas Unmögliches. Nicht weil sie blind war. Sondern weil ihre Angst lauter war als ihre Vernunft.
-
-**Du greifst nach Menschen statt nach Verbindung.** Es gibt einen Unterschied zwischen "ich möchte eine Beziehung" und "ich möchte diesen Menschen." Die Angst allein zu bleiben verwandelt den zweiten in eine Verzweiflung, in ein "irgendjemanden" — Hauptsache nicht allein.
-
-Du wischst hin bei jemandem der dir nicht entspricht, nur um eine Chance nicht zu verpassen. Du investierst in Menschen die dich nicht investieren. Du rennst Leuten hinterher die kein wirkliches Interesse an dir zeigen. Du machst dich selbst klein, angepasst, unechter — nur um ja zu gefallen.
-
-Das ist für niemanden attraktiv. Das macht dich weniger interessant, nicht mehr. Menschen spüren Bedürftigkeit und sie laufen weg.
-
-**Du kannst Rot-Flaggen nicht von Rot-Pfeilen unterscheiden.** Ein Rot-Pfeil ist etwas Liebreizendes: Der Mann ist nervös wenn er dich sieht. Die Frau lacht ungewöhnlich viel bei deinen Witzen. Jemand ist unsicher — arbeitet aber daran.
-
-Eine Rot-Flagge ist etwas Gefährliches: [Gaslighting](/blog/gaslighting-komplett-guide). Emotionale Manipulation. Kontrollverhalten. Unverbundenheit. Wenn jemand deine Grenzen wiederholt ignoriert.
+**Dann können noch persönliche Erfahrungen hinzukommen.** Vielleicht hattest du eine [Gaslighting](/blog/gaslighting-komplett-guide). Emotionale Manipulation. Kontrollverhalten. Unverbundenheit. Wenn jemand deine Grenzen wiederholt ignoriert.
 
 Angst allein zu bleiben macht unseren Radar dafür kaputt. "Vielleicht ist das normal. Vielleicht bilde ich mir das ein. Vielleicht bessert es sich wenn ich mehr Verständnis habe."
 

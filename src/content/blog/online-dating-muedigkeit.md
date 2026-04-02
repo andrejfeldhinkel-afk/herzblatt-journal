@@ -32,11 +32,7 @@ Willkommen bei der Online-Dating-Müdigkeit — einem Phänomen, das Millionen v
 
 ## Warum Dating-Müdigkeit entsteht
 
-Die [psychologie](/blog/aengstlicher-bindungsstil-heilen/) dahinter ist gut erforscht. Das sogenannte Paradox der Wahl zeigt: Je mehr Optionen wir haben, desto schwerer fällt uns eine Entscheidung — und desto unzufriedener sind wir mit dem Ergebnis.
-
-Dating-Apps geben uns das Gefühl endloser Möglichkeiten. Das klingt toll, führt aber dazu, dass wir niemanden wirklich kennenlernen, weil immer jemand Besseres einen Swipe entfernt sein könnte.
-
-Dazu kommen die typischen Frustrationen: [Ghosting](/blog/ghosting-komplett-guide), oberflächliche Gespräche, Zeitverschwendung mit Menschen, die es nicht ernst meinen. Jede Enttäuschung nagt ein bisschen mehr an deiner Motivation.
+Die [Ghosting](/blog/ghosting-komplett-guide), oberflächliche Gespräche, Zeitverschwendung mit Menschen, die es nicht ernst meinen. Jede Enttäuschung nagt ein bisschen mehr an deiner Motivation.
 
 ## Die Warnsignale erkennen
 
@@ -76,7 +72,7 @@ Hilfreiche Ressourcen findest du bei Neurologen und Psychiater im Netz: [Neurolo
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Dating nach Burnout oder Depression: Wann bin ich bereit für die Liebe?](/blog/dating-nach-burnout), [Dating-Trends 2026: Die 10 wichtigsten Entwicklungen, die du kennen musst](/blog/dating-trends-2026), [Eifersucht in der Beziehung überwinden: So schaffst du es](/blog/eifersucht-beziehung-ueberwinden).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Dating-Trends 2026: Die 10 wichtigsten Entwicklungen, die du kennen musst](/blog/dating-trends-2026), [Eifersucht in der Beziehung überwinden: So schaffst du es](/blog/eifersucht-beziehung-ueberwinden).## Weiterlesen
 
 - [Dating-Müdigkeit 2024: Wenn Swipen keinen Spaß mehr macht](/blog/dating-muedigkeit-2024/)
 - [Die Psychologie des Online-Datings: Warum wir swipen wie wir](/blog/online-dating-psychologie/)

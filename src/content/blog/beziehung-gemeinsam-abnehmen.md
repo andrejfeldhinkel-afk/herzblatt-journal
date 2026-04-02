@@ -197,7 +197,6 @@ Das ist alle gute Dinge.
 
 ## Weiterlesen
 
-- [Gemeinsam meditieren als Paar: Achtsamkeit zu zweit](/blog/beziehung-gemeinsam-meditieren)
 - [Gemeinsam wachsen: 12 Entwicklungsziele für Paare](/blog/beziehung-gemeinsam-wachsen)
 - [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 

@@ -28,62 +28,7 @@ Du hast [dating](/blog/anzeichen-er-steht-auf-dich/)-App-Müdigkeit. Und du bist
 
 ## Was ist Dating-App-Müdigkeit?
 
-Dating-App-Müdigkeit ist emotionale und psychologische Erschöpfung von der Fülle von [online-dating](/blog/beste-dating-apps-2026/).
-
-Es kommt von:
-
-**Überwahl:** Wenn du hundert Profile pro Tag siehst, wird jeder Mensch weniger wertvoll. Es gibt immer jemanden "besseres" zum Swipen.
-
-**Oberflächlichkeit:** Dating-Apps sind basiert auf Fotos und kurze Bio. Das kann dich zum Glauben machen, dass echte Liebe nicht möglich ist.
-
-**Endlose Unfähigkeit:** Du machst Match mit Menschen, die dich blockieren, nicht antworten, oder nicht zeigen. Es fühlt sich wie Ablehnung an.
-
-**Zeitaufwand:** Stunden swipen, Nachrichten, Dates – für wenig Gewinn. Das ermüdet dich.
-
-**Enttäuschung nach Enttäuschung:** Nach dem zehnten Datum, das keine Chemie hatte, glaubst du, dass Chemie nicht existiert.
-
-## Die Zeichen, dass du Müdigkeit hast
-
-- Du öffnest die App und hoffst, dass du nicht matchen wirst
-- Dates fühlen sich wie eine Pflicht an
-- Du fragst nicht-echte Fragen (einfach nur "das Ding" machen)
-- Du antwortest auf Nachrichten, aber ohne echtes Interesse
-- Du wischst nur aus Gewohnheit, nicht aus Hoffnung
-- Du bist jaded und bitter über den Prozess
-- Du fragst dich, ob echte Liebe möglich ist
-- Die Idee eines Dates macht dich eher ängstlich als aufgeregt
-
-Wenn das dich klingt, du hast Müdigkeit.
-
-## Der erste Schritt: Erkenne es
-
-Der erste Schritt ist zu erkennen, dass dies nicht ein persönliches Versagen ist. Du bist nicht kaputt. Die Methode ist einfach ausgelaugt.
-
-Das ist normal. Die meisten Menschen, die lange online daten, erleben das irgendwann.
-
-## Strategie 1: Die vollständige Pause
-
-Manchmal das Beste, was zu tun ist, ist eine komplette Pause. Löschen Sie die Apps. Sagen Sie nicht "Ich mache eine Pause" und lade sie nächste Woche herunter. Löschen Sie sie.
-
-Wie lange? 1-3 Monate, abhängig davon, wie schlecht es ist.
-
-Während der Pause:
-
-- Treffe Menschen offline durch Hobbys, Freunde, Kurse
-- Arbeite auf dich selbst
-- Erinnere dich, dass echte Liebe existiert, auch wenn du sie nicht findest
-- Genießen Sie nicht-Dating Aktivitäten
-- Lass dein Nervensystem sich beruhigen
-
-Nach 2-3 Monaten, du wirst bereit sein, mit frischer Perspektive zu versuchen.
-
-## Strategie 2: Die Reduktion
-
-Wenn du nicht willst zu pausieren ganz:
-
-- **Nutze nur eine App:** Statt drei zu verwenden, nutze nur eins.
-- **Begrenze deine Zeit:** 20 Minuten pro Tag statt Stunde.
-- **Wechsel zu langsameren Apps:** Nutzen Sie Apps wie [Hinge](/blog/hinge-guide-deutsch-2026) (fokussiert auf echte Beziehungen), nicht Tinder (oberflächlich und schnell).
+Dating-App-Müdigkeit ist emotionale und psychologische Erschöpfung von der Fülle von [Hinge](/blog/hinge-guide-deutsch-2026) (fokussiert auf echte Beziehungen), nicht Tinder (oberflächlich und schnell).
 - **Deaktiviere die Benachrichtigungen:** Lass nicht die App kontinuierlich dich erinnernd, dass du datin könntest.
 
 ## Strategie 3: Neurahmen des Prozesses

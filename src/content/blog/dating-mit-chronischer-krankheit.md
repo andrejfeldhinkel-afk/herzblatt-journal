@@ -1,5 +1,5 @@
 ---
-title: "Dating mit chronischer Krankheit: Offen sein ohne Angst (2026)"
+title: "Dating mit chronischer Krankheit: Offen sein ohne Angst"
 description: "Dating mit chronischer Krankheit: Wie navigierst du Dating mit Epilepsie, Diabetes, Fibromyalgie? Wann offenbaren? Selbstwertgefühl und echte Verbindung."
 date: 2026-04-01
 image: "/images/blog/dating-mit-chronischer-krankheit.webp"

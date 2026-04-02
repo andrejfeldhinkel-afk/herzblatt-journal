@@ -78,35 +78,7 @@ Die Lösung ist zu sprechen: Können die Kosten geteilt werden? Kann einer von e
 
 **Tipp 8: Die ersten 30 Minuten nach dem Treffen sind kaum miteinander reden.** Umarmt euch. Küsst euch. Liebe euch körperlich. Ihr beide habt das vermisst. Nachdem die Wölfe befriedigt sind, könnt ihr reden.
 
-**Tipp 9: Erstelle Rituale in Bezug auf Besuche.** Das könnte ein bestimmtes Restaurant sein, in das ihr jedes Mal geht. Es könnte ein bestimmter Ort sein, an dem ihr spaziert. Diese Rituale schaffen eine Konstante in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/), die sonst sehr variabel ist.
-
-**Tipp 10: Sprecht vor jedem Besuch über Erwartungen.** Wollen einige von euch viel Sex? Jemand von euch mag Zeit mit Familie verbringen? Ein von euch will ausgehen, der andere will zu Hause bleiben? Sprechen Sie früher, nicht später. Das ersparet Enttäuschungen.
-
-## Tipp 11-15: Emotionale Verbindung vertiefen
-
-**Tipp 11: Spiele Fragen-Spiele, um dich näher zu kennen.** Es gibt Apps und Websites mit Fragen, die Paare sich stellen können – tiefe, bedeutungsvolle Fragen. "Wenn du bei einer Sache dein ganzes Leben ändern könntest, würde es sein?" "Was machst du am meisten Angst?" Diese Konversationen sind unter verschiedenen Umständen unbequem, aber über Distanz schaffen sie echte Intimität.
-
-**Tipp 12: Schreib Brief an deinen Partner.** Ein echter Brief. Mit Stift und Papier. In der Welt der Texte und sofortigen Kommunikation ist ein handgeschriebener Brief von erstaunlicher Intimität. Das zeigt Anstrengung. Das zeigt Absicht.
-
-**Tipp 13: Teile dein Leben täglich.** Das bedeutet, Fotos vom Morgenkaffe zu schicken. Das bedeutet, über den blöden Typen im Büro zu sprechen. Das bedeutet, die kleinen, banalen Details deines Lebens zu teilen. So viele Leute denken, dass Fernbeziehungen nur "tiefe Gespräche" brauchen. Das ist falsch. Du brauchst die alltäglichen Moment auch.
-
-**Tipp 14: Sehen Sie sich an, und denken Sie daran, dass es der gleiche Mond ist.** Das mag sentimentale, aber es ist beruhigend. Du siehst denselben Mond. Der gleiche Himmel. Es gibt eine Verbindung dort.
-
-**Tipp 15: Zelebrieren Sie Meilensteine zusammen, auch aus der Ferne.** Geburtstag? Schicken Sie Blumen. Jahrestag? Planen Sie eine romantische Videoanruf mit Champagner auf beiden Enden. Der Abschluss? Buchen Sie einen Kurztrip, um zu feiern.
-
-## Tipp 16-20: Mit Einsamkeit und Eifersucht umgehen
-
-**Tipp 16: Erkenne an, dass Einsamkeit Teil davon ist – und das ist OK.** Fernbeziehungen sind einsam. Das ist keine Schande. Das ist die Realität. Der Erste Schritt ist zu akzeptieren: "Ja, ich vermisse diese Person. Das ist normal. Das bedeutet nicht, dass die Beziehung kaputt ist."
-
-**Tipp 17: Habe ein lebensvolles Leben außerhalb dieser Beziehung.** Ich meine, nicht romantisch. Ich meine, Freunde. Hobbys. Karriere. Projekte. Je leerer dein Leben außerhalb dieser Beziehung ist, desto mehr wirst du dich auf diese Beziehung stützen, um dich zu erfüllen. Das ist zu viel Druck. Gib dir selbst ein spannendes Leben, und die Einsamkeit wird viel leichter zu tragen sein.
-
-**Tipp 18: Sprich über Eifersucht, bevor es zu einem Problem wird.** Fernbeziehungen können Eifersucht auslösen. "Was machst du Samstagabend? Mit wem?" Diese Impulse sind normal, aber sie können giftig werden. Sprecht früh: "Ich weiß, dass ich eifersüchtig werden kann. Das ist mein Problem zu arbeiten, nicht dein Problem zu befriedigen."
-
-**Tipp 19: Vertraue deinem Partner – wirklich vertraue.** Vertrauen ist nicht, dass du weißt, dass sie nicht betrügen wird. Vertrauen ist die Wahl, dass du glaubst, dass sie nicht betrügen wird, auch wenn du keine Gewissheit hast. Ohne dieses Vertrauen, eine Fernbeziehung ist quälend.
-
-**Tipp 20: Wenn du dich unsicher fühlst, sag es.** "Ich fühle mich diese Woche unsicher. Ich brauche etwas mehr Aufmerksamkeit von dir." Das ist nicht bedürftig. Das ist offen und ehrlich. Ein Partner, der sich um dich kümmert, wird dir das geben.
-
-## Tipp 21-25: [Red Flags](/blog/dating-red-flags-maenner-erkennen) und wenn man loslässt
+**Tipp 9: Erstelle Rituale in Bezug auf Besuche.** Das könnte ein bestimmtes Restaurant sein, in das ihr jedes Mal geht. Es könnte ein bestimmter Ort sein, an dem ihr spaziert. Diese Rituale schaffen eine Konstante in einer [Red Flags](/blog/dating-red-flags-maenner-erkennen) und wenn man loslässt
 
 **Tipp 21: Sei vorsichtig mit dem "Ersatz-Partner-Phänomen."** Das ist, wenn dein Partner die ganze Zeit mit deinem besten Freund des anderen Geschlechts abhängt und dich nicht sagt. Das ist nicht normal, selbst in nicht-fernbeziehungen. In Fernbeziehungen ist es ein Warnsignal.
 
@@ -276,7 +248,7 @@ Zusätzlich, Fernbeziehungen lehren dich echte Kommunikation. Du kannst nicht da
 
 Das ist ein Geschenk. Das sind Fähigkeiten, die jedes Paar braucht.
 
-Siehe auch: [Bindungsangst überwinden: Warum du dich nicht einlassen kannst](/blog/bindungsangst-ueberwinden) und [Emotionale Intelligenz in Beziehungen: Der Schlüssel zu einer glücklichen Partnerschaft](/blog/emotionale-intelligenz-beziehung)
+Siehe auch: [Emotionale Intelligenz in Beziehungen: Der Schlüssel zu einer glücklichen Partnerschaft](/blog/emotionale-intelligenz-beziehung)
 ## Weiterlesen
 
 - [Liebe auf Distanz: So übersteht eure Fernbeziehung jede](/blog/liebe-auf-distanz-tipps/)

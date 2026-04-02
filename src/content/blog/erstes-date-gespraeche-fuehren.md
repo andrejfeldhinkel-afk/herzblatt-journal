@@ -93,7 +93,6 @@ Letztendlich: Je mehr Dates du hast, desto besser wirst du darin. Du lernst, wel
 Geh rein mit der Einstellung: Ich möchte diesen Menschen kennenlernen. Nicht: Ich muss ihn / sie beeindrucken. Mit dieser Haltung fällt dir das Sprechen viel leichter – und das Date wird wahrscheinlich auch besser.## Weiterlesen
 
 - [Erstes Date Outfit: Was solltest du anziehen?](/blog/erstes-date-outfit/)
-- [Date-Gespräche die nie langweilig werden: 100 Fragen und](/blog/date-gespraeche-nie-langweilig/)
 - [10 [Red Flags](/blog/dating-red-flags-maenner-erkennen) beim ersten Date die du nicht ignorieren](/blog/dating-rote-flaggen-erstes-date/)
 - [Das erste Telefonat vor dem Date: So machst du es richtig](/blog/erstes-telefonat-vor-date/)
 - [Dating-App Gespräche: Von Small Talk zu echten Verbindungen](/blog/dating-app-gespraeche-vertiefen/)

@@ -16,15 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-Du sitzt beim Familienessen und merkst: Sie wollen ihn nicht. Oder sie. Die Blicke, die Fragen, die unterschwellige Spannung — all das sagt mehr als Worte. Deine Eltern sind gegen deine [beziehung](/blog/adhs-und-beziehung-komplett-guide/). Und plötzlich sitzt du in einem Konflikt, der dir zerreißt: die Familie auf der einen Seite, dein Partner auf der anderen.
-
-Das ist einer der härtesten Konflikte, die du erleben kannst. Weil es nicht einfach um eine Meinungsverschiedenheit geht. Es geht um Loyalität, um Liebe, um die Frage: Wem gehöre ich wirklich?
-
-## Warum Eltern gegen Beziehungen sind
-
-Bevor du reagierst, lohnt sich zu verstehen, warum deine Eltern überhaupt dagegen sind. Es gibt konkrete Muster, und nur wenn du diese erkennst, kannst du richtig damit umgehen.
-
-### Sie sehen echte [Red Flags](/blog/dating-red-flags-maenner-erkennen)
+Du sitzt beim Familienessen und merkst: Sie wollen ihn nicht. Oder sie. Die Blicke, die Fragen, die unterschwellige Spannung — all das sagt mehr als Worte. Deine Eltern sind gegen deine [Red Flags](/blog/dating-red-flags-maenner-erkennen)
 
 Manchmal haben Eltern recht. Wirklich. Sie kennen dich dein ganzes Leben lang, sie kennen die Zeichen von emotionalem oder körperlichem Missbrauch, von Manipulation, von toxischen Mustern. Sie sehen, wenn dein Partner kontrollierend ist, wenn er oder sie dich isoliert, wenn die Beziehung ungleich verteilt ist.
 

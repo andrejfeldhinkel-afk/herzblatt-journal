@@ -1,5 +1,5 @@
 ---
-title: "Dating-Müdigkeit: Warum du keine Lust mehr hast und was wirklich hilft"
+title: "Dating-Müdigkeit: Warum du keine Lust mehr hast und was w..."
 description: "Dating Fatigue verstehen: Erfahre warum du erschöpft vom Dating bist und konkrete Strategien um wieder Energie zu finden."
 date: 2026-03-29
 tags:
@@ -303,4 +303,4 @@ Und dann, wenn du bereit bist, wenn dein Herz heilt, wenn dein Leben voll ist wi
 
 ---
 
-**Verwandte Artikel:** Erfahre wie du [dich selbst liebst while dating](/selbstliebe-partnersuche/) und wie du [Erwartungen beim Dating managest](/dating-expectations/).
+**Verwandte Artikel:** Erfahre wie du [dich selbst liebst while dating](/blog/selbstliebe-vor-partnersuche) und wie du [Erwartungen beim Dating managest](/blog/dating-perfektionismus).

@@ -316,9 +316,7 @@ Scammer sind nicht technisch Genie. Sie sind psychologische Manipulatoren. Sie v
 
 ### Die Phasen der psychologischen Manipulation
 
-**Phase 1: [Love Bombing](/blog/love-bombing-erkennen-schuetzen)**
-
-Sie senden VIELE Nachrichten, [Komplimente](/blog/komplimente-fuer-maenner), Aufmerksamkeit. Du merkst nicht, wie überwältigend das ist – du bist einfach erleichtert, dass jemand dich endlich mag.
+**Phase 1: [Komplimente](/blog/komplimente-fuer-maenner), Aufmerksamkeit. Du merkst nicht, wie überwältigend das ist – du bist einfach erleichtert, dass jemand dich endlich mag.
 
 Sie sagen:
 - "Ich kann nicht aufhören, an dich zu denken"
@@ -536,115 +534,7 @@ Sextortion ist anders, weil es nicht nur Geld ist – es ist Scham und Erpressun
 **In den nächsten Tagen:**
 
 5. **Melde es der Polizei.** Sextortion ist ein Kriminalfall.
-6. **Melde es der Plattform.** ([Hinge](/blog/hinge-guide-deutsch-2026), Telegram, Email-Provider, etc.)
-7. **Überprüf deine Sicherheit.** Wenn du gehackt wurdest, ändere ALLES.
-
-**Psychologisch:**
-
-8. **Verstehe, dass du nicht allein bist.** Sextortion passiert täglich. Es ist nicht deine Schuld.
-9. **Die Drohung ist nicht real (wahrscheinlich).** Die meisten Sextortionists haben nicht deine Kontakte und werden die Bilder nicht teilen. Sie sind verlassen darauf, dass du Angst hast und zahlst.
-10. **Teile es mit jemandem, dem du vertraust.** Der Scham ist schwer, aber wenn du es selbst behältst, wird es schwerer.
-
-## Kapitel 9: Wie du dich schützen kannst – Präventiv
-
-Die beste Verteidigung ist, überhaupt nicht betrogen zu werden.
-
-### Rule #1: Videocall früh
-
-Bevor du emotional invested wirst, oder bevor du persönlich triffst, videocall mit jemand.
-
-Dies ist die #1 Maßnahme um Scammer und Catfisher zu filtern.
-
-Echte Menschen werden videocall. Scammer haben 100 Gründe warum nicht.
-
-Timing: Nach 1-2 Wochen echtem Chatten ist dieser Punkt fair zu machen.
-
-### Rule #2: Vertraue deinem Bauchgefühl mehr als deinen Hormonen
-
-Wenn etwas sich "too good to be true" anfühlt, ist es das wahrscheinlich.
-
-Das Internet ist voller Menschen, die sind einsam und suchen Verbindung. Es ist auch voller Menschen, die wollen dein Geld.
-
-Wenn jemand:
-- Zu perfekt auf dem Papier ist
-- Lieben dich sofort
-- Hat die perfekte Story, um dich auszutricksen
-- Vermeidet normale Dinge (Video, Treffen)
-
-Es ist wahrscheinlich nicht real.
-
-### Rule #3: Keine Geld transferiert
-
-Das ist simpel: Niemals Geld an jemanden transferieren, den du nicht persönlich treffen wurdest. Punkt.
-
-Wenn sie um Geld bitten für jeden Grund, egal wie gut die Grund klingt – das ist ein Scammer.
-
-Ein echte Person wird nicht dich fragen, ihr Leben finanzieren.
-
-### Rule #4: Überprüf die Fotos
-
-Nutze umgekehrte Image-Suche für alle ihre Fotos.
-
-Wenn die Fotos von jemand anders stammen, das ist ein Scammer.
-
-### Rule #5: Sei skeptisch bei extremen Stories
-
-Menschen mit riesigen Probleme oder riesigen Glück sind oft Scammer.
-
-Das ist nicht zu sagen, dass alle mit Problemen Scammer sind. Aber die Kombination von "I have a huge problem" + "I need you specifically to help" + "You are special" = Rote Flagge.
-
-### Rule #6: Treffe dich früh und in Person
-
-Nach 3-4 Wochen echtem Chatten, falls Chemie da ist, treff dich in Person.
-
-Dies ist the biggest filter für alles:
-- Ist die Person echt?
-- Sieht sie wie ihr Fotos?
-- Ist die Chemie wirklich da?
-
-Viele Scammer können nicht darum herum – sie werden Gründe erfinden warum sie nicht treffen können, oder wenn sie treffen, werden sie dich für Geld fragen.
-
-## Kapitel 10: Der psychologische Fallout
-
-Wenn du gescammt wurdest, besonders ein Romance Scam, wird das dein Vertrauen getroffen haben.
-
-Du könntest dich fühlen:
-- Dumm ("Wie konnte ich das nicht sehen?")
-- Beschämt ("Ich erzähle das niemandem")
-- Paranoid ("Ich werde niemand je wieder vertrauen")
-- Wütend ("Ich will Rache")
-- Verletzt ("Mein Herz wurde gebrochen, auch wenn die Person nicht real war")
-
-All diese Gefühle sind normal.
-
-### Worum es geht
-
-Das erste, zu verstehen: Das war nicht Ihre Schuld, weil Sie zu vertrauensvoll waren.
-
-Es war die Schuld des Scammers, der intelligente, psychologische Manipulationstaktiken nutzte.
-
-Menschen mit guten Absichten sind vertrauensvoll. Das ist nicht ein Fehler. Das ist ein Qualität.
-
-Die Anpassung ist nicht zu werden "Niemand vertrauen". Es ist zu lernen, mit Vorsicht zu vertrauen.
-
-### Wiederaufbau von Vertrauen
-
-Die Schritte sind:
-
-1. **Akzeptie, dass es passiert ist, und es ist nicht deine Schuld**
-2. **Lerne aus es (welche Warnsignale sah ich nicht?)**
-3. **Setz Grenzen (Ich werde nicht Geld transferieren bis...)**
-4. **Versuch wieder** (aber mit neue Grenzen und Vorsicht)
-
-Manche Menschen, nachdem sie gescammt wurden, hören komplett mit Online-Dating auf. Das ist eine Wahl.
-
-Aber für viele, das beste ist, zu versuchen wieder, aber mit:
-- Bessere Warnsignale-Erkennung
-- Frühere Video-Calls
-- Frühere in-Person Treffen
-- Absolut keine Geld-Transfere
-
-## Kapitel 10B: Spezielle Szenarien und [Red Flags](/blog/dating-red-flags-maenner-erkennen) im Detail
+6. **Melde es der Plattform.** ([Red Flags](/blog/dating-red-flags-maenner-erkennen) im Detail
 
 Es gibt bestimmte Szenarien, die immer Warnsignale sind. Hier sind konkrete Beispiele:
 

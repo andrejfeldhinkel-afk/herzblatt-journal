@@ -274,17 +274,7 @@ Und die richtige Person wird das respektieren.
 - [Dating als Ambivert: Dein Vorteil wenn du weder](/blog/dating-als-ambivert/)
 - [Fleabagging — Warum du immer die falschen dattest](/blog/fleabagging-dating-pattern-guide/)
 - [Unmatched werden: Warum es passiert und wie du damit umgehst](/blog/unmatched-werden-dating-umgehen/)
-- [Die Psychologie des Online-Datings: Warum wir swipen wie wir](/blog/online-dating-psychologie/)
-## FAQ
-
-**Warum sind Grenzen beim Dating wichtig?**
-Grenzen schützen deine emotionale Energie und filtern Menschen heraus die deinen Respekt nicht verdienen. Ohne Grenzen verlierst du dich im Dating-Prozess.
-
-**Wie setze ich Grenzen ohne unfreundlich zu wirken?**
-Klar und freundlich: "Das ist nicht meins" oder "Ich fühle mich damit nicht wohl". Du musst Grenzen nicht rechtfertigen — ein Nein ist ein vollständiger Satz.
-
-**Welche Grenzen sollte ich beim Dating haben?**
-Grundlegende: Keine sexuellen Übergriffe, kein [Ghosting](/blog/ghosting-komplett-guide) tolerieren, keine Lügen akzeptieren. Individuelle: Dein Tempo beim Sex, wie schnell du dich triffst, was du teilst.
+- [Ghosting](/blog/ghosting-komplett-guide) tolerieren, keine Lügen akzeptieren. Individuelle: Dein Tempo beim Sex, wie schnell du dich triffst, was du teilst.
 
 **Was sollte ich tun, wenn der andere Mensch meine Grenze nicht respektiert?**
 Das ist eine rote Flagge. Echte Partner respektieren Grenzen. Wenn someone argumentiert oder versucht, deine Grenze zu brechen, ist die Person nicht für dich geeignet.
@@ -296,6 +286,5 @@ Nein. Die beste Grenzen sind ein Zeichen von Selbstachtung. Echte Partner respek
 
 ## Lesenswerte Links
 
-- [Beziehungssucht erkennen und heilen](/blog/beziehungssucht-erkennen)
 - [Warum Ghosting Menschen verletzt](/blog/warum-ghostet-man)
 - [Toxische Scham in Beziehungen erkennen](/blog/toxische-scham-beziehung)

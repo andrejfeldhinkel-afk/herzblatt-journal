@@ -14,23 +14,7 @@ tags:
 keywords: ["beziehungssucht", "beziehungssucht erkennen", "abhängig von beziehung"]
 ---
 
-Du verlässt eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) und wirkst sechs Wochen später mit jemandem neu zusammen. Dein Partner kritisiert dich, und du versuchst verzweifelt herauszufinden, wie du ihn ändern kannst, anstatt zu gehen. Dein Telefon ist dein bestes Freund — jede Benachrichtigung von deinem Partner löst einen Adrenalinrausch aus. Du kannst ohne ihn nicht atmen. Das ist keine Liebe. Das ist Beziehungssucht.
-
-Beziehungssucht ist ein ernstes, weit verbreitetes Problem, das viele Menschen unter dem Etikett "ich bin einfach eine liebevolle Person" verstecken. Aber es ist nicht Liebe. Es ist Angst. Es ist Kontrollbedürfnis. Es ist Abhängigkeit. Und es wird deine romantischen Beziehungen zerstören — jede einzelne — bis du lernst, damit umzugehen.
-
-## Was ist Beziehungssucht wirklich?
-
-Beziehungssucht ist ein psychologisches Muster, bei dem du einen exzessiven emotionalen oder praktischen Bedarf nach einer Beziehung hast. Es ist nicht "Ich möchte gerne in einer Beziehung sein", sondern "Ich kann nicht existieren ohne eine Beziehung". Der Unterschied ist fundamental.
-
-Menschen mit Beziehungssucht erleben diese Symptome:
-
-Sie fühlen sich existenziell unvollständig ohne Partner. Es ist nicht, dass das Leben besser mit jemandem ist — es ist, dass das Leben ohne Partner unmöglich fühlt. Dein Gehirn behandelt Alleinsein wie eine Bedrohung.
-
-Sie springen von einer Beziehung zur nächsten. Zwischen den Beziehungen können höchstens ein paar Wochen liegen. Manchmal überlappen sie sogar — die neue beginnt, bevor die alte endet. Es geht nicht um die spezifische Person, es geht um die Rolle der Person: Jemand, der dich füllt.
-
-Sie idealisieren schnell und hart. Nach ein paar Dates siehst du die andere Person bereits als deinen Soulmate. Du weißt bereits, dass sie "die Eins" ist. Dein Gehirn springt zu Hochzeitsgedanken, während die andere Person dich noch kennenlernt.
-
-Sie entwickeln schnell [Bindungsangst](/blog/bindungsangst-komplett-guide). Sobald es ernst wird, fängst du an zu klammern. Jede kleine Distanz wird als Ablehnung interpretiert. Du brauchst ständige Versicherungen. Du sendest viele Nachrichten. Du fängst an, die andere Person zu kontrollieren oder zu manipulieren, um sicherzustellen, dass sie bleibt.
+Du verlässt eine [Bindungsangst](/blog/bindungsangst-komplett-guide). Sobald es ernst wird, fängst du an zu klammern. Jede kleine Distanz wird als Ablehnung interpretiert. Du brauchst ständige Versicherungen. Du sendest viele Nachrichten. Du fängst an, die andere Person zu kontrollieren oder zu manipulieren, um sicherzustellen, dass sie bleibt.
 
 Sie sind bereit zu lügen oder sich zu verstellen, um die Beziehung zu halten. Deine echte Meinung ist weniger wichtig als die Beziehung zu erhalten. Du bekommst das, was die andere Person will, und hoffst, dass sie dich dafür liebt.
 
@@ -219,6 +203,5 @@ Nein. Eine emotionale Unterbrechung ist notwendig. Du brauchst Zeit allein, um d
 
 ## Lesenswerte Links
 
-- [[verlustangst](/blog/aengstlicher-bindungsstil-heilen/) aus der Kindheit und ihre Auswirkungen](/blog/verlustangst-bei-kindern-beziehung)
 - [Toxische Scham in Beziehungen erkennen und heilen](/blog/toxische-scham-beziehung)
 - [Loslassen lernen: Der Weg zur emotionalen Freiheit](/blog/loslassen-lernen-liebe)

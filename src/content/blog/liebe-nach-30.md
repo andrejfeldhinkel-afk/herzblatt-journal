@@ -37,11 +37,7 @@ Aber die Wahrheit sieht anders aus.
 
 **Weniger Drama, mehr Substanz.** Die Spielchen, die mit Anfang 20 aufregend wirkten, sind jetzt einfach nur noch anstrengend. Und das ist befreiend. Du suchst echte Verbindungen — und du erkennst sie schneller.
 
-**Finanzielle und emotionale Stabilität.** Die meisten Menschen sind mit 30 in einer stabileren Lebensphase. Das schafft Raum für eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/), die nicht durch äußere Unsicherheiten belastet wird.
-
-### Die Herausforderungen — und wie du sie meisterst
-
-**Kleinerer Freundeskreis zum [Kennenlernen](/blog/dating-fragen-kennenlernen).** In den 20ern lernt man ständig neue Leute kennen — an der Uni, auf Partys, durch WG-Mitbewohner. Mit 30 wird der Kreis kleiner. Die Lösung: Bewusst neue Wege gehen. Online-Dating, Hobbys, Kurse, Events.
+**Finanzielle und emotionale Stabilität.** Die meisten Menschen sind mit 30 in einer stabileren Lebensphase. Das schafft Raum für eine [Kennenlernen](/blog/dating-fragen-kennenlernen).** In den 20ern lernt man ständig neue Leute kennen — an der Uni, auf Partys, durch WG-Mitbewohner. Mit 30 wird der Kreis kleiner. Die Lösung: Bewusst neue Wege gehen. Online-Dating, Hobbys, Kurse, Events.
 
 **Höhere Ansprüche.** Du weißt, was du willst — aber manchmal werden daraus starre Checklisten. Bleib offen für Überraschungen. Die besten Beziehungen entstehen oft mit Menschen, die wir nicht "auf dem Zettel" hatten.
 
@@ -71,7 +67,7 @@ Dein Herzblatt wartet vielleicht gerade da draußen — und ist genauso bereit w
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/aktives-zuhoeren-beziehung-ueben/) zu [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
 
 - [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung/)
 - [Dating nach einer narzisstischen Beziehung: Heilung](/blog/dating-nach-narzisst/)

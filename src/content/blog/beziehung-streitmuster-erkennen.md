@@ -70,7 +70,7 @@ Das Paradoxe: Der aggressive Partner ist meistens selbst super frustriert. Viell
 Erste Phase: Erkenne deine Trigger. Was macht dich aggressiv? Ist es das Gefühl, nicht gehört zu werden? Zurückgewiesen zu sein? Machtverlust zu spüren? Notiere das auf. Denn wenn du weißt, was dich triggert, kannst du früher intervenieren.
 
 
-> **Lesetipp:** [Die 5 Liebessprachen: Entdecke deine und die deines Partners](/blog/liebessprachen-entdecken-nutzen) | [Streit ums Geld vermeiden: 8 Paar-Strategien](/blog/geld-streit-vermeiden)
+> **Lesetipp:** [Streit ums Geld vermeiden: 8 Paar-Strategien](/blog/geld-streit-vermeiden)
 
 
 Zweite Phase: Schaff dir einen Pausenplan. Wenn die Aggression kommt, nicht auf deinen Partner losgehen. Stattdessen: "Ich brauch eine Pause. Ich geh raus." Geh spazieren. Tue etwas mit deinen Händen – Sport, Putzen, was auch immer. Brauchst du 15 Minuten? Perfekt. Eine Stunde? Auch okay. Aber DANN musst du zurückkehren und das Gespräch führen. Nicht ewig vermeiden.
@@ -193,7 +193,6 @@ Das ist ein größeres Problem. Du kannst nur dich selbst ändern. Wenn dein Par
 
 ## Weiterlesen
 
-- [Nähe und Distanz: Die Balance in glücklichen Paaren](/blog/beziehung-nahe-distanz-balance)
 - [Schwiegereltern-Guide 2026: So gewinnst du sie für dich](/blog/beziehung-schwiegereltern-guide)
 - [Konflikte als Paar lösen: Der 5-Schritte-Plan](/blog/konflikte-loesen-paar)
 

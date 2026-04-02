@@ -51,57 +51,7 @@ Das ist ein Warnsignal. Das ist nicht "normal relationship aging". Das ist dein 
 
 **Level 3: Schweres Detachment.** Du kannst nicht fühlen. Nicht für diese Person, nicht für deine Familie, nicht für dich selbst. Du funktionierst: du gehst zur Arbeit, du machst Sex, du redest die Worte. Aber innerlich bist du absent.
 
-Das ist keine Beziehungs-Problem. Das ist ein [psychologie](/blog/aengstlicher-bindungsstil-heilen/)-Problem. Das braucht professionelle Hilfe.
-
-Die meisten Menschen die merken dass etwas nicht stimmt sind bei Level 2. Da ist noch Hoffnung und auch noch Zeit zu verstehen was los ist.
-
-## Die Gründe warum dein System sich abschottet: Die Wurzeln der Detachment
-
-Emotional Detachment passiert nicht zufällig. Dein System hat Angst. Oder es hat verletzt.
-
-Oder beides.
-
-**Grund 1: Wiederholtes Trauma oder Betrug.**
-
-Wenn diese Beziehung hatte Momente wo dein Partner dich dich hart verletzt hat — Betrug, emotionale Missbrauch, Lügen — kann dein Gehirn eine Entscheidung machen: "Das Risiko noch mal zu verletzen ist zu groß. Ich werde nicht mehr offen sein."
-
-Das ist dein System sagt "Ich liebe dich nicht genug um wieder wund gemacht zu werden. Lass mich entfernen."
-
-Das ist nicht bewusst. Du denkst nicht "Ich werde Walls aufbauen." Es passiert passiv. Du merkst einfach eines Tages dass du dich nicht mehr vulnerable fühlen können.
-
-**Grund 2: Burnout oder Überbelastung.**
-
-Wenn die Beziehung ist demanding (dein Partner hat emotionale Bedürfnisse die du nicht erfüllen kannst, oder du bist exhausted von deiner Job und hast nichts zu geben), kann dein System ausschalten.
-
-Es ist wie: "Ich habe nichts übrig. Mein Gefühlstank ist leer. Um zu überleben muss ich abschaffen emotional zu geben."
-
-Das ist nicht Egoismus. Das ist ein Trauma-Antwort auf Erschöpfung.
-
-**Grund 3: Attachment Avoidance oder Bindungs-Vermeidung.**
-
-Manche Menschen wachsen auf mit eine Nachricht dass Nähe ist gefährlich. Vielleicht a Eltern war emotional unavailable. Vielleicht war ein früheres Beziehungs-Trauma groß.
-
-Diese Menschen entwickeln einen Schutzmechanismus: "Wenn ich nicht nah bin, kann ich nicht wund gemacht sein."
-
-Als Erwachsener, wenn sie in ein Beziehung sind, kann dieses alte Muster aktivieren. Nicht weil sie nicht lieben — sondern weil ihr System ist programmed zu Schutz durch Distanz.
-
-**Grund 4: Depression oder andere psychologische Zustände.**
-
-Depression macht vieles emotional flach. Es ist schwierig zu fühlen in jeder Richtung. Die Liebe wird so eine abstraktes Konzept statt eine emotionale Wahrheit.
-
-Generalisierter Angststörung kann dazu führen dass du bist too focused auf Überlebung um zu fühlen Liebe.
-
-PTSD kann bedeuten dass dein Nervensystem befindet sich in constant Alarm — nicht Platz für tiefe emotionale Verbindung.
-
-Das sind nicht "Gründe zum verlassen die Person." Das sind "Gründe zur Suche um Hilfe."
-
-**Grund 5: Das Gefühl dass die Beziehung ist falsch.**
-
-Manchmal (nicht immer, aber manchmal) Emotional Detachment ist dein Unterbewusstsein sagt "Das ist nicht das richtige Paar für dich."
-
-Es ist nicht dass dein Partner ist schlecht. Es ist dass die Chemie fehlt, oder die Werte nicht align, oder etwas grundlegend stimmt nicht.
-
-Dein System erkennt das bevor dein bewusster Verstand tut. Also es fängt an zu disconnecten. Es ist dein Gehirn sagt: "Schütze dich selbst. Das wird nicht funktionieren. Lass mich die Gefühle runterfahren damit die [Trennung](/blog/trennung-verarbeiten-12-schritte) nicht so schmerzhaft sein wird."
+Das ist keine Beziehungs-Problem. Das ist ein [Trennung](/blog/trennung-verarbeiten-12-schritte) nicht so schmerzhaft sein wird."
 
 Das ist nicht immer der Fall — aber manchmal ist es.
 
@@ -1022,7 +972,7 @@ Das ist warum Therapie ist wichtig — um zu unterscheiden.
 
 ---
 
-Für mehr über [emotionale Verfügbarkeit in Beziehungen](/blog/emotionale-verfuegbarkeit-dating), oder [wie deine Bindungsstile beeinflussen deine Beziehungen](/blog/bindungsstile-dating), oder [die Bedeutsamkeit von Selbstliebe als Fundament](/blog/selbstliebe-dating), schau unsere anderen Artikel an.
+Für mehr über [wie deine Bindungsstile beeinflussen deine Beziehungen](/blog/bindungsstile-dating), oder [die Bedeutsamkeit von Selbstliebe als Fundament](/blog/selbstliebe-dating), schau unsere anderen Artikel an.
 ## Weiterlesen
 
 - [Fawn Response: Wenn du dich in Beziehungen aufgibst, um](/blog/fawn-response-beziehung-guide/)

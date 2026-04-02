@@ -195,7 +195,6 @@ Wenn du ein Impostor-Syndrom hast, bedeutet das, dass du ein Perfektionist, ein 
 
 ## Weiterlesen
 
-- [Dating außerhalb deiner Comfort Zone: Das Wichtigste Spiel](/blog/dating-comfort-zone)
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
 - [Dating als schüchterner Mann](/blog/dating-als-schuchterner-mann)
 

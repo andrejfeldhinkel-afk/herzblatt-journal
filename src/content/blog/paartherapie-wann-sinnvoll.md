@@ -68,11 +68,7 @@ Paartherapie hilft dir, Grenzen zu setzen und die Beziehung zu schützen – una
 
 [INTERNER LINK: Beziehung mit Suchtproblemen bewältigen]
 
-### Das Gefühl, dass die [Trennung](/blog/trennung-verarbeiten-12-schritte) näher rückt
-
-Manchmal ist es kein einzelner Grund – sondern das diffuse Gefühl, dass eure Beziehung zu Ende geht. Einer oder beide von euch denken heimlich über eine Trennung nach. Ihr seid müde von den ewigen Konflikten.
-
-In diesem Moment ist **wann zum Paartherapeuten** die richtige Frage. Jetzt ist die Zeit zu handeln. Eine Paartherapie kann eure [Beziehung retten](/blog/beziehung-retten-kompletter-guide) – oder euch beide helfen, die Trennung würdevoll und bewusst zu gestalten.
+### Das Gefühl, dass die [Beziehung retten](/blog/beziehung-retten-kompletter-guide) – oder euch beide helfen, die Trennung würdevoll und bewusst zu gestalten.
 
 Auch wenn die Beziehung nicht zu retten ist, hat Paartherapie Wert. Sie gibt euch Klarheit und Heilung.
 

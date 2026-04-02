@@ -1,5 +1,5 @@
 ---
-title: "Beziehungsprobleme lösen: Die häufigsten Probleme und ihre Lösungen"
+title: "Beziehungsprobleme lösen: Die häufigsten Probleme und ihr..."
 description: "Beziehungsprobleme lösen mit konkreten Strategien. Die 20 häufigsten Konflikte in Partnerschaften und wie ihr sie gemeinsam überwindet."
 date: 2026-03-21
 tags:

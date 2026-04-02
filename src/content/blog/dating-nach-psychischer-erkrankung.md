@@ -162,6 +162,5 @@ Du schuldest dir selbst die Chance.
 
 - [Fleabagging — Warum du immer die falschen dattest](/blog/fleabagging-dating-pattern-guide/)
 - [Toxische Dating-Muster erkennen und durchbrechen:](/blog/toxische-dating-muster-durchbrechen/)
-- [Dating nach Burnout oder Depression: Wann bin ich bereit](/blog/dating-nach-burnout/)
 - [Dating nach einer [Ghosting](/blog/ghosting-komplett-guide)-Erfahrung: Wieder vertrauen](/blog/dating-nach-ghosting-erfahrung/)
 - [Dating nach Jobverlust: Lohnt es sich trotzdem?](/blog/dating-nach-jobverlust/)

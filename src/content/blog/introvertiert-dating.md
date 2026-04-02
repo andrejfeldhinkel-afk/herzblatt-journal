@@ -92,37 +92,7 @@ Warum? Weil es dir erlaubt, in deinem eigenen Tempo zu kommunizieren. Du schreib
 
 Für viele introvertierte Menschen ist das erste Date, das sie online treffen, viel entspannter, weil sie bereits wissen, dass die andere Person auch an ihnen interessiert ist. Es gibt keinen Überraschungsfaktor, ob das Interesse gegenseitig ist.
 
-Die [psychologie](/blog/aengstlicher-bindungsstil-heilen/) dahinter: Du bist weniger in Survival-Mode, weil du weniger Unsicherheit hast. Das Gehirn kann sich entspannen. Du kannst authentischer sein.
-
-Die Strategie: Nutze die Messaging-Phase. Schreib gute, durchdachte Nachrichten. Teile echte Dinge über dich. Stelle Fragen, die zeigen, dass du zuhörst. Das hilft dir, dich zu öffnen, bevor du dich persönlich triffst.
-
-Manche Menschen merken, dass, wenn sie viel gechattet haben, das In-Person-Date viel weniger angespannt ist. Es ist wie, ihr kennt euch schon ein bisschen. Die Nervosität ist weg.
-
-Das ist nicht Zeitverschwendung. Das ist Vorbereitung. Das ist dein Introversion, die für dich arbeitet.
-
-## Die beste Umgebung für dein Date als Introvertierter
-
-Viele introvertierte Menschen wählen automatisch laut, chaotische Orte, weil sie denken, das sei „normal" zum Daten. Ein Nachtclub, ein belebtes Restaurant, eine große Veranstaltung. Das ist falsch für dich.
-
-Dein Gehirn braucht weniger Reize, nicht mehr. Also wähle Orte mit weniger Reizen. Ein ruhiges Café, ein Park, ein Museum, dein Wohnzimmer (wenn es sicher ist), eine Buchhandlung. Orte, an denen du denken kannst, wo Gespräche möglich sind.
-
-Das ist nicht weniger romantisch. Das ist romantischer, denn du kannst dich konzentrieren. Du kannst wirklich mit der Person sein, nicht nur dich durch die Umwelt kämpfen.
-
-Ein weiterer Vorteil: Diese Orte filtern auch. Jemand, der nur in laut und wild daten will, passt vielleicht nicht zu dir. Jemand, der sich auf ein tiefes Gespräch in einem Café freut, passt wahrscheinlich besser.
-
-Der Ort sagt viel über den anderen Menschen aus. Wenn sie/er vorschlägt, in einen lauten Club zu gehen, und du schlägst ein ruhiges Café vor, merkst du sofort, ob sie/er dein Vorschlag respektiert oder genervt ist.
-
-## Die Kunst, Interesse zu zeigen ohne zu plaudern
-
-Das ist das zentrale Dilemma für introvertierte Dater: Wie zeigst du Interesse, ohne extrovertiert zu wirken? Die Antwort: Durch Tiefe, nicht durch Lautstärke.
-
-Zeige Interesse durch aktives Zuhören. Stelle Fragen, die du wirklich wissen willst. Merke dir Details und beziehe dich später darauf. „Wie ist es dir mit der neuen Stelle bei XY ergangen?" Das zeigt, dass du zuhörst. Das ist attraktiv. Das ist nicht oberflächlich.
-
-Sei präsent. Setz das Handy weg. Schau die Person an. Das ist eine Form von Intimität. Das ist zeigen, dass sie wichtig ist.
-
-Teile echte Dinge über dich. Nicht sofort deine gesamte Lebensgeschichte, aber echte kleine Wahrheiten. Das macht dich menschlich und zugänglich. Es inspiriert den anderen, auch tiefer zu gehen.
-
-Das ist subtiler als „Du siehst toll aus! Ich bin so [verliebt](/blog/mann-verliebt-anzeichen-komplett)!" Aber es ist authentischer. Und authentisch ist viel attraktiver.
+Die [verliebt](/blog/mann-verliebt-anzeichen-komplett)!" Aber es ist authentischer. Und authentisch ist viel attraktiver.
 
 Ein Beispiel: Statt zu sagen „Ich mag deine Persönlichkeit", könntest du sagen „Mir gefällt, wie du über deine Arbeit sprichst. Das zeigt, dass dir dinge wichtig sind."
 

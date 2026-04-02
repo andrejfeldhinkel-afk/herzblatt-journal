@@ -1,5 +1,5 @@
 ---
-title: "Seelenpartner-Zeichen erkennen: 7 sichere Indizien für deine Bestimmung"
+title: "Seelenpartner-Zeichen erkennen"
 description: "Erfahre, wie du deinen Seelenpartner erkennst. Diese 7 Zeichen deuten darauf hin, dass du deinen Seelenverwandten gefunden hast."
 date: 2026-04-02
 tags: ["Seelenpartner", "Liebe", "Beziehung", "Spiritualität"]
@@ -88,9 +88,9 @@ Dieses Gefühl ist unwirklich. Es ist wie eine Heimat in einer anderen Person zu
 
 ## Weitere hilfreiche Ressourcen
 
-Wenn du mehr über Seelenpartner und spirituelle Verbindungen erfahren möchtest, empfehle ich dir [unseren Artikel über körperliche Symptome](/blog/seelenpartner-koerperliche-symptome.md). Dort erfahren du mehr über die physischen Zeichen einer Seelenpartnerschaft.
+Wenn du mehr über Seelenpartner und spirituelle Verbindungen erfahren möchtest, empfehle ich dir [unseren Artikel über körperliche Symptome](/blog/seelenpartner-koerperliche-symptome). Dort erfahren du mehr über die physischen Zeichen einer Seelenpartnerschaft.
 
-Außerdem könnte dich unser Artikel über [heimlich verliebte Frauen](/blog/heimlich-verliebt-anzeichen-frau.md) interessieren, wenn du wissen möchtest, wie man verborgen Gefühle erkennt.
+Außerdem könnte dich unser Artikel über [heimlich verliebte Frauen](/blog/heimlich-verliebt-anzeichen-frau) interessieren, wenn du wissen möchtest, wie man verborgen Gefühle erkennt.
 
 ## Fazit: Vertrau deinem Bauchgefühl
 

@@ -41,61 +41,7 @@ Micro-Dates sind das Gegenteil. Sie sind nicht selten. Sie sind nicht komplizier
 
 Das ist keine neue Idee. Anthropologen und Beziehungs-Experten haben herausgefunden, dass langfristig glückliche Paare nicht mehr große Daten haben als unglückliche Paare. Der Unterschied ist, dass glückliche Paare mehr kleine Momente von Verbindung haben.
 
-Die gute Nachricht ist: Wenn deine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) in einer schwierigen Phase ist oder du merkst, dass ihr euch auseinander driftet, können Micro-Dates wirklich Dinge verändern. Nicht dramatisch und nicht über Nacht, aber mit Zeit.
-
-## Die Wissenschaft hinter den kleinen Momenten: Gottmans „Bids for Connection"
-
-Die Psychologe John Gottman, einer der führenden Experten für Beziehungen, hat ein Konzept namens „Bids for Connection" entwickelt. Ein Bid für Verbindung ist jeder Versuch, die Aufmerksamkeit oder Liebe deines Partners zu gewinnen.
-
-Beispiele für Bids sind: Dein Partner zeigt dir ein Video und sagt „Schau dir das an!" Das ist ein Bid. Dein Partner umarmt dich von hinten. Das ist ein Bid. Dein Partner stellt dir eine Frage über deinen Tag. Das ist ein Bid.
-
-Das faszinierende ist: Das, wie du auf diese Bids reagierst, ist einer der besten Indikatoren für Beziehungserfolg. Wenn du auf die Bids positiv reagierst – wenn du das Video anschaust, die Umarmung erwidderst, die Frage beantwortest – dann stärkst du die Verbindung. Wenn du negativ oder ignorierend reagierst, schwächst du die Verbindung.
-
-Gottman fand heraus, dass Paare, die sich scheiden lassen, durchschnittlich weniger auf die Bids des anderen reagieren. Sie sind beide so beschäftigt oder distanziert, dass sie die kleinen Versuche zur Verbindung übersehen oder ignorieren.
-
-Das ist die Wissenschaft hinter Micro-Dates. Micro-Dates sind absichtliche, geplante Bids für Verbindung. Sie sagen zu deinem Partner: „Du bist mir wichtig genug, dass ich diese Moment mit dir teile." Und wenn du diese Momente dann konsequent machst, passiert etwas Wunderbares – deine Beziehung wird tiefer, nicht obwohl sie klein sind, sondern weil sie klein sind.
-
-Die Wissenschaft zeigt, dass es nicht die Größe des Moments ist, die wichtig ist. Es ist die Regelmäßigkeit. Ein 10-Minuten-Moment, den du jeden Tag mit deinem Partner teilst, ist wertvoller als ein großes Date, das du einmal im Jahr machst.
-
-## 30+ Micro-Date-Ideen für jeden Tag
-
-Jetzt zur praktischen Seite: Was könnten Micro-Dates für dich aussehen?
-
-Morgendliche Rituale sind großartig. Das gemeinsame Kaffeetrinken beim Aufwachen, ohne dein Handy zu checken. Der gemeinsame Kaffee ist nicht einfach eine Routine – es ist ein bewusster Moment. Sag deinem Partner „Guten Morgen" und schau auf ihr Gesicht, nicht auf dein Telefon.
-
-Fahrtstraße-Gespräche sind eine weitere großartige Quelle für Micro-Dates. Wenn ihr zusammen zur Arbeit fahrt, ist das eine perfekte Zeit zum Sprechen. Es gibt keine Ablenkung (naja, außer dem Auto) und ihr habt Zeit. Nutzt diese Zeit, um über eure Tage zu sprechen, eure Träume zu teilen, oder einfach nur zu lachen.
-
-Gemeinsames Kochen ist ein Klassiker. Ihr könntet zusammen das Abendessen kochen. Das ist nicht nur eine Micro-Date, es ist auch produktiv. Während ihr kocht, könnt ihr über euren Tag sprechen, Musik hören oder einfach zusammen arbeiten.
-
-Ein 10-Minuten-Spaziergang am Abend. Kein Handy, kein Fernsehen. Nur ihr zwei, Bewegung und Natur. Das ist einfach und kraftvoll.
-
-Das Frühstück im Bett machen für deinen Partner. Nicht jeden Tag (das ist nicht nachhaltig), aber manchmal. Das zeigt Sorgfalt.
-
-Die Hand halten während ihr fernsieht. Das ist klein, aber es ist Intimität.
-
-Sich gegenseitig Musik-Empfehlungen zeigen und zusammen zuhören. Das zeigt, wer du bist und involviert deinen Partner.
-
-Ein Buch zusammen lesen und über Kapitel sprechen.
-
-Massage geben. Nicht die Erwartung von Sex, sondern einfach physische Nähe und Fürsorge.
-
-Gemeinsam zum Markt gehen und neue Rezepte planen.
-
-Eine Liste mit positiven Eigenschaften des anderen schreiben und vorlesen.
-
-Sich gegenseitig eine lustige oder inspirative Geschichte aus dem Internet zeigen und darüber diskutieren.
-
-Zusammen ein Spiel spielen – Karten, Videospiele, Brettspiele. Das ist Spaß und Konkurrenz, was oft lustig ist.
-
-Zusammen journalen. Jeder schreibt auf, wie die Woche war, und dann teilt ihr das miteinander.
-
-Ein neues Café ausprobieren, sogar wenn es nur zwei Blocks von eurem Haus ist.
-
-Sich gegenseitig Fotos von eurem Tag zeigen und Geschichten dazu erzählen.
-
-Einfach auf der Couch zusammensitzen und nichts spezielles tun, nur zusammen sein.
-
-Eine Moment haben, in der ihr euch [Komplimente](/blog/komplimente-fuer-maenner) macht – ohne sarkastisch zu sein.
+Die gute Nachricht ist: Wenn deine [Komplimente](/blog/komplimente-fuer-maenner) macht – ohne sarkastisch zu sein.
 
 Entspannung zusammen: Bath zusammen, oder entspannende Musik hören während ihr nebeneinander sitzt.
 
@@ -452,11 +398,7 @@ Die zweite Veränderung ist in der Kommunikation. Während Micro-Dates sprichst 
 
 Die dritte Veränderung ist in der Zufriedenheit. Nach einigen Wochen von Micro-Dating, merkst du, dass du weniger wütend auf deinen Partner bist. Du weniger kritisch. Das ist, weil du ihn/sie nicht als die Person siehst, die dich vernachlässigt, sondern als die Person, mit der du täglich Nähe teilst.
 
-Das ist die Magie von Micro-Dating. Es ist nicht magisch – es ist [psychologie](/blog/aengstlicher-bindungsstil-heilen/).
-
-## Fazit: Kleine Momente, große Effekt
-
-Das wichtigste ist zu verstehen: Die Moments, die eure [Beziehung retten](/blog/beziehung-retten-kompletter-guide) werden, sind nicht die großen, geplanten, teuren Momente. Sie sind die kleinen, alltäglichen, aufmerksamen Momente.
+Das ist die Magie von Micro-Dating. Es ist nicht magisch – es ist [Beziehung retten](/blog/beziehung-retten-kompletter-guide) werden, sind nicht die großen, geplanten, teuren Momente. Sie sind die kleinen, alltäglichen, aufmerksamen Momente.
 
 Ein täglicher Kaffee mit deinem Partner, ohne Handy, könnte wichtiger sein als ein großes romantisches Wochenende. Ein 10-Minuten-Spaziergang könnte eure Beziehung mehr helfen als eine Paartherapie.
 

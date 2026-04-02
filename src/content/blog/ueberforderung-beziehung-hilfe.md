@@ -1,5 +1,5 @@
 ---
-title: "Überforderung in der Beziehung: Wenn alles zu viel wird (2026)"
+title: "Überforderung in der Beziehung: Wenn alles zu viel wird"
 description: "Wenn die Beziehung anstrengend wird und alles zu viel ist. Ursachen, Warnsignale und 8 konkrete Tipps für weniger Überbelastung."
 date: 2026-04-01
 image: "/images/blog/ueberforderung-beziehung-hilfe.webp"

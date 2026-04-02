@@ -1,5 +1,5 @@
 ---
-title: "Retroaktive Eifersucht überwinden: Wenn die Vergangenheit deines Partners dich quält"
+title: "Retroaktive Eifersucht überwinden"
 description: "Retroaktive Eifersucht verstehen und heilen: Wie du aufhörst, über die Ex-Partner deines Partners zu grübeln."
 date: 2026-03-29
 tags:
@@ -234,6 +234,5 @@ Das ist die Wahrheit, an der du arbeiten musst zu glauben.
 ---
 
 **Verwandte Artikel:**
-- [Ängstlich-klammernder [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) heilen: Der komplette Weg zu sicherer Bindung](/blog/anxious-preoccupied-attachment-healing)
 - [Selbstsabotage beim Dating: Warum du immer wieder die Falschen wählst](/blog/selbstsabotage-dating-muster-guide)
-- [Grenzen setzen in Beziehungen: Der komplette Guide](/blog/)
+- Grenzen setzen in Beziehungen: Der komplette Guide

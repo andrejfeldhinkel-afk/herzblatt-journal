@@ -399,7 +399,6 @@ Die Frage ist: "Warum nicht?"
 
 ## Weiterlesen
 
-- [Benching: Der fiese Dating-Trend](/blog/benching-dating-trend-erkennen)
 - [Dry Dating: Warum nüchterne Dates die bessere Verbindung](/blog/dry-dating-trend)
 - [Freckling: Der Sommer-Dating-Trend erklärt](/blog/freckling-sommer-dating-trend)
 

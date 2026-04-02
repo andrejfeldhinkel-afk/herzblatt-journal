@@ -1,5 +1,5 @@
 ---
-title: "Liebeskrank: Warum Liebe sich manchmal wie eine Krankheit anfühlt"
+title: "Liebeskrank: Warum Liebe sich manchmal wie eine Krankheit..."
 description: "Liebeskummer ist körperlich real: Liebeskrank ist nicht nur emotional, sondern auch biologisch. Verstehe die Wissenschaft hinter Liebeskummer und Heilung."
 date: 2026-04-01
 image: "/images/blog/lovesickness-liebeskrank.webp"
@@ -275,4 +275,4 @@ Lass deinen Körper heilen. Lass dein Gehirn verarbeiten. Lass die Zeit tun ihre
 
 Du wirst okay sein.
 
-Wenn du tiefere Unterstützung brauchst, schau dir auch unsere Artikel zum [Ex, der sich meldet](/blog/ex-meldet-sich-wieder-reagieren) und [Hoovering erkennen](/blog/hoovering-ex-erkennen) an — weil Liebeskummer oft mit Ex-Kontakt kompliziert wird. Bleib stark.
+Wenn du tiefere Unterstützung brauchst, schau dir auch unsere Artikel zum [Hoovering erkennen](/blog/hoovering-ex-erkennen) an — weil Liebeskummer oft mit Ex-Kontakt kompliziert wird. Bleib stark.

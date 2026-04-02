@@ -30,17 +30,7 @@ Schmetterlinge im Bauch sind Nervosität und Aufregung. Sie sind eine physische 
 
 Wenn du jemanden triffst, der „dein Typ" ist körperlich, sind die Schmetterlinge oft sofort da. Das ist oberflächliche Anziehung.
 
-Aber echte Chemie – die Art, die eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) aufbaut – braucht Zeit zu entwickeln.
-
-## Die Problem mit unmittelbarer Leidenschaft
-
-Während Schmetterlinge schön sind, können sie täuschen:
-
-- Sie können basiert sein auf oberflächliche Anziehung, nicht Kompatibilität
-- Sie können sehr schnell verblassen, wenn die Realität setzt in
-- Sie können dich dazu führen, mit jemandem zusammen zu bleiben, der nicht gut für dich ist
-
-Wie oft hast du gehört, „Ich war so [verliebt](/blog/mann-verliebt-anzeichen-komplett), aber dann merkte ich, dass wir nichts gemeinsam hatten"?
+Aber echte Chemie – die Art, die eine [verliebt](/blog/mann-verliebt-anzeichen-komplett), aber dann merkte ich, dass wir nichts gemeinsam hatten"?
 
 ## Langsam brennende Liebe
 

@@ -162,7 +162,7 @@ Unabhängigkeit ist nicht das Gegenteil von Liebe. Es ist ein Voraussetzung für
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Dating als hochsensible Person: Liebe mit tieferen Gefühlen](/blog/hochsensibel-dating), [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
 
 - [Dating als hochsensible Person: Liebe mit tieferen Gefühlen](/blog/hochsensibel-dating/)
 - [Beziehung und psychische Gesundheit](/blog/beziehung-und-mental-health/)

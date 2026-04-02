@@ -1,5 +1,5 @@
 ---
-title: "Catcalling: Was es ist, warum es schadet und wie du reagierst (2026)"
+title: "Catcalling: Was es ist, warum es schadet und wie du reagi..."
 description: "Catcalling erklärt: Warum Straßenbelästigung kein Kompliment ist. Wie du sicher damit umgehst und deine Grenzen setzt."
 date: 2026-04-01
 image: "/images/blog/catcalling-umgang-tipps.webp"
@@ -148,6 +148,5 @@ Bis dahin: Schütze dich. Vertrau dir selbst. Und erinnere dich daran, dass du n
 ## Interne Links zu verwandten Inhalten
 
 Wenn dich Straßenbelästigung und Grenzensetzen beschäftigen, könnten diese Artikel auch helfen:
-- [Grenzen setzen: Wie du "Nein" sagst, ohne dich schuldig zu fühlen](/blog/grenzen-setzen)
-- [Toxic Relationships: Die Zeichen erkenne und dich selbst schützen](/blog/toxische-beziehung-zeichen)
-- [Selbstwert aufbauen: Die erste Schritt zu echtem Selbstvertrauen](/blog/selbstwert-aufbauen)
+- [Toxic Relationships: Die Zeichen erkenne und dich selbst schützen](/blog/toxische-beziehung-erkennen)
+- [Selbstwert aufbauen: Die erste Schritt zu echtem Selbstvertrauen](/blog/dating-selbstbewusstsein-aufbauen)

@@ -77,11 +77,7 @@ Das ist die häufigste Dating-Falle für Frauen. Du wirst die Florence-Nightinga
 
 **Das Problem**: Du machst dich finanziell von ihm abhängig. Oder emotional: Du gibst ihm deine ganze Macht. Deine Laune hängt von seinen Gefühlen ab.
 
-**Warum es nicht funktioniert**: Das führt zu einem Machtungleichgewicht. Er wird dich nicht respektieren. Und wenn die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) endet, bist du verloren.
-
-**Die bessere Strategie**: Baue deine eigene Karriere auf. Halte deine Freundschaften. Habe Hobbys, die dir gehören. Deine Glück sollte von dir selbst abhängen, nicht von ihm. Das ist nicht herzlos — das ist Selbschutz.
-
-## Fehler 7: Mit jedem potenziellen Date „[verliebt](/blog/mann-verliebt-anzeichen-komplett) sein"
+**Warum es nicht funktioniert**: Das führt zu einem Machtungleichgewicht. Er wird dich nicht respektieren. Und wenn die [verliebt](/blog/mann-verliebt-anzeichen-komplett) sein"
 
 **Das Problem**: Nach dem zweiten Date fantasierst du bereits eure Zukunft zusammen. Du nennst ihn mental „Mein Freund". Du investierst emotional in jemanden, den du kaum kennst.
 
@@ -134,7 +130,7 @@ Die beste Version von dir ist:
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/aktives-zuhoeren-beziehung-ueben/) zu [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-als-alleinerziehend), [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich), [Dating in Augsburg: Die besten Orte & Tipps für Singles](/blog/dating-augsburg).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-als-alleinerziehend), [Dating in Augsburg: Die besten Orte & Tipps für Singles](/blog/dating-augsburg).## Weiterlesen
 
 - [10 Dating-Fehler, die Männer ständig machen (und wie du sie](/blog/dating-fehler-maenner/)
 - [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)

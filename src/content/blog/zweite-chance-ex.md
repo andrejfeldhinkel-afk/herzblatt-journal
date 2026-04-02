@@ -83,15 +83,7 @@ Frag dich selbst — und frag den Ex:
 - Hat mein Ex an seinen Problemen gearbeitet?
 - Gibt es konkrete Beispiele von Veränderung, die ich sehen kann?
 
-**Für die [beziehung](/blog/adhs-und-beziehung-komplett-guide/):**
-- Habt ihr die Kernprobleme identifiziert und adressiert?
-- Habt ihr echte Lösungen gefunden, nicht nur "wir werden es versuchen"?
-- Könnt ihr über die Trennung sprechen, ohne Schuldigen zu suchen?
-
-Die Antwort sollte konkret sein, nicht vage.
-
-"Ich habe viel über mich nachgedacht" ist nicht konkret genug.
-"Ich bin in Therapie gegangen, habe meine [Bindungsangst](/blog/bindungsangst-komplett-guide) adressiert, und jetzt kann ich vulnerabel mit dir sein" ist konkret.
+**Für die [Bindungsangst](/blog/bindungsangst-komplett-guide) adressiert, und jetzt kann ich vulnerabel mit dir sein" ist konkret.
 
 ### 3. Seid ihr beide bereit?
 
@@ -213,11 +205,11 @@ Wenn du unsicher bist, probiere diesen Test: Würdest du diese Person daten, wen
 
 Wenn die Antwort "Nein" ist, bedeutet das, dass du Angst hast, allein zu sein, nicht dass diese Person deine zweite Chance verdient.
 
-Für mehr über [heilung](/blog/aengstlicher-bindungsstil-heilen/) nach einer Trennung, schau dir unseren Guide zu [liebeskummer überwinden](/blog/liebeskummer-ueberwinden) an, um deinen Heilungsprozess zu unterstützen.
+Für mehr über [liebeskummer überwinden](/blog/liebeskummer-ueberwinden) an, um deinen Heilungsprozess zu unterstützen.
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
 
 - [Sexuelle Kompatibilität in Beziehungen: Warum es wichtig ist](/blog/sexuelle-kompatibilitaet/)
 - [Ex zurückgewinnen – Wann es sich lohnt und wann](/blog/ex-zurueck-sinnvoll/)

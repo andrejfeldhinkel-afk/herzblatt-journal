@@ -161,27 +161,6 @@ Ein Therapeut, der Beziehungen UND chronische Schmerzen versteht, ist wertvoll. 
 
 ### 6. Eure eigenen Grenzen kennen – Selbstschutz ist wichtig
 
-Sie müssen nicht alles "ertragen". Wenn ein Partner aktiv nicht unterstützen will, das ist seine Wahl. Aber es bedeutet nicht, dass Sie die [Beziehung retten](/blog/beziehung-retten-kompletter-guide) müssen.
-
-## Der Selbstwert – Das Fundament
-
-Eine der größten Herausforderungen ist, nicht zu denken: "Ich bin weniger wert, weil ich Schmerzen habe."
-
-Das ist absolut falsch. Ihre Würde ist nicht an Ihre Produktivität oder Ihre Fähigkeit, jeden Tag zu funktionieren, gebunden.
-
-Sie verdienen Liebe. Sie verdienen einen Partner, der Sie unterstützt. Sie verdienen Freude und Erfüllung.
-
-## Wenn die Beziehung endet – Das ist okay
-
-Manchmal ist der Partner nicht in der Lage oder bereit, chronische Schmerzen zu akzeptieren. Das ist traurig, aber es ist okay.
-
-Das bedeutet nicht, dass Sie nicht liebenswert sind. Es bedeutet, dass diese Person nicht die richtige Person ist.
-
-Vertraut auf euch selbst und auf die Tatsache, dass ein guter Partner Sie liebt – Schmerzen, Limitierungen und alles zusammen.
-
-## Weiterlesen
-
-- [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
-- [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
+Sie müssen nicht alles "ertragen". Wenn ein Partner aktiv nicht unterstützen will, das ist seine Wahl. Aber es bedeutet nicht, dass Sie die [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
 - [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 

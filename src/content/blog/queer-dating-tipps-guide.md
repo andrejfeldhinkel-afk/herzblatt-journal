@@ -150,4 +150,4 @@ Viel Erfolg bei der Suche.
 
 ---
 
-**Möchtest du mehr über [Grenzen setzen beim Dating](/blog/grenzen-setzen-dating-guide) oder [Bindungsangst](/blog/fearful-avoidant-attachment-guide) erfahren?**
+**Möchtest du mehr über [Bindungsangst](/blog/fearful-avoidant-attachment-guide) erfahren?**

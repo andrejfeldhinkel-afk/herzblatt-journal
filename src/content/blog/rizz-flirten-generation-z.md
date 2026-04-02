@@ -136,6 +136,5 @@ Das ist befreier. Und das ist warum Rizz geblieben ist, über den anderen kurzfr
 ## Weiterlesen
 
 - [Rizz verbessern – Die Kunst des modernen Flirtens [ Guide]](/blog/rizz-tipps-flirten)
-- [Flirten lernen: Guide für Anfänger und Fortgeschrittene](/blog/flirten-lernen)
 - [Flirten für Introvertierte: Stille Stärken nutzen](/blog/introvertiert-flirten-lernen)
 

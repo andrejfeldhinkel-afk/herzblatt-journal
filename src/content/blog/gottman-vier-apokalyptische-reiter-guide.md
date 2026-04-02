@@ -1,5 +1,5 @@
 ---
-title: "Gottmans vier apokalyptische Reiter: Die Vorhersage von Beziehungsscheitern"
+title: "Gottmans vier apokalyptische Reiter"
 description: "Gottmans vier apokalyptische Reiter: Lerne die vier Kommunikationsmuster, die eine Beziehung zerstören. Praktische Tipps um sie zu vermeiden."
 date: 2026-03-29
 tags:
@@ -151,4 +151,4 @@ Warte nicht bis es zu spät ist.
 
 ---
 
-**Weitere Artikel zum Thema:** [Kommunikation in Beziehungen](/blog/kommunikation-beziehung), [Konflikt-Auflösung](/blog/konflikt-auflösen)
+**Weitere Artikel zum Thema:** [Kommunikation in Beziehungen](/blog/kommunikation-beziehung), [Konflikt-Auflösung](/blog/konflikte-loesen-paar)

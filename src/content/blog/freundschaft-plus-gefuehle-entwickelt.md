@@ -176,6 +176,5 @@ Diese Freundschaft könnte sogar tiefer sein, weil beide Menschen diese Vulnerab
 Also, wenn du Gefühle in einer Freundschaft-Plus-Situation entwickelt hast: Das ist nicht das Ende. Es ist ein Kapitel, das sich schließt, damit ein neues beginnen kann.
 
 **Weitere hilfreiche Artikel:**
-- [Freundschaft Plus: Regeln, die funktionieren](/blog/freundschaft-plus-regeln-komplett)
 - [Verliebt in deine beste Freundin – Was nun?](/blog/verliebt-in-beste-freundin)
 - [Offene Beziehung: Die psychologische Perspektive](/blog/offene-beziehung-psychologie-perspektive)

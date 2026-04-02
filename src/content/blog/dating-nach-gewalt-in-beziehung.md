@@ -25,52 +25,7 @@ faq:
 
 Wenn du hier bist, weil du in einer missbräuchlichen Beziehung warst – erst mal: Ich sehe dich, und ich bin stolz auf dich, dass du gegangen bist. Das war die richtige Wahl, selbst wenn es sich nicht so anfühlt.
 
-Vielleicht liest du das ein paar Monate nach der [Trennung](/blog/trennung-verarbeiten-12-schritte). Vielleicht zwei Jahre. Vielleicht fünf Jahre. Unabhängig davon: Wenn du über Dating nachdenken, ist das normal und valid. Es bedeutet nicht, dass du dein Trauma vergessen hast. Es bedeutet, dass du nach Verbindung suchst – das ist menschlich.
-
-Aber hier ist, was du wissen musst: Healing ist nicht linear. Es gibt Tage, an denen du dich stark fühlst und bereit für ein neues Kapitel. Es gibt Tage, an denen ein Song, ein Geruch, ein Wort dich zurückwirft, und plötzlich erlebst du die Trauma wieder wie neulich.
-
-Das ist normal. Das ist Teil von Healing. Es bedeutet nicht, dass du "alles von vorne anfangen" musst. Es bedeutet, dass dein Nervensystem immer noch heilt.
-
-Mit dieser Wahrheit im Hinterkopf: Lass uns darüber sprechen, wie du wieder daten kannst, ohne dich selbst oder anderen zu schaden.
-
-## Die Healing Timeline: Es gibt keine exakte Anleitung
-
-Ich wünschte, ich könnte dir sagen: „Nach 6 Monaten bist du fertig. Du kannst daten." Das wäre einfach. Die Realität ist komplexer.
-
-Die Healing Timeline hängt ab von:
-
-- **Dauer und Intensität des Missbrauchs:** 1 Jahr psychologischen Missbrauch ist anders als 10 Jahre körperlichen + emotionalen Missbrauch
-- **Ob du therapeutische Hilfe hast:** Mit Trauma-spezialisierter Therapie geht es oft schneller und tiefer
-- **Dein Support-System:** Gute Freunde, Familie, die dich unterstützen, machen einen riesigen Unterschied
-- **Ob der Expartner noch in deinem Leben ist:** Wenn ihr Kinder teilt oder er stalkt, ist Healing schwieriger
-
-Aber es gibt Zeichen, dass du bereit sein könntest:
-
-**Zeichen, dass du bereit sein könntest:**
-
-1. **Du bist allein glücklich.** Nicht "happy every day", aber es gibt Tage, an denen du dein Leben genießt, nicht weil jemand es validiert, sondern weil es an sich gut ist.
-
-2. **Du verstehst, was passiert ist.** Du kannst über die Beziehung reden – nicht ohne Emotion, sondern mit Klarheit. Du weißt, was Missbrauch war. Du weißt, wie du drin gelandet bist. Du machst dir nicht die Schuld.
-
-3. **Du hast erkannt, wie die Missbrauch angefangen hat.** Was waren die frühen Warnsignale? Wie hat sich das Frosch-im-kochenden-Wasser anfühlen? Wenn du diese Patterns siehst bei jemand neuen, wirst du gehen.
-
-4. **Du brauchst jemanden nicht, um dich vollständig zu fühlen.** Ein Partner sollte dein Leben ergänzen, nicht deinen Mangel füllen.
-
-5. **Du hast ein Support-System.** Freunde, Familie, oder Therapist, die du anrufen kannst, wenn du struggeln.
-
-Wenn du dies alles hast, bist du wahrscheinlich bereit.
-
-Wenn du keines davon hast – oder nur eines – dann brauchst du mehr Zeit. Das ist nicht ein Versagen. Das ist Weisheit.
-
-## Die Psychologie der Hypervigilanz: Wenn dein Nervensystem dich verängstigt
-
-Nach Missbrauch entwickelt dein Nervensystem eine spezielle Fähigkeit: Hypervigilanz. Das ist dein Gehirn, das überaktiv Warnsignale sucht, weil die letzten Mal, dass du "blind" warst, war verletzlich.
-
-Das ist adaptiv gewesen. Das hat dir möglicherweise geholfen, die letzte Beziehung zu überleben.
-
-Das Problem: Mit Hypervigilanz erkennst du überall Gefahren. Ein Mann, der spät antwortet, wird ein Warnsignal. Ein Mann, der dich fragt, wohin du gehst, wird ein Kontrolling-Signal. Ein Mann, der manchmal Stille genießt, wird ein emotionales Abriegelung-Signal.
-
-Das ist nicht alles schlecht. Manche dieser Signale sind echte [Red Flags](/blog/dating-red-flags-maenner-erkennen). Das Problem ist: Du kannst nicht unterscheiden zwischen echten Red Flags und deiner Hypervigilanz.
+Vielleicht liest du das ein paar Monate nach der [Red Flags](/blog/dating-red-flags-maenner-erkennen). Das Problem ist: Du kannst nicht unterscheiden zwischen echten Red Flags und deiner Hypervigilanz.
 
 **Wie du die Unterscheidung machst:**
 

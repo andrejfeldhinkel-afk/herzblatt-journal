@@ -60,7 +60,7 @@ Praktische Strategien helfen enorm: Stelle sofort einen Alarm, wenn ihr ein Date
 ADHS-Betroffene denken anders — und das ist eine echte Stärke. Wo andere ein Standard-Restaurant-Date planen, fällt dir eine Mitternachts-Radtour durch die Stadt ein oder ein spontaner Ausflug zum nächsten See. Deine Kreativität macht das Dating aufregend und unvorhersehbar. Partner, die Routine langweilig finden, werden von deiner Energie begeistert sein.
 
 
-> **Lesetipp:** [Welcher Dating-Typ bist du? Die 8 Persönlichkeitstypen](/blog/dating-persoenlichkeitstypen) | [Benching beim Dating: Wenn du auf der Ersatzbank sitzt](/blog/dating-nach-diebstahl-des-herzens)
+> **Lesetipp:** [Benching beim Dating: Wenn du auf der Ersatzbank sitzt](/blog/dating-nach-diebstahl-des-herzens)
 
 
 ### Emotionale Tiefe und Empathie
@@ -117,7 +117,6 @@ In Deutschland gibt es spezialisierte ADHS-Ambulanzen und Therapeuten, die sich 
 
 ## Weiterlesen
 
-- [Dating als schüchterner Mann](/blog/dating-als-schuchterner-mann)
 - [20 [Green Flags](/blog/dating-green-flags-erkennen-guide): Zeichen dass er/sie der Richtige ist](/blog/dating-green-flags-guide)
 - [Impostor-Syndrom beim Dating: Du bist genug (glaub mir)](/blog/dating-impostor-syndrom)
 

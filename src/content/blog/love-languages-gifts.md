@@ -1,5 +1,5 @@
 ---
-title: "Liebessprache Geschenke: Warum es nicht um Materialismus geht"
+title: "Liebessprache Geschenke: Warum es nicht um Materialismus ..."
 description: "Geschenke sind eine Liebessprache: Es geht nicht um Preis, sondern um die Botschaft dahinter. Lerne, diese Sprache authentisch zu sprechen."
 date: 2026-04-01
 image: "/images/blog/love-languages-gifts.webp"

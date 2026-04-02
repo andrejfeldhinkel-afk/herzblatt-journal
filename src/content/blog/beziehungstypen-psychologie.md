@@ -21,11 +21,7 @@ faq:
 ---
 ## Die vier Bindungsstile: Welcher bist du?
 
-Deine Art zu lieben, ist nicht zufällig. Sie ist das Ergebnis deiner frühen Bindungserfahrungen mit deinen primären Bezugspersonen. Der Psychologe John Bowlby entdeckte, dass die ersten Jahre deines Lebens bestimmten, wie du dich in Beziehungen verhältst – wie viel Nähe du brauchst, wie du mit [Trennung](/blog/trennung-verarbeiten-12-schritte) umgehst, ob du deinem Partner traust. Diese Erkenntnisse sind befreiend, weil sie zeigen, dass deine Bindungsmuster nicht dein Schicksal sind – sie sind Lernmuster, die verändert werden können.
-
-## Bindungsstil 1: Der sichere Bindungstyp
-
-Der sichere Bindungstyp ist deine goldene Referenz. Diese Menschen vertrauen ihren Partnern, können um das bitten, was sie brauchen, und bieten ihren Partnern ohne Groll Unterstützung. Sie sind nicht überängstlich in der Trennung und nicht kalt in der Nähe. Sie können ihre Unabhängigkeit bewahren, während sie gleichzeitig nah beieinander sind. Wenn das du bist, großartig – dein Weg wird einfacher sein. Wenn nicht, mach dir nichts draus; etwa 60 % der Menschen haben keinen sicheren [Bindungsstil](/blog/avoidant-attachment-beziehung-guide). Die gute Nachricht: Dein Stil ist übbar.
+Deine Art zu lieben, ist nicht zufällig. Sie ist das Ergebnis deiner frühen Bindungserfahrungen mit deinen primären Bezugspersonen. Der Psychologe John Bowlby entdeckte, dass die ersten Jahre deines Lebens bestimmten, wie du dich in Beziehungen verhältst – wie viel Nähe du brauchst, wie du mit [Bindungsstil](/blog/avoidant-attachment-beziehung-guide). Die gute Nachricht: Dein Stil ist übbar.
 
 ## Bindungsstil 2: Der ängstliche/anhängliche Bindungstyp
 

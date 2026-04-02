@@ -35,61 +35,7 @@ Das Ziel dieses Guides ist nicht dir zu sagen, wie deine erste Beziehung sein so
 
 Die ersten Wochen oder Monate einer neuen Beziehung sind magisch. Du bist ständig glücklich. Du erinnere dich an jede Kleinigkeit, die diese Person sagte. Du analysierst ihre Texte auf verborgene Bedeutung. Du ziehst Outfits an und denkst: "Wird es ihnen gefallen?" Das ist nicht irrrational — es ist Chemie.
 
-Wenn du [verliebt](/blog/mann-verliebt-anzeichen-komplett) wirst, freigesetzt dein Gehirn eine Flut von Neurotransmittern: Dopamin (das Vergnügen Hormon), Noradrenalin (das erhöht die Aufmerksamkeit), und senkt Serotonin (was erklärt, warum du obsessiv denkst). Diese chemische Cocktail erzeugt das Gefühl, das du "Schmetterlinge" nennst. Biologisch ist es echte Neurochemie.
-
-Diese Phase dauert normalerweise 3-6 Monate. Einige Beziehungen sind länger, einige kürzer. Das bedeutet nicht, dass deine Liebe gefälscht ist, wenn die Intensität abnimmt. Es bedeutet, dass dein Gehirn übergeht zu einer stabileren neurochemischen Situation. Das ist nicht weniger bedeutungsvoll — es ist nur anders.
-
-In dieser Phase sei dir bewusst: Du lernst diese Person wirklich kennen. Die erste Phase ist, wenn Menschen am besten sind. Sie zeigen ihre beste Seite. Das ist nicht unehrlich — es ist einfach, dass jeder auf dem besten Verhalten ist, wenn er neu verliebt ist. Mit der Zeit wirst du die tiefere Person sehen. Manchmal ist das schöner. Manchmal ist das weniger nett. Das ist die Reise.
-
-## Die ersten Gespräche: Das Fundament bauen
-
-Deine ersten Gespräche mit deinem neuen Partner sind unterirdisch wichtig. Das sind nicht nur bedeutungslose "wie war dein Tag?" Austausche. Das sind der Moment, in dem zwei Menschen beginnen, sich gegenseitig zu verstehen. Das sind die Grundlagen, auf denen die Beziehung gebaut wird.
-
-Ein großer Fehler, den Menschen in ihrer ersten Beziehung machen, ist vorzutäuschen. Du versteckst die Teile von dir, die du denkst, könnten unattraktiv sein. Du geben eine polierte Version von dir selbst. Das ist verständlich — du willst gefallen. Aber wenn die Beziehung auf dieser Illusion gebaut ist, wird sie zusammenbrechen, wenn die Wahrheit herauskommt.
-
-Versuche stattdessen, echte zu sein. Sprich über deine Träume. Sprich über deine Ängste. Sprich über die Dinge, die dir wichtig sind. Wenn diese Person nicht interessiert ist, gut zu wissen jetzt statt später. Wenn diese Person mehr über dich wissen will, noch besser. Das ist jemand, der dich mag, nicht nur eine Version von dir.
-
-Stelle Fragen. Viel davon. "Wie war deine Kindheit?" "Was verletzest dich am tiefsten?" "Wenn du auf deinem Sterbebett lagst, was würdest du bedauern?" Diese tiefen Fragen offenbaren, wer jemand wirklich ist. Sie schaffen auch Intimität, die über das physikalische hinausgeht.
-
-Ein echtes Beispiel: Marcus und Lisa trafen sich zum ersten Mal. Anstatt oberflächliche zu sein, fragte Marcus Lisa: "Was ist das Trauma deines Lebens?" Es war eine kühn Frage, aber Lisa antwortete ehrlich. Sie erzählte ihm von ihrem Vater, der sie verlassen hatte. Sie erzählte ihm von ihrer Angst, verlassen zu werden. Marcus hörte zu. Er zeigte Verständnis. Das Gespräch zog sich drei Stunden hin. Sie wussten, dass dies anders war. Sie hatten eine echte Verbindung, nicht nur chemische Anziehung. Zwei Jahre später sind sie noch zusammen, weil diese Grundlage echt war.
-
-## Die physikalische Komponente: Nähe und Sex in deiner ersten Beziehung
-
-Das erste Mal, dass du diese Person küsst, wirst du nie vergessen. Dein Körper wird anders ansprechen — wach, lebendig, erschrocken. Wenn du es vorher noch nicht getan hast, sind deine Gedanken über Sex wahrscheinlich durcheinander. Du fragst dich: "Bin ich bereit? Werde ich es falsch machen? Wird es weh tun?" (Oft: ja, ja, und es könnte.) All das ist normal.
-
-Die wichtigste Regel: Geht es langsam. Es gibt keinen Grund, alles auf einmal zu machen. Genießt Küssen zuerst. Genießt Umarmungen. Genießt das Gefühl von deiner Hand in ihrer Hand. Sex wird nicht irgendwohin gehen. Es wird immer noch da sein, wenn dein seid bereit.
-
-Der größte Fehler, den junge Menschen machen, ist Sex als etwas zu sehen, das du "tun" musst. Als ein Kästchen zum Abhacken in der Beziehung. "Ich habe meine erste Beziehung, also ich muss Sex haben." Das ist nicht wahr. Sex sollte etwas sein, das beide wollen, nicht etwas, das man erwartet.
-
-Kommunikation ist alles hier. Sagt euch gegenseitig, was ihr wollt. Sagt euch gegenseitig, was ihr nicht wollt. Sagt euch gegenseitig, wenn etwas wehtut oder sich nicht richtig anfühlt. "Das mag ich nicht" sollte immer akzeptabel sein. "Langsamer" sollte immer respektiert werden. Wenn dein Partner diese Grenzen nicht respektiert, das ist ein großes Warnsignal.
-
-Es gibt auch die emotionale Komponente von Sex. Das erste Mal mit jemandem ist nicht nur physisch. Es ist auch emotional. Du bist diese Person vulnerabel zu zeigen. Du erlaubst sie, dich auf die intimste Art zu berühren. Danach wirst du dich näher an diese Person fühlen. Das ist normal. Aber wisse, dass dies auch bedeutet, dass wenn die Beziehung endet, die Vertrauensverletzung noch tiefer sein wird.
-
-## Wie man sein Herz öffnet, ohne es zu zerbrechen
-
-Sich in der ersten Beziehung zu verlieben ist das Öffnen einer Tür, die du nicht weißt, wie man schließet. Dein Herz ist jetzt anfällig. Diese Person könnte es brechen. Das ist der Risiko der Liebe.
-
-Viele Menschen, nach dem Durchmachen einer erste Beziehung, werden vorsichtiger. Sie öffnen ihre Herzen nicht so leicht wieder. Das ist ein Selbstschutz. Es ist auch bedauerlich, weil es bedeutet, dass Liebe schwerer wird.
-
-Das Ziel ist nicht, dein Herz zu schützen. Das Ziel ist, es klug zu öffnen. Das bedeutet:
-
-Stelle sicher, dass diese Person vertrauenswürdig ist, bevor du große emotionale Investitionen machst.
-Halte einen Aspekt von dir selbst zurück — nicht aus Manipulation, sondern aus Selbstschutz. Du brauchst deine Unabhängigkeit.
-Vertrau deinem Bauchgefühl. Wenn etwas sich falsch anfühlt, überprüfe das. Vertrau nicht einfach, dass dein Partner dich liebt.
-Habe andere Beziehungen. Nicht alle deine Liebe sollte dieser Person zugewendet werden. Deine Familie, deine Freunde, sie verdienen auch deine Liebe.
-
-Eine wichtige Unterscheidung: Verliebt sein ist nicht das gleiche wie verrückt nach jemandem. Wenn du denkst, dass du nicht leben kannst ohne diese Person, wenn du alle deine Pläne aufgibst um sie zu sehen, wenn du dich selbst verlierst in dieser Beziehung — das ist nicht Liebe. Das ist Abhängigkeit. Echte Liebe ermöglicht, dass du du selbst bleibst.
-
-## Ihr erstes Argument: Erkennung und Navigation
-
-Es wird passieren. Du wirst etwas sagen, und er wird verletzt werden. Oder er wird etwas sagen, und du wirst verletzt werden. Oder ihr werdet einfach nicht einig über etwas sein. Das erste Argument in einer Beziehung ist eine große Sache. Es kann sich anfühlen, als ob die ganze Beziehung abbricht. Das tut sie nicht.
-
-Das erste Argument ist auch wertvoll. Es zeigt, wie diese Person Konflikt bearbeitet. Werden Sie defensive? Werden Sie aggressiv? Werden Sie zuhören? Das alles sind wichtige Informationen.
-
-Häufige Themen für erste Argumente:
-Eifersucht. Du siehst ihn mit jemandem anderem sprechen und du gerätst in Panik.
-Verschiedene Werte. Vielleicht mag er Politik und du nicht. Vielleicht hat er eine andere Einstellung zum Geld.
-Unterschiedliche [Love Languages](/blog/love-languages-komplett-guide). Du brauchst körperliche Zuneigung, und er ist nicht anfällig dafür. Oder er braucht Qualitätszeit, und du brauchst Raum.
+Wenn du [Love Languages](/blog/love-languages-test-guide). Du brauchst körperliche Zuneigung, und er ist nicht anfällig dafür. Oder er braucht Qualitätszeit, und du brauchst Raum.
 Kleine Ärgers, die sich aufbauen. Kleine Dinge wie "er hört mir nicht zu" oder "sie schaut zu oft auf ihr Telefon" bauen sich auf bis zu einem Argument.
 
 Das Wichtigste ist, wie du das Argument bearbeitest. Einige Regeln für gesundes Konflikts:

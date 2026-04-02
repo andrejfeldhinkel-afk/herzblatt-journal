@@ -34,21 +34,7 @@ Die Antwort ist ein klares Ja. Deine Kinder verdienen ein glückliches Elterntei
 
 Es gibt keine magische Formel. Aber einige Orientierungspunkte helfen:
 
-Nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte) solltest du dir mindestens sechs Monate Zeit geben, um zu heilen. Deine Kinder brauchen Stabilität, und du brauchst emotionale Klarheit. Daten aus Einsamkeit oder um dem Ex etwas zu beweisen, funktioniert selten.
-
-Du bist bereit, wenn du an die Zukunft denkst — nicht an die Vergangenheit. Wenn du jemanden als Bereicherung suchst, nicht als Rettung.
-
-## Die häufigsten Sorgen
-
-**„Bin ich nicht egoistisch?"** Nein. Du zeigst deinen Kindern, dass Liebe wichtig ist und dass man nach Rückschlägen nicht aufgibt. Das ist ein wertvolles Vorbild.
-
-**„Wer will schon jemanden mit Kindern?"** Mehr Menschen als du denkst. Viele finden es attraktiv, wenn jemand Verantwortung übernimmt. Kinder sind kein Makel — sie sind ein Teil von dir.
-
-**„Wie schaffe ich das zeitlich?"** Es braucht Kreativität. Mittagspausen-Dates, Video-Calls nach dem Einschlafen der Kinder, oder ein freier Nachmittag, wenn die Großeltern einspringen.
-
-## Wann stellst du den neuen Partner vor?
-
-Dieser Punkt ist entscheidend. Zu früh vorgestellte Partner verwirren Kinder und erzeugen [Bindungsangst](/blog/bindungsangst-komplett-guide). Zu spät vorgestellt wirkt es wie ein Geheimnis.
+Nach einer [Bindungsangst](/blog/bindungsangst-komplett-guide). Zu spät vorgestellt wirkt es wie ein Geheimnis.
 
 Die Faustregel: Warte mindestens drei bis sechs Monate, bis die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) stabil ist. Stelle den neuen Partner zunächst in einem entspannten, unverfänglichen Setting vor — ein gemeinsamer Ausflug funktioniert besser als ein formelles Abendessen.
 
@@ -72,7 +58,7 @@ Lass dich nicht auf weniger ein, nur weil du denkst, deine Optionen seien begren
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/aktives-zuhoeren-beziehung-ueben/) zu [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-als-alleinerziehend), [Introvertiert liebt Extrovertiert: Gegensätze in der Beziehung](/blog/dating-introvertiert-extrovertiert), [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-als-alleinerziehend), [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung).## Weiterlesen
 
 - [Dating in einer Patchwork-Familie: Neue Liebe, bestehende](/blog/patchwork-familie-dating/)
 - [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung/)

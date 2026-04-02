@@ -51,27 +51,7 @@ Während Dopamin und Noradrenalin steigen, passiert mit Serotonin etwas Unerwart
 
 Nach der intensiven Verliebtheitsphase übernehmen andere Hormone die Führung. Oxytocin, oft als Kuschelhormon oder Bindungshormon bezeichnet, wird bei körperlicher Nähe, Berührungen, Umarmungen und Intimität ausgeschüttet. Es stärkt das Vertrauen, fördert die Empathie und erzeugt ein Gefühl der Sicherheit. Oxytocin ist der Grund, warum Kuscheln sich so gut anfühlt und warum körperliche Nähe Beziehungen stärkt.
 
-Oxytocin spielt auch bei der Eltern-Kind-Bindung eine zentrale Rolle. Es ist der chemische Klebstoff, der Menschen zusammenhält — über die erste Aufregung hinaus, in den Alltag hinein. Paare mit höheren Oxytocin-Spiegeln zeigen in Studien mehr Zuneigung, bessere [Kommunikation](/blog/liebessprachen-entdecken-nutzen) und größere Beziehungszufriedenheit.
-
-### Vasopressin: Der Treue-Faktor
-
-Vasopressin ist eng verwandt mit Oxytocin und wird vor allem mit langfristiger Bindung und Treue in Verbindung gebracht. Berühmt wurde Vasopressin durch Studien an Präriewühlmäusen, die monogam leben, im Gegensatz zu ihren promiskuitiveren Verwandten, den Bergwühlmäusen. Der Unterschied: mehr Vasopressin-Rezeptoren im Gehirn. Natürlich sind Menschen keine Mäuse, aber die Forschung zeigt, dass Vasopressin auch bei uns eine Rolle für das Bindungsverhalten spielt.
-
-## Phase 3: Die reife Liebe — Endorphine und Entscheidung
-
-### Endorphine: Das natürliche Schmerzmittel
-
-In langfristigen Beziehungen spielen Endorphine eine wichtige Rolle. Diese körpereigenen Opiate erzeugen ein Gefühl von Wohlbefinden, Sicherheit und tiefer Zufriedenheit — weniger aufregend als der Dopaminrausch, aber nachhaltiger. Endorphine werden durch gemeinsame Aktivitäten, Lachen, Sport und körperliche Nähe freigesetzt. Sie erklären, warum langjährige Paare oft berichten, dass ihre Liebe anders ist als am Anfang, aber nicht weniger tief.
-
-### Die bewusste Entscheidung
-
-Jenseits aller Chemie gibt es einen Aspekt der Liebe, den kein Neurotransmitter allein erklären kann: die bewusste Entscheidung, einen anderen Menschen zu lieben, jeden Tag aufs Neue. Wenn der Dopaminrausch abflacht und die Routine einkehrt, ist es die Entscheidung, füreinander da zu sein, gemeinsam zu wachsen und Konflikte zu lösen, die eine Beziehung am Leben hält. Liebe ist also beides: Chemie und Wahl, Gefühl und Handlung.
-
-## Was die Wissenschaft über Anziehung verrät
-
-### Der Geruchssinn und das Immunsystem
-
-Einer der faszinierendsten Aspekte der [Anziehung](/blog/koerpersprache-anziehung-signale)sforschung betrifft den Geruchssinn. Das berühmte T-Shirt-Experiment von Claus Wedekind zeigte, dass Frauen den Körpergeruch von Männern als attraktiver empfinden, deren Immunsystem-Gene sich möglichst stark von ihren eigenen unterscheiden. Biologisch ergibt das Sinn: unterschiedliche Immunsysteme der Eltern bedeuten eine breitere Immunabwehr für den Nachwuchs. Wir riechen also buchstäblich, ob jemand genetisch zu uns passt.
+Oxytocin spielt auch bei der Eltern-Kind-Bindung eine zentrale Rolle. Es ist der chemische Klebstoff, der Menschen zusammenhält — über die erste Aufregung hinaus, in den Alltag hinein. Paare mit höheren Oxytocin-Spiegeln zeigen in Studien mehr Zuneigung, bessere [Anziehung](/blog/koerpersprache-anziehung-signale)sforschung betrifft den Geruchssinn. Das berühmte T-Shirt-Experiment von Claus Wedekind zeigte, dass Frauen den Körpergeruch von Männern als attraktiver empfinden, deren Immunsystem-Gene sich möglichst stark von ihren eigenen unterscheiden. Biologisch ergibt das Sinn: unterschiedliche Immunsysteme der Eltern bedeuten eine breitere Immunabwehr für den Nachwuchs. Wir riechen also buchstäblich, ob jemand genetisch zu uns passt.
 
 ### Symmetrie und Attraktivität
 
@@ -113,7 +93,6 @@ Probiere folgendes Experiment: Führe zwei Wochen lang ein Tagebuch, in dem du n
 
 ## Weiterlesen
 
-- [Abenteuer-Dates: Adrenalin stärkt die Bindung](/blog/abenteuer-dates-adrenalin)
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
 - [Bindungstypen verstehen 2026: Der komplette Guide](/blog/attachment-styles-guide)
 

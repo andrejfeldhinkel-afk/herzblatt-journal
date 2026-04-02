@@ -1,5 +1,5 @@
 ---
-title: "Doomscrolling-Effekt beim Dating: Wenn die App dein Leben übernimmt"
+title: "Doomscrolling-Effekt beim Dating"
 description: "Der Doomscrolling-Effekt bei Dating-Apps ist real. Erfahre, wie du nicht in der Endlosschleife steckst und wieder auf dein echtes Leben konzentrierst."
 keywords: ["doomscrolling-effekt beim dating", "ratgeber", "doomscrolling-effekt beim", "beim dating:", "dating: wenn", "wenn dein"]
 date: 2025-12-24

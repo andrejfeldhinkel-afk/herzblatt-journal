@@ -158,6 +158,5 @@ Die beste Liebe, die du ihm entgegenbringen kannst, ist die Liebe, bei der du de
 
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
 - [Unerfüllter Kinderwunsch: Wenn der Traum vom Baby die](/blog/unerfuellter-kinderwunsch-beziehung-guide/)
-- [Neustart mit dem Ex: So klappt es wirklich](/blog/beziehung-neustart-gleicher-partner/)
 - [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)
 - [Beziehung und psychische Gesundheit](/blog/beziehung-und-mental-health/)

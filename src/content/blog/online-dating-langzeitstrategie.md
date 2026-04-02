@@ -165,7 +165,7 @@ In dieser Zeit: Investiere in dein eigenes Leben. Trainiere, treffe Freunde, ver
 1. Du wirst glücklicher und ausgeglichener, was deine Chancen beim Wiederstart erhöht.
 2. Du wirst automatisch attraktiver, weil du ein erfülltes Leben hast.
 
-[Lese hier mehr über Burnout beim Dating und wie man ihn verhindert](/dating-burnout).
+[Lese hier mehr über Burnout beim Dating und wie man ihn verhindert](/blog/dating-burnout).
 
 Ich empfehle: Pro vier Wochen aktivem Dating eine Woche Pause. Das ist nicht schlecht – das ist optimal. Es gibt dir Mental-Space und hält dich langfristig motiviert.
 
@@ -294,7 +294,7 @@ Was ist verhandelbar?
 - Hobbys (ihr müsst nicht alle gleichen Hobbys haben)
 - Hintergrund (unterschiedliche Kulturen und Erziehung können funktionieren)
 
-[Lese hier mehr über werte-basiertes Dating](/werte-basiertes-dating).
+[Lese hier mehr über werte-basiertes Dating](/blog/werte-basiertes-dating).
 
 Die beste Langzeitstrategie ist: Deine Non-Negotiables kennen, aber bei allem anderen neugierig sein. Menschen sind kompliziert. Die beste Person für dich könnte jemand sein, den du nicht erwartet hast.
 
@@ -315,7 +315,7 @@ Eine Langzeitstrategie zum Online-Dating sollte also auch eine Strategie zu pers
 
 Das klingt vielleicht nicht wie "Online-Dating-Strategie", aber es ist es. Deine innere Arbeit ist dein äußerer Erfolg.
 
-[Lese hier mehr über Selbstliebe und Dating](/selbstliebe-dating).
+[Lese hier mehr über Selbstliebe und Dating](/blog/selbstliebe-dating).
 
 Menschen, die daran arbeiten, sind attraktiver. Sie haben bessere Beziehungen. Sie duzen sich mit Burnout weniger aus.
 

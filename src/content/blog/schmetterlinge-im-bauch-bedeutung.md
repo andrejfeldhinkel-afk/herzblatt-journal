@@ -42,21 +42,7 @@ Hier kommt der wichtige Punkt: Schmetterlinge im Bauch sind ein Zeichen von Anzi
 
 Die Verliebtheitsphase mit ihren intensiven Schmetterlingen dauert typischerweise sechs bis achtzehn Monate. Danach normalisiert sich der Hormonhaushalt, und die aufregenden Schmetterlinge werden durch ein tieferes Gefühl der Verbundenheit ersetzt.
 
-Das bedeutet nicht, dass die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) schlechter wird. Im Gegenteil: Die ruhige Liebe, die nach den Schmetterlingen kommt, ist stabiler, verlässlicher und letztlich erfüllender. Sie basiert auf [oxytocin](/blog/beruehrungen-beziehung-bedeutung/) statt auf Adrenalin.
-
-## Die Phasen der romantischen Liebe
-
-Es gibt verschiedene Stadien der romantischen Entwicklung, und die Schmetterlinge spielen nur eine Rolle in der ersten Phase. Die Phase der Vernarrtheit oder Leidenschaft dauert etwa 6 bis 18 Monate. In dieser Zeit ist alles intensiv – die guten Momente fühlen sich wie Feuerwerk an, und die schlechten Momente fühlen sich existenziell an.
-
-Danach folgt die Phase der Affektion, in der dein Gehirn wieder normalisiert. Du siehst die andere Person klarer – mit ihren Fehlern und Schwächen. Die Schmetterlinge sind weg, aber jetzt kannst du eine echte, stabile Liebe aufbauen, wenn ihr beide dafür arbeitet.
-
-Manche Beziehungen enden, wenn die Schmetterlinge vorbei sind, weil eine Person dachte, die Intensität müsse für immer anhalten. Das ist ein Fehler. Die beste Zeit in einer Beziehung ist oft nach der intensiven Verliebtheitsphase, wenn beide Partner klarer sehen und sich trotzdem entscheiden, zu bleiben.
-
-## Wenn Schmetterlinge warnen statt verlieben
-
-Manchmal verwechseln wir Angst mit Aufregung. Wenn du bei einer Person Schmetterlinge spürst, die dich schlecht behandelt oder emotional nicht verfügbar ist, könnten diese Schmetterlinge eigentlich ein Warnsignal sein.
-
-Menschen mit unsicherem [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) verwechseln häufig Angst und Unsicherheit mit romantischer Anziehung. Das erklärt, warum manche immer wieder an die falschen Partner geraten: Sie interpretieren die Stressreaktion als Verliebtheit.
+Das bedeutet nicht, dass die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) schlechter wird. Im Gegenteil: Die ruhige Liebe, die nach den Schmetterlingen kommt, ist stabiler, verlässlicher und letztlich erfüllender. Sie basiert auf [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) verwechseln häufig Angst und Unsicherheit mit romantischer Anziehung. Das erklärt, warum manche immer wieder an die falschen Partner geraten: Sie interpretieren die Stressreaktion als Verliebtheit.
 
 Achte darauf, ob die Schmetterlinge von Freude oder von Unsicherheit begleitet werden. Gesunde Schmetterlinge fühlen sich aufregend und warm an. Ungesunde Schmetterlinge fühlen sich ängstlich und obsessiv an.
 

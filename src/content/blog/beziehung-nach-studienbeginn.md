@@ -141,15 +141,6 @@ Der Studienbeginn ist eine Transition, aber nicht das Ende eurer Geschichte. Vie
 
 Lest auch diese verwandten Artikel:
 
-[Fernbeziehung aufrechterhalten: Praktische Tipps für Paare](/blog/fernbeziehung-tipps)
-
-Wie man sich als Paar nicht auseinander lebt
-
-Neue Freunde in der Beziehung: Grenzen und Vertrauen
-
-## Weiterlesen
-
-- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
-- [Neustart nach einer Affäre: Der 8-Wochen-Plan für Heilung](/blog/beziehung-after-affaere-plan)
+[Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 - [Großer Altersunterschied in der Beziehung](/blog/beziehung-altersunterschied-gross)
 

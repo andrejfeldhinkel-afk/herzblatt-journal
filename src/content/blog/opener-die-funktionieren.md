@@ -172,7 +172,6 @@ Nutze diese Opener als Anleitung, aber pass sie an dich selbst an. Deine echte S
 
 ## Das könnte dich auch interessieren
 
-- [50 Opener für Dating-Apps die wirklich funktionieren](/blog/dating-app-opener-vorlagen/)
 - [Erste eigene Wohnung nach [Trennung](/blog/trennung-verarbeiten-12-schritte): Der Neustart-Guide](/blog/erste-wohnung-nach-trennung/)
 - [Erste Nachricht Tipps: Wie du Aufmerksamkeit bekommst](/blog/dating-erste-nachricht-tipps/)
 - [Die perfekte erste Nachricht beim Online-Dating](/blog/dating-kommunikation-erste-nachricht-tipps/)

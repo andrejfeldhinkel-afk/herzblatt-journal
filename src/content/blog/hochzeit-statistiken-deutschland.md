@@ -142,37 +142,7 @@ Diese Veränderungen sind nicht von Aßen, sie sind von einem Wandel in der Gese
 
 Statistische sagen: Die kritischsten Jahre sind 1-7. Wenn eine Ehe diese überstanden hat, hat sie gute Chancen.
 
-Die häufigsten Gründe für [Trennung](/blog/trennung-verarbeiten-12-schritte) in den ersten Jahren:
-- Finanzielle Probleme
-- Kommunikationsfehler
-- Unterschiedliche Erwartungen
-- Mangel an Intimität
-
-Das sind lösbar — wenn beide Seiten bereit sind.
-
-## Interessante Detail-Statistiken
-
-- Paare, die vorher zusammengelebt haben, berichten höhere Zufriedenheit
-- Paare mit gleichem Bildungsniveau berichten stabilere Ehen
-- Größere Altersunterschiede (10+ Jahre) führen zu höheren Scheidungsquoten
-- Geld ist der häufigste Streitgrund (auch bei reicheren Paaren)
-- Paare, die regelmäßig Zeit zusammen verbringen, berichten mehr Zufriedenheit
-
-## Das große Bild — Was das alles bedeutet
-
-Heirat ist heute eine Entscheidung, nicht eine Bestimmung. Das ist sowohl gut als auch komplex.
-
-Gut: Paare heiraten, weil sie es wollen, nicht weil sie es müssen. Das macht Ehen intentionaler und stabiler.
-
-Komplex: Weil es eine Entscheidung ist, muss man sie bewusst treffen und bewusst tragen.
-
-Die Menschen, die heute heiraten, wissen wahrscheinlich besser, worauf sie sich einlassen. Sie haben älter geheiratet, zusammengelebt, ihre Partner gekannt. Das ist ein stabiles Fundament.
-
-Aber die Hochzeit ist nicht das Ende — es ist der Anfang. Und wie lange es dauert, hängt nicht von Statistiken ab, sondern von euch.
-
-## Das Persönliche hinter den Zahlen
-
-Statistiken erzählen eine Geschichte, aber sie erzählen nicht die ganze Geschichte. Sie erzählen nicht von den Paaren, die nach 40 Jahren noch [verliebt](/blog/mann-verliebt-anzeichen-komplett) sind. Sie erzählen nicht von den Menschen, die allein glücklich sind. Sie erzählen nicht von denen, die heiraten und eine tiefe Partnerschaft aufbauen.
+Die häufigsten Gründe für [verliebt](/blog/mann-verliebt-anzeichen-komplett) sind. Sie erzählen nicht von den Menschen, die allein glücklich sind. Sie erzählen nicht von denen, die heiraten und eine tiefe Partnerschaft aufbauen.
 
 Die Zahlen zeigen: Heirat ist weniger automatisch, seltener, aber wenn es passiert, stabiler. Das ist ein Fortschritt. Es bedeutet, dass Menschen bewusster entscheiden und dann engagierter bleiben.
 
@@ -252,6 +222,5 @@ Das ist nicht romantisch im klassischen Sinne — es ist realistisch. Und echte 
 
 ## Weiterlesen
 
-- [Dating in Zahlen: Spannende Statistiken aus Deutschland](/blog/dating-statistiken-deutschland)
 - [Die ersten Ehejahre: Warum nach der Hochzeit die echte Beziehung anfängt](/blog/beziehung-nach-hochzeit)
 - [Online Dating Statistiken 2026: Die wichtigsten Zahlen](/blog/online-dating-statistiken)

@@ -927,17 +927,10 @@ Und diejenigen, die nicht? Sie sind nicht die richtige Person für dich sowieso.
 
 ## Integration mit anderen Artikeln
 
-Lerne über [Dating für Introvertierte](/blog/dating-fuer-introvertierte) um die andere Seite zu verstehen.
+Lerne über [Selbstliebe und Dating](/blog/selbstliebe-dating) — Ambiversion ist ein Teil von dir selbst zu lieben.
 
-Verstehe [Selbstliebe und Dating](/blog/selbstliebe-dating) — Ambiversion ist ein Teil von dir selbst zu lieben.
-
-Erkenne [deine Bedürfnisse in der Beziehung](/blog/persoenliche-grenzen-dating) — das ist kritisch wenn du ambivertiert bist.
-
----
-**Empfohlene weitere Lektüre:**
-- Lerne über [Dating für Introvertierte](/blog/dating-fuer-introvertierte)
-- Verstehe [selbstliebe und dating](/blog/selbstliebe-dating)
-- Erkenne [deine Bedürfnisse in der Beziehung](/blog/persoenliche-grenzen-dating)
+Erkenne [Dating für Introvertierte](/blog/dating-fuer-introvertierte)
+- Verstehe [deine Bedürfnisse in der Beziehung](/blog/persoenliche-grenzen-dating)
 
 ## 15 Date-Ideen sortiert nach Energielevel
 

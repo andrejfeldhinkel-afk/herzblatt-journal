@@ -36,9 +36,7 @@ Bevor du gegen Eifersucht ankämpfst, musst du verstehen, woher sie kommt. Es gi
 
 **Vergangene Verletzungen:** Wenn du in früheren Beziehungen betrogen oder verlassen wurdest, sitzt das Misstrauen tief. Dein Gehirn versucht, dich vor einer Wiederholung zu schützen — aber übertreibt es dabei.
 
-**Geringes Selbstwertgefühl:** Wenn du dir selbst nicht genug wert bist, fragst du dich ständig: Warum sollte mich jemand wählen? Diese Unsicherheit projiziert sich auf die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) und erzeugt ständige Angst.
-
-**[Bindungsstil](/blog/avoidant-attachment-beziehung-guide):** Menschen mit unsicherem Bindungsstil neigen stärker zu Eifersucht. Wenn du als Kind gelernt hast, dass Nähe unsicher ist, trägst du dieses Muster in deine erwachsenen Beziehungen.
+**Geringes Selbstwertgefühl:** Wenn du dir selbst nicht genug wert bist, fragst du dich ständig: Warum sollte mich jemand wählen? Diese Unsicherheit projiziert sich auf die [Bindungsstil](/blog/avoidant-attachment-beziehung-guide):** Menschen mit unsicherem Bindungsstil neigen stärker zu Eifersucht. Wenn du als Kind gelernt hast, dass Nähe unsicher ist, trägst du dieses Muster in deine erwachsenen Beziehungen.
 
 ## 7 Strategien gegen Eifersucht
 
@@ -82,11 +80,7 @@ Hilfreiche Ressourcen findest du bei Psychologie Heute: [Psychologie Heute](http
 
 ## Und jetzt?
 
-Eifersucht ist menschlich — aber sie muss nicht dein Leben bestimmen. Mit Selbstreflexion, offener [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) und der Bereitschaft, an dir zu arbeiten, kannst du lernen, Vertrauen zu geben und Vertrauen zu empfangen. Deine Beziehung wird es dir danken.
-
----
-
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Emotionale Abhängigkeit überwinden: Unabhängigkeit in Beziehungen](/blog/emotionale-abhaengigkeit), [Grenzen setzen in der Beziehung: Warum es Liebe stärkt statt zerstört](/blog/grenzen-setzen-beziehung), [Dating als hochsensible Person: Liebe mit tieferen Gefühlen](/blog/hochsensibel-dating).## Weiterlesen
+Eifersucht ist menschlich — aber sie muss nicht dein Leben bestimmen. Mit Selbstreflexion, offener [Emotionale Abhängigkeit überwinden: Unabhängigkeit in Beziehungen](/blog/emotionale-abhaengigkeit), [Dating als hochsensible Person: Liebe mit tieferen Gefühlen](/blog/hochsensibel-dating).## Weiterlesen
 
 - [Grenzen setzen in der Beziehung: Warum es Liebe stärkt statt](/blog/grenzen-setzen-beziehung/)
 - [Eifersucht überwinden: Der komplette Guide](/blog/beziehung-und-eifersucht-ueberwinden/)

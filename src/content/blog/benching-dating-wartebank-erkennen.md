@@ -1,5 +1,5 @@
 ---
-title: "Benching beim Dating erkennen – Wenn du nur die Wartebank wärmst"
+title: "Benching beim Dating erkennen"
 description: "Benching beim Dating erkennen: Alles was du wissen musst, um beim Dating selbstbewusst aufzutreten und die richtige Person zu finden."
 keywords: ["benching beim dating erkennen", "dating", "red flags", "online dating", "kommunikation", "selbstliebe"]
 date: 2025-07-17
@@ -24,15 +24,7 @@ Genau das ist Benching in der Dating-Welt.
 
 Benching bedeutet, dass jemand mit dir kommuniziert, gerade genug um deine Hoffnung zu halten, aber nicht wirklich mit dir daten möchte oder bereit für eine Beziehung ist. Der Bencher hält sich mehrere Optionen offen. Du bist eine davon. Und wenn die „erste Wahl" nicht funktioniert, bringt er dich ins Spiel.
 
-Das Grausame an Benching ist, dass es sich nicht wie [Ghosting](/blog/ghosting-komplett-guide) anfühlt. Ghosting wäre fast einfacher. Mit Ghosting wüsstest du, dass die Person nicht interessiert ist. Mit Benching bekommst du gerade genug Aufmerksamkeit, um zu glauben, dass etwas Echtes zwischen euch passiert.
-
-## Die psychologischen Wurzeln von Benching
-
-Warum machen Menschen das? Es gibt mehrere Gründe, und Verständnis könnte dir helfen, die Situation weniger persönlich zu nehmen.
-
-**Die Angst vor Einsamkeit.** Der Bencher hat möglicherweise die tiefe Angst, allein zu sein. Statt eine echte Beziehung aufzubauen, sammelt er Optionen. Solange er dein Interesse hat, fühlt er sich weniger einsam. Das ist ein verdrehtes Sicherheitssystem, aber es ist menschlich.
-
-**[Bindungsangst](/blog/bindungsangst-komplett-guide).** Manche Menschen haben echte Schwierigkeiten mit Intimität und Verpflichtung. Sie mögen dich, aber die Vorstellung, wirklich verletzlich zu werden, ist zu erschreckend. Also halten sie dich auf Distanz, genau nah genug, dass du nicht gehst.
+Das Grausame an Benching ist, dass es sich nicht wie [Bindungsangst](/blog/bindungsangst-komplett-guide).** Manche Menschen haben echte Schwierigkeiten mit Intimität und Verpflichtung. Sie mögen dich, aber die Vorstellung, wirklich verletzlich zu werden, ist zu erschreckend. Also halten sie dich auf Distanz, genau nah genug, dass du nicht gehst.
 
 **Niedrige Anstrengungsbereitschaft.** Manche Menschen sind einfach faul in der Liebe. Benching erfordert minimal Aufwand – ein gelegentlicher Text, ein Treffen pro Monat – während eine echte Beziehung tatsächliche Mühe erfordert. Der Bencher nimmt den einfachen Weg.
 

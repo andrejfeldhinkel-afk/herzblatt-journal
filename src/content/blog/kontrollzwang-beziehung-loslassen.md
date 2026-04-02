@@ -754,9 +754,7 @@ Und du verdienst besser.
 
 ## Integration mit anderen Artikeln
 
-Verstehe wie Kontrolle mit [Bindungsstilen](/blog/attachment-style-aendern-sicher-werden) verbunden ist — kontrolle ist oft ein [ängstlicher bindungsstil](/blog/aengstlicher-bindungsstil-heilen/) der zu extrem wird.
-
-Erkunde auch wie [innere Kindheit-Wunden](/blog/inneres-kind-heilen-beziehung) dein Kontrollbedarf antreiben.
+Verstehe wie Kontrolle mit [Bindungsstilen](/blog/attachment-style-aendern-sicher-werden) verbunden ist — kontrolle ist oft ein [innere Kindheit-Wunden](/blog/inneres-kind-heilen-beziehung) dein Kontrollbedarf antreiben.
 
 Und lerne über [emotionale Intelligenz](/blog/emotionale-intelligenz-dating) — das ist der Schlüssel um deine Angst zu regulieren statt deinen Partner zu kontrollieren.
 
@@ -916,23 +914,7 @@ Manchmal die einzige Art um die Kontrolle nicht auszuüben ist, eine dritte Pers
 
 ## Kontrollzwang und verschiedene Bindungsstile
 
-Der Kontrollzwang manifestiert sich anders je nach deinem [Bindungsstil](/blog/avoidant-attachment-beziehung-guide). Zu verstehen deinen Typ ist wichtig weil es die beste Heilung-Route zeigt.
-
-### Ängstlich-Kontrollierer
-
-Du brauchst Nähe, aber dein Angst macht dich kontrollierend.
-
-Das sieht aus wie: "Du darfst nicht ohne mich Zeit mit Freunden verbringen. Was wenn du mich vergisst?"
-
-Oder: "Wer hast du am Telefon? Warum antwortest du nicht schnell?"
-
-Der unterliegende Gedanke: "Wenn ich kontrolliere was du tust, kann ich sicherstellen, dass du mich nicht verlässt."
-
-Die Ironie: Die Kontrolle ist genau das was eine Person verlässt. Dein Partner fühlt sich erstickt, nicht geliebt.
-
-**Heilung für ängstlich-Kontrollierer:**
-- Erkenne: Kontrolle wird dich nicht behalten. Das wird dir isolieren. Das wird die Person die du liebst ferner machen.
-- Praxis: Kleine Momente der [Trennung](/blog/trennung-verarbeiten-12-schritte) ohne Drama. Dein Partner geht zu Freunden. Du atme. Du überlebst. Dein Partner kommt zurück und ist besserer Laune weil er/sie hatte "mir" Zeit. Das ist Beweis dass Freiheit die Beziehung verstärkt.
+Der Kontrollzwang manifestiert sich anders je nach deinem [Trennung](/blog/trennung-verarbeiten-12-schritte) ohne Drama. Dein Partner geht zu Freunden. Du atme. Du überlebst. Dein Partner kommt zurück und ist besserer Laune weil er/sie hatte "mir" Zeit. Das ist Beweis dass Freiheit die Beziehung verstärkt.
 - Affirmation: "Ich bin bemerkenswert. Ich werde nicht verlassen weil ich nicht kontrolliere. Ich werde wohl geliebt weil ich Freiheit gebe."
 
 Das ist nicht natürlich für dich. Das ist gegen dein Instinkt. Aber das ist genau warum es wirksam ist — es programmiert dein Nervensystem um.

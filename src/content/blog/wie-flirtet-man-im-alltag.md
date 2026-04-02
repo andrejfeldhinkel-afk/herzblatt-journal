@@ -236,7 +236,7 @@ Also: Kopfhörer weg. Handy weg. Präsent sein. Und achte mal auf die Menschen u
 
 Ich garantiere dir: Es gibt Möglichkeiten überall.
 
-**Verwandte Artikel:** [Wo kann man einen Partner finden — ohne Dating-Apps?](/blog/wo-partner-finden-ohne-app), [Partner flirtet mit anderen: Harmlos oder Problem?](/blog/partner-flirtet-mit-anderen)
+**Verwandte Artikel:** [Partner flirtet mit anderen: Harmlos oder Problem?](/blog/partner-flirtet-mit-anderen)
 ## Weiterlesen
 
 - [Flirten im Alltag: 15 Orte wo du ohne App Menschen](/blog/flirten-im-supermarkt-alltag/)

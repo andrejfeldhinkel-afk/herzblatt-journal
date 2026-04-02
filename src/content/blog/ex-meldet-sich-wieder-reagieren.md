@@ -273,4 +273,4 @@ Vergib für dich selbst. Aber zweite Chancen sind für diejenigen, die echt bere
 
 Sei weise. Schütze dein Herz. Du brauchst es mehr als er.
 
-Wenn du noch mit dem Schmerz der Trennung selbst kämpfst, schau dir auch unsere Artikel zu [Trennung verarbeiten](/blog/trennung-verarbeiten-12-schritte) und [Hoovering vom Ex](/blog/hoovering-ex-erkennen) an — beide Artikel können helfen, mehr Klarheit zu bekommen.
+Wenn du noch mit dem Schmerz der Trennung selbst kämpfst, schau dir auch unsere Artikel zu [Hoovering vom Ex](/blog/hoovering-ex-erkennen) an — beide Artikel können helfen, mehr Klarheit zu bekommen.

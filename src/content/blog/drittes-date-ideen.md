@@ -141,7 +141,6 @@ Und ja — wenn es sich richtig anfühlt, könnte auch Küssen passieren. Oder a
 - [50 kreative Date-Ideen: So wird euer erstes Treffen von der](/blog/kreative-date-ideen-dating-app/)
 - [Die 25 besten Sommer-Date-Ideen für unvergessliche Momente](/blog/sommer-date-ideen/)
 - [20 romantische Winter-Date-Ideen](/blog/winter-date-ideen/)
-- [Das dritte Date: Warum es das wichtigste Date ist und was es](/blog/drittes-date-bedeutung-erwartungen/)
 - [10 [Red Flags](/blog/dating-red-flags-maenner-erkennen) beim ersten Date die du nicht ignorieren](/blog/dating-rote-flaggen-erstes-date/)
 ## FAQ
 
@@ -163,5 +162,4 @@ Beides. Plane die Aktivität (das zeigt Durchdenken), aber sei flexibel im Flow.
 ---
 
 **Verwandte Artikel:**
-- [Was Frauen auf Dating-Apps sofort abturnt](/blog/was-frauen-auf-dating-apps-abturnt)
 - [Nüchtern daten: Der Guide für Dating ohne Alkohol](/blog/dating-ohne-alkohol)

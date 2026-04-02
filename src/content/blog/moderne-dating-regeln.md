@@ -47,35 +47,7 @@ Traditionelle Regel: Der Mann zahlt immer.
 ### Keine Emotionen zeigen
 Alte Regel: Sei cool, emotional distanziert, lass nicht zu, dass die andere Person deinen Impact sieht.
 
-**Warum das schadet:** Emotionale Verfügbarkeit ist attraktiv. Menschen wollen wissen, dass ihre Gefühle erwidert werden. Eine gesunde [beziehung](/blog/adhs-und-beziehung-komplett-guide/) ist auf gegenseitiger emotionaler Offenheit aufgebaut.
-
-## Die neuen Dating-Regeln, die 2026 funktionieren
-
-### 1. Authentizität ist sexy
-Die neue Regel Nr. 1: Sei du selbst. Nicht die Version, die du denkst, dass die andere Person will, sondern deine echte, vollständige Persönlichkeit.
-
-Menschen werden von Authentizität angezogen. Sie wollen jemanden kennenlernen, nicht eine Performance sehen. Wenn du dich verstellen musst, um jemanden zu beeindrucken, werdet ihr nicht kompatibel sein.
-
-**Praktisch:** Teile deine echten Meinungen, Träume und sogar Unsicherheiten. Lache über deine eigenen Fehler. Das schafft tiefe Verbindungen.
-
-### 2. Klare Kommunikation ist nicht unglamourös
-Vergiss das Rätselspiel. Moderne Dating basiert auf klarer Kommunikation.
-
-- "Mir gefällt es, mit dir Zeit zu verbringen, und ich möchte gerne sehen, wohin das führt."
-- "Ich bin nicht bereit für eine Beziehung, aber ich genießse unsere Zeit zusammen."
-- "Das war für mich kein Match, aber ich schätze dich."
-
-Diese Klarheit ist nicht nur respektvoll – sie ist auch sehr attraktiv. Sie zeigt Selbstvertrauen und emotionale Reife.
-
-### 3. Einvernehmungskultur ist Standard
-Consent ist nicht nur für intime Momente wichtig – es betrifft alles: Berührungen, Fotos teilen, Treffen mit Freunden.
-
-"Darf ich dich küssen?" mag nicht romantisch klingen, aber es zeigt Respekt und macht beide Personen sicherer. Menschen, die Grenzen respektieren, sind Partner der Zukunft.
-
-### 4. Digitale Etikette zählt
-Wie wir uns online verhalten, reflektiert unsere Persönlichkeit:
-
-- **[Ghosting](/blog/ghosting-komplett-guide) vermeiden:** Wenn die Chemie nicht stimmt, teile es mit. Eine kurze, ehrliche Nachricht ist respektvoll.
+**Warum das schadet:** Emotionale Verfügbarkeit ist attraktiv. Menschen wollen wissen, dass ihre Gefühle erwidert werden. Eine gesunde [Ghosting](/blog/ghosting-komplett-guide) vermeiden:** Wenn die Chemie nicht stimmt, teile es mit. Eine kurze, ehrliche Nachricht ist respektvoll.
 - **Prompt-Antworten:** Wenn jemand dir antwortet, erwidere die Nachricht innerhalb eines Tages.
 - **Authentische Bilder:** Verwende aktuelle, ungefilter Fotos, die dich echt zeigen.
 - **Keine Belästigung:** Fortgesetzte Nachrichten nach einer Ablehnung sind nicht niedlich – sie sind beängstigend.
@@ -124,11 +96,7 @@ Mehr zum Thema erfährst du auf Bundesamt für Sicherheit in der Informationstec
 Weitere Informationen findest du bei Verbraucherzentrale: [Verbraucherzentrale](https://www.verbraucherzentrale.de/)
 - Druck, "perfekt" zu sein für die Öffentlichkeit
 
-**Die Regel für 2026:** Sei auf Social Media du selbst, aber nutze es nicht als dein einziges Dating-Tool. Das echte [Kennenlernen](/blog/dating-fragen-kennenlernen) passiert in echten Gesprächen.
-
-## Mit Situationships umgehen
-
-Eine "[Situationship](/blog/situationship-erkennen-umgehen)" ist die moderne Falle: Eine emotionale Verbindung ohne klare Definition oder Zukunft. Es ist nicht casual genug, um Spaß zu sein, aber nicht definiert genug, um eine echte Beziehung zu sein.
+**Die Regel für 2026:** Sei auf Social Media du selbst, aber nutze es nicht als dein einziges Dating-Tool. Das echte [Situationship](/blog/situationship-erkennen-umgehen)" ist die moderne Falle: Eine emotionale Verbindung ohne klare Definition oder Zukunft. Es ist nicht casual genug, um Spaß zu sein, aber nicht definiert genug, um eine echte Beziehung zu sein.
 
 **Wie man das vermeidet:**
 - Habe "das Gespräch" früh und oft
@@ -186,7 +154,7 @@ Die beste Beziehung ist die, die auf echter Verbindung, nicht auf Spielen, basie
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Das perfekte Dating-Profil: Schritt-für-Schritt zum Match-Magneten](/blog/perfektes-dating-profil), [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/beste-dating-apps-2026), [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/beste-dating-apps-2026), [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich).## Weiterlesen
 
 - [Das perfekte Dating-Profil: Schritt-für-Schritt](/blog/perfektes-dating-profil/)
 - [Diese Signale senden Frauen beim Flirten – Männer übersehen](/blog/dating-signals-frauen/)

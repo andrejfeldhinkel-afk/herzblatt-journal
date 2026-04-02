@@ -67,19 +67,7 @@ Die Checkliste ist ein Versuch, Sicherheit zu kaufen. Aber Sicherheit in einer B
 
 Vor einem Jahrhundert hast du einen Partner geheiratet, weil es keine andere Möglichkeit gab, das Leben zu umgehen mit, das du dir vorgestellt hattest – sei es aus wirtschaftlicher Notwendigkeit, sozialer Erwartung oder buchstäblich, weil es nicht viele Optionen gab.
 
-Jetzt hast du unbegrenzte Optionen. [dating](/blog/anzeichen-er-steht-auf-dich/)-Apps präsentieren dir tausende Gesichter. Du kannst Filter nach Höhe, Einkommensniveau, Bildung, Beruf, Religion und Größe des Pet-Haushalts setzen. Mit dieser neuen Befähigung kam eine neue Prämisse: Wenn du nur genug Filter setzt, könntest du die perfekte Person finden.
-
-Dies ist das Dating-App-Denken. Es hat dein Denken über Beziehungen unterwandert, selbst wenn du gar nicht auf Dating-Apps bist. Die Mentalität des unbegrenzten Auswahl bedeutet, dass du in jeder Person, die du triffst, nach Mängeln schaust. Denn wenn du diese Person aussortierst, wird die nächste besser sein. Die App sagt dir, dass es immer jemanden gibt, der näher an deiner Checkliste ist.
-
-Aber hier ist das Geheimnis, das Dating-Unternehmen nicht mögen: Wenn du dich nur suchst, wirst du dich nie zufrieden fühlen. Die perfekte Checkliste existiert nicht. Und selbst wenn sie existiert, ist die Person, die sie erfüllt, nicht die Person, mit der du eine tiefe Beziehung haben willst.
-
-### Das Illusion der Kontrolle
-
-Tiefe Angst leitet oft Checklisten an: Angst, dass du verletzt wirst. Angst, dass du nicht genug sein wirst. Angst, dass du dich in die falsche Person verliebst.
-
-Eine Checkliste fühlt sich an, als würde sie diese Ängste kontrollieren. Wenn die Person "die richtige ist", wird sie nicht gehen. Wenn die Person "erfolgreich" ist, wirst du nicht in Armut landen. Wenn die Person "klug" ist, wirst du keine langweilige Ehe haben.
-
-Das ist eine Illusion. [Liebeskummer](/blog/liebeskummer-phasen-komplett) und Enttäuschung können jeden treffen, unabhängig davon, wie sorgfältig du deine Checkliste gemacht hast.
+Jetzt hast du unbegrenzte Optionen. [Liebeskummer](/blog/liebeskummer-phasen-komplett) und Enttäuschung können jeden treffen, unabhängig davon, wie sorgfältig du deine Checkliste gemacht hast.
 
 Tatsächlich ist eine der sichersten Arten, Verletzungen in der Liebe zu vermeiden, nicht eine bessere Checkliste zu haben. Es ist, zu lernen, dich selbst zu lieben, weit genug, dass du nicht stirbst, wenn jemand geht.
 

@@ -187,4 +187,4 @@ Nutze diese Sammlung als Inspiration, aber schreib auch deine eigenen Sätze. De
 
 Und manchmal helfen diese 30+ Sprüche dabei. Manchmal sind sie der Funke, der zündet.
 
-Wenn du mehr über Fernbeziehungen erfahren möchtest, lies auch: [Fernbeziehung Tipps: So klappt es trotz Distanz](/blog/fernbeziehung-tipps-komplett) und [Gefühle zeigen lernen — auch wenn es schwerfällt](/blog/gefuehle-zeigen-lernen-mann).
+Wenn du mehr über Fernbeziehungen erfahren möchtest, lies auch: [Gefühle zeigen lernen — auch wenn es schwerfällt](/blog/gefuehle-zeigen-lernen-mann).

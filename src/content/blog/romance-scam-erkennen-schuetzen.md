@@ -1,5 +1,5 @@
 ---
-title: "Romance Scam: Liebesbetrug im Internet erkennen & vermeiden (2026)"
+title: "Romance Scam: Liebesbetrug im Internet erkennen & vermeiden"
 description: "Romance Scams erkennen: So schützt du dich vor Liebesbetrug online. Warnzeichen, Tipps und was du tun solltest, wenn du betrogen wurdest."
 date: 2026-04-01
 image: "/images/blog/romance-scam-erkennen-schuetzen.webp"

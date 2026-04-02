@@ -296,4 +296,4 @@ Sag es. Und mein es.
 
 Dein zukünftiges Selbst wird dir danken.
 
-Wenn du mehr über gesunde Beziehungen nach einer Trennung lesen möchtest, schau dir auch [wenn dein Ex sich meldet](/blog/ex-meldet-sich-wieder-reagieren) und [Trennung verarbeiten](/blog/trennung-verarbeiten-12-schritte) an.
+Wenn du mehr über gesunde Beziehungen nach einer Trennung lesen möchtest, schau dir auch [Trennung verarbeiten](/blog/trennung-verarbeiten-12-schritte) an.

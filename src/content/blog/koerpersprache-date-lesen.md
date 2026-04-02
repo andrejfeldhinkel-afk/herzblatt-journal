@@ -282,6 +282,5 @@ Gib nicht auf. Glaube an dich selbst. Und vertraue, dass die beste Version deine
 ## Das könnte dich auch interessieren
 
 - [Körpersprache beim Dating richtig deuten](/blog/dating-koerpersprache-richtig-deuten/)
-- [Kuss beim ersten Date: So erkennst du die richtigen Signale](/blog/kuss-beim-ersten-date/)
 - [10 [Red Flags](/blog/dating-red-flags-maenner-erkennen) beim ersten Date die du nicht ignorieren solltest](/blog/dating-rote-flaggen-erstes-date/)
 - [Körpersprache beim Dating](/blog/koerpersprache-deuten/)

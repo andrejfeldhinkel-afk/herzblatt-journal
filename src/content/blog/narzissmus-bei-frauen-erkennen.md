@@ -1,5 +1,5 @@
 ---
-title: "Narzissmus bei Frauen: 10 Anzeichen die du kennen musst (2026)"
+title: "Narzissmus bei Frauen: 10 Anzeichen die du kennen musst"
 description: "Narzisstische Frauen sind nicht immer offensichtlich. Erkenne die 10 Anzeichen von Narzissmus bei Frauen und schütze dich vor emotionalen Manipulationen."
 date: 2026-04-01
 image: "/images/blog/narzissmus-bei-frauen-erkennen.webp"
@@ -160,9 +160,7 @@ Wenn du eine narzisstische Frau in deinem Leben erkannt hast:
 
 **Professionelle Hilfe** — Ein Therapeut kann dir helfen, zu verstehen, warum du lange in diesem Muster geblieben bist. Das ist wichtig, weil Menschen, die mit Narzissten zusammenleben, oft unbewusst zu ihnen gezogen werden.
 
-Wie ich in meinem Artikel über [Gaslighting-Taktiken](/blog/gaslighting-komplett-guide) geschrieben habe, ist der erste Schritt zur Heilung, die Manipulation zu erkennen.
-
-Wenn du merkst, dass diese Frau auch andere manipuliert (z.B. um dich zu isolieren), lies auch über [Flying Monkeys](/blog/flying-monkeys-narzissmus). Das ist ein übliches Muster bei narzisstischen Frauen.
+Wie ich in meinem Artikel über [Flying Monkeys](/blog/flying-monkeys-narzissmus). Das ist ein übliches Muster bei narzisstischen Frauen.
 
 ## Die wichtigste Erkenntnis
 

@@ -329,6 +329,5 @@ Echte Kommunikation ändert alles. Sie heilt. Sie verbindet. Sie schafft echte L
 
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 - [Gewaltfreie Kommunikation in der Partnerschaft](/blog/gewaltfreie-kommunikation-beziehung/)
-- [Offene Beziehung: Regeln und Ehrlichkeit](/blog/offene-beziehung-regeln/)
 - [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)
 - [Aktives Zuhören üben: Besser verstehen in 7 Schritten](/blog/aktives-zuhoeren-beziehung-ueben/)

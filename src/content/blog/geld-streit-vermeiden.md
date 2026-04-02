@@ -217,6 +217,5 @@ Das zu erkennen ist auch eine Form von Liebe — die Liebe zu dir selbst.
 
 ## Weiterlesen
 
-- [Geldstreit in der Beziehung vermeiden](/blog/beziehung-streit-ueber-geld)
 - [Geld in der Beziehung 2026: Der Finanz-Guide für Paare](/blog/beziehung-geld-gespraeche-guide)
 - [Fair streiten: 10 Regeln für gesunde Konflikte](/blog/beziehung-streit-guide)

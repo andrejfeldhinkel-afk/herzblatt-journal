@@ -168,9 +168,7 @@ Wenn du nach einer Beziehung mit einem Narzissten versucht zu heilen, ist Kontak
 
 Jeder Kontakt — jedes Mal, wenn du antwortest, jedes Mal, wenn du ihn siehst, jedes Mal, wenn du ein Gerücht über ihn höfst — wirft dich zurück in das Trauma.
 
-Lies meinen Artikel über [No Contact durchhalten](/blog/no-contact-narzisst-durchhalten) für langfristige Strategien.
-
-Und wenn du merkst, dass der Narzisst dir auch durch andere Menschen Schaden zufügt, lies über [Flying Monkeys](/blog/flying-monkeys-narzissmus).
+Lies meinen Artikel über [Flying Monkeys](/blog/flying-monkeys-narzissmus).
 
 Der Weg der Heilung ist schwer. Aber Hoovering macht ihn noch schwerer.
 

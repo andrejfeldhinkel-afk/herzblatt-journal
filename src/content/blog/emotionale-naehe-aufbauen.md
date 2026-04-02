@@ -23,21 +23,7 @@ faq:
 ---
 ## Verliebtheit reicht nicht
 
-Am Anfang einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/) entsteht Nähe fast von allein. Die Hormone erledigen den Rest. Ihr liegt nebeneinander, und es fühlt sich wie Telepathie an. Aber nach ein paar Monaten – wenn die Schmetterlinge sich beruhigen – braucht emotionale Nähe aktive Pflege. Und genau hier scheitern viele Beziehungen, ohne dass die Beteiligten verstehen, warum.
-
-Der biologische Cocktail der frühen Liebe ist temporär. Die Hormone, die dich denken lassen "Diese Person ist perfekt!" normalisierten sich nach etwa sechs bis neun Monaten. Danach liegt es an dir, die Nähe bewusst zu schaffen und zu erhalten.
-
-Emotionale Nähe bedeutet: Du fühlst dich sicher genug, um dich verletzlich zu zeigen. Du kannst über Ängste reden, ohne ausgelacht zu werden. Du teilst nicht nur deinen Alltag, sondern auch dein Innenleben. Die Hoffnungen, die Ängste, die seltsamen Gedanken, die dich um 3 Uhr morgens wach halten.
-
-## Was emotionale Nähe wirklich ist
-
-Es geht nicht darum, 24/7 über Gefühle zu reden. Emotionale Nähe zeigt sich in kleinen Momenten. Wenn du merkst, dass dein Partner einen schlechten Tag hatte, und einfach fragst: "Was brauchst du gerade?" Wenn ihr über etwas lacht, das nur ihr beide versteht. Wenn Stille sich nicht unangenehm anfühlt, sondern vertraut. Wenn du deinem Partner etwas Dummes erzählst und statt Kritik nur Mitgefühl bekommst.
-
-Diese Momente passieren nicht zufällig. Sie entstehen, wenn beide bereit sind, sich zu öffnen und aufeinander einzugehen. Und sie entstehen durch Konsistenz. Der andere muss wissen: "Wenn ich mich öffne, wird diese Person für mich da sein. Nicht manchmal, sondern zuverlässig."
-
-## Verletzlichkeit als Stärke
-
-Viele – besonders Männer – haben gelernt, Gefühle runterzuschlucken. Stark sein, keine Schwäche zeigen. "Echte Männer" weinen nicht, "echte Frauen" sind nicht zu viel. In einer Beziehung ist das Gift. Denn wenn einer sich immer hinter einer Mauer versteckt, kommt der andere nicht ran. Und ohne echte Nähe [verliebt](/blog/mann-verliebt-anzeichen-komplett) sich die andere Person langsam aus der Beziehung heraus.
+Am Anfang einer [verliebt](/blog/mann-verliebt-anzeichen-komplett) sich die andere Person langsam aus der Beziehung heraus.
 
 Verletzlichkeit heißt nicht, ständig zu weinen oder jede Unsicherheit breit zu treten. Es heißt: Ehrlich sagen, was dich bewegt. "Ich hab Angst, dich zu verlieren" braucht mehr Mut als "Mir ist alles egal." Und diese Ehrlichkeit schafft Verbindung. Wenn dein Partner deine Angst hört und sagt "Ich bin noch hier" – das ist echte Nähe.
 

@@ -137,9 +137,9 @@ Diese schriftliche Form verleiht mehr Gewicht. Es zeigt, dass du genug Zeit hatt
 
 ## Weitere Ressourcen
 
-Wenn du mehr über effektive Kommunikation in Beziehungen erfahren möchtest, schau dir [unseren Guide zum Schlussmachen](/blog/schlussmachen-richtig-beenden.md) an. Ein wichtiger Aspekt ist, dass man auch wissen sollte, wie man respektvolle, schwierige Unterhaltungen führt.
+Wenn du mehr über effektive Kommunikation in Beziehungen erfahren möchtest, schau dir [unseren Guide zum Schlussmachen](/blog/schlussmachen-richtig-beenden) an. Ein wichtiger Aspekt ist, dass man auch wissen sollte, wie man respektvolle, schwierige Unterhaltungen führt.
 
-Du könntest auch interessiert sein an unserem Artikel über [sichere Date-Outfits](/blog/date-outfit-tipps-frauen-maenner.md), um mit Vertrauen dein bestes Selbst zu zeigen.
+Du könntest auch interessiert sein an unserem Artikel über [sichere Date-Outfits](/blog/date-outfit-tipps-frauen-maenner), um mit Vertrauen dein bestes Selbst zu zeigen.
 
 ## Fazit: Die Kraft des aufrichtigen Kompliments
 

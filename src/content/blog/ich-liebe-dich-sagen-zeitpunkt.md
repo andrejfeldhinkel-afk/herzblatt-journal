@@ -1,5 +1,5 @@
 ---
-title: "Ich liebe dich sagen: Wann ist der richtige Zeitpunkt? (2026)"
+title: "Ich liebe dich sagen: Wann ist der richtige Zeitpunkt?"
 description: "Wann sollst du 'Ich liebe dich' zum ersten Mal sagen? Worauf deuten Zeichen hin und wie du es richtig machst – ehrlich und ohne Druck."
 date: 2026-04-01
 image: "/images/blog/ich-liebe-dich-sagen-zeitpunkt.webp"

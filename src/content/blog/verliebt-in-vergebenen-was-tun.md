@@ -235,4 +235,4 @@ Und eines Tages wirst du jemanden treffen, der verfügbar ist. Und die Liebe wir
 
 Halte durch.
 
-Wenn du tiefere Hilfe brauchst mit Beziehungsfragen, schau dir auch unsere Guides zu [Trennung verarbeiten](/blog/trennung-verarbeiten-12-schritte) und [wenn der Ex sich meldet](/blog/ex-meldet-sich-wieder-reagieren) an. Manchmal ist die Situation ähnlich — du brauchst einen Weg, um loszulassen.
+Wenn du tiefere Hilfe brauchst mit Beziehungsfragen, schau dir auch unsere Guides zu [wenn der Ex sich meldet](/blog/ex-meldet-sich-wieder-reagieren) an. Manchmal ist die Situation ähnlich — du brauchst einen Weg, um loszulassen.

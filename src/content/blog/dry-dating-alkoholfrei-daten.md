@@ -170,7 +170,6 @@ Wenn du das Unbehagen überwinden kannst, nüchtern, du entwickelst echte Verbin
 
 ## Weiterlesen
 
-- [Dry Dating: Warum nüchterne Dates die bessere Verbindung](/blog/dry-dating-trend)
 - [Slow Dating: Bewusst und achtsam Liebe finden](/blog/slow-dating-trend-bewusst-daten)
 - [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
 

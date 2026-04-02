@@ -161,11 +161,6 @@ Welches möchtest du?
 
 ---
 
-Hard to get ist tot. Authentisches Interesse ist das neue Spiel. Und ja, es gewinnt. [Jetzt dein Match finden](https://www.[dating](/blog/dating-dresden)-tracker.com/cmp/CLQ868/78NZBG/?source_id=dating-desinteresse-zeigen&sub1=blog-cta) und sei einfach du selbst.
-
-## Weiterlesen
-
-- [Die Art, wie du liebst: Erkenne dein Liebes-Muster](/blog/dating-die-art-zu-lieben)
-- [Dating mit Haustieren: Wie Hund & Katze dein Liebesleben](/blog/dating-mit-haustieren)
+Hard to get ist tot. Authentisches Interesse ist das neue Spiel. Und ja, es gewinnt. [Jetzt dein Match finden](https://www.[Die Art, wie du liebst: Erkenne dein Liebes-Muster](/blog/dating-die-art-zu-lieben)
 - [Dating ab 50 : Neustart in der Liebe — Tipps für Frauen](/blog/dating-nach-50)
 

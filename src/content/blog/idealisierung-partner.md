@@ -16,59 +16,9 @@ keywords: ["partner idealisieren", "idealisierung beziehung", "partner auf podes
 
 Dein Partner ist perfekt. Er ist intelligent, lustig, liebevoll und genau das, was du dir immer gewünscht hast. Die einzige Anleitung ist: Er existiert nicht. Die Person, die du liebst, ist eine Mischung aus dem echten Menschen und einer Fantasie, die dein Gehirn erschaffen hat.
 
-Das ist Idealisierung. Es ist eines der gefährlichsten Dinge, die in einer frühen [beziehung](/blog/adhs-und-beziehung-komplett-guide/) passieren können. Es fühlt sich wie Liebe an. Es sieht aus wie Liebe. Aber es ist ein konstruiertes Gebäude aus Hoffnung, Wunsch und Verleugnung — und es wird irgendwann zusammenbrechen.
+Das ist Idealisierung. Es ist eines der gefährlichsten Dinge, die in einer frühen [Bindungsangst](/blog/bindungsangst-komplett-guide).** Wenn du Angst vor Ablehnung hast, könnte dein Gehirn die andere Person idealisieren, damit du nicht SIEHST, dass sie einen Grund haben könnte, dich zu verlassen. Wenn die Person perfekt ist, können sie mich nicht verlassen.
 
-## Was ist Idealisierung wirklich?
-
-Idealisierung ist der Prozess, bei dem du eine Person siehst, aber nur das siehst, was du sehen möchtest. Ihre Schwächen sind unsichtbar oder werden als "liebevoll" reinterpretiert. Ihre Fehler sind Zeichen ihrer Tiefe. Ihre Merkwürdigkeiten sind charmant.
-
-Das ist nicht Liebe. Das ist Projektion.
-
-Mit Liebe siehst du die ganze Person: ihre Stärken UND ihre Schwächen, ihre Stärken UND ihre nervigen Angewohnheiten. Du kennst ihre Flaws und wählst sie trotzdem. Das ist Liebe.
-
-Mit Idealisierung siehst du nur eine Version. Die gute Version. Die Version, die in deiner Fantasie existiert. Wenn die echte Person aus dieser Fantasie hervortritt — und sie wird — wird das verletzend und verwirrend sein.
-
-## Warum idealisieren wir Partner?
-
-Das Gehirn liebt Muster. Es liebt Ordnung. Wenn das Gehirn eine Person trifft, die interessant zu sein scheint, füllt es die Lücken aus. Es verwendet die Informationen, die es hat, und konstruiert eine ganze Person aus einem Fragment.
-
-Es gibt mehrere Gründe, warum wir das tun:
-
-**Projektion eigener Wünsche.** Vielleicht hast du immer jemanden gewollt, der emotionale verfügbar ist. Dein neuer Partner ist emotional verfügbar (bisher). Dein Gehirn sagt: "Wir haben einen Gewinner!" Aber es ignoriert die Zeichen, dass diese Person nur am Anfang verfügbar ist, und sich wahrscheinlich am Ende der Beziehung wieder zurückzieht.
-
-**Angst vor Enttäuschung.** Wenn du ein Trauma von Ablehnung oder Enttäuschung hast, lässt du dein Gehirn vielleicht nur die positiven Informationen sehen. Die negativen Informationen sind zu gefährlich. Sie könnten bedeuten, dass diese Person nicht für dich ist. Also dein Gehirn blockt sie aus.
-
-**Verliebte Neurochemie.** In den ersten 6-12 Monaten einer Beziehung ist dein Gehirn buchstäblich überflutet mit Neurochemikalien: Dopamin, Oxytocin, Noradrenalin. Diese Chemikalien machen die Person aussehen, als würde sie leuchten. Die Fehler verschwinden buchstäblich.
-
-**[Bindungsangst](/blog/bindungsangst-komplett-guide).** Wenn du Angst vor Ablehnung hast, könnte dein Gehirn die andere Person idealisieren, damit du nicht SIEHST, dass sie einen Grund haben könnte, dich zu verlassen. Wenn die Person perfekt ist, können sie mich nicht verlassen.
-
-**Mangelnde [selbstliebe](/blog/allein-vs-einsam/).** Wenn du nicht viel von dir selbst denkst, können Menschen, die dich "mögen" oder zu mögen scheinen, wie himmlische Wesen wirken. Du bist so überrascht, dass sie dich überhaup mögen, dass du sie auf ein Podest stellst.
-
-Die tiefere Wahrheit: Idealisierung ist oft ein Zeichen für ein Selbstwertproblem. Menschen mit starkem Selbstwertgefühl idealisieren nicht, weil sie wissen, dass sie selbst einen Wert haben. Sie können eine andere Person sehen — ganz — und immer noch wissen, dass sie "genug" sind.
-
-## Die Stadien der Idealisierung
-
-Es gibt normalerweise ein vorhersehbares Muster:
-
-**Phase 1: Honeymoon Phase (Wochen 1-4)** — Alles ist perfekt. Die andere Person scheint dich wirklich zu verstehen. Sie haben die gleiche Sinne für Humor. Sie machen dich lachen. Sie sind präsent. Diese Phase ist wunderschön, aber auch gefährlich, weil dein Gehirn dabei ist, die Person zu idealisieren.
-
-**Phase 2: Erste Risse zeigen sich (Woche 4-8)** — Die andere Person sagt oder tut etwas, das mit deiner Idealisierung nicht übereinstimmt. Vielleicht sind sie manchmal distanziert. Vielleicht haben sie eine Angewohnheit, die dich nervt. Vielleicht sind sie nicht immer verfügbar.
-
-Hier hast du zwei Optionen:
-- Optionen A: Die Realität akzeptieren. "Okay, diese Person ist real und hat Fehler. Ich kann mit der echten Person zusammen sein oder nicht."
-- Optionen B: Die Idealisierung verdoppeln. "Das ist einfach ein vorübergehender Stress. Wenn ich sie nur genug liebe, werden sie zurück zu der perfekten Person, die sie am Anfang waren."
-
-Die meisten Menschen wählen Optionen B.
-
-**Phase 3: Verleugnung verstärkt sich (Monat 2-4)** — Die Fehler werden deutlicher, aber du erklärst sie weg. "Er ist einfach müde", "Sie hat nur einen schlechten Tag", "Das ist nicht wirklich wer sie ist". Du verwendest mentale Gymnasien, um die echte Person zu ignorieren.
-
-**Phase 4: Desillusionierung (Monat 4-6+)** — Die echte Person ist einfach zu evident zu ignorieren. Die Fehler sind zu großartig. Die Gewohnheiten sind zu irritierend. Die emotionale Distanz ist zu groß. Dein Gehirn kann nicht länger ignorieren, dass diese Person nicht die Person ist, die du idealisiert hast.
-
-Das ist der Crash. Und es schmerzt wie die Hölle.
-
-## Der Fall: Was passiert, wenn die Idealisierung zusammenbricht
-
-Bis zu diesem Punkt warst du [verliebt](/blog/mann-verliebt-anzeichen-komplett) in eine Fantasie. Die echte Person hat immer da gestanden, aber du hast sie nicht wirklich gesehen. Jetzt siehst du sie.
+**Mangelnde [verliebt](/blog/mann-verliebt-anzeichen-komplett) in eine Fantasie. Die echte Person hat immer da gestanden, aber du hast sie nicht wirklich gesehen. Jetzt siehst du sie.
 
 Der Fall kann auf verschiedene Arten passieren:
 
@@ -154,28 +104,5 @@ Das ist echter.
 - [Kontrollierender Partner: 20 Warnsignale und wie du dich](/blog/kontrollierender-partner-erkennen/)
 - [Wenn dein Partner keine eigenen Freunde hat](/blog/partner-hat-keine-freunde/)
 - [Partner will keine Kinder — und jetzt?](/blog/partner-will-keine-kinder/)
-- [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
-## FAQ
-
-**Warum idealisiere ich meinen Partner?**
-Oft aus Angst vor Enttäuschung oder weil du in die Liebe mit einer Fantasie verliebt bist, nicht mit der realen Person.
-
-**Wie höre ich auf meinen Partner zu idealisieren?**
-Indem du bewusst auch seine Schwächen wahrnimmst und akzeptierst. Echte Liebe ist: Den anderen sehen wie er ist — und ihn trotzdem wollen.
-
-**Ist Idealisierung am Anfang einer Beziehung normal?**
-Ja, in der Verliebtheitsphase ist leichte Idealisierung normal. Problematisch wird es, wenn sie nach Monaten nicht nachlässt.
-
-**Kann eine Beziehung überleben, wenn man die Idealisierung loslässt?**
-Ja, oft wird die Beziehung stärker. Wenn die Idealisierung zusammenbricht und du die echte Person nicht magst, ist das wichtige Information.
-
-**Was ist der Unterschied zwischen Idealisierung und Verliebtsein?**
-Verliebtsein ist ein chemischer Zustand, der natürlich verblasst. Idealisierung ist das Ignorieren von Realität. Echte Liebe beginnt dort, wo die Verliebheit endet.
-
----
-
-## Lesenswerte Links
-
 - [Beziehungssucht erkennen und heilen](/blog/beziehungssucht-erkennen)
-- [Toxische Scham in Beziehungen](/blog/toxische-scham-beziehung)
 - [Loslassen lernen: Der Weg zur emotionalen Freiheit](/blog/loslassen-lernen-liebe)

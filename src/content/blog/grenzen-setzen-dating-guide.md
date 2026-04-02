@@ -1,5 +1,5 @@
 ---
-title: "Grenzen setzen beim Dating: So schützt du dich von Anfang an (2026)"
+title: "Grenzen setzen beim Dating: So schützt du dich von Anfang an"
 description: "Lerne, wie du beim Dating Grenzen setzt: Deine Bedürfnisse kommunizieren, Manipulation erkennen & gesunde Beziehungen aufbauen"
 date: 2026-04-01
 image: "/images/blog/grenzen-setzen-dating-guide.webp"
@@ -163,4 +163,4 @@ Vertrau deinem Bauch. Schütze dich selbst. Das ist Liebe zu dir selbst.
 
 ---
 
-**Möchtest du mehr über [Online Dating für Frauen](/blog/online-dating-tipps-frauen) oder [Fearful Avoidant Bindungsstil](/blog/fearful-avoidant-attachment-guide) erfahren?**
+**Möchtest du mehr über [Fearful Avoidant Bindungsstil](/blog/fearful-avoidant-attachment-guide) erfahren?**

@@ -32,23 +32,7 @@ Aber es ist nicht unmöglich. Es ist schwierig. Es erfordert Geduld, Selbstbewus
 
 Dieser Artikel führt dich durch den Heilungsprozess und gibt dir konkrete Strategien, wie du datierst, ohne dich wieder zu verletzen.
 
-## Was eine [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) dir angetan hat: Das Trauma verstehen
-
-Bevor du wieder datierst, musst du verstehen, was eine toxische Beziehung dir wirklich angetan hat. Nicht nur emotional, sondern auch neurobiologisch.
-
-### Die Neurowissenschaft des Traumas
-
-Eine toxische Beziehung ist ein Trauma. Nicht im Sinne eines Schocktraumas wie ein Unfall, aber ein emotionales, wiederholendes Trauma, das deinen Gehirn buchstäblich verändert.
-
-Dein Gehirn wurde trainiert, ständig auf Bedrohung zu achten. War mein Partner heute wütend? War er kalt? Wird er mich kritisieren? Dein Nervensystem war in einem ständigen Zustand von Hypervigilanz. Das ist Stress. Und chronischer Stress verändert die Struktur des Gehirns.
-
-Dein Amygdala (der Angst-Bereich) wurde überaktiviert. Dein Frontallappus (der rationale Bereich) wurde unteraktiviert. Du reagierst mehr auf Gefühle statt Logik. Du reagierst schneller auf Bedrohung – auch wenn die Bedrohung nicht da ist.
-
-Das ist, warum du jetzt, auch wenn du einen netten Partner hast, immer noch defensiv bist. Dein Gehirn wurde trainiert, Bedrohung zu sehen. Auch wenn die Realität anders ist.
-
-### Bindungstrauma
-
-Wenn eine toxische Beziehung deine romantische Beziehung war, hat das auch dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) verändert. Du könntest jetzt "anxiously attached" sein, konstant in Angst, dass diese Person dich auch verlässt oder dich verletzt.
+## Was eine [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) verändert. Du könntest jetzt "anxiously attached" sein, konstant in Angst, dass diese Person dich auch verlässt oder dich verletzt.
 
 Oder du könntest "avoidant attached" sein, deine Wände so hoch gebaut haben, dass es schwierig ist, jemandem zu vertrauen.
 
@@ -136,21 +120,7 @@ Es gibt verschiedene Wege, Wut zu verarbeiten:
 
 Mit Zeit wird die Wut zu Mitgefühl oder zumindest zu Gleichgültigkeit. Du wirst aufhören, ihn zu hassen und beginnen, ihn zu bedauern.
 
-## Warnsignale erkennen: [Red Flags](/blog/dating-red-flags-maenner-erkennen) Learning
-
-Eine der wichtigsten Lektionen aus einer toxischen Beziehung ist, rote Fahnen früher zu erkennen. Du wirst Fehler machen und Menschen mit schlechten Zeichen datieren. Aber wenn du weißt, worauf du achten musst, kann du früher gehen.
-
-### Die Warnsignale, die du früh erkennen solltest
-
-**Zu schnell zu intensiv**: Er drückt dich dazu, schnell vorwärts zu gehen. Nach einer Woche spricht er von Zukunft zusammen. Er sagt, dass du seine Seelenverwandte bist. Das ist nicht Liebe auf den ersten Blick. Das ist Liebe-Bombing – eine Manipulationstaktik.
-
-**Deine Grenzen werden nicht respektiert**: Du sagst nein zu etwas und er argumentiert, versucht, dich zu überzeugen oder wird wütend. Ein Mann, der respektiert, akzeptiert dein Nein beim ersten Mal.
-
-**Er kritisiert deine Freunde oder Familie**: Das ist eine klassische isolationsschrift. Wenn er sagt, dass deine Freunde schlecht sind oder dass deine Familie toxisch ist, versucht er, dich von deinem Support-Netzwerk zu trennen.
-
-**Er zeigt wenig Empathie**: Wenn du dich schlecht fühlst und er nicht interessiert ist, das ist nicht gut. Ein liebevoller Partner möchte wissen, dass du okay bist.
-
-**Er macht dich für sein Verhalten verantwortlich**: Wenn du wütend wirst und er sagt "Du machst mich so wütend", das ist [Gaslighting](/blog/gaslighting-komplett-guide). Er ist für seine Gefühle und Handlungen verantwortlich.
+## Warnsignale erkennen: [Gaslighting](/blog/gaslighting-komplett-guide). Er ist für seine Gefühle und Handlungen verantwortlich.
 
 **Er manipuliert deine Emotionen**: Er sagt Dinge, um dich eifersüchtig oder unsicher zu machen. Oder er verbietet dir Dinge, um zu kontrollieren.
 

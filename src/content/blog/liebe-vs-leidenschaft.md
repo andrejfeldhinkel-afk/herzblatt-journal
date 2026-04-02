@@ -63,33 +63,7 @@ Dies ist, wo viele Paare anfangen zu glauben, dass sie "auseinandergelebt" haben
 
 Und für viele Menschen ist das enttäuschend. Sie denken, dass Liebe für immer so sein sollte — intensiv, passioniert, all-consuming. Wenn es nicht ist, denken sie, dass etwas schief gelaufen ist.
 
-Aber das ist nicht, wie es funktioniert. Leidenschaft ist ein Starter-Motor. Es ist nicht das Getriebe, das die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) am Laufen hält.
-
-Das Getriebe ist Intimität und Engagement.
-
-## Das "Honeymoon Phase" Phänomen: Warum es nicht wirklich ist
-
-Alle sprechen von der "Honeymoon Phase" — jenen ersten ein oder zwei Jahren, wo alles aufregend ist und du glaubst, dass diese Person perfekt ist.
-
-Dann verblasst es.
-
-Aber hier ist die Wahrheit: Diese Phase ist nicht real. Oder besser gesagt, es ist real, aber es ist eine Illusion.
-
-Was passiert ist: Dein Gehirn wird überschwemmt mit Dopamin. Dein Gehirn unterdrückt Dinge, die nicht "passen" zu diesem Narrative von "diese Person ist perfekt".
-
-Das ist nicht Liebe. Das ist neuochemische Trunkenheit.
-
-Wenn du in dieser Phase mit jemandem bist, siehst du nicht die echte Person. Du siehst deine Fantasie von dieser Person.
-
-Das ist nicht etwas, das du als "echte Liebe" verwenden solltest. Es ist etwas, das du als "vorübergehende chemische Phase" verwendest.
-
-Echte Liebe kommt danach — wenn die Chemie nachlässt, und du die Person siehst, so wie sie wirklich ist.
-
-## Verliebtheit vs. tiefe Liebe: Was ist der Unterschied wirklich?
-
-Lass mich das klarer machen, weil es zentral ist.
-
-Wenn du in jemandem [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist — in der Verliebtheit-Phase — weißt du nicht, wer diese Person wirklich ist. Du kennst deine Fantasie von dieser Person.
+Aber das ist nicht, wie es funktioniert. Leidenschaft ist ein Starter-Motor. Es ist nicht das Getriebe, das die [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist — in der Verliebtheit-Phase — weißt du nicht, wer diese Person wirklich ist. Du kennst deine Fantasie von dieser Person.
 
 Du hast Schmetterlinge im Bauch. Du denkst an ihn oder sie ständig. Du willst zehn Stunden mit ihr verbringen. Ihr küsst euch in der Öffentlichkeit. Sex ist wild und spontan. Alles ist neu und aufregend.
 

@@ -1,5 +1,5 @@
 ---
-title: "Komplimente für Männer: 50 Beispiele, die wirklich ankommen (2026)"
+title: "Komplimente für Männer: 50 Beispiele, die wirklich ankommen"
 description: "Die besten Komplimente für Männer — von süß über tiefgründig bis flirty. 50 Beispiele mit Psychologie-Erklärung, warum Männer sie so selten hören."
 date: 2026-03-16
 tags:

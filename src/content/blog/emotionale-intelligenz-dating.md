@@ -187,7 +187,7 @@ Emotionale Intelligenz ist nicht angeboren — sie ist eine Fähigkeit, die du e
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Introvertiert liebt Extrovertiert: Gegensätze in der [beziehung](/blog/adhs-und-beziehung-komplett-guide/)](/blog/dating-introvertiert-extrovertiert), [Freundschaft Plus: Regeln, Risiken & wann es funktioniert](/blog/freundschaft-plus-regeln), [Wenn aus Freundschaft Liebe wird: Zeichen, Chancen und Risiken](/blog/freundschaft-wird-liebe).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Freundschaft Plus: Regeln, Risiken & wann es funktioniert](/blog/freundschaft-plus-regeln), [Wenn aus Freundschaft Liebe wird: Zeichen, Chancen und Risiken](/blog/freundschaft-wird-liebe).## Weiterlesen
 
 - [Emotionale Manipulation beim Dating erkennen](/blog/emotionale-manipulation-dating/)
 - [Emotionale Verfügbarkeit beim Dating](/blog/emotionale-verfuegbarkeit-dating/)

@@ -1,5 +1,5 @@
 ---
-title: "Dating als alleinerziehender Vater: Guide für den Neustart (2026)"
+title: "Dating als alleinerziehender Vater: Guide für den Neustart"
 description: "Dating als Single Dad: Von der Kinderbetreuung über Timing bis Ehrlichkeit. Wie du Liebe findest, ohne dein Kind zu vernachlässigen."
 date: 2026-04-01
 image: "/images/blog/dating-als-alleinerziehender-vater.webp"
@@ -160,6 +160,5 @@ Das ist ein Geschenk, auch wenn es sich nicht so anfühlt.
 ## Interne Links zu verwandten Inhalten
 
 Wenn du als alleinerziehender Vater daten möchtest, könnten auch diese Artikel helfen:
-- [Beziehung nach Trennung: Wie du gesünder liebt](/blog/beziehung-nach-trennung-neustart)
-- [Co-Parenting: Wie du mit deinem Ex harmonisch zusammenarbeitest](/blog/co-parenting-tipps)
+- [Co-Parenting: Wie du mit deinem Ex harmonisch zusammenarbeitest](/blog/co-parenting-dating)
 - [Kommunikation in Beziehungen: Wie du ehrlich sprichst](/blog/kommunikation-beziehung)

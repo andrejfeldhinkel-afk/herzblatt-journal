@@ -1,5 +1,5 @@
 ---
-title: "Verstrickung in Beziehungen: Wo endest du und dein Partner anfängt"
+title: "Verstrickung in Beziehungen"
 description: "Verstrickung in Beziehungen: Lerne die Zeichen von Enmeshment und wie du gesunde Grenzen aufbaust. Praktische Tipps für Unabhängigkeit in der Liebe."
 date: 2026-03-29
 tags:
@@ -179,4 +179,4 @@ Das ist gesunde Liebe.
 
 ---
 
-**Weitere Artikel zum Thema:** [Gesunde Grenzen setzen](/blog/gesunde-grenzen), [Unabhängigkeit in der Beziehung](/blog/unabhängigkeit)
+**Weitere Artikel zum Thema:** [Gesunde Grenzen setzen](/blog/gesunde-grenzen-setzen-beziehung), [Unabhängigkeit in der Beziehung](/blog/emotionale-abhaengigkeit)

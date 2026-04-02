@@ -56,7 +56,7 @@ Merke Details. „Ich hörte dich sagtest du liebst Rosen im Garten" – bringe 
 
 **DO Nummer 3: Dein Partner muss der Vermittler sein**
 
-Das ist unglaublich wichtig. Die Dynamik sollte nicht sein: Du vs. Schwiegereltern. Das ist Krieg. Die [richtige](/blog/[zusammenziehen](/blog/zusammenziehen-checkliste)-tipps) Dynamik ist: Dein Partner mit seinen Eltern.
+Das ist unglaublich wichtig. Die Dynamik sollte nicht sein: Du vs. Schwiegereltern. Das ist Krieg. Die [zusammenziehen](/blog/zusammenziehen-checkliste)-tipps) Dynamik ist: Dein Partner mit seinen Eltern.
 
 Wenn dein Partner's Mutter kritisch wird, sollte dein Partner sagen: „Mom, das ist nicht ok. Sie ist wichtig für mich, und ich brauche deine Unterstützung hier." Nicht du. Nicht „Stop attacking me." Sondern dein Partner, setzing die Grenze.
 
@@ -196,7 +196,6 @@ Nein. Das ist nicht realistisch. Das ist wie verheiratet mit seiner Familie ohne
 
 ## Weiterlesen
 
-- [Beziehung nach dem Baby : Survival Guide für frische Eltern](/blog/beziehung-nach-baby-guide)
 - [Nähe und Distanz: Die Balance in glücklichen Paaren](/blog/beziehung-nahe-distanz-balance)
 - [Dein Streitmuster erkennen und durchbrechen](/blog/beziehung-streitmuster-erkennen)
 

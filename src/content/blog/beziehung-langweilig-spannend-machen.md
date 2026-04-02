@@ -1,5 +1,5 @@
 ---
-title: "Beziehung wieder spannend machen – So bringst du die Magie zurück"
+title: "Beziehung wieder spannend machen"
 description: "Die Routine hat deine Beziehung verdorben. Hier ist, wie du und dein Partner die Spannung und Leidenschaft wieder zurück bringst."
 keywords: ["beziehung wieder spannend machen", "beziehung", "intimität", "date ideen", "selbstliebe", "kommunikation"]
 date: 2025-08-27

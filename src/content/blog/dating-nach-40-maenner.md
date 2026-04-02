@@ -72,7 +72,7 @@ Mehr zum Thema erfährst du auf Bundesamt für Sicherheit in der Informationstec
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/aktives-zuhoeren-beziehung-ueben/) zu [Online-Dating für Senioren: Tech & Tipps für 65+](/blog/online-dating-fuer-senioren), [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/beste-dating-apps-2026), [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Online-Dating für Senioren: Tech & Tipps für 65+](/blog/online-dating-fuer-senioren), [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich).## Weiterlesen
 
 - [Online-Dating für Senioren: Tech & Tipps für 65+](/blog/online-dating-fuer-senioren/)
 - [Dating über 40: Dein ehrlicher Neustart in der Liebe](/blog/dating-ueber-40/)

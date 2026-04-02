@@ -86,58 +86,11 @@ Es ist großartig, wenn es Anziehung gibt, aber sich sofort zu sexuell oder roma
 
 ### Das richtige Balance
 
-Sei ein bisschen flirty, aber vor allem authentisch und respektvoll. Leichte, subtile [Komplimente](/blog/komplimente-fuer-maenner) sind gut. Direktes sexuelles Material ist nicht der Weg.
-
-## Fehler Nummer 7: Unterschiedliche Energieniveaus nicht erkennen
-
-Manchmal chatten Sie mit jemandem, der kurz antwortet oder lange zwischen Antworten vergeht. Das könnte bedeuten, dass er oder sie nicht so sehr an dir interessiert ist, oder einfach nicht so sehr ein Texter ist.
-
-### Was zu tun ist
-
-Entsprechen Sie ihrer Energie. Wenn sie kurzfristig sind, seien Sie auch kurz. Sie müssen nicht versuchen, sie zum Chatten zu zwingen, wenn das nicht ihr Ding ist. Schlagen Sie früher ein Date vor – manchmal sprechen Menschen lieber persönlich.
-
-## Fehler Nummer 8: Das zweite Debakel der erste Nachricht (nach "Nein")
-
-Wenn sie nicht antworten oder sagen, dass sie nicht interessiert sind, schreiben Sie nicht bitte "Warum nicht?" oder "Ich dachte, wir würden eine Verbindung haben." Das ist unhöflich und verzweifelt.
-
-### Wie man es bearbeitet
-
-Wenn sie nicht antworten, akzeptieren Sie es und gehen Sie weiter. Wenn sie sagen, dass sie nicht interessiert sind, sagen Sie einfach: "Kein Problem! Ich hoffe, Sie finden jemanden großartigen." Und dann gehen Sie weiter.
-
-## Fehler Nummer 9: Zu frühe ernsthafte Beziehungsgespräche
-
-Sie haben noch nie diese Person persönlich getroffen. Es ist zu früh, Gespräche über die Zukunft, Engagement oder großes Zeug zu führen. Dies kann intensiv und sogar beängstigend wirken.
-
-### Halten Sie es leicht
-
-Lernen Sie die Person kennen. Sehen Sie, wie Sie zusammen in der Realität sind. Große Lebens-Gespräche können nach ein paar Dates kommen.
-
-## Fehler Nummer 10: Nicht wissen, wann man aufhören soll
-
-Manchmal antwortet die Person nur noch kalt oder kurz. Vielleicht sind sie beschäftigt oder verlieren das Interesse. Wenn Sie das sehen, ist es Zeit, weiterzumachen. Drängen Sie nicht.
-
-## Die Checkliste für großartige WhatsApp-Gespräche
-
-- Erste Nachricht basierend auf der Person personalisieren
-- Halten Sie die ersten Gespräche leicht
-- Nach 3-4 Tagen ein Date vorschlagen
-- Ein Leben haben – nicht übermäßig verfügbar sein
-- Teilen Sie von Ihnen selbst, nicht nur Fragen stellen
-- Subtiler flirten, nicht zu aggressiv
-- Energie entsprechen
-- Nicht verzweifelt erscheinen
-- Früh zu einem echten Treffen eskalieren
-- Wissen, wann man weitergehen muss
-
-Weitere Dating-Tipps:
-
-- [Selbstakzeptanz als Schlüssel zum Dating-Erfolg](/blog/selbstakzeptanz-dating-erfolg)
-- [Hardballing: Warum direktes Dating besser ist](/blog/hardballing-dating-direkt-ehrlich)
+Sei ein bisschen flirty, aber vor allem authentisch und respektvoll. Leichte, subtile [Selbstakzeptanz als Schlüssel zum Dating-Erfolg](/blog/selbstakzeptanz-dating-erfolg)
 - [Die häufigsten Fehler bei Dating-Profilfotos](/blog/dating-profilfotos-fehler)
 
 ## Weiterlesen
 
-- [Dating über 30: Warum es anders und oft besser ist](/blog/dating-ueber-30-anders-besser)
 - [Dating über 40: Dein Guide für den Neuanfang](/blog/dating-ueber-40-neuanfang)
 - [Dating über 40: Neustart in der Liebe — ehrlich und](/blog/dating-ueber-40)
 

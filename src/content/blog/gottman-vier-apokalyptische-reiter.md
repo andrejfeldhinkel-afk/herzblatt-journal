@@ -19,11 +19,7 @@ Dieser Artikel nimmt dich mit in die Welt der Gottman-Methode. Du wirst lernen, 
 
 ## Wer ist John Gottman? Der Mann, der Scheidungen vorhersagen kann
 
-John Gottman ist nicht irgendein Beziehungsratgeber, der Gefühle intuitiv zu deuten versucht. Er ist Psychologe, Mathematiker und Forscher. Seit den 1970er Jahren beobachtet er Paare wissenschaftlich und bricht ihre [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) in messbare Muster herunter.
-
-Das Love Lab in Seattle ist sein berühmtes Forschungszentrum. Hier haben hunderte von Paaren unter kontrollierten Bedingungen ihre Konflikte gelöst. Gottman und sein Team haben nicht nur zugehört — sie haben Video aufgenommen, Herzfrequenzen gemessen, Blutdruck überwacht, Atemfrequenz registriert. Jede physische Reaktion wurde dokumentiert.
-
-Das Ergebnis war revolutionär. Gottman konnte ein Paar 15 Minuten lang beim Diskutieren beobachten und mit extrem hoher Wahrscheinlichkeit sagen, ob es sich in den nächsten sechs Jahren trennen würde. Das funktionierte nicht, weil er Wahrsager war. Es funktionierte, weil die vier apokalyptischen Reiter so destruktiv sind, dass sie fast unvermeidbar zur [Trennung](/blog/trennung-verarbeiten-12-schritte) führen — wenn sie nicht gestoppt werden.
+John Gottman ist nicht irgendein Beziehungsratgeber, der Gefühle intuitiv zu deuten versucht. Er ist Psychologe, Mathematiker und Forscher. Seit den 1970er Jahren beobachtet er Paare wissenschaftlich und bricht ihre [Trennung](/blog/trennung-verarbeiten-12-schritte) führen — wenn sie nicht gestoppt werden.
 
 Sein Buch "The Seven Principles for Making Marriage Work" (nicht allein die vier Reiter, aber basierend darauf) ist eines der meistverkauften Beziehungsbücher überhaupt. Seine Methoden werden von Therapeuten weltweit eingesetzt. Und das Wichtigste: Sie funktionieren wirklich.
 

@@ -209,4 +209,4 @@ Wenn du Vertrauen gerade wiederaufbaust nach Betrug, sei realistisch. Es ist har
 
 Und wenn du merkst, dass dein Partner nicht in Vertrauen investieren will, das ist eine Antwort. Das ist nicht die Person für dich.
 
-Für mehr über Beziehungsaufbau, lies auch: [Gefühle zeigen — auch wenn es schwerfällt](/blog/gefuehle-zeigen-lernen-mann) und [Vertrauen wieder aufbauen nach Lüge](/blog/vertrauen-wieder-aufbauen-nach-luege).
+Für mehr über Beziehungsaufbau, lies auch: [Vertrauen wieder aufbauen nach Lüge](/blog/vertrauen-wieder-aufbauen-nach-luege).

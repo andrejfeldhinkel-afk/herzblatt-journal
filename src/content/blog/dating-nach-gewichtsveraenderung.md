@@ -275,7 +275,6 @@ Gib nicht auf. Glaube an dich selbst. Und vertraue, dass die beste Version deine
 
 ## Das könnte dich auch interessieren
 
-- [Dating nach Scheidung – Neustart mit Selbstvertrauen](/blog/dating-nach-scheidung/)
 - [Nach der [Trennung](/blog/trennung-verarbeiten-12-schritte): Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung-wann-bereit/)
 - [Dating nach Scheidung: Neustart mit Selbstvertrauen](/blog/dating-nach-scheidung-kompletter-guide/)
 - [Dating nach Langzeitbeziehung](/blog/dating-nach-langzeitbeziehung/)

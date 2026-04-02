@@ -32,33 +32,7 @@ Das erste und wichtigste ist, mit dem Gedanken zu brechen, dass deine Dating-Kar
 
 Mit 50+ bringst du etwas mit, das jüngere Frauen nicht haben: Selbstkenntnis. Du hast Lebenserfahrung, weißt, wer du bist und was du wirklich brauchst. Das ist nicht nur attraktiv, sondern auch praktisch. Du verschwendest weniger Zeit mit Menschen, die nicht passen.
 
-Frauen in diesem Alter wissen oft besser, was sie in einer [partnerschaft](/blog/aktives-zuhoeren-partner/) wollen. Sie sind weniger bereit, sich mit Missbrauch oder emotionaler Unverlässlichkeit abzufinden. Sie wissen, dass sie zu Hause glücklich sind und dass die richtige [beziehung](/blog/adhs-und-beziehung-komplett-guide/) ein Bonus sein sollte, nicht a Notwendigkeit.
-
-Diese Klarheit ist eine Superpower beim Dating. Nutze sie.
-
-## Die richtige Plattform wählen
-
-Nicht alle Dating-Apps sind gleich. Einige sprechen eher ältere Menschen an, andere konzentrieren sich auf Junggesellen. Apps wie Parship, ElitePartner oder auch die moderteren Varianten wie Match und Bumble haben viele aktive Nutzer über 50.
-
-Überlege dir auch, welche Art von Beziehung du suchst. Möchtest du etwas Ernstes oder erst einmal einfach wieder Dates haben und neue Menschen kennenlernen? Deine Intention sollte in deinem Profil reflektiert sein.
-
-## Ein Profil, das dich darstellt
-
-Dein Profil sollte authentisch sein, aber auch strategisch. Verwende aktuelle Fotos von dir – nicht aus der Vergangenheit. Lächeln macht einen großen Unterschied. Ein gutes Foto zeigt dich bei einem Hobby oder an einem Ort, der dir wichtig ist.
-
-In deiner Biografie schreib über deine Interessen, deine Werte und was du in einer Beziehung suchst. Sei spezifisch. Statt "Ich mag gute Konversation" schreib: "Ich liebe lange Gespräche über Bücher, Reisen und das Leben. Ich suche jemanden, mit dem ich lachen kann."
-
-## Realistische Erwartungen
-
-Mit 50 wirst du wahrscheinlich nicht jemanden treffen, der exakt wie auf der Checkliste aussieht. Das ist okay. Offenheit ist wichtig, aber stelle sicher, dass die Grundlagen stimmen – Werte, Humor, gegenseitige Anziehung.
-
-Viele Frauen sagen, dass die beste Überraschung beim Dating mit 50+ ist, dass sie sich weniger von äußeren Merkmalen angezogen fühlen als früher. Ein Mann, der dich zum Lachen bringt und dich respektiert, wird plötzlich viel attraktiver.
-
-## Die erste Date-Erfahrung
-
-Wenn du lange nicht mehr gedatet hast, kann das erste Date nervenaufreibend sein. Das ist normal. Wähle einen öffentlichen Ort, teile die Informationen mit einer Freundin und bleib entspannt.
-
-Denk dran: Ein Date ist ein gegenseitiges [Kennenlernen](/blog/dating-fragen-kennenlernen). Du schaust ihn genauso kritisch an wie er dich. Du brauchst dich nicht zu verkaufen. Wenn es nicht passt, ist das völlig in Ordnung.
+Frauen in diesem Alter wissen oft besser, was sie in einer [partnerschaft](/blog/aktives-zuhoeren-partner/) wollen. Sie sind weniger bereit, sich mit Missbrauch oder emotionaler Unverlässlichkeit abzufinden. Sie wissen, dass sie zu Hause glücklich sind und dass die richtige [Kennenlernen](/blog/dating-fragen-kennenlernen). Du schaust ihn genauso kritisch an wie er dich. Du brauchst dich nicht zu verkaufen. Wenn es nicht passt, ist das völlig in Ordnung.
 
 ## Mit Ablehnung umgehen
 

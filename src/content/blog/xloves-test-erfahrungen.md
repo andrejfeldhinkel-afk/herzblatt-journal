@@ -411,9 +411,7 @@ Für die allermeisten anderen Menschen ist xLoves großartig. Probier's aus.
 
 Du interessierst dich für andere Optionen? Hier sind unsere Bewertungen zu ähnlichen Plattformen:
 
-- **[MichVerlieben](/blog/michverlieben-test-erfahrungen)** — Der Klassiker für Ü30-Singles mit wissenschaftlichem Test
 - **[WhatsMeet](/blog/whatsmeet-test-erfahrungen)** — Eine moderne Alternative für flexible Nutzer
-- **[Single69](/blog/single69-test-erfahrungen)** — Für Casual-Dates und unkomplizierte Treffen
 - **[Sex69](/blog/sex69-test-erfahrungen)** — Spezialisiert auf intime Abenteuer
 - **[OnlyDates69](/blog/onlydates69-test-erfahrungen)** — Ebenfalls für Casual Dating ausgerichtet
 

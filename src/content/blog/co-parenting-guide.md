@@ -1,5 +1,5 @@
 ---
-title: "Co-Parenting: Guide für erfolgreiche Zusammenarbeit mit deinem Ex"
+title: "Co-Parenting: Guide für erfolgreiche Zusammenarbeit mit d..."
 description: "Erfahre, wie du professionell mit deinem Ex zusammenarbeitest: Kommunikation, Grenzen und Strategien für das Wohl der Kinder."
 date: 2026-04-02
 tags: ["co-parenting", "eltern", "trennung", "kommunikation", "kinder"]

@@ -31,39 +31,7 @@ faq:
 
 Du hast ein Match bekommen, freust dich wie verrückt – und dann? Der nächste Schritt ist oft die größte Hürde im Online-Dating: Wie wird aus einem Match ein echtes Date? Wie formulierst du die erste Nachricht? Wann ist der richtige Moment, um um ein Treffen zu bitten? Und wie schaffst du es, dass aus dem virtuellen Flirt auch wirklich ein gemeinsames Abenteuer wird?
 
-Die gute Nachricht: Es gibt ein System dafür. Tausende erfolgreiche Dates haben gezeigt, dass es nicht um Zaubertricks oder manipulative [psychologie](/blog/adhs-und-beziehung-komplett-guide/) geht. Es geht um Authentizität, gutes Timing und echtes Interesse. In diesem Artikel nehme ich dich mit durch alle sieben Schritte vom Match zum Date – mit echten Beispielen, Tipps für schwierige Situationen und dem Know-how, das du brauchst, um dein Online-Dating erfolgreich zu gestalten.
-
-## Die 7-Schritte-Methode: Vom Match zum persönlichen Treffen
-
-Das System ist einfach: Match → Opener → Unterhaltung → Verbindung aufbauen → Nummer tauschen → Treffen planen → Treffen. Jeder dieser Schritte hat seine eigene Logik und Zeitplanung. Wenn du verstehst, warum jeder Schritt wichtig ist, wirst du nicht nur mehr Dates bekommen – die Dates werden auch besser, weil beide Seiten bereits eine echte Verbindung aufgebaut haben.
-
-Die meisten Menschen machen einen fatalen Fehler: Sie wollen sofort zum Date. Sie schreiben eine Nachricht und fragen gleich, ob die andere Person Zeit am Samstag hat. Das klingt direkt, ist aber kontraproduktiv. Warum? Weil die andere Person dich noch nicht kennt. Warum sollte sie sich mit einem Fremden treffen, mit dem sie noch kein echtes Gespräch geführt hat? Das Treffen passiert nicht an Tag eins – es passiert, nachdem zwischen euch etwas entstanden ist.
-
-## Schritt 1: Der erste Eindruck – Die Opener-Nachricht, die wirklich funktioniert
-
-Der erste Eindruck zählt. Das ist nicht neu. Aber was macht eine gute Opener-Nachricht wirklich aus?
-
-Eine gute Opener ist nicht generisch. "Hey, wie geht's?" ist zeitverschwendung. Ebenso wenig wie "Du bist wirklich hübsch 😊" – das bekommt jede Person hundertfach. Eine gute Opener ist spezifisch auf die Person zugeschnitten, zeigt, dass du ihr Profil gelesen hast, und eröffnet eine echte Unterhaltung.
-
-Das beste Format für eine Opener ist: Beobachtung + echte Frage. Du bezügst dich auf etwas aus ihrem Profil oder ihren Fotos, machst eine Beobachtung dazu – die witzig, überraschend oder aufrichtig sein kann – und stellst dann eine Frage, die sie beantworten muss.
-
-Hier ein echtes Beispiel: Laura hat auf einem Foto offensichtlich den gleichen Hund wie du. Deine Nachricht könnte sein:
-
-"Sag mal, bei Foto drei – ist das etwa ein Labrador? Ich habe auch einen, und der ist völlig wild beim Thema Tennisbälle. Welches Chaos verursacht deiner so?"
-
-Warum funktioniert das? Du hast etwas Gemeinsames gefunden, eine humorvolle Beobachtung gemacht und fragst nach ihrer Erfahrung. Das eröffnet echten Gesprächsstoff.
-
-Anderes Beispiel: Sein Profil sagt, er ist begeistert von Reisen und hat Fotos aus Lissabon und Tokio.
-
-"Okay, ich muss dich was fragen – Lissabon und Tokio liegen nicht nur geografisch Welten auseinander. Wie bist du auf die Reiseliste gekommen? Gibt es da eine Geschichte dahinter?"
-
-Das ist persönlich, zeigt Interesse und gibt der anderen Person sofort das Gefühl, dass du nicht nur irgendwen anschreibst, sondern genau SIE.
-
-### Die Regeln für gute Opener
-
-**Keine Standard-Sprüche.** "Darf ich dir ein Rätsel aufgeben?" oder "Wenn du Eissorte wärst..." klingen abgedroschen und automatisch. Menschen fühlen das.
-
-**Keine [Komplimente](/blog/komplimente-fuer-maenner) zum Aussehen – zumindest nicht als erste Nachricht.** Es ist nicht verboten, aber es ist ein schwaches Opener. Die andere Person weiß, dass sie auf dem Foto gut aussieht. Das ist keine neue Information.
+Die gute Nachricht: Es gibt ein System dafür. Tausende erfolgreiche Dates haben gezeigt, dass es nicht um Zaubertricks oder manipulative [Komplimente](/blog/komplimente-fuer-maenner) zum Aussehen – zumindest nicht als erste Nachricht.** Es ist nicht verboten, aber es ist ein schwaches Opener. Die andere Person weiß, dass sie auf dem Foto gut aussieht. Das ist keine neue Information.
 
 **Spezifisch sein.** Je spezifischer deine Nachricht, desto höher die Chance auf eine Antwort. Wenn du etwas einzigartiges über die Person ansprichst, fühlt sie sich gesehen.
 
@@ -698,7 +666,7 @@ Viel Spaß beim Daten.
 
 ---
 
-Jetzt, da du verstanden hast, wie das System funktioniert, empfehle ich dir, tiefer einzusteigen mit unseren Guides über [die erste Nachricht schreiben](/erste-nachricht-dating-app), [tiefere Dating-Fragen stellen](/dating-fragen-kennenlernen), und [das erste Treffen vorbereiten](/erstes-treffen-online-dating). Jeder dieser Artikel gibt dir noch spezifischere Taktiken für jeden Schritt.
+Jetzt, da du verstanden hast, wie das System funktioniert, empfehle ich dir, tiefer einzusteigen mit unseren Guides über [die erste Nachricht schreiben](/blog/erste-nachricht-dating-app), [tiefere Dating-Fragen stellen](/blog/dating-fragen-kennenlernen), und [das erste Treffen vorbereiten](/blog/erstes-treffen-online-dating). Jeder dieser Artikel gibt dir noch spezifischere Taktiken für jeden Schritt.
 ## Weiterlesen
 
 - [Viele Matches, keine Dates: Was du falsch machst und wie du](/blog/dating-app-matches-keine-dates/)

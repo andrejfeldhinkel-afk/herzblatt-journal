@@ -39,9 +39,7 @@ Das Problem mit Beige Flags ist, dass sie häufig sind. Von Dating-Apps und gene
 
 Warum sollten wir uns um Beige Flags kümmern? Weil sie es einfach machen, wichtige Entscheidungen zu treffen. Du fragst dich: Sollte ich dieser Person eine Chance geben? Sie ist nett, die Chemie ist nicht da, aber vielleicht entwickelt sich das? Das ist die Beige-Flag-Falle.
 
-## Red Flags, [Green Flags](/blog/dating-green-flags-erkennen-guide), Beige Flags – Wie unterscheiden sie sich?
-
-Um Beige Flags besser zu verstehen, ist es hilfreich, sie mit [Red Flags](/blog/dating-red-flags-maenner-erkennen) und Green Flags zu vergleichen.
+## Red Flags, [Red Flags](/blog/dating-red-flags-maenner-erkennen) und Green Flags zu vergleichen.
 
 Red Flags sind klare Warnsignale, dass dieser Mensch nicht gut für dich ist. Das sind Dinge wie: die Person lügt dich an, zeigt keine Empathie für andere Menschen, hat gewalttätiges oder verbales Missbrauchsverhalten, ist emotional manipulativ oder ist nicht selbstständig. Bei Red Flags ist die Entscheidung klar – du solltest gehen.
 

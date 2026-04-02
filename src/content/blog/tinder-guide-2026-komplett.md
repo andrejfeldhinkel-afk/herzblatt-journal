@@ -1,5 +1,5 @@
 ---
-title: "Tinder Guide 2026: Mehr Matches, bessere Dates, echte Verbindungen"
+title: "Tinder Guide 2026: Mehr Matches, bessere Dates, echte Ver..."
 description: "Tinder guide 2026: Profil optimieren, Matches gewinnen. Mit Tipps für bessere Dates und authentische Verbindungen."
 date: 2026-03-21
 tags:

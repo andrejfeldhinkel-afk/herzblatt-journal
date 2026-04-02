@@ -1,5 +1,5 @@
 ---
-title: "Fernbeziehung Geschenke: 20 Ideen für die Ferne zum Verliebtbleiben"
+title: "Fernbeziehung Geschenke: 20 Ideen für die Ferne zum Verli..."
 description: "Kreative Geschenkideen für Fernbeziehungen, die Nähe schaffen. Kleine Gesten, großes Gefühl – auch auf Distanz."
 date: 2026-04-02
 tags: [fernbeziehung, geschenke, liebe, beziehung]
@@ -150,7 +150,7 @@ Regelmäßige Videoanrufe, konsistente Kommunikation, die Willigkeit, die Distan
 
 Gegenstände sind Verstärker. Die echte Liebe ist die Grundlage.
 
-[Wenn ihr kämpft mit der psychischen Belastung einer Fernbeziehung, lesen Sie unseren Artikel dazu](/blog/fernbeziehung-psychische-belastung.md).
+[Wenn ihr kämpft mit der psychischen Belastung einer Fernbeziehung, lesen Sie unseren Artikel dazu](/blog/fernbeziehung-psychische-belastung).
 
 ## Dein nächstes Geschenk
 

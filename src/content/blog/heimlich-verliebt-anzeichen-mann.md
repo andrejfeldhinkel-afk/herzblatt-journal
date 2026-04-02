@@ -1,5 +1,5 @@
 ---
-title: "Heimlich verliebt: 8 Anzeichen, die Männer nicht verstecken können"
+title: "Heimlich verliebt: 8 Anzeichen, die Männer nicht versteck..."
 description: "Ein Mann, der heimlich verliebt ist? Erkenne die authentischen Signale. Diese 8 Anzeichen verraten sein echtes Interesse."
 date: 2026-04-02
 tags: ["Verliebtheit", "Anzeichen", "Männer", "Psychologie"]
@@ -120,9 +120,9 @@ Manchmal ist die beste Strategie, offen zu sein. Du kannst ihm helfen, seine Gef
 
 ## Weitere Erkenntnisse
 
-Lesen unseren entsprechenden Artikel über [wie Frauen ihre Gefühle verstecken](/blog/heimlich-verliebt-anzeichen-frau.md).
+Lesen unseren entsprechenden Artikel über [wie Frauen ihre Gefühle verstecken](/blog/heimlich-verliebt-anzeichen-frau).
 
-Für mehr Dating-Tipps, schau dir [unseren Guide zum Komplimente machen](/blog/komplimente-machen-die-ankommen.md) an.
+Für mehr Dating-Tipps, schau dir [unseren Guide zum Komplimente machen](/blog/komplimente-machen-die-ankommen) an.
 
 ## Fazit: Hör auf sein Herz, nicht nur seine Worte
 

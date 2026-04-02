@@ -1,5 +1,5 @@
 ---
-title: "Emotionale Reife in Beziehungen: Wie du erkennst ob du (und dein Partner) bereit seid"
+title: "Emotionale Reife in Beziehungen"
 description: "Lerne wie emotionale Reife deine Beziehung transformiert. Erkenne die 7 Zeichen echter Reife und baue eine stabile Liebe auf."
 date: 2026-03-29
 tags:
@@ -653,6 +653,5 @@ Das ist der wahre Preis der emotionalen Reife. Es ist nicht, dass alles perfekt 
 ---
 
 **Weitere Artikel zum Thema:**
-- [Stonewalling: Wenn dein Partner dich mit Schweigen bestraft](/blog/stonewalling-mauern-beziehung-guide)
 - [Das Demand-Withdraw-Muster: Wenn einer immer fordert und der andere flieht](/blog/demand-withdraw-pattern-beziehung-guide)
 - [Radikale Akzeptanz in Beziehungen: Deinen Partner wirklich annehmen](/blog/radical-acceptance-beziehung-guide)

@@ -483,16 +483,7 @@ Das ist was 90 Tage Konsistenz tun kann.
 - [Bindungstheorie einfach erklärt](/blog/attachment-theory-einfach-erklaert/)
 - [Paartherapie-Übungen für zuhause: 15 Methoden die eure](/blog/paartherapie-uebungen-zuhause/)
 - [Ängstlich trifft Vermeidend: Die Beziehungsfalle](/blog/anxious-avoidant-trap/)
-- [Negative Glaubenssätze über Liebe auflösen](/blog/glaubenssaetze-liebe-aufloesen/)
-## Häufig gestellte Fragen
-
-**Was wenn mein Partner unsicher auch ist?**
-
-Dann werdet ihr beide arbeiten müssen. Idealerweise gemeinsam, mit Therapist-Hilfe. Zwei unsichere Menschen können manchmal sich für einen langen Zeit-Spiral-Zyklus fühlen, aber Sie können auch beide heilen.
-
-**Was wenn ich in einer toxischen Beziehung bin?**
-
-Dann ist dies nur ein Anfang. Du brauchst möglicherweise mehr Hilfe, um die Beziehung zu verlassen. Kein Journal kann [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) heilend machen. Aber es kann dich helfen, zu erkennen, dass Sie würdig sind, zu verlassen und besser zu haben.
+- [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) heilend machen. Aber es kann dich helfen, zu erkennen, dass Sie würdig sind, zu verlassen und besser zu haben.
 
 **Werde ich je sichere Bindung erhalten?**
 

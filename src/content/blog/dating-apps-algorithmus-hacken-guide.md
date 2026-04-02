@@ -1,5 +1,5 @@
 ---
-title: "Dating-Apps Algorithmus hacken: Wie du bessere Matches bekommst"
+title: "Dating-Apps Algorithmus hacken"
 description: "Dating-App Algorithmus verstehen: Lerne wie die Apps funktionieren und wie du dein Profil optimierst für bessere Matches."
 date: 2026-03-29
 tags:
@@ -137,4 +137,4 @@ Und das ist der erste Schritt zu echte Konnektion.
 
 ---
 
-**Verwandte Artikel:** Erfahre auch über [erstes Date Tipps](/erstes-date-guide/) und [Online-Dating Sicherheit](/online-dating-sicherheit/).
+**Verwandte Artikel:** Erfahre auch über [erstes Date Tipps](/blog/erstes-date-outfit) und [Online-Dating Sicherheit](/blog/online-dating-sicherheit).

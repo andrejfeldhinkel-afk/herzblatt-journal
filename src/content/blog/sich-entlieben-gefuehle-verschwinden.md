@@ -64,59 +64,7 @@ Es ist der Punkt, an dem du merkst, dass Verliebtheit nicht das Gleiche ist wie 
 
 ## Entlieben vs. Verliebtheit nachlässt — der entscheidende Unterschied
 
-Hier ist das Problem: Die meisten Menschen verwechseln das. Sie merken, dass ihre Verliebtheit nachlässt, und denken sofort: "Ich entliebe mich. Unsere [beziehung](/blog/adhs-und-beziehung-komplett-guide/) ist vorbei."
-
-Aber das ist falsch. Das ist ein Riesenfehler, und viele Menschen verlassen eine großartige Beziehung, nur weil sie diesen Unterschied nicht verstanden haben.
-
-Die Verliebtheit nachlässt **immer**. Das ist normal. Das ist biologisch programmiert. Nach etwa zwei bis drei Jahren sinkt der Dopamin-Spiegel wieder. Das ist kein Zeichen, dass etwas falsch ist. Das ist ein Zeichen, dass dein Gehirn normal funktioniert.
-
-Das ist der Punkt, an dem echte Liebe anfangen sollte. Wenn die Schmetterlinge gehen, bleiben die tieferen Gefühle. Der Respekt. Die Bewunderung. Die Dankbarkeit. Das Gefühl, sicher zu sein. Die Gewissheit, dass dieser Mensch dein Zuhause ist.
-
-Aber beim Entlieben passiert etwas anderes. Die Verliebtheit geht nicht nur zurück. Die Liebe geht komplett. Du magst den Menschen nicht wirklich. Die Anziehung ist weg. Der Respekt ist weg. Du findest dich selbst, wie du den Namen deines Partners hörst, und denkst: "Naja, OK." Statt: "Ja!"
-
-Das ist der Unterschied. Bei nachlassender Verliebtheit denkt dein Kopf rational: "Das ist normal, aber ich mag diesen Menschen immer noch." Bei Entlieben denkt dein Kopf: "Ich bin mir nicht sicher, ob ich ihn überhaupt noch mag."
-
-Lass mich dir ein Beispiel geben. Marina und Daniel waren sieben Jahre verheiratet. Nach Jahr drei merkte Marina, dass die Schmetterlinge weg waren. Sie waren nicht mehr wild aufeinander. Sie hielten nicht mehr ständig Händchen. Sie sprachen nicht mehr über jedes kleine Gefühl.
-
-Marina geriet in Panik. Sie dachte, dass es vorbei war. Aber dann sprach sie mit einer älteren Freundin, die ihr sagte: "Das ist völlig normal. Die Frage ist: Liebst du ihn noch?"
-
-Marina musste ehrlich nachdenken. Und ja, sie tat es. Sie liebte ihn. Sie vertraute ihm. Sie wollte mit ihm alt werden. Die Verliebtheit war weg, aber die Liebe war stärker. Sie und Daniel arbeiteten an ihrer Ehe, machten es wieder spannend, und zehn Jahre später sagen sie, dass ihre Liebe tiefer ist als je zuvor.
-
-Das ist der Unterschied. Marina hatte not-nachlassende-Verliebtheit. Sie hatte nicht Entlieben.
-
-Entlieben würde für Marina so aussehen: Sie sitzt neben Daniel, und sie fühlt sich leer. Sie schaut ihn an, und sie sieht einen Fremden. Sie denkt nicht: "Wie kann ich näher zu ihm kommen?" Sie denkt: "Wie kann ich von ihm wegkommen?" Die Vorstellung, ihn zu küssen, macht ihr Unbehagen. Die Vorstellung, ihn zu verlassen, macht ihr Unbehagen, aber nicht, weil sie ihn liebt — sondern weil sie nicht weiß, wie man das Chaos aufräumt.
-
-Wenn das der Fall wäre, dann würde Marina wissen: Das ist Entlieben. Das ist etwas, das man nicht ignorieren kann.
-
-Die zentrale Frage ist also: Fehlst du dir oder fehlst du einfach, dass das Gehirn high ist auf einen Menschen?
-
-## Die 12 Anzeichen, dass du dich entliebst
-
-Jetzt gehen wir zu etwas Praktischem über. Hier sind die Zeichen, dass du dich wirklich entliebst — und nicht einfach nur einen Ehekrise durchlebst:
-
-**1. Du magst den Charakter dieser Person nicht mehr.** Das ist das größte Zeichen. Wenn du aktiv Dinge an seinem Charakter hasst, die du vorher übersehen hast, dann ist das ernsthaft. Nicht "mich nervt, wie er Wasser trinkt", sondern "ich mag deine grundsätzliche Art nicht, wie du mit Menschen umgehst."
-
-**2. Du schaust ihn an, und du spürst nichts.** Keine Anziehung. Kein Kribbeln. Keine Wärme. Nur Leere oder manchmal sogar Ekel. Das ist ein großes Zeichen.
-
-**3. Du wünschst dir, dass er nicht da ist.** Nicht manchmal — sondern regelmäßig. Du freust dich auf die Tage, an denen er arbeitet oder unterwegs ist. Du würdest lieber allein sein als Zeit mit ihm zu verbringen.
-
-**4. Du lügst ihm gegenüber.** Du sagst "mir geht's gut", obwohl dir nicht gut geht. Du sagst "ich liebe dich" ohne zu fühlen, was du sagst. Du spielst eine Rolle statt authentisch zu sein.
-
-**5. Du kritisierst ihn ständig.** In deinem Kopf läuft eine permanente Kritik. Die Art, wie er läuft. Die Art, wie er isst. Die Art, wie er atmet. Nichts von dem, was er tut, ist richtig.
-
-**6. Du hast Fantasien von ohne ihn.** Du träumst wach davon, wie dein Leben aussehen würde ohne ihn. Welche Wohnung du hättest. Welche Abenteuer du haben würdest. Das ist nicht "ab und zu", sondern regelmäßig.
-
-**7. Du hast keine Geduld mehr mit ihm.** Dinge, die dich früher amüsiert haben, machen dich jetzt wütend. Dinge, die du vorher übersehen hast, sind jetzt unerträglich.
-
-**8. Du interessierst dich nicht mehr für sein Leben.** Du hörest zu, wenn er von seinem Tag erzählt, aber dein Gehirn ist wo anders. Du machst dir keine Gedanken über seine Probleme. Du planst nicht mit ihm in die Zukunft.
-
-**9. Du hast körperliche Distanz geschaffen.** Du magst es nicht, wenn er dich berührt. Du fährst weg, wenn er versucht, dich zu küssen. Du schläfst auf der anderen Seite des Betts.
-
-**10. Du vergleichst ihn mit anderen Menschen.** Nicht weil du flirten willst, sondern weil du fragst: "Könnte ich mit dieser Person glücklicher sein?" Oder: "Warum bin ich nicht mit jemandem zusammen, der ________ ist?"
-
-**11. Du hast kein Vertrauen mehr in ihn.** Nicht unbedingt, weil er dich betrogen hat — sondern weil du dich von ihm distanziert hast und diese Distanz als Vertrauensprobleme interpretierst.
-
-**12. Der Gedanke an [Trennung](/blog/trennung-verarbeiten-12-schritte) macht dir Erleichterung, nicht Schmerz.** Das ist vielleicht das wichtigste Zeichen. Wenn eine Person dir sagen würde: "Deine Beziehung endet nächste Woche", würdest du traurig sein oder erleichtert?
+Hier ist das Problem: Die meisten Menschen verwechseln das. Sie merken, dass ihre Verliebtheit nachlässt, und denken sofort: "Ich entliebe mich. Unsere [Trennung](/blog/trennung-verarbeiten-12-schritte) macht dir Erleichterung, nicht Schmerz.** Das ist vielleicht das wichtigste Zeichen. Wenn eine Person dir sagen würde: "Deine Beziehung endet nächste Woche", würdest du traurig sein oder erleichtert?
 
 Wenn du mindestens sechs davon hast, dann ist das kein nachlassen der Verliebtheit. Das ist echtes Entlieben.
 

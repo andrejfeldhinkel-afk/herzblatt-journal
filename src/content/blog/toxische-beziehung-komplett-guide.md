@@ -21,13 +21,7 @@ faq:
 
 Vielleicht sitzt du gerade bei einer Tasse Kaffee und fragst dich: "Ist meine Beziehung normal schwierig oder ist da etwas Größeres falsch?" Du merkst, dass dein Bauch dir etwas sagt, aber dein Kopf dir einredet, dass du überreagierst. Das ist ein klassisches Zeichen, dass du in einer toxischen Beziehung stecken könntest – und der erste Schritt ist, die Warnsignale zu erkennen.
 
-Eine [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) ist keine Liebesbeziehung, die gelegentliche Konflikte hat. Es ist ein Muster von Verhalten, das dein Selbstwertgefühl, deine mentale Gesundheit und manchmal deine physische Sicherheit systematisch abbaut. Das Tückische: Es passiert nicht über Nacht. Es schleicht sich ein, Stück für Stück, bis du nicht mehr weißt, was normal ist.
-
-### Warnsignal 1: Ständige Kritik und Herabwürdigung
-
-Dein Partner kritisiert ständig, wie du aussehst, wie du redest, wie du deine Familie behandelst. Nichts ist jemals gut genug. Du kochst ein leckeres Essen – "Die Nudeln sind zu weich." Du fragst, wie sein Tag war – "Das interessiert dich doch ohnehin nicht, warum tust du so?"
-
-Diese Kritik tarnt sich manchmal als "Ich sage es nur, weil ich dich liebe" oder "Ich versuche, dir zu helfen, besser zu werden." Das ist [Gaslighting](/blog/gaslighting-komplett-guide). Toxische Partner wollen dich nicht verbessern – sie wollen dich kleinhalten. Wenn dein Partner dich konsistent herabsetzt, musst du verstehen: Das ist nicht Liebe. Das ist Kontrolle durch Erniedrigung.
+Eine [Gaslighting](/blog/gaslighting-komplett-guide). Toxische Partner wollen dich nicht verbessern – sie wollen dich kleinhalten. Wenn dein Partner dich konsistent herabsetzt, musst du verstehen: Das ist nicht Liebe. Das ist Kontrolle durch Erniedrigung.
 
 ### Warnsignal 2: Isolation von Freunden und Familie
 

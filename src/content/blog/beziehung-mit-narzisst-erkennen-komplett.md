@@ -39,31 +39,7 @@ Das Problem ist, dass viele dieser Dinge auf der oberflächlichen Ebene normal a
 
 Die erste Phase einer Beziehung mit einem Narzissten ist wie ein Märchen. Es ist intensiv, überraschend, und alles fühlt sich perfekt an. Der Narzisst wird dich mit einer überflutenden Menge von Aufmerksamkeit überfluten. Er/Sie wird dir sagen, dass du speziell bist, dass du die eine bist, dass er/sie noch nie jemanden so gefühlt hat.
 
-Das nennt sich [Love Bombing](/blog/love-bombing-erkennen-schuetzen). Und es ist nicht zufällig oder spontan. Es ist eine bewusste, berechnete Strategie, die nicht aus echter Liebe kommt, sondern aus einer Jagd nach "supply" – das heißt, emotionale Energie und Bewunderung.
-
-Der Narzisst wird dir sagen: "Ich habe dich noch nie jemanden getroffen wie dich." "Du verstehst mich besser als irgendjemand sonst." "Ich sehe eine Zukunft mit dir." "Du bist meine soulmate." Diese Worte sind geschickt konstruiert, um dein Herz zu öffnen.
-
-Das Love Bombing funktioniert, weil wir als Menschen alle nach Liebe, Zugehörigkeit und Bestätigung hungern. Es ist nicht deine Schuld, dass du dich von dieser Aufmerksamkeit angezogen fühlst. Es ist normal. Das Problem ist, dass es nicht real ist. Es ist eine Köder.
-
-Während dieser Phase wird der Narzisst auch sehr neugierig auf dich sein. Er/Sie wird subtile Fragen stellen über deine Träume, deine Ängste, deine Unsicherheiten, deine Familie, deine Verletzungen. Er/Sie wird dir zuhören, als würde die ganze Welt still stehen. Aber später – wenn es Zeit ist – werden genau diese intimen Informationen als Waffen gegen dich verwendet.
-
-Der Narzisst wird auch beginnen, dich zu isolieren. Langsam, subtil. Er/Sie wird Kritik an deinen Freunden anbringen: "Sie sind nicht gut genug für dich." "Sie werden dich wieder verletzen." Er/Sie wird dich ständig kontaktieren, damit du nicht ohne ihn/sie Zeit mit anderen verbringst. Das Ziel ist, dich abhängig zu machen.
-
-Das Love Bombing hält typischerweise einige Monate bis zu einem Jahr an, je nachdem wie lange es braucht, bis du abhängig wirst. Dann, wenn du dein ganzes Herz auf der Tabelle hast, wenn du glaubst, dass dies die beste Beziehung deines Lebens ist, schaltet der Narzisst um. Die Maske fällt.
-
-## Devaluation: Der Sturz
-
-Nach einer intensiven Phase der Aufmerksamkeit und Bewunderung kommt die Devaluation. Und dieser Sturz ist abrupt, schockierend und schmerzhaft. Plötzlich ist du nicht mehr speziell. Du wirst nicht mehr erhöht. Du bist plötzlich nicht genug, und du wirst es nie sein.
-
-Und alles, was der Narzisst zuerst an dir geliebt hat – oder zumindest gesagt hat, dass er/sie geliebt hat – wird zu etwas, das er/sie jetzt hasst. Die Liste wird lang und verurteilend.
-
-"Deine Sensibilität" wird zu "deine Schwäche". "Dein Interesse an meinen Gedanken und Träumen" wird zu "deine Bedürftigkeit und Abhängigkeit". "Deine Treue" wird zu "dein Mangel an Unabhängigkeit und Selbstwertgefühl". "Deine Schönheit" wird zu "du kümmmerst dich zu viel um dein Aussehen und bist oberflächlich".
-
-Derselbe Mensch, der dich heilig gemacht hat, wird derselbe Mensch, der dich jetzt kritisiert, herabwürdigt und beleidigt. Es ist verwirdelnd. Es ist, als würde ein Licht abschalten.
-
-Während dieser Phase werden die Handlungen des Narzissten oft harte und direkt verletzend. Es kann emotionalen Missbrauch geben: Insults, Intimidation, öffentliche Verdemütigung, Kontrolle über Geld, Controlling des Aussehens. Es kann auch körperlich werden, obwohl nicht alle Narzissten körperlich missbrauchen. Psychischer Missbrauch ist ausreichend.
-
-Der Narzisst wird auch anfangen, die Wahrheit zu verzerren und dich wahnsinnig zu machen. Er/Sie wird dir sagen, dass du wahnsinnig bist. Er/Sie wird zu Incidents herangehen, die du dich klar erinnern kannst, und die Fakten verändern, so dass es aussieht, als hättest du es dir eingebildet. Das nennt sich [Gaslighting](/blog/gaslighting-komplett-guide), und es ist eine Form des psychologischen Missbrauchs, der dein Selbstvertrauen und deine Realitäts-Wahrnehmung untergräbt.
+Das nennt sich [Gaslighting](/blog/gaslighting-komplett-guide), und es ist eine Form des psychologischen Missbrauchs, der dein Selbstvertrauen und deine Realitäts-Wahrnehmung untergräbt.
 
 ## Der Discard: Das Finale
 

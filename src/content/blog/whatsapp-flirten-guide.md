@@ -139,28 +139,7 @@ Verschiedene Menschen und verschiedene Kulturen haben unterschiedliche Kommunika
 - [Körpersprache beim Flirten – 12 Signale richtig deuten](/blog/koerpersprache-flirten/)
 - [WhatsApp-Dating: Regeln für das Schreiben mit dem Schwarm](/blog/whatsapp-dating-regeln/)
 - [Dating über WhatsApp: Tipps für bessere Chats](/blog/dating-ueber-whatsapp/)
-- [Rizz: Was die Gen Z über Flirten weiß](/blog/rizz-flirten-generation-z/)
-
-
-## FAQ - Häufig gestellte Fragen zum WhatsApp Flirten
-
-### Wie schnell sollte ich antworten?
-
-Du solltest nicht zu schnell antworten - das wirkt bedürftig - aber auch nicht stunden- oder tagelang warten. Eine Antwort innerhalb von 10 bis 30 Minuten ist ideal. Das zeigt, dass du interessiert bist, aber auch dass du ein Leben außerhalb des Chats hast. Wenn die andere Person dir sofort antwortet, versuche, auch relativ schnell zu antworten. Stelle sicher, dass du auf die gleiche "Kommunikationsgeschwindigkeit" der anderen Person ausgleichst. Dies ist eine Balance zwischen Verfügbarkeit und Unabhängigkeit. Wenn die Person normalerweise schnell antwortet, sollte deine Antwort auch zügig kommen. Es gibt auch Tage, an denen du einfach nicht online sein kannst, und das ist völlig ok. Die richtige Person wird dich trotzdem mögen und verstehen, dass du beschäftigt bist.
-
-### Zu viele oder zu wenig Emojis?
-
-Die Faustregel ist ein bis zwei Emojis pro Nachricht. Nutze sie, um deinen Ton zu verdeutlichen, aber übertreibe es nicht. Wenn die andere Person minimal Emojis nutzt, solltest du das respektieren und es nicht übertreiben. Beobachte ihren Stil und passe dich an. Das schafft Harmonie und zeigt, dass du aufmerksam bist. Emojis können auch verwendet werden, um Emotionen auszudrücken, die schwer in Worten zu sagen sind, wie Verliebtheit oder Nervosität. Es gibt auch Unterschiede zwischen Generationen - ältere Menschen nutzen oft weniger Emojis, während jüngere Menschen sie häufiger verwenden. Passe dich an die Vorlieben der Person an.
-
-### Sind Voice Messages beim Flirten eine gute Idee?
-
-Voice Messages können interessant sein, aber nur wenn sie kurz sind (unter 45 Sekunden) und sparsam genutzt werden. Nutze sie nicht als deine Hauptkommunikationsmethode. Sie funktionieren gut, wenn du deine Stimme und deinen Humor zeigen möchtest, aber Überbenutzung wirkt aufdringlich und kann die andere Person frustrieren. Eine gelegentliche Voice Message, in der du etwas Lustiges oder Interessantes teilst, kann sehr anziehend sein. Voice Messages sind besonders gut, wenn die Stimmung schon warm ist und ihr regelmäßig chattet. In frühen Phasen des Flirtens würde ich Voice Messages sparsam einsetzen und mich hauptsächlich auf Text konzentrieren.
-
-### Wann sollte ich nach einem Date fragen?
-
-Frage nach einem Date, nachdem ihr mindestens 3 bis 5 Tage Nachrichten ausgetauscht habt und die Chemie zu stimmen scheint. Sei spezifisch und selbstbewusst: "Lass mich dich nächsten Freitag zum Kaffee einladen" ist besser als "Wir sollten mal was machen." Die beste Zeit ist, wenn die Konversation gut läuft und beide Seiten viel Engagement zeigen. Zögere nicht zu lange, oder die Energie könnte verpuffen. Achte auch darauf, dass die andere Person bereit ist, vom Online-Chat ins echte Leben zu gehen. Wenn die Person ständig Ausreden macht, wenn es um Treffen geht, könnte das bedeuten, dass sie kein echtes Interesse hat. Es ist besser, das früh zu akzeptieren und weiterzumachen.
-
-### Wie gehe ich mit [Ghosting](/blog/ghosting-komplett-guide) um?
+- [Ghosting](/blog/ghosting-komplett-guide) um?
 
 Ghosting ist, wenn jemand plötzlich aufhört zu antworten und alle Kommunikation abbricht, ohne Erklärung. Das kann schmerzhaft sein, aber es ist wichtig, nicht persönlich zu nehmen. Ghosting sagt mehr über die andere Person aus als über dich. Es zeigt, dass sie nicht die Reife oder Respekt hat, um ordnungsgemäß kommunizieren zu können. Das Beste ist, sich einfach hinzustellen und nicht zu viel Energie in diese Person zu investieren. Sende keine multiplen Nachrichten, die versuchen, ihre Aufmerksamkeit zurückzubekommen. Das wird nur desperate wirken. Akzeptiere es, move on und konzentriere dich auf Menschen, die dich wirklich wertschätzen und respektieren. Die richtige Person wird dich nicht ghosten.
 

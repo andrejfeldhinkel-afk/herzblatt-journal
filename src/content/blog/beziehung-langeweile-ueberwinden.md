@@ -62,12 +62,7 @@ Das Wichtige ist, dass es neu, unbekannt und gemeinsam ist.
 
 Behandelt diese Dates wie zu Beginn eurer Beziehung — macht euch schick, plant etwas Besonderes, seid aufmerksam füreinander, seid präsent. Das mag sich angestrengt anfühlen — weil es das am Anfang ist. Aber es trainiert dein Gehirn, diese Person wieder aufregend zu finden.
 
-**3. Redet über eure Wünsche und Fantasien** — die echten, nicht die sicheren. Viele Paare hören auf, offen über ihre [Bedürfnisse](/blog/beduerfnisse-kommunizieren-beziehung/) zu sprechen, weil sie denken, dass sie alles schon wissen. Aber Menschen entwickeln sich. Deine Wünsche von vor fünf Jahren sind nicht die gleichen wie jetzt.
-
-Ein ehrliches Gespräch darüber, was ihr euch von der Beziehung wünscht, kann neue Energie freisetzen. "Wenn du deine ideale Beziehung mit mir könntest, wie würde sie aussehen?" Diese Frage kann alles ändern.
-
-**4. Überrascht euch gegenseitig** — nicht mit großen Geschenken, sondern mit Aufmerksamkeit. Kleine Gesten zeigen, dass ihr den anderen nicht für selbstverständlich nehmt:
-- Ein [Liebesbrief](/blog/liebesbrief-schreiben-anleitung) mit echten, spezifischen Gründen, warum du diese Person liebst
+**3. Redet über eure Wünsche und Fantasien** — die echten, nicht die sicheren. Viele Paare hören auf, offen über ihre [Liebesbrief](/blog/liebesbrief-schreiben-anleitung) mit echten, spezifischen Gründen, warum du diese Person liebst
 - Ein spontanes Geschenk — nicht zu deinem Geburtstag, sondern just because
 - Ein unerwartetes Kompliment — nicht über das Aussehen, sondern über die Person
 - Eine spontane Geste: Du hast an die andere Person gedacht und tat etwas Schönes dafür

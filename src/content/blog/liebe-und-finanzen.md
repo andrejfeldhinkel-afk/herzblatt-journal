@@ -165,7 +165,7 @@ Erinnere dich daran: Es geht nicht nur um Zahlen. Es geht um Vertrauen, Sicherhe
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
 
 - [Liebe am Arbeitsplatz: Chancen, Risiken und Dos & Don'ts](/blog/liebe-am-arbeitsplatz/)
 - [Liebe finden über 50: Dating im reifen Alter](/blog/liebe-finden-ueber-50/)

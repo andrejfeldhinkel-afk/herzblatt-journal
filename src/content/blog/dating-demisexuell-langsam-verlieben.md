@@ -172,13 +172,7 @@ Es gibt etwas Wunderbares daran, langsam zu verlieben. Die Liebe ist nicht flüc
 
 Ein demisexueller Mensch könnte denken: "Ich bin nicht 'normal' sexuelle." Aber vielleicht ist dies einfach eine andere, tiefere Weise zu lieben.
 
-[Beziehung und Autismus-Spektrum: Tipps für beide Partner](/blog/beziehung-nach-autismus-spektrum-tipps)
 [Aromantisch: Dating und Beziehungen neu verstehen](/blog/dating-aromantisch-verstehen)
-[Beziehung mit einem Partner mit anderer Muttersprache](/blog/beziehung-partner-anderer-muttersprache)
-
-## Weiterlesen
-
-- [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
-- [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
+[Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
 - [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 

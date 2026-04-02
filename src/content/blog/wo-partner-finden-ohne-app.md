@@ -179,41 +179,7 @@ Es reicht nicht nur, an diesen Orten zu sein. Du brauchst eine Strategie.
 
 **Offenheit.** Wenn das Bauchgefühl sagt "Das könnte interessant sein", sag ja. Zu dem Kaffee, dem Spaziergang, dem Austausch von Kontakten. Sei open.
 
-**Der richtige Ort.** Der beste Ort zum [Kennenlernen](/blog/dating-fragen-kennenlernen) ist nicht dort, wo die meisten Menschen sind, sondern dort, wo die Menschen sind die gleich zu dir sind.
-
-Wenn du introvertiert bist, geh nicht zu großen Partys. Geh zu Buchclubs. Wenn du extrovertiert bist, geh zu Festivals, nicht zu Online-Kursen.
-
-## Die psychologische Wahrheit: Warum Apps nicht funktionieren
-
-Dating-Apps haben paradoxe Effekt: Sie geben dir mehr Auswahl, aber weniger Erfüllung.
-
-Warum? Weil echte Verbindung durch wiederholung und geteilte Erfahrungen entsteht. Das passiert nicht durch Foto-Swipen.
-
-Auch: Apps gamifizieren Dating. Es wird zu einem Spiel mit Likes und Matches. Das zerstört die Authentizität. Du versuchst, die "beste Version" deiner selbst zu zeigen, nicht die reale Version.
-
-Und am wichtigsten: Online-Dating ist high-volume. Jeder ist ersetzbar, weil es zu viele andere gibt. Das schafft weniger Engagement.
-
-Offline-Dating ist low-volume. Der Mensch den du triffst, ist nicht austauschbar. Das schafft Investition.
-
-## Das Fazit: Es braucht Zeit, aber es funktioniert
-
-Partner ohne Apps zu finden ist nicht schneller. Aber es ist authentischer.
-
-Du triffst Menschen, die echte Verbindungen haben wollen, nicht nur Hot-or-Not-Spiele spielen wollen.
-
-Du lernst Menschen in echten Situationen kennen, nicht durch gefilterte Fotos.
-
-Und — wichtig — wenn es funktioniert, habt ihr bereits eine Basis: gemeinsame Aktivitäten, gemeinsame Werte, gegenseitige Bekannte die euch vielleicht sogar zusammengebracht haben.
-
-Das ist ein stabileres Fundament als "Wir hatten einen Match auf einer App."
-
-Also: Lass das Handy weg. Geh zum Yoga-Kurs. Ehrenamtlicher Arbeit. Sprachkurs. The Freundesgruppe. Irgendwo hin, wo du regelmäßig bist und du selbst sein kannst.
-
-Der richtige Mensch wird dort sein. Und wenn nicht, dann machst du wenigstens was, das dir selbst freut.
-
-Das ist bereits ein Win.
-
-**Verwandte Artikel:** [Wie flirtet man im Alltag: 15 Gelegenheiten die du verpasst](/blog/wie-flirtet-man-im-alltag), [Partner flirtet mit anderen: Harmlos oder Problem?](/blog/partner-flirtet-mit-anderen)
+**Der richtige Ort.** Der beste Ort zum [Wie flirtet man im Alltag: 15 Gelegenheiten die du verpasst](/blog/wie-flirtet-man-im-alltag), [Partner flirtet mit anderen: Harmlos oder Problem?](/blog/partner-flirtet-mit-anderen)
 ## Weiterlesen
 
 - [Partner finden ohne Dating-Apps: Offline](/blog/partner-finden-ohne-dating-apps/)

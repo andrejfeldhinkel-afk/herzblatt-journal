@@ -179,11 +179,11 @@ Wenn du derjenige bist, dem das passiert:
 - Du wirst heilen.
 - Es ist Zeit, dich selbst zu schätzen.
 
-Lesen unseren Artikel über [Kontaktsperre nach einer Trennung](/blog/kontaktsperre-nach-trennung-guide.md).
+Lesen unseren Artikel über [Kontaktsperre nach einer Trennung](/blog/kontaktsperre-nach-trennung-guide).
 
 ## Weitere Ressourcen
 
-Für Tipps nach einer Trennung, schau [unseren Artikel über die erste Beziehung nach einer Trennung](/blog/erste-beziehung-nach-trennung-tipps.md).
+Für Tipps nach einer Trennung, schau [unseren Artikel über die erste Beziehung nach einer Trennung](/blog/erste-beziehung-nach-trennung-tipps).
 
 ## Fazit: Tu es mit Liebe und Respekt
 

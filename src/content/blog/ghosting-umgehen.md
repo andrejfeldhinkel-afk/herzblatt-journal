@@ -69,7 +69,7 @@ Ghosting gehört leider zur modernen Dating-Realität. Aber lass dich davon nich
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/aktives-zuhoeren-beziehung-ueben/) zu [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/beste-dating-apps-2026), [[beziehung](/blog/adhs-und-beziehung-komplett-guide/) nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/beste-dating-apps-2026), [[beziehung](/blog/adhs-und-beziehung-komplett-guide/) nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung).## Weiterlesen
 
 - [Ghosting überwinden: Warum es passiert und wie du damit](/blog/ghosting-ueberwinden/)
 - [Ghosting – Warum es passiert und wie du damit umgehst](/blog/ghosting-umgehen-tipps/)

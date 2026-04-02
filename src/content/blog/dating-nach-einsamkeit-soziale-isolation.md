@@ -186,23 +186,7 @@ Lass die Beziehung natürlich wachsen.
 
 ### Achte auf deine Trauma-Trigger
 
-Du wirst [Red Flags](/blog/dating-red-flags-maenner-erkennen) übersehen, weil Dankbarkeit deine Gedanken nebelt.
-
-Das ist normal. Aber gefährlich.
-
-Nutze diese Heuristik: Wenn die Person dich nicht sofort antwortet, gerätst du in Panik? Das ist ein Zeichen, dass dein Trauma aktiv ist.
-
-Das bedeutet nicht „Dumpf sie" – aber es bedeutet „Sei vorsichtig."
-
-## Die Red Flags, auf die du besonders achten musst
-
-Weil du von Einsamkeit kommst, bist du anfällig für Manipulator:innen.
-
-Achte auf:
-
-**Liebe-Bombing:** Diese Person gibt dir instant Aufmerksamkeit, ständige Bestätigung. Das fühlt sich wie Heilung für deine Einsamkeit an. Aber es ist oft der erste Schritt zu Kontrolle.
-
-**Needy Behavior:** Sie klammert an dich oder möchte sofort [zusammenziehen](/blog/zusammenziehen-checkliste). Das sagt „Ich habe meine eigenen Probleme" – und du wirst die Person, die sie rettet.
+Du wirst [zusammenziehen](/blog/zusammenziehen-checkliste). Das sagt „Ich habe meine eigenen Probleme" – und du wirst die Person, die sie rettet.
 
 **Subtile Kritik:** Sie sagt dir, dass deine Isolation komisch war. Sie kritisiert deine Vergangenheit. Das ist Judging, nicht Support.
 

@@ -176,6 +176,5 @@ Du brauchst nicht die perfekten Wörter. Du brauchst nicht das perfekte Timing. 
 Das ist es. Das ist alles, was du brauchst. Mut, Authentizität und Respekt.
 
 **Weitere hilfreiche Artikel:**
-- [Verliebt in deine beste Freundin – Was nun?](/blog/verliebt-in-beste-freundin)
 - [Verliebt in Kollegen – Was du wissen musst](/blog/verliebt-in-kollegen-was-tun)
 - [Gute Fragen fürs Date stellen](/blog/gute-fragen-fuers-date)

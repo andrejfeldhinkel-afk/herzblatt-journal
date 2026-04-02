@@ -1,5 +1,5 @@
 ---
-title: "Emotionale Abhängigkeit: Der komplette Guide für mehr Unabhängigkeit in der Liebe"
+title: "Emotionale Abhängigkeit: Der komplette Guide für mehr Una..."
 description: "Erkenne emotionale Abhängigkeit und lerne praktische Strategien, um deine Unabhängigkeit zurückzugewinnen. Ein ehrlicher Guide für gesunde Beziehungen."
 date: 2026-04-02
 tags: ["psychologie", "beziehungen", "persönliche-entwicklung", "emotionale-gesundheit"]
@@ -84,7 +84,7 @@ Woran hattest du vor dieser Beziehung Freude? Mach diese Dinge wieder. Verbring 
 
 **Schritt 4: Professionelle Hilfe**
 
-Ein Therapeut kann dir helfen, die Wurzeln deiner emotionalen Abhängigkeit zu verstehen. [Lies auch unseren Artikel über Therapie in Beziehungen](/blog/therapeutische-hilfe-bei-beziehungsproblemen) – es ist kein Zeichen von Schwäche, sondern von Stärke.
+Ein Therapeut kann dir helfen, die Wurzeln deiner emotionalen Abhängigkeit zu verstehen. [Lies auch unseren Artikel über Therapie in Beziehungen](/blog/schwule-beziehungsprobleme) – es ist kein Zeichen von Schwäche, sondern von Stärke.
 
 **Schritt 5: Lerne, deine Gefühle zu akzeptieren**
 

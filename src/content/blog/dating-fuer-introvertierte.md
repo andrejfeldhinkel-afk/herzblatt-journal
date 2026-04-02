@@ -333,10 +333,10 @@ A: Nein. Introvertiert bedeutet, dass du Energie aus Einsamkeit/Stille bekommst,
 
 Für mehr Dating-Tipps und Unterstützung:
 
-- [Online-Dating: Ein kompletter Guide](/online-dating-guide)
-- [Das erste Date meistern](/erstes-date-guide)
+- [Online-Dating: Ein kompletter Guide](/blog/online-dating-frauen-guide)
+- [Das erste Date meistern](/blog/erstes-date-outfit)
 - [Beste Dating-Plattformen für dich](/top-dating-seiten)
-- [Was ist dein Dating-Typ?](/dating-typ-test)
+- [Was ist dein Dating-Typ?](/blog/dating-im-herbst)
 
 ## Was bleibt: Introversion ist nicht ein Handicap
 

@@ -74,7 +74,7 @@ Vermeidend gebundene Menschen machen etwa 20–25 % aus. Sie wirken beim Dating 
 
 Alles läuft super — bis es ernst wird. Dann kommen Sätze wie "Ich brauche gerade Freiraum" oder "Ich bin noch nicht bereit für etwas Festes". Vermeidend Gebundene haben oft eine lange Liste an Ausreden, warum es gerade nicht passt. Der wahre Grund: Nähe aktiviert bei ihnen Stress statt Geborgenheit.
 
-Typische Muster: Sie melden sich nach einem tollen Date tagelang nicht. Sie halten Gespräche oberflächlich. Wenn du [Vertrauen aufbauen](/vertrauen-aufbauen-beziehung) möchtest, stoßen sie dich weg. Und wenn du dich endlich zurückziehst, kommen sie plötzlich wieder angerannt.
+Typische Muster: Sie melden sich nach einem tollen Date tagelang nicht. Sie halten Gespräche oberflächlich. Wenn du [Vertrauen aufbauen](/blog/vertrauen-aufbauen-beziehung) möchtest, stoßen sie dich weg. Und wenn du dich endlich zurückziehst, kommen sie plötzlich wieder angerannt.
 
 ### Warum vermeidende Menschen trotzdem lieben wollen
 
@@ -94,7 +94,7 @@ Hier wird es spannend — und schmerzhaft. Ängstlich und vermeidend gebundene M
 
 Was dann passiert, ist der klassische Push-Pull-Kreislauf: Der Vermeidende zieht sich zurück → der Ängstliche rennt hinterher → der Vermeidende fühlt sich eingeengt → zieht sich noch mehr zurück → der Ängstliche wird noch verzweifelter.
 
-Dieses Muster fühlt sich an wie große Leidenschaft. Die Höhen sind berauschend, die Tiefen vernichtend. Aber es ist keine Liebe — es ist ein [toxisches Dating-Muster](/eifersucht-beziehung-ueberwinden), das beide Seiten unglücklich macht.
+Dieses Muster fühlt sich an wie große Leidenschaft. Die Höhen sind berauschend, die Tiefen vernichtend. Aber es ist keine Liebe — es ist ein [toxisches Dating-Muster](/blog/eifersucht-beziehung-ueberwinden), das beide Seiten unglücklich macht.
 
 ## Wie du deinen Bindungsstil ändern kannst
 

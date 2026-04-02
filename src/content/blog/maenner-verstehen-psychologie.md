@@ -146,7 +146,7 @@ Das wird oft als unromantisch oder unpersönlich wahrgenommen. Du möchtest, das
 
 Das zu erkennen ändert alles. Jedes Mal wenn er etwas für dich "Praktisches" tut, kannst du es als Liebesausdruck sehen. Danke dafür, statt zu sagen: "Das brauchte ich nicht, ich wollte nur mit dir darüber sprechen."
 
-Interne Verlinkung zum Verständnis: [Love Languages in der Beziehung](/love-languages-beziehung)
+Interne Verlinkung zum Verständnis: [Love Languages in der Beziehung](/blog/love-languages-beziehung)
 
 ### 2. Sexuelle Intimität
 
@@ -224,7 +224,7 @@ Die Wurzeln sind oft tief: Ein Vater, der gegangen ist. Eine Mutter, die erstick
 
 Diese Angst ist real. Es ist nicht, dass er nicht will. Es ist, dass etwas in ihm anfängt zu paniken, wenn die Beziehung zu nahe wird.
 
-Mehr zu diesem Thema: [Bindungsangst erkennen und verstehen](/bindungsangst-erkennen)
+Mehr zu diesem Thema: [Bindungsangst erkennen und verstehen](/blog/bindungsangst-erkennen)
 
 ### Die Hot-and-Cold-Dynamik
 
@@ -294,7 +294,7 @@ In einer etablierten, langfristigen Beziehung verändert sich das männliche Ver
 
 Das ist wenn Paare sich oft entfremden, weil die Beziehung beginnt, "normal" zu fühlen. Die Liebe ist nicht weg — sie hat sich nur transformiert. Ein Mann in dieser Phase könnte gleich viel für die Beziehung tun wie in der Anfangsphase, aber es sieht anders aus. Es ist weniger visibel, weniger dramatisch.
 
-Das ist warum [emotionale Intelligenz in der Beziehung](/emotionale-intelligenz-beziehung) in dieser Phase so wichtig wird. Ihr müsst beide verstehen, wie die Liebe sich transformiert hat, aber nicht verschwunden ist.
+Das ist warum [emotionale Intelligenz in der Beziehung](/blog/emotionale-intelligenz-beziehung) in dieser Phase so wichtig wird. Ihr müsst beide verstehen, wie die Liebe sich transformiert hat, aber nicht verschwunden ist.
 
 ### Die Krise-Phase — Der Verteidiger
 
@@ -357,7 +357,7 @@ Besser: "Ich brauche zwei Stunden ungeteilte Aufmerksamkeit täglich, um mich ve
 
 Das zweite ist so viel direkter, dass es für ihn klar ist, was das Problem ist und was die Lösung ist. Kein Ratgeben, keine Subtle-Hinweise.
 
-Interne Verlinkung: [Bessere Kommunikation in Beziehungen](/kommunikation-beziehung)
+Interne Verlinkung: [Bessere Kommunikation in Beziehungen](/blog/kommunikation-beziehung)
 
 ### Das "Sandwich-Feedback" überspringen
 

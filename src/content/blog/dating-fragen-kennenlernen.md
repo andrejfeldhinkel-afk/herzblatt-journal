@@ -1,5 +1,5 @@
 ---
-title: "Fragen zum Kennenlernen: 100 Fragen für tiefe Gespräche (2026)"
+title: "Fragen zum Kennenlernen: 100 Fragen für tiefe Gespräche"
 description: "Fragen zum Kennenlernen — 100 kreative, tiefgründige und lustige Fragen für Dates, Freundschaften oder den Partner."
 date: 2026-04-01
 tags:

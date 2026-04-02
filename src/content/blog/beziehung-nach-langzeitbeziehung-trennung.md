@@ -148,7 +148,6 @@ Es ist leicht, sich vor zukünftige Schmerz zu schützen, indem man niemanden na
 
 ## Weiterlesen
 
-- [Gemeinsamer Hund nach [Trennung](/blog/trennung-verarbeiten-12-schritte): Wer bekommt ihn?](/blog/beziehung-gemeinsamer-hund-trennung)
 - [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 - [Neustart nach einer Affäre: Der 8-Wochen-Plan für Heilung](/blog/beziehung-after-affaere-plan)
 

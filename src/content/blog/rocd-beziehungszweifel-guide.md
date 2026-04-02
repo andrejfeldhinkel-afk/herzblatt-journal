@@ -448,8 +448,7 @@ Dies ist normal und nicht ein Versagen. Es bedeutet nur, dass du zu achten brauc
 
 ## Interne Links für mehr Unterstützung
 
-- Erfahre über [Emotionale Labor](/blog/emotional-labor-beziehung-guide) — und wie ROCD deine Fähigkeit beeinflusst, zu helfen
-- Verstehe [Bids for Connection](/blog/bids-for-connection-beziehung-guide) — und wie ROCD auf Bids reagieren beeinflusst
+- Erfahre über [Bids for Connection](/blog/bids-for-connection-beziehung-guide) — und wie ROCD auf Bids reagieren beeinflusst
 - Erkunde Therapeutic Unterstützung — um einen Therapeuten spezialisiert auf OCD zu finden
 
 ## Wiederherstellung der Normalität nach ROCD-Behandlung

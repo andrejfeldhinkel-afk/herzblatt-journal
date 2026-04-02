@@ -1,5 +1,5 @@
 ---
-title: "Green Flags: 20 positive Zeichen, dass er/sie der Richtige ist (2026)"
+title: "Green Flags: 20 positive Zeichen, dass er/sie der Richtig..."
 description: "Was sind Green Flags beim Dating? Die 20 wichtigsten positiven Zeichen, dass du einen guten Partner gefunden hast — und wie du sie erkennst."
 date: 2026-03-16
 tags:

@@ -50,43 +50,7 @@ Das klingt künstlich, ja. Und am Anfang wird es sich seltsam anfühlen. Aber es
 
 Ein Beispiel: Dein Partner sagt: „Ich fühle mich immer allein, wenn du zur Arbeit gehst. Ich bleibe zuhause mit den Kindern und es ist anstrengend. Es gibt keinen Moment für mich allein. Ich wünsche mir, dass du mich verstehst, wie schwer das ist." Du spiegelst wider: „Ich verstehe, dass du dich einsam fühlst, wenn ich bei der Arbeit bin. Die Kinder sind anstrengend und es gibt keinen Raum für dich selbst. Es tut dir im Herzen weh, dass ich nicht bei dir bin und du kannst nicht immer verstanden fühlen. Stimmt das?"
 
-Wenn ja, dann habt ihr eine echte Verbindung hergestellt. Das ist der Anfang aller [heilung](/blog/aengstlicher-bindungsstil-heilen/).
-
-## 3. Das Zeitfenster-Gespräch: Sichere Räume für schwierige Themen
-
-Manche Paare landen in Konflikten, weil sie versuchen, wichtige Themen zu besprechen, wenn die Zeit dafür nicht richtig ist. Ihr seid müde. Einer von euch ist gestresst von der Arbeit. Der andere ist hungrig und reizbar. Und plötzlich wird ein Gespräch über mangelnde Nähe zum World War III.
-
-Das Zeitfenster-Gespräch funktioniert so: Wenn du merkst, dass etwas Wichtiges besprochen werden muss, sagst du nicht sofort deine ganzen Gedanken und Gefühle heraus. Stattdessen fragst du deinen Partner: „Das ist mir wichtig und ich würde gerne mit dir darüber sprechen. Haben wir Zeit jetzt, oder möchtest du einen besseren Moment vorschlagen?"
-
-Wenn der Moment nicht passt (weil du zu gestresst bist, weil nicht genug Zeit ist, weil einer von euch zu müde ist), vereinbart ihr einen konkreten Zeitpunkt. Idealerweise noch am selben Tag oder am nächsten Tag. Das gibt dem anderen Partner Zeit, sich mental vorzubereiten. Und ihr werdet das Gespräch führen, wenn ihr beide bereit seid.
-
-Das mag merkwürdig klingen, aber es funktioniert. Wenn du weißt, dass ein schwieriges Gespräch kommt, kannst du dich innerlich vorbereiten. Du kannst deine Gedanken sammeln. Du kannst nicht überrascht sein und daher nicht defensiv werden. Der andere Partner kann sich auch vorbereiten. Ein schwieriges Gespräch, das geplant ist, ist oft produktiver als ein spontanes.
-
-## 4. Die Dankbarkeitspraxis: Das andere sehen, das gut ist
-
-In Beziehungen passiert etwas Seltsames: Je länger wir mit jemandem zusammen sind, desto unsichtbar wird das Gute, das diese Person tut. Dein Partner macht Dinge für dich – er oder sie kocht, putzt, arbeitet, kümmert sich um die Kinder, hört dir zu wenn es dir schlecht geht – und nach einer Weile nimmst du das als selbstverständlich hin.
-
-Das ist einer der schädlichsten Muster in Beziehungen. Und es führt oft zu einem Gefühl, dass man nicht gesehen oder geschätzt wird. Der andere Partner fragt sich: „Sieht er/sie nicht, wie viel ich tue? Kümmert es ihn/sie nicht?"
-
-Die Dankbarkeitspraxis ist einfach und transformativ: Einmal pro Woche (oder öfter, wenn ihr möchtet) sitzt ihr zusammen und jeder von euch nennt drei Dinge, für die ihr dankbar seid – Dinge, die euer Partner getan hat oder einfach etwas an eurem Partner, das euch erfüllt. Das kann klein sein: „Danke, dass du heute Kaffee für mich gemacht hast, bevor ich zur Arbeit ging." Oder größer: „Danke, dass du dich immer um meine Gefühle kümmerst, selbst wenn du müde bist."
-
-Wenn du das hörst – wenn dein Partner dir sagt, dass er oder sie dankbar für dich ist – was bedeutet das? Es bedeutet, dass du siehst, dass die andere Person dich liebt. Es bedeutet, dass du wertvoll bist. Und das ist eines der heilsamsten Gefühle, die es gibt.
-
-## 5. Das Vier-Augen-Gespräch: Außenseiter-Perspektive einnehmen
-
-Dies ist eine Übung, die aus der kognitiven Verhaltenstherapie kommt. Sie ist besonders hilfreich, wenn ihr in einem bestimmten Muster steckt und nicht rauskommt – wenn ihr euch immer wieder denselben Kampf führt.
-
-So funktioniert es: Statt als Personen zu sprechen, stellt ihr euch beide vor, dass ihr Zuschauer seid, die ein anderes Paar beobachten. Ihr beschreibt das Problem aus dieser außen stehenden Perspektive.
-
-Zum Beispiel: „Ich beobachte, dass diese beiden Menschen eine gemeinsame Herausforderung haben. Die Frau fühlt sich, als würde der Mann nicht zuhören. Sie sagt etwas und er nickt, aber sie hat das Gefühl, dass er nicht wirklich präsent ist. Der Mann fühlt sich, als würde die Frau immer kritisieren. Egal was er tut, es ist nicht gut genug. Sie wirken frustriert miteinander. Was könnte diesem Paar helfen?"
-
-Es klingt seltsam, aber aus dieser Perspektive fällt es viel leichter, das Problem zu sehen. Ihr werdet weniger defensiv, weil ihr nicht über euch selbst sprecht, sondern über „dieses andere Paar". Und oft könnt ihr aus dieser Perspektive heraus hilfreiche Lösungen finden, die euch nicht einfallen, wenn ihr mittendrin seid.
-
-## 6. Die Acht-Minuten-Verabredung: Rekonnect und Vernarrtheit
-
-Dies ist eine Übung, die die Beziehungsforscher John und Julie Gottman empfehlen. Sie ist besonders nützlich, wenn ihr zu beschäftigt seid und nicht mehr echte Zeit miteinander verbringt – wenn eure Beziehung nur noch „Management" von alltäglichen Aufgaben ist.
-
-Jeden Tag reserviert ihr acht Minuten – nur acht Minuten! – um wieder zu verbinden. In dieser Zeit: Kein Handy. Kein Fernsehen. Keine Arbeit. Keine Ablenkung. Ihr sitzt zusammen und ihr erinnert euch, warum ihr euch [verliebt](/blog/mann-verliebt-anzeichen-komplett) habt. Ihr könnt euch erzählen, was euch heute überrascht hat. Ihr könnt euch anfassen. Ihr könnt einfach zusammen sein, ohne etwas zu „tun".
+Wenn ja, dann habt ihr eine echte Verbindung hergestellt. Das ist der Anfang aller [verliebt](/blog/mann-verliebt-anzeichen-komplett) habt. Ihr könnt euch erzählen, was euch heute überrascht hat. Ihr könnt euch anfassen. Ihr könnt einfach zusammen sein, ohne etwas zu „tun".
 
 Acht Minuten klingt kurz, aber das ist der Punkt. Für acht Minuten könnt ihr euch Zeit nehmen, egal wie beschäftigt ihr seid. Und diese acht Minuten pro Tag können euer gesamtes Beziehungsgefühl verändern. Es ist nicht die Quantität der Zeit, es ist die Qualität.
 

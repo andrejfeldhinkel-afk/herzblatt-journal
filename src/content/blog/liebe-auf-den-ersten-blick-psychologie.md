@@ -1,5 +1,5 @@
 ---
-title: "Liebe auf den ersten Blick: Was die Psychologie dazu sagt (2026)"
+title: "Liebe auf den ersten Blick: Was die Psychologie dazu sagt"
 description: "Liebe auf den ersten Blick Psychologie: Ist sie real? Erfahre wissenschaftliche Erkenntnisse über sofortige Anziehung und emotionale Verbindung."
 date: 2026-04-01
 image: "/images/blog/liebe-auf-den-ersten-blick-psychologie.webp"

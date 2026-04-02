@@ -103,16 +103,4 @@ Viele Menschen mit 50+ sind überrascht, dass Dating in dieser Phase leichter is
 
 Du hast weniger Drama-Toleranz. Du weißt, was du willst. Du spielst keine Spielchen. Das macht dich attraktiv.
 
-Es gibt auch Dating-Plattformen speziell für Menschen 50+: Parship, ElitePartner, sogar [Offene Beziehung](/blog/offene-beziehung-regeln-guide) ist ein Thema, das einige Menschen mit 50+ erkunden.
-
-Aber hier ist der wichtigste Punkt: Nicht daten, um nicht allein zu sein. Daten, wenn dich jemand wirklich interessiert. Das ist das einzige Rezept für echtes Glück.
-
-## Das, was du wissen musst
-
-Eine Trennung mit 50+ ist nicht das Ende deiner Geschichte. Es ist ein neues Kapitel.
-
-Es wird sich zeitweise wie ein Ende anfühlen. Das ist okay. Trauer ist ein Teil des Prozesses. Aber danach kommt Klarheit. Dann kommt neue Energie. Dann kommt das Leben.
-
-Du bist nicht zu alt. Du bist nicht am Ende. Du fängst gerade an.
-
-Lies auch unseren Artikel über [Liebeskummer überwinden](/blog/liebeskummer-phasen-komplett) für weitere konkrete Tipps zur emotionalen Heilung.
+Es gibt auch Dating-Plattformen speziell für Menschen 50+: Parship, ElitePartner, sogar [Liebeskummer überwinden](/blog/liebeskummer-phasen-komplett) für weitere konkrete Tipps zur emotionalen Heilung.

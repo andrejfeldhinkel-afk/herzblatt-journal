@@ -404,57 +404,7 @@ Du fragst eine Frage, aber du zuhörst nicht wirklich. Dein Gehirn füllt schon 
 
 Das ist nicht Listening. Das ist Annahme.
 
-Die [heilung](/blog/aengstlicher-bindungsstil-heilen/): Pausiere bevor eine Frage gestellt wird. Erinnere dich: „Ich denke, dass ich dich kenne, aber ich könnte falsch sein. Ich höre zu mit offenen Geist."
-
-**Fehler 2: Die Fragen zu schnell wechseln**
-
-Du fragst eine Frage, dein Partner antwortet, dann sofort fragst du eine neue Frage. Es gibt keine Pause. Es gibt keine tiefere Exploration.
-
-Das ist wie eine Befragung, nicht ein Gespräch.
-
-Die Heilung: Stelle nicht mehr als 1-2 Folgefragen pro Frage. Dann stoppe. Lass Stille existieren. Lass Tiefe entstehen.
-
-**Fehler 3: Nicht notieren oder nicht speichern**
-
-Du hörst dein Partner reden, aber du vergisst es später. Die Information kommt nicht real in dein Gehirn.
-
-Die Heilung: Nach einem Love Map Gespräch, schreib die Antworten auf. Nicht auf einen öffentlichen Platz (das ist verletzlich), aber irgendwo privat. Dann, revisit diese Notizen eine Woche später. „Ich erinnere mich, dass du gesagt hast, dass deine größte Angst ist X. Wie fühlt sich das heute?"
-
-**Fehler 4: Versuchen, den Partner zu „fixen"**
-
-Dein Partner teilt etwas, und sofort gibst du Rat. „Du solltest Therapie suchen." „Du solltest diesen Traum nicht verfolgen."
-
-Das ist nicht Zuhören. Das ist Controlling.
-
-Die Heilung: Höre zu. Nur höre zu. Wenn dein Partner Rat will, wird er/sie fragen. Wenn nicht, halte einfach Raum für das, was sie fühlt.
-
-**Fehler 5: Liebe Mapping nur wenn es Problem gibt**
-
-Du fragst Love Map Fragen nur, wenn die Beziehung in trouble ist. Das ist rückwärts.
-
-Love Mapping sollte Vorbeugung sein, nicht Behandlung.
-
-Die Heilung: Mach es ein reguläres Ritual. Nicht, wenn crisis ist. Alle zwei Wochen oder monatlich. Das hält die Nähe frisch.
-
-## Love Maps für Singles: Vorbereitung für die richtige Person
-
-Wenn du Single bist, könntest du denken, dass Love Maps nicht relevant sind. Das ist falsch.
-
-Eine Love Map kannst du auch von DIR erstellen.
-
-Frag dich die gleichen Fragen, die du deinen Partner fragen würdest:
-
-- Was sind meine Top 3 Träume für die nächsten 5 Jahre?
-- Was ist meine größte Angst?
-- Was brauche ich in einer Beziehung, um mich geliebt und sicher zu fühlen?
-- Wie hat meine Vergangenheit mein Verhaltensmuster in Beziehung formiert?
-- Was sind meine nicht-verhandelbaren Werte?
-
-Indem du deine eigene Love Map verstehst, kannst du:
-
-1. Klarheit über, wer du wirklich bist (nicht, wer du denkst, dass du sein solltest)
-2. Klarheit über, welche Art von Partner du wirklich brauchst
-3. Fähigkeit, [Red Flags](/blog/dating-red-flags-maenner-erkennen) früher zu erkennen
+Die [Red Flags](/blog/dating-red-flags-maenner-erkennen) früher zu erkennen
 4. Bessere Wahl treffen
 
 Eine Solo Love Map ist auch ein Akt von Selbstliebe. Es sagt: „Mein Leben, meine Träume, meine Ängste—das zählt."

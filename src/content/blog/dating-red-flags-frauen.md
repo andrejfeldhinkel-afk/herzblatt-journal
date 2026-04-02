@@ -23,13 +23,7 @@ Eine echte Red Flag ist wiederholbar. Es ist nicht nur einmal passiert – es is
 
 Eine echte Red Flag ist entweder absichtlich oder es ist eine grundlegende Persönlichkeitszug. Sie zeigt an, dass die Person dich bewusst manipuliert oder kontrolliert – oder dass sie zumindest nicht bereit ist, daran zu arbeiten, wenn du das Verhalten ansprichst. Und das ist entscheidend: Wenn du mit ihr über ein Verhalten sprichst und sie weigert sich zu hören oder zu ändern, das ist die echte Red Flag – nicht das ursprüngliche Verhalten, sondern ihre Verweigerung, daran zu arbeiten.
 
-Es ist auch wichtig zu verstehen, dass viele Menschen von Red Flags nicht bewusst sind. Sie wuchsen in Familien auf, in denen diese Verhaltensweisen normal waren. Sie haben nicht gelernt, dass es andere Wege gibt. Das ist traurig, aber es ist nicht deine Verantwortung, sie zu "reparieren" oder zu "lehren". Das ist ihre Verantwortung. Eine Person, die dich liebt und die einen Anteil an einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/) mit dir hat, wird den Wunsch haben, diese Dinge zu ändern.
-
-Mit dieser Definition im Kopf, lass uns die 15 Red Flags durchgehen. Während du liest, denk an deine aktuelle Situation. Erkennst du dich selbst? Erkennst du deinen Partner? Erkennst du ein Muster?
-
-## Die 15 Red Flags bei Frauen
-
-### 1. [Love Bombing](/blog/love-bombing-erkennen-schuetzen)
+Es ist auch wichtig zu verstehen, dass viele Menschen von Red Flags nicht bewusst sind. Sie wuchsen in Familien auf, in denen diese Verhaltensweisen normal waren. Sie haben nicht gelernt, dass es andere Wege gibt. Das ist traurig, aber es ist nicht deine Verantwortung, sie zu "reparieren" oder zu "lehren". Das ist ihre Verantwortung. Eine Person, die dich liebt und die einen Anteil an einer [Love Bombing](/blog/love-bombing-erkennen-schuetzen)
 
 Love Bombing ist, wenn jemand in den frühen Stadien einer Beziehung überwältigend intensiv und zugewandt ist. Sie textet dich ständig, sagt ständig, dass sie dich liebt, möchte die ganze Zeit bei dir sein, plant schnell eine gemeinsame Zukunft.
 

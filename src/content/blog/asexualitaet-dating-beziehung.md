@@ -1,5 +1,5 @@
 ---
-title: "Asexualität in Dating und Beziehung – Alles, was du wissen musst"
+title: "Asexualität in Dating und Beziehung"
 description: "Wie du als asexuelle Person erfüllende Beziehungen aufbaust, deine Grenzen kommunizierst und authentisch Dating erlebst. Ein umfassender Ratgeber."
 keywords: ["asexualität in dating und beziehung", "dating", "beziehung", "intimität", "lgbtq+", "selbstliebe"]
 date: 2025-09-06

@@ -793,7 +793,6 @@ Mit diesen großartigen Fotos wirst du deutlich mehr hochwertige Matches bekomme
 
 Falls du noch mehr detaillierte Guides brauchst, schau dir auch diese Artikel an:
 
-- [Verbesser dein Dating-Profilbild mit diesen Profitipps](/blog/dating-profilbild-tipps)
 - [Die beste Strategie für dein komplettes Dating-Profil](/blog/dating-profile-fotos-tipps)
 - [Wie du dein komplettes Dating-App-Profil optimierst](/blog/dating-app-profil-optimieren)
 

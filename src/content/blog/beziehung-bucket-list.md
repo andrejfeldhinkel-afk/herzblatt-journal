@@ -1,5 +1,5 @@
 ---
-title: "Bucket List für Paare – 50 Momente, die eure Beziehung lebendig halten"
+title: "Bucket List für Paare – 50 Momente, die eure Beziehung le..."
 description: "Gemeinsame Träume schaffen Nähe. Entdecke 50 inspirierende Ideen für Paare, die eure Beziehung bereichern – von klein bis groß."
 keywords: ["bucket list für paare", "beziehung", "date ideen", "zusammenleben", "lifestyle", "intimität"]
 date: 2025-07-23

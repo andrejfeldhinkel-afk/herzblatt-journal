@@ -170,4 +170,4 @@ Also, sag den Spruch (oder vergiss den Spruch und sag nur die echte Sache). Umar
 
 Das ist was zählt.
 
-Für mehr auf der Hochzeitsreise, lies auch: [Geschenk zur Verlobung](/blog/geschenk-zur-verlobung-ideen) und [Hochzeit planen Checkliste](/blog/hochzeit-planen-checkliste-timeline).
+Für mehr auf der Hochzeitsreise, lies auch: [Hochzeit planen Checkliste](/blog/hochzeit-planen-checkliste-timeline).

@@ -339,6 +339,5 @@ Nein, du hast ein Überlebensmuster. Das ist nicht egoistisch, das ist Trauma-Re
 
 ## Lesenswerte Links
 
-- [[verlustangst](/blog/aengstlicher-bindungsstil-heilen/) in Beziehungen überwinden](/blog/verlustangst-bei-kindern-beziehung)
 - [Trauma-Reaktionen in Beziehungen (Fight, Flight, Freeze, Fawn)](/blog/trauma-response-beziehung)
 - [Loslassen lernen: Der Weg zur emotionalen Freiheit](/blog/loslassen-lernen-liebe)

@@ -173,7 +173,7 @@ Also, indem du dich auf dein Single-Leben konzentrierst und es erfüllend machst
 
 Wenn du Single bist und bereit wirst, zu daten (aus einem Platz von Glück, nicht Verzweiflung), gibt es viele Wege zu treffen Menschen.
 
-Unser [Online-Dating-Guide](/online-dating-guide) hat Tipps für Online-Dating. Und unser [Partner finden ohne Dating-Apps](/partner-finden-ohne-dating-apps) hat Tipps für Offline-Dating.
+Unser [Online-Dating-Guide](/blog/online-dating-frauen-guide) hat Tipps für Online-Dating. Und unser [Partner finden ohne Dating-Apps](/blog/partner-finden-ohne-dating-apps) hat Tipps für Offline-Dating.
 
 Aber das wichtigste ist: Daten aus einem Platz von "Ich bin glücklich, aber ich würde jemanden lieben, um dieses Leben zu teilen", nicht "Ich bin unglücklich und ich brauche jemanden, um mich zu reparieren."
 
@@ -194,7 +194,6 @@ Genieße es.
 ## Weiterlesen
 
 - [Glücklich Single: Warum Alleinsein keine Schwäche ist](/blog/singles-gluecklich/)
-- [Selbstliebe als Dating-Geheimwaffe: Warum du dich selbst](/blog/selbstliebe-dating/)
 - [Selbstliebe lernen nach [Trennung](/blog/trennung-verarbeiten-12-schritte): Dein Weg zurück zu dir](/blog/selbstliebe-nach-trennung/)
 - [Angst für immer allein zu bleiben: So überwindest du sie](/blog/angst-allein-zu-bleiben/)
 - [Bindungsstil ändern: Wie du von unsicher zu sicher wirst](/blog/attachment-style-aendern-sicher-werden/)

@@ -1,5 +1,5 @@
 ---
-title: "Liebessprache Hilfsbereitschaft: Liebe durch Taten zeigen (2026)"
+title: "Liebessprache Hilfsbereitschaft: Liebe durch Taten zeigen"
 description: "Acts of Service als Liebessprache: Wie du Liebe durch kleine & große Taten zeigst — Beispiele & praktische Tipps"
 date: 2026-04-01
 image: "/images/blog/love-languages-acts-of-service.webp"
@@ -169,4 +169,4 @@ Die beste Liebe ist oft nicht Worte. Sie ist Handlung. Sie ist Präsenz. Sie ist
 
 ---
 
-**Möchtest du mehr über [Quality Time Liebessprache](/blog/love-languages-quality-time) oder [Sound Relationship House](/blog/gottman-sound-relationship-house) erfahren?**
+**Möchtest du mehr über [Sound Relationship House](/blog/gottman-sound-relationship-house) erfahren?**

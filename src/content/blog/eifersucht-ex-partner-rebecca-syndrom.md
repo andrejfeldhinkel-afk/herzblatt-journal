@@ -1,5 +1,5 @@
 ---
-title: "Rebecca-Syndrom: Eifersucht auf die Ex verstehen & überwinden (2026)"
+title: "Rebecca-Syndrom: Eifersucht auf die Ex verstehen & überwi..."
 description: "Das Rebecca-Syndrom (retrograde Eifersucht) macht dich wahnsinnig? Erfahre woher die Eifersucht auf die Ex kommt und wie du sie in 7 Schritten überwindest."
 keywords: ["rebecca syndrom", "eifersucht auf die ex", "retrograde eifersucht", "eifersucht ex partner", "rebecca syndrom überwinden"]
 date: 2025-12-11

@@ -275,19 +275,7 @@ Das Gefährlichste ist: Du wirst wollen, sie zu retten.
 
 Du wirst denken: „Wenn ich nur genug liebe, genug unterstütze, genug präsent bin, wird sie besser."
 
-Das ist der weibliche Narzissmus der Rettung. Es ist, mit einem Angel-Komplex [verliebt](/blog/mann-verliebt-anzeichen-komplett) zu sein.
-
-Aber du wirst sie nicht retten. Niemand wird sie retten. Nur sie kann sich selbst retten.
-
-Deine Aufgabe ist nicht, sie zu retten. Deine Aufgabe ist, in einer respektvollen, stabilen Art zu lieben. Und zu sehen, ob sie die gleiche Rückkehr geben kann.
-
-Wenn sie nicht kann – wenn sie zu krank ist, zu unwillig – dann musst du loslassen.
-
-## Eine Beziehung nach Borderline
-
-Manchmal, nachdem eine Beziehung mit jemandem mit Borderline zu Ende geht, musst du heilen.
-
-Du könntest [Bindungsangst](/blog/bindungsangst-komplett-guide) entwickelt haben. Du könntest dich misstrauisch in neue Beziehungen begeben.
+Das ist der weibliche Narzissmus der Rettung. Es ist, mit einem Angel-Komplex [Bindungsangst](/blog/bindungsangst-komplett-guide) entwickelt haben. Du könntest dich misstrauisch in neue Beziehungen begeben.
 
 Das ist normal. Das ist ein Trauma, das du durchgemacht hast.
 

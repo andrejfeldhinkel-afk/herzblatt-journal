@@ -35,39 +35,7 @@ Verlustangst hat häufig ihre Wurzeln in der Kindheit – und das ist important,
 
 Vielleicht war ein Elternteil emotional nicht erreichbar. Deine Mutter war immer müde, dein Vater immer frustriert. Du lerntest: "Liebe ist nicht sicher. Menschen, die dich lieben könnten, sind nicht verfügbar." Oder es gab Trennungen, die dein junges Gehirn verletzten. Ein Elternteil verließ, und du lerntest: "Ich bin nicht genug, um jemanden bei mir zu halten."
 
-Aber auch erwachsene Erfahrungen können Verlustangst auslösen. Eine unerwartete [Trennung](/blog/trennung-verarbeiten-12-schritte) nach Jahren zusammen. Ein Seitensprung, der dein Vertrauen zerstörte. Ein Partner, der plötzlich die Beziehung beendete, ohne echte Erklärung. Diese Traumata können tiefe Narben hinterlassen.
-
-Das Gehirn lernt dann einen neuen Überlebensmechanismus: "Liebe ist unsicher. Menschen verlassen mich. Ich muss mich selbst schützen durch Kontrolle."
-
-Das Verstehen dieser Wurzel ist nicht der ganze Weg zur Heilung – aber es ist der erste Schritt. Du kannst dir selbst sagen: "Ich bin nicht verrückt. Mein Gehirn hat einen Grund, Angst zu haben. Es versucht, mich zu schützen."
-
-## Die Symptome: Wenn Liebe sich wie Panik anfühlt
-
-Verlustangst manifestiert sich auf verschiedene Weisen, und nicht jedes Symptom passt auf jede Person. Erkenne dich selbst:
-
-**Ständige Eifersucht**: Dein Partner unterhält sich mit jemandem anderem, und sofort fragst du dich: "Ist das mehr als Freundschaft?" Du fragst nach Fotos von Leuten, die er oder sie geliked hat. Du überprüfst sein oder ihr Telefon, wenn es rumliegt. Das ist nicht, weil dein Partner untreu ist – das ist, weil dein Gehirn ständig nach Bedrohungen sucht.
-
-**Kontrollierendes Verhalten**: Du wirst nervös, wenn dein Partner ausgehen möchte. Du stellst Fragen: "Mit wem gehst du?" "Warum brauchst du Raum?" "Kann ich nicht mitkommen?" Du versuchst dich unverzichtbar zu machen – wenn du immer verfügbar bist, kann dein Partner nicht weg.
-
-**Unaufhörliche Bestätigung**: Du fragst deinen Partner ständig: "Liebst du mich noch?" "Bist du glücklich mit mir?" Du wirst nervös, wenn er oder sie langsamer antwortet. Du brauchst konstante Versicherung, weil die innere Sicherheit nicht existiert.
-
-**Klammern**: Du wirst überinvestiert in die Beziehung. Du vergisst deine Freunde, weil sie dir nicht so wichtig sind wie diese Beziehung. Du vergisst deine Hobbys, weil dein Hobby jetzt dein Partner ist. Die Angst ist: "Wenn ich nicht immer verfügbar bin, verlässt er/sie mich."
-
-All das sind Versuche deines Gehirns, die Beziehung zu "sichern". Das Problem: Sie funktionieren genau andersherum. Menschen fühlen sich von Klammern erstickt. Ständige Eifersucht wirkt belastend, nicht liebevoll. Kontrollierendes Verhalten treibt Menschen weg – nicht näher.
-
-## Der Idealisieren-Devaluieren-Kreis: Der destruktive Pattern
-
-Menschen mit Verlustangst neigen zu einem spezifischen Muster: Sie idealisieren ihren Partner am Anfang extrem, dann werden sie später bitter, wenn der Partner nicht perfekt ist.
-
-Am Anfang: "Du bist perfekt. Du bist die beste Person, die mir je begegnet ist. Ich bin so dankbar." Das Gehirn versucht, sich zu schützen, indem es Sicherheit in Perfektion sucht – wenn diese Person wirklich perfekt ist, wird sie mich nicht verlassen.
-
-Dann, nach einiger Zeit: "Du hast diese Eigenschaft, die mir nicht gefällt." "Du tust das falsch." "Du bist nicht so großartig wie ich dachte." Plötzlich wirkt der Partner fehlbar – und das triggert Angst: "Wenn du nicht perfekt bist, vielleicht verlässt du mich. Oder vielleicht sollte ich dich verlassen, bevor du mich verlässt."
-
-Der erste Schritt zur Heilung ist zu akzeptieren, dass Menschen fehlbar sind. Ein imperfekter Partner, der dich liebt und sich anstrengt, ist wertvoller als ein imaginär perfekter Partner, der nicht existiert.
-
-## Das Attachment-System verstehen
-
-Deine Verlustangst ist nicht einfach "Angst". Es ist ein Bindungsmuster, das sich in der frühen Kindheit formte. Forscher nennen das "anxious attachment" oder "ängstlicher [Bindungsstil](/blog/avoidant-attachment-beziehung-guide)".
+Aber auch erwachsene Erfahrungen können Verlustangst auslösen. Eine unerwartete [Bindungsstil](/blog/avoidant-attachment-beziehung-guide)".
 
 Menschen mit diesem Bindungsstil brauchen konstante Nähe und Bestätigung. Sie werden von Trennung – auch kurzzeitig – angespannt. Wenn der Partner längere Zeit nicht antwortet, geraten sie in Panik. Der Grund: Das System, das dich als Baby mit der Mutter verband, funktioniert immer noch auf "höchster Alarmstufe."
 

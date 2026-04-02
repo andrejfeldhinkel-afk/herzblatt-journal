@@ -95,11 +95,7 @@ Wenn deine Motivation, zu daten, darin besteht, dass dein Ex dich sieht und eife
 
 ### 4. Du hast intensive Angst vor Ablehnung
 
-Das ist normal, aber wenn die Angst so groß ist, dass du nicht mal versuchen wirst, ist noch [heilung](/blog/aengstlicher-bindungsstil-heilen/) nötig.
-
-### 5. Du bekommst zu schnell emotional mit neuen Daten
-
-Wenn du dich nach einem oder zwei Daten bereits [verliebt](/blog/mann-verliebt-anzeichen-komplett) glaubst, könnten das Rebound-Gefühle sein.
+Das ist normal, aber wenn die Angst so groß ist, dass du nicht mal versuchen wirst, ist noch [verliebt](/blog/mann-verliebt-anzeichen-komplett) glaubst, könnten das Rebound-Gefühle sein.
 
 ## Rebound-Beziehung vs. echte Beziehung
 
@@ -198,7 +194,7 @@ Dating nach einer Trennung kann sowohl angespannt als auch aufregend sein. Vertr
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-als-alleinerziehend), [Introvertiert liebt Extrovertiert: Gegensätze in der Beziehung](/blog/dating-introvertiert-extrovertiert), [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Introvertiert liebt Extrovertiert: Gegensätze in der Beziehung](/blog/dating-introvertiert-extrovertiert), [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung).## Weiterlesen
 
 - [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung/)
 - [Dating mit Kindern: So findest du als alleinerziehend](/blog/dating-mit-kindern/)

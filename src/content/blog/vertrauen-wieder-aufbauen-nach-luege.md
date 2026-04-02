@@ -151,4 +151,4 @@ Aber nur wenn beide wollen. Wenn einer der Partner sich der Verantwortung entzie
 
 Also schau nicht nur auf die Lüge. Schau auf die Reaktion darauf. Das sagt dir alles, was du wissen musst.
 
-Für mehr über Beziehungsheilung, lies auch: [Vertrauen aufbauen in einer Beziehung](/blog/vertrauen-aufbauen-beziehung) und [Trennung verarbeiten trotz Liebe](/blog/trennung-verarbeiten-trotz-liebe).
+Für mehr über Beziehungsheilung, lies auch: [Trennung verarbeiten trotz Liebe](/blog/trennung-verarbeiten-trotz-liebe).

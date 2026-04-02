@@ -85,31 +85,7 @@ Der Nachteil: Je spezialisierter die App, desto kleiner die Auswahl. In kleinen 
 
 **Große Apps mit Filtern**
 
-Bei Bumble und [Hinge](/blog/hinge-guide-deutsch-2026) kannst du „Vegan" als Präferenz eingeben oder es in deinem Profil erwähnen. Das filtert nach Menschen, die zumindest das Label sehen und verstehen.
-
-OkCupid hat Fragen zum veganen Lebensstil, die du beantworten kannst. Das macht es einfacher zu sehen, wer kompatibel ist.
-
-## Offline: Wo du vegane Singles triffst
-
-**Vegane Stammtische und Meetups**
-
-Viele Städte haben vegane Meetup-Gruppen. Diese sind nicht immer Dating-fokussiert, aber sie sind großartig zum Treffen von Gleichgesinnten. Und unter diesen Menschen können Verbindungen entstehen.
-
-**Vegane Food Festivals und Events**
-
-Überall gibt es vegane Festivals, Kochkurse, Vorträge. Das sind natürliche Orte, um Menschen mit ähnlichen Werten zu treffen.
-
-**Yoga-Studios, Klettergyms, Laufgruppen**
-
-Vegane Menschen sind oft auch bewusst über andere Aspekte ihres Lebens. Yoga-Studios, Nachhaltigkeits-Clubs, Umweltgruppen — diese Orte ziehen viele Vegane an.
-
-**Tierschutz-Organisationen und Umwelt-Gruppen**
-
-Freiwilligenarbeit. Das ist nicht nur eine Gelegenheit, etwas Gutes zu tun, sondern auch zu treffen, wer Werte mit dir teilt.
-
-## Die Conversation über zusammenleben: Die echte Prüfung
-
-Wenn eure Beziehung seriös wird und ihr [zusammenziehen](/blog/zusammenziehen-checkliste) wollt, kommt die echte Prüfung.
+Bei Bumble und [zusammenziehen](/blog/zusammenziehen-checkliste) wollt, kommt die echte Prüfung.
 
 **Szenarien, die aufkommen:**
 
@@ -156,6 +132,5 @@ Und wenn du einen veganen Partner finden kannst? Umso besser. Aber lass dich nic
 
 ## Weiterlesen
 
-- [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
 - [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)

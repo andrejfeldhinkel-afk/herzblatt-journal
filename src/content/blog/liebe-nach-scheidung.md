@@ -35,15 +35,7 @@ Und dann kommt der Moment, wo jemand sagt: „Du solltest wieder daten." Dein in
 
 Eine Scheidung ist nicht nur das Ende einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/). Es ist das Zusammenbrechen von Identität, Zukunftsvisionen, alltäglichen Routinen. Du wachst auf und vergisst für einen Moment, dass diese Person nicht mehr da ist. Dann kommt der Schmerz zurück.
 
-Aber hier ist die Wahrheit, die niemandem sagt: Dieser Moment kommt. Nicht sofort. Aber irgendwann. Und es ist nicht egoistisch oder respektlos gegenüber deiner früheren Ehe. Es ist [heilung](/blog/aengstlicher-bindungsstil-heilen/). Es ist Weiterleben. Es ist dich selbst wiederfinden.
-
-Diese Reise – von der Verzweiflung nach einer Scheidung zur Fähigkeit, sich wieder zu öffnen – ist der Inhalt dieses Artikels. Und ich will dir sagen, bevor wir anfangen: Du packst das. Es ist hart, aber du packst das.
-
-## Die emotionale Zeitleiste nach einer Scheidung
-
-Es gibt keine festgelegte Zeitleiste, aber es gibt Phasen. Die erste Phase ist Schock und Verleugnung. Das kann zwei Wochen sein oder zwei Monate. Dein Gehirn akzeptiert einfach nicht, dass dies passiert ist. Du erwartest, dass er/sie anruft und sagt „Das war ein Fehler."
-
-Du merkst dich nicht, dass die Beziehung vorbei ist. Du magst körperlich mit der [Trennung](/blog/trennung-verarbeiten-12-schritte) kooperieren – deine Sachen packst, unterschreibst die Papiere – aber emotional bist du nicht da.
+Aber hier ist die Wahrheit, die niemandem sagt: Dieser Moment kommt. Nicht sofort. Aber irgendwann. Und es ist nicht egoistisch oder respektlos gegenüber deiner früheren Ehe. Es ist [Trennung](/blog/trennung-verarbeiten-12-schritte) kooperieren – deine Sachen packst, unterschreibst die Papiere – aber emotional bist du nicht da.
 
 Dann kommt Trauer und Wut. Das ist die lange Phase. Das kann ein Jahr sein, es kann drei Jahre sein. Du trauert um die Beziehung, die Pläne, die Identität von dir als verheirateter Mensch. Du trauert um die Version deines Partners, die du liebtest und die nicht existiert – oder die existierte, aber nicht mehr. Und du bist wütend – auf deinen Ex, auf dich selbst, auf das Universum.
 
@@ -359,6 +351,5 @@ Mehr Perspektive zum Thema findest du in Vertrauen in Beziehungen wiederaufbauen
 
 - [Dating nach psychischer Erkrankung: Der behutsame Weg zurück](/blog/dating-nach-psychischer-erkrankung/)
 - [Fleabagging — Warum du immer die falschen dattest](/blog/fleabagging-dating-pattern-guide/)
-- [Toxische Dating-Muster erkennen und durchbrechen:](/blog/toxische-dating-muster-durchbrechen/)
 - [Dating nach einer [Ghosting](/blog/ghosting-komplett-guide)-Erfahrung: Wieder vertrauen](/blog/dating-nach-ghosting-erfahrung/)
 - [Dating nach Jobverlust: Lohnt es sich trotzdem?](/blog/dating-nach-jobverlust/)

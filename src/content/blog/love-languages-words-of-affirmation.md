@@ -1,5 +1,5 @@
 ---
-title: "Liebessprache Worte der Bestätigung: Die Kraft der richtigen Worte"
+title: "Liebessprache Worte der Bestätigung"
 description: "Worte der Bestätigung sind eine Liebessprache: Lob, Anerkennung und verbale Wertschätzung vertiefen deine Beziehung. So sprichst du diese Sprache."
 date: 2026-04-01
 image: "/images/blog/love-languages-words-of-affirmation.webp"
@@ -162,9 +162,7 @@ Dann teile **eine** dieser Beobachtungen am Abend. Nicht alle. Nicht dramatisch.
 
 Nach ein paar Monaten wird das zur Gewohnheit. Und die Liebe deines Partners wird es dir mit erhöhter Nähe danken.
 
-## Wie [Love Languages](/blog/love-languages-komplett-guide) alle Sprachen zusammenbringen
-
-Worte sind eine Sprache. Aber dein Partner spricht wahrscheinlich auch andere. Wenn du verstehst, dass [körperkontakt](/blog/love-languages-physical-touch) eine andere Sprache ist und [Geschenke](/blog/love-languages-gifts) noch eine andere, beginnt alles zusammenzupassen.
+## Wie [körperkontakt](/blog/love-languages-physical-touch) eine andere Sprache ist und [Geschenke](/blog/love-languages-gifts) noch eine andere, beginnt alles zusammenzupassen.
 
 Das ist das Geheimnis: Es geht nicht darum, eine Sprache perfekt zu sprechen. Es geht darum, alle fünf zu lernen — und dann die zu betonen, die dein Partner am meisten braucht.
 

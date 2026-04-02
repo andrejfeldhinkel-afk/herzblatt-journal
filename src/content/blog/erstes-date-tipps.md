@@ -58,13 +58,7 @@ Ernsthaft. Leg dein Handy in die Tasche und vergiss es für die nächsten ein bi
 
 Augenkontakt halten, lächeln, dem Gegenüber zugewandt sitzen — dein Körper kommuniziert mehr als deine Worte. Achte darauf, dass deine Körpersprache Offenheit signalisiert.
 
-### 8. [Komplimente](/blog/komplimente-fuer-maenner) — aber ehrlich
-
-Ein ehrliches, spezifisches Kompliment wirkt stärker als zehn generische. "Du hast eine ansteckende Art zu lachen" schlägt "Du siehst gut aus" um Längen.
-
-### 9. Kein Druck
-
-Ein erstes Date ist ein [Kennenlernen](/blog/dating-fragen-kennenlernen), keine Bewerbung. Ihr müsst nicht herausfinden, ob ihr heiraten wollt. Genießt den Moment und schaut, ob die Chemie stimmt.
+### 8. [Kennenlernen](/blog/dating-fragen-kennenlernen), keine Bewerbung. Ihr müsst nicht herausfinden, ob ihr heiraten wollt. Genießt den Moment und schaut, ob die Chemie stimmt.
 
 ### 10. Das Date schön beenden
 
@@ -82,7 +76,7 @@ Detaillierte Infos bietet Verbraucherzentrale: [Verbraucherzentrale](https://www
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/adhs-und-beziehung-komplett-guide/) zu [[dating](/blog/anzeichen-er-steht-auf-dich/) mit Kindern: So findest du als alleinerziehend die große Liebe](/blog/dating-mit-kindern), [Erstes Date Outfit: Was anziehen, um dich wohlzufühlen und zu beeindrucken](/blog/erstes-date-outfit), [Vom Chat zum ersten Treffen: Übergang zum echten Leben](/blog/erstes-treffen-online-dating).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/adhs-und-beziehung-komplett-guide/) zu [Erstes Date Outfit: Was anziehen, um dich wohlzufühlen und zu beeindrucken](/blog/erstes-date-outfit), [Vom Chat zum ersten Treffen: Übergang zum echten Leben](/blog/erstes-treffen-online-dating).## Weiterlesen
 
 - [Vom Chat zum ersten Treffen: Übergang zum echten Leben](/blog/erstes-treffen-online-dating/)
 - [Erstes Date: Wohin? 25 geniale Orte](/blog/erste-date-wo-hingehen/)

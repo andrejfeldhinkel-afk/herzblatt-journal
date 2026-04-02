@@ -153,7 +153,6 @@ FehlerProblemFix”Nur über dich reden”Sie fühlt sich nicht beachtetFrag reg
 
 ## Weiterlesen
 
-- [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
 - [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 

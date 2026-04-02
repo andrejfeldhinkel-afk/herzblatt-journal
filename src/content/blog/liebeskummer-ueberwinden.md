@@ -9,9 +9,7 @@ tags:
   - "liebeskummer"
 ---
 
-Die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) ist vorbei. Es ist vielleicht deine Entscheidung gewesen, vielleicht auch die des anderen. Aber jetzt sitzt du da, und es tut weh.
-
-[Liebeskummer](/blog/liebeskummer-phasen-komplett) ist einer der hartnäckigsten Schmerze, die es gibt. Es ist nicht nur emotionaler Schmerz – es ist körperlich. Dein Brustkorb ist eng. Du kannst nicht schlafen. Du wechselst zwischen Wut, Trauer und seltsamer Hoffnung.
+Die [Liebeskummer](/blog/liebeskummer-phasen-komplett) ist einer der hartnäckigsten Schmerze, die es gibt. Es ist nicht nur emotionaler Schmerz – es ist körperlich. Dein Brustkorb ist eng. Du kannst nicht schlafen. Du wechselst zwischen Wut, Trauer und seltsamer Hoffnung.
 
 Die gute Nachricht: Das ist normal. Und du kannst dadurch hindurch. Hier ist wie.
 

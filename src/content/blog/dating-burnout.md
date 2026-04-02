@@ -262,7 +262,7 @@ A: Dies ist FOMO (Angst vor Verpassung), nicht Dating Burnout. Das ist eine psyc
 
 Dating Burnout wird nicht verschwinden, bis Dating-Apps weniger exploitativ werden. Aber Sie können Ihre Beziehung dazu neu gestalten. Sie können bewusste, absichtlich, begrenzt daten.
 
-Wenn Sie mehr auf die Grundlagen von Online-Dating lernen möchten, siehe [Online-Dating-Guide](/online-dating-guide). Für Tipps auf Daten selbst, siehe [Erstes Date Guide](/erstes-date-guide).
+Wenn Sie mehr auf die Grundlagen von Online-Dating lernen möchten, siehe [Online-Dating-Guide](/blog/online-dating-frauen-guide). Für Tipps auf Daten selbst, siehe [Erstes Date Guide](/blog/erstes-date-outfit).
 
 Am Ende, die beste Lösung für Dating Burnout ist Erinnerung: Dating sollte ein Mittel zum Zweck sein, nicht der Zweck selbst. Sie suchen nach einer Person, die passt. Das ist groß und wichtig. Aber es ist nicht alles.
 

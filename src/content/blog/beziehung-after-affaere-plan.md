@@ -1,5 +1,5 @@
 ---
-title: "Beziehung nach einer Affäre retten – Ein ehrlicher Aktionsplan"
+title: "Beziehung nach einer Affäre retten"
 description: "Eine Affäre bricht dein Herz und deine Beziehung auseinander. Kann man das heilen? Ja – aber es braucht ehrliche Arbeit, Geduld und oft professionelle..."
 keywords: ["beziehung nach einer affäre retten", "beziehung", "vertrauen", "heilung", "kommunikation", "konflikte"]
 date: 2025-09-16
@@ -36,17 +36,7 @@ In den ersten 24 Stunden könnte es verlockend sein, sofort zu agieren. Eine Sch
 
 ## Das Gespräch – Das erste ehrliche Reden
 
-Nach 24-48 Stunden, wenn der akuteste Schmerz nachgelassen hat, muss das Gespräch kommen. Das ist keine optionale Diskussion. Das ist der erste Schritt zur Heilung oder zur [Trennung](/blog/trennung-verarbeiten-12-schritte).
-
-**Das musst du wissen:**
-
-Du darfst alles fragen, das du fragen möchtest. Wie lange hat es gedauert? Wer war es? Wie viele Male? Wo? Das sind legitime Fragen. Dein Partner muss ehrlich antworten – nicht um dich zu quälen, sondern um eine Grundlage der Wahrheit zu schaffen, auf der etwas Neues aufgebaut werden kann.
-
-Ein Partner, der nicht bereit ist, vollständig ehrlich zu sein, zeigt dir bereits, dass die Heilung vielleicht nicht möglich ist. Heilen erfordert Transparenz.
-
-**Was du deinem Partner sagen solltest:**
-
-„Du hast mein Vertrauen gebrochen. Das ist eine schwerwiegende Verletzung. Ich bin noch nicht sicher, ob ich die [Beziehung retten](/blog/beziehung-retten-kompletter-guide) kann oder will. Aber wenn wir es versuchen, brauche ich folgende Dinge von dir:
+Nach 24-48 Stunden, wenn der akuteste Schmerz nachgelassen hat, muss das Gespräch kommen. Das ist keine optionale Diskussion. Das ist der erste Schritt zur Heilung oder zur [Beziehung retten](/blog/beziehung-retten-kompletter-guide) kann oder will. Aber wenn wir es versuchen, brauche ich folgende Dinge von dir:
 
 1. **Vollständige Transparenz.** Keine Lügen mehr. Keine versteckten Wahrheiten. Wenn ich eine Frage stelle, verdiene ich die volle Wahrheit.
 

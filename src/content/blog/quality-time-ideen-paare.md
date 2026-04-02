@@ -255,6 +255,5 @@ Kultiviert diese Momente. Seid präsent für sie. Und vergesst nicht, sie zu seh
 
 ## Weiterlesen
 
-- [Quality Time 2026: 40 Ideen für echte Zweisamkeit](/blog/beziehung-quality-time-ideen)
 - [Beziehung auffrischen: 30 kreative Ideen gegen den Alltag](/blog/beziehung-auffrischen-ideen)
 - [Finanzplanung für Paare – So regelt ihr Geld richtig](/blog/beziehung-finanzplanung-paare)

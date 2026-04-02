@@ -1,5 +1,5 @@
 ---
-title: "Sexting in der Beziehung: Tipps für mehr Spannung per Handy (2026)"
+title: "Sexting in der Beziehung: Tipps für mehr Spannung per Handy"
 description: "Sexting-Guide für Paare: Sichere, heiße und lustvolle Tipps für SMS und Chats. So machst du Sexting in der Beziehung richtig."
 date: 2026-04-01
 image: "/images/blog/sexting-in-beziehung-guide.webp"

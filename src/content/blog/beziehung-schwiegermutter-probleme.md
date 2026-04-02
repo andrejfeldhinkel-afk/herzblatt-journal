@@ -151,13 +151,7 @@ Letztlich geht die Botschaft, die beide Partner aussenden, sollte sein: "Wir sin
 
 Dies ist das Fundament einer glücklichen Ehe angesichts der Schwiegermutter-Herausforderungen.
 
-[Beziehung stärken trotz Arbeitslosigkeit](/blog/beziehung-nach-arbeitslosigkeit)
 [Beziehung nach traumatischer Geburt stärken](/blog/beziehung-nach-traumatischer-geburt)
-[Beziehung und Autismus-Spektrum: Tipps für beide Partner](/blog/beziehung-nach-autismus-spektrum-tipps)
-
-## Weiterlesen
-
-- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
-- [Neustart nach einer Affäre: Der 8-Wochen-Plan für Heilung](/blog/beziehung-after-affaere-plan)
+[Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 - [Großer Altersunterschied in der Beziehung](/blog/beziehung-altersunterschied-gross)
 

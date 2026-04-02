@@ -46,71 +46,7 @@ Denke auch über Deine Werte nach. Was ist Dir wichtig in einer Beziehung? Sind 
 
 Überlege auch, wie Du über Deine sexuelle Orientierung denkst. Bist Du stolz darauf? Bist Du noch unsicher oder wütend? Ist es etwas, über das Du gerne sprichst, oder ziehst Du es vor, privat zu bleiben? Es gibt keine richtige Antwort – es geht darum, ehrlich mit Dir selbst zu sein. Dies wird Dir helfen, partner zu finden, die Deine Perspektive verstehen und respektieren.
 
-Erkunde auch, welche Art von Beziehung Du suchst. Suchst Du eine langfristige Beziehung? Bist Du daran interessiert, zu erkunden? Suchst Du eine [offene Beziehung](/blog/offene-beziehung-regeln-guide)? Es gibt viele verschiedene Arten von Beziehungsstrukturen in der queeren Community, und es ist wichtig, dass Du ehrlich mit Dir selbst und potenziellen Partnern über das bist, was Du suchst.
-
-## Die queere Community kennenlernen
-
-Eine der großartigen Dinge über das Dating nach dem Coming-Out ist, dass Du nun Teil der LGBTQ+-Community sein kannst. Dies ist mehr als nur Dating – es ist eine Chance, Freunde zu finden, Teil von etwas Größerem zu sein, und eine unterstützende Gemeinschaft zu finden, die Deine Erfahrungen versteht.
-
-Viele Städte haben queere Räume – schwule Bars, lesbische Cafés, LGBTQ+-Kulturzentren. Diese sind nicht nur zum Dating da – sie sind Orte, an denen Du Menschen treffen, Dich selbst entdecken und Teil einer Gemeinschaft sein kannst. Der Besuch dieser Räume kann sich zunächst nervös anfühlen, besonders wenn Du zum ersten Mal kommst. Aber die Menschen sind in der Regel sehr freundlich und willkommen.
-
-Social Media und Dating-Apps haben auch die queere Community verändert. Es gibt spezialisierte Dating-Apps für LGBTQ+-Menschen wie Grindr, HER, OkCupid und viele andere. Diese Apps können eine großartige Möglichkeit sein, um Menschen kennenzulernen, ohne Dich selbst in gefährlichen Situationen befinden zu müssen.
-
-Es gibt auch Online-Communities, Discord-Server und Foren, in denen sich LGBTQ+-Menschen treffen. Diese können eine großartige Quelle für Unterstützung, Information und sogar Freundschaften sein. Der Austausch Deiner Erfahrungen mit Menschen, die verstehen, kann sehr heilsam sein.
-
-Pride-Veranstaltungen sind auch gute Gelegenheiten, um Menschen zu treffen und Teil der Gemeinschaft zu sein. Diese sind nicht nur zum Dating – sie sind zur Feier, zum Sichtbarkeit und zum Aufbau von Gemeinschaft. Viele Menschen treffen ihre Partner oder beste Freunde auf Pride-Events.
-
-## Wo man nach dem Coming-Out Dating-Partner trifft
-
-Es gibt viele Orte, an denen Du Dating-Partner nach Deinem Coming-Out treffen kannst. Jeder Ort hat seine eigenen Vor- und Nachteile, und was für Dich am besten funktioniert, könnte anders sein als für jemand anderen.
-
-Online-Dating-Apps sind für viele Menschen der primäre Ort, um Menschen zu treffen. Diese Apps geben Dir Kontrolle – Du kannst Dein Tempo steuern, Du kannst viel über jemanden erfahren, bevor Du ihn triffst. Es gibt spezialisierte Apps für verschiedene sexuelle Orientierungen und Vorlieben. Ein großer Vorteil ist, dass Du Menschen treffen kannst, deren sexuelle Orientierung Du bereits kennst, was ein großes Stück Angst vor Ablehnung wegnimmt.
-
-LGBTQ+-spezifische Bars und Clubs sind traditionelle Orte für queere Menschen, um zu treffen und zu sozialisieren. Diese können weniger Druck als Dating-Apps haben – es geht darum, Spaß zu haben und Menschen zu treffen. Viele langfristige Beziehungen beginnen in schwulen Bars. Aber denke daran, dass nicht jeder, mit dem Du in einer Bar sprichst, an Dating interessiert ist – viele Menschen sind nur zum Spaß da.
-
-Community-Events wie Buchclubs, Sportgruppen, oder Kulturveranstaltungen sind auch großartige Orte, um Menschen kennenzulernen. Diese haben den Vorteil, dass Du bereits eine gemeinsame Leidenschaft mit der Person teilst. Dies kann zu tieferen Verbindungen führen.
-
-Freunde können Dich auch mit Menschen verbinden. Wenn Du Freunde hast, die wissen, dass Du single bist, kannst Du sie bitten, Dich mit jemandem bekannt zu machen. Dies kann weniger Druck haben als aktiv zu suchen.
-
-Work oder Schuleinstellungen können auch Orte sein, wo Du Menschen triffst. Dies ist jedoch mit Vorsicht zu behandeln, da eine Beziehung mit jemandem in Deinem direkten Arbeitsumfeld kompliziert sein kann.
-
-## Dein Online-Profil erstellen: Authentizität ist der Schlüssel
-
-Wenn Du Dich entscheidest, Online-Dating zu probieren, ist das Erstellen eines guten Profils entscheidend. Dein Profil ist Dein Erste Eindruck, und viele Menschen werden ihre Entscheidung basierend auf wenigen Sekunden treffen. Das bedeutet nicht, dass Du falsch über Dich selbst sein solltest – das Gegenteil ist wahr. Authentizität ist attrakt.
-
-Wähle Fotos, auf denen Du Dich selbst siehst. Das bedeutet nicht, dass Du Deinen besten Schuss brauchst – es bedeutet, dass Du erkennbar sein solltest. Menschen können in Echtzeit sehen, wie Du aussehst, also sei realistisch. Es ist besser, dass jemand überrascht ist, dass Du besser aussehst als Deine Fotos, als das Gegenteil.
-
-Schreibe eine Bio, die Deine Persönlichkeit widerspiegelt. Was macht Dich lachen? Was sind Deine Leidenschaften? Was ist Dir wichtig? Menschen werden sich zu Menschen hingezogen fühlen, die Charakter und Leidenschaft haben. Aber sei nicht zu dicht mit Informationen – lasse einige Geheimnisse, um Gespräche zu beginnen.
-
-Sei klar darüber, was Du suchst. Suchst Du nach etwas Ernsthaftem oder nur zum Erkunden? Es ist wichtig, dies früh zu kommunizieren, um Zeit zu sparen und Menschen zu vermeiden, die nach etwas anderem suchen. Unehrlichkeit über Deine Absichten ist nicht hilfreich für jemanden.
-
-Erwähne auch, dass Du vor kurzem gekommen bist, wenn das angemessen ist. Das ist nicht notwendig, aber es kann helfen, Menschen zu filterern, die möglicherweise nicht sensibel für Deine Situation sind. Einige Menschen werden besonders geduldig und verständnisvoll sein, wenn sie wissen, dass Du zum ersten Mal die queere Dating-Szene erkundigst.
-
-## Sicherheit beim Dating nach dem Coming-Out
-
-Sicherheit ist eine der wichtigsten Überlegungen beim Dating, besonders nach dem Coming-Out. Es gibt Sicherheitsbedenken, die spezifisch für LGBTQ+-Menschen sind. Das ist nicht, um Dich zu erschrecken – es ist zu informieren und zu schützen.
-
-Zunächst einmal, wenn Du online daten, sei vorsichtig damit, wem Du persönliche Informationen gibst. Teile Deinen vollen Namen, Adresse, oder Arbeitsort nicht, bis Du die Person gründlich kennengelernt hast. Dies ist besonders wichtig, wenn Du nicht-binär, Trans oder anderweitig aus der Norm heraus bist – es gibt möglicherweise Menschen, die möglicherweise Deine Sicherheit gefährden könnten.
-
-Treffe Dich immer an öffentlichen Orten zum ersten Mal. Sage einem Freund, wo Du hingehst und wann Du voraussichtlich zurück bist. Bringe Dein Handy mit vollem Akku mit. Wenn Du Dich unsicher fühlst, verlasse die Situation. Es ist wichtig, dass Du Deiner Intuition vertraust.
-
-Sei auch vorsichtig mit Personen, die zu gut aussehen oder zu perfekt zu sein scheinen. Es gibt leider Menschen, die Online-Dating missbrauchen, um Menschen zu täuschen oder ihnen Schaden zuzufügen. Dies ist nicht um paranoid zu sein – es ist, um bewusst zu sein.
-
-Wenn Du vor Deinem Coming-Out heterosexuell gelebt hast und jetzt zum ersten Mal homosexuell daten, gibt es zusätzliche Sicherheitsüberlegungen. Du kennst möglicherweise nicht die Normen und Sicherheitserwartungen in der queeren Community. Sprich mit Freunden oder vertrauten Personen über Dating-Sicherheit.
-
-Es gibt auch Überlegungen in Bezug auf Outing. Wenn Du dich bei jemandem nicht sicher fühlst, dass er Deine sexuelle Orientierung respektiert oder geheim hält, sei vorsichtig. Es gibt leider noch Orte und Menschen, wo Outing gefährlich sein kann.
-
-## Authentizität in der Dating-Szene: Dein wahres Ich zeigen
-
-Nach Jahrzehnten, oder sogar Jahrzehnten, Deine sexuelle Orientierung zu verstecken, kann das Zeigen Deines echten Selbst angespannt sein. Du könntest Angst vor Ablehnung haben. Du könntest Angst vor Judgment haben. Aber Authentizität ist tatsächlich eines der attraktivsten Dinge, die Du sein kannst.
-
-Das bedeutet nicht, dass Du Dein gesamtes Leben auf dem ersten Date auftischen solltest. Es bedeutet, dass Du ehrlich über das sein solltest, wer Du bist. Wenn Du ein großer Nerdy bist, sage es. Wenn Du religiös bist, sage es. Wenn Du transexuell bist, sagen es. Wenn Du neurodivers bist, sage es. Diese Teile von Dir sind nicht schlecht – sie sind Teile, die Dich zu Dir machen.
-
-Authentizität führt auch zu besseren Matches. Menschen werden zu dir hingezogen, weil du du selbst bist, nicht weil du vortäuschst, jemand anderes zu sein. Dies führt zu tieferen, erfüllenderen Verbindungen. Die Menschen, die mit Dir von Beginn an nicht klarkommen, sind wahrscheinlich nicht die richtigen Leute für Dich sowieso.
-
-Authentizität bedeutet auch, Deine Grenzen zu setzen. Du darfst sagen "nein" zu Menschen oder Dingen, die Du nicht willst. Du darfst eine Person blockieren, wenn sie unhöflich oder unangenehm ist. Du darfst ein Date vorzeitig beenden, wenn Du Dich nicht sicher oder wohl fühlst. Deine Grenzen sind wichtig.
-
-Denke auch darüber nach, wie viel Du über Dein Coming-Out teilen möchtest. Dies ist persönlich und es gibt keine richtige Antwort. Manche Menschen teilen ihre Geschichte gerne – es ist ein wichtiger Teil von wer sie sind. Andere möchten lieber eine [Trennung](/blog/trennung-verarbeiten-12-schritte) zwischen ihrer Vergangenheit und ihrer gegenwärtigen Realität. Beide sind gültig.
+Erkunde auch, welche Art von Beziehung Du suchst. Suchst Du eine langfristige Beziehung? Bist Du daran interessiert, zu erkunden? Suchst Du eine [Trennung](/blog/trennung-verarbeiten-12-schritte) zwischen ihrer Vergangenheit und ihrer gegenwärtigen Realität. Beide sind gültig.
 
 ## Häufig gestellte Fragen zum Dating nach dem Coming-Out
 
@@ -282,7 +218,7 @@ Sei sanft mit Dir selbst. Dein Coming-Out war bereits mutig genug. Das Dating da
 
 Denk daran, dass Dein Wert nicht bestimmt wird, ob Du in einer Beziehung bist oder nicht. Du bist wertvoll, ob Du single oder partnered bist. Das Dating ist eine Erkundung, nicht ein Ziel, das Du erreichen musst. Genießt den Prozess und erfahre, wer Du bist.
 
-[Lesen Sie auch unseren Artikel über Selbstakzeptanz nach dem Coming-Out](/blog/selbstakzeptanz-nach-coming-out) und [wie man emotionale Gesundheit in queeren Beziehungen pflegt](/blog/emotionale-gesundheit-queer-beziehungen). Wenn Du Support im Gesamtprozess brauchst, empfehlen wir auch [unseren Ratgeber zu LGBTQ+ Mental Health](/blog/lgbtq-mental-health-guide).
+[wie man emotionale Gesundheit in queeren Beziehungen pflegt](/blog/emotionale-gesundheit-liebe). Wenn Du Support im Gesamtprozess brauchst, empfehlen wir auch [unseren Ratgeber zu LGBTQ+ Mental Health](/blog/attachment-healing-guide).
 
 Viel Glück bei Deinem Dating-Abenteuer. Du bist nicht allein. Tausende von Menschen gehen diese Reise parallel zu Dir, in diesem Moment. Die queere Community ist da, um Dich zu unterstützen. Dein Partner ist dort draußen irgendwo, warten oder noch nicht auf dem Weg. Aber zu gleich wichtig – lerne Dich selbst kennen, liebe Dich selbst, und vertraue der Prozess. Alles wird sich an der richtigen Zeit entfalten.
 

@@ -116,9 +116,9 @@ Die beste Strategie ist, offen und authentisch zu sein. Wenn du auch Gefühle f�
 
 ## Weitere Erkenntnisse
 
-Interessiert dich auch, [wie Männer ihre Gefühle verbergen](/blog/heimlich-verliebt-anzeichen-mann.md)? Lies unseren entsprechenden Artikel.
+Interessiert dich auch, [wie Männer ihre Gefühle verbergen](/blog/heimlich-verliebt-anzeichen-mann)? Lies unseren entsprechenden Artikel.
 
-Du könntest auch von unserem Guide über [Komplimente profitieren](/blog/komplimente-machen-die-ankommen.md), um deine Gefühle auszudrücken.
+Du könntest auch von unserem Guide über [Komplimente profitieren](/blog/komplimente-machen-die-ankommen), um deine Gefühle auszudrücken.
 
 ## Fazit: Höre auf deine Intuition
 

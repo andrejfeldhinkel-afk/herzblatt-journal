@@ -62,50 +62,7 @@ Die Antwort ist nein – aber du erkennst es nicht immer.
 
 Das ist ungesund.
 
-## Warum Orbiting schlimmer ist als [Ghosting](/blog/ghosting-komplett-guide)
-
-Hier ist das merkwürdige Ding: Wenn jemand dich ghosted, wenigstens weißt du, dass die Beziehung vorbei ist.
-
-Mit Orbiting, weiß du nicht, was vor sich geht. Sie mögen dich? Sie mögen dich nicht? Sind sie aufgehört, über dich nachzudenken, oder nicht?
-
-Die Mehrdeutigkeit ist das Schlimme. Das ist, was dich stecken macht.
-
-## Wie man mit Orbiting umgeht
-
-### Option 1: Ignoriere sie
-
-Das ist mein empfohlener Weg. Nicht ihre Likes zurück-liken. Nicht mit ihren Stories interagieren. Nicht darüber nachdenken, warum sie gelikt haben.
-
-Wenn du nicht auf sie reagierst, werden sie, wahrscheinlich, mit der Zeit zu liken aufhören.
-
-### Option 2: Mach dein Profil Privat
-
-Dies ist, wenn du ernsthaft über jemanden gestört bist. Wenn du dein Profil privat machst, können sie nicht sehen, was du postest.
-
-Das ist extrem, aber wenn Orbiting dir schlecht geht, könnte es gerechtfertigt werden.
-
-### Option 3: Blockiere sie
-
-Wenn Orbiting invasiv ist, blockiere einfach. Das ist ein deutliches Signal: „Du bist nicht willkommen in meinem Leben."
-
-Die meisten Menschen bekommen es und werden aufhören.
-
-### Option 4: Spreche direkt mit ihnen
-
-Das ist riskant, aber manchmal funktioniert es.
-
-Sende eine Nachricht (nicht öffentlich): „Ich merke, dass du meine Sachen immer noch liken. Das macht mein Weitermachen schwierig. Ich brauche, dass du Raum gibst."
-
-Manche Menschen respektieren das. Manche auch nicht.
-
-## Solltest du mit ihnen sprechen?
-
-Das hängt davon ab:
-
-**Sprechen Sie, wenn**:
-- Sie möchten eine klare Klärung
-- Du glaubst, dass sie nicht bekommen, wie invasiv es ist
-- Sie hatten eine gute [Trennung](/blog/trennung-verarbeiten-12-schritte) und es war nur eine Sache, die schiefging
+## Warum Orbiting schlimmer ist als [Trennung](/blog/trennung-verarbeiten-12-schritte) und es war nur eine Sache, die schiefging
 
 **Nicht sprechen, wenn**:
 - Die Trennung hässlich war

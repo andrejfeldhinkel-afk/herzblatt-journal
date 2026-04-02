@@ -152,6 +152,5 @@ Die Schmetterlinge werden nicht jeden Tag fliegen. Aber sie werden bestimmte Mom
 Genieße die frisch-verliebt Phase. Aber verlier dich nicht darin. Bleib du selbst. Halte deine Grenzen. Kommuniziere. Und vertrau darauf, dass wenn echte Liebe da ist, sie über die Honeymoon Phase hinaus bleiben wird.
 
 **Weitere hilfreiche Artikel:**
-- [Gute Fragen fürs Date stellen](/blog/gute-fragen-fuers-date)
 - [Beziehung Langweile überwinden](/blog/beziehung-langweile-ueberwinden)
 - [Emotionale Abhängigkeit erkennen und überwinden](/blog/emotionale-abhaengigkeit-test-selbstcheck)

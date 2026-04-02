@@ -151,52 +151,6 @@ Wenn ja, dann bist du wahrscheinlich bereit.
 
 Wenn nein, mach weiter an dir selbst zu arbeiten.
 
-Lesen Sie auch: [Erstes Date Gesprächsthemen: 50 Fragen die jedes Eis brechen](/blog/erstes-date-gespraechsthemen)
-
-## Die Suche nach Identität nach Trennung
-
-In einer Beziehung verlieren wir oft einen Teil von uns selbst. Du wirst "Janas Freundin" oder "Mikes Partner". Deine Identität wird mit jemand anderem verwoben.
-
-Nach der Trennung brauchst du Zeit, um herauszufinden, wer du selbst bist.
-
-Das ist eine echte Suche. Es ist nicht dramatisch. Es ist subtil und weitreichend.
-
-Was liebst du zu tun? Wenn niemand dich beobachtet, was würdest du tun? Welche Träume hast du aufgegeben, als du mit dieser Person zusammen warst?
-
-Das sind wichtige Fragen. Und die Antworten werden dich selbst zurückbringen.
-
-## Der Rückfall und wie man damit umgeht
-
-Der Rückfall ist real. Monatelang geht es dir gut. Und dann hörst du ein Lied, das ihr zusammen gehört habt, und du bist wieder am Boden.
-
-Das ist nicht Versagen. Das ist normal. Emotionale Heilung ist nicht linear.
-
-Was ich dir sage ist: Sitze nicht in der Gefühl. Erkenne es, fühle es, aber entscheide dich, nicht hineinzugehen. "Ok, das tut weh. Das ist ok. Das wird vorbei gehen." Und dann geh weiter.
-
-Mit der Zeit werden die Rückfälle seltener und weniger intensiv.
-
-## Die echte Definition von Selbstliebe
-
-Echte Selbstliebe ist nicht Egoismus. Es ist nicht Eitelkeit. Es ist Respekt.
-
-Es ist deine Hand auf deine Schulter und zu dir selbst zu sagen: "Du verdienst Liebe. Du verdienst Glück. Du wirst nicht weniger wert sein, nur weil eine Person dich verließ. Du bist genug."
-
-Das ist Selbstliebe.
-
-Und wenn du anfängst, das zu glauben – wirklich zu glauben – wird sich alles in deinem Leben verändern. Deine Beziehungen werden besser. Deine Arbeit wird besser. Dein Glück wird besser.
-
-Weil du nicht mehr darauf wartest, dass jemand anderes dich vollständig macht. Du machst dich selbst vollständig.
-
-## Der Punkt der Dankbarkeit
-
-Das ist der Moment, wenn du die Beziehung ohne Bitterkeit sehen kannst. Du wirst dankbar für die schönen Momente sein. Du wirst das Schmerz aufgreifen und es als Lehre sehen.
-
-Das ist kein bedeutsamer Moment. Es passiert nicht auf einmal. Es passiert langsam, über viele Tage.
-
-Eines Tages denkst du an die Beziehung, und anstatt Schmerz zu fühlen, denkst du: "Das war schön, während es dauerte. Ich habe viel gelernt. Ich bin besser dafür."
-
-Das ist echte Heilung.
-
 Lesen Sie auch: [Gaslighting in Beziehungen erkennen: 15 Warnsignale und wie du dich schützt](/blog/gaslighting-beziehung-erkennen)
 
 ## Die Neuroplastizität nutzen zur Heilung

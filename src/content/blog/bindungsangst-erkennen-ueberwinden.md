@@ -27,7 +27,7 @@ author: "sarah-kellner"
 
 ## Bindungsangst erkennen und überwinden
 
-[Bindungsangst](/blog/bindungsangst-komplett-guide) ist eine der frustrierendsten Dinge, die dir in einer [Beziehung](/blog/vergebung-nach-betrug) passieren können. Und dass Dumme daran? Oft weißt du gar nicht, dass du sie hast, bis es zu spät ist. Oder jemand gibt dir Feedback wie "Aber du zerstörst jede Beziehung!" – und du hast keine Ahnung, warum.
+[Beziehung](/blog/vergebung-nach-betrug) passieren können. Und dass Dumme daran? Oft weißt du gar nicht, dass du sie hast, bis es zu spät ist. Oder jemand gibt dir Feedback wie "Aber du zerstörst jede Beziehung!" – und du hast keine Ahnung, warum.
 
 Ich kenne viele Menschen, bei denen das genau so ist. Sie lieben jemanden wirklich. Aber wenn die Beziehung zu intensiv oder zu real wird, flippen sie aus. Sie finden plötzlich Fehler, die sie vorher nicht gesehen haben. Oder sie sabotieren alles, ohne wirklich zu wissen, warum.
 
@@ -52,7 +52,7 @@ Das Problem: Diese Gedanken sind unbewusst. Die Person weiß nicht, dass das da 
 Die gute Nachricht ist: Es gibt klare Muster, die du erkennen kannst. Wenn du eines dieser Dinge bei dir selbst oder deinem Partner wiedererkennst, ist das ein Zeichen.
 
 
-> **Lesetipp:** [Bindungstypen verstehen: Der komplette Guide](/blog/attachment-styles-guide) | [Bindungstypen verstehen: Sicher, ängstlich oder vermeidend?](/blog/bindungstypen-verstehen-attachment)
+> **Lesetipp:** [Bindungstypen verstehen: Sicher, ängstlich oder vermeidend?](/blog/bindungstypen-verstehen-attachment)
 
 
 **Sabotage, wenn es zu gut wird.** Du bist glücklich mit deinem Partner, alles läuft super – und dann findest du plötzlich einen großen Fehler. Vielleicht hast du dich daran nie zuvor gestört, aber jetzt magst du die Art, wie er oder sie isst, nicht mehr. Oder wie er/sie lacht. Es ist klein und irrational, aber du kannst nicht aufhören, darüber nachzudenken. Und dann ist es dein Grund, um rauszugehen.
@@ -145,7 +145,6 @@ Das variiert. Manche Menschen sehen in einem Jahr echte Fortschritte. Andere bra
 
 ## Weiterlesen
 
-- [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
 - [Bindungstypen verstehen 2026: Der komplette Guide](/blog/attachment-styles-guide)
-- [Love Bombing erkennen und sich schützen](/blog/lovebombing-erkennen-schuetzen)
+- [Love Bombing erkennen und sich schützen](/blog/love-bombing-erkennen-schuetzen)
 

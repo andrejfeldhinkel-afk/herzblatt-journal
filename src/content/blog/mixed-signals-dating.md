@@ -51,41 +51,7 @@ Die Person ist ständig auf deinem Social Media – liked Fotos, kommentiert. Ab
 
 **5. Verliebt spielen + Wirklichkeit vermeiden**
 
-Beim Kinofilm schaut die Person dich [verliebt](/blog/mann-verliebt-anzeichen-komplett) an. Nachher am Bett gesteht die Person: „Du bedeutest mir viel." Aber Dinge wie „Sag mir, dass du mich magst" oder „Ich liebe dich" – plötzlich zieht sich die Person zurück. Die Emotionen sind da, aber nicht in definierten Begriffen.
-
-**6. Durchgehend erreichbar + verschwindender**
-
-Plötzlich – ohne Vorwarnung – antwortet die Person drei Tage nicht. Dann ist sie wieder da, als wäre nichts passiert. Keine Erklärung, keine Entschuldigung. Du fragst „Alles okay?" – und die Antwort ist vage. Das Muster wiederholt sich.
-
-**7. Plant gemeinsame Aktivitäten + macht diese nie konkret**
-
-„Wir sollten doch mal ins Kino gehen!" Und das klingt wie „Ja, lass machen!" – aber wenn du ein konkretes Datum vorschlagst, kommt die Person nicht voran. Es bleibt bei „Irgendwann, gerne!"
-
-**8. Großes Interesse + Langsamkeit in der Eskalation**
-
-Nach mehreren Monaten reden sie immer noch nicht über Beziehung. Nicht „Ich will keine Beziehung" – sondern einfach Ignorieren des Themas. Sie sind präsent, aber sie schreiten nicht voran.
-
-**9. Monogam-verhalten + Polygam-Worte**
-
-Die Person sieht dich mehrmals pro Woche, verbringt viel Zeit mit dir, hat keine anderen Dating-Partner (so weit du weißt). Aber wenn die Beziehung ein Thema wird, sagt sie „Ich bin noch nicht bereit für Exklusivität." Das Verhalten sagt eine Geschichte, die Worte eine andere.
-
-**10. Verbindung + Ablehnung von Labels**
-
-Ihr verbringt fast jeden Abend zusammen. Die Familie der Person kennt dich. Aber sie will nicht „Freund/in" oder „Partner/in" sein. „Label sind so veraltet!" – obwohl Labels nicht veraltet sind, sie sind Klarheit.
-
-**11. Eifersucht + Unbewusstsein**
-
-Die Person wird eifersüchtig, wenn du jemand anderen erwähnst. Sie möchte wissen, wer das ist, wie oft ihr euch seht. Aber wenn du fragst „Warum ist dir das wichtig?" – behauptet sie „Ich bin nicht eifersüchtig, mir ist nur aufgefallen…"
-
-**12. Hot and Cold – Enthusiasmus und Entfernung wechseln sich ab**
-
-Manchmal ist die Person dein größter Fan – enthusiastisch, present, liebevoll. Dann plötzlich distanziert, kalt, desinteressiert. Kein erkennbarer Grund. Das Muster wiederholt sich wie ein Rad.
-
-## Die Psychologie dahinter: Warum Menschen Mixed Signals geben
-
-Das Wichtigste: Wenn die Person dir Mixed Signals gibt, bedeutet das nicht automatisch, dass sie dich nicht mag. Es bedeutet, dass sie etwas Anderes durchmacht. Hier sind die hauptsächlichen psychologischen Gründe:
-
-**[Bindungsangst](/blog/bindungsangst-komplett-guide) (Anxious-Avoidant Dynamic)**
+Beim Kinofilm schaut die Person dich [Bindungsangst](/blog/bindungsangst-komplett-guide) (Anxious-Avoidant Dynamic)**
 
 Die Person mag dich – aber die Nähe triggert Fluchtinstinkt. Je näher du kommst, desto mehr zieht sie sich zurück. Das ist ein Schutzmechanismus. Sie fürchtet, verletzt zu werden, also zieht sie die Kontrolle zurück. Das Ergebnis: Sie ist nah, dann fern, dann nah wieder.
 
@@ -204,7 +170,6 @@ Ja, manchmal. Aber echte Interesse zeigt sich sogar in Zeiten von stress. Ein ku
 
 ## Weiterlesen
 
-- [Diese Signale senden Frauen beim Flirten](/blog/dating-signals-frauen)
 - [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
 

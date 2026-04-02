@@ -1,5 +1,5 @@
 ---
-title: "Toxic Positivity in Beziehungen: Wenn positiv denken schadet (2026)"
+title: "Toxic Positivity in Beziehungen: Wenn positiv denken schadet"
 description: "Toxic Positivity in Beziehungen: Warum \"denk positiv\" manchmal giftig ist. Echte Unterstützung statt oberflächliche Positionalität."
 date: 2026-04-01
 image: "/images/blog/toxische-positivitaet-beziehung.webp"
@@ -155,6 +155,5 @@ Das ist alles, was man braucht. Das ist, was Beziehungen heilt.
 ## Interne Links zu verwandten Inhalten
 
 Wenn Toxic Positivity in deiner Beziehung ein Problem ist, könnten auch diese Artikel helfen:
-- [Emotionale Sicherheit in Beziehungen: Was echte Nähe braucht](/blog/emotionale-sicherheit-beziehung)
-- [Grenzen setzen: Wie du "Nein" sagst ohne schuldig zu fühlen](/blog/grenzen-setzen)
-- [Paarkommunikation: Die unbequemen Gespräche führen](/blog/paarkommunikation-schwierig)
+- [Grenzen setzen: Wie du "Nein" sagst ohne schuldig zu fühlen](/blog/grenzen-setzen-beziehung)
+- [Paarkommunikation: Die unbequemen Gespräche führen](/blog/kommunikation-beziehung)

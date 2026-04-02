@@ -1,5 +1,5 @@
 ---
-title: "Finanzplanung als Paar – Geld ist nicht die Größte Herausforderung"
+title: "Finanzplanung als Paar – Geld ist nicht die Größte Heraus..."
 description: "Geld ist die Nummer-eins Grund für Paarkonflikte. Hier ist wie du und dein Partner finanzielle Harmonie erschaffst."
 keywords: ["finanzplanung als paar", "beziehung", "finanzen", "kommunikation", "zusammenleben", "vertrauen"]
 date: 2025-05-30

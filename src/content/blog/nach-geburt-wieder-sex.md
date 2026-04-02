@@ -37,58 +37,7 @@ Es ist ein großer Umbruch. Und wenn man das nicht versteht, kann es eine [bezie
 
 ## Die medizinische Realität: Was der Körper durchmacht
 
-Eine Geburt ist – ob vaginal oder per Kaiserschnitt – ein großes körperliches Trauma. Das ist nicht dramatisch gemeint, sondern wörtlich. Der Körper braucht Zeit zur [heilung](/blog/aengstlicher-bindungsstil-heilen/).
-
-**Nach vaginaler Geburt:**
-- Vaginalrisse oder Episiotomie-Schnitte brauchen 2-4 Wochen zur oberflächlichen Heilung
-- Die tieferen Gewebe brauchen 6-12 Wochen
-- Die Gebärmutter braucht 6 Wochen, um wieder auf normale Größe zu schrumpfen
-- Blutungen und Ausfluss können 4-6 Wochen andauern
-
-**Nach Kaiserschnitt:**
-- Die Bauchdecke ist durchschnitten – das ist eine größere Verletzung
-- Heilung braucht mindestens 6-8 Wochen
-- Die innere Narbe braucht länger
-- Bewegungen sind noch lange schmerzhaft
-
-**Hormonelle Veränderungen:**
-Nach der Geburt fällt der Östrogen- und Progesteronspiegel ab. Das führt zu Stimmungsschwankungen, Schlafstörungen und – wichtig – zu sexueller Lustlosigkeit. Das ist nicht psychisch, das ist chemisch.
-
-Wenn die Mutter stillt, senkt das hohe Prolaktin-Level noch weiter die Libido. Das ist evolutionär klug (weniger Sex = weniger schnelle neue Schwangerschaften), aber für die Beziehung eine Herausforderung.
-
-## Das emotionale Durcheinander
-
-Parallel zum körperlichen Chaos passiert psychologisch viel:
-
-Die neue Mutter ist im Überlebensmodus. Der Baby ist alles. Das ist nicht egoistisch – das ist Bindungs-Biologie. Sie ist hormonell gebunden, emotional fokussiert, kognitiv überlastet.
-
-Gleichzeitig hat sie oft Angst vor Schmerz. Sie fragt sich: Wird es weh tun? Wird die Narbe reißen? Ist mein Körper noch normal? Das sind legitime Ängste, oft aber ausgesprochen.
-
-Der andere Partner fühlt sich oft vergessen. Er liebt das Baby auch, aber er fehlt auch Aufmerksamkeit, Nähe, Sex. Diese Bedürfnisse sind legitimate – werden aber oft als egoistisch erlebt, wenn die Mutter in Überlebensmodus ist.
-
-Hier entsteht die kritische Spannung: Beide haben berechtigte Bedürfnisse, aber sie sind in völlig unterschiedlichen inneren Welten.
-
-## Die unrealistischen Erwartungen
-
-Das Erzählte-Script ist oft: Nach 6 Wochen, wenn der Arzt grünes Licht gibt, geht es wieder los. Einfach so. Der Körper ist heilen, also zurück zum Normalen.
-
-Das ist vollkommen unrealistisch.
-
-Ein Paar, das ich kenne, dachte genau das. Der Arzt gab Freigabe nach 6 Wochen. Der Partner war erleichtert. Die Mutter war verstört: „Wie kannst du erwarten, dass ich Sex will? Ich bin erschöpft, mein Körper tut weh, ich stelle meine Brüste fremden Menschen zur Verfügung (aka: zum Stillen), und jetzt soll auch noch mein Körper für Sex verfügbar sein?"
-
-Sie hatten einen großen Streit. Erst als sie darüber sprachen, verstand der Partner: Die medizinische Freigabe bedeutet nicht „jetzt ist wieder Normalität". Sie bedeutet: „Das Minimum von körperlicher Heilung ist da – aber emotional und psychologisch braucht es viel mehr Zeit."
-
-## Die typische Post-Baby-Sexualkrise
-
-Hier ist das klassische Muster:
-
-**Woche 1-6:** Kein Sex, weil medizinisch nicht möglich oder empfohlen. Das ist okay. Der Partner kann das verstehen.
-
-**Woche 6-12:** Der Arzt gibt grünes Licht. Der Partner hofft. Die Mutter hat null Lust. Sie sagt: „Gib mir Zeit." Der Partner wartet.
-
-**Woche 12-24:** Immer noch kein Sex. Der Partner wird frustriert: „Es ist schon 4 Monate!" Die Mutter fühlt sich gedrängt und wird noch weniger lustreich. Sie beginnt, den Sex zu vermeiden, weil der Druck so groß ist.
-
-**Monat 6-12:** Die Beziehung beginnt zu leiden. Es gibt weniger Nähe, mehr Frustration. Manchmal führt das zu Affären oder [Trennung](/blog/trennung-verarbeiten-12-schritte), weil das Verständnis aufgebraucht ist.
+Eine Geburt ist – ob vaginal oder per Kaiserschnitt – ein großes körperliches Trauma. Das ist nicht dramatisch gemeint, sondern wörtlich. Der Körper braucht Zeit zur [Trennung](/blog/trennung-verarbeiten-12-schritte), weil das Verständnis aufgebraucht ist.
 
 Das ist traurig – und meist vermeidbar.
 

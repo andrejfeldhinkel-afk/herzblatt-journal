@@ -327,7 +327,6 @@ Nachricht 1Nachricht 2-3Nachricht 4-5Nachricht 6-7Erste OpenerEngagement-FragenT
 
 ## Weiterlesen
 
-- [Die perfekte erste Nachricht beim Online-Dating](/blog/erste-nachricht-online-dating)
-- [Catfishing erkennen: So schützt du dich vor Fake-Profilen](/blog/catfishing-online-dating-schutz)
+- [Catfishing erkennen: So schützt du dich vor Fake-Profilen](/blog/catfishing-erkennen-schuetzen)
 - [Die perfekte erste Nachricht: Tipps für Dating-Apps](/blog/dating-erste-nachricht-tipps)
 

@@ -132,6 +132,5 @@ Wenn die Antwort nein ist, dann respektiere dich selbst genug zu gehen.
 ## Interne Links zu verwandten Inhalten
 
 Wenn dich emotionales Fremdgehen betrifft, könnten auch diese Artikel helfen:
-- [Untreue verzeihen: Ist eine Beziehung nach Fremdgehen zu retten?](/blog/fremdgehen-verzeihen-kompletter-guide)
 - [Vertrauen in Beziehungen: Wie du es wiederaufbaust nach Betrug](/blog/vertrauen-nach-betrug)
-- [Paarkommunikation: Die unbequemen Gespräche führen](/blog/paarkommunikation-schwierig)
+- [Paarkommunikation: Die unbequemen Gespräche führen](/blog/kommunikation-beziehung)

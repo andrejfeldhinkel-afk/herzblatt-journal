@@ -1,5 +1,5 @@
 ---
-title: "Sexuelle Kompatibilität in Beziehungen: Wenn Lust und Liebe nicht zusammenpassen"
+title: "Sexuelle Kompatibilität in Beziehungen"
 description: "Sexuelle Kompatibilität: Lerne, wie du Unterschiede in Libido, Vorlieben und sexuellem Begehren in deiner Beziehung navigierst. Praktische Tipps für erfüllte Intimität."
 date: 2026-03-29
 tags:
@@ -267,4 +267,4 @@ Aber gebt euch gegenseitig die Chance, zuerst zu verstehen. Das ist was echte Pa
 
 ---
 
-**Weitere Artikel zum Thema:** [Emotionale Nähe aufbauen](/blog/emotionale-nahe-aufbauen), [Körperliche Anziehung bewahren](/blog/anziehung-bewahren)
+**Weitere Artikel zum Thema:** [Körperliche Anziehung bewahren](/blog/beziehung-jahreszeiten)

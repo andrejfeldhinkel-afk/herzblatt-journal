@@ -1,5 +1,5 @@
 ---
-title: "Konfliktvermeidung in Beziehungen: Warum Harmonie manchmal gefährlich ist"
+title: "Konfliktvermeidung in Beziehungen"
 description: "Konfliktvermeidung verstehen: Warum ständige Harmonie deine Beziehung zerstört und wie du gesund mit Konflikten umgehen lernst."
 date: 2026-03-29
 tags:
@@ -246,4 +246,4 @@ Die Art, die dich näher zusammen bringt.
 
 ---
 
-**Weitere Ressourcen:** Lerne auch über [Kommunikation in Beziehungen](/beziehung-kommunikation-guide/) und [grenzensetzen](/grenzen-in-beziehungen/).
+**Weitere Ressourcen:** Lerne auch über [Kommunikation in Beziehungen](/blog/beziehung-kommunikation-gewaltfreie) und [grenzensetzen](/blog/grenzen-setzen-beziehung).

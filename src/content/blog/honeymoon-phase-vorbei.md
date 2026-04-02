@@ -34,29 +34,7 @@ Und jetzt?
 
 Jetzt sitzt ihr zusammen, und es ist... normal. Manchmal sogar ein bisschen langweilig. Die Schmetterlinge sind weg. Das Kribbeln in der Magengegend, das dich morgens geweckt hat, ist verschwunden. Stattdessen gibt es einen sanfteren Zustand — weniger Drama, weniger Dramatik, aber auch weniger dieses intensiven Gefühls, das sich wie Fliegen anfühlte. Und jetzt fragst du dich: Ist das normal? Habe ich einen Fehler gemacht? Haben wir das richtige verloren?
 
-Hier ist die Wahrheit, die dir vielleicht niemand gesagt hat: Das ist die beste Zeit in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/). Nicht die schlimmste. Nicht das Ende. Der Anfang davon, dass echte Liebe beginnt.
-
-Die Honeymoon-Phase ist nicht das Problem. Sie war immer nur eine Übergangsphase — eine wunderbare, berauschende Übergangsphase, aber eine Übergangsphase trotzdem. Und das Ende dieser Phase ist nicht das Ende der Liebe. Es ist der Anfang einer anderen Art von Liebe. Einer besseren Art.
-
-Lass mich dir zeigen, warum.
-
-## Was ist die Honeymoon-Phase? — Die Wissenschaft dahinter
-
-Die Honeymoon-Phase (auch "Verliebtheitsphase" oder "Honeymoon Period" genannt) ist das, was Beziehungsforscher als eine Periode intensiver emotionaler und romantischer Aktivität definieren. Es ist normalerweise der erste Abschnitt einer romantischen Beziehung, der typischerweise zwischen sechs Monaten und zwei Jahren dauert — manchmal auch länger, manchmal kürzer.
-
-Aber hier ist das Wichtige: Es ist nicht einfach nur "schöne Gefühle haben". Es ist ein komplexer biologischer Prozess, der dein Gehirn, dein Nervensystem und deine Hormonstoffwechsel auf eine ganz spezifische Weise verändert. Dein Körper ist buchstäblich im Rausch.
-
-Die Honeymoon-Phase ist ein Phänomen, das über alle Kulturen hinweg auftritt. Ob in Skandinavien, in Japan, in Brasilien oder in Ägypten — Menschen verlieben sich, und diese Verliebtheit folgt einem ähnlichen Muster. Das deutet darauf hin, dass dies keine kulturelle Konstruktion ist, sondern etwas Fundamentales in unserer menschlichen Neurobiologie.
-
-Barbara Fredrickson, eine Forscherin an der Universität North Carolina, hat herausgefunden, dass die Honeymoon-Phase unsere Gehirne buchstäblich verändert. Während dieser Phase sind unsere Gehirne in einem Zustand, der dem ähnelt, in dem sich unsere Brains befinden, wenn wir Drogen nehmen. Das ist keine Übertreibung. Das ist Wissenschaft.
-
-In der Honeymoon-Phase sehen wir unseren Partner durch eine Art Liebesfilter. Wir ignorieren Fehler oder erkennen sie gar nicht erst. Wenn dein Partner beim Frühstück mit vollem Mund spricht, findest du das vielleicht charmant und lustig. Wenn er oder sie eine Macke hat — sagen wir, dass sie/er ihre Socken überall liegen lässt — naja, das ist süß, irgendwie. Das ist Teil ihres/seines Charmes.
-
-Das ist nicht, weil du blind bist (obwohl sich das so anfühlt). Das ist Neurochemie.
-
-## Die Neurochemie der Verliebtheit: Dopamin, Oxytocin & Co.
-
-Wenn du [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, passieren in deinem Gehirn mehrere Dinge gleichzeitig. Lass mich dir die wichtigsten Akteure in diesem neurochemischen Drama zeigen:
+Hier ist die Wahrheit, die dir vielleicht niemand gesagt hat: Das ist die beste Zeit in einer [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, passieren in deinem Gehirn mehrere Dinge gleichzeitig. Lass mich dir die wichtigsten Akteure in diesem neurochemischen Drama zeigen:
 
 **Dopamin:** Das ist der Star des Ganzen. Dopamin ist der Neurotransmitter, der mit Verlangen und Lust verbunden ist. Wenn du deinen Partner siehst oder an ihn oder sie denkst, schüttet dein Gehirn Dopamin aus. Das erzeugt dieses süchtig machende Gefühl — du willst dich in seiner Nähe aufhalten, du willst mehr Zeit mit ihm oder ihr verbringen, du kannst nicht aufhören darüber nachzudenken.
 
@@ -166,151 +144,7 @@ Hier ist, wie du unterscheidest zwischen "Das ist normal" und "Das ist ein echte
 - Ihr behandelt euch gegenseitig respektlos oder mit Verachtung
 - Es gibt keine emotionale Nähe mehr — ihr seid wie Mitbewohner
 - Betrügerei oder emotionale Untreue ist passiert
-- [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) ist zusammengebrochen und ihr könnt nicht miteinander reden
-- Ein oder beide Partner wollen nicht mehr arbeiten an der Beziehung
-- Es gibt physische oder emotionale Missbrauch
-- Ihr habt völlig unterschiedliche Zukunftsziele
-
-**Wenn es normal ist, merkst du Folgendes:**
-
-- Du magst deinen Partner immer noch und freust dich darauf, ihn/sie zu sehen — nur nicht mit dieser intensiven Aufregung von früher
-- Du hast das Gefühl, dass dein Partner dich noch versteht und du ihn/sie noch verstehst
-- Wenn etwas Schlechtes passiert (du hast einen schlechten Tag, dein Partner ist krank), ist dein erster Gedanke, sie/ihn zu unterstützen oder zu helfen
-- Ihr könnt über fast alles miteinander sprechen
-- Sex und körperliche Nähe sind immer noch wichtig und erfüllend, auch wenn sie weniger häufig oder anders sind
-- Wenn dein Partner von dir weggehen würde, würde es dir wirklich weh tun
-- Du siehst eine gemeinsame Zukunft — nicht als romantische Fantasie, sondern als etwas, das du wirklich willst
-
-**Wenn es ein echtes Problem ist, merkst du Folgendes:**
-
-- Du kannst über Dinge nicht miteinander sprechen, ohne dass es zu einem großen Kampf wird
-- Du fragst dich regelmäßig, ob du deinen Partner überhaupt magst
-- Wenn etwas Schlechtes mit deinem Partner passiert, ist deine erste Reaktion nicht Sorge, sondern Frustration oder Gleichgültigkeit
-- Du hast weniger Interesse an Sex und körperlicher Nähe — nicht weil die Novelty abgelaufen ist, sondern weil du dich zu deinem Partner nicht hingezogen fühlst
-- Es gibt ein chronisches Gefühl von Unglücklichkeit, wenn du mit deinem Partner zusammen bist
-- Du fantasierst regelmäßig darüber, dich zu trennen
-- Du hast das Gefühl, dass dein Partner dich nicht versteht und dir egal ist, ob sie/er dich versteht
-
-Die Wahrheit ist: Das Ende der Honeymoon-Phase ist ein Moment der Wahrheit. Es ist der Punkt, an dem du herausfindest, ob deine Beziehung auf einem festen Fundament steht oder ob sie nur auf Rausch und Neuheit gebaut war. Es ist nicht schmerzhaft, weil etwas kaputt ist. Es ist schmerzhaft, weil es real wird.
-
-## Die 5 Beziehungsphasen nach der Honeymoon-Phase
-
-Also, die Honeymoon-Phase ist vorbei. Was kommt jetzt? Lässt du die Beziehung einfach dahinplätschern? Versuchst du, sie zurückzugewinnen? Oder gibt es einen natürlichen Verlauf, den Beziehungen nehmen?
-
-Es gibt tatsächlich ein vorhersehbares Muster, das Beziehungen nach der Honeymoon-Phase folgen. Psychologen und Beziehungsforscher haben fünf Hauptphasen identifiziert, die Paare durchlaufen. Das Verstehen dieser Phasen kann dir helfen, zu sehen, wo du bist und was normalerweise kommt.
-
-**Phase 1: Die Ernüchterung (etwa 6-12 Monate nach Anfang, oder Monate 6-18 der Beziehung)**
-
-Das ist, wo die meisten Paare sich jetzt befinden, wenn sie diesen Artikel lesen. Die Neurochemie normalisiert sich. Du siehst Fehler. Konflikte erscheinen. Es ist nicht mehr magisch.
-
-In dieser Phase braucht es bewusste Anstrengung, um die Beziehung am Leben zu halten. Du kannst nicht mehr darauf verlassen, dass die Neurochemie dich trägt. Diese Phase kann sehr schwierig sein, weil es sich anfühlt, als würde die Liebe sterben, wenn sie sich tatsächlich nur verändert.
-
-**Phase 2: Der Machtkampf (etwa 12-24 Monate, manchmal länger)**
-
-Dies ist die Phase, in der Unterschiede zu Konflikten werden. Du hast andere Ansichten über Geld. Dein Partner möchte mehr sozialen Kontakt, du möchtest dich zurückziehen. Eine von euch möchte Kinder, die andere möchte nicht. Diese Unterschiede waren immer dort, aber in der Honeymoon-Phase schien es nicht zu kümmern.
-
-Jetzt kümmert es. Dies ist die Phase, in der etwa 60% der Paare sich trennen. Es ist nicht, weil sie die falsche Person gefunden haben. Es ist, weil sie nicht gelernt haben, mit echten, substantiellen Unterschieden umzugehen.
-
-**Phase 3: Die Stabilisierung (etwa 24-36 Monate)**
-
-Wenn ihr die Phase zwei durchmacht, kommt ihr zur Stabilisierung. Das ist der Punkt, an dem du verstanden hast, dass dein Partner nicht perfekt ist, und du hast dich damit abgefunden. Dein Partner hat gelernt, dass du nicht perfekt bist, und hat sich damit abgefunden.
-
-Dies ist nicht eine Phase, in der die Liebe am stärksten ist, aber es ist eine Phase, in der sie am stabilsten ist. Du weißt, wo du mit deinem Partner stehst. Es gibt weniger Drama, weniger Überraschungen. Aber es gibt auch mehr Sicherheit.
-
-**Phase 4: Die echte Liebe (etwa 3+ Jahre)**
-
-Dies ist der Punkt, an dem echte Liebe beginnt. Dies ist nicht das Neuheit-getriebene Gefühl der Honeymoon-Phase. Dies ist die bewusste Entscheidung, jeden Tag für diese Person da zu sein. Dies ist das Gefühl, wenn dein Partner krank ist und du ihn/sie pflegst. Dies ist die Tiefe, wenn ihr beide alt werdet und seht, wie sich euer Leben entwickelt.
-
-**Phase 5: Die Langfrist-Liebe (5+ Jahre, 10+ Jahre, ganzes Leben)**
-
-Dies ist, wo die glücklichsten Paare sind. Dies ist, wenn du nicht nur sicher weißt, dass du diese Person liebst, sondern auch, dass ihr zusammen älter werdet. Es gibt eine tiefe Vereinigung — nicht weil es aufregend ist, sondern weil es recht ist.
-
-## Der Machtkampf — die Phase die die meisten Paare trennt
-
-Ich möchte besonders auf die Machtkampf-Phase eingehen, denn das ist, wo die meisten Beziehungen fallen. Das ist, wo die Schmerzen real werden. Das ist, wo dein Partner nicht mehr dein Traumpartner ist — das ist, wo sie/er ein echter Mensch mit echten, unterschiedlichen Meinungen ist.
-
-Der Machtkampf ist nicht ein Fehler. Es ist nicht ein Zeichen, dass eure Beziehung vorbei ist. Es ist ein Entwicklungszeichen. Es bedeutet, dass du aus der Verliebtheit in die echte Liebe übergehst.
-
-Was passiert in der Machtkampf-Phase?
-
-Du fängst an zu realisieren, dass dein Partner nicht hier ist, um dich zu retten. Er/sie ist nicht hier, um all deine emotionalen Bedürfnisse zu erfüllen. Er/sie ist hier, um mit dir sein Leben zu teilen. Aber sie/er hat ihre/seine eigenen Bedürfnisse, ihre/seine eigenen Grenzen, ihre/seinen eigenen Willen.
-
-Und dein Partner realisiert das gleiche über dich.
-
-In der Honeymoon-Phase schien dein Partner unendlich verfügbar zu sein. Sie/er wollte immer Zeit mit dir verbringen. Jetzt hat sie/er Grenzen. Sie/er möchte manchmal allein sein. Sie/er möchte Zeit mit ihren/seinen Freunden verbringen. Sie/er möchte vielleicht nicht immer Sex mit dir haben.
-
-Das kann sich wie ein Verlust anfühlen. Aber es ist tatsächlich ein notwendiger Übergang zu einer gesünderen Beziehung.
-
-In der Machtkampf-Phase lernt ihr, wie ihr Konflikte löst. Ihr lernt, mit Unterschieden umzugehen. Ihr lernt, neuzuverhandeln, wer ihr zusammen sein werdet.
-
-Viele Paare werden in dieser Phase ängstlich. Sie beginnen zu denken, dass etwas falsch ist, weil es nicht mehr magisch ist. Sie beginnen nach Wegen zu suchen, um die Honeymoon-Phase zurückzubekommen. Sie beginnen zu kämpfen, um die Aufregung zurückzubekommen. Und wenn das nicht funktioniert, beginnen sie, nach anderen Partnern zu suchen, die sie wieder in die Honeymoon-Phase bringen können.
-
-Das ist der Punkt, an dem Affären passieren. Das ist der Punkt, an dem Trennungen passieren.
-
-Aber hier ist, was diese Paare nicht verstehen: Die Honeymoon-Phase war nie für die Langfristigkeit gedacht. Es war ein Neuigkeit-Ding. Sobald die Neuheit weg ist, müssen Sie etwas anderes bauen.
-
-Die Paare, die durchkommen, sind die, die bereit sind, etwas anderes zu bauen.
-
-## Warum manche Paare süchtig nach der Honeymoon-Phase werden
-
-Es gibt Menschen — und du kennst vielleicht einen oder mehrere von ihnen — die immer in neuen Beziehungen sind. Sie datieren jemanden für sechs Monate oder ein Jahr, und dann, sobald die Honeymoon-Phase endet, brechen sie auf und suchen nach jemand anderem. Sie machen dies immer wieder, und sie haben immer die gleiche Ausrede: "Ich bin einfach nicht in diese Person verliebt genug."
-
-Das ist nicht wahr. Das ist nicht der Grund. Der Grund ist, dass sie süchtig nach der Honeymoon-Phase sind. Sie lieben nicht die Liebe. Sie lieben das Gefühl von Verliebtheit.
-
-Dies ist eine echte psychologische Sache, und es hat einige praktische Wurzeln.
-
-Zunächst einmal ist die Honeymoon-Phase ein echtes Dopamin-Hit. Dein Gehirn wird regelmäßig mit Dopamin getroffen — mit dem "Wohlfühl"-Neurotransmitter, der dich fühlen lässt wie Millionen. Nach einer Weile brauchst du diesen Hit. Du wirst daran abhängig. Und wenn dein Gehirn aufhört, diesen Hit zu bekommen (weil die Honeymoon-Phase endet), suchst du nach jemandem anderen, der dir den Hit wieder geben kann.
-
-Zweitens ist die Honeymoon-Phase ein "sicheres" Gefühl. Es fühlt sich an wie die Liebe ist garantiert. Es gibt keine Unsicherheit. Es gibt keine echten Probleme zu lösen. Es ist einfach — es ist einfach Gefühle. Echte Liebe ist kompliziert. Es erfordert Arbeit. Es erfordert, mit Unterschieden umzugehen. Es erfordert echte Engagement.
-
-Für manche Menschen ist dies zu überwältigend. Sie werden ängstlich, wenn die Honeymoon-Phase endet. Sie haben Angst, dass sie nicht genug lieben. Sie haben Angst, dass sie etwas Besseres vermissen. Und bevor sie damit umgehen müssen, brechen sie einfach ab und finden jemanden neues.
-
-Das ist auch, warum Menschen in Serie von schnellen Beziehungen landen — drei Monate hier, sechs Monate dort. Sie haben gelernt, dass nach ungefähr dieser Zeitspanne die Honeymoon-Phase endet, also haben sie ein Timing entwickelt, um zu brechen, bevor es weh tut.
-
-Das Traurige daran ist, dass diese Menschen echte, tiefe Liebe nie erleben werden. Sie werden die beste Art von Liebe nie fühlen — die echte, bewusst gewählte Liebe, die kommt, wenn du mit jemandem alt wirst.
-
-Aber das ist ein anderes Artikel. Lass mich dir sagen, dass wenn du jemandem kennst, der das tut, versuche nicht, ihn zu ändern. Das ist eine echte psychologische Sache, und es erfordert echte Arbeit an sich selbst, um es zu überwinden.
-
-## Serial Dater: Wenn du nur die Anfangsphase liebst
-
-Okay, was ist, wenn das du bist? Was ist, wenn du herausgefunden hast, dass du die Person bist, die immer neue Beziehungen startet und sich langweilt, sobald sie sich der Normalität nähern?
-
-Das ist nicht etwas, das du verstecken musst. Das ist nicht etwas, das dich zu einer schlechten Person macht. Das ist etwas, das bedeutet, dass du möglicherweise einen anderen Denkweg über Liebe brauchst.
-
-Zunächst, hier ist, was wissenschaftlich über "Serial Daters" oder "Beziehungs-Hüpfer" bekannt ist:
-
-1. Sie werden oft ohne ein echtes, stabiles Modell der Liebe aufgewachsen. Vielleicht hatten ihre Eltern nicht die beste Beziehung. Vielleicht waren sie selbst das Kind von Multiple Divorces. Vielleicht wurden sie gelehrt, dass Liebe ein Gefühl ist, nicht eine Entscheidung.
-
-2. Sie haben oft eine hohe Sensibilität gegenüber Dopamin. Sie "jagen" nach dem Dopamin-Hit. Sie brauchen die Aufregung, um sich lebendig zu fühlen.
-
-3. Sie haben oft ein tieferes Problem mit Verbindung oder Nähe. Sobald eine Beziehung zu intim wird oder zu real, werden sie Angst. Also brechen sie es auf, bevor sie wirklich verletzlich werden müssen.
-
-Wenn das du bist, hier ist, was du wissen musst: Du kannst ändern. Aber es erfordert echte Arbeit.
-
-Du musst lernen, dass Liebe ein Gefühl UND eine Entscheidung ist. Die Honeymoon-Phase wird enden. Das ist nicht eine Enttäuschung. Das ist ein Feature, nicht ein Bug. Und wenn es endet, musst du eine Entscheidung treffen: Willst du diese Person wirklich in deinem Leben haben? Und wenn ja, musst du bereit sein, echte, tiefe Arbeit zu tun, um diese Beziehung zu bauen.
-
-Das ist viel schwerer als Verliebtheit. Aber es ist auch viel besser.
-
-## Der Unterschied zwischen nachlassender Verliebtheit und Entlieben
-
-Hier ist die Millionen-Dollar-Frage, die viele Menschen bei sich selbst stellen: Bin ich einfach nicht mehr verliebt, oder bin ich aus der Liebe rausgefallen?
-
-Das ist die Frage, die dich nachts wach hält. Und das ist eine sehr schwierige Frage zu beantworten, weil der Unterschied manchmal sehr subtil ist.
-
-Lass mich versuchen, es für dich zu unterstützen.
-
-**Nachlassende Verliebtheit ist:**
-
-- Ein natürlicher neurochemischer Übergang. Die Intensität sinkt, aber der Gefühl bleibt.
-- Du magst deinen Partner immer noch grundsätzlich. Wenn du sehen würdest, dass sie/er verletzt wird, würde es dir weh tun.
-- Du kannst über tiefe Dinge mit ihnen sprechen und fühlst dich verstanden.
-- Sex oder körperliche Nähe fühlt sich immer noch wie Verbindung an, auch wenn sie unterschiedlich ist.
-- Es gibt gute Tage und schlechte Tage, aber insgesamt, würde es dir weh tun, wenn diese Person weggehen würde.
-- Du siehst ihre/seine Fehler und magst sie trotzdem.
-
-**Aus der Liebe rausfallen ist:**
-
-- Ein tieferes Missverstehen oder eine [Trennung](/blog/trennung-verarbeiten-12-schritte). Es ist nicht nur, dass die Intensität weniger ist. Es ist, dass die Verbindung nicht mehr da ist.
+- [Trennung](/blog/trennung-verarbeiten-12-schritte). Es ist nicht nur, dass die Intensität weniger ist. Es ist, dass die Verbindung nicht mehr da ist.
 - Du magst deinen Partner grundsätzlich nicht. Du wünschst dir, dass dein Leben ohne diese Person einfacher wäre.
 - Du kannst nicht über tiefe Dinge mit ihnen sprechen, weil du nicht glaubst, dass sie dich wirklich verstehen oder es ihm nicht egal ist.
 - Sex oder körperliche Nähe fühlt sich eher wie eine Pflicht an als wie eine Verbindung. Du möchtest nicht mit dieser Person körperlich intim sein.
@@ -759,11 +593,11 @@ Die Schmetterlinge werden gehen. Aber die echte Liebe bleibt. Und das ist besser
 
 ## Interne Verlinkungen
 
-- [Schmetterlinge im Bauch — Was das bedeutet](/schmetterlinge-im-bauch-bedeutung)
-- [Beziehung auffrischen — 30 konkrete Ideen](/beziehung-auffrischen-ideen)
-- [Beziehung Langeweile überwinden — Ein praktischer Leitfaden](/beziehung-langeweile-ueberwinden)
-- [Liebe oder Gewohnheit — Der ehrliche Test](/liebe-oder-gewohnheit-test)
-- [Date Nights in Langzeitbeziehungen — Warum sie funktionieren](/date-nights-langzeitbeziehung)
+- [Schmetterlinge im Bauch — Was das bedeutet](/blog/schmetterlinge-im-bauch-bedeutung)
+- [Beziehung auffrischen — 30 konkrete Ideen](/blog/beziehung-auffrischen-ideen)
+- [Beziehung Langeweile überwinden — Ein praktischer Leitfaden](/blog/beziehung-langeweile-ueberwinden)
+- [Liebe oder Gewohnheit — Der ehrliche Test](/blog/liebe-oder-gewohnheit-test)
+- [Date Nights in Langzeitbeziehungen — Warum sie funktionieren](/blog/date-nights-langzeitbeziehung)
 ## Weiterlesen
 
 - [Wenn die Schmetterlinge vergehen: Warum das der wahre Beginn](/blog/beziehung-wenn-schmetterlinge-vergehen/)

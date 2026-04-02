@@ -1,5 +1,5 @@
 ---
-title: "Unterschiedliche Liebessprachen: Wenn ihr euch liebt aber nicht versteht"
+title: "Unterschiedliche Liebessprachen"
 description: "Liebessprachen verstehen: Lerne die 5 Love Languages und wie du überwinde Mismatch mit deinem Partner."
 date: 2026-03-29
 tags:
@@ -35,17 +35,7 @@ Das ist die Tragödie von Liebessprachen-Mismatch.
 
 ## Die 5 Liebessprachen: Ein tieferer Überblick
 
-Gary Chapman popularisierte die Idee von "[Love Languages](/blog/love-languages-komplett-guide)" oder "Liebessprachen" — die fundamentalen Wege, in denen Menschen Liebe ausdrücken und lernen, Liebe zu fühlen.
-
-Die meisten Menschen denken, dass Liebe universell ist. Dass wenn man jemanden liebt, zeigt man das auf eine bestimmte Weise, und die andere Person versteht das automatisch.
-
-Aber das ist nicht wahr. Liebe wird in verschiedenen Dialekten gesprochen. Und wenn dein Dialekt anders ist als der Dialekt deines Partners, sprechen ihr Aneinander vorbei.
-
-### Liebessprache 1: Wörter der Affirmation
-
-Diese Menschen brauchen verbale Bestätigung. Sie brauchen zu hören, nicht nur zu sehen oder zu spüren, dass sie geliebt werden.
-
-Das sind nicht oberflächliche [Komplimente](/blog/komplimente-fuer-maenner) — "Du siehst schön aus heute." Das sind echte, spezifische, echte Worte:
+Gary Chapman popularisierte die Idee von "[Komplimente](/blog/komplimente-fuer-maenner) — "Du siehst schön aus heute." Das sind echte, spezifische, echte Worte:
 
 "Ich liebe deine Geduld und wie du mit Herausforderungen umgehst."
 
@@ -207,4 +197,4 @@ Das ändert alles.
 
 ---
 
-**Verwandte Artikel:** Erfahre auch über [Kommunikation in Beziehungen](/beziehung-kommunikation/) und [emotionale Verbindung](/emotionale-intimität-guide/).
+**Verwandte Artikel:** Erfahre auch über [Kommunikation in Beziehungen](/blog/beziehung-offene-kommunikation) und [emotionale Verbindung](/blog/emotionale-naehe-beziehung-tipps).

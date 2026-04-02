@@ -292,7 +292,6 @@ Sag es trotzdem. Fühle es später. Dankbarkeit ist auch eine Praxis, nicht nur 
 
 ## Weiterlesen
 
-- [Emotionale Sicherheit: Das Fundament aller Liebe](/blog/beziehung-sicherheit-schaffen)
 - [Alte Verletzungen heilen: Wie deine Vergangenheit deine](/blog/beziehung-heilen-verletzungen)
 - [Nähe und Distanz: Die Balance in glücklichen Paaren](/blog/beziehung-nahe-distanz-balance)
 

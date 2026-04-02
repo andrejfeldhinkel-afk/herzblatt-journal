@@ -359,6 +359,5 @@ Bist du bereit?
 ## Das könnte dich auch interessieren
 
 - [Dating nach einer Abtreibung](/blog/dating-nach-abtreibung-gefuehle/)
-- [Dating nach einer narzisstischen Beziehung](/blog/dating-nach-narcissistischer-beziehung/)
 - [Dating nach einer [Ghosting](/blog/ghosting-komplett-guide)-Erfahrung](/blog/dating-nach-ghosting-erfahrung/)
 - [Dating nach einer Therapie](/blog/dating-nach-therapie/)

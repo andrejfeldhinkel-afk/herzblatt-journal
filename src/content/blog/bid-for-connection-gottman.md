@@ -1,5 +1,5 @@
 ---
-title: "Bid for Connection: Wie kleine Gesten Beziehungen retten (2026)"
+title: "Bid for Connection: Wie kleine Gesten Beziehungen retten"
 description: "Gottmans Bid for Connection: Kleine Zeichen der Liebe & wie du darauf antwortest. Beziehungen mit kleinen Momenten stärken"
 date: 2026-04-01
 image: "/images/blog/bid-for-connection-gottman.webp"
@@ -228,4 +228,4 @@ Die stärksten Beziehungen sind nicht auf großen Momenten gebaut. Sie sind auf 
 
 ---
 
-**Möchtest du mehr über [Sound Relationship House](/blog/gottman-sound-relationship-house) oder [Fearful Avoidant Bindungsstil](/blog/fearful-avoidant-attachment-guide) erfahren?**
+**Möchtest du mehr über [Fearful Avoidant Bindungsstil](/blog/fearful-avoidant-attachment-guide) erfahren?**

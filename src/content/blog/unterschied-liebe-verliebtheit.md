@@ -20,11 +20,7 @@ faq:
 ---
 ## Liebe vs. Verliebtheit
 
-Im ersten Stadium der [beziehung](/blog/adhs-und-beziehung-komplett-guide/) sind Schmetterlinge dein ständiger Begleiter. Sein Name genügt, und du lächelst unwillkürlich. Du stellst dir vor, wie eure Zukunft aussieht — verheiratet, zwei Kinder, ein Haus. Aber ist das Liebe oder nur Verliebtheit? Die Antwort ist: Anfangs ist es Verliebtheit, nicht Liebe. Und es ist wichtig, dass du den Unterschied kennst.
-
-## Die Chemie der Verliebtheit
-
-Wenn du [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, schüttet dein Gehirn Phenylethylamin, Dopamin und Noradrenalin aus. Das sind die gleichen Chemikalien, die bei Drogenkonsum aktiviert werden. Dein Realitätssinn wird blockiert. Fehler deines Partners werden ignoriert, seine besseren Seiten werden überbewertet. Du siehst nicht den Menschen, du siehst ein Idealbild.
+Im ersten Stadium der [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, schüttet dein Gehirn Phenylethylamin, Dopamin und Noradrenalin aus. Das sind die gleichen Chemikalien, die bei Drogenkonsum aktiviert werden. Dein Realitätssinn wird blockiert. Fehler deines Partners werden ignoriert, seine besseren Seiten werden überbewertet. Du siehst nicht den Menschen, du siehst ein Idealbild.
 
 Verliebtheit hält in der Regel zwei bis drei Jahre, manchmal auch nur wenige Monate. Es ist ein biologischer Prozess — nicht etwas, das du kontrollieren kannst. Der Körper raus aus dem Rausch, und hier beginnt die echte Arbeit.
 
@@ -44,19 +40,7 @@ Irgendwann — meist zwischen Monat 6 und 2 Jahren — beginnt die Verliebtheit 
 
 In dieser Phase verlieren viele Menschen ihre Partnerschaften. Sie denken: "Das Gefühl ist weg, also war es falsch." Sie verwechseln das Ausbleiben der Verliebtheit mit dem Ausbleiben von Liebe. Es ist nicht dasselbe.
 
-Das ist die Phase, in der du hart an der Beziehung arbeiten musst. [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/), Kompromisse, gegenseitiges Verständnis. Wenn du diese Phase überstehst, entsteht echte Liebe.
-
-## Wie erkennst du, ob es Liebe oder Verliebtheit ist?
-
-Frag dich: Liebst du diese Person, weil sie "perfekt" ist für dich, oder liebst du sie, obwohl sie nicht perfekt ist? Verliebtheit ist "du bist perfekt für mich." Liebe ist "du bist unvollkommen, und ich liebe dich trotzdem."
-
-Kannst du für diese Person leiden? Kannst du ihre Tränen ertragen, ohne sie zu reparieren, sie einfach zu halten? Das ist Liebe. Verliebtheit will das andere Gefühl "glücklich" machen.
-
-Willst du mit dieser Person alt werden? Nicht weil es romantisch ist, sondern weil du es wirklich willst, alle Laster und Tugenden inbegriffen? Das ist Liebe.
-
-## Die Warnung vor "Verliebtheit-Illusion"
-
-Die größte Falle ist, Verliebtheit mit Liebe zu verwechseln und zu schnell große Entscheidungen zu treffen. "Lass uns [zusammenziehen](/blog/zusammenziehen-checkliste), lass uns heiraten, lass uns ein Kind bekommen" — im Stadium der Verliebtheit sind diese Entscheidungen blauäugig.
+Das ist die Phase, in der du hart an der Beziehung arbeiten musst. [zusammenziehen](/blog/zusammenziehen-checkliste), lass uns heiraten, lass uns ein Kind bekommen" — im Stadium der Verliebtheit sind diese Entscheidungen blauäugig.
 
 Mehr zum Thema erfährst du auf Psychologie Heute: [Psychologie Heute](https://www.psychologie-heute.de/)
 

@@ -23,33 +23,7 @@ Mit 40 hast Du genug gelebt, um zu wissen, wer Du bist. Deine Insicherheiten sin
 Das macht Dich attraktiv. Menschen werden von Authentizität angezogen, nicht von Perfektheit.
 
 ### Du weißt, was Du brauchst
-Du hast Beziehungen gehabt. Vielleicht war eine schmerzhaft. Aber Du hast gelernt. Du weißt jetzt: Ich brauche [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/). Ich brauche Raum. Ich brauche jemanden, der ehrlich ist.
-
-Das macht Dich selektiv – nicht in einer kalten Weise, sondern in einer selbstbewussten Weise.
-
-### Du hast weniger Druck
-Mit 25 gabst Du jedem eine Chance, weil Deine biologische Uhr tickt oder weil Du Angst hattest, allein zu bleiben. Mit 40 wählst Du bewusster.
-
-### Du bist emotionaler reif
-Drama macht Dir weniger Spaß. Du interessierst Dich nicht für Spielchen. Das macht Deine Beziehungen tiefgründiger.
-
-## Die Herausforderungen
-
-### Das Feld ist kleiner
-Weniger Menschen in Deinem Alter sind Single. Das ist real. Aber es bedeutet auch, dass die Singles in Deinem Alter oft bewusster daten.
-
-### Vielleicht hast Du Kinder
-Das kompliziert Dating. Das ist real. Aber es bedeutet auch, dass Du jemanden findest, der bereit ist, ein fertiges Leben zu akzeptieren.
-
-### Deine Erwartungen sind höher
-Das ist nicht schlecht. Das ist gut. Aber es bedeutet, dass weniger Menschen den Standard erfüllen. Das kann frustrierend sein.
-
-## Wie Du erfolgreich ab 40 datest
-
-### Sein auf den richtigen Plattformen
-Dating-Apps sind nicht nur für Junge. Viele Menschen ab 40 nutzen sie. Aber wähle die richtigen Apps.
-
-Apps wie Bumble oder [Hinge](/blog/hinge-guide-deutsch-2026) funktionieren besser für Menschen, die Tiefe suchen. Tinder ist zu oberflächlich für die meisten ab 40.
+Du hast Beziehungen gehabt. Vielleicht war eine schmerzhaft. Aber Du hast gelernt. Du weißt jetzt: Ich brauche [Hinge](/blog/hinge-guide-deutsch-2026) funktionieren besser für Menschen, die Tiefe suchen. Tinder ist zu oberflächlich für die meisten ab 40.
 
 ### Sei authentisch in Deinem Profil
 Nutze ein echtes Foto. Das muss nicht model-würdig sein. Es sollte wie Du aussehen.

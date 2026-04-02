@@ -1,5 +1,5 @@
 ---
-title: "Verliebt in Kollegen: Was du wissen musst – Ein ehrlicher Guide"
+title: "Verliebt in Kollegen: Was du wissen musst"
 description: "Du bist in einen Kollegen verliebt? Lerne die Risiken, die besten Strategien und wie du professionell damit umgehst."
 date: 2026-04-02
 tags: [liebe, arbeitsplatz, kollegen, berufliche-grenzen, dating-tipps]
@@ -172,6 +172,5 @@ Am Ende des Tages musst du auf deine Intuition vertrauen. Kennt die Dynamik, ken
 Egal ob du sprichst oder nicht, ob es funktioniert oder nicht – deine Karriere und dein emotionales Wohlbefinden müssen erste Priorität bleiben. Die Liebe ist schön, aber sie ist nicht mehr als deine Stabilität und dein Frieden.
 
 **Weitere hilfreiche Artikel:**
-- [Verliebt in deine beste Freundin – Was nun?](/blog/verliebt-in-beste-freundin)
 - [Wie du deinen Schwarm ansprichst – Mit Mut und Authentizität](/blog/schwarm-ansprechen-tipps)
 - [Emotionale Abhängigkeit erkennen und überwinden](/blog/emotionale-abhaengigkeit-test-selbstcheck)

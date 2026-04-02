@@ -118,13 +118,7 @@ Dies gibt ihnen drei klare Optionen:
 Basierend auf ihrer Antwort:
 
 **Wenn sie sagen „Ja, ich möchte eine Beziehung":**
-- Setzen Sie Grenzen für das, „offizielle" bedeutet: Exklusivität, [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/), zukünftige Planung
-- Erwarten Sie, dass sie ihre Handlungen ändern, nicht nur ihre Worte
-- Geben Sie Zeit zur Anpassung, aber nicht unbegrenzt
-
-**Wenn sie sagen „Nein, ich bin nicht bereit":**
-- Fragen Sie, ob sie jemals bereit sein werden oder ob dies ein grundlegender Unterschied ist
-- Seien Sie ehrlich: „Ich kann nicht in dieser Grauzone bleiben. Ich brauche eine saubere [Trennung](/blog/trennung-verarbeiten-12-schritte)."
+- Setzen Sie Grenzen für das, „offizielle" bedeutet: Exklusivität, [Trennung](/blog/trennung-verarbeiten-12-schritte)."
 - Folgen Sie dieser Aussage. Nicht sauber zu werden, ist schlimmer.
 
 **Wenn sie sagen „Ich bin mir nicht sicher":**
@@ -190,7 +184,6 @@ Detaillierte Infos bietet Caritas Beratung: [Caritas Beratung](https://www.carit
 ## Weiterlesen
 
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
-- [Anxious-Avoidant Healing: Wie ängstliche und vermeidende](/blog/anxious-avoidant-healing-guide/)
 - [Unsicheren [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) heilen: Schritt für Schritt](/blog/attachment-healing-guide/)
 - [Autismus und Dating: Liebe finden auf dem Spektrum](/blog/autismus-und-dating-guide/)
 - [Beige Flags — Die langweiligen Warnsignale beim Dating](/blog/beige-flags-dating-guide/)
@@ -231,6 +224,6 @@ Situationships sind Versuche, die unmöglich zu haben – Nähe ohne Verantwortu
 
 Das gute Nachrichten: Sie haben die Macht, diese Situation zu ändern. Sie können Klarheit von anderen verlangen. Sie können Grenzen setzen. Sie können gehen. Und Sie sollten.
 
-Das Leben ist zu kurz, um Jahre in jemandem zu investieren, der sich nicht entscheiden kann. Wenn Sie mehr Klarheit über die Grundlagen der Datierung möchten, lesen Sie unseren [Online-Dating-Guide](/online-dating-guide). Für Ratschläge nach einem Treffen, konsultieren Sie [Erstes Date Guide](/erstes-date-guide).
+Das Leben ist zu kurz, um Jahre in jemandem zu investieren, der sich nicht entscheiden kann. Wenn Sie mehr Klarheit über die Grundlagen der Datierung möchten, lesen Sie unseren [Online-Dating-Guide](/blog/online-dating-frauen-guide). Für Ratschläge nach einem Treffen, konsultieren Sie [Erstes Date Guide](/blog/erstes-date-outfit).
 
 Die beste Situation ist eine, in der beide Menschen wissen, wo sie stehen. Verlangen Sie das für sich selbst. Sie verdienen es.

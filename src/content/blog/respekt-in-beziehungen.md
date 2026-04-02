@@ -59,5 +59,4 @@ Weitere Informationen findest du bei Neurologen und Psychiater im Netz: [Neurolo
 - [Erwartungen in der Beziehung: Wann sie helfen — und wann sie](/blog/erwartungen-in-der-beziehung/)
 - [Machtkampf in der Beziehung: Warum ihr gegeneinander statt](/blog/machtkampf-in-der-beziehung/)
 - [Neid in der Beziehung: Wenn du deinem Partner seinen Erfolg](/blog/neid-in-der-beziehung/)
-- [Parentifizierung: Wenn du als Kind die Elternrolle](/blog/parentifizierung-beziehungen-guide/)
 - [Scheidungskinder und Liebe: Wie die [Trennung](/blog/trennung-verarbeiten-12-schritte) deiner Eltern](/blog/scheidungskinder-beziehungen-erwachsene/)

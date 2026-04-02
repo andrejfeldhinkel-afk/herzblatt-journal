@@ -129,6 +129,5 @@ Sag dem Zombie: "Nein, danke." Und mein es.
 ## Interne Links zu anderen Ressourcen
 
 Wenn dich Zombieing trifft, helfen dir auch diese Artikel:
-- [Ghosting: Wie du Stille verarbeitest und wieder vertraust](/blog/ghosting-komplett-guide)
-- [Red Flags beim Dating: Diese Zeichen solltest du ernst nehmen](/blog/red-flags-dating)
-- [Selbstwert in der Partnersuche: Warum du nicht "genug" sein musst](/blog/selbstwert-dating)
+- [Red Flags beim Dating: Diese Zeichen solltest du ernst nehmen](/blog/green-flags-dating-guide)
+- [Selbstwert in der Partnersuche: Warum du nicht "genug" sein musst](/blog/selbstliebe-dating)

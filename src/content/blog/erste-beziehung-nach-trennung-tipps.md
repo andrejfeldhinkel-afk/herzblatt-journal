@@ -170,9 +170,9 @@ Nutze diese Lektionen. Sie werden dich zu besseren Entscheidungen führen.
 
 ## Weitere Ressourcen
 
-Für Tipps über Komplimente und tiefe Verbindung, schau [unseren Artikel über echte Komplimente](/blog/komplimente-machen-die-ankommen.md).
+Für Tipps über Komplimente und tiefe Verbindung, schau [unseren Artikel über echte Komplimente](/blog/komplimente-machen-die-ankommen).
 
-Für mehr über Seelenpartner und Beziehungszeichen, lesen [unser Wissen über Seelenpartner](/blog/seelenpartner-zeichen-erkennen.md).
+Für mehr über Seelenpartner und Beziehungszeichen, lesen [unser Wissen über Seelenpartner](/blog/seelenpartner-zeichen-erkennen).
 
 ## Fazit: Die Liebe ist eine zweite Chance
 

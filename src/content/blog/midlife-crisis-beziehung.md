@@ -155,21 +155,7 @@ Wenn dein Partner etwas Neues ausprobieren will – einen neuen Sport, einen Wor
 
 ### Kommuniziert offen, aber achtsam
 
-Regelmäßige, tiefe Gespräche sind jetzt unverzichtbar. Nicht Vorwürfe wie "Du achtest mich nicht mehr", sondern Ich-Aussagen: "Mir fehlt deine Nähe. Ich mache mir Sorgen." [INTERNER LINK: [paarkommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) verbessern]
-
-### Paartherapie ist keine Schande
-
-Wenn du spürst, dass die Krise zu groß wird, sucht euch professionelle Unterstützung. Ein Therapeut hilft euch, die anderen Perspektive zu verstehen, ohne dass persönliche Gefühle den Weg versperren.
-
-### Nehmt euch "Paare-Zeit"
-
-Inmitten der Krise kann Nähe wie Öl ins Feuer wirken. Aber kleine Rituale helfen: ein wöchentliches Date, gemeinsame Wanderungen, Zeit ohne Ablenkung. Dies erinnert euch beide daran, warum ihr zusammen seid.
-
-### Achte auf dich selbst
-
-Eine kritische Sache: Du kannst nicht für deinen Partner in dieser Krise "einstehen". Du kannst nur für dein eigenes Wohlbefinden sorgen. Deine Grenzen sind wichtig.
-
-## Midlife Crisis [Trennung](/blog/trennung-verarbeiten-12-schritte): Wann ist es vorbei?
+Regelmäßige, tiefe Gespräche sind jetzt unverzichtbar. Nicht Vorwürfe wie "Du achtest mich nicht mehr", sondern Ich-Aussagen: "Mir fehlt deine Nähe. Ich mache mir Sorgen." [Trennung](/blog/trennung-verarbeiten-12-schritte): Wann ist es vorbei?
 
 Nicht alle Partnerschaften überstehen die Midlife Crisis. Manchmal ist eine Trennung der richtige Weg. Wie erkennst du den Unterschied zwischen einer Krise, die überstanden werden kann, und einer Beziehung, die zu Ende geht?
 

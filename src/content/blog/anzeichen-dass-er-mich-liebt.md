@@ -25,21 +25,7 @@ faq:
 
 Du fragst dich, ob er dich wirklich liebt. Nicht ob er dich mag. Nicht ob er dich attraktiv findet. Sondern ob er dich wirklich liebt.
 
-Das ist eine berechtigte Frage. Viele Frauen erkennen nicht die Unterschied zwischen Verliebtheit und echter Liebe. Ein Mann kann [verliebt](/blog/mann-verliebt-anzeichen-komplett) in dich sein und dich trotzdem nicht lieben. Er kann dich lieben und es nicht zeigen. Er kann sagen, dass er dich liebt und die Wörter nicht meinen.
-
-Die Wahrheit: Echte Liebe zeigt sich in Handlungen, nicht in Worten. Ein Mann, der dich wirklich liebt, wird es durch sein Verhalten zeigen, nicht nur durch schöne Worte.
-
-Hier sind die echten Anzeichen. Nicht die Disney-Versionen, sondern die realen Signale, die zeigen, dass ein Mann dich liebt.
-
-## 1. Er ist konsistent und zuverlässig
-
-Das ist das erste Anzeichen und das wichtigste.
-
-Ein verliebter Mann kann moody sein, aber nicht zu dir. Er ist nicht manchmal liebevoll und manchmal kalt. Er ist nicht manchmal verfügbar und manchmal ghost.
-
-Er kommt an, wenn er sagt, dass er kommt. Er ruft dich zurück, wenn er verspricht, dass er anruft. Er sagt, dass er dich liebt – und das zeigt sich nicht nur in Worten, sondern in Taten, die das bestätigen.
-
-Wenn ein Mann inkonsistent ist – manchmal sehr aufmerksam, manchmal völlig ghosting – dann ist das ein Zeichen, dass er nicht bereit ist für echte Liebe. Vielleicht hat er [Bindungsangst](/blog/bindungsangst-komplett-guide). Vielleicht interessiert ihn jemand anderes. Aber wenn er dich wirklich liebt, wird er dir zeigen, dass du ihm wichtig bist.
+Das ist eine berechtigte Frage. Viele Frauen erkennen nicht die Unterschied zwischen Verliebtheit und echter Liebe. Ein Mann kann [Bindungsangst](/blog/bindungsangst-komplett-guide). Vielleicht interessiert ihn jemand anderes. Aber wenn er dich wirklich liebt, wird er dir zeigen, dass du ihm wichtig bist.
 
 Die Konsistenz ist das Fundament. Alles andere baut darauf auf.
 
@@ -237,29 +223,6 @@ Hier ist etwas, das viele Frauen nicht wissen: Nicht alle Männer drücken Liebe
 
 **Unsichere-vermeidende Bindung:** Diese Männer haben Schwierigkeiten, Gefühle zu zeigen. Sie können dich wirklich lieben, aber sie drücken es nicht aus. Sie sind distanziert, sie vermeiden Gespräche über Gefühle, sie flüchten, wenn es zu nah wird. Wenn du mit diesem Typ zusammen bist, musst du zwischen den Zeilen lesen.
 
-**Unsichere-ambivalente Bindung:** Diese Männer sind hin- und hergerissen. Sie klammern manchmal, distanzieren sich manchmal. Sie können sagen "Ich liebe dich" und eine Stunde später unsicher sein. Das ist verwirrend, aber es ist nicht deine Schuld – es ist ihr [Bindungsstil](/blog/avoidant-attachment-beziehung-guide).
-
-Wenn du mit einem vermeidend gebundenen Mann zusammen bist, wirst du nicht immer hören "Ich liebe dich." Aber du wirst es in seinen Handlungen sehen.
-
-## Rote Flaggen: Diese sind NICHT Liebesanzeichen
-
-Nur weil ein Mann Sex mit dir möchte, bedeutet das nicht, dass er dich liebt.
-
-Nur weil ein Mann possessiv ist und eifersucht ist, bedeutet das nicht, dass er dich liebt. Das ist Besitz.
-
-Nur weil ein Mann dir Geschenke kauft, bedeutet das nicht, dass er dich liebt. Das könnte auch Manipulation sein.
-
-Nur weil ein Mann dich für deine Fehler kritisiert, bedeutet das nicht, dass er dich liebt. Das könnte auch Kontrolle sein.
-
-Nur weil ein Mann sagt "Ich liebe dich", bedeutet das nicht, dass er dich liebt. Worte können lügen.
-
-Die echten Anzeichen von Liebe sind Konsistenz, Zuverlässigkeit, Interesse an dir als Person, Unterstützung, Verletzlichkeit – und die Entscheidung, für dich zu sein, wenn es schwer wird.
-
----
-
-## Weiterlesen
-
-- [Fremdgehen erkennen: 12 Warnsignale erkennen](/blog/anzeichen-fremdgehen-erkennen)
-- [Interesse erkennen: 15 Signale](/blog/anzeichen-interesse-erkennen)
+**Unsichere-ambivalente Bindung:** Diese Männer sind hin- und hergerissen. Sie klammern manchmal, distanzieren sich manchmal. Sie können sagen "Ich liebe dich" und eine Stunde später unsicher sein. Das ist verwirrend, aber es ist nicht deine Schuld – es ist ihr [Fremdgehen erkennen: 12 Warnsignale erkennen](/blog/anzeichen-fremdgehen-erkennen)
 - [Er meldet sich nicht mehr — 8 Gründe und was du jetzt tust](/blog/er-meldet-sich-nicht-mehr)
 

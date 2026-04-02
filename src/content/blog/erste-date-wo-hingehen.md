@@ -212,33 +212,7 @@ Nicht zu schnell eine zweite Date vorzuschlagen, ist auch wichtig. Gib der ander
 
 Wenn das Date nicht gut gelaufen ist oder die Chemie nicht da ist, sei einfach ehrlich. Es ist besser, früh klar zu sein, als später Hoffnungen aufzubauen. Etwas wie "Ich hatte eine nette Zeit, aber ich glaube nicht, dass wir die beste Chemie haben. Ich wünsche dir viel Glück beim Dating!" ist respektvoll und klar. Die andere Person wird es schätzen, dass du ehrlich bist.
 
-Wenn beide interessiert sind, am weiteren Gehen, schlag einen zweiten Date vor, der eine andere Aktivität ist als der erste. Das zweite Date könnte mehr Intimität haben, wie ein Dinner bei Kerzenschein, anstatt eines öffentlichen Ortes. Dies zeigt, dass die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) wächst.
-
-## Fehlerhafte erste Dates vermeiden – Was nicht funktioniert
-
-Es gibt einige klassische Fehler, die Menschen machen, wenn sie das erste Date planen. Einer der größten ist, einen Ort zu wählen, der zu laut ist, um zu sprechen. Ein schöner Ort ist nutzlos, wenn ihr euch nicht unterhalten könnt. Bars, Nachtclubs oder Konzerte sind besser für spätere Daten, nicht für das erste.
-
-Ein anderer Fehler ist, zu viel Druck auf die "Romanze" zu legen. Ein erstes Date mit Kerzen, Rosen und teuren Restaurants kann zu viel sein und zu viel Druck erzeugen. Halte dein erstes Date leicht und spielerisch.
-
-Ein dritter großer Fehler ist, zu viel Alkohol zu bestellen oder zu trinken. Es kann dein Urteil beeinflussen und dich weniger authentisch machen. Es kann auch dein Date unwohl machen. Bleib nüchtern oder halbwegs nüchtern.
-
-Ein vierter Fehler ist, dein Handy zu benutzen oder ständig auf dein Handy zu schauen. Das ist unglaublich respektlos. Wenn du auf dein Handy schaust, sagt es, dass das Date nicht wichtig ist und die Person, die du mit ist, nicht wichtig ist. Lege dein Handy weg.
-
-Ein fünfter Fehler ist, zu viel über deine Ex-Partner zu sprechen. Egal wie interessant die Geschichte ist, sprich nicht zu viel über Ex-Partner auf einem ersten Date. Es macht dein Date denken, dass du noch darüber nachdenkst oder nicht über sie hinwegkommst.
-
-## Die psychologie der Orte und ihre Auswirkungen
-
-Es gibt eine echte Psychologie hinter den Orten und wie sie unser Verhalten und unsere Gefühle beeinflussen. Ein lauter Ort kann uns nervös machen. Ein sehr formaler Ort kann uns steif und unbequem machen. Ein sehr romantischer Ort kann zu viel Druck erzeugen.
-
-Der beste Ort ist derjenige, der eine Kombination aus leicht entspannender, aber interessanter Atmosphäre hat. Ein Café ist entspannend, aber vielleicht ein bisschen langweilig. Ein Museum ist interessant, aber vielleicht ein bisschen formal. Ein Spaziergang in einem Park ist entspannend und interessant.
-
-Forschung zeigt auch, dass Bewegung während einer Konversation tatsächlich zu besserer Kommunikation führt. Dies ist, warum Wandern oder Spaziergänge großartig für Daten sind. Wenn zwei Menschen nebeneinander gehen, anstatt sich direkt anzuschauen, kann es weniger verletzlich und mehr natürlich sein, tiefere Dinge zu sprechen.
-
-Umgebungen, die schön sind, machen auch Menschen schöner und fröhlicher wahrgenommen. Wenn dein Date an einem schönen Ort mit gutem Licht ist, wirst du sie wahrscheinlich attraktiver und deren Persönlichkeit sympathischer finden.
-
-## Die Zweite Date – Den Ort erhöhen
-
-Wenn das erste Date großartig gelaufen ist, der nächste Schritt ist normalerweise ein zweites Date. Das zweite Date ist der Ort, an dem du es ein bisschen erhöhen kannst. Das erste Date war das [Kennenlernen](/blog/dating-fragen-kennenlernen), das zweite Date ist der Anfang des Schaffens einer echten Verbindung.
+Wenn beide interessiert sind, am weiteren Gehen, schlag einen zweiten Date vor, der eine andere Aktivität ist als der erste. Das zweite Date könnte mehr Intimität haben, wie ein Dinner bei Kerzenschein, anstatt eines öffentlichen Ortes. Dies zeigt, dass die [Kennenlernen](/blog/dating-fragen-kennenlernen), das zweite Date ist der Anfang des Schaffens einer echten Verbindung.
 
 Ein zweites Date könnte eine schönere Mahlzeit sein, ein Konzert oder Theater, oder vielleicht sogar ein Wochenend-Wochenende, wenn ihr beide interessiert seid. Das zweite Date sollte zeigen, dass du die erste Date genossen hast und dass du dich mehr Anstrengung gibst.
 

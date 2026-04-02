@@ -152,11 +152,7 @@ Liebe am Arbeitsplatz ist nicht unmöglich. Tausende von Menschen haben großart
 
 Wenn du dich für diesen Weg entscheidest: Sei klar über deine Grenzen, sei professionell, und sei ehrlich mit dir selbst über die Risiken. Der Schutz deiner Karriere ist genauso wichtig wie der Schutz deines Herzens.
 
-Für mehr über Grenzensetzen in Beziehungen, schau dir unseren Guide zu [vertrauen aufbauen in beziehungen](/blog/vertrauen-aufbauen-beziehung) an.
-
----
-
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-als-alleinerziehend), [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung), [Liebe finden über 50: Dating im reifen Alter](/blog/liebe-finden-ueber-50).## Weiterlesen
+Für mehr über Grenzensetzen in Beziehungen, schau dir unseren Guide zu [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-als-alleinerziehend), [Liebe finden über 50: Dating im reifen Alter](/blog/liebe-finden-ueber-50).## Weiterlesen
 
 - [Liebe finden über 50: Dating im reifen Alter](/blog/liebe-finden-ueber-50/)
 - [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung/)

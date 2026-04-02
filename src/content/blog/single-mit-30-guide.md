@@ -282,9 +282,8 @@ Diese Dinge sind hart. Aber sie machen dich auch unbreakable. Sie geben dir echt
 
 Wenn du mehr über verwandte Themen erfahren möchtest, könnten diese Artikel hilfreich sein:
 
-- [Selbstliebe üben: Ein praktischer Guide für Anfänger](/blog/selbstliebe-prakisch-uben)
-- [Freundschaften im Erwachsenenalter: Tiefe Verbindungen aufbauen](/blog/freundschaften-erwachsenenalter)
-- [Dating in deinen 30ern: Praktische Tipps und Mindset-Shifts](/blog/dating-in-30ern)
+- [Freundschaften im Erwachsenenalter: Tiefe Verbindungen aufbauen](/blog/freund-finden-als-erwachsener)
+- [Dating in deinen 30ern: Praktische Tipps und Mindset-Shifts](/blog/dating-wien)
 
 ## Die Zukunft liegt in deiner Hand
 

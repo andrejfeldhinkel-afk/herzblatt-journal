@@ -25,16 +25,7 @@ faq:
   - question: "Was ist rote Flaggen beim Dating, die ich nicht ignorieren sollte?"
     answer: "Impulsivität, fehlende Verantwortung, Liebe-Bomben, Manipulation, Mangel an Grenzen, Kontrolle oder Aggressivität. Diese frühen Warnsignale sind wichtig — ignoriere sie nicht."
 ---
-Nach einer narzisstischen oder toxischen [beziehung](/blog/adhs-und-beziehung-komplett-guide/) wieder zu daten fühlt sich wie Betreten von unbekanntem Terrain an. Dein Vertrauen ist erschöpft, deine Selbstzweifel sind groß, und jedes rote Flag macht dir Angst. Aber es gibt Hoffnung. Mit Zeit, Selbstreflexion und praktischen Tools kannst du wieder zu gesundem, erfüllendem Dating zurückkehren – und dieses Mal mit Weisheit bewaffnet.
-
-## Erkennen, dass du in einer narzisstischen Beziehung warst
-
-Viele Menschen realisieren erst lange nach dem Beziehungsende, dass sie mit einem Narzissten zusammen waren. Das ist normal. Narzisstische Menschen sind Meister der Manipulation und Täuschung.
-
-### Zeichen einer narzisstischen Beziehung
-
-- **Konstante Kritik und Abwertung:** Dein Partner kritisierte dich ständig – dein Aussehen, deine Intelligenz, deine Fähigkeiten – was dein Selbstwertgefühl zerstörte
-- **Manipulation und [Gaslighting](/blog/gaslighting-komplett-guide):** Sie leugnete deine Wahrnehmung ("Das habe ich nie gesagt") oder zwang dich, an deinem eigenen Verstand zu zweifeln
+Nach einer narzisstischen oder toxischen [Gaslighting](/blog/gaslighting-komplett-guide):** Sie leugnete deine Wahrnehmung ("Das habe ich nie gesagt") oder zwang dich, an deinem eigenen Verstand zu zweifeln
 - **Mangel an Empathie:** Dein Partner interessierte sich nicht für deine Gefühle. Alles drehte sich um ihn
 - **Kontrollverhalten:** Dein Partner kontrollierte dein Geld, deine Freunde, deine Aktivitäten
 - **Love-Bombing, dann Kälte:** Anfangs warst du "die Eine," dann wurden Affektionen zurückgezogen, um dich gefügig zu halten
@@ -240,7 +231,7 @@ Du verdienst das. Du bist es wert.
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten), [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten), [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden).## Weiterlesen
 
 - [Dating als hochsensible Person: Liebe mit tieferen Gefühlen](/blog/hochsensibel-dating/)
 - [Silent Treatment in der Beziehung](/blog/silent-treatment-beziehung/)

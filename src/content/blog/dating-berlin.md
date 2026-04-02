@@ -199,7 +199,7 @@ Der Schlüssel zum Erfolg in Berlins Dating-Szene ist Authentizität. Sei du sel
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/aktives-zuhoeren-beziehung-ueben/) zu [Dating in Augsburg: Die besten Orte & Tipps für Singles](/blog/dating-augsburg), [Dating in Bamberg: Die besten Orte & Tipps für Singles](/blog/dating-bamberg), [Dating in Bonn: Die besten Orte & Tipps für Singles](/blog/dating-bonn).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Dating in Augsburg: Die besten Orte & Tipps für Singles](/blog/dating-augsburg), [Dating in Bonn: Die besten Orte & Tipps für Singles](/blog/dating-bonn).## Weiterlesen
 
 - [Dating in Aachen: Die besten Orte, Tipps & Hotspots](/blog/dating-aachen/)
 - [Dating in Augsburg: Die besten Orte & Tipps für Singles](/blog/dating-augsburg/)

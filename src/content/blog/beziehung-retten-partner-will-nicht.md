@@ -100,7 +100,7 @@ Das ist wichtig, nicht um die Beziehung zu "verdienen", sondern weil es gut für
 
 Geh zu Therapie. Arbeite an deinen Wunden. Verbessere dein Leben. Das tut nicht weh – und manchmal inspires es deinen Partner, auch zu arbeiten.
 
-[Wenn es um emotionale Abhängigkeit geht, lesen Sie unseren Artikel darüber](/blog/emotionale-abhaengigkeit-loesen-schritte.md).
+[Wenn es um emotionale Abhängigkeit geht, lesen Sie unseren Artikel darüber](/blog/emotionale-abhaengigkeit-loesen-schritte).
 
 ### 5. Setze klare Grenzen
 

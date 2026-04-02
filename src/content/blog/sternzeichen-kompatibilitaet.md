@@ -35,47 +35,7 @@ Aber das ist nur Astrologie-Pop-Psychologie. Es ist unterhaltsam, aber es ist ni
 
 ## Was die Wissenschaft wirklich sagt — Die unbequeme Wahrheit
 
-Hier kommt die unbequeme Wahrheit: Es gibt keine wissenschaftlichen Beweise dafür, dass dein Sternzeichen deine Persönlichkeit bestimmt oder deine [Beziehung](/blog/adhs-und-beziehung-komplett-guide/) beeinflusst.
-
-Psychologen und Soziologen haben dies untersucht. Sie haben geprüft, ob Paare mit "kompatiblen" Sternzeichen länger zusammen sind. Ob sie zufriedener sind. Ob sie weniger streiten.
-
-Sie fanden keinen signifikanten Zusammenhang. Null. Nada. Nichts.
-
-Das ist nicht weil Astrologie dumm ist. Es ist weil dein Sternzeichen nicht biologisch macht, wer du bist. Dein Gehirn macht dich zu dir. Deine Gene. Deine Erfahrungen. Deine Entscheidungen. Nicht die Position von Saturn.
-
-## Warum glauben so viele Menschen daran? Die Psychologie der Zuschreibung
-
-Wenn Astrologie nicht funktioniert, warum glauben Millionen von Menschen daran? Die Antwort liegt in der Psychologie des Barnum-Effekts und der Bestätigungsverzerrung.
-
-**Der Barnum-Effekt**: Das ist wenn vage Aussagen sich sehr relevant für dich anfühlen, obwohl sie für fast jeden relevant sind. Wenn ich dir sage "Ein Skorpion ist leidenschaftlich und geheimnisvoll, aber auch manipulativ", fühlst du dich verstanden. Du denkst "Ja, das bin ich!" Aber diese Beschreibung passt zu vielen Menschen. Es ist nicht spezifisch. Es ist nur vage genug, dass du es auf dich selbst projizierst.
-
-**Bestätigungsverzerrung**: Das ist wenn du aktiv nach Beweisen suchst, die deine existierende Überzeugung bestätigen, und Beweise ignorierst, die sie widersprechen. Wenn deine Beziehung gut läuft und ihr habt "kompatible" Sternzeichen, denkst du "Aha! Astrologie funktioniert!" Wenn die Beziehung scheitert und ihr habt "inkompatible" Zeichen, denkst du auch "Aha! Astrologie hat das vorhergesagt!" Du wirst die Wahrheit nicht akzeptieren — dass Astrologie nichts damit zu tun hatte.
-
-**Bestätigungsverzerrung in Aktion**: Ein Waage und ein Krebs sollten "perfekt kompatibel" sein (Luftzeichen lieben Wasserzeichen, oder so). Wenn das Paar glücklich ist, sagen alle "Schau, astrologie funktioniert!" Wenn das Paar unglücklich ist, sagen alle "Nun ja, vielleicht war ihr Mondsign inkompatibel" — eine ständig verschiebende Zielstrebigkeit, um Astrologie recht zu haben.
-
-Das ist Psychologie, nicht Wissenschaft.
-
-## Aber... es kann Spaß machen — Das ist okay
-
-Das heißt nicht, dass Sternzeichen-Kompatibilität schlecht ist. Es ist einfach nicht vorhersagend.
-
-Es ist ein unterhaltsames Spiel. Es kann ein Konversationsstarter sein. Es kann Spaß machen, die Eigenschaften deines Partners mit seinem Sternzeichen zu vergleichen und zu sehen, wo sie passen und wo sie nicht passen.
-
-Das Problem entsteht nur, wenn du wirklich wichtige Entscheidungen basierend auf Sternzeichen triffst:
-
-**Das rote Licht**: Du magst jemanden, aber du lehnst ihn ab, nur weil sein Sternzeichen mit deinem "nicht kompatibel" ist. Du könntest deine Chance auf echte Liebe verpassen, weil du Astrologie mehr vertraust als deinem Herzen.
-
-**Das rote Licht**: Du machst dich in einer Beziehung schuldig, weil sein Sternzeichen dich nicht versteht. "Das ist ein Wassermann, sie sind immer kalt" — Nein, diese Person ist einfach kalt. Ihre Wassermann-Natur hat damit nichts zu tun.
-
-Das ist gefährlich, weil es dich vom echten Problem ablenkt. Es gibt dir eine Ausrede, anstatt dich mit der echten Inkompatibilität zu befassen.
-
-## Die echte Kompatibilität — Das, das wirklich zählt
-
-Die wirkliche Kompatibilität hängt von Dingen ab, die messbar und beobachtbar sind:
-
-**Gemeinsame Werte**: Glaubt ihr an die gleichen Dinge? Religion, Politik, Lebensziele?
-
-**Gegenseitiger Respekt**: Respektiert ihr euch gegenseitig? Oder respektiert du ihn, weil du [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, und er respektiert dich nicht?
+Hier kommt die unbequeme Wahrheit: Es gibt keine wissenschaftlichen Beweise dafür, dass dein Sternzeichen deine Persönlichkeit bestimmt oder deine [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, und er respektiert dich nicht?
 
 **Echte Kommunikation**: Könnt ihr ehrlich miteinander reden? Könnt ihr Konflikte konstruktiv durcharbeiten?
 

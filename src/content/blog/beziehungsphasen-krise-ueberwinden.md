@@ -165,6 +165,5 @@ Das ist das echte Rezept für eine langfristige Beziehung.
 ## Das könnte dich auch interessieren
 
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden/)
-- [Liebeskummer überwinden: 15 Soforthilfen](/blog/liebeskummer-schnell-ueberwinden/)
 - [Nach dem [Ghosting](/blog/ghosting-komplett-guide) weitermachen](/blog/ghosting-ueberwinden-weitermachen/)
 - [Eifersucht überwinden: Ursachen, Übungen und echte Lösungen](/blog/eifersucht-ueberwinden-komplett/)

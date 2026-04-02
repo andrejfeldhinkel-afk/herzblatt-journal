@@ -126,7 +126,7 @@ Das ist nicht naiv oder zu nett. Das ist emotional intelligent. Das ist das, was
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/aktives-zuhoeren-beziehung-ueben/) zu [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-als-alleinerziehend), [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich), [Dating in Augsburg: Die besten Orte & Tipps für Singles](/blog/dating-augsburg).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-als-alleinerziehend), [Dating in Augsburg: Die besten Orte & Tipps für Singles](/blog/dating-augsburg).## Weiterlesen
 
 - [10 Dating-Fehler, die Frauen häufig machen — bessere](/blog/dating-fehler-frauen/)
 - [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)

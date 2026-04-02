@@ -86,9 +86,7 @@ Weitere Informationen findest du bei Neurologen und Psychiater im Netz: [Neurolo
 
 Das werden Sie zum Burnout führen und die falschen Frauen anziehen – diejenigen, die denken, du bist etwas, das du nicht bist.
 
-Die richtige [beziehung](/blog/adhs-und-beziehung-komplett-guide/) beginnt mit Authentizität. Wenn du hochsensibel bist, sei das. Sein introvertiert. Sei emotional. Sei künstlerisch.
-
-Eine Frau, die sich in den echten du [verliebt](/blog/mann-verliebt-anzeichen-komplett), wird tiefere Liebe haben als eine, die sich in eine Fassade verliebt.
+Die richtige [verliebt](/blog/mann-verliebt-anzeichen-komplett), wird tiefere Liebe haben als eine, die sich in eine Fassade verliebt.
 
 ## Langfristig
 

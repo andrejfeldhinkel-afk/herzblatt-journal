@@ -252,7 +252,6 @@ A: Das ist normal. Die Konversation ist gestorben. Es ist nicht persönlich. Ver
 
 ## Weiterlesen
 
-- [Dating-App Profil optimieren: In 7 Schritten zum Match](/blog/dating-app-profil-optimieren)
 - [Dating App Sucht erkennen – Wenn Dating Dich kontrolliert](/blog/dating-app-sucht-erkennen)
 - [Dating-Apps im Vergleich 2026: Welche passt zu dir?](/blog/dating-app-vergleich-2026)
 

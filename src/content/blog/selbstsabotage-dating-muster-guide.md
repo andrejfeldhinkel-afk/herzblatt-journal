@@ -1,5 +1,5 @@
 ---
-title: "Selbstsabotage beim Dating: Warum du immer wieder die Falschen wählst"
+title: "Selbstsabotage beim Dating"
 description: "Selbstsabotage-Muster beim Dating verstehen: Warum du unbewusst gute Beziehungen zerstörst und wie du es stoppst."
 date: 2026-03-29
 tags:
@@ -222,6 +222,5 @@ Und dann, die Beziehungen du aufbaust, werden nicht nur sicher – sie werden ec
 ---
 
 **Verwandte Artikel:**
-- [Ängstlich-klammernder [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) heilen: Der komplette Weg zu sicherer Bindung](/blog/anxious-preoccupied-attachment-healing)
 - [Trauma Bonding: Warum du dich an toxische Menschen gebunden fühlst](/blog/trauma-bonding-erkennen-loesen-guide)
 - [Retroaktive Eifersucht überwinden: Wenn die Vergangenheit deines Partners dich quält](/blog/retroaktive-eifersucht-ueberwinden-komplett)

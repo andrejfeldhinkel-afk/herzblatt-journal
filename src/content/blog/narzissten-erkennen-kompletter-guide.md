@@ -69,11 +69,7 @@ Verdeckte Narzissten sind schwerer zu erkennen, aber ihr Muster ist konsistent: 
 
 Der maligne Narzisst hat narzisstische Züge gemischt mit antisozialen Persönlichkeitsmerkmalen und oft auch Sadismus-Tendenzen. Diese Menschen sind manipulativ, haben kaum Empathie und genießen es manchmal, andere zu verletzen. Sie können charming sein, aber es gibt etwas Kaltes in ihren Augen. Sie manipulieren nicht aus Unsicherheit heraus (wie andere Narzissten), sondern weil es ihnen Freude bereitet.
 
-Ein Beispiel: Ein maligner Narzisst weiß genau, dass du Verlustangst hast. Er wird dich bewusst bedrohen, dich mit [Trennung](/blog/trennung-verarbeiten-12-schritte) zu drohen, nur um zu sehen, wie du dich anstrengst, ihn zu halten. Wenn du leidest, sieht er das – und es interessiert ihn nicht.
-
-Dies sind die gefährlichsten Narzissten. Wenn du mit einem malignen Narzissten zusammen bist, ist Vorsicht geboten.
-
-## Warnsignale 1-5: Die Anfangsphase – [Love Bombing](/blog/love-bombing-erkennen-schuetzen) und Idealisierung
+Ein Beispiel: Ein maligner Narzisst weiß genau, dass du Verlustangst hast. Er wird dich bewusst bedrohen, dich mit [Love Bombing](/blog/love-bombing-erkennen-schuetzen) und Idealisierung
 
 Die erste Phase einer Beziehung mit einem Narzissten fühlt sich wie ein Märchen an. Das ist beabsichtigt. Narzissten wissen, wie man mit der Psychologie der Verliebung spielt.
 
@@ -105,35 +101,7 @@ Das klingt schön, aber es ist ein klassischer Anfang der Manipulation. Er samme
 
 Während der Love-Bombing-Phase beginnt der Narzisst subtil, dich von deinen Freunden und deiner Familie zu entfernen. "Deine Freunde verstehen dich nicht wie ich", oder "Deine Familie ist toxisch, lass uns mehr Zeit nur zu zweit verbringen". Du merkst nicht, dass es passiert, weil es sich natürlich anfühlt – du vergibst ohnehin mehr Zeit mit dieser faszinierenden neuen Person.
 
-## Warnsignale 6-10: Die Kontrollphase – Isolation, [Gaslighting](/blog/gaslighting-komplett-guide) und psychologische Manipulation
-
-Nach der Love-Bombing-Phase beginnt der zweite Akt. Der Narzisst hat dich jetzt – du bist emotional investiert. Jetzt kann er seine Maske teilweise abnehmen. Die Kontrolle beginnt subtil.
-
-### Warnsignal 6: Subtile Kritik deiner Freunde und Familie
-
-Es beginnt mit kleinen Bemerkungen. "Deine beste Freundin ist ja etwas... needy, oder?" oder "Dein Bruder hat dir ja nicht viel zu sagen, oder?" Diese Bemerkungen sind "zufällig" und wirken wie Beobachtungen, nicht wie Angriffe. Aber ihr Ziel ist klar: dich von deinem Support-Netzwerk zu trennen.
-
-### Warnsignal 7: Controlling-Verhalten, das sich wie Sorge anfühlt
-
-Der Narzisst möchte wissen, wo du bist, wen du triffst, was du tust. "Ich vermisse dich", "Ich mache mir Sorgen, wenn ich nicht weiß, wo du bist". Das klingt liebevoll, aber es ist Kontrolle. Er möchte wissen, mit wem du sprichst, weil er fürchtet, dass du von seinem wahren Selbst erfährst.
-
-### Warnsignal 8: Gaslighting – die Manipulation deiner Realität
-
-Dies ist eines der gefährlichsten Werkzeuge des Narzissten. Gaslighting bedeutet, dass er deine Realität bestreitet. "Das habe ich nie gesagt", "Das ist nicht passiert", "Du bist zu emotional und machst alles in deinem Kopf größer". Wenn du ihm Vorwürfe machst, sagt er "Das ist eine Lüge. Ich würde niemals so etwas tun".
-
-Ein Beispiel aus einer echten Beziehung: Eine Frau sagte ihrem Partner, dass er sie letzten Samstag vor ihren Freunden bloßgestellt hatte, indem er eine demütigende Geschichte über sie erzählte. Der Partner antwortete: "Das ist völlig unwahr. Ich würde dich niemals so verletzen. Du bist paranoid. Wahrscheinlich war es deine Schuld, dass du so überempfindlich reagiert hast." Nach einigen solcher Interaktionen zweifelte die Frau an ihrem eigenen Gedächtnis und ihrer Realität.
-
-### Warnsignal 9: Doppelmoral und unterschiedliche Standards
-
-Der Narzisst hat zwei Regelwerke: eines für dich und eines für ihn. Er kann spät von Verabredungen nach Hause kommen und sagt, das sei ok, aber wenn du dasselbe tust, ist er außer sich vor Wut. Er kann deine Freunde kritisieren, aber wenn du seine Freunde kritisierst, wirst du beschuldigt, ihn nicht zu unterstützen.
-
-### Warnsignal 10: Entzug von Aufmerksamkeit und Liebe als Strafe
-
-Nachdem die anfängliche Love-Bombing-Phase vorbei ist, nutzt der Narzisst Aufmerksamkeit und Liebe als Waffe. Wenn du etwas tust, das ihm nicht gefällt, ignoriert er dich. Er spricht nicht mit dir, antwortet nicht auf Nachrichten, ist emotional absent. Du verlierst die Person, die du kennengelernt hast, und wirst mit kalter, distanzierter Version konfrontiert.
-
-Dies ist eine klassische "Bestrafung". Du lernst schnell, dass du dein Verhalten ändern musst, um wieder die "gute" Version von ihm zu bekommen.
-
-## Warnsignale 11-15: Die Abwertungsphase – Stonewalling, [Silent Treatment](/blog/silent-treatment-beziehung) und emotionale Verachtung
+## Warnsignale 6-10: Die Kontrollphase – Isolation, [Silent Treatment](/blog/silent-treatment-beziehung) und emotionale Verachtung
 
 In dieser Phase wird der Narzisst nicht mehr nur manipulativ – er wird aktiv verletzend. Das ist, wenn die Love-Bombing-Phase vollständig vorbei ist und die wahre Natur des Narzissten sichtbar wird.
 

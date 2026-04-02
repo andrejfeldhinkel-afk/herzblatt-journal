@@ -138,4 +138,4 @@ Viel Erfolg beim Daten.
 
 ---
 
-**Du hast noch Fragen zu Online-Dating-Tipps? Oder möchtest du mehr über [Grenzen setzen beim Dating](/blog/grenzen-setzen-dating-guide) oder [Anmachsprüche, die funktionieren](/blog/anmachsprueche-die-funktionieren) erfahren? Schau in unseren Blog.**
+**Du hast noch Fragen zu Online-Dating-Tipps? Oder möchtest du mehr über [Anmachsprüche, die funktionieren](/blog/anmachsprueche-die-funktionieren) erfahren? Schau in unseren Blog.**

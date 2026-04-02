@@ -89,25 +89,7 @@ Dein Profil sollte zeigen, dass Du Natur und Abenteuer magst. Das ist wichtig hi
 
 Sei konkret. „Ich bin regelmäßig in den Bergen unterwegs und genieße Ski fahren."
 
-Eine gute Bio zeigt Deine [persönlichkeit](/blog/beige-flags-dating-guide/).
-
-Menschen in Innsbruck suchen oft nach jemanden, der ihre Leidenschaft für Abenteuer teilt.
-
-### Lokale Bars und Cafés
-
-Die Altstadt hat viele kleine Bars. Nicht touristisch. Real.
-
-Das sind gute Orte zum Treffen von Menschen. Die Atmosphäre ist warm.
-
-Es gibt auch Hütten in den Bergen, wo Menschen sich treffen. Das ist eine andere Erfahrung.
-
-Die Hütten sind gemütlich und romantisch.
-
-Viele Locals treffen sich in den gleichen Bars – es ist eine echte Community.
-
-### Sport und Abenteuer
-
-Klettern, Mountainbike, Ski – Innsbruck liebt das. Das sind gute Orte zum [Kennenlernen](/blog/dating-fragen-kennenlernen) von Menschen mit ähnlichen Werten.
+Eine gute Bio zeigt Deine [Kennenlernen](/blog/dating-fragen-kennenlernen) von Menschen mit ähnlichen Werten.
 
 Diese Menschen sind authentisch und abenteuerlustig.
 

@@ -72,7 +72,7 @@ Das Problem? Der andere Partner fühlt sich vernachlässigt. Sie oder er denkt s
 Das Problem? Manchmal verliert die flexible Person ihre eigene Identität. Sie werden zu dem, was der andere braucht, nicht zu dem, was sie sind.
 
 
-> **Lesetipp:** [Gesunde Grenzen setzen – ohne den Partner zu verletzen](/blog/gesunde-grenzen-setzen-beziehung) | [Die 5 Liebessprachen: Entdecke deine und die deines Partners](/blog/liebessprachen-entdecken-nutzen)
+> **Lesetipp:** [Die 5 Liebessprachen: Entdecke deine und die deines Partners](/blog/liebessprachen-entdecken-nutzen)
 
 
 **Der Ausgeglichene:** Diese Person verstellt Nähe UND Distanz. Sie kann sich freuen, eine Nacht allein zu haben, und sich auch freuen, Zeit zusammen zu verbringen. Sie hat eine starke Identität, aber auch eine starke Bindung. Das ist der Ziel-Typ.
@@ -231,19 +231,6 @@ Das ist echte Nähe. Nicht weil ihr zusammengebunden seid, sondern weil ihr euch
 
 ### Ist es unhealthy, Zeit allein zu brauchen?
 
-Nein. Nein nein nein. Zeit allein ist nicht ein Zeichen von Liebes-Problem. Es ist ein Zeichen von [Selbstliebe](/blog/unabhaengigkeit-in-beziehung). Gesunde Menschen – Einzelpersonen oder in Beziehungen – brauchen Zeit allein. Das ist Zeit zum Nachdenken, zum Wachsen, zum Sein. Ein Partner, der das nicht versteht, versteht nicht, was Liebe ist.
-
-### Wie viel Zeit sollten wir zusammen verbringen?
-
-Es gibt keine magische Zahl. Das ist die Antwort, die du nicht mögen wirst, aber es ist wahr. Manche Paare sind glücklich mit zwei Nächten zusammen pro Woche. Andere mit sechs. Das hängt von eurer individuellen Chemie ab, euren Bedürfnissen, eurer Arbeit, euren Hobbys. Findet euer Gleichgewicht, nicht das Gleichgewicht von jemandem anderen. Und dann respektiert es.
-
-### Was, wenn ich Nähe möchte und er/sie Distanz?
-
-Das ist eines der häufigsten Konflikte in Beziehungen. Der Nähe-Partner fühlt sich verlassen. Der Distanz-Partner fühlt sich erstickt. Es wird zum Krieg. Aber hier ist die Wahrheit: Ihr habt unterschiedliche Bedürfnisse, und das ist nicht etwas Falsches. Das ist einfach unterschiedlich. Akzeptiere, dass ihr unterschiedliche Bedürfnisse habt. Arbeitet zusammen an einem Kompromiss. Und daran, die Bedürfnisse des anderen zu verstehen, nicht zu beurteilen.
-
-## Weiterlesen
-
-- [Dankbarkeit in Beziehungen: Die unterschätzte Superkraft](/blog/beziehung-dankbarkeits-praxis)
-- [Alte Verletzungen heilen: Wie deine Vergangenheit deine](/blog/beziehung-heilen-verletzungen)
+Nein. Nein nein nein. Zeit allein ist nicht ein Zeichen von Liebes-Problem. Es ist ein Zeichen von [Dankbarkeit in Beziehungen: Die unterschätzte Superkraft](/blog/beziehung-dankbarkeits-praxis)
 - [Schwiegereltern-Guide 2026: So gewinnst du sie für dich](/blog/beziehung-schwiegereltern-guide)
 

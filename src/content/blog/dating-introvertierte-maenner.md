@@ -1,5 +1,5 @@
 ---
-title: "Dating als introvertierter Mann: Stärken nutzen statt verstecken (2026)"
+title: "Dating als introvertierter Mann"
 description: "Dating introvertierter Mann: Wie nutzt du deine Stärken, statt dich anzupassen? Tipps zum Flirten, Kennenlernen und Beziehungen für introvertierte Männer."
 date: 2026-04-01
 image: "/images/blog/dating-introvertierte-maenner.webp"

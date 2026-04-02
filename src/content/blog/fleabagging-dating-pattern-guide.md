@@ -51,45 +51,7 @@ Der erste Schritt zum Verstehen des Fleabagging ist zu verstehen, warum wir das 
 
 Ein Beispiel: Maria hat von ihrer Mutter schon als Kind gelernt, dass ihre Gefühle unwichtig sind. Ihre Mutter war emotional distanziert und kritisch. Jetzt, als Erwachsene, datiert Maria nur Männer, die ähnlich sind: distanziert, kritisch, nicht emotionaler verfügbar. Ein Teil von ihr hofft, dass sie dieses Mal anders sein werden. Ein tieferer Teil weiß, dass das vertraut ist. Das ist das einzige Liebe-Modell, das sie kennt.
 
-**Familiale Skripte und Wiederholung.** Wir repetieren oft, was wir als Kinder gesehen haben. Wenn deine Eltern eine turbulente [beziehung](/blog/adhs-und-beziehung-komplett-guide/) hatten, wählst du möglicherweise unbewusst Partner, mit denen du turbulent sein kannst. Wenn dein Elternteil emotional verfügbar war aber flüchtig, datierst du möglicherweise Menschen, die dich verlassen, damit du dich wieder verlassen fühlen kannst.
-
-Das ist nicht Zufall. Das ist dein Gehirn, das versucht, ein altes Muster zu heilen. Aber statt Heilung bekommst du Wiederholung.
-
-**Attachment Anxiety und das Bedürfnis nach Bestätigung.** Wenn du einen Anxious Attachment Style hast, bist du chronisch verängstigt, verlassen zu werden. Du suchst konstante Bestätigung. Das macht dich anfällig für Menschen, die dich lieben und lassen in unregelmäßigen Rhythmen. Sie sind manchmal verfügbar, manchmal nicht. Das ist perfekt für deine Angst. Das hält dich in einem konstanten Zustand von Hoffnung und Furcht.
-
-Du hoffst, dass dieser Mensch sich ändert, dass er oder sie dich mehr lieben wird. Diese Hoffnung hält dich Jahrelang gebunden. Und diese Person? Sie muss nicht viel Anstrengung machen. Sie wissen, dass du immer da sein wirst, hoffnungsvoll, wartend.
-
-**Die Suche nach vertrautem Schmerz.** Das ist vielleicht kontraintuitiv, aber Menschen ziehen oft Schmerz an, das vertraut ist. Es ist besser, bekannter Schmerz zu sein als unbekannte Unsicherheit. Wenn dein Childhood Schmerz war—Vernachlässigung, Kritik, Ablehnung—wirst du unbewusst Partner wählen, die dir diesen Schmerz zufügen. Das fühlt sich wie Zuhause an.
-
-Es ist schrecklich, aber es ist sicherer als etwas Neues und Unbekanntes.
-
-**Unbewusste Überzeugungen über Liebe.** Manche Menschen glauben unterbewusst, dass echte Liebe schwierig sein muss. Das Liebe bedeutet kämpfen, leiden, weinen. Wenn eine Beziehung zu leicht ist, zu gut ist, fühlt es sich falsch an. Also fleabaggerst du Menschen weg, die gut für dich sind, und wählst Menschen, mit denen es dramatisch, schwierig, schmerzhaft ist.
-
-Ein konkretes Beispiel: Thomas datiert Julia. Julia ist liebevoll, zuverlässig, interessiert sich für ihn. Aber mit ihr ist es zu einfach. Keine Drama. Keine Unsicherheit. Das fühlt sich langweilig an. Also sabotiert Thomas die Beziehung und holt sich stattdessen seine Ex zurück. Mit ihr ist es kompliziert, schmerzhaft, aufreizend. Das fühlt sich echte wie echte Liebe an.
-
-**Trauma-Bonding und die Suche nach Heilung.** Wenn du Trauma hattest—Missbrauch, Vernachlässigung, Untreue—suchst du möglicherweise unbewusst ein ähnliches Szenario, damit du es dieses Mal heilen kannst. Du wirst es besser machen. Du wirst dieser Person zeigen, dass sie geliebt werden kann. Das ist ein edles Ziel, aber es ist destruktiv für dich.
-
-Du kannst nicht andere Menschen heilen. Du kannst nur dich selbst heilen.
-
-**Unterbewusstes Engagement mit Unpassenden.** Manchmal fleabaggerst du, weil ein Teil von dir nicht bereit ist, sich wirklich zu verpflichten. Mit den falschen Personen, hast du eine Ausrede. Du kannst sagen: Wenn nur diese Person anders wäre. Dann könnte ich vollständig offen sein. Mit einer guten Person gibt es keine Ausrede mehr. Und das ist angespannt.
-
-## Erkenne dein Fleabagging-Muster
-
-Bevor du das Muster brechen kannst, musst du es sehen.
-
-Schau auf deine letzten fünf ernsthaften Beziehungen (oder zumindest Menschen, mit denen du mehrere Monate datiert hast). Notiere:
-
-Ihre Charakterzüge. Waren sie emotional verfügbar oder distanziert? Vertrauenswürdig oder unzuverlässig? Unterstützend oder kritisch? Liebevoll oder kalkuliert?
-
-Das Muster der Beziehung. Wie hat es begonnen? Wie ist es gelaufen? Wie hat es geendet?
-
-Deine Rolle. Warst du der Verfolger oder der Verfolgte? Der Hoffnungsvolle oder der Realistische? Der, der leidet oder der, der wegsieht?
-
-Wenn du das alles notierst, wirst du wahrscheinlich ein Muster sehen. Ein Muster, das sich repetiert. Ein Muster, das vertraut ist.
-
-Das könnte aussehen wie:
-
-**Das Unavailable Pattern.** Deine Partner sind immer irgendwie nicht verfügbar. Sie haben einen Ex, auf den sie nicht ganz loslassen können. Sie sind zu fokussiert auf ihre Karriere. Sie haben [Bindungsangst](/blog/bindungsangst-komplett-guide). Sie sind emotional distanziert. Es gibt immer einen Grund, warum sie nicht vollständig da sein können. Und du bist immer der, der hofft, dass sich das ändert.
+**Familiale Skripte und Wiederholung.** Wir repetieren oft, was wir als Kinder gesehen haben. Wenn deine Eltern eine turbulente [Bindungsangst](/blog/bindungsangst-komplett-guide). Sie sind emotional distanziert. Es gibt immer einen Grund, warum sie nicht vollständig da sein können. Und du bist immer der, der hofft, dass sich das ändert.
 
 **Das Drama Pattern.** Deine Beziehungen sind immer Achterbahnfahrten. Hochs und Tiefs. Manchmal sind es intensive, passionierte Verbindungen. Manchmal sind es Kriege. Aber es ist nie stabil, nie ruhig. Und du magst das, weil es sich lebendig anfühlt.
 

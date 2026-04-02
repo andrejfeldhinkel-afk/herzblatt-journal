@@ -83,7 +83,7 @@ Wenn du nicht achtsam bist, suchst du oft unbewusst nach Mustern. Der erste Freu
 Achtsamkeit unterbricht das. Wenn du präsent bist, merkst du: "Moment, dieser Mensch triggert genau das gleiche Feeling wie die Person von damals. Das ist ein alter Trigger. Nicht die Wahrheit über diese Person."
 
 
-> **Lesetipp:** [Die 4 Beziehungstypen: Welcher bist du?](/blog/vier-beziehungstypen-welcher-bist-du) | [Beziehungs-Check: Wie gesund ist deine Partnerschaft?](/blog/beziehung-gesundheits-check)
+> **Lesetipp:** [Beziehungs-Check: Wie gesund ist deine Partnerschaft?](/blog/beziehung-gesundheits-check)
 
 
 Das ist befreiend. Weil du dann nicht mehr unbewusst deine Traumas nachspielst, sondern bewusst wählst.
@@ -118,13 +118,7 @@ Ich kenne so viele Menschen, die jahrelang bei jemandem sind, obwohl sie tief dr
 
 Achtsam sein heißt auch: In deine eigenen Grenzen reinspüren. Und sie respektieren.
 
-### Achtsamkeit beim [Ghosting](/blog/ghosting-komplett-guide) und der Verabredung
-
-Hier ist noch ne kontroverse Sache, bei der Achtsamkeit hilft.
-
-Du hast ein date mit jemandem, und es ist klar: Das wird nix. Und jetzt überlegst du vielleicht, wie du das kommunizierst. Ghosting? Nett eine Nachricht? Nicht antworten?
-
-Wenn du achtsam bist, stellst du dir die andere Frage: Wie würde ich wollen, dass mir das mitgeteilt wird? Ich glaube, niemand will [geghostet](/blog/ghosting-ueberwinden) werden. Jeder will bescheid wissen.
+### Achtsamkeit beim [geghostet](/blog/ghosting-ueberwinden) werden. Jeder will bescheid wissen.
 
 Also: Eine kurze, ehrliche Nachricht. "Hey, ich hab dich mega gemocht, aber ich glaub, wir sind nicht die richtige Kombi. Dir alles Gute." Das ist nicht herzlos. Das ist respektvoll.
 
@@ -172,7 +166,6 @@ Man kann es trainieren. Es ist wie ein Muskel. Je öfter du versuchst präsent z
 
 ## Weiterlesen
 
-- [Hochsensibel und [verliebt](/blog/mann-verliebt-anzeichen-komplett): So gelingt die Beziehung](/blog/hochsensibel-lieben-tipps)
 - [Neuen Partner den Kindern vorstellen: So geht''s richtig](/blog/alleinerziehend-partner-vorstellen)
 - [Den Alltag als Paar liebevoll gestalten](/blog/alltag-als-paar-gestalten)
 

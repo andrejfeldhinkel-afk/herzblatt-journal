@@ -11,17 +11,7 @@ tags:
 ---
 ## Das erste Beziehungsjahr: Was wirklich passiert
 
-Das erste Jahr einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/) ist wie kein anderes. Es ist aufregend. Es ist verwirrt. Es ist intensiv. Es ist das Jahr, in dem deine Beziehung sich definiert.
-
-Viele Paare halten nicht bis zum ersten Jahrestag. Nicht, weil die Beziehung schlecht ist, sondern weil sie nicht verstehen, was sie erwarten sollen.
-
-Dieser Guide ist ein Monat-für-Monat Anleitung durch das erste Jahr. Es bereitet dich vor auf, was kommt.
-
-## Die Wissenschaft der Verliebtheit — Das erste Stadium
-
-Bevor wir Monat eins besprechen, müssen wir die Chemie verstehen.
-
-Wenn du [verliebt](/blog/mann-verliebt-anzeichen-komplett) wirst, dein Gehirn ist nicht normal. Es ist in einem Rausch von Chemikalien.
+Das erste Jahr einer [verliebt](/blog/mann-verliebt-anzeichen-komplett) wirst, dein Gehirn ist nicht normal. Es ist in einem Rausch von Chemikalien.
 
 Dopamin ist ein, das für das Gefühl verantwortlich ist, das hoch. Das ist warum frühe Beziehung sich wie Droge anfühlt. Du kannst nicht aufhören zu denken, über ihn. Du kannst nicht warten, ihn zu sehen.
 
@@ -420,13 +410,7 @@ Hier sind 20 Dinge, die die meisten Paare im ersten Jahr durchmachen. Das ist ni
 
 Diese 20 Meilensteine sind nicht ein Test. Sie sind ein Zeichen, dass ihr Fortschritt macht. Wenn du alle nicht erlebt hast, das ist okey. Jedes Paar ist unterschiedlich.
 
-## Red Flags und [Green Flags](/blog/dating-green-flags-erkennen-guide) im ersten Jahr — Ein Bewertungssystem
-
-Du brauchst eine Weise zu wissen: Ist dies ein gutes Relationship oder sollte ich gehen?
-
-Hier sind die Zeichen.
-
-**[Red Flags](/blog/dating-red-flags-maenner-erkennen) — Bemerke diese früh**
+## Red Flags und [Red Flags](/blog/dating-red-flags-maenner-erkennen) — Bemerke diese früh**
 
 Kontrollierendes Verhalten: Er möchte wissen, wo du bist alle die Zeit. Er ist wütend, wenn du Freunde siehst.
 

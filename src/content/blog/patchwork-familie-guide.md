@@ -76,7 +76,7 @@ Dein Partner hat eine Geschichte mit dem anderen Elternteil. Das ist nicht dein 
 
 **Schritt 3: Stelle dich den Kindern als "Erwachsener in ihrem Leben" vor, nicht als "neuer Elternteil"**
 
-Die Kinder haben ein Elternteil. Du bist nicht das. Du bist jemand, den sie respektieren sollen und der sie mit Respekt behandelt. Im Laufe der Zeit kann sich das entwickeln. Aber druck nicht. [Lese auch unseren Guide zu Grenzensetzen mit Kindern](/blog/grenzen-setzen-beziehungen).
+Die Kinder haben ein Elternteil. Du bist nicht das. Du bist jemand, den sie respektieren sollen und der sie mit Respekt behandelt. Im Laufe der Zeit kann sich das entwickeln. Aber druck nicht. [Lese auch unseren Guide zu Grenzensetzen mit Kindern](/blog/grenzen-setzen-beziehung).
 
 **Schritt 4: Baue Zeit mit den Kindern auf**
 

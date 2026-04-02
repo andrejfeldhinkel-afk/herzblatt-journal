@@ -121,35 +121,7 @@ Dating-Apps haben unsere Vorstellung von Liebe fundamental verändert. Und währ
 
 ### Das Paradox der Wahl
 
-Mit Tinder, Bumble, [Hinge](/blog/hinge-guide-deutsch-2026), Match und Dutzenden anderen Apps hast du Zugang zu mehr möglichen Partnern als je zuvor.
-
-Aber das ist ein Problem.
-
-Mit zu viele Optionen erlebst du etwas, das Psychologen das "Paradoxon der Wahl" nennen. Anstatt glücklicher zu sein, bist du:
-- Ständig am Fragen, ob es jemand Besseres gibt
-- Unfähig, dich festzulegen
-- Ständig auf der Suche
-- Unzufrieden mit dem, was du hast
-
-Es ist wie ein unendliches Buffet, bei dem du nie voll wirst.
-
-### Die Objektifizierung
-
-Dating-Apps reduzieren Menschen auf Profile. Ein Foto, ein paar Bilder, eine Bio. Das ist dein erstes Eindruck.
-
-Dies führt zu einer Kultur der Objektifizierung:
-- Menschen werden auf ihre Fotos reduziert
-- "Heiße" oder "nicht heiße" basierend auf physischer Erscheinung
-- Swipen wird zu einem Spiel ohne echte Konsequenzen
-- Menschen werden nicht mehr als vollständige Menschen gesehen
-
-### Die Ghosts und die Disposability Culture
-
-Die Easyness, mit der Menschen auf Apps verschwinden können, ist beängstigend.
-
-Du redest mit jemandem, ihr haben großartige Chemie, plant ein Treffen… und dann: Radio Silence. Keine Nachricht mehr. Sie ist einfach weg.
-
-Das nennt sich "[Ghosting](/blog/ghosting-komplett-guide)". Und während es früher eine seltene Gemeinheit war, ist es jetzt die Norm auf Dating-Apps.
+Mit Tinder, Bumble, [Ghosting](/blog/ghosting-komplett-guide)". Und während es früher eine seltene Gemeinheit war, ist es jetzt die Norm auf Dating-Apps.
 
 Die Kultur der Disposability hat sich entwickelt: Menschen sind nicht so wertvoll, dass man die Anstrengung nimmt, sich zu verabschieden.
 

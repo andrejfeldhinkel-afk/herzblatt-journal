@@ -790,19 +790,7 @@ Eine Beziehungspause kann funktionieren. Aber nur wenn:
 - Beide Menschen sind aligned über was die Pause ist für
 - Es gibt Honesty und keine Manipulation
 
-Wenn eine Pause erfolgreich ist, kann sie eine [Beziehung retten](/blog/beziehung-retten-kompletter-guide). Wenn sie nicht erfolgreich ist, kann sie helfen beide Menschen zu sehen dass die Beziehung nicht funktioniert.
-
-Beides ist okay.
-
-Das wichtigste ist: Nutze die Pause um ehrlich zu sein mit dir selbst und mit dein Partner. Das ist die ganze Punkt. Nicht zu hoffen dass die Pause die Beziehung magisch fixiert. Sondern zu nutzen die Pause um zu sehen die Wahrheit.
-
-Dann basierend auf die Wahrheit — treffe eine Entscheidung. Bleib zusammen und arbeite daran. Oder trenn mit Respekt.
-
-Beides ist mutig. Beides ist richtig wenn es ehrlich ist.
-
----
-
-Für mehr über echte Beziehungskommunikation, oder [wie man am Rande steht zu trennen aber nicht weiß wann man sollte](/blog/beziehung-retten-letzte-chance), oder [persönliche Grenzen in Beziehungen](/blog/persoenliche-grenzen-dating), schau dir unsere Artikel an.
+Wenn eine Pause erfolgreich ist, kann sie eine [wie man am Rande steht zu trennen aber nicht weiß wann man sollte](/blog/beziehung-retten-letzte-chance), oder [persönliche Grenzen in Beziehungen](/blog/persoenliche-grenzen-dating), schau dir unsere Artikel an.
 ## Weiterlesen
 
 - [Beziehungspause: Sinnvoll oder Anfang vom Ende?](/blog/beziehungspause-sinnvoll/)

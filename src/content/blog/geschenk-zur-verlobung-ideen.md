@@ -155,4 +155,4 @@ Was zählt, ist: Du denkst an sie. Du wünschst ihnen Glück. Du feierst diesen 
 
 Das ist das beste Geschenk von allen.
 
-Für mehr auf der Hochzeitsreise, lies auch: [Hochzeit planen Checkliste](/blog/hochzeit-planen-checkliste-timeline) und [Verlobung Sprüche](/blog/verlobung-sprueche-glueckwuensche).
+Für mehr auf der Hochzeitsreise, lies auch: [Verlobung Sprüche](/blog/verlobung-sprueche-glueckwuensche).

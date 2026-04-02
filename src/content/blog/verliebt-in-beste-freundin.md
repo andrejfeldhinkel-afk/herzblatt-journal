@@ -184,6 +184,5 @@ Und egal wie es sich entwickelt: Deine beste Freundin ist glücklich zu haben, d
 Also sei sanft mit dir selbst. Diese Gefühle sind nicht dumm. Sie sind menschlich, sie sind echt, und sie bedeuten, dass du eine großartige Person gefunden hast.
 
 **Weitere hilfreiche Artikel:**
-- [Schwarm ansprechen – Mit Mut und Authentizität](/blog/schwarm-ansprechen-tipps)
 - [Verliebt in Kollegen – Was du wissen musst](/blog/verliebt-in-kollegen-was-tun)
 - [Emotionale Abhängigkeit erkennen und überwinden](/blog/emotionale-abhaengigkeit-test-selbstcheck)

@@ -49,7 +49,7 @@ In diesen ersten Stunden passiert echte Chemie-Überprüfung. Ihr seht, ob die P
 
 Du siehst diese Person jetzt regelmäßig. Zwei, drei, vier Dates pro Woche. Ihr probiert verschiedene Orte aus. Erst Kaffee, dann Dinner, dann Kino, dann wandern. Jedes Date bringt neue Infos.
 
-Das ist wenn die "Neue-[Beziehung](/blog/[zusammenziehen](/blog/zusammenziehen-checkliste)-wann-richtig)s-Energie" richtig zuschlägt. Du denkst an diese Person ständig. Du checkst dein Handy, ob sie geschrieben hat. Du erzählst deinen Freunden alles über sie. Sie sind entweder begeistert oder rollen mit den Augen – es kommt drauf an, wie sehr du nervtötest.
+Das ist wenn die "Neue-[zusammenziehen](/blog/zusammenziehen-checkliste)-wann-richtig)s-Energie" richtig zuschlägt. Du denkst an diese Person ständig. Du checkst dein Handy, ob sie geschrieben hat. Du erzählst deinen Freunden alles über sie. Sie sind entweder begeistert oder rollen mit den Augen – es kommt drauf an, wie sehr du nervtötest.
 
 Physische Nähe entwickelt sich schrittweise. Vielleicht halten ihr Hand beim dritten Date. Küssen beim vierten. Jede Beziehung ist anders, aber es gibt einen natürlichen Rhythmus.
 
@@ -145,45 +145,6 @@ Es gibt auch positive Zeichen, dass ihr im richtigen Tempo unterwegs seid:
 
 Ihr kommuniziert regelmäßig über Zukunft. Langweilig klingt das, aber das ist Liebe. Das zeigt, dass beide plant und will, dass die andere Person drin ist.
 
-Ihr navigiert [Phasen](/blog/phasen-einer-neuen-beziehung) mit Balance. Nicht zu schnell, nicht zu langsam. Das zeigt emotionale Reife.
-
-Konflikte werden mit Respekt gelöst. Das ist König. Die besten Paare sind nicht die, die nie streiten – die sind die, die fair streiten.
-
-Unterschiedliche Tempi werden respektiert. Das zeigt gegenseitige Rücksicht. Das ist wie echte Partnerschaft aussieht.
-
-## Die Wahrheit über deinen Weg
-
-Jede Beziehung ist anders. Eine andere Frau könnte nach zwei Wochen "Ich liebe dich" sagen und es würde funktionieren. Du könntest zwei Monate brauchen und das ist auch okay.
-
-Manche Paare heiraten nach einem Jahr. Manche heiraten nach zehn Jahren. Manche heiraten nie und sind glücklich. Die "richtige" Antwort existiert nicht.
-
-Das wichtigste ist, dass ihr beide aligned seid. Wenn er/sie schneller gehen will und du brauchst Zeit, dann muss das kommuniziert werden. Die richtige Person respektiert dein Tempo.
-
-Vertrau deinem Bauchgefühl. Wenn etwas sich falsch anfühlt, ist es das wahrscheinlich. Nicht immer – manchmal ist es nur Angst – aber achte drauf.
-
-## Die beste Timeline ist deine
-
-Am Ende ist dieser ganze Artikel ein Richtrahmen. Nicht ein Regelbuch. Deine Beziehung muss nicht dieser Timeline folgen. Du kannst schneller sein. Du kannst langsamer sein.
-
-Was zählt: Kommunikation, gegenseitiger Respekt, und dass ihr beide in die gleiche Richtung geht. Das ist es. Alles andere ist Details.
-
-### Häufig gestellte Fragen
-
-**Ist es normal, dass wir nach 3 Monaten noch kein "Ich liebe dich" gesagt haben?**
-
-Ja, total normal. Manche Leute sagen es nach 4 Wochen, manche nach 4 Monaten. Es kommt darauf an, wie schnell ihr euch näher kommt. Es ist nicht besser oder schlechter, nur unterschiedlich. Wenn es sich richtig anfühlt, sag es. Wenn es sich zu früh anfühlt, warte.
-
-**Was wenn wir schon zusammen sind, aber ich weiß nicht, auf welcher Phase wir sind?**
-
-Schau auf die Charakteristiken. Habt ihr noch die Honeymoon-Schmetterlinge? Oder habt ihr schon erste Konflikte? Die Phase bekommst du nicht perfekt, aber du kannst ein gutes Gefühl dafür bekommen, wo ihr seid.
-
-**Sollten wir uns absichtlich schneller oder langsamer bewegen als das, was sich anfühlt?**
-
-Nein. Der natürliche Rhythmus ist der beste. Wenn du versuchst, dich zu beschleunigen, um ihn/sie zu halten, endet das schlecht. Wenn du versuchst, dich zu bremsen, weil du Angst hast, endet das auch schlecht. Geh deinem Tempo.
-
-## Weiterlesen
-
-- [Beziehung nach dem Baby : Survival Guide für frische Eltern](/blog/beziehung-nach-baby-guide)
-- [Beziehung retten oder beenden? So triffst du die richtige](/blog/beziehung-retten-oder-trennen)
-- [Zusammenziehen: Wann ist der richtige Zeitpunkt?](/blog/zusammenziehen-wann-richtig)
+Ihr navigiert [Beziehung nach dem Baby : Survival Guide für frische Eltern](/blog/beziehung-nach-baby-guide)
+- [Zusammenziehen: Wann ist der richtige Zeitpunkt?](/blog/zusammenziehen-richtig-planen)
 

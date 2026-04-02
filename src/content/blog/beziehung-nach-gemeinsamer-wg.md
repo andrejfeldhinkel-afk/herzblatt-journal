@@ -25,33 +25,7 @@ faq:
 
 Es fängt harmlos an. Abends in der Küche kochen, Serien zusammen schauen, über den Tag reden. Irgendwann merkst du, dass du dich auf diese Momente freust. Dass der Mitbewohner oder die Mitbewohnerin nicht nur jemand ist, der die Miete teilt – sondern jemand, den du wirklich gern um dich hast.
 
-Vielleicht bekommst du Schmetterlinge, wenn die Person in die Küche kommt. Vielleicht findest du dich plötzlich sauberer machend vor ihrem Heimkommen. Vielleicht lächelst du im Bett und fragst dich, ob du gerade [verliebt](/blog/mann-verliebt-anzeichen-komplett) wirst.
-
-WG-Romanzen passieren häufiger als man denkt. Und sie haben einen unschlagbaren Vorteil: Ihr kennt euch schon im Alltag. Keine Überraschungen nach dem Zusammenziehen. Keine versteckte Seite, die nach dem "Ich liebe dich" auftaucht. Ihr habt euch schon in euren Schlabberklamotten, mit Erkältung, mit schlechter Laune erlebt.
-
-## Die Psychologie dahinter
-
-Nähe schafft Liebe. Das ist nicht romantisch, das ist psychologisch belegt. Wenn du mit jemandem täglich zusammen lebst, teilst du Alltag, Witze, Sorgen. Das ist Intimität. Und Intimität führt oft zu Gefühlen.
-
-Besonders wenn die andere Person nett zu dir ist, dich unterstützt, gemeinsam mit dir lacht – all die kleinen Dinge, die nicht Dating sind, aber trotzdem Bindung schaffen.
-
-## Die Vorteile einer WG-Romanze
-
-Ihr habt euch bereits in den nervigsten Situationen erlebt. Morgens vor dem Bad (ungekämmt, ungekämmt), mit Erkältung auf dem Sofa (schwach, bedürftig), nach einem stressigen Tag (gereizt, ungeduldig). Die rosarote Brille fällt in einer WG schneller – und das ist gut so. Denn was dann noch bleibt, ist echt.
-
-Wenn du jemanden täglich siehst und magst – ohne dass es einen "Date"-Rahmen gibt – ist das Liebe ohne Inszenierung. Ihr seid nicht auf euer bestes Benehmen angewiesen. Ihr seid einfach... euch.
-
-Außerdem wisst ihr, wie der andere in einem gemeinsamen Haushalt funktioniert. Wer putzt, wer kocht, wie ordentlich jemand ist, ob die Person die Zahnbürste falsch ablegt – all diese Dinge, die Paare nach dem Zusammenziehen überraschen und frustrieren, kennt ihr schon. Das ist unglaublich wertvoll. Viele Beziehungen scheitern, weil der eine die andere Person plötzlich sieht und denkt "Moment, du bist ja chaotisch!" Euch überrascht das nicht.
-
-## Die emotionale Vorbereitung
-
-Bevor du die Gefühle gestehst, bereite dich mental vor. Es gibt drei Szenarien:
-
-1. Die Person erwidert deine Gefühle. Super!
-2. Die Person erwidert deine Gefühle nicht, will aber Freundschaft bleiben.
-3. Die Person erwidert deine Gefühle nicht und das Zusammenleben wird unangenehm.
-
-Das dritte Szenario ist das, vor dem jeder Angst hat. Und es ist berechtigt. Deshalb: Bevor du deine Gefühle aussprichst, überprüfe die Vorzeichen. Gibt es gegenseitige Berührungen? Schaut die Person dich länger an? Macht die Person dir [Komplimente](/blog/komplimente-fuer-maenner)? Oder bin ich nur hoffnungsvoll?
+Vielleicht bekommst du Schmetterlinge, wenn die Person in die Küche kommt. Vielleicht findest du dich plötzlich sauberer machend vor ihrem Heimkommen. Vielleicht lächelst du im Bett und fragst dich, ob du gerade [Komplimente](/blog/komplimente-fuer-maenner)? Oder bin ich nur hoffnungsvoll?
 
 Das ist eine ehrliche Überprüfung. Nicht Stalking, sondern Realitätsprüfung.
 

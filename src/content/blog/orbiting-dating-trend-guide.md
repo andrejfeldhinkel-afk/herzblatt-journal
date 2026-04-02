@@ -1,5 +1,5 @@
 ---
-title: "Orbiting: Wenn dein Ex ständig deine Stories schaut aber nicht schreibt"
+title: "Orbiting: Wenn dein Ex ständig deine Stories schaut aber ..."
 description: "Orbiting ist ein moderner Dating-Trend: Dein Ex folgt deinem Leben, ohne echten Kontakt. Lerne Orbiting zu erkennen und damit umzugehen."
 date: 2026-03-29
 tags:
@@ -171,6 +171,5 @@ Und weil das – weil er nicht bereit ist für echte Verbindung – könntest du
 ---
 
 **Verwandte Artikel:**
-- [Ghosts überwinden: Emotionale Heilung nach Ghosting](/blog/)
-- [Grenzen setzen in Beziehungen: Der komplette Guide](/blog/)
+- Ghosts überwinden: Emotionale Heilung nach Ghosting
 - [Selbstsabotage beim Dating: Warum du immer wieder die Falschen wählst](/blog/selbstsabotage-dating-muster-guide)

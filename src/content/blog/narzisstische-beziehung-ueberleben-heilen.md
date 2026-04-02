@@ -72,11 +72,7 @@ Die meisten Menschen, die in narzisstischen Beziehungen sind, haben einen von di
 
 Wenn du in einer narzisstischen Beziehung bist, passiert das Gleiche immer wieder. Es ist ein Zyklus. Und das Verständnis dieses Zyklus ist der erste Schritt zur Befreiung.
 
-### Phase 1: [Love Bombing](/blog/love-bombing-erkennen-schuetzen) – Das süße Gift
-
-Am Anfang ist es magisch.
-
-Dein Partner ist dich gegenüber intensiv präsent. Er schreibt dir ständig. Er macht dir [Komplimente](/blog/komplimente-fuer-maenner). Er will ständig Zeit mit dir verbringen. Er redet von der Zukunft: "Ich weiß, dass dich jemand sein werde, den ich liebe."
+### Phase 1: [Komplimente](/blog/komplimente-fuer-maenner). Er will ständig Zeit mit dir verbringen. Er redet von der Zukunft: "Ich weiß, dass dich jemand sein werde, den ich liebe."
 
 Das ist nicht nur Liebe. Das ist Love Bombing.
 

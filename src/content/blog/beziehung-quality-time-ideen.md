@@ -212,6 +212,6 @@ Nein. Die beste Quality Time ist manchmal einfach, nebeneinander zu sitzen und z
 
 - [30 Beziehungsrituale für mehr Nähe](/blog/beziehung-rituale-ideen/)
 - [Beziehung mit großem Altersunterschied](/blog/beziehung-altersunterschied/)
-- [Von der Fernbeziehung zum Zusammenziehen: Der nächste Schritt](/blog/beziehung-fernbeziehung-[zusammenziehen](/blog/zusammenziehen-checkliste)/)
+- [zusammenziehen](/blog/zusammenziehen-checkliste)/)
 - [Gemeinsam meditieren als Paar: Achtsamkeit zu zweit](/blog/beziehung-gemeinsam-meditieren/)
 - [Gemeinsames Haushaltsbuch als Paar: Geld fair verwalten](/blog/beziehung-gemeinsames-haushaltsbuch/)

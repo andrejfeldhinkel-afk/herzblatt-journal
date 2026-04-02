@@ -1,5 +1,5 @@
 ---
-title: "Partner finden: Die beste Strategie und wo du wirklich jemanden triffst"
+title: "Partner finden: Die beste Strategie und wo du wirklich je..."
 description: "Wo und wie du deinen Partner findest: Online-Dating, echte Orte und die richtige Mindset. Praktische Tipps für die erfolgreiche Partnersuche."
 date: 2026-04-02
 tags: [partnersuche, dating, beziehung, single]
@@ -99,7 +99,7 @@ Parties, Stammtische, Events – das sind Orte, wo Menschen zusammenkommen. Und 
 
 Ob online oder in der echten Welt: Die Konversation ist Schlüssel. Stelle echte Fragen. "Wie war dein Tag?" ist besser als "Hey". "Was ist dir in einer Beziehung wichtig?" ist besser als "Was machst du beruflich?"
 
-[Wenn du an deinen Kommunikationsfähigkeiten arbeiten möchtest, lese unseren Artikel über emotionale Abhängigkeit und wie du dich selbst besser ausdrückst](/blog/emotionale-abhaengigkeit-loesen-schritte.md).
+[Wenn du an deinen Kommunikationsfähigkeiten arbeiten möchtest, lese unseren Artikel über emotionale Abhängigkeit und wie du dich selbst besser ausdrückst](/blog/emotionale-abhaengigkeit-loesen-schritte).
 
 ## Die psychologische Vorbereitung
 

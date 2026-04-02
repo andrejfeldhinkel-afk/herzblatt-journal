@@ -89,20 +89,7 @@ Das funktioniert, weil:
 - Es fühlt sich wie ein echtes Gespräch an
 
 **Beispiel 3 (für jemanden, der ein Hobby-Foto hat):**
-"Du hast ein Foto vom Wandern – das ist toll! Ich [liebe](/blog/beziehung-ohne-schmetterling/) Wanderungen auch, aber ich bin immer auf der Suche nach neuen Wegen. Hast du einen Favoriten in der Nähe?"
-
-Das funktioniert, weil:
-- Es zeigt gemeinsame Interessen
-- Es lädt zum Gespräch ein
-- Es ist spezifisch, nicht generisch
-
-## Nachrichten, die NICHT funktionieren
-
-**Zu lang:** Eine Nachricht, die drei Absätze ist, ist zu viel. Halten es kurz und süß.
-
-**Zu direkt sexuell:** "Hey sexy" ist ein No-Go. Es sein denn, ihr habt schon etabliert, dass das okay ist.
-
-**Zu viele [Komplimente](/blog/komplimente-fuer-maenner) zu früh:** Ein Kompliment ist schön. Drei Komplimente in der ersten Nachricht wirkt unecht.
+"Du hast ein Foto vom Wandern – das ist toll! Ich [Komplimente](/blog/komplimente-fuer-maenner) zu früh:** Ein Kompliment ist schön. Drei Komplimente in der ersten Nachricht wirkt unecht.
 
 **Typos und fehlerhafte Grammatik:** Sei nicht obsessiv, aber Prüflesung ist wichtig. Menschen lesen Typos als Mangel an Aufmerksamkeit.
 

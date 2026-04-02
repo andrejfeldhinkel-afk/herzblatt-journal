@@ -191,7 +191,7 @@ Single69 spricht ein breites Publikum an:
 - Menschen, die keine Verpflichtungen wollen
 
 **Weniger ideal für:**
-- Die, die ernsthafte Partnervermittlung suchen (dafür: [xLoves](/blog/xloves-test-erfahrungen) oder [WhatsMeet](/blog/whatsmeet-test-erfahrungen))
+- Die, die ernsthafte Partnervermittlung suchen (dafür: [WhatsMeet](/blog/whatsmeet-test-erfahrungen))
 - Menschen mit sehr hohen Qualitätsansprüchen
 - Introvertierte, die weniger matchen möchten (dafür: WhatsMeet)
 - Wer in sehr kleinen Dörfern lebt (Nutzerbase zu klein)
@@ -261,27 +261,7 @@ Wenn du auf jüngere Singles stehst, findest du hier die. Wenn du ältere bevorz
 
 ### 6. Keine Überprüfung nötig
 
-Anders als [xLoves](/blog/xloves-test-erfahrungen) mit ihrem strengen Verifizierungsprozess, kannst du bei Single69 sofort los. Das ist gut für Spontaneität, aber auch ein Sicherheitsrisiko (siehe Nachteile).
-
-## Nachteile von Single69: Das solltest du wissen
-
-### 1. Werbe-Intensität ohne Premium ist absurd
-
-Die Werbung in der Free-Version ist intensiv und kann das Nutzererlebnis deutlich trüben. Full-Screen-Ads zwischen Profilen und Banner im Chat sind störend. Ohne Premium-Abo ist die Nutzung auf Dauer frustrierend.
-
-Nach der ersten Woche wirst du bereit sein, zu Premium zu wechseln — und genau das ist die Absicht.
-
-### 2. Profilqualität ist durchwachsen
-
-Die Profilqualität ist sehr variabel. Durch die niedrige Einstiegshürze gibt es viele Profile mit wenig Inhalt, schlechten Fotos oder inaktive Accounts. Du musst deutlich mehr Profile durchscrollen, um gute zu finden.
-
-Richtwert: Bei 100 Profilen sind vielleicht 15-20 ernsthaft brauchbar.
-
-### 3. Der Matching-Algorithmus ist oberflächlich
-
-Das Matching ist oberflächlich — ohne Persönlichkeitstest oder detaillierte Algorithmen werden Profile hauptsächlich nach Standort und Alter gefiltert. Das führt zu vielen Matches ohne echte Kompatibilität.
-
-Wenn dir tiefe Gesprächs-Matches wichtig sind: [WhatsMeet](/blog/whatsmeet-test-erfahrungen) ist besser.
+Anders als [WhatsMeet](/blog/whatsmeet-test-erfahrungen) ist besser.
 
 ### 4. Fake-Profile und Spam
 
@@ -446,36 +426,8 @@ Single69 ist PERFEKT für dich. Neue Stadt = neue Leute finden = Casual Dating A
 
 ### Szenario 2: "Ich bin introvertiert"
 
-Single69 funktioniert für Introvertierte, aber ist nicht optimal. Das Swiping-Format erfordert Aktivität und kann emotional draining sein. Besser: [WhatsMeet](/blog/whatsmeet-test-erfahrungen) für Introvertierte.
-
-**Erfolgsrate:** Mittel
-
-### Szenario 3: "Ich suche ernsthafte Partnerin"
-
-Single69 ist nicht die richtige Wahl. Die Plattform ist ausgelegt auf Casual Dating und schnelle Treffen. Für Beziehungssuche: [xLoves](/blog/xloves-test-erfahrungen) oder [WhatsMeet](/blog/whatsmeet-test-erfahrungen).
-
-**Erfolgsrate:** Niedrig
-
-### Szenario 4: "Ich bin übergangsweise allein"
-
-Single69 ist perfekt. Unkompliziert, viele Optionen, keine Verpflichtungen. Genau richtig für jemanden der "gerade" solo ist.
-
-**Erfolgsrate:** Sehr hoch
-
-### Szenario 5: "Ich bin in einer Beziehung / nicht solo"
-
-Bitte nutze Single69 nicht zu betrügen. Das ist nicht fair. Wenn du polyamor oder offen bist — kommunizier das. Single69 hat Optionen dafür.
-
-**Erfolgsrate:** N/A
-
-## Alternative Plattformen zu Single69
-
-Je nach deinen Zielen gibt es bessere Alternativen:
-
-- **[WhatsMeet](/blog/whatsmeet-test-erfahrungen)** — Chat-First für tiefere Connections
-- **[xLoves](/blog/xloves-test-erfahrungen)** — Für ernsthafte Partnervermittlung
+Single69 funktioniert für Introvertierte, aber ist nicht optimal. Das Swiping-Format erfordert Aktivität und kann emotional draining sein. Besser: [xLoves](/blog/xloves-test-erfahrungen) oder [WhatsMeet](/blog/whatsmeet-test-erfahrungen)** — Chat-First für tiefere Connections
 - **[MichVerlieben](/blog/michverlieben-test-erfahrungen)** — Deutsche App mit guter Community
-- **[Sex69](/blog/sex69-test-erfahrungen)** — Für unkomplizierte, körperbetonte Treffen
 - **[OnlyDates69](/blog/onlydates69-test-erfahrungen)** — Fokus auf schnelle, strukturierte Dates
 
 **Optimal-Kombination:** Single69 als Haupt-App für Casual Dating + WhatsMeet für tiefere Gespräche.

@@ -31,15 +31,7 @@ Dating-Apps haben ihre Vorteile, aber manchmal möchtest du Menschen auf natürl
 
 ### 1. Hobby- und Interessenclubs
 
-Das beste Fundament für jede [beziehung](/blog/adhs-und-beziehung-komplett-guide/) ist **gemeinsame Interessen**. Menschen, die deine Hobbys teilen, verstehen dich bereits auf einer tieferen Ebene.
-
-**Wo finden?** Meetup.com, lokale Community-Zentren, Clubhouses, Volkshochschulen. Es gibt Clubs für alles: Brettspiele, Buch-Clubs, Fotografie, Film-Clubs, Schach, Gartenarbeit.
-
-**Der Vorteil**: Du triffst Menschen, die bereits gemeinsame Leidenschaften teilen. Die Konversation fließt natürlich. Und wenn es romantisch wird, habt ihr bereits eine Basis für gemeinsame Aktivitäten.
-
-### 2. Sport und Fitness
-
-**Sportkurse** sind fantastisch zum [Kennenlernen](/blog/dating-fragen-kennenlernen):
+Das beste Fundament für jede [Kennenlernen](/blog/dating-fragen-kennenlernen):
 - Yoga-Kurse
 - CrossFit oder Fitnessstudio-Gruppen
 - Lauftreffs

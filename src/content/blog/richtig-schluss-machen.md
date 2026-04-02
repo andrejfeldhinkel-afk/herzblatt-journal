@@ -26,7 +26,7 @@ faq:
   - question: "Wie gehe ich mit Schuldgefühlen nach der Trennung um?"
     answer: "Schuldgefühle sind normal und zeigen, dass du empathisch bist. Erinnere dich daran, dass eine unehrliche Beziehung fortzuführen beiden mehr schadet als eine respektvolle Trennung."
 ---
-Eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) zu beenden ist eine der schwierigsten Entscheidungen, die du treffen kannst. Egal, ob du sich auseinandergewachsen habt, die Chemie verloren gegangen ist oder grundlegende Unterschiede unüberwindbar geworden sind — der Gedanke, dein Gegenüber zu verletzen, kann dich lahmlegen. Doch genau hier liegt der Knackpunkt: Eine ehrliche, respektvolle [Trennung](/blog/trennung-verarbeiten-12-schritte) ist der liebevollste Weg für beide Seiten. Dieser Leitfaden zeigt dir, wie du mit Würde Schluss machst.
+Eine [Trennung](/blog/trennung-verarbeiten-12-schritte) ist der liebevollste Weg für beide Seiten. Dieser Leitfaden zeigt dir, wie du mit Würde Schluss machst.
 
 ## Erkenne die Zeichen: Wann ist es Zeit, sich zu trennen?
 
@@ -38,15 +38,7 @@ Wenn du über längere Zeit hinweg denkst: "Das funktioniert nicht mehr" oder "I
 
 ### Die Beziehung ist eher Gewohnheit als Liebe
 
-Es ist völlig normal, dass die intensive Phase einer Beziehung nachlässt. Doch zwischen "weniger [verliebt](/blog/mann-verliebt-anzeichen-komplett) sein" und "gar nicht mehr verliebt sein" liegt ein großer Unterschied. Wenn du dich hauptsächlich deshalb bei dieser Person aufhältst, weil es sich "komfortabel" anfühlt oder weil du Angst vor der Einsamkeit hast, ist das ein Zeichen dafür, dass die Beziehung seinen Sinn verloren hat.
-
-### Ihr passt nicht mehr zusammen
-
-Menschen entwickeln sich weiter. Manchmal wachsen zwei Menschen in unterschiedliche Richtungen. **Unterschiedliche Lebensziele, Wertvorstellungen oder Lebensentwürfe sind legitime Gründe für eine Trennung.** Du brauchst dich nicht schuldig fühlen, wenn ihr einfach nicht mehr auf derselben Wellenlänge seid.
-
-### Die Beziehung schadet beiden
-
-Ständige Konflikte, fehlende Kommunikation oder emotionaler Missbrauch sind klare Anzeichen, dass die Beziehung beendet werden sollte. **Eine [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) fortzuführen schadet beiden Partnern** — dem einen, der sich festgefahren fühlt, und dem anderen, der unbewusst Verhalten aufrechterhält, das nicht gesund ist.
+Es ist völlig normal, dass die intensive Phase einer Beziehung nachlässt. Doch zwischen "weniger [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) fortzuführen schadet beiden Partnern** — dem einen, der sich festgefahren fühlt, und dem anderen, der unbewusst Verhalten aufrechterhält, das nicht gesund ist.
 
 ### Du stellst dir das Beziehungsende vor
 
@@ -332,7 +324,7 @@ Das Beste, das du für beide tun kannst, ist, es richtig zu machen.
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten), [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden), [Polyamorie: Grundlagen & Tipps für alternative Beziehungsstrukturen](/blog/polyamorie-grundlagen).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden), [Polyamorie: Grundlagen & Tipps für alternative Beziehungsstrukturen](/blog/polyamorie-grundlagen).## Weiterlesen
 
 - [Sexuelle Kompatibilität in Beziehungen: Warum es wichtig ist](/blog/sexuelle-kompatibilitaet/)
 - [Polyamorie: Grundlagen & Tipps für alternative](/blog/polyamorie-grundlagen/)

@@ -1,5 +1,5 @@
 ---
-title: "Single Sprüche: 50 Zitate über das Alleinsein & die Freiheit (2026)"
+title: "Single Sprüche: 50 Zitate über das Alleinsein & die Freiheit"
 description: "50 inspirierende Single-Sprüche und Zitate über Freiheit, Selbstliebe und das Alleinsein. Zum Nachdenken und Weitergeben."
 date: 2026-04-01
 image: "/images/blog/single-sprueche-zitate.webp"

@@ -1,5 +1,5 @@
 ---
-title: "Beziehung nach Affäre retten: Die 5 Phasen der Heilung (2026)"
+title: "Beziehung nach Affäre retten: Die 5 Phasen der Heilung"
 description: "Beziehung nach Affäre und Seitensprung retten: Die 5 Phasen der Heilung, Vertrauensaufbau, und wie du entscheidest, ob es sich lohnt weiterzumachen."
 date: 2026-04-01
 image: "/images/blog/beziehung-nach-affaere-retten.webp"

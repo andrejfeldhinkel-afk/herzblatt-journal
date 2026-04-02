@@ -110,27 +110,11 @@ Achten Sie darauf, echte Kompatibilität von kurzfristigen Bedürfnissen zu unte
 - Jemand, der zu schnell zu intensiv wird
 - Jemand, der zukünftige Gespräche vermeidet
 - Jemand, der sich "vorübergehend" verhält, obwohl er sagt, dass er ernsthaft ist
-- Schnelle [Gaslighting](/blog/gaslighting-komplett-guide) oder Manipulation
-
-### 6. Bereiten Sie sich auf die Frühjahrs-Verschiebung vor
-
-Wenn Sie in eine Cuffing-Season-Beziehung sind, seien Sie sich bewusst, dass die Gefühle und das Engagement mit sich änderndem Wetter variieren können. Das ist normal. Das Problem entsteht, wenn jemand so tut, als ob die Verschiebung nicht passiert.
-
-## Das Positive in Cuffing Season
-
-Beachte: Cuffing Season nicht intrinsisch schlecht ist. Viele großartige, langfristige Beziehungen haben während Cuffing Season begonnen. Der Schlüssel ist Transparenz und gegenseitiges Verstehen.
-
-Wenn zwei Menschen sich treffen, Chemie haben und beide offen für eine echte Beziehung sind, spielt es keine Rolle, ob das Wetter kalt ist. Die Saison ist nur ein Kontext.
-
-Weitere Einblicke in saisonale Dating-Trends:
-
-- [Freckling: Der Sommer-Dating-Trend erklärt](/blog/freckling-sommer-dating-trend)
-- [Wokefishing: Die Dating-Taktik erkennen und vermeiden](/blog/wokefishing-dating-taktik)
+- Schnelle [Freckling: Der Sommer-Dating-Trend erklärt](/blog/freckling-sommer-dating-trend)
 - [Hardballing: Warum direktes Dating besser ist](/blog/hardballing-dating-direkt-ehrlich)
 
 ## Weiterlesen
 
-- [Dating im Herbst: Warum jetzt die beste Zeit zum Verlieben](/blog/dating-im-herbst)
 - [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
 

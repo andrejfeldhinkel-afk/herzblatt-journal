@@ -1,5 +1,5 @@
 ---
-title: "Date absagen: Höflich, ehrlich und respektvoll – Der richtige Weg"
+title: "Date absagen: Höflich, ehrlich und respektvoll"
 description: "Wie du ein Date absagst, ohne den anderen zu verletzen. Praktische Tipps für eine respektvolle Absage."
 date: 2026-04-02
 tags: ["Dating", "Kommunikation", "Absage", "Respekt"]
@@ -153,9 +153,9 @@ Eine Absage ist eine Ablehnung, aber sie sagt nicht, dass es etwas Falsches mit 
 
 ## Weitere hilfreiche Artikel
 
-Wenn du mehr über Dating lernen möchtest, schau dir [unseren Guide zum perfekten Date-Outfit](/blog/date-outfit-tipps-frauen-maenner.md) an.
+Wenn du mehr über Dating lernen möchtest, schau dir [unseren Guide zum perfekten Date-Outfit](/blog/date-outfit-tipps-frauen-maenner) an.
 
-Für mehr über Beziehungen und Kommunikation, lesen [unseren Artikel über Komplimente](/blog/komplimente-machen-die-ankommen.md).
+Für mehr über Beziehungen und Kommunikation, lesen [unseren Artikel über Komplimente](/blog/komplimente-machen-die-ankommen).
 
 ## Fazit: Respekt ist immer die beste Option
 

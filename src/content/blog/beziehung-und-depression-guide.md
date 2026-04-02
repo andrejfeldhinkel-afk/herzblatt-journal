@@ -289,29 +289,7 @@ Es könnte auch hilfreich sein, ein Notfall-Plan zu haben. Wenn die Depression s
 
 Manchmal, nachdem all die Sache und das Versuchen, funktioniert eine Beziehung mit Depression einfach nicht. Das ist auch okay.
 
-Eine [Trennung](/blog/trennung-verarbeiten-12-schritte) aufgrund von Depression ist nicht ein Fehler. Es ist nicht lieblos. Es ist manchmal die realistischste Entscheidung.
-
-Wenn du zu diesem Punkt kommst, ist es wichtig zu verstehen, dass Trennung nicht bedeutet, dass du sie aufgibst. Du kannst sich trennen und trotzdem unterstützend sein. Du kannst sich trennen und trotzdem ihre Heilung ermutigen.
-
-Es ist auch wichtig zu verstehen, dass, nachdem du dich trennen, du dich schuldig fühlen könnte. Das ist normal. Aber denk daran: Du hast nicht ihre Depression verursacht. Du kannst sie nicht heilen. Du kannst nur auf dich selbst passen.
-
-## Die Hope-Geschichte: Reale Beispiele von Paaren, die es gemacht haben
-
-Während dieser Artikel eine Menge über Herausforderungen gesprochen hat, wollte ich auf some Hoffnungs-Geschichten klären.
-
-Es gibt Paare, die Depression durchgegangen sind und es sind stärker hervorgekommen. Sie haben gelernt zu kommunizieren besser. Sie haben tieferen Empathie entwickelt. Sie haben eine art von Verständnis aufgebaut, das andere Paare nicht haben.
-
-Eine solche Paare könnte gesagt haben, "Depression war die schwierigste Sache, die wir durchgegangen haben, aber es hat uns auch näher zusammenbracht."
-
-Ein anderes Paar könnte sein, dass einer der Partner sein Leben völlig mit Therapie und Medikation verändert hat, und die andere Seite ist, dass die Beziehung wieder lebendig geworden ist.
-
-Diese Geschichten sind nicht einfach oder schnell. Aber sie sind real, und sie sind möglich.
-
-## Weiterführende Ressourcen und Hilfe
-
-Wenn du mit Depression und Beziehung kämpfst, möchte ich dich ein paar Ressourcen anbieten.
-
-Es könnte hilfreich sein zu lese unserer [umfassenden Guide zu mentaler Gesundheit und Beziehungen](/blog/mentale-gesundheit-beziehungen). Ein anderer lesenswert Artikel ist unser [Guide zu Paartherapie und wie man davon profitiert](/blog/paartherapie-guide).
+Eine [umfassenden Guide zu mentaler Gesundheit und Beziehungen](/blog/emotionale-gesundheit-liebe). Ein anderer lesenswert Artikel ist unser [Guide zu Paartherapie und wie man davon profitiert](/blog/dating-nach-therapie-guide).
 
 Es gibt auch Medikationsinformationen und Psychologische Online-Ressourcen, die hilfreich sein können.
 

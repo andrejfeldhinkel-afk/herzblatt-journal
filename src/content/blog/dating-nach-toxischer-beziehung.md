@@ -21,11 +21,7 @@ faq:
   - question: "Wie vermeide ich, wieder in ein toxisches Muster zu geraten?"
     answer: "Lerne die Red Flags kennen, die du übersehen hast. Vertraue deinem Bauchgefühl, kommuniziere früh über Grenzen, und zögere nicht, jemanden loszulassen, der deine Werte nicht respektiert."
 ---
-Nach einer toxischen [beziehung](/blog/adhs-und-beziehung-komplett-guide/) wieder ins Dating zu gehen fühlt sich wie das Betreten eines dunklen Raums an, in dem man nicht weiß, wo die Wände sind. Die Narben, die zurückgeblieben sind, können groß sein, aber [heilung](/blog/aengstlicher-bindungsstil-heilen/) und ein neuer Anfang sind möglich. In diesem Artikel werde ich dir helfen zu verstehen, wie du wieder bereit wirst und wie du dich selbst schützt.
-
-## Verstehe, was in der toxischen Beziehung passiert ist
-
-Bevor du zurück ins Dating gehst, ist es wichtig, die [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) zu analysieren. Was waren die Warnsignale, die du übersehen hast? Wie hat sich die andere Person verhalten, und wie hast du darauf reagiert?
+Nach einer toxischen [beziehung](/blog/adhs-und-beziehung-komplett-guide/) wieder ins Dating zu gehen fühlt sich wie das Betreten eines dunklen Raums an, in dem man nicht weiß, wo die Wände sind. Die Narben, die zurückgeblieben sind, können groß sein, aber [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) zu analysieren. Was waren die Warnsignale, die du übersehen hast? Wie hat sich die andere Person verhalten, und wie hast du darauf reagiert?
 
 Dies ist nicht dazu da, dich selbst zu beschuldigen, sondern um zu lernen. Viele Menschen, die aus toxischen Beziehungen herauskommen, erkennen, dass sie unbewusst nach Mustern aus ihrer Kindheit suchten. Eine Therapie kann dir bei diesem Verständnis helfen.
 

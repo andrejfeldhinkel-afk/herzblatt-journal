@@ -1,5 +1,5 @@
 ---
-title: "Toxische Freundschaft erkennen: Wann es Zeit ist, die Freundschaft zu beenden"
+title: "Toxische Freundschaft erkennen"
 description: "Erkenne toxische Freundschaften und lerne, dich selbst zu schützen. Praktische Tipps zum Beenden von schädlichen Freundschaften – respektvoll und gesund."
 date: 2026-04-02
 tags: ["freundschaft", "grenzen", "persönliche-entwicklung", "beziehungen", "psychologie"]
@@ -141,7 +141,7 @@ Nach einer toxischen Freundschaft, sehe hier, wie du bessere Freundschaften scha
 - Suche gegenseitige Unterstützung, nicht einseitig
 - Höre deinem Bauchgefühl zu – wenn es sich falsch anfühlt, ist es falsch
 
-[Lese auch unseren Artikel über Grenzen setzen](/blog/grenzen-setzen-beziehungen) – das ist in Freundschaften genauso wichtig wie in romantischen Beziehungen.
+[Lese auch unseren Artikel über Grenzen setzen](/blog/grenzen-setzen-beziehung) – das ist in Freundschaften genauso wichtig wie in romantischen Beziehungen.
 
 ## Die schwierigste Wahrheit
 

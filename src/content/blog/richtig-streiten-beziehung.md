@@ -246,11 +246,7 @@ Wenn Streite in eurer Beziehung wirklich schädlich werden oder du nicht herausk
 
 Aber das Wichtigste ist: Streite fair. Streite mit Respekt. Und nutze Konflikte um näher zu einander zu kommen, nicht um sich zu trennen.
 
-Für mehr über Kommunikation in Beziehungen, schau dir unseren Guide zu [emotionale intelligenz im dating](/blog/emotionale-intelligenz-dating) an.
-
----
-
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten), [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden).## Weiterlesen
+Für mehr über Kommunikation in Beziehungen, schau dir unseren Guide zu [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung), [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden).## Weiterlesen
 
 - [Richtig streiten in der Beziehung: Streitkultur die eure](/blog/streitkultur-beziehung-richtig-streiten/)
 - [Aktives Zuhören üben: Besser verstehen in 7 Schritten](/blog/aktives-zuhoeren-beziehung-ueben/)

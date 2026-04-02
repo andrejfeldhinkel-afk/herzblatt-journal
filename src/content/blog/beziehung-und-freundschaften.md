@@ -21,29 +21,7 @@ faq:
   - question: "Was mache ich, wenn mein Partner meine Freunde nicht mag?"
     answer: "Das ist ein größeres Problem. Dein Partner muss deine Freunde nicht lieben, aber er muss sie respektieren. Wenn er versucht, dich von ihnen zu isolieren, ist das ein Warnsignal. Wenn es nur Unbehagen ist, könnte Zeit helfen."
 ---
-Eine der größten Herausforderungen in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/) ist das Gleichgewicht zwischen der Romantik mit deinem Partner und der Aufrechterhaltung deiner Freundschaften. Es ist leicht, sich in die Liebelei zu verlaufen und plötzlich deine besten Freunde zu vernachlässigen. Aber langfristig glückliche Menschen haben beides – eine erfüllende Beziehung UND enge Freundschaften.
-
-## Warum Freundschaften in einer Beziehung wichtig sind
-
-Freundschaften sind nicht nur schön – sie sind essenziell für deine psychische Gesundheit und die Stabilität deiner Beziehung. Wenn dein ganzes Glück von deinem Partner abhängt, ist das ungesund für dich und potentiell auch für die Beziehung.
-
-Gute Freundschaften bieten dir:
-
-**Unterstützung und Perspektive:** Wenn du in einer Beziehung Probleme hast, sind deine Freunde jemand, mit dem du reden kannst. Sie können dir Perspektive geben, die dein Partner nicht kann.
-
-**Deine Identität bewahren:** Eine Beziehung sollte nicht deine gesamte Identität werden. Deine Freundschaften helfen dir, dich selbst zu bleiben.
-
-**Stress zu reduzieren:** Zeit mit Freunden macht Spaß, ist stressabbauend und gibt dir einen Ausgleich zu intensiven romantischen Beziehungen.
-
-**Ein Sicherheitsnetz:** Wenn deine Beziehung endet, hast du immer noch deine Freunde.
-
-## Die Honeymoon-Phase und die Freundschafts-Vernachlässigung
-
-Es ist völlig normal, dass du in der Anfangsphase einer Beziehung dich konzentrierst auf deinen neuen Partner. Die Chemie ist neu und aufregend. Du möchtest viel Zeit zusammen verbringen.
-
-Das Problem entsteht, wenn diese Phase vorüber ist und du merkst, dass du deine Freunde vernachlässigt hast. Manche Freunde werden beleidigt sein oder sich verletzt fühlen. Andere werden sich einfach distanzieren.
-
-Der Schlüssel ist, dies bewusst zu verwalten. Auch wenn du [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, sorge dafür, dass du deine Freundschaften prflegst.
+Eine der größten Herausforderungen in einer [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, sorge dafür, dass du deine Freundschaften prflegst.
 
 ## Wie man die Balance hält
 

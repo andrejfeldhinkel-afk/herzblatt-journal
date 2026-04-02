@@ -309,10 +309,9 @@ Das ist der Unterschied. Wenn du nach ein oder zwei Monaten keine Verbesserung s
 
 Die endgültige Botschaft: Breadcrumbing ist eine Form der emotionalen Verwahrlosung. Du verdienst jemanden, der dich vollständig will, nicht jemanden, der dich in den Fragmenten seiner Zeit hält. Respektiere dich selbst genug, um weg zu gehen. Und vertrau, dass jemand kommt, der dich nicht aufkehrt.
 
-Siehe auch: [Fernbeziehung meistern: 25 Tipps für eine starke Liebe auf Distanz](/blog/fernbeziehung-tipps) und [Emotionale Intelligenz in Beziehungen: Der Schlüssel zu einer glücklichen Partnerschaft](/blog/emotionale-intelligenz-beziehung)
+Siehe auch: [Emotionale Intelligenz in Beziehungen: Der Schlüssel zu einer glücklichen Partnerschaft](/blog/emotionale-intelligenz-beziehung)
 ## Weiterlesen
 
-- [Lügen beim Online-Dating erkennen: So durchschaust du](/blog/online-dating-luegen-erkennen/)
 - [10 [Red Flags](/blog/dating-red-flags-maenner-erkennen) beim ersten Date die du nicht ignorieren](/blog/dating-rote-flaggen-erstes-date/)
 - [Multi-Dating: Mehrere Personen gleichzeitig daten — Ist das](/blog/online-dating-mehrere-personen-gleichzeitig/)
 - [Die Psychologie des Online-Datings: Warum wir swipen wie wir](/blog/online-dating-psychologie/)

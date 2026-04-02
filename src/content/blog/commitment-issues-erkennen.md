@@ -20,19 +20,7 @@ faq:
 ---
 ## Commitment Issues: Wenn die Angst vor Bindung alles blockiert
 
-Das Muster ist vertraut. Du triffst jemanden, Schmetterlinge, es ist herrlich. Dann, als die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) wird konkreter — als er von "zusammenleben" spricht oder von "in Zukunft" — etwas in dir gefriert. Plötzlich suchst du nach Gründen, warum es vielleicht nicht richtig ist. Plötzlich siehst du seine Fehler klar. Das ist nicht normale Skepsis, das ist Angst vor Bindung. Und wenn du verstehst, wo sie herkommt, kann es behandelt werden.
-
-## Das FOMO im Herzen
-
-Commitment Issues sind oft mit einer tiefen Angst verbunden, etwas Besseres zu vermissen. Was ist, wenn es jemanden Besseres gibt? Was ist, wenn ich die Freiheit aufgebe und bereue? Was ist, wenn ich eine andere Chance verpasse?
-
-Das ist Überfluss-Mentalität angewendet auf Liebe. Es gibt immer jemanden, der "besser" sein könnte. Und dieser Glaube blockiert dich, dich zu commit, dich vollständig zu zeigen.
-
-Die Wahrheit: Niemand ist perfekt. Es gibt nicht die eine "beste" Person. Es gibt eine Person, die du wählst, und dann machst du diese Beziehung großartig.
-
-## Self-Sabotage Patterns
-
-Menschen mit [Bindungsangst](/blog/bindungsangst-komplett-guide) sabotieren unbewusst. Sie starten Kämpfe kurz bevor sie sich tiefer binden. Sie [flirten](/blog/anzeichen-er-steht-auf-dich/) mit anderen Menschen, um ihre Optionen offen zu halten. Sie erfinden Gründe, die Beziehung zu beenden, bevor die andere Person zumeist verletzt hat.
+Das Muster ist vertraut. Du triffst jemanden, Schmetterlinge, es ist herrlich. Dann, als die [Bindungsangst](/blog/bindungsangst-komplett-guide) sabotieren unbewusst. Sie starten Kämpfe kurz bevor sie sich tiefer binden. Sie [flirten](/blog/anzeichen-er-steht-auf-dich/) mit anderen Menschen, um ihre Optionen offen zu halten. Sie erfinden Gründe, die Beziehung zu beenden, bevor die andere Person zumeist verletzt hat.
 
 Dies schützt dich: Wenn ICH die Beziehung beende, werden sie mich nicht verlassen. Wenn ich ihre Fehler kritisiere, kann ich mich selbst kritisieren.
 

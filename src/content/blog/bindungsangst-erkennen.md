@@ -14,31 +14,7 @@ tags:
 
 Du triffst jemanden und es ist anfangs magisch. Aber dann, wenn es ernsthaft wird, packst Du die Flucht. Oder Du sabotierst es unbewusst. Oder Du findest plötzlich Gründe, warum es nicht funktioniert.
 
-Das könnte [Bindungsangst](/blog/bindungsangst-komplett-guide) sein. Und sie ist weit verbreiteter als Du denkst.
-
-## Was ist Bindungsangst?
-
-Bindungsangst ist nicht einfach Angst vor Verpflichtung. Es ist tiefer. Es ist Angst, verletzt zu werden, deine Unabhängigkeit zu verlieren, oder festgestellt zu werden, dass Du „nicht gut genug" bist.
-
-Menschen mit Bindungsangst können sich verlieben. Aber wenn es nahe wird, wird es unbequem. Der Verstand beginnt, Zweifel zu schaffen oder Ausflüchte.
-
-Das Problem: Die Person, in die sie sich verlieben, verstehen nicht, warum derjenige, der sie liebte, plötzlich verschwindet.
-
-## Die Anzeichen von Bindungsangst
-
-**Du sabotierst gute Beziehungen.**
-
-Dinge gehen gut. Ihr werdet näher. Und dann findest Du einen Grund, warum es nicht passt. „Sie sind zu clingy." „Das ist nicht das, was ich will." „Ich bin nicht bereit."
-
-Aber die Wahrheit ist: Du hast Angst.
-
-**Du brauchst viel Raum und Unabhängigkeit.**
-
-Es ist nicht schlecht, Raum zu brauchen. Aber wenn Du dich würdest nach wenigen Tagen zu viel Nähe bedrängt, könnte das Bindungsangst sein. Du magst die Person, aber ihre Nähe fühlt sich wie Gefängnis an.
-
-**Du wiehertst dich vor Verbindlichkeit.**
-
-Dein Partner möchte [zusammenziehen](/blog/zusammenziehen-checkliste). Du machst Ausreden: „Noch nicht der richtige Zeitpunkt." „Ich bin nicht bereit." „Lass uns warten."
+Das könnte [zusammenziehen](/blog/zusammenziehen-checkliste). Du machst Ausreden: „Noch nicht der richtige Zeitpunkt." „Ich bin nicht bereit." „Lass uns warten."
 
 Oder Du wechselst zwischen Engagement und Rückzug. Manchmal sagst Du „Ich liebe Dich", manchmal scheinst Du völlig gelöst.
 

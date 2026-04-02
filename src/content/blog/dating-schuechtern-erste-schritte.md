@@ -130,7 +130,6 @@ Das ist, wie Schüchternheit wirklich überwunden wird. Nicht durch Wünschens z
 
 ## Weiterlesen
 
-- [Die perfekte erste Nachricht: Tipps für Dating-Apps](/blog/dating-erste-nachricht-tipps)
 - [Die perfekte erste Nachricht in Dating-Apps](/blog/erste-nachricht-dating-app)
 - [Die perfekte erste Nachricht beim Online-Dating](/blog/erste-nachricht-online-dating)
 

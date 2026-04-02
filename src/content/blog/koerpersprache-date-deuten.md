@@ -503,41 +503,7 @@ Die echte Probe: Was passiert nach dem Date?
 
 - Schreibt die Person zu dir?
 - Will sie ein zweites Date?
-- Ist die [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) konsistent?
-
-Das ist der wichtigste Test. Gute Körpersprache beim Date bedeutet nichts wenn die Person dir nie wieder schreibt.
-
-Deshalb: Verlasse dich nicht nur auf Körpersprache. Schau auf die Taten. Häufigkeit der Kommunikation, Bereitschaft zu treffen, Konsistenz über Zeit.
-
-## Die Wahrheit über Körpersprache
-
-Hier ist die letzte, wichtigste Wahrheit: Körpersprache ist nicht Hellsehen.
-
-Du kannst aus Körpersprache lesen, was eine Person fühlt, aber du kennst nicht ihre Geschichte. Vielleicht hatte sie ein hartes Leben und zeigt Interesse nicht einfach. Vielleicht ist sie introvertiert und braucht Zeit.
-
-Die beste Herangehensweise: Kombiniere Körpersprache mit direktem Fragen.
-
-"Ich mag dich. Wie fühlst du dich zu mir?"
-
-Ja, das ist beängstigend. Aber es ist direkt und es endet den Rätselteil.
-
-## Das Körpersprache Cheat Sheet für verschiedene Date-Szenarien
-
-Jede Art von Date hat unterschiedliche Körpersprache-Signale. Ein Kaffee-Date ist nicht wie ein Dinner-Date. Ein Walk-Date ist nicht wie ein Club-Date. Hier ist ein praktisches Cheat Sheet für verschiedene Situationen.
-
-### Kaffee-Date: Der Casual Check-In
-
-Kaffee-Dates sind typischerweise kurz und low-pressure. Das ist warum körpersprache-Zeichen subtiler sind.
-
-**Was zu sehen nach Interesse:**
-- Konstanter Augenkontakt ohne zu viel Ablenkung durch das Café
-- Leaning forward — wenn die Person nach vorne lehnt über den Tisch, das ist ein gutes Zeichen
-- Hände auf dem Tisch, nicht versteckt — das zeigt Offenheit
-- Ein echtes Lächeln wenn die Person dich ansieht
-- Die Tasse wird slow getrunken statt schnell — das bedeutet die Person will länger bleiben
-- Kein Handy-Checken oder minimal Handy-Checken
-
-**[Red Flags](/blog/dating-red-flags-maenner-erkennen):**
+- Ist die [Red Flags](/blog/dating-red-flags-maenner-erkennen):**
 - Häufiges Handy-Checken
 - Nach hinten lehnen
 - Hände auf dem Schoß versteckt
@@ -717,8 +683,7 @@ Und das ist wenn die echte Magie passiert.
 
 **Empfohlene weitere Lektüre:**
 - Lerne die Grundlagen des [Flirtens im Alltag](/blog/flirten-im-supermarkt-alltag)
-- Entdecke [Dating-[psychologie](/blog/adhs-und-beziehung-komplett-guide/) und Anziehung](/blog/dating-psychologie-anziehung)
-- Verbessere deine [Kommunikation beim Dating](/blog/dating-gespraeche-am-laufen-halten)
+- Entdecke [Kommunikation beim Dating](/blog/dating-gespraeche-am-laufen-halten)
 ## Weiterlesen
 
 - [Körpersprache beim Flirten: So erkennst du echtes Interesse](/blog/koerpersprache-flirten/)

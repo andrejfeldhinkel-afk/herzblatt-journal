@@ -34,11 +34,7 @@ Multi-Dating ist längst nicht mehr tabelliert. Es ist eine bewusste Strategie d
 
 ## Was ist Multi-Dating wirklich?
 
-Multi-Dating bedeutet, dass du gleichzeitig mehrere Menschen triffst und mit ihnen in der Kennenlernphase datierst — ohne dass dabei eine verbindliche [beziehung](/blog/adhs-und-beziehung-komplett-guide/) besteht. Es ist nicht dasselbe wie Beziehungsunfähigkeit, Untreue oder emotionale Spielerei. Es ist auch nicht neu — Menschen haben schon immer mehrere Optionen gleichzeitig erkundet, bis sie eine Person gefunden haben, mit der sie etwas Ernsthaftes aufbauen möchten.
-
-Aber es ist anders als früher. Heute funktioniert Multi-Dating in Zeiten von Swipe-Apps und Nachrichten-Chats. Du triffst potenzielle Partner nicht mehr durch dein eigenes Netzwerk oder zufällig in der Stadt. Du erhältst Zugang zu Dutzenden von Profilen gleichzeitig. Diese Fülle an Optionen macht Multi-Dating gleichzeitig einfacher und komplizierter.
-
-Der zentrale Punkt: Multi-Dating findet in der **Kennenlernphase** statt — bevor ihr exklusiv werdet. Das ist der Schlüssel. Es geht nicht darum, jemanden zu betrügen oder hinter Rücken zu arbeiten. Es geht darum, dass beide Seiten noch nicht wissen, ob aus dem [Kennenlernen](/blog/dating-fragen-kennenlernen) etwas werden kann.
+Multi-Dating bedeutet, dass du gleichzeitig mehrere Menschen triffst und mit ihnen in der Kennenlernphase datierst — ohne dass dabei eine verbindliche [Kennenlernen](/blog/dating-fragen-kennenlernen) etwas werden kann.
 
 ### Die verschiedenen Phasen des Dating verstehen
 
@@ -88,107 +84,7 @@ Bevor wir tiefer in die ethischen Fragen gehen, möchte ich dir zeigen, warum Mu
 
 ### Der Bestätigungsbias und warum Single-Dating problematisch ist
 
-Es gibt ein psychologisches Phänomen namens **Bestätigungsbias**: Wenn du dich in jemanden [verliebt](/blog/mann-verliebt-anzeichen-komplett) oder stärkere Gefühle entwickelst, fängst du an, alle guten Seiten dieser Person zu sehen — und ihre Macken zu ignorieren. Du bestätigst unbewusst deine eigene Annahme, dass diese Person perfekt für dich ist.
-
-Das Problem beim Single-Dating (nur eine Person treffen) ist, dass dieser Bias verstärkt wird. Du konzentrierst all deine emotionale Energie auf diese eine Person. Nach wenigen Dates fühlst du dich bereits gebunden. Du übersehst rote Flaggen. Du machst Abstriche, die du später bereust.
-
-Mit Multi-Dating bleibt dein Blick schärfer. Du vergleichst unbewusst Verhaltensweisen, Werte und Kompatibilität zwischen verschiedenen Menschen. Das zwingt dich, objektiver zu bleiben. Du merkst schneller, wenn jemand emotionale Spielchen macht oder wenn eure Werte nicht zusammenpassen.
-
-Das ist nicht egoistisch — das ist klug.
-
-### Weniger Anhänglichkeit, weniger Bedürftigkeit
-
-Ein weiterer psychologischer Vorteil: Wenn du mehrere Dates hast, entwickelst du weniger Anhänglichkeit an eine Person. Das bedeutet, dass du auch emotional entspannter bist. Du wirkst selbstbewusster. Du teilst dich nicht auf.
-
-Und — das ist wichtig — Menschen fühlen sich zu anderen Menschen hingezogen, die nicht desperado wirken. Wenn du auf eine Person fixiert bist, merkst du das oft darin, dass du zu schnell antwortest, dass du zu viel Aufmerksamkeit möchtest oder dass du zu schnell emotionale Unterstützung suchst.
-
-Mit Multi-Dating sinkt dieser Druck natürlich. Du hast andere Aktivitäten, andere Menschen, andere Abwechslung. Das macht dich automatisch attraktiver.
-
-### Zeit für echte Kompatibilität
-
-Multi-Dating gibt dir auch die Zeit, echte Kompatibilität zu testen. Liebe ist auf den ersten Blick schön, aber Liebe ist auch etwas, das sich über Zeit entwickelt. Mit mehreren Personen zu daten bedeutet, dass du nicht früh exklusiv wirst, sondern dass du warten kannst.
-
-Die beste Faustregel: Nach **4–8 Dates** mit einer Person merkst du, ob es echtes Potenzial gibt. Das sind 2-3 Wochen bei wöchentlichen Dates, oder 4-5 Wochen bei sporadischeren Treffen. Danach weißt du normalerweise, ob diese Person in deine Zukunft passt oder nicht.
-
-Wenn du währenddessen nur mit dieser einen Person datierst und nach vier Dates merkst, dass es nicht funktioniert, hast du viel Zeit und Energie verschwendet. Mit Multi-Dating merkst du schneller, wo die Chemie stimmt.
-
-## Der ethische Rahmen: Honestät, Respekt, Schutz
-
-Jetzt zur wichtigsten Frage: Wann ist Multi-Dating ethisch? Die Antwort ist: Immer, wenn es auf Ehrlichkeit und gegenseitigem Respekt basiert. Wenn du anderen Menschen täuschst oder ihre Gefühle ignorierst, dann ist es unethisch. Das ist die Grenzlinie.
-
-### Die goldene Regel: Ehrlichkeit statt Transparenz
-
-Hier ist eine wichtige Unterscheidung, die viele Menschen verwechseln: **Ehrlichkeit** bedeutet nicht, dass du jedem erzählen musst, dass du noch mit anderen datierst. **Transparenz** würde bedeuten, dass du jedes Detail teilst.
-
-Du brauchst Transparenz nicht — das ist unrealistisch. Aber du brauchst Ehrlichkeit.
-
-Was bedeutet das praktisch?
-
-- Du musst nicht proaktiv sagen: "Ich bin gerade mit drei anderen Personen am Daten."
-- Aber wenn jemand direkt fragt: "Bin ich die einzige?", dann antwortest du ehrlich.
-- Wenn es körperlich wird, ist Offenheit wichtig: Nicht aus einer Place von Täuschung, sondern aus Respekt und zum Schutz beider Seiten (Stichwort: Safer Sex).
-
-Das ist der goldene Mittelweg zwischen Offenbarungszwang und Täuschung.
-
-### Wann du ehrlich sein musst — und wie du es machst
-
-Es gibt bestimmte Momente, in denen Ehrlichkeit unvermeidlich wird:
-
-**Die intime Frage:** Wenn jemand fragt, "Sehen wir uns nur?", "Bin ich dein Type?", oder "Wie ernsthaft meinst du das?" — dann musst du ehrlich sein. Eine mögliche Antwort: "Mir gefällst du wirklich. Ich bin aber noch in der Kennenlernphase und schaue mich noch um, um zu sehen, wo echtes Potenzial liegt. Aber ich bin mit dir sehr präsent, wenn wir zusammen sind."
-
-**Die körperliche Nähe:** Wenn es zum Küssen oder weiter kommt, ist Ehrlichkeit wichtig. Nicht weil du „schuldig" bist, sondern weil beide Menschen das Recht haben zu wissen, mit wem sie körperlich intim werden. Das ist ein Thema, das ich später noch ausführlicher behandle.
-
-**Das Exklusivitätsgespräch:** Wenn die andere Person die Exklusivität anspricht, musst du ehrlich sein — entweder du möchtest exklusiv sein (dann stopp das Multi-Dating) oder du möchtest das noch nicht (dann sei ehrlich darüber).
-
-### Der Respekt-Faktor: Niemand möchte sich dumm fühlen
-
-Ein großer Teil der Ethik beim Multi-Dating ist: Niemand soll sich dumm oder hintergangen fühlen.
-
-Das bedeutet konkret:
-
-- Keine großartigen Lügen. Nicht "Dich sehe ich nur" und dann datierst du parallel.
-- Keine emotionalen Spielchen. Nicht jemanden intensiv umwerben und dann plötzlich zu ghosten.
-- Keine doppelten Standards. Wenn du andere triffst, dann ist auch okay, wenn die andere Person andere trifft.
-
-Wenn du diese Grundsätze befolgst, ist Multi-Dating okay. Wenn nicht, dann ist es Betrug.
-
-### Der Schutz-Faktor: Safer Sex und Grenzen
-
-Das ist ein großes, oft übersehenes Thema: Wenn du mit mehreren Personen körperlich intim wirst, musst du dich und andere schützen. Das ist keine Frage von Moral, sondern von Gesundheit.
-
-Das bedeutet:
-
-- Kondomgebrauch ist nicht verhandelbar — auch nicht, wenn du hormonal verhütest.
-- Wenn du mit mehreren Personen intim bist, solltest du auch bereit sein, dich regelmäßig testen zu lassen (STI-Tests).
-- Du solltest offen sein mit deinen Sexualpartnern über diese Tests.
-
-Das ist ein sensibles Thema, aber es ist wichtig. Wenn du Multi-Dating betreibst und körperlich mit mehreren Menschen intim wirst, dann tust du dies in Verantwortung gegenüber dir selbst und anderen. Das bedeutet auch, dass du nicht bedacht sein solltest, über Safer Sex zu sprechen.
-
-## Wie du mehrere Conversations auf Dating-Apps verwaltst
-
-Jetzt kommt die praktische Seite: Wie managest du Multiple Chats, ohne dass dein Kopf explodiert?
-
-### Die Chat-Struktur: Ordnung muss sein
-
-Wenn du mit mehreren Personen schreibst, hilft es, eine Struktur zu schaffen. Die meisten Dating-Apps zeigen dir eine Liste aller Matches. Nutze das intelligent.
-
-Ein Tipp: Speichere dir Namen und kleine Details (wenn die App das erlaubt) oder notiere dir in deinem Handy kurz nach jedem Date:
-
-- Name
-- 3-5 Dinge, die du über sie weißt (Beruf, Hobbies, Besonderheiten)
-- Das Datum des letzten Kontakts
-- Nächster geplanter Kontakt/Date
-
-Das klingt übertrieben, aber es verhindert, dass du versehentlich jemandem sagst: "Oh ja, dein Bruder in Melbourne!" — wenn sein Bruder eigentlich in Sydney ist.
-
-### Verschiedene Apps für verschiedene Zwecke
-
-Hier ist ein praktischer Tipp: Nutze verschiedene Apps nicht, um zu täuschen, sondern um zu organisieren.
-
-Manche Menschen nutzen:
-- **Tinder** für Casual Dating und Kennenlernen
-- **Bumble** für etwas ernstere Matches
-- **[Hinge](/blog/hinge-guide-deutsch-2026)** für Menschen, die eine Beziehung suchen
+Es gibt ein psychologisches Phänomen namens **Bestätigungsbias**: Wenn du dich in jemanden [Hinge](/blog/hinge-guide-deutsch-2026)** für Menschen, die eine Beziehung suchen
 
 Das ist nicht unethisch. Das ist praktisch. Du wirst dadurch nicht zu einem Player — du wirst nur organisiert.
 
@@ -615,21 +511,7 @@ Menschen, die Multi-Dating betreiben, wirken oft selbstbewusster. Warum? Weil si
 
 Das ist nicht manipulativ. Das ist psychologisch gesund.
 
-### Die Abmilderung von [Love Bombing](/blog/love-bombing-erkennen-schuetzen)
-
-Wenn du nur eine Person triffst, ist es einfach, sehr schnell sehr intensiv zu werden. Menschen fallen oft in die "Love Bombing"-Phase — intensive Aufmerksamkeit, große Gesten, schnelle Gefühlsentwicklung.
-
-Mit Multi-Dating passiert das weniger. Du bleibst rationaler. Du siehst Menschen klarer.
-
-### Die Erkenntnis: Nicht alle sind das "Endgame"
-
-Multi-Dating lehrt dich etwas Wichtiges: Die meisten Menschen, die du triffst, sind nicht dein "Endgame". Sie sind Teil der Reise. Sie sind wichtig — aber nicht alle von ihnen sind "der Eine".
-
-Das ist befreiend. Es nimmt den Druck aus jedem einzelnen Date.
-
-## Bindungsstile und Multi-Dating
-
-Dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) beeinflusst, wie gut du Multi-Dating bewältigen kannst.
+### Die Abmilderung von [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) beeinflusst, wie gut du Multi-Dating bewältigen kannst.
 
 ### Sicherer Bindungsstil
 
@@ -779,7 +661,6 @@ Diese Person ist da draußen. Multi-Dating kann dir helfen, sie zu finden.
 ---
 
 Weitere Artikel zu diesem Thema:
-- [Dating Standards vs. Checkliste: Was wirklich zählt](/blog/dating-standards-vs-checkliste)
 - [Ehrlichkeit beim Dating: Warum die Wahrheit attraktiver ist](/blog/ehrlichkeit-beim-dating)
 - [Persönliche Grenzen beim Dating: Ja-Sagen und Nein-Sagen lernen](/blog/persoenliche-grenzen-dating)
 ## Weiterlesen

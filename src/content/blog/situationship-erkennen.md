@@ -25,7 +25,7 @@ faq:
   - question: "Wann sollte man eine Situationship beenden?"
     answer: "Wenn du darunter leidest, dich emotional unsicher fühlst oder deine Bedürfnisse dauerhaft nicht erfüllt werden. Eine Verbindung, die dir mehr Schmerz als Freude bringt, verdient ein ehrliches Ende."
 ---
-Du kennst die Situation wahrscheinlich: Du seht euch regelmäßig, ihr teilt tiefe Gespräche, verbringt Zeit miteinander wie ein echtes Paar — aber irgendwie ist die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) nie „offiziell" geworden. Es gibt kein klares Label, keine definierten Grenzen und vor allem: keine Sicherheit. Diese unscharfe Grauzone nennt sich **[Situationship](/blog/situationship-erkennen-umgehen)**, und sie ist in der modernen Dating-Welt leider immer häufiger anzutreffen.
+Du kennst die Situation wahrscheinlich: Du seht euch regelmäßig, ihr teilt tiefe Gespräche, verbringt Zeit miteinander wie ein echtes Paar — aber irgendwie ist die [Situationship](/blog/situationship-erkennen-umgehen)**, und sie ist in der modernen Dating-Welt leider immer häufiger anzutreffen.
 
 Wenn du diesen Artikel liest, fragst du dir wahrscheinlich: „Bin ich in einer Situationship? Und falls ja — was bedeutet das für mich?" Diese Fragen sind vollkommen berechtigt. Eine Situationship kann emotional sehr belastend sein, besonders wenn deine Gefühle tiefer gehen als die des anderen. Aber keine Sorge — in diesem Artikel bekommst du nicht nur Klarheit darüber, was eine Situationship ist, sondern auch praktische Werkzeuge, um damit umzugehen.
 
@@ -292,7 +292,7 @@ Mach unser kostenloses [Dating-Quiz](/top-dating-seiten) und finde in 30 Sekunde
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Introvertiert liebt Extrovertiert: Gegensätze in der Beziehung](/blog/dating-introvertiert-extrovertiert), [Emotionale Intelligenz im Dating: Warum EQ wichtiger ist als Aussehen](/blog/emotionale-intelligenz-dating), [Freundschaft Plus: Regeln, Risiken & wann es funktioniert](/blog/freundschaft-plus-regeln).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Emotionale Intelligenz im Dating: Warum EQ wichtiger ist als Aussehen](/blog/emotionale-intelligenz-dating), [Freundschaft Plus: Regeln, Risiken & wann es funktioniert](/blog/freundschaft-plus-regeln).## Weiterlesen
 
 - [Emotionale Intelligenz im Dating: Warum EQ wichtiger ist?](/blog/emotionale-intelligenz-dating/)
 - [Commitment Issues: Wenn die Angst vor Bindung alles](/blog/commitment-issues-erkennen/)

@@ -87,7 +87,7 @@ Das ist nicht romantisch im klassischen Sinne. Aber es ist ein gutes Zeichen von
 
 Für manche Menschen ist Kochen eine primäre Art, Liebe zu zeigen. Die Person, die für dich ein aufwändiges Essen macht, wenn du einen harten Tag hattest, zeigt dir, dass du wichtig bist. Sie nimmt sich Zeit, Mühe, konzentriert sich auf Dinge, die dir schmecken werden. Sie arbeitet für deine Zufriedenheit.
 
-Das ist eine der fünf "[Love Languages](/blog/love-languages-komplett-guide)" – Taten statt Worte. Worte können lügen. Taten nicht. Wenn jemand zwei Stunden in der Küche verbringt für dich, ist das bedeutungsvoll.
+Das ist eine der fünf "[Love Languages](/blog/love-languages-test-guide)" – Taten statt Worte. Worte können lügen. Taten nicht. Wenn jemand zwei Stunden in der Küche verbringt für dich, ist das bedeutungsvoll.
 
 Wenn dein Partner dich nicht versteht, wenn diese Sprache, dann kannst du sagen: "Wenn du Liebe zeigen möchtest, könntest du dich Zeit nehmen, für mich zu kochen? Oder einfach zusammen mit mir?" Oder: "Es ist nicht wichtig, ob es gut ist oder Instagram-würdig. Achte darauf, dass du dich Zeit nimmst."
 

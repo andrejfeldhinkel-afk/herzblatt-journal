@@ -42,14 +42,7 @@ Eine Beziehung mit jemandem, der nicht emotional verfügbar ist, ist einsam. Du 
 
 Ein emotional verfügbare Partner führt zu:
 
-- Bessere [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/)
-- Tiefere Verbindung
-- Weniger Angst und Unsicherheit
-- Eine Beziehung, die sich wie ein echtes Partnership anfühlt
-
-## Die verschiedenen Typen von emotionaler Nicht-Verfügbarkeit
-
-**Der Vermeidende Typ:** Diese Person grunzt vor Intimität. Sie könnten schnell romantische Entwicklungen beenden oder einfach nicht näher werden. Sie könnten [Bindungsangst](/blog/bindungsangst-komplett-guide) haben.
+- Bessere [Bindungsangst](/blog/bindungsangst-komplett-guide) haben.
 
 **Der Beschäftigte Typ:** Sie haben buchstäblich keine Zeit oder Energie für eine Beziehung. Vielleicht gerade durchlebte Scheidung, Karriere-Krise, oder Familie Probleme.
 

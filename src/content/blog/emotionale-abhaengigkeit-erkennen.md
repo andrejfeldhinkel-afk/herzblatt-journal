@@ -85,5 +85,5 @@ Das Ziel ist nicht, deinen Partner weniger zu lieben. Das Ziel ist, dich selbst 
 - [Beziehung aufbauen nach einer Depression: Mit Hoffnung vorwärts](/blog/beziehung-nach-depression/)
 - [Beziehung nach einem Vertrauensbruch: Kann das klappen?](/blog/beziehung-nach-vertrauensbruch/)
 - [Vertrauensmissbrauch in der Beziehung – Wie Heilung gelingt](/blog/beziehung-nach-vertrauensmissbrauch/)
-- [Richtig streiten in der Beziehung: So werden Konflikte zur Stärke](/blog/beziehung-streit-richtig/)
+- [Richtig streiten in der Beziehung: So werden Konflikte zur Stärke](/blog/richtig-streiten-beziehung)
 - [Beziehung und Achtsamkeit: Bewusster lieben](/blog/beziehung-und-achtsamkeit/)

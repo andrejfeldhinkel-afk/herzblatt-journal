@@ -1,5 +1,5 @@
 ---
-title: "Fremdgehen verzeihen: Kann eure Beziehung das überstehen? (2026)"
+title: "Fremdgehen verzeihen: Kann eure Beziehung das überstehen?"
 description: "Fremdgehen verzeihen oder nicht? Ehrlicher Guide über Vertrauensaufbau nach Untreue, Heilungsphasen und die schwierigste Entscheidung in einer Beziehung."
 date: 2026-03-21
 tags:

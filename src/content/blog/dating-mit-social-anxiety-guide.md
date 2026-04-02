@@ -1,5 +1,5 @@
 ---
-title: "Dating mit sozialer Angst: Strategien die wirklich funktionieren"
+title: "Dating mit sozialer Angst"
 description: "Überwinde deine sozialen Ängste beim Dating. Praktische Strategien und Mindset-Shifts für angstfreies Daten."
 date: 2026-03-29
 tags:
@@ -392,6 +392,5 @@ Das ist der echte Preis. Nicht die Überwindung der Angst. Das ist die Verbindun
 ---
 
 **Weitere Artikel zum Thema:**
-- [Limerence vs. echte Liebe: Warum du nicht [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist sondern besessen](/blog/limerence-vs-liebe-unterschied-guide)
 - [Parasoziale Beziehungen: Wenn Schwärmen zur Flucht wird](/blog/parasoziale-beziehungen-dating-guide)
 - [Dating-Burnout: Wenn die Partnersuche dich auslaugt und wie du zurückfindest](/blog/dating-burnout-recovery-guide)

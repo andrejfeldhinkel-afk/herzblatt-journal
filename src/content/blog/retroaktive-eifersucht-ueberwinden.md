@@ -49,12 +49,6 @@ Manchmal ist retroaktive Eifersucht dein Gehirn, das dir sagt, dass etwas mit di
 
 Du vertraust dem Partner irgendwie nicht. Also fokussierst du dich auf die Ex als einen Grund für die Unsicherheit. "Vielleicht vermisst er sie", "Vielleicht war es bessere", "Vielleicht werde ich verlassen".
 
-**[verlustangst](/blog/aengstlicher-bindungsstil-heilen/)**
-
-Wenn du Angst hast verlassen zu werden, kann die Ex zum Symbol dieser Angst werden. "Wenn ich nicht so gut wie die Ex bin, wird mich der Partner verlassen."
-
-Die Wahrheit: Menschen verlassen dich nicht, weil eine Ex besser war. Sie verlassen dich, weil sie andere Bedürfnisse haben. Oder weil die Kompatibilität nicht passt. Oder weil dein Klammern (verursacht durch diese Eifersucht) sie erstickt.
-
 **[Bindungsangst](/blog/bindungsangst-komplett-guide)**
 
 Manchmal sabotierst du unbewusst die Beziehung, weil du Angst vor der Nähe hast. Die retroaktive Eifersucht ist die Waffe, die du gegen dich selbst und gegen deinen Partner verwendest.
@@ -269,28 +263,5 @@ Das ist das Versprechen am Ende dieser Arbeit.
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
 - [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
 - [Beziehung aufbauen nach einer Depression: Hoffnung vorwärts](/blog/beziehung-nach-depression/)
-- [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
-## FAQ
-
-**Was ist retroaktive Eifersucht?**
-Eifersucht auf die romantische oder sexuelle Vergangenheit deines Partners. Du quälst dich mit Bildern und Gedanken über Ex-Partner die längst Geschichte sind.
-
-**Wie überwinde ich retroaktive Eifersucht?**
-Stoppe das Fragen nach Details, arbeite an deinem Selbstwert, und erinnere dich: Dein Partner hat DICH gewählt. Seine Vergangenheit hat ihn zu dem Menschen gemacht, den du liebst.
-
-**Ist es normal eifersüchtig auf die Ex zu sein?**
-Ein kurzer Stich ist normal. Wenn es aber obsessiv wird und du ständig vergleichst, grübelst oder kontrollierst, ist es ein Problem das Aufmerksamkeit braucht.
-
-**Wie kann ich meinem Partner helfen, wenn er retroaktive Eifersucht hat?**
-Sei geduldig, setze Grenzen bei den Fragen, und erinnere ihn, dass du ihn gewählt hast. Dränge ihn nicht, mehr über deine Ex zu erzählen.
-
-**Kann retroaktive Eifersucht eine Beziehung zerstören?**
-Ja. Mit der Zeit führt es zu Ressentiment, Distanz und Vertrauensverlust. Aber mit Bewusstsein und Therapie kann es überwunden werden.
-
----
-
-## Lesenswerte Links
-
 - [Verlustangst in Beziehungen überwinden](/blog/verlustangst-bei-kindern-beziehung)
-- [Unsicher-vermeidender [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) erklärt](/blog/unsicher-vermeidender-bindungsstil)
 - [Loslassen lernen: Der Weg zur emotionalen Freiheit](/blog/loslassen-lernen-liebe)

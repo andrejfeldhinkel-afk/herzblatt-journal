@@ -45,23 +45,7 @@ Es gibt viele legitime Gründe:
 
 **Peck beim Dating:** Unrequited crushes, falsches Timing. Manchmal braucht man länger. Das ist normal.
 
-**[Bindungsangst](/blog/bindungsangst-komplett-guide):** Vielleicht vermiedest du unbewusst Nähe. Das ist häufig und normal.
-
-**Standards:** Zu vage oder zu klar – beides kann blockieren.
-
-**Introversion, kleine Netzwerke:** Du triffst weniger Menschen. Die Chancen sind geringer.
-
-**Reines Glück:** Du hast die richtige Person noch nicht getroffen.
-
-Das alles ist absolut okay.
-
-## Die Vorteile mit 30 anzufangen
-
-Hier ist das Geheimnis: Deine erste Beziehung mit 30 hat massive Vorteile.
-
-**Emotionale Reife:** Mit 30 verwechselst du nicht Drama mit Liebe. Du weißt, wer du bist. Du hast Karriere, Freunde, Leben. Du brauchst den Partner nicht zur Identität. Das macht dich weniger abhängig und stärker.
-
-**Selbstkenntnis:** Du kennst deine Triggers, Grenzen, [Red Flags](/blog/dating-red-flags-maenner-erkennen). Du weißt: Das ist ein Narzisst. Diese Person nicht verfügbar. Dieser Mensch ist gut.
+**[Red Flags](/blog/dating-red-flags-maenner-erkennen). Du weißt: Das ist ein Narzisst. Diese Person nicht verfügbar. Dieser Mensch ist gut.
 
 **Klarheit:** Mit 30 kennst du deine Werte. Willst du Kinder? Zusammenleben? Jemanden Abenteuerlustige? Das verhindert Jahre in falschen Beziehungen.
 

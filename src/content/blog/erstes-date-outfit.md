@@ -103,7 +103,6 @@ Es gibt kein perfektes First-Date-Outfit. Es gibt nur das Outfit, in dem du dich
 
 Das Einzige, das wirklich zählt, ist: Dass du dich selbst fühlst – nur eine bessere, gepflegte, selbstbewusste Version deiner selbst. Das ist das Outfit, das zieht.## Weiterlesen
 
-- [Erstes Date: Gespräche führen ohne Stille](/blog/erstes-date-gespraeche-fuehren/)
 - [10 [Red Flags](/blog/dating-red-flags-maenner-erkennen) beim ersten Date die du nicht ignorieren](/blog/dating-rote-flaggen-erstes-date/)
 - [Erstes Date Gesprächsthemen: 50 Fragen die jedes Eis brechen](/blog/erstes-date-gespraechsthemen/)
 - [Das erste Telefonat vor dem Date: So machst du es richtig](/blog/erstes-telefonat-vor-date/)

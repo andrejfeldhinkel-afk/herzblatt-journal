@@ -16,7 +16,7 @@ Das ist neu. Das ist mächtig. Und das verändert Dating fundamental. Lass mich 
 
 ## Algorithmen als moderne Kuppler
 
-Dating-Apps wie Tinder, [bumble](/blog/beste-dating-apps-2026/) und [Hinge](/blog/hinge-guide-deutsch-2026) nutzen KI-Systeme, um dir Partner vorzuschlagen. Diese Systeme schauen auf deine Vorlieben, dein Verhalten und dein Profil – und finden dann „passende" Menschen.
+Dating-Apps wie Tinder, [Hinge](/blog/hinge-guide-deutsch-2026) nutzen KI-Systeme, um dir Partner vorzuschlagen. Diese Systeme schauen auf deine Vorlieben, dein Verhalten und dein Profil – und finden dann „passende" Menschen.
 
 Das klingt praktisch. Und in vielen Fällen ist es das auch. Die KI kann Muster erkennen, die Menschen übersehen würden.
 

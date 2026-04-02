@@ -191,7 +191,7 @@ Wenn Sie dies überprüfen, tun Sie es richtig. Nicht geheim, nicht manipulativ,
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten), [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden), [Richtig Schluss machen: So beendest du eine Beziehung mit Respekt und Würde](/blog/richtig-schluss-machen).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden), [Richtig Schluss machen: So beendest du eine Beziehung mit Respekt und Würde](/blog/richtig-schluss-machen).## Weiterlesen
 
 - [Sexuelle Kompatibilität in Beziehungen: Warum es wichtig ist](/blog/sexuelle-kompatibilitaet/)
 - [Richtig Schluss machen: So beendest du eine Beziehung](/blog/richtig-schluss-machen/)

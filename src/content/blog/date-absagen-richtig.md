@@ -94,5 +94,5 @@ Eine Absage ist kein Urteil über deinen Wert als Mensch. Sie ist eine Entscheid
 - [50 Fragen zum Kennenlernen – Für tiefere Gespräche beim Dating](/blog/dating-fragen-kennenlernen/)
 - [Ehrlichkeit beim Dating – Wie viel Wahrheit verträgt ein Date?](/blog/ehrlichkeit-beim-dating/)
 - [Vom Chat zum ersten Treffen: Übergang zum echten Leben](/blog/erstes-treffen-online-dating/)
-- [50 Fragen zum Kennenlernen: So wird dein Date garantiert nicht langweilig](/blog/kennenlernen-fragen-date/)
+- [50 Fragen zum Kennenlernen: So wird dein Date garantiert nicht langweilig](/blog/gute-fragen-fuers-date)
 - [Komplimente richtig machen: Das Lob in Beziehungen](/blog/komplimente-richtig-machen/)

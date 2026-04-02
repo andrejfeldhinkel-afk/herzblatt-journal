@@ -131,6 +131,5 @@ Plane kleiner Urlaubs-Nachefferingem Der erste Tag nach dem Urlaub sollte nicht 
 
 ## Weiterlesen
 
-- [Die erste gemeinsame Reise: Planen ohne Beziehungsstress](/blog/erste-gemeinsame-reise-planen)
 - [Restaurant-Dates perfekt planen](/blog/restaurant-dates-perfekt-planen)
 - [Das zweite Date: Ideen und Tipps für den nächsten Schritt](/blog/zweites-date-planen-tipps)

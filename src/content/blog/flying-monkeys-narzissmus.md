@@ -194,8 +194,4 @@ Deine Energie ist kostbar. Nutze sie, um dich selbst zu heilen und echte Freunde
 
 Die Menschen, die eine Flying Monkey Position annehmen, sind nicht wert, deine emotionale Energie zu bekommen.
 
-Wenn du [No Contact](/blog/no-contact-narzisst-durchhalten) durchhältst, werden die Flying Monkeys irgendwann feststellen, dass es nichts mehr zu tun gibt. Sie werden sich abkühlen.
-
-Und dann kannst du endlich anfangen zu heilen.
-
-Achte auf [Hoovering](/blog/hoovering-narzissmus-erkennen), das ist manchmal wenn der Narzisst Flying Monkeys nutzt, um dich zurückzuholen. Erkenne das Muster und bleib stark.
+Wenn du [Hoovering](/blog/hoovering-narzissmus-erkennen), das ist manchmal wenn der Narzisst Flying Monkeys nutzt, um dich zurückzuholen. Erkenne das Muster und bleib stark.

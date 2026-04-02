@@ -1,5 +1,5 @@
 ---
-title: "Die Geheimnisse langer Beziehungen – Was Paare, die zusammen bleiben, anders machen"
+title: "Die Geheimnisse langer Beziehungen"
 description: "Die Geheimnisse langer Beziehungen: Praktische Tipps und psychologische Einblicke für eine erfüllte Beziehung. Jetzt lesen auf Herzblatt Journal."
 keywords: ["die geheimnisse langer beziehungen", "beziehung", "kommunikation", "vertrauen", "bindungstypen", "ratgeber"]
 date: 2025-10-31

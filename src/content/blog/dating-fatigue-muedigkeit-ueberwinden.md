@@ -77,17 +77,7 @@ Diese Klarheit spart enorm viel Energie, weil du von Anfang an filterst und dich
 
 Slow Dating ist das bewusste Gegenstück zur Schnelllebigkeit des modernen Datings. Statt fünf oberflächliche Dates pro Woche zu haben, gönnst du dir eines — und gibst diesem einen Date deine volle Aufmerksamkeit.
 
-Nimm dir Zeit für das [Kennenlernen](/blog/dating-fragen-kennenlernen). Schreibe länger, bevor du dich triffst. Stelle tiefere Fragen. Lasse das Gespräch organisch wachsen, statt einem inneren Skript zu folgen. Die Verlangsamung nimmt den Druck und gibt dem Dating seine Magie zurück.
-
-### Dein Selbstwert unabhängig vom Dating
-
-Ein häufiger Treiber von Dating Fatigue ist die unbewusste Verknüpfung von Selbstwert und Dating-Erfolg. Wenn jedes gescheiterte Date sich wie eine persönliche Ablehnung anfühlt, ist die Erschöpfung vorprogrammiert.
-
-Arbeite aktiv daran, deinen Selbstwert von deinem Dating-Status zu entkoppeln. Du bist nicht weniger wertvoll, weil du Single bist. Dein Leben ist nicht unvollständig, weil du noch nicht den perfekten Partner gefunden hast. Diese innere Überzeugung ist der stärkste Schutzschild gegen Dating Fatigue.
-
-### Grenzen setzen und kommunizieren
-
-Lerne, Nein zu sagen — zu Dates, die sich nicht richtig anfühlen, zu Gesprächen, die nirgendwohin führen, und zu Verhaltensweisen, die deine Energie rauben. [Ghosting](/blog/ghosting-komplett-guide), Breadcrumbing und andere toxische Dating-Muster musst du nicht tolerieren. Je klarer deine Grenzen sind, desto weniger erschöpfend wird das Dating.
+Nimm dir Zeit für das [Ghosting](/blog/ghosting-komplett-guide), Breadcrumbing und andere toxische Dating-Muster musst du nicht tolerieren. Je klarer deine Grenzen sind, desto weniger erschöpfend wird das Dating.
 
 ## Der Weg zurück zur Freude am Dating
 

@@ -169,13 +169,7 @@ Was lernten wir über uns selbst? Über unsere Partnerschaft? Wie können wir di
 
 Viele Paare finden, dass die gemeinsam durchlebte Krise sie näher zusammenbringt – wenn sie es recht machen.
 
-[Beziehung nach traumatischer Geburt stärken](/blog/beziehung-nach-traumatischer-geburt)
 [Schwiegermutter-Probleme: So löst ihr Konflikte](/blog/beziehung-schwiegermutter-probleme)
-[Beziehung und Autismus-Spektrum: Tipps für beide Partner](/blog/beziehung-nach-autismus-spektrum-tipps)
-
-## Weiterlesen
-
-- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
-- [Neustart nach einer Affäre: Der 8-Wochen-Plan für Heilung](/blog/beziehung-after-affaere-plan)
+[Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 - [Großer Altersunterschied in der Beziehung](/blog/beziehung-altersunterschied-gross)
 

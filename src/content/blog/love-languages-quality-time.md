@@ -1,5 +1,5 @@
 ---
-title: "Liebessprache Quality Time: Warum gemeinsame Zeit alles ist (2026)"
+title: "Liebessprache Quality Time: Warum gemeinsame Zeit alles ist"
 description: "Quality Time als Liebessprache: Wie du tiefe Verbindung durch gemeinsame Zeit aufbaust — ohne Handy, mit voller Aufmerksamkeit"
 date: 2026-04-01
 image: "/images/blog/love-languages-quality-time.webp"
@@ -192,4 +192,4 @@ Das ist echte Liebe.
 
 ---
 
-**Möchtest du mehr über [Acts of Service Liebessprache](/blog/love-languages-acts-of-service) oder [Bid for Connection](/blog/bid-for-connection-gottman) erfahren?**
+**Möchtest du mehr über [Bid for Connection](/blog/bid-for-connection-gottman) erfahren?**

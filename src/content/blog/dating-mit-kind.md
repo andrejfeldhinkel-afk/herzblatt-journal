@@ -39,7 +39,7 @@ Lass mich dir sagen, wie.
 
 Bevor du überhaupt daran denkst, daten zu gehen, musst du etwas verstehen: Dein Liebesleben ist jetzt komplex, weil dein Leben komplex ist. Wenn du nicht diese emotionalen Arbeiten machst, wirst du Menschen in dein Leben bringen, die dein Kind und deinen Ex zu bewältigen haben – und das ist nicht fair für dich oder für sie.
 
-Die erste Wahrheit ist: Du brauchst Zeit, um von deiner vorherigen [beziehung](/blog/adhs-und-beziehung-komplett-guide/) zu heilen. Wenn du noch ängstlich, wütend, oder verletzt bist – sei es von einer [Trennung](/blog/trennung-verarbeiten-12-schritte) oder von Scheidung – wirst du das in deine neuen Beziehungen bringen. Du wirst das neue Person unterbewusst bestrafen für die Fehler des Ex. Du wirst übermäßig wachsam sein gegen Verrat. Du wirst nicht in der Lage sein, sicher zu lieben.
+Die erste Wahrheit ist: Du brauchst Zeit, um von deiner vorherigen [Trennung](/blog/trennung-verarbeiten-12-schritte) oder von Scheidung – wirst du das in deine neuen Beziehungen bringen. Du wirst das neue Person unterbewusst bestrafen für die Fehler des Ex. Du wirst übermäßig wachsam sein gegen Verrat. Du wirst nicht in der Lage sein, sicher zu lieben.
 
 Die meisten Experten sagen, dass du mindestens 6-12 Monate brauchst, bevor du datin gehen solltest. Das ist nicht eine harte Regel – manche Menschen sind schneller bereit, andere brauchen länger. Aber die Faustregel ist: Du solltest allein mit dir selbst komfortabel sein, bevor du jemandes romantischer Partner sein kannst.
 

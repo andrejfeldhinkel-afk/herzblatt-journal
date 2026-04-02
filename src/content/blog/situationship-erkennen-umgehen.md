@@ -34,29 +34,7 @@ Aber mit der Zeit, wird es mehr. Ihr seid mehrere Male pro Woche zusammen. Du tr
 
 Aber die Worte werden niemals gesagt. Ihr habt niemals „Das Gespräch".
 
-Und irgendwann merkst du, dass du [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist – aber dein Partner hat nicht definit, was es ist.
-
-Das ist eine Situationship.
-
-## Die Zeichen einer Situationship
-
-Hier ist, wie du weiß, dass du in einer Situationship bist:
-
-**Ihr habt nie „Das Gespräch"**: Ihr habt nicht gesprochen, was diese Beziehung ist. Ihr habt nicht gesagt „Ich möchte offiziell sein" oder „Ich möchte deine Freundin / Freund sein."
-
-**Es ist vage, ob ihr exklusiv seid**: Ihr weiß nicht, ob diese Person andere Leute datiert.
-
-**Es gibt kein Commitment**: Dein Partner hat nicht gezeigt oder zu sagen, dass sie langfristig mit dir sein wollen.
-
-**Ihr seht euch, aber es ist nicht geplant**: Es ist immer „Zeigen Sie sich dann" oder „Texten Sie mir, wenn Sie abgeholt werden möchten". Es ist nicht geplant oder intentional.
-
-**Es gibt physische Nähe, aber emotionaler Abstand**: Ihr habt Sex, aber ihr habt nicht tiefe Gespräche. Es ist körperlich, aber nicht emotional.
-
-**Die andere Person ist nicht präsent in deinem Leben**: Ihre Freunde kennen dich nicht. Ihre Familie kennt dich nicht. Es gibt Geheimhaltung.
-
-**Ihr ist unkonsequent**: Manchmal kontaktieren sie dich viel, manchmal ignorieren Sie dich.
-
-**Die Bedingungen können sich jederzeit ändern**: Diese Person kann einfach aufhören, dich zu kontaktieren und dich [Ghosting](/blog/ghosting-komplett-guide). Es gibt keine Besprechung, dass es vorbei ist. Es ist einfach weg.
+Und irgendwann merkst du, dass du [Ghosting](/blog/ghosting-komplett-guide). Es gibt keine Besprechung, dass es vorbei ist. Es ist einfach weg.
 
 Wenn das meisten von diesem wahr ist, du bist in einer Situationship.
 

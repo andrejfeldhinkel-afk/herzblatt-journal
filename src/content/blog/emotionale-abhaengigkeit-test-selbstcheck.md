@@ -1,5 +1,5 @@
 ---
-title: "Emotionale Abhängigkeit: Test & Selbstcheck – Erkenne die Zeichen"
+title: "Emotionale Abhängigkeit: Test & Selbstcheck"
 description: "Bist du emotional abhängig? Dieser umfassende Selbstcheck-Test hilft dir, die Zeichen zu erkennen und konkrete Schritte zur Heilung zu gehen."
 date: 2026-04-02
 tags: [emotionale-gesundheit, abhängigkeit, beziehungen, psychologie, selbsthilfe]
@@ -207,6 +207,5 @@ Du bist nicht allein in diesem Kampf. Viele Menschen haben emotionale Abhängigk
 Du kannst das auch.
 
 **Weitere hilfreiche Artikel:**
-- [Offene Beziehung: Die psychologische Perspektive](/blog/offene-beziehung-psychologie-perspektive)
 - [Freundschaft Plus: Regeln, die funktionieren](/blog/freundschaft-plus-regeln-komplett)
 - [Beziehung Langweile überwinden](/blog/beziehung-langweile-ueberwinden)

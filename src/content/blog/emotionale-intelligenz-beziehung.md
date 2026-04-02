@@ -233,7 +233,7 @@ Emotionale Intelligenz ist nicht etwas, das du hast oder nicht hast. Es ist etwa
 
 Eine abschließende Gedanke: Das höchste EQ-Paar, das ich jemals getroffen habe, waren zwei Menschen, die keine perfekte Beziehung hatten. Sie hatten Kämpfe. Sie hatten schwierige Momente. Aber sie hatten die Fähigkeit, dich zu sehen, dich zu hören, und gemeinsam zu wachsen. Das ist nicht Perfektion. Das ist EQ.
 
-Siehe auch: [Bindungsangst überwinden: Warum du dich nicht einlassen kannst](/blog/bindungsangst-ueberwinden) und [Fernbeziehung meistern: 25 Tipps für eine starke Liebe auf Distanz](/blog/fernbeziehung-tipps)
+Siehe auch: [Fernbeziehung meistern: 25 Tipps für eine starke Liebe auf Distanz](/blog/fernbeziehung-tipps)
 ## Weiterlesen
 
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)

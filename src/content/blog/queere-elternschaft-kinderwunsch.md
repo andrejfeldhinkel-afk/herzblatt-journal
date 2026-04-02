@@ -135,28 +135,7 @@ Nachteile:
 - Rechtlich komplex und oft illiberal
 - Teuer (30.000-50.000+ Euro)
 - Ethische Überlegungen (besonders wenn die Leihmutter in einem ärmeren Land ist)
-- Emotionale Komplexität (Trauer, [Trennung](/blog/trennung-verarbeiten-12-schritte) von Schwangerschaft)
-
-### Weg 4: Adoption
-
-Adoption ist ein Weg, den viele LGBTQ+ Paare nehmen, um Eltern zu werden. In Deutschland ist gleichgeschlechtliche Adoption legal seit 2017, was es LGBTQ+ Paaren möglich macht, gemeinsam zu adoptieren.
-
-**Arten der Adoption:**
-
-Offene Adoption – du kennst die Geburtsparents und hast Kontakt mit dem Kind über die Jahre hinweg.
-
-Halboffene Adoption – du erhältst non-identifying Informationen über die Geburtsparents und es gibt möglicherweise begrenzte Kommunikation.
-
-Geschlossene Adoption – keine Kontakt mit den Geburtsparents.
-
-**Der Adoptionsprozess in Deutschland:**
-
-1. Informationssitzung mit einem Jugendamt
-2. Umfangreiche Bewertung – dein Lebensstil, deine Beziehung, deine finanzielle Situation werden genau überprüft
-3. Sicherheitsüberprüfung und Hintergrundchecks
-4. Vorbereitung auf Elternschaft (obligatorische Kurse)
-5. Warten auf eine Zuordnung – das kann Jahre dauern
-6. [Kennenlernen](/blog/dating-fragen-kennenlernen) des Kindes
+- Emotionale Komplexität (Trauer, [Kennenlernen](/blog/dating-fragen-kennenlernen) des Kindes
 7. Probephase (üblicherweise 6 Monate)
 8. Endgültige Adoption (vor Gericht)
 

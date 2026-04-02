@@ -283,7 +283,6 @@ Du musst nicht alle 10 Formeln aussuchen. Wähle die, die sich am meisten wie DU
 
 ## Weiterlesen
 
-- [Catfishing erkennen: So schützt du dich vor Fake-Profilen](/blog/catfishing-online-dating-schutz)
 - [Online-Dating für Introvertierte](/blog/dating-introvertiert-online-tipps)
 - [Die perfekte erste Nachricht beim Online-Dating](/blog/erste-nachricht-online-dating)
 

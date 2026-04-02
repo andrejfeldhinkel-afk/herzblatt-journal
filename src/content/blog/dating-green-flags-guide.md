@@ -27,13 +27,7 @@ faq:
 
 ## Das Problem mit der Red-Flag-Fixation
 
-Wir sind obsessed mit [Red Flags](/blog/dating-red-flags-maenner-erkennen) zu meiden. Aber hier ist die Realität:
-
-> **Sich NICHT verletzen zu lassen ist nicht dasselbe wie eine gute Beziehung zu haben.**
-
-Es ist Zeit, dich auf die grünen Flaggen zu konzentrieren. Auf die Zeichen, dass diese Person ein großartiger Partner sein könnte.
-
-## Die 20 [Green Flags](/blog/dating-green-flags-erkennen-guide) im Detail
+Wir sind obsessed mit [Green Flags](/blog/dating-green-flags-erkennen-guide) im Detail
 
 ### Green Flags zur emotionalen Verfügbarkeit
 
@@ -92,7 +86,7 @@ Sie/er macht ihr/sein Leben, anstatt auf Glück zu warten. Sie/er ist agent of i
 Ein Partner, der aus früheren Beziehungen gelernt hat, wird in DIESER auch wachsen.
 
 
-> **Lesetipp:** [Kenne deine Notwendigkeiten: Das Fundament guten Datings](/blog/dating-notwendigkeit-kennen) | [Dating mit ADHS: So findest du Liebe trotz Aufmerksamkeits-Chaos](/blog/dating-mit-adhs)
+> **Lesetipp:** [Dating mit ADHS: So findest du Liebe trotz Aufmerksamkeits-Chaos](/blog/dating-mit-adhs)
 
 
 > "Meine letzte Beziehung endete, weil ich egoistisch war. Ich habe daran gearbeitet..."
@@ -166,7 +160,6 @@ Wenn nein, dann habt ihr beide besseres zu tun.
 
 ## Weiterlesen
 
-- [Kenne deine Notwendigkeiten: Das Fundament guten Datings](/blog/dating-notwendigkeit-kennen)
 - [Casual Dating vs. ernste Beziehung – Die richtige Wahl](/blog/dating-casual-vs-serious)
 - [Dating mit ADHS: So findest du Liebe trotz](/blog/dating-mit-adhs)
 

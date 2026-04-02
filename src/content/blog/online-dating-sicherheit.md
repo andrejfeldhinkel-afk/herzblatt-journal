@@ -83,9 +83,7 @@ Wenn jemand sehr schnell "intensiv" wird — nach wenigen Tagen Liebe-Geständni
 Das könnte sein:
 - Ein Raubtier, der versucht, dich zu kontrollieren
 - Ein Betrüger, der dich emotional einfangen will
-- Ein narzisstischer Person, der [Love Bombing](/blog/love-bombing-erkennen-schuetzen) praktiziert
-
-[Love Bombing erkennen](/blog/love-bombing-erkennen) ist wichtig in diesem Kontext.
+- Ein narzisstischer Person, der [Love Bombing erkennen](/blog/love-bombing-erkennen) ist wichtig in diesem Kontext.
 
 Echte Beziehungen entwickeln sich natürlich, nicht explosiv in 48 Stunden.
 
@@ -208,26 +206,11 @@ Zusätzliche Überlegungen:
 
 Nicht alles Trauma von Online-Dating ist körperlich:
 
-- Emotionaler Missbrauch ([Ghosting](/blog/ghosting-komplett-guide), Manipulation)
-- Finanzielle Scams
-- Catfishing
-- Emotionale Manipulation
-
-Wenn du etwas Traumatisches erlebst, sprich darüber — mit Freunden, Familie oder einem Therapeuten.
-
-Es ist nicht deine Schuld.
-
-## Die echte Wahrheit
-
-Online-Dating ist ein Tool. Mit Sicherheits-Protokollen ist es viel sicherer.
-
-Deine Sicherheit ist wichtiger als das Datum. Immer.
-
-Für mehr über Warnsignale, schau dir unseren Guide zu [red flags erkennen](/blog/red-flags-erkennen) an.
+- Emotionaler Missbrauch ([red flags erkennen](/blog/red-flags-erkennen) an.
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/adhs-und-beziehung-komplett-guide/) zu [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/beste-dating-apps-2026), [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich), [Dating für Introvertierte: Tipps zum Finden von Liebe ohne Stress](/blog/dating-introvertierte).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/beste-dating-apps-2026), [Dating für Introvertierte: Tipps zum Finden von Liebe ohne Stress](/blog/dating-introvertierte).## Weiterlesen
 
 - [Online-Dating Sicherheit: So schützt du dich vor Betrug](/blog/online-dating-sicherheit-tipps/)
 - [Online-Dating für Senioren: Tech & Tipps für 65+](/blog/online-dating-fuer-senioren/)

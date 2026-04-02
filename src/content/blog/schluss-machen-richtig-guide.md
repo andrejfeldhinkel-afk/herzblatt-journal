@@ -27,18 +27,7 @@ faq:
 
 # Schluss machen: So beendest du eine Beziehung respektvoll
 
-Schluss machen ist einer der schwierigsten Gespräche, die du führen wirst. Es gibt Schmerz. Es gibt Tränen. Es gibt möglicherweise Wut und Verwirrung. Aber manchmal ist es das Richtige, das Mutigste und sogar das Liebevollste, was du tun kannst. Nicht jede Beziehung ist darauf ausgelegt zu bleiben. Nicht jede Liebe wird mit der Zeit stärker. Es gibt Zeiten, in denen [Trennung](/blog/trennung-verarbeiten-12-schritte) der liebevollste Akt ist – für beide Partner. In diesem umfassenden Guide werde ich dir zeigen, wie du eine Beziehung respektvoll und würdevoll beendest. Dieser Guide behandelt nicht nur das schwierige Gespräch selbst, sondern auch die emotionale Vorbereitung davor und wie du danach mit dir selbst und deinem ehemaligen Partner umgehen kannst.
-
-## 1. Erkenne das tiefe Zeichen, dass es wirklich Zeit ist zu gehen
-
-Der erste Schritt ist zu erkennen, dass es wirklich Zeit ist zu gehen. Dies ist nicht etwas, das du in einem Moment der Wut oder Frustration entscheidest. Dies ist etwas, das du über längere Zeit nachdenklich bedenkst und reflektierst. Hier sind einige ernsthafte Zeichen, dass es möglicherweise Zeit ist:
-
-- Du bist chronisch unglücklich in der Beziehung – nicht nur manchmal, sondern über Monate hinweg
-- Du hast mehrmals versucht, die Probleme zu lösen und Lösungen zu kommunizieren, aber nichts ändert sich wesentlich
-- Du vertraust deinem Partner nicht mehr oder es wurde zerbrochen und repariert nicht
-- Der andere oder du wird emotional missbräuchlich, kontrollierend oder manchmal körperlich aggressiv
-- Ihr habt fundamental unterschiedliche Lebensziele und Werte, die sich nicht vereinbaren lassen
-- Du bist nicht mehr in den anderen [verliebt](/blog/mann-verliebt-anzeichen-komplett) oder respektierst ihn nicht mehr
+Schluss machen ist einer der schwierigsten Gespräche, die du führen wirst. Es gibt Schmerz. Es gibt Tränen. Es gibt möglicherweise Wut und Verwirrung. Aber manchmal ist es das Richtige, das Mutigste und sogar das Liebevollste, was du tun kannst. Nicht jede Beziehung ist darauf ausgelegt zu bleiben. Nicht jede Liebe wird mit der Zeit stärker. Es gibt Zeiten, in denen [verliebt](/blog/mann-verliebt-anzeichen-komplett) oder respektierst ihn nicht mehr
 - Du bleibst nur aus Angst vor Einsamkeit, aus Pflicht oder aus Schuldgefühl, nicht aus echter Liebe
 - Deine Sicherheit oder psychisches Wohlbefinden ist in Gefahr
 - Ihr habt versucht, Paartherapie zu machen, aber dein Partner weigert sich oder es schlägt fehl

@@ -52,29 +52,7 @@ Eine Belastung beim Dating nach einer Abtreibung ist, das Geheimnis. Du kennst e
 
 Das kann sich isolierend anfühlen. Du kannst nicht voll authentisch sein, weil ein großer Teil deiner Geschichte verborgen ist.
 
-Das ist normal in frühen Dating-Stadien. Du musst nicht deinen ganzen Lebensroman mit jemandem teilen, den du gerade kennengelernt hast. Aber mit Zeit, in einer ernsthaften [beziehung](/blog/adhs-und-beziehung-komplett-guide/), wird die Notwendigkeit für Offenheit größer.
-
-Der Schlüssel ist, damit wartet zu wählen. Nicht ewig – das führt zu Anspannung – aber lange genug, um zu wissen, dass diese Person sicher genug ist.
-
-Wenn dieser Person die Nachricht hört und urteilt, dann ist es die falsche Person. Das ist Information. Ich bin nicht sagend, dass jeder muss deine Entscheidung perfekt verstehen, aber echte Mitgefühl und Respekt sollte vorhanden sein.
-
-## Dein Wert ist nicht verringert
-
-Das giftigste Gedanke: dass du wegen einer Abtreibung weniger wert bist als jemand anderes.
-
-Das ist falsch. Eine Entscheidung über deine Reproduktion ändert nicht deinen Wert als Mensch oder deine Liebenswürdigkeit in einer Beziehung.
-
-Viele, viele Frauen gehen durch das. Es ist häufiger, als du denkst. Das macht dich nicht defekt. Es macht dich menschlich.
-
-## Rote Flaggen beim Dating
-
-Nach einer schwierigen Entscheidung wie eine Abtreibung musst du besonders wachsam für rote Flaggen sein. Deine emotionalen Grenzen könnten schwächer sein. Du könntest anfälliger für Manipulation sein.
-
-Achte auf Menschen, die dich über deine Vergangenheit urteilen. Das ist nicht akzeptabel.
-
-Achte auf Menschen, die dich "heilen" wollen oder die Entscheidung "reparieren". Du brauchst keine Reparatur. Du brauchst Verständnis.
-
-Achte auf Menschen, die die Entscheidung gegen dich halten oder sagen, sie hätten dich "überredet" abzutreiben. Das ist [Gaslighting](/blog/gaslighting-komplett-guide) und es ist inakzeptabel.
+Das ist normal in frühen Dating-Stadien. Du musst nicht deinen ganzen Lebensroman mit jemandem teilen, den du gerade kennengelernt hast. Aber mit Zeit, in einer ernsthaften [Gaslighting](/blog/gaslighting-komplett-guide) und es ist inakzeptabel.
 
 Die richtige Person wird respektiert, dass du eine schwierige Wahl getroffen hast. Sie werden nicht versuchen, dich dafür zu beschämen.
 

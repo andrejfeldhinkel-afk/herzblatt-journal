@@ -67,7 +67,7 @@ Hier ist, wie du es machst:
 Schreib dein Profil ehrlich. Sag nicht, dass du "leidenschaftlich von Abenteuer" bist, wenn du tatsächlich zuhause Videospiele magst. Schreib: „Ich bin ruhig und introvertiert, aber ich genieße gute Filme und tiefe Gespräche." Das filtert Menschen heraus, die dich nicht verstehen.
 
 
-> **Lesetipp:** [Welcher Dating-Typ bist du? Die 8 Persönlichkeitstypen](/blog/dating-persoenlichkeitstypen) | [Benching beim Dating: Wenn du auf der Ersatzbank sitzt](/blog/dating-nach-diebstahl-des-herzens)
+> **Lesetipp:** [Benching beim Dating: Wenn du auf der Ersatzbank sitzt](/blog/dating-nach-diebstahl-des-herzens)
 
 
 Nimm ein ehrliches Foto. Nicht dein bestes Foto von vor fünf Jahren, wo du anders aussahst. Ein echtes aktuelles Foto. Du wirst überrascht sein, wie viele Frauen echte Fotos gegenüber perfekten Bildern bevorzugen.
@@ -108,39 +108,6 @@ Der größte Fehler schüchterner Männer: Sie versuchen, nicht schüchtern zu s
 
 Erstens, du kannst die Fassade nicht lange aufrechterhalten. Irgendwann wirst du müde oder gestresst, und deine echte Nervosität ploppt heraus.
 
-Zweitens, du ziehst damit die falsche Person an. Wenn sie sich in die "coole Version" [verliebt](/blog/mann-verliebt-anzeichen-komplett), wird sie enttäuscht, wenn die echte Version (die schüchterne Version) erscheint.
-
-Die richtige Person – es gibt sie – wird deine Schüchternheit schätzen. Sie wird verstehen, dass Nervosität nicht Uninteresse bedeutet. Sie wird nicht versuchen, dich zu ändern. Sie wird dich einfach sehen und dich mögen.
-
-Sei ehrlich darüber, wer du bist. Sag nicht, dass du "leidenschaftlich von Abenteuer" bist, wenn dein Lieblings-Abenteuer ein neues Café auszuprobieren ist. Sei echt. Sei der schüchterne Kerl, der nervös ist, aber es sowieso versucht.
-
-Das ist sexy. Das ist attraktiv. Das ist liebenswert.
-
-## Der lange Weg
-
-Dating als schüchterner Mann ist nicht einfach. Es braucht Mut. Es braucht Ausdauer. Es braucht, dass du dich selbst ermutigst.
-
-Aber es ist möglich. Und die Frau, die dich schließlich kennenlernt? Sie wird jemanden haben, der echtzuhört, der nachdenklich ist, der verletzlich ist. Sie wird jemanden haben, der sein kann.
-
-Das ist nicht weniger "männlich". Das ist mehr "echt". Und echt gewinnt am Ende.
-
-### Häufig gestellte Fragen
-
-**F: Wie unterscheidet sich Schüchternheit von sozialer Angststörung?**
-A: Schüchternheit ist ein Gefühl von Unbehagen in neuen sozialen Situationen, das mit der Zeit oder Vertrautheit verschwindet. Soziale Angststörung ist intensive, persistente Angst vor sozialen Situationen, die Aktivitäten beeinträchtigt. Wenn deine Schüchternheit dein Leben blockiert, such dir Hilfe von einem Therapeuten.
-
-**F: Was mache ich, wenn ich beim Reden stecken bleibe?**
-A: Das ist normal. Atme tief durch. Sag etwas wie "Sorry, ich bin ein bisschen nervös." Das ist nicht schwach – das ist ehrlich. Die meisten Menschen finden das sympathisch, nicht abschreckend.
-
-**F: Sollte ich versuchen, weniger schüchtern zu werden?**
-A: Du kannst an deinem Selbstvertrauen arbeiten. Du kannst üben, Gespräche zu führen. Du kannst in deiner Schüchternheit wachsen. Aber dein Kern wird wahrscheinlich immer ein bisschen schüchtern bleiben. Das ist nicht etwas, das du "reparieren" musst. Das ist etwas, mit dem du leben und gedeihen kannst.
-
-**F: Wie weiß ich, ob eine Frau wirklich nicht interessiert ist oder ob sie nur schüchtern ist?**
-A: Wenn sie ein zweites Date nicht vorschlägt oder nicht auf deine Texte antwortet, ist das eine klare Antwort. Wenn sie aktiv in das Gespräch engagiert ist und dich ansieht, sind das gute Zeichen. Wenn du unsicher bist, kannst du direkt fragen: "Möchtest du dich mal wieder treffen?" und höre auf die Antwort ohne Interpretation.
-
-## Weiterlesen
-
-- [Impostor-Syndrom beim Dating: Du bist genug (glaub mir)](/blog/dating-impostor-syndrom)
-- [Dating mit ADHS: So findest du Liebe trotz](/blog/dating-mit-adhs)
+Zweitens, du ziehst damit die falsche Person an. Wenn sie sich in die "coole Version" [Impostor-Syndrom beim Dating: Du bist genug (glaub mir)](/blog/dating-impostor-syndrom)
 - [Benching beim Dating: Wenn du auf der Ersatzbank sitzt](/blog/dating-nach-diebstahl-des-herzens)
 

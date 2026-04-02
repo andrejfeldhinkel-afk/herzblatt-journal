@@ -145,4 +145,4 @@ Aber jetzt? Jetzt schmerzt es. Und das ist okay. Das ist Liebe, die endet. Das i
 
 Lass dich Zeit. Sei sanft mit dir. Das wird vorbei gehen.
 
-Für mehr zur Beziehungsheilung, lies auch: [Vertrauen aufbauen](/blog/vertrauen-aufbauen-beziehung) und [Gefühle zeigen](/blog/gefuehle-zeigen-lernen-mann).
+Für mehr zur Beziehungsheilung, lies auch: [Gefühle zeigen](/blog/gefuehle-zeigen-lernen-mann).

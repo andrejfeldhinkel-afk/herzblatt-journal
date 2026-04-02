@@ -15,21 +15,7 @@ Die Art, wie Du Dich in Beziehungen verhältst, hat tiefe Wurzeln. Sie reicht bi
 
 ## Was sind Bindungsstile überhaupt?
 
-Der [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) beschreibt, wie wir emotionale Nähe zu anderen Menschen aufbauen. Er entsteht durch unsere frühen Erfahrungen mit Bezugspersonen und bleibt relativ stabil, kann aber durch Bewusstsein und Arbeit verändert werden.
-
-Es gibt drei Haupttypen: sicher, ängstlich-ambivalent und vermeidend. Ein vierter, sehr seltener Typ ist der desorganisiert-chaotische Bindungsstil, den wir hier aber weniger intensiv behandeln.
-
-## Der sichere Bindungsstil
-
-Menschen mit sicherem Bindungsstil sind im Dating am entspanntesten unterwegs. Sie können Nähe genießen, ohne dabei ihre Unabhängigkeit zu verlieren. Sie vertrauen anderen Menschen, ohne dabei ständig Angst vor Ablehnung zu haben.
-
-**Das erkennst Du an dir selbst:**
-
-- Du kannst gut über Deine Gefühle sprechen
-- Du brauchst regelmäßig Bestätigung, aber nicht ständig
-- Du schaffst es, Zeit alleine zu verbringen und Zeit mit der Partnerin zu genießen
-- Konflikte bringen Dich nicht in Panik
-- Du kannst [Trennung](/blog/trennung-verarbeiten-12-schritte) verkraften, ohne Dein Selbstwertgefühl zu verlieren
+Der [Trennung](/blog/trennung-verarbeiten-12-schritte) verkraften, ohne Dein Selbstwertgefühl zu verlieren
 
 **Im Dating-Prozess:**
 
@@ -89,17 +75,7 @@ Zwei Menschen, die beide sehr viel Bestätigung brauchen. Das kann funktionieren
 Hilfreiche Ressourcen findest du bei Neurologen und Psychiater im Netz: [Neurologen und Psychiater im Netz](https://www.neurologen-und-psychiater-im-netz.org/)
 
 ### Vermeidend + Vermeidend
-Zwei Menschen, die Raum brauchen. Das kann entspannt sein, führt aber manchmal zu emotionaler Distanz und zu wenig Tiefe in der [beziehung](/blog/adhs-und-beziehung-komplett-guide/).
-
-## Was kannst Du tun?
-
-Erkenne erst Deinen Bindungsstil. Der wichtigste Schritt ist Bewusstsein. Wo reagierst Du überreagiert? Wo ziehst Du Dich zu schnell zurück? Schreib Dir auf, wie Du in Deinen letzten Beziehungen oder Dates warst.
-
-Arbeite an Dir selbst. Das bedeutet nicht, Dich komplett zu verändern. Es bedeutet, Deine triggernden Situationen zu verstehen. Ein Therapeut oder ein gutes Selbsthilfebuch kann Dir helfen. Besonders hilfreich sind Bücher von Sue Johnson oder John Bowlby.
-
-Suche Dir einen sicheren Partner oder jemanden, der bereit ist zu wachsen. Ein sicherer Partner kann Dir helfen, stabiler zu werden. Aber: Du kannst niemanden ändern. Suche jemanden, der Deine Arbeit an sich selbst respektiert und macht die eigene.
-
-Sei ehrlich beim Dating. Wenn Du weißt, dass Du zu schnell [verliebt](/blog/mann-verliebt-anzeichen-komplett) wirst, sag es. Wenn Du Raum brauchst, kommuniziere das klar. So findest Du jemanden, der damit umgehen kann.
+Zwei Menschen, die Raum brauchen. Das kann entspannt sein, führt aber manchmal zu emotionaler Distanz und zu wenig Tiefe in der [verliebt](/blog/mann-verliebt-anzeichen-komplett) wirst, sag es. Wenn Du Raum brauchst, kommuniziere das klar. So findest Du jemanden, der damit umgehen kann.
 
 ## Die gute Nachricht
 

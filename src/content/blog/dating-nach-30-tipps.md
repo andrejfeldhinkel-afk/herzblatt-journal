@@ -24,15 +24,7 @@ faq:
 
 Vergiss alles, was dir eingeredet wurde: 30 ist kein Verfallsdatum für die Liebe. Im Gegenteil — psychologische Studien zeigen, dass Beziehungen, die in den 30ern beginnen, überdurchschnittlich stabil und glücklich sind.
 
-Der Grund ist einfach: Mit 30 weißt du, wer du bist. Du hast genug Lebenserfahrung, um echte Kompatibilität von oberflächlicher Anziehung zu unterscheiden. Du hast gelernt, was du in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/) brauchst — und was nicht.
-
-Die 30er sind nicht dein letzter Zug – sie sind dein erster echter Zug. Die Lebenserfahrung, die du bis dahin gesammelt hast, ist ein Vorteil, kein Nachteil.
-
-## Die Vorteile des Datings mit 30
-
-Dein Selbstbewusstsein ist reifer. Du definierst dich nicht mehr über die Bestätigung anderer, sondern weißt, was du wert bist. Das macht dich automatisch attraktiver und hilft dir, Partner auf Augenhöhe zu finden.
-
-Du erkennst [Red Flags](/blog/dating-red-flags-maenner-erkennen) schneller. Die Erfahrungen aus deinen 20ern haben dir beigebracht, toxische Muster zu erkennen. Du verschwendest weniger Zeit mit den falschen Menschen und investierst gezielter in vielversprechende Verbindungen.
+Der Grund ist einfach: Mit 30 weißt du, wer du bist. Du hast genug Lebenserfahrung, um echte Kompatibilität von oberflächlicher Anziehung zu unterscheiden. Du hast gelernt, was du in einer [Red Flags](/blog/dating-red-flags-maenner-erkennen) schneller. Die Erfahrungen aus deinen 20ern haben dir beigebracht, toxische Muster zu erkennen. Du verschwendest weniger Zeit mit den falschen Menschen und investierst gezielter in vielversprechende Verbindungen.
 
 Dein soziales Umfeld hat sich geklärt. Du hast echte Freundschaften aufgebaut und weißt, welche sozialen Kreise dir guttun. Das hilft auch bei der Partnerwahl: Du suchst nicht mehr nach jemandem, der eine Lücke füllt, sondern nach jemandem, der dein bereits gutes Leben bereichert.
 

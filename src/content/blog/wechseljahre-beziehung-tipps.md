@@ -1,5 +1,5 @@
 ---
-title: "Wechseljahre & Beziehung: Wie ihr diese Phase gemeinsam meistert (2026)"
+title: "Wechseljahre & Beziehung: Wie ihr diese Phase gemeinsam m..."
 description: "Wechseljahre verändern Beziehungen. Hormonelle Shifts beeinflussen Libido, Stimmung und Intimität. Ehrliche Tipps um diese Phase zusammen zu navigieren."
 date: 2026-04-01
 image: "/images/blog/wechseljahre-beziehung-tipps.webp"
@@ -216,4 +216,4 @@ Also erkläre es. Sag es. Lass ihn in den Prozess rein.
 
 Und vertrau darauf, dass das andere Seite schöner ist.
 
-Lies auch unseren Artikel über [intimacy in long-term relationships](/blog/intimitat-langzeitbeziehung) um zu lernen wie man Nähe neu erfindet.
+Lies auch unseren Artikel über [intimacy in long-term relationships](/blog/dating-nach-langzeitbeziehung) um zu lernen wie man Nähe neu erfindet.

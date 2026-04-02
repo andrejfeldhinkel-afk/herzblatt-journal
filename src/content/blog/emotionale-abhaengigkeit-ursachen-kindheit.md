@@ -1,5 +1,5 @@
 ---
-title: "Emotionale Abhängigkeit und Kindheit: Woher kommt es wirklich?"
+title: "Emotionale Abhängigkeit und Kindheit"
 description: "Wie deine Kindheit zu emotionaler Abhängigkeit führt. Verstehe die Wurzeln und heile alte Wunden aus deiner Vergangenheit."
 date: 2026-04-02
 tags: [emotionale-abhängigkeit, kindheit, psychologie, bindung]
@@ -48,7 +48,7 @@ Es gibt grundlegend vier Bindungsstile, die in der Kindheit geprägt werden:
 
 **Desorganisiert**: Deine Eltern waren chaotisch, abwesend oder sogar gewalttätig. Du hast gelernt, dass Nähe gefährlich sein kann, aber auch, dass du die Nähe brauchst. Das führt zu konfusen, schwer zu navigierenden Beziehungsmustern.
 
-[Wenn du an deinem Bindungsstil arbeiten möchtest, lies auch unseren Artikel über konkrete Schritte zur Überwindung emotionaler Abhängigkeit](/blog/emotionale-abhaengigkeit-loesen-schritte.md).
+[Wenn du an deinem Bindungsstil arbeiten möchtest, lies auch unseren Artikel über konkrete Schritte zur Überwindung emotionaler Abhängigkeit](/blog/emotionale-abhaengigkeit-loesen-schritte).
 
 ## Spezifische Kindheitsmuster, die zu emotionaler Abhängigkeit führen
 
@@ -116,4 +116,4 @@ Du kannst lernen, dass es sicher ist, verletzlich zu sein. Du kannst lernen, das
 
 Das ist ein Weg, aber es ist möglich. Und du machst es nicht alleine.
 
-Wenn du bereit bist, die konkrete Arbeit zu beginnen, lies auch [unseren Artikel mit 7 Schritten zur Überwindung emotionaler Abhängigkeit](/blog/emotionale-abhaengigkeit-loesen-schritte.md).
+Wenn du bereit bist, die konkrete Arbeit zu beginnen, lies auch [unseren Artikel mit 7 Schritten zur Überwindung emotionaler Abhängigkeit](/blog/emotionale-abhaengigkeit-loesen-schritte).

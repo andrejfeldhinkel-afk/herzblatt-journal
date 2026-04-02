@@ -1,5 +1,5 @@
 ---
-title: "Trennung verarbeiten: Schritt für Schritt – Dein Weg zum Neuanfang"
+title: "Trennung verarbeiten: Schritt für Schritt"
 description: "Die 7 Phasen der Trennungsverarbeitung, Sofort-Hilfe, gemeinsame Wohnung, Kinder, Freundeskreis, wann du für neue Liebe bereit bist."
 date: 2026-03-19
 image: "/images/blog/trennung-verarbeiten-komplett.webp"

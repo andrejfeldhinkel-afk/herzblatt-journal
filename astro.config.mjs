@@ -13,7 +13,9 @@ export default defineConfig({
     filter: (page) =>
       !page.match(/\/blog\/\d+/) &&
       !page.includes('/404') &&
-      !page.includes('/suche'),
+      !page.includes('/suche') &&
+      !page.includes('/quiz') &&
+      !page.includes('/dating-typ-test'),
     changefreq: 'weekly',
     lastmod: new Date(),
   })],
@@ -174,6 +176,35 @@ export default defineConfig({
     '/blog/beziehung-retten-ultimativer-guide': { status: 301, destination: '/blog/beziehung-retten-kompletter-guide' },
     '/blog/on-off-beziehung-raus-aus-kreislauf': { status: 301, destination: '/blog/on-off-beziehung-beenden' },
     '/blog/fremdgehen-verzeihen': { status: 301, destination: '/blog/fremdgehen-verzeihen-kompletter-guide' },
+    // Missing /blog/ prefix redirects (from Ahrefs 404 report)
+    '/vertrauen-aufbauen-beziehung': { status: 301, destination: '/blog/vertrauen-aufbauen-beziehung' },
+    '/beziehung-auffrischen-ideen': { status: 301, destination: '/blog/beziehung-auffrischen-ideen' },
+    '/grenzen-setzen-beziehung': { status: 301, destination: '/blog/grenzen-setzen-beziehung' },
+    '/schmetterlinge-im-bauch-bedeutung': { status: 301, destination: '/blog/schmetterlinge-im-bauch-bedeutung' },
+    '/beziehung-kommunikation': { status: 301, destination: '/blog/beziehung-offene-kommunikation' },
+    '/richtig-streiten-beziehung': { status: 301, destination: '/blog/richtig-streiten-beziehung' },
+    '/digitale-grenzen': { status: 301, destination: '/blog/digitale-eifersucht' },
+    '/beziehung-social-media': { status: 301, destination: '/blog/beziehung-social-media' },
+    '/toxische-beziehung-erkennen': { status: 301, destination: '/blog/toxische-beziehung-erkennen' },
+    '/stonewalling-beziehung': { status: 301, destination: '/blog/stonewalling-beziehung' },
+    '/selbstliebe-partnersuche': { status: 301, destination: '/blog/selbstliebe-vor-partnersuche' },
+    '/selbstliebe-grenzen': { status: 301, destination: '/blog/selbstliebe-nach-trennung' },
+    '/selbstliebe-dating': { status: 301, destination: '/blog/selbstliebe-dating' },
+    '/schwierige-gespraeche': { status: 301, destination: '/blog/schwierige-gespraeche-beziehung' },
+    '/queer-dating-guide': { status: 301, destination: '/blog/queeres-dating-guide' },
+    '/privatsphaere-beziehung-guide': { status: 301, destination: '/blog/privatsphaere-beziehung-guide' },
+    '/polyamorie-guide': { status: 301, destination: '/blog/polyamorie-guide' },
+    '/partner-finden-ohne-dating-apps': { status: 301, destination: '/blog/partner-finden-ohne-dating-apps' },
+    '/paartherapie-wann-sinnvoll': { status: 301, destination: '/blog/paartherapie-wann-sinnvoll' },
+    '/online-dating-sicherheit': { status: 301, destination: '/blog/online-dating-sicherheit' },
+    '/manipulative-beziehung': { status: 301, destination: '/blog/manipulation-in-beziehungen' },
+    '/love-languages-beziehung': { status: 301, destination: '/blog/love-languages-beziehung' },
+    '/liebe-oder-gewohnheit-test': { status: 301, destination: '/blog/liebe-oder-gewohnheit-test' },
+    '/vertrauen-wiederaufbauen': { status: 301, destination: '/blog/vertrauen-wieder-aufbauen-nach-luege' },
+    '/vertrauen-beziehung-guide': { status: 301, destination: '/blog/erste-beziehung-tipps-guide' },
+    '/trauma-verarbeitung': { status: 301, destination: '/blog/trennung-verarbeiten-neuanfang' },
+    '/toxische-beziehung-guide': { status: 301, destination: '/blog/toxische-beziehung-komplett-guide' },
+    '/werte-basiertes-dating': { status: 301, destination: '/blog/werte-basiertes-dating' },
   },
   compressHTML: true,
   build: {

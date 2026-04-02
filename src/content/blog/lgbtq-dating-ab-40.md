@@ -246,19 +246,7 @@ Markus war 30 Jahre verheiratet, als er sich outet. Er hat zwei Kinder. Es war d
 
 "Ich habe lange Zeit gehofft, dass die Gefühle sich ändern würden," sagt Markus heute, mit 53 Jahren. "Aber mit 47 war ich einfach zu müde zu lügen."
 
-Die [Trennung](/blog/trennung-verarbeiten-12-schritte) war schwer. Die Familie hatte Zeit brauchte, ihn zu verstehen. Aber jetzt, sechs Jahre später, sagt Markus: "Meine Tochter akzeptiert mich. Mein Sohn akzeptiert mich. Und ich bin mit jemandem zusammen, der ich wirklich liebe – nicht eine Idee davon, wer ich sein sollte."
-
-Seine aktuelle Partnerschaft ist 3 Jahre alt. "Es ist anders als das, was ich früher hatte. Es ist echter. Es ist nicht einfach, weil wir beide Verletzungen haben. Aber es ist richtig."
-
-### Claudias Geschichte: Neuanfang nach Trennung mit 42
-
-Claudia war mit ihrer Frau zusammen, bis die Beziehung auseinanderging. Mit 42 Jahren war sie Single und panisch. "Ich dachte, mein Leben wäre vorbei," sagt sie.
-
-Dann fand sie eine Gruppe älterer Lesben durch einen Online-Kurs. "Das veränderte alles. Ich merkte, dass ich nicht allein war. Und ich merkte, dass Dating mit 42 nicht bedeutet, dass du alt bist. Es bedeutet, dass du Erfahrung hast."
-
-Heute, mit 48 Jahren, ist sie seit zwei Jahren mit jemandem zusammen, den sie auf einer Hiking-Gruppe traf. "Es ist das beste Dating-Szenario überhaupt. Wir hatten Zeit, uns organisch kennenzulernen. Wir entdeckten gemeinsame Interessen. Und wir waren beide frei, echt zu sein."
-
-### Tonys Geschichte: Lebenslangsingle mit 51, dann [verliebt](/blog/mann-verliebt-anzeichen-komplett)
+Die [verliebt](/blog/mann-verliebt-anzeichen-komplett)
 
 Tony war sein ganzes Leben lang single. Er hatte Gründe dafür, aber hauptsächlich war es internalisierte Homophobie und Angst.
 

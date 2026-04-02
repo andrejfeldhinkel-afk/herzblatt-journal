@@ -95,74 +95,7 @@ Nach ein paar Treffen und wenn du dich sicher fühlst? Dann erzähl die echte Fi
 
 Das ist nicht mystisch. Das ist dein Gehirn, das subtile Muster erkennt, die dein Bewusstsein nicht artikulieren kann.
 
-**[Red Flags](/blog/dating-red-flags-maenner-erkennen) beim Chatten:**
-
-- Sie stellen sich viele Fragen über deine Privatsphäre, Location, Routinen
-- Sie werden ausfallend, wenn du langsam antwortest
-- Sie versuchen, dich zu isolieren („Sag deinen Freunden nichts von mir")
-- Sie werden sofort intim / sexuell
-- Sie bauen schnell Druck auf („Du magst mich nicht...")
-- Sie haben eine perfekte Story (zu perfekt = Fake)
-- Sie wollen sich sofort treffen
-- Sie ändern ständig kleine Details ihrer Story
-
-**Wenn dein Bauch sagt „Nein":** Du antwortest nicht. Du bist nicht unhöflich, wenn du dein Bauchgefühl schützt.
-
-## Regel 7: Erstes Treffen – nur an öffentlichen Orten
-
-Das ist nicht optional. Der erste Kaffee mit jemandem aus dem Internet ist in einem CAFÉ. Mit Leuten um dich herum. Um 15 Uhr, nicht um 23 Uhr.
-
-**Was ok ist:**
-- Café / Bar
-- Restaurant
-- Museum / Ausstellung
-- Park mit vielen Leuten
-- Öffentlicher Ort, Tag, viele Menschen
-
-**Was nicht ok ist:**
-- Seine Wohnung / Deine Wohnung
-- Ein leeres Restaurant um 23 Uhr
-- Ein privates Picknick irgendwo
-- Ein Ort, den nur ihr beide kennt
-
-**Wenn er/sie vorschlägt: „Komm zu mir vorbei" beim ersten Treffen** = Nicht dein Mensch. Punkt.
-
-## Regel 8: Sag einem Freund, wohin du gehst
-
-Bevor du ein Date hast, textest du einer vertrauenswürdigen Person:
-- Wo du bist (Adresse / Location Name)
-- Wer du triffst (Name, evtl. wie die Person aussieht)
-- Wann du wieder erreichbar sein solltest
-
-Diese Person bleibt wach, wartet auf „Ich bin sicher zu Hause" Text. Wenn das nicht passiert, können sie Hilfe holen.
-
-Das ist nicht überreaktiv, das ist smart. Und jeder verantwortungsvolle Mensch macht das.
-
-## Regel 9: Schreib einen Screenshot des Profils, bevor dein Date es löscht
-
-Das ist düster, aber wichtig. Fake-Profile werden ständig gelöscht. Wenn etwas passiert – und ich sage nicht, dass es passiert – möchtest du einen Screenshot haben.
-
-Dein Telefon hat eine Screenshot-Funktion. Benutz sie.
-
-## Regel 10: Verlass dich nicht auf „Verifizierung"
-
-Tinder und andere Apps haben ein Verify-System. Das ist besser als nichts, aber es ist nicht sicher.
-
-Verifiziert heißt: Die Person hat diese Nummer / Email registriert. Das ist alles. Es heißt nicht, dass die Person echt ist.
-
-**Echt Verification:**
-- Videotelefon vor dem Treffen
-- Mehrere unterschiedliche Fotos
-- Ein Google-Bildersuche-Test (Bild reverse-suchen, schauen ob es überall im Internet ist)
-
-## Wie man Fakes und Scammer erkennt
-
-**Die Zeichen:**
-
-- Ihr Profil ist zu perfekt (Modell-Looks, perfekte Körper, perfekte Leben)
-- Sie haben nur 1-2 Fotos
-- Sie wollen sofort zu WhatsApp / Telegram
-- Sie bauen schnell emotionale Tiefe auf („Ich habe mich in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett)...")
+**[verliebt](/blog/mann-verliebt-anzeichen-komplett)...")
 - Sie haben eine perfekte Tragödie (verstorbene Familie, Geldproblem, aber „nur du kannst mir helfen")
 - Sie fragen nach Geld / Krypto / Geschenkkarten
 - Sie wollen Bilder von dir (besonders intime)
@@ -196,9 +129,6 @@ Das ist allgemeine Sicherheit, nicht spezifisch für Dating.
 ## Der psychologische Schutz
 
 Das ist genauso wichtig wie physische Sicherheit. Es gibt Menschen, die dich emotional manipulieren werden.
-
-**[Love Bombing](/blog/love-bombing-erkennen-schuetzen):**
-Jemand übertreibt es mit Komplimenten, Aufmerksamkeit, Geschenken. Das fühlt sich anfangs großartig an, aber es ist manipulativ.
 
 **[Gaslighting](/blog/gaslighting-komplett-guide):**
 Jemand bestreitet deine Realität. Du sagst „Du hast das gesagt", sie sagen „Nein, hab ich nicht" – und du fängst an zu zweifeln.

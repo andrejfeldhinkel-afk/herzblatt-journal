@@ -74,7 +74,7 @@ Und sei geduldig mit dir. Diese Muster haben sich über Jahre aufgebaut. Sie ver
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/aktives-zuhoeren-beziehung-ueben/) zu [Dating nach Burnout oder Depression: Wann bin ich bereit für die Liebe?](/blog/dating-nach-burnout), [Eifersucht in der Beziehung überwinden: So schaffst du es](/blog/eifersucht-beziehung-ueberwinden), [Emotionale Abhängigkeit überwinden: Unabhängigkeit in Beziehungen](/blog/emotionale-abhaengigkeit).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Dating nach Burnout oder Depression: Wann bin ich bereit für die Liebe?](/blog/dating-nach-burnout), [Emotionale Abhängigkeit überwinden: Unabhängigkeit in Beziehungen](/blog/emotionale-abhaengigkeit).## Weiterlesen
 
 - [Toxische Männlichkeit beim Dating: Warnsignale](/blog/toxische-maennlichkeit-dating/)
 - [Red Flags bei Männern – 15 Warnsignale beim Dating](/blog/dating-red-flags-maenner/)

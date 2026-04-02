@@ -1,5 +1,5 @@
 ---
-title: "Warum manche Frauen keinen Partner finden – und wie es sich ändert"
+title: "Warum manche Frauen keinen Partner finden"
 description: "Warum Frauen trotz Mühe keinen Partner finden: Die 8 häufigsten Gründe und wie du das änderst. Ohne Schuldigung, mit Liebe."
 date: 2026-04-02
 tags: [frauen, partnersuche, dating, beziehung]
@@ -40,7 +40,7 @@ Das Problem: Männer spüren das. Sie spüren, dass eine Mauer um dein Herz ist.
 
 Die Lösung beginnt mit dir selbst. Du musst das Vertrauen zu dir selbst wieder aufbauen. Du musst lernen, dass Verletzlichkeit Stärke ist, nicht Schwäche.
 
-[Wenn dich alte Verletzungen quälen, könnte unser Artikel über emotionale Abhängigkeit und Heilung hilfreich sein](/blog/emotionale-abhaengigkeit-loesen-schritte.md).
+[Wenn dich alte Verletzungen quälen, könnte unser Artikel über emotionale Abhängigkeit und Heilung hilfreich sein](/blog/emotionale-abhaengigkeit-loesen-schritte).
 
 ## Grund 2: Du sendest gemischte Signale
 
@@ -81,7 +81,7 @@ Wenn du in einem Bar-Umfeld nach einem häuslichen, treuen Mann suchst, wird das
 
 Die Strategie ist wichtig. Wo findest du Menschen, die kompatibel mit dir sind?
 
-[Lese unseren ausführlichen Artikel darüber, wo und wie du einen Partner findest](/blog/partner-finden-wo-und-wie.md).
+[Lese unseren ausführlichen Artikel darüber, wo und wie du einen Partner findest](/blog/partner-finden-wo-und-wie).
 
 ## Grund 5: Du gibst zu schnell auf
 

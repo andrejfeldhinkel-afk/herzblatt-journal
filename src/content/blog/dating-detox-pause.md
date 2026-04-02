@@ -39,27 +39,7 @@ Wenn das dich klingt, ist es Zeit, eine Pause zu nehmen.
 
 **Du suchst nach der falschen Gründe**
 
-Du merkst, dass du datingest, nicht weil du ein [beziehung](/blog/adhs-und-beziehung-komplett-guide/) möchtest, sondern weil:
-
-- Du wütend auf einen bestimmten Ex bist und versuchst, ihm "einen drauf zu geben" mit einem neuen Partner
-- Du Angst vor Einsamkeit hast und nur andere Dateien brauchst, um das Gefühl zu vermeiden
-- Alle deine Freunde Beziehungen haben und du dich seltsam fühlst
-- Du unbewusst versuchst, dich selbst zu validieren oder zu heilen, indem andere Menschen dich wählen
-- Du datingest "einfach", weil du datingest
-
-Das sind nicht die richtigen Gründe. Wenn du merkst, dass das deine Gründe sind, ist es Zeit, mit dem Dating aufzuhören und mehr Zeit mit dir selbst zu verbringen.
-
-**Du triffst immer wieder die gleiche Art von Person**
-
-Du findest dich in einer Schleife wieder: Ich treffe den gleichen arroganten Banktypen. Oder die gleiche emotional unvergängliche Frau. Oder die gleiche Person, die nicht in mich investiert ist.
-
-Das ist ein Zeichen dafür, dass du etwas über dich selbst nicht adressierst. Und bis du das tust, wirst du weiterhin die gleiche Art von Person anziehen.
-
-Du brauchst eine Pause, um herauszufinden, was dich zu diesen Arten von Menschen zieht.
-
-**Du wirst ständig getroffen**
-
-Du wirst vom [Ghosting](/blog/ghosting-komplett-guide), von Absagen, von "Ich sehe dich nicht romantisch" getroffen.
+Du merkst, dass du datingest, nicht weil du ein [Ghosting](/blog/ghosting-komplett-guide), von Absagen, von "Ich sehe dich nicht romantisch" getroffen.
 
 Diese Momente sind schmerzhaft. Und wenn sie ständig passieren, beginnt es, an deinem Selbstwertgefühl zu nagen.
 

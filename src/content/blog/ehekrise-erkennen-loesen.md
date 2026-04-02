@@ -1,5 +1,5 @@
 ---
-title: "Ehekrise erkennen & lösen: Wann kämpfen, wann loslassen? (2026)"
+title: "Ehekrise erkennen & lösen: Wann kämpfen, wann loslassen?"
 description: "Ehekrise-Guide: Anzeichen erkennen, Lösungsansätze finden. Solltest du kämpfen oder loslassen? So findest du Klarheit."
 date: 2026-04-01
 image: "/images/blog/ehekrise-erkennen-loesen.webp"

@@ -153,7 +153,6 @@ Denk darüber nach wie Musik. Ein Lied folgt einem Struktur – eine Strophe, ei
 
 ## Weiterlesen
 
-- [Rituale die eure Beziehung stärken](/blog/beziehung-rituale-staerken)
 - [Finanzplanung für Paare – So regelt ihr Geld richtig](/blog/beziehung-finanzplanung-paare)
 - [Beziehung nach Fehlgeburt: Gemeinsam durch die Trauer](/blog/beziehung-nach-fehlgeburt-staerken)
 

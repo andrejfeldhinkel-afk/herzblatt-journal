@@ -52,13 +52,7 @@ Es gibt auch Zeiten, wenn die Umwandlung nicht funktioniert:
 
 **Wenn Gefühle nicht gegenseitig sind:** Das ist das offensichtliche. Wenn du Gefühle für deinen Freund hast und sie nicht retourniert, es ist wahrscheinlich nicht zu übergehen.
 
-**Wenn einer abhängig von der anderen ist:** Wenn es ein Ungleichgewicht gibt (einer ist finanziell abhängig, emotionale abhängig, etc.), könnte eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) toxisch sein.
-
-**Wenn es große Unterschiede gibt:** Was ihr nicht bemerkt habe als Freunde, könnte beim Datieren herauskommen. Unterschiedliche Lebensziele, sexuelle Kompatibilität, oder andere Grundmerkmal Unterschiede.
-
-## Wie man es navigiert
-
-**Sei ehrlich mit dir selbst:** Fühlst du dich wirklich zu dieser Person romantisch angezogen, oder [verliebt](/blog/mann-verliebt-anzeichen-komplett) du dich in die Freundschaft? Das ist eine wichtige Unterscheidung.
+**Wenn einer abhängig von der anderen ist:** Wenn es ein Ungleichgewicht gibt (einer ist finanziell abhängig, emotionale abhängig, etc.), könnte eine [verliebt](/blog/mann-verliebt-anzeichen-komplett) du dich in die Freundschaft? Das ist eine wichtige Unterscheidung.
 
 **Überlege die Konsequenzen:** Bist du bereit, diese Freundschaft zu riskieren? Wenn nicht, könntest du die Gefühle für dich behalten müssen.
 

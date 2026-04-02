@@ -151,31 +151,6 @@ Manchmal sind die finanziellen und emotionalen Lasten zu groß. Wenn:
 - Ein Partner weigert sich, Verantwortung zu übernehmen
 - Die mentale Gesundheit von einem Partner ist ernsthaft gefährdet
 
-Dann ist möglicherweise [Trennung](/blog/trennung-verarbeiten-12-schritte) die gesundere Option.
-
-## Zusammenfassung: Konkrete Schritte
-
-1. **Beendet Schuldzuweisungen** – Ihr seid beide im selben Boot
-2. **Seid vollständig transparent** – Keine Geheimnisse oder Lügen
-3. **Erstellt einen konkreten, realistischen Plan** – Mit professioneller Hilfe
-4. **Sucht externe Unterstützung** – Finanzberater, Therapeut, Freunde
-5. **Baut Vertrauen wieder auf** – Mit Zeit und konsistente Handlungen
-6. **Feiert kleine Siege** – Motivation ist notwendig
-7. **An der Liebe festhalten** – Das ist das Fundament, wenn es echt ist
-
-Eine Insolvenz kann eine Beziehung zerstören oder sie stärken. Der Unterschied liegt darin, wie ihr als Paar darauf reagiert. Mit Ehrlichkeit, Geduld und gegenseitiger Unterstützung gibt es Hoffnung.
-
-Lest auch diese verwandten Artikel:
-
-Geldkonflikte in Beziehungen lösen
-
-Gemeinsame finanzielle Ziele als Paar
-
-Wie man sich von wirtschaftlichem Stress erholt
-
-## Weiterlesen
-
-- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
-- [Neustart nach einer Affäre: Der 8-Wochen-Plan für Heilung](/blog/beziehung-after-affaere-plan)
+Dann ist möglicherweise [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 - [Großer Altersunterschied in der Beziehung](/blog/beziehung-altersunterschied-gross)
 

@@ -140,61 +140,7 @@ Ein zweiter Schaden ist die Entwicklung von Angststörungen. Du wirst ängstlich
 
 Ein dritter Schaden ist Depression. Wenn du ständig kritisiert wirst und dich nicht gut genug fühlst, kann das zu Depression führen. Du verlierst Hoffnung, dass du besser werden kannst oder dass du es verdienst, geliebt zu werden.
 
-Ein vierter Schaden ist die Entwicklung von toxischen Beziehungsmustern. Wenn du in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/) genegggt wirst, lernst du, dass Liebe mit Manipulation verbunden ist. Das kann dazu führen, dass du später Beziehungen mit ähnlichen Mustern wählst oder dass du selbst andere Menschen neggt.
-
-Ein fünfter Schaden ist die Isolation. Wenn jemand dich vor anderen Personen neggt oder wenn du dich zu verlegen fühlst, um anderen zu erzählen, was passiert, können dich isoliert und allein fühlen. Das macht dich anfälliger für weitere Manipulation.
-
-Es ist wichtig zu verstehen, dass diese Schäden real sind und dass sie Zeit und Arbeit brauchen, um zu heilen. Wenn du längere Zeit genegggt wurdest, könnte es hilfreich sein, mit einem Therapeuten zu sprechen.
-
-## Wie du auf Negging reagieren kannst
-
-Wenn dich jemand neggt, ist es wichtig zu wissen, wie du reagieren kannst. Es gibt verschiedene Strategien, je nachdem, wie sicher du dich fühlst und wie du die Situation einschätzt.
-
-Die erste Strategie ist die unmittelbare Reaktion. Wenn dich jemand gerade genegggt hat, kannst du sofort sagen: „Das war verletzend" oder „Das war nicht in Ordnung." Das ist eine klare, ruhige Reaktion, die Grenzen setzt. Es ist wichtig, ruhig zu bleiben und emotional nicht zu überreagieren, obwohl deine Gefühle völlig berechtigt sind.
-
-Eine zweite Strategie ist das Hinterfragen. Du kannst fragen: „Was meinst du damit?" oder „Warum sagst du das?" Das zwingt die Person, ihre Kritik zu erklären, und es zeigt, dass du nicht einfach akzeptierst, was gesagt wurde.
-
-Eine dritte Strategie ist das Humor-Ablenken. Du kannst mit Humor reagieren, um die Spannung zu reduzieren, aber nur wenn du dich darin sicher fühlst. Ein einfaches „OK, sehr lustig" und dann das Thema wechseln, kann manchmal funktionieren.
-
-Eine vierte Strategie ist das Ignorieren. Manchmal ist die beste Reaktion auf Negging, es zu ignorieren und weiterzugehen. Das zeigt der anderen Person, dass ihre Bemerkung keine Kraft über dich hat.
-
-Eine fünfte Strategie ist das Gespräch suchen. Wenn du mit jemandem regelmäßig Zeit verbringst und der Negging fortgesetzt wird, musst du ein ernsthaftes Gespräch führen. Du kannst sagen: „Mir ist aufgefallen, dass du mich oft kritisierst. Das fühlt sich verletzend an und ich möchte, dass das aufhört."
-
-Eine sechste Strategie ist das Setzen von Grenzen. Wenn die Person ihr Verhalten nicht ändert, nach dem dich das Problem kommuniziert hast, musst du Grenzen setzen. Das könnte bedeuten, weniger Zeit mit ihnen zu verbringen oder die Beziehung zu beenden.
-
-## Warum Menschen andere Menschen neggen – Die Psychologie des Neggenden
-
-Um Negging vollständig zu verstehen, ist es wichtig zu verstehen, warum Menschen andere neggen. Das bedeutet nicht, dass es in Ordnung ist, aber es hilft dir, die Situation besser zu verstehen.
-
-Der erste Grund ist Unsicherheit. Menschen, die unsicher sind, versuchen oft, andere kleinzumachen, um sich selbst größer zu fühlen. Wenn die andere Person unsicher ist, tut die Person mit dem Negging sich stärker. Es ist eine Kompensation für das eigene Selbstwertgefühl.
-
-Ein zweiter Grund ist mangelnde Empathie. Manche Menschen verstehen nicht oder kümmern sich nicht darum, wie ihre Worte andere Menschen beeinflussen. Sie sagen das, was ihnen in den Sinn kommt, ohne die Konsequenzen zu bedenken.
-
-Ein dritter Grund ist das Gefühl von Kontrollbedürfnis. Menschen, die das Bedürfnis haben, Kontrolle zu haben, nutzen Negging, um die andere Person unsicher zu machen, damit sie leichter zu kontrollieren ist.
-
-Ein vierter Grund ist das Erlernte Verhalten. Wenn jemand selbst genegggt wurde oder in einer Familie aufwuchs, in der Kritik eine Form der „Liebe" war, könnte es sein, dass sie dieses Verhalten nun an andere weitergeben.
-
-Ein fünfter Grund ist das bewusste Manipulieren. Manche Menschen nutzen Negging bewusst, weil sie gelernt haben, dass es funktioniert. Sie verstehen, dass es andere Menschen verletzt, aber ihnen ist das egal, weil sie nur ihre eigenen Ziele erreichen wollen.
-
-Ein sechster Grund ist die Eifersucht. Wenn jemand eifersüchtig auf deine Erfolge oder dein Aussehen ist, könnte es sein, dass die Person dich zu neggen anfängt, um dich herunterzuziehen.
-
-Das Wichtigste ist zu verstehen: Egal, warum die Person dich neggt, das macht es nicht in Ordnung. Ihre Gründe sind irrelevant für deine Rechte und dein Wohlbefinden.
-
-## Negging in bestehenden Beziehungen – Nicht nur beim Dating
-
-Während Negging oft mit dem Early-Dating-Stadium verbunden wird, ist es auch ein großes Problem in langfristigen Beziehungen. In mancher Hinsicht ist es schlimmer, weil du bereits emotional investiert bist.
-
-In bestehenden Beziehungen könnte Negging aussehen wie dein Partner, der regelmäßig kleine Kritiken macht: „Du hast wieder Gewicht zugenommen", „Du bist nicht so intelligent wie dein Bruder", „Du könntest eine bessere Mutter sein". Diese Bemerkungen sammeln sich an. Nach Jahren von regelmäßigen Neggen, hat dein Selbstwertgefühl einen großen Treffer genommen.
-
-Ein subtilerer Form ist das „Veränderungs-Negging". Dein Partner sagt: „Wenn du deine Karriere ernster nehmst, würde ich dich mehr respektieren" oder „Wenn du dich mehr um dein Aussehen kümmerst, würde ich dich mehr begehren." Das ist nicht Unterstützung – das ist Negging verpackt als Liebe. Du beginnt zu glauben, dass dein Partner dich nur lieben würde, wenn du dich verändert hast.
-
-Eine andere Form ist das „öffentliche Negging", wo dein Partner dich vor anderen kritisiert. Es lacht über deine Macken vor Freunden, teilt deine Fehler. Das ist besonders verletzend, weil es nicht nur dein Selbstwertgefühl schädigt, sondern auch deine Reputation.
-
-Es gibt auch das „selektive Negging", wo dein Partner dich in einer Bereich unterstützt und in einem anderen Bereich regelmäßig kritisiert. Vielleicht unterstützt er deine Karriere, kritisiert aber ständig dein Aussehen oder deine Familie oder deine Freunde. Das hält dich unausgewogen und unsicher.
-
-Das wichtigste ist, dass Negging in einer bestehenden Beziehung Zeit ist zu gehen. Du kannst nicht mit jemandem zusammen sein, der dein Selbstwertgefühl systematisch untergraben. Eine gesunde Beziehung unterstützt dich, auch wenn es Kritik gibt.
-
-## Negging und [Gaslighting](/blog/gaslighting-komplett-guide) – Die gefährliche Kombination
+Ein vierter Schaden ist die Entwicklung von toxischen Beziehungsmustern. Wenn du in einer [Gaslighting](/blog/gaslighting-komplett-guide) – Die gefährliche Kombination
 
 Negging wird noch gefährlicher, wenn es mit Gaslighting kombiniert wird. Das ist, wenn die Person dich nicht nur kritisiert, sondern auch leugnet, dass sie es getan hat, oder dich verrückt macht dafür, dass du dich verletzt fühlst.
 

@@ -146,7 +146,7 @@ Die Frage ist nicht: "Sollten wir streiten?" Die Frage ist: "Können wir nach de
 
 Wenn die Antwort nein ist — über Monate — dann ist der Streit nicht das Problem. Dann ist er die Antwort.
 
-**Verwandte Artikel:** [Partner hat Schulden: Wie gehst du damit um?](/blog/partner-hat-schulden), [Partner flirtet mit anderen: Harmlos oder Problem?](/blog/partner-flirtet-mit-anderen)
+**Verwandte Artikel:** [Partner flirtet mit anderen: Harmlos oder Problem?](/blog/partner-flirtet-mit-anderen)
 ## Weiterlesen
 
 - [Richtig streiten in der Beziehung: Streitkultur die eure](/blog/streitkultur-beziehung-richtig-streiten/)

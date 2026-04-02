@@ -65,6 +65,5 @@ Wenn die Antwort ja ist, dann kann es funktionieren. Es erfordert reife [kommuni
 
 - [Beziehung nach Corona – Was die Pandemie uns Liebe gelehrt](/blog/beziehung-nach-corona/)
 - [Neustart mit dem Ex: So klappt es wirklich](/blog/beziehung-neustart-gleicher-partner/)
-- [Wenn der Partner zu viel trinkt: Alkohol in der Beziehung](/blog/partner-trinkt-zu-viel/)
 - [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)
 - [Emotional unerreichbarer Partner: Warum du an eine Wand](/blog/emotional-unerreichbarer-partner/)

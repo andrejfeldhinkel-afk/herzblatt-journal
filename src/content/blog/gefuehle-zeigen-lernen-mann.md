@@ -179,4 +179,4 @@ Also fang heute an. Benenne ein Gefühl. Sag es aus. Sieh, was passiert.
 
 Es könnte das beste Ding sein, das du tust.
 
-Für mehr zur Beziehung Kommunikation, lies auch: [Vertrauen aufbauen in einer Beziehung](/blog/vertrauen-aufbauen-beziehung) und [Fernbeziehung Tipps](/blog/fernbeziehung-tipps-komplett).
+Für mehr zur Beziehung Kommunikation, lies auch: [Fernbeziehung Tipps](/blog/fernbeziehung-tipps-komplett).

@@ -58,46 +58,5 @@ Gleichzeitig sind viele erschöpft. Wer während Corona monatelang geswiped hat,
 
 Dating-App-Müdigkeit betrifft laut aktuellen Umfragen über 70 Prozent der aktiven Nutzer. Die Apps sind zu voll, die Matches sind zu oberflächlich, die Enttäuschungen zu häufig. Viele Singles deaktivieren ihre Profile und sagen: "Ich date nie wieder auf den Apps."
 
-Was dagegen hilft: Pausen einlegen. Apps löschen, zwei Wochen lang nur offline leben, dann frisch starten. Oder ganz bewusst auf Offline-[Kennenlernen](/blog/dating-fragen-kennenlernen) setzen — Sportkurse, Kochklassen, Stammtische. Menschen treffen funktioniert immer noch am besten von Angesicht zu Angesicht.
-
-## Remote Dating hat sich etabliert
-
-Die Pandemie hat auch gezeigt: Manche Beziehungen funktionieren gut long-distance. Was vorher tabu war, ist jetzt akzeptabel. "Lass uns erst mal remote sehen, wie das läuft" ist jetzt eine echte Option.
-
-Das hat vor- und Nachteile. Vorteil: Du brauchst nicht sofort alles zum Kommen zu bringen, du kannst es slowly aufbauen. Nachteil: Emotionale Nähe zu schaffen ist schwieriger, und es gibt Menschen, die fühlen nie echte Nähe online.
-
-## Die neue Normalität: Hybrid ist jetzt okay
-
-Viele Paare, die während Corona getrennt waren und remot dateten, haben gelernt, dass Hybrid-Beziehungen funktionieren. Nicht jede Nacht zusammen, sondern vielleicht ein Wochenende alle zwei Wochen, ansonsten video.
-
-Das ist für manche Personen ideal. Vor Corona war das undenkbar, nach Corona ist es ein echtes Beziehungs-Modell.
-
-## Sicherheit und Boundaries sind wichtiger geworden
-
-Corona hat Menschen gelehrt, Grenzen zu setzen. Wer früher wäre hingegangen zu jedem ersten Date, überdenkt das jetzt. Es gibt mehr Sicherheitsbewusstsein: "Wo treffen wir uns?" "Sag jemandem Bescheid, wo du bist." "Video-Verifizierung ist eine Idee."
-
-Das ist nicht paranoid, das ist intelligent. Die Pandemie hat auch das möglich gemacht — dass man online schauen kann, wer wirklich wer ist.
-
-## Warum einige nicht zum Daten zurückgekehrt sind
-
-Nicht jeder, der während Corona auf Dating-Apps war, ist jetzt noch dabei. Viele haben festgestellt: Ich bin glücklicher ohne den ganzen Stress. Sie haben ihr Leben neu strukturiert ohne Dating. Sie sind zu Yoga oder Laufen gegangen und haben dort Menschen kennengelernt. Sie sind weniger obsessiv mit der Partnersuche.
-
-Das ist auch ein großer Wandel. Vor Corona war Partnersuche für viele Singles eine konstante Hintergrund-Aktivität. Nach Corona merken viele: Vielleicht bin ich glücklicher, wenn ich das sein lasse.
-
-## Wie du diese Veränderungen nutzt
-
-**Nutze Video-Calls strategisch:** Nicht als Ersatz für echte Treffen, sondern als Vorfilter. Kurz, 15 Minuten, wenn die Chemie nicht stimmt. Fertig.
-
-**Praktiziere Slow Dating:** Wenige Matches, dafür bessere. Konzentriere dich auf wenige Personen statt alles zu multiplexen.
-
-**Sei ehrlich über deine Bedürfnisse:** Sag früh, was du brauchst. Das spart Zeit.
-
-**Erlaube dir, Pausen zu machen:** Wenn Dating dich erschöpft, höre auf. Kein Druck, jederzeit verfügbar zu sein.
-
-**Treffe Menschen offline:** Die Apps sind toll, aber Menschen treffen offline ist ehrlicher und oft erfüllender.
-
-## Weiterlesen
-
-- [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
-- [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
+Was dagegen hilft: Pausen einlegen. Apps löschen, zwei Wochen lang nur offline leben, dann frisch starten. Oder ganz bewusst auf Offline-[Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
 - [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)

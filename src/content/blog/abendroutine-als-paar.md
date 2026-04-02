@@ -1,5 +1,5 @@
 ---
-title: "Abendroutine als Paar: 12 Ideen für mehr Nähe vor dem Schlafen (2026)"
+title: "Abendroutine als Paar: 12 Ideen für mehr Nähe vor dem Sch..."
 description: "12 Abendroutinen für Paare: Digitales Detox, Massage, Deep Talk. Schafft Nähe vor dem Einschlafen."
 date: 2026-04-01
 image: "/images/blog/abendroutine-als-paar.webp"

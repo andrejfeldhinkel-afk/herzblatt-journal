@@ -54,11 +54,7 @@ Es ist 2026 und **Handy auf dem Tisch** ist immer noch so unhöflich wie früher
 - Wenn ein Anruf kommt, entschuldige dich, geh kurz weg und antworte, oder ignoriere ihn
 - Absolutes No-Go: Fotos vom Date für Social Media ohne Erlaubnis
 
-Wenn dein Date ständig auf dem Handy ist? Das ist ein großes rotes Flag. Entweder interessiert sich die Person nicht für dich, oder sie hat Aufmerksamkeitsprobleme. Beide Szenarien sind keine gute Basis für eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/).
-
-## Ghosting vs. ehrliche Ablehnung
-
-Vielleicht die wichtigste Regel des modernen Dating: **[Ghosting](/blog/ghosting-komplett-guide) ist unhöflich.**
+Wenn dein Date ständig auf dem Handy ist? Das ist ein großes rotes Flag. Entweder interessiert sich die Person nicht für dich, oder sie hat Aufmerksamkeitsprobleme. Beide Szenarien sind keine gute Basis für eine [Ghosting](/blog/ghosting-komplett-guide) ist unhöflich.**
 
 **Ghosting** ist, wenn jemand einfach verschwindet, ohne zu antworten oder zu erklären, warum. Es ist verletzend, verwirrend und reif für Ausreißer.
 

@@ -289,7 +289,7 @@ Ein großartiges Date ist nicht über die Aktivität — es geht um die Verbindu
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Dating in Augsburg: Die besten Orte & Tipps für Singles](/blog/dating-augsburg), [Dating in Bamberg: Die besten Orte & Tipps für Singles](/blog/dating-bamberg), [Dating in Berlin: Die besten Orte, Tipps & Hotspots für Singles](/blog/dating-berlin).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Dating in Bamberg: Die besten Orte & Tipps für Singles](/blog/dating-bamberg), [Dating in Berlin: Die besten Orte, Tipps & Hotspots für Singles](/blog/dating-berlin).## Weiterlesen
 
 - [Date Ideen für jede Jahreszeit: 100 kreative Vorschläge die](/blog/date-ideen-jahreszeiten/)
 - [50 kreative Date-Ideen: So wird euer erstes Treffen von der](/blog/kreative-date-ideen-dating-app/)

@@ -209,70 +209,7 @@ Die Schanze ist großartig für entspannte Café-Dates.
 **Wie das funktioniert:**
 1. Treffen in einem Café auf der Schulterblatt-Straße
 2. Kaffee oder Tee + Gebäck
-3. Gespräche und [Kennenlernen](/blog/dating-fragen-kennenlernen)
-4. Vielleicht danach Spaziergang im Sternschanze-Park
-5. Könnte zu Dinner gehen wenn alles gut läuft
-
-**Warum das funktioniert:**
-- Weniger formell als gehobenes Restaurant
-- Café-Atmosphäre ist entspannt
-- Viele Menschen drum herum = Sicherheitsgefühl
-- Kurz und schnell zu beenden wenn nötig
-
-**Schanze-Tipps:**
-- Gehe zu guten Zeiten (17-20 Uhr), nicht zu früh
-- Willkommbar-Gegend hat beste Cafés
-- Es wird laut am Abend
-- Künstlerische Menschen überwiegen
-
-### Das Dinner-Date: Gehobener und Formeller
-
-Wenn ihr ernsthaft seid oder es ist später Date, ist Dinner gut.
-
-**Gute Restaurants für erstes Dinner:**
-- **Nikkei** (Fusion-Küche, elegant, nicht zu teuer)
-- **Watergate** (Fisch, Alster-Blick, gehobener)
-- **Taaka** (Tapas, entspannt, lecker)
-- **Cafe de Paris** (Klassisch französisch, romantisch)
-
-**Dinner-Tipps:**
-- Reservieren wenn möglich
-- Alster-Blick-Restaurants sind großartig
-- Nicht zu teuer beim ersten Date (unter 50€ pro Person)
-- Conversation-orientierte Restaurants sind besser als zu laut
-
-## Die hanseatische Mentalität: Das solltest du wissen
-
-Um in Hamburg erfolgreich zu daten, musst du die hanseatische Mentalität verstehen.
-
-**Die Hamburger sind:**
-- **Hanseatisch:** Höflich, respektvoll, aber nicht zu warm am Anfang
-- **Zuverlässig:** Sie halten ihre Zusagen ein. Flakiness ist nicht toleriert
-- **Weltoffen:** Wegen des Hafens und der Hanse-Geschichte sind sie offen für verschiedene Menschen
-- **Subtil:** Große Gesten sind nicht notwendig. Substanz zählt mehr als Drama
-- **Unabhängig:** Sie haben ihre Ziele und Freunde. Du brauchst auch deine
-- **Intelligent:** Gute Gespräche sind wichtig. Oberflächlichkeit wird nicht toleriert
-- **Stabil:** Sie mögen Menschen mit Zielen und stabilem Leben
-
-**Das bedeutet für dein Dating:**
-- Sei zuverlässig und pünktlich
-- Sei respektvoll und höflich aber nicht zu formal
-- Führe gute Gespräche, nicht Small-Talk
-- Habe dein eigenes Leben und Ziele
-- Sei subtil mit großen Gesten
-- Respektiere ihre Unabhängigkeit
-- Sei direktiv wenn es um ernsthafte Ziele geht
-
-## Online-Dating in Hamburg: Die digitale Szene
-
-Hamburg ist digital aktiv. Die Dating-App-Nutzung ist hoch, aber etwas mehr fokussiert auf Beziehungen als in Berlin.
-
-**Beliebteste Apps in Hamburg:**
-- **Tinder:** Am meisten genutzt, aber auch für Beziehungen
-- **Bumble:** Wachsend, bei Frauen beliebt
-- **OkCupid:** Für intelligente, progressive Menschen
-- **Parship:** Für ernstzunehmende Beziehung
-- **[Hinge](/blog/hinge-guide-deutsch-2026):** Für Relationship-orientiertes Dating
+3. Gespräche und [Hinge](/blog/hinge-guide-deutsch-2026):** Für Relationship-orientiertes Dating
 
 **Hamburg-spezifische Strategien:**
 

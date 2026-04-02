@@ -38,15 +38,7 @@ Das Muster funktioniert so:
 
 **Phase 1: Die intensive Überflutung (Wochen 1-4)**
 
-Der Love Bomber zeigt sich als ideale Person. Er/Sie ist aufmerksam, präsent, gibt dir ständig [Komplimente](/blog/komplimente-fuer-maenner). "Du bist die schönste Person, die ich je getroffen habe." "Ich habe noch nie jemanden kennengelernt, der so intelligent ist wie du." "Ich denke, wir könnten zusammen wirklich etwas Großes aufbauen."
-
-Die Kommunikation ist konstant: Morgen-Texte, Nachmittag-Texte, Nacht-Texte. "Ich denke gerade an dich." "Ich kann nicht warten, dich zu sehen." Es ist überflooder. Es ist überwältigend. Es ist auch addictiv.
-
-**Phase 2: Die Bindungsfalle (Wochen 4-8)**
-
-Jetzt beginnt der Love Bomber, dich zu isolieren. "Deine Freunde verstehen dich nicht so wie ich." "Familie ist überschätzt, lass mich dein wichtigster Mensch sein." "Wir brauchen niemand anderen - wir haben uns."
-
-Gleichzeitig wird Intimität schnell forciert. "Ich liebe dich" nach zwei Wochen. "Lass mich in deinen Kopf einziehen" (metaphorisch und manchmal buchstäblich). "Wir sollten [zusammenziehen](/blog/zusammenziehen-checkliste)" nach kurzer Zeit.
+Der Love Bomber zeigt sich als ideale Person. Er/Sie ist aufmerksam, präsent, gibt dir ständig [zusammenziehen](/blog/zusammenziehen-checkliste)" nach kurzer Zeit.
 
 **Phase 3: Die Devaluation (Woche 8+)**
 

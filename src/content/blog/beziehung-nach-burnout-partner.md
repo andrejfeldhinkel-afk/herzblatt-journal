@@ -1,5 +1,5 @@
 ---
-title: "Partner mit Burnout unterstützen – Wie man liebt, wenn er zusammenbricht"
+title: "Partner mit Burnout unterstützen"
 description: "Wenn dein Partner Burnout hat, ist das auch für dich. Hier ist, wie man zusammenhält, während man heilt."
 keywords: ["partner mit burnout unterstützen", "beziehung", "kommunikation", "lebensphasen", "heilung", "zusammenleben"]
 date: 2025-05-02
@@ -213,5 +213,4 @@ Und wähle weise, wenn ist es Zeit zu gehen.
 
 - [Wenn der Partner sich zurückzieht: Ursachen und Lösungen](/blog/beziehung-nach-rueckzug-partner/)
 - [Partner beim Jobwechsel unterstützen](/blog/beziehung-partner-jobwechsel-unterstuetzen/)
-- [Beziehung nach Depression: Den Partner richtig stützen](/blog/beziehung-nach-depression-partner-stuetzen/)
 - [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)

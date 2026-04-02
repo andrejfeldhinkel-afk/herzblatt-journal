@@ -58,21 +58,7 @@ Bist du offen dafür dass sich die Anziehung entwickeln könnte? Das ist wichtig
 
 ## Das drei-Date-Regel: Gib ihr eine echte Chance
 
-Ich sage meinen Klienten immer: Mindestens drei Dates, sofern es keine großen [red flags](/blog/beziehung-geheimhaltung-verstecken/) gibt. Der Grund ist einfach: Nervosität überlagert echte Gefühle in den ersten zwei Treffen.
-
-Beim ersten Date bist du nervös, weil es neu ist. Beim zweiten Date bist du vielleicht immer noch nervös, weil du noch nicht weißt ob die Person dich mag. Beim dritten Date anfangst du dich zu entspannen. Du siehst die Person wirklicher.
-
-Das ist auch der Grund warum Menschen beim ersten Date miteinander gehen, und danach merken: „Warte, mit dir bin ich ja nicht kompatibel." Das war nicht offensichtlich beim Treffen, weil du zu nervös warst.
-
-Also gib ihr drei Dates. Nicht aus Pflichtgefühl, sondern weil du der Person — und dir selbst — eine echte Chance gibst zu sehen wie es sich anfühlt, wenn die initiale Nervosität weg ist.
-
-## Wenn du wirklich merkst dass es nichts wird
-
-Natürlich gibt es auch die andere Seite: Menschen, mit denen brauchst du gar kein drittes Date, weil es offensichtlich ist dass da nichts ist.
-
-Das passiert, wenn du merkst: Ich bin in meiner ganzen Energie nicht so wie ich sein will. Ich fühle mich unwohl. Wir haben nichts zu besprechen. Die Person interessiert sich nicht für mich, sondern redet nur von sich selbst. Die Person zeigt wenig bis keine Empathie.
-
-Das sind dann nicht „fehlende Schmetterlinge", das sind [Red Flags](/blog/dating-red-flags-maenner-erkennen). Und da brauchst du nicht weitermachen.
+Ich sage meinen Klienten immer: Mindestens drei Dates, sofern es keine großen [Red Flags](/blog/dating-red-flags-maenner-erkennen). Und da brauchst du nicht weitermachen.
 
 Der Unterschied ist: Fehlende Schmetterlinge fühlen sich an wie „neutral". Red Flags fühlen sich an wie „Vorsicht, Probleme". Wenn du nicht sicher bist, dann gib ihr das dritte Date. Wenn du dir sicher bist, dass da Probleme sind, dann spare dir die Zeit.
 

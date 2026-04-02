@@ -488,19 +488,7 @@ Das bedeutet nicht, dass du nicht verletzlich sein kannst. Aber verletzlichkeit 
 
 ### Der Zu-Schnell-Intensität-Killer
 
-Wenn du nach zwei Tagen schreibst „Ich glaube, ich bin in dich verliebt" oder „Das wird die beste [beziehung](/blog/adhs-und-beziehung-komplett-guide/) ever", wirkt das abstoßend.
-
-Die andere Person kennt dich noch nicht. Das ist zu viel Druck.
-
-Langsam ist attraktiv. Schnell ist stalkerish.
-
-### Der Alle-Fragen-Stellen-Killer
-
-Wenn die Unterhaltung sich wie ein Verhör anfühlt – Frage auf Frage auf Frage – zieht sich die andere Person zurück.
-
-Ein gutes Gespräch ist ein Austausch. Nicht eine Befragung.
-
-### Der [Ghosting](/blog/ghosting-komplett-guide)-Angst-Killer
+Wenn du nach zwei Tagen schreibst „Ich glaube, ich bin in dich verliebt" oder „Das wird die beste [Ghosting](/blog/ghosting-komplett-guide)-Angst-Killer
 
 Wenn du immer wieder nachfragst „Bist du noch da?" oder „Magst du mich noch?", wirkt das bedürftig.
 
@@ -965,7 +953,7 @@ Dating-App Gespräche sind nur das Vorspiel zu echten Beziehungen. Die Gespräch
 
 Nutze diese Techniken, um echte Verbindungen aufzubauen. Aber denk dran: Du bist der Preis. Die andere Person sollte sich glücklich schätzen, dich kennenzulernen.
 
-**Lese auch:** [Erste Nachricht Dating-App](/blog/erste-nachricht-dating-app), [Dating Fragen zum Kennenlernen](/blog/dating-fragen-kennenlernen), und [Dating Gespräche am Laufen halten](/blog/dating-gespraeche-am-laufen-halten).
+**Lese auch:** [Dating Fragen zum Kennenlernen](/blog/dating-fragen-kennenlernen), und [Dating Gespräche am Laufen halten](/blog/dating-gespraeche-am-laufen-halten).
 ## Weiterlesen
 
 - [Sprachnachrichten beim Dating: Warum Voice Notes das neue](/blog/dating-app-voice-notes-sprachnachrichten/)

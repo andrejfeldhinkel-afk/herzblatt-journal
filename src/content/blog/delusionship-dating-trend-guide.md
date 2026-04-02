@@ -1,5 +1,5 @@
 ---
-title: "Delusionship: Wenn du dir eine Beziehung einbildest die nicht existiert"
+title: "Delusionship: Wenn du dir eine Beziehung einbildest die n..."
 description: "Delusionship ist ein moderner Dating-Trend: Du bindest dich emotional an jemanden, obwohl ihr keine echte Beziehung habt. Erkenne diese Illusion."
 date: 2026-03-29
 tags:

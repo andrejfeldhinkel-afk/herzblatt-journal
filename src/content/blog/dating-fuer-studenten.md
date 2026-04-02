@@ -25,13 +25,7 @@ faq:
     answer: "Es **kann** kompliziert werden, muss es aber nicht. Wenn ihr im selben **Kurs** seid und es nicht funktioniert, könnte es **unangenehm** werden. Aber viele **lange Beziehungen** haben an der Uni begonnen! Wichtig: Wenn es nicht klappt, seid **reif** und **respektvoll** zueinander. Vermeide **Drama** und **Klatsch**. Wenn es ist eine **seriöse Sache** zu sein scheint, kommuniziere **offen** von Anfang an. Wenn es nur **Flirts** ist, sei dir deiner **Grenzen** bewusst."
 ---
 
-Das **Studium** ist eine magische Zeit für [dating](/blog/anzeichen-er-steht-auf-dich/) — besonders wenn es um connections geht. Du bist umgeben von **gleichgesinnten Menschen** deines Alters, hast **Freiheit** aber auch **Budget-Zwänge**, und es gibt jede Menge **soziale Ereignisse** und **Gelegenheiten**. Die Uni-Zeit ist oft der Zeitpunkt, wo Menschen ihre **ersten ernsthaften [beziehungen](/blog/beziehung-nach-fernbeziehung/)** aufbauen oder sich einfach nur **austoben**. Diese Anleitung hilft dir, das **Uni-Dating-Spiel** zu meistern.
-
-## Warum ist Dating an der Uni anders?
-
-Uni-Dating hat seine **eigenen Regeln**. Du hast **unbegrenzte Zeit**, um Leute in **Vorlesungen**, **Seminaren** und auf **Parties** kennenzulernen. Es gibt **weniger Druck** (viele dateten mehrere Menschen gleichzeitig, was völlig normal ist). **Finanzielle Grenzen** machen dich **kreativ**. Und es gibt eine **Akzeptanz** für verschiedene **Beziehungsarten** – von **Spielen** bis **ernsthafte Beziehungen**. Außerdem teilst du oft den **gleichen sozialen Kreis**, was bedeutet, dass Beziehungen schneller **öffentlich** werden.
-
-## Orte an der Uni zum [Kennenlernen](/blog/dating-fragen-kennenlernen)
+Das **Studium** ist eine magische Zeit für [dating](/blog/anzeichen-er-steht-auf-dich/) — besonders wenn es um connections geht. Du bist umgeben von **gleichgesinnten Menschen** deines Alters, hast **Freiheit** aber auch **Budget-Zwänge**, und es gibt jede Menge **soziale Ereignisse** und **Gelegenheiten**. Die Uni-Zeit ist oft der Zeitpunkt, wo Menschen ihre **ersten ernsthaften [Kennenlernen](/blog/dating-fragen-kennenlernen)
 
 ### Klassische Uni-Orte
 

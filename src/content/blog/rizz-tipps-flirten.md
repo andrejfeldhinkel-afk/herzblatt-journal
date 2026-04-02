@@ -306,6 +306,6 @@ Das wichtigste über Rizz ist, dass es nicht über die andere Person geht. Es ge
 
 Wenn Sie diese Dinge haben, wird Rizz natürlich folgen.
 
-Wenn Sie eine komplette Auffrischung bei Dating brauchen, siehe [Online-Dating-Guide](/online-dating-guide). Für Tipps nach dem Match, siehe [Erstes Date Guide](/erstes-date-guide).
+Wenn Sie eine komplette Auffrischung bei Dating brauchen, siehe [Online-Dating-Guide](/blog/online-dating-frauen-guide). Für Tipps nach dem Match, siehe [Erstes Date Guide](/blog/erstes-date-outfit).
 
 Am Ende, die beste Rizz ist einfach du selbst – sicher, präsent und echt.

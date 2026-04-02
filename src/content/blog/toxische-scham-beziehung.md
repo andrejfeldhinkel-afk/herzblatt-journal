@@ -21,95 +21,7 @@ Toxische Scham: "Ich BIN ein Fehler und kann niemals repariert werden."
 
 Wenn du die zweite Stimme in deinem Kopf kennst, dann verstehst du toxische Scham. Es ist nicht, dass du manchmal etwas Falsches tust — es ist, dass du dich selbst als intrinsisch defekt siehst.
 
-Und wenn du in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/) bist, wird diese toxische Scham dich zerstören.
-
-## Was ist der Unterschied zwischen gesunder und toxischer Scham?
-
-Gesunde Scham ist adaptiv. Sie zeigt dir, wenn du eine Grenze überschritten hast. Sie motiviert dich, es besser zu machen. Sie ist zeitlich begrenzt. Du machst einen Fehler, du bereinigst ihn, und dann ist es vorbei.
-
-Toxische Scham ist dagegen permanent. Sie ist nicht über etwas, das du getan hast — sie ist über den, der du bist. Sie sagt: "Du bist das Problem." Nicht "Du hast das Problem" — DU BIST es.
-
-Toxische Scham ist wie ein Fluch, den du mit dir herumträgst. Es beeinflusst alles. Deine Beziehungen, deine Karriere, deine Sexualität, deine Fähigkeit zu lieben.
-
-Und das Schlimmste? Die meisten Menschen wissen nicht, dass sie es haben. Sie denken, dass dieser innere Kritiker sie motiviert oder schützt. Nein. Es sabotiert dich.
-
-## Woher kommt toxische Scham?
-
-Toxische Scham wird nicht geboren. Sie wird in deiner Kindheit gepflegt. Normalerweise durch eines dieser Szenarien:
-
-**Emotionale oder physische Vernachlässigung**
-
-Du warst als Kind "zu viel". Zu laut, zu sensibel, zu needy. Deine Eltern reagierten, indem sie dich ignorierten oder wegschickten. Die Botschaft, die dein Gehirn erhielt: "Es ist etwas mit dir nicht in Ordnung, dass deine Anwesenheit unwillkommen macht."
-
-Das installiert eine tiefe Überzeugung: "Ich bin zu viel."
-
-**Kritik und Vergleich**
-
-Deine Eltern waren ständig kritisch. Sie verglichen dich mit Geschwistern. Sie zeigten dir, wie du besser sein könntest. Nie gut genug.
-
-Die Botschaft: "Du bist fehlerhaft."
-
-**Missbrauch oder Verletzung**
-
-Wenn du sexuelle, physische oder emotionale Missbrauch erlebt hast, hat es dir wahrscheinlich beigebracht, dass dein Körper oder deine Grenzen nicht bedeutig sind. Dass du Missbrauch verdient hast. Dass etwas mit dir nicht stimmt, das Missbrauch anzieht.
-
-Das installiert tiefe Scham um deinen Körper, deine Sexualität, deine Würde.
-
-**Bedingte Liebe**
-
-Du wurdest geliebt, wenn du gut warst. Wenn du nicht gut warst, wurde die Liebe zurückgezogen. Dann kannst du gelernt hast: "Liebe muss verdient werden. Wenn du nicht perfekt bist, wirst du nicht geliebt."
-
-Die Botschaft: "Du bist nicht wert, zu lieben, wie du bist."
-
-**Religiöses oder kulturelles Trauma**
-
-Du wurdest in einem System aufgezogen, das dir sagte, dass dein Körper sündig ist, dass deine Sexualität schmutzig ist, dass du "zu viel" bist in grundlegender Weise.
-
-Die Botschaft: "Es gibt etwas fundamentales Falsches an dir."
-
-Alle diese Erlebnis schaffen eine grundlegende Überzeugung: "Ich bin nicht okay. Es gibt etwas mit mir nicht in Ordnung."
-
-Das ist toxische Scham.
-
-## Wie toxische Scham deine Beziehung zerstört
-
-Toxische Scham ist wie ein unsichtbarer Dritte Person in deiner Beziehung. Es beeinflusst alles:
-
-**Deine Fähigkeit, Intimität zu empfangen**
-
-Du kannst nicht glauben, dass jemand dich lieben könnte — wirklich lieben, zu Hause, dich selbst. Der innere Kritiker sagt: "Sie wissen nicht wirklich, wer du bist. Wenn sie es täten, würden sie dich verlassen."
-
-Du sabotierst die Beziehung unbewusst, um diese Überzeugung zu beweisen. "Siehst du? Ich wusste es. Sie wollen mich nicht." Und das beweist die Scham: "Du bist nicht liebenswert."
-
-**Deine Fähigkeit, Grenzen zu setzen**
-
-Menschen mit toxischer Scham können nicht nein sagen. Du denkst, dass deine Bedürfnisse nicht wichtig sind. Du denkst, dass die Grenzensetzung egoistisch ist. Du glaubst, dass du nicht das Recht hast, grenzen zu haben.
-
-Das macht dich zum perfekten Ziel für emotionale Manipulator. Sie wissen, dass du nicht nein sagen wirst.
-
-**Deine Fähigkeit, von Verletzung zu heilen**
-
-Wenn der Partner dich verletzt, sag der innere Kritiker: "Das hast du verdient. Du bist nicht wert, besser behandelt zu werden."
-
-Du vergibst zu schnell, obwohl es nicht repariert wurde. Du gibst dem Partner Macht über dich. Du glaubst, dass du die Verletzung verdient hast.
-
-**Deine Sexualität**
-
-Menschen mit toxischer Scham sind oft dysphoric bei ihrem Körper. Sie können während des Sex nicht anwesend sein. Sie können keine Lust empfinden, weil die innere Stimme sagt: "Dein Körper ist schmutzig. Deine Lust ist falsch. Du solltest dich schämen."
-
-Das bedeutet, dass deine Beziehung sexuelle Isolation bekommen kann. Nicht wegen eines Problems mit dem Partner, sondern wegen deiner inneren Blockaden.
-
-**Deine Kommunikation**
-
-Menschen mit toxischer Scham können nicht authentisch kommunizieren. Statt zu sagen, was sie denken, verstecken sie sich. Sie sagen, was die andere Person hören möchte. Sie beruhigen, entschuldigen sich, machen es recht.
-
-Das schafft eine Beziehung ohne echte Verbindung. Der Partner kennt dich nicht wirklich, weil du nicht wirklich zeigst.
-
-## Die Symptome: Woran du erkennst, dass du toxische Scham hast
-
-Hier sind die Zeichen:
-
-**Du kannst [Komplimente](/blog/komplimente-fuer-maenner) nicht akzeptieren.** Jemand sagt etwas Nettes und du instinktiv widerlegst es. "Nein, ich bin nicht intelligent. Ich bin einfach Lucky." Du kannst das gute Gefühl nicht halten.
+Und wenn du in einer [Komplimente](/blog/komplimente-fuer-maenner) nicht akzeptieren.** Jemand sagt etwas Nettes und du instinktiv widerlegst es. "Nein, ich bin nicht intelligent. Ich bin einfach Lucky." Du kannst das gute Gefühl nicht halten.
 
 **Du entschuldigst dich ständig.** Für Dinge, die nicht deine Schuld sind. "Es tut mir leid, dass ich da bin." "Es tut mir leid, dass ich das brauchte." Die Entschuldigung ist automatisch.
 
@@ -255,6 +167,5 @@ Es ist eine mehrjährige Arbeit. Mit intensiver Therapie können Durchbrüche in
 
 ## Lesenswerte Links
 
-- [[verlustangst](/blog/aengstlicher-bindungsstil-heilen/) aus der Kindheit und ihre Auswirkungen](/blog/verlustangst-bei-kindern-beziehung)
 - [Beziehungssucht erkennen und heilen](/blog/beziehungssucht-erkennen)
 - [Loslassen lernen: Der Weg zur emotionalen Freiheit](/blog/loslassen-lernen-liebe)

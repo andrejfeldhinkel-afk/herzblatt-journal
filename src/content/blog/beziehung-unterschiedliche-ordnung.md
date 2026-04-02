@@ -182,7 +182,7 @@ Und du brauchst loszulassen was dich nicht betrifft. Seine Unordnung in seinem R
 
 Die Paare die es schaffen haben das verstanden: Unterschiedlich ist nicht falsch. Unterschiedlich braucht nur Kompromiss und Respekt.
 
-Wenn dir die [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) allgemein in der Beziehung schwer fällt, könnten diese Artikel helfen: [Bessere Kommunikation in der Beziehung](/blog/kommunikation-beziehung). Und wenn es um größere Unterschiede in Lebensstil geht: Partner mit verschiedenen Zielen und Träumen.
+Wenn dir die [Bessere Kommunikation in der Beziehung](/blog/kommunikation-beziehung). Und wenn es um größere Unterschiede in Lebensstil geht: Partner mit verschiedenen Zielen und Träumen.
 
 ---
 

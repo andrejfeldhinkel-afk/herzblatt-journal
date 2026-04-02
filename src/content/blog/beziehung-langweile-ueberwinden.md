@@ -1,5 +1,5 @@
 ---
-title: "Beziehung Langweile überwinden: Wie du deine Liebe wieder lebendig machst"
+title: "Beziehung Langweile überwinden"
 description: "Fühlt sich deine Beziehung langweilig an? Lerne praktische Strategien, um Leidenschaft zurückzubringen und eine tiefere Verbindung zu schaffen."
 date: 2026-04-02
 tags: [beziehungen, lange-beziehungen, leidenschaft, intimität, ehe]
@@ -148,6 +148,5 @@ Es ist schwierig. Es erfordert Mut und Vulnerabilität. Aber auf der anderen Sei
 Das ist es wert.
 
 **Weitere hilfreiche Artikel:**
-- [Frisch verliebt – Die Phase bewusst genießen](/blog/frisch-verliebt-phase-geniessen)
 - [Gute Fragen fürs Date stellen](/blog/gute-fragen-fuers-date)
 - [Emotionale Abhängigkeit erkennen und überwinden](/blog/emotionale-abhaengigkeit-test-selbstcheck)

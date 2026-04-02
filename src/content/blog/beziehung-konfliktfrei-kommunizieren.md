@@ -315,19 +315,7 @@ Es funktioniert nicht, wenn:
 
 **1. Ein Partner grundsätzlich nicht kommunizieren will**
 
-GFK braucht bereitschaft von beiden Seiten. Wenn dein Partner refuses zu sprechen oder zu hören, kann GFK nicht alleine eine [Beziehung retten](/blog/beziehung-retten-kompletter-guide). (Paartherapie könnte helfen.)
-
-**2. Es gibt Missbrauch**
-
-GFK ist für respektlose Konflikte. Wenn es Missbrauch gibt (körperlich, emotional, verbal), dann ist GFK nicht das Werkzeug. Das ist eine Sicherheitsfrage.
-
-**3. Ein Partner hat eine untreated mentale Gesundheitssituation**
-
-Wenn dein Partner Depression, schwere Angst oder andere mentale Gesundheitsprobleme hat und die sind unbehandelt, wird GFK begrenzt sein. Zuerst Therapie/Medizin nötig.
-
-**4. Grundlegend unkompatible Bedürfnisse**
-
-Manchmal habt ihr tiefgreifende Bedürfnisse, die nicht zu lösen sind. Ein Partner braucht Kinder, die anderen nicht. Eine braucht Stadt, die anderen will Land. GFK kann euch das Gespräch führen, aber es könnte zu [Trennung](/blog/trennung-verarbeiten-12-schritte) führen. Und das ist okay.
+GFK braucht bereitschaft von beiden Seiten. Wenn dein Partner refuses zu sprechen oder zu hören, kann GFK nicht alleine eine [Trennung](/blog/trennung-verarbeiten-12-schritte) führen. Und das ist okay.
 
 GFK hilft beim Kommunizieren. Es ist nicht ein Band-Aid für untragbare Situationen.
 

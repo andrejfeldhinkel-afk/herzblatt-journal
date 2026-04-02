@@ -58,15 +58,7 @@ Das neunte Zeichen ist der Mangel an langfristigen Freundschaften. Narzissten ha
 
 Das zehnte, vielleicht wichtigste Merkmal ist der Kreislauf von Idealisierung, Entwertung und Diskardierung. Du wirst zunächst auf ein Podest gestellt—du bist perfekt, du bist anders, du bist die Beste. Aber irgendwann fallst du vom Podest. Und dann passiert etwas Schreckliches: Der Mensch, den der Narzisst zu lieben vorgab, wird die Quelle aller Probleme.
 
-## Die emotionale Manipulation: [Gaslighting](/blog/gaslighting-komplett-guide) und andere Techniken
-
-Gaslighting ist wahrscheinlich die insidioseste Form der Manipulation, die ein Narzisst einsetzt. Es funktioniert so: Der Narzisst tut etwas Schmerzhaftes, und du reagierst verletzt. Aber statt seine Handlung zu anerkennen, sagt er: "Das ist nicht passiert" oder "Du hast das missverstanden" oder "Du bist viel zu sensibel".
-
-Nach einer Weile fragst du dich selbst, ob du verrückt wirst. Hat er das wirklich gesagt, oder habe ich das falsch verstanden? War meine Reaktion gerechtfertigt, oder bin ich überempfindlich? Der Narzisst hat dich erfolgreich dazu gebracht, deiner eigenen Wahrnehmung nicht zu trauen.
-
-Eine andere Techniken ist die "Projektion". Der Narzisst wirft dir vor, genau das zu tun, was er selbst tut. Er ist untreu, aber er beschuldigt dich, ihn zu betrügen. Er ist manipulativ, aber er sagt, dass du manipulativ bist. Das schafft Verwirrung und zieht deine Energie in die Verteidigung.
-
-Dann gibt es noch die "[Silent Treatment](/blog/silent-treatment-beziehung)"—das bewusste Ignorieren oder Schweigen, wenn der Narzisst beleidigt ist. Es kann Stunden oder Tage dauern. Du wirst zur Unperson. Und du wirst alles tun, um diesen Zustand zu beenden, weil er dich langsam zermürbt.
+## Die emotionale Manipulation: [Silent Treatment](/blog/silent-treatment-beziehung)"—das bewusste Ignorieren oder Schweigen, wenn der Narzisst beleidigt ist. Es kann Stunden oder Tage dauern. Du wirst zur Unperson. Und du wirst alles tun, um diesen Zustand zu beenden, weil er dich langsam zermürbt.
 
 Der "Rage-Ausbruch" ist eine andere Waffe. Der Narzisst wird explosiv wütend über scheinbar kleine Dinge. Das kann verbal sein—Brüllen, Beschimpfungen—oder manchmal auch physisch aggressive Gesten. Das ist nicht echte Wut. Das ist Kontrolle durch Angst.
 

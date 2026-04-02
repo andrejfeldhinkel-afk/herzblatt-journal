@@ -1,5 +1,5 @@
 ---
-title: "Gray Rocking: Die Überlebensstrategie gegen toxische Menschen"
+title: "Gray Rocking: Die Überlebensstrategie gegen toxische Mens..."
 description: "Gray Rocking Technik gegen Narzissten: Lerne die defensive Kommunikationsstrategie um dich vor emotionaler Manipulation zu schützen."
 date: 2026-03-29
 tags:
@@ -324,4 +324,4 @@ Das ist Gray Rocking. Und es funktioniert.
 
 ---
 
-**Tiefer greifen:** Lerne mehr über [Narzissmus erkennen](/dark-triad-dating/) und [toxische Beziehungen verlassen](/toxische-beziehung-guide/).
+**Tiefer greifen:** Lerne mehr über [Narzissmus erkennen](/blog/dark-triad-dating-erkennen) und [toxische Beziehungen verlassen](/blog/toxische-beziehung-komplett-guide).

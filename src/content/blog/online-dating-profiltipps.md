@@ -169,7 +169,6 @@ Menschen, die mit einer Illusion verbunden sind, werden enttäuscht.
 
 ## Weiterlesen
 
-- [Catfishing erkennen: So schützt du dich vor Fake-Profilen](/blog/catfishing-online-dating-schutz)
 - [Online-Dating für Introvertierte](/blog/dating-introvertiert-online-tipps)
 - [Die perfekte erste Nachricht beim Online-Dating](/blog/erste-nachricht-online-dating)
 

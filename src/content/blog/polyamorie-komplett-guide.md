@@ -90,7 +90,7 @@ Ich will dir nichts vormachen – Polyamorie ist nicht einfacher als Monogamie. 
 
 **Schritt 1: Erkunde dich selbst**
 
-Warum interessierst du dich für Polyamorie? Ist es eine echte Anziehung oder Neugierde? Ist es das "Gras ist grüner"? Sei ehrlich mit dir. [Lies auch unseren Artikel über Selbsterkenntnis in Beziehungen](/blog/selbsterkenntnis-liebe-verstehen).
+Warum interessierst du dich für Polyamorie? Ist es eine echte Anziehung oder Neugierde? Ist es das "Gras ist grüner"? Sei ehrlich mit dir. [Lies auch unseren Artikel über Selbsterkenntnis in Beziehungen](/blog/erste-liebe-vergessen).
 
 **Schritt 2: Kommunikation mit deinem Partner**
 

@@ -1,5 +1,5 @@
 ---
-title: "Hochzeit planen: Checkliste und Timeline (Vom Plan zur Party)"
+title: "Hochzeit planen: Checkliste und Timeline (Vom Plan zur Pa..."
 description: "Hochzeit planen Schritt für Schritt: Die ultimative Checkliste vom Verlobung bis zum Ja-Wort. Mit konkreter Timeline und Deadline."
 date: 2026-04-02
 tags:
@@ -266,4 +266,4 @@ Also: Bookmark diese Checkliste. Schreib die Daten in deinen Kalender. Und fang 
 
 Deine Hochzeit wird großartig. Das verspreche ich dir.
 
-Für mehr auf der Hochzeitsreise, lies auch: [Verlobung Sprüche](/blog/verlobung-sprueche-glueckwuensche) und [Geschenk zur Verlobung](/blog/geschenk-zur-verlobung-ideen).
+Für mehr auf der Hochzeitsreise, lies auch: [Geschenk zur Verlobung](/blog/geschenk-zur-verlobung-ideen).

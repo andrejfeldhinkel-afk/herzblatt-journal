@@ -429,9 +429,7 @@ Die beste Plattform hilft dir nicht, wenn dein Profil schlecht ist. Hier sind un
 
 Du suchst nach Alternativen oder Ergänzungen zu MichVerlieben? Hier sind unsere Reviews zu ähnlichen Plattformen:
 
-- **[xLoves](/blog/xloves-test-erfahrungen)** — Moderner und günstiger, aber weniger wissenschaftlich
 - **[WhatsMeet](/blog/whatsmeet-test-erfahrungen)** — Eine weitere seriöse Alternative
-- **[Single69](/blog/single69-test-erfahrungen)** — Für unkompliziertere Dates
 - **[Sex69](/blog/sex69-test-erfahrungen)** — Spezialisiert auf intime Abenteuer
 - **[OnlyDates69](/blog/onlydates69-test-erfahrungen)** — Für Casual Dating
 

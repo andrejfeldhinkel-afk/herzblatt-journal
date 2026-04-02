@@ -22,37 +22,7 @@ faq:
 
 ## Vergeben nach Betrug: Geht das überhaupt?
 
-Dein Partner hat dich betrogen. Die Welt steht Kopf, Vertrauen liegt in Scherben, und alle sagen dir etwas anderes. Die einen raten zur sofortigen [Trennung](/blog/trennung-verarbeiten-12-schritte), die anderen zu Vergebung. Was richtig ist, kannst nur du entscheiden.
-
-Das ist eine der schwersten Entscheidungen, die du in einer Beziehung treffen musst. Es geht nicht nur um Betrug — es geht um deine Würde, deine Grenzen, deine Zukunft. Es ist nicht einfach, und es gibt keine richtige Antwort, die für alle passt.
-
-Die Wahrheit ist: Manche Beziehungen überstehen Betrug. Manche nicht. Und manche überstehen ihn sogar stärker. Das hängt nicht nur vom Betrug ab — es hängt davon ab, wer ihr seid, was der Betrug bedeutet, und ob ihr bereit seid, die harte Arbeit zu machen.
-
-## Was Vergebung nicht bedeutet — Die wichtige Unterscheidung
-
-Vergeben heißt nicht vergessen. Es heißt nicht, so zu tun, als wäre nichts passiert. Und es heißt definitiv nicht, dass der Betrug in Ordnung war. Vergebung bedeutet: Du entscheidest dich, den Schmerz nicht mehr als Waffe zu benutzen — weder gegen deinen Partner noch gegen dich selbst.
-
-Das ist eine wichtige Unterscheidung. Vergebung ist nicht Verleugnung. Es ist nicht, sich selbst zu belügen und so zu tun, als ob alles ok ist. Es ist auch nicht, dich selbst zu besiegen und zum Wohle der Beziehung deine Grenzen aufzugeben.
-
-Echte Vergebung ist: Du erkennst an, dass etwas Schreckliches passiert ist. Du fühlt den Schmerz — wirklich, komplett. Und dann, nach Zeit und Arbeit, entscheidest du, dass dieser Schmerz nicht mehr dein Leben definiert. Das ist ein Prozess, kein Schalter. Niemand vergibt von heute auf morgen.
-
-### Die Stadien von Vergebung
-
-**Wut und Schmerz**: Das ist das Erste, das du fühlen wirst. Das ist berechtigt.
-**Verhandeln**: "Wenn du das nicht getan hast, wenn du mich wirklich liebst..."
-**Depression**: Der Schmerz setzt ein, wenn die Wut nachlässt.
-**Acceptance**: Es ist passiert. Ich kann es nicht ändern.
-**Vergebung**: Ich wähle, voranzugehen.
-
-Diese Stadien haben keine feste Reihenfolge. Du könntest Wut fühlen und dann wieder in Verhandlung gehen. Das ist normal.
-
-## Wann Vergebung möglich ist — Die unverrückbaren Bedingungen
-
-Drei Voraussetzungen müssen erfüllt sein. Ohne mindestens zwei davon wird "Vergebung" zu Selbstaufgabe.
-
-### 1. Volle Verantwortung übernehmen
-
-Dein Partner muss vollständig zugeben, was passiert ist. Keine Ausreden, kein „Du warst ja auch nicht mehr aufmerksam." Das ist [Gaslighting](/blog/gaslighting-komplett-guide) verkleidet als Erklärung. Volle Verantwortung bedeutet: „Ich habe dich betrogen. Das war falsch. Ich übernehme dafür Verantwortung."
+Dein Partner hat dich betrogen. Die Welt steht Kopf, Vertrauen liegt in Scherben, und alle sagen dir etwas anderes. Die einen raten zur sofortigen [Gaslighting](/blog/gaslighting-komplett-guide) verkleidet als Erklärung. Volle Verantwortung bedeutet: „Ich habe dich betrogen. Das war falsch. Ich übernehme dafür Verantwortung."
 
 Es ist nicht akzeptabel:
 - „Es ist nur einmal passiert" (warum sagt man das?)
@@ -219,6 +189,5 @@ Und bedeutet es. Das ist der einzige Weg, dass dieser Prozess nicht zu Selbstauf
 
 ## Weiterlesen
 
-- [Vertrauen aufbauen nach Betrug in der Beziehung](/blog/beziehung-nach-betrug-vertrauen)
 - [Beziehung nach Betrug: So gelingt der Neuanfang nach Untreue](/blog/beziehung-neuanfang-nach-betrug)
 - [Vergebung in der Beziehung: Wann lohnt es sich?](/blog/beziehung-und-vergebung)

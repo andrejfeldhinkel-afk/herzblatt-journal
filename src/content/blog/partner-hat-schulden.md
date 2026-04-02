@@ -151,33 +151,7 @@ Wenn dein Partner wirklich bereit ist, die Schulden zu lösen, könnt ihr zusamm
 
 **Die Regelmäßige Überprüfung:** Jeden Monat: Wie geht es dem Plan? Macht er Fortschritt? Oder gibt es neue Schulden, die raus kommen?
 
-Das ist nicht sexy. Das ist nicht romantisch. Aber das ist was echte [partnerschaft](/blog/aktives-zuhoeren-partner/) ist — jemanden bei etwas schwierigem zu unterstützen.
-
-## Die unbequeme Wahrheit: Manche Menschen ändern sich nicht
-
-Ich muss es dir sagen: Wenn dein Partner Schulden hat, sich davon nicht kümmern will, und weiterhin neue Schulden macht, werden die Schulden nicht das einzige Problem sein.
-
-Das ist ein Signal, dass ihm langfristige Konsequenzen nicht wichtig sind. Dass er keine Verantwortung für seine Entscheidungen übernimmt. Dass er im Moment lebt, ohne an morgen zu denken.
-
-Das ist nicht nur ein Geld-Problem. Das ist ein Charakter-Problem.
-
-Und du kannst einen Menschen nicht ändern, der nicht ändern will. Du kannst nur entscheiden, ob du dein Leben damit teilen möchtest oder nicht.
-
-## Das Fazit: Schulden sind kein automatisches Trennungs-Urteil
-
-Schulden sind nicht romantisch. Sie sind nicht schön. Sie können eine echte Last sein, besonders wenn sie versteckt oder gelogen werden.
-
-Aber sie sind auch nicht automatisch ein Grund, eine Beziehung zu beenden.
-
-Was zählt, ist: Ist dein Partner ehrlich? Hat er einen Plan? Arbeitet er daran? Zeigt er Einsicht und Verantwortung? Oder sind die Schulden nur das äußere Symbol für mangelndes Vertrauen und Verständnis?
-
-Wenn es das erste ist, könnt ihr das zusammen durchstehen. Es wird hart, aber es ist möglich.
-
-Wenn es das zweite ist, dann sind die Schulden nur das sichtbare Problem. Das echte Problem ist die Person, mit der du zusammen bist.
-
-Such dir die Wahrheit heraus. Und entscheide von da aus.
-
-**Verwandte Artikel:** [Wir streiten nur noch: Wenn die Beziehung zum Kampffeld wird](/blog/beziehung-nur-am-streiten), [Partner flirtet mit anderen: Harmlos oder Problem?](/blog/partner-flirtet-mit-anderen)
+Das ist nicht sexy. Das ist nicht romantisch. Aber das ist was echte [Wir streiten nur noch: Wenn die Beziehung zum Kampffeld wird](/blog/beziehung-nur-am-streiten), [Partner flirtet mit anderen: Harmlos oder Problem?](/blog/partner-flirtet-mit-anderen)
 ## Weiterlesen
 
 - [Social Media und Beziehung: Wie Instagram, TikTok und Co](/blog/beziehung-social-media-einfluss/)

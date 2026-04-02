@@ -27,59 +27,7 @@ Eine Scheidung ist ein Umbruch in deinem Leben. Die Traurigkeit, die Verwirrung,
 
 ## Die emotionale Heilung: Der erste Schritt vor dem Dating
 
-Bevor du eine neue Person in dein Leben bringst, musst du deine Scheidung verarbeitet haben. Das heißt nicht, dass du nie wieder traurig sein darfst oder dass deine Ex völlig aus deinen Gedanken weg ist. Es heißt, dass du die [Trennung](/blog/trennung-verarbeiten-12-schritte) akzeptiert hast, deine Grenzen gesetzt hast und weiß, was du nicht mehr willst.
-
-Wenn du direkt nach der Trennung dating anfängst, um deine Einsamkeit zu füllen, wirst du ungesunde Muster wiederholen. Du wirst zu schnell zu attached, dich verlieren in einer neuen Person, oder unbewusst jemanden wählen, der ähnlich ist wie der Ex.
-
-Die Heilung ist nicht zeitlich begrenzt. Manche brauchen sechs Monate, andere ein Jahr, wieder andere zwei Jahre. Es kommt auf die Länge der Ehe, den Grund der Trennung und deine Persönlichkeit an. Vertraue deinem Bauchgefühl.
-
-## Wie lange warten, bevor man wieder datet?
-
-Das ist die Frage, die alle gestellt bekommen. Die ehrliche Antwort: Es kommt drauf an. Es gibt keine Universalregel. Aber es gibt Signale, dass du bereit bist. Zum Beispiel: Du denkst nicht täglich an deinen Ex. Du wütend oder traurig bist, aber nicht mehr in einem Dauerznstand. Du hast wieder Spaß am Leben, machst Dinge, die dir Freude bringen.
-
-Vorsicht vor dem Rebound. Das ist die Phase direkt nach einer Trennung, wo du dich zu schnell in jemand Neuem verlierst, um die Einsamkeit zu füllen. Das fühlt sich überwältigend an – fast süchtig. Das ist nicht Liebe, das ist Flucht.
-
-Frag dich selbst: Date ich aus echtem Interesse an dieser Person, oder date ich, um nicht allein zu sein? Wenn die Antwort die zweite ist, warte noch.
-
-## Die Angst vor dem Neuen: Was hält dich zurück?
-
-Du hast eine Scheidung erlebt. Vielleicht war es verletzend, unerwartet, schmerzhaft. Es ist völlig normal, dass du Angst hast, dass es wieder passiert. Vielleicht denkst du: "Ich bin nicht gut darin, Beziehungen zu führen" oder "Es wird nie funktionieren".
-
-Diese Gedanken sind gelogen. Eine Scheidung bedeutet nicht, dass du verkehrt bist. Es bedeutet, dass diese eine Person nicht der Richtige für dich war. Punkt. Du kannst eine großartige Partnerin oder ein großartiger Partner sein – mit jemand anderem.
-
-### Den inneren Kritiker besänftigen
-
-Wenn der innere Kritiker spricht, hol dich selbst zurück. "Das stimmt nicht. Mein Ex und ich haben nicht funktioniert, aber das bedeutet nicht, dass ich nicht lieben kann." Das ist die Wahrheit. Wiederhole sie, bis du sie glaubst.
-
-Manchmal hilft Therapie, um diese Muster zu durchbrechen. Es ist nicht schwach, professionelle Hilfe zu holen. Es ist klug. Du lernst, alte Wunden zu heilen und nicht neue Wunden in neue Beziehungen zu tragen.
-
-## Das Selbstvertrauen nach einer Scheidung zurückgewinnen
-
-Eine Scheidung kann dein Selbstvertrauen zerstören. Du fragst dich: "Bin ich nicht gut genug? War es meine Schuld?" Die Antwort ist: Nein. Ein Mensch, zwei Menschen, verschiedene Wege.
-
-Das Erste ist, dich selbst wieder liebevoll zu behandeln. Das ist nicht egoistisch, das ist Selbschutz. Wenn du dich selbst nicht magst, wirst du jemanden wählen, der dich genauso wenig mag.
-
-### Wieder Grenzen setzen und sich selbst kennen
-
-Nach einer langen Beziehung weißt du oft nicht, wer du bist. Du hast dich an eine andere Person angepasst, ihre Bedürfnisse über deine gestellt. Jetzt ist Zeit, dich selbst neu zu entdecken.
-
-Was magst du? Nicht was dein Ex mochte, was DU magst. Welche Filme, Musik, Hobbys, Aktivitäten? Baue ein Leben auf, das dir gehört. Das ist nicht nur attraktiv für potenzielle Partner, das ist auch heilsam für dich.
-
-Setze klare Grenzen. Was willst du nie wieder in einer Beziehung akzeptieren? Verrauen? Kontrolle? Desinteresse? Schreib diese Grenzen auf. Merke sie dir. Wenn eine neue Person diese Grenzen nicht respektiert, ist sie nicht die Richtige.
-
-## Die neue Realität verstehen: Das Dating-Spiel hat sich verändert
-
-Wenn du lange verheiratet warst, war deine letzte Dating-Erfahrung vielleicht Jahre ago. Die Welt hat sich verändert. Es gibt Apps, Online-Dating ist normal, Menschen sind direkter.
-
-Das ist nicht schlecht, das ist nur anders. Du musst dich damit vertraut machen. Es kann sich anfangs merkwürdig anfühlen, aber mit der Zeit wird es normal.
-
-### Das Wichtigste: Du bestimmst das Tempo
-
-Niemand zwangt dich, schnell zu datieren. Du kannst langsam anfangen, vielleicht mit einem Kaffee. Du kannst auch mehrere Dates vor dem ersten Kuss haben. Du kannst auch sagen: "Das fühlt sich nicht richtig an" und gehen. Das ist okay.
-
-Es gibt keinen "richtig" oder "falsch" im Dating. Es gibt nur dein Komfortniveau und deine Grenzen.
-
-## Online-Dating nach Scheidung: Ein neuer Weg zum [Kennenlernen](/blog/dating-fragen-kennenlernen)
+Bevor du eine neue Person in dein Leben bringst, musst du deine Scheidung verarbeitet haben. Das heißt nicht, dass du nie wieder traurig sein darfst oder dass deine Ex völlig aus deinen Gedanken weg ist. Es heißt, dass du die [Kennenlernen](/blog/dating-fragen-kennenlernen)
 
 Viele Menschen scheuen sich vor Online-Dating. Es fühlt sich oberflächlich an, unpersönlich. Aber für geschiedene Menschen kann es großartig sein. Warum? Weil es transparent ist. Jeder dort weiß, dass man datet. Es gibt kein Versteckspiel.
 
@@ -117,57 +65,7 @@ Stille im Gespräch ist okay. Du musst nicht ständig reden. Wenn es eine komfor
 
 Vertrau deinem Bauchgefühl. Wenn etwas sich komisch anfühlt, ist es das wahrscheinlich. Menschen sind Lügen nicht immer gut. Dein Bauch weiß oft, wenn etwas nicht stimmt.
 
-## Die [Red Flags](/blog/dating-red-flags-maenner-erkennen) erkennen und dich selbst schützen
-
-Nach einer Scheidung bist du manchmal emotional verletzlich. Es ist leicht, über rote Flaggen zu laufen, weil du jemanden haben möchtest. Das ist verständlich, aber es ist ein Fehler.
-
-Red Flags sind: Er interessiert sich nicht für dein Leben, er kontaktiert dich nur spät nachts, er spricht nur über sich, er macht kleine spöttische Kommentare, er ist nicht ehrlich, er drängt dich zu schnell näher.
-
-Diese Dinge sind nicht kleinliche Kritik. Das sind Zeichen, dass eine Person nicht gut für dich ist.
-
-### Vertraue auf deine Grenzen
-
-Erinnerung an deine Grenzen: Was willst du nie wieder akzeptieren? Wenn du das aufschreiben hast, dann halte dran fest. Wenn eine Person deine Grenze überschreitet, bist du nicht gemein, wenn du gehst. Du schützt dich selbst.
-
-Es ist okay zu sagen: "Das passt für mich nicht." Und dann zu gehen. Du brauchst dich nicht zu rechtfertigen oder eine lange Erklärung zu geben.
-
-## Über deine Scheidung sprechen: Das heikle Gespräch
-
-Irgendwann werden Sie fragen: "Waren du verheiratet?" Oder du merkst, dass du ihre Namen erwähnt oder Eheringe hast (oder der Mangel von ihnen). Das ist der Moment.
-
-Manche Menschen werden nervös, wenn sie hören, dass du geschieden bist. Andere sind von Haus aus vorsichtig bei geschiedenen Menschen. Das ist ihre Angst, nicht deine Schuld.
-
-### Wie man es ehrlich und einfach erzählt
-
-Sag es beiläufig, nicht dramatisch. "Ja, ich war verheiratet. Es hat nicht funktioniert. Das war vor einem Jahr." Punkt. Keine langen Erklärungen, keine Ex-Bashing, keine Rechtfertigung.
-
-Die richtige Person wird verstehen. Wenn jemand dich deshalb nicht mag, dann ist diese Person nicht für dich. Du brauchst jemanden, der deine Vergangenheit akzeptiert, nicht jemanden, der dich dafür verurteilt.
-
-Wenn sie Fragen haben, beantworte sie ehrlich, aber nicht zu detailliert. Du brauchst keine Therapie auf dem Date zu halten.
-
-## Den Übergang von Dating zu einer Beziehung navigieren
-
-Wenn die Chemie da ist und ihr euch mehrmals getroffen habt, könnte es zu einer Beziehung werden. Das ist aufregend und angespannt zugleich.
-
-Das Wichtigste: Nicht zu schnell zu attached werden. Nach einer Scheidung ist es verständlich, dass du schnell wieder verbunden sein willst, aber halte dein eigenes Leben. Behalte deine Freunde, deine Hobbys, deine Unabhängigkeit.
-
-### Langsam aufbauen und deine Grenzen bewahren
-
-Eine gesunde neue Beziehung wächst langsam. Ihr lernt euch Schicht für Schicht kennen. Nicht alles an Tag eins. Wenn jemand zu schnell zu intensiv wird, ist das ein Zeichen, vorsichtig zu sein.
-
-Teile deine Grenzen. "Ich brauche Zeit für meine Freunde", "Ich brauche meine Unabhängigkeit", "Ich bin verletzt worden, also brauchst du Geduld und Konsistenz von mir". Eine Person, die dich liebt, wird das verstehen.
-
-Sei auch bereit zu hörenWas die andere Person braucht. Eine Beziehung ist nicht nur über deine Heilung. Es ist über gegenseitiges Geben und Nehmen.
-
-## Mit den Kindern umgehen: Wenn du ein Elternteil bist
-
-Wenn du Kinder hast, ist das Schwierigste, einen neuen Partner einzuführen. Die Kinder haben eine Scheidung erlebt. Sie sind verletzt, verwirrt, vielleicht wütend. Ein neuer Partner kann sich wie Verrat anfühlen.
-
-### Zeitliche und emotionale Grenzen mit Kindern
-
-Habt kein Rendezvous bei euch zu Hause, wenn die Kinder da sind. Behalte die Dating-Welt und die Welt der Elternschaft getrennt, solange die Beziehung nicht ernst wird.
-
-Wenn die Beziehung ernst wird und ihr [zusammenziehen](/blog/zusammenziehen-checkliste) wollt oder mehr Zeit zusammen verbringt, sprecht mit den Kindern. Bereitet sie vor, beantwortet ihre Fragen, zeigt ihnen, dass sie immer noch deine Priorität sind.
+## Die [zusammenziehen](/blog/zusammenziehen-checkliste) wollt oder mehr Zeit zusammen verbringt, sprecht mit den Kindern. Bereitet sie vor, beantwortet ihre Fragen, zeigt ihnen, dass sie immer noch deine Priorität sind.
 
 Es ist okay, wieder zu lieben, während man Eltern ist. Aber es braucht Sensibilität und zeitliche Grenzen.
 

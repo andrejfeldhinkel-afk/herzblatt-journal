@@ -11,27 +11,7 @@ tags:
 ---
 ## Was ist Verlassensangst wirklich?
 
-Verlassensangst ist mehr als nur die normale Sorge, dass eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) enden könnte. Es ist eine tiefe, oft unbewusste Furcht vor Ablehnung, Einsamkeit und dem Gefühl, nicht genug zu sein. Menschen mit Verlassensangst erleben diese Angst als ständige Hintergrundmusik in ihren Beziehungen. Sie überprüfen ständig, ob der Partner noch interessiert ist. Sie lesen Nachrichten mehrfach, um zu verstehen, ob sie kalt wirken. Sie fragen sich, ob der Partner sie wirklich liebt oder ob es nur eine Frage der Zeit ist, bis er oder sie verschwindet.
-
-Die Verlassensangst unterscheidet sich von Trennungsangst, die beispielsweise kleine Kinder empfinden. Verlassensangst ist ein komplexes psychologisches Muster, das sich im Laufe des Lebens entwickelt. Es basiert auf tiefen Überzeugungen über deinen Wert als Mensch und darauf, ob Menschen, denen du wichtig bist, bei dir bleiben werden.
-
-Viele Menschen wissen nicht, dass sie Verlassensangst haben. Sie denken stattdessen, dass sie einfach "zu sensibel" sind oder dass ihre Beziehungen immer schiefgehen. In Wirklichkeit ist ihre Angst vor dem Verlassenwerden so groß, dass sie unbewusst daran arbeitet, genau das zu verursachen, das sie am meisten fürchten.
-
-Die Auswirkungen dieser Angst sind weitreichend. Sie beeinflusst, wie du kommunizierst, wie du Konflikte löst, wie du Nähe zulässt und wie du mit Unsicherheiten umgehen kannst. Verlassensangst kann dazu führen, dass du dich in Beziehungen zu klein machst, deine eigenen Bedürfnisse ignorierst oder dich selbst sabotierst.
-
-## Die Ursprünge: Wo kommt Verlassensangst her?
-
-### Vernachlässigung in der Kindheit
-
-Der Ursprung von Verlassensangst liegt oft in der Kindheit. Wenn du als Kind nicht ausreichend emotionale Aufmerksamkeit erhalten hast, lernst du früh, dass deine Bedürfnisse nicht wichtig sind. Vielleicht war dein Elternteil körperlich präsent, aber emotional nicht verfügbar. Es könnte auch sein, dass ein Elternteil beruflich so beschäftigt war, dass deine Bedürfnisse einfach übersehen wurden.
-
-Vernachlässigung muss nicht dramatisch aussehen. Es kann so aussehen, dass dein Elternteil auf deine Tränen nicht reagiert hat oder dass emotionale Gespräche nicht stattgefunden haben. Es kann bedeuten, dass du gelernt hast, deine Gefühle zu verstecken, weil du keine Resonanz erhältst. Diese subtile Vernachlässigung lehrt dich: "Wenn ich meine wahren Gefühle zeige, werde ich verlassen."
-
-Wenn du erlebtest, dass dein Bedarf nach Nähe nicht erfüllt wurde, hast du zwei Wahlmöglichkeiten entwickelt. Du könntest anhänglicher werden und ständig nach Aufmerksamkeit suchen. Oder du könntest lernen, deine Bedürfnisse zu leugnen, um nicht erneut verletzt zu werden. Beide Strategien sind Reaktionen auf Vernachlässigung.
-
-### Elterliche Scheidung und Trennungen
-
-Wenn deine Eltern sich trennt haben, hast du möglicherweise erlebt, dass eine der wichtigsten Beziehungen deines Lebens zerbrach. Selbst wenn die Eltern versucht haben, dich zu beruhigen und zu sagen, dass die [Trennung](/blog/trennung-verarbeiten-12-schritte) nichts mit dir zu tun hat, verarbeitet dein Kindergehirn das anders.
+Verlassensangst ist mehr als nur die normale Sorge, dass eine [Trennung](/blog/trennung-verarbeiten-12-schritte) nichts mit dir zu tun hat, verarbeitet dein Kindergehirn das anders.
 
 Eine Scheidung sendet dir ein unbewusstes Signal: "Menschen, die du liebst, können gehen. Liebe ist nicht für immer. Wenn du nicht vorsichtig bist, wirst du allein gelassen." Diese Überzeugung sitzt tief. Später in deinem Leben können diese Überzeugungen aktiviert werden, wenn es in deiner Beziehung Probleme gibt.
 

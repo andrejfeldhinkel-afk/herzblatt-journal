@@ -26,7 +26,7 @@ Ihr habt Chemie, aber du weißt nicht, wie man die körperliche Nähe aufbaut oh
 
 Das hier ist ein **Schritt-für-Schritt-Guide** wie man das macht, ohne creepy zu sein.
 
-**Lesetipp:** [Welcher Dating-Typ bist du? Die 8 Persönlichkeitstypen](/blog/dating-persoenlichkeitstypen) | [Körpersprache der Anziehung: Diese Signale verraten alles](/blog/koerpersprache-anziehung-signale)
+**Lesetipp:** [Körpersprache der Anziehung: Diese Signale verraten alles](/blog/koerpersprache-anziehung-signale)
 
 ## Die Eskalations-Pyramide
 
@@ -246,7 +246,6 @@ Nach dem ersten Kuss:
 
 ## Weiterlesen
 
-- [Emotionale Nähe aufbauen: Mehr als nur Verliebtheit](/blog/emotionale-naehe-aufbauen)
 - [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
 

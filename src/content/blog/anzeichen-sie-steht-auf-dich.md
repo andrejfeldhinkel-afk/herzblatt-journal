@@ -95,43 +95,7 @@ Diese Zeichen von Nervosität deuten darauf hin, dass du auf sie wirkt. Sie bem�
 
 Das stärkste Zeichen ist, wenn sie aktiv nach Wegen sucht, um dich wiederzusehen. Sie könnte schreiben und sagen, dass sie dich vermisst. Sie könnte einen Grund finden, dich anzurufen. Sie könnte vorschlagen, bald wieder zusammen zu hängen.
 
-Dies zeigt, dass die Konversation nicht einfach mit dem Abschied endet. Sie möchte, dass die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) sich fortmacht. Sie sieht nicht in, dass dies etwas Temporäres ist.
-
-## Subtile vs. Offensichtliche Flirtsignale
-
-Es ist wichtig zu verstehen, dass Frauen auf verschiedene Weise flirten. Manche Frauen sind sehr direkt. Sie könnten dir direkt sagen, dass sie dich mögen. Sie könnten aggressiv sein in ihren Avancen. Das ist weniger häufig, aber es passiert.
-
-Die meisten Frauen sind subtiler. Sie geben kleine Signale. Ein Lächeln, ein Augenzwinkern, ein "zufälliges" Berühren. Diese subtilen Signale sind leicht zu missverstehen, aber wenn du mehrere von ihnen siehst, ist es ein klares Zeichen, dass sie interessiert ist.
-
-Es gibt auch Frauen, die freundlich sind und viele dieser Signale geben, aber das ist "nur freundlich". Der Unterschied ist normalerweise die Konsistenz und die Kombination von Signalen. Eine Frau, die auf dich steht, wird nicht nur einmal nett zu dir sein. Sie wird konsistent nett sein.
-
-## Was tun, wenn du glaubst, dass sie auf dich steht
-
-Wenn du mehrere dieser Zeichen erkannt hast, ist der nächste Schritt, dein Vertrauen zu zeigen. Du könntest sie zum Date einladen. Du könntest ihr sagen, dass du sie magst. Du könntest versuchen, sie zu küssen, wenn der Moment richtig ist.
-
-Das Wichtigste ist, nicht zu zögerlich zu sein. Wenn du wartest zu lange, könntest du die Gelegenheit verpassen. Frauen respektieren oft Männer, die wissen, was sie wollen und die es nicht Angst haben, es zu zeigen.
-
-## Digitale Signale
-
-Im digitalen Zeitalter sind auch digitale Zeichen wichtig. Wenn sie dir oft Nachrichten schreibt, wenn sie schnell auf deine Nachrichten antwortet, wenn sie dir Bilder oder Links schickt, die dich an dich erinnern – das sind alles Zeichen, dass sie auf dich denkt.
-
-Sie könnte dir auch „Likes" auf sozialen Medien geben oder deine Posts kommentieren. Sie könnte dir „Gute Nacht" schreiben oder einfach „Denke an dich."
-
-Diese digitalen Zeichen sind weniger zuverlässig als persönliche, aber sie können ein Teil des Gesamtbildes sein.
-
-## Körpersprache verstehen
-
-Einer der wichtigsten Dinge ist zu verstehen, dass Körpersprache nicht lügt. Wenn eine Frau sagt, dass sie nicht interessiert ist, aber ihre Körpersprache sagt etwas anderes, vertrau der Körpersprache. Wenn sie sagt, dass sie interessiert ist, aber ihre Körpersprache zeigt Unbehagen, vertrau auch der Körpersprache.
-
-Die beste Zeit ist, wenn Worte und Körpersprache übereinstimmen. Das zeigt echte Authentizität.
-
-## Rote Flaggen – Zeichen, dass sie NICHT auf dich steht
-
-Es ist auch wichtig zu wissen, welche Zeichen bedeuten, dass sie möglicherweise nicht auf dich steht. Wenn sie dich mit anderen Männern vergleicht oder über andere Männer spricht, besonders um sie zu beeindrucken, ist das nicht ein gutes Zeichen.
-
-Wenn sie keine Mühe macht, Zeit mit dir zu verbringen, oder wenn sie dich immer ablehnt, wenn du eine Date vorschlägst, ist das auch nicht gut.
-
-Wenn sie dir sagt, dass sie "nur Freunde sein möchte", glaub ihr. Das ist kein Zeichen, dass du einfach warten musst und sie sich in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett).
+Dies zeigt, dass die Konversation nicht einfach mit dem Abschied endet. Sie möchte, dass die [verliebt](/blog/mann-verliebt-anzeichen-komplett).
 
 Wenn sie dich immer in der "Freundzone" gibt oder dich zu anderen Männern ermutigt, ist sie möglicherweise nicht interessiert.
 

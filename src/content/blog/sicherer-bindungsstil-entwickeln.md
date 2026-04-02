@@ -1,5 +1,5 @@
 ---
-title: "Sicherer Bindungsstil: So entwickelst du sichere Bindung (2026)"
+title: "Sicherer Bindungsstil: So entwickelst du sichere Bindung"
 description: "Wie du einen sicheren Bindungsstil entwickelst und sichere Beziehungen aufbaust – weg von Angst, hin zu Vertrauen und Stabilität."
 date: 2026-04-01
 image: "/images/blog/sicherer-bindungsstil-entwickeln.webp"

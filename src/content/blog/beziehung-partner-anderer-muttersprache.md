@@ -121,13 +121,7 @@ Viele bilinguale Paare wünschen sich, dass ihre Kinder beide Sprachen sprechen.
 
 Dies erfordert Konsistenz und Planung, aber es ist eine Investition in den kulturellen Reichtum der nächsten Generation.
 
-[Beziehung und Autismus-Spektrum: Tipps für beide Partner](/blog/beziehung-nach-autismus-spektrum-tipps)
 [Aromantisch: Dating und Beziehungen neu verstehen](/blog/dating-aromantisch-verstehen)
-[Demisexuell: Wenn Liebe langsam wächst](/blog/dating-demisexuell-langsam-verlieben)
-
-## Weiterlesen
-
-- [Beziehung nach Burnout: Den Partner unterstützen](/blog/beziehung-nach-burnout-partner)
-- [Beziehung nach Depression: Gemeinsam zurück ins Leben](/blog/beziehung-nach-depression-partner)
+[Beziehung nach Burnout: Den Partner unterstützen](/blog/beziehung-nach-burnout-partner)
 - [Partner beim Jobwechsel unterstützen](/blog/beziehung-partner-jobwechsel-unterstuetzen)
 

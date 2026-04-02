@@ -122,7 +122,7 @@ Weitere Informationen findest du bei Pro Familia: [Pro Familia](https://www.prof
 
 ## Erste Nachricht nach dem Profil
 
-Dein Profiltext schafft nicht nur Matches – er gibt dir auch Gesprächsstoff für deine erste Nachricht. Besuche unser [Online-Dating-Guide](/online-dating-guide) für Tipps zur ersten Nachricht, die tatsächlich antwortet.
+Dein Profiltext schafft nicht nur Matches – er gibt dir auch Gesprächsstoff für deine erste Nachricht. Besuche unser [Online-Dating-Guide](/blog/online-dating-frauen-guide) für Tipps zur ersten Nachricht, die tatsächlich antwortet.
 
 ## Weiterlesen
 
@@ -146,7 +146,7 @@ Mindestens monatlich. Dating-App-Algorithmen bevorzugen aktualisierte Profile. E
 Ja, aber sparsam. 1-2 Emojis können Persönlichkeit hinzufügen, zu viele wirken unprofessionell.
 
 **Was ist das beste Foto für ein Online-Dating Profil?**
-Gutes Licht, natürlich lächelnd, und dein Gesicht klar sichtbar. Vermeide Filter und zu alt aussehende Fotos. Aber lese mehr in unserem [Erstes-Date-Guide](/erstes-date-guide) für umfassendere Tipps.
+Gutes Licht, natürlich lächelnd, und dein Gesicht klar sichtbar. Vermeide Filter und zu alt aussehende Fotos. Aber lese mehr in unserem [Erstes-Date-Guide](/blog/erstes-date-outfit) für umfassendere Tipps.
 
 **Sollte ich erwähnen, dass ich neue Leute kennenlernen möchte oder dass ich ernsthaft suche?**
 Ja, stelle deine Absichten klar. "Ich suche nach etwas Ernstem" oder "Ich bin offen für alles" spart Zeit für beide.

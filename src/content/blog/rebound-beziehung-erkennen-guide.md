@@ -1,5 +1,5 @@
 ---
-title: "Rebound-Beziehung erkennen: Bist du der Lückenfüller oder die große Liebe?"
+title: "Rebound-Beziehung erkennen"
 description: "Rebound-Beziehung erkennen: Lerne die Zeichen einer Rebound-Beziehung kennen und schütze dich vor emotionaler Verschwendung. Praktische Tipps für echte Liebe."
 date: 2026-03-29
 tags:
@@ -59,33 +59,7 @@ Und wenn er nicht über seinen Ex hinweggekommen ist, dann ist er emotional noch
 
 "Du bist so anders als sie." "Das mag sie nicht, aber du magst es." "Ich mag, dass du nicht so Drama-voll bist wie sie." "Sie war so emotional, aber du bist so ruhig."
 
-Das sind keine [Komplimente](/blog/komplimente-fuer-maenner). Das sind Vergleiche. Und wenn er dich mit seinem Ex vergleicht, dann ist sein Ex immer noch im Hintergrund deiner Beziehung. Und du bist nicht du. Du bist "nicht-sein-Ex." Du bist die bessere Version. Aber das ist nicht die Basis für echte Liebe.
-
-**Zeichen 3: Die Beziehung wird zu schnell zu intensiv**
-
-Er sagt "Ich liebe dich" nach 2 Wochen. Er will, dass du seine Familie triffst nach einem Monat. Er spricht von Zukunft nach zwei Monaten. Er braucht dich immer um sich. Er kann nicht alleine sein. Wenn du nicht antwortest, wird er nervös.
-
-Das ist nicht Leidenschaft. Das ist Sucht nach Aufmerksamkeit. Das ist Angst vor Einsamkeit, die sich als Liebe ausgibt.
-
-In einer echten Beziehung entsteht Liebe langsam. Wie ein Baum, der über Jahre wächst. In einer Rebound-Beziehung ist es schnell und rücksichtslos und unstabil. Wie ein Feuer, das verbrennt.
-
-**Zeichen 4: Er braucht dich damit er sich nicht einsam fühlt**
-
-Dies ist subtiler. Aber wenn dein Partner dir das Gefühl gibt, dass er dich braucht um glücklich zu sein — nicht um sein Leben vollständiger zu machen, sondern um existieren zu können — dann ist das ein Problem.
-
-In einer gesunden Beziehung braucht man sich nicht. Man wählt sich. Und das ist ein fundamentaler Unterschied.
-
-**Zeichen 5: Er ist noch in regelmäßigem Kontakt mit seinem Ex**
-
-Das ist nicht unbedingt schlecht an sich. Menschen können Freunde mit Ex-Partnern sein. Echte Menschen mit echtem Abschluss. Aber wenn er noch ständig mit seinem Ex textet, wenn sie sich regelmäßig treffen, wenn sein Ex immer noch sein bester Freund ist — dann ist das ein Zeichen, dass er nicht über sie hinweggekommen ist.
-
-Und wenn er nicht über seinen Ex hinweggekommen ist, können seine Gefühle für dich nicht vollständig echt sein.
-
-**Zeichen 6: Die Beziehung ist sehr physisch aber nicht emotional**
-
-Sex ist großartig. Eine gesunde Beziehung braucht körperliche Nähe. Aber wenn eine Beziehung NUR von Sex lebt, und emotional nicht viel passiert — wenn ihr nie tiefe Gespräche führt, wenn er sich nie vulnerabel macht — dann ist das eine rote Flagge.
-
-Besonders nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte) suchen manche Menschen schnell körperliche Verbindung um emotionale Verbindung zu vergessen. Körperlich nah sein ist einfacher als emotional nah sein.
+Das sind keine [Trennung](/blog/trennung-verarbeiten-12-schritte) suchen manche Menschen schnell körperliche Verbindung um emotionale Verbindung zu vergessen. Körperlich nah sein ist einfacher als emotional nah sein.
 
 **Zeichen 7: Er erzählt deinen Freunden schnell, dass er dich liebt**
 
@@ -191,13 +165,7 @@ Wenn es weniger als 3 Monate her ist, dann sei vorsichtig. Wenn es weniger als 6
 
 **2. Beobachte, wie er über seinen Ex spricht**
 
-Wenn er zu gut über ihn spricht — nostalgisch, [verliebt](/blog/mann-verliebt-anzeichen-komplett) — dann ist er verliebt. Wenn er zu schlecht spricht — zornig, bitter, verächtlich — dann ist er verletzt.
-
-Beides ist ein Problem. Ein gesunder Mensch hat eine neutrale Perspektive auf seinen Ex.
-
-**3. Geh langsam**
-
-Nicht in einer Woche [zusammenziehen](/blog/zusammenziehen-checkliste). Nicht nach 2 Wochen "Ich liebe dich" sagen. Echte Liebe kann warten. Echte Liebe hat keine Angst, Zeit zu nehmen.
+Wenn er zu gut über ihn spricht — nostalgisch, [zusammenziehen](/blog/zusammenziehen-checkliste). Nicht nach 2 Wochen "Ich liebe dich" sagen. Echte Liebe kann warten. Echte Liebe hat keine Angst, Zeit zu nehmen.
 
 **4. Vertrau deinem Instinkt**
 
@@ -436,4 +404,4 @@ Das ist wie man echte Liebe findet.
 
 ---
 
-**Weitere Artikel zum Thema:** [Nach einer Trennung heilen](/blog/nach-trennung-heilen), [Dating nach Scheidung: Ein neuer Anfang](/blog/dating-nach-scheidung)
+**Weitere Artikel zum Thema:** [Dating nach Scheidung: Ein neuer Anfang](/blog/dating-nach-scheidung)

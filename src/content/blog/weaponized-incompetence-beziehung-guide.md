@@ -1,5 +1,5 @@
 ---
-title: "Weaponized Incompetence: Wenn sich dein Partner absichtlich dumm stellt"
+title: "Weaponized Incompetence: Wenn sich dein Partner absichtli..."
 description: "Weaponized Incompetence ist Manipulation. Erkenne wenn dein Partner absichtlich unfähig ist und warum das eine Beziehungs-Red-Flag ist."
 date: 2026-03-29
 tags:
@@ -91,11 +91,7 @@ Das fünfte Grund ist oft unbewusste oder sehr subtil ausgedrückte Frustration 
 
 ### Bindungsstil-Probleme
 
-Es gibt auch [Bindungsstil](/blog/avoidant-attachment-beziehung-guide)-Faktoren. Jemand mit einem avoidant-dismissive Bindungsstil könnte absichtlich inkompetent in Aufgaben sein, die Nähe oder Interdependenz erfordern würden. Jemand mit einem anxious-preoccupied Bindungsstil könnte bewusst oder unbewusst "bedürftig" sein, um sich sicher zu fühlen, dass du ihn nicht verlässt.
-
-Was auf der psychologischen Ebene am oberflächlichsten passiert, ist dass die andere Person ihre Grenzen setzt, ohne dir wirklich Grenzen zu setzen. Sie sagt nicht "Ich werde das nicht tun" – das würde Konfrontation und Potenzial für Konflikt bedeuten. Sie sagt "Ich kann das nicht tun" – oder sie tut es so falsch, dass die Botschaft klar ist: "Vertrau mir nicht damit." Das fühlt sich ganz anders an. Die erste ist eine klare Grenzsetzung und könnte Respektlosigkeit sein. Die zweite ist... nun ja, wie kannst du jemanden verurteilen oder unter Druck setzen für etwas, das er angeblich nicht kann?
-
-Und du, mit deinem wahrscheinlich nicht gesunden Helfer-Syndrom oder deinem [Bindungsangst](/blog/bindungsangst-komplett-guide), denkst: "Naja, jemand muss es tun. Ich liebe ihn, also muss ich das übernehmen." Also machst du es. Und damit unterrichtest du ihn, dass die Strategie funktioniert. Und die Fallstricke beginnen.
+Es gibt auch [Bindungsangst](/blog/bindungsangst-komplett-guide), denkst: "Naja, jemand muss es tun. Ich liebe ihn, also muss ich das übernehmen." Also machst du es. Und damit unterrichtest du ihn, dass die Strategie funktioniert. Und die Fallstricke beginnen.
 
 ## Die Folgen für die Beziehung und für dich persönlich – Der Unsichtbare Preis
 
@@ -241,6 +237,5 @@ Du verdienst ein echte, gegenseitige Partnerschaft, in der du nicht allein alles
 ---
 
 **Verwandte Artikel:**
-- [Grenzen setzen in Beziehungen: Der komplette Guide](/blog/)
-- [Emotionale Manipulationen erkennen und durchbrechen](/blog/)
+- Grenzen setzen in Beziehungen: Der komplette Guide
 - [Selbstsabotage beim Dating: Warum du immer wieder die Falschen wählst](/blog/selbstsabotage-dating-muster-guide)

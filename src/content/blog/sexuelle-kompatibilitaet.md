@@ -145,7 +145,7 @@ Eine erfüllte Beziehung ist nicht die, die kein sexuelle Herausforderung hat �
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten), [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden), [Polyamorie: Grundlagen & Tipps für alternative Beziehungsstrukturen](/blog/polyamorie-grundlagen).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden), [Polyamorie: Grundlagen & Tipps für alternative Beziehungsstrukturen](/blog/polyamorie-grundlagen).## Weiterlesen
 
 - [Sexuelle Kompatibilität: Warum sie wichtiger ist als du](/blog/sexuelle-kompatibilitaet-wichtigkeit/)
 - [Polyamorie: Grundlagen & Tipps für alternative](/blog/polyamorie-grundlagen/)

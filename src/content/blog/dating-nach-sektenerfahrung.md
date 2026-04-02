@@ -61,72 +61,6 @@ Nach einer Sekte könntest du mehrere Probleme haben:
 
 **Vertrauensprobleme:** Du traust niemandem. Du denken, dass alle lügen, manipulieren, kontrollieren. Du liest böse Absichten in normale Handlungen.
 
-**[Bindungsangst](/blog/bindungsangst-komplett-guide):** Du hast Angst, näher zu kommen, weil nähe Kontrolle bedeuten könnte. Du brauchst immer einen "Ausweg" aus der Beziehung.
-
-**Überabhängigkeit oder Unabhängigkeit:** Manchmal brauchst du zu viel Bestätigung von deinem Partner (weil du daran gewöhnt warst, externe Validierung zu brauchen). Manchmal weigerst du dich, dich auf deinen Partner zu verlassen (weil du gelernt hast, nur auf dich selbst zu vertrauen). Beide sind problematisch.
-
-**Triggers:** Bestimmte Dinge triggern dich. Ein Partner, der sagt "Du solltest nicht mit deinen Eltern sprechen" – das könnte dich an die Isolation in der Sekte erinnern.
-
-**Reaktionen auf Kritik:** In der Sekte warst du wahrscheinlich sehr kritisiert oder warst ständig in Angst vor Kritik. Wenn dein Partner dich kritisiert (auch konstruktiv), könntest du zusammenbrechen oder aggressiv reagieren.
-
-**Scham und Schuld:** Du schämst dich dafür, dass du in eine Sekte bist. Du fragst dich, ob du ein schlechter Mensch bist. Diese Scham kann sich in deine Beziehungen transportieren.
-
-All diese Dinge sind normal nach Sektenerfahrung. Sie sind nicht deine Schuld. Aber sie brauchen Bearbeitung.
-
-## Der erste Schritt: Heilen, bevor du dating
-
-Das beste, was du tun kannst: Finde einen Therapeut, der Sektenerfahrung versteht.
-
-Ein normaler Therapeut könnte sagen: "Das ist in der Vergangenheit, lass es los." Das funktioniert nicht. Du brauchst jemanden, der versteht:
-
-- PTSD nach Sekten (ja, das ist eine echte Diagnose)
-- Vertrauensprobleme und wie man sie aufbaut
-- Die Mechaniken von Gehirnwäsche und wie man sie "auswäscht"
-- Komplexes Trauma und deren Folgen
-- Identitätsaufbau nach Manipulation
-
-Mit therapeutischer Arbeit kannst du anfangen, dich selbst zu verstehen. Du kannst anfangen zu erkennen, dass du nicht "broken" bist – du hast ein Trauma.
-
-Das ist anders. Trauma ist heilbar.
-
-## Die Rolle von Sicherheit
-
-Nach einer Sekte brauchst du Sicherheit. Echte Sicherheit – nicht die falsche Sicherheit, die dir die Sekte gab (die Sekte gab dir falsche Sicherheit durch Kontrolle und Abhängigkeit).
-
-Das bedeutet:
-
-- Eine sichere physische Umgebung (keine Manipulation, keine Bedrohung, keine Isolation)
-- Emotionale Sicherheit (dein Partner respektiert deine Grenzen, deine Gefühle)
-- Psychologische Sicherheit (du kannst du selbst sein, ohne bestraft zu werden)
-- Autonome Sicherheit (du kontrollierst deine eigenen Entscheidungen)
-
-Wenn du dating, such nach Menschen, die diese Sicherheit bieten können. Das klingt einfach, aber viele Menschen mit Sektenerfahrung suchen unbewusst wieder nach Kontrollpersonen. Sie suchen nach starken, dominanten Menschen, die "wissen, was das Beste für sie ist." Das ist ein Reflex – es ist vertraut.
-
-Sei vorsichtig mit diesem Reflex.
-
-Suche stattdessen nach Menschen, die:
-
-- Deine Autonomie respektieren
-- Deine Wahlfreiheit unterstützen
-- Deine Grenzen respektieren
-- Dich nicht isolieren wollen
-- Transparent mit dir sind
-- Deine Vergangenheit mit Mitgefühl behandeln
-
-## Red Flags nach Sektenerfahrung
-
-Es gibt bestimmte Verhaltensweisen, die für dich rote Flaggen sein sollten, wenn du dating:
-
-**Isolation:** Ein Partner, der dich von Freunden oder Familie entfernen möchte. "Ich brauche dich nur" oder "Deine Familie ist gift für uns." Das ist wie die Sekte.
-
-**Gedankenkontrolle:** Ein Partner, der deine Gedanken kritisiert oder du dich nicht frei denken kannst. "Du solltest nicht so denken" oder "Das ist eine schlechte Meinung."
-
-**Manipulation:** Ein Partner, der deine Gefühle manipuliert, um dich zum Tun zu bringen, was er/sie will. Sie nutzen deine Schwächen gegen dich aus.
-
-**Dominanz:** Ein Partner, der alle Entscheidungen trifft. "Du brauchst nicht zu entscheiden, ich kümmere mich um alles."
-
-**Lügen und Betrug:** Ein Partner, der sich weigert, transparent zu sein oder der häufig lügt.
-
 **[Gaslighting](/blog/gaslighting-komplett-guide):** Ein Partner, der sagt, dass deine Wahrnehmung falsch ist. "Das ist nicht passiert" oder "Du erinnerst dich falsch."
 
 **Spirituelle oder ideologische Kontrolle:** Ein Partner, der dich in eine Ideologie drücken will. Das ist ähnlich der Sekte.
@@ -433,7 +367,6 @@ Und mit der richtigen Unterstützung, mit der richtigen Person, mit der richtige
 
 ## Das könnte dich auch interessieren
 
-- [Dating nach Obdachlosigkeit – Liebe nach dem Neustart](/blog/dating-nach-obdachlosigkeit/)
 - [Dating nach einer [Ghosting](/blog/ghosting-komplett-guide)-Erfahrung](/blog/dating-nach-ghosting-erfahrung/)
 - [Dating nach dem Gefängnis – Zweite Chancen in der Liebe](/blog/dating-nach-gefaengnisaufenthalt/)
 - [Dating mit Borderline – Intensive Liebe zwischen Extremen](/blog/dating-mit-borderline-stoerung/)

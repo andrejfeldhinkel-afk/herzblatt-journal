@@ -134,73 +134,7 @@ Das beste erste Foto bei Bumble ist etwas, das Gesprächsstartern einlädt. Nich
 
 Bumble hat auch ein Feature namens "Spotlight", wo du dein Profil für eine kurze Zeit oben schieben kannst. Das ist nicht kostenlos, aber es funktioniert. Wenn du aktiv auf Bumble bist, erwäge Spotlight-Stöße.
 
-## App-spezifische Tipps: [Hinge](/blog/hinge-guide-deutsch-2026)
-
-Hinge bewirbt sich als "The dating app designed to be deleted" – was bedeutet, dass es auf Beziehungen ausgerichtet ist, nicht auf Hookups. Das ist wichtig zu verstehen.
-
-Bei Hinge sollte dein Profil nachdenklicher sein. Deine Fotos sollten echte Aktivitäten zeigen. Deine Prompts sollten tiefere Dinge über dich zeigen.
-
-Hinge hat auch ein Feature, bei dem Leute auf bestimmte Fotos oder Prompts-Antworten "reagieren" können. Ein Bild von dir beim Lesen eines Buches könnten jemand kommentieren: "What are you reading?" Das eröffnet die Tür zu Gesprächen.
-
-Das beste erste Foto bei Hinge ist nicht dein bestes Foto – es ist ein Foto, das deine Persönlichkeit zeigt. Ein Foto von dir bei einer Aktivität, die du liebst.
-
-## A/B Testing: Wie du weißt, was funktioniert
-
-Die beste Strategie ist, dein Profil zu testen. Ändere ein Foto für eine Woche. Zähle deine Matches oder die Anzahl der Nachrichten. Ändere dann ein anderes Foto.
-
-Welche Bio funktioniert besser? Schreib zwei verschiedene Bios. Verwende die eine für eine Woche, dann die andere. Du wirst bald wissen, was für dich funktioniert.
-
-Das gleiche geht für Prompts. Versuche verschiedene Antworten. Sehe, welche mehr Reaktionen bekommt.
-
-Das ist nicht wissenschaftlich perfekt, aber es gibt dir Daten. Und Daten helfen dir, bessere Entscheidungen zu treffen.
-
-## Die Wahrheit über Filtiere und Bearbeitung
-
-Bearbeitungsfilter (wie Snapchat Hundeohren) sind ein absolutes Nein. Sie wirken billig und nicht wie du.
-
-Aber subtile Bearbeitung ist ok. Besseres Licht. Sättigung erhöhen. Kleine Abmagerungen. Die Fotos sollten aber trotzdem wie du aussehen im echten Leben.
-
-Wenn der Filter so intensiv ist, dass die Person, die du trifft, überrascht ist von wie du aussiest, hast du zu viel bearbeitet.
-
-Die Regel ist: Die Fotos sollten die beste Version von dir zeigen, aber trotzdem wie du aussehen.
-
-## Matching Strategien: Was zu tun nach einem Match
-
-Nachdem dich jemand matcht, was sagst du?
-
-Die erste Regel ist: Schreib sofort. Wenn du wartest, bis sie schreiben, wirst du vergessen oder sie werden das Interesse verlieren.
-
-Die zweite Regel ist: Schreib etwas, das spezifisch zu ihrer Bio oder ihren Fotos ist. Nicht einfach "Hi beautiful!" oder "How are you?" Das sind die Nachrichten, die jeder bekommt. Die Leute werden reagieren nicht.
-
-Ein echtes Beispiel: Wenn sein Profil sagt, dass er Berg-Kletterer ist, könntest du schreiben: "I see you like mountain climbing. What's your favorite peak?" Das zeigt, dass du sein Profil tatsächlich gelesen hast.
-
-Die dritte Regel ist: Stelle eine Frage, die eine Antwort erfordert. Nicht eine ja/Nein-Frage. Etwas, das Raum gibt, die Person auszudrücken.
-
-## Warum du nicht so viele Matches bekommst (und wie du es behebst)
-
-Wenn du nicht so viele Matches bekommst, könnte es eines von mehreren Dingen sein.
-
-Das erste ist deine Fotos. Sie sind nicht deutlich oder attraktiv genug. Die Lösung: Bessere Fotos machen.
-
-Das zweite ist deine Bio. Sie ist generisch oder abschreckend. Die Lösung: Eine neue, spezifische Bio schreiben.
-
-Das dritte ist deine Standards. Vielleicht swipest du auf die falschen Leute. Die Lösung: Sei ehrlich über deine Vorlieben und swipe auf wen zu dir passt.
-
-Das vierte ist die App. Manche Apps funktionieren nicht für dich. Die Lösung: Versuche andere Apps.
-
-Das fünfte ist dein Profil ist neu. Die meisten Dating-Apps geben neuen Profilen mehr Sichtbarkeit. Wenn du seit 6 Monaten auf der gleichen App bist, bist du nicht mehr "neu". Die Lösung: Aktualisiere dein Profil regelmäßig oder versuche ein neues Profil (mit einer anderen Telefonnummer).
-
-## Wenn die Matches in Gespräche konvertieren
-
-Es ist nicht genug, Matches zu bekommen. Du brauchst, dass die Matches in echte Gespräche konvertieren.
-
-Das erste ist sicherstellen, dass dein erstes Messaging gut ist. Keine generischen Nachrichten. Etwas Spezifisches, das zeigt, dass du da bist.
-
-Das zweite ist Fragen zu stellen. Menschen lieben, über sich selbst zu reden. Wenn du ihnen Raum gibst, zu reden, werden sie antworten.
-
-Das dritte ist schnell zu einem Date zu bewegen. Nicht nach drei Wochen Nachrichten. Nach ein oder zwei Tagen Nachrichten, frag, ob sie Kaffee oder einen Drink treffen möchte.
-
-Lesen Sie auch: [Erstes Date Gesprächsthemen: 50 Fragen die jedes Eis brechen](/blog/erstes-date-gespraechsthemen)
+## App-spezifische Tipps: [Erstes Date Gesprächsthemen: 50 Fragen die jedes Eis brechen](/blog/erstes-date-gespraechsthemen)
 
 ## Die psychologische Seite des Profilbildes
 

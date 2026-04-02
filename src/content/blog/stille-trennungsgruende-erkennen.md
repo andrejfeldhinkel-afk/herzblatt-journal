@@ -151,5 +151,5 @@ Deine Beziehung verdient mehr als stille Erosion. Sie verdient Aufmerksamkeit, K
 - [Gleichberechtigung in der Beziehung: Wie ihr als echte Partner leben könnt](/blog/beziehung-gleichberechtigung/)
 - [Beziehung nach der Midlife-Crisis: Neuer Anfang zu zweit](/blog/beziehung-nach-midlife-crisis/)
 - [Beziehung mit großem Altersunterschied](/blog/beziehung-altersunterschied/)
-- [Von der Fernbeziehung zum Zusammenziehen: Der nächste Schritt](/blog/beziehung-fernbeziehung-[zusammenziehen](/blog/zusammenziehen-checkliste)/)
+- [zusammenziehen](/blog/zusammenziehen-checkliste)/)
 - [Gemeinsam meditieren als Paar: Achtsamkeit zu zweit](/blog/beziehung-gemeinsam-meditieren/)

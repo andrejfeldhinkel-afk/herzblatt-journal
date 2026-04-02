@@ -42,19 +42,7 @@ Auch **Physische Nähe** wird unterschiedlich wahrgenommen. Händchenhalten in d
 
 ## Kommunikationsstile überbrücken
 
-Menschen aus verschiedenen Kulturen kommunizieren oft grundlegend anders. Manche Kulturen schätzen **direkte [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/)**, während andere indirekt und diplomatisch sind. Ein direktes "Nein" mag in einer Kultur unhöflich klingen, ist aber in einer anderen völlig angemessen.
-
-**Emotionale Ausdrucksfähigkeit** variiert ebenfalls stark. Während manche Menschen ihre Gefühle offen zeigen und ausdrücken, werden andere eher reserviert. Es gibt kein Richtig oder Falsch – aber es ist wichtig, diese Unterschiede zu erkennen und nicht zu denken, dass dein Partner dich nicht liebt, nur weil er seine Gefühle anders ausdrückt als du.
-
-Nutzt **Ich-Aussagen** und fragt nach: "Wenn ich das sage, könnte es missverstanden werden – wie nimmst du das wahr?" Offene Gespräche über kommunikative Unterschiede helfen immens, Konflikte zu vermeiden.
-
-## Familie, Religion und gesellschaftliche Erwartungen
-
-Familienstrukturen und Erwartungen unterscheiden sich enorm. In manchen Kulturen ist enge familiäre Bindung und Unterstützung zentral, in anderen wird mehr Wert auf Unabhängigkeit gelegt. Dies kann zu Konflikten führen, wenn der eine Partner regelmäßige Familientreffen erwartet und der andere das als belastend empfindet.
-
-**Religion** ist oft ein großes Thema bei interkulturellem Dating. Wenn ihr unterschiedliche Religionen praktiziert, solltet ihr früh klären: Wie wichtig ist euch euer Glaube? Welche religiösen Praktiken sind nicht verhandelbar? Wie wollt ihr mit Kindern umgehen – werden sie eine oder beide Religionen kennenlernen? Diese Gespräche sind nicht unromantisch, sondern notwendig und schaffenklarheit.
-
-**Gesellschaftliche Erwartungen** können ebenfalls belastend sein. In manchen Kulturen ist es völlig normal, schnell zu heiraten, während in anderen ein längeres [Kennenlernen](/blog/dating-fragen-kennenlernen) Standard ist. Klarheit über diese unterschiedlichen Zeitrahmen und Erwartungen ist wichtig.
+Menschen aus verschiedenen Kulturen kommunizieren oft grundlegend anders. Manche Kulturen schätzen **direkte [Kennenlernen](/blog/dating-fragen-kennenlernen) Standard ist. Klarheit über diese unterschiedlichen Zeitrahmen und Erwartungen ist wichtig.
 
 ## Sprachbarrieren als Chance, nicht als Hindernis
 

@@ -145,4 +145,4 @@ Du brauchst nicht, dich in einen Arschloch-Typen zu verwandeln. Du brauchst, ein
 
 Das ist was Frauen wirklich wollen.
 
-Schau dir auch unseren Artikel über [Authentizität im Dating](/blog/authentizitat-dating-guide) an um mehr Tipps zu bekommen.
+Schau dir auch unseren Artikel über [Authentizität im Dating](/blog/demisexualitaet-dating-guide) an um mehr Tipps zu bekommen.

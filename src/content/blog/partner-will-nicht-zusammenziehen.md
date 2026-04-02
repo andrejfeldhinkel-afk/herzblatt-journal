@@ -16,11 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-Du träumst schon lange davon, mit deinem Partner zusammenzuziehen. Ihr kennt euch, liebt euch, alles läuft super — warum also nicht den nächsten Schritt gehen? Aber dein Partner bremst, weicht aus, findet immer neue Gründe. Das frustriert dich zu Recht. Die gute Nachricht: Es muss nicht das Ende der [beziehung](/blog/adhs-und-beziehung-komplett-guide/) bedeuten. Es ist nur ein Signal, dass du verstehen musst.
-
-## Die echten Gründe dahinter
-
-Wenn dein Partner nicht [zusammenziehen](/blog/zusammenziehen-checkliste) will, steckt fast immer mehr dahinter als einfach "keine Lust". Menschen sind kompliziert, und die Gründe sind oft unbewusst oder schwer auszusprechen.
+Du träumst schon lange davon, mit deinem Partner zusammenzuziehen. Ihr kennt euch, liebt euch, alles läuft super — warum also nicht den nächsten Schritt gehen? Aber dein Partner bremst, weicht aus, findet immer neue Gründe. Das frustriert dich zu Recht. Die gute Nachricht: Es muss nicht das Ende der [zusammenziehen](/blog/zusammenziehen-checkliste) will, steckt fast immer mehr dahinter als einfach "keine Lust". Menschen sind kompliziert, und die Gründe sind oft unbewusst oder schwer auszusprechen.
 
 ### Angst vor Veränderung
 
@@ -102,13 +98,7 @@ Weitere Informationen findest du bei Bundesministerium für Familie: [Bundesmini
 
 Du verdienst einen Partner, der dir entgegenkommt. Nicht immer zu dir, aber zumindest bis zur Mitte. Und wenn dein Partner das nicht kann, dann ist das die Information, die du brauchst. Das hat nichts mit Liebe zu tun. Es hat mit Kompatibilität zu tun.
 
-Zusammenziehen ist nicht der Beweis von Liebe. Das sollte es nie sein. Es sollte der nächste natürliche Schritt sein, wenn beide bereit sind. Wenn dein Partner nicht bereit ist — verstehe warum, setz eine Grenze, und treffe dann eine bewusste Entscheidung. Das ist [selbstliebe](/blog/allein-vs-einsam/).
-
----
-
-## Weiterlesen
-
-- [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)
+Zusammenziehen ist nicht der Beweis von Liebe. Das sollte es nie sein. Es sollte der nächste natürliche Schritt sein, wenn beide bereit sind. Wenn dein Partner nicht bereit ist — verstehe warum, setz eine Grenze, und treffe dann eine bewusste Entscheidung. Das ist [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)
 - [Zusammenziehen: Der komplette Guide für den großen Schritt](/blog/zusammenziehen-richtig-planen/)
 - [Mein Partner nimmt mich nicht ernst — was tun?](/blog/partner-nimmt-mich-nicht-ernst/)
 - [Fernbeziehung beenden: Zusammenziehen](/blog/beziehung-fernbeziehung-zusammenziehen/)

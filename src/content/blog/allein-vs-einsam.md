@@ -82,43 +82,7 @@ Interessanterweise ist dieser Mechanismus evolutionär sinnvoll. Als Herdentiere
 
 Dies erklärt teilweise, warum sich Einsamkeit so körperlich schmerzhaft anfühlt. Dies ist nicht psychisch. Es ist nicht, dass du zu sensibel bist. Es ist, dass dein Körper auf eine biologische Ebene reagiert, als würde es Gefahr.
 
-Andererseits, wenn du bewusstes Alleinsein praktizierst, aktivierst du dein parasympathisches Nervensystem – den "Ruhe-und-Verdauungs"-Modus. Dein Blutdruck sinkt. Dein Cortisol normalisiert sich. Dein Immunsystem wird stärker. Das ist nicht Müßiggang – das ist [heilung](/blog/aengstlicher-bindungsstil-heilen/).
-
-## Die Auswirkung von sozialen Medien auf Alleinsein und Einsamkeit
-
-Die Art und Weise, wie wir Alleinsein und Einsamkeit erleben, wurde fundamental durch soziale Medien verändert. Dies ist eine neuartige Dynamik, die frühere Generationen nicht hatte.
-
-Wenn du allein in deinem Apartment sitzt und du öffnest Instagram, sieht du hunderte von Bildern von Menschen, die zusammen sind. Sie Lachen. Sie umarmen. Sie sind an schönen Orten. Und dein Gehirn macht einen Vergleich: Ich bin allein. Sie sind zusammen. Etwas stimmt mit mir nicht.
-
-Aber hier ist die Sache: Diese Bilder sind kuratiert. Sie zeigen nicht das wirkliche Leben. Sie zeigen die besten zwei Minuten aus dem Leben dieser Menschen. Du siehst nicht das Foto des Paares, das fünf Minuten später zusammen saß und nichts sprach.
-
-Die soziale-Vergleichs-Falle ist mächtig. Und sie ist besonders mächtig für Menschen, die allein sind, weil es sich wie ein Beweis anfühlt, dass es etwas mit dir nicht stimmt.
-
-Eine praktische Sache, die du tun kannst: Überprüfe deine Social-Media-Gewohnheiten. Wenn dich Instagram einsam fühlen lässt, deinstalliere es. Oder setze Grenzen. Oder kuriere deine Fütterung, um mehr Menschen zu zeigen, die allein glücklich sind.
-
-Dies ist nicht, dass du dich von der Welt abschneiden solltest. Es ist, dass du Vorsicht davor machen musst, dass dich die kurierten Darstellungen anderer Menschen dein Leben ändern.
-
-## Der innere Kritiker und das Selbstmitleid: Zwischen Mitgefühl und Entschuldigung finden
-
-Wenn du einsam bist, und du sprichst über deine Einsamkeit, gerätst du oft in einen dieser zwei Extreme.
-
-Im einen Extrem verurteilst du dich selbst. "Ich bin einsam, weil ich eine soziale Paria bin. Es stimmt etwas mit mir nicht. Ich bin zu seltsam, zu dünn, zu fett, zu intelligent, zu wenig intelligent. Die Schuld liegt ganz bei mir."
-
-Im anderen Extrem machst du die Welt und andere Menschen schuldig. "Die Menschen sind grausam. Mein Ex war ein Narzisspat. Niemand versteht mich. Die Gesellschaft ist schuld."
-
-Weder ist ganz wahr, und beide sind schädlich.
-
-Die echte Ansicht ist irgendwo in der Mitte: Ja, es gibt Dinge über dich, die du ändern könntest – vielleicht musst du mehr Anstrengung machen, Menschen zu verbinden, oder vielleicht musst du heilen, ein tiefes Trauma, das dich von anderen trennt. Aber auch, ja, die Welt hat Lücken. Einige Menschen sind grausam. Einige Beziehungen sind nicht sicher. Es ist nicht alles deine Schuld.
-
-Mit diesem Verständnis kannst du Verantwortung übernehmen, ohne dich zu demolieren. Du kannst sehen, wo du wachsen kannst, ohne zu glauben, dass du kaputt bist.
-
-## Der Unterschied zwischen Introversion und Einsamkeit
-
-Ein Missverständnis: Introvertierte Menschen sind einsam. Das ist nicht wahr.
-
-Introversion ist über, wie du Energie bekommst. Ein introvertiertes Mensch wird energiert durch Zeit allein. Ein extrovertiertes Mensch wird energiert durch Zeit mit anderen Menschen.
-
-Einsamkeit ist etwas anderes. Dies ist das Gefühl von [Trennung](/blog/trennung-verarbeiten-12-schritte) und Schmerz, unabhängig davon, ob du introvertiert oder extrovertiert bist.
+Andererseits, wenn du bewusstes Alleinsein praktizierst, aktivierst du dein parasympathisches Nervensystem – den "Ruhe-und-Verdauungs"-Modus. Dein Blutdruck sinkt. Dein Cortisol normalisiert sich. Dein Immunsystem wird stärker. Das ist nicht Müßiggang – das ist [Trennung](/blog/trennung-verarbeiten-12-schritte) und Schmerz, unabhängig davon, ob du introvertiert oder extrovertiert bist.
 
 Tatsächlich sind Introvertierte oft besser darin, allein zu sein. Sie haben weniger Unbehagen mit Einsamkeit-freier Zeit. Das Problem für Introvertierte kommt eher, wenn sie nicht genug Zeit für sich selbst kriegen.
 

@@ -819,7 +819,7 @@ Die Question ist: Dient Social Media deiner Beziehung oder deiner Beziehung Dien
 
 Wenn letzteres, es ist Zeit um zu ändern.
 
-Für mehr über wie Kommunikation und Aufmerksamkeit zu einer starken Beziehung, oder [wie man Digital Wellness aufbaut](/blog/emotionale-verfuegbarkeit-dating), oder [wie man Grenzen in einer technologischen Welt setzt](/blog/persoenliche-grenzen-dating), schau unsere anderen Artikel an.
+Für mehr über wie Kommunikation und Aufmerksamkeit zu einer starken Beziehung, oder [wie man Grenzen in einer technologischen Welt setzt](/blog/persoenliche-grenzen-dating), schau unsere anderen Artikel an.
 
 ## Social Media und Eifersucht: Die 5 häufigsten Trigger
 

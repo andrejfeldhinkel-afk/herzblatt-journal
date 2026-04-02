@@ -299,7 +299,6 @@ Antwort: Start klein. Nicht mit der Mega-Grenze. Mit was, das sich manageable an
 ## Weiterlesen
 
 - [Konflikt-Stile: Kennde deinen Weg, um zu kämpfen](/blog/beziehung-konflikt-styles/)
-- [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung/)
 - [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
 - [Schuld vs. Verantwortung: Der Unterschied, der Beziehungen rettet](/blog/beziehung-schuld-vorwurf/)
 - [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden/)

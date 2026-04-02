@@ -12,9 +12,7 @@ tags:
 
 ## Dating nach der Scheidung: Neues Kapitel
 
-Eine Scheidung ist ein Bruch. Nicht nur die [beziehung](/blog/adhs-und-beziehung-komplett-guide/), sondern auch dein Selbstbild, deine Routinen, dein Leben. Und jetzt stellst du dir die Frage: Kann ich wieder daten? Sollte ich? Die Antwort ist komplexer als ja oder nein.
-
-## Erste Schritte nach der [Trennung](/blog/trennung-verarbeiten-12-schritte)
+Eine Scheidung ist ein Bruch. Nicht nur die [Trennung](/blog/trennung-verarbeiten-12-schritte)
 
 Bevor du dich in die Dating-Welt stürzt, brauchst du Zeit und Klarheit.
 
@@ -40,41 +38,7 @@ Nach Jahren in einer Beziehung kennst du dich selbst möglicherweise nicht mehr.
 
 Eine Scheidung lehrt dich etwas Wichtiges: Was funktioniert nicht in Beziehungen?
 
-**Lerne von der Vergangenheit:** Was hat zur Scheidung beigetragen? War es [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/)? Unterteilte Träume? Untreue? Unterschiedliche Lebensziele? Diese Insights sind kostbar.
-
-**Erkenne deine Redflags:** Was sind Zeichen, die du übersehen hast? Wenn dein Ex manipulativ war, erkenne Manipulation früher. Wenn emotionale Kälte das Problem war, erkenne das früher.
-
-**Erkenne auch deine Fehler:** Du bist nicht unschuldig an deiner Scheidung (es sei denn, es war reine Untreue des Partners). Besitze deinen Teil. Das macht dich besser, nicht schlechter.
-
-## Wann du bereit zum Daten bist
-
-Mehrere Zeichen deuten darauf hin:
-
-- Du kannst ohne Wut über deine Scheidung sprechen
-- Du magst dein eigenes Leben (nicht perfekt, aber gut)
-- Du schuldest deinem Ex nichts mehr (emotional oder finanziell)
-- Du hast einen Grund, jemanden zu daten (nicht nur Einsamkeit oder Angst)
-- Du bist allein wohl mit dir selbst
-
-Wenn du zwei oder mehr davon nicht erfüllen kannst, warte noch.
-
-## Das erste Date nach der Scheidung
-
-Das ist emotional. Du wirst nervös sein. Das ist normal.
-
-**Wähle einen sicheren Ort:** Ein Café, kein Dinner. Kurz, kein langes Commitment.
-
-**Sei ehrlich über deinen Status:** "Ich bin scheiden lassen. Das ist vor 18 Monaten passiert. Ich bin bereit zu daten, aber ich gebe dir volle Transparenz." Das filtert Menschen, die nicht bereit sind für Post-Scheidungs-Dating.
-
-**Höre aktiv zu:** Nicht alles dreht sich um deine Scheidung. Konzentriere dich darauf, dein Date zu kennen.
-
-**Habe Spaß:** Das ist dir erlaubt. Das erste Date ist kein Bewerbungsgespräch.
-
-## Häufige Herausforderungen
-
-**Vergleich mit deinem Ex:** Das werden Sie machen. Das ist normal, aber nicht hilfreich. Sage dir selbst: Das ist ein neuer Mensch. Nicht besser oder schlechter.
-
-**Angst vor Verpflichtung:** Eine Scheidung kann [Bindungsangst](/blog/bindungsangst-komplett-guide) verursachen. Das ist verständlich, aber thematisiere es mit deinem Date nicht sofort. Arbeite daran, bevor du jemanden kennenlernst.
+**Lerne von der Vergangenheit:** Was hat zur Scheidung beigetragen? War es [Bindungsangst](/blog/bindungsangst-komplett-guide) verursachen. Das ist verständlich, aber thematisiere es mit deinem Date nicht sofort. Arbeite daran, bevor du jemanden kennenlernst.
 
 **Finanzielle Belastung:** Wenn Unterhaltszahlungen oder andere Verpflichtungen dein Dating komplizieren - teile das mit, aber nicht beim ersten Date. Später, wenn es ernst wird.
 

@@ -1,5 +1,5 @@
 ---
-title: "Breadcrumbing: Wenn er dich mit Brotkrumen bei der Stange hält"
+title: "Breadcrumbing: Wenn er dich mit Brotkrumen bei der Stange..."
 description: "Breadcrumbing ist bewusste Manipulation. Erkenne Breadcrumbing-Muster und befreie dich von emotionaler Manipulation."
 date: 2026-03-29
 tags:
@@ -177,6 +177,5 @@ Wenn sie nachkommen will, wird sie es tun. Wenn nicht, hast du deine Antwort.
 ---
 
 **Verwandte Artikel:**
-- [Grenzen setzen in Beziehungen: Der komplette Guide](/blog/)
 - [Weaponized Incompetence: Wenn sich dein Partner absichtlich dumm stellt](/blog/weaponized-incompetence-beziehung-guide)
 - [Selbstsabotage beim Dating: Warum du immer wieder die Falschen wählst](/blog/selbstsabotage-dating-muster-guide)

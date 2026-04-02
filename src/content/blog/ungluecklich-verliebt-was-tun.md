@@ -1,5 +1,5 @@
 ---
-title: "Unglücklich verliebt: Was du wirklich tun kannst (und was nicht)"
+title: "Unglücklich verliebt: Was du wirklich tun kannst (und was..."
 description: "Du liebst jemanden, der dich nicht liebt. Das tut weh. Hier sind ehrliche Strategien, um mit unerwiderter Liebe umzugehen und voranzugehen."
 date: 2026-04-02
 tags: ["liebe", "gefühle", "herzschmerz", "psychologie", "persönliche-entwicklung"]
@@ -84,7 +84,7 @@ Du kannst nicht die Freundschaft behalten, solange du Gefühle hast. Das ist nic
 
 Erstelle Distanz. Keine Nachrichten. Kein Kontakt. Keine zufällige Begegnung. Das ist nicht für immer – aber es muss sein, bis deine Gefühle verblassen.
 
-[Lese auch unseren Artikel über Grenzen setzen](/blog/grenzen-setzen-beziehungen).
+[Lese auch unseren Artikel über Grenzen setzen](/blog/grenzen-setzen-beziehung).
 
 **Schritt 4: Verarbeite den Schmerz**
 

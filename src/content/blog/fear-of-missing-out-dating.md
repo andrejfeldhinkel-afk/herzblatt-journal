@@ -121,17 +121,7 @@ Dieser Typ hat FOMO weil: Er denkt ständig "es gibt jemanden der ALLE meine Kri
 
 Das ist naiv. Die perfekte Person auf Papier existiert nicht.
 
-Ein Klient mit einer sehr langen Checkliste datierte schließlich eine Frau die "95% seiner Kriterien erfüllt." Nach drei Jahren war es die beste [beziehung](/blog/adhs-und-beziehung-komplett-guide/) seines Lebens.
-
-Aber es könnte nicht sein. Weil er könnte die ganze Zeit nach den 5% gegenseitigen haben.
-
-**Typ 4: Der "Immer Ein Loch"**
-
-Dieser Typ hat echte FOMO. Nicht weil er schwierig ist. Sondern weil er ein inneres Loch hat.
-
-Er fühlt sich in Beziehungen nie erfüllt. Er denkt ständig: "Was wenn es da draußen noch jemanden gibt der mich wirklich sehe?"
-
-Das ist nicht wirklich FOMO. Das ist [Bindungsangst](/blog/bindungsangst-komplett-guide) verkleidet als FOMO.
+Ein Klient mit einer sehr langen Checkliste datierte schließlich eine Frau die "95% seiner Kriterien erfüllt." Nach drei Jahren war es die beste [Bindungsangst](/blog/bindungsangst-komplett-guide) verkleidet als FOMO.
 
 Dieser Typ braucht nicht neue Menschen. Dieser Typ braucht Therapie.
 
@@ -289,15 +279,7 @@ Hier sind die häufigsten Antworten:
 
 Das ist Bindungsangst. [Lese hier mehr über Angst allein zu bleiben.](/blog/angst-allein-zu-bleiben)
 
-Die Lösung: Erkenne dass Verletzung ein Teil von Liebe ist. Die Alternative zu Verletzung ist [einsamkeit](/blog/allein-vs-einsam/). Wähle die Verletzung.
-
-**"Ich glaube nicht dass ich gut genug bin."**
-
-Das ist Selbstwert-Problem. Nicht FOMO.
-
-Dein Gehirn denkt: "Diese Person könnte jemanden besseren finden. Warum sollte ich mich da einlassen? Sie wird mich sowieso verlassen."
-
-Die Lösung: Arbeite an deinem Selbstwert. [Lese hier über Selbstwert nach einer toxischen Beziehung.](/blog/selbstwert-nach-toxischer-beziehung) Therapie ist hier wirklich wertvoll.
+Die Lösung: Erkenne dass Verletzung ein Teil von Liebe ist. Die Alternative zu Verletzung ist [Lese hier über Selbstwert nach einer toxischen Beziehung.](/blog/selbstwert-nach-toxischer-beziehung) Therapie ist hier wirklich wertvoll.
 
 **"Ich bin nicht bereit für Beziehung."**
 

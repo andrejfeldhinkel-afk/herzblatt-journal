@@ -30,32 +30,7 @@ Die erste Nachricht ist dein Fuß in der Tür. Sie bestimmt nicht, ob es eine Be
 
 ## Die goldene Regel: Personalisierung
 
-Der größte Fehler beim [online-dating](/blog/beste-dating-apps-2026/) ist die Copy-Paste-Nachricht. Jeder erkennt ein generisches Hey, wie gehts und ignoriert es. Die Lösung ist simpel: Schau dir das Profil der Person an und beziehe dich auf etwas Konkretes.
-
-Hat die Person ein Foto vom Wandern? Frage nach ihrer Lieblingsroute. Steht im Profil eine Serie, die du auch magst? Teile deine Meinung zur letzten Staffel. Wird ein Hobby erwähnt? Zeige echtes Interesse daran.
-
-Personalisierte Nachrichten haben laut Studien eine dreimal höhere Antwortrate als generische Öffner. Der Grund ist psychologisch: Menschen fühlen sich gesehen und wertgeschätzt, wenn jemand sich die Mühe macht, ihr Profil zu lesen.
-
-Das ist auch ein großer Unterschied zwischen jemandem, der dein Profil tatsächlich betrachtet hat, und jemandem, der einfach nach rechts swiped. Menschen erkennen das. Und sie schätzen es.
-
-## Die Struktur der perfekten ersten Nachricht
-
-Eine gute erste Nachricht hat drei Elemente. Erstens einen Bezug zum Profil, der zeigt, dass du aufmerksam bist. Zweitens eine persönliche Note, die etwas über dich verrät. Und drittens eine offene Frage, die zum Antworten einlädt.
-
-Beispiel: Du hast ein Foto vom Oktoberfest — warst du dieses Jahr auch da? Ich war zum ersten Mal und kann nicht glauben, wie viel Spaß das gemacht hat. Was war dein Highlight?
-
-Diese Nachricht funktioniert, weil sie Interesse zeigt, eine eigene Erfahrung teilt und eine einfach zu beantwortende Frage stellt.
-
-Weitere gute Beispiele:
-- „Ich sehe, du bist Fotografin. Welches war dein liebstes Projekt bis jetzt?"
-- „The Office ist meine Lieblingsserie – welche Staffel hat dir am besten gefallen?"
-- „Du reist nach Asien? Ich plane gerade eine Reise. Welches Land würdest du uns empfehlen?"
-
-Alle diese Nachrichten zeigen, dass du das Profil gelesen hast und echtes Interesse hast.
-
-## Häufige Fehler vermeiden
-
-Vermeide reine [Komplimente](/blog/komplimente-fuer-maenner) zum Aussehen als Opener. Ein Du bist hübsch sagt nichts über dich aus und gibt der Person nichts, worauf sie antworten kann. Wenn du das Aussehen ansprechen willst, sei spezifisch: Dein Lächeln auf dem dritten Foto ist ansteckend ist besser als Du siehst gut aus.
+Der größte Fehler beim [Komplimente](/blog/komplimente-fuer-maenner) zum Aussehen als Opener. Ein Du bist hübsch sagt nichts über dich aus und gibt der Person nichts, worauf sie antworten kann. Wenn du das Aussehen ansprechen willst, sei spezifisch: Dein Lächeln auf dem dritten Foto ist ansteckend ist besser als Du siehst gut aus.
 
 Schicke keine zu langen Nachrichten. Drei Sätze sind optimal. Alles darüber wirkt aufdringlich oder verzweifelt. Die erste Nachricht soll ein Gespräch starten, nicht deine Lebensgeschichte erzählen.
 

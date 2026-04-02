@@ -114,52 +114,11 @@ Bevor Sie antworten, pausieren Sie. Was fühlen Sie? Sind Sie wirklich über die
 
 ### 3. Bedenken Sie den Kontext
 
-Warum tauchen sie jetzt auf? Sind sie in einer schlechten Beziehung? Gerade eine [Trennung](/blog/trennung-verarbeiten-12-schritte) durchmachend? Der Grund für das Submarining könnte Ihnen helfen zu verstehen, ob dies ein echtes Interesse ist oder nur Manipulation.
-
-### 4. Die Unresponse
-
-Die einfachste Antwort auf Submarining ist zu ignorieren. Kein dramatisches "Ich bin nicht interessiert" Nachricht. Einfach keine Antwort. Wenn sie weiterleben, können Sie immer noch nichts antworten.
-
-### 5. Höfliche Grenzziehung
-
-Wenn Ihnen das Stille unangenehm ist, können Sie antworten:
-"Ich schätze die Nachricht, aber es ist besser, wenn wir in Kontakt bleiben. Ich wünsche dir alles Gute."
-
-Dies ist klar, nicht unhöflich, und setzt eine Grenze.
-
-### 6. Nicht in alte Muster zurückkehren
-
-Wenn Sie mit dem Submariner kommuniziert haben und sich in alte Muster verwickelt fühlen, stoppen Sie es. Dies ist der schwierigste Teil, weil Sie die Zusammenhänge bereits kennen und es vertraut ist. Aber vertraut ist nicht das gleiche wie gesund.
-
-## Wenn Sie in einer neuen Beziehung sind
-
-Wenn Sie mit jemandem neuem datieren und Ihr ehemaliger Partner taucht auf, sollte Ihre Reaktion Ihre gegenwärtige Beziehung respektieren. Wenn Sie den Kontakt zu Ihrem Ex öffnen, kann dies Eifersucht oder Misstrauen bei Ihrem neuen Partner erregen – und zu Recht.
-
-Dies ist nicht wirklich Ihr neuer Partner zu kontrollieren. Es ist über Respekt. Wenn Sie mit jemandem neuen verbindlich sind, sind Sie nicht verfügbar, um mit Exen zu spielen.
-
-## Seien Sie nicht ein Submariner
-
-Es ist auch wichtig zu beachten: Wenn Sie jemals versucht sind, einen ehemaligen Partner zu submarine, wissen Sie, dass dies möglicherweise unkind ist. Wenn Sie nicht bereit sind, eine echte Beziehung zu ihnen zu haben, respektieren Sie das und halten Sie Raum.
-
-Die einzige Zeit, Kontakt mit einem ehemals Exen aufzunehmen, ist, wenn Sie es wirklich bedeuten und bereit sind, die notwendige Arbeit zu tun.
-
-## Die größere Lektionen
-
-Submarining ist ein Symptom unserer modernen Dating-Kultur, in der Menschen Menschen wie Apps behandeln – sie können sie Dinge aktivieren und deaktivieren, wenn sie möchten. Dies ist nicht respektvoll.
-
-Als Dating-Kultur müssen wir bessern. Wenn Sie mit jemanden datiert haben und sich getrennt haben, akzeptieren Sie Closure und gehen Sie weiter. Wenn Sie sich später wieder verbinden möchten, tun Sie es mit Klarheit und Respekt, nicht mit Unternehmens-Spielen.
-
-Und wenn Sie den anderen Ende des Submarining sind, verstehen Sie Ihre Grenzen. Sie müssen nicht auf alle reagieren, die von der Vergangenheit auftauchen. Sie sind nicht verpflichtet, die Dinge neu zu öffnen, nur weil es einfach ist, eine Nachricht zu senden.
-
-Weitere Tipps zum Umgang mit Dating-Drama:
-
-- [Wokefishing: Die Dating-Taktik erkennen und vermeiden](/blog/wokefishing-dating-taktik)
-- [Hardballing: Warum direktes Dating besser ist](/blog/hardballing-dating-direkt-ehrlich)
+Warum tauchen sie jetzt auf? Sind sie in einer schlechten Beziehung? Gerade eine [Wokefishing: Die Dating-Taktik erkennen und vermeiden](/blog/wokefishing-dating-taktik)
 - [Cuffing Season: Warum wir im Herbst nach Nähe suchen](/blog/cuffing-season-herbst-dating)
 
 ## Weiterlesen
 
-- [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
 - [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 

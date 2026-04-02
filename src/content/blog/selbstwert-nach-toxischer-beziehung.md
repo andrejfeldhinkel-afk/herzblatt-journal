@@ -27,19 +27,13 @@ Du schaust dich im Spiegel an und erkennst dich nicht.
 
 Die Person die zurückschaut sieht schwach aus. Dumm. Unwertig. Du fragst dich: "Wie könnte ich das erlauben? Wie bin ich SO blind gewesen?"
 
-Zwei Jahre, fünf Jahre, oder zehn Jahre — egal wie lange du in dieser [beziehung](/blog/adhs-und-beziehung-komplett-guide/) warst. Jetzt dass es vorbei ist, merkst du: Dein Selbstwert ist nicht nur nieder. Er ist unterirdisch.
-
-Dein toxischer Partner hat dich nicht nur emotional verletzt. Er hat dir systematisch beigebracht dir selbst nicht zu vertrauen.
-
-Und jetzt, nach der [Trennung](/blog/trennung-verarbeiten-12-schritte), merkst du: Der Schmerz der Trennung ist real. Aber der größere Schmerz ist das Misstrauen zu dir selbst.
+Zwei Jahre, fünf Jahre, oder zehn Jahre — egal wie lange du in dieser [Trennung](/blog/trennung-verarbeiten-12-schritte), merkst du: Der Schmerz der Trennung ist real. Aber der größere Schmerz ist das Misstrauen zu dir selbst.
 
 Das ist das tiefste Trauma einer toxischen Beziehung: Nicht dass jemand anderes dich verletzt hat. Sondern dass du dir selbst nicht mehr vertraust.
 
 ## Was macht eine Beziehung toxisch?
 
-Bevor wir über [heilung](/blog/aengstlicher-bindungsstil-heilen/) sprechen müssen wir verstehen: Was war giftig?
-
-Eine [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) ist nicht einfach "unhappy." Eine unhappy Beziehung ist wenn zwei gut gemeinte Menschen nicht kompatibel sind.
+Bevor wir über [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) ist nicht einfach "unhappy." Eine unhappy Beziehung ist wenn zwei gut gemeinte Menschen nicht kompatibel sind.
 
 Eine toxische Beziehung ist wenn einer (oder beide) systematisch den anderen untergräbt. Absichtlich.
 

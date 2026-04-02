@@ -29,7 +29,7 @@ faq:
     answer: "Ja — Studien zeigen dass 70% der Paare in Therapie signifikante Verbesserungen erleben. Der Schlüssel ist, nicht zu lange zu warten. Je früher ihr professionelle Hilfe sucht, desto besser die Prognose."
 ---
 
-Deine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) steht am Rande. Ihr redet kaum noch miteinander, und wenn, werden aus Gesprächen Kämpfe. Du fragst dich jeden Morgen, ob heute der Tag ist, an dem alles vorbei ist. Das Vertrauen ist ramponiert, die Nähe ist weg, und selbst die guten Momente fühlen sich erzwungen an. **Eine [Beziehung retten](/blog/beziehung-retten-kompletter-guide)** ist möglich — aber es ist nicht die romantische Hollywood-Version, die du vielleicht erwartest. Es ist harte, ehrliche, tägliche Arbeit.
+Deine [Beziehung retten](/blog/beziehung-retten-kompletter-guide)** ist möglich — aber es ist nicht die romantische Hollywood-Version, die du vielleicht erwartest. Es ist harte, ehrliche, tägliche Arbeit.
 
 Dieser Guide ist für Menschen wie dich. Menschen, die nicht aufgeben wollen, aber auch nicht naiv hoffen. Menschen, die bereit sind, sich selbst ehrlich anzuschauen und echte Veränderung zu leisten. Nicht um jeden Preis, sondern weil es sich lohnt.
 
@@ -707,7 +707,7 @@ Das ist nicht die Illusion der Schmetterlinge. Das ist echte, grounded, täglich
 
 Und das ist das Zeug, aus dem langfristige Glück gemacht ist.
 
-Lese auch: Beziehung Kommunikation verbessern, [Vertrauen aufbauen in der Beziehung](/blog/vertrauen-aufbauen-beziehung), [Toxische Dating-Muster durchbrechen](/blog/toxische-dating-muster-durchbrechen)
+Lese auch: Beziehung Kommunikation verbessern, [Toxische Dating-Muster durchbrechen](/blog/toxische-dating-muster-durchbrechen)
 
 ### Die 5 Fragen die du dir ehrlich beantworten musst
 

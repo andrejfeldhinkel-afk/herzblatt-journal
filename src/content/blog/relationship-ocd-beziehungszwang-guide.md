@@ -1,5 +1,5 @@
 ---
-title: "Relationship OCD: Wenn Zwangsgedanken deine Beziehung sabotieren"
+title: "Relationship OCD: Wenn Zwangsgedanken deine Beziehung sab..."
 description: "Relationship OCD verstehen: Lerne, wie Zwangsgedanken Beziehungen sabotieren, und erfahre konkrete Strategien gegen die Gedankenschleife."
 date: 2026-03-29
 tags:
@@ -258,4 +258,4 @@ Du verdienst, deine Beziehung zu genießen, ohne dass dein Gehirn dich mit Zweif
 
 ---
 
-**Verwandte Artikel:** Lerne auch über [Vertrauensaufbau in Beziehungen](/vertrauen-beziehung-guide/) und wie du [Kommunikation mit deinem Partner verbessern](/beziehung-kommunikation/) kannst.
+**Verwandte Artikel:** Lerne auch über [Vertrauensaufbau in Beziehungen](/blog/erste-beziehung-tipps-guide) und wie du [Kommunikation mit deinem Partner verbessern](/blog/beziehung-offene-kommunikation) kannst.

@@ -1,5 +1,5 @@
 ---
-title: "Beziehung & Depression: Wenn der Partner depressiv ist (2026)"
+title: "Beziehung & Depression: Wenn der Partner depressiv ist"
 description: "So unterstützt du einen depressiven Partner: Grenzen setzen, Selbstfürsorge praktizieren, gemeinsam durch die Krise gehen."
 date: 2026-04-01
 image: "/images/blog/beziehung-depression-partner.webp"
@@ -133,6 +133,5 @@ Beides ist notwendig.
 ## Interne Links zu verwandten Inhalten
 
 Wenn du mit einem depressiven Partner kämpfst, könnten auch diese Artikel helfen:
-- [Mentale Gesundheit in Beziehungen: Wie man seine Grenzen schützt](/blog/mentale-gesundheit-grenzen)
-- [Burnout in Beziehungen: Wenn geben alles nimmt](/blog/beziehungs-burnout)
-- [Kommunikation mit einem depressiven Partner: Was funktioniert wirklich](/blog/kommunikation-depression)
+- [Burnout in Beziehungen: Wenn geben alles nimmt](/blog/beziehung-nach-burnout)
+- [Kommunikation mit einem depressiven Partner: Was funktioniert wirklich](/blog/kommunikation-beziehung)

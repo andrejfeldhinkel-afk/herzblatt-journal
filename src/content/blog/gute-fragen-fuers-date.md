@@ -1,5 +1,5 @@
 ---
-title: "Gute Fragen fürs Date: Tiefe Gespräche starten, echte Verbindung aufbauen"
+title: "Gute Fragen fürs Date: Tiefe Gespräche starten, echte Ver..."
 description: "Lerne die besten Fragen für dein Date, um echte Verbindung zu schaffen statt oberflächliches Smalltalk. Mit praktischen Beispielen."
 date: 2026-04-02
 tags: [dating, gespraeche, erste-treffen, beziehungen, verbindung]
@@ -185,6 +185,5 @@ Mit diesen Grundlagen wirst du Daten haben, die echte Verbindung haben, nicht nu
 Und wer weiß? Vielleicht führen diese echten Gespräche zu echten Beziehungen.
 
 **Weitere hilfreiche Artikel:**
-- [Schwarm ansprechen – Mit Mut und Authentizität](/blog/schwarm-ansprechen-tipps)
 - [Frisch verliebt – Die Phase genießen](/blog/frisch-verliebt-phase-geniessen)
 - [Verliebt in Kollegen – Was du wissen musst](/blog/verliebt-in-kollegen-was-tun)

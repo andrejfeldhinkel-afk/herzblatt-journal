@@ -1,5 +1,5 @@
 ---
-title: "Anmachsprüche die funktionieren: 40 Opener für jede Situation (2026)"
+title: "Anmachsprüche die funktionieren"
 description: "40+ funktionierende Anmachsprüche & Eröffnungszeilen für Dating-Apps und echtes Leben. Kurz, witzig und authentisch"
 date: 2026-04-01
 image: "/images/blog/anmachsprueche-die-funktionieren.webp"
@@ -205,4 +205,4 @@ Viel Erfolg beim Flirten.
 
 ---
 
-**Möchtest du mehr über [Online Dating für Männer](/blog/online-dating-tipps-maenner) oder [Sound Relationship House](/blog/gottman-sound-relationship-house) erfahren?**
+**Möchtest du mehr über [Sound Relationship House](/blog/gottman-sound-relationship-house) erfahren?**

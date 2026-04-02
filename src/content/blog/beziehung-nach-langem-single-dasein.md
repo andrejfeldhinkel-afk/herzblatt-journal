@@ -1,5 +1,5 @@
 ---
-title: "Beziehung nach langer Single-Zeit: Von der Unabhängigkeit zur Partnerschaft"
+title: "Beziehung nach langer Single-Zeit"
 description: "Wie du dich nach langer Single-Zeit wieder in einer Beziehung zurechtfindest. Tipps zur Balance zwischen Unabhängigkeit und Partnerschaft."
 keywords: ["beziehung nach langer single-zeit", "beziehung", "beziehung nach", "nach langer", "langer single-zeit:", "single-zeit: unabhängigkeit"]
 date: 2025-12-23

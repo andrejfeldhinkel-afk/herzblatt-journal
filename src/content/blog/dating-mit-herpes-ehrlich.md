@@ -99,7 +99,7 @@ Viertens: Kommunikiere mit deinem Partner. Wenn die Läsionen verheilt sind, eri
 
 Fünftens: Sei offen, aber nicht obsessiv. Nicht jeder Orgasmus oder Menstruationszyklus ist ein Herpes-Ausbruch. Nicht jedes kleine Jucken bedeutet, dass du infektiös bist. Wenn du dich obsessiv auf Herpes konzentrierst, wird dein Sexualleben inhibiert statt befreit.
 
-## [sti-beziehung](/blog/sti-beziehung/): Die langfristige Beziehung mit Herpes
+## [sti-beziehung](/blog/dating-mit-herpes-ehrlich): Die langfristige Beziehung mit Herpes
 
 Was passiert, wenn dieses Dating zu einer echten, langfristigen Beziehung wird? Wie verändert sich die Dynamik?
 

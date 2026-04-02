@@ -333,12 +333,7 @@ Das ist das Beste was du tun kannst: Dein eigenes Leben zurück.
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
 - [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
 - [Beziehung aufbauen nach einer Depression: Hoffnung vorwärts](/blog/beziehung-nach-depression/)
-- [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
-## FAQ
-
-**Was sind Mommy Issues bei Männern?**
-
-Beziehungsmuster die durch eine überinvolvierte, narzisstische oder emotional abwesende Mutter entstanden sind. Sie zeigen sich als [Bindungsangst](/blog/bindungsangst-komplett-guide), übermäßige Abhängigkeit von Frauen oder emotionale Unreife.
+- [Bindungsangst](/blog/bindungsangst-komplett-guide), übermäßige Abhängigkeit von Frauen oder emotionale Unreife.
 
 **Wie erkenne ich Mommy Issues bei meinem Partner?**
 

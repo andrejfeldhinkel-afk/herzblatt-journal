@@ -745,11 +745,11 @@ Der erste Schritt ist zu erkennen, wo ihr seid. Du hast das gerade getan, indem 
 
 ## Weiterführende Ressourcen
 
-- [Richtig streiten in der Beziehung](/richtig-streiten-beziehung)
-- [Konfliktlösung in Beziehungen](/konfliktloesung-in-beziehungen)
-- [Gottman Vier Apokalyptische Reiter](/gottman-vier-apokalyptische-reiter)
-- [Stonewalling in der Beziehung](/stonewalling-beziehung)
-- [Kommunikation in der Beziehung](/kommunikation-beziehung)
+- [Richtig streiten in der Beziehung](/blog/richtig-streiten-beziehung)
+- [Konfliktlösung in Beziehungen](/blog/konfliktloesung-in-beziehungen)
+- [Gottman Vier Apokalyptische Reiter](/blog/gottman-vier-apokalyptische-reiter)
+- [Stonewalling in der Beziehung](/blog/stonewalling-beziehung)
+- [Kommunikation in der Beziehung](/blog/kommunikation-beziehung)
 ## Weiterlesen
 
 - [Erwartungen in der Beziehung: Wann sie helfen — und wann sie](/blog/erwartungen-in-der-beziehung/)

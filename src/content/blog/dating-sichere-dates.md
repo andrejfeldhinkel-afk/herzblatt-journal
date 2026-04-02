@@ -225,7 +225,6 @@ Das ist nicht unhöflich. Das ist Selbstliebe.
 
 ## Weiterlesen
 
-- [After-Work Dates – Perfekt für Berufstätige](/blog/dating-after-work-dates)
 - [Virtuelle Dates : Guide für Video-Dating und](/blog/virtuelle-dates-video-dating)
 - [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
 

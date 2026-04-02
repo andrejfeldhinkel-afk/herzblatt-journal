@@ -67,35 +67,7 @@ Es gibt auch ein Gasthaus oben, falls ihr was trinken möchtet.
 
 ### Dating-Apps
 
-[bumble](/blog/beste-dating-apps-2026/): Besonders gut in Freiburg. Die Stadt hat viele progressive, gebildete Menschen.
-
-Dein Profil sollte zeigen, dass Du Natur magst. Das ist wichtig in Freiburg. „Ich liebe Wandern und Nachhaltigkeit" ist besser als „Ich bin lustig."
-
-Sei authentisch. Freiburg hat einen hohen Standard für Authentizität.
-
-Eine gute Bio: „Wochenenden in den Schwarzwald, Wochentage in der Stadt. Nachhaltigkeit ist mir wichtig."
-
-### Lokale Bars und Cafés
-
-Freiburg hat eine junge, studentische Kultur. Es gibt viele Cafés und Bars.
-
-Das Quartier Altstadt hat die beste Energie. Jung, quirky, nicht touristisch.
-
-Es gibt auch Biergärten, die sind im Sommer sehr lebendig.
-
-Das Lorettogelände ist auch cool – ein alternatives Künstler-Viertel.
-
-### Yoga-Klassen, Lauf-Gruppen
-
-Freiburg hat eine aktive Szene. Yoga, Laufen, Klettern. Das sind gute Orte zum Treffen von Menschen mit ähnlichen Werten.
-
-Die Szene ist offen und freundlich.
-
-Es gibt viele Sportclubs, die regelmäßig trainieren.
-
-### Events
-
-Kunstfestivale, Musik-Events, Märkte. Freiburg ist lebendig. Das sind gute Orte zum [Kennenlernen](/blog/dating-fragen-kennenlernen).
+[Kennenlernen](/blog/dating-fragen-kennenlernen).
 
 Die Uni veranstaltet viele Events.
 

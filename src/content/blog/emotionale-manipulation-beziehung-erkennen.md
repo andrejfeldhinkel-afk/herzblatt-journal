@@ -61,29 +61,7 @@ Die Psychologin Harriet Braker nennt es den "Trauma-Bond." Ein Trauma-Bond ist e
 
 Hier ist wie es funktioniert:
 
-1. Das Honeymoon-Phase: Der Partner ist perfekt. Du bist [verliebt](/blog/mann-verliebt-anzeichen-komplett). Dein Gehirn schüttet Oxytocin (das "Liebes-Hormon") aus.
-
-2. Die Zergliederungs-Phase: Der Partner manipuliert, kritisiert oder verletzt dich. Stress-Hormone werden freigesetzt. Dein Körper ist in Angst.
-
-3. Die Versöhnungs-Phase: Der Partner entschuldigt sich, gibt dir Aufmerksamkeit, ist liebevoll. Oxytocin fließt wieder. Relief kommt. Dein Körper ist verwirrt, aber erleichtert.
-
-4. Wiederholung: Der Zyklus beginnt wieder.
-
-Dieser zyklische Zerlüftung und Versöhnung erzeugt eine intensiv emotionale Bindung. Es ist wie eine emotionale Achterbahn. Dein Körper wird abhängig von der Erleichterung der Versöhnung.
-
-Das ist, warum Manipulation so wirksam ist. Der Manipulator weiß genau, wie man diese Zyklen erzeugt.
-
-Du könntest objektiv sehen, "das ist nicht gut für mich," aber emotional, bist du gebunden. Das ist nicht Schwäche. Das ist Neurochemie.
-
-Dies ist auch, warum das Verlassen schwer ist. Du bist nicht nur eine Person verlassend. Du bist von einer psychologischen Bindung weggehen, die dein Gehirn mit Belohnung assoziert.
-
-Dies zu verstehen, ist hilfreich, wenn du versuchst zu verlassen oder dir zu fragen, warum du nicht verlässt.
-
-## Die 15 häufigsten Manipulationstechniken
-
-Hier sind die Techniken, die Manipulatoren verwenden. Sie sind subtil. Sie sind effektiv. Und viele Menschen kennen sie nicht einmal, wenn sie ihnen passieren.
-
-**1. [Gaslighting](/blog/gaslighting-komplett-guide)**
+1. Das Honeymoon-Phase: Der Partner ist perfekt. Du bist [Gaslighting](/blog/gaslighting-komplett-guide)**
 
 Das ist vielleicht die destructivste. Gaslighting ist, wenn jemand dich dazu bringt, deine Realität zu zweifeln.
 
@@ -97,27 +75,7 @@ Du fängst an zu zweifeln. War ich falsch? War es 11 oder 2? Du kennst die Antwo
 
 Das ist psychologisch verheerend, weil es dein Vertrauen in deine eigene Wahrnehmung zerstört.
 
-**2. [Silent Treatment](/blog/silent-treatment-beziehung)**
-
-Der Partner spricht nicht mit dir. Tage, Wochen. Es ist eine Bestrafung für etwas, das du getan hast (oder was er denkt, du hast).
-
-Du fragst "Was ist falsch?"
-
-Er antwortet nicht.
-
-Dies ist emotional verheerend, weil menschliche Verbindung fundamental ist. Plötzliche emotionale Entfernung fühlt sich wie Verlassenheit an.
-
-**3. Schuld Umkehrung**
-
-Du beschwerst dich, und plötzlich bist du der Täter.
-
-Du: "Du hast mich letzte Woche beleidigt."
-
-Ihr: "Wirklich? Und wie oft hast du mich beleidigt? Du bist so kritisch."
-
-Deine ursprüngliche Beschwerde wird umgekehrt. Jetzt musst du dich verteidigen, statt dass er sich deiner Beschwerde stellt.
-
-**4. [Love Bombing](/blog/love-bombing-erkennen-schuetzen)**
+**2. [Love Bombing](/blog/love-bombing-erkennen-schuetzen)**
 
 Der Partner überschüttet dich mit Aufmerksamkeit, Geschenken, Komplimenten — alles übertrieben und überwältigend.
 

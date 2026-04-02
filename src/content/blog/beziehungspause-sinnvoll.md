@@ -28,17 +28,9 @@ faq:
 
 ## Beziehungspause: Sinnvoll oder Anfang vom Ende?
 
-Du sitzt mit deinem Partner auf der Couch und einer von euch sagt es: "Ich denke, wir sollten eine Pause machen." Dein Herz sinkt. Das ist eines der gefährlichsten Sätze in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/), nicht weil es [Trennung](/blog/trennung-verarbeiten-12-schritte) bedeutet, sondern weil es so mehrdeutig ist. Was bedeutet das? Wie lange? Darf ich mit anderen Leuten ausgehen? Ist das einfach eine verzögerte Trennung?
+Du sitzt mit deinem Partner auf der Couch und einer von euch sagt es: "Ich denke, wir sollten eine Pause machen." Dein Herz sinkt. Das ist eines der gefährlichsten Sätze in einer [Trennung](/blog/trennung-verarbeiten-12-schritte) bedeutet, sondern weil es so mehrdeutig ist. Was bedeutet das? Wie lange? Darf ich mit anderen Leuten ausgehen? Ist das einfach eine verzögerte Trennung?
 
-Das Problem mit "Beziehungspause" ist, dass die meisten Paare sie völlig falsch machen. Sie gehen auf eine Pause, ohne klare Regeln oder einen klaren Plan, und alles wird schlimmer. Aber wenn du Beziehungspause richtig machst, kann sie wirklich die Krise sein, die eure [Beziehung retten](/blog/beziehung-retten-kompletter-guide) kann – oder wenigstens dir helfen, kluge Entscheidungen zu treffen.
-
-Lass mich dir sagen, was eine Beziehungspause wirklich ist, wie du sie richtig machst, und wann es wirklich nur ein verzögertes Ende ist.
-
-## Was ist eine Beziehungspause wirklich?
-
-Eine echte Beziehungspause ist nicht einfach "wir sehen uns nicht für eine Weile". Das ist zu vage. Eine echte Beziehungspause ist ein strukturiertes Arrangement, in dem zwei Menschen in einer Beziehung bewusst entscheiden, für eine definierte Zeit separiert zu leben und zu arbeiten, während sie entscheiden, ob die Beziehung weitergehen soll.
-
-Das Wichtigste ist: Das ist nicht eine Trennung, auch nicht eine "[offene Beziehung](/blog/offene-beziehung-regeln-guide)". Das ist eine aktive Pause mit einem Ziel. Das Ziel ist normalerweise: "Wir müssen klare Köpfe bekommen und entscheiden, ob wir weitermachen wollen" oder "Wir müssen an unseren Problemen arbeiten, und wir können das nicht tun, wenn wir zusammen sind".
+Das Problem mit "Beziehungspause" ist, dass die meisten Paare sie völlig falsch machen. Sie gehen auf eine Pause, ohne klare Regeln oder einen klaren Plan, und alles wird schlimmer. Aber wenn du Beziehungspause richtig machst, kann sie wirklich die Krise sein, die eure [offene Beziehung](/blog/offene-beziehung-regeln-guide)". Das ist eine aktive Pause mit einem Ziel. Das Ziel ist normalerweise: "Wir müssen klare Köpfe bekommen und entscheiden, ob wir weitermachen wollen" oder "Wir müssen an unseren Problemen arbeiten, und wir können das nicht tun, wenn wir zusammen sind".
 
 Es gibt verschiedene Arten von Beziehungspausen. Es gibt die "räumliche Pause" – ihr lebt getrennt, habt keinen Kontakt, arbeitet an euch selbst. Es gibt die "emotionale Pause" – ihr lebt zusammen, aber habt wenig Kontakt und arbeitet separat. Es gibt die "freizeitliche Pause" – ihr seid nicht zusammen, aber ihr seid noch zusammen.
 

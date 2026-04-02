@@ -171,7 +171,7 @@ Weitere Informationen findest du bei Bundesamt für Sicherheit in der Informatio
 2. **Nächste Woche**: Ändere dein Profil oder deine Strategie basierend darauf.
 3. **Fortlaufend**: Beobachte, welche Änderungen bessere Ergebnisse bringen.
 
-Für tieferen Guide zur Optimierung deiner Online-Dating-Strategie, schau unseren [Online-Dating-Guide](/online-dating-guide).
+Für tieferen Guide zur Optimierung deiner Online-Dating-Strategie, schau unseren [Online-Dating-Guide](/blog/online-dating-frauen-guide).
 
 ## Weiterlesen
 

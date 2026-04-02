@@ -54,17 +54,7 @@ Dann ist da noch das **Social-Media-Throning**. Dein Partner postet ständig von
 
 Ein anderes Phänomen ist das **Ascend-Throning**. Hier nutzt jemand dich buchstäblich, um in einer sozialen Hierarchie aufzusteigen. Du hast wichtige Kontakte, kommst aus einer wohlhabenden oder einflussreichen Familie, oder hast beruflich etwas erreicht, das sie bewundert. Sie können nicht mit dir sein, ohne ständig zu erwähnen, wer deine Freunde sind oder in welche Kreise du sie einführen kannst. Du bist der Schlüssel zu ihrer zukünftigen Karriere oder ihrem zukünftigen sozialen Netzwerk.
 
-Schließlich gibt es das **Performance-Throning**, bei dem es gar nicht um deine echten Qualitäten geht, sondern um die Rolle, die du spielst. Du bist die „erfolgreiche Partnerin", der „gutaussehende Partner", die „beneidenswerte [beziehung](/blog/adhs-und-beziehung-komplett-guide/)". Diese Rollen müssen ständig aufrechterhalten werden. Es gibt keinen Raum für Schwäche, Verletzlichkeit oder Authentizität.
-
-## Die psychologie dahinter: Was treibt den Throner an?
-
-Um Throning wirklich zu verstehen, müssen wir in die Psyche desjenigen schauen, der das tut. Es geht hier nicht um Oberflächlichkeit allein. Es geht um tiefere emotionale Defizite.
-
-Viele Throner haben ein fragiles Selbstvertrauen. Sie wissen nicht wirklich, wer sie sind, außer durch externe Validierung. Ihr Selbstwertgefühl ist wie ein Haus, das auf Sand gebaut ist. Es braucht ständige Bestätigung von außen, um nicht zusammenzufallen. Wenn sie dich als Statussymbol einsetzen, boosten sie ihr eigenes Ego. Dein Erfolg, dein Aussehen, dein Sozialprestige wird zu ihrem Erfolg, Aussehen und Prestige gemacht.
-
-Das ist auch ein Zeichen von Narzissmus. Nicht alle Throner sind Narzissten, aber viele narcissistische Merkmale findet man bei ihnen: das Bedürfnis nach Bewunderung, mangelnde Empathie, Instrumentalisierung anderer Menschen für eigene Ziele, ein aufgeblasenes Ego, das fragil ist.
-
-Einige Throner haben auch [Bindungsangst](/blog/bindungsangst-komplett-guide). Wenn du emotional nahe wirst, greifen sie zu einem Abwehrmechanismus: Distanz. Indem sie dich als Objekt behandeln und nicht als Mensch, halten sie dich auf Distanz. Sie wollen die Vorteile einer Beziehung (Status, Attraktion, Bestätigung), ohne die Verletzlichkeit echter Nähe zu riskieren.
+Schließlich gibt es das **Performance-Throning**, bei dem es gar nicht um deine echten Qualitäten geht, sondern um die Rolle, die du spielst. Du bist die „erfolgreiche Partnerin", der „gutaussehende Partner", die „beneidenswerte [Bindungsangst](/blog/bindungsangst-komplett-guide). Wenn du emotional nahe wirst, greifen sie zu einem Abwehrmechanismus: Distanz. Indem sie dich als Objekt behandeln und nicht als Mensch, halten sie dich auf Distanz. Sie wollen die Vorteile einer Beziehung (Status, Attraktion, Bestätigung), ohne die Verletzlichkeit echter Nähe zu riskieren.
 
 Dann gibt es Throner, die in Umgebungen aufgewachsen sind, wo bedingungslose Liebe nicht existierte. Liebe war immer transaktional: Du wurdest geliebt, wenn du funktioniertest, aussahst wie erwartet oder die Familie repräsentiertest. Das ist alles, was sie kennen.
 

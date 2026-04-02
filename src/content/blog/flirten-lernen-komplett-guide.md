@@ -89,35 +89,7 @@ Deine Aufgabe diese Woche: Übe Banter mit Fremden. Wenn ein Barista dir sagt, d
 
 ## Die Macht des Kompliments beim Flirten
 
-[Komplimente](/blog/komplimente-fuer-maenner) sind eines der mächtigsten Werkzeuge beim Flirten, aber viele Menschen nutzen sie falsch. Das größte Fehler ist, oberflächliche oder manipulative Komplimente zu geben. "Du hast schöne Augen" ist nicht besonders kreativ oder bedeutend.
-
-Gute Komplimente sind spezifisch, authentisch und beobachten Details, die die Person selbst gewählt hat. Statt "Du bist hübsch", sag "Die Farbe deines Pullovers bringt deine Augen zum Leuchten" oder "Der Weg, wie du über deine Leidenschaft sprichst, ist anziehend". Diese Komplimente zeigen, dass du die Person wirklich beobachtest.
-
-Ein anderer wichtiger Punkt: Gib Komplimente für die Person, nicht für deine Agenda. Wenn du ein Kompliment gibst und es wird nicht erwidert, nimm es nicht persönlich. Der Sinn eines echten Kompliments ist nicht, etwas im Gegenzug zu bekommen – es ist einfach, eine positive Emotion in der anderen Person zu schaffen.
-
-Diese Woche, übe, mindestens ein echtes, spezifisches Kompliment pro Tag zu geben. Es muss nicht romantisch sein – es kann für jeden sein. Dies wird dir helfen, deine "Kompliment-Muskeln" zu entwickeln, damit du sie später beim Flirten nutzen kannst.
-
-## Woche 4: Online Flirten meistern
-
-Online Flirten ist eine separate Fähigkeit. Die Dynamiken sind anders – du hast mehr Zeit zu denken, aber weniger Körpersprachensignale. Dies Woche konzentriere dich darauf, online zu flirten.
-
-Das erste Prinzip: Sei witzig, aber nicht übertrieben. Ein gutes Öffnungs-Profil ist etwas wie "Ich sehe, du liebst Wandern – bist du auch bereit für den Abstieg, oder brauchst du nur Tragetieren?" Dies zeigt Humor, Aufmerksamkeit und Interesse. Vermeide langweilig generische Öffnungen wie "Hey, wie geht es dir?"
-
-Das zweite Prinzip: Sei authentisch. Viele Menschen versuchen, online jemand zu sein, der sie nicht sind. Dies führt zu Enttäuschung, wenn ihr euch später persönlich trefft. Es ist besser, weniger Matches zu haben, die dich als echte Person mögen, als mehr Matches zu haben, die dich als eine Fassade mögen.
-
-Das dritte Prinzip: Halte Unterhaltungen kurz und führe schnell zu echten Treffen. Zu viel Texten vor einem Datum ist nicht notwendig – es führt zu Spannung und es ist einfacher, online zu "scheitern" als persönlich. Nach ein paar guten Austauschern, sag etwas wie "Ich wäre gerne persönlich mit dir sprechen – Lust auf Kaffee am Samstag?"
-
-Deine Aufgabe diese Woche: Wenn du auf Dating-Apps bist, versuche drei authentische Öffnungen zu senden und sehe, wie die Menschen reagieren. Bemerk, welche Art der Öffnung die besten Antwortquoten bekommt. Dies wird dir später helfen.
-
-## Lesen und Reagieren auf Signale
-
-Ein kritischer Aspekt des Flirtens ist, die Signale der anderen Person zu lesen. Zeigen sie Interesse? Sind sie genervt? Sind sie offen oder defensiv? Die Fähigkeit, diese zu lesen, wird dir helfen, dein Verhalten anzupassen.
-
-Einige Zeichen von positiven Flirt-Signalen: Sie lächeln viel. Sie lehnen sich zu dir hin. Sie halten Augenkontakt. Sie berühren deinen Arm oder deine Schulter. Sie stellen Fragen über dich. Sie merken Details, die du gesagt hast. Sie lachen bei deinen Witzen (auch wenn sie nicht besonders lustig sind).
-
-Einige Zeichen von negativen oder desinteressierten Signalen: Sie lehnen sich weg. Sie schauen auf ihr Telefon. Sie geben kurze Antworten ohne Gegenfragen. Sie berühren dich nicht. Sie unterbrechen oft dein Gespräch oder zeigen keine Reaktionen.
-
-Es ist wichtig zu verstehen: Wenn du negative Signale siehst, ist es nicht persönlich. Diese Person ist nicht in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett). Das ist ok. Es ist besser, dies früh zu erkennen und höflich weiterzumachen, als weiter zu pushen und sich selbst zu demütigen.
+[verliebt](/blog/mann-verliebt-anzeichen-komplett). Das ist ok. Es ist besser, dies früh zu erkennen und höflich weiterzumachen, als weiter zu pushen und sich selbst zu demütigen.
 
 Deine Aufgabe diese Woche: In jedem Gespräch, bemerk mindestens fünf Körpersprachsignale. Dies wird dir helfen, deine "Signal-Lesefähigkeit" zu entwickeln, die essentiell beim Flirten ist.
 

@@ -18,37 +18,7 @@ faq:
   - question: "Gibt es echte Fälle von Liebe auf den ersten Blick?"
     answer: "Es gibt Geschichten von Menschen, die sich sofort sicher waren, dass dieser Person wichtig ist. Aber meist bedeutete das 'Ich muss diese Person kennenlernen', nicht 'Ich bin in sie verliebt'. Die echte Liebe kam später, nach dem Kennenlernen."
 ---
-Hollywood hat uns belogen. In jedem Film gibt es diesen Moment: Die Augen treffen sich über eine belebte Straße. Die Welt verlangsamt sich. Musik spielt. Und BAM – sie sind unsterblich [verliebt](/blog/mann-verliebt-anzeichen-komplett).
-
-Das ist eine schöne Fantasie. Aber ist es real?
-
-## Was die Wissenschaft sagt
-
-Wissenschaftler haben untersucht, was während "Liebe auf den ersten Blick" passiert, und die Ergebnisse sind klar: Was du fühlst, ist nicht Liebe. Es ist intensive körperliche und emotionale Chemie.
-
-In den ersten Millisekunden der Begegnung verarbeitet dein Gehirn:
-- Aussehen und Körperbau
-- Duft und Pheromone
-- Körperhaltung und Energie
-- Stimme und Sprechweise
-
-Diese Informationen triggern eine Freisetzung von Hormonen – Adrenalin, Dopamin, Noradrenalin – die sich wie Liebe anfühlen. Aber das ist nicht Liebe. Das ist Lust. Das ist Anziehung.
-
-Echte Liebe erfordert Wissen. Du kannst nicht jemanden lieben, den du nicht kennst.
-
-## Das Gefühl von "Ich wusste es sofort"
-
-Viele Menschen sagen: "Ich wusste sofort, dass sie die eine war." Was sie wahrscheinlich meinen, ist: "Ich hatte sofort das Gefühl, dass ich diese Person besser kennenlernen musste."
-
-Das ist nicht dasselbe wie Liebe. Das ist Anziehung kombiniert mit Intuition. Und ja, das kann real und intensiv sein. Aber es ist nicht Liebe.
-
-Liebe auf den ersten Blick ist ein Widerspruch in sich. Die Definition von Liebe ist: tiefe emotionale Bindung, Verständnis, Vertrauen und gegenseitiges Wissen. Das kann nicht beim ersten Blick passieren.
-
-## Warum wollen wir an Liebe auf den ersten Blick glauben?
-
-Wir sind romantisch. Wir wollen denken, dass die Liebe magisch ist, dass sie nicht erklärbar ist, dass sie dich einfach überkommt.
-
-Die Wahrheit: Liebe ist weniger magisch, aber auch bedeutsamer. Sie wächst. Sie wird gebaut. Sie wird gestärkt durch gemeinsame Momente, Herausforderungen überwunden, tiefe Gespräche und gegenseitiges [Kennenlernen](/blog/dating-fragen-kennenlernen).
+Hollywood hat uns belogen. In jedem Film gibt es diesen Moment: Die Augen treffen sich über eine belebte Straße. Die Welt verlangsamt sich. Musik spielt. Und BAM – sie sind unsterblich [Kennenlernen](/blog/dating-fragen-kennenlernen).
 
 Das ist nicht weniger romantisch. Es ist einfach anders.
 

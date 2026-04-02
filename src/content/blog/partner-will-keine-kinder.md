@@ -58,41 +58,7 @@ Das kann sich ändern, wenn der Partner Hilfe bekommt und besser wird. Aber es �
 
 ### "Ich habe keine Liebe für Kinder"
 
-Es gibt Menschen, die einfach nicht diesen biologischen Drang haben, Kinder zu bekommen. Sie freuen sich auf andere Menschen Kinder, aber sie wollen selbst keine. Sie kriegen von Babys Kopfschmerzen. Kinder nerven sie. Das ist nicht falsch, das ist einfach ihre [persönlichkeit](/blog/beige-flags-dating-guide/).
-
-Für diese Menschen ändert sich die Meinung fast nie. Das ist kein "noch nicht bereit". Das ist ein fundamentales "das ist nicht für mich".
-
-### "Ich will meine Freiheit nicht aufgeben"
-
-Das ist eine ehrliche Antwort. Kinder sind wunderbar, aber sie bedeuten auch: weniger Spontaneität, weniger Karriere, weniger Geld für andere Träume. Manche Menschen sagen nein zu Kinder, weil sie ja sagen wollen zu anderen Dingen.
-
-Das ist nicht egoistisch. Das ist einfach eine andere Priorität. Und diese Priorität ändert sich selten.
-
-### "Ich habe eine schlechte Beziehung zu meinen eigenen Eltern und will das nicht wiederholen"
-
-Trauma ist real. Menschen, die von ihren Eltern verletzt wurden, fürchten sich manchmal davor, Eltern zu werden weil sie denken, dass sie die gleiche Verletzung wiederholen. Das kann sich ändern mit Therapie und wenn sie ihre Wunden heilen. Aber es ändert sich nicht, wenn sie das nicht aktiv tun.
-
-### "Ich will einfach nicht"
-
-Manchmal ist es so einfach. Nicht kompliziert, nicht eine Verletzung, nicht ein "noch nicht". Einfach: "Das ist nicht für mich und ich bin friedlich damit."
-
-Das sind die Menschen, die wahrscheinlich nicht ihre Meinung ändern werden.
-
-## Die unbequeme Wahrheit: Er/Sie könnte Kinder bekommen, aber will sie nicht
-
-Das ist wichtig auszusprechen, weil viele Menschen in dieser Situation die Geschichte umkehren: "Er/Sie ist zu egoistisch" oder "Er/Sie weiß nicht, was Liebe ist".
-
-Nein. Dein Partner will einfach keine Kinder. Und das ist ok. Das ist eine legitime Lebenswahrheit.
-
-Die andere Seite ist auch legitim: Du willst Kinder und das ist ok.
-
-Aber diese zwei OK's können nicht zusammenleben. Das ist die schwierige Wahrheit.
-
-## Was du absolut nicht tun solltest
-
-### Nicht auf die Hoffnung bauen dass sich die Meinung ändert
-
-Das ist der häufigste Fehler. Du denkst: "Wenn wir verheiratet sind, ändert er sich. Wenn wir [zusammenziehen](/blog/zusammenziehen-checkliste), ändert er sich. Wenn er/sie älter wird, ändert sie sich."
+Es gibt Menschen, die einfach nicht diesen biologischen Drang haben, Kinder zu bekommen. Sie freuen sich auf andere Menschen Kinder, aber sie wollen selbst keine. Sie kriegen von Babys Kopfschmerzen. Kinder nerven sie. Das ist nicht falsch, das ist einfach ihre [zusammenziehen](/blog/zusammenziehen-checkliste), ändert er sich. Wenn er/sie älter wird, ändert sie sich."
 
 Das ist Lügen, die du dir selbst erzählst. Menschen ändern ihre Grundmeinung zu Kinder nicht, weil Beziehungen sich vertiefen. Wenn überhaupt, werden sie noch mehr gegen Kinder weil sie das Leben ohne Kinder lieben.
 
@@ -204,7 +170,6 @@ Falls das der Fall ist, dann ist die Trennung not just about Kinder. Es ist abou
 
 ## Weiterlesen
 
-- [Wenn dein Partner keine eigenen Freunde hat](/blog/partner-hat-keine-freunde/)
 - [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)
 - [Emotional unerreichbarer Partner: Warum du an eine Wand](/blog/emotional-unerreichbarer-partner/)
 - [Partner idealisieren: Wenn Liebe zur Fantasie wird](/blog/idealisierung-partner/)

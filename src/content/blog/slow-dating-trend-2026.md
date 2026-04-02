@@ -21,25 +21,7 @@ faq:
 
 ## Was ist Slow Dating?
 
-Slow Dating ist ein bewusster, absichtlich verlangsamter Ansatz zum Daten und zur [beziehung](/blog/adhs-und-beziehung-komplett-guide/). Statt zu swipen, zu texten und schnell zu eskalieren, nimmst du dir Zeit.
-
-Die Prinzipien sind einfach:
-
-- **Weniger Dates, mehr Qualität:** Statt dreimal pro Woche zu daten, datierst du vielleicht einmal oder zweimal pro Woche. Aber jedes Date ist bedeutungsvoll.
-
-- **Weniger texten zwischen Dates:** Du schreibst nicht ständig. Es gibt Raum und Raum für beide. Wenn ihr euch seht, seid ihr wirklich präsent.
-
-- **Keine erzwungene Eskalation:** Du sprichst nicht nach zwei Wochen über "Beziehung machen". Du lässt es wachsen in seinem eigenen Tempo.
-
-- **Echte Kenntnis vor Nähe:** Du kennst die Person, bevor du dich emotional stark einbindest. Du weißt, ob ihr kompatibel seid.
-
-- **Bewusste Entscheidungen:** Du wählst nicht impulsiv. Du entscheidest bewusst, dass du diese Person sehen möchtest.
-
-## Warum ist Slow Dating 2026 ein Trend?
-
-Die letzten Jahre waren von App-Dating, Speed-Dating und schneller Eskalation geprägt. Viele Menschen sind ausgebrannt.
-
-Dating Fatigue, Swipe Fatigue, Beziehungs-Müdigkeit – das alles ist real. Menschen werden müde von der Illusion unendlicher Optionen, müde von oberflächlichem Matching, müde von schnellen [Ghosting](/blog/ghosting-komplett-guide)-Zyklen.
+Slow Dating ist ein bewusster, absichtlich verlangsamter Ansatz zum Daten und zur [Ghosting](/blog/ghosting-komplett-guide)-Zyklen.
 
 Slow Dating ist eine bewusste Ablehnung dessen. Es sagt: "Ich werde weniger daten, aber besser."
 

@@ -215,45 +215,6 @@ Wenn diese Person klar macht, dass kein Mund-Kuss erwünscht ist, sind diese Alt
 
 ## Die Statistik: Wie viele Menschen küssen beim ersten Date?
 
-Eine Studie der Dating-App [Hinge](/blog/hinge-guide-deutsch-2026) hat gezeigt, dass etwa 50% der Menschen auf einem ersten Date küssen. Das bedeutet, dass es kein absoluter Must-Have ist.
-
-Männer sind statistisch wahrscheinlicher, den Kuss zu initiieren. Frauen sind wahrscheinlicher, den Moment zu wählen. Aber das ändert sich – viele Frauen initiieren inzwischen den Kuss selbst.
-
-Die durchschnittliche Dauer eines ersten Kusses: 5 Sekunden. Länger als du wahrscheinlich dachtest, aber nicht so lang wie eine Filmszene.
-
-Das wichtigste Learning: Es ist völlig normal, NICHT zu küssen. Wenn das Date gut war und die Chemie stimmt, kann ein zweites Date ohne Kuss immer noch zu einem Kuss führen.
-
-## Was du danach sagen kannst
-
-Nach einem guten Kuss:
-
-- „Das war wirklich schön." (einfach und ehrlich)
-- „Wow." (manchmal reicht das)
-- Gar nichts sagen, sondern einfach lächeln
-- Gar nichts sagen, sondern einen weiteren Kuss geben
-
-Nicht zu viel reden. Ein Kuss spricht für sich.
-
-## FAQ: Häufige Fragen
-
-**F: Und wenn ich nervös bin und mein Atem riecht?**
-A: Mint oder Zahnseide vor dem Date. Aber sei dir bewusst, dass die meisten Menschen nicht so nah dran sind, um das zu riechen. Du bist wahrscheinlich paranoid. Atem beim Küssen ist normal.
-
-**F: Sollte ich fragen, bevor ich sie küsse?**
-A: Wenn ihr sich beiden nah seid und sich ansieht, brauchst du nicht fragen. Das ist klar. Wenn du unsicher bist, kannst du sagen: „Kann ich dich küssen?" Das ist nicht unsexy – es ist respektvoll.
-
-**F: Was wenn wir beide nervös sind und nichts passiert?**
-A: Das ist ok. Manchmal braucht es zwei Daten. Wenn ihr euch beide mögt, wird die nächste Gelegenheit besser sein.
-
-**F: Ist ein Kuss beim ersten Date zu schnell?**
-A: Das hängt von deiner Situation ab. Wenn das Date 4 Stunden dauert, die Chemie stimmt, und die Signale klar sind – nicht zu schnell. Wenn das Date 30 Minuten dauert – ja, wahrscheinlich zu schnell.
-
-**F: Und wenn ich ein Kuss-Fetischist bin und nur für den Kuss date?**
-A: Das ist eine ganz andere Dating-Strategie. Wir sprechen hier von der Realität des normalen Datings.
-
-## Weiterlesen
-
-- [Nervosität beim Date überwinden 2026: 8 sofort-Tipps](/blog/nervositaet-beim-date-ueberwinden)
-- [Der ultimative Date-Night Planer für Paare](/blog/beziehung-date-night-planer)
+Eine Studie der Dating-App [Nervosität beim Date überwinden 2026: 8 sofort-Tipps](/blog/nervositaet-beim-date-ueberwinden)
 - [Date absagen ohne schlechtes Gewissen](/blog/date-absagen-richtig)
 

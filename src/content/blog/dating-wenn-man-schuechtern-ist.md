@@ -164,17 +164,7 @@ Dieser Prozess geht nicht schneller für schüchterne Menschen. Aber er geht tie
 - [Dating mit Übergewicht: Selbstbewusst trotz Unsicherheit](/blog/dating-als-uebergewichtige/)
 - [Dating Fatigue: Wenn die Partnersuche nur noch erschöpft](/blog/dating-fatigue-was-hilft/)
 - [Dating nach 30 als Frau: Warum es besser wird als du denkst](/blog/dating-nach-30-als-frau/)
-- [Online-Dating Wiedereinstieg: So startest du nach einer](/blog/online-dating-wiedereinstieg-nach-pause/)
-## FAQ
-
-**Ist Schüchternheit ein Dating-Nachteil?**
-Nicht unbedingt. Viele Menschen finden Schüchternheit attraktiv — sie signalisiert Nachdenklichkeit und Tiefe. Das Problem ist nicht die Schüchternheit, sondern die Vermeidung.
-
-**Wie überwinde ich meine Angst vor dem ersten Date?**
-Wähle eine vertraute Umgebung, plane eine Aktivität (das lenkt ab), und erinnere dich: Dein Date ist wahrscheinlich genauso nervös. Kleine Schritte sind besser als gar keine.
-
-**Welche Dating-App ist gut für Schüchterne?**
-Bumble (Frauen machen den ersten Schritt) und Hinge (tiefere Profile statt Swipe-Marathon) sind gute Optionen. Das schriftliche [Kennenlernen](/blog/dating-fragen-kennenlernen) nimmt den Druck der ersten Sekunden.
+- [Kennenlernen](/blog/dating-fragen-kennenlernen) nimmt den Druck der ersten Sekunden.
 
 **Sollte ich meine Schüchternheit im Profil erwähnen?**
 Ja. Es braucht nicht zu sagen "Ich bin schüchtern und ängstlich". Aber etwas wie "Ich bin introvertiert und brauche Zeit um aufzutauen" ist ehrlich und reduziert die falsche Erwartungen.
@@ -185,5 +175,4 @@ Das ist okay. Manche Menschen sind ihr Leben lang schüchtern. Das heißt nicht,
 ---
 
 **Verwandte Artikel:**
-- [Was Frauen auf Dating-Apps sofort abturnt](/blog/was-frauen-auf-dating-apps-abturnt)
 - [Dating wenn man schüchtern ist: Praktische Strategien die funktionieren](/blog/dating-ohne-alkohol)

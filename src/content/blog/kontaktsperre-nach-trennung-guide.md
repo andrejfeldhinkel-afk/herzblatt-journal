@@ -200,9 +200,9 @@ Aber nicht sofort. Nicht "Lassen wir beste Freunde sein." Das braucht Zeit und e
 
 ## Weitere Ressourcen
 
-Für mehr über Heilung nach einer Trennung, lesen unseren Artikel über [die erste Beziehung nach einer Trennung](/blog/erste-beziehung-nach-trennung-tipps.md).
+Für mehr über Heilung nach einer Trennung, lesen unseren Artikel über [die erste Beziehung nach einer Trennung](/blog/erste-beziehung-nach-trennung-tipps).
 
-Wenn du hilf mit Kommunikation brauchst, schau [unseren Artikel über Schlussmachen](/blog/schlussmachen-richtig-beenden.md) an.
+Wenn du hilf mit Kommunikation brauchst, schau [unseren Artikel über Schlussmachen](/blog/schlussmachen-richtig-beenden) an.
 
 ## Fazit: Du wirst wieder ganz werden
 

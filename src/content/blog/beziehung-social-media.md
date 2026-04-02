@@ -205,13 +205,11 @@ Social Media-Eifersucht ist real und es ist ok, darüber verletzlich zu sein. Ab
 
 Wenn Social Media eine ernsthafte Spannung in eurer Beziehung ist, könnte ein Paartherapeut helfen.
 
-Aber wahrscheinlich, mit [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) und gegenseitigem Respekt, könnt ihr das hinkriegen.
-
-Für mehr über Vertrauen in Beziehungen, schau dir unseren Guide zu [vertrauen aufbauen in beziehungen](/blog/vertrauen-aufbauen-beziehung) an.
+Aber wahrscheinlich, mit [vertrauen aufbauen in beziehungen](/blog/vertrauen-aufbauen-beziehung) an.
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
 
 - [Social Media und Beziehung: Wie Instagram, TikTok und Co](/blog/beziehung-social-media-einfluss/)
 - [Digitale Eifersucht: Wenn Social Media die Beziehung](/blog/digitale-eifersucht/)

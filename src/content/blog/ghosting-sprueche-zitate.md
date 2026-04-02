@@ -1,5 +1,5 @@
 ---
-title: "Ghosting Sprüche: 30 Zitate über Schweigen & Loslassen (2026)"
+title: "Ghosting Sprüche: 30 Zitate über Schweigen & Loslassen"
 description: "Ghosting Sprüche und Zitate: 30+ kraftvolle Worte zum Verarbeiten von Ghosting, Loslassen und dem Weg nach vorne. Für dein Herz und deine Seele."
 date: 2026-04-01
 image: "/images/blog/ghosting-sprueche-zitate.webp"
@@ -205,4 +205,4 @@ Geh nach vorne. Du hast das verdient.
 
 ---
 
-Für tiefere Einsichten: [Wann wird Schweigen zu Ghosting?](/blog/ab-wann-ist-es-ghosting) Und [warum Ghoster manchmal zurückkommen](/blog/ghosting-taeter-kommen-zurueck) — und wie du damit umgehen solltest.
+Für tiefere Einsichten: [warum Ghoster manchmal zurückkommen](/blog/ghosting-taeter-kommen-zurueck) — und wie du damit umgehen solltest.

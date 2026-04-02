@@ -23,17 +23,7 @@ Zwei Monate später sitzt du mit einer Person zusammen, die dich regelmäßig kl
 
 Und du fragst dich: Wie bin ich hier gelandet? Warum habe ich das nicht früher erkannt?
 
-Die Antwort ist: Du hast die [Red Flags](/blog/dating-red-flags-maenner-erkennen) erkannt. Du hast sie nur ignoriert.
-
-Das ist das Häufigste in Dating. Nicht dass Menschen unwissend sind. Sondern dass sie wissen, dass etwas off ist, und dann trotzdem weitermachen.
-
-Das muss nicht sein. Es gibt Warnsignale beim ersten Date, die wirklich ernst zu nehmem sind. Und wenn du lernst, sie zu erkennen und zu respektieren, sparst du dir viel Schmerz.
-
-## Die psychologische Realität: Warum wir Red Flags ignorieren
-
-Bevor ich dir die Red Flags zeige, musst du verstehen, warum wir sie ignorieren.
-
-Es gibt ein psychologisches Phänomen, das "Confirmation Bias" heißt. Das heißt: Wenn du dich einmal in eine Person [verliebt](/blog/mann-verliebt-anzeichen-komplett) hast (auch wenn es erst eine Stunde ist), suchst du nach Beweisen, dass sie gut ist. Und du ignorierst Beweise, die dagegen sprechen.
+Die Antwort ist: Du hast die [verliebt](/blog/mann-verliebt-anzeichen-komplett) hast (auch wenn es erst eine Stunde ist), suchst du nach Beweisen, dass sie gut ist. Und du ignorierst Beweise, die dagegen sprechen.
 
 Die Person sagt etwas Kontrollarendes. Dein Gehirn sagt: "Das bedeutet wahrscheinlich nichts. Sie ist nur vorsichtig." Die Person ist unhöflich zu einem Kellner. Dein Gehirn sagt: "Sie ist wahrscheinlich gestresst. Das ist nicht ihr echtes Ich."
 

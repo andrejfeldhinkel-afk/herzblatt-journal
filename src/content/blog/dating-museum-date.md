@@ -227,7 +227,6 @@ Ein Museums-Date ist nicht für jeden – aber wenn es richtig gemacht wird, ist
 
 ## Weiterlesen
 
-- [In der Bar jemanden kennenlernen – Das komplette Guide ( )](/blog/dating-bar-kennenlernen)
 - [Dating als schüchterner Mann](/blog/dating-als-schuchterner-mann)
 - [Casual Dating vs. ernste Beziehung – Die richtige Wahl](/blog/dating-casual-vs-serious)
 

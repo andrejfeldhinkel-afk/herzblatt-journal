@@ -185,6 +185,6 @@ All das kostet nichts.
 
 Also wähle eine dieser 25 Ideen. Buche einen Termin. Und zeige deinem Partner: Die beste Nähe brauchst du nicht zu kaufen.
 
-Wenn du denkst, dass ein Budget hilfreich ist, aber du ein bisschen Geld hast, schau dir auch unsere [Winter-Dates](/blog/date-ideen-winter-romantisch) und [Sommer-Dates](/blog/date-ideen-sommer-outdoor) an — wo auch günstige Optionen enthalten sind.
+Wenn du denkst, dass ein Budget hilfreich ist, aber du ein bisschen Geld hast, schau dir auch unsere [Sommer-Dates](/blog/date-ideen-sommer-outdoor) an — wo auch günstige Optionen enthalten sind.
 
 Die Botschaft ist gleich: Liebe ist nicht teuer. Liebe ist da, wenn du aufpasst.

@@ -537,26 +537,7 @@ Das ist nicht schlecht. Das ist ehrlich.
 - [Schwierige Gespräche in der Beziehung führen](/blog/schwierige-gespraeche-beziehung/)
 - [Offene Kommunikation: So sagst du was du denkst](/blog/beziehung-offene-kommunikation/)
 - [Aktives Zuhören: Die Beziehungs-Superkraft](/blog/aktives-zuhoeren-partner/)
-- [Bedürfnisse kommunizieren ohne Vorwürfe](/blog/beduerfnisse-kommunizieren-beziehung/)
-## Häufig gestellte Fragen
-
-**Wie oft sollten wir Sex haben?**
-
-Nicht so oft wie Hollywood suggeriert. Die meisten Paare haben einmal bis zweimal pro Woche Sex.
-
-Nur ihr zwei könnt entscheiden, was richtig für euch ist.
-
-Die Frage ist nicht die Häufigkeit, sondern ob es sich für beide Menschen gut anfühlt.
-
-**Ist es normal, sich gelangweilt zu fühlen?**
-
-Ja. Die Verliebtheits-Phase dauert etwa zwei Jahre.
-
-Nach dieser Zeit kann sich die Beziehung weniger aufregend anfühlen. Das ist nicht schlecht. Es ist einfach anders.
-
-Der tiefe, stabile Liebe, die danach kommt, ist tatsächlich wertvoller.
-
-**Sollten wir [zusammenziehen](/blog/zusammenziehen-checkliste)?**
+- [zusammenziehen](/blog/zusammenziehen-checkliste)?**
 
 Es gibt keine universelle Antwort. Manche Paare sollten es tun, manche nicht.
 

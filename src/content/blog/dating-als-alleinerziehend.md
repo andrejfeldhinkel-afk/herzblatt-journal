@@ -37,63 +37,7 @@ Du hast nicht viel Zeit. Das ist okay. Sei ehrlich mit Dir: Willst Du regelmäß
 
 ### Bin ich bereit?
 
-Manchmal sind Alleinerziehende noch nicht emotional bereit. Es braucht Zeit, um von der letzten [beziehung](/blog/adhs-und-beziehung-komplett-guide/) zu heilen. Das ist kein Problem. Aber wenn Du datet, sei es bewusst.
-
-## Die praktischen Tipps
-
-### Sei ehrlich in Deinem Profil
-
-„Ich bin Alleinerziehende/r mit zwei Kindern" sollte in Deinem Profil stehen. Nicht versteckt, sondern klar.
-
-Das filtert Menschen, die damit nicht umgehen können. Das ist gut. Du willst nicht jemanden, der sich von Deinen Kindern bedroht fühlt.
-
-### Triff Dich ohne Deine Kinder
-
-Am Anfang, triff Dich ohne Deine Kinder. Nimm ein Babysitter oder Großeltern. Du brauchst Zeit, um diese Person kennen zu lernen, ohne ablenkungen.
-
-Deine Kinder sollten nicht Teil der frühen Dating-Phase sein.
-
-### Stelle keine unrealistischen Erwartungen
-
-Du brauchst jemanden, der versteht, dass Dein Kind krank werden kann und Du absagen musst. Der das respektiert, nicht bestraft.
-
-Du brauchst jemanden, der weiß, dass Familie-Time nicht verhandelbar ist.
-
-### Kommuniziere Grenzen klar
-
-Sag Deinem neuen Partner: „Sonntags sind Familientage. Mittwochs haben Meine Kinder Aktivitäten. Ich habe zwei Wochenenden pro Monat mit den Kindern."
-
-Ein partner, der keine Familie in sein Leben integrieren kann, ist nicht die richtige Wahl.
-
-### Vergiss nicht, um Deine Bedürfnisse
-
-Nur weil Du Alleinerziehende/r bist, bedeutet das nicht, dass Du auf Liebe verzichtest. Du brauchst Adult Time. Du brauchst Intimität. Du brauchst Aufmerksamkeit.
-
-Ein Partner sollte das verstehen und unterstützen.
-
-## Die emotionalen Seiten
-
-### Schuldgefühle
-
-Viele Alleinerziehende fühlen sich schuldig, wenn sie daten. „Bin ich eine schlechte Mutter/Vater, weil ich Zeit für jemanden brauche?"
-
-Nein. Du bist ein Mensch. Menschen brauchen Liebe. Deine Kinder brauchen zu sehen, dass Du glücklich bist. Das ist ein gutes Vorbild.
-
-### Die Angst, jemanden vorzustellen
-
-Wann stellt man jemanden vor? Es gibt keine perfekte Zeit. Aber: Stelle jemanden nur vor, wenn Du denkst, dass es ernstaft werden könnte.
-
-Nicht nach zwei Wochen. Nach einigen Monaten, wenn Du weißt, dass diese Person bleibt.
-
-### Die Angst, dass Deine Kinder nicht verstehen
-
-Kinder verstehen mehr als wir denken. Wenn es ein guter Mensch ist, werden Deine Kinder das sehen.
-
-Wenn es der Richtige ist, werden sie glücklich sein, dass Du glücklich bist.
-
-## Wo Du Menschen triffst
-
-Dating-Apps funktionieren für Alleinerziehende. Aber nutze Apps, die Tiefe erlauben. Bumble oder [Hinge](/blog/hinge-guide-deutsch-2026) sind besser als Tinder.
+Manchmal sind Alleinerziehende noch nicht emotional bereit. Es braucht Zeit, um von der letzten [Hinge](/blog/hinge-guide-deutsch-2026) sind besser als Tinder.
 
 Treffe Menschen durch Freunde. Manchmal ist der beste Match jemand aus Deinem Freundeskreis, der Deine Realität kennt.
 

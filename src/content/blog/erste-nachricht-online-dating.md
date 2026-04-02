@@ -127,32 +127,7 @@ Diese funktionieren, weil sie sofort ein Gespräch starten.
 **Warum es funktioniert**: Sie muss tatsächlich nachdenken und etwas Persönliches teilen — das schafft schnell Verbindung.
 
 **Beispiel 12 — Die Wert-Frage**:
-*"Was ist dir in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/) am wichtigsten: Lachen zusammen, das gleiche Weltbild, oder dass sich der andere in dich verliebt hat?"*
-
-**Warum es funktioniert**: Es ist eine bedeutungsvolle Frage, die das Gespräch auf eine tiefere Ebene zieht.
-
-### Kategorie 5: Direkt und Authentisch
-
-Manchmal ist einfach direkt und ehrlich am besten.
-
-**Beispiel 13 — Die ehrliche Bewunderung**:
-*"Ich fand dein Profil bemerkenswert — nicht nur wie du aussiehst, sondern wie authentisch du wirkst. Würde ich dich gerne kennenlernen."*
-
-**Warum es funktioniert**: Es ist direkt, ehrlich und zeigt echten Respekt. Nicht jede Frau erwartet so eine ehrliche Nachricht, und sie wird sich wertvoll fühlen.
-
-**Beispiel 14 — Die einfache Einladung**:
-*"Ich bin mir nicht sicher, wie das Online-Dating-Protokoll funktioniert, aber ich denke, wir sollten uns kennenlernen. Kaffee nächste Woche?"*
-
-**Warum es funktioniert**: Es ist direkt, selbstbewusst und schlägt konkrete nächste Schritte vor. Viele Menschen mögen diese Direktheit.
-
-**Beispiel 15 — Der Mut-Versuch**:
-*"Das ist wahrscheinlich eine dumme erste Nachricht, aber ich musste es versuchen: Du siehst aus wie jemand, mit dem ich gerne Zeit verbringen würde."*
-
-**Warum es funktioniert**: Verletzlichkeit ist attraktiv. Dies zeigt echten Mut und Authentizität.
-
-## Häufige Fehler beim Schreiben erster Nachrichten
-
-**Fehler 1: Zu viele [Komplimente](/blog/komplimente-fuer-maenner) zu Aussehen**
+*"Was ist dir in einer [Komplimente](/blog/komplimente-fuer-maenner) zu Aussehen**
 Der Fehler: "Du bist wunderschön! Deine Augen sind unglaublich! Du hast die beste Figur!"
 
 Hilfreiche Ressourcen findest du bei Bundesamt für Sicherheit in der Informationstechnik: [Bundesamt für Sicherheit in der Informationstechnik](https://www.bsi.bund.de/)
@@ -216,7 +191,7 @@ Denke daran:
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/aktives-zuhoeren-beziehung-ueben/) zu [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/beste-dating-apps-2026), [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich), [Dating für Introvertierte: Tipps zum Finden von Liebe ohne Stress](/blog/dating-introvertierte).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/beste-dating-apps-2026), [Dating für Introvertierte: Tipps zum Finden von Liebe ohne Stress](/blog/dating-introvertierte).## Weiterlesen
 
 - [So erstellst du ein Dating-Profil, das wirklich auffällt](/blog/online-dating-profil/)
 - [Erste-Date-Angst beim Online-Dating überwinden](/blog/online-dating-erste-date-angst/)

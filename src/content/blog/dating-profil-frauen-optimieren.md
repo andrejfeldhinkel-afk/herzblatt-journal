@@ -1,5 +1,5 @@
 ---
-title: "Dating-Profil für Frauen optimieren: Werde gesehen und gemocht"
+title: "Dating-Profil für Frauen optimieren"
 description: "Dating-Profil für Frauen optimieren — Praktische Dating-Ratschläge, die wirklich funktionieren. Von Experten empfohlen."
 keywords: ["dating-profil für frauen optimieren", "dating", "online dating", "dating apps", "partnersuche", "dating-profil frauen"]
 date: 2025-11-06

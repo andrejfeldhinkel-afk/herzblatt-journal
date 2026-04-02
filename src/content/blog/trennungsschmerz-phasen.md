@@ -13,63 +13,7 @@ tags:
 
 Eine [Trennung](/blog/trennung-verarbeiten-12-schritte) ist einer der schmerzhaftesten menschlichen Erfahrungen. Es spielt keine Rolle, ob du die Person warst, die ging, oder die Person, die verlassen wurde – Trennungsschmerz ist real und weitreichend. Dein Leben war strukturiert um diese Person, deine Zukunft war geplant mit ihr, und plötzlich ist sie weg. Das ist emotional, spirituell und sogar körperlich schmerzhaft.
 
-Die gute Nachricht ist: Es gibt eine Struktur zu diesem Schmerz. Es gibt Phasen, die dein Geist und deine Emotionen durchlaufen, wenn du eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) verarbeitest. Diese Phasen wurden zuerst von Elisabeth Kübler-Ross in ihrer Arbeit über Trauer beschrieben, aber sie gelten genauso für Trennungen. Wenn du diese Phasen verstehst, kannst du durch sie umgehen mit mit mehr Selbstmitgefühl und Verständnis.
-
-Dieser Guide wird dir zeigen, was jede Phase ist, was zu erwarten ist, wie lange es ungefähr dauert, und vor allem, wie du selbst mir dir umgehen kannst während jeder Phase. Denn die Heilung von einer Trennung ist nicht linear. Es gibt Rückfälle, es gibt schwere Tage, aber es gibt auch immer wieder Hoffnung.
-
-## Phase 1: Verleugnung – Das kann nicht passieren
-
-### Was ist Verleugnung?
-
-Verleugnung ist oft die erste Phase nach einer Trennung. Dein Verstand kann nicht verarbeiten, was gerade passiert ist. Die Person, an die du gedacht hast, mit der du eine Zukunft plantest, ist weg. Das ist zu viel zu schnell.
-
-Verleugnung ist dein psychologisches Schutzsystem. Es sagt dir: "Das ist nicht echt. Das ist ein Missverständnis. Wir können das reparieren. Das ist nur eine Pause."
-
-In dieser Phase kannst du dich selbst täuschen. Du imaginierst Szenarien, in denen die Person zurückkommt. "Vielleicht schreibt sie morgen." "Vielleicht hat er nur einen Moment der Schwäche." "Vielleicht war die Trennung nur eine Warnung, damit wir uns bessern."
-
-### Wie Verleugnung sich anfühlt
-
-Verleugnung fühlt sich surreal an. Du gehst durch die Bewegungen des Lebens, aber du weißt nicht, wie. Dein Körper ist da, aber dein Verstand ist woanders. Du könntest dich zum ersten Mal nach der Trennung auch numb anfühlen – nicht traurig, nicht wütend, nur... leer.
-
-Manche Menschen in dieser Phase funktionieren bemerkenswert gut. Sie gehen zur Arbeit, sie essen, sie schlafen. Aber es ist wie ein Roboter. Es ist nicht echtes Leben, es ist Überleben.
-
-### Wie lange dauert Verleugnung?
-
-Verleugnung dauert normalerweise ein paar Wochen bis zu ein paar Monaten. Es hängt ab von:
-- Wie lange die Beziehung war
-- Wie überraschend die Trennung war
-- Wie abhängig du von der Person warst
-- Deine Coping-Mechanismen
-
-Bei langfristigen Beziehungen oder unerwarteten Trennungen kann die Verleugnung länger anhalten.
-
-### Was hilft in der Verleugnung?
-
-1. **Akzeptiere, dass das echt passiert**: Der erste Schritt ist Realität-Check. Schreib dir die Tatsachen auf. "Sie hat gesagt, dass die Beziehung vorbei ist. Das ist real."
-
-2. **Vermeide Kontakt mit der Ex**: Das verstärkt die Verleugnung. Wenn du deiner Ex schreibst oder ihr anhängst, verlängerst du diese Phase.
-
-3. **Erzähl Freunden und Familie**: Wenn du es aussprichst, wird es realer und du wirst gezwungen, die Realität zu akzeptieren.
-
-4. **Mach eine Ritual der Trennung**: Gib ihrer Sachen zurück, oder packe deine Sachen in ihre Wohnung ein. Etwas, das die Trennung aktualisiert.
-
-5. **Schreib deine Gefühle auf**: Das hilft deinem Verstand zu verarbeiten.
-
-## Phase 2: Wut – Wie konnte die Person das tun?
-
-### Was ist Wut?
-
-Nach der Verleugnung kommt oft die Wut. Die Realität bricht durch und plötzlich bist du enorm wütend. Du bist wütend auf deine Ex. Du bist wütend auf dich selbst. Du bist wütend auf das Leben.
-
-Die Wut ist oft intensiver und schwächer als Trauer, weil sie aktiv ist. Während Trauer passiv ist ("Ich bin so traurig"), ist Wut aktiv ("Ich will es anders machen").
-
-Wut kann auch eine Schutzmechanismus sein. Es ist einfacher, wütend zu sein, als zuzugeben, dass dein Herz gebrochen ist.
-
-### Wie Wut sich anfühlt
-
-Du kannst kleine Dinge zu überreaktionen machen. Jemand parkt schlecht und du schreist. Ein Kollege sagt etwas Dummes und du wirst sauer. Das ist nicht normal Wut, das ist Trennung-Wut, die nach einem Outlet sucht.
-
-Du replaya die Beziehung immer wieder in deinem Kopf. Du merkst alle Fehler, alle [Red Flags](/blog/dating-red-flags-maenner-erkennen), alle Dinge, die nicht stimmten. Du erzählst jedem, was deine Ex alles Falsches gemacht hat.
+Die gute Nachricht ist: Es gibt eine Struktur zu diesem Schmerz. Es gibt Phasen, die dein Geist und deine Emotionen durchlaufen, wenn du eine [Red Flags](/blog/dating-red-flags-maenner-erkennen), alle Dinge, die nicht stimmten. Du erzählst jedem, was deine Ex alles Falsches gemacht hat.
 
 Manchmal ist die Wut gerichtet: "Sie hat mich betrogen! Sie ist böse!" Manchmal ist sie unfokussiert: "Alles ist schrecklich und alle Menschen sind scheißegal."
 

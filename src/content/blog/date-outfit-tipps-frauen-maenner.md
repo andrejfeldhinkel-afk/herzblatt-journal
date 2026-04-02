@@ -1,5 +1,5 @@
 ---
-title: "Date Outfit: So kleidest du dich mit Selbstvertrauen – für Frauen und Männer"
+title: "Date Outfit: So kleidest du dich mit Selbstvertrauen"
 description: "Der ultimative Guide für das perfekte Date-Outfit. Tipps für Frauen und Männer, um mit Selbstvertrauen zu erscheinen."
 date: 2026-04-02
 tags: ["Dating", "Mode", "Selbstvertrauen", "Tipps"]
@@ -158,9 +158,9 @@ Wenn das bedeutet, in deinen liebsten Jeans zu erscheinen mit einem schönen Pul
 
 ## Weitere Ressourcen
 
-Für mehr Dating-Tipps, lesen unseren Artikel über [respektvolles Absagen von Dates](/blog/date-absagen-hoeflich-formulieren.md).
+Für mehr Dating-Tipps, lesen unseren Artikel über [respektvolles Absagen von Dates](/blog/date-absagen-hoeflich-formulieren).
 
-Du könntest auch interessiert sein an unserem Guide über [echte Komplimente machen](/blog/komplimente-machen-die-ankommen.md).
+Du könntest auch interessiert sein an unserem Guide über [echte Komplimente machen](/blog/komplimente-machen-die-ankommen).
 
 ## Fazit: Sei einfach du
 

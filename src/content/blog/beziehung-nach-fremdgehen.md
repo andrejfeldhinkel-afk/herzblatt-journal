@@ -321,7 +321,7 @@ Es ist deine Entscheidung, ob der Aufwand es wert ist. Und was auch immer du wä
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten), [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden), [Beziehungspause: Rettung oder Anfang vom Ende?](/blog/beziehungspause-sinnvoll).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden), [Beziehungspause: Rettung oder Anfang vom Ende?](/blog/beziehungspause-sinnvoll).## Weiterlesen
 
 - [Nach Vertrauensbruch: Heilung finden](/blog/beziehung-nach-vertrauensbruch/)
 - [Verletzlichkeit in Beziehungen: Warum emotionale Offenheit](/blog/verletzlichkeit-beziehung-guide/)

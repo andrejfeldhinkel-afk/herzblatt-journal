@@ -143,4 +143,4 @@ Wenn du in einer Fernbeziehung bist und dich fragst, ob es je besser wird: Ja. E
 
 Mach das heute: Setz eine regelmäßige Videozeit mit deinem Partner fest. Und spricht über eure Zukunftspläne — echte, konkrete Pläne. Das ist der Anfang.
 
-Willst du mehr über Beziehungen in schwierigen Situationen wissen? Lies auch: [Vertrauen aufbauen in einer Beziehung](/blog/vertrauen-aufbauen-beziehung) und [Trennung verarbeiten trotz Liebe](/blog/trennung-verarbeiten-trotz-liebe).
+Willst du mehr über Beziehungen in schwierigen Situationen wissen? Lies auch: [Trennung verarbeiten trotz Liebe](/blog/trennung-verarbeiten-trotz-liebe).

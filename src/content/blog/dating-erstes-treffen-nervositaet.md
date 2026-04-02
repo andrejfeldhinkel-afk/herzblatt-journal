@@ -167,6 +167,5 @@ Alles andere ist Bonus.
 ## Das könnte dich auch interessieren
 
 - [Vom Chat zum ersten Treffen: Übergang zum echten Leben](/blog/erstes-treffen-online-dating/)
-- [Erstes Treffen nach Online-Dating](/blog/erstes-treffen-nach-online-dating/)
 - [10 [Red Flags](/blog/dating-red-flags-maenner-erkennen) beim ersten Date die du nicht ignorieren solltest](/blog/dating-rote-flaggen-erstes-date/)
 - [Authentisch bleiben beim Dating: Tipps für echte Verbindung](/blog/dating-authentisch-bleiben-tipps/)

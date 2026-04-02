@@ -1,5 +1,5 @@
 ---
-title: "Slow Dating: Die Revolution gegen Swipe-Kultur und wie du davon profitierst"
+title: "Slow Dating: Die Revolution gegen Swipe-Kultur und wie du..."
 description: "Slow Dating ist die Alternative zur Swipe-Kultur. Lerne wie intentionales Dating dir hilft, echte Verbindungen zu finden."
 date: 2026-03-29
 tags:
@@ -249,6 +249,5 @@ Es wird nicht schneller sein. Es wird nicht immer einfacher sein. Es wird nicht 
 ---
 
 **Verwandte Artikel:**
-- [Sichere Bindung entwickeln: Der Weg zu stabilen Beziehungen](/blog/)
-- [Authentische Dating-Gespräche führen: Wie du tiefe Verbindung aufbaust](/blog/)
+- Sichere Bindung entwickeln: Der Weg zu stabilen Beziehungen
 - [Dating als hochsensible Person: Deine Sensibilität als Superkraft nutzen](/blog/dating-hochsensible-hsp-guide)

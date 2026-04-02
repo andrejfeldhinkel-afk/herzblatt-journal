@@ -1,5 +1,5 @@
 ---
-title: "Dating in Dresden: Die 15 besten Date-Spots & Tipps für Singles"
+title: "Dating in Dresden: Die 15 besten Date-Spots & Tipps für S..."
 description: "Die besten Date-Ideen in Dresden: Von romantischen Elbe-Spaziergängen über Neustadt-Bars bis zu Geheimtipps. Perfekte Orte für erstes Date, Pärchen und Singles."
 date: 2025-05-07
 image: "/images/photos/dating-dresden.webp"

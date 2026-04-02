@@ -139,7 +139,6 @@ Schaut in euch hinein. Ist das eine gleichberechtigte Partnerschaft? Oder gibt e
 
 ## Weiterlesen
 
-- [Beziehung mit großem Altersunterschied](/blog/beziehung-altersunterschied)
 - [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 - [Neustart nach einer Affäre: Der 8-Wochen-Plan für Heilung](/blog/beziehung-after-affaere-plan)
 

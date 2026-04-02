@@ -160,5 +160,4 @@ Und Liebe ist kein Business-Deal. Sie ist Zusammenarbeit. Und in echter Zusammen
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 - [Offene Kommunikation: So sagst du was du denkst](/blog/beziehung-offene-kommunikation/)
 - [Wenn Partner verschiedene Lebensziele haben](/blog/beziehung-verschiedene-lebensziele/)
-- [Love Maps — Wie gut kennst du deinen Partner wirklich?](/blog/love-map-gottman-beziehung-guide/)
 - [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)

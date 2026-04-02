@@ -36,37 +36,7 @@ All diese Szenarien haben eines gemeinsam: Es ist wichtig, dass du die andere Pe
 
 ## Warum ist es so schwer, ein Date abzusagen?
 
-Bevor wir zu konkreten Formulierungen kommen, sollten wir verstehen, warum es uns so schwerfällt, Dates abzusagen. Die [psychologie](/blog/adhs-und-beziehung-komplett-guide/) dahinter ist interessant.
-
-Viele Menschen fühlen sich schuldig, wenn sie jemanden ablehnen. Das ist völlig normal. Wir sind soziale Wesen und mögen es nicht, andere zu verletzen. Es gibt auch einen unbewussten Wunsch, gemocht zu werden, selbst von Menschen, mit denen wir nicht zusammensein möchten.
-
-Ein weiterer Grund ist die Angst vor Konfrontation. Was wird die andere Person denken? Wird sie sauer? Wird sie versuchen, dich umzustimmen? All diese Fragen können dazu führen, dass wir die Nachricht hinauszögern oder gar nicht erst senden.
-
-Es gibt auch das Phänomen, dass wir hofffen, die Situation könnte sich "von selbst regeln". Vielleicht denken wir, wenn wir lange genug warten, wird die andere Person die Botschaft verstehen und das Treffen vergessen. Spoiler: Das passiert nicht. Menschen sind nicht hellseherisch, und deine Stille wird meistens als Desinteresse oder sogar als Grausamkeit interpretiert.
-
-Das Verständnis dieser psychologischen Hürden ist der erste Schritt. Wenn du weißt, warum es dir schwerfällt, kannst du diese Gefühle anerkennen und sie nicht deine Handlungen kontrollieren lassen.
-
-## Langfristige vs. kurzfristige Absagen
-
-Es ist wichtig, zwischen Absagen zu unterscheiden, die lange vor dem Termin erfolgen, und solchen, die kurz davor passieren. Die Zeitspanne bestimmt, wie deine Nachricht aussehen sollte.
-
-**Langfristige Absagen (mehrere Tage oder Wochen vor dem Date)**: Wenn du lange vor dem vereinbarten Termin merkst, dass du nicht interessiert bist, kannst du dir Zeit nehmen, eine durchdachte Nachricht zu verfassen. Du hast die Möglichkeit, ehrlich und ausführlich zu erklären, warum du absagen möchtest. Die andere Person hat genug Zeit, um Pläne zu ändern, und sie wird weniger emotional verletzt sein.
-
-**Kurzfristige Absagen (Stunden oder maximal ein Tag vorher)**: Hier ist Schnelligkeit wichtiger als perfekte Formulierungen. Die andere Person braucht sofort Bescheid, damit sie ihre Vorbereitungen umstellen kann. Eine kurzfristige Absage verdient eine bessere Erklärung, wenn möglich per Telefonanruf statt nur per Text.
-
-Je kurzfristiger deine Absage, desto wichtiger ist es, dass du dich entschuldigst und eine kurze Erklärung gibst. Das zeigt, dass dir bewusst ist, dass du die andere Person in eine unangenehme Situation gebracht hast, und dass es nicht böswillig war.
-
-## Was du NICHT schreiben solltest
-
-Es gibt bestimmte Fehler, die viele machen, wenn sie ein Date absagen. Diese solltest du unbedingt vermeiden.
-
-**Falsche Hoffnungen machen**: "Ich bin gerade zu beschäftigt, aber vielleicht nächsten Monat!" Wenn du weißt, dass du nicht interessiert bist, sage das. Falsche Hoffnungen sind grausamer als die Wahrheit. Die andere Person wird sich freuen und auf ein nächstes Date warten, obwohl es nie passieren wird. Das ist unfair.
-
-**Lügen erzählen**: "Meine Oma ist ins Krankenhaus gekommen" oder "Ich bin krank" sind Lügen, die die andere Person möglicherweise durchschauen wird. Wenn Lügen auffliegen, wirkst du unglaubwürdig und herzlos. Es ist immer besser, ehrlich zu sein.
-
-**Zu viel erklären**: Du musst nicht deine gesamte Lebensgeschichte erzählen, um ein Date abzusagen. "Ich bin nicht interessiert" ist völlig ausreichend. Zu lange Erklärungen wirken defensiv oder unaufrichtig.
-
-**[Ghosting](/blog/ghosting-komplett-guide)**: Das Absolut-Schlimmste ist, einfach nicht zu antworten und den Kontakt abzubrechen. Das ist respektlos und verletzend. Auch wenn es dir schwerfällt, schreibe eine Nachricht.
+Bevor wir zu konkreten Formulierungen kommen, sollten wir verstehen, warum es uns so schwerfällt, Dates abzusagen. Die [Ghosting](/blog/ghosting-komplett-guide)**: Das Absolut-Schlimmste ist, einfach nicht zu antworten und den Kontakt abzubrechen. Das ist respektlos und verletzend. Auch wenn es dir schwerfällt, schreibe eine Nachricht.
 
 **Negative Kommentare**: "Du bist nicht mein Typ" oder "Ich habe bessere Optionen gefunden" sind verletzend und unnötig. Du musst die andere Person nicht kritisieren, um ein Date abzusagen.
 
@@ -235,6 +205,5 @@ Das wichtigste Takeaway? Schreib die Nachricht. Mach es kurz, mach es freundlich
 
 - [Date-Gespräche die nie langweilig werden: 100 Fragen und](/blog/date-gespraeche-nie-langweilig/)
 - [Vom besten Freund zum Partner](/blog/dating-nach-freundschaft/)
-- [Emotionale Verfügbarkeit beim Dating](/blog/emotionale-verfuegbarkeit-dating/)
 - [10 [Red Flags](/blog/dating-red-flags-maenner-erkennen) beim ersten Date die du nicht ignorieren](/blog/dating-rote-flaggen-erstes-date/)
 - [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)

@@ -1,5 +1,5 @@
 ---
-title: "Gaming und Beziehung: Wenn Leidenschaft auf Partnerschaft trifft"
+title: "Gaming und Beziehung: Wenn Leidenschaft auf Partnerschaft..."
 description: "Wie du Gaming in deine Beziehung integrierst und gemeinsame Spielerlebnisse schaffst, ohne Konflikte zu provozieren."
 keywords: ["gaming und beziehung", "beziehung", "lifestyle", "kommunikation", "gaming beziehung:", "beziehung: wenn"]
 tags:

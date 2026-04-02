@@ -1,5 +1,5 @@
 ---
-title: "Dating nach Scheidung: Der komplette Neustart-Guide für Geschiedene"
+title: "Dating nach Scheidung: Der komplette Neustart-Guide für G..."
 description: "Nach einer Scheidung wieder daten? Ein einfühlsamer, praktischer Guide für deinen Weg zurück in die Liebe."
 date: 2026-03-29
 tags:

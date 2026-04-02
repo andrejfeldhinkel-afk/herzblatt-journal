@@ -256,7 +256,7 @@ Aber das kannst du überleben. Und du kannst in einer Weise überleben, in der d
 
 Es gibt auch eine Mittelposition. Manchmal können Paare ein neue Beziehungsstruktur finden, die für beide funktioniert. Vielleicht öffnet ihr die Beziehung. Vielleicht werden ihr in einer Art Partnerschaft, die nicht traditionell ist. Vielleicht wird die romantische Komponente kleiner, aber die emotionale Komponente bleibt. Das ist nicht das Fairy Tale, das wir gelernt haben zu erwarten. Aber es kann funktionieren.
 
-Mehr Informationen über alternative Beziehungsmodelle findest du in unserem Artikel über [polyamöre Beziehungen](/polyamorie-guide/).
+Mehr Informationen über alternative Beziehungsmodelle findest du in unserem Artikel über [polyamöre Beziehungen](/blog/polyamorie-guide).
 
 ## Beziehungen, die wachsen: Die wunderbare andere Seite
 
@@ -342,7 +342,7 @@ Wenn du Apps verwendest, habe Grenzen. Es ist okay zu sagen, dass du gerade erst
 
 Offline, finde Queer-Räume. Bars, Clubs, Community-Events, Lesbenrunden, Selbsthilfegruppen. Diese Räume sind nicht nur für Dating — sie sind für Community. Und Community ist normalerweise das erste, das du brauchst, nicht Romance.
 
-Mehr Informationen über Queer-Dating findest du in unserem Leitfaden zum [Queeren Dating](/queer-dating-guide/).
+Mehr Informationen über Queer-Dating findest du in unserem Leitfaden zum [Queeren Dating](/blog/queeres-dating-guide).
 
 ### Beziehungsmodelle erforschen
 

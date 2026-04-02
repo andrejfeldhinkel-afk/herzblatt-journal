@@ -194,7 +194,6 @@ Meist 3-6 Monate, wenn du aktiv daran arbeitest. Das bedeutet: die Gedankenschle
 ## Weiterlesen
 
 - [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
-- [Vertrauen nach einem Betrug aufbauen: Heilung und Wiederaufbau](/blog/vertrauen-nach-betrug/)
 - [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating/)
 - [Grenzen setzen ohne Schuld: Der Leitfaden für liebevolle Grenzen](/blog/beziehung-grenzsetzen/)
 - [Konflikt-Stile: Kennde deinen Weg, um zu kämpfen](/blog/beziehung-konflikt-styles/)

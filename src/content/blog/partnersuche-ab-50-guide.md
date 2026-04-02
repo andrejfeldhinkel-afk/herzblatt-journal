@@ -136,12 +136,7 @@ Cons: Interface fühlt sich manchmal antiquiert an, Kosten sind moderat bis hoch
 Pros: Sicherer durch die "Frau zuerst" Regel, modernes Interface.
 Cons: Kleinere über-50 Nutzerbasis, mehr junge Menschen auf der App.
 
-**Tinder:** Ehrlich, Tinder ist größtenteils junge Menschen. Aber es kommt vor, dass über 50 es verwenden. Es ist nicht deine beste Wahl, wenn du eine ernsthafte [beziehung](/blog/adhs-und-beziehung-komplett-guide/) suchst.
-
-Pros: Einfach zu bedienen, große Nutzerbasis, kostenlos funktioniert.
-Cons: Zu viele junge Menschen, zu viel "Spielen", weniger ernsthaft gemeint.
-
-**[Hinge](/blog/hinge-guide-deutsch-2026):** "Die Dating-App entworfen, um in der realen Leben zu beenden." Es konzentriert sich auf tiefere Verbindungen. Es ist nicht einfach Wischen. Es hat einen guten Ruf bei über 50.
+**Tinder:** Ehrlich, Tinder ist größtenteils junge Menschen. Aber es kommt vor, dass über 50 es verwenden. Es ist nicht deine beste Wahl, wenn du eine ernsthafte [Hinge](/blog/hinge-guide-deutsch-2026):** "Die Dating-App entworfen, um in der realen Leben zu beenden." Es konzentriert sich auf tiefere Verbindungen. Es ist nicht einfach Wischen. Es hat einen guten Ruf bei über 50.
 
 Pros: Fokus auf tiefe Verbindungen, gute Konversation Starters, modernes Design.
 Cons: Kleinere Nutzerbasis in Deutschland, weniger Nutzer über 50 als spezialisierte Apps.

@@ -29,17 +29,7 @@ faq:
     answer: "Wenn: 1) Sie weigern sich, Hilfe zu suchen, 2) Sie sabotieren ständig die Beziehung, 3) Du anfängst zu glauben, dass du nicht 'gut genug' bist, 4) Deine psychische Gesundheit leidet, 5) Du merkst, dass deine Grenzen nicht respektiert werden, oder 6) Du Jahre wartest und nichts ändert sich."
 ---## Was ist Commitment Phobia wirklich?
 
-Commitment Phobia ist nicht dasselbe wie "Ich bin nicht bereit für eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/)". Es ist eine tiefere, irrationale Angst vor dem Konzept der Bindung selbst.
-
-Eine Person mit Commitment Phobia kann mit dir zusammen sein, dich mögen, dich sogar lieben — aber die Idee, eine offizielle Beziehung zu haben, eine Zukunft zu planen, oder Verpflichtungen zu machen, ängstigt sie extremst. Die Angst ist nicht rational. Sie können nicht logisch erklären, warum. Es ist einfach ein Überlebensmechanismus, der in ihrem Gehirn sich aktiviert.
-
-Es ist unterschiedlich von einfach "Ich bin nicht sicher." Das ist auch Unsicherheit — aber mit Commitment Phobia, selbst wenn die Beziehung perfekt ist, gibt es dieser Unterton von Angst. Diese Gedanken: "Ich bin gefangen." "Ich kann nicht atmen." "Wenn ich mich festlege, verliere ich meine Freiheit." "Was ist, wenn etwas Besseres kommt?"
-
-Diese Gedanken sind invasiv. Sie sind nicht rational. Die Person mit Commitment Phobia weiß oft, dass sie nicht rational sind. Aber sie können nicht aufhören, sie zu denken.
-
-Commitment Phobia kann verschiedene Formen nehmen. Manche Menschen vermeiden aktiv Beziehungen. Manche Menschen sind in Beziehungen, sabotieren sie aber konstant. Manche Menschen sind Jahre mit jemandem zusammen, ohne jemals offiziell zu werden. Manche Menschen sind mit jemandem zusammen, weigern sich aber, über die Zukunft zu sprechen.
-
-## Die Ursprünge: Warum entwickelt man [Bindungsangst](/blog/bindungsangst-komplett-guide)?
+Commitment Phobia ist nicht dasselbe wie "Ich bin nicht bereit für eine [Bindungsangst](/blog/bindungsangst-komplett-guide)?
 
 Commitment Phobia kommt nicht aus dem Nichts. Es gibt normalerweise einen Grund — etwas aus der Kindheit, etwas aus einer Vergangenheitsbeziehung, oder etwas über die eigene Identität.
 

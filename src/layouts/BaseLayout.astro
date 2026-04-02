@@ -62,7 +62,7 @@ const siteSchema = {
   "@type": "WebSite",
   "name": "Herzblatt Journal",
   "url": "https://herzblatt-journal.com",
-  "description": description,
+  "description": "Dein vertrauenswürdiger Ratgeber für Dating, Flirten und echte Beziehungen.",
   "potentialAction": {
     "@type": "SearchAction",
     "target": "https://herzblatt-journal.com/suche?q={search_term_string}",
@@ -71,10 +71,12 @@ const siteSchema = {
 };
 
 // Article Schema (only on blog posts)
+// Strip site name suffix from headline for schema.org compliance
+const articleHeadline = title.replace(/ — Herzblatt Journal$/, '').replace(/ - Herzblatt Journal$/, '');
 const articleSchema = isArticle ? {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": title,
+  "headline": articleHeadline,
   "description": description,
   "image": fullImageURL,
   "url": canonicalURL.toString(),

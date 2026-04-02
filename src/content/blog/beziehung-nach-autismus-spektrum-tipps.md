@@ -115,13 +115,7 @@ Auch spezielle Unterstützungsgruppen für neurotypes-autistische Paare können 
 
 Langfristig können Paare mit Therapie-Unterstützung ein tieferes Verständnis für einander entwickeln, das stärker ist als vor der Herausforderung.
 
-[Beziehung nach traumatischer Geburt stärken](/blog/beziehung-nach-traumatischer-geburt)
 [Beziehung mit einem Partner mit anderer Muttersprache](/blog/beziehung-partner-anderer-muttersprache)
-[Demisexuell: Wenn Liebe langsam wächst](/blog/dating-demisexuell-langsam-verlieben)
-
-## Weiterlesen
-
-- [Dating mit Autismus-Spektrum](/blog/dating-autismus-spektrum-tipps)
-- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
+[Dating mit Autismus-Spektrum](/blog/dating-autismus-spektrum-tipps)
 - [Neustart nach einer Affäre: Der 8-Wochen-Plan für Heilung](/blog/beziehung-after-affaere-plan)
 

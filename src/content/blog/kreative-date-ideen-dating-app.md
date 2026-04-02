@@ -479,7 +479,7 @@ Wenn er ein Abenteuer-Typ ist, schlag etwas Abenteuerliches vor. Wenn er ein Foo
 
 ### Die Jahreszeit und das Wetter
 
-Die beste Jahreszeit für Outdoor-Dates ist Frühling, Frühsommer und Herbst. Im tiefsten Winter oder tiefsten Sommer könnten Outdoor-Dates unbequem sein. Aber Indoor-Dates oder Aktivitäten in gemäßigtem Wetter sind ganzjährig großartig. [Lies mehr über Dating im Winter](/dating-im-winter) oder [Dating im Frühling](/dating-im-fruehling) für saisonale Tipps.
+Die beste Jahreszeit für Outdoor-Dates ist Frühling, Frühsommer und Herbst. Im tiefsten Winter oder tiefsten Sommer könnten Outdoor-Dates unbequem sein. Aber Indoor-Dates oder Aktivitäten in gemäßigtem Wetter sind ganzjährig großartig. [Lies mehr über Dating im Winter](/blog/dating-im-winter) oder [Dating im Frühling](/blog/dating-im-fruehling) für saisonale Tipps.
 
 ### Das Budget, das du ausgeben möchtest
 

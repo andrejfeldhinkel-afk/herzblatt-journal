@@ -240,13 +240,7 @@ Schwaben schätzen Authentizität über Oberflächlichkeit. Verstelle dich nicht
 - [Dating in Stuttgart – Die besten Tipps, Orte & Strategien](/blog/dating-stuttgart/)
 - [Dating mit Borderline – Intensive Liebe zwischen Extremen](/blog/dating-mit-borderline-stoerung/)
 - [Bisexuelles Dating: Zwischen den Welten — Tipps für bi](/blog/bisexuell-dating-tipps/)
-- [Dating als Trans-Person: Liebe, Akzeptanz und ehrliche Gespräche](/blog/dating-als-trans-person-guide/)
-
-
-## FAQ: Häufig gestellte Fragen zum Dating in Stuttgart
-
-**F: Sind Stuttgarter offen für Dating-Apps?**
-A: Ja, aber weniger enthusiastisch als in Berlin oder Köln. Tinder funktioniert, [Hinge](/blog/hinge-guide-deutsch-2026) ist beliebt. Menschen sind eher bereit, sich offline zu treffen.
+- [Hinge](/blog/hinge-guide-deutsch-2026) ist beliebt. Menschen sind eher bereit, sich offline zu treffen.
 
 **F: Wann ist die beste Zeit zum Dating in Stuttgart?**
 A: Frühling (April-Mai) und Herbst (September-Oktober). Das Wetter ist perfekt. Sommer kann sehr heiß sein. Winter ist gemütlich, aber weniger Outdoor-Optionen.

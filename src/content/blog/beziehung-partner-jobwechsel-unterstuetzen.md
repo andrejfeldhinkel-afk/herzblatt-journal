@@ -260,7 +260,6 @@ Das ist möglich. Es braucht nur Bewusstsein und Unterstützung.
 
 ## Weiterlesen
 
-- [Beziehung nach Burnout: Den Partner unterstützen](/blog/beziehung-nach-burnout-partner)
 - [Beziehung nach Depression: Gemeinsam zurück ins Leben](/blog/beziehung-nach-depression-partner)
 - [Beziehung nach einem Trauerfall: Füreinander da sein](/blog/beziehung-nach-trauerfall-unterstuetzen)
 

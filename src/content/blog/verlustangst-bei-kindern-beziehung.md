@@ -20,31 +20,7 @@ Dann schreibt er zurück: "Ich war in einem Meeting. Alles ist okay."
 
 Du entspannst dich. Aber nur für eine Weile. Morgen wirst du das gleiche Muster erleben. Und übermorgen. Und für den Rest der [beziehung](/blog/adhs-und-beziehung-komplett-guide/), wenn du nicht verstehst, wo das herkommt.
 
-Das ist [verlustangst](/blog/aengstlicher-bindungsstil-heilen/). Und ich kann dir genau sagen, wo sie herkommt: aus deiner Kindheit. Sie ist nicht deine Schuld. Aber es ist deine Verantwortung, sie zu heilen.
-
-## Was ist Verlustangst?
-
-Verlustangst ist mehr als "Ich mag es nicht, wenn mein Partner weg ist". Es ist nicht logisch. Es ist nicht rational. Es ist ein tiefes, existenzielles Gefühl, dass alles, was du liebst, sich dir entziehen wird.
-
-Menschen mit Verlustangst:
-
-- Klammern an Partner und versuchen, jede Distanz zu verhindern
-- Interpretieren normale Verhaltensweisen als Zeichen von Ablehnung ("Er antwortet nicht schnell genug")
-- Sind ständig unsicher, ob die andere Person sie mag
-- Benötigen ständige Bestätigung und Versicherung
-- Fühlen sich körperlich angespannt, wenn sie nicht in Kontakt mit dem Partner sind
-- Sabotieren Beziehungen, weil sie wissen, dass alle Beziehungen enden
-- Haben Angst vor Konflikten, weil Konflikte "das Ende" bedeuten könnten
-
-Das ist nicht Liebe. Das ist Angst.
-
-Die subtile Unterscheidung ist wichtig: Liebe ist etwas, das du fühlst. Verlustangst ist etwas, das dein Gehirn glaubt, das passieren wird. Sie sind nicht dasselbe.
-
-## Woher kommt Verlustangst? Die Kindheitswurzeln
-
-Verlustangst ist fast immer eine Wunde, die in der Kindheit geschaffen wurde. Es gibt ein paar häufige Szenarien:
-
-**Szenario 1: Scheidung oder [Trennung](/blog/trennung-verarbeiten-12-schritte) der Eltern**
+Das ist [Trennung](/blog/trennung-verarbeiten-12-schritte) der Eltern**
 
 Dein Gehirn als Kind hat das gelernt: Eltern können gehen. Liebe ist nicht garantiert. Wenn der Elternteil, der dir am nächsten war, dich verlässt, wer sonst könnte?
 
@@ -220,28 +196,5 @@ Die eine ist ein Gefängnis. Die andere ist Freiheit.
 - [Daddy Issues: Wie dein Vater deine Beziehungen beeinflusst](/blog/daddy-issues-beziehung/)
 - [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-toxischer-beziehung/)
 - [Emotional Detachment: Wenn du in der Beziehung nichts mehr](/blog/emotional-detachment-beziehung/)
-- [Emotionaler Missbrauch in Beziehungen: Erkennen & Heilen](/blog/emotionaler-missbrauch-beziehung-guide/)
-## FAQ
-
-**Wie prägt Verlustangst aus der Kindheit meine Beziehung?**
-Du klammerst, brauchst ständig Bestätigung, interpretierst jede Distanz als Ablehnung und lebst in ständiger Angst verlassen zu werden.
-
-**Woher kommt Verlustangst bei Erwachsenen?**
-Meist von frühen Trennungserfahrungen: Scheidung der Eltern, Tod eines Elternteils, emotionale Vernachlässigung oder häufige Umzüge.
-
-**Kann ich Verlustangst allein überwinden?**
-Teilweise, durch Bewusstsein und Selbstreflexion. Für tiefe Heilung ist Therapie jedoch empfehlenswert — besonders Schema-Therapie oder EMDR.
-
-**Kann mein Partner mir helfen, meine Verlustangst zu heilen?**
-Ja, aber nicht als Therapist. Ein unterstützender, verständnisvoller Partner kann sicherer Raum geben. Die echte Heilung kommt von dir selbst und von professioneller Hilfe.
-
-**Ist Verlustangst das gleiche wie Eifersucht?**
-Nein. Eifersucht ist spezifisch für andere Rivalen. Verlustangst ist generell. Es ist Angst, dass die Person DICH verlässt, unabhängig vom Grund.
-
----
-
-## Lesenswerte Links
-
 - [Toxische Scham in Beziehungen erkennen](/blog/toxische-scham-beziehung)
-- [Retroaktive Eifersucht überwinden](/blog/retroaktive-eifersucht-ueberwinden)
 - [Beziehungssucht erkennen und heilen](/blog/beziehungssucht-erkennen)

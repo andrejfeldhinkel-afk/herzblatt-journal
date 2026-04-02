@@ -162,7 +162,6 @@ Ja. Dann ist es Zeit zu reden. Konkret: "Ich merke, dass mir die Beziehung in le
 
 ## Weiterlesen
 
-- [Gemeinsame Hobbys finden: Aktivitäten für Paare](/blog/beziehung-gemeinsame-hobbys-finden)
 - [Verschiedene Erziehungsstile als Paar](/blog/beziehung-verschiedene-erziehungsstile)
 - [Veganer liebt Fleischesser](/blog/beziehung-verschiedene-essgewohnheiten)
 

@@ -257,13 +257,7 @@ Wie in allen deutschen Städten: Sei authentisch. Aber in Leipzig ist das besond
 - [Dating in Leipzig – Die besten Tipps, Orte & Strategien [ ]](/blog/dating-leipzig/)
 - [Dating nach dem Umzug: Neue Stadt, neue Chancen](/blog/dating-nach-umzug/)
 - [Dating nach Umzug in eine neue Stadt](/blog/dating-nach-umzug-neue-stadt/)
-- [Dating nach sexueller Gewalt – Heilung und neue Verbindungen](/blog/dating-nach-vergewaltigung-healing/)
-
-
-## FAQ: Häufig gestellte Fragen zum Dating in Leipzig
-
-**F: Sind Leipziger offen für Dating-Apps?**
-A: Ja, sehr. Tinder, Bumble, [Hinge](/blog/hinge-guide-deutsch-2026) funktionieren alle sehr gut. Die Stadt ist progressiv und Dating ist normalisiert.
+- [Hinge](/blog/hinge-guide-deutsch-2026) funktionieren alle sehr gut. Die Stadt ist progressiv und Dating ist normalisiert.
 
 **F: Ist Leipzig als Studierenden-Stadt schwierig zum Dating, wenn man älter ist?**
 A: Ein bisschen. Es gibt viele Studierende, aber auch viele junge Berufstätige. Es kommt darauf an, wo du nach Menschen suchst. Die Südvorstadt und Connewitz haben auch ältere Menschen.

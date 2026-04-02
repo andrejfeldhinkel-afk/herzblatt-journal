@@ -136,15 +136,8 @@ Nachdem die emotionalen und psychologischen Grundlagen verstanden sind, hier sin
 
 Wenn du mehr über verwandte Themen erfahren möchtest, könnten diese Artikel hilfreich sein:
 
-- [Paarkommunikation verbessern: 5 Techniken, die funktionieren](/blog/paarkommunikation-verbessern)
-- [Grenzen in Beziehungen setzen: Ein praktischer Guide](/blog/grenzen-in-beziehungen-setzen)
-- [Emotionale Intimität wieder aufbauen](/blog/emotionale-intimitat-aufbauen)
-
-## Wenn Vertrauen nicht zurückkehrt: Die schwierige, aber legitime Realität
-
-Trotz aller guten Absichten, trotz Therapie und echtem Commitment – manchmal kehrt das Vertrauen nicht zurück. Dies ist nicht ein Versagen von dir oder ihm. Dies ist manchmal einfach die emotionale Realität, die du akzeptieren musst.
-
-Manche Menschen können nicht emotional über den Betrug hinwegkommen, obwohl sie intensiv versuchen. Andere finden, dass der Partner nicht die tiefgreifenden Veränderungen einbringen kann, die notwendig sind. In diesen Fällen ist [Trennung](/blog/trennung-verarbeiten-12-schritte) nicht Versagen – es ist Selbstschutz und Selbstliebe. Eine Beziehung ohne Vertrauen ist wie ein Baum ohne Wurzeln. Sie wird nicht gedeihen oder wachsen. Sie wird verdorren.
+- [Grenzen in Beziehungen setzen: Ein praktischer Guide](/blog/grenzen-setzen-beziehung)
+- [Trennung](/blog/trennung-verarbeiten-12-schritte) nicht Versagen – es ist Selbstschutz und Selbstliebe. Eine Beziehung ohne Vertrauen ist wie ein Baum ohne Wurzeln. Sie wird nicht gedeihen oder wachsen. Sie wird verdorren.
 
 Das Wichtige zu verstehen ist: Wenn du dich trennst, bedeutet es nicht, dass die Beziehung bedeutungslos oder verschwendet war. Ihr habt zusammen gelebt, geliebt, gelernt. Diese Zeit ist real und hat Wert, auch wenn die Beziehung endet. Eine Trennung kann sogar heilsam sein.
 

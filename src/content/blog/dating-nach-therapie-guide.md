@@ -155,6 +155,5 @@ Das ist das wertvollste Geschenk.
 ## Interne Links zu verwandten Inhalten
 
 Wenn du nach Therapie daten möchtest, könnten auch diese Artikel helfen:
-- [Dein Bindungsstil: Warum du immer die gleichen Partner wählst](/blog/bindungsstil-dating)
-- [Trauma und Liebe: Wie du nach Verletzung wieder Vertrauen aufbaust](/blog/trauma-vertrauen-beziehung)
-- [Grenzen setzen in Beziehungen: Wie du Nein sagst, ohne schuldig zu fühlen](/blog/grenzen-setzen)
+- [Trauma und Liebe: Wie du nach Verletzung wieder Vertrauen aufbaust](/blog/trauma-response-beziehung)
+- [Grenzen setzen in Beziehungen: Wie du Nein sagst, ohne schuldig zu fühlen](/blog/grenzen-setzen-beziehung)

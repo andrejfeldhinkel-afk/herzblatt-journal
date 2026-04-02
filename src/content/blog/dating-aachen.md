@@ -40,31 +40,7 @@ Für ruhigere, zunächst vorsichtigere Dates empfehlen sich die Gegenden um die 
 
 **Zum Postwagen** befindet sich an der Hötstraße und ist der Klassiker für traditionelle Aachener Küche. Die Aachener Printe und die Leberwurst sind Spezialitäten, die man hier probieren sollte.
 
-**Café im Bild** ist perfekt für Treffen am Nachmittag. Mit gutem Kaffee und frischem Gebäck schafft man eine entspannte Atmosphäre für [Kennenlernen](/blog/dating-fragen-kennenlernen).
-
-**Bricks** ist die trendige Bar-Lounge für Cocktails. Modern gestaltet und mit guter Musik – ideal, um den Abend ausklingen zu lassen.
-
-## Outdoor-Date-Ideen in Aachen
-
-Ein Spaziergang entlang der **Elisabrunnen** ist klassisch romantisch. Der Brunnen liegt wunderbar im Grünen, und oft gibt es kleinere Konzerte oder Kulturveranstaltungen in der Nähe.
-
-Die **Aachener Thermalquellen** können Sie gemeinsam besuchen – die Carolus Therme bietet Entspannung und ist sehr romantisch. Ein gemeinsames Saunererlebnis schafft Nähe.
-
-Der **Lousberg** ist ein ideales Wanderziel. Der kurze Aufstieg wird mit einem wunderbaren Blick über die Stadt belohnt – perfekt für ein Picknick oder für romantische Fotos.
-
-Ein Besuch im **Euregio-Park** bietet grüne Wege und kleine Seen zum Verweilen.
-
-## Kulturelle Dates in Aachen
-
-Der **Aachener Dom** selbst ist beeindruckend – eine geführte Tour durch die Krönungskirche ist informativ und романтisch zugleich.
-
-Das **Kunstmuseum Aachen** zeigt moderne und klassische Werke. Ein Museumsbesuch wirkt kulturell interessiert und bietet Gesprächsstoff.
-
-Das **Ludwig Forum** für Internationale Kunst ist besonders bei jüngeren Singles beliebt und hat wechselnde Ausstellungen.
-
-## Die Singles-Szene und Dating-Apps in Aachen
-
-Aachen ist eine typische Uni-Stadt mit aktiver Dating-Szene. **Tinder** ist hier das meistgenutzte Profil-App. **Bumble** ist bei etwas älteren, etablierteren Singles verbreitet. **[Hinge](/blog/hinge-guide-deutsch-2026)** gewinnt an Popularität für ernsthaftere Beziehungen.
+**Café im Bild** ist perfekt für Treffen am Nachmittag. Mit gutem Kaffee und frischem Gebäck schafft man eine entspannte Atmosphäre für [Hinge](/blog/hinge-guide-deutsch-2026)** gewinnt an Popularität für ernsthaftere Beziehungen.
 
 Die Uni schafft einen natürlichen Treffpunkt für junge Menschen. Viele Events und Parties werden durch Uni-Gruppen organisiert – großartig, um Menschen mit ähnlichen Interessen zu treffen.
 

@@ -1,5 +1,5 @@
 ---
-title: "Beziehung Definition: Alle Beziehungsarten einfach erklärt (2026)"
+title: "Beziehung Definition: Alle Beziehungsarten einfach erklärt"
 description: "Beziehung Definition: Von klassischer Partnerschaft bis zu modernen Beziehungsmodellen — alle Arten einfach und klar erklärt."
 date: 2026-04-01
 image: "/images/blog/beziehung-definition-arten.webp"
@@ -143,11 +143,7 @@ Das ist eine Affäre. Es mag nicht physisch sein — aber emotional ist es Betru
 
 Das Wichtige hier: Eine Beziehung braucht keine Sex, um real zu sein. Es braucht nur Intimität, Vertrauen und emotionale Nähe.
 
-## [Die toxische Beziehung: Ein ganzer anderer Komplex](/blog/toxische-beziehungen-komplett-guide)
-
-Manchmal ist das, was du "Beziehung" nennen, tatsächlich Missbrauch mit netten Momenten.
-
-[Eine toxische Beziehung hat ihre eigenen Regeln und Zeichen](/blog/toxische-beziehungen-komplett-guide) — und das sollte nicht mit einer "schlechten Beziehung" verwechselt werden.
+## [Eine toxische Beziehung hat ihre eigenen Regeln und Zeichen](/blog/toxische-beziehungen-komplett-guide) — und das sollte nicht mit einer "schlechten Beziehung" verwechselt werden.
 
 ## Was macht eine Beziehung gesund?
 

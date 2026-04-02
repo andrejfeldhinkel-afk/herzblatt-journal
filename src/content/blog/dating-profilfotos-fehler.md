@@ -126,13 +126,10 @@ Ein altes Bewerbungsfoto mag "professionell" aussehen, aber es ist nicht persön
 
 Lesen Sie mehr zum Online-Dating:
 
-- [Selbstakzeptanz als Schlüssel zum Dating-Erfolg](/blog/selbstakzeptanz-dating-erfolg)
-- Dating über WhatsApp: Tipps für bessere Chats
 - [Hardballing: Warum direktes Dating besser ist](/blog/hardballing-dating-direkt-ehrlich)
 
 ## Weiterlesen
 
-- [10 Dating-Fehler, die Frauen häufig machen — und bessere](/blog/dating-fehler-frauen)
 - [10 Dating-Fehler, die Männer ständig machen (und wie du](/blog/dating-fehler-maenner)
 - [10 Online-Dating Fehler die fast jeder macht](/blog/online-dating-fehler)
 

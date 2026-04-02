@@ -82,6 +82,5 @@ Zu viel trinken und dann unhöflich werden. Oder Dinge sagen, die du nicht meins
 
 ## Weiterlesen
 
-- [Abenteuer-Dates: Adrenalin stärkt die Bindung](/blog/abenteuer-dates-adrenalin)
 - [After-Work Dates – Perfekt für Berufstätige](/blog/dating-after-work-dates)
 - [Sichere Dates – Selbstschutz beim Kennenlernen](/blog/dating-sichere-dates)

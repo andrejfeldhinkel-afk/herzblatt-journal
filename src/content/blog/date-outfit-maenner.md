@@ -332,7 +332,6 @@ A: Sehr wichtig. Menschen sehen deine Schuhe. Sie sagen viel über dich aus. Sau
 
 ## Weiterlesen
 
-- [Erstes Date Outfit – Das richtige Outfit für eine](/blog/erstes-date-outfit)
 - [Der ultimative Date-Night Planer für Paare](/blog/beziehung-date-night-planer)
 - [Date absagen ohne schlechtes Gewissen](/blog/date-absagen-richtig)
 

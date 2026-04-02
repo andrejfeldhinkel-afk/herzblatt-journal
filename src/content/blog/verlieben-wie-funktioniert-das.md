@@ -11,25 +11,7 @@ tags:
 ---
 ## Die Neurochemie der Liebe: Dopamin, Oxytocin und mehr
 
-Wenn wir sagen, „Ich bin [verliebt](/blog/mann-verliebt-anzeichen-komplett)", sprechen wir oft über ein Gefühl, das sich überwältigend und magisch anfühlt – als würde etwas Übernatürliches in uns ablaufen. Die Wahrheit ist noch faszinierender: Liebe ist nicht magisch, sie ist chemisch. Und das macht sie nicht weniger wunderbar, sondern vertieft unser Verständnis dafür, was mit uns passiert.
-
-Wenn du dich in jemanden verliebst, explodiert dein Gehirn buchstäblich mit Chemikalien. Das erste große Spielfeld ist Dopamin, ein Neurotransmitter, der mit Vergnügen und Belohnung verbunden ist. Dopamin ist die Chemikalie, die dich dazu treibt, immer mehr zu wollen. Es ist das gleiche System, das bei Suchtverhalten aktiviert wird. Wenn du die Person siehst, die du liebst, wenn ihr zusammen seid, wenn du sogar nur an sie denkst, wird Dopamin freigesetzt. Das ist warum dein Herz schneller schlägt, warum du Schmetterlinge im Bauch hast, warum du auf einer Wolke zu schweben scheinst.
-
-Noradrenalin ist ein weiteres wichtiges Hormon. Es ist mit Aufmerksamkeit und Gedächtnis verbunden. Wenn du verliebt bist, wird dein Gehirn hyperfokussiert auf die Person, die du liebst. Du beachtest jedes kleine Detail über sie. Du erinnerst dich an jede Unterhaltung, jeden Augenblick zusammen. Menschen, die verliebt sind, haben oft ein besseres Gedächtnis für Details über die Person, die sie lieben.
-
-Dann ist da Serotonin, das mit Stimmung und Glück verbunden ist. Aber interessanterweise sinkt der Serotoninspiegel, wenn du gerade verliebt bist. Das ist paradox – du bist glücklich, aber dein Serotonin ist niedrig. Das könnte erklären, warum Menschen, die verliebt sind, manchmal obsessiv sind, warum sie nicht essen können, nicht schlafen können, ständig an die andere Person denken. Es ähnelt tatsächlich den neurologischen Mustern, die man bei Menschen mit Zwangsstörungen sieht.
-
-Oxytocin ist das „Bindungshormon". Es wird oft als das „Liebeshormon" bezeichnet, aber das ist eine Vereinfachung. Oxytocin ist eigentlich mit Bindung und Vertrauen verbunden. Es wird freigesetzt, wenn zwei Menschen sich umarmen, wenn sie intim werden, wenn sie sich verbunden fühlen. In den frühen Phasen der Liebe ist der Oxytocin-Spiegel nicht so hoch wie der Dopamin-Spiegel. Aber wenn die Liebe reift und länger wird, wird Oxytocin zunehmend wichtiger, während Dopamin sinkt. Das ist ein großer Grund, warum frühe Liebe sich anders anfühlt als etablierte Liebe.
-
-Vasopressin ist ein weiteres Peptidhormon, das mit Bindung und Monogamie verbunden ist. Es ist stärker bei Menschen, die einen langfristigen Partner haben. Es trägt zu der Art von tiefem Vertrauen und Stabilität bei, die in langjährigen Beziehungen vorhanden ist.
-
-Und dann ist da Cortisol, das Stresshormon. Wenn du verliebt bist, besonders in den frühen Phasen, kann dein Cortisol-Spiegel erhöht sein. Das ist Stress – aber guter Stress, der anregend und aufregend ist, anstatt lähmend zu sein.
-
-Das Zusammenspiel all dieser Chemikalien ist, was das macht, das wir als „Liebe" erleben.
-
-## Die Bindungstheorie: Warum wir anbinden, wie wir anbinden
-
-Die Bindungstheorie, entwickelt von dem britischen Psychoanalytiker John Bowlby und erweitert von Mary Ainsworth, bietet einen anderen Blick auf Liebe und warum wir uns in Menschen verlieben. Diese Theorie besagt, dass wir als Säuglinge uns an unsere Bezugspersonen (normalerweise unsere Eltern) binden, um zu überleben. Diese frühe Bindung prägt unseren [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) für den Rest unseres Lebens.
+Wenn wir sagen, „Ich bin [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) für den Rest unseres Lebens.
 
 Es gibt vier primäre Bindungsstile, die im Erwachsenenalter beobachtet werden. Der sichere Bindungsstil ist charakterisiert durch das Gefühl, wertvoll zu sein, darauf zu vertrauen, dass andere uns kümmern, und die Fähigkeit, Balance zwischen Unabhängigkeit und Nähe zu haben. Menschen mit sicherer Bindung sind in Lage, stabile, vertrauensvolle Beziehungen zu entwickeln.
 

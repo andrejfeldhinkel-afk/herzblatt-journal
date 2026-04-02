@@ -354,6 +354,5 @@ Und dann warte auf die Matches, die nicht nur mit deinen Fotos matchen – sonde
 
 ## Weiterlesen
 
-- [10 Bio-Formeln die garantiert Matches bringen](/blog/online-dating-bio-formeln)
 - [Tinder Tipps für Männer — Mehr Matches, mehr Dates](/blog/tinder-tipps-maenner)
 

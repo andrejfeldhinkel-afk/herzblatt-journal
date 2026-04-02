@@ -1,5 +1,5 @@
 ---
-title: "Eifersucht durch Social Media: Wenn Instagram die Beziehung belastet (2026)"
+title: "Eifersucht durch Social Media"
 description: "Social Media verschärft Eifersucht. Erkenne wie Instagram & Co. deine Beziehung vergiften und lerne konkrete Lösungen."
 date: 2026-04-01
 image: "/images/blog/eifersucht-soziale-medien.webp"

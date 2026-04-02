@@ -163,13 +163,7 @@ Hier ist, wo schüchterne Menschen ihren Vorteil haben: tiefe Konversation. Wäh
 
 Tiefe ist ein Zeichen von Schüchternheit, nicht ein Mangel. Nutze dies. Tiefe Konversation ist attraktiver als oberflächliches Geplauder, besonders wenn du mit jemand sprichst, der auch tiefe sucht. Und wenn du mit jemand sprichst, der nur oberflächliche will – nun, das ist nicht die Person für dich sowieso.
 
-[Lesen Sie auch: Tiefe Konversationen: Wie man echte Verbindung aufbaut](/blog/tiefe-konversation).
-
-## Der Übergang von Freundschaft zu Romantik
-
-Manche schüchterne Menschen finden es leichter, eine Freundschaft aufzubauen und dann zu sehen, ob sie romantisch wird. Dies ist nicht heimlich – es ist ein realer Weg, Beziehungen aufzubauen. Einige der besten Partnerschaften sind aus Freundschaften entstanden.
-
-Der Schlüssel ist, nicht zu lange zu warten, bevor du deine Gefühle ausdrückst. Wenn du [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, sage es. Es ist besser, abgelehnt zu werden, als mit Unsicherheit zu sitzen. Dies erfordert Mut, besonders für schüchterne Menschen. Aber dein Mut ist attraktiv. Es zeigt, dass diese Person genug bedeutet dir, um das Risiko einzugehen.
+[verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, sage es. Es ist besser, abgelehnt zu werden, als mit Unsicherheit zu sitzen. Dies erfordert Mut, besonders für schüchterne Menschen. Aber dein Mut ist attraktiv. Es zeigt, dass diese Person genug bedeutet dir, um das Risiko einzugehen.
 
 ## Die Rolle von Interessen und Leidenschaften beim Dating
 
@@ -197,7 +191,7 @@ Schüchterne Menschen sind oft zu offen für Menschen, weil sie froh sind, dass 
 
 Rote Flaggen könnten sein: Sie sprechen nur über sich selbst und fragen nicht nach dir. Sie sind unhöflich zu Servicepersonal. Sie sprechen schlecht von Exes. Sie sind nicht zuverlässig. Sie sind zu schnell intensiv. Sie respektieren deine Grenzen nicht.
 
-Du schuldest niemandem eine Chance, nur weil sie interessiert sind. Du darfst wählen. [Erfahren Sie mehr: Rote Flaggen in Beziehungen erkennen](/blog/rote-flaggen-beziehungen).
+Du schuldest niemandem eine Chance, nur weil sie interessiert sind. Du darfst wählen. [Erfahren Sie mehr: Rote Flaggen in Beziehungen erkennen](/blog/love-languages-beziehung).
 
 ## Selbstliebe: Das Fundament für erfolgreiches Dating
 

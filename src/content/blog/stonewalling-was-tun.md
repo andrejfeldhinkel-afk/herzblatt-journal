@@ -35,41 +35,7 @@ Er ist weg. Nicht körperlich. Aber emotional. Es ist wie eine Mauer. Du kannst 
 
 Das ist Stonewalling.
 
-Und es ist einer der giftigsten Muster, die eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) zerstören können. Nicht, weil es laut ist oder aggressiv. Sondern weil es still ist. Weil es dich allein lässt. Weil es die Botschaft sendet: "Du zählst nicht genug, dass ich mit dir rede."
-
-## Was ist Stonewalling wirklich?
-
-Stonewalling ist emotionales Schweigen als Kontrolle oder Schutz.
-
-Dein Partner reagiert nicht auf deine Worte. Er vermeidet Augenkontakt. Er kann mehrere Stunden oder Tage so bleiben. Er macht die Tür zu, emotional und manchmal auch buchstäblich.
-
-Der Unterschied zu normalen Schweigen ist Absicht und Dauer. Wenn er nach fünf Minuten wieder mit dir redet, ist das eine kurze Pause. Wenn es eine Stunde dauert und er aktiv dich ignoriert, ist das Stonewalling.
-
-Stonewalling ist nicht das gleiche wie allein sein wollen. Das wäre: "Ich brauche eine Stunde für mich. Ich ruf dich später an." Das ist Kommunikation über die Pause.
-
-Stonewalling ist: Türe zuknallen, Kopfhörer rein, Handy-Fokus, oder nur physikalisch präsent sein aber emotional völlig weg.
-
-## Woher kommt Stonewalling?
-
-Es gibt zwei Kategorien.
-
-**Der Überwältigte Stonewall**: Manche Menschen, wenn sie überemotional werden, können nicht mehr reden. Ihr Nervensystem geht in Freeze-Modus. Sie erstarren. Sie können nicht denken. Sie müssen sich abschotten, um nicht zusammenzubrechen.
-
-Das ist oft unbewusst. Diese Menschen wollen nicht ignorieren. Sie wissen nicht wie anders sie sollen. Für sie fühlt sich Stonewalling wie Überleben an.
-
-**Der bewusste Stonewall**: Andere Menschen nutzen Stonewalling als Waffe. Bewusst oder halb-bewusst. Sie wissen, dass Schweigen dich verrückt macht. Also nutzen sie es.
-
-Die Botschaft ist: "Du schuldest mir etwas. Bis du mich so behandelst, wie ich es verdiene, rede ich nicht mit dir." Es ist Strafe als Kontroll-Werkzeug.
-
-Die meisten Menschen haben ein Mix aus beide. Ein wenig echte Überwältigung, ein wenig bewusste Kontrolle.
-
-Aber das Endergebnis ist das gleiche für dich: Du sitzt in der Stille und wirst verrückt.
-
-## Die Neurowissenschaft von Stonewalling
-
-Wenn du in Stonewalling feststeckst, passiert etwas Interessantes in deinen Nervensystem.
-
-Du wird angespannt. Dein Herz rast. Dein Gehirn interpretiert Schweigen als Bedrohung – möglicherweise die gleiche Bedrohung wie Ablehnung oder [Trennung](/blog/trennung-verarbeiten-12-schritte).
+Und es ist einer der giftigsten Muster, die eine [Trennung](/blog/trennung-verarbeiten-12-schritte).
 
 Dein Körper geht in Panik-Modus. Du wirst aggressiv oder verzweifelt. Du fängst an zu betteln, zu drohen, oder zu versuchen, ihn zu "reparieren".
 

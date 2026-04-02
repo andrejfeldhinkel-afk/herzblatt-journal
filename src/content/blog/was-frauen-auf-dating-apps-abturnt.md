@@ -117,26 +117,9 @@ Und dann? Dann machst du das Einzige, das wirklich zählt: Du triffst dich pers�
 - [Multi-Dating: Mehrere Personen gleichzeitig daten — Ist das](/blog/online-dating-mehrere-personen-gleichzeitig/)
 - [Die Psychologie des Online-Datings: Warum wir swipen wie wir](/blog/online-dating-psychologie/)
 - [Online-Dating Wiedereinstieg: So startest du nach einer](/blog/online-dating-wiedereinstieg-nach-pause/)
-- [Richtig schreiben auf Dating-Apps: Der komplette Message-](/blog/wie-schreibt-man-auf-dating-apps/)
-## FAQ
-
-**Was sind die größten Dating-App-Fehler von Männern?**
-Fischfotos, Gym-Selfies, nur Gruppenbilder, leere oder arrogante Bios, und sofort sexuelle Anspielungen. Das signalisiert entweder Eitelkeit oder mangelndes Interesse an der Person.
-
-**Welche Fotos kommen bei Frauen gut an?**
-Echtes Lächeln, ein Foto mit Tier, ein Bild bei einer Aktivität die dich begeistert, und mindestens ein klares Porträt ohne Sonnenbrille. Authentizität schlägt Perfektion.
-
-**Wie schreibe ich eine gute erste Nachricht als Mann?**
-Beziehe dich auf ihr Profil, stelle eine offene Frage und sei witzig aber nicht übertrieben. "Hey" funktioniert nicht. "Ich sehe du warst in Lissabon — Pastéis de Nata oder Francesinha?" schon eher.
-
-**Sollte ich meine echte Körpergröße angeben?**
-Ja. Höhenangaben sind wichtig, weil viele Frauen einen bestimmten Range haben. Falsche Angaben führen nur zu Enttäuschungen beim persönlichen Treffen. Honesty pays off.
-
-**Ist die Dating-App Auswahl wichtig?**
-Ja. Tinder ist eher oberflächlich (Swipe-basiert), [Hinge](/blog/hinge-guide-deutsch-2026) ist tiefgründiger (Profile-basiert), Bumble zwingt Frauen zu schreiben (was manchmal auch Qualität über Quantität bringt). Wähle die App nach deinen Zielen.
+- [Hinge](/blog/hinge-guide-deutsch-2026) ist tiefgründiger (Profile-basiert), Bumble zwingt Frauen zu schreiben (was manchmal auch Qualität über Quantität bringt). Wähle die App nach deinen Zielen.
 
 ---
 
 **Verwandte Artikel:**
-- [Nüchtern daten: Der Guide für Dating ohne Alkohol](/blog/dating-ohne-alkohol)
 - [Drittes Date Ideen: Jetzt wird es persönlich](/blog/drittes-date-ideen)

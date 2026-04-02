@@ -227,6 +227,6 @@ Der perfekte Verlobungsring ist nicht einer, der die meisten Geld kostet oder am
 
 Es kann ein bescheidener Ring sein mit großer Bedeutung oder ein luxuriöser Ring. Was zählt, ist die Geschichte dahinter.
 
-[Nach der Verlobung kommt die Hochzeitsvorbereitung. Lies auch unseren Artikel über Glückwünsche zur Verlobung, um alles zu feiern](/blog/glueckwuensche-zur-verlobung-texte.md).
+[Nach der Verlobung kommt die Hochzeitsvorbereitung. Lies auch unseren Artikel über Glückwünsche zur Verlobung, um alles zu feiern](/blog/glueckwuensche-zur-verlobung-texte).
 
 Herzlichen Glückwunsch zu diesem schönen Moment.

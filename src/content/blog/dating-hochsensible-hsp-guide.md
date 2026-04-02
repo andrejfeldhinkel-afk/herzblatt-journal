@@ -1,5 +1,5 @@
 ---
-title: "Dating als hochsensible Person: Deine Sensibilität als Superkraft nutzen"
+title: "Dating als hochsensible Person"
 description: "Hochsensibilität beim Dating verstehen: Wie du deine Empfindlichkeit als Stärke einsetzt und passende Partner findest."
 date: 2026-03-29
 tags:
@@ -191,6 +191,5 @@ Und glaube, dass es jemanden gibt, der genau deine Intensität als wunderbar sie
 ---
 
 **Verwandte Artikel:**
-- [Grenzen setzen in Beziehungen: Der komplette Guide](/blog/)
-- [Secure Attachment entwickeln: Der Weg zu stabilen Beziehungen](/blog/)
+- Grenzen setzen in Beziehungen: Der komplette Guide
 - [Slow Dating: Die Revolution gegen Swipe-Kultur und wie du davon profitierst](/blog/slow-dating-revolution-guide)

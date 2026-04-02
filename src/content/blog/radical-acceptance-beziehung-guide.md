@@ -1,5 +1,5 @@
 ---
-title: "Radikale Akzeptanz in Beziehungen: Deinen Partner wirklich annehmen"
+title: "Radikale Akzeptanz in Beziehungen"
 description: "Lerne radikale Akzeptanz: Deinen Partner lieben wie er ist, nicht wie du ihn ändern möchtest."
 date: 2026-03-29
 tags:
@@ -225,6 +225,5 @@ Und wahrscheinlich wirst du auch.
 ---
 
 **Weitere Artikel zum Thema:**
-- [Emotionale Reife in Beziehungen: Wie du erkennst ob du (und dein Partner) bereit seid](/blog/emotionale-reife-beziehung-guide)
 - [Das Demand-Withdraw-Muster: Wenn einer immer fordert und der andere flieht](/blog/demand-withdraw-pattern-beziehung-guide)
 - [Stonewalling: Wenn dein Partner dich mit Schweigen bestraft](/blog/stonewalling-mauern-beziehung-guide)

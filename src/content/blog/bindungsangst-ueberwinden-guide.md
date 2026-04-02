@@ -1,5 +1,5 @@
 ---
-title: "Bindungsangst überwinden: Ursachen verstehen und Lösungen finden"
+title: "Bindungsangst überwinden: Ursachen verstehen und Lösungen..."
 description: "Bindungsangst überwinden mit konkreten Strategien. Verstehe die Ursachen deiner Beziehungsangst und lerne Schritt für Schritt Nähe zuzulassen."
 date: 2026-03-21
 draft: true
@@ -23,31 +23,7 @@ faq:
 
 ## Bindungsangst überwinden: Dein Weg zu echter Nähe
 
-Du kennst das Gefühl vielleicht: Die Beziehung wird besser, der Partner wird liebevoller, alles scheint endlich zu klapfen — und auf einmal verspürst du einen inneren Widerstand. Ein Impuls zu fliehen. Eine unbegründete Verärgerung über kleine Dinge. Ein diffuses Gefühl, das dir sagt: Das ist falsch, das funktioniert nicht. Das ist [Bindungsangst](/blog/bindungsangst-komplett-guide), und du bist damit nicht allein. Millionen Menschen kämpfen damit, ohne es manchmal überhaupt zu wissen. Die gute Nachricht: Bindungsangst lässt sich überwinden. Nicht über Nacht, aber mit Verständnis und systematischem Vorgehen. Dieser Leitfaden wird dir zeigen, wie.
-
-## Was ist Bindungsangst wirklich?
-
-Bindungsangst ist das Phänomen, dass Menschen unbewusst — oder bewusst — Distanz schaffen, wenn eine emotionale Beziehung zu intensiv wird. Es geht nicht darum, dass du den anderen Menschen nicht magst. Es geht darum, dass dir Nähe Angst macht. Dein Nervensystem sendet Alarmsignale aus, obwohl eigentlich alles in Ordnung ist. Die Situation "enge Beziehung" wird vom Gehirn als Bedrohung wahrgenommen, und du reagierst wie auf eine echte Gefahr: mit Flucht, Kampf oder Erstarren.
-
-Bindungsangst ist nicht das Gleiche wie Schüchternheit oder sozialen Ängstlichkeit. Du kannst ein absolut selbstsicherer, sogar charmanter Mensch sein und trotzdem bindungsängstlich. Es geht speziell um emotionale Nähe in romantischen oder intensiven Beziehungen. Manche bindungsängstlichen Menschen funktionieren perfekt im beruflichen Kontext oder haben viele Oberflächenfreundschaften, scheitern aber regelmäßig an langfristigen Partnerschaften.
-
-Das Tückische an Bindungsangst: Sie versteckt sich oft hinter anderen Narrativen. Du glaubst vielleicht, dass die andere Person einfach nicht die Richtige ist, statt zu erkennen, dass du Nähe sabotierst. Oder du überzeugst dich selbst, dass du "zu unabhängig" oder "zu wild" für Beziehungen bist, während die Wahrheit ist, dass du Angst vor Verletzlichkeit hast.
-
-## Vier Erkennungszeichen echter Bindungsangst
-
-Wie erkennst du, ob du bindungsängstlich bist? Hier sind die vier zuverlässigsten Indikatoren. Erstens: Das Sabotage-Muster. Du startest eine Beziehung voller Hoffnung, alles läuft großartig, und dann — nach drei, vier oder sechs Monaten — findest du plötzlich Probleme. Kleine Dinge beginnen dich zu irritieren. Der Achselzuckende Sarkasmus wird plötzlich "verletzend". Die Routine wird "langweilig". Du erstellst unterbewusst eine innere Liste mit Gründen, warum es nicht funktioniert. Das ist klassisches Sabotage-Verhalten.
-
-Zweitens: Das Fluchtverhalten. Wenn der Partner näher kommen möchte — emotionale oder physische Nähe — verspürst du einen Drang, dich zurückzuziehen. Vielleicht übernimmst du plötzlich extra Arbeit, um nicht zu Hause zu sein. Vielleicht brauchst du "Freiraum" und "Zeit für dich". Das ist nicht automatisch bindungsängstlich, aber wenn es übertrieben ist oder mit Panikgefühlen verbunden ist, deutet es darauf hin.
-
-Drittens: Das Wählen von unerreichbaren Partnern. Wenn du immer wieder Menschen wählst, die nicht verfügbar sind — Leute mit Beziehungen, Menschen in anderen Ländern, Bindungsängstliche wie du selbst — deutet das auf unbewusste Angst vor echtem Engagement hin. Dein Unterbewusstsein wählt automatisch Szenarien, in denen Nähe unmöglich ist.
-
-Viertens: Der Nähe-Ferne-Rhythmus. Du bist super liebevoll und präsent, dann urplötzlich kalt und distanziert, ohne dass etwas Konkretes passiert ist. Dieser emotionale Whiplash ist charakteristisch für bindungsängstliche Menschen. Es ist, als würde dein Nervensystem ständig zwischen "Nähe suchen" und "Nähe vermeiden" pendeln.
-
-## Woher kommt die Bindungsangst?
-
-Die Wurzeln von Bindungsangst liegen fast immer in der Kindheit. Das ist keine Schuldzuweisung an deine Eltern — es ist einfach eine neurologische Tatsache. Dein Gehirn speichert Muster ab. Wenn du in der Kindheit erlebt hast, dass Nähe unsicher war, lernten deine Nerven, vor Nähe zu fliehen. Vielleicht war ein Elternteil emotional verfügbar, aber plötzlich emotional nicht erreichbar. Oder ein Elternteil war zu klammernde, und du hast gelernt, dass Nähe Einengung bedeutet. Oder es gab Konflikte, bei denen ein Elternteil drohte zu gehen. Diese frühen Lektionen prägen dein nervliches System.
-
-Manche Menschen entwickeln Bindungsangst auch durch Traumata in Beziehungen. Ein heftiger Betrug, eine demütigende [Trennung](/blog/trennung-verarbeiten-12-schritte), emotionale Missbrauch — das alles kann dein System kalibrieren, um Nähe als gefährlich zu erleben. Dein Gehirn hat gelernt: "Menschen, denen ich vertraue, können mich verletzen. Deshalb halte ich andere auf Abstand."
+Du kennst das Gefühl vielleicht: Die Beziehung wird besser, der Partner wird liebevoller, alles scheint endlich zu klapfen — und auf einmal verspürst du einen inneren Widerstand. Ein Impuls zu fliehen. Eine unbegründete Verärgerung über kleine Dinge. Ein diffuses Gefühl, das dir sagt: Das ist falsch, das funktioniert nicht. Das ist [Trennung](/blog/trennung-verarbeiten-12-schritte), emotionale Missbrauch — das alles kann dein System kalibrieren, um Nähe als gefährlich zu erleben. Dein Gehirn hat gelernt: "Menschen, denen ich vertraue, können mich verletzen. Deshalb halte ich andere auf Abstand."
 
 Es gibt auch eine kulturelle Komponente. Du lebst in einer Gesellschaft, die Unabhängigkeit vergöttert, die Liebe als Schwäche darstellt und emotionale Offenheit oft mit Vulnerabilität gleichsetzt. Dir wurde vielleicht beigebracht, dass du "cool" sein sollst, deine Gefühle verbergen sollst oder dass emotionale Bedürftigkeit peinlich ist. Diese Botschaften internalisieren sich, und plötzlich empfindest du Nähe als einen Verstoß gegen deine Identität.
 
@@ -95,35 +71,7 @@ Bindungsängstliche Menschen haben oft gelernt, ihre Gefühle zu verstecken. Sie
 
 Sag deinem Partner nicht einfach "Mir geht es gut", sondern "Mir ist heute angst vor Nähe. Ich weiß, dass du sicher bist, aber mein Körper protestiert. Ich arbeite daran. Danke, dass du da bist." Das ist exponentiell schwerer als das erste, aber das ist auch der Punkt.
 
-Übe auch, [Komplimente](/blog/komplimente-fuer-maenner) anzunehmen. Bindungsängstliche Menschen tendieren dazu, Lob zu unterminieren. Der Partner sagt "Du bist wunderbar" und du antwortest "Nee, ich bin chaotisch und unreif". Stop. Sag stattdessen: "Danke, das bedeutet mir viel."
-
-## Schritt 5: Das Nervensystem regulieren
-
-Dein Körper braucht tatsächliche Techniken, um sich aus dem Fluchtmodus in den Sicherheitsmodus zu bewegen. Hier sind konkrete Praktiken:
-
-**Tiefe Atmung**: Wenn du die Panik/Flucht-Reaktion spürst, atme 4 Sekunden ein, halte 2 Sekunden, atme 6 Sekunden aus. Das aktiviert deinen parasympathischen Nervus direkt. Es ist nicht esoterisch, es ist Neurowissenschaft.
-
-**Tapping**: Google "EFT Tapping" oder "Emotional Freedom Technique". Es gibt Schritt-für-Schritt Anleitungen online. Es funktioniert. Viele Menschen berichten von sofortigen Durchbrüchen.
-
-**Somatic Experiencing**: Mache intensive körperliche Aktivität. Laufen, Kampfsport, Tanzen. Dein Nervensystem lagert Stress im Körper ein. Du musst ihn buchstäblich abschütteln.
-
-**Sicherheitserinnerungen**: Schreib auf, Momente, in denen du dich mit jemandem safe gefühlt hast. Lese diese, wenn die Angst kommt. "Erinnerst du dich, wie du mit deinem Partner am Strand warst? Wie sein Arm um dich war und du dich total sicher gefühlt hast? Das ist real. Das ist möglich."
-
-## Schritt 6: Beziehungsmuster durchbrechen
-
-Ein großer Teil der Überwindung von Bindungsangst ist, deine unbewussten Muster zu sehen und sie bewusst zu unterbrechen. Die meisten bindungsängstlichen Menschen haben ein Skript, das sie immer wieder abspielen. Es könnte so aussehen:
-
-**Das Muster**: Neuer Partner → erste Wochen sind magisch → drei Monate: ich finde Fehler → vier Monate: Ich zog mich zurück → fünf Monate: Konflikte und Sabotage → Trennung.
-
-Wenn das dein Muster ist, musst du es sehen. Und dann musst du bewusst anders handeln. Wenn du merkst, dass du dich nach drei Monaten zahlreiche Fehler auffallen, tu das:
-
-Halte inne. Frag dich: "Sind diese Fehler real Dealbreaker oder bin ich in Sabotage-Modus?" Oft ist die Antwort: "Eigentlich nicht. Das sind normale menschliche Fehler." Statt zu gehen, bleib. Sag deinem Partner die Wahrheit: "Ich fühle mich angespannt und ich weiß nicht warum. Ich brauche etwas Zeit, aber ich bin noch hier."
-
-Das ist radikal anders von deinem üblichen Skript. Und das ist genau der Punkt. Du musst dein Nervensystem neu trainieren, dass Nähe sicher ist, indem du tatsächlich präsent bleibst.
-
-## Schritt 7: Trigger identifizieren und transformieren
-
-Jeder hat spezifische Trigger — Dinge, die Bindungsangst auslösen. Vielleicht ist es, wenn der Partner sagt "Lass uns [zusammenziehen](/blog/zusammenziehen-checkliste)". Vielleicht ist es "Ich mische dich meinen Freunden vor". Vielleicht ist es einfach, wenn jemand dich unerwartet umarmt.
+Übe auch, [zusammenziehen](/blog/zusammenziehen-checkliste)". Vielleicht ist es "Ich mische dich meinen Freunden vor". Vielleicht ist es einfach, wenn jemand dich unerwartet umarmt.
 
 Schreib deine Top-Trigger auf. Sei detailliert. Dann, für jeden Trigger, frag dich: Was genau triggert das? Was bedeutet das für mein Nervensystem?
 
@@ -182,130 +130,7 @@ Das ist nicht leicht. Aber es ist möglich. Millionen Menschen haben es getan. U
 - [Retroaktive Eifersucht überwinden: Warum die Vergangenheit deines Partners dich foltert](/blog/retroaktive-eifersucht-ueberwinden/)
 - [Bindungsangst erkennen und überwinden](/blog/bindungsangst-erkennen-ueberwinden/)
 - [Bindungsangst überwinden: Warum du dich nicht einlassen kannst und was hilft](/blog/bindungsangst-ueberwinden/)
-- [Bindungstypen verstehen: Einfluss auf dein Dating](/blog/attachment-styles-dating/)
-
-
-## FAQ: Häufige Fragen zur Bindungsangst
-
-**Kann sich Bindungsangst in einer bestimmten Phase manifestieren?**
-
-Absolut. Manchmal tritt Bindungsangst erst nach Monaten oder sogar Jahren auf. Du kannst dich monatelang super fühlen und dann, wenn es Zeit wird, zusammenzuziehen oder zu heiraten, explodiert die Angst. Das ist typisch. Der psychologische Begriff heißt "Committed-Phase Anxiety."
-
-**Was ist der Unterschied zwischen echtem Unverträglichkeit und Bindungsangst-Sabotage?**
-
-Das ist die Millionen-Dollar-Frage. Echte Unverträglichkeit bedeutet: Die Werte stimmen nicht überein. Der Mensch behandelt dich schlecht. Du habt fundamentale Konflikte. Bindungsangst-Sabotage bedeutet: Alles ist gut, aber du erfindest Probleme. Test: Sag deinem Partner alle deine "Kritiken" und frag ihn: "Sind das echte Dealbreaker, oder bin ich verrückt?" Sein Feedback ist hilf.
-
-**Kann ich als bindungsängstliche Person jemanden verletzen?**
-
-Ja. Wenn du deine Bindungsangst nicht adressierst und weiterhin deine Partner sabotierst, wirst du Menschen verletzen. Das ist ein Grund mehr, die Arbeit zu tun. Nicht nur für dich, sondern für Menschen, die du liebst.
-
-**Wie lange dauert es, Bindungsangst zu überwinden?**
-
-Das variiert. Manche Menschen erleben Durchbrüche in Wochen. Andere brauchen Monate oder Jahre. Es hängt ab davon wie tief verwurzelt die Angst ist, wie viel Unterstützung du hast und wie konsistent du an dir arbeitest. Aber Veränderung ist auf jeden Fall möglich.
-
-## Schritt 11: Kleine Rückschritte als Erfolge anerkennen
-
-Es ist leicht zu verlangen, dass du eine perfekte Beziehung führst, sobald du merkst, dass du bindungsängstlich bist. Das ist unrealistisch. Der Weg zur Heilung ist nicht linear. Es gibt Rückschritte. Es gibt Tage, an denen du wieder in alte Muster fällst.
-
-Das ist völlig normal und nicht bedeuten, dass du gescheitert hast. Ein echter Erfolg könnte sein: Du hast wieder Angst verspürt, aber statt zu fliehen, hast du deinen Partner gesagt, "Mir ist angespannt." Das ist ein Sieg. Ein Jahr davor hättest du einfach gekündigt.
-
-Oder: Du wolltest sabotieren, aber du hast tief durchgeatmet und ruhig geblieben. Das ist auch ein Sieg. Sei nicht hart mit dir selbst. Erkenne die Fortschritte an, auch die kleinen.
-
-## Schritt 12: Das Konzept der "Earned Secure Attachment"
-
-Die Psychologie hat ein wunderschönes Konzept namens "Earned Secure Attachment." Es bedeutet: Du kannst nicht unsicher aufgewachsen sein und dennoch, durch Bewusstsein und Arbeit, ein sicheres Bindungsmuster entwickeln. Du kannst dich selbst neu trainieren.
-
-Das ist Hoffnung. Das bedeutet, dass deine Kindheit nicht dein Schicksal ist. Du bist nicht verdammt zu wiederholten Mustern. Mit Selbstreflexion, mit therapeutischer Hilfe wenn nötig, mit aktiver Praxis — du kannst ein sicherer Mensch werden.
-
-Menschen, die earned secure attachment entwickelt haben, berichten: "Ich erkenne meine Angst jetzt wenn sie kommt. Ich kann mit ihr sitzen. Ich gerate nicht in Panik. Ich kann meinen Partner anschauen und wissen: Wir sind okay. Das ist ein riesiger Unterschied von früher."
-
-Das kann dein Leben auch sein.
-
-## Schritt 13: Das Trauma-informierte Verständnis
-
-Wenn deine Bindungsangst mit echtem Trauma verbunden ist — Missbrauch, Vernachlässigung, Betrug, Verlust — dann musst du das verstehen und adressieren. Trauma ist nicht einfach eine "emotionale Störung". Es ist eine körperliche, neurologische Condition.
-
-Dein Körper speichert das Trauma. Es sitzt in deinen Muskeln, in deinen Reaktionen, in dem Art, wie dein Nervensystem aufgebaut ist. Das ist warum einfach "denke positiv" nicht funktioniert. Du brauchst trauma-spezifische Unterstützung.
-
-Therapien wie EMDR, Somatic Experiencing oder Trauma-Focused Cognitive Behavioral Therapy sind speziell dafür designt, Trauma aus dem Körper zu bearbeiten. Es gibt wissenschaftliche Evidenz, dass sie funktionieren. Wenn du Trauma in deiner Geschichte hast, bitte suche nach einem Therapeuten, der auf Trauma spezialisiert ist.
-
-## Schritt 14: Die Grenzen setzen
-
-Kontraintuitiv, aber bindungsängstliche Menschen müssen manchmal lernen, bessere Grenzen zu setzen. Nicht aus Angst, sondern aus Selbstschutz. Eine gesunde Grenze könnte sein: "Ich brauche an Sonntagen Zeit allein. Das ist nicht persönlich. Es ist für meine psychische Gesundheit."
-
-Oder: "Ich kann nicht über Heirat reden, wenn ich in Panik bin. Lass uns warten, bis ich mich beruhigt habe." Das ist ein Grenze, aber es ist auch heilsam. Es sagt: "Ich respektiere meine eigenen Bedürfnisse."
-
-Betroffene Menschen mit Bindungsangst missbrauchen oft "Grenzen" als Ausrede zum Abzug. Das ist nicht das, wovon ich rede. Echte Grenzen sind klar, sie sind konsistent und sie dienen dem Zweck, die Beziehung zu schützen, nicht zu sabotieren.
-
-## Schritt 15: Die Bedeutung von regelmäßiger Praxis
-
-Heilung ist nicht ein Sprint. Es ist ein Marathon. Dinge die funktionieren:
-
-**Tägliche Achtsamkeit**: 10 Minuten pro Tag wo du einfach sitzt und beobachtest, was in deinem Körper passiert ohne zu urteilen.
-
-**Regelmäßige Therapie**: Wöchentlich wenn du kannst. Konsistenz ist wichtiger als Intensität.
-
-**Journaling**: Schreib über deine Beziehung, deine Trigger, deine Fortschritte. Das Schreiben organisiert die Gedanken und hilft dir zu sehen, wie weit du gekommen bist.
-
-**Kontinuierliches Lernen**: Lese Bücher über Bindung. Ein großartiges Buch ist "Attached" von Levine und Heller. Je mehr du verstehst, desto weniger mysteriös und angsteinflößend wird es.
-
-Diese Praktiken allein wirken nicht. Aber zusammen, über Zeit, erzeugen sie enorme Veränderung.
-
-## Schritt 16: Die Wahl eines Partners mit sicherer Bindung
-
-Nicht zu unterschätzen: Die Art des Partners, mit dem du zusammen bist, beeinflusst deine Heilung. Ein Partner mit sicherer Bindung — jemand, der entspannt ist, nicht klammert, nicht spielen spielt, klar kommuniziert — ist therapeutisch für dich.
-
-Wenn du bindungsängstlich bist und mit jemandem zusammen, der auch bindungsängstlich oder unsicher ist, wird das exponentiell schwerer. Ihr werdet euch gegenseitig triggern. Die Beziehung wird ein Schlachtfeld statt ein Heilungsort.
-
-Das bedeutet nicht, dass es unmöglich ist. Aber es bedeutet, dass beide arbeiten müssen. Und wenn nur einer arbeitet und der andere nicht, dann ist es wahrscheinlich an der Zeit, eine schwere Entscheidung zu treffen.
-
-## Schritt 17: Die Realität des Liebens während der Heilung
-
-Hier ist etwas, das niemand sagt: Du kannst jemanden lieben und trotzdem bindungsängstlich sein. Die beiden koexistieren. Es ist nicht "wenn du mich wirklich lieben würdest, würde die Angst gehen." Die Angst kann absolut da sein, und die Liebe auch.
-
-Das ist tatsächlich gutes Nachrichten. Es bedeutet, dass du nicht "perfekt" sein musst bevor du dich erlauben kannst zu lieben. Du kannst mit der Angst präsent sein. Du kannst deinen Partner sagen: "Ich habe Angst und ich liebe dich gleichzeitig. Beides ist real."
-
-Das ist eine Reife, die sich anfühlt sehr unterschiedlich von der dramatischen "es ist alles oder nichts" Mentalität, die die Bindungsangst ursprünglich charakterisiert hat.
-
-## Schritt 18: Das Verhältnis zu Unabhängigkeit
-
-Bindungsängstliche Menschen verstecken ihre Angst oft hinter Unabhängigkeit. Sie sagen: "Ich bin zu unabhängig für eine Beziehung." Die Wahrheit ist: Das ist nicht Unabhängigkeit. Es ist Vermeidung.
-
-Echte Unabhängigkeit ist: Du kannst allein sein und glücklich. UND du kannst mit jemandem zusammen sein und noch glücklicher. Das ist das Ziel. Nicht eine Wahl zwischen Einsamkeit und Angst.
-
-Wenn du wirklich unabhängig wirst — nicht wie eine Abwehr, sondern wie ein Sicherheitsgefühl — dann wird Nähe nicht beängstigend. Es wird eine Erweiterung, nicht eine Verletzung. Das ist eine fundamentale Verschiebung.
-
-## Schritt 19: Bindungsangst bei Männern vs. Frauen
-
-Es gibt kleine geschlechtsspezifische Unterschiede in wie Bindungsangst sich manifestiert. Männer mit Bindungsangst berichten oft mehr von "Unabhängigkeit"-Narrativen. Sie sagen: "Ich bin nicht der Typ für Beziehungen. Ich bin ein Lone Wolf." Frauen mit Bindungsangst berichten oft mehr von Angst, "zu viel" zu sein. Sie sagen: "Ich bin zu intensiv. Ich scare Leute weg."
-
-Aber die zugrunde liegenden Muster sind ähnlich. Und die Heilung ist ähnlich. Es spielt keine Rolle, welches Geschlecht du bist — es geht um dein Nervensystem, nicht um dein Geschlecht.
-
-## Schritt 20: Das Konzept der "Secure Functioning"
-
-Eine letzte Perspektive: Es gibt ein Konzept in der Psychologie namens "Secure Functioning" entwickelt von Harville Hendrix. Es geht darum, dass eine gute Beziehung nicht bedeutet, dass beide "sicher attached" sind. Es bedeutet, dass ihr beide arbeitet, um sicherer zu sein.
-
-Das ist großartig, weil es der Druck nimmt "perfekt" zu sein. Du darfst noch Angst haben. Dein Partner darf noch unsicher sein. Aber wenn ihr beide committed seid zur gegenseitigen Heilung, zur Kommunikation, zum Verstehen — dann funktioniert es.
-
-Das ist realistisch. Das ist auch ermächtigend. Es sagt: Du kannst das. Du brauchst nicht ein anderer Mensch zu sein um Liebe zu verdienen.
-
-## Finale Gedanken
-
-Bindungsangst ist nicht dein Fehler. Es ist nicht wegen dir als Person. Es ist ein Symptom, ein Zeichen, dass dein Nervensystem in bestimmten Bereichen nicht sicher gelernt hat. Aber das Gute: Dein Nervensystem kann umtrainiert werden. Und wenn du bereit bist zu tun die Arbeit — die unbequeme Arbeit, die innere Arbeit — dann ist ein Leben mit echter Liebe, mit echter Nähe, vollständig möglich.
-
-Dein Skeptizismus ist wahrscheinlich laut gerade. "Das funktioniert nicht wirklich." Aber du weißt auch, dass das, was du bisher getan hast, nicht funktioniert. Also probiere etwas Neues aus. Die Alternative ist ein Leben in Einsamkeit, versteckt hinter Unabhängigkeit. Das verdienst du nicht.
-
-Du verdienst echte Liebe. Nähe ohne Angst. Präsenz. Das ist dein Geburtsrecht. Und es ist erreichbar.
-
-## Die verschiedenen Ausprägungen der Bindungsangst
-
-Nicht alle Bindungsängstlichen verhalten sich gleich. Es gibt verschiedene "Typen", und zu verstehen, welcher du bist, kann hilfreich sein.
-
-**Der Vermeidende**: Das ist jemand, der Nähe aktiv vermeidet. Küssen fühlt sich unangenehm an. Kuscheln ist zu viel. Das Wort "Liebe" macht dich unwohl. Du magst deine Unabhängigkeit und du wehre dich gegen Abhängigkeit. Dieser Typ ist oft am erfolgreichsten bei der Sabotage — er kann einfach gehen und sich nicht so schuldig fühlen, weil er sowieso nicht so viel emotional investiert war.
-
-**Der Klammernde**: Das ist jemand, der Nähe braucht, aber dabei auch panisch wird. Du willst die andere Person ständig und gleichzeitig hast du Angst, dass sie dich verlässt. Dein Verhalten kann über-pursuing sein. Du textest zu viel, du brauchst Versicherung, du liest zu viel in ihre Worte herein. Der Stress für deinen Partner ist echte.
-
-**Der Zyklische**: Das bin ich, der hot-and-cold spielen. Du bist super [verliebt](/blog/mann-verliebt-anzeichen-komplett) und dann plötzlich total distanziert. Dein Partner weiß nie, welche Version von dir er bekommt. Das erzeugt echte Unsicherheit bei ihm.
+- [verliebt](/blog/mann-verliebt-anzeichen-komplett) und dann plötzlich total distanziert. Dein Partner weiß nie, welche Version von dir er bekommt. Das erzeugt echte Unsicherheit bei ihm.
 
 **Der Unbewusste**: Das ist jemand, der bindungsängstlich ist, aber das nicht erkennt. Er denkt, er hat einfach "Pech mit Beziehungen" oder "Menschen sind unmöglich". Er sieht nicht sein eigenes Muster. Das ist wahrscheinlich der schwierigste Typ, weil ohne Bewusstsein gibt es keine Veränderung.
 

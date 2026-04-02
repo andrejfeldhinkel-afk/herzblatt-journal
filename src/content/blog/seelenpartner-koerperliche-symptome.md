@@ -110,9 +110,9 @@ Dein Körper ist ein weiser Ratgeber. Wenn er dir sagt, dass etwas Besonderes pa
 
 ## Weitere Erkenntnisse
 
-Für mehr Informationen über dein emotionales Erleben einer Seelenpartnerschaft, lies unseren Artikel über [die Zeichen eines Seelenpartners](/blog/seelenpartner-zeichen-erkennen.md).
+Für mehr Informationen über dein emotionales Erleben einer Seelenpartnerschaft, lies unseren Artikel über [die Zeichen eines Seelenpartners](/blog/seelenpartner-zeichen-erkennen).
 
-Du könntest auch interessiert sein an unserem Guide über [Komplimente, die ankommen](/blog/komplimente-machen-die-ankommen.md), um dein Seelenpartner noch näher zu kommen.
+Du könntest auch interessiert sein an unserem Guide über [Komplimente, die ankommen](/blog/komplimente-machen-die-ankommen), um dein Seelenpartner noch näher zu kommen.
 
 ## Fazit: Dein Körper kennt die Wahrheit
 

@@ -180,25 +180,7 @@ Keine dieser Fragen sind Dealbreaker. Sie sind nur... zu adressieren.
 
 ## Heimweh und Dating: Das emotionale Ding
 
-Ich will nett sein, aber ich muss ehrlich sein: Die ersten Monate nach Auswanderung ist die Wahrscheinlichkeit, dass du dich in das erste person [verliebt](/blog/mann-verliebt-anzeichen-komplett), die dich mag, höher als normal.
-
-Nicht weil diese Person so großartig ist. Sondern weil du allein bist und emotionallvulnerabel.
-
-Das ist nicht deine Schuld. Das ist Psychologie.
-
-Was du tun kannst:
-**Sei aware davon.** „Ich bin emotionallvulnerabel, daher sind meine Gefühle möglicherweise nicht reliable." Das hilft dir, nicht überstürzte Entscheidungen zu treffen.
-**Hol dir Unterstützung von anderen Expats.** Sprich mit Freunden über dein Heimweh, nicht nur mit deinem Dating-Partner. Das hilft, die Lasten zu teilen.
-**Nicht versuchen, das Heimweh mit einer Beziehung zu beheben.** Das wird nicht funktionieren. Du musst dich mit dem Land connect, nicht nur mit einer Person.
-
-Mit der Zeit wird das Land mehr wie Zuhause. Und deine Gefühle werden stabiler.
-
-## The Practical Stuff: Where And How To Meet People
-
-Okay, konkrete Tipps. Wo datet man als Expat?
-
-**Dating Apps.**
-Bumble, Tinder, [Hinge](/blog/hinge-guide-deutsch-2026), lokale Apps. Sag im Profil, dass du neu bist. Das ist großartig für Locals, die dir zeigen wollen, wie es funktioniert.
+Ich will nett sein, aber ich muss ehrlich sein: Die ersten Monate nach Auswanderung ist die Wahrscheinlichkeit, dass du dich in das erste person [Hinge](/blog/hinge-guide-deutsch-2026), lokale Apps. Sag im Profil, dass du neu bist. Das ist großartig für Locals, die dir zeigen wollen, wie es funktioniert.
 
 Auch: Es gibt Apps speziell für Expats, wie InterNations, Couchsurfing, auch mit Dating-Elementen.
 

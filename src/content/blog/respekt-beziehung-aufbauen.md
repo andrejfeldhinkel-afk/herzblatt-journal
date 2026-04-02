@@ -1,5 +1,5 @@
 ---
-title: "Respekt in der Beziehung: Das Fundament jeder glücklichen Partnerschaft"
+title: "Respekt in der Beziehung: Das Fundament jeder glücklichen..."
 description: "Respekt in der Beziehung ist wichtiger als Liebe. Erfahre, wie du gegenseitigen Respekt aufbaust, erhältst und eine erfüllende Partnerschaft schaffst."
 date: 2026-03-21
 author: sarah-kellner

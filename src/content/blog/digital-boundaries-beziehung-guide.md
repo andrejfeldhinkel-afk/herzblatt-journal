@@ -1,5 +1,5 @@
 ---
-title: "Digitale Grenzen in Beziehungen: Handy, Social Media und Privatsphäre"
+title: "Digitale Grenzen in Beziehungen"
 description: "Digitale Grenzen in der Beziehung: Entdecke wie du mit Handy-Nutzung, Social Media und Privatsphäre healthy umgehen kannst — praktische Tipps für Vertrauen."
 date: 2026-03-29
 tags:
@@ -386,4 +386,4 @@ Das ist digitale Grenzen. Das ist echte Liebe in einer digitalen Welt.
 
 ---
 
-**Weitere Artikel zum Thema:** [Vertrauen aufbauen nach Vertrauensbruch](/blog/vertrauen-aufbauen), [Eifersucht in der Beziehung verstehen](/blog/eifersucht-verstehen)
+**Weitere Artikel zum Thema:** [Eifersucht in der Beziehung verstehen](/blog/eifersucht-bekaempfen)

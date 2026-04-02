@@ -133,76 +133,7 @@ Und dann, als separater Teil deines Lebens, siehst du diese Person.
 
 Nach ein paar Monaten, wenn ihr beiden sicher seid, dann könnt ihr langsam zusammenführen.
 
-## Fehler #4: Du ignorierst [Red Flags](/blog/dating-red-flags-maenner-erkennen)
-
-Die andere Person sagt etwas Kontrollierendes. Dein Gehirn merkt es. Aber du redest es dir aus.
-
-"Das bedeutet wahrscheinlich nichts."
-
-"Sie hat wahrscheinlich einen schlechten Tag."
-
-"Das ist wahrscheinlich nur nervös sein."
-
-Das ist die gefährlichste Lüge, die du dir selbst erzählst.
-
-Red Flags sind nicht zufällig. Sie sind Information. Sie sind dein Gehirn, das dir sagt: Achtung. Das ist falsch.
-
-Was solltest du stattdessen tun?
-
-Du respektierst deine Red Flags.
-
-Das bedeutet nicht, dass du sofort die Person ablehnen musst. Das bedeutet, dass du aufmerksam bleibst.
-
-Du beobachtest. Wenn die Red Flag einmal vorkommt, könnte das ein Fehler sein. Wenn sie mehrmals vorkommt, dann ist das ein Pattern. Und wenn es ein Pattern ist, dann musst du gehen.
-
-Die Kennenlernphase ist dazu da, um zu sehen, ob diese Person gut für dich ist.
-
-Red Flags sind genau das Signal dafür, dass sie vielleicht nicht ist.
-
-## Fehler #5: Du verwechselst Chemie mit Kompatibilität
-
-Chemie ist, wenn dein Körper sich anfühlt, als würde er auf Feuer stehen. Das ist das Kribbeln. Das ist die Lust.
-
-Kompatibilität ist, wenn ihr die gleichen Werte habt. Wenn ihr die gleichen Ziele habt. Wenn ihr grundlegend gut zusammen funktioniert.
-
-Diese zwei sind nicht das Gleiche.
-
-Du kannst großartige Chemie mit jemandem haben, der absolut nicht mit dir kompatibel ist.
-
-Das ist oft, was passiert. Du datierst jemanden, mit dem du großartige Chemie hast. Und nach ein paar Monaten merkst du: Wir wollen völlig unterschiedliche Dinge. Wir haben völlig unterschiedliche Werte.
-
-Das ist Zeitverschwendung.
-
-Was solltest du stattdessen tun?
-
-Du überprüfst beide. Nicht nur Chemie. Auch Kompatibilität.
-
-Das bedeutet:
-- Was sind ihre Träume?
-- Was sind ihre Werte?
-- Was will sie in fünf Jahren?
-- Wie verhält sich diese Person zu Problemen?
-- Sind wir emotional kompatibel?
-
-Chemie ist wichtig. Aber Kompatibilität ist wichtiger.
-
-## Fehler #6: Du versuchst, diese Person zu verändern
-
-Die Person passt nicht ganz zu dir. Aber du denkst: "Das ist okay. Ich kann das ändern."
-
-Das ist nicht okay.
-
-Das ist eine der größten Lügen, die wir uns im Dating erzählen.
-
-Du kannst diese Person nicht ändern. Die Person muss selbst das wollen, und das wird Jahre dauern, wenn es überhaupt passiert.
-
-Was du tun kannst: Du akzeptierst die Person, wie sie ist. Oder du gehst.
-
-Das ist es.
-
-Wenn du versuchst, diese Person zu ändern, wirst du frustriert. Die Person wird sich angegriffen fühlen. Und irgendwann wird die Beziehung kaputtgehen.
-
-Oder noch schlimmer: Du wirst die Person erfolgreich "ändern" und dann merkst du, dass sie nicht mehr die Person ist, in die du dich [verliebt](/blog/mann-verliebt-anzeichen-komplett) hast.
+## Fehler #4: Du ignorierst [verliebt](/blog/mann-verliebt-anzeichen-komplett) hast.
 
 Was solltest du stattdessen tun?
 

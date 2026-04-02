@@ -424,7 +424,6 @@ Das ist sein eigener Typ von Freiheit und Gnade.
 - [Fawn Response: Wenn du dich in Beziehungen aufgibst, um](/blog/fawn-response-beziehung-guide/)
 - [Fleabagging — Warum du immer die falschen dattest](/blog/fleabagging-dating-pattern-guide/)
 - [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inneres-kind-heilen-beziehung/)
-- [Parentifizierung: Wenn du als Kind die Elternrolle](/blog/parentifizierung-beziehungen-guide/)
 - [Selbstliebe lernen nach [Trennung](/blog/trennung-verarbeiten-12-schritte): Dein Weg zurück zu dir](/blog/selbstliebe-nach-trennung/)
 ## FAQ: Fragen, die Männer mir stellen
 
@@ -516,7 +515,6 @@ Du wirst überrascht sein, wer du wirklich bist, wenn du dich selbst erlaubst, e
 
 **Weitere Artikel, die helfen könnten:**
 
-- [Toxische Männlichkeit beim Dating erkennen](/blog/toxische-maennlichkeit-dating)
 - [Selbstliebe für Männer](/blog/selbstliebe-dating)
 - [Beziehung und Mental Health](/blog/beziehung-und-mental-health)
 

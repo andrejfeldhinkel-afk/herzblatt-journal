@@ -30,51 +30,7 @@ Der Begriff wurde von Autor und Dating-Coach Matthew Hussey populär gemacht, ob
 
 ### Ein neuer Ansatz zum Dating
 
-In einer Dating-Welt voller Spielchen, [Ghosting](/blog/ghosting-komplett-guide) und emotionaler Spielerei, könnte Hardballing radikal sein. Es könnte auch beängstigend sein, wenn Sie nicht daran gewöhnt sind. Aber je mehr Menschen es ausprobieren, desto mehr erkennen sie, dass es funktioniert.
-
-## Warum wir traditionell Spielchen spielen
-
-Bevor wir Hardballing verstehen, müssen wir verstehen, warum Menschen überhaupt Spielchen spielen.
-
-### Die Angst vor Ablehnung
-
-Das Kern-Problem: Menschen spielen Spielchen, weil sie Ablehnung fürchten. Wenn Sie sagen, "Ich mag Sie und möchte Sie treffen", riskieren Sie, dass sie sagen, "Nein, Dankeschön". Das tut weh. Es ist einfacher, vorzutäuschen, dass Sie nicht sehr interessiert sind, sodass eine Ablehnung nicht so verletzend ist.
-
-### Die Macht-Dynamik
-
-Spielchen sind auch über Kraft. Wenn Sie langsam antworten oder vorgeben, dass Ihnen andere Optionen haben, erscheinen Sie "knapp". Dies wird oft als attraktiv oder begehrtermixt angesehen. Die Person fühlt, dass Sie sie wollen, und kämpft für Ihre Aufmerksamkeit.
-
-### Sozialisierung
-
-Wir werden sozialisiert, um zu verstecken, was wir fühlen. Besonders für Frauen: seien Sie nicht zu eagering, nicht zu bedürftig, nicht zu laut. Für Männer: nicht zu sensitive, nicht zu emotional. Diese Sozialisierung macht es schwierig, authentisch zu sein.
-
-### Das "erwartete" Spiel
-
-Nach Jahren von Dating-Kultur, die Spielchen als normal darstellt, werden Menschen angenommen, dass dies das ist, wie es gemacht wird. Wenn Sie nicht spielen, sind Sie fehl am Platz.
-
-## Die Nachteile traditioneller Dating-Spielchen
-
-### Ineffizienz
-
-Spielchen verschwenden Zeit. Sie sprechen mit jemandem für Wochen, beide spielen ein Spiel, und dann verstehen Sie, dass Sie nicht kompatibel sind. Alles diese Zeit hätte auf die Suche nach echten Verbindungen verwendet werden können.
-
-### Verwirrung
-
-Wenn beide Menschen Spielchen spielen, verstehen Sie nicht, was die andere Person wirklich denkt. Sind sie interessiert? Wie viel? Sind sie nur höflich? Es ist frustrierend.
-
-### Emotionale Burnout
-
-Konstantes Spielen ist anstrengend. Sie müssen merken, wie viel Zeit hat verstreichen, bevor Sie antworten. Sie müssen vorgeben, nicht interessiert zu sein, wenn Sie es sind. Sie müssen lesen, dass zwischen den Zeilen ist. Dies führt zu Angst, zweite-Vermutung und Angstzustand.
-
-### Mangel an echten Verbindungen
-
-Wenn Sie ein Spiel spielen, baut die andere Person Beziehung zu dem Spiel, nicht zu dir. Wenn Sie Ihr falsches Selbst präsentieren, können Sie nie wirklich bekannt oder geschätzt werden.
-
-## Was Hardballing bedeutet
-
-### Sagen Sie, was Sie denken
-
-Wenn Sie jemanden treffen, den Sie mögen, sagen Sie es (wenn angemessen). Nicht in einer intensiven Art und Weise – nicht "Ich bin [verliebt](/blog/mann-verliebt-anzeichen-komplett) in Sie nach einem Datum" – aber eine authentische Art. "Ich hatte wirklich eine gute Zeit mit dir. Ich möchte dich wieder sehen."
+In einer Dating-Welt voller Spielchen, [verliebt](/blog/mann-verliebt-anzeichen-komplett) in Sie nach einem Datum" – aber eine authentische Art. "Ich hatte wirklich eine gute Zeit mit dir. Ich möchte dich wieder sehen."
 
 ### Kommunizieren Sie Ihre Erwartungen
 
@@ -158,7 +114,6 @@ Die einzige Beziehung, die echte Zufriedenheit bringt, ist eine, die auf Authent
 
 ## Weiterlesen
 
-- [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
 - [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 

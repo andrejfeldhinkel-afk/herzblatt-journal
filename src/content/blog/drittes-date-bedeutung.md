@@ -32,9 +32,7 @@ Psychologisch gesehen ist das dritte Date auch ein kritischer Moment für die Fe
 
 ## Was man beim dritten Date erwartet
 
-Beim dritten Date gibt es oft eine unausgesprochene Erwartung der Verbindlichkeit. Viele Menschen betrachten dies als den Punkt, an dem die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) „offiziell" wird oder zumindest geklärt wird, ob beide Parteien sich eine Beziehung vorstellen können.
-
-Dies bedeutet jedoch nicht, dass sofort eine große Verpflichtung kommen muss. Stattdessen ist es ein Moment, um ehrlich über Gefühle und Absichten zu sprechen. Haben Sie sich beiden inzwischen in den anderen [verliebt](/blog/mann-verliebt-anzeichen-komplett)? Sehen Sie dies als langfristige Beziehung oder eher als lockeres Abenteuer?
+Beim dritten Date gibt es oft eine unausgesprochene Erwartung der Verbindlichkeit. Viele Menschen betrachten dies als den Punkt, an dem die [verliebt](/blog/mann-verliebt-anzeichen-komplett)? Sehen Sie dies als langfristige Beziehung oder eher als lockeres Abenteuer?
 
 ## Wie man das dritte Date angeht
 

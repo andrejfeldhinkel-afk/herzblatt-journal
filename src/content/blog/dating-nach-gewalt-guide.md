@@ -18,17 +18,7 @@ author: "sarah-kellner"
 
 # Dating nach toxischer Erfahrung: Wie du wieder vertraust, wenn Vertrauen zerbrochen wurde
 
-Du hast eine [toxische Beziehung](/blog/toxische-beziehungen-komplett-guide) durchgemacht. Vielleicht war es emotional missbräuchlich. Vielleicht war es körperlich. Vielleicht war es einfach manipulativ und zerreißend. Und jetzt, wenn du daran denkst, wieder zu daten, fühlt sich dein ganzer Körper zusammen.
-
-Dein Herz schlägt schneller. Deine Gedanken spiralen. "Was, wenn es wieder passiert? Was, wenn ich wieder vertraue und wieder verletzt werde? Bin ich beschädigt? Kann ich überhaupt wieder geliebt werden?"
-
-Das, was ich dir sagen werde, ist nicht einfach. Und es ist nicht schnell. Aber es ist möglich. Du kannst wieder daten. Du kannst wieder vertrauen. Und du kannst gesunde, liebevolle Beziehungen haben, auch nachdem die letzte zerstörerisch war.
-
-## Die Wahrheit über das Trauma
-
-Zuerst lass mich dir etwas sagen: Was dir passiert ist, war nicht deine Schuld. Die Toxizität, der Missbrauch, die Manipulation – das war sein Verhalten, nicht ein Versagen von dir.
-
-Ich weiß, dass du das wahrscheinlich nicht glaubst. Toxische Menschen sind sehr gut darin, dich glauben zu machen, dass du das Problem bist. Sie sind geschickt in [Gaslighting](/blog/gaslighting-komplett-guide). Sie manipulieren deine Realität. Und selbst nachdem die Beziehung vorbei ist, flüsternd diese Stimme in deinem Kopf "Es war deine Schuld."
+Du hast eine [Gaslighting](/blog/gaslighting-komplett-guide). Sie manipulieren deine Realität. Und selbst nachdem die Beziehung vorbei ist, flüsternd diese Stimme in deinem Kopf "Es war deine Schuld."
 
 Es war nicht.
 
@@ -153,6 +143,5 @@ Du verdienst die beste Version davon. Und diesmal, du wirst wissen, wie man sie 
 ## Das könnte dich auch interessieren
 
 - [Dating nach häuslicher Gewalt: Der ehrliche Heilungsguide](/blog/dating-nach-gewalt-in-beziehung/)
-- [Dating nach toxischer Beziehung: Heilen und neu anfangen](/blog/dating-nach-toxischer-beziehung/)
 - [Dating nach einer [Ghosting](/blog/ghosting-komplett-guide)-Erfahrung](/blog/dating-nach-ghosting-erfahrung/)
 - [Dating nach toxischer Familie](/blog/dating-nach-toxischer-familie/)

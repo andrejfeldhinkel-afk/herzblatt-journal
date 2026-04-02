@@ -26,27 +26,7 @@ Narzissten sind großartige Schausteller. Sie wissen genau, wie man jemanden in 
 
 Ein echter Narzisst ist nicht einfach nur egoistisch oder arrogant. Ein echter Narzisst hat eine echte Persönlichkeitsstörung, die es ihm unmöglich macht, Empathie zu zeigen oder echte Liebe zu erwidern. Wenn du mit einem zusammen bist, ist das eine psychisch zermürbende Erfahrung. Deshalb ist es wichtig, früh zu erkennen, mit wem du es zu tun hast.
 
-## Das [Love Bombing](/blog/love-bombing-erkennen-schuetzen): Die erste rote Flagge
-
-Love Bombing ist das klassische erste Symptom. Die Person überschüttet dich mit Aufmerksamkeit, bringt dir Blumen, schreibt langatmige Nachrichten, plant bereits ein gemeinsames Leben für euch – alles innerhalb von zwei Wochen. Das fühlt sich anfangs unglaublich an, aber es ist zu schnell. Echte Liebe wächst. Narzissmus inszeniert. Das Extreme an dieser Phase ist genau das Problem. Wenn du selbst am liebsten langsamer gehen würdest, aber die andere Person dich drängt, ist das ein Warnsignal.
-
-Love Bombing dient einem Zweck: Es soll dich an die Person binden, bevor du ihre echte Natur erkennst. Es ist strategisch. Es ist nicht spontane Zuneigung, es ist Manipulation.
-
-Die typischen Zeichen von Love Bombing sind:
-- Ständige Kontaktversuche (ständiges Texten, Anrufen)
-- Schnelle Liebe-Erklärungen
-- Großzügige Geschenke nach kurzer Zeit
-- Intensive gemeinsame Zeit verbringen wollen
-- Träume von gemeinsamer Zukunft zeichnen
-- Dich isolieren wollen von Freunden und Familie
-
-Wenn dich das beschreibt, bremse aktiv. Das ist nicht normal und es ist nicht liebevoll.
-
-## Gaslighting und Realitätsverweigerung
-
-Narzissten verleugnen systematisch deine Wahrnehmung. Du sagst: „Du warst gestern mürrisch zu mir." Und sie antworten: „Das ist nicht passiert. Du bist einfach zu emotional." Mit der Zeit beginnst du, deinem eigenen Gedächtnis und deinen Gefühlen nicht zu trauen. Das ist psychisch sehr gefährlich. Wenn du dich ständig fragst, ob du überreagierst oder ob deine Wahrnehmung richtig ist, bist du möglicherweise mit einem Narzissten zusammen.
-
-[Gaslighting](/blog/gaslighting-komplett-guide) ist eine Manipulationstechnik, bei der die narzisstische Person versucht, dich dazu zu bringen, an deiner eigenen Wahrnehmung zu zweifeln. Das ist psychologischer Missbrauch. Es ist subtil, aber zerstörerisch.
+## Das [Gaslighting](/blog/gaslighting-komplett-guide) ist eine Manipulationstechnik, bei der die narzisstische Person versucht, dich dazu zu bringen, an deiner eigenen Wahrnehmung zu zweifeln. Das ist psychologischer Missbrauch. Es ist subtil, aber zerstörerisch.
 
 Fragen, die dir helfen, zu erkennen, ob du gaslichtet wirst:
 - Hast du Zweifel an deiner eigenen Erinnerung bei Dingen, die eindeutig sind?

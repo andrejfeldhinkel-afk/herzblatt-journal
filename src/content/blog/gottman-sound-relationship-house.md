@@ -1,5 +1,5 @@
 ---
-title: "Sound Relationship House: Gottmans Modell für stabile Beziehungen (2026)"
+title: "Sound Relationship House: Gottmans Modell für stabile Bez..."
 description: "Gottmans Sound Relationship House erklärt: Die 4 Komponenten für stabile, glückliche Beziehungen — mit praktischen Tipps"
 date: 2026-04-01
 image: "/images/blog/gottman-sound-relationship-house.webp"
@@ -202,4 +202,4 @@ Die Wahl ist deine.
 
 ---
 
-**Möchtest du mehr über [Bid for Connection](/blog/bid-for-connection-gottman) oder [Quality Time Liebessprache](/blog/love-languages-quality-time) erfahren?**
+**Möchtest du mehr über [Quality Time Liebessprache](/blog/love-languages-quality-time) erfahren?**

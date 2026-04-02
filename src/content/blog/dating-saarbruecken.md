@@ -386,7 +386,7 @@ Die lokale Single-Szene ist freundlich, offen und kulturell interessiert. Sei au
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/adhs-und-beziehung-komplett-guide/) zu [Dating in Augsburg: Die besten Orte & Tipps für Singles](/blog/dating-augsburg), [Dating in Bamberg: Die besten Orte & Tipps für Singles](/blog/dating-bamberg), [Dating in Berlin: Die besten Orte, Tipps & Hotspots für Singles](/blog/dating-berlin).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Dating in Augsburg: Die besten Orte & Tipps für Singles](/blog/dating-augsburg), [Dating in Berlin: Die besten Orte, Tipps & Hotspots für Singles](/blog/dating-berlin).## Weiterlesen
 
 - [Dating in Aachen: Die besten Orte, Tipps & Hotspots](/blog/dating-aachen/)
 - [Dating in Augsburg: Die besten Orte & Tipps für Singles](/blog/dating-augsburg/)

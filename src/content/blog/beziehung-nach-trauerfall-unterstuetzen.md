@@ -138,7 +138,6 @@ Dies ist wichtig: Du kannst nicht auf einen Liter Benzin rennen. Du kannst dich 
 
 ## Weiterlesen
 
-- [Partner beim Jobwechsel unterstützen](/blog/beziehung-partner-jobwechsel-unterstuetzen)
 - [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 - [Neustart nach einer Affäre: Der 8-Wochen-Plan für Heilung](/blog/beziehung-after-affaere-plan)
 

@@ -1,5 +1,5 @@
 ---
-title: "Emotionale Nichtverfügbarkeit erkennen: Wenn dein Partner nicht wirklich da ist"
+title: "Emotionale Nichtverfügbarkeit erkennen"
 description: "Emotionale Nichtverfügbarkeit erkennen: Lerne die Zeichen von emotional unavailable Partnern. Praktische Tipps für echte Verbindung in Beziehungen."
 date: 2026-03-29
 tags:
@@ -135,4 +135,4 @@ Emotionale Verfügbarkeit ist non-negotiable in einer gesunden Beziehung. Du ver
 
 ---
 
-**Weitere Artikel zum Thema:** [Emotionale Nähe aufbauen](/blog/emotionale-nahe), [Kommunikation in Beziehungen](/blog/kommunikation-beziehung)
+**Weitere Artikel zum Thema:** [Kommunikation in Beziehungen](/blog/kommunikation-beziehung)

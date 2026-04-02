@@ -1,5 +1,5 @@
 ---
-title: "Fernbeziehung psychische Belastung: Wie du gesund bleibst auf Distanz"
+title: "Fernbeziehung psychische Belastung"
 description: "Die psychische Last einer Fernbeziehung verstehen und bewältigen. Tipps für emotionale Gesundheit trotz Distanz."
 date: 2026-04-02
 tags: [fernbeziehung, psychologie, mental-health, beziehung]
@@ -131,7 +131,7 @@ Du brauchst:
 - **Karriere/Studium**: Ein Fokus außerhalb der Beziehung
 - **Bewegung**: Yoga, Laufen, Sport – das hilft dem mentalen Gesundheit
 
-[Schaue dir auch unseren Artikel über emotionale Abhängigkeit an – viele Menschen in Fernbeziehungen kämpfen damit](/blog/emotionale-abhaengigkeit-loesen-schritte.md).
+[Schaue dir auch unseren Artikel über emotionale Abhängigkeit an – viele Menschen in Fernbeziehungen kämpfen damit](/blog/emotionale-abhaengigkeit-loesen-schritte).
 
 ### 4. Setze realistische Erwartungen
 

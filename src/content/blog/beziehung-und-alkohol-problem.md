@@ -452,9 +452,8 @@ A: Ja, es ist möglich. Aber es erfordert, dass der Partner mit der Sucht arbeit
 ---
 
 **Interne Links:**
-- [Dating nach Burnout: Liebe finden wenn die Energie fehlt](/blog/dating-nach-burnout-guide)
-- [Wie man eine glückliche Partnerschaft aufbaut](/blog/glueckliche-partnerschaft)
-- [Kommunikation in Beziehungen verbessern](/blog/beziehung-kommunikation)
+- [Wie man eine glückliche Partnerschaft aufbaut](/blog/beziehung-unterschiedliche-sprachen)
+- [Kommunikation in Beziehungen verbessern](/blog/beziehung-offene-kommunikation)
 
 ---
 

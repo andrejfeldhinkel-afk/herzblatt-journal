@@ -366,62 +366,7 @@ Sie sagte im Profil, sie ist Designerin, aber erzählt dir jetzt, dass sie Verk�
 **5. Sie hat sehr unterschiedliche Werte von dir**
 Du merkst beim Telefonat, dass sie zum Beispiel Dinge sagt wie "Ich glaube, dass Frauen zuhause bleiben sollten" und das nicht zu deinen Werten passt.
 
-Das ist nicht böse, aber es ist ein Dealbreaker für eine echte [beziehung](/blog/adhs-und-beziehung-komplett-guide/).
-
-**6. Sie ist desinteressiert, gibt nur Ein-Wort-Antworten**
-Du fragst etwas, sie sagt "Ja" oder "Nee". Das ist kein Gespräch. Das ist deine Energie, die unbeantwortet bleibt.
-
-**7. Die Chemie ist einfach weg**
-Manchmal merkst du: "Ich finde sie nett, aber ich bin nicht angezogen." Das ist okay. Das ist nicht schlecht. Das ist ein Zeichen, dass ihr einfach nicht zueinander passt.
-
-**Was du dann tust:**
-Du sagst: "Das war nett, dich kennenzulernen, aber ich merke, dass die Chemie nicht so passt wie ich gehofft hatte. Alles Gute für dich!"
-
-Kurz, höflich, klar. Kein Drama.
-
-## Telefonat-Tipps für Introvertierte
-
-Wenn du introvertiert bist, kann das erste Telefonat extra stressig sein. Du brauchst Energie für echte Gespräche, und das Telefon macht es noch anstrengender.
-
-Das ist okay. Hier sind Tipps speziell für introvertierte Menschen.
-
-**1. Sag der anderen Person, dass du introvertiert bist**
-Das ist nicht schlecht. Das ist sexy. "Ich bin eher introvertiert, aber ich freue mich, deine Stimme zu hören."
-
-Das setzt Erwartungen und die andere Person wird verständnisvoller.
-
-**2. Wähle einen Ort, wo du dich sicher fühlst**
-Nicht auf der Straße telefonieren, während Bus fährt. Setz dich in dein Zuhause, an deinen liebsten Ort. Das gibt dir Sicherheit.
-
-**3. Mach vorher eine Atempause**
-Fünf Minuten, bevor du anrufst oder abhebst. Sitz einfach still. Atme. Das entspannt dein Nervensystem.
-
-**4. Gib dir selbst "Outs"**
-"Ich muss um 21 Uhr los" – das gibt dir einen natürlichen Endpunkt. Das macht dich weniger angespannt.
-
-**5. Schreib dir kurze Notizen**
-Nicht um abzulesen, sondern um dein Gehirn zu beruhigen. "Ich kann diese Fragen stellen, wenn es still wird." Das gibt dir Sicherheit.
-
-**6. Es ist okay, wenn du nicht viel sprichst**
-Du kannst einleiten: "Ich bin eher ein guter Zuhörer – mir macht es Spaß, dir zuzuhören."
-
-Das nimmt den Druck raus.
-
-**7. Schließe das Telefonat früher ab**
-Introvertierte brauchen Energie-Pausen. Wenn du merkst, dass es dir zu viel wird, sag: "Das war wirklich schön, aber ich merke, dass ich langsam müde werde. Können wir Freitag weitermachen?"
-
-Das ist nicht unhöflich. Das ist selbstbewusst.
-
-**8. Danach: Gib dir selbst Zeit allein**
-Nach einem anstrengenden Telefonat brauchst du möglicherweise Zeit für dich. Das ist okay. Schieb nicht direkt das nächste Telefonat ein.
-
-## Das zweite und dritte Telefonat
-
-Okay, das erste Telefonat war gut. Ihr habt euch am Date gesehen oder ein zweites Telefonat geplant. Wie machst du die nächsten Telefonate richtig?
-
-**Das zweite Telefonat – das ist anders:**
-
-Das erste war eine "[Kennenlernen](/blog/dating-fragen-kennenlernen)"-Session. Das zweite kann tiefer gehen.
+Das ist nicht böse, aber es ist ein Dealbreaker für eine echte [Kennenlernen](/blog/dating-fragen-kennenlernen)"-Session. Das zweite kann tiefer gehen.
 
 Hier kannst du persönlichere Fragen stellen. Du kannst über die Dating-Experience sprechen. Du kannst fragen, was sie bei dir innerlich bewegt hat.
 

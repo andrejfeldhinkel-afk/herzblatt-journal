@@ -137,11 +137,5 @@ Absolut nicht. Wer dich nur mit Alkohol interessant findet, ist nicht der richti
 **Wie erkenne ich ob jemand nur mit Alkohol interessant ist?**
 Wenn alle vorgeschlagenen Treffen an Bars oder Restaurants stattfinden, wenn die Person dich regelmäßig drängt zu trinken, oder wenn ohne Alkohol keine Unterhaltung läuft — das sind Hinweise.
 
-**Ist nüchtern daten gut für die psychische [gesundheit](/blog/adhs-und-beziehung-komplett-guide/)?**
-Ja. Du verlässt dich auf echte Emotionen, nicht auf chemisch induzierte. Du triffst Entscheidungen aus einem klaren Kopf. Und du merkst schneller ob die Person gut für dich ist.
-
----
-
-**Verwandte Artikel:**
-- [Was Frauen auf Dating-Apps sofort abturnt](/blog/was-frauen-auf-dating-apps-abturnt)
+**Ist nüchtern daten gut für die psychische [Was Frauen auf Dating-Apps sofort abturnt](/blog/was-frauen-auf-dating-apps-abturnt)
 - [Dating wenn du schüchtern bist: Praktische Strategien die funktionieren](/blog/dating-wenn-man-schuechtern-ist)

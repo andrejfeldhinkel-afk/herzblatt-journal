@@ -119,6 +119,5 @@ Denke daran: Es gibt keine universelle „richtige" Beziehungsform. Es gibt nur 
 Hast du bereits Erfahrungen mit offenen Beziehungen gemacht? Was hast du über dich selbst gelernt? Teile deine Gedanken und Erfahrungen – wir alle wachsen durch den Austausch.
 
 **Weitere hilfreiche Artikel:**
-- [Freundschaft Plus: Regeln und Grenzen](/blog/freundschaft-plus-regeln-komplett)
 - [Emotionale Abhängigkeit erkennen und überwinden](/blog/emotionale-abhaengigkeit-test-selbstcheck)
 - [Wie du deinen Schwarm ansprichst – Mit Mut und Authentizität](/blog/schwarm-ansprechen-tipps)

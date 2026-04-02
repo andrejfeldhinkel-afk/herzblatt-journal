@@ -231,20 +231,8 @@ Detaillierte Infos zum Thema Kommunikation findest du bei Bundesministerium für
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 - [Offene Kommunikation: So sagst du was du denkst](/blog/beziehung-offene-kommunikation/)
 - [Aktives Zuhören üben: Besser verstehen in 7 Schritten](/blog/aktives-zuhoeren-beziehung-ueben/)
-- [Beziehung mit großem Altersunterschied](/blog/beziehung-altersunterschied/)
-## FAQ
-
-**Woran erkenne ich eine einseitige Beziehung?**
-Typische Zeichen: Du initiierst immer den Kontakt, planst alle Dates, machst Kompromisse während der Partner keine macht, und du fühlst dich emotional ausgelaugt statt aufgeladen.
-
-**Kann man eine einseitige [Beziehung retten](/blog/beziehung-retten-kompletter-guide)?**
+- [Beziehung retten](/blog/beziehung-retten-kompletter-guide)?**
 Nur wenn beide es wollen. Wenn du das Problem ansprichst und dein Partner bereit ist, sich zu ändern, gibt es eine Chance. Wenn er abwehrt oder nichts ändert, hast du deine Antwort.
 
 **Warum bleibe ich in einer einseitigen Beziehung?**
-Oft spielen [verlustangst](/blog/aengstlicher-bindungsstil-heilen/), niedriger Selbstwert oder die Hoffnung dass es besser wird eine Rolle. Manchmal ist es auch die Angst vor dem Alleinsein, die dich festhält.
-
-**Wie kann ich die Dynamik ändern ohne die Beziehung zu sabotieren?**
-Indem du bewusst aufhörst, überall zu initiieren. Nicht aggressiv, aber konsistent. Gib deinem Partner Raum zu zeigen, ob er sich anpassen kann. Das ist nicht Strafe — das ist Klarheit.
-
-**Ist es ok, eine Beziehung zu beenden weil sie einseitig ist?**
-Ja. Wenn du alles versucht hast und dein Partner nicht bereit ist sich zu ändern, dann ist eine [Trennung](/blog/trennung-verarbeiten-12-schritte) nicht Versagen. Das ist Selbstschutz.
+Oft spielen [Trennung](/blog/trennung-verarbeiten-12-schritte) nicht Versagen. Das ist Selbstschutz.

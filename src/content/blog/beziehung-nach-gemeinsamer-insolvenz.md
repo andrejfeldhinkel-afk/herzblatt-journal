@@ -382,5 +382,4 @@ Ich glaube, dass Ihr das kannst.
 
 - [Beziehung stärken nach finanzieller Krise oder Insolvenz](/blog/beziehung-nach-insolvenz/)
 - [Von Mitbewohnern zu Liebenden: Wenn aus der WG Liebe wird](/blog/beziehung-nach-gemeinsamer-wg/)
-- [Beziehung nach gemeinsamer Therapie](/blog/beziehung-nach-gemeinsamer-therapie/)
 - [Gemeinsamer Hund nach [Trennung](/blog/trennung-verarbeiten-12-schritte): Wer bekommt ihn?](/blog/beziehung-gemeinsamer-hund-trennung/)

@@ -150,14 +150,7 @@ Es ist wie beim Bergsteigen: Du lernst dein Team nicht in der Ebene kennen. Du l
 - [Rituale die Beziehung stärken](/blog/beziehung-rituale-staerken/)
 - [Beziehung im Winter stärken – Cozy-Tipps für Paare](/blog/beziehung-staerken-winter/)
 - [Lesbische Beziehung stärken](/blog/lesbische-beziehung-staerken/)
-- [Beziehung nach Fehlgeburt stärken](/blog/beziehung-nach-fehlgeburt-staerken/)
-
-
-## FAQ
-
-**Kann eine Beziehung eine große Krise nicht überstehen?**
-
-Ja, natürlich. Manche Dinge sind einfach zu groß, zu schädlich oder zu grundlegend verschieden. Nicht alle Krisen sind ein Test, das man bestehen kann. Manchmal ist eine [Trennung](/blog/trennung-verarbeiten-12-schritte) auch die richtige Antwort. Das ist nicht schlecht. Manchmal ist es sogar die liebevollere Option.
+- [Trennung](/blog/trennung-verarbeiten-12-schritte) auch die richtige Antwort. Das ist nicht schlecht. Manchmal ist es sogar die liebevollere Option.
 
 **Wie lange dauert es, eine Beziehungskrise zu überwinden?**
 

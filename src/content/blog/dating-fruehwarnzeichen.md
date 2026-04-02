@@ -34,7 +34,7 @@ Die Forschung zeigt: Menschen, die auf ihre Intuition hören, sind glücklicher 
 
 Du hast es gesehen. Du hast es einfach nicht hören wollen.
 
-Frühwarnzeichen sind nicht dasselbe wie [Red Flags](/blog/beziehung-geheimhaltung-verstecken/). [Red Flags](/blog/dating-red-flags-maenner-erkennen) schreien "Lauf weg!" Frühwarnzeichen flüstern "Schau genauer hin." Und genau das solltest du tun.
+Frühwarnzeichen sind nicht dasselbe wie [Red Flags](/blog/dating-red-flags-maenner-erkennen) schreien "Lauf weg!" Frühwarnzeichen flüstern "Schau genauer hin." Und genau das solltest du tun.
 
 ## Wie jemand über Exen redet — Der Charakter-Test
 

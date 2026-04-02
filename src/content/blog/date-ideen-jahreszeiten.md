@@ -319,17 +319,7 @@ Für ein **erstes Date**: Kein Geschenk. Das ist zu viel. Es ist zu intensiv.
 
 Für ein **zweites oder drittes Date**: Ein kleines Geschenk ist okay. Es zeigt, dass du aufgepasst hast. Das könnte sein: Ein Buch, das du empfiehlt, ein Blumenstrauß, etwas, das mit einem Interesse verbunden ist, das sie erwähnt hat.
 
-Für ein **etablierte [beziehung](/blog/adhs-und-beziehung-komplett-guide/)**: Geschenke sind normal. Sie zeigen Gedankenlichkeit.
-
-Das wichtigste: Das Geschenk sollte durchdacht sein, nicht teuer. Ein Buch, das Sie wissen, dass die Person lieben wird, ist besser als Schmuck, den du nicht kennst.
-
-Und: Niemals sex-spielzeug oder etwas sehr intimes auf ein frühe Date geben. Das ist zu viel Annahme über ihre Sexualität oder Komfort-level.
-
-Ein finales Punkt: Wenn die andere Person dein Geschenk ablehnt oder seltsam damit reagiert, das ist Information. Das könnte ein Sign sein, dass sie nicht wirklich interessiert ist.
-
-## First Date vs. Long-Term Couple Dates
-
-Ein erstes Date sollte anders sein als ein Date nach fünf Jahren. Das erste Date ist über [Kennenlernen](/blog/dating-fragen-kennenlernen). Das sollte eine ruhige, konversations-freundliche Umgebung sein. Ein Café, ein Park, ein Museum.
+Für ein **etablierte [Kennenlernen](/blog/dating-fragen-kennenlernen). Das sollte eine ruhige, konversations-freundliche Umgebung sein. Ein Café, ein Park, ein Museum.
 
 Ein Paar-Date nach Jahren kann mehr Spaß und Abenteuer haben. Ihr kennt euch, also könnt ihr auch größere Experimente machen.
 

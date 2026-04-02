@@ -1,5 +1,5 @@
 ---
-title: "Co-Abhängigkeit überwinden: Vom People-Pleasing zur gesunden Beziehung"
+title: "Co-Abhängigkeit überwinden"
 description: "Co-Abhängigkeit zerstört Beziehungen. Lerne, deine Grenzen zu respektieren, Nein zu sagen und wieder unabhängig zu sein."
 date: 2026-03-29
 tags:

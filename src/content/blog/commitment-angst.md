@@ -26,15 +26,7 @@ faq:
 ---
 ## Das paradoxe Gefühl
 
-Du magst diese Person. Wirklich. Wenn ihr zusammen seid, fühlt es sich richtig an. Aber sobald es ernst wird — sobald das Wort „[beziehung](/blog/adhs-und-beziehung-komplett-guide/)" fällt, sobald Pläne für nächsten Monat gemacht werden — zieht sich alles in dir zusammen.
-
-Du brauchst plötzlich „Raum". Du findest Fehler, die vorher nicht da waren. Du sabotierst, was gut läuft. Und du verstehst selbst nicht, warum.
-
-Das ist Commitment-Angst. Und du bist damit nicht allein.
-
-## Was Commitment-Angst wirklich ist
-
-Es ist nicht, dass du keine Liebe willst. Im Gegenteil — du sehnst dich danach. Aber der Schritt von „[Kennenlernen](/blog/dating-fragen-kennenlernen)" zu „Beziehung" fühlt sich an wie ein Sprung ins Leere.
+Du magst diese Person. Wirklich. Wenn ihr zusammen seid, fühlt es sich richtig an. Aber sobald es ernst wird — sobald das Wort „[Kennenlernen](/blog/dating-fragen-kennenlernen)" zu „Beziehung" fühlt sich an wie ein Sprung ins Leere.
 
 Hinter Commitment-Angst steckt meistens die Angst vor Kontrollverlust, Verletzung oder Identitätsverlust. Du fürchtest, dich selbst zu verlieren, enttäuscht zu werden oder in etwas festzustecken, das dich einengt.
 
@@ -84,7 +76,7 @@ Commitment-Angst ist kein Urteil und kein Charakter-Fehler. Es ist ein Schutzmec
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [ratgeber](/blog/aktives-zuhoeren-beziehung-ueben/) zu [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
 
 - [Commitment Issues: Wenn die Angst vor Bindung alles](/blog/commitment-issues-erkennen/)
 - [Commitment Phobia — Warum manche Menschen sich nie festlegen](/blog/commitment-phobia-bindungsangst-guide/)

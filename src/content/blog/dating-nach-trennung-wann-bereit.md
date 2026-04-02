@@ -24,7 +24,7 @@ Die Antwort ist nicht einfach. Aber sie ist wichtig.
 
 ## Die Zwei Verwirrungen um die "Wartezeit"
 
-Es gibt zwei extremale Ansichten auf [dating](/blog/anzeichen-er-steht-auf-dich/) nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte):
+Es gibt zwei extremale Ansichten auf [Trennung](/blog/trennung-verarbeiten-12-schritte):
 
 **Die erste sagt:** "Warte mindestens ein Jahr. Heile dich selbst, bevor du jemanden anderen involvierst."
 

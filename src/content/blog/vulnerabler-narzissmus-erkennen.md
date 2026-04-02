@@ -116,16 +116,4 @@ Hier sind praktische Schritte:
 
 **Keine Diskussionen führen** — Du kannst ihn nicht „verstehen lehren". Eine Person ohne Empathie wird sich nicht plötzlich einfühlsam. Du verschwendest deine Zeit.
 
-**Den Kontakt reduzieren oder abbrechen** — [No Contact ist oft die beste Lösung](/blog/no-contact-narzisst-durchhalten). Das ist nicht herzlos. Das ist Selbstschutz.
-
-Wenn du in einer romantischen Beziehung mit einem vulnerablen Narzissten bist, ist ein wichtiger Schritt, das zu erkennen. Manche Menschen brauchen professionelle Hilfe — einen Therapeuten oder Coach, der dir hilft, aus diesen Mustern auszubrechen. Das ist nicht egoistisch. Das ist klug.
-
-## Zurück zu deinem Leben
-
-Die gute Nachricht: Wenn du das erkannt hast, kannst du handeln. Vulnerable Narzissten ändern sich nicht. Ihre Persönlichkeitsstörung ist tief verwurzelt in ihrer unbewussten Psychologie. Aber du? Du kannst dich ändern. Du kannst Grenzen setzen. Du kannst gehen.
-
-Und genau das ist der erste Schritt zu einer Beziehung mit einem Menschen, der dich wirklich sieht — nicht als Mittel zu seinen emotionalen Bedürfnissen, sondern als eigenständige Person mit eigenen Grenzen.
-
-Du verdienst jemanden, der dich nicht manipuliert, sondern dich unterstützt. Der seine eigenen Probleme selbst reguliert, statt sie auf deine Schultern zu laden. Der echte Liebe gibt, nicht Manipulation versteckt hinter vermeintlicher Verletzlichkeit.
-
-Wenn du merkst, dass du gerade in diesem Muster steckst — [erkenne auch die Manipulationstaktiken von Flying Monkeys](/blog/flying-monkeys-narzissmus), falls der Narzisst andere gegen dich aufbaut. Das ist ein häufiges zusätzliches Problem in diesen Beziehungen.
+**Den Kontakt reduzieren oder abbrechen** — [erkenne auch die Manipulationstaktiken von Flying Monkeys](/blog/flying-monkeys-narzissmus), falls der Narzisst andere gegen dich aufbaut. Das ist ein häufiges zusätzliches Problem in diesen Beziehungen.

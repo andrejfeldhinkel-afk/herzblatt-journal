@@ -107,9 +107,7 @@ Das ist falsch.
 
 Eine neue Beziehung wird deine alten Wunden aktivieren. Nicht heilen.
 
-Die [Heilung](/blog/dating-nach-missbrauch-sicher) kommt von innen. Von Therapie. Von Selbstreflexion. Von der Bereitschaft, deine Muster anzuschauen und zu ändern.
-
-Die neue Liebe kann ein Partner sein in dieser [Heilung](/blog/nach-toxischer-beziehung-heilen). Aber sie ist nicht die Heilung selbst.
+Die [Heilung](/blog/nach-toxischer-beziehung-heilen). Aber sie ist nicht die Heilung selbst.
 
 Wenn du mit ungeheilten Wunden in eine Beziehung gehst, wird die neue Person die Grenzen testen. Die alte Wunde wird feuern. Und ohne dass du es merkst, machst du die gleichen Fehler wie im letzten Mal.
 
@@ -277,27 +275,6 @@ Die andere gute Nachricht: Das machen ist stark.
 
 **Wie weiß ich, ob ich ein Trauma habe?**
 
-Du brauchst nicht an einem großen Ereignis beteiligt zu sein. Kleine, wiederholte Verletzungen sind auch [Trauma](/blog/trauma-und-dating-heilen)ta. Wenn du überproportional reagierst, Angst hast oder dich unsicher fühlst – das könnte ein Zeichen sein. Ein Therapeut kann dir helfen, das zu diagnositizieren.
-
-**Kann ich heilen ohne Therapie?**
-
-Teilweise. Du kannst viel durch Selbstreflexion lernen. Aber ein Therapeut gibt dir Tools und einen sicheren Raum. Das beschleunigt den Prozess. Ich würde es empfehlen.
-
-**Was ist, wenn mein Partner nicht will, dass ich Therapie mache?**
-
-Das ist ein großes Warnsignal. Das ist nicht okay. Ein liebevoller Partner will, dass du heilst. Wenn dein Partner deine Heilung nicht unterstützt, müsstest du überlegen, ob diese Beziehung gesund ist.
-
-**Kann Heilung "zu lange" dauern?**
-
-Es gibt kein "zu lange". Heilung ist ein Prozess. Manchmal ist es 6 Monate. Manchmal sind es 2 Jahre. Das ist okay. Es ist besser, richtig zu heilen als schnell zu heilen.
-
-**Was ist, wenn ich während der Heilung rückfällig werde?**
-
-Das ist normal. Heilung ist nicht linear. Du wirst gute Tage haben und schwierige Tage. Das heißt nicht, dass es nicht funktioniert. Das heißt, dass du menschlich bist.
-
-## Weiterlesen
-
-- [Dankbarkeit in Beziehungen: Die unterschätzte Superkraft](/blog/beziehung-dankbarkeits-praxis)
-- [Nähe und Distanz: Die Balance in glücklichen Paaren](/blog/beziehung-nahe-distanz-balance)
+Du brauchst nicht an einem großen Ereignis beteiligt zu sein. Kleine, wiederholte Verletzungen sind auch [Dankbarkeit in Beziehungen: Die unterschätzte Superkraft](/blog/beziehung-dankbarkeits-praxis)
 - [Emotionale Sicherheit: Das Fundament aller Liebe](/blog/beziehung-sicherheit-schaffen)
 

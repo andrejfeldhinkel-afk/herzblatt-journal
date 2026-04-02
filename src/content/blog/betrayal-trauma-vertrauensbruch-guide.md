@@ -1,5 +1,5 @@
 ---
-title: "Betrayal Trauma: Wenn der Vertrauensbruch dein Vertrauen zerstört"
+title: "Betrayal Trauma: Wenn der Vertrauensbruch dein Vertrauen ..."
 description: "Betrayal Trauma verstehen: Wie emotionale und physische Untreue dein Gehirn verletzt und wie du wieder heilst."
 date: 2026-03-29
 tags:
@@ -126,4 +126,4 @@ Deine Beziehung kann nach einem Vertrauensbruch wiederaufgebaut werden. Aber nur
 
 ---
 
-**Verwandte Artikel:** Erfahre auch über [Vertrauensaufbau nach Verrat](/vertrauen-wiederaufbauen/) und [Grenzensetzen in Beziehungen](/grenzen-beziehung/).
+**Verwandte Artikel:** Erfahre auch über [Vertrauensaufbau nach Verrat](/blog/vertrauen-wieder-aufbauen-nach-luege) und [Grenzensetzen in Beziehungen](/blog/grenzen-setzen-beziehung).

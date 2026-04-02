@@ -23,42 +23,13 @@ faq:
 ---
 ## Plötzlich wieder Single
 
-Ob nach fünf, zehn oder zwanzig Jahren – das Ende einer Langzeitbeziehung katapultiert dich in eine Welt, die du kaum wiedererkennen wirst. [dating](/blog/anzeichen-er-steht-auf-dich/)-Apps, die es bei eurer letzten Partnersuche noch nicht gab. Neue Regeln, neue Begriffe, neue Dynamiken. Und mittendrin du, der sich fragt: "Wie macht man das nochmal?"
-
-Wenn du die letzten zehn Jahre verheiratet warst und jetzt Single bist, ist das wie ein Kulturschock. Andere Menschen haben sich verändert, die Technologie ist schneller geworden, und dein Selbstwertgefühl braucht Rebuild.
-
-Der erste Schritt: Durchatmen. Du musst nicht sofort wieder auf dem Markt sein. Nimm dir die Zeit, die du brauchst. Es gibt keine Deadline hier.
-
-## Der emotionale Aspekt
-
-Die [Trennung](/blog/trennung-verarbeiten-12-schritte) selbst tut weh, egal wie nötig sie war. Es gibt Trauer, auch wenn die Beziehung nicht funktioniert hat. Ihr wart vielleicht unglücklich, aber ihr wart zusammen. Das ist eine Identität, die du jetzt aufgeben musst.
+Ob nach fünf, zehn oder zwanzig Jahren – das Ende einer Langzeitbeziehung katapultiert dich in eine Welt, die du kaum wiedererkennen wirst. [Trennung](/blog/trennung-verarbeiten-12-schritte) selbst tut weh, egal wie nötig sie war. Es gibt Trauer, auch wenn die Beziehung nicht funktioniert hat. Ihr wart vielleicht unglücklich, aber ihr wart zusammen. Das ist eine Identität, die du jetzt aufgeben musst.
 
 Gib dir selbst Zeit für diese Trauer. Deine Freunde werden ungeduldig und sagen "Es ist Zeit, zurück ins Dating-Leben zu kommen!" Aber deine innere Welt sagt "Ich bin nicht bereit." Höre auf deine innere Stimme. Die Rückkehr ins Dating wird süßer sein, wenn du dich emotional bereit fühlst, nicht wenn die Außenwelt es von dir erwartet.
 
 ## Wer bin ich jetzt?
 
-In einer langen [beziehung](/blog/adhs-und-beziehung-komplett-guide/) wächst man zusammen – manchmal so sehr, dass man sich selbst aus den Augen verliert. Bevor du anfängst zu daten, lohnt es sich, rauszufinden, wer du allein bist. Was sind deine Interessen (nicht eure)? Was willst du (nicht was ihr wolltet)? Welche Träume hast du aufgegeben?
-
-Diese Phase kann beängstigend sein, aber auch befreiend. Du hast die Chance, dich neu zu definieren. Nutze sie.
-
-Ein praktischer Schritt: Mach eine Liste. "Das mag ich gerne." "Das tut mir gut." "Das möchte ich ausprobieren." Dinge, die du in der Beziehung vielleicht nicht tun konntest, weil dein Ex es nicht mochte. Jetzt kannst du. Und das macht dich interessanter – für dich selbst und später für potenzielle Partner.
-
-## Die Trauer der verlorenen Zeit
-
-Es gibt einen weiteren emotionalen Aspekt, den viele nicht aussprechen: Trauer um die verlorene Zeit. "Ich habe fünf Jahre mit jemandem verbracht, der nicht der Richtige war." Das ist Schmerz. Das ist auch Wut.
-
-Und das ist okay. Das bedeutet nicht, dass die Zeit verschwendet war – du hast gelernt, du bist gewachsen, du warst wahrscheinlich glücklich für Teile davon. Aber die Trauer ist real, und sie verdient Raum.
-
-## Die neue Dating-Welt verstehen
-
-Wenn du zuletzt vor Jahren gedatet hast, erwartet dich eine steile Lernkurve. Tinder, Bumble, [Hinge](/blog/hinge-guide-deutsch-2026) – jede App funktioniert anders. [Ghosting](/blog/ghosting-komplett-guide), Breadcrumbing, Situationships – Begriffe, die du vielleicht zum ersten Mal hörst.
-
-Keine Panik. Im Kern ist Dating immer noch dasselbe: Zwei Menschen treffen sich und schauen, ob es passt. Die Verpackung hat sich geändert, der Inhalt nicht.
-
-Aber es gibt wirklich einige neue Konzepte, die du kennenlernen solltest:
-- Ghosting: Jemand schreibt dir nicht mehr zurück, ohne Erklärung
-- Breadcrumbing: Jemand hält dich in Reserve, gibt dir ab und zu Aufmerksamkeit
-- [Situationship](/blog/situationship-erkennen-umgehen): Eine Beziehung ohne Definition, nicht wirklich zusammen, aber auch nicht getrennt
+In einer langen [Hinge](/blog/hinge-guide-deutsch-2026) – jede App funktioniert anders. [Situationship](/blog/situationship-erkennen-umgehen): Eine Beziehung ohne Definition, nicht wirklich zusammen, aber auch nicht getrennt
 - Benching: Jemand hält dich in Bereitschaft, aber datet andere
 
 Diese sind frustrierend, ja. Aber sie sind selektiv. Es gibt immer noch Menschen, die echte Beziehungen wollen. Du musst nur die finden.

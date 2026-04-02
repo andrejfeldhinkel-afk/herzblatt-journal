@@ -16,41 +16,7 @@ Co-Abhängigkeit ist ein Relationsmustern, bei dem dein Selbstwert, deine Sicher
 
 Eine co-abhängige Person opfert routinemäßig ihre eigenen Bedürfnisse, Grenzen und sogar ihre Wahrheit auf, um eine andere Person zu besänftigen, zu "retten" oder zufriedenzustellen. Sie glaubt unbewusst, dass ihre Liebe "richtig" oder "bedingungslos" nur ist, wenn sie sich selbst verliert.
 
-Co-Abhängigkeit sieht in echten Beziehungen aus wie: Du ignorierst deine eigenen Bedürfnisse. Dein Partner sagt, er oder sie möchte keinen Kontakt mit seinen oder ihren Freunden haben, und du vereinbarst, ihn oder sie nicht zu sehen. Dein Partner ist unzufrieden und du machst dich selbst verantwortlich für seine oder ihre Emotionen. Du glaubst, dass wenn du nur liebevoller, komplainsamer oder besser wärst, würde die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) besser funktionieren.
-
-Manche co-abhängige Menschen paaren sich mit Menschen, die abhängig von ihnen sind – Menschen mit Suchtproblemen, psychischen Erkrankungen oder einfach emotional unverantwortlichen Menschen. Sie glauben, dass ihre Liebe diese Person "reparieren" kann. Der Codependent wird der "Helfer" und der Partner wird der "Abhängige". Aber die Rollen können auch umgekehrt sein.
-
-Das Kernproblem bei Co-Abhängigkeit ist dies: Du hast deine innere Stabilität aufgegeben. Dein emotionaler Zustand ist ein direktes Ergebnis des emotionalen Zustands einer anderen Person. Wenn dein Partner glücklich ist, bist du glücklich. Wenn er oder sie traurig oder wütend ist, nimmst du diese Gefühle in dir auf und versuchst, sie zu "reparieren".
-
-## Was ist Interdependenz?
-
-Interdependenz ist das Gegenteil. Es ist eine gesunde Form von Abhängigkeit – und ja, gesunde Beziehungen haben eine Form von Abhängigkeit. Menschen sind soziale Wesen. Wir brauchen einander.
-
-Interdependente Menschen wissen, dass sie voneinander abhängen, aber sie behalten ihre Individualität, ihre Grenzen und ihre innere Stabilität. Sie können sich verletzlich zeigen, ohne ihre Identität zu verlieren. Sie können Hilfe bitten, ohne sich schuldig zu fühlen. Sie können "Nein" sagen, ohne die Beziehung zu gefährden.
-
-In einer interdependenten Beziehung:
-
-- Beide Partner haben ihre eigenen Interessen, Freunde und Ziele
-- Beide Partner können ihre Bedürfnisse ausdrücken ohne Angst vor Ablehnung
-- Beide Partner unterstützen die Wachstum des anderen
-- Es gibt gegenseitige Geben und Nehmen
-- Jeder Partner behält seine innere Stabilität, unabhängig von der emotionalen Verfassung des anderen
-- Konflikte werden gelöst, nicht vermieden
-- Grenzen werden respektiert
-
-Das Paradoxe über Interdependenz ist, dass sie tatsächlich zu tieferer Verbindung führt. Wenn du nicht ständig verletzlich und um Bestätigung bettelst, kannst du dich wirklich verbinden. Wenn du deine eigenen Grenzen hast, können echte Nähe entstehen.
-
-## Detaillierte Vergleich über 10 Dimensionen
-
-### 1. Selbstwert und Identität
-
-**Co-Abhängigkeit:** Dein Selbstwert ist von deinem Partner abhängig. Wenn er oder sie dich lobt, fühlst du dich wertvoll. Wenn er oder sie kritisch ist, fühlst du dich wertlos. Du verlierst Sinn für wer du wirklich bist. Du definierst dich durch deine Rolle in der Beziehung – als Helfer, Unterstützer, Reparateur.
-
-**Interdependenz:** Dein Selbstwert kommt aus dir selbst. Du kennst deine Stärken, Schwächen, Werte und Ziele. Dein Partner kann dir Feedback geben, aber es definiert nicht deine Kernidentität. Du hast ein konsistentes Gefühl dafür, wer du bist, unabhängig von der Beziehung.
-
-### 2. Grenzen
-
-**Co-Abhängigkeit:** Du hast keine oder sehr schwache Grenzen. Du teilst deine Partner sein Leben – du schaust sein Telefon, du weißt all seine Passwörter, du hast keine Privatsphäre. Oder umgekehrt – dein Partner hat keine Grenzen und du erlaubst invasivem Verhalten. Du setzt Grenzen nur, um wieder [verliebt](/blog/mann-verliebt-anzeichen-komplett) zu werden, nicht weil es echte Grenzen sind.
+Co-Abhängigkeit sieht in echten Beziehungen aus wie: Du ignorierst deine eigenen Bedürfnisse. Dein Partner sagt, er oder sie möchte keinen Kontakt mit seinen oder ihren Freunden haben, und du vereinbarst, ihn oder sie nicht zu sehen. Dein Partner ist unzufrieden und du machst dich selbst verantwortlich für seine oder ihre Emotionen. Du glaubst, dass wenn du nur liebevoller, komplainsamer oder besser wärst, würde die [verliebt](/blog/mann-verliebt-anzeichen-komplett) zu werden, nicht weil es echte Grenzen sind.
 
 **Interdependenz:** Du hast klare, konsistente Grenzen. Du weißt, was okay für dich ist und was nicht. Du kommunizierst diese Grenzen liebevoll, aber standhaft. Wenn dein Partner deine Grenzen respektiert, vertieft sich die Intimität. Wenn dein Partner deine Grenzen nicht respektiert, überprüfst du die Beziehung. Dein Partner hat auch Grenzen und du respektierst sie.
 

@@ -322,6 +322,5 @@ Du machst es genau richtig.
 ## Das könnte dich auch interessieren
 
 - [Dating nach spätem Coming-Out](/blog/dating-nach-spaetem-coming-out/)
-- [Dating nach toxischer Erfahrung](/blog/dating-nach-gewalt-guide/)
 - [Dating nach einer [Ghosting](/blog/ghosting-komplett-guide)-Erfahrung](/blog/dating-nach-ghosting-erfahrung/)
 - [Pansexuelles Dating: Liebe ohne Grenzen — Der komplette](/blog/pansexuell-dating-guide/)

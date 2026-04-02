@@ -1,5 +1,5 @@
 ---
-title: "Ghosting: Die letzte Nachricht die du schreiben solltest (2026)"
+title: "Ghosting: Die letzte Nachricht die du schreiben solltest"
 description: "Du wurdest geghostet? So schreibst du eine würdevolle letzte Nachricht. Und wenn du selbst ghosten willst: Besser als zu verschwinden."
 date: 2026-04-01
 image: "/images/blog/ghosting-letzte-nachricht-schreiben.webp"

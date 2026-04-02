@@ -148,7 +148,6 @@ Ein veganes Restaurant zeigt, dass du kreativ, offen und aufmerksam bist – Eig
 
 ## Weiterlesen
 
-- [Museum als Date-Idee – Kultur trifft Kennenlernen](/blog/dating-museum-date)
 - [Erste-Date-Angst beim Online-Dating überwinden](/blog/online-dating-erste-date-angst)
 - [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
 

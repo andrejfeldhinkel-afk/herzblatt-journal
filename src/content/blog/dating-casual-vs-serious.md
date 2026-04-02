@@ -39,41 +39,7 @@ Das ist nicht gut oder schlecht – es ist eine Frage der Passung zu deinen Bed�
 
 Du bist in einer Casual-Dating-Phase, wenn:
 
-- Du gerade eine [Trennung](/blog/trennung-verarbeiten-12-schritte) hinter dir hast und noch nicht bereit für Ernsthaftigkeit
-- Du viel arbeiten/studieren musst und wenig Zeit für Beziehung hast
-- Du verschiedene Menschen kennenlernen und verstehen möchtest, was du willst
-- Du Spaß haben willst ohne emotionales Commitment
-- Du noch nicht weißt, was du in einer Partnerin/einem Partner suchst
-- Du gerade in einer neuen Stadt bist und keine feste Bindung brauchst
-
-Wichtig: Casual Dating ist okay – wenn alle Beteiligten das wissen und verstehen.
-
-## Wer sollte eine ernste Beziehung suchen?
-
-Du brauchst eine ernste Beziehung, wenn:
-
-- Du emotional bereit bist für Tiefe und Verletzbarkeit
-- Du jemanden mit einbeziehen willst in dein Leben
-- Dir eine langfristige Zukunft wichtig ist
-- Du Stabilität und Sicherheit brauchst
-- Dir die emotionale Intimität wichtiger ist als Freiheit
-- Du bereit bist, Kompromisse zu machen
-- Du langfristige Planung (Zusammenziehen, Ehe, Kinder) möchtest
-
-| Aspekt | Casual Dating | Ernste Beziehung |
-|---|---|---|
-| Exklusivität | Optional/Unklar | Ja, erwartet |
-| Zeit zusammen | Nach Lust und Laune | Regelmäßig geplant |
-| Gemeinsame Zukunft | Nicht geplant | Ja |
-| Emotionale Tiefe | Oberflächlich | Tief |
-| Freunde/Familie kennen | Eher nein | Ja |
-| Alltagsleben teilen | Nein | Ja |
-| Konflikte lösen | Nicht notwendig | Sehr wichtig |
-| Geheimnis-Toleranz | Höher | Niedriger |
-
-## Die Übergänge sind fließend
-
-In der Realität sind Grenzen oft verschwommen. "Casual Dating" nach einem Monat sieht anders aus als nach 6 Monaten. Manche Leute sagen sie wollen "casual" aber verhalten sich wie in einer [Beziehung](/blog/interkulturelle-beziehungen-tipps).
+- Du gerade eine [Beziehung](/blog/interkulturelle-beziehungen-tipps).
 
 Deshalb ist Kommunikation absolut essentiell.
 
@@ -182,7 +148,6 @@ Wenn du weißt, was du suchst – egal ob casual oder ernsthaft – wird es leic
 
 ## Weiterlesen
 
-- [20 [Green Flags](/blog/dating-green-flags-erkennen-guide): Zeichen dass er/sie der Richtige ist](/blog/dating-green-flags-guide)
 - [Kenne deine Notwendigkeiten: Das Fundament guten Datings](/blog/dating-notwendigkeit-kennen)
 - [Schwiegereltern-Guide 2026: So gewinnst du sie für dich](/blog/beziehung-schwiegereltern-guide)
 

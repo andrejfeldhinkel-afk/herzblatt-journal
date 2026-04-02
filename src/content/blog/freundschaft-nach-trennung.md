@@ -12,29 +12,7 @@ tags:
 
 ## Freundschaft nach [Trennung](/blog/trennung-verarbeiten-12-schritte): Geht das wirklich?
 
-Die Trennung ist vollzogen, die emotionalen Wunden sind größtenteils verheilt, und plötzlich stellst du dir eine Frage, die viele Paare beschäftigt: Können wir Freunde bleiben? Diese Frage ist nicht einfach zu beantworten, und die Meinungen dazu sind so unterschiedlich wie die Beziehungen selbst. Manche sagen, dass eine Freundschaft nach einer romantischen [beziehung](/blog/adhs-und-beziehung-komplett-guide/) unmöglich ist, andere berichten von langjährigen, tiefgehenden Freundschaften mit ihren Ex-Partnern. Die Wahrheit liegt wie so oft irgendwo dazwischen – und es gibt durchaus Wege, wie eine echte Freundschaft entstehen kann, wenn beide Partner die richtigen Voraussetzungen mitbringen.
-
-In diesem Artikel gehen wir der Frage nach, unter welchen Bedingungen eine Freundschaft nach einer Trennung funktioniert, welche Zeitrahmen realistisch sind, wie du Grenzen setzt und was Psychologen und Beziehungsexperten zu diesem Thema sagen. Wir schauen uns auch an, wie es aussieht, wenn Kinder im Spiel sind, und lassen dich von echten Erfahrungsberichten von Paaren profitieren, denen es gelungen ist.
-
-## Ist eine Freundschaft nach einer Trennung überhaupt möglich?
-
-Die kurze Antwort: Ja, es ist möglich. Aber es kommt auf viele Faktoren an. Eine britische Studie der University of Winnipeg aus dem Jahr 2012 zeigte, dass etwa 50 Prozent der befragten Personen nach einer Beziehung Kontakt mit ihrem Ex-Partner hatten. Allerdings bedeutet Kontakt nicht automatisch echte Freundschaft.
-
-Psychologen unterscheiden zwischen verschiedenen Arten von Kontakt nach einer Trennung:
-
-**Nostalgia-Kontakt**: Du hältst Kontakt, weil die gemeinsame Geschichte wertvoll war und die Vergangenheit dich anzieht. Das ist nicht wirklich Freundschaft – es ist eher eine Form von Wehmut.
-
-**Opportunity-Kontakt**: Ihr seht euch zufällig wieder, vielleicht in eurem gemeinsamen Freundeskreis, und unterhaltet euch nett. Das kann sich entwickeln, muss es aber nicht.
-
-**Genuine Friendship**: Das ist echte Freundschaft. Ihr versteht euch, unterstützt euch gegenseitig, habt gemeinsame Interessen und es gibt keine versteckten romantischen Gefühle, die das Fundament der Freundschaft untergraben.
-
-Die dritte Form ist das, wovon wir sprechen, wenn wir von echter Freundschaft nach einer Trennung reden. Und ja, sie ist möglich – aber nicht in jedem Fall und nicht für jede Person.
-
-## Die wichtigsten Voraussetzungen für eine funktionierende Freundschaft
-
-Wenn du ernsthaft darüber nachdenkst, mit deinem Ex-Partner befreundet zu sein, gibt es einige nicht verhandelbare Voraussetzungen:
-
-### 1. Der [Liebeskummer](/blog/liebeskummer-phasen-komplett) muss vergangen sein
+Die Trennung ist vollzogen, die emotionalen Wunden sind größtenteils verheilt, und plötzlich stellst du dir eine Frage, die viele Paare beschäftigt: Können wir Freunde bleiben? Diese Frage ist nicht einfach zu beantworten, und die Meinungen dazu sind so unterschiedlich wie die Beziehungen selbst. Manche sagen, dass eine Freundschaft nach einer romantischen [Liebeskummer](/blog/liebeskummer-phasen-komplett) muss vergangen sein
 
 Das ist die wichtigste Voraussetzung. Wenn du noch in deinen Ex [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, wenn du nachts an ihn denkst und hoffst, dass er dich eines Tages zurückruft, dann ist jetzt nicht die Zeit für eine Freundschaft. Eine einseitige Hoffnung auf Wiedervereinigung wird jede Freundschaft vergiften. Du wirst unbewusst versuchen, die alte Beziehung wiederherzustellen, du wirst dich von Berichten über sein neues Dating-Leben verletzt fühlen, und du wirst jede kleine Aufmerksamkeit überinterpretieren.
 

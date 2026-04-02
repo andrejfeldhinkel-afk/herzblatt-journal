@@ -241,25 +241,7 @@ Wenn du eine Firedooring-Beziehung beendet hast oder dich aus einer heraus beweg
 
 Firedooring kann dein Vertrauen beschädigen. Du könntest anfangen zu fragen: "Bin ich zu bedürftig?" oder "Wird jemand mich je wirklich wollen?" Das sind normale Gefühle, aber sie sind nicht wahr. Die Person hat dich nicht kontaktiert, weil sie dich nicht priorisiert hat – nicht, weil du es nicht wert bist.
 
-**Die [heilung](/blog/aengstlicher-bindungsstil-heilen/) könnte beinhalten:**
-
-**Selbstmitgefühl entwickeln**
-Das Erste ist, dir selbst zu vergeben. Du hast versucht, die Beziehung zu retten. Du hast gehofft, dass die andere Person sich ändern würde. Das war nicht falsch – das war menschlich. Sprich mit dir selbst wie mit einem guten Freund: "Ich habe mein Bestes getan. Ich bin nicht schuldig daran, dass diese Person mich nicht priorisiert hat."
-
-**Mit einem Therapeuten sprechen**
-Ein Therapeut kann dir helfen, zu verstehen, warum du in eine Firedooring-Beziehung geraten bist. Gibt es Muster? Wirst du oft zu bedürftig? Oder suchst du nach Menschen, die nicht verfügbar sind? Ein Therapeut kann dir helfen, diese Muster zu sehen.
-
-**Zeit mit Menschen verbringen, die dich lieben und initiieren**
-Das Wichtigste für die Heilung ist, Zeit mit Menschen zu verbringen, die dich wirklich wollen. Freunde, Familie, Menschen die dich initiieren. Das heilt. Es zeigt dir, dass es Menschen gibt, die dich vermissen und dich kontaktieren.
-
-**Deine eigenen Ziele und Interessen verfolgen**
-Während einer Firedooring-Beziehung, stellst du oft deine eigenen Ziele zurück. Du konzentrierst dich auf die andere Person. Jetzt ist die Zeit, dich auf dich zu konzentrieren. Was möchtest du lernen? Welche Träume hast du? Verfolge sie.
-
-**Dein Selbstwertgefühl wieder aufbauen**
-Firedooring schadet deinem Selbstwertgefühl. Du fragst dich, ob du genug bist. Die Heilung ist, dich selbst wieder als wertvoll zu sehen. Das könnte bedeuten: Affirmationen sprechen, ein Tagebuch führen, Sport treiben, oder einfach nur Zeit mit dir selbst verbringen.
-
-**Dein Muster erkennen**
-Es ist auch wichtig zu lernen, zukünftige Firedooring zu vermeiden. Das bedeutet, früh in Beziehungen auf die Zeichen zu achten. Wenn jemand von Anfang an reaktiv ist, wird das wahrscheinlich nicht besser. [Red Flags](/blog/dating-red-flags-maenner-erkennen) früh zu erkennen kann dir Schmerz sparen.
+**Die [Red Flags](/blog/dating-red-flags-maenner-erkennen) früh zu erkennen kann dir Schmerz sparen.
 
 Die Heilung ist nicht linear. Es gibt Tage, an denen du dich gut fühlst. Es gibt Tage, an denen du dich fragst, ob du die richtige Entscheidung getroffen hast. Das ist normal. Gib dir Zeit.
 

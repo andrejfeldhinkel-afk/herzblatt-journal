@@ -164,4 +164,4 @@ Und die beste Sache, die du für dich tun kannst, ist weggehen und jemanden find
 
 Das ist das Opfer wert.
 
-Lies auch unseren Artikel über [Manipulation in Beziehungen](/blog/emotionale-manipulation-beziehung) um mehr Kontexte zu verstehen.
+Lies auch unseren Artikel über [Manipulation in Beziehungen](/blog/emotionale-manipulation-beziehung-erkennen) um mehr Kontexte zu verstehen.

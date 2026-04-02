@@ -1,5 +1,5 @@
 ---
-title: "Manipulation in der Beziehung: 20 Taktiken und wie du dich schützt"
+title: "Manipulation in der Beziehung"
 description: "Manipulation in der Beziehung erkennen. 20 Taktiken die Partner nutzen und konkrete Strategien wie du dich schützt und befreist."
 author: "thomas-peters"
 image: "/images/blog/manipulation-beziehung-erkennen.webp"
@@ -32,21 +32,7 @@ Die gute Nachricht ist: Es gibt konkrete Taktiken, die du lernen kannst, um Mani
 
 ## Gaslighting: Die Verwirrtaktik Nummer Eins
 
-[Gaslighting](/blog/gaslighting-komplett-guide) ist eine der destruktivsten Manipulationstaktiken. Dein Partner macht dich glauben, dass deine Wahrnehmung falsch ist, deine Erinnerungen unzuverlässig sind oder dass du überreagierst. Er könnte beispielsweise leugnen, etwas gesagt zu haben, das du deutlich gehört hast. Wenn du protestierst, beschuldigt er dich, es dir "einzubilden". Mit der Zeit beginnst du, dir selbst nicht mehr zu trauen.
-
-Ein konkretes Beispiel: Du erinnerst dich daran, dass euer Partner versprochen hat, am Samstag mit dir ins Kino zu gehen. Am Samstagmorgen sagt er, er hätte das nie versprochen. Du bist verwirrt und fragst dich, ob du das wirklich falsch verstanden hast. Wenn du dich selbst nicht trauen darfst, verlierst du deine innere Orientierung. Das ist genau das Ziel des Gaslightings. Um dich dagegen zu schützen, dokumentiere wichtige Gespräche. Schreib dir Dinge auf. Vertraue deinen Erinnerungen und hole dir Bestätigung von außen, beispielsweise durch Freunde oder Familie.
-
-## Die Schuldzuweisung: Wenn alles immer deine Schuld ist
-
-Manipulative Partner sind Meister darin, Verantwortung abzuwälzen. Alles, was schiefgeht, ist irgendwie deine Schuld. Du hast ihn provoziert, du warst zu sensibel, du hast das falsch verstanden. Diese Taktik führt dazu, dass du dich ständig schuldig fühlst und ständig versuchst, es besser zu machen.
-
-Die Realität ist: Beide Partner tragen Verantwortung für die Beziehung. Es ist nicht möglich, dass eine Person für 100% aller Probleme verantwortlich ist. Wenn dein Partner nie Fehler zugeben kann oder sich jemals schuldig für etwas fühlt, ist das ein großes Warnsignal. Lerne, klar zwischen deiner Verantwortung und seiner zu unterscheiden. Eine therapeutische Unterstützung kann dabei sehr hilfreich sein.
-
-## Silent Treatment: Die Strafe durch Stille
-
-Stiller Entzug ist eine Form der emotionalen Bestrafung. Dein Partner ignoriert dich tagelang, antwortet nicht auf deine Fragen, gibt dir keine Aufmerksamkeit. Diese Methode ist besonders wirksam, weil du dich dadurch verletzlich und klein fühlst. Du wirst versuchen, ihn zu besänftigen, um wieder in seine Gunst zu kommen.
-
-Das [Silent Treatment](/blog/silent-treatment-beziehung) ist eine Form der emotionalen Gewalt. Es sagt: "Deine Gefühle und deine Bedürfnisse sind nicht wichtig für mich." Wenn dein Partner regelmäßig mit Stille antwortet, wenn du etwas Wichtiges mit ihm besprechen möchtest, musst du wissen, dass dies eine Manipulationstaktik ist. Die Lösung ist, klare Grenzen zu setzen und deutlich zu machen, dass du nicht bereit bist, in einer Beziehung zu leben, in der Kommunikationsverweigerung normal ist.
+[Silent Treatment](/blog/silent-treatment-beziehung) ist eine Form der emotionalen Gewalt. Es sagt: "Deine Gefühle und deine Bedürfnisse sind nicht wichtig für mich." Wenn dein Partner regelmäßig mit Stille antwortet, wenn du etwas Wichtiges mit ihm besprechen möchtest, musst du wissen, dass dies eine Manipulationstaktik ist. Die Lösung ist, klare Grenzen zu setzen und deutlich zu machen, dass du nicht bereit bist, in einer Beziehung zu leben, in der Kommunikationsverweigerung normal ist.
 
 ## Liebe als Waffe: Die Liebe als Manipulationsinstrument nutzen
 

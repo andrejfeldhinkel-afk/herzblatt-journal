@@ -9,49 +9,7 @@ tags:
   - "gesundheit"
 ---
 
-Eine toxische [beziehung](/blog/adhs-und-beziehung-komplett-guide/) ist eine, die dir mehr schaden als gut tut. Es ist nicht immer ein großes Drama – manchmal sind es kleine, tägliche Dinge, die dich langsam zermürben.
-
-Das schwierige ist: Am Anfang merkst du oft nicht, dass eine Beziehung toxisch wird. Es passiert graduell. Ein eifersüchtiger Kommentar hier, eine Kontrolle da, und plötzlich bist du in einer Beziehung, die dir schadet.
-
-Hier sind 15 klare Warnsignale, dass eine Beziehung toxisch ist.
-
-## 1. Du fühlst dich ständig schlecht
-
-Das erste Zeichen: Wie fühlt sich deine Beziehung an? Wenn du dich in einer Beziehung ständig traurig, ängstlich, schuldig oder klein fühlst, ist das ein großes Warnsignal.
-
-Eine gesunde Beziehung sollte dir den größten Teil der Zeit ein gutes Gefühl geben. Nicht all die Zeit – aber die Mehrheit.
-
-## 2. Dein partner kontrolliert dich
-
-Das ist subtil, aber es ist eines der stärksten Zeichen von Toxizität.
-
-Kontrolliertes Verhalten ist:
-- Wer dich sehen darfst oder nicht
-- Was du anziehen darfst
-- Wo du hingehen darfst
-- Wem du vertrauen darfst
-
-Das kann subtil sein: „Warum musst du deine Freundin treffen?" oder „Das Kleid ist zu kurz." Mit der Zeit wird es intensiver.
-
-Kontrolle ist Missbrauch. Punkt.
-
-## 3. Emotionale Manipulation
-
-Dein Partner nutzt deine Gefühle gegen dich. Wenn du verärgert bist, antwortet die Person mit: „Du bist verrückt" oder „Du bist zu empfindlich" oder „Ich werde dich verlassen, wenn du nicht aufhörst."
-
-Das ist emotionale Manipulation. Sie macht dir ein schlechtes Gefühl für deine berechtigten Gefühle.
-
-## 4. Passive Aggression
-
-Dein Partner sagt nicht aktiv schreckliche Dinge, aber:
-- Sie / Er ignoriert dich als Strafe
-- Sagt absichtlich verletzende Dinge „als Joke"
-- Tut das Gegenteil von dem, was du bittest
-- Sagt „ja, ja" und tut dann was anderes
-
-Das ist toxisch, weil es dich verwirrt. Es ist nicht offen genug, um zu kämpfen, aber deutlich genug, um wehzutun.
-
-## 5. [Gaslighting](/blog/gaslighting-komplett-guide)
+Eine toxische [Gaslighting](/blog/gaslighting-komplett-guide)
 
 Das ist eine Form der psychologischen Manipulation, bei der dein Partner dich anfängt, an deinen eigenen Gedanken und Gefühlen zu zweifeln.
 

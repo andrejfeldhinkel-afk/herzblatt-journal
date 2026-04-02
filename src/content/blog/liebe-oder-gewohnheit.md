@@ -84,33 +84,7 @@ Wenn dein Partner dich morgen bitten würde, eine große Veränderung zu machen,
 
 Wenn du ihn nicht kennen würdest und ihn heute treffen würdest, würde dir an ihm gefallen? Würdest du ihn romantisch interessieren? Diese Frage entfernt die Gewohnheit aus der Gleichung.
 
-Wie oft denkst du über [Trennung](/blog/trennung-verarbeiten-12-schritte) nach? Wenn diese Gedanken regelmäßig auftauchen, ist das ein starkes Zeichen dafür, dass etwas nicht stimmt.
-
-Siehst du ihn, wenn er dich anschaut? Oder siehst du nur ein vertrautes Gesicht, das du nicht mehr wirklich kennst?
-
-## Der Unterschied zwischen Vertrautheit und Liebe
-
-Das Tückische ist, dass Vertrautheit leicht mit Liebe verwechselt werden kann. Du kennst diese Person seit zehn Jahren. Ihr habt so viele Erinnerungen zusammen. Es fühlt sich wie Liebe an, weil es so vertraut ist.
-
-Aber Vertrautheit ist nicht Liebe. Vertrautheit ist das, was übrig bleibt, wenn du lange Zeit mit jemandem zusammen bist. Es kann mit Liebe kombiniert werden, aber es kann auch ohne Liebe existieren. Tatsächlich kann Vertrautheit die Liebe sogar verdecken, die nicht mehr da ist.
-
-Die Frage ist: Liebst du diese Person, oder liebst du nur die Geschichte, die ihr zusammen aufgebaut haben?
-
-Das ist der Unterschied. Manche Menschen bleiben in Beziehungen nicht, weil sie die andere Person lieben, sondern weil sie nicht wissen, wie sie ohne diese Geschichte leben sollen. Sie haben so viel Zeit investiert, so viele Entscheidungen getroffen, um diese Beziehung zu unterstützen. Zu gehen würde bedeuten, zuzugeben, dass all das verschwendet war.
-
-Aber das ist nicht wahr. Die Zeit war nicht verschwendet. Du hast gelernt. Du bist gewachsen. Manchmal beendet sich eine Liebe. Das macht die Liebe nicht zu einer Verschwendung.
-
-## Was du jetzt tun solltest
-
-Wenn du diesen Artikel liest und denkst "Das bin ich. Ich bin in einer Beziehung aus Gewohnheit", dann solltest du handeln.
-
-Der erste Schritt ist Klarheit. Nicht Handlung, aber Klarheit. Sitze mit diesem Gefühl für eine Weile. Journaliere über deine Fragen. Frage dich immer wieder: Liebe ich diese Person noch?
-
-Der zweite Schritt ist Kommunikation. Nicht um Verantwortung zu übernehmen oder um Schuldgefühle zu verursachen, sondern um die Wahrheit zu sprechen. "Mir ist aufgefallen, dass unsere Beziehung sich verändert hat. Ich fühle mich nicht mehr so verbunden. Ich weiß nicht, ob das bei dir auch so ist, aber ich möchte darüber sprechen."
-
-Der dritte Schritt ist Entscheidung. Entscheidest du dich, in dieser Beziehung zu investieren und wieder Liebe zu finden? Oder entscheidest du dich zu gehen?
-
-Beide Entscheidungen sind legitim. Manchmal können Paare ihre Liebe wiederentdecken. Sie gehen in eine Therapie, sie kommunizieren, sie erinnern sich daran, warum sie sich zusammen [verliebt](/blog/mann-verliebt-anzeichen-komplett) haben. Manchmal funktioniert das.
+Wie oft denkst du über [verliebt](/blog/mann-verliebt-anzeichen-komplett) haben. Manchmal funktioniert das.
 
 Manchmal nicht. Manchmal ist die beste Entscheidung, sich zu trennen. Das ist nicht ein Fehler. Das ist eine Erkenntnis. Das ist der Mut, die Wahrheit zu sehen und danach zu handeln.
 

@@ -1,5 +1,5 @@
 ---
-title: "Dating mit Allergien: Wie du es handhaben und Partner überzeugst"
+title: "Dating mit Allergien: Wie du es handhaben und Partner übe..."
 description: "Tipps für erfolgreiches Dating, wenn du Lebensmittelallergien hast und wie du deinen Date-Partner einbeziehst."
 keywords: ["dating mit allergien", "dating", "gesundheit", "kommunikation", "lokales dating", "partnersuche"]
 date: 2025-11-17

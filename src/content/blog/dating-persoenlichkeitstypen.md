@@ -30,37 +30,7 @@ TypKern-TraitDating-StilIdeal MatchRed Flag**1. Romantiker**TräumerischSchnell 
 
 **Charakterzüge:**
 
-- Schnell [verliebt](/blog/mann-verliebt-anzeichen-komplett)
-
-- Glaubt an “The One”
-
-- Träumerisch von Zukunft
-
-- Emotionale Sicherheit braucht
-
-- Leicht verletzbar
-
-**Dating-Stil:**
-
-- Schreibt Gedichte/Liebesbotschaften
-
-- Plant große Überraschungen
-
-- Will schnell Definition
-
-- Sees future early
-
-- Kann impulsiv sein
-
-**Ideale Match:**
-
-- Abenteuerer (haben Energie für deine Träume)
-
-- Passionierte (gleiche Intensität)
-
-- Andere Romantiker (verstehen dich)
-
-**[Red Flags](/blog/dating-red-flags-maenner-erkennen) für dich:**
+- Schnell [Red Flags](/blog/dating-red-flags-maenner-erkennen) für dich:**
 
 - Pragmatiker (zu langsam)
 
@@ -418,7 +388,6 @@ Du\PartnerRomantikerPragmatikerAbenteuererEmpathUnabhängigHeimatIntellektPassio
 
 ## Weiterlesen
 
-- [Persönlichkeitstypen als Dating-Kompass](/blog/persoenlichkeitstypen-dating-kompass)
 - [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
 

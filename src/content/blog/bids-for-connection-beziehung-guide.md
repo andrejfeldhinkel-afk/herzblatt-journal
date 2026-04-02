@@ -259,25 +259,7 @@ Auch neurobiologisch macht das Sinn. Wenn dein Partner auf deine Bids reagiert, 
 
 ## Die Wissenschaft: Was sagt die Forschung?
 
-John Gottman's bahnbrechende Forschung hat sich über zwei Jahrzehnte erstreckt und hunderte von Paaren untersucht. Seine Arbeit hat zu einer der präzisesten Vorhersagen in der [psychologie](/blog/aengstlicher-bindungsstil-heilen/) geführt: Mit etwa 91% Genauigkeit konnte Gottman vorhersagen, welche Paare sich trennen würden und welche zusammenbleiben würden — und vieles davon hing an Bids for Connection ab.
-
-Die Forschung zeigt ein klares Muster: Paare, bei denen beide Partner auf etwa 87% der Bids mit Zuwendung reagieren, bleiben zusammen und berichten von hoher Zufriedenheit. Diese Quote ist beeindruckend, nicht weil sie perfekt ist, sondern weil sie zeigt, dass es nicht um Perfektion geht — es geht um Konsistenz.
-
-Was noch faszinierender ist: Gottman fand heraus, dass der Unterschied zwischen Paaren, die zusammenblieben und denen, die sich trennten, nicht unbedingt war, wie viel Bids sie machten. Sowohl glückliche als auch unglückliche Paare machen ähnlich viele Bids. Der kritische Unterschied lag in der Antwort.
-
-Neurowissenschaftlich macht dies Sinn. Wenn du auf einen Bid deines Partners reagierst und dein Partner dich erkennt, werden neurochemische Prozesse ausgelöst. Dein Nervensystem wird beruhigt. Dopamin wird freigesetzt — das Belohnungshormon. Oxytocin, das "Kuschel-Hormon", wird ausgeschüttet. Diese chemischen Reaktionen bauen echte, physische Bindung auf. Es ist nicht nur emotional — es ist biologisch real.
-
-Die Forschung zeigt auch, dass dieser Prozess bereits bei Säuglingen anfängt. Ein Baby macht einen Bid — es weint — und der Pflegegeber reagiert. Diese frühen Erfahrungen prägen, wie wir später in Beziehungen funktionieren. Menschen mit sicherer Bindung (die wahrscheinlich viele Bids in ihrer Kindheit erfolgreich gemacht haben) reagieren später leichter auf Bids von Partnern.
-
-## Bids in verschiedenen Beziehungsphasen
-
-Die Art und Häufigkeit von Bids ändert sich je nach Phase der Beziehung. Das Verständnis dieser Phasen kann dir helfen zu erkennen, was in deiner eigenen Beziehung passiert.
-
-### Die Anziehungsphase (erste Monate bis 2 Jahre)
-
-In dieser Phase sind Bids häufig, spielerisch und oft voller Spannung. Du bemerkst jeden kleinen Bid von deinem Partner. "Hast du bemerkt, wie ich dich anschaue?" wird erwidert mit einem Lächeln und voller Aufmerksamkeit. Sex ist häufig, weil die ganze Beziehung eine lange Serie von Bids ist.
-
-Die gute Nachricht: In dieser Phase ist die Bid Acceptance Rate normalerweise sehr hoch. Ihr ignoriert euch nicht oder wendet euch gegeneinander. Ihr seid beide leicht [verliebt](/blog/mann-verliebt-anzeichen-komplett), aufmerksam und präsent.
+John Gottman's bahnbrechende Forschung hat sich über zwei Jahrzehnte erstreckt und hunderte von Paaren untersucht. Seine Arbeit hat zu einer der präzisesten Vorhersagen in der [verliebt](/blog/mann-verliebt-anzeichen-komplett), aufmerksam und präsent.
 
 Das Problem: Diese Phase ist nicht nachhaltig. Sie wird nicht für immer so sein. Das ist nicht ein Fehler — das ist die Natur langer Beziehungen.
 
@@ -403,8 +385,7 @@ Wenn du in diesem Ort bist, ist es Zeit, professionelle Hilfe zu suchen oder die
 
 Wenn du dich weiter mit Beziehungen beschäftigen möchtest:
 
-- Lerne mehr über [Emotional Labor in Beziehungen](/blog/emotional-labor-beziehung-guide) — die unsichtbare Arbeit, die Bids erfordert
-- Verstehe die [Pursuer-Distancer Dynamik](/blog/pursuer-distancer-dynamik-guide) — wie unterschiedliche Bid-Annahmen zu Mustern führen
+- Lerne mehr über [Pursuer-Distancer Dynamik](/blog/pursuer-distancer-dynamik-guide) — wie unterschiedliche Bid-Annahmen zu Mustern führen
 - Erkunde [ROCD und Beziehungszweifel](/blog/rocd-beziehungszweifel-guide) — wenn Zweifel deine Fähigkeit blockieren, Bids zu machen
 
 Diese Konzepte sind miteinander verbunden. Bids sind der Klebstoff, der alle anderen Beziehungsaspekte zusammenhält.

@@ -11,22 +11,7 @@ tags:
 ---
 ## Beziehungskrise meistern: Ursachen und Lösungen
 
-Jedes Paar, das lange zusammen ist, erlebt eine Krise. Das ist nicht ein Zeichen, dass die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) fehler hat. Das ist normal. Das ist tatsächlich gesund.
-
-Eine Krise ist, wenn deine Beziehung es dir sagt: "Es ist Zeit zu wachsen oder auseinanderzufallen."
-
-Dieser Guide zeigt dir die Arten von Krisen, wie sie aussehen, und vor allem: Wie ihr sie überstehen könnt und gestärkt herauskommen.
-
-## Was ist eine Beziehungskrise?
-
-Eine Beziehungskrise ist nicht einfach ein Kampf. Es ist eine Phase, in der das Fundament eurer Beziehung in Frage gestellt wird.
-
-Es ist, wenn:
-- Ein oder beide Partner haben große Zweifel, ob die Beziehung noch funktioniert
-- Das tägliche Leben hat sich dramatisch geändert
-- Ein wichtiges Problem wird nicht gelöst und wird größer
-- Die emotionale Verbindung hat sich stark verschlechtert
-- Ein oder beide Partner betrachten [Trennung](/blog/trennung-verarbeiten-12-schritte) als echte Option
+Jedes Paar, das lange zusammen ist, erlebt eine Krise. Das ist nicht ein Zeichen, dass die [Trennung](/blog/trennung-verarbeiten-12-schritte) als echte Option
 
 Das kann Wochen, Monate oder sogar ein Jahr dauern. Es ist nicht eine schnelle Sache.
 

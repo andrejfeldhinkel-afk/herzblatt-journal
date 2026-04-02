@@ -1,5 +1,5 @@
 ---
-title: "Glückwünsche zur Verlobung: 30 Texte für die schönsten Momente"
+title: "Glückwünsche zur Verlobung"
 description: "Herzliche Glückwünsche und Sprüche zur Verlobung. Von lustig bis emotional – die perfekten Worte zum Feiern der Liebe."
 date: 2026-04-02
 tags: [verlobung, glückwünsche, hochzeit, liebe]
@@ -155,7 +155,7 @@ Du brauchst nicht. Aber wenn du eines machen möchtest:
 - Einen Gutschein für die Hochzeitsreise
 - Ein schönes Buch über Liebe und Beziehungen
 
-[Wenn die Verlobung beginnt, kommt die Hochzeitsvorbereitung. Lies auch unseren Artikel über Verlobungsringe für Inspirationen](/blog/verlobungsring-ratgeber-guide.md).
+[Wenn die Verlobung beginnt, kommt die Hochzeitsvorbereitung. Lies auch unseren Artikel über Verlobungsringe für Inspirationen](/blog/verlobungsring-ratgeber-guide).
 
 ## Das Wichtigste
 

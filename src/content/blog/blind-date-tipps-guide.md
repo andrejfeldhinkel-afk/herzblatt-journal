@@ -1,5 +1,5 @@
 ---
-title: "Blind Date: Tipps, Vorbereitung & was du erwarten kannst (2026)"
+title: "Blind Date: Tipps, Vorbereitung & was du erwarten kannst"
 description: "Blind Date erfolgreich machen: Vorbereitung, Ortsauswahl, Gesprächstipps und wie du erkennst, ob es klick macht — ein ehrlicher Guide."
 date: 2026-04-01
 image: "/images/blog/blind-date-tipps-guide.webp"
