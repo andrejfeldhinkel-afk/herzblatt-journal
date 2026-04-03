@@ -112,5 +112,5 @@ Dein Wert ist nicht abhängig davon, wie schnell er antwortet.
 
 - [Heimlich verliebt? 15 Anzeichen, die dich verraten](/blog/heimliches-verlieben-anzeichen/)
 - [Erstes Date: 10 Tipps, damit es richtig gut wird](/blog/erstes-date-tipps/)
-- [Ghosting beim Dating: Wenn er einfach verschwindet](/blog/ghosting-dating-tipps/)
+- [Ghosting beim Dating: Wenn er einfach verschwindet](/blog/ghosting-komplett-guide)
 

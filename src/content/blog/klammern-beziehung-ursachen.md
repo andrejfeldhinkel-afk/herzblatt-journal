@@ -143,6 +143,6 @@ Das Ziel ist nicht, dass der klammernd Partner „normal" wird. Das Ziel ist, da
 ## Das könnte dich auch interessieren
 
 - [Kein Sex mehr in der Beziehung: Ursachen und Lösungen](/blog/kein-sex-mehr-beziehung-ursachen/)
-- [Eigene Identität in der Beziehung bewahren – Du bleibst du](/blog/beziehung-eigene-identitaet-bewahren/)
+- [Eigene Identität in der Beziehung bewahren – Du bleibst du](/blog/beziehung-eigene-identitaet-bewahren)
 - [Neid in der Beziehung: Wenn du deinem Partner seinen Erfolg nicht gönnst](/blog/neid-in-der-beziehung/)
 - [Grenzen setzen in der Beziehung: Ein Ratgeber](/blog/grenzen-setzen-beziehung/)

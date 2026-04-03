@@ -71,7 +71,7 @@ Wenn das ein Dealbreaker für dich ist, share es. Menschen verdienen zu wissen, 
 **Langfristige Ziele:**
 "Ich bin nicht interessiert zu heiraten" oder "Ich plane, in drei Jahren Kinder zu bekommen" — Das spart Zeit und Herzbreak.
 
-Mehr zur [Kompatibilität beim Dating](/blog/kompatibilitaet-beziehung) findest du in unserem ausführlichen Artikel.
+Mehr zur [Kompatibilität beim Dating](/blog/werte-basiertes-dating) findest du in unserem ausführlichen Artikel.
 
 ## A/B Testing: Optimiere, was funktioniert
 
@@ -99,4 +99,4 @@ Schau auch auf [Erste Nachricht beim Online-Dating: So machst du es richtig](/bl
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Artikel über [Dating-App Algorithmen verstehen](/blog/dating-app-algorithmen), [Authentisches Dating: Sei du selbst](/blog/authentisches-dating), und [Wie Dating-Apps dich manipulieren](/blog/dating-apps-psychologie).
+**Weiterlesen:** Entdecke auch unsere Artikel über [Dating-App Algorithmen verstehen](/blog/dating-apps-algorithmus-hacken), [Authentisches Dating: Sei du selbst](/blog/dating-authentisch-bleiben), und [Wie Dating-Apps dich manipulieren](/blog/online-dating-psychologie).

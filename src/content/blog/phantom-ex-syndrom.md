@@ -324,7 +324,7 @@ Das ist Heilung. Das ist Liebe zu dir selbst. Das ist der Sieg. Und das ist es, 
 
 [Lesen Sie auch: Wie man mit Trauer nach einer Trennung umgeht - /blog/trauer-trennung-umgang]
 
-[Lesen Sie auch: Toxische Beziehungsmuster erkennen - /blog/toxische-beziehungsmuster]
+[Lesen Sie auch: Toxische Beziehungsmuster erkennen - /blog/toxische-beziehung-erkennen]
 
 [Lesen Sie auch: Sich selbst wieder finden nach einer Beziehung - /blog/sich-selbst-finden-beziehung]
 

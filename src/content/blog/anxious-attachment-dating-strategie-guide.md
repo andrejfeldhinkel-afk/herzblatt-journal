@@ -153,4 +153,4 @@ Das ist es, worauf du hinarbeitest.
 
 - [Bindungstheorie einfach erklärt: Dein Weg zu sicherer Liebe](/blog/attachment-theory-einfach-erklaert/)
 - [Abhängigkeit im Liebesleben überwinden: Praktische Schritte](/blog/abhaengigkeit-vom-partner-loesen/)
-- [Sicherer Bindungsstil entwickeln: Ein Roadmap zur Heilung](/blog/secure-attachment-entwickeln/)
+- [Sicherer Bindungsstil entwickeln: Ein Roadmap zur Heilung](/blog/attachment-style-aendern-sicher-werden)

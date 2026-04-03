@@ -87,7 +87,7 @@ Und du wirst nicht nur heilen. Du wirst stärker. Du wirst weiser. Du wirst wiss
 
 Das ist das Geschenk, das auch toxische Beziehungen bringen, wenn du bereit bist, es anzunehmen: Sie lehren dich, was du wert bist. Sie zeigen dir, was du brauchst, um glücklich zu sein. Sie geben dir das Wissen, um bessere Entscheidungen zu treffen.
 
-Schau auch in unsere Artikel über [Toxische Beziehungsmuster erkennen](/blog/toxische-beziehungsmuster) und [Selbstliebe nach einer Trennung aufbauen](/blog/selbstliebe-nach-trennung-aufbau).
+Schau auch in unsere Artikel über [Toxische Beziehungsmuster erkennen](/blog/toxische-beziehung-erkennen) und [Selbstliebe nach einer Trennung aufbauen](/blog/selbstliebe-nach-trennung).
 
 Die Frage ist nur: Wirst du diese Lektion annehmen und dich selbst an erste Stelle setzen?
 
@@ -95,4 +95,4 @@ Ich hoffe, ja.
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Neue Beziehung nach Heilung: Bereit für echte Liebe](/blog/neue-beziehung-nach-heilung), [Vertrauen wieder aufbauen nach Betrug](/blog/vertrauen-nach-betrug-aufbauen), und [Selbstschutz in neuen Beziehungen](/blog/selbstschutz-neue-beziehung).
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Neue Beziehung nach Heilung: Bereit für echte Liebe](/blog/dating-nach-trennung), [Vertrauen wieder aufbauen nach Betrug](/blog/vertrauen-nach-betrug), und [Selbstschutz in neuen Beziehungen](/blog/selbstschutz-online-dating).

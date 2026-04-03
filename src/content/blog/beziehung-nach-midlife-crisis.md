@@ -132,7 +132,7 @@ Der Schlüssel: Verständnis. Geduld. Die Bereitschaft, die andere Person zu lie
 - [Beziehung nach Vertrauensmissbrauch — Wie Heilung gelingt](/blog/beziehung-nach-vertrauensmissbrauch/)
 - [Kommunikation in der Beziehung verbessern — Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 - [Paartherapie: Wann ist es Zeit, professionelle Hilfe zu holen?](/blog/paartherapie-wann-sinnvoll/)
-- [Identität in der Beziehung bewahren — Wie du dich selbst bleibst](/blog/identitaet-beziehung-erhalten/)
+- [Identität in der Beziehung bewahren — Wie du dich selbst bleibst](/blog/beziehung-eigene-identitaet-bewahren)
 - [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten/) [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 - [Großer Altersunterschied in der Beziehung](/blog/beziehung-altersunterschied-gross)
 

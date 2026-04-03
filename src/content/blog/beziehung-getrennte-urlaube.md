@@ -105,6 +105,6 @@ Weil sie es ist. Garantiert.
 ## Das könnte dich auch interessieren
 
 - [LAT-Beziehung: Glücklich mit getrennten Wohnungen](/blog/beziehung-getrennte-wohnungen-lat/)
-- [Unterschiedliche Interessen in der Beziehung — Chance statt Problem](/blog/beziehung-unterschiedliche-interessen/)
+- [Unterschiedliche Interessen in der Beziehung — Chance statt Problem](/blog/beziehung-gemeinsame-hobbys-finden)
 - [Beziehung nach Corona – Was die Pandemie uns über Liebe gelehrt hat](/blog/beziehung-nach-corona/)
 - [Grenzen setzen in der Beziehung: Liebe mit Selbstschutz](/blog/beziehung-und-grenzen-setzen/)

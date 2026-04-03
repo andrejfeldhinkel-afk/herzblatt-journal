@@ -142,7 +142,7 @@ Wenn deine Match-Rate sinkt, ist es oft, weil dein Profil altmodisch aussieht. A
 **Dating ohne Klarheit:**
 Bevor du überhaupt eine App downloadest, sei klar: Was suchst du? Eine Beziehung? Etwas Neues? Wenn du dich selbst nicht kennst, werden die Matches auch nicht klar sein.
 
-Mehr Tipps dazu findest du in unserem Artikel über [Klar sein beim Dating: Was willst du wirklich?](/blog/klarheit-dating).
+Mehr Tipps dazu findest du in unserem Artikel über [Klar sein beim Dating: Was willst du wirklich?](/blog/slow-dating-guide).
 
 ## Die realistische Zusammenfassung
 
@@ -150,5 +150,5 @@ Mit 2-3 Stunden pro Woche + 1-2 Dates pro Woche kannst du effektiv daten. Der Sc
 
 ---
 
-**Weiterlesen:** Lerne auch mehr über [Authentisches Chatten beim Online-Dating](/blog/online-dating-chatten), [Erste Date: Das solltest du wissen](/blog/erstes-date-tipps), und [Emotional Intelligent Dating](/blog/emotional-intelligence-dating).
+**Weiterlesen:** Lerne auch mehr über [Authentisches Chatten beim Online-Dating](/blog/online-dating-fehler), [Erste Date: Das solltest du wissen](/blog/erstes-date-tipps), und [Emotional Intelligent Dating](/blog/emotionale-intelligenz-dating).
 

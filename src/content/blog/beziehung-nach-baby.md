@@ -115,6 +115,6 @@ Eure Liebe muss sich nur anders anfühlen für eine Zeit. Und das ist völlig no
 
 - [Beziehung nach Elternschaft: Wie ihr als Paar wiederfindet](/blog/beziehung-nach-elternschaft-zurueckfinden/)
 - [Beziehung retten nach der Geburt: Der praktische Guide](/blog/beziehung-retten-nach-baby/)
-- [Geschlechterrolle und Elternschaft: Gleichberechtigung mit Baby](/blog/beziehung-elternschaft-rollen/)
-- [Postpartale Depression und Beziehung: Liebe durch die Dunkelheit](/blog/postpartale-depression-beziehung/)
-- [Liebe und Grenzen: Wie ihr als neue Eltern Raum behält](/blog/beziehung-grenzen-mit-baby/)
+- [Geschlechterrolle und Elternschaft: Gleichberechtigung mit Baby](/blog/beziehung-nach-baby-guide)
+- [Postpartale Depression und Beziehung: Liebe durch die Dunkelheit](/blog/beziehung-nach-baby-guide)
+- [Liebe und Grenzen: Wie ihr als neue Eltern Raum behält](/blog/beziehung-nach-baby-guide)

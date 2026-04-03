@@ -297,6 +297,6 @@ Viel Erfolg auf eurem Weg.
 ## Das könnte dich auch interessieren
 
 - [Gaming und Beziehung: Wenn Leidenschaft auf Partnerschaft trifft](/blog/beziehung-und-gaming/)
-- [Eigene Identität in der Beziehung bewahren – Du bleibst du](/blog/beziehung-eigene-identitaet-bewahren/)
+- [Eigene Identität in der Beziehung bewahren – Du bleibst du](/blog/beziehung-eigene-identitaet-bewahren)
 - [Unabhängigkeit in der Beziehung bewahren](/blog/unabhaengigkeit-in-beziehung/)
 - [Über Sexualität offen sprechen 2026: Ein Paar-Guide](/blog/sexualitaet-offene-gespraeche/)

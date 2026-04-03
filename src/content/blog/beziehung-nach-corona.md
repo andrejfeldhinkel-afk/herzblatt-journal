@@ -115,8 +115,8 @@ Die Antwort entscheidet alles.
 
 ## Das könnte dich auch interessieren
 
-- [Beziehung stärken: Die wichtigsten Säulen langfristiger Liebe](/blog/beziehung-staerken-langfristig/)
-- [Fernbeziehung erfolgreich führen — Praktische Tipps](/blog/fernbeziehung-erfolgreich-gestalten/)
+- [Beziehung stärken: Die wichtigsten Säulen langfristiger Liebe](/blog/beziehung-staerken-winter)
+- [Fernbeziehung erfolgreich führen — Praktische Tipps](/blog/fernbeziehung-tipps)
 - [Grenzen setzen in der Beziehung: Liebe mit Selbstschutz](/blog/beziehung-und-grenzen-setzen/)
 - [Kommunikation in der Beziehung verbessern — Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
-- [Intimität bewahren: Tipps für langfristige Liebe](/blog/intimität-beziehung-bewahren/)
+- [Intimität bewahren: Tipps für langfristige Liebe](/blog/emotionale-intimitaet-aufbauen)

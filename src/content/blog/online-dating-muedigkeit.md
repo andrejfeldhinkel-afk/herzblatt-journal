@@ -88,4 +88,4 @@ Das ist der Schlüssel zu nachhaltigem, gesundem Dating — nicht aus Einsamkeit
 
 ---
 
-**Weiterlesen:** Lerne auch von unseren Artikeln über [Selbstliebe beim Dating](/blog/selbstliebe-dating-wichtig), [Achtsames Dating: Präsent statt gehetzt](/blog/achtsamkeit-dating), und [Wie du deine Erwartungen beim Dating richtig setzt](/blog/erwartungen-dating-realistisch).
+**Weiterlesen:** Lerne auch von unseren Artikeln über [Selbstliebe beim Dating](/blog/selbstliebe-dating), [Achtsames Dating: Präsent statt gehetzt](/blog/achtsamkeit-dating-bewusst), und [Wie du deine Erwartungen beim Dating richtig setzt](/blog/dating-nach-vergewaltigung-healing).
