@@ -18,9 +18,7 @@ author: "sarah-kellner"
 
 ## Zukunft als Paar planen: Gemeinsam Träume gestalten
 
-Wie du und dein Partner gemeinsam die Zukunft planst und Ziele setzt. In diesem Artikel werden wir tiefer in das Thema eintauchen und praktische Strategien erkunden.
-
-## Warum das Thema wichtig ist
+Wie du und dein Partner gemeinsam die Zukunft planst und Ziele setzt. ## Warum das Thema wichtig ist
 
 zukunft als paar planen: gemeinsam träume gestalten ist relevant für viele Menschen, die sich in modernen Beziehungen bewegen oder neu ins Dating einsteigen.
 

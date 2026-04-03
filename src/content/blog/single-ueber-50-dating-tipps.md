@@ -226,3 +226,9 @@ Der 1 gute wird dein Leben verändern.
 Also lass dich nicht von den 10 schlechten entmutigen.
 
 Die Chancen sind auf deiner Seite.
+
+## Weiterlesen
+
+- [Dating ab 50: Der komplette Guide für die Liebe in der](/blog/dating-ab-50-kompletter-guide)
+- [Dating über 50: Der komplette Guide für die zweite Lebens...](/blog/dating-ueber-50-kompletter-guide)
+- [Introvertiert und Dating: So findest du als stiller Mensch](/blog/introvertiert-dating)

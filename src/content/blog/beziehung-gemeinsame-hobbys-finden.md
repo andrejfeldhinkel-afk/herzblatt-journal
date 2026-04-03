@@ -22,9 +22,7 @@ faq:
 
 ## Gemeinsame Hobbys finden als Paar: Leitfaden für mehr Nähe und Spaß
 
-Wenn die anfängliche Aufregung einer neuen Beziehung abklingt, müssen viele Paare mit einer wichtigen Frage kämpfen: "Was machen wir zusammen?" Gemeinsame Hobbys sind nicht nur eine Möglichkeit, Zeit miteinander zu verbringen – sie können das Fundament einer starken, erfüllenden Beziehung sein. Sie schaffen Gelegenheiten für Lachen, Wachstum und tiefere Verbindung. In diesem umfassenden Leitfaden werden wir erkunden, wie Sie gemeinsame Hobbys finden, entwickeln und genießen können.
-
-## Warum gemeinsame Hobbys wichtig sind
+Wenn die anfängliche Aufregung einer neuen Beziehung abklingt, müssen viele Paare mit einer wichtigen Frage kämpfen: "Was machen wir zusammen?" Gemeinsame Hobbys sind nicht nur eine Möglichkeit, Zeit miteinander zu verbringen – sie können das Fundament einer starken, erfüllenden Beziehung sein. Sie schaffen Gelegenheiten für Lachen, Wachstum und tiefere Verbindung. ## Warum gemeinsame Hobbys wichtig sind
 
 Bevor wir in die Praktiken eintauchen, ist es wichtig zu verstehen, warum gemeinsame Hobbys so wertvoll sind.
 

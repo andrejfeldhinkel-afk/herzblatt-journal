@@ -26,7 +26,7 @@ Du sitzt bei einer Familie Feier, und die Fragen kommen unvermeidlich: "Warum bi
 
 Hier ist die Wahrheit, die du wissen musst: Single mit 30 zu sein ist nicht nur völlig normal, sondern kann eine der wertvollsten Phasen deines Lebens sein. Es ist nicht ein fehlerhafter Zustand, den du "beheben" musst. Es ist nicht ein Zeichen von Unzulänglichkeit oder unattraktiven. Es ist einfach ein Lebensabschnitt – einer, den immer mehr Menschen durchleben, bewusst oder nicht.
 
-In diesem umfassenden Guide erfährst du, warum Single mit 30 vollkommen okay ist, wie du diese Zeit nutzt, um dich selbst zu finden, und wie du ein erfülltes, befriedigendes Single-Leben aufbaust. Ob du dich freiwillig single entschieden hast oder ob dich die Umstände dorthin gebracht haben – dieser Artikel ist für dich.
+Ob du dich freiwillig single entschieden hast oder ob dich die Umstände dorthin gebracht haben – dieser Artikel ist für dich.
 
 ## Die gesellschaftliche Erwartung und wie sehr sie uns schadet
 

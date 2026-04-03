@@ -1,5 +1,5 @@
 ---
-title: "Unerfüllter Kinderwunsch: Wenn der Traum vom Baby die"
+title: "Unerfüllter Kinderwunsch: Wenn der Traum vom Baby"
 author: "sarah-kellner"
 draft: false
 image: "/images/blog/unerfuellter-kinderwunsch-beziehung-guide.webp"

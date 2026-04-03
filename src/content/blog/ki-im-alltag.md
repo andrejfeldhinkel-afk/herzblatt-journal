@@ -99,8 +99,7 @@ Hier sind einige Fragen, die wir stellen sollten:
 
 Nutze KI als Werkzeug, aber verliere nicht die Menschlichkeit. Dating ist in letzter Linie über menschliche Verbindung. Wenn KI dir hilft, dich besser auszudrücken oder bessere Partner zu finden, dann ist das großartig. Aber wenn KI beginnt, deinen authentischen Selbstausdruck zu ersetzen, dann ist es ein Problem.
 
-Bleib human. Das ist wichtiger denn je in einer Welt, in der die Technologie immer intelligenter wird.
-## Weiterlesen
+Bleib human. Das ist wichtiger denn je ## Weiterlesen
 
 - [Meine Leseliste für 2026](/blog/buecher-2026/)
 - [KI im Dating – Wie künstliche Intelligenz die Partnersuche revolutioniert](/blog/ki-dating-zukunft/)

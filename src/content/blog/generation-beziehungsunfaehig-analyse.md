@@ -1239,3 +1239,9 @@ Das ist die Transformation, die die Welt braucht.
 Und es fängt mit DIR an.
 
 Dein ganzes Leben wartet auf dich.
+
+## Weiterlesen
+
+- [Ängstlicher Bindungsstil: So meisterst du Dating und Bezi...](/blog/anxious-attachment-dating-guide)
+- [Mag sie mich? 25 Anzeichen dass sie Interesse hat — Der](/blog/anzeichen-dass-sie-mich-mag-decoder)
+- [Attachment Styles: Einfluss auf dein Dating](/blog/attachment-styles-dating-verstehen)

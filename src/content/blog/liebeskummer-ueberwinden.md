@@ -4,9 +4,9 @@ description: "Liebeskummer überwinden: Der komplette Weg zur emotionalen Heilun
 date: 2025-10-07
 image: "/images/photos/liebeskummer-ueberwinden.webp"
 tags:
-  - "beziehung"
-  - "heilung"
-  - "liebeskummer"
+  - "Beziehung"
+  - "Heilung"
+  - "Liebeskummer"
 ---
 
 Die [Liebeskummer](/blog/liebeskummer-phasen-komplett) ist einer der hartnäckigsten Schmerze, die es gibt. Es ist nicht nur emotionaler Schmerz – es ist körperlich. Dein Brustkorb ist eng. Du kannst nicht schlafen. Du wechselst zwischen Wut, Trauer und seltsamer Hoffnung.

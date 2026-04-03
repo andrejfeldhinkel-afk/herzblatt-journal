@@ -21,13 +21,17 @@ faq:
   - question: "Was mache ich, wenn mein Partner meine Freunde nicht mag?"
     answer: "Das ist ein größeres Problem. Dein Partner muss deine Freunde nicht lieben, aber er muss sie respektieren. Wenn er versucht, dich von ihnen zu isolieren, ist das ein Warnsignal. Wenn es nur Unbehagen ist, könnte Zeit helfen."
 ---
-Eine der größten Herausforderungen in einer [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, sorge dafür, dass du deine Freundschaften prflegst.
+Eine der größten Herausforderungen in einer Beziehung ist, dass deine Freundschaften in den Hintergrund treten. Plötzlich brauchst du weniger Zeit mit deinen Freunden, weil du Zeit mit deinem Partner brauchst. Das ist normal in der Honeymoon-Phase. Aber wenn die Beziehung reift, ist es kritisch, dass du deine Freundschaften nicht komplett verlierst — weil Freundschaften dein Netz sind. Sie sind die Menschen, die dich halten, wenn die romantische Beziehung schwierig wird. Sie sind die Menschen, die dir erlauben, du selbst zu sein, außerhalb der Beziehung.
 
-## Wie man die Balance hält
+Also wenn du verliebt bist, sorge dafür, dass du deine Freundschaften pflegst — nicht weniger, sondern bewusster.
 
-**Zeitmanagement:** Plane regelmäßig Zeit mit deinen Freunden ein, genauso wie mit deinem Partner. Das macht es weniger wahrscheinlich, dass du sie vergisst.
+## Wie man die Balance hält — Die praktischen Strategien
 
-**[kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) mit deinem Partner:** Erkläre, warum dir deine Freundschaften wichtig sind. Ein Partner, der dich liebt, wird das verstehen und unterstützen. Wenn er eifersüchtig wird oder versucht, dich zu isolieren, ist das ein großes Warnsignal.
+**Zeitmanagement mit Bewusstsein:** Plane regelmäßig Zeit mit deinen Freunden ein — wie du auch Zeit mit deinem Partner planst. Nicht "wenn ich Zeit habe", sondern fest im Kalender. Das könnte sein: Jeden Freitag nach der Arbeit, oder jeden anderen Sonntag, oder eine Wochenend-Übernachtung alle 6 Wochen. Das macht es weniger wahrscheinlich, dass du deine Freundschaften vernachlässigst, weil du zu sehr in der romantischen Beziehung absorbed bist.
+
+**Offene Kommunikation mit deinem Partner:** Erkläre, warum dir deine Freundschaften wichtig sind — nicht als Ausrede, um weg zu sein, sondern als echte Erklärung. "Meine Freunde sind mein Netz. Sie kennen mich seit Jahren. Sie unterstützen mich. Das ist für mein Wohlbefinden wichtig." Ein Partner, der dich wirklich liebt, wird das verstehen und unterstützen.
+
+Aber: Wenn er eifersüchtig wird oder versucht, dich von deinen Freunden zu isolieren — "Warum verbringst du so viel Zeit mit ihnen?" oder "Ich mag diesen Freund nicht, also kannst du ihn nicht sehen" — das ist ein großes, leuchtendes Warnsignal. Das ist kontrollierendes Verhalten, und es ist eine der frühen Warnsignale von emotionalem Missbrauch.
 
 **Integriere deinen Partner:** Du musst nicht immer allein Zeit mit Freunden verbringen. Manchmal kannst du deinen Partner mitbringen und Freunde und Romantik zusammenbringen.
 

@@ -4,7 +4,7 @@ description: "Dating in Nürnberg: Franken-Romantik zwischen Kaiserburg, Altstad
 date: 2025-06-29
 image: "/images/photos/dating-nuernberg.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "dating-spots"
   - "nürnberg"
   - "franken"

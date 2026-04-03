@@ -26,7 +26,7 @@ Warum sagt er, dass er sich Sorgen um dich macht, aber er fragt nie nach? Warum 
 
 Die gute Nachricht: Es gibt Antworten. Männer sind nicht so mysteriös, wie es scheint. Sie funktionieren nur anders.
 
-In diesem umfassenden Ratgeber geben wir dir einen Blick in die männliche Psyche. Wir erforschen, wie Männer lieben, wie sie denken, warum sie so funktionieren, wie sie funktionieren, und vor allem: Wie du eine tiefere Verbindung mit dem Mann in deinem Leben aufbaust.
+Wir erforschen, wie Männer lieben, wie sie denken, warum sie so funktionieren, wie sie funktionieren, und vor allem: Wie du eine tiefere Verbindung mit dem Mann in deinem Leben aufbaust.
 
 ## Das grundlegende Unterschied: Wie Männer und Frauen anders sind
 

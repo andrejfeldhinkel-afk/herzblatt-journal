@@ -4,7 +4,7 @@ description: "Fernbeziehung Sprüche für dein Herz: Liebevolle, lustige und mot
 date: 2026-04-02
 tags:
   - "Fernbeziehung"
-  - "Liebe"
+  - "liebe"
   - "Sprüche"
   - "Beziehung"
 image: "/images/blog/fernbeziehung-sprueche-texte.webp"

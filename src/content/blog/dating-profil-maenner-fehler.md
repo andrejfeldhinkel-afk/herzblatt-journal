@@ -295,9 +295,7 @@ Das ist keine Wissenschaft. Das ist Optimierung.
 
 ## Der Abschluss
 
-Dein Dating-Profil ist deine erste Impression. In einer Welt, in der erste Impressionen in 0,5 Sekunden entschieden werden, musst du sie maximieren.
-
-Das bedeutet nicht, dass du perfekt sein musst. Es bedeutet, dass du authentisch sein musst – und strategisch authentisch.
+Dein Dating-Profil ist deine erste Impression. Das bedeutet nicht, dass du perfekt sein musst. Es bedeutet, dass du authentisch sein musst – und strategisch authentisch.
 
 Wenn du diese 10 Fehler vermeidest und dich auf echte, gute Fotos und eine ehrliche, interessante Bio konzentrierst, dann wirst du bessere Ergebnisse sehen.
 

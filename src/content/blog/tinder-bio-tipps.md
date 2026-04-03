@@ -1,5 +1,5 @@
 ---
-title: "Tinder Bio: Die perfekte Strategie + 20 Beispiel-Bios für"
+title: "Tinder Bio: Die perfekte Strategie + 20 Beispiel-Bios"
 description: "Tinder Bio — Die besten Strategien für Online-Dating: Vom Profil bis zum ersten Treffen. Praxiserprobte Tipps."
 keywords: ["tinder bio", "dating apps", "online dating", "tinder bio:", "bio: perfekte", "perfekte strategie"]
 tags:

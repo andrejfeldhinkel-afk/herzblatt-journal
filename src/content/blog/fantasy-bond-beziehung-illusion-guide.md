@@ -31,7 +31,7 @@ Aber wenn du ehrlich mit dir selbst bist: Die Person, in die du [Bindungsstil](/
 
 Die Beziehung zu dir selbst ist die erste Beziehung. Wenn du mit dir selbst real bist, wirst du auch in anderen Beziehungen real sein.
 
-### Die Werkzeuge zur Prävention
+## Die Werkzeuge zur Prävention
 
 Das erste Werkzeug ist die Realitätsprüfung. Das bedeutet, dass du regelmäßig mit dir selbst sitzt und fragst: Kenne ich diese Person wirklich? Oder erfinde ich sie? Schreib auf, was die Person GETAN hat. Nicht, was sie GESAGT hat. Nicht, was sie HÄTTE TUN KÖNNEN. Was sie GETAN hat.
 

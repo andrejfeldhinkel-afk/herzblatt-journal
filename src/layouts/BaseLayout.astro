@@ -17,6 +17,7 @@ interface Props {
   isArticle?: boolean;
   breadcrumbs?: { name: string; url: string }[];
   faq?: { question: string; answer: string }[];
+  noindex?: boolean;
 }
 
 const {
@@ -30,6 +31,7 @@ const {
   isArticle = false,
   breadcrumbs = [],
   faq = [],
+  noindex = false,
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
@@ -178,7 +180,10 @@ const faqSchema = faq.length > 0 ? {
   <link rel="canonical" href={canonicalURL} />
   <link rel="alternate" hreflang="de" href={canonicalURL} />
   <link rel="alternate" hreflang="x-default" href={canonicalURL} />
-  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+  {noindex
+    ? <meta name="robots" content="noindex, nofollow" />
+    : <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+  }
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="Herzblatt Journal RSS Feed" href="/rss.xml" />

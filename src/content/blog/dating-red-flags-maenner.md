@@ -19,7 +19,7 @@ Bevor wir die spezifischen Flaggen analysieren, ist es wichtig, zu verstehen, wa
 2. **Hoffnung**: Wir hoffen, dass sein Verhalten sich ändert.
 3. **[zusammenziehen](/blog/zusammenziehen-checkliste)? Er redet von Heiraten und Kindern? Dies könnte künstlerisches Lovebombing sein – eine Phase, in der er dich mit Aufmerksamkeit überschüttet, um dich zu binden, bevor du seine echte Natur siehst.
 
-### Flag 7: Er möchte schnell dein Geld oder deine Ressourcen
+## Flag 7: Er möchte schnell dein Geld oder deine Ressourcen
 
 Er bittet um Geld, möchte, dass du seine Rechnungen zahlst, oder erwartet, dass du alles zahlst. Das ist finanzielle Kontrolle oder Ausnutzung.
 

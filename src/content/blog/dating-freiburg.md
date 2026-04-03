@@ -4,7 +4,7 @@ description: "Dating in Freiburg: Die besten Plätze und Tipps. Natur, Stadt und
 date: 2025-05-13
 image: "/images/photos/dating-freiburg.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "freiburg"
   - "natur"
 ---

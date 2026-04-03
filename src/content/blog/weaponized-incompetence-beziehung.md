@@ -26,9 +26,7 @@ faq:
 
 ## Strategische Inkompetenz: Wenn dein Partner absichtlich unfähig ist
 
-Strategische Inkompetenz ist eines der subtilsten und destruktivsten Manipulationsmuster in Beziehungen – und doch wird es oft übersehen. Wenn dein Partner sagt, dass er nicht kochen kann, die Wäsche nicht waschen kann oder die Kinder nicht "richtig" betreuen kann, könnte dies mehr als nur mangelnde Fähigkeiten sein. Dies könnte weaponized incompetence sein – eine bewusste, absichtliche Strategie, um weniger Verantwortung zu tragen. In diesem umfassenden Artikel erforschen wir, was strategische Inkompetenz ist, wie du sie erkennst und vor allem, wie du damit umgehen kannst, um eine gesündere Beziehung zu schaffen.
-
-## Was ist strategische Inkompetenz oder Weaponized Incompetence?
+Strategische Inkompetenz ist eines der subtilsten und destruktivsten Manipulationsmuster in Beziehungen – und doch wird es oft übersehen. Wenn dein Partner sagt, dass er nicht kochen kann, die Wäsche nicht waschen kann oder die Kinder nicht "richtig" betreuen kann, könnte dies mehr als nur mangelnde Fähigkeiten sein. Dies könnte weaponized incompetence sein – eine bewusste, absichtliche Strategie, um weniger Verantwortung zu tragen. ## Was ist strategische Inkompetenz oder Weaponized Incompetence?
 
 Weaponized incompetence ist ein Manipulationstaktik, bei der eine Person vorgibt oder behauptet, etwas nicht zu können oder nicht zu wissen, um sich der Verantwortung zu entziehen. Es ist nicht echte Unfähigkeit – es ist eine bewusste Strategie. Der Partner hat oft die Fähigkeit, aber erklärt (oder handelt so, als würde er glauben), dass er es nicht kann.
 

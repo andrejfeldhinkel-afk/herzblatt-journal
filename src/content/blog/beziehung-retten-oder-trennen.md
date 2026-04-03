@@ -44,7 +44,7 @@ Wenn mehrere (besonders 3-4) dieser präsent sind, ist es ein starkes Zeichen, d
 
 Die gute Nachricht: Dies sind nicht permanent. Mit bewusster Anstrengung können Sie diese Muster brechen.
 
-### Die "Leere" vs. "Konflikt"
+## Die "Leere" vs. "Konflikt"
 
 Ein anderes Muster: Manche Beziehungen sterben durch Konflikte (laut, Kämpfe). Andere sterben durch Leere (stille, no engagement).
 

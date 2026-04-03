@@ -232,3 +232,9 @@ Aber wenn du diese Dinge hast, wenn dein Partner diese Dinge hat, wenn die Liebe
 Du wirst herausfinden, dass du stärker bist als du dachtest. Du wirst finden, dass echte Liebe wirklich grenzenlos ist. Und du wirst erkennen, dass das Leben mit jemandem, den du respektierst und bist stolz auf, unmöglich zu überbieten ist.
 
 Also ja, es ist schwierig. Aber es kann auch wirklich wunderschön sein.
+
+## Weiterlesen
+
+- [Beige Flags — Die langweiligen Warnsignale beim Dating](/blog/beige-flags-dating-guide)
+- [Den Partner den Freunden vorstellen: Wann und wie](/blog/beziehung-und-freunde-vorstellen)
+- [111 Date-Ideen für jede Situation und jedes Budget](/blog/date-ideen-komplett-sammlung)

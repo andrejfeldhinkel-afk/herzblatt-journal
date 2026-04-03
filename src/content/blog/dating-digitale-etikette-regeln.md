@@ -25,7 +25,7 @@ faq:
 
 ## Digitale Dating-Etikette: Die ungeschriebenen Regeln
 
-Wir leben in einer Welt, in der ein großer Teil des Dating digital stattfindet. Sie treffen jemanden, Sie tauschen Telefonnummern aus oder verbinden sich über Social Media, und dann beginnt das digitale Tänzchen. Es gibt ungeschriebene Regeln, die vielen nicht bewusst sind. In diesem Artikel erklären wir die digitale Dating-Etikette für das moderne Zeitalter.
+Wir leben Sie treffen jemanden, Sie tauschen Telefonnummern aus oder verbinden sich über Social Media, und dann beginnt das digitale Tänzchen. Es gibt ungeschriebene Regeln, die vielen nicht bewusst sind. In diesem Artikel erklären wir die digitale Dating-Etikette für das moderne Zeitalter.
 
 ## Das Texten 101: Die Grundlagen
 

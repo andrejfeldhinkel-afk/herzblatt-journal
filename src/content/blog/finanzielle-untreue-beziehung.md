@@ -213,3 +213,9 @@ Für viele Menschen: Nein.
 Und das ist okay.
 
 Deine finanzielle Sicherheit und dein Vertrauen sind nicht verhandelbar.
+
+## Weiterlesen
+
+- [Beziehung nach einer Affäre retten](/blog/beziehung-after-affaere-plan)
+- [Finanzplanung als Paar – Geld ist nicht die Größte Heraus...](/blog/beziehung-finanzplanung-paare)
+- [Beziehungs-Gesundheits-Check](/blog/beziehung-gesundheits-check)

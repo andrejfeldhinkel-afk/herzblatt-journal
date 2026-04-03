@@ -992,3 +992,9 @@ Das Wichtigste zum Mitnehmen aus diesem Artikel ist nicht die Angst vor Kosten �
 Beginne mit Rationalität, nicht mit Emotionen. Suche einen guten Anwalt. Verhandel frühzeitig mit deinem Partner. Und denk daran: Eine faire Scheidung kostet weniger als eine Rache-Scheidung.
 
 Du wirst das durchstehen. Finanziell, emotional, und letztendlich werden du stärker sein als zuvor.
+
+## Weiterlesen
+
+- [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide)
+- [Affäre beenden: So findest du den Ausweg](/blog/affaere-beenden-guide)
+- [Aktives Zuhören üben: Besser verstehen in 7 Schritten](/blog/aktives-zuhoeren-beziehung-ueben)

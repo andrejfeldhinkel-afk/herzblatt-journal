@@ -168,3 +168,9 @@ Die Liebe ist nicht das Problem. Der Betrug ist das Problem. Und jetzt weißt du
 ---
 
 *Wenn du online Dating beginnst, schau auch unseren Artikel über [Freundschaft mit dem Ex](./ex-partner-freundschaft-moeglich.md) oder wie du [eine Ehekrise überwindest](./ehekrise-erkennen-loesen.md) – echte, menschliche Verbindungen, die es wert sind.*
+
+## Weiterlesen
+
+- [Benching: Der fiese Dating-Trend](/blog/benching-dating-trend-erkennen)
+- [Benching beim Dating erkennen](/blog/benching-dating-wartebank-erkennen)
+- [Breadcrumbing erkennen: Wenn dein Date dich nur warmhält](/blog/breadcrumbing-erkennen)

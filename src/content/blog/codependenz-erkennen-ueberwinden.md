@@ -1,5 +1,5 @@
 ---
-title: "Codependenz erkennen und überwinden: Raus aus der"
+title: "Codependenz erkennen und überwinden"
 description: "Codependenz in der Beziehung erkennen und überwinden. Der ehrliche Guide über emotionale Abhängigkeit, ihre Wurzeln und den Weg in gesunde Beziehungen."
 date: 2025-04-10
 tags:

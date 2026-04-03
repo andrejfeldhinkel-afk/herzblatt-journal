@@ -1263,3 +1263,9 @@ Dein Zukunft wird dir danken.
 Du wirst jemanden finden, der würdig ist deiner Liebe.
 
 Aber zuerst, musst du dich selbst finden.
+
+## Weiterlesen
+
+- [Affäre: Warum es passiert & wie du damit umgehen kannst](/blog/affaere-komplett-guide)
+- [Anzeichen dass er mich liebt — 15+ Signale erkannt](/blog/anzeichen-dass-er-mich-liebt)
+- [Beziehungs-Gesundheits-Check](/blog/beziehung-gesundheits-check)

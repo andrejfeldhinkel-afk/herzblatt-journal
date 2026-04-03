@@ -5,8 +5,8 @@ date: 2026-04-02
 tags:
   - "Verlobung"
   - "Sprüche"
-  - "Glückwünsche"
-  - "Liebe"
+  - "glückwünsche"
+  - "liebe"
 image: "/images/blog/verlobung-sprueche-glueckwuensche.webp"
 imageAlt: "Verlobungsring und Glückwünsche zur Verlobung"
 keywords: ["verlobung sprüche", "glückwünsche verlobung", "verlobung gratulieren", "schöne sprüche verlobung"]

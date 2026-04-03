@@ -140,3 +140,9 @@ Schreib, was du wirklich meinst. Sag, was dir wichtig ist. Und vertrau darauf, d
 Und wenn du später, in Momenten von Streit oder Alltag, euer Versprechen wieder liest – dann wird es dich an das erinnern, worum es ging. Am Anfang. Am Kern.
 
 Das ist die echte Kraft eines guten Eheversprechens.
+
+## Weiterlesen
+
+- [Abendroutine als Paar: 12 Ideen für mehr Nähe vor dem Sch...](/blog/abendroutine-als-paar)
+- [Beziehung auf Augenhoehe](/blog/beziehung-auf-augenhoehe-guide)
+- [Beziehung auffrischen: 30 Ideen die sofort wirken](/blog/beziehung-auffrischen-30-ideen)

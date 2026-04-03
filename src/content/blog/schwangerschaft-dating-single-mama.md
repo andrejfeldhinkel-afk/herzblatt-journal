@@ -18,9 +18,7 @@ author: "sarah-kellner"
 
 ## Dating als schwangere Frau: Akzeptierung und Liebe
 
-Wie du daten kannst, wenn du schwanger bist. Tipps für werdende Mütter. In diesem Artikel werden wir tiefer in das Thema eintauchen und praktische Strategien erkunden.
-
-## Warum das Thema wichtig ist
+Wie du daten kannst, wenn du schwanger bist. Tipps für werdende Mütter. ## Warum das Thema wichtig ist
 
 dating als schwangere frau: akzeptierung und liebe ist relevant für viele Menschen, die sich in modernen Beziehungen bewegen oder neu ins Dating einsteigen.
 

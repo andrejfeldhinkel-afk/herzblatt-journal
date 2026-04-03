@@ -4,9 +4,9 @@ description: "Dating-Angst überwinden: Du bist nervös beim Dating? Lerne konkr
 date: 2025-04-28
 image: "/images/photos/dating-angst-ueberwinden.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "angst"
-  - "selbstbewusstsein"
+  - "Selbstbewusstsein"
 ---
 ## dating-Angst Überwinden: Mutig In Die Liebe
 

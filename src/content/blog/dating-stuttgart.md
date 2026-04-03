@@ -4,7 +4,7 @@ description: "Dating in Stuttgart: Technik, Wein, Musik und Kultur. Von der Wilh
 date: 2025-07-12
 image: "/images/photos/dating-stuttgart.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "dating-spots"
   - "stuttgart"
 ---

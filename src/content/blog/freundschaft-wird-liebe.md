@@ -4,7 +4,7 @@ description: "Freundschaft wird Liebe: Lerne, wie Gefühle in einer Freundschaft
 date: 2025-08-20
 image: "/images/photos/freundschaft-wird-liebe.webp"
 tags:
-  - "beziehung"
+  - "Beziehung"
   - "freundschaft"
   - "liebe"
 ---

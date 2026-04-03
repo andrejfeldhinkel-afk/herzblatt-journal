@@ -1141,3 +1141,9 @@ Eine Beziehung, in der Fremdgehen nicht aus Versehentlichkeit passiert, sondern 
 Und wenn es passiert (Gott sei Dank nicht), dann kannst du damit umgehen mit Wissen, nicht Verwirrung.
 
 Das ist der beste Ort, um zu sein.
+
+## Weiterlesen
+
+- [Affäre: Warum es passiert & wie du damit umgehen kannst](/blog/affaere-komplett-guide)
+- [Anzeichen dass er mich liebt — 15+ Signale erkannt](/blog/anzeichen-dass-er-mich-liebt)
+- [Beziehungs-Gesundheits-Check](/blog/beziehung-gesundheits-check)

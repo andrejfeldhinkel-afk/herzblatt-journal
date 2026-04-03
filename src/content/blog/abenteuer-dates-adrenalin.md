@@ -40,6 +40,8 @@ Neulich war ich mit Freunden reden, und eine hat gesagt: "Unser schönstes Date 
 
 Das ist der Unterschied. Routine schläfert ein. Abenteuer weckt auf.
 
+## Konkrete Abenteuer-Ideen für Paare
+
 ### Diese Abenteuer-Dates funktionieren wirklich
 
 Okay, jetzt zur praktischen Seite. Was sind denn konkrete Ideen, die du tatsächlich umsetzen kannst?
@@ -59,6 +61,8 @@ Okay, jetzt zur praktischen Seite. Was sind denn konkrete Ideen, die du tatsäch
 **Quad oder Motorrad fahren:** Wenn euer Budget es zulässt. Adrenalin pur, und hinterher habt ihr immer noch Schmetterlinge im Bauch.
 
 Das Ding ist: Es muss nicht teuer sein und auch nicht lebensbedrohlich. Es geht nur darum, dass es sich anders anfühlt als der alltag.
+
+## Die Wissenschaft dahinter: Adrenalin und Bindung
 
 ### Was passiert im Körper und in der Beziehung
 
@@ -100,6 +104,8 @@ Und dann: Überrasch ihn / sie auch mal. Mach einen Plan, sag aber nicht genau, 
 
 Das Unbekannte ist der Kick. Das Warten. Das "Was wird passieren?" Das ist das, was dein Gehirn wach hält.
 
+## Mit Angst und Widerständen umgehen
+
 ### Was wenn einer von euch Angst hat?
 
 Das ist eine gute Frage, und ich hasse Ratgeber, die so tun, als wäre das nicht real.
@@ -110,6 +116,8 @@ Oft sind es nicht die Abenteuer selbst, sondern dahintersteckende Ängste. Angst
 
 Und wenn dein Partner nicht mitziehen will? Akzeptier das auch mal. Manche Menschen sind einfach Typ "Ruhe und Gemütlichkeit", und das ist okay. Dann findet ihr vielleicht einen Mittelweg. Ein Abenteuer, das für beide passt.
 
+## Langzeiteffekte von gemeinsamen Abenteuern
+
 ### Die längerfristigen Effekte
 
 Hier ist was Cooles: Die Effekte von gemeinsamen Abenteuern halten nicht nur während des Dates an. Sie wirken nach.
@@ -118,6 +126,9 @@ Wenn dein Partner sieht, dass du mutig bist und dich traust, Sachen zu versuchen
 
 Außerdem: Gemeinsame Abenteuer geben euch was zum Erzählen. Das klingt simpel, aber es ist verdammt wichtig. Euer Beziehungs-Narrative wird reicher. Ihr habt keine ewig gleiche Geschichte, sondern ihr baut kontinuierlich neue Erinnerungen.
 
-Das ist auch der Grund, warum Langzeit[Saisonale Date-Ideen 2026: Frühling und Sommer genießen](/blog/saisonale-dates-fruehling-sommer)
-- [Bindungstypen verstehen 2026: Der komplette Guide](/blog/attachment-styles-guide)
+Das ist auch der Grund, warum Langzeit-Beziehungen von kontinuierlichen Abenteuern profitieren. Ohne Neuheit verfällt die Beziehung in Routine – und Routine lässt die emotionale Verbindung verblassen.
+
+## Praktische Tipps für die Planung
+
+### Wie ihr gemeinsam Abenteuer findet und plant
 

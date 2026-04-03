@@ -1,5 +1,5 @@
 ---
-title: "Fernbeziehung meistern: 25 Tipps für eine starke Liebe auf"
+title: "Fernbeziehung meistern: 25 Tipps für eine starke Liebe"
 description: "Fernbeziehung meistern: 25 praktische Tipps für Kommunikation, Intimität und Vertrauen. Liebe auf Distanz erfolgreich aufbauen."
 date: 2025-10-03
 image: "/images/photos/fernbeziehung-tipps.webp"

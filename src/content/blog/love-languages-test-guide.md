@@ -181,3 +181,9 @@ Das ist die Kraft von Liebessprachen. Sie übersetzen nicht die Liebe – sie of
 Du warst immer geliebt. Du hast nur gehört, dass die Sprache gesprochen wurde, die dein Herz nicht versteht.
 
 Lass uns das ändern.
+
+## Weiterlesen
+
+- [Aktives Zuhören üben: Besser verstehen in 7 Schritten](/blog/aktives-zuhoeren-beziehung-ueben)
+- [Beziehung nach einer Affäre retten](/blog/beziehung-after-affaere-plan)
+- [Beziehung mit großem Altersunterschied](/blog/beziehung-altersunterschied)

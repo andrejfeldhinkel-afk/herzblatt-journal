@@ -18,9 +18,7 @@ author: "sarah-kellner"
 
 ## Die 5 Phasen einer neuen Beziehung
 
-Wie neue Beziehungen sich entwickeln. Die verschiedenen Phasen verstehen. In diesem Artikel werden wir tiefer in das Thema eintauchen und praktische Strategien erkunden.
-
-## Warum das Thema wichtig ist
+Wie neue Beziehungen sich entwickeln. Die verschiedenen Phasen verstehen. ## Warum das Thema wichtig ist
 
 die 5 phasen einer neuen beziehung ist relevant für viele Menschen, die sich in modernen Beziehungen bewegen oder neu ins Dating einsteigen.
 

@@ -4,9 +4,9 @@ description: "Erstes Date Gespräche: Lerne, wie du fließend kommunizierst und 
 date: 2025-08-05
 image: "/images/photos/erstes-date-gespraeche-fuehren.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "erstes-date"
-  - "kommunikation"
+  - "Kommunikation"
 ---
 
 Das erste Date steht an. Du hast dich gefreut, dich vorbereitet – und dann sitzt ihr euch gegenüber und es herrscht plötzlich unbehagliches Schweigen. Dein Herz klopft. Du fragst dich: Was sag ich bloß?

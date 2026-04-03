@@ -24,9 +24,7 @@ faq:
 
 ## Beziehung und Schulden – Wenn Geldprobleme die Liebe belasten
 
-Geld ist eines der sensiblesten Themen in einer Beziehung. Und wenn plötzlich Schulden oder eine Insolvenz ins Spiel kommt, kann das gesamte Vertrauen ins Wanken geraten. Du fragst dich vielleicht: Kann meine Beziehung das überstehen? Wie sage ich meinem Partner, dass ich in Schulden stecke? Was tun wir jetzt? In diesem umfassenden Artikel schauen wir uns an, wie du mit finanziellen Krisen in deiner Beziehung umgehen kannst.
-
-## Die Realität: Geldprobleme sind ein häufiger Grund für Trennungen
+Geld ist eines der sensiblesten Themen in einer Beziehung. Und wenn plötzlich Schulden oder eine Insolvenz ins Spiel kommt, kann das gesamte Vertrauen ins Wanken geraten. Du fragst dich vielleicht: Kann meine Beziehung das überstehen? Wie sage ich meinem Partner, dass ich in Schulden stecke? Was tun wir jetzt? ## Die Realität: Geldprobleme sind ein häufiger Grund für Trennungen
 
 Statistiken zeigen, dass Geldprobleme einer der Hauptgründe für Trennungen sind. Nicht weil Liebe nicht existiert, sondern weil finanzielle Stress die Kommunikation erstickt und Vertrauen zerstört. Wenn du oder dein Partner mit Schulden kämpft, dann bist du nicht allein. Millionen von Menschen in Deutschland stecken in Schulden – und viele sind in Beziehungen.
 

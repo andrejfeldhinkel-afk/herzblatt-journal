@@ -26,9 +26,7 @@ faq:
 
 ## Heilung nach toxischer Beziehung: Der komplette Recovery-Guide
 
-Du sitzt hier und fragst dich, wie du wieder normal werden kannst. Die Narben einer toxischen Beziehung sind tief, und der Weg zur Heilung nach toxischer Beziehung fühlt sich unendlich lang an. Das ist völlig verständlich. Die gute Nachricht: Tausende Menschen haben diesen Weg bereits erfolgreich gegangen, und du kannst das auch schaffen. In diesem umfassenden Recovery-Guide zeigen wir dir, wie du dich von einer toxischen Beziehung befreist, dein Vertrauen wiederherstellst und wieder glücklich wirst.
-
-Die Heilung nach einer toxischen Beziehung ist kein linearer Prozess. Es gibt Tage, an denen du dich stark fühlst, und Tage, an denen die Trauer dich überwältigt. Genau das ist normal. Dieser Guide wird dir konkrete, praktische Schritte geben, um deine emotionale Heilung zu unterstützen und langfristig wieder ein erfülltes Leben zu führen.
+Du sitzt hier und fragst dich, wie du wieder normal werden kannst. Die Narben einer toxischen Beziehung sind tief, und der Weg zur Heilung nach toxischer Beziehung fühlt sich unendlich lang an. Das ist völlig verständlich. Die gute Nachricht: Tausende Menschen haben diesen Weg bereits erfolgreich gegangen, und du kannst das auch schaffen. Die Heilung nach einer toxischen Beziehung ist kein linearer Prozess. Es gibt Tage, an denen du dich stark fühlst, und Tage, an denen die Trauer dich überwältigt. Genau das ist normal. Dieser Guide wird dir konkrete, praktische Schritte geben, um deine emotionale Heilung zu unterstützen und langfristig wieder ein erfülltes Leben zu führen.
 
 ## Phase 1: Die unmittelbare Trennung und erste Schritte
 

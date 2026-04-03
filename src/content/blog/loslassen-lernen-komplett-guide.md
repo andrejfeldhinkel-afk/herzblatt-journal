@@ -834,3 +834,9 @@ Das ist die Wahrheit.
 Das ist möglich für dich.
 
 Glaub daran.
+
+## Weiterlesen
+
+- [Alleine glücklich sein: Wie du lernst, dich selbst zu gen...](/blog/alleine-gluecklich-sein)
+- [Bindungsstil ändern: Wie du von unsicher zu sicher wirst](/blog/attachment-style-aendern-sicher-werden)
+- [Bindungsstile heilen: Von unsicher zu sicher](/blog/attachment-styles-heilen-guide)

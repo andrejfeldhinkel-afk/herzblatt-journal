@@ -156,3 +156,9 @@ Das ist das Geheimnis. Das ist, warum die meisten Beziehungsberater bei Hausarbe
 Also: Sprich mit deinem Partner. Schreib auf, was getan werden muss. Teilt es fair auf. Und dann: Lass los. Vertrau darauf, dass dein Partner seine Hälfte macht – vielleicht anders als du, aber das ist okay.
 
 Das ist echte Partnerschaft.
+
+## Weiterlesen
+
+- [Aktives Zuhören üben: Besser verstehen in 7 Schritten](/blog/aktives-zuhoeren-beziehung-ueben)
+- [Beziehung nach einer Affäre retten](/blog/beziehung-after-affaere-plan)
+- [Beziehung mit großem Altersunterschied](/blog/beziehung-altersunterschied)

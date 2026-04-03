@@ -4,8 +4,8 @@ description: "Eifersucht bekämpfen: 10 wirksame Strategien. Verstehe deine Unsi
 date: 2025-07-19
 image: "/images/photos/eifersucht-bekaempfen.webp"
 tags:
-  - "beziehung"
-  - "eifersucht"
+  - "Beziehung"
+  - "Eifersucht"
   - "emotionale-intelligenz"
 ---
 

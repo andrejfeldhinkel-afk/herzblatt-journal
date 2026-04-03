@@ -27,9 +27,7 @@ faq:
 
 ## Beziehung und Depression: Wenn die Seele die Liebe belastet
 
-Depression in einer Beziehung ist wie ein unsichtbarer dritter Partner. Sie sitzt nicht zwischen euch auf dem Sofa, aber ihre Präsenz ist überall – in den unvollendeten Gesprächen, in den Momenten, in denen du nicht genau weiß, wie du reagieren sollst, in der stille Angst, dass du nicht genug tust. Die Wahrheit ist, dass Beziehung und Depression zusammenzuleben schwierig ist, aber nicht unmöglich. In diesem umfassenden Guide werde ich dir zeigen, wie du eine liebevolle Beziehung führst, wenn psychische Erkrankungen im Spiel sind.
-
-Zunächst, lass mich etwas klar machen: Eine Beziehung mit jemandem, der depressiv ist, ist nicht ein verlorener Kampf. Mit Verständnis, Kommunikation und professioneller Unterstützung können Paare nicht nur durchkommen, sondern wirklich gedeihen. Es ist nicht leicht, aber es ist möglich. Und oft sind die Beziehungen, die diese Schwierigkeiten überwinden, die tiefsten und sinnvollsten.
+Depression in einer Beziehung ist wie ein unsichtbarer dritter Partner. Sie sitzt nicht zwischen euch auf dem Sofa, aber ihre Präsenz ist überall – in den unvollendeten Gesprächen, in den Momenten, in denen du nicht genau weiß, wie du reagieren sollst, in der stille Angst, dass du nicht genug tust. Die Wahrheit ist, dass Beziehung und Depression zusammenzuleben schwierig ist, aber nicht unmöglich. Zunächst, lass mich etwas klar machen: Eine Beziehung mit jemandem, der depressiv ist, ist nicht ein verlorener Kampf. Mit Verständnis, Kommunikation und professioneller Unterstützung können Paare nicht nur durchkommen, sondern wirklich gedeihen. Es ist nicht leicht, aber es ist möglich. Und oft sind die Beziehungen, die diese Schwierigkeiten überwinden, die tiefsten und sinnvollsten.
 
 ## Depression verstehen: Das unsichtbare Monster
 

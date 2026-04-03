@@ -27,9 +27,7 @@ faq:
 
 ## Co-Abhängigkeit in Beziehungen: Erkennen und überwinden
 
-Du fragst Dich, warum Du Deine eigenen Bedürfnisse ständig zurückstellst? Warum Du Dich unwohl fühlst, wenn Dein Partner nicht glücklich ist, obwohl das nicht Deine Verantwortung ist? Du bist nicht allein. Co-Abhängigkeit ist ein weit verbreitetes Muster, das Millionen von Menschen in ihren Beziehungen unbewusst erleben. In diesem umfassenden Guide lernst Du, dieses destruktive Muster zu erkennen, seine Wurzeln zu verstehen und konkrete Schritte zur Überwindung zu gehen.
-
-Co-Abhängigkeit ist nicht einfach eine "zu liebevolle" oder "zu sorgfältige" Partnerin zu sein. Es ist ein tiefes psychologisches Muster, das sich in Deiner Kindheit gebildet hat und nun Dein Beziehungsleben dominiert. Die gute Nachricht: Du kannst es erkennen, verstehen und ändern.
+Du fragst Dich, warum Du Deine eigenen Bedürfnisse ständig zurückstellst? Warum Du Dich unwohl fühlst, wenn Dein Partner nicht glücklich ist, obwohl das nicht Deine Verantwortung ist? Du bist nicht allein. Co-Abhängigkeit ist ein weit verbreitetes Muster, das Millionen von Menschen in ihren Beziehungen unbewusst erleben. Co-Abhängigkeit ist nicht einfach eine "zu liebevolle" oder "zu sorgfältige" Partnerin zu sein. Es ist ein tiefes psychologisches Muster, das sich in Deiner Kindheit gebildet hat und nun Dein Beziehungsleben dominiert. Die gute Nachricht: Du kannst es erkennen, verstehen und ändern.
 
 ## Was ist Co-Abhängigkeit wirklich?
 

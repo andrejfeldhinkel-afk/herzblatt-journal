@@ -22,7 +22,7 @@ Manchmal haben Eltern recht. Wirklich. Sie kennen dich dein ganzes Leben lang, s
 
 Das ist schwer zu hören, wenn du [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist. Verliebte sind blind, das ist einfach so. Du siehst nur die guten Seiten. Deine Eltern sehen den Gesamtbild. Wenn mehrere Menschen in deinem Leben — nicht nur deine Eltern, sondern auch beste Freunde, Geschwister — Bedenken äußern, lohnt sich ehrliche Selbstreflexion. Nicht "die verstehen uns nicht", sondern "gibt es etwas, das ich nicht sehen will?"
 
-### Sie haben Vorurteile
+## Sie haben Vorurteile
 
 Manchmal sind es aber auch nur Vorurteile. Dein Partner ist aus einer anderen Kultur, einer anderen Schicht, hat einen anderen Glauben, ein anderes Aussehen. Oder er oder sie hat einen Job, den deine Eltern für nicht gut genug halten. Oder verdient weniger. Oder hat Tattoos.
 

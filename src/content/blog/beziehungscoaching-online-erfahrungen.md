@@ -219,3 +219,9 @@ Nicht mehr als das: Gib dem Coaching Zeit, aber nicht dein ganzes Budget und dei
 Ein Coach kann nicht eure Liebe heilen. Das könnt nur ihr. Aber ein guter Coach gibt euch die Werkzeuge, um zu sehen: "Aha, das ist, warum wir so streiten. Das ist, wie ich anders reagieren kann. Das ist, wie ich hören kann statt zu defensiv zu sein."
 
 Das ist nicht wenig. Das kann alles verändern.
+
+## Weiterlesen
+
+- [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide)
+- [Affäre beenden: So findest du den Ausweg](/blog/affaere-beenden-guide)
+- [Aktives Zuhören üben: Besser verstehen in 7 Schritten](/blog/aktives-zuhoeren-beziehung-ueben)

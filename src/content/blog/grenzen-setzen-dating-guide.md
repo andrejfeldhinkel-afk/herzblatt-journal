@@ -1,5 +1,5 @@
 ---
-title: "Grenzen setzen beim Dating: So schützt du dich von Anfang an"
+title: "Grenzen setzen beim Dating: So schützt du dich von Anfang"
 description: "Lerne, wie du beim Dating Grenzen setzt: Deine Bedürfnisse kommunizieren, Manipulation erkennen & gesunde Beziehungen aufbauen"
 date: 2026-04-01
 image: "/images/blog/grenzen-setzen-dating-guide.webp"

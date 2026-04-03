@@ -4,7 +4,7 @@ description: "Wie du Liebe manifestierst: Vision Board, Affirmationen, innere Bl
 date: 2025-09-24
 image: "/images/photos/liebe-manifest-methoden.webp"
 tags:
-  - "Liebe"
+  - "liebe"
   - "Manifestieren"
   - "Selbstentwicklung"
   - "Ratgeber"

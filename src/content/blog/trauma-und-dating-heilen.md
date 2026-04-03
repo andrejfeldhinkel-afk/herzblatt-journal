@@ -18,9 +18,7 @@ author: "sarah-kellner"
 
 ## Trauma und Dating: Mit Vergangenheit daten
 
-Wie du Traumata verarbeitest und bereit wirst, wieder zu daten und zu lieben. In diesem Artikel werden wir tiefer in das Thema eintauchen und praktische Strategien erkunden.
-
-## Warum das Thema wichtig ist
+Wie du Traumata verarbeitest und bereit wirst, wieder zu daten und zu lieben. ## Warum das Thema wichtig ist
 
 trauma und dating: mit vergangenheit daten ist relevant für viele Menschen, die sich in modernen Beziehungen bewegen oder neu ins Dating einsteigen.
 

@@ -1,5 +1,5 @@
 ---
-title: "50 kreative Date-Ideen: So wird euer erstes Treffen von der"
+title: "50 kreative Date-Ideen: So wird euer erstes Treffen"
 description: "50 kreative Date-Ideen für das erste Treffen von der Dating-App: Von Budget-Dates bis Abenteuer — für jede Jahreszeit und jeden Geschmack."
 date: 2025-11-15
 tags:

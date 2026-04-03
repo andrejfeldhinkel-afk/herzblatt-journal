@@ -208,3 +208,9 @@ Manchmal ist das nicht-bleiben ein Akt der Liebe.
 ---
 
 *Du möchtest mehr über Heilung nach einer Trennung lernen? Schau auch unseren Artikel über [Ehekrise erkennen](./ehekrise-erkennen-loesen.md) oder [ethische Nicht-Monogamie](./ethical-non-monogamy-guide.md).*
+
+## Weiterlesen
+
+- [Ängstlicher Bindungsstil heilen: Schritt für Schritt](/blog/aengstlicher-bindungsstil-heilen)
+- [Anxious-Avoidant Healing: Wie ängstliche und vermeidende](/blog/anxious-avoidant-healing-guide)
+- [Bindungsstil ändern: Wie du von unsicher zu sicher wirst](/blog/attachment-style-aendern-sicher-werden)

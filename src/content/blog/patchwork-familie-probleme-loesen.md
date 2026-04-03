@@ -200,3 +200,9 @@ Wenn ihr die Arbeit leistet, wenn ihr die Geduld habt, wenn ihr mit Liebe näher
 Manchmal noch stärker.
 
 Du schaffst das. Es braucht nur Zeit.
+
+## Weiterlesen
+
+- [Patchwork Familie: Guide für erfolgreiche Blended Families](/blog/patchwork-familie-guide)
+- [Abendroutine als Paar: 12 Ideen für mehr Nähe vor dem Sch...](/blog/abendroutine-als-paar)
+- [Abenteuer-Dates: Adrenalin stärkt die Bindung](/blog/abenteuer-dates-adrenalin)

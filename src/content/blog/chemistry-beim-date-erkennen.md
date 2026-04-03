@@ -1,5 +1,5 @@
 ---
-title: "Chemistry beim Date: Woran du echte Anziehung erkennst und"
+title: "Chemistry beim Date: Woran du echte Anziehung erkennst"
 description: "Chemistry beim Date erkennen und richtig einordnen. Lerne den Unterschied zwischen echter Anziehung und reiner Nervosität."
 date: 2025-04-08
 tags:

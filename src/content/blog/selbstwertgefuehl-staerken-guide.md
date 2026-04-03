@@ -211,3 +211,8 @@ Nach drei Monaten: Dein Leben hat sich verändert.
 
 Du schätzt dich selbst. Das ändert alles.
 
+## Weiterlesen
+
+- [Abenteuer-Dates: Adrenalin stärkt die Bindung](/blog/abenteuer-dates-adrenalin)
+- [Emotionale Abhängigkeit vom Partner lösen](/blog/abhaengigkeit-vom-partner-loesen)
+- [Alleine glücklich sein: Wie du lernst, dich selbst zu gen...](/blog/alleine-gluecklich-sein)

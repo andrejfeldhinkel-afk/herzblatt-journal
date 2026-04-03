@@ -4,7 +4,7 @@ description: "Dating ab 40: Warum die beste Zeit erst kommt. Mit Erfahrung, Selb
 date: 2025-04-17
 image: "/images/photos/dating-ab-40.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "liebe"
   - "40plus"
 ---

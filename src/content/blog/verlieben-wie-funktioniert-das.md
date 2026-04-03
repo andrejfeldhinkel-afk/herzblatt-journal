@@ -5,7 +5,7 @@ date: 2025-12-06
 image: "/images/photos/verlieben-wie-funktioniert-das.webp"
 tags:
   - "Psychologie"
-  - "Liebe"
+  - "liebe"
   - "Verlieben"
   - "Wissenschaft"
 ---

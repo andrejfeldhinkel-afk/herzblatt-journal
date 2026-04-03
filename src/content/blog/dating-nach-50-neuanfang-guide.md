@@ -1,5 +1,5 @@
 ---
-title: "'Dating über 50: Der komplette Guide für einen"
+title: "'Dating über 50: Der komplette Guide"
 description: "Entdecke praktische Strategien für Dating nach 50. Sicherheit, Online-Plattformen, Selbstvertrauen — dein Guide für die Liebe im reiferen Alter."
 date: 2026-03-16
 tags: ["Beziehung", "Dating", "Lebensphasen", "Neuanfang"]

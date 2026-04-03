@@ -27,9 +27,7 @@ faq:
 
 ## Beziehung und Kinderwunsch: Wenn einer will und der andere nicht
 
-Es ist einer der größten Konflikte in modernen Beziehungen: Du möchtest Kinder, aber dein Partner nicht. Oder umgekehrt – dein Partner träumt von Vaterschaft, während du dich nicht sicher bist, ob du Mutter sein möchtest. Der **unterschiedliche Kinderwunsch** ist ein Thema, das viele Paare spaltet und zu schwerwiegenden Beziehungskrisen führt. Doch es ist auch ein Thema, das mit offener Kommunikation, gegenseitigem Verständnis und echtem Engagement gelöst werden kann. In diesem umfassenden Guide erfährst du, wie du mit einem **Partner, der kein Kind will**, umgehen kannst, wie du tiefe Gespräche führst und wie ihr zusammen eine Lösung findet, die für euch beide funktioniert.
-
-## Warum der Kinderwunsch so wichtig ist
+Es ist einer der größten Konflikte in modernen Beziehungen: Du möchtest Kinder, aber dein Partner nicht. Oder umgekehrt – dein Partner träumt von Vaterschaft, während du dich nicht sicher bist, ob du Mutter sein möchtest. Der **unterschiedliche Kinderwunsch** ist ein Thema, das viele Paare spaltet und zu schwerwiegenden Beziehungskrisen führt. Doch es ist auch ein Thema, das mit offener Kommunikation, gegenseitigem Verständnis und echtem Engagement gelöst werden kann. ## Warum der Kinderwunsch so wichtig ist
 
 Der Kinderwunsch ist nicht einfach nur eine persönliche Präferenz – es ist eine der fundamentalsten Entscheidungen eines menschlichen Lebens. Die Frage, ob man Kinder bekommen möchte oder nicht, beeinflusst nicht nur die unmittelbare Zukunft, sondern die gesamte Lebensausrichtung, die Karriereziele, die finanzielle Planung und die persönliche Identität.
 
@@ -210,7 +208,7 @@ Diese Optionen können funktionieren, wenn:
 - Die Alternative den Bedarf wirklich erfüllt
 - Es genug gegenseitige Liebe gibt, um durch Challenges zu gehen
 
-Aber es ist wichtig zu beachten, dass Adoption ihre eigenen komplexen Herausforderungen hat und nicht nur ein "Kompromiss" ist, der alle zufriedenstellt.
+Aber Adoption ihre eigenen komplexen Herausforderungen hat und nicht nur ein "Kompromiss" ist, der alle zufriedenstellt.
 
 ### Option 4: Die [Trennung](/blog/trennung-verarbeiten-12-schritte)
 

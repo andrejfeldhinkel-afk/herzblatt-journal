@@ -18,9 +18,9 @@ faq:
 
 ---
 
-## Was die Pandemie am Dating dauerhaft verändert hat
+## Was die Pandemie am Dating dauerhaft verändert hat — Zum Guten und zum Schlechten
 
-Corona ist vorbei — oder zumindest sind wir nicht mehr im Ausnahmezustand. Aber die Art, wie wir daten, hat sich nachhaltig gewandelt. Manche Veränderungen sind positiv, andere problematisch. Ein ehrlicher Blick auf das, was geblieben ist und was es für dein Dating-Leben bedeutet.
+Corona ist vorbei — oder zumindest sind wir nicht mehr im existenziellen Ausnahmezustand. Die meisten von uns sind geimpft. Die meisten Länder haben ihre Beschränkungen aufgehoben. Das Leben ging "zurück zur Normalität". Aber die Art, wie wir daten, wie wir Menschen treffen, wie wir Liebe suchen — das hat sich nachhaltig gewandelt. Manche Veränderungen sind positiv und bleiben. Andere sind problematisch und haben neue Probleme geschaffen. Ein ehrlicher, unbeschönigter Blick auf das, was dauerhaft geblieben ist und was es für dein Dating-Leben in 2026 bedeutet.
 
 ## Videocalls als Vorfilter: Der neue Standard
 
@@ -52,11 +52,12 @@ Das macht vieles einfacher — und spart beiden Seiten Frust. Du verlierst nicht
 
 Auch über mentale Gesundheit wird offener geredet. Depression, Angststörung, Therapie — das sind nicht mehr geheime Makel, über die man nicht spricht. Das bedeutet: Du weißt früher, mit wem du es zu tun hast.
 
-## Die Schattenseite: Dating-App-Müdigkeit ist real
+## Die Schattenseite: Dating-App-Müdigkeit ist real und grassiert
 
-Gleichzeitig sind viele erschöpft. Wer während Corona monatelang geswiped hat, ohne sich treffen zu können, hat oft die Lust verloren. Das ist kein Gefühl, das ist Burnout.
+Gleichzeitig sind viele exhausted. Absolut erschöpft. Wer während Corona monatelang geswiped hat, ohne sich treffen zu können, hat oft nicht nur die Lust verloren — sie ist in Gleichgültigkeit oder Verachtung umgeschlagen. Das ist kein oberflächliches "Ich bin müde vom Swipen." Das ist Burnout. Das ist psychologische Erschöpfung.
 
-Dating-App-Müdigkeit betrifft laut aktuellen Umfragen über 70 Prozent der aktiven Nutzer. Die Apps sind zu voll, die Matches sind zu oberflächlich, die Enttäuschungen zu häufig. Viele Singles deaktivieren ihre Profile und sagen: "Ich date nie wieder auf den Apps."
+Dating-App-Müdigkeit betrifft laut aktuellen Umfragen über 70 Prozent der aktiven Nutzer. Das ist nicht eine kleine Gruppe. Das ist eine Mehrheit. Die Apps sind zu voll mit Nutzern, die nicht interessiert sind. Die Matches sind oberflächlich. Die Enttäuschungen sind häufig. Viele Singles geben auf. Sie deaktivieren ihre Profile und sagen: "Ich date nie wieder auf den Apps. Das ist zu anstrengend, zu seelenzerstörend."
 
-Was dagegen hilft: Pausen einlegen. Apps löschen, zwei Wochen lang nur offline leben, dann frisch starten. Oder ganz bewusst auf Offline-[Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
-- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
+Das ist ein großes Problem für die Dating-App-Industrie und ein reales Zeichen, dass die Apps, wie sie aktuell funktionieren, nicht nachhaltig sind.
+
+Was dagegen hilft: Echte Pausen einlegen. Apps nicht nur stummschalten, sondern wirklich löschen. Zwei Wochen lang nur offline leben. Keine Screens, kein Swiping, keine Erwartungen. Wenn du nach zwei Wochen zurückkommst — und nur wenn du willst — komm mit niedrigeren Erwartungen zurück. Oder ganz bewusst auf [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst) umsteigen und [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung) erforschen.

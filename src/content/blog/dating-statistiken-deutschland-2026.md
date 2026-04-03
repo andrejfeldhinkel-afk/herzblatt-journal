@@ -1,5 +1,5 @@
 ---
-title: "Dating in Deutschland 2026 — Zahlen, Fakten und"
+title: "Dating in Deutschland 2026 — Zahlen, Fakten"
 description: "Dating Statistiken Deutschland 2026: Wie viele Singles? Wer nutzt Dating-Apps? Trends und überraschende Daten über Online-Dating in Deutschland."
 date: 2026-03-16
 tags: ["Dating"]

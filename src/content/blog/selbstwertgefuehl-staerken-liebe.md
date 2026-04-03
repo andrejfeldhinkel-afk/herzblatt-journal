@@ -4,7 +4,7 @@ description: "Dein Selbstwert bestimmt deine Beziehungen. Lerne, wie du ihn aufb
 date: 2025-11-01
 image: "/images/photos/selbstwertgefuehl-staerken-liebe.webp"
 tags:
-  - "Selbstwert"
+  - "selbstwert"
   - "Psychologie"
   - "Beziehungstipps"
   - "Persönlichkeitsentwicklung"

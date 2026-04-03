@@ -3,7 +3,7 @@ title: "Liebe auf den ersten Blick: Mythos oder Realität"
 description: "Liebe auf den ersten Blick: Wissenschaftliche Perspektive auf echte Liebe. Entdecke, wie echte Liebe tatsächlich beginnt!"
 date: 2025-11-18
 tags:
-  - "Liebe"
+  - "liebe"
   - "Psychologie"
   - "Dating"
   - "Beziehung"

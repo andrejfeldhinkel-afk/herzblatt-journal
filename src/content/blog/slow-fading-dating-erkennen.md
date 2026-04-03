@@ -167,3 +167,9 @@ Fertig. Du gehst mit Würde. Und das ist eine Lebenslektion, die du für immer b
 Die richtige Person wird dich nicht fairen lassen. Sie wird kämpfen. Sie wird präsent sein. Sie wird klare Absichten zeigen.
 
 Warte auf diese Person. Nicht auf Slow Fader.
+
+## Weiterlesen
+
+- [Breadcrumbing erkennen: Hingehalten werden beim Dating](/blog/breadcrumbing-dating-erkennen)
+- [Dark Triad im Dating: Narzissmus, Machiavellismus und Psy...](/blog/dark-triad-dating-warnsignale-guide)
+- [20 Green Flags: Zeichen dass er/sie der Richtige ist](/blog/dating-green-flags-guide)

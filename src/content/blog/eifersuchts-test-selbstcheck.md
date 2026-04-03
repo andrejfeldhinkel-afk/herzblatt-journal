@@ -151,3 +151,9 @@ Die beste Beziehung funktioniert so: Du vertraust ihm. Er vertraut dir. Ihr seid
 Das ist auch erreichbar für dich. Aber nur, wenn du bereit bist, an dir zu arbeiten – nicht an ihm.
 
 Bist du bereit?
+
+## Weiterlesen
+
+- [Abenteuer-Dates: Adrenalin stärkt die Bindung](/blog/abenteuer-dates-adrenalin)
+- [Emotionale Abhängigkeit vom Partner lösen](/blog/abhaengigkeit-vom-partner-loesen)
+- [Angst vor Intimität überwinden – Nähe zulassen lernen](/blog/angst-vor-intimaet-ueberwinden)

@@ -4,9 +4,9 @@ description: "Liebe finden mit 30: Dein bestes Jahrzehnt. Warum deine 30er ideal
 date: 2025-09-21
 image: "/images/photos/liebe-finden-mit-30.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "liebe"
-  - "beziehung"
+  - "Beziehung"
 ---
 
 Du bist 30 oder kommst in dieses Alter. Es ist nicht mehr dein wildes Partyjahrzehnt – aber vielleicht fragst du dich auch: Bin ich zu alt, um noch die große Liebe zu finden?

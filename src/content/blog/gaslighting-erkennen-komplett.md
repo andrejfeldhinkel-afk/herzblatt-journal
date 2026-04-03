@@ -229,7 +229,7 @@ Die Auswirkungen von Gaslighting können jahrelang andauern. Du könntest Vertra
 
 ## Die wichtigsten Erkenntnisse und Aktionsschritte
 
-Zusammenfassend lässt sich sagen, dass Gaslighting eine destruktive Form der Manipulation ist, die dein Vertrauen in dich selbst untergräbt. Es ist wichtig, die 15 Zeichen zu erkennen. Es ist wichtig, Grenzen zu setzen und dich selbst zu schützen. Es ist wichtig, professionelle Hilfe zu suchen. Und es ist wichtig zu verstehen, dass Heilung möglich ist. Wenn du erkennst, dass du gaslight wirst, nimm dich selbst ernst. Deine Wahrnehmung ist real. Dein Schmerz ist real. Du verdienst echte Liebe und Respekt. Mit Selbstschutz, Unterstützung und Zeit wirst du heilen und wieder zu dem werden, wer du wirklich bist.
+Gaslighting eine destruktive Form der Manipulation ist, die dein Vertrauen in dich selbst untergräbt. Es ist wichtig, die 15 Zeichen zu erkennen. Es ist wichtig, Grenzen zu setzen und dich selbst zu schützen. Es ist wichtig, professionelle Hilfe zu suchen. Und es ist wichtig zu verstehen, dass Heilung möglich ist. Wenn du erkennst, dass du gaslight wirst, nimm dich selbst ernst. Deine Wahrnehmung ist real. Dein Schmerz ist real. Du verdienst echte Liebe und Respekt. Mit Selbstschutz, Unterstützung und Zeit wirst du heilen und wieder zu dem werden, wer du wirklich bist.
 
 ## Der Übergang von Opfer zu Überlebender zu Stärke
 

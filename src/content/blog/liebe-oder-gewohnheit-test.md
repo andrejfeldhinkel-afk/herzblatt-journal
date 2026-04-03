@@ -5,7 +5,7 @@ date: 2025-09-28
 image: "/images/photos/liebe-oder-gewohnheit-test.webp"
 tags:
   - "Beziehung"
-  - "Liebe"
+  - "liebe"
   - "Selbstreflexion"
   - "Ratgeber"
 ---

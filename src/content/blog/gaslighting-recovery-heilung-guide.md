@@ -237,3 +237,9 @@ Also heile. Langsam. Mit Geduld. Mit Unterstützung. Mit professioneller Hilfe.
 Du verdienst ein Leben, wo deine Realität real ist. Wo deine Gefühle legitim sind. Wo dein Vertrauen in dich selbst unerschütterlich ist.
 
 Das wirst du haben.
+
+## Weiterlesen
+
+- [Betrayal Trauma: Wenn der Vertrauensbruch dein Vertrauen ...](/blog/betrayal-trauma-vertrauensbruch-guide)
+- [Ängstlicher Bindungsstil heilen: Schritt für Schritt](/blog/aengstlicher-bindungsstil-heilen)
+- [Alleine glücklich sein: Wie du lernst, dich selbst zu gen...](/blog/alleine-gluecklich-sein)

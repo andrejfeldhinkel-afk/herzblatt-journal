@@ -196,3 +196,8 @@ Auf lange Sicht wird das viel wichtiger sein als die 5.000 Euro, die du in einer
 
 Sei fair. Sei reif. Und bewegt euch beide weiter.
 
+## Weiterlesen
+
+- [Gemeinsamer Hund nach Trennung: Wer bekommt ihn?](/blog/beziehung-gemeinsamer-hund-trennung)
+- [Beziehung nach gemeinsamer Firma: Trennung im Business](/blog/beziehung-nach-gemeinsamer-firma)
+- [Beziehung nach gemeinsamer Trennung](/blog/beziehung-nach-gemeinsamer-trennung)

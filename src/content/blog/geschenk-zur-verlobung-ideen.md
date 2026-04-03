@@ -4,7 +4,7 @@ description: "Verlobungsgeschenke Ideen: Vom klassischen Schmuck bis zu modernen
 date: 2026-04-02
 tags:
   - "Verlobung"
-  - "Geschenke"
+  - "geschenke"
   - "Ideen"
   - "Hochzeit"
 image: "/images/blog/geschenk-zur-verlobung-ideen.webp"

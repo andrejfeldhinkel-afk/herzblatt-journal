@@ -27,7 +27,7 @@ faq:
 
 ## Polyamorie vs. Monogamie: Welches Beziehungsmodell passt zu dir?
 
-Die Frage, ob Polyamorie oder Monogamie das richtige Beziehungsmodell ist, beschäftigt immer mehr Menschen. Während Monogamie seit Jahrhunderten die gesellschaftliche Norm darstellt, gewinnt Polyamorie in modernen Gesellschaften zunehmend an Aufmerksamkeit. Doch welches Modell passt wirklich zu dir? In diesem umfassenden Guide untersuchen wir beide Beziehungskonzepte, ihre Vorteile, Herausforderungen und wie du herausfindest, welcher Ansatz zu deinen Werten und Bedürfnissen passt. Polyamorie und Monogamie sind nicht einfach gegensätzliche Konzepte – sie spiegeln unterschiedliche Philosophien wider, wie Menschen Liebe, Intimität und Verbundenheit erleben möchten.
+Die Frage, ob Polyamorie oder Monogamie das richtige Beziehungsmodell ist, beschäftigt immer mehr Menschen. Während Monogamie seit Jahrhunderten die gesellschaftliche Norm darstellt, gewinnt Polyamorie in modernen Gesellschaften zunehmend an Aufmerksamkeit. Doch welches Modell passt wirklich zu dir? Polyamorie und Monogamie sind nicht einfach gegensätzliche Konzepte – sie spiegeln unterschiedliche Philosophien wider, wie Menschen Liebe, Intimität und Verbundenheit erleben möchten.
 
 ## Was ist Monogamie: Definition und Geschichte
 

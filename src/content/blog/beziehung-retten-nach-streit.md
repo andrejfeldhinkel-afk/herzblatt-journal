@@ -18,7 +18,7 @@ Aber wie ihr mit Konflikten umgeht, bestimmt, ob eure [Gaslighting](/blog/gaslig
 
 Dies sind nicht normale Streitigkeiten. Dies sind rote Flaggen.
 
-### Die Häufigkeit ist auch wichtig
+## Die Häufigkeit ist auch wichtig
 
 Ein großer Streit im Jahr ist normal. Große Streits mehrmals pro Woche bedeutet, dass etwas Strukturelles kaputt ist.
 

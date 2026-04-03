@@ -24,37 +24,39 @@ faq:
   - question: "Was sollte ich bei einem Date mit Kind beachten?"
     answer: "Plane Dates um den Schulplan herum. Verbringe Zeit mit deinem Kind und dem Partner separat, bevor ihr zusammen Zeit verbringt. Lass die Beziehung natürlich wachsen."
 ---
-## Liebe verdient jeder — auch du
+## Liebe verdient jeder — auch du, als alleinerziehend
 
-Du bist alleinerziehend, hast einen vollen Alltag zwischen Kindergarten, Hausaufgaben und Gute-Nacht-Geschichten. Und irgendwo zwischen Wäschebergen und Elternabenden fragst du dich: Darf ich auch noch an mich denken? Darf ich mir Liebe wünschen?
+Du bist alleinerziehend, hast einen vollen Alltag zwischen Kindergarten, Hausaufgaben und Gute-Nacht-Geschichten. Und irgendwo zwischen Wäschebergen und Elternabenden fragst du dich: Darf ich auch noch an mich denken? Darf ich mir Liebe wünschen? Darf ich Dating versuchen, wenn ich so wenig Zeit und Energie habe?
 
-Die Antwort ist ein klares Ja. Deine Kinder verdienen ein glückliches Elternteil — und dazu gehört auch, dass du dein Liebesleben nicht vollständig aufgibst.
+Die Antwort ist ein klares Ja. Deine Kinder verdienen nicht nur einen glücklichen Elternteil — sie brauchen einen glücklichen Elternteil. Ein alleinerziehender Elternteil, der seine eigenen Bedürfnisse ignoriert, wird irgendwann bitter und müde. Das ist nicht gut für die Kinder. Also ja, dein Liebesleben zu haben ist nicht egoistisch. Es ist ein essentieller Teil des Selbstmitgefühls.
 
-## Wann ist der richtige Zeitpunkt?
+Das bedeutet nicht, dass es einfach ist. Die Realität ist hart: Du hast weniger Zeit, weniger Energie, weniger Flexibilität als Single-Menschen. Aber viele Menschen mit Kindern finden erfüllende Beziehungen. Es erfordert nur Klarheit und Ehrlichkeit.
 
-Es gibt keine magische Formel. Aber einige Orientierungspunkte helfen:
+## Wann ist der richtige Zeitpunkt zum Daten?
 
-Nach einer [Bindungsangst](/blog/bindungsangst-komplett-guide). Zu spät vorgestellt wirkt es wie ein Geheimnis.
+Es gibt keine magische Formel, aber es gibt wichtige Überlegungen:
 
-Die Faustregel: Warte mindestens drei bis sechs Monate, bis die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) stabil ist. Stelle den neuen Partner zunächst in einem entspannten, unverfänglichen Setting vor — ein gemeinsamer Ausflug funktioniert besser als ein formelles Abendessen.
+**Nach der Trauer**: Wenn deine Trennung/Scheidung noch sehr frisch ist, brauchst du wahrscheinlich Zeit, um zu heilen. Das ist nicht "warte, bis die Narben unsichtbar sind", sondern "warte, bis du nicht mehr aus Einsamkeit oder Rache datierst, sondern weil du wirklich jemanden treffen möchtest." Das kann Monate oder mehr als ein Jahr sein.
 
-Und das Wichtigste: Zwinge nichts. Dein Kind darf sich Zeit nehmen, und dein Partner auch.
+**Die Faustregel**: Warte mindestens drei bis sechs Monate, bis jede neue Beziehung stabil ist, bevor du dein Kind vorstellst. Das gibt der Beziehung Zeit, echte Tiefe zu zeigen. Ist das nach drei Monaten nicht der Fall, war es wahrscheinlich nicht "der Eine" sowieso. Stelle den neuen Partner zunächst in einem entspannten, unverfänglichen Setting vor — ein gemeinsamer Ausflug in den Park funktioniert besser als ein formelles Abendessen zu Hause. Der Park ist neutral, dein Kind kann spielen, ihr könnt miteinander quatschen, und wenn die Chemie nicht stimmt, geht jeder weg, ohne dramatisch zu sein.
 
-## Online-Dating als Alleinerziehend
+**Und das Wichtigste**: Zwinge nichts. Dein Kind darf sich Zeit nehmen, den neuen Partner zu akzeptieren. Und dein Partner soll auch wissen, dass Beziehung zu dir bedeutet Beziehung zu deinen Kindern — nicht sofort, aber irgendwann. Wenn dein Partner damit nicht umgehen kann, ist er nicht der Richtige.
 
-Online-Dating ist für Alleinerziehende oft die praktischste Option. Du kannst abends vom Sofa aus swipen, Profile in Ruhe lesen und die erste Kennenlernphase digital starten.
+## Online-Dating als Alleinerziehend: Dein Vorteil
 
-Sei in deinem Profil ehrlich über deine Situation. Du musst nicht „Alleinerziehend mit 2 Kindern" in die erste Zeile schreiben, aber erwähne es spätestens vor dem ersten Date. So filterst du gleich diejenigen heraus, die damit ein Problem haben.
+Online-Dating ist für Alleinerziehende oft die praktischste — und beste — Option. Du kannst abends vom Sofa aus swipen, wenn die Kinder schlafen. Du kannst Profile in Ruhe lesen und überlegen, ob dieser Mensch in dein Leben passt. Du kannst die erste Kennenlernphase digital starten, ohne Babysitting zu organisieren. Das ist ein enormer Vorteil.
 
-## Was du verdienst
+Sei in deinem Profil ehrlich über deine Situation. Du musst nicht "Alleinerziehend mit 2 Kindern" in die erste Zeile schreiben als wäre es eine Warnung, aber erwähne es spätestens im Profil oder vor dem ersten Date. So filterst du sofort diejenigen heraus, die damit ein Problem haben. Das spart dir und ihnen Zeit. Ein Profil könnte heißen: "Arbeite im Marketing, liebe Wanderungen, und ich bin Mutter von zwei großartigen Kindern. Ein potenzieller Partner sollte das akzeptieren und verstehen."
 
-Du verdienst jemanden, der dich und dein Leben als Ganzes akzeptiert. Jemanden, der versteht, dass du nicht immer spontan sein kannst. Jemanden, der Geduld mitbringt — für dich und für deine Kinder.
+Das ist nicht abschreckend. Es ist realistisch. Und Menschen, die mit Kindern nicht umgehen können oder wollen, werden sowieso nicht zu dir passen.
 
-Weitere Informationen findest du bei Bundesamt für Sicherheit in der Informationstechnik: [Bundesamt für Sicherheit in der Informationstechnik](https://www.bsi.bund.de/)
+## Was du verdienst — und nicht verdienst
 
-Weitere Informationen findest du bei Verbraucherzentrale: [Verbraucherzentrale](https://www.verbraucherzentrale.de/)
+Du verdienst jemanden, der dich und dein Leben als Ganzes akzeptiert. Nicht "akzeptiert mit Vorbehalten", sondern wirklich akzeptiert, dass Kinder Teil deines Lebens sind und bleiben. Jemanden, der versteht, dass du nicht immer spontan sein kannst. Die schöne Überraschungs-Wochenend-Reise funktioniert nicht, wenn du Kinderbetreuung arrangieren musst.
 
-Lass dich nicht auf weniger ein, nur weil du denkst, deine Optionen seien begrenzt. Sie sind es nicht. Du bist liebenswert, mit allem, was dazugehört.
+Aber gleichzeitig: Lass dich nicht auf weniger ein, nur weil du denkst, deine Optionen seien begrenzt. Sie sind es nicht. Es gibt viele Menschen, die Kinder lieben oder zumindest akzeptieren können. Du bist liebenswert, mit allem, was dazugehört. Deine Kinder machen dich nicht "weniger wertvoll." Sie machen dich komplexer, interessanter, tiefer.
+
+Nutze auch [Dating-Tipps für Menschen nach Trennung](/blog/dating-nach-trennung/) und erkunde [wie man in einer Patchwork-Familie datet](/blog/patchwork-familie-dating/). Du könntest auch [Dating mit Behinderung verstehen](/blog/dating-mit-behinderung/), da ähnliche Authentizität-Prinzipien gelten.
 
 ---
 

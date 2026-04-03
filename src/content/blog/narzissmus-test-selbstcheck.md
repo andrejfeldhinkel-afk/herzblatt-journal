@@ -229,3 +229,8 @@ Aber wenn du diesen Test machst und ehrlich antwortest — besonders wenn deine 
 
 Das ist der Anfang.
 
+## Weiterlesen
+
+- [Abenteuer-Dates: Adrenalin stärkt die Bindung](/blog/abenteuer-dates-adrenalin)
+- [Emotionale Abhängigkeit vom Partner lösen](/blog/abhaengigkeit-vom-partner-loesen)
+- [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide)

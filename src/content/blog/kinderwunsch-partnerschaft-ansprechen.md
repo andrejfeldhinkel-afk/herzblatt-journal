@@ -18,9 +18,7 @@ author: "sarah-kellner"
 
 ## Kinderwunsch in der Partnerschaft ansprechen
 
-Wie du das Thema Kinderwunsch mit deinem Partner besprichst. Tipps für schwierige Gespräche. In diesem Artikel werden wir tiefer in das Thema eintauchen und praktische Strategien erkunden.
-
-## Warum das Thema wichtig ist
+Wie du das Thema Kinderwunsch mit deinem Partner besprichst. Tipps für schwierige Gespräche. ## Warum das Thema wichtig ist
 
 kinderwunsch in der partnerschaft ansprechen ist relevant für viele Menschen, die sich in modernen Beziehungen bewegen oder neu ins Dating einsteigen.
 

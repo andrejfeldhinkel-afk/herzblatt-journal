@@ -4,9 +4,9 @@ description: "Nach einer Scheidung wieder daten? Das braucht Mut und Klarheit. T
 date: 2025-06-21
 image: "/images/photos/dating-nach-scheidung.webp"
 tags:
-  - "dating"
-  - "beziehung"
-  - "scheidung"
+  - "Dating"
+  - "Beziehung"
+  - "Scheidung"
   - "neubeginn"
 ---
 

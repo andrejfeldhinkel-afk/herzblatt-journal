@@ -199,3 +199,9 @@ Wenn du jemanden ghosten willst:
 Das ist es. Das ist Erwachsensein. Das ist Respekt.
 
 Und dein zukünftiges Ich wird dir danken.
+
+## Weiterlesen
+
+- [Ab wann ist es Ghosting? Stunden, Tage, Wochen erklärt](/blog/ab-wann-ist-es-ghosting)
+- [Benching beim Dating erkennen](/blog/benching-dating-wartebank-erkennen)
+- [Clear Coding im Dating: Die ehrliche Kommunikation, die](/blog/clear-coding-dating-trend)

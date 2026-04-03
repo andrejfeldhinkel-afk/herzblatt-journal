@@ -16,7 +16,7 @@ Mehr zum Thema erfährst du auf Caritas Beratung: [Caritas Beratung](https://www
 
 Weitere Informationen findest du bei Bundesministerium für Familie: [Bundesministerium für Familie](https://www.bmfsfj.de/)
 
-### Der Partner muss reumütig sein
+## Der Partner muss reumütig sein
 
 Zunächst muss dein Partner wirklich bereuen. Nicht „Mir tut es leid, dass du verletzt bist", sondern „Mir tut es leid, dass ich gelogen habe. Das war falsch."
 

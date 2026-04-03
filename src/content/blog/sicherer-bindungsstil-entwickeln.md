@@ -199,3 +199,9 @@ Das ist der erste Schritt zu sicheren Beziehungen. Der Rest folgt.
 Und wenn dein Partner dich in diesem Prozess unterstützt? Das ist Liebe. Dass er deinen Weg sieht und dich trotzdem hält?
 
 Das ist, was echte sichere Bindung zeigt.
+
+## Weiterlesen
+
+- [Bindungstypen verstehen: Der ultimative Guide](/blog/attachment-styles-bindungstypen-guide)
+- [Bindungstypen verstehen 2026: Der komplette Guide](/blog/attachment-styles-guide)
+- [Bindungsstile heilen: Von unsicher zu sicher](/blog/attachment-styles-heilen-guide)

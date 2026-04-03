@@ -4,10 +4,10 @@ description: "Dein Selbstwert bestimmt deine Dating-Chancen. Ohne innere Stabili
 date: 2025-07-15
 image: "/images/photos/dating-und-selbstwert.webp"
 tags:
-  - "dating"
-  - "beziehung"
+  - "Dating"
+  - "Beziehung"
   - "selbstwert"
-  - "psychologie"
+  - "Psychologie"
 ---
 
 ## Selbstwert und dating: Warum es zusammenhängt

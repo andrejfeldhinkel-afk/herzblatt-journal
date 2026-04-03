@@ -4,9 +4,9 @@ description: "Beziehungskiller vermeiden: Die 5 größten Beziehungskiller und k
 date: 2025-03-31
 image: "/images/photos/beziehungskiller-vermeiden.webp"
 tags:
-  - "beziehung"
+  - "Beziehung"
   - "liebe"
-  - "tipps"
+  - "Tipps"
 ---
 ## Die Größten Beziehungskiller Und Wie Man Sie Vermeidet
 

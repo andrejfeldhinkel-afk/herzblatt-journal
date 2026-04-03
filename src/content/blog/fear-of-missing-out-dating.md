@@ -1,5 +1,5 @@
 ---
-title: "FOMO beim Dating: Immer das Gefühl etwas Besseres zu"
+title: "FOMO beim Dating: Immer das Gefühl etwas Besseres"
 description: "FOMO beim Dating? Warum du immer denkst da draußen ist jemand Besseres — und wie du lernst dich auf einen Menschen einzulassen."
 date: 2025-10-02
 image: "/images/photos/fear-of-missing-out-dating.webp"

@@ -28,9 +28,15 @@ faq:
 
 ## Heiratsantrag: 30+ kreative Ideen für die perfekte Verlobung
 
-Der Heiratsantrag gehört zu den emotionalsten Momenten im Leben eines Paares. Es ist der Augenblick, in dem zwei Menschen beschließen, ihren Weg gemeinsam weiterzugehen — offiziell, bewusst und mit dem Herzen. Doch genau weil dieser Moment so bedeutsam ist, kann die Planung überwältigend wirken. Wie macht man einen Antrag, der wirklich berührt? Einer, der nicht inszeniert wirkt, sondern authentisch ist?
+Der Heiratsantrag gehört zu den emotionalsten Momenten im Leben eines Paares. Es ist der Augenblick – dieser eine Moment – in dem zwei Menschen beschließen, ihren Weg gemeinsam weiterzugehen. Offiziell. Bewusst. Mit ganzem Herzen.
 
-Die Antwort liegt nicht in teuren Arrangements oder spektakulären Kulissen. Sie liegt darin, dass der Antrag eure Geschichte erzählt — eure gemeinsame Reise, eure Insider-Witze, eure Träume. In diesem ausführlichen Ratgeber findest du über 30 kreative Ideen, praktische Tipps zur Planung und die wichtigsten Fragen, die du dir vorher stellen solltest.
+Doch genau weil dieser Moment so bedeutsam ist, kann die Planung überwältigend wirken. Wo machst du es? Wie machst du es? Wann? Mit Ring? Ohne Ring? Mit Familie? Allein?
+
+Wie macht man einen Antrag, der wirklich berührt? Einer, der nicht wie eine inszenierte Szene wirkt, sondern authentisch, real, EUER ist?
+
+Die Antwort liegt nicht in teuren Arrangements oder spektakulären Kulissen. Sie liegt darin, dass der Antrag EURE Geschichte erzählt – eure gemeinsame Reise, eure Insider-Witze, die Orte, die euch verbinden, eure Träume für die Zukunft.
+
+In diesem ausführlichen Ratgeber findest du über 30 kreative Ideen, praktische Tipps zur Planung, psychologische Erkenntnisse darüber, wie Menschen Anträge wahrnehmen – und die wichtigsten Fragen, die du dir vorher stellen solltest.
 
 ## Die wichtigsten Fragen vor dem Antrag
 

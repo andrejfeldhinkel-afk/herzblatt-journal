@@ -4,7 +4,7 @@ description: "Dating in Potsdam: Schlösser und Romantik. Märchenschlösser, Se
 date: 2025-07-02
 image: "/images/photos/dating-potsdam.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "dating-spots"
   - "potsdam"
   - "brandenburg"

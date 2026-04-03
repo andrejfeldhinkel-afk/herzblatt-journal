@@ -158,3 +158,8 @@ Das funktioniert nur, wenn beide wissen: Jetzt ist deine Zeit, später ist meine
 
 Die beste Work-Life-Balance ist nicht eine Ratio. Es ist Respekt dafür, dass euer Partner auch Träume hat, und bereitschaft, die Bühne manchmal zu teilen.
 
+## Weiterlesen
+
+- [Abendroutine als Paar: 12 Ideen für mehr Nähe vor dem Sch...](/blog/abendroutine-als-paar)
+- [Beziehung auf Augenhoehe](/blog/beziehung-auf-augenhoehe-guide)
+- [Beziehung auffrischen: 30 Ideen die sofort wirken](/blog/beziehung-auffrischen-30-ideen)

@@ -1,5 +1,5 @@
 ---
-title: "Emotionale Intelligenz in Beziehungen: Der Schlüssel zu"
+title: "Emotionale Intelligenz in Beziehungen: Der Schlüssel"
 description: "Emotionale Intelligenz in Beziehungen: Lerne, Gefühle zu verstehen, Empathie auszubauen. Konkrete Übungen für eine starke Partnerschaft."
 date: 2025-09-07
 image: "/images/photos/emotionale-intelligenz-beziehung.webp"

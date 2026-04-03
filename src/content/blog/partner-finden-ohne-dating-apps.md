@@ -4,9 +4,9 @@ description: "Partner offline finden: Lerne traditionelle Wege, deinen Partner o
 date: 2025-10-17
 image: "/images/photos/partner-finden-ohne-dating-apps.webp"
 tags:
-  - "dating"
-  - "beziehung"
-  - "partnersuche"
+  - "Dating"
+  - "Beziehung"
+  - "Partnersuche"
 ---
 
 Nicht jeder will auf [dating](/blog/anzeichen-er-steht-auf-dich/)-Apps. Vielleicht findest du Swipen oberflächlich. Vielleicht magst du nicht auf die Zahl der Matches reduziert zu werden. Vielleicht willst du einfach people treffen, die du organic kennenlernen kannst.

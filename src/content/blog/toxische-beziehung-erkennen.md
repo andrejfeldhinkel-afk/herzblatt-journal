@@ -4,9 +4,9 @@ description: "Toxische Beziehung erkennen: Lerne die 15 Warnsignale und entdecke
 date: 2025-11-16
 image: "/images/photos/toxische-beziehung-erkennen.webp"
 tags:
-  - "beziehung"
-  - "warnsignale"
-  - "gesundheit"
+  - "Beziehung"
+  - "Warnsignale"
+  - "Gesundheit"
 ---
 
 Eine toxische [Gaslighting](/blog/gaslighting-komplett-guide)

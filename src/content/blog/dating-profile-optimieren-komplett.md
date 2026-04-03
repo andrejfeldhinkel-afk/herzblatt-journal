@@ -29,9 +29,7 @@ faq:
 
 Das Geheimnis erfolgreicher Online-Dating liegt nicht in Glück, sondern in Strategie. Dein Dating-Profil optimieren ist der erste und wichtigste Schritt, um zehnmal mehr Matches zu bekommen. Während viele Menschen wild herumwischen und hoffen, dass irgendjemand mit ihnen matchen möchte, arbeiten erfolgreiche Dater strategisch. Sie wissen, dass ein optimiertes Profil nicht nur mehr Matches bringt, sondern auch bessere Matches – Menschen, die wirklich zu dir passen.
 
-Die Realität des Online-Dating ist hart: Du hast etwa 500 Millisekunden, um Aufmerksamkeit zu erregen. In dieser kurzen Zeit entscheiden potenzielle Partner, ob sie dein Profil ansehen oder schnell weiterwischen. Das bedeutet, dass jedes Element deines Profils zählt – vom Hauptfoto bis zur letzten Zeile deiner Biografie. In diesem umfassenden Guide zeige ich dir, wie du dein Profil so optimierst, dass du nicht nur mehr Matches bekommst, sondern auch die richtigen.
-
-## Das perfekte Hauptfoto: Dein Türöffner
+Die Realität des Online-Dating ist hart: Du hast etwa 500 Millisekunden, um Aufmerksamkeit zu erregen. In dieser kurzen Zeit entscheiden potenzielle Partner, ob sie dein Profil ansehen oder schnell weiterwischen. Das bedeutet, dass jedes Element deines Profils zählt – vom Hauptfoto bis zur letzten Zeile deiner Biografie. ## Das perfekte Hauptfoto: Dein Türöffner
 
 Das Hauptfoto ist mit Abstand das wichtigste Element deines Profils. Während Menschen dein komplettes Profil durchschauen können, entscheiden sich über 80% der User nach dem ersten Bild, ob sie weitermachen oder nicht. Das bedeutet: Ein großartiges Hauptfoto ist deine größte Waffe.
 

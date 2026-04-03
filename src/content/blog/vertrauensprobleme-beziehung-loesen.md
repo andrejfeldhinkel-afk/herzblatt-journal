@@ -29,6 +29,8 @@ Das ist, was Vertrauensprobleme tun. Sie höhlen eine Beziehung aus, sogar wenn 
 
 Ich spreche mit dir heute, weil ich glaube, dass Vertrauen – oder das Fehlen davon – einer der wichtigsten Faktoren ist, die bestimmen, ob eine Beziehung funktioniert oder nicht. Und ich möchte dir helfen, zu verstehen, wo deine Vertrauensprobleme kommen und wie du sie heilen kannst.
 
+## Vertrauen verstehen und aufbauen
+
 ### Was ist Vertrauen wirklich?
 
 Bevor wir über Probleme sprechen, müssen wir verstehen, was Vertrauen ist.
@@ -130,6 +132,8 @@ Eifersucht und Kontrolle sind oft Zeichen von Unsicherheit oder Angst. Du versuc
 
 Was hilft: Wieder, Selbstarbeit. Du musst verstehen, woher die Angst kommt. Was genau fürchtest du? Was ist das schlimmste Szenario, das du dir vorstellen kannst? Oft ist die Angst größer als die Realität.
 
+## Lösungsansätze und konkrete Schritte
+
 ### Wie man ein Vertrauenproblem erkannt – und behebt
 
 Wenn du merkst, dass Vertrauensprobleme deine Beziehung belasten, hier sind praktische Schritte:
@@ -175,3 +179,9 @@ Wenn du an der Wiederherstellung deines Vertrauens arbeitest – entweder mit Hi
 Vertrauen ist keine perfekte Sache. Es ist etwas, das man kontinuierlich pflegen muss. Aber mit Bewusstsein, Kommunikation und gegenseitigem Engagement ist echtes Vertrauen erreichbar.
 
 Und darauf ist es wert zu arbeiten.
+
+## Weiterlesen
+
+- [Affäre: Warum es passiert & wie du damit umgehen kannst](/blog/affaere-komplett-guide)
+- [Anzeichen dass er mich liebt — 15+ Signale erkannt](/blog/anzeichen-dass-er-mich-liebt)
+- [Beziehungs-Gesundheits-Check](/blog/beziehung-gesundheits-check)

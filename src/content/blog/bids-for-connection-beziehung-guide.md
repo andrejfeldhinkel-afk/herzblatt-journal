@@ -1,5 +1,5 @@
 ---
-title: "Bids for Connection — Gottmans Konzept der"
+title: "Bids for Connection — Gottmans Konzept"
 description: "Entdecke, wie kleine Momente der Verbindung Beziehungen transformieren. Ein tiefgreifender Guide zu Gottmans Zuwendungsversuchen und ihrer Kraft."
 date: 2025-04-03
 author: "sarah-kellner"
@@ -21,7 +21,7 @@ Du sitzt auf der Couch und liest ein Buch. Dein Partner kommt herein und sagt: "
 
 John Gottman, einer der einflussreichsten Beziehungsforscher unserer Zeit, hat etwas Faszinierendes entdeckt: Diese scheinbar unbedeutenden Momente sind nicht unbedeutend. Sie sind die Bausteine einer starken, glücklichen Beziehung. Wie du auf diese Zuwendungsversuche reagierst — ob du dich deinem Partner zuwendest, ihn ignorierst oder sogar aggressiv reagierst — bestimmt nachweislich die Qualität und Langlebigkeit eurer Beziehung.
 
-In diesem umfassenden Guide werde ich dir zeigen, was Bids for Connection sind, warum sie so kraftvoll sind, und wie du sie erkennst, nutzt und darauf reagierst. Du wirst konkrete Beispiele aus dem Alltag kennenlernen und praktische Übungen erhalten, um deine Beziehung durch diese einfache, aber transformative Praxis zu vertiefen.
+Du wirst konkrete Beispiele aus dem Alltag kennenlernen und praktische Übungen erhalten, um deine Beziehung durch diese einfache, aber transformative Praxis zu vertiefen.
 
 ## Was sind Bids for Connection?
 

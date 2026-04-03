@@ -30,7 +30,7 @@ faq:
 ---
 Du öffnest dein Smartphone, scrollst durch deine Apps und siehst die Dating-App mit dem roten Benachrichtigungspunkt. Momente lang zögerst du. Es ist schon lange her, dass du die App zum letzten Mal geöffnet hast. Manche sprechen von wenigen Wochen, bei anderen sind es Monate. Das Gefühl ist aber überall gleich: eine Mischung aus Neugier, Nervosität und der stillen Hoffnung, dass es dieses Mal besser läuft.
 
-Der **Online-Dating Wiedereinstieg** ist ein häufig unterschätzter Moment im Dating-Leben. Es ist nicht einfach nur das Erneuern einer App — es ist ein psychologischer Neustart, eine Chance, dich selbst besser kennenzulernen und es fundamentall anders zu machen als beim letzten Versuch. In diesem umfassenden Guide zeige ich dir Schritt für Schritt, wie du nach einer Pause erfolgreich ins Online-Dating zurückkehrst.
+Der **Online-Dating Wiedereinstieg** ist ein häufig unterschätzter Moment im Dating-Leben. Es ist nicht einfach nur das Erneuern einer App — es ist ein psychologischer Neustart, eine Chance, dich selbst besser kennenzulernen und es fundamental anders zu machen als beim letzten Versuch.
 
 ## Warum Menschen Dating-Pausen brauchen
 

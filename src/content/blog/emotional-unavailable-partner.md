@@ -1,5 +1,5 @@
 ---
-title: "Emotional nicht verfügbar — Warum du dich immer in"
+title: "Emotional nicht verfügbar: Warum du dich immer verliebst"
 description: "Das Muster von emotionaler Unverhältnismäßigkeit: Wie du erkennst und aufhörst, dich in unerreichbare Menschen zu verlieben"
 date: 2026-03-16
 tags: ["Beziehung", "Bindungstypen", "Psychologie", "Selbstliebe"]

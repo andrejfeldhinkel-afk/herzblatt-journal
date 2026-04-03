@@ -4,7 +4,7 @@ description: "Entdecke die besten Dating-Orte in Kassel. Von Cafés über Parks 
 date: 2025-05-24
 image: "/images/photos/dating-kassel.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "dating-spots"
   - "kassel"
 ---

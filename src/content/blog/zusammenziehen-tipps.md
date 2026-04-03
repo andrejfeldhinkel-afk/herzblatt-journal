@@ -4,8 +4,8 @@ description: "Zusammenziehen Tipps: Was du wissen musst, bevor ihr zusammenzieht
 date: 2025-12-15
 image: "/images/photos/zusammenziehen-tipps.webp"
 tags:
-  - "beziehung"
-  - "zusammenziehen"
+  - "Beziehung"
+  - "Zusammenziehen"
   - "wohnen"
 ---
 

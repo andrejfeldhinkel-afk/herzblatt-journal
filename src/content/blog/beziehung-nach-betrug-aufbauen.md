@@ -26,7 +26,7 @@ Die Nachricht fühlt sich an wie ein physischer Schlag in die Magengrube. Du sit
 
 Diese schmerzhafte Realität trifft jedes Jahr Millionen von Menschen in Deutschland und weltweit. Der Betrug ist einer der destruktivsten und verletzlichsten Momente in einer Beziehung – nicht nur wegen der sexuellen oder emotionalen Untreue selbst, sondern wegen des fundamentalen Vertrauensbruchs, den er darstellt. Dieser Vertrauensbruch greift an die Wurzeln dessen, wer wir sind und wem wir vertrauen können. Doch während viele Beziehungen nach einem Betrug unwiederbringlich enden, überstehen überraschend viele Paare diese Krise und bauen sogar stärkere, authentischere Verbindungen auf.
 
-In diesem umfassenden, praktischen Guide erfährst du, wie Vertrauen wirklich wieder aufgebaut wird, welche psychologischen Prozesse dabei ablaufen, und konkrete, bewährte Strategien, die Paare erfolgreich angewendet haben. Ob du derjenige bist, der betrogen wurde und mit tiefem Schmerz kämpft, oder der Partner, der Vertrauen zurückgewinnen möchte – dieser Artikel gibt dir ein klares, ehrliches Verständnis für den manchmal bewundernswerten Weg nach vorne.
+Ob du derjenige bist, der betrogen wurde und mit tiefem Schmerz kämpft, oder der Partner, der Vertrauen zurückgewinnen möchte – dieser Artikel gibt dir ein klares, ehrliches Verständnis für den manchmal bewundernswerten Weg nach vorne.
 
 ## Die emotionale Landkarte nach einem Betrug: Verstehen, was du durchmachst
 

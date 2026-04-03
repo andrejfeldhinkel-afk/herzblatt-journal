@@ -1,5 +1,5 @@
 ---
-title: "Date-Gespräche die nie langweilig werden: 100 Fragen und"
+title: "Date-Gespräche die nie langweilig werden: 100 Fragen"
 description: "Date-Gespräche die begeistern: 100 Fragen, 10 Gesprächstechniken und die Kunst, beim Date eine echte Verbindung aufzubauen die in Erinnerung bleibt."
 date: 2025-04-18
 tags:

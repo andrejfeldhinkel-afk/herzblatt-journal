@@ -209,3 +209,8 @@ Und dann? Akzeptiere die Antwort. Wer weiß – die Antwort könnte ja sein. Ode
 
 Das ist was Erwachsene tun. Sie sagen die Wahrheit. Sie akzeptieren die Konsequenzen. Sie heilen. Sie bewegen sich weiter.
 
+## Weiterlesen
+
+- [Bindungsstile heilen: Von unsicher zu sicher](/blog/attachment-styles-heilen-guide)
+- [Emotionale Distanz in der Beziehung überbrücken](/blog/beziehung-emotionale-distanz-ueberbruecken)
+- [Gemeinsam wachsen als Paar – Wenn Liebe Entwicklung bedeutet](/blog/beziehung-gemeinsam-wachsen)

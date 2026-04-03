@@ -71,9 +71,7 @@ Du führst jedes Gespräch auf deine Erfahrungen, deine Träume, deine Probleme.
 
 Das ist eine subtile Falle. Die meisten Menschen, die dies tun, tun es nicht aus Bosheit – sie tun es aus Nervosität. Sie wissen nicht, wie sie Stille füllen sollen, also füllen sie sie mit ihren eigenen Geschichten. Aber das ist das Gegenteil des, was eine echte Verbindung schafft.
 
-Die einfache Regel: Stelle Fragen, die zuerst kommen. Wenn sie über ihre Familie sprechen, stelle mehr Fragen über ihre Familie, statt sofort deine Familie zu erwähnen. Dies ist die Grundlage echter Verbindung. Es bedeutet nicht, dass du nicht über dich sprechen sollst, aber im Verhältnis 40-60 oder 50-50, nicht 70-30. Gute Zuhörer sind attraktiv, weil sie selten sind. In einer Welt, in der jeder seine eigene Geschichte erzählen will, ist eine Person, die wirklich zuhört, unwiderwiderstehlich.
-
-## Fehler 6-10: Kommunikations- und Verhaltensweisen, die Beziehungen zerstören
+Die einfache Regel: Stelle Fragen, die zuerst kommen. Wenn sie über ihre Familie sprechen, stelle mehr Fragen über ihre Familie, statt sofort deine Familie zu erwähnen. Dies ist die Grundlage echter Verbindung. Es bedeutet nicht, dass du nicht über dich sprechen sollst, aber im Verhältnis 40-60 oder 50-50, nicht 70-30. Gute Zuhörer sind attraktiv, weil sie selten sind. ## Fehler 6-10: Kommunikations- und Verhaltensweisen, die Beziehungen zerstören
 
 ### Spielchen spielen, um Aufmerksamkeit zu bekommen
 

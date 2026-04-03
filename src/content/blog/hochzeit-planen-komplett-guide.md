@@ -213,3 +213,9 @@ Das ist normal. Es ist auch ein wichtiger Moment in deiner Beziehung. Du und dei
 Nun, nach der Hochzeit, müsst ihr eure Basis wieder aufbauen. Das ist die echte Arbeit. Das ist was lange hält.
 
 Kümmere dich um deine Beziehung jetzt. Das ist wichtiger als jede Hochzeitsplanung.
+
+## Weiterlesen
+
+- [Das Geheimnis langjähriger Ehen: Was Paare falsch verstehen](/blog/beziehung-lange-ehe-geheimnis)
+- [Die ersten Ehejahre](/blog/beziehung-nach-hochzeit)
+- [Hochzeitsplanung ohne Beziehungsstress](/blog/beziehung-traumhochzeit-planen-stress)

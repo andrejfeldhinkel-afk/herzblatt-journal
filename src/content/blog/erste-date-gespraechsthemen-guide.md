@@ -34,7 +34,7 @@ Die Wahrheit ist: Viele Menschen unterschätzen die Macht guter Gesprächsthemen
 
 Die größte Sorge beim ersten Date ist die Stille. Und genau hier helfen gute Gesprächsthemen. Sie brechen das Eis, schaffen Verbindung und geben dir Sicherheit. Nicht als starre Liste, sondern als Werkzeugkasten, aus dem du flexibel schöpfst.
 
-In diesem umfassenden Guide findest du nicht nur 50 konkrete Gesprächsideen, sondern auch die Psychologie dahinter. Du lernst, wie du echte Verbindung aufbaust, Nervosität abbaust und ein Gespräch natürlich fließen lässt. Egal, ob du beim Online-Dating oder beim Blinddate sitzt - mit diesen Strategien wirst du zum sicheren Gesprächspartner.
+Du lernst, wie du echte Verbindung aufbaust, Nervosität abbaust und ein Gespräch natürlich fließen lässt. Egal, ob du beim Online-Dating oder beim Blinddate sitzt - mit diesen Strategien wirst du zum sicheren Gesprächspartner.
 
 ## Teil 1: Die Psychologie von guten First-Date-Gesprächen
 

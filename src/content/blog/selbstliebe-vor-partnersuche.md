@@ -6,7 +6,7 @@ tags:
   - "Selbstliebe"
   - "Persönlichkeitsentwicklung"
   - "Beziehung"
-  - "Glück"
+  - "glück"
 image: "/images/photos/selbstliebe-dating.webp"
 imageAlt: "Person sitzt friedlich und umarmt sich selbst"
 featured: false

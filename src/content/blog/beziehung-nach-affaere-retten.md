@@ -33,6 +33,8 @@ Und manche Beziehungen werden nicht heilen – und das ist auch okay.
 
 Lassen Sie mich mit dir durch die Phasen gehen, damit du weißt, was zu erwarten ist, wenn du diese Reise beginnen möchtest.
 
+## Die fünf Phasen der Heilung
+
 ### Phase 1: Der Schock (Wochen 1-4)
 
 Wenn du zuerst erfährst, dass dein Partner untreu war, bist du in Schock. Dein Nervensystem ist in akuter Stressmodus. Du wirst eine Reihe von Reaktionen durchlaufen:
@@ -55,6 +57,8 @@ Was brauchst du in dieser Phase?
 - **Keine großen Entscheidungen**: Dies ist nicht die Zeit, zu entscheiden, ob du die Beziehung beendest oder nicht. Gib dir Zeit zu verarbeiten.
 
 Der untreue Partner brauchst in dieser Phase auch Raum für Reue zu zeigen. Nicht Entschuldigungen oder Rechtfertigungen – echte Reue.
+
+## Tiefgreifende Gespräche führen
 
 ### Phase 2: Die Verhandlung (Monate 2-6)
 
@@ -91,6 +95,8 @@ Was in dieser Phase passiert:
 
 In dieser Phase ist ein Paartherapeut unglaublich wertvoll. Der Therapeut kann helfen, diese schwierigen Konversationen zu navigieren, ohne dass sie zu zerstörerisch werden.
 
+## Vertrauen stufenweise wiederaufbauen
+
 ### Phase 3: Die Wiederherstellung (Monate 6-18)
 
 Nachdem ihr die wesentlichen Fragen beantwortet habt, betritt ihr die lange Phase der Wiederherstellung. Das ist wenn echter Heilung anfängt.
@@ -115,6 +121,8 @@ Diese Phase ist auch wenn ihr eine neue Beziehung "verhandelt". Was ist anders j
 
 Einige Paare berichten, dass ihre Beziehung nach dieser Phase tiefer, ehrlicher und erfüllender ist. Das ist möglich – wenn beide Partner bereit sind, echte Arbeit zu leisten.
 
+## Das Trauma integrieren
+
 ### Phase 4: Die Integration (Monate 18-36)
 
 Nach der Wiederherstellung kommt Integration. Die Affäre wird in eure Beziehungsgeschichte integriert – nicht vergessen, sondern verarbeitet.
@@ -127,6 +135,8 @@ In dieser Phase:
 - **Die Beziehung hat sich transformiert**: Sie ist nicht "wie vorher". Sie ist anders. Hoffentlich tiefer.
 
 Aber es gibt auch Rückfallpunkte. Ein Jahrestag, ein Gedanke, und die Wut kann zurückkommen. Das ist normal. Das ist nicht, dass du nicht vorangekommen bist – es ist, dass du tiefere Schichten der Verletzung verarbeitest.
+
+## Chancen auf erfolgreiche Heilung
 
 ### Die wichtigsten Faktoren für Heilung
 
@@ -179,3 +189,9 @@ Wenn du diese Situation durchmachst, hier ist meine Empfehlung:
 Heilung nach Untreue ist möglich. Es ist schmerzhaft und lang und anstrengend. Aber wenn beide Partner bereit sind, kann eine Beziehung nach einem Bruch tiefer und stärker sein.
 
 Es ist die härteste Reise – aber es ist eine, die du mit der richtige Unterstützung machen kannst.
+
+## Weiterlesen
+
+- [Beziehung nach einer Affäre retten](/blog/beziehung-after-affaere-plan)
+- [Sexuelle Heilung nach Betrug in der Beziehung](/blog/beziehung-nach-betrug-sexuell-heilen)
+- [Beziehung nach Fremdgehen](/blog/beziehung-nach-fremdgehen-aufarbeiten)

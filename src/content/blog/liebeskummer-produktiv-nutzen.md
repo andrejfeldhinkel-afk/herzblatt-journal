@@ -41,7 +41,7 @@ Dein Gehirn kreischt nach der Chemikalie. Es braucht Dopamin. Es braucht Oxytoci
 
 Das ist nicht "Schwachsinn." Das ist Neurowissenschaft. Dein Gehirn braucht Zeit um neue neuronale Bahnen zu schaffen.
 
-### Die Phasen des Gehirn-Durchbruchs
+## Die Phasen des Gehirn-Durchbruchs
 
 **Woche 1:** Akute Panik. Dein Gehirn glaubt dass du sterben wirst. Es ist überzeugt dass es unmöglich ist zu überleben ohne diese Person.
 

@@ -23,9 +23,7 @@ faq:
 
 Die erste Phase einer neuen Beziehung wird oft als die schönste Zeit beschrieben - der Punkt, an dem alles neu ist, alles möglich scheint und dein neuer Partner dir wie der perfekte Mensch erscheint. Doch für viele Menschen ist dies auch die Zeit, in der kritische Warnsignale übersehen werden. Diese subtilen Hinweise - die Red Flags - sind Indikatoren dafür, dass etwas Wichtiges in der Beziehung nicht stimmt.
 
-Die Fähigkeit, Dating Red Flags frühzeitig zu erkennen, ist eine der wichtigsten Fähigkeiten, die du für deine emotionale Gesundheit und dein Wohlbefinden entwickeln kannst. Eine frühe Intervention kann dir unzählige Stunden Schmerz, Verwirrung und Trauma ersparen. In diesem umfassenden Guide erforschen wir 40 Warnsignale beim Dating und lehren dich, wie du sie erkennst und darauf reagierst.
-
-## Die erste Kategorie: Kommunikations-Red Flags
+Die Fähigkeit, Dating Red Flags frühzeitig zu erkennen, ist eine der wichtigsten Fähigkeiten, die du für deine emotionale Gesundheit und dein Wohlbefinden entwickeln kannst. Eine frühe Intervention kann dir unzählige Stunden Schmerz, Verwirrung und Trauma ersparen. ## Die erste Kategorie: Kommunikations-Red Flags
 
 Schlechte Kommunikation ist das Fundament aller dysfunktionalen Beziehungen. Wenn dein Date bereits Schwierigkeiten mit ehrlicher, offener Kommunikation hat, wird dies nur schlimmer, wenn die Beziehung vertiefer wird. Kommunikation ist das Blut jeder Beziehung - ohne es stirbt die Beziehung langsam.
 

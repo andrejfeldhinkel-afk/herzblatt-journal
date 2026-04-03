@@ -227,3 +227,9 @@ Finde dein Gleichgewicht. Höre auf dein Herz. Und sei verständnisvoll mit dir 
 ---
 
 *Du möchtest mehr über Beziehungskommunikation lernen? Schau auch unseren Artikel über [Romance Scams erkennen](./romance-scam-erkennen-schuetzen.md) oder [Freundschaft mit dem Ex](./ex-partner-freundschaft-moeglich.md).*
+
+## Weiterlesen
+
+- [Aktives Zuhören üben: Besser verstehen in 7 Schritten](/blog/aktives-zuhoeren-beziehung-ueben)
+- [Beziehung nach einer Affäre retten](/blog/beziehung-after-affaere-plan)
+- [Beziehung mit großem Altersunterschied](/blog/beziehung-altersunterschied)

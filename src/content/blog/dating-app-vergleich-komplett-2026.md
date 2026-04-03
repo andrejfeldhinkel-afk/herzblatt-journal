@@ -1272,3 +1272,9 @@ Die Leute, die nicht funktionieren, sind die, die:
 5. Vergiss nicht: Die beste Beziehung beginnt mit echter Chemie, nicht mit ein Match
 6. Sei geduldig mit dir selbst — Dating ist hart
 7. Wenn es nicht funktioniert, keine Schande — probier andere Methoden
+
+## Weiterlesen
+
+- [Viele Matches, keine Dates: Was du falsch machst und wie du](/blog/dating-app-matches-keine-dates)
+- [Dating-App Premium: Lohnt sich bezahlen? Der ehrliche](/blog/dating-app-premium-lohnt-sich)
+- [Dating App Profil optimieren: So bekommst du mehr Matches](/blog/dating-app-profil-optimieren)

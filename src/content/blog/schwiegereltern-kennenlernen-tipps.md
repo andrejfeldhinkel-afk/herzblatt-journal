@@ -18,9 +18,7 @@ author: "sarah-kellner"
 
 ## Schwiegereltern kennenlernen: Ein großer Schritt
 
-Wie du einen guten Eindruck machst, wenn du die Familie deines Partners kennenlernst. In diesem Artikel werden wir tiefer in das Thema eintauchen und praktische Strategien erkunden.
-
-## Warum das Thema wichtig ist
+Wie du einen guten Eindruck machst, wenn du die Familie deines Partners kennenlernst. ## Warum das Thema wichtig ist
 
 schwiegereltern kennenlernen: ein großer schritt ist relevant für viele Menschen, die sich in modernen Beziehungen bewegen oder neu ins Dating einsteigen.
 

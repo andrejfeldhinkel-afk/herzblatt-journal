@@ -18,7 +18,7 @@ author: "markus-hoffmann"
 
 Du träumst schon lange davon, mit deinem Partner zusammenzuziehen. Ihr kennt euch, liebt euch, alles läuft super — warum also nicht den nächsten Schritt gehen? Aber dein Partner bremst, weicht aus, findet immer neue Gründe. Das frustriert dich zu Recht. Die gute Nachricht: Es muss nicht das Ende der [zusammenziehen](/blog/zusammenziehen-checkliste) will, steckt fast immer mehr dahinter als einfach "keine Lust". Menschen sind kompliziert, und die Gründe sind oft unbewusst oder schwer auszusprechen.
 
-### Angst vor Veränderung
+## Angst vor Veränderung
 
 Das ist der häufigste Grund, den kaum jemand aussprechen mag. Zusammenziehen bedeutet Kontrollverlust. Bisher hatte dein Partner einen Rückzugsort, Privatsphäre, die Möglichkeit, allein zu sein. Mit dir im gleichen Haushalt ändert sich alles — und das kann beängstigend wirken, besonders wenn er oder sie in der Vergangenheit schlechte Erfahrungen gemacht hat.
 

@@ -24,9 +24,15 @@ faq:
   - question: "Ist Commitment-Angst dasselbe wie Avoidant Attachment?"
     answer: "Sie sind verwandt, aber nicht identisch. Commitment-Angst kann kurzfristig sein, während avoidant attachment ein tieferes, längerfristiges Muster ist."
 ---
-## Das paradoxe Gefühl
+## Das paradoxe Gefühl — Die Angst, die dich blockiert
 
-Du magst diese Person. Wirklich. Wenn ihr zusammen seid, fühlt es sich richtig an. Aber sobald es ernst wird — sobald das Wort „[Kennenlernen](/blog/dating-fragen-kennenlernen)" zu „Beziehung" fühlt sich an wie ein Sprung ins Leere.
+Du magst diese Person. Wirklich. Wenn ihr zusammen seid, fühlt sich alles richtig an. Das Gelächter ist echt. Die Nähe ist süß. Du kannst dir ein Leben mit dieser Person vorstellen.
+
+Aber sobald es ernst wird — sobald das Wort "Hallo" zu "Ich liebe dich" wird, oder noch schlimmer, sobald dein Partner sagt "Lass uns zusammenziehen" oder "Lass uns über die Zukunft sprechen" — fühlt sich an wie ein Sprung ins Leere.
+
+Dein Körper geht in Panik. "Nein nein nein. Nicht so schnell." Du findest einen Grund, die Beziehung zu sabotieren. Oder du versuchst zu gehen. Oder du fängst an, Probleme zu sehen, die nicht da sind. Alles, um die Bindung zu vermeiden.
+
+Das ist Commitment-Angst.
 
 Hinter Commitment-Angst steckt meistens die Angst vor Kontrollverlust, Verletzung oder Identitätsverlust. Du fürchtest, dich selbst zu verlieren, enttäuscht zu werden oder in etwas festzustecken, das dich einengt.
 

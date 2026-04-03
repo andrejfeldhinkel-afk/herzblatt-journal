@@ -5,8 +5,8 @@ date: 2025-04-04
 draft: true
 image: "/images/photos/bindungsangst-erkennen.webp"
 tags:
-  - "beziehung"
-  - "psychologie"
+  - "Beziehung"
+  - "Psychologie"
   - "angst"
 ---
 

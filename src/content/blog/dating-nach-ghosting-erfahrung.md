@@ -22,14 +22,23 @@ faq:
     answer: "Ganz verhindern kannst du es nicht. Aber achte auf Warnsignale: Jemand, der nur sporadisch schreibt, Treffen ständig verschiebt oder nie über persönliche Dinge redet, ist eher ein Ghosting-Kandidat."
 ---
 
-Du kennst das: Eine Person, mit der du sprichst, mit der du dich wirklich verbunden gefühlt hast — und dann, aus dem Nichts, Funkstille. Das ist [geghostet](/blog/ghosting-ueberwinden) wird, sondern für alle zukünftigen Partner dieser Person auch.
+Du kennst das: Eine Person, mit der du sprichst, mit der du dich wirklich verbunden gefühlt hast — Tage vergingen gut, die Nachrichten waren tiefgründig, das Lachen war real. Und dann, aus dem Nichts, Funkstille. Das ist Ghosting. Kein "Mir geht's nicht gut, ich brauche eine Pause." Kein "Ich glaube, wir passen nicht." Einfach: Weg.
 
-## Warum es nicht an dir liegt — Das erste, was du wissen musst
+Es ist eine der modernsten Demütigungen, und es tut wie die Hölle.
 
-Der wichtigste Punkt zuerst: Ghosting sagt NICHTS über deinen Wert aus. Das ist nicht über dich. Das ist über die andere Person.
+Ghosting ist besonders verletzend, weil es keine Schließung gibt. Mit einer klaren Ablehnung weißt du zumindest, wo du stehst. Ghosting lässt dich in Ungewissheit — "Was habe ich getan? Ist alles okay? Soll ich schreiben?" Diese Ungewissheit ist psychologischer Terror, ob absichtlich oder nicht.
 
-Menschen ghosten aus den unterschiedlichsten Gründen:
-- **[verliebt](/blog/mann-verliebt-anzeichen-komplett) hast. Es war nicht dumm. Es war menschlich. Es war richtig, jemanden zu vertrauen. Die andere Person war einfach nicht würdig dieses Vertrauens.
+## Warum es nicht an dir liegt — Das erste und wichtigste, das du wissen musst
+
+Der wichtigste Punkt zuerst, in großen Buchstaben: Ghosting sagt ABSOLUT NICHTS über deinen Wert aus. Null. Das ist nicht über dich. Das ist über die andere Person und ihre emotionale Unreife.
+
+Menschen ghosten aus den verschiedensten Gründen, aber fast alle sind über ihre eigene Unfähigkeit, mit Konflikt umzugehen:
+- **Konfliktvermeidung**: Sie wissen, dass sie nicht interessiert sind oder dass es nicht funktioniert, aber sie können die unbequeme Unterhaltung nicht führen. Also laufen sie weg. Das ist Feigheit, verpackt als Funkstille.
+- **Sie sind selbst nicht okay**: Manchmal ghosten Menschen, weil sie mit ihren eigenen psychischen Problemen kämpfen und nicht die Energie haben, ehrlich zu sein. Das hat nichts mit dir zu tun. Du könntest wunderbar sein — sie sind einfach nicht in der Lage zu liefern.
+- **Sie haben jemand anderen gefunden**: Sie haben jemand "besseres" in ihrer Ansicht gefunden und scämen sich zu sagen "hey, ich wechsle." Das ist feige. Aber auch das ist nicht über dich.
+- **Sie wollen keine Verantwortung**: Die einfachste Erklärung. Sie wollen dich nicht verletzen (ironic, given Ghosting), also wählen sie Funkstille als "weniger schädlich." Das ist fehlgeleitete Logik, aber es ist nicht über dich.
+
+Das allerwichtigste: Du hast nichts falsch gemacht, indem du dieser Person vertraut hast. Es war nicht dumm. Es war menschlich. Es war richtig, jemandem Vertrauen zu schenken. Die andere Person war einfach nicht würdig dieses Vertrauens. Das ist ihr Fehler, nicht deiner.
 
 Du bist bereit, zurückzukommen, wenn du dich sagen kannst: "Das tat weh. Aber es war nicht meine Schuld. Und es wird nicht mehr passieren" — nicht, weil du dich abschottst, sondern weil du gelernt hast, rote Flaggen zu erkennen.
 

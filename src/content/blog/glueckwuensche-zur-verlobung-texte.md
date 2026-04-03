@@ -74,7 +74,7 @@ Hier sind 30 Glückwünsche – von herzlich bis lustig – die die perfekten Wo
 "Die Hochzeit ist der Anfang, aber die Liebe, die ihr teilt, ist das Abenteuer. Wir freuen uns, euch auf diesem Weg zu begleiten."
 
 ### 14
-"In einer Welt, in der alles sich ändert, ist eine Sache konstant: eure Liebe. Herzlichen Glückwunsch zu diesem schönen Versprechen."
+"Herzlichen Glückwunsch zu diesem schönen Versprechen."
 
 ### 15
 "Ihr habt es geschafft – ihr habt jemanden gefunden, der nicht nur dein Herz hält, sondern auch deinen Verrücktsein verstehen und lieben kann. Das ist selten. Herzlichen Glückwunsch!"

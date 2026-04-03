@@ -194,3 +194,9 @@ Aber wenn er geht — wenn er deine Hand hält und sich mit dir traut — dann k
 Ihr habt zusammen das Unmögliche überlebt. Das sagt über euch beide.
 
 Du schaffst das. Ihr schafft das.
+
+## Weiterlesen
+
+- [Sexuelle Heilung nach Betrug in der Beziehung](/blog/beziehung-nach-betrug-sexuell-heilen)
+- [Ängstlicher Bindungsstil heilen: Schritt für Schritt](/blog/aengstlicher-bindungsstil-heilen)
+- [Angst vor Intimität überwinden – Nähe zulassen lernen](/blog/angst-vor-intimaet-ueberwinden)

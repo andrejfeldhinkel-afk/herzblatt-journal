@@ -24,8 +24,6 @@ Vielleicht sitzt ihr rum und schaut Fernsehen. Vielleicht macht ihr einzelne Din
 
 Das ist, weil die meisten Paare keine absichtlichen Wochenend-Routinen haben. Und ohne Absicht, fällt deine Beziehung in Muster zurück, die gut fühlen, aber nicht nähren.
 
-In diesem Artikel werden wir über intentionale Wochenend-Routinen sprechen – nicht als Checkliste von Dingen zu tun, sondern als Strukturen, die es dir ermöglichen, wirklich mit deinem Partner verbunden zu werden.
-
 ## Warum Routinen wichtig sind
 
 Ich weiß, was du denkst. "Routinen klingt nach Langweile. Ich möchte spontan und aufregend sein, nicht roboter-haft."

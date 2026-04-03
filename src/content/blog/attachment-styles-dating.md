@@ -4,9 +4,9 @@ description: "Lerne Deinen Bindungstyp kennen: sicher, ängstlich, vermeidend. V
 date: 2025-01-30
 image: "/images/photos/attachment-styles-dating.webp"
 tags:
-  - "beziehung"
-  - "dating"
-  - "psychologie"
+  - "Beziehung"
+  - "Dating"
+  - "Psychologie"
 ---
 
 ## Bindungstypen beim dating: Sicher, Ängstlich, Vermeidend Erklärt

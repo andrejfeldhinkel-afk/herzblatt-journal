@@ -18,9 +18,7 @@ author: "sarah-kellner"
 
 ## Körpersprache beim Date lesen: Was sein Körper verrät
 
-Wie du Körpersprache interpretierst, um zu verstehen, ob das Date in dich interessiert ist. In diesem Artikel werden wir tiefer in das Thema eintauchen und praktische Strategien erkunden.
-
-## Warum das Thema wichtig ist
+Wie du Körpersprache interpretierst, um zu verstehen, ob das Date in dich interessiert ist. ## Warum das Thema wichtig ist
 
 körpersprache beim date lesen: was sein körper verrät ist relevant für viele Menschen, die sich in modernen Beziehungen bewegen oder neu ins Dating einsteigen.
 

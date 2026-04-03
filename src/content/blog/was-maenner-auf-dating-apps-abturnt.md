@@ -89,7 +89,7 @@ Statt dessen: Sag einfach nichts. Wenn du mit dem Match chattest und es wird kla
 
 ## 7. Aggressive oder negative Energie
 
-Manche Frauen verwenden ihren Bio um zu sagen was sie NICHT wollen. „Keine Alpha Males. Keine arroganten Typen. Keine Jungs die XXX."
+Manche Frauen verwenden ihren Bio um zu sagen was sie NICHT wollen. „Keine Alpha Males. Keine arroganten Typen. Keine Jungs die ."
 
 Das ist negativ. Das ist eine lange Liste von Dingen die die Frau nicht mag. Das schafft nicht positive Energie. Das schafft Frustration.
 

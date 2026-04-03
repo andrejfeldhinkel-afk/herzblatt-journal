@@ -27,7 +27,7 @@ faq:
 
 Das **Studium** ist eine magische Zeit für [dating](/blog/anzeichen-er-steht-auf-dich/) — besonders wenn es um connections geht. Du bist umgeben von **gleichgesinnten Menschen** deines Alters, hast **Freiheit** aber auch **Budget-Zwänge**, und es gibt jede Menge **soziale Ereignisse** und **Gelegenheiten**. Die Uni-Zeit ist oft der Zeitpunkt, wo Menschen ihre **ersten ernsthaften [Kennenlernen](/blog/dating-fragen-kennenlernen)
 
-### Klassische Uni-Orte
+## Klassische Uni-Orte
 
 **Vorlesungen und Seminare** sind offensichtlich. Sitze neben jemandem, mit dem du reden möchtest. Nach der Vorlesung könntest du sagen: "Hey, magst du Kaffee trinken und über das Thema sprechen?" Das funktioniert überraschend oft.
 

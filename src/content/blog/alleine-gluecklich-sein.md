@@ -188,3 +188,9 @@ Und wenn du es machst, wirst du bemerken: Einsamkeit verliert ihre Kraft.
 Und allein sein? Das wird einfach normal. Manchmal sogar schön.
 
 Das ist der Weg raus.
+
+## Weiterlesen
+
+- [Bindungsstil ändern: Wie du von unsicher zu sicher wirst](/blog/attachment-style-aendern-sicher-werden)
+- [Bindungsstile heilen: Von unsicher zu sicher](/blog/attachment-styles-heilen-guide)
+- [Codependenz erkennen und überwinden: Raus aus der](/blog/codependenz-erkennen-ueberwinden)

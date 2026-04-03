@@ -29,9 +29,7 @@ faq:
 
 MichVerlieben ist die Plattform für all jene, die es ernst meinen. Keine Spielchen, kein endloses Swipen, kein Casual Dating — hier geht es um echte, langfristige Beziehungen. Mit einem wissenschaftlichen Persönlichkeitstest und einer starken regionalen Suchfunktion positioniert sich MichVerlieben als die deutsche Alternative zu den teuren internationalen Partnervermittlungen.
 
-Unser ausführlicher Test über mehrere Monate zeigt: MichVerlieben hält, was es verspricht. Für wen die Plattform perfekt passt, welche Stärken und Schwächen sie hat, und ob es sich lohnt zu zahlen — alles erfahrt ihr in diesem umfassenden Erfahrungsbericht.
-
-## MichVerlieben auf einen Blick
+Unser ausführlicher Test über mehrere Monate zeigt: MichVerlieben hält, was es verspricht. Für wen die Plattform perfekt passt, welche Stärken und Schwächen sie hat, und ob es sich lohnt zu zahlen — alles erfahrt ihr ## MichVerlieben auf einen Blick
 
 MichVerlieben ist eine deutschsprachige Dating- und Partnervermittlungsplattform, die sich auf ernsthafte, langfristige Beziehungen spezialisiert hat. Im Gegensatz zu Swipe-Apps wie Tinder oder Bumble, wo es oft oberflächlich zugeht, bietet MichVerlieben einen strukturierten, wissenschaftlichen Ansatz zur Partnersuche.
 

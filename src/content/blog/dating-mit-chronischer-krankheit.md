@@ -43,6 +43,8 @@ Deine Krankheit ist Teil deines Lebens, aber es ist nicht deine ganze Identität
 
 Der erste Schritt im Dating mit einer chronischen Krankheit ist, diese Scham zu adressieren. Du musst anfangen zu glauben, dass du liebens wert bist – Krankheit und alles.
 
+## Strategien für nachhaltiges Dating
+
 ### Die praktische Seite: Energie-Management beim Dating
 
 Chronische Krankheit bedeutet oft, dass du weniger Energie hast als andere Menschen. Das beeinflusst dein Dating auf praktischen Ebenen.
@@ -132,6 +134,8 @@ Wenn dein Partner deine Krankheit akzeptiert und du weitermachst, wie ist es in 
 
 Das sind keine Dealbreaker – aber sie sind Realitäten zu verstehen und zu navigieren.
 
+## Selbstvertrauen und emotionale Vorbereitung
+
 ### Selbstwertgefühl und Dating
 
 Das Wichtigste ist, dass du glaubst, dass du würdig bist von Liebe.
@@ -163,3 +167,9 @@ Wenn du mit einer chronischen Krankheit datets, hier ist meine Empfehlung:
 Dating mit einer chronischen Krankheit ist eine andere Reise – aber es ist nicht weniger wert von Liebe, tiefe Verbindung und erfüllter Beziehung.
 
 Du wirst jemanden finden, der dich sieht – nicht nur deine Krankheit, sondern dich selbst. Und die Beziehung wird dafür tiefer sein.
+
+## Weiterlesen
+
+- [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
+- [Dating als pflegender Angehöriger](/blog/dating-als-pflegender-angehoeriger)
+- [Dating als schüchterne Person: Der komplette Guide](/blog/dating-als-schuechterne-person-guide)

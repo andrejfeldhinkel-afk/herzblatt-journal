@@ -4,7 +4,7 @@ description: "Dating in Innsbruck: Alpen-Romantik und Abenteuer. Entdecke die be
 date: 2025-05-19
 image: "/images/photos/dating-innsbruck.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "innsbruck"
   - "alpen"
 ---

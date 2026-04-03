@@ -253,9 +253,7 @@ Romance Scams funktionieren, weil echte menschliche Bedürfnisse real sind.
 
 Du möchtest jemanden lieben und von jemandem geliebt werden. Das ist nicht eine Schwäche. Das ist die beste Sache über die Menschheit.
 
-Aber in einer Welt, in der schlechte Menschen wissen, dass das wahr ist — du muss dich selbst schützen.
-
-Nicht, indem du dein Herz schließt. Aber indem du dein Herz mit Logik ausbalancierst.
+Aber Nicht, indem du dein Herz schließt. Aber indem du dein Herz mit Logik ausbalancierst.
 
 Vertrau, aber überprüfe. Lieb, aber frag nach. Öffne dich, aber bleib mit deinen Augen offen.
 

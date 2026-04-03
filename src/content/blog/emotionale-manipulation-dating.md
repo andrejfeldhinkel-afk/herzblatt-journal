@@ -32,6 +32,8 @@ Du fragst dich, was geändert hat. Du versuchst, besser zu sein, sie glücklich 
 
 Das ist Manipulation. Du wurdest bewegt, und jetzt versuchst du zu kontrollieren, durch Schuld, Unsicherheit, und Liebe-Bomben.
 
+## Manipulationstaktiken erkennen
+
 ## Die klassischen Tricks
 
 [Gaslighting](/blog/gaslighting-komplett-guide). Der Manipulator sagt dich, dass deine Wahrnehmung ist falsch. "Das nie geschah." "Du erinnerst falsch." "Du bist verrückt." Mit Zeit, du fängst an, dich selbst zu fragen. Du weißt nicht, was real ist.
@@ -47,6 +49,8 @@ Minimisierung. Wenn du beschwerdest über ihr Verhalten, sie sagen "Es ist nicht
 Die Stille Behandlung. Sie ignorieren dich wenn dich nicht tust, was sie wollen. Die Bestrafung ist Aufmerksamkeit-Entzug.
 
 Grooming dich. Sie kommen langsam mit Übergriffe oder Verhaltensweisen langsam ein, so dass dich gewöhnst. Das, das klein angefangen, wird größer, aber du merkst nicht.
+
+## Frühe Warnsignale erkennen
 
 ## Die Warnsignale
 
@@ -66,6 +70,8 @@ Sie sind sehr kontrollierend über kleine Dinge. Was dich anziehst. Wie dich spr
 
 Sie lügen, sogar über kleine Dinge. Das ist ein Muster von Unzuverlässigkeit.
 
+## Wie du reagieren solltest
+
 ## Wie zu antworte
 
 Wenn du merkst, dass dein Partner emotional manipulativ ist, was dust du?
@@ -84,6 +90,8 @@ Weitere Informationen findest du bei Neurologen und Psychiater im Netz: [Neurolo
 
 Mehr zum Thema erfährst du auf Therapie Portal: [Therapie Portal](https://www.therapie.de/)
 
+## Deine einzige echte Option
+
 ## Das Wichtigste: Verlass es
 
 Die ursächliche Wahrheit: du kannst nicht fix einen Manipulator. Das ist ihre Arbeit, nicht dein.
@@ -95,6 +103,8 @@ Die einzige Sache, die Sinn macht, ist zu gehen.
 Ich weiß, dass schwierig ist. Vielleicht liebst du diese Person. Vielleicht haben Sie Hoffnung, dass sie ändern könnte. Vielleicht fürchtest du, was Verlassung es bedeutet.
 
 Aber dein Sicherheit und Sanity kommt zuerst. Immer.
+
+## Heilung nach Manipulation
 
 ## Nach Manipulation
 

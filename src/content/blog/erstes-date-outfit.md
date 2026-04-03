@@ -4,9 +4,9 @@ description: "Erstes Date Outfit: Das richtige Anziehen. Praktische Tipps zur Kl
 date: 2025-08-07
 image: "/images/photos/erstes-date-outfit.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "erstes-date"
-  - "style"
+  - "Lifestyle"
 ---
 
 Du hast ein Date und der Schrank ist offen. T-Shirt, Pullover, Jeans – oder doch eleganter? Die Frage „Was ziehe ich an?" kann überraschend stressig sein. Aber hier ist die gute Nachricht: Es gibt keine perfekte Antwort. Es gibt nur die richtige Antwort für dich.

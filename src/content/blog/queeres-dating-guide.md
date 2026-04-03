@@ -18,9 +18,7 @@ author: "sarah-kellner"
 
 ## Queeres Dating: Ein vollständiger Guide
 
-Sicherheit, Authentizität und Liebe beim queeren Dating. In diesem Artikel werden wir tiefer in das Thema eintauchen und praktische Strategien erkunden.
-
-## Warum das Thema wichtig ist
+Sicherheit, Authentizität und Liebe beim queeren Dating. ## Warum das Thema wichtig ist
 
 queeres dating: ein vollständiger guide ist relevant für viele Menschen, die sich in modernen Beziehungen bewegen oder neu ins Dating einsteigen.
 

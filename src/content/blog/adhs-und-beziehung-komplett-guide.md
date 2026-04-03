@@ -1,5 +1,5 @@
 ---
-title: "ADHS und Beziehung: Der komplette Guide für Liebe mit"
+title: "ADHS und Beziehung: Der komplette Guide für Liebe"
 description: "ADHS in Beziehungen verstehen: Wie ADHS deine Partnerschaft beeinflusst, typische Konflikte und praktische Strategien für beide Partner."
 date: 2025-01-15
 tags:

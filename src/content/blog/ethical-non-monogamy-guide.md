@@ -134,3 +134,9 @@ Deine Liebespfade sind vielfältig. Lass dich nicht einengen.
 ---
 
 *Du möchtest mehr über alternative Beziehungsmodelle erfahren? Lies auch unseren Artikel über [Sexting in der Beziehung](./sexting-in-beziehung-guide.md) oder wie du [eine Ehekrise überwindest](./ehekrise-erkennen-loesen.md).*
+
+## Weiterlesen
+
+- [Abendroutine als Paar: 12 Ideen für mehr Nähe vor dem Sch...](/blog/abendroutine-als-paar)
+- [Beziehung auf Augenhoehe](/blog/beziehung-auf-augenhoehe-guide)
+- [Beziehung auffrischen: 30 Ideen die sofort wirken](/blog/beziehung-auffrischen-30-ideen)

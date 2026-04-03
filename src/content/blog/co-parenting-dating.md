@@ -22,9 +22,7 @@ Dies ist ein Artikel über co-parenting und dating: mit kindern neu anfangen. De
 
 ## Einleitung
 
-Co-Parenting und Dating: Mit Kindern neu anfangen ist ein wichtiges Thema in modernen Beziehungen und beim Dating. In diesem Artikel werden wir uns damit eingehend auseinandersetzen.
-
-## Die Grundlagen verstehen
+Co-Parenting und Dating: Mit Kindern neu anfangen ist ein wichtiges Thema in modernen Beziehungen und beim Dating. ## Die Grundlagen verstehen
 
 Bevor wir tiefer eintauchen, ist es wichtig, die Grundlagen zu verstehen. Jede Beziehung ist einzigartig, und das gilt auch für dieses Thema.
 

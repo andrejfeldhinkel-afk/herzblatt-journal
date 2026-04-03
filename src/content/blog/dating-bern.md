@@ -4,7 +4,7 @@ description: "Dating in Bern: Entdecke die besten Orte, Restaurants, Bars und ro
 date: 2025-05-02
 image: "/images/photos/dating-bern.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "bern"
   - "orte"
 ---

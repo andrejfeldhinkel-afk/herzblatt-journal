@@ -148,3 +148,9 @@ Hochzeitssprüche sind wie Hochzeitsgäste: Manche sind klassis, manche sind lus
 Die besten Hochzeitssprüche sind die, die das Paar ansieht und denkt: "Genau wir. Das versteht mich." Also: Nimm dir Zeit, wähle bewusst, und wenn du unsicher bist – schreib einfach deine eigenen Worte. Das wird am meisten gehört.
 
 Herzlichen Glückwunsch an alle, die sich trauen, die nächste Kapitel zusammen zu schreiben!
+
+## Weiterlesen
+
+- [Abendroutine als Paar: 12 Ideen für mehr Nähe vor dem Sch...](/blog/abendroutine-als-paar)
+- [Beige Flags — Die langweiligen Warnsignale beim Dating](/blog/beige-flags-dating-guide)
+- [Beziehung auf Augenhoehe](/blog/beziehung-auf-augenhoehe-guide)

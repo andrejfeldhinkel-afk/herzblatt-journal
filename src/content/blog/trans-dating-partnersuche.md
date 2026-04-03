@@ -1,5 +1,5 @@
 ---
-title: "Trans Dating: Partnersuche als trans Person — Ein"
+title: "Trans Dating: Partnersuche als trans Person"
 description: "Trans Dating: Alles was du wissen musst, um beim Dating selbstbewusst aufzutreten und die richtige Person zu finden."
 date: 2026-03-17
 image: "/images/blog/trans-dating-partnersuche.webp"

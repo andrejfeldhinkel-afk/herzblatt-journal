@@ -1,5 +1,5 @@
 ---
-title: "Trennung aber gleiche Wohnung: So überlebst du die"
+title: "Trennung aber gleiche Wohnung: So überlebst du"
 description: "Trennung gleiche Wohnung: Praktische Tipps zum Zusammenleben nach der Beziehung. Strategien für respektvolles Nebeneinander ohne Konflikt und Schmerz."
 date: 2025-12-15
 image: "/images/photos/trennung-mit-gemeinsamer-wohnung.webp"

@@ -1,5 +1,5 @@
 ---
-title: "Dating-Fotos selber machen: So fotografierst du dich mit dem"
+title: "Dating-Fotos selber machen: So fotografierst du dich"
 description: "Dating-Fotos selber machen mit dem Handy: Schritt-für-Schritt Anleitung für Beleuchtung, Posen, Locations und Bearbeitung — ohne Fotograf."
 date: 2025-05-27
 tags:

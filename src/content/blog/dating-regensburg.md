@@ -27,7 +27,7 @@ Du kennst das: regensburg. Dann geht es dir wie vielen anderen — und [Kennenle
 
 Das **Café am Haidplatz** ist ein wunderschönes, elegantes Café mit antiker Deko. Es fühlt sich an wie im 19. Jahrhundert, und der Kaffee sowie die Kuchen sind hervorragend. Ein bisschen formaleres, aber charmantest Café-Date.
 
-### Gehobene Restaurants
+## Gehobene Restaurants
 
 Das **Boyen's** ist ein gehobenes Restaurant direkt am Donauufer mit wunderschönem Blick auf die Altstadt. Die Küche ist modern-deutsch, die Atmosphäre elegant und romantisch. Wenn du einen speziellen Anlass feiern möchtest oder deinen Schwarm wirklich beeindrucken willst, ist das die richtige Wahl.
 

@@ -157,9 +157,7 @@ Wenn die Person interessiert ist und ihr euch verabredet habt, denk daran: Diese
 
 ## Die größere Lektion: Mut ist ansteckend
 
-Hier ist was ich dir wirklich sagen möchte: Der Akt des Ansprechens deines Schwarms ist mutig, egal wie es sich anfühlt. In einer Welt, in der die meisten Menschen hinter Bildschirmen verstecken, dich selbst zu machen und in Echtzeit interessiert zu zeigen – das ist Mut.
-
-Menschen merken Mut. Sie merken Authentizität. Sie merken, wenn jemand wirklich interessiert ist. Und das ist anziehend.
+Hier ist was ich dir wirklich sagen möchte: Der Akt des Ansprechens deines Schwarms ist mutig, egal wie es sich anfühlt. Menschen merken Mut. Sie merken Authentizität. Sie merken, wenn jemand wirklich interessiert ist. Und das ist anziehend.
 
 Du brauchst nicht die perfekten Wörter. Du brauchst nicht das perfekte Timing. Du brauchst nicht eine Pickup-Line oder eine Strategie. Du brauchst einfach den Mut, wahrhaft zu sein.
 

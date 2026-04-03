@@ -26,8 +26,6 @@ Du fragst dich manchmal, warum du in Beziehungen immer wieder die gleichen Muste
 
 Die Bindungstheorie ist eines der spannendsten Konzepte der modernen Psychologie – und sie erklärt so vieles über dein Beziehungsleben. Egal ob du gerade Single bist, eine neue Beziehung beginnst oder in einer langfristigen Partnerschaft lebst: Das Verständnis deines Bindungstyps wird dein Liebesleben transformieren.
 
-In diesem umfassenden Guide werden wir gemeinsam deine Bindungsmuster entdecken, verstehen, wo sie herkommen – und vor allem: wie du sie zum Besseren verändern kannst.
-
 ## Die Anfänge der Bindungstheorie: Eine Geschichte der wissenschaftlichen Entdeckung
 
 Lass mich mit einer Geschichte beginnen. Es war der britische Psychiater John Bowlby in den 1950er Jahren, der etwas Revolutionäres herausfand. Er untersuchte Kinder, die von ihren Eltern getrennt waren – und beobachtete etwas Faszinierendes: Diese Kinder entwickelten emotionale Probleme, die ihre Beziehungsfähigkeit im späteren Leben beeinflussen würden.

@@ -24,7 +24,7 @@ Vor 20 Jahren war es unvorstellbar, sich jemanden ohne Handy-Nummer anzusehen. V
 
 Technologie hat unsere Liebesfähigkeit nicht zerstört – aber sie hat sie definitiv verändert. Und nicht immer zum Besseren.
 
-In diesem umfassenden Ratgeber erforschen wir, wie die digitale Welt unsere Liebe beeinflusst. Wir schauen auf die guten Seiten (ja, es gibt sie), die schlechten Seiten (es gibt viele) und wie du deine Beziehung im digitalen Zeitalter schützen kannst.
+Wir schauen auf die guten Seiten (ja, es gibt sie), die schlechten Seiten (es gibt viele) und wie du deine Beziehung im digitalen Zeitalter schützen kannst.
 
 ## Die positiven Effekte: Wie Technologie Liebe ermöglicht
 

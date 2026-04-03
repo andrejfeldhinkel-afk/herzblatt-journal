@@ -130,3 +130,8 @@ Hör auf dich selbst. Sprich es aus. Dann entscheide gemeinsam mit deinem Partne
 
 Wenn er nicht bereit ist, mitzumachen? Das ist deine Antwort.
 
+## Weiterlesen
+
+- [Abenteuer-Dates: Adrenalin stärkt die Bindung](/blog/abenteuer-dates-adrenalin)
+- [Emotionale Abhängigkeit vom Partner lösen](/blog/abhaengigkeit-vom-partner-loesen)
+- [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide)

@@ -1,5 +1,5 @@
 ---
-title: "Dating Coach: Lohnt sich das?"
+title: "Dating Coach: Lohnt sich"
 description: "Dating Coach: Lohnt sich das? — Praktische Dating-Ratschläge, die wirklich funktionieren. Von Experten empfohlen."
 keywords: ["dating coach", "dating", "flirten", "dating coach:", "coach: lohnt", "lohnt sich"]
 date: 2025-10-11

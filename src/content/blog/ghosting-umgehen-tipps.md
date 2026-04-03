@@ -13,7 +13,7 @@ imageAlt: "Ghosting verstehen und damit umgehen: Psychologie und Heilung"
 ---
 Das schlimmste Gefühl beim Dating ist, einfach ignoriert zu werden. Eine Person, mit der du Chemie hattest, mit der du lachtest und sprachest, verschwindet plötzlich. Keine Erklärung, keine Abschlussnachricht – nur Stille. Dies ist [Ghosting](/blog/ghosting-komplett-guide). Es ist verletzend, verwirrend und lässt dich fragen: "Was ist falsch mit mir?" Dieser Ratgeber enthüllt die [geghostet](/blog/ghosting-ueberwinden)" denke "Jemand unreifer hat sich selbst als nicht würdig gezeigt". Das ist nicht über dich, das ist über sie.
 
-### Lerne von der Erfahrung (wenn möglich)
+## Lerne von der Erfahrung (wenn möglich)
 
 Gab es rote Flaggen, die du übersehen hast? Warst du zu schnell emotional involviert? Diese Lektionen sind wertvoll für zukünftiges Dating. Aber keine Selbstverurteilung – nur Wachstum.
 

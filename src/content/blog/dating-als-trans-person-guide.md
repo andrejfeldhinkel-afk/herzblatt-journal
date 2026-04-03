@@ -27,9 +27,7 @@ faq:
 
 ## Dating als Trans-Person: Liebe, Akzeptanz und ehrliche Gespräche
 
-Dating als trans person ist ein Thema, das viele Menschen in der Transgender-Gemeinschaft mit Unsicherheit, Hoffnung und manchmal auch Angst angehen. Die Welt der modernen Partnersuche stellt trans Personen vor einzigartige Herausforderungen: Wie oute ich mich? Wann ist der richtige Zeitpunkt? Wie finde ich Menschen, die mich wirklich akzeptieren? Diese Fragen beschäftigen dich möglicherweise intensiv. In diesem umfassenden Ratgeber wollen wir dir konkrete Strategien, emotionale Unterstützung und praktische Tipps geben, die dir helfen, die Welt des Datings sicherer und erfüllter zu erleben.
-
-Das Besondere an diesem Artikel ist, dass er nicht von Theorie spricht, sondern von echten Erfahrungen, bewährten Methoden und einem ehrlichen Umgang mit den emotionalen Realitäten, die damit einhergehen. Ob du gerade anfängst, dich zu outen, bereits einige Dating-Erfahrungen hast oder einfach dein Selbstvertrauen stärken möchtest – hier findest du konkrete Unterstützung. Lass uns gemeinsam schauen, wie du mit Authentizität, Grenzenklarheit und innerer Sicherheit die Liebe findest, die du verdienst.
+Dating als trans person ist ein Thema, das viele Menschen in der Transgender-Gemeinschaft mit Unsicherheit, Hoffnung und manchmal auch Angst angehen. Die Welt der modernen Partnersuche stellt trans Personen vor einzigartige Herausforderungen: Wie oute ich mich? Wann ist der richtige Zeitpunkt? Wie finde ich Menschen, die mich wirklich akzeptieren? Diese Fragen beschäftigen dich möglicherweise intensiv. Das Besondere an diesem Artikel ist, dass er nicht von Theorie spricht, sondern von echten Erfahrungen, bewährten Methoden und einem ehrlichen Umgang mit den emotionalen Realitäten, die damit einhergehen. Ob du gerade anfängst, dich zu outen, bereits einige Dating-Erfahrungen hast oder einfach dein Selbstvertrauen stärken möchtest – hier findest du konkrete Unterstützung. Lass uns gemeinsam schauen, wie du mit Authentizität, Grenzenklarheit und innerer Sicherheit die Liebe findest, die du verdienst.
 
 ## Die innere Vorbereitung: Selbstakzeptanz als Fundament
 

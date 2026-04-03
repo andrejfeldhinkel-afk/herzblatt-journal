@@ -5,9 +5,9 @@ description: "Dating als Alleinerziehender: Praktische Tipps für deine Partners
 date: 2025-04-19
 image: "/images/photos/dating-als-alleinerziehend.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "alleinerziehend"
-  - "ratgeber"
+  - "Ratgeber"
 ---
 
 ## dating Als Alleinerziehende/r: Tipps Für Die Partnersuche

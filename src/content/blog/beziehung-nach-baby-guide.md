@@ -147,3 +147,9 @@ Die Paare, die scheitern, sind normalerweise die, die nicht kommunizieren. Die, 
 Ihr zwei – ihr könnt das schaffen. Es wird nicht einfach sein. Aber es wird lohnen.
 
 Eure Beziehung wird anders sein. Aber anders ist nicht schlecht. Anders ist einfach echt.
+
+## Weiterlesen
+
+- [Neuen Partner den Kindern vorstellen: So geht''s richtig](/blog/alleinerziehend-partner-vorstellen)
+- [Grenzen setzen gegenüber narzisstischen Eltern](/blog/beziehung-grenzen-narzisstischer-eltern)
+- [Unterschiedlicher Kinderwunsch](/blog/beziehung-kinderwunsch-unterschiedlich)

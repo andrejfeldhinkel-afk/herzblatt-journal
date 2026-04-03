@@ -25,7 +25,7 @@ Die meisten Dating-Apps folgen dem gleichen Muster: Du wischst, Männer schreibe
 
 Das klingt einfach, hat aber tiefgreifende Auswirkungen. Weniger Belästigung, weniger lästige Massensprüche, mehr Qualität. Ob du allein suchst, Freunde finden möchtest oder dich beruflich vernetzen willst – Bumble hat für alles einen Modus.
 
-In diesem umfassenden Guide zeige ich dir, wie Bumble funktioniert, wie du dein Profil optimierst, welche strategischen Tipps wirklich helfen und wie du die verschiedenen Modi beste nutzt. Lass mich dir helfen, Bumble zu meistern.
+Lass mich dir helfen, Bumble zu meistern.
 
 ## Das Bumble-Konzept: Warum Frauen den ersten Schritt machen
 

@@ -5,8 +5,8 @@ description: "Introvertiert liebt Extrovertiert: Wie Introvertierte und Extrover
 date: 2025-05-22
 image: "/images/photos/dating-introvertiert-extrovertiert.webp"
 tags:
-  - "beziehung"
-  - "psychologie"
+  - "Beziehung"
+  - "Psychologie"
   - "liebe"
 ---
 

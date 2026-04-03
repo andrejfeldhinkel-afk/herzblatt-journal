@@ -27,7 +27,7 @@ faq:
 
 ## Dating in Wien: Die romantischsten Orte der Donaumetropole
 
-Wien, die Hauptstadt Österreichs, gilt weltweit als eine der romantischsten Städte Europas. Das ist kein Wunder: Mit ihren prachtvollen Schlössern, gemütlichen Kaffeehäusern und der majestetischen Donau bietet die Donaumetropole unzählige Möglichkeiten für unvergessliche Dating-Erlebnisse. Wenn du in Wien single bist oder jemanden beeindrucken möchtest, sind die Dating-Möglichkeiten hier endlos. In diesem umfassenden Guide zeigen wir dir die besten Orte, Restaurants und Aktivitäten für dein perfektes Date in Wien. Egal ob du einen ersten Eindruck hinterlassen möchtest oder bereits in einer Beziehung bist und die Flamme neu entfachen möchtest – Wien hat für jeden das Richtige zu bieten.
+Wien, die Hauptstadt Österreichs, gilt weltweit als eine der romantischsten Städte Europas. Das ist kein Wunder: Mit ihren prachtvollen Schlössern, gemütlichen Kaffeehäusern und der majestetischen Donau bietet die Donaumetropole unzählige Möglichkeiten für unvergessliche Dating-Erlebnisse. Wenn du in Wien single bist oder jemanden beeindrucken möchtest, sind die Dating-Möglichkeiten hier endlos. Egal ob du einen ersten Eindruck hinterlassen möchtest oder bereits in einer Beziehung bist und die Flamme neu entfachen möchtest – Wien hat für jeden das Richtige zu bieten.
 
 ## Klassische Romantik: Schönbrunn und Schloss Schönbrunn
 
@@ -127,7 +127,7 @@ Sei nicht zu aufdringlich oder zu schnell. Wiener schätzen einen langsamen, res
 
 ## Sicherheit beim Online-Dating in Wien
 
-In der heutigen Zeit ist Online-Dating in Wien sehr verbreitet. Wenn du über Apps daten, beachte ein paar Sicherheitsmaßnahmen.
+Wenn du über Apps daten, beachte ein paar Sicherheitsmaßnahmen.
 
 Teile deine genaue Adresse erst, wenn du der Person wirklich vertraust. Treffe dich zum ersten Date immer an einem öffentlichen Ort. Informiere einen Freund, wo du bist und mit wem du dich triffst.
 

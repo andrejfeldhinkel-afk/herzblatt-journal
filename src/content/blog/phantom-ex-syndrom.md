@@ -29,8 +29,6 @@ Dies ist das Phantom-Ex-Syndrom – eine psychologische Bindung zu jemandem, der
 
 Das Phantom-Ex-Syndrom ist nicht nur emotionales Drama oder eine vorübergehende Schwäche. Es ist eine reale neurologische und psychologische Reaktion. Dein Gehirn hat neuronale Bahnen aufgebaut, die diese Person als wesentlich für dein Wohlbefinden angesehen haben. Diese Bahnen verschwinden nicht sofort, wenn die Beziehung endet. Sie verbleiben bestehen und können für Jahre aktiv bleiben, wenn du nicht bewusst daran arbeitest, sie zu unterbrechen.
 
-In diesem umfassenden Artikel werden wir die psychologischen Gründe dahinter erkunden, warum Menschen nicht loslassen können, die verschiedenen Typen des Phantom-Ex-Syndroms identifizieren, und praktische, evidenzbasierte Strategien bereitstellen, um wirklich zu heilen und voranzukommen.
-
 ## Teil 1: Die Neurowissenschaft des Phantom-Ex
 
 ### Warum es so schwer ist, einen Ex zu vergessen

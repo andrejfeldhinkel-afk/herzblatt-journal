@@ -50,7 +50,7 @@ Breadcrumbing ist keine neue Strategie, aber die digitale Ära hat es vereinfach
 
 Die Psychologie dahinter ist einfach: Der Breadcrumber möchte die Option nicht aufgeben. Du bist praktisch wie eine Versicherungspolice. Vielleicht ist der Breadcrumber mit jemandem zusammen, aber möchte Dich als Backup-Option behalten. Oder vielleicht ist er emotional nicht bereit für eine Beziehung, möchte aber die emotionale Bestätigung, die er von Deiner Aufmerksamkeit bekommt.
 
-In einer Welt, in der es immer mehr Menschen gibt, die man kontaktieren kann, und in der es einfach ist, oberflächliche Verbindungen zu pflegen, ist Breadcrumbing zur Norm geworden. Es ist niedrig-Aufwand, aber für Dich hochschädlich.
+Es ist niedrig-Aufwand, aber für Dich hochschädlich.
 
 ## Erkennungszeichen: Wie Du Breadcrumbing erkennen kannst
 

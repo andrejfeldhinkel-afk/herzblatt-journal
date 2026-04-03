@@ -22,9 +22,7 @@ Dies ist ein Artikel über beziehungstypen: ein überblick. Der Artikel bietet p
 
 ## Einleitung
 
-Beziehungstypen: Ein Überblick ist ein wichtiges Thema in modernen Beziehungen und beim Dating. In diesem Artikel werden wir uns damit eingehend auseinandersetzen.
-
-## Die Grundlagen verstehen
+Beziehungstypen: Ein Überblick ist ein wichtiges Thema in modernen Beziehungen und beim Dating. ## Die Grundlagen verstehen
 
 Bevor wir tiefer eintauchen, ist es wichtig, die Grundlagen zu verstehen. Jede Beziehung ist einzigartig, und das gilt auch für dieses Thema.
 

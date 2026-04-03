@@ -27,9 +27,7 @@ faq:
 
 ## Die 5 Sprachen der Liebe: Verstehe was dein Partner wirklich braucht
 
-Liebst du deinen Partner, aber fühlt er sich nicht verstanden? Oder ist es umgekehrt – dein Partner zeigt dir auf vielfältige Weise Liebe, doch irgendwie berührt es dich nicht richtig? Die Antwort liegt möglicherweise in den verschiedenen **Sprachen der Liebe**. Dieses revolutionäre Konzept, das der Beziehungsexperte Dr. Gary Chapman entwickelt hat, verändert Millionen von Beziehungen weltweit. In diesem umfassenden Guide erfährst du, wie die **5 Sprachen der Liebe** funktionieren, wie du deine eigene Liebessprache erkennst und wie du damit deine Beziehung transformieren kannst.
-
-## Was sind die 5 Sprachen der Liebe?
+Liebst du deinen Partner, aber fühlt er sich nicht verstanden? Oder ist es umgekehrt – dein Partner zeigt dir auf vielfältige Weise Liebe, doch irgendwie berührt es dich nicht richtig? Die Antwort liegt möglicherweise in den verschiedenen **Sprachen der Liebe**. Dieses revolutionäre Konzept, das der Beziehungsexperte Dr. Gary Chapman entwickelt hat, verändert Millionen von Beziehungen weltweit. ## Was sind die 5 Sprachen der Liebe?
 
 Die Theorie der **Sprachen der Liebe** basiert auf einer einfachen, aber revolutionären Idee: Nicht jeder zeigt und empfängt Liebe auf die gleiche Weise. Menschen haben unterschiedliche emotionale Bedürfnisse und unterschiedliche Wege, wie sie sich geliebt fühlen. Dr. Gary Chapman hat in seiner jahrelangen Praxis mit Paaren beobachtet, dass es fünf primäre Wege gibt, in denen Menschen Liebe ausdrücken und wahrnehmen.
 

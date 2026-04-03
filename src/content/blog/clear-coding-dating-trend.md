@@ -1,5 +1,5 @@
 ---
-title: "Clear Coding im Dating: Die ehrliche Kommunikation, die"
+title: "Clear Coding im Dating: Die ehrliche Kommunikation"
 description: "Clear Coding erklärt: Was ist es? Warum wollen 70% der Singles es? Schritt-für-Schritt Anleitung + Beispiel-Gespräche aus der Parship-Studie 2026."
 keywords: ["clear coding im dating", "dating", "kommunikation", "vertrauen", "clear coding", "coding dating:"]
 tags:

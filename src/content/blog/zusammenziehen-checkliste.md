@@ -38,7 +38,7 @@ Das ist zu schnell. Euer Liebe-Gehirn trübt euer Urteil. Nach mindestens einem 
 
 Zusammenziehen ist nicht das Gleiche wie Dating. Es offenbart Dinge, die Dating nicht tut.
 
-### Fehler 2: Nicht über Geld sprechen
+## Fehler 2: Nicht über Geld sprechen
 
 Das ist der häufigste Fehler. Paare vermeiden Geldgespräche, weil es unbequem ist. Dann, nach dem Umzug, finden sie heraus, dass sie völlig unterschiedliche Ansichten haben.
 

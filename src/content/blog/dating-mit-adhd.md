@@ -18,17 +18,19 @@ faq:
     answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
   - question: "Wo finde ich Hilfe zum Thema dating mit adhs?"
     answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
----## Dating mit ADHS
+---## Dating mit ADHS: Die Achterbahn der Intensität
 
-Du siehst jemanden, und plötzlich ist diese Person die wichtigste Person in deinem Leben. Du denkst nur noch an sie, planst euer erstes Date mit Perfektionismus, schreibst Nachrichten, die mehrere Seiten lang sind. Das ist Hyperfocus — und es ist einer der intensivsten, wundervollsten und gleichzeitig anstrengendsten Aspekte des ADHS-Datings.
+Du siehst jemanden, und plötzlich ist diese Person die wichtigste Person in deinem Leben. Du denkst nur noch an sie, planst euer erstes Date mit Perfektionismus, schreibst Nachrichten, die mehrere Seiten lang sind — romantische, durchdachte, intensiv ehrliche Nachrichten. Das ist Hyperfocus — und es ist einer der intensivsten, wundervollsten und gleichzeitig anstrengendsten Aspekte des ADHS-Datings.
 
-## Hyperfocus in der frühen Fase
+Wenn du ADHS hast, wissen viele andere ADHSler genau, was du meinst. Wenn du es nicht hast, könnte es sich wie eine ungesunde Obsession anfühlen. Es ist nicht. Es ist dein Gehirn, das nicht richtig zwischen "ich interessiere mich für diese Person" und "diese Person ist mein neuer Hyperfocus-Objekt" unterscheidet.
 
-Das Hyperfocus-Phänomen ist für viele ADHSler ein Segen und ein Fluch. In den frühen Phasen einer neuen [beziehung](/blog/adhs-und-beziehung-komplett-guide/) kann deine intensive Aufmerksamkeit, deine Kreativität, dein Enthusiasmus absolut anziehend wirken. Du machst durchdachte, überraschende Dinge. Du vergisst die Welt um dich herum.
+## Hyperfocus in der frühen Phase: Das Segen-und-Fluch-Phänomen
 
-Das Problem: Das ist nicht nachhaltig. Nach drei bis sechs Monaten verschwindet der Hyperfocus-Newlywed-Effekt. Die Realität setzt ein — du vergisst wieder Verabredungen, dein Zimmer ist ein Chaos, du vergisst zu antworten. Dein Partner fühlt sich dann möglicherweise verletzt, obwohl du nicht weniger liebst, sondern nur weniger hyperfokussierst.
+Das Hyperfocus-Phänomen ist für viele ADHSler ein echtes Segen-und-Fluch-Dynamik. In den frühen Phasen einer neuen Beziehung kann deine intensive Aufmerksamkeit, deine Kreativität, dein ehrlicher Enthusiasmus absolut attraktiv wirken. Du machst durchdachte, überraschende Dinge — du merkst dir kleine Details, die sie gesagt hat, und bringst ihr später deren Lieblingskaffee mit. Du vergisst die Welt um dich herum. Für die andere Person fühlt sich das wie "wow, diese Person liebt mich wirklich" an.
 
-Die Lösung ist nicht, den Hyperfocus beizubehalten — das ist unmöglich. Die Lösung ist, das Gespräch zu führen: "Du siehst, wenn wir uns gerade treffen, bin ich total bei dir. Aber das wird normalerweise nicht so sein. Das ist ADHS, nicht fehlende Liebe. Ich brauche Strukturen und Reminders, um dich nicht zu vergessen, auch wenn ich dich im Herzen nicht vergesse."
+Das ist nicht falsch. Du liebst sie wahrscheinlich auch. Aber hier ist das Problem: Das ist nicht nachhaltig. Nach drei bis sechs Monaten — manchmal nach drei Wochen — verschwindet der Hyperfocus-Newlywed-Effekt. Die Realität setzt ein. Du vergisst wieder Verabredungen, nicht, weil du sie nicht magst, sondern weil dein ADHS-Gehirn auf das nächste Projekt springt. Dein Zimmer ist plötzlich wieder ein Chaos. Du vergisst zu antworten, nicht absichtlich, sondern weil deine Aufmerksamkeit woanders ist. Dein Partner fühlt sich verletzt und verwirrt: "Was ist mit dir passiert? Du hast dich so schnell verändert."
+
+Die Lösung ist nicht, den Hyperfocus beizubehalten — das ist psychologisch unmöglich. Die Lösung ist Kommunikation und Erwartungsverwaltung. Das Gespräch könnte so aussehen: "Ich muss dir etwas erklären, das mit ADHS zu tun hat. Im Moment, wenn wir zusammen sind, bin ich zu hundert Prozent präsent und bei dir. Aber das wird irgendwann normalerweise nicht so sein. Das ist nicht, weil ich dich weniger liebe. Das ist mein ADHS-Gehirn, das sich ablenkt. Ich brauche Strukturen und Reminders — vielleicht eine Erinnerung in meinem Handy, dass ich dich anrufe, oder ein fester Wochentag zum Treffen — um dich nicht zu vergessen, auch wenn ich dich im Herzen nie vergesse."
 
 ## Die Herausforderungen in der kommunikation
 

@@ -15,9 +15,7 @@ imageAlt: "Zwei Menschen sitzen sich gegenüber und sprechen über ihre Gefühle
 
 Die Hände werden feuchtkalt, der Herzschlag beschleunigt sich, und die Worte bleiben dir im Hals stecken. Du möchtest deine Gefühle gestehen, weißt aber nicht, wie du anfangen sollst. Diese Situation kennt wohl jeder, der sich unsterblich [verliebt](/blog/mann-verliebt-anzeichen-komplett) hat – und genau darum geht es in diesem Artikel.
 
-Deine Gefühle zu gestehen ist einer der mutigsten Schritte, die du gehen kannst. Es braucht Überwindung, Verletzlichkeit und den Mut, abgelehnt werden zu können. Aber es braucht auch Klarheit, gute Vorbereitung und die richtigen Worte. In diesem umfassenden Ratgeber zeige ich dir, wie du deine Gefühle gestehen kannst – ohne dabei die Kontrolle über dich zu verlieren.
-
-## Warum es so schwer ist, Gefühle zu gestehen
+Deine Gefühle zu gestehen ist einer der mutigsten Schritte, die du gehen kannst. Es braucht Überwindung, Verletzlichkeit und den Mut, abgelehnt werden zu können. Aber es braucht auch Klarheit, gute Vorbereitung und die richtigen Worte. ## Warum es so schwer ist, Gefühle zu gestehen
 
 Bevor wir zu den praktischen Tipps kommen, lohnt es sich zu verstehen, *warum* es uns überhaupt so schwerfällt, unsere Gefühle zu offenbaren.
 

@@ -20,9 +20,7 @@ faq:
 
 ## Trauma und Beziehung: Wie Verletzungen die Liebe beeinflussen
 
-Das Trauma ist ein unsichtbarer Begleiter in vielen Beziehungen. Es wirkt sich auf die Art und Weise aus, wie du dich liebst, wie du vertraust und wie du dich in der Nähe anderer Menschen fühlen kannst. Wenn du eine Beziehung mit jemandem führst, der traumatisiert ist, oder wenn du selbst mit Traumafolgen kämpfst, wirst du verstehen, dass dies eine der größten Herausforderungen sein kann, denen sich Paare gegenübersehen. In diesem umfassenden Guide erforschen wir die tiefgreifende Beziehung zwischen Trauma und Liebe und zeigen dir praktische Wege auf, wie du und dein Partner zusammen heilen könnt.
-
-Die Verbindung zwischen Trauma und Beziehungsdynamiken ist komplex und vielschichtig. Nicht alle traumatischen Erfahrungen wirken sich auf dieselbe Weise auf Beziehungen aus, doch gibt es wiederkehrende Muster, die sich bei vielen Menschen manifestieren. Dieses Verständnis ist der erste Schritt auf dem Weg zur Heilung und zum Aufbau einer liebevollen, vertrauensvollen Partnerschaft.
+Das Trauma ist ein unsichtbarer Begleiter in vielen Beziehungen. Es wirkt sich auf die Art und Weise aus, wie du dich liebst, wie du vertraust und wie du dich in der Nähe anderer Menschen fühlen kannst. Wenn du eine Beziehung mit jemandem führst, der traumatisiert ist, oder wenn du selbst mit Traumafolgen kämpfst, wirst du verstehen, dass dies eine der größten Herausforderungen sein kann, denen sich Paare gegenübersehen. Die Verbindung zwischen Trauma und Beziehungsdynamiken ist komplex und vielschichtig. Nicht alle traumatischen Erfahrungen wirken sich auf dieselbe Weise auf Beziehungen aus, doch gibt es wiederkehrende Muster, die sich bei vielen Menschen manifestieren. Dieses Verständnis ist der erste Schritt auf dem Weg zur Heilung und zum Aufbau einer liebevollen, vertrauensvollen Partnerschaft.
 
 ## Was ist Trauma und wie entsteht es in Beziehungen?
 

@@ -1,5 +1,5 @@
 ---
-title: "Fernbeziehung — Der ultimative Guide zum Überleben und"
+title: "Fernbeziehung — Der ultimative Guide zum Überleben"
 description: "Vollständiger Guide für Fernbeziehungen: Tipps zum Überleben und zur Vertiefung deiner Fernbeziehung."
 date: 2026-03-16
 tags: ["Beziehung", "Fernbeziehung", "Ratgeber"]

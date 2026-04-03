@@ -1,5 +1,5 @@
 ---
-title: "Streitkultur in der Beziehung: So streitet ihr fair und"
+title: "Streitkultur in der Beziehung: So streitet ihr fair"
 description: "Fair streiten in der Beziehung lernen: Praktische Techniken, die Gottman-Methode und Tipps für konstruktive Konflikte statt Verletzungen."
 date: 2025-12-15
 image: "/images/photos/streitkultur-beziehung.webp"

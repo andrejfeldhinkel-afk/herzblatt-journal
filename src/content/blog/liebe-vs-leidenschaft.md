@@ -4,7 +4,7 @@ description: "Liebe vs. Leidenschaft: Braucht eine erfüllende Beziehung das Feu
 date: 2025-09-30
 image: "/images/photos/liebe-vs-leidenschaft.webp"
 tags:
-  - "Liebe"
+  - "liebe"
   - "Leidenschaft"
   - "Psychologie"
   - "Beziehungstipps"

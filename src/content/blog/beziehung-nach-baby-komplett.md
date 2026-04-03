@@ -31,8 +31,6 @@ Ihr seid plötzlich verantwortlich für einen kleinen Menschen, der 24 Stunden a
 
 Aber hier ist die gute Nachricht: Mit bewusstem Arbeiten, mit Verständnis und mit ein paar konkreten Strategien können Paare nicht nur überleben, sondern ihre Beziehung stärker aus dieser Zeit herauskommen.
 
-In diesem umfassenden Guide zeige ich dir genau wie.
-
 ## Die Wahrheit über Elternschaft und Beziehungen
 
 Bevor wir zu Strategien gehen, müssen wir uns der Wahrheit stellen.

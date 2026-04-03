@@ -81,7 +81,7 @@ Beide geben das Gefühl, nicht gut genug zu sein.
 
 ### Vergleich mit anderen
 
-Besonders in der heutigen Zeit der sozialen Medien vergleichen wir uns ständig mit anderen. Du siehst die beste Version von anderen Menschen – ihre Erfolge, ihre Körper, ihre Beziehungen. Und du vergleichst das mit deiner Realität. Die Realität verliert immer.
+Besonders Du siehst die beste Version von anderen Menschen – ihre Erfolge, ihre Körper, ihre Beziehungen. Und du vergleichst das mit deiner Realität. Die Realität verliert immer.
 
 ## Die 5 Säulen der Selbstliebe
 

@@ -18,9 +18,7 @@ author: "sarah-kellner"
 
 ## Langzeitbeziehung aufpeppen: Wenn die Flamme verblasst
 
-Wie du wieder Spannung in eine lange Beziehung bringst. Ideen für Abenteuerlust. In diesem Artikel werden wir tiefer in das Thema eintauchen und praktische Strategien erkunden.
-
-## Warum das Thema wichtig ist
+Wie du wieder Spannung in eine lange Beziehung bringst. Ideen für Abenteuerlust. ## Warum das Thema wichtig ist
 
 langzeitbeziehung aufpeppen: wenn die flamme verblasst ist relevant für viele Menschen, die sich in modernen Beziehungen bewegen oder neu ins Dating einsteigen.
 

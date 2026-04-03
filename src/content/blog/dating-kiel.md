@@ -4,7 +4,7 @@ description: "Dating in Kiel: Maritimes Flair für perfekte Dates. Hafen, Strän
 date: 2025-05-26
 image: "/images/photos/dating-kiel.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "dating-spots"
   - "kiel"
 ---

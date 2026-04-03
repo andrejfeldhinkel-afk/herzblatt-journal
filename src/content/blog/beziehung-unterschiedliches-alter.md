@@ -1,5 +1,5 @@
 ---
-title: "Altersunterschied in Beziehungen: Chancen und"
+title: "Altersunterschied in Beziehungen: Chancen"
 description: "Wie Altersunterschiede Beziehungen beeinflussen. Gesellschaftliche Vorurteile, Lebensphasen."
 date: 2025-03-20
 image: "/images/photos/beziehung-unterschiedliches-alter.webp"

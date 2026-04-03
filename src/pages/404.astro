@@ -2,7 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
-<BaseLayout title="Seite nicht gefunden — Herzblatt Journal" description="Die gesuchte Seite wurde leider nicht gefunden.">
+<BaseLayout title="Seite nicht gefunden — Herzblatt Journal" description="Die gesuchte Seite wurde leider nicht gefunden." noindex={true}>
   <!-- Auto-redirect for old /tags/* URLs -->
   <script is:inline>
     if (window.location.pathname.startsWith('/tags/') && window.location.pathname !== '/tags/') {

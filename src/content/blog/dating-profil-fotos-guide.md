@@ -21,7 +21,7 @@ faq:
 
 ## Dating-Profil Fotos: Was wirklich Matches bringt
 
-Dein erstes Foto entscheidet in 0,3 Sekunden über links oder rechts. Das ist nicht fair — aber es ist die biologische Realität von Dating in der heutigen Zeit. Das menschliche Gehirn braucht weniger als eine Sekunde, um zu entscheiden, ob dich jemand attraktiv findet. Die gute Nachricht: Du brauchst kein Model-Gesicht. Du brauchst gute Fotos. Und die kann jeder machen.
+Dein erstes Foto entscheidet in 0,3 Sekunden über links oder rechts. Das ist nicht fair — aber es ist die biologische Realität von Online-Dating. Das menschliche Gehirn braucht weniger als eine Sekunde, um zu entscheiden, ob dich jemand attraktiv findet. Die gute Nachricht: Du brauchst kein Model-Gesicht. Du brauchst gute Fotos. Und die kann jeder machen.
 
 Das ist vielleicht das Wichtigste beim Online-Dating: Die Qualität deiner Fotos bestimmt deine Chancen, nicht dein Aussehen. Ich habe es tausendmal gesehen. Zwei Menschen mit ähnlichem Aussehen, aber einer bekommt 100 Matches und der andere 10, nur weil die Fotos besser sind.
 

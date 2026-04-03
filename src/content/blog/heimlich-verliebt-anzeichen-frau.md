@@ -98,7 +98,7 @@ Das ist ein großes Zeichen.
 
 ## Wie unterscheiden sich Länge und Konsistenz dieser Anzeichen?
 
-Es ist wichtig zu beachten: Die Konsistenz und Länge sind entscheidend. Ein Anzeichen könnte Zufall sein. Mehrere Anzeichen über längere Zeit hinweg sind ein klares Muster.
+: Die Konsistenz und Länge sind entscheidend. Ein Anzeichen könnte Zufall sein. Mehrere Anzeichen über längere Zeit hinweg sind ein klares Muster.
 
 Wenn du mehrere dieser Anzeichen über Wochen oder Monate siehst, dann ist es sehr wahrscheinlich, dass sie heimlich verliebt ist.
 

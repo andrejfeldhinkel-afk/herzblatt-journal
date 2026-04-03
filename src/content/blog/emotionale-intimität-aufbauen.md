@@ -4,8 +4,8 @@ description: "Emotionale Intimität aufbauen: Lerne echte Verbindung zu schaffen
 date: 2025-07-27
 image: "/images/photos/emotionale-intimität-aufbauen.webp"
 tags:
-  - "beziehung"
-  - "intimität"
+  - "Beziehung"
+  - "Intimität"
   - "nähe"
 draft: true
 ---

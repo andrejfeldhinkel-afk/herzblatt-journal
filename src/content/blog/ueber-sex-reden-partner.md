@@ -1,5 +1,5 @@
 ---
-title: "Über Sex reden: So sprichst du Wünsche offen an"
+title: "Über Sex reden: So sprichst du Wünsche offen"
 description: "Über Sex reden ist unbequem? Nicht wenn du diese Strategien nutzt. Lerne, wie du deine Wünsche offen mit deinem Partner kommunizierst."
 date: 2025-12-15
 image: "/images/photos/ueber-sex-reden-partner.webp"

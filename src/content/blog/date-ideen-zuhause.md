@@ -4,8 +4,8 @@ description: "Date-Ideen für Zuhause: Kreative und romantische Dates vom Dinner
 date: 2025-04-13
 image: "/images/photos/date-ideen-zuhause.webp"
 tags:
-  - "dating"
-  - "tipps"
+  - "Dating"
+  - "Tipps"
   - "zuhause"
 ---
 

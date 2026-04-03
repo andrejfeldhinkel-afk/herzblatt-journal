@@ -6,7 +6,7 @@ tags:
   - "Trennung"
   - "Heilung"
   - "Psychologie"
-  - "Liebe"
+  - "liebe"
 image: "/images/blog/trennung-verarbeiten-trotz-liebe.webp"
 imageAlt: "Frau sitzt nachdenklich am Fenster - Trennung verarbeiten"
 keywords: ["trennung trotz liebe", "trennung verarbeiten", "liebe loslassen", "getrennt obwohl man sich liebt"]

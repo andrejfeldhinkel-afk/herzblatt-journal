@@ -18,9 +18,7 @@ author: "sarah-kellner"
 
 ## Phubbing: Wenn das Handy die Beziehung stört
 
-Wie zu viel Handy-Nutzung Beziehungen beeinflusst und wie man damit umgeht. In diesem Artikel werden wir tiefer in das Thema eintauchen und praktische Strategien erkunden.
-
-## Warum das Thema wichtig ist
+Wie zu viel Handy-Nutzung Beziehungen beeinflusst und wie man damit umgeht. ## Warum das Thema wichtig ist
 
 phubbing: wenn das handy die beziehung stört ist relevant für viele Menschen, die sich in modernen Beziehungen bewegen oder neu ins Dating einsteigen.
 

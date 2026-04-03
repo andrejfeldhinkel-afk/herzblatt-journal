@@ -20,9 +20,7 @@ author: "markus-hoffmann"
 
 Du sitzt in einem Café und merkst bei deinem Date, dass er immer noch von seiner Ex spricht. Und nicht in einem "ich habe gelernt und bin gewachsen" Sinn, sondern mehr in einem "ich kann nicht über sie hinwegkommen" Sinn. Dein Bauchgefühl sendet Alarmsignale aus. Aber dein Verstand sagt dir: "Vielleicht bin ich zu kritisch. Vielleicht sollte ich ihm noch eine Chance geben."
 
-Willkommen in der Grauzone des modernen Datings. Es ist ein Ort, an dem es schwer ist zu wissen, was normal ist, was akzeptabel ist und wann du einfach gehen solltest. In diesem Artikel werden wir klare Grenzen ziehen – nicht zwischen "perfekt" und "fehlerhaft", sondern zwischen "verhandelbar" und "nicht verhandelbar".
-
-## Die Unterscheidung: Verhandelbar vs. Nicht-verhandelbar
+Willkommen in der Grauzone des modernen Datings. Es ist ein Ort, an dem es schwer ist zu wissen, was normal ist, was akzeptabel ist und wann du einfach gehen solltest. ## Die Unterscheidung: Verhandelbar vs. Nicht-verhandelbar
 
 Bevor wir zu spezifischen Deal-Breakern kommen, müssen wir verstehen, dass nicht alle Probleme gleich sind. Manche sind wie kleine Kratzer auf einer ansonsten schönen Oberfläche. Andere sind tiefe Risse im Fundament.
 

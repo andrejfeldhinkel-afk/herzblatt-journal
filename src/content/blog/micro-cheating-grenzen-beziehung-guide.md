@@ -1,5 +1,5 @@
 ---
-title: "Micro-Cheating: Wo fängt Fremdgehen wirklich an?"
+title: "Micro-Cheating: Wo fängt Fremdgehen wirklich"
 description: "Ist das noch harmlos oder schon Fremdgehen? Ein ehrlicher Guide zu Micro-Cheating und wo die echten Grenzen deiner Beziehung liegen."
 date: 2026-03-29
 tags:

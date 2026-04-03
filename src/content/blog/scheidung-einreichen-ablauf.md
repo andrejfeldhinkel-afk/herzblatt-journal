@@ -1076,3 +1076,9 @@ Und dieser neue Anfang kann besser sein als alles davor.
 Das stille, stille Frühstückstisch kann zu einem Frühstückstisch werden, an dem du mit jemandem sitzt, der dich wirklich liebt. Oder sogar allein, aber mit Frieden.
 
 Das ist es wert.
+
+## Weiterlesen
+
+- [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide)
+- [Affäre beenden: So findest du den Ausweg](/blog/affaere-beenden-guide)
+- [Aktives Zuhören üben: Besser verstehen in 7 Schritten](/blog/aktives-zuhoeren-beziehung-ueben)

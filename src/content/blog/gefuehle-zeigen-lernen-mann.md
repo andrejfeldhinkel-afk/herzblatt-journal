@@ -4,7 +4,7 @@ description: "Gefühle zeigen fällt vielen schwer. Lerne, wie du deine echten G
 date: 2026-04-02
 tags:
   - "Psychologie"
-  - "Gefühle"
+  - "gefühle"
   - "Beziehung"
   - "Kommunikation"
 image: "/images/blog/gefuehle-zeigen-lernen-mann.webp"

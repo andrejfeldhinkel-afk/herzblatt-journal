@@ -4,7 +4,7 @@ description: "Die besten Date-Ideen in Dresden: Von romantischen Elbe-Spaziergä
 date: 2025-05-07
 image: "/images/photos/dating-dresden.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "dresden"
   - "orte"
 keywords: ["Dating Dresden", "Date Ideen Dresden", "Singles Dresden", "Date Spots Dresden", "erstes Date Dresden"]

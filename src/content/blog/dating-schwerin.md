@@ -4,7 +4,7 @@ description: "Dating in Schwerin: Die Schlossstadt an der Seenplatte. Märchenha
 date: 2025-07-08
 image: "/images/photos/dating-schwerin.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "dating-spots"
   - "schwerin"
   - "mecklenburg"

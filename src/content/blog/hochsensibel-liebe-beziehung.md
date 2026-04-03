@@ -11,7 +11,7 @@ tags:
   - Beziehung
 keywords:
   - hochsensibel beziehung
-  - hsp dating
+  - "dating"
   - hochsensibel liebe
   - hochsensible partnerschaft
 faq:
@@ -21,7 +21,6 @@ faq:
     answer: "Werde dir zuerst klar, was dir wirklich wichtig ist. Sei authentisch, probiere verschiedene Wege aus und gib neuen Menschen eine echte Chance."
   - question: "Ist dieser Ratgeber kostenlos?"
     answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-
 ---
 
 ## Was ist Hochsensibilität und warum spielt sie in Beziehungen eine Rolle?

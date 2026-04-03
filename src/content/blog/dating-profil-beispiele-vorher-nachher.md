@@ -1,5 +1,5 @@
 ---
-title: "Dating-Profil optimieren — Vorher/Nachher Beispiele mit"
+title: "Dating-Profil optimieren — Vorher/Nachher Beispiele"
 description: "Dating-Profil Vorher/Nachher: Lerne von realen Beispielen, wie du dein Tinder-, Bumble- oder Hinge-Profil optimierst. Mit praktischen Tipps & Analysen."
 date: 2026-03-16
 tags: ["Beziehung", "Dating", "Online-Dating"]

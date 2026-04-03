@@ -219,3 +219,9 @@ Nicht jemanden, der dich auf Wolke neun nimmt. Jemanden, der dich stabil hält.
 Das ist Liebe. Das ist eine echte Partnerschaft.
 
 Und das ist es, was du verdienst.
+
+## Weiterlesen
+
+- [15 Anzeichen dass er keine Beziehung will — Der](/blog/anzeichen-er-will-keine-beziehung)
+- [Bumble Guide 2026: Frauen machen den ersten Schritt](/blog/bumble-guide-frauen-2026)
+- [Dating ab 50: Der komplette Guide für die Liebe in der](/blog/dating-ab-50-kompletter-guide)

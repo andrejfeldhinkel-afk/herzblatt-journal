@@ -156,7 +156,7 @@ Starte deine Partnersuche ab 30 mit Zuversicht. Du bringst alles mit, was du bra
 
 ### Die statistischen Fakten: Dating ab 30 funktioniert besser
 
-Es gibt eine häufig zitierte Statistik, die viele Menschen entmutigt: Mit jedem Jahr nach 30 sinken die Chancen, einen Partner zu finden. Das ist wissenschaftlich gesehen stark übertrieben und in der heutigen Zeit schlicht nicht mehr wahr. Moderne Studien zeigen ein ganz anderes Bild der Partnersuche ab 30.
+Es gibt eine häufig zitierte Statistik, die viele Menschen entmutigt: Mit jedem Jahr nach 30 sinken die Chancen, einen Partner zu finden. Das ist wissenschaftlich gesehen stark übertrieben und Moderne Studien zeigen ein ganz anderes Bild der Partnersuche ab 30.
 
 Tatsächlich zeigt die Forschung, dass Menschen über 30 deutlich bessere Chancen auf langfristige, stabile Beziehungen haben. Der Grund: Sie machen bessere Entscheidungen. Menschen, die mit 30 oder älter in eine Beziehung gehen, haben eine signifikant höhere Erfolgsquote bei der Beziehungsstabilität. Das macht Sinn – wenn du mit 25 heiratest und noch gar nicht weißt, wer du bist, ist die Wahrscheinlichkeit eines Scheiterns höher.
 

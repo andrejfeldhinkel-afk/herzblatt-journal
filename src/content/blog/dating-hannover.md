@@ -4,7 +4,7 @@ description: "Dating in Hannover: Lerne die besten Orte kennen – Parks, Seen, 
 date: 2025-05-17
 image: "/images/photos/dating-hannover.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "hannover"
   - "orte"
 ---

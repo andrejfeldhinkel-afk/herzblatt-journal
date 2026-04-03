@@ -29,6 +29,8 @@ Und wenn es um Dating geht, kann Hochsensibilität dich fühlen lassen, dass du 
 
 Ich möchte das heute mit dir klären: Das ist nicht wahr. Hochsensibilität ist nicht ein Dating-Hindernis. Es ist eine Persönlichkeitsstruktur, die echte Stärken bringt – wenn du sie verstehst und sie nutzt, anstatt dich gegen sie zu kämpfen.
 
+## Hochsensibilität verstehen
+
 ### Was ist Hochsensibilität (HSP) wirklich?
 
 Zuerst, lass mich definieren, was Hochsensibilität ist, weil es oft missverstanden wird.
@@ -44,6 +46,8 @@ Hochsensibilität, ein Begriff, der von der Psychologin Elaine Aron geprägt wur
 Das ist nicht eine Störung. Das ist nicht Angststörung oder Schüchternheit. Das ist eine genetische Variation, die etwa 15-20% der Bevölkerung hat.
 
 Und ja, das bedeutet, dass du nicht allein bist.
+
+## Wie HSP das Dating beeinflusst
 
 ### Wie Hochsensibilität Dating beeinflusst
 
@@ -92,6 +96,8 @@ Weil deine Bindungen intensiv sind, wenn du dich verpflichtest, meinst du das. H
 **Passioniert und lebendig**
 
 Deine Intensität ist nicht ein Bug – es ist ein Feature. Du erlebst Dinge lebhaft. Die Liebe zu einem HSP ist intensiv und lebhaft und wunderbar.
+
+## Praktische Strategien für erfolgreiches Dating
 
 ### Strategien für erfolgreiches Dating als HSP
 
@@ -142,6 +148,8 @@ Und du musst verstehen:
 
 Mit Kommunikation und gegenseitiger Geduld kann das wunderbar funktionieren.
 
+## Deine eigenen inneren Hindernisse
+
 ### Überwind deine eigenen Hindernisse
 
 Manchmal ist die größte Herausforderung nicht andere – es ist du.
@@ -154,6 +162,8 @@ Das ist kämpfen gegen deine Natur. Das ist anstrengend und unwirksam. Stattdess
 
 Das ist nicht "weniger" – das ist klüger.
 
+## Die Zukunft mit HSP-Stärken gestalten
+
 ### Die Zukunft: Eine tiefe Beziehung
 
 Das Schöne an Hochsensibilität ist, dass wenn du jemanden findest, der verstehen und schätzen kann, was das bedeutet, kann deine Beziehung unglaublich tief sein.
@@ -165,3 +175,9 @@ Das ist nicht allgemein. Das ist selten und wertvoll.
 Also, wenn du hochsensibel bist: Erkenne das an. Nutze deine Stärken. Wähle die richtige Umgebungen und Partner. Und warte auf jemanden, der deine Sensibilität nicht als Schwäche sieht – sondern als einen der Gründe, warum er dich liebt.
 
 Das ist Dating als HSP.
+
+## Weiterlesen
+
+- [Ängstlicher Bindungsstil: So meisterst du Dating und Bezi...](/blog/anxious-attachment-dating-guide)
+- [Dating mit ängstlichem Bindungsstil](/blog/anxious-attachment-dating-strategie-guide)
+- [Mag sie mich? 25 Anzeichen dass sie Interesse hat — Der](/blog/anzeichen-dass-sie-mich-mag-decoder)

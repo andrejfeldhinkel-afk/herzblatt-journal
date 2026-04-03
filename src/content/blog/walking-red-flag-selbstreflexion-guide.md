@@ -1,5 +1,5 @@
 ---
-title: "Bist DU die Red Flag? Ehrliche Selbstreflexion für"
+title: "Bist DU die Red Flag? Ehrliche Selbstreflexion"
 description: "Vielleicht bist DU die Red Flag. Ein ehrlicher Guide zur Selbstreflexion, wie du problematische Verhaltensmuster erkennst und änderst."
 date: 2026-03-29
 tags:

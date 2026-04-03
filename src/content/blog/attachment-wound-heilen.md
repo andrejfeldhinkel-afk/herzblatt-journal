@@ -164,3 +164,8 @@ Das Ziel ist: "Angst haben und trotzdem lieben. Angst haben und trotzdem vertrau
 
 Das ist Heilung.
 
+## Weiterlesen
+
+- [Bindungsstile heilen: Von unsicher zu sicher](/blog/attachment-styles-heilen-guide)
+- [Dating nach toxischer Familie](/blog/dating-nach-toxischer-familie)
+- [Ängstlicher Bindungsstil heilen: Schritt für Schritt](/blog/aengstlicher-bindungsstil-heilen)

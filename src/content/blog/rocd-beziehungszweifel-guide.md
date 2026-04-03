@@ -24,7 +24,7 @@ Diese Gedanken sind kein seltenes Ereignis. Sie sind da, morgens wenn du aufwach
 
 Das ist Relationship OCD (ROCD). Es ist eine Form der Zwangsstörung, bei der sich das Gehirn obsessiv auf die Frage konzentriert: "Bin ich in der richtigen Beziehung? Liebe ich die richtige Person?" Diese Frage wird nicht durch Versicherung beruhigt. Sie wird nicht durch lange Überlegungen gelöst. Sie bleibt da und nagt.
 
-In diesem umfassenden Guide werde ich dir helfen zu verstehen, was ROCD ist, wie es sich von normalen Beziehungszweifeln unterscheidet, wie es deine Beziehung beeinflusst, und vor allem, wie man damit umgeht und heilt. Wenn du dich von dieser Beschreibung erkannt hast, wisse: Du bist nicht allein, und es gibt Wege zu besseren Tagen.
+Wenn du dich von dieser Beschreibung erkannt hast, wisse: Du bist nicht allein, und es gibt Wege zu besseren Tagen.
 
 ## Was ist Relationship OCD (ROCD)?
 

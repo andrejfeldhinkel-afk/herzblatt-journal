@@ -1,5 +1,5 @@
 ---
-title: "LGBTQ+ Dating ab 40: Neuanfang und Partnersuche in der"
+title: "LGBTQ+ Dating ab 40: Neuanfang und Partnersuche"
 description: "Ratgeber für LGBTQ+ Menschen über 40 beim Dating: Spätes Coming Out, Apps, Altersfeindlichkeit, Authentizität und echte Liebe finden."
 date: 2026-03-17
 image: "/images/blog/lgbtq-dating-ab-40.webp"

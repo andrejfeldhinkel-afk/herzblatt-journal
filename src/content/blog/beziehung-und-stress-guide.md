@@ -30,7 +30,7 @@ Eine der häufigsten Herausforderungen in modernen Beziehungen ist nicht fehlend
 
 Wenn der alltag beziehung bedroht, entstehen oft Konflikte, die eigentlich nichts mit fehlender Liebe zu tun haben. Du könntest dich unter Druck gesetzt fühlen von Berufspflichten, finanziellem Druck, Elternverantwortung oder gesundheitlichen Problemen. Dein Partner fühlt sich möglicherweise vernachlässigt, weil du keine emotionale Energie mehr hast. Kleine Dinge, die sonst kein Problem wären, werden zu großen Konflikten. Dies ist das klassische Szenario von stress in beziehung, und es ist wichtiger denn je, dass du verstehst, wie man damit umgeht.
 
-In diesem umfassenden Guide werden wir untersuchen, wie beziehung unter stress funktioniert, warum Druck Liebe bedrohen kann und vor allem: wie du deine Partnerschaft trotz (oder sogar durch) Schwierigkeiten stärken kannst. Dies ist nicht ein Ratgeber über "wie man den Stress reduziert" – das ist unrealistisch. Dies ist ein Ratgeber darüber, wie man Stress intelligent navigiert, ohne dabei die Beziehung zu opfern.
+Dies ist nicht ein Ratgeber über "wie man den Stress reduziert" – das ist unrealistisch. Dies ist ein Ratgeber darüber, wie man Stress intelligent navigiert, ohne dabei die Beziehung zu opfern.
 
 ## Die Anatomie von Stress in Beziehungen: Was passiert wirklich
 

@@ -24,7 +24,7 @@ Eifersucht ist wie ein unsichtbarer Feind in deiner Beziehung. Du sitzt da, dein
 
 Eifersucht ist eine der häufigsten Beziehungsprobleme, über die kaum jemand offen spricht. Viele Menschen denken, dass Eifersucht einfach normal ist und dazugehört. Aber das ist nur die halbe Wahrheit. Während ein Hauch von Eifersucht menschlich ist, kann chronische Eifersucht deine Beziehung zerstören – und vor allem dir selbst schaden.
 
-In diesem umfassenden Artikel zeige ich dir, warum du eifersüchtig bist, wie du es erkennst und vor allem: wie du es konkret überwinden kannst. Mit praktischen Übungen, echten Beispielen und wissenschaftlichen Ansätzen aus der modernen Psychologie.
+Mit praktischen Übungen, echten Beispielen und wissenschaftlichen Ansätzen aus der modernen Psychologie.
 
 ## Was ist Eifersucht wirklich?
 

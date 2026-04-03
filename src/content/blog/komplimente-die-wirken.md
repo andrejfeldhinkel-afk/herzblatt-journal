@@ -36,6 +36,8 @@ Warum? Weil es auch nicht ehrlich ist. Wenn du jemanden magst, dann magst du nic
 
 Menschen spüren das. Sie spüren, wenn dich das Oberflächliche interessiert und nicht die echte Person dahinter. Und das wirkt sich auf ihre Reaktion aus. Sie werden höflich, aber nicht wirklich berührt.
 
+## Wie echte Komplimente funktionieren
+
 ### Die Kraft der Spezifität
 
 Das beste Kompliment ist das, das zeigt, dass du wirklich zugehört hast. Dass du wirklich beobachtet hast. Dass du die Person SIEHST — nicht nur ihr Aussehen, sondern wer sie wirklich ist.
@@ -123,6 +125,8 @@ Um ein echtes Kompliment zu geben, musst du auch verletzlich sein. Du musst zuge
 Das ist ein bisschen riskant. Du gibst der anderen Person Macht über dich. Du zeigst, dass dir die Person genug bedeutet, dass du sie bemerkt hast.
 
 Aber genau das macht es echte. Genau das macht es wirksam. Menschen können Verletzlichkeit spüren. Und sie werden dich dafür lieben.
+
+## Die Praxis: Komplimente geben, die wirken
 
 ### Compliment-Formel für Anfänger
 

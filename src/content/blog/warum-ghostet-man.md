@@ -1,5 +1,5 @@
 ---
-title: "Warum ghosten Menschen? Die unbequeme Wahrheit hinter dem"
+title: "Warum ghosten Menschen? Die unbequeme Wahrheit hinter"
 slug: "warum-ghostet-man"
 description: "Ghosting ist verletzend. Aber warum machen Menschen das? Ich zeige dir die psychologischen Gründe hinter diesem Phänomen und wie du damit umgehen kannst."
 date: 2025-12-15

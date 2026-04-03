@@ -1,5 +1,5 @@
 ---
-title: "Twin Flames & Dualseelen — Spirituelle Verbindung oder"
+title: "Twin Flames & Dualseelen — Spirituelle Verbindung"
 description: "Twin Flames und Dualseelen sind überall im Internet. Aber ist das spirituelle Konzept wirklich gesund? Wir klären auf."
 date: 2025-12-15
 author: "sarah-kellner"

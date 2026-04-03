@@ -4,7 +4,7 @@ description: "Leipzig ist kreativ, lebendig und perfekt zum Daten. Musik, Clubs 
 date: 2025-05-30
 image: "/images/photos/dating-leipzig.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "dating-spots"
   - "leipzig"
 ---

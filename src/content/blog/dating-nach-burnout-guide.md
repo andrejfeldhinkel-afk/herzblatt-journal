@@ -24,7 +24,7 @@ Du bist gerade aus einem Burnout rausgekommen oder befindest dich noch mittendri
 
 Dating nach Burnout ist anders als normales Dating. Es ist nicht schneller, nicht weniger kompliziert, aber es erfordert mehr Bewusstsein dafür, wer du bist und was du brauchst. Ein Burnout zieht deinen Körper und deinen Geist in all seine Energie. Es lässt dich fühlen, als wäre dein Tank immer leer. Die Idee, jemanden kennenzulernen, in Gespräche zu gehen, dich neu zu präsentieren – das kann sich überwältigend anfühlen. Aber genau deshalb wollen wir diese Reise zusammen gehen.
 
-In diesem umfassenden Leitfaden erfährst du, wie du wieder daten kannst, ohne dein Wohlbefinden zu gefährden. Du lernst, wie du deine Grenzen respektierst, wie du die richtigen Menschen erkennst und wie du langsam wieder zur Liebe zurückkehrst – ohne dich dabei selbst zu verlieren.
+Du lernst, wie du deine Grenzen respektierst, wie du die richtigen Menschen erkennst und wie du langsam wieder zur Liebe zurückkehrst – ohne dich dabei selbst zu verlieren.
 
 ## Was ist ein Burnout und wie beeinflusst es dein Dating-Leben?
 

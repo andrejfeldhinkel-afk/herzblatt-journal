@@ -1,5 +1,5 @@
 ---
-title: "Emotional Safe Space: Wie du einen sicheren Raum in der"
+title: "Emotional Safe Space: Wie du einen sicheren Raum"
 description: "Emotional Safe Space in Beziehungen: Wie man Vertrauen aufbaut, verletzlich sein kann und ein Zuhause für Gefühle schafft"
 date: 2025-09-04
 image: "/images/photos/emotional-safe-space-beziehung.webp"

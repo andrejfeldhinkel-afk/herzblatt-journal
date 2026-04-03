@@ -4,7 +4,7 @@ description: "Dating in Zürich: Eleganz und Effizienz treffen sich. Luxus-Café
 date: 2025-07-17
 image: "/images/photos/dating-zuerich.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "dating-spots"
   - "zürich"
   - "schweiz"

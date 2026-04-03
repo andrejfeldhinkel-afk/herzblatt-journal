@@ -22,9 +22,7 @@ Dies ist ein Artikel über breadcrumbing: wenn er dich hinzuhalten scheint. Der 
 
 ## Einleitung
 
-Breadcrumbing: Wenn er dich hinzuhalten scheint ist ein wichtiges Thema in modernen Beziehungen und beim Dating. In diesem Artikel werden wir uns damit eingehend auseinandersetzen.
-
-## Die Grundlagen verstehen
+Breadcrumbing: Wenn er dich hinzuhalten scheint ist ein wichtiges Thema in modernen Beziehungen und beim Dating. ## Die Grundlagen verstehen
 
 Bevor wir tiefer eintauchen, ist es wichtig, die Grundlagen zu verstehen. Jede Beziehung ist einzigartig, und das gilt auch für dieses Thema.
 

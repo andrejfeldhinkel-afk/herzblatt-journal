@@ -35,7 +35,7 @@ Es ist 22 Uhr. Du sitzt auf deinem Sofa, scrollst durch die Dating-App und siehs
 
 Die Realität ist: **Von der Dating-App zur festen Beziehung ist kein Geheimnis, sondern ein strukturierter Prozess**, der aus mehreren klar erkennbaren Phasen besteht. Und während es nie eine Garantie gibt, gibt es doch bewährte Strategien und Erkenntnisse, die diese Reise wahrscheinlicher und bedeutungsvoller machen.
 
-In diesem umfassenden Ratgeber nehmen wir dich mit auf die gesamte Reise — vom ersten Swipe über die erste Nachricht, das erste Date, die immer tiefere emotionale Verbindung bis hin zur offiziellen Beziehung und darüber hinaus. Du wirst verstehen, was psychologisch in jeder Phase passiert, wie lange sie normalerweise dauert, welche häufigen Fallstricke es gibt und — am wichtigsten — wie du bewusst und absichtsvoll handeln kannst, um eine Beziehung aufzubauen, die nicht aus Zufall, sondern aus echtem Verständnis und gemeinsamen Werten entsteht.
+Du wirst verstehen, was psychologisch in jeder Phase passiert, wie lange sie normalerweise dauert, welche häufigen Fallstricke es gibt und — am wichtigsten — wie du bewusst und absichtsvoll handeln kannst, um eine Beziehung aufzubauen, die nicht aus Zufall, sondern aus echtem Verständnis und gemeinsamen Werten entsteht.
 
 ## Die Statistiken: Wie realistisch ist es wirklich, eine Beziehung über Dating-Apps zu finden?
 

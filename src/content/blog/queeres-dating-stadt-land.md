@@ -1,5 +1,5 @@
 ---
-title: "Queeres Dating: Großstadt vs. Land — Wo findet man die"
+title: "Queeres Dating: Großstadt vs. Land — Wo findet man"
 description: "Queeres Dating in der Stadt versus auf dem Land: Die Realität, Chancen, Herausforderungen und wie du überall deine Liebe finden kannst."
 date: 2026-03-17
 image: "/images/blog/queeres-dating-stadt-land.webp"

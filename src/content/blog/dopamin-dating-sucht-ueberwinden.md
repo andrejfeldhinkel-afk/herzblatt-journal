@@ -110,3 +110,9 @@ Das ist die Heilung. Schiebe durch sie durch.
 Nach vier Wochen wirst du feststellen: Das Leben ist nicht so leer, wie die App dir gesagt hat. Es gibt echte Dinge hier. Echte Menschen. Echte Möglichkeiten.
 
 Du wirst auch bessere Entscheidungen treffen, wenn es ums Dating geht. Statt eine Million mediocre Matches zu haben, wirst du ein oder zwei hochwertige Verbindungen haben. Und echte Qualität ist was du brauchst – nicht Quantität.
+
+## Weiterlesen
+
+- [Dating als Veganer: Wenn Ernährung zur Frage wird](/blog/dating-als-veganer-vegetarier)
+- [Dating mit Borderline – Intensive Liebe zwischen Extremen](/blog/dating-mit-borderline-stoerung)
+- [Dating mit hochfunktionaler Depression](/blog/dating-mit-hochfunktionaler-depression)

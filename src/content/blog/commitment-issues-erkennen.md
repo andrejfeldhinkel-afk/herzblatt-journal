@@ -20,11 +20,19 @@ faq:
 ---
 ## Commitment Issues: Wenn die Angst vor Bindung alles blockiert
 
-Das Muster ist vertraut. Du triffst jemanden, Schmetterlinge, es ist herrlich. Dann, als die [Bindungsangst](/blog/bindungsangst-komplett-guide) sabotieren unbewusst. Sie starten Kämpfe kurz bevor sie sich tiefer binden. Sie [flirten](/blog/anzeichen-er-steht-auf-dich/) mit anderen Menschen, um ihre Optionen offen zu halten. Sie erfinden Gründe, die Beziehung zu beenden, bevor die andere Person zumeist verletzt hat.
+Das Muster ist vertraut — wenn du jemanden mit Commitment Issues kennst oder wenn DU es bist. Es ist frustrierend für beide Seiten.
 
-Dies schützt dich: Wenn ICH die Beziehung beende, werden sie mich nicht verlassen. Wenn ich ihre Fehler kritisiere, kann ich mich selbst kritisieren.
+Du triffst jemanden, Schmetterlinge im Bauch, es ist herrlich. Endlich! Nach Jahren des Suchens, endlich jemand, der passt. Die ersten Wochen sind perfekt. Alles fühlt sich richtig an. Und dann... es wird kompliziert.
 
-Das ist exhausting. Und es lässt dich allein.
+Der andere Mensch will mehr Verbindlichkeit. Sie oder er fragt: "Wo ist das hier ganz? Wo sind wir?" Die Antwort von jemandem mit Commitment Issues: Panik. Absolute Panik.
+
+Sie sabotieren unbewusst — nicht um dich zu verletzen, sondern um sich selbst zu schützen. Sie starten Kämpfe, kurz bevor sie sich wirklich binden würden. Sie sagen Dinge, die verletzlich sind: "Ich weiß nicht, ob ich das will" oder "Vielleicht sollten wir eine Pause machen." Sie flirten mit anderen Menschen, um ihre Optionen offen zu halten — unbewusst Sicherheit suchend. Sie erfinden Gründe, die Beziehung zu beenden, bevor die andere Person sie verlassen kann — weil wenn SIE die Beziehung beenden, kontrollieren sie das Ergebnis. Sie verlassen nicht; sie werden nicht verlassen.
+
+Das ist selbstschützend. Aber es ist auch destruktiv.
+
+Dies schützt dich — oder so denkt das Gehirn: Wenn ICH die Beziehung beende, werden sie mich nicht verlassen. Wenn ich ihre Fehler kritisiere oder hervorhole, kann ich mir selbst zuvorkommen. Wenn ich die erste bin, die sagt "Das funktioniert nicht", dann bin ich nicht die Person, die verlassen wird. Ich bin die Person, die macht die Entscheidung.
+
+Das ist psychologisch nachvollziehbar. Aber es ist auch exhausting. Es bedeutet, dass du immer auf der Flucht bist. Du kannst niemals wirklich entspannen. Und es lässt dich am Ende wirklich, wirklich allein.
 
 ## Die Wurzeln: Meist in der Vergangenheit
 
@@ -46,13 +54,17 @@ Setz eine Grenze: "Ich kann nicht unbegrenzt warten. Ich kann nicht in einem Zus
 
 Das ist nicht Bestrafung, das ist Selbstschutz. Es ist liebevoll, aber es ist auch klar.
 
-## Der Weg voran
+## Der Weg voran — Heilung ist möglich
 
-Wenn dich das betrifft, such Hilfe. Der erste Schritt ist zu erkennen: Das ist nicht normal, das ist nicht wie es sein muss, und das ist heilbar.
+Wenn dich das betrifft — wenn du merkst, dass du Commitment Issues hast — such Hilfe. Der erste Schritt ist zu erkennen: Das ist nicht normal, das ist nicht wie es sein muss, und das ist heilbar.
 
-Mehr zum Thema erfährst du auf Neurologen und Psychiater im Netz: [Neurologen und Psychiater im Netz](https://www.neurologen-und-psychiater-im-netz.org/)
+Ein Therapeut, besonders einer, der auf Bindungstrauma spezialisiert ist, kann dir helfen. Du wirst verstehen, woher deine Angst kommt. Du wirst neue Wege lernen, mit Nähe umzugehen. Du wirst anfangen, dein Nervensystem zu entspannen.
 
-Binding ist nicht Gefängnis. Binding ist zu sagen: "Ich wähle dich, wieder und wieder, jeden Tag." Das ist nicht Angst, das ist das Gegenteil davon. Das ist Vertrauen. Und du verdienst das Gefühl.## Weiterlesen
+Bindung ist nicht Gefängnis. Binding ist nicht das Ende deiner Freiheit oder deines Selbst. Binding ist einfach zu sagen: "Ich wähle dich, wieder und wieder, jeden Tag." Das ist nicht Angst, das ist das Gegenteil davon. Das ist Vertrauen. Das ist Liebe. Und du verdienst, das zu fühlen.
+
+Du verdienst jemanden, bei dem du entspannen kannst. Bei dem Nähe nicht Erstickung bedeutet. Bei dem Commitment bedeutet "Gemeinsam sind wir sicherer", nicht "Ich bin gefangen."
+
+Das kann dein Leben sein. Wenn du bereit bist, daran zu arbeiten.## Weiterlesen
 
 - [Commitment-Angst: Wenn die Liebe da ist, aber die Bindung](/blog/commitment-angst/)
 - [Situationship erkennen: 12 klare Zeichen](/blog/situationship-erkennen/)

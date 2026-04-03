@@ -168,3 +168,8 @@ Dann berichte mir, wie dein Schlaf ist. Wie eure Beziehung sich anfühlt.
 
 Ich wette: Es wird sich alles ändern.
 
+## Weiterlesen
+
+- [Beziehung auf Augenhoehe](/blog/beziehung-auf-augenhoehe-guide)
+- [Beziehung auffrischen: 30 Ideen die sofort wirken](/blog/beziehung-auffrischen-30-ideen)
+- [Bucket List für Paare – 50 Momente, die eure Beziehung le...](/blog/beziehung-bucket-list)

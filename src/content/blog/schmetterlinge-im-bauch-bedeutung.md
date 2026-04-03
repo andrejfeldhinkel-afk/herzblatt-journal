@@ -4,7 +4,7 @@ description: "Was bedeuten Schmetterlinge im Bauch wirklich? Die Wissenschaft hi
 date: 2025-12-15
 tags:
   - "Psychologie"
-  - "Liebe"
+  - "liebe"
 keywords:
   - "schmetterlinge im bauch"
   - "verliebt sein zeichen"

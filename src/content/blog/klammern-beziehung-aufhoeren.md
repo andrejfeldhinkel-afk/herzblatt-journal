@@ -1135,3 +1135,9 @@ Das ist das Endziel.
 Geh hin und beginne zu heilen.
 
 Du kannst das. Ich weiß es.
+
+## Weiterlesen
+
+- [Abenteuer-Dates: Adrenalin stärkt die Bindung](/blog/abenteuer-dates-adrenalin)
+- [Emotionale Abhängigkeit vom Partner lösen](/blog/abhaengigkeit-vom-partner-loesen)
+- [Angst vor Intimität überwinden – Nähe zulassen lernen](/blog/angst-vor-intimaet-ueberwinden)

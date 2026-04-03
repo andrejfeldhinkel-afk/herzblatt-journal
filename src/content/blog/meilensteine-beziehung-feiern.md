@@ -18,9 +18,7 @@ author: "sarah-kellner"
 
 ## Beziehungs-Meilensteine feiern: Die wichtigen Momente
 
-Warum es wichtig ist, Meilensteine in Beziehungen zu markieren und wie man sie würdigt. In diesem Artikel werden wir tiefer in das Thema eintauchen und praktische Strategien erkunden.
-
-## Warum das Thema wichtig ist
+Warum es wichtig ist, Meilensteine in Beziehungen zu markieren und wie man sie würdigt. ## Warum das Thema wichtig ist
 
 beziehungs-meilensteine feiern: die wichtigen momente ist relevant für viele Menschen, die sich in modernen Beziehungen bewegen oder neu ins Dating einsteigen.
 

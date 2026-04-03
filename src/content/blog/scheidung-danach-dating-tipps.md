@@ -22,9 +22,7 @@ Die Unterschrift unter den Papieren ist noch nicht mal trocken, und schon bekomm
 
 Die Zeit nach einer Scheidung ist eine der verwirrlichsten und emotional komplexesten Phasen deines Lebens. Du traust dich nicht, wieder zu daten, weil du Angst hast, dieselben Fehler zu machen. Aber du wünschst dir auch, wieder geliebt zu werden. Du fragst dich, ob du zu Narben trägst, um jemandem neuen zu geben. Und du fragst dich, ob es fair gegenüber dieser neuen Person ist, dich mit all deinem Gepäck zu daten.
 
-Diese Fragen sind berechtigt. Und in diesem Artikel werden wir sie nicht nur stellen, sondern auch beantworten.
-
-## Die emotionale Realität einer Scheidung
+Diese Fragen sind berechtigt. Und ## Die emotionale Realität einer Scheidung
 
 Lass mich hier ehrlich sein: Eine Scheidung ist ein Trauer-Ereignis, auch wenn die Ehe nicht gut war. Du traust um die Zukunft, die du dir vorgestellt hast. Du traust um die Zeit, die du investiert hast. Du traust um die Version von dir selbst, die du warst, bevor diese Ehe alles durcheinander brachte.
 

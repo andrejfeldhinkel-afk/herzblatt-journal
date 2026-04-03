@@ -1,5 +1,5 @@
 ---
-title: "Emotionale Abhängigkeit in Beziehungen erkennen und"
+title: "Emotionale Abhängigkeit in Beziehungen erkennen"
 description: "Fühlst du dich ohne deinen Partner verloren? Erfahre die Zeichen emotionaler Abhängigkeit und wie du dich befreist."
 date: 2026-03-11
 tags:

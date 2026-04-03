@@ -22,9 +22,7 @@ Dies ist ein Artikel über dating ab 60: liebe hat kein verfallsdatum. Der Artik
 
 ## Einleitung
 
-Dating ab 60: Liebe hat kein Verfallsdatum ist ein wichtiges Thema in modernen Beziehungen und beim Dating. In diesem Artikel werden wir uns damit eingehend auseinandersetzen.
-
-## Die Grundlagen verstehen
+Dating ab 60: Liebe hat kein Verfallsdatum ist ein wichtiges Thema in modernen Beziehungen und beim Dating. ## Die Grundlagen verstehen
 
 Bevor wir tiefer eintauchen, ist es wichtig, die Grundlagen zu verstehen. Jede Beziehung ist einzigartig, und das gilt auch für dieses Thema.
 

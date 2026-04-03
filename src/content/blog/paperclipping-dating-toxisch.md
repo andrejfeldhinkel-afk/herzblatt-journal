@@ -18,9 +18,7 @@ author: "sarah-kellner"
 
 ## Paperclipping: Das moderne Dating-Phänomen
 
-Was ist Paperclipping und warum ist es emotional schädlich? In diesem Artikel werden wir tiefer in das Thema eintauchen und praktische Strategien erkunden.
-
-## Warum das Thema wichtig ist
+Was ist Paperclipping und warum ist es emotional schädlich? ## Warum das Thema wichtig ist
 
 paperclipping: das moderne dating-phänomen ist relevant für viele Menschen, die sich in modernen Beziehungen bewegen oder neu ins Dating einsteigen.
 

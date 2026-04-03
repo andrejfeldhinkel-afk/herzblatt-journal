@@ -1,5 +1,5 @@
 ---
-title: "Beziehungsanarchie: Liebe ohne Regeln, Hierarchien und"
+title: "Beziehungsanarchie: Liebe ohne Regeln, Hierarchien"
 description: "Beziehungsanarchie bedeutet Liebe ohne Hierarchien. Erfahre, wie dieses Modell funktioniert und ob es zu dir passt."
 date: 2025-03-27
 author: "sarah-kellner"

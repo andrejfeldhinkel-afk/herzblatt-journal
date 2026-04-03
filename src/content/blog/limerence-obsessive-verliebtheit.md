@@ -1,5 +1,5 @@
 ---
-title: "Limerence: Wenn Verliebtheit zur Obsession wird — Der"
+title: "Limerence: Wenn Verliebtheit zur Obsession wird"
 description: "Limerence erkennen und überwinden: Erfahre, warum du nicht aufhören kannst an jemanden zu denken und wie du obsessive Verliebtheit heilst."
 date: 2025-11-28
 image: "/images/photos/limerence-obsessive-verliebtheit.webp"

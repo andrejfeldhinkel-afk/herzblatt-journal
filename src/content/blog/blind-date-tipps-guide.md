@@ -229,3 +229,9 @@ Also: Sag ja zu Blind Dates. Bereite dich vor. Sei höflich. Sei ehrlich.
 Und lass deinen Freund wissen, wenn es funktioniert. Er kann stolz auf sein "Matchmaking" sein.
 
 Das ist schon viel wert.
+
+## Weiterlesen
+
+- [Chemistry beim Date: Woran du echte Anziehung erkennst und](/blog/chemistry-beim-date-erkennen)
+- [Schwarm ansprechen: So machst du den ersten Schritt](/blog/crush-ansprechen-tipps)
+- [Date-Gespräche die nie langweilig werden: 100 Fragen und](/blog/date-gespraeche-nie-langweilig)

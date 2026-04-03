@@ -30,7 +30,7 @@ faq:
 
 Dein Herz rast, deine Gedanken kreisen nur noch um eine Person, und die ganze Welt scheint plötzlich in Rosa zu leuchten. Du fragst dich, ob das, was du fühlst, wirklich Liebe ist? Die wissenschaftliche Antwort ist faszinierend: Das, was du als Liebe empfindest, ist vor allem eine komplexe biochemische Reaktion in deinem Gehirn. Doch das macht das Gefühl keineswegs weniger echt oder bedeutsam — im Gegenteil: Es zeigt, wie großartig die Natur und unser Körper sind.
 
-In diesem umfassenden Artikel nehmen wir dich mit auf eine Reise durch die Neurochemie der Liebe. Wir werden dir zeigen, welche Hormone dein Verhalten steuern, warum du dich so fühlst wie nie zuvor, und vor allem: warum diese intensiven Gefühle nicht ewig andauern. Verstehe die Wissenschaft hinter deinen Gefühlen — und lerne, wie du deine [verliebt](/blog/mann-verliebt-anzeichen-komplett) sich: Der Beginn des Abenteuers
+Wir werden dir zeigen, welche Hormone dein Verhalten steuern, warum du dich so fühlst wie nie zuvor, und vor allem: warum diese intensiven Gefühle nicht ewig andauern. Verstehe die Wissenschaft hinter deinen Gefühlen — und lerne, wie du deine [verliebt](/blog/mann-verliebt-anzeichen-komplett) sich: Der Beginn des Abenteuers
 
 Wenn du jemanden zum ersten Mal siehst und dieser Moment dein Herz zum Stehen bringt, passiert in diesem Augenblick etwas Biologisches. Es ist nicht einfach nur Anziehung oder ein flüchtiges Gefühl — es ist der Beginn einer komplexen hormonellen Kaskade, die dein Gehirn buchstäblich umprogrammiert.
 

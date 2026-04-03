@@ -3,7 +3,7 @@ title: "Limerence vs. echte Liebe"
 description: "Lerne den Unterschied zwischen obsessiver Limerence und echter Liebe. Erkenne deine Gefühle richtig."
 date: 2026-03-29
 tags:
-  - "Liebe"
+  - "liebe"
   - "Psychologie"
   - "Beziehungen verstehen"
 keywords: ["Limerence", "obsessive Liebe", "Verliebtheit", "echte Liebe"]

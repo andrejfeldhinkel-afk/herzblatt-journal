@@ -11,7 +11,7 @@ tags:
 ---
 Ein Heiratsantrag ist einer der wichtigsten Momente in einer [verliebt](/blog/mann-verliebt-anzeichen-komplett) habt. Kehrt an diesen Ort zurück und erneuert dort die Liebe mit deinem Antrag.
 
-### Schmuck-Box-Überraschung
+## Schmuck-Box-Überraschung
 
 Diese Idee ist schlicht, aber effektiv. Ihr sitzt gemütlich zusammen, vielleicht beim Dinner, und du öffnest eine Schmuck-Box. Die Spannung baut sich auf – sie sieht den Ring und weiß sofort, was passiert.
 

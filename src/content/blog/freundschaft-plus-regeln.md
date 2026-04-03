@@ -4,8 +4,8 @@ description: "Freundschaft Plus Regeln: Wie es funktioniert und welche Regeln du
 date: 2025-08-18
 image: "/images/photos/freundschaft-plus-regeln.webp"
 tags:
-  - "dating"
-  - "beziehung"
+  - "Dating"
+  - "Beziehung"
   - "freundschaft-plus"
 ---
 
@@ -25,6 +25,8 @@ Freundschaft Plus funktioniert am besten für Menschen, die:
 
 Wenn das nach dir klingt, kann Freundschaft Plus für dich funktionieren. Aber nur wenn beide Seiten wirklich dabei sind.
 
+## Grundlegende Regeln und Prinzipien
+
 ## Die Regel Nummer Eins: Honesty
 
 Die wichtigste Regel ist Ehrlichkeit. Nicht irgendwann – vom Anfang an. Das bedeutet:
@@ -33,6 +35,8 @@ Die wichtigste Regel ist Ehrlichkeit. Nicht irgendwann – vom Anfang an. Das be
 - Sofort kommunizieren, wenn sich etwas ändert
 
 Es gibt nichts Schlimmeres als Freundschaft Plus, bei dem eine Person heimlich hofft, dass es zu einer echten Beziehung wird. Das führt zu Leid und kaputt gemachter Freundschaft.
+
+## Klare Grenzen definieren
 
 ## Grenzen setzen und respektieren
 
@@ -71,6 +75,8 @@ Das bedeutet:
 
 Das klingt kalt – und ein bisschen ist es auch. Aber das ist die Realität von Freundschaft Plus: Ihr müsst emotional etwas Abstand halten, während ihr körperlich nah beieinander seid.
 
+## Spezielle Situationen navigieren
+
 ## Das Time-Out-Regel
 
 Manchmal kommt jemand anderes ins Spiel. Der eine von euch trifft jemanden, mit dem es romantisch werden könnte. Das ist der Moment, in dem Freundschaft Plus enden muss – zumindest temporär.
@@ -94,6 +100,8 @@ Detaillierte Infos bietet Caritas Beratung: [Caritas Beratung](https://www.carit
 
 Hilfreiche Ressourcen findest du bei Pro Familia: [Pro Familia](https://www.profamilia.de/)
 
+## Wenn es zu Ende geht
+
 ## Das Ende von Freundschaft Plus
 
 Freundschaft Plus endet manchmal. Jemand trifft einen Partner. Jemand entwickelt Gefühle. Die Chemie verändert sich. Das ist okay.
@@ -109,6 +117,8 @@ Der Unterschied zwischen funktionierender Freundschaft Plus und einem kaputten S
 Wenn einer von euch heimlich hofft, dass der andere sich [verliebt](/blog/mann-verliebt-anzeichen-komplett), ist Freundschaft Plus bereits gescheitert. Es ist nicht unehrlich – es ist einfach nicht möglich, so zu tun, als hätte man keine Gefühle, wenn man sie hat.
 
 Das Schwierige: Die Hoffnung kann sich entwickeln. Du dachtest, du könntest es trennen – und plötzlich kannst du es nicht mehr. Das ist der Moment, zu reden.
+
+## Zusammenfassung und Fazit
 
 ## Das Fazit
 

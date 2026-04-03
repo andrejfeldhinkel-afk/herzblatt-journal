@@ -8,7 +8,7 @@ tags:
   - "Selbstliebe"
   - "Ratgeber"
 keywords:
-  - "slow dating"
+  - "slow-dating"
   - "slow dating tipps"
   - "bewusst daten"
   - "dating ohne stress"

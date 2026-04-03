@@ -202,3 +202,8 @@ Und ein Narzisst will nicht geheilt werden.
 
 Was du tun kannst: Dich selbst heilen, indem du gehst.
 
+## Weiterlesen
+
+- [Benching: Der fiese Dating-Trend](/blog/benching-dating-trend-erkennen)
+- [Beziehungs-Gesundheits-Check](/blog/beziehung-gesundheits-check)
+- [Beziehung mit einem Narzissten – Alles was du wissen musst](/blog/beziehung-mit-narzisst-erkennen-komplett)

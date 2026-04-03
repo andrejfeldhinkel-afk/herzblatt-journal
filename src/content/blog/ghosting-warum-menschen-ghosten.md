@@ -33,6 +33,8 @@ Das ist Ghosting. Und es tut verdammt weh.
 
 Aber hier ist die wichtige Frage, die du dir stellen solltest: Warum machen Menschen das? Was geht in ihrem Kopf vor, wenn sie sich einfach aus dem Staub machen, ohne ein einziges Wort zu sagen? Die Antwort ist komplexer als du vielleicht denkst, und sie hat wenig mit dir zu tun.
 
+## Warum Menschen ghosten: Die psychologischen Gründe
+
 ### Die Angst vor Konfrontation
 
 Einer der häufigsten Gründe für Ghosting ist die pure Angst vor Konfrontation. Manche Menschen sind einfach nicht in der Lage, schwierige Gespräche zu führen. Sie wissen nicht, wie sie sagen sollen: "Mir hat's nicht gepasst" oder "Ich bin nicht interessiert" — und statt diesen Weg zu gehen, wählen sie den Weg des geringsten Widerstands.
@@ -102,6 +104,8 @@ Wenn du in der Situation bist, wo du jemanden "ghosten" willst, bitte dich: Mach
 Es ist schwierig, ja. Aber es ist das Richtige. Und die andere Person verdient diesen Respekt.
 
 Die Länge der Nachricht ist auch nicht wichtig. Es kann eine Nachricht sein. Das ist okay. Die Person braucht keine lange Erklärung. Sie braucht einfach nur die Information, dass es vorbei ist.
+
+## Heilung und Verantwortung
 
 ### Der Weg aus der Ghosting-Kultur
 

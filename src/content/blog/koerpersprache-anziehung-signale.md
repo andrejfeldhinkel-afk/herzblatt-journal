@@ -23,6 +23,8 @@ Ungefähr 55 Prozent unserer Kommunikation erfolgt durch Körpersprache, nicht d
 
 Du kannst die besten Worte sagen, aber wenn dein Körper dir widerspricht, glaubt dir niemand. Und umgekehrt: Du kannst schweigen, und dein Körper spricht Bände. Das ist die Kraft der Körpersprache. Und es ist absolut essentiell, um sie zu verstehen, wenn du wirklich wissen willst, ob jemand an dir interessiert ist.
 
+## Die wichtigsten Körpersignale erkennen
+
 ### Die Augen sind das Fenster zur Seele
 
 Es gibt einen Grund, warum die Augen das erste sind, das wir von einer Person wahrnehmen. Sie sind das ehrlichste Teil unseres Körpers. Du kannst lügen mit deinen Worten, aber deine Augen verraten dich.
@@ -98,6 +100,8 @@ Körpersprache ist nicht nur visuell. Die Stimme ist auch eine Form der Körpers
 Der Ton kann höher werden (besonders bei Frauen, die unbewusst ihre Stimme erhöhen, um "süßer" oder "weiblicher" zu wirken). Das Sprechtempo kann sich ändern. Die Person kann langsamer sprechen, um sicherzustellen, dass du jedes Wort verstehst.
 
 Menschen, die dich interessant finden, werden auch mehr lachen und lächeln, während sie mit dir sprechen. Das Gespräch wird lebhafter.
+
+## Körpersprache nutzen und verstehen
 
 ### Was du damit machen kannst
 

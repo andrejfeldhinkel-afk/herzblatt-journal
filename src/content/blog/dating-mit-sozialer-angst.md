@@ -276,3 +276,9 @@ Und dann? Dann wirst du daten können.
 Mit Angst, ja. Aber nicht von Angst gelähmt.
 
 Das ist schon ein großer Unterschied.
+
+## Weiterlesen
+
+- [Autismus und Dating: Liebe finden auf dem Spektrum](/blog/autismus-und-dating-guide)
+- [Chemistry beim Date: Woran du echte Anziehung erkennst und](/blog/chemistry-beim-date-erkennen)
+- [Dating als Ambivert: Dein Vorteil wenn du weder](/blog/dating-als-ambivert)

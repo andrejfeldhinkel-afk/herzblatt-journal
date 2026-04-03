@@ -1,5 +1,5 @@
 ---
-title: "Emotional Flooding: Wenn Gefühle dich in Beziehungen über..."
+title: "Emotional Flooding: Wenn Gefühle dich in Beziehungen"
 description: "Emotional Flooding ist, wenn Gefühle dich völlig überwältigen und du irrational reagierst. Lerne, deine Emotionen zu regulieren."
 date: 2026-03-29
 tags:

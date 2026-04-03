@@ -4,9 +4,9 @@ description: "Wie Künstliche Intelligenz das Dating prägt: Dating-Apps, Algori
 date: 2025-09-13
 image: "/images/photos/ki-dating-zukunft.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "technologie"
-  - "ki"
+  - "KI"
   - "zukunft"
 ---
 

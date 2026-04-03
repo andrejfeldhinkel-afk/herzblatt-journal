@@ -189,3 +189,9 @@ Die Liebe ist nicht nur körperlich. Aber die körperliche Spannung? Das ist Tei
 ---
 
 *Du möchtest mehr über Intimität lernen? Schau auch unseren Artikel über [ethische Nicht-Monogamie](./ethical-non-monogamy-guide.md) oder wie du [eine Ehekrise überwindest](./ehekrise-erkennen-loesen.md).*
+
+## Weiterlesen
+
+- [Angst vor Intimität überwinden – Nähe zulassen lernen](/blog/angst-vor-intimaet-ueberwinden)
+- [Asexualität in Dating und Beziehung](/blog/asexualitaet-dating-beziehung)
+- [Die Kraft der Berührung: Warum körperliche Nähe heilt](/blog/beruehrungen-beziehung-bedeutung)

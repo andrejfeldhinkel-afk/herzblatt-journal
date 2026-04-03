@@ -4,7 +4,7 @@ description: "Luzern ist Schweizer Romantik in Quintessenz. Vierwaldstättersee,
 date: 2025-06-04
 image: "/images/photos/dating-luzern.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "dating-spots"
   - "luzern"
   - "schweiz"

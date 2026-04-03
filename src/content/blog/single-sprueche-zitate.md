@@ -158,3 +158,8 @@ Das ist der Unterschied zwischen einer Beziehung, die hält, und einer, die zusa
 
 Seid stolz auf eure Single-Zeit. Es ist eine der wertvollsten Phasen eures Lebens.
 
+## Weiterlesen
+
+- [Beziehung stärken trotz Arbeitslosigkeit](/blog/beziehung-nach-arbeitslosigkeit)
+- [Catcalling: Was es ist, warum es schadet und wie du reagi...](/blog/catcalling-umgang-tipps)
+- [Single unter Druck: Wenn alle fragen warum Du allein bist](/blog/dating-bei-sozialem-druck-single)

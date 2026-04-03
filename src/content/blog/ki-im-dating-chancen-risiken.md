@@ -7,7 +7,7 @@ tags:
   - "KI"
   - "Dating-Apps"
   - "Trends"
-  - "Technologie"
+  - "technologie"
 ---
 ## KI im Dating: Algorithmus vs. echte Gefühle
 

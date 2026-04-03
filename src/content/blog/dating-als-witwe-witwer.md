@@ -1,5 +1,5 @@
 ---
-title: "Dating als Witwe oder Witwer — Wieder lieben nach dem"
+title: "Dating als Witwe oder Witwer — Wieder lieben"
 description: "Dating als Witwe oder Witwer: Praktische Tipps und psychologische Einblicke für eine erfüllte Beziehung. Jetzt lesen auf Herzblatt Journal."
 date: 2026-03-16
 tags: ["Beziehung", "Heilung"]

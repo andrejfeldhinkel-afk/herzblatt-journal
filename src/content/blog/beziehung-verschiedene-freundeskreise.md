@@ -5,7 +5,7 @@ date: 2025-03-22
 image: "/images/photos/beziehung-verschiedene-freundeskreise.webp"
 tags:
   - "Beziehung"
-  - "Freundschaft"
+  - "freundschaft"
   - "Partnerschaft"
   - "Ratgeber"
 ---

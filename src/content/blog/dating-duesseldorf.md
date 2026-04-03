@@ -4,7 +4,7 @@ description: "Dating in Düsseldorf: Finde die besten Tipps und Dating-Hotspots 
 date: 2025-05-09
 image: "/images/photos/dating-duesseldorf.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "düsseldorf"
   - "orte"
 ---

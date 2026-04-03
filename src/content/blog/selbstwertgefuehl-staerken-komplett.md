@@ -1074,3 +1074,9 @@ Ein Tag, wo du dich selbst mit Mitgefühl sprichst statt mit Kritik.
 Das ist es.
 
 Und ich glaube an dich. Wirklich.
+
+## Weiterlesen
+
+- [Angst für immer allein zu bleiben: So überwindest du sie](/blog/angst-allein-zu-bleiben)
+- [Wenn die Schmetterlinge vergehen: Warum das der wahre Beginn](/blog/beziehung-wenn-schmetterlinge-vergehen)
+- [Dating als Ambivert: Dein Vorteil wenn du weder](/blog/dating-als-ambivert)

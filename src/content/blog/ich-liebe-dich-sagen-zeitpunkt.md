@@ -200,3 +200,9 @@ Also: Höre auf dein Herz. Wenn es sagt "Ich liebe dich" – sag es. Es kann nic
 Und wenn dein Partner nicht bereit ist, dich zu hören: Das ist nicht, weil deine Liebe nicht gut genug ist. Das ist nur, weil eure Zeitpläne unterschiedlich sind. Und du musst entscheiden, ob du darauf warten willst.
 
 Das ist ein echter Moment. Das ist echt menschlich. Und das ist wunderschön.
+
+## Weiterlesen
+
+- [Den Alltag als Paar liebevoll gestalten](/blog/alltag-als-paar-gestalten)
+- [Ängstlicher Bindungsstil: So meisterst du Dating und Bezi...](/blog/anxious-attachment-dating-guide)
+- [Mag sie mich? 25 Anzeichen dass sie Interesse hat — Der](/blog/anzeichen-dass-sie-mich-mag-decoder)

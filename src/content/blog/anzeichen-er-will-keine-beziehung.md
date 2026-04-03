@@ -1,5 +1,5 @@
 ---
-title: "15 Anzeichen dass er keine Beziehung will — Der"
+title: "15 Anzeichen dass er keine Beziehung will"
 description: "15 Anzeichen dass er keine Beziehung will — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
 date: 2026-03-16
 tags: ["Beziehung", "Dating", "Konflikte", "Partnersuche"]

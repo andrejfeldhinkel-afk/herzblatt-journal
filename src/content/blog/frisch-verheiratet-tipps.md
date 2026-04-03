@@ -4,7 +4,7 @@ description: "Das erste Ehejahr ist eine Herausforderung. Entdecke praktische Ti
 date: 2025-10-11
 tags:
   - "Hochzeit"
-  - "Ehe"
+  - "ehe"
   - "Beziehungstipps"
   - "Ehealltag"
 featured: false

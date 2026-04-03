@@ -21,9 +21,7 @@ faq:
 
 Stell dir folgende Situation vor: Du versuchst, mit deinem Partner über ein wichtiges Problem zu sprechen. Du teilst deine Gefühle, deine Gedanken, deine Bedenken. Und dann – Stille. Dein Partner reagiert nicht. Er schaue dich nicht an. Er verweigert einfach, zu sprechen, zu hören, oder dich zu engagieren. Es ist wie, als würdest du gegen eine Mauer sprechen. Das ist **Stonewalling** oder auf Deutsch **Mauern**, und es ist eines der zerstörerischsten Streit-Muster, die es in Beziehungen gibt.
 
-Laut dem renommierten Paartherapeuten John Gottman ist Stonewalling einer der vier „Reiter der Apokalypse" einer Beziehung – vier Verhaltensweisen, die fast eine Garantie für das Ende einer Beziehung sind. In diesem umfassenden Ratgeber werde ich dir alles erklären, was du über dieses schädliche Streitmuster wissen musst, und dir praktische Strategien geben, um es zu überwinden und eine gesündere Kommunikation in deiner Beziehung aufzubauen.
-
-## Was ist Stonewalling und Mauern wirklich?
+Laut dem renommierten Paartherapeuten John Gottman ist Stonewalling einer der vier „Reiter der Apokalypse" einer Beziehung – vier Verhaltensweisen, die fast eine Garantie für das Ende einer Beziehung sind.## Was ist Stonewalling und Mauern wirklich?
 
 Stonewalling beschreibt die Situation, in der eine Person sich vollständig von einer Diskussion oder Konfrontation zurückzieht. Sie antwortet nicht, macht keinen Augenkontakt, zeigt keine emotionalen Reaktionen und blockiert die Kommunikation vollständig. Es ist ein emotionaler Shutdown. Die Person „mauert" sich ein, indem sie sich weigert, zu engagieren.
 

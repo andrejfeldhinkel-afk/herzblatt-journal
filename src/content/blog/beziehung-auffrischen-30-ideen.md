@@ -21,9 +21,7 @@ faq:
 
 Wenn du in einer langfristigen Beziehung lebst, kennst du das Phänomen wahrscheinlich nur zu gut: Mit der Zeit wird die Routine zum ständigen Begleiter. Morgens aufstehen, zur Arbeit gehen, abends auf der Couch sitzen – und dein Partner sitzt neben dir, aber irgendwie fühlt es sich nicht mehr so besonders an wie in den ersten Monaten der Liebe. Die gute Nachricht ist, dass eine Beziehung auffrischen nicht nur möglich ist, sondern auch deutlich einfacher, als du vielleicht denkst.
 
-Die Liebe braucht Aufmerksamkeit, genau wie eine Pflanze Wasser und Sonnenlicht braucht. Eine Beziehung auffrischen bedeutet, bewusste Entscheidungen zu treffen und Maßnahmen zu ergreifen, die eure Partnerschaft wieder in den Fokus rücken. In diesem umfassenden Guide zeige ich dir 30 praktische Ideen, wie du deine Beziehung neu beleben kannst – manche davon sind schnell umzusetzen, andere erfordern etwas mehr Planung, aber alle haben das Potenzial, deine Partnerschaft wieder zum Strahlen zu bringen.
-
-## 1. Schaffe ein wöchentliches Date-Ritual
+Die Liebe braucht Aufmerksamkeit, genau wie eine Pflanze Wasser und Sonnenlicht braucht. Eine Beziehung auffrischen bedeutet, bewusste Entscheidungen zu treffen und Maßnahmen zu ergreifen, die eure Partnerschaft wieder in den Fokus rücken.## 1. Schaffe ein wöchentliches Date-Ritual
 
 Eine der einfachsten, aber gleichzeitig wirkungsvollsten Methoden, um eine Beziehung aufzufrischen, ist die Etablierung eines wöchentlichen Date-Rituals. Entgegen der weit verbreiteten Annahme muss dieses Ritual nicht teuer oder aufwendig sein. Es geht darum, einen festen Zeitpunkt in der Woche zu haben, an dem ihr euch bewusst Zeit füreinander nehmt, ohne Ablenkung durch Smartphones, Arbeit oder andere Verpflichtungen.
 

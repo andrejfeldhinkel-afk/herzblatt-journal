@@ -1,5 +1,5 @@
 ---
-title: "Virtuelle Dates : Guide für Video-Dating und"
+title: "Virtuelle Dates : Guide für Video-Dating"
 description: "Alles über Video-Dating: Tipps für großartige erste Eindrücke, kreative Ideen und wie man offline wechselt. Modern dating leicht gemacht."
 keywords: ["virtuelle dates", "online dating", "dates guide", "guide video-dating"]
 tags:

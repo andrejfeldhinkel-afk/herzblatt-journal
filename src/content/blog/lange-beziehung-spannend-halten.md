@@ -4,7 +4,7 @@ description: "Lange Beziehung spannend halten: Wie du deine Liebe nach Jahren le
 date: 2025-09-19
 image: "/images/photos/lange-beziehung-spannend-halten.webp"
 tags:
-  - "beziehung"
+  - "Beziehung"
   - "liebe"
   - "beziehungsaufbau"
 ---

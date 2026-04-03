@@ -5,7 +5,7 @@ date: 2026-03-29
 tags:
   - "Beziehung"
   - "Kommunikation"
-  - "Liebe"
+  - "liebe"
 keywords: ["love languages", "liebessprachen", "beziehung mismatch", "wie du liebe zeigst"]
 draft: false
 image: "/images/photos/love-language-mismatches-guide.webp"
@@ -33,6 +33,8 @@ Du bist verwirrt. Du bist verwirrt. Du hast gerade Stunden damit verbracht, ihr 
 
 Das ist die Tragödie von Liebessprachen-Mismatch.
 
+## Die fünf Liebessprachen verstehen
+
 ## Die 5 Liebessprachen: Ein tieferer Überblick
 
 Gary Chapman popularisierte die Idee von "[Komplimente](/blog/komplimente-fuer-maenner) — "Du siehst schön aus heute." Das sind echte, spezifische, echte Worte:
@@ -58,6 +60,8 @@ Das könnte ein echtes, gespanntes Date sein — nicht auf dem Telefon scrollen,
 Diese Person fühlt sich geliebt, wenn du sie prioritärest. Wenn die andere Dinge in deinem Leben unwichtig werden, wenn sie da ist, fühlt sich diese Person gewählt.
 
 Die psychologische Grundlage: Diese Menschen wurden in einer Umgebung aufgezogen, in der Aufmerksamkeit = Liebe. Wenn ein Elternteil Zeit mit dir verbrachte, das bedeutete, dass der Elternteil dich liebte.
+
+## Sprachen für materielle und praktische Menschen
 
 ### Liebessprache 3: Geschenke
 
@@ -93,6 +97,8 @@ Diese Person fühlt sich geliebt durch körperlichen Kontakt. Das ist nicht ober
 
 Die psychologische Grundlage: Diese Menschen haben gelernt, dass körperliche Nähe = Sicherheit = Liebe.
 
+## Wenn die Sprachen nicht übereinstimmen
+
 ## Wie Liebessprachen-Mismatch entsteht und zerstört
 
 Der typische Szenario:
@@ -125,7 +131,7 @@ Der andere antwortet: "Wie kannst du das sagen? Ich tue alles für dich!"
 
 Aber keiner versteht: Das Problem ist nicht Liebe. Das Problem ist Übersetzung. Das Problem ist, dass sie in verschiedenen Sprachen sprechen.
 
-## Wie man Liebessprachen-Mismatch überwindet
+## Praktische Schritte zur Überwindung von Mismatch
 
 ### Schritt 1: Erkenne deine primäre Liebessprache
 
@@ -194,6 +200,16 @@ Das ist transformativ.
 Es bedeutet, dass du aufhörst, zu denken "Diese Person liebt mich nicht. Diese Person ignoriert mich. Diese Person kümmert sich nicht um mich" und anfängst zu denken: "Diese Person liebt mich in einer anderen Sprache. Diese Person zeigt Liebe anders. Ich habe einfach nicht erkannt, dass das Liebe war."
 
 Das ändert alles.
+
+## Die größere Lektion
+
+Das Konzept von Liebessprachen ist nicht perfekt. Es gibt viele Kritiker und viele Erweiterungen.
+
+Aber es ist nützlich — und transformativ.
+
+Es gibt dir ein Framework, um zu verstehen: "Vielleicht liebt mein Partner mich anders, aber diese Person liebt mich."
+
+Das ist transformativ.
 
 ---
 

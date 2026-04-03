@@ -194,3 +194,8 @@ Und eines Tages wirst du jemanden treffen, der dich respektiert, und du wirst da
 
 Das ist das Ziel.
 
+## Weiterlesen
+
+- [Dating mit sozialer Angst: Von Lähmung zu echten Gefühlen](/blog/dating-angst-soziale-phobie)
+- [Dating mit Depression: Liebe im Kampf mit Dunkelheit](/blog/dating-mit-depression)
+- [Dating mit PTBS – Beziehung aufbauen trotz Trauma](/blog/dating-mit-ptbs-posttraumatische-belastung)

@@ -160,3 +160,9 @@ Eine Hochzeit ist ein Fest der Liebe – und dein Glückwunsch soll das widerspi
 ---
 
 Der schönste Glückwunsch ist der, der von Herzen kommt. Ob du einen dieser 50 wählst oder deine eigenen Worte findest: Es ist der Gedanke, der zählt. Herzlichen Glückwunsch an alle Paare, die sich trauen, sich füreinander zu entscheiden – heute und jeden Tag danach.
+
+## Weiterlesen
+
+- [Abendroutine als Paar: 12 Ideen für mehr Nähe vor dem Sch...](/blog/abendroutine-als-paar)
+- [Beige Flags — Die langweiligen Warnsignale beim Dating](/blog/beige-flags-dating-guide)
+- [Beziehung auf Augenhoehe](/blog/beziehung-auf-augenhoehe-guide)

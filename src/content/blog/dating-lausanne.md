@@ -4,7 +4,7 @@ description: "Dating in Lausanne: Romantik pur am Genfer See. Französische Kult
 date: 2025-05-28
 image: "/images/photos/dating-lausanne.webp"
 tags:
-  - "dating"
+  - "Dating"
   - "dating-spots"
   - "lausanne"
   - "schweiz"

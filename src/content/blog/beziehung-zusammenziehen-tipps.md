@@ -244,3 +244,9 @@ Es wird schwer. Es wird auch wunderbar sein.
 Und am Ende werdet ihr wissen, ob diese Person die Person ist, mit der ihr den Rest eures Lebens verbringen möchtet.
 
 Das ist ziemlich wichtig.
+
+## Weiterlesen
+
+- [Bucket List für Paare – 50 Momente, die eure Beziehung le...](/blog/beziehung-bucket-list)
+- [Beziehung bei Schichtarbeit – Liebe im Taktversatz](/blog/beziehung-fernbeziehung-schichtarbeit)
+- [Finanzen in der Beziehung fair regeln](/blog/beziehung-finanzen-gemeinsam-regeln)
