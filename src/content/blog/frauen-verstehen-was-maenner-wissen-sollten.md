@@ -18,7 +18,7 @@ faq:
     answer: "Sie ist wahrscheinlich verletzt oder verärgert, aber nicht bereit, darüber zu sprechen. Gib ihr Zeit und Raum. Dränge sie nicht, aber sei präsent. Sie wird zum Reden bereit sein."
 ---
 
-# Frauen verstehen: Was jeder Mann wissen sollte
+## Frauen verstehen: Was jeder Mann wissen sollte
 
 Du sitzt da, alles scheint in Ordnung, und plötzlich ist sie verletzt. Du fragst, was los ist, und sie sagt „Nichts." Aber etwas ist eindeutig los, weil sie dich ignoriert und dir den Rücken zukehrt.
 

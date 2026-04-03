@@ -25,7 +25,7 @@ faq:
     answer: "Ja, oft. Sie geben dir Zeit, dich zu überlegen, was du sagen möchtest, ohne Druck."
 ---
 
-# Dating als schüchterne Person: Der komplette Guide
+## Dating als schüchterne Person: Der komplette Guide
 
 Du siehst jemanden, der dir gefällt. Dein Herz fängt an zu rasen. Dein Mund wird trocken. Du möchtest gehen und dich verstecken.
 

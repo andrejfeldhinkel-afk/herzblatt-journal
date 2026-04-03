@@ -23,7 +23,7 @@ faq:
     answer: "Dokumentiere Vorfälle, vertraue deiner Wahrnehmung, hole dir Unterstützung von außen (Freunde, Therapie), setze klare Grenzen und erwäge, die Beziehung zu beenden. Deine psychische Gesundheit ist entscheidend."
 ---
 
-# Gaslighting: Wie du erkennst, dass deine Realität manipuliert wird
+## Gaslighting: Wie du erkennst, dass deine Realität manipuliert wird
 
 Stell dir vor: Du sitzt am Frühstückstisch und sagst deinem Partner, dass er gestern furchtbar zu dir war. Er schaut dich ungläubig an und sagt: „Das habe ich doch nie gesagt. Du stellst das immer dramatischer dar. Das passiert nur in deiner Fantasie."
 
@@ -1013,6 +1013,6 @@ Und du wirst durchkommen. Mit Unterstützung, mit Zeit und mit der Fähigkeit, w
 
 ## Weitere Ressourcen
 
-- [Wie erkennst du Red Flags in Beziehungen](/blog/red-flags-beziehung/)
-- [Emotionale Manipulation: Wie du dich schützt](/blog/emotionale-manipulation/)
-- [Toxische Beziehungen verlassen: Ein praktischer Leitfaden](/blog/toxische-beziehungen-verlassen/)
+- [Wie erkennst du Red Flags in Beziehungen](/blog/red-flags-erkennen)
+- [Emotionale Manipulation: Wie du dich schützt](/blog/emotionale-manipulation-beziehung-erkennen)
+- [Toxische Beziehungen verlassen: Ein praktischer Leitfaden](/blog/toxische-beziehung-verlassen)

@@ -19,7 +19,7 @@ faq:
 
 ---
 
-# On-Off Beziehung: Warum sie so süchtig macht und wie du aussteigst
+## On-Off Beziehung: Warum sie so süchtig macht und wie du aussteigst
 
 Eine On-Off Beziehung ist wie ein emotionales Hamsterrad, auf dem du nicht aussteigen kannst. Du trennst dich, hältst es vielleicht zwei Wochen aus, dann packst dich die Sehnsucht wieder und du landest erneut in denselben Armen. Diese Muster wiederholen sich endlos, hinterlassen emotionale Narben und rauben dir deine Kraft. Doch warum ist es so verdammt schwer, solche Beziehungen zu beenden? Die Antwort liegt in deiner Psyche, in den Mechanismen deines Gehirns und in den unbewussten Mustern, die du möglicherweise seit deiner Kindheit mit dir trägst.
 

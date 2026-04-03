@@ -25,7 +25,7 @@ faq:
     answer: "Möglicherweise, aber nicht unbedingt negativ. Ein neuer Job könnte bedeuten mehr Stunden, ein neuer Ort oder neue Prioritäten. Kommunizieren Sie Ihre neue Situation klar beim Dating."
 ---
 
-# Dating nach Jobwechsel: Neuanfang auf allen Ebenen
+## Dating nach Jobwechsel: Neuanfang auf allen Ebenen
 
 Ein großer Jobwechsel ist eine massive Lebensveränderung. Sie verlassen möglicherweise den Job, den Sie Jahre gemacht haben, gehen zu einem neuen Ort, oder wechseln komplett Karrieren. Dies kann aufregend, beängstigend und desorientierend sein.
 

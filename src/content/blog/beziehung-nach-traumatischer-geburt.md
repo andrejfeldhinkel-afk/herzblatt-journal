@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Beziehung nach traumatischer Geburt: Wieder zusammenfinden
+## Beziehung nach traumatischer Geburt: Wieder zusammenfinden
 
 Eine traumatische Geburt ist nicht nur physisch anstrengend. Sie ist auch psychisch zerstörerisch. Das kann Geburtstraumata, Postpartum-Depressionen oder sogar PTSD zur Folge haben. Und wenn du in einer Beziehung bist, betrifft es auch deinen Partner.
 

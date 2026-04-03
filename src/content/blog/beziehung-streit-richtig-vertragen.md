@@ -19,7 +19,7 @@ faq:
     answer: "Das ist emotional manipulativ. Es ist nicht eine Strategie. Wenn du brauchst, Space zu kühlen: Gib einen klaren Timeframe. 'Ich brauche 2 Stunden, dann reden wir.' Nicht unbestimmtes Schweigen. Das verlängert Schmerz."
 ---
 
-# Nach dem Streit: Richtig vertragen und Nähe zurückgewinnen
+## Nach dem Streit: Richtig vertragen und Nähe zurückgewinnen
 
 Der Streit war intensiv. Ihr habe hart Dinge gesagt. Die Tür knallte. Eine Stunde später sitzt ihr auf gegenüberliegenden Seiten des Sofas in deafening Stille.
 

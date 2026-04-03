@@ -24,7 +24,7 @@ faq:
     answer: "Das ist deine Schuld nicht, aber es ist okay zu antworten: 'Ich bin nicht bereit für die richtige Person noch' oder 'Ich bin mit meinem Leben gerade zufrieden.'"
 ---
 
-# Single unter Druck: Wenn alle fragen warum Du allein bist
+## Single unter Druck: Wenn alle fragen warum Du allein bist
 
 Sie sind single, aber nicht unglücklich. Doch überall – Familie, Freunde, Kollegen – werden Sie gefragt: "Warum bist du immer noch single?" oder "Keine romantischen News?" oder schlimmer: "Deine Uhr tickt!" Es kann sich anfühlen, als gäbe es einen impliziten Druck, jemanden zu finden, um Ihre Existenz zu validieren. In diesem Artikel sprechen wir über den sozialen Druck, single zu sein, und wie man damit umgeht.
 

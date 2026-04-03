@@ -25,7 +25,7 @@ faq:
     answer: "Nicht unbedingt. Es kommt auf beide Partner an. Wenn beide bereit sind zu arbeiten, kann Paartherapie transformativ sein. Manchmal ist aber Distanz oder Trennung der einzige heilsame Weg."
 ---
 
-# Co-Abhängigkeit in Beziehungen: Erkennen und überwinden
+## Co-Abhängigkeit in Beziehungen: Erkennen und überwinden
 
 Du fragst Dich, warum Du Deine eigenen Bedürfnisse ständig zurückstellst? Warum Du Dich unwohl fühlst, wenn Dein Partner nicht glücklich ist, obwohl das nicht Deine Verantwortung ist? Du bist nicht allein. Co-Abhängigkeit ist ein weit verbreitetes Muster, das Millionen von Menschen in ihren Beziehungen unbewusst erleben. In diesem umfassenden Guide lernst Du, dieses destruktive Muster zu erkennen, seine Wurzeln zu verstehen und konkrete Schritte zur Überwindung zu gehen.
 

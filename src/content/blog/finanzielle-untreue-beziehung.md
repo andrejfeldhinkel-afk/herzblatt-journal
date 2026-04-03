@@ -1,6 +1,6 @@
 ---
 title: "Finanzielle Untreue: Wenn der Partner beim Geld lügt (2026)"
-description: "Finanzielle Untreue verstehen: Geheime Schulden, versteckte Ausgaben, Lügen beim Geld. Wie du Vertrauen wiederherstellst oder erkennst, dass die Beziehung vorbei ist."
+description: "Finanzielle Untreue verstehen: Geheime Schulden, versteckte Ausgaben, Lügen beim Geld."
 date: 2026-04-01
 image: "/images/blog/finanzielle-untreue-beziehung.webp"
 imageAlt: "Finanzielle Untreue Beziehung"

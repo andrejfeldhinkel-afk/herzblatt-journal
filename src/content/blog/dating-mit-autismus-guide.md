@@ -21,7 +21,7 @@ faq:
     answer: "Nein – und das ist gut so. Es gibt keine 'normale' Art zu daten. Es gibt nur DEINE Art. Dein Partner wird nicht mit einem neurotypischen Autisten daten – sondern mit dir. Mit deinen speziellen Wegen, zu lieben und zu verbinden. Das ist nicht weniger – das ist anders. Und anders kann wunderschön sein."
 ---
 
-# Dating mit Autismus: Dein authentischer Weg zur Liebe
+## Dating mit Autismus: Dein authentischer Weg zur Liebe
 
 Stell dir vor, du sitzt beim Date in einem überfüllten Restaurant. Der Lärm ist ohrenbetäubend. Die Lichter sind zu hell. Der Small Talk fühlt sich wie ein Drehbuch an, das du nicht gelesen hast. Und irgendwann merkst du: Dein Date wartet auf eine Antwort auf etwas, das du nicht gehört hast.
 

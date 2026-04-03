@@ -1,6 +1,6 @@
 ---
 title: "Die 5 Sprachen der Liebe: Verstehe was dein Partner wirkl..."
-description: "Erfahre alles über die 5 Sprachen der Liebe. Dieser komplette Guide zeigt dir, wie du deine Liebessprache erkennst, deinen Partner besser verstehst und eine tiefere emotionale Verbindung aufbaust."
+description: "Erfahre alles über die 5 Sprachen der Liebe. Dieser komplette Guide zeigt dir, wie du deine Liebessprache erkennst."
 author: thomas-peters
 image: "/images/blog/liebessprachen-komplett-guide.webp"
 imageAlt: "Liebessprachen Komplett Guide"
@@ -25,7 +25,7 @@ faq:
 
 ---
 
-# Die 5 Sprachen der Liebe: Verstehe was dein Partner wirklich braucht
+## Die 5 Sprachen der Liebe: Verstehe was dein Partner wirklich braucht
 
 Liebst du deinen Partner, aber fühlt er sich nicht verstanden? Oder ist es umgekehrt – dein Partner zeigt dir auf vielfältige Weise Liebe, doch irgendwie berührt es dich nicht richtig? Die Antwort liegt möglicherweise in den verschiedenen **Sprachen der Liebe**. Dieses revolutionäre Konzept, das der Beziehungsexperte Dr. Gary Chapman entwickelt hat, verändert Millionen von Beziehungen weltweit. In diesem umfassenden Guide erfährst du, wie die **5 Sprachen der Liebe** funktionieren, wie du deine eigene Liebessprache erkennst und wie du damit deine Beziehung transformieren kannst.
 

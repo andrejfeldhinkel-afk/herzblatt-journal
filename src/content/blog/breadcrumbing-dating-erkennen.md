@@ -24,7 +24,7 @@ faq:
     answer: "Setze klare Grenzen, fordere Klarheit ein, und wenn keine echte Verbindung entsteht, beende den Kontakt. Schütze Deine emotionale Gesundheit."
 ---
 
-# Breadcrumbing beim Dating erkennen: So schützt Du Dich vor Manipulation
+## Breadcrumbing beim Dating erkennen: So schützt Du Dich vor Manipulation
 
 Du kennst dieses Szenario vielleicht: Da ist jemand, an dem Du interessiert bist. Am Anfang war alles großartig – regelmäßige Nachrichten, Treffen, echte Aufmerksamkeit. Doch irgendwann wird alles weniger. Die Nachrichten werden seltener, unregelmäßiger. Manchmal dauert es Tage, bis dieser Mensch antwortet. Und wenn er oder sie sich meldet, dann mit etwas Kurzem – „Hey, wie geht's?" oder einer lustigen Reaktion auf Deine Story in den sozialen Medien. Du hoffst jedes Mal, dass dies der Moment ist, in dem sich die Dinge wieder zum Besseren wenden, aber es passiert nichts. Das ist Breadcrumbing – und es tut emotional wirklich weh.
 

@@ -22,7 +22,7 @@ faq:
     answer: "Durch Selbstliebe, Community und professionelle Hilfe wenn nötig. Erkenne, dass Ablehnung Teil des Prozesses ist. Es ist nicht persönlich. Es ist statistisch unvermeidbar."
 ---
 
-# Diskriminierung beim Dating: Umgang mit Ablehnung und Vorurteilen als queere Person
+## Diskriminierung beim Dating: Umgang mit Ablehnung und Vorurteilen als queere Person
 
 Die Nachricht kam um 20:37 Uhr: "Ich bin nicht wirklich in dich [verliebt](/blog/mann-verliebt-anzeichen-komplett). Ich habe nur gemerkt, dass du zu... feminine bist für mich. Ich bin mehr für maskuline Typen."
 

@@ -1,6 +1,6 @@
 ---
 title: "Beziehung und Kinderwunsch"
-description: "Ein praktischer Guide für Paare mit unterschiedlichem Kinderwunsch. Lerne, wie du offen mit deinem Partner über dieses sensible Thema sprichst, Kompromisse findest und eure Beziehung stärkst – egal wie ihr euch entscheidet."
+description: "Ein praktischer Guide für Paare mit unterschiedlichem Kinderwunsch. Lerne, wie du offen mit deinem Partner über dieses sensible Thema sprichst."
 author: sarah-kellner
 image: "/images/blog/beziehung-und-kinderwunsch-guide.webp"
 imageAlt: "Beziehung Und Kinderwunsch Guide"
@@ -25,7 +25,7 @@ faq:
 
 ---
 
-# Beziehung und Kinderwunsch: Wenn einer will und der andere nicht
+## Beziehung und Kinderwunsch: Wenn einer will und der andere nicht
 
 Es ist einer der größten Konflikte in modernen Beziehungen: Du möchtest Kinder, aber dein Partner nicht. Oder umgekehrt – dein Partner träumt von Vaterschaft, während du dich nicht sicher bist, ob du Mutter sein möchtest. Der **unterschiedliche Kinderwunsch** ist ein Thema, das viele Paare spaltet und zu schwerwiegenden Beziehungskrisen führt. Doch es ist auch ein Thema, das mit offener Kommunikation, gegenseitigem Verständnis und echtem Engagement gelöst werden kann. In diesem umfassenden Guide erfährst du, wie du mit einem **Partner, der kein Kind will**, umgehen kannst, wie du tiefe Gespräche führst und wie ihr zusammen eine Lösung findet, die für euch beide funktioniert.
 

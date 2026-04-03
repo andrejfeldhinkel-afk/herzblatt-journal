@@ -19,7 +19,7 @@ faq:
     answer: "Nein. Ja, es gibt viele ältere Touristen. Aber die Stadt hat junge Menschen (Universität, IT-Szene), trendige Cafés, alternative Szene. Mit der richtigen Strategie ist Augsburg großartig für junge Dating."
 ---
 
-# Dating in Augsburg: Fuggerstadt-Romantik
+## Dating in Augsburg: Fuggerstadt-Romantik
 
 Augsburg ist eines von Deutschlands besten gehüteten Dating-Geheimnissen. Die Stadt ist nur etwa 100.000 Einwohner groß, aber kulturell gigantisch. Renaissance-Architektur, die Fugger-Familie, zwei Flüsse (Lech und Wertach), und eine Geschichte, die über 2000 Jahre zurückreicht.
 

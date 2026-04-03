@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Offline Dating: Die besten Orte zum [Kennenlernen](/blog/dating-fragen-kennenlernen) in Deutschland
+## Offline Dating: Die besten Orte zum [Kennenlernen](/blog/dating-fragen-kennenlernen) in Deutschland
 
 Mit allen Dating-Apps kann es easy sein, das Echte zu vergessen – echte Menschen an echten Orten. Offline Dating ist immer noch eine der besten Wege zu verbinden. Du siehst wie jemand wirklich aussieht. Du siehst wie sie rede. Du merkst echte Chemie – nicht nur über Texte.
 

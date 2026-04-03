@@ -22,7 +22,7 @@ faq:
     answer: "Nein, nur er kann das ändern. Du kannst Grenzen setzen, du kannst Verständnis anbieten, du kannst Hilfe anbieten. Aber der Change muss von ihm kommen. Die Frage ist: Bist du bereit zu warten?"
 ---
 
-# Passive Aggression in der Beziehung – Die stille Zerstörung erkennen
+## Passive Aggression in der Beziehung – Die stille Zerstörung erkennen
 
 Es ist nicht laut. Es gibt keinen großen Streit. Aber du spürst es: Etwas ist falsch. Dein Partner hat dir einen Kommentar gemacht, der "nur Spaß" sein sollte, aber er hat sich wie ein Dorn angefühlt. Du bist eine Bitte vergessen, und er hat es nicht vergessen, sondern es ist jetzt, drei Wochen später, in einem passiv-aggressiven Kommentar wieder aufgetaucht.
 

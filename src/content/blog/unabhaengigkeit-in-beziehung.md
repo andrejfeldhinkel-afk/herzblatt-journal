@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Unabhängigkeit in der Beziehung bewahren: Wie du dich nicht selbst aufgibst
+## Unabhängigkeit in der Beziehung bewahren: Wie du dich nicht selbst aufgibst
 
 Du kennst dieses Szenario: Du bist [verliebt](/blog/mann-verliebt-anzeichen-komplett). Völlig, bedingungslos verliebt. Und auf einmal bedeutet dein Hobby nicht mehr viel. Deine Freunde sehen dich weniger. Deine Karriereziele rücken in den Hintergrund. Alles dreht sich um deine Beziehung. Und es fühlt sich romantisch an, oder?
 

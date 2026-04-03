@@ -18,7 +18,7 @@ faq:
     answer: "Nicht genau so – aber anders und oft besser. Die Schmetterlinge sind weg, aber dafür gibt es Vertrauen, Tiefe und ein echtes Kennen des anderen. Eine reife Liebe kann mehr Erfüllung bringen als die Anfangszeitaufregung, wenn ihr aktiv daran arbeitet."
 ---
 
-# Langzeitbeziehung: 30 Wege die Liebe frisch zu halten
+## Langzeitbeziehung: 30 Wege die Liebe frisch zu halten
 
 Die erste Nacht zusammen. Ihr könnt nicht die Hände voneinander lassen. Du denkst nachts über ihn nach, statt zu schlafen. Euer erster Monat vergeht im Flug. Ein Jahr später könntet ihr immer noch neugierig aufeinander sein – oder ihr sitzt schweigend beim Abendbrot, jeder scrollt auf seinem Handy, und ihr fragt euch insgeheim: „Ist das alles?"
 

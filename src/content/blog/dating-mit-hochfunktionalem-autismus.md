@@ -22,7 +22,7 @@ faq:
     answer: "Mit Verständnis und Vorhersehbarkeit. Wenn dein Partner sensorisch überfordert ist, biete Ruhe und Raum an, ohne dich persönlich verletzt zu fühlen."
 ---
 
-# Dating im Autismus-Spektrum – Verbindung auf eigene Art
+## Dating im Autismus-Spektrum – Verbindung auf eigene Art
 
 Du sitzt im Café mit ihm und er schaut dir nicht wirklich in die Augen. Stattdessen schaut er auf dein Ohr oder zur Seite. Die ersten paar Male verunsichert das dich. Bedeutet das, dass er nicht interessiert ist? Aber dann merkst du, dass er intensiv zuhört. Er stellt durchdachte Fragen. Er merkt Details über dich, die du selbst vergessen hast.
 

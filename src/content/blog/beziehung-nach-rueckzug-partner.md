@@ -23,7 +23,7 @@ faq:
     answer: "Nein, drängen verschärft oft den Rückzug. Teilen Sie stattdessen Ihre Bedenken ruhig mit und bieten Sie Unterstützung an."
 ---
 
-# Wenn der Partner sich zurückzieht: Ursachen und Lösungen
+## Wenn der Partner sich zurückzieht: Ursachen und Lösungen
 
 Sie merken, dass etwas nicht stimmt. Ihr Partner ist emotional distanziert. Er oder sie scheint nicht mehr präsent zu sein, nicht mehr engagiert. Die Nähe, die ihr einmal hattet, ist irgendwie verschwunden. Dies ist einer der schmerzhaftesten Aspekte einer Beziehung – wenn die andere Person zu Ihnen sagt, dass sie nicht für Sie da ist. In diesem Artikel erkunden wir, warum Partner sich zurückziehen und wie Sie damit umgehen können.
 

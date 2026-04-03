@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Wochenend-Beziehung: Liebe auf Distanz während der Woche
+## Wochenend-Beziehung: Liebe auf Distanz während der Woche
 
 Eine Wochenend-Beziehung ist, wenn du mit jemandem zusammen bist, aber ihr nur zusammen am Wochenende verbringt. Während der Woche sind Sie getrennt – möglicherweise wegen Arbeit, Schule, Familie Verpflichtungen oder Living-Situationen.
 

@@ -20,7 +20,7 @@ faq:
     answer: "Das ist nur Du zu entscheiden. Finanzielle Probleme sind schmerzhaft, aber sie sind nicht automatisch eine Beziehung-Ender. Wenn beide bereit sind zu arbeiten, könnt Ihr das überwinden. Aber wenn Einer gibt auf, es wird schwer."
 ---
 
-# Als Paar durch die Insolvenz – Wenn Geldprobleme eure Liebe testen
+## Als Paar durch die Insolvenz – Wenn Geldprobleme eure Liebe testen
 
 Das Argument fing klein an. Dein Partner gab hunderte Euro aus, ohne Dich zu fragen. Du fragtest, warum. Er oder sie sagte, dass es eine Notwendigkeit war.
 

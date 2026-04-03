@@ -1,6 +1,6 @@
 ---
 title: Wenn einer in der Beziehung mehr liebt als der andere
-description: "Wenn einer in der Beziehung mehr liebt als der andere — Erfahre bewährte Strategien und Expertentipps für eine glücklichere, stärkere Partnerschaft im Alltag."
+description: "Wenn einer in der Beziehung mehr liebt als der andere — Erfahre bewährte Strategien und Expertentipps für eine glücklichere."
 date: 2026-03-16
 tags:
   - "Beziehung"
@@ -24,7 +24,7 @@ faq:
     answer: "Nein. Deine Liebe ist nicht das Problem. Das Problem ist ob Dein Partner das erwidert."
 ---
 
-# Wenn einer mehr liebt: Wie man mit Ungleichheit in der Beziehung umgeht
+## Wenn einer mehr liebt: Wie man mit Ungleichheit in der Beziehung umgeht
 
 Du vergießt Tränen. Sie nimmt ein Nickerchen.
 

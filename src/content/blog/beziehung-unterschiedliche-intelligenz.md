@@ -22,7 +22,7 @@ faq:
     answer: "Das ist möglich. Wenn du nicht mit jemandem über wichtige Themen reden kannst, ist das ein echtes Problem. Das ist nicht Oberflächlichkeit, das ist Inkompatibilität."
 ---
 
-# Wenn Partner unterschiedlich intelligent sind – Beziehung auf Augenhöhe?
+## Wenn Partner unterschiedlich intelligent sind – Beziehung auf Augenhöhe?
 
 Sie sitzt dort und liest ein dickes philosophisches Buch. Du schaust es an und denkst: Ich würde das nie verstehen. Ein unterschwelliges Gefühl macht sich breit – nicht böse, sondern: Ich bin nicht gut genug. Oder umgekehrt: Ich verstehe das, aber er nicht. Ein unterschwelliges Gefühl von: Ich bin überlegen.
 

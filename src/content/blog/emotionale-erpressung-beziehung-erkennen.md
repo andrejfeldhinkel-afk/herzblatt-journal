@@ -22,7 +22,7 @@ faq:
     answer: "'Das ist deine Entscheidung. Aber kurze Antwort: Nicht länger als es braucht, um zu gehen. Wenn dein Partner nicht zu Veränderung bereit ist, und die Erpressung wird schlimmer, ist es Zeit zu gehen. Du kannst nicht jemanden reparieren, der nicht repariert werden will.'"
 ---
 
-# Emotionale Erpressung in der Beziehung: Erkennen und Stoppen
+## Emotionale Erpressung in der Beziehung: Erkennen und Stoppen
 
 Emotionale Erpressung ist die subtilste Form von Manipulation in Beziehungen. Es ist nicht körperlich. Es ist nicht offensichtlich. Aber es ist tief schädlich.
 

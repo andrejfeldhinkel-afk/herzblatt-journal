@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Getrennte Urlaube in der Beziehung: Warum Abstand Nähe stärkt
+## Getrennte Urlaube in der Beziehung: Warum Abstand Nähe stärkt
 
 Du kennst das Szenario: Die Urlaubsplanung steht an und dein Partner möchte zwei Wochen mit seinen Freunden nach Südamerika, während du dich nach Ruhe am Meer sehnst. Der erste Instinkt vieler Menschen in einer Beziehung ist Panik. "Getrennte Urlaube? Das ist doch nicht normal für Paare!" Der Gedanke an diese [verliebt](/blog/mann-verliebt-anzeichen-komplett) ist.
 

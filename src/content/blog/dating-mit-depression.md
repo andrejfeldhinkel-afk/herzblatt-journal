@@ -19,7 +19,7 @@ faq:
     answer: "Zunächst: Das ist ein wichtiges Zeichen. Sprich mit deinem Therapeuten oder deiner Therapeutin. Wenn der Partner keine Unterstützung bietet, deine Grenzen nicht respektiert oder dich belastet, ist es fair gegenüber beiden, die Beziehung zu beenden oder Grenzen zu setzen."
 ---
 
-# Dating mit Depression: Liebe im Kampf mit Dunkelheit
+## Dating mit Depression: Liebe im Kampf mit Dunkelheit
 
 Du sitzt am Freitagabend zu Hause, es ist 19:30 Uhr, und du hast ein Date. Der Gedanke daran lässt dich erschöpft werden, noch bevor du überhaupt anfängst. Die Depression sitzt dir im Nacken wie eine schwere Last. Du wünschst dir, [Ghosting](/blog/ghosting-komplett-guide) oder Distanzierung, ohne zu fragen
 - "Ich bin nicht emotional stark genug, damit umzugehen" (das ist fair, aber nicht dein Problem)

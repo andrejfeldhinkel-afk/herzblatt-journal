@@ -1,6 +1,6 @@
 ---
 title: "Selbstwert wieder aufbauen nach toxischer Beziehung"
-description: "Dein Selbstwert ist nach einer toxischen Beziehung am Boden? Erfahre wie du Schritt für Schritt wieder zu dir selbst findest und dein Selbstbewusstsein neu aufbaust."
+description: "Dein Selbstwert ist nach einer toxischen Beziehung am Boden? Erfahre wie du Schritt für Schritt wieder zu dir selbst findest und dein Selbstbewusstsein."
 date: 2025-12-15
 image: "/images/photos/selbstwert-nach-toxischer-beziehung.webp"
 imageAlt: "Starke Frau im Sonnenaufgang nach toxischer Beziehung"

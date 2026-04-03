@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Dating ab 30: Der umfassende Guide für deine beste Dating-Phase
+## Dating ab 30: Der umfassende Guide für deine beste Dating-Phase
 
 Mit 30 beginnt für dich eine völlig neue Dating-Ära. Das klingt dramatisch, aber es ist wahr. Du bist keine 25 mehr. Du kennst dich besser, weißt, was du willst, und hast deutlich weniger Zeit für Spielchen. Gleichzeitig ist das eine unglaubliche Stärke beim Dating – wenn du das verstehst.
 

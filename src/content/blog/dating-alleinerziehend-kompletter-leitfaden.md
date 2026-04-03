@@ -19,7 +19,7 @@ faq:
     answer: "Absolut nicht. Du bist ein Mensch mit Bedürfnissen und Wünschen. Das ist nicht egoistisch – das ist menschlich. Denk an es so: Wenn du glücklich bist, ist dein Kind glücklicher. Eine gesunde, liebevolle Beziehung zu haben ist ein gutes Vorbild für dein Kind, nicht das Gegenteil."
 ---
 
-# Dating als Alleinerziehende/r: Der komplette Leitfaden für den Neustart
+## Dating als Alleinerziehende/r: Der komplette Leitfaden für den Neustart
 
 Der Moment, in dem du als Alleinerziehende/r wieder daten möchtest, ist ein Moment voller Emotionen. Es gibt Hoffnung, weil ein Teil von dir sagt "Ich verdiene Glück und Liebe." Es gibt auch Angst – Angst vor Ablehnung, Angst um dein Kind, Angst, dass du dein Leben zu komplex machst.
 

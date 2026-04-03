@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Langzeitbeziehung frisch halten: 15 konkrete Ideen, um die Funken am Fliegen zu halten
+## Langzeitbeziehung frisch halten: 15 konkrete Ideen, um die Funken am Fliegen zu halten
 
 Das passiert in fast jeder Langzeitbeziehung irgendwann. Die ersten Jahre sind magisch – alles ist neu, aufregend, ihr könnt nicht die Hände voneinander lassen. Aber dann, meistens irgendwann im dritten bis fünften Jahr, setzt Routine ein.
 

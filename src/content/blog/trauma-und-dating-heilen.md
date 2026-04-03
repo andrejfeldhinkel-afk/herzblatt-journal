@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Trauma und Dating: Mit Vergangenheit daten
+## Trauma und Dating: Mit Vergangenheit daten
 
 Wie du Traumata verarbeitest und bereit wirst, wieder zu daten und zu lieben. In diesem Artikel werden wir tiefer in das Thema eintauchen und praktische Strategien erkunden.
 

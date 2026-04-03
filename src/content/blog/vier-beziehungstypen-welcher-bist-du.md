@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# 4 Beziehungstypen: Welcher bist du?
+## 4 Beziehungstypen: Welcher bist du?
 
 Es gibt einen Grund, warum einige Menschen in Beziehungen beruhigt sind und andere ständig angespannt sind. Es gibt einen Grund, warum manche Menschen viel Nähe brauchen und andere Abstand. Das hängt mit deinem Bindungstyp zusammen – und die Psychologie dahinter ist faszinierend.
 

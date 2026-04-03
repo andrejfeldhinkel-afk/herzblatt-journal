@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Erkenne dein Liebes-Muster: Die Art, wie du liebst
+## Erkenne dein Liebes-Muster: Die Art, wie du liebst
 
 Es gibt ein Muster in deinen Beziehungen. Das ist nicht unbedingt negativ – es ist einfach eine Beobachtung. Die Menschen, die du magst, teilen ähnliche Züge. Die Art, wie du dich in Beziehungen verhältst, ist konsistent. Die Art, wie Dinge zu Ende gehen, ähnelt sich.
 

@@ -18,7 +18,7 @@ faq:
     answer: "Dein Partner kann Grenzen klar kommunizieren, Verlässlichkeit zeigen, dich versichern, wenn Unsicherheit entsteht, aber gleichzeitig nicht alle deine Ängste managen. Letztlich ist es deine Verantwortung, an dir zu arbeiten."
 ---
 
-# Eifersucht überwinden: Der komplette Leitfaden zu einer vertrauensvollen Beziehung
+## Eifersucht überwinden: Der komplette Leitfaden zu einer vertrauensvollen Beziehung
 
 Eifersucht ist wie ein unsichtbarer Feind in deiner Beziehung. Du sitzt da, dein Partner schaut auf sein Handy, lacht heimlich – und schon kribbelts in deiner Brust. Wer war das? Wieso antwortet er/sie nicht sofort? Du fragst nach, versuchst cool zu bleiben, aber die Gedanken rasen. Hast du das auch schon erlebt?
 

@@ -22,7 +22,7 @@ faq:
     answer: "'Ja, es könnte. Das ist die Wahrheit. Du bekommst nie 100% Garantie. Aber wenn dein Partner sich geändert hat, sinkt die Wahrscheinlichkeit dramatisch.'"
 ---
 
-# Beziehung nach Vertrauensbruch neu aufbauen: Der Heilungsweg
+## Beziehung nach Vertrauensbruch neu aufbauen: Der Heilungsweg
 
 Der Moment ist präzis. Du erfährst die Wahrheit — durch ein Text, ein Geständnis, die Entdeckung. Dein Partner hat dich betrogen. Oder er hat dich angelogen. Oder er hat dein Vertrauen auf fundamentale Weise verletzt. Die Welt stoppt. Nichts wird jemals wieder gleich sein.
 

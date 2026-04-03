@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Dating als Akademiker: Hohe Ansprüche als Chance, nicht als Hindernis
+## Dating als Akademiker: Hohe Ansprüche als Chance, nicht als Hindernis
 
 Du hast deinen Master-Abschluss. Vielleicht sogar deine Promotion. Du hast Jahre in deine Ausbildung investiert. Und jetzt, wenn es um Dating geht, fühlst du dich gefangen zwischen zwei Welten: Der Wunsch nach jemandem, der dein Niveau versteht, und die Realität, dass nicht viele Menschen in dieser Sphäre sind.
 

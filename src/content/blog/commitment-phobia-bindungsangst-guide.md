@@ -1,6 +1,6 @@
 ---
 title: "Commitment Phobia — Warum manche Menschen sich nie festlegen"
-description: "Bindungsangst ist real und kann eine Beziehung zerstören. Wir zeigen dir die Zeichen, die Ursachen, und wie man damit umgeht — ob du selbst betroffen bist oder dein Partner."
+description: "Bindungsangst ist real und kann eine Beziehung zerstören. Wir zeigen dir die Zeichen, die Ursachen, und wie man damit umgeht."
 date: 2025-04-14
 author: "thomas-peters"
 image: "/images/blog/commitment-phobia-bindungsangst-guide.webp"

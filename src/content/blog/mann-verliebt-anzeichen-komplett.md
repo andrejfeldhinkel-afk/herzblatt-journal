@@ -1,6 +1,6 @@
 ---
 title: "Ist er verliebt? 25 eindeutige Anzeichen, die ihn verraten"
-description: "Ist er wirklich verliebt oder nur interessiert? Diese 25 wissenschaftlich fundierten Anzeichen verraten dir, ob ein Mann echte Gefühle hat. Von Körpersprache bis Verhalten."
+description: "Ist er wirklich verliebt oder nur interessiert? Diese 25 wissenschaftlich fundierten Anzeichen verraten dir, ob ein Mann echte Gefühle hat."
 date: 2026-03-19
 image: "/images/blog/mann-verliebt-anzeichen-komplett.webp"
 imageAlt: "Mann zeigt Zeichen von Verliebtheit"

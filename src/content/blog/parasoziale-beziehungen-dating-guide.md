@@ -25,7 +25,7 @@ faq:
     answer: "Nein. Das ist das ganze Wesen einer parasozialen Beziehung. Die andere Person weiß nicht, dass du existierst. Oder sie kennt dich nicht wie du sie kennst. Das ist asymmetrisch. Es kann nie gegenseitig werden, wenn du nicht real Kontakt mit der Person hast."
 ---
 
-# Parasoziale Beziehungen: Wenn Schwärmen zur Flucht wird
+## Parasoziale Beziehungen: Wenn Schwärmen zur Flucht wird
 
 Du folgst seinem Instagram. Du schaust all seine Interviews. Du kennst seine Lieblingsfarbe, seinen Geburtstag, wo er wohnt. Du stellst dir vor, wie es sein würde, ihn zu treffen. Du stellst dir vor, dass er dich sehen würde und erkennen würde, dass du sein Seelenverwandter bist.
 

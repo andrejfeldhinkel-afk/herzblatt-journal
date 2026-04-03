@@ -22,7 +22,7 @@ faq:
     answer: "Deine Sicherheit ist nicht verhandelbar. Treffen Sie Menschen an öffentlichen Orten. Erzählen Sie einem Freund, wohin Sie gehen. Vertrauen Sie Ihrem Bauch – wenn etwas nicht richtig fühlt sich an, ist es okay, zu gehen. Sie schulden niemandem Ihre Zeit oder Ihren Körper."
 ---
 
-# Dating als Transgender-Person – Authentisch lieben und geliebt werden
+## Dating als Transgender-Person – Authentisch lieben und geliebt werden
 
 Dating ist für jeden kompliziert. Du versuchst herauszufinden, ob dieser Mensch vertrauenswürdig ist. Ob er dich respektiert. Ob es mehr als Chemie gibt. Es ist emotional anstrengend, offen zu sein und abgelehnt zu werden.
 

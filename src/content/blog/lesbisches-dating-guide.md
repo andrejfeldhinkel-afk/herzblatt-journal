@@ -22,7 +22,7 @@ faq:
     answer: "Das Stereotyp ist: Lesbische Paare ziehen nach wenigen Wochen zusammen (daher 'U-Haul'). Ja, das passiert manchmal, aber es ist kein Gesetz. Wenn ihr zusammenziehen wollt, super. Wenn nicht, ist das auch super. Geh in deinem eigenen Tempo, nicht im Tempo des Stereotyps."
 ---
 
-# Lesbisches Dating: Frauen lieben Frauen — Der komplette Guide
+## Lesbisches Dating: Frauen lieben Frauen — Der komplette Guide
 
 Das lesbische Dating ist seine eigene spezielle Form von Wunderbar und Chaotisch. Du navigierst die Komplexität, eine Frau zu lieben in einer Welt, die Frauenliebe romantisiert hat, aber nicht wirklich ernst nimmt. Du lernst, dass du nicht allein bist mit deiner Sehnsucht – es gibt Tausende von Frauen, die genau das fühlen, was du fühlst. Und manchmal sind beide sehr Tausende genau im gleichen Radius, aber wissen es nicht voneinander.
 

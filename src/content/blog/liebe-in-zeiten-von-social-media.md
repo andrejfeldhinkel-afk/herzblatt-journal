@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Liebe in Zeiten von Social Media: Wenn Instagram deine Beziehung sabotiert
+## Liebe in Zeiten von Social Media: Wenn Instagram deine Beziehung sabotiert
 
 Du sitzt mit deinem Partner beim Abendessen. Ihr redet, aber beide habt Handys neben euch. Jemand bekommt eine Benachrichtigung. Das Gespräch stockt. Später siehst du, dass dein Partner ein Story gepostet hat von sich selbst, aber nicht von euch zusammen. Kleine Sachen. Aber sie nagen.
 

@@ -17,7 +17,7 @@ faq:
 
 ---
 
-# Beziehungspause: Wann sie sinnvoll ist und wie sie gelingt
+## Beziehungspause: Wann sie sinnvoll ist und wie sie gelingt
 
 Eine [Trennung](/blog/trennung-verarbeiten-12-schritte) dadurch, dass beide Partner mit der Intention eingehen, die Beziehung potenziell fortzusetzen, nachdem die Pause vorbei ist. Es ist ein Raum, um Abstand zu schaffen, ohne dass man die Tür komplett zuschließt. Dies erfordert aber klare Vereinbarungen und gegenseitiges Verständnis.
 

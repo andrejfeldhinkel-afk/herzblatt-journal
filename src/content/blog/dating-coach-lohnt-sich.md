@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Dating Coach: Lohnt sich das?
+## Dating Coach: Lohnt sich das?
 
 Die Vorstellung ist verlockend: Du zahlst jemandem, um dir zu helfen, jemanden zu finden. Ein Experte, der dir zeigt, was du falsch machst, dir hilft, dein Profil zu verbessern und dir Tipps gibt, wie du auf Dates beeindruckst. Ein Dating Coach könnte genau das sein, was du brauchst, um endlich aus dem Dating-Sumpf rauszukommen. Aber lohnt es sich wirklich?
 

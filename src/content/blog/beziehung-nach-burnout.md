@@ -19,7 +19,7 @@ faq:
     answer: "Ja, aber nur, wenn beide aktiv daran arbeiten. Der ausgebrannte Partner braucht professionelle Hilfe und sollte aktiv Veränderungen vornehmen. Der andere Partner schafft den Rahmen dafür und setzt Grenzen. Es ist Teamwork."
 ---
 
-# Beziehung nach Burnout: So rettest du eure Liebe
+## Beziehung nach Burnout: So rettest du eure Liebe
 
 Dein Partner sitzt auf der Couch, schaut ins Leere und antwortet nicht auf deine Frage. Du wiedersprichst. Keine Reaktion. Das ist jetzt die dritte Woche so. Früher war er voller Leben, jetzt wirkt er wie ein Zombie. Du liebst diese Person, aber du weißt nicht mehr, wie du helfen kannst. Die Beziehung leidet unter dem Burnout, und du fragst dich, ob ihr zusammen wieder aus diesem Loch herauskommt.
 

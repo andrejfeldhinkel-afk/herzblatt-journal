@@ -22,7 +22,7 @@ faq:
     answer: "Es hängt von deiner Situation ab. Du könntest einfach sagen: 'Ich bin pansexuell – ich bin zu Menschen aller Geschlechter angezogen.' Mit romantischen Partnern könnte es sein: 'Ich möchte dich wissen lassen, dass ich pansexuell bin – es bedeutet, dass Geschlecht nicht meine Anziehung bestimmt, aber ich bin in dich verliebt.' Bei Familie oder Freunden könntest du deine Worte wählen, je nach wie sicher sie sind."
 ---
 
-# Pansexuelles Dating: Liebe ohne Grenzen — Der komplette Guide
+## Pansexuelles Dating: Liebe ohne Grenzen — Der komplette Guide
 
 Es gibt einen Moment in dem Leben vieler Pansexueller, in dem sie realisieren, dass sie nicht „normal" lieben. Es ist nicht, dass sie zu viel lieben oder oberflächlich lieben – es ist, dass ihre Liebe nicht einem Muster folgt, das die Welt verstehen kann.
 

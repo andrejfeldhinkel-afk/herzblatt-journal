@@ -24,7 +24,7 @@ faq:
     answer: "Manchmal ja, manchmal ist es unbewusst oder ein Überlebensmechanismus des Manipulators. Das ändert aber nichts daran, dass die Auswirkungen schädlich sind und du dich schützen musst."
 ---
 
-# Gaslighting: Die subtilste Form der psychologischen Manipulation
+## Gaslighting: Die subtilste Form der psychologischen Manipulation
 
 Stell dir vor: Du sitzt mit deinem Partner im Café, und er sagt etwas zu dir, das dich verletzt. Du fragst nach, warum er das gesagt hat. Und dann passiert es – er schaut dich überrascht an und sagt: „Ich habe das nie gesagt. Du drehst dir wieder alles zurecht. Das ist nur in deinem Kopf."
 

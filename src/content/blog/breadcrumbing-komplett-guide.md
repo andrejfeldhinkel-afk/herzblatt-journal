@@ -1,6 +1,6 @@
 ---
 title: "Breadcrumbing: Der komplette Guide zu Manipulation und Selbstwert"
-description: "Breadcrumbing - Was ist es, 10+ konkrete Beispiele, warum Leute breadcrumben, wie du reagierst und deinen Selbstwert zurückgewinnst. Dein Ratgeber gegen Manipulation."
+description: "Breadcrumbing - Was ist es, 10+ konkrete Beispiele, warum Leute breadcrumben, wie du reagierst und deinen Selbstwert zurückgewinnst."
 date: 2026-04-03
 tags:
   - Dating

@@ -25,7 +25,7 @@ faq:
     answer: "Nach dem Event gibst du an, wer dir gefallen hat. Wenn beide Personen sich gegenseitig auswählen, erhaltet ihr die Kontaktdaten des anderen."
 ---
 
-# Speed Dating: Alles was du wissen musst
+## Speed Dating: Alles was du wissen musst
 
 Speed Dating hat sich in den letzten Jahren zu einer beliebten Methode entwickelt, um neue Menschen kennenzulernen. Diese Matchmaking-Veranstaltungen bieten dir die Chance, in kurzer Zeit viele potenzielle Partner zu treffen. Ob du Single bist und deine Chancen erhöhen möchtest oder einfach nur neugierig auf dieses Phänomen bist – dieser umfassende Guide beantwortet alle deine Fragen zum Thema Speed Dating und gibt dir praktische Tipps für dein erstes Event.
 

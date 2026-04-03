@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Dating-Apps im Vergleich 2026: Welche passt zu dir?
+## Dating-Apps im Vergleich 2026: Welche passt zu dir?
 
 Es gibt buchstäblich mehr Dating-Apps als du nutzen könntest. Jede mit ihrem eigenen Versprechen, ihrem eigenen Algorithmus, ihrer eigenen Kultur.
 

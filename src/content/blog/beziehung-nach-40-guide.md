@@ -19,7 +19,7 @@ faq:
     answer: "Nein, aber anders. Menschen ab 40 haben oft besseren Sex (weniger Unsicherheit, mehr Selbstkenntnis). Sexuelle Chemie ist genauso wichtig wie unter 30. Der Unterschied: Ab 40 verstehen Menschen, dass Sex ein Teil von Intimität ist, nicht das ganze Ding. Intimität (emotionale und physische) ist was zählt."
 ---
 
-# Beziehung ab 40: Die besten Jahre beginnen
+## Beziehung ab 40: Die besten Jahre beginnen
 
 Es gibt ein Narrativ, das über 40 zu alt ist für echte Liebe, dass die besten Jahre vorbei sind, dass du kompromissbereit bist. Das ist falsch. Die besten Jahre fangen manchmal erst mit 40 an.
 

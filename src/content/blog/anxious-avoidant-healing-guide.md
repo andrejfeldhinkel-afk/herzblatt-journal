@@ -9,7 +9,7 @@ tags:
   - "Beziehung"
   - "Heilung"
 keywords: ["anxious avoidant healing", "ängstlich vermeidend beziehung heilen", "bindungsstile überwinden paar", "protestverhalten stoppen"]
-description: "Die anxious-avoidant Falle ist eine der schmerzhaftesten Dyaden in Beziehungen. Lerne, wie beide Partner zusammen heilen können statt sich gegenseitig zu verletzen."
+description: "Die anxious-avoidant Falle ist eine der schmerzhaftesten Dyaden in Beziehungen. Lerne."
 date: 2025-01-19
 ---
 

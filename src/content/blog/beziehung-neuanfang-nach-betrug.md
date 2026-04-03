@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Beziehung nach Betrug: Wie du wieder Vertrauen aufbaust
+## Beziehung nach Betrug: Wie du wieder Vertrauen aufbaust
 
 Dein Partner hat dich betrogen. Diese drei Worte fühlen sich an wie ein Schlag in die Magengrube. Die Welt, wie du sie kanntest, hat sich verschoben. Du fragst dich ständig: Kann ich ihm jemals wieder vertrauen? Lohnt sich das Ganze überhaupt noch? Heute möchte ich mit dir über diese unfassbar schwierige Situation sprechen – nicht, um dir Honig ums Maul zu schmieren, sondern um dir echte, praktische Wege aufzuzeigen, wie du entscheiden kannst, ob eine Beziehung nach Betrug noch zu retten ist.
 

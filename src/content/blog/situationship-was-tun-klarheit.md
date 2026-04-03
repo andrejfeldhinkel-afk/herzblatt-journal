@@ -24,7 +24,7 @@ faq:
     answer: "Das ist schon eine Antwort. Dein Partner möchte die Klarheit nicht, weil es ihm/ihr in der Schwebe gefällt."
 ---
 
-# Situationship: Was tun wenn es nicht klar ist?
+## Situationship: Was tun wenn es nicht klar ist?
 
 Ihr seid zusammen. Aber seid ihr zusammen? Es ist unklar.
 

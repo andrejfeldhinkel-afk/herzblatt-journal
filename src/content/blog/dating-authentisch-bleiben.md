@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Authentisch bleiben beim Dating: Die beste Strategie
+## Authentisch bleiben beim Dating: Die beste Strategie
 
 Es gibt da diesen Druck beim Dating: Sei nicht zu viel, aber zeig genug. Sei lustig, aber nicht albern. Sei interessiert, aber nicht bedürftig. Die Liste geht weiter. Kein Wunder, dass so viele Menschen beim Dating ein falsches Selbst präsentieren.
 

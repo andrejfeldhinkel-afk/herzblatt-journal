@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Dating als hochsensible Frau: Was du wissen musst
+## Dating als hochsensible Frau: Was du wissen musst
 
 Du nimmst Vieles mehr wahr als andere. Ein beiläufiger Kommentar, der jemand anderes überhaupt nicht kümmert, verletzt dich tief. Du spürst die Stimmung im Raum sofort, selbst wenn andere sie ignorieren. Du brauchst länger, um dich von negativ Erlebnissen zu erholen. Und Fragen wie "Magst du mich?" oder "Bin ich genug?" beschäftigen dich intensiv.
 

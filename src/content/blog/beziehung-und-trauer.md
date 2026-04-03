@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Trauer in der Beziehung: Gemeinsam durch den Schmerz
+## Trauer in der Beziehung: Gemeinsam durch den Schmerz
 
 Die Diagnose kam plötzlich. Der Anruf aus der alten Heimat mit schlechten Nachrichten. Der Unfall. Der Moment, in dem du erfährst, dass jemand, den du liebst, sterben wird – oder bereits gestorben ist.
 

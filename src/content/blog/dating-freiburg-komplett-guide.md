@@ -19,7 +19,7 @@ faq:
     answer: "Absolut. Freiburg ist sehr weltoffen und international. Die studentische Atmosphäre macht es einfach, Menschen kennenzulernen. Dating-Apps funktionieren hervorragend, und spontane Bekanntschaften sind in der lockeren Kultur völlig normal."
 ---
 
-# Dating in Freiburg: Sonne, Bächle und Liebe
+## Dating in Freiburg: Sonne, Bächle und Liebe
 
 Freiburg ist nicht nur eine der schönsten Städte Deutschlands – sie ist auch ein Paradies für Singles. Die sonnigste Stadt nördlich der Alpen, charmante Gässchen, entspannte Cafés und eine junge, aufgeschlossene Bevölkerung machen Freiburg zu einem idealen Ort für unvergessliche Dates. Egal ob du neu in der Stadt bist oder schon seit Jahren hier lebst: Dieser Guide zeigt dir, wie du in Freiburg wirklich erfolgreiche und unvergessliche Dates aufbaust.
 

@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Trennung verarbeiten: Vom Schmerz zum Neuanfang
+## Trennung verarbeiten: Vom Schmerz zum Neuanfang
 
 Eine Trennung ist einer der schmerzhaftesten menschlichen Erfahrungen. Es ist nicht nur der Verlust einer Person – es ist der Verlust von Zukunftsplänen, gemeinsamen Träumen, der Identität als "Paar".
 

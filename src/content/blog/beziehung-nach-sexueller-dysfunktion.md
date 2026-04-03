@@ -22,7 +22,7 @@ faq:
     answer: "Definitiv. Diabetes, Herz-Kreislauf-Probleme, Hormonmangel oder bestimmte Medikamente können alle zu sexuellen Funktionsstörungen führen. Lass dich ärztlich untersuchen, bevor du alles auf psychische Ursachen schiebst."
 ---
 
-# Beziehung und sexuelle Dysfunktion – Intimität jenseits der Norm
+## Beziehung und sexuelle Dysfunktion – Intimität jenseits der Norm
 
 Du sitzt neben deinem Partner auf der Couch und spürst die angespannte Stille zwischen euch. Der Gedanke an Sexualität löst bei dir Angst oder Frustration aus. Vielleicht klappt es nicht mehr so wie früher. Oder es hat nie wirklich geklappt. Du fragst dich, ob eure Beziehung noch zu retten ist.
 

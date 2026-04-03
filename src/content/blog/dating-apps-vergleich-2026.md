@@ -24,7 +24,7 @@ faq:
     answer: "Wenn Du merkst, dass das Problem Deine Auswahl an Partnern ist, könnte Paartherapie für Deine Probleme mit Beziehungen helfen."
 ---
 
-# Dating-Apps Vergleich 2026: Welche passt zu Dir?
+## Dating-Apps Vergleich 2026: Welche passt zu Dir?
 
 Das Dating-App-Landschaft hat sich verändert. Swipe ist nicht mehr Thron. Es gibt hunderte Apps, jede mit einem Nischen-Gimmick. Welche solltest Du verwenden?
 

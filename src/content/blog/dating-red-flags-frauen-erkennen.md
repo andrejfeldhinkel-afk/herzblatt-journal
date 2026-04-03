@@ -25,7 +25,7 @@ faq:
     answer: "Ruhig bleiben. Beobachte das Verhalten weiter. Wenn es sich wiederholt, dann sprich das Problem an und gib der Person eine Chance es zu korrigieren. Wenn sich nichts ändert, beende die Beziehung."
 ---
 
-# Red Flags bei Frauen – 20 Warnsignale die Männer zu oft ignorieren
+## Red Flags bei Frauen – 20 Warnsignale die Männer zu oft ignorieren
 
 Du kennst das Gefühl: Du triffst eine Frau, sie ist hübsch, witzig, intelligent. Du möchtest sie daten. Aber dann passieren Dinge. Kleine Dinge zuerst. Sie ist gemein zu dir, aber nur ein bisschen. Sie lügt, aber nur kleine Lügen. Sie manipuliert, aber nur subtil. Und plötzlich fragst du dich: Warum bin ich in dieser Beziehung?
 

@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Nach dem [Ghosting](/blog/ghosting-komplett-guide) weitermachen: Wie du dich selbst heilst
+## Nach dem [Ghosting](/blog/ghosting-komplett-guide) weitermachen: Wie du dich selbst heilst
 
 Ghosting ist eine der verletzendsten Erfahrungen beim Dating. Du redest mit jemandem. Es scheint zu laufen. Und dann: Stille. Sie verschwinden. Sie beantworten deine Nachrichten nicht. Ihre Story lädt hoch, aber sie antworten dir nicht. Sie sind einfach weg.
 

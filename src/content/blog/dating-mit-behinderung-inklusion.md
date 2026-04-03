@@ -24,7 +24,7 @@ faq:
     answer: "Denken Sie daran, dass es eher ein Problem mit der anderen Person ist als mit Ihnen. Sie verdienen jemanden, der Sie vollständig akzeptiert."
 ---
 
-# Dating mit Behinderung: Inklusion in der Partnersuche
+## Dating mit Behinderung: Inklusion in der Partnersuche
 
 Dating ist für jeden herausfordernd, aber für Menschen mit Behinderungen können zusätzliche Komplexitäten hinzukommen. In diesem Artikel sprechen wir über die Realitäten des Dating mit Behinderung und wie Sie eine erfüllende Partnersuche navigieren können.
 

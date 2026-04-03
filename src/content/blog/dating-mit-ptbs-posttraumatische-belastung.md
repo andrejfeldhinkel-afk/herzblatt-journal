@@ -22,7 +22,7 @@ faq:
     answer: "Achte auf rote Flaggen früh: mangelnde Empathie, Ungeduld mit deinen Bedürfnissen, Weigerung, über Grenzen zu sprechen. Ein echter Partner wird deine PTBS ernst nehmen."
 ---
 
-# Dating mit PTBS – Beziehung aufbauen trotz Trauma
+## Dating mit PTBS – Beziehung aufbauen trotz Trauma
 
 Wenn du PTBS hast (Posttraumatische Belastungsstörung), kann Dating sich anfühlen wie Bergsteigen mit schwerem Rucksack auf dem Rücken. Die meisten Menschen um dich herum tragen keinen so schweren Rucksack. Du siehst andere Menschen, die einfach entspannt daten, und fragst dich: Wie mache ich das? Schaffe ich das überhaupt?
 

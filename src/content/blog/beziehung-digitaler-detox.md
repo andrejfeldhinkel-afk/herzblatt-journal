@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Digitaler Detox als Paar: So gelingt es
+## Digitaler Detox als Paar: So gelingt es
 
 Du kennst das sicher: Du sitzt mit deinem Partner auf der Couch, beide sind anwesend und doch nicht wirklich miteinander verbunden. Seine Hand scrollt durch Instagram, während du auf dein Handy starrst. Die Stille ist nicht gemütlich, sondern irgendwie leer. Das ist einer der Gründe, warum immer mehr Paare sich für einen digitalen Detox entscheiden – und damit nicht allein.
 

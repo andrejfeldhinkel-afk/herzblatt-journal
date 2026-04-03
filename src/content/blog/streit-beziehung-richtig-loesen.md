@@ -1,6 +1,6 @@
 ---
 title: "Streit in der Beziehung: 15 Regeln für faires Streiten"
-description: "Lerne, fair zu streiten und Konflikte konstruktiv zu lösen. 15 praktische Regeln für respektvolle Auseinandersetzungen, die eure Beziehung stärken statt zu schädigen."
+description: "Lerne, fair zu streiten und Konflikte konstruktiv zu lösen. 15 praktische Regeln für respektvolle Auseinandersetzungen."
 author: sarah-kellner
 image: "/images/blog/streit-beziehung-richtig-loesen.webp"
 imageAlt: "Streit Beziehung Richtig Loesen"

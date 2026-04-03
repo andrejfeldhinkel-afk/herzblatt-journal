@@ -24,7 +24,7 @@ faq:
     answer: "Es gibt einen Unterschied zwischen Vertrauen und Privatsphäre. Du schuldest deinem Partner Ehrlichkeit, aber nicht deine inneren Gedanken beim Sex."
 ---
 
-# Sexuelle Heilung nach Betrug in der Beziehung
+## Sexuelle Heilung nach Betrug in der Beziehung
 
 Du weißt genau, wann dein Leben sich verändert hat. Es war der Moment, in dem du die Wahrheit erfuhr. Der Moment, in dem du merktest, dass dein Partner dich betrogen hat.
 

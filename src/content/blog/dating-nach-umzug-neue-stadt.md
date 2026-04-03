@@ -20,7 +20,7 @@ faq:
     answer: "Das ist völlig normal. Kombinieren Sie Dating mit der Aufbau von Freundschaften. Treten Sie Clubs bei, machen Sie Kurse, werden Sie freiwillig. Dies gibt Sie ein Unterstützungsnetzwerk und potenzielle Dating-Chancen."
 ---
 
-# Dating nach Umzug in eine neue Stadt: Wie Sie romantische Verbindungen finden
+## Dating nach Umzug in eine neue Stadt: Wie Sie romantische Verbindungen finden
 
 Ein Umzug in eine neue Stadt ist eine große Lebensveränderung. Es ist aufregend, aber auch einschüchternd. Sie verlassen vertraute Orte, Freunde und vielleicht sogar eine romantische Beziehung. Plötzlich sind Sie in einer neuen Stadt, wo Sie niemanden kennen und wo alles unbekannt ist.
 

@@ -19,7 +19,7 @@ faq:
     answer: "Nein, aber es ist definitiv ein kritischer Punkt. Etwa 50% der Paare, die einen Vertrauensbruch erleben, trennen sich. Die andere Hälfte arbeitet daran, ihre Beziehung wieder aufzubauen. Der Unterschied liegt darin, wie bereit beide sind, an der Heilung zu arbeiten."
 ---
 
-# Vertrauensbruch in der Beziehung: So baust du das Vertrauen komplett neu auf
+## Vertrauensbruch in der Beziehung: So baust du das Vertrauen komplett neu auf
 
 Der Moment, in dem du erfährst, dass dein Partner dich belogen hat, ist wie ein Erdbeben. Der Boden unter deinen Füßen verschwindet. Alles, das sichere Gefühl, das du hattest, bröckelt weg. Ein Vertrauensbruch ist einer der schmerzhaftesten Momente in einer Beziehung – und trotzdem ist es nicht automatisch das Ende der Liebe.
 

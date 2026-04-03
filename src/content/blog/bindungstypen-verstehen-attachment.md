@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Bindungstypen verstehen: Dein Attachment Guide
+## Bindungstypen verstehen: Dein Attachment Guide
 
 Du hast diesen Begriff vielleicht schon gehört: "Er ist avoidant" oder "Sie ist anxious attachment". Und du hast dich gefragt: "Was bedeutet das wirklich? Und wie hilft mir das beim Dating?"
 

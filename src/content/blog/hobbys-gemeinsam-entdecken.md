@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Gemeinsame Hobbys finden: So wachst du mit deinem Partner zusammen
+## Gemeinsame Hobbys finden: So wachst du mit deinem Partner zusammen
 
 Du sitzt mit deinem Partner auf der Couch, beide scrollt auf euren Handys herum. Der Moment ist nicht unangenehm, aber auch nicht verbunden. Irgendwann denkst du: „Wir sollten etwas zusammen machen." Aber was? Du magst Wandern, er mag Gaming. Du liebst Kochen, sie liebt Klettern. Wie findet ihr etwas, das euch beide ausfüllt?
 

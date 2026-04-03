@@ -1,6 +1,6 @@
 ---
 title: "Throning — Wenn du nur als Statussymbol datst"
-description: "Throning ist ein Dating-Trend, bei dem dein Partner dich nur als Accessoire und Statussymbol nutzt. Erkenne die Warnsignale, verstehe die Psychologie dahinter und lerne, dich zu schützen."
+description: "Throning ist ein Dating-Trend, bei dem dein Partner dich nur als Accessoire und Statussymbol nutzt."
 date: 2025-12-15
 author: "markus-hoffmann"
 image: "/images/blog/throning-dating-trend-guide.webp"

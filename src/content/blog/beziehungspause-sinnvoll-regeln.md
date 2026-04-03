@@ -6,7 +6,7 @@ tags: ["Beziehung", "Kommunikation"]
 image: "/images/blog/beziehungspause-sinnvoll-regeln.webp"
 imageAlt: "Paar sitzt sich gegenüber und diskutiert ernsthaft"
 keywords: ["Beziehungspause", "Pausen in Beziehungen", "Trennung auf Zeit", "Beziehungsprobleme lösen", "Paartherapie"]
-draft: false
+draft: true
 featured: False
 author: "sarah-kellner"
 faq:

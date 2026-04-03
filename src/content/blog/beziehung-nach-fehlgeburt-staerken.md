@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Beziehung nach Fehlgeburt stärken
+## Beziehung nach Fehlgeburt stärken
 
 Eine Fehlgeburt ist einer der schmerzhaftesten Erfahrungen, die du und dein Partner durchmachen könnt. Da ist dieser Traum, diese Zukunft, die ihr euch vorgestellt habt – und dann ist sie einfach weg. Der Schmerz ist immens, und oft schweigt man darüber, weil die Gesellschaft einem sagt, man solle „stark" sein.
 

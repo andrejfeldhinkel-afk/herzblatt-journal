@@ -22,7 +22,7 @@ faq:
     answer: "Absolut nicht. Nicht-binär ist genauso gültig wie männlich oder weiblich. Deine Identität ist echte, legitime und genauso würdig von Respekt. Menschen, die nicht-binär verstehen, respektieren und sehen dich – deine Aufgabe ist nicht, sie zu erziehen."
 ---
 
-# Nicht-binäres Dating: Partnersuche jenseits der Geschlechternorm
+## Nicht-binäres Dating: Partnersuche jenseits der Geschlechternorm
 
 Wenn du nicht-binär bist, dann kennst du bereits die Komplexität, in einer Welt zu leben, die dein Geschlecht nicht in ihre binären Kategorien passt. Dusche, Toiletten, Formulare, Menschen, die deinen Namen rufen und dann verwirrt aussehen – alles sagt dir: Du passt nicht hier rein.
 

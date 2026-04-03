@@ -21,7 +21,7 @@ faq:
     answer: "Ja, sehr gut. Die Stadt hat eine starke Unternehmens-Community und viele junge Menschen. Tinder, Bumble, Hinge funktionieren alle. Sei authentisch – Nürnberg mag ehrliche Profile."
 ---
 
-# Dating in Nürnberg: Mittelalter trifft Moderne
+## Dating in Nürnberg: Mittelalter trifft Moderne
 
 Nürnberg ist eine Stadt, die dir zeigt, dass man nicht zwischen Tradition und Modernität wählen muss – dass man die beiden zusammen haben kann, und das ist verdammt romantisch.
 

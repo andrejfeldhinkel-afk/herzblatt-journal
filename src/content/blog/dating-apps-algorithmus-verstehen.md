@@ -17,7 +17,7 @@ faq:
     answer: "Ja und nein. Die wichtigsten ' Hacks' sind: 1) Hohe-Qualität Fotos, 2) Regelmäßige Profil-Aktualisierungen (der Algorithmus bevorzugt aktive Profile), 3) Strategisches Swipen (nicht wild alles swipen), 4) Zeitlich richtig swipen (morgens und abends sind die besten Zeiten)."
 ---
 
-# Dating-App Algorithmen verstehen: ELO-Scores, Match-Berechnung und Hacks, die funktionieren
+## Dating-App Algorithmen verstehen: ELO-Scores, Match-Berechnung und Hacks, die funktionieren
 
 Du öffnest Tinder und denkst: „Warum sehe ich die gleichen 20 Profile immer wieder? Warum bekomme ich so wenige Matches?" Oder du hast plötzlich viele Matches bekommen, und dann – nichts. Stille. Algorithmus-Grauzone.
 

@@ -25,7 +25,7 @@ faq:
     answer: "'Ja. Und das ist nicht egoistisch — das ist notwendig. Wenn du nicht datierst/Zeit für dich hast, wirst du erschöpft und bitter. Das ist schlecht für dein Kind.'"
 ---
 
-# Dating als alleinerziehende Mutter: Der komplette Guide
+## Dating als alleinerziehende Mutter: Der komplette Guide
 
 Du bist alleinerziehende Mutter. Du arbeitest Vollzeit. Du kümmerst dich um ein Kind (oder mehrere). Du managest Hausarbeit, Schulferien, Zahnarzttermine und emotional alles.
 

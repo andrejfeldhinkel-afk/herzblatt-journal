@@ -21,7 +21,7 @@ faq:
     answer: "Alle großen Apps haben Scammer. Aber größere Apps (Tinder, Bumble, Hinge, Match) haben bessere Verifikations-Systeme. Kleinere oder Inter-nationale Apps haben weniger Moderation. Keine App ist 100% sicher."
 ---
 
-# Online Dating Betrug erkennen: Der Scam-Guide
+## Online Dating Betrug erkennen: Der Scam-Guide
 
 Es ist 2 Uhr morgens. Du sitzt allein in deinem Apartment und tippst mit diesem wunderbaren Menschen, mit dem du die letzten 3 Wochen redest. Sie sind intelligent, lustig, hübsch, und überraschenderweise interessieren sie sich für dich – wirklich für dich.
 

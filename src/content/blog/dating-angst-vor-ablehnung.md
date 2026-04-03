@@ -22,7 +22,7 @@ faq:
     answer: "Das ist eine schwierige Konversation, aber heilsam. Du kannst sagen: 'Ich merke, dass ich Angst habe, dich zu decken, weil ich Angst habe, dass du mich dann ablehnst. Ich arbeite daran.' Ein Partner, der das versteht, ist ein guter Partner."
 ---
 
-# Angst vor Ablehnung beim Dating – So überwindest du sie endgültig
+## Angst vor Ablehnung beim Dating – So überwindest du sie endgültig
 
 Du siehst eine Nachricht von jemandem, auf den du stehst. Dein Herz rast. Alles in dir will antworten, aber ein Teil von dir friert ein. Was, wenn deine Antwort dumm wirkt? Was, wenn er merkt, dass du zu viel Interesse zeigst? Was, wenn er dich ablehnt?
 

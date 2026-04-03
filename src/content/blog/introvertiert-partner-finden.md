@@ -22,7 +22,7 @@ faq:
     answer: "Nein. Introversion ist nicht das Gleiche wie Asozialität. Du kannst introvertiert sein und trotzdem Menschen lieben. Du brauchst nur weniger Stimulation und mehr Zeit alleine. Das ist normal."
 ---
 
-# Als Introvertierter den richtigen Partner finden – Stille Stärke nutzen
+## Als Introvertierter den richtigen Partner finden – Stille Stärke nutzen
 
 Du sitzt auf einer Party. Der Raum ist laut, die Menschen sind laut, alles ist zu viel.
 

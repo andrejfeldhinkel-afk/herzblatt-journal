@@ -1,6 +1,6 @@
 ---
 title: "Dating nach dem Coming-Out: Neustart in der queeren Welt"
-description: "Dating nach Coming Out kann überwältigend sein. Entdecke praktische Tipps und emotionale Unterstützung für Deinen Neustart in der queeren Dating-Welt und LGBTQ+ Community."
+description: "Dating nach Coming Out kann überwältigend sein. Entdecke praktische Tipps und emotionale Unterstützung für Deinen Neustart in der queeren Dating-Welt und."
 date: 2026-03-21
 author: laura-weber
 image: "/images/blog/dating-nach-coming-out-guide.webp"
@@ -18,7 +18,7 @@ faq:
 
 ---
 
-# Dating nach dem Coming-Out: Neustart in der queeren Welt
+## Dating nach dem Coming-Out: Neustart in der queeren Welt
 
 Das Coming-Out ist ein transformativer Moment im Leben. Du hast Dich selbst angenommen und Deine Wahrheit mit der Welt geteilt. Aber was kommt danach? Besonders im Bereich Dating kann alles neu und gleichzeitig überwältigend sein. Du fragst Dich vielleicht, wie Du jemanden kennenlernen kannst, ohne Dich unsicher zu fühlen. Du fragst Dich, ob Du zu alt oder zu jung für die Szene bist. Du fragst Dich, wo Du anfangen solltest und wie Du sicherstellen kannst, dass Du respektvoll und sicher daten kannst.
 

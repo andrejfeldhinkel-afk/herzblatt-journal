@@ -18,7 +18,7 @@ faq:
 
 ---
 
-# Beziehung mit unterschiedlicher Libido: Wenn einer mehr will
+## Beziehung mit unterschiedlicher Libido: Wenn einer mehr will
 
 Unterschiedliche Libido ist eines der häufigsten, aber gleichzeitig tabuisiert Probleme in langjährigen Beziehungen. Du fragst Dich vielleicht, warum Dein Partner plötzlich weniger Lust hat oder warum Du Dich ständig verletzbar und zurückgewiesen fühlst. Die gute Nachricht: Du bist nicht allein, und es gibt bewährte Strategien, um mit dieser Herausforderung umzugehen. In diesem umfassenden Guide wirst Du verstehen, wie unterschiedliche Libido entstehen kann, welche Auswirkungen das auf Eure Beziehung hat, und vor allem, wie ihr gemeinsam Lösungen finden könnt, die für beide Partner stimmig sind.
 

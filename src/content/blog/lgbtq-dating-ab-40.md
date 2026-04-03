@@ -22,7 +22,7 @@ faq:
     answer: "Erkenne, dass Menschen, die dich ablehnen, ihre eigenen Probleme haben. Deine Würde hängt nicht von ihrer Meinung ab. Konzentriere dich auf Menschen, die dich schätzen."
 ---
 
-# LGBTQ+ Dating ab 40: Neuanfang und Partnersuche in der zweiten Lebenshälfte
+## LGBTQ+ Dating ab 40: Neuanfang und Partnersuche in der zweiten Lebenshälfte
 
 Du bist 40, 45, 50 Jahre alt – und du erkennst gerade, dass du dich nach einer authentischen Beziehung sehnst. Vielleicht warst du lange in einer Hetero-Ehe, hast es gerade geoutet und fragst dich jetzt: Ist es zu spät? Oder du bist schon lange out, aber die bisherigen Beziehungen sind nicht haltbar gewesen, und du startest jetzt noch einmal neu. Oder du warst lange mit deinem Partner oder deiner Partnerin zusammen und jetzt seid ihr getrennt.
 

@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Beziehungsphasen: Die 5 Phasen und wie du Krisen in jeder meistertst
+## Beziehungsphasen: Die 5 Phasen und wie du Krisen in jeder meistertst
 
 Wenn deine Beziehung eine Krise durchlebt, ist die wahrscheinlichste Erklärung nicht, dass du den falschen Partner hast. Es ist, dass du gerade die falsche Phase erlebst.
 

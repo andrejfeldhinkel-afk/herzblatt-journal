@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Dating mit Angststörung: Du schaffst das, auch wenn es sich jetzt unmöglich anfühlt
+## Dating mit Angststörung: Du schaffst das, auch wenn es sich jetzt unmöglich anfühlt
 
 Dating ist stressig. Das weiß jeder. Aber wenn du eine Angststörung hast, ist Dating auf einer völlig anderen Ebene stressig. Es ist nicht einfach „Nervosität vor dem ersten Date". Es ist dein ganzes System, das dir sagt: Stopp. Das ist zu viel. Ich kann das nicht.
 

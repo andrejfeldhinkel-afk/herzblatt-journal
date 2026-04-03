@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# LGBTQ+ Dating in Deutschland: Navigation, Sicherheit und echte Verbindung
+## LGBTQ+ Dating in Deutschland: Navigation, Sicherheit und echte Verbindung
 
 Dating als LGBTQ+ Person ist anders. Es ist oft sicherer, sichtbarer und mehr akzeptiert als je zuvor – aber es bringt auch eigene Herausforderungen mit sich. Du hast zusätzliche Ebenen von Komplexität, spezifische Ängste und bestimmte Communities, in denen du navigierst.
 

@@ -21,7 +21,7 @@ faq:
     answer: "Nicht notwendig. Aber es kann passieren. Ein älter Partner könnte financial established sein, während der jüngere nicht ist. Das schafft ein Ungleichgewicht. Das sollte bewusst adressiert werden: Wie teilt ihr Ausgaben? Kann der jüngere ihre/seine finanzielle Unabhängigkeit behalten/aufbauen? Ein gesundes Paar navigiert das offen."
 ---
 
-# Altersunterschied beim Dating – Wann ist es zu viel?
+## Altersunterschied beim Dating – Wann ist es zu viel?
 
 Es ist eins der prickelndsten, umstrittensten Themen im modernen Dating.
 

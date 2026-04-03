@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Beziehungstypen: Ein Überblick
+## Beziehungstypen: Ein Überblick
 
 Dies ist ein Artikel über beziehungstypen: ein überblick. Der Artikel bietet praktische Tipps und Einblicke basierend auf echten Erfahrungen und bewährten Strategien.
 

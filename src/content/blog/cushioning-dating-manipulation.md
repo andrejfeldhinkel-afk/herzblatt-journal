@@ -16,7 +16,7 @@ draft: false
 author: "laura-weber"
 ---
 
-# Cushioning: Wie du Dating-Manipulation erkennst und dich selbst schützt
+## Cushioning: Wie du Dating-Manipulation erkennst und dich selbst schützt
 
 Hast du das Gefühl, dass jemand dein Interesse hält, während er gleichzeitig andere kennenlernt? Dann könnte es sein, dass du gerade "gecushioned" wirst. Cushioning ist eine moderne Dating-Manipulation, die vielen Menschen schadet. In diesem Artikel zeige ich dir, wie du diese Taktik erkennst und dich davor schützt.
 

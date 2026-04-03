@@ -25,7 +25,7 @@ faq:
     answer: "Einzeltherapie kann auch helfen. Deine eigene innere Arbeit kann die Dynamik verändern. Manche Partner sehen später den Wert und steigen auch ein."
 ---
 
-# Nach Paartherapie: Was sich in Deiner Beziehung wirklich ändert
+## Nach Paartherapie: Was sich in Deiner Beziehung wirklich ändert
 
 Du sitzt in einer Paartherapie. Es ist kein angenehmer Platz. Der oder die Therapeut fragt nach Dingen, die weh tun. Ihr werdet aufgefordert, zu hören, was die andere Person sagt. Manchmal fühlt es sich worse an, bevor es besser wird. Und dann fragst Du Dich: Wird das hier wirklich etwas bringen?
 

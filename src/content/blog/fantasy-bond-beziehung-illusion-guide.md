@@ -1,6 +1,6 @@
 ---
 title: "Fantasy Bond: Wenn deine Beziehung nur eine Illusion von ..."
-description: "Fantasy Bond entsteht, wenn du dich emotional an eine Illusion statt an eine echte Person bindest. Erfahre, wie du diese gefährliche Bindung erkennst und auflöst."
+description: "Fantasy Bond entsteht, wenn du dich emotional an eine Illusion statt an eine echte Person bindest."
 date: 2026-03-29
 tags:
   - "Psychologie"

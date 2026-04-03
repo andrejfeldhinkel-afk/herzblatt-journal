@@ -17,7 +17,7 @@ faq:
 
 ---
 
-# Günstige Date-Ideen: Liebe braucht kein Geld
+## Günstige Date-Ideen: Liebe braucht kein Geld
 
 Eines der größten Mythen ist, dass gute Dates teuer sein müssen. Fünf-Sterne-Restaurant, exotische Destination, teure Aktivitäten. Das ist Quatsch.
 

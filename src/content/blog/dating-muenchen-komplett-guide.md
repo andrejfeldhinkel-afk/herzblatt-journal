@@ -19,7 +19,7 @@ faq:
     answer: "München ist konservativer als Berlin oder Hamburg, aber nicht wie ländliches Bayern. Es gibt progressive Menschen und Szenen. Aber Familie, Sicherheit und Stabilität sind wichtiger als in anderen Großstädten. Menschen ernsthaft über Beziehungen nachdenken schneller hier."
 ---
 
-# Dating in München: Wo die Liebe in der bayerischen Hauptstadt wartet
+## Dating in München: Wo die Liebe in der bayerischen Hauptstadt wartet
 
 München ist nicht Berlin. Das merkst du, bevor du auch nur aus dem Bahnhof kommst. Die Architektur ist heller, die Menschen sind höflicher, die Stadt riecht nach Tradition und Wohlstand. München ist Bayern in seiner schönsten, reichsten Form.
 

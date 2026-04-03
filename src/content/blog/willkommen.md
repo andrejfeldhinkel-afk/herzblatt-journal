@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Willkommen bei Herzblatt Journal – Dein Ratgeber für Liebe, Beziehungen und Dating
+## Willkommen bei Herzblatt Journal – Dein Ratgeber für Liebe, Beziehungen und Dating
 
 Herzlich willkommen auf Herzblatt Journal! Schön, dass du hier bist. Dieser Blog ist dein persönlicher Begleiter, wenn es um Liebe, Beziehungen und Dating geht – und zwar ohne den ganzen psychologischen Jargon und die künstliche KI-Sprache, die dich möglicherweise auf anderen Plattformen ärgert.
 

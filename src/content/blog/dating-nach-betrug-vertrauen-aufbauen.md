@@ -20,7 +20,7 @@ faq:
     answer: "Es gibt keine garantierten Anzeichen, aber einige rote Flaggen sind Heimlichkeit, weniger Interesse an Intimität, unerklärliche Abwesenheiten oder mangelnde Verantwortlichkeit. Gut ist auch, auf Ihr Bauchgefühl zu hören."
 ---
 
-# Nach Betrug wieder vertrauen lernen beim Dating: Ein Leitfaden zur Heilung
+## Nach Betrug wieder vertrauen lernen beim Dating: Ein Leitfaden zur Heilung
 
 Der Schmerz des Verrats ist einer der intensivsten Schmerzen, die wir in einer Beziehung erfahren können. Wenn Sie von einem Partner betrogen wurden, wissen Sie wahrscheinlich, wie zerstörerisch dies sein kann – nicht nur für Ihre Beziehung, sondern für Ihr Selbstvertrauen und Ihre Fähigkeit zu vertrauen.
 

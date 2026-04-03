@@ -1,6 +1,6 @@
 ---
 title: "Dating-Spielchen durchschauen: Warum Menschen spielen und"
-description: "Dating-Spielchen erkennen und richtig reagieren. Von Hot-and-Cold bis Breadcrumbing — dieser Guide zeigt dir, was dahinter steckt und wie du darüber stehst."
+description: "Dating-Spielchen erkennen und richtig reagieren. Von Hot-and-Cold bis Breadcrumbing — dieser Guide zeigt dir."
 date: 2025-08-08
 image: "/images/photos/dating-spielchen-durchschauen.webp"
 tags:

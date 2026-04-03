@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Dating nach 60: Der komplette Guide für Liebe im reifen Alter
+## Dating nach 60: Der komplette Guide für Liebe im reifen Alter
 
 Mit 60 Jahren anzufangen zu daten ist eine echte Veränderung in deinem Leben. Vielleicht bist du verwitwet. Vielleicht geschieden. Oder du warst in einer langen Beziehung und möchtest etwas Neues. Egal was: Dein Leben beginnt jetzt neu.
 

@@ -20,7 +20,7 @@ faq:
     answer: "Nein. Das ist eine häufige Falle. Ein Partner kann dich unterstützen, aber nur DU kannst dein Selbstwertgefühl reparieren. Vertrau darauf, dass du die Kraft hast."
 ---
 
-# Selbstwert und Dating: Warum Du Dich selbst lieben musst um geliebt zu werden
+## Selbstwert und Dating: Warum Du Dich selbst lieben musst um geliebt zu werden
 
 Stell dir folgende Szene vor.
 

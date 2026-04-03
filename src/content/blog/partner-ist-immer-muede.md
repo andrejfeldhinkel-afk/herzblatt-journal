@@ -1,6 +1,6 @@
 ---
 title: "Partner ist ständig müde und antriebslos — was steckt"
-description: "Dein Partner ist ständig müde? Erfahre welche Ursachen dahinter stecken können — von Stress bis Depression — und wie du unterstützen kannst ohne dich aufzugeben."
+description: "Dein Partner ist ständig müde? Erfahre welche Ursachen dahinter stecken können — von Stress bis Depression."
 date: 2025-12-15
 tags:
   - "Beziehung"

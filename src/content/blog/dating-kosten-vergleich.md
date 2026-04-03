@@ -17,7 +17,7 @@ faq:
 
 ---
 
-# Dating-App Kosten im Vergleich 2026
+## Dating-App Kosten im Vergleich 2026
 
 Du willst online daten, aber dir ist nicht klar, welche App dich was kostet. Ist das Abo bei Tinder teurer als bei Bumble? Lohnt sich ein Premium-Abo überhaupt? Und welche Apps sind komplett kostenlos?
 

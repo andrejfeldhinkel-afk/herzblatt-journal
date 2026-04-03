@@ -9,7 +9,7 @@ tags:
   - "Gesundheit"
   - "Ratgeber"
 keywords: ["unerfüllter kinderwunsch beziehung", "kinderwunsch stress partnerschaft", "fruchtbarkeit beziehung"]
-description: "Ein unerfüllter Kinderwunsch kann eine Beziehung stark belasten. Lerne, wie du und dein Partner damit umgehen, kommunizieren und wieder zusammenfinden könnt."
+description: "Ein unerfüllter Kinderwunsch kann eine Beziehung stark belasten. Lerne, wie du und dein Partner damit umgehen."
 date: 2025-12-15
 ---
 ## Unerfüllter Kinderwunsch: Wenn der Traum vom Baby die beziehung belastet

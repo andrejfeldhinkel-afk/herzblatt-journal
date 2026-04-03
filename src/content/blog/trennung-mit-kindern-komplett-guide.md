@@ -34,7 +34,7 @@ faq:
     answer: "Im Durchschnitt brauchen Kinder 1-2 Jahre um sich an die neue Situation anzupassen. In den ersten 6 Monaten sind Verhaltensänderungen normal. Bei anhaltenden Problemen sollte professionelle Hilfe in Anspruch genommen werden."
 ---
 
-# Trennung mit Kindern: Der komplette Guide für Eltern
+## Trennung mit Kindern: Der komplette Guide für Eltern
 
 Die Entscheidung, sich zu trennen, ist eine der schwersten Entscheidungen, die Eltern treffen können. **[Trennung](/blog/trennung-verarbeiten-12-schritte) mit Kindern** zu navigieren bedeutet, nicht nur die eigene emotionale Krise zu bewältigen, sondern sich auch um das Wohlbefinden von kleinen Menschen zu kümmern, die von dieser Entscheidung tiefgreifend betroffen sind. Dieser Guide soll dir Klarheit, praktische Lösungen und emotionale Unterstützung bieten.
 

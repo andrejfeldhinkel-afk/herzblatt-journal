@@ -21,7 +21,7 @@ faq:
     answer: "Absolut! Besonders wichtig sogar. Gemeinsame Essensverabredungen per Videocall, wöchentliche Anrufe zur gleichen Zeit oder monatliche Care-Paket-Austausche schaffen Nähe über die Distanz hinweg."
 ---
 
-# Beziehungsrituale die verbinden – Das Geheimnis starker Paarbeziehungen
+## Beziehungsrituale die verbinden – Das Geheimnis starker Paarbeziehungen
 
 Du kennst das Gefühl, oder? Die ersten Wochen mit deinem Partner sind voller Magie. Jeder Moment fühlt sich bedeutsam an. Doch irgendwann rutscht die Beziehung in Routine – nicht die gute Art von Routine, sondern die fade, wo ihr euch wie Mitbewohner fühlt.
 

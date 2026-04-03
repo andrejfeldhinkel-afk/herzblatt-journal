@@ -1,6 +1,6 @@
 ---
 title: "Gaslighting in Beziehungen erkennen: 15 Warnsignale und wie"
-description: "Gaslighting in Beziehungen erkennen: Lerne die 15 Warnsignale, erkenne emotionale Manipulation und schütze deine mentale Gesundheit mit praktischen Strategien."
+description: "Gaslighting in Beziehungen erkennen: Lerne die 15 Warnsignale, erkenne emotionale Manipulation und schütze deine mentale Gesundheit mit praktischen."
 date: 2025-11-06
 image: "/images/photos/gaslighting-beziehung-erkennen.webp"
 tags:

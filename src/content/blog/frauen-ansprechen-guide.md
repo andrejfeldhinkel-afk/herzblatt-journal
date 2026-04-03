@@ -19,7 +19,7 @@ faq:
     answer: "Akzeptiere es graziös. 'Ok, keine Sorge. Viel Spaß dir' und gehe. Keine Dramen, kein Insistieren. Ablehnung ist normal und ok. Selbstbewusstsein bedeutet auch Ablehnung akzeptieren zu können."
 ---
 
-# Frauen ansprechen: Respektvoll, authentisch und ohne Pickup-Tricks
+## Frauen ansprechen: Respektvoll, authentisch und ohne Pickup-Tricks
 
 Es gibt viel schlechten Rat über wie man Frauen anspricht. Pickup-Artist-Blogs erzählen dir "Negging"-Taktiken (subtile Insults um sie unsicher zu machen), Manipulation, unechtes Spiel. Das ist Müll. Es ist respektlos, es ist manipulativ, und echte Frauen reagieren darauf nicht gut.
 

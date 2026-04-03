@@ -25,7 +25,7 @@ faq:
     answer: "Sei ehrlich mit Dir und Deinem Date. Wenn Du Pausen brauchst, nimm sie. Der richtige Partner wird verstehen."
 ---
 
-# Dating-Neustart nach langer Krankheit: Zurück in die Liebe
+## Dating-Neustart nach langer Krankheit: Zurück in die Liebe
 
 Du warst krank. Lange. Vielleicht Monate, vielleicht Jahre.
 

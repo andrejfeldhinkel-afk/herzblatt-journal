@@ -25,7 +25,7 @@ faq:
     answer: "Du magst in Kleinen Dingen nachgeben, aber nicht in deinen nicht verhandelbaren Grenzen. Kompromisse sind möglich, aber deine Grenzen sind heilig."
 ---
 
-# Grenzen setzen in der Beziehung ohne Streit
+## Grenzen setzen in der Beziehung ohne Streit
 
 Du merkst, dass dein Partner immer wieder eine bestimmte Sache tut, die dich verletzt. Du versuchst zu ignorieren, um Streit zu vermeiden. Du lächelst und sagst: „Es ist okay", obwohl es nicht okay ist.
 

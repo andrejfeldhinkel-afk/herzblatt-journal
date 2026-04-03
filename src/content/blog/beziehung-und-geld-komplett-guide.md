@@ -1,7 +1,7 @@
 ---
 date: 2026-03-21
 title: "Beziehung und Geld: So streitet ihr nie wieder über Finanzen"
-description: "Geld in der Beziehung muss nicht zum Streit führen. Unser ehrlicher Guide zeigt dir Strategien, wie du gemeinsam mit deinem Partner finanzielle Konflikte vermeidest und eine sichere Zukunft aufbaust."
+description: "Geld in der Beziehung muss nicht zum Streit führen. Unser ehrlicher Guide zeigt dir Strategien."
 author: sarah-kellner
 image: "/images/blog/beziehung-und-geld-komplett-guide.webp"
 imageAlt: "Beziehung Und Geld Komplett Guide"
@@ -17,7 +17,7 @@ faq:
 
 ---
 
-# Beziehung und Geld: So streitet ihr nie wieder über Finanzen
+## Beziehung und Geld: So streitet ihr nie wieder über Finanzen
 
 Geld und Liebe – das sind zwei Themen, die in vielen Partnerschaften für Spannungen sorgen. Du kennst das wahrscheinlich selbst: Ein unbedachter Kommentar zum Einkaufsverhalten deines Partners, eine unterschiedliche Sparmentalität oder Geheimausgaben, die ans Licht kommen – schon bahnt sich ein Streit an. Dabei muss das nicht sein. Mit den richtigen Strategien und einer offenen Kommunikation über Beziehung und Geld kannst du diese Hürde überwinden und sogar stärker aus ihr hervorgehen.
 

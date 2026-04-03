@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Beziehung nach langer Single-Zeit: Von der Unabhängigkeit zur Partnerschaft
+## Beziehung nach langer Single-Zeit: Von der Unabhängigkeit zur Partnerschaft
 
 Du warst lange allein. Nicht unglücklich allein, sondern... gut allein. Du kennst deine Routinen, deine Vorlieben, deine Grenzen. Dein Raum ist dein Raum. Deine Zeit ist deine Zeit. Und dann kommt jemand ins Spiel.
 

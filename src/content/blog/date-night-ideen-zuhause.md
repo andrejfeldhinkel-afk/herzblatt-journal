@@ -16,7 +16,7 @@ draft: false
 author: "laura-weber"
 ---
 
-# Date Night zuhause: 30 Ideen für unvergessliche Abende daheim
+## Date Night zuhause: 30 Ideen für unvergessliche Abende daheim
 
 Die Vorstellung der perfekten Date Night zeigt oft Restaurants, Theater oder fancy Clubs. Aber ehrlich? Einige der besten Momente entstehen zuhause. Hier kannst du vollkommen du selbst sein, habt keine Zeitbegrenzung, und die Atmosphäre ist genau so, wie ihr sie mag. In diesem Artikel teile ich 30 konkrete Ideen für großartige Date Nights zuhause.
 

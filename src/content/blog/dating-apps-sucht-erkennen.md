@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Dating-App-Sucht: Wann Swipen zur Obsession wird
+## Dating-App-Sucht: Wann Swipen zur Obsession wird
 
 Du kennst dieses Gefühl wahrscheinlich. Du sitzt in der U-Bahn, wartend im Café oder sogar beim Gespräch mit Freunden – und plötzlich greifst du unwillkürlich zu deinem Smartphone. Deine Finger öffnen die Dating-App, und du fängst an zu swipen. Links, rechts, links, rechts. Ein paar Minuten werden zu einer halben Stunde, ohne dass du es wirklich merkst. Das Phänomen der Dating-App-Sucht ist real und betrifft Millionen von Menschen weltweit.
 

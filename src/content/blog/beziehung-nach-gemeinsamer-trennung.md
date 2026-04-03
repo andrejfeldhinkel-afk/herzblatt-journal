@@ -20,7 +20,7 @@ faq:
     answer: "Das ist möglich. Wichtig ist, dass Ihr dann besser kommuniziert statt wieder zu trennen."
 ---
 
-# Beziehung nach [zusammenziehen](/blog/zusammenziehen-checkliste) oder das tun, was Ihr vor dem Bruch tat. Gib Euch Zeit zu lernen zu sein zusammen in dieser neuen Version.
+## Beziehung nach [zusammenziehen](/blog/zusammenziehen-checkliste) oder das tun, was Ihr vor dem Bruch tat. Gib Euch Zeit zu lernen zu sein zusammen in dieser neuen Version.
 
 Datieren – ja, wieder datieren. Nehmen es langsam. Das erlaubt Euch auf bauen können Vertrauen mit Zeit.
 

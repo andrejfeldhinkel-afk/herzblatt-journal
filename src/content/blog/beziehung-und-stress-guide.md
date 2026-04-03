@@ -13,7 +13,7 @@ keywords:
   - stress in beziehung
   - beziehung unter stress
   - alltag beziehung
-description: "Wie Paare mit Stress umgehen können: Praktische Strategien zur Erhaltung der Liebe unter Druck. Erfahre, wie du Konflikte reduzierst und deine Partnerschaft stärkst."
+description: "Wie Paare mit Stress umgehen können: Praktische Strategien zur Erhaltung der Liebe unter Druck."
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"
     answer: "Offene Kommunikation, gemeinsame Quality-Time und gegenseitiger Respekt sind die Basis. Sprecht regelmäßig über eure Bedürfnisse und hört einander aktiv zu."
@@ -24,7 +24,7 @@ faq:
 
 ---
 
-# Beziehung und Stress: Wenn der Alltag die Liebe bedroht
+## Beziehung und Stress: Wenn der Alltag die Liebe bedroht
 
 Eine der häufigsten Herausforderungen in modernen Beziehungen ist nicht fehlende Liebe, sondern vielmehr der überwältigende Alltag, der dich und deinen Partner unter enorme Belastung setzt. Der beziehung stress ist zu einem der Hauptgründe geworden, warum sonst liebevolle Paare sich auseinanderleben oder in Konflikte geraten. Die gute Nachricht ist: Das ist ein lösbares Problem. Mit den richtigen Strategien und Verständnis kannst du deine Beziehung auch unter hohem Druck stabil und erfüllend halten.
 

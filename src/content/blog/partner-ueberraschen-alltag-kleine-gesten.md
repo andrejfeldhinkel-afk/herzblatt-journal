@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Partner überraschen: 25 kleine Gesten im Alltag
+## Partner überraschen: 25 kleine Gesten im Alltag
 
 Es muss nicht immer spektakulär sein. Die schönsten Momente in einer Beziehung entstehen oft aus den kleinsten Aufmerksamkeiten – dort, wo dein Partner es am wenigsten erwartet. Wenn du merkst, dass der Alltag manchmal Routine wird, sind kleine Überraschungen genau das Richtige, um wieder Funken zum Fliegen zu bringen.
 

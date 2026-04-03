@@ -10,7 +10,7 @@ keywords:
   - "schüchterne frauen"
   - "dating tipps"
   - "selbstbewusstsein"
-draft: false
+draft: true
 image: "/images/photos/dating-als-schuechterne-frau.webp"
 imageAlt: "Schüchterne Frau beim Daten"
 faq:

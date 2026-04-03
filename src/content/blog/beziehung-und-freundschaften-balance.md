@@ -1,6 +1,6 @@
 ---
 title: "Beziehung und Freundschaften"
-description: "Wie du Beziehung und Freundschaften erfolgreich vereinbarst? Unsere Tipps zeigen dir, wie du die Balance zwischen Partner und Freunden findest und erhältst."
+description: "Wie du Beziehung und Freundschaften erfolgreich vereinbarst? Unsere Tipps zeigen dir."
 author: laura-weber
 image: "/images/blog/beziehung-und-freundschaften-balance.webp"
 imageAlt: "Beziehung Und Freundschaften Balance"
@@ -20,7 +20,7 @@ faq:
 
 ---
 
-# Beziehung und Freundschaften: So findest du die richtige Balance
+## Beziehung und Freundschaften: So findest du die richtige Balance
 
 Die Liebe zu einem Partner erfüllt unsere Herzen und bringt große Freude in unser Leben. Doch was passiert mit unseren Freundschaften, wenn wir uns verlieben? Viele Menschen stellen sich die Frage, wie sie ihre Beziehung und ihre Freundschaften erfolgreich unter einen Hut bringen können. Die richtige Balance zwischen Partner und Freunden zu finden, ist eine Kunst, die gelernt sein will. In diesem umfassenden Ratgeber zeigen wir dir, wie du Beziehung und Freundschaften harmonisch vereinbarst und welche praktischen Tipps dir dabei helfen, weder deinen Partner noch deine besten Freunde zu vernachlässigen.
 

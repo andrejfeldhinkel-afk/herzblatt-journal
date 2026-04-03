@@ -20,7 +20,7 @@ faq:
     answer: "Höre auf dein Bauchgefühl, kommuniziere offen mit der anderen Person und nimm dir Zeit, um die Verbindung kennenzulernen."
 ---
 
-# Seelenpartner körperliche Symptome: Wenn die Seele den Körper berührt
+## Seelenpartner körperliche Symptome: Wenn die Seele den Körper berührt
 
 Hast du jemals einen Menschen getroffen und plötzlich spürte dein ganzer Körper, dass etwas Besonderes passiert? Ein kribbelndes Gefühl, eine Wärme, die von deinem Herzen ausgeht? Diese körperlichen Symptome können ein starkes Zeichen dafür sein, dass du deinen Seelenpartner gefunden hast. Lass mich dir erklären, was genau in deinem Körper passiert, wenn zwei Seelen sich begegnen.
 

@@ -230,7 +230,7 @@ Nicht wie am Anfang (die Anfangs-Chemie kommt nie zurück). Aber vielleicht bess
 Das ist wert jeden Schritt.
 ## Weiterlesen
 
-- [Emotionale Intimität aufbauen: Echte Nähe](/blog/blog/emotionale-naehe-beziehung-tipps)
+- [Emotionale Intimität aufbauen: Echte Nähe](/blog/emotionale-intimitaet-aufbauen)
 - [Emotionale vs. körperliche Nähe: Warum beides zählt](/blog/emotionale-vs-koerperliche-naehe/)
 - [Emotionale Intimität vertiefen: 20 Wege zur Nähe](/blog/emotionale-intimitaet-vertiefen/)
 - [Die Kraft der Berührung: Warum körperliche Nähe heilt](/blog/beruehrungen-beziehung-bedeutung/)

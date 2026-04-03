@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Healthy Boundaries beim Kennenlernen: Das Fundament einer gesunden Beziehung
+## Healthy Boundaries beim Kennenlernen: Das Fundament einer gesunden Beziehung
 
 Grenzen sind nicht romantisch. Sie sind nicht sexy. Sie schaffen nicht die Art von „Funken"-Moment, die du in den Filmen siehst. Aber sie sind das Wichtigste, was du in einer Beziehung aufbauen kannst.
 

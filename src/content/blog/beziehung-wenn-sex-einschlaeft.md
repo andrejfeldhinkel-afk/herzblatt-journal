@@ -22,7 +22,7 @@ faq:
     answer: "Wenn das Problem länger als 6 Monate andauert und alle Kommunikationsversuche gescheitert sind, könnte ein Sexualtherapeut hilfreich sein."
 ---
 
-# Wenn der Sex einschläft – Intimität in Langzeitbeziehungen retten
+## Wenn der Sex einschläft – Intimität in Langzeitbeziehungen retten
 
 Es war nicht immer so. Du erinnert dich an die frühen Tage, als ihr kaum voneinander losbekamt. Die Lust war wild, unkontrollierbar, immer präsent. Sex war spontan, leidenschaftlich, unerwartet und erfüllend. Ihr konntet nicht aufhören, voneinander zu wollen.
 

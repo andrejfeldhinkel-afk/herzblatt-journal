@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Kuschelpartner und die heilende Kraft von Berührung: Eine wissenschaftliche und emotionale Perspektive
+## Kuschelpartner und die heilende Kraft von Berührung: Eine wissenschaftliche und emotionale Perspektive
 
 Du hast davon gehört: "Professionelle Kuscheln" ist eine Sache. Menschen zahlen Geld dafür, um mit jemandem zu kuscheln – völlig platonisch, ohne sexuelle Komponente. Und dein erster Gedanke ist wahrscheinlich "Warum würde jemand das tun?" Aber dann merkst du, dass der Gedanke eigentlich beruhigend klingt.
 

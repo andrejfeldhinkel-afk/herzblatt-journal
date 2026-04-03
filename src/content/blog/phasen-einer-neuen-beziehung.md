@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Die 5 Phasen einer neuen Beziehung
+## Die 5 Phasen einer neuen Beziehung
 
 Wie neue Beziehungen sich entwickeln. Die verschiedenen Phasen verstehen. In diesem Artikel werden wir tiefer in das Thema eintauchen und praktische Strategien erkunden.
 

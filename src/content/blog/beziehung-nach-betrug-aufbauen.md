@@ -1,6 +1,6 @@
 ---
 title: "Beziehung nach Betrug: Kann man wieder vertrauen lernen?"
-description: "Beziehung nach Betrug neu aufbauen und Vertrauen aufbauen? Erfahre praktische Strategien für Vertrauensaufbau nach Fremdgehen, Affären und Beziehungsverrat durch bewährte psychologische Tipps und Techniken."
+description: "Beziehung nach Betrug neu aufbauen und Vertrauen aufbauen? Erfahre praktische Strategien für Vertrauensaufbau nach Fremdgehen."
 date: 2026-03-21
 author: sarah-kellner
 image: "/images/blog/beziehung-nach-betrug-aufbauen.webp"
@@ -20,7 +20,7 @@ faq:
     answer: "Achte auf: mangelnde Transparenz, defensive Reaktionen auf legitime Fragen, unklare Ausgaben oder Zeit, Mangel an echter Reue oder Therapiebereitschaft, das Wiederherstellen von Kontakt zur Person der Affäre, emotionale Distanzierung und das Ausweichen von wichtigen Gesprächen – diese sind kritische Warnsignale."
 ---
 
-# Beziehung nach Betrug: Kann man wieder vertrauen lernen?
+## Beziehung nach Betrug: Kann man wieder vertrauen lernen?
 
 Die Nachricht fühlt sich an wie ein physischer Schlag in die Magengrube. Du sitzt da, und die Worte deines Partners – des Menschen, dem du alles vertraut hast – klingen wie aus einer anderen Welt, einer Welt voller Lügen und Täuschung. Ein Betrug. Eine Affäre. Ein Vertrauensbruch, der deine ganze Welt erschüttert und all deine Annahmen über diese Beziehung in Frage stellt. Die Fragen überfallen dich in unkontrollierten Wellen und geben dir nachts keine Ruhe: War alles eine Lüge? Kannst du je wieder normal mit diesem Menschen leben? Und vor allem: Kannst du jemals wieder vertrauen?
 

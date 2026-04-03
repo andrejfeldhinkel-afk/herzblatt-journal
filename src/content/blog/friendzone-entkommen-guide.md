@@ -19,7 +19,7 @@ faq:
     answer: "Das ist eine sehr persönliche Entscheidung. Manchmal ja – du kannst nicht heilen wenn du die Person ständig siehst. Manchmal kannst du Gefühle umleiden zu Freundschaft (echte Freundschaft, nicht romantische-mit-Hoffnung). Das ist emotional schwer aber möglich."
 ---
 
-# Friendzone: Raus oder rein — und warum
+## Friendzone: Raus oder rein — und warum
 
 Die Friendzone ist einer der frustrierendsten Zustände des modernen Dating. Du magst jemand. Du bist zeitlich präsent, aufmerksam, hilfreiche. Du bringst Energie in die Beziehung. Aber sie/er sieht dich nur als Freund.
 

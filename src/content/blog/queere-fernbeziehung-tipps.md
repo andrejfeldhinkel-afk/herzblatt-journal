@@ -22,7 +22,7 @@ faq:
     answer: "Es ist schwierig. Die meisten Paare in Fernbeziehungen haben einen Plan, wann sie zusammenleben werden. Wenn der Plan nicht existiert oder wird weiter verschoben, das ist ein Zeichen, dass ihr Unterschiedliches wollen. Das erfordert ehrliche Konversation."
 ---
 
-# Queere Fernbeziehung: Liebe auf Distanz in der LGBTQ+ Community
+## Queere Fernbeziehung: Liebe auf Distanz in der LGBTQ+ Community
 
 Es ist 23 Uhr und du machst einen Video-Call mit deinem Partner. Er sitzt in Frankfurt, du bist in München. Ihr seid beiden müde, aber ihr wollt einfach noch zehn Minuten zusammen sein, bevor ihr ins Bett geht.
 

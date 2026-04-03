@@ -22,7 +22,7 @@ faq:
     answer: "'Nein. Clever-Ansprach Zeilen funktionieren nicht in echtem Leben. Sie machen dich scheinen, als ob du ein Spiel spielst. Sei stattdessen authentisch.'"
 ---
 
-# Die perfekte erste Nachricht beim Online-Dating: Tipps und Beispiele
+## Die perfekte erste Nachricht beim Online-Dating: Tipps und Beispiele
 
 Die erste Nachricht ist alles.
 

@@ -20,7 +20,7 @@ faq:
     answer: "Nein, das ist tatsächlich eine häufige Falle. Die wertvollsten Komplimente sind über Charakter, Intelligenz und Verhalten – nicht nur über Aussehen."
 ---
 
-# Komplimente machen, die wirklich ankommen: Der richtige Weg
+## Komplimente machen, die wirklich ankommen: Der richtige Weg
 
 Willst du deinem Partner das beste Kompliment machen? Ein Kompliment kann so viel bewirken – es kann jemanden glücklich machen, sein Selbstwertgefühl stärken und die Bindung zwischen euch vertiefen. Aber nicht alle Komplimente sind gleich.
 

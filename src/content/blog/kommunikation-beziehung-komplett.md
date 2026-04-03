@@ -25,7 +25,7 @@ faq:
     answer: "Wenn du trotz Bemühungen nicht vorwärts kommst, wenn Konflikte eskalieren, oder wenn du oder dein Partner verletzende Verhaltensweisen zeigen, ist Paartherapie wertvoll. Ein Therapeut kann euch neue Kommunikationswerkzeuge beibringen und euch helfen, tiefere Muster zu verstehen."
 ---
 
-# Kommunikation in der Beziehung: Der komplette Guide
+## Kommunikation in der Beziehung: Der komplette Guide
 
 Kommunikation ist das Herz jeder gesunden Beziehung. Es ist nicht nur das Sprechen, sondern das echte, verletzliche, ehrliche Teilen dessen, was in deinem Herzen ist. Wenn Kommunikation in einer Beziehung bricht zusammen, bricht alles zusammen. Die meisten Trennungen passieren nicht, weil die Menschen aufgehört haben zu lieben, sondern weil sie aufgehört haben, miteinander zu sprechen.
 

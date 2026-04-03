@@ -25,7 +25,7 @@ faq:
     answer: "Nein. Die richtige Gelegenheit wird nicht vorbeigehen, nur weil du dir Zeit nimmst."
 ---
 
-# Slow Dating: Achtsam kennenlernen statt Swipen
+## Slow Dating: Achtsam kennenlernen statt Swipen
 
 Swipe. Swipe. Swipe. Bump. Match. Schreib eine Nachricht. Keine Antwort. Swipe weiter.
 

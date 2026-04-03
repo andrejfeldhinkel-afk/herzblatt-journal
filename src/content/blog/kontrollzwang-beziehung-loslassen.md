@@ -1,6 +1,6 @@
 ---
 title: "Kontrollzwang in der Beziehung: Warum du loslassen musst um"
-description: "Kontrollzwang in der Beziehung erkennen und überwinden. Lerne warum Kontrolle Liebe zerstört und wie du loslernst loszulassen — für eine freiere, tiefere Verbindung."
+description: "Kontrollzwang in der Beziehung erkennen und überwinden. Lerne warum Kontrolle Liebe zerstört und wie du loslernst loszulassen — für eine freiere."
 date: 2025-11-14
 tags:
   - "Psychologie"

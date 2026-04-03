@@ -23,7 +23,7 @@ faq:
     answer: "Nein. Unterschiede in Libido sind normal und nicht deine Schuld. Aber du bist verantwortlich, mit deinem Partner darüber zu reden und zu versuchen, Lösungen zu finden, die für beide funktionieren."
 ---
 
-# Sexualität in Langzeitbeziehungen: Leidenschaft bewahren
+## Sexualität in Langzeitbeziehungen: Leidenschaft bewahren
 
 Es gibt diesen Moment in einer Langzeitbeziehung, wo du merkst: Es war lange her. Nicht Tage. Nicht Wochen. Monate.
 

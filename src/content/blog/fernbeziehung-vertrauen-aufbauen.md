@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Vertrauen in der Fernbeziehung: Wie du Angst und Unsicherheit überwindest
+## Vertrauen in der Fernbeziehung: Wie du Angst und Unsicherheit überwindest
 
 Vertrauen ist in jeder Beziehung wichtig. Aber in einer Fernbeziehung ist es alles. Du kannst nicht sehen, was dein Partner tut. Du kannst nicht beobachten, dass sie oder er dich vermisst. Du kannst nur hoffen und vertrauen, dass alles okay ist.
 

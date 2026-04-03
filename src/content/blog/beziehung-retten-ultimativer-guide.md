@@ -20,7 +20,7 @@ faq:
     answer: "Ja. Wenn die Beziehung konstant toxisch ist, wenn dein Partner sich nicht ändern will, wenn du emotional oder physisch misshandelt wirst, oder wenn ihr fundamentale Werte nicht teilt, ist Trennung manchmal die richtige Antwort."
 ---
 
-# Beziehung retten: Der ultimative Guide wenn es kriselt
+## Beziehung retten: Der ultimative Guide wenn es kriselt
 
 Du sitzt neben deinem Partner und fühlst dich allein. Ihr sprecht, aber es fühlt sich an, als würde keiner wirklich hören. Ihr hattet einen guten Anfang – echte Gefühle, gemeinsame Träume – aber irgendwann ist die Verbindung verblasst.
 

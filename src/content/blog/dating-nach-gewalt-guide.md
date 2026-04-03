@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Dating nach toxischer Erfahrung: Wie du wieder vertraust, wenn Vertrauen zerbrochen wurde
+## Dating nach toxischer Erfahrung: Wie du wieder vertraust, wenn Vertrauen zerbrochen wurde
 
 Du hast eine [Gaslighting](/blog/gaslighting-komplett-guide). Sie manipulieren deine Realität. Und selbst nachdem die Beziehung vorbei ist, flüsternd diese Stimme in deinem Kopf "Es war deine Schuld."
 

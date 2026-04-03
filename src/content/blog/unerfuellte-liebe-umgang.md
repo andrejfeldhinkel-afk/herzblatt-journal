@@ -25,7 +25,7 @@ faq:
     answer: "Unerfüllte Liebe bedeutet, dass der andere deine Gefühle nicht erwidert. Unmögliche Liebe bezieht sich auf Situationen, wo eine Beziehung objektiv nicht funktionieren kann (verheiratet, zu großer Altersunterschied, unterschiedliche Lebensziele). Unmögliche Liebe ist oft noch schwerer zu verarbeiten."
 ---
 
-# Unerfüllte Liebe: Wenn die Gefühle nicht erwidert werden
+## Unerfüllte Liebe: Wenn die Gefühle nicht erwidert werden
 
 Unerfüllte Liebe ist eine der schmerzhaftesten emotionalen Erfahrungen, die Menschen durchleben können. Du liebst jemanden tiefgreifend, doch diese Gefühle werden nicht erwidert. Es ist ein Zustand, der zwischen Hoffnung und Verzweiflung oszilliert, zwischen der stillen Hoffnung auf Veränderung und der wachsenden Erkenntnis, dass diese Liebe möglicherweise niemals so sein wird, wie du sie dir wünschst.
 

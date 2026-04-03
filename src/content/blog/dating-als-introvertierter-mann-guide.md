@@ -1,13 +1,13 @@
 ---
 title: "Dating als introvertierter Mann"
-description: "Dating als introvertierter Mann: Lerne, wie du deine introvertierten Qualitäten nutzt um Frauen zu finden, die dich wirklich wertschätzen. Praktische Tipps."
+description: "Dating als introvertierter Mann: Lerne, wie du deine introvertierten Qualitäten nutzt um Frauen zu finden, die dich wirklich wertschätzen."
 date: 2026-03-29
 tags:
   - "Dating"
   - "Introversion"
   - "Selbstbewusstsein"
 keywords: ["dating introvertierter mann", "introvertiert daten", "schüchtern dating tipps", "introvert beziehung"]
-draft: false
+draft: true
 image: "/images/photos/dating-als-introvertierter-mann-guide.webp"
 author: "markus-hoffmann"
 faq:

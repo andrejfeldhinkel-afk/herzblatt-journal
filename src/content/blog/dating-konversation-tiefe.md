@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Vom Smalltalk zur echten Verbindung: Tiefe Gespräche führen, die wirklich zählen
+## Vom Smalltalk zur echten Verbindung: Tiefe Gespräche führen, die wirklich zählen
 
 Du sitzt mit jemandem Neuem beim Kaffee. Die Konversation geht so: „Wie war dein Tag?" – „Gut." – „Cool, du arbeitest im Marketing, oder?" – „Ja." – Stille. Die ganze Zeit fragst du dich: Finde ich diese Person interessant, oder bin ich einfach nicht gut in Small Talk?
 

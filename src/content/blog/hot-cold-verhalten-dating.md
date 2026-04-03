@@ -1,6 +1,6 @@
 ---
 title: "Hot & Cold: Wenn er/sie ständig heißt und kalt macht (2026)"
-description: "Hot and cold Verhalten ist emotionale Manipulation. Lerne, die Zeichen zu erkennen, warum Leute das tun — und warum du niemals so eine Person lieben solltest."
+description: "Hot and cold Verhalten ist emotionale Manipulation. Lerne, die Zeichen zu erkennen, warum Leute das tun."
 date: 2026-04-01
 image: "/images/blog/hot-cold-verhalten-dating.webp"
 imageAlt: "Hot Cold Verhalten Dating"

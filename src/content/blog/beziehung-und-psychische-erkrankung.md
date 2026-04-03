@@ -5,7 +5,7 @@ image: "/images/blog/beziehung-und-psychische-erkrankung.webp"
 imageAlt: "Beziehung Und Psychische Erkrankung"
 date: 2026-03-21
 tags: [Psychologie, Beziehung, Gesundheit]
-description: "Psychische Erkrankungen in einer Beziehung meistern: Wie du deinen Partner unterstützt, wenn er mit psychischen Problemen kämpft. Praktische Strategien für liebevolle Unterstützung."
+description: "Psychische Erkrankungen in einer Beziehung meistern: Wie du deinen Partner unterstützt, wenn er mit psychischen Problemen kämpft."
 keywords: ["beziehung psychische erkrankung", "partner psychisch krank", "psychische krankheit beziehung", "liebe und psychische gesundheit"]
 faq:
   - question: "Kann man Beziehungsmuster verändern?"
@@ -17,7 +17,7 @@ faq:
 
 ---
 
-# Beziehung und psychische Erkrankung: Lieben und unterstützen
+## Beziehung und psychische Erkrankung: Lieben und unterstützen
 
 Eine Beziehung und psychische Erkrankung zu vereinbaren ist eine Herausforderung, die viele Paare meistern müssen. Wenn dein Partner mit einer psychischen Krankheit kämpft, brauchst du nicht nur Liebe, sondern auch das richtige Wissen und die richtige Unterstützung. Dieser umfassende Leitfaden hilft dir, die Dynamik einer Beziehung mit psychischer Erkrankung zu verstehen und praktische Strategien zu entwickeln, um deinen Partner zu unterstützen und gleichzeitig auf deine eigene mentale Gesundheit zu achten.
 

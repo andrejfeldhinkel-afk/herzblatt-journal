@@ -19,7 +19,7 @@ faq:
     answer: "Im Sommer und Frühjahr, wenn das Wetter schön ist und die Sonne lange scheint. Besonders bei Sonnenuntergang ist das Rhein-Ufer magisch. Im Winter ist es kalt, aber auch wunderbar für Winter-Romantik mit Glühwein."
 ---
 
-# Dating in Düsseldorf: Rhein-Romantik und Nachtleben
+## Dating in Düsseldorf: Rhein-Romantik und Nachtleben
 
 Düsseldorf ist eine unterschätzte Dating-Stadt. Während viele Menschen über Berlin, Köln oder München sprechen, vergessen sie Düsseldorf – eine Stadt mit einer einzigartigen Mischung aus Eleganz, Kultur und Nachtleben.
 

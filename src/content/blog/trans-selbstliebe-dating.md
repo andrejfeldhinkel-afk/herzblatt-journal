@@ -22,7 +22,7 @@ faq:
     answer: "Ja, aber es ist ein Prozess. Selbstliebe bedeutet nicht, deinen Körper zu lieben – es bedeutet, dich trotz der schwierigen Gefühle wertzuschätzen. Mit Zeit, Unterstützung und selbstmitgefühl wird es leichter."
 ---
 
-# Trans Selbstliebe: Sich akzeptieren lernen auf dem Weg zur Partnersuche
+## Trans Selbstliebe: Sich akzeptieren lernen auf dem Weg zur Partnersuche
 
 Wenn du trans bist, weißt du wahrscheinlich, dass die Frage nach Selbstliebe komplizierter wird als für viele andere Menschen. Es ist nicht einfach ein spirituelles Konzept, das du in drei Schritten meistern kannst. Selbstliebe als trans Person bedeutet, täglich gegen internalisierte Transphobie anzukämpfen, deinen Körper anzuerkennen, obwohl er vielleicht nicht dem entspricht, was sich innen richtig anfühlt, und dich trotzdem würdig zu fühlen – würdig einer erfüllten Partnerschaft, würdig von Liebe, würdig, geliebt zu werden.
 

@@ -21,7 +21,7 @@ faq:
     answer: "Offen und ohne Schuldgefühl. Beispiel: 'Mir ist unwohl, von unserem Kind zu sprechen, aber es tut mehr weh, nicht drüber zu reden. Können wir...' Starten sie mit etwas Klares, einen sicheren Raum schaffen, und Profis einbinden wenn nötig."
 ---
 
-# Beziehung nach Kindsverlust: Gemeinsam trauern
+## Beziehung nach Kindsverlust: Gemeinsam trauern
 
 Es gibt wenige Dinge, die schwerer wiegen als die Vorstellung eines Kindes zu verlieren. Das Kind, das du schon kennengelernt hast – vielleicht warst du bereits im dritten Trimester, vielleicht hast du es bereit gesehen, seine Stimme gehört, seinen Namen ausgesprochen. Oder du hast es nie getroffen, aber die Hoffnung war real, die Pläne waren real, die Liebe war real.
 

@@ -22,7 +22,7 @@ faq:
     answer: "Nein. Du bist nicht beschädigt. Du bist verletzt. Das ist anders. Verletzungen heilen. Du verdienst Liebe, genauso wie jeder andere. Die Heilung ist schwer, aber möglich."
 ---
 
-# Beziehung aufbauen nach Kindesmissbrauch – Sicher lieben lernen
+## Beziehung aufbauen nach Kindesmissbrauch – Sicher lieben lernen
 
 Das erste Mal, dass dich jemand küsste, kamen Flash-Backs.
 

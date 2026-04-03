@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Unterschiedliche Weltanschauungen beim Dating: Wenn Politik und Überzeugungen kollidieren
+## Unterschiedliche Weltanschauungen beim Dating: Wenn Politik und Überzeugungen kollidieren
 
 Die letzten Jahre haben eines sehr deutlich gemacht: Menschen haben fundamentale unterschiedliche Weltanschauungen. Und plötzlich, wenn du mit jemandem datest, stellt sich heraus, dass er eine völlig andere Sicht auf Dinge hat, die dir wichtig sind.
 

@@ -23,7 +23,7 @@ faq:
     answer: "Beide sind wichtig. Red Flags warnen Sie vor Problemen, während Green Flags zeigen, wo Potenzial für eine gesunde Beziehung besteht."
 ---
 
-# Green Flags beim Dating: Positive Zeichen richtig erkennen
+## Green Flags beim Dating: Positive Zeichen richtig erkennen
 
 Beim Dating konzentrieren sich viele Menschen auf Red Flags – die Warnsignale, die auf problematische Partner hindeuten. Das ist wichtig, aber genauso wichtig ist es, Green Flags zu erkennen – die Zeichen, die darauf hindeuten, dass Sie mit jemandem zusammen sind, der ein guter Partner sein könnte. In diesem umfassenden Guide zeigen wir Ihnen, welche Green Flags Sie suchen sollten.
 

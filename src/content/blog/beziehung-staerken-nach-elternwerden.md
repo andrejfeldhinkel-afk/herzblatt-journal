@@ -22,7 +22,7 @@ faq:
     answer: "Nicht unbedingt. Viele Paare profitieren von ein bis zwei Stunden Therapie im ersten Jahr nach der Geburt als Prävention, nicht als Notfallmaßnahme."
 ---
 
-# Beziehung stärken nach dem Elternwerden – Als Paar nicht untergehen
+## Beziehung stärken nach dem Elternwerden – Als Paar nicht untergehen
 
 Die Geburt eines Kindes ist einer der einschneidendsten Momente im Leben eines Paares. Was vorher nur zu zweit war, wird plötzlich zu dritt – oder mehr. Die romantische Beziehung, die Jahre aufgebaut wurde, gerät unter enormen Druck. Schlaflose Nächte, finanzielle Sorgen, körperliche Erschöpfung und die rund um die Uhr nötige Aufmerksamkeit für das Baby lassen viele Paare berichten: "Wir haben uns selbst verloren."
 

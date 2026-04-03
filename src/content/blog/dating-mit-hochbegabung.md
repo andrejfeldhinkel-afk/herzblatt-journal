@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Dating mit Hochbegabung: Wenn der Kopf schneller ist als das Herz
+## Dating mit Hochbegabung: Wenn der Kopf schneller ist als das Herz
 
 Du sitzt im Restaurant beim ersten Date, und während dein Date gerade davon erzählt, wie schön das Wetter ist, spielst du bereits fünf Szenarien durch, wie diese Beziehung enden könnte. Dein Gehirn scannt nach Inkonsistenzen in ihrem Verhalten. Du merkst, dass sie eine Metapher falsch benutzt hat. Du fragst dich, ob ihr IQ kompatibel ist. Und während all das passiert, lächelst du höflich und fragst dich, warum du dich nicht einfach auf den Moment konzentrieren kannst.
 

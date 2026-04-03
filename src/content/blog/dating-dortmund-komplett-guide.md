@@ -21,7 +21,7 @@ faq:
     answer: "Ja, sehr gut. Dortmund hat eine große junge Bevölkerung, Studenten, Fachleute. Tinder, Bumble und Hinge funktionieren alle hervorragend."
 ---
 
-# Dating in Dortmund: Mehr als nur Fußball
+## Dating in Dortmund: Mehr als nur Fußball
 
 Dortmund wird oft verkürzt auf BVB-Fußball reduziert. Das ist ein riesiger Fehler.
 

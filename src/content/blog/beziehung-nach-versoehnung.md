@@ -22,7 +22,7 @@ faq:
     answer: "Wenn du merkst, dass die gleichen Konflikte immer wiederkommen und keine Partei bereit ist, sich zu ändern, ist es ein Zeichen, dass die Beziehung mehr Schaden als Gutes bringt."
 ---
 
-# Beziehung nach der Versöhnung – Der Weg zum echten Neuanfang
+## Beziehung nach der Versöhnung – Der Weg zum echten Neuanfang
 
 Die Versöhnung nach einem großen Streit fühlt sich oft an wie das Ende einer Geschichte. Der Kugelschreiber wird durchgestrichen, die Wunden sollen heilen, und alles soll wieder normal sein. Aber die Wahrheit ist: Die Versöhnung ist nicht das Ende – sie ist der Anfang einer völlig neuen Phase. Und ob diese Phase zum Scheitern verurteilt ist oder zu einer tieferen Verbindung führt, hängt davon ab, wie du und dein Partner mit diesem Neuanfang umgeht.
 

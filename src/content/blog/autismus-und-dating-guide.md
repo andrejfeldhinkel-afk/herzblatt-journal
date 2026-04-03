@@ -9,7 +9,7 @@ tags:
   - "Psychologie"
   - "Ratgeber"
 keywords: ["autismus dating", "asperger beziehung", "autismus partnersuche", "neurodivergent dating"]
-description: "Ein umfassender Leitfaden für autistische Menschen, die Liebe finden möchten. Konkrete Tipps zu Kommunikation, Sensitivitäten, Disclosure und langfristigen Beziehungen."
+description: "Ein umfassender Leitfaden für autistische Menschen, die Liebe finden möchten. Konkrete Tipps zu Kommunikation, Sensitivitäten."
 date: 2025-01-23
 faq:
   - question: "Sollte ich meinem Partner früh sagen, dass ich autistisch bin?"

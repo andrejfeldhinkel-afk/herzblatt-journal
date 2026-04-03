@@ -24,7 +24,7 @@ faq:
     answer: "Nein. Das ist Selbshutz. Du darfst gehen. Du darfst deine Grenzen haben. Du darfst nicht in einer Beziehung bleiben, in der du nicht vertrauen kannst."
 ---
 
-# Nach dem Betrug verzeihen lernen – Ein ehrlicher Leitfaden
+## Nach dem Betrug verzeihen lernen – Ein ehrlicher Leitfaden
 
 Der Moment, als du es erfährst, ist wie ein Schlag in den Bauch.
 

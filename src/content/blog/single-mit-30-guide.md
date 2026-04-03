@@ -1,6 +1,6 @@
 ---
 title: "Single mit 30: Warum das völlig okay ist"
-description: "Single mit 30? Das ist völlig normal und wertvoll. Entdecke praktische Perspektiven für ein erfülltes Single-Leben, Selbstliebe und wie du dich in dieser Lebensphase selbst findest."
+description: "Single mit 30? Das ist völlig normal und wertvoll. Entdecke praktische Perspektiven für ein erfülltes Single-Leben."
 date: 2026-03-21
 author: laura-weber
 image: "/images/blog/single-mit-30-guide.webp"
@@ -20,7 +20,7 @@ faq:
     answer: "Es gibt viele Möglichkeiten: Dating-Apps, soziale Aktivitäten, Vereine, Freunde, neue Hobbys ausprobieren. Aber wichtig ist: Die Suche sollte nicht dein Leben definieren. Baue dein Leben so auf, dass es erfüllt ist, egal ob du jemanden findest oder nicht. Oft kommen Menschen in unser Leben, wenn wir nicht aktiv danach suchen."
 ---
 
-# Single mit 30: Warum das völlig okay ist
+## Single mit 30: Warum das völlig okay ist
 
 Du sitzt bei einer Familie Feier, und die Fragen kommen unvermeidlich: "Warum bist du denn noch nicht vergeben? Wann heiratest du? Deine biologische Uhr tickt doch!" Die Blicke von deinen älteren Verwandten sind voller Mitleid, als ob dein Single-Status ein persönliches Versagen wäre. Die Realität ist: Du bist mit 30 Jahren single, und für viele Menschen – besonders in Deutschland – ist das ein Grund für Besorgnis, unausgesprochene Urteile und gut gemeinte, aber verletzende Kommentare.
 

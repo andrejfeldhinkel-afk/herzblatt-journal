@@ -23,7 +23,7 @@ faq:
     answer: "Qualität über Quantität. Ein Match mit echter Chemie ist besser als hundert, mit denen nichts stimmt. Vertrau deinem Instinkt. Wenn die Konversation fließt und beide Seiten Interesse zeigen, ist es Zeit."
 ---
 
-# Online-Dating Masterclass 2026: Vom Profil bis zum Date
+## Online-Dating Masterclass 2026: Vom Profil bis zum Date
 
 Online-Dating ist jetzt die Norm. Es ist nicht mehr merkwürdig oder peinlich, Leute online zu treffen – es ist wie man Menschen trifft. Aber wenn du in den Dating-Apps unterwegs bist, weißt du vielleicht auch: Es ist *überwältigend*.
 

@@ -1,7 +1,7 @@
 ---
 date: 2026-03-21
 title: "Heilung nach toxischer Beziehung"
-description: "Du suchst nach Heilung nach einer toxischen Beziehung? Unser umfassender Recovery-Guide zeigt dir konkrete Schritte zur emotionalen Heilung und wie du wieder Vertrauen aufbaust."
+description: "Du suchst nach Heilung nach einer toxischen Beziehung? Unser umfassender Recovery-Guide zeigt dir konkrete Schritte zur emotionalen Heilung und wie du."
 author: sarah-kellner
 image: "/images/blog/heilung-nach-toxischer-beziehung.webp"
 imageAlt: "Heilung Nach Toxischer Beziehung"
@@ -24,7 +24,7 @@ faq:
 
 ---
 
-# Heilung nach toxischer Beziehung: Der komplette Recovery-Guide
+## Heilung nach toxischer Beziehung: Der komplette Recovery-Guide
 
 Du sitzt hier und fragst dich, wie du wieder normal werden kannst. Die Narben einer toxischen Beziehung sind tief, und der Weg zur Heilung nach toxischer Beziehung fühlt sich unendlich lang an. Das ist völlig verständlich. Die gute Nachricht: Tausende Menschen haben diesen Weg bereits erfolgreich gegangen, und du kannst das auch schaffen. In diesem umfassenden Recovery-Guide zeigen wir dir, wie du dich von einer toxischen Beziehung befreist, dein Vertrauen wiederherstellst und wieder glücklich wirst.
 

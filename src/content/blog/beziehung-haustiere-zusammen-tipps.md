@@ -22,7 +22,7 @@ faq:
     answer: "Ja! Haustiere können Paare zusammenbringen, Liebe und Freude teilen, und die Beziehung stärken, wenn beide Partner den Haustier lieben."
 ---
 
-# Haustiere in der Beziehung: Was Du wissen musst
+## Haustiere in der Beziehung: Was Du wissen musst
 
 Sie haben einen Hund oder eine Katze. Dann bekommen Sie eine neue Beziehung. Oder Sie kommen zusammen, und plötzlich gibt es vier Kreaturen im Haus, nicht zwei. Haustiere können eine Quelle der Freude oder eine große Quelle der Konflikt in einer Beziehung sein.
 

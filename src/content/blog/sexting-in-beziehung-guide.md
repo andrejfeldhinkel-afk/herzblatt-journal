@@ -21,7 +21,7 @@ faq:
     answer: "Sexting kann die Spannung erhöhen, ist aber kein Reparaturmittel für fundamentale Probleme. Es funktioniert am besten in Beziehungen, die bereits gut kommunizieren. Sprich mit deinem Partner über tiefere Probleme, nicht nur über Sexting."
 ---
 
-# Sexting in der Beziehung: Tipps für mehr Spannung per Handy
+## Sexting in der Beziehung: Tipps für mehr Spannung per Handy
 
 Stell dir vor: Du sitzt bei der Arbeit, und dein Partner schreibt dir etwas, das dein Gesicht erröten lässt. Nachgedanken über die Nacht, Verlangen für später, spielerische Flirts, die die ganze Tagesmeute verändern. Oder ihr seid getrennt – eine lange Geschäftsreise, Fernbeziehung – und Sexting ist die einzige Möglichkeit, intim verbunden zu bleiben.
 

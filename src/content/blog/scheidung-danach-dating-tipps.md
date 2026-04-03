@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Nach der Scheidung: Wann und wie wieder daten?
+## Nach der Scheidung: Wann und wie wieder daten?
 
 Die Unterschrift unter den Papieren ist noch nicht mal trocken, und schon bekommt du eine Nachricht auf einer Dating-App. Es fühlt sich merkwürdig an. Falsch. Zu schnell. Aber gleichzeitig gibt es da diesen kleinen Funken – vielleicht ist es Zeit, das Leben wieder zu beginnen?
 

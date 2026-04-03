@@ -25,7 +25,7 @@ faq:
     answer: "Es gibt keinen schnellen Weg. Heilung ist ein Prozess. Aber: No Contact (kein Kontakt), Therapie, Unterstützungsnetzwerk, sich selbst wieder entdecken – diese helfen. Erwarte 6-12 Monate für emotionale Heilung und Jahre für komplett zu vertrauen wieder."
 ---
 
-# Toxische Beziehung: Der komplette Guide zur Erkennung und Befreiung
+## Toxische Beziehung: Der komplette Guide zur Erkennung und Befreiung
 
 Du sitzt neben ihm auf der Couch und fragst dich: „Warum bin ich so unglücklich?"
 

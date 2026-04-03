@@ -22,7 +22,7 @@ faq:
     answer: "Ein bis anderthalb Stunden sind ideal. Das ist lang genug für echte Gespräche, aber kurz genug, um die Spannung zu bewahren."
 ---
 
-# Der komplette Dating-Guide für absolute Anfänger
+## Der komplette Dating-Guide für absolute Anfänger
 
 Du sitzt vor deinem Profil auf einer Dating-App oder hast gerade die Nummer eines interessanten Menschen bekommen – und fragst dich: *Wie mache ich das jetzt richtig?* Dating ist für viele Menschen ein großes Abenteuer, das gleichzeitig Nervosität und Aufregung mit sich bringt. Ob du zum ersten Mal in die Dating-Welt eintauchst oder nach einer längeren [Beziehungspause](/blog/beziehung-pause-regeln) wieder durchstartest – dieser Guide wird dir Schritt für Schritt zeigen, wie du diesen Prozess meistern kannst.
 

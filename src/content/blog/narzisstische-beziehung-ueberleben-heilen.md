@@ -20,7 +20,7 @@ faq:
     answer: "Das hängt ab von der Dauer und Intensität der Beziehung. Aber mit konsequentiger Arbeit dauert es normalerweise 6 Monate bis 2 Jahre, um dich vollständig zu heilen."
 ---
 
-# Narzisstische Beziehung überleben und heilen: Dein Weg raus aus dem Trauma
+## Narzisstische Beziehung überleben und heilen: Dein Weg raus aus dem Trauma
 
 Du hast diesen Artikel angeklickt, weil du wahrscheinlich weißt, dass etwas in deiner Beziehung sehr falsch ist.
 

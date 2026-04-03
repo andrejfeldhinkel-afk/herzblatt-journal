@@ -17,7 +17,7 @@ faq:
 
 ---
 
-# Dating über 50: Der komplette Guide für die zweite Lebenshälfte
+## Dating über 50: Der komplette Guide für die zweite Lebenshälfte
 
 Die Vorstellung, mit über 50 Jahren wieder ins Dating-Spiel einzusteigen, kann überwältigend sein. Vielleicht bist du nach einer langen Ehe verwitwet, geschieden oder warst einfach lang in einer Beziehung und fragst dich jetzt, wie Dating über 50 überhaupt aussieht. Die gute Nachricht ist: Die zweite Lebenshälfte bietet wunderbare Möglichkeiten für neue Liebe und tiefe Beziehungen. Dating über 50 ist nicht nur möglich, sondern kann tatsächlich besser sein als in deinen früheren Jahren.
 

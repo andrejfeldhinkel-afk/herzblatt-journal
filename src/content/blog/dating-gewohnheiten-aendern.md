@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Dating-Gewohnheiten ändern: Neue Muster für neue Ergebnisse
+## Dating-Gewohnheiten ändern: Neue Muster für neue Ergebnisse
 
 Du magst die gleiche Art von Person. Und es funktioniert nie. Du wählst immer Menschen, die nicht verfügbar sind. Oder du gibst zu schnell auf. Oder du suchst ständig nach roten Flaggen.
 

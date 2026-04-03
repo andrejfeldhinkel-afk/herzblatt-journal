@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Selbstschutz beim Online-Dating: 10 Sicherheitsregeln, die dein Leben retten
+## Selbstschutz beim Online-Dating: 10 Sicherheitsregeln, die dein Leben retten
 
 Du bist auf Tinder, eine neue Match schreibt dir. Super aussehendes Profil, lustige Nachrichten, interessante Person. Dann fragt er: „Können wir zu WhatsApp wechseln?" Oder er sucht dich auf Instagram. Oder er will deine Telefonnummer.
 

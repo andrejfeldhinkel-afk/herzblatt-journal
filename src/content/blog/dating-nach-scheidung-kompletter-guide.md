@@ -21,7 +21,7 @@ faq:
     answer: "Ja, besonders wenn du lange aus der Dating-Welt raus warst. Es ist ein sanfter Wiedereinstieg und du bestimmst das Tempo."
 ---
 
-# Dating nach Scheidung: Der komplette Guide für einen neuen Anfang
+## Dating nach Scheidung: Der komplette Guide für einen neuen Anfang
 
 Eine Scheidung ist ein Umbruch in deinem Leben. Die Traurigkeit, die Verwirrung, die Fragen – all das ist normal. Aber irgendwann kommt der Moment, in dem du denkst: "Könnte ich wieder jemanden daten?" Das ist ein großer Schritt, und dieser Guide hilft dir, ihn mit Vertrauen und Klarheit zu gehen.
 

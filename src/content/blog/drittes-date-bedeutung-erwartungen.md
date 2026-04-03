@@ -1,6 +1,6 @@
 ---
 title: "Das dritte Date: Warum es das wichtigste Date ist und was es"
-description: "Das dritte Date ist entscheidend. Erfahre warum es über Beziehung oder Friendzone entscheidet, was die andere Person erwartet und wie du alles richtig machst."
+description: "Das dritte Date ist entscheidend. Erfahre warum es über Beziehung oder Friendzone entscheidet."
 date: 2025-08-27
 tags:
   - "Dating"

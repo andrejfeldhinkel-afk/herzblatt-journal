@@ -20,7 +20,7 @@ faq:
     answer: "Wählen Sie etwas Einfaches, das beide mögen, und machen Sie es konsistent. Mit Zeit wird es natürlich werden und bedeutungsvoller."
 ---
 
-# Beziehungsrituale die wirklich verbinden: Kleine Habitats mit großer Wirkung
+## Beziehungsrituale die wirklich verbinden: Kleine Habitats mit großer Wirkung
 
 In einer Beziehung ist es leicht, in die Rutsche zu fallen. Sie sehen sich, Sie sprechen, Sie machen Ihre Sache. Aber Zeit scheint zu schlüpfen. Die Nähe, die einmal automatisch war, muss jetzt absichtsvoll erschwert werden. Eines der besten Wege, dies zu tun: Rituale.
 

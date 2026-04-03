@@ -23,7 +23,7 @@ faq:
     answer: "Schuld ist komplex. Ja, dein Verhalten hat Konsequenzen. Nein, du kannst dich nicht selbst verdammen für etwas, das du nicht verstanden hast. Die beste Lösung: Verantwortung übernehmen und arbeiten daran."
 ---
 
-# Bindungsangst verstehen und überwinden
+## Bindungsangst verstehen und überwinden
 
 Du liebst deine Partnerin. Aber wenn die Beziehung näher wird, wenn es zu ernst wird, wenn sie spricht von Zusammenleben oder Zukunft – spürst du einen Panick. Dein erstes Instinct ist, wegzulaufen.
 

@@ -17,7 +17,7 @@ faq:
 
 ---
 
-# Date Night Planer: Regelmäßig Quality Time
+## Date Night Planer: Regelmäßig Quality Time
 
 Es war früher einfach. Du hattest ein Date mit deinem Partner und ihr hattet Spaß. Aber dann kommt die Realität: Arbeit, Verantwortungen, vielleicht Kinder. Plötzlich gibt es keine „Date Nights" mehr. Ihr sitzt zusammen, aber nicht wirklich zusammen.
 

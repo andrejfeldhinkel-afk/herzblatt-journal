@@ -19,7 +19,7 @@ faq:
     answer: "Mitte, Prenzlauer Berg, Kreuzberg und Friedrichshain sind sehr aktiv. Charlottenburg ist klassischer und älter. Spandau oder Wedding sind weniger, aber wachsend. Dein Bezirk hängt von deinen Werten und Alter ab."
 ---
 
-# Dating in Berlin: Der ultimative Guide für deine Liebe in der Hauptstadt
+## Dating in Berlin: Der ultimative Guide für deine Liebe in der Hauptstadt
 
 Berlin ist anders. Das wissen alle, die hier leben. Während andere Städte Regeln haben, hat Berlin Vibes. Während andere Städte konservativ sind, ist Berlin progressiv. Und beim Daten? Berlin ist offen, direkt und ehrlich – manchmal zu ehrlich.
 

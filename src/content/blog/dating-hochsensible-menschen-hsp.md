@@ -24,7 +24,7 @@ faq:
     answer: "Die Merkmale sind: tiefe emotionale Verarbeitung, Überreizung bei zu viel Stimulation, starke Reaktion auf Schmerz oder Konflikte, Empfindlichkeit gegenüber Subtilitäten. Ein Online-Test kann helfen."
 ---
 
-# Dating als hochsensibler Mensch: Finde die richtige Verbindung
+## Dating als hochsensibler Mensch: Finde die richtige Verbindung
 
 Du bist auf einem Date und merkst plötzlich, dass Du die Musik zu laut, die Beleuchtung zu grell und den Ton Deines Dates leicht verletzend findest. Dein Herz beginnt zu rasen, nicht weil Du nervös bist – okay, vielleicht auch – sondern weil Du einfach alles intensiver wahrnimmst. Die Bewegungen der anderen Person, das Licht, sogar die Temperatur im Raum – alles registriert Dein Nervensystem auf voller Lautstärke.
 

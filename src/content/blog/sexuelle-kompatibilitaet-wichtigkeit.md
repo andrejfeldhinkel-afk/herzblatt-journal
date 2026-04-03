@@ -1,6 +1,6 @@
 ---
 title: "Sexuelle Kompatibilität: Warum sie wichtiger ist als du"
-description: "Sexuelle Kompatibilität in der Beziehung verstehen und verbessern. Erfahre warum sexuelle Übereinstimmung kein Luxus ist und wie ihr eure Intimität auf ein neues Level hebt."
+description: "Sexuelle Kompatibilität in der Beziehung verstehen und verbessern. Erfahre warum sexuelle Übereinstimmung kein Luxus ist und wie ihr eure Intimität auf."
 date: 2025-12-15
 tags:
   - "Intimität"

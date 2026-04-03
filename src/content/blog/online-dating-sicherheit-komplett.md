@@ -23,7 +23,7 @@ faq:
     answer: "Nutze nur anerkannte Apps mit Datenschutzzertifikat. Gib keine Kreditkartendaten, Bankdaten oder ID-Nummern über die App ein. Lese die Datenschutzerklärung."
 ---
 
-# Online-Dating Sicherheit: Der komplette Schutz-Guide für deine Partnersuche
+## Online-Dating Sicherheit: Der komplette Schutz-Guide für deine Partnersuche
 
 Online-Dating gehört längst zum Alltag. Millionen Menschen nutzen Dating-Apps, um ihre große Liebe zu finden oder neue Menschen kennenzulernen. Doch mit der wachsenden Popularität wächst auch die Gefahr: Fake-Profile, Catfishing, Romance Scams und Betrüger sind ein reales Problem. In diesem umfassenden Leitfaden zeige ich dir, wie du dich schützt.
 

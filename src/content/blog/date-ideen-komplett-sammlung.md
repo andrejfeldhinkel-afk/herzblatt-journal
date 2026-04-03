@@ -25,7 +25,7 @@ faq:
     answer: "Gemeinsame Kurse (Tanzen, Kochen), Abenteuer-Trips, neue Restaurants ausprobieren, Challenges machen, gemeinsam Träume planen, alte Erinnerungen aufwärmen."
 ---
 
-# 111 Date-Ideen für jede Situation und jedes Budget: Von kostenlos bis Luxus
+## 111 Date-Ideen für jede Situation und jedes Budget: Von kostenlos bis Luxus
 
 Du sitzt vor einem leeren Bildschirm und fragst dich: "Was könnten wir denn bloß machen?" Die Antwort ist: Hunderte Möglichkeiten! Ein gutes Date muss nicht kompliziert, teuer oder zeitaufwändig sein. Es muss nur authentisch zu euch passen. In diesem Leitfaden findest du 111 konkrete Date-Ideen für jede Situation, jede Jahreszeit und jedes Budget. Egal ob du gerade [Liebesbrief](/blog/liebesbrief-schreiben-anleitung)-Austausch
 

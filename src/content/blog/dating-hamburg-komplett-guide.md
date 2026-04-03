@@ -19,7 +19,7 @@ faq:
     answer: "Hamburger sind hanseatisch – verhalten, höflich aber nicht zu formal. Sie sind nicht so direkt wie Berliner, nicht so traditionell wie Bayern. Sie sind weltoffen, respektiert Qualität und Zuverlässigkeit. Ein bisschen distanziert am Anfang, aber warm wenn du sie kennst."
 ---
 
-# Dating in Hamburg: Hafen, Herz und Dates – Ein kompletter Guide
+## Dating in Hamburg: Hafen, Herz und Dates – Ein kompletter Guide
 
 Hamburg ist eine Stadt des Wassers, der Geschichte und der Möglichkeiten. Mit etwa 1,8 Millionen Einwohnern ist es Deutschlands zweitgrößte Stadt. Aber es fühlt sich nicht so groß an. Die Alster, der Hafen, die grünen Kanäle – sie geben Hamburg ein offenes, fließendes Gefühl.
 

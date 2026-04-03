@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Micro-Dating: Der 10-Minuten-Date Trend und wie er funktioniert
+## Micro-Dating: Der 10-Minuten-Date Trend und wie er funktioniert
 
 Es gibt einen neuen Dating-Trend, der die Art ändert, wie Menschen sich treffen: Micro-Dating. Das ist im Grunde genau, was es klingt – extrem kurze Dates, normalerweise zehn Minuten oder weniger.
 

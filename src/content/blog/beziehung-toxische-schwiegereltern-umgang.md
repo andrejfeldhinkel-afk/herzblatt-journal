@@ -25,7 +25,7 @@ faq:
     answer: "'Bereite dich vor. Lege Grenzen fest, bevor du ankommst. Habe ein Fluchtplan. Denk daran, dass du nicht schuldig bist, Zeit zu verbringen mit Menschen, die dir Schaden zufügen.'"
 ---
 
-# Toxische Schwiegereltern: Grenzen setzen in der Beziehung
+## Toxische Schwiegereltern: Grenzen setzen in der Beziehung
 
 Dein Partner ist großartig. Aber seine Mutter? Sie ist eine Nachtmahr.
 

@@ -17,7 +17,7 @@ faq:
 
 ---
 
-# Ehe glücklich halten: Tipps für die Langstrecke
+## Ehe glücklich halten: Tipps für die Langstrecke
 
 Du bist verheiratet. Die Hochzeit liegt hinter dir. Die Schmetterlinge im Bauch sind längst weg. Stattdessen ist da Alltag — Arbeit, Haushalt, vielleicht Kinder, die ganze Routine. Und irgendwann fragst du dich: Wie halte ich das lebendig? Wie bleibt meine Ehe nicht nur bestehen, sondern bleibt glücklich?
 

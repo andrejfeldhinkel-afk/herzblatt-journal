@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Positives Dating-Mindset: Wie du deine innere Einstellung veränderst
+## Positives Dating-Mindset: Wie du deine innere Einstellung veränderst
 
 Mindset ist alles. Wenn du glaubst, dass du nicht attraktiv bist, werden andere das fühlen. Wenn du glaubst, dass es keine guten Menschen gibt, werden du sie nicht sehen. Dein Mindset bestimmt deine Dating-Realität.
 

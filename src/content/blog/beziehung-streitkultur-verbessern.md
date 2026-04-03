@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Streitkultur verbessern: Fair kämpfen in Beziehungen
+## Streitkultur verbessern: Fair kämpfen in Beziehungen
 
 Paare, die nicht streiten, sind nicht glücklich. Sie sind entweder Roboter oder sie unterdrücken ihre echten Gefühle. Die Wahrheit ist: Gesunde Paare streiten. Sie haben Konflikte, unterschiedliche Meinungen, und manchmal sagen sie harte Dinge.
 

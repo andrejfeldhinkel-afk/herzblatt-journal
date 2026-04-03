@@ -21,7 +21,7 @@ faq:
     answer: "Für frühe Daten: Eher nicht, weil ihr nicht privat sein könnt. Für etablierte Beziehungen oder wenn beide introvertiert sind und Druck vom 1-on-1 haben: Ja, können Spaß sein. Aber the focus sollte auf euch zwei sein."
 ---
 
-# 100 kreative Date-Ideen für jede Jahreszeit
+## 100 kreative Date-Ideen für jede Jahreszeit
 
 Das Problem mit Dating ist nicht das Daten selbst – es ist die Entscheidung, *was* man tun soll.
 

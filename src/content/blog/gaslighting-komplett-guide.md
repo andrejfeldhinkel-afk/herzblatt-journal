@@ -19,7 +19,7 @@ faq:
     answer: "Ja, sehr häufig. Eltern gaslighten Kinder manchmal ('Das ist nicht passiert', 'Du erinnerst dich falsch'). Geschwister auch. Familie-Gaslighting ist oft schwer zu erkennen, weil du Normalität nicht hast – du kennst nichts anderes. Aber das schädliche Muster ist das gleiche."
 ---
 
-# Gaslighting erkennen: Der komplette Guide
+## Gaslighting erkennen: Der komplette Guide
 
 Gaslighting ist eine der subtilsten Formen von Manipulation. Und gleichzeitig eine der destruktivsten.
 

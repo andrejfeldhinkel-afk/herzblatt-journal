@@ -1,6 +1,6 @@
 ---
 title: "Rebound-Beziehung erkennen"
-description: "Rebound-Beziehung erkennen: Lerne die Zeichen einer Rebound-Beziehung kennen und schütze dich vor emotionaler Verschwendung. Praktische Tipps für echte Liebe."
+description: "Rebound-Beziehung erkennen: Lerne die Zeichen einer Rebound-Beziehung kennen und schütze dich vor emotionaler Verschwendung."
 date: 2026-03-29
 tags:
   - "Dating"

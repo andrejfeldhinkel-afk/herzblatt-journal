@@ -24,7 +24,7 @@ faq:
     answer: "Oft aus Angst vor Scheitern, Bedarf nach Kontrolle, geringes Selbstwertgefühl oder Vermeidung persönlicher Probleme."
 ---
 
-# Beziehung mit einem Workaholic: Nähe trotz Arbeit
+## Beziehung mit einem Workaholic: Nähe trotz Arbeit
 
 Du kennst die Situation: Du planst einen schönen Abend zusammen, aber dein Partner sagt, er/sie muss noch eine Stunde arbeiten. Eine Stunde wird zu drei. Der schöne Abend wird zu dir, die allein auf der Couch sitzt und schreiber eine E-Mail wartet. Und das passiert wieder und wieder und wieder.
 

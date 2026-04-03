@@ -20,7 +20,7 @@ faq:
     answer: "Überhaupt nicht! Paare, die konstruktiv streiten, sind eigentlich glücklicher. Es geht darum, wie man streitet – fair, mit Respekt, und mit dem Ziel, sich gegenseitig zu verstehen."
 ---
 
-# Kommunikation in Beziehungen: Die Masterclass für Paare
+## Kommunikation in Beziehungen: Die Masterclass für Paare
 
 Die meisten Beziehungsprobleme sind keine echten Beziehungsprobleme. Sie sind Kommunikationsprobleme.
 

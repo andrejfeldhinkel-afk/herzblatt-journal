@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Liebeskummer überstehen: Was wirklich hilft
+## Liebeskummer überstehen: Was wirklich hilft
 
 Liebeskummer ist nicht einfach nur ein schlechtes Gefühl. Es ist einer der intensivsten emotionalen Zustände, den dein Körper durchmachen kann. Dein Gehirn reagiert wie auf einen Entzug, dein Herz schmerzt physisch, und dein Körper sehnt sich nach der Person, die weg ist.
 

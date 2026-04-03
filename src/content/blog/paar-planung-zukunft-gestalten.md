@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Zukunft als Paar planen: Gemeinsam Träume gestalten
+## Zukunft als Paar planen: Gemeinsam Träume gestalten
 
 Wie du und dein Partner gemeinsam die Zukunft planst und Ziele setzt. In diesem Artikel werden wir tiefer in das Thema eintauchen und praktische Strategien erkunden.
 

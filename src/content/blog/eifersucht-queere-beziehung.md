@@ -22,7 +22,7 @@ faq:
     answer: "Ja, durch Selbstreflexion, offene Kommunikation mit deinem Partner und eventuell durch Einzeltherapie. Bei tieferen Problemen ist professionelle Hilfe sinnvoll."
 ---
 
-# Eifersucht in queeren Beziehungen: Verstehen, kommunizieren und überwinden
+## Eifersucht in queeren Beziehungen: Verstehen, kommunizieren und überwinden
 
 Das Gefühl schleicht sich ein, wenn du merkst, dass dein Partner oder deine Partnerin länger als nötig mit jemandem schreibt. Dein Herz zieht sich zusammen, wenn du siehst, dass die Ex-Partnerin auf einer queeren Party auftaucht – und dein Partner und diese Person kennen sich seit zehn Jahren, sind quasi beste Freunde. Du stellst dir Fragen, die dir selbst peinlich sind, und merkst, dass der vertraute Mensch neben dir plötzlich fremd wirkt. Eifersucht.
 

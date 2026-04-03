@@ -1,6 +1,6 @@
 ---
 title: "Vermeidender Bindungsstil"
-description: "Erfahre alles über Avoidant Attachment – den vermeidenden Bindungsstil. Entdecke die Ursachen deiner Näheangst, erkenne deine Muster und lerne praktische Strategien, um gesündere Beziehungen aufzubauen. Ein tiefgehender Guide für mehr Liebe und Nähe."
+description: "Erfahre alles über Avoidant Attachment – den vermeidenden Bindungsstil. Entdecke die Ursachen deiner Näheangst."
 author: thomas-peters
 image: "/images/blog/avoidant-attachment-beziehung-guide.webp"
 imageAlt: "Avoidant Attachment Beziehung Guide"
@@ -25,7 +25,7 @@ faq:
 
 ---
 
-# Vermeidender Bindungsstil: Warum du Nähe fürchtest und was hilft
+## Vermeidender Bindungsstil: Warum du Nähe fürchtest und was hilft
 
 Kennst du das Gefühl, dass du dich in Beziehungen unwohl fühlst, wenn sie zu nah oder zu abhängig werden? Oder merkst du, dass du automatisch auf Distanz gehst, wenn jemand mehr Nähe sucht? Du könntest einen vermeidenden Bindungsstil haben. Der vermeidende Bindungsstil, auch Avoidant Attachment genannt, ist ein Bindungsmuster, das viele Menschen unbewusst in ihren Beziehungen zeigen. Es ist nicht etwas, das mit dir „falsch" ist – es ist ein Schutzmechanismus, den dein Gehirn früh in deinem Leben entwickelt hat. In diesem umfassenden Guide werden wir verstehen, was Avoidant Attachment ist, woher es kommt, wie es sich in Beziehungen manifestiert und vor allem – wie du daran arbeiten kannst, um tiefere, erfüllendere Beziehungen zu entwickeln.
 

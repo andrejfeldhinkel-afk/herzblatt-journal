@@ -22,7 +22,7 @@ faq:
     answer: "Schwierig. Es kann funktionieren, wenn der unreife Partner bereit ist zu wachsen. Wenn nicht, wirst du wahrscheinlich zur Therapeutin deines Partners statt zu Partnerin."
 ---
 
-# Emotionale Reife in der Beziehung – Woran du sie erkennst
+## Emotionale Reife in der Beziehung – Woran du sie erkennst
 
 Emotionale Reife ist eines der am meisten missverstandenen Konzepte in Beziehungen. Viele Menschen denken, dass es darum geht, keine Emotionen zu haben, oder immer rational und logisch zu sein. Das ist komplett falsch.
 

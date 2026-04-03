@@ -22,7 +22,7 @@ faq:
     answer: "Das ist eine wichtige Frage. Es ist nicht egoistisch, ehrlich zu sein. Aber es hat echte Auswirkungen auf deinen Partner. Beide Seiten können wahr sein: Es ist wichtig, dass du authentisch lebst UND es ist verständlich, wenn dein Partner verletzt ist. Die Antwort liegt darin, beide Wahrheiten zu halten und das zusammen zu durchleben."
 ---
 
-# Coming Out in der Beziehung: Wenn du merkst, dass du queer bist
+## Coming Out in der Beziehung: Wenn du merkst, dass du queer bist
 
 Stell dir vor, du bist verheiratet. Du liebst deinen Partner. Ihr habt ein Leben zusammengebaut – vielleicht Kinder, vielleicht ein Haus, vielleicht Jahre von Geschichte. Und dann, irgendwann, merkst du etwas Seltsames.
 

@@ -197,4 +197,4 @@ Das ändert alles.
 
 ---
 
-**Verwandte Artikel:** Erfahre auch über [Kommunikation in Beziehungen](/blog/beziehung-offene-kommunikation) und [emotionale Verbindung](/blog/emotionale-naehe-beziehung-tipps).
+**Verwandte Artikel:** Erfahre auch über [Kommunikation in Beziehungen](/blog/beziehung-offene-kommunikation) und [emotionale Verbindung](/blog/emotionale-intimitaet-aufbauen).

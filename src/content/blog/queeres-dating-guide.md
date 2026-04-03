@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Queeres Dating: Ein vollständiger Guide
+## Queeres Dating: Ein vollständiger Guide
 
 Sicherheit, Authentizität und Liebe beim queeren Dating. In diesem Artikel werden wir tiefer in das Thema eintauchen und praktische Strategien erkunden.
 

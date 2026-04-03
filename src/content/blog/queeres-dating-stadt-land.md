@@ -22,7 +22,7 @@ faq:
     answer: "Ja, aber es braucht Planung. Wochenends-Beziehungen, geteilte Wohnungen oder einer der beiden zieht später um. Es ist schwieriger, aber nicht unmöglich."
 ---
 
-# Queeres Dating: Großstadt vs. Land — Wo findet man die Liebe?
+## Queeres Dating: Großstadt vs. Land — Wo findet man die Liebe?
 
 Du sitzt in deinem Zimmer in einer Kleinstadt mit 8.000 Einwohnern. Die Dating-App zeigt dir sieben Profile in deiner Gegend, und zwei davon sind Troll-Accounts. Du fragst dich: Werde ich hier jemals jemanden finden? Ist es überhaupt möglich, als queerer Mensch auf dem Land echte, tiefe Liebe zu finden?
 

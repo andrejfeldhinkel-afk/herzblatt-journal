@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Minimalistisches Dating: Weniger ist mehr
+## Minimalistisches Dating: Weniger ist mehr
 
 Warum manche Menschen zum minimalistischem Dating-Ansatz wechseln. Weniger Drama, mehr Authentizität. In diesem Artikel werden wir tiefer in das Thema eintauchen und praktische Strategien erkunden.
 

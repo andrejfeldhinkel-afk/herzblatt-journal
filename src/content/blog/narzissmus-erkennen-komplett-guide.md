@@ -24,7 +24,7 @@ faq:
     answer: "Nein. Narzisstische Persönlichkeitsstörung ist ein Muster von: Fehlender Empathie, Bewunderungsbedarf, Grandiösität, Manipulation und Mangel an Schuldgefühlen. Gelegentlicher Egoismus hat jeder – das macht dich nicht zum Narzissten."
 ---
 
-# Narzissmus erkennen: Der vollständige Guide für echte Narzissten
+## Narzissmus erkennen: Der vollständige Guide für echte Narzissten
 
 Ich bin überzeugt, dass du bereits einen Narzissten getroffen hast.
 

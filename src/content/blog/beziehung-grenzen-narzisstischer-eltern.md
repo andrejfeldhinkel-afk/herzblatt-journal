@@ -20,7 +20,7 @@ faq:
     answer: "Ja, für viele Menschen ist reduzierter Kontakt mit klaren Grenzen die beste Lösung. Du kannst entscheiden, wie oft und unter welchen Bedingungen Du Kontakt hast. Das können begrenzte Telefonate, seltene Besuche oder nur digitale Kontakte sein. Es geht darum, was für Deine mentale Gesundheit und Deine Beziehung richtig ist."
 ---
 
-# Grenzen setzen gegenüber narzisstischen Eltern – Deine Beziehung schützen
+## Grenzen setzen gegenüber narzisstischen Eltern – Deine Beziehung schützen
 
 Du merkst es schon lange: Mit Deinen Eltern stimmt etwas nicht. Sie kritisieren Deinen Partner, mischen sich ständig ein, machen Dir Schuldgefühle oder spielen die Opfer. Gleichzeitig ignorieren sie, wenn Du Grenzen setzt. Das Schlimmste ist, dass dieser Einfluss auch in Deine romantische Beziehung hineinwirkt. Du bist gestresst, Dein Partner ist frustriert, und Ihr habt ständig Konflikte, die eigentlich von Deinen Eltern kommen, nicht voneinander.
 

@@ -20,7 +20,7 @@ faq:
     answer: "Das kommt auf beide Partner an. Wenn er oder sie bereit ist zu wachsen, ja. Wenn nicht, wird es schwierig."
 ---
 
-# Wenn Dein Partner nicht streiten kann: Wie Du damit umgehen kannst
+## Wenn Dein Partner nicht streiten kann: Wie Du damit umgehen kannst
 
 Du hast ein Problem in Deiner Beziehung. Etwas baut sich auf in Dir. Endlich, Du platzt raus damit. Und Dein Partner... sagt nichts. Oder noch schlimmer, er oder sie verlässt den Raum. Oder antwortet mit einem einzeiligen, dismissiven Kommentar. Die Unterhaltung ist vorbei, aber nichts ist gelöst.
 

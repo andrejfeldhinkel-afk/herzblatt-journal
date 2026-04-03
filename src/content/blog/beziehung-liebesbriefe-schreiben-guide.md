@@ -23,7 +23,7 @@ faq:
     answer: "Nein, es ist romantisch und ehrlich. Die meisten Menschen schätzen die Anstrengung und Gedanken, die in einen handgeschriebenen Brief gehen."
 ---
 
-# Liebesbriefe schreiben: Ein Guide für Romantiker
+## Liebesbriefe schreiben: Ein Guide für Romantiker
 
 In einer Welt von Textnachrichten und Emojis hat die alte Kunstform des Schreibens von Liebesbriefen eine zeitlose Schönheit. Es gibt etwas zutiefst Romantisches darin, das Papier, Stift und Zeit zu nehmen, um deine Gefühle zu einer Person zu teilen.
 

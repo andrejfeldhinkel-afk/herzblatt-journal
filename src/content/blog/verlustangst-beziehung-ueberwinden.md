@@ -20,7 +20,7 @@ faq:
     answer: "Leichte Formen kannst Du mit Selbstreflexion und Uebungen angehen. Bei starker Verlustangst ist Therapie empfehlenswert, besonders Schematherapie oder EMDR haben sich bewaehrt."
 ---
 
-# Verlustangst in der Beziehung: Woher sie kommt und was wirklich hilft
+## Verlustangst in der Beziehung: Woher sie kommt und was wirklich hilft
 
 Dein Partner antwortet nicht sofort auf Deine Nachricht und in Dir steigt Panik auf. Er geht abends mit Freunden weg und Du kannst an nichts anderes denken als daran, ob er Dich noch liebt. Sie erwaehnt einen maennlichen Kollegen und Dein Magen verkrampft sich.
 

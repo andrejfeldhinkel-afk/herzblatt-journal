@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Dating: Ehrlichkeit vs. Taktik — Was funktioniert?
+## Dating: Ehrlichkeit vs. Taktik — Was funktioniert?
 
 Es ist Dienstagabend. Du hast gerade eine tolle Person kennengelernt. Ihr habt euch gegestern getroffen und es war super. Jetzt fragst du dich: Soll ich jetzt anschreiben oder warte ich noch ein paar Tage? Soll ich sagen, dass ich total interessiert bin, oder soll ich so tun, als würde ich nicht so viel Interesse haben?
 

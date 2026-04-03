@@ -1,6 +1,6 @@
 ---
 title: "Dating nach Burnout: Liebe finden wenn die Energie fehlt"
-description: "Dating nach Burnout ist eine Herausforderung. Lerne wie du trotz Erschöpfung neue Liebe finden kannst. Tipps für burnout dating ohne deine Gesundheit zu ruinieren."
+description: "Dating nach Burnout ist eine Herausforderung. Lerne wie du trotz Erschöpfung neue Liebe finden kannst."
 date: 2026-03-21
 author: sarah-kellner
 image: "/images/blog/dating-nach-burnout-guide.webp"
@@ -18,7 +18,7 @@ faq:
 
 ---
 
-# Dating nach Burnout: Liebe finden wenn die Energie fehlt
+## Dating nach Burnout: Liebe finden wenn die Energie fehlt
 
 Du bist gerade aus einem Burnout rausgekommen oder befindest dich noch mittendrin. Die letzte Beziehung ist vorbei, oder du warst so beschäftigt mit Arbeit und Stress, dass Liebe nicht auf deiner Agenda stand. Jetzt fragst du dich: Kann ich überhaupt wieder daten, wenn ich so erschöpft bin? Die Antwort ist ja – aber mit Bedacht und Selbstmitgefühl.
 

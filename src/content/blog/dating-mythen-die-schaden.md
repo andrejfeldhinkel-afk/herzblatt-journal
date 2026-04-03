@@ -1,6 +1,6 @@
 ---
 title: 15 Dating-Mythen die Deiner Partnersuche schaden
-description: "15 Dating-Mythen die Deiner Partnersuche schaden — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
+description: "15 Dating-Mythen die Deiner Partnersuche schaden — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst."
 date: 2026-03-16
 tags:
   - "Beziehung"
@@ -24,7 +24,7 @@ faq:
     answer: "Rat, der Dich authentisch macht, Grenzen respektiert, und gesunde Beziehungen fördert."
 ---
 
-# 15 Dating-Mythen, die Deiner Partnersuche schaden
+## 15 Dating-Mythen, die Deiner Partnersuche schaden
 
 Du wirst gesagt, vieles über Dating. „Spielen Sie schwer zu bekommen." „Der Mann sollte immer zahlen." „Sprich nicht über Deine Vergangenheit." „Warte drei Tage, bevor Du Dich meldest."
 

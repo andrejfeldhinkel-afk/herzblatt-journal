@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Verschiedene Essgewohnheiten in der Beziehung
+## Verschiedene Essgewohnheiten in der Beziehung
 
 Es ist Freitagabend. Du öffnest den Kühlschrank und freust dich schon auf das Steak, das du morgen braten wolltest. Dein Partner steht neben dir und sagt: „Hey, ich bin jetzt vegan. Das essen wir nicht mehr." Willkommen zur Realität vieler Beziehungen.
 

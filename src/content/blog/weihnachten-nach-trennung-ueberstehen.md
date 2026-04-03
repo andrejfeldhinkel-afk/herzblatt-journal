@@ -1,6 +1,6 @@
 ---
 title: "Weihnachten nach der Trennung überstehen: So kommst du durch"
-description: "Weihnachten nach Trennung meistern: Tipps für Einsamkeit, Familie und Heilung. Wie du die Feiertage ohne deinen Partner erlebst und neue Traditionen schaffst."
+description: "Weihnachten nach Trennung meistern: Tipps für Einsamkeit, Familie und Heilung. Wie du die Feiertage ohne deinen Partner erlebst und neue Traditionen."
 date: 2025-12-15
 image: "/images/photos/weihnachten-nach-trennung-ueberstehen.webp"
 imageAlt: "Gemütliche Weihnachtsstimmung allein nach der Trennung"

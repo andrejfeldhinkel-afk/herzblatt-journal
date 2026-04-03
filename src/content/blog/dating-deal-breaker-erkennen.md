@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Deal-Breaker erkennen: Wann solltest du weitergehen?
+## Deal-Breaker erkennen: Wann solltest du weitergehen?
 
 Du sitzt in einem Café und merkst bei deinem Date, dass er immer noch von seiner Ex spricht. Und nicht in einem "ich habe gelernt und bin gewachsen" Sinn, sondern mehr in einem "ich kann nicht über sie hinwegkommen" Sinn. Dein Bauchgefühl sendet Alarmsignale aus. Aber dein Verstand sagt dir: "Vielleicht bin ich zu kritisch. Vielleicht sollte ich ihm noch eine Chance geben."
 

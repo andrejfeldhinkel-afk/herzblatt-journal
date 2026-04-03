@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Hochzeitsplanung als Paar: Das Abenteuer beginnt
+## Hochzeitsplanung als Paar: Das Abenteuer beginnt
 
 Wie man Hochzeitsplanung als gemeinsames Abenteuer gestaltet. Tipps zur Stressreduzierung. Dieser umfassende Guide bietet praktische Ratschläge und emotionale Unterstützung für verschiedene Situationen beim Dating und in Beziehungen.
 

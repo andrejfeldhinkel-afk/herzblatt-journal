@@ -20,7 +20,7 @@ faq:
     answer: "Schaffen Sie bewusste Momente zusammen, minimieren Sie Ablenkungen, und konzentrieren Sie sich auf gegenseitige Aufmerksamkeit. Qualität schlägt Quantität, wenn keine andere Wahl besteht."
 ---
 
-# Quality Time vs Quantity Time: Die richtige Balance in der Beziehung
+## Quality Time vs Quantity Time: Die richtige Balance in der Beziehung
 
 Stellen Sie sich dieses Szenario vor: Ein Paar sitzt zusammen auf dem Sofa. Sie sind beide für zwei Stunden zusammen – drei Stunden tatsächlich. Aber während dieser ganzen Zeit scrollt einer durch sein Handy, während der andere fernsieht. Sie sprechen nicht, sie berühren sich nicht. Sie sind beisammen, aber nicht wirklich zusammen.
 

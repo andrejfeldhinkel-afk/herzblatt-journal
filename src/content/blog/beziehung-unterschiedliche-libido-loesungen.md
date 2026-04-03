@@ -22,7 +22,7 @@ faq:
     answer: "'Du kannst ihn unterstützen, aber nicht 'reparieren'. Stress, Gesundheit, Medikamente beeinflussen Libido. Ein Arzt oder Therapeut kann helfen. Aber sein Verlangen muss von ihm kommen, nicht von dir.'"
 ---
 
-# Unterschiedliche Libido in der Beziehung: Praktische Lösungen
+## Unterschiedliche Libido in der Beziehung: Praktische Lösungen
 
 Eines der am wenigsten diskutierten, aber am weitesten verbreiteten Probleme in Beziehungen ist unterschiedliche sexuelle Verlangens.
 

@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Konflikte lösen als Paar: Eine gesunde Anleitung
+## Konflikte lösen als Paar: Eine gesunde Anleitung
 
 Jedes Paar streitet. Das ist normal. Das Problem ist nicht, ob ihr streitet, sondern wie ihr streitet. In diesem Artikel lernst du, wie du Konflikte auf gesunde Weise löst.
 

@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Wochenend-Rituale: Qualitätszeit mit deinem Partner
+## Wochenend-Rituale: Qualitätszeit mit deinem Partner
 
 Die Woche ist chaotisch. Arbeit, Verpflichtungen, Stress. Das Wochenende ist wenn ihr endlich atmen könnt. Und wenn ihr euch wieder an die Beziehung erinnern könnt.
 

@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Sommer-Dating: Heiße Tipps für heiße Tage
+## Sommer-Dating: Heiße Tipps für heiße Tage
 
 Der Sommer ist die beste Zeit zum Daten. Die Sonne scheint, die Temperaturen sind warm und die ganze Stadt scheint plötzlich voller Möglichkeiten zu sein. Egal ob du gerade jemanden kennengelernt hast oder mit deinem Partner neue Abenteuer suchst – der Sommer bietet die perfekte Kulisse für unvergessliche Dates. Ich zeige dir, wie du aus den warmen Monaten das Maximum für dein Dating-Leben herausholt.
 

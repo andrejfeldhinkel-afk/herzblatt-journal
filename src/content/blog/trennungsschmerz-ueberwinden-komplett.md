@@ -18,7 +18,7 @@ faq:
     answer: "Durch bewusste Selbstreflexion, Hobbys, soziale Kontakte und professionelle Unterstützung. Nimm dir Zeit, deine Grenzen und Bedürfnisse neu zu definieren."
 ---
 
-# Trennungsschmerz überwinden: Der komplette Heilungsweg
+## Trennungsschmerz überwinden: Der komplette Heilungsweg
 
 Eine [Trennung](/blog/trennung-verarbeiten-12-schritte) ist eine der schlimmsten Erfahrungen, die du machen kannst. Es fühlt sich an, als würde ein Teil von dir fehlen, und die Welt um dich herum wirkt plötzlich grau und leblos. Doch ich versichere dir: Dieser Schmerz wird sich verändern. Du wirst wieder lachen können, ohne dich schuldig zu fühlen. Du wirst wieder in den Spiegel schauen und dich selbst erkennen.
 

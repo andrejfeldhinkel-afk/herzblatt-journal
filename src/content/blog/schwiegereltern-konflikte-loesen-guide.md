@@ -22,7 +22,7 @@ faq:
     answer: "Klare Grenzen setzen. Kinder sehen, was normal ist. Wenn die Großeltern respektlos sind, müssen sie Konsequenzen sehen – weniger Besuchszeit, Besuchsbeschränkungen."
 ---
 
-# Schwiegereltern-Konflikte lösen – Der komplette Guide
+## Schwiegereltern-Konflikte lösen – Der komplette Guide
 
 Eine der größten Stressoren in Beziehungen ist nicht der Partner – es sind die Schwiegereltern. Das Baby-Boomer-Elternpaar, die Grenzen nicht respektiert. Die kritische Schwiegermutter, die alles, was du tust, kommentiert und bewertet. Der Schwiegervater, der wichtigtuerisch ist und dein Leben lenken möchte. Die ganzen Geschwister, die dich nicht akzeptieren. Die Großeltern, die deine Elternschafts-Entscheidungen sabotieren.
 

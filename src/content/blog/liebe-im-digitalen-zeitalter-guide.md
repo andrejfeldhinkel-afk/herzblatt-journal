@@ -18,7 +18,7 @@ faq:
     answer: "Nein, nicht per se. Sie sind nur Tools. Die Qualität einer Beziehung hängt von den Menschen darin ab, nicht davon, wie sie sich trafen. Viele Paare haben sich auf Apps kennengelernt und haben großartige Beziehungen."
 ---
 
-# Liebe im digitalen Zeitalter: Wie Technologie unsere Beziehungen verändert
+## Liebe im digitalen Zeitalter: Wie Technologie unsere Beziehungen verändert
 
 Vor 20 Jahren war es unvorstellbar, sich jemanden ohne Handy-Nummer anzusehen. Vor 15 Jahren war Facebook das Ding. Vor 10 Jahren revolutionierten Dating-Apps unsere Kontaktaufnahme. Heute ist kaum noch eine Beziehung möglich ohne WhatsApp, Instagram, TikTok und die ständige Präsenz der Technologie.
 

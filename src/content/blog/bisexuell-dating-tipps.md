@@ -24,7 +24,7 @@ faq:
     answer: "Sei ehrlich über deine Sexualität auf deinem Profil oder beim ersten Date. 'Ich bin bisexuell und das ist wichtig für meine Identität.' Das filtert die Menschen heraus, die ein Problem damit haben. Suche nach LGBTQ+-freundlichen Menschen oder anderen bi/pan Menschen. Community ist dein Freund."
 ---
 
-# Bisexuelles Dating: Zwischen den Welten — Tipps für bi Menschen
+## Bisexuelles Dating: Zwischen den Welten — Tipps für bi Menschen
 
 Bisexualität ist sein eigenes Ding. Es ist nicht "halb schwul, halb hetero." Es ist nicht "noch nicht entschieden." Es ist nicht "habgierig" oder "untreu." Es ist seine eigene sexuelle Orientierung, mit seinen eigenen Herausforderungen und seiner eigenen Schönheit.
 

@@ -19,7 +19,7 @@ faq:
     answer: "Ja, aber nicht ausschließlich. Das Bohnenviertel (West) ist quirlig, kreativ, voller Cafés und Bars. Es ist nicht Bohème im klassischen Sinn, sondern mehr urban und lebendig. Perfekt, wenn dein Date jung und kreativ ist."
 ---
 
-# Dating in Stuttgart: Liebe zwischen Kesseln
+## Dating in Stuttgart: Liebe zwischen Kesseln
 
 Stuttgart ist eine unterschätzte Dating-Stadt. Die meisten Menschen denken an Autos (Daimler, Porsche) oder Wirtschaft. Aber Stuttgart ist auch eine wunderbar lebendige Stadt mit einer einzigartigen Kultur, schöner Natur und einem authentischen Charm.
 

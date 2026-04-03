@@ -19,7 +19,7 @@ faq:
     answer: "Das ist Nervosität, nicht Angst. Das ist ein gutes Zeichen. Atmen hilft – wirklich. Bevor es zum Moment kommt, atme ein paar Mal tief durch. Es ist okay, nervös zu sein. Das ist menschlich."
 ---
 
-# Erster Kuss: Timing, Technik und was danach kommt
+## Erster Kuss: Timing, Technik und was danach kommt
 
 Der erste Kuss ist einer jener Momente, den du dein ganzes Leben nicht vergisst. Nicht wegen des Kusses selbst – obwohl das auch eine Rolle spielt – sondern wegen der Spannung davor. Der elektrische Moment, in dem dein Herz rast und dein Kopf völlig leer wird.
 

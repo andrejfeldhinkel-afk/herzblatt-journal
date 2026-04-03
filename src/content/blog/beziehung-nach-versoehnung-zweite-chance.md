@@ -23,7 +23,7 @@ faq:
     answer: "Klären Sie, was genau schiefgelaufen ist, was sich ändern muss, und ob beide Partner daran arbeiten wollen. Setzen Sie konkrete Ziele für die Veränderung."
 ---
 
-# Zweite Chance in der Beziehung: Wann sie sich wirklich lohnt
+## Zweite Chance in der Beziehung: Wann sie sich wirklich lohnt
 
 Sie haben sich getrennt, und jetzt denkt einer von Ihnen – vielleicht Sie selbst – dass es doch noch eine Chance geben könnte. Die Frage ist: Sollte es? In diesem Artikel erfahren Sie, unter welchen Bedingungen eine zweite Chance sinnvoll ist und wann Sie besser weitergehen sollten.
 

@@ -20,7 +20,7 @@ faq:
     answer: "Es ist okay, Freunde zu sehen. Aber vermeide, über deinen Ex zu sprechen oder Geschichten von ihm/ihr zu hören. Sag den Freunden, dass du brauchst, diese Periode zu fokussieren."
 ---
 
-# Kontaktsperre nach Trennung: Dein Weg zur Heilung
+## Kontaktsperre nach Trennung: Dein Weg zur Heilung
 
 Nach einer Trennung gibt es einen Moment der Wahrheit. Dein Ex schreibt dir eine Nachricht. Vielleicht ist es "Hey, wie geht es dir?" oder "Lass uns reden." Und plötzlich, bist du versucht, zu antworten.
 

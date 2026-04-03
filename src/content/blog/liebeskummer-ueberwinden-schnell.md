@@ -24,7 +24,7 @@ faq:
     answer: "Das ist sehr schwer. Der Kontakt hält deine Wunde offen. Es ist wie, eine Infektion zu haben und jeden Tag die Bandage abzunehmen. Kein Kontakt ist erste Wahl."
 ---
 
-# Liebeskummer überwinden: Die 5 Phasen, die Wahrheit über die Dauer und konkrete Erste-Hilfe
+## Liebeskummer überwinden: Die 5 Phasen, die Wahrheit über die Dauer und konkrete Erste-Hilfe
 
 Liebeskummer ist wahrscheinlich das körperlichste emotionale Schmerz, das du je empfunden hast. Es ist nicht nur im Kopf. Es ist physischer Schmerz, der dich am Morgen aufwachen lässt und dich den ganzen Tag begleitet.
 
@@ -1276,5 +1276,5 @@ Bis dahin: Kontaktsperre, Sport, und sei freundlich zu dir selbst.
 Du verdienst Gnade — besonders von dir selbst.
 
 - [Verliebt sein: 25+ Anzeichen und die Psychologie dahinter](/blog/verliebt-sein-anzeichen-psychologie/)
-- [Red Flags in neuen Beziehungen erkennen](/blog/red-flags-beziehung/)
-- [Selbstliebe lernen: Ein praktischer 30-Tage-Plan](/blog/selbstliebe-lernen/)
+- [Red Flags in neuen Beziehungen erkennen](/blog/red-flags-erkennen)
+- [Selbstliebe lernen: Ein praktischer 30-Tage-Plan](/blog/selbstliebe-lernen-vor-beziehung)

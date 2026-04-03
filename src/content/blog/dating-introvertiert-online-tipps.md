@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Online-Dating für Introvertierte: Deine Chance, nicht deine Falle
+## Online-Dating für Introvertierte: Deine Chance, nicht deine Falle
 
 Du bist introvertiert, magst Menschen, aber in großen Menschenmengen oder direkten Situationen wirst du nervös. Die Vorstellung, in eine Bar zu gehen und jemanden anzusprechen, lässt dein Herz rasen. Und genau deswegen könnte Online-Dating für dich nicht perfekter sein – wenn du es richtig machst.
 

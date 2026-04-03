@@ -13,7 +13,7 @@ keywords:
   - emotional neglect
   - emotionale vernachlässigung beziehung
   - partner ignoriert gefühle
-description: "Emotionale Vernachlässigung ist unsichtbar, doch ihre Auswirkungen sind verheerend. Erfahre, wie du diese stille Form der Beziehungsvergiftung erkennst und wieder zu dir selbst findest."
+description: "Emotionale Vernachlässigung ist unsichtbar, doch ihre Auswirkungen sind verheerend."
 faq:
   - question: "Warum wiederholen sich Beziehungsprobleme?"
     answer: "Oft liegen unbewusste Muster aus der Kindheit zugrunde. Der Bindungsstil und frühe Beziehungserfahrungen prägen, wen wir anziehen und wie wir in Beziehungen agieren."
@@ -24,7 +24,7 @@ faq:
 
 ---
 
-# Emotionale Vernachlässigung: Das stille Gift in Beziehungen
+## Emotionale Vernachlässigung: Das stille Gift in Beziehungen
 
 Emotionale Vernachlässigung ist wie ein langsam wirkendes Gift, das deine Beziehung zersetzt. Es äußert sich nicht durch dramatische Ausbrüche oder verletzende Worte, sondern durch die fast unmerkliche Abwesenheit von Liebe, Aufmerksamkeit und emotionaler Unterstützung. Du befindest dich in einer Beziehung, in der du dich fühlst, als würdest du an den falschen Ort gehören. Deine Gefühle zählen nicht, deine Bedürfnisse werden routinemäßig ignoriert, und dein Partner zeigt wenig bis kein echtes Interesse an deinem inneren Erleben. Du sitzt neben jemandem, den du liebst, und fühlst dich gleichzeitig vollständig allein. Dieser umfassende Artikel wird dir helfen zu verstehen, was emotionale Vernachlässigung wirklich ist, wie du die subtilen und nicht so subtilen Zeichen erkennst, und welche praktischen Schritte du unternehmen kannst, um dein Leben und deine Würde zurückzuerobern.
 

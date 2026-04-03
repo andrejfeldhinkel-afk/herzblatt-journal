@@ -23,7 +23,7 @@ faq:
     answer: "Das ist eine Angst, aber wahrscheinlich nicht die Wahrheit. Die richtige Person ist da, aber du musst auch bei Verstand sein, um sie zu sehen."
 ---
 
-# Dating Fatigue: Wenn einfach nichts klappt
+## Dating Fatigue: Wenn einfach nichts klappt
 
 Du öffnest die Dating-App und dein Herz sinkt.
 

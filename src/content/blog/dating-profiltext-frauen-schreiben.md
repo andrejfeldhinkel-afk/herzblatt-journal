@@ -22,7 +22,7 @@ faq:
     answer: "Ja, aber subtil. Statt 'Ich suche einen Ehemann' besser: 'Ich bin offen für etwas Ernsthaftes, wenn die Chemie stimmt und die Werte passen.'"
 ---
 
-# Das perfekte Dating-Profil schreiben – Dein kompletter Guide zu authentischen Texten
+## Das perfekte Dating-Profil schreiben – Dein kompletter Guide zu authentischen Texten
 
 Dein Dating-Profil ist deine Visitenkarte in der digitalen Welt der Partnersuche. Es entscheidet in Sekunden, ob jemand dich näher kennenlernen möchte oder einfach weiterwischt. Viele Frauen machen den Fehler, entweder viel zu wenig von sich preiszugeben oder in abgedroschene Klischés zu verfallen, die tausend andere genauso schreiben. In diesem ausführlichen Artikel zeige ich dir Schritt für Schritt, wie du einen Profiltexte schreibst, der wirklich wirkt und echte Menschen anzieht, mit denen es ein Potenzial gibt.
 

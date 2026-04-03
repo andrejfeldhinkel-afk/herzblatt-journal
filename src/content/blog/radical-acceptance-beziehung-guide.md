@@ -25,7 +25,7 @@ faq:
     answer: "Das hängt ab. Wenn die Beziehung grundlegend ungesund ist, wird Akzeptanz sie nicht speichern. Aber wenn die Beziehung grundlegend gesund ist und du nur kämpfst gegen, wer dein Partner ist, dann ja, Akzeptanz kann alles verändern. Es hängt vom Kontext ab."
 ---
 
-# Radikale Akzeptanz in Beziehungen: Deinen Partner wirklich annehmen
+## Radikale Akzeptanz in Beziehungen: Deinen Partner wirklich annehmen
 
 Du möchte, dass dein Partner weniger Zeit auf seinem Telefon verbringt. Du möchtest, dass er organisierter ist. Du möchtest, dass er mehr Emotionen zeigt. Du möchtest, dass er weniger kritisch ist. Du möchtest, dass er mehr Initiativen in der Beziehung ergreift.
 

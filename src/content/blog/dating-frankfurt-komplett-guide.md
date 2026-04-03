@@ -19,7 +19,7 @@ faq:
     answer: "Absolut. Frankfurt ist eine große, transiente Stadt mit vielen Menschen aus dem In- und Ausland. Dating-Apps funktionieren sehr gut. Besonders in Sachsenhausen und Bornheim finden sich viele junge, alleinstehende Menschen."
 ---
 
-# Dating in Frankfurt: Skyline und Schmetterlinge
+## Dating in Frankfurt: Skyline und Schmetterlinge
 
 Frankfurt – die Stadt mit der beeindruckendsten Skyline Deutschlands. Wenn du hier daten möchtest, kannst du dich freuen. Frankfurt ist nicht nur Banken und Business – es ist auch eine Stadt voller Möglichkeiten für wunderbare, unvergessliche Dates.
 

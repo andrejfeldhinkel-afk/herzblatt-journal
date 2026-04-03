@@ -17,7 +17,7 @@ faq:
 
 ---
 
-# Mauern in der Beziehung: Das zerstörerischste Streit-Muster
+## Mauern in der Beziehung: Das zerstörerischste Streit-Muster
 
 Stell dir folgende Situation vor: Du versuchst, mit deinem Partner über ein wichtiges Problem zu sprechen. Du teilst deine Gefühle, deine Gedanken, deine Bedenken. Und dann – Stille. Dein Partner reagiert nicht. Er schaue dich nicht an. Er verweigert einfach, zu sprechen, zu hören, oder dich zu engagieren. Es ist wie, als würdest du gegen eine Mauer sprechen. Das ist **Stonewalling** oder auf Deutsch **Mauern**, und es ist eines der zerstörerischsten Streit-Muster, die es in Beziehungen gibt.
 

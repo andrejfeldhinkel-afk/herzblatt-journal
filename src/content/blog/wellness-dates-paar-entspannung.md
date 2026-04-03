@@ -17,7 +17,7 @@ faq:
 
 ---
 
-# Wellness-Dates: Entspannung zu zweit genießen
+## Wellness-Dates: Entspannung zu zweit genießen
 
 Es ist Freitag, du hast eine anstrengende Woche hinter dir und dein Partner auch. Die üblichen Date-Ideen wie Restaurant oder Kino fallen dir nicht ein — du brauchst etwas, das euch beide runterfahren lässt. Hier kommt die Lösung: ein Wellness-Date. Gemeinsam entspannen zu können ist eine der schönsten Formen von Quality Time. Du bekämpfst nicht nur Stress, sondern schaffst auch Nähe und Intimität auf eine völlig andere Weise als sonst.
 

@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# 5 Methoden um Beziehungskonflikte zu lösen: Wissenschaftlich bewährte Strategien
+## 5 Methoden um Beziehungskonflikte zu lösen: Wissenschaftlich bewährte Strategien
 
 Du und dein Partner habt wieder einen Streit. Es ist immer das gleiche Thema – oder es ist ein neues Thema, aber der Streit fühlt sich gleich an. Einer von euch schreit. Der andere zieht sich zurück. Es endet mit Schweigen oder mit "Vergessen wir das einfach" – was bedeutet, dass es nicht wirklich gelöst ist.
 

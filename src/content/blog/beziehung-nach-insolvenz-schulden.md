@@ -22,7 +22,7 @@ faq:
     answer: "Ja, wenn beide Partner bereit sind, an ihrem finanziellen und emotionalen Zustand zu arbeiten. Das erfordert echte Arbeit, ist aber möglich."
 ---
 
-# Beziehung und Schulden – Wenn Geldprobleme die Liebe belasten
+## Beziehung und Schulden – Wenn Geldprobleme die Liebe belasten
 
 Geld ist eines der sensiblesten Themen in einer Beziehung. Und wenn plötzlich Schulden oder eine Insolvenz ins Spiel kommt, kann das gesamte Vertrauen ins Wanken geraten. Du fragst dich vielleicht: Kann meine Beziehung das überstehen? Wie sage ich meinem Partner, dass ich in Schulden stecke? Was tun wir jetzt? In diesem umfassenden Artikel schauen wir uns an, wie du mit finanziellen Krisen in deiner Beziehung umgehen kannst.
 

@@ -1,6 +1,6 @@
 ---
 title: "Digitale Grenzen in Beziehungen"
-description: "Digitale Grenzen in der Beziehung: Entdecke wie du mit Handy-Nutzung, Social Media und Privatsphäre healthy umgehen kannst — praktische Tipps für Vertrauen."
+description: "Digitale Grenzen in der Beziehung: Entdecke wie du mit Handy-Nutzung, Social Media und Privatsphäre healthy umgehen kannst."
 date: 2026-03-29
 tags:
   - "Beziehung"

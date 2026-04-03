@@ -23,7 +23,7 @@ faq:
     answer: "Ja, es gibt sogenannte Online-Scheidungen durch spezialisierte Anwaltskanzleien. Das ist günstiger (ab 200 Euro) und schneller. Aber nur für einvernehmliche Scheidungen ohne Kinder oder mit Einigung auf Unterhalt."
 ---
 
-# Scheidung einreichen: Der komplette rechtliche Ablauf + wie du Kosten sparst
+## Scheidung einreichen: Der komplette rechtliche Ablauf + wie du Kosten sparst
 
 Stell dir vor: Du sitzt am Frühstückstisch. Ihr redet nicht. Ihr schaut nicht auf. Es ist nicht einfach ein stiller Morgen — es ist eine Stille, die wie ein Gewicht ist.
 

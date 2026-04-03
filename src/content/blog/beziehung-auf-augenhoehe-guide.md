@@ -20,7 +20,7 @@ faq:
     answer: "Nicht unbedingt. Es geht nicht um mathematische Gleichheit sondern um Gleichwertigkeit. Manchmal traegt einer mehr, manchmal der andere. Wichtig ist dass es sich insgesamt fair anfuehlt und keiner dauerhaft ausgebeutet wird."
 ---
 
-# Beziehung auf Augenhoehe: Was das wirklich bedeutet und wie Du es erreichst
+## Beziehung auf Augenhoehe: Was das wirklich bedeutet und wie Du es erreichst
 
 Jeder redet ueber Beziehungen auf Augenhoehe. Aber was bedeutet das eigentlich konkret? Es ist leicht zu sagen: Wir sind gleichberechtigt. Es ist viel schwerer, es im Alltag zu leben. Denn Machtverhältnisse in Beziehungen sind oft subtil und werden selten offen angesprochen.
 

@@ -19,7 +19,7 @@ faq:
     answer: "Jungbusch ist am trendigsten und besten für junge Singles. Aber Neckarufer ist großartig für Natur-Dates. Luisenpark ist perfekt für entspannte Afternoon-Dates. Lindenhof ist artistisch. Je nachdem, was dein Date mag."
 ---
 
-# Dating in Mannheim: Quadrate der Liebe
+## Dating in Mannheim: Quadrate der Liebe
 
 Mannheim hat ein Problem im Dating-Marketing: Die Stadt denkt, sie ist über ihre Quadrate definiert. Diese einzigartige, geometrische Stadtplanung ist praktisch, aber nicht romantisch.
 

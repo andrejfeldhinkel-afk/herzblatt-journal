@@ -20,7 +20,7 @@ faq:
     answer: "Ja, aber allmählich. Nicht beim ersten Date. Aber wenn es ernst wird, sollte dein neuer Partner deine Geschichte kennen – damit er/sie dich besser versteht."
 ---
 
-# Erste Beziehung nach Trennung: So machst du es richtig
+## Erste Beziehung nach Trennung: So machst du es richtig
 
 Du bist endlich über deine letzte Beziehung hinweg. Du dich selbst wiedergefunden. Du machst neue Freunde. Du dich wieder glücklich. Und dann trifft du jemandem, der dich interessiert.
 

@@ -861,7 +861,7 @@ Es wird.
 
 ---
 
-Wenn du durch eine Scheidung gehst, könnten dir auch diese Artikel helfen: "[Rote Flaggen erkennen: Ein Guide zu toxischen Beziehungsmustern](/blog/rote-flaggen-guide/)" und "[Wie du nach einer Trennung heilst: Ein psychologischer Guide](/blog/heilung-nach-trennung/)".
+Wenn du durch eine Scheidung gehst, könnten dir auch diese Artikel helfen: "[Rote Flaggen erkennen: Ein Guide zu toxischen Beziehungsmustern](/blog/red-flags-erkennen)" und "[Wie du nach einer Trennung heilst: Ein psychologischer Guide](/blog/trennung-verarbeiten-neuanfang)".
 
 ## Die Psychologie der Trennung: Was passiert in deinem Gehirn
 

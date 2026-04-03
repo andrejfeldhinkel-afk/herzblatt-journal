@@ -20,7 +20,7 @@ faq:
     answer: "Bleiben Sie sachlich, verwenden Sie 'Ich'-Aussagen, fragen Sie nach der Perspektive des Partners, und fokussieren Sie auf das Problem, nicht auf die Person."
 ---
 
-# Kommunikationsprobleme in der Beziehung lösen: Ein praktischer Guide
+## Kommunikationsprobleme in der Beziehung lösen: Ein praktischer Guide
 
 "Wir kommunizieren nicht" ist eine der häufigsten Gründe, die Menschen für Trennungen angeben. Doch es ist auch eine der behobbarsten Probleme. Mit bewusster Anstrengung und den richtigen Techniken können fast alle Kommunikationsprobleme behoben werden. In diesem Artikel zeigen wir Ihnen wie.
 

@@ -1,6 +1,6 @@
 ---
 title: "Beziehung auffrischen: 30 Ideen die sofort wirken"
-description: "Beziehung auffrischen leicht gemacht! Entdecke 30 praktische Ideen, um deine Partnerschaft neu zu beleben. Konkrete Tipps für Paare, die ihre Liebe auffrischen möchten."
+description: "Beziehung auffrischen leicht gemacht! Entdecke 30 praktische Ideen, um deine Partnerschaft neu zu beleben."
 author: laura-weber
 image: "/images/blog/beziehung-auffrischen-30-ideen.webp"
 imageAlt: "Beziehung Auffrischen 30 Ideen"
@@ -17,7 +17,7 @@ faq:
 
 ---
 
-# Beziehung auffrischen: 30 Ideen die sofort wirken
+## Beziehung auffrischen: 30 Ideen die sofort wirken
 
 Wenn du in einer langfristigen Beziehung lebst, kennst du das Phänomen wahrscheinlich nur zu gut: Mit der Zeit wird die Routine zum ständigen Begleiter. Morgens aufstehen, zur Arbeit gehen, abends auf der Couch sitzen – und dein Partner sitzt neben dir, aber irgendwie fühlt es sich nicht mehr so besonders an wie in den ersten Monaten der Liebe. Die gute Nachricht ist, dass eine Beziehung auffrischen nicht nur möglich ist, sondern auch deutlich einfacher, als du vielleicht denkst.
 

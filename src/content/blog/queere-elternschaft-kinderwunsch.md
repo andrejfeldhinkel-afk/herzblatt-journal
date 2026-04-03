@@ -22,7 +22,7 @@ faq:
     answer: "Das ist leider eine sehr reale Herausforderung. Bereite dich vor mit einfachen, kurzen Erklärungen ('Das ist unsere Familie'). Unterrichte dein Kind, die Fragen zu verstehen, ohne sich zu rechtfertigen. Suche dir eine Community von Regenbogenfamilien zur Unterstützung. Manche Reaktionen sind pure Unwissenheit – nicht deine Verantwortung, es zu erziehen, aber dein Sicherheitsraum ist wichtig."
 ---
 
-# Queere Elternschaft: Kinderwunsch und Familienplanung für LGBTQ+ Paare
+## Queere Elternschaft: Kinderwunsch und Familienplanung für LGBTQ+ Paare
 
 Ein Kind zu bekommen ist eine der tiefsten Entscheidungen, die Menschen treffen können. Für queere Paare ist diese Entscheidung mit zusätzlichen Überlegungen verbunden – rechtlichen Hürden, medizinischen Optionen, finanziellen Realitäten und der emotionalen Komplexität, ein Kind in einer Welt großzuziehen, die nicht immer LGBTQ+ Familien willkommen heißt. Aber immer mehr queere Menschen werden Eltern, und die Wege dorthin sind vielfältiger und zugänglicher geworden als je zuvor.
 

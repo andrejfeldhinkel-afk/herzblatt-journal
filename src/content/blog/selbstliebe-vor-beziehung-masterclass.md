@@ -21,7 +21,7 @@ faq:
     answer: "Selbstwertgefühl ist wie du dich bewertest (bin ich 'gut genug'?). Selbstliebe ist grenzenlose Akzeptanz deiner selbst, unabhängig von Leistung. Du kannst hohes Selbstwertgefühl haben und immer noch misstrauen dir selbst. Mit Selbstliebe liebst du dich auch wenn du nicht perfekt bist."
 ---
 
-# Selbstliebe: Das Fundament jeder Beziehung – Die Masterclass
+## Selbstliebe: Das Fundament jeder Beziehung – Die Masterclass
 
 Stell dir vor, du wachst auf und der erste Gedanke ist nicht: "Ich bin nicht gut genug," sondern: "Ich bin stolz auf mich, für das, was ich gestern tat."
 

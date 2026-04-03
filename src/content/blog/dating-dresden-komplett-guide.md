@@ -21,7 +21,7 @@ faq:
     answer: "Dresden ist perfekt dafür! Museen, Galerien, die Semperoper, Theater – ideal für kulturelle Dates. Besonders schön sind gemeinsame Kunstausstellungen und Konzerte."
 ---
 
-# Dating in Dresden: Elbflorenz der Liebe entdecken
+## Dating in Dresden: Elbflorenz der Liebe entdecken
 
 Dresden ist mehr als nur eine wunderschöne Stadt – es ist ein Ort, an dem romantische Momente entstehen, wo die Geschichte an jeder Ecke greifbar wird und die Elbe wie ein stiller Zeuge zwischen dir und deinem Date fliesst. Wenn du hier Single bist oder gerade jemanden kennengelernt hast, weisst du vielleicht schon, wie magisch diese Stadt sein kann. Aber wo genau triffst du andere Singles? Welche Locations eignen sich perfekt für unvergessliche Dates? Und wie navigierst du die Dating-Szene in einer Stadt, die sich zwischen Geschichte und Moderne bewegt?
 

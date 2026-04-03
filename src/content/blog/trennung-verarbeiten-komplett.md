@@ -29,7 +29,7 @@ faq:
     answer: "Sein präsent, höre zu ohne zu urteilen, frag nicht 'Wann gehst du daten wieder', halte sie ab von Kontakt mit Ex, plan Aktivitäten zusammen. Manchmal ist einfach da-sein genug. Nicht versuchen zu 'fixen' – lass sie ihre Gefühle haben."
 ---
 
-# Trennung verarbeiten: Die 7 Phasen und dein Weg zum Neuanfang
+## Trennung verarbeiten: Die 7 Phasen und dein Weg zum Neuanfang
 
 Eine Trennung ist eine der schmerzhaftesten Erfahrungen des Lebens. Es ist ein echtes Trauma – ein Teil deines Lebens, eine Person, die dich definiert hat, ist weg. Dein Alltag, deine Zukunfts-Pläne, deine Identität – alles muss angepasst werden.
 

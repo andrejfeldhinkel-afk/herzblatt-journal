@@ -20,7 +20,7 @@ faq:
     answer: "Plant feste Einschlafrituale. Auch wenn Ihr zu unterschiedlichen Zeiten schlaft, koennt Ihr Euch vorher gemeinsam Zeit nehmen. Ein Gutenachtkuss sollte nie fehlen."
 ---
 
-# Beziehung und Schlafprobleme: Wenn die Nacht zum Streitthema wird
+## Beziehung und Schlafprobleme: Wenn die Nacht zum Streitthema wird
 
 Du liegst wach. Neben Dir schnarcht Dein Partner friedlich vor sich hin. Du starrst an die Decke und fragst Dich, ob getrennte Schlafzimmer wirklich das Ende der Romantik bedeuten. Oder ob sie vielleicht sogar die Rettung sein koennten.
 

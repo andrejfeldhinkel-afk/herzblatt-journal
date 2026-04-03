@@ -23,7 +23,7 @@ faq:
     answer: "Das ist auch valid. Manchmal ist Vergebung nicht möglich oder sicher. In solchen Fällen können Sie loslassen durch Distanz, Therapie, oder Beziehungsende."
 ---
 
-# Vergebung in der Beziehung: Loslassen lernen
+## Vergebung in der Beziehung: Loslassen lernen
 
 Sie hatten einen großen Kampf. Ihr Partner tat etwas, das verletzt. Jetzt, selbst wenn die sofortige Konflikt vorbei ist, hängt der Groll herum. Sie können nicht völlig loslassen. Diese ist eine der schwierigsten Aspekte einer Beziehung – Vergebung. In diesem Artikel erkunden wir, wie man lernt zu verzeihen und Groll loszulassen.
 

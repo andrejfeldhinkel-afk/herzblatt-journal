@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Dating außerhalb deiner Comfort Zone: Der Weg zu echtem Wachstum
+## Dating außerhalb deiner Comfort Zone: Der Weg zu echtem Wachstum
 
 Du magst das gleiche Restaurant. Du magst die gleichen Aktivitäten. Du magst Routine. Und dein Dating-Leben ist... auch ziemlich routiniert. Du verlässt dich auf Apps, die du magst. Du gehst zu den gleichen Orten. Du triffst die gleichen Typen. Und am Ende kommst du zu Hause an, scrollst durch dein Handy und fragst dich: "Ist das alles, was es gibt?"
 

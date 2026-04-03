@@ -24,7 +24,7 @@ faq:
     answer: "Nein. Wenn du in einer monogamen Beziehung bist und willst, dass dein Partner die Beziehung priorisiert – das ist nicht zu viel. Das ist eine Basis-Erwartung. Wenn jemand das nicht geben kann, passt er nicht zu dir."
 ---
 
-# Commitment: Die Entscheidung, die alles ändert
+## Commitment: Die Entscheidung, die alles ändert
 
 Stell dir vor: Du sitzt mit deinem Partner, und er sagt „Ich liebe dich". Dein Herz explodiert. Das ist das Moment, auf das du gewartet hast.
 

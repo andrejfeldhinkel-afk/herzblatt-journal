@@ -19,7 +19,7 @@ faq:
     answer: "Mindestens 4-6 Fotos. Erste Foto: Dein Gesicht, saubere Beleuchtung. Zweites Foto: Ganzkörper oder oberer Körper. Dann: Verschiedene Kontexte (Hobby, draußen, lachend). Die Vielfalt zeigt dass du ein ganzer Mensch bist, nicht nur ein Gesicht."
 ---
 
-# Dating-Profilfotos: Der komplette Guide
+## Dating-Profilfotos: Der komplette Guide
 
 Dein Profilfoto ist dein erste Eindruck. Bei Online-Dating ist es dein einzige Chance zu sagen "Hallo, ich bin interessant." Bevor irgendwelche Worte gelesen werden.
 

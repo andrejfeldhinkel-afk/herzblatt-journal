@@ -239,4 +239,4 @@ Wenn mehr als zwei dieser Punkte wahr sind, könnte Phubbing ein Problem in dein
 
 ---
 
-**Verwandte Artikel:** Erfahre mehr über [Aufmerksamkeit und Zuneigung in Beziehungen](/blog/beziehung-und-achtsamkeit) und wie du [emotionale Verbindung vertiefst](/blog/emotionale-naehe-beziehung-tipps).
+**Verwandte Artikel:** Erfahre mehr über [Aufmerksamkeit und Zuneigung in Beziehungen](/blog/beziehung-und-achtsamkeit) und wie du [emotionale Verbindung vertiefst](/blog/emotionale-intimitaet-aufbauen).

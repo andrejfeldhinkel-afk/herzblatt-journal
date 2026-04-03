@@ -19,7 +19,7 @@ faq:
     answer: "Beides. In deinen 20ern waren Online-Apps vielleicht peinlich. In deinen 30ern sind sie praktisch und effizient. Nutze sie. Aber baue auch ein echtes Leben auf – durch Hobbies, Freunde, Veranstaltungen. Die beste Partner treffen Sie oft im echten Leben."
 ---
 
-# Partner finden mit 30: Warum jetzt deine beste Chance ist
+## Partner finden mit 30: Warum jetzt deine beste Chance ist
 
 Du sitzt im Café und schaust dich um. Paare überall. Überall. Die 25-jährige neben dir flirtet leicht mit einem Typ an der Bar. Und du? Du fragst dich, ob die Zeit vorbei ist.
 

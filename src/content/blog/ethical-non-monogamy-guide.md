@@ -21,7 +21,7 @@ faq:
     answer: "Ja, solange alle Beteiligten vollständig informiert zustimmend und ihre Grenzen respektiert werden. Ethik liegt in der Transparenz und dem gegenseitigen Respekt, nicht in der Anzahl der Partner."
 ---
 
-# Ethische Nicht-Monogamie: Alle Beziehungsmodelle im Überblick
+## Ethische Nicht-Monogamie: Alle Beziehungsmodelle im Überblick
 
 Du fragst dich vielleicht, ob Liebe wirklich nur für eine Person ausreichen muss. In unserer Gesellschaft wird uns lange beigebracht, dass die monogame Beziehung die einzige legitime Form der Partnerschaft ist. Doch immer mehr Menschen erkennen: Es gibt andere Wege, Liebe, Vertrauen und Intimität zu leben. Ethische Nicht-Monogamie ist kein neues Konzept, aber es wird endlich enttabuisiert und diskutiert.
 

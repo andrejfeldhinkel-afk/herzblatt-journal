@@ -17,7 +17,7 @@ faq:
     answer: "Es empfiehlt sich, dein Profil mindestens monatlich zu überarbeiten. Wenn du weniger Matches bekommst als am Anfang, ist es Zeit für neue Fotos oder eine andere Bio. Der Algorithmus bevorzugt auch aktive Profile – wenn du regelmäßig dein Profil aktualisierst, erhältst du mehr Sichtbarkeit."
 ---
 
-# Das perfekte Dating-Profil erstellen: Der komplette Guide für Tinder, Bumble & [Red Flags](/blog/dating-red-flags-maenner-erkennen). Menschen wollen positiver Energie, nicht Beschwerde.
+## Das perfekte Dating-Profil erstellen: Der komplette Guide für Tinder, Bumble & [Red Flags](/blog/dating-red-flags-maenner-erkennen). Menschen wollen positiver Energie, nicht Beschwerde.
 
 **NICHT: Ödland-Standard-Zeug.** "Ich liebe zu reisen, Lachen, Zeit mit Freunden verbringen!" Das schreibt JEDE PERSON. Das macht dich nicht erinnerbar.
 

@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Fernbeziehung: 15 Tipps, damit es wirklich klappt
+## Fernbeziehung: 15 Tipps, damit es wirklich klappt
 
 Fernbeziehungen sind schwer. Das ist einfach die Wahrheit. Aber sie müssen nicht zum Scheitern verurteilt sein. Mit den richtigen Strategien können Fernbeziehungen genauso erfüllend sein wie Beziehungen, in denen sich Menschen täglich sehen.
 

@@ -18,7 +18,7 @@ faq:
     answer: "Es ist nicht absichtlich. Männer funktionieren oft in Silos – ein Gedanke oder eine Aufgabe nach der anderen. Sie können nicht multitask wie Frauen. Erinnere ihn gently, aber ohne Vorwurf."
 ---
 
-# Männer verstehen: Was jede Frau wissen sollte
+## Männer verstehen: Was jede Frau wissen sollte
 
 Wenn du eine Beziehung mit einem Mann hast, hast du dich wahrscheinlich schon mindestens hundert Mal gefragt: "Was denkt er sich denn dabei?"
 

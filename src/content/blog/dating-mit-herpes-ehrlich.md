@@ -1,7 +1,7 @@
 ---
 date: 2026-03-21
 title: "Dating mit Herpes: Ein ehrlicher Guide über Liebe mit STI"
-description: "Du hast Herpes und fragst dich, wie du daten kannst? Dieser Guide bricht das Stigma auf und zeigt dir, wie du ehrlich, selbstbewusst und verantwortungsvoll deine Sexualität ausleben kannst – ohne dich schuldig zu fühlen."
+description: "Du hast Herpes und fragst dich, wie du daten kannst? Dieser Guide bricht das Stigma auf und zeigt dir, wie du ehrlich."
 author: laura-weber
 image: "/images/blog/dating-mit-herpes-ehrlich.webp"
 imageAlt: "Dating Mit Herpes Ehrlich"
@@ -17,7 +17,7 @@ faq:
 
 ---
 
-# Dating mit Herpes: Ein ehrlicher Guide über Liebe mit STI
+## Dating mit Herpes: Ein ehrlicher Guide über Liebe mit STI
 
 Die Diagnose ist gerade gestellt worden oder du trägst es schon lange mit dir herum: Du hast Herpes. Eine der ersten Gedanken, die vielen Menschen durch den Kopf geht, ist: „Wie werde ich je wieder jemanden daten können? Wer wird mich noch lieben wollen?" Diese Gedanken sind verständlich und völlig normal. Aber sie basieren oft auf Mythen und Stigma, nicht auf Fakten.
 

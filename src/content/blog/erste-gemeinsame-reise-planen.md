@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Erste gemeinsame Reise planen: Ein Abenteuer für zwei
+## Erste gemeinsame Reise planen: Ein Abenteuer für zwei
 
 Die erste gemeinsame Reise mit deinem Partner ist aufregend und ein bisschen angespannt. Es ist eine Chance zu sehen, wie ihr zusammen reist, wie ihr mit Stress umgeht und wie ihr zusammen neue Erfahrungen macht. In diesem Artikel schauen wir uns an, wie du die erste gemeinsame Reise erfolgreich planst und durchführst.
 

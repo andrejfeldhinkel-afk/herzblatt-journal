@@ -16,7 +16,7 @@ draft: false
 author: "thomas-peters"
 ---
 
-# Dirty Talk lernen: Wie du deine Intimität vertiefst
+## Dirty Talk lernen: Wie du deine Intimität vertiefst
 
 Dirty Talk ist für viele Menschen ein großes Tabuthema. Wenn du dich gerade fragst, ob du es überhaupt lernen kannst oder ob es sich für dich anfühlt, dann bist du hier richtig. Lass mich dir sagen: Dirty Talk ist eine Fähigkeit, die du entwickeln kannst – und es geht vor allem darum, mit deinem Partner zu verbinden und dich trauen, vulnerabel zu sein.
 

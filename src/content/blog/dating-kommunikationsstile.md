@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Kommunikationsstile beim Dating: Wie du wirklich verbindest
+## Kommunikationsstile beim Dating: Wie du wirklich verbindest
 
 Du fragst ihn etwas Persönliches und er antwortet mit einer Einzeiler. Du versuchst ein tieferes Gespräch zu starten und er lenkt ab. Oder umgekehrt – du magst es leicht und locker, aber er will sofort über Gefühle sprechen. Die Art, wie wir kommunizieren, ist fundamental für Dating-Erfolg. Und es gibt verschiedene Stile – manche funktionieren, andere sabotieren.
 

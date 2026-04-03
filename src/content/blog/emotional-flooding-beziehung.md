@@ -22,7 +22,7 @@ faq:
     answer: "Nein. Wenn es passiert, ist dein Gehirn offline. Du kannst nicht rational argumentieren oder lernen. Sprecht darüber, wenn ihr beide ruhig seid. Das ist, wo echte Veränderung stattfindet."
 ---
 
-# Emotional Flooding – Wenn Gefühle in der Beziehung überkochen
+## Emotional Flooding – Wenn Gefühle in der Beziehung überkochen
 
 Es passiert ohne Vorwarnung. Ein Satz wird gesagt – vielleicht ist er sogar unwichtig – und plötzlich explodierst du. Oder dein Partner explodiert. Worte sprudeln heraus. Der Ton wird scharf. Die Logik verschwindet. Was war eine normale Diskussion ist jetzt ein Wildfeuer.
 

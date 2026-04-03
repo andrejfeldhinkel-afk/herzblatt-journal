@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Erste Nachricht Tipps: Wie du Aufmerksamkeit bekommst
+## Erste Nachricht Tipps: Wie du Aufmerksamkeit bekommst
 
 Eine einfache „Hallo" wird nicht beantwortet. Das ist ein Fakt der modernen Dating-Apps. Die erste Nachricht ist deine einzige Chance, jemandes Aufmerksamkeit zu bekommen. Hier ist wie du das schaffst.
 

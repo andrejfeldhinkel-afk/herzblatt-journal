@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Kenne deine Notwendigkeiten beim Dating: Definiere deine Non-Negotiables
+## Kenne deine Notwendigkeiten beim Dating: Definiere deine Non-Negotiables
 
 Du bist auf einem Date. Die Person ist nett. Sie ist attraktiv. Sie hat einen guten Job. Aber irgendwas ist off. Du kannst nicht sagen, was, aber dein Bauch sagt: „Nicht diese Person."
 

@@ -23,7 +23,7 @@ faq:
     answer: "Das ist völlig okay für den Anfang, solange die Beziehung sich zu etwas Tieferem entwickelt. Vertrau deinem Bauchgefühl."
 ---
 
-# Dating nach Gewichtsverlust: Das neue Ich kennenlernen
+## Dating nach Gewichtsverlust: Das neue Ich kennenlernen
 
 Du schaust in den Spiegel und erkennst dich selbst kaum wieder. Monate oder Jahre der Arbeit – an deinem Körper, aber vor allem an deiner inneren Haltung – haben Früchte getragen. Dein Gewicht ist gesunken, aber dein Selbstvertrauen ist explodiert. Und jetzt kommt die große Frage: Wie fange ich an zu daten? Nicht nur physisch, sondern emotional und psychologisch – wie dateiere ich als diese neue Version von mir selbst?
 

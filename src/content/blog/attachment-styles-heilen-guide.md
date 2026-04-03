@@ -19,7 +19,7 @@ faq:
     answer: "Das nennt sich Fearful-Avoidant oder Disorganized Attachment. Es bedeutet, dass du nach Nähe sehnst, dich aber auch davor fürchtest. Das ist sehr schmerzhaft und ist oft ein Ergebnis von Trauma oder inkonsistenter Erziehung. Es brauchst professionelle Hilfe, ist aber heilbar."
 ---
 
-# Bindungsstile heilen: Von unsicher zu sicher
+## Bindungsstile heilen: Von unsicher zu sicher
 
 Du liebst ihn, aber du verstehst nicht, warum du ständig brauchst, dass er dir schreibt. Warum bist du überzeugt, dass er dich verlässt? Warum ist eine einfache Verzögerung in seiner Antwort auf die Nachricht ein dramatisches Event für dich?
 

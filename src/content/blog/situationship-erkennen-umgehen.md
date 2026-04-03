@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Situationship erkennen und handeln: Raus aus der Grauzone
+## Situationship erkennen und handeln: Raus aus der Grauzone
 
 Eine Situationship ist das, was passiert, wenn zwei Menschen sich in einer Beziehung-ähnlichen Sache befinden, aber nie offiziel bestimmt werden. Ihr habt Sex. Ihr verbringt viel Zeit zusammen. Aber es gibt kein Label. Es gibt keine Kommunikation über, was es ist.
 

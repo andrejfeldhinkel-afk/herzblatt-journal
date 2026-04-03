@@ -25,7 +25,7 @@ faq:
     answer: "Ja, absolut. Ein Therapeut kann dir beide Partner zeigen, was passiert, und euch beibringen, wie man anders interagiert. Ein Couples Therapist spezialisiert in diesem Muster kann sehr hilfreich sein."
 ---
 
-# Das Demand-Withdraw-Muster: Wenn einer immer fordert und der andere flieht
+## Das Demand-Withdraw-Muster: Wenn einer immer fordert und der andere flieht
 
 Du versuchst ein Gespräch zu beginnen. Du brauchst etwas zu besprechen. Er zieht sich sofort zurück. "Ich will nicht darüber sprechen." Du wirst frustriert. "Wir müssen darüber sprechen!" Seine Augen gleiten über sein Telefon. Du wirst lauter. "Siehst du, das ist das Problem! Du willst nie mit mir reden!"
 

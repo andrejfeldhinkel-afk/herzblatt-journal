@@ -1,6 +1,6 @@
 ---
 title: "Walkaway-Wife-Syndrom: Wenn Frauen innerlich schon gegang..."
-description: "Das Walkaway-Wife-Syndrom erklärt, warum Frauen emotional distanziert werden und innerlich gehen. Erfahre die Warnsignale, psychologischen Hintergründe und praktische Lösungen für Beziehungen."
+description: "Das Walkaway-Wife-Syndrom erklärt, warum Frauen emotional distanziert werden und innerlich gehen."
 date: 2026-03-21
 author: sarah-kellner
 image: "/images/blog/walkaway-wife-syndrom.webp"
@@ -25,7 +25,7 @@ faq:
 
 ---
 
-# Walkaway-Wife-Syndrom: Wenn Frauen innerlich schon gegangen sind
+## Walkaway-Wife-Syndrom: Wenn Frauen innerlich schon gegangen sind
 
 Das Walkaway-Wife-Syndrom ist ein psychologisches Phänomen, das in vielen modernen Ehen auftritt, aber oft übersehen wird. Es beschreibt einen emotional komplexen Prozess, bei dem eine Frau sich innerlich bereits aus ihrer Beziehung zurückzieht, lange bevor sie physisch die Tür hinter sich zuschließt. Das Walkaway-Wife-Syndrom ist nicht plötzlich, nicht überraschend und nicht ohne Warnsignale – und doch fühlen sich viele Männer, deren Frauen sie verlassen, von dieser Entwicklung geschockt.
 

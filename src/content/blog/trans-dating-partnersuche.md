@@ -22,7 +22,7 @@ faq:
     answer: "Queer-friendly Spaces sind dein bester Freund – Pride, LGBTQ+-Events, Therapie-Gruppen, Online-Communities. Menschen in diesen Räumen sind eher educated über Trans-Themen. Du kannst auch auf deinem Profil schreiben 'Ich bin trans, wenn das ein Problem ist, nicht deine Person' – das filtered die Falschen heraus."
 ---
 
-# Trans Dating: Partnersuche als trans Person — Ein einfühlsamer Leitfaden
+## Trans Dating: Partnersuche als trans Person — Ein einfühlsamer Leitfaden
 
 Das Trans-Dating ist seine eigene Art von komplex. Es ist nicht einfach Beziehungen + Transidentität. Es ist eine Verschmelzung, und manchmal ist diese Verschmelzung schmerzhaft, manchmal wunderbar, oft beides gleichzeitig.
 

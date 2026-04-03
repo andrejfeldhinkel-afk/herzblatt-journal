@@ -24,7 +24,7 @@ faq:
 
 ---
 
-# Dark Triad: Narzissmus, Machiavellismus und Psychopathie im Dating
+## Dark Triad: Narzissmus, Machiavellismus und Psychopathie im Dating
 
 Die Dark Triad ist ein psychologisches Konzept, das drei dunkle Persönlichkeitsmerkmale zusammenfasst: Narzissmus, Machiavellismus und Psychopathie. Diese Merkmale kommen in der normalen Bevölkerung vor und treten auf einem Spektrum auf. Menschen mit starken Dark Triad Merkmalen können manipulativ, rücksichtslos und emotional unempathisch sein. Im Dating-Kontext können sie außerordentlich charming und verführerisch wirken, während sie gleichzeitig emotional manipulativ und potenziell schädlich sind. Dieser Guide wird dir helfen, diese Merkmale zu erkennen und dich vor schädlichen Beziehungen zu schützen.
 

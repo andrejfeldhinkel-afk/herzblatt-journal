@@ -25,7 +25,7 @@ faq:
     answer: "Du bist bereit, wenn der Gedanke an Daten nicht-dread macht, wenn du Hoffnung (nicht Verzweiflung) um Datierung fühlst, wenn du Wert in dir selbst unabhängig von deinem Dating-Status siehst. Das ist wenn es sicher ist zurück zu kommen."
 ---
 
-# Dating-Burnout: Wenn die Partnersuche dich auslaugt und wie du zurückfindest
+## Dating-Burnout: Wenn die Partnersuche dich auslaugt und wie du zurückfindest
 
 Du öffnest die Dating-App. Du schaust auf die Profile. Du fühlst dich nirgendwo.
 

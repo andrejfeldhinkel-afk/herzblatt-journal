@@ -18,7 +18,7 @@ faq:
 
 ---
 
-# Affäre beenden: So findest du den Ausweg
+## Affäre beenden: So findest du den Ausweg
 
 Eine Affäre ist ein emotionaler und psychologischer Balanceakt, der letztendlich zu Schmerz und Zerstörung führt. Ob du die Affäre selbst führst oder gerade herausgefunden hast, dass dein Partner untreu war – die Entscheidung, diesen Weg zu beenden, ist der erste Schritt zur Heilung. Dieser umfassende Leitfaden zeigt dir konkrete Strategien, wie du eine Affäre verantwortungsvoll beendest und den Weg zurück zu einem erfüllten Leben findest.
 

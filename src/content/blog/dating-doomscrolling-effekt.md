@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Doomscrolling-Effekt beim Dating: Wenn die App dein Leben übernimmt
+## Doomscrolling-Effekt beim Dating: Wenn die App dein Leben übernimmt
 
 Du hast zwei Stunden auf der Dating-App verbracht. Du schwipest Profil nach Profil. Keiner passt. Aber du machst weiter. Und weiter. Und weiter. Du merkst, dass das Zeit ist, die du nicht hast, aber du kannst nicht aufhören.
 

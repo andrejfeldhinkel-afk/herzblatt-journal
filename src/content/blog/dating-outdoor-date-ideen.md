@@ -20,7 +20,7 @@ faq:
     answer: "Spaziergang oder Wanderung ist ideal, da man nebeneinander gehen kann und Blickkontakt eher natürlich ist. Dies fördert entspannte, tiefe Unterhaltung."
 ---
 
-# 30 Outdoor-Date-Ideen für jede Jahreszeit: Von Frühling bis Winter
+## 30 Outdoor-Date-Ideen für jede Jahreszeit: Von Frühling bis Winter
 
 Outdoor-Dates haben einen besonderen Charme. Die Sonne, der frische Luft, die natürliche Schönheit – diese setzen einen Rahmen für Romantik und Abenteuer. Aber manchmal ist es schwierig zu wissen, was man tun soll. "Sollen wir nur spazieren?" Sie wünschen sich mehr Ideen, mehr Optionen.
 

@@ -19,7 +19,7 @@ faq:
     answer: "Beides. Diese sind nicht gegenseitig ausschließlich. Du kannst deinen Partner lieben UND deine Grenzen schützen. In Tatsache, das ist das Glücklichste, das du für die Beziehung tun kannst. Ein Partner ohne Grenzen wird resentativ und burnout. Ein Partner mit Grenzen kann langfristig Liebe und Unterstützung geben."
 ---
 
-# Partner mit Depression: Wie du unterstützt ohne dich selbst zu verlieren
+## Partner mit Depression: Wie du unterstützt ohne dich selbst zu verlieren
 
 Der Mensch, den du liebst, liegt im Bett und kann nicht aufstehen. Es ist nicht, dass er/sie faul ist. Es ist nicht, dass er/sie nicht versucht. Es ist, dass der Kampf, aus dem Bett zu kommen, wie ein Berg aussieht, den zu ersteigen unmöglich ist.
 

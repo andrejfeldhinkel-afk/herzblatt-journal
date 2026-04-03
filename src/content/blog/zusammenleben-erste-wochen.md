@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Zusammenleben: Die ersten Wochen überstehen
+## Zusammenleben: Die ersten Wochen überstehen
 
 Es ist endlich passiert. Du ziehst mit deinem Partner zusammen. Das ist aufregend, es ist romantisch, es ist auch terrifying.
 

@@ -23,7 +23,7 @@ faq:
     answer: "Eine echte, gesunde Beziehung? Sehr schwierig. Der Narzisst müsste seine Persönlichkeitsstörung erkennen und wollen, dass sie behandelt wird. Das passiert selten. Wenn deine Gesundheit leidet – Trennung ist oft die bessere Lösung."
 ---
 
-# Narzisst in der Beziehung: Erkennen und richtig handeln
+## Narzisst in der Beziehung: Erkennen und richtig handeln
 
 Du sitzt neben deinem Partner und fühlst dich allein. Am Anfang war es anders – am Anfang warst du das Wichtigste in seinem Leben. Jetzt ignoriert er dich, kritisiert dich, macht dir das Gefühl, dass etwas mit dir nicht stimmt. Du fragst dich: Bin ich zu sensibel? Bin ich verrückt? Ist das normal in Beziehungen?
 

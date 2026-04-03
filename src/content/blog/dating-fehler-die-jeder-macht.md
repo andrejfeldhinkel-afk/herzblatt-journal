@@ -24,7 +24,7 @@ faq:
     answer: "Absolut. Viele Dating-Fehler sind in den eigenen psychologischen Mustern verwurzelt. Ein Therapeut kann dir helfen, diese zu erkennen und zu ändern. Das ist eine der besten Investitionen für dein Liebesleben."
 ---
 
-# Die 15 häufigsten Dating-Fehler – Und wie du sie vermeidest
+## Die 15 häufigsten Dating-Fehler – Und wie du sie vermeidest
 
 Du sitzt wieder alleine da. Das letzte Date war ein Desaster. Die Person davor war "nicht das richtige". Und du fragst dich langsam, ob du vielleicht das Problem bist.
 

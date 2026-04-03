@@ -1,6 +1,6 @@
 ---
 title: "Neuanfang nach Scheidung als Frau: Stark und frei"
-description: "Neuanfang nach Scheidung für Frauen: Selbstbewusstsein, Unabhängigkeit und neue Identität. Wie du nach einem Beziehungsende wirklich wieder anfängst und dabei du selbst wirst."
+description: "Neuanfang nach Scheidung für Frauen: Selbstbewusstsein, Unabhängigkeit und neue Identität."
 date: 2025-12-15
 image: "/images/photos/neuanfang-nach-scheidung-frau.webp"
 imageAlt: "Starke Frau genießt ihre neue Freiheit nach Scheidung"

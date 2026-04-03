@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Emotionale Gesundheit: Basis für gute Beziehungen
+## Emotionale Gesundheit: Basis für gute Beziehungen
 
 Viele Menschen suchen nach einem Partner, um glücklich zu werden.
 

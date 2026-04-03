@@ -21,7 +21,7 @@ faq:
     answer: "Absolut! Zeche Zollverein hat ständig Ausstellungen und Events. Kunstmuseen, Theater überall. Essen ist kulturell unterschätzt."
 ---
 
-# Dating in Essen: Vom Ruhrpott zur Romantik
+## Dating in Essen: Vom Ruhrpott zur Romantik
 
 Essen überrascht dich. Das ist seine größte Kraft.
 

@@ -22,7 +22,7 @@ faq:
     answer: "Unterstütze die Person, nicht die Sucht. Setze klare Grenzen. Ermutige professionelle Hilfe. Achte auf deine eigene psychische Gesundheit. Wisse, wann dich zurückziehen musst."
 ---
 
-# Beziehung nach dem Rückfall – Wenn Sucht die Partnerschaft erneut bedroht
+## Beziehung nach dem Rückfall – Wenn Sucht die Partnerschaft erneut bedroht
 
 Der Anruf kommt nachts. Oder du findest die Anzeichen selbst – leere Flaschen, verdächtige Verhalten, die alte Lügen, die du dachtest, dass sie vorbei waren. Dein Partner hatte einen Rückfall. Nach Monaten oder sogar Jahren der Nüchternheit ist er wieder in die Sucht zurückgefallen.
 

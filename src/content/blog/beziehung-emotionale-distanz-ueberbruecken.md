@@ -24,7 +24,7 @@ faq:
     answer: "Wenn Ihr selbst es nicht schafft, ja. Ein Therapeut kann Euch Werkzeuge geben um wieder näher zusammenzukommen."
 ---
 
-# Emotionale Distanz überbrücken: Wie Du Deine Beziehung wieder verbindest
+## Emotionale Distanz überbrücken: Wie Du Deine Beziehung wieder verbindest
 
 Ihr sitzt zusammen auf dem Sofa. Der Fernseher läuft. Aber zwischen Euch fühlt es sich wie ein Abgrund an.
 

@@ -20,7 +20,7 @@ faq:
     answer: "Nein. Menschen sind viel komplexer als ihr Sternzeichen. Lassen Sie sich nicht von einer numerologischen oder astrologischen Unverträglichkeit davon abhalten, eine vielversprechende Verbindung zu erkunden."
 ---
 
-# Sternzeichen und Dating: Was ist wirklich dran an der Astrologie?
+## Sternzeichen und Dating: Was ist wirklich dran an der Astrologie?
 
 "Lass mich raten – du bist ein Stier?" Diese Frage haben Sie wahrscheinlich schon mehr als einmal gehört, wenn Sie auf einer Dating-App oder auf einer Party mit jemandem flirteten. Die Astrologie und insbesondere die Sternzeichen-Kompatibilität sind ein faszinierendes Thema in der Dating-Welt geworden. Aber was ist wirklich dran an diesem Phänomen? Gibt es wissenschaftliche Grundlagen oder ist es nur ein lustiger Zeitvertreib?
 

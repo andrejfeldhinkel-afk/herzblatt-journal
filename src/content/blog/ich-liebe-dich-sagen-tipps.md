@@ -24,7 +24,7 @@ faq:
     answer: "Das ist wichtig: Liebe ist nicht einfach ein intensives Gefühl. Intensiv kann Lust, Limerence oder Besessenhaft sein. Echte Liebe hat Tiefe, Stabilität und wahre Sorge um das andere Personen Glück. Wenn du unsicher bist, warte. Es ist besser, zu spät zu sagen als zu früh zu lügen."
 ---
 
-# Ich liebe dich sagen: Der emotionale Schilderung zur wichtigsten Frase
+## Ich liebe dich sagen: Der emotionale Schilderung zur wichtigsten Frase
 
 Stell dir das Moment vor: Du sitzt neben ihm, und die Worte sind an deinem Mund. „Ich liebe dich." Drei Worte. So einfach. So verdammt schwer.
 

@@ -19,7 +19,7 @@ faq:
     answer: "Der beste Weg ist Therapie – speziell Schema-Therapie oder psychodynamische Therapie, die auf Kindheit schauen. Aber du kannst auch selbst nachdenken: Was sind meine wiederholten Themen in Beziehungen? Wer war mein Hauptbezugselternteil und wie war diese Beziehung? Was brauchte ich als Kind, das ich nicht bekam? Diese Fragen öffnen die Tür."
 ---
 
-# Beziehungsmuster aus der Kindheit: Wie deine Vergangenheit dein Liebesleben bestimmt
+## Beziehungsmuster aus der Kindheit: Wie deine Vergangenheit dein Liebesleben bestimmt
 
 Du wählst eine/n neue/n Partner/in und innerhalb von Monaten spielst du die gleiche Szene ab wie deine letzte Beziehung. Oder die davor. Oder die davor. Du hast ein "Typ", den du wählst – und dieser Typ taugt dir nie wirklich.
 

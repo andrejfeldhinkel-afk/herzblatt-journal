@@ -1,6 +1,6 @@
 ---
 title: "Sexuelle Kompatibilität in Beziehungen"
-description: "Sexuelle Kompatibilität: Lerne, wie du Unterschiede in Libido, Vorlieben und sexuellem Begehren in deiner Beziehung navigierst. Praktische Tipps für erfüllte Intimität."
+description: "Sexuelle Kompatibilität: Lerne, wie du Unterschiede in Libido, Vorlieben und sexuellem Begehren in deiner Beziehung navigierst."
 date: 2026-03-29
 tags:
   - "Beziehung"

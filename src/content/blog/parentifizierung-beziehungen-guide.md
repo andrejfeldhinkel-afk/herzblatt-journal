@@ -1,6 +1,6 @@
 ---
 title: "Parentifizierung: Wenn du als Kind die Elternrolle"
-description: "Parentifizierung erkennen und heilen: Wie die Rollenumkehr in deiner Kindheit deine Beziehungen als Erwachsener beeinflusst — und was du dagegen tun kannst."
+description: "Parentifizierung erkennen und heilen: Wie die Rollenumkehr in deiner Kindheit deine Beziehungen als Erwachsener beeinflusst."
 date: 2025-12-15
 image: "/images/photos/parentifizierung-beziehungen-guide.webp"
 tags:

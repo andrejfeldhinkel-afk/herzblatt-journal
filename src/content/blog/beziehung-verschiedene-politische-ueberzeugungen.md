@@ -20,7 +20,7 @@ faq:
     answer: "Das ist komplexer. Idealerweise verständigt Ihr Euch auf gemeinsame Werte – Kritisches Denken, Respekt, Offenheit. Eure Kinder sollen sehen, dass unterschiedliche Meinungen ok sind. Ihr solltet sie nicht einem Elternteil politisch indoktrinieren lassen."
 ---
 
-# Links liebt Rechts – Beziehung mit unterschiedlichen politischen Ansichten
+## Links liebt Rechts – Beziehung mit unterschiedlichen politischen Ansichten
 
 Du liebst Deinen Partner tiefgreifend. Ihr habt alles gemeinsam. Aber dann gibt es da eines: Ihr seid politisch am komplett anderen Ende des Spektrums.
 

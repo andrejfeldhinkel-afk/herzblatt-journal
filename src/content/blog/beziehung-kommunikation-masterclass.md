@@ -30,7 +30,7 @@ faq:
     answer: "Ja, aber es braucht Übung. GFK hat 4 Schritte: Beobachtung, Gefühl, Bedürfnis, Bitte. Es klingt anfangs steif, wird aber natürlicher mit Übung. In Konflikten ist es unglaublich wertvoll."
 ---
 
-# Kommunikation in Beziehungen: Die Masterclass für tiefe Verbindung und Konfliktlösung
+## Kommunikation in Beziehungen: Die Masterclass für tiefe Verbindung und Konfliktlösung
 
 Die meisten Beziehungen scheitern nicht an fehlendem Liebe. Sie scheitern an fehlender Kommunikation. Wenn du und dein Partner nicht gut miteinander kommunizieren können, erodiert die Beziehung langsam. Missverständnisse wachsen, Ressentiments bilden sich, und plötzlich kennt ihr euch nicht mehr.
 

@@ -22,7 +22,7 @@ faq:
     answer: "Es ist ein Modell, in dem du keine hierarchische Struktur für deine Beziehungen hast. Dein romantischer Partner hat nicht automatisch 'Priority'. Alle Beziehungen sind gleichwertig."
 ---
 
-# Queere Beziehungsmodelle: Von Monogamie bis Polyamorie und darüber hinaus
+## Queere Beziehungsmodelle: Von Monogamie bis Polyamorie und darüber hinaus
 
 Du sitzt in einer Therapie-Sitzung und dein Therapeut fragt: "Also, was ist eure Beziehungsstruktur?" Du denkst, dass du eine einfache Antwort geben wirst: "Wir sind zusammen." Aber dann merkst du, dass es nicht so einfach ist.
 

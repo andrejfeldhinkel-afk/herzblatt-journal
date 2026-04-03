@@ -16,7 +16,7 @@ draft: false
 author: "laura-weber"
 ---
 
-# Orbiting: Wenn dein Ex um dich herumkreist
+## Orbiting: Wenn dein Ex um dich herumkreist
 
 Orbiting ist ein Phänomen, das in der modernen Dating-Welt immer häufiger wird. Es ist, wenn dein Ex (oder jemand, mit dem du datiertest und es endete) dich nicht direkt kontaktiert – aber sie beobachten dein Leben aus der Distanz.
 

@@ -19,7 +19,7 @@ faq:
     answer: "Echter Selbstwert ist stabil und nicht verteidigungsbereit. Du brauchst nicht zu beweisen, dass du gut bist. Arroganz ist defensiv – du musst ständig zeigen, dass du besser bist als andere. Echter Selbstwert akzeptiert auch deine Schwächen. Arroganz braucht Perfektion."
 ---
 
-# Selbstwert stärken: Dein Fundament fürs Dating
+## Selbstwert stärken: Dein Fundament fürs Dating
 
 Dein Selbstwert ist vielleicht das wichtigste Element für erfolgreiches Dating. Nicht dein Aussehen, nicht dein Job, nicht wie viele Matches du bekommst – sondern wie du dich selbst siehst.
 

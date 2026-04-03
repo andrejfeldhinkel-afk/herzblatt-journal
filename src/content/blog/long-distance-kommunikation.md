@@ -17,7 +17,7 @@ faq:
 
 ---
 
-# Fernbeziehung: Kommunikation die verbindet
+## Fernbeziehung: Kommunikation die verbindet
 
 Du sitzt am anderen Ende des Landes — oder der Welt. Dein Partner sitzt irgendwo anders. Zwischen euch: eine Zeitzone, hunderte Kilometer, und der konstante Gedanke „Ich vermisse dich."
 

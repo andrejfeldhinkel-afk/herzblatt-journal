@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Sexuelle Wünsche ansprechen: Der Leitfaden für ehrliche Konversationen
+## Sexuelle Wünsche ansprechen: Der Leitfaden für ehrliche Konversationen
 
 Es ist einer der intimsten Momente zwischen dir und deinem Partner – und gleichzeitig einer der schwierigsten zu navigieren. Du hast einen sexuellen Wunsch, etwas, das dich reizt, etwas, das du gerne ausprobieren möchtest. Aber wie sprichst du darüber? Wann ist der richtige Moment? Was, wenn dein Partner denkt, das ist seltsam? Was, wenn er oder sie sagt nein?
 

@@ -22,7 +22,7 @@ faq:
     answer: "Suche nach 'Paartherapie Lesben' oder 'LGBTQ+ Paartherapie' in deiner Stadt. Wichtig: Die Therapeutin sollte selbst LGBTQ-Kompetenz haben und idealerweise Teil der Community sein."
 ---
 
-# Lesbische Beziehung stärken: Tipps für eine glückliche Partnerschaft
+## Lesbische Beziehung stärken: Tipps für eine glückliche Partnerschaft
 
 Du und deine Frau seid zusammen. Es ist wunderbar – aber manchmal auch kompliziert. Manchmal fragst du dich: Ist das, das wir durchmachen, normal? Warum fühlt sich das manchmal so eng an? Warum sprechen wir ständig über die gleichen Dinge?
 

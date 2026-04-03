@@ -20,7 +20,7 @@ faq:
     answer: "Nein, und das ist völlig in Ordnung. Eine neue Beziehung wird anders sein, aber genauso bedeutungsvoll und erfüllend sein können."
 ---
 
-# Dating nach Verwitwung: Ein sensibler Guide für Neuanfänge
+## Dating nach Verwitwung: Ein sensibler Guide für Neuanfänge
 
 Der Verlust eines geliebten Menschen ist eine der schwierigsten Erfahrungen, die ein Mensch machen kann. Wenn Sie eine Ehefrau, einen Ehemann oder einen langjährigen Partner verloren haben, wissen Sie wahrscheinlich, wie überwältigend der Trauerprozess sein kann. Doch irgendwann stellt sich für viele Menschen die Frage: "Bin ich bereit, wieder zu daten?" Dieser umfassende Guide soll Ihnen helfen, diesen sensiblen Übergang zu navigieren und wieder Vertrauen in die Liebe zu finden.
 

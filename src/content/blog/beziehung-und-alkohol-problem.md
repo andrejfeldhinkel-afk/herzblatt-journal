@@ -1,6 +1,6 @@
 ---
 title: "Beziehung und Alkohol: Wenn Sucht die Partnerschaft zerstört"
-description: "Alkoholproblem Partner belastet Beziehung massiv. Erfahre wie Alkoholismus Partnerschaften zerstört und was du dagegen tun kannst. Expert-Tipps zur Sucht Beziehung."
+description: "Alkoholproblem Partner belastet Beziehung massiv. Erfahre wie Alkoholismus Partnerschaften zerstört und was du dagegen tun kannst."
 date: 2026-03-21
 author: thomas-peters
 image: "/images/blog/beziehung-und-alkohol-problem.webp"
@@ -18,7 +18,7 @@ faq:
 
 ---
 
-# Beziehung und Alkohol: Wenn Sucht die Partnerschaft zerstört
+## Beziehung und Alkohol: Wenn Sucht die Partnerschaft zerstört
 
 Alkohol kann eine Beziehung langsam, aber sicher auseinandernehmen. Wenn dein Partner ein Alkoholproblem hat oder du selbst bemerkst, dass du immer mehr trinkst, sind dies Warnsignale, die du nicht ignorieren solltest. Eine Beziehung mit Alkoholvergiftung ist nicht nur emotional belastend – sie kann auch physisch gefährlich werden. In diesem ausführlichen Ratgeber erfährst du, wie Alkoholismus eine Partnerschaft beeinflusst, welche Warnsignale es gibt und vor allem: Was kannst du konkret tun, um deine Beziehung zu retten oder gesünder zu gestalten?
 

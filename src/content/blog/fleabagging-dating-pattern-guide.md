@@ -1,6 +1,6 @@
 ---
 title: "Fleabagging — Warum du immer die falschen dattest"
-description: "Fleabagging ist ein Dating-Muster, bei dem du wiederholt Menschen wählst, die nicht zu dir passen. Verstehe die psychologischen Gründe, erkenne dein Muster und lerne, es zu durchbrechen."
+description: "Fleabagging ist ein Dating-Muster, bei dem du wiederholt Menschen wählst, die nicht zu dir passen."
 date: 2025-10-05
 author: "sarah-kellner"
 image: "/images/blog/fleabagging-dating-pattern-guide.webp"

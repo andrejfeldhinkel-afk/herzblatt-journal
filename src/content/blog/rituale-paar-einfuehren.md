@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Paar-Rituale: 12 tägliche Gewohnheiten, die deine Beziehung näher bringt
+## Paar-Rituale: 12 tägliche Gewohnheiten, die deine Beziehung näher bringt
 
 Rituale sind die Kleinen, sich wiederholenden Dinge, die eine Beziehung zusammenhalten. Sie sind nicht Datum. Sie sind nicht spezielle Rede. Sie sind alltägliche Dinge, die ihr zusammen tut.
 

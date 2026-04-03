@@ -22,7 +22,7 @@ faq:
     answer: "Leider ja. Einige Paare erkennen, dass sie zu wenig Verbindung haben. Aber viele nutzen diese Phase, um ihre Beziehung zu retten und zu stärken."
 ---
 
-# Empty Nest – Beziehung neu entdecken wenn die Kinder ausziehen
+## Empty Nest – Beziehung neu entdecken wenn die Kinder ausziehen
 
 Deine Tochter packt ihren letzten Karton. Dein Sohn fährt in sein Studentenwohnheim. Und plötzlich sitzt du mit deinem Partner am Esstisch und habt keine Ahnung, worüber ihr sprechen sollst.
 

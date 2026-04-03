@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Dealbreaker in der Beziehung: Wann ist Schluss wirklich Schluss?
+## Dealbreaker in der Beziehung: Wann ist Schluss wirklich Schluss?
 
 In jeder Beziehung gibt es Momente, in denen man sich fragt: Ist das ein Grund, um Schluss zu machen? Manche Dinge sind klar Dealbreaker, andere sind grenzwertig. In diesem Artikel schauen wir uns an, welche Dealbreaker es gibt, wie du sie erkennst und wie du damit umgehst.
 

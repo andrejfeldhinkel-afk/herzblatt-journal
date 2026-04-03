@@ -25,7 +25,7 @@ faq:
     answer: "Du bist volljährig. Deine Entscheidung. Aber es könnte still verletzend sein. Versuche, Grenzen zu setzen ohne zu rebellieren."
 ---
 
-# Dating nach dem Auszug aus dem Elternhaus: Freiheit und neue Anfänge
+## Dating nach dem Auszug aus dem Elternhaus: Freiheit und neue Anfänge
 
 Du packst die letzten Kisten aus. Dein eigenes Platz. Kein Elternteil der Fragen stellt, wann Du nach Hause kommst. Keine Regeln. Keine Grenzen.
 

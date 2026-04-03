@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Beziehung nach Elternzeit: Wiederfinden als Paar
+## Beziehung nach Elternzeit: Wiederfinden als Paar
 
 Die Elternzeit ist eine wunderbare Phase – ein neues Leben ist da, die Freude ist groß. Aber ehrlich gesagt? Für viele Paare ist diese Zeit auch eine der größten Herausforderungen für die Beziehung. Dein Partner und du, ihr seid plötzlich nicht nur Liebende, sondern auch Eltern. Die Nächte sind kurz, der Tag ist lang, und irgendwo in diesem ganzen Chaos verschwindet die Verbindung zwischen euch.
 

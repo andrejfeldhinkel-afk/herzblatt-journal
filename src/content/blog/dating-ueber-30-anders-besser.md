@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Dating über 30: Erwachsener und bewusster
+## Dating über 30: Erwachsener und bewusster
 
 Warum Dating über 30 besser sein kann. Was sich ändert und wie du profitierst. Dieser umfassende Guide bietet praktische Ratschläge und emotionale Unterstützung für verschiedene Situationen beim Dating und in Beziehungen.
 

@@ -17,7 +17,7 @@ faq:
 
 ---
 
-# Gleichberechtigung in modernen Beziehungen
+## Gleichberechtigung in modernen Beziehungen
 
 Es ist Freitag. Du kommst nach einem 10-Stunden-Tag von der Arbeit. Du bist erschöpft. Du möchtest auf der Couch liegen und nichts tun.
 

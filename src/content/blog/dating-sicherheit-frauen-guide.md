@@ -19,7 +19,7 @@ faq:
     answer: "Vertrau deinem Bauchgefühl. Wenn etwas sich falsch anfühlt, gehe oder beende das Gespräch. Du musst nicht höflich sein wenn du dich unsicher fühlst. Gehe weg, rufe einen Freund, ein Taxi oder die Polizei wenn nötig. Deine Sicherheit ist wichtiger als Höflichkeit."
 ---
 
-# Sicherheit beim Dating für Frauen: Komplett Guide
+## Sicherheit beim Dating für Frauen: Komplett Guide
 
 Dating ist spannend. Dating ist auch riskant – besonders für Frauen.
 

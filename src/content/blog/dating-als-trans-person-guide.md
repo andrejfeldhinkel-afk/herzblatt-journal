@@ -1,6 +1,6 @@
 ---
 title: "Dating als Trans-Person: Liebe, Akzeptanz und ehrliche Ge..."
-description: "Dating als trans person kann herausfordernd sein. Unser Leitfaden hilft dir mit praktischen Tipps, Kommunikationsstrategien und Selbstvertrauen auf deinem Weg zur erfüllten Partnerschaft."
+description: "Dating als trans person kann herausfordernd sein. Unser Leitfaden hilft dir mit praktischen Tipps."
 date: 2026-03-21
 author: laura-weber
 image: "/images/blog/dating-als-trans-person-guide.webp"
@@ -25,7 +25,7 @@ faq:
 
 ---
 
-# Dating als Trans-Person: Liebe, Akzeptanz und ehrliche Gespräche
+## Dating als Trans-Person: Liebe, Akzeptanz und ehrliche Gespräche
 
 Dating als trans person ist ein Thema, das viele Menschen in der Transgender-Gemeinschaft mit Unsicherheit, Hoffnung und manchmal auch Angst angehen. Die Welt der modernen Partnersuche stellt trans Personen vor einzigartige Herausforderungen: Wie oute ich mich? Wann ist der richtige Zeitpunkt? Wie finde ich Menschen, die mich wirklich akzeptieren? Diese Fragen beschäftigen dich möglicherweise intensiv. In diesem umfassenden Ratgeber wollen wir dir konkrete Strategien, emotionale Unterstützung und praktische Tipps geben, die dir helfen, die Welt des Datings sicherer und erfüllter zu erleben.
 

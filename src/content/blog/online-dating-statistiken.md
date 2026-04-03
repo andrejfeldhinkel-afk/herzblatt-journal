@@ -16,7 +16,7 @@ draft: false
 author: "laura-weber"
 ---
 
-# Online-Dating Statistiken 2026: Was die Daten zeigen
+## Online-Dating Statistiken 2026: Was die Daten zeigen
 
 Aktuelle Statistiken über Online-Dating, Erfolgsquoten und Trends. In diesem Artikel werden wir tiefer in das Thema eintauchen und praktische Strategien erkunden.
 

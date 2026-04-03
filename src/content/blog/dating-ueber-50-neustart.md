@@ -19,7 +19,7 @@ faq:
     answer: "Ja, solange dein Interesse ethisch ist. Ein 55-jähriger, der 28-Jährige dated, ist fragwürdig. Ein 55-jähriger, der 45-Jährige dated, ist völlig normal. Finde dein eigenes Sweet-Spot ohne die andere Person auszunutzen."
 ---
 
-# Dating über 50: Dein Neustart ist möglich
+## Dating über 50: Dein Neustart ist möglich
 
 Du sitzt in deinem Haus. Die Kinder sind weg. Dein Partner ist tot, oder die Ehe ist vorbei. Du bist allein für das erste Mal in 30 Jahren.
 

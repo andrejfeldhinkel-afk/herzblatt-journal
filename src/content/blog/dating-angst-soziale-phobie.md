@@ -19,7 +19,7 @@ faq:
     answer: "Das ist nicht linear. Manche Menschen merken, dass ihre Angst mit ein paar guten Dates besser wird. Andere brauchen Monaten. Therapie hilft (Exposure Therapy, CBT). Medikamente können helfen. Es ist kein Fehlschlag, wenn du nicht magisch 'fest' wirst."
 ---
 
-# Dating mit sozialer Angst: Von Lähmung zu echten Gefühlen
+## Dating mit sozialer Angst: Von Lähmung zu echten Gefühlen
 
 Du wirst einen Date für 19:00 Uhr vereinbarten.
 

@@ -20,7 +20,7 @@ faq:
     answer: "Nein. Humor ist nicht ein Substitute für grundsätzliche Kompatibilität oder Respekt. Aber es kann eine gute Beziehung besser machen."
 ---
 
-# Die Rolle von Humor beim Dating: Warum Lachen lebenswichtig ist
+## Die Rolle von Humor beim Dating: Warum Lachen lebenswichtig ist
 
 Sie sitzen bei einem Date, und die andere Person sagt etwas Lustiges. Sie lachen. Sie entspannen Sie. Die Nervosität sinkt. Plötzlich, das Date fühlt sich einfacher. Dies ist die Macht von Humor.
 

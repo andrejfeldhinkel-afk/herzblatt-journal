@@ -22,7 +22,7 @@ faq:
     answer: "Das hängt von der Krankheit ab. Manchmal dauert es Jahre. Manchmal ist die Normalität eine neue Normalität."
 ---
 
-# Beziehung nach schwerer Krankheit des Partners: Liebe in schwierigen Zeiten
+## Beziehung nach schwerer Krankheit des Partners: Liebe in schwierigen Zeiten
 
 Du hast Dich vorgestellt, wie Eure Zukunft zusammen aussehen würde. Vielleicht geplante Reisen, Kinder, ein gemeinsames Haus. Und dann – eine Diagnose. Eine Operation. Wochen oder Monate der Reha. Plötzlich ist alles, was Ihr geplant hattet, weg.
 

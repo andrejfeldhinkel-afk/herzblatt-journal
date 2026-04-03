@@ -1,6 +1,6 @@
 ---
 title: "Love Maps — Wie gut kennst du deinen Partner wirklich?"
-description: "Gottmans Love Maps sind die Grundlage glücklicher Langzeitbeziehungen. Entdecke die 40+ Fragen, um deine Love Map zu aktualisieren und wie Paare diese nutzen können."
+description: "Gottmans Love Maps sind die Grundlage glücklicher Langzeitbeziehungen. Entdecke die 40+ Fragen."
 date: 2025-12-03
 author: "sarah-kellner"
 image: "/images/blog/love-map-gottman-beziehung-guide.webp"

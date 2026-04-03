@@ -20,7 +20,7 @@ faq:
     answer: "Typischerweise dauert es 6-12 Wochen, um ein neues Verhaltensmuster zu etablieren, wenn Sie konsistent daran arbeiten. Emotionale Muster können länger brauchen, um sich vollständig zu ändern."
 ---
 
-# Wiederkehrende Konfliktmuster durchbrechen: Der Weg zur harmonischen Beziehung
+## Wiederkehrende Konfliktmuster durchbrechen: Der Weg zur harmonischen Beziehung
 
 Kennen Sie das? Ihr Partner sagt etwas, das eine bestimmte Art aussieht, Sie reagieren defensiv, Ihr Partner zieht sich zurück, Sie fühlen sich verletzt, und plötzlich haben Sie den gleichen Streit, den Sie bereits hundertmal gehabt haben. Es ist, als ob Sie an eine unsichtbare Schnur gebunden wären, die Sie immer wieder zu den gleichen Konflikten zurückzieht.
 

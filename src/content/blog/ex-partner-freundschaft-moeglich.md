@@ -21,7 +21,7 @@ faq:
     answer: "Wenn: Ihr immer noch emotionale Abhängigkeit habt, einer von euch heimlich romantische Hoffnung hegegt, es Eifersucht in neuen Beziehungen schafft, oder ihr euch nicht wie echte Freunde verhaltet. Eine gesunde Ex-Freundschaft sollte sich normal anfühlen."
 ---
 
-# Freundschaft mit dem Ex: Möglich oder schlechte Idee?
+## Freundschaft mit dem Ex: Möglich oder schlechte Idee?
 
 Deine Beziehung ist vorbei. Aber dieser Mensch war ein großer Teil deines Lebens. Und plötzlich soll er einfach weg sein?
 

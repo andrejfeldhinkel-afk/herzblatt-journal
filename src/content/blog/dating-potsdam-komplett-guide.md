@@ -1,6 +1,6 @@
 ---
 title: "Dating in Potsdam: Schlösser, Parks und Verliebte"
-description: "Der komplette Dating-Guide für Potsdam. Entdecke romantische Schlösser, wunderschöne Parks und unvergessliche Date-Ideen in Potsdam. Dein perfekter Ratgeber für Singles in der Schlösserstadt."
+description: "Der komplette Dating-Guide für Potsdam. Entdecke romantische Schlösser, wunderschöne Parks und unvergessliche Date-Ideen in Potsdam."
 author: laura-weber
 date: 2026-03-21
 tags:
@@ -24,7 +24,7 @@ faq:
 
 ---
 
-# Dating in Potsdam: Schlösser, Parks und Verliebte
+## Dating in Potsdam: Schlösser, Parks und Verliebte
 
 Potsdam ist nicht nur eine der schönsten Städte Deutschlands, sondern auch einer der besten Orte, um [Dating in Heidelberg](/blog/dating-heidelberg-romantik-guide) interessiert, findest du dort ähnliche inspirierende Tipps für romantische Momente in einer anderen wunderschönen deutschen Stadt.
 

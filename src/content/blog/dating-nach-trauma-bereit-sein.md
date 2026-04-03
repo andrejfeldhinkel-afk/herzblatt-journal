@@ -24,7 +24,7 @@ faq:
     answer: "Es hängt von Art und Timing ab. Sie müssen nicht alles auf dem ersten Datum teilen, aber mit Zeit sollten Sie offen sein. Ein unterstützender Partner wird verstehen."
 ---
 
-# Dating nach Trauma: Wann bin ich bereit?
+## Dating nach Trauma: Wann bin ich bereit?
 
 Sie haben Trauma erlebt. Vielleicht war es eine emotional schädliche Beziehung. Vielleicht war es körperliche oder emotionale Missbrauch. Vielleicht war es sexuelle Trauma. Unabhängig davon, jetzt, mit etwas Heilung unter Ihrem Gürtel, stellen Sie sich die Frage: Bin ich bereit, wieder zu daten? Dies ist eine wichtige Frage, und eine, die nicht leicht zu beantworten ist.
 

@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Beziehung nach Depression: Wie du deinen Partner unterstützt – ohne dich selbst zu verlieren
+## Beziehung nach Depression: Wie du deinen Partner unterstützt – ohne dich selbst zu verlieren
 
 Dein Partner hat Depression. Oder er hatte eine und ist gerade dabei, daraus herauszukommen. Und jetzt fragst du dich: Wie mache ich das? Wie unterstütze ich jemanden, der depressiv ist, ohne mich selbst zu verlieren?
 

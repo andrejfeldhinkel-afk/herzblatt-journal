@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Gesunde Grenzen setzen: Die Grundlage einer respektvollen Beziehung
+## Gesunde Grenzen setzen: Die Grundlage einer respektvollen Beziehung
 
 Viele Menschen in Beziehungen haben Schwierigkeiten mit Grenzen. Entweder sie setzen zu viele (und wirken kontrollierend) oder zu wenige (und fühlen sich ständig verletzt). Das Gleichgewicht zu finden ist wichtig. In diesem Artikel lernst du, wie du gesunde Grenzen in einer Beziehung setzt und einhältst.
 

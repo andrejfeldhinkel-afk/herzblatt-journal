@@ -18,7 +18,7 @@ faq:
 
 ---
 
-# Beziehung verbessern: 25 Sofort-Tipps die heute noch wirken
+## Beziehung verbessern: 25 Sofort-Tipps die heute noch wirken
 
 Viele Menschen wissen, dass ihre Beziehung nicht optimal läuft, wissen aber nicht, wo sie anfangen sollen, sie zu verbessern. Die gute Nachricht ist, dass kleine, konsistente Veränderungen große Auswirkungen haben können. Du musst nicht deine ganze Beziehung umkrempeln – oft sind es die kleinen Dinge, die den größten Unterschied machen. Dieser Leitfaden bietet dir 40 konkrete, sofort umsetzbare Tipps, die du noch heute beginnen kannst, um deine Beziehung zu stärken.
 

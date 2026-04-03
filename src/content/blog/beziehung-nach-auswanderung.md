@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Beziehung nach Auswanderung stärken
+## Beziehung nach Auswanderung stärken
 
 Auswandern ist eine der größten Veränderungen, die du und dein Partner durchleben können. Es geht nicht nur darum, deine Sachen zu packen und in ein neues Land zu ziehen. Es geht um eine vollständige Neuausrichtung deines Lebens – neue Menschen, neue Gewohnheiten, neue Regeln, neue Sprache vielleicht. Und deine Beziehung muss diese Veränderung mit dir durchmachen.
 

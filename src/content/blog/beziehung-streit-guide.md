@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Der große Streit-Guide für Paare
+## Der große Streit-Guide für Paare
 
 Es geht um die Spülmaschine. Oder mindestens fängt es so an. Du hast gebeten, dass dein Partner die Spülmaschine ausräumt. Er hat es vergessen. Du fragst wieder. Er wird ungeduldig. Du wirst wütend.
 

@@ -22,7 +22,7 @@ faq:
     answer: "Die Kosten sind ähnlich wie bei heterosexuellen Hochzeiten und hängen von Location, Gästeanzahl und Ausstattung ab. Im Durchschnitt rechnet man mit 8.000-25.000 Euro, luxuriöse Hochzeiten können deutlich teurer sein."
 ---
 
-# Queere Hochzeit in Deutschland: Alles was gleichgeschlechtliche Paare wissen müssen
+## Queere Hochzeit in Deutschland: Alles was gleichgeschlechtliche Paare wissen müssen
 
 Die Hochzeit des eigenen Partners oder der eigenen Partnerin – für viele ist das ein Traum, den sie sich lange nicht erfüllen durften. Bis 2017 war eine Eheschließung für gleichgeschlechtliche Paare in Deutschland noch nicht möglich. Heute, fast ein Jahrzehnt später, können wir sagen: Der Traum ist Wirklichkeit. Aber zwischen Traum und Wirklichkeit liegt eine Menge Planung, rechtliche Details und Entscheidungen, die du treffen musst.
 

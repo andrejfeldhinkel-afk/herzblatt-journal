@@ -22,7 +22,7 @@ faq:
     answer: "Ja. Mit Arbeit an dir selbst kannst du eine gesunde Beziehung aufbauen."
 ---
 
-# Dating nach einer Krebserkrankung – Liebe finden nach der Diagnose
+## Dating nach einer Krebserkrankung – Liebe finden nach der Diagnose
 
 Du sitzt am Anfang eines Verständnisprocesses. Das erste, was du verstehen musst, ist, dass deine Gefühle legitim sind. Sie sind nicht falsch. Sie sind nicht irrational. Sie sind die normalen menschlichen Reaktionen auf abnormale oder schwierige Situationen.
 

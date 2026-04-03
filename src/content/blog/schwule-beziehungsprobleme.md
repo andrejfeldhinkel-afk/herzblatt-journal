@@ -22,7 +22,7 @@ faq:
     answer: "Ja, aber nur mit klaren Regeln, gegenseitigem Respekt und Kommunikation. Es muss von beiden Partnern wirklich gewollt sein, nicht nur akzeptiert werden."
 ---
 
-# Schwule Beziehungsprobleme: Die häufigsten Herausforderungen und Lösungen
+## Schwule Beziehungsprobleme: Die häufigsten Herausforderungen und Lösungen
 
 Du sitzt neben deinem Freund oder deiner Freundin, die gerade ihre zehnte Beziehung beendet hat, und fragst dich: Warum funktioniert das nicht? Du selbst bist mit deinem Partner zusammen und habt die ganz normalen Streite – aber du fragst dich auch: Sind das wirklich die Probleme, die alle Beziehungen haben? Oder ist es wirklich schwieriger, als schwules Paar zusammenzusein?
 

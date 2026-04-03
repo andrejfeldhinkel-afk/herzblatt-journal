@@ -22,7 +22,7 @@ faq:
     answer: "Ja, bei fast allen Apps kannst du dein Profil so einstellen, dass es nicht bei bestimmten Personen sichtbar ist (zB am Arbeitsplatz). Aber grundsätzlich: Apps sind für Menschen, die dich sehen sollen. Wenn du sehr diskret sein brauchst, ist vielleicht Online-Dating nicht das Richtige."
 ---
 
-# LGBTQ+ Dating Apps 2026: Die besten Apps für queere Menschen im Vergleich
+## LGBTQ+ Dating Apps 2026: Die besten Apps für queere Menschen im Vergleich
 
 Die Zeiten, in denen LGBTQ+ Menschen in Bars oder Parks treffen mussten, um andere queere Menschen zu finden, sind vorbei. Jetzt sind wir in einer Welt, wo du mit ein paar Swipes hunderte von queeren Menschen auf deinem Handy hast. Und obwohl das wunderbar ist – es ist auch verwirrend.
 

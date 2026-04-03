@@ -20,7 +20,7 @@ faq:
     answer: "Weniger wichtig als deine Einstellung und wie du dich trägst. Aber es beeinflusst dein Selbstvertrauen und das erste Aussehen – also ist es wichtig."
 ---
 
-# Date Outfit: So kleidest du dich mit Selbstvertrauen – für Frauen und Männer
+## Date Outfit: So kleidest du dich mit Selbstvertrauen – für Frauen und Männer
 
 Das erste Date steht an. Du fragst dich: "Was sollte ich anziehen?" Diese Frage ist nerviger als sie sein sollte. Dein Outfit zu wählen ist mehr als nur Mode – es geht um Selbstvertrauen, erste Eindrücke und wie du dich selbst siehst.
 

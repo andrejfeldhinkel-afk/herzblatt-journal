@@ -20,7 +20,7 @@ faq:
     answer: "Sie müssen nicht auf vollständigen Detox einigen. Start mit einfachen Grenzen wie 'kein Handy während Mahlzeiten' und sehen Sie, ob Sie zu mehr einigen können."
 ---
 
-# Digital Detox als Paar: Mehr Nähe ohne Handy
+## Digital Detox als Paar: Mehr Nähe ohne Handy
 
 Haben Sie schon bemerkt, wie viel Zeit Sie auf Ihrem Telefon verbringen, besonders wenn Sie mit Ihrem Partner zusammen sind? Vielleicht sitzt das ganze Paar auf dem Sofa, jeder scrollend auf seinem Handy, selten miteinander sprechend. Dies ist die Realität für viele moderne Paare.
 

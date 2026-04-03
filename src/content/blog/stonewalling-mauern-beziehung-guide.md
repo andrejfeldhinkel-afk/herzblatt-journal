@@ -25,7 +25,7 @@ faq:
     answer: "Der Unterschied liegt in der Kommunikation. Wenn dein Partner sagt 'Ich brauche eine Pause von diesem Gespräch, ich bin zu überwältigt,' das ist Selbstschutz. Das ist nicht Stonewalling. Stonewalling ist, wenn er dich völlig ignoriert, nicht antwortet, nicht sagt wann er reden wird. Es ist willentliche Isolation ohne Kommunikation."
 ---
 
-# Stonewalling: Wenn dein Partner dich mit Schweigen bestraft
+## Stonewalling: Wenn dein Partner dich mit Schweigen bestraft
 
 Das ist eine der schmerzhaftesten Szenen in einer Beziehung: Ihr habt einen Konflikt. Du versuchst zu reden. Er sagt nichts. Du fragst, was los ist. Stille. Du wirst frustriert. Du schreist. Er starrt auf sein Telefon oder weg. Nichts. Absolute Stille.
 

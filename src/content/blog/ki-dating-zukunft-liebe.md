@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# KI und die Zukunft des Datings: Chancen und Bedenken
+## KI und die Zukunft des Datings: Chancen und Bedenken
 
 Die Künstliche Intelligenz ist bereits in unsere Dating-Welt eingedrungen. Von Matching-Algorithmen bis zu AI-Chatbots – KI formt, wie wir Liebe finden. In diesem Artikel schauen wir uns an, wie KI das Dating verändert und was das für deine Zukunft bedeutet.
 

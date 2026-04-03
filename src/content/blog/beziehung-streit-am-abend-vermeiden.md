@@ -20,7 +20,7 @@ faq:
     answer: "Ja, am besten sprechen Sie über ernsthafte Themen am Nachmittag oder frühen Abend, wenn Sie beide wach und klar sind, nicht später nachts wenn Sie müde sind."
 ---
 
-# Abendliche Streitigkeiten vermeiden: So schlafen Paare friedlich ein
+## Abendliche Streitigkeiten vermeiden: So schlafen Paare friedlich ein
 
 Es ist ein klassisches Szenario: Sie liegen neben Ihrem Partner im Bett, bereit einzuschlafen, und plötzlich bricht ein Konflikt aus. Ein hartes Wort über die Haushaltschores, ein Missverständnis über die Familie oder eine frustrierte Bemerkung über die Arbeit – und schon ist die Nacht ruiniert. Sie liegen beide wach, Ihre Gedanken rasen, und Sie fallen in einen unruhigen Schlaf, begleitet von negativen Gefühlen.
 

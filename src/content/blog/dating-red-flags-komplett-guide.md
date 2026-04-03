@@ -1,6 +1,6 @@
 ---
 title: "Dating Red Flags: 40 Warnsignale die du nicht ignorieren ..."
-description: "Lerne, 40 kritische Warnsignale beim Dating zu erkennen. Dieser vollständige Guide hilft dir, red flags frühzeitig zu identifizieren und deine Beziehungen zu schützen."
+description: "Lerne, 40 kritische Warnsignale beim Dating zu erkennen. Dieser vollständige Guide hilft dir."
 author: markus-hoffmann
 image: "/images/blog/dating-red-flags-komplett-guide.webp"
 imageAlt: "Dating Red Flags Komplett Guide"
@@ -19,7 +19,7 @@ faq:
 
 ---
 
-# Dating Red Flags: 40 Warnsignale die du nicht ignorieren darfst
+## Dating Red Flags: 40 Warnsignale die du nicht ignorieren darfst
 
 Die erste Phase einer neuen Beziehung wird oft als die schönste Zeit beschrieben - der Punkt, an dem alles neu ist, alles möglich scheint und dein neuer Partner dir wie der perfekte Mensch erscheint. Doch für viele Menschen ist dies auch die Zeit, in der kritische Warnsignale übersehen werden. Diese subtilen Hinweise - die Red Flags - sind Indikatoren dafür, dass etwas Wichtiges in der Beziehung nicht stimmt.
 

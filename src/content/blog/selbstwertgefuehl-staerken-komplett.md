@@ -1,6 +1,6 @@
 ---
 title: "Selbstwertgefühl stärken: Der komplette Guide"
-description: "Selbstwertgefühl stärken: Verstehe was Selbstwert ist, woher niedriger Selbstwert kommt und lerne 15+ praktische Übungen um dein Selbstwertgefühl aufzubauen."
+description: "Selbstwertgefühl stärken: Verstehe was Selbstwert ist, woher niedriger Selbstwert kommt und lerne 15+ praktische Übungen um dein Selbstwertgefühl."
 date: 2026-04-03
 tags:
   - "Psychologie"

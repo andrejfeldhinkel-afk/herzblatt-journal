@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Dating als hochsensible Person (HSP): Dein Guide zum achtsamen Daten
+## Dating als hochsensible Person (HSP): Dein Guide zum achtsamen Daten
 
 Du lädst eine Person zu dir nach Hause ein. Aber bevor sie ankommt, machst du deinen Platz "perfekt" – keine visuellen Unordnungen, die richtige Musik in der richtigen Lautstärke, die Lichter justetiert auf "romantisch, aber nicht zu hell".
 

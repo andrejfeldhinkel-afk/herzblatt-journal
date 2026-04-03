@@ -25,7 +25,7 @@ faq:
     answer: "Nur du kannst das entscheiden. Aber frag dich: Lerne ich noch etwas? Wachse ich? Tut mir diese Beziehung gut? Wenn die Antworten nein sind, dann ist vielleicht die Lektion gelernt und es ist Zeit, sich zu trennen."
 ---
 
-# Karmische Beziehungen: Warum dich bestimmte Menschen magisch anziehen
+## Karmische Beziehungen: Warum dich bestimmte Menschen magisch anziehen
 
 Es gibt bestimmte Menschen, die in deinem Leben auftauchen und etwas fühlt sich anders an. Es ist nicht wie andere Beziehungen. Es ist intensiv. Es ist magnetisch. Es ist wie Schicksal.
 

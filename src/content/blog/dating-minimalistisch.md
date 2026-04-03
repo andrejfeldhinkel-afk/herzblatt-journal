@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Minimalistisch daten: Weniger ist wirklich mehr
+## Minimalistisch daten: Weniger ist wirklich mehr
 
 Es gibt einen Trend, der leiser ist als andere, aber genauso mächtig: minimalistische Dating. Das bedeutet nicht, dass du nur eine Beziehung in deinem ganzen Leben haben wirst, oder dass du Dating sehr ernst nimmst. Es bedeutet, dass du bewusst, absichtlich und auf die "wesentlichen" Dinge konzentrierst, wenn es um Dating geht.
 

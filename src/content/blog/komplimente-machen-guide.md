@@ -18,7 +18,7 @@ faq:
 
 ---
 
-# Komplimente machen: 50 ehrliche Komplimente die wirklich berühren
+## Komplimente machen: 50 ehrliche Komplimente die wirklich berühren
 
 Die Kunst, echte Komplimente zu machen, ist eine der wertvollsten Fähigkeiten in der zwischenmenschlichen Kommunikation. Komplimente machen – das klingt einfach, doch viele Menschen fühlen sich unsicher, wenn es darum geht, ehrliche Komplimente auszusprechen. Du fragst dich vielleicht: Wie mache ich Komplimente, die nicht aufdringlich wirken? Wie stelle ich sicher, dass meine Komplimente für Frauen und Komplimente für Männer authentisch ankommen? In diesem umfassenden Guide erfährst du, wie du Komplimente machst, die wirklich berühren und Eindruck hinterlassen.
 

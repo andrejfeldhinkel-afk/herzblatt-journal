@@ -21,7 +21,7 @@ faq:
     answer: "Das ist leider schwierig. Überwiesenes Geld ist oft unwiederbringlich. Aber informiere sofort deine Bank – manchmal können Transaktionen noch stoppt werden. Kontaktiere auch die Polizei für rechtliche Optionen."
 ---
 
-# Romance Scam: Liebesbetrug im Internet erkennen & vermeiden
+## Romance Scam: Liebesbetrug im Internet erkennen & vermeiden
 
 Du tauschst seit Wochen herzliche Nachrichten mit jemanden aus, den du online getroffen hast. Er scheint perfekt – verständnisvoll, aufmerksam, interessiert in deinem Leben. Dann fragt er eines Tages, ob du ihm helfen kannst: Eine Notfallsituation, nur ein paar hundert Euro, er zahlt es dir natürlich zurück. Bis dir auffällt, dass du auf einen Romance Scammer hereingefallen bist.
 

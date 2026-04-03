@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Dating-Regeln, die du brechen kannst: Authentizität statt antiquierte Skripte
+## Dating-Regeln, die du brechen kannst: Authentizität statt antiquierte Skripte
 
 Es gibt diese Regeln beim Dating. Du kennst sie wahrscheinlich. „Warte drei Tage, bevor du anrufen." „Lass ihn die erste Nachricht schreiben." „Teile deine Gefühle nicht zu früh." „Spiel schwer zu haben."
 

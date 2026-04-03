@@ -22,7 +22,7 @@ faq:
     answer: "Absolut, ja. Viele Menschen bauen glückliche, erfüllende Beziehungen mit alleinerziehenden Eltern auf. Der Schlüssel ist ehrliche Kommunikation, realistische Erwartungen und die Fähigkeit, flexibel zu sein."
 ---
 
-# Dating mit alleinerziehenden Vätern – Was du wissen musst
+## Dating mit alleinerziehenden Vätern – Was du wissen musst
 
 Du sprichst mit einem Mann, der dich fasziniert. Die Chemie stimmt, die Gespräche sind tief, die Blicke bedeutsam. Und dann sagt er: "Ich sollte dir etwas erzählen – ich habe eine Tochter." Oder einen Sohn. Und plötzlich wird das, was einfach schien, kompliziert.
 

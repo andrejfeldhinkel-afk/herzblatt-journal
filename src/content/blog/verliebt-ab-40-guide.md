@@ -659,7 +659,7 @@ Das ist die echte Wahrheit über Liebe mit 40.
 
 ---
 
-Wenn du dich mit 40 verliebt hast (oder gerade am Anfang stehst), könnten diese Artikel dir auch helfen: "[Verdeckter Narzissmus erkennen: 15 Warnsignale in Beziehungen](/blog/verdeckter-narzissmus-erkennen/)" und "[Rote Flaggen erkennen: Ein Guide zu toxischen Beziehungsmustern](/blog/rote-flaggen-guide/)".
+Wenn du dich mit 40 verliebt hast (oder gerade am Anfang stehst), könnten diese Artikel dir auch helfen: "[Verdeckter Narzissmus erkennen: 15 Warnsignale in Beziehungen](/blog/verdeckter-narzissmus-erkennen/)" und "[Rote Flaggen erkennen: Ein Guide zu toxischen Beziehungsmustern](/blog/red-flags-erkennen)".
 
 ## Abschließende Gedanken zur Liebe mit 40
 

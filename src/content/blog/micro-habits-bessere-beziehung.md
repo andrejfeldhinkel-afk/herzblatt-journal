@@ -1,6 +1,6 @@
 ---
 title: "Micro-Habits für eine bessere Beziehung: Kleine Gewohnheiten"
-description: "Micro-Habits die deine Beziehung transformieren. 25 kleine tägliche Gewohnheiten die wissenschaftlich bewiesen eure Verbindung stärken — in nur 5 Minuten am Tag."
+description: "Micro-Habits die deine Beziehung transformieren. 25 kleine tägliche Gewohnheiten die wissenschaftlich bewiesen eure Verbindung stärken."
 date: 2025-12-10
 tags:
   - "Beziehung"

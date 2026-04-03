@@ -25,7 +25,7 @@ faq:
     answer: "Nein. Mit Arbeit und Unterstützung (Therapie, Meditation, Exposuretraining) können Menschen ihre sozialen Ängste erheblich reduzieren. Es braucht Zeit, aber es ist möglich, von der Angst-dominierten Erfahrung zu einer normal-nervösen Erfahrung zu gehen."
 ---
 
-# Dating mit sozialer Angst: Strategien die wirklich funktionieren
+## Dating mit sozialer Angst: Strategien die wirklich funktionieren
 
 Dating ist schwer. Dating mit sozialer Angst ist verdammt schwer.
 

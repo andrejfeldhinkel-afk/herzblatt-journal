@@ -1,6 +1,6 @@
 ---
 title: "Richtig streiten in der Beziehung: Streitkultur die eure"
-description: "Richtig streiten lernen: Wie du Konflikte in der Beziehung so führst, dass sie eure Verbindung stärken statt zu zerstören. Mit konkreten Techniken und Beispielen."
+description: "Richtig streiten lernen: Wie du Konflikte in der Beziehung so führst, dass sie eure Verbindung stärken statt zu zerstören."
 date: 2025-12-15
 tags:
   - "Beziehung"

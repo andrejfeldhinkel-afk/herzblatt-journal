@@ -1,6 +1,6 @@
 ---
 title: "Dating in Heidelberg: Romantik in der Neckarstadt"
-description: "Entdecke die schönsten Date-Ideen in Heidelberg. Von romantischen Neckarufern bis zu historischen Schlössern - dein kompletter Ratgeber für unvergessliche Dates in Heidelberg."
+description: "Entdecke die schönsten Date-Ideen in Heidelberg. Von romantischen Neckarufern bis zu historischen Schlössern - dein kompletter Ratgeber für unvergessliche."
 author: laura-weber
 date: 2026-03-21
 tags:
@@ -24,7 +24,7 @@ faq:
 
 ---
 
-# Dating in Heidelberg: Romantik in der Neckarstadt
+## Dating in Heidelberg: Romantik in der Neckarstadt
 
 Heidelberg – die Stadt der Romantik, der Geschichte und der unendlichen Möglichkeiten für unvergessliche Dates. Mit seinen malerischen Gassen, der imposanten Schlossruine und dem sanft fließenden Neckar ist Heidelberg einer der schönsten Orte in Deutschland für Menschen, die sich verlieben möchten. Ob du neu in der Stadt bist oder bereits hier wohnst – dieser Ratgeber zeigt dir die besten Wege, um echte Verbindungen zu schaffen und die Magie Heidelbergs mit deinem Date zu teilen.
 

@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Dating nach Fehlgeburt: Trauer und neuer Anfang
+## Dating nach Fehlgeburt: Trauer und neuer Anfang
 
 Wie du emotional heilst und bereit wirst, wieder zu daten nach einer Fehlgeburt. Dieser umfassende Guide bietet praktische Ratschläge und emotionale Unterstützung für verschiedene Situationen beim Dating und in Beziehungen.
 

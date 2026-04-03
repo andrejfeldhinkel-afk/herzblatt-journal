@@ -19,7 +19,7 @@ faq:
     answer: "Ja, aber nicht aus Scham. Aus Praktikabilität. Wenn deine Behinderung bedeutet, dass du nur tagsüber ausgehen kannst oder bestimmte Aktivitäten nicht machen kannst, ist das fair, das früh zu sagen. Das sind Information, keine Geständnisse."
 ---
 
-# Dating mit Behinderung: Dein ehrlicher Guide
+## Dating mit Behinderung: Dein ehrlicher Guide
 
 Du magst jemanden wirklich gerne. Dein Puls geht schneller, wenn sein Name auftaucht. Ihr schreibt lustige Nachrichten. Dann kommt das Moment, in dem ihr euch treffen wollt, und dein Magen wird eng.
 

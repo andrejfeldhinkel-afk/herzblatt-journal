@@ -1,6 +1,6 @@
 ---
 title: "Interkulturelle Beziehung"
-description: "Interkulturelle Beziehung erfolgreich navigieren: Kulturelle Unterschiede, Familienerwartungen, Kommunikation und praktische Tipps für binationaler Partnerschaften."
+description: "Interkulturelle Beziehung erfolgreich navigieren: Kulturelle Unterschiede, Familienerwartungen."
 date: 2026-04-01
 image: "/images/blog/beziehung-kulturelle-unterschiede.webp"
 imageAlt: "Beziehung Kulturelle Unterschiede"

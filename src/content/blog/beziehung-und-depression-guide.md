@@ -25,7 +25,7 @@ faq:
     answer: "Wenn die Depression eure Beziehung zu belasten beginnt, wenn ihr euch nicht verständigen könnt, oder wenn du dich völlig überfordert fühlst, könnte Paartherapie hilfreich sein. Ein Therapeut kann euch beiden helfen, diese schwierige Zeit zu navigieren."
 ---
 
-# Beziehung und Depression: Wenn die Seele die Liebe belastet
+## Beziehung und Depression: Wenn die Seele die Liebe belastet
 
 Depression in einer Beziehung ist wie ein unsichtbarer dritter Partner. Sie sitzt nicht zwischen euch auf dem Sofa, aber ihre Präsenz ist überall – in den unvollendeten Gesprächen, in den Momenten, in denen du nicht genau weiß, wie du reagieren sollst, in der stille Angst, dass du nicht genug tust. Die Wahrheit ist, dass Beziehung und Depression zusammenzuleben schwierig ist, aber nicht unmöglich. In diesem umfassenden Guide werde ich dir zeigen, wie du eine liebevolle Beziehung führst, wenn psychische Erkrankungen im Spiel sind.
 

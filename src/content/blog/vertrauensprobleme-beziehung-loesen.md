@@ -1,6 +1,6 @@
 ---
 title: "Vertrauensprobleme in der Beziehung: Ursachen & Lösungen"
-description: "Vertrauensprobleme in der Beziehung lösen: Verstehe die Ursachen und lerne praktische Schritte, um Vertrauen wieder aufzubauen und tiefe Bindung zu schaffen."
+description: "Vertrauensprobleme in der Beziehung lösen: Verstehe die Ursachen und lerne praktische Schritte."
 date: 2026-04-01
 image: "/images/blog/vertrauensprobleme-beziehung-loesen.webp"
 imageAlt: "Vertrauensprobleme Beziehung Loesen"

@@ -18,7 +18,7 @@ faq:
     answer: "Menschen bleiben wegen: Hoffnung auf Veränderung, emotionaler Bindung, finanzieller Abhängigkeit, Angst vor Alleinsein oder sozialen Konsequenzen, und psychologischer Abhängigkeit, die der Partner bewusst schaffen hat."
 ---
 
-# Toxische Beziehungen erkennen, verlassen und heilen: Der Komplett-Guide
+## Toxische Beziehungen erkennen, verlassen und heilen: Der Komplett-Guide
 
 Du liest diesen Artikel vielleicht, weil etwas sich falsch anfühlt in deiner Beziehung. Oder vielleicht weil du gerade aus einer schwierigen Beziehung herausgekommen bist und heilen möchtest. Vielleicht erkennst du dich in jemandem wieder, den du liebst.
 

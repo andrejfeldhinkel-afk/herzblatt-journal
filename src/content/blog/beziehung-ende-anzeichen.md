@@ -25,7 +25,7 @@ faq:
     answer: "Das variiert stark. Menschen brauchen wochen bis Jahre. Im Durchschnitt: 3-6 Monate für kurze Beziehungen, 1-2 Jahre für lange Beziehungen. Aber dein Tempo ist dein Tempo."
 ---
 
-# Beziehung am Ende: 20 Anzeichen dass es vorbei ist
+## Beziehung am Ende: 20 Anzeichen dass es vorbei ist
 
 Beziehungen enden selten mit einem Knall. Meistens sind es kleine Momente, die sich zu etwas Größerem addieren. Die Frage "Ist meine Beziehung am Ende?" wird täglich tausendfach gegoogelt. Menschen wissen, dass etwas nicht stimmt, wissen aber nicht, ob es ernsthafte ist oder nur eine Phase.
 

@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Eifersucht auf die Ex: Das Rebecca-Syndrom verstehen und überwinden
+## Eifersucht auf die Ex: Das Rebecca-Syndrom verstehen und überwinden
 
 Du sitzt neben deinem Partner auf der Couch, schaust einen Film und plötzlich erzählt er eine Geschichte über etwas, das er mit seiner Ex gemacht hat. Und zack – ein Gefühl, das sich anfühlt wie Gift, breitet sich in deiner Brust aus. Du kannst nicht anders: Du fragst dich, ob diese Geschichte besser war, ob sie schöner war, ob es mit ihr besser war.
 

@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Manipulation in Beziehungen durchschauen: Erkenne die Zeichen
+## Manipulation in Beziehungen durchschauen: Erkenne die Zeichen
 
 Manipulation ist eine Form der emotionalen Kontrolle, bei der jemand dich veranlasst, gegen deine eigenen Interessen zu handeln, ohne dass du merkst, dass es passiert. Das Tückische ist: Manipulation sieht oft nicht wie Kontrolle aus. Sie sieht aus wie Liebe, oder Sorge, oder ein Missverständnis.
 

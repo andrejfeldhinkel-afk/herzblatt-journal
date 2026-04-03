@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Dating mit bipolarer Störung: Liebe trotz psychischer Belastung
+## Dating mit bipolarer Störung: Liebe trotz psychischer Belastung
 
 Wie du beim Dating mit bipolarer Störung umgehen kannst. Tipps für Kommunikation und Selbstfürsorge. Dieser umfassende Guide bietet praktische Ratschläge und emotionale Unterstützung für verschiedene Situationen beim Dating und in Beziehungen.
 

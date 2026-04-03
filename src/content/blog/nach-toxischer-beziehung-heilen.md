@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Heilung nach einer toxischen Beziehung: Der vollständige Weg zu dir selbst zurück
+## Heilung nach einer toxischen Beziehung: Der vollständige Weg zu dir selbst zurück
 
 Es ist vorbei. Die Beziehung, die dich aufgebraucht hat, die dich klein gemacht hat, die dich selbst verlieren ließ – sie ist vorbei.
 

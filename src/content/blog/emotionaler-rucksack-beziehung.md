@@ -22,7 +22,7 @@ faq:
     answer: "Indem du dich selbst erforschst, deine Trigger benennst und daran arbeitest. Transparenz und Verletzlichkeit sind dabei deine beste Waffe."
 ---
 
-# Emotionaler Rucksack – Wie alte Wunden neue Beziehungen belasten
+## Emotionaler Rucksack – Wie alte Wunden neue Beziehungen belasten
 
 Du triffst jemanden und alles scheint perfekt. Die erste Phase ist magisch, die Chemie stimmt, du lachst, du fühlst dich endlich wieder lebendig. Und dann passiert etwas Kleines – dein Partner sagt etwas, das dich triggert, und plötzlich bist du nicht mehr hier. Du bist in einer anderen Zeit, mit anderen Menschen, und dein Partner ist der Bösewicht einer Geschichte, die er nie hätte sein sollen. Das ist der emotionale Rucksack. Das sind die unsichtbaren Lasten, die du mit in jede Beziehung nimmst.
 

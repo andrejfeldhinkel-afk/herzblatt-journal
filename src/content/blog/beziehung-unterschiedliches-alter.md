@@ -1,6 +1,6 @@
 ---
 title: "Altersunterschied in Beziehungen: Chancen und"
-description: "Wie Altersunterschiede Beziehungen beeinflussen. Gesellschaftliche Vorurteile, Lebensphasen, Kinderwunsch & bewährte Strategien für erfolgreiche Partnerschaften."
+description: "Wie Altersunterschiede Beziehungen beeinflussen. Gesellschaftliche Vorurteile, Lebensphasen."
 date: 2025-03-20
 image: "/images/photos/beziehung-unterschiedliches-alter.webp"
 tags:

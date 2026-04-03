@@ -25,7 +25,7 @@ faq:
     answer: "Beobachte, wie der andere mit seinen Gefühlen umgeht: Kann er über Verletzungen sprechen, ohne zu dramatisieren? Nimmt er Verantwortung an oder schiebt er Schuld auf andere? Hört er aktiv zu? Respektiert er deine Grenzen? Kann er konstruktiv mit Ablehnung umgehen? Diese Signale zeigen sich bereits bei den ersten Gesprächen."
 ---
 
-# Emotionale Reife in Beziehungen: Der unsichtbare Schlüssel zu echter Liebe
+## Emotionale Reife in Beziehungen: Der unsichtbare Schlüssel zu echter Liebe
 
 Wenn du ehrlich zu dir selbst bist, weißt du wahrscheinlich, dass die meisten deiner Beziehungsprobleme nichts mit Liebe zu tun haben. Du liebst deinen Partner. Er liebt dich. Aber irgendwie funktioniert es trotzdem nicht. Die Kommunikation wird zu Kämpfen. Kleine Missverständnisse eskalieren. Ihr könnt einfach nicht auf einer gemeinsamen Ebene miteinander reden.
 

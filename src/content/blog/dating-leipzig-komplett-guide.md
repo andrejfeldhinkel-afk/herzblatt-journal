@@ -19,7 +19,7 @@ faq:
     answer: "Leipzig hat viele Indoor-Optionen: Museen, Galerien, Cafés, Clubs. Die Kunstszene ist indoor-freundlich. Das Karl-Liebknecht-Haus in der Südvorstadt ist immer voll von Aktivitäten. Schlechtes Wetter ist kein Problem in Leipzig."
 ---
 
-# Dating in Leipzig: Die neue Szene-Stadt
+## Dating in Leipzig: Die neue Szene-Stadt
 
 Leipzig ist die Überraschung unter den deutschen Dating-Städten. Während alle über Berlin, München oder Hamburg sprechen, hat Leipzig unterschwellig eine einzigartige Dating-Szene entwickelt.
 

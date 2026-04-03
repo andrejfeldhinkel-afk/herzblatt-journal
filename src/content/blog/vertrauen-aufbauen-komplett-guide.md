@@ -19,7 +19,7 @@ faq:
     answer: "Ja, absolut. Bindungsangst ist eine Überlebensstrategie aus deiner Vergangenheit. Mit Bewusstsein, Geduld und oft mit professioneller Hilfe kannst du deine Bindungsmuster verändern und authentisches Vertrauen entwickeln."
 ---
 
-# Vertrauen aufbauen: Der komplette Guide
+## Vertrauen aufbauen: Der komplette Guide
 
 Vertrauen ist das Fundament jeder echten Beziehung. Ohne Vertrauen hast du nur eine Performance – du spielst eine Rolle statt du selbst zu sein. Mit Vertrauen hast du etwas, das tiefgreifend, erfüllend und echte Liebe ermöglicht.
 

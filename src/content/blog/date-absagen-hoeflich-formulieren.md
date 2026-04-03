@@ -20,7 +20,7 @@ faq:
     answer: "Das ist ehrlich, aber kann hart wirken. Besser ist 'Ich glaube nicht, dass wir auf lange Sicht passen' oder 'Meine Gefühle haben sich geändert'."
 ---
 
-# Date absagen: Höflich, ehrlich und respektvoll – Der richtige Weg
+## Date absagen: Höflich, ehrlich und respektvoll – Der richtige Weg
 
 Das ist eine unbequeme Situation: Du hast ein Date vereinbart, aber jetzt möchtest du es nicht mehr machen. Vielleicht hat sich deine Meinung geändert. Vielleicht ist etwas Unerwartetes passiert. Oder du hast einfach erkannt, dass die andere Person nicht zu dir passt.
 

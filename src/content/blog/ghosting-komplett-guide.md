@@ -23,7 +23,7 @@ faq:
     answer: "Ja. Es ist nicht die Beste Lösung. Eine ehrliche Konversation ist immer besser, auch wenn sie unangenehm ist. Wenn du ghosten willst – sei ehrlich stattdessen."
 ---
 
-# Ghosting: Warum es passiert und wie du damit umgehst
+## Ghosting: Warum es passiert und wie du damit umgehst
 
 Du sitzt mit deinem Handy und wartest. Gestern noch hat er dir geschrieben, wie viel er dich liebt, wie sehr er sich auf das nächste Treffen freut. Heute: Nichts.
 

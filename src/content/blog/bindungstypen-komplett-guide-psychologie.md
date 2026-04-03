@@ -20,7 +20,7 @@ faq:
     answer: "Ja, aber es erfordert Kommunikation und gegenseitiges Verständnis. Die Kombination aus verschiedenen Bindungstypen kann zu Herausforderungen führen, die aber lösbar sind."
 ---
 
-# Bindungstypen verstehen: Der wissenschaftliche Komplett-Guide für bessere Beziehungen
+## Bindungstypen verstehen: Der wissenschaftliche Komplett-Guide für bessere Beziehungen
 
 Du fragst dich manchmal, warum du in Beziehungen immer wieder die gleichen Muster erlebst? Warum du dich möglicherweise zu schnell [verliebt](/blog/mann-verliebt-anzeichen-komplett), oder warum du Nähe vermeidest? Die Antwort liegt möglicherweise in deinem Bindungstyp.
 

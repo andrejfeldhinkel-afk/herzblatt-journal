@@ -1,6 +1,6 @@
 ---
 title: "Zusammenziehen: Der komplette Guide für den großen Schritt"
-description: "Zusammenziehen ohne Drama: Wann ist der richtige Zeitpunkt, wie plant ihr den Umzug und welche Gespräche müsst ihr vorher führen? Der ehrliche Komplett-Guide."
+description: "Zusammenziehen ohne Drama: Wann ist der richtige Zeitpunkt, wie plant ihr den Umzug und welche Gespräche müsst ihr vorher führen?"
 date: 2025-12-15
 tags:
   - "Beziehung"

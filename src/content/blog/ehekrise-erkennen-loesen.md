@@ -21,7 +21,7 @@ faq:
     answer: "Das ist normal in einer Krise. Du musst nicht sofort eine Antwort haben. Arbeite an der Beziehung, höre auf dein Bauchgefühl, und nimm dir Zeit. Manchmal braucht die Klarheit Zeit. Aber ja, wenn du nach langem Arbeiten nicht bleiben möchtest, ist das auch okay."
 ---
 
-# Ehekrise erkennen & lösen: Wann kämpfen, wann loslassen?
+## Ehekrise erkennen & lösen: Wann kämpfen, wann loslassen?
 
 Du sitzt neben deinem Partner auf der Couch, und es fühlt sich an wie zwei Fremde teilen sich einen Raum. Ihr redet nicht wirklich mehr. Wenn ihr sprecht, endet es in Streit. Der Sex ist längst verschwunden. Die emotionale Nähe auch.
 

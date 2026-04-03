@@ -25,7 +25,7 @@ faq:
     answer: "Nein. Flirten ist zeitlos. Mit 20, 40, 60 oder älter – gutes Flirten funktioniert, wenn es authentisch und respektvoll ist."
 ---
 
-# Flirten lernen: Vom Anfänger zum Profi in 30 Tagen
+## Flirten lernen: Vom Anfänger zum Profi in 30 Tagen
 
 Flirten ist eine Fähigkeit, die jeder lernen kann. Wenn du glaubst, dass du nicht natürlich talentiert darin bist, andere Menschen zu verführen, hast du recht – aber das ist nicht tragisch. Mit den richtigen Techniken, konsistenter Übung und einer Veränderung deines Mindsets kannst du von einem unsicheren Flirt-Anfänger zu einem selbstbewussten Flirt-Profi werden. Dieser 30-Tage-Leitfaden wird dir die praktischen Werkzeuge geben, die du brauchst, um überzeugend zu flirten, echte Verbindungen zu schaffen und romantische Chancen zu öffnen.
 

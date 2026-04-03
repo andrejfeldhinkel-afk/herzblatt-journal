@@ -22,7 +22,7 @@ faq:
     answer: "In den meisten Fällen ja. Eine Abtreibung beeinflusst nicht deine zukünftige Fertilität. Aber sprich mit deinem Arzt über deine spezifische Situation."
 ---
 
-# Dating nach einer Abtreibung – Umgang mit Gefühlen und Neuanfang
+## Dating nach einer Abtreibung – Umgang mit Gefühlen und Neuanfang
 
 Das erste Mal, dass jemand neu dich fragt, warum das Treffen so wichtig für dich ist, merkst du, dass du eine Geschichte hast, die nicht mehr einfach ist. Eine Geschichte, die nicht mit einem einfachen "Ich hatte Angst, dass es nicht der richtige Moment war" beantwortet werden kann. Eine Geschichte, die du vielleicht nicht erzählen möchtest, aber auch nicht lügen möchtest, weil die Lüge dich selbst verlieren lässt.
 

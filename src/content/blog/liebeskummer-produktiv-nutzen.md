@@ -1,6 +1,6 @@
 ---
 title: "Liebeskummer produktiv nutzen: Wie Herzschmerz dich stärker"
-description: "Liebeskummer produktiv nutzen statt daran zu zerbrechen. Entdecke wie du Herzschmerz in persönliches Wachstum verwandelst — mit konkreten Strategien und Übungen."
+description: "Liebeskummer produktiv nutzen statt daran zu zerbrechen. Entdecke wie du Herzschmerz in persönliches Wachstum verwandelst."
 date: 2025-11-26
 tags:
   - "Heilung"

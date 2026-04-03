@@ -24,7 +24,7 @@ faq:
     answer: "Wählen Sie Restaurants, die gute Optionen für beide haben. Internationale Küchen bieten oft mehr pflanzliche Optionen. Kommunizieren Sie Ihre Bedürfnisse im Voraus, damit das Restaurant sich vorbereiten kann."
 ---
 
-# Dating als Veganer: Wenn Ernährung zur Frage wird
+## Dating als Veganer: Wenn Ernährung zur Frage wird
 
 Die Entscheidung, vegan oder vegetarisch zu leben, ist für viele Menschen eine moralische, gesundheitliche oder ökologische Wahl. Sie reflektiert Ihre Werte und Ihren Lebensstil. Aber wenn Sie in die Dating-Welt als Veganer oder Vegetarier eintreten, stellt sich eine neue Frage: Wie können Sie sich mit jemandem verbinden, dessen Ernährungsweise anders ist?
 

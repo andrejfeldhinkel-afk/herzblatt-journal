@@ -1,7 +1,7 @@
 ---
 date: 2026-03-21
 title: "Dating Green Flags: 30 Zeichen dass du einen Keeper gefun..."
-description: "Lerne die wichtigsten dating green flags kennen. Wir zeigen dir 30 positive Zeichen einer gesunden Beziehung – damit du erkennst, wenn du wirklich einen Keeper gefunden hast."
+description: "Lerne die wichtigsten dating green flags kennen. Wir zeigen dir 30 positive Zeichen einer gesunden Beziehung – damit du erkennst."
 author: markus-hoffmann
 image: "/images/blog/dating-green-flags-komplett.webp"
 imageAlt: "Dating Green Flags Komplett"
@@ -24,7 +24,7 @@ faq:
 
 ---
 
-# Dating Green Flags: 30 Zeichen dass du einen Keeper gefunden hast
+## Dating Green Flags: 30 Zeichen dass du einen Keeper gefunden hast
 
 Du fragst dich: „Ist diese Person die Richtige? Oder ignoriere ich rote Flaggen, weil ich hoffe, es wird besser?" Diese Unsicherheit ist real, besonders wenn du aus einer toxischen Beziehung kommst. Das Gute ist: Es gibt klare dating green flags, die dir zeigen, wann du wirklich einen Keeper gefunden hast. In diesem Artikel zeigen wir dir nicht nur, was die positive zeichen beziehung sind – wir helfen dir auch, warum diese Zeichen wichtig sind und wie du sie erkennst.
 

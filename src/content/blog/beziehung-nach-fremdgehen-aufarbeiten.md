@@ -19,7 +19,7 @@ faq:
     answer: "Wenn einer von euch sagt: 'Ich kann nicht länger versuchen, daran zu arbeiten.' Oder wenn der untreue Partner keine Schuld nimmt/sich nicht ändert. Oder wenn du dich selbst auf Kosten der 'Heilung' verlierst. Es ist vorbei, wenn eine der Parteien es aufgibt."
 ---
 
-# Beziehung nach [Trennung](/blog/trennung-verarbeiten-12-schritte) sollte klar sein. Nicht in Wut, nicht impulsiv – aber klar.
+## Beziehung nach [Trennung](/blog/trennung-verarbeiten-12-schritte) sollte klar sein. Nicht in Wut, nicht impulsiv – aber klar.
 
 "Ich habe lange überlegt. Ich kann das nicht vergeben. Ich kann der Person, mit dem ich leben soll, nicht vertrauen. Das ist vorbei."
 

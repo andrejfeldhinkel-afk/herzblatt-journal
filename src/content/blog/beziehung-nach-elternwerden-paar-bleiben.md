@@ -20,7 +20,7 @@ faq:
     answer: "Seien Sie offen: 'Ich bin überwältigt und brauche mehr Unterstützung.' Ein guter Partner wird hören und helfen, die Last zu teilen."
 ---
 
-# Paar bleiben trotz Elternschaft: Wie man Liebe und Lust bewahrt
+## Paar bleiben trotz Elternschaft: Wie man Liebe und Lust bewahrt
 
 Das Baby ist angekommen. Es ist süß, wunderbar, und völlig überwältigend. Sie stellen fest, dass Sie und Ihr Partner sich kaum sehen, geschweige denn Zeit zusammen zu verbringen. Die Leidenschaft, die einmal zwischen Ihnen war, kann sich wie ein ferner Traum anfühlen. Ist das normal? Ja. Ist es unvermeidlich? Nein.
 

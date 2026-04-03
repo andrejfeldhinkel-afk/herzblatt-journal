@@ -26,7 +26,7 @@ faq:
     answer: "Ja, das ist dein Recht. Es gibt Menschen, die sich in manchen Kontexten outen und in anderen nicht. Das ist nicht unehrlich – es ist Selbstschutz und völlig legitim. Du darfst deine Sicherheit an erste Stelle setzen."
 ---
 
-# Coming Out: So outest du dich — Der einfühlsame Ratgeber
+## Coming Out: So outest du dich — Der einfühlsame Ratgeber
 
 Das Wort „Coming Out" hört sich nach einem großen, dramatischen Moment an. Vielleicht stellst du dir vor, wie eine Szene aus einem Film – die Musik wird lauter, alle drehen sich um, und danach ist alles anders. Aber die Realität? Die Realität ist viel vielschichtiger, intimer und vor allem: viel mehr in deiner Hand, als du vielleicht glaubst.
 

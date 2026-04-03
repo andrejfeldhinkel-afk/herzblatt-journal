@@ -1,6 +1,6 @@
 ---
 title: "Toxische Männlichkeit in Beziehungen: Erkennen & überwinden"
-description: "Toxische Männlichkeit ist nicht Stärke — es ist Unsicherheit mit Muskeln. Lerne die Zeichen zu erkennen und wie du echte Männlichkeit aufbaust. Ein ehrlicher Leitfaden."
+description: "Toxische Männlichkeit ist nicht Stärke — es ist Unsicherheit mit Muskeln. Lerne die Zeichen zu erkennen und wie du echte Männlichkeit aufbaust."
 date: 2026-04-01
 image: "/images/blog/toxic-masculinity-beziehung.webp"
 imageAlt: "Toxic Masculinity Beziehung"

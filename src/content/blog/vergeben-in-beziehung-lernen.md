@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Vergeben in der Beziehung lernen: Der Weg zur Heilung
+## Vergeben in der Beziehung lernen: Der Weg zur Heilung
 
 Vergebung ist eines der am meisten missverstandenen Konzepte in Beziehungen. Viele Menschen denken, dass Vergebung bedeutet, dass das, was getan wurde, okay war. Oder dass man so tun muss, als wäre nichts passiert.
 

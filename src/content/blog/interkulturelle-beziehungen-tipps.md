@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Interkulturelle Beziehungen: Liebe ohne Grenzen
+## Interkulturelle Beziehungen: Liebe ohne Grenzen
 
 Die Welt ist kleiner geworden. Du triffst Menschen aus unterschiedlichen Kulturen im Café, auf der Arbeit, online. Und manchmal fällst du in jemanden aus einer ganz anderen Kultur [verliebt](/blog/mann-verliebt-anzeichen-komplett). Das ist aufregend – und auch herausfordernd.
 

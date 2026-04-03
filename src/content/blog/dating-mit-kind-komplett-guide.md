@@ -24,7 +24,7 @@ faq:
 
 ---
 
-# Dating mit Kind: Der ehrliche Guide für Alleinerziehende
+## Dating mit Kind: Der ehrliche Guide für Alleinerziehende
 
 Als Alleinerziehende/r kennst du das Gefühl: Die Welt des Datings scheint sich weiterdreht, während du zwischen Schulaufgaben und Babywindeln jonglierst. Dating mit Kind ist nicht unmöglich, aber es erfordert Ehrlichkeit, Strategie und vor allem Geduld mit dir selbst. Dieser Guide wird dir helfen, wieder ins Dating-Spiel zu kommen und gleichzeitig deine Familie und deine Grenzen zu schützen.
 

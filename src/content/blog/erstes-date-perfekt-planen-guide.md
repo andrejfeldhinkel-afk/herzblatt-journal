@@ -20,7 +20,7 @@ faq:
     answer: "Das ist völlig normal! Denke daran, dass deine Verabredung wahrscheinlich auch nervös ist. Tiefe Atemzüge, Vorbereitung und Fokus auf die andere Person helfen."
 ---
 
-# Das perfekte erste Date planen: Von A bis Z – Der ultimative Guide
+## Das perfekte erste Date planen: Von A bis Z – Der ultimative Guide
 
 Du hast dich mit jemanden verbunden. Ihr habt hin und her geschrieben. Die Chemie war da. Und jetzt kommt der entscheidende Moment: Das erste Date.
 

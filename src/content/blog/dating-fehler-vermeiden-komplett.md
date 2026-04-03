@@ -6,7 +6,7 @@ image: "/images/blog/dating-fehler-vermeiden-komplett.webp"
 imageAlt: "Dating Fehler Vermeiden Komplett"
 slug: dating-fehler-vermeiden-komplett
 tags: [Dating, Ratgeber, Flirten]
-description: "Entdecke die 30 größten Dating-Fehler, die Männer und Frauen machen, und lerne konkrete Strategien, um sie zu vermeiden. Mit praktischen Tipps für mehr Erfolg in der Liebe."
+description: "Entdecke die 30 größten Dating-Fehler, die Männer und Frauen machen, und lerne konkrete Strategien, um sie zu vermeiden."
 keywords: ["dating fehler", "dating fehler vermeiden", "häufige dating fehler", "dating tipps fehler"]
 faq:
   - question: "Welche Dating-Fehler machen die meisten Menschen?"

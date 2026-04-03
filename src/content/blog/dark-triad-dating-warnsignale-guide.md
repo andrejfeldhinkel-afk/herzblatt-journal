@@ -1,6 +1,6 @@
 ---
 title: "Dark Triad im Dating: Narzissmus, Machiavellismus und Psy..."
-description: "Dark Triad erkennen beim Dating: Lerne die Warnsignale von Narzissten, manipulativen Menschen und psychopathischen Persönlichkeitszügen kennen und schütze dich."
+description: "Dark Triad erkennen beim Dating: Lerne die Warnsignale von Narzissten, manipulativen Menschen und psychopathischen Persönlichkeitszügen kennen und schütze."
 date: 2026-03-29
 tags:
   - "Dating"

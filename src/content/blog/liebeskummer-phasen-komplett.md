@@ -18,7 +18,7 @@ faq:
     answer: "Wenn dein Liebeskummer nach 6 Monaten nicht besser wird, wenn du Gedanken über Selbstverletzung hast, wenn du nicht funktionieren kannst (Arbeit, Hygiene, Essen), oder wenn du merkst, dass der Schmerz dein Leben vollständig kontrolliert, dann ist professionelle Hilfe nötig."
 ---
 
-# Liebeskummer Phasen: Der Weg durch die emotionale Dunkelheit
+## Liebeskummer Phasen: Der Weg durch die emotionale Dunkelheit
 
 Der Schmerz einer beendeten Liebe ist einer der tiefsten emotionalen Schmerzen, die ein Mensch erfahren kann. Manchmal tut es sogar physisch weh – in deiner Brust, in deinem Magen, in jedem Teil deines Körpers. Du fragst dich, ob dieser Schmerz je vorbeigeht, ob du je wieder lachen kannst, ob du je wieder lieben wirst. Diese Gefühle sind alle real und berechtigt. Aber es gibt auch Hoffnung: Liebeskummer folgt einem vorhersehbaren Muster von Phasen, und wenn du verstehst, welche Phase du gerade durchmachst, wird es einfacher, damit umzugehen. Dieser umfassende Guide wird dich durch alle Phasen des Liebeskummers führen, dir erklären, was in deinem Körper und deiner Psyche passiert, und dir praktische Werkzeuge geben, um diese schwierige Zeit zu überstehen.
 

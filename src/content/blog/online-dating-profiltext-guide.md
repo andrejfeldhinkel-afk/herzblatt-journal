@@ -19,7 +19,7 @@ faq:
     answer: "Die größten: zu negativ sein, Listen schreiben statt zu erzählen, generisch sein (könnte jeder sein), Bilder-Fokus statt Personality, Grammatik-Fehler, zu sehr über deine Exen oder Ex-Traumata sprechen."
 ---
 
-# Der perfekte Profiltext: So schreibst du Matches
+## Der perfekte Profiltext: So schreibst du Matches
 
 Dein Profiltext ist deine erste Stimme. Bevor dich jemand trifft, bevor dich jemand sieht – er/sie liest deine Worte.
 

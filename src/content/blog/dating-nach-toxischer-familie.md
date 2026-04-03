@@ -17,7 +17,7 @@ faq:
     answer: "Therapie ist hilfreich, aber nicht zwingend. Selbstreflexion, Journaling, Grenzensetzen und bewusste Verhaltensänderung können ebenfalls wirksam sein. Wenn du aber immer wieder in destruktive Muster verfällst, kann professionelle Unterstützung den Prozess beschleunigen."
 ---
 
-# Dating nach toxischer Familie: Wie du alte Muster durchbrichst und gesunde Liebe findest
+## Dating nach toxischer Familie: Wie du alte Muster durchbrichst und gesunde Liebe findest
 
 Dein Bauch zieht sich zusammen, wenn dein neuer Partner sagt: „Wir müssen reden." Du erstarrt vor Angst, obwohl er mit dir kuscheln möchte. Oder du findest dich selbst ständig entschuldigend, überangepasst, immer bereit zu geben – aber niemals zu nehmen.
 

@@ -1,6 +1,6 @@
 ---
 title: "Trennung bereuen: Zurück oder weitergehen?"
-description: "Trennung bereuen: Solltest du zurückgehen oder weitermachen? Unterscheide zwischen Heimweh und echter Liebe, und triff die richtige Entscheidung für dein Leben."
+description: "Trennung bereuen: Solltest du zurückgehen oder weitermachen? Unterscheide zwischen Heimweh und echter Liebe."
 date: 2025-12-15
 image: "/images/photos/trennung-bereuen-was-tun.webp"
 imageAlt: "Nachdenklicher Blick zurück nach einer Trennung"

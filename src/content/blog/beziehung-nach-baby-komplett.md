@@ -19,7 +19,7 @@ faq:
     answer: "Direkt und spezifisch. Nicht 'Du hilfst nie' sondern 'Mir wäre geholfen, wenn du jeden Abend das Bad übernehmen würdest.' Sei konkret. Sag, was du brauchst. Wenn er/sie nicht bereit ist zu ändern, könnte Paartherapie helfen."
 ---
 
-# Beziehung nach Baby: So bleibt ihr ein Paar
+## Beziehung nach Baby: So bleibt ihr ein Paar
 
 Ein Baby zu bekommen ist eines der glücklichsten Ereignisse im Leben. Es ist auch eines der schwierigsten für eine Beziehung.
 

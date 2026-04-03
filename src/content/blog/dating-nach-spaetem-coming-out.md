@@ -22,7 +22,7 @@ faq:
     answer: "Völlig okay. Du musst nicht alles sofort verstehen. Dating ist ein Weg, dich selbst zu entdecken. Erzähl deinem Date, wenn du dich nicht sicher bist. Authentische Menschen werden das verstehen."
 ---
 
-# Dating nach spätem Coming-Out – Neustart in der eigenen Wahrheit
+## Dating nach spätem Coming-Out – Neustart in der eigenen Wahrheit
 
 Es ist 2 Uhr nachts und du siehst eine Dating-App-Benachrichtigung. Die Hand zittert ein bisschen, wenn du sie öffnest. Das war vor deinem Coming-Out auch nicht anders – aber jetzt ist es anders, weil du jetzt du selbst bist, zumindest versuchst du das zu sein.
 

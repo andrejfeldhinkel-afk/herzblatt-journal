@@ -25,7 +25,7 @@ faq:
     answer: "Vermeid Politics, Religion, Ex-Partner und zu persönliche Dinge am Anfang. Halt es leicht, interessant und positiv."
 ---
 
-# Frauen richtig anschreiben – Der Guide für echte Gespräche
+## Frauen richtig anschreiben – Der Guide für echte Gespräche
 
 Die erste Nachricht ist entscheidend. Sie bestimmt, ob die Frau dir antwortet oder nicht. Viele Männer machen den Fehler, oberflächlich zu sein, zu direkt zu sein, oder zu bedürftig zu wirken.
 

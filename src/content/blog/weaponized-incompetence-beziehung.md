@@ -1,6 +1,6 @@
 ---
 title: "Strategische Inkompetenz: Wenn dein Partner absichtlich u..."
-description: "Erkenne strategische Inkompetenz in deiner Beziehung. Erfahre, was weaponized incompetence ist, wie du sie erkennst und wie du damit umgehen kannst – ein wichtiges Zeichen für emotionale Manipulation."
+description: "Erkenne strategische Inkompetenz in deiner Beziehung. Erfahre, was weaponized incompetence ist, wie du sie erkennst und wie du damit umgehen kannst."
 author: sarah-kellner
 image: "/images/blog/weaponized-incompetence-beziehung.webp"
 imageAlt: "Weaponized Incompetence Beziehung"
@@ -24,7 +24,7 @@ faq:
 
 ---
 
-# Strategische Inkompetenz: Wenn dein Partner absichtlich unfähig ist
+## Strategische Inkompetenz: Wenn dein Partner absichtlich unfähig ist
 
 Strategische Inkompetenz ist eines der subtilsten und destruktivsten Manipulationsmuster in Beziehungen – und doch wird es oft übersehen. Wenn dein Partner sagt, dass er nicht kochen kann, die Wäsche nicht waschen kann oder die Kinder nicht "richtig" betreuen kann, könnte dies mehr als nur mangelnde Fähigkeiten sein. Dies könnte weaponized incompetence sein – eine bewusste, absichtliche Strategie, um weniger Verantwortung zu tragen. In diesem umfassenden Artikel erforschen wir, was strategische Inkompetenz ist, wie du sie erkennst und vor allem, wie du damit umgehen kannst, um eine gesündere Beziehung zu schaffen.
 

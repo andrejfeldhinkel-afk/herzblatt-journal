@@ -24,7 +24,7 @@ faq:
     answer: "Vielleicht nicht wie früher – aber anders kann auch gut sein. Sex in einer Doppelkarriere-Beziehung braucht weniger Spontaneität und mehr Intention. Das kann tiefer und erfüllender sein."
 ---
 
-# Doppelkarriere-Paar – Wenn beide Karriere machen wollen
+## Doppelkarriere-Paar – Wenn beide Karriere machen wollen
 
 Die Anzeichen kennt jedes ehrgeizige Paar: Der eine sitzt bis 21 Uhr im Meeting, der andere arbeitet noch am Laptop, während das Abendessen im Kühlschrank kalt wird. Laptops auf dem Esstisch, Zoom-Calls nachts in verschiedenen Zeitzonen, die Frage "Wie war dein Tag?" bleibt oft unbeantwortet, weil der andere gerade im nächsten Meeting sitzt.
 

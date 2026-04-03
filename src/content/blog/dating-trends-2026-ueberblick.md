@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Dating-Trends 2026: Was ist aktuell in der Datingszene?
+## Dating-Trends 2026: Was ist aktuell in der Datingszene?
 
 Die neuesten Trends im Online-Dating und in Beziehungen für 2026. Dieser umfassende Guide bietet praktische Ratschläge und emotionale Unterstützung für verschiedene Situationen beim Dating und in Beziehungen.
 

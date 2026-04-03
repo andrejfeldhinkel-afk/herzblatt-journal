@@ -1,6 +1,6 @@
 ---
 title: "Wenn der Partner zu viel trinkt: Alkohol in der Beziehung"
-description: "Dein Partner trinkt zu viel? Erfahre woran du ein Alkoholproblem erkennst, wie du es ansprichst und wo die Grenze zwischen Unterstützung und Selbstschutz liegt."
+description: "Dein Partner trinkt zu viel? Erfahre woran du ein Alkoholproblem erkennst, wie du es ansprichst und wo die Grenze zwischen Unterstützung und Selbstschutz."
 date: 2025-12-15
 tags:
   - "Beziehung"

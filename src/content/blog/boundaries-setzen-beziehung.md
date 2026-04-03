@@ -1,6 +1,6 @@
 ---
 title: "Grenzen setzen in der Beziehung"
-description: "Lerne, wie du in deiner Partnerschaft gesunde Grenzen setzt, ohne Schuldgefühle zu entwickeln. Entdecke praktische Strategien für klare Kommunikation und emotionale Stabilität in Beziehungen."
+description: "Lerne, wie du in deiner Partnerschaft gesunde Grenzen setzt, ohne Schuldgefühle zu entwickeln."
 slug: boundaries-setzen-beziehung
 author: sarah-kellner
 image: "/images/blog/boundaries-setzen-beziehung.webp"
@@ -19,7 +19,7 @@ faq:
 
 ---
 
-# Grenzen setzen in der Beziehung: Ohne Schuldgefühle Nein sagen
+## Grenzen setzen in der Beziehung: Ohne Schuldgefühle Nein sagen
 
 Die Fähigkeit, Grenzen setzen in der Beziehung zu etablieren, ist eine der wichtigsten Fertigkeiten für eine gesunde Partnerschaft. Doch viele Menschen kämpfen damit, ein klares "Nein" auszusprechen, ohne sich dabei schuldig oder herzlos zu fühlen. Sie sagen ja, wenn sie nein meinen, unterdrücken ihre wahren Grenzen und enden am Ende in einem Burnout-Zustand, emotional ausgelaugt und verärgert auf den Partner.
 

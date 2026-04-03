@@ -20,7 +20,7 @@ faq:
     answer: "Das ist ok. Es passiert. Du kannst Deinem Date sagen, dass Du nervös bist. Die meisten normalen Menschen verstehen das. Oder Du kannst das Date beenden. Es ist nicht das Ende der Welt."
 ---
 
-# Social Anxiety beim Dating überwinden – Praktische Strategien
+## Social Anxiety beim Dating überwinden – Praktische Strategien
 
 Du siehst ein Profil auf einer Dating-App und denkst: Das wäre perfekt. Dann kriechst Du es vor. Was wäre, wenn sie denken, ich bin seltsam? Was wäre, wenn ich nichts zu sagen habe? Was wäre, wenn ich einen Panikattacke kriege?
 

@@ -22,7 +22,7 @@ faq:
     answer: "'Das ist okay. Selbstliebe ist nicht ein Gefühl, das du haben musst. Es ist eine Praxis. Es ist Handlungen. Auch wenn du dich nicht liebst, kannst du dich selbst respektieren. Das ist genug.'"
 ---
 
-# Selbstliebe lernen bevor Du eine Beziehung eingehst: Der praktische Guide
+## Selbstliebe lernen bevor Du eine Beziehung eingehst: Der praktische Guide
 
 Ich weiß, was dir gesagt wurde: "Du musst dich selbst lieben, bevor jemand anderes dich lieben kann."
 

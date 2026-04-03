@@ -17,7 +17,7 @@ faq:
 
 ---
 
-# Ängstlicher [Bindungsangst](/blog/bindungsangst-komplett-guide) verstehst, erkennst und schrittweise zu gesünderen Beziehungsmustern gelangst.
+## Ängstlicher [Bindungsangst](/blog/bindungsangst-komplett-guide) verstehst, erkennst und schrittweise zu gesünderen Beziehungsmustern gelangst.
 
 ## Was ist ängstlicher Bindungsstil?
 

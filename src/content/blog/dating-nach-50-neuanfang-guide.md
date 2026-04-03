@@ -22,7 +22,7 @@ faq:
     answer: "'Beobachte über Zeit, ob seine Worte und Taten übereinstimmen. Vertrau deinem Bauchgefühl. Echte Absichten zeigen sich durch Konsistenz und Zuverlässigkeit.'"
 ---
 
-# Dating über 50: Der komplette Guide für einen erfolgreichen Neuanfang
+## Dating über 50: Der komplette Guide für einen erfolgreichen Neuanfang
 
 Die Vorstellung, mit über 50 Jahren wieder in die Dating-Welt einzusteigen, kann überwältigend wirken. Vielleicht bist du nach einer [zusammenziehen](/blog/zusammenziehen-checkliste). Das ist liebombing. Es fühlt sich wunderbar an, aber es ist manipulativ.
 

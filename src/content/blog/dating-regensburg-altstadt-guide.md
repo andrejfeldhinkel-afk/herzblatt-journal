@@ -1,6 +1,6 @@
 ---
 title: "Dating in Regensburg: Liebe in der UNESCO-Altstadt"
-description: "Entdecke die schönsten Dating Ideen in Regensburg und lerne neue Singles kennen. Der ultimative Ratgeber für romantische Dates in der Donaustadt mit der ältesten Brücke Deutschlands."
+description: "Entdecke die schönsten Dating Ideen in Regensburg und lerne neue Singles kennen. Der ultimative Ratgeber für romantische Dates in der Donaustadt mit der."
 author: laura-weber
 image: "/images/blog/dating-regensburg-altstadt-guide.webp"
 imageAlt: "Dating Regensburg Altstadt Guide"
@@ -24,7 +24,7 @@ faq:
 
 ---
 
-# Dating in Regensburg: Liebe in der UNESCO-Altstadt
+## Dating in Regensburg: Liebe in der UNESCO-Altstadt
 
 Du suchst nach den perfekten Dating Ideen in Regensburg? Die wunderschöne Donaustadt mit ihrer UNESCO-geschützten Altstadt ist ein absoluter Geheimtipp für Singles, die sich verlieben möchten. Regensburg bietet eine einzigartige Mischung aus Geschichte, Kultur und romantischen Locations – perfekt für unvergessliche Dates. In diesem umfassenden Ratgeber zeigen wir dir die besten Orte, um dating regensburg auf höchstem Niveau zu erleben und neue Menschen zu treffen.
 

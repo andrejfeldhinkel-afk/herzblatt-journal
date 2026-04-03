@@ -22,7 +22,7 @@ faq:
     answer: "Verlieben ist ein komplexes System von Neurochemie (Dopamin, Oxytocin), Psychologie (Ähnlichkeit, Nähe, Respekt) und Evolutionsbiologie (Gesundheit, Stabilität, Kompatibilität)."
 ---
 
-# Die Psychologie der Anziehung: Was die Wissenschaft sagt
+## Die Psychologie der Anziehung: Was die Wissenschaft sagt
 
 Du sitzt einer Person gegenüber und plötzlich läuft es dir eiskalt den Rücken herunter. Dein Herz klopft schneller. Du kannst dich nicht konzentrieren. Was passiert gerade in deinem Gehirn? Ist das Liebe? Ist das bloße Lust? Ist das Anziehung? Und am wichtigsten: Kann man das verstehen oder bleibt es eines der großen Mysterien des menschlichen Lebens?
 

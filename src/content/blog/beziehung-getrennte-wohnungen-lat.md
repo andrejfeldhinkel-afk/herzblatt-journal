@@ -16,7 +16,7 @@ draft: false
 author: "laura-weber"
 ---
 
-# LAT-Beziehung: Living Apart Together – Die moderne Art zusammen zu sein
+## LAT-Beziehung: Living Apart Together – Die moderne Art zusammen zu sein
 
 "Aber ihr seid doch zusammen – warum lebt ihr nicht zusammen?" Diese Frage musst du wahrscheinlich ständig hören, wenn du in einer LAT-Beziehung bist. LAT – Living Apart Together. Du und dein Partner sind in einer festen, verbindlichen Beziehung, aber ihr habt separate Wohnungen. Und nein, das ist nicht zweitbeste. Nein, es ist nicht, weil die Beziehung zu schwach ist. Nein, es bedeutet nicht, dass etwas nicht stimmt.
 

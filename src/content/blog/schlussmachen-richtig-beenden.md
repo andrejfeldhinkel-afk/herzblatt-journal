@@ -20,7 +20,7 @@ faq:
     answer: "Es ist normal, sich traurig zu fühlen. Aber Schuld? Nein. Du darfst deine Beziehungen beenden, wenn sie nicht funktionieren. Das ist dein Recht. Das macht dich nicht zu einem schlechten Menschen."
 ---
 
-# Schlussmachen: So beendest du eine Beziehung respektvoll
+## Schlussmachen: So beendest du eine Beziehung respektvoll
 
 Schlussmachen ist einer der schwierigsten Dinge, die wir tun müssen. Es ist unbequem, es ist schmerzhaft, und es ist unfair für die andere Person. Aber manchmal ist es notwendig.
 

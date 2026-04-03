@@ -23,7 +23,7 @@ faq:
     answer: "Blockiere den Kontakt, speichere Beweise, melde den Account der Plattform, sprich mit jemandem über die emotionale Verletzung."
 ---
 
-# Catfishing erkennen: Wie Du Dich beim Online-Dating schützt
+## Catfishing erkennen: Wie Du Dich beim Online-Dating schützt
 
 Du schreibst mit jemandem. Ihre Fotos sind atemberaubend. Ihre Nachrichten sind witzig und engagiert. Ihr Profil ist perfekt – fast zu perfekt. Dann, nach Wochen des Chattens, erfindet diese Person Ausrede nach Ausrede, sich nicht zu treffen. „Mein Handy ist kaputt." „Ich bin auf Geschäftsreise." „Meine Kamera funktioniert nicht."
 

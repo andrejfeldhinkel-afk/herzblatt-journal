@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Frühling 2026: Dating-Trends und Tipps
+## Frühling 2026: Dating-Trends und Tipps
 
 Wir sind im März 2026. Der Winter ist endlich vorbei. Die Temperaturen steigen. Und der Dating-Markt ist explodiert.
 

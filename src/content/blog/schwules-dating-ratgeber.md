@@ -22,7 +22,7 @@ faq:
     answer: "Offene Beziehungen brauchen große Kommunikation, klare Grenzen und gegenseitiges Vertrauen. Wenn du eifersüchtig wirst oder Vertrauen einem Partner gegenüber nicht aufbringen kannst, bist du dafür vielleicht nicht bereit. Es ist okay, monogam zu sein – das ist nicht weniger LGBTQ+."
 ---
 
-# Schwules Dating: Der ultimative Ratgeber für schwule Männer
+## Schwules Dating: Der ultimative Ratgeber für schwule Männer
 
 Die Suche nach Liebe als schwuler Mann ist kein Spiel mit standardisierten Regeln. Dein Weg zur Partnerschaft verläuft anders als der von heterosexuellen Menschen – und das ist nicht nur okay, sondern auch eine Gelegenheit, authentischer zu sein. Dieser Guide nimmt dich an die Hand, wenn du verwirrt bist, dir Mut zusprichst, wenn du Angst hast, und dir praktische Werkzeuge in die Hand gibt, wenn du nicht weißt, wie es weitergeht.
 

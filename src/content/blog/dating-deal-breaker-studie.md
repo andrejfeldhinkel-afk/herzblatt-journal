@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Deal-Breaker: Was Männer vs. Frauen sagen
+## Deal-Breaker: Was Männer vs. Frauen sagen
 
 Die Forschung zeigt immer wieder: Männer und Frauen haben unterschiedliche Prioritäten beim Dating. Oder zumindest sagen sie das. Die wahre Frage ist nicht, was sie sagen, sondern warum sie das sagen und was das über die Dating-Kultur aussagt.
 

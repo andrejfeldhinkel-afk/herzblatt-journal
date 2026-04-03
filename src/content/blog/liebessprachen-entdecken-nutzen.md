@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Die 5 Liebessprachen entdecken und nutzen
+## Die 5 Liebessprachen entdecken und nutzen
 
 Du liebst deinen Partner. Das weißt du. Aber warum fühlt er/sie sich manchmal nicht geliebt? Und warum fühle ich mich nicht geliebt, wenn sie/er genau das macht, das ich liebe?
 

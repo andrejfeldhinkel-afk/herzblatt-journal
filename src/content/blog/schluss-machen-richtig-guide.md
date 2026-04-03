@@ -25,7 +25,7 @@ faq:
     answer: "Manchmal werden Freundschaften schwierig. Gib deinen Freunden Raum, ihre eigenen Grenzen zu haben. Manche werden neutral bleiben, andere wählen Seiten. Das ist Teil der Trennung."
 ---
 
-# Schluss machen: So beendest du eine Beziehung respektvoll
+## Schluss machen: So beendest du eine Beziehung respektvoll
 
 Schluss machen ist einer der schwierigsten Gespräche, die du führen wirst. Es gibt Schmerz. Es gibt Tränen. Es gibt möglicherweise Wut und Verwirrung. Aber manchmal ist es das Richtige, das Mutigste und sogar das Liebevollste, was du tun kannst. Nicht jede Beziehung ist darauf ausgelegt zu bleiben. Nicht jede Liebe wird mit der Zeit stärker. Es gibt Zeiten, in denen [verliebt](/blog/mann-verliebt-anzeichen-komplett) oder respektierst ihn nicht mehr
 - Du bleibst nur aus Angst vor Einsamkeit, aus Pflicht oder aus Schuldgefühl, nicht aus echter Liebe

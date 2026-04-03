@@ -21,7 +21,7 @@ faq:
     answer: "Marshall Rosenberg nutzt diese Metapher: Der Wolf ist Gewalt (verbal, emotional). Die Giraffe ist Gewaltfreiheit. Die Giraffe hat auch das größte Herz im Tierreich – die Metapher ist, dass echte Kraft in Empathie liegt, nicht in Gewalt. Es ist poetisch, aber auch praktisch."
 ---
 
-# Gewaltfreie Kommunikation für Paare – Die 4 Schritte zur Konfliktlösung
+## Gewaltfreie Kommunikation für Paare – Die 4 Schritte zur Konfliktlösung
 
 Es passiert immer wieder, oder?
 

@@ -25,7 +25,7 @@ faq:
     answer: "Konsistenz ist der beste Vertrauensbeweis. Kleine, wiederholte Handlungen sind überzeugender als große Versprechungen. Sei pünktlich, halte kleine Zusagen ein, sei ehrlich in schwierigen Gesprächen und zeige Geduld. Vertrauen wird langsam wiederaufgebaut, nicht durch dramatische Momente."
 ---
 
-# Beziehung nach der Sucht – Liebe in der Recovery aufbauen
+## Beziehung nach der Sucht – Liebe in der Recovery aufbauen
 
 Die Diagnose Sucht zerstört nicht nur das Leben des Betroffenen, sondern verwüstet auch Beziehungen. Lügen, Enttäuschungen, finanzielle Probleme und emotionales Verletztsein prägen jede Partnerschaft, in der Sucht eine Rolle spielt. Aber kann man nach solchen Verwüstungen wieder Liebe aufbauen? Ja – aber es braucht Ehrlichkeit, Geduld und vor allem eine neue Art, Beziehungen zu verstehen. Diese neue Art ist nicht romantischer oder einfacher – sie ist echter.
 

@@ -16,7 +16,7 @@ draft: false
 author: "laura-weber"
 ---
 
-# Jahrestag: Die besten Ideen & Überraschungen
+## Jahrestag: Die besten Ideen & Überraschungen
 
 Es ist ein Jahr verstrichen. Zwölf Monate zusammen. Ein Jahr voller Momente, Lachen, vielleicht auch ein paar Tränen. Und jetzt steht der Jahrestag an – dieser eine Tag, an dem ihr feiert, dass ihr zusammen seid.
 

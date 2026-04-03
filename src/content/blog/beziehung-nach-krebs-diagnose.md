@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Beziehung nach Krebs-Diagnose: Zusammenhalt in der Krise
+## Beziehung nach Krebs-Diagnose: Zusammenhalt in der Krise
 
 Eine Krebs-Diagnose zerstört nicht nur den Körper. Sie zerstört auch Pläne, Träume, das Vertrauen in die Zukunft. Und wenn du in einer Beziehung bist, zerstört sie auch die Dynamik dieser Beziehung.
 

@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Hochsensibel? Dating-App-Tipps für HSP
+## Hochsensibel? Dating-App-Tipps für HSP
 
 Du hast wahrscheinlich schon von "Highly Sensitive Person" (HSP) gehört. Oder vielleicht hat dich jemand als "zu sensitiv" bezeichnet. Vielleicht merkst du einfach, dass du intensiver reagierst auf Dinge als andere Menschen.
 

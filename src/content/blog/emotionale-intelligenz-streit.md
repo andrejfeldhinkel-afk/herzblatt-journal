@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Emotionale Intelligenz im Streit nutzen
+## Emotionale Intelligenz im Streit nutzen
 
 Der Streit beginnt, wie immer. Dein Partner sagt etwas, das dich triggert. Du antwortest mit Zorn. Dein Partner wird defensiv. Bevor ihr wisst, was passiert, schreit ihr sich an, sagt verletzende Dinge, und keiner von euch weiß mehr, wie das angefangen hat.
 

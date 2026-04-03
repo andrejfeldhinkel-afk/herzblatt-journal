@@ -21,7 +21,7 @@ faq:
     answer: "Nein. Manche Probleme wie fundamentale Wertekonflikte oder fehlende Anziehung lassen sich nicht reparieren. Der Schlüssel ist zu erkennen was lösbar ist."
 ---
 
-# Beziehungsprobleme lösen: Der umfassende Guide für eine stärkere Partnerschaft
+## Beziehungsprobleme lösen: Der umfassende Guide für eine stärkere Partnerschaft
 
 Jede Beziehung kennt schwierige Momente. Ob Kommunikationsprobleme, Eifersucht oder Streit über alltägliche Dinge – Konflikte sind völlig normal. Das Wichtigste ist, wie du mit ihnen umgehen lernst. In diesem Guide zeige ich dir die häufigsten Beziehungsprobleme und konkrete Strategien, um sie zu lösen.
 

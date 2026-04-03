@@ -24,7 +24,7 @@ faq:
     answer: "Ja, aber mit Bedacht. Nutze echte Fotos, schreib ehrlich über dich selbst, aber teile private Informationen (Adresse, Arbeitstelle) nicht sofort. Authentizität ist attraktiv — aber Sicherheit kommt zuerst."
 ---
 
-# Dating Apps 2026: Der komplette Vergleich — Welche passt WIRKLICH zu dir
+## Dating Apps 2026: Der komplette Vergleich — Welche passt WIRKLICH zu dir
 
 Stell dir vor: Du sitzt bei Tinder und swipest nach rechts. Und nach rechts. Und nach rechts.
 

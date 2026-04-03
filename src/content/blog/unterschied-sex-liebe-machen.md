@@ -1,6 +1,6 @@
 ---
 title: "Sex vs. Liebe machen: Gibt es einen Unterschied?"
-description: "Ist Sex nur Sex oder Liebe machen? Der Unterschied liegt nicht in den Bewegungen, sondern in der Absicht und Präsenz. Erfahre, was den Unterschied wirklich macht."
+description: "Ist Sex nur Sex oder Liebe machen? Der Unterschied liegt nicht in den Bewegungen, sondern in der Absicht und Präsenz."
 date: 2025-12-15
 image: "/images/photos/unterschied-sex-liebe-machen.webp"
 imageAlt: "Romantische Kerzenstimmung für Intimität"

@@ -23,7 +23,7 @@ faq:
     answer: "Vermeiden Sie oberflächliche Gesten, Wertschätzung nur in schwierigen Zeiten zu zeigen, oder selektive Wertschätzung basierend auf dem, was Ihr Partner für Sie tut."
 ---
 
-# Wertschätzung im Alltag zeigen: Kleine Gesten, große Wirkung
+## Wertschätzung im Alltag zeigen: Kleine Gesten, große Wirkung
 
 In den frühen Stadien einer Beziehung ist Wertschätzung leicht. Sie sind ständig bewusst, wie großartig die andere Person ist. Aber nach Monaten oder Jahren kann diese Wertschätzung zur Gewohnheit werden. Sie nehmen den Partner für selbstverständlich. Dies ist einer der schleichenden Gründe, warum Beziehungen auseinandergehen. In diesem Artikel erfahren Sie, wie Sie alltägliche Wertschätzung zeigen können.
 

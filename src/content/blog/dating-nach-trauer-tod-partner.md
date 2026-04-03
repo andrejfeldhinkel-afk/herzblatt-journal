@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Dating nach dem Tod des Partners: Liebe nach Trauer
+## Dating nach dem Tod des Partners: Liebe nach Trauer
 
 Der Tod eines Partners ist vielleicht das Schmerzhafteste, das jemand durchmachen kann. Es ist eine vollständige Verlust. Ein Auslöschen einer Zukunft, die du dir mit dieser Person vorgestellt hast. Und dann, irgendwann, fragst du dich: Werde ich jemals wieder daten können? Werde ich jemals wieder jemanden lieben können?
 

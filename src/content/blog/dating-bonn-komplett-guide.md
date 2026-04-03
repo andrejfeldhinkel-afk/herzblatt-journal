@@ -19,7 +19,7 @@ faq:
     answer: "Beide. Menschen, die zusammen intellektuelle Erfahrungen teilen, entwickeln tiefere emotionale Bindungen. Das ist Neurowissenschaft. Ein Museum-Date ist romantisch, wenn die Chemie passt. Es ist nicht unromantisch – es ist tiefromantisch."
 ---
 
-# Dating in Bonn: Beethoven und Schmetterlinge
+## Dating in Bonn: Beethoven und Schmetterlinge
 
 Bonn ist nicht die erste Stadt, die dir beim Wort "Dating" in den Sinn kommt. Das ist das Problem – und gleichzeitig die Chance. Bonn ist massiv unterschätzt als Dating-Stadt.
 

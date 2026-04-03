@@ -21,7 +21,7 @@ faq:
     answer: "Nein. Was anziehend wirkt, ist gesundes Selbstvertrauen gepaart mit Respekt. Unverschämtheit signalisiert fehlendes Selbstwertgefühl und mangelnde Rücksicht. Echte Sicherheit zeigt sich in Authentizität, nicht in Arroganz."
 ---
 
-# Dating für Männer: Der ehrliche Guide
+## Dating für Männer: Der ehrliche Guide
 
 Lass mich ehrlich mit dir sein: Die meisten Ratgeber zum Thema „Männer und Dating" sind Mist. Sie versprechen schnelle Tricks, Psychospiele und „Manipulations-Hacks", die angeblich jede Frau um den Finger wickeln. Einige berichten von „Pick-up Tricks", andere von „Negging" – also absichtlichen Beleidigungen, um Frauen unsicher zu machen.
 

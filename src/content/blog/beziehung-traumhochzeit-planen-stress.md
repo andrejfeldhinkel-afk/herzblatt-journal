@@ -20,7 +20,7 @@ faq:
     answer: "Das hängt von Ihrem Budget, Ihrer Zeit und Ihrem Stress ab. Ein Planer kann helfen, aber auch kostet. Viele Paare machen es selbst und nutzen Online-Tools statt."
 ---
 
-# Hochzeitsplanung ohne Beziehungsstress: Der Weg zur Traumhochzeit
+## Hochzeitsplanung ohne Beziehungsstress: Der Weg zur Traumhochzeit
 
 Sie haben sich verlobt. Die Aufregung ist überwältigend. Familie und Freunde gratulieren. Dann beginnt die Hochzeitsplanung, und Sie fragen sich plötzlich: "Warum kämpfen wir über Farben und Blumenarrangements?"
 

@@ -205,6 +205,13 @@ export default defineConfig({
     '/trauma-verarbeitung': { status: 301, destination: '/blog/trennung-verarbeiten-neuanfang' },
     '/toxische-beziehung-guide': { status: 301, destination: '/blog/toxische-beziehung-komplett-guide' },
     '/werte-basiertes-dating': { status: 301, destination: '/blog/werte-basiertes-dating' },
+    // Duplicate title redirects
+    '/blog/beziehungspause-sinnvoll-regeln': { status: 301, destination: '/blog/beziehungspause-sinnvoll' },
+    '/blog/dating-als-alleinerziehend': { status: 301, destination: '/blog/dating-alleinerziehend-kompletter-leitfaden' },
+    '/blog/dating-als-introvertierter-mann-guide': { status: 301, destination: '/blog/dating-introvertierte-maenner' },
+    '/blog/dating-als-schuechterne-frau': { status: 301, destination: '/blog/dating-tipps-fuer-schuechterne-frauen' },
+    '/blog/ghosting-umgehen': { status: 301, destination: '/blog/ghosting-komplett-guide' },
+    '/blog/dating-introvertiert-extrovertiert': { status: 301, destination: '/blog/dating-introvertiert-extrovertiert-paar-guide' },
   },
   compressHTML: true,
   build: {

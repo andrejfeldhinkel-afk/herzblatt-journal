@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Dating nach dem Studium: Neue Spielregeln
+## Dating nach dem Studium: Neue Spielregeln
 
 Während deines Studiums war Dating relativ einfach. Du wurdest umgeben von Menschen deines Alters. Dein Umfeld war immer da. Es gab Parties, Veranstaltungen, Gelegenheiten, Menschen zu treffen. Die Chancen waren überall.
 

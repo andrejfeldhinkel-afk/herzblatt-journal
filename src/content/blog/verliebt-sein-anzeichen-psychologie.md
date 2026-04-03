@@ -24,7 +24,7 @@ faq:
     answer: "Das ist möglich, aber nicht immer wahrscheinlich. Eine Person kann schneller verliebt sein als die andere. Das kann zu Imbalance in der Beziehung führen. Es erfordert Kommunikation und Geduld."
 ---
 
-# Verliebt sein: Die 25+ Anzeichen, die Neurochemie und die Wahrheit
+## Verliebt sein: Die 25+ Anzeichen, die Neurochemie und die Wahrheit
 
 Lass mich gleich ehrlich mit dir sein: Verliebtsein ist einer der intensivsten Zustände, die der menschliche Körper erleben kann. Es ist nicht nur eine Emotion. Es ist eine neurochemische Explosion, ein hormonales Feuerwerk, eine vorübergehende Wahnsinn, die dein ganzes System übernimmt.
 
@@ -1033,5 +1033,5 @@ Das ist das Ziel: Nicht eine Welt ohne Verliebtheit. Sondern eine Welt, in der w
 ## Weitere Ressourcen
 
 - [Liebeskummer überwinden: Ein praktischer Leitfaden](/blog/liebeskummer-ueberwinden-schnell/)
-- [Red Flags in neuen Beziehungen erkennen](/blog/red-flags-beziehung/)
-- [Emotionale Verfügbarkeit: Was es bedeutet und warum es wichtig ist](/blog/emotionale-verfuegbarkeit/)
+- [Red Flags in neuen Beziehungen erkennen](/blog/red-flags-erkennen)
+- [Emotionale Verfügbarkeit: Was es bedeutet und warum es wichtig ist](/blog/emotionale-verfuegbarkeit-dating)

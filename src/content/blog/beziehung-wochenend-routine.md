@@ -16,7 +16,7 @@ draft: false
 author: "sarah-kellner"
 ---
 
-# Wochenend-Routinen für Paare: Wie du Qualität schaffst, nicht nur Zeit zusammen
+## Wochenend-Routinen für Paare: Wie du Qualität schaffst, nicht nur Zeit zusammen
 
 Die Woche ist stressig. Ihr seht euch morgens, wenn ihr beide halbwach seid, und abends, wenn ihr beide ausgelaugt sind. Ihr scrollt auf euren Telefonen. Ihr seid physisch zusammen, aber emotional getrennt. Und dann kommt das Wochenende, und ihr beide fragt euch, wie ihr eure Zeit verbringen sollt.
 

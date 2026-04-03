@@ -20,7 +20,7 @@ faq:
     answer: "Ja, es ist möglich. Manche Menschen sind zu blind vor Erwartungen oder zu sehr mit sich selbst beschäftigt, um die Zeichen zu sehen. Deshalb ist Achtsamkeit so wichtig."
 ---
 
-# Seelenpartner-Zeichen erkennen: So findest du deine Bestimmung
+## Seelenpartner-Zeichen erkennen: So findest du deine Bestimmung
 
 Hast du dich schon mal gefühlt, als würdest du jemanden schon ewig kennen, obwohl ihr gerade erst aufeinander getroffen seid? Oder hattest du das untrügliche Gefühl, dass eine Person etwas ganz Besonderes für dich ist? Dann könnten dies Anzeichen dafür sein, dass du deinen Seelenpartner gefunden hast. In diesem Artikel zeige ich dir sieben sichere Zeichen, die darauf hindeuten, dass du mit deinem Seelenverwandten zusammen bist.
 

@@ -22,7 +22,7 @@ faq:
     answer: "Nein. Mehr Geld bedeutet nicht mehr Stimmen in einer Partnerschaft. Eine echte Partnerschaft ist Stimme geben beide Menschen. Geld ist nur Geld. Ihr Wert als Person und dein Gewicht in Entscheidungen ist nicht tied zu deinem Gehalt."
 ---
 
-# Wenn einer mehr verdient – Geld und Macht in der Beziehung
+## Wenn einer mehr verdient – Geld und Macht in der Beziehung
 
 Geld ist einer der führenden Verursacher von Beziehungstrennungen. Es ist nicht einmal nah.
 

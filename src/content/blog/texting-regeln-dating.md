@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Texting-Regeln beim Dating: Dein Guide für digitale Flirtkunst
+## Texting-Regeln beim Dating: Dein Guide für digitale Flirtkunst
 
 Du hast die Nummer bekommen – oder ihr folgt euch in den sozialen Medien. Jetzt geht's los mit der digitalen Kommunikation, und plötzlich stehen tausend Fragen im Raum: Wie lange warte ich mit der ersten Nachricht? Sind Emojis zu viel? Wirken Sprachnachrichten creepy? Wie viele Sätze sind noch normal, bevor es obsessiv wirkt?
 

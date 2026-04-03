@@ -16,7 +16,7 @@ draft: false
 author: "markus-hoffmann"
 ---
 
-# Slow Dating: Achtsam Liebe finden im Zeitalter der Schnelligkeit
+## Slow Dating: Achtsam Liebe finden im Zeitalter der Schnelligkeit
 
 Slow Dating ist ein Trend, der mit Fast Dating in opposition steht. Das ist, nicht nur schnell zu swipen und zu spielen. Das ist, sich Zeit zu nehmen. Das ist, langsam kennenzulernen. Das ist, nicht zu sagen, dass du liebst, bevor du wirklich jemanden kennst.
 

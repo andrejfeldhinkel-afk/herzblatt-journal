@@ -23,7 +23,7 @@ faq:
     answer: "Ja, aber beide Partner müssen bereit sein, zu lernen, zu wachsen und Kompromisse einzugehen."
 ---
 
-# Beziehung nach Kulturwechsel: Herausforderungen meistern
+## Beziehung nach Kulturwechsel: Herausforderungen meistern
 
 Du bist nach Berlin gezogen und dein/deine Partner ist Japaner/in. Oder du bist nach Bangkok gezogen und dein Partner ist Deutsch. Oder irgendeine andere Konstellation.
 

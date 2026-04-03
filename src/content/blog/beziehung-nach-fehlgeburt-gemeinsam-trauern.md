@@ -26,7 +26,7 @@ faq:
     answer: "'Sprecht darüber. Nicht mit Vorwürfen, sondern mit Verständnis. Vielleicht braucht einer psychologische Hilfe, um das Tempo des anderen zu verstehen.'"
 ---
 
-# Beziehung nach Fehlgeburt: Gemeinsam trauern und heilen
+## Beziehung nach Fehlgeburt: Gemeinsam trauern und heilen
 
 Eine Fehlgeburt ist eines der großen, ungesprochenen Traumata unserer Zeit. Paare gehen oft allein damit um. Freunde wissen nicht, was sie sagen sollen. Die Gesellschaft tut so, als wäre es nicht real, weil das Baby nicht geboren wurde.
 
