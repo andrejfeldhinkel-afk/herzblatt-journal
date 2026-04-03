@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Introvertiert liebt Extrovertiert"
 description: "Introvertiert liebt Extrovertiert: Wie Introvertierte und Extrovertierte zusammenpassen und harmonische Beziehungen führen — praktische Tipps."
 date: 2025-05-22

@@ -7,6 +7,7 @@ tags:
   - "beziehung"
   - "intimität"
   - "nähe"
+draft: true
 ---
 
 Emotionale Intimität ist das Fundament jeder erfüllenden [beziehung](/blog/adhs-und-beziehung-komplett-guide/). Während körperliche Nähe wichtig ist, ist es die emotionale Verbindung, die eine Beziehung wirklich fest macht. Doch wie baust du diese unsichtbare, aber so kraftvolle Nähe auf?
