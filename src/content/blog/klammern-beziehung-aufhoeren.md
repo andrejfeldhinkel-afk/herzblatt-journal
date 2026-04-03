@@ -1,5 +1,5 @@
 ---
-title: "Klammern in der Beziehung: Wie du aufhörst und wieder frei atmest"
+title: "Klammern in der Beziehung: Wie du aufhörst"
 description: "Klammern aufhören: Warum du dich klammern, wie es deine Beziehung zerstört und konkrete Schritte, um wieder unabhängig zu sein."
 date: 2026-04-03
 tags:

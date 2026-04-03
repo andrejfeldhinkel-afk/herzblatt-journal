@@ -1,5 +1,5 @@
 ---
-title: "Dating Apps 2026: Der komplette Vergleich + welche passt zu dir"
+title: "Dating Apps 2026: Der komplette Vergleich"
 description: "Dating App Vergleich 2026: Tinder, Bumble, Hinge, Parship, ElitePartner & mehr. Features, Kosten, für wen geeignet, Vor/Nachteile, praktische Tipps."
 date: 2026-04-03
 tags:

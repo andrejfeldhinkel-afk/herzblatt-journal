@@ -1,5 +1,5 @@
 ---
-title: "Typisches Verhalten nach Fremdgehen: 20+ Warnsignale erkennen"
+title: "Typisches Verhalten nach Fremdgehen: Warnsignale"
 description: "Typisches verhalten nach fremdgehen erkannt: 20+ Verhaltensänderungen, psychologische Hintergründe und wie du damit umgehen."
 date: 2026-04-03
 tags:

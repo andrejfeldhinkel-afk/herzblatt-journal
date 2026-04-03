@@ -1,5 +1,5 @@
 ---
-title: "Scheidung einreichen: Der komplette Schritt-für-Schritt-Ablauf"
+title: "Scheidung einreichen: Schritt-für-Schritt-Ablauf"
 description: "Scheidung einreichen: Kompletter Ablauf, Voraussetzungen, Trennungsjahr, Dokumente, Kosten, Dauer. Online-Scheidung, Anwalt finden, Kinder regeln."
 date: 2026-04-03
 tags:

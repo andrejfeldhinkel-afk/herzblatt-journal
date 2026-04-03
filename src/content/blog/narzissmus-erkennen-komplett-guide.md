@@ -1,5 +1,5 @@
 ---
-title: "Narzissmus erkennen: Der vollständige Guide für echte Narzissten"
+title: "Narzissmus erkennen: Der vollständige Guide"
 description: "Narzissmus erkennen: Unterschied zur Eigenliebe, 5 Typen, 25+ Anzeichen und wie du mit Narzissten umgehen kannst. Psychologischer Tiefgang."
 date: 2026-04-03
 tags:

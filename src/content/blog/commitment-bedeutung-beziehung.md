@@ -1,5 +1,5 @@
 ---
-title: "Commitment: Was es wirklich bedeutet und warum du es brauchst"
+title: "Commitment: Was es bedeutet und warum du es brauchst"
 description: "Commitment bedeutung: Definition, warum Angst davor entsteht, Commitment-Phobie, Zeichen für echtes Commitment und wie man es aufbaut."
 date: 2026-04-03
 tags:
