@@ -1,24 +1,33 @@
 # build output
 dist/
-# generated types
 .astro/
 
 # dependencies
 node_modules/
 
 # logs
+*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
-
+logs/
 
 # environment variables
 .env
-.env.production
+.env.*
 
-# macOS-specific files
+# runtime data (API endpoints write here)
+data/
+newsletter-subscribers.json
+
+# macOS
 .DS_Store
 
-# jetbrains setting folder
+# IDE
 .idea/
+
+# backup files
+*.bak
+*.tw
+*.orig
