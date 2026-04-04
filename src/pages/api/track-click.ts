@@ -6,6 +6,14 @@ import path from 'node:path';
 
 const DATA_FILE = path.join(process.cwd(), 'data', 'clicks.json');
 
+// Allowed site names (whitelist approach)
+const ALLOWED_SITES = new Set([
+  'parship', 'elitepartner', 'lovescout24', 'edarling', 'bumble',
+  'tinder', 'hinge', 'okcupid', 'happn', 'badoo', 'finya',
+  'lovepoint', 'c-date', 'joyclub', 'secret', 'ashley-madison',
+  'once', 'zoosk', 'match', 'plenty-of-fish', 'xloves',
+]);
+
 function ensureDataDir() {
   const dir = path.dirname(DATA_FILE);
   if (!fs.existsSync(dir)) {
@@ -31,16 +39,23 @@ function writeClicks(data: Record<string, number>) {
 // POST: Track a click
 export const POST: APIRoute = async ({ request }) => {
   try {
-    const { site } = await request.json();
-    if (!site || typeof site !== 'string') {
-      return new Response(JSON.stringify({ error: 'Missing site parameter' }), { status: 400 });
+    const body = await request.json();
+    const site = typeof body.site === 'string' ? body.site.trim().toLowerCase() : '';
+
+    if (!site || site.length > 50) {
+      return new Response(JSON.stringify({ error: 'Invalid site parameter' }), { status: 400 });
+    }
+
+    // Sanitize: only allow alphanumeric + hyphens
+    if (!/^[a-z0-9-]+$/.test(site)) {
+      return new Response(JSON.stringify({ error: 'Invalid site parameter' }), { status: 400 });
     }
 
     const clicks = readClicks();
     clicks[site] = (clicks[site] || 0) + 1;
     writeClicks(clicks);
 
-    return new Response(JSON.stringify({ success: true, clicks: clicks[site] }), {
+    return new Response(JSON.stringify({ success: true }), {
       status: 200,
       headers: { 'Content-Type': 'application/json' },
     });
@@ -49,15 +64,10 @@ export const POST: APIRoute = async ({ request }) => {
   }
 };
 
-// GET: Read current click counts
+// GET is blocked by middleware — no click data exposure
 export const GET: APIRoute = async () => {
-  try {
-    const clicks = readClicks();
-    return new Response(JSON.stringify(clicks), {
-      status: 200,
-      headers: { 'Content-Type': 'application/json' },
-    });
-  } catch {
-    return new Response(JSON.stringify({}), { status: 200 });
-  }
+  return new Response(JSON.stringify({ error: 'Not allowed' }), {
+    status: 403,
+    headers: { 'Content-Type': 'application/json' },
+  });
 };

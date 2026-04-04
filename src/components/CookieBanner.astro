@@ -15,7 +15,7 @@
       </div>
       <div class="flex gap-2 shrink-0">
         <button
-          onclick="localStorage.setItem('cookies-accepted','1'); document.getElementById('cookie-banner').style.display='none';"
+          onclick="localStorage.setItem('cookies-accepted','1'); document.getElementById('cookie-banner').style.display='none'; window.dispatchEvent(new Event('cookies-accepted'));"
           class="px-5 py-2.5 rounded-full text-xs font-semibold text-white transition-all hover:opacity-90"
           style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700));"
         >

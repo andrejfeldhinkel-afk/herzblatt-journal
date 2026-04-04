@@ -1,5 +1,32 @@
 import { defineMiddleware } from 'astro:middleware';
 
+// ─── Rate Limiter (in-memory, per IP) ───────────────────────────
+const rateLimitMap = new Map<string, { count: number; resetAt: number }>();
+const RATE_LIMIT_WINDOW = 60_000; // 1 minute
+const RATE_LIMIT_MAX = 15; // max 15 POST requests per minute per IP
+
+function isRateLimited(ip: string): boolean {
+  const now = Date.now();
+  const entry = rateLimitMap.get(ip);
+
+  if (!entry || now > entry.resetAt) {
+    rateLimitMap.set(ip, { count: 1, resetAt: now + RATE_LIMIT_WINDOW });
+    return false;
+  }
+
+  entry.count++;
+  return entry.count > RATE_LIMIT_MAX;
+}
+
+// Clean up stale entries every 5 minutes to prevent memory leak
+setInterval(() => {
+  const now = Date.now();
+  for (const [ip, entry] of rateLimitMap) {
+    if (now > entry.resetAt) rateLimitMap.delete(ip);
+  }
+}, 5 * 60_000);
+
+// ─── Redirects ──────────────────────────────────────────────────
 const redirects: Record<string, string> = {
   '/blog/dating-mit-kindern': '/blog/dating-mit-kind',
   '/blog/online-dating-sicherheit-tipps': '/blog/online-dating-sicherheit',
@@ -50,12 +77,48 @@ const redirects: Record<string, string> = {
   '/blog/beziehung-introvertiert-extrovertiert': '/blog/dating-introvertiert-extrovertiert-paar-guide',
 };
 
-export const onRequest = defineMiddleware(async ({ request, redirect }, next) => {
+// ─── Blocked GET endpoints (prevent data exposure) ──────────────
+const blockedGetPaths = new Set([
+  '/api/newsletter',   // would expose subscriber count
+  '/api/pageview',     // would expose all pageview data
+  '/api/track-click',  // would expose all click data
+]);
+
+export const onRequest = defineMiddleware(async (context, next) => {
+  const { request, redirect } = context;
   const url = new URL(request.url);
   const path = url.pathname.replace(/\/$/, '') || '/';
 
+  // ─── Redirects ─────────────────────────────────────────────
   if (redirects[path]) {
     return redirect(redirects[path], 301);
+  }
+
+  // ─── Rate limiting on POST /api/* ──────────────────────────
+  if (request.method === 'POST' && path.startsWith('/api/')) {
+    // clientAddress may not be available on prerendered routes — use header fallback
+    let ip = 'unknown';
+    try { ip = context.clientAddress || ip; } catch {}
+    if (ip === 'unknown') {
+      ip = request.headers.get('x-forwarded-for')?.split(',')[0]?.trim() || 'unknown';
+    }
+    if (isRateLimited(ip)) {
+      return new Response(JSON.stringify({ error: 'Zu viele Anfragen. Bitte warte einen Moment.' }), {
+        status: 429,
+        headers: {
+          'Content-Type': 'application/json',
+          'Retry-After': '60',
+        },
+      });
+    }
+  }
+
+  // ─── Block GET on sensitive API endpoints ──────────────────
+  if (request.method === 'GET' && blockedGetPaths.has(path)) {
+    return new Response(JSON.stringify({ error: 'Not allowed' }), {
+      status: 403,
+      headers: { 'Content-Type': 'application/json' },
+    });
   }
 
   const response = await next();
@@ -65,25 +128,38 @@ export const onRequest = defineMiddleware(async ({ request, redirect }, next) =>
     return redirect('/tags/', 302);
   }
 
-  // Clone response and add security headers
+  // ─── Security Headers (all responses) ──────────────────────
   const newHeaders = new Headers(response.headers);
-  newHeaders.set('X-Frame-Options', 'SAMEORIGIN');
   newHeaders.set('X-Content-Type-Options', 'nosniff');
-  newHeaders.set('Referrer-Policy', 'strict-origin-when-cross-origin');
-  newHeaders.set('Permissions-Policy', 'camera=(), microphone=(), geolocation=()');
-  newHeaders.set('Strict-Transport-Security', 'max-age=31536000; includeSubDomains');
+  newHeaders.set('X-Frame-Options', 'SAMEORIGIN');
   newHeaders.set('X-XSS-Protection', '1; mode=block');
+  newHeaders.set('Referrer-Policy', 'strict-origin-when-cross-origin');
+  newHeaders.set('Permissions-Policy', 'camera=(), microphone=(), geolocation=(), payment=()');
+  newHeaders.set('Strict-Transport-Security', 'max-age=31536000; includeSubDomains');
 
+  // ─── Content Security Policy (HTML only) ───────────────────
   const ct = response.headers.get('content-type') || '';
+  if (ct.includes('text/html')) {
+    newHeaders.set('Content-Security-Policy',
+      "default-src 'self'; " +
+      "script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; " +
+      "style-src 'self' 'unsafe-inline'; " +
+      "img-src 'self' data: https: blob:; " +
+      "font-src 'self'; " +
+      "connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://be.xloves.com; " +
+      "frame-ancestors 'none'; " +
+      "base-uri 'self'; " +
+      "form-action 'self';"
+    );
+    // Cache HTML for 1 hour, serve stale for 24h while revalidating
+    newHeaders.set('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400');
+  }
 
-  // Cache static assets aggressively (images, CSS, JS, fonts)
+  // ─── Cache static assets aggressively ──────────────────────
   if (ct.includes('image/') || ct.includes('font/') || path.match(/\.(webp|jpg|jpeg|png|gif|svg|ico|woff2?|ttf|eot)$/i)) {
     newHeaders.set('Cache-Control', 'public, max-age=31536000, immutable');
   } else if (ct.includes('text/css') || ct.includes('application/javascript') || path.match(/\.(css|js)$/i)) {
     newHeaders.set('Cache-Control', 'public, max-age=31536000, immutable');
-  } else if (ct.includes('text/html')) {
-    // Cache HTML for 1 hour, serve stale for 24h while revalidating
-    newHeaders.set('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400');
   }
 
   return new Response(response.body, {

@@ -31,10 +31,24 @@ function writeData(data: PageviewData) {
   fs.writeFileSync(DATA_FILE, JSON.stringify(data, null, 2));
 }
 
+// Validate path: must start with /, max 500 chars, only valid URL characters
+function isValidPath(p: unknown): p is string {
+  if (typeof p !== 'string') return false;
+  if (p.length === 0 || p.length > 500) return false;
+  if (!p.startsWith('/')) return false;
+  // Block path traversal
+  if (p.includes('..') || p.includes('//')) return false;
+  return /^[a-zA-Z0-9\-_/.]+$/.test(p);
+}
+
 export const POST: APIRoute = async ({ request }) => {
   try {
-    const { path: pagePath } = await request.json();
-    if (!pagePath) return new Response('{}', { status: 200 });
+    const body = await request.json();
+    const pagePath = body.path;
+
+    if (!isValidPath(pagePath)) {
+      return new Response(JSON.stringify({ error: 'Invalid path' }), { status: 400 });
+    }
 
     const data = readData();
     const today = new Date().toISOString().slice(0, 10);
@@ -50,6 +64,8 @@ export const POST: APIRoute = async ({ request }) => {
     }
 
     writeData(data);
+
+    // Only return aggregate counts, not per-page data
     return new Response(JSON.stringify({ total: data.total, todayCount: data.todayCount }), {
       status: 200,
       headers: { 'Content-Type': 'application/json' },
@@ -59,10 +75,10 @@ export const POST: APIRoute = async ({ request }) => {
   }
 };
 
+// GET is blocked by middleware — no pageview data exposure
 export const GET: APIRoute = async () => {
-  const data = readData();
-  return new Response(JSON.stringify(data), {
-    status: 200,
+  return new Response(JSON.stringify({ error: 'Not allowed' }), {
+    status: 403,
     headers: { 'Content-Type': 'application/json' },
   });
 };

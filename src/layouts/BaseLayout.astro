@@ -221,24 +221,30 @@ const faqSchema = faq.length > 0 ? {
     /* Enable body transition only after page load */
     body.loaded { transition: background-color 0.3s ease, color 0.3s ease; }
   </style>
-    <!-- Google Analytics 4 (deferred for PageSpeed) -->
+    <!-- Google Analytics 4 (DSGVO-konform: nur nach Cookie-Consent) -->
   <script is:inline>
-    // Load GA after page is interactive
-    window.addEventListener('load', function() {
-      setTimeout(function() {
-        var s = document.createElement('script');
-        s.src = 'https://www.googletagmanager.com/gtag/js?id=G-F3NFZBPW82';
-        s.async = true;
-        document.head.appendChild(s);
-        s.onload = function() {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          window.gtag = gtag;
-          gtag('js', new Date());
-          gtag('config', 'G-F3NFZBPW82');
-        };
-      }, 2000);
-    });
+    // GA only loads AFTER user accepts cookies (GDPR/DSGVO compliant)
+    function loadGA() {
+      if (window._gaLoaded) return;
+      window._gaLoaded = true;
+      var s = document.createElement('script');
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=G-F3NFZBPW82';
+      s.async = true;
+      document.head.appendChild(s);
+      s.onload = function() {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        window.gtag = gtag;
+        gtag('js', new Date());
+        gtag('config', 'G-F3NFZBPW82', { anonymize_ip: true });
+      };
+    }
+    // If consent already given, load GA after page load
+    if (localStorage.getItem('cookies-accepted') === '1') {
+      window.addEventListener('load', function() { setTimeout(loadGA, 1000); });
+    }
+    // Listen for consent event (fired by cookie banner)
+    window.addEventListener('cookies-accepted', loadGA);
   </script>
 </head>
 <body class="min-h-screen flex flex-col">

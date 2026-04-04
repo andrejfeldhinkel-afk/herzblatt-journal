@@ -6,6 +6,9 @@ import path from 'node:path';
 
 const SUBS_FILE = path.join(process.cwd(), 'newsletter-subscribers.json');
 
+// Proper email validation regex (RFC 5322 simplified)
+const EMAIL_REGEX = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*\.[a-zA-Z]{2,}$/;
+
 function getSubscribers(): string[] {
   if (!fs.existsSync(SUBS_FILE)) return [];
   try {
@@ -19,10 +22,20 @@ function saveSubscribers(subs: string[]) {
 
 export const POST: APIRoute = async ({ request }) => {
   try {
-    const body = await request.json();
-    const email = body.email?.trim()?.toLowerCase();
+    // Validate content type
+    const contentType = request.headers.get('content-type') || '';
+    if (!contentType.includes('application/json')) {
+      return new Response(JSON.stringify({ success: false, message: 'Invalid content type.' }), {
+        status: 400,
+        headers: { 'Content-Type': 'application/json' },
+      });
+    }
 
-    if (!email || !email.includes('@') || !email.includes('.')) {
+    const body = await request.json();
+    const email = typeof body.email === 'string' ? body.email.trim().toLowerCase() : '';
+
+    // Validate email format
+    if (!email || email.length > 254 || !EMAIL_REGEX.test(email)) {
       return new Response(JSON.stringify({ success: false, message: 'Bitte gib eine gültige E-Mail-Adresse ein.' }), {
         status: 400,
         headers: { 'Content-Type': 'application/json' },
@@ -52,10 +65,10 @@ export const POST: APIRoute = async ({ request }) => {
   }
 };
 
+// GET is blocked by middleware — no subscriber count exposure
 export const GET: APIRoute = async () => {
-  const subs = getSubscribers();
-  return new Response(JSON.stringify({ count: subs.length }), {
-    status: 200,
+  return new Response(JSON.stringify({ error: 'Not allowed' }), {
+    status: 403,
     headers: { 'Content-Type': 'application/json' },
   });
 };
