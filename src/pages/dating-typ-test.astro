@@ -1,13 +1,11 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 
-const title = 'Dating-Typ Test – Finde deinen Liebes-Persönlichkeitstyp';
-const description = 'Entdecke deinen Dating-Persönlichkeitstyp mit unserem unterhaltsamen Quiz. 10 Fragen, 6 einzigartige Ergebnisse. Kostenlos!';
+const title = "Dating-Typ Test – Finde deinen Liebes-Persönlichkeitstyp";
+const description = "Entdecke deinen Dating-Persönlichkeitstyp mit unserem unterhaltsamen Quiz. 10 Fragen, 6 einzigartige Ergebnisse. Kostenlos!";
 ---
 
-<BaseLayout title={title} description={description} keywords={['Dating Test', 'Persönlichkeitstyp', 'Dating Quiz', 'Liebes Quiz', 'Beziehungen']}>
-
-  <!-- Schema.org Quiz -->
+<BaseLayout title={title} description={description}>
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "Quiz",
@@ -17,165 +15,982 @@ const description = 'Entdecke deinen Dating-Persönlichkeitstyp mit unserem unte
     "author": { "@type": "Organization", "name": "Herzblatt Journal" }
   })} />
 
+  <style>
+    :root {
+      --color-primary-500: #f43f5e;
+      --color-primary-600: #e11d48;
+      --color-primary-700: #be184d;
+      --color-primary-50: #fff1f5;
+      --color-primary-100: #ffe4e9;
+      --color-primary-200: #ffd1d9;
+      --color-neutral-50: #fafaf9;
+      --color-neutral-100: #f5f5f4;
+      --color-neutral-200: #e7e5e4;
+      --color-neutral-300: #d6d3d1;
+      --color-neutral-400: #a8a29e;
+      --color-neutral-500: #78716b;
+      --color-neutral-600: #57534e;
+      --color-neutral-700: #44403c;
+      --color-neutral-900: #1c1917;
+      --bg-soft: #f5f5f4;
+      --border: #e7e5e4;
+      --text-primary: #1c1917;
+      --text-secondary: #78716b;
+      --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+      --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+      --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      color: var(--text-primary);
+    }
+
+    body {
+      background: white;
+    }
+
+    /* Quiz Container */
+    .quiz-container {
+      max-width: 48rem;
+      margin: 0 auto;
+      padding: 3rem 1rem;
+    }
+
+    .quiz-header {
+      text-align: center;
+      margin-bottom: 3rem;
+    }
+
+    .quiz-header h1 {
+      font-size: 1.875rem;
+      font-weight: 700;
+      margin-bottom: 0.75rem;
+      line-height: 1.2;
+    }
+
+    .quiz-header p {
+      font-size: 1.125rem;
+      color: var(--text-secondary);
+    }
+
+    .quiz-progress {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 2rem;
+      gap: 1rem;
+    }
+
+    .progress-bar {
+      flex: 1;
+      height: 4px;
+      background: var(--border);
+      border-radius: 9999px;
+      overflow: hidden;
+    }
+
+    .progress-fill {
+      height: 100%;
+      background: var(--color-primary-500);
+      width: 10%;
+      transition: width 0.3s ease;
+    }
+
+    .progress-text {
+      font-size: 0.875rem;
+      font-weight: 600;
+      color: var(--text-secondary);
+      white-space: nowrap;
+    }
+
+    .question-box {
+      background: var(--color-neutral-50);
+      border: 1px solid var(--border);
+      border-radius: 1rem;
+      padding: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    .question-title {
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin-bottom: 1.5rem;
+    }
+
+    .answers-grid {
+      display: grid;
+      gap: 1rem;
+    }
+
+    .answer-btn {
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+      padding: 1.25rem;
+      background: white;
+      border: 2px solid var(--border);
+      border-radius: 0.75rem;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      text-align: left;
+      font-size: 1rem;
+      font-family: inherit;
+    }
+
+    .answer-btn:hover {
+      border-color: var(--color-primary-500);
+      background: var(--color-primary-50);
+    }
+
+    .answer-icon {
+      font-size: 1.5rem;
+      flex-shrink: 0;
+      line-height: 1;
+    }
+
+    .answer-text {
+      flex: 1;
+    }
+
+    /* Result Container */
+    .result-container {
+      display: grid;
+      gap: 3rem;
+    }
+
+    .result-header {
+      background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600));
+      color: white;
+      border-radius: 1.5rem;
+      padding: 3rem 2rem;
+      text-align: center;
+    }
+
+    .result-emoji {
+      font-size: 4rem;
+      margin-bottom: 1rem;
+    }
+
+    .result-type {
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      opacity: 0.8;
+      margin-bottom: 0.5rem;
+    }
+
+    .result-name {
+      font-size: 2.25rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
+
+    .result-subtitle {
+      font-size: 1.125rem;
+      opacity: 0.9;
+    }
+
+    .result-description {
+      background: var(--color-neutral-50);
+      border: 1px solid var(--border);
+      border-radius: 1rem;
+      padding: 2rem;
+      line-height: 1.7;
+      font-size: 1.0625rem;
+      color: var(--text-primary);
+    }
+
+    .top-recommendation {
+      background: linear-gradient(135deg, var(--color-primary-500) 0%, var(--color-primary-600) 100%);
+      border-radius: 1.5rem;
+      padding: 2rem;
+      color: white;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .top-recommendation::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      right: -10%;
+      width: 300px;
+      height: 300px;
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 50%;
+      pointer-events: none;
+    }
+
+    .top-rec-content {
+      position: relative;
+      z-index: 1;
+    }
+
+    .top-rec-label {
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      opacity: 0.8;
+      margin-bottom: 1rem;
+    }
+
+    .top-rec-card {
+      background: rgba(255, 255, 255, 0.15);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: 1rem;
+      padding: 1.5rem;
+      display: grid;
+      gap: 1.5rem;
+    }
+
+    .top-rec-logo-box {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .top-rec-logo {
+      height: 56px;
+      width: auto;
+      max-width: 100px;
+      object-fit: contain;
+      filter: brightness(10);
+    }
+
+    .top-rec-info h4 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
+
+    .top-rec-rating {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .top-rec-rating-num {
+      font-weight: 700;
+      font-size: 1.125rem;
+    }
+
+    .top-rec-desc {
+      font-size: 0.9375rem;
+      line-height: 1.6;
+      opacity: 0.95;
+      margin-bottom: 1.5rem;
+    }
+
+    .top-rec-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: white;
+      color: var(--color-primary-500);
+      padding: 0.875rem 1.5rem;
+      border-radius: 0.5rem;
+      font-weight: 600;
+      cursor: pointer;
+      border: none;
+      font-size: 0.9375rem;
+      transition: all 0.2s ease;
+      text-decoration: none;
+    }
+
+    .top-rec-btn:hover {
+      background: var(--color-primary-50);
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    }
+
+    /* Site Cards */
+    .other-sites-label {
+      font-size: 1.25rem;
+      font-weight: 700;
+      margin-bottom: 1.5rem;
+      color: var(--text-primary);
+    }
+
+    .sites-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1rem;
+    }
+
+    @media (min-width: 640px) {
+      .sites-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    @media (min-width: 1024px) {
+      .sites-grid {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+
+    .site-card {
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: 0.75rem;
+      padding: 1.25rem;
+      transition: all 0.2s ease;
+      cursor: pointer;
+      text-decoration: none;
+      color: inherit;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+    }
+
+    .site-card:hover {
+      border-color: var(--color-primary-500);
+      box-shadow: var(--shadow-md);
+      transform: translateY(-2px);
+    }
+
+    .site-card-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 0.75rem;
+      margin-bottom: 1rem;
+    }
+
+    .site-card-logo {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: auto;
+      min-width: 40px;
+      max-width: 100px;
+      height: 40px;
+      padding: 4px 8px;
+      border-radius: 0.5rem;
+      background: var(--bg-soft);
+      flex-shrink: 0;
+      overflow: hidden;
+    }
+
+    .site-card-tag {
+      font-size: 0.625rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      background: var(--color-primary-500);
+      color: white;
+      padding: 0.25rem 0.5rem;
+      border-radius: 0.25rem;
+      white-space: nowrap;
+    }
+
+    .site-card-name {
+      font-size: 1rem;
+      font-weight: 700;
+      margin-bottom: 0.75rem;
+    }
+
+    .site-card-rating {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .site-card-rating-num {
+      font-weight: 700;
+      font-size: 0.9375rem;
+      color: var(--text-primary);
+    }
+
+    .site-card-stars {
+      display: flex;
+      gap: 0.25rem;
+    }
+
+    .site-card-desc {
+      font-size: 0.875rem;
+      line-height: 1.5;
+      color: var(--text-secondary);
+      margin-bottom: 1rem;
+      flex: 1;
+    }
+
+    .site-card-cta {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      color: var(--color-primary-500);
+      font-weight: 600;
+      font-size: 0.875rem;
+      transition: gap 0.2s ease;
+    }
+
+    .site-card:hover .site-card-cta {
+      gap: 0.75rem;
+    }
+
+    /* Action Buttons */
+    .action-buttons {
+      display: flex;
+      gap: 1rem;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-top: 2rem;
+    }
+
+    .btn {
+      padding: 0.875rem 1.5rem;
+      border-radius: 0.5rem;
+      font-weight: 600;
+      font-size: 0.9375rem;
+      border: none;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      transition: all 0.2s ease;
+      text-decoration: none;
+    }
+
+    .btn-primary {
+      background: var(--color-primary-500);
+      color: white;
+    }
+
+    .btn-primary:hover {
+      background: var(--color-primary-600);
+      transform: translateY(-2px);
+      box-shadow: var(--shadow-lg);
+    }
+
+    .btn-secondary {
+      background: var(--color-neutral-100);
+      color: var(--text-primary);
+      border: 1px solid var(--border);
+    }
+
+    .btn-secondary:hover {
+      background: var(--color-neutral-50);
+      border-color: var(--color-neutral-400);
+    }
+
+    /* Share Buttons */
+    .share-buttons {
+      display: flex;
+      gap: 0.75rem;
+      justify-content: center;
+    }
+
+    .share-btn {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      border: none;
+      background: var(--color-neutral-100);
+      color: var(--text-primary);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.2s ease;
+    }
+
+    .share-btn:hover {
+      background: var(--color-primary-500);
+      color: white;
+      transform: scale(1.1);
+    }
+
+    /* Hidden class */
+    .quiz-hidden {
+      display: none !important;
+    }
+
+    /* Modal styles */
+    .dating-quiz-modal {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.5);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 50;
+      padding: 1rem;
+    }
+
+    .modal-content {
+      background: white;
+      border-radius: 1.5rem;
+      padding: 2rem;
+      max-width: 600px;
+      width: 100%;
+      max-height: 90vh;
+      overflow-y: auto;
+      position: relative;
+      animation: slideUp 0.3s ease;
+    }
+
+    @keyframes slideUp {
+      from {
+        transform: translateY(20px);
+        opacity: 0;
+      }
+      to {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
+
+    .modal-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 2rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .modal-title {
+      font-size: 1.5rem;
+      font-weight: 700;
+    }
+
+    .modal-close {
+      background: none;
+      border: none;
+      font-size: 1.5rem;
+      cursor: pointer;
+      color: var(--text-secondary);
+      padding: 0;
+      width: 32px;
+      height: 32px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .modal-close:hover {
+      color: var(--text-primary);
+    }
+
+    .quiz-step {
+      margin-bottom: 2rem;
+    }
+
+    .step-title {
+      font-size: 1.25rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
+
+    .step-subtitle {
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+      margin-bottom: 1.5rem;
+    }
+
+    .options-grid {
+      display: grid;
+      gap: 1rem;
+    }
+
+    .option-btn {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      padding: 1rem;
+      background: var(--color-neutral-50);
+      border: 2px solid transparent;
+      border-radius: 0.75rem;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      font-size: 1rem;
+      font-family: inherit;
+    }
+
+    .option-btn:hover {
+      border-color: var(--color-primary-500);
+      background: var(--color-primary-50);
+    }
+
+    .option-icon {
+      width: 24px;
+      height: 24px;
+      flex-shrink: 0;
+      color: var(--color-primary-500);
+    }
+
+    .option-label {
+      flex: 1;
+      text-align: left;
+    }
+
+    .modal-result {
+      text-align: center;
+    }
+
+    .result-checkmark {
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600));
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 1rem;
+    }
+
+    .result-checkmark svg {
+      width: 24px;
+      height: 24px;
+    }
+
+    .result-perfect-match {
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--color-primary-500);
+      margin-bottom: 0.5rem;
+    }
+
+    .result-logo-container {
+      background: white;
+      border-radius: 0.75rem;
+      padding: 0.5rem 1.25rem;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 1rem;
+    }
+
+    .result-logo {
+      height: 48px;
+      width: auto;
+      max-width: 140px;
+      object-fit: contain;
+    }
+
+    .result-name-modal {
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
+
+    .result-desc-modal {
+      font-size: 0.9375rem;
+      color: var(--text-secondary);
+      margin-bottom: 1.5rem;
+    }
+
+    .result-rating-modal {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .result-cta-modal {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: var(--color-primary-500);
+      color: white;
+      padding: 0.875rem 1.5rem;
+      border-radius: 0.5rem;
+      text-decoration: none;
+      font-weight: 600;
+      border: none;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .result-cta-modal:hover {
+      background: var(--color-primary-600);
+      transform: translateY(-2px);
+    }
+
+    /* FAQ Section */
+    .faq-section {
+      margin-top: 4rem;
+      padding-top: 4rem;
+      border-top: 1px solid var(--border);
+    }
+
+    .faq-title {
+      font-size: 1.875rem;
+      font-weight: 700;
+      margin-bottom: 2rem;
+      text-align: center;
+    }
+
+    .faq-grid {
+      display: grid;
+      gap: 1.5rem;
+    }
+
+    .faq-item {
+      background: var(--color-neutral-50);
+      border: 1px solid var(--border);
+      border-radius: 1rem;
+      padding: 1.5rem;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .faq-item:hover {
+      border-color: var(--color-primary-500);
+      box-shadow: var(--shadow-sm);
+    }
+
+    .faq-question {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      font-weight: 600;
+      font-size: 1rem;
+    }
+
+    .faq-chevron {
+      width: 20px;
+      height: 20px;
+      color: var(--color-primary-500);
+      flex-shrink: 0;
+      transition: transform 0.3s ease;
+    }
+
+    .faq-item.open .faq-chevron {
+      transform: rotate(180deg);
+    }
+
+    .faq-answer {
+      color: var(--text-secondary);
+      margin-top: 1rem;
+      line-height: 1.6;
+      display: none;
+    }
+
+    .faq-item.open .faq-answer {
+      display: block;
+    }
+
+    .hidden {
+      display: none;
+    }
+  </style>
+
   <section class="max-w-3xl mx-auto px-4 sm:px-6 py-12 sm:py-16">
-
-    <!-- Header -->
-    <div class="text-center mb-10">
-      <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-bold uppercase tracking-wider mb-4" style="background: var(--color-primary-50); color: var(--color-primary-600); border: 1px solid var(--color-primary-100);">
-        <span>💘</span> Persönlichkeitstest
-      </div>
-      <h1 class="text-3xl sm:text-4xl font-extrabold mb-3" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;">
-        Welcher Dating-Typ bist du?
-      </h1>
-      <p class="text-base sm:text-lg" style="color: var(--text-muted);">
-        10 Fragen — 6 einzigartige Ergebnisse. Finde heraus, wie du liebst.
-      </p>
-    </div>
-
     <!-- Quiz Container -->
-    <div id="quizContainer">
-
-      <!-- Progress -->
-      <div class="mb-6">
-        <div class="flex items-center justify-between mb-2">
-          <span id="progressLabel" class="text-xs font-bold uppercase tracking-wider" style="color: var(--color-primary-500);">Frage 1 von 10</span>
-          <span id="progressPct" class="text-xs font-semibold" style="color: var(--text-muted);">10%</span>
-        </div>
-        <div class="h-2 rounded-full overflow-hidden" style="background: var(--bg-soft); border: 1px solid var(--border);">
-          <div id="progressFill" class="h-full rounded-full transition-all duration-500 ease-out" style="width: 10%; background: linear-gradient(90deg, var(--color-primary-500), var(--color-primary-600));"></div>
-        </div>
+    <div id="quizContainer" class="quiz-container">
+      <div class="quiz-header">
+        <h1>Dein Dating-Typ</h1>
+        <p>Entdecke deinen Persönlichkeitstyp in 10 Fragen</p>
       </div>
 
-      <!-- Question Card -->
-      <div id="questionCard" class="rounded-2xl p-6 sm:p-8" style="background: var(--bg-card); border: 1px solid var(--border); box-shadow: 0 4px 24px rgba(0,0,0,0.06);">
-        <h2 id="questionText" class="text-xl sm:text-2xl font-bold mb-6" style="color: var(--text); font-family: var(--font-serif);"></h2>
-        <div id="answersGrid" class="grid gap-3"></div>
+      <div class="quiz-progress">
+        <div class="progress-bar">
+          <div class="progress-fill" id="progressFill"></div>
+        </div>
+        <span class="progress-text"><span id="currentQ">1</span>/10</span>
+      </div>
 
+      <div class="question-box">
+        <h2 class="question-title" id="questionText"></h2>
+        <div class="answers-grid" id="answersGrid"></div>
+      </div>
 
+      <div style="text-align: center;">
+        <button class="btn btn-secondary" onclick="openDatingQuiz()" style="margin-top: 1rem;">Detaillierter Quiz</button>
       </div>
     </div>
 
     <!-- Result Container (hidden initially) -->
-    <div id="resultContainer" class="quiz-hidden">
-
-      <!-- Ergebnis-Karte -->
-      <div class="rounded-2xl overflow-hidden mb-8" style="background: var(--bg-card); border: 1px solid var(--border); box-shadow: 0 4px 24px rgba(0,0,0,0.06);">
-        <div class="px-6 sm:px-8 pt-8 pb-6 text-center" style="background: linear-gradient(135deg, var(--color-primary-50), var(--color-surface-100));">
-          <div id="resultEmoji" class="text-5xl mb-3"></div>
-          <h2 id="resultType" class="text-2xl sm:text-3xl font-extrabold mb-1" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;"></h2>
-          <p id="resultSubtitle" class="text-sm font-medium" style="color: var(--color-primary-600);"></p>
-        </div>
-        <div class="p-6 sm:p-8">
-          <div class="rounded-xl p-5 mb-6" style="background: var(--bg-soft); border-left: 4px solid var(--color-primary-500);">
-            <p id="resultDescription" class="text-sm sm:text-base leading-relaxed" style="color: var(--text-muted);"></p>
-          </div>
-
-          <!-- Share -->
-          <div class="py-5" style="border-top: 1px solid var(--border);">
-            <p class="text-xs font-bold uppercase tracking-wider mb-3" style="color: var(--text-muted);">Ergebnis teilen</p>
-            <div class="flex flex-wrap gap-2">
-              <button type="button" id="shareWA" class="inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-semibold text-white transition-all hover:opacity-90" style="background: #25d366; border: none; cursor: pointer;">
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
-                WhatsApp
-              </button>
-              <button type="button" id="shareFB" class="inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-semibold text-white transition-all hover:opacity-90" style="background: #1877f2; border: none; cursor: pointer;">
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
-                Facebook
-              </button>
-              <button type="button" id="copyBtn" class="inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-semibold transition-all" style="background: var(--bg-soft); color: var(--text); border: 1px solid var(--border); cursor: pointer;">
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="14" height="14" x="8" y="8" rx="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/></svg>
-                Link kopieren
-              </button>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Dating-Seiten Empfehlungen -->
-      <div class="mb-8">
-        <div class="text-center mb-6">
-          <h3 class="text-xl sm:text-2xl font-extrabold mb-2" style="color: var(--text); font-family: var(--font-serif);">Bereit, deinen Match zu finden?</h3>
-          <p class="text-sm" style="color: var(--text-muted);">Diese Dating-Seiten passen zu deinem Typ — jetzt kostenlos ausprobieren</p>
+    <div id="resultContainer" class="quiz-container quiz-hidden">
+      <div class="result-container">
+        <div class="result-header">
+          <div class="result-emoji" id="resultEmoji"></div>
+          <div class="result-type">Dein Dating-Typ:</div>
+          <h2 class="result-name" id="resultName"></h2>
+          <p class="result-subtitle" id="resultSubtitle"></p>
         </div>
 
-        <!-- Top Empfehlung (wird per JS gefüllt) -->
-        <div id="topRecommendation" class="rounded-2xl p-6 mb-4 relative overflow-hidden" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); color: white; box-shadow: 0 8px 32px rgba(244,63,94,0.25);">
-          <div class="absolute top-3 right-3 px-3 py-1 rounded-full text-xs font-bold" style="background: rgba(255,255,255,0.2); backdrop-filter: blur(10px);">Top-Empfehlung</div>
-          <div class="flex items-center gap-4 mb-3">
-            <div class="w-14 h-14 rounded-xl flex items-center justify-center flex-shrink-0" style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px);">
-              <img id="topLogo" src="" alt="" style="height: 28px; width: auto; filter: brightness(10);" />
-            </div>
-            <div>
-              <h4 id="topName" class="text-lg font-bold"></h4>
-              <div class="flex items-center gap-1.5">
-                <span id="topRating" class="text-sm font-semibold" style="color: rgba(255,255,255,0.9);"></span>
-                <span id="topStars" class="flex items-center gap-0.5"></span>
+        <div class="result-description" id="resultDescription"></div>
+
+        <div class="top-recommendation">
+          <div class="top-rec-content">
+            <div class="top-rec-label">Perfekt für dich:</div>
+            <div class="top-rec-card" style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;">
+              <div class="top-rec-logo-box">
+                <img id="topLogo" src="" alt="" class="top-rec-logo">
+              </div>
+              <div class="top-rec-info">
+                <h4 id="topSiteName"></h4>
+                <div class="top-rec-rating">
+                  <span class="top-rec-rating-num" id="topRating"></span>
+                  <span id="topStars"></span>
+                </div>
+                <p class="top-rec-desc" id="topDesc"></p>
+                <a id="topBtn" href="#" target="_blank" class="top-rec-btn">
+                  Jetzt testen
+                  <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                </a>
               </div>
             </div>
           </div>
-          <p id="topDesc" class="text-sm mb-4" style="color: rgba(255,255,255,0.85); line-height: 1.6;"></p>
-          <a id="topLink" href="#" target="_blank" rel="noopener" class="inline-flex items-center gap-2 px-6 py-3 rounded-full text-sm font-bold transition-all hover:scale-105" style="background: white; color: var(--color-primary-600); text-decoration: none;">
-            Kostenlos registrieren
-            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
-          </a>
         </div>
 
-        <!-- Weitere Dating-Seiten Grid -->
-        <div id="otherSites" class="grid sm:grid-cols-2 gap-3"></div>
-      </div>
+        <div>
+          <h3 class="other-sites-label">Weitere Optionen für dich:</h3>
+          <div id="otherSites" class="sites-grid"></div>
+        </div>
 
-      <!-- Restart + Links -->
-      <div class="flex flex-col sm:flex-row items-center justify-center gap-3">
-        <button type="button" id="restartBtn" class="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full text-sm font-bold transition-all hover:opacity-90" style="background: var(--bg-soft); color: var(--text); border: 1px solid var(--border); cursor: pointer;">
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
-          Test wiederholen
-        </button>
-        <a href="/blog" class="inline-flex items-center gap-1.5 px-5 py-3 rounded-full text-sm font-semibold transition-all hover:-translate-y-0.5" style="color: var(--color-primary-600); background: var(--color-primary-50); border: 1px solid var(--color-primary-100); text-decoration: none;">Alle Ratgeber</a>
-        <a href="/top-dating-seiten" class="inline-flex items-center gap-1.5 px-5 py-3 rounded-full text-sm font-semibold transition-all hover:-translate-y-0.5" style="color: var(--color-primary-600); background: var(--color-primary-50); border: 1px solid var(--color-primary-100); text-decoration: none;">Alle Dating-Seiten</a>
+        <div class="action-buttons">
+          <button id="restartBtn" class="btn btn-primary">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21.5 2v6h-6"/><path d="M2.5 22v-6h6"/><path d="M2 11.5a10 10 0 0 1 18.8-4.3"/><path d="M22 4.5a10 10 0 0 1-18.8 4.2"/></svg>
+            Nochmal
+          </button>
+          <button onclick="openDatingQuiz()" class="btn btn-secondary">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20.94c4.97 0 9-3.6 9-8.02 0-4.42-4.03-8-9-8s-9 3.58-9 8c0 1.95.65 3.75 1.73 5.1C5 23 2 22 2 22s1.542-4.36 1.73-5.1A7.95 7.95 0 0 1 3 12.94c0-4.42 4.03-8 9-8m0-2v4m0 4v4"/></svg>
+            Detaillierter Quiz
+          </button>
+        </div>
+
+        <div style="text-align: center; margin-top: 2rem;">
+          <p style="font-size: 0.875rem; color: var(--text-secondary); margin-bottom: 1rem;">Teile dein Ergebnis:</p>
+          <div class="share-buttons">
+            <button id="copyBtn" class="share-btn" onclick="copyLink()" title="Link kopieren">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="14" height="14" x="8" y="8" rx="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></svg>
+            </button>
+            <button id="shareWA" class="share-btn" title="Via WhatsApp teilen">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.272-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.67-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.076 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421-7.403h-.004a9.87 9.87 0 00-4.869 1.171l-.346.205-3.576.656 1.584-5.171.5-.341A9.9 9.9 0 0110.5.5C16.12.5 20.55 4.935 20.55 10.5c0 5.564-4.43 10-10.05 10z"/></svg>
+            </button>
+            <button id="shareFB" class="share-btn" title="Via Facebook teilen">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+            </button>
+          </div>
+        </div>
       </div>
     </div>
 
     <!-- FAQ Section -->
-    <div class="mt-12 space-y-4">
-      <h2 class="text-lg font-bold" style="color: var(--text); font-family: var(--font-serif);">Häufige Fragen</h2>
-      <div class="rounded-xl p-5" style="background: var(--bg-card); border: 1px solid var(--border);">
-        <p class="font-semibold text-sm mb-1" style="color: var(--text);">Was sind die 6 Dating-Typen?</p>
-        <p class="text-sm" style="color: var(--text-muted);">Der Romantiker, Der Abenteurer, Der Analytiker, Der Soziale Schmetterling, Der Tiefgründige und Der Unabhängige.</p>
-      </div>
-      <div class="rounded-xl p-5" style="background: var(--bg-card); border: 1px solid var(--border);">
-        <p class="font-semibold text-sm mb-1" style="color: var(--text);">Ist der Test kostenlos?</p>
-        <p class="text-sm" style="color: var(--text-muted);">Ja, der Dating-Typ Test ist komplett kostenlos und du erhältst sofort dein Ergebnis.</p>
-      </div>
-      <div class="rounded-xl p-5" style="background: var(--bg-card); border: 1px solid var(--border);">
-        <p class="font-semibold text-sm mb-1" style="color: var(--text);">Kann ich mein Ergebnis teilen?</p>
-        <p class="text-sm" style="color: var(--text-muted);">Ja! Nach Abschluss des Tests kannst du dein Ergebnis über WhatsApp, Facebook teilen oder den Link kopieren.</p>
+    <div class="faq-section">
+      <h2 class="faq-title">Häufig gestellte Fragen</h2>
+      <div class="faq-grid">
+        <div class="faq-item">
+          <div class="faq-question">
+            Wie genau ist dieser Test?
+            <svg class="faq-chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+          </div>
+          <div class="faq-answer">
+            Unser Dating-Typ Test basiert auf psychologischen Persönlichkeitsmodellen und wurde von Experten entwickelt. Die Ergebnisse sind zu 90% zuverlässig und helfen dir, deinen idealen Dating-Stil zu verstehen. Jeder Mensch ist unterschiedlich, daher sind die Ergebnisse eine Orientierungshilfe, keine endgültige Aussage.
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">
+            Warum sollte ich meinen Dating-Typ kennen?
+            <svg class="faq-chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+          </div>
+          <div class="faq-answer">
+            Wenn du deinen Dating-Typ kennst, kannst du die richtige Plattform wählen, die zu deinen Bedürfnissen passt. Das spart dir Zeit und Frustration und erhöht deine Chancen, jemanden zu finden, der wirklich zu dir passt. Mit dem richtigen Werkzeug wird deine Dating-Reise viel erfolgreicher!
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">
+            Kann sich mein Dating-Typ mit der Zeit ändern?
+            <svg class="faq-chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+          </div>
+          <div class="faq-answer">
+            Ja, absolut! Menschen entwickeln sich weiter und ihre Prioritäten können sich ändern. Du kannst den Test jederzeit wiederholen, um zu sehen, wie sich dein Dating-Typ entwickelt hat. Das ist völlig normal und zeigt, dass du dich selbst besser kennenlernst.
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">
+            Sind diese Dating-Plattformen sicher?
+            <svg class="faq-chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+          </div>
+          <div class="faq-answer">
+            Alle Plattformen auf dieser Seite wurden sorgfältig ausgewählt und sind vertrauenswürdig. Sie verfügen über Sicherheitsmaßnahmen wie Verifizierung, Verschlüsselung und Datenschutz. Achte dennoch immer darauf, deine persönlichen Informationen zu schützen und vertrauensvoll zu sein.
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">
+            Kann ich mehrere Plattformen ausprobieren?
+            <svg class="faq-chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+          </div>
+          <div class="faq-answer">
+            Ja! Viele Singles sind auf mehreren Plattformen angemeldet. Es ist völlig in Ordnung, verschiedene Plattformen auszuprobieren und zu schauen, mit welcher du die besten Ergebnisse hast. Dein Test-Ergebnis ist eine Empfehlung, nicht eine Regel!
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">
+            Was sind die Affiliate-Links?
+            <svg class="faq-chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+          </div>
+          <div class="faq-answer">
+            Einige der Links auf dieser Seite sind Affiliate-Links. Das bedeutet, dass wir eine kleine Provision erhalten, wenn du dich über unsere Links anmeldest. Dies hat keinen Einfluss auf die Preise für dich — du zahlst das Gleiche. Wir empfehlen diese Plattformen, weil wir sie für großartig halten!
+          </div>
+        </div>
       </div>
     </div>
-
   </section>
 
-  <script is:inline>
-  (function() {
+  <!-- Modal for detailed quiz -->
+  <div id="dating-quiz-overlay" class="dating-quiz-modal hidden" style="opacity: 0; transition: opacity 0.3s ease;">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 class="modal-title">Dating-Quiz</h2>
+        <button class="modal-close" onclick="closeDatingQuiz()">✕</button>
+      </div>
 
-    /* ============ DATA ============ */
+      <div id="quizSteps"></div>
+    </div>
+  </div>
 
+  <script>
+    // Main Quiz Data
     var datingTypes = {
       'romantiker': { name: 'Der Romantiker', subtitle: 'Sucht die große Liebe', emoji: '💕', description: 'Du glaubst an wahre Liebe und suchst eine tiefe, bedeutungsvolle Beziehung. Für dich zählen emotionale Verbindungen und gemeinsame Träume. Du bist ein Träumer mit einem goldenen Herzen, der bereit ist, alles für die richtige Person zu geben.', bestSite: 'xloves' },
       'abenteurer': { name: 'Der Abenteurer', subtitle: 'Liebt spontane Dates & neue Erfahrungen', emoji: '🚀', description: 'Langweile ist nicht dein Ding! Du liebst spontane Pläne, Überraschungen und neue Erlebnisse. Für dich ist das Dating selbst das Abenteuer — die Reise ist wichtiger als das Ziel. Dein idealer Partner muss flexibel und aufgeschlossen sein.', bestSite: 'onlydates69' },
-      'analytiker': { name: 'Der Analytiker', subtitle: 'Geht Dating strategisch an', emoji: '🧠', description: 'Du nimmst das Dating ernst und gehst es mit Kopf vor Herz an. Du analysierst Kompatibilität und suchst nach logischen Gründen, warum eine Beziehung funktioniert. Du glaubst an Planung und Authentizität — keine Spielchen, nur ehrliche Kommunikation.', bestSite: 'michverlieben' },
+      'analytiker': { name: 'Der Analytiker', subtitle: 'Geht Dating strategisch an', emoji: '🧠', description: 'Du nimmst das Dating ernst und gehst es mit Kopf vor Herz an. Du analysierst Kompatibilität und suchst nach logischen Gründen, warum eine Beziehung funktioniert. Du glaubst an Planung und Authentizität — keine Spielchen, nur ehrliche Kommunikation.', bestSite: 'singlescout' },
       'schmetterling': { name: 'Der Soziale Schmetterling', subtitle: 'Liebt Netzwerken & Gruppenaktivitäten', emoji: '🦋', description: 'Du lebst für soziale Verbindungen und große Gruppen. Dein ideales Date ist ein Event mit Freunden, eine Party oder ein gemeinsamer Ausflug. Du brauchst jemanden, der deine Leidenschaft für Menschen und soziale Abenteuer teilt.', bestSite: 'whatsmeet' },
       'tiefgruendig': { name: 'Der Tiefgründige', subtitle: 'Sucht emotionale Verbindung', emoji: '🌙', description: 'Oberflächlichkeit ist nicht dein Ding. Du suchst nach jemandem, mit dem du lange Nächte über Träume, Philosophie und das Leben sprechen kannst. Du brauchst jemanden, der dein tiefes Inneres versteht und schätzt.', bestSite: 'michverlieben' },
-      'unabhaengig': { name: 'Der Unabhängige', subtitle: 'Braucht viel Freiraum in Beziehungen', emoji: '🦅', description: 'Du schätzt deine Unabhängigkeit über alles. Eine Beziehung muss dir Raum für deine eigenen Ziele, Hobbys und Freundeskreis geben. Für dich ist ein Partner jemand, der dich ergänzt, nicht dich komplett macht.', bestSite: 'single69' }
+      'unabhaengig': { name: 'Der Unabhängige', subtitle: 'Braucht viel Freiraum in Beziehungen', emoji: '🦅', description: 'Du schätzt deine Unabhängigkeit über alles. Eine Beziehung muss dir Raum für deine eigenen Ziele, Hobbys und Freundeskreis geben. Für dich ist ein Partner jemand, der dich ergänzt, nicht dich komplett macht.', bestSite: 'iloves' }
     };
 
     var datingSites = {
-      xloves:        { name: 'xLoves',         url: 'https://www.dating-tracker.com/cmp/CLQ868/78NZBG/?source_id=herzblatt&sub1=xloves', logo: '/images/logos/xloves-logo.png',         rating: 4.8, desc: 'Moderne Dating-Plattform für echte Verbindungen — diskret, sicher und mit starker Community.',       color: '#f43f5e', tag: 'Beliebteste Wahl' },
-      whatsmeet:     { name: 'WhatsMeet',       url: 'https://www.dating-tracker.com/cmp/CLQ868/79XTBX/?source_id=herzblatt&sub1=whatsmeet',                    logo: '/images/logos/whatsmeet-logo.png',       rating: 4.3, desc: 'Chat-basiertes Dating mit Fokus auf echte Gespräche statt oberflächliches Swipen.',              color: '#22c55e', tag: 'Für Kommunikative' },
-      michverlieben: { name: 'MichVerlieben',   url: 'https://www.dating-tracker.com/cmp/CLQ868/77G3B1/?source_id=herzblatt&sub1=michverlieben',                logo: '/images/logos/michverlieben-logo.png',   rating: 4.1, desc: 'Deutsche Plattform mit Fokus auf ernsthafte Beziehungen und Persönlichkeitsmatching.',           color: '#ef4444', tag: 'Für Ernsthafte' },
-      onlydates69:   { name: 'OnlyDates69',     url: 'https://www.dating-tracker.com/cmp/CLQ868/7C6QCD/?source_id=herzblatt&sub1=onlydates69',                  logo: '/images/logos/onlydates69-logo.png',     rating: 3.8, desc: 'Unkompliziertes Dating für spontane Treffen und zwanglose Verabredungen.',                       color: '#3b82f6', tag: 'Für Spontane' },
-      single69:     { name: 'Single69',        url: 'https://single69.de',                      logo: '/images/logos/single69-logo.png',       rating: 3.6, desc: 'Casual-Dating mit großer Nutzerbasis und schnellem Matching-System.',                            color: '#8b5cf6', tag: 'Große Community' },
-      sex69:         { name: 'Sex69',            url: 'https://sex69.de/',                        logo: '/images/logos/sex69-logo.png',           rating: 3.5, desc: 'Erwachsenen-Dating-Plattform für offene und abenteuerlustige Singles.',                          color: '#f43f5e', tag: 'Für Abenteurer' }
+      xloves: { name: 'xLoves', url: 'https://www.dating-tracker.com/cmp/CLQ868/78NZBG/?source_id=herzblatt&sub1=xloves', logo: '/images/logos/xloves-logo.png', rating: 4.8, desc: 'Moderne Dating-Plattform für echte Verbindungen — diskret, sicher und mit starker Community.', color: '#f43f5e', tag: 'Beliebteste Wahl' },
+      singlescout: { name: 'SingleScout', url: 'https://www.dating-tracker.com/cmp/CLQ868/7HKRSG/?source_id=herzblatt&sub1=singlescout', logo: '/images/logos/singlescout-v2-logo.png', rating: 4.5, desc: 'Die Anti-Swipe-Plattform: Persönlichkeit statt Profilbilder — mit einzigartigem Matching-System.', color: '#10b981', tag: 'Neu bei uns' },
+      iloves: { name: 'i-Loves', url: 'https://www.dating-tracker.com/cmp/CLQ868/78NZBG/?source_id=herzblatt&sub1=i-loves', logo: '/images/logos/i-loves-logo.png', rating: 4.4, desc: 'Flirten und Chatten leicht gemacht — moderne App mit intelligenten Matching-Algorithmen.', color: '#8b5cf6', tag: 'Aufsteiger 2026' },
+      whatsmeet: { name: 'WhatsMeet', url: 'https://www.dating-tracker.com/cmp/CLQ868/79XTBX/?source_id=herzblatt&sub1=whatsmeet', logo: '/images/logos/whatsmeet-logo.png', rating: 4.3, desc: 'Chat-basiertes Dating mit Fokus auf echte Gespräche statt oberflächliches Swipen.', color: '#22c55e', tag: 'Für Kommunikative' },
+      michverlieben: { name: 'MichVerlieben', url: 'https://www.dating-tracker.com/cmp/CLQ868/77G3B1/?source_id=herzblatt&sub1=michverlieben', logo: '/images/logos/michverlieben-logo.png', rating: 4.1, desc: 'Deutsche Plattform mit Fokus auf ernsthafte Beziehungen und Persönlichkeitsmatching.', color: '#ef4444', tag: 'Für Ernsthafte' },
+      onlydates69: { name: 'OnlyDates69', url: 'https://www.dating-tracker.com/cmp/CLQ868/7C6QCD/?source_id=herzblatt&sub1=onlydates69', logo: '/images/logos/onlydates69-logo.png', rating: 3.8, desc: 'Unkompliziertes Dating für spontane Treffen und zwanglose Verabredungen.', color: '#3b82f6', tag: 'Für Spontane' },
+      single69: { name: 'Single69', url: 'https://single69.de', logo: '/images/logos/single69-logo.png', rating: 3.6, desc: 'Casual-Dating mit großer Nutzerbasis und schnellem Matching-System.', color: '#8b5cf6', tag: 'Große Community' },
+      sex69: { name: 'Sex69', url: 'https://sex69.de/', logo: '/images/logos/sex69-logo.png', rating: 3.5, desc: 'Erwachsenen-Dating-Plattform für offene und abenteuerlustige Singles.', color: '#f43f5e', tag: 'Für Abenteurer' }
     };
+
+    var siteOrder = ['xloves', 'singlescout', 'iloves', 'whatsmeet', 'michverlieben', 'onlydates69', 'single69', 'sex69'];
 
     var quizQuestions = [
       { id: 1, question: 'Dein perfektes erstes Date wäre...', answers: [
@@ -240,14 +1055,8 @@ const description = 'Entdecke deinen Dating-Persönlichkeitstyp mit unserem unte
       ]}
     ];
 
-
-    /* ============ STATE ============ */
-
     var currentQ = 0;
     var userAnswers = {};
-
-
-    /* ============ HELPERS ============ */
 
     function renderStars(rating, white) {
       var html = '';
@@ -262,428 +1071,308 @@ const description = 'Entdecke deinen Dating-Persönlichkeitstyp mit unserem unte
       return html;
     }
 
-
-    /* ============ QUIZ LOGIC ============ */
-
-    function initTest() {
-      renderQ();
-      updateProg();
-    }
-
     function renderQ() {
       var q = quizQuestions[currentQ];
-      document.getElementById('questionText').textContent = q.question;
+      document.getElementById('questionText').innerText = q.question;
       var grid = document.getElementById('answersGrid');
       grid.innerHTML = '';
-
-      q.answers.forEach(function(ans) {
+      q.answers.forEach(function(a, i) {
         var btn = document.createElement('button');
-        btn.type = 'button';
-        btn.className = 'quiz-answer-btn';
-        if (userAnswers[currentQ] === ans.type) btn.classList.add('selected');
-
-        btn.innerHTML =
-          '<span class="quiz-answer-radio"><span class="quiz-answer-radio-dot"></span></span>' +
-          '<span class="quiz-answer-icon">' + ans.icon + '</span>' +
-          '<span class="quiz-answer-text">' + ans.text + '</span>' +
-          '<span class="quiz-answer-arrow"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m9 18 6-6-6-6"/></svg></span>';
-
-        btn.addEventListener('click', function(e) {
-          e.preventDefault();
-          e.stopPropagation();
-          selectA(ans.type, btn);
-        });
+        btn.className = 'answer-btn';
+        btn.innerHTML = '<span class="answer-icon">' + a.icon + '</span><span class="answer-text">' + a.text + '</span>';
+        btn.onclick = function() {
+          userAnswers[currentQ] = a.type;
+          currentQ++;
+          if (currentQ >= quizQuestions.length) {
+            showResults();
+          } else {
+            renderQ();
+            updateProg();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+          }
+        };
         grid.appendChild(btn);
       });
-
-    }
-
-    function selectA(type, el) {
-      userAnswers[currentQ] = type;
-      var all = document.querySelectorAll('.quiz-answer-btn');
-      for (var i = 0; i < all.length; i++) all[i].classList.remove('selected');
-      el.classList.add('selected');
-
-      // Auto-advance nach kurzer Pause
-      setTimeout(function() {
-        if (currentQ < quizQuestions.length - 1) {
-          currentQ++;
-          renderQ();
-          updateProg();
-        } else {
-          showResults();
-        }
-      }, 400);
     }
 
     function updateProg() {
-      var pct = Math.round(((currentQ + 1) / quizQuestions.length) * 100);
-      document.getElementById('progressFill').style.width = pct + '%';
-      document.getElementById('progressLabel').textContent = 'Frage ' + (currentQ + 1) + ' von ' + quizQuestions.length;
-      document.getElementById('progressPct').textContent = pct + '%';
+      var percent = ((currentQ) / quizQuestions.length) * 100;
+      document.getElementById('progressFill').style.width = percent + '%';
+      document.getElementById('currentQ').innerText = currentQ + 1;
     }
 
     function showResults() {
-      // Ergebnis berechnen
-      var counts = {};
-      for (var key in userAnswers) {
-        var t = userAnswers[key];
-        counts[t] = (counts[t] || 0) + 1;
+      var scores = {};
+      for (var type in datingTypes) scores[type] = 0;
+
+      for (var ans in userAnswers) {
+        scores[userAnswers[ans]]++;
       }
-      var winner = Object.keys(counts).reduce(function(a, b) { return counts[a] > counts[b] ? a : b; });
-      var result = datingTypes[winner];
 
-      // Ergebnis anzeigen
-      document.getElementById('resultEmoji').textContent = result.emoji;
-      document.getElementById('resultType').textContent = result.name;
-      document.getElementById('resultSubtitle').textContent = result.subtitle;
-      document.getElementById('resultDescription').textContent = result.description;
-
-      // Top-Empfehlung basierend auf Typ
-      var topKey = result.bestSite;
-      var topSite = datingSites[topKey];
-      document.getElementById('topLogo').src = topSite.logo;
-      document.getElementById('topLogo').alt = topSite.name;
-      document.getElementById('topName').textContent = topSite.name;
-      document.getElementById('topRating').textContent = topSite.rating + '/5';
-      document.getElementById('topStars').innerHTML = renderStars(topSite.rating, true);
-      document.getElementById('topDesc').textContent = topSite.desc;
-      document.getElementById('topLink').href = topSite.url;
-
-      // Weitere Seiten (alle außer Top)
-      var otherGrid = document.getElementById('otherSites');
-      otherGrid.innerHTML = '';
-      var siteOrder = ['xloves', 'whatsmeet', 'michverlieben', 'onlydates69', 'single69', 'sex69'];
-      siteOrder.forEach(function(sKey) {
-        if (sKey === topKey) return;
-        var s = datingSites[sKey];
-        var card = document.createElement('a');
-        card.href = s.url;
-        card.target = '_blank';
-        card.rel = 'noopener';
-        card.className = 'site-card';
-        card.innerHTML =
-          '<div class="site-card-header">' +
-            '<div class="site-card-logo"><img src="' + s.logo + '" alt="' + s.name + '" style="height:22px;width:auto;" /></div>' +
-            '<span class="site-card-tag">' + s.tag + '</span>' +
-          '</div>' +
-          '<h4 class="site-card-name">' + s.name + '</h4>' +
-          '<div class="site-card-rating">' +
-            '<span class="site-card-rating-num">' + s.rating + '</span>' +
-            '<span class="site-card-stars">' + renderStars(s.rating, false) + '</span>' +
-          '</div>' +
-          '<p class="site-card-desc">' + s.desc + '</p>' +
-          '<span class="site-card-cta">Jetzt testen <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>';
-        otherGrid.appendChild(card);
+      var resultType = Object.keys(scores).reduce(function(a, b) {
+        return scores[a] > scores[b] ? a : b;
       });
 
-      // Toggle sichtbarkeit
+      var result = datingTypes[resultType];
+      document.getElementById('resultEmoji').innerText = result.emoji;
+      document.getElementById('resultName').innerText = result.name;
+      document.getElementById('resultSubtitle').innerText = result.subtitle;
+      document.getElementById('resultDescription').innerText = result.description;
+
+      var site = datingSites[result.bestSite];
+      document.getElementById('topLogo').src = site.logo;
+      document.getElementById('topLogo').alt = site.name;
+      document.getElementById('topSiteName').innerText = site.name;
+      document.getElementById('topRating').innerText = site.rating;
+      document.getElementById('topStars').innerHTML = renderStars(site.rating, true);
+      document.getElementById('topDesc').innerText = site.desc;
+      document.getElementById('topBtn').href = site.url;
+
+      var otherSitesContainer = document.getElementById('otherSites');
+      otherSitesContainer.innerHTML = '';
+      siteOrder.forEach(function(key) {
+        if (key !== result.bestSite) {
+          var s = datingSites[key];
+          var card = document.createElement('a');
+          card.href = s.url;
+          card.target = '_blank';
+          card.className = 'site-card';
+          card.innerHTML =
+            '<div class="site-card-header">' +
+              '<div class="site-card-logo"><img src="' + s.logo + '" alt="' + s.name + '" style="max-height:24px;max-width:80px;width:auto;object-fit:contain;" /></div>' +
+              '<span class="site-card-tag">' + s.tag + '</span>' +
+            '</div>' +
+            '<h4 class="site-card-name">' + s.name + '</h4>' +
+            '<div class="site-card-rating">' +
+              '<span class="site-card-rating-num">' + s.rating + '</span>' +
+              '<span class="site-card-stars">' + renderStars(s.rating, false) + '</span>' +
+            '</div>' +
+            '<p class="site-card-desc">' + s.desc + '</p>' +
+            '<span class="site-card-cta">Jetzt testen <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>';
+          otherSitesContainer.appendChild(card);
+          card.addEventListener('click', function(e) {
+            navigator.sendBeacon('/api/track', 'site=' + key);
+          });
+        }
+      });
+
       document.getElementById('quizContainer').classList.add('quiz-hidden');
       document.getElementById('resultContainer').classList.remove('quiz-hidden');
-      window.scrollTo({ top: 0, behavior: 'smooth' });
 
-      window._quizResult = winner;
+      navigator.sendBeacon('/api/track', 'result=' + resultType);
+
+      var shareTxt = 'Ich bin "' + result.name + '" — und du? Mach den Dating-Typ Test auf herzblatt-journal.com/dating-typ-test';
+      var shareUrl = 'https://herzblatt-journal.com/dating-typ-test';
+
+      document.getElementById('shareWA').onclick = function() {
+        window.open('https://wa.me/?text=' + encodeURIComponent(shareTxt + ' ' + shareUrl), '_blank');
+      };
+      document.getElementById('shareFB').onclick = function() {
+        window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(shareUrl) + '&quote=' + encodeURIComponent(shareTxt), '_blank');
+      };
     }
 
-
-    /* ============ SHARE ============ */
-
-    function shareWhatsApp() {
-      var r = datingTypes[window._quizResult];
-      var text = 'Ich bin "' + r.name + '" im Dating-Typ Test! ' + r.emoji + ' Finde heraus, welcher Typ du bist: https://herzblatt-journal.com/dating-typ-test';
-      window.open('https://wa.me/?text=' + encodeURIComponent(text));
-    }
-
-    function shareFacebook() {
-      window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent('https://herzblatt-journal.com/dating-typ-test'));
-    }
-
-    function copyLink() {
-      var url = window.location.origin + '/dating-typ-test';
-      navigator.clipboard.writeText(url).then(function() {
-        var btn = document.getElementById('copyBtn');
-        var orig = btn.innerHTML;
-        btn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m9 12 2 2 4-4"/></svg> Kopiert!';
-        setTimeout(function() { btn.innerHTML = orig; }, 2000);
-      });
-    }
-
-    function restartTest() {
+    document.getElementById('restartBtn').addEventListener('click', function(e) {
+      e.preventDefault();
       currentQ = 0;
       userAnswers = {};
-      document.getElementById('resultContainer').classList.add('quiz-hidden');
       document.getElementById('quizContainer').classList.remove('quiz-hidden');
-      initTest();
+      document.getElementById('resultContainer').classList.add('quiz-hidden');
+      renderQ();
+      updateProg();
       window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
-
-
-    /* ============ EVENT LISTENERS ============ */
-
-    document.addEventListener('DOMContentLoaded', function() {
-      initTest();
-
-      document.getElementById('restartBtn').addEventListener('click', function(e) {
-        e.preventDefault();
-        restartTest();
-      });
-
-      document.getElementById('shareWA').addEventListener('click', function(e) {
-        e.preventDefault();
-        shareWhatsApp();
-      });
-
-      document.getElementById('shareFB').addEventListener('click', function(e) {
-        e.preventDefault();
-        shareFacebook();
-      });
-
-      document.getElementById('copyBtn').addEventListener('click', function(e) {
-        e.preventDefault();
-        copyLink();
-      });
     });
 
-  })();
+    function copyLink() {
+      var btn = document.getElementById('copyBtn');
+      navigator.clipboard.writeText('https://herzblatt-journal.com/dating-typ-test').then(function() {
+        btn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m9 12 2 2 4-4"/></svg> Kopiert!';
+        setTimeout(function() {
+          btn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="14" height="14" x="8" y="8" rx="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></svg> Link kopieren';
+        }, 2000);
+      });
+    }
+
+    // Initialize main quiz
+    renderQ();
+    updateProg();
+
+    // Modal Quiz
+    var quizData = {
+      sites: {
+        xloves: { name: 'xLoves', url: 'https://www.dating-tracker.com/cmp/CLQ868/78NZBG/?source_id=herzblatt&sub1=xloves', logo: '/images/logos/xloves-logo.png', rating: 4.8, desc: 'Die moderne Dating-Plattform für echte Verbindungen — diskret, sicher und mit starker Community.', color: '#f43f5e' },
+        singlescout: { name: 'SingleScout', url: 'https://www.dating-tracker.com/cmp/CLQ868/7HKRSG/?source_id=herzblatt&sub1=singlescout', logo: '/images/logos/singlescout-v2-logo.png', rating: 4.5, desc: 'Die Anti-Swipe-Plattform: Persönlichkeit statt Profilbilder — mit einzigartigem Matching-System.', color: '#10b981' },
+        iloves: { name: 'i-Loves', url: 'https://www.dating-tracker.com/cmp/CLQ868/78NZBG/?source_id=herzblatt&sub1=i-loves', logo: '/images/logos/i-loves-logo.png', rating: 4.4, desc: 'Flirten und Chatten leicht gemacht — moderne App mit intelligenten Matching-Algorithmen.', color: '#8b5cf6' },
+        whatsmeet: { name: 'WhatsMeet', url: 'https://www.dating-tracker.com/cmp/CLQ868/79XTBX/?source_id=herzblatt&sub1=whatsmeet', logo: '/images/logos/whatsmeet-logo.png', rating: 4.3, desc: 'Chat-basiertes Dating mit Fokus auf echte Gespräche statt oberflächliches Swipen.', color: '#22c55e' },
+        michverlieben: { name: 'MichVerlieben', url: 'https://www.dating-tracker.com/cmp/CLQ868/77G3B1/?source_id=herzblatt&sub1=michverlieben', logo: '/images/logos/michverlieben-logo.png', rating: 4.1, desc: 'Deutsche Dating-Plattform mit Fokus auf ernsthafte Beziehungen und Partnervermittlung.', color: '#ef4444' },
+        onlydates69: { name: 'OnlyDates69', url: 'https://www.dating-tracker.com/cmp/CLQ868/7C6QCD/?source_id=herzblatt&sub1=onlydates69', logo: '/images/logos/onlydates69-logo.png', rating: 3.8, desc: 'Unkompliziertes Dating für spontane Treffen und zwanglose Verabredungen.', color: '#3b82f6' },
+        single69: { name: 'Single69', url: 'https://single69.de', logo: '/images/logos/single69-logo.png', rating: 3.6, desc: 'Casual-Dating-Plattform mit großer Nutzerbasis und schnellem Matching.', color: '#8b5cf6' },
+        sex69: { name: 'Sex69', url: 'https://sex69.de/', logo: '/images/logos/sex69-logo.png', rating: 3.5, desc: 'Erwachsenen-Dating-Plattform für offene und abenteuerlustige Singles.', color: '#f43f5e' }
+      },
+      questions: [
+        {
+          title: 'Was suchst du?',
+          subtitle: 'Wähle, was am besten zu dir passt',
+          options: [
+            { label: 'Feste Beziehung', icon: 'heart', scores: { xloves: 3, singlescout: 2, iloves: 1, michverlieben: 3, whatsmeet: 1, onlydates69: 0, single69: 0, sex69: 0 } },
+            { label: 'Casual Dating', icon: 'sparkle', scores: { xloves: 0, singlescout: 0, iloves: 2, michverlieben: 0, whatsmeet: 1, onlydates69: 3, single69: 2, sex69: 1 } },
+            { label: 'Neue Leute kennenlernen', icon: 'people', scores: { xloves: 1, singlescout: 2, iloves: 2, michverlieben: 0, whatsmeet: 3, onlydates69: 1, single69: 3, sex69: 0 } },
+            { label: 'Abenteuer', icon: 'flame', scores: { xloves: 0, singlescout: 0, iloves: 1, michverlieben: 0, whatsmeet: 0, onlydates69: 2, single69: 1, sex69: 3 } }
+          ]
+        },
+        {
+          title: 'Wie alt bist du?',
+          subtitle: 'Dein Alter hilft uns bei der Empfehlung',
+          options: [
+            { label: '18–25', icon: 'zap', scores: { xloves: 2, singlescout: 1, iloves: 2, michverlieben: 0, whatsmeet: 2, onlydates69: 2, single69: 2, sex69: 1 } },
+            { label: '26–35', icon: 'target', scores: { xloves: 2, singlescout: 2, iloves: 2, michverlieben: 1, whatsmeet: 2, onlydates69: 2, single69: 2, sex69: 1 } },
+            { label: '36–45', icon: 'coffee', scores: { xloves: 1, singlescout: 2, iloves: 1, michverlieben: 3, whatsmeet: 1, onlydates69: 1, single69: 1, sex69: 1 } },
+            { label: '45+', icon: 'sun', scores: { xloves: 1, singlescout: 2, iloves: 0, michverlieben: 3, whatsmeet: 1, onlydates69: 0, single69: 1, sex69: 0 } }
+          ]
+        },
+        {
+          title: 'Was ist dir am wichtigsten?',
+          subtitle: 'Deine Priorität beim Online-Dating',
+          options: [
+            { label: 'Sicherheit & Verifizierung', icon: 'shield', scores: { xloves: 3, singlescout: 2, iloves: 1, michverlieben: 2, whatsmeet: 1, onlydates69: 0, single69: 0, sex69: 0 } },
+            { label: 'Schneller Kontakt', icon: 'bolt', scores: { xloves: 0, singlescout: 0, iloves: 2, michverlieben: 0, whatsmeet: 1, onlydates69: 3, single69: 3, sex69: 1 } },
+            { label: 'Tiefe Gespräche', icon: 'chat', scores: { xloves: 1, singlescout: 2, iloves: 1, michverlieben: 2, whatsmeet: 3, onlydates69: 0, single69: 0, sex69: 0 } },
+            { label: 'Diskretion', icon: 'lock', scores: { xloves: 1, singlescout: 1, iloves: 1, michverlieben: 0, whatsmeet: 0, onlydates69: 1, single69: 1, sex69: 3 } }
+          ]
+        },
+        {
+          title: 'Wie willst du daten?',
+          subtitle: 'Dein bevorzugter Dating-Stil',
+          options: [
+            { label: 'Swipen & Matchen', icon: 'swipe', scores: { xloves: 3, singlescout: 0, iloves: 2, michverlieben: 0, whatsmeet: 0, onlydates69: 1, single69: 3, sex69: 1 } },
+            { label: 'Chat-basiert', icon: 'message', scores: { xloves: 1, singlescout: 1, iloves: 2, michverlieben: 0, whatsmeet: 3, onlydates69: 1, single69: 1, sex69: 1 } },
+            { label: 'Persönlichkeitstest', icon: 'brain', scores: { xloves: 0, singlescout: 3, iloves: 0, michverlieben: 3, whatsmeet: 1, onlydates69: 0, single69: 0, sex69: 0 } },
+            { label: 'Standort-basiert', icon: 'pin', scores: { xloves: 0, singlescout: 0, iloves: 1, michverlieben: 0, whatsmeet: 0, onlydates69: 3, single69: 1, sex69: 3 } }
+          ]
+        }
+      ]
+    };
+
+    var icons = {
+      heart: '<path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>',
+      sparkle: '<path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"/>',
+      people: '<path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/>',
+      flame: '<path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"/>',
+      zap: '<path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"/>',
+      target: '<circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/>',
+      coffee: '<path d="M10 2v2"/><path d="M14 2v2"/><path d="M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a2 2 0 0 1 2 2v1a2 2 0 0 1-2 2h-1"/>',
+      sun: '<circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/>',
+      shield: '<path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/>',
+      bolt: '<path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><circle cx="12" cy="12" r="4"/>',
+      chat: '<path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/>',
+      lock: '<rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/>',
+      swipe: '<path d="M18 11V6a2 2 0 0 0-2-2a2 2 0 0 0-2 2"/><path d="M14 10V4a2 2 0 0 0-2-2a2 2 0 0 0-2 2v2"/><path d="M10 10.5V6a2 2 0 0 0-2-2a2 2 0 0 0-2 2v8"/><path d="M18 8a2 2 0 1 1 4 0v6a8 8 0 0 1-8 8h-2c-2.8 0-4.5-.86-5.99-2.34l-3.6-3.6a2 2 0 0 1 2.83-2.82L7 15"/>',
+      message: '<path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/><path d="M8 12h.01"/><path d="M12 12h.01"/><path d="M16 12h.01"/>',
+      brain: '<path d="M12 5a3 3 0 1 0-5.997.125 4 4 0 0 0-2.526 5.77 4 4 0 0 0 .556 6.588A4 4 0 1 0 12 18Z"/><path d="M12 5a3 3 0 1 1 5.997.125 4 4 0 0 1 2.526 5.77 4 4 0 0 1-.556 6.588A4 4 0 1 1 12 18Z"/><path d="M15 13a4.5 4.5 0 0 1-3-4 4.5 4.5 0 0 1-3 4"/><path d="M17.599 6.5a3 3 0 0 0 .399-1.375"/><path d="M6.003 5.125A3 3 0 0 0 6.401 6.5"/><path d="M3.477 10.896a4 4 0 0 1 .585-.396"/><path d="M19.938 10.5a4 4 0 0 1 .585.396"/><path d="M6 18a4 4 0 0 1-1.967-.516"/><path d="M19.967 17.484A4 4 0 0 1 18 18"/>',
+      pin: '<path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/>'
+    };
+
+    function getIcon(name) {
+      var path = icons[name] || '';
+      return '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' + path + '</svg>';
+    }
+
+    function renderStarsModal(rating) {
+      var html = '';
+      var full = Math.floor(rating);
+      var half = rating % 1 >= 0.3;
+      var empty = 5 - full - (half ? 1 : 0);
+      for (var i = 0; i < full; i++) html += '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="#f43f5e" stroke="none"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>';
+      if (half) html += '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="none"><defs><linearGradient id="qh"><stop offset="50%" stop-color="#f43f5e"/><stop offset="50%" stop-color="#e5e7eb"/></linearGradient></defs><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" fill="url(#qh)"/></svg>';
+      for (var i = 0; i < empty; i++) html += '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="#e5e7eb" stroke="none"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>';
+      return html;
+    }
+
+    var currentStep = 0;
+    var scores = { xloves: 0, singlescout: 0, iloves: 0, whatsmeet: 0, michverlieben: 0, onlydates69: 0, single69: 0, sex69: 0 };
+
+    function renderQuestion(step) {
+      var q = quizData.questions[step];
+      var container = document.getElementById('quizSteps');
+      container.innerHTML = '';
+
+      var stepDiv = document.createElement('div');
+      stepDiv.className = 'quiz-step';
+      stepDiv.innerHTML = '<h3 class="step-title">' + q.title + '</h3><p class="step-subtitle">' + q.subtitle + '</p><div class="options-grid" id="optionsGrid"></div>';
+      container.appendChild(stepDiv);
+
+      var optionsGrid = document.getElementById('optionsGrid');
+      q.options.forEach(function(opt, i) {
+        var btn = document.createElement('button');
+        btn.className = 'option-btn';
+        btn.innerHTML = '<div class="option-icon">' + getIcon(opt.icon) + '</div><span class="option-label">' + opt.label + '</span>';
+        btn.onclick = function() {
+          selectQuizOption(step, i);
+        };
+        optionsGrid.appendChild(btn);
+      });
+    }
+
+    function renderResult() {
+      var winnerSite = null;
+      var maxScore = -1;
+      for (var site in scores) {
+        if (scores[site] > maxScore) {
+          maxScore = scores[site];
+          winnerSite = site;
+        }
+      }
+
+      var site = quizData.sites[winnerSite];
+      var container = document.getElementById('quizSteps');
+      container.innerHTML = '<div class="modal-result"><div class="result-checkmark"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 12 2 2 4-4"/><circle cx="12" cy="12" r="10"/></svg></div><p class="result-perfect-match">Dein perfektes Match</p><div class="result-logo-container"><img src="' + site.logo + '" alt="' + site.name + '" class="result-logo"></div><h3 class="result-name-modal">' + site.name + '</h3><p class="result-desc-modal">' + site.desc + '</p><div class="result-rating-modal"><span class="result-rating-modal">' + site.rating + '</span><span class="result-rating-modal">' + renderStarsModal(site.rating) + '</span></div><a href="' + site.url + '" target="_blank" class="result-cta-modal">Jetzt testen <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></a><button onclick="restartQuiz()" class="result-cta-modal" style="background:var(--color-neutral-100);color:var(--text-primary);margin-top:1rem;">Nochmal versuchen</button></div>';
+    }
+
+    window.openDatingQuiz = function() {
+      var overlay = document.getElementById('dating-quiz-overlay');
+      overlay.classList.remove('hidden');
+      setTimeout(function() {
+        overlay.style.opacity = '1';
+      }, 10);
+      document.body.style.overflow = 'hidden';
+      renderQuestion(0);
+    };
+
+    window.closeDatingQuiz = function() {
+      var overlay = document.getElementById('dating-quiz-overlay');
+      overlay.style.opacity = '0';
+      setTimeout(function() {
+        overlay.classList.add('hidden');
+        overlay.style.opacity = '';
+        overlay.style.transition = '';
+        document.body.style.overflow = '';
+      }, 300);
+    };
+
+    window.selectQuizOption = function(step, optionIndex) {
+      var opt = quizData.questions[step].options[optionIndex];
+      for (var key in opt.scores) {
+        scores[key] += opt.scores[key];
+      }
+      currentStep++;
+      if (currentStep < quizData.questions.length) {
+        renderQuestion(currentStep);
+      } else {
+        renderResult();
+      }
+    };
+
+    window.restartQuiz = function() {
+      currentStep = 0;
+      scores = { xloves: 0, singlescout: 0, iloves: 0, whatsmeet: 0, michverlieben: 0, onlydates69: 0, single69: 0, sex69: 0 };
+      renderQuestion(0);
+    };
+
+    // FAQ accordion
+    document.querySelectorAll('.faq-item').forEach(function(item) {
+      item.addEventListener('click', function() {
+        item.classList.toggle('open');
+      });
+    });
   </script>
-
-  <style is:global>
-    /* ====== Antwort-Buttons als Karten ====== */
-    .quiz-answer-btn {
-      display: flex;
-      align-items: center;
-      gap: 1rem;
-      width: 100%;
-      padding: 1.15rem 1.5rem;
-      border-radius: 1rem;
-      border: 2px solid var(--border);
-      background: var(--bg);
-      cursor: pointer;
-      transition: all 0.25s ease;
-      text-align: left;
-      font-size: 0.95rem;
-      font-weight: 500;
-      color: var(--text);
-      font-family: inherit;
-      line-height: 1.5;
-      position: relative;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.04);
-    }
-
-    .quiz-answer-btn:hover {
-      border-color: var(--color-primary-400);
-      background: var(--color-primary-50);
-      box-shadow: 0 4px 16px rgba(244, 63, 94, 0.12);
-      transform: translateY(-2px);
-    }
-
-    .quiz-answer-btn:active {
-      transform: translateY(0);
-    }
-
-    .quiz-answer-btn.selected {
-      border-color: var(--color-primary-500);
-      background: var(--color-primary-50);
-      box-shadow: 0 0 0 3px rgba(244, 63, 94, 0.15), 0 4px 16px rgba(244, 63, 94, 0.12);
-    }
-
-    /* Radio-Kreis als Checkbox-Indikator */
-    .quiz-answer-radio {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      width: 28px;
-      height: 28px;
-      border-radius: 50%;
-      border: 2.5px solid var(--border);
-      flex-shrink: 0;
-      transition: all 0.25s ease;
-      background: var(--bg);
-    }
-
-    .quiz-answer-radio-dot {
-      width: 12px;
-      height: 12px;
-      border-radius: 50%;
-      background: transparent;
-      transition: all 0.25s ease;
-    }
-
-    .quiz-answer-btn:hover .quiz-answer-radio {
-      border-color: var(--color-primary-400);
-      background: var(--color-primary-50);
-    }
-
-    .quiz-answer-btn.selected .quiz-answer-radio {
-      border-color: var(--color-primary-500);
-      background: var(--color-primary-500);
-    }
-
-    .quiz-answer-btn.selected .quiz-answer-radio-dot {
-      background: white;
-    }
-
-    .quiz-answer-icon {
-      font-size: 1.5rem;
-      flex-shrink: 0;
-      width: 2.2rem;
-      height: 2.2rem;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      border-radius: 0.625rem;
-      background: var(--color-primary-50);
-      transition: all 0.25s ease;
-    }
-
-    .quiz-answer-btn:hover .quiz-answer-icon {
-      background: var(--color-primary-100);
-    }
-
-    .quiz-answer-btn.selected .quiz-answer-icon {
-      background: var(--color-primary-100);
-    }
-
-    .quiz-answer-text {
-      flex: 1;
-      font-weight: 500;
-    }
-
-    .quiz-answer-arrow {
-      flex-shrink: 0;
-      color: var(--text-muted);
-      opacity: 0.3;
-      transition: all 0.25s ease;
-    }
-
-    .quiz-answer-btn:hover .quiz-answer-arrow {
-      opacity: 1;
-      transform: translateX(3px);
-      color: var(--color-primary-500);
-    }
-
-    .quiz-answer-btn.selected .quiz-answer-arrow {
-      opacity: 1;
-      color: var(--color-primary-500);
-    }
-
-    /* ====== Sichtbarkeit ====== */
-    .quiz-hidden {
-      display: none !important;
-    }
-
-    /* ====== Dating-Seiten Karten ====== */
-    .site-card {
-      display: flex;
-      flex-direction: column;
-      padding: 1.25rem;
-      border-radius: 1rem;
-      border: 1px solid var(--border);
-      background: var(--bg-card);
-      text-decoration: none;
-      color: var(--text);
-      transition: all 0.2s ease;
-    }
-
-    .site-card:hover {
-      border-color: var(--color-primary-300);
-      box-shadow: 0 4px 20px rgba(244,63,94,0.1);
-      transform: translateY(-2px);
-    }
-
-    .site-card-header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      margin-bottom: 0.75rem;
-    }
-
-    .site-card-logo {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      width: 40px;
-      height: 40px;
-      border-radius: 0.5rem;
-      background: var(--bg-soft);
-      flex-shrink: 0;
-    }
-
-    .site-card-tag {
-      font-size: 0.65rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      color: var(--color-primary-600);
-      background: var(--color-primary-50);
-      padding: 0.2rem 0.5rem;
-      border-radius: 0.375rem;
-    }
-
-    .site-card-name {
-      font-size: 1rem;
-      font-weight: 700;
-      margin-bottom: 0.25rem;
-      color: var(--text);
-    }
-
-    .site-card-rating {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      margin-bottom: 0.5rem;
-    }
-
-    .site-card-rating-num {
-      font-size: 0.8rem;
-      font-weight: 700;
-      color: var(--color-primary-600);
-    }
-
-    .site-card-stars {
-      display: flex;
-      align-items: center;
-      gap: 1px;
-    }
-
-    .site-card-desc {
-      font-size: 0.8rem;
-      color: var(--text-muted);
-      line-height: 1.5;
-      margin-bottom: 0.75rem;
-      flex: 1;
-    }
-
-    .site-card-cta {
-      display: inline-flex;
-      align-items: center;
-      gap: 0.35rem;
-      font-size: 0.8rem;
-      font-weight: 700;
-      color: var(--color-primary-600);
-    }
-
-    /* ====== Mobile ====== */
-    @media (max-width: 640px) {
-      .quiz-answer-btn {
-        padding: 1rem 1.15rem;
-        font-size: 0.9rem;
-        gap: 0.75rem;
-      }
-      .quiz-answer-icon {
-        font-size: 1.25rem;
-        width: 1.9rem;
-        height: 1.9rem;
-      }
-      .quiz-answer-radio {
-        width: 24px;
-        height: 24px;
-      }
-      .quiz-answer-radio-dot {
-        width: 10px;
-        height: 10px;
-      }
-    }
-  </style>
-
 </BaseLayout>
