@@ -62,14 +62,13 @@ const postsToDisplay = posts;
       >
         Alle
       </button>
-      {topTags.map(([tag, count]) => (
+      {topTags.map(([tag]) => (
         <button
           class="filter-btn px-4 py-2 rounded-full text-sm font-medium transition-all"
           data-tag={tag}
         >
           <span class="mr-1">{categoryIcons[tag] || '♥'}</span>
           {tag}
-          <span class="ml-1 opacity-50">{count}</span>
         </button>
       ))}
     </div>
