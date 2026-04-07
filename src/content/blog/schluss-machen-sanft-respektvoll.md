@@ -2,6 +2,7 @@
 title: "Schluss machen sanft und respektvoll: Der faire Trennungs-Guide"
 description: "Trennungen müssen nicht grausam sein. Lerne, wie du respektvoll Schluss machst und beiden Parteien Würde bewahrst."
 date: 2026-04-06
+image: "/images/photos/schluss-machen-sanft-respektvoll.webp"
 tags:
   - "Beziehung"
   - "Heilung"

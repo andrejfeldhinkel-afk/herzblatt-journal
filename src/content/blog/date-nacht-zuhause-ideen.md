@@ -2,6 +2,7 @@
 title: "Date Nacht zuhause: 30 Ideen für mehr Nähe"
 description: "30 konkrete Ideen für unvergessliche Dateabende daheim. Von Essen über Spiele bis Kommunikation – mit praktischen Tipps für mehr Nähe."
 date: 2026-04-06
+image: "/images/photos/date-nacht-zuhause-ideen.webp"
 tags:
   - "Dating"
   - "Date-Ideen"

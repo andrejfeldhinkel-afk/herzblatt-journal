@@ -2,6 +2,7 @@
 title: "Freundschaften als Erwachsener finden: Der ehrliche Guide"
 description: "Freundschaften als Erwachsener zu finden ist hart. Lerne, wie du echte Verbindungen aufbaust und nicht allein bleibst."
 date: 2026-04-06
+image: "/images/photos/erwachsene-freundschaften-finden.webp"
 tags:
   - "Beziehung"
   - "Kommunikation"

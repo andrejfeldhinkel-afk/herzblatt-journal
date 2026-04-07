@@ -2,6 +2,7 @@
 title: "Selbstliebe lernen: 21 Übungen für jeden Tag"
 description: "Praktische Selbstliebe-Übungen, die du täglich anwenden kannst. Mit 21 konkreten Methoden zu innerer Stabilität und echtem Selbstwertgefühl."
 date: 2026-04-06
+image: "/images/photos/selbstliebe-uebungen-alltag.webp"
 tags:
   - "Selbstliebe"
   - "Psychologie"

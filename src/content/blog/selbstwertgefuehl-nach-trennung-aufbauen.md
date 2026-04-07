@@ -2,6 +2,7 @@
 title: "Selbstwertgefühl nach Trennung aufbauen: Der 8-Wochen-Plan"
 description: "Selbstwertgefühl nach Trennung wiederherstellen mit praktischen 8-Wochen-Plan: psychologische Strategien, Übungen und konkrete Schritte für Heilung."
 date: 2026-04-06
+image: "/images/photos/selbstwertgefuehl-nach-trennung-aufbauen.webp"
 tags:
   - "Beziehung"
   - "Psychologie"

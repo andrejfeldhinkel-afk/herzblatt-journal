@@ -2,6 +2,7 @@
 title: "Chemie zwischen Menschen: Was dahintersteckt und wie du sie erkennst"
 description: "Chemie ist real. Erfahre, was dahintersteckt, wie du sie erkennst und ob Chemie für echte Liebe notwendig ist."
 date: 2026-04-06
+image: "/images/photos/chemie-zwischen-menschen-erkennen.webp"
 tags:
   - "Dating"
   - "Psychologie"

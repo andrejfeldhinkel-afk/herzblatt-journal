@@ -2,6 +2,7 @@
 title: "Streit beilegen in der Partnerschaft: 7 Schritte zur Versöhnung"
 description: "Lerne, wie du Konflikte produktiv klärst und deine Beziehung stärkst. Praktische Schritte für echte Versöhnung ohne Frust."
 date: 2026-04-06
+image: "/images/photos/streit-beilegen-partnerschaft.webp"
 tags:
   - "Beziehung"
   - "Kommunikation"

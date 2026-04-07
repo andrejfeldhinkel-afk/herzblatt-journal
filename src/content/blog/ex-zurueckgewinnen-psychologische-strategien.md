@@ -2,6 +2,7 @@
 title: "Ex zurückgewinnen: Die ehrlichen psychologischen Strategien"
 description: "Ex zurückgewinnen mit bewährten psychologischen Strategien: Wann es sinnvoll ist, No Contact, Selbstentwicklung und psychologische Taktiken, die wirklich funktionieren."
 date: 2026-04-06
+image: "/images/photos/ex-zurueckgewinnen-psychologische-strategien.webp"
 tags:
   - "Beziehung"
   - "Psychologie"

@@ -2,6 +2,7 @@
 title: "Fernbeziehung retten: 15 Tipps die wirklich funktionieren"
 description: "Fernbeziehung retten mit 15 praktischen, psychologisch fundierten Tipps: Kommunikation, Vertrauen, Intimität und konkrete Strategien für Erfolg."
 date: 2026-04-06
+image: "/images/photos/fernbeziehung-retten-tipps.webp"
 tags:
   - "Beziehung"
   - "Kommunikation"

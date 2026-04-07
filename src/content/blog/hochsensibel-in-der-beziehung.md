@@ -2,6 +2,7 @@
 title: "Hochsensibel in der Beziehung: Liebe ohne Überforderung"
 description: "Du nimmst alles intensiver auf? Lerne, wie du als hochsensibler Mensch eine erfüllte Beziehung führst."
 date: 2026-04-06
+image: "/images/photos/hochsensibel-in-der-beziehung.webp"
 tags:
   - "Beziehung"
   - "Psychologie"

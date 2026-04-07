@@ -2,6 +2,7 @@
 title: "Beziehungsangst beim Mann erkennen und richtig reagieren"
 description: "Beziehungsangst beim Mann erkennen mit klaren Warnsignalen, psychologischen Gründen und effektiven Strategien, wie du damit umgehen kannst."
 date: 2026-04-06
+image: "/images/photos/beziehungsangst-beim-mann-erkennen.webp"
 tags:
   - "Beziehung"
   - "Psychologie"

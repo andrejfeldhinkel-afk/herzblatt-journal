@@ -2,6 +2,7 @@
 title: "Stille Behandlung in der Partnerschaft: Gift für die Liebe"
 description: "Stille Behandlung zerstört Partnerschaften. Lerne, warum du diese Taktik vermeiden solltest und wie ihr wieder kommuniziert."
 date: 2026-04-06
+image: "/images/photos/stille-behandlung-partnerschaft.webp"
 tags:
   - "Beziehung"
   - "Kommunikation"

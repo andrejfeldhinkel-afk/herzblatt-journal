@@ -2,6 +2,7 @@
 title: "Konfliktvermeidung in der Beziehung: Warum Schweigen schadet"
 description: "Konflikte vermeiden zerstört Beziehungen. Warum Konfrontation notwendig ist und wie du Konflikte produktiv löst."
 date: 2026-04-06
+image: "/images/photos/konfliktvermeidung-beziehung-loesen.webp"
 tags:
   - "Beziehung"
   - "Kommunikation"

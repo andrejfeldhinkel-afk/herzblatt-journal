@@ -2,6 +2,7 @@
 title: "Toxische Freundschaft beenden: Anzeichen, Schritte & Heilung"
 description: "Toxische Freundschaft erkennen und beenden: Warnsignale, psychologische Strategien und Heilungsschritte für mehr inneren Frieden."
 date: 2026-04-06
+image: "/images/photos/toxische-freundschaft-beenden.webp"
 tags:
   - "Beziehung"
   - "Psychologie"
