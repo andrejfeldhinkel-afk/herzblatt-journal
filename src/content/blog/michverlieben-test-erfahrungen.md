@@ -11,7 +11,7 @@ tags:
 keywords: ["michverlieben test", "michverlieben erfahrungen", "michverlieben kosten", "michverlieben bewertung", "michverlieben seriös"]
 draft: false
 author: "markus-hoffmann"
-image: "/images/photos/michverlieben-test-erfahrungen.webp"
+image: "/images/blog/michverlieben-test-erfahrungen.webp"
 faq:
   - question: "Was kostet MichVerlieben und ist die Registrierung wirklich kostenlos?"
     answer: "Der Persönlichkeitstest, die Profilerstellung und ein erster Blick auf Partnervorschläge sind kostenlos. Für die aktive Kontaktaufnahme mit anderen Mitgliedern brauchst du ein Abo ab 14,99€ pro Monat. Es gibt keine versteckten Kosten und du kannst dich jederzeit kündigen."
