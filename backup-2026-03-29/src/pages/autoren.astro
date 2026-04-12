@@ -1,0 +1,122 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const authors = [
+  {
+    name: 'Lisa Bergmann',
+    role: 'Chefredakteurin & Beziehungscoach',
+    image: '/images/author-lisa.webp',
+    bio: 'Lisa ist zertifizierte Beziehungsberaterin mit über 8 Jahren Erfahrung im Coaching von Singles und Paaren. Nach ihrem Studium der Psychologie in Hamburg hat sie sich auf Bindungsmuster und moderne Dating-Dynamiken spezialisiert. Bei Herzblatt Journal verantwortet sie die redaktionelle Qualität und schreibt über Beziehungspsychologie, Bindungsangst und emotionale Intelligenz.',
+    specialties: ['Beziehungspsychologie', 'Bindungsmuster', 'Emotionale Intelligenz'],
+    articles: 28,
+  },
+  {
+    name: 'Marco Schreiber',
+    role: 'Dating-Experte & Redakteur',
+    image: '/images/author-marco.webp',
+    bio: 'Marco bringt seine Expertise als ehemaliger Dating-App-Produktmanager in die Redaktion ein. Er kennt die Online-Dating-Branche von innen und weiß, was funktioniert — und was nicht. Seine Artikel fokussieren sich auf praktische Dating-Tipps, Online-Dating-Strategien und die männliche Perspektive auf moderne Beziehungen.',
+    specialties: ['Online-Dating', 'Dating-Strategie', 'Profiloptimierung'],
+    articles: 22,
+  },
+];
+
+// Schema.org Person markup
+const personSchemas = authors.map(author => ({
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": author.name,
+  "jobTitle": author.role,
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Herzblatt Journal",
+    "url": "https://herzblatt-journal.com"
+  },
+  "knowsAbout": author.specialties,
+}));
+---
+
+<BaseLayout
+  title="Unsere Autoren — Herzblatt Journal"
+  description="Lerne das Redaktionsteam hinter Herzblatt Journal kennen. Zertifizierte Beziehungsberater und Dating-Experten schreiben für dich."
+>
+  {personSchemas.map(schema => (
+    <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+  ))}
+
+  <section class="max-w-4xl mx-auto px-4 sm:px-6 py-16">
+    <!-- Header -->
+    <div class="text-center mb-14">
+      <h1 class="text-3xl sm:text-4xl font-extrabold mb-4" style="color: var(--text); font-family: var(--font-serif);">Unsere Autoren</h1>
+      <p class="text-lg max-w-2xl mx-auto" style="color: var(--text-muted);">
+        Hinter jedem Artikel steht ein Experte, der sich mit Leidenschaft für dein Liebesleben einsetzt.
+      </p>
+    </div>
+
+    <!-- Authors -->
+    <div class="space-y-12">
+      {authors.map((author, i) => (
+        <article class="rounded-2xl overflow-hidden" style="background: var(--bg-card); border: 1px solid var(--border); box-shadow: 0 2px 12px rgba(0,0,0,0.04);">
+          <div class="flex flex-col sm:flex-row">
+            <!-- Photo -->
+            <div class="sm:w-64 shrink-0">
+              <div class="aspect-square sm:aspect-auto sm:h-full overflow-hidden">
+                <img src={author.image} alt={author.name} class="w-full h-full object-cover" loading={i === 0 ? "eager" : "lazy"} />
+              </div>
+            </div>
+
+            <!-- Info -->
+            <div class="p-6 sm:p-8 flex-1">
+              <div class="mb-4">
+                <h2 class="text-xl font-bold mb-1" style="color: var(--text); font-family: var(--font-serif);">{author.name}</h2>
+                <p class="text-sm font-medium" style="color: var(--color-primary-600);">{author.role}</p>
+              </div>
+
+              <p class="text-sm leading-relaxed mb-5" style="color: var(--text-muted);">{author.bio}</p>
+
+              <!-- Specialties -->
+              <div class="flex flex-wrap gap-2 mb-5">
+                {author.specialties.map(s => (
+                  <span class="text-xs font-medium px-3 py-1 rounded-full" style="background: var(--color-primary-50); color: var(--color-primary-700);">{s}</span>
+                ))}
+              </div>
+
+              <!-- Stats -->
+              <div class="flex items-center gap-6 pt-4" style="border-top: 1px solid var(--border);">
+                <div>
+                  <p class="text-lg font-bold" style="color: var(--color-primary-600);">{author.articles}+</p>
+                  <p class="text-[10px] uppercase tracking-wider font-medium" style="color: var(--text-muted);">Artikel</p>
+                </div>
+                <div>
+                  <p class="text-lg font-bold" style="color: var(--color-primary-600);">8+</p>
+                  <p class="text-[10px] uppercase tracking-wider font-medium" style="color: var(--text-muted);">Jahre Erfahrung</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </article>
+      ))}
+    </div>
+
+    <!-- E-E-A-T Statement -->
+    <div class="mt-14 rounded-2xl p-8 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);">
+      <h2 class="text-lg font-bold mb-3" style="color: var(--text); font-family: var(--font-serif);">Unser Qualitätsversprechen</h2>
+      <p class="text-sm leading-relaxed max-w-2xl mx-auto" style="color: var(--text-muted);">
+        Alle Artikel bei Herzblatt Journal werden von zertifizierten Beziehungsberatern und erfahrenen Dating-Experten verfasst.
+        Wir stützen unsere Inhalte auf aktuelle psychologische Forschung und jahrelange Praxiserfahrung.
+        Unser Ziel: Dir fundierte, ehrliche und alltagstaugliche Ratschläge zu geben, die wirklich funktionieren.
+      </p>
+    </div>
+
+    <!-- Link to latest articles -->
+    <div class="mt-10 text-center">
+      <a href="/blog" class="inline-flex items-center gap-2 px-6 py-3 rounded-full text-sm font-semibold text-white transition-all hover:shadow-lg hover:-translate-y-0.5" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600));">
+        Unsere neuesten Artikel lesen
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+      </a>
+    </div>
+  </section>
+</BaseLayout>

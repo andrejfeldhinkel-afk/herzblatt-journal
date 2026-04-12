@@ -1,0 +1,503 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AppCTA from '../components/AppCTA.astro';
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('blog', ({ data }) => !data.draft);
+const postCount = posts.length;
+
+// Collect unique tags
+const allTags = new Set<string>();
+posts.forEach(p => p.data.tags.forEach(t => allTags.add(t)));
+---
+
+<BaseLayout
+  title="Über uns — Herzblatt Journal | Dein Dating-Ratgeber"
+  description="Lerne das Team hinter Herzblatt Journal kennen. Unsere Mission: Ehrliche, fundierte Dating-Tipps für alle, die die Liebe suchen."
+  faq={[
+    { question: "Wer steckt hinter Herzblatt Journal?", answer: "Herzblatt Journal wird von einem engagierten Team aus Beziehungsexperten, Psychologen und erfahrenen Redakteuren betrieben, die es sich zur Aufgabe gemacht haben, ehrliche und praxisnahe Dating-Ratgeber zu erstellen." },
+    { question: "Sind die Inhalte kostenlos?", answer: "Ja, alle unsere Ratgeber, Guides und Tests sind zu 100% kostenlos zugänglich. Wir finanzieren uns über Partnerempfehlungen und Affiliate-Links zu Dating-Plattformen." },
+    { question: "Wie kann ich Herzblatt Journal kontaktieren?", answer: "Du erreichst uns per E-Mail an kontakt@herzblatt-journal.com. Wir antworten in der Regel innerhalb von 24 Stunden." }
+  ]}
+>
+  <!-- Hero Section -->
+  <section class="relative overflow-hidden py-20 sm:py-28">
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, var(--color-primary-50) 0%, var(--color-surface-100) 50%, var(--color-primary-50) 100%);"></div>
+    <div class="absolute top-10 left-10 w-72 h-72 rounded-full opacity-20" style="background: var(--color-primary-200); filter: blur(80px);"></div>
+    <div class="absolute bottom-10 right-10 w-96 h-96 rounded-full opacity-15" style="background: var(--color-primary-300); filter: blur(100px);"></div>
+
+    <div class="relative max-w-4xl mx-auto px-4 sm:px-6 text-center">
+      <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-semibold mb-6" style="background: var(--color-primary-100); color: var(--color-primary-700);">
+        <span class="heart-pulse">❤️</span> Seit 2024 für dich da
+      </div>
+      <h1 class="text-4xl sm:text-5xl font-extrabold mb-6" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.03em; line-height: 1.1;">
+        Wir helfen dir, die Liebe<br>
+        <span style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">zu finden</span>
+      </h1>
+      <p class="text-lg sm:text-xl max-w-2xl mx-auto leading-relaxed" style="color: var(--text-muted);">
+        Herzblatt Journal ist Deutschlands wachsender Dating-Ratgeber. Ehrlich, fundiert und für alle, die an echte Verbindungen glauben.
+      </p>
+    </div>
+  </section>
+
+  <!-- Numbers Bar -->
+  <section class="relative -mt-8 z-10 max-w-5xl mx-auto px-4 sm:px-6">
+    <div class="rounded-2xl p-6 sm:p-8 shadow-lg" style="background: var(--bg); border: 1px solid var(--border);">
+      <div class="grid grid-cols-2 sm:grid-cols-4 gap-6 text-center">
+        <div>
+          <p class="text-3xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">{postCount}+</p>
+          <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Ratgeber & Guides</p>
+        </div>
+        <div>
+          <p class="text-3xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">50K+</p>
+          <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Monatliche Leser</p>
+        </div>
+        <div>
+          <p class="text-3xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">{allTags.size}+</p>
+          <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Themengebiete</p>
+        </div>
+        <div>
+          <p class="text-3xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">100%</p>
+          <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Kostenlos</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="max-w-4xl mx-auto px-4 sm:px-6">
+
+    <!-- Unsere Geschichte -->
+    <section class="py-16">
+      <div class="flex items-center gap-3 mb-6">
+        <div class="w-1 h-8 rounded-full" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-300));"></div>
+        <h2 class="text-2xl font-bold" style="color: var(--text); font-family: var(--font-serif);">Unsere Geschichte</h2>
+      </div>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-8 items-start">
+        <div class="space-y-4 text-base leading-relaxed" style="color: var(--text-muted);">
+          <p>
+            Alles begann 2024 mit einer einfachen Beobachtung: <strong style="color: var(--text);">Die meisten Dating-Ratgeber im Internet sind entweder oberflächlich, veraltet oder schlicht falsch.</strong> Manipulative Tricks, toxische Pick-Up-Strategien und unrealistische Versprechen überall.
+          </p>
+          <p>
+            Wir wollten einen Ort schaffen, an dem Menschen ehrliche, respektvolle und wissenschaftlich fundierte Tipps finden — egal ob sie gerade ihr erstes Dating-Profil erstellen oder seit 20 Jahren verheiratet sind.
+          </p>
+          <p>
+            Was als kleiner Blog mit einer Handvoll Artikeln begann, ist heute zu einer umfassenden Plattform mit über <strong style="color: var(--text);">{postCount} Ratgebern</strong> gewachsen, die tausenden Menschen dabei hilft, echte Verbindungen aufzubauen.
+          </p>
+        </div>
+        <div class="space-y-4">
+          <!-- Animated Timeline -->
+          <div id="timeline-container" class="relative pl-8">
+            <div class="absolute left-0 top-0 bottom-0 w-[2px]" style="background: var(--color-primary-100);"></div>
+            <div id="timeline-line" class="absolute left-0 top-0 w-[2px]" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-600)); height: 0;"></div>
+
+            <div class="mb-6 relative timeline-item" data-index="0">
+              <div class="timeline-dot absolute -left-[2.35rem] w-4 h-4 rounded-full transition-all duration-500" style="background: var(--color-primary-100); border: 3px solid var(--color-primary-100);"></div>
+              <p class="text-xs font-bold uppercase tracking-wider mb-1 transition-colors duration-500" style="color: var(--text-muted);">Frühjahr 2024</p>
+              <p class="text-sm" style="color: var(--text-muted);">Idee & erste Artikel — Herzblatt Journal geht online</p>
+            </div>
+            <div class="mb-6 relative timeline-item" data-index="1">
+              <div class="timeline-dot absolute -left-[2.35rem] w-4 h-4 rounded-full transition-all duration-500" style="background: var(--color-primary-100); border: 3px solid var(--color-primary-100);"></div>
+              <p class="text-xs font-bold uppercase tracking-wider mb-1 transition-colors duration-500" style="color: var(--text-muted);">Sommer 2024</p>
+              <p class="text-sm" style="color: var(--text-muted);">100 Ratgeber veröffentlicht, erste Leser-Community</p>
+            </div>
+            <div class="mb-6 relative timeline-item" data-index="2">
+              <div class="timeline-dot absolute -left-[2.35rem] w-4 h-4 rounded-full transition-all duration-500" style="background: var(--color-primary-100); border: 3px solid var(--color-primary-100);"></div>
+              <p class="text-xs font-bold uppercase tracking-wider mb-1 transition-colors duration-500" style="color: var(--text-muted);">Anfang 2025</p>
+              <p class="text-sm" style="color: var(--text-muted);">Partnerschaften mit führenden Dating-Plattformen</p>
+            </div>
+            <div class="mb-6 relative timeline-item" data-index="3">
+              <div class="timeline-dot absolute -left-[2.35rem] w-4 h-4 rounded-full transition-all duration-500" style="background: var(--color-primary-100); border: 3px solid var(--color-primary-100);"></div>
+              <p class="text-xs font-bold uppercase tracking-wider mb-1 transition-colors duration-500" style="color: var(--text-muted);">2025</p>
+              <p class="text-sm" style="color: var(--text-muted);">Relaunch mit neuem Design und interaktiven Features</p>
+            </div>
+            <div class="relative timeline-item" data-index="4">
+              <div class="timeline-dot absolute -left-[2.35rem] w-4 h-4 rounded-full transition-all duration-500" style="background: var(--color-primary-100); border: 3px solid var(--color-primary-100);"></div>
+              <p class="text-xs font-bold uppercase tracking-wider mb-1 transition-colors duration-500" style="color: var(--text-muted);">Heute</p>
+              <p class="text-sm" style="color: var(--text-muted);">{postCount}+ Ratgeber, wachsende Community und neue Formate</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Mission & Werte -->
+    <section class="py-16" style="border-top: 1px solid var(--border);">
+      <div class="flex items-center gap-3 mb-6">
+        <div class="w-1 h-8 rounded-full" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-300));"></div>
+        <h2 class="text-2xl font-bold" style="color: var(--text); font-family: var(--font-serif);">Unsere Mission & Werte</h2>
+      </div>
+
+      <p class="text-base leading-relaxed mb-8" style="color: var(--text-muted);">
+        Wir glauben, dass gute Beziehungen mit guter Selbstkenntnis beginnen. Unsere Mission ist es, jedem Menschen die Werkzeuge und das Wissen zu geben, um authentische, gesunde und erfüllende Verbindungen aufzubauen.
+      </p>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-5">
+        <div class="rounded-2xl p-6 flex gap-4" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="flex-shrink-0 w-12 h-12 rounded-xl flex items-center justify-center text-xl" style="background: linear-gradient(135deg, #FEE2E2, #FECACA);">🎯</div>
+          <div>
+            <h3 class="text-sm font-bold mb-1.5" style="color: var(--text);">Ehrlichkeit vor allem</h3>
+            <p class="text-sm leading-relaxed" style="color: var(--text-muted);">Keine Clickbait-Titel, keine unrealistischen Versprechen. Wir sagen dir, was wirklich funktioniert — auch wenn es unbequem ist.</p>
+          </div>
+        </div>
+        <div class="rounded-2xl p-6 flex gap-4" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="flex-shrink-0 w-12 h-12 rounded-xl flex items-center justify-center text-xl" style="background: linear-gradient(135deg, #E0E7FF, #C7D2FE);">🧠</div>
+          <div>
+            <h3 class="text-sm font-bold mb-1.5" style="color: var(--text);">Wissenschaftlich fundiert</h3>
+            <p class="text-sm leading-relaxed" style="color: var(--text-muted);">Unsere Ratgeber basieren auf psychologischer Forschung, Studien zur Bindungstheorie und bewährten Kommunikationsmodellen.</p>
+          </div>
+        </div>
+        <div class="rounded-2xl p-6 flex gap-4" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="flex-shrink-0 w-12 h-12 rounded-xl flex items-center justify-center text-xl" style="background: linear-gradient(135deg, #F3E8FF, #E9D5FF);">💜</div>
+          <div>
+            <h3 class="text-sm font-bold mb-1.5" style="color: var(--text);">Respekt & Vielfalt</h3>
+            <p class="text-sm leading-relaxed" style="color: var(--text-muted);">Liebe kennt keine Grenzen. Unsere Tipps sind für alle — unabhängig von Alter, Geschlecht, sexueller Orientierung oder kulturellem Hintergrund.</p>
+          </div>
+        </div>
+        <div class="rounded-2xl p-6 flex gap-4" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="flex-shrink-0 w-12 h-12 rounded-xl flex items-center justify-center text-xl" style="background: linear-gradient(135deg, #DCFCE7, #BBF7D0);">🌱</div>
+          <div>
+            <h3 class="text-sm font-bold mb-1.5" style="color: var(--text);">Persönliches Wachstum</h3>
+            <p class="text-sm leading-relaxed" style="color: var(--text-muted);">Wir glauben: Die beste Beziehung beginnt mit dir selbst. Deshalb legen wir großen Wert auf Selbstentwicklung und emotionale Intelligenz.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Team -->
+    <section class="py-16" style="border-top: 1px solid var(--border);">
+      <div class="flex items-center gap-3 mb-3">
+        <div class="w-1 h-8 rounded-full" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-300));"></div>
+        <h2 class="text-2xl font-bold" style="color: var(--text); font-family: var(--font-serif);">Unser Team</h2>
+      </div>
+      <p class="text-base mb-8" style="color: var(--text-muted);">
+        Hinter Herzblatt Journal steht ein leidenschaftliches Team aus Experten, die eines verbindet: Die Überzeugung, dass jeder Mensch Liebe verdient.
+      </p>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+        <!-- Team Member 1 -->
+        <div class="rounded-2xl p-6 flex gap-5" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <img src="/images/authors/sarah-kellner.webp" alt="Sarah Kellner" class="flex-shrink-0 w-16 h-16 rounded-full object-cover" loading="lazy" />
+          <div>
+            <h3 class="text-base font-bold" style="color: var(--text);">Sarah Kellner</h3>
+            <p class="text-xs font-medium mb-2" style="color: var(--color-primary-600);">Gründerin & Chefredakteurin</p>
+            <p class="text-sm leading-relaxed" style="color: var(--text-muted);">Psychologin (M.Sc.) mit Schwerpunkt Beziehungsforschung. Sarah hat selbst das Auf und Ab der modernen Datingwelt durchlebt und bringt Fachkenntnis mit persönlicher Erfahrung zusammen.</p>
+          </div>
+        </div>
+
+        <!-- Team Member 2 -->
+        <div class="rounded-2xl p-6 flex gap-5" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <img src="/images/authors/markus-hoffmann.webp" alt="Markus Hoffmann" class="flex-shrink-0 w-16 h-16 rounded-full object-cover" loading="lazy" />
+          <div>
+            <h3 class="text-base font-bold" style="color: var(--text);">Markus Hoffmann</h3>
+            <p class="text-xs font-medium mb-2" style="color: var(--color-primary-600);">Dating-Coach & Autor</p>
+            <p class="text-sm leading-relaxed" style="color: var(--text-muted);">Zertifizierter systemischer Coach mit über 8 Jahren Erfahrung. Markus spezialisiert sich auf Kommunikation, Bindungsangst und die männliche Perspektive beim Dating.</p>
+          </div>
+        </div>
+
+        <!-- Team Member 3 -->
+        <div class="rounded-2xl p-6 flex gap-5" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <img src="/images/authors/laura-weber.webp" alt="Laura Weber" class="flex-shrink-0 w-16 h-16 rounded-full object-cover" loading="lazy" />
+          <div>
+            <h3 class="text-base font-bold" style="color: var(--text);">Laura Weber</h3>
+            <p class="text-xs font-medium mb-2" style="color: var(--color-primary-600);">Redakteurin & Beziehungsexpertin</p>
+            <p class="text-sm leading-relaxed" style="color: var(--text-muted);">Journalistin und Buchautorin mit Fokus auf moderne Beziehungsformen. Laura schreibt über alles von Polyamorie bis Patchwork-Familien — immer mit einem offenen Blick.</p>
+          </div>
+        </div>
+
+        <!-- Team Member 4 -->
+        <div class="rounded-2xl p-6 flex gap-5" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <img src="/images/authors/thomas-peters.webp" alt="Dr. Thomas Peters" class="flex-shrink-0 w-16 h-16 rounded-full object-cover" loading="lazy" />
+          <div>
+            <h3 class="text-base font-bold" style="color: var(--text);">Dr. Thomas Peters</h3>
+            <p class="text-xs font-medium mb-2" style="color: var(--color-primary-600);">Wissenschaftlicher Berater</p>
+            <p class="text-sm leading-relaxed" style="color: var(--text-muted);">Promovierter Sozialpsychologe und Forscher an der Universität Hamburg. Thomas sorgt dafür, dass unsere Inhalte auf dem neuesten Stand der Wissenschaft basieren.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Was uns besonders macht -->
+    <section class="py-16" style="border-top: 1px solid var(--border);">
+      <div class="flex items-center gap-3 mb-6">
+        <div class="w-1 h-8 rounded-full" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-300));"></div>
+        <h2 class="text-2xl font-bold" style="color: var(--text); font-family: var(--font-serif);">Was uns besonders macht</h2>
+      </div>
+
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-5">
+        <div class="rounded-2xl p-6 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="text-3xl mb-3">📊</div>
+          <h3 class="text-sm font-bold mb-2" style="color: var(--text);">Datenbasierte Ratgeber</h3>
+          <p class="text-sm" style="color: var(--text-muted);">Wir nutzen aktuelle Studien und Statistiken, um unsere Tipps zu untermauern. Keine Bauchgefühl-Ratschläge.</p>
+        </div>
+        <div class="rounded-2xl p-6 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="text-3xl mb-3">🔄</div>
+          <h3 class="text-sm font-bold mb-2" style="color: var(--text);">Regelmäßig aktualisiert</h3>
+          <p class="text-sm" style="color: var(--text-muted);">Dating-Trends ändern sich schnell. Deshalb überarbeiten und erweitern wir unsere Artikel regelmäßig.</p>
+        </div>
+        <div class="rounded-2xl p-6 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="text-3xl mb-3">🗺️</div>
+          <h3 class="text-sm font-bold mb-2" style="color: var(--text);">Lokal & relevant</h3>
+          <p class="text-sm" style="color: var(--text-muted);">Von Berlin bis Zürich — unsere Stadt-Guides zeigen dir die besten Dating-Spots in deiner Nähe.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Testimonials -->
+    <section class="py-16" style="border-top: 1px solid var(--border);">
+      <div class="flex items-center gap-3 mb-6">
+        <div class="w-1 h-8 rounded-full" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-300));"></div>
+        <h2 class="text-2xl font-bold" style="color: var(--text); font-family: var(--font-serif);">Das sagen unsere Leser</h2>
+      </div>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <div class="rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="flex gap-1 mb-3"><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span></div>
+          <p class="text-sm italic leading-relaxed mb-4" style="color: var(--text-muted);">„Der Artikel über Bindungstypen hat mir die Augen geöffnet. Endlich verstehe ich, warum meine Beziehungen immer nach dem gleichen Muster gescheitert sind. Danke!“</p>
+          <div class="flex items-center gap-3"><div class="w-8 h-8 rounded-full flex items-center justify-center text-xs font-bold" style="background: var(--color-primary-100); color: var(--color-primary-600);">JK</div><div><p class="text-xs font-semibold" style="color: var(--text);">Julia K.</p><p class="text-xs" style="color: var(--text-muted);">München</p></div></div>
+        </div>
+
+        <div class="rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="flex gap-1 mb-3"><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span></div>
+          <p class="text-sm italic leading-relaxed mb-4" style="color: var(--text-muted);">„Als ich nach meiner Scheidung wieder ins Dating eingestiegen bin, war ich komplett überfordert. Die Guides hier haben mir wirklich geholfen, mich zurechtzufinden.“</p>
+          <div class="flex items-center gap-3"><div class="w-8 h-8 rounded-full flex items-center justify-center text-xs font-bold" style="background: #E0E7FF; color: #4338CA;">TM</div><div><p class="text-xs font-semibold" style="color: var(--text);">Thomas M.</p><p class="text-xs" style="color: var(--text-muted);">Hamburg</p></div></div>
+        </div>
+
+        <div class="rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="flex gap-1 mb-3"><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #D1D5DB;">★</span></div>
+          <p class="text-sm italic leading-relaxed mb-4" style="color: var(--text-muted);">„Gute Tipps, aber manchmal etwas allgemein gehalten. Trotzdem: Einer der besten deutschsprachigen Dating-Blogs. Die Stadt-Guides sind klasse!“</p>
+          <div class="flex items-center gap-3"><div class="w-8 h-8 rounded-full flex items-center justify-center text-xs font-bold" style="background: #FEF3C7; color: #92400E;">MR</div><div><p class="text-xs font-semibold" style="color: var(--text);">Marco R.</p><p class="text-xs" style="color: var(--text-muted);">Frankfurt</p></div></div>
+        </div>
+
+        <div class="rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="flex gap-1 mb-3"><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span></div>
+          <p class="text-sm italic leading-relaxed mb-4" style="color: var(--text-muted);">„Endlich ein Dating-Blog, der nicht mit toxischen Pick-Up-Tricks arbeitet, sondern echten Respekt und Authentizität fördert. Absolute Empfehlung!“</p>
+          <div class="flex items-center gap-3"><div class="w-8 h-8 rounded-full flex items-center justify-center text-xs font-bold" style="background: #FECACA; color: #B91C1C;">LS</div><div><p class="text-xs font-semibold" style="color: var(--text);">Lisa S.</p><p class="text-xs" style="color: var(--text-muted);">Wien</p></div></div>
+        </div>
+
+        <div class="rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="flex gap-1 mb-3"><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #D1D5DB;">★</span><span style="color: #D1D5DB;">★</span></div>
+          <p class="text-sm italic leading-relaxed mb-4" style="color: var(--text-muted);">„Die Artikel sind gut recherchiert, aber mir fehlen manchmal konkretere Beispiel-Nachrichten für Dating-Apps. Der Grundlagenteil ist aber solide.“</p>
+          <div class="flex items-center gap-3"><div class="w-8 h-8 rounded-full flex items-center justify-center text-xs font-bold" style="background: #D1FAE5; color: #065F46;">SK</div><div><p class="text-xs font-semibold" style="color: var(--text);">Stefan K.</p><p class="text-xs" style="color: var(--text-muted);">Köln</p></div></div>
+        </div>
+
+        <div class="rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="flex gap-1 mb-3"><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span></div>
+          <p class="text-sm italic leading-relaxed mb-4" style="color: var(--text-muted);">„Habe über den Dating-Typ-Test meinen Partner auf xLoves gefunden. Wir sind jetzt seit 8 Monaten zusammen. Danke, Herzblatt Journal!“</p>
+          <div class="flex items-center gap-3"><div class="w-8 h-8 rounded-full flex items-center justify-center text-xs font-bold" style="background: #F3E8FF; color: #7C3AED;">NH</div><div><p class="text-xs font-semibold" style="color: var(--text);">Nina H.</p><p class="text-xs" style="color: var(--text-muted);">Berlin</p></div></div>
+        </div>
+
+        <div class="rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="flex gap-1 mb-3"><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #D1D5DB;">★</span></div>
+          <p class="text-sm italic leading-relaxed mb-4" style="color: var(--text-muted);">„Super für Leute über 40 — endlich mal Tipps, die nicht nur für 20-Jährige geschrieben sind. Die Ratgeber zum Thema Neuanfang nach Trennung waren Gold wert.“</p>
+          <div class="flex items-center gap-3"><div class="w-8 h-8 rounded-full flex items-center justify-center text-xs font-bold" style="background: #DBEAFE; color: #1E40AF;">PW</div><div><p class="text-xs font-semibold" style="color: var(--text);">Peter W.</p><p class="text-xs" style="color: var(--text-muted);">Stuttgart</p></div></div>
+        </div>
+
+        <div class="rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="flex gap-1 mb-3"><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span></div>
+          <p class="text-sm italic leading-relaxed mb-4" style="color: var(--text-muted);">„Die Tipps zur Körpersprache beim Date waren mega hilfreich. Hab sie direkt beim nächsten Treffen angewendet und es lief richtig gut!“</p>
+          <div class="flex items-center gap-3"><div class="w-8 h-8 rounded-full flex items-center justify-center text-xs font-bold" style="background: #FFE4E6; color: #9F1239;">AV</div><div><p class="text-xs font-semibold" style="color: var(--text);">Anna V.</p><p class="text-xs" style="color: var(--text-muted);">Düsseldorf</p></div></div>
+        </div>
+
+        <div class="rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <div class="flex gap-1 mb-3"><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #F59E0B;">★</span><span style="color: #D1D5DB;">★</span></div>
+          <p class="text-sm italic leading-relaxed mb-4" style="color: var(--text-muted);">„Finde den Vergleich der Dating-Plattformen sehr nützlich. Hat mir die Entscheidung leichter gemacht. Einen Stern Abzug, weil manche Artikel etwas lang sind.“</p>
+          <div class="flex items-center gap-3"><div class="w-8 h-8 rounded-full flex items-center justify-center text-xs font-bold" style="background: #FED7AA; color: #9A3412;">DL</div><div><p class="text-xs font-semibold" style="color: var(--text);">Daniel L.</p><p class="text-xs" style="color: var(--text-muted);">Zürich</p></div></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Partner -->
+    <section class="py-16" style="border-top: 1px solid var(--border);">
+      <div class="flex items-center gap-3 mb-4">
+        <div class="w-1 h-8 rounded-full" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-300));"></div>
+        <h2 class="text-2xl font-bold" style="color: var(--text); font-family: var(--font-serif);">Unsere Partner-Plattformen</h2>
+      </div>
+      <div class="text-base leading-relaxed" style="color: var(--text-muted);">
+        <p class="mb-4">
+          Herzblatt Journal arbeitet mit den besten Dating-Plattformen im deutschsprachigen Raum zusammen — von xLoves über WhatsMeet bis hin zu MichVerlieben. Wir testen und vergleichen die Anbieter regelmäßig, damit du die perfekte Plattform für deine Bedürfnisse findest.
+        </p>
+        <p class="mb-6">
+          Wenn du bereit bist, die Tipps aus unseren Artikeln in die Praxis umzusetzen, hilft dir unser Quiz, die passende Dating-Seite für dich zu finden.
+        </p>
+        <div class="flex flex-wrap gap-3">
+          <button onclick="window.openDatingQuiz()" class="inline-flex items-center gap-2 px-6 py-3 rounded-full text-sm font-bold text-white transition-all hover:shadow-md hover:-translate-y-0.5 cursor-pointer" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); border: none;">
+            Dein Match finden
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+          </button>
+          <a href="/top-dating-seiten" class="inline-flex items-center gap-2 px-6 py-3 rounded-full text-sm font-semibold transition-all hover:shadow-md" style="color: var(--color-primary-600); background: var(--color-primary-50); border: 1px solid var(--color-primary-200);">
+            Alle Plattformen vergleichen
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="py-16" style="border-top: 1px solid var(--border);">
+      <div class="flex items-center gap-3 mb-6">
+        <div class="w-1 h-8 rounded-full" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-300));"></div>
+        <h2 class="text-2xl font-bold" style="color: var(--text); font-family: var(--font-serif);">Häufige Fragen</h2>
+      </div>
+
+      <div class="space-y-4">
+        <details class="group rounded-2xl overflow-hidden" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <summary class="flex items-center justify-between p-5 cursor-pointer list-none">
+            <span class="text-sm font-semibold" style="color: var(--text);">Wer steckt hinter Herzblatt Journal?</span>
+            <svg class="w-5 h-5 transition-transform group-open:rotate-180" style="color: var(--text-muted);" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg>
+          </summary>
+          <div class="px-5 pb-5 text-sm leading-relaxed" style="color: var(--text-muted);">
+            Herzblatt Journal wird von der L-P GmbH in Hamburg betrieben. Unser Team besteht aus Psychologen, zertifizierten Coaches, Journalisten und Redakteuren, die alle eine Leidenschaft für das Thema Beziehungen und Dating teilen.
+          </div>
+        </details>
+
+        <details class="group rounded-2xl overflow-hidden" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <summary class="flex items-center justify-between p-5 cursor-pointer list-none">
+            <span class="text-sm font-semibold" style="color: var(--text);">Sind alle Inhalte wirklich kostenlos?</span>
+            <svg class="w-5 h-5 transition-transform group-open:rotate-180" style="color: var(--text-muted);" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg>
+          </summary>
+          <div class="px-5 pb-5 text-sm leading-relaxed" style="color: var(--text-muted);">
+            Ja! Alle Ratgeber, Guides, Tests und Tools auf Herzblatt Journal sind zu 100% kostenlos. Wir finanzieren uns über Partnerempfehlungen zu Dating-Plattformen. Du zahlst dabei nie mehr als üblich — oft bekommst du über unsere Links sogar bessere Konditionen.
+          </div>
+        </details>
+
+        <details class="group rounded-2xl overflow-hidden" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <summary class="flex items-center justify-between p-5 cursor-pointer list-none">
+            <span class="text-sm font-semibold" style="color: var(--text);">Wie werden eure Ratgeber erstellt?</span>
+            <svg class="w-5 h-5 transition-transform group-open:rotate-180" style="color: var(--text-muted);" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg>
+          </summary>
+          <div class="px-5 pb-5 text-sm leading-relaxed" style="color: var(--text-muted);">
+            Jeder Artikel durchläuft einen mehrstufigen Prozess: Recherche aktueller Studien, Entwurf durch unsere Fachautoren, Review durch unser Redaktionsteam und abschließende Prüfung durch unseren wissenschaftlichen Berater. Wir aktualisieren unsere Inhalte regelmäßig, um sicherzustellen, dass sie relevant bleiben.
+          </div>
+        </details>
+
+        <details class="group rounded-2xl overflow-hidden" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <summary class="flex items-center justify-between p-5 cursor-pointer list-none">
+            <span class="text-sm font-semibold" style="color: var(--text);">Kann ich als Autor oder Experte beitragen?</span>
+            <svg class="w-5 h-5 transition-transform group-open:rotate-180" style="color: var(--text-muted);" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg>
+          </summary>
+          <div class="px-5 pb-5 text-sm leading-relaxed" style="color: var(--text-muted);">
+            Wir sind immer offen für Gastbeiträge von qualifizierten Experten. Wenn du Psychologe, Coach, Therapeut oder erfahrener Beziehungsberater bist und Ideen für einen Artikel hast, schreib uns gerne an kontakt@herzblatt-journal.com.
+          </div>
+        </details>
+
+        <details class="group rounded-2xl overflow-hidden" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <summary class="flex items-center justify-between p-5 cursor-pointer list-none">
+            <span class="text-sm font-semibold" style="color: var(--text);">Bietet ihr auch persönliche Beratung an?</span>
+            <svg class="w-5 h-5 transition-transform group-open:rotate-180" style="color: var(--text-muted);" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg>
+          </summary>
+          <div class="px-5 pb-5 text-sm leading-relaxed" style="color: var(--text-muted);">
+            Aktuell bieten wir keine persönliche Beratung an. Unsere Ratgeber sind jedoch so konzipiert, dass sie dir konkrete, umsetzbare Schritte bieten. Wenn du professionelle Unterstützung brauchst, empfehlen wir dir, einen zertifizierten Paartherapeuten oder Dating-Coach in deiner Nähe zu suchen.
+          </div>
+        </details>
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section class="pb-16">
+      <div class="rounded-2xl p-8 sm:p-10 text-center" style="background: linear-gradient(135deg, var(--color-primary-50), var(--color-surface-100)); border: 1px solid var(--color-primary-100);">
+        <div class="text-3xl mb-4">✉️</div>
+        <h2 class="text-xl font-bold mb-3" style="color: var(--text); font-family: var(--font-serif);">Schreib uns!</h2>
+        <p class="text-sm mb-1 leading-relaxed max-w-lg mx-auto" style="color: var(--text-muted);">
+          Fragen, Anregungen, Kooperationsanfragen oder einfach ein nettes Feedback? Wir freuen uns über jede Nachricht.
+        </p>
+        <a href="mailto:kontakt@herzblatt-journal.com" class="inline-flex items-center gap-2 px-6 py-3 mt-4 rounded-full text-sm font-bold text-white transition-all hover:shadow-md hover:-translate-y-0.5" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700));">
+          kontakt@herzblatt-journal.com
+        </a>
+        <p class="text-xs mt-6" style="color: var(--text-muted);">
+          L-P GmbH · Ballindamm 27 · 20095 Hamburg · Deutschland
+        </p>
+      </div>
+    </section>
+
+  </div>
+
+  <style>
+    details summary::-webkit-details-marker { display: none; }
+    .heart-pulse {
+      animation: heartbeat 1.4s ease-in-out infinite;
+    }
+    @keyframes heartbeat {
+      0%, 100% { transform: scale(1); }
+      15% { transform: scale(1.25); }
+      30% { transform: scale(1); }
+      45% { transform: scale(1.2); }
+      60% { transform: scale(1); }
+    }
+  </style>
+
+  <script is:inline>
+  (function() {
+    var container = document.getElementById('timeline-container');
+    if (!container) return;
+    var line = document.getElementById('timeline-line');
+    var items = container.querySelectorAll('.timeline-item');
+    var ticking = false;
+    var currentProgress = 0;
+    var targetProgress = 0;
+
+    items.forEach(function(item) {
+      item.style.opacity = '0.4';
+      item.style.transform = 'translateX(8px)';
+      item.style.transition = 'opacity 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94), transform 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94)';
+    });
+
+    line.style.transition = 'height 0.15s cubic-bezier(0.25, 0.46, 0.45, 0.94)';
+
+    function animateTimeline() {
+      var rect = container.getBoundingClientRect();
+      var vh = window.innerHeight;
+      var trigger = vh * 0.78;
+      if (rect.top > trigger) {
+        ticking = false;
+        return;
+      }
+      var scrolled = trigger - rect.top;
+      targetProgress = Math.min(Math.max(scrolled / rect.height, 0), 1);
+
+      // Smooth interpolation for the line
+      currentProgress += (targetProgress - currentProgress) * 0.12;
+      if (Math.abs(currentProgress - targetProgress) < 0.001) currentProgress = targetProgress;
+      line.style.height = (currentProgress * 100) + '%';
+
+      items.forEach(function(item) {
+        var r = item.getBoundingClientRect();
+        var mid = r.top + r.height / 2;
+        var dot = item.querySelector('.timeline-dot');
+        var label = item.querySelector('p');
+        var isLast = item.dataset.index === '4';
+        if (mid < trigger) {
+          dot.style.background = isLast ? 'var(--color-primary-600)' : 'var(--color-primary-500)';
+          dot.style.borderColor = isLast ? 'var(--color-primary-200)' : 'var(--color-primary-100)';
+          dot.style.transition = 'all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94)';
+          if (isLast) dot.style.boxShadow = '0 0 0 4px var(--color-primary-100)';
+          label.style.color = 'var(--color-primary-600)';
+          label.style.transition = 'color 0.4s ease';
+          item.style.opacity = '1';
+          item.style.transform = 'translateX(0)';
+        } else {
+          dot.style.background = 'var(--color-primary-100)';
+          dot.style.borderColor = 'var(--color-primary-100)';
+          dot.style.boxShadow = 'none';
+          label.style.color = 'var(--text-muted)';
+          item.style.opacity = '0.4';
+          item.style.transform = 'translateX(8px)';
+        }
+      });
+
+      if (Math.abs(currentProgress - targetProgress) > 0.001) {
+        requestAnimationFrame(animateTimeline);
+      } else {
+        ticking = false;
+      }
+    }
+
+    window.addEventListener('scroll', function() {
+      if (!ticking) {
+        ticking = true;
+        requestAnimationFrame(animateTimeline);
+      }
+    }, { passive: true });
+    setTimeout(function() { ticking = true; requestAnimationFrame(animateTimeline); }, 100);
+  })();
+  </script>
+</BaseLayout>

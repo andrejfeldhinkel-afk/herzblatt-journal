@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Heilung"
   - "Beziehung"
-image: "/images/photos/attachment-healing-guide.webp"
+image: "/images/photos/koerperliche-naehe-beziehung.webp"
 imageAlt: "Person in achtsamer Körperarbeit, Heilung von Trauma"
 keywords: ["body keeps the score deutsch", "trauma im körper", "bessel van der kolk", "körper trauma beziehung", "somatisches trauma heilen"]
 draft: false

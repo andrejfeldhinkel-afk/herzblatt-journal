@@ -1,0 +1,233 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+// Team members data
+const teamMembers = [
+  {
+    id: "laura-bergmann",
+    name: "Laura Bergmann",
+    role: "Chefredakteurin & Beziehungscoach",
+    credentials: "M.Sc. Psychologie",
+    experience: "8+ Jahre",
+    bio: "Laura ist Gründerin und Chefredakteurin von Herzblatt Journal mit über 8 Jahren Erfahrung in Beziehungsberatung und angewandter Psychologie. Sie hat ihr Masterstudium in Psychologie absolviert und unterstützt täglich Menschen dabei, authentische Beziehungen aufzubauen.",
+    expertise: ["Beziehungsaufbau", "Kommunikation", "Paardynamik", "Psychologie"],
+    avatar: "LB",
+    avatarColor: "from-pink-400 to-rose-500"
+  },
+  {
+    id: "markus-weber",
+    name: "Dr. Markus Weber",
+    role: "Paartherapeut & Autor",
+    credentials: "Dr. phil., Klinische Psychologie",
+    experience: "15+ Jahre",
+    bio: "Dr. Weber bringt mehr als 15 Jahre Erfahrung als Paartherapeut und klinischer Psychologe mit sich. Seine Artikel kombinieren wissenschaftliche Tiefe mit praktischen Lösungen für zwischenmenschliche Herausforderungen.",
+    expertise: ["Paartherapie", "Konfliktlösung", "Emotionale Intelligenz", "Klinische Psychologie"],
+    avatar: "MW",
+    avatarColor: "from-blue-400 to-purple-500"
+  },
+  {
+    id: "sophie-chen",
+    name: "Sophie Chen",
+    role: "Online-Dating Expertin & Content Strategin",
+    credentials: "Zertifizierte Dating-Coach",
+    experience: "6+ Jahre",
+    bio: "Sophie spezialisiert sich auf Online-Dating und digitale Kommunikation. Als zertifizierte Dating-Coach hilft sie Tausenden, ihre perfekte Partnerin oder ihren perfekten Partner auf Dating-Apps zu finden.",
+    expertise: ["Online-Dating", "App-Strategie", "Profil-Optimierung", "Digitale Kommunikation"],
+    avatar: "SC",
+    avatarColor: "from-amber-400 to-orange-500"
+  },
+  {
+    id: "tim-hartmann",
+    name: "Tim Hartmann",
+    role: "Redakteur & Flirt-Experte",
+    credentials: "B.A. Kommunikationswissenschaft",
+    experience: "4+ Jahre",
+    bio: "Tim schreibt leidenschaftlich gerne über Flirten, Körpersprache und Selbstbewusstsein. Seine Artikel kombinieren Kommunikationswissenschaft mit echten, praxisnahen Tipps für erfolgreichere Gespräche.",
+    expertise: ["Flirttechniken", "Körpersprache", "Selbstbewusstsein", "Gesprächsführung"],
+    avatar: "TH",
+    avatarColor: "from-green-400 to-emerald-500"
+  }
+];
+
+// Generate Person schema for each team member
+const personSchemas = teamMembers.map(member => ({
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": member.name,
+  "jobTitle": member.role,
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Herzblatt Journal",
+    "url": "https://herzblatt-journal.com"
+  },
+  "url": `https://herzblatt-journal.com/autor#${member.id}`,
+  "description": member.bio,
+  "knowsAbout": member.expertise
+}));
+---
+
+<BaseLayout
+  title="Redaktion — Herzblatt Journal"
+  description="Lernen Sie das Expertenteam hinter Herzblatt Journal kennen. Unsere Autoren bringen jahrelange Erfahrung in Beziehungsberatung, Psychologie und Dating mit.">
+
+  <!-- Add Person schemas to head -->
+  {personSchemas.map(schema => (
+    <script type="application/ld+json" set:html={JSON.stringify(schema)} slot="head" />
+  ))}
+
+  <section class="max-w-4xl mx-auto px-4 sm:px-6 py-16 sm:py-20">
+
+    <!-- Hero Section -->
+    <div class="text-center mb-16">
+      <span class="text-4xl mb-4 block">👥</span>
+      <h1 class="text-3xl sm:text-4xl font-extrabold mb-4" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;">
+        Unsere Redaktion
+      </h1>
+      <p class="text-lg max-w-2xl mx-auto" style="color: var(--text-muted);">
+        Treffe das Team hinter Herzblatt Journal. Unsere Experten bringen jahrelange Erfahrung in Psychologie, Paartherapie und Dating-Beratung mit.
+      </p>
+    </div>
+
+    <!-- Team Members Grid -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16">
+      {teamMembers.map((member) => (
+        <div
+          id={member.id}
+          class="rounded-2xl p-8 transition-all hover:shadow-lg hover:-translate-y-1"
+          style="background: var(--bg-soft); border: 1px solid var(--border);"
+        >
+          <!-- Avatar with Gradient Circle -->
+          <div class="flex items-start gap-4 mb-4">
+            <div
+              class={`flex-shrink-0 w-16 h-16 rounded-full flex items-center justify-center text-white font-bold text-lg bg-gradient-to-br ${member.avatarColor}`}
+            >
+              {member.avatar}
+            </div>
+            <div class="flex-1">
+              <h3 class="text-lg font-bold" style="color: var(--text); font-family: var(--font-serif);">
+                {member.name}
+              </h3>
+              <p class="text-sm font-medium mb-1" style="color: var(--color-primary-600);">
+                {member.role}
+              </p>
+              <p class="text-xs" style="color: var(--text-muted);">
+                {member.credentials} • {member.experience}
+              </p>
+            </div>
+          </div>
+
+          <!-- Bio -->
+          <p class="text-sm leading-relaxed mb-4" style="color: var(--text-muted);">
+            {member.bio}
+          </p>
+
+          <!-- Expertise Tags -->
+          <div class="flex flex-wrap gap-2">
+            {member.expertise.map((tag) => (
+              <span
+                class="inline-block px-3 py-1 rounded-full text-xs font-medium"
+                style="background: var(--color-primary-50); color: var(--color-primary-700); border: 1px solid var(--color-primary-200);"
+              >
+                {tag}
+              </span>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+
+    <!-- Editorial Standards Section -->
+    <div class="mb-16">
+      <div class="flex items-center gap-3 mb-6">
+        <div class="w-1 h-6 rounded-full" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-300));"></div>
+        <h2 class="text-xl font-bold" style="color: var(--text); font-family: var(--font-serif);">Redaktionelle Standards</h2>
+      </div>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-5">
+        <div class="rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <span class="text-2xl mb-3 block">✓</span>
+          <h3 class="text-sm font-bold mb-2" style="color: var(--text);">Fakten-Check</h3>
+          <p class="text-sm" style="color: var(--text-muted);">Jeder Artikel wird von unserem Redaktionsteam gründlich auf Genauigkeit und Aktualität überprüft.</p>
+        </div>
+
+        <div class="rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <span class="text-2xl mb-3 block">🔬</span>
+          <h3 class="text-sm font-bold mb-2" style="color: var(--text);">Wissenschaftliche Basis</h3>
+          <p class="text-sm" style="color: var(--text-muted);">Unsere Inhalte basieren auf aktueller psychologischer Forschung, Studien und bewährten Methoden.</p>
+        </div>
+
+        <div class="rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <span class="text-2xl mb-3 block">🔄</span>
+          <h3 class="text-sm font-bold mb-2" style="color: var(--text);">Regelmäßig Aktualisiert</h3>
+          <p class="text-sm" style="color: var(--text-muted);">Wir aktualisieren regelmäßig unsere Artikel, um sicherzustellen, dass du immer die neuesten und besten Tipps erhältst.</p>
+        </div>
+
+        <div class="rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <span class="text-2xl mb-3 block">👁️</span>
+          <h3 class="text-sm font-bold mb-2" style="color: var(--text);">Experten-Review</h3>
+          <p class="text-sm" style="color: var(--text-muted);">Artikel zu sensiblen Themen werden von Fachexperten reviewt, um höchste Qualitätsstandards zu gewährleisten.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Expertise & Values Section -->
+    <div class="mb-16">
+      <div class="flex items-center gap-3 mb-6">
+        <div class="w-1 h-6 rounded-full" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-300));"></div>
+        <h2 class="text-xl font-bold" style="color: var(--text); font-family: var(--font-serif);">Unsere Fachkompetenz</h2>
+      </div>
+
+      <div class="space-y-4 text-base leading-relaxed" style="color: var(--text-muted);">
+        <p>
+          Unser Team besteht aus diplomierten Psychologen, zertifizierten Coaches und erfahrenen Redakteuren, die sich leidenschaftlich für echte Beziehungen einsetzen. Wir kombinieren wissenschaftliches Wissen mit praktischer Lebenserfahrung.
+        </p>
+        <p>
+          Jedes Mitglied unseres Teams hat sich auf spezifische Bereiche spezialisiert — von Online-Dating und Flirttechniken über Paartherapie bis hin zur Psychologie von Beziehungen. Diese Vielfalt ermöglicht es uns, dir umfassende und facettenreiche Ratschläge zu geben.
+        </p>
+        <p>
+          Unser Anspruch ist es, nicht nur oberflächliche Tipps zu geben, sondern dir echte Werkzeuge an die Hand zu legen, die dir bei der Suche nach der großen Liebe helfen.
+        </p>
+      </div>
+    </div>
+
+    <!-- CTA Section -->
+    <div class="rounded-2xl p-8 text-center" style="background: linear-gradient(135deg, var(--color-primary-50), var(--color-surface-100)); border: 1px solid var(--color-primary-100);">
+      <h2 class="text-xl sm:text-2xl font-bold mb-3" style="color: var(--text); font-family: var(--font-serif);">
+        Bereit, die Tipps unserer Experten umzusetzen?
+      </h2>
+      <p class="text-base mb-6 max-w-2xl mx-auto" style="color: var(--text-muted);">
+        Nutze unser Quiz, um die beste Dating-Seite für dich zu finden und starte dein nächstes Dating-Abenteuer mit Tipps von Profis.
+      </p>
+      <div class="flex flex-col sm:flex-row justify-center gap-3">
+        <button
+          onclick="window.openDatingQuiz()"
+          class="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full text-sm font-bold text-white transition-all hover:shadow-md hover:-translate-y-0.5 cursor-pointer"
+          style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); border: none;"
+        >
+          Dein Match finden
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+        </button>
+        <a
+          href="/ueber-uns"
+          class="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full text-sm font-semibold transition-all hover:shadow-md"
+          style="color: var(--color-primary-600); background: var(--color-primary-50); border: 1px solid var(--color-primary-200);"
+        >
+          Über Herzblatt Journal
+        </a>
+      </div>
+    </div>
+
+    <!-- Contact Footer -->
+    <div class="mt-16 rounded-2xl p-6 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);">
+      <h3 class="text-lg font-bold mb-2" style="color: var(--text); font-family: var(--font-serif);">Kontakt zum Team</h3>
+      <p class="text-sm mb-1" style="color: var(--text-muted);">Hast du Fragen zu unseren Inhalten oder möchtest zusammenarbeiten?</p>
+      <p class="text-sm" style="color: var(--text-muted);">
+        Schreib uns an <a href="mailto:kontakt@herzblatt-journal.com" class="font-medium underline" style="color: var(--color-primary-600);">kontakt@herzblatt-journal.com</a>
+      </p>
+      <p class="text-xs mt-4" style="color: var(--text-muted);">
+        L-P GmbH · Ballindamm 27 · 20095 Hamburg
+      </p>
+    </div>
+
+  </section>
+</BaseLayout>

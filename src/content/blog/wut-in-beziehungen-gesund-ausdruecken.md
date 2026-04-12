@@ -6,7 +6,7 @@ tags:
   - "Kommunikation"
   - "Beziehung"
   - "Psychologie"
-image: "/images/photos/emotionsregulation-beziehung-guide.webp"
+image: "/images/photos/konfliktloesung-in-beziehungen.webp"
 imageAlt: "Paar das konstruktiv mit Wut umgeht"
 keywords: ["wut beziehung", "ärger gesund ausdrücken", "wut kontrollieren beziehung", "streit beziehung", "aggression partnerschaft"]
 draft: false

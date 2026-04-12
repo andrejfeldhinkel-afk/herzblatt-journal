@@ -1,0 +1,106 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('blog', ({ data }) => !data.draft);
+const tagCounts = new Map<string, number>();
+
+posts.forEach(post => {
+  post.data.tags.forEach(tag => {
+    tagCounts.set(tag, (tagCounts.get(tag) || 0) + 1);
+  });
+});
+
+const sortedTags = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]);
+
+// All 39 core tags with unique emoji icons, descriptions and gradient colors
+const categories: Record<string, { icon: string; desc: string; gradient: string }> = {
+  'Beziehung':        { icon: '💑', desc: 'Alles rund um Liebe, Partnerschaft und ein glückliches Miteinander', gradient: 'from-rose-500 to-pink-600' },
+  'Dating':           { icon: '💕', desc: 'Praktische Tipps, Trends und Strategien für bessere Dates', gradient: 'from-pink-500 to-rose-600' },
+  'Psychologie':      { icon: '🧠', desc: 'Die Wissenschaft hinter Anziehung, Verhalten und Gefühlen', gradient: 'from-blue-500 to-indigo-600' },
+  'Kommunikation':    { icon: '💬', desc: 'Besser reden, zuhören und Konflikte lösen', gradient: 'from-cyan-500 to-blue-600' },
+  'Ratgeber':         { icon: '📖', desc: 'Ausführliche Guides und Anleitungen für jede Situation', gradient: 'from-emerald-500 to-teal-600' },
+  'Selbstliebe':      { icon: '🌸', desc: 'Selbstwert stärken und persönlich wachsen', gradient: 'from-fuchsia-400 to-pink-500' },
+  'Date-Ideen':       { icon: '🎯', desc: 'Kreative und unvergessliche Ideen für euer nächstes Date', gradient: 'from-orange-500 to-red-500' },
+  'Lifestyle':        { icon: '🌟', desc: 'Karriere, Kultur, Reisen und Beziehung im Alltag', gradient: 'from-yellow-400 to-amber-500' },
+  'Online-Dating':    { icon: '📱', desc: 'Erfolgreich daten im digitalen Zeitalter', gradient: 'from-violet-500 to-purple-600' },
+  'Gesundheit':       { icon: '🌿', desc: 'Mental Health, Wohlbefinden und gesunde Beziehungen', gradient: 'from-green-500 to-emerald-600' },
+  'Heilung':          { icon: '🦋', desc: 'Trauma verarbeiten, Trauer überwinden und neu beginnen', gradient: 'from-sky-400 to-blue-500' },
+  'Intimität':        { icon: '🔥', desc: 'Nähe, Leidenschaft und emotionale Verbindung', gradient: 'from-red-500 to-orange-600' },
+  'Red Flags':        { icon: '🚩', desc: 'Warnsignale erkennen und dich schützen', gradient: 'from-red-600 to-rose-700' },
+  'Partnersuche':     { icon: '🔍', desc: 'Den richtigen Partner finden und Dealbreaker vermeiden', gradient: 'from-indigo-500 to-violet-600' },
+  'Vertrauen':        { icon: '🤝', desc: 'Vertrauen aufbauen, bewahren und wiederherstellen', gradient: 'from-teal-500 to-emerald-600' },
+  'Flirten':          { icon: '✨', desc: 'Flirtsignale deuten, Nachrichten schreiben und Gespräche starten', gradient: 'from-amber-500 to-orange-600' },
+  'Neuanfang':        { icon: '🌅', desc: 'Neu starten nach Trennung, Verlust oder langer Pause', gradient: 'from-orange-400 to-rose-500' },
+  'Dating-Apps':      { icon: '📲', desc: 'Die besten Apps im Vergleich und Profil-Tipps', gradient: 'from-purple-500 to-indigo-600' },
+  'Zusammenleben':    { icon: '🏠', desc: 'Alltag, Haushalt und gemeinsames Wohnen meistern', gradient: 'from-amber-400 to-orange-500' },
+  'Familie':          { icon: '👨‍👩‍👧', desc: 'Kinder, Elternschaft, Patchwork und Familienplanung', gradient: 'from-pink-400 to-rose-500' },
+  'Konflikte':        { icon: '⚡', desc: 'Streit fair lösen und Kompromisse finden', gradient: 'from-amber-600 to-red-500' },
+  'Sicherheit':       { icon: '🔒', desc: 'Sicher unterwegs beim Online- und Offline-Dating', gradient: 'from-slate-600 to-gray-700' },
+  'Lebensphasen':     { icon: '🎂', desc: 'Dating und Beziehung in verschiedenen Lebensphasen', gradient: 'from-violet-400 to-purple-500' },
+  'Neurodiversität':  { icon: '🧩', desc: 'HSP, Introversion, ADHS, Autismus und Hochbegabung im Dating', gradient: 'from-teal-400 to-cyan-500' },
+  'Trennung':         { icon: '💫', desc: 'Trennung verarbeiten und fair Abschied nehmen', gradient: 'from-slate-400 to-gray-500' },
+  'Erstes Date':      { icon: '🦌', desc: 'Nervosität überwinden und den perfekten ersten Eindruck machen', gradient: 'from-pink-400 to-rose-500' },
+  'Grenzen':          { icon: '🛡️', desc: 'Gesunde Grenzen setzen und für sich einstehen', gradient: 'from-emerald-500 to-green-600' },
+  'Digital Detox':    { icon: '🔌', desc: 'Handy weg, Beziehung an — weniger Bildschirm, mehr Nähe', gradient: 'from-gray-500 to-slate-600' },
+  'Single-Leben':     { icon: '🙋', desc: 'Das Single-Dasein genießen und bewusst gestalten', gradient: 'from-violet-400 to-purple-500' },
+  'Fernbeziehung':    { icon: '✈️', desc: 'Liebe auf Distanz — Tipps für Nah und Fern', gradient: 'from-sky-500 to-cyan-600' },
+  'Finanzen':         { icon: '💰', desc: 'Geld, gemeinsame Kasse und finanzielle Harmonie', gradient: 'from-green-600 to-emerald-700' },
+  'Kennenlernen':     { icon: '👋', desc: 'Neue Menschen kennenlernen — online und offline', gradient: 'from-sky-400 to-blue-500' },
+  'Hochzeit':         { icon: '💍', desc: 'Verlobung, Hochzeitsplanung und Eheleben', gradient: 'from-rose-400 to-pink-500' },
+  'Liebeskummer':     { icon: '💔', desc: 'Liebeskummer überwinden und wieder nach vorne schauen', gradient: 'from-slate-500 to-gray-600' },
+  'Lokales Dating':   { icon: '📍', desc: 'Die besten Dating-Tipps für deine Stadt', gradient: 'from-sky-500 to-blue-600' },
+  'Paartherapie':     { icon: '🗣️', desc: 'Professionelle Hilfe für Paare — wann und wie', gradient: 'from-blue-400 to-indigo-500' },
+  'Bindungstypen':    { icon: '🔗', desc: 'Deinen Bindungsstil verstehen und Muster durchbrechen', gradient: 'from-indigo-500 to-blue-600' },
+  'Eifersucht':       { icon: '😤', desc: 'Eifersucht erkennen, verstehen und überwinden', gradient: 'from-orange-600 to-red-600' },
+  'LGBTQ+':           { icon: '🏳️‍🌈', desc: 'Queeres Dating, Coming Out und LGBTQ+-Beziehungen', gradient: 'from-purple-500 to-pink-500' },
+};
+
+const filteredTags = sortedTags.filter(([tag]) => categories[tag]);
+---
+
+<BaseLayout title="Themen — Herzblatt Journal" description="Alle Dating-Themen und Kategorien auf einen Blick. Finde Ratgeber zu Beziehung, Dating, Psychologie und mehr.">
+  <section class="max-w-6xl mx-auto px-4 sm:px-6 py-16">
+    <div class="text-center mb-12">
+      <h1 class="text-3xl sm:text-4xl font-extrabold mb-3" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;">
+        Alle Themen
+      </h1>
+      <p class="text-lg max-w-lg mx-auto" style="color: var(--text-muted);">
+        {filteredTags.length} Kategorien mit über 1.000 Artikeln — finde genau die Ratgeber, die zu deiner Situation passen
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {filteredTags.map(([tag, count]) => {
+        const cat = categories[tag] || { icon: '❤️', desc: `${count} Artikel zum Thema ${tag}`, gradient: 'from-rose-500 to-pink-600' };
+        return (
+          <a
+            href={`/tags/${tag}`}
+            class="group relative rounded-2xl p-6 transition-all duration-300 hover:-translate-y-1 overflow-hidden"
+            style="background: var(--bg-card); border: 1px solid var(--border);"
+          >
+            <div class="absolute top-0 left-0 right-0 h-1 opacity-0 group-hover:opacity-100 transition-opacity" style="background: linear-gradient(90deg, var(--color-primary-400), var(--color-primary-600));"></div>
+
+            <div class="flex items-start gap-4">
+              <span class="text-3xl flex-shrink-0">{cat.icon}</span>
+              <div class="flex-1 min-w-0">
+                <div class="flex items-center justify-between mb-1 gap-2">
+                  <h2 class="text-lg font-bold truncate" style="color: var(--text); font-family: var(--font-serif);">{tag}</h2>
+                  <span class="text-xs font-semibold px-2.5 py-1 rounded-full flex-shrink-0" style="background: var(--color-primary-50); color: var(--color-primary-700);">
+                    {count}
+                  </span>
+                </div>
+                <p class="text-sm line-clamp-2" style="color: var(--text-muted);">{cat.desc}</p>
+              </div>
+            </div>
+
+            <div class="mt-4 flex items-center text-sm font-medium opacity-0 group-hover:opacity-100 transition-opacity" style="color: var(--color-primary-600);">
+              Artikel entdecken
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="ml-1 transition-transform group-hover:translate-x-1"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+</BaseLayout>

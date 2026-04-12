@@ -6,7 +6,7 @@ tags:
   - "Dating"
   - "Psychologie"
   - "Heilung"
-image: "/images/photos/beziehung-und-achtsamkeit.webp"
+image: "/images/photos/dating-mit-unsicherheiten.webp"
 imageAlt: "Person die achtsam und selbstbewusst in die Dating-Welt zurückkehrt"
 keywords: ["trauma informiert daten", "dating nach trauma", "dating nach toxischer beziehung", "sicher daten", "dating mit ptbs"]
 draft: false

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500">
+  <defs>
+    <linearGradient id="bg7" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#DC143C"/>
+      <stop offset="100%" style="stop-color:#FF6347"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="500" fill="url(#bg7)"/>
+  <circle cx="180" cy="120" r="135" fill="white" opacity="0.08"/>
+  <circle cx="1020" cy="380" r="200" fill="white" opacity="0.06"/>
+  <circle cx="600" cy="250" r="78" fill="white" opacity="0.1"/>
+  
+  <!-- Flag pole -->
+  <rect x="570" y="280" width="15" height="150" rx="5" fill="white" opacity="0.8"/>
+  
+  <!-- Flag -->
+  <polygon points="585,180 585,280 720,230" fill="#FF0000" stroke="white" stroke-width="2"/>
+  
+  <!-- Warning stripe 1 -->
+  <rect x="600" y="200" width="80" height="15" fill="white" opacity="0.9"/>
+  
+  <!-- Warning stripe 2 -->
+  <rect x="600" y="230" width="80" height="15" fill="white" opacity="0.9"/>
+  
+  <!-- Decorative warning symbols -->
+  <circle cx="480" cy="150" r="30" fill="none" stroke="white" stroke-width="3" opacity="0.3"/>
+  <path d="M 480 125 L 480 165" stroke="white" stroke-width="3" opacity="0.3"/>
+  <circle cx="480" cy="175" r="5" fill="white" opacity="0.3"/>
+  
+  <circle cx="750" cy="320" r="35" fill="none" stroke="white" stroke-width="3" opacity="0.3"/>
+  <path d="M 750 290 L 750 335" stroke="white" stroke-width="3" opacity="0.3"/>
+  <circle cx="750" cy="350" r="6" fill="white" opacity="0.3"/>
+  
+  <!-- Decorative shapes -->
+  <rect x="250" y="200" width="55" height="55" rx="12" fill="white" opacity="0.1"/>
+  <circle cx="900" cy="150" r="40" fill="white" opacity="0.12"/>
+  
+  <!-- Pattern dots -->
+  <circle cx="100" cy="450" r="3" fill="white" opacity="0.2"/>
+  <circle cx="300" cy="50" r="2" fill="white" opacity="0.15"/>
+  <circle cx="900" cy="100" r="4" fill="white" opacity="0.15"/>
+  <circle cx="1100" cy="350" r="3" fill="white" opacity="0.2"/>
+</svg>

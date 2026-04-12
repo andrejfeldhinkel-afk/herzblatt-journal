@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Heilung"
-image: "/images/photos/attachment-healing-guide.webp"
+image: "/images/photos/fawn-response-beziehung-guide.webp"
 imageAlt: "Person in nachdenklicher Haltung, Überwindung von Erstarrung"
 keywords: ["freeze response beziehung", "erstarren bei konflikten", "freeze trauma reaktion", "ich kann nicht mehr reden streit", "shutdown beziehung"]
 draft: false

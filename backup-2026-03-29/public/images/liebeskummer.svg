@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500">
+  <defs>
+    <linearGradient id="bg11" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4A90E2"/>
+      <stop offset="100%" style="stop-color:#FF8C69"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="500" fill="url(#bg11)"/>
+  <circle cx="180" cy="100" r="135" fill="white" opacity="0.08"/>
+  <circle cx="1050" cy="400" r="200" fill="white" opacity="0.06"/>
+  <circle cx="600" cy="250" r="78" fill="white" opacity="0.1"/>
+  
+  <!-- Rain cloud -->
+  <ellipse cx="500" cy="180" rx="80" ry="50" fill="white" stroke="#4A90E2" stroke-width="2" opacity="0.9"/>
+  <circle cx="450" cy="160" r="35" fill="white" stroke="#4A90E2" stroke-width="2" opacity="0.9"/>
+  <circle cx="550" cy="160" r="40" fill="white" stroke="#4A90E2" stroke-width="2" opacity="0.9"/>
+  
+  <!-- Rain drops -->
+  <line x1="450" y1="230" x2="440" y2="290" stroke="#4A90E2" stroke-width="3"/>
+  <line x1="490" y1="240" x2="480" y2="300" stroke="#4A90E2" stroke-width="3"/>
+  <line x1="530" y1="240" x2="520" y2="300" stroke="#4A90E2" stroke-width="3"/>
+  <line x1="570" y1="230" x2="560" y2="290" stroke="#4A90E2" stroke-width="3"/>
+  
+  <!-- Sun behind -->
+  <circle cx="750" cy="200" r="60" fill="white" opacity="0.4"/>
+  <circle cx="750" cy="200" r="55" fill="none" stroke="#FF8C69" stroke-width="3" opacity="0.6"/>
+  
+  <!-- Sun rays -->
+  <line x1="750" y1="80" x2="750" y2="30" stroke="#FF8C69" stroke-width="3" opacity="0.5"/>
+  <line x1="850" y1="120" x2="885" y2="85" stroke="#FF8C69" stroke-width="3" opacity="0.5"/>
+  <line x1="870" y1="200" x2="920" y2="200" stroke="#FF8C69" stroke-width="3" opacity="0.5"/>
+  
+  <!-- Heart with crack -->
+  <path d="M 600 250 Q 590 240 580 250 Q 575 260 580 270 Q 590 280 600 288 Q 610 280 620 270 Q 625 260 620 250 Q 610 240 600 250 Z" fill="#FF1493" opacity="0.7"/>
+  <line x1="600" y1="240" x2="600" y2="290" stroke="white" stroke-width="2"/>
+  
+  <!-- Decorative shapes -->
+  <rect x="280" y="200" width="55" height="55" rx="12" fill="white" opacity="0.1"/>
+  <circle cx="900" cy="340" r="45" fill="white" opacity="0.12"/>
+  
+  <!-- Pattern dots -->
+  <circle cx="100" cy="450" r="3" fill="white" opacity="0.2"/>
+  <circle cx="300" cy="50" r="2" fill="white" opacity="0.15"/>
+  <circle cx="900" cy="100" r="4" fill="white" opacity="0.15"/>
+  <circle cx="1100" cy="350" r="3" fill="white" opacity="0.2"/>
+</svg>

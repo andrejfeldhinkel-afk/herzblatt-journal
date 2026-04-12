@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Heilung"
   - "Selbstliebe"
-image: "/images/photos/gaslighting-recovery-heilung-guide.webp"
+image: "/images/photos/selbstwert-nach-toxischer-beziehung.webp"
 imageAlt: "Person die sich von toxischen Familienmitgliedern befreit"
 keywords: ["kontaktabbruch familie", "no contact eltern", "toxische familie abgrenzen", "kontaktabbruch narzisst mutter", "familienentfremdung"]
 draft: false

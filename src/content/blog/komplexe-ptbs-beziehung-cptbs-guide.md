@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Heilung"
   - "Beziehung"
-image: "/images/photos/attachment-healing-guide.webp"
+image: "/images/photos/beziehung-nach-depression.webp"
 imageAlt: "Person auf dem Weg der Heilung von komplexem Trauma"
 keywords: ["komplexe ptbs beziehung", "cptbs partnerschaft", "kindheitstrauma beziehung", "komplexe traumafolgestörung", "kptbs symptome beziehung"]
 draft: false

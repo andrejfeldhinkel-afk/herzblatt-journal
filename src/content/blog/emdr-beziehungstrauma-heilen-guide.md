@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Heilung"
   - "Beziehung"
-image: "/images/photos/emotionsregulation.webp"
+image: "/images/photos/dating-nach-narzisstischem-missbrauch-healing.webp"
 imageAlt: "Person in therapeutischer Sitzung, EMDR-Verarbeitung"
 keywords: ["emdr beziehungstrauma", "emdr therapie beziehung", "augenbewegungen trauma", "emdr nach trennung", "beziehungstrauma heilen"]
 draft: false

@@ -1,0 +1,98 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  date: Date;
+  tags: string[];
+  slug: string;
+  readingTime?: string;
+  featured?: boolean;
+  image?: string;
+  imageAlt?: string;
+}
+
+const { title, description, date, tags, slug, readingTime, featured = false, image, imageAlt } = Astro.props;
+
+const formattedDate = new Intl.DateTimeFormat('de-DE', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+}).format(date);
+---
+
+<article
+  class:list={[
+    'group relative rounded-2xl transition-all duration-300 hover:-translate-y-1 overflow-hidden',
+    featured ? 'col-span-full' : ''
+  ]}
+  style="background: var(--bg-card); border: 1px solid var(--border); box-shadow: 0 1px 3px rgba(0,0,0,0.04);"
+>
+  <!-- Gradient top border -->
+  <div class="absolute top-0 left-0 right-0 h-1 opacity-0 group-hover:opacity-100 transition-opacity z-10" style="background: linear-gradient(90deg, var(--color-primary-400), var(--color-primary-600));"></div>
+
+  <a href={`/blog/${slug}`} class:list={['block', featured ? 'md:grid md:grid-cols-2' : '']}>
+    <!-- Image -->
+    {image && (
+      <div class:list={[
+        'overflow-hidden',
+        featured ? 'aspect-[16/9] md:aspect-auto md:h-full' : 'aspect-[16/8]'
+      ]} style="background: linear-gradient(135deg, var(--color-primary-100), var(--color-primary-50));">
+        <img
+          src={image}
+          alt={imageAlt || title}
+          width="1200"
+          height="675"
+          class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+          loading="lazy"
+          decoding="async"
+        />
+      </div>
+    )}
+
+    <div class="p-6 sm:p-7">
+      <!-- Tags -->
+      <div class="flex flex-wrap gap-2 mb-4">
+        {tags.slice(0, 3).map(tag => (
+          <span
+            class="text-xs font-medium px-2.5 py-1 rounded-full"
+            style="background: var(--color-primary-50); color: var(--color-primary-700);"
+          >
+            {tag}
+          </span>
+        ))}
+      </div>
+
+      <!-- Title -->
+      <h3
+        class:list={[
+          'font-bold leading-snug mb-3 transition-colors group-hover:text-[var(--color-primary-600)]',
+          featured ? 'text-2xl sm:text-3xl' : 'text-lg'
+        ]}
+        style={`color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;`}
+      >
+        {title}
+      </h3>
+
+      <!-- Description -->
+      <p class:list={['leading-relaxed mb-5', featured ? 'text-base' : 'text-sm line-clamp-2']} style="color: var(--text-muted);">
+        {description}
+      </p>
+
+      <!-- Meta -->
+      <div class="flex items-center justify-between">
+        <div class="flex items-center gap-3 text-xs font-medium" style="color: var(--text-muted);">
+          <time datetime={date.toISOString()}>{formattedDate}</time>
+          {readingTime && (
+            <>
+              <span class="w-1 h-1 rounded-full" style="background: var(--color-surface-300);"></span>
+              <span>{readingTime}</span>
+            </>
+          )}
+        </div>
+        <span class="text-sm font-semibold opacity-0 group-hover:opacity-100 transition-all group-hover:translate-x-1" style="color: var(--color-primary-600);">
+          Lesen →
+        </span>
+      </div>
+    </div>
+  </a>
+</article>

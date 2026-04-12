@@ -6,7 +6,7 @@ tags:
   - "Red Flags"
   - "Beziehung"
   - "Ratgeber"
-image: "/images/photos/betrayal-trauma-vertrauensbruch-guide.webp"
+image: "/images/photos/liebe-und-finanzen.webp"
 imageAlt: "Person die finanzielle Unabhängigkeit zurückgewinnt"
 keywords: ["finanzielle gewalt beziehung", "economic abuse", "finanzielle kontrolle partner", "geld manipulation beziehung", "finanzielle abhängigkeit partner"]
 draft: false

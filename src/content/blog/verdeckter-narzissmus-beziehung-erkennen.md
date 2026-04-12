@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Red Flags"
   - "Beziehung"
-image: "/images/photos/betrayal-trauma-vertrauensbruch-guide.webp"
+image: "/images/photos/emotionale-manipulation-dating.webp"
 imageAlt: "Nachdenkliche Person, die subtile Manipulation erkennt"
 keywords: ["verdeckter narzissmus", "covert narcissism beziehung", "vulnerabler narzissmus", "verdeckter narzisst erkennen", "stiller narzissmus partner"]
 draft: false

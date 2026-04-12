@@ -1,0 +1,63 @@
+---
+interface Props {
+  variant?: 'full' | 'inline';
+}
+const { variant = 'full' } = Astro.props;
+---
+
+{variant === 'full' ? (
+  <section id="app" class="relative rounded-3xl overflow-hidden p-8 sm:p-14 text-center" style="background: linear-gradient(135deg, var(--color-primary-600), var(--color-primary-900)); color: white;">
+    <!-- Decorative circles -->
+    <div class="absolute top-0 right-0 w-64 h-64 rounded-full opacity-10" style="background: white; transform: translate(30%, -30%);"></div>
+    <div class="absolute bottom-0 left-0 w-48 h-48 rounded-full opacity-10" style="background: white; transform: translate(-30%, 30%);"></div>
+
+    <div class="relative">
+      <!-- Heart Icon -->
+      <div class="flex justify-center mb-5">
+        <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+      </div>
+      <p class="text-sm font-medium opacity-80 uppercase tracking-wider mb-3">In 30 Sekunden zum Ergebnis</p>
+      <h2 class="text-3xl sm:text-4xl font-extrabold mb-4" style="font-family: var(--font-serif); letter-spacing: -0.02em;">
+        Welche Dating-Seite passt zu dir?
+      </h2>
+      <p class="text-base sm:text-lg opacity-90 mb-10 max-w-lg mx-auto leading-relaxed">
+        Beantworte 4 kurze Fragen und finde heraus, welche Plattform am besten zu deinen Wünschen passt.
+      </p>
+
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <button onclick="window.openDatingQuiz()" class="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full text-base font-bold bg-white hover:bg-white/95 transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5 cursor-pointer" style="color: var(--color-primary-700); border: none;">
+          Quiz starten
+          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+        </button>
+      </div>
+
+      <div class="flex items-center justify-center gap-6 mt-8 text-sm opacity-70">
+        <span class="flex items-center gap-1.5">
+          <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6 9 17l-5-5"/></svg>
+          Kostenlos
+        </span>
+        <span class="flex items-center gap-1.5">
+          <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6 9 17l-5-5"/></svg>
+          4 Fragen
+        </span>
+        <span class="flex items-center gap-1.5">
+          <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6 9 17l-5-5"/></svg>
+          6 Plattformen
+        </span>
+      </div>
+    </div>
+  </section>
+) : (
+  <div class="rounded-2xl p-5 sm:p-6 flex flex-col sm:flex-row items-center gap-4" style="background: linear-gradient(135deg, var(--color-primary-50), white); border: 1px solid var(--color-primary-200);">
+    <div class="flex items-center gap-3 flex-1">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary-500)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="shrink-0"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+      <div>
+        <p class="font-semibold text-sm" style="color: var(--color-primary-800);">Welche Dating-Seite passt zu dir?</p>
+        <p class="text-xs mt-0.5" style="color: var(--color-primary-600);">Finde es heraus — in nur 30 Sekunden.</p>
+      </div>
+    </div>
+    <button onclick="window.openDatingQuiz()" class="shrink-0 px-6 py-2.5 rounded-full text-sm font-bold text-white transition-all hover:shadow-md hover:-translate-y-0.5 cursor-pointer" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); border: none;">
+      Quiz starten
+    </button>
+  </div>
+)}

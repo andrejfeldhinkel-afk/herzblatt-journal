@@ -7,7 +7,7 @@ tags:
   - "Beziehung"
   - "Heilung"
   - "Selbstliebe"
-image: "/images/photos/inneres-kind-heilen-beziehung.webp"
+image: "/images/photos/unbewusste-beziehungsmuster.webp"
 imageAlt: "Paar im Gespräch, nachdenklich, innere Anteile-Arbeit"
 keywords: ["ifs therapie", "internal family systems", "teile arbeit beziehung", "innere anteile", "self therapy", "richard schwartz"]
 draft: false

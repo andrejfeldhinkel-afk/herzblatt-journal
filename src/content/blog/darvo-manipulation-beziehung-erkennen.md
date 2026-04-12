@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Red Flags"
   - "Beziehung"
-image: "/images/photos/trauma-bonding-komplett-erklaert.webp"
+image: "/images/photos/dating-nach-narzisst.webp"
 imageAlt: "Person die manipulatives Verhalten durchschaut"
 keywords: ["darvo", "darvo manipulation", "täter opfer umkehr", "manipulation beziehung erkennen", "gaslighting darvo"]
 draft: false

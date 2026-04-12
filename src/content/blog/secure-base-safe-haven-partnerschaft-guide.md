@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Kommunikation"
-image: "/images/photos/aktives-zuhoeren-beziehung-ueben.webp"
+image: "/images/photos/emotional-safe-space-beziehung.webp"
 imageAlt: "Paar das sich gegenseitig Sicherheit und Halt gibt"
 keywords: ["secure base beziehung", "safe haven partnerschaft", "sichere basis beziehung", "bowlby erwachsene", "sicherer hafen partner"]
 draft: false

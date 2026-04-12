@@ -1,0 +1,435 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+// All glossary terms organized alphabetically
+const glossaryTerms = [
+  {
+    letter: 'B',
+    terms: [
+      { term: 'Benching', emoji: '🪑', definition: 'Wenn jemand dich in der Warteschlange hält — du bist nicht die erste Wahl, aber auch nicht raus aus dem Spiel. Die Person nimmt Kontakt auf, wenn es ihr passt oder wenn die Person, die ihre erste Wahl war, nicht verfügbar ist.', example: 'Er schreibt dir nur alle paar Wochen, lädt dich aber nicht zu echten Dates ein. Du sitzt auf der Benching-Bank.' },
+      { term: 'Breadcrumbing', emoji: '🥜', definition: 'Das Versenden von minimalen, gelegentlichen Nachrichten, um die andere Person interessiert zu halten, ohne echte Absichten zu zeigen. Es sind wie Brotkrümel — gerade genug, um dich zu folgen, aber nie genug, um dich zu füttern.', example: 'Sie liked nur deine Stories, schreibt aber nie wirklich. Das ist Breadcrumbing.' },
+    ]
+  },
+  {
+    letter: 'C',
+    terms: [
+      { term: 'Catfishing', emoji: '🐱', definition: 'Wenn jemand eine falsche Identität online annimmt — mit Fake-Fotos, erfundenen Details und Lügen über sein echtes Leben. Der Begriff kommt vom Film "Catfish".', example: 'Die Person auf Tinder sah wie ein Model aus, war aber komplett anders im echten Leben. Das war Catfishing.' },
+      { term: 'Cuffing Season', emoji: '🍂', definition: 'Die Herbst- und Wintermonate, wenn Menschen vermehrt nach kurzfristigen Beziehungen suchen, um nicht allein zu sein. Im Sommer endet das Engagement dann oft wieder.', example: 'Im Oktober schreiben plötzlich alle potenziellen Partner. Das ist Cuffing Season.' },
+    ]
+  },
+  {
+    letter: 'D',
+    terms: [
+      { term: 'DTR (Define the Relationship)', emoji: '🏷️', definition: 'Das "Gespräch" über den Status einer Beziehung — ob ihr zusammen seid, es exklusiv ist oder eher locker. Ein wichtiger, aber oft nervöser Moment.', example: 'Nach zwei Monaten beschließen sie, das DTR-Gespräch zu führen und zu klären, dass sie nun offiziell zusammen sind.' },
+    ]
+  },
+  {
+    letter: 'E',
+    terms: [
+      { term: 'Entangling', emoji: '💫', definition: 'Sich in eine emotionale oder romantische Verstrickung mit jemandem einlassen, während man in einer anderen Beziehung ist. Es ist ein subtilerer Begriff als "Affäre".', example: 'Er merkt, dass er sich in seine Arbeitskollegin verliebt — das ist Entangling, nicht unbedingt körperlich, aber emotional kompliziert.' },
+    ]
+  },
+  {
+    letter: 'F',
+    terms: [
+      { term: 'Freundschaft Plus', emoji: '👯', definition: 'Eine Beziehung zwischen Freunden, die auch eine sexuelle Komponente hat, ohne romantische Gefühle oder Verpflichtungen. Auch "Friends with Benefits" genannt.', example: 'Sie kennen sich schon lange und mögen sich, aber wollen nicht zusammen sein — also haben sie eine Freundschaft Plus.' },
+      { term: 'Friends with Benefits', emoji: '😉', definition: 'Das englische Pendant zu Freundschaft Plus. Zwei Menschen, die befreundet sind und Sex haben, aber keine Beziehung führen.', example: 'Sie treffen sich zum Sex, gehen aber nicht Hand in Hand spazieren und nennen es keine Beziehung.' },
+    ]
+  },
+  {
+    letter: 'G',
+    terms: [
+      { term: 'Gaslighting', emoji: '🔦', definition: 'Eine Form der emotionalen Manipulation, bei der jemand dich an deinen eigenen Sinnen zweifeln lässt. Gaslighting-Täter leugnen Dinge ab oder drehen Fakten, um dich zu verwirren und emotional abhängig zu machen.', example: 'Du sagst, er war gestern unhöflich, und er sagt: "Das hat er nicht getan, du bildest dir Dinge ein." Das ist Gaslighting.' },
+      { term: 'Ghosting', emoji: '👻', definition: 'Das plötzliche und vollständige Verschwinden aus dem Leben einer anderen Person — keine Nachricht, keine Erklärung, keine Kontaktaufnahme mehr. Als ob man ein Gespenst wäre.', example: 'Sie chatteten die ganze Woche, und dann antwortete er nie wieder auf Nachrichten. Das ist Ghosting.' },
+    ]
+  },
+  {
+    letter: 'H',
+    terms: [
+      { term: 'Haunting', emoji: '👁️', definition: 'Die digitale Version von Ghosting: Jemand verschwindet aus deinem Leben, aber bleibt in sozialen Medien präsent — liked deine Posts oder schaut deine Stories, ohne zu schreiben.', example: 'Er antwortet nicht mehr auf deine Nachrichten, aber schaut immer noch deine Instagram-Stories. Das ist Haunting.' },
+    ]
+  },
+  {
+    letter: 'I',
+    terms: [
+      { term: 'Ick', emoji: '😖', definition: 'Das plötzliche Gefühl von Unbehagen oder Abstoßung gegenüber jemandem, an dem dir sonst gefallen hat. Oft ausgelöst durch ein bestimmtes Verhalten, das dir nicht passt.', example: 'Sie mochte ihn, bis sie sah, wie unhöflich er zum Kellner war. Das verursachte ihr einen "Ick".' },
+    ]
+  },
+  {
+    letter: 'K',
+    terms: [
+      { term: 'Kittenfishing', emoji: '🐱', definition: 'Eine leichtere Form von Catfishing. Die Person benutzt echte Fotos, aber ältere oder stark bearbeitete — oder übertreibt ihre positiven Eigenschaften. Nicht ganz Lügen, aber auch nicht ganz ehrlich.', example: 'Ihr Profilbild ist 5 Jahre alt und mit Filtern bearbeitet. Das ist Kittenfishing.' },
+      { term: 'Knutschfleck', emoji: '💋', definition: 'Ein Bluterguß auf der Haut, der durch intensives Küssen oder Saugen an der Haut entsteht. Ein sichtbares Zeichen von Zärtlichkeit, kann aber auch peinlich sein.', example: 'Nach einem leidenschaftlichen Kuss hinterlies er einen großen Knutschfleck an ihrem Hals.' },
+    ]
+  },
+  {
+    letter: 'L',
+    terms: [
+      { term: 'Love Bombing', emoji: '💣', definition: 'Überwältigende Aufmerksamkeit, Geschenke und emotionale Intensität in einer sehr kurzen Zeit, um jemanden zu manipulieren. Es ist oft ein Red Flag und kann zu emotionaler Abhängigkeit führen.', example: 'Er schrieb ihr ständig, kaufte ihr teure Geschenke und sagte schon nach einer Woche "Ich liebe dich". Das ist Love Bombing.' },
+    ]
+  },
+  {
+    letter: 'M',
+    terms: [
+      { term: 'Manifest', emoji: '✨', definition: 'Im Dating-Kontext: bewusst eine Vision oder ein Ideal für eine Beziehung oder einen Partner in dein Leben "anziehen". Oft mit positiven Gedanken und Affirmationen verbunden.', example: 'Sie schreibt auf, welche Eigenschaften ihr idealer Partner hat, um es ins Universum zu manifestieren.' },
+      { term: 'Micro-Cheating', emoji: '📱', definition: 'Kleine, subtile Formen der Untreue, die nicht direkt physisch sind, aber emotional eine Grenze überschreiten — geheime Chats, flirten, oder emotionale Nähe zu jemandem anders.', example: 'Er schreibt einer anderen Frau private, flirtende Nachrichten. Das ist Micro-Cheating, nicht vollständige Untreue, aber problematisch.' },
+    ]
+  },
+  {
+    letter: 'N',
+    terms: [
+      { term: 'Nebbing', emoji: '🤏', definition: 'Ein britischer Begriff für oberflächliches, plattendes Verhalten auf einer Dating-App — Nachrichten wie "haha" oder "hi" ohne echtes Interesse zu zeigen.', example: 'Die ganze Woche schreibt er nur "Wie geht es?" Das ist Nebbing.' },
+    ]
+  },
+  {
+    letter: 'O',
+    terms: [
+      { term: 'Open Relationship', emoji: '🔓', definition: 'Eine romantische Beziehung, in der beide Partner sich erlauben, sexuelle oder romantische Verbindungen mit anderen Menschen zu haben, solange Offenheit und Ehrlichkeit gewährleistet sind.', example: 'Sie sind verliebt, aber beide ok damit, dass sie auch mit anderen Menschen romantisch oder sexuell verbunden sind.' },
+    ]
+  },
+  {
+    letter: 'P',
+    terms: [
+      { term: 'Pocketing', emoji: '👖', definition: 'Wenn jemand dich versteckt — du bist sein Geheimnis. Er präsentiert dich nicht seinen Freunden oder Familie und ändert sein Verhalten drastisch, wenn diese um ihn herum sind.', example: 'Er hält deine Beziehung komplett geheim und sagt seinen Freunden nichts von dir. Das ist Pocketing.' },
+    ]
+  },
+  {
+    letter: 'Q',
+    terms: [
+      { term: 'Quiet Quitting (Dating)', emoji: '😶', definition: 'Langsam und subtil aus einer Beziehung oder Dating-Situation verschwinden, ohne eine klare Erklärung oder ein Gespräch. Weniger direkt als Ghosting, aber genauso verletzend.', example: 'Die Antworten werden immer kürzer, Dates werden seltener, bis die Person völlig weg ist. Das ist Quiet Quitting.' },
+    ]
+  },
+  {
+    letter: 'R',
+    terms: [
+      { term: 'Red Flag', emoji: '🚩', definition: 'Ein Warnsignal oder Hinweis darauf, dass etwas an einer Person oder einer Beziehung nicht stimmt. Rote Flaggen sind Verhaltensweisen, die Probleme oder Toxizität signalisieren.', example: 'Er kontrolliert dein Handy oder isoliert dich von Freunden — das sind Red Flags.' },
+      { term: 'Rizz', emoji: '✨', definition: 'Charisma, Charme oder die Fähigkeit, jemanden zu verführen oder zu begeistern. "Er hat Rizz" bedeutet, er ist attraktiv und charmant.', example: 'Alle Frauen fallen für ihn, weil er so viel Rizz hat.' },
+      { term: 'Roaching', emoji: '🪳', definition: 'Wenn jemand seine Dating- oder Flirt-Aktivitäten geheim hält und es so tut, als wäre das Verhalten normal ("wie eine Schabe, wenn man das Licht anmacht"). Besonders relevant in Open Relationships, wo es um Transparenz geht.', example: 'Er sagte, er würde beim Treffen mit anderen transparent sein, aber versteckt es. Das ist Roaching.' },
+    ]
+  },
+  {
+    letter: 'S',
+    terms: [
+      { term: 'Schmetterlige im Bauch', emoji: '🦋', definition: 'Das wunderbare Gefühl von Aufregung, Nervosität und Vorfreude, wenn man jemanden trifft oder an jemanden denkt, in den man sich verliebt oder verliebt hat.', example: 'Bei jedem Gedanken an ihn bekommt sie Schmetterlinge im Bauch.' },
+      { term: 'Situationship', emoji: '❓', definition: 'Eine romantische oder sexuelle Verbindung, die nicht klar definiert ist — nicht ganz Freundschaft, nicht ganz Beziehung. Es ist unklar, wohin es führt.', example: 'Sie treffen sich, schlafen miteinander, gehen manchmal aus, aber niemand nennt es eine Beziehung. Das ist eine Situationship.' },
+      { term: 'Slow Dating', emoji: '🐢', definition: 'Ein bewusster, absichtlich langsamer Ansatz beim Dating — keine Hast, echte Gefühle entwickeln, lange Dates und tiefe Gespräche statt schnelle Treffen.', example: 'Sie mögen sich, aber gehen bewusst langsam vor, um eine echte Basis aufzubauen. Das ist Slow Dating.' },
+      { term: 'Sneating', emoji: '🍴', definition: 'Jemanden nur zu Dates einladen, weil du kostenlos essen möchtest — der Dating-Aspekt ist nicht das Ziel, sondern das freie Essen.', example: 'Er geht nie auf echte Dates, sondern nur in Restaurants, um das Essen zu genießen. Das ist Sneating.' },
+      { term: 'Stashing', emoji: '👤', definition: 'Ähnlich wie Pocketing: Du bist in einer Beziehung, aber werde der anderen Person nicht vorgestellt oder anerkannt. Du wirst wie ein Geheimnis behandelt und "verstaut".', example: 'Nach drei Monaten hattest du noch kein Date mit seinen Freunden und keine Erwähnung in sozialen Medien. Das ist Stashing.' },
+    ]
+  },
+  {
+    letter: 'T',
+    terms: [
+      { term: 'Textationship', emoji: '💬', definition: 'Eine "Beziehung", die nur über Textnachrichten besteht — keine echten Treffen, keine physische Intimität, nur virtueller Austausch.', example: 'Ihr schreibt jeden Tag, habt euch aber noch kein einziges Mal getroffen. Das ist eine Textationship.' },
+      { term: 'Torschlusspanik', emoji: '⏰', definition: 'Deutsche Phrase für die Angst, dass deine Chancen auf Liebe und Familie zu Ende gehen, wenn du nicht schnell handeln wirst. Eine unbegründete Panik, schnell in eine Beziehung zu gehen.', example: 'Mit 35 Jahren hat sie Torschlusspanik und nimmt auch den ungeignetsten Partner, nur um nicht allein zu sein.' },
+      { term: 'Trauma Bonding', emoji: '⛓️', definition: 'Eine intensive emotionale Bindung, die durch gemeinsame traumatische Erfahrungen oder toxische Beziehungsdynamiken entsteht. Oft fühlt sich das wie Liebe an, ist aber ungesund.', example: 'Er war emotional manipulativ, aber danach war sie ihm näher als je zuvor. Das ist Trauma Bonding.' },
+      { term: 'Tuning', emoji: '🎵', definition: 'Wenn zwei Menschen Interesse füreinander signalisieren und "auf der gleichen Wellenlänge" sind — emotional und energetisch abgestimmt. Ein positiver Term für gute Chemie.', example: 'Zwischen ihnen stimmt es einfach — das ist echtes Tuning.' },
+    ]
+  },
+  {
+    letter: 'Z',
+    terms: [
+      { term: 'Zombieing', emoji: '🧟', definition: 'Wenn jemand, der dich vorher geghostet hat, plötzlich wieder Kontakt aufnimmt — wie ein Zombie, der aus dem Grab steigt. Ein zweiter Versuch nach Kontakt-Stille.', example: 'Nach drei Monaten Funkstille schrieb er plötzlich wieder "Hey, wie geht es dir?" Das ist Zombieing.' },
+    ]
+  }
+];
+
+// Flatten all terms for search functionality
+const allTerms = glossaryTerms.flatMap(section => section.terms);
+const alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'Z'];
+
+const faqItems = [
+  {
+    question: 'Was ist das Dating-Glossar?',
+    answer: 'Das Dating-Glossar ist eine umfassende Sammlung von modernen Dating-Begriffen und -Phänomenen, die dir hilft, die komplexe Welt des zeitgenössischen Datings zu verstehen. Von Ghosting bis Slow Dating — alle Begriffe einfach erklärt.'
+  },
+  {
+    question: 'Welche Dating-Begriffe sollte ich unbedingt kennen?',
+    answer: 'Die wichtigsten sind: Ghosting (plötzliches Verschwinden), Red Flags (Warnsignale), Love Bombing (überwältigende Aufmerksamkeit), DTR (Beziehungs-Klärungsgespräch) und Situationship (undefinierte Beziehung). Diese Begriffe helfen dir, toxische Verhaltensmuster zu erkennen.'
+  },
+  {
+    question: 'Was ist der Unterschied zwischen Ghosting und Benching?',
+    answer: 'Ghosting bedeutet, dass jemand komplett verschwindet und keinen Kontakt mehr aufnimmt. Benching heißt, dass du auf der "Bank" sitzt — die Person hält Kontakt, zeigt aber kein echtes Interesse und behält dir vor, bis sie jemand besseres findet oder die Person, die sie wirklich will, nicht verfügbar ist.'
+  },
+  {
+    question: 'Ist Love Bombing immer schlecht?',
+    answer: 'Ja, Love Bombing ist immer ein Red Flag. Es ist eine Manipulationstaktik, nicht echte Liebe. Echte Liebe entwickelt sich schrittweise. Überwältigende Aufmerksamkeit in kurzer Zeit ist ein Zeichen dafür, dass die Person dich manipulieren oder kontrollieren will.'
+  },
+  {
+    question: 'Wie kann ich mich vor toxischen Dating-Mustern schützen?',
+    answer: 'Kenne die Warnsignale (Red Flags), vertrau deinem Bauchgefühl, kommuniziere deine Grenzen klar und beobachte die Handlungen von Menschen, nicht nur ihre Worte. Wenn du unsicher bist, such dir Unterstützung bei Freunden oder Therapeuten. Das Glossar hilft dir, verdächtige Verhaltensmuster zu erkennen.'
+  }
+];
+---
+
+<BaseLayout
+  title="Dating-Glossar: Alle Begriffe von A-Z — Herzblatt Journal"
+  description="Dein umfassendes Dating-Glossar: Ghosting, Benching, Love Bombing & Co. — alle wichtigen modernen Dating-Begriffe erklärt von A-Z."
+  faq={faqItems}
+>
+  <!-- Hero Section -->
+  <section class="relative overflow-hidden py-20 sm:py-28">
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, var(--color-primary-50) 0%, var(--color-surface-100) 50%, var(--color-primary-50) 100%);"></div>
+    <div class="absolute top-10 left-10 w-72 h-72 rounded-full opacity-20" style="background: var(--color-primary-200); filter: blur(80px);"></div>
+    <div class="absolute bottom-10 right-10 w-96 h-96 rounded-full opacity-15" style="background: var(--color-primary-300); filter: blur(100px);"></div>
+
+    <div class="relative max-w-4xl mx-auto px-4 sm:px-6 text-center">
+      <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-semibold mb-6" style="background: var(--color-primary-100); color: var(--color-primary-700);">
+        <span>📚</span> Dein Dating-Lexikon
+      </div>
+      <h1 class="text-4xl sm:text-5xl font-extrabold mb-6" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.03em; line-height: 1.1;">
+        Dating-Glossar<br>
+        <span style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Alle Begriffe von A-Z</span>
+      </h1>
+      <p class="text-lg sm:text-xl max-w-2xl mx-auto leading-relaxed" style="color: var(--text-muted);">
+        Ghosting, Benching, Rizz & Co. — verstehe die moderne Dating-Sprache mit unserem ausführlichen Glossar. Mit Definitionen, Beispielen und praktischen Tipps.
+      </p>
+    </div>
+  </section>
+
+  <div class="max-w-5xl mx-auto px-4 sm:px-6">
+
+    <!-- Search Bar Section -->
+    <section class="py-8 -mt-4 relative z-10">
+      <div class="rounded-2xl p-6 sm:p-8" style="background: var(--bg); border: 1px solid var(--border); box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
+        <div class="relative">
+          <svg class="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5" style="color: var(--text-muted);" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+          </svg>
+          <input
+            type="text"
+            id="searchInput"
+            placeholder="Suchbegriff eingeben... (z.B. 'Ghosting')"
+            class="w-full pl-12 pr-4 py-3 rounded-xl text-base border"
+            style="background: var(--bg-soft); color: var(--text); border-color: var(--border);"
+          />
+        </div>
+      </div>
+      <p class="text-xs mt-3 text-center" style="color: var(--text-muted);">
+        Gib einen Begriff ein, um ihn zu suchen. Die Ergebnisse werden live gefiltert.
+      </p>
+    </section>
+
+    <!-- Alphabet Navigation -->
+    <section class="py-8">
+      <div class="flex flex-wrap gap-2 justify-center">
+        {alphabet.map(letter => (
+          <a
+            href={`#letter-${letter}`}
+            class="w-10 h-10 flex items-center justify-center rounded-full text-sm font-bold transition-all hover:shadow-md"
+            style="background: var(--bg-soft); color: var(--color-primary-600); border: 1px solid var(--border);"
+            data-letter={letter}
+          >
+            {letter}
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- Glossary Terms -->
+    <section class="py-12 space-y-16">
+      {glossaryTerms.map(section => (
+        <div id={`letter-${section.letter}`} class="scroll-mt-20">
+          <div class="flex items-center gap-3 mb-8">
+            <div class="w-1 h-8 rounded-full" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-300));"></div>
+            <h2 class="text-3xl font-bold" style="color: var(--text); font-family: var(--font-serif);">{section.letter}</h2>
+          </div>
+
+          <div class="space-y-6">
+            {section.terms.map(item => (
+              <div
+                class="glossary-item rounded-2xl p-6 sm:p-8 transition-all hover:shadow-md"
+                style="background: var(--bg-soft); border: 1px solid var(--border);"
+                data-term={item.term.toLowerCase()}
+                data-definition={item.definition.toLowerCase()}
+                data-example={item.example.toLowerCase()}
+              >
+                <div class="flex items-start gap-4">
+                  <div class="flex-shrink-0 text-4xl">{item.emoji}</div>
+                  <div class="flex-1">
+                    <h3 class="text-xl font-bold mb-2" style="color: var(--text); font-family: var(--font-serif);">
+                      {item.term}
+                    </h3>
+                    <p class="text-base leading-relaxed mb-4" style="color: var(--text-muted);">
+                      {item.definition}
+                    </p>
+                    <div class="rounded-lg p-4" style="background: var(--bg); border-left: 3px solid var(--color-primary-300);">
+                      <p class="text-xs font-semibold mb-1" style="color: var(--color-primary-600);">BEISPIEL:</p>
+                      <p class="text-sm" style="color: var(--text-muted);">
+                        <em>{item.example}</em>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      ))}
+    </section>
+
+    <!-- No Results Message (hidden by default) -->
+    <div id="noResults" class="hidden py-12 text-center">
+      <div class="text-5xl mb-4">🔍</div>
+      <h3 class="text-xl font-bold mb-2" style="color: var(--text);">Keine Ergebnisse gefunden</h3>
+      <p style="color: var(--text-muted);">
+        Versuche einen anderen Suchbegriff oder durchsuche das Glossar manuell von A-Z.
+      </p>
+    </div>
+
+    <!-- Info Section -->
+    <section class="py-16" style="border-top: 1px solid var(--border);">
+      <div class="rounded-2xl p-8 sm:p-10" style="background: linear-gradient(135deg, var(--color-primary-50), var(--color-surface-100)); border: 1px solid var(--color-primary-100);">
+        <h2 class="text-2xl font-bold mb-4" style="color: var(--text); font-family: var(--font-serif);">💡 Tipps zur Nutzung des Glossars</h2>
+        <ul class="space-y-3 text-base leading-relaxed" style="color: var(--text-muted);">
+          <li class="flex items-start gap-3">
+            <span style="color: var(--color-primary-600); flex-shrink-0;">✓</span>
+            <span><strong style="color: var(--text);">Schnelle Navigation:</strong> Nutze die Buchstaben oben, um schnell zu deinem Suchbegriff zu springen.</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <span style="color: var(--color-primary-600); flex-shrink-0;">✓</span>
+            <span><strong style="color: var(--text);">Live-Suche:</strong> Nutze die Suchleiste, um Begriffe in Echtzeit zu filtern — über 40 Dating-Begriffe durchsuchbar.</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <span style="color: var(--color-primary-600); flex-shrink-0;">✓</span>
+            <span><strong style="color: var(--text);">Praktische Beispiele:</strong> Jeder Begriff kommt mit einem realistischen Beispiel, das dir hilft, ihn im echten Dating zu erkennen.</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <span style="color: var(--color-primary-600); flex-shrink-0;">✓</span>
+            <span><strong style="color: var(--text);">Rote Flaggen erkennen:</strong> Viele dieser Begriffe beschreiben rotes Flaggen-Verhalten. Vertrau auf dein Bauchgefühl!</span>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-16" style="border-top: 1px solid var(--border);">
+      <div class="flex items-center gap-3 mb-8">
+        <div class="w-1 h-8 rounded-full" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-300));"></div>
+        <h2 class="text-2xl font-bold" style="color: var(--text); font-family: var(--font-serif);">Häufig gestellte Fragen</h2>
+      </div>
+
+      <div class="space-y-4">
+        {faqItems.map(item => (
+          <details class="group rounded-2xl overflow-hidden" style="background: var(--bg-soft); border: 1px solid var(--border);">
+            <summary class="flex items-center justify-between p-5 cursor-pointer list-none hover:opacity-80 transition-opacity">
+              <span class="text-sm font-semibold" style="color: var(--text);">{item.question}</span>
+              <svg class="w-5 h-5 transition-transform group-open:rotate-180" style="color: var(--text-muted);" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg>
+            </summary>
+            <div class="px-5 pb-5 text-sm leading-relaxed" style="color: var(--text-muted);">
+              {item.answer}
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="py-16 pb-20" style="border-top: 1px solid var(--border);">
+      <div class="rounded-2xl p-8 sm:p-10 text-center" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700));">
+        <div class="text-4xl mb-4">💌</div>
+        <h2 class="text-2xl font-bold mb-3 text-white" style="font-family: var(--font-serif);">Noch mehr Dating-Wissen?</h2>
+        <p class="text-base mb-6 text-white/90 max-w-lg mx-auto leading-relaxed">
+          Explore unseren Blog für tiefgründige Guides, Tipps und Ratschläge von Experten. Von der perfekten ersten Nachricht bis zur Beziehungspflege.
+        </p>
+        <div class="flex flex-col sm:flex-row gap-3 justify-center">
+          <a href="/blog" class="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full text-sm font-bold text-gray-900 transition-all hover:shadow-lg hover:-translate-y-0.5" style="background: white;">
+            Zum Blog
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+          </a>
+          <a href="/ueber-uns" class="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full text-sm font-bold transition-all hover:shadow-lg hover:-translate-y-0.5 text-white" style="border: 2px solid white;">
+            Über Herzblatt
+          </a>
+        </div>
+      </div>
+    </section>
+
+  </div>
+
+  <style>
+    details summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .glossary-item {
+      transition: all 0.3s ease;
+    }
+
+    .glossary-item.hidden {
+      display: none;
+    }
+
+    #searchInput::placeholder {
+      color: var(--text-muted);
+      opacity: 0.7;
+    }
+
+    #searchInput:focus {
+      outline: none;
+      border-color: var(--color-primary-400);
+      box-shadow: 0 0 0 3px var(--color-primary-100);
+    }
+  </style>
+
+  <script>
+    // Search functionality
+    const searchInput = document.getElementById('searchInput');
+    const glossaryItems = document.querySelectorAll('.glossary-item');
+    const noResults = document.getElementById('noResults');
+    const letterSections = document.querySelectorAll('[id^="letter-"]');
+
+    function filterGlossary(searchTerm) {
+      const term = searchTerm.toLowerCase().trim();
+      let visibleCount = 0;
+
+      // Hide/show items based on search
+      glossaryItems.forEach(item => {
+        const itemTerm = item.getAttribute('data-term') || '';
+        const itemDefinition = item.getAttribute('data-definition') || '';
+        const itemExample = item.getAttribute('data-example') || '';
+
+        const matches =
+          itemTerm.includes(term) ||
+          itemDefinition.includes(term) ||
+          itemExample.includes(term);
+
+        if (term === '' || matches) {
+          item.classList.remove('hidden');
+          visibleCount++;
+        } else {
+          item.classList.add('hidden');
+        }
+      });
+
+      // Show/hide letter sections based on visible items
+      letterSections.forEach(section => {
+        const visibleInSection = section.querySelectorAll('.glossary-item:not(.hidden)').length;
+        section.style.display = visibleInSection > 0 ? 'block' : 'none';
+      });
+
+      // Show no results message if nothing matches
+      noResults.style.display = visibleCount === 0 && term !== '' ? 'block' : 'none';
+    }
+
+    searchInput.addEventListener('input', (e) => {
+      filterGlossary(e.target.value);
+    });
+
+    // Smooth scroll to letter sections
+    document.querySelectorAll('a[data-letter]').forEach(link => {
+      link.addEventListener('click', (e) => {
+        e.preventDefault();
+        const letter = link.getAttribute('data-letter');
+        const section = document.getElementById(`letter-${letter}`);
+        if (section) {
+          // Clear search first
+          searchInput.value = '';
+          filterGlossary('');
+
+          // Scroll to section
+          section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      });
+    });
+  </script>
+</BaseLayout>

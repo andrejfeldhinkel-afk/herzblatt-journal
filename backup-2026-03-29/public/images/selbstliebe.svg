@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500">
+  <defs>
+    <linearGradient id="bg16" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFB6D9"/>
+      <stop offset="100%" style="stop-color:#FFC0CB"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="500" fill="url(#bg16)"/>
+  <circle cx="220" cy="100" r="140" fill="white" opacity="0.08"/>
+  <circle cx="980" cy="400" r="195" fill="white" opacity="0.06"/>
+  <circle cx="600" cy="250" r="80" fill="white" opacity="0.1"/>
+  
+  <!-- Mirror frame -->
+  <circle cx="600" cy="220" r="90" fill="none" stroke="white" stroke-width="5"/>
+  <circle cx="600" cy="220" r="85" fill="#FFE4E1" stroke="white" stroke-width="2"/>
+  
+  <!-- Mirror stand -->
+  <rect x="570" y="305" width="60" height="80" rx="8" fill="white" opacity="0.6"/>
+  <rect x="560" y="380" width="80" height="12" rx="6" fill="white" opacity="0.6"/>
+  
+  <!-- Heart in mirror -->
+  <path d="M 600 190 Q 590 180 580 190 Q 575 200 580 210 Q 590 220 600 228 Q 610 220 620 210 Q 625 200 620 190 Q 610 180 600 190 Z" fill="#FF1493"/>
+  
+  <!-- Reflection effect -->
+  <path d="M 600 250 Q 590 240 580 250 Q 575 260 580 270 Q 590 280 600 288 Q 610 280 620 270 Q 625 260 620 250 Q 610 240 600 250 Z" fill="#FF1493" opacity="0.3"/>
+  
+  <!-- Sparkles -->
+  <circle cx="530" cy="140" r="8" fill="#FFD700"/>
+  <path d="M 530 125 L 535 140 L 530 155 L 525 140 Z" fill="#FFD700"/>
+  
+  <circle cx="700" cy="160" r="6" fill="#FFD700"/>
+  <path d="M 700 148 L 704 160 L 700 172 L 696 160 Z" fill="#FFD700"/>
+  
+  <circle cx="680" cy="300" r="7" fill="#FFD700"/>
+  <path d="M 680 287 L 685 300 L 680 313 L 675 300 Z" fill="#FFD700"/>
+  
+  <!-- Decorative shapes -->
+  <rect x="280" y="150" width="65" height="65" rx="15" fill="white" opacity="0.1"/>
+  <circle cx="870" cy="320" r="50" fill="white" opacity="0.12"/>
+  
+  <!-- Pattern dots -->
+  <circle cx="100" cy="450" r="3" fill="white" opacity="0.2"/>
+  <circle cx="300" cy="50" r="2" fill="white" opacity="0.15"/>
+  <circle cx="900" cy="100" r="4" fill="white" opacity="0.15"/>
+  <circle cx="1100" cy="350" r="3" fill="white" opacity="0.2"/>
+</svg>

@@ -7,7 +7,7 @@ tags:
   - "Beziehung"
   - "Heilung"
   - "Kommunikation"
-image: "/images/photos/emotionsregulation.webp"
+image: "/images/photos/paartherapie-wann-sinnvoll.webp"
 imageAlt: "Paar sitzt sich nah gegenüber, ruhige Atmosphäre, Koregulation"
 keywords: ["polyvagal theorie", "polyvagal theorie paare", "nervensystem beziehung", "koregulation", "window of tolerance", "ventraler vagus"]
 draft: false

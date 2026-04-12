@@ -6,7 +6,7 @@ tags:
   - "Red Flags"
   - "Psychologie"
   - "Dating"
-image: "/images/photos/trauma-bonding-komplett-erklaert.webp"
+image: "/images/photos/ex-kontaktsperre-durchhalten.webp"
 imageAlt: "Person die Handy-Nachrichten eines Ex-Partners ignoriert"
 keywords: ["hoovering", "hoovering narzisst", "ex kommt zurück manipulation", "hoovering erkennen", "narzisstischer ex kontaktiert mich"]
 draft: false

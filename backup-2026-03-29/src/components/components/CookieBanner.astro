@@ -1,0 +1,33 @@
+---
+---
+
+<div id="cookie-banner" class="fixed bottom-0 left-0 right-0 z-[100] p-4 hidden" style="background: rgba(0,0,0,0.5); backdrop-filter: blur(4px);">
+  <div class="max-w-3xl mx-auto rounded-2xl p-5 sm:p-6 shadow-2xl" style="background: var(--bg-card); border: 1px solid var(--border);">
+    <div class="flex flex-col sm:flex-row gap-4 items-start sm:items-center">
+      <div class="flex-1">
+        <p class="text-sm font-semibold mb-1" style="color: var(--text);">
+          Wir respektieren deine Privatsphäre
+        </p>
+        <p class="text-xs leading-relaxed" style="color: var(--text-muted);">
+          Diese Webseite verwendet nur technisch notwendige Cookies für die Theme-Einstellung. Keine Tracking- oder Werbe-Cookies.
+          <a href="/datenschutz" class="underline hover:text-[var(--color-primary-600)]">Mehr erfahren</a>
+        </p>
+      </div>
+      <div class="flex gap-2 shrink-0">
+        <button
+          onclick="localStorage.setItem('cookies-accepted','1'); document.getElementById('cookie-banner').style.display='none';"
+          class="px-5 py-2.5 rounded-full text-xs font-semibold text-white transition-all hover:opacity-90"
+          style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700));"
+        >
+          Verstanden
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script is:inline>
+  if (!localStorage.getItem('cookies-accepted')) {
+    document.getElementById('cookie-banner')?.classList.remove('hidden');
+  }
+</script>

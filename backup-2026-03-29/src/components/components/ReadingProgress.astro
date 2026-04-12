@@ -1,0 +1,26 @@
+---
+---
+
+<div id="reading-progress" class="fixed top-0 left-0 h-[3px] z-[9999] transition-none" style="background: linear-gradient(90deg, var(--color-primary-400), var(--color-primary-600)); width: 0%; opacity: 0;"></div>
+
+<script is:inline>
+(function() {
+  const bar = document.getElementById('reading-progress');
+  if (!bar) return;
+  const article = document.querySelector('article') || document.querySelector('.prose');
+  if (!article) return;
+
+  function update() {
+    const rect = article.getBoundingClientRect();
+    const start = rect.top + window.scrollY - window.innerHeight * 0.2;
+    const end = rect.bottom + window.scrollY - window.innerHeight * 0.8;
+    const scroll = window.scrollY;
+    const progress = Math.min(Math.max((scroll - start) / (end - start), 0), 1);
+    bar.style.width = (progress * 100) + '%';
+    bar.style.opacity = progress > 0.01 ? '1' : '0';
+  }
+
+  window.addEventListener('scroll', update, { passive: true });
+  update();
+})();
+</script>

@@ -6,7 +6,7 @@ tags:
   - "Kommunikation"
   - "Beziehung"
   - "Psychologie"
-image: "/images/photos/beduerfnisse-kommunizieren-beziehung.webp"
+image: "/images/photos/beziehungskrise-meistern.webp"
 imageAlt: "Paar das nach einem Streit wieder zueinander findet"
 keywords: ["rupture and repair beziehung", "reparatur nach streit", "beziehung reparieren", "nach streit wieder gut werden", "repair attempts gottman"]
 draft: false

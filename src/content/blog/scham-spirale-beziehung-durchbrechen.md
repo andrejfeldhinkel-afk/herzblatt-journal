@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Heilung"
-image: "/images/photos/inneres-kind-heilen-beziehung.webp"
+image: "/images/photos/toxische-scham-beziehung.webp"
 imageAlt: "Person in nachdenklicher Haltung, innere Arbeit"
 keywords: ["scham beziehung", "scham spirale durchbrechen", "brene brown verletzlichkeit", "toxische scham partnerschaft", "schamgefühle überwinden"]
 draft: false

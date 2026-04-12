@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Red Flags"
   - "Selbstliebe"
-image: "/images/photos/gaslighting-recovery-heilung-guide.webp"
+image: "/images/photos/gray-rocking-toxische-beziehung-guide.webp"
 imageAlt: "Person in ruhiger, neutraler Haltung — Selbstschutz"
 keywords: ["grey rock methode", "grey rock narzisst", "graue stein methode", "narzisst ignorieren", "grey rocking anleitung"]
 draft: false

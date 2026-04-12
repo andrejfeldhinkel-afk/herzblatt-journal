@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Heilung"
   - "Beziehung"
-image: "/images/photos/trauma-response-beziehung.webp"
+image: "/images/photos/beziehung-mit-sich-selbst.webp"
 imageAlt: "Person in ruhiger Körperarbeit, Heilung von Bindungstrauma"
 keywords: ["somatic experiencing", "bindungstrauma heilen", "körperorientierte therapie beziehung", "peter levine", "trauma im körper lösen"]
 draft: false

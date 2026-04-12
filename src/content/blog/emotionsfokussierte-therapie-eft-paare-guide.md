@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Kommunikation"
-image: "/images/photos/aktives-zuhoeren-beziehung-ueben.webp"
+image: "/images/photos/beziehungs-gespraeche-fuehren.webp"
 imageAlt: "Paar in emotionalem Gespräch, sichere Verbindung"
 keywords: ["emotionsfokussierte therapie", "eft paartherapie", "sue johnson", "hold me tight", "bindungsorientierte paartherapie"]
 draft: false

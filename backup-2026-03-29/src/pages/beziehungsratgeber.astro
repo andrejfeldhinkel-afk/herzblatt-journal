@@ -1,0 +1,288 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = 'Beziehungsratgeber: Alles für eine glückliche Partnerschaft';
+const description = 'Ultimativer Beziehungsratgeber: Kommunikation, Vertrauen, Konflikte meistern, toxische Muster erkennen und eure Liebe stärken. Tipps für glückliche Beziehungen.';
+const keywords = ['Beziehungsratgeber', 'Beziehungstipps', 'Kommunikation', 'Vertrauen', 'Beziehungskrise'];
+
+const sections = [
+  {
+    id: 'kommunikation',
+    emoji: '💬',
+    title: 'Kommunikation',
+    description: 'Klare und ehrliche Kommunikation ist das Fundament jeder starken Beziehung. Lerne, deine Gefühle authentisch auszudrücken und wirklich zuzuhören.',
+    links: [
+      { slug: 'kommunikation-beziehung', title: 'Effektive Kommunikation in Beziehungen' },
+      { slug: 'richtig-streiten-beziehung', title: 'Richtig streiten und Konflikte lösen' },
+      { slug: 'grenzen-setzen-beziehung', title: 'Gesunde Grenzen in Beziehungen' }
+    ]
+  },
+  {
+    id: 'vertrauen',
+    emoji: '🤝',
+    title: 'Vertrauen',
+    description: 'Vertrauen ist das Herzstück jeder Beziehung. Entdecke, wie du Vertrauen aufbaust, Eifersucht überwindest und nach Betrug wieder Sicherheit findest.',
+    links: [
+      { slug: 'vertrauen-aufbauen-beziehung', title: 'Vertrauen aufbauen und bewahren' },
+      { slug: 'eifersucht-beziehung-ueberwinden', title: 'Eifersucht überwinden und verstehen' },
+      { slug: 'vertrauen-nach-betrug', title: 'Vertrauen nach Betrug wiederherstellen' }
+    ]
+  },
+  {
+    id: 'beziehung-staerken',
+    emoji: '💑',
+    title: 'Beziehung stärken',
+    description: 'Halte die Funken am Fliegen und vertiefe eure emotionale Bindung. Erfahre, wie ihr gemeinsam wächst und die Liebe lebendig haltet.',
+    links: [
+      { slug: 'beziehung-auffrischen-ideen', title: 'Beziehung auffrischen – kreative Ideen' },
+      { slug: 'gemeinsame-hobbys-paare', title: 'Gemeinsame Hobbys für Paare' },
+      { slug: 'romantik-im-alltag', title: 'Romantik im Alltag – 365 Tage Liebe' }
+    ]
+  },
+  {
+    id: 'krisen-meistern',
+    emoji: '⚡',
+    title: 'Krisen meistern',
+    description: 'Jede Beziehung durchlebt schwierige Phasen. Lerne, wie du durch Krisen gehst, deine Beziehung rettst und gestärkt daraus hervorgehst.',
+    links: [
+      { slug: 'beziehung-retten', title: 'Beziehung retten – konkrete Schritte' },
+      { slug: 'beziehungspause-sinnvoll', title: 'Ist eine Beziehungspause sinnvoll?' },
+      { slug: 'beziehung-nach-fremdgehen', title: 'Beziehung nach Fremdgehen aufbauen' },
+      { slug: 'beziehung-nach-affaere', title: 'Wieder zusammen nach einer Affäre' }
+    ]
+  },
+  {
+    id: 'toxische-muster',
+    emoji: '⚠️',
+    title: 'Toxische Muster erkennen',
+    description: 'Nicht alle Beziehungen sind gesund. Lerne die Warnsignale einer toxischen Beziehung zu erkennen und schütze deine mentale Gesundheit.',
+    links: [
+      { slug: 'toxische-beziehung-erkennen', title: 'Toxische Beziehung erkennen und beenden' },
+      { slug: 'gaslighting-beziehung', title: 'Gaslighting in Beziehungen – Manipulation erkennen' },
+      { slug: 'emotionale-abhaengigkeit', title: 'Emotionale Abhängigkeit überwinden' }
+    ]
+  },
+  {
+    id: 'spezielle-situationen',
+    emoji: '🌍',
+    title: 'Spezielle Situationen',
+    description: 'Moderne Beziehungen haben besondere Herausforderungen. Von Long-Distance bis Finanzen — lerne, diese speziellen Situationen zu meistern.',
+    links: [
+      { slug: 'liebe-und-finanzen', title: 'Liebe und Geld – wie man Finanzen teilt' },
+      { slug: 'beziehung-social-media', title: 'Beziehung und Social Media – ein Balanceakt' },
+      { slug: 'long-distance-beziehung', title: 'Long-Distance Beziehung erfolgreich führen' },
+      { slug: 'liebe-am-arbeitsplatz', title: 'Beziehung am Arbeitsplatz – Chancen und Risiken' }
+    ]
+  }
+];
+
+const faqData = [
+  {
+    question: 'Wie oft sollten wir miteinander reden, um an unserer Beziehung zu arbeiten?',
+    answer: 'Es geht weniger um die Häufigkeit als um die Qualität. Wöchentliche "Beziehungsgespräche" von 20-30 Minuten können sehr wirksam sein, um Probleme früh zu erkennen. Der Schlüssel ist regelmäßig, offen und ohne Ablenkung zu sprechen. Wenn eine Krise herannaht, braucht ihr möglicherweise mehr Gespräche.'
+  },
+  {
+    question: 'Kann eine Beziehung nach Untreue wirklich wieder vertrauensvoll werden?',
+    answer: 'Ja, aber es ist ein langer Prozess. Vertrauen kann wiederhergestellt werden, wenn beide Partner es wirklich wollen und bereit sind zu arbeiten. Der untreue Partner muss absolute Transparenz zeigen, und der verletzte Partner muss bewusst vergeben können. Mit professioneller Hilfe (Paartherapie) steigen die Chancen deutlich.'
+  },
+  {
+    question: 'Wann ist es Zeit, eine Beziehung zu beenden?',
+    answer: 'Es ist Zeit zu gehen, wenn: Du körperliche oder emotionale Sicherheit vermisst, keine gegenseitige Achtung oder Respekt existiert, beide Partner nicht mehr an der Beziehung arbeiten wollen, oder chronische emotionale Manipulationen stattfinden. Beziehungen sollten dir Energie geben, nicht rauben. Vertrau auf dein Bauchgefühl.'
+  }
+];
+
+const breadcrumbs = [
+  { name: 'Startseite', url: '/' },
+  { name: 'Beziehungsratgeber', url: '/beziehungsratgeber' }
+];
+---
+
+<BaseLayout 
+  title={title}
+  description={description}
+  keywords={keywords}
+  breadcrumbs={breadcrumbs}
+  faq={faqData}
+>
+  <!-- Hero Section -->
+  <section class="relative overflow-hidden" style="min-height: 500px;">
+    <div class="absolute inset-0" style="background: url('/images/beziehung-hero.webp') center/cover no-repeat;"></div>
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(190,24,93,0.55) 0%, rgba(136,19,55,0.65) 100%);"></div>
+    
+    <div class="relative max-w-6xl mx-auto px-4 sm:px-6 py-20 sm:py-32">
+      <div class="max-w-3xl">
+        <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-sm font-medium mb-6" style="background: rgba(255,255,255,0.15); color: white; border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(8px);">
+          <span class="w-2 h-2 rounded-full animate-pulse bg-white"></span>
+          Für glückliche Paare
+        </div>
+        
+        <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold leading-[1.1] mb-6 text-white" style="font-family: var(--font-serif); letter-spacing: -0.03em; text-shadow: 0 2px 20px rgba(0,0,0,0.3);">
+          Beziehungsratgeber für starke Liebe
+        </h1>
+        
+        <p class="text-lg sm:text-xl leading-relaxed mb-8 max-w-lg text-white/90">
+          Kommunikation, Vertrauen, Leidenschaft und Sicherheit — alles was ihr für eine glückliche, erfüllte Beziehung braucht.
+        </p>
+        
+        <div class="flex flex-wrap gap-3">
+          <a href="/top-dating-seiten" class="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full text-sm font-bold text-white transition-all hover:shadow-lg hover:-translate-y-0.5" style="background: var(--color-primary-500); border: none;">
+            Passende Partner finden
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+          </a>
+          <a href="/dating-typ-test" class="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full text-sm font-medium transition-all text-white" style="border: 1px solid rgba(255,255,255,0.3); background: rgba(255,255,255,0.1); backdrop-filter: blur(8px);">
+            Dein Liebes-Typ
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Sections Grid -->
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="grid gap-8 md:gap-10">
+        {sections.map((section, idx) => (
+          <div class="fade-in" style={`animation-delay: ${idx * 100}ms;`}>
+            <div class="grid md:grid-cols-12 gap-8 items-start">
+              <!-- Content Side -->
+              <div class="md:col-span-8">
+                <div class="flex items-start gap-4 mb-6">
+                  <div class="text-4xl" style="line-height: 1;">{section.emoji}</div>
+                  <div class="flex-1">
+                    <h2 class="text-2xl sm:text-3xl font-bold mb-3" style="color: var(--text); font-family: var(--font-serif);">
+                      {section.title}
+                    </h2>
+                    <p class="text-base leading-relaxed" style="color: var(--text-muted);">
+                      {section.description}
+                    </p>
+                  </div>
+                </div>
+              </div>
+              
+              <!-- Links Side -->
+              <div class="md:col-span-4">
+                <div class="space-y-3">
+                  {section.links.map((link) => (
+                    <a 
+                      href={`/blog/${link.slug}`}
+                      class="flex items-start gap-3 p-4 rounded-lg transition-all hover:shadow-md hover:-translate-y-0.5 group"
+                      style="background: var(--bg-soft); border: 1px solid var(--border); color: var(--text);"
+                    >
+                      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px; color: var(--color-primary-600);" class="group-hover:translate-x-1 transition-transform">
+                        <path d="M5 12h14"/><path d="m12 5 7 7-7 7"/>
+                      </svg>
+                      <span class="font-medium text-sm">{link.title}</span>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </div>
+            
+            {idx < sections.length - 1 && (
+              <div class="mt-12 mb-8" style="border-bottom: 1px solid var(--border);"></div>
+            )}
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Stats Section -->
+  <section class="py-12 sm:py-16" style="background: var(--bg-soft); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="grid grid-cols-2 md:grid-cols-3 gap-8 text-center">
+        <div>
+          <p class="text-3xl sm:text-4xl font-bold mb-2" style="color: var(--color-primary-600); font-family: var(--font-serif);">80+</p>
+          <p class="text-sm font-medium" style="color: var(--text-muted);">Ratgeber-Artikel</p>
+        </div>
+        <div>
+          <p class="text-3xl sm:text-4xl font-bold mb-2" style="color: var(--color-primary-600); font-family: var(--font-serif);">25K+</p>
+          <p class="text-sm font-medium" style="color: var(--text-muted);">Glückliche Paare</p>
+        </div>
+        <div>
+          <p class="text-3xl sm:text-4xl font-bold mb-2" style="color: var(--color-primary-600); font-family: var(--font-serif);">95%</p>
+          <p class="text-sm font-medium" style="color: var(--text-muted);">Hilfreich bewertet</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA Section -->
+  <section class="py-16 sm:py-20" style="background: var(--bg);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div class="rounded-2xl p-8 sm:p-12 text-center fade-in" style="background: linear-gradient(135deg, var(--color-primary-50) 0%, var(--bg-soft) 100%); border: 1px solid var(--border);">
+        <h2 class="text-2xl sm:text-3xl font-bold mb-4" style="color: var(--text); font-family: var(--font-serif);">
+          Eure Beziehung verdient echte Liebe
+        </h2>
+        <p class="text-base leading-relaxed mb-8 max-w-2xl mx-auto" style="color: var(--text-muted);">
+          Mit unseren erprobten Strategien und ehrlichen Ratschlägen könnt ihr Konflikte lösen, Vertrauen aufbauen und die tiefe Verbindung pflegen, die ihr verdient.
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <a href="/dating-typ-test" class="inline-flex items-center justify-center gap-2 px-7 py-4 rounded-full text-base font-bold text-white transition-all hover:shadow-lg hover:-translate-y-0.5" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600)); border: none;">
+            Beziehung starten
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+          </a>
+          <a href="/blog" class="inline-flex items-center justify-center gap-2 px-7 py-4 rounded-full text-base font-medium transition-all" style="color: var(--color-primary-600); background: var(--color-primary-50); border: 1px solid var(--color-primary-100);">
+            Alle Artikel
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ Section -->
+  <section class="py-16 sm:py-24" style="background: var(--bg-soft); border-top: 1px solid var(--border);">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6">
+      <h2 class="text-3xl font-bold text-center mb-4" style="color: var(--text); font-family: var(--font-serif);">
+        Häufig gestellte Fragen
+      </h2>
+      <p class="text-center mb-12" style="color: var(--text-muted);">
+        Antworten auf deine wichtigsten Fragen zur Beziehungsführung
+      </p>
+      
+      <div class="space-y-6">
+        {faqData.map((item, idx) => (
+          <details class="fade-in" style={`animation-delay: ${idx * 100}ms;`}>
+            <summary class="flex items-center justify-between p-6 rounded-lg cursor-pointer font-semibold transition-all hover:bg-opacity-80" style="background: var(--bg); color: var(--text); border: 1px solid var(--border);">
+              <span>{item.question}</span>
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="transition: transform 0.3s; color: var(--color-primary-600);" class="group-open:rotate-180">
+                <path d="m6 9 6 6 6-6"/>
+              </svg>
+            </summary>
+            <div class="px-6 pb-6" style="color: var(--text-muted);">
+              {item.answer}
+            </div>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <style>
+    details[open] summary {
+      background: var(--color-primary-50);
+      color: var(--text);
+      border-color: var(--color-primary-200);
+    }
+    
+    details[open] summary svg {
+      transform: rotate(180deg);
+    }
+    
+    .fade-in {
+      opacity: 0;
+      animation: fadeInUp 0.6s ease forwards;
+    }
+    
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+</BaseLayout>
