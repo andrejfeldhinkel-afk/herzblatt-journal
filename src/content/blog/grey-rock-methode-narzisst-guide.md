@@ -6,8 +6,8 @@ tags:
   - "Psychologie"
   - "Red Flags"
   - "Selbstliebe"
-image: "/images/photos/gray-rocking-toxische-beziehung-guide.webp"
-imageAlt: "Person in ruhiger, neutraler Haltung — Selbstschutz"
+image: "/images/photos/hb-grey-rock-methode.webp"
+imageAlt: "Nachdenkliche Frau symbolisiert die neutrale Haltung der Grey-Rock-Methode"
 keywords: ["grey rock methode", "grey rock narzisst", "graue stein methode", "narzisst ignorieren", "grey rocking anleitung"]
 draft: false
 featured: false

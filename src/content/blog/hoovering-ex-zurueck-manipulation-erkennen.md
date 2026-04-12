@@ -6,8 +6,8 @@ tags:
   - "Red Flags"
   - "Psychologie"
   - "Dating"
-image: "/images/photos/ex-kontaktsperre-durchhalten.webp"
-imageAlt: "Person die Handy-Nachrichten eines Ex-Partners ignoriert"
+image: "/images/photos/hb-hoovering-digitaler-kontakt.webp"
+imageAlt: "Frau am Laptop symbolisiert digitalen Kontakt und Hoovering durch den Ex-Partner"
 keywords: ["hoovering", "hoovering narzisst", "ex kommt zurück manipulation", "hoovering erkennen", "narzisstischer ex kontaktiert mich"]
 draft: false
 featured: false

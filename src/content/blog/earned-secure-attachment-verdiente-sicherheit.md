@@ -6,8 +6,8 @@ tags:
   - "Psychologie"
   - "Heilung"
   - "Beziehung"
-image: "/images/photos/attachment-healing-guide.webp"
-imageAlt: "Person die inneren Frieden und sichere Bindung gefunden hat"
+image: "/images/photos/hb-earned-secure-attachment.webp"
+imageAlt: "Paar lehnt sich aneinander im Sonnenuntergang als Symbol für verdiente sichere Bindung"
 keywords: ["earned secure attachment", "verdiente sichere bindung", "bindungsstil ändern", "unsicher zu sicher gebunden", "bindungsheilung"]
 draft: false
 featured: false

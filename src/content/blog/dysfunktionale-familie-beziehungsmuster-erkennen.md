@@ -6,8 +6,8 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Heilung"
-image: "/images/photos/inneres-kind-heilen-beziehung.webp"
-imageAlt: "Inneres Kind das familiäre Muster verarbeitet"
+image: "/images/photos/hb-dysfunktionale-familie-gespraech.webp"
+imageAlt: "Frau gestikuliert auf Sofa während Gespräch über dysfunktionale Familienmuster"
 keywords: ["dysfunktionale familie", "familienrollen beziehung", "sündenbock familie", "goldenes kind narzisst", "dysfunktionale familienmuster"]
 draft: false
 featured: false

@@ -7,8 +7,8 @@ tags:
   - "Beziehung"
   - "Heilung"
   - "Selbstliebe"
-image: "/images/photos/unbewusste-beziehungsmuster.webp"
-imageAlt: "Paar im Gespräch, nachdenklich, innere Anteile-Arbeit"
+image: "/images/photos/hb-ifs-innere-anteile.webp"
+imageAlt: "Eltern- und Kinderhand berühren sich symbolisch für innere Anteile in der IFS-Therapie"
 keywords: ["ifs therapie", "internal family systems", "teile arbeit beziehung", "innere anteile", "self therapy", "richard schwartz"]
 draft: false
 featured: false

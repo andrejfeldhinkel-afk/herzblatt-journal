@@ -6,8 +6,8 @@ tags:
   - "Psychologie"
   - "Heilung"
   - "Beziehung"
-image: "/images/photos/inner-child-beziehung.webp"
-imageAlt: "Person die kindheitliche Vernachlässigung verarbeitet"
+image: "/images/photos/hb-emotionale-vernachlaessigung-therapie.webp"
+imageAlt: "Mann mit Brille in Therapieumgebung reflektiert über emotionale Vernachlässigung"
 keywords: ["emotionale vernachlässigung kindheit", "childhood emotional neglect", "jonice webb", "gefühle nicht spüren können", "emotionale leere beziehung"]
 draft: false
 featured: false

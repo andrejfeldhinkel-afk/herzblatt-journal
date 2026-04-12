@@ -6,8 +6,8 @@ tags:
   - "Psychologie"
   - "Heilung"
   - "Beziehung"
-image: "/images/photos/beziehung-nach-depression.webp"
-imageAlt: "Person auf dem Weg der Heilung von komplexem Trauma"
+image: "/images/photos/hb-komplexe-ptbs-nachdenklich.webp"
+imageAlt: "Nachdenklicher Mann in Therapieumgebung als Symbol für komplexe PTBS"
 keywords: ["komplexe ptbs beziehung", "cptbs partnerschaft", "kindheitstrauma beziehung", "komplexe traumafolgestörung", "kptbs symptome beziehung"]
 draft: false
 featured: false

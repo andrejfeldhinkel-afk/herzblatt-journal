@@ -6,8 +6,8 @@ tags:
   - "Psychologie"
   - "Red Flags"
   - "Beziehung"
-image: "/images/photos/dating-nach-narzisst.webp"
-imageAlt: "Person die manipulatives Verhalten durchschaut"
+image: "/images/photos/hb-darvo-manipulation-spannung.webp"
+imageAlt: "Zwei Frauen sitzen Rücken an Rücken als Symbol für Beziehungsspannung durch DARVO"
 keywords: ["darvo", "darvo manipulation", "täter opfer umkehr", "manipulation beziehung erkennen", "gaslighting darvo"]
 draft: false
 featured: false

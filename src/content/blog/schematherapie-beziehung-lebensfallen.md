@@ -7,8 +7,8 @@ tags:
   - "Beziehung"
   - "Heilung"
   - "Selbstliebe"
-image: "/images/photos/walking-red-flag-selbstreflexion-guide.webp"
-imageAlt: "Frau schaut nachdenklich aus dem Fenster, Reflexion über Muster"
+image: "/images/photos/hb-schematherapie-beziehung.webp"
+imageAlt: "Paar hält Hände während Schematherapie-Sitzung für Beziehungsmuster"
 keywords: ["schematherapie", "lebensfallen", "schema beziehung", "jeffrey young", "schematherapie paar", "maladaptive schemata"]
 draft: false
 featured: false

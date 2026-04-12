@@ -6,8 +6,8 @@ tags:
   - "Psychologie"
   - "Heilung"
   - "Beziehung"
-image: "/images/photos/beziehung-mit-sich-selbst.webp"
-imageAlt: "Person in ruhiger Körperarbeit, Heilung von Bindungstrauma"
+image: "/images/photos/hb-somatic-experiencing-meditation.webp"
+imageAlt: "Frau meditiert mit Kerzen als Symbol für Somatic Experiencing und Körperarbeit"
 keywords: ["somatic experiencing", "bindungstrauma heilen", "körperorientierte therapie beziehung", "peter levine", "trauma im körper lösen"]
 draft: false
 featured: false

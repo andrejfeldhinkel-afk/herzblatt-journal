@@ -6,8 +6,8 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Kommunikation"
-image: "/images/photos/beziehungs-gespraeche-fuehren.webp"
-imageAlt: "Paar in emotionalem Gespräch, sichere Verbindung"
+image: "/images/photos/hb-eft-paartherapie.webp"
+imageAlt: "Therapiesitzung von oben mit Notizbuch und Gläsern für emotionsfokussierte Paartherapie"
 keywords: ["emotionsfokussierte therapie", "eft paartherapie", "sue johnson", "hold me tight", "bindungsorientierte paartherapie"]
 draft: false
 featured: false

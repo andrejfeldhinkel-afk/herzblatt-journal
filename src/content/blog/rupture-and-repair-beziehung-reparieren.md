@@ -6,8 +6,8 @@ tags:
   - "Kommunikation"
   - "Beziehung"
   - "Psychologie"
-image: "/images/photos/beziehungskrise-meistern.webp"
-imageAlt: "Paar das nach einem Streit wieder zueinander findet"
+image: "/images/photos/hb-rupture-repair-verbindung.webp"
+imageAlt: "Paar im Sonnenuntergang als Symbol für Rupture and Repair in der Beziehung"
 keywords: ["rupture and repair beziehung", "reparatur nach streit", "beziehung reparieren", "nach streit wieder gut werden", "repair attempts gottman"]
 draft: false
 featured: false

@@ -6,8 +6,8 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Kommunikation"
-image: "/images/photos/emotional-safe-space-beziehung.webp"
-imageAlt: "Paar das sich gegenseitig Sicherheit und Halt gibt"
+image: "/images/photos/hb-secure-base-therapie.webp"
+imageAlt: "Therapiesitzung von oben symbolisiert den sicheren Hafen in der Partnerschaft"
 keywords: ["secure base beziehung", "safe haven partnerschaft", "sichere basis beziehung", "bowlby erwachsene", "sicherer hafen partner"]
 draft: false
 featured: false

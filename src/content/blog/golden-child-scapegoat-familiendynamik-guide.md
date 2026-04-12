@@ -6,8 +6,8 @@ tags:
   - "Psychologie"
   - "Red Flags"
   - "Heilung"
-image: "/images/photos/dating-psychologie.webp"
-imageAlt: "Geschwister die familiäre Rollenverteilung verarbeiten"
+image: "/images/photos/hb-golden-child-scapegoat-therapie.webp"
+imageAlt: "Therapienotizen als Symbol für die Aufarbeitung von Golden Child und Scapegoat Dynamik"
 keywords: ["golden child", "scapegoat familie", "sündenbock narzisstische familie", "goldenes kind narzisst", "narzisstische familiendynamik"]
 draft: false
 featured: false

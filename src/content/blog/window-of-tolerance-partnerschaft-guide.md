@@ -6,8 +6,8 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Selbstliebe"
-image: "/images/photos/emotionsregulation-beziehung-guide.webp"
-imageAlt: "Paar in ruhigem Gespräch, emotionale Regulation"
+image: "/images/photos/hb-window-of-tolerance-regulation.webp"
+imageAlt: "Frau meditiert in der Natur als Symbol für das Window of Tolerance"
 keywords: ["window of tolerance", "toleranzfenster beziehung", "nervensystem partnerschaft", "emotionale regulation paare", "dan siegel window of tolerance"]
 draft: false
 featured: false

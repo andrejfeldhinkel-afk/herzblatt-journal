@@ -6,8 +6,8 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Heilung"
-image: "/images/photos/emotionsregulation.webp"
-imageAlt: "Person die lernt, emotional präsent zu bleiben"
+image: "/images/photos/hb-dissoziation-portrait.webp"
+imageAlt: "Nachdenklicher junger Mann als Symbol für Dissoziation und emotionale Abwesenheit"
 keywords: ["dissoziation beziehung", "emotional abschalten beziehung", "depersonalisation partnerschaft", "dissoziation bei nähe", "nicht fühlen können beziehung"]
 draft: false
 featured: false

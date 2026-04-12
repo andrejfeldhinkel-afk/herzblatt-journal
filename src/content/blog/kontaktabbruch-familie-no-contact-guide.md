@@ -6,8 +6,8 @@ tags:
   - "Psychologie"
   - "Heilung"
   - "Selbstliebe"
-image: "/images/photos/selbstwert-nach-toxischer-beziehung.webp"
-imageAlt: "Person die sich von toxischen Familienmitgliedern befreit"
+image: "/images/photos/hb-kontaktabbruch-allein.webp"
+imageAlt: "Person geht allein durch eine Stadt bei Sonnenuntergang als Symbol für Kontaktabbruch"
 keywords: ["kontaktabbruch familie", "no contact eltern", "toxische familie abgrenzen", "kontaktabbruch narzisst mutter", "familienentfremdung"]
 draft: false
 featured: false

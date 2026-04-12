@@ -6,8 +6,8 @@ tags:
   - "Psychologie"
   - "Heilung"
   - "Beziehung"
-image: "/images/photos/beziehung-und-achtsamkeit.webp"
-imageAlt: "Person in achtsamer Selbstreflexion"
+image: "/images/photos/hb-emotional-flashback-abwehr.webp"
+imageAlt: "Frau mit verschränkten Armen auf Sofa zeigt emotionale Abwehrhaltung bei Flashbacks"
 keywords: ["emotional flashbacks", "pete walker", "emotionale rückblenden beziehung", "komplexe ptbs beziehung", "flashback management"]
 draft: false
 featured: false

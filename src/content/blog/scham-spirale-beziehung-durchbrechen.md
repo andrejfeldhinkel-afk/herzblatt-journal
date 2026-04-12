@@ -6,8 +6,8 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Heilung"
-image: "/images/photos/toxische-scham-beziehung.webp"
-imageAlt: "Person in nachdenklicher Haltung, innere Arbeit"
+image: "/images/photos/hb-scham-spirale-stress.webp"
+imageAlt: "Mann hält den Kopf in den Händen als Ausdruck von Scham und Überforderung"
 keywords: ["scham beziehung", "scham spirale durchbrechen", "brene brown verletzlichkeit", "toxische scham partnerschaft", "schamgefühle überwinden"]
 draft: false
 featured: false
