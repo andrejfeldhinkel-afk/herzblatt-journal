@@ -7,7 +7,7 @@ tags:
   - "Beziehung"
   - "Heilung"
   - "Selbstliebe"
-image: "/images/photos/trauma-response-beziehung.webp"
+image: "/images/photos/walking-red-flag-selbstreflexion-guide.webp"
 imageAlt: "Frau schaut nachdenklich aus dem Fenster, Reflexion über Muster"
 keywords: ["schematherapie", "lebensfallen", "schema beziehung", "jeffrey young", "schematherapie paar", "maladaptive schemata"]
 draft: false
