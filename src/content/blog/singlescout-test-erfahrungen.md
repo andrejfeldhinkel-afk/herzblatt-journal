@@ -9,7 +9,7 @@ tags:
 keywords: ["singlescout test", "singlescout erfahrungen", "singlescout kosten", "singlescout bewertung", "singlescout seriös", "singlescout app", "singlescout login", "singlescout premium"]
 draft: false
 author: "markus-hoffmann"
-image: "/images/blog/singlescout-test-erfahrungen-v2.webp"
+image: "/images/blog/singlescout-test-erfahrungen.webp"
 faq:
   - question: "Ist SingleScout seriös?"
     answer: "Ja, SingleScout ist eine seriöse Dating-Plattform mit umfangreichen Sicherheitsmaßnahmen, Verifizierungsprozessen und einem aktiven Moderationsteam. Die Plattform setzt auf Transparenz und arbeitet gegen Fake-Profile mit modernen Technologien."
