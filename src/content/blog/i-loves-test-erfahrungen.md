@@ -6,7 +6,7 @@ tags:
   - "Dating"
   - "Dating-Apps"
   - "Online-Dating"
-image: "/images/photos/i-loves-test-erfahrungen-v2.webp"
+image: "/images/blog/i-loves-test-erfahrungen.webp"
 imageAlt: "i-Loves Test und Erfahrungen 2026"
 keywords: ["i-loves test", "i-loves erfahrungen", "i-loves kosten", "i-loves bewertung", "i-loves seriös", "i-loves app", "i loves dating", "flirten chatten verlieben"]
 draft: false
