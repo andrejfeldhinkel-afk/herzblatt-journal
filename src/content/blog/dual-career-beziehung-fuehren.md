@@ -1,7 +1,7 @@
 ---
 title: "Dual Career Couple: So führt ihr eine glückliche"
 description: "Dual Career Couple — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
-image: "/images/blog/dual-career-couple.webp"
+image: "/images/blog/dual-career-beziehung-fuehren.webp"
 imageAlt: "Modernes Paar arbeitet zusammen und plant ihre gemeinsame Zukunft"
 date: 2026-03-17
 tags: ["Beziehung", "Lifestyle", "Zusammenleben"]

@@ -1,7 +1,7 @@
 ---
 title: "Seitensprung verarbeiten"
 description: "Ein Seitensprung zerstört das Vertrauen. Lerne, wie du die Krise als Paar verarbeitest, ob ihr bleibt oder geht."
-image: "/images/blog/seitensprung-verarbeiten.webp"
+image: "/images/blog/seitensprung-verarbeiten-beide-seiten.webp"
 imageAlt: "Paar sitzt sich gegenüber und versucht über Untreue zu sprechen"
 date: 2026-03-17
 tags: ["Beziehung", "Heilung", "Paartherapie", "Vertrauen"]

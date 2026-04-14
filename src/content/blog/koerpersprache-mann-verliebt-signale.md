@@ -7,7 +7,7 @@ tags:
   - "Dating"
   - "Flirten"
 keywords: ["körpersprache mann verliebt", "signale mann interesse", "zeichen dass er mich mag"]
-image: "/images/blog/koerpersprache-mann.webp"
+image: "/images/blog/koerpersprache-mann-verliebt-signale.webp"
 imageAlt: "Körpersprache Mann verliebt"
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

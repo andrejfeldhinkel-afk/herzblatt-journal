@@ -1,7 +1,7 @@
 ---
 title: "Emotionale Manipulation in Beziehungen"
 description: "Emotionale Manipulation ist subtil und zerstörerisch. Lerne die 15 häufigsten Techniken zu erkennen und wie du dich schützt."
-image: "/images/blog/emotionale-manipulation.webp"
+image: "/images/blog/emotionale-manipulation-beziehung-erkennen.webp"
 imageAlt: "Frau schaut verwirrt und unsicher auf ihren Partner"
 date: 2026-03-17
 tags: ["Psychologie", "Red Flags", "Sicherheit"]

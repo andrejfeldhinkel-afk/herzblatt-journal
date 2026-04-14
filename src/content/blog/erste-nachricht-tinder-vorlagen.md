@@ -4,7 +4,7 @@ description: "Erste Nachricht auf Tinder — Flirten lernen leicht gemacht: Auth
 date: 2026-03-16
 tags: ["Dating-Apps", "Flirten"]
 keywords: ["erste nachricht tinder", "tinder anschreiben beispiele", "dating app erste nachricht"]
-image: "/images/blog/tinder-erste-nachricht.webp"
+image: "/images/blog/erste-nachricht-tinder-vorlagen.webp"
 imageAlt: "Tinder Erste Nachricht Vorlagen"
 faq:
   - question: "Wie flirte ich richtig?"

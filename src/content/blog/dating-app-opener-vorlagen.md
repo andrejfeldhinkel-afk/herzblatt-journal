@@ -4,7 +4,7 @@ description: "Die besten Dating-App Opener zum Kopieren. 50 Vorlagen für Tinder
 date: 2026-03-16
 tags: ["Dating-Apps", "Flirten", "Beziehung"]
 keywords: ["dating app opener", "erste nachricht dating app", "tinder opener deutsch"]
-image: "/images/blog/dating-app-opener.webp"
+image: "/images/blog/dating-app-opener-vorlagen.webp"
 imageAlt: "Dating-App Opener Vorlagen"
 faq:
   - question: "Wie flirte ich richtig?"

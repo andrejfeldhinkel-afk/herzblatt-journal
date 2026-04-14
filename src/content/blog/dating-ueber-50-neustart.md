@@ -2,7 +2,7 @@
 title: "Dating über 50: Dein Neustart ist möglich"
 description: "Warum es nie zu spät ist: Online-Dating, Unsicherheiten, Witwen/Witwer, Kinder, Sexualität, Erfolgsgeschichten von 50+."
 date: 2026-03-18
-image: "/images/blog/dating-ueber-50.webp"
+image: "/images/blog/dating-ueber-50-neustart.webp"
 imageAlt: "Attraktive Person über 50 lächelt selbstbewusst, wirkt jung, lebensfroh, vibrant"
 tags: ["Dating", "Lebensphasen", "Partnersuche", "Selbstliebe", "Online-Dating"]
 keywords: ["dating über 50", "single über 50", "online dating 50+", "neubeginn über 50", "liebe mit 50"]

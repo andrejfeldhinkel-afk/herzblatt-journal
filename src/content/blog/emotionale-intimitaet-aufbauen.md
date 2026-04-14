@@ -15,7 +15,7 @@ faq:
   - question: "Ist dieser Ratgeber kostenlos?"
     answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
 draft: false
-image: "/images/blog/emotionale-intimität-aufbauen.webp"
+image: "/images/blog/emotionale-intimitaet-aufbauen.webp"
 imageAlt: "Emotionale Intimität aufbauen: Echte Nähe"
 ---
 

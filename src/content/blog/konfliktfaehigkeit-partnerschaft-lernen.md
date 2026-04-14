@@ -1,7 +1,7 @@
 ---
 title: "Konfliktfähigkeit in der Partnerschaft"
 description: "Die besten Paare sind nicht die, die nie streiten. Es sind die, die wissen wie man richtig streitet. Lerne die 10 Regeln für faire Konflikte."
-image: "/images/blog/konfliktfaehigkeit.webp"
+image: "/images/blog/konfliktfaehigkeit-partnerschaft-lernen.webp"
 imageAlt: "Zwei Partner sitzen sich gegenüber und führen ein ernsthaftes Gespräch"
 date: 2026-03-17
 tags: ["Beziehung", "Kommunikation", "Konflikte", "Psychologie"]

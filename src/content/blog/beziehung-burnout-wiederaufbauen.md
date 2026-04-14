@@ -1,7 +1,7 @@
 ---
 title: "Beziehung nach Burnout"
 description: "Burnout zerstört nicht nur Karrieren, sondern auch Beziehungen. Erfahre, wie ihr als Paar gemeinsam wieder aufbaut."
-image: "/images/blog/beziehung-burnout.webp"
+image: "/images/blog/beziehung-burnout-wiederaufbauen.webp"
 imageAlt: "Erschöpftes Paar sitzt zusammen auf dem Sofa"
 date: 2026-03-17
 tags: ["Beziehung", "Gesundheit", "Neuanfang"]

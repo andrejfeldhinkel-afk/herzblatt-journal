@@ -2,7 +2,7 @@
 title: "Bindungsstile heilen: Von unsicher zu sicher"
 description: "Deine Bindungsstile analysieren, verstehen und heilen. Anxious, Avoidant, Disorganized, Earned Secure Attachment, Therapiemethoden."
 date: 2026-03-18
-image: "/images/blog/bindungsstile-heilen.webp"
+image: "/images/blog/attachment-styles-heilen-guide.webp"
 imageAlt: "Person sitzt ruhig, wirkt reflektiv und selbstbewusst, interner Frieden, sichere Ausstrahlung"
 tags: ["Bindungstypen", "Psychologie", "Selbstliebe", "Heilung", "Kommunikation"]
 keywords: ["bindungsstile", "sichere bindung aufbauen", "anxious attachment healing", "avoidant attachment", "earned secure attachment"]

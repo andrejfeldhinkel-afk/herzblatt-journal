@@ -6,7 +6,7 @@ tags:
   - "Beziehung"
   - "Red Flags"
 keywords: ["toxische beziehung test", "beziehung test", "ist meine beziehung gesund"]
-image: "/images/blog/beziehung-test-toxisch.webp"
+image: "/images/blog/beziehung-test-toxisch-quiz.webp"
 imageAlt: "Toxische Beziehung Test"
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

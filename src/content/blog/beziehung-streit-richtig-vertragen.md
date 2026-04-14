@@ -2,7 +2,7 @@
 title: "Nach dem Streit: Richtig vertragen und Nähe zurückgewinnen"
 description: "Wie man sich richtig entschuldigt, Repair Attempts macht, Nachbesprechung führt und häufige Versöhnungsfehler vermeidet."
 date: 2026-03-18
-image: "/images/blog/nach-streit-vertragen.webp"
+image: "/images/blog/beziehung-streit-richtig-vertragen.webp"
 imageAlt: "Paar sitzt sich gegenüber, teilt einen zarten Moment, beide wirken erleichtert und versöhnt"
 tags: ["Konflikte", "Kommunikation", "Beziehung", "Psychologie", "Paartherapie"]
 keywords: ["nach streit vertragen", "richtig entschuldigen", "repair attempts", "versöhnung beziehung", "konflikt lösen"]

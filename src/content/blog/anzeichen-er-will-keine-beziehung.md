@@ -4,7 +4,7 @@ description: "15 Anzeichen dass er keine Beziehung will — Entdecke, wie du dei
 date: 2026-03-16
 tags: ["Beziehung", "Dating", "Konflikte", "Partnersuche"]
 keywords: ["er will keine beziehung anzeichen", "will er was ernstes", "commitment erkennen"]
-image: "/images/blog/er-will-keine-beziehung.webp"
+image: "/images/blog/anzeichen-er-will-keine-beziehung.webp"
 imageAlt: "Anzeichen dass er keine Beziehung will"
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"
