@@ -27,7 +27,9 @@ faq:
     answer: "So früh wie möglich. Die wichtigsten Fragen (Kinder, Wohnort, Lebensstil) sollten spätestens nach 6 Monaten auf dem Tisch liegen. Je länger man wartet, desto mehr investiert man in etwas das vielleicht nicht passt."
   - question: "Ist es okay die Beziehung aufzugeben wegen verschiedener Lebenspläne?"
     answer: "Ja, und manchmal ist es der mutigste und liebevollste Schritt. Wenn einer von euch auf einen Lebenstraum verzichten müsste und das zu Resentment führen würde, ist eine liebevolle Trennung ehrlicher als ein fauler Kompromiss."
----Deine [Trennung](/blog/trennung-verarbeiten-12-schritte) oder der schwierige Kompromiss schlimmer.
+---
+
+Deine [Trennung](/blog/trennung-verarbeiten-12-schritte) oder der schwierige Kompromiss schlimmer.
 
 Die praktische Regel: Die großen Fragen in den ersten 6-12 Monaten ansprechen. Das sind:
 

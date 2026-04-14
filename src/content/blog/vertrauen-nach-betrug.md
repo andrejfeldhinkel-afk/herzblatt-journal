@@ -22,7 +22,9 @@ faq:
     answer: "Mehrere Monate zu Jahren. Es gibt keine feste Zeitlinie. Es hängt davon ab, wie tief die Untreue war, wie bemerkbar der unfaithful Partner ist und wie resilient die verletzte Person ist."
   - question: "Was ist, wenn ich nicht glauben kann, dass mein Partner nicht betrügt?"
     answer: "Das ist ein Zeichen, dass Vertrauen nicht wiederhergestellt wird. Sie sollten möglicherweise professionelle Hilfe suchen oder berücksichtigen, die Beziehung zu beenden."
----Betrug ist einer der schädlichsten Vertrauensbrüche in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/). Es hinterlässt tiefe emotionale Wunden. Aber mit echter Reue von beiden Partnern und viel Arbeit, ist es möglich, sich zu erholen. In diesem Leitfaden erfahren Sie, wie Sie nach Untreue Vertrauen wiederaufbauen.
+---
+
+Betrug ist einer der schädlichsten Vertrauensbrüche in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/). Es hinterlässt tiefe emotionale Wunden. Aber mit echter Reue von beiden Partnern und viel Arbeit, ist es möglich, sich zu erholen. In diesem Leitfaden erfahren Sie, wie Sie nach Untreue Vertrauen wiederaufbauen.
 
 ## Die ersten Schritte nach Betrug
 

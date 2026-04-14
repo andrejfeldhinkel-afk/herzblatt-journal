@@ -17,7 +17,9 @@ faq:
     answer: "Nein, das Gegenteil. Slow Dating bedeutet, authentischer zu sein. Du zeigst echtes Interesse, aber nicht durch ständiges Messaging. Du bist präsent in den Momenten, die ihr zusammen verbringt."
   - question: "Funktioniert Slow Dating, wenn die andere Person schneller gehen möchte?"
     answer: "Das ist ein Missmatch in Wünschen. Du kannst versuchen zu kommunizieren, aber wenn jemand schnell gehen will und du langsam, dann seid ihr wahrscheinlich nicht kompatibel. Das ist okay – es bedeutet, dass ihr unterschiedliche Bedürfnisse habt."
----Das Jahr 2026 bringt einen neuen Dating-Trend zurück – obwohl "zurück" das richtige Wort ist, da Slow Dating nicht wirklich neu ist. Es ist eine Reaktion auf die überwältigende Geschwindigkeit des modernen Datings.
+---
+
+Das Jahr 2026 bringt einen neuen Dating-Trend zurück – obwohl "zurück" das richtige Wort ist, da Slow Dating nicht wirklich neu ist. Es ist eine Reaktion auf die überwältigende Geschwindigkeit des modernen Datings.
 
 ## Was ist Slow Dating?
 

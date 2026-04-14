@@ -20,7 +20,9 @@ faq:
     answer: "Sei früh transparent. Im Profil oder beim ersten Treffen solltest du erwähnen, dass du Eltern bist. Das eliminiert Menschen, die nicht bereit sind, und spart dir Zeit."
   - question: "Was wenn mein Kind den neuen Partner nicht mag?"
     answer: "Das ist eine schwierige Situation. Höre das Kind an, verstehe seine Bedenken. Erzwinge keine Beziehung. Mit Zeit und Geduld können Gefühle sich ändern. Aber das Kindeswohl steht an erster Stelle."
----## Die doppelte Komplexität
+---
+
+## Die doppelte Komplexität
 
 Dating als alleinerziehender Elternteil oder in einer bestehenden Patchwork-Familie ist anders. Du hast nicht nur deine eigenen Gefühle und Bedürfnisse zu berücksichtigen, sondern auch die deiner Kinder. Du kannst nicht einfach impulsiv eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) eingehen. Es gibt Menschen, die von deiner Entscheidung betroffen sind.
 

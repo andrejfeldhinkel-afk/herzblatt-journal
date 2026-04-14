@@ -21,7 +21,9 @@ faq:
     answer: "Klassisch-romantisch: Spaziergang durch die mittelalterliche Altstadt oder entlang des Lechufers. Kulturell: die Fuggerei (einzigartige Sozialsiedlung) oder botanischer Garten. Aktiv: Fahrrad fahren, Biergartenbesuch. Gemütlich: Kaffee an der Maximilianstraße."
   - question: "Gibt es eine gute Single-Szene in Augsburg?"
     answer: "Ja! Augsburg hat eine überschaubare, aber lebendige Single-Szene. Die Stadt ist klein genug zum Kennenlernen, groß genug, um nicht langweilig zu sein. Die historische Altstadt ist charmant, und die Menschen sind traditionsbewusst, aber offen."
----## dating in Augsburg: Liebe unter Fürsterbischöflichen Dächern
+---
+
+## dating in Augsburg: Liebe unter Fürsterbischöflichen Dächern
 
 Augsburg ist eine der ältesten Städte Deutschlands, gegründet von den Römern – und ja, hier strahlt **Geschichte aus jeder Ecke**. Wenn du auf der Suche nach einem Date bist, das gleichzeitig romantisch und kulturvoll ist, dann bist du in Augsburg genau richtig. Diese mittelalterliche Stadt ist klein genug, dass du **alle wichtigen Orte zu Fuß** erreichen kannst, und groß genug, dass es überall Singles gibt, die ebenfalls auf Dating-Abenteuer aus sind.
 

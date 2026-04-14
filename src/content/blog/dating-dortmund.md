@@ -21,7 +21,9 @@ faq:
     answer: "Der Westfalenpark ist wunderschön für Spaziergänge und Picknicks. Der Phoenix-See hat Strand-Bar-Feeling. Das Kreuzviertel lädt zu Café-Hopping und Bars ein. Die U-Bahn-Tour bis zum Signal Iduna Park ist interessant für Fußball-Fans. Auch Kultur im Museumsquartier oder ein Besuch im Dortmunder Zoo sind beliebte Optionen."
   - question: "Gibt es eine gute Single-Szene in Dortmund?"
     answer: "Ja, Dortmund hat eine sehr aktive Single-Community. Die Stadt ist jung (große Studentenpopulation), hat eine pulsierende Kulturszene und viele Möglichkeiten zum Kennenlernen. Single-Events finden regelmäßig statt, besonders im Kreuzviertel. Dating-Apps funktionieren sehr gut in Dortmund"
----## Dating in Dortmund: Revierstadt mit Herz und Energie
+---
+
+## Dating in Dortmund: Revierstadt mit Herz und Energie
 
 Dortmund war lange Jahre berüchtigt als Industrie-Metropole des Ruhrgebiets. Aber die Stadt hat sich völlig neu erfunden! Mit dem spektakulären Phoenix-See, dem kreativen Kreuzviertel und einer wachsenden Single-Szene ist Dortmund mittlerweile ein unterschätzter Dating-Hotspot.
 

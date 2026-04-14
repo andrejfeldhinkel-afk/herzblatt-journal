@@ -22,7 +22,9 @@ faq:
     answer: "Normalerweise 3-6 Monate um sich an die Grundlagen anzupassen. Aber echte Integration kann 1-2 Jahre dauern. Jede Person und Beziehung ist anders."
   - question: "Was ist, wenn der Zusammenzug nicht funktioniert?"
     answer: "Das ist möglich. Manchmal funktionieren Beziehungen in der Ferne, aber nicht nahe. Dies ist etwas zu adressieren und darüber zu sprechen. Nicht ignorieren."
----Fernbeziehungen sind schwer, aber sie haben einen Vorteil – Sie zählen Sie nie als Allstars. Wenn Sie endlich zusammenzieht, könnte es wie ein Traum kommen wahr sein. Aber dann treffen Sie die Realität: zwei Menschen, die Raum und Unabhängigkeit haben, müssen plötzlich teilen, jeden Tag zusammen zu sein. Das kann schwierig sein. In diesem Leitfaden erfahren Sie, wie Sie die Anpassung zum Leben nach einer Fernbeziehung umgehen mit.
+---
+
+Fernbeziehungen sind schwer, aber sie haben einen Vorteil – Sie zählen Sie nie als Allstars. Wenn Sie endlich zusammenzieht, könnte es wie ein Traum kommen wahr sein. Aber dann treffen Sie die Realität: zwei Menschen, die Raum und Unabhängigkeit haben, müssen plötzlich teilen, jeden Tag zusammen zu sein. Das kann schwierig sein. In diesem Leitfaden erfahren Sie, wie Sie die Anpassung zum Leben nach einer Fernbeziehung umgehen mit.
 
 ## Die Honeymoon-Phase
 

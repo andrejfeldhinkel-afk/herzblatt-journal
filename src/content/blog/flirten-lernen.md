@@ -23,7 +23,9 @@ faq:
     answer: "Sei authentisch statt manipulativ, respektiere Grenzen, achte auf Körpersprache der anderen Person, und vermeide zu intensiv oder bedürftig zu wirken. Leicht und spielerisch ist der Schlüssel."
   - question: "Was sind die besten Flirt-Tipps?"
     answer: "Halte Augenkontakt, lächle, stelle offene Fragen, spiegle Körpersprache subtil, und konzentriere dich auf echtes Interesse zeigen. Selbstvertrauen und Authentizität sind immer attraktiv."
----## Flirten lernen: Der ultimative Guide für Anfänger und Fortgeschrittene
+---
+
+## Flirten lernen: Der ultimative Guide für Anfänger und Fortgeschrittene
 
 Flirten ist für viele Menschen eine verwirrende Angelegenheit – fast wie eine geheime Sprache, die nur manche beherrschen. Manche denken, es ist eine angeborene Talent, das man entweder hat oder nicht. Das ist ein Mythos. Ein großer Mythos.
 

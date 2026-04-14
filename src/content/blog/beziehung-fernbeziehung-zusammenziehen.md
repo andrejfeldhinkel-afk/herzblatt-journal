@@ -20,7 +20,9 @@ faq:
     answer: "Das passiert. Die Fernbeziehung versteckt manchmal Unkompatibilität. Das ist warum Kommunikation vorher so wichtig ist. Wenn ihr es merkt, könnt ihr darüber sprechen und entscheiden."
   - question: "Sollte einer von uns umziehen oder sollten wir einen neuen Ort wählen?"
     answer: "Das ist eine persönliche Entscheidung. Manchmal ist es praktisch, dass einer sich bewegt. Manchmal wählen Paare einen neuen Ort zusammen. Sprecht über Karriere, Familie und Vorlieben."
----## Das Ziel der Fernbeziehung
+---
+
+## Das Ziel der Fernbeziehung
 
 Wenn eine Fernbeziehung funktioniert hat, war das Ziel immer das Zusammenziehen. Du hast dich bemüht, die Entfernung zu überwindung wegen einer Vision: eines Tages zusammenleben.
 

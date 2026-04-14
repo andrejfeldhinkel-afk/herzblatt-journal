@@ -20,7 +20,9 @@ faq:
     answer: "Einige Unterschiede sind nicht verhandelbar – zum Beispiel, wenn eine Kultur weibliche Unabhängigkeit nicht respektiert und du eine unabhängige Frau bist. Andere sind verhandelbar – zum Beispiel Speisevorlieben oder Feiertagstraditionen. Denke kritisch darüber nach, welche Unterschiede weitreichend sind."
   - question: "Sollte ich nach jemandem aus meiner eigenen Kultur suchen, wenn ich im Ausland bin?"
     answer: "Nicht unbedingt. Viele glückliche Beziehungen bestehen zwischen Menschen aus verschiedenen Kulturen. Wenn du aber merkst, dass dir der kulturelle Zusammenhang mit jemandem wichtig ist, ist das auch völlig gültig. Es geht darum, was für dich richtig ist."
----[dating](/blog/anzeichen-er-steht-auf-dich/) in einem neuen Land stellt dich vor einzigartige Herausforderungen. Nicht nur musst du jemanden finden, mit dem es chemisch passt, sondern du musst auch umgehen mit durch verschiedene kulturelle Erwartungen, Kommunikationsstile, und möglicherweise eine Sprachbarriere. Aber es eröffnet auch Türen zu unglaublichen kulturellen Erfahrungen.
+---
+
+[dating](/blog/anzeichen-er-steht-auf-dich/) in einem neuen Land stellt dich vor einzigartige Herausforderungen. Nicht nur musst du jemanden finden, mit dem es chemisch passt, sondern du musst auch umgehen mit durch verschiedene kulturelle Erwartungen, Kommunikationsstile, und möglicherweise eine Sprachbarriere. Aber es eröffnet auch Türen zu unglaublichen kulturellen Erfahrungen.
 
 ## Die Vorteile des internationalen Datings
 

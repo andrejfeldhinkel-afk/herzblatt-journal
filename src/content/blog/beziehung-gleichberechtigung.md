@@ -17,7 +17,9 @@ faq:
     answer: "Nutze 'Ich'-Aussagen: 'Ich fühle mich unwichtig, wenn ...'. Sei spezifisch: 'Meine Träume werden nicht unterstützt' statt 'Du unterstützt mich nie'. Und höre dem anderen zu – das kann zweiseitig sein."
   - question: "Was tun wir, wenn einer von uns mehr Geld verdient?"
     answer: "Mehr Geld verdienen macht dich nicht wichtiger in der Beziehung. Diskutiert offen über Finanzen, teilt Entscheidungen, und erkennt an, dass Geld nur eine Form von Wert ist. Emotionale Arbeit und Hausarbeit sind auch wertvoll."
----Eine der stillen Krisen in vielen Beziehungen ist ein Mangel an Gleichberechtigung. Nicht offensichtlich – nicht durch Missbrauch oder Kontrolle – sondern durch alltägliche Ungleichgewichte: wer denkt an Geburtstage, wer macht die meisten Hausarbeiten, wessen Karriere wird priorisiert.
+---
+
+Eine der stillen Krisen in vielen Beziehungen ist ein Mangel an Gleichberechtigung. Nicht offensichtlich – nicht durch Missbrauch oder Kontrolle – sondern durch alltägliche Ungleichgewichte: wer denkt an Geburtstage, wer macht die meisten Hausarbeiten, wessen Karriere wird priorisiert.
 
 Diese Ungleichgewichte erodieren die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) Stück für Stück.
 

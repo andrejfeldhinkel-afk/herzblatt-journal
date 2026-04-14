@@ -21,7 +21,9 @@ faq:
     answer: "Das ist sehr individuell, aber realistisch: 1-3 Jahre für bedeutungsvolle Heilung. Erste 3-6 Monate sind emotional intensiv. Nach etwa einem Jahr können viele Paare sehen, ob wirklicher Fortschritt gemacht wurde. Aber völlige Heilung – wenn sich das Trauma von der Affäre anfühlt wie etwas, das vorbei ist statt ständig präsent – kann 2-3 Jahre dauern. Dies ist kein linearer Prozess; es gibt Rückschläge. Geduld mit dir selbst ist wichtig."
   - question: "Was wenn der untreue Partner die Grenzen wieder überschreitet?"
     answer: "Dann ist das ein klares Zeichen, dass die Person nicht wirklich ändern will oder kann. Wiederholter Betrug zeigt mangelndes Commitment zum Wiederaufbau und zum Partner. In diesem Fall solltest du ernsthaft überlegen, ob du dieser Beziehung deine Zeit und emotionale Energie wert ist. Du kannst jemanden lieben, aber das bedeutet nicht, dass du mit jemandem zusammen sein musst, der dich wiederholt verletzt. Selbstachtung ist genauso wichtig wie Liebe."
----## beziehung nach einer Affäre: Kann man Vertrauen wieder aufbauen?
+---
+
+## beziehung nach einer Affäre: Kann man Vertrauen wieder aufbauen?
 
 Die Entdeckung einer Affäre ist einer der schmerzhaftesten Momente in einer Beziehung. Der Boden unter dir gibt nach. Vertrauen, die Grundlage jeder Partnerschaft, ist zerstört. Und jetzt steht die große Frage: Kann man das wiederherstellen? Sollte man es überhaupt versuchen?
 

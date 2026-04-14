@@ -8,7 +8,9 @@ tags:
   - "Psychologie"
   - "Ratgeber"
   - "Kommunikation"
----Du sitzt mit deinem Partner. Du versuchst ein ernstes Gespräch zu führen. Und stattdessen schmollt er/sie. Oder zieht sich zurück. Oder wird wütend ohne Grund. Oder ignoriert dich komplett.
+---
+
+Du sitzt mit deinem Partner. Du versuchst ein ernstes Gespräch zu führen. Und stattdessen schmollt er/sie. Oder zieht sich zurück. Oder wird wütend ohne Grund. Oder ignoriert dich komplett.
 
 Es fühlt sich an, als würdest du mit einem Kind reden, nicht mit einem erwachsenen Menschen.
 

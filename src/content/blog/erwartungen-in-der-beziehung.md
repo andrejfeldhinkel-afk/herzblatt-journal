@@ -26,7 +26,9 @@ faq:
     answer: "Klar, direkt und ohne Vorwurf. Formuliere Ich-Botschaften: 'Mir ist wichtig, dass...' statt 'Du solltest...'. Wähle einen ruhigen Moment und sei bereit, auch die Erwartungen deines Partners zu hören."
   - question: "Was mache ich wenn mein Partner meine Erwartungen nie erfüllt?"
     answer: "Prüfe zuerst, ob deine Erwartungen realistisch und klar kommuniziert sind. Wenn ja und dein Partner zeigt keine Bereitschaft, darauf einzugehen, musst du entscheiden, ob du mit dieser Realität leben kannst oder nicht."
----## Einleitung: Warum Erwartungen der stille Beziehungskiller Nummer 1 sind
+---
+
+## Einleitung: Warum Erwartungen der stille Beziehungskiller Nummer 1 sind
 
 Du sitzt zu Hause, dein Partner kommt nach einem stressigen Arbeitstag nach Hause und wirft sich auf die Couch. Du erwartest, dass er dich umarmt, nach deinem Tag fragt und ein schönes Abendessen mit dir verbringst. Aber er sitzt einfach nur dort, scrollt durch sein Handy. Deine innere Stimme wird lauter: "Er interessiert sich nicht für mich", "Er liebt mich nicht genug", "Das war es, unsere [beziehung](/blog/adhs-und-beziehung-komplett-guide/) ist am Ende."
 

@@ -27,7 +27,9 @@ faq:
     answer: "Es ist möglich, aber selten — und nur wenn die Person ihr Verhalten vollständig anerkennt und professionelle Hilfe sucht. Veränderung kann nicht durch die Liebe oder Geduld des Partners erzwungen werden."
   - question: "Was sind die Langzeitfolgen von emotionalem Missbrauch?"
     answer: "Typische Langzeitfolgen sind PTBS, Angststörungen, Depressionen, chronisch niedriges Selbstwertgefühl, Vertrauensprobleme, Bindungsangst und Schwierigkeiten in zukünftigen Beziehungen."
----## Emotionaler Missbrauch in Beziehungen: Erkennen, verstehen und heilen
+---
+
+## Emotionaler Missbrauch in Beziehungen: Erkennen, verstehen und heilen
 
 ## Der stille Schmerz, den niemand sieht
 

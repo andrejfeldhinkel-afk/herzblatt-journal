@@ -18,7 +18,9 @@ faq:
     answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
   - question: "Wo finde ich Hilfe zum Thema dating nach emotionalem missbrauch?"
     answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
----## Nach emotionalem Missbrauch wieder lieben: Ein behutsamer Weg zur Heilung
+---
+
+## Nach emotionalem Missbrauch wieder lieben: Ein behutsamer Weg zur Heilung
 
 Nach einer emotionalen missbrauchlichen [Gaslighting](/blog/gaslighting-komplett-guide) funktioniert.
 

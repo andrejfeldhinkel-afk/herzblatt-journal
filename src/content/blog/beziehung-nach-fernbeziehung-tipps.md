@@ -17,7 +17,9 @@ faq:
     answer: "Menschen erwarten, dass alles perfekt wird, wenn sie zusammenziehen. Die Realität: Es gibt Anpassungen, neue Konflikte und Unterschiede, die online nicht sichtbar waren. Behalte realistische Erwartungen."
   - question: "Wie lange sollte ich das Zusammenziehen verschieben, um sicherzugehen?"
     answer: "Es gibt keine magische Zahl. Manche Paare ziehen nach 6 Monaten zusammen, manche nach 3 Jahren. Wichtiger: Kommunikation, gemeinsame Werte und das Gefühl, dass ihr füreinander bereit seid."
----Die Fernbeziehung funktioniert. Ihr seid glücklich – trotz der Entfernung, trotz der Besuche, trotz der langen Telefonate. Dann kommt die große Frage: Was ist der nächste Schritt? Für viele Fernbeziehungen bedeutet das: Zusammenziehen.
+---
+
+Die Fernbeziehung funktioniert. Ihr seid glücklich – trotz der Entfernung, trotz der Besuche, trotz der langen Telefonate. Dann kommt die große Frage: Was ist der nächste Schritt? Für viele Fernbeziehungen bedeutet das: Zusammenziehen.
 
 Diese Übergang ist eine der größten Veränderungen, die ein Paar durchlebt. Wie machst du es richtig?
 

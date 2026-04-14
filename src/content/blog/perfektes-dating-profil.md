@@ -24,7 +24,9 @@ faq:
     answer: "Ja. Wenn du langfristig suchst, sag es. Wenn du casual daten willst, sag es auch. Klarheit spart Zeit und vermeidet Missverständnisse."
   - question: "Wie oft sollte ich mein Profil aktualisieren?"
     answer: "Neue Fotos monatlich oder alle 2 Monate. Die Bio kannst du öfter aktualisieren. Frische Content hält das Profil relevant und zeigt, dass du aktiv bist."
----Dein Dating-Profil ist dein digitaler Erste-Eindruck. Von endlosem Swipen werden Sekunden zählen. Eine gute Profilbild und eine interessante Bio können die Differenz zwischen "Match" und "Swipe left" ausmachen. Aber wie erstellst du ein Profil, das nicht nur Aufmerksamkeit zieht, sondern auch die richtigen Menschen anzieht?
+---
+
+Dein Dating-Profil ist dein digitaler Erste-Eindruck. Von endlosem Swipen werden Sekunden zählen. Eine gute Profilbild und eine interessante Bio können die Differenz zwischen "Match" und "Swipe left" ausmachen. Aber wie erstellst du ein Profil, das nicht nur Aufmerksamkeit zieht, sondern auch die richtigen Menschen anzieht?
 
 ## Warum dein Profil entscheidend ist
 

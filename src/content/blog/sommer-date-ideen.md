@@ -23,7 +23,9 @@ faq:
     answer: "Es gibt viele kostengünstige Optionen: Ein **Picknick im Park** mit selbstgemachtem Essen, **Nachtwanderungen** durch die Natur, kostenlose **Open-Air-Konzerte** oder **Feste**, **Spaziergang durch die Stadt**, oder **Stand-Up-Paddling** an günstigen Vermietstationen. **Festivals** bieten oft Eintrittsfreiheit und könnten ein großartiges gemeinsames Erlebnis sein."
   - question: "Was sollte ich für ein erfolgreiches Outdoor-Picknick-Date mitbringen?"
     answer: "Packe eine **Kühlbox** mit Getränken und leichten Snacks, **Picknick-Decke**, **Insektenschutzmittel**, **Sonnencreme**, **feuchte Tücher**, und **Mülltüten** für die Nachbarschaft. Bring auch **Musik** auf dem Smartphone mit oder ein tragbares Musikgerät. Ein **Frisbee** oder **Kartenspiel** kann unterhaltsam wirken. Checke den Wetterbericht und bring einen **Regenschirm** mit, falls nötig."
----Der Sommer ist die perfekte Jahreszeit für unvergessliche Dates. Die langen, warmen Tage, die angenehmen Nächte und die Vielfalt an Aktivitäten unter freiem Himmel machen diese Zeit zum Paradies für romantische Momente. Ob du gerade jemanden kennenlernst oder deine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) vertiefen möchtest – diese 25 Sommer-Date-Ideen werden dir helfen, gemeinsam mit deinem Date magische Momente zu schaffen.
+---
+
+Der Sommer ist die perfekte Jahreszeit für unvergessliche Dates. Die langen, warmen Tage, die angenehmen Nächte und die Vielfalt an Aktivitäten unter freiem Himmel machen diese Zeit zum Paradies für romantische Momente. Ob du gerade jemanden kennenlernst oder deine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) vertiefen möchtest – diese 25 Sommer-Date-Ideen werden dir helfen, gemeinsam mit deinem Date magische Momente zu schaffen.
 
 ## Warum sind Sommer-Dates so besonders?
 

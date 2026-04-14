@@ -15,7 +15,9 @@ keywords:
   - "Beziehung"
   - "Emotionale Verbindung"
 image: "/images/blog/bids-for-connection-beziehung-guide.webp"
----## Einleitung: Die kleinen Momente, die alles verändern
+---
+
+## Einleitung: Die kleinen Momente, die alles verändern
 
 Du sitzt auf der Couch und liest ein Buch. Dein Partner kommt herein und sagt: "Schau mal, was ich gerade gefunden habe!" Das ist ein sogenannter Bid for Connection — ein Zuwendungsversuch. Es ist eine dieser winzigen Momente, die du tausendfach in deiner [beziehung](/blog/adhs-und-beziehung-komplett-guide/) erlebst, denen du aber vielleicht nie große Aufmerksamkeit geschenkt hast.
 

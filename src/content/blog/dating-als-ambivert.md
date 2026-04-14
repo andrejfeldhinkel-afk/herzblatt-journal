@@ -27,7 +27,9 @@ faq:
     answer: "Ein Mix aus Online und Offline. Nutze Dating-Apps wenn du in einer ruhigeren Phase bist, und geh auf Events wenn du dich energiegeladen fühlst. Der Schlüssel ist, dein Energielevel zu kennen und danach zu planen."
   - question: "Soll ich meinem Date sagen dass ich ambivertiert bin?"
     answer: "Wenn es passt, ja. Es erklärt natürlich, warum du manchmal super gesellig bist und manchmal lieber ruhig. Die meisten finden es erfrischend ehrlich — besser als rätseln zu lassen."
----**Du verstehst dich nicht richtig im Dating.** Manchmal bist du der Extrovertierte, der auf Parties geht und neue Menschen trifft. Manchmal bist du der Introvertierte, der lieber zuhause bleibt und sich Zeit für sich selbst nimmt.
+---
+
+**Du verstehst dich nicht richtig im Dating.** Manchmal bist du der Extrovertierte, der auf Parties geht und neue Menschen trifft. Manchmal bist du der Introvertierte, der lieber zuhause bleibt und sich Zeit für sich selbst nimmt.
 
 Du fragst dich: "Bin ich introvertiert oder extrovertiert? Und wie beeinflusst das mein Dating-Leben?"
 

@@ -20,7 +20,9 @@ faq:
     answer: "Achte darauf, wie die Person mit Ablehnung umgeht, wie sie über ihre Ex spricht, ob sie ihre Fehler anerkennt, wie sie unter Stress reagiert, und ob sie empathisch zuhören kann. Emotional reife Menschen sind offen für Feedback und versuchen, sich weiterzuentwickeln."
   - question: "Kann man emotionale Reife entwickeln?"
     answer: "Ja, absolut. Emotionale Reife ist nicht etwas, das man entweder hat oder nicht – es ist etwas, das man in jedem Alter entwickeln kann. Therapie, Selbstreflexion und bewusste Arbeit an sich selbst können dramatisch zu mehr emotionaler Reife führen."
----Wo [dating](/blog/anzeichen-er-steht-auf-dich/)-Apps dich mit unzähligen hübschen Profilen bombardieren, konzentrieren sich viele auf oberflächliche Eigenschaften. Aber wenn du eine erfüllende, stabile [beziehung](/blog/adhs-und-beziehung-komplett-guide/) suchst, ist emotionale Reife tatsächlich wichtiger als große Muskeln oder ein perfektes Lächeln.
+---
+
+Wo [dating](/blog/anzeichen-er-steht-auf-dich/)-Apps dich mit unzähligen hübschen Profilen bombardieren, konzentrieren sich viele auf oberflächliche Eigenschaften. Aber wenn du eine erfüllende, stabile [beziehung](/blog/adhs-und-beziehung-komplett-guide/) suchst, ist emotionale Reife tatsächlich wichtiger als große Muskeln oder ein perfektes Lächeln.
 
 ## Was ist emotionale Reife?
 

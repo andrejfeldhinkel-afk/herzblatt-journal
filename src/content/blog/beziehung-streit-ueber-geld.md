@@ -20,7 +20,9 @@ faq:
     answer: "Das ist üblich. Ihr müsst eine faire Weise finden, Rechnungen zu teilen - nicht notwendigerweise 50/50, aber basierend auf Fähigkeit zu zahlen. Kommunikation ist wichtig."
   - question: "Wie kann ich einen Partner ansprechen, der Geld verschwenderisch ist?"
     answer: "Nicht anklagend oder kritisch. Teile deine Bedenken mit 'Ich'-Aussagen. 'Mir sorgen machen diese Ausgaben wegen unsere langfristige Ziele.' Dann zuhören, verstehen warum, und gemeinsam Problem-lösen."
----## Die Tabu-Subjekt
+---
+
+## Die Tabu-Subjekt
 
 Geld ist das Nummer-eins-Streit-Thema in Beziehungen. Mehr als Sex, mehr als Kinder, mehr als jede andere Sache.
 

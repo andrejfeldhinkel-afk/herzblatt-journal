@@ -10,7 +10,9 @@ tags:
 featured: false
 image: "/images/photos/dating-introvertierte.webp"
 imageAlt: "Introvertierter Mann beim ruhigen Date - Dating für stille Menschen"
----## Dating für Introvertierte – Deine Stärken nutzen
+---
+
+## Dating für Introvertierte – Deine Stärken nutzen
 
 Viele introvertierte Menschen vermeiden Dating, weil sie denken, dass es ihrer Natur widerspricht. "Ich bin zu schüchtern", "Ich bin zu leise", "Ich bin nicht sozial genug" – Diese Gedanken sind verständlich, aber falsch.
 

@@ -25,7 +25,9 @@ faq:
     answer: "Diese Angst ist normal und sogar gesund — sie zeigt, dass du auf dich achtest. Gehe langsam vor, setze klare Grenzen und behalte deine Selbstfürsorge-Routinen bei."
   - question: "Kann eine Beziehung bei der Genesung helfen?"
     answer: "Eine gesunde Beziehung kann unterstützend wirken, aber sie sollte nicht deine Therapie ersetzen. Dein Wohlbefinden sollte nie allein von einem Partner abhängen."
----Du hast es geschafft. Du hast die schwierigste Phase hinter dir — oder befindest dich gerade darin, sie langsam zu verlassen. Die Tage waren dunkel, vielleicht fast unerträglich. Und jetzt fragst du dich: Bin ich bereit, mich wieder auf die Liebe einzulassen? Bin ich bereit zu daten?
+---
+
+Du hast es geschafft. Du hast die schwierigste Phase hinter dir — oder befindest dich gerade darin, sie langsam zu verlassen. Die Tage waren dunkel, vielleicht fast unerträglich. Und jetzt fragst du dich: Bin ich bereit, mich wieder auf die Liebe einzulassen? Bin ich bereit zu daten?
 
 Diese Frage zu stellen, zeigt bereits eine wichtige Selbstfürsorge. Du fragst dich nicht einfach, ob du wieder daten *solltest*, sondern ob du bereit *bist*. Das ist der Unterschied zwischen einem impulsiven Schritt und einer bewussten Entscheidung.
 

@@ -20,7 +20,9 @@ faq:
     answer: "Das ist deine persönliche Entscheidung. Einige Menschen brauchen initiale Anziehung; andere nicht. Wenn du dich mit der Person verbunden fühlst und du wissen möchtest mehr zu wissen, verdient sie eine Chance. Wenn du absolut keine Anziehung fühlt, ist das okay. Das ist nicht falsch."
   - question: "Kann Liebe ohne Leidenschaft erfüllend sein?"
     answer: "Ja, absolut. Die beste Liebestypen sind oft nicht die leidenschaftlichsten – sie sind die ruhigen, stabilen, tiefen. Sie könnten keine Schmetterlinge haben, aber du hast einen Partner, auf dem du dich verlassen kannst. Das ist sehr befriedigend."
----Wir sind aufgewachsen mit Hollywood-Liebesgeschichten. Der erste Blick, Schmetterlinge im Bauch, die unmittelbare Anziehung. Wenn du das nicht beim ersten Treffen fühlst, denkst du vielleicht, dass es nicht die Richtige ist.
+---
+
+Wir sind aufgewachsen mit Hollywood-Liebesgeschichten. Der erste Blick, Schmetterlinge im Bauch, die unmittelbare Anziehung. Wenn du das nicht beim ersten Treffen fühlst, denkst du vielleicht, dass es nicht die Richtige ist.
 
 Aber die Realität ist komplizierter. Einige der beste Liebesgeschichten beginnen nicht mit Schmetterlinge – sie beginnen mit Kompatibilität und Verständnis.
 

@@ -17,7 +17,9 @@ faq:
     answer: "Offene Kommunikation ist Schlüssel. Sprich früh über Familie, Traditionen und Erwartungen. Findet Kompromisse, wo es möglich ist. Lernen Sie voneinander. Aber respektieren Sie auch die Grenzen beider Kulturen."
   - question: "Was, wenn unsere Religionen unterschiedlich sind?"
     answer: "Das ist eine große Frage mit vielen Antworten. Manche Paare machen es wunderbar, manche scheitern. Es hängt davon ab, wie wichtig Religion für jeden ist und wie willens beide sind, Kompromisse zu machen."
----Die Welt ist kleiner geworden. Durch Dating-Apps, internationale Schulen, und globale Mobilität treffen Menschen sich über kulturelle Grenzen hinweg wie nie zuvor.
+---
+
+Die Welt ist kleiner geworden. Durch Dating-Apps, internationale Schulen, und globale Mobilität treffen Menschen sich über kulturelle Grenzen hinweg wie nie zuvor.
 
 Dating jemanden aus einer anderen Kultur kann eine der reichhaltigsten Erfahrungen sein. Aber es hat auch Herausforderungen, die monokulturelle Beziehungen nicht haben.
 

@@ -17,7 +17,9 @@ faq:
     answer: "Sei ehrlich, aber nicht übermäßig mitteilsam auf den ersten Dates. Teile deine Vergangenheit, wenn die Verbindung wächst. Menschen respektieren Transparenz – sie werden oft erleichtert sein, dass du keine versteckte Vergangenheit hast."
   - question: "Was ist, wenn ich mich nach langer Zeit unattraktiv fühle oder aus Form bin?"
     answer: "Das Erste, was du tun solltest, ist für DICH selbst zu arbeiten. Trainieren, Haut pflegen, Kleider anziehen, die dir passen und fühlen sich gut. Das ist nicht um andere zu beeindrucken – das ist um DICH zu respektieren. Wenn du dich gut fühlst, werden andere es sehen."
----Du bist über 40 und denkst über [dating](/blog/anzeichen-er-steht-auf-dich/) nach. Vielleicht wurdest du gerade geschieden. Vielleicht warst du lange Zeit verheiratet oder in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/). Vielleicht warst du einfach karrierefokussiert und merkst jetzt, dass du Liebe möchtest.
+---
+
+Du bist über 40 und denkst über [dating](/blog/anzeichen-er-steht-auf-dich/) nach. Vielleicht wurdest du gerade geschieden. Vielleicht warst du lange Zeit verheiratet oder in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/). Vielleicht warst du einfach karrierefokussiert und merkst jetzt, dass du Liebe möchtest.
 
 Was auch immer es ist, eine Sache ist wahr: Dating ab 40 ist anders. Und auf viele Weisen besser.
 

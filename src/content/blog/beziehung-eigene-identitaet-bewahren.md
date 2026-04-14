@@ -6,7 +6,7 @@ tags:
   - "Beziehung"
   - "Psychologie"
   - "Selbstliebe"
-image: "/images/blog/beziehung-eigene-identitaet-bewahren-bewahren.webp"
+image: "/images/blog/beziehung-eigene-identitaet-bewahren.webp"
 imageAlt: "Zwei Menschen halten sich an den Händen, blicken aber in unterschiedliche Richtungen"
 keywords: ["Identität in Beziehung", "Selbstentwicklung", "persönliche Grenzen", "Partnerschaft Unabhängigkeit", "sich selbst treu bleiben"]
 draft: false

@@ -17,7 +17,9 @@ faq:
     answer: "Das passiert – und es ist nicht persönlich. Menschen sind beschäftigt oder nicht interessiert. Schreib eine zweite Nachricht nicht. Akzeptiere es und geh weiter. Es gibt viele andere Menschen."
   - question: "Sollte meine erste Nachricht humorvoll sein oder ernsthaft?"
     answer: "Authentisch ist besser als humorvoll. Ein guter Witz kann helfen, aber viele Menschen versuchen, lustig zu sein und scheitern. Seien ehrlich, interessiert und real. Das ist attraktiver."
----Du hast ein Match. Dein Herz klopft. Jetzt musst du schreiben. Aber was?
+---
+
+Du hast ein Match. Dein Herz klopft. Jetzt musst du schreiben. Aber was?
 
 Die erste Nachricht ist entscheidend. Sie entscheidet, ob die andere Person antwortet oder dich ignoriert. Die Strategien, die tatsächlich funktionieren.
 

@@ -21,7 +21,9 @@ faq:
     answer: "Klassisch: Spaziergang am Ostsee-Strand oder durch Warnemünde. Kulturell: Kunsthalle, Schifffahrtsmuseum. Aktiv: Strandvolleyball, Segeln, Fahrrad-Tour. Gemütlich: Kaffee in der Altstadt oder Fischbrötchen am Hafen. Romantisch: Sonnenuntergang am Strand."
   - question: "Gibt es eine gute Single-Szene in Rostock?"
     answer: "Ja! Rostock hat eine kleine, aber lebendige Single-Szene. Die Stadt ist jung (Uni-Stadt), und die Ostsee-Nähe schafft eine entspannte Atmosphäre. Die Menschen sind aufgeschlossen und naturliebend. Klein genug zum Heimisch-Fühlen, groß genug für Vielfalt."
----## Dating in Rostock: Wo die Ostsee Liebe bringt
+---
+
+## Dating in Rostock: Wo die Ostsee Liebe bringt
 
 Rostock ist Deutschlands nördlichste große Stadt – und das fühlt sich an. **Meer, Freiheit, und dieser spezielle Ostsee-Wind**, der alles andere macht als dich zu kümmern, ob dein Dating klapptig wirkt. Hier sind Menschen authentisch, weil das Meer sie demütigt. Hier ist Dating entspannt, weil alle schon einen schönen Ort haben (die Ostsee).
 

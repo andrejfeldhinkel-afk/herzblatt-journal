@@ -20,7 +20,9 @@ faq:
     answer: "Für manche ja, für andere nicht. Die richtige Person wird dich nicht nach deinem Jobstatus bewerten, sondern danach, wer du bist und wie du mit der Situation umgehst."
   - question: "Sollte ich erst einen Job finden, bevor ich date?"
     answer: "Nicht unbedingt. Wenn du dich emotional stabil genug fühlst, kann Dating sogar guttun. Aber wenn der Jobverlust dich stark belastet, ist es okay, erst mal an dir zu arbeiten."
----## Kein Job, kein Date?
+---
+
+## Kein Job, kein Date?
 
 Den Job zu verlieren kratzt am Selbstbewusstsein. Und genau das brauchst du beim [dating](/blog/anzeichen-er-steht-auf-dich/). Die Versuchung ist groß, sich zurückzuziehen und zu denken: "Erst mal einen Job finden, dann kann ich wieder daten." Verständlich, aber nicht immer sinnvoll.
 

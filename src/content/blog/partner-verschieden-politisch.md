@@ -17,7 +17,9 @@ faq:
     answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
   - question: "Wo finde ich Hilfe zum Thema verschiedene politische ansichten in der beziehung?"
     answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
----## Verschiedene politische Ansichten in der Beziehung
+---
+
+## Verschiedene politische Ansichten in der Beziehung
 
 Das Abendessen wird unangenehm. Er macht einen Kommentar über eine politische Entscheidung. Deine Augen öffnen sich. Das ist das Gegenteil von dem, was du denkst. Plötzlich fragt sich dein Gehirn: "Wie konnten wir nicht auf der gleichen Seite sein?" Die Antwort ist kompliziert. Ja, unterschiedliche politische Ansichten können eine Beziehung belasten. Aber nein, es ist nicht automatisch ein Dealbreaker.
 

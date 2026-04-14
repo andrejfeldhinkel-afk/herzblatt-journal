@@ -23,7 +23,9 @@ faq:
     answer: "Ja, absolut. Single-Sein ist nicht ein Fehler oder etwas zu 'Fixieren'. Es ist eine Gelegenheit, dich selbst zu entdecken und echte Selbstliebe zu entwickeln."
   - question: "Wie erkenne ich, dass ich mich selbst liebe?"
     answer: "Du akzeptierst deine Unvollkommenheiten, setzt Grenzen ohne Schuldgefühle, verhandelst nicht über deine Standards, und wählst Beziehungen statt sie zu brauchen."
----## Selbstliebe: Der Grundstein für Dating-Erfolg
+---
+
+## Selbstliebe: Der Grundstein für Dating-Erfolg
 
 Das kennt jeder: Du sitzt auf einem Date und möchtest beeindrucken. Du versteckst deine echte Persönlichkeit, fragst ständig den anderen aus, während du über dich selbst lügst. Warum? Weil du unbewusst denkst, dass du nicht „genug" bist. Das ist das größte Dating-Hindernis überhaupt.
 

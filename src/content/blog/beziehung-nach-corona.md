@@ -17,7 +17,9 @@ faq:
     answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
   - question: "Wo finde ich Hilfe zum Thema beziehung nach corona?"
     answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
----## Beziehung nach Corona: Was die Pandemie uns über Liebe gelehrt hat
+---
+
+## Beziehung nach Corona: Was die Pandemie uns über Liebe gelehrt hat
 
 Der Lockdown war vorbei. Langsam war die Welt wieder offen. Restaurants, Bars, Reisen — alles war wieder möglich. Aber deine Beziehung... etwas hatte sich geändert. Fundamental.
 

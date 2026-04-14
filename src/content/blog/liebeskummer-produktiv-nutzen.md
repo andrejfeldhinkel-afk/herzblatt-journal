@@ -27,7 +27,9 @@ faq:
     answer: "Wenn Liebeskummer nach 6 Monaten nicht nachlässt, du Suizidgedanken hast, dich komplett isolierst, nicht mehr arbeitsfähig bist oder zu Substanzen greifst. Ein Therapeut ist kein Zeichen von Schwäche, sondern von Stärke."
   - question: "Hilft es den Ex zu blockieren?"
     answer: "In den meisten Fällen ja. 'No Contact' gibt deinem Gehirn die Chance, die neurochemische Abhängigkeit zu durchbrechen. 30 Tage konsequent kein Kontakt ist der effektivste erste Schritt zur Heilung."
----[Liebeskummer](/blog/liebeskummer-phasen-komplett) ist eine Form von Trauer. Das ist die erste Wahrheit die zu verstehen du brauchst. Es ist nicht weniger real als Tod. Es ist nicht "dramatisch" oder "zu emotional." Es ist ein echtes Trauma für dein Nervensystem.
+---
+
+[Liebeskummer](/blog/liebeskummer-phasen-komplett) ist eine Form von Trauer. Das ist die erste Wahrheit die zu verstehen du brauchst. Es ist nicht weniger real als Tod. Es ist nicht "dramatisch" oder "zu emotional." Es ist ein echtes Trauma für dein Nervensystem.
 
 Wenn eine [verliebt](/blog/mann-verliebt-anzeichen-komplett) bist, passiert folgendes in deinem Gehirn:
 

@@ -27,7 +27,9 @@ faq:
     answer: "Mit großer Geduld und klaren Grenzen. Du kannst dich nicht jemanden 'heilen', aber du kannst präsent sein. Die wichtigste Sache ist, deine eigenen Grenzen zu kennen. Wie lange wirst du warten? Wann ist es genug? Du kannst nicht jemanden retten, der nicht gerettet werden will."
   - question: "Wann sollte ich jemanden mit Commitment Phobia verlassen?"
     answer: "Wenn: 1) Sie weigern sich, Hilfe zu suchen, 2) Sie sabotieren ständig die Beziehung, 3) Du anfängst zu glauben, dass du nicht 'gut genug' bist, 4) Deine psychische Gesundheit leidet, 5) Du merkst, dass deine Grenzen nicht respektiert werden, oder 6) Du Jahre wartest und nichts ändert sich."
----## Was ist Commitment Phobia wirklich?
+---
+
+## Was ist Commitment Phobia wirklich?
 
 Commitment Phobia ist nicht dasselbe wie "Ich bin nicht bereit für eine [Bindungsangst](/blog/bindungsangst-komplett-guide)?
 

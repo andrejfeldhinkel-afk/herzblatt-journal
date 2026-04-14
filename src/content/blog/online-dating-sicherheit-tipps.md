@@ -17,7 +17,9 @@ faq:
     answer: "Nein. Gib niemals deine echte Telefonnummer, Adresse oder finanzielle Informationen an jemanden, den du nicht persönlich kennst. Nutze zunächst die Messagingfunktion der App."
   - question: "Was sind die Warnsignale von Romance Scams?"
     answer: "Wenn jemand sehr schnell von dir schwärmt, finanzielle Hilfe braucht oder sich nach wenigen Tagen treffen möchte, dann verschwinden lässt, sind das typische Zeichen für Betrug."
----Online-[dating](/blog/anzeichen-er-steht-auf-dich/) hat die Art revolutioniert, wie wir Menschen kennenlernen. Doch mit dieser Convenience kommt auch eine erhöhte Verantwortung für die eigene Sicherheit. In diesem Leitfaden erfährst du, wie du dich vor den häufigsten [online-dating](/blog/beste-dating-apps-2026/)-Gefahren schützt.
+---
+
+Online-[dating](/blog/anzeichen-er-steht-auf-dich/) hat die Art revolutioniert, wie wir Menschen kennenlernen. Doch mit dieser Convenience kommt auch eine erhöhte Verantwortung für die eigene Sicherheit. In diesem Leitfaden erfährst du, wie du dich vor den häufigsten [online-dating](/blog/beste-dating-apps-2026/)-Gefahren schützt.
 
 ## Die häufigsten Online-Dating-Risiken verstehen
 
