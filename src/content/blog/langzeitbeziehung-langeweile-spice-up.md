@@ -4,6 +4,7 @@ description: "Langzeitbeziehung aufpeppen: Praktische Tipps und psychologische E
 keywords: ["langzeitbeziehung aufpeppen", "beziehung", "dating", "psychologie", "langzeitbeziehung aufpeppen:", "aufpeppen: wenn"]
 date: 2025-09-30
 image: "/images/blog/langzeitbeziehung-langeweile-spice-up.webp"
+imageAlt: "Langzeitbeziehung aufpeppen: Wenn die Flamme verblasst"
 tags: ["Beziehung", "Dating", "Psychologie"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

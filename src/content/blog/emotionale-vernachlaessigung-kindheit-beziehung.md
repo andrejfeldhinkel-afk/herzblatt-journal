@@ -1,5 +1,5 @@
 ---
-title: "Emotionale Vernachlässigung in der Kindheit: Wie sie deine Beziehungen prägt"
+title: "Emotionale Vernachlässigung: Wie Kindheit Liebe prägt"
 description: "Emotionale Vernachlässigung (CEN) nach Jonice Webb erklärt: Warum du als Erwachsener Schwierigkeiten mit Nähe, Gefühlen und Beziehungen hast — und was hilft."
 date: 2026-03-20
 tags:

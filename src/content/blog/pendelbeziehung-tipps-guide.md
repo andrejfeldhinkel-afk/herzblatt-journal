@@ -1,5 +1,5 @@
 ---
-title: "Pendelbeziehung meistern — wenn der Job euch trennt, aber die Liebe bleibt"
+title: "Pendelbeziehung meistern: Wenn der Job euch trennt"
 description: "Praktische Tipps für Pendelbeziehungen: Wie du Vertrauen aufbaust, Zeit sinnvoll nutzt und deine Fernbeziehung stärkst."
 date: 2026-04-13
 tags:

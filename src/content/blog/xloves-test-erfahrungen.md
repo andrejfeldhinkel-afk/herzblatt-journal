@@ -10,6 +10,7 @@ keywords: ["xloves test", "xloves erfahrungen", "xloves kosten", "xloves bewertu
 draft: false
 author: "markus-hoffmann"
 image: "/images/blog/xloves-test-erfahrungen.webp"
+imageAlt: "xLoves Test & Erfahrungen"
 faq:
   - question: "Ist xLoves seriös und vertrauenswürdig?"
     answer: "Ja, xLoves ist eine seriöse Dating-Plattform mit verifizierten Profilen, SSL-Verschlüsselung und DSGVO-konformem Datenschutz. Die strenge Profilverifizierung sorgt für eine hohe Qualität der Mitglieder, wobei jedes Profil vor der Freischaltung geprüft wird. Die Moderatoren überwachen die Plattform rund um die Uhr, um Fake-Accounts und unseriöse Nutzer zu blocken."

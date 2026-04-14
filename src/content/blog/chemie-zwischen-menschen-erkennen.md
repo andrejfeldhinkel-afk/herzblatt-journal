@@ -1,5 +1,5 @@
 ---
-title: "Chemie zwischen Menschen: Was dahintersteckt und wie du sie erkennst"
+title: "Chemie zwischen Menschen: Erkennen, was dahintersteckt"
 description: "Chemie ist real. Erfahre, was dahintersteckt, wie du sie erkennst und ob Chemie für echte Liebe notwendig ist."
 date: 2026-04-06
 image: "/images/photos/chemie-zwischen-menschen-erkennen.webp"
@@ -23,7 +23,7 @@ faq:
     answer: "Oft weil Anziehung mit Familienmuster verbunden ist oder mit unbewussten Wunden. Ein Therapeut kann dir helfen zu verstehen, was du wirklich anzieht und warum."
 ---
 
-# Chemie zwischen Menschen: Was dahintersteckt und wie du sie erkennst
+## Chemie zwischen Menschen: Was dahintersteckt und wie du sie erkennst
 
 Es ist dein erster Treffen mit jemandem, und sofort weißt du es: Da ist etwas. Ein Knistern. Eine Anziehung. Dein Herz schlägt schneller, wenn er lacht. Du magst die Art, wie er dich ansieht. Es fühlt sich aus, als würde der Rest der Welt verschwinden.
 

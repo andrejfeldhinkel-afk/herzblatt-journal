@@ -4,6 +4,7 @@ description: "Verschiedener Musikgeschmack in der Beziehung — Entdecke, wie du
 keywords: ["verschiedener musikgeschmack in der beziehung", "beziehung", "lifestyle", "verschiedener musikgeschmack", "musikgeschmack beziehung"]
 date: 2025-04-18
 image: "/images/blog/dating-unterschiedliche-musikgeschmaecker.webp"
+imageAlt: "Verschiedener Musikgeschmack in der Beziehung"
 tags: ["Beziehung", "Lifestyle"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

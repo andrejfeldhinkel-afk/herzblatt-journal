@@ -4,6 +4,7 @@ description: "Was ist Zombieing, wie man es erkennt und wie man damit umgeht, we
 keywords: ["zombieing beim dating", "dating", "red flags", "kommunikation", "grenzen", "zombieing beim"]
 date: 2025-09-30
 image: "/images/blog/zombie-ing-dating-ex-kommt-zurueck.webp"
+imageAlt: "Zombieing beim Dating: Wenn die Ex zurückkommt"
 tags: ["Dating", "Red Flags", "Kommunikation", "Grenzen"]
 faq:
   - question: "Wie lange sollte man daten bevor man zusammenkommt?"

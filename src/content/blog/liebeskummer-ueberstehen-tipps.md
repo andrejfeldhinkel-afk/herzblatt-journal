@@ -4,6 +4,7 @@ description: "Liebeskummer überstehen — Psychologische Hintergründe verstehe
 keywords: ["liebeskummer überstehen", "liebeskummer", "heilung", "psychologie", "liebeskummer überstehen:", "überstehen: wirklich"]
 date: 2025-05-22
 image: "/images/blog/liebeskummer-ueberstehen-tipps.webp"
+imageAlt: "Liebeskummer überstehen: Was wirklich hilft"
 tags: ["Liebeskummer", "Heilung", "Psychologie"]
 faq:
   - question: "Wie heilt man ein gebrochenes Herz?"

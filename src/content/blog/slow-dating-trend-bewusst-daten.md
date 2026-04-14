@@ -4,6 +4,7 @@ description: "Slow Dating — Die besten Tipps und Strategien für erfolgreiches
 keywords: ["slow dating", "dating", "slow dating:", "dating: achtsam", "achtsam liebe", "liebe finden"]
 date: 2025-04-16
 image: "/images/blog/slow-dating-trend-bewusst-daten.webp"
+imageAlt: "Slow Dating: Achtsam Liebe finden"
 tags: ["Dating"]
 faq:
   - question: "Wie finde ich den richtigen Partner?"

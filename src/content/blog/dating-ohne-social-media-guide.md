@@ -4,6 +4,7 @@ description: "Wie du erfolgreich daten kannst, ohne ständig online zu sein. Str
 keywords: ["dating ohne social media", "beziehung", "dating", "dating ohne", "ohne social", "social media:"]
 date: 2025-11-08
 image: "/images/blog/dating-ohne-social-media-guide.webp"
+imageAlt: "Dating ohne Social Media: Echte Verbindungen finden"
 tags: ["Beziehung", "Dating"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

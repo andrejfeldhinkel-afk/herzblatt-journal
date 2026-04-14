@@ -1,5 +1,5 @@
 ---
-title: "Mentalisierung in der Partnerschaft: Warum Empathie allein nicht reicht"
+title: "Mentalisierung in der Partnerschaft: Mehr als Empathie"
 description: "Mentalisierung erklärt: Wie die Fähigkeit, hinter das Verhalten deines Partners zu schauen, Beziehungen grundlegend verbessert — nach Peter Fonagy."
 date: 2026-03-30
 tags:
@@ -25,7 +25,7 @@ faq:
     answer: "In Streits oder unter Stress verlieren wir oft die Fähigkeit zu mentalisieren. Wir fallen in den 'psychischen Äquivalenzmodus': Was wir fühlen IST die Realität. Das ist der Moment, in dem Konflikte eskalieren."
 ---
 
-# Mentalisierung in der Partnerschaft: Warum Empathie allein nicht reicht
+## Mentalisierung in der Partnerschaft: Warum Empathie allein nicht reicht
 
 Du kennst das: Dein Partner macht etwas, das dich verletzt oder wütend macht. Du versuchst, empathisch zu sein. Du versuchst zu verstehen, wie er sich fühlt. Aber irgendwie funktioniert das trotzdem nicht. Der Konflikt wird nur schlimmer. Ihr redet aneinander vorbei. Und am Ende fragst du dich: Was ist denn bloß mit uns los?
 

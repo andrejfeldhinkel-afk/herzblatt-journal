@@ -4,6 +4,7 @@ description: "Dating als hochsensible Frau — Dein umfassender Ratgeber auf Her
 keywords: ["dating als hochsensible frau", "neurodiversität", "dating hochsensible", "hochsensible frau"]
 date: 2025-12-30
 image: "/images/blog/dating-hochsensible-frauen.webp"
+imageAlt: "Dating als hochsensible Frau"
 tags: ["Neurodiversität"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

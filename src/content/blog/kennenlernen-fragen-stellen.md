@@ -4,6 +4,7 @@ description: "50 Fragen zum Kennenlernen, die wirklich zählen: Wie du durch bes
 keywords: ["50 fragen zum kennenlernen, die wirklich zählen", "kennenlernen", "kommunikation", "erstes date", "fragen kennenlernen,", "kennenlernen, wirklich"]
 date: 2025-04-06
 image: "/images/blog/kennenlernen-fragen-stellen.webp"
+imageAlt: "50 Fragen zum Kennenlernen, die wirklich zählen"
 tags: ["Kennenlernen", "Kommunikation", "Erstes Date"]
 faq:
   - question: "Was tun wenn der Partner nicht reden will?"

@@ -4,6 +4,7 @@ description: "Welche Dealbreaker solltest du nicht übersehen? Lerne, deine Gren
 keywords: ["dealbreaker in der beziehung", "ratgeber", "dealbreaker beziehung"]
 date: 2025-06-07
 image: "/images/blog/dealbreaker-beziehung-erkennen.webp"
+imageAlt: "Dealbreaker in der Beziehung"
 tags: ["Ratgeber"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

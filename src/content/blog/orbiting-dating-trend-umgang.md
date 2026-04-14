@@ -4,6 +4,7 @@ description: "Orbiting — Die besten Tipps und Strategien für erfolgreiches Da
 keywords: ["orbiting", "dating", "red flags", "orbiting: kreist", "kreist dich"]
 date: 2025-11-17
 image: "/images/blog/orbiting-dating-trend-umgang.webp"
+imageAlt: "Orbiting: Ex kreist um dich"
 tags: ["Dating", "Red Flags"]
 faq:
   - question: "Was sollte man beim Dating beachten?"

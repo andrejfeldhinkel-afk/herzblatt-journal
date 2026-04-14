@@ -4,6 +4,7 @@ description: "Dating mit Hochbegabung — Praktische Dating-Ratschläge, die wir
 keywords: ["dating mit hochbegabung", "neurodiversität", "dating", "psychologie", "dating hochbegabung:", "hochbegabung: wenn"]
 date: 2025-05-16
 image: "/images/blog/dating-mit-hochbegabung.webp"
+imageAlt: "Dating mit Hochbegabung: Wenn der Kopf schneller ist"
 tags: ["Neurodiversität", "Dating", "Psychologie"]
 faq:
   - question: "Wie finde ich den richtigen Partner?"

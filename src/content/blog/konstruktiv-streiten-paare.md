@@ -1,5 +1,5 @@
 ---
-title: "Konstruktiv streiten als Paar: Die 10 Regeln fairer Konflikte"
+title: "Konstruktiv streiten als Paar: 10 Regeln fairer Konflikte"
 description: "Konflikte sind normal. Konstruktiv streiten ist eine Fähigkeit. Lerne die 10 Regeln für faire Kämpfe, die euch näher bringen."
 date: 2026-04-06
 image: "/images/photos/konstruktiv-streiten-paare.webp"
@@ -23,7 +23,7 @@ faq:
     answer: "Kritik greift die Person an: 'Du bist so verantwortungslos.' Konstruktives Feedback ist spezifisch und lösungsorientiert: 'Es verletzt mich, wenn du Pläne abbrichst. Ich möchte, dass du zuverlässiger bist.'"
 ---
 
-# Konstruktiv streiten als Paar: Die 10 Regeln fairer Konflikte
+## Konstruktiv streiten als Paar: Die 10 Regeln fairer Konflikte
 
 Du möchtest nicht streiten. Keiner tut es. Aber wenn du in einer echten, engen Beziehung lebst, wirst du streiten. Unterschiede sind unvermeidlich. Bedürfnisse kollidieren. Gefühle verletzen sich.
 

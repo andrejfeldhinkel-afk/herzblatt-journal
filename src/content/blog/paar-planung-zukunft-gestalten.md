@@ -4,6 +4,7 @@ description: "Zukunft als Paar planen: Praktische Tipps und psychologische Einbl
 keywords: ["zukunft als paar planen", "beziehung", "dating", "psychologie", "zukunft paar", "paar planen:"]
 date: 2025-05-28
 image: "/images/blog/paar-planung-zukunft-gestalten.webp"
+imageAlt: "Zukunft als Paar planen: Gemeinsam Träume gestalten"
 tags: ["Beziehung", "Dating", "Psychologie"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

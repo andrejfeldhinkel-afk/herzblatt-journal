@@ -4,6 +4,7 @@ description: "Wie du authentisch bleibst beim Dating und trotzdem attraktiv wirk
 keywords: ["authentisch bleiben beim dating", "ratgeber", "authentisch bleiben", "bleiben beim", "beim dating"]
 date: 2025-05-27
 image: "/images/blog/dating-authentisch-bleiben.webp"
+imageAlt: "Authentisch bleiben beim Dating"
 tags: ["Ratgeber"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

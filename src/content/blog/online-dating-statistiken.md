@@ -4,6 +4,7 @@ description: "Online-Dating Statistiken 2026 — Entdecke, wie du deine Partners
 keywords: ["online-dating statistiken 2026", "beziehung", "dating", "psychologie", "online-dating statistiken", "statistiken 2026:"]
 date: 2025-09-07
 image: "/images/blog/online-dating-statistiken.webp"
+imageAlt: "Online-Dating Statistiken 2026: Was die Daten zeigen"
 tags: ["Beziehung", "Dating", "Psychologie"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

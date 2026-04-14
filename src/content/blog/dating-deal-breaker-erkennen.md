@@ -4,6 +4,7 @@ description: "Deal-Breaker erkennen — Die besten Tipps und Strategien für erf
 keywords: ["deal-breaker erkennen", "red flags", "dating", "ratgeber", "deal-breaker erkennen:", "erkennen: wann"]
 date: 2025-12-21
 image: "/images/blog/dating-deal-breaker-erkennen.webp"
+imageAlt: "Deal-Breaker erkennen: Wann solltest du weitergehen"
 tags: ["Red Flags", "Dating", "Ratgeber"]
 faq:
   - question: "Wie reagiere ich auf Red Flags?"

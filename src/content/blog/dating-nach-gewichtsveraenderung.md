@@ -4,6 +4,7 @@ description: "Dating nach Gewichtsveränderung — Entdecke, wie du deine Partne
 keywords: ["dating nach gewichtsveränderung", "beziehung", "dating", "dating nach", "nach gewichtsveränderung:", "gewichtsveränderung: neues"]
 date: 2025-09-09
 image: "/images/blog/dating-nach-gewichtsveraenderung.webp"
+imageAlt: "Dating nach Gewichtsveränderung: Neues Selbstvertrauen"
 tags: ["Beziehung", "Dating"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

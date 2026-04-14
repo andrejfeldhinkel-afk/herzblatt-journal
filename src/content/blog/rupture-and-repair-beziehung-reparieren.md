@@ -1,5 +1,5 @@
 ---
-title: "Rupture and Repair: Warum Reparieren wichtiger ist als nie zu streiten"
+title: "Rupture and Repair: Warum Reparieren wichtiger ist"
 description: "Rupture and Repair erklärt: Warum Brüche in Beziehungen normal sind, wie Reparatur Vertrauen stärkt und wie du nach Streit wieder zueinander findest."
 date: 2026-03-16
 tags:

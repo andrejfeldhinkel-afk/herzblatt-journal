@@ -4,6 +4,7 @@ description: "Gemeinsames Haushaltsbuch als Paar — Entdecke, wie du deine Part
 keywords: ["gemeinsames haushaltsbuch als paar", "finanzen", "beziehung", "gemeinsames haushaltsbuch", "haushaltsbuch paar"]
 date: 2025-08-09
 image: "/images/blog/beziehung-gemeinsames-haushaltsbuch.webp"
+imageAlt: "Gemeinsames Haushaltsbuch als Paar"
 tags: ["Finanzen", "Beziehung"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

@@ -4,6 +4,7 @@ description: "Perfektionismus beim Dating â€” Die besten Tipps und Strategien fÃ
 keywords: ["perfektionismus beim dating", "dating", "psychologie", "selbstliebe", "partnersuche", "perfektionismus beim"]
 date: 2025-07-29
 image: "/images/blog/dating-perfektionismus.webp"
+imageAlt: "Perfektionismus beim Dating: Loslassen der Illusion"
 tags: ["Dating", "Psychologie", "Selbstliebe", "Partnersuche"]
 faq:
   - question: "Wie finde ich den richtigen Partner?"

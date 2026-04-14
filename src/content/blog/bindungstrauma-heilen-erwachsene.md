@@ -1,5 +1,5 @@
 ---
-title: "Bindungstrauma heilen als Erwachsener: Der ehrliche Weg zurück zu dir"
+title: "Bindungstrauma heilen: Der Weg zurück als Erwachsener"
 description: "Bindungstrauma heilen als Erwachsener: Wie frühe Verletzungen Beziehungen prägen, welche Heilungswege wirklich funktionieren und wie du wieder Vertrauen lernst."
 date: 2026-04-07
 tags:

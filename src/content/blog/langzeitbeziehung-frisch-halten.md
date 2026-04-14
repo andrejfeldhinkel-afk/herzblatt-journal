@@ -4,6 +4,7 @@ description: "Langzeitbeziehung frisch halten — Entdecke, wie du deine Partner
 keywords: ["langzeitbeziehung frisch halten", "beziehung", "date ideen", "intimität", "langzeitbeziehung frisch", "frisch halten"]
 date: 2025-06-15
 image: "/images/blog/langzeitbeziehung-frisch-halten.webp"
+imageAlt: "Langzeitbeziehung frisch halten"
 tags: ["Beziehung", "Date-Ideen", "Intimität"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

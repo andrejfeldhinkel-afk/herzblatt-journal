@@ -4,6 +4,7 @@ description: "Schmetterlinge im Bauch sind normal. Aber wie du deine Nervosität
 keywords: ["nervosität beim ersten treffen", "ratgeber", "nervosität beim", "beim ersten", "ersten treffen:", "treffen: tipps,"]
 date: 2025-10-24
 image: "/images/blog/dating-erstes-treffen-nervositaet.webp"
+imageAlt: "Nervosität beim ersten Treffen: Tipps, um ruhig zu bleiben"
 tags: ["Ratgeber"]
 faq:
   - question: "Für wen ist dieser Ratgeber geeignet?"

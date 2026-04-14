@@ -15,6 +15,7 @@ keywords:
   - "Nähe und Distanz"
   - "EFT"
 image: "/images/blog/pursuer-distancer-dynamik-guide.webp"
+imageAlt: "Pursuer-Distancer Dynamik — Der Teufelskreis aus Nähe"
 ---
 
 ## Einleitung: Das Muster, das Beziehungen zerstört

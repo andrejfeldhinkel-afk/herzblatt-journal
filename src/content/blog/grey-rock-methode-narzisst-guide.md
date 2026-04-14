@@ -1,5 +1,5 @@
 ---
-title: "Grey Rock Methode: So schützt du dich vor narzisstischer Manipulation"
+title: "Grey Rock Methode: Schutz vor narzisstischer Manipulation"
 description: "Die Grey Rock Methode erklärt: Wie du dich durch emotionale Neutralität vor Narzissten schützt — komplett mit Anleitungen, Beispieldialogen und Grenzen."
 date: 2026-04-04
 tags:

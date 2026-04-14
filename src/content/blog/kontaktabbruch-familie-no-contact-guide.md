@@ -1,5 +1,5 @@
 ---
-title: "Kontaktabbruch mit der Familie: Wann No Contact der einzige Weg ist"
+title: "Kontaktabbruch mit der Familie: No Contact als Weg"
 description: "Kontaktabbruch mit toxischen Familienmitgliedern: Wann No Contact nötig ist, wie du ihn umsetzt und wie du mit Schuldgefühlen und Trauer umgehst."
 date: 2026-03-25
 tags:
@@ -31,7 +31,7 @@ Dieser Artikel ist für dich geschrieben, wenn du dich bereits in dieser Überle
 
 Kontaktabbruch ist ein Thema, über das in deutschen Medien zu wenig gesprochen wird. Es gilt vielen als Tabuthema, als etwas, das man nicht tut, weil es „nicht normal" ist. Aber die Realität ist: Es gibt Familien, in denen Missbrauch, emotionale Vernachlässigung, narzisstische Manipulation oder körperliche Gewalt die Norm sind. Und für manche Menschen ist Kontaktabbruch nicht eine Option, die man erwägt — es ist die einzige Option, die bleibt.
 
-In diesem Artikel werden wir uns intensiv mit diesem Thema auseinandersetzen. Wir werden schauen, wann Kontaktabbruch wirklich notwendig ist, wie du ihn umsetzen kannst, ohne dabei zusammenzubrechen, und wie du mit den enormen Gefühlen umgehen kannst, die dabei entstehen. Lass uns damit beginnen.
+Dieser Artikel nimmt sich das Thema ehrlich vor. Du erfährst, wann Kontaktabbruch wirklich notwendig ist, wie du ihn umsetzen kannst, ohne dabei zusammenzubrechen, und wie du mit den enormen Gefühlen umgehen kannst, die dabei entstehen. Lass uns damit beginnen.
 
 ## Wenn die Familie zur Gefahr wird: Die Zeichen erkannt haben
 

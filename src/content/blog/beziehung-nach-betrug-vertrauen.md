@@ -4,6 +4,7 @@ description: "Vertrauen aufbauen nach Betrug — Dein umfassender Ratgeber auf H
 keywords: ["vertrauen aufbauen nach betrug", "vertrauen", "vertrauen aufbauen", "aufbauen nach", "nach betrug"]
 date: 2025-10-24
 image: "/images/blog/beziehung-nach-betrug-vertrauen.webp"
+imageAlt: "Vertrauen aufbauen nach Betrug"
 tags: ["Vertrauen"]
 faq:
   - question: "Wie baut man Vertrauen in einer Beziehung auf?"

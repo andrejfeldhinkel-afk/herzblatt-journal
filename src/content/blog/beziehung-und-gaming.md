@@ -8,6 +8,7 @@ tags:
   - Kommunikation
 date: 2025-11-26
 image: "/images/blog/beziehung-und-gaming.webp"
+imageAlt: "Gaming und Beziehung: Wenn Leidenschaft auf Partnerschaft..."
 author: "sarah-kellner"
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

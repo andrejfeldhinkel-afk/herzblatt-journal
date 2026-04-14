@@ -1,5 +1,5 @@
 ---
-title: "Wut in Beziehungen: Wie du Ärger gesund ausdrückst statt zu explodieren oder zu schweigen"
+title: "Wut in Beziehungen gesund ausdrücken — Ärger fair zeigen"
 description: "Wut in Beziehungen muss nicht zerstörerisch sein. Lerne, Ärger als Botschafter zu nutzen, gesund auszudrücken und konstruktiv zu streiten."
 date: 2026-03-21
 tags:

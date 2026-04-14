@@ -4,6 +4,7 @@ description: "Dating als schwangere Frau: Praktische Tipps und psychologische Ei
 keywords: ["dating als schwangere frau", "beziehung", "dating", "psychologie", "dating schwangere", "schwangere frau:"]
 date: 2025-10-27
 image: "/images/blog/schwangerschaft-dating-single-mama.webp"
+imageAlt: "Dating als schwangere Frau: Akzeptierung und Liebe"
 tags: ["Beziehung", "Dating", "Psychologie"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

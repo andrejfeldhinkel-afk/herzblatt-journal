@@ -4,6 +4,7 @@ description: "Transparenz ist nicht das gleiche wie Privatsphäre. Wir zeigen di
 date: 2025-12-15
 author: "sarah-kellner"
 image: "/images/blog/privatsphaere-beziehung-guide.webp"
+imageAlt: "Privatsphäre in der Beziehung — Wie viel Geheimnis ist"
 draft: false
 tags:
   - "Beziehung"

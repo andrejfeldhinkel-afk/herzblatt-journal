@@ -4,6 +4,7 @@ description: "Unabhängigkeit in der Beziehung bewahren: Praktische Tipps und ps
 keywords: ["unabhängigkeit in der beziehung bewahren", "beziehung", "selbstliebe", "grenzen", "unabhängigkeit beziehung", "beziehung bewahren"]
 date: 2025-07-13
 image: "/images/blog/unabhaengigkeit-in-beziehung.webp"
+imageAlt: "Unabhängigkeit in der Beziehung bewahren"
 tags: ["Beziehung", "Selbstliebe", "Grenzen"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

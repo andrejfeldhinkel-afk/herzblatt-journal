@@ -4,6 +4,7 @@ description: "Warum manche Menschen zum minimalistischem Dating-Ansatz wechseln.
 keywords: ["minimalistisches dating", "beziehung", "dating", "psychologie", "minimalistisches dating:", "dating: weniger"]
 date: 2025-12-23
 image: "/images/blog/minimalistisches-webdesign.webp"
+imageAlt: "Minimalistisches Dating: Weniger ist mehr"
 tags: ["Beziehung", "Dating", "Psychologie"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

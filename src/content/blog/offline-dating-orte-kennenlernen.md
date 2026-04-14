@@ -4,6 +4,7 @@ description: "Offline Dating — Die besten Tipps und Strategien für erfolgreic
 keywords: ["offline dating", "date ideen", "dating", "offline dating:", "dating: beste", "beste orte"]
 date: 2025-10-30
 image: "/images/blog/offline-dating-orte-kennenlernen.webp"
+imageAlt: "Offline Dating: Beste Orte"
 tags: ["Date-Ideen", "Dating"]
 faq:
   - question: "Was sollte man beim Dating beachten?"

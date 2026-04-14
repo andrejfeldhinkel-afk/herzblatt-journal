@@ -1,5 +1,5 @@
 ---
-title: "Somatic Experiencing bei Bindungstrauma: Wie dein Körper Beziehungswunden heilt"
+title: "Somatic Experiencing: Bindungstrauma im Körper heilen"
 description: "Somatic Experiencing nach Peter Levine erklärt: Wie Bindungstrauma im Körper gespeichert wird und wie du es durch körperorientierte Therapie auflösen kannst."
 date: 2026-04-10
 tags:

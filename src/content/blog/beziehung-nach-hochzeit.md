@@ -4,6 +4,7 @@ description: "Die ersten Ehejahre: Praktische Tipps und psychologische Einblicke
 keywords: ["die ersten ehejahre", "beziehung", "hochzeit", "ersten ehejahre"]
 date: 2025-11-25
 image: "/images/blog/beziehung-nach-hochzeit.webp"
+imageAlt: "Die ersten Ehejahre"
 tags: ["Beziehung", "Hochzeit"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

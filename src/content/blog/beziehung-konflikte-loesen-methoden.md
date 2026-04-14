@@ -4,6 +4,7 @@ description: "5 Methoden Konflikte zu lösen: Streit muss nicht destruktiv sein 
 keywords: ["5 methoden konflikte zu lösen", "konflikte", "paartherapie", "methoden konflikte", "konflikte lösen"]
 date: 2025-04-16
 image: "/images/blog/beziehung-konflikte-loesen-methoden.webp"
+imageAlt: "5 Methoden Konflikte zu lösen"
 tags: ["Konflikte", "Paartherapie"]
 faq:
   - question: "Wie löst man Konflikte in der Beziehung?"

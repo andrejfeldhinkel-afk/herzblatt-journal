@@ -4,6 +4,7 @@ description: "Gemeinsam meditieren als Paar — Entdecke, wie du deine Partnersc
 keywords: ["gemeinsam meditieren als paar", "beziehung", "gesundheit", "gemeinsam meditieren", "meditieren paar"]
 date: 2025-08-14
 image: "/images/blog/beziehung-gemeinsam-meditieren.webp"
+imageAlt: "Gemeinsam meditieren als Paar"
 tags: ["Beziehung", "Gesundheit"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

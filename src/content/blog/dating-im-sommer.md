@@ -4,6 +4,7 @@ description: "Sommer-Dating: Heiße Tipps für heiße Tage — Praktische Dating
 keywords: ["sommer-dating", "dating", "date ideen", "lifestyle", "sommer-dating: heiße", "heiße tipps"]
 date: 2025-09-02
 image: "/images/blog/dating-im-sommer.webp"
+imageAlt: "Sommer-Dating: Heiße Tipps für heiße Tage"
 tags: ["Dating", "Date-Ideen", "Lifestyle"]
 faq:
   - question: "Wie lange sollte man daten bevor man zusammenkommt?"

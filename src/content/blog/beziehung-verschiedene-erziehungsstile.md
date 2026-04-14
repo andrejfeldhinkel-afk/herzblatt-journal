@@ -4,6 +4,7 @@ description: "Verschiedene Erziehungsstile als Paar — Erfahre bewährte Strate
 keywords: ["verschiedene erziehungsstile als paar", "beziehung", "familie", "kommunikation", "zusammenleben", "grenzen"]
 date: 2025-04-04
 image: "/images/blog/beziehung-verschiedene-erziehungsstile.webp"
+imageAlt: "Verschiedene Erziehungsstile als Paar"
 tags: ["Beziehung", "Familie", "Kommunikation", "Zusammenleben", "Grenzen"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

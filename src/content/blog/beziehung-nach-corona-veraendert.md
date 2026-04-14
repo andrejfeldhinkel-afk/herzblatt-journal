@@ -4,6 +4,7 @@ description: "Corona hat uns alle verändert. Manche Beziehungen überlebten. An
 keywords: ["beziehung nach corona", "beziehung", "lebensphasen", "kommunikation", "zusammenleben", "heilung"]
 date: 2025-11-17
 image: "/images/blog/beziehung-nach-corona-veraendert.webp"
+imageAlt: "Beziehung nach Corona – Wir sind nicht mehr die gleichen"
 tags: ["Beziehung", "Lebensphasen", "Kommunikation", "Zusammenleben", "Heilung"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

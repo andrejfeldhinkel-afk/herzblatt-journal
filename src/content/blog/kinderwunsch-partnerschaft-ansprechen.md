@@ -4,6 +4,7 @@ description: "Kinderwunsch in der Partnerschaft ansprechen: Praktische Tipps und
 keywords: ["kinderwunsch in der partnerschaft ansprechen", "beziehung", "dating", "psychologie", "kinderwunsch partnerschaft", "partnerschaft ansprechen"]
 date: 2025-12-17
 image: "/images/blog/kinderwunsch-partnerschaft-ansprechen.webp"
+imageAlt: "Kinderwunsch in der Partnerschaft ansprechen"
 tags: ["Beziehung", "Dating", "Psychologie"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

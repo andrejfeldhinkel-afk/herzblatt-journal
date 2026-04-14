@@ -4,6 +4,7 @@ description: "Minimalistisch daten — Die besten Tipps und Strategien für erfo
 keywords: ["minimalistisch daten", "dating"]
 date: 2025-12-29
 image: "/images/blog/dating-minimalistisch.webp"
+imageAlt: "Minimalistisch daten"
 tags: ["Dating"]
 faq:
   - question: "Wie lange sollte man daten bevor man zusammenkommt?"

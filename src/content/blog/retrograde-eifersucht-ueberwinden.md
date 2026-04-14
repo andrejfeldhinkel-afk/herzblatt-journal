@@ -1,5 +1,5 @@
 ---
-title: "Retrograde Eifersucht — wenn die Vergangenheit des Partners zur Qual wird"
+title: "Retrograde Eifersucht: Wenn die Vergangenheit quält"
 description: "Retrograde Eifersucht überwinden: Konkrete Strategien gegen Eifersucht auf die Vergangenheit deines Partners. Tipps für mehr Vertrauen."
 date: 2026-04-13
 tags:

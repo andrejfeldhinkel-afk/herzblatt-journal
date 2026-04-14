@@ -4,6 +4,7 @@ description: "Deine Beziehung nach der Elternzeit wieder aufbauen. Praktische Ti
 keywords: ["beziehung nach elternzeit", "beziehung", "beziehung nach", "nach elternzeit:", "elternzeit: wiederfinden", "wiederfinden paar"]
 date: 2025-05-05
 image: "/images/blog/beziehung-nach-elternzeit-zurueckfinden.webp"
+imageAlt: "Beziehung nach Elternzeit: Wiederfinden als Paar"
 tags: ["Beziehung"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

@@ -4,6 +4,7 @@ description: "Lerne, wie du eine Beziehung würdevoll und respektvoll beenden ka
 date: 2025-04-15
 author: "sarah-kellner"
 image: "/images/blog/conscious-uncoupling-trennung-guide.webp"
+imageAlt: "Conscious Uncoupling — Bewusste Trennung ohne Zerstörung"
 categories:
   - "Beziehung"
 tags:

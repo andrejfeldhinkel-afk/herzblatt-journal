@@ -23,7 +23,7 @@ faq:
     answer: "Ja, wenn beide Partner willens sind, die Muster zu erkennen und zu ändern. Ohne Bewusstsein und Veränderung führen Mikroaggressionen jedoch zu erosivem Groll und Distanz."
 ---
 
-# Mikroaggressionen in der Beziehung erkennen und stoppen
+## Mikroaggressionen in der Beziehung erkennen und stoppen
 
 Es ist ein Samstagmorgen. Du wachst auf, und dein Partner sagt: „Du siehst müde aus. Letzte Nacht hast du wieder geschnarcht." Es ist keine große Beleidigung. Aber irgendetwas daran fühlt sich verletzend an.
 

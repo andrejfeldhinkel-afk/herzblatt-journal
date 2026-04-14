@@ -4,6 +4,7 @@ description: "Der große Streit-Guide für Paare: Streit muss nicht destruktiv s
 keywords: ["der große streit-guide für paare", "konflikte", "kommunikation", "beziehung", "große streit-guide", "streit-guide paare"]
 date: 2025-12-31
 image: "/images/blog/beziehung-streit-guide.webp"
+imageAlt: "Der große Streit-Guide für Paare"
 tags: ["Konflikte", "Kommunikation", "Beziehung"]
 faq:
   - question: "Wie löst man Konflikte in der Beziehung?"

@@ -1,5 +1,5 @@
 ---
-title: "Schematherapie in der Beziehung: Lebensfallen erkennen und durchbrechen"
+title: "Schematherapie in der Beziehung: Lebensfallen durchbrechen"
 description: "Schematherapie einfach erklärt: Wie Lebensfallen wie Verlassenheit, Misstrauen und Unzulänglichkeit deine Beziehung sabotieren — und wie du sie auflöst."
 date: 2026-04-08
 tags:

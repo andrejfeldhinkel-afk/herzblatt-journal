@@ -4,6 +4,7 @@ description: "Die Routine hat deine Beziehung verdorben. Hier ist, wie du und de
 keywords: ["beziehung wieder spannend machen", "beziehung", "intimität", "date ideen", "selbstliebe", "kommunikation"]
 date: 2025-08-27
 image: "/images/blog/beziehung-langweilig-spannend-machen.webp"
+imageAlt: "Beziehung wieder spannend machen"
 tags: ["Beziehung", "Intimität", "Date-Ideen", "Selbstliebe", "Kommunikation"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

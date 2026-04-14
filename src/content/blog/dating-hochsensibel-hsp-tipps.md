@@ -4,6 +4,7 @@ description: "Dating als HSP — Dein umfassender Ratgeber auf Herzblatt Journal
 keywords: ["dating als hsp", "neurodiversität", "dating hsp:", "hsp: dein", "dein guide"]
 date: 2025-08-08
 image: "/images/blog/dating-hochsensibel-hsp-tipps.webp"
+imageAlt: "Dating als HSP: Dein Guide"
 tags: ["Neurodiversität"]
 faq:
   - question: "Für wen ist dieser Ratgeber geeignet?"

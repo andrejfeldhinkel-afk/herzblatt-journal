@@ -4,6 +4,7 @@ description: "Gemeinsame Hobbys finden: Praktische Tipps und psychologische Einb
 keywords: ["gemeinsame hobbys finden", "beziehung", "date ideen", "gemeinsame hobbys", "hobbys finden"]
 date: 2025-10-11
 image: "/images/blog/hobbys-gemeinsam-entdecken.webp"
+imageAlt: "Gemeinsame Hobbys finden"
 tags: ["Beziehung", "Date-Ideen"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

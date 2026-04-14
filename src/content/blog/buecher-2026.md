@@ -4,6 +4,7 @@ description: "Die besten Dating und Beziehungsbücher 2026: Praktische Tipps und
 keywords: ["die besten dating und beziehungsbücher 2026", "beziehung", "dating", "besten dating", "dating beziehungsbücher", "beziehungsbücher 2026"]
 date: 2025-05-11
 image: "/images/blog/buecher-2026.webp"
+imageAlt: "Die besten Dating und Beziehungsbücher 2026"
 tags: ["Beziehung", "Dating"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

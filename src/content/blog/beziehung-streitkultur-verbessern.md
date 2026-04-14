@@ -4,6 +4,7 @@ description: "Wie du und dein Partner konstruktiv streiten könnt. Techniken fü
 keywords: ["streitkultur verbessern", "beziehung", "kommunikation", "konflikte", "streitkultur verbessern:", "verbessern: fair"]
 date: 2025-06-24
 image: "/images/blog/beziehung-streitkultur-verbessern.webp"
+imageAlt: "Streitkultur verbessern: Fair kämpfen in Beziehungen"
 tags: ["Beziehung", "Kommunikation", "Konflikte"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

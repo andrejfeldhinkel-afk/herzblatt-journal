@@ -4,6 +4,7 @@ description: "Geld ist die Nummer-eins Grund für Paarkonflikte. Hier ist wie du
 keywords: ["finanzplanung als paar", "beziehung", "finanzen", "kommunikation", "zusammenleben", "vertrauen"]
 date: 2025-05-30
 image: "/images/blog/beziehung-finanzplanung-paare.webp"
+imageAlt: "Finanzplanung als Paar – Geld ist nicht die Größte Heraus..."
 tags: ["Beziehung", "Finanzen", "Kommunikation", "Zusammenleben", "Vertrauen"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

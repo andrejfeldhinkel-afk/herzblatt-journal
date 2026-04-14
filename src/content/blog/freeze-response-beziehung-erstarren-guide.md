@@ -1,5 +1,5 @@
 ---
-title: "Freeze Response in Beziehungen: Wenn du in Konflikten erstarrst"
+title: "Freeze Response: Wenn du in Konflikten erstarrst"
 description: "Freeze Response erklärt: Warum du bei Beziehungskonflikten erstarrst, nicht mehr sprechen kannst und dich wie gelähmt fühlst — und wie du daraus auftaust."
 date: 2026-04-02
 tags:

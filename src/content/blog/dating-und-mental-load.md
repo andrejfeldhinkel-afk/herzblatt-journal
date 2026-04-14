@@ -4,6 +4,7 @@ description: "Dating und Mental Load — Praktische Dating-Ratschläge, die wirk
 keywords: ["dating und mental load", "dating", "selbstliebe", "psychologie", "kommunikation", "dating mental"]
 date: 2025-05-01
 image: "/images/blog/dating-und-mental-load.webp"
+imageAlt: "Dating und Mental Load: Wenn Dating selbst Stress ist"
 tags: ["Dating", "Selbstliebe", "Psychologie", "Kommunikation"]
 faq:
   - question: "Wie lange sollte man daten bevor man zusammenkommt?"

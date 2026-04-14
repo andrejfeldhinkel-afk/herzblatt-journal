@@ -4,6 +4,7 @@ description: "Dating-Apps im Vergleich 2026 — Dein umfassender Ratgeber auf He
 keywords: ["dating-apps im vergleich 2026", "dating apps", "dating-apps vergleich", "vergleich 2026"]
 date: 2025-06-28
 image: "/images/blog/dating-app-vergleich-2026.webp"
+imageAlt: "Dating-Apps im Vergleich 2026"
 tags: ["Dating-Apps"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

@@ -4,6 +4,7 @@ description: "Das Rebecca-Syndrom (retrograde Eifersucht) macht dich wahnsinnig?
 keywords: ["rebecca syndrom", "eifersucht auf die ex", "retrograde eifersucht", "eifersucht ex partner", "rebecca syndrom überwinden"]
 date: 2025-12-11
 image: "/images/blog/eifersucht-ex-partner-rebecca-syndrom.webp"
+imageAlt: "Rebecca-Syndrom: Eifersucht auf die Ex verstehen & überwi..."
 tags: ["Eifersucht", "Psychologie"]
 faq:
   - question: "Was ist das Rebecca-Syndrom?"

@@ -4,6 +4,7 @@ description: "Situationship erkennen und handeln — Dein umfassender Ratgeber a
 keywords: ["situationship erkennen und handeln", "single leben", "situationship erkennen", "erkennen handeln"]
 date: 2025-12-31
 image: "/images/blog/situationship-erkennen-umgehen.webp"
+imageAlt: "Situationship erkennen und handeln"
 tags: ["Single-Leben"]
 faq:
   - question: "Was ist Situationship  und handeln?"

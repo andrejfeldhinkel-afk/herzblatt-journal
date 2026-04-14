@@ -4,6 +4,7 @@ description: "Unsicherheit beim Dating — Praktische Dating-Ratschläge, die wi
 keywords: ["unsicherheit beim dating", "dating", "selbstliebe", "psychologie", "vertrauen", "unsicherheit beim"]
 date: 2025-10-21
 image: "/images/blog/dating-unsicherheit-ueberwinden.webp"
+imageAlt: "Unsicherheit beim Dating: Vertrauen in dich selbst entwic..."
 tags: ["Dating", "Selbstliebe", "Psychologie", "Vertrauen"]
 faq:
   - question: "Wie lange sollte man daten bevor man zusammenkommt?"

@@ -1,5 +1,5 @@
 ---
-title: "Trauma-informiert Daten: Der komplette Guide für einen sicheren Neustart"
+title: "Trauma-informiert Daten: Der sichere Neustart"
 description: "Trauma-informiert daten bedeutet: Dein Nervensystem verstehen, Trigger erkennen und bewusst daten — nach toxischer Beziehung, Missbrauch oder Kindheitstrauma."
 date: 2026-03-23
 tags:

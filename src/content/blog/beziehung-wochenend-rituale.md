@@ -4,6 +4,7 @@ description: "Wie du durch regelmäßige Wochenend-Rituale deine Beziehung stär
 keywords: ["wochenend-rituale", "beziehung", "wochenend-rituale: qualitätszeit", "qualitätszeit deinem", "deinem partner"]
 date: 2025-05-05
 image: "/images/blog/beziehung-wochenend-rituale.webp"
+imageAlt: "Wochenend-Rituale: Qualitätszeit mit deinem Partner"
 tags: ["Beziehung"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

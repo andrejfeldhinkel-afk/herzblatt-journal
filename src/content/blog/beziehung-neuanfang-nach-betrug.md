@@ -4,6 +4,7 @@ description: "Beziehung nach Betrug — Dein umfassender Ratgeber auf Herzblatt 
 keywords: ["beziehung nach betrug", "vertrauen", "beziehung nach", "nach betrug:", "betrug: neuanfang"]
 date: 2025-12-23
 image: "/images/blog/beziehung-neuanfang-nach-betrug.webp"
+imageAlt: "Beziehung nach Betrug: Neuanfang"
 tags: ["Vertrauen"]
 faq:
   - question: "Wie baut man Vertrauen in einer Beziehung auf?"

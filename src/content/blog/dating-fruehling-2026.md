@@ -4,6 +4,7 @@ description: "Frühling 2026: Dating-Trends und Tipps — Praktische Dating-Rats
 keywords: ["frühling 2026", "dating", "lifestyle", "ratgeber", "frühling 2026:", "2026: dating-trends"]
 date: 2026-03-10
 image: "/images/blog/dating-fruehling-2026.webp"
+imageAlt: "Frühling 2026: Dating-Trends und Tipps"
 tags: ["Dating", "Lifestyle", "Ratgeber"]
 faq:
   - question: "Was sollte man beim Dating beachten?"

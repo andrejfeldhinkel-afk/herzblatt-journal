@@ -4,6 +4,7 @@ description: "Wie du nach einem Vertrauensbruch wieder daten kannst. Strategien,
 keywords: ["dating nach betrug", "beziehung", "dating", "dating nach", "nach betrug:", "betrug: vertrauen"]
 date: 2025-04-19
 image: "/images/blog/dating-nach-betrug.webp"
+imageAlt: "Dating nach Betrug: Vertrauen wieder aufbauen"
 tags: ["Beziehung", "Dating"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

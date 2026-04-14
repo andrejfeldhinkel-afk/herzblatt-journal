@@ -1,5 +1,5 @@
 ---
-title: "Ängstlicher Bindungsstil: Wenn die Angst vor Verlust alles dominiert"
+title: "Ängstlicher Bindungsstil: Wenn Verlustangst dominiert"
 description: "Ängstlicher Bindungsstil erkennen: Typische Merkmale, Ursprünge in der Kindheit und konkrete Strategien zur Selbstregulation in deiner Beziehung."
 date: 2026-04-14
 image: "/images/blog/aengstlicher-bindungsstil.webp"

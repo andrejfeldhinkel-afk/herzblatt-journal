@@ -1,5 +1,5 @@
 ---
-title: "Beziehung nach 30: Wie sich die Liebe verändert — und warum das gut ist"
+title: "Beziehung nach 30: Wie sich die Liebe verändert"
 description: "Beziehung nach 30 — warum sich Partnerschaften ab 30 verändern, was Paare anders machen und wie die Liebe reifer und stärker wird."
 date: 2026-04-13
 tags:

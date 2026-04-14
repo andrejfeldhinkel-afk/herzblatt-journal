@@ -4,6 +4,7 @@ description: "Trauer in der Beziehung: Praktische Tipps und psychologische Einbl
 keywords: ["trauer in der beziehung", "beziehung", "heilung", "psychologie", "trauer beziehung:", "beziehung: gemeinsam"]
 date: 2025-07-07
 image: "/images/blog/beziehung-und-trauer.webp"
+imageAlt: "Trauer in der Beziehung: Gemeinsam durch den Schmerz"
 tags: ["Beziehung", "Heilung", "Psychologie"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

@@ -4,6 +4,7 @@ description: "Vertrauen in der Fernbeziehung — Erfahre bewährte Strategien un
 keywords: ["vertrauen in der fernbeziehung", "beziehung", "fernbeziehung", "vertrauen", "vertrauen fernbeziehung"]
 date: 2025-09-05
 image: "/images/blog/fernbeziehung-vertrauen-aufbauen.webp"
+imageAlt: "Vertrauen in der Fernbeziehung"
 tags: ["Beziehung", "Fernbeziehung", "Vertrauen"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

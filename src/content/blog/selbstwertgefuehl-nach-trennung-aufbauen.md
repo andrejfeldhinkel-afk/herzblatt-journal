@@ -23,7 +23,7 @@ faq:
     answer: "Sehr normal. Schuld ist oft eine Schutzmechanismus: Sie gibt dir ein Gefühl von 'Kontrolle'. Wenn es deine Schuld war, kannst du es verhindern. Aber die Wahrheit ist: Trennungen sind komplex, nicht einseitig. Erkenne diese Schuldgefühle, akzeptiere sie, und lass sie gehen. Sie sind nicht deine Wahrheit."
 ---
 
-# Selbstwertgefühl nach Trennung aufbauen: Der 8-Wochen-Plan
+## Selbstwertgefühl nach Trennung aufbauen: Der 8-Wochen-Plan
 
 Eine Trennung tut weh. Das ist kein Drama, das ist Realität. Und während dein Herz schmerzt, sinkt oft auch dein Selbstwertgefühl – manchmal dramatisch. Du fragst dich: "Bin ich nicht gut genug? War es meine Schuld? Bin ich unloyal? Kann ich je wieder lieben?"
 

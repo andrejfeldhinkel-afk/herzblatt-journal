@@ -4,6 +4,7 @@ description: "Der Doomscrolling-Effekt bei Dating-Apps ist real. Erfahre, wie du
 keywords: ["doomscrolling-effekt beim dating", "ratgeber", "doomscrolling-effekt beim", "beim dating:", "dating: wenn", "wenn dein"]
 date: 2025-12-24
 image: "/images/blog/dating-doomscrolling-effekt.webp"
+imageAlt: "Doomscrolling-Effekt beim Dating"
 tags: ["Ratgeber"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

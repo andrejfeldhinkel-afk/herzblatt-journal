@@ -23,7 +23,7 @@ faq:
     answer: "Nicht automatisch. Viele erfolgreiche Beziehungen haben einen Partner mit Beziehungsangst überwunden – weil dieser Partner bereit war, daran zu arbeiten. Es ist ein Dealbreaker, wenn er/sie daran NICHT arbeiten will oder es leugnet."
 ---
 
-# Beziehungsangst beim Mann erkennen und richtig reagieren
+## Beziehungsangst beim Mann erkennen und richtig reagieren
 
 Du bist in einer Beziehung mit einem Mann, und etwas stimmt nicht. Er ist liebevoll an manchen Tagen, dann plötzlich distanziert. Er spricht nicht über die Zukunft. Er zieht sich zurück, wenn es zu nah wird. Du fragst dich: "Liebt er mich nicht genug? Ist das nur so, wie er ist? Oder hat er Beziehungsangst?"
 

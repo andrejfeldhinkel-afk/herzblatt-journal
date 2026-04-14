@@ -4,6 +4,7 @@ description: "Persönlichkeitstypen und Partnersuche: Was die Psychologie über 
 keywords: ["persönlichkeitstypen und partnersuche", "psychologie", "partnersuche", "persönlichkeitstypen partnersuche:", "partnersuche: passt", "passt wem?"]
 date: 2025-04-09
 image: "/images/blog/persoenlichkeitstypen-partnersuche.webp"
+imageAlt: "Persönlichkeitstypen und Partnersuche: Wer passt zu wem?"
 tags: ["Psychologie", "Partnersuche"]
 faq:
   - question: "Kann man Beziehungsmuster verändern?"

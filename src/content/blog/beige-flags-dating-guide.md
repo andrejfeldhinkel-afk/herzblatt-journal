@@ -16,6 +16,7 @@ keywords:
   - "Dating Tipps"
   - "Beige Flag Beispiele"
 image: "/images/blog/beige-flags-dating-guide.webp"
+imageAlt: "Beige Flags — Die langweiligen Warnsignale beim Dating"
 draft: false
 faq:
   - question: "Was sind Beige Flags im Dating?"

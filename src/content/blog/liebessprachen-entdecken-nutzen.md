@@ -4,6 +4,7 @@ description: "Die 5 Liebessprachen entdecken und nutzen: Praktische Tipps und ps
 keywords: ["die 5 liebessprachen entdecken und nutzen", "beziehung", "psychologie", "kommunikation", "liebessprachen entdecken", "entdecken nutzen"]
 date: 2025-11-01
 image: "/images/blog/liebessprachen-entdecken-nutzen.webp"
+imageAlt: "Die 5 Liebessprachen entdecken und nutzen"
 tags: ["Beziehung", "Psychologie", "Kommunikation"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

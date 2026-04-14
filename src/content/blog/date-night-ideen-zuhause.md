@@ -4,6 +4,7 @@ description: "30 kreative Date-Night-Ideen für zuhause. Von Kochkursen bis Film
 keywords: ["date night zuhause", "ratgeber", "date night", "night zuhause:", "zuhause: ideen"]
 date: 2025-06-22
 image: "/images/blog/date-night-ideen-zuhause.webp"
+imageAlt: "Date Night zuhause: 30 Ideen"
 tags: ["Ratgeber"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

@@ -4,6 +4,7 @@ description: "Beziehungs-Meilensteine feiern — Erfahre bewährte Strategien un
 keywords: ["beziehungs-meilensteine feiern", "beziehung", "dating", "psychologie", "beziehungs-meilensteine feiern:", "feiern: wichtigen"]
 date: 2025-09-11
 image: "/images/blog/meilensteine-beziehung-feiern.webp"
+imageAlt: "Beziehungs-Meilensteine feiern: Die wichtigen Momente"
 tags: ["Beziehung", "Dating", "Psychologie"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

@@ -4,6 +4,7 @@ description: "4 Beziehungstypen — Psychologische Hintergründe verstehen und f
 keywords: ["4 beziehungstypen", "psychologie", "beziehung", "bindungstypen", "beziehungstypen: welcher", "welcher bist"]
 date: 2025-12-15
 image: "/images/blog/vier-beziehungstypen-welcher-bist-du.webp"
+imageAlt: "4 Beziehungstypen: Welcher bist du?"
 tags: ["Psychologie", "Beziehung", "Bindungstypen"]
 faq:
   - question: "Welche Rolle spielt Psychologie in Beziehungen?"

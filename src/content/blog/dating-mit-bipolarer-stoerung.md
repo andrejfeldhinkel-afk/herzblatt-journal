@@ -4,6 +4,7 @@ description: "Wie du beim Dating mit bipolarer Störung umgehen kannst. Tipps f�
 keywords: ["dating mit bipolarer störung", "beziehung", "dating", "dating bipolarer", "bipolarer störung:", "störung: liebe"]
 date: 2025-08-11
 image: "/images/blog/dating-mit-bipolarer-stoerung.webp"
+imageAlt: "Dating mit bipolarer Störung"
 tags: ["Beziehung", "Dating"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

@@ -4,6 +4,7 @@ description: "Heilung nach einer toxischen Beziehung: Warum Selbstliebe der Schl
 keywords: ["heilung nach einer toxischen beziehung", "heilung", "red flags", "selbstliebe", "heilung nach", "nach einer"]
 date: 2025-08-05
 image: "/images/blog/nach-toxischer-beziehung-heilen.webp"
+imageAlt: "Heilung nach einer toxischen Beziehung"
 tags: ["Heilung", "Red Flags", "Selbstliebe"]
 faq:
   - question: "Wie heilt man ein gebrochenes Herz?"

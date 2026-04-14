@@ -4,6 +4,7 @@ description: "Throning ist ein Dating-Trend, bei dem dein Partner dich nur als A
 date: 2025-12-15
 author: "markus-hoffmann"
 image: "/images/blog/throning-dating-trend-guide.webp"
+imageAlt: "Throning — Wenn du nur als Statussymbol datst"
 alt: "Zwei Menschen auf einer eleganten Party, wo einer seinen Partner wie ein Statussymbol zur Schau stellt"
 tags:
   - "Dating"

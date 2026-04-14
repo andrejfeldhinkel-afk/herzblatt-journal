@@ -4,6 +4,7 @@ description: "Das Handy zerstört Beziehungen. Hier ist eine konkrete Challenge,
 keywords: ["digital detox challenge für paare", "beziehung", "digital detox", "kommunikation", "intimität", "lifestyle"]
 date: 2025-06-18
 image: "/images/blog/beziehung-digital-detox-challenge.webp"
+imageAlt: "Digital Detox Challenge für Paare"
 tags: ["Beziehung", "Digital Detox", "Kommunikation", "Intimität", "Lifestyle"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

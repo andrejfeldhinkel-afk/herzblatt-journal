@@ -4,6 +4,7 @@ description: "Wie du Vertrauen in deiner Beziehung nach wiederholten Lügen wied
 keywords: ["vertrauen nach lügen aufbauen", "beziehung", "vertrauen", "kommunikation", "vertrauen nach", "nach lügen"]
 date: 2025-12-07
 image: "/images/blog/beziehung-vertrauen-luegen-wiederaufbau.webp"
+imageAlt: "Vertrauen nach Lügen aufbauen: Schritt für Schritt"
 tags: ["Beziehung", "Vertrauen", "Kommunikation"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

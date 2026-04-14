@@ -4,6 +4,7 @@ description: "Dating und Körperbild — Lerne, dich selbst wertzuschätzen und 
 keywords: ["dating und körperbild", "selbstliebe", "dating körperbild"]
 date: 2025-05-17
 image: "/images/blog/dating-und-koerperimage.webp"
+imageAlt: "Dating und Körperbild"
 tags: ["Selbstliebe"]
 faq:
   - question: "Warum ist Selbstliebe wichtig für Beziehungen?"

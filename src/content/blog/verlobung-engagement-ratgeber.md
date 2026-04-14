@@ -4,6 +4,7 @@ description: "Verlobung Ratgeber — Entdecke, wie du deine Partnerschaft nachha
 keywords: ["verlobung ratgeber", "beziehung", "hochzeit", "verlobung ratgeber:", "ratgeber: wenn", "wenn antrag"]
 date: 2025-05-16
 image: "/images/blog/verlobung-engagement-ratgeber.webp"
+imageAlt: "Verlobung Ratgeber: Wenn es zum Antrag kommt"
 tags: ["Beziehung", "Hochzeit"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

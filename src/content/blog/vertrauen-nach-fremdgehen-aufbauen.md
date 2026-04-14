@@ -1,5 +1,5 @@
 ---
-title: "Vertrauen nach Fremdgehen wieder aufbauen: Schritt für Schritt"
+title: "Vertrauen nach Fremdgehen aufbauen: Schritt für Schritt"
 description: "Fremdgehen zerstört Vertrauen. Mit diesen praktischen Schritten könnt ihr wieder zusammenwachsen und tiefere Liebe aufbauen."
 date: 2026-04-06
 image: "/images/photos/vertrauen-nach-fremdgehen-aufbauen.webp"

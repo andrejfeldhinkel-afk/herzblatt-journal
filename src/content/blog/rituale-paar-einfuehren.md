@@ -4,6 +4,7 @@ description: "Paar-Rituale — Erfahre bewährte Strategien und Expertentipps f�
 keywords: ["paar-rituale", "beziehung", "date ideen", "paar-rituale: gewohnheiten"]
 date: 2025-07-26
 image: "/images/blog/rituale-paar-einfuehren.webp"
+imageAlt: "Paar-Rituale: 12 Gewohnheiten"
 tags: ["Beziehung", "Date-Ideen"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

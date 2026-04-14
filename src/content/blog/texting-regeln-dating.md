@@ -4,6 +4,7 @@ description: "Texting-Regeln beim Dating — Die besten Strategien für Online-D
 keywords: ["texting-regeln beim dating", "online dating", "kommunikation", "flirten", "texting-regeln beim", "beim dating"]
 date: 2025-11-11
 image: "/images/blog/texting-regeln-dating.webp"
+imageAlt: "Texting-Regeln beim Dating"
 tags: ["Online-Dating", "Kommunikation", "Flirten"]
 faq:
   - question: "Wie schreibt man die erste Nachricht?"

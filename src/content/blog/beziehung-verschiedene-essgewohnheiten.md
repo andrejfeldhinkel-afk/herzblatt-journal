@@ -4,6 +4,7 @@ description: "Verschiedene Essgewohnheiten in der Beziehung — Entdecke, wie du
 keywords: ["verschiedene essgewohnheiten in der beziehung", "zusammenleben", "beziehung", "lifestyle", "verschiedene essgewohnheiten", "essgewohnheiten beziehung"]
 date: 2025-08-12
 image: "/images/blog/beziehung-verschiedene-essgewohnheiten.webp"
+imageAlt: "Verschiedene Essgewohnheiten in der Beziehung"
 tags: ["Zusammenleben", "Beziehung", "Lifestyle"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

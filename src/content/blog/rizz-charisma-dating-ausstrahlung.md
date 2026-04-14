@@ -4,6 +4,7 @@ description: "Rizz: Dating-Ausstrahlung steigern — Praktische Dating-Ratschlä
 keywords: ["dating", "flirten", "rizz: dating-ausstrahlung", "dating-ausstrahlung steigern"]
 date: 2025-11-11
 image: "/images/blog/rizz-charisma-dating-ausstrahlung.webp"
+imageAlt: "Rizz: Dating-Ausstrahlung steigern"
 tags: ["Dating", "Flirten"]
 faq:
   - question: "Wie lange sollte man daten bevor man zusammenkommt?"

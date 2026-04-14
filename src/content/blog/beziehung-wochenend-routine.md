@@ -4,6 +4,7 @@ description: "Wochenend-Routinen für Paare — Erfahre bewährte Strategien und
 keywords: ["wochenend-routinen für paare", "beziehung", "lifestyle", "date ideen", "wochenend-routinen paare"]
 date: 2025-12-10
 image: "/images/blog/beziehung-wochenend-routine.webp"
+imageAlt: "Wochenend-Routinen für Paare"
 tags: ["Beziehung", "Lifestyle", "Date-Ideen"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

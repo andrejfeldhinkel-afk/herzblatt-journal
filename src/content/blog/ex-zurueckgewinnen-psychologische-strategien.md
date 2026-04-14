@@ -23,7 +23,7 @@ faq:
     answer: "Das ist kompliziert. Wenn sie mit jemandem ernsthaft zusammen ist, versuch nicht, dich dazwischenzudrängen. Es schadet dir, ihr und dieser Person. Wenn sie sich trennt, und du hast diese Zeit gut genutzt, kannst du sie ansprechen. Aber nicht, während sie besetzt ist."
 ---
 
-# Ex zurückgewinnen: Die ehrlichen psychologischen Strategien
+## Ex zurückgewinnen: Die ehrlichen psychologischen Strategien
 
 "Ich möchte meine Ex zurückgewinnen."
 

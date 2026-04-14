@@ -4,6 +4,7 @@ description: "Selbstschutz beim Online-Dating — Die besten Strategien für Onl
 keywords: ["selbstschutz beim online-dating", "online dating", "ratgeber", "sicherheit", "selbstschutz beim", "beim online-dating"]
 date: 2025-05-12
 image: "/images/blog/selbstschutz-online-dating.webp"
+imageAlt: "Selbstschutz beim Online-Dating"
 tags: ["Online-Dating", "Ratgeber", "Sicherheit"]
 faq:
   - question: "Wie schreibt man die erste Nachricht?"

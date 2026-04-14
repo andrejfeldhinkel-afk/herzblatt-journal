@@ -15,6 +15,7 @@ keywords:
   - "Beziehungszweifel"
   - "Therapie"
 image: "/images/blog/rocd-beziehungszweifel-guide.webp"
+imageAlt: "Relationship OCD (ROCD) — Wenn Zweifel zur Qual werden"
 ---
 ## Einleitung: Die unterschwellende Frage, die nicht verschwindet
 

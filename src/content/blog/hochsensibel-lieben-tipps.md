@@ -4,6 +4,7 @@ description: "Hochsensibel und verliebt — Erfahre bewährte Strategien und Exp
 keywords: ["hochsensibel und verliebt", "beziehung", "neurodiversität", "hochsensibel verliebt"]
 date: 2025-09-04
 image: "/images/blog/hochsensibel-lieben-tipps.webp"
+imageAlt: "Hochsensibel und verliebt"
 tags: ["Beziehung", "Neurodiversität"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

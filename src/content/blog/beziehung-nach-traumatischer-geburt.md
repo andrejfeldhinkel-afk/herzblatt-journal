@@ -4,6 +4,7 @@ description: "Wie deine Beziehung eine traumatische Geburt übersteht. Wiederauf
 keywords: ["beziehung nach traumatischer geburt", "beziehung", "beziehung nach", "nach traumatischer", "traumatischer geburt:", "geburt: wieder"]
 date: 2025-12-01
 image: "/images/blog/beziehung-nach-traumatischer-geburt.webp"
+imageAlt: "Beziehung nach traumatischer Geburt: Wieder zusammenfinden"
 tags: ["Beziehung"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

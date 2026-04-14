@@ -4,6 +4,7 @@ description: "Dating und Haustiere — Erfahre bewährte Strategien und Experten
 keywords: ["dating und haustiere", "beziehung", "dating", "dating haustiere:", "haustiere: wichtiger", "wichtiger faktor"]
 date: 2025-08-19
 image: "/images/blog/dating-und-haustiere.webp"
+imageAlt: "Dating und Haustiere: Ein wichtiger Faktor"
 tags: ["Beziehung", "Dating"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

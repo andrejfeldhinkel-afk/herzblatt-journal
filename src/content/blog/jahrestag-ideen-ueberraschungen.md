@@ -4,6 +4,7 @@ description: "Jahrestag — Erfahre bewährte Strategien und Expertentipps für 
 keywords: ["jahrestag", "beziehung", "date ideen", "lifestyle", "jahrestag: besten", "besten ideen"]
 date: 2025-10-04
 image: "/images/blog/jahrestag-ideen-ueberraschungen.webp"
+imageAlt: "Jahrestag: Die besten Ideen & Überraschungen"
 tags: ["Beziehung", "Date-Ideen", "Lifestyle"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

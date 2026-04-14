@@ -4,6 +4,7 @@ description: "Digitaler Detox als Paar — Entdecke, wie du deine Partnerschaft 
 keywords: ["digitaler detox als paar", "digital detox", "beziehung", "digitaler detox", "detox paar:", "paar: gelingt"]
 date: 2025-07-10
 image: "/images/blog/beziehung-digitaler-detox.webp"
+imageAlt: "Digitaler Detox als Paar: So gelingt es"
 tags: ["Digital Detox", "Beziehung"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

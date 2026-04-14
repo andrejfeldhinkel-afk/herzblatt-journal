@@ -4,6 +4,7 @@ description: "Kommunikationsstile beim Dating — Bessere Kommunikation für st�
 keywords: ["kommunikationsstile beim dating", "kommunikation", "flirten", "kommunikationsstile beim", "beim dating"]
 date: 2025-05-11
 image: "/images/blog/dating-kommunikationsstile.webp"
+imageAlt: "Kommunikationsstile beim Dating"
 tags: ["Kommunikation", "Flirten"]
 faq:
   - question: "Wie kommuniziere ich besser in der Beziehung?"

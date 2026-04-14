@@ -4,6 +4,7 @@ description: "Dating mit Angststörung — Dein umfassender Ratgeber auf Herzbla
 keywords: ["dating mit angststörung", "gesundheit", "dating angststörung"]
 date: 2025-10-14
 image: "/images/blog/dating-mit-angststoerung.webp"
+imageAlt: "Dating mit Angststörung"
 tags: ["Gesundheit"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

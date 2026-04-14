@@ -4,6 +4,7 @@ description: "Dating-Regeln, die du brechen kannst — Die besten Tipps und Stra
 keywords: ["dating-regeln, die du brechen kannst", "dating", "dating-regeln, brechen", "brechen kannst"]
 date: 2025-10-16
 image: "/images/blog/dating-regeln-brechen.webp"
+imageAlt: "Dating-Regeln, die du brechen kannst"
 tags: ["Dating"]
 faq:
   - question: "Wie finde ich den richtigen Partner?"

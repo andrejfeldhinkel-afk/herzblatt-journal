@@ -9,6 +9,7 @@ tags:
   - Kommunikation
 date: 2025-07-10
 image: "/images/blog/beziehung-und-schlaf.webp"
+imageAlt: "Schlafgewohnheiten als Paar"
 author: "sarah-kellner"
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

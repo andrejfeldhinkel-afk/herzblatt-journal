@@ -4,6 +4,7 @@ description: "Dating als Akademiker — Die besten Tipps und Strategien für erf
 keywords: ["dating als akademiker", "dating", "partnersuche", "lebensphasen", "dating akademiker:", "akademiker: hohe"]
 date: 2025-12-17
 image: "/images/blog/dating-fuer-akademiker.webp"
+imageAlt: "Dating als Akademiker: Hohe Ansprüche als Chance"
 tags: ["Dating", "Partnersuche", "Lebensphasen"]
 faq:
   - question: "Was sollte man beim Dating beachten?"

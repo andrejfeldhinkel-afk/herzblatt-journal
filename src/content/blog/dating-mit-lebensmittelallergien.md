@@ -4,6 +4,7 @@ description: "Tipps für erfolgreiches Dating, wenn du Lebensmittelallergien has
 keywords: ["dating mit allergien", "dating", "gesundheit", "kommunikation", "lokales dating", "partnersuche"]
 date: 2025-11-17
 image: "/images/blog/dating-mit-lebensmittelallergien.webp"
+imageAlt: "Dating mit Allergien: Wie du es handhaben und Partner übe..."
 tags: ["Dating", "Gesundheit", "Kommunikation", "Lokales Dating", "Partnersuche"]
 faq:
   - question: "Wie lange sollte man daten bevor man zusammenkommt?"

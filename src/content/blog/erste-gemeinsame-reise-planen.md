@@ -4,6 +4,7 @@ description: "Die erste gemeinsame Reise ist aufregend. Hier sind praktische Tip
 keywords: ["erste gemeinsame reise planen", "ratgeber", "erste gemeinsame", "gemeinsame reise", "reise planen"]
 date: 2025-08-04
 image: "/images/blog/erste-gemeinsame-reise-planen.webp"
+imageAlt: "Erste gemeinsame Reise planen"
 tags: ["Ratgeber"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

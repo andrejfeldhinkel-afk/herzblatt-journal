@@ -5,6 +5,7 @@ keywords: ["dating ab 40", "lebensphasen", "neuanfang", "dating neustart"]
 tags: ["Lebensphasen", "Neuanfang"]
 date: 2025-08-20
 image: "/images/blog/dating-ab-40-neu-starten.webp"
+imageAlt: "Dating ab 40: Neustart"
 author: markus-hoffmann
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

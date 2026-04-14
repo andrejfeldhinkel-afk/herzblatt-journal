@@ -4,6 +4,7 @@ description: "Manipulation in Beziehungen durchschauen — Dein umfassender Ratg
 keywords: ["manipulation in beziehungen durchschauen", "grenzen", "red flags", "manipulation beziehungen", "beziehungen durchschauen"]
 date: 2025-06-15
 image: "/images/blog/manipulation-in-beziehungen.webp"
+imageAlt: "Manipulation in Beziehungen durchschauen"
 tags: ["Grenzen", "Red Flags"]
 faq:
   - question: "Wie reagiere ich auf Red Flags?"

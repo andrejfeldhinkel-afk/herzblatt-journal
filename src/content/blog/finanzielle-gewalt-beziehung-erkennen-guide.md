@@ -1,5 +1,5 @@
 ---
-title: "Finanzielle Gewalt in Beziehungen: Die unsichtbare Form von Kontrolle"
+title: "Finanzielle Gewalt in Beziehungen: Kontrolle erkennen"
 description: "Finanzielle Gewalt erkennen: Wie Economic Abuse in Beziehungen funktioniert, die 15 Warnsignale und wie du dich finanziell befreist."
 date: 2026-03-24
 tags:

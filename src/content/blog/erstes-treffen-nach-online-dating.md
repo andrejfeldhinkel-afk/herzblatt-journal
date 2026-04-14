@@ -4,6 +4,7 @@ description: "Erstes Treffen nach Online-Dating — Die besten Strategien für O
 keywords: ["erstes treffen nach online-dating", "erstes date", "online dating", "erstes treffen", "treffen nach", "nach online-dating"]
 date: 2025-12-11
 image: "/images/blog/erstes-treffen-nach-online-dating.webp"
+imageAlt: "Erstes Treffen nach Online-Dating"
 tags: ["Erstes Date", "Online-Dating"]
 faq:
   - question: "Wie schreibt man die erste Nachricht?"

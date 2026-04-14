@@ -4,6 +4,7 @@ description: "Dating nach toxischer Erfahrung — Praktische Dating-Ratschläge,
 keywords: ["dating nach toxischer erfahrung", "heilung", "sicherheit", "dating", "dating nach", "nach toxischer"]
 date: 2025-08-24
 image: "/images/blog/dating-nach-gewalt-guide.webp"
+imageAlt: "Dating nach toxischer Erfahrung"
 tags: ["Heilung", "Sicherheit", "Dating"]
 faq:
   - question: "Wie lange dauert es, über jemanden hinwegzukommen?"

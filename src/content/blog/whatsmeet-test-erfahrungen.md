@@ -9,6 +9,7 @@ keywords: ["whatsmeet test", "whatsmeet erfahrungen", "whatsmeet kosten", "whats
 draft: false
 author: "markus-hoffmann"
 image: "/images/blog/whatsmeet-test-erfahrungen.webp"
+imageAlt: "WhatsMeet Test & Erfahrungen"
 faq:
   - question: "Was ist WhatsMeet?"
     answer: "WhatsMeet ist eine Chat-basierte Dating-Plattform, die den Fokus auf echte Gespräche statt oberflächliches Swipen legt. Das Konzept erinnert an Messenger-Apps und senkt die Hemmschwelle für den ersten Kontakt. Du wirst direkt mit kompatiblen Singles verbunden und startest einen Chat, statt durch unendliche Profile zu wischen."

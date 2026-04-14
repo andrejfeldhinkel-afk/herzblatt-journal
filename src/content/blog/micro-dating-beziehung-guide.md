@@ -16,6 +16,7 @@ keywords:
   - "Beziehung verbessern"
   - "Intimität"
 image: "/images/blog/micro-dating-beziehung-guide.webp"
+imageAlt: "Micro-Dating — Kleine Momente die eure Beziehung retten"
 draft: false
 faq:
   - question: "Was ist ein Micro-Date?"

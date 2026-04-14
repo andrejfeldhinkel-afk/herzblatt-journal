@@ -4,6 +4,7 @@ description: "Gemeinsame Träume schaffen Nähe. Entdecke 50 inspirierende Ideen
 keywords: ["bucket list für paare", "beziehung", "date ideen", "zusammenleben", "lifestyle", "intimität"]
 date: 2025-07-23
 image: "/images/blog/beziehung-bucket-list.webp"
+imageAlt: "Bucket List für Paare – 50 Momente, die eure Beziehung le..."
 tags: ["Beziehung", "Date-Ideen", "Zusammenleben", "Lifestyle", "Intimität"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

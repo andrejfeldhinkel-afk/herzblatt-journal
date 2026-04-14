@@ -4,6 +4,7 @@ description: "Trauma und Dating — Erfahre bewährte Strategien und Expertentip
 keywords: ["trauma und dating", "beziehung", "dating", "psychologie", "trauma dating:", "dating: vergangenheit"]
 date: 2025-09-06
 image: "/images/blog/trauma-und-dating-heilen.webp"
+imageAlt: "Trauma und Dating: Mit Vergangenheit daten"
 tags: ["Beziehung", "Dating", "Psychologie"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

@@ -4,6 +4,7 @@ description: "Healthy Boundaries beim Kennenlernen — Die besten Tipps und Stra
 keywords: ["healthy boundaries beim kennenlernen", "dating", "psychologie", "healthy boundaries", "boundaries beim", "beim kennenlernen"]
 date: 2025-05-12
 image: "/images/blog/healthy-boundaries-dating-kennenlernen.webp"
+imageAlt: "Healthy Boundaries beim Kennenlernen"
 tags: ["Dating", "Psychologie"]
 faq:
   - question: "Wie lange sollte man daten bevor man zusammenkommt?"

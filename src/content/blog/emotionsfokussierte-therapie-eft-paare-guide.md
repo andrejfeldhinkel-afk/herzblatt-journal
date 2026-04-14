@@ -1,5 +1,5 @@
 ---
-title: "Emotionsfokussierte Therapie (EFT) für Paare: Der komplette Guide nach Sue Johnson"
+title: "Emotionsfokussierte Therapie (EFT): Der Paar-Guide"
 description: "EFT nach Sue Johnson erklärt: Wie Emotionsfokussierte Paartherapie Beziehungsmuster durchbricht und sichere Bindung schafft — mit 9 Schritten und Hold Me Tight."
 date: 2026-04-01
 tags:
@@ -25,7 +25,7 @@ faq:
     answer: "Typischerweise 8-20 Sitzungen. Manche Paare erleben bereits nach 5-6 Sitzungen deutliche Veränderungen. Bei tiefem Bindungstrauma kann es bis zu 30 Sitzungen dauern."
 ---
 
-# Emotionsfokussierte Therapie (EFT) für Paare: Der komplette Guide nach Sue Johnson
+## Emotionsfokussierte Therapie (EFT) für Paare: Der komplette Guide nach Sue Johnson
 
 Wenn du mit deinem Partner in einer Sackgasse feststeckst, wenn Konflikte sich wie ein ewiger Film anfühlen, der immer wieder vom Anfang abspielt, dann kennst du dieses Gefühl: Die Worte sind andere, aber der Tanz ist immer derselbe. Du fragst, sie verteidigt sich. Je mehr du fragst, desto mehr zieht sie sich zurück. Am Ende sitzt ihr euch schweigend gegenüber, jeder verletzt, niemand versteht.
 

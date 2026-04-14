@@ -4,6 +4,7 @@ description: "Wie du dich selbst wieder datierst, während du mit deinen Kindern
 keywords: ["co-parenting und dating", "beziehung", "dating", "co-parenting dating:", "dating: kindern", "kindern anfangen"]
 date: 2025-06-09
 image: "/images/blog/co-parenting-dating.webp"
+imageAlt: "Co-Parenting und Dating: Mit Kindern neu anfangen"
 tags: ["Beziehung", "Dating"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

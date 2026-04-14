@@ -4,6 +4,7 @@ description: "Was ist Breadcrumbing beim Dating und wie erkennst du es? Tipps zu
 keywords: ["breadcrumbing", "beziehung", "dating", "breadcrumbing: wenn", "wenn dich", "dich hinzuhalten"]
 date: 2025-11-01
 image: "/images/blog/breadcrumbing-dating-hinhalten.webp"
+imageAlt: "Breadcrumbing: Wenn er dich hinzuhalten scheint"
 tags: ["Beziehung", "Dating"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

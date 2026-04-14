@@ -1,5 +1,5 @@
 ---
-title: "Komplexe PTBS in Beziehungen: Wenn Kindheitstrauma die Partnerschaft prägt"
+title: "Komplexe PTBS in Beziehungen: cPTSD und Partnerschaft"
 description: "Komplexe PTBS (kPTBS) in Beziehungen erklärt: Wie Kindheitstrauma Partnerschaften beeinflusst, welche Symptome auftreten und was wirklich hilft."
 date: 2026-03-28
 tags:
@@ -31,7 +31,7 @@ Komplexe PTBS ist nicht einfach starker Stress oder eine depressive Phase. Es is
 
 Der gute Nachrichten: Heilung ist möglich. Mit dem richtigen Verständnis, professioneller Unterstützung und bewusster Arbeit können Paare diese Hürde nicht nur überwinden — sie können sogar an ihr wachsen und tiefere Intimität aufbauen.
 
-In diesem Artikel werden wir alles durchgehen, was du über komplexe PTBS in Beziehungen wissen musst. Du wirst verstehen, wie Kindheitstrauma in deiner (oder der Partnerschaft deines Partners) weiterwirkt, welche Symptome auftreten, und — am wichtigsten — wie echte Heilung aussieht.
+Hier findest du alles Wichtige zu komplexer PTBS in Beziehungen. Du wirst verstehen, wie Kindheitstrauma in deiner (oder der Partnerschaft deines Partners) weiterwirkt, welche Symptome auftreten, und — am wichtigsten — wie echte Heilung aussieht.
 
 ## Was ist Komplexe PTBS überhaupt?
 

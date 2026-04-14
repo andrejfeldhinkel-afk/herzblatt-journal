@@ -4,6 +4,7 @@ description: "Interkulturelle Beziehungen — Entdecke, wie du deine Partnerscha
 keywords: ["interkulturelle beziehungen", "beziehung", "kommunikation", "lifestyle", "interkulturelle beziehungen:", "beziehungen: liebe"]
 date: 2025-04-08
 image: "/images/blog/interkulturelle-beziehungen-tipps.webp"
+imageAlt: "Interkulturelle Beziehungen: Liebe ohne Grenzen"
 tags: ["Beziehung", "Kommunikation", "Lifestyle"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

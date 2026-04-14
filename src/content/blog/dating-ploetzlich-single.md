@@ -4,6 +4,7 @@ description: "Plötzlich Single: Der Weg durch die Trennung — mit konkreten Sc
 keywords: ["plötzlich single", "trennung", "neuanfang", "heilung", "plötzlich single:", "single: ersten"]
 date: 2025-09-14
 image: "/images/blog/dating-ploetzlich-single.webp"
+imageAlt: "Plötzlich Single: Die ersten 30 Tage nach der Trennung"
 tags: ["Trennung", "Neuanfang", "Heilung"]
 faq:
   - question: "Wann ist eine Trennung die richtige Entscheidung?"

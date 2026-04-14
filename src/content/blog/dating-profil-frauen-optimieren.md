@@ -4,6 +4,7 @@ description: "Dating-Profil für Frauen optimieren — Praktische Dating-Ratschl
 keywords: ["dating-profil für frauen optimieren", "dating", "online dating", "dating apps", "partnersuche", "dating-profil frauen"]
 date: 2025-11-06
 image: "/images/blog/dating-profil-frauen-optimieren.webp"
+imageAlt: "Dating-Profil für Frauen optimieren"
 tags: ["Dating", "Online-Dating", "Dating-Apps", "Partnersuche"]
 faq:
   - question: "Was sollte man beim Dating beachten?"

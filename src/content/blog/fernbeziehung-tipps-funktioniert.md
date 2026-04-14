@@ -4,6 +4,7 @@ description: "Fernbeziehung: 15 Tipps damit es klappt: Wie du durch bessere Komm
 keywords: ["fernbeziehung", "kommunikation", "fernbeziehung: tipps", "tipps damit", "damit klappt"]
 date: 2025-08-24
 image: "/images/blog/fernbeziehung-tipps-funktioniert.webp"
+imageAlt: "Fernbeziehung: 15 Tipps damit es klappt"
 tags: ["Fernbeziehung", "Kommunikation"]
 faq:
   - question: "Wie kommuniziere ich besser in der Beziehung?"

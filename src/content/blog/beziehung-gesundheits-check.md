@@ -4,6 +4,7 @@ description: "Jede Beziehung braucht ein regelmäßig Gesundheit-Check. Hier ist
 keywords: ["beziehungs-gesundheits-check", "beziehung", "kommunikation", "red flags", "vertrauen", "psychologie"]
 date: 2025-07-20
 image: "/images/blog/beziehung-gesundheits-check.webp"
+imageAlt: "Beziehungs-Gesundheits-Check"
 tags: ["Beziehung", "Kommunikation", "Red Flags", "Vertrauen", "Psychologie"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

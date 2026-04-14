@@ -4,6 +4,7 @@ description: "Liebesbriefe schreiben — Dein umfassender Ratgeber auf Herzblatt
 keywords: ["liebesbriefe schreiben", "ratgeber", "liebesbriefe schreiben:", "schreiben: vorlagen"]
 date: 2025-06-26
 image: "/images/blog/liebesbriefe-schreiben-vorlagen.webp"
+imageAlt: "Liebesbriefe schreiben: Vorlagen"
 tags: ["Ratgeber"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

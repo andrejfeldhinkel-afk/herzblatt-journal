@@ -4,6 +4,7 @@ description: "Dating-Trends 2026: Praktische Tipps und psychologische Einblicke 
 keywords: ["dating-trends 2026", "beziehung", "dating", "dating-trends 2026:", "2026: aktuell", "aktuell datingszene?"]
 date: 2025-09-11
 image: "/images/blog/dating-trends-2026-ueberblick.webp"
+imageAlt: "Dating-Trends 2026: Was ist aktuell in der Datingszene?"
 tags: ["Beziehung", "Dating"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

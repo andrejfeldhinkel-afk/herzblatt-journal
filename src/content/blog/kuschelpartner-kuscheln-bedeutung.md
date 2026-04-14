@@ -4,6 +4,7 @@ description: "Kuschelpartner und die heilende Kraft von Berührung — Wege zu m
 keywords: ["kuschelpartner und die heilende kraft von berührung", "intimität", "gesundheit", "beziehung", "kuschelpartner heilende", "heilende kraft"]
 date: 2025-09-21
 image: "/images/blog/kuschelpartner-kuscheln-bedeutung.webp"
+imageAlt: "Kuschelpartner und die heilende Kraft von Berührung"
 tags: ["Intimität", "Gesundheit", "Beziehung"]
 faq:
   - question: "Was tun bei nachlassender Leidenschaft?"

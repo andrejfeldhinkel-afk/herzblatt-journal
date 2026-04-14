@@ -4,6 +4,7 @@ description: "LGBTQ+ Dating in Deutschland — Dein umfassender Ratgeber auf Her
 keywords: ["lgbtq+ dating in deutschland", "lgbtq+", "lgbtq+ dating", "dating deutschland"]
 date: 2025-07-24
 image: "/images/blog/lgbtq-dating-queer-community.webp"
+imageAlt: "LGBTQ+ Dating in Deutschland"
 tags: ["LGBTQ+"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

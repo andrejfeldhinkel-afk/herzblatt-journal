@@ -15,6 +15,7 @@ keywords:
   - "Beziehung"
   - "Emotionale Verbindung"
 image: "/images/blog/bids-for-connection-beziehung-guide.webp"
+imageAlt: "Bids for Connection — Gottmans Konzept"
 ---
 
 ## Einleitung: Die kleinen Momente, die alles verändern

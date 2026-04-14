@@ -4,6 +4,7 @@ description: "Willkommen bei Herzblatt Journal — Dein umfassender Ratgeber auf
 keywords: ["willkommen bei herzblatt journal", "ratgeber", "willkommen herzblatt", "herzblatt journal"]
 date: 2025-06-13
 image: "/images/blog/willkommen.webp"
+imageAlt: "Willkommen bei Herzblatt Journal"
 tags: ["Ratgeber"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

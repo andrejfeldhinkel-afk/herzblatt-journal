@@ -1,5 +1,5 @@
 ---
-title: "Schluss machen sanft und respektvoll: Der faire Trennungs-Guide"
+title: "Schluss machen sanft und respektvoll: Der faire Weg"
 description: "Trennungen müssen nicht grausam sein. Lerne, wie du respektvoll Schluss machst und beiden Parteien Würde bewahrst."
 date: 2026-04-06
 image: "/images/photos/schluss-machen-sanft-respektvoll.webp"
@@ -23,7 +23,7 @@ faq:
     answer: "Das ist hart. Du kannst klar sagen: 'Ich liebe dich, aber ich kann nicht mit dir zusammen sein. Diese Entscheidung ist final.' Du kannst keine Kontakt haben, wenn es deiner Heilung im Weg steht. Achte auf deine Grenzen."
 ---
 
-# Schluss machen sanft und respektvoll: Der faire Trennungs-Guide
+## Schluss machen sanft und respektvoll: Der faire Trennungs-Guide
 
 Du weißt es schon lange. Die Beziehung funktioniert nicht. Vielleicht hast du wirklich versucht, es zu reparieren. Vielleicht hast du gehofft, dass es von selbst weg geht. Aber es wird nicht weg gehen. Die Wahrheit ist fest in dir: Es ist vorbei.
 

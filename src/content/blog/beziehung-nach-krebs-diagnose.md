@@ -4,6 +4,7 @@ description: "Wie deine Beziehung eine Krebs-Diagnose übersteht. Unterstützung
 keywords: ["beziehung nach krebs-diagnose", "beziehung", "gesundheit", "beziehung nach", "nach krebs-diagnose:", "krebs-diagnose: zusammenhalt"]
 date: 2025-06-11
 image: "/images/blog/beziehung-nach-krebs-diagnose.webp"
+imageAlt: "Beziehung nach Krebs-Diagnose: Zusammenhalt in der Krise"
 tags: ["Beziehung", "Gesundheit"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

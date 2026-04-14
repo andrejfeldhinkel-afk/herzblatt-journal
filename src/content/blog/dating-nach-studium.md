@@ -4,6 +4,7 @@ description: "Dating nach dem Studium: Alles was du wissen musst, um beim Dating
 keywords: ["dating nach dem studium", "dating", "lebensphasen", "partnersuche", "dating nach", "nach studium:"]
 date: 2025-05-05
 image: "/images/blog/dating-nach-studium.webp"
+imageAlt: "Dating nach dem Studium: Neue Spielregeln"
 tags: ["Dating", "Lebensphasen", "Partnersuche"]
 faq:
   - question: "Wie finde ich den richtigen Partner?"

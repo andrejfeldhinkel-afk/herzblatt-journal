@@ -4,6 +4,7 @@ description: "Nach der Scheidung — Wie du diese schwierige Phase meisterst und
 keywords: ["nach der scheidung", "trennung", "neuanfang", "dating", "nach scheidung:", "scheidung: wann"]
 date: 2025-10-13
 image: "/images/blog/scheidung-danach-dating-tipps.webp"
+imageAlt: "Nach der Scheidung: Wann und wie wieder daten?"
 tags: ["Trennung", "Neuanfang", "Dating"]
 faq:
   - question: "Wann ist eine Trennung die richtige Entscheidung?"

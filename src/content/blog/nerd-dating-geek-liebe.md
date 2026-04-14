@@ -4,6 +4,7 @@ description: "Nerd-Dating — Die besten Tipps und Strategien für erfolgreiches
 keywords: ["nerd-dating", "dating", "partnersuche", "lifestyle", "nerd-dating: finden", "finden geeks"]
 date: 2025-11-18
 image: "/images/blog/nerd-dating-geek-liebe.webp"
+imageAlt: "Nerd-Dating: So finden Geeks die große Liebe"
 tags: ["Dating", "Partnersuche", "Lifestyle"]
 faq:
   - question: "Was sollte man beim Dating beachten?"

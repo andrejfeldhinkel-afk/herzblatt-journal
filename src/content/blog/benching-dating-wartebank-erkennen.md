@@ -4,6 +4,7 @@ description: "Benching beim Dating erkennen: Alles was du wissen musst, um beim 
 keywords: ["benching beim dating erkennen", "dating", "red flags", "online dating", "kommunikation", "selbstliebe"]
 date: 2025-07-17
 image: "/images/blog/benching-dating-wartebank-erkennen.webp"
+imageAlt: "Benching beim Dating erkennen"
 tags: ["Dating", "Red Flags", "Online-Dating", "Kommunikation", "Selbstliebe"]
 faq:
   - question: "Wie lange sollte man daten bevor man zusammenkommt?"

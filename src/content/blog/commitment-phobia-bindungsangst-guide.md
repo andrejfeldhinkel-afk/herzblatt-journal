@@ -4,6 +4,7 @@ description: "Bindungsangst ist real und kann eine Beziehung zerstören. Wir zei
 date: 2025-04-14
 author: "thomas-peters"
 image: "/images/blog/commitment-phobia-bindungsangst-guide.webp"
+imageAlt: "Commitment Phobia — Warum manche Menschen sich nie festlegen"
 draft: false
 tags:
   - "Psychologie"

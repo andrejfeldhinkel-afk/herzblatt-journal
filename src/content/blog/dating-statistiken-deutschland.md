@@ -4,6 +4,7 @@ description: "Dating in Zahlen — Die besten Tipps und Strategien für erfolgre
 keywords: ["dating in zahlen", "dating", "ratgeber", "dating zahlen:", "zahlen: spannende", "spannende statistiken"]
 date: 2025-04-23
 image: "/images/blog/dating-statistiken-deutschland.webp"
+imageAlt: "Dating in Zahlen: Spannende Statistiken aus Deutschland"
 tags: ["Dating", "Ratgeber"]
 faq:
   - question: "Was sollte man beim Dating beachten?"

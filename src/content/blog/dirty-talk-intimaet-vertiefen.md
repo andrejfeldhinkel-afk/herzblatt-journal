@@ -4,6 +4,7 @@ description: "Dirty Talk lernen — Wege zu mehr emotionaler und körperlicher N
 keywords: ["dirty talk lernen", "intimität", "dirty talk", "talk lernen"]
 date: 2025-05-27
 image: "/images/blog/dirty-talk-intimaet-vertiefen.webp"
+imageAlt: "Dirty Talk lernen"
 tags: ["Intimität"]
 faq:
   - question: "Wie bringt man mehr Intimität in die Beziehung?"

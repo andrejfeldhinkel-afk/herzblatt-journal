@@ -4,6 +4,7 @@ description: "Emotionale Gesundheit: Warum Selbstliebe der Schlüssel zu erfüll
 keywords: ["emotionale gesundheit", "gesundheit", "selbstliebe", "psychologie", "emotionale gesundheit:", "gesundheit: basis"]
 date: 2025-04-24
 image: "/images/blog/emotionale-gesundheit-liebe.webp"
+imageAlt: "Emotionale Gesundheit: Basis für gute Beziehungen"
 tags: ["Gesundheit", "Selbstliebe", "Psychologie"]
 faq:
   - question: "Wie lerne ich mich selbst zu lieben?"

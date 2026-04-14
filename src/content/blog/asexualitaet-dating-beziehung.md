@@ -4,6 +4,7 @@ description: "Wie du als asexuelle Person erfüllende Beziehungen aufbaust, dein
 keywords: ["asexualität in dating und beziehung", "dating", "beziehung", "intimität", "lgbtq+", "selbstliebe"]
 date: 2025-09-06
 image: "/images/blog/asexualitaet-dating-beziehung.webp"
+imageAlt: "Asexualität in Dating und Beziehung"
 tags: ["Dating", "Beziehung", "Intimität", "LGBTQ+", "Selbstliebe"]
 faq:
   - question: "Was sollte man beim Dating beachten?"

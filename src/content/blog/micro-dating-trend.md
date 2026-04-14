@@ -4,6 +4,7 @@ description: "Micro-Dating — Die besten Tipps und Strategien für erfolgreiche
 keywords: ["micro-dating", "date ideen", "dating", "micro-dating: 10-minuten-dates"]
 date: 2025-08-11
 image: "/images/blog/micro-dating-trend.webp"
+imageAlt: "Micro-Dating: 10-Minuten-Dates"
 tags: ["Date-Ideen", "Dating"]
 faq:
   - question: "Was sollte man beim Dating beachten?"

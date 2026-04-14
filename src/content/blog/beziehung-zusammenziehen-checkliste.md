@@ -5,6 +5,7 @@ keywords: ["zusammenziehen", "zusammenleben", "zusammenziehen: ehrliche", "ehrli
 tags: ["Zusammenleben"]
 date: 2025-08-21
 image: "/images/blog/beziehung-zusammenziehen-checkliste.webp"
+imageAlt: "Zusammenziehen: Die ehrliche Checkliste"
 author: markus-hoffmann
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

@@ -4,6 +4,7 @@ description: "Die beste Paarbeziehung ist nicht statisch. Sie ist dynamisch. Sie
 keywords: ["gemeinsam wachsen als paar", "beziehung", "kommunikation", "psychologie", "selbstliebe", "lebensphasen"]
 date: 2025-12-19
 image: "/images/blog/beziehung-gemeinsam-wachsen.webp"
+imageAlt: "Gemeinsam wachsen als Paar – Wenn Liebe Entwicklung bedeutet"
 tags: ["Beziehung", "Kommunikation", "Psychologie", "Selbstliebe", "Lebensphasen"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

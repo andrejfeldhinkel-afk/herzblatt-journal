@@ -16,6 +16,7 @@ keywords:
   - "Red Flags"
   - "Beziehungsmuster"
 image: "/images/blog/firedooring-beziehung-guide.webp"
+imageAlt: "Firedooring — Wenn die Beziehung nur in eine Richtung"
 draft: false
 faq:
   - question: "Was ist Firedooring in einer Beziehung?"

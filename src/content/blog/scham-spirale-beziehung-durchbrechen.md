@@ -1,5 +1,5 @@
 ---
-title: "Scham-Spirale in Beziehungen: Erkennen, verstehen und durchbrechen"
+title: "Scham-Spirale in Beziehungen: Erkennen und durchbrechen"
 description: "Scham in Beziehungen zerstört Nähe und Vertrauen. Lerne, wie Scham-Spiralen entstehen, warum Brené Brown Verletzlichkeit als Gegenmittel sieht und wie du dich befreist."
 date: 2026-04-06
 tags:

@@ -4,6 +4,7 @@ description: "Erkenne das Peter-Pan-Syndrom in deinem Partner. Wie du damit umge
 date: 2025-12-15
 author: "sarah-kellner"
 image: "/images/blog/peter-pan-syndrom-beziehung-guide.webp"
+imageAlt: "Peter-Pan-Syndrom — Wenn der Partner nicht erwachsen werden"
 categories:
   - "Psychologie"
 tags:

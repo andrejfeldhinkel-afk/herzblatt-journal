@@ -16,6 +16,7 @@ keywords:
   - "Manipulationstaktiken"
   - "Selbstwertgefühl"
 image: "/images/blog/negging-manipulation-dating-guide.webp"
+imageAlt: "Negging — Die perfide Manipulationstaktik beim Dating"
 draft: false
 faq:
   - question: "Was ist Negging genau?"

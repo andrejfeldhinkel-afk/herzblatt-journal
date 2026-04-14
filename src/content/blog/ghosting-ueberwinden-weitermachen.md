@@ -4,6 +4,7 @@ description: "Nach dem Ghosting weitermachen: Alles was du wissen musst, um beim
 keywords: ["nach dem ghosting weitermachen", "dating", "heilung", "nach ghosting", "ghosting weitermachen"]
 date: 2025-08-13
 image: "/images/blog/ghosting-ueberwinden-weitermachen.webp"
+imageAlt: "Nach dem Ghosting weitermachen"
 tags: ["Dating", "Heilung"]
 faq:
   - question: "Wie finde ich den richtigen Partner?"

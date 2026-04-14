@@ -4,6 +4,7 @@ description: "Bindungstypen verstehen — Psychologische Hintergründe verstehen
 keywords: ["bindungstypen verstehen", "bindungstypen", "psychologie", "beziehung", "bindungstypen verstehen:", "verstehen: dein"]
 date: 2025-07-21
 image: "/images/blog/bindungstypen-verstehen-attachment.webp"
+imageAlt: "Bindungstypen verstehen: Dein Attachment Guide"
 tags: ["Bindungstypen", "Psychologie", "Beziehung"]
 faq:
   - question: "Welche Bindungstypen gibt es?"

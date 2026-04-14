@@ -1,5 +1,5 @@
 ---
-title: "DARVO: Die perfideste Manipulationstechnik in Beziehungen erkennen"
+title: "DARVO erkennen: Die perfideste Manipulationstechnik"
 description: "DARVO erklärt: Deny, Attack, Reverse Victim and Offender — wie Täter sich als Opfer darstellen und wie du diese Manipulationstechnik durchschaust."
 date: 2026-03-31
 tags:

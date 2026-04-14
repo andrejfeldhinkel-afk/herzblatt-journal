@@ -4,6 +4,7 @@ description: "Queeres Dating — Erfahre bewährte Strategien und Expertentipps 
 keywords: ["queeres dating", "beziehung", "dating", "psychologie", "queeres dating:", "dating: vollständiger"]
 date: 2025-04-04
 image: "/images/blog/queeres-dating-guide.webp"
+imageAlt: "Queeres Dating: Ein vollständiger Guide"
 tags: ["Beziehung", "Dating", "Psychologie"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

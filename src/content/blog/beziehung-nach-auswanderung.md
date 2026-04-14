@@ -4,6 +4,7 @@ description: "Beziehung nach Auswanderung stärken — Entdecke, wie du deine Pa
 keywords: ["beziehung nach auswanderung stärken", "fernbeziehung", "beziehung", "neuanfang", "beziehung nach", "nach auswanderung"]
 date: 2025-06-30
 image: "/images/blog/beziehung-nach-auswanderung.webp"
+imageAlt: "Beziehung nach Auswanderung stärken"
 tags: ["Fernbeziehung", "Beziehung", "Neuanfang"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

@@ -4,6 +4,7 @@ description: "Wie du eine Trennung verarbeitest und wieder vorwärts gehst. Prak
 keywords: ["trennung verarbeiten", "trennung", "neuanfang", "selbstliebe", "trennung verarbeiten:", "verarbeiten: schmerz"]
 date: 2025-12-01
 image: "/images/blog/trennung-verarbeiten-neuanfang.webp"
+imageAlt: "Trennung verarbeiten: Vom Schmerz zum Neuanfang"
 tags: ["Trennung", "Neuanfang", "Selbstliebe"]
 faq:
   - question: "Wie übersteht man eine Trennung?"

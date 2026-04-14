@@ -4,6 +4,7 @@ description: "Erfahre, wie du Cushioning erkennst und dich davor schützt. Prakt
 keywords: ["cushioning", "ratgeber", "cushioning: dating-manipulation", "dating-manipulation erkennen"]
 date: 2025-10-04
 image: "/images/blog/cushioning-dating-manipulation.webp"
+imageAlt: "Cushioning: Dating-Manipulation erkennen"
 tags: ["Ratgeber"]
 faq:
   - question: "Was ist Cushioning?"

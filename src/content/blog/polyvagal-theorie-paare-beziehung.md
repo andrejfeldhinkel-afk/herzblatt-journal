@@ -1,5 +1,5 @@
 ---
-title: "Polyvagal-Theorie für Paare: Der komplette Guide für Nervensystem-Regulation in Beziehungen"
+title: "Polyvagal-Theorie für Paare: Nervensystem-Regulation"
 description: "Polyvagal-Theorie einfach erklärt: So funktioniert Koregulation in Beziehungen, wie du Trigger erkennst und dein Nervensystem mit deinem Partner beruhigst."
 date: 2026-04-08
 tags:

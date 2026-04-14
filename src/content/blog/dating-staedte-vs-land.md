@@ -4,6 +4,7 @@ description: "Dating Stadt vs Land — Entdecke, wie du deine Partnerschaft nach
 keywords: ["dating stadt vs land", "beziehung", "dating", "dating stadt", "stadt land:", "land: lebt,"]
 date: 2025-12-01
 image: "/images/blog/dating-staedte-vs-land.webp"
+imageAlt: "Dating Stadt vs Land: Wo man lebt, wie man liebt"
 tags: ["Beziehung", "Dating"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

@@ -4,6 +4,7 @@ description: "Schwiegereltern kennenlernen: Praktische Tipps und psychologische 
 keywords: ["schwiegereltern kennenlernen", "beziehung", "dating", "psychologie", "schwiegereltern kennenlernen:", "kennenlernen: großer"]
 date: 2025-09-11
 image: "/images/blog/schwiegereltern-kennenlernen-tipps.webp"
+imageAlt: "Schwiegereltern kennenlernen: Ein großer Schritt"
 tags: ["Beziehung", "Dating", "Psychologie"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

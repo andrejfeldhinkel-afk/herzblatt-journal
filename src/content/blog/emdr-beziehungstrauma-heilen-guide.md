@@ -25,7 +25,7 @@ faq:
     answer: "Ja, EMDR ist von der WHO, der APA und den deutschen S3-Leitlinien als wirksame Behandlung für PTBS anerkannt. Die Wirksamkeit bei Beziehungstrauma ist ebenfalls gut belegt."
 ---
 
-# EMDR bei Beziehungstrauma: Der komplette Guide zur Heilung
+## EMDR bei Beziehungstrauma: Der komplette Guide zur Heilung
 
 Du sitzt nachts wach und denkst an den Moment, als du erfahren hast, dass dein Partner dich betrogen hat. Du spürst den Schmerz in deiner Brust, als wäre es gerade eben passiert — obwohl es bereits Monate her ist. Du vermeidest Situationen, in denen du deinen Ex sehen könntest, deine Vertrauensfähigkeit ist zerrüttet, und die Angst vor erneutem Verlassenwerden sitzt dir täglich im Nacken. Das ist kein einfacher Liebeskummer mehr — das ist ein Beziehungstrauma, das dein Gehirn noch nicht verarbeitet hat.
 

@@ -4,6 +4,7 @@ description: "After-Work Dates — Dein umfassender Ratgeber auf Herzblatt Journ
 keywords: ["after-work dates", "date ideen", "lebensphasen"]
 date: 2025-09-21
 image: "/images/blog/dating-after-work-dates.webp"
+imageAlt: "After-Work Dates"
 tags: ["Date-Ideen", "Lebensphasen"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

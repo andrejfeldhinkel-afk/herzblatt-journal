@@ -4,6 +4,7 @@ description: "Liebe in Zeiten von Social Media: So meisterst du die Welt des Onl
 keywords: ["liebe in zeiten von social media", "digital detox", "online dating", "liebe zeiten", "zeiten social", "social media"]
 date: 2025-08-23
 image: "/images/blog/liebe-in-zeiten-von-social-media.webp"
+imageAlt: "Liebe in Zeiten von Social Media"
 tags: ["Digital Detox", "Online-Dating"]
 faq:
   - question: "Welche Dating-App ist die beste?"

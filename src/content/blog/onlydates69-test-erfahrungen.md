@@ -1,5 +1,5 @@
 ---
-title: "OnlyDates69 Test & Erfahrungen 2026: Casual Dating ohne Umwege"
+title: "OnlyDates69 Test 2026: Casual Dating ohne Umwege"
 description: "OnlyDates69 im ehrlichen Test: Funktionen, Kosten, echte Erfahrungen und für wen sich die Casual-Dating-Plattform wirklich lohnt."
 date: 2026-04-12
 tags:

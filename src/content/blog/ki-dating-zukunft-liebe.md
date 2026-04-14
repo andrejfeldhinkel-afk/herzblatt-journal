@@ -4,6 +4,7 @@ description: "KI und die Zukunft des Datings — Dein umfassender Ratgeber auf H
 keywords: ["ki und die zukunft des datings", "ratgeber", "zukunft datings"]
 date: 2025-09-26
 image: "/images/blog/ki-dating-zukunft-liebe.webp"
+imageAlt: "KI und die Zukunft des Datings"
 tags: ["Ratgeber"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

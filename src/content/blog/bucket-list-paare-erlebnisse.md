@@ -4,6 +4,7 @@ description: "Schaffe eine Bucket-List mit deinem Partner. Ideen für gemeinsame
 keywords: ["paar-bucket-list", "beziehung", "dating", "paar-bucket-list: gemeinsame", "gemeinsame abenteuer", "abenteuer planen"]
 date: 2025-04-06
 image: "/images/blog/bucket-list-paare-erlebnisse.webp"
+imageAlt: "Paar-Bucket-List: Gemeinsame Abenteuer planen"
 tags: ["Beziehung", "Dating"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

@@ -4,6 +4,7 @@ description: "Gesunde Grenzen setzen — Dein umfassender Ratgeber auf Herzblatt
 keywords: ["gesunde grenzen setzen", "ratgeber", "gesunde grenzen", "grenzen setzen"]
 date: 2025-07-16
 image: "/images/blog/gesunde-grenzen-setzen-beziehung.webp"
+imageAlt: "Gesunde Grenzen setzen"
 tags: ["Ratgeber"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

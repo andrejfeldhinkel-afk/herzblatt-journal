@@ -4,6 +4,7 @@ description: "Gaslighting in der Beziehung verstehen — Dein umfassender Ratgeb
 keywords: ["gaslighting in der beziehung verstehen", "ratgeber", "gaslighting beziehung", "beziehung verstehen"]
 date: 2025-10-21
 image: "/images/blog/gaslighting-beziehung-verstehen.webp"
+imageAlt: "Gaslighting in der Beziehung verstehen"
 tags: ["Ratgeber"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

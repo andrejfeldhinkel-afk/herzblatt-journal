@@ -4,6 +4,7 @@ description: "Nervosität beim Date überwinden — Psychologische Hintergründe
 keywords: ["nervosität beim date überwinden", "erstes date", "psychologie", "ratgeber", "nervosität beim", "beim date"]
 date: 2025-05-20
 image: "/images/blog/nervositaet-beim-date-ueberwinden.webp"
+imageAlt: "Nervosität beim Date überwinden"
 tags: ["Erstes Date", "Psychologie", "Ratgeber"]
 faq:
   - question: "Kann man Beziehungsmuster verändern?"

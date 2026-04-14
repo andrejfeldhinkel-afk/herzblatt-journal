@@ -4,6 +4,7 @@ description: "Hochzeitsplanung als Paar — Entdecke, wie du deine Partnerschaft
 keywords: ["hochzeitsplanung als paar", "beziehung", "dating", "hochzeitsplanung paar:", "paar: abenteuer", "abenteuer beginnt"]
 date: 2025-06-07
 image: "/images/blog/hochzeitsplanung-als-paar.webp"
+imageAlt: "Hochzeitsplanung als Paar: Das Abenteuer beginnt"
 tags: ["Beziehung", "Dating"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

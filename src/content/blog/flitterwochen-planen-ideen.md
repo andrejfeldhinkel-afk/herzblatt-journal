@@ -1,5 +1,5 @@
 ---
-title: "Flitterwochen planen: Die besten Reiseziele und Tipps für euren Honeymoon"
+title: "Flitterwochen planen: Die besten Reiseziele und Tipps"
 description: "Flitterwochen planen leicht gemacht — die schönsten Reiseziele, Budget-Tipps und Ideen für eine unvergessliche Hochzeitsreise als Paar."
 date: 2026-04-13
 tags:

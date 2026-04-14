@@ -4,6 +4,7 @@ description: "Liebe auf den zweiten Blick: Praktische Tipps und psychologische E
 keywords: ["liebe auf den zweiten blick", "beziehung", "dating", "liebe zweiten", "zweiten blick:", "blick: passiert"]
 date: 2025-10-26
 image: "/images/blog/dating-liebe-auf-den-zweiten-blick.webp"
+imageAlt: "Liebe auf den zweiten Blick: Es passiert wirklich"
 tags: ["Beziehung", "Dating"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

@@ -4,6 +4,7 @@ description: "Unterschiedlicher Kinderwunsch: Praktische Tipps und psychologisch
 keywords: ["unterschiedlicher kinderwunsch", "beziehung", "familie"]
 date: 2025-07-01
 image: "/images/blog/beziehung-kinderwunsch-unterschiedlich.webp"
+imageAlt: "Unterschiedlicher Kinderwunsch"
 tags: ["Beziehung", "Familie"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

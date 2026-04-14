@@ -4,6 +4,7 @@ description: "Wie du in deiner Beziehung vergeben lernst. Warum Vergebung wichti
 keywords: ["vergeben in der beziehung lernen", "beziehung", "heilung", "kommunikation", "vergeben beziehung", "beziehung lernen:"]
 date: 2025-12-04
 image: "/images/blog/vergeben-in-beziehung-lernen.webp"
+imageAlt: "Vergeben in der Beziehung lernen: Der Weg zur Heilung"
 tags: ["Beziehung", "Heilung", "Kommunikation"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

@@ -4,6 +4,7 @@ description: "Wochenend-Beziehung — Dein umfassender Ratgeber auf Herzblatt Jo
 keywords: ["wochenend-beziehung", "fernbeziehung", "wochenend-beziehung: liebe", "liebe distanz"]
 date: 2025-10-31
 image: "/images/blog/wochenend-beziehung-tipps.webp"
+imageAlt: "Wochenend-Beziehung: Liebe auf Distanz"
 tags: ["Fernbeziehung"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

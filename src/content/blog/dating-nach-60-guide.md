@@ -4,6 +4,7 @@ description: "Dating nach 60 ist anders und besser. Vollständiger Guide mit pra
 keywords: ["dating nach 60", "ratgeber", "dating nach", "nach komplette", "komplette guide", "guide liebe"]
 date: 2025-04-23
 image: "/images/blog/dating-nach-60-guide.webp"
+imageAlt: "Dating nach 60: Der komplette Guide für Liebe im reifen A..."
 tags: ["Ratgeber"]
 faq:
   - question: "Für wen ist dieser Ratgeber geeignet?"

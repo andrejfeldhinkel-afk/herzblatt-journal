@@ -4,6 +4,7 @@ description: "Dating über 40 — Entdecke, wie du deine Partnerschaft nachhalti
 keywords: ["dating über 40", "beziehung", "dating", "dating über", "über neues", "neues kapitel"]
 date: 2025-09-05
 image: "/images/blog/dating-ueber-40-neuanfang.webp"
+imageAlt: "Dating über 40: Ein neues Kapitel"
 tags: ["Beziehung", "Dating"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

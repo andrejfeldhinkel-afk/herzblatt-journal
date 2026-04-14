@@ -1,5 +1,5 @@
 ---
-title: "Ehevertrag — sinnvoll oder Vertrauensbruch? Was Paare wissen müssen"
+title: "Ehevertrag — sinnvoll oder Vertrauensbruch?"
 description: "Lohnt sich ein Ehevertrag wirklich? Wir zeigen Dir, für wen Eheverträge sinnvoll sind, was sie regeln und welche Kosten entstehen."
 date: 2026-04-13
 tags:

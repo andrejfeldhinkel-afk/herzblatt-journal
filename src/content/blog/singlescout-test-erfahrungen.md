@@ -10,6 +10,7 @@ keywords: ["singlescout test", "singlescout erfahrungen", "singlescout kosten", 
 draft: false
 author: "markus-hoffmann"
 image: "/images/blog/singlescout-test-erfahrungen.webp"
+imageAlt: "SingleScout Test & Erfahrungen 2026"
 faq:
   - question: "Ist SingleScout seriös?"
     answer: "Ja, SingleScout ist eine seriöse Dating-Plattform mit umfangreichen Sicherheitsmaßnahmen, Verifizierungsprozessen und einem aktiven Moderationsteam. Die Plattform setzt auf Transparenz und arbeitet gegen Fake-Profile mit modernen Technologien."

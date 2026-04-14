@@ -4,6 +4,7 @@ description: "Sexuelle Wünsche ansprechen — Wege zu mehr emotionaler und kör
 keywords: ["sexuelle wünsche ansprechen", "intimität", "kommunikation", "sexuelle wünsche", "wünsche ansprechen"]
 date: 2025-07-10
 image: "/images/blog/offene-kommunikation-sexuelle-wuensche.webp"
+imageAlt: "Sexuelle Wünsche ansprechen"
 tags: ["Intimität", "Kommunikation"]
 faq:
   - question: "Was tun bei nachlassender Leidenschaft?"

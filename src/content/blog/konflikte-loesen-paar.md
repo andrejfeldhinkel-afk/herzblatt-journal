@@ -4,6 +4,7 @@ description: "Konflikte lösen als Paar — Dein umfassender Ratgeber auf Herzbl
 keywords: ["konflikte lösen als paar", "ratgeber", "konflikte lösen", "lösen paar"]
 date: 2025-10-13
 image: "/images/blog/konflikte-loesen-paar.webp"
+imageAlt: "Konflikte lösen als Paar"
 tags: ["Ratgeber"]
 faq:
   - question: "Kann man Konflikte lösen als Paar wirklich überwinden?"

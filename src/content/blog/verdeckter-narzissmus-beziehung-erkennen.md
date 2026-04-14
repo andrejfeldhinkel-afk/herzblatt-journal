@@ -1,5 +1,5 @@
 ---
-title: "Verdeckter Narzissmus in Beziehungen: Die unsichtbare Manipulation erkennen"
+title: "Verdeckter Narzissmus: Die stille Manipulation erkennen"
 description: "Verdeckter Narzissmus ist schwerer zu erkennen als offener. Lerne die 20 Warnsignale, typische Beziehungsmuster und wie du dich schützt."
 date: 2026-04-03
 tags:

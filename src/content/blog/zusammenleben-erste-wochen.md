@@ -4,6 +4,7 @@ description: "Zusammenleben: Praktische Tipps und psychologische Einblicke für 
 keywords: ["zusammenleben", "beziehung", "kommunikation", "zusammenleben: ersten", "ersten wochen", "wochen überstehen"]
 date: 2025-07-21
 image: "/images/blog/zusammenleben-erste-wochen.webp"
+imageAlt: "Zusammenleben: Die ersten Wochen überstehen"
 tags: ["Zusammenleben", "Beziehung", "Kommunikation"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

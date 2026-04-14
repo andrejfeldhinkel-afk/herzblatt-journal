@@ -4,6 +4,7 @@ description: "Die Geheimnisse langer Beziehungen: Praktische Tipps und psycholog
 keywords: ["die geheimnisse langer beziehungen", "beziehung", "kommunikation", "vertrauen", "bindungstypen", "ratgeber"]
 date: 2025-10-31
 image: "/images/blog/beziehung-langzeit-geheimnisse.webp"
+imageAlt: "Die Geheimnisse langer Beziehungen"
 tags: ["Beziehung", "Kommunikation", "Vertrauen", "Bindungstypen", "Ratgeber"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

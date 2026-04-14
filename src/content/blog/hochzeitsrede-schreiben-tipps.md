@@ -1,5 +1,5 @@
 ---
-title: "Hochzeitsrede schreiben: Aufbau, Beispiele und Tipps für eine unvergessliche Rede"
+title: "Hochzeitsrede schreiben: Aufbau, Beispiele und Tipps"
 description: "Hochzeitsrede schreiben leicht gemacht — der perfekte Aufbau, emotionale Beispiele und praktische Tipps für Trauzeugen, Eltern und Freunde."
 date: 2026-04-13
 tags:

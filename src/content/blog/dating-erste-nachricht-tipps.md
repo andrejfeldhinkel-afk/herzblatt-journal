@@ -4,6 +4,7 @@ description: "Die erste Nachricht ist kritisch. Lerne, wie du eine Nachricht sch
 keywords: ["erste nachricht tipps", "ratgeber", "erste nachricht", "nachricht tipps:", "tipps: aufmerksamkeit", "aufmerksamkeit bekommst"]
 date: 2025-11-16
 image: "/images/blog/dating-erste-nachricht-tipps.webp"
+imageAlt: "Erste Nachricht Tipps: Wie du Aufmerksamkeit bekommst"
 tags: ["Ratgeber"]
 faq:
   - question: "Für wen ist dieser Ratgeber geeignet?"

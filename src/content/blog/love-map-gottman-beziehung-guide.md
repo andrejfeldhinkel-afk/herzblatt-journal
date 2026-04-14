@@ -4,6 +4,7 @@ description: "Gottmans Love Maps sind die Grundlage glücklicher Langzeitbeziehu
 date: 2025-12-03
 author: "sarah-kellner"
 image: "/images/blog/love-map-gottman-beziehung-guide.webp"
+imageAlt: "Love Maps — Wie gut kennst du deinen Partner wirklich?"
 alt: "Ein Paar sitzt zusammen und führt ein tiefes Gespräch über ihre Träume und Ängste"
 tags:
   - "Beziehung"

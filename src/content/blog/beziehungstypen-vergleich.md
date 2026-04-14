@@ -4,6 +4,7 @@ description: "Die verschiedenen Arten von Beziehungen erklärt. Monogamie, offen
 keywords: ["beziehungstypen", "beziehung", "dating", "beziehungstypen: überblick"]
 date: 2025-04-07
 image: "/images/blog/beziehungstypen-vergleich.webp"
+imageAlt: "Beziehungstypen: Ein Überblick"
 tags: ["Beziehung", "Dating"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

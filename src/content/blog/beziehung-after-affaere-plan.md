@@ -4,6 +4,7 @@ description: "Eine Affäre bricht dein Herz und deine Beziehung auseinander. Kan
 keywords: ["beziehung nach einer affäre retten", "beziehung", "vertrauen", "heilung", "kommunikation", "konflikte"]
 date: 2025-09-16
 image: "/images/blog/beziehung-after-affaere-plan.webp"
+imageAlt: "Beziehung nach einer Affäre retten"
 tags: ["Beziehung", "Vertrauen", "Heilung", "Kommunikation", "Konflikte"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

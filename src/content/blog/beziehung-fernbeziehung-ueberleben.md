@@ -4,6 +4,7 @@ description: "Fernbeziehung überleben — Dein umfassender Ratgeber auf Herzbla
 keywords: ["fernbeziehung überleben", "fernbeziehung"]
 date: 2025-05-31
 image: "/images/blog/beziehung-fernbeziehung-ueberleben.webp"
+imageAlt: "Fernbeziehung überleben"
 tags: ["Fernbeziehung"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

@@ -4,6 +4,7 @@ description: "Online-Dating für Introvertierte: So meisterst du die Welt des On
 keywords: ["online-dating für introvertierte", "neurodiversität", "online dating", "online-dating introvertierte"]
 date: 2025-10-01
 image: "/images/blog/dating-introvertiert-online-tipps.webp"
+imageAlt: "Online-Dating für Introvertierte"
 tags: ["Neurodiversität", "Online-Dating"]
 faq:
   - question: "Wie schreibt man die erste Nachricht?"

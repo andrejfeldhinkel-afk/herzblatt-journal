@@ -4,6 +4,7 @@ description: "Vom Smalltalk zur echten Verbindung: Alles was du wissen musst, um
 keywords: ["vom smalltalk zur echten verbindung", "dating", "intimität", "kommunikation", "smalltalk echten", "echten verbindung"]
 date: 2025-11-25
 image: "/images/blog/dating-konversation-tiefe.webp"
+imageAlt: "Vom Smalltalk zur echten Verbindung"
 tags: ["Dating", "Intimität", "Kommunikation"]
 faq:
   - question: "Wie finde ich den richtigen Partner?"

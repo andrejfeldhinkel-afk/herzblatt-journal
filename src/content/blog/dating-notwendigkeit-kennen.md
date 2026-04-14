@@ -4,6 +4,7 @@ description: "Kenne deine Notwendigkeiten beim Dating — Entdecke, wie du deine
 keywords: ["kenne deine notwendigkeiten beim dating", "beziehung", "dating", "partnersuche", "kenne deine", "deine notwendigkeiten"]
 date: 2025-06-19
 image: "/images/blog/dating-notwendigkeit-kennen.webp"
+imageAlt: "Kenne deine Notwendigkeiten beim Dating"
 tags: ["Beziehung", "Dating", "Partnersuche"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

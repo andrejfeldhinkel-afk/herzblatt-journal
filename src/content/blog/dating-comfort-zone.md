@@ -4,6 +4,7 @@ description: "Dating außerhalb deiner Comfort Zone — Praktische Dating-Ratsch
 keywords: ["dating außerhalb deiner comfort zone", "dating", "gesundheit", "selbstliebe", "dating außerhalb", "außerhalb deiner"]
 date: 2025-12-01
 image: "/images/blog/dating-comfort-zone.webp"
+imageAlt: "Dating außerhalb deiner Comfort Zone"
 tags: ["Dating", "Gesundheit", "Selbstliebe"]
 faq:
   - question: "Was sollte man beim Dating beachten?"

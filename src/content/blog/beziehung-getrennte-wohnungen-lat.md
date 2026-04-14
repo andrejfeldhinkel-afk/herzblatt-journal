@@ -4,6 +4,7 @@ description: "LAT-Beziehung — Dein umfassender Ratgeber auf Herzblatt Journal.
 keywords: ["lat-beziehung", "fernbeziehung", "lat-beziehung: glücklich", "glücklich getrennten", "getrennten wohnungen"]
 date: 2025-08-08
 image: "/images/blog/beziehung-getrennte-wohnungen-lat.webp"
+imageAlt: "LAT-Beziehung: Glücklich mit getrennten Wohnungen"
 tags: ["Fernbeziehung"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

@@ -4,6 +4,7 @@ description: "Karriere und Liebe — Entdecke, wie du deine Partnerschaft nachha
 keywords: ["karriere und liebe", "beziehung", "lifestyle", "ratgeber", "karriere liebe:", "liebe: beides"]
 date: 2025-10-12
 image: "/images/blog/karriere-und-liebe-vereinen.webp"
+imageAlt: "Karriere und Liebe: Beides haben"
 tags: ["Beziehung", "Lifestyle", "Ratgeber"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

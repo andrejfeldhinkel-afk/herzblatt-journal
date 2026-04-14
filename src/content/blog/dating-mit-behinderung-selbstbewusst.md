@@ -4,6 +4,7 @@ description: "Dating mit Behinderung — Entdecke, wie du deine Partnerschaft na
 keywords: ["dating mit behinderung", "beziehung", "dating", "dating behinderung:", "behinderung: selbstvertrauen", "selbstvertrauen bewahren"]
 date: 2025-04-01
 image: "/images/blog/dating-mit-behinderung-selbstbewusst.webp"
+imageAlt: "Dating mit Behinderung: Selbstvertrauen bewahren"
 tags: ["Beziehung", "Dating"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

@@ -4,6 +4,7 @@ description: "Repair Attempts sind laut Gottman der beste Indikator für Beziehu
 date: 2025-12-15
 author: "sarah-kellner"
 image: "/images/blog/repair-attempts-beziehung-guide.webp"
+imageAlt: "Repair Attempts — Die geheime Waffe glücklicher Paare"
 alt: "Ein Paar lacht zusammen während eines Konfliktes und nutzt Humor als Reparaturversuch"
 tags:
   - "Beziehung"

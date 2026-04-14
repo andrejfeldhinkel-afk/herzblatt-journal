@@ -5,6 +5,7 @@ keywords: ["geld in der beziehung", "finanzen", "geld beziehung:", "beziehung: f
 tags: ["Finanzen"]
 date: 2025-12-27
 image: "/images/blog/beziehung-geld-gespraeche-guide.webp"
+imageAlt: "Geld in der Beziehung: Finanz-Guide"
 author: sarah-kellner
 faq:
   - question: "Für wen ist dieser Ratgeber geeignet?"

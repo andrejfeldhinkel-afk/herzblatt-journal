@@ -15,6 +15,7 @@ keywords:
   - "Geschlechterrollen"
   - "Beziehung"
 image: "/images/blog/emotional-labor-beziehung-guide.webp"
+imageAlt: "Emotional Labor — Die unsichtbare Arbeit in Beziehungen"
 ---
 ## Einleitung: Die unsichtbare Last
 

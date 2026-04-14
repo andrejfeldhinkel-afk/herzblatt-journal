@@ -4,6 +4,7 @@ description: "Dating ab 60 — Entdecke, wie du deine Partnerschaft nachhaltig s
 keywords: ["dating ab 60", "beziehung", "dating", "dating liebe", "liebe kein", "kein verfallsdatum"]
 date: 2025-05-22
 image: "/images/blog/dating-ab-60-liebe-alter.webp"
+imageAlt: "Dating ab 60: Liebe hat kein Verfallsdatum"
 tags: ["Beziehung", "Dating"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

@@ -4,6 +4,7 @@ description: "Beziehung nach Depression — Dein umfassender Ratgeber auf Herzbl
 keywords: ["beziehung nach depression", "gesundheit", "beziehung nach", "nach depression:", "depression: gemeinsam", "gemeinsam zurück"]
 date: 2025-11-02
 image: "/images/blog/beziehung-nach-depression-partner.webp"
+imageAlt: "Beziehung nach Depression: Gemeinsam zurück"
 tags: ["Gesundheit"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

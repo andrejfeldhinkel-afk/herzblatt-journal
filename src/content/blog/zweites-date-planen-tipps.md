@@ -4,6 +4,7 @@ description: "Zweites Date planen: Alles was du wissen musst, um beim Dating sel
 keywords: ["zweites date planen", "dating", "erstes date", "date ideen", "kennenlernen", "beziehung"]
 date: 2025-07-29
 image: "/images/blog/zweites-date-planen-tipps.webp"
+imageAlt: "Zweites Date planen: Vom ersten Treffen zum echten Anfang"
 tags: ["Dating", "Erstes Date", "Date-Ideen", "Kennenlernen", "Beziehung"]
 faq:
   - question: "Was sollte man beim Dating beachten?"

@@ -4,6 +4,7 @@ description: "Dating nach Fehlgeburt — Erfahre bewährte Strategien und Expert
 keywords: ["dating nach fehlgeburt", "beziehung", "dating", "dating nach", "nach fehlgeburt:", "fehlgeburt: trauer"]
 date: 2025-10-26
 image: "/images/blog/dating-nach-fehlgeburt.webp"
+imageAlt: "Dating nach Fehlgeburt: Trauer und neuer Anfang"
 tags: ["Beziehung", "Dating"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

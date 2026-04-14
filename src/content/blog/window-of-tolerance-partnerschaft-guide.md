@@ -1,5 +1,5 @@
 ---
-title: "Window of Tolerance in der Partnerschaft: Dein Nervensystem als Beziehungskompass"
+title: "Window of Tolerance: Dein Nervensystem in der Beziehung"
 description: "Window of Tolerance erklärt: Wie dein Toleranzfenster über Streit, Nähe und Harmonie in Beziehungen entscheidet — und wie du es gezielt erweiterst."
 date: 2026-04-07
 tags:

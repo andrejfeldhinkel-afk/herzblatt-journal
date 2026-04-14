@@ -4,6 +4,7 @@ description: "Twin Flames und Dualseelen sind überall im Internet. Aber ist das
 date: 2025-12-15
 author: "sarah-kellner"
 image: "/images/blog/twin-flame-dualseele-guide.webp"
+imageAlt: "Twin Flames & Dualseelen — Spirituelle Verbindung"
 draft: false
 tags:
   - "Psychologie"

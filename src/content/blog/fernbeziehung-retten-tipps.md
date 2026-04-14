@@ -23,7 +23,7 @@ faq:
     answer: "Wenn: (1) Ihr habt kein Enddatum und keinen Plan; (2) Die emotional-physische Distanz wird zu groß und ihr vermisst euch mehr als ihr euch habt; (3) Ein Partner ist untreu oder verheimlicht; (4) Der Aufwand übersteigt die Liebe. Manchmal ist 'Nein' die klügere Antwort als 'Weitermachen'."
 ---
 
-# Fernbeziehung retten: 15 Tipps die wirklich funktionieren
+## Fernbeziehung retten: 15 Tipps die wirklich funktionieren
 
 "Wir sehen uns jeden zweiten Monat. Aber der Rest der Zeit... ich fühle mich allein, auch wenn wir schreiben."
 

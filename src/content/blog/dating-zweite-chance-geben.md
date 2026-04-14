@@ -4,6 +4,7 @@ description: "Zweite Chance beim Dating: Praktische Tipps und psychologische Ein
 keywords: ["zweite chance beim dating", "beziehung", "dating", "zweite chance", "chance beim", "beim dating:"]
 date: 2025-08-02
 image: "/images/blog/dating-zweite-chance-geben.webp"
+imageAlt: "Zweite Chance beim Dating: Wann lohnt es sich?"
 tags: ["Beziehung", "Dating"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

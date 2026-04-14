@@ -4,6 +4,7 @@ description: "Deine Dating-Gewohnheiten sabotieren dich? Lerne, wie du alte Must
 keywords: ["dating-gewohnheiten ändern", "ratgeber", "dating-gewohnheiten ändern:", "ändern: neue", "neue muster", "muster neue"]
 date: 2025-04-26
 image: "/images/blog/dating-gewohnheiten-aendern.webp"
+imageAlt: "Dating-Gewohnheiten ändern: Neue Muster für neue Ergebnisse"
 tags: ["Ratgeber"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

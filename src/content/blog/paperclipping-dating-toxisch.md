@@ -4,6 +4,7 @@ description: "Paperclipping — Erfahre bewährte Strategien und Expertentipps f
 keywords: ["paperclipping", "beziehung", "dating", "psychologie", "paperclipping: moderne", "moderne dating-phänomen"]
 date: 2025-10-02
 image: "/images/blog/paperclipping-dating-toxisch.webp"
+imageAlt: "Paperclipping: Das moderne Dating-Phänomen"
 tags: ["Beziehung", "Dating", "Psychologie"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

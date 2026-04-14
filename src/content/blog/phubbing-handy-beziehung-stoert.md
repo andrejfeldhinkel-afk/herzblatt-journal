@@ -4,6 +4,7 @@ description: "Phubbing — Erfahre bewährte Strategien und Expertentipps für e
 keywords: ["phubbing", "beziehung", "dating", "psychologie", "phubbing: wenn", "wenn handy"]
 date: 2025-12-18
 image: "/images/blog/phubbing-handy-beziehung-stoert.webp"
+imageAlt: "Phubbing: Wenn das Handy die Beziehung stört"
 tags: ["Beziehung", "Dating", "Psychologie"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

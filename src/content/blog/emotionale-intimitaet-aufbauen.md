@@ -16,6 +16,7 @@ faq:
     answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
 draft: false
 image: "/images/blog/emotionale-intimität-aufbauen.webp"
+imageAlt: "Emotionale Intimität aufbauen: Echte Nähe"
 ---
 
 Emotionale Intimität ist das Fundament jeder erfüllenden Beziehung. Während körperliche Nähe wichtig ist, ist es die emotionale Verbindung, die eine Beziehung wirklich fest macht. Doch wie baust du diese unsichtbare, aber so kraftvolle Nähe auf?

@@ -4,6 +4,7 @@ description: "Softlaunching ist das neue Datinglevel. Wir zeigen dir, was es bed
 date: 2025-12-15
 author: "laura-weber"
 image: "/images/blog/softlaunch-beziehung-social-media-guide.webp"
+imageAlt: "Softlaunch einer Beziehung: Die neue Art, Liebe auf Social"
 draft: false
 tags:
   - "Dating"

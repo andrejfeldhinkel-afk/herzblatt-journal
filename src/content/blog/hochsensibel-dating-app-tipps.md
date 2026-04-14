@@ -4,6 +4,7 @@ description: "Hochsensibel? Dating-App-Tipps für HSP: So meisterst du die Welt 
 keywords: ["hochsensibel? dating-app-tipps für hsp", "neurodiversität", "online dating", "dating apps", "hochsensibel? dating-app-tipps"]
 date: 2025-04-27
 image: "/images/blog/hochsensibel-dating-app-tipps.webp"
+imageAlt: "Hochsensibel? Dating-App-Tipps für HSP"
 tags: ["Neurodiversität", "Online-Dating", "Dating-Apps"]
 faq:
   - question: "Welche Dating-App ist die beste?"

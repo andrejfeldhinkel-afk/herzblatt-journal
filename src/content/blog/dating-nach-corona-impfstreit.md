@@ -4,6 +4,7 @@ description: "Unterschiedliche Weltanschauungen — Konflikte konstruktiv lösen
 keywords: ["unterschiedliche weltanschauungen", "konflikte", "unterschiedliche weltanschauungen:", "weltanschauungen: wenn", "wenn dating", "dating komplex"]
 date: 2025-05-09
 image: "/images/blog/dating-nach-corona-impfstreit.webp"
+imageAlt: "Unterschiedliche Weltanschauungen: Wenn Dating komplex wird"
 tags: ["Konflikte"]
 faq:
   - question: "Wie löst man Konflikte in der Beziehung?"

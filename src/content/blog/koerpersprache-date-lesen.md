@@ -4,6 +4,7 @@ description: "Körpersprache beim Date lesen — Entdecke, wie du deine Partners
 keywords: ["körpersprache beim date lesen", "beziehung", "dating", "psychologie", "körpersprache beim", "beim date"]
 date: 2025-10-23
 image: "/images/blog/koerpersprache-date-lesen.webp"
+imageAlt: "Körpersprache beim Date lesen: Was sein Körper verrät"
 tags: ["Beziehung", "Dating", "Psychologie"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

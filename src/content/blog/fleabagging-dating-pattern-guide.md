@@ -4,6 +4,7 @@ description: "Fleabagging ist ein Dating-Muster, bei dem du wiederholt Menschen 
 date: 2025-10-05
 author: "sarah-kellner"
 image: "/images/blog/fleabagging-dating-pattern-guide.webp"
+imageAlt: "Fleabagging — Warum du immer die falschen dattest"
 alt: "Eine Person sitzt allein in einem belebten Café und denkt über ihre früheren Beziehungen nach"
 tags:
   - "Dating"

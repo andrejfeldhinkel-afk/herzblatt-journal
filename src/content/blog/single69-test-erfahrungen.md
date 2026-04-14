@@ -10,6 +10,7 @@ keywords: ["single69 test", "single69 erfahrungen", "single69 kosten", "single69
 draft: false
 author: "markus-hoffmann"
 image: "/images/blog/single69-test-erfahrungen.webp"
+imageAlt: "Single69 Test & Erfahrungen"
 faq:
   - question: "Was ist Single69?"
     answer: "Single69 ist eine Casual-Dating-Plattform mit einer der größten Nutzerbasen im deutschsprachigen Raum. Die Plattform bietet schnelles Matching und eine aktive Community für ungezwungenes Dating. Im Unterschied zu seriösen Partnervermittlungen steht hier Spaß und spontane Treffen im Vordergrund, nicht langfristige Beziehungen."

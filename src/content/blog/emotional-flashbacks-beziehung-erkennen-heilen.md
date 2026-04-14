@@ -1,5 +1,5 @@
 ---
-title: "Emotional Flashbacks in Beziehungen: Erkennen, verstehen und heilen"
+title: "Emotional Flashbacks in Beziehungen: Erkennen und heilen"
 description: "Emotional Flashbacks nach Pete Walker erklärt: Warum dich Beziehungssituationen plötzlich in Kindheitsgefühle zurückwerfen — und 13 Schritte zur Heilung."
 date: 2026-04-05
 tags:

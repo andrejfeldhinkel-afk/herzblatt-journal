@@ -23,7 +23,7 @@ faq:
     answer: "Das ist eine häufige Herausforderung. Du kannst dich trotzdem distanzieren, indem du bei Gruppentreffern höflich aber reserviert bleibst, nicht eins-zu-eins treffen gehst und dich anderen Freunden mehr zuwendest. Sprich mit vertrauten Freunden offen über deine Grenzen. Mit der Zeit werden die anderen verstehen, wo du stehst."
 ---
 
-# Toxische Freundschaft beenden: Anzeichen, Schritte & Heilung
+## Toxische Freundschaft beenden: Anzeichen, Schritte & Heilung
 
 Friendschaften sind eine der kostbarsten Beziehungen in unserem Leben. Doch nicht jede Freundschaft tut uns gut. Manchmal merken wir erst nach Jahren, dass eine Person uns emotional auslaugt, statt uns zu unterstützen. Wenn du gerade in dieser Situation bist, wenn du dich fragst, ob eine Freundschaft toxisch ist und wie du sie beenden kannst, dann bin ich hier für dich.
 

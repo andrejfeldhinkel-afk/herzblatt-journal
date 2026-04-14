@@ -4,6 +4,7 @@ description: "Gemeinsam ein Haustier anschaffen — Dein umfassender Ratgeber au
 keywords: ["gemeinsam ein haustier anschaffen", "zusammenleben", "gemeinsam haustier", "haustier anschaffen"]
 date: 2025-08-07
 image: "/images/blog/beziehung-haustier-anschaffen.webp"
+imageAlt: "Gemeinsam ein Haustier anschaffen"
 tags: ["Zusammenleben"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

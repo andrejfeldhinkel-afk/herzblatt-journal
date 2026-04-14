@@ -4,6 +4,7 @@ description: "Fehlende Leidenschaft in Beziehungen: Praktische Tipps und psychol
 keywords: ["fehlende leidenschaft in beziehungen", "beziehung", "intimität", "fehlende leidenschaft", "leidenschaft beziehungen"]
 date: 2025-09-16
 image: "/images/blog/beziehung-leidenschaft-retten.webp"
+imageAlt: "Fehlende Leidenschaft in Beziehungen"
 tags: ["Beziehung", "Intimität"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

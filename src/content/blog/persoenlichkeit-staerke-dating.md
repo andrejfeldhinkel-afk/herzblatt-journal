@@ -4,6 +4,7 @@ description: "Persönlichkeit als Dating-Stärke: Die Kunst des Flirtens — nat
 keywords: ["persönlichkeit als dating-stärke", "flirten", "selbstliebe", "persönlichkeit dating-stärke"]
 date: 2025-04-07
 image: "/images/blog/persoenlichkeit-staerke-dating.webp"
+imageAlt: "Persönlichkeit als Dating-Stärke"
 tags: ["Flirten", "Selbstliebe"]
 faq:
   - question: "Woran erkenne ich Flirtsignale?"

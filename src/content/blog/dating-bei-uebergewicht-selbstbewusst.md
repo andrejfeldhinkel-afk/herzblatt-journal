@@ -4,6 +4,7 @@ description: "Dating mit Übergewicht — Die besten Tipps und Strategien für e
 keywords: ["dating mit übergewicht", "dating", "gesundheit", "selbstliebe", "dating übergewicht:", "übergewicht: selbstbewusst"]
 date: 2025-11-06
 image: "/images/blog/dating-bei-uebergewicht-selbstbewusst.webp"
+imageAlt: "Dating mit Übergewicht: Selbstbewusst daten"
 tags: ["Dating", "Gesundheit", "Selbstliebe"]
 faq:
   - question: "Wie lange sollte man daten bevor man zusammenkommt?"

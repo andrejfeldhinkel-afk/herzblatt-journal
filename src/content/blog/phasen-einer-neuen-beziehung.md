@@ -4,6 +4,7 @@ description: "Die 5 Phasen einer neuen Beziehung: Praktische Tipps und psycholog
 keywords: ["die 5 phasen einer neuen beziehung", "beziehung", "dating", "psychologie", "phasen einer", "einer neuen"]
 date: 2025-04-11
 image: "/images/blog/phasen-einer-neuen-beziehung.webp"
+imageAlt: "Die 5 Phasen einer neuen Beziehung"
 tags: ["Beziehung", "Dating", "Psychologie"]
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

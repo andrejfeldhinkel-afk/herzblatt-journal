@@ -4,6 +4,7 @@ description: "Gemeinsame Finanzen in der Beziehung — Dein umfassender Ratgeber
 keywords: ["gemeinsame finanzen in der beziehung", "finanzen", "gemeinsame finanzen", "finanzen beziehung"]
 date: 2025-12-18
 image: "/images/blog/beziehung-gemeinsame-finanzen-regeln.webp"
+imageAlt: "Gemeinsame Finanzen in der Beziehung"
 tags: ["Finanzen"]
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

@@ -1,5 +1,5 @@
 ---
-title: "IFS in der Partnerschaft: Wie Teile-Arbeit deine Beziehung verändern kann"
+title: "IFS in der Partnerschaft: Teile-Arbeit in der Beziehung"
 description: "Internal Family Systems (IFS) einfach erklärt: Wie du deine inneren Anteile erkennst, mit deinem Partner arbeitest und toxische Dynamiken auflöst."
 date: 2026-04-08
 tags:

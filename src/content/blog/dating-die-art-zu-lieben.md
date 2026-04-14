@@ -4,6 +4,7 @@ description: "Erkenne dein Liebes-Muster: Praktische Tipps und psychologische Ei
 keywords: ["erkenne dein liebes-muster", "beziehung", "psychologie", "erkenne dein", "dein liebes-muster"]
 date: 2025-06-22
 image: "/images/blog/dating-die-art-zu-lieben.webp"
+imageAlt: "Erkenne dein Liebes-Muster"
 tags: ["Beziehung", "Psychologie"]
 faq:
   - question: "Wie kann ich meine Beziehung verbessern?"

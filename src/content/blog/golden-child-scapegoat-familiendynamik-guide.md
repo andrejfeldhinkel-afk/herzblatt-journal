@@ -1,5 +1,5 @@
 ---
-title: "Golden Child und Scapegoat: Wie narzisstische Familiendynamik deine Beziehungen zerstört"
+title: "Golden Child und Scapegoat: Narzisstische Familiendynamik"
 description: "Golden Child und Sündenbock erklärt: Wie narzisstische Eltern Kinder in Rollen drängen und wie diese Rollen erwachsene Beziehungen sabotieren."
 date: 2026-03-19
 tags:

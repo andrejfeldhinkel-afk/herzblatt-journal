@@ -1,5 +1,5 @@
 ---
-title: "Sex69 Test & Erfahrungen 2026: Die Plattform für Abenteuerlustige"
+title: "Sex69 Test 2026: Erfahrungen mit der Abenteuer-Plattform"
 description: "Sex69 im ehrlichen Test: Funktionen, Kosten, Sicherheit und echte Erfahrungen. Für wen sich die Erwachsenen-Dating-Plattform wirklich lohnt."
 date: 2026-04-12
 tags:

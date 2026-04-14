@@ -4,6 +4,7 @@ description: "Deal-Breaker — Dein umfassender Ratgeber auf Herzblatt Journal. 
 keywords: ["deal-breaker", "partnersuche", "deal-breaker: männer", "männer frauen", "frauen sagen"]
 date: 2025-12-12
 image: "/images/blog/dating-deal-breaker-studie.webp"
+imageAlt: "Deal-Breaker: Was Männer vs. Frauen sagen"
 tags: ["Partnersuche"]
 faq:
   - question: "Wo kann man am besten einen Partner finden?"

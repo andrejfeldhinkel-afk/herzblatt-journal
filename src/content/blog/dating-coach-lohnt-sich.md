@@ -4,6 +4,7 @@ description: "Dating Coach: Lohnt sich das? — Praktische Dating-Ratschläge, d
 keywords: ["dating coach", "dating", "flirten", "dating coach:", "coach: lohnt", "lohnt sich"]
 date: 2025-10-11
 image: "/images/blog/dating-coach-lohnt-sich.webp"
+imageAlt: "Dating Coach: Lohnt sich"
 tags: ["Dating", "Flirten"]
 faq:
   - question: "Wie lange sollte man daten bevor man zusammenkommt?"

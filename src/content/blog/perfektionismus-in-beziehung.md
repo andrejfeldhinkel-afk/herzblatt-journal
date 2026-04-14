@@ -1,5 +1,5 @@
 ---
-title: "Perfektionismus in der Beziehung: Warum 'perfekt' einsam macht"
+title: "Perfektionismus in der Beziehung: Warum es einsam macht"
 description: "Perfektionismus zerstört Beziehungen. Erfahre, warum Perfektion unmöglich ist und wie du echte Nähe aufbaust."
 date: 2026-04-06
 image: "/images/photos/perfektionismus-in-beziehung.webp"
@@ -23,7 +23,7 @@ faq:
     answer: "Standards sind flexibel und realistisch. Perfektionismus ist starr, unerreichbar und mit Angst verbunden. Standards motivieren, Perfektionismus lähmt und entfernt dich vom Partner."
 ---
 
-# Perfektionismus in der Beziehung: Warum 'perfekt' einsam macht
+## Perfektionismus in der Beziehung: Warum 'perfekt' einsam macht
 
 Du kennst wahrscheinlich dieses Gefühl: Du möchtest die perfekte Partnerin sein, der perfekte Partner. Du fragst dich ständig, ob du genug tust, ob du „gut genug" bist. Dein Partner macht einen Fehler, und deine erste Reaktion ist, ihn zu kritisieren oder dich zu fragen, wie er das nur tun konnte. Die Vorstellung einer makellosen Beziehung schwebt vor deinen Augen – und alles, was darunter liegt, fühlt sich wie ein Versagen an.
 

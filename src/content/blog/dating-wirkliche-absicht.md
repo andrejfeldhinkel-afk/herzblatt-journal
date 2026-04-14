@@ -4,6 +4,7 @@ description: "Erkenne wirkliche Absichten — Erfahre bewährte Strategien und E
 keywords: ["erkenne wirkliche absichten", "beziehung", "dating", "erkenne wirkliche", "wirkliche absichten"]
 date: 2025-07-15
 image: "/images/blog/dating-wirkliche-absicht.webp"
+imageAlt: "Erkenne wirkliche Absichten"
 tags: ["Beziehung", "Dating"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

@@ -4,6 +4,7 @@ description: "Emotionale Intelligenz im Streit nutzen: Streit muss nicht destruk
 keywords: ["emotionale intelligenz im streit nutzen", "konflikte", "psychologie", "kommunikation", "emotionale intelligenz", "intelligenz streit"]
 date: 2025-08-21
 image: "/images/blog/emotionale-intelligenz-streit.webp"
+imageAlt: "Emotionale Intelligenz im Streit nutzen"
 tags: ["Konflikte", "Psychologie", "Kommunikation"]
 faq:
   - question: "Wie löst man Konflikte in der Beziehung?"

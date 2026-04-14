@@ -4,6 +4,7 @@ description: "Verstehe das Retter-Syndrom und wie du aus destruktiven Helferdyna
 date: 2025-12-15
 author: "thomas-peters"
 image: "/images/blog/retter-syndrom-beziehung-guide.webp"
+imageAlt: "Retter-Syndrom (White Knight Syndrome) — Wenn Helfen zur"
 categories:
   - "Psychologie"
 tags:

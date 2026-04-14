@@ -4,6 +4,7 @@ description: "Wie du dich nach langer Single-Zeit wieder in einer Beziehung zure
 keywords: ["beziehung nach langer single-zeit", "beziehung", "beziehung nach", "nach langer", "langer single-zeit:", "single-zeit: unabhängigkeit"]
 date: 2025-12-23
 image: "/images/blog/beziehung-nach-langem-single-dasein.webp"
+imageAlt: "Beziehung nach langer Single-Zeit"
 tags: ["Beziehung"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

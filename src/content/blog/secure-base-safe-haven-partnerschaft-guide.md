@@ -1,5 +1,5 @@
 ---
-title: "Secure Base und Safe Haven: Wie deine Beziehung zum sicheren Hafen wird"
+title: "Secure Base und Safe Haven: Dein sicherer Hafen"
 description: "Secure Base und Safe Haven nach Bowlby: Wie du eine Partnerschaft schaffst, die gleichzeitig Sicherheit bietet und Wachstum ermöglicht."
 date: 2026-03-17
 tags:

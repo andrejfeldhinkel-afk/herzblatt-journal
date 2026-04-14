@@ -4,6 +4,7 @@ description: "Kreative Jahrestags-Ideen — Erfahre bewährte Strategien und Exp
 keywords: ["kreative jahrestags-ideen", "beziehung", "date ideen"]
 date: 2025-11-26
 image: "/images/blog/beziehung-jahrestag-ideen.webp"
+imageAlt: "Kreative Jahrestags-Ideen"
 tags: ["Beziehung", "Date-Ideen"]
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

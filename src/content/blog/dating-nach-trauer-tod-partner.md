@@ -4,6 +4,7 @@ description: "Dating nach dem Tod des Partners — Dein umfassender Ratgeber auf
 keywords: ["dating nach dem tod des partners", "heilung", "neuanfang", "dating nach", "nach partners"]
 date: 2025-11-25
 image: "/images/blog/dating-nach-trauer-tod-partner.webp"
+imageAlt: "Dating nach dem Tod des Partners"
 tags: ["Heilung", "Neuanfang"]
 faq:
   - question: "Wie heilt man ein gebrochenes Herz?"
