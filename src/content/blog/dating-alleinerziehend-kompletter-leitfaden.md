@@ -485,7 +485,6 @@ Geh daten. Sei mutig. Du verdienst Glück.
 
 ## Das könnte dich auch interessieren
 
-- [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-als-alleinerziehend/)
 - [Dating nach Scheidung: Neustart mit Selbstvertrauen](/blog/dating-nach-scheidung-kompletter-guide/)
 - [Dating über 50: Der komplette Guide für die zweite Lebenshälfte](/blog/dating-ueber-50-kompletter-guide/)
 - [Der komplette Dating-Guide für absolute Anfänger](/blog/kompletter-dating-guide-fuer-anfaenger/)
