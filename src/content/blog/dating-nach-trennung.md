@@ -194,7 +194,7 @@ Dating nach einer Trennung kann sowohl angespannt als auch aufregend sein. Vertr
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Introvertiert liebt Extrovertiert: Gegensätze in der Beziehung](/blog/dating-introvertiert-extrovertiert), [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Introvertiert liebt Extrovertiert: Gegensätze in der Beziehung](/blog/dating-introvertiert-extrovertiert-paar-guide/), [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung).## Weiterlesen
 
 - [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung/)
 - [Dating mit Kindern: So findest du als alleinerziehend](/blog/dating-mit-kindern/)

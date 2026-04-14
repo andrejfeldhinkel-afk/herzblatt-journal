@@ -226,7 +226,7 @@ Diese Validierung (echte, nicht manipulativ gemeint) kann massive Wirkung haben.
 
 ## Wann Paartherapie hilft
 
-Es gibt einen Punkt, an dem Kommunikationstechniken allein nicht ausreichen. Das ist, wo [Bindungsangst erkennen](/blog/bindungsangst-erkennen) professionelle Hilfe sinnvoll wird.
+Es gibt einen Punkt, an dem Kommunikationstechniken allein nicht ausreichen. Das ist, wo [Bindungsangst erkennen](/blog/bindungsangst-erkennen-ueberwinden/) professionelle Hilfe sinnvoll wird.
 
 ### Paartherapie kann helfen, wenn:
 

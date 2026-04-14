@@ -172,7 +172,7 @@ Einige Töchter versuchen auch, ihre Mutter zu heilen oder zu "retten". Sie werd
 
 Während Töchter oft als Bedrohung oder Spiegelbild gesehen werden, werden Söhne oft als Trophäen oder emotionaler Ersatz für den abwesenden oder unzureichenden Partner behandelt. Die Auswirkungen sind unterschiedlich, aber nicht weniger schädlich.
 
-Söhne narzisstischer Mütter könnten mit Frauen Schwierigkeiten haben. Sie haben möglicherweise Schwierigkeiten, die [Bindungsangst](/blog/bindungsangst-erkennen/) zu überwinden oder gesunde Beziehungen aufzubauen. Sie könnten unbewusst Frauen suchen, die ihrer Mutter ähnlich sind oder genau das Gegenteil, um zu versuchen, ihre frühe Verletztheit zu korrigieren.
+Söhne narzisstischer Mütter könnten mit Frauen Schwierigkeiten haben. Sie haben möglicherweise Schwierigkeiten, die [Bindungsangst](/blog/bindungsangst-erkennen-ueberwinden/) zu überwinden oder gesunde Beziehungen aufzubauen. Sie könnten unbewusst Frauen suchen, die ihrer Mutter ähnlich sind oder genau das Gegenteil, um zu versuchen, ihre frühe Verletztheit zu korrigieren.
 
 Einige Söhne werden unterdrückt oder infantilisiert. Ihre Mutter kontrolliert ihr Leben, ihre Karriere, ihre Beziehungen, manchmal sogar in ihr Erwachsenenleben. Sie entwickeln möglicherweise einen Mangel an Unabhängigkeit und Selbstvertrauen. Sie könnten passiv werden, Depression entwickeln oder Substanzenabhängigkeit, um mit ihrem Mangel an Autonomie umzugehen.
 
@@ -212,7 +212,7 @@ Du könntest auch die Rollen deiner Mutter in deinen romantischen Beziehungen au
 
 Du könntest auch Schwierigkeiten mit Intimität, Vertrauen und emotionaler Nähe haben. Du hast möglicherweise gelernt, dass emotionale Nähe gefährlich ist — dass wenn du dich verletzlich machst, werde verletzt. So könntest du dich in romantischen Beziehungen emotional absperren, bis der Partner aufgibt, oder du könntest mit Menschen zusammen sein, die nicht verfügbar sind, damit du nicht zu verletzlich sein musst.
 
-Wenn du [Bindungsangst](/blog/bindungsangst-erkennen/) hast, könnte dies auch von deiner narzisstischen Mutter stammen. Du möchtest Nähe, fürchtest sie aber auch. Wenn ein Partner dir zu nahe kommt, sabotierst du unbewusst die Beziehung.
+Wenn du [Bindungsangst](/blog/bindungsangst-erkennen-ueberwinden/) hast, könnte dies auch von deiner narzisstischen Mutter stammen. Du möchtest Nähe, fürchtest sie aber auch. Wenn ein Partner dir zu nahe kommt, sabotierst du unbewusst die Beziehung.
 
 Einige Menschen mit narzisstischen Müttern finden sich in einer Position als "Retter" oder "Therapeut" für ihre Partner wieder. Sie versuchen, einen Partner zu "heilen", genauso wie sie versucht haben, ihre Mutter zu heilen. Dies führt zu unausgeglichenen, ungesunden Beziehungen.
 
@@ -551,7 +551,7 @@ Wenn du weiter heilen und verstehen möchtest, sind hier einige verwandte Themen
 - [Emotionale Erpressung in Beziehungen](/blog/emotionale-erpressung-beziehung/) — Erkenne diese subtile Form der Manipulation
 - [Dating nach narzisstischen Beziehungen: Ein Leitfaden](/blog/dating-nach-narzisstischer-beziehung-guide/) — Baue gesündere Muster auf
 - [Silent Treatment: Was es bedeutet und wie du damit umgehen kannst](/blog/silent-treatment-beziehung/) — Verstehe diese Bestrafungstaktik
-- [Bindungsangst erkennen und heilen](/blog/bindungsangst-erkennen/) — Überwinde deine Angst vor Nähe
+- [Bindungsangst erkennen und heilen](/blog/bindungsangst-erkennen-ueberwinden/) — Überwinde deine Angst vor Nähe
 - [People-Pleasing und Grenzen setzen](/blog/people-pleasing-beziehung/) — Lerne, deine Bedürfnisse zu priorisieren
 - [Parentifizierung in Beziehungen](/blog/parentifizierung-beziehungen-guide/) — Verstehe die Dynamik, bei der Kinder Eltern werden
 

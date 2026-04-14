@@ -264,4 +264,4 @@ Der erste Schritt ist, dass du erkennst und akzeptierst, dass dein ängstlicher 
 
 Beginne heute. Schreib deine Auslöser auf. Sprich mit jemandem, dem du vertraust. Wenn du bereit bist, finde einen Therapeuten. Und sei vor allem mitfühlend mit dir selbst während dieser Reise. Du machst großartige Arbeit.
 
-Erfahre mehr über Bindungsstile in unserem umfassenden Artikel [Bindungsangst überwinden und Grenzen setzen](/blog/bindungsangst-erkennen).
+Erfahre mehr über Bindungsstile in unserem umfassenden Artikel [Bindungsangst überwinden und Grenzen setzen](/blog/bindungsangst-erkennen-ueberwinden/).

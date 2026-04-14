@@ -322,6 +322,6 @@ Dein Partner ist genauso gebaut wie du. Hinter seinen Beschützern sitzen auch E
 
 Das ist die vielleicht tiefste Liebeserfahrung, die es gibt: zwei Menschen, die das innere Kind des anderen sehen und halten können. Das erfordert viel Arbeit und viel Self-Präsenz. Es ist nicht für jeden Tag. Aber wenn es gelingt, auch nur für einen Moment, spürst du, warum Schwartz von "Heilung in Verbindung" spricht.
 
-Weiterlesen: Wenn du tiefer in das Thema Bindung und innere Anteile einsteigen willst, lies [Inneres Kind heilen Guide](/blog/inneres-kind-heilen-praxis/). Für Trauma-Arbeit im Beziehungsrahmen empfehlen wir [Bindungstrauma bei Erwachsenen heilen](/blog/bindungstrauma-heilen-erwachsene/). Und wenn dich die Verbindung zwischen Nervensystem und Beziehung interessiert, ist [Polyvagal-Theorie für Paare](/blog/polyvagal-theorie-paare-beziehung/) der logische nächste Schritt.
+Weiterlesen: Wenn du tiefer in das Thema Bindung und innere Anteile einsteigen willst, lies [Inneres Kind heilen Guide](/blog/inneres-kind-heilen-beziehung/). Für Trauma-Arbeit im Beziehungsrahmen empfehlen wir [Bindungstrauma bei Erwachsenen heilen](/blog/bindungstrauma-heilen-erwachsene/). Und wenn dich die Verbindung zwischen Nervensystem und Beziehung interessiert, ist [Polyvagal-Theorie für Paare](/blog/polyvagal-theorie-paare-beziehung/) der logische nächste Schritt.
 
 Deine innere Familie wartet nicht auf ein Wunder. Sie wartet auf deine Aufmerksamkeit. Und je öfter du ihr begegnest, desto ruhiger wird dein ganzes Haus.

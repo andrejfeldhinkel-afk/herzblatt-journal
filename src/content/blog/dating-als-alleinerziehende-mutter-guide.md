@@ -305,4 +305,4 @@ Tausende von alleinerziehenden Müttern haben glückliche Beziehungen gefunden. 
 - [Dating nach Scheidung mit Kindern: So klappt es wirklich](/blog/dating-nach-scheidung-mit-kindern/)
 - [Kinderwunsch ansprechen – Das wichtige Gespräch](/blog/dating-kinderwunsch-gespraech/)
 - [Der komplette Dating-Guide für absolute Anfänger](/blog/kompletter-dating-guide-fuer-anfaenger/)
-- [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-als-alleinerziehend/)
+- [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-alleinerziehend-kompletter-leitfaden/)

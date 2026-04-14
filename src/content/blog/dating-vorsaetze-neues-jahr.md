@@ -142,7 +142,7 @@ Weitere Informationen findest du bei Verbraucherzentrale: [Verbraucherzentrale](
 
 ## Weiterlesen
 
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Dating in Aachen: Die besten Orte, Tipps & Hotspots](/blog/dating-aachen/)
 - [Dating als Veganer/in](/blog/dating-als-veganer/)
 - [Dating-App Bio: Profiltexte die matchen](/blog/dating-app-bio-schreiben/)

@@ -126,10 +126,10 @@ Das ist nicht naiv oder zu nett. Das ist emotional intelligent. Das ist das, was
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-als-alleinerziehend), [Dating in Augsburg: Die besten Orte & Tipps für Singles](/blog/dating-augsburg).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-alleinerziehend-kompletter-leitfaden/), [Dating in Augsburg: Die besten Orte & Tipps für Singles](/blog/dating-augsburg).## Weiterlesen
 
 - [10 Dating-Fehler, die Frauen häufig machen — bessere](/blog/dating-fehler-frauen/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Dating in Aachen: Die besten Orte, Tipps & Hotspots](/blog/dating-aachen/)
 - [Dating als Veganer/in](/blog/dating-als-veganer/)
 - [Dating-App Bio: Profiltexte die matchen](/blog/dating-app-bio-schreiben/)

@@ -167,4 +167,4 @@ Nicht jemanden, der nur aus der Dunkelheit herauskrabbelt.
 - [Benching: Der fiese Dating-Trend](/blog/benching-dating-trend-erkennen/)
 - [Benching beim Dating erkennen – Wenn du nur die Wartebank wärmst](/blog/benching-dating-wartebank-erkennen/)
 - [Dating Red Flags bei Männern erkennen](/blog/dating-red-flags-maenner-erkennen/)
-- [Red Flags beim Dating: Die wichtigsten Warnzeichen erkennen](/blog/dating-red-flags-erkennen-liste/)
+- [Red Flags beim Dating: Die wichtigsten Warnzeichen erkennen](/blog/dating-red-flags-komplett-guide/)

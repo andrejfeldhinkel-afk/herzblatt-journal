@@ -277,7 +277,7 @@ Schreibe eine Nachricht, die „du" anfängst (anstatt auf Reddit/AI/einen Freun
 - [Flirten lernen: Der komplette Guide von A bis Z](/blog/flirten-komplett-guide/)
 - [Flirten lernen: Der ultimative Guide für Anfänger](/blog/flirten-lernen/)
 - [Urlaubsflirt – So wird aus dem Sommerabenteuer mehr](/blog/urlaubsflirt-tipps/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 ## FAQ – Rizz und Flirten
 
 **F: Ist Rizz etwas, das du geboren wirst oder können Sie es lehren?**

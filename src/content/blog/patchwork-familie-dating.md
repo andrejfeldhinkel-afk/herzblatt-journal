@@ -94,4 +94,4 @@ Die richtige Person wird nicht nur dich lieben – sie wird deine ganze Familie 
 - [Dating als Veganer/in](/blog/dating-als-veganer/)
 - [Vom besten Freund zum Partner](/blog/dating-nach-freundschaft/)
 - [Haustiere in der Beziehung und beim Dating](/blog/beziehung-und-haustiere/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)

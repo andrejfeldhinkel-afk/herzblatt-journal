@@ -204,7 +204,7 @@ Wenn du nicht erwähnen möchtest über Neurodivergenz und du nicht zum, das ist
 
 ## Weiterlesen
 
-- [Dating als Alleinerziehende/r](/blog/dating-als-alleinerziehend/)
+- [Dating als Alleinerziehende/r](/blog/dating-alleinerziehend-kompletter-leitfaden/)
 - [Dating als Ambivert: Dein Vorteil wenn du weder](/blog/dating-als-ambivert/)
 - [Dating mit Übergewicht: Selbstbewusst trotz Unsicherheit](/blog/dating-als-uebergewichtige/)
 - [Dating nach 30 als Frau: Warum es besser wird als du denkst](/blog/dating-nach-30-als-frau/)

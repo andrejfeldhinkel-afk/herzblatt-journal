@@ -157,7 +157,7 @@ Und am Ende ist das der einzige Match, der zählt.
 
 **Weiterlesen:** Entdecke auch unsere Ratgeber zu [Dating für Introvertierte: Tipps zum Finden von Liebe ohne Stress](/blog/dating-introvertierte), [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung).## Weiterlesen
 
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Wie Dating-App Algorithmen wirklich funktionieren](/blog/online-dating-algorithmus/)
 - [Erste-Date-Angst beim Online-Dating überwinden](/blog/online-dating-erste-date-angst/)
 - [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/online-dating-fotos/)

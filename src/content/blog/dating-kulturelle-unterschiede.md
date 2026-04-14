@@ -90,7 +90,7 @@ Am Ende ist interkulturelle Dating nicht komplizierter als jede andere Beziehung
 
 Die **Überwindung von kulturellen Grenzen** durch Liebe ist eine der schönsten menschlichen Erfahrungen. Es zeigt, dass unsere gemeinsame Menschheit größer ist als unsere Unterschiede. Mit Geduld, offener Kommunikation und gegenseitigem Respekt können interkulturelle Beziehungen nicht nur funktionieren – sie können das erfüllendste sind, das du je erlebst.## Weiterlesen
 
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Dating in Aachen: Die besten Orte, Tipps & Hotspots](/blog/dating-aachen/)
 - [Dating als Veganer/in](/blog/dating-als-veganer/)
 - [Dating-App Bio: Profiltexte die matchen](/blog/dating-app-bio-schreiben/)

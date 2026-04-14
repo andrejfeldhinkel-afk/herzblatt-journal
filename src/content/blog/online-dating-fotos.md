@@ -122,7 +122,7 @@ Denken Sie daran: Authentizität ist der beste Filter. Menschen werden viel eher
 
 **Weiterlesen:** Entdecke auch unsere [Dating für Introvertierte: Tipps zum Finden von Liebe ohne Stress](/blog/dating-introvertierte), [Dating über 40: Neustart in der Liebe — ehrlich und selbstbewusst](/blog/dating-ueber-40).## Weiterlesen
 
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Wie Dating-App Algorithmen wirklich funktionieren](/blog/online-dating-algorithmus/)
 - [Online-Dating für Senioren: Tech & Tipps für 65+](/blog/online-dating-fuer-senioren/)
 - [Dating für Introvertierte: Tipps zum Finden von Liebe](/blog/dating-introvertierte/)

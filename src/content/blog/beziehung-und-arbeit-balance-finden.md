@@ -119,5 +119,5 @@ Das ist deine Entscheidung. Und die richtige Entscheidung ist die, bei der dein 
 
 **Mehr zum Thema:**
 - [Kommunikation in der Beziehung: Wie du wirklich mit deinem Partner sprichst](/blog/kommunikation-beziehung)
-- [Paartherapie: Wann ist es Zeit, professionelle Hilfe zu holen](/blog/paartherapie-wann)
+- [Paartherapie: Wann ist es Zeit, professionelle Hilfe zu holen](/blog/paartherapie-wann-sinnvoll/)
 - [Fernbeziehung führen: Strategien, die wirklich funktionieren](/blog/fernbeziehung-tipps)

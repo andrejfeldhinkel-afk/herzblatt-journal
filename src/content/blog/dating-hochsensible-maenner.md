@@ -100,4 +100,4 @@ Also versteck es nicht. Umarmt es. Die Welt braucht mehr hochsensible Männer, d
 - [Dating Burnout – Wenn die Partnersuche zur Belastung wird](/blog/dating-burnout/)
 - [Dating nach Burnout oder Depression: Wann bin ich bereit](/blog/dating-nach-burnout/)
 - [Red Flags bei Männern – 15 Warnsignale beim Dating](/blog/dating-red-flags-maenner/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)

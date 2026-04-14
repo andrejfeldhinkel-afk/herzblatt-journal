@@ -301,7 +301,7 @@ Ein Partner, der das versteht und respektiert, ist ein großer Partner.
 ## Weiterlesen
 
 - [Dating für Introvertierte: Tipps zum Finden von Liebe](/blog/dating-introvertierte/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Speed-Dating-Tipps: So überzeugst du sofort](/blog/speed-dating-tipps/)
 - [Dating als Introvertierte: Stärken nutzen](/blog/dating-als-introvertierte-frau/)
 - [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/dating-als-introvertierter-mann/)

@@ -141,6 +141,6 @@ Die gute Nachricht: Wenn du die Zeichen erkennst und deine Grenzen setzt, kannst
 ## Das könnte dich auch interessieren
 
 - [Emotionale Manipulation beim Dating](/blog/emotionale-manipulation-dating/)
-- [Red Flags beim Dating: Die wichtigsten Warnzeichen erkennen](/blog/dating-red-flags-erkennen-liste/)
+- [Red Flags beim Dating: Die wichtigsten Warnzeichen erkennen](/blog/dating-red-flags-komplett-guide/)
 - [Green Flags: Positive Zeichen beim Dating erkennen](/blog/dating-green-flags-positive-zeichen/)
 - [Roaching: Dating-Trend erkennen](/blog/roaching-dating-trend-erkennen/)

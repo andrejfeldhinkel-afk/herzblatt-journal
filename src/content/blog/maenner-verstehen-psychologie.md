@@ -224,7 +224,7 @@ Die Wurzeln sind oft tief: Ein Vater, der gegangen ist. Eine Mutter, die erstick
 
 Diese Angst ist real. Es ist nicht, dass er nicht will. Es ist, dass etwas in ihm anfängt zu paniken, wenn die Beziehung zu nahe wird.
 
-Mehr zu diesem Thema: [Bindungsangst erkennen und verstehen](/blog/bindungsangst-erkennen)
+Mehr zu diesem Thema: [Bindungsangst erkennen und verstehen](/blog/bindungsangst-erkennen-ueberwinden/)
 
 ### Die Hot-and-Cold-Dynamik
 

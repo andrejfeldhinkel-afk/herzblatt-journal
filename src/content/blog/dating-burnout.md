@@ -238,7 +238,7 @@ Es ist nicht schwach, Hilfe zu suchen. Burnout ist echt und Fachleute können he
 - [Dating nach Burnout oder Depression: Wann bin ich bereit](/blog/dating-nach-burnout/)
 - [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/dating-als-introvertierter-mann/)
 - [Dating als hochsensibler Mann: Tiefe statt Fassade](/blog/dating-hochsensible-maenner/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Selbstliebe als Dating-Geheimwaffe: Warum du dich selbst](/blog/selbstliebe-dating/)
 ## FAQ – Dating Burnout
 

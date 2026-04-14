@@ -84,7 +84,7 @@ Die richtige Frau? Sie wird deine Ruhe schätzen. Deine Fähigkeit zuzuhören. D
 
 Also sei, wer du bist. Sei der introvertierte Mann, der du bist. Optimize das, statt es zu wechseln. Die richtigen Frauen werden dich dafür lieben.## Weiterlesen
 
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Dating Burnout – Wenn die Partnersuche zur Belastung wird](/blog/dating-burnout/)
 - [Dating als hochsensibler Mann: Tiefe statt Fassade](/blog/dating-hochsensible-maenner/)
 - [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung/)

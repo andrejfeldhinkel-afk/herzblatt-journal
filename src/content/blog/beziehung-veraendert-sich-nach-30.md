@@ -115,4 +115,4 @@ Und das ist das beste, was einer Beziehung passieren kann.
 
 ---
 
-**Du erkennst dich in dieser Veränderung wieder?** Dann lies auch unsere Artikel über [Kommunikation in Langzeitbeziehungen](/blog/kommunikation-partnerschaft) und [Wie du wieder näher an deinem Partner kommst](/blog/naehe-beziehung-wiederfinden). Oder erfahre mehr über [Beziehungsphasen und wie man sie meistert](/blog/beziehungsphasen).
+**Du erkennst dich in dieser Veränderung wieder?** Dann lies auch unsere Artikel über [Kommunikation in Langzeitbeziehungen](/blog/kommunikation-beziehung/) und [Wie du wieder näher an deinem Partner kommst](/blog/emotionale-naehe-aufbauen/). Oder erfahre mehr über [Beziehungsphasen und wie man sie meistert](/blog/beziehung-phasen-guide/).

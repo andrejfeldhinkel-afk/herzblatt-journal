@@ -147,7 +147,7 @@ Am Ende ist die Grundregel aller Dating-Etikette: **Behandle andere Menschen so,
 Moderne Dating-Etikette ist weniger starr, aber gleichzeitig direkter und ehrlicher. Das ist tatsächlich besser – echte [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) über falsche Spielchen ist immer der Weg zu besseren Beziehungen.## Weiterlesen
 
 - [Flirten lernen: Der komplette Guide von A bis Z](/blog/flirten-komplett-guide/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Diese Signale senden Frauen beim Flirten – Männer übersehen](/blog/dating-signals-frauen/)
 - [Speed-Dating-Tipps: So überzeugst du sofort](/blog/speed-dating-tipps/)
 - [Anzeichen dass er/sie Interesse hat: 15 Signale richtig](/blog/anzeichen-interesse-erkennen/)

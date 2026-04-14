@@ -132,6 +132,6 @@ Das ist alles nicht romantisch, aber es ist verantwortungsvoll — und es schüt
 **Wichtiger Hinweis**: Dieser Artikel ist keine Rechtsberatung. Die Rechtslage kann je nach Bundesland und einzelnen Umständen unterschiedlich sein. Konsultiert im Zweifelsfall einen Anwalt oder eine Anwältin — das ist besonders bei größeren Vermögenswerten oder komplizierten Situationen sinnvoll.
 
 Weitere Artikel zu diesem Thema:
-- [Heirat oder Partnerschaft — was ist der Unterschied?](/blog/heirat-vs-partnerschaft)
-- [Testament schreiben — So geht's richtig](/blog/testament-schreiben)
-- [Unterhalt und Alimente — Deine Rechte als Partner](/blog/unterhalt-alimente-rechte)
+- [Heirat oder Partnerschaft — was ist der Unterschied?](/blog/heiraten-ja-oder-nein/)
+- Testament schreiben — So geht's richtig
+- [Unterhalt und Alimente — Deine Rechte als Partner](/blog/scheidung-kosten-ratgeber/)

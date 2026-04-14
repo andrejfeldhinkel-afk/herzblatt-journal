@@ -197,4 +197,4 @@ Viel Stärke auf deinem Weg.
 - [Bindungsangst überwinden: Ursachen verstehen und Lösungen finden](/blog/bindungsangst-ueberwinden-guide/)
 - [Bindungsangst überwinden: Warum du dich nicht einlassen kannst und was hilft](/blog/bindungsangst-ueberwinden/)
 - [Bindungsangst erkennen und überwinden](/blog/bindungsangst-erkennen-ueberwinden/)
-- [Bindungsangst erkennen: Symptome und Ursachen](/blog/bindungsangst-erkennen/)
+- [Bindungsangst erkennen: Symptome und Ursachen](/blog/bindungsangst-erkennen-ueberwinden/)

@@ -112,6 +112,6 @@ Aber viele Paare lieben es, sich tagsüber näher zu sein, flexiblere Zeiten zu 
 
 Klare Abmachungen, echte Pausen, räumliche oder zeitliche Grenzen und offene Kommunikation – das ist das Rezept. Nicht für perfekte Homeoffice-Liebe, aber für eine, die funktioniert.
 
-Schau dir auch unsere anderen Artikel zum Thema an: [Beziehung auf Distanz meistern](/blog/fernbeziehung-tipps) und [Wie Paare richtig kommunizieren](/blog/paarkommunikation).
+Schau dir auch unsere anderen Artikel zum Thema an: [Beziehung auf Distanz meistern](/blog/fernbeziehung-tipps) und [Wie Paare richtig kommunizieren](/blog/kommunikation-beziehung/).
 
 Wie geht es dir und deinem Partner mit dem Homeoffice? Lass mir einen Kommentar da!

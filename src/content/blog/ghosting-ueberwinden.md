@@ -190,4 +190,4 @@ Wenn du gerade geghostet wurdest, tut mir leid. Es tut weh. Aber du wirst überl
 - [Multi-Dating: Mehrere Personen gleichzeitig daten — Ist das](/blog/online-dating-mehrere-personen-gleichzeitig/)
 - [Die Psychologie des Online-Datings: Warum wir swipen wie wir](/blog/online-dating-psychologie/)
 - [Online-Dating Wiedereinstieg: So startest du nach einer](/blog/online-dating-wiedereinstieg-nach-pause/)
-- [Ghosting: Warum es passiert und wie du damit umgehst](/blog/ghosting-umgehen/)
+- [Ghosting: Warum es passiert und wie du damit umgehst](/blog/ghosting-komplett-guide/)

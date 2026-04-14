@@ -103,4 +103,4 @@ Das ist nicht weniger wunderschön. Es ist einfach authentischer. Und echte Lieb
 - [Liebe finden mit 30: Dein bestes Jahrzehnt](/blog/liebe-finden-mit-30/)
 - [Bindungstypen beim Dating erklärt](/blog/attachment-styles-dating/)
 - [Bindungsstile im Dating: Warum du immer wieder an die](/blog/bindungsstile-dating/)
-- [Introvertiert liebt Extrovertiert](/blog/dating-introvertiert-extrovertiert/)
+- [Introvertiert liebt Extrovertiert](/blog/dating-introvertiert-extrovertiert-paar-guide/)

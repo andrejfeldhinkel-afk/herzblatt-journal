@@ -75,6 +75,6 @@ Das Wichtigste ist nicht die absolut richtige Regel, sondern dass ihr beide euch
 
 - [Dating und Alkohol – Wie viel ist beim Date okay?](/blog/dating-und-alkohol/)
 - [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/dating-als-introvertierter-mann/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Dating-Knigge 2026: Die neuen Regeln der modernen Liebe](/blog/dating-etikette-2026/)
 - [Speed-Dating-Tipps: So überzeugst du sofort](/blog/speed-dating-tipps/)

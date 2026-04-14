@@ -232,4 +232,4 @@ Sei offen dafür. Dein bestes Dating Leben könnte direkt vor dir liegen.
 - [Dating ab 40: Neustart in der Lebensmitte](/blog/dating-nach-40-neustart/)
 - [Dating ab 50 : Neustart in der Liebe — Tipps für Frauen](/blog/dating-nach-50/)
 - [Liebe finden über 50: Dating im reifen Alter](/blog/liebe-finden-ueber-50/)
-- [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-als-alleinerziehend/)
+- [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-alleinerziehend-kompletter-leitfaden/)

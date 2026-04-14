@@ -151,8 +151,8 @@ Ein Ehevertrag ist nicht das Gegenteil von Vertrauen. Ein Ehevertrag ist **Vertr
 
 ## Weitere hilfreiche Artikel zum Thema
 
-Wenn Du Dich noch unsicher bist, wie Du mit diesem Thema mit Deinem Partner sprichst, schau Dir unseren Artikel über [finanzielle Kommunikation in der Ehe](/blog/finanzielle-kommunikation-partnerschaft) an. Dort geben wir konkrete Tipps, wie Ihr über Geld sprecht, ohne dass es in einen Streit ausartet.
+Wenn Du Dich noch unsicher bist, wie Du mit diesem Thema mit Deinem Partner sprichst, schau Dir unseren Artikel über [finanzielle Kommunikation in der Ehe](/blog/beziehung-streit-ueber-geld/) an. Dort geben wir konkrete Tipps, wie Ihr über Geld sprecht, ohne dass es in einen Streit ausartet.
 
-Und wenn Ihr bereits verheiratet seid und merkt, dass sich Eure finanzielle Situation verändert hat, könnte unser Guide zu [Ehepakten und nachträglichen Verträgen](/blog/ehevertrag-waehrend-ehe-aendern) für Euch interessant sein.
+Und wenn Ihr bereits verheiratet seid und merkt, dass sich Eure finanzielle Situation verändert hat, könnte unser Guide zu Ehepakten und nachträglichen Verträgen für Euch interessant sein.
 
-Wenn Ihr gerade eine Trennung durchmacht, findest Du im Artikel [Was kostet eine Scheidung wirklich?](/blog/scheidungskosten-ueberblick) konkrete Zahlen und Optionen.
+Wenn Ihr gerade eine Trennung durchmacht, findest Du im Artikel [Was kostet eine Scheidung wirklich?](/blog/scheidung-kosten-ratgeber/) konkrete Zahlen und Optionen.

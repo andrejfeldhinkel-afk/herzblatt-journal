@@ -152,7 +152,7 @@ Du packst das. Und in einem Jahr wirst du mir dankbar sein.
 Verwandte Artikel: [Neuanfang mit 40: Alles ist möglich — und so geht es](/blog/neuanfang-mit-40/) und [Trennung bereuen: Zurück oder weitergehen?](/blog/trennung-bereuen-was-tun/)
 ## Weiterlesen
 
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Erste eigene Wohnung nach [Trennung](/blog/trennung-verarbeiten-12-schritte): Der Neustart-Guide](/blog/erste-wohnung-nach-trennung/)
 - [Freundschaft nach Trennung: Geht das?](/blog/freundschaft-nach-trennung/)
 - [Gemeinsame Freunde nach der Trennung: Wie geht das?](/blog/gemeinsame-freunde-nach-trennung/)

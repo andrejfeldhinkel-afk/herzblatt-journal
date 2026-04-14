@@ -212,6 +212,9 @@ export default defineConfig({
     '/blog/dating-als-schuechterne-frau': { status: 301, destination: '/blog/dating-tipps-fuer-schuechterne-frauen' },
     '/blog/ghosting-umgehen': { status: 301, destination: '/blog/ghosting-komplett-guide' },
     '/blog/dating-introvertiert-extrovertiert': { status: 301, destination: '/blog/dating-introvertiert-extrovertiert-paar-guide' },
+    // Audit Stufe 2 (2026-04-14): Duplicate + Thin-Content-Merges
+    '/blog/bindungsangst-erkennen': { status: 301, destination: '/blog/bindungsangst-erkennen-ueberwinden' },
+    '/blog/dating-red-flags-erkennen-liste': { status: 301, destination: '/blog/dating-red-flags-komplett-guide' },
   },
   compressHTML: true,
   build: {

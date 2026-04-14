@@ -113,4 +113,4 @@ Halte durch. Die richtigen Menschen sind auch nach 30 noch da. Und sie sind bere
 - [Dating mit Übergewicht: Selbstbewusst trotz Unsicherheit](/blog/dating-als-uebergewichtige/)
 - [Online-Dating Wiedereinstieg: So startest du nach einer](/blog/online-dating-wiedereinstieg-nach-pause/)
 - [Dating Fatigue: Wenn die Partnersuche nur noch erschöpft](/blog/dating-fatigue-was-hilft/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)

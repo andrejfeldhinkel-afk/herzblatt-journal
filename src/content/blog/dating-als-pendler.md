@@ -204,4 +204,4 @@ Und wenn du einen findest, hältst du fest.
 - [Haustiere in der Beziehung und beim Dating](/blog/beziehung-und-haustiere/)
 - [Breadcrumbing: Hingehalten werden erkennen und stoppen](/blog/breadcrumbing-erkennen/)
 - [Dating in Aachen: Die besten Orte, Tipps & Hotspots für Singles](/blog/dating-aachen/)
-- [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-als-alleinerziehend/)
+- [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-alleinerziehend-kompletter-leitfaden/)

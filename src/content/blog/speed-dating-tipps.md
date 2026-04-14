@@ -135,6 +135,6 @@ Speed Dating ist ein Spiel der Nummern und des Zufalls, aber mit den richtigen S
 
 - [Rizz verbessern – Die Kunst des modernen Flirtens [2026](/blog/rizz-tipps-flirten/)
 - [Speed Dating: Der komplette Guide für ein erfolgreiches](/blog/speed-dating-guide/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Diese Signale senden Frauen beim Flirten – Männer übersehen](/blog/dating-signals-frauen/)
 - [Erstes Date: 10 Tipps, damit es richtig gut wird](/blog/erstes-date-tipps/)

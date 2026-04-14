@@ -430,7 +430,7 @@ Die beste Beziehung ist eine, wo beide Menschen bereit sind, sich festzulegen. W
 **Hast du mit Bindungsangst kämpft? Oder bist du mit jemandem, der hat? Ich möchte deine Geschichte hören. Kommentiere unten. Und wenn du mehr über Beziehungstrauben und Heilung erfahren möchtest, lies auch unseren Artikel über [Vergangenheits-Beziehungs-Trauma verarbeiten](https://herzblatt-journal.com/trauma-verarbeitung) und [Wie man gesunde Grenzen baut](https://herzblatt-journal.com/gesunde-grenzen-beziehung).**
 ## Weiterlesen
 
-- [Bindungsangst erkennen und überwinden](/blog/bindungsangst-erkennen/)
+- [Bindungsangst erkennen und überwinden](/blog/bindungsangst-erkennen-ueberwinden/)
 - [Throning — Wenn du nur als Statussymbol datst](/blog/throning-dating-trend-guide/)
 - [Bindungsangst überwinden: Warum du dich nicht einlassen](/blog/bindungsangst-ueberwinden/)
 - [Bindungstypen beim Dating erklärt](/blog/attachment-styles-dating/)

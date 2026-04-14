@@ -72,7 +72,7 @@ Es gibt auch Online-Communities und Dating-Apps speziell für vegane Menschen. W
 Das Wichtigste ist, authentisch zu sein. Verstecke nicht deinen veganen Lebensstil, um Dates zu bekommen. Die richtigen Menschen werden dich und deine Überzeugungen respektieren und unterstützen.## Weiterlesen
 
 - [Von der Dating-App zur Beziehung: Der Weg vom Swipe zur](/blog/online-dating-von-app-zur-beziehung/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Vom besten Freund zum Partner](/blog/dating-nach-freundschaft/)
 - [Dating in einer Patchwork-Familie: Neue Liebe, bestehende](/blog/patchwork-familie-dating/)
 - [Haustiere in der Beziehung und beim Dating](/blog/beziehung-und-haustiere/)

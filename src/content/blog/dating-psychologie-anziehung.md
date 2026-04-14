@@ -334,7 +334,7 @@ Anziehung zu verstehen bedeutet nicht, die Magie aus dem Dating zu nehmen. Es gi
 Die beste Nachricht: Du brauchst nicht geboren zu sein, um "perfekt" zu sein. Du brauchst nur die Werkzeuge zum Selbstverbesserung und die Weisheit, dich zu selbst anzuziehen — nicht zu deinen Wunden.## Weiterlesen
 
 - [Die Psychologie der Anziehung: Warum wir uns in bestimmte?](/blog/psychologie-der-anziehung/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Dating für Introvertierte: Tipps zum Finden von Liebe](/blog/dating-introvertierte/)
 - [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/online-dating-fotos/)
 - [Schüchternheit überwinden beim Dating: Der komplette Guide](/blog/schuechternheit-ueberwinden-dating/)

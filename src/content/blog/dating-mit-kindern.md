@@ -60,7 +60,7 @@ Nutze auch [Dating-Tipps für Menschen nach Trennung](/blog/dating-nach-trennung
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-als-alleinerziehend), [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-alleinerziehend-kompletter-leitfaden/), [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung).## Weiterlesen
 
 - [Dating in einer Patchwork-Familie: Neue Liebe, bestehende](/blog/patchwork-familie-dating/)
 - [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung/)

@@ -313,7 +313,7 @@ Also atme tief durch, erinnere dich an diese Strategien, und mach den ersten Sch
 Du schaffst das.
 ## Weiterlesen
 
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Dating für Introvertierte: Tipps zum Finden von Liebe](/blog/dating-introvertierte/)
 - [Die Psychologie der Anziehung: Was uns wirklich anzieht](/blog/dating-psychologie-anziehung/)
 - [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/online-dating-fotos/)

@@ -68,7 +68,7 @@ Mehr zum Thema erfährst du auf Bundesamt für Sicherheit in der Informationstec
 
 Das Beste, was du tun kannst? Sei ehrlich, sei respektvoll, akzeptiere die Antwort und kümmere dich dann um dein eigenes Glück. Die richtige Person wird dich genau so sehen, wie du sie siehst.## Weiterlesen
 
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Anzeichen dass er/sie Interesse hat: 15 Signale richtig](/blog/anzeichen-interesse-erkennen/)
 - [Haustiere in der Beziehung und beim Dating](/blog/beziehung-und-haustiere/)
 - [Date absagen: Ehrlich und respektvoll absagen](/blog/date-absagen-hoeflich/)

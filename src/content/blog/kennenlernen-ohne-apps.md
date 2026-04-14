@@ -232,6 +232,6 @@ Menschen offline kennenzulernen erfordert mehr Geduld und Konsistenz als Apps. A
 
 - [So optimierst du deinen Dating-App Algorithmus](/blog/dating-apps-algorithmus-hacken/)
 - [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Dating in Augsburg: Die besten Orte & Tipps für Singles](/blog/dating-augsburg/)
 - [Dating in Bamberg: Die besten Orte & Tipps für Singles](/blog/dating-bamberg/)

@@ -176,6 +176,6 @@ Nicht von dir selbst reden. Nicht deine Erfolgsgeschichte erzählen. Frag sie na
 
 ## Die Fehler, die die meisten Männer machen
 
-**Fehler 1: Zu viele [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau)
+**Fehler 1: Zu viele [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Kinderwunsch in der Partnerschaft ansprechen](/blog/kinderwunsch-partnerschaft-ansprechen)
 

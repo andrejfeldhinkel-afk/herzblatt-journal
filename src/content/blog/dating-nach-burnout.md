@@ -402,5 +402,5 @@ Und du verdienst genau diese Art von Liebe.
 - [Dating Burnout – Wenn die Partnersuche zur Belastung wird](/blog/dating-burnout/)
 - [Dating nach großer Körperveränderung](/blog/dating-nach-gewichtsverlust/)
 - [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/dating-als-introvertierter-mann/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Selbstliebe als Dating-Geheimwaffe: Warum du dich selbst](/blog/selbstliebe-dating/)

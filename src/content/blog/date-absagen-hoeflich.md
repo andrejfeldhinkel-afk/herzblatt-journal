@@ -206,4 +206,4 @@ Das wichtigste Takeaway? Schreib die Nachricht. Mach es kurz, mach es freundlich
 - [Date-Gespräche die nie langweilig werden: 100 Fragen und](/blog/date-gespraeche-nie-langweilig/)
 - [Vom besten Freund zum Partner](/blog/dating-nach-freundschaft/)
 - [10 [Red Flags](/blog/dating-red-flags-maenner-erkennen) beim ersten Date die du nicht ignorieren](/blog/dating-rote-flaggen-erstes-date/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)

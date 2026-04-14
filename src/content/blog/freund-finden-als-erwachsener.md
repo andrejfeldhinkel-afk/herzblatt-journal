@@ -189,7 +189,7 @@ Das ist kein schneller Prozess. Das ist ein Prozess von Monaten. Aber am Ende ha
 ## Weiterlesen
 
 - [Dating als Ambivert: Dein Vorteil wenn du weder](/blog/dating-als-ambivert/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Dating mit Übergewicht: Selbstbewusst trotz Unsicherheit](/blog/dating-als-uebergewichtige/)
 - [Dating nach 30 als Frau: Warum es besser wird als du denkst](/blog/dating-nach-30-als-frau/)
 - [Schwarm ansprechen: So machst du den ersten Schritt](/blog/crush-ansprechen-tipps) und [Dating in der Kleinstadt: Wenig Auswahl, viele Chancen](/blog/dating-in-der-kleinstadt).*

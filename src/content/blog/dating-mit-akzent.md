@@ -112,4 +112,4 @@ Bleib authentisch. Warte auf die Leute, die dich sehen und dich völlig lieben.#
 - [Dating nach dem Coming-Out: Authentisch und Mutig](/blog/dating-nach-coming-out/)
 - [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung/)
 - [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/dating-als-introvertierter-mann/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)

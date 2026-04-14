@@ -311,4 +311,4 @@ Viel Erfolg beim Flirten — du schaffst das.
 - [Dating-Knigge 2026: Die neuen Regeln der modernen Liebe](/blog/dating-etikette-2026/)
 - [Die Psychologie der Anziehung: Warum wir uns in bestimmte?](/blog/psychologie-der-anziehung/)
 - [Chemistry beim Date: Woran du echte Anziehung erkennst und](/blog/chemistry-beim-date-erkennen/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)

@@ -144,6 +144,6 @@ Viel Spaß beim Planen, und noch mehr beim Reisen!
 ---
 
 **Verwandte Artikel:**
-- [Hochzeitstag planen: 5 Ideen für ein perfektes Einjahres-Abenteuer](/blog/hochzeitstag-planen-ideen)
-- [Date-Ideen für verheiratete Paare: So bleibt die Romantik lebendig](/blog/date-ideen-verheiratete-paare)
-- [Gemeinsam reisen als Paar: So vermeidet ihr Konflikte und genießt die Reise](/blog/reisen-als-paar-tipps)
+- [Hochzeitstag planen: 5 Ideen für ein perfektes Einjahres-Abenteuer](/blog/hochzeitstag-ideen-feiern/)
+- [Date-Ideen für verheiratete Paare: So bleibt die Romantik lebendig](/blog/quality-time-ideen-paare/)
+- [Gemeinsam reisen als Paar: So vermeidet ihr Konflikte und genießt die Reise](/blog/beziehung-und-reisen/)

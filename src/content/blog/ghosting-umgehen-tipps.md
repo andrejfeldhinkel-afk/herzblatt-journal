@@ -80,7 +80,7 @@ Detaillierte Infos bietet Neurologen und Psychiater im Netz: [Neurologen und Psy
 - [Dating Burnout – Wenn die Partnersuche zur Belastung wird](/blog/dating-burnout/)
 - [Dating als hochsensibler Mann: Tiefe statt Fassade](/blog/dating-hochsensible-maenner/)
 - [Dating nach Burnout oder Depression: Wann bin ich bereit](/blog/dating-nach-burnout/)
-- [Ghosting: Warum es passiert und wie du damit umgehst](/blog/ghosting-umgehen/)
+- [Ghosting: Warum es passiert und wie du damit umgehst](/blog/ghosting-komplett-guide/)
 ## Häufig gestellte Fragen zu Ghosting
 
 **Sollte ich versuchen, den Ghoster zu kontaktieren?**

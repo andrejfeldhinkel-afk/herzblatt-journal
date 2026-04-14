@@ -334,7 +334,6 @@ Wenn du diese grünen Flaggen sehen kannst, könnte dies eine gesunde Beziehung 
 ## Das könnte dich auch interessieren
 
 - [Red Flags bei Männern – 15 Warnsignale beim Dating](/blog/dating-red-flags-maenner/)
-- [Red Flags beim Dating: Die wichtigsten Warnzeichen erkennen](/blog/dating-red-flags-erkennen-liste/)
 - [Dating Red Flags bei Männern erkennen](/blog/dating-red-flags-maenner-erkennen/)
 - [Red Flags bei Frauen: Warnsignale erkennen](/blog/dating-red-flags-frauen/)
 

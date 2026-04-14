@@ -135,7 +135,7 @@ Die Beziehungen, die es wert sind, erfordern diese innere Arbeit. Du tust diese 
 
 ### Professionelle Unterstützung
 
-Wenn du merkst, dass du alleine nicht vorankommst, dann ist [das Gespräch mit einem Therapeuten](/blog/wenn-paartherapie-sinn-macht) nicht der Weg der Schwachen. Es ist ein Weg der Klugheit. Ein guter Therapeut kann dir zeigen, welche Überzeugungen du über dich trägst, und dir helfen, sie zu transformieren.
+Wenn du merkst, dass du alleine nicht vorankommst, dann ist [das Gespräch mit einem Therapeuten](/blog/paartherapie-wann-sinnvoll/) nicht der Weg der Schwachen. Es ist ein Weg der Klugheit. Ein guter Therapeut kann dir zeigen, welche Überzeugungen du über dich trägst, und dir helfen, sie zu transformieren.
 
 Paartherapie kann auch helfen, wenn die Eifersucht bereits Druck auf eure Beziehung ausübt. Manchmal braucht es einen neutralen Dritten, damit beide Partner verstehen, was passiert.
 
@@ -153,6 +153,6 @@ Die Vergangenheit ist ein Ort, wo dein Partner mal war. Aber Gegenwart? Das ist 
 
 Wenn du an deinen Beziehungsmuster arbeiten möchtest, könnte dich auch interessieren:
 
-- [Vertrauen in Beziehungen wieder aufbauen](/blog/vertrauen-beziehung-wiederherstellen)
-- [Besitzergreifende Liebe erkennen und loslassen](/blog/besitzergreifende-liebe)
+- [Vertrauen in Beziehungen wieder aufbauen](/blog/vertrauensbruch-beziehung-neu-aufbauen/)
+- [Besitzergreifende Liebe erkennen und loslassen](/blog/eifersucht-beziehung-ueberwinden/)
 - [Unsicherheit in der Beziehung: Woher sie kommt und wie du sie überwindest](/blog/unsicherheit-beziehung-überwinden)

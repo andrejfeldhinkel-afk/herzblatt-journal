@@ -123,7 +123,7 @@ Wenn ihr euch gegenseitig respektiert, offen kommuniziert und bereit seid, auf d
 
 Die größere Frage ist nicht: "Sind wir alt genug/jung genug?" Sondern: "Wollen wir beide die gleiche Zukunft?" Wenn die Antwort ja ist, ist der Rest Handwerk.
 
-Du möchtest mehr über Beziehungsdynamiken erfahren? Schau dir auch unsere Artikel zu [kommunikation-in-der-beziehung](/blog/kommunikation-in-der-beziehung) und [vertrauen-aufbauen-partnerschaft](/blog/vertrauen-aufbauen-partnerschaft) an. Beide behandeln Themen, die bei jedem Paar — egal welcher Altersunterschied — zentral sind.
+Du möchtest mehr über Beziehungsdynamiken erfahren? Schau dir auch unsere Artikel zu [kommunikation-in-der-beziehung](/blog/kommunikation-beziehung/) und [vertrauen-aufbauen-partnerschaft](/blog/vertrauen-aufbauen-beziehung/) an. Beide behandeln Themen, die bei jedem Paar — egal welcher Altersunterschied — zentral sind.
 
 ---
 

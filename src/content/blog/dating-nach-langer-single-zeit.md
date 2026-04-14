@@ -105,5 +105,5 @@ Wenn du lange Single warst, brauchst du nicht zu glauben, dass du „hinter" bis
 - [Dating nach Burnout oder Depression: Wann bin ich bereit](/blog/dating-nach-burnout/)
 - [Vom besten Freund zum Partner](/blog/dating-nach-freundschaft/)
 - [Dating nach großer Körperveränderung](/blog/dating-nach-gewichtsverlust/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Dating nach langer Beziehung – Der Neustart-Guide](/blog/dating-nach-langer-beziehung/)

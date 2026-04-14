@@ -104,7 +104,7 @@ Es gibt einen Balance-Punkt. Wenn Sie 3 Monate chatten, besteht die Chance, dass
 - [Slow Dating: Der Dating-Trend 2026 erklärt](/blog/slow-dating-trend-2026/)
 - [Micro-Dating: Der Trend für Vielbeschäftigte](/blog/micro-dating-trend-guide/)
 - [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/dating-als-introvertierter-mann/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 ## FAQ – Slow Dating
 
 **F: Bedeutet Slow Dating, dass ich nicht bereit für eine Beziehung bin?**

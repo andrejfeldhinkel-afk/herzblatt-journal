@@ -485,7 +485,7 @@ Das ist respektvoll zu beiden.
 
 - [Micro-Dating — Kleine Momente die eure Beziehung retten](/blog/micro-dating-beziehung-guide/)
 - [Slow Dating: Warum weniger Matches zu mehr Liebe führen](/blog/slow-dating-guide/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Dating in Aachen: Die besten Orte, Tipps & Hotspots](/blog/dating-aachen/)
 - [Dating als Veganer/in](/blog/dating-als-veganer/)
 ## FAQ: Die häufigsten Fragen zum Micro-Dating

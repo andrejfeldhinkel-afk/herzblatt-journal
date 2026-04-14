@@ -89,4 +89,4 @@ Und am wichtigsten: Zuhör. Nicht warte auf dein Schlagwort zu sprechen. Zuhör 
 - [Vom Chat zum ersten Treffen: Übergang zum echten Leben](/blog/erstes-treffen-online-dating/)
 - [WhatsApp-Dating: Regeln für das Schreiben mit dem Schwarm](/blog/whatsapp-dating-regeln/)
 - [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/dating-als-introvertierter-mann/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)

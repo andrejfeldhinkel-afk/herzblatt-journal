@@ -108,7 +108,7 @@ Die beste Version ist die Version, die gute psychische Gesundheit hat, die Grenz
 Nach einer großen Körperveränderung, dating kann sich überwältigend anfühlen. Aber dein Körper ist nicht dein Wert, und es ist nicht wie Menschen sollten dich beurteilen. Ein großartiger Partner wird du als Person lieben, nicht nur deinen Körper. Und wenn du mit dir selbst friedlich bist, werden andere es sehen.## Weiterlesen
 
 - [Dating nach Burnout oder Depression: Wann bin ich bereit](/blog/dating-nach-burnout/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung/)
 - [Slow Dating: Warum weniger Matches zu mehr Liebe führen](/blog/slow-dating-guide/)
 - [Dating nach 30 als Frau: Warum es besser wird als du denkst](/blog/dating-nach-30-als-frau/)

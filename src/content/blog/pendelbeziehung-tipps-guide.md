@@ -125,6 +125,6 @@ Sprecht über eure Gefühle. Nutzt eure Zeit sinnvoll. Schafft kleine Rituale, d
 
 Eine Pendelbeziehung ist kein Liebes-Versprechen. Es ist eine Herausforderung. Aber genau wie jede Herausforderung kann sie euch stärker machen — wenn ihr bereit seid, gemeinsam daran zu arbeiten.
 
-Wenn du in einer Pendelbeziehung steckst und merkst, dass du dich allein fühlst, könnte auch unser Artikel über [Distanz überwinden in Fernbeziehungen](/blog/fernbeziehung-distanz-ueberwinden) hilfreich sein. Und wenn es um die Grundlagen geht: Schau dir mal unseren Guide zu [gegenseitiger Abhängigkeit in Beziehungen](/blog/gegenseitige-abhaengigkeit-beziehung) an — oft verstärkt eine Pendelbeziehung diese Dynamik.
+Wenn du in einer Pendelbeziehung steckst und merkst, dass du dich allein fühlst, könnte auch unser Artikel über [Distanz überwinden in Fernbeziehungen](/blog/beziehung-fernbeziehung-ueberleben/) hilfreich sein. Und wenn es um die Grundlagen geht: Schau dir mal unseren Guide zu [gegenseitiger Abhängigkeit in Beziehungen](/blog/co-abhaengigkeit-beziehung/) an — oft verstärkt eine Pendelbeziehung diese Dynamik.
 
 Die Liebe bleibt bestehen, auch wenn die Kilometer dazwischen sind. Aber nur, wenn ihr an ihr arbeitet.

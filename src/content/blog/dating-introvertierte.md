@@ -123,7 +123,7 @@ Arbeite mit Ihrem natürlichen Temperament, nicht dagegen. Seien Sie authentisch
 **Weiterlesen:** Entdecke auch unsere [Perfekte Fotos fürs Online-Dating: Der vollständige Leitfaden](/blog/online-dating-fotos), [Dating über 40: Neustart in der Liebe — ehrlich und selbstbewusst](/blog/dating-ueber-40).## Weiterlesen
 
 - [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/online-dating-fotos/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Wie Dating-App Algorithmen wirklich funktionieren](/blog/online-dating-algorithmus/)
 - [Online-Dating für Senioren: Tech & Tipps für 65+](/blog/online-dating-fuer-senioren/)
 - [Dating für Introvertierte – Authentisch daten](/blog/dating-fuer-introvertierte/)

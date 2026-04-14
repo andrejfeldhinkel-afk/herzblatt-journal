@@ -450,6 +450,6 @@ Und eines Tages wirst du einen Partner haben, der dich mit dieser gleichen Sanft
 ## Das könnte dich auch interessieren
 
 - [Dating nach Essstörung: Selbstbild und Nähe](/blog/dating-nach-essstoerung/)
-- [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-als-alleinerziehend/)
+- [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-alleinerziehend-kompletter-leitfaden/)
 - [Dating als Berufspendler: Liebe finden wenn du nie da bist](/blog/dating-als-pendler/)
 - [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung/)

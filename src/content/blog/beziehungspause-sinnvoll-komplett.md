@@ -392,7 +392,7 @@ Am Ende eines Tages, egal was mit der Beziehung geschieht, wird eine gut-durchf�
 
 ## Das könnte dich auch interessieren
 
-- [Beziehungspause: Sinnvoll oder Anfang vom Ende?](/blog/beziehungspause-sinnvoll-regeln/)
+- [Beziehungspause: Sinnvoll oder Anfang vom Ende?](/blog/beziehungspause-sinnvoll/)
 - [Beziehungspause: Rettung oder Anfang vom Ende?](/blog/beziehungspause-sinnvoll/)
 - [Paartherapie: Wann ist sie sinnvoll?](/blog/paartherapie-wann-sinnvoll/)
 - [Ex zurückgewinnen – Wann es sich lohnt und wann nicht](/blog/ex-zurueck-sinnvoll/)

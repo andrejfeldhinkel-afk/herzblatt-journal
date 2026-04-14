@@ -103,7 +103,7 @@ Detaillierte Infos bietet Bundesamt für Sicherheit in der Informationstechnik: 
 Dating im Ausland ist ein Abenteuer – manchmal aufregend, manchmal herausfordernd, manchmal beide. Die beste Art zu nähern ist mit Neugier, Offenheit und realistischen Erwartungen. Du könntest die Liebe deines Lebens treffen oder eine wunderbare Lernerfahrung haben. Egal was passiert, du wirst wachsen.## Weiterlesen
 
 - [Romantische Winter-Dates und Kennenlern-Ideen](/blog/dating-im-winter/)
-- [Dating-Tipps für schüchterne Frauen](/blog/dating-als-schuechterne-frau/)
+- [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Interkulturell Daten: Liebe über Kulturgrenzen hinweg](/blog/dating-kulturelle-unterschiede/)
 - [Dating in Aachen: Die besten Orte, Tipps & Hotspots](/blog/dating-aachen/)
 - [Dating als Veganer/in](/blog/dating-als-veganer/)
