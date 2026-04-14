@@ -4,10 +4,50 @@ import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
 import node from '@astrojs/node';
 import compressor from 'astro-compressor';
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+// --- Image-Sitemap: Map slug -> {image, alt, title} aus Blog-Frontmatter ---
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const BLOG_DIR = path.join(__dirname, 'src/content/blog');
+const SITE_ORIGIN = 'https://herzblatt-journal.com';
+
+function getField(fm, key) {
+  const m = fm.match(new RegExp(`^${key}:\\s*(.+)$`, 'm'));
+  if (!m) return null;
+  let v = m[1].trim();
+  if ((v.startsWith('"') && v.endsWith('"')) || (v.startsWith("'") && v.endsWith("'"))) {
+    v = v.slice(1, -1);
+  }
+  return v;
+}
+
+const slugToImage = new Map();
+try {
+  for (const file of fs.readdirSync(BLOG_DIR)) {
+    if (!file.endsWith('.md')) continue;
+    const slug = file.replace(/\.md$/, '');
+    const raw = fs.readFileSync(path.join(BLOG_DIR, file), 'utf8');
+    const fmMatch = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+    if (!fmMatch) continue;
+    const fm = fmMatch[1];
+    const image = getField(fm, 'image');
+    if (!image) continue;
+    slugToImage.set(slug, {
+      image,
+      alt: getField(fm, 'imageAlt') || '',
+      title: getField(fm, 'title') || '',
+    });
+  }
+  console.log(`[sitemap] Image map built: ${slugToImage.size} entries`);
+} catch (e) {
+  console.warn('[sitemap] Could not build image map:', e.message);
+}
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://herzblatt-journal.com',
+  site: SITE_ORIGIN,
   adapter: node({ mode: 'standalone' }),
   integrations: [compressor({ gzip: true, brotli: true }), sitemap({
     filter: (page) =>
@@ -18,6 +58,21 @@ export default defineConfig({
       !page.includes('/dating-typ-test'),
     changefreq: 'weekly',
     lastmod: new Date(),
+    serialize(item) {
+      const m = item.url.match(/\/blog\/([^/]+)\/?$/);
+      if (m && slugToImage.has(m[1])) {
+        const info = slugToImage.get(m[1]);
+        const absImg = info.image.startsWith('http')
+          ? info.image
+          : SITE_ORIGIN + (info.image.startsWith('/') ? info.image : '/' + info.image);
+        item.img = [{
+          url: absImg,
+          title: info.title,
+          caption: info.alt,
+        }];
+      }
+      return item;
+    },
   })],
   redirects: {
     // Existing redirects
