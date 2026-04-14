@@ -192,6 +192,14 @@ const faqSchema = faq.length > 0 ? {
   <link rel="preload" href="/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/fonts/playfair-latin.woff2" as="font" type="font/woff2" crossorigin />
 
+  {/* LCP-Bild Preload: Homepage = Hero-BG, Artikel = eigenes Hero */}
+  {Astro.url.pathname === '/' && (
+    <link rel="preload" as="image" href="/images/hero-bg.webp" fetchpriority="high" />
+  )}
+  {isArticle && image && image !== '/og-default.png' && (
+    <link rel="preload" as="image" href={image} fetchpriority="high" />
+  )}
+
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
