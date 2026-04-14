@@ -2,6 +2,8 @@
 title: "Bindungsstil ändern: Kann man seinen Bindungstyp wirklich verändern?"
 description: "Bindungsstil ändern: Alles über Earned Secure Attachment, wie du deinen Bindungstyp veränderst und welche Therapien wirklich helfen — plus realistische Zeithorizonte."
 date: 2026-04-14
+image: "/images/blog/bindungsstil-aendern.webp"
+imageAlt: "Bindungsstil ändern — Wachstum und Reflexion"
 tags:
   - "Psychologie"
   - "Heilung"

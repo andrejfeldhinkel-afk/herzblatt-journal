@@ -2,6 +2,8 @@
 title: "Bindungsstile: Die 4 Bindungstypen und wie du deinen erkennst"
 description: "Bindungsstile beeinflussen deine Beziehungen massiv. Lerne die 4 Bindungstypen kennen, erkenne deinen Stil und verstehe, was dich in der Liebe antreibt."
 date: 2026-04-14
+image: "/images/blog/bindungsstile-die-4-bindungstypen.webp"
+imageAlt: "Bindungsstile — Die 4 Bindungstypen im Überblick"
 tags:
   - "Psychologie"
   - "Beziehung"

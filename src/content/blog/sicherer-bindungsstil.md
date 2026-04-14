@@ -2,6 +2,8 @@
 title: "Sicherer Bindungsstil: Das Fundament gesunder Beziehungen"
 description: "Sicherer Bindungsstil ist der Schlüssel zu glücklichen Beziehungen. Lerne, wie sicher gebundene Menschen denken, handeln und lieben — und wie du auch sicherer werden kannst."
 date: 2026-04-14
+image: "/images/blog/sicherer-bindungsstil.webp"
+imageAlt: "Sicherer Bindungsstil in der Beziehung"
 tags:
   - "Psychologie"
   - "Beziehung"

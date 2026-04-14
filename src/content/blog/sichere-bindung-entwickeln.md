@@ -2,6 +2,8 @@
 title: "Sichere Bindung entwickeln: Der Weg zur stabilen Beziehung"
 description: "Sichere Bindung ist lernbar. Entdecke den 8-Wochen-Plan und wie du auch als Erwachsener Earned Security entwickelst."
 date: 2026-04-14
+image: "/images/blog/sichere-bindung-entwickeln.webp"
+imageAlt: "Sichere Bindung entwickeln in der Partnerschaft"
 tags:
   - "Psychologie"
   - "Beziehung"

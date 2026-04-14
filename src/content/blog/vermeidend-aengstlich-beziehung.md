@@ -2,6 +2,8 @@
 title: "Vermeidend trifft ängstlich: Die toxische Anziehung erklärt"
 description: "Vermeidend ängstlich Beziehung: Warum sich diese Bindungsstile magnetisch anziehen, wie Push-Pull entsteht und wie du trotzdem funktionierende Liebe aufbaust."
 date: 2026-04-14
+image: "/images/blog/vermeidend-aengstlich-beziehung.webp"
+imageAlt: "Vermeidend-ängstliche Beziehungsdynamik"
 tags:
   - "Psychologie"
   - "Beziehung"

@@ -2,6 +2,8 @@
 title: "Ängstlich-ambivalenter Bindungsstil: Zwischen Sehnsucht und Panik"
 description: "Verstehe deinen ängstlich-ambivalenten Bindungsstil: Hyperaktivierung, Protestverhalten und wie du wieder Ruhe findest."
 date: 2026-04-14
+image: "/images/blog/aengstlich-ambivalenter-bindungsstil.webp"
+imageAlt: "Ängstlich-ambivalenter Bindungsstil"
 tags:
   - "Psychologie"
   - "Beziehung"

@@ -2,6 +2,8 @@
 title: "Bindungstheorie einfach erklärt: Bowlby, Ainsworth und die Forschung"
 description: "Bindungstheorie verstehen: Wie John Bowlby und Mary Ainsworth unser Verständnis von Beziehungen revolutionierten. Wissenschaftlich begründet."
 date: 2026-04-14
+image: "/images/blog/bindungstheorie-bowlby.webp"
+imageAlt: "Bindungstheorie nach Bowlby — Eltern-Kind-Bindung"
 tags:
   - "Psychologie"
   - "Wissenschaft"

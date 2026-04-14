@@ -2,6 +2,8 @@
 title: "Bindungsstil-Test: Welcher Bindungstyp bist du?"
 description: "Entdecke deinen Bindungsstil mit diesem Test: Bist du sicher, ängstlich, vermeidend oder desorganisiert gebunden? Inklusive Auswertung."
 date: 2026-04-14
+image: "/images/blog/bindungsstil-test.webp"
+imageAlt: "Bindungsstil Test — Selbstreflexion"
 tags:
   - "Psychologie"
   - "Test"

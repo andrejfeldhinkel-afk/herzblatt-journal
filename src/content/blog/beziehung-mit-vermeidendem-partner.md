@@ -2,6 +2,8 @@
 title: "Beziehung mit vermeidendem Partner: Wie du dranbleibst oder loslässt"
 description: "Verstehe deinen vermeidenden Partner. Warum er Nähe braucht, aber abstoßen muss, und wann eine Veränderung möglich ist."
 date: 2026-04-14
+image: "/images/blog/beziehung-mit-vermeidendem-partner.webp"
+imageAlt: "Beziehung mit vermeidendem Partner"
 tags:
   - "Psychologie"
   - "Beziehung"

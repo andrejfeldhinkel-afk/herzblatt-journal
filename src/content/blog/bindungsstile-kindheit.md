@@ -2,6 +2,8 @@
 title: "Wie Bindungsstile in der Kindheit entstehen"
 description: "Bindungsstile Kindheit: Wie elterliches Verhalten in den ersten Jahren prägt, welchen Bindungsstil du entwickelst und wie du dich als Erwachsener neu programmieren kannst."
 date: 2026-04-14
+image: "/images/blog/bindungsstile-kindheit.webp"
+imageAlt: "Bindungsstile in der Kindheit — Mutter und Kind"
 tags:
   - "Psychologie"
   - "Kindheit"

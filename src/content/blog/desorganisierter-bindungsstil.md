@@ -2,6 +2,8 @@
 title: "Desorganisierter Bindungsstil: Zwischen Sehnsucht und Angst"
 description: "Desorganisierter Bindungsstil verstehen: Der seltenste & komplexeste Bindungstyp mit Trauma-Wurzeln, Heilungswege und Selbstmitgefühl als Schlüssel."
 date: 2026-04-14
+image: "/images/blog/desorganisierter-bindungsstil.webp"
+imageAlt: "Desorganisierter Bindungsstil"
 tags:
   - "Psychologie"
   - "Beziehung"
