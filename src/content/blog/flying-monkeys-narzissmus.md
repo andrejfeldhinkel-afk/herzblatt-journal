@@ -195,3 +195,8 @@ Deine Energie ist kostbar. Nutze sie, um dich selbst zu heilen und echte Freunde
 Die Menschen, die eine Flying Monkey Position annehmen, sind nicht wert, deine emotionale Energie zu bekommen.
 
 Wenn du [Hoovering](/blog/hoovering-narzissmus-erkennen), das ist manchmal wenn der Narzisst Flying Monkeys nutzt, um dich zurückzuholen. Erkenne das Muster und bleib stark.
+
+## Mehr zu diesem Thema
+
+- [Verdeckter Narzissmus: Die unsichtbare Gefahr in deiner B...](/blog/verdeckter-narzissmus-erkennen-guide/)
+- [Verdeckter Narzissmus: 15 Warnsignale erkennen](/blog/verdeckter-narzissmus-erkennen/)

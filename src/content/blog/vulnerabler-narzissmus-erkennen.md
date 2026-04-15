@@ -117,3 +117,8 @@ Hier sind praktische Schritte:
 **Keine Diskussionen führen** — Du kannst ihn nicht „verstehen lehren". Eine Person ohne Empathie wird sich nicht plötzlich einfühlsam. Du verschwendest deine Zeit.
 
 **Den Kontakt reduzieren oder abbrechen** — [erkenne auch die Manipulationstaktiken von Flying Monkeys](/blog/flying-monkeys-narzissmus), falls der Narzisst andere gegen dich aufbaut. Das ist ein häufiges zusätzliches Problem in diesen Beziehungen.
+
+## Mehr zu diesem Thema
+
+- [Verdeckter Narzissmus: Die unsichtbare Gefahr in deiner B...](/blog/verdeckter-narzissmus-erkennen-guide/)
+- [Verdeckter Narzissmus: 15 Warnsignale erkennen](/blog/verdeckter-narzissmus-erkennen/)

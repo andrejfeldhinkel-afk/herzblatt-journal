@@ -246,3 +246,8 @@ Das ist das Ziel.
 Das ist was du verdienst.
 
 Wenn du das Gefühl hast, dass deine Eifersucht von emotionaler Missbrauch in der Beziehung stammt, lies auch über [toxische Beziehungsmuster](/blog/toxische-beziehungen-komplett-guide). Manchmal ist Eifersucht nicht dein Problem — es ist das Verhalten deines Partners, das dich Grund zum Misstrauen gibt.
+
+## Mehr zu diesem Thema
+
+- [Eifersucht überwinden: Ursachen, Übungen und echte Lösungen](/blog/eifersucht-ueberwinden-komplett/)
+- [Eifersucht überwinden: Der komplette Guide](/blog/beziehung-und-eifersucht-ueberwinden/)

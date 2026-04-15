@@ -195,3 +195,8 @@ Die schwierigste Erkenntnis: Du kannst nicht diese Person heilen und auch nicht 
 Die einzige Person, die du heilen kannst, bist du.
 
 Und das beginnt damit, dich selbst genug zu lieben, um zu gehen.
+
+## Mehr zu diesem Thema
+
+- [On-Off Beziehung beenden: Raus aus dem toxischen Kreislauf](/blog/on-off-beziehung-beenden/)
+- [Verlustangst in Beziehungen: Wie deine Kindheit dich](/blog/verlustangst-bei-kindern-beziehung/)

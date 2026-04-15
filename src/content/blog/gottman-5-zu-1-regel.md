@@ -266,3 +266,8 @@ Es ist nicht geheim. Es ist nicht kompliziert. Es ist einfach.
 Fünf positive für jeden negativ. Das ist die Verhältnis, die Paare überleben.
 
 Und wenn du das tun kannst, kannst du alles überstehen.
+
+## Mehr zu diesem Thema
+
+- [Bid for Connection: Wie kleine Gesten Beziehungen retten](/blog/bid-for-connection-gottman/)
+- [No-Contact-Regel: Durchhalten, wenn der Impuls kommt](/blog/no-contact-regel/)

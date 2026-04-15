@@ -139,3 +139,8 @@ Viel Erfolg beim Daten.
 ---
 
 **Du hast noch Fragen zu Online-Dating-Tipps? Oder möchtest du mehr über [Anmachsprüche, die funktionieren](/blog/anmachsprueche-die-funktionieren) erfahren? Schau in unseren Blog.**
+
+## Mehr zu diesem Thema
+
+- [Online Dating Tipps für Frauen: Sicher & erfolgreich daten](/blog/online-dating-tipps-frauen/)
+- ['Online-Dating Sicherheit für Frauen](/blog/online-dating-sicherheit-frauen-tipps/)

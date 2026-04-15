@@ -157,3 +157,8 @@ Und das ist okay. Es bedeutet, dass es jemanden anderen gibt – jemanden, der d
 Der Schmerz jetzt ist nicht umsonst. Es lehrt dich über deine Kapazität zu lieben. Es lehrt dich Grenzen. Es lehrt dich Schmerz auszuhalten.
 
 Und eines Tages wirst du dankbar sein, dass diese Person dich nicht geliebt hat – weil das dich für jemanden offen hielt, der es könnte.
+
+## Mehr zu diesem Thema
+
+- [Verliebt in Kollegen: Was du wissen musst](/blog/verliebt-in-kollegen-was-tun/)
+- [Verliebt in deine beste Freundin: Wie du damit umgehst](/blog/verliebt-in-beste-freundin/)

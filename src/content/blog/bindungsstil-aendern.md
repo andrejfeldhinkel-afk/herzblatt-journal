@@ -205,3 +205,9 @@ Wenn du bereit bist:
 Das ist nicht schnell. Aber es ist möglich. Und es lohnt sich.
 
 Nicht weil die Angst verschwindet, sondern weil du größer wirst als deine Angst.
+
+## Mehr zu diesem Thema
+
+- [Vermeidender Bindungsstil: Warum Nähe Angst macht](/blog/vermeidender-bindungsstil/)
+- [Sicherer Bindungsstil: Das Fundament gesunder Beziehungen](/blog/sicherer-bindungsstil/)
+- [Der desorganisierte Bindungsstil: Wenn du gleichzeitig Nähe](/blog/desorganisierter-bindungsstil-guide/)

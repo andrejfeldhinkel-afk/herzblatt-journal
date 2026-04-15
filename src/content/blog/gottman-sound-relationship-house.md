@@ -203,3 +203,8 @@ Die Wahl ist deine.
 ---
 
 **Möchtest du mehr über [Quality Time Liebessprache](/blog/love-languages-quality-time) erfahren?**
+
+## Mehr zu diesem Thema
+
+- [Relationship OCD: Wenn Zwangsgedanken deine Beziehung sab...](/blog/relationship-ocd-beziehungszwang-guide/)
+- [Die 5:1 Regel nach Gottman: Das Geheimnis glücklicher Paare](/blog/gottman-5-zu-1-regel/)

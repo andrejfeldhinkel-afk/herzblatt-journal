@@ -254,3 +254,8 @@ Das ist nicht ein Zufall. Das ist Beweis, dass Instagram das Problem war, nicht 
 Also nimm Schritt eins: Deaktiviere.
 
 Dein zukünftiges Selbst wird dir danken.
+
+## Mehr zu diesem Thema
+
+- [Dating und Social Media: Wie Instagram, TikTok & Co. dein](/blog/dating-und-soziale-medien/)
+- [Retrograde Eifersucht: Wenn die Vergangenheit quält](/blog/retrograde-eifersucht-ueberwinden/)

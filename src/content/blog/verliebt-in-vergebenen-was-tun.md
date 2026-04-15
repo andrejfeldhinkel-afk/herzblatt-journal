@@ -236,3 +236,8 @@ Und eines Tages wirst du jemanden treffen, der verfügbar ist. Und die Liebe wir
 Halte durch.
 
 Wenn du tiefere Hilfe brauchst mit Beziehungsfragen, schau dir auch unsere Guides zu [wenn der Ex sich meldet](/blog/ex-meldet-sich-wieder-reagieren) an. Manchmal ist die Situation ähnlich — du brauchst einen Weg, um loszulassen.
+
+## Mehr zu diesem Thema
+
+- [Heimlich verliebt: 10 Anzeichen + 7 konkrete Schritte zum](/blog/heimlich-verliebt-was-tun/)
+- [Stonewalling: Was tun wenn dein Partner dicht macht?](/blog/stonewalling-was-tun/)

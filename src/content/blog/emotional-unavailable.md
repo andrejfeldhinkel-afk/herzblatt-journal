@@ -98,3 +98,8 @@ Das Ziel ist nicht, „offen" zu sein um jeden Preis. Das Ziel ist, wählen zu k
 ## Der eine Satz für diese Woche
 
 Emotional unverfügbar zu sein ist ein gelerntes Muster, kein Charakterurteil. Und wie jedes Muster kann es sich bewegen — bei dem, der es trägt, und auch in der Beziehung drumherum. Aber nur, wenn die Person, um die es geht, diese Arbeit selbst beginnt. Deine Liebe kann den Boden bereiten. Tun muss sie ihn selbst.
+
+## Mehr zu diesem Thema
+
+- [Emotional nicht verfügbar: Warum du dich immer verliebst](/blog/emotional-unavailable-partner/)
+- [Emotional unerreichbarer Partner: Warum du an eine Wand](/blog/emotional-unerreichbarer-partner/)

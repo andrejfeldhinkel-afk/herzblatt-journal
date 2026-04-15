@@ -93,3 +93,8 @@ Je expliziter, desto besser. [Lies unseren Artikel über Bindungsstile in Bezieh
 Die beste Beziung ist die, wo beide Menschen die gleichen Bedürfnisse haben. Ob das FWB ist oder vollständige Monogamie – Alignment ist alles.
 
 Freundschaft Plus kann funktionieren. Aber nur wenn beide Menschen wirklich auf der gleichen Seite sind, und wenn ihr bereit seid, kommunikativ und ehrlich zu sein. Wenn nicht – das ist okay. Such dann nach etwas anderem.
+
+## Mehr zu diesem Thema
+
+- [Freundschaft Plus: Regeln, die funktionieren](/blog/freundschaft-plus-regeln-komplett/)
+- [Seelenpartner: Gibt es Die Eine oder ist Das ein Mythos?](/blog/seelenpartner-komplett-guide/)

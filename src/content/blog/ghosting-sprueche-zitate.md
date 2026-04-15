@@ -206,3 +206,8 @@ Geh nach vorne. Du hast das verdient.
 ---
 
 Für tiefere Einsichten: [warum Ghoster manchmal zurückkommen](/blog/ghosting-taeter-kommen-zurueck) — und wie du damit umgehen solltest.
+
+## Mehr zu diesem Thema
+
+- [Single Sprüche: 50 Zitate über das Alleinsein & die Freiheit](/blog/single-sprueche-zitate/)
+- [Ghosting: Warum Menschen verschwinden und wie du damit um...](/blog/ghosting-warum-und-was-tun/)

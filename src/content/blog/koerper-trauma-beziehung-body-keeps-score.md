@@ -318,3 +318,9 @@ Der Körper erinnert sich. Aber der Körper kann auch vergeben.
 ---
 
 *Dieser Artikel ist für Informationszwecke bestimmt und ersetzt keine professionelle psychologische oder medizinische Beratung. Wenn du Trauma-Symptome erfährst, konsultiere bitte einen ausgebildeten Trauma-Therapeuten.*
+
+## Mehr zu diesem Thema
+
+- [Trauma und Beziehung: Wie Verletzungen die Liebe beeinflu...](/blog/trauma-und-beziehung-komplett/)
+- [Trauma-Reaktionen in Beziehungen: Fight, Flight, Freeze](/blog/trauma-response-beziehung/)
+- [Gemeinsam heilen – Wie Paare Trauma zusammen überwinden](/blog/beziehung-nach-trauma-gemeinsam-heilen/)

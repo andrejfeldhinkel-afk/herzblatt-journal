@@ -183,3 +183,8 @@ Diese Signale sind oft wichtiger als die konkreten Antworten selbst. Sie zeigen 
 ## Fazit
 
 Fragen für die Kennenlernphase sind kein Fragebogen, sondern ein Angebot. Jede gute Frage sagt: "Ich bin wirklich neugierig auf dich." Die 77 Fragen hier sind Werkzeuge — nimm die, die zu dir und zur Situation passen, und lass Raum für das, was unausgesprochen passiert. Das beste Kennenlernen geschieht nicht durch die perfekte Frage, sondern durch präsente Aufmerksamkeit. Die richtigen Fragen helfen nur, den Raum zu öffnen.
+
+## Mehr zu diesem Thema
+
+- [Was heißt ghosten? Definition, Gründe & Reaktion](/blog/was-heisst-ghosten/)
+- [Wann ist es eine Beziehung? Die 5 Phasen vom Kennenlernen](/blog/wann-ist-es-eine-beziehung/)

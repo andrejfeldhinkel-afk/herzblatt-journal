@@ -157,3 +157,8 @@ Gegenstände sind Verstärker. Die echte Liebe ist die Grundlage.
 Wähle eine Idee, die zu deiner Beziehung passt. Es muss nicht teuer sein, muss aber durchdacht sein.
 
 Du schaffst das. Die Distanz ist real, aber eure Liebe ist realer.
+
+## Mehr zu diesem Thema
+
+- [Geschenk zur Verlobung: 30+ Ideen (von Klasse bis Lustig)](/blog/geschenk-zur-verlobung-ideen/)
+- [Fernbeziehung Sprüche: 30+ Texte für deinen fernenen Partner](/blog/fernbeziehung-sprueche-texte/)

@@ -183,3 +183,8 @@ Das ist warum dein emotionales Wohlbefinden genauso wichtig ist wie dein physisc
 Wenn du dein Herz brechen spürst, nimm es ernst. Literalmente.
 
 Lies auch unseren Artikel über [Liebeskummer überwinden](/blog/liebeskummer-phasen-komplett) um zu lernen wie du emotional durch eine Trennung heilst.
+
+## Mehr zu diesem Thema
+
+- [Nice Guy Syndrom: Warum nett sein nicht reicht (2026)](/blog/nice-guy-syndrom-erkennen/)
+- [Liebessucht erkennen und heilen – Wenn Liebe zur Droge wird](/blog/liebessucht-erkennen-heilen/)

@@ -415,3 +415,9 @@ Die Person, die dich auswählt, wird nicht schweigen lassen. Sie wird nicht lang
 Und das ist der Unterschied zwischen derjenigen, die dich in die Friendzone setzt, und derjenigen, die dich wirklich liebt.
 
 Warte auf letzteres.
+
+## Mehr zu diesem Thema
+
+- [Trennen oder bleiben? Der ehrliche Guide zur schwersten](/blog/trennen-oder-bleiben-guide/)
+- [Trauma Dumping erkennen: Wenn Reden zur Belastung wird](/blog/trauma-dumping-erkennen/)
+- [Toxische Beziehung verlassen — Der Schritt-für-Schritt](/blog/toxische-beziehung-verlassen-plan/)

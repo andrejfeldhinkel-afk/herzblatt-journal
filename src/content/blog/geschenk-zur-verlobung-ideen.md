@@ -156,3 +156,8 @@ Was zählt, ist: Du denkst an sie. Du wünschst ihnen Glück. Du feierst diesen 
 Das ist das beste Geschenk von allen.
 
 Für mehr auf der Hochzeitsreise, lies auch: [Verlobung Sprüche](/blog/verlobung-sprueche-glueckwuensche).
+
+## Mehr zu diesem Thema
+
+- [Heiratsantrag planen: 30 romantische Ideen](/blog/heiratsantrag-planen-ideen/)
+- [Verlobung Ratgeber: Wenn es zum Antrag kommt](/blog/verlobung-engagement-ratgeber/)

@@ -104,3 +104,8 @@ Viele Menschen mit 50+ sind überrascht, dass Dating in dieser Phase leichter is
 Du hast weniger Drama-Toleranz. Du weißt, was du willst. Du spielst keine Spielchen. Das macht dich attraktiv.
 
 Es gibt auch Dating-Plattformen speziell für Menschen 50+: Parship, ElitePartner, sogar [Liebeskummer überwinden](/blog/liebeskummer-phasen-komplett) für weitere konkrete Tipps zur emotionalen Heilung.
+
+## Mehr zu diesem Thema
+
+- [Nach der Trennung: So gelingt der Neuanfang](/blog/nach-trennung-neuanfang/)
+- [Trennung im Urlaub: Wenn die Reise zum Beziehungs-Test wird](/blog/trennung-im-urlaub/)

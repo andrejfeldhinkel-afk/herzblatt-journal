@@ -366,3 +366,9 @@ Eine Beziehung, in der ihr euch gegenseitig wirklich sieht. In der deine Worte d
 Das ist es wert.
 
 Beginne heute. Erkenne eine Mikroaggression. Sprich es an. Und sieh zu, wie sich eure Beziehung heilt.
+
+## Mehr zu diesem Thema
+
+- [Passive Aggression in der Beziehung](/blog/passive-aggression-beziehung-erkennen/)
+- [Dein Streitmuster erkennen und durchbrechen](/blog/beziehung-streitmuster-erkennen/)
+- [Vertrauen aufbauen in einer Beziehung: Der komplette Guide](/blog/vertrauen-aufbauen-beziehung/)

@@ -223,3 +223,9 @@ Dein Trauma hat dich geformt. Aber es definiert dich nicht. Du bist mehr als dei
 Du verdienst Liebe. Du verdienst Sicherheit. Du verdienst eine Beziehung, in der du atmen kannst.
 
 Das zu erreichen ist ein Weg. Aber es ist ein Weg, den du gehen kannst.
+
+## Mehr zu diesem Thema
+
+- [Der desorganisierte Bindungsstil: Wenn du gleichzeitig Nähe](/blog/desorganisierter-bindungsstil-guide/)
+- [Vermeidender Bindungsstil: Warum Nähe Angst macht](/blog/vermeidender-bindungsstil/)
+- [Unsicher-vermeidender Bindungsstil: Wenn Nähe sich wie](/blog/unsicher-vermeidender-bindungsstil/)

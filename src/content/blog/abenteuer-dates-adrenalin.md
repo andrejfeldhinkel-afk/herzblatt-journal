@@ -132,3 +132,7 @@ Das ist auch der Grund, warum Langzeit-Beziehungen von kontinuierlichen Abenteue
 
 ### Wie ihr gemeinsam Abenteuer findet und plant
 
+## Mehr zu diesem Thema
+
+- [Wellness-Dates: Entspannung zu zweit genießen](/blog/wellness-dates-paar-entspannung/)
+- [Window of Tolerance: Dein Nervensystem in der Beziehung](/blog/window-of-tolerance-partnerschaft-guide/)

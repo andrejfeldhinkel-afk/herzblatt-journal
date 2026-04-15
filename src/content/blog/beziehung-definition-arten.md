@@ -176,3 +176,8 @@ Und das ist nicht deine Schuld. Das ist einfach die Wahrheit.
 Eine echte Beziehung ist nicht etwas, das du kämpfst dafür dass es funktioniert. Es ist etwas, das natürlich funktioniert, weil beide Menschen entschieden haben, dass sie sich zeigen wollen.
 
 Das ist die Definition, die wichtig ist.
+
+## Mehr zu diesem Thema
+
+- [Unerfüllter Kinderwunsch: Wenn der Traum vom Baby](/blog/unerfuellter-kinderwunsch-beziehung-guide/)
+- [Richtig streiten in der Beziehung: Streitkultur die eure](/blog/streitkultur-beziehung-richtig-streiten/)

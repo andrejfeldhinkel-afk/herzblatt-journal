@@ -410,3 +410,9 @@ So hast du mehrere Menschen, auf die du dich verlassen kannst – nicht nur eine
 Wenn etwas sich belastend anfühlt – früh – höre darauf. Lass es nicht wachsen.
 
 Dein Instinkt weiß. Du musst ihm nur trauen.
+
+## Mehr zu diesem Thema
+
+- [Trauma Bonding: Warum du dich an toxische Menschen gebund...](/blog/trauma-bonding-erkennen-loesen-guide/)
+- [Trauma Bonding – Warum du nicht loskommst und wie du](/blog/trauma-bonding-erkennen-loesen/)
+- [Codependenz erkennen und überwinden](/blog/codependenz-erkennen-ueberwinden/)

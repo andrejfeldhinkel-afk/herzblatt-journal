@@ -229,3 +229,8 @@ Die stärksten Beziehungen sind nicht auf großen Momenten gebaut. Sie sind auf 
 ---
 
 **Möchtest du mehr über [Fearful Avoidant Bindungsstil](/blog/fearful-avoidant-attachment-guide) erfahren?**
+
+## Mehr zu diesem Thema
+
+- [Bids for Connection — Gottmans Konzept](/blog/bids-for-connection-beziehung-guide/)
+- [Die 5:1 Regel nach Gottman: Das Geheimnis glücklicher Paare](/blog/gottman-5-zu-1-regel/)

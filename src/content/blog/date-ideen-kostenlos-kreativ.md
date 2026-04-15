@@ -188,3 +188,8 @@ Also wähle eine dieser 25 Ideen. Buche einen Termin. Und zeige deinem Partner: 
 Wenn du denkst, dass ein Budget hilfreich ist, aber du ein bisschen Geld hast, schau dir auch unsere [Sommer-Dates](/blog/date-ideen-sommer-outdoor) an — wo auch günstige Optionen enthalten sind.
 
 Die Botschaft ist gleich: Liebe ist nicht teuer. Liebe ist da, wenn du aufpasst.
+
+## Mehr zu diesem Thema
+
+- [47 kreative Date-Ideen für jede Jahreszeit jeden Geldbeutel](/blog/date-ideen-kreativ/)
+- [100 kreative Date-Ideen für jede Jahreszeit](/blog/kreative-date-ideen-jede-jahreszeit/)

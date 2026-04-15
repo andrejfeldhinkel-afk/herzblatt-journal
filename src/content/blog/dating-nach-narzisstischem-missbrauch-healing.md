@@ -122,3 +122,8 @@ Das ist es, worauf du hinarbeitest. Das wird es wert sein.
 - [Bist DU die Red Flag? Ehrliche Selbstreflexion für bessere Beziehungen](walking-red-flag-selbstreflexion-guide.md)
 - [Co-Abhängigkeit überwinden: Vom People-Pleasing zur gesunden Beziehung](codependency-recovery-beziehung-guide.md)
 - [Dating nach Scheidung: Der komplette Neustart-Guide für Geschiedene](dating-after-divorce-neuanfang-guide.md)
+
+## Mehr zu diesem Thema
+
+- [Dating nach sexueller Gewalt – Heilung und neue Verbindungen](/blog/dating-nach-vergewaltigung-healing/)
+- [Sicher daten nach Missbrauch: Dein Tempo, deine Regeln](/blog/dating-nach-missbrauch-sicher/)

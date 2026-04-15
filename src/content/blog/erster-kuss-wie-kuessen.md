@@ -137,3 +137,8 @@ Der beste Kuss ist nicht der beste aus technischer Sicht. Es ist der beste, weil
 Also, heute, wenn du nah bei dem anderen sitzt und der Moment kommt: Geh dafür. Vertrau auf dein Instinkt. Es wird gut gehen.
 
 Für mehr auf dem Dating-Weg, lies auch: [Gefühle zeigen](/blog/gefuehle-zeigen-lernen-mann).
+
+## Mehr zu diesem Thema
+
+- [Erster Kuss: Timing, Technik und was danach kommt](/blog/erster-kuss-tipps-ratgeber/)
+- [Flirten im Alltag: 15 Gelegenheiten die du verpasst](/blog/wie-flirtet-man-im-alltag/)

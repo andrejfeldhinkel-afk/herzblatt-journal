@@ -227,3 +227,8 @@ Vor allem, wenn die Illusion dein ganzes Leben lädt wird.
 - [Fantasy Bond: Wenn deine Beziehung nur eine Illusion von Liebe ist](fantasy-bond-beziehung-illusion-guide.md)
 - [Anxious Attachment und Dating: Strategien für sichere Verbindungen](anxious-attachment-dating-strategie-guide.md)
 - [Dating nach narzisstischem Missbrauch: Der Weg zurück ins Vertrauen](dating-nach-narzisstischem-missbrauch-healing.md)
+
+## Mehr zu diesem Thema
+
+- [Throning — Wenn du nur als Statussymbol datst](/blog/throning-dating-trend-guide/)
+- [Trauma-informiert Daten: Der sichere Neustart](/blog/trauma-informiert-dating-guide/)

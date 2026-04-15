@@ -469,3 +469,9 @@ Es braucht Sauerstoff (neue Erfahrungen), Brennstoff (emotionale Nähe), und ein
 Du hast alles, was du brauchst.
 
 Die Frage ist: Wirst du es anzünden?
+
+## Mehr zu diesem Thema
+
+- [Sexuelle Kompatibilität: Warum sie wichtiger ist als du](/blog/sexuelle-kompatibilitaet-wichtigkeit/)
+- [Sexuelle Wünsche ansprechen ohne Scham](/blog/sexuelle-wuensche-kommunizieren/)
+- [Sexuelle Unsicherheiten in der Beziehung überwinden](/blog/sexuelle-unsicherheiten-ueberwinden/)

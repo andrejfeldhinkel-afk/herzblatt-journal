@@ -134,3 +134,9 @@ Sie haben gezeigt, dass unsere Sehnsucht nach emotionaler Nähe nicht schwach is
 In deinen nächsten Beziehungen, oder wenn du verstehen möchtest, warum du so reagierst wie du reagierst – denke an Bowlby und Ainsworth. Denke an die Strange Situation. Und denke vor allem daran: Dein Bindungsmuster zu verstehen ist der erste Schritt, um es bewusst zu verändern.
 
 Die Theorie war revolutionär 1958. Sie ist noch revolutionär 2026.
+
+## Mehr zu diesem Thema
+
+- [Vermeidender Bindungsstil: Warum Nähe Angst macht](/blog/vermeidender-bindungsstil/)
+- [Vermeidend trifft ängstlich: Die toxische Anziehung erklärt](/blog/vermeidend-aengstlich-beziehung/)
+- [Wie verlieben wir uns? Die Psychologie](/blog/verlieben-wie-funktioniert-das/)

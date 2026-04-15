@@ -171,3 +171,8 @@ Also, sag den Spruch (oder vergiss den Spruch und sag nur die echte Sache). Umar
 Das ist was zählt.
 
 Für mehr auf der Hochzeitsreise, lies auch: [Hochzeit planen Checkliste](/blog/hochzeit-planen-checkliste-timeline).
+
+## Mehr zu diesem Thema
+
+- [Glückwünsche zur Verlobung](/blog/glueckwuensche-zur-verlobung-texte/)
+- [Fernbeziehung Sprüche: 30+ Texte für deinen fernenen Partner](/blog/fernbeziehung-sprueche-texte/)

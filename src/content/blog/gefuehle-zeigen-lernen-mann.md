@@ -180,3 +180,8 @@ Also fang heute an. Benenne ein Gefühl. Sag es aus. Sieh, was passiert.
 Es könnte das beste Ding sein, das du tust.
 
 Für mehr zur Beziehung Kommunikation, lies auch: [Fernbeziehung Tipps](/blog/fernbeziehung-tipps-komplett).
+
+## Mehr zu diesem Thema
+
+- [Partner redet nicht über Gefühle: So erreichst du ihn](/blog/partner-redet-nicht-ueber-gefuehle/)
+- [Ist er verliebt? 25 eindeutige Anzeichen, die ihn verraten](/blog/mann-verliebt-anzeichen-komplett/)

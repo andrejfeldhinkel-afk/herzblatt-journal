@@ -168,3 +168,8 @@ Der Sommer ist die Jahreszeit der Freiheit. Nutze sie, um dich wirklich frei von
 Wähle eine dieser 30 Ideen. Buche ein Datum. Und erlebt zusammen, warum der Sommer die beste Jahreszeit für Abenteuer ist.
 
 Wenn du auch Winter-Inspirationen brauchst, schau dir unsere [kostenlose Date-Ideen](/blog/date-ideen-kostenlos-kreativ).
+
+## Mehr zu diesem Thema
+
+- [Die 25 besten Sommer-Date-Ideen für unvergessliche Momente](/blog/sommer-date-ideen/)
+- [30 Outdoor-Date-Ideen für jede Jahreszeit](/blog/dating-outdoor-date-ideen/)

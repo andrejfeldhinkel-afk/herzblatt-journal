@@ -123,3 +123,8 @@ Das wichtigste ist nicht, deinen Seelenpartner zu finden. Es ist, dich selbst zu
 Wenn du mit jemandem zusammen bist, der dich tratiert, der dich unterstützt, der mit dir arbeitet – dann hast du es gefunden. Nicht weil es Schicksal war. Sondern weil ihr beide die tägliche Entscheidung macht, zu bleiben.
 
 Das ist echter als jeder Mythos über Seelenpartner.
+
+## Mehr zu diesem Thema
+
+- [Beziehungspause: Guide zur Trennung auf Zeit](/blog/beziehungspause-komplett-guide/)
+- [Polyamorie: Der komplette Guide zu Liebe, Struktur und Ethik](/blog/polyamorie-komplett-guide/)

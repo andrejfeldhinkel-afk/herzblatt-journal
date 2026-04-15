@@ -197,3 +197,8 @@ Das Wichtigste ist: Kommunikation. Ehrlichkeit. Respekt.
 Alles andere ist Verhandlung.
 
 Schau dir auch unseren Artikel über [Vertrauen in Beziehungen](/blog/vertrauensbruch-beziehung-neu-aufbauen) an, um zu lernen wie man echtes Vertrauen aufbaut — ob in offener oder geschlossener Beziehung.
+
+## Mehr zu diesem Thema
+
+- [Offene Beziehung: Regeln, Erfahrungen & ehrlicher Guide](/blog/offene-beziehung-regeln-guide/)
+- [Zweite Ehe — Warum sie schwieriger ist als gedacht (und](/blog/zweite-ehe-herausforderungen/)

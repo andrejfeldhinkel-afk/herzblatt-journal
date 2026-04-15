@@ -221,3 +221,8 @@ Du bist nicht für immer beschädigt.
 Du brauchst nur Zeit, Hilfe und Geduld mit dir selbst.
 
 Lies auch unseren Artikel über [Selbstliebe nach Trennung](/blog/selbstliebe-nach-trennung) um zu lernen wie du dich während der Heilung selbst liebst.
+
+## Mehr zu diesem Thema
+
+- [EMDR bei Beziehungstrauma: Der komplette Guide zur Heilung](/blog/emdr-beziehungstrauma-heilen-guide/)
+- [Toxische Männlichkeit heilen: Ein Guide für Männer die mehr](/blog/toxische-maennlichkeit-heilen-guide/)

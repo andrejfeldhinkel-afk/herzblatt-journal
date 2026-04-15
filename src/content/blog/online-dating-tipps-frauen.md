@@ -140,3 +140,8 @@ Viel Erfolg bei der Suche nach der richtigen Person.
 ---
 
 **Möchtest du mehr über [Online Dating für Männer](/blog/online-dating-tipps-maenner) erfahren?**
+
+## Mehr zu diesem Thema
+
+- ['Online-Dating Sicherheit für Frauen](/blog/online-dating-sicherheit-frauen-tipps/)
+- [Online Dating für Frauen: Der ehrliche Guide](/blog/online-dating-frauen-guide/)

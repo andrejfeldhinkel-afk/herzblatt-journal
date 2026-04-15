@@ -526,3 +526,9 @@ Das ist nicht Aufgabe.
 Das ist Weisheit.
 
 Das ist liebevoll – für dich beide.
+
+## Mehr zu diesem Thema
+
+- [Emotional unerreichbarer Partner: Warum du an eine Wand](/blog/emotional-unerreichbarer-partner/)
+- [Partner will nicht zusammenziehen: Was steckt dahinter?](/blog/partner-will-nicht-zusammenziehen/)
+- [Partner redet nicht über Gefühle: So erreichst du ihn](/blog/partner-redet-nicht-ueber-gefuehle/)

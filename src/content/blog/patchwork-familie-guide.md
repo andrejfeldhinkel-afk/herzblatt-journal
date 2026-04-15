@@ -135,3 +135,8 @@ Patchwork-Familien haben auch unglaubliche Vorteile:
 Wenn es funktioniert, kann eine Patchwork-Familie wunderschön sein. Es ist nicht weniger echt als eine traditionelle Familie. Es ist einfach anders.
 
 Und unterschiedlich ist okay.
+
+## Mehr zu diesem Thema
+
+- [Patchwork Familie Probleme: Wie wir zusammenwachsen können](/blog/patchwork-familie-probleme-loesen/)
+- [Co-Parenting: Guide für erfolgreiche Zusammenarbeit mit d...](/blog/co-parenting-guide/)

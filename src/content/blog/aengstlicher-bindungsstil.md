@@ -186,3 +186,9 @@ Jetzt ist es Zeit, deinem Nervensystem beizubringen, dass Sicherheit nicht von s
 Das ist nicht egoistisch. Das ist das liebevollste, was du für deine Beziehung tun kannst: Dich selbst heilen. Weil ein sicherer Partner schafft einen Raum, in dem dein ganz anderer zu erblühen.
 
 Du schaffst das. Es braucht Zeit. Aber du schaffst das.
+
+## Mehr zu diesem Thema
+
+- [Ängstlicher Bindungsstil heilen: Schritt für Schritt](/blog/aengstlicher-bindungsstil-heilen/)
+- [Vermeidender Bindungsstil: Warum Nähe Angst macht](/blog/vermeidender-bindungsstil/)
+- [Sicherer Bindungsstil: Das Fundament gesunder Beziehungen](/blog/sicherer-bindungsstil/)

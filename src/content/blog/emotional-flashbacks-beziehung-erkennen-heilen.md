@@ -577,3 +577,9 @@ Der nächste Schritt ist Handlung. Erkenne deine nächsten Emotional Flashback. 
 Du verdienst Heilung. Du verdienst Sicherheit. Du verdienst eine Beziehung, in der du authentisch und verletzlich sein kannst, ohne in alte Überlebensmuster zu fallen.
 
 Das ist möglich. Es beginnt mit dir, mit Geduld, mit dir selbst.
+
+## Mehr zu diesem Thema
+
+- [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inneres-kind-heilen-beziehung/)
+- [Emotionale Vernachlässigung: Das stille Gift in Beziehungen](/blog/emotional-neglect-beziehung/)
+- [Emotional Detachment: Wenn du in der Beziehung nichts mehr](/blog/emotional-detachment-beziehung/)

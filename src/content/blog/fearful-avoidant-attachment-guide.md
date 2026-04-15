@@ -179,3 +179,8 @@ Das ist nicht unmöglich. Das ist eine Reise.
 ---
 
 **Möchtest du mehr über [Sound Relationship House](/blog/gottman-sound-relationship-house) erfahren?**
+
+## Mehr zu diesem Thema
+
+- [Vermeidender Bindungsstil](/blog/avoidant-attachment-beziehung-guide/)
+- [Bindungsstile heilen: Von unsicher zu sicher](/blog/attachment-styles-heilen-guide/)

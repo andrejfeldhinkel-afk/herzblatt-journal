@@ -268,3 +268,8 @@ Aber gebt euch gegenseitig die Chance, zuerst zu verstehen. Das ist was echte Pa
 ---
 
 **Weitere Artikel zum Thema:** [Körperliche Anziehung bewahren](/blog/beziehung-jahreszeiten)
+
+## Mehr zu diesem Thema
+
+- [Beziehung mit unterschiedlicher Libido: Wenn einer mehr will](/blog/beziehung-unterschiedliche-libido-guide/)
+- [Verletzlichkeit in Beziehungen: Warum emotionale Offenheit](/blog/verletzlichkeit-beziehung-guide/)

@@ -184,3 +184,9 @@ Die Beziehung zwischen vermeidendem und ängstlichem Bindungsstil ist nicht vom 
 Aber Chance ist nicht das gleiche wie Sicherheit. Du kannst die richtige Arbeit machen und trotzdem steckenbleiben. Das ist nicht dein Versagen. Das ist die Realität, wenn zwei verletzte Menschen versuchen, sich zu heilen.
 
 Deine Aufgabe ist nicht, perfekt zu sein. Deine Aufgabe ist, dir selbst treu zu bleiben — und deinem Partner die Möglichkeit zu geben, das gleiche zu tun. Alles andere ist nur Klammerei.
+
+## Mehr zu diesem Thema
+
+- [Beziehung mit vermeidendem Partner: Bleiben oder gehen](/blog/beziehung-mit-vermeidendem-partner/)
+- [Ängstlich-ambivalenter Bindungsstil erklärt](/blog/aengstlich-ambivalenter-bindungsstil/)
+- [Strategische Inkompetenz: Wenn dein Partner absichtlich u...](/blog/weaponized-incompetence-beziehung/)

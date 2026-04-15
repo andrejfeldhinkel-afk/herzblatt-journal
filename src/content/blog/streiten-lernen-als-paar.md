@@ -200,3 +200,8 @@ Also lehrt euch selbst. Macht euch die nächste Mal, wenn ihr streitet, bewusst:
 Die Antworten werden dich zum besseren Streiter machen.
 
 Und das wird deine Beziehung stärker machen.
+
+## Mehr zu diesem Thema
+
+- [Finanzen als Paar: Gemeinsam oder getrennt?](/blog/finanzen-als-paar-meistern/)
+- [Morgenroutine als Paar: 10 Rituale für einen besseren Start](/blog/morgenroutine-als-paar/)

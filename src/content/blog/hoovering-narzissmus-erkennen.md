@@ -173,3 +173,8 @@ Lies meinen Artikel über [Flying Monkeys](/blog/flying-monkeys-narzissmus).
 Der Weg der Heilung ist schwer. Aber Hoovering macht ihn noch schwerer.
 
 Deine Arbeit ist es, zu widerstehen, auch wenn es weh tut. Besonders wenn es weh tut. Das ist wenn es am wichtigsten ist.
+
+## Mehr zu diesem Thema
+
+- [Hoovering vom Ex: Manipulation oder echte Reue?](/blog/hoovering-ex-erkennen/)
+- [Vulnerabler Narzissmus: Die versteckte Form erkennen (2026)](/blog/vulnerabler-narzissmus-erkennen/)

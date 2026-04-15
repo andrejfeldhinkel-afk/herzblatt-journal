@@ -223,3 +223,8 @@ Das ist, worauf es hinarbeitet.
 - [Fantasy Bond: Wenn deine Beziehung nur eine Illusion von Liebe ist](fantasy-bond-beziehung-illusion-guide.md)
 - [Co-Abhängigkeit überwinden: Vom People-Pleasing zur gesunden Beziehung](codependency-recovery-beziehung-guide.md)
 - [Protest-Verhalten in Beziehungen: Wenn Angst zu destruktiven Aktionen führt](protest-behavior-beziehung-guide.md)
+
+## Mehr zu diesem Thema
+
+- [Selbstsabotage beim Dating](/blog/selbstsabotage-dating-muster-guide/)
+- [Protest-Verhalten in Beziehungen](/blog/protest-behavior-beziehung-guide/)

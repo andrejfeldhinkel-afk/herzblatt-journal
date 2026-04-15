@@ -188,3 +188,8 @@ Wenn ja, dann gibt es nur einen Weg: Geh. Völlig. Endgültig.
 Und halte durch, bis das Gehirn-Verlangen vorbeigegangen ist.
 
 Du schaffst das.
+
+## Mehr zu diesem Thema
+
+- [Strategische Inkompetenz: Wenn dein Partner absichtlich u...](/blog/weaponized-incompetence-beziehung/)
+- [Verdeckter Narzissmus: Die stille Manipulation erkennen](/blog/verdeckter-narzissmus-beziehung-erkennen/)

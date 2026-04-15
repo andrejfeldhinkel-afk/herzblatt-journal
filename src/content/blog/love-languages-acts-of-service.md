@@ -170,3 +170,8 @@ Die beste Liebe ist oft nicht Worte. Sie ist Handlung. Sie ist Präsenz. Sie ist
 ---
 
 **Möchtest du mehr über [Sound Relationship House](/blog/gottman-sound-relationship-house) erfahren?**
+
+## Mehr zu diesem Thema
+
+- [Liebessprache Worte der Bestätigung](/blog/love-languages-words-of-affirmation/)
+- [Love Languages Test: Entdecke deine Liebessprache (2026)](/blog/love-languages-test-guide/)

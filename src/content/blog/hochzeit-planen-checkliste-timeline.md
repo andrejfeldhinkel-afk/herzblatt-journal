@@ -267,3 +267,8 @@ Also: Bookmark diese Checkliste. Schreib die Daten in deinen Kalender. Und fang 
 Deine Hochzeit wird großartig. Das verspreche ich dir.
 
 Für mehr auf der Hochzeitsreise, lies auch: [Geschenk zur Verlobung](/blog/geschenk-zur-verlobung-ideen).
+
+## Mehr zu diesem Thema
+
+- [Vom Dating zur Hochzeit: Der Beziehungs-Fahrplan](/blog/hochzeit-vorbereitung-guide/)
+- [Zusammenziehen: Der komplette Guide für den großen Schritt](/blog/zusammenziehen-richtig-planen/)

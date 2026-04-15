@@ -598,3 +598,9 @@ Das ist die eigentliche Lehre von Mentalisierung: Es geht um das Sehen des ander
 **Die Therapie:** Wenn es nicht funktioniert, kann Mentalisierungsbasierte Therapie (MBT) helfen.
 
 **Die tiefere Wahrheit:** Mentalisierung ist die Grundlage für Beziehungen, in denen man sich wirklich sieht.
+
+## Mehr zu diesem Thema
+
+- [Secure Base und Safe Haven: Dein sicherer Hafen](/blog/secure-base-safe-haven-partnerschaft-guide/)
+- [Window of Tolerance: Dein Nervensystem in der Beziehung](/blog/window-of-tolerance-partnerschaft-guide/)
+- [Verletzlichkeit in Beziehungen: Warum emotionale Offenheit](/blog/verletzlichkeit-beziehung-guide/)

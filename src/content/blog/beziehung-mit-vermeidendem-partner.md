@@ -171,3 +171,9 @@ Wenn das passiert, wenn er merkt, dass sein Muster ihn sabotiert, und wenn er be
 Aber das darf nicht auf deinen Kosten geschehen. Du darfst nicht warten, bis er reif ist. Du darfst dein Leben jetzt leben.
 
 Gib ihm Chance. Gib dir selbst auch eine Chance. Und wenn er sie nicht ergreifen kann? Dann geh. Mit Liebe, aber geh. Du verdienst jemanden, der ohne Effort nähe kommen kann.
+
+## Mehr zu diesem Thema
+
+- [Beziehung mit einem Workaholic: Nähe trotz Arbeit](/blog/beziehung-mit-workaholic-partner/)
+- [Beziehung mit einem Narzissten – Alles was du wissen musst](/blog/beziehung-mit-narzisst-erkennen-komplett/)
+- [Beziehung & Depression: Wenn der Partner depressiv ist](/blog/beziehung-depression-partner/)

@@ -297,3 +297,8 @@ Sag es. Und mein es.
 Dein zukünftiges Selbst wird dir danken.
 
 Wenn du mehr über gesunde Beziehungen nach einer Trennung lesen möchtest, schau dir auch [Trennung verarbeiten](/blog/trennung-verarbeiten-12-schritte) an.
+
+## Mehr zu diesem Thema
+
+- [Hoovering: Wenn dein Ex dich zurück manipulieren will](/blog/hoovering-ex-zurueck-manipulation-erkennen/)
+- [Hoovering: Wenn der Narzisst dich zurückholen will (2026)](/blog/hoovering-narzissmus-erkennen/)

@@ -411,3 +411,9 @@ Wenn du das machst, wirst du nicht nur eine Chance haben, deine Ex zurückzugewi
 Und das? Das ist das echte Gewinnen – unabhängig davon, ob sie zurückkommt oder nicht.
 
 Die Arbeit an dir selbst ist die Investition, die immer Rückzinsen zahlt.
+
+## Mehr zu diesem Thema
+
+- [Partner vergleicht mich mit der Ex: So reagierst du](/blog/partner-vergleicht-mich-mit-ex/)
+- [Männer verstehen: Was jede Frau wissen sollte](/blog/maenner-verstehen-was-frauen-wissen-sollten/)
+- [Hoovering vom Ex: Manipulation oder echte Reue?](/blog/hoovering-ex-erkennen/)

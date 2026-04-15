@@ -117,3 +117,8 @@ Du kannst lernen, dass es sicher ist, verletzlich zu sein. Du kannst lernen, das
 Das ist ein Weg, aber es ist möglich. Und du machst es nicht alleine.
 
 Wenn du bereit bist, die konkrete Arbeit zu beginnen, lies auch [unseren Artikel mit 7 Schritten zur Überwindung emotionaler Abhängigkeit](/blog/emotionale-abhaengigkeit-loesen-schritte).
+
+## Mehr zu diesem Thema
+
+- [Emotionale Abhängigkeit: Test & Selbstcheck](/blog/emotionale-abhaengigkeit-test-selbstcheck/)
+- [Emotionale Abhängigkeit: Der komplette Guide für mehr Una...](/blog/emotionale-abhaengigkeit-komplett-guide/)

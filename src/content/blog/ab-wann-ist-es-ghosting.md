@@ -119,3 +119,8 @@ Menschen, die ghosten, sind nicht böse. Sie sind oft einfach emotional unreif o
 Du verdienst jemanden, der kommuniziert. Der dir die Wahrheit sagt, auch wenn sie unbequem ist. Der dir zumindest den Respekt einer Erklärung gibt.
 
 Die Anzahl der Tage ist egal. Sobald du weißt, dass dich jemand ghostet, ist die Entscheidung einfach. Weitermachen. Du wirst jemanden finden, der nicht geht, ohne es dir zu sagen.
+
+## Mehr zu diesem Thema
+
+- [Wann ist es eine Beziehung? Die 5 Phasen vom Kennenlernen](/blog/wann-ist-es-eine-beziehung/)
+- [Ghosting: Die letzte Nachricht die du schreiben solltest](/blog/ghosting-letzte-nachricht-schreiben/)

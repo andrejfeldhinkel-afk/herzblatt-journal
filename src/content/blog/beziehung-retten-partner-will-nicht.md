@@ -167,3 +167,8 @@ Du wirst das überwinden. Du wirst weitermachen. Und du wirst jemanden finden, d
 Aber erst musst du diese Beziehung loslassen.
 
 Du schaffst das.
+
+## Mehr zu diesem Thema
+
+- [Warum manche Frauen keinen Partner finden](/blog/warum-frauen-keinen-partner-finden/)
+- [Partner finden: Die beste Strategie und wo du wirklich je...](/blog/partner-finden-wo-und-wie/)

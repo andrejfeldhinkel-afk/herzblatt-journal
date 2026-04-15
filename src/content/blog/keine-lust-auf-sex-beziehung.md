@@ -85,3 +85,8 @@ Hier ist, was ich dir mitgeben möchte: **Sexuelle Unlust ist nicht das Ende eur
 Sex ist nicht das Wichtigste in einer Beziehung. Aber er ist wichtig – weil er Nähe, Vertrauen und Freude ausdrückt. Wenn er fehlt, merkt man das.
 
 Also: Nimm das ernst, aber nicht tragisch. Reden, handeln, professionelle Hilfe holen, wenn nötig. Und dann: Geduld. Die Lust kommt zurück, wenn die Grundlagen wieder stimmen.
+
+## Mehr zu diesem Thema
+
+- [Kein Sex mehr in der Beziehung: Ursachen und Lösungen](/blog/kein-sex-mehr-beziehung-ursachen/)
+- [Wenn der Sex einschläft](/blog/beziehung-wenn-sex-einschlaeft/)

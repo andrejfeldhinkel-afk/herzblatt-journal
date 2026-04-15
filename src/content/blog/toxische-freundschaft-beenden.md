@@ -320,3 +320,9 @@ Wenn du diese Freundschaft noch führst und du weißt, dass sie toxisch ist, kei
 Du verdienst Freundschaften, die dich heben, nicht erniedrigen. Freundschaften, die gegenseitig, liebevoll und authentic sind. Die Welt ist voll von solchen Menschen. Und sobald du diese toxische Freundschaft los bist, werden sie in dein Leben treten.
 
 Das ist das Versprechen, das ich dir mache.
+
+## Mehr zu diesem Thema
+
+- [Toxische Beziehung: 25+ Warnsignale und wie du dich befreist](/blog/toxische-beziehung-komplett-guide-2026/)
+- [Toxische Beziehung erkennen und verlassen](/blog/toxische-beziehung-komplett-guide/)
+- [Gray Rocking: Die Überlebensstrategie gegen toxische Mens...](/blog/gray-rocking-toxische-beziehung-guide/)

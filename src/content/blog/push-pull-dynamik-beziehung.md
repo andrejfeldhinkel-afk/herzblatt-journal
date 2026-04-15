@@ -196,3 +196,8 @@ Nicht perfekt. Nicht dramatisch. Konstant.
 Das ist das Opfer wert.
 
 Schau dir auch unseren Artikel über [emotionale Sicherheit in Beziehungen](/blog/emotionale-reife-beziehung) an um zu verstehen, wie echte Beziehungen sich anfühlen.
+
+## Mehr zu diesem Thema
+
+- [Strategische Inkompetenz: Wenn dein Partner absichtlich u...](/blog/weaponized-incompetence-beziehung/)
+- [Die 4 apokalyptischen Reiter nach Gottman: Was deine](/blog/vier-apokalyptische-reiter-beziehung/)

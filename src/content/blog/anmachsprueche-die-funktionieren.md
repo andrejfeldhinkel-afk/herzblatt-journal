@@ -206,3 +206,8 @@ Viel Erfolg beim Flirten.
 ---
 
 **Möchtest du mehr über [Sound Relationship House](/blog/gottman-sound-relationship-house) erfahren?**
+
+## Mehr zu diesem Thema
+
+- [Opener die funktionieren: Erste Nachricht Guide](/blog/opener-die-funktionieren/)
+- [Komplimente, die wirklich wirken](/blog/komplimente-die-wirken/)

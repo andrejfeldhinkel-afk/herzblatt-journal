@@ -188,3 +188,8 @@ Nutze diese Sammlung als Inspiration, aber schreib auch deine eigenen Sätze. De
 Und manchmal helfen diese 30+ Sprüche dabei. Manchmal sind sie der Funke, der zündet.
 
 Wenn du mehr über Fernbeziehungen erfahren möchtest, lies auch: [Gefühle zeigen lernen — auch wenn es schwerfällt](/blog/gefuehle-zeigen-lernen-mann).
+
+## Mehr zu diesem Thema
+
+- [Verlobung Sprüche: 25+ Glückwünsche zur Verlobung](/blog/verlobung-sprueche-glueckwuensche/)
+- [Queere Fernbeziehung](/blog/queere-fernbeziehung-tipps/)

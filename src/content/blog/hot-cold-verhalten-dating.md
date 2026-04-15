@@ -165,3 +165,8 @@ Und die beste Sache, die du für dich tun kannst, ist weggehen und jemanden find
 Das ist das Opfer wert.
 
 Lies auch unseren Artikel über [Manipulation in Beziehungen](/blog/emotionale-manipulation-beziehung-erkennen) um mehr Kontexte zu verstehen.
+
+## Mehr zu diesem Thema
+
+- [Zombieing beim Dating: Wenn die Ex zurückkommt](/blog/zombie-ing-dating-ex-kommt-zurueck/)
+- [Zombieing: Wenn der Ghost plötzlich wieder auftaucht (2026)](/blog/zombie-dating-trend/)

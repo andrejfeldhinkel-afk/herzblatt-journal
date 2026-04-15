@@ -156,3 +156,8 @@ Wenn dies alles zutrifft, könnte Polyamorie ein wunderschöner Weg sein. Wenn n
 Das Wichtigste ist Ehrlichkeit. Egal welche Beziehungsform du wählst, sei darin authentisch. Tue nicht so. Das ist das Rezept für Unglück.
 
 Polyamorie ist nicht die Zukunft aller Beziehungen. Aber sie ist die richtige Zukunft für manche Menschen. Und wenn du eine davon bist, begrüße dich in einer der ehrlichsten, intensivsten Erfahrungen, die du haben kannst.
+
+## Mehr zu diesem Thema
+
+- [Seelenpartner: Gibt es Die Eine oder ist Das ein Mythos?](/blog/seelenpartner-komplett-guide/)
+- [Emotionale Abhängigkeit: Der komplette Guide für mehr Una...](/blog/emotionale-abhaengigkeit-komplett-guide/)

@@ -240,3 +240,8 @@ Und du verdienst ein Leben ohne ständige Angst. Dein Partner verdient ein Leben
 Der erste Schritt ist, Hilfe zu suchen.
 
 Wenn dein Partner das Problem hat, nicht du, lies auch meinen Artikel über [Narzissmus Symptome beim Mann](/blog/narzissmus-symptome-mann-erkennen) — manchmal wird Eifersucht von narzisstischen Eigenschaften begleitet, und das ist ein anderes Problem.
+
+## Mehr zu diesem Thema
+
+- [Retrograde Eifersucht: Wenn die Vergangenheit quält](/blog/retrograde-eifersucht-ueberwinden/)
+- [Retroaktive Eifersucht überwinden: Warum die Vergangenheit](/blog/retroaktive-eifersucht-ueberwinden/)

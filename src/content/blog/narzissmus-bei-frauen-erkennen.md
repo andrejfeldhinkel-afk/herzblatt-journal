@@ -171,3 +171,8 @@ Was du ändern kannst, ist deine Reaktion darauf. Du kannst gehen. Du kannst dei
 Du verdienst jemanden, der dir echte Liebe gibt — nicht Manipulation versteckt hinter Charme. Der dich sieht und akzeptiert, nicht dich als Projekt behandelt. Der dir vertraut statt deine Schwächen gegen dich zu nutzen.
 
 Das zu erkennen ist der erste Schritt. Der zweite Schritt ist, es anzuerkennen. Und der dritte Schritt ist zu handeln.
+
+## Mehr zu diesem Thema
+
+- [Vulnerabler Narzissmus: Die versteckte Form erkennen (2026)](/blog/vulnerabler-narzissmus-erkennen/)
+- [Verdeckter Narzissmus: Die unsichtbare Gefahr in deiner B...](/blog/verdeckter-narzissmus-erkennen-guide/)

@@ -436,3 +436,9 @@ Entweder Weg ist es das Beste für dich – ob ihr zusammenbleibt oder euch tren
 Das ist die wahre Basis einer gesunden Beziehung: die Freiheit, zu bleiben oder zu gehen, weil du es willst, nicht weil du es musst.
 
 Das ist echte Liebe.
+
+## Mehr zu diesem Thema
+
+- [Fernbeziehung Tipps: So klappt es trotz Distanz](/blog/fernbeziehung-tipps-komplett/)
+- [Fernbeziehung meistern: 25 Tipps für eine starke Liebe](/blog/fernbeziehung-tipps/)
+- [Queere Fernbeziehung](/blog/queere-fernbeziehung-tipps/)

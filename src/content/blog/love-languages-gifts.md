@@ -199,3 +199,8 @@ Und das ist das beste Geschenk, das es gibt.
 Starten Sie heute. Beobachten Sie deinen Partner ohne zu fragen. Achten Sie auf das, was er erwähnt. Kaufen Sie etwas Kleines, aber Bedeutsames. Geben Sie es ihm mit Intention.
 
 Beobachte seinen Blick. Das ist der Moment, in dem du weißt: Das war nicht nur ein Geschenk. Das war eine Liebes-Nachricht.
+
+## Mehr zu diesem Thema
+
+- [Liebessprache Worte der Bestätigung](/blog/love-languages-words-of-affirmation/)
+- [Love Languages Test: Entdecke deine Liebessprache (2026)](/blog/love-languages-test-guide/)

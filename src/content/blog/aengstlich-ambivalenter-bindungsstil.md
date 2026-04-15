@@ -178,3 +178,9 @@ Das Ziel ist nicht, das zu verlieren. Das Ziel ist, diese guten Qualitäten zu b
 Mit etwas Therapie und echtem Eigenengagement (und einem stabilen Partner) können ängstlich-ambivalent gebundene Menschen nicht nur stabil werden. Sie können die stabilsten Liebenden sein. Weil sie gelernt haben, dass Nähe sicher ist und dass sie liebenswert sind, ohne dafür zahlen zu müssen.
 
 Das ist das Ziel. Nicht Unabhängigkeit um jeden Preis. Sichere Nähe. Und ja, das ist möglich für dich.
+
+## Mehr zu diesem Thema
+
+- [Vermeidender Bindungsstil: Warum Nähe Angst macht](/blog/vermeidender-bindungsstil/)
+- [Vermeidend trifft ängstlich: Die toxische Anziehung erklärt](/blog/vermeidend-aengstlich-beziehung/)
+- [Sicherer Bindungsstil: Das Fundament gesunder Beziehungen](/blog/sicherer-bindungsstil/)

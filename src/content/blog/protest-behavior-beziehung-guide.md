@@ -754,3 +754,7 @@ Du kannst dir selbst verzeihen. Du kannst dich ändern. Und wenn du das tust, ka
 
 Das fängt mit der Vergebung deiner Selbst an.
 
+## Mehr zu diesem Thema
+
+- [Verletzlichkeit in Beziehungen: Warum emotionale Offenheit](/blog/verletzlichkeit-beziehung-guide/)
+- [Das 4-Ohren-Modell in Beziehungen: Warum dein Partner etwas](/blog/schulz-von-thun-beziehung-guide/)

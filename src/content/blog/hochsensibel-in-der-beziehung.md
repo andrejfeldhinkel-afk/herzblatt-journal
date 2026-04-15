@@ -500,3 +500,9 @@ Gib dir die gleiche Gnade, die du anderen gibst.
 Die Hochsensibilität ist nicht das Ende der Beziehungs-Glück. Mit dem richtigen Partner und den richtigen Werkzeugen, kann es tatsächlich der Anfang einer sehr, sehr tiefen Liebe sein.
 
 Das ist das Versprechen, das ich dir mache.
+
+## Mehr zu diesem Thema
+
+- [Neid in der Beziehung: Wenn du deinem Partner seinen Erfolg](/blog/neid-in-der-beziehung/)
+- [Machtkampf in der Beziehung: Warum ihr gegeneinander statt](/blog/machtkampf-in-der-beziehung/)
+- [Erwartungen in der Beziehung: Wann sie helfen — und wann sie](/blog/erwartungen-in-der-beziehung/)

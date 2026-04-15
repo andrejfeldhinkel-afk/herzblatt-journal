@@ -182,3 +182,9 @@ Schreib aus dem Herzen. Erzähl Geschichten, die nur du erzählen kannst. Und ve
 Mehr Tipps für unvergessliche Momente findest du in unserem Guide zu [Hochzeitsideen](/hochzeitsideen/) und [Trauzeuge Aufgaben](/trauzeuge-aufgaben/).
 
 Viel Erfolg bei deiner Rede!
+
+## Mehr zu diesem Thema
+
+- [Eheversprechen schreiben: Anleitung & Beispiele die berühren](/blog/eheversprechen-schreiben-tipps/)
+- [Pendelbeziehung meistern: Wenn der Job euch trennt](/blog/pendelbeziehung-tipps-guide/)
+- [Pärchen-Urlaub planen: So wird die Reise perfekt](/blog/paerchen-urlaub-planen-tipps/)

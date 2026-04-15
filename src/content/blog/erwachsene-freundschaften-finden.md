@@ -488,3 +488,9 @@ Das ist eine Wahl, die du treffen kannst.
 Das ist der Plan.
 
 Fang an.
+
+## Mehr zu diesem Thema
+
+- [Beziehung und Freundschaften](/blog/beziehung-und-freundschaften-balance/)
+- [Liebe & Freundschaften: Im Gleichgewicht](/blog/beziehung-und-freundschaften/)
+- [Beziehung und Arbeit: Wie du beides unter einen Hut bekommst](/blog/beziehung-und-arbeit-balance-finden/)

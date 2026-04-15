@@ -161,3 +161,9 @@ Wenn du verstehst, wo du herkommst, kannst du sehen, wo du nicht hinwillst. Du k
 Das ist radikale Hoffnung. Nicht "es wird leicht". Sondern "ich kann es verändern, wenn ich bereit bin zu sehen und zu arbeiten".
 
 Die Arbeit ist nicht einfach. Aber sie lohnt sich. Für dich. Und für die Menschen, die du liebst.
+
+## Mehr zu diesem Thema
+
+- [Bindungsstile: Die 4 Bindungstypen im Überblick](/blog/bindungsstile-die-4-bindungstypen/)
+- [Emotionale Vernachlässigung: Wie Kindheit Liebe prägt](/blog/emotionale-vernachlaessigung-kindheit-beziehung/)
+- [Bindungsstile im Dating: Wie sie dich beeinflussen](/blog/bindungsstile-dating/)

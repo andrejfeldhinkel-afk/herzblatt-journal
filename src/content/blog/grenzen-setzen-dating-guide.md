@@ -164,3 +164,8 @@ Vertrau deinem Bauch. Schütze dich selbst. Das ist Liebe zu dir selbst.
 ---
 
 **Möchtest du mehr über [Fearful Avoidant Bindungsstil](/blog/fearful-avoidant-attachment-guide) erfahren?**
+
+## Mehr zu diesem Thema
+
+- [Persönliche Grenzen beim Dating: Der Unterschied zwischen](/blog/persoenliche-grenzen-dating/)
+- [Pansexuelles Dating: Liebe ohne Grenzen — Der komplette](/blog/pansexuell-dating-guide/)

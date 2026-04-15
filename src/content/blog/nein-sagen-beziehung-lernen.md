@@ -130,3 +130,8 @@ Wenn du Nein sagst, wird dein Partner anfangs wahrscheinlich enttäuscht sein. D
 Ein guter Partner respektiert deine Grenzen. Nicht weil es ihm gefällt, sondern weil deine Grenzen deine Selbstachtung sind. Und deine Selbstachtung ist der Grund, warum er dich liebt.
 
 Wenn dein Partner auf dein Nein mit Wut, Strafen oder emotionalen Spielchen reagiert, dann habt ihr ein größeres Problem. Das ist ein Zeichen, dass die Beziehung ungesund ist. Schau dir unseren Artikel über [Kommunikation in Beziehungen](/blog/kommunikation-beziehung) um zu lernen, wie du schwierige Gespräche führst, ohne zu verletzen.
+
+## Mehr zu diesem Thema
+
+- [Vergeben in der Beziehung lernen: Der Weg zur Heilung](/blog/vergeben-in-beziehung-lernen/)
+- [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)

@@ -126,3 +126,8 @@ Die beste Version ist, wenn beide Eltern erkennen, dass das Kind diese beiden Me
 - Fokus auf das Kindeswohl, nicht die eigenen Schmerzen
 
 Wenn du das erreichst, hast du es geschafft. Deine Kinder werden nicht zwei kaputte Häuser haben. Sie werden zwei Häuser haben, von denen sie lieben – und das ist für ihre emotionale Gesundheit unbezahlbar.
+
+## Mehr zu diesem Thema
+
+- [Beziehungspause: Guide zur Trennung auf Zeit](/blog/beziehungspause-komplett-guide/)
+- [Beziehung retten wenn Partner nicht will: Ist es möglich?](/blog/beziehung-retten-partner-will-nicht/)

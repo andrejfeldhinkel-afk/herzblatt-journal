@@ -404,3 +404,9 @@ Die stärksten Paare sind diejenigen, die wissen, wie man streitet. Sie haben di
 Das ist das Geschenk dieser 10 Regeln.
 
 Beginne heute. Streitet fair. Und sieh zu, wie deine Beziehung wächst.
+
+## Mehr zu diesem Thema
+
+- [Richtig streiten in der Beziehung: Streitkultur die eure](/blog/streitkultur-beziehung-richtig-streiten/)
+- [Streiten ohne zu verletzen: Faire Konfliktlösung für Paare](/blog/streiten-ohne-verletzen/)
+- [Kritik äußern ohne den Partner zu verletzen](/blog/konstruktiv-feedback-geben-partner/)

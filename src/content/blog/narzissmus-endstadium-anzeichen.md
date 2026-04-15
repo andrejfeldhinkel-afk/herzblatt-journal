@@ -162,3 +162,8 @@ Die einzige Art, mit jemandem in diesem Stadium zu leben ist völlige Grenzen un
 Und ganz wichtig: Wenn der Narzisst in deinem Leben jemand ist, der dir Schaden zufügt — physisch, emotional oder finanziell — dann ist [No Contact](/blog/no-contact-narzisst-durchhalten) nicht egoistisch. Das ist ein Überlebensmittel.
 
 Du kannst ihn nicht retten. Du kannst nur dich selbst schützen.
+
+## Mehr zu diesem Thema
+
+- [Vulnerabler Narzissmus: Die versteckte Form erkennen (2026)](/blog/vulnerabler-narzissmus-erkennen/)
+- [Verliebt sein: 25+ Anzeichen + die Psychologie dahinter](/blog/verliebt-sein-anzeichen-psychologie/)

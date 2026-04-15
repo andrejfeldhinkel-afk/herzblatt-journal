@@ -197,3 +197,8 @@ Wenn dein Partner sich nach Nähe sehnt, sehnt er sich nach dem biologischen Geg
 Gib ihm das. Halte ihn. Sei nah. Das ist eine Liebessprache, die älter ist als Worte.
 
 Und die Wirkung wird dich überraschen.
+
+## Mehr zu diesem Thema
+
+- [Liebessprache Geschenke: Warum es nicht um Materialismus ...](/blog/love-languages-gifts/)
+- [Love Languages Test: Entdecke deine Liebessprache (2026)](/blog/love-languages-test-guide/)

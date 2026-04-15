@@ -479,3 +479,9 @@ Das ist es wert.
 Der erste Schritt ist heute. Der Moment, wo du erkennst: Diese Angst ist nicht mein Schicksal. Das ist etwas, das ich ändern kann.
 
 Nimm diesen Schritt. Die anderen folgen.
+
+## Mehr zu diesem Thema
+
+- [Codependenz erkennen und überwinden](/blog/codependenz-erkennen-ueberwinden/)
+- [Angst vor Intimität überwinden – Nähe zulassen lernen](/blog/angst-vor-intimaet-ueberwinden/)
+- [Verlustangst in der Beziehung](/blog/verlustangst-beziehung-ueberwinden/)

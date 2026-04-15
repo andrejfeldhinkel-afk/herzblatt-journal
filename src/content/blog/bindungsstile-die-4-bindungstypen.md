@@ -154,3 +154,9 @@ Die Wahrheit ist: Du bist nicht gefangen in dem Muster, das deine Eltern dir geg
 Der erste Schritt ist, deinen Bindungsstil zu kennen. Der zweite ist, ihn zu akzeptieren. Der dritte ist, bewusst daran zu arbeiten. Und der vierte? Den zu finden oder zu werden, der dich in deinem eigenen Tempo sicher machen kann.
 
 Dein Bindungsstil ist eine Information, nicht ein Urteil über dich. Nutze sie.
+
+## Mehr zu diesem Thema
+
+- [Erkenne dein Liebes-Muster](/blog/dating-die-art-zu-lieben/)
+- [Bindungstypen verstehen: Dein Attachment Guide](/blog/bindungstypen-verstehen-attachment/)
+- [Wie Bindungsstile in der Kindheit entstehen](/blog/bindungsstile-kindheit/)

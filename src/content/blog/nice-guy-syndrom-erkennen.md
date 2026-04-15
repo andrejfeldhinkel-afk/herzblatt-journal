@@ -146,3 +146,8 @@ Du brauchst nicht, dich in einen Arschloch-Typen zu verwandeln. Du brauchst, ein
 Das ist was Frauen wirklich wollen.
 
 Schau dir auch unseren Artikel über [Authentizität im Dating](/blog/demisexualitaet-dating-guide) an um mehr Tipps zu bekommen.
+
+## Mehr zu diesem Thema
+
+- [Broken-Heart-Syndrom: Wenn Liebeskummer das Herz bricht](/blog/broken-heart-syndrom-erkennen/)
+- [Love Bombing erkennen: Wenn zu viel Liebe ein Warnsignal ist](/blog/love-bombing-erkennen/)

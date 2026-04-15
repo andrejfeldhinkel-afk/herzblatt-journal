@@ -427,3 +427,9 @@ Eine unklar Beziehung sagt dir: "Du bist nicht würdig, klar zu sein. Du musst h
 Das ist falsch. Du bist würdig, klar zu sein. Du bist würdig, einfach zu sein.
 
 Das neu zu lernen – das ist die Heilung.
+
+## Mehr zu diesem Thema
+
+- [Beziehungs-Gesundheits-Check](/blog/beziehung-gesundheits-check/)
+- [Vertrauen aufbauen in einer Beziehung: Der komplette Guide](/blog/vertrauen-aufbauen-beziehung/)
+- [Verletzlichkeit in Beziehungen: Warum emotionale Offenheit](/blog/verletzlichkeit-beziehung-guide/)

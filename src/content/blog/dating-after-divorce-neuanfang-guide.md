@@ -1229,3 +1229,8 @@ Nutze es. Heile. Grow. Und liebt wieder.
 Deine Geschichte ist nicht vorbei. Es ist gerade anfangen, interessant zu werden.
 
 Dein Neustart ist da draußen, wartend. Es ist wirklich und es ist möglich.
+
+## Mehr zu diesem Thema
+
+- ['Dating über 50: Der komplette Guide](/blog/dating-nach-50-neuanfang-guide/)
+- [Dating nach Verwitwung: Ein sensibler Guide für Neuanfänge](/blog/dating-nach-verwitwung-guide/)

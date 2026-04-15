@@ -115,3 +115,8 @@ Es gibt keine feste Zeitlinie. Manche Menschen brauchen Monate, manche Jahre. Wi
 Ja, absolut. Das ist tatsächlich die gesündeste Form von Beziehung. Du bleibst deine eigene Person, und eure Liebe wächst aus gegenseitigem Respekt und echtem Wollen – nicht aus Angst.
 
 Du bist stärker, als du denkst. Und du verdienst eine Liebe, die dich nicht zerstört, sondern aufbaut.
+
+## Mehr zu diesem Thema
+
+- [Emotionale Abhängigkeit: Test & Selbstcheck](/blog/emotionale-abhaengigkeit-test-selbstcheck/)
+- [Seelenpartner: Gibt es Die Eine oder ist Das ein Mythos?](/blog/seelenpartner-komplett-guide/)

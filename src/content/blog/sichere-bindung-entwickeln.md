@@ -146,3 +146,9 @@ Das Verrückte ist: Es ist nie zu spät. Egal wie oft deine Mutter dich im Stich
 Der 8-Wochen-Plan ist konkret. Tue es. Und wenn dein Partner an deiner Seite ist, wenn ihr beide bereit seid — dann werdet ihr merken, dass sich eure ganze Beziehung verändert.
 
 Das ist sichere Bindung. Es ist gelernt, erarbeitet, aber auch echtter als alles, was dir in den Schoß fiel.
+
+## Mehr zu diesem Thema
+
+- [Wieder zusammenkommen: Wann es Sinn macht](/blog/wieder-zusammenkommen/)
+- [Verlustangst in Beziehungen: Wie deine Kindheit dich](/blog/verlustangst-bei-kindern-beziehung/)
+- [Verliebt in einen Vergebenen: Was du jetzt tun solltest](/blog/verliebt-in-vergebenen-was-tun/)

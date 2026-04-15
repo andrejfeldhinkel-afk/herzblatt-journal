@@ -262,3 +262,8 @@ Das ist nicht Paranoia. Das ist Selbstliebe.
 ---
 
 Mehr über [wenn du bereits geghostet wurdest](/blog/ghosting-taeter-kommen-zurueck), gibt es auch dafür Hilfe.
+
+## Mehr zu diesem Thema
+
+- [Romance Scam: Liebesbetrug im Internet erkennen & vermeiden](/blog/romance-scam-erkennen-schuetzen/)
+- [Breadcrumbing erkennen: Wenn dein Date dich nur warmhält](/blog/breadcrumbing-erkennen/)

@@ -164,3 +164,8 @@ Das wichtigste ist, deine echte Freude zu teilen. Deine Lieben verdienen es, zu 
 Ein einfaches "Herzlichen Glückwunsch! Ich freue mich so für euch" kann genauso kraftvoll sein wie ein langer Text, wenn es aus dem Herzen kommt.
 
 Feiert mit ihnen. Eure Liebe und Unterstützung ist das schönste Geschenk.
+
+## Mehr zu diesem Thema
+
+- [Verlobung Sprüche: 25+ Glückwünsche zur Verlobung](/blog/verlobung-sprueche-glueckwuensche/)
+- [Fernbeziehung Sprüche: 30+ Texte für deinen fernenen Partner](/blog/fernbeziehung-sprueche-texte/)

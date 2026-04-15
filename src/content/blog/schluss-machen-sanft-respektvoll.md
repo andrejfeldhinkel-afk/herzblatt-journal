@@ -405,3 +405,9 @@ Und wenn beide von euch mit Würde aus der Beziehung gehen, könnt ihr beide mit
 Dies ist ein Geschenk, das du beiden geben kannst.
 
 Gib es mit Liebe.
+
+## Mehr zu diesem Thema
+
+- [Schluss machen: So beendest du eine Beziehung respektvoll](/blog/schluss-machen-richtig-guide/)
+- [Richtig Schluss machen: So beendest du eine Beziehung](/blog/richtig-schluss-machen/)
+- [Beziehung wieder spannend machen](/blog/beziehung-langweilig-spannend-machen/)

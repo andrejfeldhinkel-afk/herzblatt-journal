@@ -338,3 +338,9 @@ Die gute Nachricht: Du kannst dich davon befreien. Es braucht Zeit. Es braucht B
 Und deine Beziehung – die echte, fehlerhafte, wunderschöne Beziehung – wartet auf der anderen Seite.
 
 Beginne heute. Mach einen Fehler. Entschuldige dich. Akzeptiere dich. Und bemerke, wie deine Beziehung zum Leben erwacht.
+
+## Mehr zu diesem Thema
+
+- [Neid in der Beziehung: Wenn du deinem Partner seinen Erfolg](/blog/neid-in-der-beziehung/)
+- [Selbstfürsorge in der Beziehung: Warum du dich zuerst lieben](/blog/selbstfuersorge-in-beziehung/)
+- [Perfektionismus in Beziehungen](/blog/perfektionismus-in-beziehungen/)

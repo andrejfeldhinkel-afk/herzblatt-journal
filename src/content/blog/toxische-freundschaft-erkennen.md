@@ -150,3 +150,8 @@ Manchmal sind Menschen, die du liebst, toxisch. Das sagt nichts über dich aus. 
 Es ist okay, einen Freund zu verlassen. Es ist okay, dich selbst zu schützen. Es ist okay, zu wählen, dein Leben zu leben, ohne jemanden, der dir schadet.
 
 Das ist nicht herzlos. Das ist Heilung.
+
+## Mehr zu diesem Thema
+
+- [Freundschaft Plus: Der komplette Guide zu Sex ohne Liebe](/blog/freundschaft-plus-komplett-guide/)
+- [Wenn Freundschaft zu Liebe wird](/blog/freundschaft-wird-liebe/)

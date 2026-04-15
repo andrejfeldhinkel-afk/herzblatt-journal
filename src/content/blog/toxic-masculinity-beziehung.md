@@ -145,3 +145,8 @@ Das ist traurig. Aber es ist wichtig, dass du das weißt: Sein Mangel an Veränd
 Und wenn er sich nicht selbst retten will, dann musst du dich selbst retten.
 
 Das ist nicht herzlos. Das ist überlebenswichtig.
+
+## Mehr zu diesem Thema
+
+- [Strategische Inkompetenz: Wenn dein Partner absichtlich u...](/blog/weaponized-incompetence-beziehung/)
+- [Die 4 apokalyptischen Reiter nach Gottman: Was deine](/blog/vier-apokalyptische-reiter-beziehung/)

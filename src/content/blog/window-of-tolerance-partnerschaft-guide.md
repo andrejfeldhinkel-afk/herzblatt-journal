@@ -652,3 +652,9 @@ Du hast diesen Artikel gelesen. Du verstehst jetzt, was ein Window of Tolerance 
 Das ist kein Drama, keine großen Veränderungen. Es ist kleine, konsistente Arbeit. Und die führt zu enormen Ergebnissen.
 
 Deine Beziehung wird ruhiger, tiefer, sicherer. Dein Nervensystem wird flexibler. Du wirst wieder du selbst — nicht die dysregulierte, defensive Version von dir.
+
+## Mehr zu diesem Thema
+
+- [Secure Base und Safe Haven: Dein sicherer Hafen](/blog/secure-base-safe-haven-partnerschaft-guide/)
+- [Mentalisierung in der Partnerschaft: Mehr als Empathie](/blog/mentalisierung-partnerschaft-empathie-guide/)
+- [Einseitige Liebe überwinden](/blog/unrequited-love-einseitige-liebe-guide/)

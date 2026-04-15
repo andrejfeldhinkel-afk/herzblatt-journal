@@ -271,3 +271,9 @@ Dein Bindungsstil ist nicht dein Schicksal. Es ist deine Ausgangslage. Und von d
 Das ist die echte Nachricht dieses Tests: Nicht "Das ist, wer du bist für immer", sondern "Das ist, wer du jetzt bist – und du kannst es verändern, wenn du das willst."
 
 Also: Nutze diesen Test. Erkenne dein Muster. Und dann entscheide: Wie möchte ich in Zukunft sein?
+
+## Mehr zu diesem Thema
+
+- [Vermeidender Bindungsstil: Warum Nähe Angst macht](/blog/vermeidender-bindungsstil/)
+- [Sicherer Bindungsstil: Das Fundament gesunder Beziehungen](/blog/sicherer-bindungsstil/)
+- [Bindungsstil ändern: Kann man seinen Bindungstyp wandeln?](/blog/bindungsstil-aendern/)

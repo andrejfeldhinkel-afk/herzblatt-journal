@@ -217,3 +217,8 @@ Also erkläre es. Sag es. Lass ihn in den Prozess rein.
 Und vertrau darauf, dass das andere Seite schöner ist.
 
 Lies auch unseren Artikel über [intimacy in long-term relationships](/blog/dating-nach-langzeitbeziehung) um zu lernen wie man Nähe neu erfindet.
+
+## Mehr zu diesem Thema
+
+- [Beziehung im Homeoffice: Tipps für Paare unter einem Dach](/blog/homeoffice-beziehung-tipps/)
+- [Erste Beziehung: Alles was du wissen musst](/blog/erste-beziehung-tipps-guide/)

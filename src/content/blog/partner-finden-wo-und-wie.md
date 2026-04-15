@@ -146,3 +146,8 @@ Partner finden ist eine Reise. Es ist nicht linear. Manchmal treffen sich tolle 
 Der Schlüssel ist, aktiv zu bleiben, deine Standards zu halten und an dich selbst zu arbeiten. Der richtige Partner wird dich erkennen, wenn du ihn triffst.
 
 Du schaffst das. Es braucht Geduld, aber es ist möglich.
+
+## Mehr zu diesem Thema
+
+- [Warum manche Frauen keinen Partner finden](/blog/warum-frauen-keinen-partner-finden/)
+- [Beziehung retten wenn Partner nicht will: Ist es möglich?](/blog/beziehung-retten-partner-will-nicht/)

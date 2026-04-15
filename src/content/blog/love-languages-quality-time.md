@@ -193,3 +193,8 @@ Das ist echte Liebe.
 ---
 
 **Möchtest du mehr über [Bid for Connection](/blog/bid-for-connection-gottman) erfahren?**
+
+## Mehr zu diesem Thema
+
+- [Liebessprache Worte der Bestätigung](/blog/love-languages-words-of-affirmation/)
+- [Love Languages Test: Entdecke deine Liebessprache (2026)](/blog/love-languages-test-guide/)

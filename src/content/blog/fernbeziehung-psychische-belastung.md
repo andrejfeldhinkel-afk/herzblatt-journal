@@ -194,3 +194,8 @@ Fernbeziehungen können funktionieren. Aber sie sind schwer. Du verdienst es, di
 Seien Sie mutig, seien Sie ehrlich, und seien Sie bereit, das zu ändern, wenn es nicht funktioniert.
 
 Du schaffst das. Aber gib dir selbst die Erlaubnis, es schwierig zu finden.
+
+## Mehr zu diesem Thema
+
+- [Fernbeziehung Geschenke: 20 Ideen für die Ferne zum Verli...](/blog/fernbeziehung-geschenke-ideen/)
+- [Warum manche Frauen keinen Partner finden](/blog/warum-frauen-keinen-partner-finden/)

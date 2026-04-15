@@ -566,3 +566,9 @@ Mit nur einer Idee.
 Mit nur einem Abend.
 
 Und beobachte, wie dein Beziehung transformiert.
+
+## Mehr zu diesem Thema
+
+- [100 kreative Date-Ideen für jede Jahreszeit](/blog/kreative-date-ideen-jede-jahreszeit/)
+- [50 kreative Date-Ideen: So wird euer erstes Treffen](/blog/kreative-date-ideen-dating-app/)
+- [Romantische Date-Ideen für Zuhause](/blog/date-ideen-zuhause/)

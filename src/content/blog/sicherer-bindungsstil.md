@@ -194,3 +194,9 @@ Warum? Weil es alles andere verändert. Wenn du sicher gebunden bist, hast du be
 Es gibt keinen Grund, unsicher zu bleiben. Lerne von sicheren Menschen in deinem Leben. Arbeite mit einem Therapeuten. Vertrau einem Partner, der es verdient. Und vor allem: Sei dir selbst ein sicherer Hafen.
 
 Die Reise zu sicherer Bindung ist nicht kurz. Aber jeder Schritt ist wert.
+
+## Mehr zu diesem Thema
+
+- [Vermeidender Bindungsstil: Warum Nähe Angst macht](/blog/vermeidender-bindungsstil/)
+- [Sicherer Bindungsstil: So entwickelst du sichere Bindung](/blog/sicherer-bindungsstil-entwickeln/)
+- [Ängstlicher Bindungsstil: Wenn Verlustangst dominiert](/blog/aengstlicher-bindungsstil/)

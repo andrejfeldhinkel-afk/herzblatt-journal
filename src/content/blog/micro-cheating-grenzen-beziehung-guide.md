@@ -243,3 +243,8 @@ Die Antwort wird dir viel über die Zukunft deiner Beziehung sagen.
 - [Fantasy Bond: Wenn deine Beziehung nur eine Illusion von Liebe ist](fantasy-bond-beziehung-illusion-guide.md)
 - [Vertrauen in Beziehungen aufbauen: Der praktische Guide](emotional-flooding-beziehung-guide.md)
 - [Protest-Verhalten in Beziehungen: Wenn Angst zu destruktiven Aktionen führt](protest-behavior-beziehung-guide.md)
+
+## Mehr zu diesem Thema
+
+- [Micro-Cheating: Wo beginnt Fremdgehen wirklich?](/blog/micro-cheating-grenzen-beziehung/)
+- [Verletzlichkeit in Beziehungen: Warum emotionale Offenheit](/blog/verletzlichkeit-beziehung-guide/)

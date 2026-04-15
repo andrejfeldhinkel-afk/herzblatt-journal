@@ -391,3 +391,9 @@ Falsche Chemie ist:
 Wenn du verstehst, wovon du wirklich angezogen wirst – und warum – kannst du Entscheidungen treffen, die dir dienen, nicht dienen deinen alten Mustern.
 
 Und das ist eine Form der Freiheit, die kostbar ist.
+
+## Mehr zu diesem Thema
+
+- [Trauma Dumping erkennen: Wenn Reden zur Belastung wird](/blog/trauma-dumping-erkennen/)
+- [Selbstsabotage in der Liebe](/blog/selbstsabotage-liebe-erkennen/)
+- [Emotionale Reife in der Beziehung – Woran du sie erkennst](/blog/emotionale-reife-beziehung-erkennen/)

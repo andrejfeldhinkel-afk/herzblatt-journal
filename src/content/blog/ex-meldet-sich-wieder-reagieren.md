@@ -274,3 +274,8 @@ Vergib für dich selbst. Aber zweite Chancen sind für diejenigen, die echt bere
 Sei weise. Schütze dein Herz. Du brauchst es mehr als er.
 
 Wenn du noch mit dem Schmerz der Trennung selbst kämpfst, schau dir auch unsere Artikel zu [Hoovering vom Ex](/blog/hoovering-ex-erkennen) an — beide Artikel können helfen, mehr Klarheit zu bekommen.
+
+## Mehr zu diesem Thema
+
+- [Wieder zusammenkommen: Wann es Sinn macht](/blog/wieder-zusammenkommen/)
+- [Vertrauen wieder aufbauen nach Lüge: 6 konkrete Schritte](/blog/vertrauen-wieder-aufbauen-nach-luege/)
