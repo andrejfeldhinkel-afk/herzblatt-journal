@@ -18,6 +18,16 @@ interface Props {
   breadcrumbs?: { name: string; url: string }[];
   faq?: { question: string; answer: string }[];
   noindex?: boolean;
+  articleAuthor?: {
+    name: string;
+    slug: string;
+    role?: string;
+    image?: string;
+    knowsAbout?: string[];
+    alumniOf?: string;
+  };
+  itemListItems?: { name: string; url?: string }[];
+  howToSteps?: { name: string; text: string }[];
 }
 
 const {
@@ -32,6 +42,9 @@ const {
   breadcrumbs = [],
   faq = [],
   noindex = false,
+  articleAuthor,
+  itemListItems,
+  howToSteps,
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
@@ -75,6 +88,24 @@ const siteSchema = {
 // Article Schema (only on blog posts)
 // Strip site name suffix from headline for schema.org compliance
 const articleHeadline = title.replace(/ — Herzblatt Journal$/, '').replace(/ - Herzblatt Journal$/, '');
+// Build Person author Schema (E-E-A-T-relevant) when articleAuthor is provided
+const personAuthorSchema = articleAuthor ? {
+  "@type": "Person",
+  "name": articleAuthor.name,
+  ...(articleAuthor.role ? { "jobTitle": articleAuthor.role } : {}),
+  "url": `https://herzblatt-journal.com/autor/${articleAuthor.slug}`,
+  ...(articleAuthor.image ? { "image": `https://herzblatt-journal.com${articleAuthor.image}` } : {}),
+  ...(articleAuthor.knowsAbout ? { "knowsAbout": articleAuthor.knowsAbout } : {}),
+  ...(articleAuthor.alumniOf ? {
+    "alumniOf": { "@type": "EducationalOrganization", "name": articleAuthor.alumniOf }
+  } : {}),
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Herzblatt Journal",
+    "url": "https://herzblatt-journal.com"
+  }
+} : null;
+
 const articleSchema = isArticle ? {
   "@context": "https://schema.org",
   "@type": "Article",
@@ -84,7 +115,7 @@ const articleSchema = isArticle ? {
   "url": canonicalURL.toString(),
   "datePublished": datePublished,
   "dateModified": dateModified || datePublished,
-  "author": {
+  "author": personAuthorSchema || {
     "@type": "Organization",
     "name": "Herzblatt Journal",
     "url": "https://herzblatt-journal.com"
@@ -103,6 +134,33 @@ const articleSchema = isArticle ? {
   },
   "inLanguage": "de-DE",
   "keywords": (Array.isArray(keywords) ? keywords : []).join(", ")
+} : null;
+
+// ItemList Schema for listicle articles (e.g. "Die 15 Red Flags")
+const itemListSchema = (isArticle && itemListItems && itemListItems.length > 0) ? {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": itemListItems.map((item, i) => ({
+    "@type": "ListItem",
+    "position": i + 1,
+    "name": item.name,
+    ...(item.url ? { "url": new URL(item.url, Astro.site).toString() } : {})
+  }))
+} : null;
+
+// HowTo Schema for guide-style articles (e.g. "In 7 Schritten zu sicherer Bindung")
+const howToSchema = (isArticle && howToSteps && howToSteps.length > 0) ? {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": articleHeadline,
+  "description": description,
+  "image": fullImageURL,
+  "step": howToSteps.map((step, i) => ({
+    "@type": "HowToStep",
+    "position": i + 1,
+    "name": step.name,
+    "text": step.text
+  }))
 } : null;
 
 // Breadcrumb Schema
@@ -216,6 +274,12 @@ const faqSchema = faq.length > 0 ? {
   )}
   {faqSchema && (
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+  )}
+  {itemListSchema && (
+    <script type="application/ld+json" set:html={JSON.stringify(itemListSchema)} />
+  )}
+  {howToSchema && (
+    <script type="application/ld+json" set:html={JSON.stringify(howToSchema)} />
   )}
 
   <!-- Theme color & PWA icons -->

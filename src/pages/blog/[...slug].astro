@@ -85,6 +85,47 @@ const breadcrumbs = [
 // OG image (generated branded image, falls back to post image)
 // OG: Nutze gebrandetes OG-Bild falls vorhanden, sonst Artikel-Bild, sonst Default
 const ogImage = post.data.image || `/og-default.png`;
+
+// Auto-detect listicle articles ("Die 15 X", "10 Y", "12 Z" usw.) und extrahiere Listenpunkte
+const titleHasNumber = /\b(\d{1,2})\s+[A-ZÄÖÜa-zäöü]/.test(post.data.title);
+const isListicle = titleHasNumber || /\b(top|liste)\b/i.test(post.data.title);
+let itemListItems: { name: string }[] | undefined;
+if (isListicle && post.body) {
+  // Extract H3 headings of pattern "### N. Foo" or "### Foo" (numbered sections)
+  const h3Matches = [...post.body.matchAll(/^###\s+(?:\d+\.\s+)?(.+)$/gm)];
+  const items = h3Matches
+    .map(m => m[1].replace(/\*+/g, '').trim())
+    .filter(name => name.length > 3 && name.length < 120)
+    .slice(0, 30);
+  if (items.length >= 3) {
+    itemListItems = items.map(name => ({ name }));
+  }
+}
+
+// Auto-detect HowTo articles ("In N Schritten", "Schritt für Schritt", "Anleitung")
+const isHowTo = /\b(in\s+\d+\s+schritten|schritt[\s-]für[\s-]schritt|anleitung|so\s+(geht|machst|funktioniert))/i.test(post.data.title);
+let howToSteps: { name: string; text: string }[] | undefined;
+if (isHowTo && post.body) {
+  // Extract H2/H3 sections starting with a number, followed by their first paragraph
+  const stepRegex = /^(?:##|###)\s+(?:Schritt\s+)?(\d+)[.:]?\s+(.+?)$\n+([^#\n][^\n]*(?:\n[^#\n][^\n]*){0,2})/gm;
+  const stepMatches = [...post.body.matchAll(stepRegex)];
+  if (stepMatches.length >= 2) {
+    howToSteps = stepMatches.slice(0, 12).map(m => ({
+      name: m[2].replace(/\*+/g, '').trim().slice(0, 120),
+      text: m[3].replace(/\*+/g, '').trim().slice(0, 500)
+    }));
+  }
+}
+
+// Author for Person Schema (E-E-A-T)
+const articleAuthor = {
+  name: author.name,
+  slug: author.slug,
+  role: author.role,
+  image: author.image,
+  knowsAbout: (author as any).knowsAbout,
+  alumniOf: (author as any).alumniOf,
+};
 ---
 
 <BaseLayout
@@ -98,6 +139,9 @@ const ogImage = post.data.image || `/og-default.png`;
   dateModified={post.data.updated ? post.data.updated.toISOString() : post.data.date.toISOString()}
   breadcrumbs={breadcrumbs}
   faq={post.data.faq || []}
+  articleAuthor={articleAuthor}
+  itemListItems={itemListItems}
+  howToSteps={howToSteps}
 >
   <ReadingProgress />
 
