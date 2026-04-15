@@ -1,18 +1,22 @@
 ---
-title: "Rebecca-Syndrom: Eifersucht auf die Ex verstehen & überwi..."
-description: "Das Rebecca-Syndrom (retrograde Eifersucht) macht dich wahnsinnig? Erfahre woher die Eifersucht auf die Ex kommt und wie du sie in 7 Schritten überwindest."
+title: "Rebecca-Syndrom: Eifersucht auf die Ex überwinden"
+description: "Rebecca-Syndrom (retrograde Eifersucht): Woher die Eifersucht auf die Ex kommt, warum sie so schmerzhaft ist und wie du sie in 7 Schritten überwindest."
 keywords: ["rebecca syndrom", "eifersucht auf die ex", "retrograde eifersucht", "eifersucht ex partner", "rebecca syndrom überwinden"]
 date: 2025-12-11
 image: "/images/blog/eifersucht-ex-partner-rebecca-syndrom.webp"
-imageAlt: "Rebecca-Syndrom: Eifersucht auf die Ex verstehen & überwi..."
+imageAlt: "Rebecca-Syndrom: Frau ist eifersüchtig auf die Ex ihres Partners"
 tags: ["Eifersucht", "Psychologie"]
 faq:
   - question: "Was ist das Rebecca-Syndrom?"
-    answer: "Das Rebecca-Syndrom (benannt nach dem Roman von Daphne du Maurier) beschreibt krankhafte Eifersucht auf die Ex-Partner des eigenen Partners. Fachlich heißt es retrograde Eifersucht."
+    answer: "Das Rebecca-Syndrom (benannt nach dem Roman von Daphne du Maurier) beschreibt krankhafte Eifersucht auf die Ex-Partner des eigenen Partners. Fachlich heißt es retrograde Eifersucht — die Person ist eifersüchtig auf etwas, das in der Vergangenheit liegt und faktisch nicht mehr existiert, aber emotional sehr lebendig wirkt."
   - question: "Ist Eifersucht auf die Ex normal?"
-    answer: "Ja, retrograde Eifersucht ist weit verbreitet. Problematisch wird es, wenn die Gedanken obsessiv werden und deine aktuelle Beziehung belasten."
+    answer: "Ja, retrograde Eifersucht ist weit verbreitet. Problematisch wird es, wenn die Gedanken obsessiv werden und deine aktuelle Beziehung belasten — etwa wenn du heimlich Social-Media-Profile der Ex überprüfst, ständig Vergleiche ziehst oder deinen Partner über Vergangenes ausfragst."
   - question: "Wie überwindet man das Rebecca-Syndrom?"
-    answer: "Durch Selbstreflexion, offene Kommunikation mit dem Partner, bewusstes Stoppen von Vergleichen und ggf. professionelle Unterstützung durch einen Therapeuten."
+    answer: "Durch Selbstreflexion (woher kommt die Unsicherheit?), offene Kommunikation mit dem Partner, bewusstes Stoppen von Vergleichen, Reduktion von Triggern (z.B. Social-Media-Stalking der Ex beenden) und ggf. professionelle Unterstützung durch einen Therapeuten — besonders wenn die Eifersucht auf tiefere Bindungs- oder Selbstwertthemen zurückgeht."
+  - question: "Wann wird Rebecca-Syndrom krankhaft?"
+    answer: "Wenn du tagtäglich mehr als 30 Minuten über die Ex deines Partners grübelst, wenn du heimlich Spuren ihrer Existenz suchst (Bilder, Briefe, Social Media), wenn du den Partner unter Druck setzt, sich von ihr zu distanzieren, oder wenn du Sex und Nähe vermeidest, weil du das Gefühl hast, sie 'war besser'. Spätestens dann ist therapeutische Hilfe sinnvoll."
+  - question: "Hat Rebecca-Syndrom mit dem eigenen Bindungsstil zu tun?"
+    answer: "Sehr oft ja. Menschen mit ängstlich-ambivalentem Bindungsstil neigen besonders stark zu retrograder Eifersucht, weil sie ohnehin Verlustangst und Vergleichsdruck mitbringen. Die Ex wird zur projizierten Bedrohung. Wer seinen Bindungsstil versteht und an einer sichereren Bindung arbeitet, reduziert auch die Eifersucht — meist deutlich."
 draft: false
 author: "sarah-kellner"
 ---

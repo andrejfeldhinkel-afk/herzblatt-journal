@@ -1,5 +1,5 @@
 ---
-title: "Gaslighting: 15 Beispiele, die du sofort erkennst"
+title: "Gaslighting Beispiele: 15 Sätze, die du sofort erkennst"
 description: "Gaslighting Beispiele im Alltag: 15 typische Sätze und Situationen, die zeigen, wie psychische Manipulation wirklich aussieht — und wie du dich schützt."
 date: 2026-04-15
 image: "/images/blog/gaslighting-beispiele.webp"
