@@ -1,6 +1,6 @@
 ---
 title: "Dysfunktionale Familie: Kindheitsrollen und Beziehungen"
-description: "Dysfunktionale Familienmuster erklärt: Die 6 Rollen (Held, Sündenbock, unsichtbares Kind, Clown, Enabler, Parentifiziertes Kind) und wie sie dein Dating sabotieren."
+description: "Dysfunktionale Familienmuster: Die 6 Rollen (Held, Sündenbock, Clown, Enabler & Co.) und wie sie dein Dating heute sabotieren."
 date: 2026-03-26
 tags:
   - "Psychologie"

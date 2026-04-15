@@ -1,5 +1,5 @@
 ---
-title: "Was ist Gaslighting? Definition, Taktiken und wie du dich schützt"
+title: "Was ist Gaslighting? Definition, Taktiken & Schutz"
 description: "Was ist Gaslighting? Definition, typische Taktiken, psychologische Folgen und konkrete Strategien, um dich gegen diese Manipulationsform zu schützen."
 date: 2026-04-15
 image: "/images/blog/was-ist-gaslighting.webp"

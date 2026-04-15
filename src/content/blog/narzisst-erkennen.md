@@ -1,6 +1,6 @@
 ---
 title: "Narzisst erkennen: Die 12 deutlichsten Zeichen"
-description: "Narzisst erkennen: Die 12 deutlichsten Anzeichen, wie du einen Narzissten in Beziehung, Familie oder Job frühzeitig enttarnst. Mit Beispielen und Schutz-Strategien."
+description: "Narzisst erkennen: Die 12 deutlichsten Anzeichen in Beziehung, Familie oder Job — mit Beispielen und Schutz-Strategien."
 date: 2026-04-15
 image: "/images/blog/narzisst-erkennen.webp"
 imageAlt: "Nachdenklicher Mensch schaut aus dem Fenster — Narzisst erkennen"

@@ -1,6 +1,6 @@
 ---
 title: "Der Körper erinnert sich: Trauma in der Beziehung"
-description: "The Body Keeps the Score auf Deutsch: Wie Bessel van der Kolks Erkenntnisse über körpergespeichertes Trauma deine Beziehungen erklären — und wie der Körper heilen kann."
+description: "The Body Keeps the Score: Wie Bessel van der Kolks Erkenntnisse über körpergespeichertes Trauma deine Beziehungen heute erklären."
 date: 2026-03-18
 tags:
   - "Psychologie"

@@ -1,6 +1,6 @@
 ---
 title: "EMDR bei Beziehungstrauma: Der komplette Guide zur Heilung"
-description: "EMDR-Therapie bei Beziehungstrauma erklärt: Wie Augenbewegungen helfen, Verletzungen aus Partnerschaften zu verarbeiten — Ablauf, Wirkung und Selbsthilfe-Übungen."
+description: "EMDR bei Beziehungstrauma: Wie Augenbewegungen Verletzungen aus Partnerschaften verarbeiten — Ablauf, Wirkung und Selbsthilfe-Übungen."
 date: 2026-04-09
 tags:
   - "Psychologie"

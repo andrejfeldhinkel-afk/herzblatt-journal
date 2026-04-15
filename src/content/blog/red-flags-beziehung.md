@@ -1,5 +1,5 @@
 ---
-title: "Red Flags in Beziehungen: 20 Warnsignale, die du kennen musst"
+title: "Red Flags in Beziehungen: 20 Warnsignale erkennen"
 description: "Red Flags Beziehung: Die 20 wichtigsten Warnsignale, an denen du eine toxische Beziehung früh erkennst — mit echten Beispielen und klaren Reaktions-Strategien."
 date: 2026-04-15
 image: "/images/blog/red-flags-beziehung.webp"

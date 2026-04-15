@@ -1,5 +1,5 @@
 ---
-title: "Emotional unverfügbar: Was dahintersteckt und wie du damit umgehst"
+title: "Emotional unverfügbar: Erkennen & klug damit umgehen"
 description: "Emotional unverfügbar: Woran du es erkennst, welche Ursachen dahinterstecken und wie du als Partnerin oder Partner klug reagierst — ohne dich zu verlieren."
 date: 2026-04-15
 image: "/images/blog/emotional-unavailable.webp"

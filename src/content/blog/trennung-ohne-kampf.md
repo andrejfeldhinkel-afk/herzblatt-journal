@@ -1,6 +1,6 @@
 ---
 title: "Trennung ohne Kampf: Respektvoll auseinandergehen"
-description: "Trennung ohne Kampf: Wie du das Gespräch führst, Wut und Schuldgefühle regulierst und respektvoll auseinandergehen kannst — selbst wenn der Partner kämpfen will."
+description: "Trennung ohne Kampf: Gesprächsführung, Wut & Schuldgefühle regulieren und respektvoll auseinandergehen — selbst wenn der Partner kämpfen will."
 date: 2026-04-14
 tags:
   - "Beziehung"

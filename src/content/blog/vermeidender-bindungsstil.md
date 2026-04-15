@@ -1,6 +1,6 @@
 ---
 title: "Vermeidender Bindungsstil: Warum Nähe Angst macht"
-description: "Vermeidender Bindungsstil ist eine unbewusste Schutzmauer gegen emotionale Verletzung. Erkenne die Zeichen, verstehe die Wurzeln und lerne, wie du näher kommen kannst."
+description: "Vermeidender Bindungsstil ist eine unbewusste Schutzmauer gegen emotionale Verletzung. Erkenne Zeichen, Wurzeln & Wege zu mehr Nähe."
 date: 2026-04-14
 image: "/images/blog/vermeidender-bindungsstil.webp"
 imageAlt: "Vermeidender Bindungsstil — Distanz als Schutz"

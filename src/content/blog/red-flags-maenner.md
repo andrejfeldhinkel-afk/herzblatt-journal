@@ -1,5 +1,5 @@
 ---
-title: "Red Flags bei Männern: 15 Warnsignale, die du nicht übersehen solltest"
+title: "Red Flags bei Männern: 15 Warnsignale erkennen"
 description: "Red Flags bei Männern erkennen: 15 konkrete Warnsignale aus Dating-Praxis und Psychologie — mit Beispielen, Erklärung und klaren Handlungsempfehlungen."
 date: 2026-04-15
 image: "/images/blog/red-flags-maenner.webp"
