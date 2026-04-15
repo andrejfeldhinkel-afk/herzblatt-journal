@@ -103,7 +103,7 @@ Wenn Dein Partner deine Grenzen konsequent verletzt und sich weigert, sich zu ä
 
 Wenn Du Dich schützen musst, um sicher zu sein, dann ist diese Beziehung nicht sicher. Punkt.
 
-Sich zu trennen ist schmerzhaft. Es ist auch mutig und oft der beste Akt der Selbstliebe, den Du tun kannst. Siehe [Kontaktsperre nach [Trennung](/blog/trennung-verarbeiten-12-schritte): Warum sie heilt und wie sie gelingt](/blog/kontaktsperre-nach-trennung-guide) für tiefere Guidance.
+Sich zu trennen ist schmerzhaft. Es ist auch mutig und oft der beste Akt der Selbstliebe, den Du tun kannst. Siehe [Kontaktsperre nach Trennung: Warum sie heilt und wie sie gelingt](/blog/kontaktsperre-nach-trennung-guide) für tiefere Guidance.
 
 ## Aufbau einer gesunden Beziehung nach Heilung
 

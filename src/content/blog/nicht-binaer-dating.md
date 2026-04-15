@@ -154,7 +154,7 @@ Dating-Apps sind nicht alle gleich geschaffen, wenn es um nicht-binäre Optionen
 - Ähnlich Tinder – hat nicht-binär, aber grundlegend
 - Besser als Tinder, aber nicht großartig
 
-**[Dating [Red Flags](/blog/dating-red-flags-maenner-erkennen): 40 Warnsignale die du nicht ignorieren darfst](/blog/dating-red-flags-komplett-guide/)
+**[Dating Red Flags: 40 Warnsignale die du nicht ignorieren darfst](/blog/dating-red-flags-komplett-guide/)
 - [Dating-Vorsätze für das neue Jahr: Deine Ziele setzen](/blog/dating-vorsaetze-neues-jahr/)
 - [Dating-Spielchen durchschauen: Warum Menschen spielen und wie du damit umgehst](/blog/dating-spielchen-durchschauen/)
 - [5 toxische Dating-Muster, die du sofort durchbrechen](/blog/toxische-dating-muster/)

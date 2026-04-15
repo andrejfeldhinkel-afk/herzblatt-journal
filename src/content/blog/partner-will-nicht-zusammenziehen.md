@@ -98,7 +98,7 @@ Weitere Informationen findest du bei Bundesministerium für Familie: [Bundesmini
 
 Du verdienst einen Partner, der dir entgegenkommt. Nicht immer zu dir, aber zumindest bis zur Mitte. Und wenn dein Partner das nicht kann, dann ist das die Information, die du brauchst. Das hat nichts mit Liebe zu tun. Es hat mit Kompatibilität zu tun.
 
-Zusammenziehen ist nicht der Beweis von Liebe. Das sollte es nie sein. Es sollte der nächste natürliche Schritt sein, wenn beide bereit sind. Wenn dein Partner nicht bereit ist — verstehe warum, setz eine Grenze, und treffe dann eine bewusste Entscheidung. Das ist [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)
+Zusammenziehen ist nicht der Beweis von Liebe. Das sollte es nie sein. Es sollte der nächste natürliche Schritt sein, wenn beide bereit sind. Wenn dein Partner nicht bereit ist — verstehe warum, setz eine Grenze, und treffe dann eine bewusste Entscheidung. Das ist [Partner will offene Beziehung: Was jetzt?](/blog/partner-will-offene-beziehung/)
 - [Zusammenziehen: Der komplette Guide für den großen Schritt](/blog/zusammenziehen-richtig-planen/)
 - [Mein Partner nimmt mich nicht ernst — was tun?](/blog/partner-nimmt-mich-nicht-ernst/)
 - [Fernbeziehung beenden: Zusammenziehen](/blog/beziehung-fernbeziehung-zusammenziehen/)

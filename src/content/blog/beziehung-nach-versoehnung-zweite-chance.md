@@ -219,6 +219,6 @@ Ihr zukünftiges Selbst wird dankbar sein, wenn Sie die Entscheidung treffen, di
 
 ## Das könnte dich auch interessieren
 
-- [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
+- [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
 - [Nach dem großen Vertrauensbruch: Reden oder gehen?](/blog/beziehung-nach-grossem-vertrauensbruch/)
 - [Erwartungen in der Beziehung: Wann sie helfen — und wann sie alles zerstören](/blog/erwartungen-in-der-beziehung/)

@@ -83,7 +83,7 @@ Commitment-Angst ist kein Urteil und kein Charakter-Fehler. Es ist ein Schutzmec
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
 
 - [Commitment Issues: Wenn die Angst vor Bindung alles](/blog/commitment-issues-erkennen/)
 - [Commitment Phobia — Warum manche Menschen sich nie festlegen](/blog/commitment-phobia-bindungsangst-guide/)

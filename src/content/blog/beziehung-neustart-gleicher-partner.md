@@ -166,7 +166,7 @@ Und geh weiter – nicht in Bitterkeit, sondern in Klarheit. Du weißt jetzt, da
 
 Ich habe viel über wann gesprochen, es zu versuchen. Aber lass mich auch klar sein, wann du es NICHT versuchen solltest:
 
-- Wenn einer der Partner noch nicht "über" die andere Person ist. Wenn du noch [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)
+- Wenn einer der Partner noch nicht "über" die andere Person ist. Wenn du noch [Partner will offene Beziehung: Was jetzt?](/blog/partner-will-offene-beziehung/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
 - [Aktives Zuhören üben: Besser verstehen in 7 Schritten](/blog/aktives-zuhoeren-beziehung-ueben/)
 - [Beziehung mit großem Altersunterschied](/blog/beziehung-altersunterschied/)

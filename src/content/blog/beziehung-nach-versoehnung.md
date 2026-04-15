@@ -184,4 +184,4 @@ Die echte Frage ist: Wirst du diese schwierige, aufregende Chance nutzen?
 
 - [Zweite Chance in der Beziehung: Wann sie sich wirklich lohnt](/blog/beziehung-nach-versoehnung-zweite-chance/)
 - [Beziehung nach dem Verlust eines Kindes](/blog/beziehung-nach-kindstod/)
-- [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Aufarbeitung, Heilung und Wahrheit](/blog/beziehung-nach-fremdgehen-aufarbeiten/)
+- [Beziehung nach Fremdgehen: Aufarbeitung, Heilung und Wahrheit](/blog/beziehung-nach-fremdgehen-aufarbeiten/)

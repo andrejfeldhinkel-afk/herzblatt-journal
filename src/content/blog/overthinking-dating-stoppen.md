@@ -145,7 +145,7 @@ Wenn du merkst, dass du schon wieder anfängst zu überanalysieren (am nächsten
 
 Mit Zeit und Praxis wird es einfacher. Dein Nervensystem lernt, dass es sicher ist. Du brauchst nicht ständig zu planen und zu kontrollieren. Du kannst lieben und vertrauen.
 
-Verwandte Artikel könnten dir helfen: Lerne, [wie ich-Botschaften deine [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) verbessern](/blog/ich-botschaften-beziehung/) oder entdecke, [warum Stonewalling in Beziehungen so schädlich ist](/blog/stonewalling-was-tun/).
+Verwandte Artikel könnten dir helfen: Lerne, [wie ich-Botschaften deine kommunikation verbessern](/blog/ich-botschaften-beziehung/) oder entdecke, [warum Stonewalling in Beziehungen so schädlich ist](/blog/stonewalling-was-tun/).
 
 Die Wahrheit ist: Die beste Beziehung entsteht, wenn du nicht überanalysierst. Sie entsteht, wenn zwei Menschen präsent sind, offen und vertrauend. Alles andere ist Ruhe für dein Gehirn.## Weiterlesen
 

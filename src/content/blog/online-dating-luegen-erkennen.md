@@ -608,7 +608,7 @@ Vertrau dieser inneren Stimme. Im Zweifelsfall, beende den Kontakt. Es gibt genu
 
 ## Die Ressourcen zum Selberschützen
 
-Wenn du mehr über [Online-Dating-Betrug erkennen](online-dating-betrug-erkennen) erfahren möchtest oder tiefergehen in die Thematik gehen willst, schau dir auch unsere Artikel zu [Online-Dating-Sicherheit-Tipps](online-dating-sicherheit-tipps) und [Dating [Red Flags](/blog/dating-red-flags-maenner-erkennen) bei Männern](dating-red-flags-maenner) an.
+Wenn du mehr über [Online-Dating-Betrug erkennen](online-dating-betrug-erkennen) erfahren möchtest oder tiefergehen in die Thematik gehen willst, schau dir auch unsere Artikel zu [Online-Dating-Sicherheit-Tipps](online-dating-sicherheit-tipps) und [Dating Red Flags bei Männern](dating-red-flags-maenner) an.
 
 Diese Artikel geben dir weitere konkrete Tipps und Strategien, um sicher zu bleiben.
 

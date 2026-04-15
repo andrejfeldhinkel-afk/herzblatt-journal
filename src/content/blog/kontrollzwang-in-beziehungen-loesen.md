@@ -216,5 +216,5 @@ Der erste Schritt ist der schwierigste. Aber wenn du ihn machst, öffnest du die
 ## Das könnte dich auch interessieren
 
 - [Kontrollzwang in der Beziehung — Wenn Vertrauen fehlt](/blog/kontrollzwang-beziehung/)
-- [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
+- [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
 - [Anzeichen dass er mich liebt — 15+ Signale erkannt](/blog/anzeichen-dass-er-mich-liebt/)

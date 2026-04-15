@@ -172,7 +172,7 @@ Falls das der Fall ist, dann ist die Trennung not just about Kinder. Es ist abou
 
 ## Weiterlesen
 
-- [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)
+- [Partner will offene Beziehung: Was jetzt?](/blog/partner-will-offene-beziehung/)
 - [Emotional unerreichbarer Partner: Warum du an eine Wand](/blog/emotional-unerreichbarer-partner/)
 - [Partner idealisieren: Wenn Liebe zur Fantasie wird](/blog/idealisierung-partner/)
 - [Kontrollierender Partner: 20 Warnsignale und wie du dich](/blog/kontrollierender-partner-erkennen/)

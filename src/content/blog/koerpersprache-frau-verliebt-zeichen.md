@@ -363,7 +363,7 @@ Du bist es wert, von einer Frau geliebt zu werden, die das deutlich macht – du
 
 ## Das könnte dich auch interessieren
 
-- [Körpersprache Mann: 25 Zeichen dass er [verliebt](/blog/mann-verliebt-anzeichen-komplett) ist](/blog/koerpersprache-mann-verliebt-zeichen/)
+- [Körpersprache Mann: 25 Zeichen dass er verliebt ist](/blog/koerpersprache-mann-verliebt-zeichen/)
 - [Körpersprache beim Dating richtig deuten](/blog/dating-koerpersprache-richtig-deuten/)
 - [Körpersprache beim Flirten – 12 Signale richtig deuten](/blog/koerpersprache-flirten/)
 - [Körpersprache Mann verliebt — 20 Signale die ihn verraten](/blog/koerpersprache-mann-verliebt-signale/)

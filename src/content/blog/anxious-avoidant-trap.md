@@ -577,7 +577,7 @@ Wenn derEnt Partner nicht bereit, das zu tun, gehen.
 ## Weiterlesen
 
 - [Projektion in Beziehungen verstehen und stoppen](/blog/projektion-beziehung-psychologie/)
-- [Unsicheren [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) heilen: Schritt für Schritt](/blog/attachment-healing-guide/)
+- [Unsicheren Bindungsstil heilen: Schritt für Schritt](/blog/attachment-healing-guide/)
 - [Bindungstheorie einfach erklärt](/blog/attachment-theory-einfach-erklaert/)
 - [Beziehung retten](/blog/beziehung-retten-kompletter-guide) – weil beide schließlich erkennen, dass das andere nicht der Problem ist. Das Nervensystem-Muster ist das Problem.
 

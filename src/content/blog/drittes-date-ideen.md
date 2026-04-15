@@ -142,7 +142,7 @@ Und ja — wenn es sich richtig anfühlt, könnte auch Küssen passieren. Oder a
 - [50 kreative Date-Ideen: So wird euer erstes Treffen von der](/blog/kreative-date-ideen-dating-app/)
 - [Die 25 besten Sommer-Date-Ideen für unvergessliche Momente](/blog/sommer-date-ideen/)
 - [20 romantische Winter-Date-Ideen](/blog/winter-date-ideen/)
-- [10 [Red Flags](/blog/dating-red-flags-maenner-erkennen) beim ersten Date die du nicht ignorieren](/blog/dating-rote-flaggen-erstes-date/)
+- [10 Red Flags beim ersten Date die du nicht ignorieren](/blog/dating-rote-flaggen-erstes-date/)
 ## FAQ
 
 **Was ist besonders am dritten Date?**

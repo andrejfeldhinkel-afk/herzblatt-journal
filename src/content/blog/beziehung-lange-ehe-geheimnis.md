@@ -375,7 +375,7 @@ Die meisten getrennte Paare kommen nicht zusammen. Das ist okay. Sie gehen weite
 Das ist nicht Fehlschlag. Das ist Leben.
 ## Weiterlesen
 
-- [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating/)
+- [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating/)
 - [Attachment Styles: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating-verstehen/)
 - [Beziehung auffrischen: 30 kreative Ideen gegen den Alltagstrott](/blog/beziehung-auffrischen-ideen/)
 - [Grenzen setzen ohne Schuld: Der Leitfaden für liebevolle Grenzen](/blog/beziehung-grenzsetzen/)

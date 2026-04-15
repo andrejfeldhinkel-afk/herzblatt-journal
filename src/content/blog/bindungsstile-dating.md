@@ -61,7 +61,7 @@ Etwa 20–25 % der Menschen haben einen ängstlich-präokkupierten Bindungsstil.
 
 Du wirst schnell emotional investiert — oft schon nach dem ersten Date. Wenn die andere Person nicht genauso intensiv reagiert, gerätst du in Panik. Du brauchst Bestätigung, und wenn sie ausbleibt, fängst du an, mehr zu geben, mehr zu schreiben, mehr zu versuchen. Das Paradoxe: Genau dieses Verhalten drückt die andere Person oft weiter weg.
 
-In einer [gesunden [beziehung](/blog/adhs-und-beziehung-komplett-guide/)](/beziehung-nach-fernbeziehung) wäre es normal, auf eine Nachricht mal zwei Stunden zu warten. Für ängstlich Gebundene fühlen sich diese zwei Stunden wie zwei Tage an.
+In einer [gesunden beziehung](/beziehung-nach-fernbeziehung) wäre es normal, auf eine Nachricht mal zwei Stunden zu warten. Für ängstlich Gebundene fühlen sich diese zwei Stunden wie zwei Tage an.
 
 ### Was wirklich dahintersteckt
 

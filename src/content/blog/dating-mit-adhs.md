@@ -117,6 +117,6 @@ In Deutschland gibt es spezialisierte ADHS-Ambulanzen und Therapeuten, die sich 
 
 ## Weiterlesen
 
-- [20 [Green Flags](/blog/dating-green-flags-erkennen-guide): Zeichen dass er/sie der Richtige ist](/blog/dating-green-flags-guide)
+- [20 Green Flags: Zeichen dass er/sie der Richtige ist](/blog/dating-green-flags-guide)
 - [Impostor-Syndrom beim Dating: Du bist genug (glaub mir)](/blog/dating-impostor-syndrom)
 

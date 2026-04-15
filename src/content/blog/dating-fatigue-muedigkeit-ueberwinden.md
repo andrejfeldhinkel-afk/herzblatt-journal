@@ -88,7 +88,7 @@ Erinnere dich daran, warum du überhaupt datest: nicht um einen Lebenslauf abzua
 Und vielleicht — ganz vielleicht — ist die beste Version deines Dating-Lebens genau die, die nach einer Pause des Innehaltens beginnt.
 ## Weiterlesen
 
-- [Attachment Styles: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating-verstehen/)
+- [Attachment Styles: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating-verstehen/)
 - [Dating-App-Sucht: Wenn Swipen zur Obsession wird](/blog/dating-app-sucht-erkennen/)
 - [Frühwarnzeichen beim Dating: Worauf du achten solltest](/blog/dating-fruehwarnzeichen/)
 - [Dating mit Depression: Ehrlich bleiben, ohne sich zu verlieren](/blog/dating-mit-depression/)

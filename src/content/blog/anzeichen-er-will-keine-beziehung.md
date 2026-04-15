@@ -536,6 +536,6 @@ Und wenn dieser Mann dich nicht erkennt, ist das sein Verlust, nicht dein Fehler
 
 ## Das könnte dich auch interessieren
 
-- [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)
+- [Partner will offene Beziehung: Was jetzt?](/blog/partner-will-offene-beziehung/)
 - [Partner will keine Kinder — und jetzt?](/blog/partner-will-keine-kinder/)
 - [Anzeichen dass er mich liebt — 15+ Signale erkannt](/blog/anzeichen-dass-er-mich-liebt/)

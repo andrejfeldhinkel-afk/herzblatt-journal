@@ -197,5 +197,5 @@ Das ist ein Problem. Das ist nicht ein Fehler von dir. Das ist ein Problem mit d
 
 - [Konflikt-Stile: Kennde deinen Weg, um zu kämpfen](/blog/beziehung-konflikt-styles/)
 - [Grenzen setzen ohne Schuld: Der Leitfaden für liebevolle Grenzen](/blog/beziehung-grenzsetzen/)
-- [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
+- [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
 - [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden/)

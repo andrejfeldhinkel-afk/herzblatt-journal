@@ -202,6 +202,6 @@ Das ist eine echte Frage. Wenn die Unterschied massiv ist und keiner ist bereit 
 ## Weiterlesen
 
 - [Konflikt-Stile: Kennde deinen Weg, um zu kämpfen](/blog/beziehung-konflikt-styles/)
-- [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating/)
+- [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating/)
 - [Grenzen setzen ohne Schuld: Der Leitfaden für liebevolle Grenzen](/blog/beziehung-grenzsetzen/)
 - [Das Geheimnis langjähriger Ehen: Was Paare falsch verstehen](/blog/beziehung-lange-ehe-geheimnis/)

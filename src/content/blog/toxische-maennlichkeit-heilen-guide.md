@@ -424,7 +424,7 @@ Das ist sein eigener Typ von Freiheit und Gnade.
 - [Fawn Response: Wenn du dich in Beziehungen aufgibst, um](/blog/fawn-response-beziehung-guide/)
 - [Fleabagging — Warum du immer die falschen dattest](/blog/fleabagging-dating-pattern-guide/)
 - [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inneres-kind-heilen-beziehung/)
-- [Selbstliebe lernen nach [Trennung](/blog/trennung-verarbeiten-12-schritte): Dein Weg zurück zu dir](/blog/selbstliebe-nach-trennung/)
+- [Selbstliebe lernen nach Trennung: Dein Weg zurück zu dir](/blog/selbstliebe-nach-trennung/)
 ## FAQ: Fragen, die Männer mir stellen
 
 **F: Wird meine Partnerin mich weniger respektieren, wenn ich verletzlicher bin?**

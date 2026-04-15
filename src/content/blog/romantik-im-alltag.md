@@ -94,7 +94,7 @@ Das ist die antithese von Hollywood-Romantik. Es ist ruhig, zuverlässig und ung
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung), [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung), [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen).## Weiterlesen
 
 - [Komplimente richtig machen: Das Lob in Beziehungen](/blog/komplimente-richtig-machen/)
 - [Sexuelle Kompatibilität in Beziehungen: Warum es wichtig ist](/blog/sexuelle-kompatibilitaet/)

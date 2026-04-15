@@ -194,7 +194,7 @@ Genieße es.
 ## Weiterlesen
 
 - [Glücklich Single: Warum Alleinsein keine Schwäche ist](/blog/singles-gluecklich/)
-- [Selbstliebe lernen nach [Trennung](/blog/trennung-verarbeiten-12-schritte): Dein Weg zurück zu dir](/blog/selbstliebe-nach-trennung/)
+- [Selbstliebe lernen nach Trennung: Dein Weg zurück zu dir](/blog/selbstliebe-nach-trennung/)
 - [Angst für immer allein zu bleiben: So überwindest du sie](/blog/angst-allein-zu-bleiben/)
 - [Bindungsstil ändern: Wie du von unsicher zu sicher wirst](/blog/attachment-style-aendern-sicher-werden/)
 ## FAQ – Fragen und Antworten

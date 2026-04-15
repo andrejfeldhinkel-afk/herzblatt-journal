@@ -71,7 +71,7 @@ Detaillierte Infos bietet Bundesministerium für Familie: [Bundesministerium fü
 
 Die gemeinsamen Freunde werden mit der Zeit wieder normaler zu dir. Manche verschwinden, andere bleiben. Das ist der natürliche Verlauf. Was bleibt, sind die echten Verbindungen.
 
-Verwandte Artikel: [Trennung aber gleiche Wohnung: So überlebst du die Übergangszeit](/blog/trennung-mit-gemeinsamer-wohnung/) und [Ex vergessen: 12 [tipps](/blog/beziehung-gleichberechtigung/) die wirklich helfen](/blog/ex-vergessen-tipps/)
+Verwandte Artikel: [Trennung aber gleiche Wohnung: So überlebst du die Übergangszeit](/blog/trennung-mit-gemeinsamer-wohnung/) und [Ex vergessen: 12 tipps die wirklich helfen](/blog/ex-vergessen-tipps/)
 ## Weiterlesen
 
 - [Erste eigene Wohnung nach Trennung: Der Neustart-Guide](/blog/erste-wohnung-nach-trennung/)

@@ -96,7 +96,7 @@ Der schönste Moment einer Fernbeziehung? Der Augenblick, in dem ihr euch am Bah
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
 
 - [Fernbeziehung meistern: 25 Tipps für eine starke Liebe auf](/blog/fernbeziehung-tipps/)
 - [Fernbeziehung meistern: Tipps für eine starke Partnerschaft](/blog/long-distance-beziehung/)

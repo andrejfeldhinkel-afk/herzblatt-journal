@@ -90,5 +90,5 @@ Das ist die größte Gabe, die aus dem Trauma kommen kann.## Weiterlesen
 Weitere Informationen findest du bei Psychologie Heute: [Psychologie Heute](https://www.psychologie-heute.de/)
 
 Detaillierte Infos bietet Neurologen und Psychiater im Netz: [Neurologen und Psychiater im Netz](https://www.neurologen-und-psychiater-im-netz.org/)
-- [Dating nach einer [Ghosting](/blog/ghosting-komplett-guide)-Erfahrung: Wieder vertrauen](/blog/dating-nach-ghosting-erfahrung/)
+- [Dating nach einer Ghosting-Erfahrung: Wieder vertrauen](/blog/dating-nach-ghosting-erfahrung/)
 - [Dating nach Jobverlust: Lohnt es sich trotzdem?](/blog/dating-nach-jobverlust/)

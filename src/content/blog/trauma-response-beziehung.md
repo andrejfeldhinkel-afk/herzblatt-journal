@@ -375,5 +375,5 @@ Erdeningstechniken: Tief atmen, Farben benennen, kaltes Wasser auf dein Gesicht,
 
 ## Lesenswerte Links
 
-- [Unsicher-vermeidender [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) erklärt](/blog/unsicher-vermeidender-[bindungsstil](/bindungsstile/))
+- [Unsicher-vermeidender Bindungsstil erklärt](/blog/unsicher-vermeidender-bindungsstil/)
 - [Loslassen lernen in der Liebe](/blog/loslassen-lernen-liebe)

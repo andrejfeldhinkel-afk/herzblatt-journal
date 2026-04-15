@@ -106,5 +106,5 @@ Wenn die Antwort ja ist, dann kann es funktionieren. Es erfordert reife [Kommuni
 
 - [Beziehung nach Corona – Was die Pandemie uns Liebe gelehrt](/blog/beziehung-nach-corona/)
 - [Neustart mit dem Ex: So klappt es wirklich](/blog/beziehung-neustart-gleicher-partner/)
-- [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)
+- [Partner will offene Beziehung: Was jetzt?](/blog/partner-will-offene-beziehung/)
 - [Emotional unerreichbarer Partner: Warum du an eine Wand](/blog/emotional-unerreichbarer-partner/)

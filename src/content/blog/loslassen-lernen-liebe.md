@@ -270,7 +270,7 @@ Das ist alles.
 
 ## Weiterlesen
 
-- [Selbstliebe lernen nach [Trennung](/blog/trennung-verarbeiten-12-schritte): Dein Weg zurück zu dir](/blog/selbstliebe-nach-trennung/)
+- [Selbstliebe lernen nach Trennung: Dein Weg zurück zu dir](/blog/selbstliebe-nach-trennung/)
 - [Bindungsstil ändern: Wie du von unsicher zu sicher wirst](/blog/attachment-style-aendern-sicher-werden/)
 - [Codependenz erkennen und überwinden: Raus aus der](/blog/codependenz-erkennen-ueberwinden/)
 - [Emotional Detachment: Wenn du in der Beziehung nichts mehr](/blog/emotional-detachment-beziehung/)

@@ -187,7 +187,7 @@ Das ist nicht Luxus. Das ist die Basis für eine gesunde Beziehung.
 
 Und für dich: Es ist ok dass du das als Anforderung brauchst. Es ist ok dass du sagst "Ich kann nicht dein einziger Mensch sein." Das macht dich nicht egoistisch. Das macht dich realistisch.
 
-Wenn die Beziehung allgemein Probleme hat könnte dir [Bessere [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) in der Beziehung](/blog/kommunikation-beziehung) helfen. Und wenn du merkst dass die Beziehung toxic wird könnte Erkennen von toxischen Beziehungsmustern wichtig sein.
+Wenn die Beziehung allgemein Probleme hat könnte dir [Bessere kommunikation in der Beziehung](/blog/kommunikation-beziehung) helfen. Und wenn du merkst dass die Beziehung toxic wird könnte Erkennen von toxischen Beziehungsmustern wichtig sein.
 
 ---
 

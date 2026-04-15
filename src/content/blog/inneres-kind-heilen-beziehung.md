@@ -593,4 +593,4 @@ Die Wahrheit: Der erste Schritt ist nicht zum Therapeuten zu gehen. Der erste Sc
 - [Emotional Detachment: Wenn du in der Beziehung nichts mehr](/blog/emotional-detachment-beziehung/)
 - [Fawn Response: Wenn du dich in Beziehungen aufgibst, um](/blog/fawn-response-beziehung-guide/)
 - [Hyper-Independence: Wenn extreme Unabhängigkeit deine](/blog/hyper-independence-beziehung/)
-- [Scheidungskinder und Liebe: Wie die [Trennung](/blog/trennung-verarbeiten-12-schritte) deiner Eltern](/blog/scheidungskinder-beziehungen-erwachsene/)
+- [Scheidungskinder und Liebe: Wie die Trennung deiner Eltern](/blog/scheidungskinder-beziehungen-erwachsene/)

@@ -111,4 +111,4 @@ Dein erster Schritt sollte ein offenes, aber ruhiges Gespräch sein – nicht w�
 
 - [Beziehung mit einem Workaholic: Nähe trotz Arbeit](/blog/beziehung-mit-workaholic-partner/)
 - [Beziehung mit einem Partner mit anderer Muttersprache](/blog/beziehung-partner-anderer-muttersprache/)
-- [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)
+- [Partner will offene Beziehung: Was jetzt?](/blog/partner-will-offene-beziehung/)

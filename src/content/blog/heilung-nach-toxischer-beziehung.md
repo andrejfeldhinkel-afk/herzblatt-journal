@@ -32,7 +32,7 @@ Du sitzt hier und fragst dich, wie du wieder normal werden kannst. Die Narben ei
 
 Die ersten Wochen nach einer Trennung sind die intensivsten. Du durchlebst ein Emotional Rollercoaster aus Erleichterung, Trauer, Wut und manchmal sogar Zweifel am Trennungsentscheid. Das ist eine normale Reaktion auf einen traumatischen Beziehungsverlauf.
 
-Der erste Schritt bei der Recovery [Dating [Green Flags](/blog/dating-green-flags-erkennen-guide): 30 Zeichen dass du einen Keeper gefunden hast](/blog/dating-green-flags-komplett) für ein besseres Verständnis, worauf du in zukünftigen Beziehungen achten solltest.
+Der erste Schritt bei der Recovery [Dating Green Flags: 30 Zeichen dass du einen Keeper gefunden hast](/blog/dating-green-flags-komplett) für ein besseres Verständnis, worauf du in zukünftigen Beziehungen achten solltest.
 
 Diese Phase dauert normalerweise 2-6 Wochen. Du wirst dich fühlen, als würde es für immer dauern, aber dein Gehirn braucht diese Zeit, um sich von der Bindung zu trennen.
 

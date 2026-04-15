@@ -157,7 +157,7 @@ Gib dir selbst Erlaubnis, zu pausieren. Gib dir Erlaubnis, die Regeln zu ändern
 
 Deine Seelische Gesundheit ist wichtiger als jeder Match.
 
-Für mehr Guidance bei der Selbstliebe und Selbstakzeptanz, schau dir unseren Guide zu [Dating nach Burnout oder Depression: Wann bin ich bereit für die Liebe?](/blog/dating-nach-burnout), [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating).## Weiterlesen
+Für mehr Guidance bei der Selbstliebe und Selbstakzeptanz, schau dir unseren Guide zu [Dating nach Burnout oder Depression: Wann bin ich bereit für die Liebe?](/blog/dating-nach-burnout), [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating).## Weiterlesen
 
 - [Dating Fatigue: Wenn die Partnersuche nur noch erschöpft](/blog/dating-fatigue-was-hilft/)
 - [Dating mit sozialer Angststörung](/blog/dating-mit-sozialer-angst/)

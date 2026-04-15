@@ -188,8 +188,8 @@ Wenn du mehr über respektvolle Kommunikation lesen magst, schau dir [Trennung](
 ## Weiterlesen
 
 - [Partner kritisiert mich ständig: Wie reagiere ich richtig?](/blog/partner-kritisiert-mich-staendig/)
-- [Partner will nicht [zusammenziehen](/blog/zusammenziehen-checkliste): Was steckt dahinter?](/blog/partner-will-nicht-zusammenziehen/)
-- [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)
+- [Partner will nicht zusammenziehen: Was steckt dahinter?](/blog/partner-will-nicht-zusammenziehen/)
+- [Partner will offene Beziehung: Was jetzt?](/blog/partner-will-offene-beziehung/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 ## FAQ
 

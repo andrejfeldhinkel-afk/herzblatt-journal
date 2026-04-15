@@ -145,5 +145,5 @@ Du verdienst die beste Version davon. Und diesmal, du wirst wissen, wie man sie 
 ## Das könnte dich auch interessieren
 
 - [Dating nach häuslicher Gewalt: Der ehrliche Heilungsguide](/blog/dating-nach-gewalt-in-beziehung/)
-- [Dating nach einer [Ghosting](/blog/ghosting-komplett-guide)-Erfahrung](/blog/dating-nach-ghosting-erfahrung/)
+- [Dating nach einer Ghosting-Erfahrung](/blog/dating-nach-ghosting-erfahrung/)
 - [Dating nach toxischer Familie](/blog/dating-nach-toxischer-familie/)

@@ -474,7 +474,7 @@ Vielleicht. Wenn dein Partner bereit ist zu wachsen und diese Arbeit mit dir zu 
 Das hängt davon ab, wie schwer die Parentifizierung war, wie lange sie andauerte und wie engagiert du in der Heilungsarbeit bist. Einige Menschen spüren in Monaten Erleichterung. Andere brauchen Jahre. Es geht nicht um die Geschwindigkeit — es geht um die Richtung.
 ## Weiterlesen
 
-- [Scheidungskinder und Liebe: Wie die [Trennung](/blog/trennung-verarbeiten-12-schritte) deiner Eltern](/blog/scheidungskinder-beziehungen-erwachsene/)
+- [Scheidungskinder und Liebe: Wie die Trennung deiner Eltern](/blog/scheidungskinder-beziehungen-erwachsene/)
 - [Emotional Detachment: Wenn du in der Beziehung nichts mehr](/blog/emotional-detachment-beziehung/)
 - [Hyper-Independence: Wenn extreme Unabhängigkeit deine](/blog/hyper-independence-beziehung/)
 - [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inneres-kind-heilen-beziehung/)

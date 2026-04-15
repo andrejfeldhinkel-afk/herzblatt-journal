@@ -193,7 +193,7 @@ Gegen Ende des Datums, wenn die Chemie gut ist, kannst du sagen: "Mir gefällt e
 
 Wenn die Chemie nicht da ist, ist das ok. Sie dir erlaubt, weiter zu gehen. Du hast nicht Zeit verschwendet – du weißt, dass diese Person nicht für dich ist.
 
-Lesen Sie auch: [Selbstliebe lernen nach [Trennung](/blog/trennung-verarbeiten-12-schritte): Dein Weg zurück zu dir selbst](/blog/selbstliebe-nach-trennung)
+Lesen Sie auch: [Selbstliebe lernen nach Trennung: Dein Weg zurück zu dir selbst](/blog/selbstliebe-nach-trennung)
 
 ## Die Wissenschaft hinter guten Date-Fragen
 
@@ -375,5 +375,5 @@ Die 50 Fragen sind nur Werkzeuge – sie sind nicht die Bestimmung. Die Bestimmu
 
 - [50 kreative Date-Ideen: So wird euer erstes Treffen von der](/blog/kreative-date-ideen-dating-app/)
 - [Das erste Telefonat vor dem Date: So machst du es richtig](/blog/erstes-telefonat-vor-date/)
-- [10 [Red Flags](/blog/dating-red-flags-maenner-erkennen) beim ersten Date die du nicht ignorieren](/blog/dating-rote-flaggen-erstes-date/)
+- [10 Red Flags beim ersten Date die du nicht ignorieren](/blog/dating-rote-flaggen-erstes-date/)
 - [Chemistry beim Date: Woran du echte Anziehung erkennst und](/blog/chemistry-beim-date-erkennen/)

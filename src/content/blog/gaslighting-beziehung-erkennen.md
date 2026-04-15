@@ -54,7 +54,7 @@ Du musst auch gehen, wenn die Manipulation körperliche Sicherheit gefährdet. E
 
 Und ehrlich gesagt: Du musst gehen, wenn du nicht mehr glücklich bist. Du verdienst eine Beziehung, in der deine Wahrnehmung, deine Gefühle und deine Erinnerungen respektiert werden.
 
-Lesen Sie auch: [Selbstliebe lernen nach [Trennung](/blog/trennung-verarbeiten-12-schritte): Dein Weg zurück zu dir selbst](/blog/selbstliebe-nach-trennung)
+Lesen Sie auch: [Selbstliebe lernen nach Trennung: Dein Weg zurück zu dir selbst](/blog/selbstliebe-nach-trennung)
 
 ## Recovery: Wie du wieder dir selbst vertraust
 

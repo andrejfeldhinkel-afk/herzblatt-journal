@@ -248,7 +248,7 @@ Aber sag dingen wie: "Wenn du nicht antwortest fühle ich mich verlassen. Das tr
 
 Das gibt ihm Information. Es gibt euch beiden eine Chance.
 
-**Arbeite mit einem Therapeuten.** Das ist nicht optional wenn deine Daddy Issues tief sitzen. [Lese hier wie Therapie gegen [verlustangst](/blog/aengstlicher-bindungsstil-heilen/) hilft.](/blog/angst-allein-zu-bleiben)
+**Arbeite mit einem Therapeuten.** Das ist nicht optional wenn deine Daddy Issues tief sitzen. [Lese hier wie Therapie gegen verlustangst hilft.](/blog/angst-allein-zu-bleiben)
 
 Ein guter Therapeut kann dir helfen:
 - Die Verbindung zwischen deinem Vater und deinen Mustern zu verstehen

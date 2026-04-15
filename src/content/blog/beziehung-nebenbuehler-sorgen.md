@@ -193,7 +193,7 @@ Ja, aber formuliere es richtig. Nicht "Du machst mich eifersüchtig" – das ist
 Meist 3-6 Monate, wenn du aktiv daran arbeitest. Das bedeutet: die Gedankenschleifen unterbrechen, das Vertrauen-Experiment machen, mit deinem Partner sprechen. Wenn du es ignorierst und wartest, dass es weg geht – kann es Jahre andauern. Manchmal ein Leben lang. Deine Arbeit ist der Unterschied zwischen "Das wird besser" und "Ich bin dazu verdammt, das zu ertragen".
 ## Weiterlesen
 
-- [Beziehung nach [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide): Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
-- [Bindungstypen verstehen: Wie dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) dein Dating beeinflusst](/blog/attachment-styles-dating/)
+- [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
+- [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating/)
 - [Grenzen setzen ohne Schuld: Der Leitfaden für liebevolle Grenzen](/blog/beziehung-grenzsetzen/)
 - [Konflikt-Stile: Kennde deinen Weg, um zu kämpfen](/blog/beziehung-konflikt-styles/)
