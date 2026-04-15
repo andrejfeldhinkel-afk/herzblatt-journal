@@ -181,7 +181,7 @@ Wenn dein Partner absolut etwas tun will, das deine absoluten Grenzen verletzt, 
 
 Wann ist sexuelle Inkompatibilität zu einem Punkt geworden, wo die Beziehung ernsthaft in Gefahr ist?
 
-**Red Flag 1: Manipulation um Sex**
+**[Red Flag](/red-flags/) 1: Manipulation um Sex**
 
 Wenn dein Partner dich manipuliert oder drückt, um Sex zu haben, das ist Missbrauch. Das ist nicht ein Kompatibilitäts-Problem. Das ist ein Grenzverletzungs-Problem.
 

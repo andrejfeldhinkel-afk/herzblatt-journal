@@ -31,7 +31,7 @@ faq:
   <p class="asc-subtitle">Finde heraus, wie deine Bindungsstile zusammenpassen und was das bedeutet</p>
   
   <div class="asc-section">
-    <p class="asc-label"><strong>Dein Bindungsstil:</strong></p>
+    <p class="asc-label"><strong>Dein [Bindungsstil](/bindungsstile/):</strong></p>
     <div class="asc-buttons">
       <button class="asc-btn asc-my-style" data-style="secure">Sicher</button>
       <button class="asc-btn asc-my-style" data-style="anxious">Ängstlich-Ambivalent</button>
@@ -399,7 +399,7 @@ Das ist ein sehr unreifer Weg, diese Frage zu stellen, aber es kommt von einem v
 
 Nicht alle bindungsängstlichen Menschen sind manipulativ, aber einige verwenden Manipulationstaktiken unbewusst, um Nähe und Kontrolle auszugleichen. Sie könnten deine Wahrnehmung dessen, was passiert ist, in Frage stellen: "Das habe ich nicht gesagt" oder "Du interpretierst das falsch."
 
-Gaslighting ist, wenn dein Partner deine Realität und deine Gefühle in Frage stellt, damit du dich verrückt fühlst. Das ist nicht akzeptabel, auch wenn Bindungsangst dahinter steckt.
+[Gaslighting](/blog/was-ist-gaslighting/) ist, wenn dein Partner deine Realität und deine Gefühle in Frage stellt, damit du dich verrückt fühlst. Das ist nicht akzeptabel, auch wenn [Bindungsangst](/blog/bindungsangst-komplett-guide/) dahinter steckt.
 
 ### Wiederholte Grenzverletzungen
 
@@ -557,7 +557,7 @@ Dann musst du los lassen. Das ist nicht kalt. Das ist selbstliebend.
 
 ### Wann sollte er Therapie suchen?
 
-Ideal sollte ein bindungsängstlicher Partner einen Therapeuten sehen, der auf Bindungstrauma spezialisiert ist. Therapieansätze wie EMDR oder somatic experiencing können sehr effektiv sein.
+Ideal sollte ein bindungsängstlicher Partner einen Therapeuten sehen, der auf Bindungstrauma spezialisiert ist. Therapieansätze wie [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) oder somatic experiencing können sehr effektiv sein.
 
 Wenn dein Partner bereit ist, Therapie zu suchen, ist das ein großes positives Zeichen. Es bedeutet, dass er erkannt hat, dass es ein Problem gibt, und dass er bereit ist, daran zu arbeiten.
 

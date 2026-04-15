@@ -48,7 +48,7 @@ Er/Sie postet dich nicht auf Instagram, aber Freunde wissen von dir. Das ist nic
 Seine/Ihre Freunde wissen von dir, aber die Familie nicht. Das kann legitim sein, wenn die Familie kompliziert ist. Aber es sollte nicht dauerhaft sein. Es sollte einen Plan geben: "Bis zum nächsten Familientreffen werden sie es wissen."
 
 **Stufe 3: Totales Geheimnis**
-Niemand weiß von der Beziehung außer euch. Er/Sie versteckt dein Dasein, deine Existenz. Das ist – stark ausgedrückt – nicht akzeptabel. Das ist ein großes Red Flag.
+Niemand weiß von der Beziehung außer euch. Er/Sie versteckt dein Dasein, deine Existenz. Das ist – stark ausgedrückt – nicht akzeptabel. Das ist ein großes [Red Flag](/red-flags/).
 
 Je höher die Stufe, desto größer das Problem.
 

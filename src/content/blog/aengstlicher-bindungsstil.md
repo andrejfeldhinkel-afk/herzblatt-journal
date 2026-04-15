@@ -23,7 +23,7 @@ faq:
 
 Du sitzt beim Kaffee und dein Partner antwortet nach 20 Minuten nicht auf deine Nachricht. Dein Herz fängt an zu rasen. War es etwas, das du gesagt hast? Ist er sauer? Verliert er das Interesse? In deinem Kopf spielen sich zehn verschiedene Szenarien ab, bis die Antwort kommt: „War gerade in einer Besprechung, alles gut." Erleichterung flutet durch deinen Körper — zumindest bis zur nächsten Nachricht, die unerwartet lange dauert.
 
-Wenn das nach dir klingt, hast du möglicherweise einen ängstlichen Bindungsstil. Das ist nicht etwa ein Fehler in dir — es ist ein Muster, das durch deine frühen Beziehungserfahrungen geprägt wurde. Und das Gute: Es ist veränderbar.
+Wenn das nach dir klingt, hast du möglicherweise einen ängstlichen [Bindungsstil](/bindungsstile/). Das ist nicht etwa ein Fehler in dir — es ist ein Muster, das durch deine frühen Beziehungserfahrungen geprägt wurde. Und das Gute: Es ist veränderbar.
 
 ## Was ist ein ängstlicher Bindungsstil?
 

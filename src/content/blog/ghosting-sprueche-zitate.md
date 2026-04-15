@@ -25,7 +25,7 @@ Du stierst auf dein Telefon. Die letzte Nachricht von vor einer Woche. Du fragst
 
 Manchmal braucht man in solchen Momenten die Worte anderer Menschen. Worte, die ausdrücken, was in dir vorgeht. Worte, die dir zeigen, dass du nicht verrückt bist, nicht überreagierst — dass das, was passiert ist, wirklich Scheiße ist.
 
-Hier sind 30+ Ghosting-Sprüche und Zitate, die dir helfen, deine Gefühle zu sortieren und vorwärts zu gehen.
+Hier sind 30+ [Ghosting](/blog/ghosting-komplett-guide/)-Sprüche und Zitate, die dir helfen, deine Gefühle zu sortieren und vorwärts zu gehen.
 
 ## Für die ersten Tage: Wenn der Schmerz am frischesten ist
 

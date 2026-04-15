@@ -12,7 +12,7 @@ tags:
 ---
 ## Dating nach Gewaltbeziehung: Sicher neu starten
 
-Nach einer Gewaltbeziehung ins Dating zurückzukehren ist einer der mutigsten Schritte, die du machen kannst. Das erfordert [Gaslighting](/blog/gaslighting-komplett-guide): Wenn jemand versucht, deine Realität zu leugnen oder zu delegitimieren, ist das ein großer Trigger, besonders wenn die Gewaltbeziehung Gaslighting beinhaltete.
+Nach einer Gewaltbeziehung ins Dating zurückzukehren ist einer der mutigsten Schritte, die du machen kannst. Das erfordert [Gaslighting](/blog/gaslighting-komplett-guide): Wenn jemand versucht, deine Realität zu leugnen oder zu delegitimieren, ist das ein großer Trigger, besonders wenn die Gewaltbeziehung [Gaslighting](/blog/was-ist-gaslighting/) beinhaltete.
 
 Einsamkeit/Hingabe: Wenn jemand versucht, dich zu isolieren oder möchte, dass du deine Freunde/Familie für ihn aufgibst.
 
@@ -106,7 +106,7 @@ Ein guter Therapeut kann dir dabei helfen:
 - Grenzen zu setzen und sie zu halten
 - Gesunde Beziehungen zu erkennen
 
-Es gibt auch spezialisierte Therapeuten, die in Trauma-Bearbeitung ausgebildet sind. Das könnte EMDR oder Somatic Experiencing sein. Das kann besonders hilfreich sein.
+Es gibt auch spezialisierte Therapeuten, die in Trauma-Bearbeitung ausgebildet sind. Das könnte [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) oder Somatic Experiencing sein. Das kann besonders hilfreich sein.
 
 Es gibt auch Unterstützungsgruppen für Menschen, die Gewalt erlebt haben. Einfach zu hören, dass andere ähnliche Erfahrungen haben und dass sie Heilung gefunden haben, kann unglaublich hilfreich sein.
 

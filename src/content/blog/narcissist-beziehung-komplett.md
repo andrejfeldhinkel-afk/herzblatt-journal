@@ -35,7 +35,7 @@ In diesem Guide zeige ich dir, wie du erkennen kannst, dass du mit einem Narziss
 
 ## Was ist Narzissmus überhaupt?
 
-Narzissmus ist auf einem Spektrum. Es gibt Menschen mit narzisstischen Tendenzen – egoistisch, bedürftig nach Bewunderung – und es gibt Menschen mit einer klinischen Narzisstischen Persönlichkeitsstörung (NPD).
+[Narzissmus](/narzissmus/) ist auf einem Spektrum. Es gibt Menschen mit narzisstischen Tendenzen – egoistisch, bedürftig nach Bewunderung – und es gibt Menschen mit einer klinischen Narzisstischen Persönlichkeitsstörung (NPD).
 
 Ein klinischer Narzisst hat mehrere dieser Merkmale:
 
@@ -162,7 +162,7 @@ Eine Beziehung mit einem Narzissten ist nicht eine normale schwierige Beziehung.
 
 Erkennungszeichen:
 - Love-Bombing gefolgt von Devaluation
-- Gaslighting und Isolation
+- [Gaslighting](/blog/was-ist-gaslighting/) und Isolation
 - Dein Selbstwertgefühl wird zerstört
 
 Das kann nicht durch Liebe gelöst werden. Der Narzisst muss wollen, dass er sich ändert, und das will er nicht.

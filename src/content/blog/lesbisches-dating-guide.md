@@ -421,7 +421,7 @@ Wie du dich selbst schützt:
 - Video-Call vor dem persönlichen Treffen
 - Beobachte, wie sie deine Fragen beantwortet
 - Wenn etwas off ist, cancel ohne Erklärung
-- Du darfst "nein" sagen und ghosting ist okay
+- Du darfst "nein" sagen und [ghosting](/blog/ghosting-komplett-guide/) ist okay
 
 ### Sicherheit beim Treffen
 

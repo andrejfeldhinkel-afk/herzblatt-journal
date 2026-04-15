@@ -26,7 +26,7 @@ faq:
 
 ## Dark Triad: Narzissmus, Machiavellismus und Psychopathie im Dating
 
-Die Dark Triad ist ein psychologisches Konzept, das drei dunkle Persönlichkeitsmerkmale zusammenfasst: Narzissmus, Machiavellismus und Psychopathie. Diese Merkmale kommen in der normalen Bevölkerung vor und treten auf einem Spektrum auf. Menschen mit starken Dark Triad Merkmalen können manipulativ, rücksichtslos und emotional unempathisch sein. Im Dating-Kontext können sie außerordentlich charming und verführerisch wirken, während sie gleichzeitig emotional manipulativ und potenziell schädlich sind. Dieser Guide wird dir helfen, diese Merkmale zu erkennen und dich vor schädlichen Beziehungen zu schützen.
+Die Dark Triad ist ein psychologisches Konzept, das drei dunkle Persönlichkeitsmerkmale zusammenfasst: [Narzissmus](/narzissmus/), Machiavellismus und Psychopathie. Diese Merkmale kommen in der normalen Bevölkerung vor und treten auf einem Spektrum auf. Menschen mit starken Dark Triad Merkmalen können manipulativ, rücksichtslos und emotional unempathisch sein. Im Dating-Kontext können sie außerordentlich charming und verführerisch wirken, während sie gleichzeitig emotional manipulativ und potenziell schädlich sind. Dieser Guide wird dir helfen, diese Merkmale zu erkennen und dich vor schädlichen Beziehungen zu schützen.
 
 ## Was ist die Dark Triad? Eine Einführung in die dunkle Persönlichkeit
 
@@ -44,7 +44,7 @@ Narzissisten haben eine enormen Bedürfnis nach Bewunderung und Aufmerksamkeit. 
 
 Ein Narzisst wird sich schnell verlieben - oder besser gesagt, er wird sich in die Idee von dir verlieben. Du wirst wunderbar behandelt, idealisiert und auf ein Podest gestellt. Das ist die sogenannte "[Gaslighting](/blog/gaslighting-komplett-guide) und Wirklichkeitsverdrehung
 
-Gaslighting ist ein psychologischer Manipulationstaktik, bei der jemand dich dazu bringt, deine Wahrnehmung, dein Gedächtnis und dein Verständnis zu bezweifeln. Es ist benannt nach dem Film "Gaslight" aus dem Jahr 1944, in dem ein Mann sein Frau systematisch einredet, dass sie verrückt ist.
+[Gaslighting](/blog/was-ist-gaslighting/) ist ein psychologischer Manipulationstaktik, bei der jemand dich dazu bringt, deine Wahrnehmung, dein Gedächtnis und dein Verständnis zu bezweifeln. Es ist benannt nach dem Film "Gaslight" aus dem Jahr 1944, in dem ein Mann sein Frau systematisch einredet, dass sie verrückt ist.
 
 Ein Dark Triad Partner wird dich gaslighten. Du könntest sagen: "Du hast mir gestern gesagt, dass du mit einer anderen Frau warst", und er wird antworten: "Das habe ich nie gesagt. Du stellst dir das vor." Oder er wird sagen: "Du bist einfach zu emotional. Das ist nicht, was ich gesagt habe." Über Zeit wird das dich dazu bringen, deinen eigenen Erinnerungen und Urteilen nicht zu trauen.
 
@@ -118,7 +118,7 @@ Du könntest auch feststellen, dass die Person dein Vertrauen missbraucht hat od
 
 Die Beziehung mit einer Dark Triad Person kann tiefe psychologische Narben hinterlassen. Viele Opfer entwickeln Angstzustände, Depressionen, PTSD und komplexe PTSD. Du könntest anfangen zu zweifeln, ob du verrückt bist. Du könntest dein Selbstwertgefühl völlig verlieren.
 
-Eine Bedingung namens Trauma bonding ist häufig bei Opfern von manipulativen Beziehungen. Du wirst emotional an die Person gebunden sein, obwohl sie dir wehtut. Das ist weil der Zyklus aus Liebe Bombing und Devalue dein Nervensystem verwirrt. Dein Gehirn wird abhängig von den "hohen" (love bombing) und entwickelt Toleranz, sodass du die "Tiefen" (kritik, Ungnade) tolerieren kannst.
+Eine Bedingung namens [Trauma bonding](/blog/trauma-bonding-loesen/) ist häufig bei Opfern von manipulativen Beziehungen. Du wirst emotional an die Person gebunden sein, obwohl sie dir wehtut. Das ist weil der Zyklus aus Liebe Bombing und Devalue dein Nervensystem verwirrt. Dein Gehirn wird abhängig von den "hohen" ([love bombing](/blog/lovebombing-phasen/)) und entwickelt Toleranz, sodass du die "Tiefen" (kritik, Ungnade) tolerieren kannst.
 
 Die Heilung von eine Beziehung mit einer Dark Triad Person kann Jahre dauern. Es ist wichtig, therapeutische Hilfe zu suchen und dich mit unterstützenden Menschen zu umgeben. Das Trauma ist real, und du verdienst Hilfe zu heilen.
 
@@ -178,7 +178,7 @@ Alkohol und Drogen sind manchmal ein Cover für andere Probleme. Eine Person mit
 
 Das Problem ist, dass du, wenn du mit dieser Person zusammen bist, anfangen könntest zu rationalisieren das Verhalten. "Er ist nicht so, wenn er nüchtern ist." "Das ist das Alkohol reden, nicht er." Aber die Wahrheit ist, dass Alkohol die inhibitionen entfernt. Es offenbart, wer die Person wirklich ist.
 
-Eine Person, die wirklich dich liebt, wird nicht verbal dich angreifen, wenn sie betrunken sind. Eine Person, die wirklich respektiert, wird nicht lügen oder betrügen, wenn Alkohol involviert ist. Alkohol kann ein Zeichen sein, dass die Person nicht selbst-kontrollieren kann, was ein anderes red flag ist.
+Eine Person, die wirklich dich liebt, wird nicht verbal dich angreifen, wenn sie betrunken sind. Eine Person, die wirklich respektiert, wird nicht lügen oder betrügen, wenn Alkohol involviert ist. Alkohol kann ein Zeichen sein, dass die Person nicht selbst-kontrollieren kann, was ein anderes [red flag](/red-flags/) ist.
 
 ## Wachsamkeit bei Online-Dating und Dark Triad Menschen
 
@@ -194,7 +194,7 @@ Nach einem Dark Triad Beziehung können die Opfer mit Trauma leben. Das ist nich
 
 Du könntest Vertrauensprobleme haben. Du könntest in zukünftigen Beziehungen hyper-wachsam sein. Du könntest Angst vor roten Flaggen haben, selbst wenn der neue Partner nicht problematisch ist. Das ist normal und verständlich.
 
-Therapeutische Hilfe ist notwendig. Ein Therapeut, der in Trauma und Missbrauch spezialisiert ist, kann helfen. Es gibt auch Techniken wie EMDR, die sehr effektiv bei PTSD und Trauma sind. Gib dir Zeit zu heilen.
+Therapeutische Hilfe ist notwendig. Ein Therapeut, der in Trauma und Missbrauch spezialisiert ist, kann helfen. Es gibt auch Techniken wie [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/), die sehr effektiv bei PTSD und Trauma sind. Gib dir Zeit zu heilen.
 
 ## Ressourcen und Unterstützung
 

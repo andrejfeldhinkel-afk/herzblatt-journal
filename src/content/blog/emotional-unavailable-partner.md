@@ -44,7 +44,7 @@ Das fünfte Zeichen ist das Unvermögen, deine Bedürfnisse zu priorisieren. Du 
 
 Das sechste Zeichen ist die Vergangenheit von kurzen, oberflächlichen Beziehungen. Wenn du dich fragst, warum diese intelligente, attraktive Person keine lange Beziehung hatte, ist die Antwort, dass sie keine Tiefe aufbauen kann.
 
-Das siebte Zeichen ist die Kombination von Abständen mit Momenten der Nähe. Dies wird oft "breadcrumbing" genannt. Die Person gibt dir gerade genug emotionaler Verbindung, um dich am Leben zu halten, aber nicht genug, um dir wirklich nahe zu sein.
+Das siebte Zeichen ist die Kombination von Abständen mit Momenten der Nähe. Dies wird oft "[breadcrumbing](/blog/breadcrumbing-komplett-guide/)" genannt. Die Person gibt dir gerade genug emotionaler Verbindung, um dich am Leben zu halten, aber nicht genug, um dir wirklich nahe zu sein.
 
 ## Das unsichtbare Spiel: Warum du versucht, die unerreichbare Person zu erreichen
 

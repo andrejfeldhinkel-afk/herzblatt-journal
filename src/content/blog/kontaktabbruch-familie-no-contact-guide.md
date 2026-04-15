@@ -139,7 +139,7 @@ Diese praktischen Maßnahmen sind wichtig. Sie sind nicht egoistisch oder herzlo
 
 Eine Sache, auf die du dich einstellen solltest: Deine Entscheidung wird nicht unbemerkt bleiben. Dein Familienmitglied wird es anderen Familienmitgliedern oder Freunden erzählen. Und dann könnte eine Welle von Druck beginnen.
 
-Diese Menschen werden oft als "Flying Monkeys" bezeichnet — ein Begriff aus dem Zauberer von Oz, der Menschen bezieht, die im Namen einer anderen Person manipulieren oder angreifen. In deiner Familie könnten dies ein Großelternteil sein, ein Geschwister, ein Tante oder Onkel oder sogar ein Cousin. Sie werden anrufen, sie werden SMS schreiben, sie werden sagen Dinge wie „Mutter ist so traurig" oder „Dad versteht nicht, warum du das tust."
+Diese Menschen werden oft als "[Flying Monkeys](/blog/flying-monkeys-narzissmus/)" bezeichnet — ein Begriff aus dem Zauberer von Oz, der Menschen bezieht, die im Namen einer anderen Person manipulieren oder angreifen. In deiner Familie könnten dies ein Großelternteil sein, ein Geschwister, ein Tante oder Onkel oder sogar ein Cousin. Sie werden anrufen, sie werden SMS schreiben, sie werden sagen Dinge wie „Mutter ist so traurig" oder „Dad versteht nicht, warum du das tust."
 
 Diese Nachrichten sind manipulativ. Sie sind darauf ausgelegt, dich zu zwingen, deine Entscheidung zu revidieren. Der Flying Monkey ist oft nicht malicious — oft glaubt er, dass er „helfen" wird. Aber das Ergebnis ist dasselbe: Druck auf dich, damit du deine Grenzen aufgibst.
 
@@ -183,7 +183,7 @@ Low Contact kann funktionieren, wenn:
 
 Low Contact braucht auch klare Grenzen. Es ist nicht „ich ignoriere sie, aber antworte manchmal". Es ist ein strukturiertes System mit klaren Regeln.
 
-Aber für viele Menschen mit echtem Missbrauch oder echtem Narzissmus in der Familie ist Low Contact nicht nachhaltig. Der Missbrauchstäter wird Low Contact als Gelegenheit sehen, dich wieder zu manipulieren. Er oder sie wird versuchen, dich zurück in die volle Beziehung zu ziehen. Darum ist vollständiger Kontaktabbruch oft die einzige Option, die funktioniert.
+Aber für viele Menschen mit echtem Missbrauch oder echtem [Narzissmus](/narzissmus/) in der Familie ist Low Contact nicht nachhaltig. Der Missbrauchstäter wird Low Contact als Gelegenheit sehen, dich wieder zu manipulieren. Er oder sie wird versuchen, dich zurück in die volle Beziehung zu ziehen. Darum ist vollständiger Kontaktabbruch oft die einzige Option, die funktioniert.
 
 ## Die emotionale Reise: Mit Schuldgefühlen umgehen
 
@@ -265,7 +265,7 @@ Eines der schwersten Dinge beim Kontaktabbruch mit der Familie ist, wenn du Kind
 
 Es gibt einige wichtige Dinge zu überdenken:
 
-**Low Contact könnte sicherer sein als No Contact, wenn es um die Kinder geht.** Wenn du ein hohes Maß an Kontrolle haben kannst über die Interaktionen zwischen deinen Kindern und den Familienmitgliedern, könntest du Limited Contact erlauben. Dies würde bedeuten: Deine Mutter sieht die Kinder in deiner Gegenwart und unter deinen Bedingungen, nicht allein.
+**Low Contact könnte sicherer sein als [No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/), wenn es um die Kinder geht.** Wenn du ein hohes Maß an Kontrolle haben kannst über die Interaktionen zwischen deinen Kindern und den Familienmitgliedern, könntest du Limited Contact erlauben. Dies würde bedeuten: Deine Mutter sieht die Kinder in deiner Gegenwart und unter deinen Bedingungen, nicht allein.
 
 **Aber wenn die Familienmitglieder deine Kinder missbrauchen oder missbrauchen könnten, ist No Contact absolute.**
 

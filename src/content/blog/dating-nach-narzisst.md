@@ -126,7 +126,7 @@ Die größte Fähigkeit, die du nach narzisstischem Missbrauch entwickeln musst,
 - **Abwertung von Ex-Partnern:** Spricht nur negativ über alle Exen ("Sie waren alle verrückt")
 - **Bedürftigkeit unter der Fassade von Unabhängenz:** Will ständig deine Aufmerksamkeit, wird wütend, wenn du Grenzen setzt
 - **Manipulation:** Nutzt Gefühle um dich zu bekommen, was er will
-- **Gaslighting:** Leugnet Dinge, die passiert sind oder macht dich an, dass deine Gefühle falsch sind
+- **[Gaslighting](/blog/was-ist-gaslighting/):** Leugnet Dinge, die passiert sind oder macht dich an, dass deine Gefühle falsch sind
 - **Keine Empathie:** Interessiert sich nicht für deine Gefühle oder Bedürfnisse
 
 ### Grüne Flaggen – Zeichen eines gesunden Partners

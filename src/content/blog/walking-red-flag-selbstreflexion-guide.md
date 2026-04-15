@@ -27,7 +27,7 @@ faq:
 
 Es ist leicht, die [Red Flags](/blog/dating-red-flags-maenner-erkennen) in anderen zu sehen. Der Partner, der dich ignoriert. Der, der zu viel trinkt. Der, der deine Grenzen nicht respektiert.
 
-Aber es ist verdammt schwer, die Red Flags in dir selbst zu sehen.
+Aber es ist verdammt schwer, die [Red Flags](/red-flags/) in dir selbst zu sehen.
 
 Was ist, wenn du die Red Flag bist?
 

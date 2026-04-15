@@ -75,7 +75,7 @@ Wenn das erste Date gut war und du möchtest, dass es ein zweites gibt, sag es. 
 
 Sex-Gespräche beim ersten Restaurant-Date sind zu früh, außer du hast klar gemacht, dass du nur etwas Lockeres möchtest (dann suchst du sowieso nicht in restaurants, sondern auf anderen Apps).
 
-Sein Handy rauszuholen und reinzuschauen ist ein massiver Red Flag. Dein Date merkt sofort, dass du nicht präsent bist. Das ist unhöflich und zeigt, dass du nicht wirklich Interesse hast.
+Sein Handy rauszuholen und reinzuschauen ist ein massiver [Red Flag](/red-flags/). Dein Date merkt sofort, dass du nicht präsent bist. Das ist unhöflich und zeigt, dass du nicht wirklich Interesse hast.
 
 Zu viel über deine Ex reden. Null Erwähnungen ist auch seltsam, aber mehr als eine kurze, neutrale Erwähnung wirkt wie, als ob du nicht über sie hinwegkommst.
 

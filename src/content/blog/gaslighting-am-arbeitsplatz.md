@@ -29,7 +29,7 @@ Er schaut dich mit Verwirrung an: "Ich habe dir nie Freitag gesagt. Die Deadline
 
 Du öffnest dein E-Mail-Programm. Nichts. Vielleicht hast du es gelöscht? Vielleicht hast du es falsch verstanden? Plötzlich fragst du dich: "Bin ich verrückt?"
 
-Willkommen zu Gaslighting am Arbeitsplatz — einer Form von Manipulation, die dich zweifeln lässt an deinem Verstand.
+Willkommen zu [Gaslighting](/blog/was-ist-gaslighting/) am Arbeitsplatz — einer Form von Manipulation, die dich zweifeln lässt an deinem Verstand.
 
 ## Was ist Gaslighting genau?
 

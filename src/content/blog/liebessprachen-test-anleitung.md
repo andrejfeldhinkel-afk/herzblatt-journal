@@ -168,7 +168,7 @@ Das ist wertvolle Arbeit. Die beste, die du in einer [beziehung](/blog/adhs-und-
 
 **Lesetipps:**
 - [Emotional Safe Space schaffen](/blog/emotional-safe-space-beziehung/)
-- [[kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) in Beziehungen](/blog/beziehung-und-social-media-grenzen/)
+- [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) in Beziehungen
 - [Dating nach 30](/blog/dating-nach-30-als-frau/)## Weiterlesen
 
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)

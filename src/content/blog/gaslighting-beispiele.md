@@ -30,7 +30,7 @@ faq:
 
 Du fragst deinen Partner, ob er dir etwas Bestimmtes gesagt hat — und er schwört, das hätte er nie gesagt. Du bist dir sicher. Er ist sich sicher. Am Ende fragst du dich selbst: Habe ich mir das ausgedacht? Bin ich denn verrückt?
 
-Das ist Gaslighting.
+Das ist [Gaslighting](/blog/was-ist-gaslighting/).
 
 Es ist nicht theatralisch. Es ist nicht einmal besonders auffällig. Oft passiert es so subtil, dass du es erst bemerken, wenn du dich längst an den Gedanken gewöhnt hast, nicht normal zu sein. Gaslighting ist eine Form von psychischem Missbrauch, die darauf abzielt, dein Vertrauen in die eigene Wahrnehmung zu zerstören — und dir einzureden, dass du das Problem bist.
 
@@ -311,7 +311,7 @@ Sag dem Partner klar: "Ich akzeptiere nicht, dass mir meine Wahrnehmung abgespro
 **6. Plane deine Sicherheit**
 Wenn der Partner emotional oder verbal gewalttätig ist, erstelle einen Fluchtplan. Rede mit Freundinnen oder Familie. Lagere wichtige Dokumente sicher. Du brauchst vielleicht eine Auswegsroute.
 
-**7. No Contact oder graue Roca**
+**7. [No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/) oder graue Roca**
 Wenn eine Beziehung zu toxisch ist, ist die beste Lösung kein Kontakt. Keine Texte. Keine Anrufe. Keine Versuche, "ihn zu verstehen". Wenn du noch zusammenlebst, nutze die "graue Roca"-Methode: sei präsent, aber emotional nicht erreichbar.
 
 ---

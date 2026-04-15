@@ -592,7 +592,7 @@ Du ziehen zusammen nach vier Monaten. Dies ist zu schnell. Du brauchst mehr Zeit
 
 Du gibst finanzielle Kontrolle zu schnell auf. Joint Konten nach einem Jahr? Das ist zu schnell.
 
-Du öffnest dein Herz zu schnell. Der Narzisst liebt Liebe-Bomben. Wenn jemand sagt "Ich liebe dich" nach zwei Monaten, sei vorsichtig.
+Du öffnest dein Herz zu schnell. Der [Narzisst](/narzissmus/) liebt Liebe-Bomben. Wenn jemand sagt "Ich liebe dich" nach zwei Monaten, sei vorsichtig.
 
 Geschwindigkeit ist nicht immer ein Zeichen von Problemen. Manchmal kennen manche Menschen schnell. Aber mehr oft ist Geschwindigkeit ein Zeichen, dass etwas nicht stimmt.
 

@@ -25,7 +25,7 @@ Du fragst dich: Bin ich narzisstisch?
 
 Das ist schon ein gutes Zeichen. Ein echter Narzisst würde diese Frage nicht stellen.
 
-Aber es gibt verschiedene Grade von Narzissmus. Du kannst narzisstische Züge haben — ein wenig zu viel Egozentrik, zu wenig Empathie — ohne eine diagnostizierte narzisstische Persönlichkeitsstörung zu haben.
+Aber es gibt verschiedene Grade von [Narzissmus](/narzissmus/). Du kannst narzisstische Züge haben — ein wenig zu viel Egozentrik, zu wenig Empathie — ohne eine diagnostizierte narzisstische Persönlichkeitsstörung zu haben.
 
 Dieser Test wird dir helfen zu verstehen, wo du stehst.
 

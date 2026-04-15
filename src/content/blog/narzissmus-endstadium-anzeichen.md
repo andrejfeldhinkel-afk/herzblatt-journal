@@ -33,7 +33,7 @@ Dieser Artikel hilft dir zu verstehen, warum ältere Narzissten manchmal schlimm
 
 ## Was ist das „Endstadium" von Narzissmus?
 
-Der Narzissmus ist keine Krankheit, die sich im Laufe der Zeit bessert. Es ist eine Persönlichkeitsstörung, die sich verfestigt.
+Der [Narzissmus](/narzissmus/) ist keine Krankheit, die sich im Laufe der Zeit bessert. Es ist eine Persönlichkeitsstörung, die sich verfestigt.
 
 Aber mit dem Alter ändert sich, wie dieser Narzissmus sich ausdrückt. Besonders wenn der Narzisst feststellt, dass er die Bewunderung, die er brauchte, nie bekommt.
 
@@ -145,7 +145,7 @@ Wenn du einen Narzisst im Endstadium in deinem Leben hast:
 
 **Keine Schuld akzeptieren** — Du bist nicht schuld an seiner Einsamkeit. Nicht schuld, dass sein Leben nicht wie geplant lief. Das ist sein Problem, nicht deins.
 
-**Den Kontakt reduzieren** — Wenn möglich, weniger Zeit mit ihm verbringen. Wenn es eine Eltern- oder Familiensituation ist, grey rock.
+**Den Kontakt reduzieren** — Wenn möglich, weniger Zeit mit ihm verbringen. Wenn es eine Eltern- oder Familiensituation ist, [grey rock](/blog/grey-rock-methode-narzisst-guide/).
 
 ## Die harte Wahrheit
 

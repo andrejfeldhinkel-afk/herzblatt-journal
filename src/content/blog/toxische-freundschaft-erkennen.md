@@ -62,7 +62,7 @@ Du bist immer da für sie. Du höschst zu ihren Problemen zu. Du gibtst ihr Geld
 
 Sie kritisiert deine anderen Freunde. Sie versucht, dich zu sehen, wenn du mit anderen Menschen sein möchtest. Sie macht dich schuldig, wenn du Zeit ohne sie verbringst.
 
-**Flagge 7: Manipulation und Gaslighting**
+**Flagge 7: Manipulation und [Gaslighting](/blog/was-ist-gaslighting/)**
 
 Sie leugnet, dass sie schädliche Dinge getan hat. Sie dreht die Schuld um. Sie macht dich glauben, dass du "übersensitiv" oder "verrückt" bist.
 

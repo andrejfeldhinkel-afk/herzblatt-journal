@@ -45,7 +45,7 @@ Helen Fisher, eine führende Anthropologin und Neuroforscherin, hat drei untersc
 
 **Phase 2: Verliebtheit und intensive Leidenschaft.** Dies ist die Phase, die oft als "Vernarrtheit" oder "Falling in love" bezeichnet wird. Sie ist geprägt von intensiven Gefühlen, Gedanken an die Person fast 24/7, Euphorie, Unsicherheit und starkem Verlangen nach gegenseitiger Zuneigung. Diese Phase wird durch eine ganz andere Reihe von Neurotransmittern angetrieben: Dopamin, Norepinephrin und ein Mangel an Serotonin (ja, [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) neigen dazu, schneller zu vertrauen und sich früher zu verlieben. Wenn deine Eltern verlässlich waren, wenn deine Beziehungsgeschichte positiv war, dann hast du gelernt, dass Menschen sicher sind. Du kannst dich dem hingeben.
 
-Menschen mit einem unsicheren oder gehemmten Bindungsstil brauchen länger. Wenn dein Elternteil unvorhersehbar waren, wenn du emotional vernachlässigt wurdest, lernst du, vorsichtig zu sein. Dein Gehirn wurde verdrahtet, um zu warten, zu beobachten, zu testen, bevor du verletzlich wirst. Das ist eine Überlebensfähigkeit aus einer unsicheren Kindheit.
+Menschen mit einem unsicheren oder gehemmten [Bindungsstil](/bindungsstile/) brauchen länger. Wenn dein Elternteil unvorhersehbar waren, wenn du emotional vernachlässigt wurdest, lernst du, vorsichtig zu sein. Dein Gehirn wurde verdrahtet, um zu warten, zu beobachten, zu testen, bevor du verletzlich wirst. Das ist eine Überlebensfähigkeit aus einer unsicheren Kindheit.
 
 Dies bedeutet nicht, dass schnelle Verliebte besser sind oder dass langsame Verliebte besser sind. Es bedeutet nur, dass wir alle unterschiedliche neurologische Voraussetzungen haben.
 

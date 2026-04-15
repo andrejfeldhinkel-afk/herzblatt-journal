@@ -36,7 +36,7 @@ Nach Monaten beginnt der echte Heilungsprozess. Du fängst an, wieder dein Leben
 
 ### Wiederaufbau deines Selbstwertgefühls
 
-Ghosting hat einen Schlag zu deinem Selbstwertgefühl gegeben. Die Heilung erfordert aktiv Arbeit, um das zu reparieren.
+[Ghosting](/blog/ghosting-komplett-guide/) hat einen Schlag zu deinem Selbstwertgefühl gegeben. Die Heilung erfordert aktiv Arbeit, um das zu reparieren.
 
 **Tat-Dinge, die dir Vertrauen geben**: Setze kleine Ziele und erreiche sie. Trainiere, schließe einen Kurs ab, lerne etwas Neues. Jedes Ziel, das du erreichst, sagt deinem Gehirn: Ich bin fähig.
 

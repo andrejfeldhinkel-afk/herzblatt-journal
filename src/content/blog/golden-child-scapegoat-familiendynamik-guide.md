@@ -95,7 +95,7 @@ Der narzisstische Elternteil kann auch das Scapegoat obsessiv "überwachen" oder
 
 ### Die Rollen-Zuweisung und ihre Variationen
 
-Manchmal gibt es eine logische Erklärung, warum ein Kind zum Scapegoat wird. Vielleicht ähnelt es dem anderen Elternteil, den der narzisstische Elternteil hasst. Vielleicht hat es einen eigenen starken Charakter, der dem Narzissten Widerstand leistet — was der Narzisst als "Ungehorsam" interpretiert. Vielleicht ist es zu intelligent, zu kreativ, zu unabhängig. Vielleicht ist es neurodivergent (ADHS, Autismus), was der Narzisst als "defekt" sieht.
+Manchmal gibt es eine logische Erklärung, warum ein Kind zum Scapegoat wird. Vielleicht ähnelt es dem anderen Elternteil, den der narzisstische Elternteil hasst. Vielleicht hat es einen eigenen starken Charakter, der dem Narzissten Widerstand leistet — was der [Narzisst](/narzissmus/) als "Ungehorsam" interpretiert. Vielleicht ist es zu intelligent, zu kreativ, zu unabhängig. Vielleicht ist es neurodivergent (ADHS, Autismus), was der Narzisst als "defekt" sieht.
 
 Manchmal gibt es keine logische Erklärung. Es ist einfach Pech. Das falsche Kind zur falschen Zeit. Ein Kind, das zufällig einen Fehler macht, kurz nachdem der Elternteil frustriert wurde. Ein Kind, das zufällig Aufmerksamkeit fordert, wenn der Elternteil Aufmerksamkeit haben möchte.
 

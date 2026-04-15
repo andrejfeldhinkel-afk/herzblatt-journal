@@ -19,7 +19,7 @@ author: "markus-hoffmann"
 
 ## Breadcrumbing: Wenn er dich hinzuhalten scheint
 
-Dies ist ein Artikel über breadcrumbing: wenn er dich hinzuhalten scheint. Der Artikel bietet praktische Tipps und Einblicke basierend auf echten Erfahrungen und bewährten Strategien.
+Dies ist ein Artikel über [breadcrumbing](/blog/breadcrumbing-komplett-guide/): wenn er dich hinzuhalten scheint. Der Artikel bietet praktische Tipps und Einblicke basierend auf echten Erfahrungen und bewährten Strategien.
 
 ## Einleitung
 

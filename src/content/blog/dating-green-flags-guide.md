@@ -113,7 +113,7 @@ Nicht "mach dich bessert für mich", sondern "lass uns gemeinsam besser werden".
 - [ ] Sie/Er ist konsistent (Mood-Swings?)
 - [ ] Sie/Er hat meine Grenzen respektiert
 - [ ] Ich kann mir vorstellen, diese Person wiederzusehen
-- [ ] Keine Major Red Flags sind aufgetaucht
+- [ ] Keine Major [Red Flags](/red-flags/) sind aufgetaucht
 
 ✅ **Nach einem Monat:**
 - [ ] Sie/Er kommuniziert proaktiv

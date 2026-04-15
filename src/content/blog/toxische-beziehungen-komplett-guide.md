@@ -72,7 +72,7 @@ Dies ist nicht Eifersucht, das ist paranoid kontrollierendes Verhalten. Es signa
 
 ### Gaslighting
 
-Das ist eine der gefährlichsten Formen. Gaslighting ist, wenn der Partner dir deine eigene Realität verdreht. "Das habe ich nie gesagt." "Du stellst dich an." "Das ist nicht passiert – du imagierst es." "Jeder würde sehen, dass dein Problem ist."
+Das ist eine der gefährlichsten Formen. [Gaslighting](/blog/was-ist-gaslighting/) ist, wenn der Partner dir deine eigene Realität verdreht. "Das habe ich nie gesagt." "Du stellst dich an." "Das ist nicht passiert – du imagierst es." "Jeder würde sehen, dass dein Problem ist."
 
 Gaslighting macht dich verrückt. Du fängst an zu zweifeln, ob deine Wahrnehmung korrekt ist. Es ist psychologischer Missbrauch.
 

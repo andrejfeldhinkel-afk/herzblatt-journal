@@ -51,7 +51,7 @@ Ein systematisches Muster, bei dem ein Partner wiederholt:
 
 - Dich kontrolliert oder versucht, dich zu kontrollieren (wo du hingehst, wen du siehst, was du denkst)
 
-- Deine Realität manipuliert (macht dich an deinen eigenen Erinnerungen zweifeln – Gaslighting)
+- Deine Realität manipuliert (macht dich an deinen eigenen Erinnerungen zweifeln – [Gaslighting](/blog/was-ist-gaslighting/))
 
 - Dich von Unterstützung isoliert (Freunde, Familie, dein Support-System)
 

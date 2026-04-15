@@ -451,7 +451,7 @@ In diesen Therapien lernst du, deinen Körper wahrzunehmen. Du übst, dein Nerve
 
 ### 2. Therapien für EMDR und IFS
 
-Eye Movement Desensitization and Reprocessing (EMDR) und Internal Family Systems (IFS) sind zwei evidence-basierte Therapien, die besonders wirksam für komplexes Trauma sind.
+Eye Movement Desensitization and Reprocessing ([EMDR](/blog/emdr-beziehungstrauma-heilen-guide/)) und Internal Family Systems (IFS) sind zwei evidence-basierte Therapien, die besonders wirksam für komplexes Trauma sind.
 
 EMDR funktioniert, indem dein Gehirn dazu gebracht wird, Traumaerinnerungen umzuverarbeiten. Mit Augenbewegungen oder anderen bilateralen Stimuli wechselt dein Gehirn zwischen den beiden Hemisphären, was eine natürliche Heilungsfähigkeit zu aktivieren scheint.
 

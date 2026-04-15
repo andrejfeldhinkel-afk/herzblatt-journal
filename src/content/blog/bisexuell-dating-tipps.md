@@ -113,7 +113,7 @@ Der schwerste Teil des Bi-Datings ist manchmal nicht der Partner – es ist dein
 
 ### Wenn dein Partner deine Bisexualität nicht glaubt
 
-Das ist eine Red Flag, und es ist wichtig, das zu erkennen.
+Das ist eine [Red Flag](/red-flags/), und es ist wichtig, das zu erkennen.
 
 Dein Partner sagt: "Du bist nicht wirklich bisexuell. Du bist neugierig." Oder: "Wenn du mich wirklich liebst, würdest du dich für mein Geschlecht entscheiden – nicht auf andere von diesem Geschlecht schauen." Oder: "Bisexualität ist nicht echt."
 

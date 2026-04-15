@@ -23,7 +23,7 @@ faq:
     answer: "Ja. Auffällig sind: nach wenigen Nachrichten WhatsApp-Wechsel forcieren, keine Video-Calls zulassen, stark bearbeitete Fotos, inkonsistente Details zur Biografie, Drängen auf schnelles erstes Treffen oder sexuelle Themen. Details dazu findest du in unserem Artikel zu Catfishing-Erkennung."
 ---
 
-Der erste Eindruck stimmte. Er öffnete die Tür, bestellte Wein, hatte Humor. Drei Wochen später liegst du nachts wach und fragst dich, warum du dich klein und angespannt fühlst, obwohl doch eigentlich nichts Konkretes passiert ist. Red Flags bei Männern sind selten grell. Sie sind leise Signale, die sich erst in der Summe zu einem klaren Bild zusammenfügen — und die du früh erkennen kannst, wenn du weißt, wonach du schaust.
+Der erste Eindruck stimmte. Er öffnete die Tür, bestellte Wein, hatte Humor. Drei Wochen später liegst du nachts wach und fragst dich, warum du dich klein und angespannt fühlst, obwohl doch eigentlich nichts Konkretes passiert ist. [Red Flags](/red-flags/) bei Männern sind selten grell. Sie sind leise Signale, die sich erst in der Summe zu einem klaren Bild zusammenfügen — und die du früh erkennen kannst, wenn du weißt, wonach du schaust.
 
 Dieser Artikel zeigt dir 15 Warnsignale, die in der paarpsychologischen Forschung, in Dating-Coachings und in unzähligen Schilderungen Betroffener immer wiederkehren. Nicht jede einzelne Red Flag bedeutet, dass du sofort gehen musst. Aber jede verdient deine Aufmerksamkeit.
 

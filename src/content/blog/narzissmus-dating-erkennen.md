@@ -24,7 +24,7 @@ faq:
 
 Narzissten sind großartige Schausteller. Sie wissen genau, wie man jemanden in den ersten Wochen bezaubert. Du triffst diese Person, und es fühlt sich wie Schicksal an. Aber dann ändern sich die Dinge subtil – und bevor du es merkst, fragst du dich, ob du verrückt wirst. Die gute Nachricht: Du kannst narzisstische Partner früh erkennen, wenn du weißt, auf welche Warnsignale du achten musst.
 
-Ein echter Narzisst ist nicht einfach nur egoistisch oder arrogant. Ein echter Narzisst hat eine echte Persönlichkeitsstörung, die es ihm unmöglich macht, Empathie zu zeigen oder echte Liebe zu erwidern. Wenn du mit einem zusammen bist, ist das eine psychisch zermürbende Erfahrung. Deshalb ist es wichtig, früh zu erkennen, mit wem du es zu tun hast.
+Ein echter [Narzisst](/narzissmus/) ist nicht einfach nur egoistisch oder arrogant. Ein echter Narzisst hat eine echte Persönlichkeitsstörung, die es ihm unmöglich macht, Empathie zu zeigen oder echte Liebe zu erwidern. Wenn du mit einem zusammen bist, ist das eine psychisch zermürbende Erfahrung. Deshalb ist es wichtig, früh zu erkennen, mit wem du es zu tun hast.
 
 ## Das [Gaslighting](/blog/gaslighting-komplett-guide) ist eine Manipulationstechnik, bei der die narzisstische Person versucht, dich dazu zu bringen, an deiner eigenen Wahrnehmung zu zweifeln. Das ist psychologischer Missbrauch. Es ist subtil, aber zerstörerisch.
 
@@ -107,7 +107,7 @@ Ein Therapeut ist nicht für die Therapie des Narzissten – das funktioniert ni
 
 ## Die Warnsignale früh erkennen spart dein Leben
 
-Wenn du die Warnsignale eines Narzissten früh erkennst – Liebe-Bomben, Gaslighting-Anzeichen, mangelnde Empathie – kannst du ausbrechen, bevor dein Herz zu sehr investiert ist. Das ist nicht sarkastisch oder herzlos. Das ist Selbstschutz.
+Wenn du die Warnsignale eines Narzissten früh erkennst – Liebe-Bomben, [Gaslighting](/blog/was-ist-gaslighting/)-Anzeichen, mangelnde Empathie – kannst du ausbrechen, bevor dein Herz zu sehr investiert ist. Das ist nicht sarkastisch oder herzlos. Das ist Selbstschutz.
 
 Eine Person früh zu verlassen, auch wenn es sich falsch anfühlt, weil dein Bauchgefühl dir sagt, dass etwas nicht stimmt, kann dir Monate oder Jahre Schmerz sparen. Hör auf dein Bauchgefühl. Wenn es sich falsch anfühlt, ist es falsch. Punkt.
 

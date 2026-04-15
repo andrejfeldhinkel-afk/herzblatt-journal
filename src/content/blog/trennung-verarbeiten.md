@@ -23,7 +23,7 @@ faq:
     answer: "Das Gefühl wird vorbeigehen. Das ist Trauer, nicht die Wahrheit. Dein Gehirn ist jetzt in einem depressiven Zustand, und der Zustand färbt alles dunkel. Das ist chemisch, nicht philosophisch. Lass dich nicht von diesem Zustand in eine falsche Entscheidung treiben (ihn anrufen, zu schnell eine neue Beziehung anfangen). Halte durch. Nach einigen Monaten wirst du realisieren, dass gut nicht bedeutet, dass du ihn zurückwillst — es bedeutet, dass du wieder dich selbst bist."
 ---
 
-Eine Trennung verarbeiten — drei Worte, die nach Aufgabenliste klingen und in Wahrheit das Schwerste sind, was du in deiner Beziehungswelt durchgehst. Vielleicht liegst du gerade auf der Couch, kannst nicht aufstehen, und fragst dich, ob das jemals aufhört. Antwort: Ja. Aber nicht, indem du wartest. Heilung braucht aktive Arbeit — diese Anleitung gibt dir die Werkzeuge, mit denen du in Wochen Boden gewinnst statt in Jahren zu stagnieren.
+Eine [Trennung verarbeiten](/trennung/) — drei Worte, die nach Aufgabenliste klingen und in Wahrheit das Schwerste sind, was du in deiner Beziehungswelt durchgehst. Vielleicht liegst du gerade auf der Couch, kannst nicht aufstehen, und fragst dich, ob das jemals aufhört. Antwort: Ja. Aber nicht, indem du wartest. Heilung braucht aktive Arbeit — diese Anleitung gibt dir die Werkzeuge, mit denen du in Wochen Boden gewinnst statt in Jahren zu stagnieren.
 
 ## Die fünf Phasen der Trauer (und warum sie nicht linear sind)
 

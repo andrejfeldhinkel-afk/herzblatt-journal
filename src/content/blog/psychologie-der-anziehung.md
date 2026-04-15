@@ -290,7 +290,7 @@ Du hast nun ein tiefes Verständnis dafür, wie die Psychologie der Anziehung fu
 Fang klein an:
 
 1. Identifiziere deine eigenen Anziehungsmuster — zu welchen Personen-Typen wirst du immer hingezogen?
-2. Überprüfe deine Bindungsstil-Tendenz — bist du sicher, vermeidend, oder präoccupiert?
+2. Überprüfe deine [Bindungsstil](/bindungsstile/)-Tendenz — bist du sicher, vermeidend, oder präoccupiert?
 3. Wende ein Konzept an — vielleicht dein erstes Date-Verhalten überdenken oder dich bewusst zu ähnlicheren Menschen hingezogen erklären
 4. Beobachte die Ergebnisse — werden deine Beziehungen tiefere und gesünder?
 

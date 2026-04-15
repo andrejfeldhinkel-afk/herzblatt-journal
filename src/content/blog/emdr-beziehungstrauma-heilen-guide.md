@@ -188,7 +188,7 @@ Nach erfolgreicher EMDR berichten Menschen oft: "Die Trauer ist immer noch da, a
 
 ### Emotionaler Missbrauch und Kontrollverhalten
 
-Emotionaler Missbrauch ist tückischer als körperlicher Missbrauch, weil er oft subtil ist. Der emotionale Missbrauch könnte sein: Ständige Kritik, Gaslighting, Isolation, emotionale Erpressung.
+Emotionaler Missbrauch ist tückischer als körperlicher Missbrauch, weil er oft subtil ist. Der emotionale Missbrauch könnte sein: Ständige Kritik, [Gaslighting](/blog/was-ist-gaslighting/), Isolation, emotionale Erpressung.
 
 Das Trauma liegt oft nicht in einer einzelnen Szene, sondern in Mustern. Der Therapeut könnte daher mit mehreren emblematischen Erinnerungen arbeiten — die Zeit, als dein Partner dir sagte, dass niemand sonst dich lieben würde, die Zeit, als er deine Wahrnehmung leugnete, die Zeit, als er dich emotional strafte.
 
@@ -196,7 +196,7 @@ Mit jeder dieser Erinnerungen, die verarbeitet wird, "entstrahlt" der Missbrauch
 
 ### Ghosting-Trauma
 
-Ghosting — das plötzliche, völlige Verschwinden eines Partners ohne Erklärung — ist modernes Beziehungstrauma. Es scheint trivial zu sein (es war "nur" eine Beziehung von ein paar Monaten), aber die psychologische Auswirkung ist oft schwerwiegend.
+[Ghosting](/blog/ghosting-komplett-guide/) — das plötzliche, völlige Verschwinden eines Partners ohne Erklärung — ist modernes Beziehungstrauma. Es scheint trivial zu sein (es war "nur" eine Beziehung von ein paar Monaten), aber die psychologische Auswirkung ist oft schwerwiegend.
 
 Das Gehirn braucht Abschluss. Wenn dein Partner einfach verschwindet, ohne ein Wort, kann sich dein Nerven system nicht regulieren. Du bleibst in einer Warteschleife: Warum? Was war falsch? Wird er zurückschreiben?
 

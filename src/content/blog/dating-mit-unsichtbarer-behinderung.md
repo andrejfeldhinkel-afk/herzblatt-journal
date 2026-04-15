@@ -118,7 +118,7 @@ Wenn dein Partner:
 - Dich beschuldigt, dass du nicht genug an dir selbst arbeitest
 - Dich benutzt, um sich gebraucht zu fühlen
 
-Das sind red flags. Das ist nicht liebe. Das ist Manipulation.
+Das sind [red flags](/red-flags/). Das ist nicht liebe. Das ist Manipulation.
 
 Dein Partner sollte:
 

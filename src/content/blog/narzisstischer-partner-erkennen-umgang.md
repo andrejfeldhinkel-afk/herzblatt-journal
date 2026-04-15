@@ -86,13 +86,13 @@ Die Abwertungsphase besteht oft aus mehreren Manipulationstechniken, die ich dir
 
 ### Warnsignale bei Manipulationstechniken
 
-**25. Er praktiziert Gaslighting.** Du weißt, dass etwas passiert ist, aber er überredet dich davon, dass du es dir eingebildet hast oder falsch verstanden hast.
+**25. Er praktiziert [Gaslighting](/blog/was-ist-gaslighting/).** Du weißt, dass etwas passiert ist, aber er überredet dich davon, dass du es dir eingebildet hast oder falsch verstanden hast.
 
 **26. Er nutzt deine Gefühle gegen dich.** „Wenn du mich wirklich liebest, würdest du das nicht tun." Er nutzt Liebe als Waffe.
 
 **27. Er macht Zukunftsversprechen (Future Faking), die er nicht einhält.** Er spricht von eurer Hochzeit, euren Kindern, eurer gemeinsamen Haus, aber wenn du es später zur Rede stellst, sagt er: „Ich habe das nie gemeint" oder „Das ist deine Interpretation gewesen."
 
-**28. Er praktiziert Stonewalling und Silent Treatment.** Er ignoriert dich tagelang, ohne einen Grund zu geben. Es ist eine Strafmaßnahme für dich, weil du ihn „verletzt" hast oder Grenzen gezogen hast.
+**28. Er praktiziert Stonewalling und [Silent Treatment](/blog/silent-treatment-bedeutung/).** Er ignoriert dich tagelang, ohne einen Grund zu geben. Es ist eine Strafmaßnahme für dich, weil du ihn „verletzt" hast oder Grenzen gezogen hast.
 
 **29. Er praktiziert Triangulation.** Er spricht über Ex-Partner, andere potenzielle Partner, oder „wie andere Frauen ihn behandeln würden." Sein Ziel ist, dich eifersüchtig zu machen und dich in Konkurrenz zu setzen.
 
@@ -120,7 +120,7 @@ Menschen mit ängstlich-anhänglichem [Bindungsstil](/blog/avoidant-attachment-b
 
 Als Erwachsene werden sie von narzisstischen Partnern angezogen. Warum? Weil der Narzisst am Anfang genau das gibt, was sie immer wollten: ungeteilte, intensive Aufmerksamkeit. Die Liebe ist endlich verfügbar! Und wenn die Abwertung beginnt, triggert das das alte Muster: „Wenn ich nur perfekter bin, wenn ich nur alles richtig mache, kann ich ihn glücklich machen und seine Liebe zurückbekommen."
 
-Menschen mit vermeidendem Bindungsstil wurden oft von kalten oder distanten Eltern erzogen. Sie lernten früh, dass Nähe unangenehm ist und dass Liebe bedeutet, allein zu sein. Sie können auch von Narzissten angezogen werden — in diesem Fall von einem Partner, dessen emotionale Distanz und Kritik sich vertraut anfühlt. Das ist das, was sie kennen.
+Menschen mit vermeidendem [Bindungsstil](/bindungsstile/) wurden oft von kalten oder distanten Eltern erzogen. Sie lernten früh, dass Nähe unangenehm ist und dass Liebe bedeutet, allein zu sein. Sie können auch von Narzissten angezogen werden — in diesem Fall von einem Partner, dessen emotionale Distanz und Kritik sich vertraut anfühlt. Das ist das, was sie kennen.
 
 ### Dein innerer Kindheitsfilm spielt ab
 
@@ -156,7 +156,7 @@ Ein konkretes Beispiel: Tom sagt Sarah ständig, dass sie ihn eifersüchtig mach
 
 ### DARVO: Die Kontrollmechanismus-Taktik
 
-DARVO ist ein Akronym: Defend (Verteidigen), Attack (Angreifen), Reverse Victim and Offender (Opfer und Täter umkehren).
+[DARVO](/blog/darvo-manipulation-beziehung-erkennen/) ist ein Akronym: Defend (Verteidigen), Attack (Angreifen), Reverse Victim and Offender (Opfer und Täter umkehren).
 
 Hier ist, wie es funktioniert: Du versuchst, ein ernstes Problem anzusprechen. „Gestern hast du mich angeschrien, und das hat mir wehgetan." Dein Partner antwortet nicht mit Verständnis oder Mitgefühl. Stattdessen:
 
@@ -241,7 +241,7 @@ Nach der Trennung wird er versuchen, dich zurückzuholen. Diese Phase ist kritis
 
 Er wird sich ändern. Er wird dir zeigen, dass er zur Therapie geht. Er wird dir schreiben: „Ich habe verstanden, was ich getan habe. Ich bin ein neuer Mensch." Oder er wird das Gegenteil tun — er wird dir zeigen, wie sehr er leidet, wie du sein Leben ruiniert hast, und impliziert, dass es deine Schuld ist, wenn etwas Schlimmes passiert.
 
-Beides ist Hoovering. Die Strategie ist: No Contact.
+Beides ist [Hoovering](/blog/hoovering-narzissmus-erkennen/). Die Strategie ist: [No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/).
 
 No Contact bedeutet kein Telefon, keine SMS, keine E-Mails, keine sozialen Medien, kein Hintersagen über Freunde. Radio Silence. Es ist hart. Es wird sich grausam anfühlen. Aber es ist der einzige Weg.
 
@@ -326,7 +326,7 @@ Die Antwort ist nicht: „Vertraue niemandem wieder." Das ist kein Leben. Die An
 
 ### Erkenne Love Bombing, wenn es passiert
 
-Love Bombing am Anfang ist nicht Liebe. Es ist eine Taktik. Ein gesundes Verhältnis entwickelt sich langsam. Es gibt keine Dreiwochen-Erklärungen von Liebe. Es gibt keine Lust, nach zwei Monaten zusammenzuziehen.
+[Love Bombing](/blog/lovebombing-phasen/) am Anfang ist nicht Liebe. Es ist eine Taktik. Ein gesundes Verhältnis entwickelt sich langsam. Es gibt keine Dreiwochen-Erklärungen von Liebe. Es gibt keine Lust, nach zwei Monaten zusammenzuziehen.
 
 Wenn jemand dich zu schnell idealisiert, ist das ein Warnsignal. Nicht ein Deal Breaker notwendigerweise, aber etwas zu bewachen.
 

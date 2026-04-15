@@ -341,7 +341,7 @@ Es gibt mehrere bewiesene therapeutische Ansätze für Dissoziation und das Bind
 
 **Somatic Experiencing (SE).** Dies ist eine körperzentrierte Therapie, die auf der Polyvagal-Theorie basiert. SE lehrt dein Nervensystem, die "unvollendete" Reaktion zu vervollständigen — das heißt, wenn dein Körper im Freeze oder Shutdown steckte, hilft SE es, aus diesem Zustand herauszukommen. SE ist besonders wirksam für Dissoziation, weil es im Körper arbeitet, nicht nur im Verstand.
 
-**EMDR (Eye Movement Desensitization and Reprocessing).** EMDR ist eine bewiesene Trauma-Therapie. Sie nutzt Augenbewegung (oder andere bilaterale Stimulation), um dein Gehirn zu helfen, traumatisches Material zu verarbeiten. EMDR ist besonders wirksam für PTBS und kann auch Dissoziation ansprechen.
+**[EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) (Eye Movement Desensitization and Reprocessing).** EMDR ist eine bewiesene Trauma-Therapie. Sie nutzt Augenbewegung (oder andere bilaterale Stimulation), um dein Gehirn zu helfen, traumatisches Material zu verarbeiten. EMDR ist besonders wirksam für PTBS und kann auch Dissoziation ansprechen.
 
 **Sensorimotor Psychotherapie.** Dies ist ähnlich zu SE, aber es kombiniert körperzentrierte Arbeit mit kognitiver und emotionaler Arbeit. Es ist äußerst effektiv für Trauma und Bindungsprobleme.
 

@@ -77,7 +77,7 @@ Diese Überzeugungen folgen dir ins Erwachsenenalter. Sie wählen deine Partner.
 
 Hier sind die vier Hauptbindungsstile und wie sie entstehen:
 
-**Sicherer Bindungsstil**
+**[Sicherer Bindungsstil](/blog/sicherer-bindungsstil/)**
 
 In der Kindheit: Deine Eltern waren zuverlässig, reaktiv und liebevoll. Sie waren da, wenn du sie bractest, aber sie respektierten auch deine Unabhängigkeit. Es gab Stabilität und Vorhersehbarkeit. Es gab Konflikt manchmal, aber es wurde gelöst. Insgesamt war es sicher.
 
@@ -85,7 +85,7 @@ Im Erwachsenenalter: Menschen mit einem sicheren Bindungsstil sind bequem mit N�
 
 Das ist nicht zu sagen, dass sie keine Probleme haben. Sie tun. Aber sie behandeln sie als Probleme, nicht als Bedrohungen der Beziehung.
 
-**Ängstlicher Bindungsstil**
+**[Ängstlicher Bindungsstil](/blog/aengstlicher-bindungsstil/)**
 
 In der Kindheit: Deine Eltern waren manchmal liebevoll und manchmal eiskalt. Es war unvorhersehbar. Vielleicht warst du ein Kind, das lernen musste, wie deine Eltern fühlt, um sein/ihr Verhalten vorherzusagen. Oder deine Eltern waren emotional verfügbar nur, wenn du ihre Emotionen verwaltetest. "Ich bin traurig", daher musste dein Kind-Ich Mutter-Ich comfortes.
 
@@ -93,7 +93,7 @@ Im Erwachsenenalter: Menschen mit einem ängstlichen Bindungsstil brauchen viel 
 
 In Beziehungen suchen sie oft nach Partner mit avoidantem Bindungsstil, was schafft eine "Nähe-Distanz"-Dynamik, die schmerzhaft ist.
 
-**Vermeidender Bindungsstil**
+**[Vermeidender Bindungsstil](/blog/vermeidender-bindungsstil/)**
 
 In der Kindheit: Deine Eltern waren emotionalisch indisponiert. Vielleicht waren sie kalt oder ablehnend. Vielleicht war die Botschaft "Deine Gefühle sind zu viel" oder "Lass mich allein." Als Kind lerntest du, deine Gefühle zu unterdrücken und Unabhängigkeit zu bewahren. Nähe war gefährlich, weil es zu Ablehnung führte.
 

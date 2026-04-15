@@ -47,7 +47,7 @@ Diese Form der konstanten Kritik ist psychologisch sehr schädlich. Sie führt z
 
 ### 2. Gaslighting – Deine Realität wird angezweifelt
 
-Gaslighting ist eine Form der psychologischen Manipulation, bei der dir eingeredet wird, dass deine Wahrnehmung falsch ist. Es kommt aus dem Film "Gaslight" von 1944, in dem ein Mann seine Frau manipuliert und macht dich zweifelt an dir selbst.
+[Gaslighting](/blog/was-ist-gaslighting/) ist eine Form der psychologischen Manipulation, bei der dir eingeredet wird, dass deine Wahrnehmung falsch ist. Es kommt aus dem Film "Gaslight" von 1944, in dem ein Mann seine Frau manipuliert und macht dich zweifelt an dir selbst.
 
 Dein Partner bestreitet Dinge, die du deutlich erlebt hast. Er sagt: "Das habe ich nie gesagt", obwohl du es genau hörtest. Oder: "Du bildest dir das ein", wenn du beschreibst, wie seine Worte dich verletzten. Oder: "Du bist viel zu sensibel", wenn du deine Gefühle ausdrückst.
 
@@ -147,13 +147,13 @@ Mit Trennung zu drohen, um dich zu manipulieren und gefügig zu machen, ist psyc
 
 Du hast Hobbys aufgegeben, die dir Freude gemacht haben. Du kennst deine eigenen Grenzen und Vorlieben nicht mehr. Du sprichst, denkst und handelst, um ihm zu gefallen. Du hast deine Leidenschaften vergessen. Du verlierst dich selbst in dieser Beziehung.
 
-Eine gesunde Beziehung lässt dich wachsen und dich selbst werden. Eine toxische Beziehung lässt dich schrumpfen und verschwinden.
+Eine gesunde Beziehung lässt dich wachsen und dich selbst werden. Eine [toxische Beziehung](/toxische-beziehung/) lässt dich schrumpfen und verschwinden.
 
 ### 17. Die Versöhnung ist immer von intensiver "Liebe" gefärbt
 
 Nach einem großen Kampf wird es intensiv romantisch. Er bringt dir Blumen. Er sagt, wie sehr er dich liebt und dass es ihm ohne dich nicht gut geht. Der Sex ist intensiv und leidenschaftlich. Danach kommt eine kurze Ruhe. Aber diese Ruhe ist eine falsche Sicherheit. Sie hält nicht lange. Der nächste Kampf kommt unweigerlich.
 
-Dies wird als Lovebombing bezeichnet. Es ist manipulativ. Es schafft einen Zyklus, in dem du die Kampfphase erträgst, weil du auf die "Liebe" der Versöhnungsphase wartest.
+Dies wird als [Lovebombing](/blog/lovebombing-phasen/) bezeichnet. Es ist manipulativ. Es schafft einen Zyklus, in dem du die Kampfphase erträgst, weil du auf die "Liebe" der Versöhnungsphase wartest.
 
 ### 18. Du verlierst Interesse an Dingen, die dir wichtig waren
 

@@ -80,7 +80,7 @@ Wenn es einen Rückfall gibt – dein Partner lügt wieder – das ist ein wicht
 
 Dein Partner muss sofort sagen: „Ich habe gelogen. Es tut mir leid. Das ist warum." Nicht versuchen, es zu coverup oder zu rechtfertigen.
 
-Wenn sie das tun, kann die Beziehung heilen. Wenn sie versuchen, es zu verstecken oder zu gaslighting dich, dann ist die Beziehung vorbei.
+Wenn sie das tun, kann die Beziehung heilen. Wenn sie versuchen, es zu verstecken oder zu [gaslighting](/blog/was-ist-gaslighting/) dich, dann ist die Beziehung vorbei.
 
 ## Die Paartherapie
 

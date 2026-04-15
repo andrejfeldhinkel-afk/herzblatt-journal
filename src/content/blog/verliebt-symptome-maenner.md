@@ -117,7 +117,7 @@ Mehr zum Unterschied im Artikel [Lovebombing: Die 4 Phasen](/blog/lovebombing-ph
 
 Das klassische Dilemma: Er zeigt alle Zeichen, aber spricht nicht über eine Beziehung. Häufige Ursachen:
 
-- **Vermeidender Bindungsstil:** Angst vor Festlegung, siehe [Vermeidender Bindungsstil](/blog/vermeidender-bindungsstil/)
+- **Vermeidender [Bindungsstil](/bindungsstile/):** Angst vor Festlegung, siehe [Vermeidender Bindungsstil](/blog/vermeidender-bindungsstil/)
 - **Vorherige Verletzung:** Er wurde schwer verletzt und hat noch nicht verarbeitet
 - **Kulturelle/familiäre Prägung:** "Männer reden nicht über Gefühle"
 - **Zweifel am Tempo:** Er will es "richtig" machen und fürchtet sich zu blamieren

@@ -30,7 +30,7 @@ Bevor wir reden, wie man das heilt, müssen wir verstehen, was da los ist.
 
 ### Der ängstliche [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) (Anxious Attachment)
 
-Wenn du einen ängstlichen Bindungsstil hast, dann teilst du folgende Merkmale:
+Wenn du einen ängstlichen [Bindungsstil](/bindungsstile/) hast, dann teilst du folgende Merkmale:
 
 **Du brauchst ständige Bestätigung:** Du brauchst zu wissen, dass dein Partner dich liebt. Ständig. Eine Stunde ohne Nachricht fühlt sich wie Ablehnung an.
 
@@ -388,7 +388,7 @@ Ein guter Therapeut, der sich mit Bindung auskennt, kann:
 - **Den Prozess verlangsamen.** Damit beide Partner sehen, was passiert, statt es zu reagieren.
 - **Neue Reaktionen unterrichten.** Statt Verfolgung und Withdrawal, was sind andere Möglichkeiten?
 - **Die Sicherheit halten.** Der Raum selbst wird sicher. Das hilft dem vermeidenden Partner, näher zu bleiben.
-- **Die frühen Wunden heilen.** Durch spezifische Prozesse wie EMDR oder somatic experiencing.
+- **Die frühen Wunden heilen.** Durch spezifische Prozesse wie [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) oder somatic experiencing.
 
 Es ist nicht schwach, Hilfe zu holen. Es ist weise.
 

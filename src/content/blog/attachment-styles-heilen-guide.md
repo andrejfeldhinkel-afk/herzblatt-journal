@@ -243,7 +243,7 @@ Das ist sehr schmerzhaft. Und es ist heilbar, aber nicht ohne professionelle Hil
 
 Das ist nicht etwas, das ich hier in Kürze zusammenfassen kann. Disorganized Attachment braucht spezifische Therapiemodelle:
 
-- EMDR (Eye Movement Desensitization and Reprocessing)
+- [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) (Eye Movement Desensitization and Reprocessing)
 - Internal Family Systems (IFS)
 - Somatic Experiencing
 - Trauma-Focused Cognitive Behavioral Therapy
@@ -258,7 +258,7 @@ Das ist die große Hoffnung. Es heißt "earned," weil du dich nicht damit gebore
 
 Was ist Earned Secure Attachment?
 
-Es ist, wenn eine unsicher gebundene Person durch Bewusstsein, Arbeit und oft Therapie gelernt hat, sicher zu sein. Nicht, weil deine Kindheit ideal war, sondern weil du deinen Bindungsstil bewusst verändert hast.
+Es ist, wenn eine unsicher gebundene Person durch Bewusstsein, Arbeit und oft Therapie gelernt hat, sicher zu sein. Nicht, weil deine Kindheit ideal war, sondern weil du deinen [Bindungsstil](/bindungsstile/) bewusst verändert hast.
 
 **Wie es aussieht:**
 
@@ -862,7 +862,7 @@ Nicht Perfektion. Sondern Bewusstsein. Bewusstsein und kleine Wahlen, immer wied
 
 Hier ist etwas, das viele Leute nicht verstehen:
 
-Es gibt nicht so etwas wie "perfekt sicherer Bindungsstil."
+Es gibt nicht so etwas wie "perfekt [sicherer Bindungsstil](/blog/sicherer-bindungsstil/)."
 
 Alle Menschen haben Momente von Angst, Bedürftigkeit, Distanz.
 

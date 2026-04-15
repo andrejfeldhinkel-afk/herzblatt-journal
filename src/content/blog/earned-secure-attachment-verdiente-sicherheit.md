@@ -27,7 +27,7 @@ faq:
 
 ## Die Hoffnung, die die Forschung gibt
 
-Wenn du unsicher gebunden aufgewachsen bist, hast du wahrscheinlich gelernt, dass dies deine Zukunft bestimmt. Dein Bindungsstil — ob ängstlich, vermeidend oder desorganisiert — wurde als festes Merkmal behandelt, das du mit dir herumträgst wie eine unheilbare Krankheit. Aber diese Annahme ist falsch.
+Wenn du unsicher gebunden aufgewachsen bist, hast du wahrscheinlich gelernt, dass dies deine Zukunft bestimmt. Dein [Bindungsstil](/bindungsstile/) — ob ängstlich, vermeidend oder desorganisiert — wurde als festes Merkmal behandelt, das du mit dir herumträgst wie eine unheilbare Krankheit. Aber diese Annahme ist falsch.
 
 Die moderne Bindungsforschung zeigt uns etwas Revolutionäres: Dein Bindungsstil ist nicht dein Schicksal. Es ist nicht einmal besonders stabil oder unveränderbar. Mit dem richtigen Verständnis, den richtigen Werkzeugen und vor allem mit heilenden Beziehungserfahrungen kannst du dich von unsicher zu sicher gebunden verwandeln.
 
@@ -41,7 +41,7 @@ Das ist das Wichtigste: Das AAI misst nicht, was dir passiert ist. Es misst, wie
 
 Main entdeckte dabei etwas Faszinierendes. Manche Menschen hatten schwierige, sogar traumatische Kindheiten. Doch als Erwachsene waren sie emotional sicher, stabil und in ihren Beziehungen effektiv. Wie war das möglich?
 
-Sie nannte diese Menschen "earned secure" — zu Deutsch: verdient sicher gebunden. Was sie verdient hatten, war nicht nur ein sicherer Bindungsstil, sondern etwas Tiefergehendes: eine kohärente Lebensgeschichte.
+Sie nannte diese Menschen "earned secure" — zu Deutsch: verdient sicher gebunden. Was sie verdient hatten, war nicht nur ein [sicherer Bindungsstil](/blog/sicherer-bindungsstil/), sondern etwas Tiefergehendes: eine kohärente Lebensgeschichte.
 
 ## Was ist eine kohärente Lebensgeschichte?
 

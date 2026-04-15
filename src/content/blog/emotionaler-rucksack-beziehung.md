@@ -52,7 +52,7 @@ Das Irre ist: Das ist eine Überlebensstrategie gewesen. Das hat dir geholfen, S
 
 Aber in einer gesunden erwachsenen Beziehung ist diese Strategie tödlich. Du wirst zum Opfer, das deine Grenzen nicht kennt und deine Bedürfnisse ständig aufschiebst. Und dein Partner wird sich schuldig fühlen, weil er merkt, dass du deine eigenen Wünsche aufgibst. Oder schlimmer: Er wird diese Dynamik ausnutzen, und du wirst dich wieder in der gleichen Situation finden, die dich damals verletzt hat.
 
-Psychologen nennen das "Bindungsstile". Es gibt sichere Bindung, unsichere-vermeidende Bindung und unsichere-ambivalente Bindung. Die meisten von uns mit emotionalen Rucksäcken haben eine der unsicheren Varianten.
+Psychologen nennen das "[Bindungsstile](/bindungsstile/)". Es gibt sichere Bindung, unsichere-vermeidende Bindung und unsichere-ambivalente Bindung. Die meisten von uns mit emotionalen Rucksäcken haben eine der unsicheren Varianten.
 
 Wenn du unsicher-vermeidend gebunden bist, bleibst du emotional distanziert. Du brauchst viel Raum, deine Unabhängigkeit ist heilig, und wenn ein Partner zu nah kommt, wirst du plötzlich unruhig und merkst, dass die Gefühle zu intensiv werden. Du packst deinen Rucksack und gehst.
 
@@ -146,7 +146,7 @@ Psychodynamische Therapie hilft dir zu verstehen, wie deine Vergangenheit deine 
 
 Kognitiv-Verhaltenstherapie (CBT) ist praktischer. Sie konzentriert sich auf deine automatischen Gedanken – die Gedanken, die automatisch passieren, wenn du getriggert wirst – und lehrt dich, sie zu ändern.
 
-EMDR – Eye Movement Desensitization and Reprocessing – ist für Trauma spezialisiert. Es funktioniert, wenn du ein großes Trauma hast, das du nicht über Reden verarbeiten kannst. Es benutzt schnelle Augenbewegungen, um dein Gehirn zu helfen, das Trauma zu verarbeiten.
+[EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) – Eye Movement Desensitization and Reprocessing – ist für Trauma spezialisiert. Es funktioniert, wenn du ein großes Trauma hast, das du nicht über Reden verarbeiten kannst. Es benutzt schnelle Augenbewegungen, um dein Gehirn zu helfen, das Trauma zu verarbeiten.
 
 Somatic Experiencing ist für diejenigen, die Trauma in ihrem Körper speichern.
 

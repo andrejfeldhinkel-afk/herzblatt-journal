@@ -30,7 +30,7 @@ faq:
 
 ## Was ist [Gaslighting](/blog/gaslighting-komplett-guide) überhaupt?
 
-Gaslighting ist eine Form der psychologischen Manipulation, die dazu führt, dass du anfängst, deine eigene Wahrnehmung in Frage zu stellen. Der Begriff stammt vom Film "Gaslight" von 1944, in dem ein Ehemann seiner Ehefrau systematisch einredet, dass sie verrückt wird. Der Name ist Programm: Der Manipulator dimmt das Gaslicht und behauptet dann, dass es sich nicht verändert hat – genau wie in der [Die 12 Anzeichen einer toxischen Beziehung und wie du dich selbst schützt](/blog/toxische-beziehung-verlassen)
+[Gaslighting](/blog/was-ist-gaslighting/) ist eine Form der psychologischen Manipulation, die dazu führt, dass du anfängst, deine eigene Wahrnehmung in Frage zu stellen. Der Begriff stammt vom Film "Gaslight" von 1944, in dem ein Ehemann seiner Ehefrau systematisch einredet, dass sie verrückt wird. Der Name ist Programm: Der Manipulator dimmt das Gaslicht und behauptet dann, dass es sich nicht verändert hat – genau wie in der [Die 12 Anzeichen einer toxischen Beziehung und wie du dich selbst schützt](/blog/toxische-beziehung-verlassen)
 
 ## Der Moment, in dem du merkst, dass es echtes Gaslighting ist
 
@@ -86,7 +86,7 @@ Viele Opfer von Gaslighting berichten von C-PTBS – komplexem PTBS. Das ist ein
 
 Das ist real. Das ist nicht dramatisch. Das sind die neurologischen Folgen von anhaltender psychologischer Manipulation.
 
-Die [heilung](/blog/aengstlicher-bindungsstil-heilen/) von diesem Trauma erfordert mehr als Zeit. Es erfordert Therapie, Selbstmitgefühl und manchmal sogar EMDR oder andere spezialisierte Techniken.
+Die [heilung](/blog/aengstlicher-bindungsstil-heilen/) von diesem Trauma erfordert mehr als Zeit. Es erfordert Therapie, Selbstmitgefühl und manchmal sogar [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) oder andere spezialisierte Techniken.
 
 Hilfreiche Ressourcen findest du bei Neurologen und Psychiater im Netz: [Neurologen und Psychiater im Netz](https://www.neurologen-und-psychiater-im-netz.org/)
 

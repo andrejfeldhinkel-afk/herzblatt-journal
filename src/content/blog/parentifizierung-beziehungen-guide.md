@@ -355,7 +355,7 @@ Weitere Informationen findest du bei Therapie Portal: [Therapie Portal](https://
 **Therapie-Ansätze, die besonders für Parentifizierung wirksam sind:**
 - **Schematherapie:** Hilft, die unbewussten Überzeugungen zu identifizieren und zu verändern
 - **Innere-Kind-Arbeit / Imagery Rescripting:** Direkte Arbeit mit dem traumatisierten inneren Kind
-- **EMDR:** Kann helfen, traumatische Erinnerungen zu verarbeiten
+- **[EMDR](/blog/emdr-beziehungstrauma-heilen-guide/):** Kann helfen, traumatische Erinnerungen zu verarbeiten
 - **CBT:** Nützlich, um Gedankenmuster zu ändern
 - **Somatic Therapie:** Arbeitet mit dem Nervensystem, nicht nur dem Geist
 
@@ -366,7 +366,7 @@ Such nach einem Therapeuten, der Erfahrung mit Familientraumata, Kindheitstrauma
 Es ist wichtig zu verstehen, dass Parentifizierung oft mit [unbewusste Beziehungsmuster](/blog/unbewusste-beziehungsmuster), die unsere Liebe formen.
 
 Es gibt viele andere Muster, die mit Parentifizierung interagieren:
-- Bindungsstile (anxious, avoidant, disorganized)
+- [Bindungsstile](/bindungsstile/) (anxious, avoidant, disorganized)
 - Kindheitstrauma, die deine Vertrauensfähigkeit beeinflussen
 - Überzeugungen über deine Würdigkeit
 - [Bindungstheorie](/blog/attachment-theory-einfach-erklaert) interagiert.

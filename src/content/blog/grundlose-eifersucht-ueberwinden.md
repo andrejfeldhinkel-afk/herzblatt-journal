@@ -60,7 +60,7 @@ Das hat eine Wunde hinterlassen. Und jetzt vertraust du keinem — sogar nicht d
 
 Das ist verständlich. Aber es ist nicht fair für die neue Person in deinem Leben.
 
-**Grund 3: Unsichere Bindungsstil**
+**Grund 3: Unsichere [Bindungsstil](/bindungsstile/)**
 
 Menschen mit unsicheren Bindungsstilen (anxious-preoccupied oder anxious-avoidant) neigen zu höheren Eifersucht.
 
@@ -90,7 +90,7 @@ Das ist Kontrolle. Und das ist emotional missbräuchlich.
 
 Du beschuldigst ihn, Dinge zu tun, die er nicht tut. Du schaffst Probleme, die nicht existieren.
 
-Mit der Zeit wird er anfangen, sich schuldig zu fühlen, selbst wenn er nicht falsch gemacht hat. Das ist Gaslighting-lich.
+Mit der Zeit wird er anfangen, sich schuldig zu fühlen, selbst wenn er nicht falsch gemacht hat. Das ist [Gaslighting](/blog/was-ist-gaslighting/)-lich.
 
 **Eifersucht führt zu emotionaler Distanz**
 

@@ -27,7 +27,7 @@ Der Schmerz kommt nicht morgens, während du noch schläfst. Er wartet, bis du a
 
 Das Atmen wird schwer.
 
-Trennungsschmerz bei Frauen ist nicht nur emotional. Es ist physisch. Es ist neurobiologisch. Es ist eine Krise deines gesamten Systems.
+[Trennungsschmerz](/trennung/) bei Frauen ist nicht nur emotional. Es ist physisch. Es ist neurobiologisch. Es ist eine Krise deines gesamten Systems.
 
 Und niemand spricht wirklich darüber, wie es sich anfühlt, wenn dein Körper dich verrät, weil dein Herz gebrochen ist.
 
@@ -131,7 +131,7 @@ Körperbasierte Ansätze, die funktionieren:
 
 **Tanzen oder rhythmische Bewegung:** Dein Körper muss *prozessieren*, nicht denken. Tanz, Laufen, Schwimmen — alles, das rhythmisch ist und dich in deinen Körper bringt.
 
-**Therapien wie Somatic Experiencing oder EMDR:** Spezialisierte Therapeuten können dir helfen, das Trauma buchstäblich aus deinem Körper zu heilen.
+**Therapien wie Somatic Experiencing oder [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/):** Spezialisierte Therapeuten können dir helfen, das Trauma buchstäblich aus deinem Körper zu heilen.
 
 **Grenzen schaffen:** Lass diese Person nicht in deinen Raum. Lass keine gemeinsamen Freunde dich über ihn/sie Updates geben. Dein Nervensystem kann nicht heilen, wenn du ständig in den Schmerz zurückgestoßen wirst.
 

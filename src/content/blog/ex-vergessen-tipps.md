@@ -45,7 +45,7 @@ Dies ist der wichtigste Tipp. Blockiere ihn überall. Telefon, Social Media, E-M
 
 Ich weiß, dass du denkst: "Das ist zu dramatisch." Es ist nicht dramatisch. Es ist notwendig. Jede Kommunikation, jede Nachricht, jede Stelle mit ihm verlängert deine emotionale Abhängigkeit.
 
-No Contact bedeutet: Nicht aufrufen. Nicht texten. Nicht "Hallo"-sagen. Nicht checken, wie es ihm geht. Vollständig weg.
+[No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/) bedeutet: Nicht aufrufen. Nicht texten. Nicht "Hallo"-sagen. Nicht checken, wie es ihm geht. Vollständig weg.
 
 Das ist schwer die erste Woche. Nach zwei Wochen merkst du, dass es einfacher wird. Nach vier Wochen hat sich dein Gehirn angepasst.
 

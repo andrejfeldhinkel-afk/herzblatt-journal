@@ -74,9 +74,9 @@ Seine Antwort: "Das habe ich nicht geschrieben. Das war mein Freund auf meinem T
 
 Du hast die Nachricht vor deinen Augen. Du kennst seine Schrift im Chat. Und trotzdem zweifelst du. Hat sein Freund wirklich sein Telefon genommen? War das nur ein Scherz, den ich falsch verstanden habe?
 
-Das ist Denial. Es ist eine bewusste Verleugnung von Fakten. Oft wird sie gepaart mit Gaslighting: "Du siehst Dinge, die nicht da sind. Du bist zu emotional. Du verdrehst alles."
+Das ist Denial. Es ist eine bewusste Verleugnung von Fakten. Oft wird sie gepaart mit [Gaslighting](/blog/was-ist-gaslighting/): "Du siehst Dinge, die nicht da sind. Du bist zu emotional. Du verdrehst alles."
 
-Ein anderes Beispiel: Du sprichst ihn auf sein Schweigen an. Ihr habt Probleme und statt zu reden, ignoriert er dich. Er sagt keinen Tag mit dir. Das nennt sich Silent Treatment und es ist form von emotionaler Misshandlung.
+Ein anderes Beispiel: Du sprichst ihn auf sein Schweigen an. Ihr habt Probleme und statt zu reden, ignoriert er dich. Er sagt keinen Tag mit dir. Das nennt sich [Silent Treatment](/blog/silent-treatment-bedeutung/) und es ist form von emotionaler Misshandlung.
 
 Du fragst ihn: "Warum sprichst du nicht mit mir?"
 
@@ -278,7 +278,7 @@ DARVO ist die Königin der Manipulationen, weil es all diese Techniken kombinier
 
 ## DARVO und Narzissmus: Die perfekte Kombination
 
-Es gibt einen Grund, warum DARVO so oft mit Narzissmus verbunden ist. Narzissmus ist die perfekte Persönlichkeitsstruktur für DARVO.
+Es gibt einen Grund, warum DARVO so oft mit [Narzissmus](/narzissmus/) verbunden ist. Narzissmus ist die perfekte Persönlichkeitsstruktur für DARVO.
 
 Ein Narzisst kann nicht sagen: "Es tut mir leid, ich habe einen Fehler gemacht." Das würde sein narzisstisches Selbstbild beschädigen. Ein Narzisst muss immer recht haben. Ein Narzisst muss immer die Kontrolle haben. Ein Narzisst muss immer gewinnen.
 
@@ -504,7 +504,7 @@ Die Wahl des richtigen Therapeuten ist wichtig. Du brauchst einen Therapeuten, d
 
 ### Therapie für Trauma
 
-Ein Therapeut, der auf Beziehungstrauma spezialisiert ist, kann dir helfen. Es gibt spezifische Therapien für Trauma: EMDR, somatic experiencing, Trauma-informed CBT. Diese können helfen, die Verletzung zu heilen.
+Ein Therapeut, der auf Beziehungstrauma spezialisiert ist, kann dir helfen. Es gibt spezifische Therapien für Trauma: [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/), somatic experiencing, Trauma-informed CBT. Diese können helfen, die Verletzung zu heilen.
 
 ### Unterstützungsgruppen
 

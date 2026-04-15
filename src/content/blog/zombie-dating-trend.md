@@ -29,7 +29,7 @@ Willkommen im Phänomen des **Zombieing** — eines der frustrierendsten Dating-
 
 ## Was ist Zombieing überhaupt?
 
-Zombieing ist, wenn jemand, der dich geghostet hat, plötzlich wieder aus dem Nichts auftaucht. Wie ein Zombie, der aus dem Grab steigt. Der Unterschied zu Ghosting? Ghosting ist das Verschwinden. Zombieing ist die Rückkehr nach dem Verschwinden.
+Zombieing ist, wenn jemand, der dich geghostet hat, plötzlich wieder aus dem Nichts auftaucht. Wie ein Zombie, der aus dem Grab steigt. Der Unterschied zu [Ghosting](/blog/ghosting-komplett-guide/)? Ghosting ist das Verschwinden. Zombieing ist die Rückkehr nach dem Verschwinden.
 
 Die Situation kennt fast jeder: Monatelang Stille. Dann eine Nachricht. "Hey!" oder "Wie geht's?" oder noch schlimmer: "Ich habe dich letztens im Traum gesehen." Auf einmal soll es so sein, als hätte es nie passiert. Als hätte dich dieser Mensch nicht gerade fallenlassen wie eine heiße Kartoffel.
 
@@ -103,7 +103,7 @@ Wenn du merkst, dass dich eine Zombie-Nachricht emotional aufwühlt, tu dir selb
 
 Der beste Schutz gegen Zombieing ist, nicht mit Menschen zu daten, die das Potential dazu haben.
 
-Achte auf diese Red Flags früh:
+Achte auf diese [Red Flags](/red-flags/) früh:
 - Ungeplante Antwortzeiten, ohne Erklärung
 - Oberflächlichkeit, die sie nicht mal versuchen zu verbergen
 - Nachrichten, die nur kommen, wenn sie etwas brauchen

@@ -28,7 +28,7 @@ Diese Muster sind nicht zufällig. Sie sind der Ausdruck deiner [Bindungsstil](/
 
 Die moderne Psychologie hat vier Hauptbindungsstile identifiziert, die in Beziehungen relevant sind:
 
-**Sicher**: Wenn du einen sicheren Bindungsstil hast, fühlst du dich in Beziehungen generell wohl und sicher. Du kannst deine Bedürfnisse ausdrücken, ohne dich schuldig zu fühlen. Du kannst Zeit mit anderen verbringen, ohne dich verlassen zu fühlen. Du vertraust deinem Partner und erwartest, dass er dir vertraut. Du hast vergleichsweise weniger Drama in Beziehungen.
+**Sicher**: Wenn du einen sicheren [Bindungsstil](/bindungsstile/) hast, fühlst du dich in Beziehungen generell wohl und sicher. Du kannst deine Bedürfnisse ausdrücken, ohne dich schuldig zu fühlen. Du kannst Zeit mit anderen verbringen, ohne dich verlassen zu fühlen. Du vertraust deinem Partner und erwartest, dass er dir vertraut. Du hast vergleichsweise weniger Drama in Beziehungen.
 
 Sichere Menschen wurden in der Kindheit regelmäßig liebevoll behandelt. Das bedeutet nicht "perfekt" – es bedeutet konsistent, einfühlsam, verfügbar.
 

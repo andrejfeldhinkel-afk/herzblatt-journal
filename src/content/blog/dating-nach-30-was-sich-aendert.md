@@ -164,7 +164,7 @@ Handlungen sind wichtiger als Worte. Wenn jemand sagt, dass er Zeit für dich ha
 
 ### 4. Dein Leben sollte nicht für das Dating rotieren
 
-Das ist das wichtigste. Mit 30+ hast du ein Leben. Das ist nicht verhandelbar. Wenn jemand von dir erwartet, dass du dein Leben änderst, um Platz für ihn zu schaffen – das ist nicht Liebe, das ist Narzissmus.
+Das ist das wichtigste. Mit 30+ hast du ein Leben. Das ist nicht verhandelbar. Wenn jemand von dir erwartet, dass du dein Leben änderst, um Platz für ihn zu schaffen – das ist nicht Liebe, das ist [Narzissmus](/narzissmus/).
 
 Die richtige Person passt in dein Leben. Sie ergänzt es. Sie zerstört es nicht.
 

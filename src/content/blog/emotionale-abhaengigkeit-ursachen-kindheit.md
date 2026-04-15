@@ -34,13 +34,13 @@ In den ersten Lebensjahren lernst du:
 - Sind meine Bedürfnisse wichtig?
 - Was muss ich tun, um geliebt zu werden?
 
-Auf diese Fragen basiert später dein Bindungsstil – und damit deine Art zu lieben.
+Auf diese Fragen basiert später dein [Bindungsstil](/bindungsstile/) – und damit deine Art zu lieben.
 
 ## Die vier Bindungsstile
 
 Es gibt grundlegend vier Bindungsstile, die in der Kindheit geprägt werden:
 
-**Sicherer Bindungsstil**: Du hattest responsive, verfügbare Eltern. Sie waren da, wenn du sie brauchtest, aber gaben dir auch Raum, die Welt zu erkunden. Du lernst, dass Menschen zuverlässig sind und dein Vertrauen wert. Menschen mit sicherer Bindung haben weniger emotionale Abhängigkeit.
+**[Sicherer Bindungsstil](/blog/sicherer-bindungsstil/)**: Du hattest responsive, verfügbare Eltern. Sie waren da, wenn du sie brauchtest, aber gaben dir auch Raum, die Welt zu erkunden. Du lernst, dass Menschen zuverlässig sind und dein Vertrauen wert. Menschen mit sicherer Bindung haben weniger emotionale Abhängigkeit.
 
 **Ängstlich-ambivalent (Anhängig)**: Deine Eltern waren emotional unbeständig. Manchmal waren sie da, manchmal nicht. Du wusstest nie, in welche Stimmung du sie vorfindest. Das Ergebnis: Du bemühst dich krampfhaft um ihre Liebe, lernst, dass die Welt unsicher ist, und entwickelst später emotionale Abhängigkeit in Beziehungen.
 

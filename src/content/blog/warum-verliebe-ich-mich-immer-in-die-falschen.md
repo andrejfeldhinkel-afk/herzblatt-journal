@@ -144,4 +144,4 @@ Das ist der tiefe Punkt.
 - [Dating als Ambivert: Dein Vorteil wenn du weder](/blog/dating-als-ambivert/)
 - [Fleabagging — Warum du immer die falschen dattest](/blog/fleabagging-dating-pattern-guide/)
 - [Persönliche Grenzen beim Dating: Der Unterschied zwischen](/blog/persoenliche-grenzen-dating/)
-- [Schwarm ansprechen: So machst du den ersten Schritt](/blog/crush-ansprechen-tipps) und [[dating](/blog/anzeichen-er-steht-auf-dich/) mit unterschiedlichem Bildungsniveau](/blog/dating-unterschiedliche-bildung).*
+- [Schwarm ansprechen: So machst du den ersten Schritt](/blog/crush-ansprechen-tipps) und [dating](/blog/anzeichen-er-steht-auf-dich/) mit unterschiedlichem Bildungsniveau.*

@@ -72,7 +72,7 @@ Dein Gehirn registriert: *Dieses Muster funktioniert. Halte es.*
 
 ## Trauma Bonding: Warum "gute Phasen" besonders süchtig machen
 
-Es gibt einen Begriff für die emotionale Bindung, die durch Zyklus von Misshandlung und Zuwendung entsteht: **Trauma Bonding**.
+Es gibt einen Begriff für die emotionale Bindung, die durch Zyklus von Misshandlung und Zuwendung entsteht: **[Trauma Bonding](/blog/trauma-bonding-loesen/)**.
 
 Trauma Bonding ist nicht dasselbe wie On-Off-Beziehungen, aber sie überlappen stark. Beide funktionieren nach dem gleichen neurobiologischen Muster:
 

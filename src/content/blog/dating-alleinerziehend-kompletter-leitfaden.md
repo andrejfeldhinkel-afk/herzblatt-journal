@@ -231,7 +231,7 @@ Sie können Mitbetreuung haben, aber Ihre Elternrollen sind über. Sie können n
 
 Wenn du ein alleinerziehend Elternteil bist, es gibt bestimmte Warnsignale, die wichtiger sind, mehr zu notieren als für Menschen ohne Kinder.
 
-**Red Flag #1: Der neue Partner hasst oder ignoriert dein Kind**
+**[Red Flag](/red-flags/) #1: Der neue Partner hasst oder ignoriert dein Kind**
 
 Eine Person kann nicht versuchen, sofort eine beste Freund-Status mit deinem Kind zu haben. Aber sie sollten grundlegende Respekt zeigen. Wenn sie Ihr Kind ignoriert oder abweisend ist – raus. Dein Kind ist ein Paket-Deal mit dir.
 

@@ -193,7 +193,7 @@ Für narzissistische Schwiegereltern funktioniert normal Kommunikation oder norm
 
 **Strategien speziell für narzissistische Schwiegereltern**:
 
-**Grey rock method**: Sei langweilig, interessant-los. Wenn sie dich provozieren oder Drama-Spielchen spielen, antworte nicht emotional. Sei wie ein grauer Stein – nichts interessantes oder reaktives, worauf sie wirken oder spielen können.
+**[Grey rock](/blog/grey-rock-methode-narzisst-guide/) method**: Sei langweilig, interessant-los. Wenn sie dich provozieren oder Drama-Spielchen spielen, antworte nicht emotional. Sei wie ein grauer Stein – nichts interessantes oder reaktives, worauf sie wirken oder spielen können.
 
 Beispiel: Sie sagt dramatisch „Du zerstörst unsere Familie" – du antwortest kühl „Okay" und änderst das Thema sofort. Nicht emotional, nicht erklärend, nicht defensiv.
 
@@ -233,7 +233,7 @@ Das ist ein extremer Schritt, aber manchmal absolut notwendig und die einzige Op
 
 - Die Schwiegereltern sind aktiv destruktiv zu eurer Beziehung und sabotieren sie intentional.
 - Sie versuchen, dein Kind gegen dich oder deinen Partner zu vergiften.
-- Sie sind körperlich abusiv, emotional extrem missbräuchlich, oder gaslighting dich systematisch.
+- Sie sind körperlich abusiv, emotional extrem missbräuchlich, oder [gaslighting](/blog/was-ist-gaslighting/) dich systematisch.
 - Dein Partner ist nicht nur nicht bereit, dich zu schützen – dein Partner enabler ihre Verhalten.
 - Dein Stresslevel ist physisch schädlich wegen diese Beziehung.
 - Es gibt Grund zu denken, dass die Großeltern eine Gefahr für dein Kind sind (physisch, emotional, oder spirituell).

@@ -45,7 +45,7 @@ Sie hatten ein großartiges Treffen und sind weg. Jetzt: Sollten Sie texten?
 
 Wenn Sie jemandes Nummer bekommen (oder auf einer Dating-App verbunden sind), wer textet zuerst?
 
-**Entweder von Ihnen.** Die alte Regel, dass Männer zuerst texten sollten, ist veraltet. Wenn Sie interessiert sind, texten Sie. Eine Person, die diese Initiative mag, ist wahrscheinlich worth dating. Eine Person, die erwartet, dass Sie Spielchen spielen, könnte ein Red Flag sein.
+**Entweder von Ihnen.** Die alte Regel, dass Männer zuerst texten sollten, ist veraltet. Wenn Sie interessiert sind, texten Sie. Eine Person, die diese Initiative mag, ist wahrscheinlich worth dating. Eine Person, die erwartet, dass Sie Spielchen spielen, könnte ein [Red Flag](/red-flags/) sein.
 
 Ein guter erster Text ist:
 - Persönlich (bezogen sich auf etwas, das Sie diskutierten)
@@ -164,7 +164,7 @@ Digitale Höflichkeit bedeutet auch zu sagen, dass Sie nicht interessiert sind.
 Wenn jemand klar interessiert ist und Sie nicht sind, sagen Sie es. "Ich wirklich schätze dich und unsere Chats, aber ich denke nicht, dass romantische Chemie für mich da ist. Ich wünsche dir alles Beste."
 
 Das ist besser als:
-- Sie zu ignorieren (gaslighting)
+- Sie zu ignorieren ([gaslighting](/blog/was-ist-gaslighting/))
 - Sie mit widersprüchlichen Zeichen zu verwirren
 - Plötzlich zu verschwinden
 

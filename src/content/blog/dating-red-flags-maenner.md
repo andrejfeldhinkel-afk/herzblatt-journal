@@ -18,7 +18,7 @@ Bevor wir die spezifischen Flaggen analysieren, ist es wichtig, zu verstehen, wa
 
 1. **Verliebtheit lässt uns blind werden**: Die Chemie und das Adrenalin können unsere Urteilskraft beeinflussen.
 2. **Hoffnung**: Wir hoffen, dass sein Verhalten sich ändert.
-3. **[zusammenziehen](/blog/zusammenziehen-checkliste)? Er redet von Heiraten und Kindern? Dies könnte künstlerisches Lovebombing sein – eine Phase, in der er dich mit Aufmerksamkeit überschüttet, um dich zu binden, bevor du seine echte Natur siehst.
+3. **[zusammenziehen](/blog/zusammenziehen-checkliste)? Er redet von Heiraten und Kindern? Dies könnte künstlerisches [Lovebombing](/blog/lovebombing-phasen/) sein – eine Phase, in der er dich mit Aufmerksamkeit überschüttet, um dich zu binden, bevor du seine echte Natur siehst.
 
 ## Flag 7: Er möchte schnell dein Geld oder deine Ressourcen
 
@@ -34,7 +34,7 @@ Wie spricht er über Frauen in Filmen, in Nachrichten, in der Öffentlichkeit? W
 
 ### Flag 10: Er gaslights dich regelmäßig
 
-"Das passierte nicht", "Du erinnerst dich falsch", "Du bist zu sensibel" – wenn deine Wahrnehmung regelmäßig in Frage gestellt wird, ist das Gaslighting. Dies ist psychologischer Missbrauch.
+"Das passierte nicht", "Du erinnerst dich falsch", "Du bist zu sensibel" – wenn deine Wahrnehmung regelmäßig in Frage gestellt wird, ist das [Gaslighting](/blog/was-ist-gaslighting/). Dies ist psychologischer Missbrauch.
 
 ### Flag 11: Er zeigt keine Verantwortung für sein Verhalten
 
@@ -146,7 +146,7 @@ Manchmal ja, aber nur wenn der Mann:
 
 Das dauert Jahre, nicht Monate.
 
-**Bin ich zu kritisch, wenn ich Red Flags sehe?**
+**Bin ich zu kritisch, wenn ich [Red Flags](/red-flags/) sehe?**
 Nein. Wenn mehrere Flaggen vorhanden sind, vertraue deiner Wahrnehmung. Manche Menschen sind einfach nicht kompatibel mit dir.
 
 **Was ist der Unterschied zwischen Red Flags und persönlichen Unvereinbarkeiten?**

@@ -428,7 +428,7 @@ Die Heilung braucht:
 
 Nachdem du das durchgemacht hast, willst du nicht wieder hinein. Deshalb ist es wichtig, frühe Zeichen zu sehen.
 
-**Love Bombing sehr schnell**: Wenn jemand dir sagt, dass er dich liebt nach einer Woche, STOP. Das ist verdächtig.
+**[Love Bombing](/blog/lovebombing-phasen/) sehr schnell**: Wenn jemand dir sagt, dass er dich liebt nach einer Woche, STOP. Das ist verdächtig.
 
 **Kritik früh**: Wenn jemand dich kritisiert beim ersten Date, ist das ein rotes Licht. Gesunde Menschen bauen erst Vertrauen auf.
 

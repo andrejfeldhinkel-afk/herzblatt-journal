@@ -105,7 +105,7 @@ Dies ist der Schlüssel zur gesunden Wutverarbeitung. Es ist nicht: Wut unterdr�
 
 ## Bindungsstile und Wut: Warum reagierst du so, wie du reagierst
 
-Dein Bindungsstil – ob du sicher gebunden, ängstlich oder vermeidend bist – bestimmt massiv, wie du Wut erlebst und ausdrückst.
+Dein [Bindungsstil](/bindungsstile/) – ob du sicher gebunden, ängstlich oder vermeidend bist – bestimmt massiv, wie du Wut erlebst und ausdrückst.
 
 **Menschen mit sicherer Bindung**: Sie werden wütend, wenn Grenzen verletzt werden oder Bedürfnisse unerfüllt sind. Aber sie können ihre Wut benennen. Sie können sagen "Ich bin verletzt und wütend" ohne zu explodieren oder alles zu blockieren. Sie können nach dem Streit reparieren.
 
@@ -276,7 +276,7 @@ Das Problem liegt in der Art, wie ihr streitet. Gibt es Respekt darunter? Gebt i
 
 ## Bindungsangst und Wut: Eine unterschätzte Verbindung
 
-Manchmal ist Wut tatsächlich maskierte Bindungsangst.
+Manchmal ist Wut tatsächlich maskierte [Bindungsangst](/blog/bindungsangst-komplett-guide/).
 
 Du liebst deinen Partner, aber dich überfordert die Nähe. Also wirst du wütend, um dich selbst zu schützen. Du schaffst Distanz durch Streit. Du verärgerst deinen Partner, damit er nicht zu nah kommt.
 

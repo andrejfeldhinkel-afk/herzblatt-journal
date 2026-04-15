@@ -117,7 +117,7 @@ Der erste Schritt ist **Bewusstsein**. Du musst erkennen, dass das Problem real 
 
 Der zweite Schritt ist **Distanz**. Das bedeutet: Keine neuen Beziehungen, während du heilist. Dieser Gedanke wird dich wahrscheinlich in Panik versetzen. Gut. Das ist das Zeichen, dass du es brauchst. Du musst lernen, allein zu existieren.
 
-Der dritte Schritt ist **Therapie**. Nicht irgendeine Therapie — Therapie mit jemandem, der Bindung und Sucht versteht. Schema-Therapie, EMDR, Internal Family Systems (IFS) sind alle wirksam bei diesem Material. Dein therapeut wird mit dir an den zugrunde liegenden Bindungstraumata arbeiten.
+Der dritte Schritt ist **Therapie**. Nicht irgendeine Therapie — Therapie mit jemandem, der Bindung und Sucht versteht. Schema-Therapie, [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/), Internal Family Systems (IFS) sind alle wirksam bei diesem Material. Dein therapeut wird mit dir an den zugrunde liegenden Bindungstraumata arbeiten.
 
 Der vierte Schritt ist **Selbstliebe und Selbstmitgefühl aufbauen**. Das bedeutet, allein Zeit zu verbringen und es zu genießen. Es bedeutet, Aktivitäten zu haben, die du tust, weil du sie magst, nicht weil jemand anderes sie mit dir tut. Es bedeutet, Grenzen zu lernen und nein zu sagen.
 

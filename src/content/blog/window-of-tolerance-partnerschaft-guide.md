@@ -379,7 +379,7 @@ Signale, dass professionelle Hilfe wichtig ist:
 
 **Welche Therapieformen helfen?**
 
-- **EMDR** (Eye Movement Desensitization and Reprocessing): Beste für Trauma
+- **[EMDR](/blog/emdr-beziehungstrauma-heilen-guide/)** (Eye Movement Desensitization and Reprocessing): Beste für Trauma
 - **Somatic Experiencing (SE)**: Spezialisiert auf Nervensystem-Regulation
 - **Internal Family Systems (IFS)**: Hilft, innere Teile zu integrieren (den reaktiven Teil, den Kritiker, etc.)
 - **Couples Therapy (insbesondere emotionsfokussiert)**: Hilft, neue Muster zu schaffen

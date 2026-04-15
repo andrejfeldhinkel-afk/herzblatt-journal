@@ -21,7 +21,7 @@ faq:
 
 ## Was ist ängstlicher Bindungsstil?
 
-Der ängstliche Bindungsstil, auch anxious attachment genannt, ist eine der vier Hauptkategorien der Bindungstheorie, die von dem britischen Psychoanalytiker John Bowlby und der Entwicklungspsychologin Mary Ainsworth entwickelt wurde. Menschen mit diesem Bindungsstil haben eine hohe Abhängigkeit von ihrem Partner und gleichzeitig ein niedriges Selbstwertgefühl in Bezug auf Beziehungen. Der unsicher ambivalente Bindungsstil entsteht häufig in der Kindheit, wenn die Eltern emotional verfügbar waren, aber inkonsistent reagierten.
+Der ängstliche [Bindungsstil](/bindungsstile/), auch anxious attachment genannt, ist eine der vier Hauptkategorien der Bindungstheorie, die von dem britischen Psychoanalytiker John Bowlby und der Entwicklungspsychologin Mary Ainsworth entwickelt wurde. Menschen mit diesem Bindungsstil haben eine hohe Abhängigkeit von ihrem Partner und gleichzeitig ein niedriges Selbstwertgefühl in Bezug auf Beziehungen. Der unsicher ambivalente Bindungsstil entsteht häufig in der Kindheit, wenn die Eltern emotional verfügbar waren, aber inkonsistent reagierten.
 
 Du erkennst ängstliche Bindung daran, dass betroffene Personen intensive Nähe suchen, aber gleichzeitig tiefe Angst vor Ablehnung haben. Diese innere Spannung führt zu einem Push-Pull-Muster: Sie nähern sich an, ziehen sich zurück, suchen Nähe und schaffen dann wieder Distanz. Im Dating fühlt sich dies wie ein ständiger emotionaler Kampf an. Die Bindungsangst wird oft durch kleine Dinge ausgelöst – eine verzögerte Textnachricht, ein flüchtiger Blick oder ein Missverständnis.
 
@@ -57,7 +57,7 @@ Schließlich erkennst du den ängstlichen Bindungsstil daran, dass du dich in Be
 
 ## Die Auswirkungen auf bestehende Beziehungen verstehen
 
-Ein ängstlicher Bindungsstil kann bestehende Beziehungen erheblich unter Druck setzen und beschädigen. Dein Partner könnte sich erdrückt oder erstickt fühlen durch dein konstantes Bedürfnis nach Nähe und Versicherung. Dies kann dazu führen, dass ein sicherer Partner zum "Vermeidungs-Bindungsstil" tendiert, wenn dein Verhalten ihn überfordert und er sich weiter zurückzieht.
+Ein [ängstlicher Bindungsstil](/blog/aengstlicher-bindungsstil/) kann bestehende Beziehungen erheblich unter Druck setzen und beschädigen. Dein Partner könnte sich erdrückt oder erstickt fühlen durch dein konstantes Bedürfnis nach Nähe und Versicherung. Dies kann dazu führen, dass ein sicherer Partner zum "Vermeidungs-Bindungsstil" tendiert, wenn dein Verhalten ihn überfordert und er sich weiter zurückzieht.
 
 Diese destruktive Dynamik wird als das "Protest-Apathie-Muster" bezeichnet – eines der destruktivsten Muster in Beziehungen. Du protestierst gegen die Distanz deines Partners mit Druck für Nähe und ständigen Fragen. Dein Partner reagiert darauf, indem er sich weiter zurückzieht und vermeidet. Dies schafft eine Spirale, die sich immer weiter verschärft und zu noch mehr Leid für beide Partner führt.
 
@@ -139,7 +139,7 @@ Dokumentiere deine kleinen, alltäglichen Erfolge. Wenn du merkst, dass du nicht
 
 Die gute Nachricht ist, dass Bindungsstile nicht zementiert und unveränderbar sind. Du kannst von einem ängstlichen zu einem sicheren Bindungsstil wechseln. Dies erfordert echte Bewusstsein, konsequente Anstrengung und oft professionelle therapeutische Unterstützung und Begleitung.
 
-Ein sicherer Bindungsstil ist gekennzeichnet durch: echtes Vertrauen in deinen Partner, Komfort mit sowohl Nähe als auch Unabhängigkeit, die Fähigkeit, deine Bedürfnisse auszudrücken, ohne zu fordern oder zu manipulieren, und die Fähigkeit, Konflikte auf gesunde und konstruktive Weise zu bewältigen.
+Ein [sicherer Bindungsstil](/blog/sicherer-bindungsstil/) ist gekennzeichnet durch: echtes Vertrauen in deinen Partner, Komfort mit sowohl Nähe als auch Unabhängigkeit, die Fähigkeit, deine Bedürfnisse auszudrücken, ohne zu fordern oder zu manipulieren, und die Fähigkeit, Konflikte auf gesunde und konstruktive Weise zu bewältigen.
 
 Um dorthin zu gelangen, muss dein Gehirn neue, positive Erfahrungen machen. Wenn dein Partner konsistent verfügbar ist, wenn er seine Liebe durch Taten demonstriert und wenn du lernst, dich auch ohne ständige Bestätigung sicher zu fühlen, beginnt dein Nervensystem, sich allmählich zu entspannen. Die Hypervigilanz nimmt ab.
 

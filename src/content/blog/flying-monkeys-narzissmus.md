@@ -28,7 +28,7 @@ Du wirst zum Außenseiter. Plötzlich wird dein bester Freund dich distanziert. 
 
 Und du verstehst nicht warum.
 
-Dann erfährst du zufällig, dass dieser Narzisst, mit dem du gerade einen Kontaktabbruch hattest, all diesen Menschen „seine Version" der Geschichte erzählt hat. Und sie glauben ihm.
+Dann erfährst du zufällig, dass dieser [Narzisst](/narzissmus/), mit dem du gerade einen Kontaktabbruch hattest, all diesen Menschen „seine Version" der Geschichte erzählt hat. Und sie glauben ihm.
 
 Sie sind Flying Monkeys geworden. Unwissentliche Werkzeuge des Narzissten, die verwendet werden, um dich zu isolieren und zu belästigen.
 
@@ -136,7 +136,7 @@ Ein direkter Konflikt wird dem Narzissten Munition geben. Er wird es gebrauchen,
 
 Stattdessen minimalisiere einfach den Kontakt.
 
-**2. Grey Rock mit Flying Monkeys**
+**2. [Grey Rock](/blog/grey-rock-methode-narzisst-guide/) mit Flying Monkeys**
 
 Verwende die Gray Rock-Technik. Sei langweilig, emotionslos, nicht reaktiv. Gib ihnen nichts, das sie dem Narzissten berichten können.
 

@@ -276,7 +276,7 @@ Die "aber" zerstört die Entschuldigung. Es sagt: "Ich bin nicht wirklich schuld
 
 "Ich entschuldige mich, wenn ich dich verletzt habe."
 
-Das "wenn" sagt: "Vielleicht hast du nicht verletzt worden." Das ist gaslighting. Es macht die Verletzung zum Fehler des Partners.
+Das "wenn" sagt: "Vielleicht hast du nicht verletzt worden." Das ist [gaslighting](/blog/was-ist-gaslighting/). Es macht die Verletzung zum Fehler des Partners.
 
 **Nicht-Entschuldigung 3: Die "Du" Entschuldigung**
 

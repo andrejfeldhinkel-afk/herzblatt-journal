@@ -44,7 +44,7 @@ Es ist nicht ein einziger "Vorfall." Es ist Jahre von:
 - Emotionaler Vernachlässigung
 - Konstante Kritik
 - Kontrolle und Isolation
-- Gaslighting ("Das ist nicht passiert")
+- [Gaslighting](/blog/was-ist-gaslighting/) ("Das ist nicht passiert")
 - Betrug
 - Emotionaler oder physischer Missbrauch
 - Manipulation

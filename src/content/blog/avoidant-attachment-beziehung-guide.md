@@ -26,11 +26,11 @@ faq:
 
 ## Vermeidender Bindungsstil: Warum du Nähe fürchtest und was hilft
 
-Kennst du das Gefühl, dass du dich in Beziehungen unwohl fühlst, wenn sie zu nah oder zu abhängig werden? Oder merkst du, dass du automatisch auf Distanz gehst, wenn jemand mehr Nähe sucht? Du könntest einen vermeidenden Bindungsstil haben. Der vermeidende Bindungsstil, auch Avoidant Attachment genannt, ist ein Bindungsmuster, das viele Menschen unbewusst in ihren Beziehungen zeigen. Es ist nicht etwas, das mit dir „falsch" ist – es ist ein Schutzmechanismus, den dein Gehirn früh in deinem Leben entwickelt hat.## Das Avoidant Attachment in verschiedenen Kulturen und Kontexten
+Kennst du das Gefühl, dass du dich in Beziehungen unwohl fühlst, wenn sie zu nah oder zu abhängig werden? Oder merkst du, dass du automatisch auf Distanz gehst, wenn jemand mehr Nähe sucht? Du könntest einen vermeidenden [Bindungsstil](/bindungsstile/) haben. Der vermeidende Bindungsstil, auch Avoidant Attachment genannt, ist ein Bindungsmuster, das viele Menschen unbewusst in ihren Beziehungen zeigen. Es ist nicht etwas, das mit dir „falsch" ist – es ist ein Schutzmechanismus, den dein Gehirn früh in deinem Leben entwickelt hat.## Das Avoidant Attachment in verschiedenen Kulturen und Kontexten
 
 Es ist wichtig zu verstehen, dass Bindungsstile nicht universell sind. Sie werden von Kultur, Zeitperiode und sozialen Normen beeinflusst. In einigen Kulturen wird Unabhängigkeit und emotionale Zurückhaltung als Stärke betrachtet. In anderen Kulturen wird emotionale Verfügbarkeit und Nähe als Standard betrachtet.
 
-In westlichen, individualistischen Kulturen kann vermeidender Bindungsstil weniger als problematisch betrachtet werden, da Unabhängigkeit hoch bewertet wird. In kollektivistischeren Kulturen, wo Familie und Nähe zentraler sind, könnte vermeidender Bindungsstil mehr als störend wahrgenommen werden.
+In westlichen, individualistischen Kulturen kann [vermeidender Bindungsstil](/blog/vermeidender-bindungsstil/) weniger als problematisch betrachtet werden, da Unabhängigkeit hoch bewertet wird. In kollektivistischeren Kulturen, wo Familie und Nähe zentraler sind, könnte vermeidender Bindungsstil mehr als störend wahrgenommen werden.
 
 Es ist auch wichtig zu verstehen, dass manche Menschen bewusst emotionale Distanz entwickelt haben, nicht wegen Trauma, sondern wegen kultureller oder familiärer Norm. Sie wurden beigebracht, dass Emotion unschwach ist oder dass Männer nicht emotional verfügbar sein sollten. Dies ist nicht pathologisch – es ist eine kulturelle Überprägung.
 
@@ -84,7 +84,7 @@ Ein wichtiger Punkt: Diese Muster sind nicht bewusst oder manipulativ. Die Perso
 
 Es gibt vier primäre Bindungsstile: sicher, ängstlich-ambivalent (auch „anxious" genannt), vermeidend (oder „avoidant") und chaotisch-unsicher (auch „disorganized" genannt). Zu verstehen, wie dein Stil sich von anderen unterscheidet, kann hilfreich sein.
 
-Ein sicherer Bindungsstil ist charakterisiert durch Vertrauen in Beziehungen, Komfort mit Nähe und Unabhängigkeit, offene Kommunikation und die Fähigkeit, sich von anderen zu unterscheiden. Menschen mit sicherem Stil wollen Nähe, haben aber auch kein Unbehagen damit, Zeit allein zu verbringen. Sie können ihre Bedürfnisse klar ausdrücken.
+Ein [sicherer Bindungsstil](/blog/sicherer-bindungsstil/) ist charakterisiert durch Vertrauen in Beziehungen, Komfort mit Nähe und Unabhängigkeit, offene Kommunikation und die Fähigkeit, sich von anderen zu unterscheiden. Menschen mit sicherem Stil wollen Nähe, haben aber auch kein Unbehagen damit, Zeit allein zu verbringen. Sie können ihre Bedürfnisse klar ausdrücken.
 
 Ein ängstlich-ambivalenter Bindungsstil ist das Gegenteil des vermeidenden. Diese Menschen sehnen sich nach Nähe, haben aber Angst vor Ablehnung. Sie können klammern oder bedürftig wirken. Sie berichten oft davon, dass sie Partner verlieren, weil sie „zu viel brauchten".
 

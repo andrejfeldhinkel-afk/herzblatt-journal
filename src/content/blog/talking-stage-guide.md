@@ -248,7 +248,7 @@ Es ist eine Phase voller Möglichkeiten, Aufregung und Entdeckung. Es ist eine P
 Die Talking Stage wird problematisch, wenn:
 - Eine Person das anders versteht als die andere
 - Es keine Deadline gibt
-- Red Flags ignoriert werden
+- [Red Flags](/red-flags/) ignoriert werden
 - Emotionale Investition asymmetrisch ist
 - Kommunikation fehlt
 

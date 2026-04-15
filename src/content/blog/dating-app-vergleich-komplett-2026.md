@@ -1080,10 +1080,10 @@ Wie zu vermeiden:
 
 Die Person ist süß, charmant, und nach einer Woche sagt sie: "Ich liebe dich."
 
-Das ist Love Bombing. Das ist manipulativ.
+Das ist [Love Bombing](/blog/lovebombing-phasen/). Das ist manipulativ.
 
 Wie zu vermeiden:
-- Achte auf Pacing. Zu schnell ist red flag.
+- Achte auf Pacing. Zu schnell ist [red flag](/red-flags/).
 - Überprüfe ihre Geschichten. Können andere bestätigen?
 - Vertrau deinem Bauch.
 

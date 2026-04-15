@@ -851,7 +851,7 @@ Catfishing ist, wenn jemand vor über wer sie sind. Das ist nicht nur ärgerlich
 
 ### Die Person hat nur ein Foto
 
-Und besonders, wenn es ein professionelles Foto ist (wie von Instagram) oder wenn es nicht aktuell aussieht. Wenn die Person nicht mehrere Fotos hat, das ist ein red flag.
+Und besonders, wenn es ein professionelles Foto ist (wie von Instagram) oder wenn es nicht aktuell aussieht. Wenn die Person nicht mehrere Fotos hat, das ist ein [red flag](/red-flags/).
 
 ### Die Person will deine Nummer sofort
 

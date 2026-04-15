@@ -18,7 +18,7 @@ draft: false
 
 ## Was ist Silent Treatment und warum es mehr ist als nur Schweigen
 
-Stille kann lauter sein als jedes Wort. Das ist die gruselige Wahrheit über Silent Treatment in Beziehungen. Es ist nicht einfach nur, dass dein Partner nicht mit dir spricht. Es ist eine kalkulierte emotionale Waffe, die mit gezielter Absicht eingesetzt wird, um Kontrolle auszuüben.
+Stille kann lauter sein als jedes Wort. Das ist die gruselige Wahrheit über [Silent Treatment](/blog/silent-treatment-bedeutung/) in Beziehungen. Es ist nicht einfach nur, dass dein Partner nicht mit dir spricht. Es ist eine kalkulierte emotionale Waffe, die mit gezielter Absicht eingesetzt wird, um Kontrolle auszuüben.
 
 Silent Treatment—oder "Stille Behandlung"—ist das bewusste Ignorieren einer Person, typischerweise nach einem Konflikt. Dein Partner spricht nicht mit dir. Er schaut dich nicht an. Er antwortet nicht auf Fragen. Manchmal ignoriert er dich sogar körperlich, indem er in einen anderen Raum geht oder dem Haus verlässt.
 

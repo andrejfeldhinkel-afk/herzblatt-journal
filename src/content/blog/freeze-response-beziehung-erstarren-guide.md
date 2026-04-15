@@ -325,7 +325,7 @@ Es ist langsam, intensiv und wirksam. Die Forschung zeigt, dass SE sehr wirksam 
 
 ### EMDR (Eye Movement Desensitization and Reprocessing)
 
-EMDR ist eine andere evidenzbasierte Therapie für Trauma. Der Therapeut wird dich bitten, über eine traumatische Erinnerung nachzudenken, während deine Augen einem schnellen Stimulus folgen (normalerweise der Finger des Therapeuten, der sich hin und her bewegt).
+[EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) ist eine andere evidenzbasierte Therapie für Trauma. Der Therapeut wird dich bitten, über eine traumatische Erinnerung nachzudenken, während deine Augen einem schnellen Stimulus folgen (normalerweise der Finger des Therapeuten, der sich hin und her bewegt).
 
 Das mag seltsam klingen, aber es funktioniert. Die Theorie ist, dass die Augenbewegung den neuronalen Prozess der Erinnerungsverarbeitung verändert. Statt dass die Erinnerung für immer eingefroren und traumatisiert ist, wird sie integriert und in dein Gedächtnis eingeordnet wie ein normales Ereignis.
 

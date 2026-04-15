@@ -81,7 +81,7 @@ Limerence ist einseitig. Echte Liebe ist gegenseitig.
 
 Limerence ist emotional instabil. Echte Liebe ist stabil.
 
-Limerence ignoriert Red Flags. Echte Liebe sieht und akzeptiert die Realität.
+Limerence ignoriert [Red Flags](/red-flags/). Echte Liebe sieht und akzeptiert die Realität.
 
 Limerence ist fokussiert auf die eigenen Gefühle. Echte Liebe ist fokussiert auf beide.
 

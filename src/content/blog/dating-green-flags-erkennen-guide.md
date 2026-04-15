@@ -25,7 +25,7 @@ faq:
 
 ## Green Flags beim Dating: Positive Zeichen richtig erkennen
 
-Beim Dating konzentrieren sich viele Menschen auf Red Flags – die Warnsignale, die auf problematische Partner hindeuten. Das ist wichtig, aber genauso wichtig ist es, Green Flags zu erkennen – die Zeichen, die darauf hindeuten, dass Sie mit jemandem zusammen sind, der ein guter Partner sein könnte. ## Was sind Green Flags überhaupt?
+Beim Dating konzentrieren sich viele Menschen auf [Red Flags](/red-flags/) – die Warnsignale, die auf problematische Partner hindeuten. Das ist wichtig, aber genauso wichtig ist es, Green Flags zu erkennen – die Zeichen, die darauf hindeuten, dass Sie mit jemandem zusammen sind, der ein guter Partner sein könnte. ## Was sind Green Flags überhaupt?
 
 Green Flags sind Verhaltensweisen, Gewohnheiten, Kommunikationsmuster und Charaktereigenschaften, die in einer gesunden Beziehung wertvoll sind. Sie sind das Gegenteil von Red Flags, die Warnsignale sind. Green Flags zeigen, dass eine Person emotional intelligent, respektvoll und grundlegend anständig ist.
 

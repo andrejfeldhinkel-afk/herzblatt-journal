@@ -50,7 +50,7 @@ Aber eine respektvolle Trennung bedeutet:
 - Dein Partner kann verstehen, dass Beziehungen manchmal enden – nicht wegen seiner Unwürdigkeit, sondern weil ihr unvereinbar seid
 - Du kannst mit klarem Gewissen weitermachen
 
-Eine grausame Trennung – durch Gaslighting, Lügen, Ghosting, öffentliche Verlegenheit – beschädigt deinen Partner und auch dich. Es verfolgt dich.
+Eine grausame Trennung – durch [Gaslighting](/blog/was-ist-gaslighting/), Lügen, [Ghosting](/blog/ghosting-komplett-guide/), öffentliche Verlegenheit – beschädigt deinen Partner und auch dich. Es verfolgt dich.
 
 Eine respektvolle Trennung ist für beide von euch besser.
 

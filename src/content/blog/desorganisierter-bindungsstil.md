@@ -27,7 +27,7 @@ Eine Stunde später sitzt du allein in der Küche und ein tiefes Gefühl der Ein
 
 Bis morgen. Dann passiert es wieder.
 
-Falls das nach dir klingt, hast du möglicherweise einen desorganisierten Bindungsstil. Er ist der seltenste und komplexeste Bindungstyp — und einer, der oft missverstanden wird.
+Falls das nach dir klingt, hast du möglicherweise einen desorganisierten [Bindungsstil](/bindungsstile/). Er ist der seltenste und komplexeste Bindungstyp — und einer, der oft missverstanden wird.
 
 ## Was ist desorganisierte Bindung?
 
@@ -151,7 +151,7 @@ Aber jetzt sind sie destruktiv. Jetzt können sie gehen.
 
 Im Gegensatz zu anderen Bindungsstilen, die manchmal durch Selbstarbeit und sichere Beziehungen verändert werden können, braucht desorganisierte Bindung oft professionelle Unterstützung.
 
-**EMDR (Eye Movement Desensitization and Reprocessing):** Dies ist eine spezifische Therapieform für Trauma. Sie hilft dem Gehirn, traumatische Erinnerungen zu verarbeiten und zu integrieren.
+**[EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) (Eye Movement Desensitization and Reprocessing):** Dies ist eine spezifische Therapieform für Trauma. Sie hilft dem Gehirn, traumatische Erinnerungen zu verarbeiten und zu integrieren.
 
 **Somatic Experiencing:** Dies konzentriert sich auf die körperlichen Reaktionen auf Trauma. Weil Trauma im Körper gespeichert wird, nicht nur im Verstand.
 

@@ -51,13 +51,13 @@ Oft wird der Narzisst bereits mit jemandem neuen anfangen, und dann wird das neu
 
 Eines der ärgsten und sadistischsten Dinge beim Discard ist, dass es oft sehr öffentlich ist. Der Narzisst wird überall herumsprechen, wie sehr du ihn/sie verletzet hast, wie "toxic" du warst, wie "unmöglich" du warst. Er/Sie wird dich zum Bösen der Story machen, um sein/sein Image zu schützen und die neue Partner zu beeindrucken.
 
-Und dann, wenn du dich endlich zu heilen beginnt, wenn du anfängst, die Abschnitt zu akzeptieren, taucht der Narzisst wieder auf. Er/Sie wird dir sagen, dass es mir "schrecklich leid tut", dass du ein "mistake" warst, dass er/sie sich "vermisst" dich und, dass er/sie "sich geändert hat". Das nennt sich Hoovering (wie ein Staubsauger, der dich wieder ansaugt).
+Und dann, wenn du dich endlich zu heilen beginnt, wenn du anfängst, die Abschnitt zu akzeptieren, taucht der Narzisst wieder auf. Er/Sie wird dir sagen, dass es mir "schrecklich leid tut", dass du ein "mistake" warst, dass er/sie sich "vermisst" dich und, dass er/sie "sich geändert hat". Das nennt sich [Hoovering](/blog/hoovering-narzissmus-erkennen/) (wie ein Staubsauger, der dich wieder ansaugt).
 
-Und wenn du dumm oder zu verletzlich genug wirst, um wieder hereinzufallen, fängt der ganze Zyklus wieder an: Love Bombing, Devaluation, Discard. Es ist eine Falle.
+Und wenn du dumm oder zu verletzlich genug wirst, um wieder hereinzufallen, fängt der ganze Zyklus wieder an: [Love Bombing](/blog/lovebombing-phasen/), Devaluation, Discard. Es ist eine Falle.
 
 ## Overt vs. Covert Narcissism: Zwei Seiten der gleichen Münze
 
-Es gibt zwei Haupttypen von Narzissmus, und verstehen den Unterschied ist wichtig: Overt und Covert. Der Unterschied ist in wie sie ihre tiefe Bedürfnisse nach Bewunderung und Macht erfüllen.
+Es gibt zwei Haupttypen von [Narzissmus](/narzissmus/), und verstehen den Unterschied ist wichtig: Overt und Covert. Der Unterschied ist in wie sie ihre tiefe Bedürfnisse nach Bewunderung und Macht erfüllen.
 
 Der Overt Narzisst ist offensichtlich und unmaskiert. Er/Sie ist grandiose, laut, dominant, aggressive. Er/Sie braucht konstante Aufmerksamkeit und wird schnell wütend, wenn er/sie sie nicht bekommt. Er/Sie dominiert einen Raum mit seiner/ihrer Präsenz. Er/Sie lässt dich laut und deutlich wissen, dass er/sie besser ist als andere. Es gibt keine Subtilität.
 
@@ -69,7 +69,7 @@ Beide Typen sind destruktiv und manipulativ. Aber der Covert Narzisst ist oft sc
 
 ## Flying Monkeys: Die Bewaffneten Helfer
 
-Ein Begriff, den du oft hörst im Kontext von Narzissmus, ist "Flying Monkeys". Das sind Menschen, die der Narzisst erfolgreich manipuliert hat, um gegen dich zu arbeiten und ihn/sie zu unterstützen.
+Ein Begriff, den du oft hörst im Kontext von Narzissmus, ist "[Flying Monkeys](/blog/flying-monkeys-narzissmus/)". Das sind Menschen, die der Narzisst erfolgreich manipuliert hat, um gegen dich zu arbeiten und ihn/sie zu unterstützen.
 
 Der Narzisst wird seinen/seinen "version der story" mit diesen Menschen teilen, aber nur die Teile, die seine Geschichte unterstützen. Er/Sie wird dich als böse, verrückt, herzlos oder manipulativ darstellen. Und diese Menschen, vertrauend dem Narzissten, werden dir die kalte Schulter zeigen oder aktiv gegen dich arbeiten.
 
@@ -79,7 +79,7 @@ Flying Monkeys sind eines der sadistischsten und isolierendsten Aspekte von Narz
 
 ## Gaslighting: Das Spiel mit deinem Verstand
 
-Gaslighting ist eine Form des psychologischen Missbrauchs, bei dem der Narzisst dich dazu bringt, deine eigene Wahrnehmung, dein Gedächtnis oder deine Realität zu bezweifeln. Das Wort kommt von dem Klassiker-Film "Gaslight" von 1944, wo ein Ehemann seine Ehefrau davon überzeugt, dass sie wahnsinnig ist, indem er die Lichter dimmt und ihr sagt, dass er/sie es sich einbildet.
+[Gaslighting](/blog/was-ist-gaslighting/) ist eine Form des psychologischen Missbrauchs, bei dem der Narzisst dich dazu bringt, deine eigene Wahrnehmung, dein Gedächtnis oder deine Realität zu bezweifeln. Das Wort kommt von dem Klassiker-Film "Gaslight" von 1944, wo ein Ehemann seine Ehefrau davon überzeugt, dass sie wahnsinnig ist, indem er die Lichter dimmt und ihr sagt, dass er/sie es sich einbildet.
 
 Ein Narzisst wird das kontinuierlich und bewusst machen. Du wirst dich an ein Incident erinnern – vielleicht etwas Schmerzhaftes oder Verletzendes, das der Narzisst getan hat. Du bringst es auf, hoffentlich, dass der Narzisst dich versteht. Und der Narzisst wird dir sagen, dass das nie passiert ist, oder dass du es völlig falsch erinnerst, oder dass du die Situation verdrehst hast.
 
@@ -137,7 +137,7 @@ Die Heilung nach einem Narzissten ist ein langer Prozess. Du wirst viele der Nar
 
 <div class="nrc-checklist-container">
   <div class="nrc-checklist">
-    <h3>Narcissism Red Flag Checklist</h3>
+    <h3>Narcissism [Red Flag](/red-flags/) Checklist</h3>
     
     <div class="nrc-flag-group">
       <label class="nrc-flag-item">

@@ -185,7 +185,7 @@ Schafft einen sicheren Ort, wo sich jeder öffnen kann, ohne verurteilt zu werde
 
 ## Wenn einer sich untersützt fühlt und verletzt
 
-Der Partner kritisiert einen nicht direkt, sondern durch Kleinigkeiten und subtile Kommentare. Das ist gaslighting und psychologischer Missbrauch. Es ist schwerer zu erkennen als direkte Kritik, aber genauso verletzend.
+Der Partner kritisiert einen nicht direkt, sondern durch Kleinigkeiten und subtile Kommentare. Das ist [gaslighting](/blog/was-ist-gaslighting/) und psychologischer Missbrauch. Es ist schwerer zu erkennen als direkte Kritik, aber genauso verletzend.
 
 Das kann dein Selbstwertgefühl zerstören und dich paranoid machen.
 

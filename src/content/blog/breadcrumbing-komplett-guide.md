@@ -215,7 +215,7 @@ Wenn du diese Nachrichten bekommen hast – du wirst mit einem Breadcrumber umge
 10. **„Lass uns nicht in Kontakt verlieren"** = Ich will dich behalten, aber nicht als Partner
 11. **„Ich vermisse dich"** = Das ist Manipulationspiel
 12. **„Entschuldigung, ich bin nicht gut in Texting"** = Ich antworte anderen schneller
-13. **„Ich gebe dir Raum"** = Ich ignoriere dich, aber das ist kein Ghosting
+13. **„Ich gebe dir Raum"** = Ich ignoriere dich, aber das ist kein [Ghosting](/blog/ghosting-komplett-guide/)
 14. **„Du bist zu gut für mich"** = Ich will keine Verantwortung
 15. **„Lass mich Zeit geben"** = Das ist unbestimmt und dich geduldig haltend
 16. **„Mein Leben ist gerade chaotisch"** = Du bist nicht wichtig genug für meinen Fokus
@@ -224,7 +224,7 @@ Wenn du diese Nachrichten bekommen hast – du wirst mit einem Breadcrumber umge
 19. **„Lass mich dir ein Kompliment machen"** = Um dich später wieder zu ignorieren
 20. **„Ich bin verliebt in dich"** = Das ist ein leeres Statement ohne Action
 21. **„Wir haben echte Chemie"** = Ich will nur Sex, nicht eine Beziehung
-22. **„Mach dich nicht Sorgen"** = Das ist eine Gaslighting-Taktik
+22. **„Mach dich nicht Sorgen"** = Das ist eine [Gaslighting](/blog/was-ist-gaslighting/)-Taktik
 23. **„Du fragst zu viele Fragen"** = Ich will nicht rechenschaftspflichtig sein
 24. **„Lass uns Freunde bleiben"** = Ich will dich behalten, aber mit Grenzen
 25. **„Ich bin gerade nicht in der Headspace dafür"** = Du bist nicht wichtig genug
@@ -530,7 +530,7 @@ Das ist, warum Breadcrumbing psychologisch ein Pattern ist, das mehr Schaden tut
 
 Das Konzept der Bindungstheorie erklärt viel über Breadcrumbing.
 
-Wenn du einen unsicheren Bindungsstil hast (entweder ängstlich oder vermeidend), bist du anfälliger für Breadcrumbing.
+Wenn du einen unsicheren [Bindungsstil](/bindungsstile/) hast (entweder ängstlich oder vermeidend), bist du anfälliger für Breadcrumbing.
 
 Ein ängstlich gebundener Mensch wird Breadcrumbing von jemandem mit einem vermeidenden Bindungsstil interpretieren als „vielleicht gibt es noch Hoffnung".
 
@@ -788,7 +788,7 @@ Wenn ein Breadcrumber sich wirklich ändert, könnte es bedeuten:
 - Sie fragen, ob du ihnen eine echte Chance geben möchtest
 - Sie sind konsistent über Zeit
 
-Das ist anders von Hoovering (manipulation), weil es ein echtes Selbstbewusstsein gibt.
+Das ist anders von [Hoovering](/blog/hoovering-narzissmus-erkennen/) (manipulation), weil es ein echtes Selbstbewusstsein gibt.
 
 Wenn das passiert, ist es deine Entscheidung, ob du eine zweite Chance geben möchtest.
 
@@ -885,7 +885,7 @@ Du lernst, dass du stark genug bist, um einen toxischen Muster zu verlassen.
 
 Du lernst, dass dein Selbstwert wichtiger ist als andere Person Aufmerksamkeit.
 
-Du lernst, dass du lernen kannst zu erkennen Red Flags.
+Du lernst, dass du lernen kannst zu erkennen [Red Flags](/red-flags/).
 
 Du lernst, dass du allein sein kannst und glücklich sein.
 

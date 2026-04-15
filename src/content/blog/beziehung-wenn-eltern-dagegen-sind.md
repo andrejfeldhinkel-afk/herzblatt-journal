@@ -158,7 +158,7 @@ Erst zuhören warum. Manchmal sehen Eltern Dinge die du nicht siehst. Wenn ihre 
 Idealerweise nicht. Aber wenn deine Eltern dir ein Ultimatum stellen, musst du entscheiden wer dein Leben bestimmt. Als Erwachsener hast du das Recht, deine eigenen Entscheidungen zu treffen — auch wenn es schmerzhaft ist.
 
 **Können Eltern recht haben mit ihrer Ablehnung?**
-Ja, manchmal. Wenn mehrere Menschen in deinem Leben Bedenken äußern, lohnt sich ehrliche Reflexion. Eltern sehen manchmal Red Flags die Verliebte übersehen. Das zu akzeptieren fühlt sich schlecht an, aber es kann dir selbst schützen.
+Ja, manchmal. Wenn mehrere Menschen in deinem Leben Bedenken äußern, lohnt sich ehrliche Reflexion. Eltern sehen manchmal [Red Flags](/red-flags/) die Verliebte übersehen. Das zu akzeptieren fühlt sich schlecht an, aber es kann dir selbst schützen.
 
 **Wie lange sollte ich warten, bis meine Eltern meinen Partner akzeptieren?**
 Es gibt keine Frist. Manche Eltern akzeptieren nach 6 Monaten, andere nach 5 Jahren, manche nie. Wichtig ist: Du wartest nicht auf ihre Zustimmung um glücklich zu sein. Du lebst dein Leben — und versuchst gleichzeitig, die Familie-Beziehung zu reparieren. Das sind zwei verschiedene Prozesse.

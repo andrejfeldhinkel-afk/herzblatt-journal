@@ -151,7 +151,7 @@ Ein weiteres Zeichen: Dein Partner fragt dich, ob ein Bild „postable" ist, bev
 
 Die gefährliche Dynamik ist, dass Social Media ein riesiges Publikum schafft, das dein Partner beeindrucken möchte. Dein Wert wird nicht in deiner Beziehung mit dieser Person gemessen, sondern in der Anzahl der Likes und Kommentare. Das ist eine neue, moderne Form von Throning.
 
-Wie schützt du dich? Erstens: Sei bewusst, was du teilst. Du hast das Recht zu sagen: „Das Bild magst du mir nicht posten." Dein Partner sollte das respektieren. Wenn nicht, ist das ein Red Flag.
+Wie schützt du dich? Erstens: Sei bewusst, was du teilst. Du hast das Recht zu sagen: „Das Bild magst du mir nicht posten." Dein Partner sollte das respektieren. Wenn nicht, ist das ein [Red Flag](/red-flags/).
 
 Zweitens: Beachte den Mismatch. Wenn dein Partner online eine andere Person ist als offline, ist das verdächtig. Das bedeutet, dass die Online-Präsentation wichtiger ist als echte Nähe.
 
@@ -316,7 +316,7 @@ Michael hat niedriges Selbstwertgefühl. Er stammte von verachtenden Eltern. Um 
 
 Aber er zeigt diese Frauen nicht, um stolz zu sein. Er zeigt sie, um sich selbst zu beweisen: „Seht, ich bin gut genug, um jemanden so zu haben."
 
-Das ist auch Throning, aber die Motivation ist Insicherheit statt Narzissmus.
+Das ist auch Throning, aber die Motivation ist Insicherheit statt [Narzissmus](/narzissmus/).
 
 Die Wahrheit: Michael braucht Therapie, um sein Selbstwertgefühl zu entwickeln. Er kann nicht einen echten Partner wählen aus einem Ort von Liebe und Wertschätzung.
 

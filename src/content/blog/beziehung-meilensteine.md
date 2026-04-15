@@ -135,7 +135,7 @@ Keine ernsthafte Zukunfts-Konversation nach 6 Monaten. Das bedeutet, dass mindes
 
 Familie und Freunde werden nach 4+ Monaten nicht getroffen. Das kann sein, dass er/sie sich schämt. Oder dass die Beziehung nicht real ist.
 
-Nach nur einem Monat will er/sie mit dir Hochzeit und Kinder planen. Das ist nicht romantisch, das ist ein red flag. Die Liebe ist noch nicht tief genug für so große Entscheidungen.
+Nach nur einem Monat will er/sie mit dir Hochzeit und Kinder planen. Das ist nicht romantisch, das ist ein [red flag](/red-flags/). Die Liebe ist noch nicht tief genug für so große Entscheidungen.
 
 Diese Signale heißen nicht, dass die Beziehung vorbei ist – aber sie sind Hinweise, über die du nachdenken solltest.
 

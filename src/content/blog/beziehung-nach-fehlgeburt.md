@@ -96,7 +96,7 @@ Nach einer Fehlgeburt brauchst du deinen Partner näher bei dir. Therapie zusamm
 
 Wenn er stattdessen distanziert wird, "beschäftigt" mit Arbeit, weniger verfügbar — das ist das Gegenteil von Partnerschaft.
 
-Das ist gerade der Moment, in dem ein Mann beweisen muss, dass er wirklich an deiner Seite steht. Wenn er das nicht tut, ist das ein massiver Red Flag.
+Das ist gerade der Moment, in dem ein Mann beweisen muss, dass er wirklich an deiner Seite steht. Wenn er das nicht tut, ist das ein massiver [Red Flag](/red-flags/).
 
 ## Was die Wissenschaft sagt
 

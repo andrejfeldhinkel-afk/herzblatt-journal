@@ -53,7 +53,7 @@ Mit 25: "Bin ich hübsch genug? Bin ich cool genug? Sollte ich meine Meinung nic
 
 Dieser Unterschied ist nicht klein. Das ist der Unterschied zwischen "sich selbst verbiegen" und "authentisch sein". Und das zweite ist viel attraktiver. Menschen, die wissen, wer sie sind, und das nicht verstecken, strahlen das aus. Sie sind interessant. Sie sind kein Rätsel, das der andere "lösen" muss.
 
-Das reduziert auch die toxischen Dynamiken. Wenn du keine Selbstzweifel hast, kann dich ein Narzisst weniger leicht manipulieren. Wenn du nicht desperado wirkst, werden auch Männer, die nur Ego-Boosts suchen, weniger auf dich abfahren.
+Das reduziert auch die toxischen Dynamiken. Wenn du keine Selbstzweifel hast, kann dich ein [Narzisst](/narzissmus/) weniger leicht manipulieren. Wenn du nicht desperado wirkst, werden auch Männer, die nur Ego-Boosts suchen, weniger auf dich abfahren.
 
 ## Die biologische Realität
 
@@ -83,7 +83,7 @@ Die Wahrnehmung ist schwerer. Mit 30 stellst du dir mehr Fragen: "Will ich Kinde
 
 Das echte Hindernis beim Dating mit 30 als Frau ist nicht biologisch. Es ist gesellschaftlich. Es ist die Stimme, die sagt: "Du solltest schon verheiratet sein." Es ist das Gefühl, dass deine Uhr tickt. Es ist die Frage der Mutter beim Familienessen.
 
-Das ist auch das erste, das du adressieren musst. Weil dieser Druck dich zu schlechten Entscheidungen treibt. Wenn du "schnell jemanden finden" musst, nimm du dich selbst aus der Gleichung. Du sagst ja zu dem falschen Menschen. Du übersiest Red Flags.
+Das ist auch das erste, das du adressieren musst. Weil dieser Druck dich zu schlechten Entscheidungen treibt. Wenn du "schnell jemanden finden" musst, nimm du dich selbst aus der Gleichung. Du sagst ja zu dem falschen Menschen. Du übersiest [Red Flags](/red-flags/).
 
 Die beste Sache, die du für dein Dating-Leben mit 30 tun kannst, ist: Entscheide dich selbst, dass du Zeit hast. Dass du nicht irgendwen willst. Dass du jemanden willst, mit dem die Beziehung besser ist als die Alternative (allein sein).
 

@@ -27,7 +27,7 @@ faq:
 
 ## Das Phänomen [Bindungsangst](/blog/bindungsangst-komplett-guide). Diese Menschen können Nähe nicht ertragen. Je näher du ihnen kommst, desto unbequemer fühlen sie sich. Ihr Nervensystem schreit: "Gefahr! Flucht!" Anstatt das zu adressieren oder an sich selbst zu arbeiten, ghosten sie dich einfach. Es ist ihre Art, Sicherheit zu schaffen — indem sie abhauen.
 
-Menschen mit Bindungsangst sehen in Nähe oft eine Bedrohung ihrer Unabhängigkeit oder Autonomie. Sie haben gelernt, Beziehungen zu fürchten, möglicherweise weil wichtige Menschen in ihrer Kindheit unzuverlässig waren oder weil sie verlassen wurden. Ghosting ist ihre Fluchtreaktion, ihr Weg, Kontrolle über die Situation zu behalten — indem sie dich verlassen, bevor du sie verlässt. Sie wurden zuerst verlassen, und jetzt verlassen sie alle.
+Menschen mit Bindungsangst sehen in Nähe oft eine Bedrohung ihrer Unabhängigkeit oder Autonomie. Sie haben gelernt, Beziehungen zu fürchten, möglicherweise weil wichtige Menschen in ihrer Kindheit unzuverlässig waren oder weil sie verlassen wurden. [Ghosting](/blog/ghosting-komplett-guide/) ist ihre Fluchtreaktion, ihr Weg, Kontrolle über die Situation zu behalten — indem sie dich verlassen, bevor du sie verlässt. Sie wurden zuerst verlassen, und jetzt verlassen sie alle.
 
 Das ist nicht gesund, aber es ist verständlich. Es bedeutet aber auch, dass dies nicht dein Problem ist, das du lösen kannst. Diese Person muss ihre Bindungsangst adressieren, nicht du. Du kannst keine Person heilen, die nicht bereit ist, geheilt zu werden.
 

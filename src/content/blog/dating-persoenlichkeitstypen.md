@@ -41,7 +41,7 @@ TypKern-TraitDating-StilIdeal MatchRed Flag**1. Romantiker**TräumerischSchnell 
 **Tipps:**
 ✅ Genießt Träume aber bodenständig bleiben
 ✅ Nicht schnell Definition auf Woche 2
-✅ Filtere Red Flags früh
+✅ Filtere [Red Flags](/red-flags/) früh
 
 ## TYP 2: Der Pragmatiker 🎯
 

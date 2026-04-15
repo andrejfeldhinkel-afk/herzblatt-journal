@@ -49,7 +49,7 @@ Wenn du das nicht tun kannst, wirst du unbewusst muster aus der Kindheit wiederh
 
 Wenn du mit Trauma arbeiten willst, brauchst du einen Fachmann oder eine Fachfrau. Punkt. Dein Partner kann dich unterstützen. Deine Freundin kann dir zuhören. Aber die echte Heilung braucht Expertise.
 
-Es gibt verschiedene Therapieformen, die bei Trauma besonders effektiv sind. Traumafokussierte Kognitiv-Behaviorale Therapie (TF-CBT) ist wissenschaftlich belegt. Eye Movement Desensitization and Reprocessing (EMDR) ist für Trauma sehr effektiv. Interne FamilienSysteme (IFS) ist auch großartig. Es gibt viele Optionen. Finde einen Therapeuten oder eine Therapeutin, der oder die zu dir passt.
+Es gibt verschiedene Therapieformen, die bei Trauma besonders effektiv sind. Traumafokussierte Kognitiv-Behaviorale Therapie (TF-CBT) ist wissenschaftlich belegt. Eye Movement Desensitization and Reprocessing ([EMDR](/blog/emdr-beziehungstrauma-heilen-guide/)) ist für Trauma sehr effektiv. Interne FamilienSysteme (IFS) ist auch großartig. Es gibt viele Optionen. Finde einen Therapeuten oder eine Therapeutin, der oder die zu dir passt.
 
 Die Therapie ist nicht schnell. Aber sie funktioniert. Wenn du eine Therapie machst und an dir arbeitest, wird sich deine Beziehung fast automatisch verbessern, weil du dich selbst verbessern wirst.
 
@@ -226,7 +226,7 @@ Das ist möglich. Und es ist lohnenswert.
 
 Deine Kindheit hat dir beigebracht, wie du dich an andere Menschen bindest. Diese Bindungsmuster sind nicht dein Fehler. Sie sind ein Überlebensmechanismus. Aber jetzt musst du sie bewusst ändern.
 
-Es gibt grundsätzlich vier Bindungsstile: Sicher, Ängstlich, Vermeidend und Furchtlos-Vermeidend.
+Es gibt grundsätzlich vier [Bindungsstile](/bindungsstile/): Sicher, Ängstlich, Vermeidend und Furchtlos-Vermeidend.
 
 Wenn du Kindheitstrauma hast, hast du wahrscheinlich nicht eine sichere Bindung entwickelt. Du hast möglicherweise:
 

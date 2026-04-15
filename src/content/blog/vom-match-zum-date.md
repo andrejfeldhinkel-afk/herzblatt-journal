@@ -239,7 +239,7 @@ Wenn sie immer noch nur kurz antwortet, dann ist es nicht die richtige Person f�
 
 ### Problem 4: Die Person verschwindet, dann taucht nach Wochen wieder auf
 
-Das nennt sich "Breadcrumbing" – wenn jemand ab und zu eine Nachricht sendet, nur genug um dich zu halten, aber nie wirklich engagiert ist.
+Das nennt sich "[Breadcrumbing](/blog/breadcrumbing-komplett-guide/)" – wenn jemand ab und zu eine Nachricht sendet, nur genug um dich zu halten, aber nie wirklich engagiert ist.
 
 Was tun? Nichts. Ignoriere es. Wenn die Person wirklich interessiert ist, wird sie aktiver sein. Wenn sie das nicht tut, ist sie es nicht. Es gibt keinen Grund, Zeit mit jemandem zu verschwenden, der dein Interesse nur zur Unterhaltung nutzt.
 

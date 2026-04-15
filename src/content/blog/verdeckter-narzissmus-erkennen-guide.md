@@ -59,7 +59,7 @@ Diese Unterscheidung ist entscheidend, um zu verstehen, warum verdeckter Narziss
 ### Offener (extrovertierter) Narzissmus
 Der offene Narzisst ist laut, charismatisch und fordert Bewunderung aktiv ein. Er spricht ständig von seinen Erfolgen, benötigt [Love Bombing](/blog/love-bombing-erkennen-schuetzen) gefolgt von Ghosts
 
-Am Anfang der Beziehung war alles wunderbar. Er war aufmerksam, liebevoll, emotional verfügbar. Und dann, nachdem du emotional investiert hast, ändert sich das Verhalten. Das ist ein klassisches Muster: Intensive emotionale Verbindung am Anfang, gefolgt von emotional durchschnittliches oder sogar schlechtes Verhalten. Das ist nicht Liebe — das ist Manipulation. Der Love Bombing war die Angelrute; jetzt, wo du am Haken bist, wird er weniger Aufmerksamkeit geben.
+Am Anfang der Beziehung war alles wunderbar. Er war aufmerksam, liebevoll, emotional verfügbar. Und dann, nachdem du emotional investiert hast, ändert sich das Verhalten. Das ist ein klassisches Muster: Intensive emotionale Verbindung am Anfang, gefolgt von emotional durchschnittliches oder sogar schlechtes Verhalten. Das ist nicht Liebe — das ist Manipulation. Der [Love Bombing](/blog/lovebombing-phasen/) war die Angelrute; jetzt, wo du am Haken bist, wird er weniger Aufmerksamkeit geben.
 
 ### 10. Er dreht die Wahrheit
 
@@ -171,7 +171,7 @@ Lese mehr über emotionale Erpressung in unserem Artikel [Emotionale Erpressung 
 
 ### 2. Das Silent Treatment: Stille als Waffe
 
-Das Silent Treatment ist nicht neu, aber es ist eine Lieblingstaktik von verdeckten Narzissten, weil es so zerstörerisch ist. Er ignoriert dich tagelang. Er antwortet nicht auf deine Nachrichten. Er sitzt im gleichen Zimmer und spricht nicht mit dir.
+Das [Silent Treatment](/blog/silent-treatment-bedeutung/) ist nicht neu, aber es ist eine Lieblingstaktik von verdeckten Narzissten, weil es so zerstörerisch ist. Er ignoriert dich tagelang. Er antwortet nicht auf deine Nachrichten. Er sitzt im gleichen Zimmer und spricht nicht mit dir.
 
 Das ist passive Aggression auf maximaler Stufe. Er sagt dir nicht, was falsch ist — er lässt dich raten. Und du wirst es raten, weil das Silent Treatment so qualvoll ist. Du wirst anfangen, dich selbst zu zerfleischen, versuchen zu erraten, was du falsch gemacht hast, so dass du wieder mitspielen kannst.
 
@@ -195,7 +195,7 @@ Dies ist ein Zyklus, der dich emotional destabilisiert. Du wirst vom Himmel in d
 
 ### 5. Gaslighting: Deine Realität in Frage stellen
 
-Gaslighting ist vielleicht die zerstörerischste Taktik eines verdeckten Narzissten. Er wird dir sagen, dass etwas, das definitiv passiert ist, nie passiert ist. Oder dass deine Interpretation völlig falsch ist.
+[Gaslighting](/blog/was-ist-gaslighting/) ist vielleicht die zerstörerischste Taktik eines verdeckten Narzissten. Er wird dir sagen, dass etwas, das definitiv passiert ist, nie passiert ist. Oder dass deine Interpretation völlig falsch ist.
 
 "Das habe ich nie gesagt!"
 "Du verdrehst meine Worte."
@@ -382,11 +382,11 @@ Lies mehr über emotionalen Missbrauch in unserem Artikel [Emotionaler Missbrauc
 
 Lerne mehr über Selbstwert nach einer toxischen Beziehung in unserem Artikel [Selbstwert nach toxischer Beziehung wiederaufbauen](/blog/selbstwert-nach-toxischer-beziehung/).
 
-**Keine Kontakt**: Der beste Weg zur Heilung ist No Contact — absolut keine Kommunikation mit dem Narzissten. Das bedeutet keine sozialen Medien, kein "wir können Freunde sein", kein Antworten auf Nachrichten. Ich verstehe, dass das schwierig ist, besonders wenn es gemeinsame Kinder gibt, aber es ist notwendig.
+**Keine Kontakt**: Der beste Weg zur Heilung ist [No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/) — absolut keine Kommunikation mit dem Narzissten. Das bedeutet keine sozialen Medien, kein "wir können Freunde sein", kein Antworten auf Nachrichten. Ich verstehe, dass das schwierig ist, besonders wenn es gemeinsame Kinder gibt, aber es ist notwendig.
 
 **Dating danach**: Gehe nicht zu schnell in eine neue Beziehung. Du musst zuerst heilen. Andernfalls riskierst du, einen anderen Narzissten zu finden oder in alte Muster zu fallen. Das bedeutet nicht, dass du jahrelang allein sein musst. Aber gib dir mindestens 6-12 Monate Zeit, um dich selbst wiederzufinden, bevor du jemand anderen in dein Leben lässt.
 
-Wenn du wieder datingst, achte auf die gleichen Red Flags. Ein verdeckter Narzisst wird wieder dich finden, wenn du nicht weißt, worauf du achten musst. Das ist nicht deine Schuld. Narzissten sind sehr fähig bei der Jagd nach empathischen Menschen.
+Wenn du wieder datingst, achte auf die gleichen [Red Flags](/red-flags/). Ein verdeckter Narzisst wird wieder dich finden, wenn du nicht weißt, worauf du achten musst. Das ist nicht deine Schuld. Narzissten sind sehr fähig bei der Jagd nach empathischen Menschen.
 
 Lies mehr über Dating nach einer narzisstischen Beziehung in unserem Artikel [Dating nach narzisstischer Beziehung — wie du wieder vertraust](/blog/dating-nach-narzisstischer-beziehung-guide/).
 

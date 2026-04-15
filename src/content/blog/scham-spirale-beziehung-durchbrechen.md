@@ -538,7 +538,7 @@ Ein Therapeut ist ein Schiedsrichter. Er/Sie kann euch helfen, Grenzen zwischen 
 **Was zu erwarten ist:**
 
 Moderne Scham-fokussierte Therapie könnte beinhalten:
-- EMDR, um traumatische Scham-Überzeugungen zu verarbeiten
+- [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/), um traumatische Scham-Überzeugungen zu verarbeiten
 - Interne FamilienSysteme, um die verschiedenen "Teile" zu erkennen, die Scham reagieren
 - Emotionales Schema-Therapie, um neue Überzeugungen zu installieren
 - Paartherapie, um die Dynamiken zu reparieren

@@ -24,9 +24,9 @@ Online-Dating bringt viele Chancen – und viele neue Formen der Manipulation. [
 
 ## Breadcrumbing: Die subtilste und am weitesten verbreitete Form
 
-Breadcrumbing ist, wenn jemand dir gerade GENUG Aufmerksamkeit gibt, um dich interessiert zu halten – aber nie genug, um sich wirklich einzulassen. Eine Nachricht alle drei Wochen. Ein Like auf dein Story-Bild. Ein herzlos wirkender „Hey" Text nach Monaten des Funkstille.
+[Breadcrumbing](/blog/breadcrumbing-komplett-guide/) ist, wenn jemand dir gerade GENUG Aufmerksamkeit gibt, um dich interessiert zu halten – aber nie genug, um sich wirklich einzulassen. Eine Nachricht alle drei Wochen. Ein Like auf dein Story-Bild. Ein herzlos wirkender „Hey" Text nach Monaten des Funkstille.
 
-Das Problem: Du fragst dich ständig – bin ich paranoid? „Hat die Person echtes Interesse? Bin ich zu bedürftig, wenn ich antworte? Vielleicht ist sie wirklich beschäftigt?" Dein Realitätssinn wird manipuliert. Das ist Gaslighting auf subtile Weise.
+Das Problem: Du fragst dich ständig – bin ich paranoid? „Hat die Person echtes Interesse? Bin ich zu bedürftig, wenn ich antworte? Vielleicht ist sie wirklich beschäftigt?" Dein Realitätssinn wird manipuliert. Das ist [Gaslighting](/blog/was-ist-gaslighting/) auf subtile Weise.
 
 Die unbequeme Wahrheit: **Wenn jemand wirkliches Interesse hat, zeigt sie das konsistent. Punkt. Ende der Geschichte. Keine Ausnahmen.**
 
@@ -62,7 +62,7 @@ Achte auf diese Warnsignale. Wenn du eines siehst, sei vorsichtig:
 - **Sagt eine Sache, macht das Gegenteil:** Sagt „Ich will dich bald sehen" aber macht nie Pläne
 - **Macht dich für IHRE Probleme verantwortlich:** „Deine Nachricht hat mich traurig gemacht"
 - **Wirft dir vor, „zu emotional" zu sein, wenn du Grenzen setzt:** Dein berechtigter Wunsch wird als „Überreaktionen" labelt
-- **Verschwindet für Wochen und taucht dann auf, ohne sich zu erklären:** Ghosting ohne Veranlassung
+- **Verschwindet für Wochen und taucht dann auf, ohne sich zu erklären:** [Ghosting](/blog/ghosting-komplett-guide/) ohne Veranlassung
 - **Neue Konversationen über alte Probleme:** Nie ein echtes Gespräch, ständiges Drehen in Kreisen
 
 ## Was du NOT tun solltest – Die häufigen Fehler

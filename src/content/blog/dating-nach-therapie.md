@@ -58,7 +58,7 @@ Das ist die fundamentale Veränderung: Dein bullshit-Detektor funktioniert jetzt
 
 ## Red Flags erkennen: Die neue Superpower
 
-Eines der wertvollsten Dinge, die Therapie dir gibt, ist die Fähigkeit, red flags zu sehen. Nicht die offensichtlichen — die Fähigkeit, die subtilen zu erkennen.
+Eines der wertvollsten Dinge, die Therapie dir gibt, ist die Fähigkeit, [red flags](/red-flags/) zu sehen. Nicht die offensichtlichen — die Fähigkeit, die subtilen zu erkennen.
 
 ### Klassische Flags, die du jetzt siehst
 

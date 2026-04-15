@@ -69,7 +69,7 @@ Das ist das Kernmotiv. Silent Treatment ist eine Kontrollstrategie. Dein Partner
 
 ### 2. Bestrafung für das Unbotmäßig-Sein
 
-Du hast Grenzen gesetzt. Du hast widersprochen. Du hast eine Bitte abgelehnt. Der Partner fühlt sich verletzt oder gedemütigt – nicht aus echtem Schmerz, sondern aus verletztem Narzissmus. Silent Treatment ist die Strafe dafür, dass du dich nicht unterordnet hast.
+Du hast Grenzen gesetzt. Du hast widersprochen. Du hast eine Bitte abgelehnt. Der Partner fühlt sich verletzt oder gedemütigt – nicht aus echtem Schmerz, sondern aus verletztem [Narzissmus](/narzissmus/). Silent Treatment ist die Strafe dafür, dass du dich nicht unterordnet hast.
 
 ### 3. Angst vor echtem Konflikt
 
@@ -101,7 +101,7 @@ Jedes Mal, wenn du gefroren wirst, schießt dein Cortisol (Stresshormon) in die 
 **Bindingstraumatisierung**
 Dein wichtigster Mensch entzieht sich dir ohne Grund und ohne Erklärung. Das unterminiert die fundamentale Sicherheit, die eine Beziehung geben sollte. Du entwickelst Angststörungen, weil du nie weißt, wann die nächste Eiszeit kommt.
 
-**Selbstzweifel und Gaslighting-Effekt**
+**Selbstzweifel und [Gaslighting](/blog/was-ist-gaslighting/)-Effekt**
 Weil der Partner sich weigert, klar zu sagen, warum er schweigt, fängst du an, überall den Fehler bei dir zu suchen. Das ist gaslight-ing: "Es liegt sicher an mir. Ich bin zu sensibel. Ich bin zu anspruchsvoll." Dein Selbstwertgefühl erodiert.
 
 **Hypervigilanz**

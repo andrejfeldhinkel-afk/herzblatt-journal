@@ -37,7 +37,7 @@ Vielleicht war ein Elternteil emotional nicht erreichbar. Deine Mutter war immer
 
 Aber auch erwachsene Erfahrungen können Verlustangst auslösen. Eine unerwartete [Bindungsstil](/blog/avoidant-attachment-beziehung-guide)".
 
-Menschen mit diesem Bindungsstil brauchen konstante Nähe und Bestätigung. Sie werden von Trennung – auch kurzzeitig – angespannt. Wenn der Partner längere Zeit nicht antwortet, geraten sie in Panik. Der Grund: Das System, das dich als Baby mit der Mutter verband, funktioniert immer noch auf "höchster Alarmstufe."
+Menschen mit diesem [Bindungsstil](/bindungsstile/) brauchen konstante Nähe und Bestätigung. Sie werden von Trennung – auch kurzzeitig – angespannt. Wenn der Partner längere Zeit nicht antwortet, geraten sie in Panik. Der Grund: Das System, das dich als Baby mit der Mutter verband, funktioniert immer noch auf "höchster Alarmstufe."
 
 Es gibt gute Nachrichten: Du kannst deinen Bindungsstil heilen. Es erfordert Arbeit, aber es ist möglich.
 

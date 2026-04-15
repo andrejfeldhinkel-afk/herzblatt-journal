@@ -25,7 +25,7 @@ faq:
     answer: "Das Gegenteil ist ein sicherer Bindungsstil oder ein avoidanter Bindungsstil. Secure bedeutet, dass du mit dir selbst wohl bist und mit anderen in Nähe komfortabel bist. Avoidant bedeutet, dass du Nähe vermeidest und unabhängig bist (manchmal in einem dysfunktionalen Weg)."
 ---
 
-Du kennst das Gefühl wahrscheinlich zu gut. Du matchest mit jemandem auf einer Dating-App. Die erste Nachricht kommt. Und dein Gehirn geht in Overdrive. Dein Herz schlägt schneller. Du wünschst dir, dass diese Person dich mag. Mehr als du vielleicht solltest. Dieser Ratgeber ist für dich geschrieben — für Menschen mit ängstlichem Bindungsstil, die lieben wollen, aber von ihrer eigenen Angst blockiert werden.
+Du kennst das Gefühl wahrscheinlich zu gut. Du matchest mit jemandem auf einer Dating-App. Die erste Nachricht kommt. Und dein Gehirn geht in Overdrive. Dein Herz schlägt schneller. Du wünschst dir, dass diese Person dich mag. Mehr als du vielleicht solltest. Dieser Ratgeber ist für dich geschrieben — für Menschen mit ängstlichem [Bindungsstil](/bindungsstile/), die lieben wollen, aber von ihrer eigenen Angst blockiert werden.
 
 Der ängstliche Bindungsstil ist real, und er ist schmerzhaft. Aber — und das ist wichtig — er ist nicht dein Schicksal. Mit Bewusstsein und Arbeit kannst du zu einem sichereren Bindungsstil wachsen.
 
@@ -57,11 +57,11 @@ Das funktioniert nicht. Und das schafft eine Spirale: Je mehr du jagst, desto me
 
 ### Die roten Flaggen deines ängstlichen Systems
 
-Es gibt bestimmte Arten von Menschen und Verhaltensweisen, die deinen ängstlichen Bindungsstil aktivieren. Diese sind "Red Flags" für dich — nicht weil die andere Person unbedingt schlecht ist, sondern weil sie dein Trauma aktivieren.
+Es gibt bestimmte Arten von Menschen und Verhaltensweisen, die deinen ängstlichen Bindungsstil aktivieren. Diese sind "[Red Flags](/red-flags/)" für dich — nicht weil die andere Person unbedingt schlecht ist, sondern weil sie dein Trauma aktivieren.
 
 **Der Avoidant Partner:** Sie sind unabhängig, manchmal emotional nicht verfügbar, manchmal kalt. Sie respektieren Distanz und haben Schwierigkeiten mit Nähe. Für dich ist das ein perfekter Trigger. Weil sie dich unwichtig machen, jagst du sie. Und je mehr du jagst, desto mehr ziehen sie sich zurück. Das ist ein toxischer Tanz. Vermeid diese Menschen, wenn du arbeitest an deinem Bindungsstil.
 
-**Der Narzisst:** Sie manipulieren, kritisieren, geben selten echte Bestätigung. Aber sie sind attraktiv, charmant, faszinierend. Und dein ängstliches Gehirn denkt: "Wenn ich diese Person nur liebe genug, wird sie mich lieben." Das ist nicht wahr. Narzissten sind oft nicht fähig zu echtem Mitgefühl. Vermeid sie mit aller Kraft.
+**Der [Narzisst](/narzissmus/):** Sie manipulieren, kritisieren, geben selten echte Bestätigung. Aber sie sind attraktiv, charmant, faszinierend. Und dein ängstliches Gehirn denkt: "Wenn ich diese Person nur liebe genug, wird sie mich lieben." Das ist nicht wahr. Narzissten sind oft nicht fähig zu echtem Mitgefühl. Vermeid sie mit aller Kraft.
 
 **Der Drama-King oder die Drama-Queen:** Sie lieben das Drama, die Spannung, das emotionale Chaos. Das wird dein ängstliches System aktivieren. Du denkst, dass das Chaos Leidenschaft ist. Es ist nicht. Es ist Unsicherheit. Vermeid sie.
 
@@ -137,7 +137,7 @@ Ein sicherer Partner wird deine Gefühle schätzen. Ein unsicherer Partner wird 
 
 ## Die Hoffnung: Sicherer Bindungsstil ist möglich
 
-Die beste Nachricht ist, dass dein ängstlicher Bindungsstil nicht dein Endgame ist. Du bist nicht verdammt zu dieser Angst für immer.
+Die beste Nachricht ist, dass dein [ängstlicher Bindungsstil](/blog/aengstlicher-bindungsstil/) nicht dein Endgame ist. Du bist nicht verdammt zu dieser Angst für immer.
 
 Menschen ändern sich. Menschen heilen sich. Mit Zeit, mit Arbeit, mit dem richtigen Partner und mit therapeutischer Hilfe können Menschen vom ängstlichen zu einem sicheren Bindungsstil verschieben.
 
@@ -145,7 +145,7 @@ Es ist nicht schnell. Es ist nicht einfach. Aber es ist möglich.
 
 Manche Menschen heilen durch Therapie. Andere heilen durch einen Partner, der sicher ist und ihnen Tag für Tag zeigt, dass Liebe nicht ein Kampf ist. Wieder andere heilen durch eine Kombination beider.
 
-Ein sicherer Bindungsstil ist wirklich schön. Du kannst Nähe genießen, ohne dich verloren zu fühlen. Du kannst anderen Menschen vertrauen, ohne zu überanalysieren jede Aktion. Du kannst dich selbst vertrauen. Du weißt, dass wenn jemand dich verlässt, das nicht bedeutet, dass du es nicht wert bist. Es bedeutet einfach, dass die Personen nicht passen.
+Ein [sicherer Bindungsstil](/blog/sicherer-bindungsstil/) ist wirklich schön. Du kannst Nähe genießen, ohne dich verloren zu fühlen. Du kannst anderen Menschen vertrauen, ohne zu überanalysieren jede Aktion. Du kannst dich selbst vertrauen. Du weißt, dass wenn jemand dich verlässt, das nicht bedeutet, dass du es nicht wert bist. Es bedeutet einfach, dass die Personen nicht passen.
 
 Das ist es, worauf du hinarbeitest.
 

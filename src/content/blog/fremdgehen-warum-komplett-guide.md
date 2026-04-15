@@ -893,7 +893,7 @@ Nach der zweiten Trennung, entschied er, Therapie zu machen.
 
 Er arbeitete an:
 - Seinem Selbstwertgefühl (Warum brauchte er externe Bestätigung?)
-- Seiner Bindungsangst (Warum konnte er nicht committe?)
+- Seiner [Bindungsangst](/blog/bindungsangst-komplett-guide/) (Warum konnte er nicht committe?)
 - Seiner Kommunikation (Warum redete er nicht, statt zu betrügen?)
 
 4 Jahre später, verheiratet mit seiner Frau, sagt er: "Ich bin nicht tentation-free. Aber ich habe Tools, um mit Versuchung umzugehen. Und wichtiger, ich möchte nicht betrügen. Das ist die größte Veränderung."

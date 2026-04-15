@@ -684,7 +684,7 @@ Das ist einfacher. Ihr seid beide reif, beide wissen was ihr wollt.
 **Das ist eine andere Verantwortung:**
 
 1. **Erkenne deine Macht an.** Du hast finanzielle, erfahrungs-, und möglicherweise emotionale Macht. Nutze das nicht zu kontrollieren.
-2. **Sei sicher, dass du nicht nur Jugend jagst.** Das ist ein Red Flag bei dir selbst.
+2. **Sei sicher, dass du nicht nur Jugend jagst.** Das ist ein [Red Flag](/red-flags/) bei dir selbst.
 3. **Respektiere ihre/seine Autonomie aktiv.** Nicht nur "ich respektiere dich" – aktiv Raum geben für ihre/seine Entscheidungen, auch wenn du würdest anders wählen.
 4. **Sei offen über deine Zukunft.** Wenn du bald Ruhestand gehen wirst, sag es. Wenn du möglicherweise Gesundheitsprobleme haben wirst, seien Sie bereit, das zu diskutieren.
 

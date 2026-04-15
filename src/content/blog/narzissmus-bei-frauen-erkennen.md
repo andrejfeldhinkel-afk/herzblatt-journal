@@ -24,7 +24,7 @@ faq:
     answer: "Sie wird dich als herzlos, unsensibel oder sogar misogyn darstellen. Sie wird andere gegen dich aufbringen. Sie wird alles dementieren. Konfrontation funktioniert nie bei Narzissten."
 ---
 
-„Narzisstisch" — dieses Wort fällt oft, wenn es um Männer geht. Aber ich will mit einem Mythos aufräumen: Narzissmus bei Frauen ist genauso real, genauso schädlich und genauso häufig. Es sieht nur anders aus.
+„Narzisstisch" — dieses Wort fällt oft, wenn es um Männer geht. Aber ich will mit einem Mythos aufräumen: [Narzissmus](/narzissmus/) bei Frauen ist genauso real, genauso schädlich und genauso häufig. Es sieht nur anders aus.
 
 Eine narzisstische Frau ist nicht immer die laute, dominante Persona, die du erwartest. Sie kann sehr charmant sein. Sehr liebevoll wirken. Sehr an dir interessiert erscheinen — solange du ihr nutzt.
 
@@ -106,7 +106,7 @@ Alles, was schiefgeht, ist nicht ihre Schuld. Sie wurde verletzt. Sie wurde unge
 
 Und wenn du es wirst merkst, dass du eigentlich diejenige bist, die verletzt wurde, bist du herzlos, weil du dich nicht um ihre Gefühle kümmerst.
 
-Das ist Gaslighting gepaart mit Opfer-Spielen. Sie dreht die Realität so, dass SIE die Opfer sind, und du der Schuldige, egal was tatsächlich passiert ist.
+Das ist [Gaslighting](/blog/was-ist-gaslighting/) gepaart mit Opfer-Spielen. Sie dreht die Realität so, dass SIE die Opfer sind, und du der Schuldige, egal was tatsächlich passiert ist.
 
 Mit der Zeit zweifeln Menschen an ihrer eigenen Wahrnehmung. Das ist die Absicht.
 
@@ -134,7 +134,7 @@ Du fühlt dich gesehen. Du denkst, das ist echte Liebe.
 
 Dann, nach einigen Wochen oder Monaten, wenn du nicht mehr ihre Erwartungen erfüllst, flippt es um. Du bist jetzt das Problem. Du bist nicht genug. Du bist wie all die anderen.
 
-Das ist der Zyklus: Love Bombing, Idealisierung, dann schnelle Devalue, wenn du nicht perfekt bist. Repeat.
+Das ist der Zyklus: [Love Bombing](/blog/lovebombing-phasen/), Idealisierung, dann schnelle Devalue, wenn du nicht perfekt bist. Repeat.
 
 Das ist nicht Liebe. Das ist Suchtverhalten gepaart mit Manipulation.
 

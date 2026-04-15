@@ -130,7 +130,7 @@ Viertens sei spezifisch. Anstatt allgemein zu sein, gib konkrete Beispiele. "Wen
 
 Fünftens teile deine Bedürfnisse mit. "Ich brauche dich, um mich anzusehen, wenn ich spreche. Ich brauche, dass du meine Gefühle validierst, auch wenn du nicht einverstanden bist. Ich brauche, dass du initiativ zeigst, mich zu kümmern." Sei klar, was du brauchst.
 
-Sechstens sei bereit, keine Veränderung zu hören. Das ist das Schwierigste. Dein Partner könnte verteidigend werden, gaslighting betreiben ("Das ist nicht wahr, ich kümmere mich um dich") oder einfach zustimmen, ohne etwas zu ändern. Wenn das passiert, musst du eine schwierige Entscheidung treffen.
+Sechstens sei bereit, keine Veränderung zu hören. Das ist das Schwierigste. Dein Partner könnte verteidigend werden, [gaslighting](/blog/was-ist-gaslighting/) betreiben ("Das ist nicht wahr, ich kümmere mich um dich") oder einfach zustimmen, ohne etwas zu ändern. Wenn das passiert, musst du eine schwierige Entscheidung treffen.
 
 ## Die Rolle von Therapie und professioneller Hilfe
 

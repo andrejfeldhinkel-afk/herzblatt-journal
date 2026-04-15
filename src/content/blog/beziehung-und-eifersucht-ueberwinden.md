@@ -136,7 +136,7 @@ Manchmal ist chronische Eifersucht mit tieferem Trauma verbunden. Wenn du in der
 
 In solchen Fällen ist es wichtig zu verstehen, dass deine gegenwärtige Beziehung nicht die gleiche ist wie deine Vergangenheit. Dein aktueller Partner ist nicht dein Ex. Dein Partner ist nicht dein Elternteil. Das Gehirn weiß das vielleicht nicht, wenn es durch frühere Verletzungen aktiviert wird, aber das ist die Wahrheit, und mit Arbeit und Zeit kannst du neue neuronale Verbindungen bilden, die das verstehen.
 
-Eine Trauma-fokussierte Therapie, wie EMDR (Eye Movement Desensitization and Reprocessing) oder somatic experiencing, kann besonders wirksam bei der Behandlung von Eifersucht sein, die in älteren Traumata verwurzelt ist.
+Eine Trauma-fokussierte Therapie, wie [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) (Eye Movement Desensitization and Reprocessing) oder somatic experiencing, kann besonders wirksam bei der Behandlung von Eifersucht sein, die in älteren Traumata verwurzelt ist.
 
 ## Eifersucht und Kommunikation: Ein delikates Gleichgewicht
 

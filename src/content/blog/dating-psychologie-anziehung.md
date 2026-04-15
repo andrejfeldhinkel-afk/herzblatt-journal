@@ -83,7 +83,7 @@ Das erklärt, warum manche Menschen, die du anfangs nicht "interessant" fandest,
 
 Interessanterweise gibt es hier auch die **Gain-Loss-Theorie**, entdeckt von Elliot Aronson. Sie besagt, dass wir noch stärkere Anziehung entwickeln, wenn jemand seine Meinung über uns ändert — zum Positiven. Wenn dich jemand zuerst neutral behandelt, dann plötzlich warm und liebevoll, ist die Anziehung stärker, als wenn diese Person dich von Anfang an so behandelt hätte.
 
-Das ist auch der Grund, warum **Hot and Cold Spielchen** tatsächlich funktionieren können (obwohl sie nicht empfohlen sind): Die Kombination aus Distanz und plötzlicher Nähe erzeugt intensive Gefühle. Aber aufgepasst — diese Gefühle können auch zu **Trauma Bonding** führen, worüber wir später sprechen.
+Das ist auch der Grund, warum **Hot and Cold Spielchen** tatsächlich funktionieren können (obwohl sie nicht empfohlen sind): Die Kombination aus Distanz und plötzlicher Nähe erzeugt intensive Gefühle. Aber aufgepasst — diese Gefühle können auch zu **[Trauma Bonding](/blog/trauma-bonding-loesen/)** führen, worüber wir später sprechen.
 
 ### 4. Physische Attraktivität: Der Halo-Effekt und die Macht der Symmetrie
 
@@ -209,7 +209,7 @@ Wenn die Wissenschaft so klar ist — warum verlieben sich intelligente Menschen
 
 Die Antwort liegt teilweise in unserer Kindheit.
 
-Die **Bindungstheorie** von John Bowlby besagt, dass die Art, wie unsere Eltern uns in der Kindheit behandelt haben, prägt, wen wir später anziehend finden. Es gibt vier Bindungsstile:
+Die **Bindungstheorie** von John Bowlby besagt, dass die Art, wie unsere Eltern uns in der Kindheit behandelt haben, prägt, wen wir später anziehend finden. Es gibt vier [Bindungsstile](/bindungsstile/):
 
 **Sicher gebunden:** Du hattest emotional verfügbare Eltern. Du wirst wahrscheinlich zu sicher gebundenen Partnern hingezogen, die auch emotional verfügbar sind. Das ist optimal.
 

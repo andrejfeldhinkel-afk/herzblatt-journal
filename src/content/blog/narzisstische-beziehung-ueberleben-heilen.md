@@ -74,7 +74,7 @@ Wenn du in einer narzisstischen Beziehung bist, passiert das Gleiche immer wiede
 
 ### Phase 1: [Komplimente](/blog/komplimente-fuer-maenner). Er will ständig Zeit mit dir verbringen. Er redet von der Zukunft: "Ich weiß, dass dich jemand sein werde, den ich liebe."
 
-Das ist nicht nur Liebe. Das ist Love Bombing.
+Das ist nicht nur Liebe. Das ist [Love Bombing](/blog/lovebombing-phasen/).
 
 Ein Narzisst fesselt seine Partner durch intensive Aufmerksamkeit und Bewunderung. Er möchte, dass du dich speziell fühlst. Das schaffst eine Abhängigkeit: Du wirst süchtig nach dieser Aufmerksamkeit.
 
@@ -116,7 +116,7 @@ Es ist wie Spielautomaten. Du weißt nicht, wann die Belohnung kommt, also spiel
 
 Irgendwann kann die Devaluation nicht länger geheim gehalten werden. Du fragst, ob du die Beziehung beenden sollst. Du sagst vielleicht: "Ich glaube, wir sollten getrennte Wege gehen."
 
-Das ist, wenn Hoovering passiert. (Der Begriff kommt vom Staubsauger-Marke – wie ein Staubsauger dich zurücksaugen.)
+Das ist, wenn [Hoovering](/blog/hoovering-narzissmus-erkennen/) passiert. (Der Begriff kommt vom Staubsauger-Marke – wie ein Staubsauger dich zurücksaugen.)
 
 Plötzlich ist dein Partner wieder liebevoll. Er erinnert dich an die Zeit, als es gut war. "Ich liebe dich. Ich kann ohne dich nicht leben. Ich werde mich ändern."
 
@@ -126,7 +126,7 @@ Also gibst du ihm eine zweite Chance. (Oder eine zehnte Chance.)
 
 Und dann, nach einer Weile... der Zyklus beginnt wieder. Love Bombing, dann Devaluation, dann Hoovering.
 
-Das nennt sich der Trauma-Bindungs-Zyklus, und er ist der Grund, warum es so schwer ist, eine narzisstische Beziehung zu verlassen.
+Das nennt sich der Trauma-Bindungs-Zyklus, und er ist der Grund, warum es so schwer ist, eine [narzisstische Beziehung](/narzissmus/) zu verlassen.
 
 ![Grafik zeigt den Zyklus: Love Bombing -> Devaluation -> Hoovering -> Zurück zu Love Bombing](/images/blog/inline/narzisstische-2.webp)
 
@@ -220,7 +220,7 @@ Aber das ist nicht immer sicher oder möglich. Wenn ihr verheiratet seid, wenn i
 
 In der Zwischenzeit, wie schützt du dich?
 
-Die Antwort ist die Grey Rock Methode.
+Die Antwort ist die [Grey Rock](/blog/grey-rock-methode-narzisst-guide/) Methode.
 
 Die Idee ist, dich selbst zu machen wie einen grauen Stein – langweilig, Unkurativ, Nicht-Reaktiv. Der Narzisst wird nicht reaktiviert bekommen. Also wird er dich weniger belästigen.
 
@@ -354,7 +354,7 @@ Nicht weil du kaputt bist. Sondern weil eine narzisstische Beziehung tiefe, tief
 
 ### Was Art von Therapie?
 
-**Trauma-Therapie:** Ein Therapeut, der sich auf Trauma spezialisiert (EMDR oder somatic experiencing ist großartig)
+**Trauma-Therapie:** Ein Therapeut, der sich auf Trauma spezialisiert ([EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) oder somatic experiencing ist großartig)
 
 **Kognitive Verhaltenstherapie (CBT):** Hilft dir, die verdrehten Gedankenmuster zu brechen
 

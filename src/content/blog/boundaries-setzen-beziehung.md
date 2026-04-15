@@ -43,7 +43,7 @@ Manche Kinder erlebten Zurückweisung, wenn sie ihre Grenzen setzten. Wenn du al
 
 Andere erlebten emotional emotional abhängige Eltern. Ein Elternteil vertraute sich dir an, belastete dich mit seinen Problemen, brauchte dich emotionell. Du lerntest früh, dass deine Aufgabe darin besteht, den Elternteil zu betreuern, zu beruhigen und zu stabilisieren. Dies ist ein Muster, das sich oft in Beziehungen wiederholt – du wählst Partner, die dich "brauchen", und du verlierst dich selbst in der Rolle des Retters.
 
-Bindungsstile spielen auch eine große Rolle. Menschen mit ängstlich gebundenen Mustern haben Angst vor Ablehnung und setzen keine Grenzen, weil sie fürchten, dass dies zum Verlust der Beziehung führt. Menschen mit vermeidend gebundenen Mustern haben bereits Grenzen gesetzt – vielleicht zu rigide – und haben sich selbst emotional isoliert.
+[Bindungsstile](/bindungsstile/) spielen auch eine große Rolle. Menschen mit ängstlich gebundenen Mustern haben Angst vor Ablehnung und setzen keine Grenzen, weil sie fürchten, dass dies zum Verlust der Beziehung führt. Menschen mit vermeidend gebundenen Mustern haben bereits Grenzen gesetzt – vielleicht zu rigide – und haben sich selbst emotional isoliert.
 
 ## Die Kosten von fehlenden Grenzen
 

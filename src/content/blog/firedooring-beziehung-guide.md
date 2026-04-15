@@ -155,7 +155,7 @@ Wähle den Template, der sich am authentischsten für dich anfühlt. Das Wichtig
 
 ## Der Firedooring-Test: Wie du sicher weißt, dass du firedoort wirst
 
-Es gibt einen Weg, um sicherzustellen, dass du wirklich firedoort wirst, statt einfach zu paranoid oder bedürftig zu sein. Der Test heißt der "No Contact Test."
+Es gibt einen Weg, um sicherzustellen, dass du wirklich firedoort wirst, statt einfach zu paranoid oder bedürftig zu sein. Der Test heißt der "[No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/) Test."
 
 Hier ist wie man es macht: Stoppe alle Initiationen. Schreib nicht zuerst. Fang keine Conversations an. Mach keine Pläne. Ganz einfach, warte. Set dir selbst ein Ziel – vielleicht eine Woche oder zwei Wochen – und sehe, ob die andere Person zu dir kommt.
 

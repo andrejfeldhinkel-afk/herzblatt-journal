@@ -89,7 +89,7 @@ Wenn du Online-Dating nutzt:
 
 - Neue, gute Fotos. Professionelle Fotos. Fotos von dir, die vertrauenswürdig und geöffnet aussehen.
 - Ein ehrliches, nicht zu langes Profil. Schreib wer du bist. Was du magst. Was dir wichtig ist.
-- Keine Bitterkeit über die Vergangenheit. Das ist eine Red Flag.
+- Keine Bitterkeit über die Vergangenheit. Das ist eine [Red Flag](/red-flags/).
 - Ein wenig Humor ist großartig.
 
 Mach dein Profil wie du möchtest gesehen werden.

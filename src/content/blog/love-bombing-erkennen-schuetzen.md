@@ -24,7 +24,7 @@ Es fühlt sich an wie ein Märchen. Du triffst jemanden und plötzlich bist du d
 
 Es ist intensiv. Es ist überwältigend. Es ist verführerisch.
 
-Es heißt Love Bombing. Und es ist eine der subtilsten und schmerzhaftesten Formen der emotionalen Manipulation, die es gibt.
+Es heißt [Love Bombing](/blog/lovebombing-phasen/). Und es ist eine der subtilsten und schmerzhaftesten Formen der emotionalen Manipulation, die es gibt.
 
 Die Tragödie von Love Bombing ist, dass es sich wie echte Liebe anfühlt. Deshalb ist es so gefährlich. Dein Gehirn wird geflutet mit Dopamin und Oxytocin - die gleichen Chemikalien, die in echten Liebesbeziehungen entstehen. Aber das zugrundeliegende Muster ist manipulativ und kontrollerend.
 
@@ -108,7 +108,7 @@ Das ist nicht Liebe, das ist Kontrolle.
 
 Du sagst: "Das ist mir zu schnell." Der Love Bomber antwortet: "Du vertraust mir nicht. Du willst unsere Liebe begrenzen. Das ist ein Problem mit dir."
 
-Dein Unbehagen wird umgekehrt. Jetzt fragst du dich: "Bin ich zu vorsichtig? Bin ich zu vertrauenslos?" Das ist Gaslighting. Dein Unbehagen ist berechtigt.
+Dein Unbehagen wird umgekehrt. Jetzt fragst du dich: "Bin ich zu vorsichtig? Bin ich zu vertrauenslos?" Das ist [Gaslighting](/blog/was-ist-gaslighting/). Dein Unbehagen ist berechtigt.
 
 **Warnsignal 6: Widerspruchliche Signale**
 

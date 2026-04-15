@@ -64,7 +64,7 @@ Ein Partner, der das respektiert, wird akzeptieren. Ein Partner, der das nicht t
 
 ## Das öffentliche Teilen von privaten Momenten
 
-Dein Partner macht ein Bild von dir, das du nicht möchtest, dass es die Welt sieht, und postet es. Das ist ein KLARES Red Flag. Das ist ein Grenzenproblem.
+Dein Partner macht ein Bild von dir, das du nicht möchtest, dass es die Welt sieht, und postet es. Das ist ein KLARES [Red Flag](/red-flags/). Das ist ein Grenzenproblem.
 
 Jede Person sollte das Recht haben zu entscheiden, welche Bilder von ihnen geteilt werden. Wenn dein Partner das nicht respektiert, ist das nicht liebevoll – das ist manipulativ.
 

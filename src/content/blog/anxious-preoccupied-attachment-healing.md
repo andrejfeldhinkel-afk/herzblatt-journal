@@ -42,7 +42,7 @@ Es ist nicht Unsicherheit im klassischen Sinne. Es ist nicht, dass du nicht selb
 
 ### Das neurologische Fundament
 
-Bindung ist ein neurologisch eingebettetes System. Es wurde in der Kindheit geprägt, basierend auf wie konsistent deine primären Bezugspersonen waren. Der Psychologe John Bowlby hat das erforscht: Wenn deine Eltern konsistent, verfügbar und responsiv waren, entwickelst du einen "sicheren" Bindungsstil. Du lernst: Wenn ich Bedarf habe, kümmern sich Leute um mich. Ich bin wertvoll. Die Welt ist relativ sicher.
+Bindung ist ein neurologisch eingebettetes System. Es wurde in der Kindheit geprägt, basierend auf wie konsistent deine primären Bezugspersonen waren. Der Psychologe John Bowlby hat das erforscht: Wenn deine Eltern konsistent, verfügbar und responsiv waren, entwickelst du einen "sicheren" [Bindungsstil](/bindungsstile/). Du lernst: Wenn ich Bedarf habe, kümmern sich Leute um mich. Ich bin wertvoll. Die Welt ist relativ sicher.
 
 Aber wenn deine Eltern inkonsistent waren – manchmal verfügbar, manchmal nicht – entwickelst du einen Anxious-Preoccupied Stil. Dein Gehirn lernt: Liebe ist unvorhersehbar. Ich muss ständig prüfen. Wenn ich nicht aufpasse, verliere ich die Verbindung.
 

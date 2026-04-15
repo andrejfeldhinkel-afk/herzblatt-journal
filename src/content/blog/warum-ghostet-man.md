@@ -15,7 +15,7 @@ keywords: ["warum ghosten menschen", "ghosting psychologie", "warum ghostet er"]
 ---
 Du hattest gerade noch eine tolle Unterhaltung. Die Chemie war spürbar. Und dann — Stille. Keine Nachrichten, keine Erklärung, kein Echo. [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) ghostet am häufigsten?
 
-Menschen mit unsicher-vermeidendem Bindungsstil sind häufiger Ghoster. Sie haben Angst vor Nähe und Verbindlichkeit, also verschwinden sie, wenn es ernst wird. Menschen mit anxious-ambivalentem Bindungsstil ghosten weniger, aber wenn sie es tun, dann aus Impulsivität oder Drama.
+Menschen mit unsicher-vermeidendem [Bindungsstil](/bindungsstile/) sind häufiger Ghoster. Sie haben Angst vor Nähe und Verbindlichkeit, also verschwinden sie, wenn es ernst wird. Menschen mit anxious-ambivalentem Bindungsstil ghosten weniger, aber wenn sie es tun, dann aus Impulsivität oder Drama.
 
 Menschen mit sicherem Bindungsstil ghosten selten, weil sie mit Konflikten und direkter Kommunikation umgehen können. Sie verstehen, dass eine ehrliche Nachricht der anderen Person würdevoller ist als Stille.
 
@@ -23,7 +23,7 @@ Das heißt nicht, dass jeder mit vermeidendem Bindungsstil dich ghosten wird. Ab
 
 ## Die Wahrheit: Es sagt mehr über ihn als über dich
 
-Das Wichtigste, was du verstehen musst: Ghosting sagt fast nichts über dich und sehr viel über ihn. Ein jemand, der dich ghostet, hat ein Problem mit Kommunikation, Konfrontation oder emotionaler Reife. Das ist sein Problem. Punkt.
+Das Wichtigste, was du verstehen musst: [Ghosting](/blog/ghosting-komplett-guide/) sagt fast nichts über dich und sehr viel über ihn. Ein jemand, der dich ghostet, hat ein Problem mit Kommunikation, Konfrontation oder emotionaler Reife. Das ist sein Problem. Punkt.
 
 Du könntest die perfekte, liebevolle, unkomplizierte Person sein, und jemand würde dich trotzdem ghosten, weil es ihm an den Fähigkeiten fehlt, anders zu handeln. Ghosting ist nicht deine Schuld. Nicht dein Aussehen, nicht dein Verhalten, nicht etwas, das du hättest tun oder nicht tun sollen.
 

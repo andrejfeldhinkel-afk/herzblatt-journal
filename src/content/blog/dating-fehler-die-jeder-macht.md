@@ -54,7 +54,7 @@ Das ist naiv.
 
 Menschen ändern sich nicht, weil du hoffst, dass sie sich ändern. Sie ändern sich, wenn sie einen Grund haben, sich zu ändern, und dann tun sie es für sich selbst.
 
-Red Flags sind Warnzeichen. Sie sind der Grund, warum deine Intuition dir sagt: "Nein, das ist nicht gut."
+[Red Flags](/red-flags/) sind Warnzeichen. Sie sind der Grund, warum deine Intuition dir sagt: "Nein, das ist nicht gut."
 
 Was sind Red Flags? Eine Person, die nicht in der Lage ist, Verantwortung zu übernehmen. Eine Person, die andere manipuliert. Eine Person, die dich isolieren will von deinen Freunden. Eine Person, die deine Grenzen nicht respektiert.
 

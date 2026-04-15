@@ -23,7 +23,7 @@ faq:
     answer: "Ja, großer Unterschied. Beim Langsamerwerden merkt man die nachlassende Kommunikation: längere Antwortzeiten, kürzere Nachrichten, weniger Initiative. Beim Ghosting ist der Bruch plötzlich — eine Person verschwindet einfach komplett, ohne Erklärung oder Vorwarnung."
 ---
 
-Du wartest auf eine Antwort. Die letzte Nachricht war gestern. Dann zwei Tage Stille. Eine Woche. Und irgendwann fragst du dich: Ab wann ist das eigentlich Ghosting?
+Du wartest auf eine Antwort. Die letzte Nachricht war gestern. Dann zwei Tage Stille. Eine Woche. Und irgendwann fragst du dich: Ab wann ist das eigentlich [Ghosting](/blog/ghosting-komplett-guide/)?
 
 Das ist eine wichtigere Frage, als sie auf den ersten Blick wirkt. Denn die Antwort bestimmt, wie du mit dem Schmerz umgehst — ob du es als Rücksichtslosigkeit siehst oder als "sie sind einfach nicht interessiert".
 

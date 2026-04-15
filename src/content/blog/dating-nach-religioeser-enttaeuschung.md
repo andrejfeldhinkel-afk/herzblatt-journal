@@ -84,7 +84,7 @@ Schaue nach:
 
 - Säkulare Therapie
 
-- EMDR (besonders effektiv für Trauma)
+- [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) (besonders effektiv für Trauma)
 
 - Trauma-spezialisierte Therapeuten
 

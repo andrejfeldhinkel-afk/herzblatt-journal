@@ -337,7 +337,7 @@ Weitere Informationen findest du bei Therapie Portal: [Therapie Portal](https://
 
 ## Honeymoon-Phase vs. [Love Bombing](/blog/love-bombing-erkennen-schuetzen) — Der wichtige Unterschied
 
-Bevor wir weitergehen, müssen wir über etwas Kritisches sprechen: Love Bombing.
+Bevor wir weitergehen, müssen wir über etwas Kritisches sprechen: [Love Bombing](/blog/lovebombing-phasen/).
 
 Die Honeymoon-Phase ist natürlich und biologisch. Aber Love Bombing ist etwas anderes völlig. Es ist manipulativ. Und manchmal ist es schwer, den Unterschied zu sehen, wenn man am Empfang des Bombardements ist.
 

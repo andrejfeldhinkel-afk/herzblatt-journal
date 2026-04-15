@@ -68,7 +68,7 @@ Das ist der Punkt, an dem sich ein Mann wirklich [Bindungsstil](/blog/avoidant-a
 
 **Unsichere-ambivalente Bindung:** Diese Männer sind hin- und hergerissen. Sie klammern manchmal an dir fest, manchmal distanzieren sich. Das ist verwirrend, aber es bedeutet, dass sie sich verlieben, aber große Angst vor Ablehnung haben.
 
-Wenn du einen Mann mit unsicherem Bindungsstil kennenlernst, erwarte nicht, dass er sich wie ein sicher gebundener Mann verhält. Das ist unfair zu ihm und unrealistisch für dich.
+Wenn du einen Mann mit unsicherem [Bindungsstil](/bindungsstile/) kennenlernst, erwarte nicht, dass er sich wie ein sicher gebundener Mann verhält. Das ist unfair zu ihm und unrealistisch für dich.
 
 ## Die Rolle des Status und der sozialen Anerkennung
 

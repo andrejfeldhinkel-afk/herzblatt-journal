@@ -118,7 +118,7 @@ Wenn deine Angst dein Leben wesentlich einschränkt – deine Beziehungen zerbra
 
 Auch wenn du merkst, dass Selbsthilfe nicht reicht. Nach drei Monaten intensiver Arbeit solltest du Verbesserungen sehen. Wenn nicht, ist ein Therapeut die nächste Schritt.
 
-Es gibt verschiedene Therapieansätze. Emotionally Focused Therapy (EFT) ist besonders wirksam für Beziehungsprobleme. Somatic therapies arbeiten direkt mit deinem Körper. EMDR kann bei Traumas hilfreich sein. Ein guter Therapeut kann dir helfen herauszufinden, welcher Ansatz für dich richtig ist.
+Es gibt verschiedene Therapieansätze. Emotionally Focused Therapy (EFT) ist besonders wirksam für Beziehungsprobleme. Somatic therapies arbeiten direkt mit deinem Körper. [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) kann bei Traumas hilfreich sein. Ein guter Therapeut kann dir helfen herauszufinden, welcher Ansatz für dich richtig ist.
 
 ## Häufige Triggerpunkte und wie man sie navigiert
 

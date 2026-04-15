@@ -147,7 +147,7 @@ Diese Entscheidung ist schwierig. Sie wird wehtun. Es gibt keine perfekte Lösun
 
 Aber wenn ihr es mit Mitgefühl für den Hund macht – nicht für euch – habt ihr die beste Chance, dass das Tier nicht noch mehr als durch die Trennung selbst verletzt wird.
 
-Ein Hund kann eine Trennung verarbeiten. Was er nicht verarbeiten kann, ist ignoriert zu werden oder zwischen zwei Menschen zu pendeln, die bitter sind.
+Ein Hund kann eine [Trennung verarbeiten](/trennung/). Was er nicht verarbeiten kann, ist ignoriert zu werden oder zwischen zwei Menschen zu pendeln, die bitter sind.
 
 Macht die beste Entscheidung für den Hund. Dann bekommt ihr beide die Chance, voranzugehen.
 

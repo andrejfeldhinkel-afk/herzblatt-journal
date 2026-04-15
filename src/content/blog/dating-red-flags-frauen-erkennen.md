@@ -29,7 +29,7 @@ faq:
 
 Du kennst das Gefühl: Du triffst eine Frau, sie ist hübsch, witzig, intelligent. Du möchtest sie daten. Aber dann passieren Dinge. Kleine Dinge zuerst. Sie ist gemein zu dir, aber nur ein bisschen. Sie lügt, aber nur kleine Lügen. Sie manipuliert, aber nur subtil. Und plötzlich fragst du dich: Warum bin ich in dieser Beziehung?
 
-Das Problem ist, dass Männer oft Red Flags ignorieren, besonders wenn die Frau attraktiv ist. Aber Schönheit ist kein Grund, toxisches Verhalten zu tolerieren. In diesem Artikel schauen wir uns 20 Warnsignale an, die du nicht ignorieren solltest.
+Das Problem ist, dass Männer oft [Red Flags](/red-flags/) ignorieren, besonders wenn die Frau attraktiv ist. Aber Schönheit ist kein Grund, toxisches Verhalten zu tolerieren. In diesem Artikel schauen wir uns 20 Warnsignale an, die du nicht ignorieren solltest.
 
 ## 1. Sie ist grausam zu anderen
 

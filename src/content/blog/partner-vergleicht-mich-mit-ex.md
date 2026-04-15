@@ -70,7 +70,7 @@ Das ist das Gefährlichste. Der Partner nutzt den Vergleich, um dich klein zu ma
 
 Das Zeichen dafür ist: Es ist absichtlich. Der Partner sagt es, wenn ihr streitet. Es ist in der Öffentlichkeit. Es hat einen Muster: "Du machst X nicht, und das ist das Problem." Es ist nie liebevoll gemeint.
 
-Wenn das der Fall ist – das ist ein großes Red Flag.
+Wenn das der Fall ist – das ist ein großes [Red Flag](/red-flags/).
 
 ## Die emotionale Auswirkung
 
@@ -179,7 +179,7 @@ Wenn der Partner das nicht geben kann – das ist sein/ihr Verlust, nicht deiner
 **Lesetipps:**
 - [Emotional sicherer Raum](/blog/emotional-safe-space-beziehung/)
 - [Red Flags in Beziehungen](/blog/beziehung-geheimhaltung-verstecken/)
-- [[kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) verbessern](/blog/liebessprachen-test-anleitung/)## Weiterlesen
+- [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) verbessern## Weiterlesen
 
 - [Partner kritisiert mich ständig: Wie reagiere ich richtig?](/blog/partner-kritisiert-mich-staendig/)
 - [Partner will [offene Beziehung](/blog/offene-beziehung-regeln-guide): Was jetzt?](/blog/partner-will-offene-beziehung/)

@@ -23,7 +23,7 @@ Manchmal ist emotionale Erpressung so subtil, dass du sie als normale Beziehungs
 
 **"Ich kümmere mich nur um dich."** Wenn ein Partner alle deine Entscheidungen kontrolliert – was du trägst, mit wem du dich triffst, wie du arbeitest – und das alles unter dem Deckmantel von "Ich möchte das Beste für dich", ist das oft Erpressung. Die versteckte Botschaft: "Du schuldest mir Gehorsam, weil ich dich liebe."
 
-**"Das Problem bist du."** Nach jedem Streit behauptet er, dass dein Problem deine Überempfindlichkeit oder deine Vergangenheit ist. Er akzeptiert keine Verantwortung. Das ist nicht nur Erpressung, das ist auch Gaslighting. Es macht dich verrückt, weil du langsam anfängst zu glauben, dass dich verrückt bist.
+**"Das Problem bist du."** Nach jedem Streit behauptet er, dass dein Problem deine Überempfindlichkeit oder deine Vergangenheit ist. Er akzeptiert keine Verantwortung. Das ist nicht nur Erpressung, das ist auch [Gaslighting](/blog/was-ist-gaslighting/). Es macht dich verrückt, weil du langsam anfängst zu glauben, dass dich verrückt bist.
 
 **"Ich kann das nicht ertragen."** Wenn der Partner emotional zusammenbricht, wenn du eine grenzwertige Entscheidung triffst, übernimmst du schnell wieder die emotionale Verantwortung für ihn. "Okay, ich mache es nicht. Ich sehe, dass du nicht mit meiner Entscheidung umgehen kannst." Das ist ein kluger emotionaler Erpressungstrick.
 

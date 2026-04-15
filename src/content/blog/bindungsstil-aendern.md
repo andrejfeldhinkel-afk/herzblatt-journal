@@ -49,7 +49,7 @@ Die Neurowissenschaft ist hier eindeutig.
 
 Das Gehirn ist neuroplastisch. Das bedeutet: Es kann sich verändern, egal wie alt du bist. Besonders das limbische System — der emotionale Teil — kann neue Muster lernen. Das ist nicht einfach, aber es ist möglich.
 
-Eine Studie aus 2015 zeigte: Menschen mit ängstlichem Bindungsstil, die Therapy machten (besonders Emotionally Focused Therapy), zeigten messbare Veränderungen in ihrer Gehirnaktivität. Ihre Reaktion auf Trennungsstress wurde weniger intensiv.
+Eine Studie aus 2015 zeigte: Menschen mit ängstlichem [Bindungsstil](/bindungsstile/), die Therapy machten (besonders Emotionally Focused Therapy), zeigten messbare Veränderungen in ihrer Gehirnaktivität. Ihre Reaktion auf Trennungsstress wurde weniger intensiv.
 
 Eine andere Studie mit vermeidenden Personen zeigte: Mit regelmäßiger Praxis in emotionaler Kommunikation und Nähe zeigten sie messbare Rückgänge in Vermeidung.
 
@@ -71,7 +71,7 @@ Das Benennen ist der erste Schritt raus aus unbewusstem Handeln.
 
 ### Schritt 2: Die Trigger verstehen
 
-Bindungsangst ist nicht einfach "da". Sie wird ausgelöst.
+[Bindungsangst](/blog/bindungsangst-komplett-guide/) ist nicht einfach "da". Sie wird ausgelöst.
 
 Für ängstliche Menschen: Was triggert dich? Eine Nachricht, die nicht kommt? Eine andere Person, die dein Partner mag? Ein Plan, der sich ändert?
 
@@ -101,7 +101,7 @@ Es gibt verschiedene wirksame Ansätze:
 
 **Attachment-Based Family Therapy:** Wenn du mit einem Partner arbeitest, kann ein Therapeut euch beide unterstützen.
 
-**EMDR (Eye Movement Desensitization and Reprocessing):** Das ist wirksam für Bindungstrauma und alte Wunden.
+**[EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) (Eye Movement Desensitization and Reprocessing):** Das ist wirksam für Bindungstrauma und alte Wunden.
 
 **Körperorientierte Therapie:** Weil Bindungsangst im Körper gespeichert ist, nicht nur im Geist. Methoden wie Somatic Experiencing können helfen.
 
@@ -174,7 +174,7 @@ Das schwierigste Szenario: Dein Partner will nicht an sich arbeiten und aktiv ve
 Es gibt Fälle, wann Veränderung schwerer ist:
 
 - **Komplexes Trauma:** Wenn dein Bindungsstil aus schwerem Trauma kommt (Missbrauch, Verlust, Krieg), braucht es spezialisierte Therapie.
-- **Persönlichkeitsstörungen:** Wenn Bindungsangst sich zu einer Persönlichkeitsstörung entwickelt hat (z.B. Borderline, Narzissmus), ist es komplizierter.
+- **Persönlichkeitsstörungen:** Wenn Bindungsangst sich zu einer Persönlichkeitsstörung entwickelt hat (z.B. Borderline, [Narzissmus](/narzissmus/)), ist es komplizierter.
 - **Aktuelle Retraumatisierung:** Wenn dein Partner dich aktiv verletzt (emotional oder körperlich), kann dein Nervensystem nicht heilen — zu viel akuter Stress.
 
 In diesen Fällen ist Einzeltherapie oft wichtiger als die Beziehung. Manchmal musst du gehen, um zu heilen.

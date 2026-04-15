@@ -278,7 +278,7 @@ Es gibt viele evidenzbasierte Therapieformen für Trauma. Wie unterscheidet sich
 | Therapieform | Fokus | Verarbeitung | Geschwindigkeit | Sicherheit | Beste für |
 |---|---|---|---|---|---|
 | **Somatic Experiencing** | Körper & Nervensystem | Langsame Titration, Entladung | Mittel-Langsam | Sanft, gering Überflutung | Komplexes Trauma, Bindungstrauma |
-| **EMDR** | Bilaterale Stimulation | Augenbewegungen + Erinnerung | Schneller | Wirksam, aber intensiver | PTSD, Einzeltrauma |
+| **[EMDR](/blog/emdr-beziehungstrauma-heilen-guide/)** | Bilaterale Stimulation | Augenbewegungen + Erinnerung | Schneller | Wirksam, aber intensiver | PTSD, Einzeltrauma |
 | **IFS (Internal Family Systems)** | Innere Teile & Subsysteme | Arbeit mit inneren Stimmen | Mittel | Liebevoll, orientiert auf Ressourcen | Komplexes Trauma, innere Zerrissenheit |
 | **Schematherapie** | Alte Muster & Glaubenssätze | Kognitiv + experientiell | Mittel-Langsam | Verständnis-basiert | Persönlichkeitsprobleme, wiederholte Muster |
 | **CPT (Cognitive Processing Therapy)** | Gedanken & Glaubenssätze | Kognitive Umstrukturierung | Schneller | Intellektuell-basiert | PTSD, Rumination |

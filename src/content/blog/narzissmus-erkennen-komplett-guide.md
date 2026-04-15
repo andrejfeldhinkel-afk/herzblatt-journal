@@ -42,7 +42,7 @@ Stell dir vor: Du sitzt mit jemandem bei Kaffee, und das Gespräch dreht sich au
 
 Er schaut dich an und sagt: „Mein Wochenende? Wieso sprichst du nicht mehr über meine Arbeit? Das war das Interessanteste dieser Woche."
 
-Willkommen in der Welt des Narzissmus.
+Willkommen in der Welt des [Narzissmus](/narzissmus/).
 
 Narzissmus ist nicht einfach Eigenliebe oder Selbstvertrauen. Das sind normale, gesunde Dinge. Narzissmus ist etwas anderes: **Eine Persönlichkeitsstörung, bei der jemand grandiose Fantasien über sich selbst hat, eine tiefe Bedürftigkeit nach Bewunderung und einen Mangel an echter Empathie für andere.**
 
@@ -209,7 +209,7 @@ Das ist nicht Paranoia. Das ist, wie es funktioniert.
 
 Er behandelt dich wie eine Göttin. Du bist „seine Seelenmate". Er ruft dich an, schreibt dir Nachrichten, verbringt die ganze Zeit mit dir. Er liest dir alle deine Träume aus den Augen.
 
-Das Problem? Es ist nicht echt. Es ist eine Taktik, die sich "Love Bombing" nennt.
+Das Problem? Es ist nicht echt. Es ist eine Taktik, die sich "[Love Bombing](/blog/lovebombing-phasen/)" nennt.
 
 Er macht das, weil:
 - Er dich braucht als Quelle der Bewunderung
@@ -423,7 +423,7 @@ Manchmal kannest du nicht gehen. Vielleicht habt ihr Kinder. Vielleicht finanzie
 
 Hier ist wie man überleben kann:
 
-**1. Nicht Engaged machen**: Die „Grey Rock Method" – sei langweilig und uninteressant. Das reduziert seinen Wunsch, dich zu manipulieren.
+**1. Nicht Engaged machen**: Die „[Grey Rock](/blog/grey-rock-methode-narzisst-guide/) Method" – sei langweilig und uninteressant. Das reduziert seinen Wunsch, dich zu manipulieren.
 
 **2. Emotionale Grenzen setzen**: Du kannest mit ihm im gleichen Haus leben, aber deine innere Welt ist nicht sein Geschäft.
 

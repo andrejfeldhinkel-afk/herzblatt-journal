@@ -87,8 +87,8 @@ Wende dich an einen Therapeuten, rufe eine Hotline an, geh zu einer Unterstützu
 Es ist wichtig zu verstehen, dass es verschiedene Phasen der Heilung gibt. In den ersten Monaten konzentrierst du dich auf Überleben – einfach durch die Tage kommen, ohne in alte Muster zurückzufallen. Das ist nicht schwach. Das ist realistisch und wichtig.
 
 Die sofortige Heilung besteht aus:
-- No Contact aufrechterhalten
-- Nicht bei Hoovering geben (wenn dein Ex versucht, dich zurückzuziehen)
+- [No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/) aufrechterhalten
+- Nicht bei [Hoovering](/blog/hoovering-narzissmus-erkennen/) geben (wenn dein Ex versucht, dich zurückzuziehen)
 - Grundlegende Selbstpflege praktizieren
 - Mit Therapeut oder Freunden über deine Gefühle sprechen
 
@@ -279,7 +279,7 @@ Während dieser Leitfaden dir einen starken Anfang gibt, gibt es professionelle 
 
 **Therapeutische Ansätze zu suchen:**
 - Trauma-Focused Cognitive Behavioral Therapy (TF-CBT)
-- Eye Movement Desensitization and Reprocessing (EMDR)
+- Eye Movement Desensitization and Reprocessing ([EMDR](/blog/emdr-beziehungstrauma-heilen-guide/))
 - Internal Family Systems (IFS)
 - Somatic Experiencing
 - Psychodynamic Therapy

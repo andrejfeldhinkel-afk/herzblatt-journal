@@ -275,7 +275,7 @@ Das Gefährlichste ist: Du wirst wollen, sie zu retten.
 
 Du wirst denken: „Wenn ich nur genug liebe, genug unterstütze, genug präsent bin, wird sie besser."
 
-Das ist der weibliche Narzissmus der Rettung. Es ist, mit einem Angel-Komplex [Bindungsangst](/blog/bindungsangst-komplett-guide) entwickelt haben. Du könntest dich misstrauisch in neue Beziehungen begeben.
+Das ist der weibliche [Narzissmus](/narzissmus/) der Rettung. Es ist, mit einem Angel-Komplex [Bindungsangst](/blog/bindungsangst-komplett-guide) entwickelt haben. Du könntest dich misstrauisch in neue Beziehungen begeben.
 
 Das ist normal. Das ist ein Trauma, das du durchgemacht hast.
 

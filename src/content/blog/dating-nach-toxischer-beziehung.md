@@ -25,7 +25,7 @@ Nach einer toxischen Beziehung wieder ins Dating zu gehen fühlt sich wie das Be
 
 Aber hier ist die gute Nachricht: Du bist nicht verdammt zu Wiederholung. Nicht, wenn du bereit bist zu lernen.
 
-Der erste Schritt aus einer toxischen Beziehung heraus ist nicht, sofort neu zu daten. Es ist, die toxische Beziehung zu analysieren — nicht, um dich selbst zu beschuldigen, sondern um zu lernen. Was waren die frühen Warnsignale, die du übersehen — oder übersehen hast, weil du hofftest, dass alles gut wird? Wie hat sich die andere Person verhalten, besonders in Konflikten? Wie hast du auf Ungerechtigkeit reagiert — mit Konfrontation oder mit Rückzug?
+Der erste Schritt aus einer toxischen Beziehung heraus ist nicht, sofort neu zu daten. Es ist, die [toxische Beziehung](/toxische-beziehung/) zu analysieren — nicht, um dich selbst zu beschuldigen, sondern um zu lernen. Was waren die frühen Warnsignale, die du übersehen — oder übersehen hast, weil du hofftest, dass alles gut wird? Wie hat sich die andere Person verhalten, besonders in Konflikten? Wie hast du auf Ungerechtigkeit reagiert — mit Konfrontation oder mit Rückzug?
 
 Dies ist nicht selbst-Beschuldigung. Das ist Bewusstsein. Viele Menschen, die aus toxischen Beziehungen herauskommen, erkennen mit Zeit, dass sie unbewusst nach Mustern suchten, die ihnen aus ihrer Kindheit vertraut waren. Ein dominanter Partner könnte eine Wiederholung einer Beziehung zu einem kontrollierenden Elternteil sein. Das ist nicht deine Schuld — das ist unbewusstes Muster-Matching. Aber es ist etwas, das du erkennen und ändern kannst.
 
@@ -45,7 +45,7 @@ Eine der wichtigsten Lehren aus einer toxischen Beziehung ist die Bedeutung von 
 
 ## Die [Red Flags](/blog/dating-red-flags-maenner-erkennen) früh erkennen
 
-Nach einer toxischen Beziehung wirst du wahrscheinlich verletzlicher gegenüber Red Flags werden. Das ist normal. Der Schlüssel ist, sie früh zu erkennen.
+Nach einer toxischen Beziehung wirst du wahrscheinlich verletzlicher gegenüber [Red Flags](/red-flags/) werden. Das ist normal. Der Schlüssel ist, sie früh zu erkennen.
 
 Einige häufige Zeichen: Jemand, der dich isolieren möchte, deine Freunde oder Familie kritisiert, zu schnell zu ernsthaft wird, die Verantwortung immer auf andere schiebt, oder deine Grenzen nicht respektiert. Vertraue deinem Bauchgefühl, wenn etwas nicht stimmt.
 

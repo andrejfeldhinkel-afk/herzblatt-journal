@@ -33,7 +33,7 @@ Das ist ein immenses Geschenk, obwohl es sich nicht so anfühlt.
 - **Kritik**: Konstante Kritik, besonders an Dingen, die bei dir insicher machen (Aussehen, Fähigkeiten, Verstand)
 - **Manipulation und Lügen**: Sie sagen eine Sache, machen eine andere, und dann behaupten sie, dass sie es nie sagten
 - **Kontrolle**: Kontrolle über Geld, Entscheidungen, was du anziehst, wohin du gehst
-- **Gaslighting**: Sie machen dich glauben, dass deine Wahrnehmung falsch ist ("Das habe ich nicht gesagt" obwohl du es klar hörtest)
+- **[Gaslighting](/blog/was-ist-gaslighting/)**: Sie machen dich glauben, dass deine Wahrnehmung falsch ist ("Das habe ich nicht gesagt" obwohl du es klar hörtest)
 - **Wutausbrüche**: Unvorhersehbare, intensive Wut über kleine Dinge
 - **Eifersücht und Verdächtigung**: Ständiges Misstrauen, ständige Fragen zu Loyalität
 - **Love-Bombing** gefolgt von **Abwertung**: Anfangs sind sie PERFEKT, dann werden sie schrecklich, dann sind sie wieder perfekt. Der Zyklus.

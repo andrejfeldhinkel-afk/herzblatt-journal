@@ -220,7 +220,7 @@ Eine Anti-Reparatur ist, wenn du versuchst zu reparieren, aber es tatsächlich s
 - "Ich entschuldige mich, wenn du dich verletzt fühlst" (das ist keine echte Entschuldigung)
 - "Ich nehme alles zurück, was ich gesagt habe" (das ist Umgehung, nicht Reparatur)
 - "Lass uns einfach über das hinweggehen" (das ist Vermeidung)
-- "Ich war nur Spaß, warum kannst du nicht lachen?" (das ist Gaslighting)
+- "Ich war nur Spaß, warum kannst du nicht lachen?" (das ist [Gaslighting](/blog/was-ist-gaslighting/))
 - "Warum hast du mich provoziert?" (das ist Schuld-Verschiebung)
 
 Anti-Reparaturen verschlimmern die Dinge. Sie sagen dem anderen Partner: "Deine Gefühle sind nicht wichtig" oder "Das ist deine Schuld, nicht meine."

@@ -36,7 +36,7 @@ Das ist narzisstische Wut. Und es ist eine Form von emotionalem Missbrauch.
 
 ## Was triggert narzisstische Wut?
 
-Ein Narzisst hat ein zerbrechliches Selbstbild. Nach außen hin sieht er perfekt, erfolgreich, überlegen aus. Aber innen ist er fragil.
+Ein [Narzisst](/narzissmus/) hat ein zerbrechliches Selbstbild. Nach außen hin sieht er perfekt, erfolgreich, überlegen aus. Aber innen ist er fragil.
 
 Narzisstische Wut wird ausgelöst, wenn etwas dieses Selbstbild bedroht:
 

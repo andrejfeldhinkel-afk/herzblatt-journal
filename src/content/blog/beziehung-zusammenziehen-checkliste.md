@@ -110,7 +110,7 @@ Wenn die Antwort auf mehrere davon „ich weiß nicht" oder „nein" ist, dann i
 
 **Ein Partner will zusammenziehen, um die andere zu kontrollieren**
 
-Das ist oft unbewusst. Aber wenn dein Partner sagt „Zusammenziehen wird alles besser machen" – das ist ein red Flag. Zusammenziehen wird nichts besser machen, wenn es nicht schon besser ist.
+Das ist oft unbewusst. Aber wenn dein Partner sagt „Zusammenziehen wird alles besser machen" – das ist ein [red Flag](/red-flags/). Zusammenziehen wird nichts besser machen, wenn es nicht schon besser ist.
 
 **Einer von euch hat keinen Platz für Raum**
 

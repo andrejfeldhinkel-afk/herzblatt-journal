@@ -69,7 +69,7 @@ Der Scammer schreibt dir ständig. Nicht manchmal. Ständig.
 
 "Du bist anders als andere Frauen."
 
-Das ist Love Bombing. Es ist Bombardierung mit Liebe und Aufmerksamkeit. Und es funktioniert, weil dein Gehirn Dopamin-Überschuss bekommt.
+Das ist [Love Bombing](/blog/lovebombing-phasen/). Es ist Bombardierung mit Liebe und Aufmerksamkeit. Und es funktioniert, weil dein Gehirn Dopamin-Überschuss bekommt.
 
 Der Scammer wird auch schnell versuchen, von der App zu WhatsApp oder Telegram zu wechseln. Das ist, weil die App-Moderation auf der Dating-App schwerer ist.
 
@@ -93,7 +93,7 @@ In dieser Phase wird der Scammer auch versuchen, mehr persönliche Informationen
 
 "Wo ist dein Bankonto?"
 
-Das sind Red Flags. Echte Menschen fragen das nicht. Romance Scammer tun.
+Das sind [Red Flags](/red-flags/). Echte Menschen fragen das nicht. Romance Scammer tun.
 
 ### Phase 4: Die Story (Tage 30-45)
 

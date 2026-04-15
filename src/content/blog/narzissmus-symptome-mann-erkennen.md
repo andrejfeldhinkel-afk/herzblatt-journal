@@ -60,7 +60,7 @@ Er möchte wissen, wo du bist. Wer du triffst. Was du tust. Und das verpackt er 
 
 Aber die Wahrheit ist: Er will Kontrolle. Er kann nicht ertragen, dass du dein eigenes Leben hast, weil das bedeutet, dass du nicht nur für ihn existierst.
 
-Kontrollierend zu sein ist ein Klassiker-Symptom von Narzissmus gepaart mit potentieller emotionaler Missbrauch.
+Kontrollierend zu sein ist ein Klassiker-Symptom von [Narzissmus](/narzissmus/) gepaart mit potentieller emotionaler Missbrauch.
 
 ## Symptom 4: Er wechselt schnell zwischen Idealisierung und Verachtung
 
@@ -68,7 +68,7 @@ Am Anfang bist du perfekt. Du bist „anders". Du bist „endlich die Richtige".
 
 Aber sobald du nicht seine Erwartungen erfüllst oder eine Grenze setzt, flippt es um. Du bist jetzt wie all die anderen. Du bist undankbar. Du bist egoistisch.
 
-Das ist der Love Bombing → Devaluation Zyklus. Und es ist ein großes Zeichen für Narzissmus.
+Das ist der [Love Bombing](/blog/lovebombing-phasen/) → Devaluation Zyklus. Und es ist ein großes Zeichen für Narzissmus.
 
 ## Symptom 5: Er ist ein Meister-Manipulator
 

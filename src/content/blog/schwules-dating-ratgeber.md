@@ -276,7 +276,7 @@ Nicht jede Beziehung ist es wert, bleiben. Es gibt rote Flaggen.
 
 **Wenn er dich isoliert.** "Ich möchte nicht, dass du mit deinen schwulen Freunden rumhängst." Das ist kontrollierend. Das ist rot.
 
-**Wenn er dich gaslight.** "Das habe ich nicht gesagt" wenn er definitiv das gesagt hat. "Du bist verrückt, dass du so reagierst" wenn deine Reaktion normal ist. Gaslighting ist psychologischer Missbrauch.
+**Wenn er dich gaslight.** "Das habe ich nicht gesagt" wenn er definitiv das gesagt hat. "Du bist verrückt, dass du so reagierst" wenn deine Reaktion normal ist. [Gaslighting](/blog/was-ist-gaslighting/) ist psychologischer Missbrauch.
 
 **Wenn er dich schlägt.** Das ist kein "wir spielen rough" – das ist Gewalt. Das ist illegal. Bitte geh.
 

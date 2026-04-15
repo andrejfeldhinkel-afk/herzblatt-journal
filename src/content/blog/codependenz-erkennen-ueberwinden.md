@@ -388,7 +388,7 @@ Woche 7-8: Sag Nein zu mehreren Dingen.
 
 Dein Nervensystem lernt: Grenzen sind sicher.
 
-Ein wichtiger Punkt: Wenn dein Partner böse wird oder dich stillt, das ist sein oder ihr Problem, nicht deins. Das ist sein oder ihr Codependenz oder Narzissmus. Deine Arbeit ist, die Grenze trotzdem zu halten.
+Ein wichtiger Punkt: Wenn dein Partner böse wird oder dich stillt, das ist sein oder ihr Problem, nicht deins. Das ist sein oder ihr Codependenz oder [Narzissmus](/narzissmus/). Deine Arbeit ist, die Grenze trotzdem zu halten.
 
 Das ist hart. Viele Menschen geben auf hier. Aber dies ist die kritische Phase. Wenn du hier durchkommst, heilst du.
 

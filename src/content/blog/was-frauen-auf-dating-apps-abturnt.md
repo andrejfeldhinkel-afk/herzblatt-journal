@@ -41,7 +41,7 @@ Die Lösung ist simpel: Eines deiner besten Fotos zeigt dich bei etwas das dir S
 
 Hier kommt die unbequeme Wahrheit: Ein Sixpack ist nicht so attraktiv wie du denkst. Zumindest nicht auf einer Dating-App, wo dich Tausende andere Männer mit ähnlichen Muskeln sehen lässt.
 
-Das Gym-Selfie sagt einer Frau folgendes: "Ich verbringe viel Zeit damit, wie ich aussehe zu perfektionieren." Und ja, Fitness ist attraktiv. Aber zwei oder drei Fotos nur von deinen Muskeln? Das ist Narzissmus. Punkt. Selbst wenn du nicht eitel bist — es wirkt so.
+Das Gym-Selfie sagt einer Frau folgendes: "Ich verbringe viel Zeit damit, wie ich aussehe zu perfektionieren." Und ja, Fitness ist attraktiv. Aber zwei oder drei Fotos nur von deinen Muskeln? Das ist [Narzissmus](/narzissmus/). Punkt. Selbst wenn du nicht eitel bist — es wirkt so.
 
 Frauen sehen diese Bilder und denken nicht "Wow, stark!" Sie denken "Ich bin nicht gym-ready genug" oder "Dieser Typ ist mir zu oberflächlich." Keines von beiden ist das, was du möchtest, dass sie denken.
 

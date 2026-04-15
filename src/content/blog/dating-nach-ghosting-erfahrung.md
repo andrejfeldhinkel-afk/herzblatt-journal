@@ -23,7 +23,7 @@ faq:
     answer: "Ganz verhindern kannst du es nicht. Aber achte auf Warnsignale: Jemand, der nur sporadisch schreibt, Treffen ständig verschiebt oder nie über persönliche Dinge redet, ist eher ein Ghosting-Kandidat."
 ---
 
-Du kennst das: Eine Person, mit der du sprichst, mit der du dich wirklich verbunden gefühlt hast — Tage vergingen gut, die Nachrichten waren tiefgründig, das Lachen war real. Und dann, aus dem Nichts, Funkstille. Das ist Ghosting. Kein "Mir geht's nicht gut, ich brauche eine Pause." Kein "Ich glaube, wir passen nicht." Einfach: Weg.
+Du kennst das: Eine Person, mit der du sprichst, mit der du dich wirklich verbunden gefühlt hast — Tage vergingen gut, die Nachrichten waren tiefgründig, das Lachen war real. Und dann, aus dem Nichts, Funkstille. Das ist [Ghosting](/blog/ghosting-komplett-guide/). Kein "Mir geht's nicht gut, ich brauche eine Pause." Kein "Ich glaube, wir passen nicht." Einfach: Weg.
 
 Es ist eine der modernsten Demütigungen, und es tut wie die Hölle.
 

@@ -36,7 +36,7 @@ faq:
 
 -  **Kommunikation ist normal** – Keine weird Nachrichten
 
--  **Keine schnellen Profundität-Fragen** – “Wo wohnst du genau?” zu früh = RED FLAG
+-  **Keine schnellen Profundität-Fragen** – “Wo wohnst du genau?” zu früh = [RED FLAG](/red-flags/)
 
 -  **Keine sofortigen Geld-Anfragen** – MAJOR RED FLAG (Scam)
 

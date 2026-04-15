@@ -202,9 +202,9 @@ Das macht es viel leichter, in Flooding zu gehen. Der Trigger muss nicht einmal 
 
 ### Dein [Bindungsstil](/blog/avoidant-attachment-beziehung-guide)
 
-Ein ängstlicher oder desorganisierter Bindungsstil macht es wahrscheinlicher, dass du flooded.
+Ein ängstlicher oder [desorganisierter Bindungsstil](/blog/desorganisierter-bindungsstil/) macht es wahrscheinlicher, dass du flooded.
 
-Mit einem ängstlichen Bindungsstil ist dein System so verdrahtet, um Bedrohungen in Beziehungen zu sehen. Ein kleines Zeichen von Ablehnung wird als große Bedrohung interpretiert.
+Mit einem ängstlichen [Bindungsstil](/bindungsstile/) ist dein System so verdrahtet, um Bedrohungen in Beziehungen zu sehen. Ein kleines Zeichen von Ablehnung wird als große Bedrohung interpretiert.
 
 Mit einem desorganisierten Bindungsstil (oft Ergebnis von Trauma), ist dein System völlig verwirrend über Beziehungen und kann nicht regulieren.
 
@@ -383,7 +383,7 @@ Das Stoppen von akutem Flooding ist wichtig. Aber die echte Heilung ist, dein Ne
 
 Ein Therapeut, der dich mit deinem Nervensystem arbeitet, kann transformativ sein.
 
-**EMDR (Eye Movement Desensitization and Reprocessing):** Das ist besonders wirksam für Trauma. Es arbeitet direkt mit dem limbischen System und hilft, Traumatisierungen zu „rückformatieren".
+**[EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) (Eye Movement Desensitization and Reprocessing):** Das ist besonders wirksam für Trauma. Es arbeitet direkt mit dem limbischen System und hilft, Traumatisierungen zu „rückformatieren".
 
 **Somatic Experiencing:** Das lehrt dich, die Empfindungen in deinem Körper zu verstehen und zu regulieren. Du lernst, dich von deinen körperlichen Reaktionen zu unterscheiden.
 

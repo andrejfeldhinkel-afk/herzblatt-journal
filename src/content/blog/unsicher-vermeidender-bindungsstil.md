@@ -36,7 +36,7 @@ Es gibt drei Hauptbindungsstile:
 
 Der unsicher-vermeidende Stil ist der, der wir hier besprechen.
 
-Menschen mit vermeidendem Bindungsstil:
+Menschen mit vermeidendem [Bindungsstil](/bindungsstile/):
 
 - Sind im Allgemeinen unabhängig und emotional selbstgenügsam
 - Sind nicht komfortabel mit emotionaler Intimität
@@ -320,7 +320,7 @@ Das ist echte Liebe.
 - [Beziehung retten: Der ehrliche Guide wenn es die letzte](/blog/beziehung-retten-letzte-chance/)
 ## FAQ
 
-**Was ist ein unsicher-vermeidender Bindungsstil?**
+**Was ist ein unsicher-[vermeidender Bindungsstil](/blog/vermeidender-bindungsstil/)?**
 Menschen mit diesem Stil wünschen sich Nähe, ziehen sich aber zurück sobald es ernst wird. Sie wirken unabhängig, aber dahinter steckt Angst vor Verletzung.
 
 **Wie erkenne ich einen vermeidenden Partner?**

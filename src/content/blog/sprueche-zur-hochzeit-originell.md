@@ -97,7 +97,7 @@ Hochzeitssprüche sind wie Hochzeitsgäste: Manche sind klassis, manche sind lus
 
 ## Die Modernen & Frischen
 
-31. "Glückwunsch! Jetzt seid ihr offiziell 'The Real Thing' – keine Beziehungs-App, kein Ghosting, nur echte Liebe in Real Life."
+31. "Glückwunsch! Jetzt seid ihr offiziell 'The Real Thing' – keine Beziehungs-App, kein [Ghosting](/blog/ghosting-komplett-guide/), nur echte Liebe in Real Life."
 
 32. "Eure Hochzeit ist ein Upvote vom Universum – und wir alle sind 'Likes' in den Kommentaren."
 

@@ -41,7 +41,7 @@ Bevor wir in die Lösung gehen, lass mich kurz erklären, wo du bist.
 
 ## Woher kommt dein Bindungsstil?
 
-Das ist important: Dein Bindungsstil ist nicht deine Schuld. Er kommt von dort, wo du aufgewachsen bist.
+Das ist important: Dein [Bindungsstil](/bindungsstile/) ist nicht deine Schuld. Er kommt von dort, wo du aufgewachsen bist.
 
 Die Forschung zeigt: Wie deine Eltern dich behandelt haben – ob sie emotionaler verfügbar waren, ob sie dich vernachlässigt oder überkontrolliert haben – prägt, wie du später Liebe definierst.
 
@@ -138,7 +138,7 @@ Mit diesen Praktiken kannst du aktiv einen sicheren Bindungsstil aufbauen:
 Höher: "Ich kümmere mich mehr um dich als du um mich" (Leid-Spiel)
 Tiefer: "Ich brauch dich mehr als du mich brauchst" (Mangel-Spiel)
 
-Beide sind Unsicherheit-Signale. Ein sicherer Bindungsstil ist Augenhöhe.
+Beide sind Unsicherheit-Signale. Ein [sicherer Bindungsstil](/blog/sicherer-bindungsstil/) ist Augenhöhe.
 
 **Setze Grenzen – mit Liebe:**
 

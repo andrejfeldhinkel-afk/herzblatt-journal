@@ -110,7 +110,7 @@ Wenn das passiert: Das ist ein Scammer. Punkt. Kein echtes Date fragt dich nach 
 
 ## Sicherheit für Männer beim Online-Dating
 
-Männer sind weniger in Gefahr, aber nicht unsicher. Red Flags für euch:
+Männer sind weniger in Gefahr, aber nicht unsicher. [Red Flags](/red-flags/) für euch:
 
 - Jemand, der sehr schnell sehr anspruchsvoll wird
 - Jemand, der versucht, dich zu manipulieren

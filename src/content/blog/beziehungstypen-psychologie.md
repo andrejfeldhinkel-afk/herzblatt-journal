@@ -26,7 +26,7 @@ Deine Art zu lieben, ist nicht zufällig. Sie ist nicht ein Fehler oder eine Sch
 
 Der Psychologe John Bowlby entdeckte etwas Revolutionäres: Die ersten Jahre deines Lebens bestimmen nicht nur deine Kindheit, sondern auch deine romantische Zukunft. Wie du dich in Beziehungen verhältst, wie viel Nähe du brauchst, wie du mit Verlassenheit umgehst — all das wurde in der Kindheit geprägt.
 
-Die gute Nachricht: Dein Bindungsstil ist nicht dein Schicksal. Er ist übbar. Mit Bewusstsein und Arbeit kannst du dich zu einem sichereren Bindungsstil entwickeln. Paare, die diesen Weg gehen, berichten von tieferer Liebe, besserer Kommunikation und mehr Frieden.
+Die gute Nachricht: Dein [Bindungsstil](/bindungsstile/) ist nicht dein Schicksal. Er ist übbar. Mit Bewusstsein und Arbeit kannst du dich zu einem sichereren Bindungsstil entwickeln. Paare, die diesen Weg gehen, berichten von tieferer Liebe, besserer Kommunikation und mehr Frieden.
 
 ## Bindungsstil 1: Der sichere Bindungsstil
 
@@ -58,7 +58,7 @@ Mit Bewusstsein und bewusstem Üben kannst du dich Richtung sicherer Bindung bew
 
 **Selbstreflektion und Therapie sind deine Werkzeuge.** Es ist nicht genug, nur einen sicheren Partner zu haben. Du musst auch verstehen, wo dein unsicherer Bindungsstil kommt. Was deine Eltern dir gelehrt haben. Welche Muster du wiederholt hast. Ein guter Therapeut wird dir helfen, diese Muster zu erkennen und zu ändern.
 
-**Je bewusster du über deinen Bindungsstil wirst, desto mehr Kontrolle hast du.**  Du wirst deine Trigger erkennen. "Ah, mein Partner antwortet nicht sofort, und ich gehe in Panik. Das ist mein ängstlicher Bindungsstil, nicht die Realität." Mit diesem Bewusstsein kannst du Entscheidungen treffen — Entscheidungen aus Liebe, nicht aus Angst.
+**Je bewusster du über deinen Bindungsstil wirst, desto mehr Kontrolle hast du.**  Du wirst deine Trigger erkennen. "Ah, mein Partner antwortet nicht sofort, und ich gehe in Panik. Das ist mein [ängstlicher Bindungsstil](/blog/aengstlicher-bindungsstil/), nicht die Realität." Mit diesem Bewusstsein kannst du Entscheidungen treffen — Entscheidungen aus Liebe, nicht aus Angst.
 
 **Und desto bessere Beziehungen wirst du anziehen.** Wenn du sicherer wirst, ziehst du sicherer Partner an. Das ist kein Zufall. Es ist Magnetismus. Sichere Menschen erkennen sichere Menschen.## Weiterlesen
 

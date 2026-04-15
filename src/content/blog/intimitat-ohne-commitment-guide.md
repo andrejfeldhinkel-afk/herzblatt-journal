@@ -404,7 +404,7 @@ Du denkst: „Wenn ich diese Person nicht zu viel näher komme, kann sie mich ni
 
 Das ist falsch. Aber das ist, was dein Gehirn sagt.
 
-Das ist auch die psychologische Grundlage von Bindungsangst. Es ist: „Wenn ich die Person nicht liebe, kann ich nicht verletzt werden."
+Das ist auch die psychologische Grundlage von [Bindungsangst](/blog/bindungsangst-komplett-guide/). Es ist: „Wenn ich die Person nicht liebe, kann ich nicht verletzt werden."
 
 Das funktioniert nicht.
 

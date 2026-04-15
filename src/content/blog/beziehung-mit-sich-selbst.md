@@ -76,7 +76,7 @@ Umgekehrt, wenn du dir jeden Tag sagst, dass du wertvoll und capable bist, dann 
 
 ## Selbstmitgefühl: Die Grundlage der guten Selbstbeziehung
 
-Viele Menschen verwechseln Selbstliebe mit Egoismus oder Narzissmus. Das ist falsch.
+Viele Menschen verwechseln Selbstliebe mit Egoismus oder [Narzissmus](/narzissmus/). Das ist falsch.
 
 Echte Selbstliebe ist nicht Narzissmus. Sie ist Mitgefühl mit dir selbst.
 

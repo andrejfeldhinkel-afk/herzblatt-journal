@@ -100,7 +100,7 @@ Nicht defensiv werden. Einfach die Realität präsentieren.
 
 **Wenn sie lacht:**
 
-Das ist ein Red Flag. Eine Person, die über deine Leidenschaft lacht, ist nicht die richtige Person. Das ist okay. Dich selbst magst ist wichtiger.
+Das ist ein [Red Flag](/red-flags/). Eine Person, die über deine Leidenschaft lacht, ist nicht die richtige Person. Das ist okay. Dich selbst magst ist wichtiger.
 
 **Wenn sie interessiert ist:**
 

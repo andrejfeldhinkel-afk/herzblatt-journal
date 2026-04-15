@@ -515,7 +515,7 @@ Das ist nicht manipulativ. Das ist psychologisch gesund.
 
 ### Sicherer Bindungsstil
 
-Menschen mit einem sicheren Bindungsstil können Multi-Dating relativ einfach bewältigen. Sie sind nicht bedürftig und auch nicht ängstlich. Sie können die Vorzüge nutzen — mehrere Menschen kennenlernen — ohne sich schuldig zu fühlen.
+Menschen mit einem sicheren [Bindungsstil](/bindungsstile/) können Multi-Dating relativ einfach bewältigen. Sie sind nicht bedürftig und auch nicht ängstlich. Sie können die Vorzüge nutzen — mehrere Menschen kennenlernen — ohne sich schuldig zu fühlen.
 
 ### ängstlicher bindungsstil
 
@@ -630,7 +630,7 @@ Aber Multi-Dating lehrt dich wichtige Dinge für diese Beziehung:
 
 - Du weißt, was du brauchst (weil du mehrere Menschen kennengelernt hast)
 - Du bist nicht bedürftig (weil du deine Unabhängigkeit bewahrt hast)
-- Du erkennst rote Flaggen schneller (weil du nicht in einem "Love Bombing"-Nebel warst)
+- Du erkennst rote Flaggen schneller (weil du nicht in einem "[Love Bombing](/blog/lovebombing-phasen/)"-Nebel warst)
 - Du wertschätzt die Person mehr (weil du merkst, wie selten echte Chemie ist)
 
 Das sind die psychologischen Vorteile, die mit in die langfristige Beziehung gehen.

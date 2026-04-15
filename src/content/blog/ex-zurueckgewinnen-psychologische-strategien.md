@@ -59,7 +59,7 @@ Wenn die Trennung war wegen "unterschiedliche Lebensziele" oder "wir passen nich
 ### 2. Du weißt KONKRET, was schiefgelaufen ist
 
 Nicht "Ich weiß nicht, warum wir uns getrennt haben." Sondern:
-"Sie wollte näher rücken, ich zog mich zurück. Ich habe Bindungsangst."
+"Sie wollte näher rücken, ich zog mich zurück. Ich habe [Bindungsangst](/blog/bindungsangst-komplett-guide/)."
 "Wir stritten ständig über Geld. Ich war unverantwortlich."
 "Wir hatten unterschiedliche Pläne für Kinder. Das hat sich nicht gelöst."
 

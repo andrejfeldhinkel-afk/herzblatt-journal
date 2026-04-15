@@ -1121,8 +1121,8 @@ Falls ihr merkt, dass ihr Unterst체tzung braucht: Hier sind ein paar konkrete N�
 
 **B체cher, die helfen:**
 - "Gewaltfreie Kommunikation" von Marshall Rosenberg (f체r bessere Konfliktkultur)
-- "The 5 Love Languages" von Gary Chapman (um zu verstehen, wie der Partner sich geliebt f체hlt)
-- "Attached" von Amir Levine und Rachel Heller (um Bindungsstile zu verstehen)
+- "The 5 [Love Languages](/blog/love-languages-beziehung/)" von Gary Chapman (um zu verstehen, wie der Partner sich geliebt f체hlt)
+- "Attached" von Amir Levine und Rachel Heller (um [Bindungsstile](/bindungsstile/) zu verstehen)
 - "Hold Me Tight" von Sue Johnson (um emotionale N채he zu vertiefen)
 
 **Paartherapie-Modelle:**

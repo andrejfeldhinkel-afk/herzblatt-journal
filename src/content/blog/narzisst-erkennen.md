@@ -36,7 +36,7 @@ Das Heimtückische: Narzissten sind nicht leicht zu erkennen. Sie sind oft charm
 
 ## Was ist Narzissmus wirklich?
 
-Narzissmus liegt auf einem Spektrum. Am einen Ende: jemand, der sein Spiegelbild liebt und immer die beste Pizza bestellen muss. Am anderen Ende: die Narzisstische Persönlichkeitsstörung (NPS), eine diagnostizierte psychische Störung, unter der etwa 1–2 % der Bevölkerung leidet.
+[Narzissmus](/narzissmus/) liegt auf einem Spektrum. Am einen Ende: jemand, der sein Spiegelbild liebt und immer die beste Pizza bestellen muss. Am anderen Ende: die Narzisstische Persönlichkeitsstörung (NPS), eine diagnostizierte psychische Störung, unter der etwa 1–2 % der Bevölkerung leidet.
 
 Bei echter NPS geht es nicht um Egoismus. Es geht um einen fundamentalen Defekt in der Fähigkeit zu fühlen, was andere Menschen durchmachen. Ein Narzisst kann dein Leid intellektuell verstehen ("Du hast Angst um deinen Job"), aber emotional berührt es ihn nicht. Für ihn ist es ein Detail in der Story *seines* Lebens, nicht eine echte menschliche Verbindung.
 
@@ -68,7 +68,7 @@ Das Absurde: Wenn der Narzisst dich kritisiert, erwartet er, dass du es einfach 
 
 ### 4. Manipulation und Gaslighting
 
-Narzissten verdrehen Fakten so lange, bis du nicht mehr weißt, was real ist. Das nennt sich Gaslighting.
+Narzissten verdrehen Fakten so lange, bis du nicht mehr weißt, was real ist. Das nennt sich [Gaslighting](/blog/was-ist-gaslighting/).
 
 Szenario: Ihr hattet einen Streit, in dem er dich verbal angegriffen hat. Am nächsten Tag sagst du: "Das war verletzend." Er antwortet: "Ich habe nie so etwas gesagt. Du verdrehst alles. Du bist zu sensibel. Andere würde das nicht so nehmen." Am Ende fragst du dich, ob *du* verrückt wirst.
 
@@ -158,7 +158,7 @@ Narzissten-Beziehungen folgen oft einem vorhersehbaren Muster:
 
 **Phase 3: Verwerfung.** Er verlässt dich (oder du verlässt ihn). Es ist emotional verheerend. Du fragst dich, was du falsch gemacht hast. Die Antwort: Nichts. Er hat einfach dein Ego-Supply-Potenzial aufgebraucht.
 
-**Phase 4: Hoovering.** Wochen oder Monate später versucht er, dich zurückzugewinnen. "Ich habe dich vermisst." "Es war mein Fehler." Die Lovebomb-Phase startet aufs Neue. Viele Menschen gehen zurück – und der Zyklus beginnt wieder.
+**Phase 4: [Hoovering](/blog/hoovering-narzissmus-erkennen/).** Wochen oder Monate später versucht er, dich zurückzugewinnen. "Ich habe dich vermisst." "Es war mein Fehler." Die Lovebomb-Phase startet aufs Neue. Viele Menschen gehen zurück – und der Zyklus beginnt wieder.
 
 Diese vier Phasen können sich über Jahre abspielen oder in Monaten passieren.
 

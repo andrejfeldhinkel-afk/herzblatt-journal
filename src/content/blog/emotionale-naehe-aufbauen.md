@@ -29,7 +29,7 @@ Verletzlichkeit heißt nicht, ständig zu weinen oder jede Unsicherheit breit zu
 
 ## Die Bindungstheorie verstehen
 
-Es gibt etwas, das sich Bindungsstile nennt. Manche Menschen sind sicher gebunden – sie finden es einfach, sich zu öffnen. Andere sind unsicher oder vermeidend – sie öffnen sich nicht gerne oder brauchen viel Sicherheit.
+Es gibt etwas, das sich [Bindungsstile](/bindungsstile/) nennt. Manche Menschen sind sicher gebunden – sie finden es einfach, sich zu öffnen. Andere sind unsicher oder vermeidend – sie öffnen sich nicht gerne oder brauchen viel Sicherheit.
 
 Wenn du und dein Partner unterschiedliche Bindungsstile habt, kann das zu Missverständnissen führen. Der eine Partner denkt "Die Person will nicht mit mir reden" und der andere Partner denkt "Ich werde bedrängt." Die Lösung: Verstehen, dass ihr anders seid, und dann Kompromisse treffen.
 

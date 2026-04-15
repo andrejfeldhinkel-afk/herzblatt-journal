@@ -522,7 +522,7 @@ Viele Menschen halten viel zu lange an Matches fest, weil sie Angst haben, "Chan
 
 ### Die klaren Unmatch-Signale
 
-**Red Flag #1: Die Person ist unhöflich**
+**[Red Flag](/red-flags/) #1: Die Person ist unhöflich**
 Du merkst in den ersten zwei bis drei Nachrichten, dass diese Person respektlos, aufdringlich oder unhöflich ist? Unmatch. Es gibt keinen Grund, Zeit mit jemandem zu verschwenden, der dich nicht respektiert.
 
 **Red Flag #2: Die Person macht dich schlecht fühlen**

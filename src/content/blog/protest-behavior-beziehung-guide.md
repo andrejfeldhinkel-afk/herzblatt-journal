@@ -39,11 +39,11 @@ Der Psychologe Daniel Wile hat viel über Protest-Verhalten geschrieben. Das zen
 
 Das Konzept von Protest-Verhalten geht bis zur Bindungstheorie von John Bowlby zurück. Bowlby merkte, dass Kleintiere – und besonders Menschenkinder – auf [Bindungsstil](/blog/avoidant-attachment-beziehung-guide)
 
-Menschen mit ängstlichem Bindungsstil – was oft aus früher Vernachlässigung, Inkonsistenz oder Trauma kommt – sind besonders anfällig für Protest-Verhalten.
+Menschen mit ängstlichem [Bindungsstil](/bindungsstile/) – was oft aus früher Vernachlässigung, Inkonsistenz oder Trauma kommt – sind besonders anfällig für Protest-Verhalten.
 
-Sicherer Bindungsstil bedeutet: Du lerntest als Kind, dass Nähe zuverlässig ist. Dein Caregiver war da, wenn du ihn/sie brauchtest. Die Nähe war konstant. Also, als Erwachsener, kannst du leicht in Nähe vertrauen. Du brauchst nicht zu testen.
+[Sicherer Bindungsstil](/blog/sicherer-bindungsstil/) bedeutet: Du lerntest als Kind, dass Nähe zuverlässig ist. Dein Caregiver war da, wenn du ihn/sie brauchtest. Die Nähe war konstant. Also, als Erwachsener, kannst du leicht in Nähe vertrauen. Du brauchst nicht zu testen.
 
-Ängstlicher Bindungsstil bedeutet das Gegenteil. Du lerntest, dass Nähe unzuverlässig ist. Es war manchmal da, manchmal nicht. Es wurde entzogen, wenn du nicht aufpasst. Also, als Erwachsener, bist du in konstanter Wachsamkeit. Ständig überprüfst du: „Ist mein Partner noch hier? Liebt mein Partner mich noch?"
+[Ängstlicher Bindungsstil](/blog/aengstlicher-bindungsstil/) bedeutet das Gegenteil. Du lerntest, dass Nähe unzuverlässig ist. Es war manchmal da, manchmal nicht. Es wurde entzogen, wenn du nicht aufpasst. Also, als Erwachsener, bist du in konstanter Wachsamkeit. Ständig überprüfst du: „Ist mein Partner noch hier? Liebt mein Partner mich noch?"
 
 Protest-Verhalten ist ein klassisches Symptom des ängstlichen Bindungsstils. Es ist dein System, um ständig zu überprüfen: „Bist du noch hier?" Es ist dein Weg, das dramatisch zu überprüfen, was normalerweise überprüft werden sollte: „Wir sind okay. Du liebst mich. Du gehst nicht."
 

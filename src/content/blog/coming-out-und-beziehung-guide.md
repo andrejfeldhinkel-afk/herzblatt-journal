@@ -361,7 +361,7 @@ Wenn du dich in einer Krise befindest, bitte um Hilfe. Es gibt Krisenlinien für
 
 Und wenn es dir besser geht, halte nicht auf. Mentale Gesundheit ist nicht etwas, das du einmal fixierst und dann vergisst. Es ist ein lebenslanger Prozess. Halte deine Therapie bei. Nimm deine Medikation. Pflege deine mentale Gesundheit wie du deine körperliche Gesundheit pflegst.
 
-Mehr über mentale Gesundheit und Queer-Sein findest du in unserem Artikel über [[psychologie](/blog/aengstlicher-bindungsstil-heilen/) der Queer-Identität](/psychologie-queer-identitaet/).
+Mehr über mentale Gesundheit und Queer-Sein findest du in unserem Artikel über [psychologie](/blog/aengstlicher-bindungsstil-heilen/) der Queer-Identität.
 
 ## Die FAQ: Antworten auf deine dringendsten Fragen
 

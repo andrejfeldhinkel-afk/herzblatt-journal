@@ -26,7 +26,7 @@ faq:
     answer: "Dreistufig: Erstens ansprechen — ruhig, klar, nicht anklagend. Zweitens beobachten — gibt es echte Veränderung oder nur kurzes 'Entschuldigen und weiter wie vorher'? Drittens entscheiden — wenn das Muster nach mehreren Monaten bleibt, ist Weitergehen oft der gesündeste Schritt. Zögere nicht, dir professionelle Hilfe zu holen: Eine gute Paartherapeutin oder Einzeltherapeutin kann dir Klarheit bringen."
 ---
 
-> **Schnellantwort:** **Red Flags** sind Warnsignale in Beziehungen oder beim Dating, die auf problematische Muster hinweisen — etwa Gaslighting, Silent Treatment, Lovebombing oder Kontrollverhalten. Eine einzelne Red Flag ist kein automatischer Trennungsgrund, aber wiederkehrende Muster über mehrere Monate sind ein klares Zeichen für strukturelle Probleme.
+> **Schnellantwort:** **[Red Flags](/red-flags/)** sind Warnsignale in Beziehungen oder beim Dating, die auf problematische Muster hinweisen — etwa Gaslighting, Silent Treatment, Lovebombing oder Kontrollverhalten. Eine einzelne Red Flag ist kein automatischer Trennungsgrund, aber wiederkehrende Muster über mehrere Monate sind ein klares Zeichen für strukturelle Probleme.
 
 Seit "Red Flag" zum Alltagswort geworden ist, fragen sich viele: Was sind Red Flags eigentlich genau — und woran erkenne ich sie bei mir, meinem Partner oder einem Date? Dieser Artikel ist dein Überblick: Die 5 Hauptkategorien von Red Flags, die konkreten Beispiele dahinter, und wie du entscheidest, wann eine Red Flag ein Gesprächsanlass ist — und wann sie ein Ausstiegsgrund.
 
@@ -80,7 +80,7 @@ Wie geht der andere mit Gefühlen — deinen und seinen — um?
 - **Starke Stimmungsschwankungen** — morgens liebevoll, abends eiskalt
 - **Emotionale Unverfügbarkeit** — er teilt nichts, lässt nichts an sich heran
 - **Deine Gefühle werden kleingeredet** — "Du übertreibst", "Sei nicht so empfindlich"
-- **Schuld-Umkehrung** — du entschuldigst dich für Dinge, die er tut (DARVO)
+- **Schuld-Umkehrung** — du entschuldigst dich für Dinge, die er tut ([DARVO](/blog/darvo-manipulation-beziehung-erkennen/))
 
 ### Kategorie 5: Verhaltens-Red-Flags
 
@@ -112,7 +112,7 @@ Unangenehm, aber wichtig: Die meisten von uns tragen selbst Red Flags. Das sind 
 
 - Eifersucht, die dich kontrollierend macht
 - Emotionale Reaktionen, die unverhältnismäßig sind (oft Trigger aus der Kindheit — mehr in [Bindungsangst Komplett-Guide](/blog/bindungsangst-komplett-guide/))
-- Konfliktvermeidung bis zum Ghosting
+- Konfliktvermeidung bis zum [Ghosting](/blog/ghosting-komplett-guide/)
 - Unfähigkeit, Grenzen zu setzen
 - Ständige Vergleiche mit Ex-Partnern
 

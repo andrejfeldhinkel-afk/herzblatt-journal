@@ -137,7 +137,7 @@ Hier ist, wie du das machst:
 
 **Sag es ihr.** Sag deinem Ex: "Ich liebe dich noch, aber ich brauche Zeit nicht zu kommunizieren. Ich kontaktiere dich in drei Monaten und dann können wir sehen, wo wir sind." Dann halte dich daran.
 
-**Finde einen Accountability Partner.** Sag deinem besten Freund, dass du im no contact bist. Wenn du versucht zu brechen, ruf ihn an, anstatt dein Ex anzurufen.
+**Finde einen Accountability Partner.** Sag deinem besten Freund, dass du im [no contact](/blog/ex-zurueckgewinnen-psychologische-strategien/) bist. Wenn du versucht zu brechen, ruf ihn an, anstatt dein Ex anzurufen.
 
 **Ändere deine Routine.** Wenn du immer Kaffee an dem Ort trinkst, an dem ihr euch kennengelernt habt, geh woanders hin. Wenn du immer am Freitag mit ihr sprach, mach etwas anderes am Freitag.
 

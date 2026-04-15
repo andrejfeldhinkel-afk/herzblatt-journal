@@ -84,7 +84,7 @@ Das ist die erste Grenze, die du setzen solltest. Jedes Mal.
 
 Du bist nicht dafür zuständig, die andere Person zu reparieren oder sie emotionell zu unterstützen, bevor du eine echte Beziehung hast.
 
-Wenn someone auf einem ersten Date ihr/sein ganzes Leben Trauma ausschüttet, das ist ein Red Flag. Das ist nicht Intimität. Das ist eine Überwältigung.
+Wenn someone auf einem ersten Date ihr/sein ganzes Leben Trauma ausschüttet, das ist ein [Red Flag](/red-flags/). Das ist nicht Intimität. Das ist eine Überwältigung.
 
 Grenze: "Es ist okay, über tiefe Dinge zu reden, aber ich brauche auch leichte Konversation. Ich bin nicht dein Therapeut."
 

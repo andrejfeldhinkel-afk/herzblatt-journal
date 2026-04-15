@@ -192,7 +192,7 @@ Jetzt fragst du dich wahrscheinlich: "Welcher Bindungstyp passt zu mir?"
 
 Die Wahrheit ist kompliziert. Die beste Kombination ist, wenn beide Partner einen sicheren Bindungstyp haben. Das macht alles leichter.
 
-Aber das bedeutet nicht, dass andere Kombinationen zum Scheitern verurteilt sind. Viele großartige Paare haben unterschiedliche Bindungstypen – sie müssen nur verstehen, wie sie funktionieren.
+Aber das bedeutet nicht, dass andere Kombinationen zum Scheitern verurteilt sind. Viele großartige Paare haben unterschiedliche [Bindungstypen](/bindungsstile/) – sie müssen nur verstehen, wie sie funktionieren.
 
 **Die häufigsten Kombinationen:**
 

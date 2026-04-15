@@ -175,7 +175,7 @@ Innerer Kompass ist internal: "Wenn ich mit dieser Person bin, fühle ich mich *
 
 Das zweite ist wichtiger.
 
-Mit deinem inneren Kompass kannst du Red Flags früher sehen. Nicht weil die Fakten es sagen, sondern weil dein Körper es dir sagt.
+Mit deinem inneren Kompass kannst du [Red Flags](/red-flags/) früher sehen. Nicht weil die Fakten es sagen, sondern weil dein Körper es dir sagt.
 
 Das ist Intuition. Dein Nervensystem weiss etwas, das dein rationaler Verstand ignoriert.
 
@@ -193,7 +193,7 @@ Das ist nicht Liebe. Das ist Erosion.
 
 ## Umgang mit "Breadcrumbing": Die Person, die dich hängt lässt
 
-"Breadcrumbing" ist, wenn jemand dir genug Aufmerksamkeit gibt, um dich zu interessieren, aber nicht genug um eine echte Beziehung zu führen.
+"[Breadcrumbing](/blog/breadcrumbing-komplett-guide/)" ist, wenn jemand dir genug Aufmerksamkeit gibt, um dich zu interessieren, aber nicht genug um eine echte Beziehung zu führen.
 
 Ein Message alle paar Tage. Ein Lunch, dann 2 Wochen Stille. Ein "Lass uns bald treffen," der nie passiert.
 

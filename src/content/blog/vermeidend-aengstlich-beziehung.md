@@ -23,7 +23,7 @@ faq:
 
 Du kennst das Muster: Er zieht sich zurück, je näher du kommt. Je mehr du fragst, wo er ist, desto kälter wird er. Du versuchst alles — liebevoller, unabhängiger, interessanter. Nichts funktioniert. Stattdessen fühlt sich die Beziehung an wie ein ständiges Ringen um Aufmerksamkeit, das nie endet.
 
-Das ist kein Zufall. Das ist die toxische Anziehung zwischen vermeidendem und ängstlichem Bindungsstil — und sie ist psychologisch fast perfekt aufeinander abgestimmt. Aber nicht auf gesunde Weise.
+Das ist kein Zufall. Das ist die toxische Anziehung zwischen vermeidendem und ängstlichem [Bindungsstil](/bindungsstile/) — und sie ist psychologisch fast perfekt aufeinander abgestimmt. Aber nicht auf gesunde Weise.
 
 ## Warum diese zwei sich anziehen
 
@@ -103,7 +103,7 @@ Die beste Therapiemethode hierfür ist Emotionally Focused Therapy (EFT). Sie ar
 
 **Schritt 4: Realistische Erwartungen**
 
-Ihr werdet nicht "fertig". Die Bindungsangst wird nicht einfach verschwinden. Aber ihr könnt lernen, damit anders umzugehen. Der vermeidende Partner kann sich bewusst entscheiden, zu bleiben, auch wenn es unbequem ist. Der ängstliche Partner kann lernen, sich selbst zu beruhigen statt den anderen immer zu brauchen.
+Ihr werdet nicht "fertig". Die [Bindungsangst](/blog/bindungsangst-komplett-guide/) wird nicht einfach verschwinden. Aber ihr könnt lernen, damit anders umzugehen. Der vermeidende Partner kann sich bewusst entscheiden, zu bleiben, auch wenn es unbequem ist. Der ängstliche Partner kann lernen, sich selbst zu beruhigen statt den anderen immer zu brauchen.
 
 Das ist nicht romantisch. Aber es ist real. Und es funktioniert.
 

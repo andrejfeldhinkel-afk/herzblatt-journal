@@ -30,7 +30,7 @@ faq:
 
 Du sitzt beim Kaffee mit ihm, und er sagt: "Eure Beziehung wird sowieso nicht halten." Du lachst nervös. Es ist nur ein Scherz, oder? Später fragst du dich, warum diese Worte noch Tage später in deinem Kopf sind.
 
-Das sind Red Flags — nicht immer laut, nicht immer offensichtlich. Sie sind die Momente, in denen dein Bauchgefühl dir zuzischert: "Moment, das ist nicht okay." Aber die Verliebtheitschemie, die Hoffnung auf Veränderung, die Angst, es könnte deine Schuld sein — all das redet dir ein, dass du überreagierst.
+Das sind [Red Flags](/red-flags/) — nicht immer laut, nicht immer offensichtlich. Sie sind die Momente, in denen dein Bauchgefühl dir zuzischert: "Moment, das ist nicht okay." Aber die Verliebtheitschemie, die Hoffnung auf Veränderung, die Angst, es könnte deine Schuld sein — all das redet dir ein, dass du überreagierst.
 
 Du tust das nicht. Dieser Artikel zeigt dir die 20 wichtigsten Warnsignale, die eine toxische oder ungesunde Beziehung ankündigen. Und noch wichtiger: wie du nicht hängst bleibst, während du hoffst, dass er sich ändert.
 
@@ -68,7 +68,7 @@ Du suchst nach Zeichen, die deinen Glauben bestätigen — nicht nach Zeichen, d
 
 ### Frühere Bindungserfahrungen
 
-Wenn deine Eltern sich toxisch verhalten haben, fühlt sich toxisches Verhalten normal an. Kontrollverhalten? Das ist Liebe (war das bei deinem Vater so). Gaslighting? Das bin ich, ich bin zu sensibel (deine Mutter hat das immer gesagt). Dein Nervensystem hat gelernt, Red Flags zu normalisieren.
+Wenn deine Eltern sich toxisch verhalten haben, fühlt sich toxisches Verhalten normal an. Kontrollverhalten? Das ist Liebe (war das bei deinem Vater so). [Gaslighting](/blog/was-ist-gaslighting/)? Das bin ich, ich bin zu sensibel (deine Mutter hat das immer gesagt). Dein Nervensystem hat gelernt, Red Flags zu normalisieren.
 
 Das muss sich ändern. Ab jetzt siehst du sie.
 
@@ -108,7 +108,7 @@ Das muss sich ändern. Ab jetzt siehst du sie.
 
 **Das Muster:** Nach zwei Wochen sagt er: "Ich liebe dich." Nach einem Monat spricht er über Hochzeit, Familie, Zukunft. Er schreibt dir täglich Gedichte, bucht eine Überraschungs-Reise, kauft teure Geschenke.
 
-**Das Beispiel:** Du gehst zum dritten Date, und er hat Kerzen, Blumen und ein aufwendiges Dinner arrangiert. "Du bist die Frau meiner Träume," sagt er. Es fühlt sich wie ein Traum an. Dann, plötzlich, zwei Monate später, wird er distanziert, wenn du Zeit mit Freunden verbringst. Das Lovebombing war ein Köder.
+**Das Beispiel:** Du gehst zum dritten Date, und er hat Kerzen, Blumen und ein aufwendiges Dinner arrangiert. "Du bist die Frau meiner Träume," sagt er. Es fühlt sich wie ein Traum an. Dann, plötzlich, zwei Monate später, wird er distanziert, wenn du Zeit mit Freunden verbringst. Das [Lovebombing](/blog/lovebombing-phasen/) war ein Köder.
 
 **Warum gefährlich:** Lovebombing ist keine Liebe — es ist eine Investitionstaktik. Der Zweck ist, dich emotional abhängig zu machen. Sobald du verliebt bist, wechselt die Dynamik. Die Intensität verschwindet, und die Kontrolle beginnt.
 
@@ -233,7 +233,7 @@ Das muss sich ändern. Ab jetzt siehst du sie.
 
 **Das Beispiel:** Du stellst ihn zur Rede, weil er einen Freund ohne Grund kritisiert hat. Er wird nicht defensiv — er einfach ignoriert dich. Zwei Tage später spricht er mit dir, als wäre nichts passiert. Der Konflikt wurde nie gelöst.
 
-**Warum gefährlich:** Silent Treatment ist emotionale Bestrafung. Es lehrt dich, deine Bedürfnisse nicht zu äußern, weil die Strafe so unangenehm ist. Mit der Zeit traust du dich nicht mal, ihn zu fragen, wenn etwas dich verletzt.
+**Warum gefährlich:** [Silent Treatment](/blog/silent-treatment-bedeutung/) ist emotionale Bestrafung. Es lehrt dich, deine Bedürfnisse nicht zu äußern, weil die Strafe so unangenehm ist. Mit der Zeit traust du dich nicht mal, ihn zu fragen, wenn etwas dich verletzt.
 
 **Wie reagieren:** "Silent Treatment ist keine Lösung. Wenn du über etwas verärgert bist, können wir darüber sprechen — zusammen. Wenn du das nicht kannst, können wir nicht zusammen sein."
 

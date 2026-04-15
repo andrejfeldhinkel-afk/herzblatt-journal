@@ -82,7 +82,7 @@ Und wenn die Schmetterlinge irgendwann nachlassen: Keine Panik. Das ist normal u
 
 ## Schmetterlinge bei verschiedenen Persönlichkeitstypen
 
-Interessanterweise erleben verschiedene Menschen die Schmetterlinge unterschiedlich intensiv. Menschen mit ängstlichem Bindungsstil erleben oft stärkere, angespanntere Schmetterlinge – es ist mehr Angst gemischt mit Aufregung. Menschen mit vermeidend-bindungsstil fühlen die Schmetterlinge möglicherweise gar nicht so stark – ihr Gehirn blockiert manche dieser Gefühle als Selbenschutz.
+Interessanterweise erleben verschiedene Menschen die Schmetterlinge unterschiedlich intensiv. Menschen mit ängstlichem [Bindungsstil](/bindungsstile/) erleben oft stärkere, angespanntere Schmetterlinge – es ist mehr Angst gemischt mit Aufregung. Menschen mit vermeidend-bindungsstil fühlen die Schmetterlinge möglicherweise gar nicht so stark – ihr Gehirn blockiert manche dieser Gefühle als Selbenschutz.
 
 Das ist wichtig zu verstehen, weil es bedeutet, dass das Fehlen von Schmetterlingen nicht unbedingt bedeutet, dass es falsch ist. Manche der besten Beziehungen entstehen ruhig, ohne viel emotionales Drama.
 

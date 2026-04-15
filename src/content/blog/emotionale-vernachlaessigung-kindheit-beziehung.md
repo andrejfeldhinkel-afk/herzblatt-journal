@@ -137,7 +137,7 @@ Das Problem ist: Beziehungen erfordern gegenseitige Abhängigkeit. Sie erfordern
 
 Das vierte ist das tiefe unbewusste Gefühl, dass du nicht "genug" bist. Das manifestiert sich als chronischer Selbstzweifel, Imposter-Syndrom in der Beziehung, oder als unterbewusste Sabotage. Wenn eine Beziehung wirklich gut wird, fängst du unbewusst an, sie zu ruinieren — weil du weißt, dass niemand dich wirklich lieben würde, wenn er dich wirklich kennen würde.
 
-Das fünfte ist Bindungsangst. Weil emotionale Nähe traumatisch war (oder eben nicht existierte), fühlt sich echte Nähe bedrohlich an. Du möchtest Nähe, aber wenn sie kommt, zieht sich etwas in dir zusammen. Du wirst distanziert, kalt, kritisch — alles, um dich selbst zu schützen.
+Das fünfte ist [Bindungsangst](/blog/bindungsangst-komplett-guide/). Weil emotionale Nähe traumatisch war (oder eben nicht existierte), fühlt sich echte Nähe bedrohlich an. Du möchtest Nähe, aber wenn sie kommt, zieht sich etwas in dir zusammen. Du wirst distanziert, kalt, kritisch — alles, um dich selbst zu schützen.
 
 ## Die Partnerschafts-Dynamik: Wenn Vernachlässigte sich Versuchen zu verbinden
 

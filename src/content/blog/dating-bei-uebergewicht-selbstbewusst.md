@@ -242,7 +242,7 @@ Das ist nicht oberflächlich. Das ist Foundation.
 1. **Sei ehrlich in deinen Fotos** – aktuelle, echte Bilder
 2. **Filter nicht für alle Menschen** – filter für die richtigen
 3. **Dein Körper ist nicht zu debattieren** – deine Grenzen sind final
-4. **Red Flags erkennen** – Menschen, die auf dein Körper fixiert sind
+4. **[Red Flags](/red-flags/) erkennen** – Menschen, die auf dein Körper fixiert sind
 5. **Nicht warten bis später** – dein Leben ist jetzt
 6. **Self-love ist nicht optional** – das ist Foundation
 7. **Übergewicht ist ein Filter, nicht ein Fehler** – es filtert Menschen raus, die nicht gut für dich sind

@@ -27,7 +27,7 @@ faq:
 
 Du bist in einer Beziehung mit einem Mann, und etwas stimmt nicht. Er ist liebevoll an manchen Tagen, dann plötzlich distanziert. Er spricht nicht über die Zukunft. Er zieht sich zurück, wenn es zu nah wird. Du fragst dich: "Liebt er mich nicht genug? Ist das nur so, wie er ist? Oder hat er Beziehungsangst?"
 
-Beziehungsangst (auch Bindungsangst oder Commitmentphobie genannt) ist eines der am wenigsten verstandenen Phänomene in modernen Beziehungen. Und es trifft Männer oft stärker als Frauen – nicht weil Männer unfähiger sind zu lieben, sondern weil die Gesellschaft ihnen beibringt, ihre Angst zu verstecken.
+Beziehungsangst (auch [Bindungsangst](/blog/bindungsangst-komplett-guide/) oder Commitmentphobie genannt) ist eines der am wenigsten verstandenen Phänomene in modernen Beziehungen. Und es trifft Männer oft stärker als Frauen – nicht weil Männer unfähiger sind zu lieben, sondern weil die Gesellschaft ihnen beibringt, ihre Angst zu verstecken.
 
 In diesem Artikel zeige ich dir, wie du Beziehungsangst beim Mann erkennst, warum sie auftritt und – das Wichtigste – wie du richtig darauf reagierst, ohne dich selbst zu verlieren.
 

@@ -47,7 +47,7 @@ Aber langsam begann die Manipulation:
 
 - Kleine Kritik, die sich wie Beleidigungen anfühlte
 - "Du bist zu empfindlich" wenn du verletzt warst
-- Gaslighting: "Das habe ich nie gesagt" (obwohl er das tat)
+- [Gaslighting](/blog/was-ist-gaslighting/): "Das habe ich nie gesagt" (obwohl er das tat)
 - Isolation: Deine Freunde sind "nicht gut für dich"
 - Kontrollverhalten: Wenn du nicht erreichbar warst, geriet er in Panik (oder Wut)
 
@@ -113,7 +113,7 @@ Wenn du auf einem Date merkst: "Warte, das erinnert mich an X" — vertrau dem G
 
 Bei einer neuen Person, sag von Anfang an:
 
-- "Ich habe eine narzisstische Beziehung durchlebt. Ich brauche Konsistenz, Ehrlichkeit und Respekt. Das sind keine Verhandlungspunkte."
+- "Ich habe eine [narzisstische Beziehung](/narzissmus/) durchlebt. Ich brauche Konsistenz, Ehrlichkeit und Respekt. Das sind keine Verhandlungspunkte."
 
 Das ist nicht dramatisch. Das ist selbstschützend.
 

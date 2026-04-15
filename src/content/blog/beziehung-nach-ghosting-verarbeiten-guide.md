@@ -33,7 +33,7 @@ Dann: Stille.
 
 Eine Nachricht bleibt unbeanwortet. Und dann eine andere. Und dann eine dritte. Und irgendwann sitzt du da und fragst dich: "Wird er nicht zurück schreiben, oder hat er mein Telefon gelöscht?"
 
-Das ist Ghosting. Und es tut verdammt weh.
+Das ist [Ghosting](/blog/ghosting-komplett-guide/). Und es tut verdammt weh.
 
 ## Was ist Ghosting überhaupt?
 

@@ -77,7 +77,7 @@ So endet es: Du wolltest nicht abgelehnt werden, also machtest du Dinge, die Abl
 
 Das ist eine wichtige Unterscheidung, die viele Menschen nicht machen.
 
-Es gibt "red flags" – Verhaltensweisen von einer anderen Person, die dir sagen: Das ist nicht gut für mich. Das sind objektive Dinge: Der Person liegt dich an, dein Partner ist dich respektlos, dein Partner kontrolliert dich.
+Es gibt "[red flags](/red-flags/)" – Verhaltensweisen von einer anderen Person, die dir sagen: Das ist nicht gut für mich. Das sind objektive Dinge: Der Person liegt dich an, dein Partner ist dich respektlos, dein Partner kontrolliert dich.
 
 Aber es gibt auch "Ablehnung-Angst", die sich als "gute Instinkte" verkleidet. Das ist wenn du merkst: Diese Person ist perfekt, aber ich finde kleine Fehler, um sie zu disqualifizieren. Oder: Diese Person mag mich, aber mein Nervensystem sagt mir, dass es zu gefährlich ist, mich zu öffnen.
 
@@ -93,11 +93,11 @@ Das ist nicht esoterisch. Das ist Wissenschaft. Es gibt verschiedene Bindungssti
 
 **Sicherer [Bindungsstil](/blog/avoidant-attachment-beziehung-guide)**: Du wurdest von deinen Eltern bedingungslos geliebt. Du weißt, dass du liebens wert bist, auch wenn du fehler machst. Deine Ablehnung-Angst ist gering.
 
-**Vermeidender Bindungsstil**: Deine Eltern waren emotional distanziert. Du hast gelernt: Nähe ist gefährlich. Du vermeidest also Nähe und Verletzlichkeit. Du schützt dich, indem du dich distanzierst.
+**[Vermeidender Bindungsstil](/blog/vermeidender-bindungsstil/)**: Deine Eltern waren emotional distanziert. Du hast gelernt: Nähe ist gefährlich. Du vermeidest also Nähe und Verletzlichkeit. Du schützt dich, indem du dich distanzierst.
 
-**Anängstlich-Bindungsstil**: Deine Eltern waren inconsistent. Manchmal liebten sie dich, manchmal waren sie abwesend. Du hast gelernt: Ich muss perfekt sein, oder ich werde verlassen. Deine Ablehnung-Angst ist hoch.
+**Anängstlich-[Bindungsstil](/bindungsstile/)**: Deine Eltern waren inconsistent. Manchmal liebten sie dich, manchmal waren sie abwesend. Du hast gelernt: Ich muss perfekt sein, oder ich werde verlassen. Deine Ablehnung-Angst ist hoch.
 
-**Desorganisierter Bindungsstil**: Deine Eltern waren manchmal verursachend oder unerreichbar. Du hast ein Muster von Nähe-und-Flucht, Nähe-und-Flucht.
+**[Desorganisierter Bindungsstil](/blog/desorganisierter-bindungsstil/)**: Deine Eltern waren manchmal verursachend oder unerreichbar. Du hast ein Muster von Nähe-und-Flucht, Nähe-und-Flucht.
 
 Wenn du deinen Bindungsstil kennst, kannst du dein Verhalten verstehen. "Oh, ich bin ängstlich gebunden, deshalb frage ich ständig nach Versicherung" – das ist ein großer Aha-Moment. Es macht es möglich zu ändern.
 
@@ -174,7 +174,7 @@ Das ist nicht "du bist großartig, und ihre Verlust". Das ist einfach "ich bin m
 
 Wenn deine Ablehnung-Angst extrem ist, wenn sie dein Leben lämt, dann brauchst du professionelle Hilfe.
 
-Das ist nicht Schwäche. Das ist Intelligenz. Ein Therapist kann dir helfen, die Wurzeln dieser Angst zu verstehen. Therapien wie EMDR oder Cognitive Behavioral Therapy können sehr wirksam sein.
+Das ist nicht Schwäche. Das ist Intelligenz. Ein Therapist kann dir helfen, die Wurzeln dieser Angst zu verstehen. Therapien wie [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) oder Cognitive Behavioral Therapy können sehr wirksam sein.
 
 ## Die Wahrheit
 

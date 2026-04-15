@@ -205,7 +205,7 @@ Erwartung: 2-4 Monate.
 
 ### Das Co-Parenting Szenario
 
-Wenn du Kinder hast, du kannst nicht "No Contact" machen. Du brauchst zu kommunizieren.
+Wenn du Kinder hast, du kannst nicht "[No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/)" machen. Du brauchst zu kommunizieren.
 
 Die Strategie: Businesslike Kommunikation. Nur über Kinder.
 
@@ -273,7 +273,7 @@ Das ist der tiefe Geschenk — Transformation des Schmerzes in das Schöne.
 
 ### Bücher die helfen
 
-"Attached" von Amir Levine — Verstehen deine Bindungsstile
+"Attached" von Amir Levine — Verstehen deine [Bindungsstile](/bindungsstile/)
 "It Ends With Us" von Colleen Hoover — (Wenn deine Beziehung missbräuchlich war)
 "The Year of Magical Thinking" von Joan Didion — Wie zu trauern
 

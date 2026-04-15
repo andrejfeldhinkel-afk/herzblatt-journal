@@ -306,7 +306,7 @@ Mit dieser Klarheit, kannst du entscheiden: Will ich mit dieser Person bleiben?
 
 **F: Ist emotionale Unreife das gleich wie narzisstisches Verhalten?**
 
-A: Nein. Ein Narzisst ist absichtlich manipulativ. Ein emotional unreifer Mensch ist unbewusst abhängig. Aber der Schaden ist ähnlich.
+A: Nein. Ein [Narzisst](/narzissmus/) ist absichtlich manipulativ. Ein emotional unreifer Mensch ist unbewusst abhängig. Aber der Schaden ist ähnlich.
 
 **F: Kann ich meinen Partner emotionale reife lehren?**
 

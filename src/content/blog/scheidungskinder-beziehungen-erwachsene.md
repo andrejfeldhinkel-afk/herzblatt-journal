@@ -211,7 +211,7 @@ Besonders wirksam für Scheidungskinder:
 
 **Schematherapie:** Sie arbeitet mit den unbewussten Überzeugungen ("Schemas"), die du aus deiner Kindheit hast. "Liebe ist nicht sicher. Menschen verlassen mich. Ich bin nicht wertvoll genug, um zu bleiben."
 
-**Trauma-fokussierte CBT oder EMDR:** Wenn die Scheidung wirklich traumatisch war, können diese Techniken das Trauma im Nervensystem prozessieren und integrieren.
+**Trauma-fokussierte CBT oder [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/):** Wenn die Scheidung wirklich traumatisch war, können diese Techniken das Trauma im Nervensystem prozessieren und integrieren.
 
 **Paartherapie:** Wenn du mit einem Partner arbeitest, kann ein Paartherapeut helfen, diese Muster als Paar zu durchbrechen — nicht nur einzeln.
 

@@ -122,7 +122,7 @@ Diese Offenheit schafft Naehe und nimmt dem Thema die Scham. Dein Partner kann b
 
 ### Schritt 6: Professionelle Hilfe suchen
 
-Bei starker Verlustangst ist Therapie die beste Investition die Du machen kannst. Schematherapie ist besonders wirksam, weil sie gezielt an den fruehen Mustern und inneren Ueberzeugungen arbeitet. Auch EMDR kann helfen, besonders wenn konkrete Verlusterfahrungen die Angst ausgeloest haben.
+Bei starker Verlustangst ist Therapie die beste Investition die Du machen kannst. Schematherapie ist besonders wirksam, weil sie gezielt an den fruehen Mustern und inneren Ueberzeugungen arbeitet. Auch [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) kann helfen, besonders wenn konkrete Verlusterfahrungen die Angst ausgeloest haben.
 
 Therapie ist kein Zeichen von Schwaeche. Es ist ein Zeichen von Staerke und Verantwortung. Du sagst damit: Ich will nicht dass meine Angst mein Leben und meine Beziehungen bestimmt. Und ich bin bereit dafuer zu arbeiten.
 

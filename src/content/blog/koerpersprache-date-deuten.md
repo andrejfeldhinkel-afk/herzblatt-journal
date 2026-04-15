@@ -530,7 +530,7 @@ Dinner-Dates sind längere und formaler als Kaffee. Die Körpersprache-Signale k
 - Wenn ihr zusammen aufsteht um zu gehen, berührt die Person dich kurz — am Rücken oder Arm
 - Längere Augenkontakt-Momente wenn keine Worte gesprochen werden
 
-**Red Flags:**
+**[Red Flags](/red-flags/):**
 - Schnelles essen — das bedeutet die Person will gehen
 - Kein Sharing von Essen — das ist ein Zeichen von Distanz
 - Einseitige Konversation — du stellst Fragen, aber die Person stellt dir nicht Fragen zurück

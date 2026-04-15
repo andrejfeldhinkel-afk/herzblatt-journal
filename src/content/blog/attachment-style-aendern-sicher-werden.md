@@ -31,7 +31,7 @@ faq:
 ---
 [Bindungsstil](/blog/avoidant-attachment-beziehung-guide). Du hast wahrscheinlich das Wort schon 100 Mal gehört. Sicher gebunden, ängstlich gebunden, vermeidend gebunden. Es klingt nach esoterischem Kram. Aber es ist nicht — es ist Psychologie die fundamental wichtig ist für dein romantisches Leben.
 
-Hier ist die harte Wahrheit: Dein Bindungsstil ist nicht dein Schicksal. Es ist auch nicht etwas das du von deinen Eltern "geerbt" hast als genetisches Urteil. Es ist ein erlerntes Muster. Und erlerntes kann man umlernen.
+Hier ist die harte Wahrheit: Dein [Bindungsstil](/bindungsstile/) ist nicht dein Schicksal. Es ist auch nicht etwas das du von deinen Eltern "geerbt" hast als genetisches Urteil. Es ist ein erlerntes Muster. Und erlerntes kann man umlernen.
 
 Dieser Artikel ist für alle die merken dass ihre Beziehungen immer ein ähnliches Muster haben — und dieses Muster nicht funktioniert. Es ist auch für die, die ihr Leben verändern wollen, bevor sie wieder in einer dysfunktionalen [Trennung](/blog/trennung-verarbeiten-12-schritte) setze sich Marcus hin. Er erkannte das Muster. Seine Mutter war bipolar — manchmal Liebe, manchmal Ablehnung. Er hatte gelernt früh: "Liebe ist nicht sicher. Ich muss überwacht sein."
 
@@ -62,7 +62,7 @@ Nach einem Jahr: Du wirst neue Wähle treffen — Partner wählen, die sicherer 
 
 Nach zwei Jahren: Du wirst merken dass du nicht automatisch reagierst. Du wählst.
 
-Nach drei Jahren: Dein neuer sicherer Bindungsstil ist nicht mehr "etwas das du arbeitest." Es ist einfach wie du bist.
+Nach drei Jahren: Dein neuer [sicherer Bindungsstil](/blog/sicherer-bindungsstil/) ist nicht mehr "etwas das du arbeitest." Es ist einfach wie du bist.
 
 Das Schöne an dieser Transformation: Sie ist nicht enden. Jede sicher Beziehung verstärkt weiter deine [sichere bindung](/blog/aengstlicher-bindungsstil-heilen/). Es ist ein Kreislauf der Heilung.
 

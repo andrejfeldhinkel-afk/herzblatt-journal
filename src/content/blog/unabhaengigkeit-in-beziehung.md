@@ -120,7 +120,7 @@ Es könnte so klingen: "Mir ist aufgefallen, dass ich mich in dieser Beziehung v
 
 Ein gesunder Partner wird dies verstehen. Er könnte sich sogar erleichtert fühlen, weil die Verantwortung, deine einzige Quelle von Glück zu sein, weg ist.
 
-Ein ungesunder Partner könnte sagen "Wenn du mich liebst, möchtest du nur mit mir zusammen sein." Das ist eine Red Flag. Das ist emotionale Manipulation.
+Ein ungesunder Partner könnte sagen "Wenn du mich liebst, möchtest du nur mit mir zusammen sein." Das ist eine [Red Flag](/red-flags/). Das ist emotionale Manipulation.
 
 Wenn dein Partner deine Unabhängigkeit nicht respektiert, dann hast du ein größeres Problem als Co-Abhängigkeit. Du hast eine ungesunde Beziehung.
 

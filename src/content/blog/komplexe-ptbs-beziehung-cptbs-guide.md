@@ -73,7 +73,7 @@ In einer Beziehung bedeutet das: Es kann sein, dass Menschen mit kPTBS zunächst
 
 **Phase 2: Erinnerung und Trauer — die Traumakonfrontation.**
 
-Sobald das Nervensystem stabiler ist, geht die Therapie daran, die Traumamemory selbst zu verarbeiten. Das geschieht oft mit Techniken wie EMDR, Somatic Experiencing, oder anderen spezialisierten Methoden. Der Mensch muss das Trauma "revivieren" — aber in einer sicheren, kontrollierten Weise — damit sein Gehirn es neu klassifizieren kann.
+Sobald das Nervensystem stabiler ist, geht die Therapie daran, die Traumamemory selbst zu verarbeiten. Das geschieht oft mit Techniken wie [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/), Somatic Experiencing, oder anderen spezialisierten Methoden. Der Mensch muss das Trauma "revivieren" — aber in einer sicheren, kontrollierten Weise — damit sein Gehirn es neu klassifizieren kann.
 
 Dies ist die schwierigste Phase. Die Symptome können sich vorübergehend verschlimmern. Menschen fühlen sich intensiver verstrickt in emotionale Erinnerungen. In Beziehungen kann das bedeuten, dass der traumatisierte Partner emotional weniger verfügbar ist, weil er oder sie mit intensiven inneren Prozessen beschäftigt ist.
 

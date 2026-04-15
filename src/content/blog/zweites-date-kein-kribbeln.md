@@ -62,7 +62,7 @@ Bist du offen dafür dass sich die Anziehung entwickeln könnte? Das ist wichtig
 
 Ich sage meinen Klienten immer: Mindestens drei Dates, sofern es keine großen [Red Flags](/blog/dating-red-flags-maenner-erkennen). Und da brauchst du nicht weitermachen.
 
-Der Unterschied ist: Fehlende Schmetterlinge fühlen sich an wie „neutral". Red Flags fühlen sich an wie „Vorsicht, Probleme". Wenn du nicht sicher bist, dann gib ihr das dritte Date. Wenn du dir sicher bist, dass da Probleme sind, dann spare dir die Zeit.
+Der Unterschied ist: Fehlende Schmetterlinge fühlen sich an wie „neutral". [Red Flags](/red-flags/) fühlen sich an wie „Vorsicht, Probleme". Wenn du nicht sicher bist, dann gib ihr das dritte Date. Wenn du dir sicher bist, dass da Probleme sind, dann spare dir die Zeit.
 
 ## Die Wahrheit über schnelle Anziehung
 
@@ -115,7 +115,7 @@ Mindestens drei, sofern es keine Red Flags gibt. Nervosität beim ersten Date ka
 
 **Was wenn ich nie Kribbeln spüre?**
 
-Dann prüfe ob du vielleicht unbewusst nur „Drama" als Anziehung erkennst. Menschen mit ängstlichem Bindungsstil verwechseln oft Nervosität und Unsicherheit mit Verliebtheit. Echte Liebe kann sich anfangs einfach nur „gut" anfühlen — nicht wie ein Abenteuer.
+Dann prüfe ob du vielleicht unbewusst nur „Drama" als Anziehung erkennst. Menschen mit ängstlichem [Bindungsstil](/bindungsstile/) verwechseln oft Nervosität und Unsicherheit mit Verliebtheit. Echte Liebe kann sich anfangs einfach nur „gut" anfühlen — nicht wie ein Abenteuer.
 
 **Ist es schlecht wenn ich mich zu früh festlege?**
 

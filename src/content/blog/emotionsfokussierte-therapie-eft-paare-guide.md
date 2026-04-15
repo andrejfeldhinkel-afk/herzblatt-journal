@@ -83,7 +83,7 @@ Diese Bindungsstile entstehen nicht in der Kindheit und verschwinden dann. Sie w
 
 Und dann wächst du auf und suchst dir einen Partner.
 
-Wenn du einen anklammernd-ambivalenten Bindungsstil hast, wirst du wahrscheinlich mehr Nähe und Bestätigung suchen. Du wirst fragen, kontrollieren, protestieren — alles mit dem unterschwelligen Gedanken: "Bist du wirklich noch da? Liebst du mich wirklich?" Dein Partner, der vielleicht einen vermeidenden Bindungsstil hat, wird das als Kritik oder Kontrolle erleben und sich noch mehr zurückziehen.
+Wenn du einen anklammernd-ambivalenten [Bindungsstil](/bindungsstile/) hast, wirst du wahrscheinlich mehr Nähe und Bestätigung suchen. Du wirst fragen, kontrollieren, protestieren — alles mit dem unterschwelligen Gedanken: "Bist du wirklich noch da? Liebst du mich wirklich?" Dein Partner, der vielleicht einen vermeidenden Bindungsstil hat, wird das als Kritik oder Kontrolle erleben und sich noch mehr zurückziehen.
 
 Und dort beginnt die negative Interaktionsspirale.
 

@@ -191,7 +191,7 @@ Und feiere die Fortschritte, wenn sie kommen.
 
 Du brauchst einen Therapeuten, der auf Trauma spezialisiert ist.
 
-Idealerweise einen, der EMDR, CPT, oder PE macht (evidenzbasierte Trauma-Therapien).
+Idealerweise einen, der [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/), CPT, oder PE macht (evidenzbasierte Trauma-Therapien).
 
 Das ist nicht, dass dein Partner dich nicht heilen kann. Das ist, dass dein Nervensystem Fachmann braucht.
 
@@ -284,7 +284,7 @@ Die Heilung bedeutet, dass Sex wieder sicher ist.
 
 ## Die Bindungsstile nach Trauma
 
-Kindesmissbrauch beschädigt oft deine Bindungsstile.
+Kindesmissbrauch beschädigt oft deine [Bindungsstile](/bindungsstile/).
 
 Du könntest vermeidend sein. Du könntest dich abschneiden, um dich zu schützen.
 

@@ -108,7 +108,7 @@ Das ist warum ihr redet brauchts über:
 - Posten wir Paarfotos öffentlich oder halten wir privat?
 - Wenn dein Partner möchte privat bleiben — warum?
 
-Das ist wichtig weil wenn die Antwort ist "Ich werde privat weil ich möchte nicht dass mein Ex sieht dass ich happy" — das ist eine Red Flag.
+Das ist wichtig weil wenn die Antwort ist "Ich werde privat weil ich möchte nicht dass mein Ex sieht dass ich happy" — das ist eine [Red Flag](/red-flags/).
 
 Das bedeutet dass jemand-andere ist influencing deine Beziehung.
 

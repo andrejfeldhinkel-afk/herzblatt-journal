@@ -259,7 +259,7 @@ Hier muss ich ehrlich sein. Das ist meistens nicht wahr.
 
 Menschen denken oft: "Sie ist nett, ich muss ihr nur mehr Zeit geben."
 
-Das ist das Rezept für das [Komplimente](/blog/komplimente-fuer-maenner) sehr schnell, kann das ein Red Flag sein. Das kann bedeuten dass die Person manipulativ ist. Echte Chemistry baut sich organisch auf, nicht forciert.
+Das ist das Rezept für das [Komplimente](/blog/komplimente-fuer-maenner) sehr schnell, kann das ein [Red Flag](/red-flags/) sein. Das kann bedeuten dass die Person manipulativ ist. Echte Chemistry baut sich organisch auf, nicht forciert.
 
 ## Wie man Chemistry intentional aufbaut
 

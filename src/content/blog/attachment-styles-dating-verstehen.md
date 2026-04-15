@@ -33,7 +33,7 @@ In diesem Guide erfährst du alles über die vier Bindungsstile, wie du deinen e
 
 ### Sicherer Bindungsstil (Secure Attachment)
 
-Menschen mit sicherem Bindungsstil haben in ihrer Kindheit gelernt, dass ihre Bedürfnisse zuverlässig erfüllt werden. Sie fühlen sich in Beziehungen wohl, können Nähe zulassen und gleichzeitig ihre Unabhängigkeit bewahren.
+Menschen mit sicherem [Bindungsstil](/bindungsstile/) haben in ihrer Kindheit gelernt, dass ihre Bedürfnisse zuverlässig erfüllt werden. Sie fühlen sich in Beziehungen wohl, können Nähe zulassen und gleichzeitig ihre Unabhängigkeit bewahren.
 
 Beim Dating erkennst du sicher gebundene Menschen daran, dass sie klar kommunizieren, Interesse offen zeigen und sich nicht in Spielchen verstricken. Sie reagieren nicht panisch, wenn ein Date nicht sofort zurückschreibt, und ziehen sich auch nicht zurück, wenn es emotional wird.
 

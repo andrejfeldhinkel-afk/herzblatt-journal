@@ -307,7 +307,7 @@ Dies ist eine wichtige Unterschied zu verstehen. Viele Menschen verwechseln Lime
 - Führt zu irrationalen Verhalten
 - Geht vorbei (normalerweise nach 2-3 Jahren)
 - Ist einseitig möglich (du kannst [Love Bombing](/blog/love-bombing-erkennen-schuetzen) und der Honeymoon-Effekt**
-Love Bombing ist, wenn jemand dich am Anfang mit Aufmerksamkeit und Liebe überwältigt. Es fühlt sich magisch an. Das ist das "Stadium 1" des Twin-Flame-Konzepts.
+[Love Bombing](/blog/lovebombing-phasen/) ist, wenn jemand dich am Anfang mit Aufmerksamkeit und Liebe überwältigt. Es fühlt sich magisch an. Das ist das "Stadium 1" des Twin-Flame-Konzepts.
 
 Aber Love Bombing ist oft ein Manipulation-Taktik. Es ist nicht echte Liebe. Es ist eine Weise, dich in die Beziehung zu ziehen, damit die Person dich später kontrollieren kann.
 

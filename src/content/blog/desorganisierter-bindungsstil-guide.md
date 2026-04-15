@@ -39,7 +39,7 @@ Wenn du diese innere Zerreißerei kennst — diese Ping-Pong-Bewegung zwischen "
 
 ## Was ist der desorganisierte Bindungsstil?
 
-Der desorganisierte Bindungsstil (auch "fearful-avoidant" genannt) ist wie ein inneres Kriegsschauplatz. Zwei gegensätzliche Teile von dir kämpfen ständig miteinander:
+Der desorganisierte [Bindungsstil](/bindungsstile/) (auch "fearful-avoidant" genannt) ist wie ein inneres Kriegsschauplatz. Zwei gegensätzliche Teile von dir kämpfen ständig miteinander:
 
 - Der eine Teil sehnt sich nach Nähe, Sicherheit und Verbundenheit
 - Der andere Teil hat Angst vor genau dieser Nähe und zieht sich zurück
@@ -76,7 +76,7 @@ Bindungsstile entstehen nicht zufällig. Sie sind **intelligente Überlebensstra
 
 Ein Kind, das einen sicheren Bindungsstil entwickelt, hatte Glück: Es hatte mindestens eine Bezugsperson, die **konsistent verfügbar, emotional responsiv und verlässlich** war.
 
-Ein desorganisierter Bindungsstil entsteht, wenn diese Basis fehlte. Typischerweise in einer dieser Situationen:
+Ein [desorganisierter Bindungsstil](/blog/desorganisierter-bindungsstil/) entsteht, wenn diese Basis fehlte. Typischerweise in einer dieser Situationen:
 
 ### 1. Deine Bezugsperson war gleichzeitig Quelle von Sicherheit UND Angst
 
@@ -247,7 +247,7 @@ Dies ist nicht optional für jeden, aber für die meisten Menschen mit desorgani
 
 Die beste Therapie für Bindungsprobleme ist eine Therapie-Schule, die auf Traumabearbeitung und Körperarbeit fokussiert:
 
-- **EMDR** (Eye Movement Desensitization and Reprocessing): Hilft, traumatische Erinnerungen zu integrieren
+- **[EMDR](/blog/emdr-beziehungstrauma-heilen-guide/)** (Eye Movement Desensitization and Reprocessing): Hilft, traumatische Erinnerungen zu integrieren
 - **Somatic Experiencing** (SE): Arbeitet direkt mit deinem Nervensystem, nicht nur deinem Verstand
 - **Attachment-Based Therapy**: Ein Therapeut, der die Bindungstheorie versteht
 - **Internal Family Systems** (IFS): Arbeitet mit verschiedenen "Teilen" von dir — der ängstliche und der vermeidende Teil werden beide würdigt

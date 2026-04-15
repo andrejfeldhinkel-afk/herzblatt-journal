@@ -43,7 +43,7 @@ Liebessucht tritt in verschiedenen Formen auf. Manche Menschen sind serielle Bez
 
 Wenn du [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) entwickelt sich typischerweise, wenn die primäre Bezugsperson (meist die Mutter) manchmal sehr präsent und liebevoll ist, manchmal aber emotional nicht verfügbar oder sogar ablehnt. Das Kind lernt, dass Aufmerksamkeit nicht garantiert ist, sondern verdient werden muss. Es wird ein Experte darin, die Stimmungen des Elternteils zu lesen und sich anzupassen.
 
-Ein vermeidender Bindungsstil – obwohl oft mit Liebessucht nicht assoziiert – kann auch zu Liebessucht führen, besonders wenn es mit [Bindungsangst](/blog/bindungsangst-komplett-guide) vermischt wird. Diese Menschen vermeiden emotionale Nähe, aber wenn sie jemanden treffen, der sie „durchbrechen" kann, werden sie obsessiv.
+Ein [vermeidender Bindungsstil](/blog/vermeidender-bindungsstil/) – obwohl oft mit Liebessucht nicht assoziiert – kann auch zu Liebessucht führen, besonders wenn es mit [Bindungsangst](/blog/bindungsangst-komplett-guide) vermischt wird. Diese Menschen vermeiden emotionale Nähe, aber wenn sie jemanden treffen, der sie „durchbrechen" kann, werden sie obsessiv.
 
 Das ist nicht deine Schuld. Das ist nicht, weil du „zu viel" liebst. Das ist ein erlerntes Muster, eine Überlebensstrategie, die in deinem Körper gespeichert ist.
 
@@ -71,7 +71,7 @@ Traumafokussierte kognitive Verhaltenstherapie (TF-CBT) kann helfen, deine Kindh
 
 Emotionsorientierte Therapie (EFT) kann dir helfen, deine Gefühle zu regulieren und dich sicherer zu fühlen, ohne eine andere Person zu brauchen. Sie arbeitet mit deinem Nervensystem, um es zu beruhigen und zu heilen.
 
-Attachment-basierte Therapie konzentriert sich direkt auf deine Bindungsstile und lehrt dich, sicherere Bindungen aufzubauen – zuerst zu dir selbst, dann zu anderen. Sie untersucht deine Muster in Beziehungen und hilft dir, neue Reaktionen zu entwickeln.
+Attachment-basierte Therapie konzentriert sich direkt auf deine [Bindungsstile](/bindungsstile/) und lehrt dich, sicherere Bindungen aufzubauen – zuerst zu dir selbst, dann zu anderen. Sie untersucht deine Muster in Beziehungen und hilft dir, neue Reaktionen zu entwickeln.
 
 Ein guter Therapeut wird dir helfen zu sehen, wann du dich in einer neuen Beziehung befindest, bevor du wieder in das alte Muster verfällst. Sie werden mit dir arbeiten, um deine Wahrnehmung zu trainieren, sodass du rote Flaggen früh erkennen kannst.
 

@@ -70,7 +70,7 @@ Während des Dates, vergesse nicht zu lächeln und Augenkontakt zu halten. Dies 
 
 ## Die [Red Flags](/blog/dating-red-flags-maenner-erkennen) erkennen beim Dating nach langer Beziehung
 
-Nach einer langen Beziehung kannst du manchmal nicht zu deinen besten Instinkten vertrauen. Es ist daher wichtig, klare Red Flags zu kennen, auf die du achten solltest. Wenn jemand dich schnell drückt, schnell zu viel Zeit zusammen zu verbringen oder schnell die Beziehung zu eskalieren, könnte das ein Red Flag sein. Dies könnte Liebebombing sein - eine Taktik, die toxische Menschen nutzen, um schnell eine Bindung zu schaffen.
+Nach einer langen Beziehung kannst du manchmal nicht zu deinen besten Instinkten vertrauen. Es ist daher wichtig, klare [Red Flags](/red-flags/) zu kennen, auf die du achten solltest. Wenn jemand dich schnell drückt, schnell zu viel Zeit zusammen zu verbringen oder schnell die Beziehung zu eskalieren, könnte das ein Red Flag sein. Dies könnte Liebebombing sein - eine Taktik, die toxische Menschen nutzen, um schnell eine Bindung zu schaffen.
 
 Ein weiteres Red Flag ist, wenn jemand dich nicht nach deinem eigenen Leben fragt oder kein Interesse an deinen Gedanken, Gefühlen oder Plänen zeigt. Eine gesunde Beziehung ist gegenseitig. Wenn die Person eifersüchtig wird, wenn du mit Freunden ausgehst, oder dich kontrollieren will, renn! Diese sind frühe Zeichen eines unhealthy Partners. Achte auch auf Menschen, die über ihre Ex-Partner schlecht sprechen oder nie die Schuld für Beziehungsprobleme übernehmen - dies könnte bedeuten, dass sie nicht selbstreflektiv sind.
 

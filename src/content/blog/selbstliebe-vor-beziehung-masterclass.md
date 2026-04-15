@@ -48,7 +48,7 @@ Selbstliebe ist NICHT:
 - Mangelnde Verantwortung für deine Fehler
 - Sich selbst verwöhnen mit materiellen Dingen
 - Immer sich glücklich fühlen
-- Narzissmus
+- [Narzissmus](/narzissmus/)
 
 Selbstliebe IS:
 - Dich selbst zu behandeln, wie du einen guten Freund behandeln würdest

@@ -13,7 +13,7 @@ Eine toxische [Gaslighting](/blog/gaslighting-komplett-guide)
 
 Das ist eine Form der psychologischen Manipulation, bei der dein Partner dich anfängt, an deinen eigenen Gedanken und Gefühlen zu zweifeln.
 
-Gaslighting ist:
+[Gaslighting](/blog/was-ist-gaslighting/) ist:
 - „Das hat die genauso gesagt"
 - „Du erinnerst dich falsch"
 - „Das ist nicht passiert"

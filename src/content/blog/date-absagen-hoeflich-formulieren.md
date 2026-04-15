@@ -133,7 +133,7 @@ Nach einer Absage:
 
 1. **Gib Raum:** Die andere Person braucht Zeit, um die Absage zu verarbeiten. Drücke nicht auf Antwort oder Verständnis.
 
-2. **Keine Hoovering:** Kontaktiere die Person nicht wiederholt, um sicherzustellen, dass sie nicht verletzt ist.
+2. **Keine [Hoovering](/blog/hoovering-narzissmus-erkennen/):** Kontaktiere die Person nicht wiederholt, um sicherzustellen, dass sie nicht verletzt ist.
 
 3. **Sei konsistent:** Wenn du absagst, halte dich daran. Kehre nicht plötzlich zurück.
 

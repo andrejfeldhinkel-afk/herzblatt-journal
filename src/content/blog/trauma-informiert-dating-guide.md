@@ -25,7 +25,7 @@ faq:
     answer: "Ja, wenn du bewusst datest und auf sichere Menschen triffst. Korrigierende Beziehungserfahrungen sind einer der stärksten Heilungsfaktoren. Dating kann eine Art Therapie-Labor für neue Muster sein."
 ---
 
-Dein Herz klopft schneller, bevor der erste Date überhaupt beginnt. Du overanalyzierst jede Nachricht, interpretierst einen fehlenden Emoji als Ablehnung und fragst dich, ob du überhaupt ready bist für neue Liebe. Wenn du ein Trauma durchlebt hast — ob emotionalen Missbrauch, eine toxische Beziehung oder tiefere Kindheitswunden — ist Dating nicht einfach nur Dating. Es ist eine Reise zurück in dich selbst.
+Dein Herz klopft schneller, bevor der erste Date überhaupt beginnt. Du overanalyzierst jede Nachricht, interpretierst einen fehlenden Emoji als Ablehnung und fragst dich, ob du überhaupt ready bist für neue Liebe. Wenn du ein Trauma durchlebt hast — ob emotionalen Missbrauch, eine [toxische Beziehung](/toxische-beziehung/) oder tiefere Kindheitswunden — ist Dating nicht einfach nur Dating. Es ist eine Reise zurück in dich selbst.
 
 Trauma-informiert daten bedeutet nicht, dass du perfekt sein musst oder dein Trauma vollständig geheilt sein muss, bevor du wieder liebst. Es bedeutet, dass du lernst, mit deinem nervalen System zu arbeiten statt gegen es. Du erkennst deine Muster, respektierst deine Grenzen und triffst Entscheidungen aus Klarheit statt aus Panik oder Einsamkeit.
 
@@ -271,7 +271,7 @@ Er kann Verantwortung übernehmen. Er entschuldigt sich tatsächlich, wenn er ei
 
 Er versucht, deine Grenzen zu verstehen. Wenn du hypervigilant wirst, fragt er "Was brauchst du jetzt?" statt dir zu sagen, dass du zu viel denkst.
 
-Er ist nicht Drama. Mit ihm fühlt sich Dating nicht wie eine Achterbahn an. Es gibt kein ständiges "Wird er mich anrufen?", kein Ghosting, kein Hot-and-Cold. Das ist nicht langweilig, das ist reif.
+Er ist nicht Drama. Mit ihm fühlt sich Dating nicht wie eine Achterbahn an. Es gibt kein ständiges "Wird er mich anrufen?", kein [Ghosting](/blog/ghosting-komplett-guide/), kein Hot-and-Cold. Das ist nicht langweilig, das ist reif.
 
 Er hat Grenzen. Ein Mensch ohne Grenzen ist ein Mensch mit versteckten Problemen. Ein Mensch mit klaren Grenzen respektiert auch deine.
 
@@ -411,7 +411,7 @@ Der einzige Weg durch Ablehnung ist durch. Fühle es, durchlebe es, und wähle w
 
 ## Rote Flaggen: Die anderen solltest du schnell erkennen
 
-Während du lernst, deine Trigger zu unterscheiden von Real Red Flags, hier sind die unendeutigen. Wenn du sehe:
+Während du lernst, deine Trigger zu unterscheiden von Real [Red Flags](/red-flags/), hier sind die unendeutigen. Wenn du sehe:
 
 Ein Muster von Lügen. Ein vergessener Termin ist menschlich. Ein Muster von dir falsche Information über sich zu erzählen ist nicht.
 

@@ -40,7 +40,7 @@ faq:
     answer: "Ja, wenn es nicht adressiert wird. Chronisches Silent Treatment führt zu Vertrauensverlust, Angststörungen und möglicher Trennung. Paartherapie ist oft notwendig."
 ---
 
-Dein Partner spricht nicht mehr mit dir. Kein Wort, kein Blick, keine Reaktion — seit Stunden, vielleicht seit Tagen. Du fragst dich, was du falsch gemacht hast. Du versuchst alles, um die Stille zu durchbrechen. Aber nichts funktioniert. Willkommen beim **Silent Treatment** — einer der destruktivsten Formen von [emotionalem Missbrauch in Beziehungen](/blog/emotionaler-missbrauch-beziehung-guide/).
+Dein Partner spricht nicht mehr mit dir. Kein Wort, kein Blick, keine Reaktion — seit Stunden, vielleicht seit Tagen. Du fragst dich, was du falsch gemacht hast. Du versuchst alles, um die Stille zu durchbrechen. Aber nichts funktioniert. Willkommen beim **[Silent Treatment](/blog/silent-treatment-bedeutung/)** — einer der destruktivsten Formen von [emotionalem Missbrauch in Beziehungen](/blog/emotionaler-missbrauch-beziehung-guide/).
 
 ## Was ist Silent Treatment? Bedeutung und Definition
 

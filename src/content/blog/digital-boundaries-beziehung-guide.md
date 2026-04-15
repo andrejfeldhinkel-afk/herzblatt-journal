@@ -243,7 +243,7 @@ Das Wichtigste ist, dass die Grenzen nicht aufgezwungen werden, sondern gemeinsa
 
 Jetzt lass mich dir sagen, wann digitales Verhalten in deine Beziehung nicht mehr gehört. Wann es zu rot-flag wird, zu klar unhealthy.
 
-**Red Flag 1: Ständige Kontrolle**
+**[Red Flag](/red-flags/) 1: Ständige Kontrolle**
 
 Wenn dein Partner immer wissen will, wo du bist. Wen du triffst. Wen du fragst. Das ist Kontrolle. Und Kontrolle ist emotional missbräuchlich.
 

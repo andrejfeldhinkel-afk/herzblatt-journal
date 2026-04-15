@@ -171,5 +171,5 @@ Und weil das – weil er nicht bereit ist für echte Verbindung – könntest du
 ---
 
 **Verwandte Artikel:**
-- Ghosts überwinden: Emotionale Heilung nach Ghosting
+- Ghosts überwinden: Emotionale Heilung nach [Ghosting](/blog/ghosting-komplett-guide/)
 - [Selbstsabotage beim Dating: Warum du immer wieder die Falschen wählst](/blog/selbstsabotage-dating-muster-guide)

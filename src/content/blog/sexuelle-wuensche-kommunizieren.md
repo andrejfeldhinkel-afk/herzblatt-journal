@@ -454,7 +454,7 @@ Weil du nicht über „schmutzige Dinge" sprichst. Du sprichst über „Liebe au
 
 **Frage: Was ist, wenn mein Partner auf meine sexuellen Wünsche mit Ungläubigkeit oder Verachtung antwortet?**
 
-Antwort: Das ist ein Red Flag. Ein liebevoller Partner mag nicht alle deine Wünsche teilen. Aber ein liebevoller Partner wird dich nicht verurteilen.
+Antwort: Das ist ein [Red Flag](/red-flags/). Ein liebevoller Partner mag nicht alle deine Wünsche teilen. Aber ein liebevoller Partner wird dich nicht verurteilen.
 
 Wenn dein Partner deine Wünsche verachtet, ist das ein Mangel an Respekt. Das ist keine Grundlage für eine gesunde Beziehung.
 

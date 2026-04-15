@@ -23,7 +23,7 @@ faq:
 
 John Bowlby, ein englischer Psychoanalytiker, machte eine revolutionäre Entdeckung: Wie deine Eltern dich in deinen ersten Lebensjahren behandelten, bestimmt nicht nur deine Kindheit, sondern deine gesamte romantische Zukunft. Seine Bindungstheorie ist einer der einflussreichsten psychologischen Konzepte für das Verständnis von Beziehungen. Und es erklärt so viel von dem, was wir in unseren Beziehungen erleben — warum wir bestimmte Menschen anziehen, wie wir reagieren, wenn jemand uns verlässt, warum Nähe manchmal sicher und manchmal gefährlich anfühlt.
 
-Diese Theorie ist nicht deprimierend. Im Gegenteil — sie ist hoffnungsvoll. Weil sie zeigt, dass dein Bindungsstil nicht dein Schicksal ist. Er ist dein Ausgangspunkt.
+Diese Theorie ist nicht deprimierend. Im Gegenteil — sie ist hoffnungsvoll. Weil sie zeigt, dass dein [Bindungsstil](/bindungsstile/) nicht dein Schicksal ist. Er ist dein Ausgangspunkt.
 
 ## Das Grundkonzept — Wie frühe Erfahrungen dich programmieren
 

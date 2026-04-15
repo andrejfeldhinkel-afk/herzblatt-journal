@@ -21,7 +21,7 @@ author: "sarah-kellner"
 
 Es gibt einen Grund, warum einige Menschen in Beziehungen beruhigt sind und andere ständig angespannt sind. Es gibt einen Grund, warum manche Menschen viel Nähe brauchen und andere Abstand. Das hängt mit deinem Bindungstyp zusammen – und die Psychologie dahinter ist faszinierend.
 
-Die Theorie der Bindungstypen kommt von John Bowlby und wurde von Mary Ainsworth erweitert. Sie beschreibt, wie wir in frühen Kindheit lernen, mit Nähe und [Trennung](/blog/trennung-verarbeiten-12-schritte) umzugehen – und wie das später unser Dating- und Beziehungsleben beeinflusst.
+Die Theorie der [Bindungstypen](/bindungsstile/) kommt von John Bowlby und wurde von Mary Ainsworth erweitert. Sie beschreibt, wie wir in frühen Kindheit lernen, mit Nähe und [Trennung](/blog/trennung-verarbeiten-12-schritte) umzugehen – und wie das später unser Dating- und Beziehungsleben beeinflusst.
 
 Es gibt vier Bindungstypen. Welcher bist du?
 

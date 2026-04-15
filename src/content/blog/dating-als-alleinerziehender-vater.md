@@ -117,7 +117,7 @@ Es gibt bestimmte Dinge, die sollten sofort ein Stop-Signal sein.
 
 **Sie ist eifersüchtig auf dein Kind.** Nicht ein bisschen Eifersucht — das kann normal sein. Aber wenn sie versucht, dich weg von deinem Kind zu bringen, oder dich kritisiert, wie du Vater/Mutter bist — weg damit.
 
-**Sie will schnell eine Familie spielen.** Wenn sie nach drei Monaten mit deinem Kind eine Übernachtung haben will oder eine Mama-Rolle einnimmt, bevor dein Kind sie als diese Person sieht — Red Flag.
+**Sie will schnell eine Familie spielen.** Wenn sie nach drei Monaten mit deinem Kind eine Übernachtung haben will oder eine Mama-Rolle einnimmt, bevor dein Kind sie als diese Person sieht — [Red Flag](/red-flags/).
 
 **Sie respektiert das Co-Parenting nicht.** Wenn sie versucht, deine Co-Parent zu unterwandern oder deren Autorität zu untergraben, ist das giftig. Sie müssen keine Freunde sein, aber sie müssen respektvoll sein.
 

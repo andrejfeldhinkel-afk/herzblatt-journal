@@ -165,7 +165,7 @@ Das ist nicht romantic. Das ist **pathologisch**.
 
 Um zu verstehen, warum du klammerst, müssen wir zur Bindungstheorie gehen. Das ist nicht nur Psychologie-Klasse. Das ist der Schlüssel zu deiner Heilung.
 
-Die Bindungstheorie wurde von John Bowlby entwickelt und sagt: Dein Bindungsstil wird in den ersten Jahren deines Lebens geprägt. Wie deine Eltern mit dir umgegangen haben, wird bestimmen, wie du später in Beziehungen funktionierst.
+Die Bindungstheorie wurde von John Bowlby entwickelt und sagt: Dein [Bindungsstil](/bindungsstile/) wird in den ersten Jahren deines Lebens geprägt. Wie deine Eltern mit dir umgegangen haben, wird bestimmen, wie du später in Beziehungen funktionierst.
 
 Es gibt primär zwei unsichere Bindungsstile: ängstlich-gebunden und vermeidend-gebunden.
 
@@ -672,7 +672,7 @@ Du wirst wahrscheinlich:
 
 Hier ist, was du stattdessen tun musst:
 
-- **No Contact**: Lösche seine Nummer. Entfreunde ihn auf Social Media. Blockiere ihn, wenn nötig.
+- **[No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/)**: Lösche seine Nummer. Entfreunde ihn auf Social Media. Blockiere ihn, wenn nötig.
 - **Therapie**: Jetzt, mehr als je zuvor, brauchst du professionelle Hilfe
 - **Physische Distanz**: Wenn ihr in der gleichen Stadt seid, überlegen, umzuziehen
 - **Neue Umgebung**: Gehe zu neuen Plätzen. Vermeide die Plätze, wo ihr zusammen wart

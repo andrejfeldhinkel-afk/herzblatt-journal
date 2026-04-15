@@ -46,7 +46,7 @@ Es gibt mehrere Gründe, warum einer Partner mehr liebt:
 
 Manche Menschen sind emotional intensiver. Manche sind ruhiger. Das ist nicht Schuld – es ist einfach wie sie sind verdrahtet.
 
-**Unterschiedliche Bindungsstile**
+**Unterschiedliche [Bindungsstile](/bindungsstile/)**
 
 Manche Menschen sind sicher gebunden (offen, vertrauensvoll). Manche sind ängstlich gebunden (brauchen ständige Bestätigung) oder avoidant gebunden (Distance bevorzugen).
 

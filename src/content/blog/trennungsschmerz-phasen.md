@@ -225,7 +225,7 @@ Es gibt keine einstellen Antwort. Manche Menschen sind schnell bereit, manche br
 
 ### "Sollte ich mit meiner Ex in Kontakt bleiben?"
 
-Nein, nicht in der frühen Phase. Dein Gehirn ist noch vernarbt. Kontakt hält die Heilung auf. Nach Monaten (oder Jahren), wenn die emotionale Last weg ist, könntest du Kontakt erwägen. Aber in den ersten Monaten: No Contact.
+Nein, nicht in der frühen Phase. Dein Gehirn ist noch vernarbt. Kontakt hält die Heilung auf. Nach Monaten (oder Jahren), wenn die emotionale Last weg ist, könntest du Kontakt erwägen. Aber in den ersten Monaten: [No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/).
 
 ### "Wird der Schmerz jemals komplett weg gehen?"
 

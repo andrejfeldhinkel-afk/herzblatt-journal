@@ -42,7 +42,7 @@ Dieser umfassende Guide wird dir helfen, eine narzisstische Mutter zu erkennen, 
 
 ## Was ist eine narzisstische Mutter? Definition und Grundlagen
 
-Eine narzisstische Mutter ist eine Person mit narzisstischen Persönlichkeitszügen, die ihre Mutterrolle in einer emotionalen emotional missbräuchlichen Weise ausübt. Der Begriff "narzisstisch" bezieht sich auf ein Muster von Narzissmus — nicht unbedingt auf eine formale Diagnose einer narzisstischen Persönlichkeitsstörung, obwohl diese auch vorhanden sein kann.
+Eine narzisstische Mutter ist eine Person mit narzisstischen Persönlichkeitszügen, die ihre Mutterrolle in einer emotionalen emotional missbräuchlichen Weise ausübt. Der Begriff "narzisstisch" bezieht sich auf ein Muster von [Narzissmus](/narzissmus/) — nicht unbedingt auf eine formale Diagnose einer narzisstischen Persönlichkeitsstörung, obwohl diese auch vorhanden sein kann.
 
 Im Kern ist eine narzisstische Mutter selbstbezogen, empathiefähig und manipulativ. Sie sieht ihre Kinder nicht als eigenständige Menschen mit eigenen Bedürfnissen und Gefühlen, sondern als Erweiterungen ihrer selbst. Sie nutzt ihre Kinder, um ihren eigenen emotionalen Hunger zu stillen, ihren Mangel an Selbstwert zu kompensieren und ihre Kontrolle zu wahren.
 
@@ -104,7 +104,7 @@ Es gibt viele Warnzeichen, die auf eine narzisstische Mutter hindeuten. Nicht je
 
 **5. Grenzverletzungen:** Sie ignoriert deine Grenzen systematisch. Du sagst "Mama, bitte ruf nicht an während der Arbeit" und sie ruft fünf Mal an. Du sagst "Das ist ein privates Gespräch" und sie wiederholt es der ganzen Familie. Sie geht in dein Zimmer ohne zu klopfen, liest deine Tagebücher, öffnet deine Post.
 
-**6. Bedarf nach Bewunderung und konstanter Aufmerksamkeit:** Sie braucht regelmäßige [Gaslighting](/blog/gaslighting-komplett-guide) und Realitätsverdrehung:** Sie ändert die Wahrheit, wenn es ihr passt. "Das habe ich nie gesagt" (obwohl sie es tat). "Das ist nicht passiert" (obwohl es dich traumatisierte). Sie macht dich verrückt mit ihren Umdeutungen deiner Realität. Mehr über Gaslighting kannst du in unserem [umfassenden Guide zu Gaslighting in Beziehungen](/blog/gaslighting-beziehung-erkennen/) lernen.
+**6. Bedarf nach Bewunderung und konstanter Aufmerksamkeit:** Sie braucht regelmäßige [Gaslighting](/blog/gaslighting-komplett-guide) und Realitätsverdrehung:** Sie ändert die Wahrheit, wenn es ihr passt. "Das habe ich nie gesagt" (obwohl sie es tat). "Das ist nicht passiert" (obwohl es dich traumatisierte). Sie macht dich verrückt mit ihren Umdeutungen deiner Realität. Mehr über [Gaslighting](/blog/was-ist-gaslighting/) kannst du in unserem [umfassenden Guide zu Gaslighting in Beziehungen](/blog/gaslighting-beziehung-erkennen/) lernen.
 
 **14. Sie zeigt wenig echtes Verständnis für deine Probleme:** Wenn du mit ihr über Probleme sprichst, gibt sie dir keine echte Unterstützung oder Lösungen. Stattdessen könnte sie sagen "Das ist nicht so wichtig wie das, was ich durchmache" oder "Seid einfach positiv".
 
@@ -112,7 +112,7 @@ Es gibt viele Warnzeichen, die auf eine narzisstische Mutter hindeuten. Nicht je
 
 ### Die psychologischen Taktiken
 
-**16. Silent Treatment oder emotionale Kälte:** Wenn du sie in irgendeiner Weise enttäuscht hast (meistens durch das Setzen einer Grenze oder durch Unabhängigkeit), kann sie dich mit Schweigen bestrafen. Das kann Tage oder Wochen dauern. Alles normale Gespräche stoppen. Du wirst ignoriert und die Botschaft ist klar: "Du hast mir weh getan und jetzt ignoriere ich dich". Erfahre mehr über [Silent Treatment und wie es dein Leben beeinflusst](/blog/silent-treatment-beziehung/).
+**16. [Silent Treatment](/blog/silent-treatment-bedeutung/) oder emotionale Kälte:** Wenn du sie in irgendeiner Weise enttäuscht hast (meistens durch das Setzen einer Grenze oder durch Unabhängigkeit), kann sie dich mit Schweigen bestrafen. Das kann Tage oder Wochen dauern. Alles normale Gespräche stoppen. Du wirst ignoriert und die Botschaft ist klar: "Du hast mir weh getan und jetzt ignoriere ich dich". Erfahre mehr über [Silent Treatment und wie es dein Leben beeinflusst](/blog/silent-treatment-beziehung/).
 
 **17. Sie nutzt [emotionale Erpressung](/blog/emotionale-erpressung-beziehung/) als Werkzeug:** Sie bedroht dich mit Konsequenzen, wenn du nicht tust, was sie will. "Wenn du nicht anrufst, denke ich, dass du mich nicht liebst und werde suizidal". Diese Taktik macht dich für ihr emotionales Wohlbefinden verantwortlich.
 
@@ -270,7 +270,7 @@ Dies beraubt sie des "Treibstoffs", den sie braucht. Sie sucht nach einer emotio
 
 Für manche Menschen ist das Setzen von Grenzen genug. Für andere ist es nicht. Wenn die Beziehung zu deiner Mutter deine psychische Gesundheit aktiv beschädigt, wenn sie keine Grenzen respektiert, wenn sie nach manipulativ wie du auch versuchst sie einzuhalten, kann vollständiger Kontaktabbruch die beste Option sein.
 
-Kontaktabbruch (No Contact) bedeutet, dass du keine Kommunikation, Meetings oder andere Kontakte mit der Person hast. Dies ist ein drastischer Schritt und sollte nicht leicht genommen werden. Aber manchmal ist es notwendig.
+Kontaktabbruch ([No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/)) bedeutet, dass du keine Kommunikation, Meetings oder andere Kontakte mit der Person hast. Dies ist ein drastischer Schritt und sollte nicht leicht genommen werden. Aber manchmal ist es notwendig.
 
 Kontaktabbruch kann eine Form der Selbstschutz und Selbstliebe sein. Du wählst nicht, die Person aus Hass zu ignorieren, sondern weil die Beziehung dein Wohlbefinden gefährdet. Dies ist ein wichtiger Unterschied.
 

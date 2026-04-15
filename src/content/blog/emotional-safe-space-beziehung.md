@@ -168,7 +168,7 @@ Beides sind valide Antworten. Aber die erste braucht beide. Und das ist wichtig 
 
 **Lesetipps:**
 - [Liebessprachen verstehen](/blog/liebessprachen-test-anleitung/)
-- [[kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) verbessern](/blog/beziehung-und-social-media-grenzen/)
+- [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) verbessern
 - [Dating nach psychischer Erkrankung](/blog/dating-nach-psychischer-erkrankung/)## Weiterlesen
 
 - [Mental Load in der Beziehung: Die unsichtbare Last fair](/blog/emotional-load-beziehung-mental-load/)

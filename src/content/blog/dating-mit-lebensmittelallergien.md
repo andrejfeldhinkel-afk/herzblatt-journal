@@ -77,7 +77,7 @@ Manchmal wird klar: Dein Date nimmt deine Allergie nicht ernst.
 
 "Ich weiß, dass es nur Erdnussöl ist" oder "Ein bisschen wird dir nicht schaden" oder "Du scheinst mir zu anxious darüber zu sein."
 
-Das sind red flags. Das ist nicht jemand, der dich respektiert oder um deine Sicherheit kümmert.
+Das sind [red flags](/red-flags/). Das ist nicht jemand, der dich respektiert oder um deine Sicherheit kümmert.
 
 Eine Allergie ist keine "Angst, die man überwinden kann". Das ist eine medizinische Realität. Wenn dein Date das nicht versteht, bist du nicht mit dem richtigen Menschen.
 

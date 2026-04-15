@@ -45,7 +45,7 @@ Diese Phasen gehen nicht in einer geraden Linie. Du kannst mehrmals hin- und her
 
 Die erste Wochen sind am schwersten. Hier sind einige Dinge, die dir helfen können:
 
-**No Contact ist dein Freund**
+**[No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/) ist dein Freund**
 
 So schwer es auch ist, breche den Kontakt ab. Keine Texte, keine Anrufe, kein Social-Media-Stalking. Jeder Kontakt wird den Heilungsprozess verlängern.
 

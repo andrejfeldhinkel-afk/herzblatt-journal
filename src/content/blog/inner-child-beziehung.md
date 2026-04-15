@@ -351,7 +351,7 @@ Wenn beide Partner ihre inneren Kinder nähren, nähren sie auch einander.
 
 Einige innere Kind-Wunden erfordern mehr als Selbstarbeit.
 
-Wenn dein inneres Kind erlebte Missbrauch, ist es wichtig, mit jemandem zu arbeiten, der Traumabehandlung versteht. EMDR, Somatic Experiencing, oder IFS könnten heilend sein.
+Wenn dein inneres Kind erlebte Missbrauch, ist es wichtig, mit jemandem zu arbeiten, der Traumabehandlung versteht. [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/), Somatic Experiencing, oder IFS könnten heilend sein.
 
 Wenn dein inneres Kind so extrem traumatisiert wurde, dass es „splitter off" entwickelt oder dissoziiert, benötigst du einen spezialisierten Therapeuten.
 

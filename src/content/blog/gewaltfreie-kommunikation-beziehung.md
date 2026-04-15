@@ -370,7 +370,7 @@ Vorher: "Du bist so kalt! Du zeigst mir nie, dass du mich magst!"
 
 Nachher: "Mir ist aufgefallen, dass du mir selten [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) hat, wird er bei zu viel emotionaler Intensität abschalten. Mit GFK kannst du präzise sein und fokussiert bleiben, was ihm hilft, nicht zu fliehen.
 
-Wenn dein Partner einen ängstlichen Bindungsstil hat, könnte deine GFK-Aussage bei ihm Angst auslösen: "Wenn ich dir etwas sage, was dich unglücklich macht, könnte das bedeuten, dass du mich verlässt." Hier hilft es, extra zu versichern, dass die Beziehung sicher ist.
+Wenn dein Partner einen ängstlichen [Bindungsstil](/bindungsstile/) hat, könnte deine GFK-Aussage bei ihm Angst auslösen: "Wenn ich dir etwas sage, was dich unglücklich macht, könnte das bedeuten, dass du mich verlässt." Hier hilft es, extra zu versichern, dass die Beziehung sicher ist.
 
 Mit sicher gebundenen Partnern funktioniert GFK am leichtesten – sie können deine Wahrheit hören, ohne sie als Bedrohung zu sehen.
 

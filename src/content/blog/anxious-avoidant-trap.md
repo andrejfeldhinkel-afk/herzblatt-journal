@@ -667,7 +667,7 @@ Lassen Sie dem anderen einen Raum.
 
 Nicht Paartherapie jetzt. Individuelle Arbeit.
 
-Arbeite mit jemandem an deinem Bindungsstil. Beginne zu verstehen, woher das kam.
+Arbeite mit jemandem an deinem [Bindungsstil](/bindungsstile/). Beginne zu verstehen, woher das kam.
 
 Die ängstliche Person könnte Arbeit am Selbstmitgefühl tun. Die vermeidende Person könnte Arbeit am Nähe-Toleranz tun.
 

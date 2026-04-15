@@ -51,7 +51,7 @@ Das ist traumatisch. Für beide Seiten.
 
 ## Warum Menschen Push-Pull spielen
 
-**1. Bindungsangst mit Verlassensangst vermischt**
+**1. [Bindungsangst](/blog/bindungsangst-komplett-guide/) mit Verlassensangst vermischt**
 
 Die Person fürchtet sich vor Nähe (push) UND fürchtet sich vor Verlassenheit (pull).
 

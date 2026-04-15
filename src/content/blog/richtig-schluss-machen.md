@@ -196,7 +196,7 @@ Wenn du weißt, dass dein Partner zu Depression, Suchtverhalten oder Selbstverle
 
 ### Das No-Contact-Prinzip verstehen
 
-**No Contact bedeutet, dass du minimale bis keine Kontakt mit deinem Ex hast.** Das ist nicht rücksichtslos — es ist heilsam. Hier ist warum:
+**[No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/) bedeutet, dass du minimale bis keine Kontakt mit deinem Ex hast.** Das ist nicht rücksichtslos — es ist heilsam. Hier ist warum:
 
 - **Es erlaubt beiden zu heilen**: Mit ständigem Kontakt kommt keine wirkliche Loslösung
 - **Es beugt Rückfälligkeit vor**: Zu oft sehen sich Ex-Partner wieder, weil emotionale Wunden noch offen sind

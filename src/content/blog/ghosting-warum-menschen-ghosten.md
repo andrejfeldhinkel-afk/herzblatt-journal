@@ -30,7 +30,7 @@ author: "sarah-kellner"
 
 Du hattest ein tolles Date, die Gespräche liefen gut, die Chemie stimmte, und plötzlich — Stille. Absolute, totale Stille. Keine Antwort auf deine Nachricht, keine Erklärung, keine Existenz mehr. Die Person ist buchstäblich aus deinem Leben verschwunden, als würde sie nicht existieren.
 
-Das ist Ghosting. Und es tut verdammt weh.
+Das ist [Ghosting](/blog/ghosting-komplett-guide/). Und es tut verdammt weh.
 
 Aber hier ist die wichtige Frage, die du dir stellen solltest: Warum machen Menschen das? Was geht in ihrem Kopf vor, wenn sie sich einfach aus dem Staub machen, ohne ein einziges Wort zu sagen? Die Antwort ist komplexer als du vielleicht denkst, und sie hat wenig mit dir zu tun.
 

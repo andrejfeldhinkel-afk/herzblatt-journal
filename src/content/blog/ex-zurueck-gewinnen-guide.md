@@ -25,7 +25,7 @@ Das hier gibt dir die echte Wahrheit: Manchmal funktioniert es, einen Ex zurück
 
 Wenn du hier bist, leidest du wahrscheinlich. Der Schmerz ist real. Dein Herz will diese Person. Aber ich muss dir etwas sagen, das schwer zu hören ist:
 
-**Wenn diese Beziehung toxisch war – wenn es Gaslighting, emotionalen Missbrauch oder kontinuierliche Erniedrigung gab – brauchst du nicht zurück zu dieser Person. Das ist nicht Liebe. Das ist Sucht.**
+**Wenn diese Beziehung toxisch war – wenn es [Gaslighting](/blog/was-ist-gaslighting/), emotionalen Missbrauch oder kontinuierliche Erniedrigung gab – brauchst du nicht zurück zu dieser Person. Das ist nicht Liebe. Das ist Sucht.**
 
 Verwechsel nicht Gewöhnung mit Liebe. Verwechsel nicht Verlangen mit Liebe. Das ist nicht Vergebung und Heilung – das ist sich selbst schaden.
 

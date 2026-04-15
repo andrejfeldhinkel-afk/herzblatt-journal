@@ -129,7 +129,7 @@ Es gibt konkrete Dinge, die du tun kannst, um deine emotionale Unabhängigkeit w
 
 ## Das Trauma der Vernachlässigung verstehen und verarbeiten
 
-Emotionale Vernachlässigung hinterlässt psychologisches Trauma, das ähnlich wie andere Formen von Missbrauch verarbeitet werden muss. Traumatische Bindungen entstehen, wenn Liebe und Schmerz vermischt werden – du liebst deinen Partner, aber dieser Partner verletzt dich durch Vernachlässigung. Dies erzeugt ein intensives und verwirrtes Bindungsmuster. Die Verarbeitung dieses Traumas erfordert Zeit, Geduld und oft professionelle Hilfe. Ein Traumatherapeut kann dir helfen, die Erinnerungen zu verarbeiten und dein Nervensystem zu heilen. Somatische Therapien, EMDR und andere evidenzbasierte Behandlungen können besonders wirksam sein. Es ist wichtig zu verstehen, dass Heilung nicht linear ist – du wirst gute und schwierige Tage haben.
+Emotionale Vernachlässigung hinterlässt psychologisches Trauma, das ähnlich wie andere Formen von Missbrauch verarbeitet werden muss. Traumatische Bindungen entstehen, wenn Liebe und Schmerz vermischt werden – du liebst deinen Partner, aber dieser Partner verletzt dich durch Vernachlässigung. Dies erzeugt ein intensives und verwirrtes Bindungsmuster. Die Verarbeitung dieses Traumas erfordert Zeit, Geduld und oft professionelle Hilfe. Ein Traumatherapeut kann dir helfen, die Erinnerungen zu verarbeiten und dein Nervensystem zu heilen. Somatische Therapien, [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) und andere evidenzbasierte Behandlungen können besonders wirksam sein. Es ist wichtig zu verstehen, dass Heilung nicht linear ist – du wirst gute und schwierige Tage haben.
 
 ## Wiederaufbau deiner Fähigkeit, Vertrauen zu bilden
 

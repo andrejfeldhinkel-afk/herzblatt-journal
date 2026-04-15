@@ -168,7 +168,7 @@ Das Zweite: Du beendest das Date. Du bist höflich, aber du bist klar. "Ich glau
 
 Das Dritte: Du ignorierst ihre Versuche, dich umzustimmen. Sie wird vielleicht sagen: "Gib mir eine Chance." Oder: "Du bist unfair." Das ist egal. Dein Sicherheit und dein Wohlbefinden sind wichtiger.
 
-Das Vierte: Du sprichst mit Freunden darüber. Nicht, um Klatsch zu haben. Sondern um Realität-Check zu bekommen. Manchmal sind wir blind für Red Flags, wenn wir attraktiv jemanden finden. Freunde können helfen.
+Das Vierte: Du sprichst mit Freunden darüber. Nicht, um Klatsch zu haben. Sondern um Realität-Check zu bekommen. Manchmal sind wir blind für [Red Flags](/red-flags/), wenn wir attraktiv jemanden finden. Freunde können helfen.
 
 ## Die wichtigste Lektion
 

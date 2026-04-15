@@ -107,7 +107,7 @@ Praktische innere-Kind-Arbeit könnte so aussehen: Wenn du dich verurteilst, ste
 
 Traditionelle "Talk-Therapie" hilft vielen Menschen, aber für Trauma ist sie oft nicht ausreichend. Das Trauma sitzt nicht nur in deinen Gedanken – es sitzt in deinem Körper, in deinem Nervensystem, in deinem Atem.
 
-EMDR (Eye Movement Desensitization and Reprocessing) ist eine empirisch bewiesene Methode, bei der dich ein Therapeut durch bestimmte Augenbewegungen führt, während du dich an das Trauma erinnerst. Das klingt seltsam, aber es funktioniert: Die Augenbewegungen helfen dem Gehirn, traumatische Erinnerungen zu verarbeiten und ihre emotionale Ladung zu reduzieren.
+[EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) (Eye Movement Desensitization and Reprocessing) ist eine empirisch bewiesene Methode, bei der dich ein Therapeut durch bestimmte Augenbewegungen führt, während du dich an das Trauma erinnerst. Das klingt seltsam, aber es funktioniert: Die Augenbewegungen helfen dem Gehirn, traumatische Erinnerungen zu verarbeiten und ihre emotionale Ladung zu reduzieren.
 
 Somatische Therapie arbeitet direkt mit dem Körper. Der Therapeut hilft dir zu erkennen, wo du Trauma in deinem Körper "hältst" – vielleicht eine angespannte Brust, ein stiffes Genick oder ein knotiger Bauch. Durch sanfte Bewegungen, Atemnungen und körperliches Bewusstsein hilft sie dem Nervensystem, aus dem Alarm-Modus auszusteigen.
 

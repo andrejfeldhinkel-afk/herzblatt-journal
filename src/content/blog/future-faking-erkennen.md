@@ -44,7 +44,7 @@ Future Faking ist eine psychologische Manipulationstechnik, bei der jemand dir e
 
 Das Heimtückische daran ist dies: Das Versprechende merkt es vielleicht nicht mal selbst. Es kann sein, dass er im Moment wirklich meint, was er sagt. Aber sein Verhalten stimmt nicht mit seinen Worten überein. Und das ist das verräterische Zeichen.
 
-Future Faking unterscheidet sich von anderen Manipulationsmustern. Es ist nicht dasselbe wie [Love Bombing](/blog/love-bombing-erkennen-schuetzen), obwohl die beiden oft zusammen auftreten. Beim Love Bombing bombardiert dich jemand mit Aufmerksamkeit und Zuneigung, um dich zu erobern. Future Faking ist das emotionale Versprechen, das diesen Rausch intensiviert: "Nicht nur liebe ich dich jetzt, ich werde dich auch in unserer gemeinsamen Zukunft lieben."
+Future Faking unterscheidet sich von anderen Manipulationsmustern. Es ist nicht dasselbe wie [Love Bombing](/blog/love-bombing-erkennen-schuetzen), obwohl die beiden oft zusammen auftreten. Beim [Love Bombing](/blog/lovebombing-phasen/) bombardiert dich jemand mit Aufmerksamkeit und Zuneigung, um dich zu erobern. Future Faking ist das emotionale Versprechen, das diesen Rausch intensiviert: "Nicht nur liebe ich dich jetzt, ich werde dich auch in unserer gemeinsamen Zukunft lieben."
 
 Die Psychologin Dr. Janis Spring hat dieses Muster gut beschrieben: Menschen, die Future Faking betreiben, versprechen nicht nur die gegenwärtige [Narzissmus im Dating](/blog/narzissmus-dating-erkennen) genauer anschauen.
 
@@ -184,7 +184,7 @@ Baue dein Leben auf deine eigenen Träume und deine eigenen Fähigkeiten auf. Er
 
 ### Schaue auf [Gaslighting](/blog/gaslighting-komplett-guide), Wut, Mangel an Eigenverantwortung, Kontrolliertes Verhalten.
 
-Ein Mensch mit vielen Red Flags wird wahrscheinlich auch Future Faking betreiben.
+Ein Mensch mit vielen [Red Flags](/red-flags/) wird wahrscheinlich auch Future Faking betreiben.
 
 ## Was tun, wenn dein Partner bereits Future Faking betreibt?
 
@@ -192,7 +192,7 @@ Okay, du erkennst dich in diesen Mustern wieder. Dein Partner hat dir Verspreche
 
 ### Schritt 1: Bestätigung der Realität
 
-Der erste Schritt ist, dir selbst zu bestätigen, dass dies wirklich passiert. Das Gaslighting beginnt oft mit Selbzweifel. "Vielleicht bin ich zu ungeduldig." "Vielleicht sind meine Erwartungen zu hoch."
+Der erste Schritt ist, dir selbst zu bestätigen, dass dies wirklich passiert. Das [Gaslighting](/blog/was-ist-gaslighting/) beginnt oft mit Selbzweifel. "Vielleicht bin ich zu ungeduldig." "Vielleicht sind meine Erwartungen zu hoch."
 
 Nein. Wenn Versprechen gemacht wurden und nicht eingelöst werden, dann ist das ein echtes Problem. Deine Bedenken sind gültig.
 

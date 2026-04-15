@@ -27,7 +27,7 @@ Die Frage, die dir im Kopf herumschwirrt: Ist dein Partner dir untreu?
 
 Das ist eine der schwierigsten Fragen, die man sich in einer Beziehung stellen kann. Und die ehrliche Antwort ist: Manchmal ist es offensichtlich. Manchmal ist es versteckt. Manchmal führen wir unsere Intuition einfach in die falsche Richtung.
 
-In diesem Artikel zeige ich dir die echten, wissenschaftlich belegten Zeichen von Untreue. Nicht die paranoid-machenden Vermutungen, sondern die echten red Flags.
+In diesem Artikel zeige ich dir die echten, wissenschaftlich belegten Zeichen von Untreue. Nicht die paranoid-machenden Vermutungen, sondern die echten [red Flags](/red-flags/).
 
 ## Die 12 Hauptverhaltensänderungen
 

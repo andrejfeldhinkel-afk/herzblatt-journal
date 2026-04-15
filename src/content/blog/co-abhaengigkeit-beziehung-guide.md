@@ -143,7 +143,7 @@ Egal welche Ansätze Du wählst, stelle sicher, dass der Therapeut erfahren ist 
 
 Am Ende ist die Antidote gegen Co-Abhängigkeit nicht mehr Liebe zu anderen Menschen. Es ist Liebe zu Dir selbst.
 
-Selbstliebe ist nicht Narzissmus. Es ist nicht Egoismus. Es ist die Basis von mentaler und emotionaler Gesundheit. Wenn Du nicht auf Dich selbst sorgst, auf Deine Bedürfnisse aufpasst, Deine Grenzen setzt, dann zerfällst Du.
+Selbstliebe ist nicht [Narzissmus](/narzissmus/). Es ist nicht Egoismus. Es ist die Basis von mentaler und emotionaler Gesundheit. Wenn Du nicht auf Dich selbst sorgst, auf Deine Bedürfnisse aufpasst, Deine Grenzen setzt, dann zerfällst Du.
 
 Selbstliebe bedeutet, dass Du mit Dir selbst sprichst, wie Du mit jemandem sprechen würdest, den Du tieflich liebst. Sanft. Geduldig. Mit Verständnis. Du erkennst Deine eigenen Kämpfe an. Du validierst Deine eigenen Gefühle.
 

@@ -43,7 +43,7 @@ Die Bindungstheorie ist nicht dazu da, deine Eltern zu beschuldigen. Es geht vie
 
 Es gibt vier Hauptbindungsstile: Sicher, Ängstlich-ambivalent, Vermeidend und Desorganisiert. Jeder Stil hat unterschiedliche Merkmale, die sich in deinem Verhalten, deinen Gedanken und deinen emotionalen Reaktionen in Beziehungen zeigen. Das Verständnis dieser Stile hilft dir, dich selbst und deine Partner besser zu verstehen.
 
-Der sichere Bindungsstil ist das, was psychologisch als „sicher" gilt – und das ist kein Geheimnis. Menschen mit sicherem Bindungsstil hatten Bezugspersonen, die konsistent verfügbar und emotional reaktiv waren. Sie haben gelernt, dass sie sicher sind, dass ihre Bedürfnisse wichtig sind, und dass Liebe zuverlässig ist. Im Erwachsenenalter sind sie in der Lage, tiefe emotionale Beziehungen aufzubauen, ohne Angst vor Verlust zu haben.
+Der sichere [Bindungsstil](/bindungsstile/) ist das, was psychologisch als „sicher" gilt – und das ist kein Geheimnis. Menschen mit sicherem Bindungsstil hatten Bezugspersonen, die konsistent verfügbar und emotional reaktiv waren. Sie haben gelernt, dass sie sicher sind, dass ihre Bedürfnisse wichtig sind, und dass Liebe zuverlässig ist. Im Erwachsenenalter sind sie in der Lage, tiefe emotionale Beziehungen aufzubauen, ohne Angst vor Verlust zu haben.
 
 ## Der sichere Bindungsstil: Das Ideal
 

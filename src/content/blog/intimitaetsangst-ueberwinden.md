@@ -219,7 +219,7 @@ Aber es kann heilen. Mit der richtigen Unterstützung.
 
 Das ist möglich.
 
-Und der Prozess beinhaltet oft EMDR, Somatic Therapie, oder andere spezialisierte Methoden.
+Und der Prozess beinhaltet oft [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/), Somatic Therapie, oder andere spezialisierte Methoden.
 
 Das ist nicht schwach, um das zu brauchen. Das ist Selbstschutz.
 
@@ -296,7 +296,7 @@ Es gibt auch Online-Tools, die helfen können:
 
 **Podcasts über Attachment und Beziehung** - Es gibt viele gute Podcasts, die diese Themen adressieren.
 
-**Bücher wie "Attached" von Amir Levine und Rachel Heller** - Das Buch erklärt Bindungsstile und wie sie unsere Beziehungen beeinflussen.
+**Bücher wie "Attached" von Amir Levine und Rachel Heller** - Das Buch erklärt [Bindungsstile](/bindungsstile/) und wie sie unsere Beziehungen beeinflussen.
 
 Das ersetzt keine Therapie. Aber es kann hilfreich sein, während du auf Therapie wartest oder als Ergänzung zu Therapie.
 

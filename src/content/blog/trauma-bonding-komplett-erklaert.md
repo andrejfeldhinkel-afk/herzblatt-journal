@@ -14,7 +14,7 @@ tags:
 
 Du liebst ihn. Du weißt, dass er dir schadet. Du weißt, dass du gehen solltest. Und trotzdem: Du kannst nicht weg.
 
-Das ist nicht deine Schuld. Das ist nicht, weil du zu schwach bist, zu emotional oder zu abhängig. Das ist Trauma Bonding – eine psychologische Reaktion deines Gehirns, die dich an einen Menschen bindet, der dir schadet, genauso fest wie eine Drogenabhängigkeit dich an eine Substanz bindet.
+Das ist nicht deine Schuld. Das ist nicht, weil du zu schwach bist, zu emotional oder zu abhängig. Das ist [Trauma Bonding](/blog/trauma-bonding-loesen/) – eine psychologische Reaktion deines Gehirns, die dich an einen Menschen bindet, der dir schadet, genauso fest wie eine Drogenabhängigkeit dich an eine Substanz bindet.
 
 Die Verwirrung, jemanden zu lieben, der dir weh tut, ist eine der schmerzhaftesten menschlichen Erfahrungen. Sie ist auch eine der am meisten missverstandenen. Freunde sagen: "Verlasse ihn einfach." Deine Familie fragt: "Warum bleibst du?" Und in deinem Kopf spielst sich ein Kampf ab zwischen dem, was du weißt, und dem, was du fühlst.
 
@@ -251,7 +251,7 @@ CBT ist praktisch, strukturiert und wissenschaftlich nachgewiesen, um bei Trauma
 
 ### Eye Movement Desensitization and Reprocessing (EMDR)
 
-EMDR ist eine spezialisierte Therapie für Traumata. Sie beinhaltet, über das Trauma zu sprechen, während der Therapeut mit schnellen Augenbewegungen führt (oder ein anderer rhythmischer Stimulus).
+[EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) ist eine spezialisierte Therapie für Traumata. Sie beinhaltet, über das Trauma zu sprechen, während der Therapeut mit schnellen Augenbewegungen führt (oder ein anderer rhythmischer Stimulus).
 
 Dies klingt seltsam. Es funktioniert. Es hilft dem Gehirn, das Trauma zu verarbeiten und neu zu speichern. Die intensiven emotionalen Reaktionen auf Erinnerungen verblassen.
 

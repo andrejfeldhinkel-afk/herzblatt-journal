@@ -155,7 +155,7 @@ Je stabiler dein Selbstwertgefühl, desto weniger anfällig wirst du für Limere
 Limerence hinterlässt echtes Trauma. Dein Nervensystem ist dysreguliert. Du könntest PTSD-ähnliche Symptome haben, wenn die Person dir nahegekommen ist.
 
 Techniken, die helfen:
-- EMDR (Eye Movement Desensitization and Reprocessing)
+- [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) (Eye Movement Desensitization and Reprocessing)
 - Somatic Experiencing
 - Regelmäßige Achtsamkeitspraxis
 - Körperliche Bewegung (spazieren, tanzen, Sport — alles, was deinen Körper beruhigt)

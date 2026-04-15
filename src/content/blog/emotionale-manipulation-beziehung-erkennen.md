@@ -63,7 +63,7 @@ Hier ist wie es funktioniert:
 
 1. Das Honeymoon-Phase: Der Partner ist perfekt. Du bist [Gaslighting](/blog/gaslighting-komplett-guide)**
 
-Das ist vielleicht die destructivste. Gaslighting ist, wenn jemand dich dazu bringt, deine Realität zu zweifeln.
+Das ist vielleicht die destructivste. [Gaslighting](/blog/was-ist-gaslighting/) ist, wenn jemand dich dazu bringt, deine Realität zu zweifeln.
 
 Partner: "Ich bin letzte Nacht nicht spät nach Hause gekommen."
 
@@ -257,7 +257,7 @@ Dann beginnt der Zyklus erneut.
 
 Diese Zyklen können süchtig machend sein. Du wartest auf die "Ruhe" Phase, hoffend dass diesmal länger dauert. Es dauert nicht. Aber die Hoffnung hält dich gebunden.
 
-**Zyklus 2: Idealisierung → Devaluation → Discard → Hoovering**
+**Zyklus 2: Idealisierung → Devaluation → Discard → [Hoovering](/blog/hoovering-narzissmus-erkennen/)**
 
 Dies ist ein Muster oft bei narzisstischen Manipulatoren:
 
@@ -314,13 +314,13 @@ Wenn die Beziehung so schlecht ist, warum bleibst du?
 
 Die Antwort ist komplex. Und es ist nicht, weil du dumm oder schwach bist.
 
-**Der Zyklus:** Manipulationstechnik, Schmerz, dann Versöhnung und Love Bombing. Der Partner ist "es tut mir leid, ich werde mich ändern, ich liebe dich so sehr." Für eine Weile ist es wunderbar. Dann der Zyklus startet wieder. Diese auf-und-ab ist psychologisch süchtig machend. Dein Gehirn ist hochgerührt.
+**Der Zyklus:** Manipulationstechnik, Schmerz, dann Versöhnung und [Love Bombing](/blog/lovebombing-phasen/). Der Partner ist "es tut mir leid, ich werde mich ändern, ich liebe dich so sehr." Für eine Weile ist es wunderbar. Dann der Zyklus startet wieder. Diese auf-und-ab ist psychologisch süchtig machend. Dein Gehirn ist hochgerührt.
 
 **Hoffnung:** Du denkst, dass er sich ändern wird. Vielleicht wenn ich besser bin... vielleicht wenn ich das verstehe... vielleicht nächste Woche. Diese Hoffnung ist auch eine Falle.
 
 **Isolation:** Wenn du von Freunden und Familie isoliert wurdest, hast du keine externe Bestätigung, dass etwas Falsches passiert. Du schuldest nur sein, dass etwas nicht stimmt, aber hast niemand zu sagen.
 
-**Trauma Bonding:** Ein psychologischer Phänomen, bei dem wiederholte Zergliederung und Versöhnung eine tiefe emotionale Bindung schaffen. Es ist wie Stockholm Syndrom. Du "liebst" den Manipulator, auch während er dich verletzt.
+**[Trauma Bonding](/blog/trauma-bonding-loesen/):** Ein psychologischer Phänomen, bei dem wiederholte Zergliederung und Versöhnung eine tiefe emotionale Bindung schaffen. Es ist wie Stockholm Syndrom. Du "liebst" den Manipulator, auch während er dich verletzt.
 
 **Abhängigkeit (finanziell, emotional, praktisch):** Wenn du finanziell abhängig bist, wenn ihr Kinder habt, wenn du nicht weißt, wie man allein lebt, dann ist Verlassen verständlich angespannt.
 
@@ -368,7 +368,7 @@ Ja: "Wenn du mich beleidigst (wie am 6. Mai, 'du bist nicht gut genug'), werde i
 
 Dies ist klar. Dies ist konsequential. Dies ist durchsetzbar.
 
-**Schritt 5: Greystoning / Die Grey Rock Methode**
+**Schritt 5: Greystoning / Die [Grey Rock](/blog/grey-rock-methode-narzisst-guide/) Methode**
 
 Wenn dein Partner versucht zu manipulieren, antworte langweilig und uninformativ.
 
@@ -410,7 +410,7 @@ Oder: "Lassen Sie mich das überprüfen. Aber auf dieser Punkt, ich vertraue mei
 
 Dies bestätigt deine Realität, ohne defensiv zu sein.
 
-**Gegen Silent Treatment:**
+**Gegen [Silent Treatment](/blog/silent-treatment-bedeutung/):**
 
 "Ich merke, dass du nicht sprichst. Ich möchte mit dir darüber sprechen, wenn du bereit bist. Aber ich werde nicht mein Leben einfrieren, um deine Stille zu beantworten."
 
@@ -569,7 +569,7 @@ Schütze dich selbst. Mit liebevoller Bestimmtheit.
 
 Die Bindungstheorie, entwickelt von John Bowlby und Mary Ainsworth, bietet einen Schlüssel zum Verständnis, warum Menschen immer wieder in manipulative Beziehungen geraten. Deine Bindungssicherheit — wie sicher oder unsicher du dich in deinen frühen Beziehungen (besonders mit Eltern) gefühlt hast — prägt unbewusst, wen du als Partner wählst.
 
-Wenn du einen unsicheren [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) hast (sei es anxious — ängstlich/bedürftig — oder avoidant — zurückhaltend/unabhängig), könntest du unbewusst zu manipulativen Partnern hingezogen werden. Ein ängstlicher Bindungsstil könnte dich zu jemandem ziehen, der deine Bedürfnisse nach Bestätigung bestätigt und verwehrt, weil das dein vertrautes "Drama" wiederspiegelt. Ein avoidanter Bindungsstil könnte dich zu jemandem ziehen, der nicht zu emotionale Nähe drängt, aber trotzdem kontrolierend ist.
+Wenn du einen unsicheren [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) hast (sei es anxious — ängstlich/bedürftig — oder avoidant — zurückhaltend/unabhängig), könntest du unbewusst zu manipulativen Partnern hingezogen werden. Ein [ängstlicher Bindungsstil](/blog/aengstlicher-bindungsstil/) könnte dich zu jemandem ziehen, der deine Bedürfnisse nach Bestätigung bestätigt und verwehrt, weil das dein vertrautes "Drama" wiederspiegelt. Ein avoidanter [Bindungsstil](/bindungsstile/) könnte dich zu jemandem ziehen, der nicht zu emotionale Nähe drängt, aber trotzdem kontrolierend ist.
 
 Das ist nicht "deine Schuld". Es ist ein unbewusstes Muster. Aber wenn du dich wiederholend in manipulative Beziehungen findest, könnte es sich lohnen, mit einem Therapeuten zu arbeiten, um deine Bindungsmuster zu verstehen. Ein sicher gebundenes Selbst ist das beste Werkzeug gegen Manipulation. Wenn du weißt, dass du wert bist, ohne dass jemand dir das sagt, kann ein Manipulator dich nicht mit Entzug von Genehmigung kontrollieren.
 

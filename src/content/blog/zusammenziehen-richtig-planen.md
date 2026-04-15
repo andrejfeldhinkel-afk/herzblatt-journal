@@ -641,7 +641,7 @@ Manchmal ist die Antwort "Ich dachte es war nicht wichtig."
 
 Wenn der andere Partner willing ist transparent zu sein, kannst du rebuild Vertrauen.
 
-Wenn der andere Partner defensive wird oder weigert sich transparent zu sein, das ist ein großes Red Flag. Das ist nicht nur ein Finanzial-Ding — das ist ein Vertrauen-Ding.
+Wenn der andere Partner defensive wird oder weigert sich transparent zu sein, das ist ein großes [Red Flag](/red-flags/). Das ist nicht nur ein Finanzial-Ding — das ist ein Vertrauen-Ding.
 
 **Die tiefere Lesson:**
 

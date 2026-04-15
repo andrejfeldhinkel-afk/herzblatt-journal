@@ -59,7 +59,7 @@ Das macht dich abhängig. Es macht dich verwundbar.
 
 **Inkonsistenz:** Dein Partner ist manchmal wunderbar, manchmal grausam. Das schafft Verwirrung. Du wirst immer hoffnungsvoll dass er wieder der "Wunderbare" wird.
 
-Das ist der Zyklus: Liebe-Bomben, kritik, Gaslighting, Versöhnung. Immer wieder.
+Das ist der Zyklus: Liebe-Bomben, kritik, [Gaslighting](/blog/was-ist-gaslighting/), Versöhnung. Immer wieder.
 
 **Kontrollverhalten:** Dein Partner möchte wissen wo du bist, mit wem du sprichst, wie viel du ausgibst. Es ist übermäßige Überprüfung.
 
@@ -301,7 +301,7 @@ Es gibt verschiedene Arten der Therapie die hier sehr effektiv sind:
 
 **Trauma-focused CBT:** Das ist Kognitive Verhaltenstherapie die spezialisiert auf Trauma.
 
-**EMDR:** Das ist eine Methode die sehr effektiv ist bei Trauma-Verarbeitung.
+**[EMDR](/blog/emdr-beziehungstrauma-heilen-guide/):** Das ist eine Methode die sehr effektiv ist bei Trauma-Verarbeitung.
 
 **Somatic Therapy:** Das arbeitet mit dem Körper.
 

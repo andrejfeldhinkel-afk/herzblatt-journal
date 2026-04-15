@@ -31,7 +31,7 @@ Du kennst dieses Gefühl wahrscheinlich nur zu gut: Das Herzklopfen, wenn dein P
 
 Es ist eine Frage, die viele Menschen nicht verstehen: Warum bleibst du bei jemandem, der dich schlecht behandelt? Die Antwort ist komplexer als nur "mangelnde Liebe" oder "Schwäche". Es gibt tatsächlich biologische und psychologische Mechanismen, die dich in der Beziehung gefangen halten.
 
-Das erste Phänomen heißt Trauma Bonding. Wenn du in einer Beziehung ständigem emotionalem Missbrauch ausgesetzt bist, folgt dein Gehirn einem Muster: Spannung (der Streit), dann Erleichterung (die Versöhnung). Diese Achterbahnfahrt erzeugt tatsächlich Endorphine — dein Gehirn wird buchstäblich süchtig nach diesem Zyklus. Jede Versöhnung nach einem Streit wird intensiver, weil dein Körper die Erleichterung physisch spürt. Du wirst hormonell an diese Person gebunden, nicht aus echtem Grund, sondern aus Sucht.
+Das erste Phänomen heißt [Trauma Bonding](/blog/trauma-bonding-loesen/). Wenn du in einer Beziehung ständigem emotionalem Missbrauch ausgesetzt bist, folgt dein Gehirn einem Muster: Spannung (der Streit), dann Erleichterung (die Versöhnung). Diese Achterbahnfahrt erzeugt tatsächlich Endorphine — dein Gehirn wird buchstäblich süchtig nach diesem Zyklus. Jede Versöhnung nach einem Streit wird intensiver, weil dein Körper die Erleichterung physisch spürt. Du wirst hormonell an diese Person gebunden, nicht aus echtem Grund, sondern aus Sucht.
 
 Dann gibt es die kognitiven Verzerrungen. Wenn du lange genug kritisiert und kontrolliert wirst, fängst du an zu denken, dass du die Probleme verursachst. Du glaubst, wenn du nur anders wärst, besser aussehen würdest, mehr Geld verdienen würdest — dann würde alles in Ordnung sein. Das Konzept deiner Schuld ist eine Lüge, aber sie fühlt sich real an, und das ist das Tückische daran.
 
@@ -218,7 +218,7 @@ Wenn du anfängst zu daten, beobachte die Warnsignale früh:
 Kritik an deinem Aussehen oder Verhalten in den ersten Wochen?
 Schnelle Escalation von Gefühlen ("Ich liebe dich" nach zwei Wochen)?
 Versuche, deine Freunde zu kontrollieren oder zu kritisieren?
-Gaslighting oder Verdrehung deiner Worte?
+[Gaslighting](/blog/was-ist-gaslighting/) oder Verdrehung deiner Worte?
 Große Geldbörse über deine Grenzen?
 
 Wenn du eines dieser Zeichen siehst, geh. Es ist nicht roh. Es ist Selbstschutz. Du kennst jetzt die Muster. Du wirst nicht wieder gefangen.
@@ -236,7 +236,7 @@ Hypervigilanz — das ständige Gefühl, vorsichtig zu sein.
 Dies sind nicht Lebenssätze. Sie sind Symptome, die mit anhaltender therapeutischer Arbeit heilen können. Es gibt Therapiemodalitäten, die besonders für Trauma wirksam sind:
 
 Trauma-fokussierte kognitive Verhaltenstherapie (TF-CBT)
-Eye Movement Desensitization and Reprocessing (EMDR)
+Eye Movement Desensitization and Reprocessing ([EMDR](/blog/emdr-beziehungstrauma-heilen-guide/))
 Körperbezogene Therapie
 
 Diese Therapien helfen deinem Nervensystem, zu verstehen, dass die Gefahr vorbei ist.

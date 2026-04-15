@@ -26,7 +26,7 @@ Eine echte Red Flag ist entweder absichtlich oder es ist eine grundlegende Pers�
 
 Es ist auch wichtig zu verstehen, dass viele Menschen von Red Flags nicht bewusst sind. Sie wuchsen in Familien auf, in denen diese Verhaltensweisen normal waren. Sie haben nicht gelernt, dass es andere Wege gibt. Das ist traurig, aber es ist nicht deine Verantwortung, sie zu "reparieren" oder zu "lehren". Das ist ihre Verantwortung. Eine Person, die dich liebt und die einen Anteil an einer [Love Bombing](/blog/love-bombing-erkennen-schuetzen)
 
-Love Bombing ist, wenn jemand in den frühen Stadien einer Beziehung überwältigend intensiv und zugewandt ist. Sie textet dich ständig, sagt ständig, dass sie dich liebt, möchte die ganze Zeit bei dir sein, plant schnell eine gemeinsame Zukunft.
+[Love Bombing](/blog/lovebombing-phasen/) ist, wenn jemand in den frühen Stadien einer Beziehung überwältigend intensiv und zugewandt ist. Sie textet dich ständig, sagt ständig, dass sie dich liebt, möchte die ganze Zeit bei dir sein, plant schnell eine gemeinsame Zukunft.
 
 Das hört sich gut an, aber es ist ein Warnsignal. Echte Liebe baut sich über Zeit auf. Intensive, überwältigende Liebe am Anfang ist oft ein Anzeichen dafür, dass die Person unreif ist oder dass sie eine Art Loch in sich selbst füllt, das du ausfüllen sollst.
 

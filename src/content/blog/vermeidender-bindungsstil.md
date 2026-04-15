@@ -27,7 +27,7 @@ faq:
 
 Du kennst diesen Typ: Der Partner, der immer einen Grund hat, warum er gerade nicht kuscheln kann. Der, der von Emotionen spricht wie andere von Wurzelbehandlungen. Der Mensch, der dir sagt, dass er dich liebt, aber sich dann irgendwie anfühlt wie eine Mauer.
 
-Das ist der vermeidende Bindungsstil. Und wenn du gerade mit jemandem zusammen bist, der einen hat, oder wenn du selbst einer bist, weiß du: Das ist kompliziert.
+Das ist der vermeidende [Bindungsstil](/bindungsstile/). Und wenn du gerade mit jemandem zusammen bist, der einen hat, oder wenn du selbst einer bist, weiß du: Das ist kompliziert.
 
 Vermeidende Menschen sind nicht herzlos. Sie sind nicht unfähig zu lieben. Sie haben nur gelernt, dass Nähe gefährlich ist. Und das Gehirn vergisst diese Lektion nicht so leicht.
 

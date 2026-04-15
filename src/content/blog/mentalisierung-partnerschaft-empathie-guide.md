@@ -321,7 +321,7 @@ Oft ist deine Vermutung falsch. Aber dein Partner wird dir dann sagen, was wirkl
 
 ## Mentalisierung und dein Bindungsstil
 
-Wir haben kurz erwähnt, wie Bindungsstile Mentalisierung beeinflussen. Lass mich das vertiefen. Denn je nach Bindungsstil brauchst du eine etwas andere Herangehensweise an Mentalisierung.
+Wir haben kurz erwähnt, wie Bindungsstile Mentalisierung beeinflussen. Lass mich das vertiefen. Denn je nach [Bindungsstil](/bindungsstile/) brauchst du eine etwas andere Herangehensweise an Mentalisierung.
 
 ### Sicher gebundene Menschen
 

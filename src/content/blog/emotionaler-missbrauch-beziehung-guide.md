@@ -41,7 +41,7 @@ Die Statistiken sind erschreckend. Etwa jede vierte Frau und jeder achte Mann er
 
 Dieser Artikel ist für dich geschrieben — egal, ob du gerade in einer möglicherweise missbräuchlichen [Gaslighting](/blog/gaslighting-komplett-guide) ist eine Form der psychologischen Manipulation, bei der der täter deine Wahrnehmung so verzerrt, dass du an deinem eigenen Verstand zweifelst. Der Name kommt vom Film "Gaslight" aus dem Jahr 1944, in dem ein Mann seine Frau systematisch verunsichert.
 
-Du fragst deinen Partner, ob er gestern mit seiner Ex-Kollegin Kaffee getrunken hat. Er leugnet es kategorisch und sagt, du hättest das dir nur eingebildet. Du weißt aber genau, dass du ihn sagen gehört hast, dass er um 15 Uhr gehen würde. Jetzt fragst du dich: "Habe ich das wirklich gehört? Bin ich verrückt?" Das ist Gaslighting.
+Du fragst deinen Partner, ob er gestern mit seiner Ex-Kollegin Kaffee getrunken hat. Er leugnet es kategorisch und sagt, du hättest das dir nur eingebildet. Du weißt aber genau, dass du ihn sagen gehört hast, dass er um 15 Uhr gehen würde. Jetzt fragst du dich: "Habe ich das wirklich gehört? Bin ich verrückt?" Das ist [Gaslighting](/blog/was-ist-gaslighting/).
 
 Das Perfide daran ist, dass das Opfer mit der Zeit sein Vertrauen in die eigene Intuition verliert. Du verlässt dich auf den Partner als "Realitätsprüfer", weil du deinen eigenen Wahrnehmungen nicht mehr trauen kannst. Wir haben einen ausführlichen Artikel über [Bindungsangst](/blog/bindungsangst-komplett-guide) ist keine Fehlerhaftigkeit in dir. Es ist eine normale Reaktion auf abnormale Behandlung. Mehr über dieses Thema erfährst du in unserem Artikel über [Grenzen setzen in Beziehungen](/blog/beziehung-und-grenzen-setzen).
 

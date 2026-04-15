@@ -52,7 +52,7 @@ Manche Icks beziehen sich auf rein äußerliche Dinge: wie jemand isst, geht, la
 
 ### Icks als berechtigte Warnsignale
 
-Andere Icks haben eine tiefere Berechtigung. Wenn dich die Art stört, wie jemand mit Servicepersonal umgeht, könnte das auf mangelnden Respekt hindeuten. Wenn dich ständiges Angeben abstößt, erkennst du vielleicht Unsicherheit oder Narzissmus. Diese Icks verdienen Beachtung, denn sie weisen auf Charaktereigenschaften hin, die langfristig problematisch werden können.
+Andere Icks haben eine tiefere Berechtigung. Wenn dich die Art stört, wie jemand mit Servicepersonal umgeht, könnte das auf mangelnden Respekt hindeuten. Wenn dich ständiges Angeben abstößt, erkennst du vielleicht Unsicherheit oder [Narzissmus](/narzissmus/). Diese Icks verdienen Beachtung, denn sie weisen auf Charaktereigenschaften hin, die langfristig problematisch werden können.
 
 ### Icks als Projektion
 

@@ -39,7 +39,7 @@ Bevor du gegen Eifersucht ankämpfst, musst du verstehen, woher sie kommt. Es gi
 
 **Geringes Selbstwertgefühl:** Wenn du dir selbst nicht genug wert bist, fragst du dich ständig: Warum sollte mich jemand wählen? Warum bleiben sie bei mir, wenn es bessere Optionen gibt? Diese Unsicherheit projiziert sich auf deine Beziehung. Du wirst paranoid – nicht weil die andere Person untreulich ist, sondern weil du nicht glaubst, dass du „genug" bist.
 
-**Unsicherer Bindungsstil:** Menschen mit unsicherem Bindungsstil neigen stärker zu Eifersucht. Wenn du als Kind gelernt hast, dass Nähe unsicher ist – dass Liebe mit Angst kam – trägst du dieses Muster in deine erwachsenen Beziehungen. Du erwartest unbewusst, verlassen zu werden. Du erwartest, betrogen zu werden. Also schaust du überall nach Zeichen.
+**Unsicherer [Bindungsstil](/bindungsstile/):** Menschen mit unsicherem Bindungsstil neigen stärker zu Eifersucht. Wenn du als Kind gelernt hast, dass Nähe unsicher ist – dass Liebe mit Angst kam – trägst du dieses Muster in deine erwachsenen Beziehungen. Du erwartest unbewusst, verlassen zu werden. Du erwartest, betrogen zu werden. Also schaust du überall nach Zeichen.
 
 ## 7 konkrete Strategien gegen Eifersucht: Was wirklich funktioniert
 

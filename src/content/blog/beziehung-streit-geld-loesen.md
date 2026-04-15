@@ -221,7 +221,7 @@ Wenn dein Partner:
 - Dich für nicht genug verdienen kritisiert
 - Dein Geld gegen dich benutzt
 
-Das sind red flags. Das ist nicht Geldmanagement. Das ist emotionale Kontrolle.
+Das sind [red flags](/red-flags/). Das ist nicht Geldmanagement. Das ist emotionale Kontrolle.
 
 ## Das Positive: Ein Team bauen
 

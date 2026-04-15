@@ -234,7 +234,7 @@ Das ist eine tiefe Frage. Und nur du kannst antworten.
 
 Nicht alle Menschen haben die gleichen Reparaturbedürfnisse oder Fähigkeiten.
 
-Dein Bindungsstil — wie du dich durch deine frühesten Beziehungen gelehrt wurde, dich zu verbinden — prägt tiefgreifend, wie du reparierst.
+Dein [Bindungsstil](/bindungsstile/) — wie du dich durch deine frühesten Beziehungen gelehrt wurde, dich zu verbinden — prägt tiefgreifend, wie du reparierst.
 
 **Sichere Bindung**
 

@@ -123,7 +123,7 @@ Kalte Füße sind normal. Aber nicht kommunizieren ist ein Problem.
 **Ihr habt verschiedene Zukunftsvision und könnte nicht auf eine Linie kommen:**
 Das ist nicht klein. Das muss gelöst werden.
 
-Wenn du diese red flags siehst, sage etwas. Jetzt. Nicht nach der Hochzeit.
+Wenn du diese [red flags](/red-flags/) siehst, sage etwas. Jetzt. Nicht nach der Hochzeit.
 
 ## Die positive Seite
 

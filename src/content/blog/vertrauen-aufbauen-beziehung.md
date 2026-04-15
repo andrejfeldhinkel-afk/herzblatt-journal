@@ -180,10 +180,10 @@ Achte auf diese Zeichen:
 - **Heimlichkeiten**: Handy schnell weglegen, wenn du reinkommst
 - **Inkonsistenzen in Stories**: "Ich war beim Training" aber Freund sagt "Er war nicht im Gym"
 - **Abwehr bei Fragen**: "Warum fragst du mich das?" statt einfach eine ehrliche Antwort
-- **Gaslighting**: "Das habe ich nie gesagt" wenn du es genau weißt
+- **[Gaslighting](/blog/was-ist-gaslighting/)**: "Das habe ich nie gesagt" wenn du es genau weißt
 - **Übermäßige Kontrolle**: Überprüft ständig wo du bist, mit wem du Kontakt hast
 
-Diese sind nicht "kleine Red Flags". Das sind "großes Feuer im Haus"-Zeichen.
+Diese sind nicht "kleine [Red Flags](/red-flags/)". Das sind "großes Feuer im Haus"-Zeichen.
 
 ## Die Realität: Vertrauen ist ein Prozess, keine Destination
 

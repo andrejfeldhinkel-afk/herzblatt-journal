@@ -13,7 +13,7 @@ tags:
 
 Wenn wir sagen, „Ich bin [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) für den Rest unseres Lebens.
 
-Es gibt vier primäre Bindungsstile, die im Erwachsenenalter beobachtet werden. Der sichere Bindungsstil ist charakterisiert durch das Gefühl, wertvoll zu sein, darauf zu vertrauen, dass andere uns kümmern, und die Fähigkeit, Balance zwischen Unabhängigkeit und Nähe zu haben. Menschen mit sicherer Bindung sind in Lage, stabile, vertrauensvolle Beziehungen zu entwickeln.
+Es gibt vier primäre Bindungsstile, die im Erwachsenenalter beobachtet werden. Der sichere [Bindungsstil](/bindungsstile/) ist charakterisiert durch das Gefühl, wertvoll zu sein, darauf zu vertrauen, dass andere uns kümmern, und die Fähigkeit, Balance zwischen Unabhängigkeit und Nähe zu haben. Menschen mit sicherer Bindung sind in Lage, stabile, vertrauensvolle Beziehungen zu entwickeln.
 
 Der vermeidende Bindungsstil ist charakterisiert durch Unbehagen mit Nähe und Abhängigkeit. Menschen mit vermeidender Bindung wurden gelehrt, sich selbst zu verlassen und emotional unabhängig zu sein. Sie finden enge Beziehungen erstickt und haben Schwierigkeiten, sich zu öffnen.
 

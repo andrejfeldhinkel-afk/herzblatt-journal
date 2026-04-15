@@ -35,11 +35,11 @@ Dieser Guide ist für dich – für dich, die oder der versucht, nach narzisstis
 
 ## Was narzisstischer Missbrauch wirklich ist
 
-Zuerst müssen wir klarstellen, was narzisstischer Missbrauch wirklich ist. Es ist nicht einfach nur, mit einem selbstverliebten Menschen zusammen zu sein. Es ist ein systematisches System von Manipulation, Kontrolle und emotionaler Ausschöpfung.
+Zuerst müssen wir klarstellen, was [narzisstischer Missbrauch](/narzissmus/) wirklich ist. Es ist nicht einfach nur, mit einem selbstverliebten Menschen zusammen zu sein. Es ist ein systematisches System von Manipulation, Kontrolle und emotionaler Ausschöpfung.
 
 Ein Narzisst hat eine bestimmte Grundproblematik: Er kann dich nicht wirklich sehen. Er kann nur sehen, wie du zu seinen Bedürfnissen passt oder nicht passt. Wenn du passt – wenn du bewunderst, bestätigst, dich unterordnest – bist du wertvoll. Wenn nicht, bist du disposabel.
 
-Narzisstischer Missbrauch folgt normalerweise einem Zyklus. Es beginnt mit Lovebombing – intensive Aufmerksamkeit, Bestätigung, die Illusion einer tieferen Liebe. Das ist süß. Das ist berauschend. Du denkst, du hast jemanden gefunden, der dich endlich sieht.
+Narzisstischer Missbrauch folgt normalerweise einem Zyklus. Es beginnt mit [Lovebombing](/blog/lovebombing-phasen/) – intensive Aufmerksamkeit, Bestätigung, die Illusion einer tieferen Liebe. Das ist süß. Das ist berauschend. Du denkst, du hast jemanden gefunden, der dich endlich sieht.
 
 Dann, ganz allmählich, ändert sich die Dynamik. Die Kritik wird größer. Die Bestätigung wird weniger. Das emotionale Auf und Ab wird extremer. Und du – weil du die Liebe vermisst, die du anfangs gefühlt hast – bemühst dich mehr. Du passt dich an. Du machst mehr. Du versuchst, die Liebe zurückzubekommen.
 

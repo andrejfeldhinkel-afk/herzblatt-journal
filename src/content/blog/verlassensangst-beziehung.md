@@ -287,7 +287,7 @@ Zum Beispiel: Dein Gedanke ist "Er antwortet nicht sofort, das bedeutet, er lieb
 
 ### Eye Movement Desensitization and Reprocessing (EMDR)
 
-EMDR ist besonders wirksam für traumatische Erinnerungen. Wenn deine Verlassensangst von einem spezifischen traumatischen Ereignis stammt (z.B. eine plötzliche Trennung oder ein Elternteil, der starb), kann EMDR helfen, dieses Ereignis "umzuarbeiten".
+[EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) ist besonders wirksam für traumatische Erinnerungen. Wenn deine Verlassensangst von einem spezifischen traumatischen Ereignis stammt (z.B. eine plötzliche Trennung oder ein Elternteil, der starb), kann EMDR helfen, dieses Ereignis "umzuarbeiten".
 
 Die Therapie beinhaltet, sich an das traumatische Ereignis zu erinnern während man bilaterale Stimulation empfängt (meist seitwärts bewegende Augenbewegungen). Dies hilft dem Gehirn, die Erinnerung zu verarbeiten und die emotionale Ladung zu reduzieren.
 

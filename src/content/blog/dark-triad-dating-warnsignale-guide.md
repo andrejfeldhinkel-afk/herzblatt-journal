@@ -40,7 +40,7 @@ Erst verstehen, dann schützen. Das ist dein Plan.
 
 Die drei Komponenten sind:
 
-**Narzissmus** — nicht das, was du vielleicht denkst. Es ist nicht nur, dass jemand ein Selfie macht oder sein Leben auf Instagram teilt. Das ist normales digitales Verhalten in einer Welt voller sozialer Medien. Es ist eine tiefe, fundamentale Überzeugung, dass die eigene Person das Zentrum des Universums ist. Ein echter Narzisst braucht konstante Bewunderung und Bestätigung, weil sein oder ihr Selbstwertgefühl vollständig extern funktioniert. Ohne tägliche Bestätigung von außen fühlt sich ein Narzisst innerlich leer, depressiv und verärgert.
+**[Narzissmus](/narzissmus/)** — nicht das, was du vielleicht denkst. Es ist nicht nur, dass jemand ein Selfie macht oder sein Leben auf Instagram teilt. Das ist normales digitales Verhalten in einer Welt voller sozialer Medien. Es ist eine tiefe, fundamentale Überzeugung, dass die eigene Person das Zentrum des Universums ist. Ein echter Narzisst braucht konstante Bewunderung und Bestätigung, weil sein oder ihr Selbstwertgefühl vollständig extern funktioniert. Ohne tägliche Bestätigung von außen fühlt sich ein Narzisst innerlich leer, depressiv und verärgert.
 
 Der Narzisst sieht andere Menschen nicht als eigenständige Individuen mit eigenen Gefühlen und Träumen. Stattdessen sieht der Narzisst andere als "Versorgungsquellen" — als Menschen, die ihm oder ihr Aufmerksamkeit und Bewunderung geben können. Deine Bedürfnisse sind nebensächlich. Deine Träume sind interessant nur insofern, als sie als Kulisse für seine oder ihre Größe dienen können.
 

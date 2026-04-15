@@ -238,7 +238,7 @@ Aber wenn du 20 Jahre von Filtereilusen siehst, wirst du erwarten, dass echte Li
 
 Um wirklich zu verstehen, warum deine Generation "beziehungsunfähig" ist, müssen wir zur Bindungstheorie gehen.
 
-Die Bindungstheorie wurde von John Bowlby und Mary Ainsworth entwickelt und sagt: **Dein Bindungsstil (wie du Beziehungen führst) wird in den ersten Jahren deines Lebens geprägt.**
+Die Bindungstheorie wurde von John Bowlby und Mary Ainsworth entwickelt und sagt: **Dein [Bindungsstil](/bindungsstile/) (wie du Beziehungen führst) wird in den ersten Jahren deines Lebens geprägt.**
 
 Es gibt drei hauptsächliche Bindungsstile:
 

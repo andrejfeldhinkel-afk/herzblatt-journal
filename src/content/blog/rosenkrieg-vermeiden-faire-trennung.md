@@ -134,7 +134,7 @@ Wenn es keine Kinder gibt, ist es anders. Aber selbst dann: Willst du dein näch
 Manchmal wird ein ehemals liebevoller Partner bitter und unvereinbar. Das kann passieren, weil:
 - Er/sie kann die Trennung nicht akzeptieren
 - Finanzielle Verzweiflung
-- Psychologische Probleme (Narzissmus, Borderline)
+- Psychologische Probleme ([Narzissmus](/narzissmus/), Borderline)
 - Ein neuer Partner, der die Konflikte anheizt
 
 Was machst du dann?

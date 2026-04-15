@@ -31,7 +31,7 @@ Du sitzt im Bett. Dein Partner sagt, dass das Gespräch, das ihr gestern Nacht h
 
 "Habe ich das geträumt? Bin ich verrückt? Erinnere ich mich nicht korrekt?"
 
-Und das ist das perfekte Beispiel für Gaslighting.
+Und das ist das perfekte Beispiel für [Gaslighting](/blog/was-ist-gaslighting/).
 
 Gaslighting ist eine Form von psychologischem Missbrauch, bei dem jemand dich manipuliert, damit du deine eigene Realität anzweifelst. Es ist subtil. Es ist zerstörerisch. Und es ist eines der schwierigsten Traumata zu heilen.
 

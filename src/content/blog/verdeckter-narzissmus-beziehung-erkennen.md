@@ -163,7 +163,7 @@ Manchmal gibt es keinen klaren Discard. Es ist einfach: Das Licht in der Beziehu
 
 Verdeckte Narzissten sind Meister der psychologischen Manipulation. Nicht rohe, primitive Gewalt, sondern subtile, oft unsichtbare Taktiken, die dich selbst anzweifeln lassen.
 
-**Gaslighting Lite: Das subtile Infragestellen der Realität**
+**[Gaslighting](/blog/was-ist-gaslighting/) Lite: Das subtile Infragestellen der Realität**
 
 Der verdeckte Narzisst wird nicht sagen: "Das ist nicht passiert." Stattdessen: "Du erinnerst dich falsch." Oder: "Das war nicht so schlimm." Oder: "Ich denke, du überreagierst." Die Taktik ist raffiniert — deine Wahrnehmung wird angezweifelt, ohne dass offensichtlich gelogen wird.
 
@@ -175,7 +175,7 @@ Statt dir zu sagen, dass die Person verägert ist, wird sie "vergessen", deine B
 
 Das ständige Narrativ ist: Ich bin verletzt, ich wurde verletzt, die Welt ist unfair zu mir. Das funktioniert perfekt, weil du dich schuldig fühlst, dieser Person zusätzlichen Schmerz zuzufügen. Deine Bedürfnisse werden sekundär.
 
-**Silent Treatment: Der stille Schlag**
+**[Silent Treatment](/blog/silent-treatment-bedeutung/): Der stille Schlag**
 
 Der verdeckte Narzisst wird einfach nichts sagen. Keine Erklärung, keine Konfrontation — nur Stille. Dies ist eine Form der Bestrafung, die dich verzweifelt macht und letztendlich dich dazu bringt, deine Grenzen einzureißen, nur um wieder Aufmerksamkeit zu bekommen.
 
@@ -351,7 +351,7 @@ Paartherapie funktioniert nur, wenn beide Partner an echtem Verständnis interes
 
 Du brauchst einen Therapeuten, der Narcissistic Abuse versteht. Spezialisierte Therapieformen sind:
 
-- EMDR (Eye Movement Desensitization and Reprocessing): Besonders hilfreich bei Trauma. Diese Methode hilft deinem Gehirn, das Trauma zu verarbeiten, indem es die Erinnerung mit bilateralen Augenbewegungen verknüpft wird. Es ist empirisch wirksam bei PTSD und Betrayal Trauma.
+- [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) (Eye Movement Desensitization and Reprocessing): Besonders hilfreich bei Trauma. Diese Methode hilft deinem Gehirn, das Trauma zu verarbeiten, indem es die Erinnerung mit bilateralen Augenbewegungen verknüpft wird. Es ist empirisch wirksam bei PTSD und Betrayal Trauma.
 - CBT (Kognitive Verhaltenstherapie): Hilft, deine verzerrten Gedankenmuster zu korrigieren. Nachdem du mit einem verdeckten Narzissten zusammen warst, denkst du in Schleifen wie "Ich bin nicht liebenswert", "Ich bin zu viel", "Ich bin die Schuld an allem". CBT hilft dir, diese Gedanken zu hinterfragen und zu restruktturieren.
 - Attachment-fokussierte Therapie: Hilft dir, zu verstehen, warum du diese Art Person gewählt hast. Oft sind Menschen, die sich in verdeckte Narzissten verlieben, selbst mit unsicherer Bindung aufgewachsen. Sie kennen echte Liebe nicht, deshalb erkennen sie manipulative "Liebe" nicht.
 - Somatic Experiencing: Hilft deinem Körper, Trauma zu verarbeiten. Dein Nervensystem ist nach einer Beziehung mit einem verdeckten Narzissten in einem konstanten Zustand von Alarm. Dein Körper hat gelernt, hyper zu wachsen, auf jede Nuance seiner Stimme zu achten, auf kleine Veränderungen in seinem Gesicht zu reagieren. Somatic Experiencing hilft deinem Körper, wieder sicher zu werden.

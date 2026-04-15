@@ -396,7 +396,7 @@ Nein. Das ist catfishing und es ist nicht fair. Dein echtes Aussehen ist okay. M
 
 Nicht zu viele. 5-10 kurze Austausche, dann Treffen. Zu viel online chatten ist gift.
 
-**Was ist ein "red flag" bei einem Profil?**
+**Was ist ein "[red flag](/red-flags/)" bei einem Profil?**
 
 Wenn sie nur Gym-Fotos haben (superficiality). Wenn Alle Fotos sind mit Ex-Partner (emotional baggage). Wenn sie "no drama" schreiben (ironically, das ist drama). Wenn die Bio ist aggressive oder hateful.
 

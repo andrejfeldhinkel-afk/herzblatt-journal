@@ -984,7 +984,7 @@ Eine Affäre zeigt dir, dass Vertrauen in einer Sekunde gebrochen werden kann.
 
 Das ist nicht eine Lektion, um paranoid zu werden.
 
-Das ist eine Lektion: Sei wachsam. Sei bewusst. Pass auf die Red Flags auf.
+Das ist eine Lektion: Sei wachsam. Sei bewusst. Pass auf die [Red Flags](/red-flags/) auf.
 
 Das ist die Lektion über die Balance zwischen zu viel Vertrauen und keinem Vertrauen.
 

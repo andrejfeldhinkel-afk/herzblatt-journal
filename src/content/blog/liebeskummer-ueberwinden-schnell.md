@@ -506,7 +506,7 @@ Jetzt, allein, realierst du: "Es wird nicht besser. Es ist vorbei."
 
 Das ist mehr schmerzhaft als tägliches Schmerz.
 
-Das ist das "Trauma-Bond"-Phänomen wir diskutiert bei Gaslighting.
+Das ist das "Trauma-Bond"-Phänomen wir diskutiert bei [Gaslighting](/blog/was-ist-gaslighting/).
 
 Du vermisst nicht die *Person*. Du vermisst die *Hoffnung*.
 

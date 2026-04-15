@@ -75,7 +75,7 @@ Die erste Phase einer Beziehung mit einem Narzissten fühlt sich wie ein Märche
 
 ### Warnsignal 1: Love Bombing in den ersten Wochen
 
-Love Bombing ist einer der häufigsten Einstiegsmanöver. Er oder sie überschüttet dich mit Aufmerksamkeit, Geschenken, Komplimenten und Zeit. Es fühlt sich intensiv an – viel intensiver als normale Beziehungen zu Beginn. Du findest Nachrichten wie "Ich habe dich gerade an dich gedacht", "Du bist die einzige, die mich versteht", "Ich habe noch nie jemanden so schnell geliebt" – alles sehr früh.
+[Love Bombing](/blog/lovebombing-phasen/) ist einer der häufigsten Einstiegsmanöver. Er oder sie überschüttet dich mit Aufmerksamkeit, Geschenken, Komplimenten und Zeit. Es fühlt sich intensiv an – viel intensiver als normale Beziehungen zu Beginn. Du findest Nachrichten wie "Ich habe dich gerade an dich gedacht", "Du bist die einzige, die mich versteht", "Ich habe noch nie jemanden so schnell geliebt" – alles sehr früh.
 
 Der Haken: Das ist nicht echte Liebe. Das ist eine Strategie. Der Narzisst sammelt Informationen über dich – deine Träume, Ängste, Wünsche. Gleichzeitig schafft er ein psychologisches Schuldgefühl. Du schuldest ihm jetzt etwas, weil er dir so viel gegeben hat.
 
@@ -109,7 +109,7 @@ In dieser Phase wird der Narzisst nicht mehr nur manipulativ – er wird aktiv v
 
 Der Narzisst reagiert auf Konflikte nicht mit Gesprächen, sondern mit Schweigen. Tagelang. Das ist eine Form von emotionaler Bestrafung, die extrem schmerzhaft sein kann. Du weißt nicht, was du falsch gemacht hast. Du möchtest dich entschuldigen, aber der Narzisst ist emotional nicht erreichbar. Das macht dich verzweifelt und dankbar, wenn er/sie wieder mit dir spricht.
 
-Das Silent Treatment ist eines der psychologisch schädlichsten Verhaltensweisen, weil es dir zeigt, dass die Person, die dich angeblich liebt, dich komplett ignorieren und verletzen kann, um ihre Punkte zu machen.
+Das [Silent Treatment](/blog/silent-treatment-bedeutung/) ist eines der psychologisch schädlichsten Verhaltensweisen, weil es dir zeigt, dass die Person, die dich angeblich liebt, dich komplett ignorieren und verletzen kann, um ihre Punkte zu machen.
 
 ### Warnsignal 12: Stonewalling – Die Weigerung, schwierige Themen zu diskutieren
 
@@ -247,7 +247,7 @@ Viele Menschen befinden sich in diesem Kreislauf Jahre lang, weil sie hoffen, da
 
 Es ist eine häufig gestellte Frage: Warum verlässt du ihn/sie nicht einfach? Wenn der Narzisst so schlecht ist, warum bleibst du?
 
-Die Antwort ist psychologisch faszinierend und traurig. Es heißt Trauma Bonding.
+Die Antwort ist psychologisch faszinierend und traurig. Es heißt [Trauma Bonding](/blog/trauma-bonding-loesen/).
 
 Trauma Bonding entsteht, wenn eine Person Momente intensiver Nähe und Liebe mit Momenten intensiver Angst, Verletzung oder Ablehnung erlebt. Dein Gehirn wird für diesen Wechsel konditioniert. Wenn der Narzisst dich nach einer Phase der Ignoranz wieder beachtet, werden Neurotransmitter wie Dopamin freigesetzt. Dein Körper reagiert auf diese Erleichterung wie auf eine Droge.
 
@@ -309,7 +309,7 @@ Wenn alles geplant ist, führe die Trennung durch. Du kannst es persönlich tun 
 
 Nach der Trennung ist der beste Weg, sich zu erholen, kein Kontakt. Blockiere den Narzissten überall: WhatsApp, E-Mail, soziale Medien, Telefon. Wenn ihr Kinder habt, versuche, nur schriftlich über praktische Dinge zu kommunizieren.
 
-Der Narzisst wird versuchen, dich zu erreichen. Er/Sie wird sagen, dass er/sie sich geändert hat. Er/Sie wird Hoovering-Versuche machen (versuchen, dich wieder in die Beziehung zu "saugen"). Vergiss seine/ihre Worte. Denke an die Warnsignale.
+Der Narzisst wird versuchen, dich zu erreichen. Er/Sie wird sagen, dass er/sie sich geändert hat. Er/Sie wird [Hoovering](/blog/hoovering-narzissmus-erkennen/)-Versuche machen (versuchen, dich wieder in die Beziehung zu "saugen"). Vergiss seine/ihre Worte. Denke an die Warnsignale.
 
 ## Heilung nach narzisstischem Missbrauch
 
@@ -345,7 +345,7 @@ Eines der wichtigsten Dinge, die ein Therapeut dir zeigt, ist, dass du nicht ver
 
 ## Die langfristigen Auswirkungen narzisstischen Missbrauchs
 
-Es ist wichtig, dass du verstehst, dass narzisstischer Missbrauch anhaltende Auswirkungen hat. Das ist nicht etwas, das du "einfach abschütteln" kannst.
+Es ist wichtig, dass du verstehst, dass [narzisstischer Missbrauch](/narzissmus/) anhaltende Auswirkungen hat. Das ist nicht etwas, das du "einfach abschütteln" kannst.
 
 Menschen, die mit Narzissten in Beziehungen waren, berichten oft von:
 

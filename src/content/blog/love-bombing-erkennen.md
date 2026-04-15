@@ -29,7 +29,7 @@ faq:
 ---
 ## Was ist [verliebt](/blog/mann-verliebt-anzeichen-komplett) ist, dass er es einfach nicht verbergen kann. Das ist nicht Liebe. Das ist Manipulation.
 
-Love Bombing ist, wenn jemand dich mit übertriebener Aufmerksamkeit, Besitzergreifung und intensiven Gefühlen überflutet – nicht weil er/sie dich liebt, sondern weil er/sie dich kontrollieren will. Das Ziel ist nicht dein Glück. Das Ziel ist deine Abhängigkeit. Das Ziel ist, dich so süchtig nach ihrer Aufmerksamkeit zu machen, dass du nicht gehen wirst, wenn die wahre Natur dieser Person herauskommt.
+[Love Bombing](/blog/lovebombing-phasen/) ist, wenn jemand dich mit übertriebener Aufmerksamkeit, Besitzergreifung und intensiven Gefühlen überflutet – nicht weil er/sie dich liebt, sondern weil er/sie dich kontrollieren will. Das Ziel ist nicht dein Glück. Das Ziel ist deine Abhängigkeit. Das Ziel ist, dich so süchtig nach ihrer Aufmerksamkeit zu machen, dass du nicht gehen wirst, wenn die wahre Natur dieser Person herauskommt.
 
 Love Bombing ist eine Form von emotionaler Manipulation. Es ist berechnet, auch wenn es nicht bewusst ist.
 
@@ -200,7 +200,7 @@ Aber hier ist wichtig: Die Liebe, die du verspürt hast, war nicht echt. Die Per
 
 **Die Genesung:**
 - Therapie: Sprich mit einem Therapeut. Das ist nicht optional nach Love Bombing. Das ist notwendig.
-- No Contact: Du musst die Person blockieren/ignorieren. Nicht später, jetzt. Jeder Kontakt wird dich zurückziehen.
+- [No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/): Du musst die Person blockieren/ignorieren. Nicht später, jetzt. Jeder Kontakt wird dich zurückziehen.
 - Unterstützung: Deine Freunde und Familie, die dich die ganze Zeit sagten, das war eine rote Flagge – danke ihnen. Lass sie dich halten.
 - Zeit: Es dauert länger als du denkst. Rechne mit Monaten, nicht Wochen.
 - Selbstmitgefühl: Du bist nicht dumm. Du wolltest geliebt werden. Das ist nicht dein Fehler.

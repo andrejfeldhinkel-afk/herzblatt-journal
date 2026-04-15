@@ -34,7 +34,7 @@ Das ist Gray Rocking. Und es ist eine der mächtigsten Techniken gegen toxische 
 
 ## Die psychologische Basis: Narcissistic Supply
 
-Ein Narzisst braucht das, was Psychologen "Narcissistic Supply" oder einfach "Supply" nennen. Die Supply ist nicht Liebe. Die Supply ist nicht gegenseitige Zuneigung. Die Supply ist jede emotionale Reaktion, die du gibst.
+Ein [Narzisst](/narzissmus/) braucht das, was Psychologen "Narcissistic Supply" oder einfach "Supply" nennen. Die Supply ist nicht Liebe. Die Supply ist nicht gegenseitige Zuneigung. Die Supply ist jede emotionale Reaktion, die du gibst.
 
 Wut. Trauer. Liebe. Eifersucht. Angst. Hoffnung. Selbstverteidigung. Alles ist wertvoll für einen Narzissten.
 

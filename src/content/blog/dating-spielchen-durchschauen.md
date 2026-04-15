@@ -53,7 +53,7 @@ Aber hier ist etwas, das du verstehen musst: Es gibt einen großen Unterschied z
 
 ### 2. Breadcrumbing — er schmeißt dir Krümel hin
 
-Breadcrumbing ist das moderne Pendant zu "Keep a girl hanging". Die andere Person gibt dir gerade genug Aufmerksamkeit, um dich an der Leine zu halten. Ein Like hier. Ein "wie geht's dir"-Text da. Aber nie genug, um wirklich etwas zu werden.
+[Breadcrumbing](/blog/breadcrumbing-komplett-guide/) ist das moderne Pendant zu "Keep a girl hanging". Die andere Person gibt dir gerade genug Aufmerksamkeit, um dich an der Leine zu halten. Ein Like hier. Ein "wie geht's dir"-Text da. Aber nie genug, um wirklich etwas zu werden.
 
 Es sieht so aus: Sie sieht deine Instagram-Stories an. Manchmal lässt sie ein Emoji-Reaktion da. Manchmal schreibt sie eine kurze Nachricht. Aber sie schlägt nie ein Date vor. Sie plant nichts. Sie ist nur... irgendwo da. Präsent genug, dass du denkst, es könnte noch etwas werden. Abwesend genug, dass es nie wird.
 
@@ -115,7 +115,7 @@ Das Hot-and-Cold-Spielchen ist oft ein Symptom dieses Bindungsstils.
 
 Dann gibt es Menschen mit narzisstischen Tendenzen. Diese Menschen spielen Spielchen nicht aus Angst — sie spielen Spielchen aus Ich-Bezogenheit. Sie brauchen Aufmerksamkeit. Sie brauchen Bestätigung. Sie brauchen zu wissen, dass sie dich beeinflussen können. Spielchen sind eine Möglichkeit, diese Kontrolle zu behalten.
 
-Love Bombing, gefolgt von emotionaler Ablehnung, ist ein klassisches Muster eines Narzissten. Es geht darum, dich anzuhaken und dann zu kontrollieren, wenn du emotional abhängig wirst.
+[Love Bombing](/blog/lovebombing-phasen/), gefolgt von emotionaler Ablehnung, ist ein klassisches Muster eines Narzissten. Es geht darum, dich anzuhaken und dann zu kontrollieren, wenn du emotional abhängig wirst.
 
 ### Ungelernte emotionale Fähigkeiten
 
@@ -155,7 +155,7 @@ Sie spielen Hot-and-Cold. Sie spielen Slow Fading. Sie spielen Phubbing. Sie tun
 
 ### Fearful-Avoidant Attachment
 
-Menschen mit angstvoller-vermeidendem Bindungsstil sind eine Mischung aus Anxious und Avoidant. Sie wollen nähe und sie fürchten sie. Sie brauchen dich und sie wollen dich wegschieben. Sie spielen die komplexesten Spielchen, weil sie sich selbst widersprechen.
+Menschen mit angstvoller-vermeidendem [Bindungsstil](/bindungsstile/) sind eine Mischung aus Anxious und Avoidant. Sie wollen nähe und sie fürchten sie. Sie brauchen dich und sie wollen dich wegschieben. Sie spielen die komplexesten Spielchen, weil sie sich selbst widersprechen.
 
 Diese Menschen können dich lieben und dich gleichzeitig verletzten. Sie können dich hoffen lassen und dich zum Wahnsinn treiben. Sie sind oft die zerstörerischsten Partner, nicht aus Bosheit, sondern aus interner Verwirrung.
 
@@ -451,7 +451,7 @@ Menschen, die klare Kommunikation verwenden, spielen nicht Spielche. Wenn sie si
 
 Menschen mit sicherer Bindung spielen nicht Spielche. Sie sind nicht angespannt genug von Nähe, um dich zu brauchen, um Push and Pull zu spielen. Sie sind nicht bedürftig genug, um dich als Option zu halten.
 
-Sicherer Bindungsstil ist nicht "uninteressiert". Es ist einfach emotional ausbalanciert.
+[Sicherer Bindungsstil](/blog/sicherer-bindungsstil/) ist nicht "uninteressiert". Es ist einfach emotional ausbalanciert.
 
 ### Sie sprechen über die Zukunft und planen sie
 

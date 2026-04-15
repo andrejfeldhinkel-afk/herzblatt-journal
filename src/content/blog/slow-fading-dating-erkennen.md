@@ -30,7 +30,7 @@ Die Nachrichten wurden seltener. Jede Antwort brauchte länger. Die Smileys vers
 
 Du merkst: Da läuft etwas falsch. Aber es ist nicht eindeutig genug, um Alarm zu schlagen.
 
-Das ist Slow Fading. Und es ist, ehrlich gesagt, die feige Variante von Ghosting.
+Das ist Slow Fading. Und es ist, ehrlich gesagt, die feige Variante von [Ghosting](/blog/ghosting-komplett-guide/).
 
 ## Was ist Slow Fading überhaupt?
 
@@ -140,7 +140,7 @@ Das bedeutet: **Früh klare Kriterien setzen.**
 
 Wenn ihr nach drei Wochen noch nicht "offiziell datet" und er wird vage: Nicht deine Person.
 
-Wenn er schneller antwortet auf Instagram-Kommentare als auf deine Texte: Red Flag.
+Wenn er schneller antwortet auf Instagram-Kommentare als auf deine Texte: [Red Flag](/red-flags/).
 
 Wenn das erste Treffen gut war, aber er schlägt kein zweites Treffen vor: Nicht warten. Zum nächsten.
 

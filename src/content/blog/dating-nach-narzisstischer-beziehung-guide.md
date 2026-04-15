@@ -133,7 +133,7 @@ Wenn du diese Dinge noch nicht hast – das ist okay. Das bedeutet einfach, dass
 
 Die beste Therapie nach narzisstischem Missbrauch kombiniert mehrere Ansätze:
 
-**EMDR (Eye Movement Desensitization and Reprocessing):** Dies ist besonders hilfreich für Trauma. Dein Gehirn hat die narzisstische Beziehung als existenziell bedrohlich gespeichert. EMDR hilft, diese Erinnerungen umzuschreiben.
+**[EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) (Eye Movement Desensitization and Reprocessing):** Dies ist besonders hilfreich für Trauma. Dein Gehirn hat die narzisstische Beziehung als existenziell bedrohlich gespeichert. EMDR hilft, diese Erinnerungen umzuschreiben.
 
 **Internal Family Systems (IFS):** Dies hilft dir, die verschiedenen Teile deiner Psyche zu verstehen – den Überlebens-Teil, den Protektiven Teil, den verletzten Teil. Mit IFS wirst du nicht gegen dich selbst ankämpfen.
 
@@ -208,7 +208,7 @@ Und alles andere folgt daraus.
 
 ## Deep Dive: Die psychologie der narzisstischen Bindung
 
-Um zu verstehen, wie du wieder dating kannst, musst du verstehen, warum du bei einem Narzissten geblieben bist. Das ist nicht, weil du dumm bist. Das ist, weil narzisstischer Missbrauch eine sehr spezifische psychologische Bindung erzeugt.
+Um zu verstehen, wie du wieder dating kannst, musst du verstehen, warum du bei einem Narzissten geblieben bist. Das ist nicht, weil du dumm bist. Das ist, weil [narzisstischer Missbrauch](/narzissmus/) eine sehr spezifische psychologische Bindung erzeugt.
 
 Der Narzisst funktioniert in Zyklen: Liebe-Bomben (du bist perfekt), Abwertung (plötzlich bist du schrecklich), stumme Behandlung (emotionaler Entzug), Versöhnung (es tut mir leid, es wird nicht wieder vorkommen).
 
@@ -260,7 +260,7 @@ Das ist nicht dumm. Das ist mutig.
 
 ## Die Kunst, die richtige Geschwindigkeit zu finden
 
-Narzisstische Beziehungen waren entweder sehr schnell (Love Bombing) oder sehr langsam und verwirrend (ich weiß nicht, wo ich stehe).
+Narzisstische Beziehungen waren entweder sehr schnell ([Love Bombing](/blog/lovebombing-phasen/)) oder sehr langsam und verwirrend (ich weiß nicht, wo ich stehe).
 
 Gesunde Beziehungen haben einen natürlichen Rhythmus. Sie beschleunigen nicht willkürlich. Sie verlangsamen sich nicht ohne Grund.
 

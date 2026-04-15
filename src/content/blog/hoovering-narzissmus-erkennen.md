@@ -24,7 +24,7 @@ faq:
     answer: "Nein, wirklich. Sie können es nicht akzeptieren, weil das bedeuten würde zuzugeben, dass jemand sie verlassen hat. Das ist zu bedrohlich für ihr Ego. Sie werden immer den Versuch machen oder dich als das Problem darstellen, das sie verließ."
 ---
 
-Du hast endlich Schluss gemacht. Der Narzisst hat dich manipuliert, kontrolliert und verletzt. Es war genug.
+Du hast endlich Schluss gemacht. Der [Narzisst](/narzissmus/) hat dich manipuliert, kontrolliert und verletzt. Es war genug.
 
 Du blockierst ihn auf allen Plattformen. Du sagst allen Freunden, dass es vorbei ist.
 

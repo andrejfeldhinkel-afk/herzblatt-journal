@@ -437,7 +437,7 @@ Das ist ein Beziehungs-Entscheidung, die Trauer-Entscheidung braucht.
 
 Es gibt unterschied Zeichen:
 
-**Red Flag 1: Ihr sprecht nicht mehr über das Kind**
+**[Red Flag](/red-flags/) 1: Ihr sprecht nicht mehr über das Kind**
 
 Anfangs, wenn die Trauer ist sehr frisch, kann es Stille sein (wie bei Internalizers). Aber wenn Monate sind vergangen und ihr beide zu vermeiden versucht, das Thema – das ist ein Problem.
 

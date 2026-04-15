@@ -80,7 +80,7 @@ Das ist zu fixen mit Neugier, Kommunikation und Willingness, etwas Neues zu prob
 
 ### Andere Menschen (Affaire, Interesse)
 
-Manchmal ist der Grund für mangelnden Sex in der Beziehung, dass es Interest in jemand anderes gibt. Das ist ein großes red flag.
+Manchmal ist der Grund für mangelnden Sex in der Beziehung, dass es Interest in jemand anderes gibt. Das ist ein großes [red flag](/red-flags/).
 
 Das ist nicht immer ein Dealbreaker, aber es ist eine Riesenflag, dass etwas fundamental nicht stimmt.
 

@@ -470,7 +470,7 @@ Das ist nicht ein "echten Grund". Das ist Mangel an Charakter.
 
 Wenn er fremdgeht, weil die Beziehung emotionell leer ist – das ist rettbar (wenn BEIDE arbeiten).
 
-Wenn er fremdgeht, weil er ein Narzisst ist – das ist nicht rettbar.
+Wenn er fremdgeht, weil er ein [Narzisst](/narzissmus/) ist – das ist nicht rettbar.
 
 ## Was zu tun, wenn du einen starken Verdacht hast
 
@@ -737,7 +737,7 @@ Das hängt von:
 2. **Sein Verhalten nach Geständnis**
    Zeigt er echte Reue? Oder macht er dich zum Problem?
 
-3. **Dein Bindungsstil**
+3. **Dein [Bindungsstil](/bindungsstile/)**
    Ängstlich gebundene Menschen dauern länger zu heilen.
 
 4. **Eure Geschichte**
@@ -902,7 +902,7 @@ Wenn du ihn konfrontierst, wird er wahrscheinlich eine dieser fünf Reaktionen z
 
 Er wird versuchen, dich verrückt zu machen.
 
-Das ist Gaslighting.
+Das ist [Gaslighting](/blog/was-ist-gaslighting/).
 
 ### Reaktion 2: Partielle Geständnis
 
@@ -1147,7 +1147,7 @@ Klare, harte Wahrheit.
 
 ### Schritt 2: Setz Grenzen sofort
 
-Sag "No Contact" oder "Limited Contact" für mindestens 3 Monate.
+Sag "[No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/)" oder "Limited Contact" für mindestens 3 Monate.
 
 Das bedeutet:
 - Du siehst ihn nicht

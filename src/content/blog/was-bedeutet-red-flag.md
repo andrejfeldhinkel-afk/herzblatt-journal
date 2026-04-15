@@ -101,7 +101,7 @@ Wenn du eine Red Flag erkennst, hast du drei Optionen:
 
 **2. Beobachten.** Wenn du dir nicht sicher bist, gib dir einen Zeitrahmen. In 4–8 Wochen siehst du, ob sich das Muster wiederholt oder ob es ein Ausreißer war.
 
-**3. Gehen.** Wenn mehrere Red Flags zusammenkommen oder das Muster sich wiederholt, ist Weitergehen oft der gesündeste Schritt. Je früher, desto weniger investierte Zeit und emotionale Schulden.
+**3. Gehen.** Wenn mehrere [Red Flags](/red-flags/) zusammenkommen oder das Muster sich wiederholt, ist Weitergehen oft der gesündeste Schritt. Je früher, desto weniger investierte Zeit und emotionale Schulden.
 
 ## Das eigentliche Ziel: Nicht Red Flags jagen, sondern Green Flags erkennen
 

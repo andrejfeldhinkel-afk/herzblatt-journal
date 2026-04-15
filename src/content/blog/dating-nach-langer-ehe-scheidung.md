@@ -109,7 +109,7 @@ Sie tolerieren Dinge, die sie nicht sollten. Sie verbiegen sich. Sie werden klei
 
 Beim Daten nach einer Ehe musst du diese Fähigkeit zu Grenzen aktiv wieder lernen. Und das ist nicht egoistisch. Das ist Selbstliebe.
 
-Was sind rote Flaggen? Jemand, der zu schnell nach Commitment drängt – das ist eine Flagge. Jemand, der dich nach wenigen Wochen sagt, dass er oder sie dich liebt – das könnte oberflächlich sein. Jemand, der dir das Gefühl gibt, dass du „repariert" oder „vollendet" werden musst? Red flag. Jemand, der dein Kind nicht respektiert oder dessen Grenzen ignoriert? Große red flag.
+Was sind rote Flaggen? Jemand, der zu schnell nach Commitment drängt – das ist eine Flagge. Jemand, der dich nach wenigen Wochen sagt, dass er oder sie dich liebt – das könnte oberflächlich sein. Jemand, der dir das Gefühl gibt, dass du „repariert" oder „vollendet" werden musst? [Red flag](/red-flags/). Jemand, der dein Kind nicht respektiert oder dessen Grenzen ignoriert? Große red flag.
 
 Der absolute Punkt ist: Du brauchst nicht mit jemandem zu sein. Du kannst allein glücklich sein, erfüllt sein, vollständig sein. Das sollte dein Ankerpoint, deine grundlegende Wahrheit sein – nicht aus Bitterkeit, sondern aus echtem, existentiellen Wissen, dass du nicht jemanden brauchst, um wertvoll zu sein.
 

@@ -90,7 +90,7 @@ Wenn du endlich auf ein Datum gehst, und du kämpfst mit Körperbild, hier ist w
 
 Etwas kommt auf: Was wenn dein Partner hat negative Gefühle über dein Körper?
 
-Das ist ein großes Red Flag.
+Das ist ein großes [Red Flag](/red-flags/).
 
 Wenn er oder sie Kommentare über dein Gewicht macht, dein Aussehen, wie du dich anzieht – das ist nicht okay.
 

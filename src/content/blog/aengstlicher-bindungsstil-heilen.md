@@ -36,13 +36,13 @@ Das ist anstrengend. Für dich. Und auch für deinen Partner. Aber es gibt einen
 
 ## Woher kommt dein ängstlicher Bindungsstil?
 
-Um deinen Bindungsstil zu heilen, musst du verstehen, wo er herkommt. In den meisten Fällen reicht die Wurzel bis in deine Kindheit zurück. Vielleicht hattest du ein Elternteil, das emotional unverfügbar war. Oder die Liebe war an Bedingungen geknüpft – du musstest dich "verdienen".
+Um deinen [Bindungsstil](/bindungsstile/) zu heilen, musst du verstehen, wo er herkommt. In den meisten Fällen reicht die Wurzel bis in deine Kindheit zurück. Vielleicht hattest du ein Elternteil, das emotional unverfügbar war. Oder die Liebe war an Bedingungen geknüpft – du musstest dich "verdienen".
 
 Manche Menschen haben Eltern, die manchmal übertrieben aufmerksam waren, manchmal aber völlig abwesend. Diese Inkonsistenz prägt sich ein: Dein Gehirn lernt, dass Liebe unsicher ist. Du kannst dich nie entspannen. Du musst immer aufpassen und reagieren, um die Liebe zu behalten.
 
 Andere erleben echte Trennungen oder Verluste früh. Ein Elternteil geht, zieht weg, oder ist präsent, aber emotional nicht da. Dein System sagt dir: "Menschen, die du liebst, gehen weg." Diese unbewusste Überzeugung sitzt tief.
 
-Der wichtigste erste Schritt ist also: Verstehe deine Geschichte. Nicht um deine Eltern zu verurteilen, sondern um dich selbst zu verstehen. Dein ängstlicher Bindungsstil war eine intelligente Überlebensstrategie. Er hat dir geholfen, in einer unsicheren Umgebung zu überleben.
+Der wichtigste erste Schritt ist also: Verstehe deine Geschichte. Nicht um deine Eltern zu verurteilen, sondern um dich selbst zu verstehen. Dein [ängstlicher Bindungsstil](/blog/aengstlicher-bindungsstil/) war eine intelligente Überlebensstrategie. Er hat dir geholfen, in einer unsicheren Umgebung zu überleben.
 
 ## Der erste konkrete Schritt: Selbstbeobachtung ohne Vorwurf
 

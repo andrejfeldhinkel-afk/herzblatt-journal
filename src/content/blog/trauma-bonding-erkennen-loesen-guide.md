@@ -30,7 +30,7 @@ faq:
 
 Es gibt ein Phänomen, das so verstrickt und verwirrend ist, dass viele Menschen nicht verstehen, warum sie nicht gehen können. Sie wissen intellektuell, dass die Beziehung falsch ist. Sie sehen die roten Flaggen und kennen die Warnsignale. Sie haben Freunde, die sagen "Er ist toxisch, geh weg." Aber sie können nicht gehen. Und je mehr sie versuchen, die Beziehung zu beenden, desto stärker wird die Bindung, desto intensiver wird der Schmerz, und desto näher sind sie daran, zurückzugehen.
 
-Das ist Trauma Bonding.
+Das ist [Trauma Bonding](/blog/trauma-bonding-loesen/).
 
 Es ist nicht rational. Es ist nicht logisch. Es ist neurobiologisch. Es ist ein Phänomen, das echte, messbare Veränderungen in der Chemie deines Gehirns verursacht – ähnlich wie Drogenabhängigkeit.
 

@@ -38,7 +38,7 @@ Die moderne Traumaforschung, insbesondere die Arbeiten von Bessel van der Kolk u
 
 Dein [Erfahre mehr über Bindungsstile in unserem ausführlichen Guide](/blog/bindungsstile-dating). Die Interaktion zwischen verschiedenen Bindungsstilen kann zu intensiven Dynamiken führen, die entweder sehr heilend oder sehr destruktiv sein können.
 
-Ein sicherer Bindungsstil mit einem anderen sicheren Bindungsstil schafft eine Beziehung, in der beide Partner sich öffnen können und gegenseitig unterstützen. Aber wenn du mit unsicheren Bindungsstilen in einer Beziehung bist, werden die Dynamiken komplizierter. Ein ängstlicher Bindungsstil mit einem vermeidenden schafft ein klassisches Muster von Verfolgung und Flucht - je mehr der ängstliche Partner nähe sucht, desto mehr zieht sich der vermeidende zurück, was den Ängstlichen verunsichert und den Vermeidenden weiter in die Defensive treibt.
+Ein [sicherer Bindungsstil](/blog/sicherer-bindungsstil/) mit einem anderen sicheren Bindungsstil schafft eine Beziehung, in der beide Partner sich öffnen können und gegenseitig unterstützen. Aber wenn du mit unsicheren Bindungsstilen in einer Beziehung bist, werden die Dynamiken komplizierter. Ein [ängstlicher Bindungsstil](/blog/aengstlicher-bindungsstil/) mit einem vermeidenden schafft ein klassisches Muster von Verfolgung und Flucht - je mehr der ängstliche Partner nähe sucht, desto mehr zieht sich der vermeidende zurück, was den Ängstlichen verunsichert und den Vermeidenden weiter in die Defensive treibt.
 
 Die Heilung deines Bindungsstils ist möglich, geschieht aber nicht über Nacht. Es erfordert bewusste Arbeit, Selbstreflexion und oft Therapie. Wichtig ist, dass dein Partner dich in diesem Prozess unterstützen kann - indem er präsent und zuverlässig ist, kann er dir helfen zu "rehabituieren" dein Nervensystem zu den Ideen von Vertrauen und Sicherheit in Beziehungen.
 
@@ -108,7 +108,7 @@ Selbstschutz bedeutet auch, dich selbst ernst zu nehmen. Es bedeutet, dass wenn 
 
 Es ist unmöglich, zu viel zu betonen, wie wichtig professionelle Hilfe für Trauma-Heilung ist. Dies ist nicht etwas, das du allein durcharbeiten solltest, und es ist auch nicht etwas, das dein Partner heilen kann, egal wie liebevoll. Therapie ist nicht optional - sie ist notwendig.
 
-Es gibt viele wirksame Therapieansätze für Trauma. Eye Movement Desensitization and Reprocessing (EMDR) ist ein stark evidenzbasierter Ansatz, der speziell für Trauma entwickelt wurde. EMDR nutzt bilaterale Stimulation, um das Gehirn dabei zu helfen, traumatische Erinnerungen zu verarbeiten und zu integrieren. Cognitive Behavioral Therapy (CBT) kann auch hilfreich sein, besonders wenn es mit körperbasierten Ansätzen kombiniert wird.
+Es gibt viele wirksame Therapieansätze für Trauma. Eye Movement Desensitization and Reprocessing ([EMDR](/blog/emdr-beziehungstrauma-heilen-guide/)) ist ein stark evidenzbasierter Ansatz, der speziell für Trauma entwickelt wurde. EMDR nutzt bilaterale Stimulation, um das Gehirn dabei zu helfen, traumatische Erinnerungen zu verarbeiten und zu integrieren. Cognitive Behavioral Therapy (CBT) kann auch hilfreich sein, besonders wenn es mit körperbasierten Ansätzen kombiniert wird.
 
 Somatic Experiencing arbeitet direkt mit dem Nervensystem und dem Körper. Es hilft Menschen, unvollendete Überlebensmuster zu durcharbeiten, die in ihren Körpern stecken. Psychodynamische Therapie kann helfen, die unbewussten Ursprünge deiner Verhaltensweisen zu verstehen. Internal Family Systems (IFS) ist ein anderer innovativer Ansatz, der besonders effektiv für Trauma sein kann.
 

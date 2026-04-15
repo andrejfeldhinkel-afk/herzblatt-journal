@@ -24,7 +24,7 @@ Du hast diesen Begriff vielleicht schon gehört: "Er ist avoidant" oder "Sie ist
 
 Die Attachment Theory ist eines der wichtigsten psychologischen Konzepte für Beziehungen. Es erklärt nicht nur, warum du in Beziehungen so bist, wie du bist. Es erklärt auch, warum du immer wieder die gleichen Probleme hast.
 
-In diesem Artikel gehen wir durch: Was Attachment Theory ist, die vier Bindungstypen, wie du deinen findest, und – am wichtigsten – wie du dein Attachment-Stil in deinem Dating-Leben nutzt, um bessere Entscheidungen zu treffen.
+In diesem Artikel gehen wir durch: Was Attachment Theory ist, die vier [Bindungstypen](/bindungsstile/), wie du deinen findest, und – am wichtigsten – wie du dein Attachment-Stil in deinem Dating-Leben nutzt, um bessere Entscheidungen zu treffen.
 
 ## Die Grundlagen: Attachment Theory nach John Bowlby
 

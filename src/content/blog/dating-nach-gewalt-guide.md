@@ -36,7 +36,7 @@ Toxischer Missbrauch hinterlässt verschiedene Arten von Wunden. Und zu verstehe
 
 **Körper-Gedächtnis-Trauma:** Dein Körper ist in einem konstanten Zustand der Alarmmeldung. Du zuckst zusammen, wenn jemand deine Hand berührt. Du schläfst nicht gut. Du bist immer "auf."
 
-**Identitäts-Trauma:** Du weißt nicht mehr, wer du bist. Du hast dich so sehr in die toxische Beziehung verloren, dass du die Person, die du warst, nicht finden kannst.
+**Identitäts-Trauma:** Du weißt nicht mehr, wer du bist. Du hast dich so sehr in die [toxische Beziehung](/toxische-beziehung/) verloren, dass du die Person, die du warst, nicht finden kannst.
 
 **Vertrauens-Trauma mit Liebe:** Das ist das Schlimmste. Du hast gelernt, dass Liebe schmerzhaft sein kann. Die Person, die dir am nächsten steht, kann dich am meisten verletzen. Das ist eine tiefe und gefährliche Lektion zu lernen.
 
@@ -64,7 +64,7 @@ Das ist die Frage, die du dir stellen musst. Und es gibt keine perfekte Antwort.
 
 **Du kannst über deine toxische Beziehung sprechen, ohne zusammenzubrechen.** Das bedeutet nicht, dass es dich nicht verletzt. Es bedeutet, dass du es verarbeitet hast. Du kannst sagen "Das passiert ist. Es war schwer. Aber es hat mich gelehrt, wer ich bin."
 
-**Du vertraust dir selbst wieder.** Du weißt, dass dein Urteil nicht vollständig verfälscht ist. Du weißt, dass du in der Lage bist, ein Red Flag zu sehen und darauf zu handeln.
+**Du vertraust dir selbst wieder.** Du weißt, dass dein Urteil nicht vollständig verfälscht ist. Du weißt, dass du in der Lage bist, ein [Red Flag](/red-flags/) zu sehen und darauf zu handeln.
 
 **Du magst dich selbst.** Du musst nicht dich selbst lieben – das wird kommen. Aber du solltest anfangen, dich selbst zu mögen. Dich selbst zu achten. Dich selbst zu schätzen.
 
@@ -100,10 +100,10 @@ Du kennst diese Zeichen jetzt. Und wenn du dich selbst vertraust, wirst du wisse
 
 Rote Flaggen, um zu beobachten:
 
-- Zu viel, zu schnell. Love Bombing, Versprechungen früh, Druck zu ernst sein.
+- Zu viel, zu schnell. [Love Bombing](/blog/lovebombing-phasen/), Versprechungen früh, Druck zu ernst sein.
 - Kontrolle unter dem Vorwand von "Sorge". "Wo warst du? Mit wem hast du geredet? Was hast du getragen?"
 - Isolation. Er möchte, dass du deine Freunde nicht siehst. Er kritisiert deine Familie.
-- Gaslighting. Er leugnet Dinge, die du weiß, dass er getan hat. Er macht dich zweifeln an dich selbst.
+- [Gaslighting](/blog/was-ist-gaslighting/). Er leugnet Dinge, die du weiß, dass er getan hat. Er macht dich zweifeln an dich selbst.
 - Schuldmachen. Wenn dich etwas weh tut, bist du "zu empfindlich."
 - Hot-und-Kalt-Verhalten. Einer Tag er ist ideal, nächste er ist grausam.
 - Druck, schneller zu gehen als du dich wohl fühlst. Sex, zusammen ziehen, Verpflichtungen.

@@ -135,7 +135,7 @@ Er wird versuchen, deine Freunde zu mögen. Er wird mit deiner Familie Zeit verb
 
 Das ist nicht Besessenheit – das ist Interesse. Das ist weil dich interessiert, wer wichtig für dich ist – und weil er wichtig für dich ist, ist es wichtig für ihn.
 
-Wenn ein Mann deine Freunde und Familie ignoriert, wenn er sie als "lästig" sieht – das ist ein riesiges Anzeichen, dass er versucht, dich zu isolieren. Das ist red flag.
+Wenn ein Mann deine Freunde und Familie ignoriert, wenn er sie als "lästig" sieht – das ist ein riesiges Anzeichen, dass er versucht, dich zu isolieren. Das ist [red flag](/red-flags/).
 
 Ein verliebter Mann wird deine Leute als seine Leute sehen.
 

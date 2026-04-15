@@ -63,7 +63,7 @@ Das ist nicht Wahrsagerei. Das ist Psychologie.
 
 ## Kommunikationsmuster beobachten — Die subtilsten Warnsignale
 
-**Die Zeitverzögerung**: Antwortet die Person nur, wenn es ihr passt, und ignoriert dich stundenlang, obwohl sie online ist? Das ist nicht "beschäftigt". Das ist "ungleiche Aufmerksamkeit" oder "Breadcrumbing" (wenn es konsistent ist).
+**Die Zeitverzögerung**: Antwortet die Person nur, wenn es ihr passt, und ignoriert dich stundenlang, obwohl sie online ist? Das ist nicht "beschäftigt". Das ist "ungleiche Aufmerksamkeit" oder "[Breadcrumbing](/blog/breadcrumbing-komplett-guide/)" (wenn es konsistent ist).
 
 **Das Planung-Problem**: Plant diese Person nie konkrete Treffen? Immer "vielleicht bald" oder "ich schreib dich"? Das ist ein Zeichen mangelnden Interesses oder fehlender Bereitschaft, sich festzulegen.
 

@@ -93,7 +93,7 @@ Hier ist das wichtigste Mindset: After-Work Dates sind nicht weniger wert als ei
 
 Viele Menschen – besonders Frauen – haben internalisiert, dass echte Dates aufwendig, lange und elaboriert sein müssen. Das ist Quatsch. Ein gutes Gespräch, authentische Verbindung und gegenseitige Aufmerksamkeit – das macht ein Date aus, nicht die Dauer oder die Location.
 
-Wenn dein Date denkt, dass 90 Minuten in einer Bar nicht ausreichen, um jemanden kennenzulernen: Das ist ein Red Flag für dich. Menschen, die nur auf Perfektionismus stehen, sind anstrengend im Dating.
+Wenn dein Date denkt, dass 90 Minuten in einer Bar nicht ausreichen, um jemanden kennenzulernen: Das ist ein [Red Flag](/red-flags/) für dich. Menschen, die nur auf Perfektionismus stehen, sind anstrengend im Dating.
 
 ## Wann solltest du ein After-Work Date absagen?
 

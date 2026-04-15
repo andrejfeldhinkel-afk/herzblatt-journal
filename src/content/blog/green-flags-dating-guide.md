@@ -117,7 +117,7 @@ Ein Mensch ohne Vision ist ein Mensch, der nicht echt lebt. Ein Mensch ohne Trä
 
 ### 10. Sie wollen dich ihren Freunden und ihrer Familie vorstellen
 
-Das ist nicht früh (es sollte nicht sein — das ist ein Zeichen von Love Bombing), aber relativ früh. Nach ein paar Monaten sollte es der natürliche nächste Schritt sein. Ein Mensch, der dich versteckt, schämt sich oder nimmt dich nicht ernsthaft.
+Das ist nicht früh (es sollte nicht sein — das ist ein Zeichen von [Love Bombing](/blog/lovebombing-phasen/)), aber relativ früh. Nach ein paar Monaten sollte es der natürliche nächste Schritt sein. Ein Mensch, der dich versteckt, schämt sich oder nimmt dich nicht ernsthaft.
 
 Wenn diese Person sagt: "Ich möchte, dass du meine Freunde triffst" — das ist Integration. Das ist: "Du bist ein echtes Teil meines Lebens, nicht ein Geheimnis."
 

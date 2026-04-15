@@ -68,7 +68,7 @@ Das ist auch nicht deine Schuld. Das ist wie dein Gehirn funktioniert.
 
 ### Der Anhaftungsstil
 
-Dein Bindungsstil beeinflusst, wie schwer es für dich ist, loszulassen.
+Dein [Bindungsstil](/bindungsstile/) beeinflusst, wie schwer es für dich ist, loszulassen.
 
 Wenn du einen **anxious attachment style** hast, findest du Loslassen besonders schwierig. Dein Gehirn interpretiert Trennung als existenzielle Bedrohung. Du wirst kämpfen, um die Person zu halten. Du wirst versuchen, sie zurückzubekommen. Das ist neurobiologisch.
 

@@ -38,7 +38,7 @@ Dann eines Tages merkst du: Du bist wörtlich und figürlich am Rand deines Lebe
 
 Das ist ein verdeckter Narzisst. Und du bist nicht allein.
 
-Ich bin Thomas, und ich habe drei Jahre mit jemandem Beziehung, der ich später als verdeckter Narzisst erkannt habe. Ich habe gelernt, dass verdeckter Narzissmus eine der manipulativsten Formen der emotionalen Missbrauch ist – nicht, weil sie offensichtlich ist, sondern, weil sie versteckt ist.
+Ich bin Thomas, und ich habe drei Jahre mit jemandem Beziehung, der ich später als verdeckter Narzisst erkannt habe. Ich habe gelernt, dass verdeckter [Narzissmus](/narzissmus/) eine der manipulativsten Formen der emotionalen Missbrauch ist – nicht, weil sie offensichtlich ist, sondern, weil sie versteckt ist.
 
 ## Das Spektrum: Nicht alle verdeckten Narzissten sind gleich
 
@@ -147,7 +147,7 @@ Sie mögen deine Freunde nicht. Sie mögen deine Familie nicht. Sie machen dich 
 
 Das ist eine klassische Abusiven-Taktik. Isolation ist ein der mächtigsten Kontrollinstrumente.
 
-**Zeichen 7: Das Gaslighting**
+**Zeichen 7: Das [Gaslighting](/blog/was-ist-gaslighting/)**
 
 Das ist das schlimmste. Dein Partner sagt dir, dass du verrückt bist. Dass du dich dinge erinnern falsch. Dass es nie passiert ist.
 
@@ -423,7 +423,7 @@ Das ist eine Investition in dich selbst.
 
 Nach einer Beziehung mit einem verdeckten Narzissten, wird Vertrauen schwierig.
 
-Du wirst neue Menschen treffen und du wirst paranoia sein. Du wirst auf Red Flags suchen. Du wirst wissen, dass Menschen können böse sein – nicht offensichtlich, aber versteckt.
+Du wirst neue Menschen treffen und du wirst paranoia sein. Du wirst auf [Red Flags](/red-flags/) suchen. Du wirst wissen, dass Menschen können böse sein – nicht offensichtlich, aber versteckt.
 
 Das ist weisheit – nicht paranoia.
 
@@ -831,7 +831,7 @@ Aber mit Unterstützung, kannst du es überwinden.
 
 ## Das Phänomen der „Hoovering"
 
-Ein Begriff, den du hören wirst, ist „Hoovering" – named nach dem Staubsauger.
+Ein Begriff, den du hören wirst, ist „[Hoovering](/blog/hoovering-narzissmus-erkennen/)" – named nach dem Staubsauger.
 
 Das ist, wenn der Narzisst versucht, dich „zurückzusaugen" in die Beziehung.
 

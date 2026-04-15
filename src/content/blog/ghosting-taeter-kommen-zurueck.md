@@ -49,7 +49,7 @@ Lassen Sie mich dir die psychologischen Gründe erklären:
 
 ### Sie vermissen dich (aber nicht um der richtigen Gründe willen)
 
-Das Gehirn eines Menschen speichert emotionale Verbindungen, auch wenn dieser Mensch dein Vertrauen zerstört hat. Nach dem initialen Ghosting-"High" — dieser Fluchtgefühl der Vermeidung — kommt oft eine Phase der Leere.
+Das Gehirn eines Menschen speichert emotionale Verbindungen, auch wenn dieser Mensch dein Vertrauen zerstört hat. Nach dem initialen [Ghosting](/blog/ghosting-komplett-guide/)-"High" — dieser Fluchtgefühl der Vermeidung — kommt oft eine Phase der Leere.
 
 Besonders bei Nacht. Besonders wenn sie allein sind.
 
@@ -89,7 +89,7 @@ Das ist der wichtigste Grund: Sie wollen dich zurück, aber sie können nicht di
 
 Also tun sie so, als wäre die Zeit zurückgespult worden. Sie tun so, als ob das Ghosting nie passiert ist. Sie schreiben, als ob du nur eine bestimmte Zeit nicht gehört hast — aber dass der normale Kontakt jetzt wieder gültig ist.
 
-Das ist Gaslighting auf kleine Weise. "Hast du mir nie gefehlt?" ist der Subtext ihrer Nachricht.
+Das ist [Gaslighting](/blog/was-ist-gaslighting/) auf kleine Weise. "Hast du mir nie gefehlt?" ist der Subtext ihrer Nachricht.
 
 ## Die psychologische Realität: Warum dein Herz reagiert
 

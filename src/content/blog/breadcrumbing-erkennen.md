@@ -29,7 +29,7 @@ faq:
     answer: "Nein. Das ist nicht dein Job. Eine Person muss selbst erkennen, dass dieses Verhalten falsch ist und es ändern wollen. Das ist nicht deine Aufgabe."
 ---
 
-Breadcrumbing erkennen: Wenn dein Date dich nur warmhält
+[Breadcrumbing](/blog/breadcrumbing-komplett-guide/) erkennen: Wenn dein Date dich nur warmhält
 
 Es ist 23 Uhr, und dein Handy vibriert. Eine Nachricht von dieser Person, mit der du vor zwei Wochen eine echte Verbindung hattest. "Hey, was machst du gerade? 😜" Dein Herz springt. Endlich! Aber dann warte. Du antwortest, stellst eine Frage, und der nächste Kontakt kommt erst in einer Woche. Das ist Breadcrumbing. Kleine Krümel der Aufmerksamkeit, gerade genug, um dich zu interessieren, aber nie genug, um zu einer echten [beziehung](/blog/adhs-und-beziehung-komplett-guide/) zu führen. Wenn du diesen Artikel liest, erkenne ich schon, dass du wahrscheinlich bereits breadcrumbed wirst. Lass mich dir helfen, es zu erkennen und dich davon zu befreien.
 

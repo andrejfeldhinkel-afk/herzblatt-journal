@@ -37,7 +37,7 @@ Das ist objektiv anstrengender. Das ist nicht etwas, das du „einfach ignoriere
 
 Wenn du mit einer Angststörung daten möchtest, ist ein guter Therapeut oder eine gute Therapeutin nicht optional. Das ist essentiell.
 
-Es gibt mehrere Therapie-Arten, die funktionieren: CBT (kognitive Verhaltenstherapie), Exposure Therapy, EMDR, Somatic Experiencing – es gibt Optionen.
+Es gibt mehrere Therapie-Arten, die funktionieren: CBT (kognitive Verhaltenstherapie), Exposure Therapy, [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/), Somatic Experiencing – es gibt Optionen.
 
 Ein guter Therapeut oder eine gute Therapeutin wird dir nicht sagen: „Lass dich einfach auf ein Date ein, dann wird die Angst vorbei." Das ist kontraproduktiv. Ein guter Therapist wird dir Werkzeuge geben.
 

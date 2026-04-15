@@ -91,7 +91,7 @@ Ein narzissistischer Partner wird dich "psychologisch analysieren", um dir zu ze
 
 Kontrolle ist für ihn Macht. Und Macht ist das Einzige, das ihn Die ihn ständig (in seinen Augen) unterschätzt, lebendig macht.
 
-Der Unterschied zwischen Angst-Kontrollé und Narzissmus-Kontrolle ist subtil, aber wichtig:
+Der Unterschied zwischen Angst-Kontrollé und [Narzissmus](/narzissmus/)-Kontrolle ist subtil, aber wichtig:
 
 Ein ängstlicher Partner könnte sich schuldig fühlen, nachdem er dich kontrolliert hat. Ein narzissistischer Partner fühlt sich recht, wenn er es tut.
 
@@ -209,7 +209,7 @@ Das ist nicht charakterlich, dass du dich "nicht verlassen kannst". Das ist ein 
 
 ## Gaslighting als Werkzeug der Kontrolle
 
-Ich möchte ein ganzer Abschnitt zum Gaslighting widmen, weil es so zentral für die kontrollierte Beziehung ist. Es ist vielleicht die verwirrendste Form des Missbrauchs, weil es dich glauben macht, dass du verrückt wirst.
+Ich möchte ein ganzer Abschnitt zum [Gaslighting](/blog/was-ist-gaslighting/) widmen, weil es so zentral für die kontrollierte Beziehung ist. Es ist vielleicht die verwirrendste Form des Missbrauchs, weil es dich glauben macht, dass du verrückt wirst.
 
 Gaslighting ist, wenn dein Partner dich davon überzeugt, dass deine Wahrnehmung falsch ist. Du erinnerst dich an ein Gespräch. Er sagt: "Das ist nicht passiert." Du fragst dich, ob du es falsch verstanden hast. Er sagt: "Du warst immer zu emotional, um dich an etwas genau zu erinnern." Mit der Zeit zweifelst du an allen deinen Erinnerungen.
 

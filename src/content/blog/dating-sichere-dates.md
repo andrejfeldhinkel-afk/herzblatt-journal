@@ -53,9 +53,9 @@ Die meisten Menschen sind real. Aber einige sind Catfishes oder Betrüger.
 
 Ein sehr neuer Account mit nur wenigen Bildern könnte Fake sein.
 
-**Vorsicht vor Red Flags in Chats**
+**Vorsicht vor [Red Flags](/red-flags/) in Chats**
 
-- "Ich liebe dich" nach 1 Woche Chat (Love Bombing)
+- "Ich liebe dich" nach 1 Woche Chat ([Love Bombing](/blog/lovebombing-phasen/))
 - Finanzielle Fragen ("Wie viel verdienst du?")
 - Zu viele Fragen zu deinen Gewohnheiten
 - Mangel an eigenen Informationen

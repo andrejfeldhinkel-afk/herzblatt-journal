@@ -274,7 +274,7 @@ Das ist das richtige Ding zu sagen. Das zeigt dass du sicherer und netter Partne
 
 Manche Sachen zeigen sich erst beim dritten Date, wenn ihr deepergehen.
 
-**Red Flag 1: Sie/Er spricht nur über sich selbst.**
+**[Red Flag](/red-flags/) 1: Sie/Er spricht nur über sich selbst.**
 
 Auch nach drei Dates, weißt du nicht viel über deinen Date. Sie/Er spricht nicht über dein Leben, deine Träume, deine Bedürfnisse.
 

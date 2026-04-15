@@ -29,7 +29,7 @@ Stell dir vor: Du sitzt am Frühstückstisch und sagst deinem Partner, dass er g
 
 Dein Herz wird schneller. Du bist dir *sicher*, dass das passiert ist. Aber jetzt zweifels du. Maybe übertreibst du? Vielleicht erinnere ich mich falsch?
 
-Das ist Gaslighting. Und es ist tückischer als du denkst.
+Das ist [Gaslighting](/blog/was-ist-gaslighting/). Und es ist tückischer als du denkst.
 
 Ich weiß, dass es sich komisch anfühlt, darüber zu schreiben, aber ich muss ehrlich mit dir sein: Gaslighting ist eine der destruktivsten Formen der psychologischen Manipulation. Es zerstört nicht nur Beziehungen — es zerstört dein Vertrauen in deine eigene Wahrnehmung. Und das ist gefährlich.
 
@@ -796,7 +796,7 @@ Er erzählt Freunden SEINE Version der Geschichte:
 
 Deine Freunde hören seine Seite und beginnen, dir zu misstrauen.
 
-Das ist "Flying Monkeys" nennen (aus "Wizard of Oz").
+Das ist "[Flying Monkeys](/blog/flying-monkeys-narzissmus/)" nennen (aus "Wizard of Oz").
 
 **Wie du dich davor schützt:**
 

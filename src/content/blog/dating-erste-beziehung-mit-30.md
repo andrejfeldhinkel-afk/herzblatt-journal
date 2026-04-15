@@ -45,7 +45,7 @@ Es gibt viele legitime Gründe:
 
 **Peck beim Dating:** Unrequited crushes, falsches Timing. Manchmal braucht man länger. Das ist normal.
 
-**[Red Flags](/blog/dating-red-flags-maenner-erkennen). Du weißt: Das ist ein Narzisst. Diese Person nicht verfügbar. Dieser Mensch ist gut.
+**[Red Flags](/blog/dating-red-flags-maenner-erkennen). Du weißt: Das ist ein [Narzisst](/narzissmus/). Diese Person nicht verfügbar. Dieser Mensch ist gut.
 
 **Klarheit:** Mit 30 kennst du deine Werte. Willst du Kinder? Zusammenleben? Jemanden Abenteuerlustige? Das verhindert Jahre in falschen Beziehungen.
 
@@ -71,7 +71,7 @@ Das alles gesagt, es gibt reale Ängste:
 
 **Erkenne Honeymoon-Phase:** Die ersten 3-6 Monate sind Wahnsinn. Nach dieser Phase siehst du die Realität.
 
-**Achte auf Red Flags:** Manipulatives Verhalten, Kontrolle, Mangel an Respekt – siehst du jetzt, aber Euphorie macht blind. Liste deine Red Flags auf, bevor du datierst.
+**Achte auf [Red Flags](/red-flags/):** Manipulatives Verhalten, Kontrolle, Mangel an Respekt – siehst du jetzt, aber Euphorie macht blind. Liste deine Red Flags auf, bevor du datierst.
 
 Red Flags sind: Keine Interesse an deinen Gedanken. Versprechen sich zu ändern, tun es nicht. Isolation von Freunden. Eifersüchtig ohne Grund. Schlecht über Exen sprechen. Nie Verantwortung.
 

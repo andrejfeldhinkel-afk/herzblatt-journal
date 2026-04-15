@@ -461,7 +461,7 @@ Und das kommt nicht von deinem Partner. Das kommt von dir.
 
 A: Ja, aber mit Klarheit. "Ich bin eifersüchtig, wenn dein Partner Zeit mit jemandem verbringt, der ich bemerke" ist eine Sache. "Ich überprüfe dein Telefon" ist etwas anderes. Teilen Sie die Gefühle, nicht die Stalking.
 
-**F: Ist es ein Red Flag, wenn mein Partner viel mit einer Person auf sozialen Medien interagiert?**
+**F: Ist es ein [Red Flag](/red-flags/), wenn mein Partner viel mit einer Person auf sozialen Medien interagiert?**
 
 A: Vielleicht. Es könnte einfach ein Freund sein. Aber wenn es beunruhigt dich, frag danach. "Ich habe bemerkt, dass ihr zusammen eine Menge postet. Wer ist das?" Lass das Gespräch danach fließen.
 

@@ -154,7 +154,7 @@ Wenn jemand dich mit Fragen bombardiert, oder sehr kontrollierend wirkt ("Wann a
 
 ### Weird oder aggressive Nachrichten
 
-Rassismus, Sexismus, aggressive oder belästigende Nachrichten – diese sind massive red flags. Unmatch sofort. Du brauchst das nicht.
+Rassismus, Sexismus, aggressive oder belästigende Nachrichten – diese sind massive [red flags](/red-flags/). Unmatch sofort. Du brauchst das nicht.
 
 ### Widersprüche in der Geschichte
 

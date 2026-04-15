@@ -65,7 +65,7 @@ Wenn Verletzlichkeit mit Schmerz verbunden ist — dann wird der Mensch emotiona
 
 ### Ein vermeidender [Bindungsstil](/blog/avoidant-attachment-beziehung-guide)
 
-Es gibt vier Bindungsstile. Der **vermeidende Bindungsstil** ist: "Ich bin unabhängig, ich brauche emotionale Nähe nicht, Gefühle sind kompliziert."
+Es gibt vier Bindungsstile. Der **vermeidende [Bindungsstil](/bindungsstile/)** ist: "Ich bin unabhängig, ich brauche emotionale Nähe nicht, Gefühle sind kompliziert."
 
 Menschen mit vermeidendem Bindungsstil hatten oft eine kalte oder unzuverlässige Bezugsperson. Sie haben gelernt, sich auf sich selbst zu verlassen. Emotionale Nähe fühlt sich gefährlich an, weil sie sich erinnern, nicht sicher zu sein.
 

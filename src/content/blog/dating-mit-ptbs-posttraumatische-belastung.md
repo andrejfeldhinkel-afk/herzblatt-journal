@@ -55,7 +55,7 @@ Bevor du aktiv auf Dating-Apps gehst oder auf deine erste Date gehst, lohnt es s
 
 Das bedeutet nicht, dass du komplett „geheilt" sein musst, bevor du jemanden triffst. Heilung ist nicht linear und es gibt kein Ziellinie. Es bedeutet, dass du deine PTBS stabil genug hast, dass sie dein Dating nicht völlig sabotiert und dass du Werkzeuge hast zu regulieren.
 
-**Therapeutische Unterstützung finden**: Wenn du noch nicht in spezialisierter Therapie bist (besonders Trauma-spezialisierte Ansätze wie EMDR – Eye Movement Desensitization and Reprocessing, oder Somatic Experiencing, oder Trauma-fokussierte CBT), kann das enorm helfen. Ein guter Therapeut hilft dir nicht nur, das Trauma zu verarbeiten, sondern auch zu verstehen, wie dein Trauma dein Verhalten in Dating beeinflusst.
+**Therapeutische Unterstützung finden**: Wenn du noch nicht in spezialisierter Therapie bist (besonders Trauma-spezialisierte Ansätze wie [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) – Eye Movement Desensitization and Reprocessing, oder Somatic Experiencing, oder Trauma-fokussierte CBT), kann das enorm helfen. Ein guter Therapeut hilft dir nicht nur, das Trauma zu verarbeiten, sondern auch zu verstehen, wie dein Trauma dein Verhalten in Dating beeinflusst.
 
 Du wirst wahrscheinlich merken: Du wählst immer wieder Partner, die emotionale Distanz halten (weil das „sicher" fühlt, weil das bekannt ist). Oder du wählst immer wieder Partner, bei denen du dich intensiv verlieben kannst, weil die Hoffnung besteht, dass sie dich „retten" könnten. Das sind Muster, die aus dem ursprünglichen Trauma kommen. Ein guter Therapeut kann helfen, diese Muster zu erkennen und zu durchbrechen.
 

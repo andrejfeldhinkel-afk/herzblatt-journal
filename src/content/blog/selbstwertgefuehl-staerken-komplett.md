@@ -699,7 +699,7 @@ Nach 30 Tagen wirst du nicht „geheilt" sein. Aber Menschen um dich werden dein
 
 ## Selbstwert nach narzisstischem Missbrauch
 
-Narzisstischer Missbrauch ist eine spezielle Art von Trauma. Es ist ein nicht um einzelne Handlungen. Es ist Jahre von Gaslighting, von dem Gefühl, dass du falsch bist, von Manipulation.
+[Narzisstischer Missbrauch](/narzissmus/) ist eine spezielle Art von Trauma. Es ist ein nicht um einzelne Handlungen. Es ist Jahre von [Gaslighting](/blog/was-ist-gaslighting/), von dem Gefühl, dass du falsch bist, von Manipulation.
 
 Wenn du narzisstischem Missbrauch ausgesetzt warst, ist dein Selbstwertgefühl wahrscheinlich zerstört. Die Stimme des Narzissten ist in deinem Kopf.
 
@@ -727,7 +727,7 @@ Du bist nicht schlecht. Du wurdest beschädigt. Und du kannst heilen.
 
 ## Wann Therapie wirklich sinnvoll ist
 
-Dies sind red flags, dass du professionelle Hilfe brauchst:
+Dies sind [red flags](/red-flags/), dass du professionelle Hilfe brauchst:
 
 - Schwere Kindheits-Traumata (Missbrauch, Vernachlässigung, Verlust)
 - Aktuelle Depression oder Angststörung
@@ -913,7 +913,7 @@ Das ist nicht positives Denken. Das ist integratives Denken.
 
 ### Fehler 3: Du behandelst Symptome, nicht Ursachen
 
-Du machst alle 15 Übungen. Aber du ignorierst die toxische Beziehung, die du in bist.
+Du machst alle 15 Übungen. Aber du ignorierst die [toxische Beziehung](/toxische-beziehung/), die du in bist.
 
 Das funktioniert nicht.
 

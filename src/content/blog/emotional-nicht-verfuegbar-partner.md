@@ -112,7 +112,7 @@ Er/Sie ist physisch präsent, aber emotional abwesend.
 
 Dein Partner leugnet, dass es ein Problem gibt. "Alles ist gut." "Ich liebe dich." Aber sein/ihr Handeln sagt das Gegenteil.
 
-Dies ist Gaslighting. Dein Partner kann seine/ihre emotionale Nicht-Verfügbarkeit nicht akzeptieren.
+Dies ist [Gaslighting](/blog/was-ist-gaslighting/). Dein Partner kann seine/ihre emotionale Nicht-Verfügbarkeit nicht akzeptieren.
 
 ### Das Wut-Muster
 

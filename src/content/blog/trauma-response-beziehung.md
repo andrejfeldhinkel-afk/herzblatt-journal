@@ -231,7 +231,7 @@ Das dritte ist **Dein Nervensystem zu verstehen**.
 
 Dein Nervensystem ist im Hyperarousal. Es nimmt Bedrohung an, wo keine existiert.
 
-Therapien wie Somatic Experiencing, EMDR und Polyvagal-Therapie arbeiten bei der Re-Programmierung des Nervensystems.
+Therapien wie Somatic Experiencing, [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) und Polyvagal-Therapie arbeiten bei der Re-Programmierung des Nervensystems.
 
 Diese therapeutischen Ansätze helfen dem Nervensystem zu verstehen: "Du bist sicher. Diese Bedrohung ist nicht real. Du kannst entspannen."
 
@@ -375,5 +375,5 @@ Erdeningstechniken: Tief atmen, Farben benennen, kaltes Wasser auf dein Gesicht,
 
 ## Lesenswerte Links
 
-- [Unsicher-vermeidender [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) erklärt](/blog/unsicher-vermeidender-bindungsstil)
+- [Unsicher-vermeidender [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) erklärt](/blog/unsicher-vermeidender-[bindungsstil](/bindungsstile/))
 - [Loslassen lernen in der Liebe](/blog/loslassen-lernen-liebe)

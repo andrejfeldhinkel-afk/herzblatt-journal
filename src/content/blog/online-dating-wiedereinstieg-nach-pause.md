@@ -42,7 +42,7 @@ Das ist unterschiedlich von einer bewussten Pause. Eine bewusste Pause ist ein a
 
 Menschen gehen aus verschiedensten Gründen in Dating-Pausen. Manchmal ist es ein bewusster Schritt zur Heilung nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte). Vielleicht war die letzte [Red Flags](/blog/dating-red-flags-maenner-erkennen) bemerken, die du vorher vielleicht übersehen hast. Das ist gut. Das ist dein Wachstum.
 
-Manche Menschen haben gelernt, dass "du wirst nach jemandem gemocht" nicht gleichzeitig ist mit "diese Person ist guttartig für dich." Manche Rot Flags: Wenn jemand nicht von sich selbst spricht. Wenn jemand dich zu schnell zu viel Aufmerksamkeit gibt (Lovebombing). Wenn jemand deine Grenzen nicht respektiert, wenn du "Nein" sagst.
+Manche Menschen haben gelernt, dass "du wirst nach jemandem gemocht" nicht gleichzeitig ist mit "diese Person ist guttartig für dich." Manche Rot Flags: Wenn jemand nicht von sich selbst spricht. Wenn jemand dich zu schnell zu viel Aufmerksamkeit gibt ([Lovebombing](/blog/lovebombing-phasen/)). Wenn jemand deine Grenzen nicht respektiert, wenn du "Nein" sagst.
 
 Diese Flaggen sind nicht etwas, das du lernst — du erkennst sie, wenn du gelernt hast, dich selbst zu respektieren.
 

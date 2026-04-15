@@ -29,13 +29,13 @@ Du denkst gerade über eine alte Nachricht nach, die du heute Morgen bekommen ha
 
 Dein Herz rast. Ein Teil von dir freut sich. Vielleicht hat er ja endlich verstanden, was er verloren hat. Vielleicht hat sie sich wirklich verändert. Vielleicht, vielleicht, vielleicht.
 
-Das ist Hoovering. Und es funktioniert deshalb so gut, weil es auf einer psychologischen Ebene mit deinen tiefsten Sehnsüchten spielt: der Hoffnung auf Liebe, der Sehnsucht nach Verständnis, dem Bedürfnis, dass der andere endlich begreift, was du wert bist.
+Das ist [Hoovering](/blog/hoovering-narzissmus-erkennen/). Und es funktioniert deshalb so gut, weil es auf einer psychologischen Ebene mit deinen tiefsten Sehnsüchten spielt: der Hoffnung auf Liebe, der Sehnsucht nach Verständnis, dem Bedürfnis, dass der andere endlich begreift, was du wert bist.
 
 Aber hier ist die harte Wahrheit: Was du gerade erlebt hast oder gerade erlebst, ist nicht Liebe. Es ist eine gezielte Manipulation, und sie hat einen Namen.
 
 ## Was ist Hoovering? Die Definition und das psychologische Konzept
 
-Hoovering kommt vom Namen des Staubsauger-Herstellers Hoover. Der Begriff beschreibt exakt das, was dieser Staubsauger tut: er saugt ein. Ein toxischer Ex-Partner versucht, dich nach einer Trennung oder nach dem No Contact wieder in sein Leben "zurückzusaugen" — Piece für Piece.
+Hoovering kommt vom Namen des Staubsauger-Herstellers Hoover. Der Begriff beschreibt exakt das, was dieser Staubsauger tut: er saugt ein. Ein toxischer Ex-Partner versucht, dich nach einer Trennung oder nach dem [No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/) wieder in sein Leben "zurückzusaugen" — Piece für Piece.
 
 Aber es geht nicht um eine echte Versöhnung. Es geht darum, dich emotional zu destabilisieren und dich wieder unter Kontrolle zu bringen.
 
@@ -43,7 +43,7 @@ Hoovering ist eine klassische Taktik von Menschen mit narzisstischen Zügen, emo
 
 Das Konzept wurde von Trauma-Therapeuten und Psychologen geprägt, die die Zyklen von Menschen mit narzisstischen Persönlichkeitszügen dokumentierten. Aber Hoovering ist nicht nur ein narzisstisches Phänomen. Emotional unreife Menschen, Kontrollfanatiker und Menschen, die ihre Gefühle nicht regulieren können, verwenden ebenfalls Hoovering-Taktiken — manche bewusst, viele unbewusst.
 
-Der Unterschied ist: Ein Narzisst tut es mit voller Absicht. Ein emotional unreifer Mensch tut es möglicherweise ohne vollständige Bewusstsein über den manipulativen Charakter seines Verhaltens. Das Ergebnis für dich ist aber gleich schädlich.
+Der Unterschied ist: Ein [Narzisst](/narzissmus/) tut es mit voller Absicht. Ein emotional unreifer Mensch tut es möglicherweise ohne vollständige Bewusstsein über den manipulativen Charakter seines Verhaltens. Das Ergebnis für dich ist aber gleich schädlich.
 
 ## Die 12 häufigsten Hoovering-Taktiken
 
@@ -51,7 +51,7 @@ Hoovering ist nicht eintönig. Es kommt in vielen Formen. Hier sind die 12 Takti
 
 ### 1. Love Bombing: Der überwältigende Charme-Angriff
 
-Love Bombing ist das offensivste Hoovering-Instrument. Dein Ex taucht plötzlich wieder auf und bombardiert dich mit Aufmerksamkeit. Ständige Nachrichten. Anrufe. Lange Texte, die von Gefühlen überquellen. Geschenke. Blumen. "Ich kann dich nicht vergessen." "Ich habe einen großen Fehler gemacht."
+[Love Bombing](/blog/lovebombing-phasen/) ist das offensivste Hoovering-Instrument. Dein Ex taucht plötzlich wieder auf und bombardiert dich mit Aufmerksamkeit. Ständige Nachrichten. Anrufe. Lange Texte, die von Gefühlen überquellen. Geschenke. Blumen. "Ich kann dich nicht vergessen." "Ich habe einen großen Fehler gemacht."
 
 Das Timing ist bewusst. Der Love Bombing folgt meist auf eine Phase, in der du dich distanziert hast oder in der der Ex vermerkt hat, dass du vorrankommst, dass du vielleicht jemand Neues triffst, oder dass du einfach nicht mehr verfügbar bist.
 
@@ -83,7 +83,7 @@ Diese Taktik schafft mehrere Dinge gleichzeitig: Sie brings dich zurück in den 
 
 Dein Ex kontaktiert dich nicht direkt. Stattdessen tauchen Freunde auf. Familienmitglieder. Gemeinsame Bekannte. Sie alle sagen dasselbe: "Er/Sie vermisst dich wirklich." "Sie/Er ist am Boden zerstört." "Du weißt, wie sehr er/sie dich liebt." "Gib ihr/ihm noch eine Chance, sie hat sich verändert."
 
-Diese Menschen sind die "Flying Monkeys" — benannt nach den Schergen in "Der Zauberer von Oz". Sie sind Werkzeuge der Manipulation. Manche wissen vielleicht nicht, dass sie es sind. Manche wurden bewusst beeinflusst, um in deinem Namen zu handeln.
+Diese Menschen sind die "[Flying Monkeys](/blog/flying-monkeys-narzissmus/)" — benannt nach den Schergen in "Der Zauberer von Oz". Sie sind Werkzeuge der Manipulation. Manche wissen vielleicht nicht, dass sie es sind. Manche wurden bewusst beeinflusst, um in deinem Namen zu handeln.
 
 Der Vorteil dieser Taktik für deinen Ex: Sie können behaupten, dass sie "gar nichts gemacht" hat. "Ich habe meine Freunde nicht gebeten, dich zu kontaktieren!" Die Deniability ist vollständig. Aber wenn du eine Nachricht von fünf verschiedenen Menschen bekommst, die alle dasselbe sagen, sollte ein Alarmglöckchen läuten.
 
@@ -103,7 +103,7 @@ Die psychologische Funktion: Es hält die Emotionale Bindung aufrecht, ohne dass
 
 Gelegentliche Nachrichten. Ein "wie geht's?" alle paar Wochen. Ein "Ich habe eine Meme gesehen, die dich erinnert" alle zwei Monate. Kein Love Bombing. Kein Notfall. Nur kleine, zufällig wirkende Kontaktversuche, die dich daran erinnern, dass dieser Mensch noch existiert.
 
-Das ist Breadcrumbing, und es ist subtil. Es ist nicht intensiv genug, dass du es als Hoovering erkennen würdest. Aber es ist regelmäßig genug, dass es dich emotional beschäftigt hält. Du fragst dich: "Bedeutet das etwas? Will er/sie doch noch was von mir?"
+Das ist [Breadcrumbing](/blog/breadcrumbing-komplett-guide/), und es ist subtil. Es ist nicht intensiv genug, dass du es als Hoovering erkennen würdest. Aber es ist regelmäßig genug, dass es dich emotional beschäftigt hält. Du fragst dich: "Bedeutet das etwas? Will er/sie doch noch was von mir?"
 
 Breadcrumbing ist die niedrige Version von Hoovering. Es funktioniert durch Andeutungen statt Überzeugung. Sein Zweck ist, dich für den Fall zu erhalten, dass der Ex später wieder versuchen möchte, dich "zu reactivieren". Noch wichtiger: Es gibt dem Ex ein Gefühl von Macht und Kontrolle. Dein Ex kann dich immer noch erreichen. Dein Ex beschäftigt noch dein Denken.
 
@@ -193,7 +193,7 @@ Das ist, warum es so verdammt schwer ist, "einfach zu gehen" von jemandem, der d
 
 ### Trauma Bonding: Das psychologische Stockholm-Syndrom
 
-Trauma Bonding ist das tiefere psychologische Phänomen, das sich durch wiederholte Zyklen von Missbrauch und Belohnung entwickelt.
+[Trauma Bonding](/blog/trauma-bonding-loesen/) ist das tiefere psychologische Phänomen, das sich durch wiederholte Zyklen von Missbrauch und Belohnung entwickelt.
 
 Der Zyklus sieht so aus:
 
@@ -225,7 +225,7 @@ Hoovering ist nicht zufällig. Es folgt Mustern. Und wenn du die Muster erkennst
 
 Dies ist das Love Bombing in seiner intensivsten Form. Der Ex denkt noch, dass er/sie dich zurückbekommen kann, wenn er/sie nur genug Charme einsetzt. Die Nachrichten sind ständig. Der Ton ist verzweifelt. "Lass mich erklären." "Du verstehst nicht." "Ich kann nicht ohne dich leben."
 
-Diese Phase ist oft am einfachsten zu widerstehen, weil sie am deutlichsten transpariert ist. Die Manipulation ist offensichtlich. Du bist noch zu frisch vom Trennungsschmerz, um dich täuschen zu lassen.
+Diese Phase ist oft am einfachsten zu widerstehen, weil sie am deutlichsten transpariert ist. Die Manipulation ist offensichtlich. Du bist noch zu frisch vom [Trennungsschmerz](/trennung/), um dich täuschen zu lassen.
 
 ### Die Verschwinden-Phase: 2-8 Wochen
 
@@ -337,7 +337,7 @@ Und wenn du die Kontaktinformationen gelöscht hast, wirst du nicht sehen, wer d
 
 Manchmal ist No Contact nicht möglich. Du hast Kinder zusammen. Du musst arbeiten mit dieser Person. Ihr habt gemeinsame Finanzen.
 
-In diesen Fällen ist die Grey Rock Methode dein Werkzeug.
+In diesen Fällen ist die [Grey Rock](/blog/grey-rock-methode-narzisst-guide/) Methode dein Werkzeug.
 
 Grey Rock bedeutet, dass du so dull wie ein grauer Stein wirst. Keine Emotionen. Keine interessanten Reaktionen. Keine persönlichen Details.
 

@@ -310,7 +310,7 @@ Manche Menschen sind zuverlässig. Manche sind nicht. Die Zeit wird es zeigen.
 
 ## Bindungsangst: Wenn du Vertrauen nicht kannst
 
-Manche Menschen haben sogenannte „Bindungsangst" – sie wünschen sich Nähe, aber wenn sie kommt, wird es zu angespannt und sie zieht sich zurück.
+Manche Menschen haben sogenannte „[Bindungsangst](/blog/bindungsangst-komplett-guide/)" – sie wünschen sich Nähe, aber wenn sie kommt, wird es zu angespannt und sie zieht sich zurück.
 
 Bindungsangst kommt oft von frühen Erfahrungen, wo Nähe unsicher war – vielleicht ein Elternteil, der deine Grenzen nicht respektierte, oder ein Elternteil, der emotional überwältigend war.
 

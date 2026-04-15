@@ -447,7 +447,7 @@ Die Lektion: Kontrolliere nicht dein Verhalten, um seinen Gefühlen zu managen.
 
 ### Wenn dein Partner ständig deine Gefühle nicht anerkennt
 
-Du sagst deinem Partner: „Das verletzt mich." Und sein Kommentar: „Das ist übertrieben. Du bist zu sensibel." Das ist gaslighting light. Das ist, wenn deine Gefühle nicht validiert werden.
+Du sagst deinem Partner: „Das verletzt mich." Und sein Kommentar: „Das ist übertrieben. Du bist zu sensibel." Das ist [gaslighting](/blog/was-ist-gaslighting/) light. Das ist, wenn deine Gefühle nicht validiert werden.
 
 Eine Grenze: „Meine Gefühle sind real für mich. Du musst sie nicht teilen, aber du musst sie respektieren. Wenn du versuchst, mir zu sagen, dass meine Gefühle nicht real sind, beende ich das Gespräch."
 

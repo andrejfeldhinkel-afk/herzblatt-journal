@@ -71,11 +71,11 @@ Dieser Trend entsteht, weil viele Menschen erkannt haben, dass Freunde dich bess
 
 ### Warum vertrauen Menschen wieder ihren Freunden?
 
-Das Internet hat uns mit widersprüchlichen Dating-Ratschlägen überflutet. Ein Influencer sagt "breadcrumbing ist ein Deal-Breaker", der nächste sagt "gib ihm mehr Zeit". **Freunde aber kennen dich, deine Muster und deine Bedürfnisse.** Sie sehen auch, wenn du wieder die gleiche fehlerhafte Person datingst. Sie sind ehrlicher, weil sie dich lieben — nicht, weil sie Klicks verdienen.
+Das Internet hat uns mit widersprüchlichen Dating-Ratschlägen überflutet. Ein Influencer sagt "[breadcrumbing](/blog/breadcrumbing-komplett-guide/) ist ein Deal-Breaker", der nächste sagt "gib ihm mehr Zeit". **Freunde aber kennen dich, deine Muster und deine Bedürfnisse.** Sie sehen auch, wenn du wieder die gleiche fehlerhafte Person datingst. Sie sind ehrlicher, weil sie dich lieben — nicht, weil sie Klicks verdienen.
 
 ### Praktische Tipps für Friendfluence
 
-1. **Screenshot-Austausch**: Teile mit deiner beste Freundin die letzten Messages. "Ist das ein Red Flag oder bin ich zu kritisch?"
+1. **Screenshot-Austausch**: Teile mit deiner beste Freundin die letzten Messages. "Ist das ein [Red Flag](/red-flags/) oder bin ich zu kritisch?"
 
 2. **Die Doppelten-Dates-Strategie**: Bring dein Date zu einem lockeren Gruppenabend. Deine Freunde sehen in 2 Stunden, was du in Chats nicht siehst.
 

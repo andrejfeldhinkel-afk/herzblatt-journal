@@ -51,7 +51,7 @@ Fernbeziehungen sind eine besondere Herausforderung. Wir geben dir konkrete Tipp
 
 ### Rote Flaggen und schwierige Situationen
 
-Dating hat auch seine dunklen Seiten. [Gaslighting](/blog/gaslighting-komplett-guide), Manipulation, Ghosting – wir helfen dir, diese Dinge zu erkennen und richtig mit ihnen umzugehen. Deine Sicherheit und dein Wohlbefinden sind uns wichtig.
+Dating hat auch seine dunklen Seiten. [Gaslighting](/blog/gaslighting-komplett-guide), Manipulation, [Ghosting](/blog/ghosting-komplett-guide/) – wir helfen dir, diese Dinge zu erkennen und richtig mit ihnen umzugehen. Deine Sicherheit und dein Wohlbefinden sind uns wichtig.
 
 ### Persönliches Wachstum und Selbstliebe
 

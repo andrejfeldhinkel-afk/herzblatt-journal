@@ -21,7 +21,7 @@ faq:
 
 ## Gaslighting erkennen: Der komplette Guide
 
-Gaslighting ist eine der subtilsten Formen von Manipulation. Und gleichzeitig eine der destruktivsten.
+[Gaslighting](/blog/was-ist-gaslighting/) ist eine der subtilsten Formen von Manipulation. Und gleichzeitig eine der destruktivsten.
 
 Der Term kommt vom Film "Gaslight" (1944), wo ein Mann systematisch seine Frau dazu bringt, an ihrer eigenen Wahrnehmung zu zweifeln. Das ist genau was Gaslighting ist: Eine Person stellt die Realität des anderen systematisch infrage, um Kontrolle zu gewinnen.
 
@@ -299,7 +299,7 @@ Methode: Mit Freunden reden – "Denk ich, ich bin richtig hier?" Externe Validi
 
 ### 4. Patterns erkennen
 
-Die Lektionen: Was waren die red flags? Warum hast du sie übersehen?
+Die Lektionen: Was waren die [red flags](/red-flags/)? Warum hast du sie übersehen?
 
 Das ist nicht "Dein Fehler." Das ist Learnung. Das nächste Mal, wenn du diese Patterns siehst, erkennst du sie schneller.
 

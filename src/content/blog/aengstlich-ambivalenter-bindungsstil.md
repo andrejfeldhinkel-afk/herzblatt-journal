@@ -133,7 +133,7 @@ Aber Moment: Das heißt nicht, dass dein Partner dir alles durchgehen lassen kan
 
 Wenn er dich häufig belügt, dich nicht ernst nimmt, dich isoliert oder dich aktiv eifersüchtig macht — das ist nicht okay. Das ist Missbrauch. Und dann ist dein ängstlich-ambivalenter Stil nicht das Problem, sondern deine Wahl des Partners.
 
-Vertrau auf das: Wenn du konsequent grenzlos bist und dein Partner das ausnutzt, dann ist es nicht dein Bindungsstil, sondern die Beziehung selbst, die gewaltig schiefläuft.
+Vertrau auf das: Wenn du konsequent grenzlos bist und dein Partner das ausnutzt, dann ist es nicht dein [Bindungsstil](/bindungsstile/), sondern die Beziehung selbst, die gewaltig schiefläuft.
 
 ## Die Rolle der Vergangenheit verstehen
 

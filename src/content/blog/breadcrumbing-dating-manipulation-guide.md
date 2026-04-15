@@ -38,7 +38,7 @@ Du antwortest eifrig. Du bist präsent. Du gib Aufmerksamkeit.
 
 Und dann, wird er nicht antworten. Nicht für Stunden. Nicht für Tage. Und wenn er das tut, ist es eine kurze, distanzierte Nachricht.
 
-Das ist Breadcrumbing.
+Das ist [Breadcrumbing](/blog/breadcrumbing-komplett-guide/).
 
 Das Wort kommt vom Hans und Gretel – das Märchen, wo die Charaktere einen Pfad mit Brotkrumen setzen, um ihren Weg nach Hause zu finden. In diesem Fall, der andere Mensch wirft dir gerade genug Brotkrumen hin, um dich zu halten, damit du nicht weggehst.
 

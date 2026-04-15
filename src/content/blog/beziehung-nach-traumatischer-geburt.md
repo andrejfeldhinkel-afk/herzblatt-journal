@@ -47,7 +47,7 @@ Das ist für beide extrem belastend.
 
 Ein Therapeut, idealerweise eine/ein Spezialist für Geburtsstrauma oder Trauma insgesamt, ist notwendig. Das ist nicht etwas, das durch gute Liebe allein geheilt wird. Das ist etwas, das psychologische Intervention braucht.
 
-Trauma-Focus Cognitive Behavioral Therapy (TF-CBT) oder Eye Movement Desensitization and Reprocessing (EMDR) sind evidenzbasierte Behandlungen für PTSD. Diese können helfen.
+Trauma-Focus Cognitive Behavioral Therapy (TF-CBT) oder Eye Movement Desensitization and Reprocessing ([EMDR](/blog/emdr-beziehungstrauma-heilen-guide/)) sind evidenzbasierte Behandlungen für PTSD. Diese können helfen.
 
 **Paartherapie ist wichtig**
 

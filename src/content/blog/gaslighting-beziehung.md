@@ -33,7 +33,7 @@ In diesem Artikel möchte ich dir helfen, die Zeichen zu erkennen, ihre Auswirku
 
 ## Was ist Gaslighting? Die Definition und der Ursprung des Begriffs
 
-**Gaslighting** ist eine Form der emotionalen Manipulation, bei der jemand den anderen absichtlich oder unabsichtlich an seiner Wahrnehmung, seinen Erinnerungen und seinem Verstand zweifeln lässt. Das Ziel ist fast immer die Erlangung und Aufrechterhaltung von Kontrolle über die andere Person.
+**[Gaslighting](/blog/was-ist-gaslighting/)** ist eine Form der emotionalen Manipulation, bei der jemand den anderen absichtlich oder unabsichtlich an seiner Wahrnehmung, seinen Erinnerungen und seinem Verstand zweifeln lässt. Das Ziel ist fast immer die Erlangung und Aufrechterhaltung von Kontrolle über die andere Person.
 
 Der Begriff stammt aus dem britischen Theaterstück „Gaslight" von 1938, später verfilmt 1944 mit Ingrid Bergman. In der Geschichte manipuliert ein Mann seine Frau systematisch, indem er behauptet, ihr imaginiert die Dinge, während er tatsächlich die Gaslampen in ihrer gemeinsamen Wohnung dimmt. Sie sieht die Veränderung der Lichtstärke, aber er überredet sie zu glauben, dass sie sich das vorstellt. Sie fängt an, an ihrer Realitätswahrnehmung zu zweifeln.
 

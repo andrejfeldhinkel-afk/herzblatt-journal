@@ -146,7 +146,7 @@ Es gibt einige [Red Flags](/blog/dating-red-flags-maenner-erkennen), die du als 
 
 Die erste ist, wenn jemand möchte, dass dein Kind dich schnell kennenlernt. Das ist ein Zeichen, dass sie dein Kind nicht respektiert. Sie möchten schnell in dein Leben eindringen, ohne echte Arbeit.
 
-Die zweite ist, wenn jemand eifersüchtig ist auf die Zeit, die du mit deinem Kind verbringst. "Du bringst so viel Zeit mit deinem Kind zu" oder "ich fühle mich vernachlässigt, weil dein Kind Zeit von mir nimmt." Das ist eine große Red Flag. Eine gute Person wird verstehen, dass dein Kind nicht verhandelbar ist.
+Die zweite ist, wenn jemand eifersüchtig ist auf die Zeit, die du mit deinem Kind verbringst. "Du bringst so viel Zeit mit deinem Kind zu" oder "ich fühle mich vernachlässigt, weil dein Kind Zeit von mir nimmt." Das ist eine große [Red Flag](/red-flags/). Eine gute Person wird verstehen, dass dein Kind nicht verhandelbar ist.
 
 Die dritte ist, wenn jemand nicht respektvoll über dein Ex ist. "Dein Ex ist schrecklich" oder "dein Ex hat dich ruiniert." Das ist nicht ihre Geschichte zu kommentieren. Wenn sie nicht über dein Ex reden können, ohne kritisch zu sein, werden sie wahrscheinlich nicht respektvoll mit deiner Co-Parenting-Situation sein.
 

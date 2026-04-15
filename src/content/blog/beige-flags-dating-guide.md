@@ -43,7 +43,7 @@ Warum sollten wir uns um Beige Flags kümmern? Weil sie es einfach machen, wicht
 
 ## Red Flags, [Red Flags](/blog/dating-red-flags-maenner-erkennen) und Green Flags zu vergleichen.
 
-Red Flags sind klare Warnsignale, dass dieser Mensch nicht gut für dich ist. Das sind Dinge wie: die Person lügt dich an, zeigt keine Empathie für andere Menschen, hat gewalttätiges oder verbales Missbrauchsverhalten, ist emotional manipulativ oder ist nicht selbstständig. Bei Red Flags ist die Entscheidung klar – du solltest gehen.
+[Red Flags](/red-flags/) sind klare Warnsignale, dass dieser Mensch nicht gut für dich ist. Das sind Dinge wie: die Person lügt dich an, zeigt keine Empathie für andere Menschen, hat gewalttätiges oder verbales Missbrauchsverhalten, ist emotional manipulativ oder ist nicht selbstständig. Bei Red Flags ist die Entscheidung klar – du solltest gehen.
 
 Green Flags sind positive Signale, dass dieser Mensch gut für dich sein könnte. Das sind Dinge wie: die Person ist empathisch, sie interessiert sich für deine Gedanken, sie verfolgt ihre eigenen Ziele, sie ist authentisch, sie kann über ihre Fehler lachen. Bei Green Flags denken du „Ja, das ist wahrscheinlich jemand, mit dem ich zusammen sein möchte."
 

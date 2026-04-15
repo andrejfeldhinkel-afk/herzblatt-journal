@@ -143,7 +143,7 @@ Ein dritter Schaden ist Depression. Wenn du ständig kritisiert wirst und dich n
 
 Ein vierter Schaden ist die Entwicklung von toxischen Beziehungsmustern. Wenn du in einer [Gaslighting](/blog/gaslighting-komplett-guide) – Die gefährliche Kombination
 
-Negging wird noch gefährlicher, wenn es mit Gaslighting kombiniert wird. Das ist, wenn die Person dich nicht nur kritisiert, sondern auch leugnet, dass sie es getan hat, oder dich verrückt macht dafür, dass du dich verletzt fühlst.
+Negging wird noch gefährlicher, wenn es mit [Gaslighting](/blog/was-ist-gaslighting/) kombiniert wird. Das ist, wenn die Person dich nicht nur kritisiert, sondern auch leugnet, dass sie es getan hat, oder dich verrückt macht dafür, dass du dich verletzt fühlst.
 
 Beispiel: Du sagst zu deinem Partner, „Das was du gestern gesagt hast – ‚Du siehst heute älter aus' – das war verletzend." Dein Partner antwortet: „Nein, das habe ich nicht gesagt", oder „Das war nicht bösartig gemeint, warum machst du aus allem ein Drama?" oder „Du bist zu empfindlich."
 
@@ -227,7 +227,7 @@ Eine sechste Strategie ist, dich selbst an erster Stelle zu stellen. Es ist nich
 
 ## Narzissmus und Negging – Die tiefere Verbindung
 
-Die Psychologie hinter Negging ist oft in narzisstischen Tendenzen verwurzelt. Nicht jeder, der neggt, ist ein klinischer Narzisst, aber viele Narzissten nutzen Negging als ihr Hauptinstrument.
+Die Psychologie hinter Negging ist oft in narzisstischen Tendenzen verwurzelt. Nicht jeder, der neggt, ist ein klinischer [Narzisst](/narzissmus/), aber viele Narzissten nutzen Negging als ihr Hauptinstrument.
 
 Narzissten haben ein fragiles Selbstwertgefühl, das von externer Validierung abhängt. Sie können nicht mit Ablehnung oder Kritik umgehen. Wenn du anfängst, über den Narzissten hinauszuwachsen, wenn du nicht länger bewunderst, beginnen sie zu neggen. Das ist ihre Strategie, dich wieder runterzuziehen, damit sie sich besser fühlen.
 
@@ -243,7 +243,7 @@ Das Problem ist, dass dieser Zyklus traumatisch ist. Nachdem der Discard, viele 
 
 Die Realität ist, dass alles mit dem Narzissten nicht stimmt. Aber Narzissten geben dir nie diese Information. Sie machen dich glauben, dass die Schuld bei dir liegt.
 
-Wenn du merkst, dass du mit einem Narzissten bist (Negging kombiniert mit Mangel an Empathie, ständige Bedarf nach Bewunderung, Manipulation, Fällen von Traurigkeit), die beste Strategie ist No Contact. Das heißt, alle Kommunikation abbrechen, auf allen Kanälen. Nicht böse – einfach weg. Narzissten können nicht mit Ignorieren umgehen, also können sie versuchen, dich zurück zu bekommen, aber die beste Sache ist, standhaft zu bleiben.
+Wenn du merkst, dass du mit einem Narzissten bist (Negging kombiniert mit Mangel an Empathie, ständige Bedarf nach Bewunderung, Manipulation, Fällen von Traurigkeit), die beste Strategie ist [No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/). Das heißt, alle Kommunikation abbrechen, auf allen Kanälen. Nicht böse – einfach weg. Narzissten können nicht mit Ignorieren umgehen, also können sie versuchen, dich zurück zu bekommen, aber die beste Sache ist, standhaft zu bleiben.
 
 ## Verschiedene Strategien für verschiedene Szenarien
 

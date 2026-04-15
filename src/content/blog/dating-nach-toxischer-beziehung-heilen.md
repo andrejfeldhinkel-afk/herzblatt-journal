@@ -36,7 +36,7 @@ Dieser Artikel führt dich durch den Heilungsprozess und gibt dir konkrete Strat
 
 Oder du könntest "avoidant attached" sein, deine Wände so hoch gebaut haben, dass es schwierig ist, jemandem zu vertrauen.
 
-Diese Änderungen in deinem Bindungsstil sind nicht permanent. Mit Heilung und mit liebevoller Beziehung kannst du deinen Bindungsstil wieder normalisieren.
+Diese Änderungen in deinem [Bindungsstil](/bindungsstile/) sind nicht permanent. Mit Heilung und mit liebevoller Beziehung kannst du deinen Bindungsstil wieder normalisieren.
 
 ### Das beschädigte Selbstwertgefühl
 
@@ -78,7 +78,7 @@ Wenn es dir finanzielle Mittel ermöglicht: Gehe zu einem Therapeuten, der Traum
 - Rote Fahnen früher zu erkennen
 - Deine Reaktionen zu regulieren
 
-Therapiemodelle wie EMDR oder somatic experiencing sind besonders hilfreich für Bindungstrauma.
+Therapiemodelle wie [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) oder somatic experiencing sind besonders hilfreich für Bindungstrauma.
 
 ### Schritt 3: Baue dein Support-Netzwerk auf
 
@@ -93,7 +93,7 @@ Das bedeutet nicht, sofort neue Beziehungen zu haben. Das bedeutet, dein Leben m
 
 ### Schritt 4: Arbeite auf Selbstliebe hin
 
-Eine toxische Beziehung zerstört deine Selbstliebe. Alles müssen jetzt ein Projekt sein: Dich selbst zu lieben.
+Eine [toxische Beziehung](/toxische-beziehung/) zerstört deine Selbstliebe. Alles müssen jetzt ein Projekt sein: Dich selbst zu lieben.
 
 Das bedeutet nicht, jeden Tag eine Selbstliebe-Affirmation zu sagen (obwohl das helfen kann). Es bedeutet:
 

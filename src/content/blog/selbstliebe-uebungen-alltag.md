@@ -64,7 +64,7 @@ Du hast es bestimmt schon gehört: „Das ist ja egoistisch" oder „Du denkst n
 
 Wenn du dich selbst nicht magst, lebst du in konstanter innerer Ablehnung. Diese Ablehnung strahlt nach außen ab. Du wirst unbewusst Partner anziehen, die dich ebenfalls nicht achten. Oder umgekehrt: Du wirst in Beziehungen dich selbst aufgeben, nur um gemocht zu werden.
 
-Echte Selbstliebe bedeutet nicht Narzissmus. Sie bedeutet: Du sorgst dich selbst gut. Du setzt Grenzen. Du erkennst deine Grenzen an. Du behandelst dich mit der gleichen Mitfreundlichkeit, mit der du einen guten Freund behandeln würdest.
+Echte Selbstliebe bedeutet nicht [Narzissmus](/narzissmus/). Sie bedeutet: Du sorgst dich selbst gut. Du setzt Grenzen. Du erkennst deine Grenzen an. Du behandelst dich mit der gleichen Mitfreundlichkeit, mit der du einen guten Freund behandeln würdest.
 
 Und ja, das ist revolutionär. Denn dein innerer Dialog ist vermutlich voller Häme. „Ich bin dumm", „Ich bin nicht schön genug", „Das hätte ich besser machen sollen". Diese ständige innere Kritik ist kein Motivator. Sie ist ein Saboteur.
 

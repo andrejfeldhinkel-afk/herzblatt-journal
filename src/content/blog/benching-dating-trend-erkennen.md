@@ -65,7 +65,7 @@ Es ist wichtig, Benching von ähnlichen Phänomenen zu unterscheiden:
 
 **Ghosting:** Die Person verschwindet komplett. Kein Kontakt mehr. Es ist endgültig und klar. Schmerzhaft, aber final.
 
-**Breadcrumbing:** Ähnlich wie Benching, aber mit noch weniger Aufwand. Die Person schickt gelegentlich eine Nachricht oder ein Like, aber ohne echtes Ziel. Sie halten dich warm, ohne viel zu investieren.
+**[Breadcrumbing](/blog/breadcrumbing-komplett-guide/):** Ähnlich wie Benching, aber mit noch weniger Aufwand. Die Person schickt gelegentlich eine Nachricht oder ein Like, aber ohne echtes Ziel. Sie halten dich warm, ohne viel zu investieren.
 
 **Benching:** Regelmäßiger Kontakt, der aussieht wie echtes Interesse, aber führt zu nichts. Vage Versprechen. "Bald." "Wenn alles vorbei ist." Aber das "Bald" kommt nie.
 

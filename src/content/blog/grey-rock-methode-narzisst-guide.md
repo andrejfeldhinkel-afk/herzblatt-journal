@@ -35,7 +35,7 @@ In diesem Artikel lernst du, wie die Grey Rock Methode funktioniert, wie du sie 
 
 ## Was ist die Grey Rock Methode wirklich?
 
-Die Grey Rock Methode ist eine Kommunikationstechnik, die dich so langweilig, so vorhersehbar, so gefühllos wie einen grauen Stein wirken lässt. Das Ziel ist simpel: Ein Narzisst soll den Anreiz verlieren, mit dir zu interagieren, weil du keinen emotionalen Lohn mehr bietest.
+Die Grey Rock Methode ist eine Kommunikationstechnik, die dich so langweilig, so vorhersehbar, so gefühllos wie einen grauen Stein wirken lässt. Das Ziel ist simpel: Ein [Narzisst](/narzissmus/) soll den Anreiz verlieren, mit dir zu interagieren, weil du keinen emotionalen Lohn mehr bietest.
 
 Der Name stammt aus Online-Communities von Menschen, die mit Narzissten leben oder gelebt haben. Sie beschreiben es so: „Sei nicht interessant. Sei nicht erreichbar. Sei wie ein grauer Stein—nichts Farbenfrohes, nichts Lebendiges, nichts Reaktives."
 
@@ -119,7 +119,7 @@ Das ist alles. Kein Gegenargument. Keine Verteidigung. Nur Desengagement.
 
 **Falsch:** „Wirklich? Du vermisst mich? Das bedeutet so viel. Vielleicht sollten wir es tatsächlich noch mal versuchen."
 
-Dies ist eine klassische Falle. Love Bombing ist eine Taktik, um dich erneut zu emotionalisieren und in den Zyklus zurückzuziehen.
+Dies ist eine klassische Falle. [Love Bombing](/blog/lovebombing-phasen/) ist eine Taktik, um dich erneut zu emotionalisieren und in den Zyklus zurückzuziehen.
 
 **Richtig:** „Ich schätze das. Ich bin aber in meinem Leben zufrieden, wie es ist."
 
@@ -223,7 +223,7 @@ Du hast nicht reagiert. Du hast eine Grenze gezogen. Das wars.
 
 ## Grey Rock bei gemeinsamen Kindern: Parallel Parenting und BIFF-Kommunikation
 
-Grey Rock wird kompliziert, wenn Kinder im Spiel sind. Du kannst nicht einfach no contact gehen. Du musst kommunizieren. Aber du musst es auf eine Weise tun, die deine Kinder nicht gefährdet und dich nicht re-traumatisiert.
+Grey Rock wird kompliziert, wenn Kinder im Spiel sind. Du kannst nicht einfach [no contact](/blog/ex-zurueckgewinnen-psychologische-strategien/) gehen. Du musst kommunizieren. Aber du musst es auf eine Weise tun, die deine Kinder nicht gefährdet und dich nicht re-traumatisiert.
 
 Hier kommt Parallel Parenting ins Spiel. Das Konzept ist simpel: Du und der narzisstische Co-Parent handeln unabhängig voneinander. Du machst deine Regeln. Er macht seine. Es gibt minimal Kommunikation, minimal Koordination.
 
@@ -352,7 +352,7 @@ Am Arbeitsplatz musst du Grey Rock anders spielen:
 
 **Professionell statt neutral.** „Ich kümmere mich darum. Ich werde dir einen Bericht bis Freitag geben." Das klingt kooperativ, ist aber grenzenlos und emotionslos.
 
-**Kommunikation dokumentieren.** Sende E-Mails statt zu reden. Haben Zeugen bei schwierigen Gesprächen. Das schützt dich vor Gaslighting.
+**Kommunikation dokumentieren.** Sende E-Mails statt zu reden. Haben Zeugen bei schwierigen Gesprächen. Das schützt dich vor [Gaslighting](/blog/was-ist-gaslighting/).
 
 **Nicht verfügbar sein.** „Ich bin gerade in einem Termin. Können wir später sprechen?" Diese Grenzen sind am Arbeitsplatz mehr akzeptabel als im privaten Leben.
 
@@ -512,7 +512,7 @@ Wenn du **bei einem narzisstischen Elternteil lebst** und nicht gehen kannst—G
 
 In diesen Fällen brauchst du professionelle Hilfe:
 
-**Therapie**, besonders traumazentrierte (EMDR, trauma-informed).
+**Therapie**, besonders traumazentrierte ([EMDR](/blog/emdr-beziehungstrauma-heilen-guide/), trauma-informed).
 
 **Beratung mit einem Rechtsanwalt**, wenn es um Kinder, Vermögen oder Sicherheit geht.
 

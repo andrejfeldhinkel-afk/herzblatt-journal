@@ -52,7 +52,7 @@ Benching ist oft nicht das erste oder einzige Problem in einer Beziehung oder Qu
 
 Wenn du selbst eine Geschichte von Benching hast — wenn du die Person bist, die bencht oder die akzeptiert wird zu werden gebencht — dann gibt es zugrunde liegende Probleme zu untersuchen. Das ist nicht Schande, es ist Selbstbewusstsein.
 
-Wenn du jemanden bencst, oder wenn du tolerierst, dass jemand dich bencht, sagt das etwas über Bindungsangst aus. Es sagt etwas über deinen Umgang mit Nähe aus. Wenn du gebencht wirst und es akzeptierst, sagt das etwas über dein Selbstwertgefühl aus. Du glaubst vielleicht nicht, dass du das Beste verdienst. Du wirst auf eine Person warten, die sich "vielleicht" für dich aussucht, weil du unbewusst nicht glaubst, dass jemand dich wählen würde, wenn sie wirklich die Wahl hätte.
+Wenn du jemanden bencst, oder wenn du tolerierst, dass jemand dich bencht, sagt das etwas über [Bindungsangst](/blog/bindungsangst-komplett-guide/) aus. Es sagt etwas über deinen Umgang mit Nähe aus. Wenn du gebencht wirst und es akzeptierst, sagt das etwas über dein Selbstwertgefühl aus. Du glaubst vielleicht nicht, dass du das Beste verdienst. Du wirst auf eine Person warten, die sich "vielleicht" für dich aussucht, weil du unbewusst nicht glaubst, dass jemand dich wählen würde, wenn sie wirklich die Wahl hätte.
 
 Das ist das echte Problem, das zu bearbeiten ist. Nicht die Benching-Person. Dich selbst und deine Grenzen.
 

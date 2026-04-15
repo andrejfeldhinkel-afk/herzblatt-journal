@@ -310,7 +310,7 @@ Das führt zu Compassion statt Drama.
 
 ## Fazit: Bindungstypen sind nicht Schicksal
 
-Viele Menschen lesen über Bindungstypen und denken: „Ich bin anklebend, also werde ich immer Drama haben."
+Viele Menschen lesen über [Bindungstypen](/bindungsstile/) und denken: „Ich bin anklebend, also werde ich immer Drama haben."
 
 Das ist nicht wahr.
 

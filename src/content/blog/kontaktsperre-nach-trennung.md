@@ -134,7 +134,7 @@ Diese Momente sind, wenn die meisten Menschen brechen. Das ist normal. Wenn es d
 
 ## Die Bedeutung von Unterstützung
 
-Eine Kontaktsperre ist schwer, wenn du allein durchgehst. Erzähle deinen Freunden, was du tust. Erkläre dich: „Ich praktiziere No Contact mit meinem Ex. Könnt ihr mich unterstützen?" Die meisten werden es verstehen und dir helfen.
+Eine Kontaktsperre ist schwer, wenn du allein durchgehst. Erzähle deinen Freunden, was du tust. Erkläre dich: „Ich praktiziere [No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/) mit meinem Ex. Könnt ihr mich unterstützen?" Die meisten werden es verstehen und dir helfen.
 
 Du könntest auch einen Therapeuten oder einen Coach finden, der dich unterstützt. Das ist nicht schwach. Das ist weise. Du brauchst Unterstützung bei dieser Art des Heilungsprozesses.
 

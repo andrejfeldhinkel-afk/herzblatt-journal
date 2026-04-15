@@ -128,7 +128,7 @@ Wenn du ein altes Muster nicht wiederholst – das ist eine große Sache. Feiere
 
 Das Durchbrechen alter Muster ist nur die Hälfte der Arbeit. Die andere Hälfte ist das Erstellen neuer Muster.
 
-Ein neues Muster ist nicht einfach das Gegenteil des alten. Wenn dein altes Muster war, dich selbst klein zu machen, ist das neue Muster nicht, Narzisst zu sein. Das neue Muster ist, authentisch zu sein und deine Wahrheit zu haben, während du auch dinen Partner respektierst.
+Ein neues Muster ist nicht einfach das Gegenteil des alten. Wenn dein altes Muster war, dich selbst klein zu machen, ist das neue Muster nicht, [Narzisst](/narzissmus/) zu sein. Das neue Muster ist, authentisch zu sein und deine Wahrheit zu haben, während du auch dinen Partner respektierst.
 
 Um ein neues Muster aufzubauen:
 

@@ -37,7 +37,7 @@ Das ist psychologisch nachvollziehbar. Aber es ist auch exhausting. Es bedeutet,
 
 ## Die Wurzeln: Meist in der Vergangenheit
 
-Oft stammt Bindungsangst aus Kindheit. Vielleicht war ein Elternteil nicht zuverlässig. Vielleicht hatte deine Familie instabile Beziehungen. Vielleicht wurdest du verlassen. Dein Gehirn lernte: Nähe ist nicht sicher. Binding bedeutet Schmerz.
+Oft stammt [Bindungsangst](/blog/bindungsangst-komplett-guide/) aus Kindheit. Vielleicht war ein Elternteil nicht zuverlässig. Vielleicht hatte deine Familie instabile Beziehungen. Vielleicht wurdest du verlassen. Dein Gehirn lernte: Nähe ist nicht sicher. Binding bedeutet Schmerz.
 
 Dies ist nicht deine Schuld. Es ist auch nicht unheilbar. Mit Bewusstsein und Therapie, kannst du neue Neuralpfade bauen. Du kannst dein Gehirn neu trainieren, um Nähe als sicher zu sehen.
 
@@ -45,7 +45,7 @@ Dies ist nicht deine Schuld. Es ist auch nicht unheilbar. Mit Bewusstsein und Th
 
 Ein Therapeut kann helfen. Sie können dir helfen zu verstehen, wo die Angst herkommt und wie man sie beruhigt. Sie können dir neue Coping-Strategien geben. Sie können dich helfen zu sehen, dass Binding nicht das Gleiche wie die Verletzung ist, die du erlitten hast.
 
-CBT ist besonders hilfreich für Angst. EMDR kann alte Trauma-Bindungen auflösen. Aber es braucht deine Bereitschaft, die Angst zu sehen, nicht zu handeln mit ihr.
+CBT ist besonders hilfreich für Angst. [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) kann alte Trauma-Bindungen auflösen. Aber es braucht deine Bereitschaft, die Angst zu sehen, nicht zu handeln mit ihr.
 
 ## Wenn dein Partner Commitment Issues hat
 

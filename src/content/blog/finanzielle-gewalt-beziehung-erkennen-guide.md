@@ -121,7 +121,7 @@ Es gibt einen sehr starken Zusammenhang zwischen finanzieller Gewalt und narziss
 
 Ein narzisstischer Partner wird finanzielle Gewalt nutzen, um:
 
-**Dich klein zu halten und von dir abhängig zu machen.** Eine unabhängige Person ist eine Bedrohung für die narzisstische Kontrollstruktur. Ein Partner, der sein eigenes Geld verdient, seine eigenen Entscheidungen treffen kann und nicht betteln muss, könnte die Beziehung verlassen. Das kann ein Narzisst nicht zulassen.
+**Dich klein zu halten und von dir abhängig zu machen.** Eine unabhängige Person ist eine Bedrohung für die narzisstische Kontrollstruktur. Ein Partner, der sein eigenes Geld verdient, seine eigenen Entscheidungen treffen kann und nicht betteln muss, könnte die Beziehung verlassen. Das kann ein [Narzisst](/narzissmus/) nicht zulassen.
 
 **Dein Selbstwertgefühl zu untergraben.** Wenn du immer um Geld bitten musst, wenn du nicht arbeiten darfst, wenn du als finanzielle Last beschrieben wirst, internalisierst du diese Botschaft. Du bist nicht würdig, Geld zu haben. Du bist nicht fähig, dich selbst zu versorgen. Du brauchst ihn. Das ist genau das, was ein narzisstischer Partner wünscht.
 
@@ -345,7 +345,7 @@ Finanzielle Gewalt hinterlässt tiefe Narben, die lange nach dem Verlassen der B
 
 Einige Menschen nach finanziellem Missbrauch pendeln zwischen zwei Extremen: Entweder sie kontrollieren jede finanzielle Entscheidung obsessiv (weil sie Kontrolle zurückgewinnen wollen), oder sie vermeiden finanzielle Entscheidungen völlig (weil sie zu angstladen sind). Beide sind normale Reaktionen auf abnormale Erfahrungen.
 
-**Therapie ist extrem wichtig nach finanziellem Missbrauch.** Ein Therapeut, besonders einer mit Erfahrung mit Traumata und Missbrauch, kann dir helfen zu verstehen, wie die finanzielle Gewalt dein Gehirn und deine Psyche geprägt hat. Traumatherapie wie EMDR oder Somatic Experiencing kann helfen, das Trauma zu verarbeiten.
+**Therapie ist extrem wichtig nach finanziellem Missbrauch.** Ein Therapeut, besonders einer mit Erfahrung mit Traumata und Missbrauch, kann dir helfen zu verstehen, wie die finanzielle Gewalt dein Gehirn und deine Psyche geprägt hat. Traumatherapie wie [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) oder Somatic Experiencing kann helfen, das Trauma zu verarbeiten.
 
 **Selbstmitgefühl ist essentiell.** Du darfst dich selbst für die Zeit verzeihen, in der du in dieser Beziehung warst. Du warst nicht dumm. Du warst nicht schwach. Du warst gefangen. Das ist ein großer Unterschied. Viele Überlebende schulden sich selbst Vergebung.
 

@@ -190,7 +190,7 @@ Du wirst [zusammenziehen](/blog/zusammenziehen-checkliste). Das sagt „Ich habe
 
 **Subtile Kritik:** Sie sagt dir, dass deine Isolation komisch war. Sie kritisiert deine Vergangenheit. Das ist Judging, nicht Support.
 
-**Isolierungstaktiken:** Sie möchte, dass du dich von den wenigen Kontakten distanzierst, die du wieder aufgebaut hast. Red Flag.
+**Isolierungstaktiken:** Sie möchte, dass du dich von den wenigen Kontakten distanzierst, die du wieder aufgebaut hast. [Red Flag](/red-flags/).
 
 ## Die guten Zeichen: Worauf du achten solltest
 

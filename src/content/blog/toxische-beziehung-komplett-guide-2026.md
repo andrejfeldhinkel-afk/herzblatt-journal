@@ -43,9 +43,9 @@ Das ist mein Artikel für dich, wenn du dich in dieser Schleife befindest. Nicht
 
 ## Was macht eine Beziehung toxisch?
 
-Lass mich zuerst klären: Eine toxische Beziehung ist nicht einfach eine schwierige. Es ist nicht eine, wo ihr nur nicht passt. Es ist nicht ein Paar, das fightdet.
+Lass mich zuerst klären: Eine [toxische Beziehung](/toxische-beziehung/) ist nicht einfach eine schwierige. Es ist nicht eine, wo ihr nur nicht passt. Es ist nicht ein Paar, das fightdet.
 
-Eine toxische Beziehung ist eine, wo **mindestens eine Person dich konsistent schädigt – physisch, emotional oder psychologisch – und wo Versöhnung und Love Bombing dich abhängig halten.**
+Eine toxische Beziehung ist eine, wo **mindestens eine Person dich konsistent schädigt – physisch, emotional oder psychologisch – und wo Versöhnung und [Love Bombing](/blog/lovebombing-phasen/) dich abhängig halten.**
 
 Das ist der Unterschied. Das ist das Gift.
 
@@ -60,7 +60,7 @@ Das ist bekannt als der „Cycle of Abuse". Und es ist in praktisch jeder toxisc
 
 ## 25+ konkrete Warnsignale einer toxischen Beziehung
 
-Dies sind nicht nur „Red Flags" – das sind Stop-Signs. Wenn du 5+ davon siehst, brauchst du Hilfe.
+Dies sind nicht nur „[Red Flags](/red-flags/)" – das sind Stop-Signs. Wenn du 5+ davon siehst, brauchst du Hilfe.
 
 **Kontrolle und Isolation:**
 1. Er kontrolliert, wen du sehen kannst (Freunde, Familie)
@@ -385,7 +385,7 @@ Hier sind 30 definitiv Warnsignale. Wenn du 3+ davon erkennst, brauchst du Hilfe
 
 **Lügen und Manipulation (16-22):**
 16. Er lügt ständig über kleine und große Dinge
-17. Er leugnet ab, Dinge gesagt zu haben (Gaslighting)
+17. Er leugnet ab, Dinge gesagt zu haben ([Gaslighting](/blog/was-ist-gaslighting/))
 18. Er verdreht deine Worte
 19. Er macht dich verantwortlich für sein Verhalten
 20. Er sagt „Es tut mir leid" ohne Verhaltensänderung
@@ -493,7 +493,7 @@ Das ist ein legales Dokument, das deinen Ex befiehlt, dich nicht zu kontaktieren
 
 Diese ist wichtig, wenn du Kinder hast oder wenn du fürchtest, dass er dich findet.
 
-**Schritt 6: Implementiere No Contact**
+**Schritt 6: Implementiere [No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/)**
 
 Nach dem Verlassen: Keine Kontakt. Nicht „wenn ich mich sicherer fühle". Sofort.
 

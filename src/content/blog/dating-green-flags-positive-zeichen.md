@@ -21,7 +21,7 @@ faq:
 
 ## Green Flags: Positive Zeichen beim Dating erkennen
 
-Okay, lass mich ehrlich mit dir sein: Du hast wahrscheinlich schon hundert Artikel über Red Flags gelesen. Du kennst die Warnsignale. Du weißt, worauf man achten sollte.
+Okay, lass mich ehrlich mit dir sein: Du hast wahrscheinlich schon hundert Artikel über [Red Flags](/red-flags/) gelesen. Du kennst die Warnsignale. Du weißt, worauf man achten sollte.
 
 Aber weißt du, worauf du achten solltest, damit du wirklich GUTE Zeichen erkennst?
 

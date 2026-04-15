@@ -23,7 +23,7 @@ faq:
 
 Du wünschst dir eine Beziehung, in der du entspannen kannst. Keine Spielchen, keine Ängste, keine Dramen. Nur zwei Menschen, die sich vertrauen und lieben. Das klingt unrealistisch? Ist es aber nicht. Menschen mit sicherer Bindung haben genau das.
 
-Der sichere Bindungsstil ist nicht eine Gnade, die nur einige wenige bekommen. Es ist ein Muster, das in einer Umgebung entsteht, in der deine Gefühle wertgeschätzt werden, in der du dich verletzlich zeigen kannst ohne Angst, und in der Menschen für dich da sind — zuverlässig. Wenn du das nicht hattest, ist das nicht dein Fehler. Aber es ist eine Chance, es dir selbst beizubringen.
+Der sichere [Bindungsstil](/bindungsstile/) ist nicht eine Gnade, die nur einige wenige bekommen. Es ist ein Muster, das in einer Umgebung entsteht, in der deine Gefühle wertgeschätzt werden, in der du dich verletzlich zeigen kannst ohne Angst, und in der Menschen für dich da sind — zuverlässig. Wenn du das nicht hattest, ist das nicht dein Fehler. Aber es ist eine Chance, es dir selbst beizubringen.
 
 Dieser Artikel ist eine Anleitung: Was zeichnet sicher gebundene Menschen aus? Wie erkennen du einen sicher gebundenen Partner? Und wie wirst du selbst sicherer?
 

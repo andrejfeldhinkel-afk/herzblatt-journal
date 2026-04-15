@@ -25,7 +25,7 @@ faq:
 
 Du warst nie verrückt, nie zu empfindlich und nie zu kompliziert. Das ist der Satz, der am Beginn jeder Erholung von narzisstischem Missbrauch steht. Jahre lang wurde dir etwas anderes gespiegelt — bis du es selbst glaubtest. Die gute Nachricht: Der Weg zurück zu dir selbst ist möglich, und er lässt sich beschreiben.
 
-Narzisstischer Missbrauch ist eine der schwerwiegendsten, aber am schwersten zu erkennenden Formen emotionaler Gewalt. Er hinterlässt keine sichtbaren Spuren. Seine Wirkung aber ist vergleichbar mit komplexer posttraumatischer Belastung. Dieser Artikel ordnet das Phänomen ein, beschreibt typische Muster und skizziert einen Heilungsweg, der sich an klinischer Erfahrung orientiert.
+[Narzisstischer Missbrauch](/narzissmus/) ist eine der schwerwiegendsten, aber am schwersten zu erkennenden Formen emotionaler Gewalt. Er hinterlässt keine sichtbaren Spuren. Seine Wirkung aber ist vergleichbar mit komplexer posttraumatischer Belastung. Dieser Artikel ordnet das Phänomen ein, beschreibt typische Muster und skizziert einen Heilungsweg, der sich an klinischer Erfahrung orientiert.
 
 ## Die psychologische Struktur verstehen
 
@@ -69,7 +69,7 @@ Du bist krank oder verlierst einen geliebten Menschen — und er reagiert generv
 
 ### 8. Dreifache Strategie: leugnen, angreifen, Opfer werden
 
-DARVO: Deny, Attack, Reverse Victim and Offender. Wenn du ein Problem ansprichst, leugnet er es, greift dich an und stellt sich am Ende selbst als Leidtragender dar. Du stehst anschließend entschuldigend da.
+[DARVO](/blog/darvo-manipulation-beziehung-erkennen/): Deny, Attack, Reverse Victim and Offender. Wenn du ein Problem ansprichst, leugnet er es, greift dich an und stellt sich am Ende selbst als Leidtragender dar. Du stehst anschließend entschuldigend da.
 
 ### 9. Zweck und Zuneigung sind nicht trennbar
 
@@ -101,7 +101,7 @@ In den ersten Wochen nach dem Kontaktabbruch erleben viele Betroffene Entzugsers
 
 ### Phase 4: Therapeutische Aufarbeitung
 
-Hier beginnt die eigentliche Heilung. Traumatherapeutische Ansätze wie EMDR, schemafokussierte Therapie oder körperorientierte Verfahren wie Somatic Experiencing haben sich bewährt. Eine gute Therapeutin erkennt narzisstische Missbrauchserfahrung schnell und arbeitet ohne Pathologisierung.
+Hier beginnt die eigentliche Heilung. Traumatherapeutische Ansätze wie [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/), schemafokussierte Therapie oder körperorientierte Verfahren wie Somatic Experiencing haben sich bewährt. Eine gute Therapeutin erkennt narzisstische Missbrauchserfahrung schnell und arbeitet ohne Pathologisierung.
 
 ### Phase 5: Identität neu aufbauen
 

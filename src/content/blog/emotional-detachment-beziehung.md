@@ -678,7 +678,7 @@ Das adressiert dein Nervensystem direkt. Das arbeitet mit dein Körper, nicht nu
 
 Das ist warum es so effektiv für Detachment ist.
 
-**EMDR (Eye Movement Desensitization and Reprocessing):**
+**[EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) (Eye Movement Desensitization and Reprocessing):**
 
 Das ist besonders nützlich wenn die Detachment ist Trauma-basiert.
 

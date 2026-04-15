@@ -57,7 +57,7 @@ Die Person mag dich – aber die Nähe triggert Fluchtinstinkt. Je näher du kom
 
 Diese Menschen hatten oft in der Kindheit Eltern, die emotional unzuverlässig waren – manchmal liebevoll, manchmal strafend, ohne klares Muster. Jetzt wiederholen sie das in romantischen Beziehungen.
 
-**Narzissmus (milder)**
+**[Narzissmus](/narzissmus/) (milder)**
 
 Manche Menschen sind nicht böse, aber sie sind sehr selbstfokussiert. Sie wollen die Aufmerksamkeit, die du gibst – aber sie wollen nicht geben. Wenn du Nähe suchst, fühlt sich das für sie wie eine Bedrohung an (weil es nicht um sie geht). Die Mixed Signals sind ein Weg, die Kontrolle zu behalten.
 

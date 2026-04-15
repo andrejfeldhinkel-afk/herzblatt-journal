@@ -26,7 +26,7 @@ faq:
 
 Das ist keine Option. Das ist nicht ein Ratschlag, den du ignorieren kannst. Das ist das einzige, was funktioniert.
 
-No Contact bedeutet, dass du mit einem Narzissten in keiner Form kommunizierst. Keine Texte. Keine Anrufe. Keine E-Mails. Keine Begegnungen. Nicht einmal durch andere Menschen.
+[No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/) bedeutet, dass du mit einem Narzissten in keiner Form kommunizierst. Keine Texte. Keine Anrufe. Keine E-Mails. Keine Begegnungen. Nicht einmal durch andere Menschen.
 
 Es ist hart. Es ist einsam. Es fühlt sich manchmal unmöglich an.
 
@@ -40,7 +40,7 @@ Du könntest hoffen, dass du mit einem Narzissten „just be friends" kannst. Od
 
 Das funktioniert nicht.
 
-Warum? Weil die Narzisst eine Quelle der Versorgung sieht. Eine Person, die Aufmerksamkeit gibt. Eine Person, die Emotional reagiert. Eine Person, die Kontrolle gegeben werden kann.
+Warum? Weil die [Narzisst](/narzissmus/) eine Quelle der Versorgung sieht. Eine Person, die Aufmerksamkeit gibt. Eine Person, die Emotional reagiert. Eine Person, die Kontrolle gegeben werden kann.
 
 Du kannst nicht neutral mit jemandem sein, der dich nicht neutral sieht.
 

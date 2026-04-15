@@ -93,7 +93,7 @@ Wähle konsequenten Kontaktabbruch, wo immer es geht. Jeder Kontakt ist ein Trig
 
 Rechne mit Entzugssymptomen. Schlafstörungen, Konzentrationsprobleme, körperliche Unruhe, tiefe Trauer und plötzliche Phasen von Euphorie gehören zum normalen Ablösungsverlauf. Bewegung, feste Tagesstruktur und eine verlässliche Bezugsperson helfen durch diese Wochen.
 
-Suche professionelle Begleitung. Traumatherapie mit Verfahren wie EMDR, schemafokussierte Therapie oder ego-state-therapeutische Ansätze sind wissenschaftlich gut belegt. Eine reine Gesprächstherapie kann nicht immer ausreichen, wenn das Nervensystem stark involviert ist.
+Suche professionelle Begleitung. Traumatherapie mit Verfahren wie [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/), schemafokussierte Therapie oder ego-state-therapeutische Ansätze sind wissenschaftlich gut belegt. Eine reine Gesprächstherapie kann nicht immer ausreichen, wenn das Nervensystem stark involviert ist.
 
 Arbeite an den zugrundeliegenden Mustern. Trauma Bonding entsteht selten in einer einzigen Beziehung. Wer früh gelernt hat, dass Nähe mit Schmerz verbunden ist, erkennt solche Dynamiken oft wieder als „vertraut" — und damit fälschlich als sicher. Diese Muster verstehst du tiefer in unserem Artikel [Ängstlicher Bindungsstil: Wenn Verlustangst dominiert](/blog/aengstlicher-bindungsstil/).
 

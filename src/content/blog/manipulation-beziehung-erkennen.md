@@ -162,7 +162,7 @@ Das Gute ist: Diese Auswirkungen sind nicht dauerhaft. Mit Unterstützung und Ze
 
 Nachdem du dich aus einer manipulativen Beziehung befreist, beginnt der Heilungsprozess. Das ist nicht einfach und nicht linear. Es gibt gute Tage und schlechte Tage. Es gibt Tage, an denen du stark dich anfühlst und Tage, an denen du wünschst, du könntest dich anrufen und alles erklären.
 
-Der erste Schritt der Heilung ist No Contact oder begrenzte Kontakt, wenn Kinder involviert sind. Dies gibt dir Raum, dich selbst wiederzuentdecken. Es stoppt die ständigen Versuche, dich zu manipulieren und zu kontrollieren.
+Der erste Schritt der Heilung ist [No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/) oder begrenzte Kontakt, wenn Kinder involviert sind. Dies gibt dir Raum, dich selbst wiederzuentdecken. Es stoppt die ständigen Versuche, dich zu manipulieren und zu kontrollieren.
 
 Der zweite Schritt ist Therapie. Ein guter Therapeut kann dir helfen, dein Verhalten zu verstehen, deine Wunden zu heilen und neue, gesündere Beziehungsmuster zu erlernen.
 

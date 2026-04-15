@@ -30,7 +30,7 @@ Stell dir vor: Du sitzt mit deinem Partner im Café, und er sagt etwas zu dir, d
 
 Du bist dir sicher, dass es passiert ist. Du hörst die Worte noch in deinen Ohren. Aber jetzt fragst du dich selbst: „Stimmt das wirklich? Habe ich das erfunden? Bin ich verrückt?"
 
-Diese Momente sind Gaslighting – und sie sind zerstörerischer als jeder Schlag, weil sie unsichtbar sind.
+Diese Momente sind [Gaslighting](/blog/was-ist-gaslighting/) – und sie sind zerstörerischer als jeder Schlag, weil sie unsichtbar sind.
 
 Gaslighting ist eine Form der psychologischen Manipulation, die dich systematisch an deiner Wahrnehmung der Realität zweifeln lässt. Der Name kommt vom Film „Gaslight" von 1944, in dem ein Mann seine Frau absichtlich verwirrt, indem er leugnet, dass die Gaslichter schwächer werden – obwohl sie das tatsächlich tun.
 
@@ -520,7 +520,7 @@ Es gibt keine „richtige" Antwort. Aber es gibt deine Antwort.
 **Wenn du gehst:**
 
 - Plane sorgfältig (wenn Sicherheit ein Faktor ist)
-- Implementiere No Contact (keine Texte, keine Anrufe, nichts)
+- Implementiere [No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/) (keine Texte, keine Anrufe, nichts)
 - Vorbereitet auf seine Reaktion (er wird alles versuchen, um dich zurück zu bringen)
 - Hol dir professionelle Hilfe (ein Therapeut ist nicht optional – es ist essentiell)
 

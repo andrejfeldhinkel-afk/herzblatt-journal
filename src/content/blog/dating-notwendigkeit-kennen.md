@@ -332,7 +332,7 @@ Alles andere ist Setting dich selbst auf für Schmerz.
 
 1. **Schreib auf:** Was ist unverhandelbar für dich? (3-5 Dinge)
 2. **Unterscheid Wants vs. Needs:** Nicht konfundieren
-3. **Erkenne Red Flags:** Wisse, was sofort „Gehe weg" bedeutet
+3. **Erkenne [Red Flags](/red-flags/):** Wisse, was sofort „Gehe weg" bedeutet
 4. **Teste es:** Gib mehrere Daten, um zu sehen, ob jemand deine Needs erfüllt
 5. **Sei ehrlich:** Wenn deine Needs nicht erfüllt sind, dass ist Information
 6. **Nicht kompromittieren auf essentiell:** Kompromiss auf deine Wants, nicht deine Needs

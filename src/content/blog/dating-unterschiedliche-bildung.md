@@ -102,7 +102,7 @@ Aber: Es gibt echte Warnsignale wo Bildungsunterschiede problematisch werden.
 **Warnsignal 1: Arroganz**
 Der Partner nutzt seinen Bildungsgrad um zu dominieren. Er/Sie erzählt ständig von seinem Studium. Er/Sie sagt „Das verstehst du nicht" oder „In meinem MBA haben wir gelernt." Das ist nicht Bildung, das ist Überlegenheitskomplex.
 
-Das ist eine echte Red Flag. Wenn jemand seine Bildung nutzt um dich kleinzumachen ist das nicht ein Bildungs-Problem, das ist ein Respekts-Problem.
+Das ist eine echte [Red Flag](/red-flags/). Wenn jemand seine Bildung nutzt um dich kleinzumachen ist das nicht ein Bildungs-Problem, das ist ein Respekts-Problem.
 
 Ein echtes Beispiel: Anna, 29, war mit einem MBA-Absolventen zusammen der ständig sagte „Naja, du hast ja nicht studiert." Bei jedem Gespräch. Am Anfang dachte sie das ist cool. Nach einem Jahr merkte sie dass es eine Taktik war um Kontrolle zu haben. Sie sagte: „Ich bin nicht weniger intelligent, ich habe weniger Papiere. Und er wusste es und nutzte es trotzdem."
 

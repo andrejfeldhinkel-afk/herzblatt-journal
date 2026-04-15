@@ -35,7 +35,7 @@ Schreib etwas über Dich, das zeigt, wer Du bist. Nicht Deine Bucket-List, sonde
 Wenn Du jemanden chattest, frag tiefere Fragen. „Was ist Dir in einer [beziehung](/blog/adhs-und-beziehung-komplett-guide/) wichtig?" Nicht „Wie war Dein Wochenende?"
 
 ### Vertrau Deinen Instinkten
-Wenn Du eine Red Flag siehst, beachte sie. Mit 40 brauchst Du Dich nicht mehr zu überzeugen, dass jemand okay ist. Dein Instinkt ist gut.
+Wenn Du eine [Red Flag](/red-flags/) siehst, beachte sie. Mit 40 brauchst Du Dich nicht mehr zu überzeugen, dass jemand okay ist. Dein Instinkt ist gut.
 
 ### Sei bereit für tiefere Konversation schneller
 Mit 40 musst Du nicht Monate small talken. Du kannst früher fragen, was real ist. „Was suchst Du? Willst Du Beziehung oder nur daten?"

@@ -69,7 +69,7 @@ Zu diesem Punkt:
 - Ihr seid stabil (nicht in der "Honeymoon-Phase"-Lüge)
 - Du glaubst, er könnte langfristig sein
 - Die Beziehung hat Tiefe, nicht nur körperlich
-- Du weißt, dass er kein Red Flag Typen ist
+- Du weißt, dass er kein [Red Flag](/red-flags/) Typen ist
 
 **Wie man die Einführung macht:**
 

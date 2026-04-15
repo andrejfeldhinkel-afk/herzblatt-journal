@@ -156,7 +156,7 @@ Okay, das ist der Kern der Sache. Warum ist Verletzlichkeit so wichtig für echt
 
 Die Antwort liegt in der Neurobiologie und der [Bindungstheorie](/blog/attachment-theory-einfach-erklaert) kurz streifen.
 
-Die Bindungstheorie, entwickelt von John Bowlby und Mary Ainsworth, beschreibt die tiefe emotionale Bindung, die zwischen Menschen entstehen kann. Es gibt mehrere Bindungsstile: sicher, ängstlich-anhänglich, vermeidend und desorganisiert.
+Die Bindungstheorie, entwickelt von John Bowlby und Mary Ainsworth, beschreibt die tiefe emotionale Bindung, die zwischen Menschen entstehen kann. Es gibt mehrere [Bindungsstile](/bindungsstile/): sicher, ängstlich-anhänglich, vermeidend und desorganisiert.
 
 Menschen mit sicherer Bindung können sich verletzlich zeigen. Sie trauen ihren Partnern. Sie wissen tief in ihrem Innersten, dass sie liebenswert sind — nicht wegen ihrer Leistung, sondern einfach weil sie existieren.
 

@@ -62,7 +62,7 @@ All diese Reaktionen sind normal. Sie sind nicht Zeichen dafür, dass mit dir et
 
 Ich werde es dir direkt sagen: Du brauchst Hilfe. Nicht, weil du nicht stark genug bist. Sondern weil Trauma eine Sache ist, die du allein nicht auflösen kannst.
 
-Es gibt spezialisierte Therapeuten, die mit Trauma-Überlebenden arbeiten. Sie sind nicht wie normale Psychotherapeuten. Sie haben Techniken gelernt, die speziell dafür entwickelt wurden, Traumatisierung zu heilen. EMDR (Eye Movement Desensitization and Reprocessing) ist eine davon. Trauma-fokussierte kognitive Verhaltenstherapie ist eine andere.
+Es gibt spezialisierte Therapeuten, die mit Trauma-Überlebenden arbeiten. Sie sind nicht wie normale Psychotherapeuten. Sie haben Techniken gelernt, die speziell dafür entwickelt wurden, Traumatisierung zu heilen. [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) (Eye Movement Desensitization and Reprocessing) ist eine davon. Trauma-fokussierte kognitive Verhaltenstherapie ist eine andere.
 
 Das Wichtige ist: Finde jemanden, der Erfahrung mit sexuellem Trauma hat. Nicht einfach einen Psychologen, der allgemein mit Depression und Angst arbeitet. Jemanden, der die Komplexität versteht.
 

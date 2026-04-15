@@ -237,7 +237,7 @@ Wenn ihr einen echten Moment zusammen hattet – das ist rare. Das ist etwas, da
 
 Das ist nicht automatisch Liebe. Aber es ist Verbindung. Und Verbindung ist der Anfang von allem.
 
-Nach einem echten Gespräch wirst du wissen: „Ich will diese Person wiedersehen" oder „Das war nice, aber nein". Nicht: „Ich weiß nicht." Das Vageheit ist ein Red Flag.
+Nach einem echten Gespräch wirst du wissen: „Ich will diese Person wiedersehen" oder „Das war nice, aber nein". Nicht: „Ich weiß nicht." Das Vageheit ist ein [Red Flag](/red-flags/).
 
 Wenn ihr beide Bock auf ein zweites Treffen habt, nach echtem Gespräch – dann geht es gerade los.
 

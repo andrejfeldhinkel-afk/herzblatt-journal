@@ -373,7 +373,7 @@ Kleine Dinge. Aber mit der Zeit, du beginnst zu glauben, dass du Probleme hast, 
 
 Das ist giftig. Das ist Manipulation.
 
-**Das "Breadcrumbing" Muster**
+**Das "[Breadcrumbing](/blog/breadcrumbing-komplett-guide/)" Muster**
 
 Er gibt dir gerade genug Aufmerksamkeit, um dich zu halten. Ein Tekst hier. Ein Anruf dort. Aber nicht genug, dass dich mit ihm verlässt.
 

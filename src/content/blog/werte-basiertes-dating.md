@@ -137,7 +137,7 @@ Aber sein Behavior ist, seine Familie zu sehen zweimal im Jahr. Oder nur telefon
 
 Das ist ein Wertkonflikt. Nicht zwischen ihm und dir, sondern zwischen seinen Worten und seinen Taten.
 
-Das ist die größte Red Flag. Weil es bedeutet, dass seine Werte nicht echten sind. Oder dass er sie nicht wichtig genug findet, um sie zu leben.
+Das ist die größte [Red Flag](/red-flags/). Weil es bedeutet, dass seine Werte nicht echten sind. Oder dass er sie nicht wichtig genug findet, um sie zu leben.
 
 Das ist jemand, dem ich nicht trauen würde.
 

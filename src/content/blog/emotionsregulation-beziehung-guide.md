@@ -113,7 +113,7 @@ Menschen mit unsicherer Bindung (sei es vermeidend oder ängstlich-ambivalent) k
 
 Vermeidend gebundene Menschen unterdrücken ihre Gefühle und distanzieren sich, weil sie gelernt haben, dass Nähe schmerzhaft ist.
 
-Hier ist die gute Nachricht: Bindungsstile sind nicht Schicksal. Sie können heilen und sicherer werden.
+Hier ist die gute Nachricht: [Bindungsstile](/bindungsstile/) sind nicht Schicksal. Sie können heilen und sicherer werden.
 
 [Mehr über Bindungstheorie und wie sie deine Beziehung beeinflusst: [Bindungstheorie](/blog/attachment-theory-einfach-erklaert)]
 
@@ -154,7 +154,7 @@ Dann ist Therapie nicht Plan B. Es ist ein wichtiges Teil des Plans.
 
 Ein guter Therapeut wird dir helfen, die *Ursachen* deiner Dysregulation zu heilen, nicht nur die Symptome zu verwalten.
 
-Trauma-informierte Therapie, EMDR, Schematherapie, oder sogar Emotionsfokussierte Paartherapie (wenn ihr zusammen geht) kann transformativ sein.
+Trauma-informierte Therapie, [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/), Schematherapie, oder sogar Emotionsfokussierte Paartherapie (wenn ihr zusammen geht) kann transformativ sein.
 
 Das ist nicht schwach. Das ist smart.
 

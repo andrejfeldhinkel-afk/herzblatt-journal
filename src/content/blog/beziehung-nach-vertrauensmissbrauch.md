@@ -85,7 +85,7 @@ Es gibt Vertrauensmissbrauch, von dem sich eine Beziehung erholen kann. Eine ein
 
 Und es gibt Vertrauensmissbrauch, von dem sich eine Beziehung nicht erholen kann.
 
-Wiederholter Missbrauch — wenn dein Partner dich mehrmals betrogen hat. Missbrauch, dem keine echte Reue folgt — dein Partner sagt "Entschuldigung" aber tut nichts, um es zu reparieren. Missbrauch, der Teil eines größeren Musters ist — Manipulation, emotionaler Missbrauch, Gaslighting.
+Wiederholter Missbrauch — wenn dein Partner dich mehrmals betrogen hat. Missbrauch, dem keine echte Reue folgt — dein Partner sagt "Entschuldigung" aber tut nichts, um es zu reparieren. Missbrauch, der Teil eines größeren Musters ist — Manipulation, emotionaler Missbrauch, [Gaslighting](/blog/was-ist-gaslighting/).
 
 In diesen Fällen ist der beste Weg vorwärts: gehen.
 

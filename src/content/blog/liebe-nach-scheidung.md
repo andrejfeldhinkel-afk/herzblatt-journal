@@ -127,7 +127,7 @@ Der beste Ansatz: Verständnis für dein Kind. Gib ihm Zeit. Und wenn es wirklic
 
 Nach einer Scheidung, hoffst du, dass du [Red Flags](/blog/dating-red-flags-maenner-erkennen) schneller erkennst. Das ist real. Du hast Erfahrung.
 
-Aber es gibt auch einen Risiko: Du könntest Paranoid werden. Du könntest normale Verhaltensweisen als Red Flags sehen, weil du verwundet bist.
+Aber es gibt auch einen Risiko: Du könntest Paranoid werden. Du könntest normale Verhaltensweisen als [Red Flags](/red-flags/) sehen, weil du verwundet bist.
 
 Das ist wichtig zu balancieren.
 

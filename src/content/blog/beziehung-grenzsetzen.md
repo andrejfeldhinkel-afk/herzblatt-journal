@@ -286,7 +286,7 @@ Das ist harte Wahrheit. Aber es ist Wahrheit.
 ### Häufig gestellte Fragen
 
 **Frage: Mein Partner sagt, dass Grenzen bedeuten, dass ich ihn nicht liebe. Stimmt das?**
-Antwort: Nein. Das ist Manipulation. Eine liebevolle Person respektiert deine Grenzen, weil sie dich liebt. Wenn dein Partner das sagt, das ist ein Red Flag. Das ist emotionale Kontrolle.
+Antwort: Nein. Das ist Manipulation. Eine liebevolle Person respektiert deine Grenzen, weil sie dich liebt. Wenn dein Partner das sagt, das ist ein [Red Flag](/red-flags/). Das ist emotionale Kontrolle.
 
 **Frage: Wie setze ich eine Grenze, wenn mein Partner aggressive wird?**
 Antwort: Das ist die Zeit für externe Hilfe. Ein Therapeut. Oder in worst case, ein Sicherheitsplan. Aggressive Reaktionen auf Grenzen sind nicht okay. Das ist Abuse.

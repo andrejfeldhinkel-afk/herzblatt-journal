@@ -90,7 +90,7 @@ Es ist wichtig zu verstehen, dass nicht alle Lügen gleich sind. Manche sind man
 
 ### Was ist Gaslighting?
 
-Gaslighting ist, wenn der Partner dir sagt, dass du „verrückt", „zu emotional" oder „paranoid" bist, wenn du seine Lügen in Frage stellst.
+[Gaslighting](/blog/was-ist-gaslighting/) ist, wenn der Partner dir sagt, dass du „verrückt", „zu emotional" oder „paranoid" bist, wenn du seine Lügen in Frage stellst.
 
 Dein Partner lügt, du stellst ihn zur Rede, und er sagt: „Das habe ich nie gesagt. Du merkst dir falsch. Du bist zu emotional."
 

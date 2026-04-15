@@ -15,7 +15,7 @@ tags:
 
 Dein [Trennung](/blog/trennung-verarbeiten-12-schritte) reagierst. Der britische Psychiater John Bowlby entdeckte in den 1950er Jahren, dass die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) zwischen Kind und Bezugsperson einen tiefgreifenden Einfluss auf unser gesamtes Leben hat.
 
-Das Faszinierende ist: Du bist nicht dein Bindungsstil. Das ist die gute Nachricht. Egal ob du ängstlich, vermeidend, oder desorganisiert gebunden bist – all diese Muster sind nicht unveränderlich. Sie sind adaptive Strategien, die du als Kind entwickelt hast, um zu überleben und Liebe zu bekommen. Und jede Strategie kann überarbeitet werden.
+Das Faszinierende ist: Du bist nicht dein [Bindungsstil](/bindungsstile/). Das ist die gute Nachricht. Egal ob du ängstlich, vermeidend, oder desorganisiert gebunden bist – all diese Muster sind nicht unveränderlich. Sie sind adaptive Strategien, die du als Kind entwickelt hast, um zu überleben und Liebe zu bekommen. Und jede Strategie kann überarbeitet werden.
 
 In diesem ausführlichen Leitfaden werde ich dir zeigen, wie die vier Bindungsstile funktionieren, wie sie entstehen, und vor allem: wie du sie heilen kannst. Dies ist Arbeit auf Pillar-Level – umfassend, tiefgehend, und praktisch anwendbar.
 
@@ -275,7 +275,7 @@ Desorganisierte Bindung ist komplexer. Wenn deine Bezugsperson gleichzeitig Tros
 
 Desorganisierte Heilung ist oft tiefere Arbeit. Sie beinhaltet oft:
 
-**Traumaverarbeitung.** EMDR oder Somatic Experiencing können helfen, die traumatischen Erfahrungen zu verarbeiten, die der Desorganisation zu Grunde liegen.
+**Traumaverarbeitung.** [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) oder Somatic Experiencing können helfen, die traumatischen Erfahrungen zu verarbeiten, die der Desorganisation zu Grunde liegen.
 
 **Innere Familie Systems (IFS).** IFS kann helfen, die verschiedenen Teile deines Systems zu verstehen – den Teil, der Nähe will, und den Teil, der Angst hat.
 

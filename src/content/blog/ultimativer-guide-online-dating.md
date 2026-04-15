@@ -284,7 +284,7 @@ Das Internet hat unglaubliche Freiheiten gebracht, aber auch neue Probleme. Hier
 
 ### Ghosting
 
-Ghosting ist wenn jemand dich einfach ignoriert. Ihr chatt, alles läuft gut, dann: Radio-Stille. Nachrichten werden nicht beantwortet. Die Person existiert einfach nicht mehr in deinem Leben.
+[Ghosting](/blog/ghosting-komplett-guide/) ist wenn jemand dich einfach ignoriert. Ihr chatt, alles läuft gut, dann: Radio-Stille. Nachrichten werden nicht beantwortet. Die Person existiert einfach nicht mehr in deinem Leben.
 
 **Warum passiert das?** Manche Menschen haben Schwierigkeiten, "Nein" zu sagen. Sie haben Angst, dich zu verletzen. Das ist Feigheit, nicht Rücksicht.
 

@@ -283,7 +283,7 @@ Es gibt auch Dinge, die nicht wichtig sind:
 - Nicht gleiche Hobbys
 - Kleine Unterschiede in Stil oder Geschmack
 
-Diese sind Unterschiede. Das sind keine Red Flags.
+Diese sind Unterschiede. Das sind keine [Red Flags](/red-flags/).
 
 ## Die Frage, die dich vor vielem schützt
 

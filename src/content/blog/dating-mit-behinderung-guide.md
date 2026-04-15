@@ -527,7 +527,7 @@ Weil dein Partner dich nicht für dich liebt. Er liebt die Idee, was du überwin
 
 Das ist nicht fair. Das ist nicht echte Liebe.
 
-**Red Flags:**
+**[Red Flags](/red-flags/):**
 
 - "Du inspirierst mich so viel"
 - "Ich hätte dieses Problem nicht überwunden, ohne dich"

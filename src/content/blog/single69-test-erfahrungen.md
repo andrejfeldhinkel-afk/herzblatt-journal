@@ -475,7 +475,7 @@ Die Punkte-Abzüge gehen an Werbe-Intensität, Profilqualität und Sicherheit. I
 Das hängt vom Profil und deiner Aktivität ab. Wenn du attraktive Fotos und eine gute Bio hast und täglich aktiv bist: 20-40 Matches pro Woche. Bei durchschnittlichen Profilen: 10-20. Es gibt viel Varianz.
 
 **P: Sind die Nutzer bei Single69 echt oder viele Fakes?**
-Der Großteil ist echt (aktiviert und reale Menschen), aber es gibt definitiv Fake-Profile. Schätzungsweise 10-15% der Profile sind Fakes oder Bots. Achte auf Red Flags (siehe oben).
+Der Großteil ist echt (aktiviert und reale Menschen), aber es gibt definitiv Fake-Profile. Schätzungsweise 10-15% der Profile sind Fakes oder Bots. Achte auf [Red Flags](/red-flags/) (siehe oben).
 
 **P: Wie lange sollte ich auf Single69 chatten, bevor ich Nummern austausche?**
 Nicht zu lange. Nach 15-20 Nachrichten (wenn die Chemie stimmt) solltet ihr Numbers/Telegram austauschen. Zu langes Chatten auf Single69 führt zu Abnutzung.

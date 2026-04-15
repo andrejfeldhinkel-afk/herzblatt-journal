@@ -23,7 +23,7 @@ faq:
 
 Du warst verliebt. Oder auch nur interessiert. Und plötzlich: Funk stille. Keine Antwort. Kein 'Mir geht's nicht', kein 'Ich bin beschäftigt' – einfach nichts.
 
-Das ist Ghosting. Und es tut wie eine Hölle weh, weil es keine Closure gibt. Dein Gehirn spielt Spiele. "Vielleicht hat er einen Unfall gehabt?" "Vielleicht hat er meine Nachricht nicht gesehen?" "Was habe ich falsch gemacht?"
+Das ist [Ghosting](/blog/ghosting-komplett-guide/). Und es tut wie eine Hölle weh, weil es keine Closure gibt. Dein Gehirn spielt Spiele. "Vielleicht hat er einen Unfall gehabt?" "Vielleicht hat er meine Nachricht nicht gesehen?" "Was habe ich falsch gemacht?"
 
 Das sind die Fragen, die dein Verstand stellt, weil Stille schlimmer ist als Wahrheit.
 
@@ -107,7 +107,7 @@ Du willst, dass dein Herz heilt. Die Nachricht ist für dich, nicht für ihn.
 
 **Eine Nachricht, nicht hundert.**
 
-Wenn du zehn Nachrichten schreibst, schreibst du aus Desperation. Schreib eine. Und dann: No Contact.
+Wenn du zehn Nachrichten schreibst, schreibst du aus Desperation. Schreib eine. Und dann: [No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/).
 
 **Nicht gehässig, nicht bedürftig, einfach wahr.**
 

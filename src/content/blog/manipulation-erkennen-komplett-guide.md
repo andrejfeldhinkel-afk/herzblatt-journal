@@ -33,7 +33,7 @@ Es gibt acht primäre Wege, die Menschen manipulieren. Wenn du diese erkennst, k
 Die erste ist [Love Bombing](/blog/love-bombing-erkennen-schuetzen) -->
     <div class="mekg-pattern">
       <div class="mekg-pattern-header">
-        <h4 class="mekg-pattern-title">💣 Love Bombing</h4>
+        <h4 class="mekg-pattern-title">💣 [Love Bombing](/blog/lovebombing-phasen/)</h4>
         <span class="mekg-toggle-icon">▼</span>
       </div>
       <div class="mekg-pattern-content">
@@ -61,7 +61,7 @@ Die erste ist [Love Bombing](/blog/love-bombing-erkennen-schuetzen) -->
     <!-- [Silent Treatment](/blog/silent-treatment-beziehung) -->
     <div class="mekg-pattern">
       <div class="mekg-pattern-header">
-        <h4 class="mekg-pattern-title">🤐 Silent Treatment</h4>
+        <h4 class="mekg-pattern-title">🤐 [Silent Treatment](/blog/silent-treatment-bedeutung/)</h4>
         <span class="mekg-toggle-icon">▼</span>
       </div>
       <div class="mekg-pattern-content">
@@ -199,7 +199,7 @@ Die erste ist [Love Bombing](/blog/love-bombing-erkennen-schuetzen) -->
       </div>
     </div>
     
-    <!-- DARVO -->
+    <!-- [DARVO](/blog/darvo-manipulation-beziehung-erkennen/) -->
     <div class="mekg-pattern">
       <div class="mekg-pattern-header">
         <h4 class="mekg-pattern-title">🔄 DARVO</h4>

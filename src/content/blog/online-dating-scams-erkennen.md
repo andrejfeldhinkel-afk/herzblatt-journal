@@ -323,7 +323,7 @@ Sie sagen:
 - "Du bist so verschieden von jeder anderen Person"
 - "Ich bin verliebt"
 
-Alles nach ein paar Wochen. Das ist nicht normal. Das ist Love Bombing – eine Manipulation-Taktik, um dich emotional abhängig zu machen.
+Alles nach ein paar Wochen. Das ist nicht normal. Das ist [Love Bombing](/blog/lovebombing-phasen/) – eine Manipulation-Taktik, um dich emotional abhängig zu machen.
 
 **Phase 2: Isolation**
 

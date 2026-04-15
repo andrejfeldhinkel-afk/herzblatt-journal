@@ -128,7 +128,7 @@ Das klingt albern. Aber es funktioniert.
 
 Nicht ein paar Sitzungen. Echte therapeutische Arbeit mit einem Therapeuten, der Bindungstrauma versteht.
 
-Schematherapie, EMDR, Somatic Experiencing — diese Therapien arbeiten mit den Mustern, die tief in dir gespeichert sind. Sie helfen deinem Gehirn, umzuprogrammieren. Sie zeigen deinem Nervensystem, dass Verlust möglich ist, aber du wirst überleben.
+Schematherapie, [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/), Somatic Experiencing — diese Therapien arbeiten mit den Mustern, die tief in dir gespeichert sind. Sie helfen deinem Gehirn, umzuprogrammieren. Sie zeigen deinem Nervensystem, dass Verlust möglich ist, aber du wirst überleben.
 
 **Schritt 4: Schaffe Sicherheit innerhalb von dir selbst.**
 

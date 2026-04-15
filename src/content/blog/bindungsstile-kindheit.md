@@ -65,7 +65,7 @@ Diese Kinder entwickeln sicheren Bindungsstil. Sie sind entspannter, weil ihr Ne
 
 **Abweisende Eltern:**
 
-Diese Eltern sind emotional distanziert — nicht aus Bösartigkeit, oft aus ihrer eigenen Bindungsangst. Das Kind weint, und der Elternteil sagt: "Du machst jetzt keine Umstände." Das Kind hat Angst in der Nacht, und der Elternteil sagt: "Du bist groß genug, um allein zu schlafen."
+Diese Eltern sind emotional distanziert — nicht aus Bösartigkeit, oft aus ihrer eigenen [Bindungsangst](/blog/bindungsangst-komplett-guide/). Das Kind weint, und der Elternteil sagt: "Du machst jetzt keine Umstände." Das Kind hat Angst in der Nacht, und der Elternteil sagt: "Du bist groß genug, um allein zu schlafen."
 
 Das Kind lernt: *Meine Bedürfnisse sind störend. Ich bin ein Problem. Ich muss mich selbst versorgen.* Das Kind entwickelt vermeidenden Bindungsstil — es lernt, seine Gefühle zu unterdrücken, um nicht verletzt zu werden.
 
@@ -131,7 +131,7 @@ Das Nervensystem lernt durch Wiederholung. Wenn du aufgewachsen bist mit einer k
 
 **Schritt 4: Therapie**
 
-Nicht alle Bindungsprobleme können durch positive Beziehungen gelöst werden. Ein Therapeut kann dir helfen, die alten Wunden zu verstehen und zu heilen. Spezifisch: Attachment-Based Therapie und EMDR sind sehr wirksam.
+Nicht alle Bindungsprobleme können durch positive Beziehungen gelöst werden. Ein Therapeut kann dir helfen, die alten Wunden zu verstehen und zu heilen. Spezifisch: Attachment-Based Therapie und [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) sind sehr wirksam.
 
 **Schritt 5: Geduld mit dir selbst**
 

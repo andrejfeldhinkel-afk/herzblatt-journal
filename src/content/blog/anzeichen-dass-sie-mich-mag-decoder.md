@@ -375,7 +375,7 @@ Verwende das folgende Werkzeug, um die Signale zu dekodieren, die du bekommst. W
         </div>
         <div class="sdm-signal">
           <input type="checkbox" id="sig25" class="sdm-checker" data-points="1">
-          <label for="sig25">Sie antwortet auf alle deine Nachrichten (keine Breadcrumbing)</label>
+          <label for="sig25">Sie antwortet auf alle deine Nachrichten (keine [Breadcrumbing](/blog/breadcrumbing-komplett-guide/))</label>
         </div>
       </div>
     </div>

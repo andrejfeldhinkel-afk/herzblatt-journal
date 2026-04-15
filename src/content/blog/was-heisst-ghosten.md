@@ -26,7 +26,7 @@ faq:
     answer: "Beides ist okay, je nach deinem Bedürfnis. Eine letzte klare Nachricht ('Ich merke, dass du nicht mehr reagierst. Das ist nicht okay. Ich wünsche dir alles Gute.') kann dir Abschluss geben — ohne Erwartung auf Antwort. Zurück-ghosten ohne Kommentar ist ebenfalls legitim. Was du nicht tun solltest: Bitten, betteln, wütend eskalieren. Das verletzt dich mehr als den Ghoster."
 ---
 
-> **Schnellantwort:** **Ghosten** bedeutet, plötzlich und ohne Erklärung den Kontakt vollständig abzubrechen — Nachrichten werden ignoriert, Anrufe nicht beantwortet, der Mensch verschwindet wie ein Geist. Ghosting ist eine Form der Konfliktvermeidung und sagt fast immer mehr über den Ghoster als über den Geghosteten aus.
+> **Schnellantwort:** **Ghosten** bedeutet, plötzlich und ohne Erklärung den Kontakt vollständig abzubrechen — Nachrichten werden ignoriert, Anrufe nicht beantwortet, der Mensch verschwindet wie ein Geist. [Ghosting](/blog/ghosting-komplett-guide/) ist eine Form der Konfliktvermeidung und sagt fast immer mehr über den Ghoster als über den Geghosteten aus.
 
 Du hast eine Woche lang jeden Abend mit ihm geschrieben. Gelacht, tief gesprochen, vielleicht das zweite Date geplant. Und dann: Stille. Keine Antwort auf deine letzte Nachricht. Eine Woche, zwei Wochen. Gelesen, aber nicht beantwortet. Oder gar nicht mehr gelesen. Du fragst dich, was du falsch gemacht hast — und das Wort, das gerade in Millionen Köpfen schwirrt, fällt dir ein: **Ghosting**. Aber was heißt ghosten eigentlich genau, warum tun Menschen das, und wie reagierst du am besten?
 
@@ -70,7 +70,7 @@ Manche Menschen haben so viel Angst vor schwierigen Gesprächen, dass ihnen Ghos
 
 Ghosting wird oft mit anderen Begriffen verwechselt:
 
-- **Breadcrumbing:** Sporadisch Aufmerksamkeit geben, dann wieder verschwinden (Häppchen hinwerfen).
+- **[Breadcrumbing](/blog/breadcrumbing-komplett-guide/):** Sporadisch Aufmerksamkeit geben, dann wieder verschwinden (Häppchen hinwerfen).
 - **Cushioning:** Mehrere Backup-Kontakte am Laufen halten, während du eigentlich in einer Beziehung bist.
 - **Submarining:** Ghosting, aber nach Wochen oder Monaten taucht die Person plötzlich wieder auf ("Hey, alles gut bei dir?").
 - **Caspering:** Freundliches Ghosting — kurz Bescheid geben ("Tut mir leid, aber ich kann gerade nicht"), dann verschwinden.

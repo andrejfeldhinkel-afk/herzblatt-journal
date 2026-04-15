@@ -23,7 +23,7 @@ faq:
     answer: "Nicht notwendigerweise. Es hilft, aber es ist nicht alles. Das beste ist, wenn dein Partner dein Muster versteht und nicht deine Ängste persönlich nimmt. Ein sicherer Partner macht das oft automatisch — aber es ist möglich mit jedem, wenn die Kommunikation gut ist."
 ---
 
-Der Fearful Avoidant Bindungsstil ist ein Paradox.
+Der Fearful Avoidant [Bindungsstil](/bindungsstile/) ist ein Paradox.
 
 Du willst Nähe, aber du hast Angst davor.
 

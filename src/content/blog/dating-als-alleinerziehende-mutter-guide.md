@@ -158,7 +158,7 @@ Falsch. Das ist deine Beziehung zu deinem Kind. Er hat nicht das Recht, das zu k
 
 **Er versucht, dich zu isolieren.** "Dein Kind ist zu abhängig von dir. Du solltest mehr Zeit mit mir verbringen, nicht mit ihm."
 
-HUGE RED FLAG. Das ist Kontrollverhalten. Das ist, wie Missbrauch anfängt.
+HUGE [RED FLAG](/red-flags/). Das ist Kontrollverhalten. Das ist, wie Missbrauch anfängt.
 
 **Er behandelt dein Kind mit Unachtsamkeit.** Er vergisst Abmachungen. Er ist ungeduldig. Er ignoriert es, wenn es mit ihm spricht.
 

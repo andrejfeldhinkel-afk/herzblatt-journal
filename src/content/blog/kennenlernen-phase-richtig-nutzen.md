@@ -189,7 +189,7 @@ Nicht nur ihre Worte. Auch ihre Taten. Sind sie consistent? Respektieren sie dei
 
 Nicht nur Chemie. Fragt euch beide, ob ihr wirklich passt.
 
-**5. Respektiere deine Red Flags**
+**5. Respektiere deine [Red Flags](/red-flags/)**
 
 Wenn etwas off ist, darf etwas off sein. Das ist Information.
 

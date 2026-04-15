@@ -957,7 +957,7 @@ Die Differenz zwischen dir und Menschen mit unsicheren Bindungsstilen: Du erkenn
 - Die Neugierde statt Scham: "Warum versuche ich zu kontrollieren gerade?" Was ist unter Druck? Was wurde getriggert?
 - Die Fähigkeit, schnell zu korrigieren: "Mir ist gerade klar, dass ich kontrollierend war. Das war nicht über dich — das war über meine Angst gerade. Entschuldigung. Lass mich das anders handeln. Ich vertraue dir."
 
-Ein sicherer Bindungsstil ist nicht Perfektion. Es ist Gewahrsein und Respons-Fähigkeit.
+Ein [sicherer Bindungsstil](/blog/sicherer-bindungsstil/) ist nicht Perfektion. Es ist Gewahrsein und Respons-Fähigkeit.
 
 ## Der Loslassen-Vertrag mit dir selbst
 

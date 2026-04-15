@@ -96,7 +96,7 @@ Es gibt Formulierungen, die sofort Defensivität auslösen. Hier sind die häufi
 
 **Schuldzuweisungen statt Problem-Beschreibungen:** "Du zerstörst unsere [beziehung](/blog/adhs-und-beziehung-komplett-guide/)" ist zu schwer. "Ich fühle mich emotional entfernt" ist ehrlich ohne Anklage.
 
-**Psychologisches Labeling:** "Du bist einfach ein Narzisst" oder "Das ist manipulativ." Wenn der andere sich diagnostiziert fühlt, statt verstanden zu werden, ist die Tür zum Dialog zu.
+**Psychologisches Labeling:** "Du bist einfach ein [Narzisst](/narzissmus/)" oder "Das ist manipulativ." Wenn der andere sich diagnostiziert fühlt, statt verstanden zu werden, ist die Tür zum Dialog zu.
 
 ## Der richtige Zeitpunkt ist wichtig
 

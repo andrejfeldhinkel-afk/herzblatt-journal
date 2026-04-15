@@ -179,7 +179,7 @@ Wenn dieser Typ dich respektiert, wenn er ein guter Mensch ist, dann wird er dei
 
 Aber wenn er ein Jerk ist, könnte er deine Gefühle gegen dich verwenden. Er könnte dich manipulieren. Er könnte dir sagen, dass du "zu schnell" bist oder "zu bedürftig".
 
-Das ist Red Flag Nummer eins. Wenn er deine Gefühle gegen dich verwendet, dann ist er es nicht wert.
+Das ist [Red Flag](/red-flags/) Nummer eins. Wenn er deine Gefühle gegen dich verwendet, dann ist er es nicht wert.
 
 Ein guter Mensch wird sagen: "Ich schätze das, dass du mir das sagst. Ich empfinde das Gleiche nicht, aber ich respektiere deine Gefühle. Lass uns sehen, ob wir das navigieren können."
 

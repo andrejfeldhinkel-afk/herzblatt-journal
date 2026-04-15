@@ -77,7 +77,7 @@ Diese Klarheit spart enorm viel Energie, weil du von Anfang an filterst und dich
 
 Slow Dating ist das bewusste Gegenstück zur Schnelllebigkeit des modernen Datings. Statt fünf oberflächliche Dates pro Woche zu haben, gönnst du dir eines — und gibst diesem einen Date deine volle Aufmerksamkeit.
 
-Nimm dir Zeit für das [Ghosting](/blog/ghosting-komplett-guide), Breadcrumbing und andere toxische Dating-Muster musst du nicht tolerieren. Je klarer deine Grenzen sind, desto weniger erschöpfend wird das Dating.
+Nimm dir Zeit für das [Ghosting](/blog/ghosting-komplett-guide), [Breadcrumbing](/blog/breadcrumbing-komplett-guide/) und andere toxische Dating-Muster musst du nicht tolerieren. Je klarer deine Grenzen sind, desto weniger erschöpfend wird das Dating.
 
 ## Der Weg zurück zur Freude am Dating
 

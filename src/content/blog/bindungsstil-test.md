@@ -21,7 +21,7 @@ faq:
     answer: "Das Ergebnis ist ein Ausgangspunkt für Selbstverständnis, nicht ein Schicksal. Wenn du erkennst: 'Ich bin unsicher-ängstlich gebunden', kannst du verstehen, warum du in Beziehungen so reagierst. Du kannst gezielt daran arbeiten. Viele Menschen verändern ihren Bindungsstil durch Therapie, sichere Beziehungen und Selbstbewusstsein."
 ---
 
-> **Schnellantwort:** Es gibt **vier Bindungsstile**: sicher gebunden (50 %), ängstlich (20 %), vermeidend (25 %) und desorganisiert (5 %). Du erkennst deinen Stil daran, wie du auf Nähe und Distanz in Beziehungen reagierst. Ein Bindungsstil-Test mit 15-20 Fragen liefert dir eine erste klare Einordnung.
+> **Schnellantwort:** Es gibt **vier Bindungsstile**: sicher gebunden (50 %), ängstlich (20 %), vermeidend (25 %) und desorganisiert (5 %). Du erkennst deinen Stil daran, wie du auf Nähe und Distanz in Beziehungen reagierst. Ein [Bindungsstil](/bindungsstile/)-Test mit 15-20 Fragen liefert dir eine erste klare Einordnung.
 
 Du sitzt da, schreibst eine Nachricht an deinen Partner und liest sie fünfmal vor dem Senden. *Ist das zu klinisch? Zu anhänglich? Nicht emotional genug?* Dein Nervensystem ist angespannt.
 

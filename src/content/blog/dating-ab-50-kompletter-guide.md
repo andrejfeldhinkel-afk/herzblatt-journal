@@ -43,7 +43,7 @@ Es klingt wie ein Klischee, aber es stimmt wirklich: Mit 50 Jahren hast du einen
 
 ### Der Mann, der dich kontrollieren möchte
 
-Wenn er besitzergreifend wird, wenn er dir Fragen stellt wie "Wo warst du? Mit wem?" oder wenn er versucht, deine Kontakte zu kontrollieren — das ist ein Red Flag. Du bist erwachsen und hast das Recht, dein eigenes Leben zu führen.
+Wenn er besitzergreifend wird, wenn er dir Fragen stellt wie "Wo warst du? Mit wem?" oder wenn er versucht, deine Kontakte zu kontrollieren — das ist ein [Red Flag](/red-flags/). Du bist erwachsen und hast das Recht, dein eigenes Leben zu führen.
 
 ### Finanzielle Red Flags
 
@@ -222,7 +222,7 @@ Es schmerzt, ja. Aber es ist auch ein Filter. Langfristig darfst du dankbar sein
 
 ### Breadcrumbing und andere manipulative Spiele
 
-Breadcrumbing ist, wenn jemand dir jeden Monat eine Nachricht sendet, um dich interessiert zu halten, ohne wirkliche Absichten zu haben. Es ist emotionaler Missbrauch im Mini-Format.
+[Breadcrumbing](/blog/breadcrumbing-komplett-guide/) ist, wenn jemand dir jeden Monat eine Nachricht sendet, um dich interessiert zu halten, ohne wirkliche Absichten zu haben. Es ist emotionaler Missbrauch im Mini-Format.
 
 Wie du damit umgehst: Ignoriere es oder sei direkt. "Ich merke, dass das hier nicht ernsthaft ist. Viel Glück dir." Und dann lösche die Nummer.
 

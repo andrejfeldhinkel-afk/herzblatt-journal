@@ -79,7 +79,7 @@ Du kannst loslassen. Aber dein Gehirn ist geconditioniert wie Pavlovs Hund.
 
 ## Die Gründe, warum Menschen Hot and Cold spielen
 
-**1. Bindungsangst**
+**1. [Bindungsangst](/blog/bindungsangst-komplett-guide/)**
 
 Sie mag dich, aber hat Angst vor Nähe. Also kommt sie nah (hot), bekommt Angst (cold), läuft weg. Das wiederholt sich.
 

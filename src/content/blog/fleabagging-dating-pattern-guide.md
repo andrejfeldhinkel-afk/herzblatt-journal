@@ -185,7 +185,7 @@ In diesen Fällen wird „einfach besser Entscheidungen treffen" nicht funktioni
 
 Das könnte bedeuten:
 
-- Trauma-fokussierte Therapie (EMDR, CPT, oder ähnlich)
+- Trauma-fokussierte Therapie ([EMDR](/blog/emdr-beziehungstrauma-heilen-guide/), CPT, oder ähnlich)
 - Viel Zeit allein verbringen und heilen
 - Grenzen setzen mit Menschen, die dich verletzt haben
 - Erlauben Sie sich, wirklich traurig zu sein
@@ -249,7 +249,7 @@ Für jeden ernsthaften Partner oder langen Dating-Prozess, führ ein privates Ta
 
 - Erste Impression (Was war sofort attraktiv? Gab es sofort [Red Flags](/blog/dating-red-flags-maenner-erkennen)?)
 - Wie die Beziehung entwickelt hat (Schnelle Intensität? Langsam aufgebaut?)
-- Red Flags du ignoriert hast (Liste sie auf—keine Urteile, nur Beobachtungen)
+- [Red Flags](/red-flags/) du ignoriert hast (Liste sie auf—keine Urteile, nur Beobachtungen)
 - Wie die Beziehung endete (Wer hat gekündigt? War es unvermeidlich?)
 - Deine Rolle (Warst du der Verfolger? Der Hoffer? Der, der über seine/ihre Schultern hinweg sah?)
 

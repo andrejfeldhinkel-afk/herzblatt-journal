@@ -46,7 +46,7 @@ Die Unterscheidung ist wichtig: **Lovebombing ist nicht Liebe. Es ist Kontrolle 
 
 Menschen betreiben Lovebombing aus verschiedenen Gründen, und nicht alle sind bewusst böswillig:
 
-**1. Unsichere Bindungsstile:** Menschen mit desorganisierten oder [vermeidenden Bindungsmustern](/blog/vermeidender-bindungsstil/) versuchen oft, Nähe durch Überforderung statt Echtheit zu schaffen. Sie haben gelernt, dass extreme Gesten = Sicherheit.
+**1. Unsichere [Bindungsstile](/bindungsstile/):** Menschen mit desorganisierten oder [vermeidenden Bindungsmustern](/blog/vermeidender-bindungsstil/) versuchen oft, Nähe durch Überforderung statt Echtheit zu schaffen. Sie haben gelernt, dass extreme Gesten = Sicherheit.
 
 **2. Narzisstische Tendenzen:** Der narzisstische Typ braucht konstante Bewunderung und Kontrolle. Lovebombing ist der perfekte Köder — du wirst abhängig von seiner Bestätigung.
 
@@ -115,10 +115,10 @@ Die Isolation ist die Methode: Wenn deine sozialen Strukturen weg sind, hängst 
 Jetzt kommt der emotionale Whiplash. Die Wärme verschwindet plötzlich — und dein Gehirn flippt aus.
 
 **Typische Signale:**
-- Silent Treatment: Stille für Tage oder Wochen ohne Grund
+- [Silent Treatment](/blog/silent-treatment-bedeutung/): Stille für Tage oder Wochen ohne Grund
 - Plötzliche Kritik an Dingen, die vorher geliebt wurden: "Dein Lachen ist manchmal zu laut"
 - Vergleiche mit Ex-Partner*innen: "Sie war stiller" oder "Er war romantischer"
-- Gaslighting: "Das habe ich nie gesagt" (obwohl du es aufgeschrieben hast)
+- [Gaslighting](/blog/was-ist-gaslighting/): "Das habe ich nie gesagt" (obwohl du es aufgeschrieben hast)
 - Vorwürfe: "Du machst mich unglücklich"
 - Gefühlschaos: Eine Minute liebevoll, die nächste kalt
 - Deine Liebe wird infrage gestellt: "Liebst du mich wirklich?"

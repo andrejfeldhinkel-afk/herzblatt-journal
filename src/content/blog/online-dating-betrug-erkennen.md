@@ -84,7 +84,7 @@ Kontrolliere auch die Bio. Stimmt sie mit dem überein, was die Person dir erzä
 
 ### Inconsistenzen und Nachfragen
 
-Stelle subtile Fragen und notiere dir die Antworten. Frag nach Details, die nur die echte Person wissen kann (Geburtsort, Name des Haustiers, spezifische Hobbys). Wenn die Antworten immer vager werden oder sogar widersprochen, hast du einen Red Flag entdeckt.
+Stelle subtile Fragen und notiere dir die Antworten. Frag nach Details, die nur die echte Person wissen kann (Geburtsort, Name des Haustiers, spezifische Hobbys). Wenn die Antworten immer vager werden oder sogar widersprochen, hast du einen [Red Flag](/red-flags/) entdeckt.
 
 ## Die Geld-Falle: Warnsignale vor einem Romance Scam mit Finanzbetrug
 

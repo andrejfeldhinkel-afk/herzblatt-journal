@@ -57,7 +57,7 @@ Das heißt nicht, dass du etwas zu verbergen hast, wenn du nicht bereit bist, de
 Aber gleichzeitig: Wenn dein Partner dich immer fragt, "Mit wem schreibst du?" oder "Wer ist das?" oder "Zeig mir die Unterhaltung", das ist Kontrollverhalten. Das ist nicht normal.
 
 **Freundschaften**
-Du brauchst Freunde außerhalb deiner Beziehung. Das ist wichtig. Ein Partner, der dich "lieber" nicht mit bestimmten Freunden sehen möchte, ist ein Red Flag. Ein Partner, der dich isoliert, indem er deine Freundschaften kritisiert oder blockiert, ist ein zweiter Red Flag.
+Du brauchst Freunde außerhalb deiner Beziehung. Das ist wichtig. Ein Partner, der dich "lieber" nicht mit bestimmten Freunden sehen möchte, ist ein [Red Flag](/red-flags/). Ein Partner, der dich isoliert, indem er deine Freundschaften kritisiert oder blockiert, ist ein zweiter Red Flag.
 
 Das heißt, dass du nicht jedes Detail über deine Freundschaften berichten musst. "Wie war dein Nachmittag mit Sarah?" "Schön." Das ist okay. Du brauchst nicht zu sagen, was jede Minute geschah.
 

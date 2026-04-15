@@ -141,7 +141,7 @@ Es ist okay, wenn die Kinder ihn nicht mögen. Das ist nicht das Ende der Welt.
 
 Aber: Es ist ein Signal. Wenn deine Kinder ernsthaft Probleme mit dieser Person haben, solltest du zuhören. Nicht weil die Kinder immer Recht haben. Sondern weil sie Dinge sehen, die du vielleicht übersehen hast.
 
-Wenn die Kinder sagen: "Er ist gemein" oder "Er schreit viel", das sind Red Flags. Das sind Zeichen, dass etwas nicht stimmt.
+Wenn die Kinder sagen: "Er ist gemein" oder "Er schreit viel", das sind [Red Flags](/red-flags/). Das sind Zeichen, dass etwas nicht stimmt.
 
 Aber wenn die Kinder sagen: "Mir gefällt einfach nicht, wie er redet" — das ist etwas anderes. Das kann sich mit der Zeit ändern.
 

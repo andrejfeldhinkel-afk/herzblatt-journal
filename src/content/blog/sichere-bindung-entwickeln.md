@@ -27,7 +27,7 @@ Du sitzt in einer Beziehung, die dir eigentlich gut tut, aber irgendwas stimmt n
 
 Sichere Bindung ist deine innere Ruhe in einer Beziehung. Es ist das Vertrauen, dass dein Partner da ist, auch wenn ihr gerade nicht miteinander spricht. Es ist die Fähigkeit, dich nah zu fühlen ohne klammern zu müssen, und Abstand zu nehmen ohne Panik zu bekommen. Menschen mit sicherer Bindung können Konflikte aushalten, weil sie wissen: Das ist nicht das Ende.
 
-Das klingt vielleicht weit weg von dir. Vielleicht bist du eher ängstlich, fragst dich ständig, ob er dich noch liebt, oder du bist vermeidend und brauchst deine Unabhängigkeit wie die Luft zum Atmen. Das ist völlig okay. Die wichtige Erkenntnis ist: Dein Bindungsstil ist nicht in Stein gemeißelt.
+Das klingt vielleicht weit weg von dir. Vielleicht bist du eher ängstlich, fragst dich ständig, ob er dich noch liebt, oder du bist vermeidend und brauchst deine Unabhängigkeit wie die Luft zum Atmen. Das ist völlig okay. Die wichtige Erkenntnis ist: Dein [Bindungsstil](/bindungsstile/) ist nicht in Stein gemeißelt.
 
 ## Das Konzept von Earned Secure Attachment
 

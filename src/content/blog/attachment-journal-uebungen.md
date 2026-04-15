@@ -17,7 +17,7 @@ Du merkst, dass du immer Angst vor dem Verlassenwerden hast. Du klammmerst an Be
 
 Diese Muster sind nicht deine Schuld. Sie kommen wahrscheinlich von deinem [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) – eine Weise, wie du gelernt hast, in Beziehungen zu sein, oft basierend auf früheren Erfahrungen mit Eltern, Bezugspersonen oder vergangenen Partnern.
 
-Das Gute: Du kannst deinen Bindungsstil verändern. Das dauert nicht Jahre in der Therapie. Es dauert Bewusstsein, Regelmäßigkeit und 30 Tage, um einen neuen neuralen Weg zu bilden.
+Das Gute: Du kannst deinen [Bindungsstil](/bindungsstile/) verändern. Das dauert nicht Jahre in der Therapie. Es dauert Bewusstsein, Regelmäßigkeit und 30 Tage, um einen neuen neuralen Weg zu bilden.
 
 Dieser Artikel ist dein 30-Tage-Bindungsjournal-Guide. Ein praktisches Workbook mit täglichen Übungen, um von unsicherer zu sicherer Bindung zu bewegen. Schreib mit mir. Sei ehrlich. Und beobachte, wie sich deine Beziehungen und dein Selbstvertrauen verändern.
 
@@ -366,7 +366,7 @@ Wenn dein Bindungsmuster in einer Beziehung aktiv ist, und dein Partner nicht se
 
 **Wann Trauma-Therapie notwendig ist**
 
-Wenn deine Bindungsangst aus echtem Trauma kommt – körperliche/emotionale Misshandlung, sexuelle Verletzung, Vernachlässigung – brauchst du möglicherweise spezialisierte Trauma-Therapie wie EMDR oder Trauma-Focused Cognitive Behavioral Therapy. Journaling kann Trauma nicht heilen. Ein Therapeut kann.
+Wenn deine Bindungsangst aus echtem Trauma kommt – körperliche/emotionale Misshandlung, sexuelle Verletzung, Vernachlässigung – brauchst du möglicherweise spezialisierte Trauma-Therapie wie [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) oder Trauma-Focused Cognitive Behavioral Therapy. Journaling kann Trauma nicht heilen. Ein Therapeut kann.
 
 **Wann Medikation hilfreich ist**
 

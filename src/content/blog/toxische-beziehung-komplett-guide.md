@@ -39,7 +39,7 @@ Aber es passiert wieder. Und wieder. Diese Ausbrüche halten dich in einem konst
 
 Du erinnerst dich ganz genau, dass dein Partner dir sagte, er würde dich zum Konzert mitnehmen. Aber jetzt behauptet er, du hättest das missverstanden. "Das habe ich nie gesagt." Oder noch toxischer: "Du bist verrückt, wenn du das glaubst."
 
-Du fragst dich dann: "Habe ich das wirklich vergessen? Bin ich verrückt?" Das ist Gaslighting – und es ist eines der subtilsten Warnsignale. Dein Partner macht dich absichtlich unsicher über deine eigene Wahrnehmung. Vertrauen nicht deiner Erinnerung, vertraue deinem Bauch. Wenn du dich ständig fragst, ob du die Realität richtig siehst, ist das Missbrauch.
+Du fragst dich dann: "Habe ich das wirklich vergessen? Bin ich verrückt?" Das ist [Gaslighting](/blog/was-ist-gaslighting/) – und es ist eines der subtilsten Warnsignale. Dein Partner macht dich absichtlich unsicher über deine eigene Wahrnehmung. Vertrauen nicht deiner Erinnerung, vertraue deinem Bauch. Wenn du dich ständig fragst, ob du die Realität richtig siehst, ist das Missbrauch.
 
 ### Warnsignal 5: Finanzielle Kontrolle
 

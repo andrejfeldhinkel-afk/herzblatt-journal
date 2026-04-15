@@ -32,7 +32,7 @@ Du fragst dich vielleicht, ob du mit einem vulnerablen Narzissten zusammen bist.
 
 ## Was ist vulnerabler Narzissmus überhaupt?
 
-Lass mich mit etwas Klarheit anfangen: Es gibt zwei Hauptformen von Narzissmus. Der grandiose Narzisst ist laut, selbstverherrlichend, voller Größenwahn. Dieser Typ kennt jeder. Aber der vulnerable Narzisst? Der versteckt sich hinter einer Maske aus Empfindlichkeit.
+Lass mich mit etwas Klarheit anfangen: Es gibt zwei Hauptformen von [Narzissmus](/narzissmus/). Der grandiose Narzisst ist laut, selbstverherrlichend, voller Größenwahn. Dieser Typ kennt jeder. Aber der vulnerable Narzisst? Der versteckt sich hinter einer Maske aus Empfindlichkeit.
 
 Ein vulnerabler Narzisst wirkt zunächst verletzlich, sensibel, vielleicht sogar schüchtern. Er erzählt dir von seinen Traumata, seinen Verletzungen, seiner schwierigen Vergangenheit. Er braucht viel emotionale Unterstützung und reagiert extrem beleidigt auf die kleinsten Kritikpunkte. Auf der Oberfläche sieht das aus wie ein feinfühliger Mensch mit Problemen.
 

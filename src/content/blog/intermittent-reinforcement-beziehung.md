@@ -88,7 +88,7 @@ Du analysierst seine Nachrichten. "Schaute dieser 'haha' Smiley anders aus als s
 Du hast hundert Mal gesagt "Das war's", aber dann schreibt er etwas Nettes und du vergibst. Und wieder.
 
 **6. Deine Freunde verstehen nicht, warum du bleibst**
-Sie sehen von außen: "Das ist eine toxische Beziehung. Geh einfach weg." Aber du weißt, dass sie nicht verstehen, wie gut die guten Momente sich anfühlen.
+Sie sehen von außen: "Das ist eine [toxische Beziehung](/toxische-beziehung/). Geh einfach weg." Aber du weißt, dass sie nicht verstehen, wie gut die guten Momente sich anfühlen.
 
 **7. Du hast Entzugserscheinungen, wenn er sich nicht meldet**
 Angst, Panik, Obsession. Dass er sich nicht meldet, fühlt sich an, als würde die Welt zusammenbrechen. Das ist kein normales Beziehungs-Unbehagen. Das ist Sucht.
@@ -97,7 +97,7 @@ Angst, Panik, Obsession. Dass er sich nicht meldet, fühlt sich an, als würde d
 
 Dieser Typ Partner baut bewusst (oder unbewusst) ein Intermittent Reinforcement Muster auf:
 
-**Der Narzisst**
+**Der [Narzisst](/narzissmus/)**
 Er liebt dich während der "Idealisierungs-Phase". Dann folgt "Devalue" (plötzliche Herzlosigkeit). Dann verspricht er Besserung und du bekommst wieder liebevolle Aufmerksamkeit. Der Zyklus wiederholt sich. Du bleibst, weil du hoffst, dass die Idealisierungs-Phase zurückkommt.
 
 **Der Emotional Unavailable Guy/Girl**
@@ -131,7 +131,7 @@ Du musst verstehen: Das ist keine echte Liebe. Das ist Sucht. Dein Partner train
 **Schritt 2: Trenne dich**
 Es gibt kein "vielleicht später" oder "lass mich noch eine Chance geben". Es gibt nur: Geh.
 
-**Schritt 3: Echter No Contact**
+**Schritt 3: Echter [No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/)**
 Nicht "Ich blockiere ihn, aber lese seine Nachrichten, wenn er mir eine schreibt." Nicht "Ich mute seine Benachrichtigungen, aber folge ihm noch auf Instagram."
 
 **Echter No Contact bedeutet:**

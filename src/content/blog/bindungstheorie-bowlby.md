@@ -23,7 +23,7 @@ faq:
 
 Du fragst dich vielleicht, warum manche Menschen in Beziehungen ängstlich sind, während andere kühl wirken. Oder warum du bei Trennungen anders reagierst als dein bester Freund. Die Antwort liegt in einer Theorie, die vor über 70 Jahren entstand und bis heute unser Verständnis von Liebe und Beziehungen prägt: der Bindungstheorie.
 
-Wenn du jemals gehört hast, dass dein "Bindungsstil" deine Beziehungen beeinflusst, dann verdankst du das der bahnbrechenden Arbeit von John Bowlby. Dieser Mann hat unser Verständnis von emotionaler Nähe, Verlustangst und Liebe grundlegend verändert. Und das Interessante: Seine Forschung entstand nicht in einem Labor mit Versuchskaninchen, sondern aus echten Beobachtungen von Kindern und ihren Müttern.
+Wenn du jemals gehört hast, dass dein "[Bindungsstil](/bindungsstile/)" deine Beziehungen beeinflusst, dann verdankst du das der bahnbrechenden Arbeit von John Bowlby. Dieser Mann hat unser Verständnis von emotionaler Nähe, Verlustangst und Liebe grundlegend verändert. Und das Interessante: Seine Forschung entstand nicht in einem Labor mit Versuchskaninchen, sondern aus echten Beobachtungen von Kindern und ihren Müttern.
 
 In diesem Artikel nehmen wir dich mit auf eine Reise durch die Fundamente der modernen Beziehungspsychologie. Du wirst verstehen, wie und warum die Bindungstheorie entstanden ist, welche revolutionären Erkenntnisse sie gebracht hat und vor allem: Warum sie für deine eigenen Beziehungen heute noch relevant ist.
 

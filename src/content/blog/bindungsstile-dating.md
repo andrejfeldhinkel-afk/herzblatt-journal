@@ -45,7 +45,7 @@ Es gibt vier Bindungsstile, die sich im Dating zeigen:
 
 ## Der sichere Bindungsstil: Die Basis für gesunde Liebe
 
-Menschen mit sicherem Bindungsstil machen etwa 50–55 % der Bevölkerung aus. Sie können Nähe zulassen, ohne sich zu verlieren. Sie kommunizieren offen, wenn etwas sie stört, und fühlen sich nicht bedroht, wenn der Partner mal einen Abend für sich braucht.
+Menschen mit sicherem [Bindungsstil](/bindungsstile/) machen etwa 50–55 % der Bevölkerung aus. Sie können Nähe zulassen, ohne sich zu verlieren. Sie kommunizieren offen, wenn etwas sie stört, und fühlen sich nicht bedroht, wenn der Partner mal einen Abend für sich braucht.
 
 ### Wie du sicher gebundene Menschen erkennst
 
@@ -103,7 +103,7 @@ Die gute Nachricht: Dein Bindungsstil ist kein lebenslanges Urteil. Forschung ze
 
 ### Für ängstlich Gebundene
 
-Bevor du die nächste Nachricht schickst, halte kurz inne. Frag dich: Schreibe ich, weil ich etwas mitteilen will? Oder schreibe ich, weil ich Bestätigung brauche? Lerne, die Ungewissheit auszuhalten. Nicht jede Stille bedeutet Ablehnung. Und arbeite daran, dir selbst die Sicherheit zu geben, die du von anderen erwartest — das ist der Kern von [[selbstliebe](/blog/allein-vs-einsam/) im Dating](/hochsensibel-dating).
+Bevor du die nächste Nachricht schickst, halte kurz inne. Frag dich: Schreibe ich, weil ich etwas mitteilen will? Oder schreibe ich, weil ich Bestätigung brauche? Lerne, die Ungewissheit auszuhalten. Nicht jede Stille bedeutet Ablehnung. Und arbeite daran, dir selbst die Sicherheit zu geben, die du von anderen erwartest — das ist der Kern von [selbstliebe](/blog/allein-vs-einsam/) im Dating.
 
 Detaillierte Infos bietet Neurologen und Psychiater im Netz: [Neurologen und Psychiater im Netz](https://www.neurologen-und-psychiater-im-netz.org/)
 

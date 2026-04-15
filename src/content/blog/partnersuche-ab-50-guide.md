@@ -149,7 +149,7 @@ Wenn jemand schnell möchte dich zu treffen, dann nimm es zurück und fragt nach
 
 Wenn sie zu perfekt aussehen (Promi Bilder, perfekte Lächeln jede Zeit) — das ist ein Scam. Echte Menschen haben echte Fotos.
 
-Wenn sie dir zu schnell Liebe gestehen ("Ich habe dich nach drei Nachrichten geliebt") — das ist ein Red Flag.
+Wenn sie dir zu schnell Liebe gestehen ("Ich habe dich nach drei Nachrichten geliebt") — das ist ein [Red Flag](/red-flags/).
 
 Seien Sie skeptisch von zu-guter zu-sein-Wahrheit Profilen. Vertrau deinen Instinkten. Wenn es sich falsch anfühlt, es wahrscheinlich ist.
 

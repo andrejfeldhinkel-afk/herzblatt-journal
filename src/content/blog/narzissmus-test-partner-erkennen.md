@@ -79,7 +79,7 @@ Zum Beispiel: Er tut dir weh, dann macht sich selbst zum Opfer: "Du bist so herz
 
 Mit dir ist er lieblos, mit deinen Eltern charmant. Mit seinen Freunden ist er großzügig, aber dir gegenüber ist er geizig. Diese Inkonsistenz ist verdächtig.
 
-**Frage 19:** Benutzt dein Partner "stille Strafe" (Silent Treatment), um dich zu bestrafen?
+**Frage 19:** Benutzt dein Partner "stille Strafe" ([Silent Treatment](/blog/silent-treatment-bedeutung/)), um dich zu bestrafen?
 
 Silent Treatment ist emotionale Manipulation. Der Partner spricht einfach nicht mehr mit dir, um dich zu verletzen und zu kontrollieren. Lese mehr darüber [hier](/blog/silent-treatment-beziehung/).
 
@@ -175,7 +175,7 @@ Das Minimieren von Lügen und Täuschungen ist ein klassisches Narzissmus-Zeiche
 
 **Frage 41:** Zu Beginn der Beziehung warst du deinem Partner unglaublich wichtig — jetzt ignoriert er deine Bedürfnisse oft?
 
-Das ist das Lovebombing-Phänomen. Der Narzisst idealisiert dich zuerst, dann entwertert er dich langsam. Die Aufmerksamkeit war nie real — sie war ein Angelköder.
+Das ist das [Lovebombing](/blog/lovebombing-phasen/)-Phänomen. Der Narzisst idealisiert dich zuerst, dann entwertert er dich langsam. Die Aufmerksamkeit war nie real — sie war ein Angelköder.
 
 **Frage 42:** Wenn ihr Probleme habt, zeigt dein Partner kein wirkliches Interesse daran, sie zu lösen?
 
@@ -243,7 +243,7 @@ An diesem Punkt solltest du professionelle Hilfe in Betracht ziehen — nicht pr
 
 ### 101-150 Punkte: Sehr starke narzisstische Merkmale
 
-Dein Partner zeigt sehr starke narzisstische Merkmale, möglicherweise das Vollbild einer narzisstischen Persönlichkeitsstörung. Das Leben mit dieser Person ist wahrscheinlich leidvoll. Du erlebst wahrscheinlich ein Muster von Idealisierung und Abwertung, Gaslighting, Isolation und emotionalem Missbrauch.
+Dein Partner zeigt sehr starke narzisstische Merkmale, möglicherweise das Vollbild einer narzisstischen Persönlichkeitsstörung. Das Leben mit dieser Person ist wahrscheinlich leidvoll. Du erlebst wahrscheinlich ein Muster von Idealisierung und Abwertung, [Gaslighting](/blog/was-ist-gaslighting/), Isolation und emotionalem Missbrauch.
 
 An diesem Punkt ist dies nicht mehr eine akademische Frage. Das ist eine Frage deiner psychologischen Sicherheit. Du brauchst professionelle Unterstützung. Ernsthaft.
 
@@ -335,7 +335,7 @@ Das Problem: Grenzen funktionieren nicht bei Narzissten. Sie sehen Grenzen als H
 
 ### Option 3: Sich selbst schützen, während du in der Beziehung bleibst
 
-Das ist das "Grey Rock" -Muster oder die "unbewegliche emotionale Verfügbarkeit." Du bleibst in der Beziehung, aber du schützt dich emotional. Du antwortest emotional abgeflacht. Du weigert dich, Futter für seinen narzisstischen Hunger zu geben.
+Das ist das "[Grey Rock](/blog/grey-rock-methode-narzisst-guide/)" -Muster oder die "unbewegliche emotionale Verfügbarkeit." Du bleibst in der Beziehung, aber du schützt dich emotional. Du antwortest emotional abgeflacht. Du weigert dich, Futter für seinen narzisstischen Hunger zu geben.
 
 Das ist anstrengend und es ist nicht nachhaltig. Es ist wie, in einer giftigen Umgebung zu leben und zu hoffen, dass du nicht vergiftet wirst. Irgendwann wirst du das tun.
 
@@ -525,7 +525,7 @@ Wichtig: Dies bedeutet nicht, dass die Beziehung nicht wichtig war oder dass es 
 
 ### Praktische Tipps für die Heilung
 
-**No Contact ist König**
+**[No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/) ist König**
 
 Die beste Heilungsmethode ist, den Narzissten aus deinem Leben zu entfernen. Vollständig. Kein Texting, keine Anrufe, kein Stalking bei Instagram. Das ist schwierig, besonders wenn ihr Kinder zusammen habt, aber es ist am besten, so viel Kontakt wie möglich zu minimieren.
 

@@ -22,7 +22,7 @@ faq:
 
 ## Was ist Trauma Bonding? Die Definition
 
-Trauma Bonding ist nicht in deinem Wörterbuch, weil es kein offizieller medizinischer Begriff ist. Aber es ist verdammt real. Es ist eine intensive emotionale Bindung, die entsteht, wenn du wiederholt verletzt wirst und dann wieder belohnt wirst von derselben Person. Dein Gehirn wird buchstäblich um sie herum verdrahtet.
+[Trauma Bonding](/blog/trauma-bonding-loesen/) ist nicht in deinem Wörterbuch, weil es kein offizieller medizinischer Begriff ist. Aber es ist verdammt real. Es ist eine intensive emotionale Bindung, die entsteht, wenn du wiederholt verletzt wirst und dann wieder belohnt wirst von derselben Person. Dein Gehirn wird buchstäblich um sie herum verdrahtet.
 
 Stell dir vor, dein Partner ist liebevoll und unterstützend, dann wird er plötzlich grausam und verletzend, und dann ist er wieder liebevoll. Diese Achterbahn erschöpft dein System emotional und biochemisch, aber sie bindet dich auch immer enger. Du fängst an, die schmerzhaften Momente zu rechtfertigen und die guten Momente zu vergöttern.
 
@@ -148,7 +148,7 @@ Du kannst dich allein befreien. Aber professionelle Hilfe – entweder von einem
 
 Ein guter Therapeut kann dir helfen zu verstehen, warum du anfällig für Trauma Bonding warst. Sie können dir Werkzeuge geben, um mit Entzugssymptomen umzugehen. Sie können dir helfen, eine neue Identität aufzubauen.
 
-Die beste Therapie für Trauma Bonding ist EMDR (Eye Movement Desensitization and Reprocessing) oder IFS (Internal Family Systems). Diese arbeiten auf tiefere neurologische Ebenen und können dir helfen, die Bindung an die traumatische Person schneller zu trennen.
+Die beste Therapie für Trauma Bonding ist [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/) (Eye Movement Desensitization and Reprocessing) oder IFS (Internal Family Systems). Diese arbeiten auf tiefere neurologische Ebenen und können dir helfen, die Bindung an die traumatische Person schneller zu trennen.
 
 Aber selbst wenn du nur mit einem Freund sprichst, dem du vertraust, ist das hilfreich. Das Wichtigste ist, dass du nicht allein damit bist.
 

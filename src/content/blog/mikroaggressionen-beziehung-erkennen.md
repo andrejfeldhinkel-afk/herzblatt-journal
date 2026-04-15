@@ -31,7 +31,7 @@ Du antwortest nicht. Es ist „nichts". Aber etwas in dir zieht sich zusammen.
 
 Das ist eine Mikroaggression. Und sie ist einer der größten stillen Killers in modernen Beziehungen.
 
-Mikroaggressionen sind nicht Gaslighting. Sie sind nicht offen grausam. Sie sind nicht sofort zu erkennender Missbrauch. Sie sind subtil, oft unbewusst, und deshalb so gefährlich. Sie verletzen nicht wie ein Messer, sondern wie tausend Papierschnitte.
+Mikroaggressionen sind nicht [Gaslighting](/blog/was-ist-gaslighting/). Sie sind nicht offen grausam. Sie sind nicht sofort zu erkennender Missbrauch. Sie sind subtil, oft unbewusst, und deshalb so gefährlich. Sie verletzen nicht wie ein Messer, sondern wie tausend Papierschnitte.
 
 In diesem Artikel zeige ich dir, was Mikroaggressionen sind, wie du sie in deiner Beziehung erkennst (vielleicht begehst du sie sogar selbst), und vor allem: wie ihr sie als Paar stoppt. Denn das ist möglich. Aber nur wenn du das Problem erst sehen kannst.
 

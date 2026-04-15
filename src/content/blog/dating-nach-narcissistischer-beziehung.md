@@ -32,7 +32,7 @@ Diese subtileren Zeichen sind schwerer zu erkennen, weil sie auf den ersten Blic
 
 ## Die Macht der Intuition nach Trauma
 
-Eine der wichtigsten Fähigkeiten, die du entwickeln kannst, nachdem du eine narzisstische Beziehung verlassen hast, ist die Rückkehr zu deiner Intuition. Vor der narzisstischen Beziehung hattest du wahrscheinlich eine gute Intuition. Der Narzisst hat diese systematisch zerstört, indem er dir nicht vertraut hat, wenn du etwas falsch empfunden hast.
+Eine der wichtigsten Fähigkeiten, die du entwickeln kannst, nachdem du eine [narzisstische Beziehung](/narzissmus/) verlassen hast, ist die Rückkehr zu deiner Intuition. Vor der narzisstischen Beziehung hattest du wahrscheinlich eine gute Intuition. Der Narzisst hat diese systematisch zerstört, indem er dir nicht vertraut hat, wenn du etwas falsch empfunden hast.
 
 Jetzt musst du wieder lernen, deiner Intuition zu vertrauen. Wenn etwas sich merkwürdig anfühlt, ist es merkwürdig. Du brauchst nicht zu verstehen, warum. Du brauchst nicht, dass jemand anderes es validiert. Wenn dein Nervensystem einen Alarm auslöst, höre hin.
 
@@ -68,7 +68,7 @@ All dies erzeugt ein psychologisches Trauma. Dein Nervensystem ist beschädigt. 
 
 ## Die Falle des Trauma Bonding
 
-Eine der gefährlichsten Auswirkungen einer narzisstischen Beziehung ist eine psychologische Reaktion, die als "Trauma Bonding" bekannt ist. Das ist, wenn du dich in einer intensiven, dysfunktionalen emotionalen Bindung zu der Person befindest, die dich missbraucht.
+Eine der gefährlichsten Auswirkungen einer narzisstischen Beziehung ist eine psychologische Reaktion, die als "[Trauma Bonding](/blog/trauma-bonding-loesen/)" bekannt ist. Das ist, wenn du dich in einer intensiven, dysfunktionalen emotionalen Bindung zu der Person befindest, die dich missbraucht.
 
 Das Trauma Bonding entsteht durch ein Muster von Missbrauch und Belohnung. Der Narzisst missbraucht dich emotional oder psychologisch. Du bist verletzt, verängstigt, niedergeschlagen. Dann, plötzlich, wird der Narzisst liebevoll. Er entschuldigt sich (ohne es wirklich zu meinen). Er sagt dir, dass er dich liebt. Er gibt dir auf einmal Aufmerksamkeit. Dein Nervensystem beruhigt sich. Die Erleichterung ist überwältigend. Das ist eine starke neurologische Reaktion, und sie spielt sich immer wieder ab.
 
@@ -76,7 +76,7 @@ Diese Zyklen – Missbrauch-Trost-Erleichterung – erzeugen eine starke Bindung
 
 Der Trauma Bond ist einer der Gründe, warum es so schwer ist, eine narzisstische Beziehung zu beenden, auch wenn du weißt, dass sie unhealthy ist. Die Bindung ist neurobiologisch real, nicht nur emotional. Es ist nicht einfach nur "der Liebe wegen" – es ist tatsächlich ein traumatisches Bindungsmuster.
 
-Und hier ist das Problem: Wenn du nicht mit diesem Trauma Bond arbeitest, wirst du unbewusst ein ähnliches Muster mit einem neuen Partner suchen. Du wirst dich zu Personen hingezogen fühlen, die Love Bombing-Verhalten aufweisen, auch wenn es dich kontrolliert und verletzt. Dein Nervensystem gewöhnt sich an dieses Auf-und-Ab. Gesunde, konsequente Liebe wird dir langweilig oder sogar beängstigend vorkommen.
+Und hier ist das Problem: Wenn du nicht mit diesem Trauma Bond arbeitest, wirst du unbewusst ein ähnliches Muster mit einem neuen Partner suchen. Du wirst dich zu Personen hingezogen fühlen, die [Love Bombing](/blog/lovebombing-phasen/)-Verhalten aufweisen, auch wenn es dich kontrolliert und verletzt. Dein Nervensystem gewöhnt sich an dieses Auf-und-Ab. Gesunde, konsequente Liebe wird dir langweilig oder sogar beängstigend vorkommen.
 
 ## Anziehung zu Narzissten: Eine unglückliche Verbindung
 

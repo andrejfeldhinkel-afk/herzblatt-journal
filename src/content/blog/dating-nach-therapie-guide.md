@@ -52,7 +52,7 @@ Nicht alle Therapien sind gleich. Und das bedeutet, dass dein Ausgangspunkt unte
 
 **Du kommst aus einer Glaubenssätze-Therapie.** Du hast gelernt, dass du nicht "genug" bist. Du hast gelernt, dass Liebe Leiden bedeutet. Jetzt lernst du um. Das ist die subtilere, aber oft wichtigere Arbeit.
 
-**Du kommst aus einer Bindungstherapie.** Du verstehst jetzt, wie dein Bindungsstil deine Beziehungen sabotiert. Das ist eine der beste Erkenntnisse fürs Dating — wenn du weißt, dass du avoidant bist, kannst du bewusst gegen dein Instinkt arbeiten.
+**Du kommst aus einer Bindungstherapie.** Du verstehst jetzt, wie dein [Bindungsstil](/bindungsstile/) deine Beziehungen sabotiert. Das ist eine der beste Erkenntnisse fürs Dating — wenn du weißt, dass du avoidant bist, kannst du bewusst gegen dein Instinkt arbeiten.
 
 In jedem Fall: Das erste Dating nach Therapie fühlt sich anders an. Und das ist ein gutes Zeichen.
 
@@ -80,7 +80,7 @@ Therapie lehrte dich, deine Muster zu sehen. Hier sind die häufigsten, die nach
 
 **Das Retten-Muster.** Du findest jemanden, der "kaputt" ist, und du wirst zum Heiler. Das fühlt sich nach Liebe an, ist aber Rettung. Nach Therapie solltest du erkennen: "Ich bin hier, um jemanden zu lieben, nicht zu reparieren."
 
-**Das Avoidance-Pattern.** Du wählst Menschen, die "sicher" sind — nämlich weil sie emotional nicht verfügbar sind. Das gibt dir Raum, aber es gibt dir auch keine echte Liebe. Wenn dich jemand anzieht, weil er distanziert ist — Red Flag.
+**Das Avoidance-Pattern.** Du wählst Menschen, die "sicher" sind — nämlich weil sie emotional nicht verfügbar sind. Das gibt dir Raum, aber es gibt dir auch keine echte Liebe. Wenn dich jemand anzieht, weil er distanziert ist — [Red Flag](/red-flags/).
 
 **Das Aufgeben-Muster.** Du gibst alles für jemanden auf — deinen Job, deine Freunde, deine Hobbys — und schuldest ihnen Treue. Das ist keine Liebe. Das ist Selbstaufgabe.
 

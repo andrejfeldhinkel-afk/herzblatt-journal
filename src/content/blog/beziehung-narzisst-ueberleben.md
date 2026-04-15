@@ -20,7 +20,7 @@ draft: false
 
 Eine Beziehung mit einem Narzissten ist wie das Pflanzen einer Rose, die nur Dornen trägt. Du bemerkst die Schönheit am Anfang, aber je näher du kommst, desto mehr schneidest du dich. Der narzisstische Partner ist nicht einfach egoistisch oder manchmal schwierig—er hat eine grundlegend andere Wahrnehmung von Beziehungen, in der deine Bedürfnisse nicht wirklich zählen.
 
-Das tückische an narzisstischen Beziehungen ist ihre Unauffälligkeit am Anfang. Der Narzisst wirkt charmant, interessiert und aufmerksam. Du fühlst dich gesehen und verstanden, manchmal sogar idealisiert. Das ist nicht Zufall. Der Narzisst hat gelernt, genau die Maske zu tragen, die Menschen anzieht.
+Das tückische an narzisstischen Beziehungen ist ihre Unauffälligkeit am Anfang. Der [Narzisst](/narzissmus/) wirkt charmant, interessiert und aufmerksam. Du fühlst dich gesehen und verstanden, manchmal sogar idealisiert. Das ist nicht Zufall. Der Narzisst hat gelernt, genau die Maske zu tragen, die Menschen anzieht.
 
 Was diese Maske verbirgt, ist ein tiefes Loch, das ständig gefüllt werden muss. Der Narzisst braucht Bewunderung wie andere Menschen Luft brauchen. Und wo findet er diese Bewunderung am leichtesten? Bei der Person, die er liebt oder zu lieben vorgibt. Denn bei dir fühlt er sich sicher, diese Maske zu tragen.
 
@@ -96,7 +96,7 @@ Das bedeutet, dass du anfangen musst, deine Grenzen zu respektieren. Ein "Nein" 
 
 ## No Contact: Die einzige funktionierende Lösung
 
-Für die meisten Menschen, die aus narzisstischen Beziehungen herauskommen, ist "No Contact" nicht verhandelbar. Das bedeutet keine Anrufe, keine SMS, keine zufälligen Treffen, kein Stalking in sozialen Medien.
+Für die meisten Menschen, die aus narzisstischen Beziehungen herauskommen, ist "[No Contact](/blog/ex-zurueckgewinnen-psychologische-strategien/)" nicht verhandelbar. Das bedeutet keine Anrufe, keine SMS, keine zufälligen Treffen, kein Stalking in sozialen Medien.
 
 Das ist schwer. Es wird sich anfühlen, als würdest du von deinem eigenen Herzen abspalten. Aber die Wahrheit ist, dass jeder Kontakt, auch der "harmlose", dich zurück in seine Reichweite zieht. Eine SMS kann zu einer Besuche führen. Ein Besuch kann zu einer neuen Runde von Manipulation führen.
 

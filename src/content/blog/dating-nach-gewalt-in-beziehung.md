@@ -25,7 +25,7 @@ faq:
 
 Wenn du hier bist, weil du in einer missbräuchlichen Beziehung warst – erst mal: Ich sehe dich, und ich bin stolz auf dich, dass du gegangen bist. Das war die richtige Wahl, selbst wenn es sich nicht so anfühlt.
 
-Vielleicht liest du das ein paar Monate nach der [Red Flags](/blog/dating-red-flags-maenner-erkennen). Das Problem ist: Du kannst nicht unterscheiden zwischen echten Red Flags und deiner Hypervigilanz.
+Vielleicht liest du das ein paar Monate nach der [Red Flags](/blog/dating-red-flags-maenner-erkennen). Das Problem ist: Du kannst nicht unterscheiden zwischen echten [Red Flags](/red-flags/) und deiner Hypervigilanz.
 
 **Wie du die Unterscheidung machst:**
 
@@ -230,7 +230,7 @@ Die wichtigste Sache, die du wissen musst: Du bist nicht allein. Es gibt massive
 **Therapie-Optionen:**
 
 - **Trauma-focused CBT:** Kognitiv-Behaviorale Therapie spezialisiert auf Trauma
-- **EMDR:** Eye Movement Desensitization and Reprocessing – sehr effektiv für Trauma-Processing
+- **[EMDR](/blog/emdr-beziehungstrauma-heilen-guide/):** Eye Movement Desensitization and Reprocessing – sehr effektiv für Trauma-Processing
 - **Somatic Experiencing:** Arbeitet mit deinem Körper, um Trauma zu heilen
 - **Internal Family Systems (IFS):** Arbeitet mit verschiedenen "Teilen" von dir, die auf Trauma reagieren
 

@@ -134,7 +134,7 @@ Zu den Stabilisierungs-Werkzeugen gehören: Atemübungen, Erdungstechniken, die 
 
 ### Phase 3: Verarbeiten
 
-Erst wenn du stabil stehst, geht es an die eigentliche Arbeit: das Trauma anschauen und durchfühlen. Das ist die Phase, in der du dringend professionelle Unterstützung brauchst. Methoden, die hier nachweislich helfen, sind unter anderem EMDR, Somatic Experiencing, Internal Family Systems, sensomotorische Psychotherapie, körperorientierte Verfahren.
+Erst wenn du stabil stehst, geht es an die eigentliche Arbeit: das Trauma anschauen und durchfühlen. Das ist die Phase, in der du dringend professionelle Unterstützung brauchst. Methoden, die hier nachweislich helfen, sind unter anderem [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/), Somatic Experiencing, Internal Family Systems, sensomotorische Psychotherapie, körperorientierte Verfahren.
 
 In dieser Phase weinst du viel. Du erinnerst dich an Dinge, die du vergessen hattest. Du wirst wütend, traurig, verzweifelt. Aber: Du verarbeitest. Das, was vorher festgefroren war, wird flüssig und kann sich auflösen.
 

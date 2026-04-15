@@ -397,7 +397,7 @@ Das ist schwierig Arbeit. Aber es ist notwendig.
 
 Fast alle Projektion kommt von deiner Vergangenheit.
 
-Der Narzisst, der dich manipulierte, lehrt dich, dass Menschen nicht zu trauen sind. Jetzt projizierst du Narzissmus überall.
+Der Narzisst, der dich manipulierte, lehrt dich, dass Menschen nicht zu trauen sind. Jetzt projizierst du [Narzissmus](/narzissmus/) überall.
 
 Der Elternteil, der abgewiesen hat, lehrt dich, dass Liebe nicht zuverlässig ist. Jetzt interpretierst du jede Distanz als Ablehnung.
 

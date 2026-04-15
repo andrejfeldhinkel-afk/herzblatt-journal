@@ -86,7 +86,7 @@ Das macht die Rückkehr besonders.
 
 Manchmal wird dein Partner nicht begeistert sein von der Idee von getrennten Urlauben. Das ist okay. Das bedeutet nicht, dass er oder sie herzlos ist.
 
-Es könnte bedeuten, dass dieser Partner Angst hat vor Trennung — vielleicht hat dieser Partner einen ängstlichen Bindungsstil und fürchtet, dass wenn du gehst, du nicht zurückkommst.
+Es könnte bedeuten, dass dieser Partner Angst hat vor Trennung — vielleicht hat dieser Partner einen ängstlichen [Bindungsstil](/bindungsstile/) und fürchtet, dass wenn du gehst, du nicht zurückkommst.
 
 In diesem Fall: Geduld. Sicherung geben. "Ich komme zurück. Das ändert nichts zwischen uns."
 

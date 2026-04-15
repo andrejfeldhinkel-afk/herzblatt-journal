@@ -613,7 +613,7 @@ Nein. Es gibt immer noch Menschen, die nicht zu dir passen. Ambiversion bedeutet
 
 Das kann sein, aber nicht immer. Ein ängstlicher Ambivert könnte schlechter sein als ein sicherer Introvertierter.
 
-Der Fokus ist dein Bindungsstil, nicht deine Ambiversion.
+Der Fokus ist dein [Bindungsstil](/bindungsstile/), nicht deine Ambiversion.
 
 ## Dein Ambivert-Dating-Plan: Woche für Woche
 

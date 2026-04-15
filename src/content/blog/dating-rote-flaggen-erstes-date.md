@@ -36,7 +36,7 @@ Noch schlimmer: Wenn die Person ständig ihre Ex schlecht macht. „Sie war eine
 
 ## 2. Unhöflichkeit zu Servicepersonal oder anderen Menschen
 
-Das ist eine der verlässlichsten Red Flags. Schau wie die Person zum Kellner/zur Kellnerin spricht. Schau wie sie mit anderen Menschen umgeht, die sie nicht beeindrucken muss.
+Das ist eine der verlässlichsten [Red Flags](/red-flags/). Schau wie die Person zum Kellner/zur Kellnerin spricht. Schau wie sie mit anderen Menschen umgeht, die sie nicht beeindrucken muss.
 
 Menschen die unhöflich zu Servicepersonal sind, sind unhöflich zu Menschen, die keine Kraft über sie haben. Das bedeutet dass diese Menschen auch dir gegenüber unhöflich werden können, wenn du erstmal zu ihrer Familie gehörst — also wenn sie dich „haben".
 

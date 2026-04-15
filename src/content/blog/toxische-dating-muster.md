@@ -66,7 +66,7 @@ Das Muster sieht so aus: Du dateest eine großartige Person. Sie hat Fehler — 
 
 „Sie ist perfekt, aber sie hat ein seltsames Lachen."
 „Er ist intelligent, aber er verdient nicht genug."
-„Sie ist liebevoll, aber sie hat Bindungsangst von ihrer Vergangenheit."
+„Sie ist liebevoll, aber sie hat [Bindungsangst](/blog/bindungsangst-komplett-guide/) von ihrer Vergangenheit."
 
 Und dann denkst du: „Wenn ich nur jemanden finde, der alles hat, ohne einen Fehler, dann wird alles funktionieren."
 

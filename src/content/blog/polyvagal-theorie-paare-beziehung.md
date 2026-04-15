@@ -212,7 +212,7 @@ Partnerübung: Summt gemeinsam eine Melodie. Ein einfaches "mmm" auf einer stabi
 
 Lege deine Hände überkreuzt auf deine Brust, sodass die Fingerspitzen die Schlüsselbeine berühren. Klopfe abwechselnd mit der rechten und linken Hand sanft auf dein Brustbein, wie ein Schmetterling, der mit den Flügeln schlägt. Langsam, rhythmisch, etwa eine Minute.
 
-Diese bilaterale Stimulation ist aus der EMDR-Therapie bekannt und hilft, überschießende Aktivierung zu beruhigen. Gleichzeitig ist die Position eine selbsttröstende Geste, die das System als sicher liest.
+Diese bilaterale Stimulation ist aus der [EMDR](/blog/emdr-beziehungstrauma-heilen-guide/)-Therapie bekannt und hilft, überschießende Aktivierung zu beruhigen. Gleichzeitig ist die Position eine selbsttröstende Geste, die das System als sicher liest.
 
 ### Übung 5: Füße spüren
 
@@ -374,6 +374,6 @@ In deiner Beziehung ist das die beste Frage, die du stellen kannst. Was braucht 
 
 Die Antwort darauf ist oft nicht spektakulär. Ein Blick. Eine Hand. Ein Atemzug zusammen. Eine Minute Stille. Das sind die Mikro-Gesten, aus denen sichere Bindung besteht. Und sichere Bindung ist das, was Nervensysteme am dringendsten brauchen — deins, seins, alle.
 
-Verwandte Lektüre im Herzblatt Journal: Wenn du tiefer in die Welt der Bindungsstile einsteigen willst, lies [Ängstlicher Bindungsstil heilen](/blog/aengstlicher-bindungsstil-heilen/). Wenn dich der Zusammenhang zwischen Kindheitserfahrungen und Partnerschaft interessiert, schau dir [Bindungstrauma bei Erwachsenen heilen](/blog/bindungstrauma-heilen-erwachsene/) an. Und wenn du konkret an Konfliktkommunikation arbeiten willst, hilft dir [Gewaltfreie Kommunikation in der Beziehung](/blog/gewaltfreie-kommunikation-beziehung/) als praktischer Einstieg.
+Verwandte Lektüre im Herzblatt Journal: Wenn du tiefer in die Welt der [Bindungsstile](/bindungsstile/) einsteigen willst, lies [Ängstlicher Bindungsstil heilen](/blog/aengstlicher-bindungsstil-heilen/). Wenn dich der Zusammenhang zwischen Kindheitserfahrungen und Partnerschaft interessiert, schau dir [Bindungstrauma bei Erwachsenen heilen](/blog/bindungstrauma-heilen-erwachsene/) an. Und wenn du konkret an Konfliktkommunikation arbeiten willst, hilft dir [Gewaltfreie Kommunikation in der Beziehung](/blog/gewaltfreie-kommunikation-beziehung/) als praktischer Einstieg.
 
 Deine Beziehung ist ein Nervensystem-Duett. Je besser ihr euer gemeinsames Instrument stimmt, desto schöner klingt der Song, den ihr zusammen spielen könnt. Die Polyvagal-Theorie gibt dir die Stimmgabel. Den Rest spielt ihr selbst.

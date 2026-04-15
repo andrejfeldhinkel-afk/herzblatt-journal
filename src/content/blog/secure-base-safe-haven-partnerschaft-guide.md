@@ -176,7 +176,7 @@ Das Circle of Security wird oft als Modell für Kinder und ihre Eltern gelehrt. 
 
 ## Wie unterschiedliche Bindungsstile Sicherheit bieten und empfangen
 
-Nicht jeder bietet oder empfängt Sicherheit auf die gleiche Weise. Dein Bindungsstil beeinflusst dies.
+Nicht jeder bietet oder empfängt Sicherheit auf die gleiche Weise. Dein [Bindungsstil](/bindungsstile/) beeinflusst dies.
 
 Eine sicher gebundene Person kann sehr natürlich eine Secure Base anbieten. Sie wird nicht eifersüchtig oder bedroht von deinem Wachstum. Sie wird nicht zornig, wenn du Grenzen setzt. Sie wird sagen: "Ich will, dass du glücklich bist, auch wenn das bedeutet, dass du ohne mich Dinge tust."
 

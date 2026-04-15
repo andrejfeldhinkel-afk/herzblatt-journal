@@ -71,7 +71,7 @@ Also denken sie ständig: „Mein Partner wird jemanden finden, der besser ist. 
 
 Das ist ein brutales inneres Gespräch. Und es führt zu Eifersucht.
 
-**Ursache 3: Unsichere Bindungsstile**
+**Ursache 3: Unsichere [Bindungsstile](/bindungsstile/)**
 
 Menschen mit anxious attachment oder avoidant attachment haben größere Angst vor Verlassenwerden.
 
