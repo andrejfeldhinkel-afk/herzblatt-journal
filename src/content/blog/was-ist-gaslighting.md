@@ -16,7 +16,7 @@ faq:
   - question: "Was ist Gaslighting in einfachen Worten?"
     answer: "Gaslighting ist eine Form psychologischer Manipulation, bei der jemand gezielt deine Wahrnehmung der Realität in Frage stellt. Ziel ist es, dich so zu verunsichern, dass du deinen eigenen Erinnerungen, Gefühlen und Urteilen nicht mehr traust — und dich stattdessen auf die Version des Manipulators verlässt."
   - question: "Woher kommt der Begriff Gaslighting?"
-    answer: "Der Begriff stammt aus dem Theaterstück und Film „Gas Light" von 1938 bzw. 1944. Darin dimmt ein Ehemann heimlich die Gaslampen im Haus und bestreitet gleichzeitig, dass sie dunkler werden. So bringt er seine Frau dazu, an ihrem Verstand zu zweifeln. Die Psychologie übernahm das Bild für reale Manipulationsdynamiken."
+    answer: "Der Begriff stammt aus dem Theaterstück und Film „Gas Light“ von 1938 bzw. 1944. Darin dimmt ein Ehemann heimlich die Gaslampen im Haus und bestreitet gleichzeitig, dass sie dunkler werden. So bringt er seine Frau dazu, an ihrem Verstand zu zweifeln. Die Psychologie übernahm das Bild für reale Manipulationsdynamiken."
   - question: "Ist Gaslighting immer absichtlich?"
     answer: "Nicht immer. Manche Menschen gaslighten aus Narzissmus und strategischem Kalkül — andere wurden selbst so sozialisiert und wiederholen das Muster unbewusst. Die Wirkung auf das Opfer ist aber gleich zerstörerisch, weshalb die Absicht für deinen Selbstschutz zweitrangig ist."
   - question: "Wie lange dauert die Heilung von Gaslighting?"

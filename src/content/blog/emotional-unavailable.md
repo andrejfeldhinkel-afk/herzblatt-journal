@@ -16,7 +16,7 @@ faq:
   - question: "Was bedeutet emotional unverfügbar?"
     answer: "Emotional unverfügbar beschreibt einen Menschen, der Schwierigkeiten hat, tiefere Gefühle zuzulassen, zu zeigen oder in Beziehung damit zu treten. Das äußert sich in Vermeidung von Nähe, oberflächlicher Kommunikation bei emotionalen Themen, fehlender Verlässlichkeit in Krisen oder dem Abwehren von Bindung, sobald sie zu verpflichtend wird."
   - question: "Ist emotionale Unverfügbarkeit heilbar?"
-    answer: "Ja, aber nur wenn der betroffene Mensch selbst Leidensdruck hat und bereit ist zu arbeiten. Typisch wirksam sind bindungsorientierte Therapieansätze, die die ursprünglichen Schutzmuster entschlüsseln. Ohne Eigenmotivation lässt sich emotionale Unverfügbarkeit nicht von außen „auflösen" — auch nicht durch noch so viel Liebe."
+    answer: "Ja, aber nur wenn der betroffene Mensch selbst Leidensdruck hat und bereit ist zu arbeiten. Typisch wirksam sind bindungsorientierte Therapieansätze, die die ursprünglichen Schutzmuster entschlüsseln. Ohne Eigenmotivation lässt sich emotionale Unverfügbarkeit nicht von außen „auflösen“ — auch nicht durch noch so viel Liebe."
   - question: "Woran erkenne ich einen emotional unverfügbaren Partner früh?"
     answer: "Frühe Zeichen sind: Rückzug nach intensiver Nähe, Vermeidung ernsthafter Gespräche, Bagatellisierung eigener Gefühle, Kommunikation nur über Humor oder Sarkasmus, inkonsistente Verfügbarkeit (mal sehr nah, mal kaum erreichbar) und das Gefühl, dass du emotional mehr investierst als dein Gegenüber."
   - question: "Sollte ich bleiben oder gehen, wenn mein Partner emotional unverfügbar ist?"
