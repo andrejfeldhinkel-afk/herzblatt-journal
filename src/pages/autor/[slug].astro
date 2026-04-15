@@ -33,7 +33,16 @@ const personSchema = {
     "@type": "Organization",
     "name": "Herzblatt Journal",
     "url": "https://herzblatt-journal.com"
-  }
+  },
+  ...((author as any).knowsAbout ? { "knowsAbout": (author as any).knowsAbout } : {}),
+  ...((author as any).alumniOf ? {
+    "alumniOf": {
+      "@type": "EducationalOrganization",
+      "name": (author as any).alumniOf
+    }
+  } : {}),
+  ...((author as any).credentials ? { "hasCredential": (author as any).credentials } : {}),
+  "knowsLanguage": "de"
 };
 ---
 
@@ -67,7 +76,7 @@ const personSchema = {
     </div>
 
     <!-- Stats -->
-    <div class="grid grid-cols-2 gap-4 mb-10">
+    <div class="grid grid-cols-2 sm:grid-cols-3 gap-4 mb-10">
       <div class="rounded-xl p-4 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);">
         <p class="text-2xl font-bold" style="color: var(--color-primary-600); font-family: var(--font-serif);">{allPosts.length}</p>
         <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Artikel veröffentlicht</p>
@@ -76,7 +85,44 @@ const personSchema = {
         <p class="text-2xl font-bold" style="color: var(--color-primary-600); font-family: var(--font-serif);">{author.expertise.length}</p>
         <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Themengebiete</p>
       </div>
+      {(author as any).yearsExperience && (
+        <div class="rounded-xl p-4 text-center" style="background: var(--bg-soft); border: 1px solid var(--border);">
+          <p class="text-2xl font-bold" style="color: var(--color-primary-600); font-family: var(--font-serif);">{(author as any).yearsExperience}+</p>
+          <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Jahre Erfahrung</p>
+        </div>
+      )}
     </div>
+
+    {(author as any).credentials && (author as any).credentials.length > 0 && (
+      <section class="mb-10 rounded-xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+        <h2 class="text-lg font-bold mb-4 flex items-center gap-2" style="color: var(--text); font-family: var(--font-serif);">
+          <span style="color: var(--color-primary-600);">🎓</span>
+          Qualifikationen & Credentials
+        </h2>
+        <ul class="space-y-2">
+          {(author as any).credentials.map((c: string) => (
+            <li class="flex items-start gap-2 text-sm" style="color: var(--text-muted);">
+              <span style="color: var(--color-primary-600); flex-shrink: 0; line-height: 1.5;">✓</span>
+              <span>{c}</span>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {(author as any).knowsAbout && (author as any).knowsAbout.length > 0 && (
+      <section class="mb-10 rounded-xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
+        <h2 class="text-lg font-bold mb-4 flex items-center gap-2" style="color: var(--text); font-family: var(--font-serif);">
+          <span style="color: var(--color-primary-600);">📚</span>
+          Fachliche Schwerpunkte
+        </h2>
+        <div class="flex flex-wrap gap-2">
+          {(author as any).knowsAbout.map((k: string) => (
+            <span class="text-xs px-3 py-1.5 rounded-full font-medium" style="background: var(--bg); color: var(--text); border: 1px solid var(--border);">{k}</span>
+          ))}
+        </div>
+      </section>
+    )}
 
     <!-- Articles -->
     <h2 class="text-2xl font-bold mb-6" style="color: var(--text); font-family: var(--font-serif);">Alle Artikel von {author.name}</h2>
