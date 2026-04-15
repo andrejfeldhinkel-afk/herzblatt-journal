@@ -31,7 +31,7 @@ Dieser Artikel zeigt dir 15 Warnsignale, die in der paarpsychologischen Forschun
 
 ### 1. Lovebombing: Zuviel zu früh
 
-Nach drei Dates redet er über Urlaub nächstes Jahr, über deine Hochzeit, über die Vornamen der Kinder. Du bist geschmeichelt — aber sei wachsam. Gesunde Beziehungen wachsen langsam. Extreme Intensität am Anfang ist laut aktueller Paarforschung ein starker Prädiktor für spätere Kontroll- oder narzisstische Dynamiken.
+Nach drei Dates redet er über Urlaub nächstes Jahr, über deine Hochzeit, über die Vornamen der Kinder. Du bist geschmeichelt — aber sei wachsam. Gesunde Beziehungen wachsen langsam. Extreme Intensität am Anfang ist laut aktueller Paarforschung ein starker Prädiktor für spätere Kontroll- oder narzisstische Dynamiken. Die vier Phasen des [Lovebombings haben wir hier detailliert analysiert](/blog/lovebombing-phasen/) — inklusive der verräterischen Zeichen, die zeigen, wann aus Zuneigung Manipulation wird.
 
 ### 2. Umgang mit Servicepersonal
 
@@ -69,7 +69,7 @@ Du sprichst ein Problem an, er schweigt. Stunden, Tage. Kein Gespräch, kein Auf
 
 ### 10. Du entschuldigst dich für Dinge, die nicht deine Schuld sind
 
-Plötzlich bittest du um Verzeihung, obwohl du eigentlich enttäuscht warst. Plötzlich fühlst du dich schuldig, obwohl er dich verletzt hat. Dieses Umkippen der Verantwortung heißt DARVO und ist ein Kernsignal manipulativer Partner.
+Plötzlich bittest du um Verzeihung, obwohl du eigentlich enttäuscht warst. Plötzlich fühlst du dich schuldig, obwohl er dich verletzt hat. Dieses Umkippen der Verantwortung heißt [DARVO](/blog/darvo-manipulation-beziehung-erkennen/) und ist ein Kernsignal manipulativer Partner — eng verwandt mit [Gaslighting](/blog/was-ist-gaslighting/).
 
 ## Red Flags in der Tiefe
 

@@ -46,7 +46,7 @@ Die Unterscheidung ist wichtig: **Lovebombing ist nicht Liebe. Es ist Kontrolle 
 
 Menschen betreiben Lovebombing aus verschiedenen Gründen, und nicht alle sind bewusst böswillig:
 
-**1. Unsichere Bindungsstile:** Menschen mit desorganisierten oder vermeidenden Bindungsmustern versuchen oft, Nähe durch Überforderung statt Echtheit zu schaffen. Sie haben gelernt, dass extreme Gesten = Sicherheit.
+**1. Unsichere Bindungsstile:** Menschen mit desorganisierten oder [vermeidenden Bindungsmustern](/blog/vermeidender-bindungsstil/) versuchen oft, Nähe durch Überforderung statt Echtheit zu schaffen. Sie haben gelernt, dass extreme Gesten = Sicherheit.
 
 **2. Narzisstische Tendenzen:** Der narzisstische Typ braucht konstante Bewunderung und Kontrolle. Lovebombing ist der perfekte Köder — du wirst abhängig von seiner Bestätigung.
 

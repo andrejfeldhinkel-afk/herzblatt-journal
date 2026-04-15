@@ -24,7 +24,7 @@ faq:
 
 Diese fünf Wörter sind unter den gefürchtetsten in einer Beziehung. Sind wir zusammen? Sind wir auseinander? Darf ich andere Leute daten? Wird sie mich vermissen und zurückkommen?
 
-Eine Beziehungspause ist emotional komplex, oft schlecht definiert und kann zu noch mehr Schmerz führen – wenn sie nicht richtig gemacht wird. Dieser Guide wird dir zeigen, wie.
+Eine Beziehungspause ist emotional komplex, oft schlecht definiert und kann zu noch mehr Schmerz führen – wenn sie nicht richtig gemacht wird. Eine Beziehungspause ist auch nicht dasselbe wie eine [verarbeitete Trennung](/blog/trennung-verarbeiten/) — der Unterschied ist die offene Tür. Dieser Guide zeigt dir, wie eine Pause funktioniert, welche Regeln wirklich wichtig sind und wann sie sinnvoll ist — und wann sie nur eine langsame Trennung hinausschiebt.
 
 ## Was ist eine Beziehungspause wirklich?
 
@@ -35,6 +35,8 @@ Das Ziel ist normalerweise einer von zwei Dingen:
 2. Zeit zu geben, um zu entscheiden, ob die Beziehung es wert ist zu retten
 
 Manchmal funktioniert es. Manchmal ist es nur ein langsames Sterben.
+
+Wenn eure Kommunikation schon eingefroren ist oder einer von euch systematisch mit [Silent Treatment](/blog/silent-treatment-bedeutung/) reagiert, dann ist eine Pause oft gefährlicher als hilfreich — dann braucht ihr Paartherapie, nicht Distanz.
 
 ## Warum Menschen Beziehungspausen nehmen
 

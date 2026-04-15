@@ -1,6 +1,6 @@
 ---
-title: "Die 5 Sprachen der Liebe im Alltag"
-description: "Die 5 Sprachen der Liebe: Verstehe und nutze sie, um deine Beziehung zu vertiefen und deine Partnerin oder deinen Partner zu verstehen."
+title: "Love Languages: Welche 5 Sprachen der Liebe es gibt"
+description: "Welche Love Languages gibt es? Die 5 Sprachen der Liebe nach Gary Chapman: Worte, Zeit, Geschenke, Taten, Berührung — mit Beispielen und Selbsttest."
 date: 2025-12-02
 tags:
   - "Beziehung"
@@ -21,7 +21,9 @@ faq:
   - question: "Wie finde ich meine Liebessprache heraus?"
     answer: "Denke darüber nach, was dich am glücklichsten in einer Beziehung macht. Was vermisst du am meisten, wenn es nicht da ist? Wenn dein Partner lange arbeitet und wenig Zeit mit dir verbringt, vermisst du Qualitätszeit? Wenn er dir nie Komplimente macht, vermisst du Worte der Bestätigung? Das ist ein Hinweis auf deine Liebessprache."
 ---
-Der Psychologe Gary Chapman hat eine revolutionäre Idee eingeführt: dass Menschen Liebe in fünf verschiedenen „Sprachen" ausdrücken und verstehen. Wenn dein Partner dich in seiner Liebessprache liebt, du aber deine eigen sprichst, könnte es sein, dass ihr aneinander vorbei redet – ohne es zu merken.
+Welche Love Languages gibt es eigentlich? Der US-Psychologe Gary Chapman hat 1992 in seinem Bestseller "The 5 Love Languages" eine revolutionäre Idee eingeführt: dass Menschen Liebe in fünf verschiedenen „Sprachen" ausdrücken und verstehen — **Worte der Bestätigung, Qualitätszeit, Geschenke, Taten und körperliche Berührung**. Wenn dein Partner dich in seiner Liebessprache liebt, du aber deine eigene sprichst, könnte es sein, dass ihr aneinander vorbei redet – ohne es zu merken.
+
+In diesem Guide zeige ich dir alle 5 Love Languages, wie du deine eigene und die deines Partners erkennst, und wie ihr das Wissen nutzt, um eure Beziehung zu vertiefen. Am Ende findest du konkrete Beispiele und einen einfachen Selbsttest.
 
 ## Die fünf Liebessprachen
 
@@ -100,13 +102,9 @@ Die Lösung ist, die Liebessprache deines Partners zu erkennen und bewusst in di
 
 **Beobachte, wie dein Partner dir zeigt, dass er/sie dich liebt.** Menschen zeigen oft Liebe in ihrer eigenen Liebessprache.
 
-**Frage nach.** Direkte [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) ist effektiv.
+**Frage nach.** Direkte [Kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) ist effektiv.
 
-Detaillierte Infos bietet Pro Familia: [Pro Familia](https://www.profamilia.de/)
-
-Detaillierte Infos bietet Bundesministerium für Familie: [Bundesministerium für Familie](https://www.bmfsfj.de/)
-
-**Höre auf, was dein Partner vermisst.** Wenn er/sie sagt „Du schenkst mir nie Zeit", ist Qualitätszeit wahrscheinlich ihre Liebessprache.
+**Höre auf, was dein Partner vermisst.** Wenn er/sie sagt „Du schenkst mir nie Zeit", ist Qualitätszeit wahrscheinlich ihre Liebessprache. Wenn er/sie sagt „Du sagst mir nie, dass ich schön bin", sind es Worte der Bestätigung. Vermisstes ist diagnostisch — was fehlt, ist oft genau die primäre Sprache.
 
 ## Mach es praktisch
 
@@ -119,7 +117,9 @@ Hier sind ein paar praktische Tipps:
 
 ## Was bleibt: Liebe muss verstanden werden
 
-Liebe ist universal, aber wie wir sie ausdrücken und empfangen ist unterschiedlich. Wenn du und dein Partner verschiedene Liebessprachen sprichst, kann das zu Gefühlen der Ungeliebtheit führen, obwohl dein Partner vielleicht wirklich versucht. Lerne, die Liebessprache deines Partners zu sprechen, und es könnte eure [beziehung](/blog/adhs-und-beziehung-komplett-guide/) transformieren.## Weiterlesen
+Liebe ist universal, aber wie wir sie ausdrücken und empfangen ist unterschiedlich. Wenn du und dein Partner verschiedene Liebessprachen sprechen, kann das zu Gefühlen der Ungeliebtheit führen, obwohl dein Partner vielleicht wirklich versucht zu lieben. Lerne, die Liebessprache deines Partners zu sprechen, und es könnte eure [Beziehung transformieren](/blog/beziehung-kommunikation-masterclass/).
+
+## Weiterlesen
 
 - [Love Maps — Wie gut kennst du deinen Partner wirklich?](/blog/love-map-gottman-beziehung-guide/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)

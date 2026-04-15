@@ -32,7 +32,7 @@ Viele Menschen verwechseln eine starke Anziehung mit einer Seelenpartnerschaft. 
 
 ## Zeichen 1: Sofortige Vertrautheit und Verbindung
 
-Das erste und wahrscheinlich stärkste Zeichen ist eine sofortige Vertrautheit. Wenn du deinen Seelenpartner triffst, hast du das Gefühl, ihn oder sie schon ewig zu kennen. Ihr könnt in Stille zusammen sein, ohne dass es unbequem wird. Es gibt keine Pausen, die du füllen musst – es ist einfach natürlich und gut.
+Das erste und wahrscheinlich stärkste Zeichen ist eine sofortige Vertrautheit. Wenn du deinen Seelenpartner triffst, hast du das Gefühl, ihn oder sie schon ewig zu kennen. Ihr könnt in Stille zusammen sein, ohne dass es unbequem wird. Es gibt keine Pausen, die du füllen musst – es ist einfach natürlich und gut. Wichtig ist: Verwechsle diese Vertrautheit nicht mit [Lovebombing](/blog/lovebombing-phasen/) — echte Seelenverbindung respektiert dein Tempo, Lovebombing überrollt es.
 
 Diese Vertrautheit entsteht nicht aus reiner Gewöhnung. Sie ist tiefer. Du erkennst dich in dieser Person wider, und sie erkennt sich in dir. Ihr versteht euch oft ohne Worte. Ein Blick genügt, und ihr wisst, was der andere denkt oder fühlt.
 
