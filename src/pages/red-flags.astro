@@ -1,0 +1,262 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = "Red Flags: Warnsignale erkennen & sich sch\u00fctzen";
+const description = "Was sind Red Flags? Die 5 Kategorien von Warnsignalen in Beziehung und Dating \u2014 mit Beispielen, Schutz-Strategien und Self-Check.";
+const keywords = ["red flags", "warnsignale beziehung", "red flags dating", "red flags m\u00e4nner", "red flags frauen", "rote flaggen"];
+const canonical = 'https://herzblatt-journal.com/red-flags/';
+
+const sections = [
+  {
+    "id": "grundlagen",
+    "emoji": "❓",
+    "title": "Was sind Red Flags? Die Grundlagen",
+    "description": "Definition, Herkunft des Begriffs und die 5 Hauptkategorien, in die jede Red Flag fällt.",
+    "links": [
+      {
+        "slug": "was-bedeutet-red-flag",
+        "title": "Was bedeutet Red Flag? Definition & 7 Top-Beispiele"
+      },
+      {
+        "slug": "was-sind-red-flags",
+        "title": "Was sind Red Flags? Die 5 Kategorien & Beispiele"
+      }
+    ]
+  },
+  {
+    "id": "beziehung",
+    "emoji": "💔",
+    "title": "Red Flags in Beziehungen",
+    "description": "Die wichtigsten Warnsignale, die in laufenden Beziehungen auftauchen — von Kommunikation bis Kontrolle.",
+    "links": [
+      {
+        "slug": "red-flags-beziehung",
+        "title": "Red Flags in Beziehungen: 20 Warnsignale erkennen"
+      },
+      {
+        "slug": "walking-red-flag-selbstreflexion-guide",
+        "title": "Bist DU die Red Flag? Ehrliche Selbstreflexion"
+      }
+    ]
+  },
+  {
+    "id": "dating",
+    "emoji": "💕",
+    "title": "Red Flags beim Dating",
+    "description": "Im Kennenlern-Kontext zeigen sich andere Red Flags als in der Beziehung. Die wichtigsten Frühwarnzeichen.",
+    "links": [
+      {
+        "slug": "red-flags-erstes-date",
+        "title": "Red Flags beim ersten Date erkennen"
+      },
+      {
+        "slug": "dating-red-flags-maenner-erkennen",
+        "title": "Dating Red Flags bei Männern erkennen"
+      },
+      {
+        "slug": "dating-red-flags-frauen-erkennen",
+        "title": "Red Flags bei Frauen: 20 Warnsignale"
+      }
+    ]
+  },
+  {
+    "id": "geschlechter",
+    "emoji": "👥",
+    "title": "Red Flags bei Männern & Frauen",
+    "description": "Manche Red-Flag-Muster zeigen sich bei den Geschlechtern unterschiedlich. Die spezifischen Warnsignale.",
+    "links": [
+      {
+        "slug": "red-flags-maenner",
+        "title": "Red Flags bei Männern: 15 Warnsignale erkennen"
+      },
+      {
+        "slug": "dating-red-flags-frauen",
+        "title": "Red Flags bei Frauen: Warnsignale erkennen"
+      },
+      {
+        "slug": "dark-triad-dating-warnsignale-guide",
+        "title": "Dark Triad: Narzissmus, Machiavellismus, Psychopathie"
+      }
+    ]
+  },
+  {
+    "id": "manipulation",
+    "emoji": "🎭",
+    "title": "Hinter Red Flags: Manipulationstechniken",
+    "description": "Viele Red Flags sind Symptome bestimmter Manipulationstaktiken. Wer sie kennt, erkennt sie früher.",
+    "links": [
+      {
+        "slug": "was-ist-gaslighting",
+        "title": "Was ist Gaslighting? Definition, Taktiken & Schutz"
+      },
+      {
+        "slug": "lovebombing-phasen",
+        "title": "Lovebombing: Die 4 Phasen der manipulativen Liebe"
+      },
+      {
+        "slug": "silent-treatment-bedeutung",
+        "title": "Silent Treatment: Warum Schweigen eine Waffe ist"
+      },
+      {
+        "slug": "darvo-manipulation-beziehung-erkennen",
+        "title": "DARVO erkennen: Die perfideste Manipulationstechnik"
+      },
+      {
+        "slug": "breadcrumbing-komplett-guide",
+        "title": "Breadcrumbing: Manipulation & Selbstwert"
+      }
+    ]
+  }
+];
+const faqData = [
+  {
+    "question": "Was sind die wichtigsten Red Flags in einer Beziehung?",
+    "answer": "Die fünf häufigsten Red Flags: Gaslighting (Realität wird geleugnet), Silent Treatment (Schweigen als Strafe), Lovebombing (überwältigende Zuneigung am Anfang), Kontrollverhalten (Grenzen werden ignoriert) und Respektlosigkeit gegenüber Dritten (Servicepersonal, Freunden, Ex-Partnerinnen). Wenn drei oder mehr davon wiederholt auftreten, ist das Muster strukturell — kein einmaliger Ausrutscher."
+  },
+  {
+    "question": "Ist eine einzelne Red Flag schon Grund zur Trennung?",
+    "answer": "Nein. Eine einzelne Red Flag ist ein Anlass zum Hinschauen, kein automatisches Aus. Entscheidend ist: Wiederholt sich das Muster? Wie reagiert die Person, wenn du es ansprichst — Einsicht oder Abwehr? Bei einigen Verhaltensweisen (Gewalt, systematische Manipulation, schwere Sucht ohne Behandlung) gilt allerdings: sofort raus, das sind keine Red Flags mehr, sondern Dealbreaker."
+  },
+  {
+    "question": "Woran erkenne ich Red Flags beim ersten Date?",
+    "answer": "Die wichtigsten Frühindikatoren: Wie behandelt er Servicepersonal? Hört er zu oder dominiert er das Gespräch? Werden deine Grenzen respektiert? Wird zu früh über Zukunft gesprochen (Lovebombing)? Sind alle seine Ex-Partnerinnen 'verrückt'? Diese fünf Checks sagen dir mehr als zwei Stunden Smalltalk."
+  },
+  {
+    "question": "Können sich Red Flags ändern oder bleiben sie immer?",
+    "answer": "Nur wenn die Person aktiv daran arbeitet — mit Therapie, Selbstreflexion und nachhaltiger Verhaltensänderung. Das sieht man nach 3–6 Monaten. Wenn nach Gespräch, kurzer Reue und drei Wochen Pause das gleiche Muster zurückkommt, ist die Veränderung kosmetisch. Echte Veränderung ist seltener als Hoffnung — gehe nicht von ihr aus."
+  },
+  {
+    "question": "Was ist der Unterschied zwischen Red Flags und Dealbreakern?",
+    "answer": "Eine Red Flag ist ein Warnsignal — etwas, das du beobachten und bewerten solltest. Ein Dealbreaker ist ein absolutes Aus-Kriterium, bei dem du sofort gehst, unabhängig vom Kontext. Klassische Dealbreaker: Gewalt, wiederholte Untreue, Sucht ohne Behandlungsbereitschaft, kriminelles Verhalten gegen dich. Die meisten Red Flags sind weicher — sie verlangen Beobachtung und Beurteilung, keine Sofortreaktion."
+  }
+];
+const stats = [{"number": "5", "label": "Red-Flag-Kategorien"}, {"number": "20+", "label": "Warnsignale pro Liste"}, {"number": "15+", "label": "Artikel zum Thema"}];
+
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: title,
+  description: description,
+  url: canonical,
+  inLanguage: 'de-DE',
+  publisher: {
+    '@type': 'Organization',
+    name: 'Herzblatt Journal',
+    url: 'https://herzblatt-journal.com'
+  }
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqData.map(f => ({
+    '@type': 'Question',
+    name: f.question,
+    acceptedAnswer: { '@type': 'Answer', text: f.answer }
+  }))
+};
+---
+
+<BaseLayout title={title} description={description} canonical={canonical}>
+  <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+  <section class="relative overflow-hidden" style="min-height: 460px;">
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, #991b1b 0%, #dc2626 50%, #f59e0b 100%);"></div>
+    <div class="absolute inset-0" style="background: radial-gradient(circle at 30% 50%, rgba(255,255,255,0.1) 0%, transparent 50%);"></div>
+
+    <div class="relative max-w-6xl mx-auto px-4 sm:px-6 py-20 sm:py-32">
+      <div class="max-w-3xl">
+        <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-sm font-medium mb-6" style="background: rgba(255,255,255,0.15); color: white; border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(8px);">
+          🚩 Pillar-Guide · {sections.reduce((sum, s) => sum + s.links.length, 0)} Artikel
+        </div>
+        <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold mb-6 leading-tight" style="color: white; font-family: var(--font-serif);">
+          Red Flags erkennen
+        </h1>
+        <p class="text-xl sm:text-2xl mb-8 leading-relaxed" style="color: rgba(255,255,255,0.95);">
+          Was Red Flags wirklich sind, welche Warnsignale du in Beziehung und Dating kennen musst — und wie du dich klug schützt.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div style="color: var(--text); font-size: 1.125rem; line-height: 1.8;">
+        <p class="mb-6" set:html={`Auf TikTok sammeln sich tausende Red-Flag-Listen. Im Alltag ist die Frage konkreter: <strong>Ist das, was ich bei meinem Partner sehe, eine Red Flag — oder eine normale Macke?</strong> Dieser Pillar-Guide bündelt unsere Red-Flag-Bibliothek: Definition, Kategorien, geschlechterspezifische Muster und konkrete Schutz-Strategien.`}></p>
+        <p class="mb-6" set:html={`Wichtig: Eine Red Flag ist <strong>kein automatischer Trennungsgrund</strong>. Sie ist ein Warnsignal, das dich zum genaueren Hinschauen bringt. Erst das Muster — nicht das Einzelereignis — macht die Diagnose.`}></p>
+        <p class="mb-6" set:html={`Such dir den Einstieg, der zu deiner Situation passt: Definitionsfragen, geschlechterspezifische Listen, oder die tieferen Manipulationstechniken, die hinter vielen Red Flags stecken.`}></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-12 sm:py-16" style="background: var(--bg-soft); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div class="grid grid-cols-3 gap-8 text-center">
+        {stats.map(stat => (
+          <div>
+            <div class="text-3xl sm:text-4xl font-extrabold mb-2" style="color: var(--color-primary-600); font-family: var(--font-serif);">{stat.number}</div>
+            <div class="text-sm sm:text-base" style="color: var(--text-muted);">{stat.label}</div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="grid gap-8 md:gap-10">
+        {sections.map((section, idx) => (
+          <div id={section.id}>
+            <div class="grid md:grid-cols-12 gap-8 items-start">
+              <div class="md:col-span-8">
+                <div class="flex items-start gap-4 mb-6">
+                  <div class="text-4xl" style="line-height: 1;">{section.emoji}</div>
+                  <div class="flex-1">
+                    <h2 class="text-2xl sm:text-3xl font-extrabold mb-3" style="color: var(--text); font-family: var(--font-serif);">{section.title}</h2>
+                    <p style="color: var(--text-muted); line-height: 1.7;">{section.description}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="md:col-span-4">
+                <div class="space-y-3">
+                  {section.links.map(link => (
+                    <a href={`/blog/${link.slug}/`} class="block p-4 rounded-lg transition-all hover:scale-[1.02]" style="background: var(--bg-soft); border: 1px solid var(--border); color: var(--text); text-decoration: none;">
+                      <div class="flex items-center justify-between gap-3">
+                        <span class="font-semibold text-sm leading-snug">{link.title}</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="color: var(--color-primary-500); flex-shrink: 0;"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </div>
+            {idx < sections.length - 1 && <div class="mt-12 mb-8" style="border-bottom: 1px solid var(--border);"></div>}
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg-soft); border-top: 1px solid var(--border);">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6">
+      <h2 class="text-3xl sm:text-4xl font-extrabold text-center mb-4" style="color: var(--text); font-family: var(--font-serif);">Häufige Fragen</h2>
+      <p class="text-center mb-12" style="color: var(--text-muted);">Was Menschen am häufigsten wissen wollen</p>
+      <div class="space-y-6">
+        {faqData.map((item, idx) => (
+          <details>
+            <summary class="flex items-center justify-between p-6 rounded-lg cursor-pointer font-semibold transition-all" style="background: var(--bg); color: var(--text); border: 1px solid var(--border);">
+              <span>{item.question}</span>
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="transition: transform 0.3s; color: var(--color-primary-600);"><path d="m6 9 6 6 6-6"/></svg>
+            </summary>
+            <div class="px-6 pb-6" style="color: var(--text-muted);">{item.answer}</div>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <style>
+    details[open] summary svg { transform: rotate(180deg); }
+  </style>
+</BaseLayout>

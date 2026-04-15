@@ -1,0 +1,278 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = "Trennung verarbeiten: Der komplette Guide f\u00fcr deinen Weg zur\u00fcck zu dir";
+const description = "Trennung verarbeiten: Phasen verstehen, Schmerz aushalten, Werkzeuge zur Heilung \u2014 der komplette Guide f\u00fcr jede Lebenslage.";
+const keywords = ["trennung verarbeiten", "trennungsschmerz", "liebeskummer", "nach trennung", "trennung \u00fcberwinden", "heilung nach trennung"];
+const canonical = 'https://herzblatt-journal.com/trennung/';
+
+const sections = [
+  {
+    "id": "verarbeiten",
+    "emoji": "💧",
+    "title": "Trennung verarbeiten — die Grundlagen",
+    "description": "Was passiert in dir, wie lange dauert es, welche Phasen erwarten dich? Die wichtigsten Antworten zur Verarbeitung.",
+    "links": [
+      {
+        "slug": "trennung-verarbeiten",
+        "title": "Trennung verarbeiten: Dein Weg zurück zu dir selbst"
+      },
+      {
+        "slug": "trennung-verarbeiten-12-schritte",
+        "title": "Trennung verarbeiten: 12 Schritte, die wirklich helfen"
+      },
+      {
+        "slug": "trennung-verarbeiten-phasen",
+        "title": "Trennung verarbeiten: Die 5 Phasen meistern"
+      },
+      {
+        "slug": "trennung-verarbeiten-komplett",
+        "title": "Trennung verarbeiten: Schritt für Schritt"
+      },
+      {
+        "slug": "trennung-ueberstehen-guide",
+        "title": "Trennung überstehen: Der ehrliche Komplett-Guide"
+      }
+    ]
+  },
+  {
+    "id": "schmerz",
+    "emoji": "💔",
+    "title": "Trennungsschmerz aushalten",
+    "description": "Der Schmerz ist real. Hier sind die Werkzeuge, mit denen du nicht nur überlebst, sondern aktiv heilst.",
+    "links": [
+      {
+        "slug": "trennungsschmerz-frau",
+        "title": "Trennungsschmerz bei Frauen: Was wirklich hilft"
+      },
+      {
+        "slug": "trennungsschmerz-mann",
+        "title": "Trennungsschmerz bei Männern: Der stille Schmerz"
+      },
+      {
+        "slug": "trennungsschmerz-phasen",
+        "title": "Trennungsschmerz: Die 5 Phasen der Heilung"
+      },
+      {
+        "slug": "trennungsschmerz-nachts-schlimmer",
+        "title": "Warum Trennungsschmerz nachts schlimmer ist"
+      }
+    ]
+  },
+  {
+    "id": "schwierig",
+    "emoji": "⚡",
+    "title": "Schwierige Trennungs-Situationen",
+    "description": "Manche Trennungen sind komplizierter — mit Kindern, gemeinsamer Wohnung, im Alter, im Urlaub, oder trotz Liebe.",
+    "links": [
+      {
+        "slug": "trennung-mit-kindern-komplett-guide",
+        "title": "Trennung mit Kindern: Der komplette Guide"
+      },
+      {
+        "slug": "trennung-mit-gemeinsamer-wohnung",
+        "title": "Trennung aber gleiche Wohnung: So überlebst du"
+      },
+      {
+        "slug": "trennung-im-alter-neuanfang",
+        "title": "Trennung im Alter: Neuanfang nach 50+"
+      },
+      {
+        "slug": "trennung-trotz-liebe",
+        "title": "Trennung trotz Liebe — Wenn Liebe nicht reicht"
+      },
+      {
+        "slug": "trennung-ohne-kampf",
+        "title": "Trennung ohne Kampf: Respektvoll auseinandergehen"
+      }
+    ]
+  },
+  {
+    "id": "bereuen",
+    "emoji": "🤔",
+    "title": "Trennung bereuen — was tun?",
+    "description": "Manchmal kommt der Zweifel: War das die richtige Entscheidung? Hier die ehrlichen Antworten.",
+    "links": [
+      {
+        "slug": "trennung-bereuen-anzeichen",
+        "title": "Trennung bereuen: 7 sichere Anzeichen"
+      },
+      {
+        "slug": "trennung-bereuen-was-tun",
+        "title": "Trennung bereuen: Zurück oder weitergehen?"
+      },
+      {
+        "slug": "trennung-verarbeiten-trotz-liebe",
+        "title": "Trennung verarbeiten trotz Liebe: Der ehrliche Guide"
+      }
+    ]
+  },
+  {
+    "id": "neuanfang",
+    "emoji": "🌱",
+    "title": "Neuanfang nach der Trennung",
+    "description": "Wenn der Schmerz weniger wird: Der Übergang vom Heilen zum neuen Leben — und irgendwann zum neuen Lieben.",
+    "links": [
+      {
+        "slug": "trennung-verarbeiten-neuanfang",
+        "title": "Trennung verarbeiten: Vom Schmerz zum Neuanfang"
+      },
+      {
+        "slug": "trennung-im-alter-neuanfang",
+        "title": "Neuanfang nach 50+: Die zweite Chance"
+      }
+    ]
+  }
+];
+const faqData = [
+  {
+    "question": "Wie lange dauert es, eine Trennung zu verarbeiten?",
+    "answer": "Es gibt keine Universalformel. Die populäre 'Halbzeit-Regel' (Beziehungsdauer halbiert = Heilungszeit) ist nicht wissenschaftlich. Realistisch: Akuter Schmerz lässt nach 3–6 Monaten merklich nach, die tiefere Verarbeitung dauert 1–3 Jahre. Faktoren: Beziehungsdauer, Trennungsumstände, eigener Bindungsstil, soziale Unterstützung. Heilung verläuft nicht linear — Rückschläge sind normal."
+  },
+  {
+    "question": "Was sind die 5 Phasen der Trauer nach einer Trennung?",
+    "answer": "Nach Elisabeth Kübler-Ross: 1. Leugnung ('Das kann nicht sein'), 2. Wut ('Wie konnte er/sie das tun'), 3. Verhandlung ('Wenn ich nur xy getan hätte'), 4. Depression ('Es wird nie wieder gut'), 5. Akzeptanz ('Es ist passiert, ich lebe weiter'). Wichtig: Du gehst nicht linear durch — du springst zwischen Phasen, fällst zurück, schreitest voran. Das ist normal."
+  },
+  {
+    "question": "Was hilft am meisten gegen Trennungsschmerz?",
+    "answer": "Drei Säulen: 1. **No Contact** — keine Kontakte mit dem Ex für mindestens 2–3 Monate, das Gehirn braucht die Pause. 2. **Körperarbeit** — Sport, besonders Krafttraining; Atemübungen; kalte Duschen; Yoga. Trauer lebt im Körper, nicht nur im Kopf. 3. **Soziales Netzwerk** — Freunde, die zuhören, ohne zu urteilen oder zu reparieren. Therapeutische Unterstützung bei länger anhaltender Depression."
+  },
+  {
+    "question": "Wann sollte ich nach einer Trennung in Therapie?",
+    "answer": "Wenn nach einem Monat: du nicht aus dem Bett kommst, nicht essen oder schlafen kannst, Suizidgedanken hast, oder dich isolierst. Auch ohne diese Notfall-Symptome ist Therapie nach intensiven Beziehungen sinnvoll — als Prävention gegen die Wiederholung der gleichen Muster. Therapie ist Stärke, nicht Schwäche."
+  },
+  {
+    "question": "Soll ich versuchen, meinen Ex zurückzugewinnen?",
+    "answer": "Nur wenn drei Bedingungen gleichzeitig erfüllt sind: (1) Es gab keine schweren Verletzungen wie Gewalt, systematische Manipulation oder wiederholte Untreue. (2) Beide haben in der Trennungszeit echte Reflexion gemacht, nicht nur Schmerz vermieden. (3) Es gibt klare, konkrete Veränderungsbereitschaft auf beiden Seiten. Sonst ist Zurückkehren oft nur eine Verlängerung des alten Leids."
+  }
+];
+const stats = [{"number": "5", "label": "Trauer-Phasen"}, {"number": "21+", "label": "Artikel zum Thema"}, {"number": "1–3 J", "label": "typische Heilungsdauer"}];
+
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: title,
+  description: description,
+  url: canonical,
+  inLanguage: 'de-DE',
+  publisher: {
+    '@type': 'Organization',
+    name: 'Herzblatt Journal',
+    url: 'https://herzblatt-journal.com'
+  }
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqData.map(f => ({
+    '@type': 'Question',
+    name: f.question,
+    acceptedAnswer: { '@type': 'Answer', text: f.answer }
+  }))
+};
+---
+
+<BaseLayout title={title} description={description} canonical={canonical}>
+  <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+  <section class="relative overflow-hidden" style="min-height: 460px;">
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, #1e40af 0%, #0891b2 50%, #14b8a6 100%);"></div>
+    <div class="absolute inset-0" style="background: radial-gradient(circle at 30% 50%, rgba(255,255,255,0.1) 0%, transparent 50%);"></div>
+
+    <div class="relative max-w-6xl mx-auto px-4 sm:px-6 py-20 sm:py-32">
+      <div class="max-w-3xl">
+        <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-sm font-medium mb-6" style="background: rgba(255,255,255,0.15); color: white; border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(8px);">
+          🌅 Pillar-Guide · {sections.reduce((sum, s) => sum + s.links.length, 0)} Artikel
+        </div>
+        <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold mb-6 leading-tight" style="color: white; font-family: var(--font-serif);">
+          Trennung verarbeiten
+        </h1>
+        <p class="text-xl sm:text-2xl mb-8 leading-relaxed" style="color: rgba(255,255,255,0.95);">
+          Vom akuten Schmerz bis zum Neuanfang — die Phasen, die Werkzeuge und der ehrliche Weg durch eine Trennung.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div style="color: var(--text); font-size: 1.125rem; line-height: 1.8;">
+        <p class="mb-6" set:html={`Eine Trennung ist nicht nur ein Beziehungsende — sie ist eine Identitätskrise. Plötzlich fehlt der Mensch, mit dem du Pläne hattest, der dein Spiegel war, mit dem du gemeinsame Routinen lebtest. <strong>Es gibt keinen schnellen Weg darum herum. Aber es gibt einen Weg hindurch.</strong>`}></p>
+        <p class="mb-6" set:html={`Dieser Pillar-Guide bündelt unsere komplette Trennungs-Bibliothek: Phasen-Verstehen, Werkzeuge gegen den Schmerz, geschlechterspezifische Themen, schwierige Sonderfälle (Trennung mit Kindern, gemeinsamer Wohnung, im Alter) und der Neuanfang.`}></p>
+        <p class="mb-6" set:html={`Such dir den Einstieg, der zu deiner Phase passt. Wenn du gerade akut mittendrin steckst: Fang mit den Werkzeugen an. Wenn du schon weiter bist: Schau auf den Neuanfang.`}></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-12 sm:py-16" style="background: var(--bg-soft); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div class="grid grid-cols-3 gap-8 text-center">
+        {stats.map(stat => (
+          <div>
+            <div class="text-3xl sm:text-4xl font-extrabold mb-2" style="color: var(--color-primary-600); font-family: var(--font-serif);">{stat.number}</div>
+            <div class="text-sm sm:text-base" style="color: var(--text-muted);">{stat.label}</div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="grid gap-8 md:gap-10">
+        {sections.map((section, idx) => (
+          <div id={section.id}>
+            <div class="grid md:grid-cols-12 gap-8 items-start">
+              <div class="md:col-span-8">
+                <div class="flex items-start gap-4 mb-6">
+                  <div class="text-4xl" style="line-height: 1;">{section.emoji}</div>
+                  <div class="flex-1">
+                    <h2 class="text-2xl sm:text-3xl font-extrabold mb-3" style="color: var(--text); font-family: var(--font-serif);">{section.title}</h2>
+                    <p style="color: var(--text-muted); line-height: 1.7;">{section.description}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="md:col-span-4">
+                <div class="space-y-3">
+                  {section.links.map(link => (
+                    <a href={`/blog/${link.slug}/`} class="block p-4 rounded-lg transition-all hover:scale-[1.02]" style="background: var(--bg-soft); border: 1px solid var(--border); color: var(--text); text-decoration: none;">
+                      <div class="flex items-center justify-between gap-3">
+                        <span class="font-semibold text-sm leading-snug">{link.title}</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="color: var(--color-primary-500); flex-shrink: 0;"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </div>
+            {idx < sections.length - 1 && <div class="mt-12 mb-8" style="border-bottom: 1px solid var(--border);"></div>}
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg-soft); border-top: 1px solid var(--border);">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6">
+      <h2 class="text-3xl sm:text-4xl font-extrabold text-center mb-4" style="color: var(--text); font-family: var(--font-serif);">Häufige Fragen</h2>
+      <p class="text-center mb-12" style="color: var(--text-muted);">Was Menschen am häufigsten wissen wollen</p>
+      <div class="space-y-6">
+        {faqData.map((item, idx) => (
+          <details>
+            <summary class="flex items-center justify-between p-6 rounded-lg cursor-pointer font-semibold transition-all" style="background: var(--bg); color: var(--text); border: 1px solid var(--border);">
+              <span>{item.question}</span>
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="transition: transform 0.3s; color: var(--color-primary-600);"><path d="m6 9 6 6 6-6"/></svg>
+            </summary>
+            <div class="px-6 pb-6" style="color: var(--text-muted);">{item.answer}</div>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <style>
+    details[open] summary svg { transform: rotate(180deg); }
+  </style>
+</BaseLayout>

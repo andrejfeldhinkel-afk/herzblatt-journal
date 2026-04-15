@@ -1,0 +1,229 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = 'Bindungsstile: Die 4 Bindungstypen verstehen & verändern';
+const description = 'Bindungsstile erklärt: Die 4 Typen (sicher, ängstlich, vermeidend, desorganisiert), wie sie in der Kindheit entstehen und wie du deinen Bindungsstil veränderst.';
+const keywords = ['bindungsstile', 'bindungstypen', 'bindungstheorie', 'sicherer bindungsstil', 'vermeidender bindungsstil', 'ängstlicher bindungsstil', 'bindung ändern'];
+const canonical = 'https://herzblatt-journal.com/bindungsstile/';
+
+const sections = [
+  {
+    id: 'grundlagen',
+    emoji: '📚',
+    title: 'Grundlagen der Bindungstheorie',
+    description: 'Wie alles anfing: Die Bindungstheorie nach John Bowlby und Mary Ainsworth — und warum sie bis heute der wichtigste Schlüssel zum Verständnis von Beziehungen ist.',
+    links: [
+      { slug: 'bindungstheorie-bowlby', title: 'Bindungstheorie einfach erklärt: Bowlby und Ainsworth' },
+      { slug: 'bindungsstile-die-4-bindungstypen', title: 'Bindungsstile: Die 4 Bindungstypen im Überblick' },
+      { slug: 'bindungsstile-kindheit', title: 'Wie Bindungsstile in der Kindheit entstehen' },
+      { slug: 'attachment-styles-bindungstypen-guide', title: 'Attachment Styles: Der komplette Guide' },
+    ]
+  },
+  {
+    id: 'die-vier-typen',
+    emoji: '🧬',
+    title: 'Die 4 Bindungstypen im Detail',
+    description: 'Jeder Mensch hat einen primären Bindungsstil. Hier siehst du alle vier — mit konkreten Erkennungszeichen, Mustern und Hintergründen.',
+    links: [
+      { slug: 'sicherer-bindungsstil', title: 'Sicherer Bindungsstil: Das Fundament gesunder Beziehungen' },
+      { slug: 'aengstlicher-bindungsstil', title: 'Ängstlicher Bindungsstil: Wenn Verlustangst dominiert' },
+      { slug: 'vermeidender-bindungsstil', title: 'Vermeidender Bindungsstil: Warum Nähe Angst macht' },
+      { slug: 'desorganisierter-bindungsstil', title: 'Desorganisierter Bindungsstil: Zwischen Sehnsucht und Angst' },
+      { slug: 'aengstlich-ambivalenter-bindungsstil', title: 'Ängstlich-ambivalenter Bindungsstil erklärt' },
+    ]
+  },
+  {
+    id: 'erkennen-und-test',
+    emoji: '🔍',
+    title: 'Deinen Bindungsstil erkennen',
+    description: 'Welcher Bindungstyp bist du? Mach den Test und versteh, warum du in Beziehungen so reagierst, wie du reagierst.',
+    links: [
+      { slug: 'bindungsstil-test', title: 'Bindungsstil-Test: Welcher Bindungstyp bist du?' },
+      { slug: 'bindungstypen-verstehen-attachment', title: 'Bindungstypen verstehen: Attachment Theory' },
+      { slug: 'bindungstypen-komplett-guide-psychologie', title: 'Bindungstypen: Der komplette Psychologie-Guide' },
+    ]
+  },
+  {
+    id: 'veraendern',
+    emoji: '🔄',
+    title: 'Bindungsstil verändern',
+    description: 'Die gute Nachricht: Dein Bindungsstil ist nicht dein Schicksal. Hier sind die Wege zu einer sicheren Bindung — auch als Erwachsene.',
+    links: [
+      { slug: 'bindungsstil-aendern', title: 'Bindungsstil ändern: Kann man seinen Bindungstyp wandeln?' },
+      { slug: 'sichere-bindung-entwickeln', title: 'Sichere Bindung entwickeln: Der Weg zur stabilen Beziehung' },
+      { slug: 'sicherer-bindungsstil-entwickeln', title: 'Sicherer Bindungsstil entwickeln: 7 konkrete Schritte' },
+      { slug: 'aengstlicher-bindungsstil-heilen', title: 'Ängstlicher Bindungsstil heilen: Schritt für Schritt' },
+    ]
+  },
+  {
+    id: 'beziehungen-und-trauma',
+    emoji: '💔',
+    title: 'Bindungsstile in Beziehungen & Trauma',
+    description: 'Wenn unsichere Bindung auf Beziehungen trifft — und wie tiefere Bindungswunden heilen können.',
+    links: [
+      { slug: 'beziehung-mit-vermeidendem-partner', title: 'Beziehung mit vermeidendem Partner: Bleiben oder gehen?' },
+      { slug: 'dating-mit-bindungsangst-partner', title: 'Dating mit bindungsängstlichem Partner' },
+      { slug: 'bindungstrauma-heilen-erwachsene', title: 'Bindungstrauma als Erwachsener heilen' },
+      { slug: 'somatic-experiencing-bindungstrauma-heilen', title: 'Somatic Experiencing bei Bindungstrauma' },
+      { slug: 'bindungsangst-komplett-guide', title: 'Bindungsangst: Der komplette Guide' },
+    ]
+  }
+];
+
+const faqData = [
+  {
+    question: 'Was sind die 4 Bindungsstile?',
+    answer: 'Die vier Bindungsstile nach John Bowlby und Mary Ainsworth sind: sicher gebunden (etwa 50 % der Bevölkerung), ängstlich (auch ängstlich-ambivalent, ca. 20 %), vermeidend (ca. 25 %) und desorganisiert (ca. 5 %). Jeder Stil entsteht durch frühe Erfahrungen mit Bezugspersonen und prägt, wie wir als Erwachsene Nähe, Verbindung und Konflikt erleben.'
+  },
+  {
+    question: 'Wie erkenne ich meinen eigenen Bindungsstil?',
+    answer: 'Beobachte dich in zwei Situationen: Wie reagierst du, wenn dein Partner sich emotional zurückzieht? Und wie reagierst du, wenn er dir zu nah kommt? Sicher gebundene bleiben ruhig, ängstliche werden bedürftig oder kontrollierend, vermeidende ziehen sich zurück, desorganisierte wechseln zwischen beidem. Ein Bindungsstil-Test liefert dir eine erste Einordnung.'
+  },
+  {
+    question: 'Kann ich meinen Bindungsstil ändern?',
+    answer: 'Ja. Dein Bindungsstil ist nicht festgeschrieben. Mit bewusster Arbeit, einem sicher gebundenen Partner und/oder Therapie kannst du zu einem überwiegend sicheren Bindungsstil wachsen — Forscher nennen das "earned secure attachment". Realistische Zeit: 1–3 Jahre intensive Auseinandersetzung, erste Veränderungen oft schon nach 6 Monaten.'
+  },
+  {
+    question: 'Was ist der häufigste Bindungsstil?',
+    answer: 'Etwa 50–55 % der erwachsenen Bevölkerung haben einen sicheren Bindungsstil. Etwa 25 % sind vermeidend, 20 % ängstlich, 5 % desorganisiert. Diese Zahlen stammen aus der Adult Attachment Interview-Forschung und sind in westlichen Industriegesellschaften relativ stabil.'
+  },
+  {
+    question: 'Warum ziehen sich vermeidende und ängstliche Bindungstypen so oft an?',
+    answer: 'Das ist die "anxious-avoidant trap". Der Ängstliche sieht im Vermeidenden Stärke und Unabhängigkeit (was er sich selbst wünscht). Der Vermeidende fühlt sich anfangs wohl, weil der Ängstliche keine zu nahe Bindung einfordert. Sobald die Beziehung tiefer wird, kippt das System: Der Ängstliche wird bedürftiger, der Vermeidende zieht sich weiter zurück. Diese Dynamik kann nur durch Bewusstsein und gezielte Arbeit beider Seiten durchbrochen werden.'
+  },
+];
+
+const stats = [
+  { number: '4', label: 'Bindungstypen' },
+  { number: '~50%', label: 'sind sicher gebunden' },
+  { number: '27+', label: 'Artikel zum Thema' }
+];
+
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: title,
+  description: description,
+  url: canonical,
+  inLanguage: 'de-DE',
+  publisher: {
+    '@type': 'Organization',
+    name: 'Herzblatt Journal',
+    url: 'https://herzblatt-journal.com'
+  }
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqData.map(f => ({
+    '@type': 'Question',
+    name: f.question,
+    acceptedAnswer: { '@type': 'Answer', text: f.answer }
+  }))
+};
+---
+
+<BaseLayout title={title} description={description} canonical={canonical}>
+  <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+  <section class="relative overflow-hidden" style="min-height: 460px;">
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, #1e3a8a 0%, #5b21b6 50%, #be185d 100%);"></div>
+    <div class="absolute inset-0" style="background: radial-gradient(circle at 30% 50%, rgba(255,255,255,0.1) 0%, transparent 50%);"></div>
+
+    <div class="relative max-w-6xl mx-auto px-4 sm:px-6 py-20 sm:py-32">
+      <div class="max-w-3xl">
+        <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-sm font-medium mb-6" style="background: rgba(255,255,255,0.15); color: white; border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(8px);">
+          🧬 Pillar-Guide · {sections.reduce((sum, s) => sum + s.links.length, 0)} Artikel
+        </div>
+        <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold mb-6 leading-tight" style="color: white; font-family: var(--font-serif);">
+          Bindungsstile verstehen
+        </h1>
+        <p class="text-xl sm:text-2xl mb-8 leading-relaxed" style="color: rgba(255,255,255,0.95);">
+          Die 4 Bindungstypen, wie sie in der Kindheit entstehen, wie du deinen erkennst — und wie du ihn veränderst.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div style="color: var(--text); font-size: 1.125rem; line-height: 1.8;">
+        <p class="mb-6">Warum reagiert dein Partner bei Konflikten mit Schweigen — und du mit Suchen? Warum brauchst du Bestätigung, während sie Raum braucht? Die Antwort liegt fast immer im <strong>Bindungsstil</strong>: einem unbewussten Beziehungsmuster, das in den ersten Lebensjahren entsteht und bis in deine erwachsenen Beziehungen wirkt.</p>
+        <p class="mb-6">Die Bindungstheorie wurde in den 1950er Jahren vom britischen Psychiater John Bowlby entwickelt und von Mary Ainsworth empirisch untermauert. Heute ist sie der wichtigste wissenschaftliche Rahmen, um zu verstehen, wie wir lieben — und warum.</p>
+        <p class="mb-6">Dieser Pillar-Guide bündelt unsere komplette Bindungs-Bibliothek: <strong>von den Grundlagen über die 4 Bindungstypen bis zur Veränderung</strong>. Such dir den Einstiegspunkt, der zu dir passt — und vertiefe dann genau die Themen, die für deine Beziehung wichtig sind.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-12 sm:py-16" style="background: var(--bg-soft); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div class="grid grid-cols-3 gap-8 text-center">
+        {stats.map(stat => (
+          <div>
+            <div class="text-3xl sm:text-4xl font-extrabold mb-2" style="color: var(--color-primary-600); font-family: var(--font-serif);">{stat.number}</div>
+            <div class="text-sm sm:text-base" style="color: var(--text-muted);">{stat.label}</div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="grid gap-8 md:gap-10">
+        {sections.map((section, idx) => (
+          <div id={section.id}>
+            <div class="grid md:grid-cols-12 gap-8 items-start">
+              <div class="md:col-span-8">
+                <div class="flex items-start gap-4 mb-6">
+                  <div class="text-4xl" style="line-height: 1;">{section.emoji}</div>
+                  <div class="flex-1">
+                    <h2 class="text-2xl sm:text-3xl font-extrabold mb-3" style="color: var(--text); font-family: var(--font-serif);">{section.title}</h2>
+                    <p style="color: var(--text-muted); line-height: 1.7;">{section.description}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="md:col-span-4">
+                <div class="space-y-3">
+                  {section.links.map(link => (
+                    <a href={`/blog/${link.slug}/`} class="block p-4 rounded-lg transition-all hover:scale-[1.02]" style="background: var(--bg-soft); border: 1px solid var(--border); color: var(--text); text-decoration: none;">
+                      <div class="flex items-center justify-between gap-3">
+                        <span class="font-semibold text-sm leading-snug">{link.title}</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="color: var(--color-primary-500); flex-shrink: 0;"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </div>
+            {idx < sections.length - 1 && <div class="mt-12 mb-8" style="border-bottom: 1px solid var(--border);"></div>}
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg-soft); border-top: 1px solid var(--border);">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6">
+      <h2 class="text-3xl sm:text-4xl font-extrabold text-center mb-4" style="color: var(--text); font-family: var(--font-serif);">Häufige Fragen</h2>
+      <p class="text-center mb-12" style="color: var(--text-muted);">Was Menschen über Bindungsstile am häufigsten wissen wollen</p>
+      <div class="space-y-6">
+        {faqData.map((item, idx) => (
+          <details>
+            <summary class="flex items-center justify-between p-6 rounded-lg cursor-pointer font-semibold transition-all" style="background: var(--bg); color: var(--text); border: 1px solid var(--border);">
+              <span>{item.question}</span>
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="transition: transform 0.3s; color: var(--color-primary-600);"><path d="m6 9 6 6 6-6"/></svg>
+            </summary>
+            <div class="px-6 pb-6" style="color: var(--text-muted);">{item.answer}</div>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <style>
+    details[open] summary svg { transform: rotate(180deg); }
+  </style>
+</BaseLayout>

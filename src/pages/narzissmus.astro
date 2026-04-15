@@ -1,0 +1,286 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = "Narzissmus erkennen: Beziehung mit einem Narzissten verstehen";
+const description = "Narzissmus erkennen: Anzeichen, Beziehungsdynamiken, Manipulation und Wege heraus \u2014 der komplette Guide f\u00fcr Betroffene.";
+const keywords = ["narzissmus", "narzisst erkennen", "beziehung mit narzisst", "narzisstischer missbrauch", "narzissmus heilen"];
+const canonical = 'https://herzblatt-journal.com/narzissmus/';
+
+const sections = [
+  {
+    "id": "erkennen",
+    "emoji": "🔍",
+    "title": "Narzissmus erkennen — die Anzeichen",
+    "description": "Die typischen Erkennungszeichen, was Narzissmus eigentlich ist und wie du Tests nutzt — bei dir selbst oder beim Partner.",
+    "links": [
+      {
+        "slug": "narzisst-erkennen",
+        "title": "Narzisst erkennen: Die 12 deutlichsten Zeichen"
+      },
+      {
+        "slug": "narzissmus-erkennen-komplett-guide",
+        "title": "Narzissmus erkennen: Der vollständige Guide"
+      },
+      {
+        "slug": "narzissten-erkennen-kompletter-guide",
+        "title": "Narzissten erkennen: 30 Warnsignale"
+      },
+      {
+        "slug": "narzissmus-test-partner-erkennen",
+        "title": "Narzissmus Test: Ist dein Partner ein Narzisst?"
+      },
+      {
+        "slug": "narzissmus-test-selbstcheck",
+        "title": "Narzissmus Test: Bin ich narzisstisch? Selbstcheck"
+      }
+    ]
+  },
+  {
+    "id": "geschlechter",
+    "emoji": "👥",
+    "title": "Narzissmus bei Männern & Frauen",
+    "description": "Narzissmus zeigt sich bei den Geschlechtern unterschiedlich. Die typischen Muster — und warum weiblicher Narzissmus oft übersehen wird.",
+    "links": [
+      {
+        "slug": "narzissmus-symptome-mann-erkennen",
+        "title": "Narzissmus Symptome beim Mann: 12 Warnzeichen"
+      },
+      {
+        "slug": "narzissmus-bei-frauen-erkennen",
+        "title": "Narzissmus bei Frauen: 10 Anzeichen"
+      },
+      {
+        "slug": "narzissmus-dating-erkennen",
+        "title": "Narzissmus beim Dating erkennen"
+      },
+      {
+        "slug": "narzissmus-endstadium-anzeichen",
+        "title": "Narzissmus Endstadium: Wenn die Maske fällt"
+      }
+    ]
+  },
+  {
+    "id": "beziehung",
+    "emoji": "💔",
+    "title": "Beziehung mit einem Narzissten",
+    "description": "Was passiert in einer Beziehung mit einem Narzissten — und wie du überlebst, wenn du noch drin bist.",
+    "links": [
+      {
+        "slug": "beziehung-mit-narzisst-erkennen-komplett",
+        "title": "Beziehung mit einem Narzissten — Alles was du wissen musst"
+      },
+      {
+        "slug": "beziehung-narzisst-ueberleben",
+        "title": "Beziehung mit einem Narzissten — Erkennen, Überleben"
+      },
+      {
+        "slug": "narzisstische-beziehung-ueberleben-heilen",
+        "title": "Narzisstische Beziehung überleben und heilen"
+      },
+      {
+        "slug": "beziehung-grenzen-narzisstischer-eltern",
+        "title": "Grenzen setzen gegenüber narzisstischen Eltern"
+      }
+    ]
+  },
+  {
+    "id": "taktiken",
+    "emoji": "🎯",
+    "title": "Narzisstische Manipulationstaktiken",
+    "description": "Hoovering, Flying Monkeys, Grey Rock, Gaslighting — die wichtigsten Taktiken, die du kennen musst, um dich zu schützen.",
+    "links": [
+      {
+        "slug": "hoovering-narzissmus-erkennen",
+        "title": "Hoovering: Wenn der Narzisst dich zurückholen will"
+      },
+      {
+        "slug": "flying-monkeys-narzissmus",
+        "title": "Flying Monkeys: Die Helfer des Narzissten"
+      },
+      {
+        "slug": "grey-rock-methode-narzisst-guide",
+        "title": "Grey Rock Methode: Schutz vor Manipulation"
+      },
+      {
+        "slug": "was-ist-gaslighting",
+        "title": "Gaslighting: Die Definition & wie du es erkennst"
+      }
+    ]
+  },
+  {
+    "id": "heilung",
+    "emoji": "🦋",
+    "title": "Heilung & Neustart nach Narzissmus",
+    "description": "Nach einer Beziehung mit einem Narzissten: Wie du heilst, deinen Selbstwert wieder aufbaust und sicher neu liebst.",
+    "links": [
+      {
+        "slug": "dating-nach-narzissmus",
+        "title": "Dating nach narzisstischer Beziehung"
+      },
+      {
+        "slug": "dating-nach-narzisst",
+        "title": "Dating nach einer narzisstischen Beziehung: Heilung"
+      },
+      {
+        "slug": "dating-nach-narzisstischem-missbrauch-healing",
+        "title": "Dating nach narzisstischem Missbrauch"
+      },
+      {
+        "slug": "dating-nach-narzisstischer-beziehung-guide",
+        "title": "Nach dem Narzissten: Komplett-Guide für den Neustart"
+      }
+    ]
+  }
+];
+const faqData = [
+  {
+    "question": "Wie erkenne ich einen Narzissten in den ersten Wochen?",
+    "answer": "Die zuverlässigsten Frühwarnzeichen: extreme Lovebombing-Phase (sofort 'die große Liebe'), grandioses Selbstbild, alle Ex-Partner sind 'verrückt' oder 'toxisch', mangelndes Mitgefühl wenn andere leiden, Reaktionen aus dem Nichts wenn du Kritik äußerst (DARVO), und übertriebene Reaktionen auf Verletzungen seines Egos. Drei oder mehr dieser Punkte = Vorsicht. Suche dir Distanz, bevor die Bindung zu tief ist."
+  },
+  {
+    "question": "Was ist der Unterschied zwischen Narzissmus und narzisstischen Zügen?",
+    "answer": "Klinischer Narzissmus (NPD) ist eine Persönlichkeitsstörung mit strikten diagnostischen Kriterien und betrifft ca. 0,5–1 % der Bevölkerung. Narzisstische Züge sind häufiger (10–15 %) und zeigen sich situativ — manche Menschen sind im Job narzisstisch, in der Familie nicht. In Beziehungen können beide schaden; klinischer Narzissmus ist allerdings seltener heilbar."
+  },
+  {
+    "question": "Kann sich ein Narzisst ändern?",
+    "answer": "Klinischer Narzissmus ist sehr schwer behandelbar — Narzissten suchen selten Therapie, weil sie das Problem bei anderen sehen. Narzisstische Züge können sich durch Selbstreflexion und Therapie verändern, aber das ist Seltenheit. Bau deine Lebensentscheidungen nicht auf der Hoffnung auf Veränderung auf. Geh davon aus, dass die Person bleibt, wer sie ist — und entscheide auf dieser Basis."
+  },
+  {
+    "question": "Was ist Hoovering?",
+    "answer": "Hoovering ist eine Manipulationstaktik nach dem Beziehungsende: Der Narzisst kontaktiert dich plötzlich wieder, oft mit Liebesbekundungen, Entschuldigungen oder Dramatik ('Mir geht es schlecht ohne dich'). Ziel ist nicht echte Reue, sondern dich zurück in die Dynamik zu saugen — wie ein Staubsauger ('Hoover'). Die einzige funktionierende Antwort ist No Contact."
+  },
+  {
+    "question": "Wie heile ich nach einer narzisstischen Beziehung?",
+    "answer": "Heilung braucht drei Säulen: 1. **No Contact** — kompletter Kontaktabbruch ist nicht-verhandelbar. 2. **Therapie**, idealerweise mit Trauma-Spezialisierung (EMDR, somatische Verfahren). 3. **Wiederaufbau des Selbstwerts** — durch tägliche Praxis, Körperarbeit und ein soziales Netzwerk, das dich kennt und dir glaubt. Realistische Heilungsdauer: 1–3 Jahre, in denen das Trauma schrittweise integriert wird."
+  }
+];
+const stats = [{"number": "1%", "label": "haben klinischen Narzissmus"}, {"number": "29+", "label": "Artikel zum Thema"}, {"number": "12", "label": "Hauptanzeichen"}];
+
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: title,
+  description: description,
+  url: canonical,
+  inLanguage: 'de-DE',
+  publisher: {
+    '@type': 'Organization',
+    name: 'Herzblatt Journal',
+    url: 'https://herzblatt-journal.com'
+  }
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqData.map(f => ({
+    '@type': 'Question',
+    name: f.question,
+    acceptedAnswer: { '@type': 'Answer', text: f.answer }
+  }))
+};
+---
+
+<BaseLayout title={title} description={description} canonical={canonical}>
+  <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+  <section class="relative overflow-hidden" style="min-height: 460px;">
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, #4c1d95 0%, #6d28d9 50%, #be185d 100%);"></div>
+    <div class="absolute inset-0" style="background: radial-gradient(circle at 30% 50%, rgba(255,255,255,0.1) 0%, transparent 50%);"></div>
+
+    <div class="relative max-w-6xl mx-auto px-4 sm:px-6 py-20 sm:py-32">
+      <div class="max-w-3xl">
+        <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-sm font-medium mb-6" style="background: rgba(255,255,255,0.15); color: white; border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(8px);">
+          🎭 Pillar-Guide · {sections.reduce((sum, s) => sum + s.links.length, 0)} Artikel
+        </div>
+        <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold mb-6 leading-tight" style="color: white; font-family: var(--font-serif);">
+          Narzissmus verstehen
+        </h1>
+        <p class="text-xl sm:text-2xl mb-8 leading-relaxed" style="color: rgba(255,255,255,0.95);">
+          Wie du Narzissmus früh erkennst, was Beziehung mit einem Narzissten so zerstörerisch macht — und wie du den Weg aus toxischen Dynamiken findest.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div style="color: var(--text); font-size: 1.125rem; line-height: 1.8;">
+        <p class="mb-6" set:html={`Narzissmus ist mehr als nur Egoismus. Es ist eine Persönlichkeitsstruktur, die in engen Beziehungen systematisch Schaden anrichtet — über Gaslighting, Lovebombing, Kontrolle und schließlich Abwertung. <strong>Wer einmal in dieser Dynamik war, vergisst sie nicht — wer sie früh erkennt, kann sich schützen.</strong>`}></p>
+        <p class="mb-6" set:html={`Dieser Pillar-Guide bündelt unsere komplette Narzissmus-Bibliothek: Erkennungszeichen, geschlechterspezifische Ausprägungen, typische Manipulationstaktiken (Hoovering, Flying Monkeys, Grey Rock) und Heilungswege nach narzisstischem Missbrauch.`}></p>
+        <p class="mb-6" set:html={`Wichtig: Echter klinischer Narzissmus (NPD) betrifft etwa 1 % der Bevölkerung — narzisstische Züge sind häufiger. Beide können in Beziehungen massiv schaden. Such dir den Einstieg, der zu deiner Situation passt.`}></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-12 sm:py-16" style="background: var(--bg-soft); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div class="grid grid-cols-3 gap-8 text-center">
+        {stats.map(stat => (
+          <div>
+            <div class="text-3xl sm:text-4xl font-extrabold mb-2" style="color: var(--color-primary-600); font-family: var(--font-serif);">{stat.number}</div>
+            <div class="text-sm sm:text-base" style="color: var(--text-muted);">{stat.label}</div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="grid gap-8 md:gap-10">
+        {sections.map((section, idx) => (
+          <div id={section.id}>
+            <div class="grid md:grid-cols-12 gap-8 items-start">
+              <div class="md:col-span-8">
+                <div class="flex items-start gap-4 mb-6">
+                  <div class="text-4xl" style="line-height: 1;">{section.emoji}</div>
+                  <div class="flex-1">
+                    <h2 class="text-2xl sm:text-3xl font-extrabold mb-3" style="color: var(--text); font-family: var(--font-serif);">{section.title}</h2>
+                    <p style="color: var(--text-muted); line-height: 1.7;">{section.description}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="md:col-span-4">
+                <div class="space-y-3">
+                  {section.links.map(link => (
+                    <a href={`/blog/${link.slug}/`} class="block p-4 rounded-lg transition-all hover:scale-[1.02]" style="background: var(--bg-soft); border: 1px solid var(--border); color: var(--text); text-decoration: none;">
+                      <div class="flex items-center justify-between gap-3">
+                        <span class="font-semibold text-sm leading-snug">{link.title}</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="color: var(--color-primary-500); flex-shrink: 0;"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </div>
+            {idx < sections.length - 1 && <div class="mt-12 mb-8" style="border-bottom: 1px solid var(--border);"></div>}
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg-soft); border-top: 1px solid var(--border);">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6">
+      <h2 class="text-3xl sm:text-4xl font-extrabold text-center mb-4" style="color: var(--text); font-family: var(--font-serif);">Häufige Fragen</h2>
+      <p class="text-center mb-12" style="color: var(--text-muted);">Was Menschen am häufigsten wissen wollen</p>
+      <div class="space-y-6">
+        {faqData.map((item, idx) => (
+          <details>
+            <summary class="flex items-center justify-between p-6 rounded-lg cursor-pointer font-semibold transition-all" style="background: var(--bg); color: var(--text); border: 1px solid var(--border);">
+              <span>{item.question}</span>
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="transition: transform 0.3s; color: var(--color-primary-600);"><path d="m6 9 6 6 6-6"/></svg>
+            </summary>
+            <div class="px-6 pb-6" style="color: var(--text-muted);">{item.answer}</div>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <style>
+    details[open] summary svg { transform: rotate(180deg); }
+  </style>
+</BaseLayout>

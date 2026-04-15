@@ -1,0 +1,282 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = "Toxische Beziehung erkennen, verlassen, heilen \u2014 Komplett-Guide";
+const description = "Toxische Beziehung erkennen: Warnsignale, Selbsttests, wie du dich befreist und wie die Heilung danach aussieht \u2014 der komplette Guide.";
+const keywords = ["toxische beziehung", "toxische beziehung erkennen", "toxische beziehung verlassen", "toxische beziehung test", "heilung toxische beziehung"];
+const canonical = 'https://herzblatt-journal.com/toxische-beziehung/';
+
+const sections = [
+  {
+    "id": "erkennen",
+    "emoji": "🔍",
+    "title": "Toxische Beziehung erkennen",
+    "description": "Die wichtigsten Warnsignale, Selbsttests und Mustererkennung. Wenn du dir nicht sicher bist, ob deine Beziehung toxisch ist — fang hier an.",
+    "links": [
+      {
+        "slug": "toxische-beziehung-erkennen",
+        "title": "Toxische Beziehung erkennen: 15 Warnsignale"
+      },
+      {
+        "slug": "toxische-beziehung-komplett-guide-2026",
+        "title": "Toxische Beziehung: 25+ Warnsignale & wie du dich befreist"
+      },
+      {
+        "slug": "toxische-beziehungen-komplett-guide",
+        "title": "Toxische Beziehung erkennen: 15 Warnsignale & Auswege"
+      },
+      {
+        "slug": "beziehung-toxisch-test",
+        "title": "Toxische Beziehungen Test: 20 Warnsignale"
+      },
+      {
+        "slug": "beziehung-test-toxisch-quiz",
+        "title": "Ist deine Beziehung toxisch? Der ehrliche Selbsttest"
+      }
+    ]
+  },
+  {
+    "id": "muster",
+    "emoji": "🌀",
+    "title": "Toxische Muster im Detail",
+    "description": "Die spezifischen Dynamiken und Muster, die toxische Beziehungen prägen — von Kommunikation bis Männlichkeit.",
+    "links": [
+      {
+        "slug": "beziehung-toxische-kommunikationsmuster",
+        "title": "Die 4 apokalyptischen Reiter (Gottman)"
+      },
+      {
+        "slug": "toxische-positivitaet-beziehung",
+        "title": "Toxic Positivity: Wenn positiv denken schadet"
+      },
+      {
+        "slug": "toxische-maennlichkeit-beziehung-auswirkungen",
+        "title": "Toxische Männlichkeit in der Beziehung"
+      },
+      {
+        "slug": "beziehung-toxische-schwiegereltern-umgang",
+        "title": "Toxische Schwiegereltern: Grenzen setzen"
+      },
+      {
+        "slug": "toxische-freundschaften-beziehung-belasten",
+        "title": "Wenn toxische Freundschaften deine Beziehung belasten"
+      }
+    ]
+  },
+  {
+    "id": "verlassen",
+    "emoji": "🚪",
+    "title": "Toxische Beziehung verlassen",
+    "description": "Der schwerste Schritt — und der wichtigste. Wie du dich vorbereitest, was du brauchst, wie du es schaffst.",
+    "links": [
+      {
+        "slug": "toxische-beziehung-verlassen",
+        "title": "Toxische Beziehung verlassen: Schritt-für-Schritt"
+      },
+      {
+        "slug": "toxische-beziehung-verlassen-guide",
+        "title": "Toxische Beziehung verlassen"
+      },
+      {
+        "slug": "toxische-beziehung-verlassen-plan",
+        "title": "Toxische Beziehung verlassen — Der Schritt-für-Schritt-Plan"
+      },
+      {
+        "slug": "toxische-beziehung-komplett-guide",
+        "title": "Toxische Beziehung erkennen und verlassen"
+      },
+      {
+        "slug": "gray-rocking-toxische-beziehung-guide",
+        "title": "Gray Rocking: Überlebensstrategie gegen toxische Menschen"
+      }
+    ]
+  },
+  {
+    "id": "heilung",
+    "emoji": "🦋",
+    "title": "Heilung nach der toxischen Beziehung",
+    "description": "Was du brauchst, damit dein Selbstwert wieder wächst — und du nicht in die nächste toxische Dynamik tappst.",
+    "links": [
+      {
+        "slug": "heilung-nach-toxischer-beziehung",
+        "title": "Heilung nach toxischer Beziehung"
+      },
+      {
+        "slug": "nach-toxischer-beziehung-heilen",
+        "title": "Heilung nach einer toxischen Beziehung"
+      },
+      {
+        "slug": "selbstwert-nach-toxischer-beziehung",
+        "title": "Selbstwert wieder aufbauen nach toxischer Beziehung"
+      }
+    ]
+  },
+  {
+    "id": "neu-dating",
+    "emoji": "💞",
+    "title": "Neu daten nach toxischer Beziehung",
+    "description": "Wann ist es Zeit für die nächste Beziehung — und wie verhinderst du, wieder in dasselbe Muster zu fallen?",
+    "links": [
+      {
+        "slug": "dating-nach-toxischer-beziehung",
+        "title": "Wieder daten nach toxischer Beziehung"
+      },
+      {
+        "slug": "dating-nach-toxischer-beziehung-heilen",
+        "title": "Dating nach toxischer Beziehung: Heilung & Neustart"
+      }
+    ]
+  }
+];
+const faqData = [
+  {
+    "question": "Wann ist eine Beziehung wirklich toxisch und nicht nur schwierig?",
+    "answer": "Schwierige Beziehungen haben Konflikte, beide Seiten sind aber bereit, sich zu versöhnen und zu verändern. Toxisch wird es, wenn ein systematisches Muster aus Kontrolle, Abwertung, Gaslighting oder emotionalem Rückzug sich über Monate durchzieht und ein Partner sich systematisch kleiner und unsicherer fühlt. Der zuverlässigste Indikator: Wie fühlst du dich nach Gesprächen — verbundener oder kleiner?"
+  },
+  {
+    "question": "Kann eine toxische Beziehung gerettet werden?",
+    "answer": "Nur unter drei Bedingungen: Beide erkennen das Problem, beide machen ernsthaft Therapie (idealerweise Paar + Einzel), und der toxische Partner übernimmt ohne Wenn und Aber Verantwortung. Ohne diese drei Elemente ist Rettung Hoffen auf Wunder. In den meisten Fällen ist Trennung gesünder."
+  },
+  {
+    "question": "Wie verlasse ich eine toxische Beziehung sicher?",
+    "answer": "Plan vorbereiten: 1. **Sicherheit** — bei Gewaltgefahr Frauen-/Männerberatungsstelle kontaktieren. 2. **Finanzen** — eigenes Konto, eigene Reserve, Zugang zu Dokumenten sichern. 3. **Wohnung** — Plan B, wo du hin kannst. 4. **Soziales Netz** — Vertrauenspersonen einweihen. 5. **Klarheit** — die Trennung kurz, klar, kein langes Gespräch. 6. **No Contact** danach. Bei toxischen Partnern eskaliert die Trennung oft — sei vorbereitet."
+  },
+  {
+    "question": "Warum bleibe ich, obwohl ich weiß, dass es toxisch ist?",
+    "answer": "Meist liegt es an Trauma-Bonding (intensive Höhen und Tiefen schaffen suchtähnliche Bindung), dem Sunk-Cost-Bias (bereits investierte Zeit) und dem Bindungsstil aus der Kindheit. Bei ängstlich-ambivalentem oder desorganisiertem Bindungsstil verwechselt das Gehirn Intensität mit Liebe. Dieses Muster zu durchbrechen braucht meist professionelle Unterstützung — Rationalität allein reicht nicht."
+  },
+  {
+    "question": "Wie lange dauert die Heilung nach einer toxischen Beziehung?",
+    "answer": "1–3 Jahre für tiefere Heilung, erste Stabilisierung oft in 3–6 Monaten. Die Schwere hängt ab von: Dauer der Beziehung, Intensität der Manipulation, eigene Kindheits-Prägung, soziale Unterstützung und ob professionelle Hilfe (besonders Trauma-spezialisierte Therapie wie EMDR) genutzt wird. Heilung ist nicht linear — Rückschläge sind normal und kein Versagen."
+  }
+];
+const stats = [{"number": "20+", "label": "Warnsignale erkennen"}, {"number": "21+", "label": "Artikel zum Thema"}, {"number": "1–3 J", "label": "typische Heilungsdauer"}];
+
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: title,
+  description: description,
+  url: canonical,
+  inLanguage: 'de-DE',
+  publisher: {
+    '@type': 'Organization',
+    name: 'Herzblatt Journal',
+    url: 'https://herzblatt-journal.com'
+  }
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqData.map(f => ({
+    '@type': 'Question',
+    name: f.question,
+    acceptedAnswer: { '@type': 'Answer', text: f.answer }
+  }))
+};
+---
+
+<BaseLayout title={title} description={description} canonical={canonical}>
+  <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+  <section class="relative overflow-hidden" style="min-height: 460px;">
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, #7c2d12 0%, #b91c1c 50%, #ea580c 100%);"></div>
+    <div class="absolute inset-0" style="background: radial-gradient(circle at 30% 50%, rgba(255,255,255,0.1) 0%, transparent 50%);"></div>
+
+    <div class="relative max-w-6xl mx-auto px-4 sm:px-6 py-20 sm:py-32">
+      <div class="max-w-3xl">
+        <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-sm font-medium mb-6" style="background: rgba(255,255,255,0.15); color: white; border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(8px);">
+          ☠️ Pillar-Guide · {sections.reduce((sum, s) => sum + s.links.length, 0)} Artikel
+        </div>
+        <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold mb-6 leading-tight" style="color: white; font-family: var(--font-serif);">
+          Toxische Beziehungen
+        </h1>
+        <p class="text-xl sm:text-2xl mb-8 leading-relaxed" style="color: rgba(255,255,255,0.95);">
+          Warnsignale erkennen, Auswege finden, Heilung erleben — der ehrliche Komplett-Guide für Betroffene.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div style="color: var(--text); font-size: 1.125rem; line-height: 1.8;">
+        <p class="mb-6" set:html={`Eine Beziehung ist nicht toxisch, weil sie schwer ist. Sie ist toxisch, wenn sie dich systematisch <strong>kleiner, ängstlicher und unsicherer</strong> macht — über Wochen, Monate, Jahre. Wenn du nach Gesprächen verwirrter bist als vorher. Wenn dein Bauchgefühl Alarm schlägt, aber dein Verstand das wegerklärt.`}></p>
+        <p class="mb-6" set:html={`Dieser Pillar-Guide bündelt unsere komplette Toxische-Beziehungen-Bibliothek: Erkennungszeichen, Selbsttests, Strategien während der Beziehung (Grenzen, Grey Rock), den Weg hinaus und die Heilung danach.`}></p>
+        <p class="mb-6" set:html={`Wichtig: Wenn du in einer toxischen Beziehung steckst, ist Aussteigen meistens der einzige gesunde Schritt — aber er braucht Vorbereitung. Dieser Guide hilft dir bei jedem Schritt: Erkennen, Bewerten, Aussteigen, Heilen.`}></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-12 sm:py-16" style="background: var(--bg-soft); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div class="grid grid-cols-3 gap-8 text-center">
+        {stats.map(stat => (
+          <div>
+            <div class="text-3xl sm:text-4xl font-extrabold mb-2" style="color: var(--color-primary-600); font-family: var(--font-serif);">{stat.number}</div>
+            <div class="text-sm sm:text-base" style="color: var(--text-muted);">{stat.label}</div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="grid gap-8 md:gap-10">
+        {sections.map((section, idx) => (
+          <div id={section.id}>
+            <div class="grid md:grid-cols-12 gap-8 items-start">
+              <div class="md:col-span-8">
+                <div class="flex items-start gap-4 mb-6">
+                  <div class="text-4xl" style="line-height: 1;">{section.emoji}</div>
+                  <div class="flex-1">
+                    <h2 class="text-2xl sm:text-3xl font-extrabold mb-3" style="color: var(--text); font-family: var(--font-serif);">{section.title}</h2>
+                    <p style="color: var(--text-muted); line-height: 1.7;">{section.description}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="md:col-span-4">
+                <div class="space-y-3">
+                  {section.links.map(link => (
+                    <a href={`/blog/${link.slug}/`} class="block p-4 rounded-lg transition-all hover:scale-[1.02]" style="background: var(--bg-soft); border: 1px solid var(--border); color: var(--text); text-decoration: none;">
+                      <div class="flex items-center justify-between gap-3">
+                        <span class="font-semibold text-sm leading-snug">{link.title}</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="color: var(--color-primary-500); flex-shrink: 0;"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </div>
+            {idx < sections.length - 1 && <div class="mt-12 mb-8" style="border-bottom: 1px solid var(--border);"></div>}
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg-soft); border-top: 1px solid var(--border);">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6">
+      <h2 class="text-3xl sm:text-4xl font-extrabold text-center mb-4" style="color: var(--text); font-family: var(--font-serif);">Häufige Fragen</h2>
+      <p class="text-center mb-12" style="color: var(--text-muted);">Was Menschen am häufigsten wissen wollen</p>
+      <div class="space-y-6">
+        {faqData.map((item, idx) => (
+          <details>
+            <summary class="flex items-center justify-between p-6 rounded-lg cursor-pointer font-semibold transition-all" style="background: var(--bg); color: var(--text); border: 1px solid var(--border);">
+              <span>{item.question}</span>
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="transition: transform 0.3s; color: var(--color-primary-600);"><path d="m6 9 6 6 6-6"/></svg>
+            </summary>
+            <div class="px-6 pb-6" style="color: var(--text-muted);">{item.answer}</div>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <style>
+    details[open] summary svg { transform: rotate(180deg); }
+  </style>
+</BaseLayout>
