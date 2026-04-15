@@ -1,0 +1,266 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = "Kommunikation in Beziehungen: Der komplette Guide";
+const description = "Kommunikation in der Beziehung: Aktives Zuh\u00f6ren, Gewaltfreie Kommunikation, Konflikt-Deeskalation \u2014 der komplette Guide f\u00fcr Paare.";
+const keywords = ["kommunikation beziehung", "aktives zuh\u00f6ren", "gewaltfreie kommunikation", "kommunikationsprobleme", "paare kommunizieren"];
+const canonical = 'https://herzblatt-journal.com/kommunikation/';
+
+const sections = [
+  {
+    "id": "grundlagen",
+    "emoji": "📖",
+    "title": "Kommunikations-Grundlagen",
+    "description": "Die wichtigsten Prinzipien guter Beziehungs-Kommunikation — von Gottman-Methode bis zu modernen Ansätzen.",
+    "links": [
+      {
+        "slug": "kommunikation-beziehung",
+        "title": "Kommunikation in der Beziehung: Gespräche führen"
+      },
+      {
+        "slug": "kommunikation-beziehung-komplett",
+        "title": "Kommunikation in der Beziehung: Der komplette Guide"
+      },
+      {
+        "slug": "kommunikation-in-beziehungen-masterclass",
+        "title": "Kommunikation in Beziehungen: Die Masterclass für Paare"
+      },
+      {
+        "slug": "beziehung-kommunikation-masterclass",
+        "title": "Kommunikation in Beziehungen: Die Masterclass"
+      }
+    ]
+  },
+  {
+    "id": "zuhoeren",
+    "emoji": "👂",
+    "title": "Aktives Zuhören",
+    "description": "Die wichtigste Kommunikations-Fähigkeit: wirklich zuhören statt nur zu warten, bis man antworten darf.",
+    "links": [
+      {
+        "slug": "aktives-zuhoeren-beziehung-ueben",
+        "title": "Aktives Zuhören üben: In 7 Schritten"
+      },
+      {
+        "slug": "aktives-zuhoeren-partner",
+        "title": "Aktives Zuhören: Die Beziehungs-Superkraft"
+      }
+    ]
+  },
+  {
+    "id": "gfk",
+    "emoji": "🕊️",
+    "title": "Gewaltfreie Kommunikation",
+    "description": "Die Methode nach Marshall Rosenberg — wie du deine Bedürfnisse ausdrückst, ohne den Partner anzugreifen.",
+    "links": [
+      {
+        "slug": "beziehung-kommunikation-gewaltfreie",
+        "title": "Gewaltfreie Kommunikation in der Beziehung"
+      },
+      {
+        "slug": "gewaltfreie-kommunikation-beziehung",
+        "title": "Gewaltfreie Kommunikation in der Partnerschaft"
+      }
+    ]
+  },
+  {
+    "id": "konflikte",
+    "emoji": "⚡",
+    "title": "Konflikt & Deeskalation",
+    "description": "Wenn es kracht: die 4 apokalyptischen Reiter vermeiden und den Weg aus der Eskalation finden.",
+    "links": [
+      {
+        "slug": "beziehung-toxische-kommunikationsmuster",
+        "title": "Die 4 apokalyptischen Reiter"
+      },
+      {
+        "slug": "beziehung-kommunikationsprobleme-loesen",
+        "title": "Kommunikationsprobleme in der Beziehung lösen"
+      },
+      {
+        "slug": "kommunikationsprobleme-beziehung",
+        "title": "Kommunikationsprobleme in der Beziehung"
+      }
+    ]
+  },
+  {
+    "id": "offen",
+    "emoji": "🫶",
+    "title": "Offene Kommunikation & Meta-Ebene",
+    "description": "Über schwierige Themen sprechen: Bedürfnisse, sexuelle Wünsche, Ängste. Und: wie ihr über eure Kommunikation redet.",
+    "links": [
+      {
+        "slug": "beziehung-offene-kommunikation",
+        "title": "Offene Kommunikation: So sagst du was du denkst"
+      },
+      {
+        "slug": "beziehung-offene-kommunikation-lernen",
+        "title": "Offene Kommunikation: Der komplette Guide"
+      },
+      {
+        "slug": "offene-kommunikation-sexuelle-wuensche",
+        "title": "Sexuelle Wünsche ansprechen"
+      },
+      {
+        "slug": "meta-kommunikation-paare",
+        "title": "Meta-Kommunikation: Über eure Kommunikation reden"
+      },
+      {
+        "slug": "beziehung-digitale-kommunikation",
+        "title": "WhatsApp, Texting, Emojis"
+      }
+    ]
+  }
+];
+const faqData = [
+  {
+    "question": "Was sind die wichtigsten Kommunikationsregeln für Paare?",
+    "answer": "Fünf Kernregeln: (1) Bei \"Ich\"-Botschaften bleiben, nicht \"Du machst immer...\"-Anklagen. (2) Zuhören bis der andere fertig ist — ohne zu unterbrechen oder zu argumentieren im Kopf. (3) Timing wählen: nicht bei Müdigkeit, Hunger oder akutem Stress. (4) Ein Thema pro Gespräch, nicht Problem-Stacking. (5) Pause-Recht respektieren: 20+ Minuten Abkühlung sind okay, keine Gesprächsverweigerung."
+  },
+  {
+    "question": "Was sind die 4 apokalyptischen Reiter der Kommunikation?",
+    "answer": "Von John Gottman identifiziert als die 4 größten Beziehungs-Killer: (1) Kritik — Angriff auf den Charakter statt des Verhaltens. (2) Verachtung — Sarkasmus, Augenrollen, Respektlosigkeit (am destruktivsten). (3) Abwehr — Schuldabwehr statt Verantwortung. (4) Rückzug / Stonewalling — emotionale Mauer. Alle vier korrelieren mit Trennung innerhalb von 5 Jahren."
+  },
+  {
+    "question": "Wie höre ich besser zu?",
+    "answer": "Vier Techniken: (1) Handy weg, Augenkontakt. (2) Spiegeln: \"Habe ich richtig verstanden, dass...\" (3) Nicht antworten wollen — nur verstehen wollen. (4) Gefühl benennen vor Lösung: \"Das klingt frustrierend\" vor \"Versuch doch Folgendes\". Übe bewusst: in den ersten 3 Monaten wird es unnatürlich fühlen. Nach 3 Monaten wird es automatisch."
+  },
+  {
+    "question": "Wie spreche ich schwierige Themen an?",
+    "answer": "Vier-Schritt-Modell: (1) Timing absprechen: \"Können wir in 30 Min über X reden?\" (2) Mit Absicht öffnen: \"Mir ist X wichtig — ich merke Y.\" (3) Ich-Botschaft: \"Ich fühle mich Z, wenn Situation ABC.\" (4) Bedürfnis benennen: \"Was ich brauche, ist DEF.\" Nie im Eskalations-Moment, immer mit bewusster Vorbereitung."
+  },
+  {
+    "question": "Was tun wenn Gespräche immer zum Streit werden?",
+    "answer": "Meist liegt es an unverarbeiteten Mustern beider Seiten — oft aus früheren Beziehungen oder der Kindheit. Drei Schritte: (1) Paartherapie (gehört NICHT in die Sucht-Ecke, ist Präventions-Tool). (2) Einzel-Therapie für tiefere Muster. (3) Regeln für Konfliktgespräche einführen: Pause bei Erregung, keine Beleidigungen, ein Thema pro Gespräch. Ohne Struktur wiederholen sich die gleichen Dynamiken endlos."
+  }
+];
+const stats = [{"number": "19+", "label": "Artikel zum Thema"}, {"number": "69%", "label": "der Konflikte sind unlösbar"}, {"number": "4", "label": "apokalyptische Reiter"}];
+
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: title,
+  description: description,
+  url: canonical,
+  inLanguage: 'de-DE',
+  publisher: {
+    '@type': 'Organization',
+    name: 'Herzblatt Journal',
+    url: 'https://herzblatt-journal.com'
+  }
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqData.map(f => ({
+    '@type': 'Question',
+    name: f.question,
+    acceptedAnswer: { '@type': 'Answer', text: f.answer }
+  }))
+};
+---
+
+<BaseLayout title={title} description={description} canonical={canonical}>
+  <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+  <section class="relative overflow-hidden" style="min-height: 460px;">
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, #0e7490 0%, #14b8a6 50%, #84cc16 100%);"></div>
+    <div class="absolute inset-0" style="background: radial-gradient(circle at 30% 50%, rgba(255,255,255,0.1) 0%, transparent 50%);"></div>
+
+    <div class="relative max-w-6xl mx-auto px-4 sm:px-6 py-20 sm:py-32">
+      <div class="max-w-3xl">
+        <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-sm font-medium mb-6" style="background: rgba(255,255,255,0.15); color: white; border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(8px);">
+          💬 Pillar-Guide · {sections.reduce((sum, s) => sum + s.links.length, 0)} Artikel
+        </div>
+        <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold mb-6 leading-tight" style="color: white; font-family: var(--font-serif);">
+          Beziehungs-Kommunikation meistern
+        </h1>
+        <p class="text-xl sm:text-2xl mb-8 leading-relaxed" style="color: rgba(255,255,255,0.95);">
+          Wie Paare wirklich miteinander reden — von aktivem Zuhören über Gewaltfreie Kommunikation bis zur Konflikt-Deeskalation.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div style="color: var(--text); font-size: 1.125rem; line-height: 1.8;">
+        <p class="mb-6" set:html={`John Gottman, der wohl bekannteste Beziehungsforscher, hat in 40 Jahren Forschung eine klare Erkenntnis gewonnen: <strong>Nicht die Häufigkeit von Konflikten entscheidet über den Erfolg einer Beziehung — sondern die Art, wie Paare miteinander reden.</strong> 69 % aller Beziehungs-Konflikte sind unlösbar. Was Paare unterscheidet, ist, ob sie ihre Unterschiede mit Respekt oder mit Verachtung verhandeln.`}></p>
+        <p class="mb-6" set:html={`Dieser Pillar-Guide bündelt unsere komplette Kommunikations-Bibliothek: Grundlagen, aktives Zuhören, Gewaltfreie Kommunikation nach Marshall Rosenberg, Konflikt-Deeskalation und was tun bei den "4 apokalyptischen Reitern" (Kritik, Verachtung, Abwehr, Rückzug).`}></p>
+        <p class="mb-6" set:html={`Kommunikation ist keine angeborene Fähigkeit — sie ist erlernbar. Und sie ist die einzige Fähigkeit, die du in deinem Leben wirklich in jeder Beziehung brauchst: zu deinem Partner, deinen Kindern, deinen Eltern, Kollegen. Es lohnt sich, hier zu investieren.`}></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-12 sm:py-16" style="background: var(--bg-soft); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div class="grid grid-cols-3 gap-8 text-center">
+        {stats.map(stat => (
+          <div>
+            <div class="text-3xl sm:text-4xl font-extrabold mb-2" style="color: var(--color-primary-600); font-family: var(--font-serif);">{stat.number}</div>
+            <div class="text-sm sm:text-base" style="color: var(--text-muted);">{stat.label}</div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="grid gap-8 md:gap-10">
+        {sections.map((section, idx) => (
+          <div id={section.id}>
+            <div class="grid md:grid-cols-12 gap-8 items-start">
+              <div class="md:col-span-8">
+                <div class="flex items-start gap-4 mb-6">
+                  <div class="text-4xl" style="line-height: 1;">{section.emoji}</div>
+                  <div class="flex-1">
+                    <h2 class="text-2xl sm:text-3xl font-extrabold mb-3" style="color: var(--text); font-family: var(--font-serif);">{section.title}</h2>
+                    <p style="color: var(--text-muted); line-height: 1.7;">{section.description}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="md:col-span-4">
+                <div class="space-y-3">
+                  {section.links.map(link => (
+                    <a href={`/blog/${link.slug}/`} class="block p-4 rounded-lg transition-all hover:scale-[1.02]" style="background: var(--bg-soft); border: 1px solid var(--border); color: var(--text); text-decoration: none;">
+                      <div class="flex items-center justify-between gap-3">
+                        <span class="font-semibold text-sm leading-snug">{link.title}</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="color: var(--color-primary-500); flex-shrink: 0;"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </div>
+            {idx < sections.length - 1 && <div class="mt-12 mb-8" style="border-bottom: 1px solid var(--border);"></div>}
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg-soft); border-top: 1px solid var(--border);">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6">
+      <h2 class="text-3xl sm:text-4xl font-extrabold text-center mb-4" style="color: var(--text); font-family: var(--font-serif);">Häufige Fragen</h2>
+      <p class="text-center mb-12" style="color: var(--text-muted);">Was Menschen am häufigsten wissen wollen</p>
+      <div class="space-y-6">
+        {faqData.map((item, idx) => (
+          <details>
+            <summary class="flex items-center justify-between p-6 rounded-lg cursor-pointer font-semibold transition-all" style="background: var(--bg); color: var(--text); border: 1px solid var(--border);">
+              <span>{item.question}</span>
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="transition: transform 0.3s; color: var(--color-primary-600);"><path d="m6 9 6 6 6-6"/></svg>
+            </summary>
+            <div class="px-6 pb-6" style="color: var(--text-muted);">{item.answer}</div>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <style>
+    details[open] summary svg { transform: rotate(180deg); }
+  </style>
+</BaseLayout>

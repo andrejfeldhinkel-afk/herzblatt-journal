@@ -1,0 +1,270 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = "Dating-Apps 2026: Vergleich, Tipps & Strategien f\u00fcr Erfolg";
+const description = "Dating-Apps im Vergleich: Tinder, Bumble, Hinge und Co \u2014 mit Profil-Tipps, Opener-Strategien und dem echten Blick auf den Algorithmus.";
+const keywords = ["dating apps", "dating app vergleich", "tinder", "bumble", "hinge", "online dating", "beste dating app"];
+const canonical = 'https://herzblatt-journal.com/dating-apps/';
+
+const sections = [
+  {
+    "id": "vergleich",
+    "emoji": "⚖️",
+    "title": "App-Vergleich & beste Wahl",
+    "description": "Welche App passt zu dir? Der ehrliche Vergleich aller großen Plattformen — Tinder, Bumble, Hinge, OkCupid, Parship und Co.",
+    "links": [
+      {
+        "slug": "beste-dating-apps-2026",
+        "title": "Die besten Dating-Apps 2026"
+      },
+      {
+        "slug": "dating-app-vergleich-komplett-2026",
+        "title": "Dating Apps 2026: Der komplette Vergleich"
+      },
+      {
+        "slug": "dating-app-vergleich-2026",
+        "title": "Dating-Apps im Vergleich 2026"
+      },
+      {
+        "slug": "dating-app-premium-lohnt-sich",
+        "title": "Dating-App Premium: Lohnt sich bezahlen?"
+      }
+    ]
+  },
+  {
+    "id": "profil",
+    "emoji": "✨",
+    "title": "Profil optimieren",
+    "description": "Dein Profil ist 90 % der Entscheidung. Bio, Fotos, Reihenfolge — hier sind die konkreten Prinzipien, die funktionieren.",
+    "links": [
+      {
+        "slug": "dating-app-profil-optimieren",
+        "title": "Dating App Profil optimieren: Mehr Matches"
+      },
+      {
+        "slug": "dating-app-bio-schreiben",
+        "title": "Dating-App Bio: Profiltexte die matchen"
+      },
+      {
+        "slug": "bumble-profil-optimieren",
+        "title": "Bumble Profil optimieren: Mehr Erfolg"
+      },
+      {
+        "slug": "bumble-tipps-tricks",
+        "title": "Bumble Tipps & Tricks: Echte Matches"
+      }
+    ]
+  },
+  {
+    "id": "algorithmus",
+    "emoji": "🤖",
+    "title": "Den Algorithmus verstehen",
+    "description": "Tinder, Bumble und Co arbeiten nicht zufällig. Verstehst du den Algorithmus, bekommst du bessere Matches.",
+    "links": [
+      {
+        "slug": "dating-apps-algorithmus-verstehen",
+        "title": "Dating-App Algorithmen verstehen"
+      },
+      {
+        "slug": "dating-apps-algorithmus-hacken",
+        "title": "So optimierst du deinen Dating-App Algorithmus"
+      },
+      {
+        "slug": "dating-app-algorithmus-verstehen",
+        "title": "Dating App Algorithmus: Tinder, Bumble & Co"
+      }
+    ]
+  },
+  {
+    "id": "kommunikation",
+    "emoji": "💬",
+    "title": "Gespräche & Opener",
+    "description": "Match ist nur der Anfang. Hier sind die Opener und Gesprächs-Strategien, die vom Text zum Date führen.",
+    "links": [
+      {
+        "slug": "dating-app-opener-vorlagen",
+        "title": "50 Opener für Dating-Apps die funktionieren"
+      },
+      {
+        "slug": "dating-app-gespraeche-vertiefen",
+        "title": "Dating-App Gespräche: Von Small Talk zur Verbindung"
+      },
+      {
+        "slug": "dating-app-matches-keine-dates",
+        "title": "Viele Matches, keine Dates: Was du falsch machst"
+      },
+      {
+        "slug": "dating-app-voice-notes-sprachnachrichten",
+        "title": "Sprachnachrichten beim Dating: Voice Notes"
+      }
+    ]
+  },
+  {
+    "id": "probleme",
+    "emoji": "⚠️",
+    "title": "Probleme & Dating-Fatigue",
+    "description": "Wenn Dating-Apps zum Problem werden: Sucht, Burnout, Gaslighting. Hier sind die Auswege.",
+    "links": [
+      {
+        "slug": "dating-app-sucht-erkennen",
+        "title": "Dating-App-Sucht: Wenn Swipen zur Obsession wird"
+      },
+      {
+        "slug": "dating-app-muedigkeit-ueberwinden",
+        "title": "Dating-App-Müdigkeit: Wenn Swipen nur noch nervt"
+      }
+    ]
+  }
+];
+const faqData = [
+  {
+    "question": "Welche Dating-App ist die beste in Deutschland 2026?",
+    "answer": "Es gibt nicht DIE beste App — es kommt auf dein Ziel an. Für ernste Beziehungen: Hinge und Parship. Für lockeres Dating: Tinder und Bumble. Für intellektuelle Matches: OkCupid. Für LGBTQIA+: HER, Grindr, Taimi. Faustregel: Probier 2-3 Apps gleichzeitig, bleib bei der mit der besten Qualität für dich."
+  },
+  {
+    "question": "Wie oft soll ich mein Dating-App-Profil aktualisieren?",
+    "answer": "Alle 2-3 Monate einmal signifikant: neue Fotos, neue Bio-Zeile, vielleicht neue Prompts. Der Algorithmus belohnt Aktivität und Veränderung — ein seit 6 Monaten identisches Profil wird langsam weniger angezeigt. Aktualisierung signalisiert: aktiver Nutzer."
+  },
+  {
+    "question": "Warum bekomme ich keine Matches trotz gutem Profil?",
+    "answer": "Meist 3 Gründe: (1) Der Algorithmus hat dich in eine schlechte Sichtbarkeits-Stufe sortiert (passiert durch zu viele schnelle Rejections am Anfang), (2) deine Fotos sind objektiv mittelmäßig (erste Sekunde entscheidet), (3) du swipst zu schnell — das zeigt dem Algorithmus wenig Ernsthaftigkeit. Fix: Profil pausieren für 7 Tage, neu starten mit 3 neuen Fotos."
+  },
+  {
+    "question": "Soll ich Dating-App Premium bezahlen?",
+    "answer": "In 80 % der Fälle nein. Premium bringt hauptsächlich: mehr Sichtbarkeit (kurzfristig), mehr Likes, bessere Filter. Wenn dein kostenloses Profil gut funktioniert, brauchst du das nicht. Wenn es nicht funktioniert, fix das Profil — nicht das Budget. Ausnahme: Bei ernsten Absichten nach 6+ Monaten erfolgloser Nutzung kann ein 1-Monats-Premium Sinn machen."
+  },
+  {
+    "question": "Wie vermeide ich Dating-App-Fatigue?",
+    "answer": "Drei Regeln: (1) Max. 15 Minuten pro Tag swipen, nie mehr. (2) Alle 2-3 Wochen 1 Woche Pause — komplett, App gelöscht. (3) Nie swipen wenn du müde, betrunken, einsam oder gelangweilt bist. Dating-Apps sind wie Alkohol: in Maßen ok, im Exzess toxisch. Der Algorithmus nutzt Dopamin-Loops aus — sei bewusst, nicht reaktiv."
+  }
+];
+const stats = [{"number": "25+", "label": "Artikel zum Thema"}, {"number": "8", "label": "Apps im Vergleich"}, {"number": "50+", "label": "Opener-Templates"}];
+
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: title,
+  description: description,
+  url: canonical,
+  inLanguage: 'de-DE',
+  publisher: {
+    '@type': 'Organization',
+    name: 'Herzblatt Journal',
+    url: 'https://herzblatt-journal.com'
+  }
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqData.map(f => ({
+    '@type': 'Question',
+    name: f.question,
+    acceptedAnswer: { '@type': 'Answer', text: f.answer }
+  }))
+};
+---
+
+<BaseLayout title={title} description={description} canonical={canonical}>
+  <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+  <section class="relative overflow-hidden" style="min-height: 460px;">
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, #db2777 0%, #7c3aed 50%, #2563eb 100%);"></div>
+    <div class="absolute inset-0" style="background: radial-gradient(circle at 30% 50%, rgba(255,255,255,0.1) 0%, transparent 50%);"></div>
+
+    <div class="relative max-w-6xl mx-auto px-4 sm:px-6 py-20 sm:py-32">
+      <div class="max-w-3xl">
+        <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-sm font-medium mb-6" style="background: rgba(255,255,255,0.15); color: white; border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(8px);">
+          📱 Pillar-Guide · {sections.reduce((sum, s) => sum + s.links.length, 0)} Artikel
+        </div>
+        <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold mb-6 leading-tight" style="color: white; font-family: var(--font-serif);">
+          Dating-Apps erfolgreich nutzen
+        </h1>
+        <p class="text-xl sm:text-2xl mb-8 leading-relaxed" style="color: rgba(255,255,255,0.95);">
+          App-Vergleich 2026, Profil-Optimierung, Algorithmus-Verständnis und die Strategien, die wirklich Matches bringen.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div style="color: var(--text); font-size: 1.125rem; line-height: 1.8;">
+        <p class="mb-6" set:html={`Dating-Apps sind Deutschlands häufigster Weg, den Partner zu finden — und gleichzeitig der frustrierendste. <strong>70 % der App-Nutzer beklagen "Dating-App-Fatigue"</strong>, also Erschöpfung durch Swipen ohne Erfolg. Der Unterschied zwischen frustrierten und erfolgreichen Nutzern liegt selten am Aussehen — sondern an Strategie, Profil und Verständnis der Algorithmen.`}></p>
+        <p class="mb-6" set:html={`Dieser Pillar-Guide bündelt unsere komplette Dating-App-Bibliothek: App-Vergleiche, Profil-Optimierung, Algorithmus-Hacks, Opener-Templates und Strategien gegen Dating-Burnout. Egal ob du gerade anfängst oder nach Jahren die Lust verloren hast — hier findest du Anleitung.`}></p>
+        <p class="mb-6" set:html={`Wichtig: Dating-Apps sind ein Werkzeug, kein Schicksal. Wer die Apps versteht, kann sie ab- UND einschalten wann er will — ohne Abhängigkeit, ohne Selbstwert-Achterbahn.`}></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-12 sm:py-16" style="background: var(--bg-soft); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div class="grid grid-cols-3 gap-8 text-center">
+        {stats.map(stat => (
+          <div>
+            <div class="text-3xl sm:text-4xl font-extrabold mb-2" style="color: var(--color-primary-600); font-family: var(--font-serif);">{stat.number}</div>
+            <div class="text-sm sm:text-base" style="color: var(--text-muted);">{stat.label}</div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="grid gap-8 md:gap-10">
+        {sections.map((section, idx) => (
+          <div id={section.id}>
+            <div class="grid md:grid-cols-12 gap-8 items-start">
+              <div class="md:col-span-8">
+                <div class="flex items-start gap-4 mb-6">
+                  <div class="text-4xl" style="line-height: 1;">{section.emoji}</div>
+                  <div class="flex-1">
+                    <h2 class="text-2xl sm:text-3xl font-extrabold mb-3" style="color: var(--text); font-family: var(--font-serif);">{section.title}</h2>
+                    <p style="color: var(--text-muted); line-height: 1.7;">{section.description}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="md:col-span-4">
+                <div class="space-y-3">
+                  {section.links.map(link => (
+                    <a href={`/blog/${link.slug}/`} class="block p-4 rounded-lg transition-all hover:scale-[1.02]" style="background: var(--bg-soft); border: 1px solid var(--border); color: var(--text); text-decoration: none;">
+                      <div class="flex items-center justify-between gap-3">
+                        <span class="font-semibold text-sm leading-snug">{link.title}</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="color: var(--color-primary-500); flex-shrink: 0;"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </div>
+            {idx < sections.length - 1 && <div class="mt-12 mb-8" style="border-bottom: 1px solid var(--border);"></div>}
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg-soft); border-top: 1px solid var(--border);">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6">
+      <h2 class="text-3xl sm:text-4xl font-extrabold text-center mb-4" style="color: var(--text); font-family: var(--font-serif);">Häufige Fragen</h2>
+      <p class="text-center mb-12" style="color: var(--text-muted);">Was Menschen am häufigsten wissen wollen</p>
+      <div class="space-y-6">
+        {faqData.map((item, idx) => (
+          <details>
+            <summary class="flex items-center justify-between p-6 rounded-lg cursor-pointer font-semibold transition-all" style="background: var(--bg); color: var(--text); border: 1px solid var(--border);">
+              <span>{item.question}</span>
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="transition: transform 0.3s; color: var(--color-primary-600);"><path d="m6 9 6 6 6-6"/></svg>
+            </summary>
+            <div class="px-6 pb-6" style="color: var(--text-muted);">{item.answer}</div>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <style>
+    details[open] summary svg { transform: rotate(180deg); }
+  </style>
+</BaseLayout>

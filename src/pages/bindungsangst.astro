@@ -1,0 +1,250 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = "Bindungsangst: Ursachen, Symptome & wie du sie \u00fcberwindest";
+const description = "Bindungsangst verstehen und \u00fcberwinden: Ursachen, Symptome, Test und Strategien \u2014 f\u00fcr Betroffene UND deren Partner.";
+const keywords = ["bindungsangst", "bindungsangst \u00fcberwinden", "commitment phobie", "beziehungsangst", "angst vor bindung"];
+const canonical = 'https://herzblatt-journal.com/bindungsangst/';
+
+const sections = [
+  {
+    "id": "verstehen",
+    "emoji": "🧠",
+    "title": "Bindungsangst verstehen",
+    "description": "Was Bindungsangst wirklich ist, wie sie entsteht und wie du sie von normaler Zurückhaltung unterscheidest.",
+    "links": [
+      {
+        "slug": "bindungsangst-komplett-guide",
+        "title": "Bindungsangst: Ursachen, Symptome & wie du sie überwindest"
+      },
+      {
+        "slug": "commitment-phobia-bindungsangst-guide",
+        "title": "Commitment Phobia — Warum manche sich nie festlegen"
+      },
+      {
+        "slug": "bindungsangst-erkennen-ueberwinden",
+        "title": "Bindungsangst erkennen und überwinden"
+      },
+      {
+        "slug": "bindungsangst-ueberwinden",
+        "title": "Bindungsangst überwinden"
+      },
+      {
+        "slug": "bindungsangst-ueberwinden-guide",
+        "title": "Bindungsangst überwinden — Der komplette Guide"
+      }
+    ]
+  },
+  {
+    "id": "zusammenhang-bindungsstile",
+    "emoji": "🧬",
+    "title": "Bindungsangst & Bindungsstile",
+    "description": "Bindungsangst hängt eng mit dem Bindungsstil zusammen. Vermeidende und desorganisierte Bindungstypen sind besonders betroffen.",
+    "links": [
+      {
+        "slug": "vermeidender-bindungsstil",
+        "title": "Vermeidender Bindungsstil: Warum Nähe Angst macht"
+      },
+      {
+        "slug": "desorganisierter-bindungsstil",
+        "title": "Desorganisierter Bindungsstil: Zwischen Sehnsucht und Angst"
+      },
+      {
+        "slug": "bindungstypen-komplett-guide-psychologie",
+        "title": "Bindungstypen: Der komplette Psychologie-Guide"
+      }
+    ]
+  },
+  {
+    "id": "partner",
+    "emoji": "💑",
+    "title": "Mit einem bindungsängstlichen Partner daten",
+    "description": "Wenn dein Partner Bindungsangst hat: Was funktioniert, was nicht — und wann Gehen die bessere Antwort ist.",
+    "links": [
+      {
+        "slug": "dating-mit-bindungsangst-partner",
+        "title": "Dating mit einem bindungsängstlichen Partner"
+      },
+      {
+        "slug": "beziehung-mit-vermeidendem-partner",
+        "title": "Beziehung mit vermeidendem Partner: Bleiben oder gehen?"
+      }
+    ]
+  },
+  {
+    "id": "heilung",
+    "emoji": "🦋",
+    "title": "Bindungsangst heilen",
+    "description": "Der Weg zur sicheren Bindung — wissenschaftlich fundierte Ansätze aus Bindungsforschung, Schematherapie und Trauma-Arbeit.",
+    "links": [
+      {
+        "slug": "attachment-style-aendern-sicher-werden",
+        "title": "Attachment Style ändern: Sicher werden"
+      },
+      {
+        "slug": "sichere-bindung-entwickeln",
+        "title": "Sichere Bindung entwickeln: Stabile Beziehung"
+      },
+      {
+        "slug": "sicherer-bindungsstil-entwickeln",
+        "title": "Sicherer Bindungsstil entwickeln: 7 Schritte"
+      },
+      {
+        "slug": "bindungsstil-aendern",
+        "title": "Bindungsstil ändern: Kann man seinen Bindungstyp wandeln?"
+      }
+    ]
+  }
+];
+const faqData = [
+  {
+    "question": "Was ist Bindungsangst?",
+    "answer": "Bindungsangst ist die unbewusste Flucht vor emotionaler Nähe in romantischen Beziehungen. Menschen mit Bindungsangst wünschen sich oft eine Beziehung, flüchten aber, sobald sie echt wird. Typische Muster: Rückzug bei tieferer Nähe, Suche nach Fehlern am Partner, Idealisierung und dann Entidealisierung, Angst vor Festlegung."
+  },
+  {
+    "question": "Wie entsteht Bindungsangst?",
+    "answer": "Meist in der Kindheit durch inkonsistente, emotional unverfügbare oder übergriffige Bezugspersonen. Das Nervensystem des Kindes lernt: Nähe ist unsicher, Unabhängigkeit ist Schutz. Dieses Muster bleibt als Grundstruktur bis ins Erwachsenenalter — bis bewusst daran gearbeitet wird. Auch akute Traumata (schwerer Verlust, Missbrauch, schlimme Trennung) können Bindungsangst auslösen."
+  },
+  {
+    "question": "Wie erkenne ich Bindungsangst bei mir?",
+    "answer": "Typische Zeichen: Du ziehst dich zurück, sobald sich eine Beziehung intensiviert. Du findest immer Gründe, warum der Partner nicht \"der Richtige\" ist. Du fühlst dich eingeengt, obwohl objektiv nichts passiert ist. Du hast Angst vor Festlegung, aber auch Angst alleine zu sein. Drei oder mehr davon = starke Indizien."
+  },
+  {
+    "question": "Kann man Bindungsangst überwinden?",
+    "answer": "Ja. Mit Bewusstsein, einem sicheren Partner, Therapie (besonders EFT oder Schematherapie) und Zeit. Realistisch sind 1-3 Jahre intensive Arbeit bis spürbarer Veränderung. Die Angst verschwindet nicht komplett, aber sie wird handhabbar — du lernst, Flucht-Impulse wahrzunehmen statt automatisch zu handeln."
+  },
+  {
+    "question": "Mein Partner hat Bindungsangst — was kann ich tun?",
+    "answer": "Vier Regeln: (1) Du kannst die Angst nicht \"wegheilen\" durch mehr Liebe — das verstärkt sie meist. (2) Setz klare Grenzen: \"Ich brauche X. Wenn das nicht geht, funktioniert es für mich nicht.\" (3) Ermuntere Therapie, erwarte aber keine. (4) Setz einen Zeitrahmen für dich — wenn nach 6-12 Monaten keine Bewegung kommt, entscheide für dich."
+  }
+];
+const stats = [{"number": "3+", "label": "Artikel zum Thema"}, {"number": "25%", "label": "haben starke Bindungsangst"}, {"number": "1-3 J", "label": "typische Heilungsdauer"}];
+
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: title,
+  description: description,
+  url: canonical,
+  inLanguage: 'de-DE',
+  publisher: {
+    '@type': 'Organization',
+    name: 'Herzblatt Journal',
+    url: 'https://herzblatt-journal.com'
+  }
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqData.map(f => ({
+    '@type': 'Question',
+    name: f.question,
+    acceptedAnswer: { '@type': 'Answer', text: f.answer }
+  }))
+};
+---
+
+<BaseLayout title={title} description={description} canonical={canonical}>
+  <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+  <section class="relative overflow-hidden" style="min-height: 460px;">
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, #312e81 0%, #7e22ce 50%, #be185d 100%);"></div>
+    <div class="absolute inset-0" style="background: radial-gradient(circle at 30% 50%, rgba(255,255,255,0.1) 0%, transparent 50%);"></div>
+
+    <div class="relative max-w-6xl mx-auto px-4 sm:px-6 py-20 sm:py-32">
+      <div class="max-w-3xl">
+        <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-sm font-medium mb-6" style="background: rgba(255,255,255,0.15); color: white; border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(8px);">
+          🫥 Pillar-Guide · {sections.reduce((sum, s) => sum + s.links.length, 0)} Artikel
+        </div>
+        <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold mb-6 leading-tight" style="color: white; font-family: var(--font-serif);">
+          Bindungsangst überwinden
+        </h1>
+        <p class="text-xl sm:text-2xl mb-8 leading-relaxed" style="color: rgba(255,255,255,0.95);">
+          Warum Nähe Angst macht, wie Bindungsangst entsteht und wie du (oder dein Partner) sie überwinden kannst — Schritt für Schritt.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div style="color: var(--text); font-size: 1.125rem; line-height: 1.8;">
+        <p class="mb-6" set:html={`Du willst eine Beziehung — und gleichzeitig flieh dein System, sobald es ernst wird. Du verliebst dich, und plötzlich ist der andere "zu nah", "zu viel", "irgendwie anders geworden". Das ist <strong>Bindungsangst</strong>, auch Commitment-Phobie genannt: ein unbewusstes Muster, das in engen Beziehungen Alarm schlägt, sobald sie sich vertiefen.`}></p>
+        <p class="mb-6" set:html={`Dieser Pillar-Guide erklärt, wie Bindungsangst entsteht (meist in der Kindheit), wie du sie bei dir oder deinem Partner erkennst, und was wirklich hilft — von Selbstreflexion bis Therapie.`}></p>
+        <p class="mb-6" set:html={`Wichtig: Bindungsangst ist KEIN Charakterfehler. Sie ist eine Schutz-Reaktion des Nervensystems, die einst sinnvoll war und heute dysfunktional wirkt. Mit Bewusstsein und Arbeit ist sie veränderbar.`}></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-12 sm:py-16" style="background: var(--bg-soft); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div class="grid grid-cols-3 gap-8 text-center">
+        {stats.map(stat => (
+          <div>
+            <div class="text-3xl sm:text-4xl font-extrabold mb-2" style="color: var(--color-primary-600); font-family: var(--font-serif);">{stat.number}</div>
+            <div class="text-sm sm:text-base" style="color: var(--text-muted);">{stat.label}</div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="grid gap-8 md:gap-10">
+        {sections.map((section, idx) => (
+          <div id={section.id}>
+            <div class="grid md:grid-cols-12 gap-8 items-start">
+              <div class="md:col-span-8">
+                <div class="flex items-start gap-4 mb-6">
+                  <div class="text-4xl" style="line-height: 1;">{section.emoji}</div>
+                  <div class="flex-1">
+                    <h2 class="text-2xl sm:text-3xl font-extrabold mb-3" style="color: var(--text); font-family: var(--font-serif);">{section.title}</h2>
+                    <p style="color: var(--text-muted); line-height: 1.7;">{section.description}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="md:col-span-4">
+                <div class="space-y-3">
+                  {section.links.map(link => (
+                    <a href={`/blog/${link.slug}/`} class="block p-4 rounded-lg transition-all hover:scale-[1.02]" style="background: var(--bg-soft); border: 1px solid var(--border); color: var(--text); text-decoration: none;">
+                      <div class="flex items-center justify-between gap-3">
+                        <span class="font-semibold text-sm leading-snug">{link.title}</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="color: var(--color-primary-500); flex-shrink: 0;"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </div>
+            {idx < sections.length - 1 && <div class="mt-12 mb-8" style="border-bottom: 1px solid var(--border);"></div>}
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg-soft); border-top: 1px solid var(--border);">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6">
+      <h2 class="text-3xl sm:text-4xl font-extrabold text-center mb-4" style="color: var(--text); font-family: var(--font-serif);">Häufige Fragen</h2>
+      <p class="text-center mb-12" style="color: var(--text-muted);">Was Menschen am häufigsten wissen wollen</p>
+      <div class="space-y-6">
+        {faqData.map((item, idx) => (
+          <details>
+            <summary class="flex items-center justify-between p-6 rounded-lg cursor-pointer font-semibold transition-all" style="background: var(--bg); color: var(--text); border: 1px solid var(--border);">
+              <span>{item.question}</span>
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="transition: transform 0.3s; color: var(--color-primary-600);"><path d="m6 9 6 6 6-6"/></svg>
+            </summary>
+            <div class="px-6 pb-6" style="color: var(--text-muted);">{item.answer}</div>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <style>
+    details[open] summary svg { transform: rotate(180deg); }
+  </style>
+</BaseLayout>

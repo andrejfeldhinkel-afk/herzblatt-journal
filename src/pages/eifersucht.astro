@@ -1,0 +1,278 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = "Eifersucht \u00fcberwinden: Ursachen, Test & konkrete Strategien";
+const description = "Eifersucht in Beziehungen \u00fcberwinden: Ursachen verstehen, Test machen, konkrete Strategien gegen krankhafte Eifersucht \u2014 der komplette Guide.";
+const keywords = ["eifersucht \u00fcberwinden", "eifersucht beziehung", "rebecca syndrom", "krankhafte eifersucht", "eifersucht test"];
+const canonical = 'https://herzblatt-journal.com/eifersucht/';
+
+const sections = [
+  {
+    "id": "grundlagen",
+    "emoji": "🧠",
+    "title": "Eifersucht verstehen",
+    "description": "Was Eifersucht ist, warum sie entsteht und wann sie aus dem normalen Bereich in den krankhaften kippt.",
+    "links": [
+      {
+        "slug": "eifersucht-komplett-ratgeber",
+        "title": "Eifersucht überwinden: Der komplette Ratgeber"
+      },
+      {
+        "slug": "eifersucht-ueberwinden-komplett",
+        "title": "Eifersucht überwinden: Ursachen, Übungen, Lösungen"
+      },
+      {
+        "slug": "beziehung-eifersucht-bekaempfen-guide",
+        "title": "Eifersucht in der Beziehung bekämpfen"
+      },
+      {
+        "slug": "eifersuchts-test-selbstcheck",
+        "title": "Eifersucht Test: Wie eifersüchtig bist du wirklich?"
+      }
+    ]
+  },
+  {
+    "id": "bekaempfen",
+    "emoji": "💪",
+    "title": "Eifersucht bekämpfen & überwinden",
+    "description": "Konkrete Strategien, Übungen und mentale Werkzeuge — für Alltag und akute Momente.",
+    "links": [
+      {
+        "slug": "eifersucht-bekaempfen",
+        "title": "Eifersucht bekämpfen: 10 wirksame Strategien"
+      },
+      {
+        "slug": "eifersucht-beziehung-ueberwinden",
+        "title": "Eifersucht in der Beziehung überwinden"
+      },
+      {
+        "slug": "beziehung-und-eifersucht-ueberwinden",
+        "title": "Eifersucht überwinden: Der komplette Guide"
+      },
+      {
+        "slug": "grundlose-eifersucht-ueberwinden",
+        "title": "Grundlose Eifersucht überwinden: Wenn Vertrauen fehlt"
+      }
+    ]
+  },
+  {
+    "id": "rebecca",
+    "emoji": "👻",
+    "title": "Rebecca-Syndrom & retroaktive Eifersucht",
+    "description": "Wenn die Ex-Partner des Partners dich nicht loslassen — das Rebecca-Syndrom verstehen und heilen.",
+    "links": [
+      {
+        "slug": "eifersucht-ex-partner-rebecca-syndrom",
+        "title": "Rebecca-Syndrom: Eifersucht auf die Ex überwinden"
+      },
+      {
+        "slug": "retroaktive-eifersucht-ueberwinden",
+        "title": "Retroaktive Eifersucht überwinden"
+      },
+      {
+        "slug": "retroaktive-eifersucht-ueberwinden-komplett",
+        "title": "Retroaktive Eifersucht überwinden"
+      },
+      {
+        "slug": "retrograde-eifersucht-ueberwinden",
+        "title": "Retrograde Eifersucht: Wenn die Vergangenheit quält"
+      },
+      {
+        "slug": "beziehung-eifersucht-retroaktive",
+        "title": "Retroaktive Eifersucht"
+      }
+    ]
+  },
+  {
+    "id": "social-media",
+    "emoji": "📱",
+    "title": "Eifersucht & Social Media",
+    "description": "Digital-Eifersucht ist ein modernes Phänomen. Wie Social Media Eifersucht verstärkt — und wie du sie reduzierst.",
+    "links": [
+      {
+        "slug": "digitale-eifersucht",
+        "title": "Digitale Eifersucht: Social Media und die Beziehung"
+      },
+      {
+        "slug": "eifersucht-social-media",
+        "title": "Eifersucht durch Social Media: Was hilft?"
+      },
+      {
+        "slug": "eifersucht-soziale-medien",
+        "title": "Eifersucht durch Social Media"
+      },
+      {
+        "slug": "social-media-eifersucht-guide",
+        "title": "Social-Media-Eifersucht: Der komplette Guide"
+      }
+    ]
+  },
+  {
+    "id": "therapie",
+    "emoji": "🩺",
+    "title": "Krankhafte Eifersucht & Therapie",
+    "description": "Wann Eifersucht zur Krankheit wird und professionelle Hilfe unumgänglich ist — inklusive Therapie-Indikationen.",
+    "links": [
+      {
+        "slug": "krankhafte-eifersucht-therapie",
+        "title": "Krankhafte Eifersucht: Ursachen, Test & Therapie"
+      },
+      {
+        "slug": "eifersucht-queere-beziehung",
+        "title": "Eifersucht in queeren Beziehungen"
+      }
+    ]
+  }
+];
+const faqData = [
+  {
+    "question": "Wann wird Eifersucht krankhaft?",
+    "answer": "Eifersucht wird krankhaft, wenn sie: (1) tagtäglich mehr als 30 Minuten deiner Aufmerksamkeit bindet, (2) du heimlich kontrollierst (Handy, Social Media), (3) du den Partner einschränkst (Freundschaften, Hobbys), (4) sie sich nicht an realen Anlässen entzündet, sondern chronisch ist, (5) sie körperliche Symptome macht (Schlafstörungen, Herzrasen). Ab diesem Punkt ist Therapie sinnvoll — allein schafft man es selten raus."
+  },
+  {
+    "question": "Was ist der Unterschied zwischen Eifersucht und Neid?",
+    "answer": "Eifersucht bezieht sich auf Verlustangst: \"Ich habe Angst, dass jemand mir nimmt, was ich habe.\" Sie ist IMMER dreiseitig (du, Partner, Rivale). Neid ist zweiseitig: \"Ich hätte gern, was der andere hat.\" Eifersucht ist oft mit Bindungs-Themen verbunden (Angst vor Verlust), Neid mit Selbstwert-Themen (Angst vor Minderwertigkeit)."
+  },
+  {
+    "question": "Wie überwinde ich Eifersucht?",
+    "answer": "Fünf-Schritte-Pfad: (1) Selbstwert arbeiten — Eifersucht ist fast immer mangelnder Selbstwert. (2) Trigger identifizieren — welche Situationen, welche Gedanken, welche Körperreaktionen. (3) Kognitive Umstrukturierung — \"Er schreibt mit einer Frau\" ≠ \"Er betrügt mich\". (4) Körperarbeit — Yoga, Atmung, Sport. (5) Therapie bei chronischem Muster. Realistisch: 6-12 Monate bis zu merklichem Fortschritt."
+  },
+  {
+    "question": "Was tun bei Rebecca-Syndrom / retroaktiver Eifersucht?",
+    "answer": "Retroaktive Eifersucht (Eifersucht auf die Ex-Partner des Partners) heilt durch: (1) Stop des Social-Media-Stalkings — sofort. (2) Den Partner nicht über Details der Ex-Beziehung ausfragen — das verstärkt das Muster. (3) Erkennen: Das sind SEINE/IHRE Erfahrungen, nicht deine. (4) Oft steckt Minderwertigkeitsgefühl dahinter — \"Ich bin nicht genug\". Das ist der eigentliche Heilungspunkt, nicht die Ex."
+  },
+  {
+    "question": "Mein Partner ist krankhaft eifersüchtig — was tun?",
+    "answer": "Wichtig: Du bist NICHT verantwortlich für die Eifersucht des Partners. Drei Schritte: (1) Grenze klar setzen: \"Ich werde nicht kontrolliert — das ist nicht verhandelbar.\" (2) Therapie als Bedingung — nicht als Option. Ohne professionelle Hilfe bekommt man krankhafte Eifersucht nicht in den Griff. (3) Wenn keine Veränderung nach 6 Monaten: gehen. Krankhafte Eifersucht führt fast immer in emotionalen Missbrauch — das ist keine Gefahr, sondern eine Prognose."
+  }
+];
+const stats = [{"number": "19+", "label": "Artikel zum Thema"}, {"number": "80%", "label": "erleben ernste Eifersucht mind. einmal"}, {"number": "3", "label": "Haupt-Ursachen"}];
+
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: title,
+  description: description,
+  url: canonical,
+  inLanguage: 'de-DE',
+  publisher: {
+    '@type': 'Organization',
+    name: 'Herzblatt Journal',
+    url: 'https://herzblatt-journal.com'
+  }
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqData.map(f => ({
+    '@type': 'Question',
+    name: f.question,
+    acceptedAnswer: { '@type': 'Answer', text: f.answer }
+  }))
+};
+---
+
+<BaseLayout title={title} description={description} canonical={canonical}>
+  <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+  <section class="relative overflow-hidden" style="min-height: 460px;">
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, #7f1d1d 0%, #b91c1c 50%, #ea580c 100%);"></div>
+    <div class="absolute inset-0" style="background: radial-gradient(circle at 30% 50%, rgba(255,255,255,0.1) 0%, transparent 50%);"></div>
+
+    <div class="relative max-w-6xl mx-auto px-4 sm:px-6 py-20 sm:py-32">
+      <div class="max-w-3xl">
+        <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-sm font-medium mb-6" style="background: rgba(255,255,255,0.15); color: white; border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(8px);">
+          💚 Pillar-Guide · {sections.reduce((sum, s) => sum + s.links.length, 0)} Artikel
+        </div>
+        <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold mb-6 leading-tight" style="color: white; font-family: var(--font-serif);">
+          Eifersucht überwinden
+        </h1>
+        <p class="text-xl sm:text-2xl mb-8 leading-relaxed" style="color: rgba(255,255,255,0.95);">
+          Warum Eifersucht entsteht, wann sie krankhaft wird und welche Strategien wirklich helfen — von Selbstwert-Arbeit bis Therapie.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div style="color: var(--text); font-size: 1.125rem; line-height: 1.8;">
+        <p class="mb-6" set:html={`Eifersucht ist ein universelles Gefühl — fast jeder hat es. Aber der Unterschied zwischen "ein bisschen eifersüchtig" und "krankhaft eifersüchtig" entscheidet, ob sie deine Beziehung stärkt oder zerstört. <strong>Leichte Eifersucht kann sogar ein Zeichen von Bindung sein. Starke, wiederkehrende Eifersucht ist fast immer ein Selbstwert-Thema</strong>, kein Beweis-Thema.`}></p>
+        <p class="mb-6" set:html={`Dieser Pillar-Guide bündelt alle Eifersucht-Ressourcen: Ursachen verstehen, den Test machen, retroaktive Eifersucht (Rebecca-Syndrom) durcharbeiten, Social-Media-Eifersucht handhaben und konkrete Strategien gegen krankhafte Eifersucht — inklusive Therapie-Indikationen.`}></p>
+        <p class="mb-6" set:html={`Wichtig: Eifersucht ist selten ein Problem des Partners. Fast immer sagt sie mehr über dich aus. Das ist nicht schlimm — es bedeutet nur, dass die Arbeit nicht beim Partner liegt, sondern bei dir.`}></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-12 sm:py-16" style="background: var(--bg-soft); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div class="grid grid-cols-3 gap-8 text-center">
+        {stats.map(stat => (
+          <div>
+            <div class="text-3xl sm:text-4xl font-extrabold mb-2" style="color: var(--color-primary-600); font-family: var(--font-serif);">{stat.number}</div>
+            <div class="text-sm sm:text-base" style="color: var(--text-muted);">{stat.label}</div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="grid gap-8 md:gap-10">
+        {sections.map((section, idx) => (
+          <div id={section.id}>
+            <div class="grid md:grid-cols-12 gap-8 items-start">
+              <div class="md:col-span-8">
+                <div class="flex items-start gap-4 mb-6">
+                  <div class="text-4xl" style="line-height: 1;">{section.emoji}</div>
+                  <div class="flex-1">
+                    <h2 class="text-2xl sm:text-3xl font-extrabold mb-3" style="color: var(--text); font-family: var(--font-serif);">{section.title}</h2>
+                    <p style="color: var(--text-muted); line-height: 1.7;">{section.description}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="md:col-span-4">
+                <div class="space-y-3">
+                  {section.links.map(link => (
+                    <a href={`/blog/${link.slug}/`} class="block p-4 rounded-lg transition-all hover:scale-[1.02]" style="background: var(--bg-soft); border: 1px solid var(--border); color: var(--text); text-decoration: none;">
+                      <div class="flex items-center justify-between gap-3">
+                        <span class="font-semibold text-sm leading-snug">{link.title}</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="color: var(--color-primary-500); flex-shrink: 0;"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </div>
+            {idx < sections.length - 1 && <div class="mt-12 mb-8" style="border-bottom: 1px solid var(--border);"></div>}
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg-soft); border-top: 1px solid var(--border);">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6">
+      <h2 class="text-3xl sm:text-4xl font-extrabold text-center mb-4" style="color: var(--text); font-family: var(--font-serif);">Häufige Fragen</h2>
+      <p class="text-center mb-12" style="color: var(--text-muted);">Was Menschen am häufigsten wissen wollen</p>
+      <div class="space-y-6">
+        {faqData.map((item, idx) => (
+          <details>
+            <summary class="flex items-center justify-between p-6 rounded-lg cursor-pointer font-semibold transition-all" style="background: var(--bg); color: var(--text); border: 1px solid var(--border);">
+              <span>{item.question}</span>
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="transition: transform 0.3s; color: var(--color-primary-600);"><path d="m6 9 6 6 6-6"/></svg>
+            </summary>
+            <div class="px-6 pb-6" style="color: var(--text-muted);">{item.answer}</div>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <style>
+    details[open] summary svg { transform: rotate(180deg); }
+  </style>
+</BaseLayout>

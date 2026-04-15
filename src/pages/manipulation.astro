@@ -1,0 +1,290 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = "Manipulation in Beziehungen erkennen & sich sch\u00fctzen";
+const description = "Manipulation in Beziehungen erkennen: Gaslighting, DARVO, Lovebombing, Silent Treatment \u2014 die wichtigsten Techniken und wie du dich sch\u00fctzt.";
+const keywords = ["manipulation beziehung", "manipulation erkennen", "gaslighting", "darvo", "emotionale manipulation", "manipulative beziehung"];
+const canonical = 'https://herzblatt-journal.com/manipulation/';
+
+const sections = [
+  {
+    "id": "grundlagen",
+    "emoji": "🧩",
+    "title": "Manipulation erkennen",
+    "description": "Die grundlegenden Muster und Mechanismen von Manipulation in Beziehungen — und wie du sie früh erkennst.",
+    "links": [
+      {
+        "slug": "manipulation-erkennen-komplett-guide",
+        "title": "Manipulation in Beziehungen erkennen — Der komplette Guide"
+      },
+      {
+        "slug": "manipulation-in-beziehungen",
+        "title": "Manipulation in Beziehungen durchschauen"
+      },
+      {
+        "slug": "manipulation-beziehung-erkennen",
+        "title": "Manipulation in der Beziehung"
+      },
+      {
+        "slug": "emotionale-manipulation-beziehung-erkennen",
+        "title": "Emotionale Manipulation in Beziehungen"
+      },
+      {
+        "slug": "emotionale-manipulation-dating",
+        "title": "Emotionale Manipulation beim Dating erkennen"
+      }
+    ]
+  },
+  {
+    "id": "gaslighting",
+    "emoji": "💡",
+    "title": "Gaslighting — Realität leugnen",
+    "description": "Die perfideste Manipulationstechnik: deine Wahrnehmung systematisch in Frage stellen. Erkennen, verstehen, überleben.",
+    "links": [
+      {
+        "slug": "was-ist-gaslighting",
+        "title": "Was ist Gaslighting? Definition, Taktiken & Schutz"
+      },
+      {
+        "slug": "gaslighting-beispiele",
+        "title": "Gaslighting Beispiele: 15 Sätze, die du sofort erkennst"
+      },
+      {
+        "slug": "gaslighting-komplett-guide",
+        "title": "Gaslighting erkennen: Der komplette Guide"
+      },
+      {
+        "slug": "gaslighting-beziehung",
+        "title": "Gaslighting in der Beziehung: Emotionale Manipulation"
+      },
+      {
+        "slug": "gaslighting-recovery-heilung-guide",
+        "title": "Nach Gaslighting heilen: Deine Realität wiederfinden"
+      }
+    ]
+  },
+  {
+    "id": "lovebombing-silent",
+    "emoji": "💣",
+    "title": "Lovebombing & Silent Treatment",
+    "description": "Die zwei extremsten Formen emotionaler Manipulation: zu viel und zu wenig — beide dienen der Kontrolle.",
+    "links": [
+      {
+        "slug": "lovebombing-phasen",
+        "title": "Lovebombing: Die 4 Phasen der manipulativen Liebe"
+      },
+      {
+        "slug": "silent-treatment-bedeutung",
+        "title": "Silent Treatment: Warum Schweigen eine Waffe ist"
+      },
+      {
+        "slug": "silent-treatment-beziehung",
+        "title": "Silent Treatment 2026: Erkennen & Enden in 7 Schritten"
+      },
+      {
+        "slug": "stonewalling-was-tun",
+        "title": "Stonewalling: Was tun wenn dein Partner dicht macht?"
+      }
+    ]
+  },
+  {
+    "id": "darvo-negging",
+    "emoji": "🔄",
+    "title": "DARVO, Negging & Täter-Opfer-Umkehr",
+    "description": "Die subtilen Techniken, bei denen Manipulator Verletzung in Angriff umkehren und Selbstwert gezielt angreifen.",
+    "links": [
+      {
+        "slug": "darvo-manipulation-beziehung-erkennen",
+        "title": "DARVO erkennen: Die perfideste Manipulationstechnik"
+      },
+      {
+        "slug": "negging-manipulation-dating-guide",
+        "title": "Negging — Die perfide Manipulationstaktik beim Dating"
+      }
+    ]
+  },
+  {
+    "id": "breadcrumbing-hoovering",
+    "emoji": "🍞",
+    "title": "Breadcrumbing, Cushioning & Hoovering",
+    "description": "Wenn Manipulator dich mit Brotkrumen bei der Stange halten, mehrere Optionen parallel führen oder nach Kontakt-Abbruch zurückkehren.",
+    "links": [
+      {
+        "slug": "breadcrumbing-komplett-guide",
+        "title": "Breadcrumbing: Guide zu Manipulation und Selbstwert"
+      },
+      {
+        "slug": "breadcrumbing-dating-manipulation-guide",
+        "title": "Breadcrumbing: Wenn er dich hinhält"
+      },
+      {
+        "slug": "breadcrumbing-erkennen",
+        "title": "Breadcrumbing erkennen: Wenn dein Date dich nur warmhält"
+      },
+      {
+        "slug": "cushioning-dating-manipulation",
+        "title": "Cushioning: Dating-Manipulation erkennen"
+      },
+      {
+        "slug": "hoovering-narzissmus-erkennen",
+        "title": "Hoovering: Wenn der Narzisst dich zurückholen will"
+      },
+      {
+        "slug": "hoovering-ex-erkennen",
+        "title": "Hoovering vom Ex: Manipulation oder echte Reue?"
+      }
+    ]
+  }
+];
+const faqData = [
+  {
+    "question": "Wie erkenne ich Manipulation in einer Beziehung?",
+    "answer": "Fünf zuverlässige Indikatoren: (1) Du fühlst dich nach Gesprächen kleiner, nicht größer. (2) Du entschuldigst dich für Dinge, die du nicht getan hast. (3) Du traust deiner eigenen Wahrnehmung nicht mehr. (4) Die Person reagiert nicht auf dein \"Nein\". (5) Du bist in der Beziehung ständig verwirrt darüber, was gerade passiert. Drei oder mehr davon = Manipulation ist wahrscheinlich."
+  },
+  {
+    "question": "Was ist der Unterschied zwischen Gaslighting und DARVO?",
+    "answer": "Gaslighting ist Realitäts-Leugnung: \"Das habe ich nie gesagt.\" DARVO (Deny, Attack, Reverse Victim and Offender) ist Täter-Opfer-Umkehr: Du beschwerst dich über sein Verhalten, er dreht es so, dass DU die Schuldige wirst und er das Opfer ist. DARVO ist oft die Reaktion auf Gaslighting-Widerspruch — eine Eskalations-Stufe."
+  },
+  {
+    "question": "Kann man einen Manipulator erziehen / verändern?",
+    "answer": "Praktisch nein. Manipulation ist meist ein tief verankertes Persönlichkeits-Muster, oft mit narzisstischem oder antisozialem Hintergrund. Veränderung setzt drei Dinge voraus: (1) Einsicht, dass das eigene Verhalten problematisch ist, (2) intrinsische Motivation zu Veränderung, (3) professionelle Therapie über 2+ Jahre. Das kommt vor, ist aber selten. Bau dein Leben nicht darauf."
+  },
+  {
+    "question": "Wie schütze ich mich vor Manipulation?",
+    "answer": "Vier Schutz-Strategien: (1) Dokumentiere — führe ein Tagebuch über konkrete Aussagen und Situationen, um Gaslighting nicht zu glauben. (2) Externe Reality-Checks — sprich mit Vertrauten, die objektiv bleiben. (3) Klare Grenzen: \"Das akzeptiere ich nicht.\" (4) No-Contact oder Grey Rock bei weiter Manipulation. (5) Therapeutische Unterstützung — Manipulation richtet echten psychischen Schaden an."
+  },
+  {
+    "question": "Warum bleibe ich trotz Manipulation in der Beziehung?",
+    "answer": "Meist Trauma-Bonding: Die Höhen und Tiefen der Beziehung erzeugen suchtartige Bindung. Plus: Sunk-Cost-Bias (bereits investierte Zeit), Hoffnung auf die \"gute Seite\" des Partners zurück, mangelnder Selbstwert, Angst vor Alleinsein. Dieses Muster zu durchbrechen braucht meist professionelle Hilfe — rationales Verstehen reicht nicht. Trauma-Bonding ist eine biochemische Abhängigkeit, nicht nur Gedanken."
+  }
+];
+const stats = [{"number": "16+", "label": "Artikel zum Thema"}, {"number": "7+", "label": "Manipulationstechniken"}, {"number": "60%", "label": "erkennen Manipulation zu spät"}];
+
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: title,
+  description: description,
+  url: canonical,
+  inLanguage: 'de-DE',
+  publisher: {
+    '@type': 'Organization',
+    name: 'Herzblatt Journal',
+    url: 'https://herzblatt-journal.com'
+  }
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqData.map(f => ({
+    '@type': 'Question',
+    name: f.question,
+    acceptedAnswer: { '@type': 'Answer', text: f.answer }
+  }))
+};
+---
+
+<BaseLayout title={title} description={description} canonical={canonical}>
+  <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+  <section class="relative overflow-hidden" style="min-height: 460px;">
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, #581c87 0%, #7c2d12 50%, #991b1b 100%);"></div>
+    <div class="absolute inset-0" style="background: radial-gradient(circle at 30% 50%, rgba(255,255,255,0.1) 0%, transparent 50%);"></div>
+
+    <div class="relative max-w-6xl mx-auto px-4 sm:px-6 py-20 sm:py-32">
+      <div class="max-w-3xl">
+        <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-sm font-medium mb-6" style="background: rgba(255,255,255,0.15); color: white; border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(8px);">
+          🎭 Pillar-Guide · {sections.reduce((sum, s) => sum + s.links.length, 0)} Artikel
+        </div>
+        <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold mb-6 leading-tight" style="color: white; font-family: var(--font-serif);">
+          Manipulation erkennen
+        </h1>
+        <p class="text-xl sm:text-2xl mb-8 leading-relaxed" style="color: rgba(255,255,255,0.95);">
+          Die wichtigsten Manipulationstechniken in Beziehungen — Erkennen, verstehen, sich schützen. Von Gaslighting bis Breadcrumbing.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div style="color: var(--text); font-size: 1.125rem; line-height: 1.8;">
+        <p class="mb-6" set:html={`Manipulation ist nicht immer dramatisch. Sie ist meistens subtil, schleichend und als Liebe getarnt. Du merkst erst nach Wochen oder Monaten: <strong>Ich fühle mich nach Gesprächen kleiner, nicht größer. Ich entschuldige mich für Dinge, die ich nicht getan habe. Ich traue meiner eigenen Wahrnehmung nicht mehr.</strong>`}></p>
+        <p class="mb-6" set:html={`Dieser Pillar-Guide bündelt die wichtigsten Manipulationstechniken in Beziehungen — von Gaslighting (Realitäts-Leugnung) über DARVO (Täter-Opfer-Umkehr) bis Lovebombing, Silent Treatment, Breadcrumbing, Cushioning und Negging. Für jede Taktik: Erkennungszeichen, typische Sätze, Schutz-Strategien.`}></p>
+        <p class="mb-6" set:html={`Wer Manipulation kennt, erkennt sie schneller. Und wer sie schneller erkennt, bleibt weniger lange in toxischen Dynamiken. Das ist die beste Prävention, die es gibt.`}></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-12 sm:py-16" style="background: var(--bg-soft); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div class="grid grid-cols-3 gap-8 text-center">
+        {stats.map(stat => (
+          <div>
+            <div class="text-3xl sm:text-4xl font-extrabold mb-2" style="color: var(--color-primary-600); font-family: var(--font-serif);">{stat.number}</div>
+            <div class="text-sm sm:text-base" style="color: var(--text-muted);">{stat.label}</div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg);">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="grid gap-8 md:gap-10">
+        {sections.map((section, idx) => (
+          <div id={section.id}>
+            <div class="grid md:grid-cols-12 gap-8 items-start">
+              <div class="md:col-span-8">
+                <div class="flex items-start gap-4 mb-6">
+                  <div class="text-4xl" style="line-height: 1;">{section.emoji}</div>
+                  <div class="flex-1">
+                    <h2 class="text-2xl sm:text-3xl font-extrabold mb-3" style="color: var(--text); font-family: var(--font-serif);">{section.title}</h2>
+                    <p style="color: var(--text-muted); line-height: 1.7;">{section.description}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="md:col-span-4">
+                <div class="space-y-3">
+                  {section.links.map(link => (
+                    <a href={`/blog/${link.slug}/`} class="block p-4 rounded-lg transition-all hover:scale-[1.02]" style="background: var(--bg-soft); border: 1px solid var(--border); color: var(--text); text-decoration: none;">
+                      <div class="flex items-center justify-between gap-3">
+                        <span class="font-semibold text-sm leading-snug">{link.title}</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="color: var(--color-primary-500); flex-shrink: 0;"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </div>
+            {idx < sections.length - 1 && <div class="mt-12 mb-8" style="border-bottom: 1px solid var(--border);"></div>}
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 sm:py-24" style="background: var(--bg-soft); border-top: 1px solid var(--border);">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6">
+      <h2 class="text-3xl sm:text-4xl font-extrabold text-center mb-4" style="color: var(--text); font-family: var(--font-serif);">Häufige Fragen</h2>
+      <p class="text-center mb-12" style="color: var(--text-muted);">Was Menschen am häufigsten wissen wollen</p>
+      <div class="space-y-6">
+        {faqData.map((item, idx) => (
+          <details>
+            <summary class="flex items-center justify-between p-6 rounded-lg cursor-pointer font-semibold transition-all" style="background: var(--bg); color: var(--text); border: 1px solid var(--border);">
+              <span>{item.question}</span>
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="transition: transform 0.3s; color: var(--color-primary-600);"><path d="m6 9 6 6 6-6"/></svg>
+            </summary>
+            <div class="px-6 pb-6" style="color: var(--text-muted);">{item.answer}</div>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <style>
+    details[open] summary svg { transform: rotate(180deg); }
+  </style>
+</BaseLayout>
