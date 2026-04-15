@@ -2,6 +2,7 @@
 title: "Beziehungs-Check-in: Das wöchentliche Ritual das alles"
 description: "Das Beziehungs-Check-in Ritual: Wie ein 30-minütiges wöchentliches Gespräch deine Beziehung transformiert"
 date: 2025-01-30
+updated: 2026-04-15
 image: "/images/photos/beziehung-check-in-ritual.webp"
 imageAlt: "Paar beim morgendlichen Beziehungs-Check-in"
 tags:

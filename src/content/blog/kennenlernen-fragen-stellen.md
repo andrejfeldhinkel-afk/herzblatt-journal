@@ -3,6 +3,7 @@ title: "50 Fragen zum Kennenlernen, die wirklich zählen"
 description: "50 Fragen zum Kennenlernen, die wirklich zählen: Wie du durch bessere Kommunikation Missverständnisse vermeidest und Nähe schaffst."
 keywords: ["50 fragen zum kennenlernen, die wirklich zählen", "kennenlernen", "kommunikation", "erstes date", "fragen kennenlernen,", "kennenlernen, wirklich"]
 date: 2025-04-06
+updated: 2026-04-15
 image: "/images/blog/kennenlernen-fragen-stellen.webp"
 imageAlt: "50 Fragen zum Kennenlernen, die wirklich zählen"
 tags: ["Kennenlernen", "Kommunikation", "Erstes Date"]

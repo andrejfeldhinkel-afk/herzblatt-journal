@@ -2,6 +2,7 @@
 title: "Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?"
 description: "Dein Partner hat dich betrogen — oder du ihn. Erfahre, ob und wie eine Beziehung nach einem Seitensprung gerettet werden kann."
 date: 2025-02-14
+updated: 2026-04-15
 tags:
   - "Beziehungen"
   - "Vertrauen"

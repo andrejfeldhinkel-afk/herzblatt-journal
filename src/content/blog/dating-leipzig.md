@@ -2,6 +2,7 @@
 title: "Dating in Leipzig: Hipster-Stadt für Singles"
 description: "Leipzig ist kreativ, lebendig und perfekt zum Daten. Musik, Clubs und Kaffekultur - so funktioniert Dating in Sachsens Hauptstadt."
 date: 2025-05-30
+updated: 2026-04-15
 image: "/images/photos/dating-leipzig.webp"
 tags:
   - "Dating"

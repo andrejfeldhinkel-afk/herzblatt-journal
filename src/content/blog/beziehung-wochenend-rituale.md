@@ -3,6 +3,7 @@ title: "Wochenend-Rituale: Qualitätszeit mit deinem Partner"
 description: "Wie du durch regelmäßige Wochenend-Rituale deine Beziehung stärkst. Praktische Ideen für gemeinsame Rituale, die Bindung schaffen."
 keywords: ["wochenend-rituale", "beziehung", "wochenend-rituale: qualitätszeit", "qualitätszeit deinem", "deinem partner"]
 date: 2025-05-05
+updated: 2026-04-15
 image: "/images/blog/beziehung-wochenend-rituale.webp"
 imageAlt: "Wochenend-Rituale: Qualitätszeit mit deinem Partner"
 tags: ["Beziehung"]

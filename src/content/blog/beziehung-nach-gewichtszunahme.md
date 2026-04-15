@@ -2,6 +2,7 @@
 title: "Beziehung und Gewichtszunahme: Ein heikles Thema ehrlich"
 description: "Gewichtszunahme in der Beziehung belastet viele Paare. Erfahre wie du ehrlich darüber redest ohne zu verletzen und was wirklich dahinter steckt."
 date: 2025-02-16
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Gesundheit"

@@ -3,6 +3,7 @@ title: "Fernbeziehung überleben"
 description: "Fernbeziehung überleben — Dein umfassender Ratgeber auf Herzblatt Journal. Praktische Tipps und Expertenwissen für die Liebe."
 keywords: ["fernbeziehung überleben", "fernbeziehung"]
 date: 2025-05-31
+updated: 2026-04-15
 image: "/images/blog/beziehung-fernbeziehung-ueberleben.webp"
 imageAlt: "Fernbeziehung überleben"
 tags: ["Fernbeziehung"]

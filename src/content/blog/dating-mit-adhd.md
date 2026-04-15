@@ -2,6 +2,7 @@
 title: "Dating mit ADHS – Herausforderungen und Stärken"
 description: "Dating mit ADHS: Nutze deine Stärken und meistere typische Herausforderungen. Mit praktischen Tipps für erfolgreiches Dating mit ADHS!"
 date: 2025-06-23
+updated: 2026-04-15
 tags:
   - "Psychologie"
   - "Dating-Tipps"

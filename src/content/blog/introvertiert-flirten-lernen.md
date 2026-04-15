@@ -10,6 +10,7 @@ tags:
 image: "/images/blog/introvertiert-flirten-lernen.webp"
 imageAlt: "Flirten für Introvertierte: Stille Stärken nutzen"
 date: 2025-07-26
+updated: 2026-04-15
 author: "laura-weber"
 faq:
   - question: "Was sollte man beim Dating beachten?"

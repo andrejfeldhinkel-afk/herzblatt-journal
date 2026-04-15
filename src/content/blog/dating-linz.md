@@ -2,6 +2,7 @@
 title: "Dating in Linz: Österreichs unterschätzte Stadt"
 description: "Linz ist lebendig, modern und unterschätzt. Donau, Kultur und lokale Szene - so datiert man in Österreichs Industriestadt."
 date: 2025-06-01
+updated: 2026-04-15
 image: "/images/photos/dating-linz.webp"
 tags:
   - "Dating"

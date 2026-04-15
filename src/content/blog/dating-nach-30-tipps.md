@@ -2,6 +2,7 @@
 title: "Dating mit 30 – Warum jetzt die beste Zeit für die Liebe ist"
 description: "Dating mit 30 hat viele Vorteile. Erfahre, warum die 30er die perfekte Zeit für die Partnersuche sind und wie du sie optimal nutzt."
 date: 2025-07-05
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Partnersuche"

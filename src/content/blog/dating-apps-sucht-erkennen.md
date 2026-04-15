@@ -3,6 +3,7 @@ title: "Dating-App-Sucht: Wann Swipen zur Obsession wird"
 description: "Dating-App-Sucht — Dein umfassender Ratgeber auf Herzblatt Journal. Praktische Tipps und Expertenwissen für die Liebe."
 keywords: ["dating-app-sucht", "dating apps", "digital detox", "dating-app-sucht: wann", "wann swipen", "swipen obsession"]
 date: 2025-06-27
+updated: 2026-04-15
 image: "/images/blog/dating-apps-sucht-erkennen.webp"
 imageAlt: "Dating-App-Sucht: Wann Swipen zur Obsession wird"
 tags: ["Dating-Apps", "Digital Detox"]

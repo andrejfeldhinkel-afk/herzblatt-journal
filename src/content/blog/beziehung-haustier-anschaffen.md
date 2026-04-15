@@ -3,6 +3,7 @@ title: "Gemeinsam ein Haustier anschaffen"
 description: "Gemeinsam ein Haustier anschaffen — Dein umfassender Ratgeber auf Herzblatt Journal. Praktische Tipps und Expertenwissen für die Liebe."
 keywords: ["gemeinsam ein haustier anschaffen", "zusammenleben", "gemeinsam haustier", "haustier anschaffen"]
 date: 2025-08-07
+updated: 2026-04-15
 image: "/images/blog/beziehung-haustier-anschaffen.webp"
 imageAlt: "Gemeinsam ein Haustier anschaffen"
 tags: ["Zusammenleben"]

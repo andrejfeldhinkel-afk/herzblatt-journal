@@ -3,6 +3,7 @@ title: "Fernbeziehung: 15 Tipps damit es klappt"
 description: "Fernbeziehung: 15 Tipps damit es klappt: Wie du durch bessere Kommunikation Missverständnisse vermeidest und Nähe schaffst."
 keywords: ["fernbeziehung", "kommunikation", "fernbeziehung: tipps", "tipps damit", "damit klappt"]
 date: 2025-08-24
+updated: 2026-04-15
 image: "/images/blog/fernbeziehung-tipps-funktioniert.webp"
 imageAlt: "Fernbeziehung: 15 Tipps damit es klappt"
 tags: ["Fernbeziehung", "Kommunikation"]

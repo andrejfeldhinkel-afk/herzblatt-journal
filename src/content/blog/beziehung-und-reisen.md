@@ -2,6 +2,7 @@
 title: "Beziehung und Reisen: Warum Urlaub den Stresstest liefert"
 description: "Beziehung und Reisen: Lerne, wie gemeinsame Reisen deine Beziehung stärken oder versteckte Schwachstellen aufdecken können. Mit praktischen Tipps!"
 date: 2025-03-10
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Lifestyle"

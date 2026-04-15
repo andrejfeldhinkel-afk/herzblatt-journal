@@ -2,6 +2,7 @@
 title: "Dating über 40: Dein ehrlicher Neustart in der Liebe"
 description: "Dating über 40: Warum die Lebensmitte beste Chancen für echte Liebe bietet. Authentisch, fokussiert und mit weniger Drama zum Partner."
 date: 2025-08-11
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Ratgeber"

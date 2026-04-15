@@ -2,6 +2,7 @@
 title: "Dating-Knigge 2026: Die neuen Regeln der modernen Liebe"
 description: "Modernes Dating-Etikette für 2026: Die neuen Regeln für Handy-Benehmen, Ghosting, Exclusivity, Nachrichtenverkehr und Social-Media-Verhalten."
 date: 2025-05-22
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Ratgeber"

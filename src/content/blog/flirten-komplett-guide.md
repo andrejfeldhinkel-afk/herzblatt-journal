@@ -2,6 +2,7 @@
 title: "Flirten lernen: Der komplette Guide von A bis Z"
 description: "Flirten lernen: Kompletter Guide für Anfänger und Fortgeschrittene. Körpersprache, Gesprächsführung, Timing und praktische Übungen — von A bis Z."
 date: 2025-08-14
+updated: 2026-04-15
 image: "/images/photos/flirten-komplett-guide.webp"
 tags:
   - "Flirten"

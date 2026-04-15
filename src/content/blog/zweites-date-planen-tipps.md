@@ -3,6 +3,7 @@ title: "Zweites Date planen: Vom ersten Treffen zum echten Anfang"
 description: "Zweites Date planen: Alles was du wissen musst, um beim Dating selbstbewusst aufzutreten und die richtige Person zu finden."
 keywords: ["zweites date planen", "dating", "erstes date", "date ideen", "kennenlernen", "beziehung"]
 date: 2025-07-29
+updated: 2026-04-15
 image: "/images/blog/zweites-date-planen-tipps.webp"
 imageAlt: "Zweites Date planen: Vom ersten Treffen zum echten Anfang"
 tags: ["Dating", "Erstes Date", "Date-Ideen", "Kennenlernen", "Beziehung"]

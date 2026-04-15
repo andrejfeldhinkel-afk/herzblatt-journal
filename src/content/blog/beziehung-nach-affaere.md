@@ -2,6 +2,7 @@
 title: "Beziehung nach Affäre: Vertrauen wieder aufbauen?"
 description: "Ratgeber zum Wiederaufbau von Vertrauen nach Affäre und Betrug. Erste Schritte, Paartherapie-Strategien und realistische Zeiträume für den Heilungsprozess."
 date: 2025-02-07
+updated: 2026-04-15
 tags:
   - "Beziehungstipps"
   - "Vertrauen"

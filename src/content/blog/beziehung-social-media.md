@@ -2,6 +2,7 @@
 title: "Beziehung & Social Media: Zwischen Eifersucht digitaler Nähe"
 description: "Social Media verändert alles in Beziehungen. Lerne, wie du Eifersucht managest und echte Nähe in der digitalen Welt aufbaust."
 date: 2025-02-27
+updated: 2026-04-15
 tags:
   - "Beziehungen"
   - "Psychologie"

@@ -2,6 +2,7 @@
 title: "Dating-App Gespräche: Von Small Talk zu echten Verbindungen"
 description: "Dating-App Gespräche verbessern: Schluss mit langweiligem Small Talk. Lerne Techniken für tiefere Unterhaltungen die zu echten Dates führen."
 date: 2025-04-28
+updated: 2026-04-15
 tags:
   - "Online-Dating"
   - "Flirten"

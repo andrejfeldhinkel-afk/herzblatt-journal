@@ -2,6 +2,7 @@
 title: "Gewaltfreie Kommunikation in der Partnerschaft"
 description: "Gewaltfreie Kommunikation nach Rosenberg: Die 4 Schritte für ehrliche Gespräche. Transformiere deine Beziehung durch respektvolle Kommunikation."
 date: 2025-08-22
+updated: 2026-04-15
 image: "/images/photos/gewaltfreie-kommunikation-beziehung.webp"
 tags:
   - "Kommunikation"

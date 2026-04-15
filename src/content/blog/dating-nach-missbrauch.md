@@ -2,6 +2,7 @@
 title: "Dating nach emotionalem Missbrauch – Behutsam zurück"
 description: "Dating nach Missbrauch: Behutsam zurück zu lieben — ein einfühlsamer und praktischer Guide für deinen Weg zur echten Heilung."
 date: 2025-07-19
+updated: 2026-04-15
 tags:
   - "Psychologie"
   - "Neuanfang"

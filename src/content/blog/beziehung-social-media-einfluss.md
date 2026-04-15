@@ -2,6 +2,7 @@
 title: "Social Media und Beziehung: Wie Instagram, TikTok und Co"
 description: "Social Media beeinflusst deine Beziehung mehr als du denkst. Erfahre wie Instagram und TikTok Erwartungen verzerren und wie ihr als Paar gesund damit."
 date: 2025-02-26
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Lifestyle"

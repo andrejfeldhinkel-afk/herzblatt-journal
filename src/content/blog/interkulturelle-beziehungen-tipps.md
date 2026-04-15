@@ -3,6 +3,7 @@ title: "Interkulturelle Beziehungen: Liebe ohne Grenzen"
 description: "Interkulturelle Beziehungen — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
 keywords: ["interkulturelle beziehungen", "beziehung", "kommunikation", "lifestyle", "interkulturelle beziehungen:", "beziehungen: liebe"]
 date: 2025-04-08
+updated: 2026-04-15
 image: "/images/blog/interkulturelle-beziehungen-tipps.webp"
 imageAlt: "Interkulturelle Beziehungen: Liebe ohne Grenzen"
 tags: ["Beziehung", "Kommunikation", "Lifestyle"]

@@ -6,6 +6,7 @@ tags: ["Dating", "Lifestyle", "Ratgeber"]
 image: "/images/blog/zeit-management-dating-beruf.webp"
 imageAlt: "Zeitmanagement: Dating und Beruf unter einen Hut"
 date: 2025-08-06
+updated: 2026-04-15
 author: "markus-hoffmann"
 faq:
   - question: "Wie finde ich den richtigen Partner?"

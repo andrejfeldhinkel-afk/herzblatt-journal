@@ -2,6 +2,7 @@
 title: "Die wichtigste Beziehung: Die mit dir selbst"
 description: "Beziehung mit sich selbst: Die Basis aller Liebe. Baue echte Selbstliebe auf und transformiere deine Partnerschaften mit praktischen Übungen."
 date: 2025-02-09
+updated: 2026-04-15
 image: "/images/photos/beziehung-mit-sich-selbst.webp"
 tags:
   - "Selbstbeziehung"

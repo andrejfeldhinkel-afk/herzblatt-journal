@@ -2,6 +2,7 @@
 title: "Verschiedene Freundeskreise in der Beziehung"
 description: "Wenn die Freunde deines Partners nerven: Balance zwischen eigenen Freunden und gemeinsamen Aktivitäten, Eifersucht und gesunde Grenzen."
 date: 2025-03-22
+updated: 2026-04-15
 image: "/images/photos/beziehung-verschiedene-freundeskreise.webp"
 tags:
   - "Beziehung"

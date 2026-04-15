@@ -3,6 +3,7 @@ title: "Selbstschutz beim Online-Dating"
 description: "Selbstschutz beim Online-Dating — Die besten Strategien für Online-Dating: Vom Profil bis zum ersten Treffen. Praxiserprobte Tipps."
 keywords: ["selbstschutz beim online-dating", "online dating", "ratgeber", "sicherheit", "selbstschutz beim", "beim online-dating"]
 date: 2025-05-12
+updated: 2026-04-15
 image: "/images/blog/selbstschutz-online-dating.webp"
 imageAlt: "Selbstschutz beim Online-Dating"
 tags: ["Online-Dating", "Ratgeber", "Sicherheit"]

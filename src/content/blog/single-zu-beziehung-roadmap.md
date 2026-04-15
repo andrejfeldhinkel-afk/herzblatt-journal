@@ -10,6 +10,7 @@ tags:
 image: "/images/blog/single-zu-beziehung-roadmap.webp"
 imageAlt: "Von Single zur Beziehung: Die Roadmap"
 date: 2025-04-11
+updated: 2026-04-15
 author: "markus-hoffmann"
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

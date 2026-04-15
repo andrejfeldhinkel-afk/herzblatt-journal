@@ -2,6 +2,7 @@
 title: "Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen"
 description: "Tipps für die Anpassung an das zusammenleben nach einer Fernbeziehung. Wie Sie Herausforderungen navigieren und eine starke Beziehung aufbauen."
 date: 2025-02-13
+updated: 2026-04-15
 tags:
   - "Long-Distance"
   - "Beziehungen"

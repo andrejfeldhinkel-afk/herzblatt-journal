@@ -2,6 +2,7 @@
 title: "Dating und Beziehung nach schwierigen Lebensentscheidungen"
 description: "Dating nach schwierigen Entscheidungen: Wie du emotionale Heilung findest, wieder in die Liebe vertraust und eine Beziehung aufbaust."
 date: 2025-07-09
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Psychologie"

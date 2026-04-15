@@ -6,6 +6,7 @@ tags: ["Eifersucht", "Digital Detox", "Beziehung"]
 image: "/images/blog/eifersucht-social-media.webp"
 imageAlt: "Eifersucht durch Social Media: Was hilft?"
 date: 2025-04-26
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

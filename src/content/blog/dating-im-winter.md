@@ -2,6 +2,7 @@
 title: "Romantische Winter-Dates und Kennenlern-Ideen"
 description: "Dating im Winter: Entdecke kreative und romantische Date-Ideen speziell für die kalte Jahreszeit und schaffe Wärme und Nähe."
 date: 2025-06-10
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Ratgeber"

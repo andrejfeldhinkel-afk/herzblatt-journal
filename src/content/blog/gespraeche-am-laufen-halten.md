@@ -6,6 +6,7 @@ tags: ["Kommunikation", "Flirten", "Kennenlernen"]
 image: "/images/blog/gespraeche-am-laufen-halten.webp"
 imageAlt: "Gespräche am Laufen halten: Nie mehr Stille"
 date: 2025-05-12
+updated: 2026-04-15
 author: "markus-hoffmann"
 faq:
   - question: "Wie kommuniziere ich besser in der Beziehung?"

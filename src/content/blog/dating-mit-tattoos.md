@@ -2,6 +2,7 @@
 title: "Dating mit Tattoos: Vorurteile und Anziehung"
 description: "Dating mit Tattoos: Lerne, wie deine Tätowierungen dein Dating-Leben beeinflussen und wie du mit Vorurteilen selbstbewusst umgehen kannst!"
 date: 2025-06-30
+updated: 2026-04-15
 tags:
   - "Dating"
   - "Lifestyle"

@@ -2,6 +2,7 @@
 title: "Eule liebt Lerche: Beziehung mit anderem Rhythmus"
 description: "Wie unterschiedliche Chronotypen deine Partnerschaft beeinflussen und wie du mit verschiedenen Schlafrhythmen umgehen kannst."
 date: 2025-03-16
+updated: 2026-04-15
 image: "/images/photos/beziehung-und-verschiedene-schlafrhythmen.webp"
 tags:
   - "Schlafrhythmus"

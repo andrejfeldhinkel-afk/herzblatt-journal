@@ -3,6 +3,7 @@ title: "Dating nach Gewichtszunahme: Selbstbewusst bleiben"
 description: "Dating nach Gewichtszunahme — Praktische Dating-Ratschläge, die wirklich funktionieren. Von Experten empfohlen."
 keywords: ["dating nach gewichtszunahme", "dating", "selbstliebe", "gesundheit", "dating nach", "nach gewichtszunahme:"]
 date: 2025-07-14
+updated: 2026-04-15
 image: "/images/blog/dating-nach-gewichtszunahme.webp"
 imageAlt: "Dating nach Gewichtszunahme: Selbstbewusst bleiben"
 tags: ["Dating", "Selbstliebe", "Gesundheit"]

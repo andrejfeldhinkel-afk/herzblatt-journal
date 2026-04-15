@@ -24,6 +24,12 @@ const formattedDate = new Intl.DateTimeFormat('de-DE', {
   day: 'numeric',
 }).format(post.data.date);
 
+const formattedUpdated = post.data.updated ? new Intl.DateTimeFormat('de-DE', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+}).format(post.data.updated) : null;
+
 const words = (post.body || '').split(/\s+/).length;
 const readingTime = Math.ceil(words / 200);
 
@@ -142,8 +148,14 @@ const ogImage = post.data.image || `/og-default.png`;
               <a href={`/autor/${author.slug}`}><img src={author.image} alt={author.name} class="w-10 h-10 rounded-full object-cover" style="border: 2px solid var(--color-primary-200);" loading="lazy" /></a>
               <div>
                 <a href={`/autor/${author.slug}`} class="text-sm font-semibold hover:underline" style="color: var(--text); text-decoration: none;">{author.name}</a>
-                <div class="flex items-center gap-2 text-xs" style="color: var(--text-muted);">
+                <div class="flex items-center gap-2 text-xs flex-wrap" style="color: var(--text-muted);">
                   <time datetime={post.data.date.toISOString()}>{formattedDate}</time>
+                  {formattedUpdated && (
+                    <>
+                      <span>·</span>
+                      <time datetime={post.data.updated.toISOString()} style="color: var(--color-primary-600); font-weight: 500;">Aktualisiert: {formattedUpdated}</time>
+                    </>
+                  )}
                   <span>·</span>
                   <span>{readingTime} Min. Lesezeit</span>
                 </div>

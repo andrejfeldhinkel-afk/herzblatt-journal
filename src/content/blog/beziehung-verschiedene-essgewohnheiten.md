@@ -3,6 +3,7 @@ title: "Verschiedene Essgewohnheiten in der Beziehung"
 description: "Verschiedene Essgewohnheiten in der Beziehung — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
 keywords: ["verschiedene essgewohnheiten in der beziehung", "zusammenleben", "beziehung", "lifestyle", "verschiedene essgewohnheiten", "essgewohnheiten beziehung"]
 date: 2025-08-12
+updated: 2026-04-15
 image: "/images/blog/beziehung-verschiedene-essgewohnheiten.webp"
 imageAlt: "Verschiedene Essgewohnheiten in der Beziehung"
 tags: ["Zusammenleben", "Beziehung", "Lifestyle"]

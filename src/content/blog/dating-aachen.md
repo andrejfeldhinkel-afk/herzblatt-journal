@@ -2,6 +2,7 @@
 title: "Dating in Aachen: Die besten Orte, Tipps & Hotspots"
 description: "Dating in Aachen: Die besten Orte und Tipps für Singles. Romantische Restaurants, Bars und Dating-Szene in der Altstadt."
 date: 2025-04-21
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

@@ -2,6 +2,7 @@
 title: "Diese Signale senden Frauen beim Flirten – Männer übersehen"
 description: "Dating Signals Frauen: Lerne Flirt-Signale richtig zu deuten. Die subtilen Zeichen, die Männer beim Flirten oft übersehen."
 date: 2025-08-07
+updated: 2026-04-15
 tags:
   - "Flirten"
   - "Dating-Tipps"

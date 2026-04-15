@@ -2,6 +2,7 @@
 title: "Beziehung retten nach der Geburt"
 description: "Beziehung nach der Geburt retten: Wie ihr eure Partnerschaft bewahrt. Praktische Tipps gegen Konflikte und zur Wiederherstellung von Intimität."
 date: 2025-02-27
+updated: 2026-04-15
 image: "/images/photos/beziehung-retten-nach-baby.webp"
 tags:
   - "Beziehung nach Baby"

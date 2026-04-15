@@ -2,6 +2,7 @@
 title: "Dating in Münster: Die besten Orte & Tipps für Singles"
 description: "Münster Dating-Guide: Kreuzviertel, Hafen, Altstadt. Entdecke die Single-Szene der charmanten Fahrrad-Stadt und beste Dating-Orte!"
 date: 2025-07-03
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

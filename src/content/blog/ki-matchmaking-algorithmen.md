@@ -6,6 +6,7 @@ tags: ["Online-Dating", "Dating-Apps", "Ratgeber"]
 image: "/images/blog/ki-matchmaking-algorithmen.webp"
 imageAlt: "KI-Matchmaking: Wie Algorithmen die Liebe finden"
 date: 2025-08-26
+updated: 2026-04-15
 author: "markus-hoffmann"
 faq:
   - question: "Wie schreibt man die erste Nachricht?"

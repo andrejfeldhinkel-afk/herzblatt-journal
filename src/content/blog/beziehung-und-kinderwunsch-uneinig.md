@@ -2,6 +2,7 @@
 title: "Uneinig beim Kinderwunsch: Ein Beziehungs-Dilemma"
 description: "Beziehung Kinderwunsch uneinig: Wenn Kinderwunsch und Partner nicht übereinstimmen. Kommunikation, Kompromisse und Entscheidungen."
 date: 2025-03-12
+updated: 2026-04-15
 image: "/images/photos/beziehung-und-kinderwunsch-uneinig.webp"
 tags:
   - "Kinderwunsch"

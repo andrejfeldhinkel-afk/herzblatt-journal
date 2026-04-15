@@ -3,6 +3,7 @@ title: "Unabhängigkeit in der Beziehung bewahren"
 description: "Unabhängigkeit in der Beziehung bewahren: Praktische Tipps und psychologische Einblicke für eine erfüllte Beziehung. Jetzt lesen auf Herzblatt Journal."
 keywords: ["unabhängigkeit in der beziehung bewahren", "beziehung", "selbstliebe", "grenzen", "unabhängigkeit beziehung", "beziehung bewahren"]
 date: 2025-07-13
+updated: 2026-04-15
 image: "/images/blog/unabhaengigkeit-in-beziehung.webp"
 imageAlt: "Unabhängigkeit in der Beziehung bewahren"
 tags: ["Beziehung", "Selbstliebe", "Grenzen"]

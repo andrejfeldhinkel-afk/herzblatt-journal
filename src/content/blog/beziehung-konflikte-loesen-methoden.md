@@ -3,6 +3,7 @@ title: "5 Methoden Konflikte zu lösen"
 description: "5 Methoden Konflikte zu lösen: Streit muss nicht destruktiv sein — lerne, wie ihr Konflikte als Chance für Wachstum nutzt."
 keywords: ["5 methoden konflikte zu lösen", "konflikte", "paartherapie", "methoden konflikte", "konflikte lösen"]
 date: 2025-04-16
+updated: 2026-04-15
 image: "/images/blog/beziehung-konflikte-loesen-methoden.webp"
 imageAlt: "5 Methoden Konflikte zu lösen"
 tags: ["Konflikte", "Paartherapie"]

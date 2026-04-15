@@ -3,6 +3,7 @@ title: "Healthy Boundaries beim Kennenlernen"
 description: "Healthy Boundaries beim Kennenlernen — Die besten Tipps und Strategien für erfolgreiches Dating. Authentisch, ehrlich und auf Augenhöhe."
 keywords: ["healthy boundaries beim kennenlernen", "dating", "psychologie", "healthy boundaries", "boundaries beim", "beim kennenlernen"]
 date: 2025-05-12
+updated: 2026-04-15
 image: "/images/blog/healthy-boundaries-dating-kennenlernen.webp"
 imageAlt: "Healthy Boundaries beim Kennenlernen"
 tags: ["Dating", "Psychologie"]

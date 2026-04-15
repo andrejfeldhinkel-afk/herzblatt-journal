@@ -3,6 +3,7 @@ title: "Dating nach Betrug: Vertrauen wieder aufbauen"
 description: "Wie du nach einem Vertrauensbruch wieder daten kannst. Strategien, um wieder offen für Liebe zu sein."
 keywords: ["dating nach betrug", "beziehung", "dating", "dating nach", "nach betrug:", "betrug: vertrauen"]
 date: 2025-04-19
+updated: 2026-04-15
 image: "/images/blog/dating-nach-betrug.webp"
 imageAlt: "Dating nach Betrug: Vertrauen wieder aufbauen"
 tags: ["Beziehung", "Dating"]

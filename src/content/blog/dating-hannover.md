@@ -2,6 +2,7 @@
 title: "Dating in Hannover: Die besten Orte"
 description: "Dating in Hannover: Lerne die besten Orte kennen – Parks, Seen, Restaurants und Treffpunkte für dein erfolgreiches Date."
 date: 2025-05-17
+updated: 2026-04-15
 image: "/images/photos/dating-hannover.webp"
 tags:
   - "Dating"

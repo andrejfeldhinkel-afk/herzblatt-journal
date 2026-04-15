@@ -2,6 +2,7 @@
 title: "Dating nach psychischer Erkrankung: Der behutsame Weg zurück"
 description: "Dating nach psychischer Erkrankung: Wie du wieder Vertrauen aufbaust, der richtigen Person vertraust und heilend datet"
 date: 2025-07-21
+updated: 2026-04-15
 image: "/images/photos/dating-nach-psychischer-erkrankung.webp"
 imageAlt: "Hoffnungsvoller Neuanfang beim Dating nach psychischer Erkrankung"
 tags:

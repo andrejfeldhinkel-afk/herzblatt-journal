@@ -2,6 +2,7 @@
 title: "Eifersucht in der Beziehung überwinden: So schaffst du es"
 description: "Eifersucht kann Beziehungen zerstören. Erfahre, woher sie kommt und wie du mit konkreten Strategien endlich loslassen kannst."
 date: 2025-08-31
+updated: 2026-04-15
 tags:
   - "Beziehungen"
   - "Psychologie"

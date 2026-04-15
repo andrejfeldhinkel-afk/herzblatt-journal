@@ -2,6 +2,7 @@
 title: "Beziehung und psychische Gesundheit"
 description: "Beziehung und mentale Gesundheit: Lerne, wie psychische Gesundheit deine Beziehung beeinflusst und wie du damit umgehen kannst. Ein Ratgeber!"
 date: 2025-03-08
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Psychologie"

@@ -2,6 +2,7 @@
 title: "Liebe & Freundschaften: Im Gleichgewicht"
 description: "Freundschaften in Beziehung: Lerne, wie du deine Freundschaften pflegst, während du eine romantische Beziehung führst. Mit praktischen Tipps!"
 date: 2025-03-03
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Ratgeber"

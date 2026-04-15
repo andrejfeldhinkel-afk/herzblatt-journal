@@ -3,6 +3,7 @@ title: "Micro-Dating: 10-Minuten-Dates"
 description: "Micro-Dating — Die besten Tipps und Strategien für erfolgreiches Dating. Authentisch, ehrlich und auf Augenhöhe."
 keywords: ["micro-dating", "date ideen", "dating", "micro-dating: 10-minuten-dates"]
 date: 2025-08-11
+updated: 2026-04-15
 image: "/images/blog/micro-dating-trend.webp"
 imageAlt: "Micro-Dating: 10-Minuten-Dates"
 tags: ["Date-Ideen", "Dating"]

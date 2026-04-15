@@ -7,6 +7,7 @@ tags:
 image: "/images/blog/dating-green-flags-positive-zeichen.webp"
 imageAlt: "Green Flags: Positive Zeichen beim Dating erkennen"
 date: 2025-06-07
+updated: 2026-04-15
 author: "markus-hoffmann"
 faq:
   - question: "Wo kann man am besten einen Partner finden?"

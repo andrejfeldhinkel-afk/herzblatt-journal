@@ -3,6 +3,7 @@ title: "Willkommen bei Herzblatt Journal"
 description: "Willkommen bei Herzblatt Journal — Dein umfassender Ratgeber auf Herzblatt Journal. Praktische Tipps und Expertenwissen für die Liebe."
 keywords: ["willkommen bei herzblatt journal", "ratgeber", "willkommen herzblatt", "herzblatt journal"]
 date: 2025-06-13
+updated: 2026-04-15
 image: "/images/blog/willkommen.webp"
 imageAlt: "Willkommen bei Herzblatt Journal"
 tags: ["Ratgeber"]

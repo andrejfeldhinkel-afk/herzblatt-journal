@@ -3,6 +3,7 @@ title: "Persönlichkeit als Dating-Stärke"
 description: "Persönlichkeit als Dating-Stärke: Die Kunst des Flirtens — natürlich, charmant und erfolgreich. Jetzt Tipps entdecken."
 keywords: ["persönlichkeit als dating-stärke", "flirten", "selbstliebe", "persönlichkeit dating-stärke"]
 date: 2025-04-07
+updated: 2026-04-15
 image: "/images/blog/persoenlichkeit-staerke-dating.webp"
 imageAlt: "Persönlichkeit als Dating-Stärke"
 tags: ["Flirten", "Selbstliebe"]

@@ -2,6 +2,7 @@
 title: "Dating nach einer Trennung: Wann bist du wirklich bereit?"
 description: "Dating nach Trennung: Wie findest du heraus, ob du emotional bereit bist? Rebound vermeiden und richtig neu verlieben nach Trennungsschmerz."
 date: 2025-07-24
+updated: 2026-04-15
 tags:
   - "Beziehungen"
   - "Dating-Tipps"

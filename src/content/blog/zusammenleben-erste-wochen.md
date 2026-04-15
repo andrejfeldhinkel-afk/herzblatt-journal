@@ -3,6 +3,7 @@ title: "Zusammenleben: Die ersten Wochen überstehen"
 description: "Zusammenleben: Praktische Tipps und psychologische Einblicke für eine erfüllte Beziehung. Jetzt lesen auf Herzblatt Journal."
 keywords: ["zusammenleben", "beziehung", "kommunikation", "zusammenleben: ersten", "ersten wochen", "wochen überstehen"]
 date: 2025-07-21
+updated: 2026-04-15
 image: "/images/blog/zusammenleben-erste-wochen.webp"
 imageAlt: "Zusammenleben: Die ersten Wochen überstehen"
 tags: ["Zusammenleben", "Beziehung", "Kommunikation"]

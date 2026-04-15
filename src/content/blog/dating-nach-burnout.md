@@ -2,6 +2,7 @@
 title: "Dating nach Burnout oder Depression: Wann bin ich bereit"
 description: "Dating nach Burnout: Lerne, wann der richtige Zeitpunkt ist und wie du achtsam zurück ins Dating gehst. Mit psychologischem Ratgeber!"
 date: 2025-07-10
+updated: 2026-04-15
 tags:
   - "Psychologie"
   - "Selbstliebe"

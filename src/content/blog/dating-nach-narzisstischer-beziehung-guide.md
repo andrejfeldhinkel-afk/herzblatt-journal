@@ -2,6 +2,7 @@
 title: "Nach dem Narzissten: Komplett-Guide für den Neustart"
 description: "Dating nach narzisstischer Beziehung: Komplett-Guide für einen gesunden Neustart. Heilungs-Zeitleiste, Warnsignale und sichere Grenzen setzen."
 date: 2025-06-19
+updated: 2026-04-15
 image: "/images/photos/dating-nach-narzisstischer-beziehung-guide.webp"
 tags:
   - "Narzissmus"

@@ -2,6 +2,7 @@
 title: "Romantische Date-Ideen für Zuhause"
 description: "Date-Ideen für Zuhause: Kreative und romantische Dates vom Dinner bis Spielabend. Schaffe Intimität und Atmosphäre zu Hause!"
 date: 2025-04-13
+updated: 2026-04-15
 image: "/images/photos/date-ideen-zuhause.webp"
 tags:
   - "Dating"

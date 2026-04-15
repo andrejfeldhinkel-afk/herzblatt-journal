@@ -2,6 +2,7 @@
 title: "Dating in der Kleinstadt: Wenig Auswahl, viele Chancen"
 description: "Dating in der Kleinstadt — schwierig oder unterschätzt? Entdecke Strategien für die Partnersuche wenn der Dating-Pool klein aber fein ist."
 date: 2025-06-11
+updated: 2026-04-15
 image: "/images/photos/dating-in-der-kleinstadt.webp"
 imageAlt: "Romantische Kleinstadt-Atmosphäre"
 tags:

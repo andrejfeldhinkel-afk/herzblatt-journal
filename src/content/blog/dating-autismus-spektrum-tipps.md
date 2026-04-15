@@ -7,6 +7,7 @@ tags:
 image: "/images/blog/dating-autismus-spektrum-tipps.webp"
 imageAlt: "Dating mit Autismus-Spektrum: Tipps für authentische Verbindungen"
 date: 2025-06-05
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

@@ -2,6 +2,7 @@
 title: "Dating in Stuttgart: Tipps und Hotspots"
 description: "Dating in Stuttgart: Technik, Wein, Musik und Kultur. Von der Wilhelma bis zum Nachtleben — perfekte Dating-Spots in Baden-Württemberg."
 date: 2025-07-12
+updated: 2026-04-15
 image: "/images/photos/dating-stuttgart.webp"
 tags:
   - "Dating"

@@ -3,6 +3,7 @@ title: "Verschiedener Musikgeschmack in der Beziehung"
 description: "Verschiedener Musikgeschmack in der Beziehung — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
 keywords: ["verschiedener musikgeschmack in der beziehung", "beziehung", "lifestyle", "verschiedener musikgeschmack", "musikgeschmack beziehung"]
 date: 2025-04-18
+updated: 2026-04-15
 image: "/images/blog/dating-unterschiedliche-musikgeschmaecker.webp"
 imageAlt: "Verschiedener Musikgeschmack in der Beziehung"
 tags: ["Beziehung", "Lifestyle"]

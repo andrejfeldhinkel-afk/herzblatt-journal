@@ -2,6 +2,7 @@
 title: "Nüchtern daten: Der Guide für Dating ohne Alkohol"
 description: "Dating ohne Alkohol? So meisterst du Dates nüchtern — selbstbewusst, entspannt und ohne den flüssigen Mut. Für alle die bewusster leben wollen."
 date: 2025-07-27
+updated: 2026-04-15
 image: "/images/photos/dating-ohne-alkohol.webp"
 imageAlt: "Entspanntes Kaffee-Date ohne Alkohol"
 tags:

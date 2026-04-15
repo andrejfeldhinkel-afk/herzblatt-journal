@@ -2,6 +2,7 @@
 title: "Wenn Partner verschiedene Lebensziele haben"
 description: "Beziehung mit verschiedenen Lebenszielen: Kann das funktionieren? Ehrliche Analyse von Kompatibilität, Kompromissen und echten Dealbreakern."
 date: 2025-03-21
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Kommunikation"

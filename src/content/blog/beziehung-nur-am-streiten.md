@@ -2,6 +2,7 @@
 title: "Wir streiten nur noch: Wenn die Beziehung zum Kampffeld wird"
 description: "Ihr streitet nur noch? Erfahre warum Dauerstreit entsteht, was er über eure Beziehung verrät und wie ihr den Teufelskreis durchbrecht."
 date: 2025-02-22
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Kommunikation"

@@ -2,6 +2,7 @@
 title: "Dating im Ausland — Kulturelle Unterschiede meistern"
 description: "Dating im Ausland: Wie du dich orientierst, kulturelle Unterschiede navigierst und dein Expat-Dating erfolgreich gestaltest."
 date: 2025-06-07
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Ratgeber"

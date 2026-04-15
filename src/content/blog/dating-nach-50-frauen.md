@@ -2,6 +2,7 @@
 title: "Dating über 50 als Frau: Neustart mit Selbstbewusstsein"
 description: "Dating über 50 für Frauen: Lerne, wie du selbstbewusst in die Partnersuche einsteigst und Dating neu entdeckst. Mit praktischen Tipps!"
 date: 2025-07-08
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Selbstliebe"

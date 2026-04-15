@@ -2,6 +2,7 @@
 title: "Beziehungsambivalenz — Bleiben oder Gehen? Die ewige Frage"
 description: "Wenn du nicht weißt, ob du bleiben oder gehen sollst: Ein umfassender Leitfaden zur Beziehungsambivalenz."
 date: 2025-03-26
+updated: 2026-04-15
 author: "sarah-kellner"
 image: "/images/blog/beziehungsambivalenz-guide.webp"
 imageAlt: "Beziehungsambivalenz — Bleiben oder Gehen? Die ewige Frage"

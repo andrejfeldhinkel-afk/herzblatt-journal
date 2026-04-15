@@ -2,6 +2,7 @@
 title: "10 Dating-Fehler, die Männer ständig machen (und wie du sie"
 description: "Von zu viel Druck bis zu fehlender Initiative — diese typischen Dating-Fehler kosten dich Chancen. So machst du es besser."
 date: 2025-05-26
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Ratgeber"

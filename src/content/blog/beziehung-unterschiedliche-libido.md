@@ -2,6 +2,7 @@
 title: "Unterschiedliche Libido in der Beziehung: Wenn einer mehr"
 description: "Unterschiedliche Libido muss kein Beziehungskiller sein. Erfahre warum Lust-Unterschiede normal sind und wie ihr einen Weg findet der für beide."
 date: 2025-03-16
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Intimität"

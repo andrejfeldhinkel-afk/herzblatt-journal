@@ -2,6 +2,7 @@
 title: "Richtig entschuldigen: Die 5 Sprachen der Reue"
 description: "Richtig entschuldigen: Die 5 Sprachen der echten Reue. Wie du Vergebung ermöglichst und deine Beziehung auf neurobiologischer Ebene heilst."
 date: 2025-08-01
+updated: 2026-04-15
 image: "/images/photos/entschuldigung-beziehung.webp"
 tags:
   - "Kommunikation"

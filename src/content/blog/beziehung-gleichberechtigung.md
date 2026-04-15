@@ -2,6 +2,7 @@
 title: "Gleichberechtigung in der Beziehung"
 description: "Gleichberechtigung in der Beziehung: Praktischer Ratgeber zur echten Partnerschaft mit gegenseitigem Respekt und gegenseitiger Wertschätzung."
 date: 2025-02-03
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Gleichberechtigung"

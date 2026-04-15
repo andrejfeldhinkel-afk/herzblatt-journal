@@ -2,6 +2,7 @@
 title: "Emotional unreifer Partner: Anzeichen und Auswege"
 description: "Emotionale Unreife Partner: 15 Anzeichen erkennen und verstehen, was du tun kannst. Mit praktischen Lösungen für deine Beziehung."
 date: 2025-07-30
+updated: 2026-04-15
 image: "/images/photos/emotionale-unreife-partner.webp"
 tags:
   - "Beziehungsprobleme"

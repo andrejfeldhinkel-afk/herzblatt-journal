@@ -3,6 +3,7 @@ title: "Unterschiedlicher Kinderwunsch"
 description: "Unterschiedlicher Kinderwunsch: Praktische Tipps und psychologische Einblicke für eine erfüllte Beziehung. Jetzt lesen auf Herzblatt Journal."
 keywords: ["unterschiedlicher kinderwunsch", "beziehung", "familie"]
 date: 2025-07-01
+updated: 2026-04-15
 image: "/images/blog/beziehung-kinderwunsch-unterschiedlich.webp"
 imageAlt: "Unterschiedlicher Kinderwunsch"
 tags: ["Beziehung", "Familie"]

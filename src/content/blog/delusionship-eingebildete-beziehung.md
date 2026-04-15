@@ -2,6 +2,7 @@
 title: "Delusionship: Wenn du dir eine Beziehung einbildest, die es"
 description: "Delusionship erkennen und beenden: Warum wir uns Beziehungen einbilden, die nie existiert haben — und wie du zurück in die Realität findest."
 date: 2025-08-23
+updated: 2026-04-15
 image: "/images/photos/delusionship-eingebildete-beziehung.webp"
 tags:
   - "Dating"

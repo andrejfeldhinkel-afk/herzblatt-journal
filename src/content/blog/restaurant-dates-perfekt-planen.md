@@ -9,6 +9,7 @@ tags:
 image: "/images/blog/restaurant-dates-perfekt-planen.webp"
 imageAlt: "Restaurant-Dates perfekt planen"
 date: 2025-06-15
+updated: 2026-04-15
 author: "markus-hoffmann"
 faq:
   - question: "Was sollte man beim Dating beachten?"

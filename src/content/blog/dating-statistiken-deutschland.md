@@ -3,6 +3,7 @@ title: "Dating in Zahlen: Spannende Statistiken aus Deutschland"
 description: "Dating in Zahlen — Die besten Tipps und Strategien für erfolgreiches Dating. Authentisch, ehrlich und auf Augenhöhe."
 keywords: ["dating in zahlen", "dating", "ratgeber", "dating zahlen:", "zahlen: spannende", "spannende statistiken"]
 date: 2025-04-23
+updated: 2026-04-15
 image: "/images/blog/dating-statistiken-deutschland.webp"
 imageAlt: "Dating in Zahlen: Spannende Statistiken aus Deutschland"
 tags: ["Dating", "Ratgeber"]

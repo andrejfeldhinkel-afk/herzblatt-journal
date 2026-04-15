@@ -3,6 +3,7 @@ title: "Gesunde Grenzen setzen"
 description: "Gesunde Grenzen setzen — Dein umfassender Ratgeber auf Herzblatt Journal. Praktische Tipps und Expertenwissen für die Liebe."
 keywords: ["gesunde grenzen setzen", "ratgeber", "gesunde grenzen", "grenzen setzen"]
 date: 2025-07-16
+updated: 2026-04-15
 image: "/images/blog/gesunde-grenzen-setzen-beziehung.webp"
 imageAlt: "Gesunde Grenzen setzen"
 tags: ["Ratgeber"]

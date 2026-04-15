@@ -2,6 +2,7 @@
 title: "Dating mit Übergewicht: Selbstbewusst trotz Unsicherheit"
 description: "Dating mit Übergewicht? So gehst du selbstbewusst mit deinem Körper um, findest den richtigen Partner und lässt dich nicht von Unsicherheiten stoppen."
 date: 2025-04-26
+updated: 2026-04-15
 tags:
   - "Dating"
   - "Selbstliebe"

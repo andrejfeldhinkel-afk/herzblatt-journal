@@ -2,6 +2,7 @@
 title: "Dating nach der Scheidung: Neues Kapitel"
 description: "Nach einer Scheidung wieder daten? Das braucht Mut und Klarheit. Tipps zum Neubeginn und wie du dich selbst wieder finden kannst."
 date: 2025-06-21
+updated: 2026-04-15
 image: "/images/photos/dating-nach-scheidung.webp"
 tags:
   - "Dating"

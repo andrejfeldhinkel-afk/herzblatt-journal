@@ -2,6 +2,7 @@
 title: "Selbstwert und Dating: Warum es zusammenhängt"
 description: "Dein Selbstwert bestimmt deine Dating-Chancen. Ohne innere Stabilität bleibt erfolgreiche Liebe ein Traum. Lerne, warum das so ist."
 date: 2025-07-15
+updated: 2026-04-15
 image: "/images/photos/dating-und-selbstwert.webp"
 tags:
   - "Dating"

@@ -2,6 +2,7 @@
 title: "So optimierst du deinen Dating-App Algorithmus"
 description: "Dating-Apps Algorithmus: Verstehe wie der Matching-Algorithmus funktioniert und optimiere ihn für mehr echte, qualitative Matches."
 date: 2025-05-04
+updated: 2026-04-15
 tags:
   - "Online-Dating"
   - "Dating-Tipps"

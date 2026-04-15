@@ -2,6 +2,7 @@
 title: "Dating in Luzern: Schweizer Romantik pur"
 description: "Luzern ist Schweizer Romantik in Quintessenz. Vierwaldstättersee, Altstadt und Berge - Dating in Luzern ist unvergesslich."
 date: 2025-06-04
+updated: 2026-04-15
 image: "/images/photos/dating-luzern.webp"
 tags:
   - "Dating"

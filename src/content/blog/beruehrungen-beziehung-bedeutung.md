@@ -2,6 +2,7 @@
 title: "Die Kraft der Berührung: Warum körperliche Nähe heilt"
 description: "Berührungen sind mehr als angenehm – sie heilen psychische Wunden und stärken Beziehungen."
 date: 2025-01-25
+updated: 2026-04-15
 image: "/images/photos/beruehrungen-beziehung-bedeutung.webp"
 imageAlt: "Händchenhalten als heilende Berührung"
 tags:

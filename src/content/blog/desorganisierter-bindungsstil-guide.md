@@ -2,6 +2,7 @@
 title: "Der desorganisierte Bindungsstil: Wenn du gleichzeitig Nähe"
 description: "Desorganisierter Bindungsstil erklärt: Warum du Nähe willst aber gleichzeitig Angst davor hast — und wie du dieses Muster heilen kannst."
 date: 2025-08-25
+updated: 2026-04-15
 tags:
   - "Psychologie"
   - "Beziehung"

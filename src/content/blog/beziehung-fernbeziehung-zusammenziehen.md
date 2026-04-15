@@ -2,6 +2,7 @@
 title: "Fernbeziehung beenden: Zusammenziehen"
 description: "Fernbeziehung beenden: Lerne, wie du erfolgreich vom Fernbeziehungsalltag ins gemeinsame Zusammenleben übergehst. Mit praktischen Tipps!"
 date: 2025-02-01
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Kommunikation"

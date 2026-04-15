@@ -8,6 +8,7 @@ tags:
 image: "/images/blog/dry-dating-alkoholfrei-daten.webp"
 imageAlt: "Dry Dating: Der Trend zum alkoholfreien Date"
 date: 2025-05-17
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

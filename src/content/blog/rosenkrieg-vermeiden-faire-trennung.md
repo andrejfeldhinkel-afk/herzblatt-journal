@@ -7,6 +7,7 @@ tags:
 image: "/images/blog/rosenkrieg-vermeiden-faire-trennung.webp"
 imageAlt: "Rosenkrieg vermeiden: Tipps für eine faire Trennung"
 date: 2025-05-02
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Wie übersteht man eine Trennung?"

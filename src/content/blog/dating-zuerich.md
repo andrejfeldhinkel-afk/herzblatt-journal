@@ -2,6 +2,7 @@
 title: "Dating in Zürich: Schweizer Singles treffen"
 description: "Dating in Zürich: Eleganz und Effizienz treffen sich. Luxus-Cafés, Zürichsee und diskrete Szene — so datiert man in der Schweizer Metropole."
 date: 2025-07-17
+updated: 2026-04-15
 image: "/images/photos/dating-zuerich.webp"
 tags:
   - "Dating"

@@ -2,6 +2,7 @@
 title: "Beziehung mit Sprachbarriere: Liebe spricht alle Sprachen?"
 description: "Beziehung mit Sprachbarriere: Wie mehrsprachige Paare erfolgreich kommunizieren und Herausforderungen der Sprache meistern."
 date: 2025-03-19
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Kommunikation"

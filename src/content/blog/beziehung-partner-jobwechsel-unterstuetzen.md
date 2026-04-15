@@ -8,6 +8,7 @@ tags:
 image: "/images/blog/beziehung-partner-jobwechsel-unterstuetzen.webp"
 imageAlt: "Partner beim Jobwechsel unterstützen: So bleibt die Beziehung stark"
 date: 2025-07-30
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

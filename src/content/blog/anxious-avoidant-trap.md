@@ -2,6 +2,7 @@
 title: "Ängstlich trifft Vermeidend: Die Beziehungsfalle"
 description: "Ängstlich-Vermeidend Trap: Warum sich diese Bindungstypen magisch anziehen. Neurobiologie der Dynamik und wie ihr aus der Falle ausbrechen könnt."
 date: 2025-01-19
+updated: 2026-04-15
 image: "/images/photos/anxious-avoidant-trap.webp"
 tags:
   - "Bindungstheorie"

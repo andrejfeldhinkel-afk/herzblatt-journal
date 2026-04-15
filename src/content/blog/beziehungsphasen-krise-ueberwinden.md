@@ -3,6 +3,7 @@ title: "Beziehungskrise in jeder Phase meistern"
 description: "Beziehungskrise in jeder Phase meistern: Von der Planung bis zum Eheleben — wertvolle Ratschläge für Paare."
 keywords: ["beziehungskrise in jeder phase meistern", "hochzeit", "konflikte", "lebensphasen", "beziehungskrise jeder", "jeder phase"]
 date: 2025-07-15
+updated: 2026-04-15
 image: "/images/blog/beziehungsphasen-krise-ueberwinden.webp"
 imageAlt: "Beziehungskrise in jeder Phase meistern"
 tags: ["Hochzeit", "Konflikte", "Lebensphasen"]

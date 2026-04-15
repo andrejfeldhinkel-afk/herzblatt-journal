@@ -2,6 +2,7 @@
 title: "Situationship: Zwischen Freundschaft und Beziehung"
 description: "Situationship: Lerne die Warnsignale zu erkennen und finde Klarheit in dieser Grauzone zwischen Freundschaft und Beziehung."
 date: 2025-08-20
+updated: 2026-04-15
 tags: ["Beziehungstipps", "Dating", "Ratgeber"]
 image: "/images/photos/situationship-guide.webp"
 draft: false

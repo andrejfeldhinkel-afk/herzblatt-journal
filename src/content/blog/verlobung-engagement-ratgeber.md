@@ -3,6 +3,7 @@ title: "Verlobung Ratgeber: Wenn es zum Antrag kommt"
 description: "Verlobung Ratgeber — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
 keywords: ["verlobung ratgeber", "beziehung", "hochzeit", "verlobung ratgeber:", "ratgeber: wenn", "wenn antrag"]
 date: 2025-05-16
+updated: 2026-04-15
 image: "/images/blog/verlobung-engagement-ratgeber.webp"
 imageAlt: "Verlobung Ratgeber: Wenn es zum Antrag kommt"
 tags: ["Beziehung", "Hochzeit"]

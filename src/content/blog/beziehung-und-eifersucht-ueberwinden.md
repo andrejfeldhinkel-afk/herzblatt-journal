@@ -2,6 +2,7 @@
 title: "Eifersucht überwinden: Der komplette Guide"
 description: "Eifersucht zerstört Beziehungen. Lerne die Ursachen zu verstehen, gesunde von ungesunder Eifersucht zu unterscheiden und konkrete Strategien zur."
 date: 2025-03-07
+updated: 2026-04-15
 image: "/images/photos/beziehung-und-eifersucht-ueberwinden.webp"
 tags:
   - "Eifersucht"

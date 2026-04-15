@@ -2,6 +2,7 @@
 title: "Beziehung nach Corona – Was die Pandemie uns Liebe gelehrt"
 description: "Beziehung nach Corona: Die Pandemie hat Paare auf die Probe gestellt. Was wir aus dieser Erfahrung für die Zukunft lernen."
 date: 2025-02-09
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Gesellschaft"

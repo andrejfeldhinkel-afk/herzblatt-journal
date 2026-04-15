@@ -3,6 +3,7 @@ title: "Dating-Gewohnheiten ändern: Neue Muster für neue Ergebnisse"
 description: "Deine Dating-Gewohnheiten sabotieren dich? Lerne, wie du alte Muster erkennst und neue, bessere aufbaust."
 keywords: ["dating-gewohnheiten ändern", "ratgeber", "dating-gewohnheiten ändern:", "ändern: neue", "neue muster", "muster neue"]
 date: 2025-04-26
+updated: 2026-04-15
 image: "/images/blog/dating-gewohnheiten-aendern.webp"
 imageAlt: "Dating-Gewohnheiten ändern: Neue Muster für neue Ergebnisse"
 tags: ["Ratgeber"]

@@ -2,6 +2,7 @@
 title: "Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare"
 description: "Introvertiert-extrovertiert Paare können fantastisch funktionieren. Lerne die Stärken eurer Gegensätze zu nutzen und typische Fallstricke zu vermeiden."
 date: 2025-02-04
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Psychologie"

@@ -3,6 +3,7 @@ title: "Bindungstypen verstehen: Dein Attachment Guide"
 description: "Bindungstypen verstehen — Psychologische Hintergründe verstehen und für bessere Beziehungen nutzen. Fundiert und praxisnah erklärt."
 keywords: ["bindungstypen verstehen", "bindungstypen", "psychologie", "beziehung", "bindungstypen verstehen:", "verstehen: dein"]
 date: 2025-07-21
+updated: 2026-04-15
 image: "/images/blog/bindungstypen-verstehen-attachment.webp"
 imageAlt: "Bindungstypen verstehen: Dein Attachment Guide"
 tags: ["Bindungstypen", "Psychologie", "Beziehung"]

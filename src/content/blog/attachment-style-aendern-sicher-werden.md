@@ -2,6 +2,7 @@
 title: "Bindungsstil ändern: Wie du von unsicher zu sicher wirst"
 description: "Bindungsstil ändern ist möglich. Lerne wie du unsichere Bindungsmuster erkennst, verstehst und Schritt für Schritt einen sicheren Bindungsstil entwickelst."
 date: 2025-01-21
+updated: 2026-04-15
 tags:
   - "Psychologie"
   - "Selbstliebe"

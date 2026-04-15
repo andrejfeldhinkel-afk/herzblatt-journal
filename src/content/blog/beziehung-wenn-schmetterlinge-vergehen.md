@@ -2,6 +2,7 @@
 title: "Wenn die Schmetterlinge vergehen: Warum das der wahre Beginn"
 description: "Schmetterlinge vergehen — und das ist gut so. Erfahre warum das Ende der Verliebtheit der Anfang echter Liebe ist und wie du die Tiefe danach findest."
 date: 2025-03-24
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Psychologie"

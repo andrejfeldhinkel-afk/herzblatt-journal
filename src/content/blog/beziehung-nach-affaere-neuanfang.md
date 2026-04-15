@@ -7,6 +7,7 @@ tags:
 image: "/images/blog/beziehung-nach-affaere-neuanfang.webp"
 imageAlt: "Beziehung nach einer Affäre: Ist ein Neuanfang möglich?"
 date: 2025-07-27
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Wie baut man Vertrauen in einer Beziehung auf?"

@@ -6,6 +6,7 @@ tags: ["Red Flags", "Erstes Date", "Sicherheit"]
 image: "/images/blog/red-flags-erstes-date.webp"
 imageAlt: "Red Flags beim ersten Date: Warnsignale erkennen"
 date: 2025-07-01
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Was sind typische Red Flags beim Dating?"

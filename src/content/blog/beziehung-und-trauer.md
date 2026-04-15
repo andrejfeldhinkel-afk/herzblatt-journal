@@ -3,6 +3,7 @@ title: "Trauer in der Beziehung: Gemeinsam durch den Schmerz"
 description: "Trauer in der Beziehung: Praktische Tipps und psychologische Einblicke für eine erfüllte Beziehung. Jetzt lesen auf Herzblatt Journal."
 keywords: ["trauer in der beziehung", "beziehung", "heilung", "psychologie", "trauer beziehung:", "beziehung: gemeinsam"]
 date: 2025-07-07
+updated: 2026-04-15
 image: "/images/blog/beziehung-und-trauer.webp"
 imageAlt: "Trauer in der Beziehung: Gemeinsam durch den Schmerz"
 tags: ["Beziehung", "Heilung", "Psychologie"]

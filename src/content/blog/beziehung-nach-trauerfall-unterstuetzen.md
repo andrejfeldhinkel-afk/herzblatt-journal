@@ -8,6 +8,7 @@ tags:
 image: "/images/blog/beziehung-nach-trauerfall-unterstuetzen.webp"
 imageAlt: "Beziehung nach einem Trauerfall: Füreinander da sein"
 date: 2025-05-24
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

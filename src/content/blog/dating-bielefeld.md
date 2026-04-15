@@ -2,6 +2,7 @@
 title: "Dating in Bielefeld: Die besten Orte, Tipps & Hotspots"
 description: "Bielefeld Dating-Guide: Trendige Bars, romantische Restaurants und beste Single-Szene. Entdecke die schönsten Orte für dein perfektes Date!"
 date: 2025-05-12
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

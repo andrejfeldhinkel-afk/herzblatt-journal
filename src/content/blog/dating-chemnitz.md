@@ -2,6 +2,7 @@
 title: "Dating in Chemnitz: Die besten Orte, Tipps & Hotspots"
 description: "Chemnitz Dating-Guide: Entdecke trendige Bars, Restaurants und die beste Single-Szene der Kulturhauptstadt. Deine persönlichen Dating-Tipps!"
 date: 2025-05-17
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

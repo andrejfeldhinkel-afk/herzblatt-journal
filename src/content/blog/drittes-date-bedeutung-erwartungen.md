@@ -2,6 +2,7 @@
 title: "Das dritte Date: Warum es das wichtigste Date ist und was es"
 description: "Das dritte Date ist entscheidend. Erfahre warum es über Beziehung oder Friendzone entscheidet."
 date: 2025-08-27
+updated: 2026-04-15
 tags:
   - "Dating"
   - "Ratgeber"

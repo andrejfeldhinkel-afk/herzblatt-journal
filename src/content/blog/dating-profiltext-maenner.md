@@ -2,6 +2,7 @@
 title: "Dating-Profiltext für Männer: So fällst du"
 description: "Dating-Profiltext für Männer: Praktische Tipps für einen authentischen, kreativen Text, der wirklich echte Matches bringt."
 date: 2025-05-06
+updated: 2026-04-15
 tags:
   - "Online Dating"
   - "Tipps"

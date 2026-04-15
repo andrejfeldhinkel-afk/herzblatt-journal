@@ -3,6 +3,7 @@ title: "Beziehung nach IVF-Behandlung"
 description: "Beziehung nach IVF-Behandlung: Wie Familie und Partnerschaft sich gegenseitig stärken. Ratgeber mit konkreten Tipps."
 keywords: ["beziehung nach ivf-behandlung", "familie", "beziehung nach", "nach ivf-behandlung"]
 date: 2025-08-24
+updated: 2026-04-15
 image: "/images/blog/beziehung-nach-ivf-behandlung.webp"
 imageAlt: "Beziehung nach IVF-Behandlung"
 tags: ["Familie"]

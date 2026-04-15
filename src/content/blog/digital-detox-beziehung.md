@@ -6,6 +6,7 @@ tags: ["Digital Detox", "Beziehung", "Lifestyle"]
 image: "/images/blog/digital-detox-beziehung.webp"
 imageAlt: "Digital Detox für Paare: Handy weg, Liebe an"
 date: 2025-07-12
+updated: 2026-04-15
 author: "laura-weber"
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

@@ -3,6 +3,7 @@ title: "Positives Dating-Mindset: Wie du deine innere Einstellung..."
 description: "Dein Mindset beim Dating bestimmt deine Ergebnisse. Lerne, wie du deine innere Einstellung veränderst für mehr Erfolg und Glück."
 keywords: ["positives dating-mindset", "ratgeber", "positives dating-mindset:", "dating-mindset: deine", "deine innere", "innere einstellung"]
 date: 2025-07-18
+updated: 2026-04-15
 image: "/images/blog/dating-mindset-positiv-denken.webp"
 imageAlt: "Positives Dating-Mindset: Wie du deine innere Einstellung..."
 tags: ["Ratgeber"]

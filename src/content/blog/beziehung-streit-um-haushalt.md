@@ -6,6 +6,7 @@ tags: ["Konflikte", "Zusammenleben", "Kommunikation"]
 image: "/images/blog/beziehung-streit-um-haushalt.webp"
 imageAlt: "Streit um den Haushalt: Faire Lösungen finden"
 date: 2025-07-17
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Wie löst man Konflikte in der Beziehung?"

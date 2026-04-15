@@ -6,6 +6,7 @@ tags: ["Familie", "Beziehung", "Zusammenleben"]
 image: "/images/blog/beziehung-und-eltern-werden.webp"
 imageAlt: "Eltern werden: So überlebt eure Beziehung"
 date: 2025-08-13
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Wie beeinflusst die Familie unsere Beziehungen?"

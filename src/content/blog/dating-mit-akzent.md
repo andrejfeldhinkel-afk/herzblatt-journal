@@ -2,6 +2,7 @@
 title: "Dating in Deutschland Migrationshintergrund: Authentizität"
 description: "Dating mit Migrationshintergrund: Wie du authentisch datest, wahre Akzeptanz findest und eine erfüllende Beziehung aufbaust."
 date: 2025-06-24
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Selbstliebe"

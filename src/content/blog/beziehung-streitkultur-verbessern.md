@@ -3,6 +3,7 @@ title: "Streitkultur verbessern: Fair kämpfen in Beziehungen"
 description: "Wie du und dein Partner konstruktiv streiten könnt. Techniken für faire Konflikte, die eure Beziehung stärken statt zerstören."
 keywords: ["streitkultur verbessern", "beziehung", "kommunikation", "konflikte", "streitkultur verbessern:", "verbessern: fair"]
 date: 2025-06-24
+updated: 2026-04-15
 image: "/images/blog/beziehung-streitkultur-verbessern.webp"
 imageAlt: "Streitkultur verbessern: Fair kämpfen in Beziehungen"
 tags: ["Beziehung", "Kommunikation", "Konflikte"]

@@ -3,6 +3,7 @@ title: "Slow Dating: Achtsam Liebe finden"
 description: "Slow Dating — Die besten Tipps und Strategien für erfolgreiches Dating. Authentisch, ehrlich und auf Augenhöhe."
 keywords: ["slow dating", "dating", "slow dating:", "dating: achtsam", "achtsam liebe", "liebe finden"]
 date: 2025-04-16
+updated: 2026-04-15
 image: "/images/blog/slow-dating-trend-bewusst-daten.webp"
 imageAlt: "Slow Dating: Achtsam Liebe finden"
 tags: ["Dating"]

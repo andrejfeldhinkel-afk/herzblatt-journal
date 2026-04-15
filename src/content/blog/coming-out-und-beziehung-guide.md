@@ -2,6 +2,7 @@
 title: "Coming-Out in der Beziehung: Wenn du dich selbst findest"
 description: "Coming-Out in der Beziehung: Wie du dich selbst findest und deine Partnerschaft dabei stärkst."
 date: 2025-04-11
+updated: 2026-04-15
 author: "sarah-kellner"
 draft: false
 image: "/images/blog/coming-out-und-beziehung-guide.webp"

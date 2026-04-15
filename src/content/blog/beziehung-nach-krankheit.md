@@ -2,6 +2,7 @@
 title: "Beziehung nach schwerer Krankheit: Wieder zueinander finden"
 description: "Eine schwere Krankheit verändert alles — auch die Beziehung. Erfahre wie Paare nach Krebs, Depression oder chronischer Krankheit wieder zueinander finden."
 date: 2025-02-19
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Gesundheit"

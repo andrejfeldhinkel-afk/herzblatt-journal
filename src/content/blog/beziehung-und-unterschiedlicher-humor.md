@@ -2,6 +2,7 @@
 title: "Humor in der Beziehung: Wenn ihr anders lacht"
 description: "Warum Humor in Beziehungen wichtig ist und wie du damit umgehen kannst, wenn dein Partner anders lacht als du."
 date: 2025-03-14
+updated: 2026-04-15
 image: "/images/photos/beziehung-und-unterschiedlicher-humor.webp"
 tags:
   - "Beziehung"

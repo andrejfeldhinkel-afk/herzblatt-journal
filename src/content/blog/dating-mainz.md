@@ -2,6 +2,7 @@
 title: "Dating in Mainz: Die besten Orte, Tipps & Hotspots"
 description: "Mainz Dating-Guide: Entdecke Weinkultur, Fastnacht und Rheinufer. Die besten Dating-Plätze und praktische Tipps für Singles in Mainz!"
 date: 2025-06-20
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

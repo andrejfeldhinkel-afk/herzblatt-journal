@@ -2,6 +2,7 @@
 title: "Commitment-Angst: Wenn die Liebe da ist, aber die Bindung"
 description: "Commitment-Angst überwinden: Du liebst, aber kannst dich nicht binden? Erfahre die Ursachen und wie du die Angst überwindest."
 date: 2025-04-12
+updated: 2026-04-15
 tags:
   - "Psychologie"
   - "Beziehungen"

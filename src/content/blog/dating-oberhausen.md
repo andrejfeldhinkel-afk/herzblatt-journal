@@ -2,6 +2,7 @@
 title: "Dating in Oberhausen: Die besten Orte, Tipps & Hotspots"
 description: "Oberhausen Dating-Guide: Trendige Bars, gute Restaurants und beste Single-Szene der Ruhrgebiet-Stadt. Deine praktischen Dating-Tipps!"
 date: 2025-07-26
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

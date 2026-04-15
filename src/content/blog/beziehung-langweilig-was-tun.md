@@ -2,6 +2,7 @@
 title: "Beziehung langweilig? 20 Dinge die helfen"
 description: "Deine Beziehung fühlt sich langweilig an? Das ist normal. Hier sind 20 konkrete Maßnahmen."
 date: 2025-02-07
+updated: 2026-04-15
 image: "/images/photos/beziehung-langweilig-was-tun.webp"
 tags:
   - "Beziehung"

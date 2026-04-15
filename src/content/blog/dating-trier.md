@@ -2,6 +2,7 @@
 title: "Dating in Trier: Die besten Orte & Tipps für Singles"
 description: "Dating in Trier: Die besten Orte und Tipps für Singles. Altstadt, Mosel und perfekte Date-Ideen in Deutschlands ältester Stadt."
 date: 2025-08-10
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

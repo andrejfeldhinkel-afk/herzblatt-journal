@@ -3,6 +3,7 @@ title: "Dating und Haustiere: Ein wichtiger Faktor"
 description: "Dating und Haustiere — Erfahre bewährte Strategien und Expertentipps für eine glücklichere, stärkere Partnerschaft im Alltag."
 keywords: ["dating und haustiere", "beziehung", "dating", "dating haustiere:", "haustiere: wichtiger", "wichtiger faktor"]
 date: 2025-08-19
+updated: 2026-04-15
 image: "/images/blog/dating-und-haustiere.webp"
 imageAlt: "Dating und Haustiere: Ein wichtiger Faktor"
 tags: ["Beziehung", "Dating"]

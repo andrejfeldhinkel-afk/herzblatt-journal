@@ -2,6 +2,7 @@
 title: "Dating im Frühling: Die beste Jahreszeit für neue Liebe"
 description: "Dating im Frühling: Warum diese Jahreszeit perfekt für neue Liebe ist und welche Date-Ideen jetzt besonders gut funktionieren."
 date: 2025-06-08
+updated: 2026-04-15
 tags:
   - "Dating"
   - "Lifestyle"

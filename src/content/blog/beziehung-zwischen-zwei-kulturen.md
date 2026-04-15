@@ -2,6 +2,7 @@
 title: "Interkulturelle Beziehung: Chancen und Tipps"
 description: "Interkulturelle Beziehung: Meistere Herausforderungen, verstehe kulturelle Unterschiede und baue eine starke Partnerschaft auf."
 date: 2025-03-27
+updated: 2026-04-15
 image: "/images/photos/beziehung-zwischen-zwei-kulturen.webp"
 tags:
   - "Interkulturelle Beziehung"

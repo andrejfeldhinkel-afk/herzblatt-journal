@@ -2,6 +2,7 @@
 title: "Von Mitbewohnern zu Liebenden: Wenn aus der WG Liebe wird"
 description: "Von Mitbewohnern zu Liebenden: Lerne, wie Beziehungen entstehen, wenn du vorher mit der Person zusammengewohnt hast. Ein praktischer Ratgeber."
 date: 2025-02-15
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Lifestyle"

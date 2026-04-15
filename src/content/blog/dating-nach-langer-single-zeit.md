@@ -2,6 +2,7 @@
 title: "Zurück ins Dating nach langer Single-Phase"
 description: "Nach langer Single-Zeit daten: Lerne, wie du dich wieder fürs Dating bereit machst und neues Vertrauen aufbaust. Ein praktischer Ratgeber!"
 date: 2025-07-17
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Ratgeber"

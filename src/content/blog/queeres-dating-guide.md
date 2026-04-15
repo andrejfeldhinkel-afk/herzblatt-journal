@@ -3,6 +3,7 @@ title: "Queeres Dating: Ein vollständiger Guide"
 description: "Queeres Dating — Erfahre bewährte Strategien und Expertentipps für eine glücklichere, stärkere Partnerschaft im Alltag."
 keywords: ["queeres dating", "beziehung", "dating", "psychologie", "queeres dating:", "dating: vollständiger"]
 date: 2025-04-04
+updated: 2026-04-15
 image: "/images/blog/queeres-dating-guide.webp"
 imageAlt: "Queeres Dating: Ein vollständiger Guide"
 tags: ["Beziehung", "Dating", "Psychologie"]

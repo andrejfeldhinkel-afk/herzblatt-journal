@@ -2,6 +2,7 @@
 title: "Standards vs. Checkliste: Warum Perfektion blockiert"
 description: "Standards vs. Checkliste: Lerne, gesunde Anforderungen von unrealistischen Erwartungen zu unterscheiden und öffne dich echter Liebe."
 date: 2025-07-10
+updated: 2026-04-15
 image: "/images/photos/dating-standards-vs-checkliste.webp"
 tags:
   - "Dating-Standards"

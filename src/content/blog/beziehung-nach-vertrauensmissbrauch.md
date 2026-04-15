@@ -2,6 +2,7 @@
 title: "Vertrauensmissbrauch in der Beziehung – Wie Heilung gelingt"
 description: "Vertrauensmissbrauch heilen: Nach Betrug ist nichts mehr wie vorher. Praktische Wege zurück zu Vertrauen, Nähe und tieferer Beziehung."
 date: 2025-02-21
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Psychologie"

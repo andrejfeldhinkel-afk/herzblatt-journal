@@ -2,6 +2,7 @@
 title: "Dating für Introvertierte – Authentisch daten"
 description: "Dating für Introvertierte: Nutze deine Stärken, finde beste Date-Formate und authentische Verbindungen. Mit praktischen Tipps für dich!"
 date: 2025-05-30
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Introvertiert"

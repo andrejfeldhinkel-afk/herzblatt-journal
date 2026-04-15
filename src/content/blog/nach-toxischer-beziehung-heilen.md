@@ -3,6 +3,7 @@ title: "Heilung nach einer toxischen Beziehung"
 description: "Heilung nach einer toxischen Beziehung: Warum Selbstliebe der Schlüssel zu erfüllten Beziehungen ist. Tipps für mehr Selbstwertgefühl."
 keywords: ["heilung nach einer toxischen beziehung", "heilung", "red flags", "selbstliebe", "heilung nach", "nach einer"]
 date: 2025-08-05
+updated: 2026-04-15
 image: "/images/blog/nach-toxischer-beziehung-heilen.webp"
 imageAlt: "Heilung nach einer toxischen Beziehung"
 tags: ["Heilung", "Red Flags", "Selbstliebe"]

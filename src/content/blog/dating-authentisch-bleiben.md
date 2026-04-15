@@ -3,6 +3,7 @@ title: "Authentisch bleiben beim Dating"
 description: "Wie du authentisch bleibst beim Dating und trotzdem attraktiv wirkst. Echte Tipps für echte Verbindungen."
 keywords: ["authentisch bleiben beim dating", "ratgeber", "authentisch bleiben", "bleiben beim", "beim dating"]
 date: 2025-05-27
+updated: 2026-04-15
 image: "/images/blog/dating-authentisch-bleiben.webp"
 imageAlt: "Authentisch bleiben beim Dating"
 tags: ["Ratgeber"]

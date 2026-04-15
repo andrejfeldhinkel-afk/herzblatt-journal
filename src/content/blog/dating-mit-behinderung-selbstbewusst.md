@@ -3,6 +3,7 @@ title: "Dating mit Behinderung: Selbstvertrauen bewahren"
 description: "Dating mit Behinderung — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
 keywords: ["dating mit behinderung", "beziehung", "dating", "dating behinderung:", "behinderung: selbstvertrauen", "selbstvertrauen bewahren"]
 date: 2025-04-01
+updated: 2026-04-15
 image: "/images/blog/dating-mit-behinderung-selbstbewusst.webp"
 imageAlt: "Dating mit Behinderung: Selbstvertrauen bewahren"
 tags: ["Beziehung", "Dating"]

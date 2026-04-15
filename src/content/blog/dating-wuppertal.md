@@ -2,6 +2,7 @@
 title: "Dating in Wuppertal: Die besten Orte, Tipps & Hotspots"
 description: "Wuppertal Dating-Guide: Stylische Bars, gute Restaurants und beste Single-Szene der Bergischen Stadt. Deine praktischen Dating-Tipps hier!"
 date: 2025-08-22
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

@@ -2,6 +2,7 @@
 title: "Beziehung im Fernstudium: Nähe trotz Distanz"
 description: "Beziehung während Fernstudium: So bringt ihr Liebe und Online-Lernen unter einen Hut. Praktische Strategien für Nähe trotz Distanz und Studienbelastung."
 date: 2025-03-24
+updated: 2026-04-15
 image: "/images/photos/beziehung-waehrend-fernstudium.webp"
 tags:
   - "Fernstudium"

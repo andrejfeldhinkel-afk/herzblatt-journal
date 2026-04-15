@@ -2,6 +2,7 @@
 title: "Dating in Dortmund: Die besten Orte & Tipps für Singles"
 description: "Dortmund Dating-Guide: Trendige Bars, Restaurants und Westfalenpark. Entdecke die beste Single-Szene für dein perfektes Date in Dortmund!"
 date: 2025-05-19
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

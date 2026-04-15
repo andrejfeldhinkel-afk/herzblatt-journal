@@ -2,6 +2,7 @@
 title: "Dating als Ambivert: Dein Vorteil wenn du weder"
 description: "Dating als Ambivert ist dein Geheimvorteil. Lerne wie du beide Seiten für dich nutzt, Energie managst und authentisch datest."
 date: 2025-04-23
+updated: 2026-04-15
 tags:
   - "Dating"
   - "Psychologie"

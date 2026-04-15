@@ -2,6 +2,7 @@
 title: "Nach dem großen Vertrauensbruch: Reden oder gehen?"
 description: "Nach Untreue und Lügen: Wie du entscheidest, ob die Beziehung noch zu retten ist und wie der Weg der Heilung aussieht"
 date: 2025-02-17
+updated: 2026-04-15
 image: "/images/photos/beziehung-nach-grossem-vertrauensbruch.webp"
 imageAlt: "Vertrauen nach einem großen Bruch wieder aufbauen"
 tags:

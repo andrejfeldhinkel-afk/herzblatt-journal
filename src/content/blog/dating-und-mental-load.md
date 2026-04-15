@@ -3,6 +3,7 @@ title: "Dating und Mental Load: Wenn Dating selbst Stress ist"
 description: "Dating und Mental Load — Praktische Dating-Ratschläge, die wirklich funktionieren. Von Experten empfohlen."
 keywords: ["dating und mental load", "dating", "selbstliebe", "psychologie", "kommunikation", "dating mental"]
 date: 2025-05-01
+updated: 2026-04-15
 image: "/images/blog/dating-und-mental-load.webp"
 imageAlt: "Dating und Mental Load: Wenn Dating selbst Stress ist"
 tags: ["Dating", "Selbstliebe", "Psychologie", "Kommunikation"]

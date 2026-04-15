@@ -2,6 +2,7 @@
 title: "Dating nach Therapie: Gesünder lieben lernen"
 description: "Dating nach Therapie: Wie sich dein Liebesleben verändert. Nutze deine therapeutischen Erkenntnisse und entwickle eine gesündere Art zu lieben."
 date: 2025-06-25
+updated: 2026-04-15
 image: "/images/photos/dating-nach-therapie.webp"
 tags:
   - "Therapie"

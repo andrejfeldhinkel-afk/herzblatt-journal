@@ -2,6 +2,7 @@
 title: "Dating in Regensburg: Die besten Orte & Tipps für Singles"
 description: "Dating in Regensburg: Entdecke die besten Orte, Tipps und romantische Spots für Singles an der Donau und in der UNESCO-Altstadt."
 date: 2025-08-02
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

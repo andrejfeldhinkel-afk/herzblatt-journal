@@ -3,6 +3,7 @@ title: "Dating nach 60: Der komplette Guide für Liebe im reifen A..."
 description: "Dating nach 60 ist anders und besser. Vollständiger Guide mit praktischen Tipps, Profil-Strategien und wie du echte Verbindungen findest."
 keywords: ["dating nach 60", "ratgeber", "dating nach", "nach komplette", "komplette guide", "guide liebe"]
 date: 2025-04-23
+updated: 2026-04-15
 image: "/images/blog/dating-nach-60-guide.webp"
 imageAlt: "Dating nach 60: Der komplette Guide für Liebe im reifen A..."
 tags: ["Ratgeber"]

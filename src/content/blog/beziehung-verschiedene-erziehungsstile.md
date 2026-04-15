@@ -3,6 +3,7 @@ title: "Verschiedene Erziehungsstile als Paar"
 description: "Verschiedene Erziehungsstile als Paar — Erfahre bewährte Strategien und Expertentipps für eine glücklichere, stärkere Partnerschaft im Alltag."
 keywords: ["verschiedene erziehungsstile als paar", "beziehung", "familie", "kommunikation", "zusammenleben", "grenzen"]
 date: 2025-04-04
+updated: 2026-04-15
 image: "/images/blog/beziehung-verschiedene-erziehungsstile.webp"
 imageAlt: "Verschiedene Erziehungsstile als Paar"
 tags: ["Beziehung", "Familie", "Kommunikation", "Zusammenleben", "Grenzen"]

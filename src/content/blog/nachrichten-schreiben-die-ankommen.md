@@ -9,6 +9,7 @@ tags:
 image: "/images/blog/nachrichten-schreiben-die-ankommen.webp"
 imageAlt: "Nachrichten schreiben, die wirklich ankommen"
 date: 2025-08-06
+updated: 2026-04-15
 author: "markus-hoffmann"
 faq:
   - question: "Wie flirte ich richtig?"

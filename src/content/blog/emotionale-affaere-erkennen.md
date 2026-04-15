@@ -2,6 +2,7 @@
 title: "Emotionale Affäre: Erkennen und damit umgehen"
 description: "Eine emotionale Affäre ist genauso schädlich wie körperliche Untreue. Lerne, Warnsignale zu erkennen."
 date: 2025-07-21
+updated: 2026-04-15
 image: "/images/photos/emotionale-affaere-erkennen.webp"
 tags:
   - "Beziehung"

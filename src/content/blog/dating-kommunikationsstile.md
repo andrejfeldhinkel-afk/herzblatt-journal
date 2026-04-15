@@ -3,6 +3,7 @@ title: "Kommunikationsstile beim Dating"
 description: "Kommunikationsstile beim Dating — Bessere Kommunikation für stärkere Beziehungen. Lerne die wichtigsten Techniken für echte Verbindung."
 keywords: ["kommunikationsstile beim dating", "kommunikation", "flirten", "kommunikationsstile beim", "beim dating"]
 date: 2025-05-11
+updated: 2026-04-15
 image: "/images/blog/dating-kommunikationsstile.webp"
 imageAlt: "Kommunikationsstile beim Dating"
 tags: ["Kommunikation", "Flirten"]

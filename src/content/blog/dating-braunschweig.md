@@ -2,6 +2,7 @@
 title: "Dating in Braunschweig: Die besten Orte, Tipps & Hotspots"
 description: "Braunschweig Dating-Guide: Entdecke charmante Restaurants, trendige Bars und die beste Single-Szene in der Löwenstadt. Tipps für erfolgreiche Dates!"
 date: 2025-05-14
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

@@ -2,6 +2,7 @@
 title: "Dating ab 40: Neustart in der Liebe"
 description: "Dating ab 40: Warum die beste Zeit erst kommt. Mit Erfahrung, Selbstkenntnis und Sicherheit findest du eine erfüllende Partnerschaft."
 date: 2025-04-17
+updated: 2026-04-15
 image: "/images/photos/dating-ab-40.webp"
 tags:
   - "Dating"

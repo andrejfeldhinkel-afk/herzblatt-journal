@@ -3,6 +3,7 @@ title: "Dating: Ehrlichkeit vs. Taktik — Was funktioniert?"
 description: "Dating: Alles was du wissen musst, um beim Dating selbstbewusst aufzutreten und die richtige Person zu finden."
 keywords: ["dating", "psychologie", "kommunikation", "dating: ehrlichkeit", "ehrlichkeit taktik", "taktik funktioniert?"]
 date: 2025-07-27
+updated: 2026-04-15
 image: "/images/blog/dating-ehrlichkeit-vs-taktik.webp"
 imageAlt: "Dating: Ehrlichkeit vs. Taktik — Was funktioniert?"
 tags: ["Dating", "Psychologie", "Kommunikation"]

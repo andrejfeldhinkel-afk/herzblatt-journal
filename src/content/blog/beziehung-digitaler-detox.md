@@ -3,6 +3,7 @@ title: "Digitaler Detox als Paar: So gelingt es"
 description: "Digitaler Detox als Paar — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
 keywords: ["digitaler detox als paar", "digital detox", "beziehung", "digitaler detox", "detox paar:", "paar: gelingt"]
 date: 2025-07-10
+updated: 2026-04-15
 image: "/images/blog/beziehung-digitaler-detox.webp"
 imageAlt: "Digitaler Detox als Paar: So gelingt es"
 tags: ["Digital Detox", "Beziehung"]

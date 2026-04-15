@@ -2,6 +2,7 @@
 title: "Date Ideen für jede Jahreszeit: 100 kreative Vorschläge"
 description: "100 Date Ideen für alle Jahreszeiten: Kreativ, budget-freundlich und unvergesslich für Paare und Singles beim Dating."
 date: 2025-04-19
+updated: 2026-04-15
 image: "/images/photos/date-ideen-jahreszeiten.webp"
 tags:
   - "Date-Ideen"

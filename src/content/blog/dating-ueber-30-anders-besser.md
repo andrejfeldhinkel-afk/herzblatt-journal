@@ -3,6 +3,7 @@ title: "Dating über 30: Erwachsener und bewusster"
 description: "Dating über 30 — Erfahre bewährte Strategien und Expertentipps für eine glücklichere, stärkere Partnerschaft im Alltag."
 keywords: ["dating über 30", "beziehung", "dating", "dating über", "über erwachsener", "erwachsener bewusster"]
 date: 2025-07-24
+updated: 2026-04-15
 image: "/images/blog/dating-ueber-30-anders-besser.webp"
 imageAlt: "Dating über 30: Erwachsener und bewusster"
 tags: ["Beziehung", "Dating"]

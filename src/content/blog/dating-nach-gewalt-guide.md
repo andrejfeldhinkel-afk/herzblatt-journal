@@ -3,6 +3,7 @@ title: "Dating nach toxischer Erfahrung"
 description: "Dating nach toxischer Erfahrung — Praktische Dating-Ratschläge, die wirklich funktionieren. Von Experten empfohlen."
 keywords: ["dating nach toxischer erfahrung", "heilung", "sicherheit", "dating", "dating nach", "nach toxischer"]
 date: 2025-08-24
+updated: 2026-04-15
 image: "/images/blog/dating-nach-gewalt-guide.webp"
 imageAlt: "Dating nach toxischer Erfahrung"
 tags: ["Heilung", "Sicherheit", "Dating"]

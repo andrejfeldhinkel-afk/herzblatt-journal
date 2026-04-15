@@ -3,6 +3,7 @@ title: "Gemeinsames Haushaltsbuch als Paar"
 description: "Gemeinsames Haushaltsbuch als Paar — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
 keywords: ["gemeinsames haushaltsbuch als paar", "finanzen", "beziehung", "gemeinsames haushaltsbuch", "haushaltsbuch paar"]
 date: 2025-08-09
+updated: 2026-04-15
 image: "/images/blog/beziehung-gemeinsames-haushaltsbuch.webp"
 imageAlt: "Gemeinsames Haushaltsbuch als Paar"
 tags: ["Finanzen", "Beziehung"]

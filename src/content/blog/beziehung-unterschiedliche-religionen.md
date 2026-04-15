@@ -2,6 +2,7 @@
 title: "Beziehung trotz verschiedener Religionen"
 description: "Beziehung verschiedener Religionen: Lerne, wie Paare mit unterschiedlichen Glaubenssystemen eine starke Beziehung aufbauen können!"
 date: 2025-03-18
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Kommunikation"

@@ -2,6 +2,7 @@
 title: "Verschiedene Lebenspläne in der Beziehung: Wenn Liebe allein"
 description: "Verschiedene Lebenspläne in der Beziehung meistern: Kinder ja/nein, Karriere, Wohnort — wie ihr als Paar Kompromisse findet ohne euch selbst zu verlieren."
 date: 2025-03-20
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Ratgeber"

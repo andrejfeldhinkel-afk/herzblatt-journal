@@ -2,6 +2,7 @@
 title: "Die 4 Beziehungstypen – Welcher bist du?"
 description: "Psychologie der Beziehungstypen: Entdecke deinen Bindungsstil und wie deine Bindungstheorie deine Partnerwahl und Beziehungsmuster beeinflusst."
 date: 2025-04-02
+updated: 2026-04-15
 tags:
   - "Psychologie"
   - "Ratgeber"

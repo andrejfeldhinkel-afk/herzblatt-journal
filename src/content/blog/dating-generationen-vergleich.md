@@ -7,6 +7,7 @@ tags:
 image: "/images/blog/dating-generationen-vergleich.webp"
 imageAlt: "Dating über Generationen: Gen Z vs. Millennials vs. Gen X"
 date: 2025-07-02
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

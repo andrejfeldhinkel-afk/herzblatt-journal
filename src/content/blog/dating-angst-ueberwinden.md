@@ -2,6 +2,7 @@
 title: "Dating-Angst überwinden: Mutig in die Liebe"
 description: "Dating-Angst überwinden: Du bist nervös beim Dating? Lerne konkrete, praktische Techniken und Strategien, um mutig und authentisch zu sein."
 date: 2025-04-28
+updated: 2026-04-15
 image: "/images/photos/dating-angst-ueberwinden.webp"
 tags:
   - "Dating"

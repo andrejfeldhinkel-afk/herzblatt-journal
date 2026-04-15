@@ -3,6 +3,7 @@ title: "Roaching: Dating-Trend erkennen"
 description: "Roaching — Die besten Tipps und Strategien für erfolgreiches Dating. Authentisch, ehrlich und auf Augenhöhe."
 keywords: ["roaching", "dating", "red flags", "roaching: dating-trend", "dating-trend erkennen"]
 date: 2025-06-18
+updated: 2026-04-15
 image: "/images/blog/roaching-dating-trend-erkennen.webp"
 imageAlt: "Roaching: Dating-Trend erkennen"
 tags: ["Dating", "Red Flags"]

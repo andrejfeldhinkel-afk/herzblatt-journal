@@ -6,6 +6,7 @@ tags: ["Beziehung", "Intimität", "Ratgeber"]
 image: "/images/blog/leidenschaft-zurueckholen.webp"
 imageAlt: "Leidenschaft zurückholen: Feuer neu entfachen"
 date: 2025-07-07
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

@@ -2,6 +2,7 @@
 title: "Dating in Karlsruhe: Die besten Orte, Tipps & Hotspots"
 description: "Karlsruhe Dating-Guide: Trendige Restaurants, charmante Cafés und beste Single-Szene der Fächerstadt. Deine romantischen Dating-Tipps hier!"
 date: 2025-06-13
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

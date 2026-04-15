@@ -2,6 +2,7 @@
 title: "Dating auf Reisen: Urlaubsflirt oder echte Chance?"
 description: "Dating auf Reisen: Wie du jemanden kennenlernst, flirtest und ob aus einem Urlaubsflirt echte Liebe und Beziehung werden kann."
 date: 2025-05-07
+updated: 2026-04-15
 tags:
   - "Dating"
   - "Lifestyle"

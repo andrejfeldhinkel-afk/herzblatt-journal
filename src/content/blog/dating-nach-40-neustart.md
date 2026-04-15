@@ -2,6 +2,7 @@
 title: "Dating ab 40: Neustart in der Lebensmitte"
 description: "Dating nach 40: Lerne, wie du Selbstvertrauen aufbaust und echte Liebe findest. Ein umfassender Ratgeber für dein Neuanfang!"
 date: 2025-07-07
+updated: 2026-04-15
 tags:
   - "Dating"
   - "Lebensphase"

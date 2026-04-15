@@ -8,6 +8,7 @@ tags:
   - Zusammenleben
   - Kommunikation
 date: 2025-07-10
+updated: 2026-04-15
 image: "/images/blog/beziehung-und-schlaf.webp"
 imageAlt: "Schlafgewohnheiten als Paar"
 author: "sarah-kellner"

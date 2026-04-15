@@ -6,6 +6,7 @@ tags: ["Beziehung", "Kommunikation", "Grenzen"]
 image: "/images/blog/gleichberechtigung-moderne-beziehung.webp"
 imageAlt: "Gleichberechtigung in modernen Beziehungen"
 date: 2025-07-30
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

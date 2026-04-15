@@ -3,6 +3,7 @@ title: "Beziehungssucht erkennen: Wenn du ohne Partner nicht leben"
 slug: "beziehungssucht-erkennen"
 description: "Beziehungssucht ist ein verstecktes Trauma. Lerne, die Zeichen zu erkennen und dich selbst wieder zu finden — bevor es zu spät ist."
 date: 2025-04-01
+updated: 2026-04-15
 author: "thomas-peters"
 image: "/images/photos/beziehungssucht-erkennen.webp"
 imageAlt: "Symbolbild für Beziehungsabhängigkeit"

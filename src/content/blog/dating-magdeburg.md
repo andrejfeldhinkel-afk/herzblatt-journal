@@ -2,6 +2,7 @@
 title: "Dating in Magdeburg: Die besten Orte, Tipps & Hotspots"
 description: "Magdeburg Dating-Guide: Hasselbachplatz, Elbauenpark, Dom & mehr. Entdecke beste Dating-Spots und Insider-Tipps für deine Partnersuche!"
 date: 2025-06-19
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

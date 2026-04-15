@@ -2,6 +2,7 @@
 title: "47 kreative Date-Ideen für jede Jahreszeit jeden Geldbeutel"
 description: "Schluss mit langweiligem Kaffee trinken — entdecke 47 kreative Date-Ideen für jede Jahreszeit und jedes Budget, die wirklich in Erinnerung bleiben."
 date: 2025-04-20
+updated: 2026-04-15
 tags:
   - "Date-Ideen"
   - "Dating-Tipps"

@@ -2,6 +2,7 @@
 title: "Dating nach großer Körperveränderung"
 description: "Dating nach Gewichtsverlust: Wie du wieder mit echtem Selbstvertrauen datierst, wenn sich dein Körper drastisch verändert hat."
 date: 2025-07-13
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Selbstliebe"

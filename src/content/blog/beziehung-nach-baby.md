@@ -2,6 +2,7 @@
 title: "Beziehung nach dem ersten Baby – So bleibt die Liebe stark"
 description: "Beziehung nach dem Baby: Ein Baby verändert alles. So schützt ihr eure Liebe in der aufregenden und herausfordernden Zeit als junge Eltern."
 date: 2025-02-08
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Familie"

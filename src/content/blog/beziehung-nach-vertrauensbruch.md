@@ -2,6 +2,7 @@
 title: "Nach Vertrauensbruch: Heilung finden"
 description: "Beziehung nach Vertrauensbruch: Wie du wieder zueinander findest und ob echte Heilung und Vertrauenswiederaufbau möglich ist."
 date: 2025-02-20
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Kommunikation"

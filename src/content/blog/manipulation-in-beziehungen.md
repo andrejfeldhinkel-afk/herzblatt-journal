@@ -3,6 +3,7 @@ title: "Manipulation in Beziehungen durchschauen"
 description: "Manipulation in Beziehungen durchschauen — Dein umfassender Ratgeber auf Herzblatt Journal. Praktische Tipps und Expertenwissen für die Liebe."
 keywords: ["manipulation in beziehungen durchschauen", "grenzen", "red flags", "manipulation beziehungen", "beziehungen durchschauen"]
 date: 2025-06-15
+updated: 2026-04-15
 image: "/images/blog/manipulation-in-beziehungen.webp"
 imageAlt: "Manipulation in Beziehungen durchschauen"
 tags: ["Grenzen", "Red Flags"]

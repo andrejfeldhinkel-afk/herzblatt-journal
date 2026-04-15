@@ -6,6 +6,7 @@ tags: ["Flirten", "Psychologie", "Kennenlernen"]
 image: "/images/blog/koerpersprache-anziehung-signale.webp"
 imageAlt: "Körpersprache der Anziehung: Signale lesen"
 date: 2025-06-10
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Wie flirte ich richtig?"

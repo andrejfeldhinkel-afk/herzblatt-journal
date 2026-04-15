@@ -3,6 +3,7 @@ title: "Zukunft als Paar planen: Gemeinsam Träume gestalten"
 description: "Zukunft als Paar planen: Praktische Tipps und psychologische Einblicke für eine erfüllte Beziehung. Jetzt lesen auf Herzblatt Journal."
 keywords: ["zukunft als paar planen", "beziehung", "dating", "psychologie", "zukunft paar", "paar planen:"]
 date: 2025-05-28
+updated: 2026-04-15
 image: "/images/blog/paar-planung-zukunft-gestalten.webp"
 imageAlt: "Zukunft als Paar planen: Gemeinsam Träume gestalten"
 tags: ["Beziehung", "Dating", "Psychologie"]

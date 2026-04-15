@@ -2,6 +2,7 @@
 title: "Dating mit unterschiedlichem Bildungsniveau: Funktioniert"
 description: "Kann eine Beziehung funktionieren wenn einer studiert hat und der andere nicht? Erfahre was die Forschung sagt und worauf es wirklich ankommt."
 date: 2025-08-13
+updated: 2026-04-15
 image: "/images/photos/dating-unterschiedliche-bildung.webp"
 imageAlt: "Paar beim Lesen und Austausch"
 tags:

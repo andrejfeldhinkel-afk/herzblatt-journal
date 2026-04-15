@@ -3,6 +3,7 @@ title: "Die 5 Phasen einer neuen Beziehung"
 description: "Die 5 Phasen einer neuen Beziehung: Praktische Tipps und psychologische Einblicke für eine erfüllte Beziehung. Jetzt lesen auf Herzblatt Journal."
 keywords: ["die 5 phasen einer neuen beziehung", "beziehung", "dating", "psychologie", "phasen einer", "einer neuen"]
 date: 2025-04-11
+updated: 2026-04-15
 image: "/images/blog/phasen-einer-neuen-beziehung.webp"
 imageAlt: "Die 5 Phasen einer neuen Beziehung"
 tags: ["Beziehung", "Dating", "Psychologie"]

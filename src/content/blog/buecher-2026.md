@@ -3,6 +3,7 @@ title: "Die besten Dating und Beziehungsbücher 2026"
 description: "Die besten Dating und Beziehungsbücher 2026: Praktische Tipps und psychologische Einblicke für eine erfüllte Beziehung. Jetzt lesen auf Herzblatt Journal."
 keywords: ["die besten dating und beziehungsbücher 2026", "beziehung", "dating", "besten dating", "dating beziehungsbücher", "beziehungsbücher 2026"]
 date: 2025-05-11
+updated: 2026-04-15
 image: "/images/blog/buecher-2026.webp"
 imageAlt: "Die besten Dating und Beziehungsbücher 2026"
 tags: ["Beziehung", "Dating"]

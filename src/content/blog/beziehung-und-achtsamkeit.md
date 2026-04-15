@@ -2,6 +2,7 @@
 title: "Beziehung und Achtsamkeit: Bewusster lieben"
 description: "Achtsamkeit in Beziehungen: Lerne, wie du deine Beziehung vertiefst und Konflikte entschärfst. Mit praktischen Meditation und Tipps!"
 date: 2025-03-02
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Psychologie"

@@ -4,6 +4,7 @@ description: "Dating ab 40 — Dein umfassender Ratgeber auf Herzblatt Journal. 
 keywords: ["dating ab 40", "lebensphasen", "neuanfang", "dating neustart"]
 tags: ["Lebensphasen", "Neuanfang"]
 date: 2025-08-20
+updated: 2026-04-15
 image: "/images/blog/dating-ab-40-neu-starten.webp"
 imageAlt: "Dating ab 40: Neustart"
 author: markus-hoffmann

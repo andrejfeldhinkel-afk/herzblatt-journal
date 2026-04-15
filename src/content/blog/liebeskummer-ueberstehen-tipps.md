@@ -3,6 +3,7 @@ title: "Liebeskummer überstehen: Was wirklich hilft"
 description: "Liebeskummer überstehen — Psychologische Hintergründe verstehen und für bessere Beziehungen nutzen. Fundiert und praxisnah erklärt."
 keywords: ["liebeskummer überstehen", "liebeskummer", "heilung", "psychologie", "liebeskummer überstehen:", "überstehen: wirklich"]
 date: 2025-05-22
+updated: 2026-04-15
 image: "/images/blog/liebeskummer-ueberstehen-tipps.webp"
 imageAlt: "Liebeskummer überstehen: Was wirklich hilft"
 tags: ["Liebeskummer", "Heilung", "Psychologie"]

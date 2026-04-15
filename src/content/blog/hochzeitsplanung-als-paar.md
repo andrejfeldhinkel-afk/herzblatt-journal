@@ -3,6 +3,7 @@ title: "Hochzeitsplanung als Paar: Das Abenteuer beginnt"
 description: "Hochzeitsplanung als Paar — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
 keywords: ["hochzeitsplanung als paar", "beziehung", "dating", "hochzeitsplanung paar:", "paar: abenteuer", "abenteuer beginnt"]
 date: 2025-06-07
+updated: 2026-04-15
 image: "/images/blog/hochzeitsplanung-als-paar.webp"
 imageAlt: "Hochzeitsplanung als Paar: Das Abenteuer beginnt"
 tags: ["Beziehung", "Dating"]

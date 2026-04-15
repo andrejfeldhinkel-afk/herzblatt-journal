@@ -3,6 +3,7 @@ title: "Zweite Chance beim Dating: Wann lohnt es sich?"
 description: "Zweite Chance beim Dating: Praktische Tipps und psychologische Einblicke für eine erfüllte Beziehung. Jetzt lesen auf Herzblatt Journal."
 keywords: ["zweite chance beim dating", "beziehung", "dating", "zweite chance", "chance beim", "beim dating:"]
 date: 2025-08-02
+updated: 2026-04-15
 image: "/images/blog/dating-zweite-chance-geben.webp"
 imageAlt: "Zweite Chance beim Dating: Wann lohnt es sich?"
 tags: ["Beziehung", "Dating"]

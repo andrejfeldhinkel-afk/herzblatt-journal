@@ -2,6 +2,7 @@
 title: "Dating in Berlin: Die besten Orte, Tipps & Hotspots"
 description: "Berlin Dating-Guide: Kreuzberg bis Prenzlauer Berg. Entdecke die trendigsten Dating-Spots und Insider-Tipps für dein perfektes Date!"
 date: 2025-05-11
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

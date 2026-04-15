@@ -2,6 +2,7 @@
 title: "Dating in Bamberg: Die besten Orte & Tipps für Singles"
 description: "Dating in Bamberg: UNESCO-Altstadt, Rauchbier-Kneipen und romantische Kanäle. Alle besten Orte und Tipps für Singles in Bamberg."
 date: 2025-05-09
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

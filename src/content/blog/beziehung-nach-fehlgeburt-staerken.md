@@ -3,6 +3,7 @@ title: "Beziehung nach Fehlgeburt stärken"
 description: "Wie du und dein Partner nach einer Fehlgeburt wieder zusammenfinden. Unterstützung, Verständnis und wertvolle Tipps für diese schwierige Zeit."
 keywords: ["beziehung nach fehlgeburt stärken", "beziehung", "beziehung nach", "nach fehlgeburt", "fehlgeburt stärken"]
 date: 2025-05-02
+updated: 2026-04-15
 image: "/images/blog/beziehung-nach-fehlgeburt-staerken.webp"
 imageAlt: "Beziehung nach Fehlgeburt stärken"
 tags: ["Beziehung"]

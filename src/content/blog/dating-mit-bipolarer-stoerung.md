@@ -3,6 +3,7 @@ title: "Dating mit bipolarer Störung"
 description: "Wie du beim Dating mit bipolarer Störung umgehen kannst. Tipps für Kommunikation und Selbstfürsorge."
 keywords: ["dating mit bipolarer störung", "beziehung", "dating", "dating bipolarer", "bipolarer störung:", "störung: liebe"]
 date: 2025-08-11
+updated: 2026-04-15
 image: "/images/blog/dating-mit-bipolarer-stoerung.webp"
 imageAlt: "Dating mit bipolarer Störung"
 tags: ["Beziehung", "Dating"]

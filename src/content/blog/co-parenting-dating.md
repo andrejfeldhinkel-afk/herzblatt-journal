@@ -3,6 +3,7 @@ title: "Co-Parenting und Dating: Mit Kindern neu anfangen"
 description: "Wie du dich selbst wieder datierst, während du mit deinen Kindern co-parenting machst. Balance zwischen Elternschaft und Liebe."
 keywords: ["co-parenting und dating", "beziehung", "dating", "co-parenting dating:", "dating: kindern", "kindern anfangen"]
 date: 2025-06-09
+updated: 2026-04-15
 image: "/images/blog/co-parenting-dating.webp"
 imageAlt: "Co-Parenting und Dating: Mit Kindern neu anfangen"
 tags: ["Beziehung", "Dating"]

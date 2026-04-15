@@ -3,6 +3,7 @@ title: "Paar-Bucket-List: Gemeinsame Abenteuer planen"
 description: "Schaffe eine Bucket-List mit deinem Partner. Ideen für gemeinsame Abenteuer, die eure Beziehung stärken."
 keywords: ["paar-bucket-list", "beziehung", "dating", "paar-bucket-list: gemeinsame", "gemeinsame abenteuer", "abenteuer planen"]
 date: 2025-04-06
+updated: 2026-04-15
 image: "/images/blog/bucket-list-paare-erlebnisse.webp"
 imageAlt: "Paar-Bucket-List: Gemeinsame Abenteuer planen"
 tags: ["Beziehung", "Dating"]

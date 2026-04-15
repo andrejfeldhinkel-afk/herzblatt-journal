@@ -2,6 +2,7 @@
 title: "Dating nach langer Beziehung – Der Neustart-Guide"
 description: "Dating nach langer Beziehung: Der komplette Neustart-Guide für deinen erfolgreichen Wiedereinstieg in die moderne Dating-Welt."
 date: 2025-07-16
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Neuanfang"

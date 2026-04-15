@@ -8,6 +8,7 @@ tags:
 image: "/images/blog/online-dating-nachricht-vorlagen.webp"
 imageAlt: "20 perfekte erste Nachrichten für Dating-Apps"
 date: 2025-07-05
+updated: 2026-04-15
 author: "markus-hoffmann"
 faq:
   - question: "Wie flirte ich richtig?"

@@ -2,6 +2,7 @@
 title: "Commitment Issues: Wenn die Angst vor Bindung alles"
 description: "Commitment Issues und Bindungsangst erkennen: Ursachen, Warnsignale und wie du diese Blockade bei dir oder deinem Partner erkennst und überwindest."
 date: 2025-04-13
+updated: 2026-04-15
 tags:
   - "Psychologie"
   - "Dating-Tipps"

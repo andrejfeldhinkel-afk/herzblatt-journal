@@ -3,6 +3,7 @@ title: "Erkenne wirkliche Absichten"
 description: "Erkenne wirkliche Absichten — Erfahre bewährte Strategien und Expertentipps für eine glücklichere, stärkere Partnerschaft im Alltag."
 keywords: ["erkenne wirkliche absichten", "beziehung", "dating", "erkenne wirkliche", "wirkliche absichten"]
 date: 2025-07-15
+updated: 2026-04-15
 image: "/images/blog/dating-wirkliche-absicht.webp"
 imageAlt: "Erkenne wirkliche Absichten"
 tags: ["Beziehung", "Dating"]

@@ -3,6 +3,7 @@ title: "Beziehung nach Auswanderung stärken"
 description: "Beziehung nach Auswanderung stärken — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
 keywords: ["beziehung nach auswanderung stärken", "fernbeziehung", "beziehung", "neuanfang", "beziehung nach", "nach auswanderung"]
 date: 2025-06-30
+updated: 2026-04-15
 image: "/images/blog/beziehung-nach-auswanderung.webp"
 imageAlt: "Beziehung nach Auswanderung stärken"
 tags: ["Fernbeziehung", "Beziehung", "Neuanfang"]

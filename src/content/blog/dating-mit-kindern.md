@@ -2,6 +2,7 @@
 title: "Dating mit Kindern: So findest du als alleinerziehend"
 description: "Dating mit Kindern: Tipps für alleinerziehende Eltern. Wann es richtig ist, worauf du achten solltest und wie du alles richtig machst."
 date: 2025-06-28
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Beziehungen"

@@ -3,6 +3,7 @@ title: "Dating und Körperbild"
 description: "Dating und Körperbild — Lerne, dich selbst wertzuschätzen und eine gesunde Beziehung zu dir aufzubauen. Praktische Impulse."
 keywords: ["dating und körperbild", "selbstliebe", "dating körperbild"]
 date: 2025-05-17
+updated: 2026-04-15
 image: "/images/blog/dating-und-koerperimage.webp"
 imageAlt: "Dating und Körperbild"
 tags: ["Selbstliebe"]

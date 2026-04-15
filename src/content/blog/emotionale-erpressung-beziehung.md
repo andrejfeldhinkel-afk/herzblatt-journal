@@ -2,6 +2,7 @@
 title: "Emotionale Erpressung erkennen und stoppen"
 description: "Lerne, emotionale Erpressung in Beziehungen zu erkennen und gesunde Grenzen zu setzen. Strategien gegen Manipulation."
 date: 2025-07-23
+updated: 2026-04-15
 image: "/images/photos/emotionale-erpressung-beziehung.webp"
 tags:
   - "Beziehung"

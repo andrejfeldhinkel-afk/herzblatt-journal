@@ -2,6 +2,7 @@
 title: "Phubbing: Wenn das Smartphone die Beziehung stört"
 description: "Beziehung und Smartphone: Wie Handys und Phubbing deine Partnerschaft beeinflussen und was du konkret dagegen tun kannst."
 date: 2025-03-12
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Kommunikation"

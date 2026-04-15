@@ -2,6 +2,7 @@
 title: "Geldstreit vermeiden: Finanzen ohne Konflikt"
 description: "Beziehung Streit über Geld: Wie Paare konstruktiv Finanz-Gespräche führen, ohne in Konflikte zu verfallen oder Groll aufzubauen."
 date: 2025-03-01
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Kommunikation"

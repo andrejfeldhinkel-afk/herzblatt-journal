@@ -8,6 +8,7 @@ tags:
 image: "/images/blog/dating-nach-missbrauch-sicher.webp"
 imageAlt: "Sicher daten nach Missbrauch: Dein Tempo, deine Regeln"
 date: 2025-05-28
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Wie lange dauert es, über jemanden hinwegzukommen?"

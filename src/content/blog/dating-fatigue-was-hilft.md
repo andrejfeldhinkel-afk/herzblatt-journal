@@ -2,6 +2,7 @@
 title: "Dating Fatigue: Wenn die Partnersuche nur noch erschöpft"
 description: "Dating Fatigue: Burnout in der Partnersuche, Anzeichen erkennen und wieder Freude am Daten finden – praktische Tipps"
 date: 2025-05-24
+updated: 2026-04-15
 image: "/images/photos/dating-fatigue-was-hilft.webp"
 imageAlt: "Erschöpfte Person leidet unter Dating-Müdigkeit"
 tags:

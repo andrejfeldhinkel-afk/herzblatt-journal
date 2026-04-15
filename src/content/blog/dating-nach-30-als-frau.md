@@ -2,6 +2,7 @@
 title: "Dating nach 30 als Frau: Warum es besser wird als du denkst"
 description: "Dating nach 30 als Frau ist schwer, aber es hat Vorteile. Selbstbewusstsein, weniger Spielchen, echte Verbindung – hier erfährst du, wie"
 date: 2025-07-04
+updated: 2026-04-15
 image: "/images/photos/dating-nach-30-als-frau.webp"
 imageAlt: "Selbstbewusste Frau ab 30 beim Dating"
 tags:

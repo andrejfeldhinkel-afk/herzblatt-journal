@@ -2,6 +2,7 @@
 title: "Red Flags bei Frauen: Warnsignale erkennen"
 description: "15 echte Red Flags bei Frauen erkennen. Liebe Bombing, Kontrolle, Eifersucht - lerne, giftige Muster früh zu erkennen."
 date: 2025-07-06
+updated: 2026-04-15
 image: "/images/photos/dating-red-flags-frauen.webp"
 tags:
   - "Dating"

@@ -2,6 +2,7 @@
 title: "Dating in Graz: Die besten Orte & Tipps für Singles"
 description: "Dating in Graz: Entdecke die besten Orte, Cafés und Dating-Tipps für Singles in Österreichs charmanter Genusshauptstadt an der Mur."
 date: 2025-06-03
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

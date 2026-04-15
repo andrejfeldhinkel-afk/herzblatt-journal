@@ -2,6 +2,7 @@
 title: "Dating in Innsbruck: Alpen-Romantik"
 description: "Dating in Innsbruck: Alpen-Romantik und Abenteuer. Entdecke die besten Orte und Tipps zum Verlieben in Österreichs Berghauptstadt."
 date: 2025-05-19
+updated: 2026-04-15
 image: "/images/photos/dating-innsbruck.webp"
 tags:
   - "Dating"

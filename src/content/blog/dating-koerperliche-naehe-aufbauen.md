@@ -8,6 +8,7 @@ tags:
 image: "/images/blog/dating-koerperliche-naehe-aufbauen.webp"
 imageAlt: "Körperliche Nähe aufbauen: Von der Hand zum Kuss"
 date: 2025-06-08
+updated: 2026-04-15
 author: "markus-hoffmann"
 faq:
   - question: "Wie flirte ich richtig?"

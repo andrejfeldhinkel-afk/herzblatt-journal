@@ -11,6 +11,7 @@ tags:
 keywords: ["autismus dating", "asperger beziehung", "autismus partnersuche", "neurodivergent dating"]
 description: "Ein umfassender Leitfaden für autistische Menschen, die Liebe finden möchten. Konkrete Tipps zu Kommunikation, Sensitivitäten."
 date: 2025-01-23
+updated: 2026-04-15
 faq:
   - question: "Sollte ich meinem Partner früh sagen, dass ich autistisch bin?"
     answer: "Ja, es ist wichtig, dies relativ früh zu teilen, aber nicht unbedingt beim ersten Treffen. Ein Partner, der dein Autismus akzeptiert, ist grundlegend für eine funktionierende Beziehung."

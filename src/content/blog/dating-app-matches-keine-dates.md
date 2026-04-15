@@ -2,6 +2,7 @@
 title: "Viele Matches, keine Dates: Was du falsch machst und wie du"
 description: "Viele Matches aber keine Dates? Erfahre die 10 häufigsten Gründe warum Matches nicht zu Treffen führen und wie du das ab sofort änderst."
 date: 2025-04-29
+updated: 2026-04-15
 tags:
   - "Online-Dating"
   - "Dating"

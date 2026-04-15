@@ -6,6 +6,7 @@ tags: ["Beziehung", "Lifestyle", "Date-Ideen"]
 image: "/images/blog/romantik-im-alltag-bewahren.webp"
 imageAlt: "Romantik im Alltag: 30 kleine Gesten"
 date: 2025-05-10
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

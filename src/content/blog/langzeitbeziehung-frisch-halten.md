@@ -3,6 +3,7 @@ title: "Langzeitbeziehung frisch halten"
 description: "Langzeitbeziehung frisch halten — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
 keywords: ["langzeitbeziehung frisch halten", "beziehung", "date ideen", "intimität", "langzeitbeziehung frisch", "frisch halten"]
 date: 2025-06-15
+updated: 2026-04-15
 image: "/images/blog/langzeitbeziehung-frisch-halten.webp"
 imageAlt: "Langzeitbeziehung frisch halten"
 tags: ["Beziehung", "Date-Ideen", "Intimität"]

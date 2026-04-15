@@ -9,6 +9,7 @@ tags:
 image: "/images/blog/vergebung-nach-betrug.webp"
 imageAlt: "Kann man nach einem Betrug vergeben?"
 date: 2025-08-17
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

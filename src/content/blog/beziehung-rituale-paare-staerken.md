@@ -7,6 +7,7 @@ tags:
 image: "/images/blog/beziehung-rituale-paare-staerken.webp"
 imageAlt: "Beziehungsrituale: Kleine Gewohnheiten die eure Liebe stärken"
 date: 2025-06-23
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

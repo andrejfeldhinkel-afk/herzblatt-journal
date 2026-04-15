@@ -7,6 +7,7 @@ tags:
 image: "/images/blog/beziehung-nach-naturkatastrophe.webp"
 imageAlt: "Beziehung nach Naturkatastrophe: Zusammenhalt in der Krise"
 date: 2025-05-11
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Wie lange dauert es, über jemanden hinwegzukommen?"

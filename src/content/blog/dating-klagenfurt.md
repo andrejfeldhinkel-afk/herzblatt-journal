@@ -2,6 +2,7 @@
 title: "Dating in Klagenfurt: Die besten Orte & Tipps für Singles"
 description: "Klagenfurt Dating-Guide: Romantische Spots am Wörthersee, beste Cafés und praktische Dating-Tipps. Dein Ratgeber für Singles in Klagenfurt!"
 date: 2025-06-14
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

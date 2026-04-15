@@ -2,6 +2,7 @@
 title: "Ehrlichkeit beim Dating – Wie viel Wahrheit verträgt?"
 description: "Ehrlichkeit beim Dating: Die Balance zwischen Offenheit und Selbstschutz. Wie viel Wahrheit verträgt eine neue Beziehung?"
 date: 2025-08-30
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Kommunikation"

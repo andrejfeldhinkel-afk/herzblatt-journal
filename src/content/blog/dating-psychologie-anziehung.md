@@ -2,6 +2,7 @@
 title: "Die Psychologie der Anziehung: Was uns wirklich anzieht"
 description: "Warum finden wir bestimmte Menschen attraktiv? Die Wissenschaft hinter Anziehung, Partnerwahl und was Männer und Frauen wirklich wollen."
 date: 2025-07-31
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Ratgeber"

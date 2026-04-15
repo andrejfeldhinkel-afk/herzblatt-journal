@@ -2,6 +2,7 @@
 title: "Er Nachteule, sie Frühaufsteherin: Verschiedene Schlafzeiten"
 description: "Verschiedene Schlafrhythmen in der Beziehung? So meistert ihr den Alltag wenn einer Nachteule und der andere Frühaufsteher ist."
 date: 2025-03-22
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Lifestyle"

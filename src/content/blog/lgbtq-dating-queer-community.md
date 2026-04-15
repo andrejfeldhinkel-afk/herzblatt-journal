@@ -3,6 +3,7 @@ title: "LGBTQ+ Dating in Deutschland"
 description: "LGBTQ+ Dating in Deutschland — Dein umfassender Ratgeber auf Herzblatt Journal. Praktische Tipps und Expertenwissen für die Liebe."
 keywords: ["lgbtq+ dating in deutschland", "lgbtq+", "lgbtq+ dating", "dating deutschland"]
 date: 2025-07-24
+updated: 2026-04-15
 image: "/images/blog/lgbtq-dating-queer-community.webp"
 imageAlt: "LGBTQ+ Dating in Deutschland"
 tags: ["LGBTQ+"]

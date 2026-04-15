@@ -2,6 +2,7 @@
 title: "Negative Glaubenssätze über Liebe auflösen"
 description: "Glaubenssätze über Liebe auflösen: Erkenne unbewusste Überzeugungen und transformiere sie zu echter Selbstliebe."
 date: 2025-08-24
+updated: 2026-04-15
 image: "/images/photos/glaubenssaetze-liebe-aufloesen.webp"
 tags:
   - "Glaubenssätze"

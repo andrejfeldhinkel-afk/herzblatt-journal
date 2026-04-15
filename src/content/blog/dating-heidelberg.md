@@ -2,6 +2,7 @@
 title: "Dating in Heidelberg: Die besten Orte & Tipps für Singles"
 description: "Dating in Heidelberg: Entdecke die romantischsten Orte und beste Tipps für Singles. Von Altstadt über Schloss bis Philosophenweg."
 date: 2025-06-05
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

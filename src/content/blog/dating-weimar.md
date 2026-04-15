@@ -2,6 +2,7 @@
 title: "Dating in Weimar: Die besten Orte & Tipps für Singles"
 description: "Weimar Dating-Guide: Goethe, Bauhaus und romantische Parks. Entdecke Weimars Kultur-Dating-Szene für tiefe und nachdenkliche Dates!"
 date: 2025-08-25
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

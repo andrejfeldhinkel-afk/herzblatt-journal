@@ -2,6 +2,7 @@
 title: "Beziehung führen trotz Burnout und Stress"
 description: "Beziehung trotz Burnout: Wie Burnout deine Partnerschaft zerstört und wie du eure Liebe in Krisenzeiten systematisch schützt."
 date: 2025-02-05
+updated: 2026-04-15
 image: "/images/photos/beziehung-in-zeiten-von-burnout.webp"
 tags:
   - "Burnout"

@@ -2,6 +2,7 @@
 title: "Dating in Augsburg: Die besten Orte & Tipps für Singles"
 description: "Augsburg Dating-Guide: Altstadt, Maximilianstraße, Lechufer & mehr. Entdecke wo Romantik auf Geschichte trifft in Augsburg!"
 date: 2025-05-08
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

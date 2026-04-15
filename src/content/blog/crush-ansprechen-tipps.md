@@ -2,6 +2,7 @@
 title: "Schwarm ansprechen: So machst du den ersten Schritt"
 description: "Du willst deinen Schwarm ansprechen? Lerne wie du den Mut findest, was du sagst und wie du mit Nervosität und Ablehnung umgehst."
 date: 2025-04-16
+updated: 2026-04-15
 image: "/images/photos/crush-ansprechen-tipps.webp"
 imageAlt: "Jemanden im Café ansprechen"
 tags:

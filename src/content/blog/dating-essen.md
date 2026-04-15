@@ -2,6 +2,7 @@
 title: "Dating in Essen: Die besten Orte & Tipps für Singles"
 description: "Essen Dating-Guide: Rüttenscheid, Werden, Kettwig und Baldeneysee. Entdecke die schönsten Orte für dein perfektes Date in Essen!"
 date: 2025-05-21
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

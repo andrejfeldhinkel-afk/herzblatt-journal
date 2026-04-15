@@ -2,6 +2,7 @@
 title: "Dating in einer neuen Stadt – So findest du Anschluss"
 description: "Dating nach Umzug: So findest du Anschluss und Liebe in einer neuen Stadt. Soziales Netzwerk aufbauen und authentisch neue Menschen kennenlernen."
 date: 2025-07-25
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Neuanfang"

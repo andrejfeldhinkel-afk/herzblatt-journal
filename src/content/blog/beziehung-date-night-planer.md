@@ -6,6 +6,7 @@ tags: ["Beziehung", "Date-Ideen", "Lifestyle"]
 image: "/images/blog/beziehung-date-night-planer.webp"
 imageAlt: "Date Night Planer: Regelmäßig Quality Time"
 date: 2025-06-23
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Wann sollte man um eine Beziehung kämpfen?"

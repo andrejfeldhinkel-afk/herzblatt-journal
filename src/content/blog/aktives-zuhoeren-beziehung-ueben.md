@@ -2,6 +2,7 @@
 title: "Aktives Zuhören üben: Besser verstehen in 7 Schritten"
 description: "Aktives Zuhören Technik: Wie du deinem Partner wirklich zuhörst und eure Beziehung vertiefst"
 date: 2025-01-17
+updated: 2026-04-15
 image: "/images/photos/aktives-zuhoeren-beziehung-ueben.webp"
 imageAlt: "Empathisches Zuhören in der Partnerschaft"
 tags:

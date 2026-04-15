@@ -3,6 +3,7 @@ title: "Unterschiedliche Weltanschauungen: Wenn Dating komplex wird"
 description: "Unterschiedliche Weltanschauungen — Konflikte konstruktiv lösen und die Beziehung stärken. Bewährte Methoden und praktische Tipps."
 keywords: ["unterschiedliche weltanschauungen", "konflikte", "unterschiedliche weltanschauungen:", "weltanschauungen: wenn", "wenn dating", "dating komplex"]
 date: 2025-05-09
+updated: 2026-04-15
 image: "/images/blog/dating-nach-corona-impfstreit.webp"
 imageAlt: "Unterschiedliche Weltanschauungen: Wenn Dating komplex wird"
 tags: ["Konflikte"]

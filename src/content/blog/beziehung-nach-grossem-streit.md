@@ -2,6 +2,7 @@
 title: "Nach dem großen Streit: So repariert ihr alles"
 description: "Nach dem großen Streit: Wie ihr eure Beziehung Schritt für Schritt repariert. Neurobiologie, Versöhnung und tiefe Heilung von Konflikten."
 date: 2025-02-14
+updated: 2026-04-15
 image: "/images/photos/beziehung-nach-grossem-streit.webp"
 tags:
   - "Streit"

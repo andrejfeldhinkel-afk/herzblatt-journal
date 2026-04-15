@@ -2,6 +2,7 @@
 title: "Dating in Erfurt: Die besten Orte, Tipps & Hotspots"
 description: "Erfurt Dating-Guide: Krämerbrücke, Domplatz, Fischmarkt & mehr. Entdecke die schönsten Dating-Spots für Singles in der malerischen Altstadt."
 date: 2025-05-20
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

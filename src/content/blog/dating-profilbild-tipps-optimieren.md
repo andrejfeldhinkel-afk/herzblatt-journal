@@ -3,6 +3,7 @@ title: "Profilbild-Tipps: Das perfekte Foto für dein Dating-Profil"
 description: "Profilbild-Tipps — Praktische Dating-Ratschläge, die wirklich funktionieren. Von Experten empfohlen."
 keywords: ["profilbild-tipps", "dating", "online dating", "profilbild-tipps: perfekte", "perfekte foto", "foto dein"]
 date: 2025-07-29
+updated: 2026-04-15
 image: "/images/blog/dating-profilbild-tipps-optimieren.webp"
 imageAlt: "Profilbild-Tipps: Das perfekte Foto für dein Dating-Profil"
 tags: ["Dating", "Online-Dating"]

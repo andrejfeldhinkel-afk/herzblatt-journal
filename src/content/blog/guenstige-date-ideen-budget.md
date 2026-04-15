@@ -6,6 +6,7 @@ tags: ["Date-Ideen", "Finanzen", "Lifestyle"]
 image: "/images/blog/guenstige-date-ideen-budget.webp"
 imageAlt: "Günstige Date-Ideen: Liebe braucht kein Geld"
 date: 2025-08-29
+updated: 2026-04-15
 author: "markus-hoffmann"
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

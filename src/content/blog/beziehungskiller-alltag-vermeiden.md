@@ -2,6 +2,7 @@
 title: "7 Beziehungskiller im Alltag und wie du sie vermeidest"
 description: "Die 7 häufigsten Beziehungskiller im Alltag erkennen und stoppen. Erfahre welche scheinbar harmlosen Gewohnheiten deine Beziehung zerstören und was du."
 date: 2025-03-29
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Ratgeber"

@@ -7,6 +7,7 @@ tags:
 image: "/images/blog/dating-nach-lockdown.webp"
 imageAlt: "Post-Pandemie Dating: Was sich dauerhaft verändert hat"
 date: 2025-04-29
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Wie lange sollte man daten bevor man zusammenkommt?"

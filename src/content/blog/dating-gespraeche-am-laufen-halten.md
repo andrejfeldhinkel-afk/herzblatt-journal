@@ -2,6 +2,7 @@
 title: "Date-Gespräche am Laufen halten: So geht's"
 description: "Peinliche Stille beim Date? Lerne, natürliche Gesprächsstarter zu nutzen, aktiv zuzuhören und tiefere Fragen zu stellen. Flirten neu definiert."
 date: 2025-05-15
+updated: 2026-04-15
 image: "/images/photos/dating-gespraeche-am-laufen-halten.webp"
 tags:
   - "Dating"

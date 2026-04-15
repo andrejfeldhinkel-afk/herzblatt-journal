@@ -2,6 +2,7 @@
 title: "Dating mit Kind: So gelingt die Partnersuche als"
 description: "Dating mit Kind ist komplex. Erfahre, wie du einen neuen Partner findest und eine Blended Family aufbaust."
 date: 2025-06-27
+updated: 2026-04-15
 image: "/images/photos/dating-mit-kind.webp"
 tags:
   - "Dating"

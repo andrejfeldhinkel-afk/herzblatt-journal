@@ -2,6 +2,7 @@
 title: "Aktives Zuhören: Die Beziehungs-Superkraft"
 description: "Aktives Zuhören in Beziehungen: Die meisten Probleme entstehen durch schlechtes Zuhören. Lerne die Technik für tiefere emotionale Verbindung."
 date: 2025-01-15
+updated: 2026-04-15
 image: "/images/photos/aktives-zuhoeren-partner.webp"
 tags:
   - "Kommunikation"

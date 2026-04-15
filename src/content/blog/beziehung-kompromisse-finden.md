@@ -2,6 +2,7 @@
 title: "Kompromisse in der Beziehung: Wann ja und wann nein"
 description: "Kompromisse richtig finden: Wann du nachgeben solltest und wann du deine Grenzen halten musst"
 date: 2025-02-05
+updated: 2026-04-15
 image: "/images/photos/beziehung-kompromisse-finden.webp"
 imageAlt: "Balance und Kompromisse in der Beziehung"
 tags:

@@ -2,6 +2,7 @@
 title: "Bindungstypen beim Dating erklärt"
 description: "Lerne Deinen Bindungstyp kennen: sicher, ängstlich, vermeidend. Verstehe Deine Beziehungsmuster und finde die richtige Partnerin."
 date: 2025-01-30
+updated: 2026-04-15
 image: "/images/photos/attachment-styles-dating.webp"
 tags:
   - "Beziehung"

@@ -3,6 +3,7 @@ title: "Partner mit Burnout unterstützen"
 description: "Wenn dein Partner Burnout hat, ist das auch für dich. Hier ist, wie man zusammenhält, während man heilt."
 keywords: ["partner mit burnout unterstützen", "beziehung", "kommunikation", "lebensphasen", "heilung", "zusammenleben"]
 date: 2025-05-02
+updated: 2026-04-15
 image: "/images/blog/beziehung-nach-burnout-partner.webp"
 imageAlt: "Partner mit Burnout unterstützen"
 tags: ["Beziehung", "Kommunikation", "Lebensphasen", "Heilung", "Zusammenleben"]

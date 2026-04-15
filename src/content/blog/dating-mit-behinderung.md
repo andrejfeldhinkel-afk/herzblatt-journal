@@ -2,6 +2,7 @@
 title: "Dating mit Behinderung: Liebe finden mit Authentizität"
 description: "Dating mit Behinderung: Liebe finden mit Authentizität. Tipps und Strategien für erfüllende Beziehungen und echte Verbindung."
 date: 2025-06-25
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Selbstliebe"

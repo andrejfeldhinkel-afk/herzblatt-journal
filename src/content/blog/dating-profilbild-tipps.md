@@ -2,6 +2,7 @@
 title: "Dating-Profilbild: Die besten Foto-Tipps"
 description: "Erfahre, welche Fotos in deinem Dating-Profil funktionieren und wie du mehr Matches bekommst."
 date: 2025-07-04
+updated: 2026-04-15
 image: "/images/photos/dating-profilbild-tipps.webp"
 tags:
   - "Online-Dating"

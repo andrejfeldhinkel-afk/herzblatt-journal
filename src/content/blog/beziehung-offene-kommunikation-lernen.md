@@ -2,6 +2,7 @@
 title: "Offene Kommunikation in der Beziehung: Der komplette Guide"
 description: "Offene Kommunikation in der Beziehung lernen: Wie du schwierige Themen ansprichst, besser zuhörst und eine Gesprächskultur aufbaust die eure Liebe stärkt."
 date: 2025-02-23
+updated: 2026-04-15
 tags:
   - "Kommunikation"
   - "Beziehung"

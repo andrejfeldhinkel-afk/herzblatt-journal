@@ -3,6 +3,7 @@ title: "Dating ab 60: Liebe hat kein Verfallsdatum"
 description: "Dating ab 60 — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
 keywords: ["dating ab 60", "beziehung", "dating", "dating liebe", "liebe kein", "kein verfallsdatum"]
 date: 2025-05-22
+updated: 2026-04-15
 image: "/images/blog/dating-ab-60-liebe-alter.webp"
 imageAlt: "Dating ab 60: Liebe hat kein Verfallsdatum"
 tags: ["Beziehung", "Dating"]

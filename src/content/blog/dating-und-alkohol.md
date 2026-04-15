@@ -2,6 +2,7 @@
 title: "Dating und Alkohol – Wie viel ist beim Date okay?"
 description: "Dating und Alkohol: Wie viel Alkohol beim Date ist angebracht? Balance zwischen Lockerheit und Kontrolle für den besten Eindruck."
 date: 2025-08-12
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Etikette"

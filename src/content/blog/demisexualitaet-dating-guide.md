@@ -2,6 +2,7 @@
 title: "Demisexualität und Dating: Wenn sexuelle Anziehung erst"
 description: "Demisexualität verstehen: Was es bedeutet, demisexuell zu sein, wie du damit datest und warum es kein Problem ist — sondern eine Stärke."
 date: 2025-08-24
+updated: 2026-04-15
 image: "/images/photos/demisexualitaet-dating-guide.webp"
 tags:
   - "Dating"

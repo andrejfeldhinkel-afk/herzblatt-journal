@@ -3,6 +3,7 @@ title: "Getrennte Urlaube in der Beziehung"
 description: "Getrennte Urlaube in der Beziehung — Erfahre bewährte Strategien und Expertentipps für eine glücklichere, stärkere Partnerschaft im Alltag."
 keywords: ["getrennte urlaube in der beziehung", "beziehung", "grenzen", "lifestyle", "getrennte urlaube", "urlaube beziehung"]
 date: 2025-04-24
+updated: 2026-04-15
 image: "/images/blog/beziehung-getrennte-urlaube.webp"
 imageAlt: "Getrennte Urlaube in der Beziehung"
 tags: ["Beziehung", "Grenzen", "Lifestyle"]

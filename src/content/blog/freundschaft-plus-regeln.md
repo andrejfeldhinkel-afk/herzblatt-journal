@@ -2,6 +2,7 @@
 title: "Freundschaft Plus: Regeln für unkompliziert"
 description: "Freundschaft Plus Regeln: Wie es funktioniert und welche Regeln du brauchst. Tipps für klare und unkomplizierte Affären."
 date: 2025-08-18
+updated: 2026-04-15
 image: "/images/photos/freundschaft-plus-regeln.webp"
 tags:
   - "Dating"

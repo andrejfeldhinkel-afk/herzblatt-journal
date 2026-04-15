@@ -7,6 +7,7 @@ tags:
 image: "/images/blog/outdoor-dates-natur-genieszen.webp"
 imageAlt: "Outdoor-Dates: Die Natur als perfekte Kulisse"
 date: 2025-04-03
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

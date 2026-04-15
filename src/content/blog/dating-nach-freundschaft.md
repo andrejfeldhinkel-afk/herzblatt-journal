@@ -2,6 +2,7 @@
 title: "Vom besten Freund zum Partner"
 description: "Vom besten Freund zum Partner: Wie der sensible Übergang von Freundschaft zu echte Romantik funktioniert und erfolgreich gelingt."
 date: 2025-07-12
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Beziehung"

@@ -3,6 +3,7 @@ title: "Beziehungstypen: Ein Überblick"
 description: "Die verschiedenen Arten von Beziehungen erklärt. Monogamie, offene Beziehungen, polyamöre Beziehungen und mehr."
 keywords: ["beziehungstypen", "beziehung", "dating", "beziehungstypen: überblick"]
 date: 2025-04-07
+updated: 2026-04-15
 image: "/images/blog/beziehungstypen-vergleich.webp"
 imageAlt: "Beziehungstypen: Ein Überblick"
 tags: ["Beziehung", "Dating"]

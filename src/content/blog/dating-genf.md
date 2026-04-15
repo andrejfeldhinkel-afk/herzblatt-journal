@@ -2,6 +2,7 @@
 title: "Dating in Genf: Die besten Orte & Tipps für Singles"
 description: "Genf Dating-Guide: Entdecke romantische Cafés, Altstadt-Bars und den berühmten Jet d'Eau. Deine besten Dating-Tipps für Genf!"
 date: 2025-06-01
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

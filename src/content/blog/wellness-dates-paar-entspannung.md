@@ -6,6 +6,7 @@ tags: ["Date-Ideen", "Lifestyle", "Beziehung"]
 image: "/images/blog/wellness-dates-paar-entspannung.webp"
 imageAlt: "Wellness-Dates: Entspannung zu zweit genießen"
 date: 2025-07-09
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Was sind Anzeichen für eine gesunde Beziehung?"

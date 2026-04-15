@@ -9,6 +9,7 @@ tags:
 image: "/images/blog/dating-ohne-erfahrung-mit-30.webp"
 imageAlt: "Keine Dating-Erfahrung mit 30: Kein Grund zur Panik"
 date: 2025-05-19
+updated: 2026-04-15
 author: "markus-hoffmann"
 faq:
   - question: "Was sollte man beim Dating beachten?"

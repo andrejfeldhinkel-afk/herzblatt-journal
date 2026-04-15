@@ -3,6 +3,7 @@ title: "Dealbreaker in der Beziehung"
 description: "Welche Dealbreaker solltest du nicht übersehen? Lerne, deine Grenzen zu erkennen und zu respektieren."
 keywords: ["dealbreaker in der beziehung", "ratgeber", "dealbreaker beziehung"]
 date: 2025-06-07
+updated: 2026-04-15
 image: "/images/blog/dealbreaker-beziehung-erkennen.webp"
 imageAlt: "Dealbreaker in der Beziehung"
 tags: ["Ratgeber"]

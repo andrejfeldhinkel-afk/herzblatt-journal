@@ -2,6 +2,7 @@
 title: "Beziehung und Schlafgewohnheiten: Getrennt schlafen"
 description: "Beziehung und Schlafgewohnheiten: Wie unterschiedliche Schlafmuster die Liebe beeinflussen und wann getrennte Betten helfen."
 date: 2025-03-11
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Lifestyle"

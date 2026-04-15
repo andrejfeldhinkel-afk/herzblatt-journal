@@ -2,6 +2,7 @@
 title: "Dating in Wien: Die besten Orte & Tipps für Singles?"
 description: "Wien Dating-Guide: Entdecke die besten Cafés, Bars und romantische Orte für erfolgreiche Dates in der österreichischen Hauptstadt Wien!"
 date: 2025-08-18
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

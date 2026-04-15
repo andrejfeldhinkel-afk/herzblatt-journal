@@ -6,6 +6,7 @@ tags: ["Trennung", "Grenzen", "Heilung"]
 image: "/images/blog/grenzen-nach-trennung-setzen.webp"
 imageAlt: "Grenzen setzen nach der Trennung"
 date: 2025-05-07
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Wann ist eine Trennung die richtige Entscheidung?"

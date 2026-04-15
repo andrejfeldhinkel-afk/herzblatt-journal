@@ -2,6 +2,7 @@
 title: "Interkulturell daten: Chancen und Herausforderungen"
 description: "Interkulturell daten: Lerne, wie du Unterschiede navigierst und echte Verbindung aufbaust. Ein Ratgeber für Chancen und Herausforderungen!"
 date: 2025-08-14
+updated: 2026-04-15
 tags:
   - "Interkulturell"
   - "Dating"

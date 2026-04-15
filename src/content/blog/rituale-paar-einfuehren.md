@@ -3,6 +3,7 @@ title: "Paar-Rituale: 12 Gewohnheiten"
 description: "Paar-Rituale — Erfahre bewährte Strategien und Expertentipps für eine glücklichere, stärkere Partnerschaft im Alltag."
 keywords: ["paar-rituale", "beziehung", "date ideen", "paar-rituale: gewohnheiten"]
 date: 2025-07-26
+updated: 2026-04-15
 image: "/images/blog/rituale-paar-einfuehren.webp"
 imageAlt: "Paar-Rituale: 12 Gewohnheiten"
 tags: ["Beziehung", "Date-Ideen"]

@@ -2,6 +2,7 @@
 title: "Beziehungskrise meistern: Ursachen und Lösungen"
 description: "Beziehungskrise meistern: Erfahre die Phasen und Ursachen von Krisen und wie ihr gestärkt daraus hervorgeht. Praktischer Guide."
 date: 2025-04-02
+updated: 2026-04-15
 image: "/images/photos/beziehungskrise-meistern.webp"
 tags:
   - "Beziehungskrise"

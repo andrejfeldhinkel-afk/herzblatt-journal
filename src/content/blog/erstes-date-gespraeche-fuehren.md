@@ -2,6 +2,7 @@
 title: "Erstes Date: Gespräche führen ohne Stille"
 description: "Erstes Date Gespräche: Lerne, wie du fließend kommunizierst und Stille vermeidest. Mit praktischen Tipps gegen Nervosität beim ersten Date!"
 date: 2025-08-05
+updated: 2026-04-15
 image: "/images/photos/erstes-date-gespraeche-fuehren.webp"
 tags:
   - "Dating"

@@ -2,6 +2,7 @@
 title: "Einseitige Beziehung: Wenn nur einer kämpft"
 description: "Einseitige Beziehung erkennen und verstehen. Wenn du alles gibst und nichts zurückkommt — was das bedeutet und wann es Zeit ist loszulassen."
 date: 2025-01-15
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Ratgeber"

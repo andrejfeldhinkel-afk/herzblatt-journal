@@ -2,6 +2,7 @@
 title: "Beziehung und Humor: Warum gemeinsam Lachen verbindet"
 description: "Beziehung und Humor: Wie gemeinsames Lachen eure Liebe dauerhaft stärkt und warum ähnlicher Humor für Paare kritisch ist."
 date: 2025-03-06
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Psychologie"

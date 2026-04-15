@@ -2,6 +2,7 @@
 title: "Dating Burnout – Wenn die Partnersuche zur Belastung wird"
 description: "Dating Burnout erkennen und überwinden: Symptome, Ursachen (App-Fatigue, Ghosting, Ablehnung) und Strategien für gesunde Dating-Gewohnheiten."
 date: 2025-05-16
+updated: 2026-04-15
 tags:
   - "Psychologie"
   - "Dating-Tipps"

@@ -2,6 +2,7 @@
 title: "Ghosting: Warum Menschen plötzlich verschwinden"
 description: "Ghosting: Warum Menschen plötzlich verschwinden': Wie du durch bessere Kommunikation Missverständnisse vermeidest und Nähe schaffst."
 date: 2025-07-23
+updated: 2026-04-15
 image: /images/blog/ghosting-warum-menschen-ghosten.webp
 imageAlt: "Ghosting: Warum Menschen plötzlich verschwinden"
 tags:

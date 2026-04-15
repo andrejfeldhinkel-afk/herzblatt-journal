@@ -3,6 +3,7 @@ title: "Dating ab 30: Alles was du wissen musst"
 description: "Dating ab 30: Alles was du wissen musst: So meisterst du die Welt des Online-Datings mit Authentizität und Erfolg."
 keywords: ["dating ab 30", "lebensphasen", "online dating", "partnersuche", "dating alles", "alles wissen"]
 date: 2025-08-22
+updated: 2026-04-15
 image: "/images/blog/dating-nach-30-guide.webp"
 imageAlt: "Dating ab 30: Alles was du wissen musst"
 tags: ["Lebensphasen", "Online-Dating", "Partnersuche"]

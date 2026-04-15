@@ -3,6 +3,7 @@ title: "10 Dating-Mythen, die du vergessen solltest (2026)"
 description: "10 Dating-Mythen, die du vergessen solltest (2026) — Praktische Dating-Ratschläge, die wirklich funktionieren. Von Experten empfohlen."
 keywords: ["10 dating-mythen, die du vergessen solltest (2026)", "dating", "psychologie", "ratgeber", "dating-mythen, vergessen", "vergessen solltest"]
 date: 2025-04-18
+updated: 2026-04-15
 image: "/images/blog/dating-mythen-entlarvt.webp"
 imageAlt: "10 Dating-Mythen, die du vergessen solltest (2026)"
 tags: ["Dating", "Psychologie", "Ratgeber"]

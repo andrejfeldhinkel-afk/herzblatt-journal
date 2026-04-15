@@ -3,6 +3,7 @@ title: "Liebe in Zeiten von Social Media"
 description: "Liebe in Zeiten von Social Media: So meisterst du die Welt des Online-Datings mit Authentizität und Erfolg."
 keywords: ["liebe in zeiten von social media", "digital detox", "online dating", "liebe zeiten", "zeiten social", "social media"]
 date: 2025-08-23
+updated: 2026-04-15
 image: "/images/blog/liebe-in-zeiten-von-social-media.webp"
 imageAlt: "Liebe in Zeiten von Social Media"
 tags: ["Digital Detox", "Online-Dating"]

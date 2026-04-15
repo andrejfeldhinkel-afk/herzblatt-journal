@@ -3,6 +3,7 @@ title: "Perfektionismus beim Dating: Loslassen der Illusion"
 description: "Perfektionismus beim Dating — Die besten Tipps und Strategien für erfolgreiches Dating. Authentisch, ehrlich und auf Augenhöhe."
 keywords: ["perfektionismus beim dating", "dating", "psychologie", "selbstliebe", "partnersuche", "perfektionismus beim"]
 date: 2025-07-29
+updated: 2026-04-15
 image: "/images/blog/dating-perfektionismus.webp"
 imageAlt: "Perfektionismus beim Dating: Loslassen der Illusion"
 tags: ["Dating", "Psychologie", "Selbstliebe", "Partnersuche"]

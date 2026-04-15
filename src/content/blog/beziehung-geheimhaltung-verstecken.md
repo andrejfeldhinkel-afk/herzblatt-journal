@@ -2,6 +2,7 @@
 title: "Wenn der Partner die Beziehung geheim hält"
 description: "Partner versteckt Beziehung: Wann ist es okay, wann ist es ein Red Flag? Gründe, Konsequenzen, und wie du reagierst"
 date: 2025-02-02
+updated: 2026-04-15
 image: "/images/photos/beziehung-geheimhaltung-verstecken.webp"
 imageAlt: "Partner der die Beziehung geheim hält"
 tags:

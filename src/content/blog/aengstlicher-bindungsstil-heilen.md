@@ -2,6 +2,7 @@
 title: "Ängstlicher Bindungsstil heilen: Schritt für Schritt"
 description: "Ängstlicher Bindungsstil überwinden mit praktischen Techniken. Lerne, deine Verlustängste zu heilen und sichere Beziehungen aufzubauen."
 date: 2025-01-16
+updated: 2026-04-15
 image: "/images/photos/aengstlicher-bindungsstil-heilen.webp"
 imageAlt: "Heilung eines ängstlichen Bindungsstils durch Meditation"
 tags:

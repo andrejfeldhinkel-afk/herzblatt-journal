@@ -2,6 +2,7 @@
 title: "Dating-App Premium: Lohnt sich bezahlen?"
 description: "Dating-App Premium im Test: Tinder Gold, Bumble Premium, Hinge+ und mehr — was du bekommst, was es kostet und ob es sich wirklich lohnt."
 date: 2025-04-30
+updated: 2026-04-15
 tags:
   - "Online-Dating"
   - "Dating"

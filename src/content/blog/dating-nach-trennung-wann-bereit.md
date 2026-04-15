@@ -2,6 +2,7 @@
 title: "Nach der Trennung: Wann bist du bereit für neues Dating?"
 description: "Dating nach Trennung: Wie lange solltest du warten? Erkenne die emotionalen Zeichen für Bereitschaft und vermeidest neue Beziehungs-Probleme."
 date: 2025-07-23
+updated: 2026-04-15
 tags:
   - "Trennung"
   - "Dating"

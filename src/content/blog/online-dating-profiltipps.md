@@ -4,6 +4,7 @@ description: "Dein Online-Dating Profil ist deine Visitenkarte. Lerne, wie du es
 image: "/images/blog/online-dating-profiltipps.webp"
 imageAlt: "Online-Dating Profiltipps 2024 – So wirst du gesehen und gemocht"
 date: 2024-11-15
+updated: 2026-04-15
 tags:
   - "Dating"
   - "Dating-Apps"

@@ -3,6 +3,7 @@ title: "Dating mit Hochbegabung: Wenn der Kopf schneller ist"
 description: "Dating mit Hochbegabung — Praktische Dating-Ratschläge, die wirklich funktionieren. Von Experten empfohlen."
 keywords: ["dating mit hochbegabung", "neurodiversität", "dating", "psychologie", "dating hochbegabung:", "hochbegabung: wenn"]
 date: 2025-05-16
+updated: 2026-04-15
 image: "/images/blog/dating-mit-hochbegabung.webp"
 imageAlt: "Dating mit Hochbegabung: Wenn der Kopf schneller ist"
 tags: ["Neurodiversität", "Dating", "Psychologie"]

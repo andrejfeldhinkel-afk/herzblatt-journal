@@ -2,6 +2,7 @@
 title: "Vom Traum zur Realität zusammenziehen"
 description: "Zusammenziehen nach Fernbeziehung: Lerne, wie du die Transition schaffst und erfolgreich zusammenzieht. Mit praktischen Strategien!"
 date: 2025-02-12
+updated: 2026-04-15
 tags:
   - "Fernbeziehung"
   - "Zusammenleben"

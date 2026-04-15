@@ -7,6 +7,7 @@ tags:
 image: "/images/blog/dating-nach-plastischer-chirurgie.webp"
 imageAlt: "Dating nach Schönheits-OP: Selbstbild und neue Chancen"
 date: 2025-04-11
+updated: 2026-04-15
 author: "sarah-kellner"
 faq:
   - question: "Ist dieser Ratgeber kostenlos?"

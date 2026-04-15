@@ -3,6 +3,7 @@ title: "Dating nach dem Studium: Neue Spielregeln"
 description: "Dating nach dem Studium: Alles was du wissen musst, um beim Dating selbstbewusst aufzutreten und die richtige Person zu finden."
 keywords: ["dating nach dem studium", "dating", "lebensphasen", "partnersuche", "dating nach", "nach studium:"]
 date: 2025-05-05
+updated: 2026-04-15
 image: "/images/blog/dating-nach-studium.webp"
 imageAlt: "Dating nach dem Studium: Neue Spielregeln"
 tags: ["Dating", "Lebensphasen", "Partnersuche"]

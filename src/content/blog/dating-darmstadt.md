@@ -2,6 +2,7 @@
 title: "Dating in Darmstadt: Die besten Orte, Tipps & Hotspots"
 description: "Darmstadt Dating-Guide: Entdecke trendige Bars, romantische Restaurants und praktische Tipps für erfolgreiche Dates in Darmstadt!"
 date: 2025-05-18
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

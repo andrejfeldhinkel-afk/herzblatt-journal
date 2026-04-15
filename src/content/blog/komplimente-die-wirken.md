@@ -9,6 +9,7 @@ tags:
 image: "/images/blog/komplimente-die-wirken.webp"
 imageAlt: "Komplimente, die wirklich wirken"
 date: 2025-04-26
+updated: 2026-04-15
 author: "markus-hoffmann"
 faq:
   - question: "Was sollte man beim Dating beachten?"

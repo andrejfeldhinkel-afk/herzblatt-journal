@@ -2,6 +2,7 @@
 title: "Sternzeichen-Kompatibilität: Wie passt ihr zusammen?"
 description: "Sternzeichen-Kompatibilität beim Dating: Entdecke, was die Astrologie über deine Beziehung verrät."
 date: 2025-07-02
+updated: 2026-04-15
 tags: ["Dating", "Lifestyle", "Astrologie"]
 image: "/images/photos/sternzeichen-kompatibilitaet.webp"
 draft: false

@@ -2,6 +2,7 @@
 title: "Toxische Beziehungen Test: 20 Warnsignale"
 description: "Toxische Beziehungen Test: 20 Warnsignale, Selbsttest und konkrete Auswege — erkenne toxische Muster früh und schütze deine Gesundheit."
 date: 2025-03-05
+updated: 2026-04-15
 image: "/images/photos/beziehung-toxisch-test.webp"
 imageAlt: "Toxische Beziehungen Test — Frau blickt nachdenklich"
 tags:

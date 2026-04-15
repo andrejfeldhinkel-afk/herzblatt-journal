@@ -3,6 +3,7 @@ title: "Beziehung nach Elternzeit: Wiederfinden als Paar"
 description: "Deine Beziehung nach der Elternzeit wieder aufbauen. Praktische Tipps, um als Paar wieder zusammenzufinden und die Liebe zu rekultivieren."
 keywords: ["beziehung nach elternzeit", "beziehung", "beziehung nach", "nach elternzeit:", "elternzeit: wiederfinden", "wiederfinden paar"]
 date: 2025-05-05
+updated: 2026-04-15
 image: "/images/blog/beziehung-nach-elternzeit-zurueckfinden.webp"
 imageAlt: "Beziehung nach Elternzeit: Wiederfinden als Paar"
 tags: ["Beziehung"]

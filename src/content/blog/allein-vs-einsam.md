@@ -2,6 +2,7 @@
 title: "Allein sein vs. einsam: Der entscheidende Unterschied"
 description: "Alleinsein vs. Einsamkeit: Warum einer gesund ist und der andere schadet. Praktische Strategien für erfülltes und bewusstes Solo-Leben."
 date: 2025-01-17
+updated: 2026-04-15
 image: "/images/photos/allein-vs-einsam.webp"
 tags:
   - "Alleinsein"

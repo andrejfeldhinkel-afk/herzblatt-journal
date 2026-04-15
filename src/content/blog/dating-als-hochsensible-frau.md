@@ -2,6 +2,7 @@
 title: "Dating als Hochsensible: Tiefe statt Oberfläche"
 description: "HSP-Dating für Frauen: Lerne, wie du Reizüberflutung vermeidest, passende Partner findest und gesunde Grenzen setzt. Mit praktischen Tipps!"
 date: 2025-04-21
+updated: 2026-04-15
 image: "/images/photos/dating-als-hochsensible-frau.webp"
 tags:
   - "Hochsensibel"

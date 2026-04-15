@@ -2,6 +2,7 @@
 title: "Codependenz erkennen und überwinden"
 description: "Codependenz in der Beziehung erkennen und überwinden. Der ehrliche Guide über emotionale Abhängigkeit, ihre Wurzeln und den Weg in gesunde Beziehungen."
 date: 2025-04-10
+updated: 2026-04-15
 tags:
   - "Psychologie"
   - "Heilung"

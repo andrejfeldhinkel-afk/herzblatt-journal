@@ -3,6 +3,7 @@ title: "Dirty Talk lernen"
 description: "Dirty Talk lernen — Wege zu mehr emotionaler und körperlicher Nähe in deiner Beziehung. Einfühlsam und praxisnah."
 keywords: ["dirty talk lernen", "intimität", "dirty talk", "talk lernen"]
 date: 2025-05-27
+updated: 2026-04-15
 image: "/images/blog/dirty-talk-intimaet-vertiefen.webp"
 imageAlt: "Dirty Talk lernen"
 tags: ["Intimität"]

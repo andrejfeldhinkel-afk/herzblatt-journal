@@ -8,6 +8,7 @@ tags:
 image: "/images/blog/dating-gespraeche-starter.webp"
 imageAlt: "50 Gesprächsstarter fürs Date die wirklich funktionieren"
 date: 2025-08-06
+updated: 2026-04-15
 author: "thomas-peters"
 faq:
   - question: "Was sollte man beim Dating beachten?"

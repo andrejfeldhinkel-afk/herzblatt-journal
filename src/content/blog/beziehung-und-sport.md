@@ -2,6 +2,7 @@
 title: "Beziehung und Sport: Zusammen schwitzen, zusammen wachsen"
 description: "Sport in Beziehungen: Lerne, warum gemeinsamer Sport eure Beziehung stärkt und wie ihr die perfekte Balance findet. Mit praktischen Tipps!"
 date: 2025-03-14
+updated: 2026-04-15
 tags:
   - "Beziehung"
   - "Lifestyle"

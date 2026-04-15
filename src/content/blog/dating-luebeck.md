@@ -2,6 +2,7 @@
 title: "Dating in Lübeck: Die besten Orte & Tipps für Singles"
 description: "Dating in Lübeck: Romantische Dating-Spots und beste Tipps für Singles in der UNESCO-Altstadt, an der Ostsee und im Hafenviertel."
 date: 2025-06-18
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

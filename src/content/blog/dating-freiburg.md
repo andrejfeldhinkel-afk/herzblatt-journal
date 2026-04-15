@@ -2,6 +2,7 @@
 title: "Dating in Freiburg: Sonnig verlieben"
 description: "Dating in Freiburg: Die besten Plätze und Tipps. Natur, Stadt und Romantik in der grünen und sonnigen Schwarzwald-Metropole."
 date: 2025-05-13
+updated: 2026-04-15
 image: "/images/photos/dating-freiburg.webp"
 tags:
   - "Dating"

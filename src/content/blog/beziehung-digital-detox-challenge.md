@@ -3,6 +3,7 @@ title: "Digital Detox Challenge für Paare"
 description: "Das Handy zerstört Beziehungen. Hier ist eine konkrete Challenge, wie du und dein Partner wieder real miteinander verbunden werdet."
 keywords: ["digital detox challenge für paare", "beziehung", "digital detox", "kommunikation", "intimität", "lifestyle"]
 date: 2025-06-18
+updated: 2026-04-15
 image: "/images/blog/beziehung-digital-detox-challenge.webp"
 imageAlt: "Digital Detox Challenge für Paare"
 tags: ["Beziehung", "Digital Detox", "Kommunikation", "Intimität", "Lifestyle"]

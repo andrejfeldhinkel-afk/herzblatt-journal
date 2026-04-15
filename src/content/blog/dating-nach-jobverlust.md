@@ -2,6 +2,7 @@
 title: "Dating nach Jobverlust: Lohnt es sich trotzdem?"
 description: "Dating nach Jobverlust: Warum Arbeitslosigkeit dein Dating-Leben nicht stoppen muss und wie du selbstbewusst damit umgehst."
 date: 2025-07-15
+updated: 2026-04-15
 tags:
   - "Dating"
   - "Psychologie"

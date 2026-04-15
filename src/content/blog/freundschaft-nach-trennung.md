@@ -2,6 +2,7 @@
 title: "Freundschaft nach Trennung: Geht"
 description: "Kann man mit dem Ex-Partner befreundet sein? Wir zeigen dir, wann es funktioniert und welche Regeln helfen."
 date: 2025-08-16
+updated: 2026-04-15
 image: "/images/photos/freundschaft-nach-trennung.webp"
 tags:
   - "Trennung"

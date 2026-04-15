@@ -3,6 +3,7 @@ title: "Persönlichkeitstypen und Partnersuche: Wer passt zu wem?"
 description: "Persönlichkeitstypen und Partnersuche: Was die Psychologie über Liebe und Beziehungen verrät. Wissenschaftlich fundierte Einblicke."
 keywords: ["persönlichkeitstypen und partnersuche", "psychologie", "partnersuche", "persönlichkeitstypen partnersuche:", "partnersuche: passt", "passt wem?"]
 date: 2025-04-09
+updated: 2026-04-15
 image: "/images/blog/persoenlichkeitstypen-partnersuche.webp"
 imageAlt: "Persönlichkeitstypen und Partnersuche: Wer passt zu wem?"
 tags: ["Psychologie", "Partnersuche"]

@@ -2,6 +2,7 @@
 title: "Dating in Winterthur: Die besten Orte, Tipps & Hotspots"
 description: "Winterthur Dating-Guide: Charmante Restaurants, trendige Bars und beste Single-Szene der Schweizer Kunststadt. Deine Dating-Tipps hier!"
 date: 2025-08-20
+updated: 2026-04-15
 tags:
   - "Dating-Tipps"
   - "Date-Ideen"

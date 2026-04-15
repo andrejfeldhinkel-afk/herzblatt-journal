@@ -4,6 +4,7 @@ description: "Zusammenziehen — Dein umfassender Ratgeber auf Herzblatt Journal
 keywords: ["zusammenziehen", "zusammenleben", "zusammenziehen: ehrliche", "ehrliche checkliste"]
 tags: ["Zusammenleben"]
 date: 2025-08-21
+updated: 2026-04-15
 image: "/images/blog/beziehung-zusammenziehen-checkliste.webp"
 imageAlt: "Zusammenziehen: Die ehrliche Checkliste"
 author: markus-hoffmann
