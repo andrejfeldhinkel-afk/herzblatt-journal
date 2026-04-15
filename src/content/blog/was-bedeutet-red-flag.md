@@ -26,6 +26,8 @@ faq:
     answer: "Ja, absolut. Jeder Mensch bringt problematische Muster mit — aus Kindheit, früheren Beziehungen oder Stressreaktionen. Der Unterschied zwischen Red Flag und 'Mensch sein' ist Bewusstsein: Erkennst du deine Muster? Bist du bereit, an ihnen zu arbeiten? Ein 'Walking Red Flag' ist jemand, der seine Muster hat und nicht bereit ist, sie zu reflektieren."
 ---
 
+> **Schnellantwort:** **Red Flag** bedeutet wörtlich "rote Flagge" und meint im Beziehungskontext ein Warnsignal: ein Verhaltensmuster oder Verhalten, das auf problematische, ungesunde oder potenziell gefährliche Dynamiken hinweist. Klassische Beispiele sind Lovebombing, Gaslighting, Silent Treatment, Kontrollverhalten oder das Ignorieren deiner Grenzen.
+
 Du scrollst durch TikTok und in jedem zweiten Video fällt der Begriff: **Red Flag**. Deine Freundinnen fluchen nach dem Date über die "roten Fahnen", und auf Instagram sammelt jede zweite Beziehungsseite neue Red-Flag-Listen. Aber was bedeutet Red Flag eigentlich genau — und wie hilft dir dieses Wissen, dich selbst zu schützen? Dieser Artikel gibt dir die klare Definition, die Herkunft des Begriffs und 7 der häufigsten Red-Flag-Beispiele aus Dating und Beziehung.
 
 ## Red Flag: Die Definition in einem Satz

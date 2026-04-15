@@ -16,6 +16,8 @@ draft: false
 author: "markus-hoffmann"
 ---
 
+> **Schnellantwort:** **Kein Kribbeln beim zweiten Date** ist normal und kein Trennungsgrund. Anziehung wächst oft langsam, besonders bei sicheren Bindungstypen. Gib der Person noch 2-3 Dates Zeit, bevor du entscheidest. Achte weniger auf das Bauchgefühl-Feuerwerk als auf: Fühle ich mich gesehen? Kann ich sein, wer ich bin?
+
 Du hattest ein zweites Date. Die Person ist nett. Wirklich nett. Aber da ist nichts. Keine Schmetterlinge. Kein Kribbeln. Kein Feuer. Du fragst dich: Sollte ich das fortsetzen? Ist das ein Zeichen, dass da nichts draus wird?
 
 Hier ist die unbequeme Wahrheit: Du bist wahrscheinlich zu früh in Panik geraten. Viele Menschen haben gelernt, echte Gefühle mit Drama zu verwechseln. Sie denken dass Liebe sich wie ein Feuerwerk anfühlen muss, wenn es wirklich die Richtige ist. Das ist Unsinn. Das ist die Lüge von hundert Hollywood-Filmen.

@@ -10,6 +10,8 @@ tags:
   - "Flirten"
 ---
 
+> **Schnellantwort:** **Steht er auf mich?** Die deutlichsten Zeichen: Er sucht aktiv Augenkontakt, lacht über deine Witze, dreht den Körper zu dir, antwortet zeitnah auf Nachrichten, fragt nach Details aus deinem Leben und merkt sie sich, sucht Berührung und plant aktiv Zeit mit dir. Konsistenz über Wochen ist das Hauptkriterium.
+
 ## Die große Frage: Steht er auf mich?
 
 Es ist eine der ältesten und frustrierendsten Fragen im Dating-Spiel. Eine Frau trifft einen Mann, es gibt einen Moment, der sich bedeutungsvoll anfühlt, und dann fragt sie sich: Steht er auf mich? Die Unsicherheit kann überwältigend sein. Du analysierst jede Nachricht, jeden Blick, jede Geste, auf der Suche nach Hinweisen. Ist das ein Zeichen von Interesse oder bin ich nur zu hoffnungsvoll?

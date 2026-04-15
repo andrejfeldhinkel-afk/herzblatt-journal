@@ -9,6 +9,9 @@ tags:
   - "Partnerschaft"
   - "Zusammenleben"
 ---
+
+> **Schnellantwort:** **Zusammenziehen** ist nicht an eine Beziehungsdauer gebunden, sondern an drei Bedingungen: Ihr habt mindestens einen größeren Konflikt überstanden, ihr habt über Geld, Haushalt und Routinen gesprochen, und ihr fühlt euch in der Beziehung sicher (nicht nur verliebt). Faustregel: Frühestens nach 12 Monaten.
+
 ## Zusammenziehen: Wann ist der richtige Zeitpunkt?
 
 Der Moment, in dem du anfängst, über Zusammenziehen mit deinem Partner nachzudenken, ist einer der aufregendsten und gleichzeitig beklemmendsten in einer [verliebt](/blog/mann-verliebt-anzeichen-komplett) seid, um irgendwas negativ zu sehen. Das ist wunderbar, aber es ist nicht die Realität von Zusammenleben.

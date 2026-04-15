@@ -20,6 +20,7 @@ faq:
 
 ---
 
+> **Schnellantwort:** **Keine Antwort auf der Dating-App** bedeutet meist: kein Interesse, parallele Optionen oder Überforderung mit der Match-Flut. Eine zweite Nachricht nach 7 Tagen ist ok, mehr nicht. Es liegt fast nie an dir — Match-Quoten in Apps sind extrem niedrig. Akzeptiere und scrolle weiter.
 
 Es ist einer der frustrierendsten Momente im Online-Dating: Du siehst ein Profil, das dir wirklich gefällt. Du schreibst eine durchdachte, aufmerksame erste Nachricht. Du wartest. Und wartest. Und... keine Antwort.
 

@@ -20,6 +20,7 @@ faq:
 
 ---
 
+> **Schnellantwort:** **Männer verlieben sich** in vier Phasen: Anziehung (visueller/körperlicher Reiz), Interesse (Neugier auf die Person), Vertiefung (emotionale Verbindung wächst) und Bindung (er sieht eine gemeinsame Zukunft). Anders als oft angenommen verlieben sich Männer im Schnitt sogar schneller als Frauen — sprechen es aber später aus.
 
 ## Wie verlieben sich Männer wirklich?
 

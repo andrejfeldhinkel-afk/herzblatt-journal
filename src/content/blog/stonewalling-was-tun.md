@@ -29,6 +29,8 @@ faq:
     answer: "Erst: Achte auf deine eigene Reaktion. Stoppe nicht, Panik zu geraten. Bleib ruhig. Dann: Bricht dein Partner sein Schweigen nicht, führt es zu echtem Gespräch: 'Das tut mir weh. Ich brauche dich, um mit mir zu reden.' Wenn es eine regelmäßiges Pattern ist, brauchst du externe Hilfe."
 ---
 
+> **Schnellantwort:** **Stonewalling** ist die komplette Verweigerung von Kommunikation in Konflikten — der Partner mauert sich emotional ein. Was du tun kannst: keine Verfolgung, eigene Routine fortsetzen, klar ansprechen wenn er zugänglich ist, Zeitrahmen setzen. Wenn das Muster sich wiederholt und Gespräche nicht helfen, ist Paartherapie der nächste Schritt.
+
 Du merkst, dass er dir nicht antwortet. Zuerst denkst du, er hat dich nicht gehört. Du wiederholst die Frage. Keine Antwort. Er schaut dich nicht an. Er atmet sogar anders – flacher, kontrollierter.
 
 Er ist weg. Nicht körperlich. Aber emotional. Es ist wie eine Mauer. Du kannst ihn nicht erreichen. Egal was du sagst, es prallt ab.

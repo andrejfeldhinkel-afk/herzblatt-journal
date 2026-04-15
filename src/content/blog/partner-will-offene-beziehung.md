@@ -27,6 +27,9 @@ faq:
   - question: "Wie setze ich Grenzen, wenn ich zustimme?"
     answer: "Schriftlich. Sprecht: No-Nos (Was ist nicht okay?), Kommunikation (Wie oft reden wir?), STI-Tests (Wann und wie oft?), Emotionale Regeln (Sind romantische Gefühle für andere okay?). Wenn ihr keine Grenzen definieren könnt, ist ihr nicht ready."
 ---
+
+> **Schnellantwort:** Wenn dein **Partner eine offene Beziehung will** und du nicht: Spreche ehrlich über seine Motive (Eskapismus oder echte Überzeugung?). Eine offene Beziehung gegen den Willen einer Seite funktioniert nie. Akzeptiere keine "Probezeit". Entweder steht ihr beide dahinter oder die Beziehung in dieser Form ist nicht zukunftsfähig.
+
 ## Partner will offene beziehung: Was jetzt?
 
 Das Gespräch war wahrscheinlich nicht einfach. Vielleicht seid ihr gerade noch darüber hinwegkommend. Dein Partner hat es angesprochen – und jetzt sitzt du da. Verwirrt, verletzt, vielleicht auch wütend. Oder neugierig. Oder alles auf einmal.

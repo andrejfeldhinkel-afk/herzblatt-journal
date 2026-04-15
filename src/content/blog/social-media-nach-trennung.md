@@ -29,6 +29,8 @@ faq:
     answer: "Es gibt hier kein Richtig oder Falsch. Manche halten das Jahr aus, andere länger. Wichtig ist: Blockiere ihn wieder, wenn dich das Entblockieren nicht guttut."
 ---
 
+> **Schnellantwort:** **Social Media nach der Trennung** solltest du in den ersten 4-12 Wochen radikal entschärfen: Ex blockieren oder entfolgen, gemeinsame Bilder ausblenden, Stories nicht mehr ansehen. Das ist nicht Drama — das ist Hygiene fürs Nervensystem. Dein Gehirn kann nicht heilen, solange dein Ex digital täglich präsent ist.
+
 ## Die Social-Media-Falle nach einer [Trennung](/blog/trennung-verarbeiten-12-schritte)
 
 Dein Ex hat gerade eine neue Story gepostet. Dein Herz zieht sich zusammen. Du öffnest sein Profil zum fünften Mal heute, obwohl es wehtut. Das ist das sichere Zeichen, dass du etwas ändern musst.

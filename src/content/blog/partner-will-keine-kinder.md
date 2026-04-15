@@ -16,6 +16,8 @@ draft: false
 author: "thomas-peters"
 ---
 
+> **Schnellantwort:** Wenn dein **Partner keine Kinder will** und du schon, ist das kein Verhandlungsthema, sondern ein Werte-Konflikt. Versucht ein offenes Gespräch über die Gründe (Angst vs. echte Überzeugung). Wenn die Position fix ist, ist Trennung meist die ehrlichere Antwort als Hoffen auf Veränderung — Kinderwunsch ist selten verhandelbar.
+
 Das war das Gespräch, das alles verändert hat. Du sitzt im Auto, fahrt zu Freunden die gerade ein Baby bekommen haben, und du sagst: "Die sind so glücklich, ich würde das auch gerne." Und dein Partner sagt ruhig: "Ich nicht. Ich will keine Kinder."
 
 Punkt.

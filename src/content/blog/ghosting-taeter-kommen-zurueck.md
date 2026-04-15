@@ -23,6 +23,8 @@ faq:
     answer: "Keine Reaktion, keine emotionale Reaktion. Ignorieren oder eine kurze, neutrale Antwort geben ('Danke, aber ich bin mit jemandem zusammen' oder einfach nichts sagen). Nicht in die gleiche Falle gehen. Menschen, die einmal ghosten, tun es oft wieder."
 ---
 
+> **Schnellantwort:** Ja, **Ghoster kommen oft zurück** — meist nach Wochen oder Monaten, wenn ihre nächste Option nicht funktioniert hat oder sie Aufmerksamkeit suchen. Das Verhalten heißt "Submarining". Echte Reue ist aber selten — meistens wollen sie wissen, ob du noch verfügbar bist. Beste Antwort: keine Antwort.
+
 Es ist 23 Uhr. Du scrollst durch deine Nachrichten und siehst eine neue Nachricht von einer Nummer, die du fast vergessen hast. Der Mensch, der dich vor Monaten ghostet hat.
 
 "Hey, mir ist aufgefallen, dass ich lange nicht bei dir war. Wie geht es dir?"

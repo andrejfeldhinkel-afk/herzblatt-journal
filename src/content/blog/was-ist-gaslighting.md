@@ -23,6 +23,8 @@ faq:
     answer: "Das variiert stark und hängt von Dauer der Manipulation, bisheriger Selbstwertstruktur und professioneller Unterstützung ab. Erste Stabilisierung spürst du oft nach Wochen ohne Kontakt. Tiefere Muster wie das chronische Selbstzweifeln brauchen häufig zwölf bis 24 Monate therapeutische Arbeit."
 ---
 
+> **Schnellantwort:** **Gaslighting** ist eine Form psychischer Manipulation, bei der jemand systematisch deine Realitätswahrnehmung in Frage stellt — durch Leugnen von Aussagen ("Das habe ich nie gesagt"), Kleinreden deiner Gefühle oder Erfindung anderer Versionen der Wirklichkeit. Ziel ist Kontrolle durch Verunsicherung.
+
 Du sitzt abends auf der Couch und versuchst, ein Gespräch vom Vortag zu rekonstruieren. Du bist dir sicher, dass dein Partner gesagt hat, er komme um sieben — aber jetzt behauptet er, er habe neun gesagt und du würdest ihn wieder einmal falsch verstehen. Du zweifelst. Du fragst dich, ob du wirklich so vergesslich bist, wie er sagt. Das ist nicht Alltag, das ist ein Muster. Und es hat einen Namen: Gaslighting.
 
 Wenn du schon länger das Gefühl hast, dass etwas in deiner Beziehung nicht stimmt, aber nie den Finger darauflegen kannst — wenn du häufiger „Entschuldigung" sagst als Luft holst — dann solltest du weiterlesen. Gaslighting zu verstehen ist der erste Schritt, um es zu erkennen. Und Erkennen ist der erste Schritt, um dich zu schützen.
