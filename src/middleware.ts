@@ -151,8 +151,15 @@ export const onRequest = defineMiddleware(async (context, next) => {
       "base-uri 'self'; " +
       "form-action 'self';"
     );
-    // Cache HTML for 1 hour, serve stale for 24h while revalidating
-    newHeaders.set('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400');
+    // Cache HTML für 5 Min (Preis-/Content-Änderungen sollen zügig sichtbar sein),
+    // Stale-while-revalidate für 1h als Fallback.
+    // Sales-/Checkout-Seiten: kürzer cachen, damit Änderungen schnell durchschlagen.
+    const isCritical = path === '/ebook' || path === '/' || path.startsWith('/api/');
+    if (isCritical) {
+      newHeaders.set('Cache-Control', 'public, max-age=60, stale-while-revalidate=300');
+    } else {
+      newHeaders.set('Cache-Control', 'public, max-age=300, stale-while-revalidate=3600');
+    }
   }
 
   // ─── Cache static assets aggressively ──────────────────────
