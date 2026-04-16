@@ -1,0 +1,125 @@
+---
+export const prerender = false;
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+---
+<HerzraumLayout title="Klick-Tracking" active="klicks">
+
+  <section class="hz-kpi-grid">
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Klicks heute</div>
+      <div class="hz-kpi-value" data-kpi="clicks.today">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Klicks · 7 Tage</div>
+      <div class="hz-kpi-value" data-kpi="clicks.week">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Klicks · 30 Tage</div>
+      <div class="hz-kpi-value" data-kpi="clicks.month">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Klicks gesamt</div>
+      <div class="hz-kpi-value" data-kpi="clicks.total">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Ø CTR (Klicks/PV)</div>
+      <div class="hz-kpi-value" data-kpi="ctr">— %</div>
+    </div>
+  </section>
+
+  <div class="hz-grid-2">
+    <div class="hz-card">
+      <h3>Klicks pro Tag · 30 Tage</h3>
+      <div style="position: relative; height: 280px;">
+        <canvas id="chart-daily"></canvas>
+      </div>
+    </div>
+    <div class="hz-card">
+      <h3>Verteilung nach Affiliate</h3>
+      <div style="position: relative; height: 280px;">
+        <canvas id="chart-pie"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <div class="hz-card" style="margin-top: 1rem;">
+    <h3>Top Affiliate-Ziele · 30 Tage</h3>
+    <table class="hz-table" id="table-targets">
+      <thead><tr><th>#</th><th>Affiliate</th><th class="right">Klicks</th><th class="right">% Gesamt</th></tr></thead>
+      <tbody><tr><td colspan="4" class="muted">Lade…</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="hz-card" style="margin-top: 1rem;">
+    <h3>Quell-Artikel · 30 Tage</h3>
+    <p style="color: var(--hz-text-muted); font-size: 0.85rem; margin-bottom: 0.75rem;">Welche Artikel generieren die meisten Affiliate-Klicks?</p>
+    <table class="hz-table" id="table-sources">
+      <thead><tr><th>#</th><th>Quelle</th><th class="right">Klicks</th></tr></thead>
+      <tbody><tr><td colspan="3" class="muted">Lade…</td></tr></tbody>
+    </table>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js" is:inline></script>
+
+  <script is:inline>
+    (function() {
+      const colors = ['#f43f5e', '#22c55e', '#3b82f6', '#8b5cf6', '#f59e0b', '#06b6d4', '#ec4899', '#eab308'];
+
+      function fmtNum(n) { return (n || 0).toLocaleString('de-DE'); }
+      function setKpi(path, v) {
+        document.querySelectorAll('[data-kpi="' + path + '"]').forEach(el => el.textContent = typeof v === 'string' ? v : fmtNum(v));
+      }
+
+      async function load() {
+        const res = await fetch('/api/herzraum/stats?range=30d');
+        const d = await res.json();
+        if (!d.ok) return;
+
+        setKpi('clicks.today', d.kpis.clicks.today);
+        setKpi('clicks.week', d.kpis.clicks.week);
+        setKpi('clicks.month', d.kpis.clicks.month);
+        setKpi('clicks.total', d.kpis.clicks.total);
+        setKpi('ctr', d.ctr + ' %');
+
+        // Daily Chart
+        new Chart(document.getElementById('chart-daily').getContext('2d'), {
+          type: 'line',
+          data: {
+            labels: d.charts.clicksByDay.map(e => e.date.slice(5)),
+            datasets: [{ label: 'Klicks', data: d.charts.clicksByDay.map(e => e.count), borderColor: '#f43f5e', backgroundColor: 'rgba(244,63,94,0.12)', tension: 0.35, fill: true, borderWidth: 2 }],
+          },
+          options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#94a3b8' }, grid: { color: '#2a2a3a' } }, y: { ticks: { color: '#94a3b8', precision: 0 }, grid: { color: '#2a2a3a' }, beginAtZero: true } } },
+        });
+
+        // Pie Chart
+        const targets = Object.entries(d.charts.clicksByTarget || {});
+        new Chart(document.getElementById('chart-pie').getContext('2d'), {
+          type: 'doughnut',
+          data: { labels: targets.map(t => t[0]), datasets: [{ data: targets.map(t => t[1]), backgroundColor: colors.slice(0, targets.length), borderColor: '#1a1a24', borderWidth: 2 }] },
+          options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { labels: { color: '#e2e8f0' }, position: 'right' } } },
+        });
+
+        // Table targets
+        const totalCl = Math.max(1, d.kpis.clicks.month);
+        const tBody = document.querySelector('#table-targets tbody');
+        tBody.innerHTML = d.topClickTargets.length
+          ? d.topClickTargets.map((t, i) => {
+              const pct = ((t.count / totalCl) * 100).toFixed(1);
+              return '<tr><td class="muted">' + (i+1) + '</td><td><strong>' + t.key + '</strong></td><td class="right">' + fmtNum(t.count) + '</td><td class="right muted">' + pct + ' %</td></tr>';
+            }).join('')
+          : '<tr><td colspan="4" class="muted">Noch keine Daten</td></tr>';
+
+        // Sources — brauchen wir Rohdaten
+        const src = await fetch('/api/herzraum/clicks/sources').then(r => r.json()).catch(() => ({ ok: false }));
+        const sBody = document.querySelector('#table-sources tbody');
+        if (src.ok && src.sources.length) {
+          sBody.innerHTML = src.sources.map((s, i) => '<tr><td class="muted">' + (i+1) + '</td><td>' + s.source + '</td><td class="right">' + fmtNum(s.count) + '</td></tr>').join('');
+        } else {
+          sBody.innerHTML = '<tr><td colspan="3" class="muted">Noch keine Daten</td></tr>';
+        }
+      }
+
+      load();
+    })();
+  </script>
+</HerzraumLayout>

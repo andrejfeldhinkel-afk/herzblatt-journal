@@ -84,10 +84,45 @@ const blockedGetPaths = new Set([
   '/api/track-click',  // would expose all click data
 ]);
 
+// ─── Herzraum Auth Guard ────────────────────────────────────────
+// Dynamic import um Circular Deps / Build-Probleme zu vermeiden
+let herzraumVerify: ((t: string | null) => boolean) | null = null;
+let herzraumExtract: ((c: string | null) => string | null) | null = null;
+async function loadHerzraumAuth() {
+  if (herzraumVerify && herzraumExtract) return;
+  const mod = await import('./lib/herzraum-auth');
+  herzraumVerify = mod.verifySession;
+  herzraumExtract = mod.extractToken;
+}
+
+function isHerzraumPublic(path: string): boolean {
+  return path === '/herzraum/login' || path === '/api/herzraum/auth';
+}
+
+function isHerzraumProtected(path: string): boolean {
+  return path === '/herzraum' || path.startsWith('/herzraum/') || path.startsWith('/api/herzraum/');
+}
+
 export const onRequest = defineMiddleware(async (context, next) => {
   const { request, redirect } = context;
   const url = new URL(request.url);
   const path = url.pathname.replace(/\/$/, '') || '/';
+
+  // ─── Herzraum-Dashboard schützen ───────────────────────────
+  if (isHerzraumProtected(path) && !isHerzraumPublic(path)) {
+    await loadHerzraumAuth();
+    const token = herzraumExtract!(request.headers.get('cookie'));
+    if (!herzraumVerify!(token)) {
+      // HTML-Routen → Login-Redirect; API-Routen → 401 JSON
+      if (path.startsWith('/api/')) {
+        return new Response(JSON.stringify({ error: 'Unauthorized' }), {
+          status: 401,
+          headers: { 'Content-Type': 'application/json' },
+        });
+      }
+      return redirect('/herzraum/login', 302);
+    }
+  }
 
   // ─── Redirects ─────────────────────────────────────────────
   if (redirects[path]) {

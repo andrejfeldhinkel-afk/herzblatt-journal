@@ -1,0 +1,80 @@
+---
+export const prerender = false;
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+---
+<HerzraumLayout title="Leser" active="leser">
+
+  <section class="hz-kpi-grid">
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Registriert gesamt</div>
+      <div class="hz-kpi-value" data-kpi="reg.total">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Neu heute</div>
+      <div class="hz-kpi-value" data-kpi="reg.today">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Neu · 7 Tage</div>
+      <div class="hz-kpi-value" data-kpi="reg.week">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Überlappung Newsletter</div>
+      <div class="hz-kpi-value" data-kpi="reg.overlap">—</div>
+    </div>
+  </section>
+
+  <div class="hz-card">
+    <h3>Registrierungen pro Tag · 30 Tage</h3>
+    <div style="position: relative; height: 280px;">
+      <canvas id="chart-reg"></canvas>
+    </div>
+  </div>
+
+  <div class="hz-card" style="margin-top: 1rem;">
+    <h3>Registrierte Leser</h3>
+    <p style="font-size: 0.8rem; color: var(--hz-text-muted); margin-bottom: 0.75rem;">E-Mails sind zum Schutz im UI maskiert.</p>
+    <div style="overflow-x: auto; max-height: 560px; overflow-y: auto;">
+      <table class="hz-table" id="table-reg">
+        <thead><tr><th>E-Mail</th><th>Registriert am</th><th>Quelle</th><th>Newsletter</th></tr></thead>
+        <tbody><tr><td colspan="4" class="muted">Lade…</td></tr></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js" is:inline></script>
+  <script is:inline>
+    (function() {
+      function fmt(n){return (n||0).toLocaleString('de-DE');}
+      function setKpi(p,v){document.querySelectorAll('[data-kpi="'+p+'"]').forEach(el=>el.textContent=fmt(v));}
+      async function load() {
+        const [stats, list] = await Promise.all([
+          fetch('/api/herzraum/stats?range=30d').then(r=>r.json()),
+          fetch('/api/herzraum/readers/list').then(r=>r.json()),
+        ]);
+        if (stats.ok) {
+          setKpi('reg.total', stats.kpis.registrations.total);
+          setKpi('reg.today', stats.kpis.registrations.today);
+          setKpi('reg.week', stats.kpis.registrations.week);
+          new Chart(document.getElementById('chart-reg').getContext('2d'), {
+            type: 'bar',
+            data: { labels: stats.charts.registrationsByDay.map(d=>d.date.slice(5)), datasets: [{ label: 'Registrierungen', data: stats.charts.registrationsByDay.map(d=>d.count), backgroundColor: 'rgba(244,63,94,0.5)', borderColor: '#f43f5e', borderWidth: 1 }] },
+            options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#94a3b8' }, grid: { color: 'transparent' } }, y: { ticks: { color: '#94a3b8', precision: 0 }, grid: { color: '#2a2a3a' }, beginAtZero: true } } },
+          });
+        }
+        if (list.ok) {
+          setKpi('reg.overlap', list.overlap);
+          const rows = [...list.entries].reverse().slice(0, 500);
+          const tbody = document.querySelector('#table-reg tbody');
+          tbody.innerHTML = rows.length
+            ? rows.map(e => {
+                const ts = e.ts ? new Date(e.ts).toLocaleString('de-DE', { day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit' }) : '—';
+                const nl = e.newsletter ? '<span class="hz-badge success">ja</span>' : '<span class="hz-badge muted">nein</span>';
+                return '<tr><td>'+e.email+'</td><td class="muted">'+ts+'</td><td><span class="hz-badge muted">'+(e.source||'unknown')+'</span></td><td>'+nl+'</td></tr>';
+              }).join('')
+            : '<tr><td colspan="4" class="muted">Noch keine Registrierungen</td></tr>';
+        }
+      }
+      load();
+    })();
+  </script>
+</HerzraumLayout>

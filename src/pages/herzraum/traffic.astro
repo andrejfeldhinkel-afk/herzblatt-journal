@@ -1,0 +1,168 @@
+---
+export const prerender = false;
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+---
+<HerzraumLayout title="Traffic" active="traffic">
+
+  <div class="hz-card">
+    <div class="hz-row">
+      <label for="range" style="color: var(--hz-text-muted); font-size: 0.85rem;">Zeitraum:</label>
+      <select id="range">
+        <option value="today">Heute</option>
+        <option value="7d">7 Tage</option>
+        <option value="30d" selected>30 Tage</option>
+        <option value="90d">90 Tage</option>
+      </select>
+      <div class="hz-spacer"></div>
+      <button class="hz-btn" id="export-btn">📥 CSV-Export</button>
+    </div>
+  </div>
+
+  <section class="hz-kpi-grid">
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Aufrufe Zeitraum</div>
+      <div class="hz-kpi-value" data-kpi="pageviews.range">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Ø pro Tag</div>
+      <div class="hz-kpi-value" data-kpi="pageviews.avg">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Einzigartige Artikel</div>
+      <div class="hz-kpi-value" data-kpi="pageviews.unique">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Einzigartige Referrer</div>
+      <div class="hz-kpi-value" data-kpi="pageviews.refs">—</div>
+    </div>
+  </section>
+
+  <div class="hz-card">
+    <h3>Seitenaufrufe pro Tag</h3>
+    <div style="position: relative; height: 280px;">
+      <canvas id="chart-daily"></canvas>
+    </div>
+  </div>
+
+  <div class="hz-grid-2" style="margin-top: 1rem;">
+    <div class="hz-card">
+      <h3>Aufrufe nach Wochentag</h3>
+      <div style="position: relative; height: 240px;">
+        <canvas id="chart-weekday"></canvas>
+      </div>
+    </div>
+    <div class="hz-card">
+      <h3>Aufrufe nach Uhrzeit (UTC)</h3>
+      <div style="position: relative; height: 240px;">
+        <canvas id="chart-hour"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <div class="hz-card" style="margin-top: 1rem;">
+    <h3>Top Artikel</h3>
+    <table class="hz-table" id="table-articles">
+      <thead><tr><th>#</th><th>Pfad</th><th class="right">Aufrufe</th><th class="right">% Gesamt</th></tr></thead>
+      <tbody><tr><td colspan="4" class="muted">Lade…</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="hz-card" style="margin-top: 1rem;">
+    <h3>Referrer</h3>
+    <table class="hz-table" id="table-refs">
+      <thead><tr><th>#</th><th>Quelle</th><th class="right">Aufrufe</th><th class="right">% Gesamt</th></tr></thead>
+      <tbody><tr><td colspan="4" class="muted">Lade…</td></tr></tbody>
+    </table>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js" is:inline></script>
+
+  <script is:inline>
+    (function() {
+      const rangeSel = document.getElementById('range');
+      const exportBtn = document.getElementById('export-btn');
+      let charts = {};
+
+      function fmtNum(n) { return (n || 0).toLocaleString('de-DE'); }
+
+      function setKpi(path, v) {
+        document.querySelectorAll('[data-kpi="' + path + '"]').forEach((el) => el.textContent = fmtNum(v));
+      }
+
+      function renderDailyChart(data) {
+        const el = document.getElementById('chart-daily');
+        if (charts.daily) charts.daily.destroy();
+        charts.daily = new Chart(el.getContext('2d'), {
+          type: 'line',
+          data: { labels: data.map(d => d.date.slice(5)), datasets: [{ label: 'Aufrufe', data: data.map(d => d.count), borderColor: '#f43f5e', backgroundColor: 'rgba(244,63,94,0.12)', tension: 0.35, fill: true, borderWidth: 2 }] },
+          options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#94a3b8' }, grid: { color: '#2a2a3a' } }, y: { ticks: { color: '#94a3b8', precision: 0 }, grid: { color: '#2a2a3a' }, beginAtZero: true } } },
+        });
+      }
+
+      function renderBarChart(id, data, labelKey, valueKey, label) {
+        const el = document.getElementById(id);
+        if (charts[id]) charts[id].destroy();
+        charts[id] = new Chart(el.getContext('2d'), {
+          type: 'bar',
+          data: { labels: data.map(d => d[labelKey]), datasets: [{ label, data: data.map(d => d[valueKey]), backgroundColor: 'rgba(244,63,94,0.5)', borderColor: '#f43f5e', borderWidth: 1 }] },
+          options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#94a3b8' }, grid: { color: 'transparent' } }, y: { ticks: { color: '#94a3b8', precision: 0 }, grid: { color: '#2a2a3a' }, beginAtZero: true } } },
+        });
+      }
+
+      async function load() {
+        const range = rangeSel.value;
+        const res = await fetch('/api/herzraum/stats?range=' + range);
+        if (!res.ok) return;
+        const d = await res.json();
+        if (!d.ok) return;
+
+        // KPIs
+        const rangeCount = d.charts.pageviewsByDay.reduce((s, a) => s + a.count, 0);
+        setKpi('pageviews.range', rangeCount);
+        setKpi('pageviews.avg', Math.round(rangeCount / d.days));
+        setKpi('pageviews.unique', d.topArticles.length);
+        setKpi('pageviews.refs', d.topReferrers.length);
+
+        // Charts
+        renderDailyChart(d.charts.pageviewsByDay);
+        renderBarChart('chart-weekday', d.charts.pageviewsByWeekday, 'day', 'count', 'Aufrufe');
+        renderBarChart('chart-hour', d.charts.pageviewsByHour.map(h => ({ hour: String(h.hour).padStart(2, '0'), count: h.count })), 'hour', 'count', 'Aufrufe');
+
+        // Tabellen
+        const total = Math.max(1, rangeCount);
+        const artBody = document.querySelector('#table-articles tbody');
+        artBody.innerHTML = d.topArticles.length
+          ? d.topArticles.map((a, i) => {
+              const pct = ((a.count / total) * 100).toFixed(1);
+              return '<tr><td class="muted">' + (i+1) + '</td><td><a href="' + a.slug + '" target="_blank" rel="noopener">' + a.slug + '</a></td><td class="right">' + fmtNum(a.count) + '</td><td class="right muted">' + pct + ' %</td></tr>';
+            }).join('')
+          : '<tr><td colspan="4" class="muted">Noch keine Daten</td></tr>';
+
+        const refBody = document.querySelector('#table-refs tbody');
+        refBody.innerHTML = d.topReferrers.length
+          ? d.topReferrers.map((r, i) => {
+              const pct = ((r.count / total) * 100).toFixed(1);
+              return '<tr><td class="muted">' + (i+1) + '</td><td>' + r.key + '</td><td class="right">' + fmtNum(r.count) + '</td><td class="right muted">' + pct + ' %</td></tr>';
+            }).join('')
+          : '<tr><td colspan="4" class="muted">Noch keine Daten</td></tr>';
+      }
+
+      rangeSel.addEventListener('change', load);
+      exportBtn.addEventListener('click', async () => {
+        // CSV-Export aus aktuell geladenen Daten
+        const range = rangeSel.value;
+        const res = await fetch('/api/herzraum/stats?range=' + range);
+        const d = await res.json();
+        if (!d.ok) return;
+        const lines = ['slug,aufrufe'];
+        d.topArticles.forEach(a => lines.push('"' + a.slug + '",' + a.count));
+        const blob = new Blob([lines.join('\n')], { type: 'text/csv;charset=utf-8' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url; a.download = 'traffic-' + range + '.csv'; a.click();
+        URL.revokeObjectURL(url);
+      });
+      load();
+    })();
+  </script>
+</HerzraumLayout>

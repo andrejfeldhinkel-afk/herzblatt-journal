@@ -1,0 +1,259 @@
+---
+export const prerender = false;
+
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+import { getCollection } from 'astro:content';
+
+// Artikel-Daten holen
+const blog = await getCollection('blog');
+
+// Meta pro Artikel
+interface ArticleMeta {
+  slug: string;
+  title: string;
+  author: string;
+  date: string;
+  tags: string[];
+  wordCount: number;
+  hasImage: boolean;
+  thin: boolean;
+}
+
+const articles: ArticleMeta[] = blog.map((e) => {
+  const data = e.data as any;
+  const rawDate = data.date || data.pubDate || data.updated;
+  const dateStr = rawDate
+    ? (rawDate instanceof Date ? rawDate.toISOString().slice(0,10) : String(rawDate).slice(0,10))
+    : '';
+  const body = (e as any).body || '';
+  const words = body.split(/\s+/).filter(Boolean).length;
+  return {
+    slug: e.slug,
+    title: data.title || e.slug,
+    author: data.author || 'redaktion',
+    date: dateStr,
+    tags: Array.isArray(data.tags) ? data.tags : [],
+    wordCount: words,
+    hasImage: !!data.image,
+    thin: words < 800,
+  };
+}).sort((a, b) => b.date.localeCompare(a.date));
+
+// Stats
+const total = articles.length;
+const noImage = articles.filter(a => !a.hasImage).length;
+const noTags = articles.filter(a => !a.tags.length).length;
+const thinContent = articles.filter(a => a.thin).length;
+const byAuthor: Record<string, number> = {};
+articles.forEach(a => { byAuthor[a.author] = (byAuthor[a.author] || 0) + 1; });
+const authors = Object.keys(byAuthor).sort();
+const tagsAll = new Set<string>();
+articles.forEach(a => a.tags.forEach(t => tagsAll.add(t)));
+const tagList = Array.from(tagsAll).sort();
+
+// Encode for JS (vermeidet XSS, reduziert Payload)
+const articlesJson = JSON.stringify(articles);
+const byAuthorJson = JSON.stringify(byAuthor);
+---
+<HerzraumLayout title="Artikel" active="artikel">
+
+  <section class="hz-kpi-grid">
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Gesamt</div>
+      <div class="hz-kpi-value">{total.toLocaleString('de-DE')}</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Ohne Bild</div>
+      <div class="hz-kpi-value">{noImage.toLocaleString('de-DE')}</div>
+      <div class="hz-kpi-delta flat">{((noImage/total)*100).toFixed(1)} %</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Ohne Tags</div>
+      <div class="hz-kpi-value">{noTags.toLocaleString('de-DE')}</div>
+      <div class="hz-kpi-delta flat">{((noTags/total)*100).toFixed(1)} %</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Thin Content (&lt;800 W.)</div>
+      <div class="hz-kpi-value">{thinContent.toLocaleString('de-DE')}</div>
+      <div class="hz-kpi-delta flat">{((thinContent/total)*100).toFixed(1)} %</div>
+    </div>
+  </section>
+
+  <div class="hz-grid-2">
+    <div class="hz-card">
+      <h3>Artikel nach Autor</h3>
+      <div style="position: relative; height: 260px;">
+        <canvas id="chart-authors"></canvas>
+      </div>
+    </div>
+    <div class="hz-card">
+      <h3>Filter</h3>
+      <div style="display: grid; gap: 0.75rem;">
+        <div>
+          <label style="font-size: 0.75rem; color: var(--hz-text-muted); text-transform: uppercase; letter-spacing: 0.08em;">Suche</label>
+          <input type="search" id="search" placeholder="Titel oder Slug …" style="width: 100%; margin-top: 0.25rem;" />
+        </div>
+        <div class="hz-row">
+          <select id="author-filter">
+            <option value="">Alle Autoren</option>
+            {authors.map(a => <option value={a}>{a}</option>)}
+          </select>
+          <select id="tag-filter">
+            <option value="">Alle Tags</option>
+            {tagList.slice(0, 50).map(t => <option value={t}>{t}</option>)}
+          </select>
+        </div>
+        <div class="hz-row">
+          <label style="font-size: 0.8rem;"><input type="checkbox" id="no-image-filter" /> Nur ohne Bild</label>
+          <label style="font-size: 0.8rem;"><input type="checkbox" id="thin-filter" /> Nur Thin Content</label>
+          <div class="hz-spacer"></div>
+          <select id="sort">
+            <option value="date-desc">Neueste zuerst</option>
+            <option value="date-asc">Älteste zuerst</option>
+            <option value="words-desc">Längste zuerst</option>
+            <option value="words-asc">Kürzeste zuerst</option>
+            <option value="title-asc">Titel A–Z</option>
+          </select>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="hz-card" style="margin-top: 1rem;">
+    <div class="hz-row" style="margin-bottom: 0.5rem;">
+      <h3 style="margin: 0;">Artikel</h3>
+      <div class="hz-spacer"></div>
+      <span style="font-size: 0.85rem; color: var(--hz-text-muted);" id="count-info">—</span>
+    </div>
+    <div style="overflow-x: auto;">
+      <table class="hz-table" id="articles-table">
+        <thead>
+          <tr>
+            <th>Titel</th>
+            <th>Autor</th>
+            <th>Datum</th>
+            <th>Tags</th>
+            <th class="right">Wörter</th>
+            <th class="right">Aufrufe 30 T.</th>
+            <th>Aktion</th>
+          </tr>
+        </thead>
+        <tbody><tr><td colspan="7" class="muted">Lade…</td></tr></tbody>
+      </table>
+    </div>
+    <div class="hz-row" style="margin-top: 1rem; justify-content: center;">
+      <button class="hz-btn" id="prev">← Zurück</button>
+      <span id="page-info" style="padding: 0 1rem; color: var(--hz-text-muted);">Seite 1</span>
+      <button class="hz-btn" id="next">Weiter →</button>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js" is:inline></script>
+
+  <script is:inline define:vars={{ articlesJson, byAuthorJson }}>
+    (function() {
+      const articles = JSON.parse(articlesJson);
+      const byAuthor = JSON.parse(byAuthorJson);
+      const search = document.getElementById('search');
+      const authorFilter = document.getElementById('author-filter');
+      const tagFilter = document.getElementById('tag-filter');
+      const noImageFilter = document.getElementById('no-image-filter');
+      const thinFilter = document.getElementById('thin-filter');
+      const sort = document.getElementById('sort');
+      const tbody = document.querySelector('#articles-table tbody');
+      const countInfo = document.getElementById('count-info');
+      const prevBtn = document.getElementById('prev');
+      const nextBtn = document.getElementById('next');
+      const pageInfo = document.getElementById('page-info');
+      const PAGE_SIZE = 50;
+      let page = 0;
+      let viewsMap = {};
+
+      // Chart: Autor-Verteilung
+      const colors = ['#f43f5e', '#22c55e', '#3b82f6', '#8b5cf6', '#f59e0b', '#06b6d4', '#ec4899', '#eab308', '#10b981', '#6366f1'];
+      const authorKeys = Object.keys(byAuthor);
+      const canvas = document.getElementById('chart-authors');
+      if (canvas) {
+        new Chart(canvas.getContext('2d'), {
+          type: 'doughnut',
+          data: { labels: authorKeys, datasets: [{ data: authorKeys.map(k => byAuthor[k]), backgroundColor: colors.slice(0, authorKeys.length), borderColor: '#1a1a24', borderWidth: 2 }] },
+          options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { labels: { color: '#e2e8f0', font: { size: 12 } }, position: 'right' } } },
+        });
+      }
+
+      // Views per slug → holen
+      fetch('/api/herzraum/stats?range=30d').then(r => r.json()).then(d => {
+        if (d.ok) {
+          d.topArticles.forEach(a => { viewsMap[a.slug] = a.count; });
+          render();
+        }
+      }).catch(() => {});
+
+      function filtered() {
+        const q = search.value.trim().toLowerCase();
+        const auth = authorFilter.value;
+        const tag = tagFilter.value;
+        const noImg = noImageFilter.checked;
+        const thin = thinFilter.checked;
+        let list = articles.filter(a => {
+          if (q && !a.title.toLowerCase().includes(q) && !a.slug.toLowerCase().includes(q)) return false;
+          if (auth && a.author !== auth) return false;
+          if (tag && !a.tags.includes(tag)) return false;
+          if (noImg && a.hasImage) return false;
+          if (thin && !a.thin) return false;
+          return true;
+        });
+        switch (sort.value) {
+          case 'date-asc': list.sort((a, b) => a.date.localeCompare(b.date)); break;
+          case 'words-desc': list.sort((a, b) => b.wordCount - a.wordCount); break;
+          case 'words-asc': list.sort((a, b) => a.wordCount - b.wordCount); break;
+          case 'title-asc': list.sort((a, b) => a.title.localeCompare(b.title)); break;
+          default: list.sort((a, b) => b.date.localeCompare(a.date));
+        }
+        return list;
+      }
+
+      function render() {
+        const list = filtered();
+        const totalPages = Math.max(1, Math.ceil(list.length / PAGE_SIZE));
+        if (page >= totalPages) page = totalPages - 1;
+        if (page < 0) page = 0;
+        const slice = list.slice(page * PAGE_SIZE, (page + 1) * PAGE_SIZE);
+        tbody.innerHTML = slice.length
+          ? slice.map(a => {
+              const views = viewsMap['/blog/' + a.slug] || 0;
+              const tagStr = a.tags.slice(0, 3).map(t => '<span class="hz-badge muted">' + t + '</span>').join(' ');
+              const imgBadge = a.hasImage ? '' : '<span class="hz-badge warn">kein Bild</span>';
+              const thinBadge = a.thin ? '<span class="hz-badge danger">thin</span>' : '';
+              return '<tr>' +
+                '<td><div style="max-width: 420px;"><strong>' + esc(a.title) + '</strong> ' + imgBadge + thinBadge + '<div style="font-size: 0.75rem; color: var(--hz-text-dim); margin-top: 2px;">' + a.slug + '</div></div></td>' +
+                '<td>' + a.author + '</td>' +
+                '<td class="muted">' + a.date + '</td>' +
+                '<td>' + tagStr + '</td>' +
+                '<td class="right">' + a.wordCount.toLocaleString('de-DE') + '</td>' +
+                '<td class="right">' + views.toLocaleString('de-DE') + '</td>' +
+                '<td><a href="/blog/' + a.slug + '" target="_blank" rel="noopener">ansehen ↗</a></td>' +
+                '</tr>';
+            }).join('')
+          : '<tr><td colspan="7" class="muted">Keine Treffer</td></tr>';
+        countInfo.textContent = list.length.toLocaleString('de-DE') + ' Artikel · Seite ' + (page + 1) + ' / ' + totalPages;
+        pageInfo.textContent = 'Seite ' + (page + 1) + ' / ' + totalPages;
+        prevBtn.disabled = page === 0;
+        nextBtn.disabled = page >= totalPages - 1;
+      }
+
+      function esc(s) {
+        return String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+      }
+
+      [search, authorFilter, tagFilter, noImageFilter, thinFilter, sort].forEach(el => {
+        el.addEventListener('input', () => { page = 0; render(); });
+        el.addEventListener('change', () => { page = 0; render(); });
+      });
+      prevBtn.addEventListener('click', () => { page--; render(); });
+      nextBtn.addEventListener('click', () => { page++; render(); });
+
+      render();
+    })();
+  </script>
+</HerzraumLayout>

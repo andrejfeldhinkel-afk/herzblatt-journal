@@ -55,7 +55,8 @@ export default defineConfig({
       !page.includes('/404') &&
       !page.includes('/suche') &&
       !page.includes('/quiz') &&
-      !page.includes('/dating-typ-test'),
+      !page.includes('/dating-typ-test') &&
+      !page.includes('/herzraum'),
     changefreq: 'weekly',
     lastmod: new Date(),
     serialize(item) {

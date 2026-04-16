@@ -1,0 +1,171 @@
+---
+export const prerender = false;
+
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+import { getCollection } from 'astro:content';
+
+// Artikel-Anzahl live aus Collection
+const blog = await getCollection('blog');
+const articleCount = blog.length;
+---
+<HerzraumLayout title="Dashboard" active="overview">
+  <section class="hz-kpi-grid">
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Seitenaufrufe heute</div>
+      <div class="hz-kpi-value" data-kpi="pageviews.today">—</div>
+      <div class="hz-kpi-delta flat" data-kpi-delta="pageviews">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Seitenaufrufe · 7 Tage</div>
+      <div class="hz-kpi-value" data-kpi="pageviews.week">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Artikel gesamt</div>
+      <div class="hz-kpi-value">{articleCount.toLocaleString('de-DE')}</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Newsletter-Abonnenten</div>
+      <div class="hz-kpi-value" data-kpi="newsletter.total">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Registrierte User</div>
+      <div class="hz-kpi-value" data-kpi="registrations.total">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Affiliate-Klicks heute</div>
+      <div class="hz-kpi-value" data-kpi="clicks.today">—</div>
+    </div>
+  </section>
+
+  <div class="hz-card">
+    <h3>Seitenaufrufe · letzte 30 Tage</h3>
+    <div style="position: relative; height: 280px;">
+      <canvas id="chart-pageviews"></canvas>
+    </div>
+  </div>
+
+  <div class="hz-grid-2" style="margin-top: 1rem;">
+    <div class="hz-card">
+      <h3>Top 10 Artikel · 30 Tage</h3>
+      <table class="hz-table" id="table-top-articles">
+        <thead><tr><th>#</th><th>Pfad</th><th class="right">Aufrufe</th></tr></thead>
+        <tbody><tr><td colspan="3" class="muted">Lade…</td></tr></tbody>
+      </table>
+    </div>
+    <div class="hz-card">
+      <h3>Top Referrer · 30 Tage</h3>
+      <table class="hz-table" id="table-top-referrers">
+        <thead><tr><th>#</th><th>Quelle</th><th class="right">Aufrufe</th></tr></thead>
+        <tbody><tr><td colspan="3" class="muted">Lade…</td></tr></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="hz-card" style="margin-top: 1rem;">
+    <h3>Letzte Aktivität</h3>
+    <table class="hz-table" id="table-activity">
+      <thead><tr><th>Zeit</th><th>Pfad</th><th>Referrer</th></tr></thead>
+      <tbody><tr><td colspan="3" class="muted">Lade…</td></tr></tbody>
+    </table>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js" is:inline></script>
+
+  <script is:inline>
+    (function() {
+      const BASE = '/api/herzraum/stats';
+      let chart = null;
+
+      function setKpi(path, value) {
+        const els = document.querySelectorAll('[data-kpi="' + path + '"]');
+        els.forEach((el) => { el.textContent = (value || 0).toLocaleString('de-DE'); });
+      }
+
+      function fmtTs(iso) {
+        try { return new Date(iso).toLocaleString('de-DE', { hour: '2-digit', minute: '2-digit', day: '2-digit', month: '2-digit' }); }
+        catch { return '—'; }
+      }
+
+      function renderTable(id, rows) {
+        const tbody = document.querySelector('#' + id + ' tbody');
+        if (!tbody) return;
+        if (!rows.length) {
+          tbody.innerHTML = '<tr><td colspan="3" class="muted">Noch keine Daten</td></tr>';
+          return;
+        }
+        tbody.innerHTML = rows.join('');
+      }
+
+      function renderChart(data) {
+        const canvas = document.getElementById('chart-pageviews');
+        if (!canvas) return;
+        const ctx = canvas.getContext('2d');
+        const labels = data.map((d) => d.date.slice(5));
+        const values = data.map((d) => d.count);
+        if (chart) chart.destroy();
+        chart = new Chart(ctx, {
+          type: 'line',
+          data: {
+            labels,
+            datasets: [{
+              label: 'Seitenaufrufe',
+              data: values,
+              borderColor: '#f43f5e',
+              backgroundColor: 'rgba(244,63,94,0.12)',
+              borderWidth: 2,
+              pointRadius: 3,
+              pointHoverRadius: 6,
+              fill: true,
+              tension: 0.35,
+            }],
+          },
+          options: {
+            responsive: true, maintainAspectRatio: false,
+            plugins: { legend: { display: false } },
+            scales: {
+              x: { ticks: { color: '#94a3b8', maxRotation: 0 }, grid: { color: '#2a2a3a' } },
+              y: { ticks: { color: '#94a3b8', precision: 0 }, grid: { color: '#2a2a3a' }, beginAtZero: true },
+            },
+          },
+        });
+      }
+
+      async function load() {
+        try {
+          const res = await fetch(BASE + '?range=30d');
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          const d = await res.json();
+          if (!d.ok) throw new Error('API error');
+
+          setKpi('pageviews.today', d.kpis.pageviews.today);
+          setKpi('pageviews.week', d.kpis.pageviews.week);
+          setKpi('newsletter.total', d.kpis.newsletter.total);
+          setKpi('registrations.total', d.kpis.registrations.total);
+          setKpi('clicks.today', d.kpis.clicks.today);
+
+          renderChart(d.charts.pageviewsByDay);
+
+          renderTable('table-top-articles',
+            d.topArticles.map((a, i) => {
+              const slug = a.slug || '—';
+              return '<tr><td class="muted">' + (i + 1) + '</td><td><a href="' + slug + '" target="_blank" rel="noopener">' + slug + '</a></td><td class="right">' + a.count.toLocaleString('de-DE') + '</td></tr>';
+            })
+          );
+
+          renderTable('table-top-referrers',
+            d.topReferrers.map((r, i) => '<tr><td class="muted">' + (i + 1) + '</td><td>' + r.key + '</td><td class="right">' + r.count.toLocaleString('de-DE') + '</td></tr>')
+          );
+
+          renderTable('table-activity',
+            d.recentActivity.map((a) => '<tr><td class="muted">' + fmtTs(a.ts) + '</td><td><a href="' + a.path + '" target="_blank" rel="noopener">' + a.path + '</a></td><td>' + a.referrer + '</td></tr>')
+          );
+        } catch (e) {
+          console.error('Stats load failed:', e);
+        }
+      }
+
+      load();
+      setInterval(load, 60_000);
+    })();
+  </script>
+</HerzraumLayout>

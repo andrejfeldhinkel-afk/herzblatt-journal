@@ -1,6 +1,7 @@
 export const prerender = false;
 
 import type { APIRoute } from 'astro';
+import { appendJSON, type RegistrationEvent } from '../../lib/herzraum-data';
 
 // External API URL from environment variable (fallback for backward compat)
 const REGISTER_API_URL = import.meta.env.REGISTER_API_URL || 'https://be.xloves.com/api/auth/register';
@@ -76,6 +77,22 @@ export const POST: APIRoute = async ({ request }) => {
     });
 
     const data = await response.json();
+
+    // Bei Erfolg auch lokal tracken (für Herzraum-Dashboard).
+    // Tracking-Fehler dürfen den Response nicht blockieren.
+    if (response.ok) {
+      try {
+        const source = typeof body.source === 'string' && body.source.length < 40
+          ? body.source
+          : 'unknown';
+        const event: RegistrationEvent = {
+          ts: new Date().toISOString(),
+          email: email.toLowerCase(),
+          source,
+        };
+        appendJSON<RegistrationEvent>('registrations.json', event);
+      } catch { /* ignored */ }
+    }
 
     return new Response(JSON.stringify(data), {
       status: response.status,

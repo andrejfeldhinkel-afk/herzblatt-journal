@@ -1,0 +1,344 @@
+---
+/**
+ * HerzraumLayout — Dashboard-Layout mit Dark-Sidebar + Header
+ *
+ * Props:
+ *  - title:  Seiten-Titel (wird im Header + im <title> verwendet)
+ *  - active: Nav-Key für aktives Highlight ('overview', 'traffic', ...)
+ */
+export interface Props {
+  title: string;
+  active: 'overview' | 'artikel' | 'traffic' | 'klicks' | 'newsletter' | 'leser' | 'einstellungen';
+}
+
+const { title, active } = Astro.props;
+
+const navItems = [
+  { key: 'overview',      href: '/herzraum',                label: 'Dashboard',    icon: 'dashboard' },
+  { key: 'artikel',       href: '/herzraum/artikel',        label: 'Artikel',      icon: 'article' },
+  { key: 'traffic',       href: '/herzraum/traffic',        label: 'Traffic',      icon: 'traffic' },
+  { key: 'klicks',        href: '/herzraum/klicks',         label: 'Klicks',       icon: 'click' },
+  { key: 'newsletter',    href: '/herzraum/newsletter',     label: 'Newsletter',   icon: 'mail' },
+  { key: 'leser',         href: '/herzraum/leser',          label: 'Leser',        icon: 'users' },
+  { key: 'einstellungen', href: '/herzraum/einstellungen',  label: 'Einstellungen',icon: 'settings' },
+] as const;
+---
+<!DOCTYPE html>
+<html lang="de" class="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>{title} · Herzraum</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="preload" href="/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/fonts/playfair-latin.woff2" as="font" type="font/woff2" crossorigin />
+  <style is:global>
+    @font-face { font-family: 'DM Sans'; src: url('/fonts/dm-sans-latin.woff2') format('woff2'); font-display: swap; }
+    @font-face { font-family: 'Playfair Display'; src: url('/fonts/playfair-latin.woff2') format('woff2'); font-display: swap; font-weight: 400 900; }
+    :root {
+      --hz-bg: #0f0f13;
+      --hz-surface: #1a1a24;
+      --hz-surface-2: #232330;
+      --hz-border: #2a2a3a;
+      --hz-primary: #f43f5e;
+      --hz-primary-dark: #e11d48;
+      --hz-primary-light: rgba(244,63,94,0.12);
+      --hz-text: #e2e8f0;
+      --hz-text-muted: #94a3b8;
+      --hz-text-dim: #64748b;
+      --hz-success: #10b981;
+      --hz-warning: #f59e0b;
+      --hz-danger: #ef4444;
+      --hz-info: #38bdf8;
+      --hz-shadow: 0 1px 2px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { height: 100%; }
+    body {
+      font-family: 'DM Sans', system-ui, -apple-system, sans-serif;
+      background: var(--hz-bg);
+      color: var(--hz-text);
+      -webkit-font-smoothing: antialiased;
+      font-size: 14px;
+      line-height: 1.55;
+    }
+    h1, h2, h3, h4 { font-family: 'Playfair Display', Georgia, serif; letter-spacing: -0.02em; }
+    a { color: inherit; text-decoration: none; }
+    input, select, textarea, button { font-family: inherit; color: inherit; }
+
+    /* ── Layout ─────────────────────────────────────────── */
+    .hz-layout { display: grid; grid-template-columns: 240px 1fr; min-height: 100vh; }
+    .hz-sidebar {
+      background: var(--hz-surface);
+      border-right: 1px solid var(--hz-border);
+      padding: 1.5rem 1rem;
+      position: sticky; top: 0; height: 100vh;
+      display: flex; flex-direction: column;
+    }
+    .hz-brand {
+      display: flex; align-items: center; gap: 0.65rem;
+      padding: 0 0.5rem 1.5rem;
+      border-bottom: 1px solid var(--hz-border);
+      margin-bottom: 1rem;
+    }
+    .hz-brand-mark {
+      width: 36px; height: 36px; border-radius: 50%;
+      background: linear-gradient(135deg, #fb7185, var(--hz-primary));
+      display: flex; align-items: center; justify-content: center;
+      font-size: 18px;
+    }
+    .hz-brand-text h2 { font-size: 1rem; font-weight: 800; font-family: 'Playfair Display', serif; }
+    .hz-brand-text p { font-size: 0.7rem; color: var(--hz-text-dim); text-transform: uppercase; letter-spacing: 0.15em; margin-top: 1px; }
+
+    .hz-nav { flex: 1; display: flex; flex-direction: column; gap: 2px; }
+    .hz-nav a {
+      display: flex; align-items: center; gap: 0.7rem;
+      padding: 0.65rem 0.8rem;
+      border-radius: 0.5rem;
+      color: var(--hz-text-muted);
+      font-weight: 500;
+      transition: background 0.1s, color 0.1s;
+    }
+    .hz-nav a:hover { background: var(--hz-surface-2); color: var(--hz-text); }
+    .hz-nav a.active { background: var(--hz-primary-light); color: var(--hz-primary); }
+    .hz-nav a svg { width: 18px; height: 18px; flex-shrink: 0; }
+
+    .hz-logout {
+      margin-top: 1rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--hz-border);
+    }
+    .hz-logout a {
+      display: flex; align-items: center; gap: 0.7rem;
+      padding: 0.65rem 0.8rem;
+      border-radius: 0.5rem;
+      color: var(--hz-text-dim);
+      font-weight: 500;
+    }
+    .hz-logout a:hover { background: rgba(239,68,68,0.1); color: var(--hz-danger); }
+
+    /* ── Main ───────────────────────────────────────────── */
+    .hz-main { padding: 1.5rem 2rem 3rem; }
+    .hz-header {
+      display: flex; justify-content: space-between; align-items: center;
+      margin-bottom: 2rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid var(--hz-border);
+    }
+    .hz-header h1 { font-size: 1.5rem; font-weight: 800; }
+    .hz-header-meta { text-align: right; font-size: 0.8rem; color: var(--hz-text-muted); }
+    .hz-header-meta time { color: var(--hz-text); font-variant-numeric: tabular-nums; }
+
+    /* ── Cards ──────────────────────────────────────────── */
+    .hz-card {
+      background: var(--hz-surface);
+      border: 1px solid var(--hz-border);
+      border-radius: 0.75rem;
+      padding: 1.25rem;
+      box-shadow: var(--hz-shadow);
+    }
+    .hz-card + .hz-card { margin-top: 1rem; }
+    .hz-card h3 { font-size: 1rem; font-weight: 700; margin-bottom: 0.75rem; }
+
+    /* ── KPI Cards ──────────────────────────────────────── */
+    .hz-kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1rem; margin-bottom: 1.5rem; }
+    .hz-kpi {
+      background: var(--hz-surface);
+      border: 1px solid var(--hz-border);
+      border-radius: 0.75rem;
+      padding: 1.1rem;
+      position: relative;
+      overflow: hidden;
+    }
+    .hz-kpi-label { font-size: 0.75rem; color: var(--hz-text-muted); text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 0.5rem; }
+    .hz-kpi-value { font-size: 1.75rem; font-weight: 800; font-family: 'Playfair Display', serif; line-height: 1.1; }
+    .hz-kpi-delta { font-size: 0.75rem; margin-top: 0.25rem; display: flex; align-items: center; gap: 0.25rem; }
+    .hz-kpi-delta.up { color: var(--hz-success); }
+    .hz-kpi-delta.down { color: var(--hz-danger); }
+    .hz-kpi-delta.flat { color: var(--hz-text-dim); }
+
+    /* ── Table ──────────────────────────────────────────── */
+    .hz-table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
+    .hz-table th, .hz-table td { padding: 0.65rem 0.75rem; text-align: left; }
+    .hz-table thead th {
+      background: var(--hz-surface-2);
+      color: var(--hz-text-muted);
+      font-weight: 600;
+      text-transform: uppercase;
+      font-size: 0.7rem;
+      letter-spacing: 0.08em;
+      border-bottom: 1px solid var(--hz-border);
+      position: sticky; top: 0;
+    }
+    .hz-table tbody tr { border-bottom: 1px solid var(--hz-border); }
+    .hz-table tbody tr:nth-child(even) { background: rgba(255,255,255,0.01); }
+    .hz-table tbody tr:hover { background: var(--hz-primary-light); }
+    .hz-table tbody tr:last-child { border-bottom: none; }
+    .hz-table td a { color: var(--hz-primary); }
+    .hz-table td a:hover { text-decoration: underline; }
+    .hz-table .muted { color: var(--hz-text-dim); }
+    .hz-table .right { text-align: right; }
+
+    /* ── Tags / Badges ──────────────────────────────────── */
+    .hz-badge { display: inline-block; padding: 0.15rem 0.5rem; border-radius: 999px; font-size: 0.7rem; font-weight: 600; }
+    .hz-badge.success { background: rgba(16,185,129,0.15); color: var(--hz-success); }
+    .hz-badge.warn { background: rgba(245,158,11,0.15); color: var(--hz-warning); }
+    .hz-badge.danger { background: rgba(239,68,68,0.15); color: var(--hz-danger); }
+    .hz-badge.info { background: rgba(56,189,248,0.15); color: var(--hz-info); }
+    .hz-badge.muted { background: var(--hz-surface-2); color: var(--hz-text-muted); }
+
+    /* ── Buttons ────────────────────────────────────────── */
+    .hz-btn {
+      display: inline-flex; align-items: center; gap: 0.4rem;
+      padding: 0.55rem 1rem;
+      border-radius: 0.5rem;
+      border: 1px solid var(--hz-border);
+      background: var(--hz-surface-2);
+      color: var(--hz-text);
+      font-weight: 600; font-size: 0.85rem;
+      cursor: pointer;
+      transition: background 0.1s, border-color 0.1s;
+    }
+    .hz-btn:hover { background: var(--hz-primary-light); border-color: var(--hz-primary); }
+    .hz-btn.primary {
+      background: linear-gradient(135deg, var(--hz-primary), var(--hz-primary-dark));
+      border: none; color: white;
+    }
+    .hz-btn.primary:hover { box-shadow: 0 4px 12px rgba(244,63,94,0.3); }
+    .hz-btn.danger { background: rgba(239,68,68,0.15); color: var(--hz-danger); border-color: rgba(239,68,68,0.3); }
+    .hz-btn.danger:hover { background: rgba(239,68,68,0.25); }
+
+    /* ── Grid Utilities ─────────────────────────────────── */
+    .hz-grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+    .hz-grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+    .hz-row { display: flex; gap: 0.75rem; align-items: center; flex-wrap: wrap; }
+    .hz-spacer { flex: 1; }
+
+    /* ── Inputs ─────────────────────────────────────────── */
+    input[type="text"], input[type="email"], input[type="password"], input[type="search"], select {
+      background: var(--hz-bg);
+      border: 1px solid var(--hz-border);
+      border-radius: 0.4rem;
+      padding: 0.5rem 0.75rem;
+      color: var(--hz-text);
+      font-size: 0.85rem;
+      outline: none;
+      transition: border-color 0.1s;
+    }
+    input:focus, select:focus { border-color: var(--hz-primary); }
+
+    /* ── Responsive ─────────────────────────────────────── */
+    @media (max-width: 900px) {
+      .hz-layout { grid-template-columns: 1fr; }
+      .hz-sidebar {
+        position: fixed; top: 0; left: 0;
+        width: 240px; z-index: 100;
+        transform: translateX(-100%);
+        transition: transform 0.25s;
+      }
+      .hz-sidebar.open { transform: translateX(0); }
+      .hz-menu-btn {
+        position: fixed; top: 1rem; left: 1rem; z-index: 101;
+        display: flex; align-items: center; justify-content: center;
+        width: 40px; height: 40px;
+        border-radius: 0.5rem; border: 1px solid var(--hz-border);
+        background: var(--hz-surface); color: var(--hz-text);
+        cursor: pointer;
+      }
+      .hz-main { padding: 4rem 1rem 3rem; }
+      .hz-grid-2, .hz-grid-3 { grid-template-columns: 1fr; }
+    }
+    @media (min-width: 901px) {
+      .hz-menu-btn { display: none; }
+    }
+
+    /* Scrollbar Dark Theme */
+    ::-webkit-scrollbar { width: 10px; height: 10px; }
+    ::-webkit-scrollbar-track { background: var(--hz-bg); }
+    ::-webkit-scrollbar-thumb { background: var(--hz-border); border-radius: 5px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--hz-text-dim); }
+  </style>
+  <slot name="head" />
+</head>
+<body>
+  <button class="hz-menu-btn" id="hz-menu-btn" aria-label="Menü">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+  </button>
+
+  <div class="hz-layout">
+    <aside class="hz-sidebar" id="hz-sidebar">
+      <div class="hz-brand">
+        <div class="hz-brand-mark">💕</div>
+        <div class="hz-brand-text">
+          <h2>Herzblatt</h2>
+          <p>Herzraum</p>
+        </div>
+      </div>
+
+      <nav class="hz-nav">
+        {navItems.map((item) => (
+          <a href={item.href} class={active === item.key ? 'active' : ''}>
+            {item.icon === 'dashboard' && <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>}
+            {item.icon === 'article' && <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>}
+            {item.icon === 'traffic' && <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>}
+            {item.icon === 'click' && <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 9l5 12 1.774-5.226L21 14 9 9z"/><path d="M16.071 16.071l4.243 4.243"/><path d="M7.188 2.239l.777 2.897M5.136 7.965l-2.898-.777M13.95 4.05l-2.122 2.122m-5.657 5.656l-2.12 2.122"/></svg>}
+            {item.icon === 'mail' && <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>}
+            {item.icon === 'users' && <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>}
+            {item.icon === 'settings' && <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>}
+            <span>{item.label}</span>
+          </a>
+        ))}
+      </nav>
+
+      <div class="hz-logout">
+        <a href="/api/herzraum/logout">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" y1="12" x2="9" y2="12"/></svg>
+          <span>Abmelden</span>
+        </a>
+      </div>
+    </aside>
+
+    <main class="hz-main">
+      <header class="hz-header">
+        <h1>{title}</h1>
+        <div class="hz-header-meta">
+          <div id="hz-welcome">Willkommen zurück</div>
+          <time id="hz-clock">—</time>
+        </div>
+      </header>
+
+      <slot />
+    </main>
+  </div>
+
+  <script is:inline>
+    // Live-Clock im Header
+    (function() {
+      const el = document.getElementById('hz-clock');
+      if (!el) return;
+      function tick() {
+        const d = new Date();
+        const s = d.toLocaleString('de-DE', {
+          weekday: 'short', day: '2-digit', month: 'short',
+          hour: '2-digit', minute: '2-digit', second: '2-digit'
+        });
+        el.textContent = s;
+      }
+      tick(); setInterval(tick, 1000);
+    })();
+    // Sidebar Toggle (mobile)
+    (function() {
+      const btn = document.getElementById('hz-menu-btn');
+      const side = document.getElementById('hz-sidebar');
+      if (!btn || !side) return;
+      btn.addEventListener('click', () => side.classList.toggle('open'));
+      document.addEventListener('click', (e) => {
+        if (!side.contains(e.target) && e.target !== btn && !btn.contains(e.target)) {
+          side.classList.remove('open');
+        }
+      });
+    })();
+  </script>
+</body>
+</html>

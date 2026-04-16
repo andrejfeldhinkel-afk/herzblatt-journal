@@ -1,0 +1,115 @@
+---
+export const prerender = false;
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+---
+<HerzraumLayout title="Einstellungen" active="einstellungen">
+
+  <div class="hz-card">
+    <h3>Passwort ändern</h3>
+    <p style="color: var(--hz-text-muted); font-size: 0.85rem; margin-bottom: 1rem;">
+      Das Herzraum-Passwort wird über die Umgebungsvariable <code style="background:var(--hz-surface-2);padding:2px 6px;border-radius:4px;">HERZRAUM_PASSWORD</code> gesetzt.
+      Zum Ändern:
+    </p>
+    <ol style="color: var(--hz-text-muted); padding-left: 1.2rem; font-size: 0.9rem; line-height: 1.8;">
+      <li>Railway Dashboard öffnen → Projekt Herzblatt-Journal → <strong>Variables</strong></li>
+      <li>Variable <code style="background:var(--hz-surface-2);padding:2px 6px;border-radius:4px;">HERZRAUM_PASSWORD</code> editieren</li>
+      <li>Railway triggert automatisch einen Redeploy (~3 Min.)</li>
+      <li>Danach alle offenen Sessions abmelden (aus Sicherheitsgründen)</li>
+    </ol>
+    <form id="verify-form" style="margin-top: 1rem; display: flex; gap: 0.5rem; align-items: end;">
+      <div style="flex: 1;">
+        <label style="font-size: 0.75rem; color: var(--hz-text-muted); text-transform: uppercase;">Aktuelles Passwort testen</label>
+        <input type="password" id="current-pw" style="width: 100%; margin-top: 0.25rem;" />
+      </div>
+      <button class="hz-btn" type="submit">Prüfen</button>
+      <span id="verify-result" style="font-size: 0.85rem;"></span>
+    </form>
+  </div>
+
+  <div class="hz-card">
+    <h3>Daten-Export</h3>
+    <p style="color: var(--hz-text-muted); font-size: 0.85rem; margin-bottom: 1rem;">
+      Vollständiges Backup aller Tracking-Daten als JSON. Enthält Pageviews, Klicks, Registrierungen und Newsletter-Abonnenten.
+    </p>
+    <a href="/api/herzraum/data/export" download class="hz-btn primary">📦 Alle Daten herunterladen</a>
+  </div>
+
+  <div class="hz-card">
+    <h3>Cache leeren</h3>
+    <p style="color: var(--hz-text-muted); font-size: 0.85rem; margin-bottom: 1rem;">
+      Löscht die pre-aggregierte Daily-Stats-Datei (wird beim nächsten Dashboard-Load neu aufgebaut).
+    </p>
+    <button class="hz-btn" data-clear="daily-stats">🧹 Stats-Cache leeren</button>
+  </div>
+
+  <div class="hz-card" style="border-color: rgba(239,68,68,0.4);">
+    <h3 style="color: var(--hz-danger);">⚠ Gefahrenzone</h3>
+    <p style="color: var(--hz-text-muted); font-size: 0.85rem; margin-bottom: 1rem;">
+      Die folgenden Aktionen sind <strong>nicht rückgängig machbar</strong>. Daten nach dem Löschen wiederherzustellen ist nicht möglich.
+    </p>
+    <div class="hz-row">
+      <button class="hz-btn danger" data-clear="pageviews">Pageviews löschen</button>
+      <button class="hz-btn danger" data-clear="clicks">Klicks löschen</button>
+      <button class="hz-btn danger" data-clear="registrations">Registrierungen löschen</button>
+    </div>
+    <p style="color: var(--hz-text-dim); font-size: 0.75rem; margin-top: 0.75rem;">
+      Newsletter-Abonnenten können hier <strong>nicht</strong> gelöscht werden (DSGVO-Anfragen manuell in <code>data/subscribers.csv</code>).
+    </p>
+  </div>
+
+  <div class="hz-card">
+    <h3>Railway-Hinweis</h3>
+    <p style="color: var(--hz-text-muted); font-size: 0.85rem;">
+      ⚠ <strong>Railway-Filesystem ist ephemeral</strong>: Bei jedem Git-Push wird <code>data/*.json</code> gelöscht.
+      Regelmäßig Backups ziehen! Nutze dazu das <strong>Daten-Export</strong>-Feature oder das Script <code>scripts/pull-subscribers.sh</code> für die Newsletter-CSV.
+    </p>
+  </div>
+
+  <script is:inline>
+    (function() {
+      // Passwort verifizieren
+      document.getElementById('verify-form').addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const pw = document.getElementById('current-pw').value;
+        const out = document.getElementById('verify-result');
+        out.textContent = '…';
+        try {
+          const res = await fetch('/api/herzraum/password/verify', {
+            method: 'POST', headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ password: pw }),
+          });
+          if (res.ok) { out.textContent = '✓ korrekt'; out.style.color = 'var(--hz-success)'; }
+          else { out.textContent = '✗ falsch'; out.style.color = 'var(--hz-danger)'; }
+        } catch {
+          out.textContent = 'Fehler'; out.style.color = 'var(--hz-danger)';
+        }
+      });
+
+      // Clear-Buttons
+      document.querySelectorAll('[data-clear]').forEach((btn) => {
+        btn.addEventListener('click', async () => {
+          const target = btn.getAttribute('data-clear');
+          const danger = btn.classList.contains('danger');
+          const confirmMsg = danger
+            ? 'Wirklich alle ' + target + ' Daten löschen? Das lässt sich NICHT rückgängig machen.'
+            : 'Stats-Cache leeren?';
+          if (!confirm(confirmMsg)) return;
+          btn.disabled = true;
+          const orig = btn.textContent;
+          btn.textContent = 'Löschen…';
+          try {
+            const res = await fetch('/api/herzraum/data/clear', {
+              method: 'POST', headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ target }),
+            });
+            const d = await res.json();
+            if (d.ok) { btn.textContent = '✓ gelöscht'; setTimeout(() => { btn.textContent = orig; btn.disabled = false; }, 1500); }
+            else { alert('Fehler: ' + (d.message || '')); btn.textContent = orig; btn.disabled = false; }
+          } catch (e) {
+            alert('Fehler: ' + e); btn.textContent = orig; btn.disabled = false;
+          }
+        });
+      });
+    })();
+  </script>
+</HerzraumLayout>
