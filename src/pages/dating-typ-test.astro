@@ -1108,17 +1108,8 @@ const description = "Entdecke deinen Dating-Persönlichkeitstyp mit unserem unte
     </div>
   </section>
 
-  <!-- Modal for detailed quiz -->
-  <div id="dating-quiz-overlay" class="dating-quiz-modal hidden" style="opacity: 0; transition: opacity 0.3s ease;">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h2 class="modal-title">Dating-Quiz</h2>
-        <button class="modal-close" onclick="closeDatingQuiz()">✕</button>
-      </div>
-
-      <div id="quizSteps"></div>
-    </div>
-  </div>
+  <!-- Quiz-Modal wird global aus BaseLayout via src/components/DatingQuiz.astro bereitgestellt.
+       openDatingQuiz() triggert das Popup von jedem Button auf dieser Seite. -->
 
   <script>
     // Main Quiz Data
@@ -1480,26 +1471,8 @@ const description = "Entdecke deinen Dating-Persönlichkeitstyp mit unserem unte
       container.innerHTML = '<div class="modal-result"><div class="result-checkmark"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 12 2 2 4-4"/><circle cx="12" cy="12" r="10"/></svg></div><p class="result-perfect-match">Dein perfektes Match</p><div class="result-logo-container"><img src="' + site.logo + '" alt="' + site.name + '" class="result-logo"></div><h3 class="result-name-modal">' + site.name + '</h3><p class="result-desc-modal">' + site.desc + '</p><div class="result-rating-modal"><span class="result-rating-modal">' + site.rating + '</span><span class="result-rating-modal">' + renderStarsModal(site.rating) + '</span></div><a href="' + site.url + '" target="_blank" class="result-cta-modal">Jetzt testen <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></a><button onclick="restartQuiz()" class="result-cta-modal" style="background:var(--color-neutral-100);color:var(--text-primary);margin-top:1rem;">Nochmal versuchen</button></div>';
     }
 
-    window.openDatingQuiz = function() {
-      var overlay = document.getElementById('dating-quiz-overlay');
-      overlay.classList.remove('hidden');
-      setTimeout(function() {
-        overlay.style.opacity = '1';
-      }, 10);
-      document.body.style.overflow = 'hidden';
-      renderQuestion(0);
-    };
-
-    window.closeDatingQuiz = function() {
-      var overlay = document.getElementById('dating-quiz-overlay');
-      overlay.style.opacity = '0';
-      setTimeout(function() {
-        overlay.classList.add('hidden');
-        overlay.style.opacity = '';
-        overlay.style.transition = '';
-        document.body.style.overflow = '';
-      }, 300);
-    };
+    // openDatingQuiz/closeDatingQuiz werden aus BaseLayout (DatingQuiz.astro) bereitgestellt.
+    // Hier NICHT neu definieren, sonst Namenskollision + broken Modal.
 
     window.selectQuizOption = function(step, optionIndex) {
       var opt = quizData.questions[step].options[optionIndex];
