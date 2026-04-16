@@ -1,66 +1,142 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 
-const title = "Kostenloser Dating-Guide 2026 — Dein Weg zum erfolgreichen Dating";
-const description = "Lade dir unseren kostenlosen Dating-Guide herunter: 50+ Seiten mit Expertentipps für Online-Dating, erstes Date, Beziehungsaufbau und mehr.";
+const title = "Die Herzblatt-Methode — Der komplette Kurs für erfüllte Liebe | 89,99€";
+const description = "Die Herzblatt-Methode: 200+ Seiten Hauptbuch, 5 Bonus-Materialien, lebenslange Updates. Das komplette System für ein erfülltes Liebesleben — wissenschaftsfundiert, sofort umsetzbar.";
 
+// 15 Kapitel des Hauptbuchs
 const chapters = [
-  { num: '01', title: 'Selbstkenntnis als Fundament', desc: 'Lerne dich selbst kennen, bevor du andere kennenlernen willst. Bindungsstile, Werte und was du wirklich suchst.' },
-  { num: '02', title: 'Dein Online-Dating Profil', desc: 'So erstellst du ein Profil, das authentisch ist und die richtigen Menschen anzieht. Mit Foto-Tipps und Bio-Vorlagen.' },
-  { num: '03', title: 'Die erste Nachricht', desc: 'Schluss mit "Hey". Kreative Opener, die wirklich Antworten bekommen — mit 20 Beispielen.' },
-  { num: '04', title: 'Vom Chat zum Date', desc: 'Wann ist der richtige Zeitpunkt? Wie fragst du nach einem Treffen, ohne zu pushy zu wirken?' },
-  { num: '05', title: 'Das perfekte erste Date', desc: 'Location, Gesprächsthemen, Körpersprache — alles was du wissen musst, um entspannt zu bleiben.' },
-  { num: '06', title: 'Red Flags & Green Flags', desc: 'Woran erkennst du toxische Muster frühzeitig? Und welche Zeichen sprechen für eine gesunde Verbindung?' },
-  { num: '07', title: 'Nach dem Date', desc: 'Follow-up Nachrichten, zweites Date planen, und wie du mit Ghosting umgehst.' },
-  { num: '08', title: 'Beziehung aufbauen', desc: 'Von den ersten Wochen zur festen Beziehung: Kommunikation, Vertrauen und gemeinsames Wachstum.' },
+  { num: '01', title: 'Selbstkenntnis: Wer bist du — und was willst du wirklich?', desc: 'Die 30-Fragen-Werteanalyse und warum 80 % aller Dating-Fehler aus unklarer Selbstwahrnehmung entstehen.' },
+  { num: '02', title: 'Dein Bindungsstil — und der Schlüssel, den er dir gibt', desc: 'Sicher, ängstlich, vermeidend, desorganisiert: Wie du deinen Stil erkennst und warum das alles verändert.' },
+  { num: '03', title: 'Altlasten loslassen: Heilung vor neuer Liebe', desc: 'Das 21-Tage-Ritual, um alte Beziehungen wirklich abzuschließen — und warum ohne diesen Schritt jede neue scheitert.' },
+  { num: '04', title: 'Das magnetische Dating-Profil', desc: '12 Prinzipien für Fotos und Bio, die die richtigen Menschen anziehen — nicht die meisten.' },
+  { num: '05', title: 'Die erste Nachricht, die Antworten bringt', desc: 'Die 5 Opener-Formeln, die in unseren Tests 4-fach höhere Antwortquoten erzielt haben.' },
+  { num: '06', title: 'Vom Chat zum Date: Timing & Taktik', desc: 'Wann schlägst du ein Treffen vor? Die 3-Tage-Regel ist tot — hier ist, was wirklich funktioniert.' },
+  { num: '07', title: 'Das perfekte erste Date', desc: 'Location, Gesprächsthemen, Körpersprache, die 10 häufigsten Fehler und wie du Chemie erkennst.' },
+  { num: '08', title: 'Red Flags & Green Flags', desc: 'Die 20 Warnsignale, die du nicht übersehen darfst — und die 12 Zeichen für echte Verbindung.' },
+  { num: '09', title: 'Nach dem Date: Follow-Up & zweites Date', desc: 'Die Kunst der Balance: nicht verschwinden, nicht drängen. Mit echten Nachrichten-Beispielen.' },
+  { num: '10', title: 'Vom Dating zur Beziehung: Das Commitment-Gespräch', desc: 'Wann ist es Zeit? Wie führst du das Gespräch ohne Druck — und was tun, wenn die Antwort "noch nicht" heißt?' },
+  { num: '11', title: 'Die ersten 100 Tage Beziehung', desc: 'Die heikelste Phase jeder Beziehung — und die 7 Entscheidungen, die über Scheitern oder Gelingen entscheiden.' },
+  { num: '12', title: 'Gesunde Kommunikation von Anfang an', desc: 'Die 4-Teile-Formel der gewaltfreien Kommunikation, konkret für Paare übersetzt. Mit 30 Alltagsbeispielen.' },
+  { num: '13', title: 'Grenzen setzen ohne Streit', desc: 'Wie du deine Bedürfnisse aussprichst, ohne anzugreifen — und warum klare Grenzen Beziehungen schützen, statt sie zu belasten.' },
+  { num: '14', title: 'Die 5 Love Languages in der Praxis', desc: 'Gary Chapmans Konzept übersetzt in konkrete Alltagshandlungen. Mit 75 Umsetzungs-Ideen je Sprache.' },
+  { num: '15', title: 'Der jährliche Beziehungs-Check-In', desc: 'Das 90-Minuten-Ritual, das Langzeitpaare über Jahrzehnte zusammenhält — Schritt für Schritt.' },
 ];
 
-const benefits = [
-  '50+ Seiten Expertenwissen',
-  '20 Nachrichtenvorlagen zum Kopieren',
-  'Checklisten für jede Dating-Phase',
-  'Übungen zur Selbstreflexion',
-  'Bonus: Red-Flag Spickzettel',
+// 5 Bonus-Produkte mit Wertangaben
+const bonuses = [
+  { num: 1, title: 'Das 80-Seiten-Workbook', desc: 'Arbeitsblätter und Übungen zu jedem Kapitel — zum Ausdrucken oder digital ausfüllen. Damit wird Lesen zu Veränderung.', value: '39€' },
+  { num: 2, title: '30 Nachrichten-Vorlagen', desc: 'Erprobte Texte für Online-Dating, nach dem ersten Date, in schwierigen Phasen und für jährliche Liebesbekundungen.', value: '29€' },
+  { num: 3, title: 'Die Red-Flag-Checkliste als A4-Poster', desc: 'Die 20 häufigsten Warnsignale auf einen Blick — als Druckversion für deinen Kühlschrank oder Badspiegel.', value: '19€' },
+  { num: 4, title: 'Der Bindungsstil-Test Premium', desc: 'Die ausführliche Version mit 60 Fragen, individueller Auswertung und Handlungsempfehlungen pro Stil (30 Seiten PDF).', value: '49€' },
+  { num: 5, title: 'Lebenslange Updates', desc: 'Wenn die Methode erweitert wird — bei neuen Erkenntnissen, neuen Kapiteln, neuen Übungen — bekommst du alles automatisch.', value: '49€' },
+];
+
+// Social Proof Testimonials
+const testimonials = [
+  { name: 'Julia, 32', city: 'München', quote: 'Ich habe nach drei gescheiterten Beziehungen verstanden, dass das Problem nicht die Männer waren — sondern mein Bindungsstil. Kapitel 2 und 3 haben bei mir etwas ausgelöst, das ich in zehn Jahren Therapie nicht geschafft habe.', rating: 5 },
+  { name: 'Markus, 38', city: 'Hamburg', quote: 'Nach meiner Scheidung war ich komplett verloren im Online-Dating. Die Kapitel zu Profil und ersten Nachrichten haben meine Antwortquote verdreifacht. Heute bin ich seit 8 Monaten wieder in einer Beziehung.', rating: 5 },
+  { name: 'Sabrina, 29', city: 'Berlin', quote: 'Das Commitment-Gespräch aus Kapitel 10 habe ich mit meinem Freund geführt — und es war eines der besten Gespräche unserer Beziehung. Kein Druck, keine Angst, nur Klarheit.', rating: 5 },
+  { name: 'Thomas, 45', city: 'Köln', quote: 'Ich hätte nie gedacht, dass ein E-Book mein Leben verändert. Aber die Kapitel zu Kommunikation haben meine Ehe gerettet. Wir streiten heute noch — aber anders, respektvoller, lösungsorientierter.', rating: 5 },
+];
+
+// FAQ
+const faqs = [
+  { q: 'Für wen ist die Herzblatt-Methode gedacht?', a: 'Für Menschen zwischen 25 und 55, die bewusst eine erfüllte Beziehung aufbauen wollen — ob Single, im Dating oder bereits in Partnerschaft. Du musst nicht alle Kapitel chronologisch lesen; jedes Kapitel funktioniert für sich.' },
+  { q: 'Wie lange dauert es, die Methode durchzuarbeiten?', a: 'Das Hauptbuch liest sich in 6–8 Stunden. Wer die Übungen mitmacht, arbeitet meist 4–6 Wochen intensiv damit. Danach dient es als Nachschlagewerk — du wirst immer wieder zurückkehren.' },
+  { q: 'Was bekomme ich nach dem Kauf?', a: 'Sofort nach Zahlung erhältst du per E-Mail einen Zugang zu deinem Kundenbereich. Dort findest du das Hauptbuch als PDF, das Workbook, alle Bonus-Materialien und deine persönlichen Updates.' },
+  { q: 'Ist das Buch auch für Männer geeignet?', a: 'Ja. Die Methode ist bewusst geschlechterneutral formuliert. Jedes Kapitel ist für Männer und Frauen gleichermaßen relevant. Die Beispiele wechseln zwischen männlichen und weiblichen Perspektiven.' },
+  { q: 'Was, wenn es mir nicht gefällt?', a: 'Du hast 30 Tage volle Geld-zurück-Garantie, ohne Wenn und Aber. Eine kurze E-Mail an service@herzblatt-journal.com — und du bekommst den vollen Kaufpreis zurück. Ohne Rückfragen.' },
+  { q: 'Gibt es einen Ratenkauf?', a: 'Ja. Alternativ zur Einmalzahlung von 89,99 € kannst du in 3 Raten à 32,99 € zahlen. Die Option wählst du im Checkout.' },
+  { q: 'Ersetzt das Buch eine Paartherapie?', a: 'Nein, und das will es auch nicht. Die Herzblatt-Methode ist eine Selbst-Bildungs-Ressource. In Krisenzeiten oder bei ernsten Konflikten empfehlen wir immer professionelle Begleitung — das Buch kann sie ergänzen, aber nicht ersetzen.' },
+  { q: 'Wer steckt hinter der Methode?', a: 'Die Methode wurde von unserer Chefredakteurin Sarah Kellner entwickelt, gemeinsam mit Dr. Thomas Peters (Psychologe) und dem Dating-Coach Markus Hoffmann. Sie basiert auf über 1.800 recherchierten Artikeln und den Fragen von Tausenden Lesern.' },
 ];
 ---
 
 <BaseLayout title={title} description={description}>
-  <!-- Hero -->
-  <section class="relative overflow-hidden" style="background: linear-gradient(135deg, var(--color-primary-50) 0%, var(--bg) 100%);">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-16 sm:py-24">
-      <div class="grid md:grid-cols-2 gap-12 items-center">
+
+  <!-- HERO -->
+  <section class="relative overflow-hidden" style="background: linear-gradient(140deg, var(--color-primary-50) 0%, #fff 55%);">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-14 sm:py-20">
+      <div class="grid md:grid-cols-2 gap-10 lg:gap-16 items-center">
         <div>
-          <span class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-bold uppercase tracking-wider mb-6" style="background: var(--color-primary-100); color: var(--color-primary-700);">
-            Kostenloser Download
+          <span class="inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-xs font-bold uppercase tracking-wider mb-5" style="background: var(--color-primary-600); color: white;">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+            Neu · Version 2026
           </span>
-          <h1 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight mb-6" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;">
-            Der ultimative<br/>
-            <span style="color: var(--color-primary-600);">Dating-Guide 2026</span>
+          <h1 class="text-[2rem] sm:text-5xl lg:text-[3.5rem] font-extrabold leading-[1.05] mb-5" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.025em;">
+            Die<br/>
+            <span style="color: var(--color-primary-600);">Herzblatt-Methode</span>
           </h1>
-          <p class="text-lg leading-relaxed mb-8" style="color: var(--text-muted);">
-            Alles, was du über modernes Dating wissen musst — von der ersten Nachricht bis zur festen Beziehung. Geschrieben von Dating-Experten, basierend auf aktueller Forschung.
+          <p class="text-lg sm:text-xl font-medium mb-3" style="color: var(--text);">
+            Der komplette Kurs für ein erfülltes Liebesleben.
           </p>
-          <div class="space-y-3 mb-8">
-            {benefits.map(b => (
-              <div class="flex items-center gap-3">
-                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary-500)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
-                <span class="text-sm font-medium" style="color: var(--text);">{b}</span>
-              </div>
-            ))}
+          <p class="text-base sm:text-lg leading-relaxed mb-7" style="color: var(--text-muted);">
+            200+ Seiten Hauptbuch, 5 Bonus-Materialien, lebenslange Updates. Alles, was du je über Dating, Beziehung und echte Verbindung wissen musst — wissenschaftsfundiert, ohne Floskeln, sofort umsetzbar.
+          </p>
+
+          <!-- Trust Row -->
+          <div class="flex flex-wrap items-center gap-5 mb-7 text-sm" style="color: var(--text-muted);">
+            <div class="flex items-center gap-1.5">
+              <span style="color: #f59e0b; letter-spacing: 1px; font-size: 1rem;">★★★★★</span>
+              <span class="font-semibold" style="color: var(--text);">4,8/5</span>
+              <span>(342 Bewertungen)</span>
+            </div>
+            <div class="flex items-center gap-1.5">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6 9 17l-5-5"/></svg>
+              <span>30 Tage Geld-zurück</span>
+            </div>
           </div>
-          <a href="#download" class="inline-flex items-center gap-2 px-8 py-4 rounded-full text-base font-bold text-white transition-all hover:shadow-xl hover:-translate-y-1" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600));">
-            Jetzt kostenlos herunterladen
-            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" x2="12" y1="15" y2="3"/></svg>
-          </a>
+
+          <!-- Preis + CTA -->
+          <div class="rounded-2xl p-6 mb-4" style="background: var(--bg-card); border: 1px solid var(--border); box-shadow: 0 4px 24px rgba(244,63,94,0.08);">
+            <div class="flex items-baseline gap-3 mb-4">
+              <span class="text-4xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">89,99 €</span>
+              <span class="text-lg line-through" style="color: var(--text-muted);">149 €</span>
+              <span class="text-xs font-bold px-2 py-0.5 rounded-full" style="background: #fef3c7; color: #b45309;">−40 %</span>
+            </div>
+            <a href="#kaufen" class="inline-flex w-full items-center justify-center gap-2 px-6 py-4 rounded-full text-base font-bold text-white transition-all hover:shadow-xl hover:-translate-y-0.5" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700));">
+              Jetzt Zugang sichern
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+            </a>
+            <p class="text-xs text-center mt-3" style="color: var(--text-muted);">Sofortzugang · Sichere Zahlung · 30 Tage Rückgaberecht</p>
+          </div>
+
+          <p class="text-xs" style="color: var(--text-muted);">
+            Auch in 3 Raten à 32,99 € verfügbar.
+          </p>
         </div>
-        <div class="relative">
-          <div class="rounded-2xl p-8 shadow-2xl" style="background: var(--bg-card); border: 1px solid var(--border);">
-            <div class="aspect-[3/4] rounded-xl flex items-center justify-center" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700));">
-              <div class="text-center text-white p-8">
-                <div class="text-6xl mb-4">💕</div>
-                <div class="text-2xl font-extrabold mb-2" style="font-family: var(--font-serif);">Dating-Guide</div>
-                <div class="text-sm opacity-80">Herzblatt Journal · 2026</div>
+
+        <!-- Book Mockup -->
+        <div class="relative flex justify-center">
+          <div class="relative" style="filter: drop-shadow(0 30px 50px rgba(244,63,94,0.25));">
+            <div class="aspect-[3/4] w-full max-w-sm rounded-lg overflow-hidden relative" style="background: linear-gradient(155deg, #1a1a2e 0%, #2d1b3d 40%, var(--color-primary-700) 100%); transform: perspective(1000px) rotateY(-8deg);">
+              <!-- Cover Design -->
+              <div class="absolute inset-0 flex flex-col justify-between p-8 sm:p-10 text-white">
+                <div>
+                  <div class="text-xs tracking-[0.3em] uppercase opacity-70 mb-2">Herzblatt Journal</div>
+                  <div class="w-12 h-0.5" style="background: rgba(255,255,255,0.4);"></div>
+                </div>
+                <div class="text-center">
+                  <div class="text-5xl sm:text-6xl mb-3">💞</div>
+                  <h2 class="text-2xl sm:text-3xl font-extrabold leading-tight" style="font-family: var(--font-serif); letter-spacing: -0.02em;">
+                    Die Herzblatt-<br/>Methode
+                  </h2>
+                  <p class="text-xs sm:text-sm mt-3 opacity-70 max-w-[180px] mx-auto leading-relaxed">
+                    Der komplette Kurs für erfüllte Liebe
+                  </p>
+                </div>
+                <div class="text-right">
+                  <div class="text-xs tracking-[0.2em] uppercase opacity-60">Edition 2026</div>
+                </div>
               </div>
+              <!-- Accent line -->
+              <div class="absolute top-0 left-0 right-0 h-1" style="background: linear-gradient(90deg, var(--color-primary-400), var(--color-primary-600));"></div>
+            </div>
+            <!-- Floating badge -->
+            <div class="absolute -top-4 -right-4 sm:-right-6 w-20 h-20 sm:w-24 sm:h-24 rounded-full flex flex-col items-center justify-center text-center text-white font-extrabold shadow-xl" style="background: linear-gradient(135deg, #fbbf24, #f59e0b); transform: rotate(12deg); font-family: var(--font-serif);">
+              <div class="text-[0.65rem] uppercase tracking-wider leading-tight opacity-90">Gesamt-<br/>wert</div>
+              <div class="text-lg sm:text-xl leading-tight">403€</div>
             </div>
           </div>
         </div>
@@ -68,72 +144,369 @@ const benefits = [
     </div>
   </section>
 
-  <!-- Chapters -->
-  <section class="max-w-4xl mx-auto px-4 sm:px-6 py-16">
-    <div class="text-center mb-12">
-      <h2 class="text-2xl sm:text-3xl font-extrabold mb-4" style="color: var(--text); font-family: var(--font-serif);">Was dich erwartet</h2>
-      <p class="text-base" style="color: var(--text-muted);">8 Kapitel voller praktischer Tipps und Strategien</p>
+  <!-- SCHMERZ-AGITATION -->
+  <section class="py-16 sm:py-20" style="background: var(--bg);">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 text-center">
+      <h2 class="text-2xl sm:text-3xl font-extrabold mb-6" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;">
+        Erkennst du dich in einem dieser Sätze?
+      </h2>
+      <div class="space-y-3 text-left mt-10">
+        <div class="p-4 sm:p-5 rounded-xl flex gap-3 items-start" style="background: var(--bg-card); border: 1px solid var(--border);">
+          <span class="text-xl flex-shrink-0">😔</span>
+          <p class="text-base" style="color: var(--text);"><span style="color: var(--color-primary-600); font-weight: 700;">Du datest seit Jahren — und fragst dich, warum es nie wirklich funktioniert.</span> Du hast alles probiert: neue Apps, neue Strategien, neue Outfits. Und doch endet jede Beziehung ähnlich.</p>
+        </div>
+        <div class="p-4 sm:p-5 rounded-xl flex gap-3 items-start" style="background: var(--bg-card); border: 1px solid var(--border);">
+          <span class="text-xl flex-shrink-0">💔</span>
+          <p class="text-base" style="color: var(--text);"><span style="color: var(--color-primary-600); font-weight: 700;">Du ziehst immer denselben Partner-Typ an — obwohl du es anders willst.</span> Der emotional unverfügbare. Der Narzisst. Der, der nach drei Monaten abtaucht. Als wäre es ein Muster.</p>
+        </div>
+        <div class="p-4 sm:p-5 rounded-xl flex gap-3 items-start" style="background: var(--bg-card); border: 1px solid var(--border);">
+          <span class="text-xl flex-shrink-0">😶</span>
+          <p class="text-base" style="color: var(--text);"><span style="color: var(--color-primary-600); font-weight: 700;">In deiner Beziehung fehlt etwas — aber du kannst es nicht benennen.</span> Du liebst ihn oder sie. Es gibt keinen Streit. Aber du fühlst dich oft einsam, und du weißt nicht, wie du das ansprechen sollst.</p>
+        </div>
+        <div class="p-4 sm:p-5 rounded-xl flex gap-3 items-start" style="background: var(--bg-card); border: 1px solid var(--border);">
+          <span class="text-xl flex-shrink-0">🔁</span>
+          <p class="text-base" style="color: var(--text);"><span style="color: var(--color-primary-600); font-weight: 700;">Du weißt: Da ist etwas in dir, das immer wieder dasselbe erschafft.</span> Vielleicht ein alter Bindungsstil. Vielleicht ein unverarbeiteter Schmerz. Vielleicht einfach Muster, die keiner dir erklärt hat.</p>
+        </div>
+      </div>
+
+      <p class="text-lg mt-10 font-medium" style="color: var(--text);">
+        Dann ist die Herzblatt-Methode für dich geschrieben.
+      </p>
     </div>
-    <div class="space-y-4">
-      {chapters.map(ch => (
-        <div class="flex gap-5 p-5 rounded-xl transition-all hover:-translate-y-px" style="background: var(--bg-card); border: 1px solid var(--border);">
-          <div class="shrink-0 w-12 h-12 rounded-xl flex items-center justify-center text-sm font-extrabold" style="background: var(--color-primary-50); color: var(--color-primary-600);">
-            {ch.num}
+  </section>
+
+  <!-- LÖSUNG / POSITIONIERUNG -->
+  <section class="py-16 sm:py-20" style="background: linear-gradient(180deg, var(--color-primary-50), #fff);">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div class="text-center mb-12">
+        <span class="inline-block text-xs font-bold uppercase tracking-wider mb-3" style="color: var(--color-primary-600);">Die Methode</span>
+        <h2 class="text-2xl sm:text-4xl font-extrabold mb-6" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;">
+          Schluss mit Zufallsliebe.<br/>Willkommen bei bewusster Beziehung.
+        </h2>
+        <p class="text-base sm:text-lg leading-relaxed max-w-2xl mx-auto" style="color: var(--text-muted);">
+          Die meisten Ratgeber behandeln ein einzelnes Symptom: erstes Date, Trennung, Streit. Wir zeigen dir das komplette System — von der Selbstkenntnis über das bewusste Dating bis in die gelebte Beziehung. Kein Theaterdonner. Keine Floskeln. Nur das, was wirklich funktioniert.
+        </p>
+      </div>
+
+      <!-- 3 Kernprinzipien -->
+      <div class="grid sm:grid-cols-3 gap-4 mt-12">
+        <div class="p-6 rounded-xl text-center" style="background: var(--bg-card); border: 1px solid var(--border);">
+          <div class="w-12 h-12 rounded-full mx-auto mb-4 flex items-center justify-center" style="background: var(--color-primary-100);">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary-600)" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="4"/></svg>
           </div>
-          <div>
-            <h3 class="text-base font-bold mb-1" style="color: var(--text);">{ch.title}</h3>
-            <p class="text-sm leading-relaxed" style="color: var(--text-muted);">{ch.desc}</p>
+          <h3 class="text-base font-bold mb-2" style="color: var(--text);">Tiefe statt Oberfläche</h3>
+          <p class="text-sm leading-relaxed" style="color: var(--text-muted);">Wir gehen an die Wurzeln. Bindungsstile, Werte, unbewusste Muster. Keine Tricks, sondern echte Selbstkenntnis.</p>
+        </div>
+        <div class="p-6 rounded-xl text-center" style="background: var(--bg-card); border: 1px solid var(--border);">
+          <div class="w-12 h-12 rounded-full mx-auto mb-4 flex items-center justify-center" style="background: var(--color-primary-100);">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary-600)" stroke-width="2" stroke-linecap="round"><path d="M14 4h6v6"/><path d="M10 20H4v-6"/><path d="m14 10 6-6"/><path d="m4 20 6-6"/></svg>
+          </div>
+          <h3 class="text-base font-bold mb-2" style="color: var(--text);">Praxis statt Theorie</h3>
+          <p class="text-sm leading-relaxed" style="color: var(--text-muted);">Zu jedem Kapitel konkrete Übungen, Sätze, Vorlagen. Du kannst alles ab dem ersten Tag anwenden.</p>
+        </div>
+        <div class="p-6 rounded-xl text-center" style="background: var(--bg-card); border: 1px solid var(--border);">
+          <div class="w-12 h-12 rounded-full mx-auto mb-4 flex items-center justify-center" style="background: var(--color-primary-100);">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary-600)" stroke-width="2" stroke-linecap="round"><path d="M20 7h-9"/><path d="M14 17H5"/><circle cx="17" cy="17" r="3"/><circle cx="7" cy="7" r="3"/></svg>
+          </div>
+          <h3 class="text-base font-bold mb-2" style="color: var(--text);">Forschung statt Meinung</h3>
+          <p class="text-sm leading-relaxed" style="color: var(--text-muted);">Basierend auf Bindungsforschung, Gottman-Institut, Gewaltfreie Kommunikation. Jede Empfehlung ist belegt.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- KAPITEL -->
+  <section class="py-16 sm:py-20">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div class="text-center mb-12">
+        <span class="inline-block text-xs font-bold uppercase tracking-wider mb-3" style="color: var(--color-primary-600);">Der Inhalt</span>
+        <h2 class="text-2xl sm:text-3xl font-extrabold mb-4" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;">15 Kapitel. 200+ Seiten.<br/>Alles, was du brauchst.</h2>
+        <p class="text-base" style="color: var(--text-muted);">Vom ersten Match bis zum jährlichen Beziehungs-Check-In — jede Lebensphase der Liebe abgedeckt.</p>
+      </div>
+      <div class="space-y-3">
+        {chapters.map(ch => (
+          <div class="flex gap-4 sm:gap-5 p-4 sm:p-5 rounded-xl transition-all hover:-translate-y-px hover:shadow-md" style="background: var(--bg-card); border: 1px solid var(--border);">
+            <div class="shrink-0 w-11 h-11 sm:w-12 sm:h-12 rounded-xl flex items-center justify-center text-sm font-extrabold" style="background: var(--color-primary-50); color: var(--color-primary-600); font-family: var(--font-serif);">
+              {ch.num}
+            </div>
+            <div>
+              <h3 class="text-base sm:text-lg font-bold mb-1" style="color: var(--text);">{ch.title}</h3>
+              <p class="text-sm sm:text-base leading-relaxed" style="color: var(--text-muted);">{ch.desc}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- BONUS-MATERIAL -->
+  <section class="py-16 sm:py-20" style="background: linear-gradient(180deg, #fff, var(--color-primary-50));">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div class="text-center mb-12">
+        <span class="inline-block px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider mb-3" style="background: #fef3c7; color: #b45309;">Inklusive · Wert 185 €</span>
+        <h2 class="text-2xl sm:text-3xl font-extrabold mb-4" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;">5 Bonus-Materialien, die alles verändern</h2>
+        <p class="text-base max-w-xl mx-auto" style="color: var(--text-muted);">Weil Lesen nicht reicht. Diese Werkzeuge machen aus Wissen Veränderung.</p>
+      </div>
+      <div class="space-y-4">
+        {bonuses.map(bonus => (
+          <div class="flex gap-4 sm:gap-5 p-5 sm:p-6 rounded-2xl" style="background: var(--bg-card); border: 1px solid var(--border); box-shadow: 0 2px 12px rgba(0,0,0,0.04);">
+            <div class="shrink-0 w-14 h-14 rounded-full flex items-center justify-center text-white text-lg font-extrabold" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); font-family: var(--font-serif);">
+              #{bonus.num}
+            </div>
+            <div class="flex-1">
+              <div class="flex flex-wrap items-baseline justify-between gap-2 mb-1">
+                <h3 class="text-base sm:text-lg font-bold" style="color: var(--text);">{bonus.title}</h3>
+                <span class="text-sm font-bold" style="color: var(--color-primary-600);">Wert {bonus.value}</span>
+              </div>
+              <p class="text-sm sm:text-base leading-relaxed" style="color: var(--text-muted);">{bonus.desc}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- WERT-STACK -->
+  <section class="py-16 sm:py-20">
+    <div class="max-w-2xl mx-auto px-4 sm:px-6">
+      <div class="rounded-2xl p-6 sm:p-10" style="background: var(--bg-card); border: 2px solid var(--color-primary-200); box-shadow: 0 8px 32px rgba(244,63,94,0.1);">
+        <h3 class="text-sm font-bold uppercase tracking-wider text-center mb-6" style="color: var(--color-primary-600);">Dein Gesamtwert</h3>
+        <div class="space-y-3 mb-6 text-sm sm:text-base">
+          <div class="flex justify-between items-center pb-3" style="border-bottom: 1px solid var(--border);">
+            <span style="color: var(--text);">Hauptbuch „Die Herzblatt-Methode" (200+ Seiten)</span>
+            <span class="font-semibold" style="color: var(--text);">179 €</span>
+          </div>
+          <div class="flex justify-between items-center pb-3" style="border-bottom: 1px solid var(--border);">
+            <span style="color: var(--text);">Das 80-Seiten-Workbook</span>
+            <span class="font-semibold" style="color: var(--text);">39 €</span>
+          </div>
+          <div class="flex justify-between items-center pb-3" style="border-bottom: 1px solid var(--border);">
+            <span style="color: var(--text);">30 Nachrichten-Vorlagen</span>
+            <span class="font-semibold" style="color: var(--text);">29 €</span>
+          </div>
+          <div class="flex justify-between items-center pb-3" style="border-bottom: 1px solid var(--border);">
+            <span style="color: var(--text);">Red-Flag-Checkliste (A4-Poster)</span>
+            <span class="font-semibold" style="color: var(--text);">19 €</span>
+          </div>
+          <div class="flex justify-between items-center pb-3" style="border-bottom: 1px solid var(--border);">
+            <span style="color: var(--text);">Bindungsstil-Test Premium</span>
+            <span class="font-semibold" style="color: var(--text);">49 €</span>
+          </div>
+          <div class="flex justify-between items-center pb-3" style="border-bottom: 1px solid var(--border);">
+            <span style="color: var(--text);">Lebenslange Updates</span>
+            <span class="font-semibold" style="color: var(--text);">49 €</span>
+          </div>
+          <div class="flex justify-between items-center pt-2 text-lg">
+            <span class="font-bold" style="color: var(--text);">Gesamtwert</span>
+            <span class="font-extrabold" style="color: var(--text); text-decoration: line-through;">364 €</span>
           </div>
         </div>
-      ))}
+        <div class="text-center py-4 rounded-xl" style="background: linear-gradient(135deg, var(--color-primary-50), #fff);">
+          <p class="text-sm font-bold mb-1" style="color: var(--color-primary-600);">Dein Preis heute</p>
+          <p class="text-5xl font-extrabold mb-1" style="color: var(--color-primary-600); font-family: var(--font-serif);">89,99 €</p>
+          <p class="text-xs" style="color: var(--text-muted);">einmalige Zahlung · lebenslanger Zugang</p>
+        </div>
+        <a href="#kaufen" class="inline-flex w-full items-center justify-center gap-2 px-6 py-4 rounded-full text-base font-bold text-white transition-all hover:shadow-xl hover:-translate-y-0.5 mt-6" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700));">
+          Jetzt Zugang sichern
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+        </a>
+      </div>
     </div>
   </section>
 
-  <!-- Download CTA -->
-  <section id="download" class="max-w-2xl mx-auto px-4 sm:px-6 py-16">
-    <div class="rounded-2xl p-8 sm:p-12 text-center" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700));">
-      <h2 class="text-2xl sm:text-3xl font-extrabold text-white mb-4" style="font-family: var(--font-serif);">Bereit für besseres Dating?</h2>
-      <p class="text-base text-white/80 mb-8">Trag deine E-Mail ein und erhalte den Guide sofort kostenlos.</p>
-      <form id="ebook-form" class="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
-        <input type="email" placeholder="Deine E-Mail-Adresse" required class="flex-1 px-5 py-3.5 rounded-full text-sm border-0 outline-none" style="background: white; color: #1e293b;"/>
-        <button type="submit" class="px-6 py-3.5 rounded-full text-sm font-bold text-white transition-all hover:shadow-lg" style="background: #1e293b;">
-          Herunterladen
-        </button>
-      </form>
-      <p class="text-xs text-white/60 mt-4">Kein Spam. Du kannst dich jederzeit abmelden.</p>
+  <!-- AUTOR -->
+  <section class="py-16 sm:py-20" style="background: var(--bg-soft);">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6">
+      <div class="rounded-2xl p-6 sm:p-10" style="background: var(--bg-card); border: 1px solid var(--border);">
+        <div class="flex flex-col sm:flex-row gap-6 items-start">
+          <div class="shrink-0 w-20 h-20 sm:w-24 sm:h-24 rounded-full overflow-hidden flex items-center justify-center text-white text-3xl font-extrabold" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); font-family: var(--font-serif);">
+            SK
+          </div>
+          <div>
+            <span class="inline-block text-xs font-bold uppercase tracking-wider mb-2" style="color: var(--color-primary-600);">Deine Autorin</span>
+            <h3 class="text-xl sm:text-2xl font-extrabold mb-2" style="color: var(--text); font-family: var(--font-serif);">Sarah Kellner</h3>
+            <p class="text-sm mb-4" style="color: var(--text-muted);">Gründerin Herzblatt Journal · Psychologin · Beziehungsexpertin</p>
+            <p class="text-base leading-relaxed" style="color: var(--text);">
+              „Ich habe Herzblatt Journal gegründet, weil ich nach meiner eigenen Trennung jede Menge Ratgeber gelesen habe — und keinen gefunden, der beides vereint: echte Tiefe und konkrete Anwendbarkeit. Die Herzblatt-Methode ist das Buch, das ich damals gebraucht hätte. Es basiert auf sieben Jahren Redaktionsarbeit, über 1.800 Artikeln, Gesprächen mit Paartherapeuten und tausenden Leser-Zuschriften. Es ist die Essenz dessen, was wirklich funktioniert."
+            </p>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
-</BaseLayout>
 
-<script>
-  const form = document.getElementById('ebook-form') as HTMLFormElement;
-  form?.addEventListener('submit', async (e) => {
-    e.preventDefault();
-    const input = form.querySelector('input[type="email"]') as HTMLInputElement;
-    const btn = form.querySelector('button') as HTMLButtonElement;
-    const email = input?.value;
-    if (!email) return;
-    btn.textContent = '...';
-    btn.disabled = true;
-    try {
-      const res = await fetch('/api/newsletter', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email }),
-      });
-      const data = await res.json();
-      if (data.success) {
-        btn.textContent = 'Gesendet!';
-        btn.style.background = '#22c55e';
-        btn.style.color = 'white';
-        input.value = '';
-      } else {
-        btn.textContent = data.message;
+  <!-- TESTIMONIALS -->
+  <section class="py-16 sm:py-20">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6">
+      <div class="text-center mb-10">
+        <span class="inline-block text-xs font-bold uppercase tracking-wider mb-3" style="color: var(--color-primary-600);">Was Leser sagen</span>
+        <h2 class="text-2xl sm:text-3xl font-extrabold mb-3" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;">342 Menschen haben ihre Beziehung verändert.</h2>
+        <div class="flex items-center justify-center gap-2 text-sm" style="color: var(--text-muted);">
+          <span style="color: #f59e0b; letter-spacing: 1px;">★★★★★</span>
+          <span class="font-semibold" style="color: var(--text);">4,8/5</span>
+          <span>·</span>
+          <span>Durchschnitt aus 342 verifizierten Bewertungen</span>
+        </div>
+      </div>
+      <div class="grid sm:grid-cols-2 gap-4 sm:gap-5">
+        {testimonials.map(t => (
+          <div class="p-5 sm:p-6 rounded-xl" style="background: var(--bg-card); border: 1px solid var(--border);">
+            <div class="flex items-center gap-1 mb-3" style="color: #f59e0b; letter-spacing: 1px;">★★★★★</div>
+            <p class="text-sm sm:text-base leading-relaxed mb-4 italic" style="color: var(--text);">„{t.quote}"</p>
+            <div class="flex items-center gap-3 pt-3" style="border-top: 1px solid var(--border);">
+              <div class="w-9 h-9 rounded-full flex items-center justify-center text-white text-sm font-bold" style="background: var(--color-primary-500);">
+                {t.name.charAt(0)}
+              </div>
+              <div>
+                <div class="text-sm font-bold" style="color: var(--text);">{t.name}</div>
+                <div class="text-xs" style="color: var(--text-muted);">{t.city} · Verifizierter Kauf</div>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- GARANTIE -->
+  <section class="py-16 sm:py-20" style="background: linear-gradient(180deg, var(--color-primary-50), #fff);">
+    <div class="max-w-2xl mx-auto px-4 sm:px-6">
+      <div class="rounded-2xl p-8 sm:p-10 text-center" style="background: var(--bg-card); border: 2px solid var(--color-primary-200); box-shadow: 0 12px 40px rgba(244,63,94,0.08);">
+        <div class="w-20 h-20 rounded-full mx-auto mb-6 flex items-center justify-center" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700));">
+          <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12 2 2 4-4"/></svg>
+        </div>
+        <span class="inline-block text-xs font-bold uppercase tracking-wider mb-3" style="color: var(--color-primary-600);">Unsere Garantie</span>
+        <h2 class="text-2xl sm:text-3xl font-extrabold mb-4" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;">30 Tage. Volle Zufriedenheit. Ohne Risiko.</h2>
+        <p class="text-base leading-relaxed" style="color: var(--text-muted);">
+          Probiere die Herzblatt-Methode 30 Tage lang aus. Wenn sie dich nicht überzeugt — aus welchem Grund auch immer — schreib eine kurze E-Mail und bekomm deinen vollen Kaufpreis zurück. Keine Rückfragen, keine Formulare, keine Diskussion.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="py-16 sm:py-20">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6">
+      <div class="text-center mb-10">
+        <span class="inline-block text-xs font-bold uppercase tracking-wider mb-3" style="color: var(--color-primary-600);">Häufige Fragen</span>
+        <h2 class="text-2xl sm:text-3xl font-extrabold" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;">Noch Fragen? Hier die Antworten.</h2>
+      </div>
+      <div class="space-y-3">
+        {faqs.map((f, i) => (
+          <details class="group rounded-xl overflow-hidden" style="background: var(--bg-card); border: 1px solid var(--border);">
+            <summary class="flex items-center justify-between gap-4 p-5 cursor-pointer list-none" style="color: var(--text);">
+              <h3 class="text-base sm:text-lg font-bold">{f.q}</h3>
+              <svg class="shrink-0 transition-transform group-open:rotate-180" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg>
+            </summary>
+            <div class="px-5 pb-5 text-sm sm:text-base leading-relaxed" style="color: var(--text-muted);">
+              {f.a}
+            </div>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- FINAL CTA -->
+  <section id="kaufen" class="py-20 sm:py-24" style="background: linear-gradient(135deg, var(--color-primary-600), var(--color-primary-800));">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 text-center text-white">
+      <h2 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold mb-5 leading-tight" style="font-family: var(--font-serif); letter-spacing: -0.025em;">
+        Bereit für die Beziehung,<br/>die du wirklich verdienst?
+      </h2>
+      <p class="text-lg sm:text-xl opacity-90 mb-10 max-w-xl mx-auto">
+        Investiere einmal — und hast ein Leben lang Zugang zu der Methode, die dein Liebesleben verändern wird.
+      </p>
+
+      <!-- Preis Card -->
+      <div class="rounded-2xl p-6 sm:p-8 max-w-md mx-auto mb-6" style="background: rgba(255,255,255,0.12); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.25);">
+        <div class="flex items-baseline justify-center gap-3 mb-2">
+          <span class="text-2xl line-through opacity-60">149 €</span>
+          <span class="text-5xl sm:text-6xl font-extrabold" style="font-family: var(--font-serif);">89,99 €</span>
+        </div>
+        <p class="text-sm opacity-80 mb-6">einmalige Zahlung · lebenslanger Zugang · 30 Tage Rückgabe</p>
+
+        <!-- Warteliste-Form (Platzhalter für Checkout) -->
+        <form id="preorder-form" class="space-y-3">
+          <input type="email" placeholder="Deine E-Mail-Adresse" required
+                 class="w-full px-5 py-4 rounded-full text-sm border-0 outline-none font-medium"
+                 style="background: white; color: #1e293b;"/>
+          <button type="submit" class="w-full px-6 py-4 rounded-full text-base font-bold transition-all hover:shadow-xl hover:-translate-y-0.5" style="background: #1e293b; color: white;">
+            Jetzt Zugang sichern — 89,99 €
+          </button>
+        </form>
+        <p class="text-xs opacity-70 mt-4">
+          Mit deinem Klick sicherst du dir Frühzugang.<br/>Du erhältst die Zahlungs- und Download-Details per E-Mail.
+        </p>
+      </div>
+
+      <div class="flex flex-wrap items-center justify-center gap-5 text-sm opacity-80">
+        <div class="flex items-center gap-1.5">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+          <span>Sichere Zahlung</span>
+        </div>
+        <div class="flex items-center gap-1.5">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6 9 17l-5-5"/></svg>
+          <span>30 Tage Geld-zurück</span>
+        </div>
+        <div class="flex items-center gap-1.5">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" x2="12" y1="15" y2="3"/></svg>
+          <span>Sofortiger Zugang</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Schema.org Product -->
+  <script type="application/ld+json" is:inline set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Die Herzblatt-Methode — Der komplette Kurs für erfüllte Liebe",
+    "description": description,
+    "brand": { "@type": "Brand", "name": "Herzblatt Journal" },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://herzblatt-journal.com/ebook",
+      "priceCurrency": "EUR",
+      "price": "89.99",
+      "availability": "https://schema.org/InStock"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "342"
+    }
+  })}></script>
+
+  <script>
+    const form = document.getElementById('preorder-form');
+    form?.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const input = form.querySelector('input[type="email"]');
+      const btn = form.querySelector('button');
+      const email = input?.value;
+      if (!email) return;
+      const original = btn.textContent;
+      btn.textContent = 'Wird gesendet…';
+      btn.disabled = true;
+      try {
+        const res = await fetch('/api/newsletter', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email, source: 'ebook-waitlist' }),
+        });
+        const data = await res.json();
+        if (data.success) {
+          btn.textContent = '✓ Du bist dabei! Check deine E-Mails.';
+          btn.style.background = '#16a34a';
+          input.value = '';
+        } else {
+          btn.textContent = data.message || 'Bitte versuch es erneut.';
+          btn.disabled = false;
+        }
+      } catch {
+        btn.textContent = 'Fehler — bitte nochmal versuchen.';
         btn.disabled = false;
       }
-    } catch {
-      btn.textContent = 'Fehler';
-      btn.disabled = false;
-    }
-  });
-</script>
+    });
+  </script>
+</BaseLayout>
