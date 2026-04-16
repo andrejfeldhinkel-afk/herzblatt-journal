@@ -17,9 +17,13 @@ logs/
 .env
 .env.*
 
-# runtime data (API endpoints write here)
-data/
+# runtime data (API endpoints write here) — GDPR-relevant, never commit
+data/*
+!data/.gitkeep
+!data/subscribers.csv.example
+!data/README.md
 newsletter-subscribers.json
+subscribers.csv
 
 # macOS
 .DS_Store
