@@ -1,0 +1,1 @@
+CREATE INDEX "subscribers_email_idx" ON "subscribers" USING btree ("email");

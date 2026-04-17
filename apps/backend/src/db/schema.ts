@@ -65,6 +65,7 @@ export const subscribers = pgTable(
   },
   (t) => ({
     createdAtIdx: index('subscribers_created_at_idx').on(t.createdAt),
+    emailIdx: index('subscribers_email_idx').on(t.email),
   }),
 );
 
