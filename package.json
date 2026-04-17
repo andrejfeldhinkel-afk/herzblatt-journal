@@ -4,9 +4,6 @@
   "private": true,
   "packageManager": "pnpm@10.33.0",
   "scripts": {
-    "build": "pnpm --filter @herzblatt/frontend build",
-    "start": "pnpm --filter @herzblatt/frontend start",
-    "dev": "pnpm --filter @herzblatt/frontend dev",
     "frontend:build": "pnpm --filter @herzblatt/frontend build",
     "frontend:dev": "pnpm --filter @herzblatt/frontend dev",
     "frontend:start": "pnpm --filter @herzblatt/frontend start",
