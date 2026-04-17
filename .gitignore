@@ -5,6 +5,16 @@ dist/
 # dependencies
 node_modules/
 
+# pnpm / workspace
+apps/*/node_modules/
+packages/*/node_modules/
+.pnpm-store/
+
+# workspace build output
+apps/*/dist/
+apps/*/.astro/
+packages/*/dist/
+
 # logs
 *.log
 npm-debug.log*

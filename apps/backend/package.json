@@ -1,0 +1,10 @@
+{
+  "name": "@herzblatt/backend",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "echo 'Backend noch nicht implementiert (Phase 1 in Plan)' && exit 0",
+    "build": "echo 'Backend noch nicht implementiert (Phase 1 in Plan)' && exit 0"
+  }
+}
