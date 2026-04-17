@@ -26,6 +26,8 @@ logs/
 # environment variables
 .env
 .env.*
+!.env.example
+!apps/*/.env.example
 
 # runtime data (API endpoints write here) — GDPR-relevant, never commit
 data/*
