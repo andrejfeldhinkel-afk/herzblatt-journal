@@ -354,9 +354,12 @@ export const pushBroadcasts = pgTable(
  * slug ist unique, wird auch im track-click.ts dynamisch geprüft
  * (analog isProductTarget für products).
  *
- * targetUrl ist die finale Affiliate-URL mit allen Tracking-Params
- * (z.B. Amazon-tag, Parship-sid). Der Link-Shortener hängt keine
- * eigenen UTM-Params an — das ist optional für später.
+ * Zwei Modi:
+ *   1. Campaign-Link (targetUrl=NULL): Nutzer landet auf herzblatt-journal.com
+ *      mit UTM-Params ?utm_source=<slug>. Für Social-Media-Bios/Posts — du
+ *      siehst wie viele Leute über TikTok/Insta/etc. auf deine Seite kommen.
+ *   2. Affiliate-Redirect (targetUrl gesetzt): Shortener zu externer URL
+ *      (Amazon, Parship etc.). Die Ziel-URL enthält bereits Tracking-Params.
  */
 export const affiliateLinks = pgTable(
   'affiliate_links',
@@ -364,7 +367,7 @@ export const affiliateLinks = pgTable(
     id: serial('id').primaryKey(),
     slug: text('slug').notNull().unique(),
     name: text('name').notNull(),
-    targetUrl: text('target_url').notNull(),
+    targetUrl: text('target_url'), // NULL = Campaign-Modus, landet auf /
     campaign: text('campaign'), // optionaler Kampagnen-Tag (z.B. "TikTok-Q2")
     notes: text('notes'),
     active: boolean('active').notNull().default(true),
