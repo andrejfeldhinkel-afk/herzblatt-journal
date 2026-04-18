@@ -28,8 +28,8 @@ const articles: ArticleMeta[] = blog.map((e) => {
   const body = (e as any).body || '';
   const words = body.split(/\s+/).filter(Boolean).length;
   return {
-    slug: e.slug,
-    title: data.title || e.slug,
+    slug: e.id,
+    title: data.title || e.id,
     author: data.author || 'redaktion',
     date: dateStr,
     tags: Array.isArray(data.tags) ? data.tags : [],
