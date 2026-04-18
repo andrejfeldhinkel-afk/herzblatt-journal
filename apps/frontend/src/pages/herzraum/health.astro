@@ -21,7 +21,7 @@ const stats: Stats[] = blog.map((e) => {
   const data = e.data as any;
   const body = (e as any).body || '';
   return {
-    slug: e.slug,
+    slug: e.id,
     title: data.title || '',
     author: data.author || 'redaktion',
     tags: Array.isArray(data.tags) ? data.tags : [],
