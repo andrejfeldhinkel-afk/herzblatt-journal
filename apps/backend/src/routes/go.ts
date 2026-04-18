@@ -73,7 +73,20 @@ app.post('/:slug', async (c) => {
     console.error('[go] click-insert failed:', err);
   }
 
-  return c.json({ ok: true, targetUrl: link.targetUrl });
+  // Campaign-Modus: targetUrl ist NULL → User landet auf Startseite mit UTM-Params.
+  // Affiliate-Modus: targetUrl ist gesetzt → Redirect zur externen URL.
+  let targetUrl: string;
+  if (link.targetUrl) {
+    targetUrl = link.targetUrl;
+  } else {
+    const home = new URL('https://herzblatt-journal.com/');
+    home.searchParams.set('utm_source', slug);
+    home.searchParams.set('utm_medium', 'campaign');
+    home.searchParams.set('utm_campaign', link.campaign || slug);
+    targetUrl = home.toString();
+  }
+
+  return c.json({ ok: true, targetUrl });
 });
 
 export default app;
