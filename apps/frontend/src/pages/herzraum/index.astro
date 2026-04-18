@@ -143,22 +143,24 @@ const articleCount = blog.length;
           setKpi('registrations.total', d.kpis.registrations.total);
           setKpi('clicks.today', d.kpis.clicks.today);
 
-          renderChart(d.charts.pageviewsByDay);
-
+          // DEFENSIV: Tabellen ZUERST (damit Chart-Fehler die Daten nicht killt)
           renderTable('table-top-articles',
             d.topArticles.map((a, i) => {
               const slug = a.slug || '—';
               return '<tr><td class="muted">' + (i + 1) + '</td><td><a href="' + slug + '" target="_blank" rel="noopener">' + slug + '</a></td><td class="right">' + a.count.toLocaleString('de-DE') + '</td></tr>';
             })
           );
-
           renderTable('table-top-referrers',
             d.topReferrers.map((r, i) => '<tr><td class="muted">' + (i + 1) + '</td><td>' + r.key + '</td><td class="right">' + r.count.toLocaleString('de-DE') + '</td></tr>')
           );
-
           renderTable('table-activity',
             d.recentActivity.map((a) => '<tr><td class="muted">' + fmtTs(a.ts) + '</td><td><a href="' + a.path + '" target="_blank" rel="noopener">' + a.path + '</a></td><td>' + a.referrer + '</td></tr>')
           );
+
+          if (typeof Chart !== 'undefined') {
+            try { renderChart(d.charts.pageviewsByDay); }
+            catch (err) { console.error('[dashboard] chart:', err); }
+          }
         } catch (e) {
           console.error('Stats load failed:', e);
         }

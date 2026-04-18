@@ -65,11 +65,33 @@ for (const a of blog) {
       width: 100%; padding: 0.5rem 0.75rem; background: var(--hz-bg); color: var(--hz-text);
       border: 1px solid var(--hz-border); border-radius: 0.375rem; font-size: 0.85rem;
     }
-    .author-card {
-      display: grid; grid-template-columns: 100px 1fr auto; gap: 1rem; align-items: center;
-      padding: 1rem; border: 1px solid var(--hz-border); border-radius: 0.5rem; margin-bottom: 0.75rem;
+  </style>
+
+  <!-- GLOBAL (nicht scoped) CSS für dynamisch via JS gerenderte Author-Cards -->
+  <style is:global>
+    .hz-author-card {
+      display: grid !important;
+      grid-template-columns: 80px 1fr auto !important;
+      gap: 1rem;
+      align-items: center;
+      padding: 1rem;
+      border: 1px solid rgba(255,255,255,0.10);
+      border-radius: 10px;
+      margin-bottom: 0.75rem;
+      background: #13131c;
+      transition: border-color 0.15s;
     }
-    .author-card img { width: 100px; height: 100px; object-fit: cover; border-radius: 0.5rem; background: var(--hz-bg); }
+    .hz-author-card:hover { border-color: rgba(255,255,255,0.18); }
+    .hz-author-card img {
+      width: 80px !important; height: 80px !important;
+      object-fit: cover;
+      border-radius: 50%;
+      background: #1c1c28;
+      display: block;
+    }
+    .hz-author-card .hz-author-name { font-weight: 700; font-size: 1.05rem; font-family: 'Playfair Display', serif; letter-spacing: -0.01em; }
+    .hz-author-card .hz-author-role { font-size: 0.82rem; color: #94a3b8; margin-top: 0.2rem; }
+    .hz-author-card .hz-author-meta { font-size: 0.72rem; color: #64748b; margin-top: 0.3rem; font-family: 'DM Sans', sans-serif; }
   </style>
 
   <script is:inline define:vars={{ articleCounts }}>
@@ -94,12 +116,12 @@ for (const a of blog) {
     function render() {
       const entries = Object.values(authorsData).sort((a, b) => a.name.localeCompare(b.name));
       $('list').innerHTML = entries.map((a) => `
-        <div class="author-card">
-          <img src="${a.image}" alt="${a.name}" onerror="this.style.background='rgba(239,68,68,0.1)'"/>
+        <div class="hz-author-card">
+          <img src="${a.image}" alt="${a.name}" onerror="this.style.background='rgba(239,68,68,0.1)'; this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MCA4MCI+PGNpcmNsZSBjeD0iNDAiIGN5PSIzMCIgcj0iMTIiIGZpbGw9IiM2NDc0OGIiLz48cGF0aCBkPSJNMTUgNzAgQzE1IDU1IDI1IDUwIDQwIDUwIEM1NSA1MCA2NSA1NSA2NSA3MCBaIiBmaWxsPSIjNjQ3NDhiIi8+PC9zdmc+';"/>
           <div>
-            <div style="font-weight: 600; font-size: 1.1rem;">${a.name}</div>
-            <div style="font-size: 0.85rem; color: var(--hz-text-muted); margin-top: 0.25rem;">${a.role}</div>
-            <div style="font-size: 0.75rem; margin-top: 0.35rem;"><code>${a.slug}</code> · ${(articleCounts[a.slug] || 0)} Artikel · ${(a.expertise||[]).slice(0,4).join(', ')}</div>
+            <div class="hz-author-name">${a.name}</div>
+            <div class="hz-author-role">${a.role}</div>
+            <div class="hz-author-meta"><code>${a.slug}</code> · ${(articleCounts[a.slug] || 0)} Artikel · ${(a.expertise||[]).slice(0,4).join(', ')}</div>
           </div>
           <button class="hz-btn" data-edit="${a.slug}">Bearbeiten</button>
         </div>

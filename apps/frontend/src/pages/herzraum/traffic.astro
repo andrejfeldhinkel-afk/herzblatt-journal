@@ -123,12 +123,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         setKpi('pageviews.unique', d.topArticles.length);
         setKpi('pageviews.refs', d.topReferrers.length);
 
-        // Charts
-        renderDailyChart(d.charts.pageviewsByDay);
-        renderBarChart('chart-weekday', d.charts.pageviewsByWeekday, 'day', 'count', 'Aufrufe');
-        renderBarChart('chart-hour', d.charts.pageviewsByHour.map(h => ({ hour: String(h.hour).padStart(2, '0'), count: h.count })), 'hour', 'count', 'Aufrufe');
-
-        // Tabellen
+        // DEFENSIV: Tabellen ZUERST
         const total = Math.max(1, rangeCount);
         const artBody = document.querySelector('#table-articles tbody');
         artBody.innerHTML = d.topArticles.length
@@ -145,6 +140,15 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
               return '<tr><td class="muted">' + (i+1) + '</td><td>' + r.key + '</td><td class="right">' + fmtNum(r.count) + '</td><td class="right muted">' + pct + ' %</td></tr>';
             }).join('')
           : '<tr><td colspan="4" class="muted">Noch keine Daten</td></tr>';
+
+        // Charts am Schluss — defensiv (Chart.js könnte durch CSP oder Ad-Blocker geblockt sein)
+        if (typeof Chart !== 'undefined') {
+          try {
+            renderDailyChart(d.charts.pageviewsByDay);
+            renderBarChart('chart-weekday', d.charts.pageviewsByWeekday, 'day', 'count', 'Aufrufe');
+            renderBarChart('chart-hour', d.charts.pageviewsByHour.map(h => ({ hour: String(h.hour).padStart(2, '0'), count: h.count })), 'hour', 'count', 'Aufrufe');
+          } catch (err) { console.error('[traffic] chart:', err); }
+        }
       }
 
       rangeSel.addEventListener('change', load);
