@@ -121,7 +121,7 @@ app.get('/', async (c) => {
   const pvByWeekdayRaw = await db.execute<{ day: number; n: number }>(sql`
     SELECT EXTRACT(DOW FROM ts)::int AS day, COUNT(*)::int AS n
     FROM pageviews
-    WHERE ts > ${rangeStart}
+    WHERE ts > ${rangeStart.toISOString()}::timestamptz
     GROUP BY day
     ORDER BY day
   `);
@@ -136,7 +136,7 @@ app.get('/', async (c) => {
   const pvByHourRaw = await db.execute<{ hour: number; n: number }>(sql`
     SELECT EXTRACT(HOUR FROM ts)::int AS hour, COUNT(*)::int AS n
     FROM pageviews
-    WHERE ts > ${rangeStart}
+    WHERE ts > ${rangeStart.toISOString()}::timestamptz
     GROUP BY hour
     ORDER BY hour
   `);
@@ -150,7 +150,7 @@ app.get('/', async (c) => {
   const regByDayRaw = await db.execute<{ day: string; n: number }>(sql`
     SELECT DATE(created_at AT TIME ZONE 'UTC')::text AS day, COUNT(*)::int AS n
     FROM registrations
-    WHERE created_at > ${rangeStart}
+    WHERE created_at > ${rangeStart.toISOString()}::timestamptz
     GROUP BY day
     ORDER BY day
   `);
