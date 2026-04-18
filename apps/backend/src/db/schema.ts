@@ -181,3 +181,39 @@ export const auditLog = pgTable(
     actionIdx: index('audit_log_action_idx').on(t.action),
   }),
 );
+
+/**
+ * Inbound-Emails — Mails die an support@herzblatt-journal.de kommen.
+ * Via SendGrid Inbound Parse Webhook befüllt.
+ *
+ * direction='in' = eingehend (vom User)
+ * direction='out' = Antwort von uns (in gleichem Thread)
+ *
+ * threadId verbindet Messages desselben Gesprächs (aus In-Reply-To / References
+ * oder subject-matching).
+ */
+export const inboundEmails = pgTable(
+  'inbound_emails',
+  {
+    id: serial('id').primaryKey(),
+    receivedAt: timestamp('received_at', { withTimezone: true }).defaultNow().notNull(),
+    direction: text('direction').notNull().default('in'), // 'in' | 'out'
+    fromEmail: text('from_email').notNull(),
+    fromName: text('from_name'),
+    toEmail: text('to_email').notNull(),
+    subject: text('subject'),
+    bodyText: text('body_text'),
+    bodyHtml: text('body_html'),
+    messageId: text('message_id'),          // RFC 822 Message-ID header
+    inReplyTo: text('in_reply_to'),          // Parent Message-ID (für Threading)
+    threadId: text('thread_id'),             // Unsere eigene Thread-Grouping
+    status: text('status').notNull().default('unread'), // 'unread' | 'read' | 'replied' | 'archived' | 'spam'
+    rawPayload: text('raw_payload'),         // Full SendGrid-POST Body für Debug
+  },
+  (t) => ({
+    receivedAtIdx: index('inbound_emails_received_at_idx').on(t.receivedAt),
+    statusIdx: index('inbound_emails_status_idx').on(t.status),
+    threadIdIdx: index('inbound_emails_thread_id_idx').on(t.threadId),
+    fromEmailIdx: index('inbound_emails_from_email_idx').on(t.fromEmail),
+  }),
+);

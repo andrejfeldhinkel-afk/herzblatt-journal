@@ -53,6 +53,30 @@ export async function runStartupMigrations(): Promise<void> {
         meta TEXT
       )
     `);
+
+    // inbound_emails — Inbox für admin
+    await db.execute(sql`
+      CREATE TABLE IF NOT EXISTS inbound_emails (
+        id SERIAL PRIMARY KEY,
+        received_at TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW(),
+        direction TEXT NOT NULL DEFAULT 'in',
+        from_email TEXT NOT NULL,
+        from_name TEXT,
+        to_email TEXT NOT NULL,
+        subject TEXT,
+        body_text TEXT,
+        body_html TEXT,
+        message_id TEXT,
+        in_reply_to TEXT,
+        thread_id TEXT,
+        status TEXT NOT NULL DEFAULT 'unread',
+        raw_payload TEXT
+      )
+    `);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS inbound_emails_received_at_idx ON inbound_emails(received_at DESC)`);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS inbound_emails_status_idx ON inbound_emails(status)`);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS inbound_emails_thread_id_idx ON inbound_emails(thread_id)`);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS inbound_emails_from_email_idx ON inbound_emails(from_email)`);
     await db.execute(sql`
       CREATE INDEX IF NOT EXISTS audit_log_ts_idx ON audit_log(ts)
     `);

@@ -1,0 +1,246 @@
+---
+export const prerender = false;
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+---
+<HerzraumLayout title="Postfach" active="inbox">
+
+  <div style="display: grid; grid-template-columns: 380px 1fr; gap: 1rem; height: calc(100vh - 140px); min-height: 600px;">
+
+    <!-- Linke Spalte: Mail-Liste -->
+    <div class="hz-card" style="padding: 0; display: flex; flex-direction: column; overflow: hidden;">
+      <div style="padding: 1rem; border-bottom: 1px solid var(--hz-border); background: var(--hz-surface-2);">
+        <div class="hz-row" style="margin-bottom: 0.6rem;">
+          <h3 style="margin: 0; font-size: 1rem;">📨 Postfach</h3>
+          <div class="hz-spacer"></div>
+          <span id="unread-count" class="hz-badge danger" style="display: none;">0</span>
+        </div>
+        <div class="hz-row" style="gap: 0.4rem; flex-wrap: nowrap;">
+          <select id="filter-status" style="flex: 1; padding: 0.35rem 0.5rem; font-size: 0.8rem;">
+            <option value="all">Alle aktiven</option>
+            <option value="unread">Ungelesen</option>
+            <option value="read">Gelesen</option>
+            <option value="replied">Beantwortet</option>
+            <option value="archived">Archiviert</option>
+            <option value="spam">Spam</option>
+          </select>
+        </div>
+        <input type="search" id="search" placeholder="Suche in Mails…" style="width: 100%; margin-top: 0.5rem; padding: 0.4rem 0.6rem; font-size: 0.82rem;" />
+      </div>
+      <div id="mail-list" style="overflow-y: auto; flex: 1;">
+        <div style="padding: 2rem; text-align: center; color: var(--hz-text-muted); font-size: 0.85rem;">Lade…</div>
+      </div>
+    </div>
+
+    <!-- Rechte Spalte: Detail -->
+    <div class="hz-card" id="detail-pane" style="padding: 0; overflow: hidden; display: flex; flex-direction: column;">
+      <div id="no-selection" style="padding: 3rem; text-align: center; color: var(--hz-text-muted); font-size: 0.9rem;">
+        ← Wähle links eine Mail zum Lesen und Antworten
+      </div>
+      <div id="detail-content" style="display: none; flex-direction: column; flex: 1; overflow: hidden;"></div>
+    </div>
+  </div>
+
+  <style is:global>
+    .mail-item {
+      padding: 0.85rem 1rem;
+      border-bottom: 1px solid var(--hz-border);
+      cursor: pointer;
+      transition: background 0.1s;
+    }
+    .mail-item:hover { background: var(--hz-surface-2); }
+    .mail-item.active { background: var(--hz-primary-light); border-left: 3px solid var(--hz-primary); padding-left: calc(1rem - 3px); }
+    .mail-item.unread .mail-from { font-weight: 700; color: var(--hz-text); }
+    .mail-item.unread::before {
+      content: ''; display: inline-block; width: 8px; height: 8px;
+      background: var(--hz-primary); border-radius: 50%;
+      margin-right: 0.5rem; vertical-align: middle;
+      box-shadow: 0 0 6px var(--hz-primary-glow);
+    }
+    .mail-item .mail-from { font-size: 0.87rem; color: var(--hz-text-muted); }
+    .mail-item .mail-subject { font-size: 0.86rem; color: var(--hz-text); margin-top: 0.2rem; font-weight: 500; }
+    .mail-item .mail-preview { font-size: 0.76rem; color: var(--hz-text-dim); margin-top: 0.2rem; display: -webkit-box; -webkit-line-clamp: 2; line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .mail-item .mail-meta { display: flex; justify-content: space-between; margin-top: 0.3rem; font-size: 0.7rem; color: var(--hz-text-dim); }
+
+    .thread-msg {
+      padding: 1rem 1.25rem;
+      border-bottom: 1px solid var(--hz-border);
+    }
+    .thread-msg.out { background: rgba(244,63,94,0.04); }
+    .thread-msg .thread-header { display: flex; justify-content: space-between; font-size: 0.8rem; color: var(--hz-text-muted); margin-bottom: 0.5rem; }
+    .thread-msg .thread-body { font-size: 0.9rem; line-height: 1.55; white-space: pre-wrap; color: var(--hz-text); }
+  </style>
+
+  <script is:inline>
+    (function() {
+      const $ = (id) => document.getElementById(id);
+      let currentId = null;
+
+      async function updateUnreadCount() {
+        try {
+          const r = await fetch('/api/herzraum/inbox/unread-count').then(r => r.json());
+          if (r.ok) {
+            const el = $('unread-count');
+            if (r.count > 0) { el.style.display = 'inline-block'; el.textContent = r.count; }
+            else { el.style.display = 'none'; }
+          }
+        } catch {}
+      }
+
+      async function loadList() {
+        const status = $('filter-status').value;
+        const q = $('search').value;
+        const url = '/api/herzraum/inbox?' + new URLSearchParams({ status, q });
+        const listEl = $('mail-list');
+        try {
+          const r = await fetch(url).then(r => r.json());
+          if (!r.ok) throw new Error(r.error);
+          if (r.items.length === 0) {
+            listEl.innerHTML = '<div style="padding: 3rem 1rem; text-align: center; color: var(--hz-text-muted); font-size: 0.85rem;">Keine Mails hier</div>';
+            return;
+          }
+          listEl.innerHTML = r.items.map(m => {
+            const ts = m.receivedAt ? new Date(m.receivedAt).toLocaleString('de-DE', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' }) : '—';
+            const from = m.fromName ? `${m.fromName} <${m.fromEmail}>` : m.fromEmail;
+            return `<div class="mail-item ${m.status}" data-id="${m.id}">
+              <div class="mail-from">${from}</div>
+              <div class="mail-subject">${m.subject || '(kein Betreff)'}</div>
+              <div class="mail-preview">${(m.preview || '').replace(/</g, '&lt;')}</div>
+              <div class="mail-meta">
+                <span class="hz-badge muted">${m.status}</span>
+                <span>${ts}</span>
+              </div>
+            </div>`;
+          }).join('');
+          document.querySelectorAll('.mail-item').forEach(el => {
+            el.addEventListener('click', () => openMail(parseInt(el.dataset.id, 10)));
+            if (currentId && parseInt(el.dataset.id, 10) === currentId) el.classList.add('active');
+          });
+        } catch (err) {
+          listEl.innerHTML = `<div style="padding: 2rem; color: var(--hz-danger);">Fehler: ${err.message}</div>`;
+        }
+      }
+
+      async function openMail(id) {
+        currentId = id;
+        document.querySelectorAll('.mail-item').forEach(e => e.classList.toggle('active', parseInt(e.dataset.id, 10) === id));
+        $('no-selection').style.display = 'none';
+        $('detail-content').style.display = 'flex';
+        $('detail-content').innerHTML = '<div style="padding: 2rem; text-align: center; color: var(--hz-text-muted);">Lade…</div>';
+        try {
+          const r = await fetch('/api/herzraum/inbox/' + id).then(r => r.json());
+          if (!r.ok) throw new Error(r.error);
+          renderDetail(r);
+          updateUnreadCount();
+          // Update item-class in left list
+          const item = document.querySelector('.mail-item[data-id="' + id + '"]');
+          if (item) item.classList.remove('unread');
+        } catch (err) {
+          $('detail-content').innerHTML = `<div style="padding: 2rem; color: var(--hz-danger);">Fehler: ${err.message}</div>`;
+        }
+      }
+
+      function renderDetail(r) {
+        const mail = r.mail;
+        const thread = r.thread || [mail];
+        const subject = mail.subject || '(kein Betreff)';
+
+        const threadHtml = thread.map(m => {
+          const ts = m.receivedAt ? new Date(m.receivedAt).toLocaleString('de-DE') : '—';
+          const header = m.direction === 'out'
+            ? `<strong>An:</strong> ${m.toEmail}`
+            : `<strong>Von:</strong> ${m.fromName ? m.fromName + ' &lt;' + m.fromEmail + '&gt;' : m.fromEmail}`;
+          return `<div class="thread-msg ${m.direction}">
+            <div class="thread-header">
+              <span>${header}</span>
+              <span>${ts}${m.direction === 'out' ? ' · gesendet' : ''}</span>
+            </div>
+            <div class="thread-body">${(m.bodyText || '').replace(/</g, '&lt;')}</div>
+          </div>`;
+        }).join('');
+
+        $('detail-content').innerHTML = `
+          <div style="padding: 1.25rem; border-bottom: 1px solid var(--hz-border); background: var(--hz-surface-2);">
+            <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem;">
+              <h2 style="margin: 0; font-size: 1.1rem; font-family: 'Playfair Display', serif;">${subject}</h2>
+              <div style="display: flex; gap: 0.25rem; flex-shrink: 0;">
+                <button class="hz-btn sm" data-status="archived" title="Archivieren">🗄</button>
+                <button class="hz-btn sm" data-status="spam" title="Als Spam markieren">🚫</button>
+                <button class="hz-btn sm danger" data-action="delete" title="Löschen">🗑</button>
+              </div>
+            </div>
+          </div>
+          <div style="flex: 1; overflow-y: auto;">
+            ${threadHtml}
+          </div>
+          <div style="border-top: 1px solid var(--hz-border); padding: 1rem 1.25rem; background: var(--hz-bg-2);">
+            <h4 style="margin: 0 0 0.5rem; font-size: 0.88rem;">Antwort schreiben</h4>
+            <textarea id="reply-body" rows="6" style="width: 100%; font-family: Georgia, serif; font-size: 0.9rem;" placeholder="Deine Antwort an ${mail.fromName || mail.fromEmail}…"></textarea>
+            <div class="hz-row" style="margin-top: 0.5rem; gap: 0.5rem;">
+              <div id="reply-result" style="flex: 1; font-size: 0.83rem; color: var(--hz-text-muted);"></div>
+              <button id="send-reply-btn" class="hz-btn primary">Antwort senden</button>
+            </div>
+          </div>
+        `;
+
+        document.querySelectorAll('[data-status]').forEach(btn => {
+          btn.addEventListener('click', async () => {
+            const status = btn.dataset.status;
+            await fetch('/api/herzraum/inbox/' + mail.id + '/status', {
+              method: 'PATCH',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ status }),
+            });
+            loadList();
+            updateUnreadCount();
+            $('detail-content').style.display = 'none';
+            $('no-selection').style.display = 'block';
+          });
+        });
+
+        document.querySelector('[data-action="delete"]').addEventListener('click', async () => {
+          if (!confirm('Mail löschen — nicht wiederherstellbar?')) return;
+          await fetch('/api/herzraum/inbox/' + mail.id, { method: 'DELETE' });
+          loadList();
+          updateUnreadCount();
+          $('detail-content').style.display = 'none';
+          $('no-selection').style.display = 'block';
+        });
+
+        $('send-reply-btn').addEventListener('click', async () => {
+          const body = $('reply-body').value.trim();
+          if (!body) return;
+          const btn = $('send-reply-btn'); btn.disabled = true; btn.textContent = 'Sende…';
+          const result = $('reply-result');
+          try {
+            const r = await fetch('/api/herzraum/inbox/' + mail.id + '/reply', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ bodyText: body }),
+            });
+            const d = await r.json();
+            if (d.ok) {
+              result.innerHTML = '<span style="color: #16a34a;">✓ Gesendet an ' + d.to + '</span>';
+              setTimeout(() => { openMail(mail.id); loadList(); }, 1200);
+            } else {
+              result.innerHTML = '<span style="color: var(--hz-danger);">Fehler: ' + (d.error || 'unknown') + '</span>';
+              btn.disabled = false; btn.textContent = 'Antwort senden';
+            }
+          } catch (err) {
+            result.innerHTML = '<span style="color: var(--hz-danger);">Netzwerk-Fehler</span>';
+            btn.disabled = false; btn.textContent = 'Antwort senden';
+          }
+        });
+      }
+
+      $('filter-status').addEventListener('change', loadList);
+      $('search').addEventListener('input', (() => {
+        let t;
+        return () => { clearTimeout(t); t = setTimeout(loadList, 300); };
+      })());
+
+      loadList();
+      updateUnreadCount();
+      setInterval(() => { updateUnreadCount(); if (!currentId) loadList(); }, 30_000);
+    })();
+  </script>
+</HerzraumLayout>
