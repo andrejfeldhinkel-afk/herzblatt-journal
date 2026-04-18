@@ -138,6 +138,44 @@ export async function runStartupMigrations(): Promise<void> {
     await db.execute(sql`CREATE INDEX IF NOT EXISTS products_featured_idx ON products(featured)`);
     await db.execute(sql`CREATE INDEX IF NOT EXISTS products_sort_order_idx ON products(sort_order)`);
 
+    // push_subscriptions — PWA-Push-Abonnenten
+    await db.execute(sql`
+      CREATE TABLE IF NOT EXISTS push_subscriptions (
+        id SERIAL PRIMARY KEY,
+        endpoint TEXT NOT NULL UNIQUE,
+        p256dh TEXT NOT NULL,
+        auth TEXT NOT NULL,
+        user_agent TEXT,
+        lang TEXT DEFAULT 'de-DE',
+        enabled BOOLEAN NOT NULL DEFAULT TRUE,
+        created_at TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW(),
+        last_seen_at TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW(),
+        last_notification_at TIMESTAMP WITH TIME ZONE,
+        failure_count BIGINT NOT NULL DEFAULT 0
+      )
+    `);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS push_subscriptions_endpoint_idx ON push_subscriptions(endpoint)`);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS push_subscriptions_enabled_idx ON push_subscriptions(enabled)`);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS push_subscriptions_created_idx ON push_subscriptions(created_at)`);
+
+    // push_broadcasts — Kampagnen-History
+    await db.execute(sql`
+      CREATE TABLE IF NOT EXISTS push_broadcasts (
+        id SERIAL PRIMARY KEY,
+        title TEXT NOT NULL,
+        body TEXT NOT NULL,
+        url TEXT NOT NULL DEFAULT '/',
+        icon TEXT,
+        image TEXT,
+        sent_at TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW(),
+        recipient_count BIGINT NOT NULL DEFAULT 0,
+        success_count BIGINT NOT NULL DEFAULT 0,
+        failure_count BIGINT NOT NULL DEFAULT 0,
+        actor TEXT NOT NULL DEFAULT 'admin'
+      )
+    `);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS push_broadcasts_sent_at_idx ON push_broadcasts(sent_at)`);
+
     console.log(`[migrate] done in ${Date.now() - start}ms`);
   } catch (err) {
     console.error('[migrate] FAILED:', err);

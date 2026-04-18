@@ -1,0 +1,155 @@
+---
+/**
+ * PushPrompt — Slim floating banner that asks the user to enable push
+ * notifications. Appears after 3 page views (counted in localStorage) so we
+ * don't nag first-time visitors. Respects dismissals for 30 days.
+ *
+ * Flow:
+ *   1. Banner shows → user clicks "Aktivieren"
+ *   2. Request Notification permission
+ *   3. Register service worker (if not already)
+ *   4. Subscribe to push using VAPID public key from backend
+ *   5. POST subscription to /api/push/subscribe
+ *
+ * VAPID public key: fetched from /api/push/vapid (backend, no secret leak).
+ */
+---
+<div id="push-prompt" class="hidden fixed bottom-4 left-4 right-4 sm:left-auto sm:right-4 sm:max-w-sm z-[95] rounded-2xl shadow-2xl p-5"
+     style="background: var(--bg-card); border: 1px solid var(--border); box-shadow: 0 20px 60px rgba(244, 63, 94, 0.25);">
+  <div class="flex items-start gap-3">
+    <div class="flex-shrink-0 w-10 h-10 rounded-full flex items-center justify-center" style="background: linear-gradient(135deg, #fee2e2, #fecdd3);">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#be123c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/>
+        <path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/>
+      </svg>
+    </div>
+    <div class="flex-1 min-w-0">
+      <h3 class="text-sm font-bold mb-1" style="color: var(--text);">Neue Artikel zuerst lesen?</h3>
+      <p class="text-xs leading-relaxed mb-3" style="color: var(--text-muted);">
+        Wir melden dich bei neuen Dating-Tipps. Max. 2× pro Woche — kein Spam.
+      </p>
+      <div class="flex gap-2">
+        <button id="push-prompt-enable" class="flex-1 px-3 py-2 rounded-full text-xs font-bold text-white cursor-pointer"
+                style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600));">
+          Aktivieren
+        </button>
+        <button id="push-prompt-dismiss" class="px-3 py-2 rounded-full text-xs font-medium cursor-pointer"
+                style="background: transparent; color: var(--text-muted); border: 1px solid var(--border);">
+          Später
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script is:inline>
+  (function () {
+    if (!('serviceWorker' in navigator) || !('PushManager' in window) || !('Notification' in window)) {
+      return; // Browser doesn't support PWA push
+    }
+
+    var STORAGE_COUNT = 'hbj-pv-count';
+    var STORAGE_DISMISS = 'hbj-push-dismissed-until';
+    var STORAGE_SUBBED = 'hbj-push-subscribed';
+
+    var banner = document.getElementById('push-prompt');
+    if (!banner) return;
+
+    // Count page views.
+    var count = parseInt(localStorage.getItem(STORAGE_COUNT) || '0', 10) + 1;
+    localStorage.setItem(STORAGE_COUNT, String(count));
+
+    // Check dismissal window.
+    var dismissedUntil = parseInt(localStorage.getItem(STORAGE_DISMISS) || '0', 10);
+    var now = Date.now();
+
+    // Skip if already subscribed, recently dismissed, or permission denied.
+    if (
+      localStorage.getItem(STORAGE_SUBBED) === '1' ||
+      dismissedUntil > now ||
+      Notification.permission === 'denied' ||
+      Notification.permission === 'granted' || // already granted → assume subscribed
+      count < 3 // only after 3 pageviews
+    ) {
+      return;
+    }
+
+    // Show banner after 4 seconds (so user has time to start reading).
+    setTimeout(function () {
+      banner.classList.remove('hidden');
+    }, 4000);
+
+    document.getElementById('push-prompt-dismiss').addEventListener('click', function () {
+      banner.classList.add('hidden');
+      // Snooze for 30 days.
+      localStorage.setItem(STORAGE_DISMISS, String(now + 30 * 24 * 60 * 60 * 1000));
+    });
+
+    document.getElementById('push-prompt-enable').addEventListener('click', async function () {
+      try {
+        var permission = await Notification.requestPermission();
+        if (permission !== 'granted') {
+          banner.classList.add('hidden');
+          localStorage.setItem(STORAGE_DISMISS, String(now + 30 * 24 * 60 * 60 * 1000));
+          return;
+        }
+
+        // Make sure SW is registered.
+        var reg = await navigator.serviceWorker.ready;
+
+        // Fetch VAPID public key from backend.
+        var vapidRes = await fetch('/api/push/vapid');
+        if (!vapidRes.ok) throw new Error('vapid fetch failed');
+        var vapidData = await vapidRes.json();
+        if (!vapidData.publicKey) throw new Error('no vapid key');
+
+        // Convert base64-url to Uint8Array.
+        var applicationServerKey = urlBase64ToUint8Array(vapidData.publicKey);
+
+        // Subscribe (re-use existing if any).
+        var sub = await reg.pushManager.getSubscription();
+        if (!sub) {
+          sub = await reg.pushManager.subscribe({
+            userVisibleOnly: true,
+            applicationServerKey: applicationServerKey,
+          });
+        }
+
+        // Send subscription to backend.
+        await fetch('/api/push/subscribe', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            subscription: sub.toJSON(),
+            userAgent: navigator.userAgent,
+            lang: navigator.language || 'de-DE',
+          }),
+        });
+
+        localStorage.setItem(STORAGE_SUBBED, '1');
+        banner.classList.add('hidden');
+      } catch (err) {
+        console.error('[push] subscribe failed', err);
+        banner.classList.add('hidden');
+      }
+    });
+
+    // Listen for SW re-subscribe message
+    navigator.serviceWorker.addEventListener('message', function (event) {
+      if (event.data && event.data.type === 'pushsubscriptionchange') {
+        localStorage.removeItem(STORAGE_SUBBED);
+      }
+    });
+
+    function urlBase64ToUint8Array(base64String) {
+      var padding = '='.repeat((4 - base64String.length % 4) % 4);
+      var base64 = (base64String + padding).replace(/-/g, '+').replace(/_/g, '/');
+      var rawData = atob(base64);
+      var output = new Uint8Array(rawData.length);
+      for (var i = 0; i < rawData.length; ++i) {
+        output[i] = rawData.charCodeAt(i);
+      }
+      return output;
+    }
+  })();
+</script>

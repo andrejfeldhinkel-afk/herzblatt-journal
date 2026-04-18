@@ -1,12 +1,65 @@
 {
   "name": "Herzblatt Journal",
   "short_name": "Herzblatt",
-  "description": "Dating-Tipps, Flirt-Ratgeber und Beziehungs-Strategien",
-  "start_url": "/",
+  "description": "Dating-Tipps, Flirt-Ratgeber und Beziehungs-Strategien auf Deutsch.",
+  "start_url": "/?utm_source=pwa",
+  "scope": "/",
+  "id": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "display_override": ["standalone", "minimal-ui", "browser"],
+  "orientation": "portrait",
+  "background_color": "#fff1f2",
   "theme_color": "#e11d48",
+  "lang": "de-DE",
+  "dir": "ltr",
+  "categories": ["lifestyle", "education", "social"],
   "icons": [
-    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Neue Artikel",
+      "short_name": "Blog",
+      "description": "Zum Blog mit allen Artikeln",
+      "url": "/blog?utm_source=pwa-shortcut",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Dating-Typ-Test",
+      "short_name": "Quiz",
+      "description": "Starte den Dating-Typ-Test",
+      "url": "/dating-typ-test?utm_source=pwa-shortcut",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Top Dating-Seiten",
+      "short_name": "Vergleich",
+      "description": "Vergleich der besten Dating-Seiten",
+      "url": "/top-dating-seiten?utm_source=pwa-shortcut",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }]
+    }
   ]
 }
