@@ -117,6 +117,45 @@ app.get('/', async (c) => {
   const pvByDay = fillDays(pvByDayRaw as any, days);
   const clicksByDay = fillDays(clickByDayRaw as any, days);
 
+  // Pageviews by Weekday (0=Sonntag, 1=Montag, ..., 6=Samstag)
+  const pvByWeekdayRaw = await db.execute<{ day: number; n: number }>(sql`
+    SELECT EXTRACT(DOW FROM ts)::int AS day, COUNT(*)::int AS n
+    FROM pageviews
+    WHERE ts > ${rangeStart}
+    GROUP BY day
+    ORDER BY day
+  `);
+  const weekdayLabels = ['So', 'Mo', 'Di', 'Mi', 'Do', 'Fr', 'Sa'];
+  const weekdayMap = new Map<number, number>();
+  for (const row of (pvByWeekdayRaw as any[])) {
+    weekdayMap.set(Number(row.day), Number(row.n));
+  }
+  const pvByWeekday = weekdayLabels.map((day, i) => ({ day, count: weekdayMap.get(i) || 0 }));
+
+  // Pageviews by Hour (0-23)
+  const pvByHourRaw = await db.execute<{ hour: number; n: number }>(sql`
+    SELECT EXTRACT(HOUR FROM ts)::int AS hour, COUNT(*)::int AS n
+    FROM pageviews
+    WHERE ts > ${rangeStart}
+    GROUP BY hour
+    ORDER BY hour
+  `);
+  const hourMap = new Map<number, number>();
+  for (const row of (pvByHourRaw as any[])) {
+    hourMap.set(Number(row.hour), Number(row.n));
+  }
+  const pvByHour = Array.from({ length: 24 }, (_, h) => ({ hour: h, count: hourMap.get(h) || 0 }));
+
+  // Registrations by Day
+  const regByDayRaw = await db.execute<{ day: string; n: number }>(sql`
+    SELECT DATE(created_at AT TIME ZONE 'UTC')::text AS day, COUNT(*)::int AS n
+    FROM registrations
+    WHERE created_at > ${rangeStart}
+    GROUP BY day
+    ORDER BY day
+  `);
+  const regByDay = fillDays(regByDayRaw as any, days);
+
   // Recent activity
   const recent = await db
     .select({
@@ -168,6 +207,9 @@ app.get('/', async (c) => {
     charts: {
       pageviewsByDay: pvByDay,
       clicksByDay,
+      pageviewsByWeekday: pvByWeekday,
+      pageviewsByHour: pvByHour,
+      registrationsByDay: regByDay,
     },
     recentActivity: recent.map(r => ({
       ts: r.ts instanceof Date ? r.ts.toISOString() : r.ts,
