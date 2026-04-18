@@ -1,0 +1,390 @@
+---
+/**
+ * ProductCard — einzelne Produkt-Karte für Blog-Artikel, Sidebar, Landing-Pages.
+ *
+ * Props:
+ *   product (object) — falls bereits gefetched (SSR-Props)
+ *   slug (string)    — alternativ: Slug, dann wird in SSR gefetched
+ *   variant: 'default' | 'compact' | 'featured'
+ *
+ * Click-Tracking: Via JS bei Klick wird POST /api/track-click mit
+ * target=product.trackingTarget gefeuert (sendBeacon), dann window.open.
+ */
+
+interface Product {
+  slug: string;
+  name: string;
+  shortDescription?: string | null;
+  longDescription?: string | null;
+  type: string;
+  source: string;
+  category?: string | null;
+  priceCents?: number | null;
+  currency?: string;
+  imageUrl?: string | null;
+  imageAlt?: string | null;
+  targetUrl: string;
+  trackingTarget: string;
+  ctaLabel?: string;
+  badges?: string[];
+  rating?: string | null;
+  featured?: boolean;
+}
+
+interface Props {
+  product?: Product;
+  slug?: string;
+  variant?: 'default' | 'compact' | 'featured';
+}
+
+const { product: providedProduct, slug, variant = 'default' } = Astro.props;
+
+let product: Product | null = providedProduct || null;
+
+// Wenn nur slug → serverseitig fetchen
+if (!product && slug) {
+  const BACKEND_URL =
+    (import.meta.env.BACKEND_URL as string | undefined) ||
+    (typeof process !== 'undefined' ? process.env.BACKEND_URL : undefined) ||
+    'https://backend-production-c327.up.railway.app';
+  try {
+    const res = await fetch(`${BACKEND_URL.replace(/\/$/, '')}/products/${slug}`);
+    if (res.ok) {
+      const data = await res.json() as { ok: boolean; product: Product };
+      if (data.ok) product = data.product;
+    }
+  } catch (err) {
+    console.warn('[ProductCard] fetch error:', err);
+  }
+}
+
+// Silent-fail: nicht rendern wenn keine Daten
+if (!product) {
+  return Astro.redirect ? null : null;
+}
+
+const p = product;
+const priceFormatted =
+  p.priceCents != null
+    ? new Intl.NumberFormat('de-DE', {
+        style: 'currency',
+        currency: p.currency || 'EUR',
+        maximumFractionDigits: 2,
+      }).format(p.priceCents / 100)
+    : null;
+
+const ratingNum = p.rating ? parseFloat(p.rating) : null;
+const ctaLabel = p.ctaLabel || 'Jetzt ansehen';
+
+// Source-Label (verkürzt)
+const SOURCE_NOTE: Record<string, string> = {
+  amazon: 'Amazon',
+  digistore: 'Digistore24',
+  awin: 'Partner',
+  tradedoubler: 'Partner',
+  direct: '',
+  coaching: 'Coaching',
+  elopage: 'Elopage',
+  financeads: 'Partner',
+};
+const sourceNote = SOURCE_NOTE[p.source] ?? '';
+---
+
+{p && (
+  <a
+    href={p.targetUrl}
+    class={`hz-product-card hz-product-card--${variant}`}
+    data-product-slug={p.slug}
+    data-tracking-target={p.trackingTarget}
+    target="_blank"
+    rel="noopener sponsored nofollow"
+  >
+    {p.imageUrl && (
+      <div class="hz-product-card__image">
+        <img src={p.imageUrl} alt={p.imageAlt || p.name} loading="lazy" />
+      </div>
+    )}
+
+    <div class="hz-product-card__body">
+      {p.badges && p.badges.length > 0 && (
+        <div class="hz-product-card__badges">
+          {p.badges.slice(0, 3).map((badge) => (
+            <span class="hz-product-card__badge">{badge}</span>
+          ))}
+        </div>
+      )}
+
+      <h3 class="hz-product-card__title">{p.name}</h3>
+
+      {p.shortDescription && (
+        <p class="hz-product-card__description">{p.shortDescription}</p>
+      )}
+
+      <div class="hz-product-card__meta">
+        {ratingNum != null && (
+          <span class="hz-product-card__rating" aria-label={`Bewertung: ${ratingNum} von 5`}>
+            <span class="hz-product-card__stars">
+              {'★'.repeat(Math.round(ratingNum))}{'☆'.repeat(5 - Math.round(ratingNum))}
+            </span>
+            <span class="hz-product-card__rating-value">{ratingNum.toFixed(1)}</span>
+          </span>
+        )}
+        {priceFormatted && (
+          <span class="hz-product-card__price">{priceFormatted}</span>
+        )}
+      </div>
+
+      <div class="hz-product-card__cta">
+        <span class="hz-product-card__cta-btn">{ctaLabel} →</span>
+        {sourceNote && <span class="hz-product-card__source">bei {sourceNote}</span>}
+      </div>
+
+      <p class="hz-product-card__affiliate-note">* Werbe-/Affiliate-Link</p>
+    </div>
+  </a>
+)}
+
+<style>
+  .hz-product-card {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    gap: 1.25rem;
+    padding: 1.25rem;
+    background: var(--color-bg, #fff);
+    border: 1px solid var(--color-border, #e5e7eb);
+    border-radius: 14px;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    margin: 1.5rem 0;
+    position: relative;
+    overflow: hidden;
+  }
+  .hz-product-card:hover {
+    border-color: var(--color-primary-400, #fb7185);
+    box-shadow: 0 10px 30px -10px rgba(244, 63, 94, 0.2);
+    transform: translateY(-2px);
+  }
+  .hz-product-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #fb7185, #f43f5e);
+    opacity: 0;
+    transition: opacity 0.2s;
+  }
+  .hz-product-card:hover::before {
+    opacity: 1;
+  }
+
+  /* Variant: featured (bigger, highlighted) */
+  .hz-product-card--featured {
+    border: 2px solid var(--color-primary-500, #f43f5e);
+    background: linear-gradient(180deg, rgba(253, 242, 244, 0.5) 0%, #fff 100%);
+  }
+
+  /* Variant: compact (narrower for sidebar) */
+  .hz-product-card--compact {
+    grid-template-columns: 80px 1fr;
+    gap: 0.75rem;
+    padding: 0.875rem;
+  }
+  .hz-product-card--compact .hz-product-card__title {
+    font-size: 1rem;
+  }
+  .hz-product-card--compact .hz-product-card__description {
+    display: none;
+  }
+
+  /* Image */
+  .hz-product-card__image {
+    width: 100%;
+    aspect-ratio: 1;
+    background: var(--color-bg-2, #faf7f5);
+    border-radius: 10px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .hz-product-card__image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .hz-product-card--compact .hz-product-card__image {
+    aspect-ratio: 1;
+  }
+
+  /* Body */
+  .hz-product-card__body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  /* Badges */
+  .hz-product-card__badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin-bottom: 0.25rem;
+  }
+  .hz-product-card__badge {
+    display: inline-block;
+    padding: 0.15rem 0.55rem;
+    font-size: 0.68rem;
+    font-weight: 600;
+    background: linear-gradient(135deg, #fb7185, #f43f5e);
+    color: white;
+    border-radius: 999px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+  }
+
+  /* Title */
+  .hz-product-card__title {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    line-height: 1.25;
+    letter-spacing: -0.015em;
+    color: var(--color-text, #1f2937);
+    margin: 0;
+  }
+
+  /* Description */
+  .hz-product-card__description {
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: var(--color-text-muted, #64748b);
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  /* Meta (rating + price) */
+  .hz-product-card__meta {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin-top: 0.25rem;
+  }
+  .hz-product-card__rating {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.85rem;
+  }
+  .hz-product-card__stars {
+    color: #f59e0b;
+    letter-spacing: -0.05em;
+  }
+  .hz-product-card__rating-value {
+    font-weight: 600;
+    color: var(--color-text, #1f2937);
+  }
+  .hz-product-card__price {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--color-primary-600, #e11d48);
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* CTA */
+  .hz-product-card__cta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin-top: 0.35rem;
+    flex-wrap: wrap;
+  }
+  .hz-product-card__cta-btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.45rem 0.95rem;
+    background: linear-gradient(135deg, #f43f5e, #e11d48);
+    color: white !important;
+    font-size: 0.85rem;
+    font-weight: 600;
+    border-radius: 999px;
+    box-shadow: 0 2px 8px rgba(244, 63, 94, 0.25);
+    transition: all 0.15s;
+  }
+  .hz-product-card:hover .hz-product-card__cta-btn {
+    box-shadow: 0 4px 14px rgba(244, 63, 94, 0.35);
+    filter: brightness(1.05);
+  }
+  .hz-product-card__source {
+    font-size: 0.72rem;
+    color: var(--color-text-muted, #64748b);
+  }
+
+  /* Affiliate disclosure */
+  .hz-product-card__affiliate-note {
+    margin: 0.35rem 0 0;
+    font-size: 0.7rem;
+    color: var(--color-text-muted, #94a3b8);
+    font-style: italic;
+    opacity: 0.8;
+  }
+
+  /* Mobile */
+  @media (max-width: 640px) {
+    .hz-product-card {
+      grid-template-columns: 100px 1fr;
+      gap: 0.75rem;
+      padding: 1rem;
+    }
+    .hz-product-card__title {
+      font-size: 1rem;
+    }
+    .hz-product-card__description {
+      -webkit-line-clamp: 3;
+      font-size: 0.85rem;
+    }
+    .hz-product-card__cta-btn {
+      font-size: 0.8rem;
+      padding: 0.4rem 0.85rem;
+    }
+  }
+</style>
+
+<script>
+  // Click-Tracking — feuert sendBeacon parallel zum target-open
+  document.addEventListener('click', (e) => {
+    const link = (e.target as HTMLElement).closest('a.hz-product-card') as HTMLAnchorElement | null;
+    if (!link) return;
+    const target = link.dataset.trackingTarget;
+    if (!target) return;
+
+    // Fire-and-forget tracking. Browser opens target_url via normal href.
+    try {
+      const payload = JSON.stringify({
+        target,
+        source: window.location.pathname,
+        event: 'product',
+      });
+      if (typeof navigator.sendBeacon === 'function') {
+        const blob = new Blob([payload], { type: 'application/json' });
+        navigator.sendBeacon('/api/track-click', blob);
+      } else {
+        fetch('/api/track-click', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: payload,
+          keepalive: true,
+        }).catch(() => {});
+      }
+    } catch {
+      /* ignore */
+    }
+  });
+</script>

@@ -112,6 +112,15 @@ const authorsJson = JSON.stringify(authorsArr);
         <div id="faq-container"></div>
         <button type="button" id="add-faq" class="hz-btn" style="margin-top: 0.5rem;">+ FAQ-Paar</button>
 
+        <h4 style="margin: 1.5rem 0 0.5rem 0;">Produkte (optional, werden am Ende des Artikels als Grid angezeigt)</h4>
+        <p style="color: var(--hz-text-muted); font-size: 0.75rem; margin: 0 0 0.5rem 0;">
+          Bis zu 8 Produkte auswählen. Reihenfolge = Render-Reihenfolge. Produkte anlegen unter <a href="/herzraum/produkte" target="_blank" style="color: var(--hz-primary);">Produkte-Admin</a>.
+        </p>
+        <div id="products-picker" style="padding: 0.5rem; border: 1px solid var(--hz-border); border-radius: var(--hz-radius-sm); background: var(--hz-bg-2); min-height: 60px;">
+          <div style="color: var(--hz-text-muted); font-size: 0.8rem; padding: 0.5rem;">Lade Produkte…</div>
+        </div>
+        <div id="products-selected" style="margin-top: 0.5rem; display: flex; flex-wrap: wrap; gap: 0.35rem;"></div>
+
         <hr style="margin: 2rem 0; border: none; border-top: 1px solid var(--hz-border);">
 
         <div id="submit-error" style="display: none; color: var(--hz-danger); padding: 0.75rem; background: rgba(239,68,68,0.1); border: 1px solid rgba(239,68,68,0.3); border-radius: 0.5rem; margin-bottom: 1rem;"></div>
@@ -266,6 +275,66 @@ const authorsJson = JSON.stringify(authorsArr);
     }
     $('add-faq').addEventListener('click', () => { faqItems.push({ question: '', answer: '' }); renderFaq(); });
 
+    // ── Produkt-Picker ─────────────────────────────────────────
+    let availableProducts = [];
+    let selectedProductSlugs = [];
+
+    async function loadProducts() {
+      try {
+        const res = await fetch('/api/herzraum/products');
+        const data = await res.json();
+        if (!data.ok) throw new Error(data.error || 'load failed');
+        availableProducts = (data.products || []).filter((p) => p.active);
+        renderProductPicker();
+      } catch (err) {
+        $('products-picker').innerHTML = '<div style="color: var(--hz-danger); padding: 0.5rem; font-size: 0.8rem;">Fehler: ' + (err.message || 'unknown') + '</div>';
+      }
+    }
+
+    function renderProductPicker() {
+      if (availableProducts.length === 0) {
+        $('products-picker').innerHTML = '<div style="padding: 0.5rem; color: var(--hz-text-muted); font-size: 0.8rem;">Noch keine Produkte im Admin angelegt. <a href="/herzraum/produkte" target="_blank" style="color: var(--hz-primary);">Jetzt anlegen →</a></div>';
+        return;
+      }
+      $('products-picker').innerHTML = availableProducts.map((p) => {
+        const isSelected = selectedProductSlugs.includes(p.slug);
+        return '<label style="display: flex; align-items: center; gap: 0.5rem; padding: 0.35rem 0.5rem; cursor: pointer; border-radius: 4px;' + (isSelected ? ' background: rgba(244,63,94,0.08);' : '') + '">'
+          + '<input type="checkbox" data-product-slug="' + p.slug + '" ' + (isSelected ? 'checked' : '') + ' style="width: auto;">'
+          + '<span style="font-size: 0.85rem;"><strong>' + p.name + '</strong> <code style="font-size: 0.72rem; color: var(--hz-text-muted);">' + p.slug + '</code> <span class="hz-badge muted" style="font-size: 0.65rem;">' + p.type + '</span></span>'
+          + '</label>';
+      }).join('');
+      document.querySelectorAll('#products-picker input[type="checkbox"]').forEach((cb) => {
+        cb.addEventListener('change', () => {
+          const slug = cb.dataset.productSlug;
+          if (cb.checked) {
+            if (selectedProductSlugs.length >= 8) {
+              cb.checked = false;
+              alert('Maximal 8 Produkte pro Artikel.');
+              return;
+            }
+            if (!selectedProductSlugs.includes(slug)) selectedProductSlugs.push(slug);
+          } else {
+            selectedProductSlugs = selectedProductSlugs.filter((s) => s !== slug);
+          }
+          renderSelectedProducts();
+          renderProductPicker();
+          updatePreview();
+        });
+      });
+    }
+
+    function renderSelectedProducts() {
+      if (selectedProductSlugs.length === 0) {
+        $('products-selected').innerHTML = '';
+        return;
+      }
+      $('products-selected').innerHTML = '<span style="font-size: 0.75rem; color: var(--hz-text-muted); width: 100%;">Reihenfolge (drag später möglich): '
+        + selectedProductSlugs.map((slug, i) => '<span class="hz-badge info" style="margin-right: 0.25rem;">' + (i + 1) + '. ' + slug + '</span>').join('')
+        + '</span>';
+    }
+
+    loadProducts();
+
     // Auto-Slug from Title
     let slugTouched = false;
     $('f-slug').addEventListener('input', () => { slugTouched = true; checkSlug(); });
@@ -337,6 +406,12 @@ const authorsJson = JSON.stringify(authorsArr);
           }
         });
       }
+      if (selectedProductSlugs.length > 0) {
+        fm += 'products:\n';
+        selectedProductSlugs.forEach(s => {
+          fm += '  - ' + esc(s) + '\n';
+        });
+      }
       fm += '---\n\n';
 
       // Body aus Template
@@ -388,6 +463,7 @@ const authorsJson = JSON.stringify(authorsArr);
         image: $('f-image').value.trim() || undefined,
         imageAlt: $('f-imageAlt').value.trim() || undefined,
         faq: validFaq,
+        products: selectedProductSlugs,
       };
 
       const btn = $('submit-btn');
