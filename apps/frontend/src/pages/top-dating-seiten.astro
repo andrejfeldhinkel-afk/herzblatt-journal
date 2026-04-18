@@ -269,150 +269,15 @@ const datingSites = [
   },
 ];
 
-// 10 bekannte Marken — redaktionelle Übersicht ohne Affiliate-Link
-// Mitgliederzahlen laut Anbieterangaben & öffentlichen Quellen, Stand 2026
-const referenceBrands = [
-  {
-    name: 'Parship',
-    slug: 'parship',
-    color: '#c8102e',
-    tagline: 'Der Klassiker für ernsthafte Partnersuche',
-    category: 'Partnervermittlung',
-    members: 'ca. 11 Mio. Mitglieder DACH',
-    avgAge: '30–55 Jahre',
-    price: 'ab 27,90 €/Monat',
-    description: 'Parship gilt seit 2001 als Referenz für wissenschaftlich fundierte Partnervermittlung im DACH-Raum. Der Persönlichkeitstest mit rund 80 Fragen basiert auf der Paarpsychologie von Prof. Hugo Schmale und liefert täglich kuratierte Partnervorschläge. Die Community ist ernsthaft, die Profilqualität hoch, die Preise allerdings im oberen Segment. Das Geschäftsmodell mit automatischer Vertragsverlängerung sorgt regelmäßig für Kritik — Kündigung rechtzeitig beachten.',
-    pros: ['Wissenschaftliches Matching', 'Sehr hohe Profilqualität', 'Ernsthafte Zielgruppe Ü30'],
-    cons: ['Hoher Preis', 'Lange Mindestlaufzeit', 'Automatische Vertragsverlängerung'],
-    bestFor: 'Akademiker & Ü30 mit Heiratsabsichten',
-  },
-  {
-    name: 'ElitePartner',
-    slug: 'elitepartner',
-    color: '#1a365d',
-    tagline: 'Für Akademiker & anspruchsvolle Singles',
-    category: 'Partnervermittlung',
-    members: 'ca. 3,8 Mio. Mitglieder DACH',
-    avgAge: '32–58 Jahre',
-    price: 'ab 35,90 €/Monat',
-    description: 'ElitePartner positioniert sich seit 2004 als Partnervermittlung für gebildete, berufstätige Singles. Laut eigenen Angaben sind über 53 % der Mitglieder Akademiker. Der Persönlichkeitstest ist weniger umfangreich als bei Parship, liefert aber ebenfalls solide Vorschläge. Die Kommunikation ist respektvoll, die Community älter und reifer — Mitte-30 bis Mitte-50 ist der Schwerpunkt. Preislich am oberen Ende des Marktes.',
-    pros: ['Hoher Akademiker-Anteil', 'Gut moderierte Community', 'Seriöses Umfeld'],
-    cons: ['Premium-Preise', 'Weniger Nutzer unter 30', 'Strikte Vertragsbindung'],
-    bestFor: 'Berufstätige Singles mit Niveau',
-  },
-  {
-    name: 'LemonSwan',
-    slug: 'lemonswan',
-    color: '#f4b223',
-    tagline: 'Mit kostenlosem Premium-Zugang für Alleinerziehende',
-    category: 'Partnervermittlung',
-    members: 'ca. 400.000 Mitglieder DACH',
-    avgAge: '30–52 Jahre',
-    price: 'ab 34,90 €/Monat (Frauen & Alleinerziehende oft kostenlos)',
-    description: 'LemonSwan hat sich mit einem klaren USP positioniert: Frauen und Alleinerziehende nutzen die Premium-Funktionen teilweise kostenlos. Das hat zu einer ausgewogenen Geschlechterverteilung und einer besonders familienfreundlichen Community geführt. Der Persönlichkeitstest ist solide, die Vorschlagsqualität gut. Für Eltern auf Partnersuche eine der fairsten Plattformen im deutschsprachigen Raum.',
-    pros: ['Frauen & Alleinerziehende Premium gratis', 'Fairer als Konkurrenz', 'Family-First-Community'],
-    cons: ['Kleinere Nutzerbasis', 'Weniger bekannt', 'Design etwas bieder'],
-    bestFor: 'Alleinerziehende & Partnersuche mit Kinderwunsch',
-  },
-  {
-    name: 'Tinder',
-    slug: 'tinder',
-    color: '#fd5068',
-    tagline: 'Die bekannteste Swipe-App der Welt',
-    category: 'Dating-App',
-    members: 'ca. 15 Mio. Mitglieder DACH',
-    avgAge: '18–40 Jahre',
-    price: 'Kostenlos · Premium ab 9,99 €/Monat',
-    description: 'Tinder hat das moderne Dating geprägt wie keine andere App. Das Swipe-Prinzip ist zum Synonym für Online-Dating geworden. Die riesige Nutzerbasis sorgt dafür, dass praktisch überall Matches zustande kommen — vor allem in Städten. Der Fokus liegt inzwischen auf einer Mischung aus Casual Dating und längerfristigen Beziehungen. Durch die enorme Reichweite auch viele Fake-Profile und Bots — Vorsicht ist geboten.',
-    pros: ['Größte Nutzerbasis weltweit', 'Einfache Bedienung', 'Kostenlos nutzbar'],
-    cons: ['Viele Fake-Profile', 'Oft oberflächlich', 'Premium aggressiv beworben'],
-    bestFor: 'Urbanes Dating in Großstädten',
-  },
-  {
-    name: 'Bumble',
-    slug: 'bumble',
-    color: '#ffc629',
-    tagline: 'Die Women-First-App',
-    category: 'Dating-App',
-    members: 'ca. 3 Mio. Mitglieder DE',
-    avgAge: '23–38 Jahre',
-    price: 'Kostenlos · Premium ab 8,99 €/Monat',
-    description: 'Bumble kehrt die klassische Dating-App-Logik um: Nach einem Match haben Frauen 24 Stunden Zeit, den Mann anzuschreiben — sonst verfällt das Match. Das reduziert belanglose Anfragen und gibt Frauen mehr Kontrolle. Die Community ist jünger und urbaner als bei Partnervermittlungen, aber ernsthafter als Tinder. Bumble BFF & Bumble Bizz erweitern das Konzept auf Freundschaft und Networking.',
-    pros: ['Frauen machen ersten Schritt', 'Weniger Spam-Nachrichten', 'Moderne Oberfläche'],
-    cons: ['Kleiner als Tinder', 'Zeitdruck bei Matches', 'Fokus auf Großstädte'],
-    bestFor: 'Frauen, die sich mehr Kontrolle wünschen',
-  },
-  {
-    name: 'Hinge',
-    slug: 'hinge',
-    color: '#3a4553',
-    tagline: '„Designed to be deleted"',
-    category: 'Dating-App',
-    members: 'ca. 1,2 Mio. Mitglieder DE',
-    avgAge: '24–38 Jahre',
-    price: 'Kostenlos · Premium ab 19,99 €/Monat',
-    description: 'Hinge positioniert sich bewusst gegen das endlose Swipen. Profile bestehen aus Prompts (Mini-Aufgaben wie „Das unterschätzte Superhelden-Talent ist..."), die echte Gesprächseinstiege ermöglichen. Die Zielgruppe sind Millennials und jüngere Gen-X-ler, die ernsthafter suchen, aber keine starre Partnervermittlung wollen. Seit der Zusammenarbeit mit Match Group wächst Hinge auch in Deutschland spürbar.',
-    pros: ['Kreative Profil-Prompts', 'Ernstere Absichten als Tinder', 'Gute Matching-Qualität'],
-    cons: ['Kleinere Nutzerbasis in DE', 'Premium vergleichsweise teuer', 'Nur App, kein Desktop'],
-    bestFor: 'Millennials mit Beziehungsabsicht',
-  },
-  {
-    name: 'C-Date',
-    slug: 'c-date',
-    color: '#8b1a4f',
-    tagline: 'Diskretes Casual-Dating für Erwachsene',
-    category: 'Casual Dating',
-    members: 'ca. 5 Mio. Mitglieder DACH',
-    avgAge: '25–55 Jahre',
-    price: 'ab 39,99 €/Monat',
-    description: 'C-Date ist seit 2008 die etablierte Plattform für erotisches Casual-Dating im deutschsprachigen Raum. Der Fokus liegt auf unverbindlichen Begegnungen zwischen Erwachsenen. Die Plattform arbeitet mit einem „Date-Ticker", der mögliche Matches in der Region anzeigt. Diskretion hat hohe Priorität: Profile sind nicht über Google auffindbar, Abrechnung erfolgt unauffällig. Preislich im oberen Segment.',
-    pros: ['Große aktive Community', 'Hohe Diskretion', 'Klare Ausrichtung'],
-    cons: ['Hoher Preis', 'Männerüberschuss', 'Kritisierte Vertragsverlängerung'],
-    bestFor: 'Erwachsene mit klarem Casual-Interesse',
-  },
-  {
-    name: 'Finya',
-    slug: 'finya',
-    color: '#e43f5a',
-    tagline: 'Komplett kostenlos — keine Premium-Falle',
-    category: 'Singlebörse',
-    members: 'ca. 750.000 Mitglieder DE',
-    avgAge: '24–45 Jahre',
-    price: '100 % kostenlos · finanziert durch Werbung',
-    description: 'Finya ist eine der wenigen etablierten Singlebörsen, die komplett kostenlos ist — ohne Premium-Schranken für Chatten oder Profilbesucher. Die Finanzierung läuft über Werbeeinblendungen. Die Nutzerbasis ist solide, die Altersstruktur breit. Für preisbewusste Singles eine ernstzunehmende Alternative, auch wenn Matching-Algorithmus und Features schlichter sind als bei kostenpflichtigen Anbietern.',
-    pros: ['Komplett kostenlos', 'Keine Premium-Falle', 'Solide Community'],
-    cons: ['Werbeeinblendungen', 'Einfaches Matching', 'Veraltetes Design'],
-    bestFor: 'Preisbewusste Singles',
-  },
-  {
-    name: 'LoveScout24',
-    slug: 'lovescout24',
-    color: '#0099cc',
-    tagline: 'Der etablierte Allrounder',
-    category: 'Singlebörse',
-    members: 'ca. 1,8 Mio. Mitglieder DACH',
-    avgAge: '26–48 Jahre',
-    price: 'ab 24,90 €/Monat',
-    description: 'LoveScout24 (früher Friendscout24) gehört seit über 20 Jahren zum Inventar des deutschen Online-Datings. Die Plattform positioniert sich zwischen Partnervermittlung und Singlebörse — ernsthafter als Tinder, unkomplizierter als Parship. Mit rund 1,8 Millionen Mitgliedern im DACH-Raum ist die Auswahl groß. Preislich im mittleren Segment, inzwischen aber ohne echten USP.',
-    pros: ['Lange Markthistorie', 'Breite Altersstruktur', 'Mittlere Preisklasse'],
-    cons: ['Kein klarer USP', 'Design in die Jahre gekommen', 'Teilweise Fake-Profile'],
-    bestFor: 'Allrounder ohne starke Präferenz',
-  },
-  {
-    name: 'Lovoo',
-    slug: 'lovoo',
-    color: '#ff1e56',
-    tagline: 'Location-Based mit deutscher Community',
-    category: 'Dating-App',
-    members: 'ca. 2,5 Mio. Mitglieder DACH',
-    avgAge: '18–35 Jahre',
-    price: 'Kostenlos · Credits ab 4,99 €',
-    description: 'Lovoo ist die deutsche Antwort auf Tinder — 2011 in Dresden gegründet und heute Teil der Meet Group. Besonderheit ist der „Radar", der Singles in der Umgebung live anzeigt. Die Zielgruppe ist jung (18–35), die Oberfläche spielerisch, mit Live-Streams und Gamification-Elementen. Für urbane Singles unter 30 eine solide Wahl, auch wenn die Monetarisierung über Credits ungewohnt ist.',
-    pros: ['Standort-Radar', 'Junge deutsche Community', 'Spielerisches Design'],
-    cons: ['Credit-System statt Abo', 'Live-Streams lenken ab', 'Viele Fake-Profile gemeldet'],
-    bestFor: 'Junge urbane Singles',
-  },
-];
+// Redaktionelle Wettbewerber-Übersicht entfernt — wir bewerben nur eigene Plattformen.
+// (Alte Daten im Git-Verlauf verfügbar falls je wieder gebraucht.)
+type ReferenceBrand = {
+  name: string; slug: string; color: string; tagline: string; category: string;
+  members: string; avgAge: string; price: string; description: string;
+  pros: string[]; cons: string[]; bestFor: string;
+};
+const referenceBrands: ReferenceBrand[] = [];
+
 
 // 5 Kategorie-Guides (Use-Case-Segmentierung)
 const categories = [
@@ -425,8 +290,7 @@ const categories = [
     picks: [
       { slug: 'xloves', reason: 'Testsieger mit manueller Verifizierung — höchste Profilqualität.' },
       { slug: 'michverlieben', reason: 'Wissenschaftlicher 80-Fragen-Persönlichkeitstest speziell für Ü30.' },
-      { slug: 'parship', reason: 'Der etablierte Klassiker — seit 2001 Referenz für ernsthafte Partnersuche.' },
-      { slug: 'elitepartner', reason: 'Für berufstätige Akademiker mit Heiratsabsichten.' },
+      { slug: 'singlescout', reason: 'Frisch am Start, hoher Frauenanteil (49 %) und Fokus auf echte Verbindungen.' },
     ],
   },
   {
@@ -437,9 +301,8 @@ const categories = [
     intro: 'Casual Dating heißt: neue Menschen kennenlernen, ohne sofort eine feste Beziehung aufbauen zu wollen. Das kann ein einmaliges Treffen sein, ein längerer Flirt oder einfach unkomplizierte Begegnungen. Wer das sucht, braucht eine Plattform ohne wochenlange Fragebögen.',
     picks: [
       { slug: 'onlydates69', reason: 'Blitzschnelles Matching via Standort — oft noch am selben Tag ein Date.' },
-      { slug: 'single69', reason: 'Größte Casual-Dating-Community im DACH-Raum mit über 200.000 aktiven Mitgliedern.' },
-      { slug: 'tinder', reason: 'Der Klassiker unter den Swipe-Apps — weltweit größte Reichweite.' },
-      { slug: 'c-date', reason: 'Diskret und etabliert — speziell für erotische Casual-Kontakte.' },
+      { slug: 'single69', reason: 'Große Casual-Dating-Community im DACH-Raum mit aktiven Mitgliedern.' },
+      { slug: 'sex69', reason: 'Klare Kommunikation ohne Umschweife — für Erwachsene mit eindeutigen Absichten.' },
     ],
   },
   {
@@ -451,7 +314,6 @@ const categories = [
     picks: [
       { slug: 'whatsmeet', reason: 'Messenger-ähnliches Erlebnis mit Fokus auf echte Gespräche.' },
       { slug: 'i-loves', reason: 'Modernes Design, aktive Chat-Community, einfache Bedienung.' },
-      { slug: 'bumble', reason: 'Frauen machen den ersten Schritt — weniger Spam, mehr Qualität.' },
     ],
   },
   {
@@ -463,8 +325,7 @@ const categories = [
     picks: [
       { slug: 'michverlieben', reason: 'Klarer Fokus auf Ü30 mit Heiratsabsichten — Altersschnitt 32–52.' },
       { slug: 'xloves', reason: 'Breite Altersstruktur mit vielen aktiven Ü40-Singles im DACH-Raum.' },
-      { slug: 'elitepartner', reason: 'Besonders starke Ü45-Community, reife und gebildete Zielgruppe.' },
-      { slug: 'lemonswan', reason: 'Family-First-Community — ideal für Alleinerziehende Ü35.' },
+      { slug: 'i-loves', reason: 'Reife Chat-Community — viele Ü40-Mitglieder suchen hier bewusst das Gespräch.' },
     ],
   },
   {
@@ -472,12 +333,11 @@ const categories = [
     icon: '🆓',
     title: 'Kostenlose Dating-Seiten: Was wirklich gratis ist',
     h2Keyword: 'Kostenlose Dating-Seiten 2026 — was geht wirklich gratis?',
-    intro: 'Viele Plattformen bewerben sich als "kostenlos", berechnen aber für zentrale Funktionen wie Chatten oder Profilbesucher-Einsicht. Hier unterscheiden wir ehrliche Gratis-Angebote von Freemium-Fallen. Nur eine Plattform in unserem Test ist tatsächlich zu 100 % kostenlos.',
+    intro: 'Viele Plattformen bewerben sich als "kostenlos", berechnen aber für zentrale Funktionen wie Chatten oder Profilbesucher-Einsicht. Hier unterscheiden wir ehrliche Gratis-Angebote von Freemium-Fallen — unsere empfohlenen Plattformen bieten allesamt eine großzügige kostenlose Basisversion.',
     picks: [
-      { slug: 'finya', reason: 'Komplett kostenlos — keine Premium-Schranken, finanziert durch Werbung.' },
       { slug: 'xloves', reason: 'Großzügige Basisversion — Profil, Suche & erste Nachrichten gratis.' },
       { slug: 'singlescout', reason: 'Basis dauerhaft kostenlos, inklusive unbegrenzter Profilansicht.' },
-      { slug: 'tinder', reason: 'Grundfunktionen gratis — Swipen und Matchen ohne Abo.' },
+      { slug: 'whatsmeet', reason: 'Messenger-Look kostenlos nutzbar — Premium nur für erweiterte Filter.' },
     ],
   },
 ];
@@ -487,15 +347,11 @@ const pricingData = [
   { platform: 'xLoves', m1: '9,99 €', m3: '7,99 €', m6: '6,99 €', m12: '5,99 €', highlight: true },
   { platform: 'MichVerlieben', m1: '14,99 €', m3: '11,99 €', m6: '9,99 €', m12: '7,99 €', highlight: false },
   { platform: 'SingleScout', m1: '9,99 €', m3: '8,99 €', m6: '7,99 €', m12: '6,99 €', highlight: false },
+  { platform: 'WhatsMeet', m1: '12,49 €', m3: '9,49 €', m6: '7,99 €', m12: '6,49 €', highlight: false },
+  { platform: 'i-Loves', m1: '11,49 €', m3: '8,99 €', m6: '7,49 €', m12: '5,99 €', highlight: false },
   { platform: 'OnlyDates69', m1: '12,99 €', m3: '9,99 €', m6: '8,49 €', m12: '6,99 €', highlight: false },
   { platform: 'Single69', m1: '11,99 €', m3: '9,49 €', m6: '7,99 €', m12: '6,49 €', highlight: false },
-  { platform: 'Parship', m1: '74,90 €', m3: '49,90 €', m6: '39,90 €', m12: '27,90 €', highlight: false },
-  { platform: 'ElitePartner', m1: '79,90 €', m3: '59,90 €', m6: '45,90 €', m12: '35,90 €', highlight: false },
-  { platform: 'LemonSwan', m1: '69,90 €', m3: '49,90 €', m6: '39,90 €', m12: '34,90 €', highlight: false },
-  { platform: 'C-Date', m1: '89,99 €', m3: '59,99 €', m6: '49,99 €', m12: '39,99 €', highlight: false },
-  { platform: 'Tinder Plus', m1: '9,99 €', m3: '7,49 €', m6: '5,99 €', m12: '4,99 €', highlight: false },
-  { platform: 'Bumble Premium', m1: '8,99 €', m3: '7,49 €', m6: '6,49 €', m12: '5,49 €', highlight: false },
-  { platform: 'Finya', m1: 'gratis', m3: 'gratis', m6: 'gratis', m12: 'gratis', highlight: false },
+  { platform: 'Sex69', m1: '14,99 €', m3: '11,99 €', m6: '9,99 €', m12: '7,99 €', highlight: false },
 ];
 
 // 12 FAQs (erweitert)
@@ -1228,17 +1084,12 @@ const breadcrumbs = [
     </div>
 
     <!-- ============================================================= -->
-    <!-- REFERENZ-BRANDS (10 bekannte Marken, kompakt)                   -->
+    <!-- REFERENZ-BRANDS entfernt — wir werben nur für eigene Plattformen -->
     <!-- ============================================================= -->
+    {referenceBrands.length > 0 && (
     <div class="mb-16">
       <p class="text-xs font-bold uppercase tracking-widest mb-3" style="color: var(--color-primary-600);">Marktübersicht</p>
       <h2 class="text-3xl sm:text-4xl font-bold mb-4" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.01em;">Weitere bekannte Dating-Plattformen im Überblick</h2>
-      <p class="text-base leading-relaxed mb-4 max-w-3xl" style="color: var(--text-muted);">
-        Neben unseren acht Top-Empfehlungen gibt es weitere etablierte Marken im deutschsprachigen Dating-Markt. Die folgenden 10 Plattformen haben wir redaktionell eingeordnet — ohne Affiliate-Kooperation, rein zu deiner Orientierung.
-      </p>
-      <p class="text-xs mb-8" style="color: var(--text-muted);">
-        <em>Hinweis:</em> Diese Reviews sind rein redaktionell und enthalten keine Empfehlungs-Links. Mitgliederzahlen und Preise laut Anbieterangaben, Stand April 2026.
-      </p>
 
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
         {referenceBrands.map((brand) => (
@@ -1299,6 +1150,7 @@ const breadcrumbs = [
         ))}
       </div>
     </div>
+    )}
 
     <!-- ============================================================= -->
     <!-- PREIS-VERGLEICHSTABELLE                                         -->
