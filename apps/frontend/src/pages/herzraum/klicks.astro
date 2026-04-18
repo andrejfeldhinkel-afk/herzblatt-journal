@@ -43,7 +43,19 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
   </div>
 
   <div class="hz-card" style="margin-top: 1rem;">
+    <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 0.75rem;">
+      <h3 style="margin: 0;">💕 Dating-Seiten — Performance-Ranking</h3>
+      <span style="font-size: 0.75rem; color: var(--hz-text-muted); background: var(--hz-bg-soft, #1e1e28); padding: 0.25rem 0.5rem; border-radius: 4px;">Letzte 30 Tage</span>
+    </div>
+    <p style="color: var(--hz-text-muted); font-size: 0.85rem; margin-bottom: 1rem;">Welche der 8 Dating-Plattformen bringt die meisten Klicks? Sortiert nach Performance.</p>
+    <div id="dating-performance-list" style="display: flex; flex-direction: column; gap: 0.5rem;">
+      <div style="color: var(--hz-text-muted); font-size: 0.85rem; text-align: center; padding: 2rem;">Lade Dating-Performance…</div>
+    </div>
+  </div>
+
+  <div class="hz-card" style="margin-top: 1rem;">
     <h3>Top Affiliate-Ziele · 30 Tage</h3>
+    <p style="color: var(--hz-text-muted); font-size: 0.85rem; margin-bottom: 0.75rem;">Alle Affiliate-Ziele inkl. Dating-Seiten, E-Book und andere Events.</p>
     <table class="hz-table" id="table-targets">
       <thead><tr><th>#</th><th>Affiliate</th><th class="right">Klicks</th><th class="right">% Gesamt</th></tr></thead>
       <tbody><tr><td colspan="4" class="muted">Lade…</td></tr></tbody>
@@ -80,6 +92,61 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         setKpi('clicks.month', d.kpis.clicks.month);
         setKpi('clicks.total', d.kpis.clicks.total);
         setKpi('ctr', d.ctr + ' %');
+
+        // === Dating-Seiten-Performance-Ranking ===
+        const datingMeta = {
+          'xloves':        { name: 'xLoves',        logo: '/images/logos/xloves-logo.png',         color: '#f43f5e', link: '/blog/xloves-test-erfahrungen' },
+          'michverlieben': { name: 'MichVerlieben', logo: '/images/logos/michverlieben-logo.png',  color: '#e11d48', link: '/blog/michverlieben-test-erfahrungen' },
+          'whatsmeet':     { name: 'WhatsMeet',     logo: '/images/logos/whatsmeet-logo.png',      color: '#10b981', link: '/blog/whatsmeet-test-erfahrungen' },
+          'singlescout':   { name: 'SingleScout',   logo: '/images/logos/singlescout-v2-logo.png', color: '#8b5cf6', link: '/blog/singlescout-test-erfahrungen' },
+          'i-loves':       { name: 'i-Loves',       logo: '/images/logos/i-loves-logo.png',        color: '#ec4899', link: '/blog/i-loves-test-erfahrungen' },
+          'onlydates69':   { name: 'OnlyDates69',   logo: '/images/logos/onlydates69-logo.png',    color: '#f59e0b', link: '/blog/onlydates69-test-erfahrungen' },
+          'sex69':         { name: 'Sex69',         logo: '/images/logos/sex69-logo.png',          color: '#dc2626', link: '/blog/sex69-test-erfahrungen' },
+          'single69':      { name: 'Single69',      logo: '/images/logos/single69-logo.png',       color: '#3b82f6', link: '/blog/single69-test-erfahrungen' },
+        };
+        const datingRaw = (d.topClickTargets || [])
+          .filter(t => datingMeta[t.key])
+          .map(t => ({ key: t.key, count: t.count }));
+        // Fehlende Slugs mit count=0 ergänzen, damit User alle 8 sieht
+        Object.keys(datingMeta).forEach(slug => {
+          if (!datingRaw.find(p => p.key === slug)) datingRaw.push({ key: slug, count: 0 });
+        });
+        datingRaw.sort((a, b) => b.count - a.count);
+        const maxDating = Math.max(1, datingRaw[0]?.count || 0);
+        const totalDating = Math.max(1, datingRaw.reduce((s, t) => s + t.count, 0));
+
+        const datingList = document.getElementById('dating-performance-list');
+        if (datingList) {
+          datingList.innerHTML = datingRaw.map((t, i) => {
+            const meta = datingMeta[t.key];
+            const pctBar = maxDating > 0 ? (t.count / maxDating) * 100 : 0;
+            const pctTotal = (t.count / totalDating) * 100;
+            const rank = i + 1;
+            const rankBg = rank === 1 ? 'linear-gradient(135deg,#fbbf24,#f59e0b)' : rank === 2 ? 'linear-gradient(135deg,#cbd5e1,#94a3b8)' : rank === 3 ? 'linear-gradient(135deg,#d97706,#92400e)' : 'var(--hz-bg, #0f0f14)';
+            const rankColor = rank <= 3 ? '#fff' : '#94a3b8';
+            const highlight = rank === 1 ? 'background: rgba(244,63,94,0.08); border: 1px solid rgba(244,63,94,0.25);' : 'background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06);';
+            const crownEmoji = rank === 1 ? ' 👑' : '';
+            return (
+              '<div style="display: grid; grid-template-columns: 40px 32px 1fr auto; gap: 0.75rem; align-items: center; padding: 0.75rem 1rem; ' + highlight + ' border-radius: 8px; transition: transform 0.2s ease;">' +
+                '<div style="display: flex; align-items: center; justify-content: center; width: 32px; height: 32px; border-radius: 50%; background: ' + rankBg + '; color: ' + rankColor + '; font-weight: 700; font-size: 0.85rem;">' + rank + '</div>' +
+                '<img src="' + meta.logo + '" alt="' + meta.name + '" style="width: 32px; height: 32px; object-fit: contain; background: rgba(255,255,255,0.9); border-radius: 6px; padding: 3px;" loading="lazy" />' +
+                '<div style="min-width: 0;">' +
+                  '<div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.35rem; flex-wrap: wrap;">' +
+                    '<strong style="color: var(--hz-text, #f8fafc); font-size: 0.95rem;">' + meta.name + crownEmoji + '</strong>' +
+                    '<a href="' + meta.link + '" target="_blank" style="font-size: 0.7rem; color: var(--hz-text-muted, #94a3b8); text-decoration: none; font-family: monospace;">→ Bericht</a>' +
+                  '</div>' +
+                  '<div style="height: 6px; background: rgba(255,255,255,0.05); border-radius: 3px; overflow: hidden;">' +
+                    '<div style="height: 100%; width: ' + pctBar + '%; background: linear-gradient(90deg, ' + meta.color + ', ' + meta.color + 'aa); border-radius: 3px; transition: width 0.8s cubic-bezier(0.2,0.8,0.2,1);"></div>' +
+                  '</div>' +
+                '</div>' +
+                '<div style="text-align: right; min-width: 90px;">' +
+                  '<div style="font-weight: 700; color: var(--hz-text, #f8fafc); font-size: 1.1rem; font-variant-numeric: tabular-nums;">' + fmtNum(t.count) + '</div>' +
+                  '<div style="font-size: 0.7rem; color: var(--hz-text-muted, #94a3b8);">' + pctTotal.toFixed(1) + ' % aller Dating-Klicks</div>' +
+                '</div>' +
+              '</div>'
+            );
+          }).join('');
+        }
 
         // DEFENSIV: Tabellen ZUERST (damit Chart-Fehler nix killt)
         const totalCl = Math.max(1, d.kpis.clicks.month);
