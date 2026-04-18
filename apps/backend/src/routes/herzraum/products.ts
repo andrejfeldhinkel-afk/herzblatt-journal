@@ -18,7 +18,7 @@
 import { Hono } from 'hono';
 import { z } from 'zod';
 import { db, schema } from '../../db/index.js';
-import { and, eq, sql, desc, asc, type SQL } from 'drizzle-orm';
+import { and, eq, sql, desc, asc, inArray, type SQL } from 'drizzle-orm';
 import { logAudit } from '../../lib/audit.js';
 
 const app = new Hono();
@@ -73,21 +73,26 @@ app.get('/', async (c) => {
       .orderBy(asc(schema.products.sortOrder), desc(schema.products.createdAt));
 
     // Click-Counts per product (aus clicks-Tabelle).
-    // Nur wenn Produkte existieren — sonst SQL-Error `IN ()`.
+    // Bug #8: Vorher raw SQL mit sql.join/IN — konnte bei bestimmten Inputs
+    // crashen, der try/catch schluckte es, UI zeigte 0 Klicks.
+    // Jetzt: Drizzle inArray — type-safe und robust.
     const clickMap = new Map<string, number>();
     if (rows.length > 0) {
       try {
         const targets = rows.map((r) => r.trackingTarget);
-        const clickCounts = await db.execute<{ target: string; cnt: number }>(sql`
-          SELECT target, COUNT(*)::int AS cnt
-          FROM clicks
-          WHERE target IN (${sql.join(targets.map((t) => sql`${t}`), sql`, `)})
-          GROUP BY target
-        `);
-        for (const row of (clickCounts as any[])) {
+        const clickCounts = await db
+          .select({
+            target: schema.clicks.target,
+            cnt: sql<number>`COUNT(*)::int`.as('cnt'),
+          })
+          .from(schema.clicks)
+          .where(inArray(schema.clicks.target, targets))
+          .groupBy(schema.clicks.target);
+        for (const row of clickCounts) {
           clickMap.set(row.target, Number(row.cnt) || 0);
         }
       } catch (err) {
+        // Immer noch loggen, aber nicht silent — Frontend bekommt Warnung
         console.error('[products:list] click-count error (non-fatal):', err);
       }
     }
