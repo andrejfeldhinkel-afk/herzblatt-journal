@@ -1,11 +1,18 @@
 ---
 export const prerender = false;
 
-// Wenn bereits eingeloggt → direkt weiter zum Dashboard
-import { verifySession, extractToken } from '../../lib/herzraum-auth';
-const token = extractToken(Astro.request.headers.get('cookie'));
-if (verifySession(token)) {
-  return Astro.redirect('/herzraum');
+// Wenn bereits eingeloggt → direkt weiter zum Dashboard (via Backend-Verify)
+const BACKEND_URL = (import.meta.env.BACKEND_URL || process.env.BACKEND_URL || 'http://localhost:3001').replace(/\/$/, '');
+const cookieHeader = Astro.request.headers.get('cookie') || '';
+if (cookieHeader.includes('hz_session=')) {
+  try {
+    const res = await fetch(BACKEND_URL + '/auth/verify', {
+      headers: { cookie: cookieHeader },
+    });
+    if (res.ok) {
+      return Astro.redirect('/herzraum');
+    }
+  } catch { /* ignore, zeigt Login */ }
 }
 ---
 <!DOCTYPE html>
