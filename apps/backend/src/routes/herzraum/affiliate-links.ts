@@ -23,10 +23,13 @@ const app = new Hono();
 
 const VALID_SLUG = /^[a-z0-9][a-z0-9-]{1,60}$/;
 
+// targetUrl ist optional: leer/null = Campaign-Modus (User landet auf /).
+// Gesetzt = Affiliate-Redirect zu externer URL.
 const inputSchema = z.object({
   slug: z.string().regex(VALID_SLUG, 'Slug: klein, a-z/0-9/-, 2-60 Zeichen'),
   name: z.string().min(1).max(120),
-  targetUrl: z.string().url().max(2000),
+  targetUrl: z.string().url().max(2000).optional().nullable()
+    .or(z.literal('').transform(() => null)),
   campaign: z.string().max(60).optional().nullable(),
   notes: z.string().max(500).optional().nullable(),
   active: z.boolean().default(true),
@@ -176,14 +179,14 @@ app.post('/', async (c) => {
       .values({
         slug: parsed.data.slug,
         name: parsed.data.name,
-        targetUrl: parsed.data.targetUrl,
+        targetUrl: parsed.data.targetUrl || null,
         campaign: parsed.data.campaign || null,
         notes: parsed.data.notes || null,
         active: parsed.data.active,
       })
       .returning();
 
-    await logAudit(c, { action: 'affiliate-link.create', target: parsed.data.slug, meta: { name: parsed.data.name } });
+    await logAudit(c, { action: 'affiliate-link.create', target: parsed.data.slug, meta: { name: parsed.data.name, mode: parsed.data.targetUrl ? 'affiliate' : 'campaign' } });
 
     return c.json({ ok: true, link: { ...created, trackingTarget: toTrackingTarget(created.slug), shortUrl: `/go/${created.slug}` } }, 201);
   } catch (err) {

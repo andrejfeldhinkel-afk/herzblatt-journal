@@ -182,12 +182,13 @@ export async function runStartupMigrations(): Promise<void> {
 
     // affiliate_links — Benannte Short-URLs mit Traffic-Tracking
     // Klicks werden in clicks-Tabelle mit target='link-<slug>' geloggt
+    // target_url darf NULL sein (Campaign-Modus → User landet auf /)
     await db.execute(sql`
       CREATE TABLE IF NOT EXISTS affiliate_links (
         id SERIAL PRIMARY KEY,
         slug TEXT NOT NULL UNIQUE,
         name TEXT NOT NULL,
-        target_url TEXT NOT NULL,
+        target_url TEXT,
         campaign TEXT,
         notes TEXT,
         active BOOLEAN NOT NULL DEFAULT TRUE,
@@ -195,6 +196,9 @@ export async function runStartupMigrations(): Promise<void> {
         updated_at TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW()
       )
     `);
+    // Migration für bestehende DB: NOT NULL-Constraint auf target_url entfernen.
+    // DROP NOT NULL ist idempotent — ALTER auf bereits nullable column ist no-op.
+    await db.execute(sql`ALTER TABLE affiliate_links ALTER COLUMN target_url DROP NOT NULL`);
     await db.execute(sql`CREATE INDEX IF NOT EXISTS affiliate_links_slug_idx ON affiliate_links(slug)`);
     await db.execute(sql`CREATE INDEX IF NOT EXISTS affiliate_links_active_idx ON affiliate_links(active)`);
     await db.execute(sql`CREATE INDEX IF NOT EXISTS affiliate_links_campaign_idx ON affiliate_links(campaign)`);
