@@ -18,7 +18,7 @@
 import { Hono } from 'hono';
 import { z } from 'zod';
 import { db, schema } from '../../db/index.js';
-import { and, eq, sql, desc, asc } from 'drizzle-orm';
+import { and, eq, sql, desc, asc, type SQL } from 'drizzle-orm';
 import { logAudit } from '../../lib/audit.js';
 
 const app = new Hono();
@@ -58,7 +58,7 @@ app.get('/', async (c) => {
     const activeParam = c.req.query('active');
     const category = c.req.query('category');
 
-    const whereConditions = [];
+    const whereConditions: SQL[] = [];
     if (type && (VALID_TYPES as readonly string[]).includes(type)) {
       whereConditions.push(eq(schema.products.type, type));
     }
@@ -72,17 +72,24 @@ app.get('/', async (c) => {
       .where(whereConditions.length ? and(...whereConditions) : undefined)
       .orderBy(asc(schema.products.sortOrder), desc(schema.products.createdAt));
 
-    // Click-Counts per product (aus clicks-Tabelle, join on tracking_target)
-    const clickCounts = await db.execute<{ target: string; cnt: number }>(sql`
-      SELECT target, COUNT(*)::int AS cnt
-      FROM clicks
-      WHERE target IN (${sql.join(rows.map((r) => sql`${r.trackingTarget}`), sql`, `)})
-      GROUP BY target
-    `).catch(() => [] as any);
-
+    // Click-Counts per product (aus clicks-Tabelle).
+    // Nur wenn Produkte existieren — sonst SQL-Error `IN ()`.
     const clickMap = new Map<string, number>();
-    for (const row of (clickCounts as any[])) {
-      clickMap.set(row.target, Number(row.cnt) || 0);
+    if (rows.length > 0) {
+      try {
+        const targets = rows.map((r) => r.trackingTarget);
+        const clickCounts = await db.execute<{ target: string; cnt: number }>(sql`
+          SELECT target, COUNT(*)::int AS cnt
+          FROM clicks
+          WHERE target IN (${sql.join(targets.map((t) => sql`${t}`), sql`, `)})
+          GROUP BY target
+        `);
+        for (const row of (clickCounts as any[])) {
+          clickMap.set(row.target, Number(row.cnt) || 0);
+        }
+      } catch (err) {
+        console.error('[products:list] click-count error (non-fatal):', err);
+      }
     }
 
     const products = rows.map((p) => ({
