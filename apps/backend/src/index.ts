@@ -30,6 +30,7 @@ import herzraumReadersListRoute from './routes/herzraum/readers-list.js';
 import herzraumDataRoute from './routes/herzraum/data.js';
 import herzraumPasswordVerifyRoute from './routes/herzraum/password-verify.js';
 import herzraumPurchasesRoute from './routes/herzraum/purchases.js';
+import herzraumArticlesRoute from './routes/herzraum/articles.js';
 
 // Admin (bearer-token)
 import adminSubscribersCsvRoute from './routes/admin/subscribers-csv.js';
@@ -78,6 +79,7 @@ app.route('/herzraum/readers/list', herzraumReadersListRoute);
 app.route('/herzraum/data', herzraumDataRoute);
 app.route('/herzraum/password/verify', herzraumPasswordVerifyRoute);
 app.route('/herzraum/purchases', herzraumPurchasesRoute);
+app.route('/herzraum/articles', herzraumArticlesRoute);
 
 // Admin — bearer token
 app.use('/admin/*', requireAdminToken);
