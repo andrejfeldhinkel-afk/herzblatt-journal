@@ -336,23 +336,76 @@ const sourceNote = SOURCE_NOTE[p.source] ?? '';
     opacity: 0.8;
   }
 
-  /* Mobile */
+  /* Mobile — komplett neu, vertikales Single-Column-Layout */
   @media (max-width: 640px) {
     .hz-product-card {
-      grid-template-columns: 100px 1fr;
-      gap: 0.75rem;
+      display: block !important;        /* kein Grid mehr */
+      padding: 1.25rem;
+      margin: 1.25rem 0;
+    }
+    /* Bild (wenn vorhanden) als breites Banner oben */
+    .hz-product-card__image {
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      margin-bottom: 0.9rem;
+      border-radius: 10px;
+    }
+    /* Body nimmt volle Breite */
+    .hz-product-card__body {
+      width: 100%;
+    }
+    /* Titel lesbar, nicht zu klein — darf in 1-2 Zeilen auf mobile */
+    .hz-product-card__title {
+      font-size: 1.1rem;
+      line-height: 1.3;
+      word-break: normal;               /* kein Silben-Umbruch */
+      overflow-wrap: normal;
+      hyphens: manual;
+    }
+    .hz-product-card__description {
+      -webkit-line-clamp: 3;
+      font-size: 0.88rem;
+    }
+    .hz-product-card__meta {
+      gap: 1rem;
+      margin-top: 0.6rem;
+    }
+    .hz-product-card__price {
+      font-size: 1.2rem;                /* größer, besser sichtbar */
+    }
+    /* CTA full-width prominent */
+    .hz-product-card__cta {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0.55rem;
+      margin-top: 0.9rem;
+    }
+    .hz-product-card__cta-btn {
+      width: 100%;
+      justify-content: center;
+      padding: 0.75rem 1rem;
+      font-size: 0.95rem;
+      letter-spacing: -0.01em;
+    }
+    .hz-product-card__source {
+      text-align: center;
+      font-size: 0.72rem;
+    }
+    /* Badges kleiner, damit sie nicht die Card dominieren */
+    .hz-product-card__badges { gap: 0.3rem; }
+    .hz-product-card__badge {
+      padding: 0.12rem 0.5rem;
+      font-size: 0.62rem;
+    }
+  }
+
+  /* Extra-small < 380px (kleines iPhone etc.) */
+  @media (max-width: 380px) {
+    .hz-product-card {
       padding: 1rem;
     }
     .hz-product-card__title {
       font-size: 1rem;
-    }
-    .hz-product-card__description {
-      -webkit-line-clamp: 3;
-      font-size: 0.85rem;
-    }
-    .hz-product-card__cta-btn {
-      font-size: 0.8rem;
-      padding: 0.4rem 0.85rem;
     }
   }
 </style>

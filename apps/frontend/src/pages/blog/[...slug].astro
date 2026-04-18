@@ -249,19 +249,16 @@ const articleAuthor = {
           <Content />
         </div>
 
-        <!-- Produkte-Grid: explizit via Frontmatter ODER Fallback auf Featured-Produkte -->
-        {post.data.products && post.data.products.length > 0 ? (
+        <!-- Produkte-Grid: NUR wenn im Frontmatter explizit products: [...] gesetzt.
+             Kein Auto-Widget mit Random-Affiliate-Produkten — die passen nicht zu
+             jedem Artikel und wirken wie willkürliche Werbung. Stattdessen:
+             Artikel-spezifische Empfehlungen via Admin-Picker pro Artikel.
+             Für generisches Cross-Promote siehe <AppCTA /> weiter unten. -->
+        {post.data.products && post.data.products.length > 0 && (
           <ProductGrid
             slugs={post.data.products}
             title="Unsere Empfehlungen zu diesem Thema"
             intro="Passend zum Thema dieses Artikels — sorgfältig kuratiert."
-          />
-        ) : (
-          <ProductGrid
-            featured={true}
-            limit={2}
-            title="Passend zum Thema"
-            intro="Das hat uns selbst am meisten geholfen beim Thema Beziehung und Selbstreflexion."
           />
         )}
 
