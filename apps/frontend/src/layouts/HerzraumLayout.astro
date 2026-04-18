@@ -30,24 +30,56 @@ export interface Props {
 
 const { title, active } = Astro.props;
 
-const navItems = [
-  { key: 'overview',      href: '/herzraum',                label: 'Dashboard',    icon: 'dashboard' },
-  { key: 'artikel',       href: '/herzraum/artikel',        label: 'Artikel',      icon: 'article' },
-  { key: 'templates',     href: '/herzraum/templates',      label: 'Templates',    icon: 'template' },
-  { key: 'bilder',        href: '/herzraum/bilder',         label: 'Bilder',       icon: 'image' },
-  { key: 'autoren',       href: '/herzraum/autoren',        label: 'Autoren',      icon: 'users' },
-  { key: 'redirects',     href: '/herzraum/redirects',      label: 'Redirects',    icon: 'arrow' },
-  { key: 'health',        href: '/herzraum/health',         label: 'Health & SEO', icon: 'health' },
-  { key: 'traffic',       href: '/herzraum/traffic',        label: 'Traffic',      icon: 'traffic' },
-  { key: 'klicks',        href: '/herzraum/klicks',         label: 'Klicks',       icon: 'click' },
-  { key: 'newsletter',    href: '/herzraum/newsletter',     label: 'Newsletter',   icon: 'mail' },
-  { key: 'email-templates', href: '/herzraum/email-templates', label: 'Email-Templates', icon: 'envelope' },
-  { key: 'inbox',         href: '/herzraum/inbox',          label: 'Postfach',     icon: 'inbox' },
-  { key: 'verkaeufe',     href: '/herzraum/verkaeufe',      label: 'Verkäufe',     icon: 'euro' },
-  { key: 'produkte',      href: '/herzraum/produkte',       label: 'Produkte',     icon: 'bag' },
-  { key: 'leser',         href: '/herzraum/leser',          label: 'Leser',        icon: 'users' },
-  { key: 'audit',         href: '/herzraum/audit',          label: 'Audit-Log',    icon: 'shield' },
-  { key: 'einstellungen', href: '/herzraum/einstellungen',  label: 'Einstellungen',icon: 'settings' },
+// Navigation ist in Sektionen gruppiert — bessere Übersicht bei 17 Items.
+// Reihenfolge innerhalb jeder Section: häufigste Nutzung zuerst.
+const navSections = [
+  {
+    heading: null, // Top-Level: Dashboard immer allein oben
+    items: [
+      { key: 'overview',   href: '/herzraum',            label: 'Dashboard',    icon: 'dashboard' },
+    ],
+  },
+  {
+    heading: 'Content',
+    items: [
+      { key: 'artikel',    href: '/herzraum/artikel',    label: 'Artikel',      icon: 'article' },
+      { key: 'templates',  href: '/herzraum/templates',  label: 'Templates',    icon: 'template' },
+      { key: 'bilder',     href: '/herzraum/bilder',     label: 'Bilder',       icon: 'image' },
+      { key: 'health',     href: '/herzraum/health',     label: 'Health & SEO', icon: 'health' },
+    ],
+  },
+  {
+    heading: 'Monetarisierung',
+    items: [
+      { key: 'produkte',   href: '/herzraum/produkte',   label: 'Produkte',     icon: 'bag' },
+      { key: 'verkaeufe',  href: '/herzraum/verkaeufe',  label: 'Verkäufe',     icon: 'euro' },
+    ],
+  },
+  {
+    heading: 'Kommunikation',
+    items: [
+      { key: 'inbox',             href: '/herzraum/inbox',           label: 'Postfach',        icon: 'inbox' },
+      { key: 'newsletter',        href: '/herzraum/newsletter',      label: 'Newsletter',      icon: 'mail' },
+      { key: 'email-templates',   href: '/herzraum/email-templates', label: 'Email-Templates', icon: 'envelope' },
+      { key: 'leser',             href: '/herzraum/leser',           label: 'Leser',           icon: 'users' },
+    ],
+  },
+  {
+    heading: 'Analytics',
+    items: [
+      { key: 'traffic',    href: '/herzraum/traffic',    label: 'Traffic',      icon: 'traffic' },
+      { key: 'klicks',     href: '/herzraum/klicks',     label: 'Klicks',       icon: 'click' },
+    ],
+  },
+  {
+    heading: 'System',
+    items: [
+      { key: 'autoren',       href: '/herzraum/autoren',       label: 'Autoren',       icon: 'users' },
+      { key: 'redirects',     href: '/herzraum/redirects',     label: 'Redirects',     icon: 'arrow' },
+      { key: 'audit',         href: '/herzraum/audit',         label: 'Audit-Log',     icon: 'shield' },
+      { key: 'einstellungen', href: '/herzraum/einstellungen', label: 'Einstellungen', icon: 'settings' },
+    ],
+  },
 ] as const;
 ---
 <!DOCTYPE html>
@@ -140,6 +172,16 @@ const navItems = [
     .hz-brand-text p { font-size: 0.66rem; color: var(--hz-text-dim); text-transform: uppercase; letter-spacing: 0.18em; margin-top: 2px; font-family: 'DM Sans', sans-serif; font-weight: 500; }
 
     .hz-nav { flex: 1; display: flex; flex-direction: column; gap: 1px; padding: 0.25rem 0; }
+    .hz-nav-section {
+      font-size: 0.62rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      color: var(--hz-text-dim);
+      padding: 0.9rem 0.75rem 0.35rem;
+      margin-top: 0.35rem;
+    }
+    .hz-nav-section:first-child { margin-top: 0; }
     .hz-nav a {
       display: flex; align-items: center; gap: 0.75rem;
       padding: 0.55rem 0.75rem;
@@ -428,7 +470,10 @@ const navItems = [
       </div>
 
       <nav class="hz-nav">
-        {navItems.map((item) => (
+        {navSections.map((section) => (
+          <>
+            {section.heading && <div class="hz-nav-section">{section.heading}</div>}
+            {section.items.map((item) => (
           <a href={item.href} class={active === item.key ? 'active' : ''}>
             {item.icon === 'dashboard' && <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>}
             {item.icon === 'article' && <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>}
@@ -448,6 +493,8 @@ const navItems = [
             {item.icon === 'settings' && <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>}
             <span>{item.label}</span>
           </a>
+            ))}
+          </>
         ))}
       </nav>
 
