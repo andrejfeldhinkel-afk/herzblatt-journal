@@ -17,6 +17,8 @@
  *   SENDGRID_WELCOME_TEMPLATE_ID — dynamic template (optional, sonst plaintext)
  */
 
+import { buildUnsubscribeToken } from '../routes/unsubscribe.js';
+
 type SendGridResult = {
   ok: boolean;
   skipped?: boolean;
@@ -26,6 +28,22 @@ type SendGridResult = {
 };
 
 const API_BASE = 'https://api.sendgrid.com/v3';
+
+function getPublicBaseUrl(): string {
+  // Public-URL für Unsubscribe-Links — Fallback: Production-Domain
+  return (
+    process.env.PUBLIC_BASE_URL ||
+    process.env.APP_URL ||
+    'https://herzblatt-journal.com'
+  ).replace(/\/$/, '');
+}
+
+function buildUnsubscribeUrl(email: string): string {
+  const token = buildUnsubscribeToken(email);
+  // URL zeigt auf Frontend-Proxy (wir müssen noch einen bauen) oder direkt Backend
+  // Variante: Frontend /api/unsubscribe?email=...&token=...
+  return `${getPublicBaseUrl()}/api/unsubscribe?email=${encodeURIComponent(email)}&token=${token}`;
+}
 
 function getConfig() {
   return {
@@ -102,11 +120,21 @@ export async function sendWelcomeEmail(email: string): Promise<SendGridResult> {
       personalizations: [personalization],
     };
 
+    const unsubUrl = buildUnsubscribeUrl(email);
+
+    // Standard-Header für Abmeldung (RFC 8058) — erlaubt One-Click-Unsubscribe
+    // in Gmail/Outlook-Interface
+    body.headers = {
+      'List-Unsubscribe': `<${unsubUrl}>`,
+      'List-Unsubscribe-Post': 'List-Unsubscribe=One-Click',
+    };
+
     if (cfg.welcomeTemplateId) {
       body.template_id = cfg.welcomeTemplateId;
       personalization.dynamic_template_data = {
         email,
         first_name: email.split('@')[0],
+        unsubscribe_url: unsubUrl,
       };
     } else {
       // Fallback: schlichter HTML-Content, wenn kein Template gesetzt
@@ -124,7 +152,7 @@ Herzlich,
 Dein Herzblatt-Journal-Team
 
 ---
-Abmelden kannst du jederzeit: ${cfg.fromEmail}
+Abmelden jederzeit möglich: ${unsubUrl}
 `,
         },
         {
@@ -138,7 +166,10 @@ Abmelden kannst du jederzeit: ${cfg.fromEmail}
   <p>Keine Spam-Mails, nur Gold-Content.</p>
   <p style="margin-top: 2rem;">Herzlich,<br>Dein Herzblatt-Journal-Team</p>
   <hr style="margin-top: 2rem; border: none; border-top: 1px solid #ddd;">
-  <p style="font-size: 0.8rem; color: #888;">Abmelden kannst du jederzeit per Antwort an diese Mail.</p>
+  <p style="font-size: 0.8rem; color: #888;">
+    Du möchtest keine Mails mehr bekommen?
+    <a href="${unsubUrl}" style="color: #888; text-decoration: underline;">Hier abmelden</a>.
+  </p>
 </body></html>
 `,
         },
