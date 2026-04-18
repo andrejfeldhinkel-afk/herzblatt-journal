@@ -253,6 +253,119 @@ SENTRY_DSN_FRONTEND          = https://...@sentry.io/... (NEU, optional)
 
 ---
 
+## 🤖 GitHub-Actions für Cron + Backup (kostenlos, keine externe Dienste)
+
+Ich habe die YAMLs lokal geschrieben aber konnte sie nicht pushen — der GitHub-Token
+hat keine `workflow`-Scope. Du musst sie **einmal manuell adden**:
+
+### 1. Secret anlegen
+Repo **Settings** → **Secrets and variables** → **Actions** → **New repository secret**
+```
+Name:  BACKEND_ADMIN_TOKEN
+Value: 575862173bd7f57815a93a5a0a936ef3ed0c9dc2dfc56022be5244c75c3b8fe2
+```
+
+### 2. Workflow für Cleanup anlegen
+
+Repo → **Actions** → **new workflow** → **set up a workflow yourself** →
+Dateiname `cron-cleanup.yml` mit Inhalt:
+
+```yaml
+name: Backend Housekeeping
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Trigger backend cleanup
+        env:
+          BACKEND_URL: https://backend-production-c327.up.railway.app
+          ADMIN_TOKEN: ${{ secrets.BACKEND_ADMIN_TOKEN }}
+        run: |
+          if [ -z "$ADMIN_TOKEN" ]; then
+            echo "::error::BACKEND_ADMIN_TOKEN secret is not set"; exit 1
+          fi
+          response=$(curl -sS -w "\nHTTP_CODE:%{http_code}" -X POST \
+            -H "Authorization: Bearer $ADMIN_TOKEN" \
+            "$BACKEND_URL/admin/cron/cleanup")
+          code=$(echo "$response" | grep -oE 'HTTP_CODE:[0-9]+' | cut -d':' -f2)
+          body=$(echo "$response" | sed '/HTTP_CODE:/d')
+          echo "Status: $code"; echo "Body: $body"
+          [ "$code" = "200" ] || { echo "::error::Cleanup failed $code"; exit 1; }
+```
+
+### 3. Workflow für Daily Backup (JSON-Artifact, 90 Tage retention)
+
+Dateiname `daily-backup.yml`:
+
+```yaml
+name: Daily DB Backup
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Fetch backup
+        env:
+          BACKEND_URL: https://backend-production-c327.up.railway.app
+          ADMIN_TOKEN: ${{ secrets.BACKEND_ADMIN_TOKEN }}
+        run: |
+          [ -n "$ADMIN_TOKEN" ] || { echo "::error::token missing"; exit 1; }
+          date_str=$(date -u +%Y-%m-%d)
+          out="herzblatt-backup-${date_str}.json"
+          code=$(curl -sS -o "$out" -w '%{http_code}' \
+            -H "Authorization: Bearer $ADMIN_TOKEN" \
+            "$BACKEND_URL/admin/backup.json")
+          echo "HTTP: $code"
+          [ "$code" = "200" ] || { cat "$out"; exit 1; }
+          python3 -c "import json; d=json.load(open('$out')); assert d.get('exported_at'); print('OK:', d['counts'])"
+      - name: Upload as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: herzblatt-backup-${{ github.run_id }}
+          path: herzblatt-backup-*.json
+          retention-days: 90
+```
+
+**Alternativ zu beiden:** nutze cron-job.org (ein Konto, zwei Jobs einstellen, fertig).
+
+---
+
+## 💶 Purchases-Endpoint (neu committed — wartet auf Deploy)
+
+Nach Deploy verfügbar:
+- `GET /herzraum/purchases?limit=100` (Session-Cookie) → JSON mit Items + Stats
+- Frontend-Proxy `/api/herzraum/purchases`
+
+Response-Shape:
+```json
+{
+  "total": 47, "paid": 42, "refunded": 3, "chargeback": 2,
+  "revenue_cents": { "all": 423800, "paid": 377958, "refunded": 26997 },
+  "items": [
+    { "id": 47, "provider": "digistore24", "orderId": "...",
+      "email": "...", "product": "ebook", "amountCents": 8999,
+      "currency": "EUR", "status": "paid", "createdAt": "..." }
+  ]
+}
+```
+
+Kann als Basis für einen "Verkäufe"-Tab im Herzraum-Dashboard-UI dienen.
+
+---
+
 ## 🧪 Verify-Commands nach Deploy
 
 ```bash
