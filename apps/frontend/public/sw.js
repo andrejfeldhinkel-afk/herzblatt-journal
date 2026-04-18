@@ -13,7 +13,7 @@
  *   - Alles andere: Network-Only (kein Cache)
  */
 
-const VERSION = 'v1.0.0';
+const VERSION = 'v1.1.0';
 const RUNTIME_CACHE = `hbj-runtime-${VERSION}`;
 const OFFLINE_URL = '/offline.html';
 
@@ -138,7 +138,7 @@ self.addEventListener('push', (event) => {
     silent: false,
     data: {
       url: data.url || '/',
-      id: data.id || null,
+      broadcastId: data.id || null,
     },
     actions: data.actions || [
       { action: 'open', title: 'Öffnen' },
@@ -150,10 +150,24 @@ self.addEventListener('push', (event) => {
 
 self.addEventListener('notificationclick', (event) => {
   event.notification.close();
-  const targetUrl = (event.notification.data && event.notification.data.url) || '/';
+  const data = event.notification.data || {};
+  const targetUrl = data.url || '/';
+  const broadcastId = data.broadcastId;
 
   event.waitUntil(
     (async () => {
+      // Click-Tracking — fire-and-forget, blockt Navigation nicht.
+      if (broadcastId) {
+        try {
+          await fetch('/api/push/click', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ broadcastId }),
+            keepalive: true,
+          });
+        } catch { /* offline click = ignore; broadcastId ist verloren */ }
+      }
+
       const clientsArr = await self.clients.matchAll({ type: 'window', includeUncontrolled: true });
       // Wenn schon ein Tab offen ist → fokussieren und navigieren
       for (const client of clientsArr) {

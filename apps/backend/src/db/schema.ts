@@ -335,6 +335,7 @@ export const pushBroadcasts = pgTable(
     recipientCount: bigint('recipient_count', { mode: 'number' }).notNull().default(0),
     successCount: bigint('success_count', { mode: 'number' }).notNull().default(0),
     failureCount: bigint('failure_count', { mode: 'number' }).notNull().default(0),
+    clickCount: bigint('click_count', { mode: 'number' }).notNull().default(0),
     actor: text('actor').notNull().default('admin'),
   },
   (t) => ({

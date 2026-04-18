@@ -171,9 +171,13 @@ export async function runStartupMigrations(): Promise<void> {
         recipient_count BIGINT NOT NULL DEFAULT 0,
         success_count BIGINT NOT NULL DEFAULT 0,
         failure_count BIGINT NOT NULL DEFAULT 0,
+        click_count BIGINT NOT NULL DEFAULT 0,
         actor TEXT NOT NULL DEFAULT 'admin'
       )
     `);
+    // Additive migration for existing installs (click_count added later) —
+    // ADD COLUMN IF NOT EXISTS is safe on re-run and on a freshly created table.
+    await db.execute(sql`ALTER TABLE push_broadcasts ADD COLUMN IF NOT EXISTS click_count BIGINT NOT NULL DEFAULT 0`);
     await db.execute(sql`CREATE INDEX IF NOT EXISTS push_broadcasts_sent_at_idx ON push_broadcasts(sent_at)`);
 
     // affiliate_links — Benannte Short-URLs mit Traffic-Tracking
