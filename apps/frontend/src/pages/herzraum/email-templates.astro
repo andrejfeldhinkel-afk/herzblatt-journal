@@ -88,6 +88,21 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         </div>
         <div id="test-result" style="margin-top: 0.75rem; font-size: 0.85rem;"></div>
       </div>
+
+      <!-- BROADCAST: an alle -->
+      <div class="hz-card" style="padding: 1.25rem; margin-top: 1rem; border: 1px solid rgba(239,68,68,0.25); background: rgba(239,68,68,0.03);">
+        <h3 style="margin: 0 0 0.75rem 0; font-size: 0.95rem; color: var(--hz-danger);">📢 An alle Abonnenten senden</h3>
+        <p style="color: var(--hz-text-muted); font-size: 0.8rem; margin-bottom: 0.75rem; line-height: 1.5;">
+          Sendet an <strong id="bc-recipient-count">—</strong> aktive Abonnenten (unsubscribed ausgeschlossen).
+          <br>Max 3 Broadcasts pro Stunde. Jeder Empfänger bekommt persönlichen Unsub-Link.
+        </p>
+        <div class="hz-row" style="gap: 0.5rem;">
+          <input type="text" id="bc-confirm" placeholder="Tippe: SENDE AN ALLE" style="flex: 1;" />
+          <button id="bc-preview-btn" class="hz-btn" type="button">Dry-Run</button>
+          <button id="bc-send-btn" class="hz-btn danger" type="button" disabled>An alle senden</button>
+        </div>
+        <div id="bc-result" style="margin-top: 0.75rem; font-size: 0.85rem;"></div>
+      </div>
     </div>
 
     <div id="no-selection" class="hz-card" style="padding: 3rem; text-align: center; color: var(--hz-text-muted);">
@@ -253,6 +268,53 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
           result.innerHTML = '<span style="color: var(--hz-danger);">Netzwerk-Fehler</span>';
         } finally {
           btn.disabled = false; btn.textContent = 'Senden';
+        }
+      });
+
+      // Broadcast-Flow
+      $('bc-confirm').addEventListener('input', (e) => {
+        $('bc-send-btn').disabled = e.target.value.trim() !== 'SENDE AN ALLE';
+      });
+
+      async function doBroadcast(dryRun) {
+        if (!currentId) return;
+        const result = $('bc-result');
+        const btn = dryRun ? $('bc-preview-btn') : $('bc-send-btn');
+        const orig = btn.textContent;
+        btn.disabled = true; btn.textContent = '…';
+        result.innerHTML = '';
+        try {
+          const res = await fetch('/api/herzraum/email-templates/' + currentId + '/broadcast', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ confirmText: 'SENDE AN ALLE', dryRun }),
+          });
+          const data = await res.json();
+          if (data.ok) {
+            if (data.dryRun) {
+              $('bc-recipient-count').textContent = data.recipientCount;
+              result.innerHTML = '<span style="color: #16a34a;">✓ Dry-Run OK — ' + data.recipientCount + ' Empfänger. Erste 3 Subjects: ' +
+                data.sample.map(s => '<br>&nbsp;&nbsp;→ ' + s.email + ' : "' + s.subject + '"').join('') + '</span>';
+            } else {
+              result.innerHTML = '<span style="color: #16a34a;">✓ ' + data.sent + ' von ' + data.totalRecipients + ' gesendet' +
+                (data.failed > 0 ? ' (' + data.failed + ' failed)' : '') + '</span>';
+              $('bc-confirm').value = '';
+              $('bc-send-btn').disabled = true;
+            }
+          } else {
+            result.innerHTML = '<span style="color: var(--hz-danger);">Fehler: ' + (data.error || 'unknown') + (data.message ? ' — ' + data.message : '') + (data.hint ? '<br>' + data.hint : '') + '</span>';
+          }
+        } catch (err) {
+          result.innerHTML = '<span style="color: var(--hz-danger);">Netzwerk-Fehler</span>';
+        } finally {
+          btn.disabled = false; btn.textContent = orig;
+          if (!dryRun) $('bc-send-btn').disabled = true; // erneut bestätigen nötig
+        }
+      }
+      $('bc-preview-btn').addEventListener('click', () => doBroadcast(true));
+      $('bc-send-btn').addEventListener('click', () => {
+        if (confirm('WIRKLICH an alle Abonnenten senden?\n\nDas kann nicht rückgängig gemacht werden.')) {
+          doBroadcast(false);
         }
       });
 
