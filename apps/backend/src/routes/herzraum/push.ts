@@ -96,27 +96,37 @@ app.post('/broadcast', async (c) => {
     return c.json({ success: false, message: 'invalid payload', errors: parsed.error.flatten() }, 400);
   }
 
-  const payload: PushPayload = {
-    title: parsed.data.title,
-    body: parsed.data.body,
-    url: parsed.data.url,
-    icon: parsed.data.icon || '/icons/icon-192.png',
-    image: parsed.data.image,
-    tag: parsed.data.tag,
-    requireInteraction: parsed.data.requireInteraction,
-  };
+  // Auto-UTM — wenn der Link noch keine utm_source hat, hängen wir sie an,
+  // damit Broadcasts in GA sauber als Traffic-Quelle "push" erscheinen.
+  function appendUtm(url: string, campaign: string): string {
+    if (!url) return '/';
+    try {
+      // Nur bei relativen oder absoluten http(s) URLs — mailto/tel werden übersprungen.
+      if (!url.startsWith('/') && !/^https?:/i.test(url)) return url;
+      const u = new URL(url, 'https://herzblatt-journal.com');
+      if (!u.searchParams.has('utm_source')) u.searchParams.set('utm_source', 'push');
+      if (!u.searchParams.has('utm_medium')) u.searchParams.set('utm_medium', 'notification');
+      if (!u.searchParams.has('utm_campaign')) u.searchParams.set('utm_campaign', campaign);
+      // Relativ erhalten, wenn ursprünglich relativ war.
+      return url.startsWith('/') ? u.pathname + u.search + u.hash : u.toString();
+    } catch {
+      return url;
+    }
+  }
 
   const subs = await db
     .select()
     .from(schema.pushSubscriptions)
     .where(eq(schema.pushSubscriptions.enabled, true));
 
+  // Wenn Dry-Run: antworten ohne Insert — keine broadcastId nötig.
   if (parsed.data.dryRun) {
+    const previewUrl = appendUtm(parsed.data.url, 'dryrun');
     return c.json({
       success: true,
       dryRun: true,
       recipientCount: subs.length,
-      payload,
+      payload: { ...parsed.data, url: previewUrl },
     });
   }
 
@@ -124,14 +134,27 @@ app.post('/broadcast', async (c) => {
   const [inserted] = await db
     .insert(schema.pushBroadcasts)
     .values({
-      title: payload.title,
-      body: payload.body,
-      url: payload.url ?? '/',
-      icon: payload.icon,
-      image: payload.image,
+      title: parsed.data.title,
+      body: parsed.data.body,
+      url: parsed.data.url,
+      icon: parsed.data.icon,
+      image: parsed.data.image,
       recipientCount: subs.length,
     })
     .returning({ id: schema.pushBroadcasts.id });
+
+  const campaignTag = 'push-' + inserted!.id;
+  const payload: PushPayload = {
+    title: parsed.data.title,
+    body: parsed.data.body,
+    url: appendUtm(parsed.data.url, campaignTag),
+    icon: parsed.data.icon || '/icons/icon-192.png',
+    image: parsed.data.image,
+    tag: parsed.data.tag,
+    requireInteraction: parsed.data.requireInteraction,
+    // id = broadcastId — SW liest das beim notificationclick aus und pingt /push/click
+    id: inserted!.id,
+  };
 
   let success = 0;
   let failure = 0;
