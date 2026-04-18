@@ -290,3 +290,54 @@ export const products = pgTable(
     sortOrderIdx: index('products_sort_order_idx').on(t.sortOrder),
   }),
 );
+
+/**
+ * Push-Subscriptions — ein Eintrag pro installierter PWA-Instanz.
+ * endpoint ist unique (ein Gerät/Browser hat genau eine Subscription).
+ * Bei 404/410 beim Broadcast Eintrag als disabled markieren.
+ */
+export const pushSubscriptions = pgTable(
+  'push_subscriptions',
+  {
+    id: serial('id').primaryKey(),
+    endpoint: text('endpoint').notNull().unique(),
+    p256dh: text('p256dh').notNull(),
+    auth: text('auth').notNull(),
+    userAgent: text('user_agent'),
+    lang: text('lang').default('de-DE'),
+    enabled: boolean('enabled').notNull().default(true),
+    createdAt: timestamp('created_at', { withTimezone: true }).defaultNow().notNull(),
+    lastSeenAt: timestamp('last_seen_at', { withTimezone: true }).defaultNow().notNull(),
+    lastNotificationAt: timestamp('last_notification_at', { withTimezone: true }),
+    failureCount: bigint('failure_count', { mode: 'number' }).notNull().default(0),
+  },
+  (t) => ({
+    endpointIdx: index('push_subscriptions_endpoint_idx').on(t.endpoint),
+    enabledIdx: index('push_subscriptions_enabled_idx').on(t.enabled),
+    createdIdx: index('push_subscriptions_created_idx').on(t.createdAt),
+  }),
+);
+
+/**
+ * Push-Broadcasts — jede versendete Kampagne protokolliert, inkl. Zähler.
+ * Wird in /herzraum/push für History + Durchschnitts-Öffnungsrate genutzt.
+ */
+export const pushBroadcasts = pgTable(
+  'push_broadcasts',
+  {
+    id: serial('id').primaryKey(),
+    title: text('title').notNull(),
+    body: text('body').notNull(),
+    url: text('url').notNull().default('/'),
+    icon: text('icon'),
+    image: text('image'),
+    sentAt: timestamp('sent_at', { withTimezone: true }).defaultNow().notNull(),
+    recipientCount: bigint('recipient_count', { mode: 'number' }).notNull().default(0),
+    successCount: bigint('success_count', { mode: 'number' }).notNull().default(0),
+    failureCount: bigint('failure_count', { mode: 'number' }).notNull().default(0),
+    actor: text('actor').notNull().default('admin'),
+  },
+  (t) => ({
+    sentAtIdx: index('push_broadcasts_sent_at_idx').on(t.sentAt),
+  }),
+);

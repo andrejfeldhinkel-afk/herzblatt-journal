@@ -1,0 +1,298 @@
+---
+export const prerender = false;
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+---
+<HerzraumLayout title="Push & App" active="push">
+
+  <!-- KPIs -->
+  <section class="hz-kpi-grid">
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Aktive App-Nutzer</div>
+      <div class="hz-kpi-value" data-kpi="active">—</div>
+      <div class="hz-kpi-hint" style="font-size: 0.75rem; color: var(--hz-text-muted);">mit Push erlaubt</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Neu · 7 Tage</div>
+      <div class="hz-kpi-value" data-kpi="week">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Neu · 30 Tage</div>
+      <div class="hz-kpi-value" data-kpi="month">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Total (all-time)</div>
+      <div class="hz-kpi-value" data-kpi="total">—</div>
+    </div>
+  </section>
+
+  <!-- VAPID-Status Warnung -->
+  <div id="vapid-warn" class="hz-card hidden" style="margin-top: 1rem; border-left: 4px solid #f59e0b; background: rgba(245, 158, 11, 0.08);">
+    <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
+      <div style="font-size: 1.5rem;">⚠️</div>
+      <div>
+        <h3 style="margin: 0 0 0.35rem 0; color: #f59e0b;">VAPID-Keys nicht konfiguriert</h3>
+        <p style="margin: 0; font-size: 0.9rem; color: var(--hz-text-muted);">
+          Push-Broadcasts sind deaktiviert bis <code>VAPID_PUBLIC_KEY</code> und <code>VAPID_PRIVATE_KEY</code> als Env-Vars im Railway-Backend-Service gesetzt sind.
+          Siehe <code>docs/PUSH-SETUP.md</code> für die Anleitung.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Growth-Chart -->
+  <div class="hz-card" style="margin-top: 1rem;">
+    <h3 style="margin: 0 0 0.75rem 0;">App-Installationen · 30 Tage</h3>
+    <div style="position: relative; height: 240px;">
+      <canvas id="chart-growth"></canvas>
+    </div>
+  </div>
+
+  <!-- Composer -->
+  <div class="hz-card" style="margin-top: 1rem;">
+    <h3 style="margin: 0 0 1rem 0;">📣 Push-Nachricht senden</h3>
+    <form id="push-form" style="display: grid; gap: 1rem;">
+      <div>
+        <label for="push-title" style="display: block; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.35rem;">Titel <span style="color: var(--hz-text-muted); font-weight: 400;">(max. 50 Zeichen empfohlen)</span></label>
+        <input type="text" id="push-title" name="title" required maxlength="120"
+               placeholder="💕 Neuer Artikel: Wie du Bindungsangst erkennst"
+               style="width: 100%; padding: 0.7rem 0.85rem; font-size: 0.95rem;">
+      </div>
+
+      <div>
+        <label for="push-body" style="display: block; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.35rem;">Nachricht <span style="color: var(--hz-text-muted); font-weight: 400;">(max. 120 Zeichen empfohlen)</span></label>
+        <textarea id="push-body" name="body" required maxlength="400" rows="3"
+                  placeholder="Die 5 häufigsten Anzeichen, die du in den ersten Dates siehst."
+                  style="width: 100%; padding: 0.7rem 0.85rem; font-size: 0.95rem; resize: vertical;"></textarea>
+      </div>
+
+      <div class="hz-row" style="gap: 0.75rem;">
+        <div style="flex: 1;">
+          <label for="push-url" style="display: block; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.35rem;">Link-Ziel (beim Klick)</label>
+          <input type="text" id="push-url" name="url" value="/" required maxlength="500"
+                 placeholder="/blog/bindungsangst-erkennen"
+                 style="width: 100%; padding: 0.7rem 0.85rem; font-size: 0.95rem;">
+        </div>
+        <div style="width: 120px;">
+          <label for="push-tag" style="display: block; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.35rem;">Tag <span style="color: var(--hz-text-muted); font-weight: 400;">(optional)</span></label>
+          <input type="text" id="push-tag" name="tag" maxlength="80"
+                 placeholder="blog-post"
+                 style="width: 100%; padding: 0.7rem 0.85rem; font-size: 0.95rem;">
+        </div>
+      </div>
+
+      <div>
+        <label for="push-image" style="display: block; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.35rem;">Bild-URL <span style="color: var(--hz-text-muted); font-weight: 400;">(optional, groß im Android)</span></label>
+        <input type="text" id="push-image" name="image" maxlength="500"
+               placeholder="https://herzblatt-journal.com/images/photos/foo.webp"
+               style="width: 100%; padding: 0.7rem 0.85rem; font-size: 0.95rem;">
+      </div>
+
+      <label style="display: inline-flex; align-items: center; gap: 0.5rem; font-size: 0.9rem; cursor: pointer;">
+        <input type="checkbox" id="push-require-interaction" style="accent-color: var(--hz-primary);">
+        Notification muss aktiv weggeklickt werden (requireInteraction)
+      </label>
+
+      <!-- Preview -->
+      <div id="push-preview" style="border: 1px dashed var(--hz-border); border-radius: 10px; padding: 1rem; background: var(--hz-bg-subtle);">
+        <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1px; color: var(--hz-text-muted); margin-bottom: 0.5rem;">Vorschau</div>
+        <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
+          <div style="width: 36px; height: 36px; border-radius: 8px; background: linear-gradient(135deg, #f43f5e, #be123c); flex-shrink: 0; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">♥</div>
+          <div style="flex: 1; min-width: 0;">
+            <div id="preview-title" style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.15rem;">Titel erscheint hier</div>
+            <div id="preview-body" style="font-size: 0.85rem; color: var(--hz-text-muted); word-break: break-word;">Nachricht erscheint hier.</div>
+            <div style="font-size: 0.7rem; color: var(--hz-text-muted); margin-top: 0.4rem;">herzblatt-journal.com · jetzt</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="hz-row" style="gap: 0.75rem; justify-content: flex-end; flex-wrap: wrap;">
+        <button type="button" id="btn-dry-run" class="hz-btn">Trocken-Test (nicht senden)</button>
+        <button type="submit" id="btn-send" class="hz-btn primary">
+          📣 An alle aktiven Nutzer senden
+        </button>
+      </div>
+
+      <div id="push-result" class="hidden" style="padding: 0.85rem 1rem; border-radius: 8px; font-size: 0.9rem;"></div>
+    </form>
+  </div>
+
+  <!-- History -->
+  <div class="hz-card" style="margin-top: 1rem;">
+    <h3 style="margin: 0 0 0.75rem 0;">Versand-History</h3>
+    <div style="overflow-x: auto;">
+      <table class="hz-table" id="table-history">
+        <thead><tr><th>Wann</th><th>Titel</th><th>Empfänger</th><th>Zugestellt</th><th>Fehler</th></tr></thead>
+        <tbody><tr><td colspan="5" class="muted">Lade…</td></tr></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js" is:inline></script>
+
+  <script is:inline>
+    (function () {
+      function fmt(n) { return (n || 0).toLocaleString('de-DE'); }
+      function fmtDate(iso) {
+        try {
+          const d = new Date(iso);
+          return d.toLocaleString('de-DE', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
+        } catch { return iso; }
+      }
+      function setKpi(k, v) {
+        const el = document.querySelector('[data-kpi="' + k + '"]');
+        if (el) el.textContent = fmt(v);
+      }
+      function showResult(msg, ok) {
+        const el = document.getElementById('push-result');
+        el.classList.remove('hidden');
+        el.style.background = ok ? 'rgba(16, 185, 129, 0.12)' : 'rgba(239, 68, 68, 0.12)';
+        el.style.color = ok ? '#059669' : '#dc2626';
+        el.textContent = msg;
+      }
+
+      // Live-Preview
+      const titleInp = document.getElementById('push-title');
+      const bodyInp = document.getElementById('push-body');
+      titleInp.addEventListener('input', () => {
+        document.getElementById('preview-title').textContent = titleInp.value || 'Titel erscheint hier';
+      });
+      bodyInp.addEventListener('input', () => {
+        document.getElementById('preview-body').textContent = bodyInp.value || 'Nachricht erscheint hier.';
+      });
+
+      let chart = null;
+      async function loadStats() {
+        try {
+          const res = await fetch('/api/herzraum/push/stats').then(r => r.json());
+          setKpi('active', res.active);
+          setKpi('week', res.newLast7d);
+          setKpi('month', res.newLast30d);
+          setKpi('total', res.totalEver);
+
+          // VAPID-Warn
+          if (!res.vapidConfigured) {
+            document.getElementById('vapid-warn').classList.remove('hidden');
+            document.getElementById('btn-send').disabled = true;
+          }
+
+          // Growth-Chart — letzte 30 Tage
+          const days = [];
+          const counts = [];
+          const today = new Date();
+          for (let i = 29; i >= 0; i--) {
+            const d = new Date(today.getTime() - i * 86400000);
+            days.push(d.toLocaleDateString('de-DE', { day: '2-digit', month: '2-digit' }));
+            const iso = d.toISOString().split('T')[0];
+            const match = (res.dailyGrowth || []).find(x => x.day === iso);
+            counts.push(match ? match.n : 0);
+          }
+          const canvas = document.getElementById('chart-growth');
+          if (canvas && window.Chart) {
+            if (chart) chart.destroy();
+            chart = new window.Chart(canvas.getContext('2d'), {
+              type: 'line',
+              data: {
+                labels: days,
+                datasets: [{
+                  label: 'Neue Installationen',
+                  data: counts,
+                  borderColor: '#f43f5e',
+                  backgroundColor: 'rgba(244, 63, 94, 0.1)',
+                  tension: 0.35,
+                  fill: true,
+                  pointRadius: 2,
+                }],
+              },
+              options: {
+                responsive: true, maintainAspectRatio: false,
+                plugins: { legend: { display: false } },
+                scales: {
+                  x: { ticks: { maxTicksLimit: 8, color: 'rgba(255,255,255,0.5)' }, grid: { display: false } },
+                  y: { beginAtZero: true, ticks: { precision: 0, color: 'rgba(255,255,255,0.5)' }, grid: { color: 'rgba(255,255,255,0.05)' } },
+                },
+              },
+            });
+          }
+
+          // History-Tabelle
+          const tbody = document.querySelector('#table-history tbody');
+          const rows = (res.recentBroadcasts || []).slice(0, 20);
+          tbody.innerHTML = rows.length
+            ? rows.map(r => `
+              <tr>
+                <td>${fmtDate(r.sentAt)}</td>
+                <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="${escapeHtml(r.title)}">${escapeHtml(r.title)}</td>
+                <td>${fmt(r.recipientCount)}</td>
+                <td style="color: #059669;">${fmt(r.successCount)}</td>
+                <td style="color: ${r.failureCount > 0 ? '#dc2626' : 'var(--hz-text-muted)'};">${fmt(r.failureCount)}</td>
+              </tr>`).join('')
+            : '<tr><td colspan="5" class="muted">Noch keine Broadcasts gesendet.</td></tr>';
+        } catch (err) {
+          console.error('[push-admin] stats load failed', err);
+        }
+      }
+
+      function escapeHtml(s) {
+        return String(s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+      }
+
+      function collectPayload() {
+        return {
+          title: document.getElementById('push-title').value.trim(),
+          body: document.getElementById('push-body').value.trim(),
+          url: document.getElementById('push-url').value.trim() || '/',
+          tag: document.getElementById('push-tag').value.trim() || undefined,
+          image: document.getElementById('push-image').value.trim() || undefined,
+          requireInteraction: document.getElementById('push-require-interaction').checked || undefined,
+        };
+      }
+
+      async function send(dryRun) {
+        const payload = collectPayload();
+        if (!payload.title || !payload.body) {
+          showResult('Titel und Nachricht sind Pflicht.', false);
+          return;
+        }
+        if (!dryRun) {
+          const ok = confirm(`Wirklich an ALLE aktiven App-Nutzer senden?\n\nTitel: ${payload.title}\nLink: ${payload.url}`);
+          if (!ok) return;
+        }
+
+        const btn = dryRun ? document.getElementById('btn-dry-run') : document.getElementById('btn-send');
+        btn.disabled = true;
+        const origText = btn.textContent;
+        btn.textContent = dryRun ? 'Teste…' : 'Sende…';
+
+        try {
+          const res = await fetch('/api/herzraum/push/broadcast', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ ...payload, dryRun: !!dryRun }),
+          });
+          const data = await res.json();
+          if (!res.ok || !data.success) {
+            showResult(`Fehler: ${data.message || res.statusText}`, false);
+          } else if (dryRun) {
+            showResult(`Dry-Run OK — würde an ${fmt(data.recipientCount)} Empfänger gesendet.`, true);
+          } else {
+            showResult(
+              `✅ Gesendet an ${fmt(data.recipientCount)} Geräte — ${fmt(data.successCount)} zugestellt, ${fmt(data.failureCount)} Fehler${data.disabledCount ? ` (${data.disabledCount} tote Abos entfernt)` : ''}.`,
+              true,
+            );
+            await loadStats();
+          }
+        } catch (err) {
+          showResult('Netzwerk-Fehler: ' + (err && err.message ? err.message : String(err)), false);
+        } finally {
+          btn.disabled = false;
+          btn.textContent = origText;
+        }
+      }
+
+      document.getElementById('btn-dry-run').addEventListener('click', () => send(true));
+      document.getElementById('push-form').addEventListener('submit', (e) => { e.preventDefault(); send(false); });
+
+      loadStats();
+    })();
+  </script>
+</HerzraumLayout>
