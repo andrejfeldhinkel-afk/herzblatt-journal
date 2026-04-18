@@ -1,0 +1,55 @@
+---
+// Public Short-URL-Redirect — /go/<slug> → target_url
+// SSR-only (kein Prerender), weil wir pro Request den Klick loggen müssen.
+export const prerender = false;
+
+const slug = Astro.params.slug;
+
+// Helper: Fallback wenn Link unbekannt/inaktiv
+function notFound() {
+  return Astro.redirect('/', 302);
+}
+
+if (!slug || !/^[a-z0-9][a-z0-9-]{1,60}$/.test(slug)) {
+  return notFound();
+}
+
+const PROD_BACKEND = 'https://backend-production-c327.up.railway.app';
+const BACKEND_URL = (
+  (typeof process !== 'undefined' && process.env?.BACKEND_URL) ||
+  (import.meta as any).env?.BACKEND_URL ||
+  PROD_BACKEND
+).replace(/\/$/, '');
+
+const referrer = Astro.request.headers.get('referer') || '';
+const userAgent = (Astro.request.headers.get('user-agent') || '').slice(0, 200);
+
+let targetUrl: string | null = null;
+
+try {
+  const res = await fetch(`${BACKEND_URL}/go/${slug}`, {
+    method: 'POST',
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({ referrer, userAgent }),
+    // Timeout via AbortController — sonst blockiert hanging fetch den Astro-Worker
+    signal: AbortSignal.timeout(3500),
+  });
+
+  if (res.ok) {
+    const data = await res.json().catch(() => null);
+    if (data?.ok && typeof data.targetUrl === 'string') {
+      targetUrl = data.targetUrl;
+    }
+  }
+} catch (err) {
+  // Netzwerk/Timeout — User kriegt Home-Redirect statt kryptischem Error
+  console.error('[go] backend lookup failed:', err);
+}
+
+if (!targetUrl) {
+  return notFound();
+}
+
+// 302 Redirect — bewusst NICHT 301 damit wir Klicks weiter tracken
+return Astro.redirect(targetUrl, 302);
+---

@@ -1,0 +1,360 @@
+---
+export const prerender = false;
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+---
+<HerzraumLayout title="Affiliate-Links" active="affiliate-links">
+
+  <section style="margin-bottom: 1.25rem;">
+    <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; flex-wrap: wrap; margin-bottom: 0.5rem;">
+      <div>
+        <h2 style="margin: 0 0 0.35rem 0; font-size: 1.5rem; font-weight: 700;">🔗 Affiliate-Links</h2>
+        <p style="color: var(--hz-text-muted, #94a3b8); font-size: 0.9rem; margin: 0; max-width: 58rem;">
+          Erstelle benannte Short-URLs für Social-Media-Kampagnen. Jeder Link wird getrackt — du siehst wie viele Klicks, woher sie kommen (TikTok, Instagram, Google, Direct) und welcher Post bringt.
+        </p>
+      </div>
+      <button id="btn-new" style="background: linear-gradient(135deg, #f43f5e, #e11d48); color: white; border: none; padding: 0.65rem 1.2rem; border-radius: 8px; font-weight: 600; font-size: 0.9rem; cursor: pointer; white-space: nowrap;">
+        + Neuer Link
+      </button>
+    </div>
+  </section>
+
+  <!-- Create/Edit Form (hidden by default) -->
+  <div id="form-card" class="hz-card" style="display: none; margin-bottom: 1rem; border: 2px solid rgba(244,63,94,0.3);">
+    <h3 id="form-title" style="margin-top: 0;">Neuer Affiliate-Link</h3>
+    <form id="link-form" style="display: grid; gap: 0.85rem;">
+      <input type="hidden" id="f-editing-slug" value="" />
+
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem;">
+        <div>
+          <label style="display: block; font-size: 0.8rem; font-weight: 600; margin-bottom: 0.35rem; color: var(--hz-text-muted);">Name *</label>
+          <input id="f-name" required placeholder="z.B. TikTok Bio April 2026" style="width: 100%; padding: 0.55rem 0.75rem; border-radius: 6px; background: var(--hz-bg, #0f0f14); border: 1px solid var(--hz-border, #2a2a3a); color: var(--hz-text, #f8fafc); font-size: 0.9rem;" />
+        </div>
+        <div>
+          <label style="display: block; font-size: 0.8rem; font-weight: 600; margin-bottom: 0.35rem; color: var(--hz-text-muted);">Slug * <span style="opacity: 0.6; font-weight: 400;">(erscheint in /go/&lt;slug&gt;)</span></label>
+          <input id="f-slug" required pattern="[a-z0-9][a-z0-9-]{1,60}" placeholder="tiktok-apr-26" style="width: 100%; padding: 0.55rem 0.75rem; border-radius: 6px; background: var(--hz-bg, #0f0f14); border: 1px solid var(--hz-border, #2a2a3a); color: var(--hz-text, #f8fafc); font-size: 0.9rem; font-family: monospace;" />
+        </div>
+      </div>
+
+      <div>
+        <label style="display: block; font-size: 0.8rem; font-weight: 600; margin-bottom: 0.35rem; color: var(--hz-text-muted);">Target-URL * <span style="opacity: 0.6; font-weight: 400;">(die eigentliche Affiliate-URL — Amazon, Parship, etc.)</span></label>
+        <input id="f-target" required type="url" placeholder="https://www.amazon.de/..." style="width: 100%; padding: 0.55rem 0.75rem; border-radius: 6px; background: var(--hz-bg, #0f0f14); border: 1px solid var(--hz-border, #2a2a3a); color: var(--hz-text, #f8fafc); font-size: 0.9rem; font-family: monospace;" />
+      </div>
+
+      <div style="display: grid; grid-template-columns: 1fr 2fr; gap: 0.75rem;">
+        <div>
+          <label style="display: block; font-size: 0.8rem; font-weight: 600; margin-bottom: 0.35rem; color: var(--hz-text-muted);">Kampagne <span style="opacity: 0.6; font-weight: 400;">(optional)</span></label>
+          <input id="f-campaign" placeholder="TikTok-Q2" style="width: 100%; padding: 0.55rem 0.75rem; border-radius: 6px; background: var(--hz-bg, #0f0f14); border: 1px solid var(--hz-border, #2a2a3a); color: var(--hz-text, #f8fafc); font-size: 0.9rem;" />
+        </div>
+        <div>
+          <label style="display: block; font-size: 0.8rem; font-weight: 600; margin-bottom: 0.35rem; color: var(--hz-text-muted);">Notizen <span style="opacity: 0.6; font-weight: 400;">(nur für dich, nicht öffentlich)</span></label>
+          <input id="f-notes" placeholder="z.B. Link in Bio nach TikTok-Video X" style="width: 100%; padding: 0.55rem 0.75rem; border-radius: 6px; background: var(--hz-bg, #0f0f14); border: 1px solid var(--hz-border, #2a2a3a); color: var(--hz-text, #f8fafc); font-size: 0.9rem;" />
+        </div>
+      </div>
+
+      <label style="display: flex; align-items: center; gap: 0.5rem; font-size: 0.9rem;">
+        <input type="checkbox" id="f-active" checked />
+        <span>Aktiv (Klicks gehen durch zum Ziel)</span>
+      </label>
+
+      <div style="display: flex; gap: 0.5rem; justify-content: flex-end; margin-top: 0.25rem;">
+        <button type="button" id="btn-cancel" style="background: transparent; color: var(--hz-text-muted); border: 1px solid var(--hz-border, #2a2a3a); padding: 0.55rem 1.1rem; border-radius: 6px; cursor: pointer; font-size: 0.9rem;">Abbrechen</button>
+        <button type="submit" id="btn-save" style="background: linear-gradient(135deg, #f43f5e, #e11d48); color: white; border: none; padding: 0.55rem 1.3rem; border-radius: 6px; font-weight: 600; cursor: pointer; font-size: 0.9rem;">Speichern</button>
+      </div>
+
+      <div id="form-error" style="display: none; color: #fca5a5; font-size: 0.85rem; padding: 0.5rem 0.75rem; background: rgba(239,68,68,0.08); border: 1px solid rgba(239,68,68,0.2); border-radius: 6px;"></div>
+    </form>
+  </div>
+
+  <!-- KPI-Summary -->
+  <section class="hz-kpi-grid" style="margin-bottom: 1rem;">
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Aktive Links</div>
+      <div class="hz-kpi-value" id="kpi-active">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Klicks gesamt</div>
+      <div class="hz-kpi-value" id="kpi-total">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Klicks · 7 Tage</div>
+      <div class="hz-kpi-value" id="kpi-7d">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Top-Referrer (30d)</div>
+      <div class="hz-kpi-value" id="kpi-topref" style="font-size: 1.1rem;">—</div>
+    </div>
+  </section>
+
+  <!-- Link-Liste -->
+  <div id="links-list" style="display: flex; flex-direction: column; gap: 0.75rem;">
+    <div class="hz-card" style="text-align: center; color: var(--hz-text-muted); padding: 3rem 1rem;">Lade Links…</div>
+  </div>
+
+  <!-- Empty-State -->
+  <div id="empty-state" class="hz-card" style="display: none; text-align: center; padding: 3rem 1rem;">
+    <div style="font-size: 2.5rem; margin-bottom: 0.5rem;">🔗</div>
+    <h3 style="margin: 0 0 0.5rem 0;">Noch keine Affiliate-Links</h3>
+    <p style="color: var(--hz-text-muted); margin: 0 0 1.5rem 0;">Erstelle deinen ersten Link und tracke woher dein Traffic kommt.</p>
+    <button onclick="document.getElementById('btn-new').click()" style="background: linear-gradient(135deg, #f43f5e, #e11d48); color: white; border: none; padding: 0.65rem 1.3rem; border-radius: 8px; font-weight: 600; cursor: pointer;">+ Ersten Link anlegen</button>
+  </div>
+
+  <script is:inline>
+    (function() {
+      const SITE_ORIGIN = window.location.origin;
+
+      const elBtnNew = document.getElementById('btn-new');
+      const elBtnCancel = document.getElementById('btn-cancel');
+      const elFormCard = document.getElementById('form-card');
+      const elFormTitle = document.getElementById('form-title');
+      const elForm = document.getElementById('link-form');
+      const elFormError = document.getElementById('form-error');
+      const elList = document.getElementById('links-list');
+      const elEmpty = document.getElementById('empty-state');
+      const elEditing = document.getElementById('f-editing-slug');
+
+      function fmtNum(n) { return (n || 0).toLocaleString('de-DE'); }
+      function esc(s) { return (s || '').replace(/[<>"'&]/g, c => ({ '<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;','&':'&amp;' }[c])); }
+
+      // Slug-Auto-Gen aus Name
+      function slugify(name) {
+        return (name || '').toLowerCase()
+          .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')
+          .replace(/[^a-z0-9]+/g, '-')
+          .replace(/^-+|-+$/g, '')
+          .slice(0, 60);
+      }
+
+      document.getElementById('f-name').addEventListener('input', (e) => {
+        const slugField = document.getElementById('f-slug');
+        // Nur auto-generieren wenn Slug noch nicht manuell getippt wurde und nicht im Edit-Modus
+        if (!elEditing.value && !slugField.dataset.touched) {
+          slugField.value = slugify(e.target.value);
+        }
+      });
+      document.getElementById('f-slug').addEventListener('input', (e) => {
+        e.target.dataset.touched = '1';
+      });
+
+      function showForm(editData) {
+        elFormError.style.display = 'none';
+        elFormCard.style.display = 'block';
+        if (editData) {
+          elFormTitle.textContent = 'Link bearbeiten: ' + editData.name;
+          elEditing.value = editData.slug;
+          document.getElementById('f-name').value = editData.name || '';
+          document.getElementById('f-slug').value = editData.slug || '';
+          document.getElementById('f-slug').disabled = true;
+          document.getElementById('f-slug').dataset.touched = '1';
+          document.getElementById('f-target').value = editData.targetUrl || '';
+          document.getElementById('f-campaign').value = editData.campaign || '';
+          document.getElementById('f-notes').value = editData.notes || '';
+          document.getElementById('f-active').checked = !!editData.active;
+        } else {
+          elFormTitle.textContent = 'Neuer Affiliate-Link';
+          elEditing.value = '';
+          elForm.reset();
+          document.getElementById('f-slug').disabled = false;
+          delete document.getElementById('f-slug').dataset.touched;
+          document.getElementById('f-active').checked = true;
+        }
+        elFormCard.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+
+      function hideForm() {
+        elFormCard.style.display = 'none';
+        elForm.reset();
+        elEditing.value = '';
+        document.getElementById('f-slug').disabled = false;
+      }
+
+      elBtnNew.addEventListener('click', () => showForm(null));
+      elBtnCancel.addEventListener('click', hideForm);
+
+      elForm.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        elFormError.style.display = 'none';
+
+        const isEdit = !!elEditing.value;
+        const payload = {
+          name: document.getElementById('f-name').value.trim(),
+          targetUrl: document.getElementById('f-target').value.trim(),
+          campaign: document.getElementById('f-campaign').value.trim() || null,
+          notes: document.getElementById('f-notes').value.trim() || null,
+          active: document.getElementById('f-active').checked,
+        };
+        if (!isEdit) {
+          payload.slug = document.getElementById('f-slug').value.trim();
+        }
+
+        const url = isEdit
+          ? `/api/herzraum/affiliate-links/${elEditing.value}`
+          : '/api/herzraum/affiliate-links';
+        const method = isEdit ? 'PATCH' : 'POST';
+
+        try {
+          const res = await fetch(url, {
+            method,
+            headers: { 'content-type': 'application/json' },
+            body: JSON.stringify(payload),
+          });
+          const data = await res.json().catch(() => ({}));
+          if (!res.ok || !data.ok) {
+            const msg = data.error === 'slug-exists'
+              ? 'Dieser Slug existiert bereits. Wähle einen anderen.'
+              : data.error === 'invalid-input'
+              ? 'Eingabe ungültig: ' + (data.issues?.[0]?.message || 'Bitte Felder prüfen')
+              : (data.error || 'Fehler beim Speichern');
+            throw new Error(msg);
+          }
+          hideForm();
+          await load();
+        } catch (err) {
+          elFormError.textContent = err.message || String(err);
+          elFormError.style.display = 'block';
+        }
+      });
+
+      async function deleteLink(slug, name) {
+        if (!confirm(`Link "${name}" wirklich löschen?\n\n(Clicks bleiben in der Statistik erhalten, aber der Link funktioniert nicht mehr.)`)) return;
+        try {
+          const res = await fetch(`/api/herzraum/affiliate-links/${slug}`, { method: 'DELETE' });
+          const data = await res.json().catch(() => ({}));
+          if (!res.ok || !data.ok) throw new Error(data.error || 'Löschen fehlgeschlagen');
+          await load();
+        } catch (err) {
+          alert('Fehler: ' + err.message);
+        }
+      }
+
+      async function copyShortUrl(slug, buttonEl) {
+        const fullUrl = SITE_ORIGIN + '/go/' + slug;
+        try {
+          await navigator.clipboard.writeText(fullUrl);
+          const orig = buttonEl.textContent;
+          buttonEl.textContent = '✓ Kopiert!';
+          buttonEl.style.background = 'rgba(34,197,94,0.2)';
+          buttonEl.style.color = '#22c55e';
+          setTimeout(() => {
+            buttonEl.textContent = orig;
+            buttonEl.style.background = '';
+            buttonEl.style.color = '';
+          }, 1800);
+        } catch {
+          alert(fullUrl);
+        }
+      }
+
+      function renderLink(link) {
+        const short = SITE_ORIGIN + link.shortUrl;
+        const clicks = link.clicks || { total: 0, last7d: 0, topRef: null, topRefCount: 0 };
+        const inactiveStyle = link.active ? '' : 'opacity: 0.5;';
+        const targetDomain = (() => {
+          try { return new URL(link.targetUrl).hostname.replace(/^www\./, ''); } catch { return link.targetUrl; }
+        })();
+
+        return `
+          <div class="hz-card" style="${inactiveStyle} padding: 1.1rem 1.25rem;">
+            <div style="display: grid; grid-template-columns: 1fr auto; gap: 1rem; align-items: start; margin-bottom: 0.85rem;">
+              <div style="min-width: 0;">
+                <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.35rem; flex-wrap: wrap;">
+                  <strong style="font-size: 1.05rem; color: var(--hz-text, #f8fafc);">${esc(link.name)}</strong>
+                  ${link.campaign ? `<span style="font-size: 0.7rem; background: rgba(244,63,94,0.15); color: #fca5a5; padding: 0.15rem 0.5rem; border-radius: 4px; font-weight: 600;">${esc(link.campaign)}</span>` : ''}
+                  ${!link.active ? `<span style="font-size: 0.7rem; background: rgba(156,163,175,0.15); color: #9ca3af; padding: 0.15rem 0.5rem; border-radius: 4px; font-weight: 600;">INAKTIV</span>` : ''}
+                </div>
+                <div style="font-size: 0.8rem; color: var(--hz-text-muted, #94a3b8); margin-bottom: 0.15rem;">
+                  → <span style="font-family: monospace;">${esc(targetDomain)}</span>
+                </div>
+                ${link.notes ? `<div style="font-size: 0.78rem; color: var(--hz-text-muted, #94a3b8); font-style: italic; margin-top: 0.35rem;">📝 ${esc(link.notes)}</div>` : ''}
+              </div>
+
+              <div style="text-align: right; min-width: 110px;">
+                <div style="font-size: 1.6rem; font-weight: 700; line-height: 1; color: var(--hz-text, #f8fafc); font-variant-numeric: tabular-nums;">${fmtNum(clicks.total)}</div>
+                <div style="font-size: 0.7rem; color: var(--hz-text-muted, #94a3b8); margin-top: 0.15rem;">Klicks gesamt</div>
+                <div style="font-size: 0.75rem; color: #22c55e; margin-top: 0.35rem; font-weight: 600;">+${fmtNum(clicks.last7d)} · 7T</div>
+              </div>
+            </div>
+
+            <div style="display: grid; grid-template-columns: 1fr auto; gap: 0.5rem; align-items: center; padding: 0.55rem 0.75rem; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; margin-bottom: 0.75rem;">
+              <code style="font-size: 0.82rem; color: #fbbf24; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-family: monospace;">${esc(short)}</code>
+              <button class="btn-copy" data-slug="${esc(link.slug)}" style="background: rgba(255,255,255,0.08); color: var(--hz-text, #f8fafc); border: 1px solid rgba(255,255,255,0.12); padding: 0.3rem 0.75rem; border-radius: 5px; font-size: 0.75rem; font-weight: 600; cursor: pointer; white-space: nowrap;">📋 Kopieren</button>
+            </div>
+
+            <div style="display: flex; align-items: center; justify-content: space-between; gap: 0.75rem; flex-wrap: wrap;">
+              <div style="font-size: 0.8rem; color: var(--hz-text-muted, #94a3b8);">
+                ${clicks.topRef
+                  ? `<span style="opacity: 0.7;">Top-Quelle:</span> <strong style="color: var(--hz-text, #f8fafc);">${esc(clicks.topRef)}</strong> (${fmtNum(clicks.topRefCount)} Klicks)`
+                  : '<span style="opacity: 0.6;">Noch keine Klicks empfangen</span>'}
+              </div>
+              <div style="display: flex; gap: 0.4rem;">
+                <a href="${esc(link.targetUrl)}" target="_blank" rel="noopener" style="background: transparent; color: var(--hz-text-muted, #94a3b8); border: 1px solid var(--hz-border, #2a2a3a); padding: 0.3rem 0.7rem; border-radius: 5px; font-size: 0.75rem; cursor: pointer; text-decoration: none;">Ziel öffnen ↗</a>
+                <button class="btn-edit" data-slug="${esc(link.slug)}" style="background: transparent; color: var(--hz-text-muted, #94a3b8); border: 1px solid var(--hz-border, #2a2a3a); padding: 0.3rem 0.7rem; border-radius: 5px; font-size: 0.75rem; cursor: pointer;">Bearbeiten</button>
+                <button class="btn-delete" data-slug="${esc(link.slug)}" data-name="${esc(link.name)}" style="background: transparent; color: #fca5a5; border: 1px solid rgba(239,68,68,0.3); padding: 0.3rem 0.7rem; border-radius: 5px; font-size: 0.75rem; cursor: pointer;">Löschen</button>
+              </div>
+            </div>
+          </div>
+        `;
+      }
+
+      let cachedLinks = [];
+
+      async function load() {
+        try {
+          const res = await fetch('/api/herzraum/affiliate-links');
+          const data = await res.json();
+          if (!data.ok) throw new Error(data.error || 'Fehler');
+          cachedLinks = data.links || [];
+          render();
+        } catch (err) {
+          elList.innerHTML = `<div class="hz-card" style="color: #fca5a5;">Fehler: ${esc(err.message || String(err))}</div>`;
+        }
+      }
+
+      function render() {
+        // KPIs
+        const active = cachedLinks.filter(l => l.active).length;
+        const total = cachedLinks.reduce((s, l) => s + (l.clicks?.total || 0), 0);
+        const last7d = cachedLinks.reduce((s, l) => s + (l.clicks?.last7d || 0), 0);
+
+        // Top-Referrer aggregation
+        const refAggr = new Map();
+        for (const l of cachedLinks) {
+          if (l.clicks?.topRef) {
+            refAggr.set(l.clicks.topRef, (refAggr.get(l.clicks.topRef) || 0) + (l.clicks.topRefCount || 0));
+          }
+        }
+        const topRef = [...refAggr.entries()].sort((a,b) => b[1] - a[1])[0];
+
+        document.getElementById('kpi-active').textContent = fmtNum(active);
+        document.getElementById('kpi-total').textContent = fmtNum(total);
+        document.getElementById('kpi-7d').textContent = fmtNum(last7d);
+        document.getElementById('kpi-topref').textContent = topRef ? `${topRef[0]} (${fmtNum(topRef[1])})` : '—';
+
+        // Liste
+        if (cachedLinks.length === 0) {
+          elList.innerHTML = '';
+          elEmpty.style.display = 'block';
+        } else {
+          elEmpty.style.display = 'none';
+          elList.innerHTML = cachedLinks.map(renderLink).join('');
+        }
+      }
+
+      // Event-Delegation für dynamic Buttons
+      elList.addEventListener('click', (e) => {
+        const t = e.target;
+        const copyBtn = t.closest?.('.btn-copy');
+        if (copyBtn) { copyShortUrl(copyBtn.dataset.slug, copyBtn); return; }
+        const editBtn = t.closest?.('.btn-edit');
+        if (editBtn) {
+          const link = cachedLinks.find(l => l.slug === editBtn.dataset.slug);
+          if (link) showForm(link);
+          return;
+        }
+        const delBtn = t.closest?.('.btn-delete');
+        if (delBtn) { deleteLink(delBtn.dataset.slug, delBtn.dataset.name); return; }
+      });
+
+      load();
+    })();
+  </script>
+</HerzraumLayout>

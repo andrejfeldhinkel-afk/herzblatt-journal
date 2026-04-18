@@ -341,3 +341,38 @@ export const pushBroadcasts = pgTable(
     sentAtIdx: index('push_broadcasts_sent_at_idx').on(t.sentAt),
   }),
 );
+
+/**
+ * AffiliateLinks — Benannte Short-URLs mit Traffic-Tracking.
+ *
+ * Zweck: User erstellt Short-URLs wie /go/tiktok-apr-26 und postet sie
+ * in Social-Media-Bios. Jeder Klick wird in der clicks-Tabelle geloggt
+ * (target='link-<slug>', source=Referrer-Host). So sieht der Admin
+ * pro Link wie viele Clicks gesamt, letzte 7d, und woher sie kamen.
+ *
+ * slug ist unique, wird auch im track-click.ts dynamisch geprüft
+ * (analog isProductTarget für products).
+ *
+ * targetUrl ist die finale Affiliate-URL mit allen Tracking-Params
+ * (z.B. Amazon-tag, Parship-sid). Der Link-Shortener hängt keine
+ * eigenen UTM-Params an — das ist optional für später.
+ */
+export const affiliateLinks = pgTable(
+  'affiliate_links',
+  {
+    id: serial('id').primaryKey(),
+    slug: text('slug').notNull().unique(),
+    name: text('name').notNull(),
+    targetUrl: text('target_url').notNull(),
+    campaign: text('campaign'), // optionaler Kampagnen-Tag (z.B. "TikTok-Q2")
+    notes: text('notes'),
+    active: boolean('active').notNull().default(true),
+    createdAt: timestamp('created_at', { withTimezone: true }).defaultNow().notNull(),
+    updatedAt: timestamp('updated_at', { withTimezone: true }).defaultNow().notNull(),
+  },
+  (t) => ({
+    slugIdx: index('affiliate_links_slug_idx').on(t.slug),
+    activeIdx: index('affiliate_links_active_idx').on(t.active),
+    campaignIdx: index('affiliate_links_campaign_idx').on(t.campaign),
+  }),
+);
