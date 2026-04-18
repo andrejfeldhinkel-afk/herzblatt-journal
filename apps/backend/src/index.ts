@@ -14,6 +14,7 @@ import newsletterRoute from './routes/newsletter.js';
 import registerRoute from './routes/register.js';
 import readersRoute from './routes/readers.js';
 import digistoreIpnRoute from './routes/digistore-ipn.js';
+import unsubscribeRoute from './routes/unsubscribe.js';
 
 // Runtime-Migrations
 import { runStartupMigrations } from './db/migrate.js';
@@ -63,6 +64,7 @@ app.route('/newsletter', newsletterRoute);
 app.route('/register', registerRoute);
 app.route('/readers', readersRoute);
 app.route('/digistore-ipn', digistoreIpnRoute);
+app.route('/unsubscribe', unsubscribeRoute);
 
 // Auth Routes (eigene security)
 app.route('/auth', authRoute);
