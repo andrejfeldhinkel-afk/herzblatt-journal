@@ -5,6 +5,7 @@ import Footer from '../components/Footer.astro'
 import PromoBanner from '../components/PromoBanner.astro'
 import CookieBanner from '../components/CookieBanner.astro'
 import DatingQuiz from '../components/DatingQuiz.astro'
+import PushPrompt from '../components/PushPrompt.astro'
 
 interface Props {
   title: string;
@@ -284,7 +285,14 @@ const faqSchema = faq.length > 0 ? {
 
   <!-- Theme color & PWA icons -->
   <meta name="theme-color" content="#e11d48">
+  <meta name="application-name" content="Herzblatt Journal">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Herzblatt">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="format-detection" content="telephone=no">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="mask-icon" href="/favicon.svg" color="#e11d48">
   <link rel="manifest" href="/manifest.json">
 
   <!-- Theme script (runs before render to prevent flash) -->
@@ -328,6 +336,18 @@ const faqSchema = faq.length > 0 ? {
   <Footer />
   <CookieBanner />
   <DatingQuiz />
+  <PushPrompt />
+
+  <!-- Service Worker Registration -->
+  <script is:inline>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('/sw.js', { scope: '/' }).catch(function (err) {
+          console.warn('[sw] registration failed', err);
+        });
+      });
+    }
+  </script>
 
   <!-- Sticky CTA Bar (appears on scroll) -->
   <div id="sticky-cta" class="fixed bottom-0 left-0 right-0 z-[90] translate-y-full transition-transform duration-300" style="background: var(--bg-card); border-top: 1px solid var(--border); box-shadow: 0 -4px 20px rgba(0,0,0,0.08);">
