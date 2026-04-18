@@ -1,3 +1,8 @@
+// Sentry MUSS ganz oben initialisiert werden (vor allen anderen Imports),
+// damit Instrumentierung greift. Import-Nebeneffekt ruft initSentry() auf.
+import './lib/sentry.js';
+import { captureError, flushSentry } from './lib/sentry.js';
+
 import { serve } from '@hono/node-server';
 import { Hono } from 'hono';
 import { cors } from 'hono/cors';
@@ -22,6 +27,7 @@ import herzraumPasswordVerifyRoute from './routes/herzraum/password-verify.js';
 
 // Admin (bearer-token)
 import adminSubscribersCsvRoute from './routes/admin/subscribers-csv.js';
+import adminCronCleanupRoute from './routes/admin/cron-cleanup.js';
 
 // Middleware
 import { requireSession, requireAdminToken } from './lib/auth-middleware.js';
@@ -62,6 +68,21 @@ app.route('/herzraum/password/verify', herzraumPasswordVerifyRoute);
 // Admin — bearer token
 app.use('/admin/*', requireAdminToken);
 app.route('/admin/subscribers.csv', adminSubscribersCsvRoute);
+app.route('/admin/cron/cleanup', adminCronCleanupRoute);
+
+// Globaler Error-Handler → Sentry + JSON-Response
+app.onError(async (err, c) => {
+  console.error('[hono] unhandled error:', err);
+  captureError(err, {
+    path: new URL(c.req.url).pathname,
+    method: c.req.method,
+  });
+  await flushSentry(1500);
+  return c.json(
+    { error: 'Internal Server Error', message: err.message || 'unknown' },
+    500,
+  );
+});
 
 const port = Number(process.env.PORT) || 3001;
 const host = process.env.HOST || '0.0.0.0';
@@ -73,3 +94,12 @@ serve({
 }, (info) => {
   console.log(`[backend] listening on http://${info.address}:${info.port}`);
 });
+
+// Graceful shutdown: Sentry-Events flushen bevor Prozess endet
+async function gracefulShutdown(signal: string) {
+  console.log(`[backend] ${signal} received — flushing Sentry & exiting`);
+  await flushSentry(3000);
+  process.exit(0);
+}
+process.on('SIGTERM', () => void gracefulShutdown('SIGTERM'));
+process.on('SIGINT', () => void gracefulShutdown('SIGINT'));

@@ -1,4 +1,5 @@
 import { defineMiddleware } from 'astro:middleware';
+import { captureError } from './lib/sentry';
 
 // ─── Rate Limiter (in-memory, per IP) ───────────────────────────
 const rateLimitMap = new Map<string, { count: number; resetAt: number }>();
@@ -168,7 +169,18 @@ export const onRequest = defineMiddleware(async (context, next) => {
     });
   }
 
-  const response = await next();
+  let response: Response;
+  try {
+    response = await next();
+  } catch (err) {
+    // Page-rendering error → an Sentry melden + 500 zurückgeben
+    console.error('[middleware] next() error:', err);
+    captureError(err, { path, method: request.method });
+    return new Response(
+      '<!DOCTYPE html><html><head><title>500</title></head><body><h1>500 — Serverfehler</h1><p>Wir wurden benachrichtigt. Bitte Seite neu laden.</p></body></html>',
+      { status: 500, headers: { 'Content-Type': 'text/html; charset=utf-8' } },
+    );
+  }
 
   // If a /tags/* page returns 404, redirect to /tags/ instead
   if (response.status === 404 && path.startsWith('/tags/') && path !== '/tags') {
