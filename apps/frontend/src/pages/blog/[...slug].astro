@@ -423,9 +423,10 @@ const articleAuthor = {
                 <div class="text-3xl mb-3">💌</div>
                 <h3 class="text-lg font-extrabold text-white mb-1.5" style="font-family: var(--font-serif); letter-spacing: -0.02em;">Date-Vorschläge direkt<br/>in dein Postfach</h3>
                 <p class="text-xs mb-4" style="color: rgba(255,255,255,0.75);">Kreative Date-Ideen, neue Hotspots & Inspiration — kostenlos.</p>
-                <form id="newsletter-form" class="space-y-2.5">
+                <form id="blog-newsletter-form" class="space-y-2.5">
                   <input
                     type="email"
+                    name="email"
                     placeholder="Deine E-Mail-Adresse"
                     required
                     class="w-full px-4 py-2.5 rounded-xl text-sm outline-none transition-all focus:ring-2 focus:ring-white/30"
@@ -433,13 +434,14 @@ const articleAuthor = {
                   />
                   <button
                     type="submit"
+                    id="blog-nl-btn"
                     class="w-full py-2.5 rounded-xl text-sm font-bold transition-all hover:shadow-lg hover:-translate-y-0.5 cursor-pointer"
                     style="background: white; color: var(--color-primary-700); border: none;"
                   >
                     Kostenlos anmelden
                   </button>
                 </form>
-                <p class="text-[10px] mt-3" style="color: rgba(255,255,255,0.45);">Kein Spam · Jederzeit abmeldbar</p>
+                <p id="blog-nl-msg" class="text-[10px] mt-3" style="color: rgba(255,255,255,0.7); min-height: 1em;">Kein Spam · Jederzeit abmeldbar</p>
               </div>
             </div>
           </div>
@@ -508,3 +510,40 @@ const articleAuthor = {
     transform: translateY(-1px);
   }
 </style>
+
+<script is:inline>
+  (function () {
+    const form = document.getElementById('blog-newsletter-form');
+    if (!form) return;
+    const btn = document.getElementById('blog-nl-btn');
+    const msg = document.getElementById('blog-nl-msg');
+    const input = form.querySelector('input[name="email"]');
+    form.addEventListener('submit', async function (e) {
+      e.preventDefault();
+      const email = input ? input.value.trim() : '';
+      if (!email) return;
+      const orig = btn ? btn.textContent : '';
+      if (btn) { btn.disabled = true; btn.textContent = '…'; }
+      if (msg) msg.textContent = '';
+      try {
+        const res = await fetch('/api/newsletter', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email: email, source: 'blog-cta' }),
+        });
+        const data = await res.json();
+        if (data && data.success) {
+          form.reset();
+          if (btn) { btn.textContent = 'Angemeldet ✓'; btn.style.background = '#16a34a'; btn.style.color = 'white'; }
+          if (msg) { msg.textContent = data.message || 'Willkommen!'; msg.style.color = 'rgba(255,255,255,0.95)'; }
+        } else {
+          if (btn) { btn.disabled = false; btn.textContent = orig || 'Kostenlos anmelden'; }
+          if (msg) msg.textContent = (data && data.message) || 'Bitte erneut versuchen.';
+        }
+      } catch (err) {
+        if (btn) { btn.disabled = false; btn.textContent = orig || 'Kostenlos anmelden'; }
+        if (msg) msg.textContent = 'Verbindungsfehler.';
+      }
+    });
+  })();
+</script>

@@ -176,23 +176,31 @@ const authorsJson = JSON.stringify(authorsArr);
     $('f-date').value = todayISO();
 
     // Template-Buttons
+    function selectTemplate(id) {
+      document.querySelectorAll('.tpl-btn').forEach((b) => b.classList.remove('active'));
+      const btn = document.querySelector('.tpl-btn[data-tpl="' + id + '"]');
+      if (btn) btn.classList.add('active');
+      currentTemplate = TEMPLATES.find((t) => t.id === id);
+      if (!currentTemplate) return;
+      placeholderValues = {};
+      const fm = currentTemplate.defaultFrontmatter || {};
+      if (fm.author) $('f-author').value = fm.author;
+      $('h-tags-suggest').textContent = 'Vorschläge: ' + (currentTemplate.recommendedTags || []).join(', ');
+      if (fm.tags && (!$('f-tags').value.trim())) $('f-tags').value = fm.tags.join(', ');
+      renderPlaceholders();
+      $('form-section').style.display = 'grid';
+      $('form-section').scrollIntoView({ behavior: 'smooth', block: 'start' });
+      updatePreview();
+    }
     document.querySelectorAll('.tpl-btn').forEach((btn) => {
-      btn.addEventListener('click', () => {
-        document.querySelectorAll('.tpl-btn').forEach((b) => b.classList.remove('active'));
-        btn.classList.add('active');
-        const id = btn.dataset.tpl;
-        currentTemplate = TEMPLATES.find((t) => t.id === id);
-        placeholderValues = {};
-        // Defaults aus Template
-        const fm = currentTemplate.defaultFrontmatter || {};
-        if (fm.author) $('f-author').value = fm.author;
-        $('h-tags-suggest').textContent = 'Vorschläge: ' + (currentTemplate.recommendedTags || []).join(', ');
-        if (fm.tags && (!$('f-tags').value.trim())) $('f-tags').value = fm.tags.join(', ');
-        renderPlaceholders();
-        $('form-section').style.display = 'grid';
-        updatePreview();
-      });
+      btn.addEventListener('click', () => selectTemplate(btn.dataset.tpl));
     });
+    // Pre-select via ?template=xxx (zB von /herzraum/templates)
+    const urlParams = new URLSearchParams(window.location.search);
+    const preTpl = urlParams.get('template');
+    if (preTpl && TEMPLATES.find((t) => t.id === preTpl)) {
+      selectTemplate(preTpl);
+    }
 
     // Placeholder-Felder rendern
     function renderPlaceholders() {

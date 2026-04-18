@@ -1,0 +1,94 @@
+---
+export const prerender = false;
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+import { articleTemplates } from '../../data/article-templates';
+---
+<HerzraumLayout title="Templates" active="templates">
+  <div class="hz-card" style="padding: 1.5rem;">
+    <div class="hz-row" style="margin-bottom: 1rem;">
+      <h2 style="margin: 0;">📝 Artikel-Templates</h2>
+      <div class="hz-spacer"></div>
+      <a href="/herzraum/artikel/neu" class="hz-btn primary">+ Neuer Artikel</a>
+    </div>
+    <p style="color: var(--hz-text-muted); font-size: 0.85rem;">
+      {articleTemplates.length} Templates verfügbar. Klick auf <strong>"Nutzen"</strong> → direkt zum Generator
+      mit vorausgefülltem Template. Die Template-Definitionen leben in
+      <code>apps/frontend/src/data/article-templates.ts</code>.
+    </p>
+  </div>
+
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 1rem; margin-top: 1rem;">
+    {articleTemplates.map((tpl) => (
+      <div class="hz-card" style="padding: 1.25rem;">
+        <div class="hz-row">
+          <h3 style="margin: 0 0 0.25rem 0;">{tpl.name}</h3>
+          <div class="hz-spacer"></div>
+          <span class="hz-badge muted">{tpl.id}</span>
+        </div>
+        <p style="color: var(--hz-text-muted); font-size: 0.85rem; margin-top: 0.25rem;">{tpl.description}</p>
+
+        <div style="margin-top: 0.75rem; display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem; font-size: 0.75rem;">
+          <div style="padding: 0.5rem; background: var(--hz-bg); border-radius: 0.375rem;">
+            <div style="color: var(--hz-text-muted); text-transform: uppercase; letter-spacing: 0.05em; font-size: 0.65rem;">Min-Wörter</div>
+            <div style="font-weight: 600; font-size: 1rem; margin-top: 0.15rem;">{tpl.minWords.toLocaleString('de-DE')}</div>
+          </div>
+          <div style="padding: 0.5rem; background: var(--hz-bg); border-radius: 0.375rem;">
+            <div style="color: var(--hz-text-muted); text-transform: uppercase; letter-spacing: 0.05em; font-size: 0.65rem;">Form-Felder</div>
+            <div style="font-weight: 600; font-size: 1rem; margin-top: 0.15rem;">{tpl.placeholders.length}</div>
+          </div>
+        </div>
+
+        <details style="margin-top: 0.75rem;">
+          <summary style="cursor: pointer; font-size: 0.8rem; color: var(--hz-primary); user-select: none;">
+            Felder ansehen ({tpl.placeholders.length})
+          </summary>
+          <ul style="margin-top: 0.5rem; padding-left: 1rem; font-size: 0.78rem; color: var(--hz-text-muted); line-height: 1.6;">
+            {tpl.placeholders.map((p) => (
+              <li>
+                <strong style="color: var(--hz-text);">{p.label}</strong>
+                {p.required && <span style="color: var(--hz-danger); font-size: 0.7rem; margin-left: 0.25rem;">*</span>}
+                <span style="font-size: 0.7rem; margin-left: 0.25rem;">({p.type})</span>
+                {p.hint && <div style="font-size: 0.7rem; opacity: 0.8; margin-left: 0.5rem;">→ {p.hint.slice(0, 80)}{p.hint.length > 80 ? '…' : ''}</div>}
+              </li>
+            ))}
+          </ul>
+        </details>
+
+        <details style="margin-top: 0.5rem;">
+          <summary style="cursor: pointer; font-size: 0.8rem; color: var(--hz-primary); user-select: none;">
+            Empfohlene Tags
+          </summary>
+          <div style="margin-top: 0.5rem; display: flex; flex-wrap: wrap; gap: 0.25rem;">
+            {tpl.recommendedTags.map((t) => <span class="hz-badge muted" style="font-size: 0.72rem;">{t}</span>)}
+          </div>
+        </details>
+
+        <details style="margin-top: 0.5rem;">
+          <summary style="cursor: pointer; font-size: 0.8rem; color: var(--hz-primary); user-select: none;">
+            Markdown-Skelett
+          </summary>
+          <pre style="margin-top: 0.5rem; padding: 0.75rem; background: var(--hz-bg); border-radius: 0.375rem; font-size: 0.72rem; white-space: pre-wrap; line-height: 1.4; max-height: 280px; overflow-y: auto;">{tpl.markdownSkeleton}</pre>
+        </details>
+
+        <div style="margin-top: 1rem;">
+          <a href={`/herzraum/artikel/neu?template=${tpl.id}`} class="hz-btn primary" style="width: 100%; text-align: center; text-decoration: none; display: block;">
+            → Mit {tpl.name} schreiben
+          </a>
+        </div>
+      </div>
+    ))}
+  </div>
+
+  <div class="hz-card" style="padding: 1.5rem; margin-top: 1rem;">
+    <h3 style="margin: 0 0 0.75rem 0;">💡 Wie du neue Templates hinzufügst</h3>
+    <ol style="font-size: 0.85rem; color: var(--hz-text-muted); line-height: 1.7;">
+      <li>Öffne <code>apps/frontend/src/data/article-templates.ts</code> im Repo</li>
+      <li>Füge ein neues Objekt zum <code>articleTemplates[]</code>-Array hinzu (gleiche Struktur wie bestehende)</li>
+      <li>Commit + Push → Railway deployed automatisch in ~7 Min</li>
+      <li>Danach erscheint das Template hier und im Generator</li>
+    </ol>
+    <p style="font-size: 0.8rem; color: var(--hz-text-muted); margin-top: 0.75rem;">
+      (Später könnten wir eine Admin-UI für Template-CRUD bauen — aktuell macht's in Code mehr Sinn, weil Templates Code-Patterns sind.)
+    </p>
+  </div>
+</HerzraumLayout>
