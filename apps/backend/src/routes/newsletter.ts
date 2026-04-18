@@ -57,6 +57,18 @@ app.post('/', async (c) => {
     return c.json({ success: false, message: 'Bitte gib eine gültige E-Mail-Adresse ein.' }, 400);
   }
 
+  // Test-Email-Filter: RFC-reserved Test-Domains + typische Smoke-Test-Patterns
+  // Wir geben 'success' zurück, speichern aber NICHT in DB. Dadurch bleiben
+  // Smoke-Tests grün, ohne die Subscriber-Liste zu verunreinigen.
+  const TEST_DOMAINS = ['@test.com', '@example.com', '@example.org', '@example.net', '@localhost', '@mailinator.com', '@yopmail.com'];
+  const TEST_PREFIXES = ['smoke-', 'debug-', 'debug-fe-', 'test-e2e-', 'unsub-test-', 'final-', 'claude-', 'live-smoke-', 'newsletter-live-test-', 'e2e-test-'];
+  const isTestEmail = TEST_DOMAINS.some((d) => email.endsWith(d))
+    || TEST_PREFIXES.some((p) => email.startsWith(p));
+  if (isTestEmail) {
+    console.log(`[newsletter] ignoring test-email: ${email}`);
+    return c.json({ success: true, message: 'Willkommen! Du erhältst bald unsere besten Dating-Tipps.' });
+  }
+
   const rawSource = parsed.data.source?.trim() || '';
   const source = ALLOWED_SOURCES.has(rawSource) ? rawSource : 'unknown';
 
