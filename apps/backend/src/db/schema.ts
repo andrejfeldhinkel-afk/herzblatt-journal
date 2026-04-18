@@ -217,3 +217,57 @@ export const inboundEmails = pgTable(
     fromEmailIdx: index('inbound_emails_from_email_idx').on(t.fromEmail),
   }),
 );
+
+/**
+ * Products — Universeller Produkt-Katalog für alle Monetarisierungs-Säulen.
+ *
+ * type unterscheidet die 5 Umsatz-Typen aus MONETIZATION_PLAN.md:
+ *   - 'digital'      — eigene E-Books/Kurse (Digistore)
+ *   - 'affiliate'    — externe Produkte mit Provision (Amazon/Awin/Tradedoubler/Direct)
+ *   - 'service'      — 1:1/Paar-Coaching mit Zeit-Slots
+ *   - 'physical'     — Print-on-Demand-Bücher/Merch
+ *   - 'subscription' — Premium-Abos (Herzblatt+, VIP)
+ *
+ * source = das konkrete Netzwerk/die Quelle (frei-text, für Filter + interne Notiz).
+ *
+ * trackingTarget → wird als clicks.target eingetragen wenn User klickt.
+ *                  Format: 'product-<slug>'. So erlauben wir dynamisch neue
+ *                  Produkte ohne track-click.ts-Whitelist zu patchen.
+ *
+ * badges = JSON-Array mit Strings: ["Bestseller", "Empfehlung", "-30%"]
+ */
+export const products = pgTable(
+  'products',
+  {
+    id: serial('id').primaryKey(),
+    slug: text('slug').notNull().unique(),
+    name: text('name').notNull(),
+    shortDescription: text('short_description'),
+    longDescription: text('long_description'),
+    type: text('type').notNull(), // 'digital' | 'affiliate' | 'service' | 'physical' | 'subscription'
+    source: text('source').notNull().default('direct'), // 'digistore' | 'amazon' | 'awin' | 'direct' | 'tradedoubler' | 'coaching' | ...
+    category: text('category'), // 'dating-apps' | 'books' | 'coaching' | 'ebooks' | 'apparel' | ...
+    priceCents: bigint('price_cents', { mode: 'number' }),
+    currency: text('currency').notNull().default('EUR'),
+    imageUrl: text('image_url'),
+    imageAlt: text('image_alt'),
+    targetUrl: text('target_url').notNull(), // finale Affiliate-URL (pre-tagged mit Tracking-Params)
+    trackingTarget: text('tracking_target').notNull(), // clicks.target-Wert, z.B. 'product-gottman-card-deck'
+    ctaLabel: text('cta_label').notNull().default('Jetzt ansehen'),
+    badges: text('badges'), // JSON-Array-String
+    rating: text('rating'), // '4.5' als Text (kein float-Präzisionsstress)
+    commissionNote: text('commission_note'), // interne Notiz, z.B. 'Amazon 3%, Cookie 24h'
+    featured: boolean('featured').notNull().default(false),
+    active: boolean('active').notNull().default(true),
+    sortOrder: bigint('sort_order', { mode: 'number' }).notNull().default(100),
+    createdAt: timestamp('created_at', { withTimezone: true }).defaultNow().notNull(),
+    updatedAt: timestamp('updated_at', { withTimezone: true }).defaultNow().notNull(),
+  },
+  (t) => ({
+    slugIdx: index('products_slug_idx').on(t.slug),
+    typeActiveIdx: index('products_type_active_idx').on(t.type, t.active),
+    categoryIdx: index('products_category_idx').on(t.category),
+    featuredIdx: index('products_featured_idx').on(t.featured),
+    sortOrderIdx: index('products_sort_order_idx').on(t.sortOrder),
+  }),
+);

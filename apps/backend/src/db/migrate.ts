@@ -91,6 +91,40 @@ export async function runStartupMigrations(): Promise<void> {
       ON CONFLICT (id) DO NOTHING
     `);
 
+    // products — Universeller Produkt-Katalog (alle 5 Monetarisierungs-Säulen)
+    await db.execute(sql`
+      CREATE TABLE IF NOT EXISTS products (
+        id SERIAL PRIMARY KEY,
+        slug TEXT NOT NULL UNIQUE,
+        name TEXT NOT NULL,
+        short_description TEXT,
+        long_description TEXT,
+        type TEXT NOT NULL,
+        source TEXT NOT NULL DEFAULT 'direct',
+        category TEXT,
+        price_cents BIGINT,
+        currency TEXT NOT NULL DEFAULT 'EUR',
+        image_url TEXT,
+        image_alt TEXT,
+        target_url TEXT NOT NULL,
+        tracking_target TEXT NOT NULL,
+        cta_label TEXT NOT NULL DEFAULT 'Jetzt ansehen',
+        badges TEXT,
+        rating TEXT,
+        commission_note TEXT,
+        featured BOOLEAN NOT NULL DEFAULT FALSE,
+        active BOOLEAN NOT NULL DEFAULT TRUE,
+        sort_order BIGINT NOT NULL DEFAULT 100,
+        created_at TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW(),
+        updated_at TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW()
+      )
+    `);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS products_slug_idx ON products(slug)`);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS products_type_active_idx ON products(type, active)`);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS products_category_idx ON products(category)`);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS products_featured_idx ON products(featured)`);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS products_sort_order_idx ON products(sort_order)`);
+
     console.log(`[migrate] done in ${Date.now() - start}ms`);
   } catch (err) {
     console.error('[migrate] FAILED:', err);
