@@ -4,6 +4,7 @@ import { eq } from 'drizzle-orm';
 import { db, schema } from '../db/index.js';
 import { getClientIp, hashIp } from '../lib/crypto.js';
 import { allowRequest } from '../lib/rate-limit.js';
+import { addContactToList, sendWelcomeEmail, isSendGridEnabled } from '../lib/sendgrid.js';
 
 const app = new Hono();
 
@@ -79,6 +80,23 @@ app.post('/', async (c) => {
       ipHash: ipHashVal,
       userAgent: ua,
     });
+
+    // SendGrid fire-and-forget (non-blocking):
+    // Failure in SG soll NIE den User-flow blockieren. Response geht sofort raus.
+    if (isSendGridEnabled()) {
+      void (async () => {
+        try {
+          const [contactRes, welcomeRes] = await Promise.all([
+            addContactToList(email, { source }),
+            sendWelcomeEmail(email),
+          ]);
+          if (!contactRes.ok) console.error('[newsletter] SG addContact failed:', contactRes);
+          if (!welcomeRes.ok) console.error('[newsletter] SG sendWelcome failed:', welcomeRes);
+        } catch (err) {
+          console.error('[newsletter] SG unexpected error:', err);
+        }
+      })();
+    }
 
     return c.json({
       success: true,
