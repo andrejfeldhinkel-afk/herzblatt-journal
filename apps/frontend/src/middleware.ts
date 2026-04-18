@@ -89,7 +89,8 @@ const blockedGetPaths = new Set([
 // GET /auth/verify auf dem Backend-Service und forwarded den Cookie mit.
 // Der Cookie hat Domain=.herzblatt-journal.com, also wird er von der
 // herzblatt-journal.com-Page auch an das Backend mitgeschickt (Subdomain-scoped).
-const BACKEND_URL = (import.meta.env.BACKEND_URL || process.env.BACKEND_URL || 'http://localhost:3001').replace(/\/$/, '');
+const PROD_BACKEND = 'https://backend-production-c327.up.railway.app';
+const BACKEND_URL = (import.meta.env.BACKEND_URL || process.env.BACKEND_URL || PROD_BACKEND).replace(/\/$/, '');
 
 async function verifyHerzraumSession(cookieHeader: string | null): Promise<boolean> {
   if (!cookieHeader || !cookieHeader.includes('hz_session=')) return false;

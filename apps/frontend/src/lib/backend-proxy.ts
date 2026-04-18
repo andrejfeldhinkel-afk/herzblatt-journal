@@ -9,8 +9,12 @@
  * BACKEND_URL wird aus ENV gelesen (Fallback localhost für lokale Tests).
  */
 
+// Prod-Default: Railway-Backend-Domain. In Dev über BACKEND_URL=http://localhost:3001
+// überschreibbar. Sobald DNS api.herzblatt-journal.com propagiert ist, darf der User
+// BACKEND_URL=https://api.herzblatt-journal.com setzen (Railway-ENV).
+const PROD_BACKEND = 'https://backend-production-c327.up.railway.app';
 const BACKEND_URL =
-  (import.meta.env.BACKEND_URL || process.env.BACKEND_URL || 'http://localhost:3001')
+  (import.meta.env.BACKEND_URL || process.env.BACKEND_URL || PROD_BACKEND)
     .replace(/\/$/, '');
 
 /**
