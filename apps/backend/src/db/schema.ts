@@ -158,3 +158,26 @@ export const purchases = pgTable(
     providerOrderIdx: index('purchases_provider_order_idx').on(t.provider, t.providerOrderId),
   }),
 );
+
+/**
+ * Audit-Log — alle schreibenden Admin-Actions.
+ * 'actor' = aus Session abgeleitet (wir haben nur 1 Admin, daher
+ * entweder 'admin' oder 'system'). 'meta' kann JSON sein mit zusätzlichen
+ * Detail-Infos (z.B. slug, commit-sha, vorher/nachher-diff-summary).
+ */
+export const auditLog = pgTable(
+  'audit_log',
+  {
+    id: serial('id').primaryKey(),
+    ts: timestamp('ts', { withTimezone: true }).defaultNow().notNull(),
+    actor: text('actor').notNull().default('admin'),
+    action: text('action').notNull(), // 'article.create', 'article.update', 'author.update', 'gdpr.delete', etc.
+    target: text('target'),            // slug, email, or identifier
+    ipHash: text('ip_hash'),
+    meta: text('meta'),                // JSON-string (optional)
+  },
+  (t) => ({
+    tsIdx: index('audit_log_ts_idx').on(t.ts),
+    actionIdx: index('audit_log_action_idx').on(t.action),
+  }),
+);

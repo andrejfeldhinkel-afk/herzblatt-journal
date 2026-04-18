@@ -165,6 +165,32 @@ code=$(curl -sS -o /dev/null -w '%{http_code}' "$FRONTEND_URL/ebook" 2>/dev/null
 check "GET /ebook → 200" "^200$" "$code"
 
 # ═══════════════════════════════════════════════════════════════
+section "NEW ADMIN-PAGES (Phase 3-5 features)"
+# ═══════════════════════════════════════════════════════════════
+
+# Alle neuen /herzraum/* Seiten sollten 302 zum login geben wenn unauth
+for path in \
+  "/herzraum/artikel/neu" \
+  "/herzraum/bilder" \
+  "/herzraum/redirects" \
+  "/herzraum/autoren" \
+  "/herzraum/health" \
+  "/herzraum/audit"; do
+  code=$(curl -sS -o /dev/null -w '%{http_code}' "$FRONTEND_URL$path" 2>/dev/null || echo "000")
+  check "GET $path (unauth) → 302" "^302$" "$code"
+done
+
+# Neue API-Proxies → 401 (kein auth) anstatt 404 beweist existenz
+for api in \
+  "/api/herzraum/articles/check-slug?slug=xyz" \
+  "/api/herzraum/authors" \
+  "/api/herzraum/redirects" \
+  "/api/herzraum/audit-log"; do
+  code=$(curl -sS -o /dev/null -w '%{http_code}' "$FRONTEND_URL$api" 2>/dev/null || echo "000")
+  check "GET $api (unauth) → 401" "^401$" "$code"
+done
+
+# ═══════════════════════════════════════════════════════════════
 section "ZUSAMMENFASSUNG"
 # ═══════════════════════════════════════════════════════════════
 

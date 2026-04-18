@@ -1,0 +1,78 @@
+---
+export const prerender = false;
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+---
+<HerzraumLayout title="Redirects" active="redirects">
+  <div class="hz-card" style="padding: 1.5rem;">
+    <h2 style="margin: 0 0 0.5rem 0;">🔀 Redirects</h2>
+    <p style="color: var(--hz-text-muted); font-size: 0.85rem;">
+      Alle aktiven Redirects aus <code>astro.config.mjs</code> + <code>middleware.ts</code>. Read-only — Änderungen laufen über Pull-Requests.
+    </p>
+
+    <section class="hz-kpi-grid" style="margin-top: 1rem;">
+      <div class="hz-kpi">
+        <div class="hz-kpi-label">Total</div>
+        <div class="hz-kpi-value" data-kpi="r.total">—</div>
+      </div>
+      <div class="hz-kpi">
+        <div class="hz-kpi-label">astro.config.mjs</div>
+        <div class="hz-kpi-value" data-kpi="r.astro">—</div>
+      </div>
+      <div class="hz-kpi">
+        <div class="hz-kpi-label">middleware.ts</div>
+        <div class="hz-kpi-value" data-kpi="r.middleware">—</div>
+      </div>
+      <div class="hz-kpi">
+        <div class="hz-kpi-label">Status</div>
+        <div class="hz-kpi-value">301</div>
+      </div>
+    </section>
+
+    <div class="hz-row" style="margin: 1rem 0 0.5rem 0;">
+      <input type="search" id="search" placeholder="Filter…" style="flex: 1; padding: 0.5rem; background: var(--hz-bg); color: var(--hz-text); border: 1px solid var(--hz-border); border-radius: 0.375rem;">
+    </div>
+
+    <div style="overflow-x: auto; max-height: 65vh; overflow-y: auto;">
+      <table class="hz-table" id="r-table">
+        <thead><tr><th>Von</th><th>Nach</th><th>Status</th><th>Source</th></tr></thead>
+        <tbody><tr><td colspan="4" class="muted">Lade…</td></tr></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script is:inline>
+    async function load() {
+      try {
+        const res = await fetch('/api/herzraum/redirects');
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const data = await res.json();
+        document.querySelector('[data-kpi="r.total"]').textContent = data.total.toLocaleString('de-DE');
+        document.querySelector('[data-kpi="r.astro"]').textContent = data.astroConfigCount.toLocaleString('de-DE');
+        document.querySelector('[data-kpi="r.middleware"]').textContent = data.middlewareCount.toLocaleString('de-DE');
+
+        const tbody = document.querySelector('#r-table tbody');
+        const rows = data.redirects.sort((a, b) => a.from.localeCompare(b.from));
+        function render(filter) {
+          const filtered = filter
+            ? rows.filter(r => (r.from + ' ' + r.to).toLowerCase().includes(filter.toLowerCase()))
+            : rows;
+          tbody.innerHTML = filtered.length
+            ? filtered.map(r => `
+                <tr>
+                  <td style="font-family: monospace; font-size: 0.8rem;">${r.from}</td>
+                  <td style="font-family: monospace; font-size: 0.8rem;"><a href="${r.to}" target="_blank" style="color: var(--hz-primary);">${r.to}</a></td>
+                  <td><span class="hz-badge muted">${r.status}</span></td>
+                  <td><span class="hz-badge muted">${r.source}</span></td>
+                </tr>
+              `).join('')
+            : '<tr><td colspan="4" class="muted">Keine Treffer</td></tr>';
+        }
+        render('');
+        document.getElementById('search').addEventListener('input', e => render(e.target.value));
+      } catch (err) {
+        document.querySelector('#r-table tbody').innerHTML = '<tr><td colspan="4" style="color: var(--hz-danger);">Fehler: ' + err.message + '</td></tr>';
+      }
+    }
+    load();
+  </script>
+</HerzraumLayout>

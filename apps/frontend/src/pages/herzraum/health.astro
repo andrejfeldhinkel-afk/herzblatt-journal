@@ -1,0 +1,243 @@
+---
+export const prerender = false;
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+import { getCollection } from 'astro:content';
+
+const blog = await getCollection('blog');
+
+// Content-Stats
+interface Stats {
+  slug: string;
+  title: string;
+  author: string;
+  tags: string[];
+  wordCount: number;
+  descriptionLength: number;
+  hasImage: boolean;
+  hasFaq: boolean;
+}
+
+const stats: Stats[] = blog.map((e) => {
+  const data = e.data as any;
+  const body = (e as any).body || '';
+  return {
+    slug: e.slug,
+    title: data.title || '',
+    author: data.author || 'redaktion',
+    tags: Array.isArray(data.tags) ? data.tags : [],
+    wordCount: body.split(/\s+/).filter(Boolean).length,
+    descriptionLength: (data.description || '').length,
+    hasImage: !!data.image,
+    hasFaq: Array.isArray(data.faq) && data.faq.length > 0,
+  };
+});
+
+const total = stats.length;
+
+// Wortanzahl-Histogram (Buckets)
+const buckets = [
+  { label: '< 500', min: 0, max: 500, count: 0, class: 'danger' },
+  { label: '500-800', min: 500, max: 800, count: 0, class: 'warning' },
+  { label: '800-1200', min: 800, max: 1200, count: 0, class: 'muted' },
+  { label: '1200-1800', min: 1200, max: 1800, count: 0, class: 'muted' },
+  { label: '1800-2500', min: 1800, max: 2500, count: 0, class: 'muted' },
+  { label: '2500-4000', min: 2500, max: 4000, count: 0, class: 'muted' },
+  { label: '> 4000', min: 4000, max: Infinity, count: 0, class: 'muted' },
+];
+for (const s of stats) {
+  const b = buckets.find((x) => s.wordCount >= x.min && s.wordCount < x.max);
+  if (b) b.count++;
+}
+const maxBucket = Math.max(...buckets.map((b) => b.count));
+
+// Thin Content Liste
+const thinContent = stats.filter((s) => s.wordCount < 800).sort((a, b) => a.wordCount - b.wordCount);
+
+// Tag-Pages mit < 3 Artikeln (Thin-Tag-Pages)
+const tagCounts: Record<string, number> = {};
+for (const s of stats) for (const t of s.tags) tagCounts[t] = (tagCounts[t] || 0) + 1;
+const allTags = Object.entries(tagCounts).sort((a, b) => b[1] - a[1]);
+const thinTags = allTags.filter(([, n]) => n < 3);
+
+// Duplicate Titles
+const titleMap: Record<string, string[]> = {};
+for (const s of stats) {
+  if (!s.title) continue;
+  const key = s.title.toLowerCase().replace(/\s+/g, ' ').trim();
+  if (!titleMap[key]) titleMap[key] = [];
+  titleMap[key].push(s.slug);
+}
+const duplicateTitles = Object.entries(titleMap).filter(([, slugs]) => slugs.length > 1);
+
+// Description-Probleme
+const descShort = stats.filter((s) => s.descriptionLength < 80);
+const descLong = stats.filter((s) => s.descriptionLength > 180);
+const descOk = stats.filter((s) => s.descriptionLength >= 80 && s.descriptionLength <= 180);
+
+// Without image (already good: 0 — but verify)
+const withoutImage = stats.filter((s) => !s.hasImage);
+
+// Without FAQ (SEO-Schema-miss)
+const withoutFaq = stats.filter((s) => !s.hasFaq);
+---
+<HerzraumLayout title="Content-Health & SEO" active="health">
+  <div class="hz-card" style="padding: 1.5rem;">
+    <h2 style="margin: 0 0 0.5rem 0;">💚 Content-Health & SEO</h2>
+    <p style="color: var(--hz-text-muted); font-size: 0.85rem;">Klick-frei Checks über alle {total.toLocaleString('de-DE')} Artikel — direkt aus Frontmatter + Body gerechnet.</p>
+  </div>
+
+  <!-- Top-KPI-Row -->
+  <section class="hz-kpi-grid" style="margin-top: 1rem;">
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Thin Content</div>
+      <div class="hz-kpi-value" style={thinContent.length > 0 ? 'color: var(--hz-danger);' : 'color: #16a34a;'}>{thinContent.length}</div>
+      <div class="hz-kpi-delta flat">&lt; 800 Wörter</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Duplicate Titles</div>
+      <div class="hz-kpi-value" style={duplicateTitles.length > 0 ? 'color: var(--hz-danger);' : 'color: #16a34a;'}>{duplicateTitles.length}</div>
+      <div class="hz-kpi-delta flat">gleicher Titel</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Thin Tag-Pages</div>
+      <div class="hz-kpi-value" style={thinTags.length > 0 ? 'color: #f59e0b;' : 'color: #16a34a;'}>{thinTags.length}</div>
+      <div class="hz-kpi-delta flat">&lt; 3 Artikel je Tag</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Ohne Bild</div>
+      <div class="hz-kpi-value" style={withoutImage.length > 0 ? 'color: var(--hz-danger);' : 'color: #16a34a;'}>{withoutImage.length}</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Desc zu kurz (&lt;80)</div>
+      <div class="hz-kpi-value" style={descShort.length > 0 ? 'color: #f59e0b;' : 'color: #16a34a;'}>{descShort.length}</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Desc zu lang (&gt;180)</div>
+      <div class="hz-kpi-value" style={descLong.length > 0 ? 'color: #f59e0b;' : 'color: #16a34a;'}>{descLong.length}</div>
+    </div>
+  </section>
+
+  <!-- Wort-Histogramm -->
+  <div class="hz-card">
+    <h3>📊 Wortanzahl-Verteilung</h3>
+    <div style="display: flex; align-items: flex-end; gap: 0.5rem; height: 200px; padding: 1rem 0;">
+      {buckets.map((b) => (
+        <div style="flex: 1; display: flex; flex-direction: column; align-items: center; gap: 0.25rem;">
+          <div style="font-size: 0.7rem; color: var(--hz-text-muted);">{b.count.toLocaleString('de-DE')}</div>
+          <div style={`width: 100%; background: ${b.class==='danger' ? 'var(--hz-danger)' : b.class==='warning' ? '#f59e0b' : 'var(--hz-primary)'}; height: ${maxBucket ? (b.count/maxBucket*160) : 0}px; border-radius: 0.25rem 0.25rem 0 0; min-height: 2px; opacity: 0.85;`}></div>
+          <div style="font-size: 0.7rem; text-align: center;">{b.label}</div>
+        </div>
+      ))}
+    </div>
+  </div>
+
+  <!-- Backend-Metrics -->
+  <div class="hz-card" style="margin-top: 1rem;">
+    <h3>⚙️ Backend-Health (Live)</h3>
+    <div id="metrics" style="font-size: 0.85rem;">Lade…</div>
+  </div>
+
+  <div class="hz-grid-2" style="margin-top: 1rem;">
+    {/* Thin-Content-Liste */}
+    {thinContent.length > 0 && (
+      <div class="hz-card">
+        <h3 style="color: var(--hz-danger);">🚨 Thin Content ({thinContent.length})</h3>
+        <div style="max-height: 400px; overflow-y: auto;">
+          <table class="hz-table">
+            <thead><tr><th>Slug</th><th>Wörter</th></tr></thead>
+            <tbody>
+              {thinContent.slice(0, 100).map((s) => (
+                <tr>
+                  <td><a href={`/herzraum/artikel/edit/${s.slug}`} style="color: var(--hz-primary);">{s.slug}</a></td>
+                  <td style="text-align: right; font-variant-numeric: tabular-nums; color: var(--hz-danger);">{s.wordCount}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+          {thinContent.length > 100 && <p style="font-size: 0.75rem; color: var(--hz-text-muted); margin-top: 0.5rem;">+{thinContent.length - 100} weitere — nur Top 100 angezeigt</p>}
+        </div>
+      </div>
+    )}
+
+    {/* Duplicate Titles */}
+    {duplicateTitles.length > 0 && (
+      <div class="hz-card">
+        <h3 style="color: var(--hz-danger);">📑 Duplicate Titles ({duplicateTitles.length})</h3>
+        <div style="max-height: 400px; overflow-y: auto;">
+          {duplicateTitles.slice(0, 30).map(([title, slugs]) => (
+            <div style="padding: 0.5rem; border-bottom: 1px solid var(--hz-border);">
+              <div style="font-size: 0.85rem; margin-bottom: 0.25rem;">{title}</div>
+              <div style="font-size: 0.75rem; color: var(--hz-text-muted);">
+                {slugs.map((s) => <a href={`/herzraum/artikel/edit/${s}`} style="color: var(--hz-primary); margin-right: 0.5rem;">{s}</a>)}
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    )}
+
+    {/* Thin-Tags */}
+    {thinTags.length > 0 && (
+      <div class="hz-card">
+        <h3 style="color: #f59e0b;">🏷️ Thin Tag-Pages ({thinTags.length})</h3>
+        <p style="font-size: 0.75rem; color: var(--hz-text-muted);">Tags mit &lt; 3 Artikeln = SEO-Risiko (Thin-Content-Pages).</p>
+        <div style="max-height: 400px; overflow-y: auto;">
+          <table class="hz-table">
+            <thead><tr><th>Tag</th><th>Artikel</th></tr></thead>
+            <tbody>
+              {thinTags.slice(0, 80).map(([tag, n]) => (
+                <tr>
+                  <td><a href={`/tags/${tag}`} target="_blank" style="color: var(--hz-primary);">{tag}</a></td>
+                  <td style="text-align: right; font-variant-numeric: tabular-nums;">{n}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    )}
+
+    {/* Desc zu kurz */}
+    {descShort.length > 0 && (
+      <div class="hz-card">
+        <h3 style="color: #f59e0b;">📝 Meta-Description zu kurz ({descShort.length})</h3>
+        <p style="font-size: 0.75rem; color: var(--hz-text-muted);">&lt; 80 Zeichen — Google zeigt evtl. Auto-Snippet statt deiner.</p>
+        <div style="max-height: 400px; overflow-y: auto;">
+          <table class="hz-table">
+            <thead><tr><th>Slug</th><th>Länge</th></tr></thead>
+            <tbody>
+              {descShort.slice(0, 50).map((s) => (
+                <tr>
+                  <td><a href={`/herzraum/artikel/edit/${s.slug}`} style="color: var(--hz-primary);">{s.slug}</a></td>
+                  <td style="text-align: right;">{s.descriptionLength}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    )}
+  </div>
+
+  <script is:inline>
+    async function loadMetrics() {
+      try {
+        // Backend-Metrics braucht Admin-Token — nicht Session-Cookie.
+        // Deshalb über den /herzraum/stats-Endpoint was wir ja schon haben
+        const res = await fetch('/api/herzraum/stats?range=today');
+        const data = await res.json();
+        if (data.ok) {
+          document.getElementById('metrics').innerHTML = `
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 0.5rem;">
+              <div>Pageviews heute: <strong>${(data.kpis.pageviews.today || 0).toLocaleString('de-DE')}</strong></div>
+              <div>Pageviews 30d: <strong>${(data.kpis.pageviews.month || 0).toLocaleString('de-DE')}</strong></div>
+              <div>Newsletter total: <strong>${(data.kpis.newsletter.total || 0).toLocaleString('de-DE')}</strong></div>
+              <div>Clicks heute: <strong>${(data.kpis.clicks.today || 0).toLocaleString('de-DE')}</strong></div>
+            </div>
+          `;
+        }
+      } catch { document.getElementById('metrics').textContent = 'Fehler beim Laden'; }
+    }
+    loadMetrics();
+  </script>
+</HerzraumLayout>

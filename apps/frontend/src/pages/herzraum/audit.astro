@@ -1,0 +1,87 @@
+---
+export const prerender = false;
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+---
+<HerzraumLayout title="Audit-Log" active="audit">
+  <div class="hz-card" style="padding: 1.5rem;">
+    <h2 style="margin: 0 0 0.5rem 0;">🛡 Audit-Log</h2>
+    <p style="color: var(--hz-text-muted); font-size: 0.85rem;">
+      Alle schreibenden Admin-Actions: Artikel-Creates/Updates, Author-Änderungen, GDPR-Löschungen etc.
+    </p>
+
+    <div class="hz-row" style="margin: 1rem 0;">
+      <input type="search" id="search" placeholder="Filter nach Action/Target…" style="flex: 1; padding: 0.5rem; background: var(--hz-bg); color: var(--hz-text); border: 1px solid var(--hz-border); border-radius: 0.375rem;">
+      <select id="filter-action" style="padding: 0.5rem; background: var(--hz-bg); color: var(--hz-text); border: 1px solid var(--hz-border); border-radius: 0.375rem;">
+        <option value="">Alle Actions</option>
+      </select>
+    </div>
+
+    <div style="overflow-x: auto; max-height: 70vh; overflow-y: auto;">
+      <table class="hz-table" id="log-table">
+        <thead>
+          <tr>
+            <th>Zeitpunkt</th>
+            <th>Action</th>
+            <th>Target</th>
+            <th>Actor</th>
+            <th>Details</th>
+          </tr>
+        </thead>
+        <tbody><tr><td colspan="5" class="muted">Lade…</td></tr></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script is:inline>
+    let entries = [];
+    async function load() {
+      try {
+        const res = await fetch('/api/herzraum/audit-log?limit=500');
+        const data = await res.json();
+        if (!data.ok) throw new Error(data.error);
+        entries = data.items;
+        // Unique actions für Filter-Dropdown
+        const actions = [...new Set(entries.map(e => e.action))].sort();
+        const sel = document.getElementById('filter-action');
+        actions.forEach(a => {
+          const o = document.createElement('option'); o.value = a; o.textContent = a;
+          sel.appendChild(o);
+        });
+        render();
+      } catch (err) {
+        document.querySelector('#log-table tbody').innerHTML = '<tr><td colspan="5" style="color: var(--hz-danger);">Fehler: ' + err.message + '</td></tr>';
+      }
+    }
+    function render() {
+      const q = (document.getElementById('search').value || '').toLowerCase();
+      const action = document.getElementById('filter-action').value;
+      const filtered = entries.filter(e => {
+        if (action && e.action !== action) return false;
+        if (q) {
+          const h = (e.action + ' ' + (e.target||'') + ' ' + JSON.stringify(e.meta||'')).toLowerCase();
+          if (!h.includes(q)) return false;
+        }
+        return true;
+      });
+      const tbody = document.querySelector('#log-table tbody');
+      tbody.innerHTML = filtered.length
+        ? filtered.map(e => {
+            const ts = e.ts ? new Date(e.ts).toLocaleString('de-DE', { day:'2-digit', month:'2-digit', year:'numeric', hour:'2-digit', minute:'2-digit', second:'2-digit' }) : '—';
+            const meta = e.meta
+              ? (e.meta.commitUrl ? '<a href="'+e.meta.commitUrl+'" target="_blank" style="color: var(--hz-primary); font-size: 0.75rem;">Commit ↗</a>' : '')
+              : '';
+            return '<tr>'
+              +'<td class="muted" style="font-size: 0.8rem;">'+ts+'</td>'
+              +'<td><span class="hz-badge muted">'+e.action+'</span></td>'
+              +'<td><code style="font-size: 0.8rem;">'+(e.target||'—')+'</code></td>'
+              +'<td>'+e.actor+'</td>'
+              +'<td>'+meta+'</td>'
+              +'</tr>';
+          }).join('')
+        : '<tr><td colspan="5" class="muted">Keine Einträge</td></tr>';
+    }
+    document.getElementById('search').addEventListener('input', render);
+    document.getElementById('filter-action').addEventListener('change', render);
+    load();
+  </script>
+</HerzraumLayout>
