@@ -13,6 +13,10 @@ import trackClickRoute from './routes/track-click.js';
 import newsletterRoute from './routes/newsletter.js';
 import registerRoute from './routes/register.js';
 import readersRoute from './routes/readers.js';
+import digistoreIpnRoute from './routes/digistore-ipn.js';
+
+// Runtime-Migrations
+import { runStartupMigrations } from './db/migrate.js';
 
 // Auth Routes
 import authRoute from './routes/auth.js';
@@ -28,6 +32,9 @@ import herzraumPasswordVerifyRoute from './routes/herzraum/password-verify.js';
 // Admin (bearer-token)
 import adminSubscribersCsvRoute from './routes/admin/subscribers-csv.js';
 import adminCronCleanupRoute from './routes/admin/cron-cleanup.js';
+import adminSendgridRoute from './routes/admin/sendgrid.js';
+import adminMetricsRoute from './routes/admin/metrics.js';
+import adminBackupRoute from './routes/admin/backup.js';
 
 // Middleware
 import { requireSession, requireAdminToken } from './lib/auth-middleware.js';
@@ -52,6 +59,7 @@ app.route('/track-click', trackClickRoute);
 app.route('/newsletter', newsletterRoute);
 app.route('/register', registerRoute);
 app.route('/readers', readersRoute);
+app.route('/digistore-ipn', digistoreIpnRoute);
 
 // Auth Routes (eigene security)
 app.route('/auth', authRoute);
@@ -69,6 +77,9 @@ app.route('/herzraum/password/verify', herzraumPasswordVerifyRoute);
 app.use('/admin/*', requireAdminToken);
 app.route('/admin/subscribers.csv', adminSubscribersCsvRoute);
 app.route('/admin/cron/cleanup', adminCronCleanupRoute);
+app.route('/admin/sendgrid', adminSendgridRoute);
+app.route('/admin/metrics', adminMetricsRoute);
+app.route('/admin/backup.json', adminBackupRoute);
 
 // Globaler Error-Handler → Sentry + JSON-Response
 app.onError(async (err, c) => {
@@ -86,6 +97,9 @@ app.onError(async (err, c) => {
 
 const port = Number(process.env.PORT) || 3001;
 const host = process.env.HOST || '0.0.0.0';
+
+// Migrations vor Server-Start ausführen (best-effort — fängt intern Errors)
+await runStartupMigrations();
 
 serve({
   fetch: app.fetch,

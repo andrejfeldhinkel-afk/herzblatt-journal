@@ -130,3 +130,31 @@ export const readersCounter = pgTable('readers_counter', {
   count: bigint('count', { mode: 'number' }).default(12847).notNull(),
   lastUpdated: timestamp('last_updated', { withTimezone: true }).defaultNow().notNull(),
 });
+
+/**
+ * Purchases — E-Book-Käufe.
+ * Provider-agnostisch (Digistore24, Stripe, etc.).
+ *
+ * rawPayload ist der komplette Webhook-Body (JSON-serialisiert) für
+ * spätere Debug-/Support-Zwecke.
+ */
+export const purchases = pgTable(
+  'purchases',
+  {
+    id: serial('id').primaryKey(),
+    provider: text('provider').notNull(), // 'digistore24' | 'stripe' | 'manual'
+    providerOrderId: text('provider_order_id').notNull(), // unique pro provider
+    email: text('email').notNull(),
+    product: text('product').notNull(), // 'ebook' etc
+    amountCents: bigint('amount_cents', { mode: 'number' }).notNull(),
+    currency: text('currency').default('EUR').notNull(),
+    status: text('status').default('paid').notNull(), // 'paid', 'refunded', 'chargeback'
+    createdAt: timestamp('created_at', { withTimezone: true }).defaultNow().notNull(),
+    rawPayload: text('raw_payload'),
+  },
+  (t) => ({
+    createdAtIdx: index('purchases_created_at_idx').on(t.createdAt),
+    emailIdx: index('purchases_email_idx').on(t.email),
+    providerOrderIdx: index('purchases_provider_order_idx').on(t.provider, t.providerOrderId),
+  }),
+);
