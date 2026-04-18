@@ -85,18 +85,31 @@ const blockedGetPaths = new Set([
 ]);
 
 // ─── Herzraum Auth Guard ────────────────────────────────────────
-// Dynamic import um Circular Deps / Build-Probleme zu vermeiden
-let herzraumVerify: ((t: string | null) => boolean) | null = null;
-let herzraumExtract: ((c: string | null) => string | null) | null = null;
-async function loadHerzraumAuth() {
-  if (herzraumVerify && herzraumExtract) return;
-  const mod = await import('./lib/herzraum-auth');
-  herzraumVerify = mod.verifySession;
-  herzraumExtract = mod.extractToken;
+// Session wird jetzt vom Backend verifiziert — Frontend-Middleware ruft
+// GET /auth/verify auf dem Backend-Service und forwarded den Cookie mit.
+// Der Cookie hat Domain=.herzblatt-journal.com, also wird er von der
+// herzblatt-journal.com-Page auch an das Backend mitgeschickt (Subdomain-scoped).
+const BACKEND_URL = (import.meta.env.BACKEND_URL || process.env.BACKEND_URL || 'http://localhost:3001').replace(/\/$/, '');
+
+async function verifyHerzraumSession(cookieHeader: string | null): Promise<boolean> {
+  if (!cookieHeader || !cookieHeader.includes('hz_session=')) return false;
+  try {
+    const res = await fetch(BACKEND_URL + '/auth/verify', {
+      method: 'GET',
+      headers: { cookie: cookieHeader },
+    });
+    return res.ok;
+  } catch (err) {
+    console.error('[middleware] /auth/verify error:', err);
+    return false;
+  }
 }
 
 function isHerzraumPublic(path: string): boolean {
-  return path === '/herzraum/login' || path === '/api/herzraum/auth';
+  // Login-Page und Auth-Proxy dürfen ohne Session erreicht werden
+  return path === '/herzraum/login' ||
+         path === '/api/herzraum/auth' ||
+         path === '/api/herzraum/logout';
 }
 
 function isHerzraumProtected(path: string): boolean {
@@ -108,12 +121,10 @@ export const onRequest = defineMiddleware(async (context, next) => {
   const url = new URL(request.url);
   const path = url.pathname.replace(/\/$/, '') || '/';
 
-  // ─── Herzraum-Dashboard schützen ───────────────────────────
+  // ─── Herzraum-Dashboard schützen (Backend-Auth) ────────────
   if (isHerzraumProtected(path) && !isHerzraumPublic(path)) {
-    await loadHerzraumAuth();
-    const token = herzraumExtract!(request.headers.get('cookie'));
-    if (!herzraumVerify!(token)) {
-      // HTML-Routen → Login-Redirect; API-Routen → 401 JSON
+    const ok = await verifyHerzraumSession(request.headers.get('cookie'));
+    if (!ok) {
       if (path.startsWith('/api/')) {
         return new Response(JSON.stringify({ error: 'Unauthorized' }), {
           status: 401,
