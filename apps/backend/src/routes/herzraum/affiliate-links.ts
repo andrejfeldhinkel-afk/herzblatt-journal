@@ -183,7 +183,7 @@ app.post('/', async (c) => {
       })
       .returning();
 
-    await logAudit({ action: 'affiliate-link.create', target: parsed.data.slug, meta: JSON.stringify({ name: parsed.data.name }) });
+    await logAudit(c, { action: 'affiliate-link.create', target: parsed.data.slug, meta: { name: parsed.data.name } });
 
     return c.json({ ok: true, link: { ...created, trackingTarget: toTrackingTarget(created.slug), shortUrl: `/go/${created.slug}` } }, 201);
   } catch (err) {
@@ -219,7 +219,7 @@ app.patch('/:slug', async (c) => {
 
     if (!updated) return c.json({ ok: false, error: 'not-found' }, 404);
 
-    await logAudit({ action: 'affiliate-link.update', target: slug, meta: JSON.stringify(parsed.data) });
+    await logAudit(c, { action: 'affiliate-link.update', target: slug, meta: parsed.data as Record<string, unknown> });
 
     return c.json({ ok: true, link: { ...updated, trackingTarget: toTrackingTarget(updated.slug), shortUrl: `/go/${updated.slug}` } });
   } catch (err) {
@@ -239,7 +239,7 @@ app.delete('/:slug', async (c) => {
 
     if (!deleted) return c.json({ ok: false, error: 'not-found' }, 404);
 
-    await logAudit({ action: 'affiliate-link.delete', target: slug });
+    await logAudit(c, { action: 'affiliate-link.delete', target: slug });
 
     return c.json({ ok: true });
   } catch (err) {
