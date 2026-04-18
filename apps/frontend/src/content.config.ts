@@ -19,6 +19,9 @@ const blog = defineCollection({
       question: z.string(),
       answer: z.string(),
     })).default([]),
+    // Produkte die am Ende des Artikels als Grid gezeigt werden.
+    // Slug-Array aus Admin /herzraum/produkte. Reihenfolge = Render-Reihenfolge.
+    products: z.array(z.string()).default([]),
   }),
 });
 

@@ -1,0 +1,135 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ProductCard from '../components/ProductCard.astro';
+
+interface Product {
+  slug: string;
+  name: string;
+  shortDescription?: string | null;
+  longDescription?: string | null;
+  type: string;
+  source: string;
+  category?: string | null;
+  priceCents?: number | null;
+  currency?: string;
+  imageUrl?: string | null;
+  imageAlt?: string | null;
+  targetUrl: string;
+  trackingTarget: string;
+  ctaLabel?: string;
+  badges?: string[];
+  rating?: string | null;
+  featured?: boolean;
+}
+
+const BACKEND_URL =
+  (import.meta.env.BACKEND_URL as string | undefined) ||
+  (typeof process !== 'undefined' ? process.env.BACKEND_URL : undefined) ||
+  'https://backend-production-c327.up.railway.app';
+
+let products: Product[] = [];
+try {
+  const res = await fetch(`${BACKEND_URL.replace(/\/$/, '')}/products`);
+  if (res.ok) {
+    const data = await res.json() as { ok: boolean; products: Product[] };
+    if (data.ok && Array.isArray(data.products)) {
+      products = data.products;
+    }
+  }
+} catch (err) {
+  console.warn('[produkte page] fetch error:', err);
+}
+
+// Featured zuerst, dann nach Typ gruppieren
+const featured = products.filter((p) => p.featured);
+
+// Group by type
+const TYPE_LABELS: Record<string, string> = {
+  digital: 'Eigene E-Books & Digitalprodukte',
+  affiliate: 'Empfohlene Produkte',
+  service: 'Coaching & Services',
+  physical: 'Bücher & Print-Produkte',
+  subscription: 'Abos & Mitgliedschaften',
+};
+const TYPE_ORDER = ['digital', 'service', 'physical', 'affiliate', 'subscription'];
+
+const groupedByType = new Map<string, Product[]>();
+for (const type of TYPE_ORDER) {
+  const items = products.filter((p) => p.type === type && !p.featured);
+  if (items.length > 0) groupedByType.set(type, items);
+}
+---
+
+<BaseLayout
+  title="Unsere Empfehlungen — Herzblatt Journal"
+  description="Handverlesene Bücher, Kurse und Tools die uns selbst weitergebracht haben. Alles was wir empfehlen, haben wir selbst getestet oder gelesen."
+>
+  <!-- Hero -->
+  <section class="relative overflow-hidden py-16 sm:py-20">
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, var(--color-primary-50) 0%, #faf7f5 50%, var(--color-primary-50) 100%);"></div>
+    <div class="relative max-w-4xl mx-auto px-4 sm:px-6 text-center">
+      <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-semibold mb-5" style="background: var(--color-primary-100); color: var(--color-primary-700);">
+        Kuratiert · Selbst getestet
+      </div>
+      <h1 class="font-serif text-4xl sm:text-5xl font-extrabold tracking-tight mb-5" style="color: var(--color-text);">
+        Unsere Empfehlungen
+      </h1>
+      <p class="text-lg leading-relaxed max-w-2xl mx-auto" style="color: var(--color-text-muted);">
+        Bücher, Kurse und Tools die uns selbst beim Thema Beziehung, Dating und Selbstreflexion weitergebracht haben — handverlesen und ehrlich bewertet.
+      </p>
+      <p class="text-xs mt-5 italic" style="color: var(--color-text-dim);">
+        * Einige Links sind Partner-/Affiliate-Links. Uns entstehen keine Mehrkosten für dich — uns hilft's, das Journal kostenlos zu halten.
+      </p>
+    </div>
+  </section>
+
+  {products.length === 0 ? (
+    <section class="max-w-4xl mx-auto px-4 sm:px-6 py-16 text-center">
+      <div class="text-6xl mb-6">🛍</div>
+      <h2 class="font-serif text-2xl font-bold mb-3">Noch keine Empfehlungen</h2>
+      <p style="color: var(--color-text-muted);">Wir kuratieren gerade. Bald findest du hier unsere persönliche Auswahl.</p>
+    </section>
+  ) : (
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 py-10 sm:py-14">
+      {/* Featured Section */}
+      {featured.length > 0 && (
+        <section class="mb-16">
+          <header class="mb-6">
+            <p class="text-xs font-bold uppercase tracking-widest mb-2" style="color: var(--color-primary-600);">Persönliche Favoriten</p>
+            <h2 class="font-serif text-2xl sm:text-3xl font-bold" style="color: var(--color-text);">Was uns am meisten geholfen hat</h2>
+          </header>
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+            {featured.map((p) => <ProductCard product={p} variant="featured" />)}
+          </div>
+        </section>
+      )}
+
+      {/* Grouped by Type */}
+      {Array.from(groupedByType.entries()).map(([type, items]) => (
+        <section class="mb-14">
+          <header class="mb-5">
+            <h2 class="font-serif text-xl sm:text-2xl font-bold mb-1" style="color: var(--color-text);">
+              {TYPE_LABELS[type] || type}
+            </h2>
+            <p class="text-xs" style="color: var(--color-text-dim);">
+              {items.length} {items.length === 1 ? 'Empfehlung' : 'Empfehlungen'}
+            </p>
+          </header>
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {items.map((p) => <ProductCard product={p} />)}
+          </div>
+        </section>
+      ))}
+
+      {/* Disclosure / Transparency */}
+      <section class="mt-16 p-6 rounded-2xl" style="background: var(--color-surface-100); border: 1px solid var(--color-border);">
+        <h3 class="font-serif text-lg font-bold mb-3" style="color: var(--color-text);">Wie wir auswählen</h3>
+        <div class="text-sm space-y-2" style="color: var(--color-text-muted);">
+          <p>Wir empfehlen nur, was wir selbst gelesen, getestet oder über längere Zeit genutzt haben. Kein generisches "Top 10" aus Affiliate-Listen.</p>
+          <p>Einige Links sind Partner-Links: kaufst du über sie, bekommen wir eine kleine Provision — der Preis bleibt für dich gleich. So bleibt das Journal kostenlos.</p>
+          <p>Du findest eine Empfehlung fragwürdig oder hast eine bessere? <a href="/kontakt" style="color: var(--color-primary-600); text-decoration: underline;">Schreib uns</a>, wir lesen alles.</p>
+        </div>
+      </section>
+    </div>
+  )}
+</BaseLayout>

@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import AppCTA from '../../components/AppCTA.astro';
 import ReadingProgress from '../../components/ReadingProgress.astro';
 import BlogCard from '../../components/BlogCard.astro';
+import ProductGrid from '../../components/ProductGrid.astro';
 import { getCollection, render } from 'astro:content';
 import { getAuthor } from '../../data/authors';
 
@@ -245,6 +246,15 @@ const articleAuthor = {
         <div class="prose" id="article-content">
           <Content />
         </div>
+
+        <!-- Produkte-Grid (wenn im Frontmatter products: [slug1, slug2, ...] definiert) -->
+        {post.data.products && post.data.products.length > 0 && (
+          <ProductGrid
+            slugs={post.data.products}
+            title="Unsere Empfehlungen zu diesem Thema"
+            intro="Passend zum Thema dieses Artikels — sorgfältig kuratiert."
+          />
+        )}
 
         <!-- Mid-article CTA (injected after 3rd h2 via JS) -->
         <template id="mid-cta-template">

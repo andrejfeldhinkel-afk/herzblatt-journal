@@ -185,6 +185,9 @@ const frontmatterSchema = z.object({
   featured: z.boolean().default(false),
   author: z.string().min(1).max(50),
   faq: z.array(faqSchema).max(20).default([]),
+  // Produkt-Slugs (aus Admin /herzraum/produkte), werden am Ende des
+  // Artikels als <ProductGrid /> angezeigt. Reihenfolge = Render-Reihenfolge.
+  products: z.array(z.string().regex(/^[a-z0-9-]+$/).max(80)).max(8).default([]),
 });
 
 const createSchema = z.object({
@@ -225,6 +228,10 @@ function buildFrontmatter(fm: z.infer<typeof frontmatterSchema>): string {
       lines.push(`  - question: ${yamlQuote(f.question)}`);
       lines.push(`    answer: ${yamlQuote(f.answer)}`);
     }
+  }
+  if (fm.products.length > 0) {
+    lines.push('products:');
+    for (const s of fm.products) lines.push(`  - ${yamlQuote(s)}`);
   }
   lines.push('---');
   return lines.join('\n');
