@@ -13,6 +13,8 @@ const ALLOWED_TARGETS = new Set([
   'tinder', 'hinge', 'okcupid', 'happn', 'badoo', 'finya',
   'lovepoint', 'c-date', 'joyclub', 'secret', 'ashley-madison',
   'once', 'zoosk', 'match', 'plenty-of-fish',
+  // Eigene Produkte (Conversion-Funnel-Tracking)
+  'ebook-buy', 'ebook-waitlist',
 ]);
 
 const TARGET_REGEX = /^[a-z0-9-]+$/;

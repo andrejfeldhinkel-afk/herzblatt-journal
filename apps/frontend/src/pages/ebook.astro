@@ -500,6 +500,7 @@ const faqs = [
   })}></script>
 
   <script>
+    // Wait-List-Form (wenn kein Live-Checkout aktiv)
     const form = document.getElementById('preorder-form');
     form?.addEventListener('submit', async (e) => {
       e.preventDefault();
@@ -507,7 +508,6 @@ const faqs = [
       const btn = form.querySelector('button');
       const email = input?.value;
       if (!email) return;
-      const original = btn.textContent;
       btn.textContent = 'Wird gesendet…';
       btn.disabled = true;
       try {
@@ -521,6 +521,13 @@ const faqs = [
           btn.textContent = '✓ Du bist dabei! Check deine E-Mails.';
           btn.style.background = '#16a34a';
           input.value = '';
+          // Conversion-Event fire-and-forget
+          fetch('/api/track-click', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            keepalive: true,
+            body: JSON.stringify({ target: 'ebook-waitlist', source: '/ebook' }),
+          }).catch(() => {});
         } else {
           btn.textContent = data.message || 'Bitte versuch es erneut.';
           btn.disabled = false;
@@ -529,6 +536,29 @@ const faqs = [
         btn.textContent = 'Fehler — bitte nochmal versuchen.';
         btn.disabled = false;
       }
+    });
+
+    // Live-Buy-Button-Tracking (wenn DIGISTORE_BUY_URL gesetzt)
+    document.querySelectorAll('[data-track-buy="ebook"]').forEach((link) => {
+      link.addEventListener('click', () => {
+        // sendBeacon damit der Click nicht durch die Weiterleitung abgebrochen wird
+        const body = JSON.stringify({ target: 'ebook-buy', source: '/ebook' });
+        try {
+          if (navigator.sendBeacon) {
+            navigator.sendBeacon(
+              '/api/track-click',
+              new Blob([body], { type: 'application/json' }),
+            );
+          } else {
+            fetch('/api/track-click', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              keepalive: true,
+              body,
+            }).catch(() => {});
+          }
+        } catch { /* noop */ }
+      });
     });
   </script>
 </BaseLayout>
