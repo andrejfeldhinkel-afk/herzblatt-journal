@@ -98,9 +98,6 @@ app.onError(async (err, c) => {
 const port = Number(process.env.PORT) || 3001;
 const host = process.env.HOST || '0.0.0.0';
 
-// Migrations vor Server-Start ausführen (best-effort — fängt intern Errors)
-await runStartupMigrations();
-
 serve({
   fetch: app.fetch,
   port,
@@ -108,6 +105,10 @@ serve({
 }, (info) => {
   console.log(`[backend] listening on http://${info.address}:${info.port}`);
 });
+
+// Migrations parallel zum Server-Start ausführen — NICHT blockieren.
+// Falls DB noch nicht bereit ist, loggt migrate.ts den Error intern.
+void runStartupMigrations();
 
 // Graceful shutdown: Sentry-Events flushen bevor Prozess endet
 async function gracefulShutdown(signal: string) {
