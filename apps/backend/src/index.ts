@@ -16,6 +16,7 @@ import readersRoute from './routes/readers.js';
 import digistoreIpnRoute from './routes/digistore-ipn.js';
 import unsubscribeRoute from './routes/unsubscribe.js';
 import inboundEmailRoute from './routes/inbound-email.js';
+import productsPublicRoute from './routes/products.js';
 
 // Runtime-Migrations
 import { runStartupMigrations } from './db/migrate.js';
@@ -37,6 +38,7 @@ import herzraumRedirectsRoute from './routes/herzraum/redirects.js';
 import herzraumAuditLogRoute from './routes/herzraum/audit-log.js';
 import herzraumEmailTemplatesRoute from './routes/herzraum/email-templates.js';
 import herzraumInboxRoute from './routes/herzraum/inbox.js';
+import herzraumProductsRoute from './routes/herzraum/products.js';
 
 // Admin (bearer-token)
 import adminSubscribersCsvRoute from './routes/admin/subscribers-csv.js';
@@ -73,6 +75,7 @@ app.route('/readers', readersRoute);
 app.route('/digistore-ipn', digistoreIpnRoute);
 app.route('/unsubscribe', unsubscribeRoute);
 app.route('/inbound-email', inboundEmailRoute);
+app.route('/products', productsPublicRoute);
 
 // Auth Routes (eigene security)
 app.route('/auth', authRoute);
@@ -92,6 +95,7 @@ app.route('/herzraum/redirects', herzraumRedirectsRoute);
 app.route('/herzraum/audit-log', herzraumAuditLogRoute);
 app.route('/herzraum/email-templates', herzraumEmailTemplatesRoute);
 app.route('/herzraum/inbox', herzraumInboxRoute);
+app.route('/herzraum/products', herzraumProductsRoute);
 
 // Admin — bearer token
 app.use('/admin/*', requireAdminToken);

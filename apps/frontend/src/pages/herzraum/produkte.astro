@@ -1,0 +1,544 @@
+---
+export const prerender = false;
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+
+const TYPE_LABELS: Record<string, string> = {
+  digital: 'Digitales Produkt (eigenes)',
+  affiliate: 'Affiliate-Produkt',
+  service: 'Service / Coaching',
+  physical: 'Physisches Produkt',
+  subscription: 'Abo / Membership',
+};
+
+const SOURCE_LABELS: Record<string, string> = {
+  direct: 'Direkt',
+  digistore: 'Digistore24',
+  amazon: 'Amazon PartnerNet',
+  awin: 'Awin',
+  tradedoubler: 'Tradedoubler',
+  coaching: 'Coaching (intern)',
+  elopage: 'Elopage',
+  financeads: 'Financeads',
+  other: 'Sonstige',
+};
+
+const typesJson = JSON.stringify(TYPE_LABELS);
+const sourcesJson = JSON.stringify(SOURCE_LABELS);
+---
+<HerzraumLayout title="Produkte" active="produkte">
+  <!-- KPI-Zeile -->
+  <div class="hz-kpi-grid" id="kpi-grid">
+    <div class="hz-kpi"><div class="hz-kpi-label">Gesamt</div><div class="hz-kpi-value" id="kpi-total">—</div><div class="hz-kpi-delta flat" id="kpi-total-sub">…</div></div>
+    <div class="hz-kpi"><div class="hz-kpi-label">Aktiv</div><div class="hz-kpi-value" id="kpi-active">—</div><div class="hz-kpi-delta flat" id="kpi-active-sub">…</div></div>
+    <div class="hz-kpi"><div class="hz-kpi-label">Featured</div><div class="hz-kpi-value" id="kpi-featured">—</div><div class="hz-kpi-delta flat">Hervorgehoben</div></div>
+    <div class="hz-kpi"><div class="hz-kpi-label">Klicks gesamt</div><div class="hz-kpi-value" id="kpi-clicks">—</div><div class="hz-kpi-delta flat">Alle Zeit</div></div>
+  </div>
+
+  <!-- Intro + Filter + New-Button -->
+  <div class="hz-card" style="padding: 1.25rem 1.4rem;">
+    <div class="hz-row" style="margin-bottom: 0.5rem;">
+      <h2 style="margin: 0;">🛍 Produkt-Katalog</h2>
+      <div class="hz-spacer"></div>
+      <button id="new-product-btn" class="hz-btn primary">+ Neues Produkt</button>
+    </div>
+    <p style="color: var(--hz-text-muted); font-size: 0.85rem; margin: 0 0 1rem 0;">
+      Universeller Katalog für alle 5 Monetarisierungs-Säulen (eigene E-Books, Affiliate, Coaching, Print-on-Demand, Abo).
+      Klicks werden automatisch getrackt (clicks-Tabelle, target=product-&lt;slug&gt;).
+      Vollständige Strategie: siehe <code>docs/MONETIZATION_PLAN.md</code>.
+    </p>
+
+    <div class="hz-row" style="gap: 0.75rem; padding: 0.75rem; background: var(--hz-bg-2); border-radius: var(--hz-radius-sm); border: 1px solid var(--hz-border);">
+      <label style="font-size: 0.8rem; color: var(--hz-text-muted); display: flex; align-items: center; gap: 0.5rem;">
+        Typ:
+        <select id="filter-type" style="min-width: 150px;">
+          <option value="">alle</option>
+          <option value="digital">Eigenes digital</option>
+          <option value="affiliate">Affiliate</option>
+          <option value="service">Service/Coaching</option>
+          <option value="physical">Physisch</option>
+          <option value="subscription">Abo</option>
+        </select>
+      </label>
+      <label style="font-size: 0.8rem; color: var(--hz-text-muted); display: flex; align-items: center; gap: 0.5rem;">
+        Aktiv:
+        <select id="filter-active" style="min-width: 120px;">
+          <option value="">alle</option>
+          <option value="true">nur aktive</option>
+          <option value="false">nur inaktive</option>
+        </select>
+      </label>
+      <label style="font-size: 0.8rem; color: var(--hz-text-muted); display: flex; align-items: center; gap: 0.5rem;">
+        Suche:
+        <input type="search" id="filter-search" placeholder="Name oder Slug…" style="min-width: 220px;">
+      </label>
+      <div class="hz-spacer"></div>
+      <span id="list-count" style="font-size: 0.75rem; color: var(--hz-text-dim);">—</span>
+    </div>
+  </div>
+
+  <!-- Liste -->
+  <div class="hz-card" style="padding: 0; overflow-x: auto;">
+    <table class="hz-table" id="products-table">
+      <thead>
+        <tr>
+          <th style="width: 48px;"></th>
+          <th>Name / Slug</th>
+          <th>Typ</th>
+          <th>Quelle</th>
+          <th>Kategorie</th>
+          <th class="right">Preis</th>
+          <th class="right">Klicks</th>
+          <th style="width: 80px; text-align: center;">Featured</th>
+          <th style="width: 70px; text-align: center;">Aktiv</th>
+          <th style="width: 160px; text-align: right;"></th>
+        </tr>
+      </thead>
+      <tbody id="products-tbody">
+        <tr><td colspan="10" style="padding: 3rem; text-align: center; color: var(--hz-text-muted);">Lade Produkte…</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Empty-State Hint -->
+  <div id="empty-hint" class="hz-card" style="display: none; padding: 2.5rem; text-align: center;">
+    <div style="font-size: 2.5rem; margin-bottom: 1rem;">🛍</div>
+    <h3 style="margin-bottom: 0.5rem;">Noch keine Produkte angelegt</h3>
+    <p style="color: var(--hz-text-muted); margin-bottom: 1.5rem; max-width: 500px; margin-left: auto; margin-right: auto;">
+      Leg als erstes dein wichtigstes Produkt an — z. B. das <strong>"Herzblatt-Methode"-E-Book</strong> (Digistore) oder einen <strong>Amazon-Partner-Link</strong> auf ein Beziehungs-Buch.
+    </p>
+    <button class="hz-btn primary" onclick="document.getElementById('new-product-btn').click()">+ Erstes Produkt anlegen</button>
+  </div>
+
+  <!-- Edit-Modal -->
+  <div id="edit-modal" style="display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.75); z-index: 1000; overflow-y: auto; padding: 2rem 1rem;">
+    <div class="hz-card" style="max-width: 780px; margin: 0 auto; padding: 2rem;">
+      <div class="hz-row" style="margin-bottom: 1rem;">
+        <h3 id="modal-title" style="margin: 0;">Produkt bearbeiten</h3>
+        <div class="hz-spacer"></div>
+        <button id="close-modal" type="button" style="background: none; border: 0; color: var(--hz-text-muted); font-size: 1.6rem; cursor: pointer; line-height: 1;">×</button>
+      </div>
+
+      <div class="hz-grid-2">
+        <div class="fg"><label>Slug *</label>
+          <input type="text" id="m-slug" pattern="[a-z0-9-]+" maxlength="80" placeholder="z.B. gottman-card-deck">
+          <small class="hint">Für URL und Tracking. a-z, 0-9, Bindestriche.</small>
+        </div>
+        <div class="fg"><label>Name *</label>
+          <input type="text" id="m-name" maxlength="200" placeholder="Gottman Gesprächskarten-Deck">
+        </div>
+      </div>
+
+      <div class="hz-grid-2">
+        <div class="fg"><label>Typ *</label>
+          <select id="m-type">
+            <option value="digital">Digitales Produkt (eigenes)</option>
+            <option value="affiliate">Affiliate-Produkt</option>
+            <option value="service">Service / Coaching</option>
+            <option value="physical">Physisches Produkt</option>
+            <option value="subscription">Abo / Membership</option>
+          </select>
+        </div>
+        <div class="fg"><label>Quelle / Netzwerk *</label>
+          <select id="m-source">
+            <option value="direct">Direkt</option>
+            <option value="digistore">Digistore24</option>
+            <option value="amazon">Amazon PartnerNet</option>
+            <option value="awin">Awin</option>
+            <option value="tradedoubler">Tradedoubler</option>
+            <option value="coaching">Coaching (intern)</option>
+            <option value="elopage">Elopage</option>
+            <option value="financeads">Financeads</option>
+            <option value="other">Sonstige</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="fg"><label>Kurzbeschreibung (≤500 Zeichen)</label>
+        <textarea id="m-shortDescription" rows="2" maxlength="500" placeholder="In einem Satz: was ist das Produkt und für wen?"></textarea>
+      </div>
+
+      <div class="fg"><label>Lange Beschreibung (optional, für Landing-Pages)</label>
+        <textarea id="m-longDescription" rows="4" maxlength="5000"></textarea>
+      </div>
+
+      <div class="hz-grid-2">
+        <div class="fg"><label>Kategorie</label>
+          <input type="text" id="m-category" maxlength="50" placeholder="z.B. dating-apps, books, coaching, ebooks">
+        </div>
+        <div class="fg"><label>Preis (in EUR, leer = kein Preis)</label>
+          <input type="number" id="m-price" min="0" max="99999" step="0.01" placeholder="19.99">
+        </div>
+      </div>
+
+      <div class="fg"><label>Affiliate-/Target-URL *</label>
+        <input type="url" id="m-targetUrl" maxlength="1000" placeholder="https://www.amazon.de/dp/B0123…?tag=deinAff-21">
+        <small class="hint">Finale URL mit Tracking-Parametern — wird beim Klick 1:1 geöffnet.</small>
+      </div>
+
+      <div class="hz-grid-2">
+        <div class="fg"><label>Tracking-Target</label>
+          <input type="text" id="m-trackingTarget" pattern="[a-z0-9-]+" maxlength="50" placeholder="Auto aus Slug (empfohlen)">
+          <small class="hint">Leer lassen → wird zu <code>product-&lt;slug&gt;</code>. Nur ändern wenn du weißt was du tust.</small>
+        </div>
+        <div class="fg"><label>CTA-Label</label>
+          <input type="text" id="m-ctaLabel" maxlength="60" placeholder="Jetzt ansehen">
+        </div>
+      </div>
+
+      <div class="hz-grid-2">
+        <div class="fg"><label>Bild-URL</label>
+          <input type="text" id="m-imageUrl" maxlength="500" placeholder="/images/products/xxx.webp oder https://…">
+        </div>
+        <div class="fg"><label>Bild-Alt-Text</label>
+          <input type="text" id="m-imageAlt" maxlength="300">
+        </div>
+      </div>
+
+      <div class="hz-grid-2">
+        <div class="fg"><label>Bewertung (0.0–5.0)</label>
+          <input type="text" id="m-rating" pattern="[0-5](\.\d)?" placeholder="4.5">
+        </div>
+        <div class="fg"><label>Badges (komma-getrennt, max 5)</label>
+          <input type="text" id="m-badges" placeholder="Bestseller, Empfehlung, -30%">
+        </div>
+      </div>
+
+      <div class="fg"><label>Sortier-Reihenfolge (kleinere Zahl = weiter oben)</label>
+        <input type="number" id="m-sortOrder" min="0" max="999999" value="100">
+      </div>
+
+      <div class="fg"><label>Interne Notiz (Provision, Cookie-Laufzeit, …)</label>
+        <textarea id="m-commissionNote" rows="2" maxlength="500" placeholder="Amazon 3%, Cookie 24h · ggf. Mindestumsatz"></textarea>
+      </div>
+
+      <div class="hz-row" style="gap: 1.5rem; padding: 0.75rem 0;">
+        <label style="display: flex; align-items: center; gap: 0.5rem; font-size: 0.85rem;">
+          <input type="checkbox" id="m-featured" style="width: auto;">
+          <span>Featured (hervorgehoben darstellen)</span>
+        </label>
+        <label style="display: flex; align-items: center; gap: 0.5rem; font-size: 0.85rem;">
+          <input type="checkbox" id="m-active" checked style="width: auto;">
+          <span>Aktiv (öffentlich anzeigen)</span>
+        </label>
+      </div>
+
+      <div id="m-error" style="display:none; color: var(--hz-danger); padding: 0.75rem; background: rgba(239,68,68,0.1); border: 1px solid rgba(239,68,68,0.3); border-radius: var(--hz-radius-sm); margin-bottom: 1rem; font-size: 0.85rem;"></div>
+      <div id="m-success" style="display:none; color: var(--hz-success); padding: 0.75rem; background: rgba(16,185,129,0.1); border: 1px solid rgba(16,185,129,0.3); border-radius: var(--hz-radius-sm); margin-bottom: 1rem; font-size: 0.85rem;"></div>
+
+      <div class="hz-row" style="gap: 0.5rem; margin-top: 1rem;">
+        <button id="save-btn" class="hz-btn primary" style="flex: 1;">Speichern</button>
+        <button id="delete-btn" class="hz-btn danger" style="display: none;">Löschen</button>
+        <button id="cancel-btn" class="hz-btn" type="button">Abbrechen</button>
+      </div>
+    </div>
+  </div>
+
+  <style>
+    .fg { margin-bottom: 0.85rem; }
+    .fg label { display: block; font-size: 0.78rem; color: var(--hz-text-muted); margin-bottom: 0.3rem; font-weight: 500; }
+    .fg input, .fg textarea, .fg select { width: 100%; }
+    .fg .hint { font-size: 0.7rem; color: var(--hz-text-dim); margin-top: 0.25rem; display: block; }
+
+    .hz-toggle {
+      display: inline-block; width: 34px; height: 20px; border-radius: 10px;
+      background: var(--hz-border-strong); position: relative; cursor: pointer;
+      transition: background 0.2s;
+    }
+    .hz-toggle::after {
+      content: ''; position: absolute; left: 2px; top: 2px;
+      width: 16px; height: 16px; border-radius: 50%;
+      background: var(--hz-text-dim); transition: all 0.2s;
+    }
+    .hz-toggle.on { background: rgba(16,185,129,0.25); }
+    .hz-toggle.on::after { left: 16px; background: var(--hz-success); }
+    .hz-toggle.on-star { background: rgba(245,158,11,0.25); }
+    .hz-toggle.on-star::after { left: 16px; background: var(--hz-warning); }
+
+    .product-thumb { width: 36px; height: 36px; border-radius: 6px; background: var(--hz-surface-2); object-fit: cover; display: block; }
+    .product-thumb-ph { width: 36px; height: 36px; border-radius: 6px; background: var(--hz-surface-2); display: flex; align-items: center; justify-content: center; color: var(--hz-text-dim); font-size: 0.8rem; }
+
+    .prod-name { font-weight: 600; }
+    .prod-slug { font-size: 0.72rem; color: var(--hz-text-dim); font-family: 'SF Mono', monospace; margin-top: 0.15rem; }
+  </style>
+
+  <script is:inline define:vars={{ typesJson, sourcesJson }}>
+    const TYPE_LABELS = JSON.parse(typesJson);
+    const SOURCE_LABELS = JSON.parse(sourcesJson);
+    const $ = (id) => document.getElementById(id);
+
+    let allProducts = [];
+    let editingSlug = null;
+    let isNew = false;
+
+    function fmtPrice(cents, currency) {
+      if (cents == null) return '—';
+      const v = cents / 100;
+      return v.toLocaleString('de-DE', { style: 'currency', currency: currency || 'EUR', maximumFractionDigits: 2 });
+    }
+
+    function esc(s) {
+      return String(s || '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+    }
+
+    async function load() {
+      try {
+        const res = await fetch('/api/herzraum/products');
+        const data = await res.json();
+        if (!data.ok) throw new Error(data.error || 'load failed');
+        allProducts = data.products || [];
+        renderKpis();
+        render();
+      } catch (err) {
+        $('products-tbody').innerHTML = '<tr><td colspan="10" style="padding: 2rem; color: var(--hz-danger); text-align: center;">Fehler: ' + esc(err.message) + '</td></tr>';
+      }
+    }
+
+    function renderKpis() {
+      const total = allProducts.length;
+      const active = allProducts.filter((p) => p.active).length;
+      const featured = allProducts.filter((p) => p.featured).length;
+      const clicks = allProducts.reduce((s, p) => s + (p.clicks || 0), 0);
+
+      $('kpi-total').textContent = total;
+      $('kpi-total-sub').textContent = total === 0 ? 'Leg dein erstes an' : total + ' angelegt';
+      $('kpi-active').textContent = active;
+      $('kpi-active-sub').textContent = active + ' / ' + total + ' sichtbar';
+      $('kpi-featured').textContent = featured;
+      $('kpi-clicks').textContent = clicks.toLocaleString('de-DE');
+    }
+
+    function render() {
+      const typeFilter = $('filter-type').value;
+      const activeFilter = $('filter-active').value;
+      const search = $('filter-search').value.trim().toLowerCase();
+
+      let filtered = allProducts;
+      if (typeFilter) filtered = filtered.filter((p) => p.type === typeFilter);
+      if (activeFilter === 'true') filtered = filtered.filter((p) => p.active);
+      if (activeFilter === 'false') filtered = filtered.filter((p) => !p.active);
+      if (search) filtered = filtered.filter((p) =>
+        p.name.toLowerCase().includes(search) || p.slug.toLowerCase().includes(search)
+      );
+
+      $('list-count').textContent = filtered.length + ' von ' + allProducts.length + ' angezeigt';
+
+      if (allProducts.length === 0) {
+        $('products-table').style.display = 'none';
+        $('empty-hint').style.display = 'block';
+        return;
+      }
+      $('products-table').style.display = '';
+      $('empty-hint').style.display = 'none';
+
+      if (filtered.length === 0) {
+        $('products-tbody').innerHTML = '<tr><td colspan="10" style="padding: 2rem; color: var(--hz-text-muted); text-align: center;">Keine Treffer für diesen Filter</td></tr>';
+        return;
+      }
+
+      $('products-tbody').innerHTML = filtered.map((p) => {
+        const thumb = p.imageUrl
+          ? '<img class="product-thumb" src="' + esc(p.imageUrl) + '" alt="" onerror="this.outerHTML=\'<div class=\\'product-thumb-ph\\'>🛍</div>\'">'
+          : '<div class="product-thumb-ph">🛍</div>';
+        return '<tr data-slug="' + esc(p.slug) + '">'
+          + '<td>' + thumb + '</td>'
+          + '<td><div class="prod-name">' + esc(p.name) + '</div><div class="prod-slug">' + esc(p.slug) + '</div></td>'
+          + '<td><span class="hz-badge muted">' + esc(TYPE_LABELS[p.type] || p.type) + '</span></td>'
+          + '<td>' + esc(SOURCE_LABELS[p.source] || p.source) + '</td>'
+          + '<td>' + (p.category ? esc(p.category) : '<span class="muted">—</span>') + '</td>'
+          + '<td class="right">' + fmtPrice(p.priceCents, p.currency) + '</td>'
+          + '<td class="right">' + (p.clicks || 0).toLocaleString('de-DE') + '</td>'
+          + '<td style="text-align: center;"><span class="hz-toggle ' + (p.featured ? 'on-star' : '') + '" data-toggle="featured" data-slug="' + esc(p.slug) + '" title="Featured"></span></td>'
+          + '<td style="text-align: center;"><span class="hz-toggle ' + (p.active ? 'on' : '') + '" data-toggle="active" data-slug="' + esc(p.slug) + '" title="Aktiv"></span></td>'
+          + '<td style="text-align: right;"><button class="hz-btn sm" data-edit="' + esc(p.slug) + '">Bearbeiten</button></td>'
+          + '</tr>';
+      }).join('');
+
+      document.querySelectorAll('[data-edit]').forEach((el) => {
+        el.addEventListener('click', () => openEdit(el.dataset.edit));
+      });
+      document.querySelectorAll('[data-toggle]').forEach((el) => {
+        el.addEventListener('click', () => toggle(el.dataset.slug, el.dataset.toggle));
+      });
+    }
+
+    async function toggle(slug, which) {
+      const endpoint = which === 'featured' ? 'toggle-featured' : 'toggle-active';
+      try {
+        const res = await fetch('/api/herzraum/products/' + encodeURIComponent(slug) + '/' + endpoint, { method: 'POST' });
+        const data = await res.json();
+        if (data.ok) {
+          const p = allProducts.find((x) => x.slug === slug);
+          if (p) {
+            if (which === 'featured') p.featured = data.featured;
+            else p.active = data.active;
+            renderKpis();
+            render();
+          }
+        } else {
+          alert('Fehler: ' + (data.error || 'unknown'));
+        }
+      } catch (e) {
+        alert('Netzwerk-Fehler: ' + e.message);
+      }
+    }
+
+    function openNew() {
+      isNew = true;
+      editingSlug = null;
+      $('modal-title').textContent = '🆕 Neues Produkt';
+      [
+        'm-slug','m-name','m-shortDescription','m-longDescription','m-category',
+        'm-price','m-targetUrl','m-trackingTarget','m-imageUrl','m-imageAlt',
+        'm-rating','m-badges','m-commissionNote'
+      ].forEach(id => $(id).value = '');
+      $('m-type').value = 'affiliate';
+      $('m-source').value = 'direct';
+      $('m-ctaLabel').value = 'Jetzt ansehen';
+      $('m-sortOrder').value = 100;
+      $('m-slug').disabled = false;
+      $('m-featured').checked = false;
+      $('m-active').checked = true;
+      $('m-error').style.display = 'none';
+      $('m-success').style.display = 'none';
+      $('delete-btn').style.display = 'none';
+      $('edit-modal').style.display = 'block';
+      setTimeout(() => $('m-slug').focus(), 100);
+    }
+
+    function openEdit(slug) {
+      const p = allProducts.find((x) => x.slug === slug);
+      if (!p) return;
+      isNew = false;
+      editingSlug = slug;
+      $('modal-title').textContent = 'Bearbeiten: ' + p.name;
+      $('m-slug').value = p.slug;
+      $('m-slug').disabled = true;
+      $('m-name').value = p.name;
+      $('m-type').value = p.type;
+      $('m-source').value = p.source;
+      $('m-shortDescription').value = p.shortDescription || '';
+      $('m-longDescription').value = p.longDescription || '';
+      $('m-category').value = p.category || '';
+      $('m-price').value = p.priceCents != null ? (p.priceCents / 100).toFixed(2) : '';
+      $('m-targetUrl').value = p.targetUrl;
+      $('m-trackingTarget').value = p.trackingTarget || '';
+      $('m-ctaLabel').value = p.ctaLabel || 'Jetzt ansehen';
+      $('m-imageUrl').value = p.imageUrl || '';
+      $('m-imageAlt').value = p.imageAlt || '';
+      $('m-rating').value = p.rating || '';
+      $('m-badges').value = (p.badges || []).join(', ');
+      $('m-commissionNote').value = p.commissionNote || '';
+      $('m-sortOrder').value = p.sortOrder || 100;
+      $('m-featured').checked = !!p.featured;
+      $('m-active').checked = !!p.active;
+      $('m-error').style.display = 'none';
+      $('m-success').style.display = 'none';
+      $('delete-btn').style.display = '';
+      $('edit-modal').style.display = 'block';
+    }
+
+    function closeModal() { $('edit-modal').style.display = 'none'; }
+
+    $('new-product-btn').addEventListener('click', openNew);
+    $('close-modal').addEventListener('click', closeModal);
+    $('cancel-btn').addEventListener('click', closeModal);
+    $('filter-type').addEventListener('change', render);
+    $('filter-active').addEventListener('change', render);
+    $('filter-search').addEventListener('input', render);
+
+    // Auto-slug from name
+    $('m-name').addEventListener('input', () => {
+      if (!isNew || $('m-slug').dataset.touched) return;
+      const s = $('m-name').value.toLowerCase()
+        .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')
+        .replace(/[^a-z0-9-]+/g, '-').replace(/^-+|-+$/g, '').replace(/-+/g, '-').slice(0, 80);
+      $('m-slug').value = s;
+    });
+    $('m-slug').addEventListener('input', () => { $('m-slug').dataset.touched = '1'; });
+
+    $('save-btn').addEventListener('click', async () => {
+      const err = $('m-error'); const ok = $('m-success');
+      err.style.display = 'none'; ok.style.display = 'none';
+
+      const badges = $('m-badges').value.split(',').map((b) => b.trim()).filter(Boolean).slice(0, 5);
+      const priceStr = $('m-price').value.trim();
+      const priceCents = priceStr ? Math.round(parseFloat(priceStr) * 100) : null;
+
+      const body = {
+        name: $('m-name').value.trim(),
+        type: $('m-type').value,
+        source: $('m-source').value,
+        shortDescription: $('m-shortDescription').value.trim() || null,
+        longDescription: $('m-longDescription').value.trim() || null,
+        category: $('m-category').value.trim() || null,
+        priceCents,
+        currency: 'EUR',
+        targetUrl: $('m-targetUrl').value.trim(),
+        ctaLabel: $('m-ctaLabel').value.trim() || 'Jetzt ansehen',
+        imageUrl: $('m-imageUrl').value.trim() || null,
+        imageAlt: $('m-imageAlt').value.trim() || null,
+        rating: $('m-rating').value.trim() || null,
+        badges: badges.length ? badges : undefined,
+        commissionNote: $('m-commissionNote').value.trim() || null,
+        sortOrder: parseInt($('m-sortOrder').value, 10) || 100,
+        featured: $('m-featured').checked,
+        active: $('m-active').checked,
+      };
+
+      const trackingTarget = $('m-trackingTarget').value.trim();
+      if (trackingTarget) body.trackingTarget = trackingTarget;
+
+      if (isNew) {
+        body.slug = $('m-slug').value.trim();
+      }
+
+      const btn = $('save-btn'); btn.disabled = true; btn.textContent = 'Speichere…';
+      try {
+        const url = isNew ? '/api/herzraum/products' : '/api/herzraum/products/' + encodeURIComponent(editingSlug);
+        const method = isNew ? 'POST' : 'PATCH';
+        const res = await fetch(url, {
+          method,
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(body),
+        });
+        const data = await res.json();
+        if (data.ok) {
+          ok.textContent = '✓ Gespeichert';
+          ok.style.display = 'block';
+          setTimeout(() => { closeModal(); load(); }, 800);
+        } else {
+          err.innerHTML = 'Fehler: ' + esc(data.error || 'unknown') +
+            (data.issues ? '<br><code style="font-size: 0.7rem; padding: 0.25rem; display: inline-block;">' + esc(JSON.stringify(data.issues.fieldErrors || data.issues)) + '</code>' : '');
+          err.style.display = 'block';
+        }
+      } catch (e) {
+        err.textContent = 'Netzwerk: ' + e.message;
+        err.style.display = 'block';
+      } finally {
+        btn.disabled = false; btn.textContent = 'Speichern';
+      }
+    });
+
+    $('delete-btn').addEventListener('click', async () => {
+      if (!editingSlug) return;
+      if (!confirm('"' + editingSlug + '" wirklich löschen?\n\nAchtung: Klick-Historie in clicks-Tabelle bleibt erhalten.')) return;
+      const btn = $('delete-btn'); btn.disabled = true; btn.textContent = 'Lösche…';
+      try {
+        const res = await fetch('/api/herzraum/products/' + encodeURIComponent(editingSlug), { method: 'DELETE' });
+        const data = await res.json();
+        if (data.ok) {
+          closeModal();
+          load();
+        } else {
+          alert('Fehler: ' + (data.error || 'unknown'));
+        }
+      } catch (e) {
+        alert('Netzwerk: ' + e.message);
+      } finally {
+        btn.disabled = false; btn.textContent = 'Löschen';
+      }
+    });
+
+    load();
+  </script>
+</HerzraumLayout>

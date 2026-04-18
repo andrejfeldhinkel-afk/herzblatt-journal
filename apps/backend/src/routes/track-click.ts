@@ -1,11 +1,14 @@
 import { Hono } from 'hono';
 import { db, schema } from '../db/index.js';
+import { eq } from 'drizzle-orm';
 import { getClientIp, hashIp } from '../lib/crypto.js';
 import { allowPublicApi } from '../lib/rate-limit.js';
 
 const app = new Hono();
 
-// Whitelist von erlaubten Affiliate-Targets — gleich wie Frontend-Version
+// Whitelist von erlaubten Affiliate-Targets — gleich wie Frontend-Version.
+// Produkt-Targets (Präfix 'product-') werden dynamisch gegen die products-Tabelle
+// geprüft (siehe isProductTarget unten) — so entfällt hier die Pflege.
 const ALLOWED_TARGETS = new Set([
   'xloves', 'michverlieben', 'whatsmeet', 'onlydates69', 'singles69', 'singlescout',
   'iloves', 'sex69',
@@ -16,6 +19,37 @@ const ALLOWED_TARGETS = new Set([
   // Eigene Produkte (Conversion-Funnel-Tracking)
   'ebook-buy', 'ebook-waitlist',
 ]);
+
+// Prüft ob target ein dynamisch registriertes Produkt ist (products.tracking_target).
+// Positive Results werden 30s gecached um DB-Roundtrips zu sparen.
+const productTargetCache = new Map<string, number>(); // target -> expiresAt (ms)
+const PRODUCT_CACHE_TTL_MS = 30_000;
+
+async function isProductTarget(target: string): Promise<boolean> {
+  if (!target.startsWith('product-')) return false;
+  const now = Date.now();
+  const cached = productTargetCache.get(target);
+  if (cached && cached > now) return true;
+  try {
+    const [row] = await db
+      .select({ id: schema.products.id })
+      .from(schema.products)
+      .where(eq(schema.products.trackingTarget, target))
+      .limit(1);
+    if (row) {
+      productTargetCache.set(target, now + PRODUCT_CACHE_TTL_MS);
+      // Cache-Size-Cap um Memory-Leak zu vermeiden
+      if (productTargetCache.size > 500) {
+        const firstKey = productTargetCache.keys().next().value;
+        if (firstKey) productTargetCache.delete(firstKey);
+      }
+      return true;
+    }
+  } catch (err) {
+    console.error('[track-click] product-target DB error:', err);
+  }
+  return false;
+}
 
 const TARGET_REGEX = /^[a-z0-9-]+$/;
 
@@ -55,13 +89,19 @@ app.post('/', async (c) => {
     return c.json({ error: 'invalid-target' }, 400);
   }
 
-  // Unbekannte targets werden still ignoriert (nicht als Fehler)
+  // Unbekannte targets werden still ignoriert (nicht als Fehler).
+  // Produkt-Targets (product-<slug>) dynamisch gegen products-Tabelle prüfen.
   if (!ALLOWED_TARGETS.has(target)) {
-    return c.json({ ok: true, ignored: true });
+    const isProduct = await isProductTarget(target);
+    if (!isProduct) {
+      return c.json({ ok: true, ignored: true });
+    }
   }
 
   const source = sanitizePath(body?.source || c.req.header('referer'));
-  const type = typeof body?.event === 'string' ? body.event.slice(0, 40) : 'affiliate';
+  // Für product-Klicks: event-Typ defaultet auf 'product' statt 'affiliate' (besseres Grouping).
+  const defaultType = target.startsWith('product-') ? 'product' : 'affiliate';
+  const type = typeof body?.event === 'string' ? body.event.slice(0, 40) : defaultType;
 
   try {
     await db.insert(schema.clicks).values({
