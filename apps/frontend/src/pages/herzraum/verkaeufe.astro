@@ -1,0 +1,128 @@
+---
+export const prerender = false;
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+---
+<HerzraumLayout title="Verkäufe" active="verkaeufe">
+
+  <section class="hz-kpi-grid">
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Käufe gesamt</div>
+      <div class="hz-kpi-value" data-kpi="p.total">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Umsatz brutto</div>
+      <div class="hz-kpi-value" data-kpi="p.revenue">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Erstattungen</div>
+      <div class="hz-kpi-value" data-kpi="p.refunded">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Chargebacks</div>
+      <div class="hz-kpi-value" data-kpi="p.chargeback">—</div>
+    </div>
+  </section>
+
+  <div class="hz-card">
+    <div class="hz-row" style="margin-bottom: 0.75rem;">
+      <h3 style="margin: 0;">Alle Verkäufe</h3>
+      <div class="hz-spacer"></div>
+      <span class="hz-badge muted" id="p-last-sync">—</span>
+    </div>
+    <p style="font-size: 0.8rem; color: var(--hz-text-muted); margin-bottom: 0.75rem;">
+      Zeigt die letzten 100 Käufe aus der <code>purchases</code>-Tabelle.
+      Neu-Eintrag wenn Digistore24-IPN auf <code>/digistore-ipn</code> trifft.
+    </p>
+    <div style="overflow-x: auto; max-height: 560px; overflow-y: auto;">
+      <table class="hz-table" id="table-p">
+        <thead>
+          <tr>
+            <th>Datum</th>
+            <th>E-Mail</th>
+            <th>Produkt</th>
+            <th style="text-align: right;">Betrag</th>
+            <th>Status</th>
+            <th>Order-ID</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td colspan="6" class="muted">Lade…</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="hz-card" style="margin-top: 1rem;">
+    <h3>💡 Setup-Hinweis</h3>
+    <p style="font-size: 0.9rem; color: var(--hz-text-muted); line-height: 1.6;">
+      Die Tabelle bleibt leer, bis ein Digistore24-Produkt konfiguriert ist.
+      In Digistore24 unter <strong>Produkt → Connect an external service</strong>
+      die Webhook-URL setzen:<br>
+      <code style="background: var(--hz-bg); padding: 0.2rem 0.4rem; border-radius: 0.25rem;">
+        https://backend-production-c327.up.railway.app/digistore-ipn
+      </code><br>
+      Und <code>DIGISTORE_IPN_PASSPHRASE</code> als Railway-Backend-Env setzen
+      (gleicher Wert wie im Digistore-Account).
+    </p>
+  </div>
+
+  <script is:inline>
+    (function() {
+      function fmtEUR(cents) {
+        return ((cents || 0) / 100).toLocaleString('de-DE', {
+          style: 'currency', currency: 'EUR', minimumFractionDigits: 2,
+        });
+      }
+      function setKpi(p, v) {
+        document.querySelectorAll('[data-kpi="'+p+'"]').forEach(el => el.textContent = v);
+      }
+
+      async function load() {
+        try {
+          const res = await fetch('/api/herzraum/purchases?limit=100');
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          const data = await res.json();
+
+          setKpi('p.total', (data.total || 0).toLocaleString('de-DE'));
+          setKpi('p.revenue', fmtEUR(data.revenue_cents?.paid || 0));
+          setKpi('p.refunded', (data.refunded || 0).toLocaleString('de-DE'));
+          setKpi('p.chargeback', (data.chargeback || 0).toLocaleString('de-DE'));
+
+          const tbody = document.querySelector('#table-p tbody');
+          const items = data.items || [];
+          if (items.length === 0) {
+            tbody.innerHTML = '<tr><td colspan="6" class="muted">Noch keine Verkäufe. Sobald der erste Kauf über Digistore24 reinkommt, erscheint er hier.</td></tr>';
+          } else {
+            tbody.innerHTML = items.map(p => {
+              const ts = p.createdAt ? new Date(p.createdAt).toLocaleString('de-DE', {
+                day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit',
+              }) : '—';
+              const statusColor = p.status === 'paid' ? 'success'
+                : p.status === 'refunded' ? 'warning'
+                : p.status === 'chargeback' ? 'danger'
+                : 'muted';
+              const amount = fmtEUR(p.amountCents);
+              return '<tr>' +
+                '<td class="muted">' + ts + '</td>' +
+                '<td>' + p.email + '</td>' +
+                '<td>' + (p.product || '—') + '</td>' +
+                '<td style="text-align: right; font-variant-numeric: tabular-nums;">' + amount + '</td>' +
+                '<td><span class="hz-badge ' + statusColor + '">' + p.status + '</span></td>' +
+                '<td class="muted" style="font-family: monospace; font-size: 0.8rem;">' + (p.orderId || '') + '</td>' +
+                '</tr>';
+            }).join('');
+          }
+
+          document.getElementById('p-last-sync').textContent = 'Zuletzt geladen: ' +
+            new Date().toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+        } catch (err) {
+          const tbody = document.querySelector('#table-p tbody');
+          tbody.innerHTML = '<tr><td colspan="6" class="muted" style="color: #ef4444;">Fehler: ' + err.message + '</td></tr>';
+        }
+      }
+      load();
+      // Auto-refresh alle 30s
+      setInterval(load, 30_000);
+    })();
+  </script>
+</HerzraumLayout>

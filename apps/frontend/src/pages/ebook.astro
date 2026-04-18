@@ -4,6 +4,11 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 const title = "Die Herzblatt-Methode — Der komplette Kurs für erfüllte Liebe | 89,99€";
 const description = "Die Herzblatt-Methode: 200+ Seiten Hauptbuch, 5 Bonus-Materialien, lebenslange Updates. Das komplette System für ein erfülltes Liebesleben — wissenschaftsfundiert, sofort umsetzbar.";
 
+// Optional: Digistore24 Buy-URL. Wenn gesetzt → direkter Kauf-Button statt Warteliste.
+// Setze in Railway-Frontend-Env: DIGISTORE_BUY_URL=https://www.digistore24.com/product/...
+const buyUrl = (import.meta.env.DIGISTORE_BUY_URL || process.env.DIGISTORE_BUY_URL || '').trim();
+const hasLiveCheckout = buyUrl.length > 0;
+
 // 15 Kapitel des Hauptbuchs
 const chapters = [
   { num: '01', title: 'Selbstkenntnis: Wer bist du — und was willst du wirklich?', desc: 'Die 30-Fragen-Werteanalyse und warum 80 % aller Dating-Fehler aus unklarer Selbstwahrnehmung entstehen.' },
@@ -425,18 +430,35 @@ const faqs = [
         </div>
         <p class="text-sm opacity-80 mb-6">einmalige Zahlung · lebenslanger Zugang · 30 Tage Rückgabe</p>
 
-        <!-- Warteliste-Form (Platzhalter für Checkout) -->
-        <form id="preorder-form" class="space-y-3">
-          <input type="email" placeholder="Deine E-Mail-Adresse" required
-                 class="w-full px-5 py-4 rounded-full text-sm border-0 outline-none font-medium"
-                 style="background: white; color: #1e293b;"/>
-          <button type="submit" class="w-full px-6 py-4 rounded-full text-base font-bold transition-all hover:shadow-xl hover:-translate-y-0.5" style="background: #1e293b; color: white;">
-            Jetzt Zugang sichern — 89,99 €
-          </button>
-        </form>
-        <p class="text-xs opacity-70 mt-4">
-          Mit deinem Klick sicherst du dir Frühzugang.<br/>Du erhältst die Zahlungs- und Download-Details per E-Mail.
-        </p>
+        {hasLiveCheckout ? (
+          <>
+            <a href={buyUrl}
+               data-track-buy="ebook"
+               class="w-full inline-flex items-center justify-center gap-2 px-6 py-4 rounded-full text-base font-bold transition-all hover:shadow-xl hover:-translate-y-0.5"
+               style="background: #1e293b; color: white; text-decoration: none;">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              Jetzt kaufen — 89,99 €
+            </a>
+            <p class="text-xs opacity-70 mt-4">
+              Sichere Zahlung über Digistore24 · 30 Tage Geld-zurück-Garantie<br/>Sofortiger Download nach Kauf.
+            </p>
+          </>
+        ) : (
+          <>
+            <!-- Warteliste-Form (Platzhalter für Checkout) -->
+            <form id="preorder-form" class="space-y-3">
+              <input type="email" placeholder="Deine E-Mail-Adresse" required
+                     class="w-full px-5 py-4 rounded-full text-sm border-0 outline-none font-medium"
+                     style="background: white; color: #1e293b;"/>
+              <button type="submit" class="w-full px-6 py-4 rounded-full text-base font-bold transition-all hover:shadow-xl hover:-translate-y-0.5" style="background: #1e293b; color: white;">
+                Jetzt Zugang sichern — 89,99 €
+              </button>
+            </form>
+            <p class="text-xs opacity-70 mt-4">
+              Mit deinem Klick sicherst du dir Frühzugang.<br/>Du erhältst die Zahlungs- und Download-Details per E-Mail.
+            </p>
+          </>
+        )}
       </div>
 
       <div class="flex flex-wrap items-center justify-center gap-5 text-sm opacity-80">
