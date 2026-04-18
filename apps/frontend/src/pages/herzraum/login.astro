@@ -2,7 +2,8 @@
 export const prerender = false;
 
 // Wenn bereits eingeloggt → direkt weiter zum Dashboard (via Backend-Verify)
-const BACKEND_URL = (import.meta.env.BACKEND_URL || process.env.BACKEND_URL || 'http://localhost:3001').replace(/\/$/, '');
+const PROD_BACKEND = 'https://backend-production-c327.up.railway.app';
+const BACKEND_URL = (import.meta.env.BACKEND_URL || process.env.BACKEND_URL || PROD_BACKEND).replace(/\/$/, '');
 const cookieHeader = Astro.request.headers.get('cookie') || '';
 if (cookieHeader.includes('hz_session=')) {
   try {
