@@ -35,6 +35,11 @@ const articleCount = blog.length;
       <div class="hz-kpi-label">Affiliate-Klicks heute</div>
       <div class="hz-kpi-value" data-kpi="clicks.today">—</div>
     </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Produkte aktiv</div>
+      <div class="hz-kpi-value" id="kpi-products-active">—</div>
+      <div class="hz-kpi-delta flat" id="kpi-products-sub">—</div>
+    </div>
   </section>
 
   <div class="hz-card">
@@ -130,6 +135,21 @@ const articleCount = blog.length;
         });
       }
 
+      async function loadProducts() {
+        try {
+          const res = await fetch('/api/herzraum/products');
+          const data = await res.json();
+          if (!data.ok) return;
+          const prods = data.products || [];
+          const active = prods.filter((p) => p.active).length;
+          const totalClicks = prods.reduce((s, p) => s + (p.clicks || 0), 0);
+          const el = document.getElementById('kpi-products-active');
+          const sub = document.getElementById('kpi-products-sub');
+          if (el) el.textContent = active.toLocaleString('de-DE');
+          if (sub) sub.textContent = totalClicks > 0 ? (totalClicks.toLocaleString('de-DE') + ' Klicks gesamt') : ((prods.length - active) + ' inaktiv');
+        } catch (e) { /* silent */ }
+      }
+
       async function load() {
         try {
           const res = await fetch(BASE + '?range=30d');
@@ -142,6 +162,9 @@ const articleCount = blog.length;
           setKpi('newsletter.total', d.kpis.newsletter.total);
           setKpi('registrations.total', d.kpis.registrations.total);
           setKpi('clicks.today', d.kpis.clicks.today);
+
+          // Products-KPI parallel
+          loadProducts();
 
           // DEFENSIV: Tabellen ZUERST (damit Chart-Fehler die Daten nicht killt)
           renderTable('table-top-articles',
