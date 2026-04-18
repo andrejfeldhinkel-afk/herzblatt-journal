@@ -39,6 +39,15 @@ const authorsArr = Object.values(authors).map((a) => ({ slug: a.slug, name: a.na
         <div class="fg"><label>Bild-Alt</label><input type="text" id="f-imageAlt"></div>
         <div class="fg"><label><input type="checkbox" id="f-featured"> Featured</label></div>
 
+        <h4 style="margin-top: 1rem;">Produkte (am Ende des Artikels)</h4>
+        <p style="color: var(--hz-text-muted); font-size: 0.72rem; margin: 0 0 0.35rem 0;">
+          Max 8. Anlegen unter <a href="/herzraum/produkte" target="_blank" style="color: var(--hz-primary);">Produkte-Admin</a>.
+        </p>
+        <div id="products-picker" style="padding: 0.5rem; border: 1px solid var(--hz-border); border-radius: var(--hz-radius-sm); background: var(--hz-bg-2); min-height: 50px; font-size: 0.82rem;">
+          <div style="color: var(--hz-text-muted); padding: 0.35rem;">Lade Produkte…</div>
+        </div>
+        <div id="products-selected" style="margin-top: 0.35rem; display: flex; flex-wrap: wrap; gap: 0.3rem;"></div>
+
         <h3 style="margin-top: 1.5rem;">Body (Markdown)</h3>
         <div class="fg">
           <textarea id="f-body" rows="25" style="font-family: monospace; font-size: 0.8rem;"></textarea>
@@ -70,34 +79,120 @@ const authorsArr = Object.values(authors).map((a) => ({ slug: a.slug, name: a.na
   <script is:inline define:vars={{ slug }}>
     const $ = (id) => document.getElementById(id);
     let fileSha = null;
+    let loadedFaq = [];  // Preserve across edit — Bugfix: faq wurde vorher beim Save auf [] gesetzt
+    let availableProducts = [];
+    let selectedProductSlugs = [];
 
     function parseFM(raw) {
       const fm = {};
       const lines = raw.split('\n');
       let inArr = null; const arrBuf = [];
+      let inFaq = false; const faqBuf = []; let currentFaq = null;
       for (const line of lines) {
+        // FAQ-Block: "  - question:" / "    answer:"
+        if (inFaq) {
+          const qm = line.match(/^\s{2}-\s+question:\s*(.*)$/);
+          const am = line.match(/^\s{4}answer:\s*(.*)$/);
+          if (qm) {
+            if (currentFaq) faqBuf.push(currentFaq);
+            currentFaq = { question: unquote(qm[1]), answer: '' };
+            continue;
+          }
+          if (am && currentFaq) {
+            currentFaq.answer = unquote(am[1]);
+            continue;
+          }
+          // Ende faq-block wenn neue top-level-key
+          if (/^[a-zA-Z]/.test(line)) {
+            if (currentFaq) { faqBuf.push(currentFaq); currentFaq = null; }
+            inFaq = false;
+            // fällt weiter unten rein
+          } else {
+            continue;
+          }
+        }
         const m = line.match(/^([a-zA-Z]+):\s*(.*)$/);
         if (m) {
           if (inArr) { fm[inArr] = arrBuf.slice(); arrBuf.length = 0; }
           inArr = null;
           const k = m[1]; const v = m[2].trim();
+          if (k === 'faq' && v === '') {
+            inFaq = true;
+            continue;
+          }
           if (v === '') { inArr = k; continue; }
           if (v === 'true') fm[k] = true;
           else if (v === 'false') fm[k] = false;
           else if (/^\d{4}-\d{2}-\d{2}/.test(v)) fm[k] = v.slice(0,10);
-          else if (v.startsWith('"')) fm[k] = v.replace(/^"|"$/g,'').replace(/\\"/g,'"').replace(/\\\\/g,'\\');
+          else if (v.startsWith('"')) fm[k] = unquote(v);
           else fm[k] = v;
         } else if (inArr && /^\s*-\s*/.test(line)) {
           const v = line.replace(/^\s*-\s*/,'').trim();
-          arrBuf.push(v.startsWith('"') ? v.replace(/^"|"$/g,'').replace(/\\"/g,'"') : v);
+          arrBuf.push(v.startsWith('"') ? unquote(v) : v);
         }
       }
       if (inArr) fm[inArr] = arrBuf.slice();
+      if (currentFaq) faqBuf.push(currentFaq);
+      if (faqBuf.length > 0) fm.faq = faqBuf;
       return fm;
+    }
+
+    function unquote(s) {
+      return String(s).replace(/^"|"$/g,'').replace(/\\"/g,'"').replace(/\\\\/g,'\\');
+    }
+
+    async function loadProducts() {
+      try {
+        const res = await fetch('/api/herzraum/products');
+        const data = await res.json();
+        if (!data.ok) throw new Error(data.error);
+        availableProducts = (data.products || []).filter((p) => p.active);
+        renderProductPicker();
+      } catch (err) {
+        $('products-picker').innerHTML = '<div style="color: var(--hz-danger); padding: 0.35rem; font-size: 0.78rem;">Fehler: ' + (err.message || 'unknown') + '</div>';
+      }
+    }
+
+    function renderProductPicker() {
+      if (availableProducts.length === 0) {
+        $('products-picker').innerHTML = '<div style="padding: 0.35rem; color: var(--hz-text-muted); font-size: 0.78rem;">Keine Produkte. <a href="/herzraum/produkte" target="_blank" style="color: var(--hz-primary);">Anlegen →</a></div>';
+        return;
+      }
+      $('products-picker').innerHTML = availableProducts.map((p) => {
+        const isSel = selectedProductSlugs.includes(p.slug);
+        return '<label style="display: flex; align-items: center; gap: 0.4rem; padding: 0.25rem 0.4rem; cursor: pointer; border-radius: 4px;' + (isSel ? ' background: rgba(244,63,94,0.08);' : '') + '">'
+          + '<input type="checkbox" data-product-slug="' + p.slug + '" ' + (isSel ? 'checked' : '') + ' style="width: auto;">'
+          + '<span style="font-size: 0.8rem;"><strong>' + p.name + '</strong> <code style="font-size: 0.7rem;">' + p.slug + '</code></span>'
+          + '</label>';
+      }).join('');
+      document.querySelectorAll('#products-picker input[type="checkbox"]').forEach((cb) => {
+        cb.addEventListener('change', () => {
+          const slug = cb.dataset.productSlug;
+          if (cb.checked) {
+            if (selectedProductSlugs.length >= 8) { cb.checked = false; alert('Max 8.'); return; }
+            if (!selectedProductSlugs.includes(slug)) selectedProductSlugs.push(slug);
+          } else {
+            selectedProductSlugs = selectedProductSlugs.filter((s) => s !== slug);
+          }
+          renderSelectedProducts();
+          renderProductPicker();
+          updatePreview();
+        });
+      });
+    }
+
+    function renderSelectedProducts() {
+      if (selectedProductSlugs.length === 0) { $('products-selected').innerHTML = ''; return; }
+      $('products-selected').innerHTML = selectedProductSlugs.map((s, i) =>
+        '<span class="hz-badge info" style="font-size: 0.7rem;">' + (i + 1) + '. ' + s + '</span>'
+      ).join('');
     }
 
     async function load() {
       try {
+        // Products parallel laden
+        loadProducts();
+
         const res = await fetch('/api/herzraum/articles/' + encodeURIComponent(slug));
         if (!res.ok) throw new Error('HTTP '+res.status);
         const data = await res.json();
@@ -114,6 +209,12 @@ const authorsArr = Object.values(authors).map((a) => ({ slug: a.slug, name: a.na
         $('f-imageAlt').value = fm.imageAlt || '';
         $('f-featured').checked = !!fm.featured;
         $('f-body').value = data.body || '';
+        // Preserve existing faq (bugfix!) + products
+        loadedFaq = Array.isArray(fm.faq) ? fm.faq : [];
+        selectedProductSlugs = Array.isArray(fm.products) ? fm.products.slice(0, 8) : [];
+        renderSelectedProducts();
+        // Re-render picker if products already loaded
+        if (availableProducts.length > 0) renderProductPicker();
         $('loading').style.display = 'none';
         $('edit-form').style.display = 'grid';
         updatePreview();
@@ -131,6 +232,14 @@ const authorsArr = Object.values(authors).map((a) => ({ slug: a.slug, name: a.na
       if (tags.length) fm += 'tags:\n'+tags.map(t=>'  - '+esc(t)).join('\n')+'\n';
       if ($('f-image').value) fm += 'image: '+esc($('f-image').value)+'\n';
       if ($('f-featured').checked) fm += 'featured: true\n';
+      if (loadedFaq.length > 0) {
+        fm += 'faq:\n';
+        loadedFaq.forEach(f => { fm += '  - question: '+esc(f.question)+'\n    answer: '+esc(f.answer)+'\n'; });
+      }
+      if (selectedProductSlugs.length > 0) {
+        fm += 'products:\n';
+        selectedProductSlugs.forEach(s => { fm += '  - '+esc(s)+'\n'; });
+      }
       fm += '---\n\n';
       $('preview').textContent = fm + body;
       const words = body.replace(/[#*\-`\[\]()_]/g,' ').split(/\s+/).filter(Boolean).length;
@@ -156,7 +265,8 @@ const authorsArr = Object.values(authors).map((a) => ({ slug: a.slug, name: a.na
         author: $('f-author').value,
         image: $('f-image').value.trim() || undefined,
         imageAlt: $('f-imageAlt').value.trim() || undefined,
-        faq: [],
+        faq: loadedFaq,
+        products: selectedProductSlugs,
       };
       const btn = $('submit-btn'); btn.disabled = true; btn.textContent = 'Commite…';
       try {
