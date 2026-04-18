@@ -421,9 +421,19 @@ scripts/smoke-test.sh            ← 19-Test-Suite für Prod
 docs/plans/2026-04-18-PHASE-2-STATUS.md  ← dieses Dokument
 ```
 
-## 📝 COMMITS
+## 📝 COMMITS (diese Session, chronologisch)
 
 ```
+230345a feat: Unsubscribe-Flow mit HMAC-Token + RFC8058 One-Click-Header
+226075d feat(admin): GDPR-Delete/Export + CSV-Export für Purchases
+58fc389 feat(tracking): ebook-buy + ebook-waitlist als Click-Targets
+d843c81 feat(frontend): Verkäufe-Tab im Herzraum + Digistore-Buy-Button
+d8892e2 test(backend): 12 Unit-Tests für crypto.hashIp + getClientIp
+ff013cc test(backend): 10 Unit-Tests für verifyDigistoreSignature
+58fa54b docs: GH-Actions-Workflow-YAMLs + Purchases-Endpoint in Status-Doc
+c276a12 feat(herzraum): purchases endpoint + frontend proxy
+3cbdce5 docs(plans): Phase 2 status + Klick-Guide für User
+ce8025c chore: force railway deploy attempt #3
 cf9f5cb fix(backend): non-blocking startup migrations
 ea4a8f5 chore: trigger Railway rebuild
 6cdc7b2 feat: SendGrid + Admin-Metrics + Backup + Digistore24-Webhook
@@ -433,11 +443,97 @@ f0b012e feat(observability): Sentry integration + Cron-Cleanup-Endpoint
 
 ---
 
-## 🚧 NOCH OFFEN (für später)
+## 🆕 ZUSÄTZLICH in zweiter autonomer Session gebaut
 
-- Frontend E-Book-Page Kauf-Button mit D24-Produkt-Link verdrahten (wenn Produkt live ist)
+### Herzraum-Dashboard
+- **Neue Seite `/herzraum/verkaeufe`** — Live-KPIs + Tabelle + Auto-Refresh 30s
+- Euro-Icon + Nav-Eintrag im HerzraumLayout
+- Setup-Hinweis-Card für Digistore24-Config
+
+### E-Book-Page
+- **Bedingter Buy-Button** — wenn `DIGISTORE_BUY_URL` env gesetzt ist, wechselt
+  von Warteliste-Form zu direktem D24-Kauf-Link
+- Click-Tracking via `sendBeacon` (überlebt Weiterleitung zu D24)
+- Waitlist trackt Conversion-Event nach Newsletter-Success
+
+### Admin-Endpoints (alle Bearer-ADMIN_TOKEN)
+- **`/admin/gdpr/delete`** — DSGVO-Delete (hart für Subscribers/Registrations,
+  anonymisiert Purchases wegen HGB §257 10-Jahres-Pflicht)
+- **`/admin/gdpr/export`** — Art. 15 DSGVO Auskunft (JSON alle Daten zu email)
+- **`/admin/purchases.csv`** — CSV für Steuerberater/Buchhaltung
+
+### Public-Endpoints
+- **`/unsubscribe`** (GET HTML + POST JSON) mit HMAC-Token
+  - Token = HMAC-SHA256(email, UNSUBSCRIBE_SECRET).slice(0, 32)
+  - Timing-safe compare
+  - Idempotent + hübsche HTML-Page
+- Frontend-Proxy `/api/unsubscribe`
+
+### SendGrid-Verbesserungen
+- **RFC 8058 One-Click-Unsubscribe** Header (`List-Unsubscribe` +
+  `List-Unsubscribe-Post`) → Gmail/Outlook zeigen native Unsub-Button
+- Welcome-Mail enthält jetzt klickbaren Abmelde-Link
+- Dynamic-Template bekommt `unsubscribe_url` als Variable
+
+### Unit-Tests (22 Tests, alle grün lokal)
+- 10× `verifyDigistoreSignature` (happy path, tampering, edge cases)
+- 12× `hashIp` + `getClientIp` (determinism, salt, fallbacks)
+
+### Click-Tracking
+- Whitelist erweitert: `ebook-buy`, `ebook-waitlist`
+- Damit im `/herzraum/klicks`-Dashboard messbar
+
+---
+
+## 📦 KOMPLETTE DATEI-LISTE (diese 2 Sessions zusammen)
+
+```
+apps/backend/src/
+├── db/
+│   ├── migrate.ts              ← Runtime-Migrations
+│   └── schema.ts               ← purchases-Tabelle
+├── lib/
+│   ├── sentry.ts               ← Sentry-Init
+│   ├── sendgrid.ts             ← SG-Client (+ unsub-link builder)
+│   └── crypto.test.ts          ← 12 Tests
+└── routes/
+    ├── digistore-ipn.ts        ← IPN + SHA-512 Sig-Verify
+    ├── digistore-ipn.test.ts   ← 10 Tests
+    ├── unsubscribe.ts          ← HMAC-Token-basiert
+    ├── track-click.ts          ← +ebook-buy/waitlist Whitelist
+    ├── newsletter.ts           ← + SendGrid fire-and-forget
+    ├── herzraum/
+    │   └── purchases.ts        ← neue Session-Auth-Route
+    └── admin/
+        ├── cron-cleanup.ts
+        ├── metrics.ts
+        ├── backup.ts
+        ├── sendgrid.ts
+        ├── gdpr.ts
+        └── purchases-csv.ts
+
+apps/frontend/src/
+├── lib/sentry.ts
+├── layouts/HerzraumLayout.astro  ← +Verkäufe-Tab im Nav
+├── pages/
+│   ├── ebook.astro                ← +konditional D24-Button
+│   ├── api/
+│   │   ├── unsubscribe.ts         ← Proxy
+│   │   └── herzraum/purchases.ts  ← Proxy
+│   └── herzraum/verkaeufe.astro  ← neue Dashboard-Seite
+
+scripts/smoke-test.sh              ← 21-Test-Suite
+
+docs/plans/2026-04-18-PHASE-2-STATUS.md  ← dieses Dokument
+```
+
+---
+
+## 🚧 NOCH OFFEN (für später, wenn Zeit)
+
 - Custom-Domain `api.herzblatt-journal.com` → DNS-CNAME zu Railway
-- Redis umziehen (falls irgendwann nötig — aktuell nicht sinnvoll)
-- SendGrid Dynamic-Template für Welcome-Mail bauen (schönerer als Plain-HTML-Fallback)
-- `/admin` Dashboard-UI: Purchases-Tab (anzeige aller E-Book-Käufe)
-- Unit-Tests für kritische lib-Funktionen (`verifyDigistoreSignature`, `hashIp`)
+- SendGrid Dynamic-Template (schöneres Design als HTML-Fallback)
+- Integration-Tests gegen Live-Prod (nach Deploy)
+- Stripe-Webhook parallel zu Digistore24 (falls zweites Payment-System gewünscht)
+- Dashboard-Startseite um Purchases-KPIs erweitern
+- GDPR-Workflow-UI im Admin-Dashboard (aktuell nur via curl)
