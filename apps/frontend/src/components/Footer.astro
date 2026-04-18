@@ -17,10 +17,11 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
         <p class="ft-nl-title">Dating-Tipps direkt ins Postfach</p>
         <p class="ft-nl-sub">Wöchentlich die besten Tipps — kostenlos, kein Spam.</p>
       </div>
-      <form class="ft-nl-form" onsubmit="event.preventDefault(); var b=this.querySelector('.ft-nl-btn'); b.textContent='Angemeldet ✓'; b.disabled=true; b.style.opacity='0.6';">
-        <input type="email" required placeholder="Deine E-Mail-Adresse" class="ft-nl-input" />
+      <form class="ft-nl-form" id="ft-newsletter-form">
+        <input type="email" required placeholder="Deine E-Mail-Adresse" class="ft-nl-input" name="email" />
         <button type="submit" class="ft-nl-btn">Anmelden</button>
       </form>
+      <p id="ft-nl-msg" style="margin: 0.5rem 0 0; font-size: 0.75rem; color: rgba(255,255,255,0.9); min-height: 1em;"></p>
     </div>
   </div>
 
@@ -381,3 +382,40 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
     .ft-copy { width: 100%; order: 3; }
   }
 </style>
+
+<script is:inline>
+  (function () {
+    const form = document.getElementById('ft-newsletter-form');
+    if (!form) return;
+    const msg = document.getElementById('ft-nl-msg');
+    const btn = form.querySelector('.ft-nl-btn');
+    const input = form.querySelector('input[name="email"]');
+
+    form.addEventListener('submit', async function (e) {
+      e.preventDefault();
+      const email = input ? input.value.trim() : '';
+      if (!email) return;
+      if (msg) msg.textContent = '';
+      if (btn) { btn.disabled = true; btn.textContent = '…'; }
+      try {
+        const res = await fetch('/api/newsletter', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email: email, source: 'newsletter-footer' }),
+        });
+        const data = await res.json();
+        if (data && data.success) {
+          form.reset();
+          if (btn) { btn.textContent = 'Angemeldet ✓'; btn.style.opacity = '0.7'; }
+          if (msg) msg.textContent = data.message || 'Willkommen!';
+        } else {
+          if (btn) { btn.disabled = false; btn.textContent = 'Anmelden'; }
+          if (msg) msg.textContent = (data && data.message) || 'Bitte erneut versuchen.';
+        }
+      } catch (err) {
+        if (btn) { btn.disabled = false; btn.textContent = 'Anmelden'; }
+        if (msg) msg.textContent = 'Verbindungsfehler — bitte später erneut.';
+      }
+    });
+  })();
+</script>
