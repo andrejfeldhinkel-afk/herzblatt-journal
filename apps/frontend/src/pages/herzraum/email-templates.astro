@@ -110,26 +110,40 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
     </div>
   </div>
 
-  <style>
+  <style is:global>
+    /* is:global weil Buttons dynamisch via innerHTML gerendert werden — scoped styles würden nicht greifen (kein data-astro-cid) */
     .tpl-btn {
-      display: block; width: 100%;
-      text-align: left;
-      padding: 0.75rem 0.875rem;
-      background: transparent;
-      border: 1px solid transparent;
-      border-radius: 8px;
-      color: var(--hz-text);
-      cursor: pointer;
-      margin-bottom: 0.25rem;
-      transition: all 0.15s;
+      display: block !important; width: 100% !important;
+      text-align: left !important;
+      padding: 0.75rem 0.875rem !important;
+      background: #13131c !important;
+      border: 1px solid rgba(255,255,255,0.08) !important;
+      border-radius: 8px !important;
+      color: #f1f5f9 !important;
+      cursor: pointer !important;
+      margin-bottom: 0.35rem !important;
+      transition: all 0.15s !important;
+      font-family: inherit !important;
     }
-    .tpl-btn:hover { background: var(--hz-surface-2); border-color: var(--hz-border-strong); }
+    .tpl-btn:hover { background: #1c1c28 !important; border-color: rgba(255,255,255,0.16) !important; }
     .tpl-btn.active {
-      background: linear-gradient(90deg, var(--hz-primary-light), transparent 70%);
-      border-color: var(--hz-primary);
+      background: linear-gradient(90deg, rgba(244,63,94,0.12), rgba(244,63,94,0.02) 70%) !important;
+      border-color: #f43f5e !important;
     }
-    .tpl-btn .tpl-btn-name { font-weight: 600; font-size: 0.875rem; }
-    .tpl-btn .tpl-btn-cat { font-size: 0.7rem; color: var(--hz-text-muted); margin-top: 0.2rem; text-transform: uppercase; letter-spacing: 0.08em; }
+    .tpl-btn .tpl-btn-name {
+      font-weight: 600 !important;
+      font-size: 0.875rem !important;
+      color: #f1f5f9 !important;
+      display: block !important;
+    }
+    .tpl-btn .tpl-btn-cat {
+      font-size: 0.7rem !important;
+      color: #94a3b8 !important;
+      margin-top: 0.25rem !important;
+      text-transform: uppercase !important;
+      letter-spacing: 0.08em !important;
+      display: block !important;
+    }
 
     .view-btn {
       padding: 0.35rem 0.75rem;
