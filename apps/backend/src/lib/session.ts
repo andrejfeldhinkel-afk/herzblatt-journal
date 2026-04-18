@@ -107,26 +107,26 @@ export function extractTokenFromCookie(cookieHeader: string | null | undefined):
   return match ? decodeURIComponent(match[1]) : null;
 }
 
+/**
+ * Cookie-Domain nur in production setzen — lokal (localhost) würde eine explizite
+ * Domain den Cookie aussperren. Steuerung via COOKIE_DOMAIN env var.
+ */
+function cookieDomainPart(): string {
+  const domain = process.env.COOKIE_DOMAIN;
+  return domain ? `; Domain=${domain}` : '';
+}
+
+/**
+ * Secure-Flag nur über HTTPS gültig. Lokal via COOKIE_SECURE=false deaktivierbar.
+ */
+function cookieSecurePart(): string {
+  return process.env.COOKIE_SECURE === 'false' ? '' : '; Secure';
+}
+
 export function buildSessionCookie(token: string, maxAgeSec: number = SESSION_DURATION_MS / 1000): string {
-  return [
-    `${COOKIE_NAME}=${token}`,
-    'Path=/',
-    'HttpOnly',
-    'SameSite=Lax',
-    'Secure',
-    `Max-Age=${maxAgeSec}`,
-    'Domain=.herzblatt-journal.com',
-  ].join('; ');
+  return `${COOKIE_NAME}=${token}; Path=/; HttpOnly; SameSite=Lax; Max-Age=${maxAgeSec}${cookieSecurePart()}${cookieDomainPart()}`;
 }
 
 export function buildLogoutCookie(): string {
-  return [
-    `${COOKIE_NAME}=`,
-    'Path=/',
-    'HttpOnly',
-    'SameSite=Lax',
-    'Secure',
-    'Max-Age=0',
-    'Domain=.herzblatt-journal.com',
-  ].join('; ');
+  return `${COOKIE_NAME}=; Path=/; HttpOnly; SameSite=Lax; Max-Age=0${cookieSecurePart()}${cookieDomainPart()}`;
 }
