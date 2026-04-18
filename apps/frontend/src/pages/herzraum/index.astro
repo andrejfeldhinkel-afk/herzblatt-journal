@@ -258,8 +258,12 @@ const articleCount = blog.length;
           const pv = d.kpis.pageviews.month || 0;
           const cl = d.kpis.clicks.month || 0;
           const nl = d.kpis.newsletter.month || 0;
-          // purchases-count fetch separate (not in stats)
-          fetch('/api/herzraum/purchases?limit=0').then(r => r.json()).then((pData) => {
+          // purchases-count fetch separate (not in stats) — Bug-F8: Timeout damit Funnel
+          // nicht ewig hängt wenn /purchases langsam ist
+          Promise.race([
+            fetch('/api/herzraum/purchases?limit=0', { cache: 'no-store' }).then(r => r.json()),
+            new Promise((_, rej) => setTimeout(() => rej(new Error('purchase-timeout')), 5000))
+          ]).then((pData) => {
             const purchases = pData && typeof pData.total === 'number' ? pData.total : 0;
             renderFunnel(pv, cl, nl, purchases);
           }).catch(() => renderFunnel(pv, cl, nl, 0));

@@ -82,16 +82,22 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         document.querySelectorAll('[data-kpi="' + path + '"]').forEach(el => el.textContent = typeof v === 'string' ? v : fmtNum(v));
       }
 
+      // Chart-Instanzen für Destroy vor Re-Render (Bug #3 Audit)
+      let chartDaily = null, chartPie = null;
+
       async function load() {
-        const res = await fetch('/api/herzraum/stats?range=30d');
-        const d = await res.json();
-        if (!d.ok) return;
+        try {
+          const res = await fetch('/api/herzraum/stats?range=30d', { cache: 'no-store' });
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          const d = await res.json();
+          if (!d.ok) throw new Error(d.error || 'API error');
 
         setKpi('clicks.today', d.kpis.clicks.today);
         setKpi('clicks.week', d.kpis.clicks.week);
         setKpi('clicks.month', d.kpis.clicks.month);
         setKpi('clicks.total', d.kpis.clicks.total);
-        setKpi('ctr', d.ctr + ' %');
+        // Bug-F18: CTR null/undefined-safe
+        setKpi('ctr', (d.ctr != null ? d.ctr : '—') + ' %');
 
         // === Dating-Seiten-Performance-Ranking ===
         const datingMeta = {
@@ -166,10 +172,11 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
           sBody.innerHTML = '<tr><td colspan="3" class="muted">Noch keine Daten</td></tr>';
         }
 
-        // Charts am Schluss, defensiv
+        // Charts am Schluss, defensiv — Bug-F3: destroy vor new Chart
         if (typeof Chart !== 'undefined') {
           try {
-            new Chart(document.getElementById('chart-daily').getContext('2d'), {
+            if (chartDaily) { chartDaily.destroy(); chartDaily = null; }
+            chartDaily = new Chart(document.getElementById('chart-daily').getContext('2d'), {
               type: 'line',
               data: {
                 labels: d.charts.clicksByDay.map(e => e.date.slice(5)),
@@ -178,12 +185,23 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
               options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#94a3b8' }, grid: { color: '#2a2a3a' } }, y: { ticks: { color: '#94a3b8', precision: 0 }, grid: { color: '#2a2a3a' }, beginAtZero: true } } },
             });
             const targets = Object.entries(d.charts.clicksByTarget || {});
-            new Chart(document.getElementById('chart-pie').getContext('2d'), {
+            if (chartPie) { chartPie.destroy(); chartPie = null; }
+            chartPie = new Chart(document.getElementById('chart-pie').getContext('2d'), {
               type: 'doughnut',
               data: { labels: targets.map(t => t[0]), datasets: [{ data: targets.map(t => t[1]), backgroundColor: colors.slice(0, targets.length), borderColor: '#1a1a24', borderWidth: 2 }] },
               options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { labels: { color: '#e2e8f0' }, position: 'right' } } },
             });
           } catch (err) { console.error('[klicks] chart:', err); }
+        }
+        } catch (err) {
+          // Bug-F1: fehlendes try/catch → "Lade..." hing ewig bei Fehler
+          console.error('[klicks] load:', err);
+          const tBody = document.querySelector('#table-targets tbody');
+          if (tBody) tBody.innerHTML = '<tr><td colspan="4" style="color:#fca5a5">Fehler beim Laden: ' + (err.message || 'Unbekannt') + '</td></tr>';
+          const sBody = document.querySelector('#table-sources tbody');
+          if (sBody) sBody.innerHTML = '<tr><td colspan="3" style="color:#fca5a5">Fehler beim Laden</td></tr>';
+          const datingList = document.getElementById('dating-performance-list');
+          if (datingList) datingList.innerHTML = '<div style="color:#fca5a5; text-align:center; padding:2rem;">Fehler beim Laden der Dating-Performance</div>';
         }
       }
 
