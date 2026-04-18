@@ -1,0 +1,257 @@
+---
+export const prerender = false;
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+---
+<HerzraumLayout title="Todos" active="todos">
+  <div class="hz-card" style="padding: 1.5rem;">
+    <div class="hz-row" style="margin-bottom: 1rem;">
+      <h2 style="margin: 0;">📋 Meine Todos</h2>
+      <div class="hz-spacer"></div>
+      <span id="kpi-open" class="hz-badge info">— offen</span>
+      <span id="kpi-done" class="hz-badge muted">— erledigt</span>
+    </div>
+    <p style="color: var(--hz-text-muted); font-size: 0.85rem; margin: 0 0 1.25rem 0;">
+      Private Todo-Liste für deinen Admin-Workflow. Nur du siehst sie.
+    </p>
+
+    <!-- Quick-Add -->
+    <form id="add-form" class="hz-row" style="gap: 0.5rem; margin-bottom: 1.5rem;">
+      <input type="text" id="add-text" placeholder="Neue Todo… (Enter zum Speichern)"
+             maxlength="500" autofocus
+             style="flex: 1; padding: 0.65rem 0.85rem; font-size: 0.95rem;">
+      <select id="add-priority" style="min-width: 110px;">
+        <option value="normal">Normal</option>
+        <option value="high">🔥 Hoch</option>
+        <option value="low">Niedrig</option>
+      </select>
+      <button type="submit" class="hz-btn primary">Hinzufügen</button>
+    </form>
+
+    <!-- Filter -->
+    <div class="hz-row" style="gap: 0.5rem; margin-bottom: 1rem;">
+      <button class="filter-btn active" data-filter="open" type="button">Offen</button>
+      <button class="filter-btn" data-filter="done" type="button">Erledigt</button>
+      <button class="filter-btn" data-filter="all" type="button">Alle</button>
+    </div>
+
+    <!-- Liste -->
+    <div id="list" style="display: flex; flex-direction: column; gap: 0.5rem;">
+      <div style="color: var(--hz-text-muted); padding: 1.5rem; text-align: center; font-size: 0.9rem;">Lade…</div>
+    </div>
+  </div>
+
+  <style>
+    .filter-btn {
+      padding: 0.4rem 0.85rem;
+      background: var(--hz-surface-2);
+      border: 1px solid var(--hz-border);
+      color: var(--hz-text-muted);
+      border-radius: 6px;
+      font-size: 0.8rem;
+      cursor: pointer;
+      font-weight: 500;
+    }
+    .filter-btn.active { background: var(--hz-primary); color: white; border-color: var(--hz-primary); }
+    .filter-btn:hover:not(.active) { color: var(--hz-text); }
+  </style>
+  <style is:global>
+    /* Globale Styles für dynamisch gerenderte Todo-Items */
+    .hz-todo {
+      display: grid !important;
+      grid-template-columns: 36px 4px 1fr auto !important;
+      gap: 0.75rem;
+      align-items: center;
+      padding: 0.75rem 1rem !important;
+      background: #13131c !important;
+      border: 1px solid rgba(255,255,255,0.06) !important;
+      border-radius: 10px !important;
+      transition: all 0.15s;
+    }
+    .hz-todo:hover { border-color: rgba(255,255,255,0.12) !important; }
+    .hz-todo.done {
+      background: rgba(255,255,255,0.02) !important;
+      opacity: 0.6;
+    }
+    .hz-todo.done .hz-todo-text {
+      text-decoration: line-through;
+      color: #94a3b8 !important;
+    }
+    .hz-todo-check {
+      width: 22px !important;
+      height: 22px !important;
+      border-radius: 50% !important;
+      border: 2px solid #64748b !important;
+      background: transparent !important;
+      cursor: pointer !important;
+      display: flex !important;
+      align-items: center !important;
+      justify-content: center !important;
+      transition: all 0.15s;
+      color: white;
+    }
+    .hz-todo-check.done {
+      background: #10b981 !important;
+      border-color: #10b981 !important;
+    }
+    .hz-todo-prio {
+      width: 4px !important;
+      height: 24px !important;
+      border-radius: 2px !important;
+    }
+    .hz-todo-prio.high { background: #ef4444 !important; }
+    .hz-todo-prio.normal { background: #64748b !important; }
+    .hz-todo-prio.low { background: #374151 !important; }
+    .hz-todo-text {
+      font-size: 0.92rem !important;
+      color: #f1f5f9 !important;
+      line-height: 1.4;
+    }
+    .hz-todo-meta {
+      display: flex;
+      gap: 0.5rem;
+      align-items: center;
+    }
+    .hz-todo-date {
+      font-size: 0.7rem !important;
+      color: #64748b !important;
+      font-variant-numeric: tabular-nums;
+    }
+    .hz-todo-del {
+      background: none !important;
+      border: 0 !important;
+      color: #64748b !important;
+      cursor: pointer !important;
+      font-size: 1.1rem !important;
+      padding: 0.25rem 0.4rem !important;
+      opacity: 0.5;
+      transition: all 0.15s;
+    }
+    .hz-todo:hover .hz-todo-del { opacity: 1; }
+    .hz-todo-del:hover { color: #ef4444 !important; }
+  </style>
+
+  <script is:inline>
+    (function() {
+      const $ = (id) => document.getElementById(id);
+      let currentFilter = 'open';
+      let allTodos = [];
+
+      async function load() {
+        try {
+          const res = await fetch('/api/herzraum/todos?filter=' + currentFilter);
+          const data = await res.json();
+          if (!data.ok) throw new Error(data.error);
+          allTodos = data.todos || [];
+          $('kpi-open').textContent = data.openCount + ' offen';
+          $('kpi-done').textContent = data.doneCount + ' erledigt';
+          render();
+        } catch (err) {
+          $('list').innerHTML = '<div style="color: var(--hz-danger); padding: 1rem;">Fehler: ' + (err.message || 'unknown') + '</div>';
+        }
+      }
+
+      function fmtDate(iso) {
+        if (!iso) return '';
+        const d = new Date(iso);
+        const now = new Date();
+        const sameDay = d.toDateString() === now.toDateString();
+        if (sameDay) return d.toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit' });
+        const diffDays = Math.floor((now - d) / 86400000);
+        if (diffDays === 1) return 'gestern';
+        if (diffDays < 7) return diffDays + 'd';
+        return d.toLocaleDateString('de-DE', { day: '2-digit', month: '2-digit' });
+      }
+
+      function esc(s) {
+        return String(s || '').replace(/[&<>"]/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+      }
+
+      function render() {
+        if (allTodos.length === 0) {
+          $('list').innerHTML = '<div style="color: var(--hz-text-muted); padding: 2rem; text-align: center; font-size: 0.9rem;">' +
+            (currentFilter === 'open' ? '🎉 Keine offenen Todos' :
+             currentFilter === 'done' ? 'Noch nichts erledigt' :
+             'Noch keine Todos — leg oben deine erste an') + '</div>';
+          return;
+        }
+        $('list').innerHTML = allTodos.map((t) => {
+          const prioClass = t.priority || 'normal';
+          const doneClass = t.done ? 'done' : '';
+          const date = t.done && t.completedAt ? fmtDate(t.completedAt) : fmtDate(t.createdAt);
+          return '<div class="hz-todo ' + doneClass + '" data-id="' + t.id + '">'
+            + '<button class="hz-todo-check ' + doneClass + '" data-toggle="' + t.id + '" type="button" title="' + (t.done ? 'Wieder öffnen' : 'Als erledigt markieren') + '">'
+            +   (t.done ? '✓' : '')
+            + '</button>'
+            + '<span class="hz-todo-prio ' + prioClass + '" title="Priorität: ' + prioClass + '"></span>'
+            + '<span class="hz-todo-text">' + esc(t.text) + '</span>'
+            + '<div class="hz-todo-meta">'
+            +   '<span class="hz-todo-date">' + date + '</span>'
+            +   '<button class="hz-todo-del" data-del="' + t.id + '" type="button" title="Löschen">×</button>'
+            + '</div>'
+            + '</div>';
+        }).join('');
+
+        document.querySelectorAll('[data-toggle]').forEach((b) => {
+          b.addEventListener('click', () => toggle(b.dataset.toggle));
+        });
+        document.querySelectorAll('[data-del]').forEach((b) => {
+          b.addEventListener('click', () => del(b.dataset.del));
+        });
+      }
+
+      async function toggle(id) {
+        const t = allTodos.find((x) => x.id == id);
+        if (!t) return;
+        try {
+          const res = await fetch('/api/herzraum/todos/' + id, {
+            method: 'PATCH',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ done: !t.done }),
+          });
+          const data = await res.json();
+          if (data.ok) load();
+        } catch (e) { /* silent */ }
+      }
+
+      async function del(id) {
+        if (!confirm('Todo löschen?')) return;
+        try {
+          const res = await fetch('/api/herzraum/todos/' + id, { method: 'DELETE' });
+          const data = await res.json();
+          if (data.ok) load();
+        } catch (e) { /* silent */ }
+      }
+
+      $('add-form').addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const text = $('add-text').value.trim();
+        if (!text) return;
+        const priority = $('add-priority').value;
+        try {
+          const res = await fetch('/api/herzraum/todos', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ text, priority }),
+          });
+          const data = await res.json();
+          if (data.ok) {
+            $('add-text').value = '';
+            $('add-priority').value = 'normal';
+            load();
+          }
+        } catch (e) { /* silent */ }
+      });
+
+      document.querySelectorAll('.filter-btn').forEach((b) => {
+        b.addEventListener('click', () => {
+          document.querySelectorAll('.filter-btn').forEach((x) => x.classList.remove('active'));
+          b.classList.add('active');
+          currentFilter = b.dataset.filter;
+          load();
+        });
+      });
+
+      load();
+    })();
+  </script>
+</HerzraumLayout>

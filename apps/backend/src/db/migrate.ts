@@ -91,6 +91,19 @@ export async function runStartupMigrations(): Promise<void> {
       ON CONFLICT (id) DO NOTHING
     `);
 
+    // admin_todos — Einfache Todo-Liste für Admin
+    await db.execute(sql`
+      CREATE TABLE IF NOT EXISTS admin_todos (
+        id SERIAL PRIMARY KEY,
+        text TEXT NOT NULL,
+        done BOOLEAN NOT NULL DEFAULT FALSE,
+        priority TEXT NOT NULL DEFAULT 'normal',
+        created_at TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW(),
+        completed_at TIMESTAMP WITH TIME ZONE
+      )
+    `);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS admin_todos_done_created_idx ON admin_todos(done, created_at DESC)`);
+
     // products — Universeller Produkt-Katalog (alle 5 Monetarisierungs-Säulen)
     await db.execute(sql`
       CREATE TABLE IF NOT EXISTS products (
