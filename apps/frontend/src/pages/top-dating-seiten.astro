@@ -1530,8 +1530,11 @@ const breadcrumbs = [
     }
 
     // === 3. IntersectionObserver für Fade-In ===
-    // Jede h2-Section + jeder Article bekommt .tds-reveal
-    const targets = document.querySelectorAll('main section > div > div, main section h2, main section article, main section > .rounded-2xl');
+    // Nur individuelle Items animieren — NICHT die Container-Divs!
+    // Container (z.B. .space-y-6 der 8 Empfehlungen) können ein Vielfaches der
+    // Viewport-Höhe sein, dann löst threshold 0.12 nie aus und opacity:0
+    // versteckt alle Kinder permanent. → Selector auf Items beschränken.
+    const targets = document.querySelectorAll('main section h2, main section article, main section > .rounded-2xl');
     targets.forEach(t => t.classList.add('tds-reveal'));
 
     const io = new IntersectionObserver((entries) => {
@@ -1541,9 +1544,19 @@ const breadcrumbs = [
           io.unobserve(entry.target);
         }
       });
-    }, { threshold: 0.12, rootMargin: '0px 0px -50px 0px' });
+    }, { threshold: 0, rootMargin: '0px 0px -50px 0px' });
 
     targets.forEach(t => io.observe(t));
+
+    // Safety-Net: Falls IntersectionObserver-Callback aus irgendeinem Grund
+    // nicht feuert (Script-Error, Race, extreme Viewport-Größe), nach 1.5s
+    // alle verbliebenen Targets hart sichtbar machen — Content darf nicht
+    // unsichtbar bleiben.
+    setTimeout(() => {
+      document.querySelectorAll('.tds-reveal:not(.tds-visible)').forEach(el => {
+        el.classList.add('tds-visible');
+      });
+    }, 1500);
 
     // === 4. Animated KPI Counter ===
     const kpiTargets = document.querySelectorAll('.tds-count');
