@@ -237,7 +237,10 @@ const byAuthorJson = JSON.stringify(byAuthor);
                 '<td>' + tagStr + '</td>' +
                 '<td class="right">' + a.wordCount.toLocaleString('de-DE') + '</td>' +
                 '<td class="right">' + views.toLocaleString('de-DE') + '</td>' +
-                '<td><a href="/blog/' + a.slug + '" target="_blank" rel="noopener">ansehen ↗</a></td>' +
+                '<td>' +
+                  '<a href="/herzraum/artikel/edit/' + a.slug + '" style="color: var(--hz-primary); margin-right: 0.5rem;">edit</a>' +
+                  '<a href="/blog/' + a.slug + '" target="_blank" rel="noopener" style="color: var(--hz-text-muted);">↗</a>' +
+                '</td>' +
                 '</tr>';
             }).join('')
           : '<tr><td colspan="7" class="muted">Keine Treffer</td></tr>';

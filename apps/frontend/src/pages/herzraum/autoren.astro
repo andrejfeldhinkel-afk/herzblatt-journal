@@ -1,0 +1,196 @@
+---
+export const prerender = false;
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+import { getCollection } from 'astro:content';
+
+// Artikel-Count pro Autor für Sichtbarkeit
+const blog = await getCollection('blog');
+const articleCounts: Record<string, number> = {};
+for (const a of blog) {
+  const author = (a.data as any).author || 'redaktion';
+  articleCounts[author] = (articleCounts[author] || 0) + 1;
+}
+---
+<HerzraumLayout title="Autoren" active="autoren">
+  <div class="hz-card" style="padding: 1.5rem;">
+    <div class="hz-row" style="margin-bottom: 1rem;">
+      <h2 style="margin: 0;">👥 Autoren</h2>
+      <div class="hz-spacer"></div>
+      <button id="new-author-btn" class="hz-btn primary">+ Neuer Autor</button>
+    </div>
+    <p style="color: var(--hz-text-muted); font-size: 0.85rem;">
+      Autoren werden in <code>apps/frontend/src/data/authors.ts</code> gespeichert. Änderungen werden als Commit gepusht (~5-7 Min bis live).
+    </p>
+
+    <div id="list" style="margin-top: 1.5rem;">
+      <div style="color: var(--hz-text-muted); padding: 2rem; text-align: center;">Lade Autoren…</div>
+    </div>
+  </div>
+
+  <!-- Modal Edit -->
+  <div id="edit-modal" style="display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.7); z-index: 1000; overflow-y: auto; padding: 2rem;">
+    <div class="hz-card" style="max-width: 700px; margin: 0 auto; padding: 2rem;">
+      <div class="hz-row" style="margin-bottom: 1rem;">
+        <h3 id="modal-title" style="margin: 0;">Autor bearbeiten</h3>
+        <div class="hz-spacer"></div>
+        <button id="close-modal" type="button" style="background: none; border: 0; color: var(--hz-text-muted); font-size: 1.5rem; cursor: pointer;">×</button>
+      </div>
+
+      <div class="fg"><label>Slug *</label><input type="text" id="m-slug" pattern="[a-z0-9-]+"></div>
+      <div class="fg"><label>Name *</label><input type="text" id="m-name"></div>
+      <div class="fg"><label>Rolle *</label><input type="text" id="m-role"></div>
+      <div class="fg"><label>Kurz-Bio (für Karten, ≤500 Zeichen) *</label><textarea id="m-shortBio" rows="2" maxlength="500"></textarea></div>
+      <div class="fg"><label>Bio (lang, auf Author-Page) *</label><textarea id="m-bio" rows="6" maxlength="3000"></textarea></div>
+      <div class="fg"><label>Bild-Pfad *</label><input type="text" id="m-image" placeholder="/images/authors/sarah-kellner.webp"></div>
+      <div class="fg"><label>Expertise (komma-getrennt) *</label><input type="text" id="m-expertise"></div>
+      <div class="fg"><label>Credentials (komma-getrennt)</label><input type="text" id="m-credentials"></div>
+      <div class="fg"><label>Years of Experience</label><input type="number" id="m-years" min="0" max="80"></div>
+      <div class="fg"><label>Knows About (komma-getrennt)</label><input type="text" id="m-knowsAbout"></div>
+      <div class="fg"><label>Alumni Of</label><input type="text" id="m-alumniOf"></div>
+
+      <div id="m-error" style="display:none; color: var(--hz-danger); padding: 0.75rem; background: rgba(239,68,68,0.1); border-radius: 0.5rem; margin-bottom: 1rem;"></div>
+      <div id="m-success" style="display:none; color: #16a34a; padding: 0.75rem; background: rgba(22,163,74,0.1); border-radius: 0.5rem; margin-bottom: 1rem;"></div>
+
+      <div class="hz-row" style="gap: 0.5rem;">
+        <button id="save-btn" class="hz-btn primary" style="flex: 1;">Speichern</button>
+        <button id="cancel-btn" class="hz-btn" type="button">Abbrechen</button>
+      </div>
+    </div>
+  </div>
+
+  <style>
+    .fg { margin-bottom: 0.75rem; }
+    .fg label { display: block; font-size: 0.8rem; color: var(--hz-text-muted); margin-bottom: 0.25rem; }
+    .fg input, .fg textarea {
+      width: 100%; padding: 0.5rem 0.75rem; background: var(--hz-bg); color: var(--hz-text);
+      border: 1px solid var(--hz-border); border-radius: 0.375rem; font-size: 0.85rem;
+    }
+    .author-card {
+      display: grid; grid-template-columns: 100px 1fr auto; gap: 1rem; align-items: center;
+      padding: 1rem; border: 1px solid var(--hz-border); border-radius: 0.5rem; margin-bottom: 0.75rem;
+    }
+    .author-card img { width: 100px; height: 100px; object-fit: cover; border-radius: 0.5rem; background: var(--hz-bg); }
+  </style>
+
+  <script is:inline define:vars={{ articleCounts }}>
+    const $ = (id) => document.getElementById(id);
+    let authorsData = {};
+    let editingSlug = null;
+    let isNew = false;
+
+    async function loadAuthors() {
+      $('list').innerHTML = '<div style="color: var(--hz-text-muted); padding: 2rem; text-align: center;">Lade…</div>';
+      try {
+        const res = await fetch('/api/herzraum/authors');
+        const data = await res.json();
+        if (!data.ok) throw new Error(data.error);
+        authorsData = data.authors;
+        render();
+      } catch (err) {
+        $('list').innerHTML = '<div style="color: var(--hz-danger);">Fehler: ' + err.message + '</div>';
+      }
+    }
+
+    function render() {
+      const entries = Object.values(authorsData).sort((a, b) => a.name.localeCompare(b.name));
+      $('list').innerHTML = entries.map((a) => `
+        <div class="author-card">
+          <img src="${a.image}" alt="${a.name}" onerror="this.style.background='rgba(239,68,68,0.1)'"/>
+          <div>
+            <div style="font-weight: 600; font-size: 1.1rem;">${a.name}</div>
+            <div style="font-size: 0.85rem; color: var(--hz-text-muted); margin-top: 0.25rem;">${a.role}</div>
+            <div style="font-size: 0.75rem; margin-top: 0.35rem;"><code>${a.slug}</code> · ${(articleCounts[a.slug] || 0)} Artikel · ${(a.expertise||[]).slice(0,4).join(', ')}</div>
+          </div>
+          <button class="hz-btn" data-edit="${a.slug}">Bearbeiten</button>
+        </div>
+      `).join('');
+      document.querySelectorAll('[data-edit]').forEach((b) => {
+        b.addEventListener('click', () => openEdit(b.dataset.edit));
+      });
+    }
+
+    function openEdit(slug) {
+      isNew = false;
+      editingSlug = slug;
+      const a = authorsData[slug];
+      if (!a) return;
+      $('modal-title').textContent = 'Bearbeiten: ' + a.name;
+      $('m-slug').value = a.slug;
+      $('m-slug').disabled = true;
+      $('m-name').value = a.name;
+      $('m-role').value = a.role;
+      $('m-shortBio').value = a.shortBio;
+      $('m-bio').value = a.bio;
+      $('m-image').value = a.image;
+      $('m-expertise').value = (a.expertise || []).join(', ');
+      $('m-credentials').value = (a.credentials || []).join(', ');
+      $('m-years').value = a.yearsExperience || '';
+      $('m-knowsAbout').value = (a.knowsAbout || []).join(', ');
+      $('m-alumniOf').value = a.alumniOf || '';
+      $('m-error').style.display = 'none';
+      $('m-success').style.display = 'none';
+      $('edit-modal').style.display = 'block';
+    }
+
+    function openNew() {
+      isNew = true;
+      editingSlug = null;
+      $('modal-title').textContent = 'Neuer Autor';
+      ['m-slug','m-name','m-role','m-shortBio','m-bio','m-image','m-expertise','m-credentials','m-years','m-knowsAbout','m-alumniOf'].forEach(id => $(id).value = '');
+      $('m-slug').disabled = false;
+      $('m-error').style.display = 'none';
+      $('m-success').style.display = 'none';
+      $('edit-modal').style.display = 'block';
+    }
+
+    $('new-author-btn').addEventListener('click', openNew);
+    $('close-modal').addEventListener('click', () => $('edit-modal').style.display = 'none');
+    $('cancel-btn').addEventListener('click', () => $('edit-modal').style.display = 'none');
+
+    $('save-btn').addEventListener('click', async () => {
+      const split = (s) => (s || '').split(',').map(x => x.trim()).filter(Boolean);
+      const slug = $('m-slug').value.trim();
+      const body = {
+        slug,
+        name: $('m-name').value.trim(),
+        role: $('m-role').value.trim(),
+        shortBio: $('m-shortBio').value.trim(),
+        bio: $('m-bio').value.trim(),
+        image: $('m-image').value.trim(),
+        expertise: split($('m-expertise').value),
+      };
+      const credentials = split($('m-credentials').value);
+      if (credentials.length) body.credentials = credentials;
+      const years = parseInt($('m-years').value, 10);
+      if (!isNaN(years)) body.yearsExperience = years;
+      const knows = split($('m-knowsAbout').value);
+      if (knows.length) body.knowsAbout = knows;
+      const alumni = $('m-alumniOf').value.trim();
+      if (alumni) body.alumniOf = alumni;
+
+      const btn = $('save-btn'); btn.disabled = true; btn.textContent = 'Speichere…';
+      $('m-error').style.display = 'none'; $('m-success').style.display = 'none';
+      try {
+        const url = isNew ? '/api/herzraum/authors' : '/api/herzraum/authors/' + encodeURIComponent(slug);
+        const method = isNew ? 'POST' : 'PUT';
+        const res = await fetch(url, { method, headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
+        const data = await res.json();
+        if (data.ok) {
+          $('m-success').innerHTML = '✓ Gespeichert — live in ~7 Min · <a href="'+data.commitUrl+'" target="_blank" style="color: var(--hz-primary);">Commit</a>';
+          $('m-success').style.display = 'block';
+          setTimeout(() => { $('edit-modal').style.display = 'none'; loadAuthors(); }, 2500);
+        } else {
+          $('m-error').textContent = 'Fehler: ' + (data.error||'unknown') + (data.issues ? ' — ' + JSON.stringify(data.issues) : '');
+          $('m-error').style.display = 'block';
+        }
+      } catch (e) {
+        $('m-error').textContent = 'Netzwerk: ' + e.message;
+        $('m-error').style.display = 'block';
+      } finally {
+        btn.disabled = false; btn.textContent = 'Speichern';
+      }
+    });
+
+    loadAuthors();
+  </script>
+</HerzraumLayout>

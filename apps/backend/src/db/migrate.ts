@@ -41,6 +41,25 @@ export async function runStartupMigrations(): Promise<void> {
       CREATE INDEX IF NOT EXISTS purchases_provider_order_idx ON purchases(provider, provider_order_id)
     `);
 
+    // audit_log — Admin-Actions-Journal
+    await db.execute(sql`
+      CREATE TABLE IF NOT EXISTS audit_log (
+        id SERIAL PRIMARY KEY,
+        ts TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW(),
+        actor TEXT NOT NULL DEFAULT 'admin',
+        action TEXT NOT NULL,
+        target TEXT,
+        ip_hash TEXT,
+        meta TEXT
+      )
+    `);
+    await db.execute(sql`
+      CREATE INDEX IF NOT EXISTS audit_log_ts_idx ON audit_log(ts)
+    `);
+    await db.execute(sql`
+      CREATE INDEX IF NOT EXISTS audit_log_action_idx ON audit_log(action)
+    `);
+
     // Readers-Counter: stellt sicher, dass Row id=1 existiert
     await db.execute(sql`
       INSERT INTO readers_counter (id, count, last_updated)

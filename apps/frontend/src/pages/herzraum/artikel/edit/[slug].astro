@@ -1,0 +1,189 @@
+---
+export const prerender = false;
+import HerzraumLayout from '../../../../layouts/HerzraumLayout.astro';
+import { authors } from '../../../../data/authors';
+
+const slug = Astro.params.slug;
+const authorsArr = Object.values(authors).map((a) => ({ slug: a.slug, name: a.name, role: a.role }));
+---
+<HerzraumLayout title={`Artikel bearbeiten: ${slug}`} active="artikel">
+  <div class="hz-card" style="padding: 1.5rem;">
+    <div class="hz-row" style="margin-bottom: 1rem;">
+      <a href="/herzraum/artikel" style="color: var(--hz-text-muted); text-decoration: none;">← Zurück</a>
+      <div class="hz-spacer"></div>
+      <a href={`https://herzblatt-journal.com/blog/${slug}`} target="_blank" class="hz-btn">Live-Ansicht</a>
+    </div>
+    <h2>Bearbeite <code>{slug}</code></h2>
+    <p style="color: var(--hz-text-muted); font-size: 0.85rem;">
+      Änderungen werden als Commit auf <code>main</code> gepusht. Live in ~5-7 Min.
+    </p>
+
+    <div id="loading" style="padding: 2rem; text-align: center; color: var(--hz-text-muted);">Lade…</div>
+
+    <div id="edit-form" style="display: none; grid-template-columns: 1fr 1fr; gap: 1.5rem;">
+      <div>
+        <h3>Frontmatter</h3>
+        <div class="fg"><label>Title</label><input type="text" id="f-title" maxlength="200"></div>
+        <div class="fg"><label>Description</label><textarea id="f-description" rows="2" maxlength="300"></textarea></div>
+        <div class="fg"><label>Datum</label><input type="date" id="f-date"></div>
+        <div class="fg">
+          <label>Autor</label>
+          <select id="f-author">
+            {authorsArr.map(a => <option value={a.slug}>{a.name} — {a.role}</option>)}
+            <option value="redaktion">Redaktion (Fallback)</option>
+          </select>
+        </div>
+        <div class="fg"><label>Tags (komma-getrennt)</label><input type="text" id="f-tags"></div>
+        <div class="fg"><label>Keywords (komma-getrennt)</label><input type="text" id="f-keywords"></div>
+        <div class="fg"><label>Bild</label><input type="text" id="f-image"></div>
+        <div class="fg"><label>Bild-Alt</label><input type="text" id="f-imageAlt"></div>
+        <div class="fg"><label><input type="checkbox" id="f-featured"> Featured</label></div>
+
+        <h3 style="margin-top: 1.5rem;">Body (Markdown)</h3>
+        <div class="fg">
+          <textarea id="f-body" rows="25" style="font-family: monospace; font-size: 0.8rem;"></textarea>
+          <small class="hint">Wortanzahl: <span id="word-count">0</span></small>
+        </div>
+
+        <div id="submit-error" style="display:none; color: var(--hz-danger); padding: 0.75rem; background: rgba(239,68,68,0.1); border-radius: 0.5rem; margin-bottom: 1rem;"></div>
+        <div id="submit-success" style="display:none; color: #16a34a; padding: 0.75rem; background: rgba(22,163,74,0.1); border-radius: 0.5rem; margin-bottom: 1rem;"></div>
+        <button type="button" id="submit-btn" class="hz-btn primary" style="width: 100%;">Änderungen speichern (Commit)</button>
+      </div>
+      <div>
+        <h3>Vorschau (raw)</h3>
+        <pre id="preview" style="background: var(--hz-bg); padding: 1rem; border-radius: 0.5rem; white-space: pre-wrap; font-family: monospace; font-size: 0.72rem; max-height: 80vh; overflow-y: auto; line-height: 1.5;"></pre>
+      </div>
+    </div>
+  </div>
+
+  <style>
+    .fg { margin-bottom: 0.75rem; }
+    .fg label { display: block; font-size: 0.8rem; margin-bottom: 0.25rem; color: var(--hz-text-muted); }
+    .fg input, .fg select, .fg textarea {
+      width: 100%; padding: 0.5rem 0.75rem; background: var(--hz-bg); color: var(--hz-text);
+      border: 1px solid var(--hz-border); border-radius: 0.375rem; font-size: 0.85rem;
+    }
+    .fg textarea { resize: vertical; font-family: inherit; }
+    @media (max-width: 900px) { #edit-form { grid-template-columns: 1fr !important; } }
+  </style>
+
+  <script is:inline define:vars={{ slug }}>
+    const $ = (id) => document.getElementById(id);
+    let fileSha = null;
+
+    function parseFM(raw) {
+      const fm = {};
+      const lines = raw.split('\n');
+      let inArr = null; const arrBuf = [];
+      for (const line of lines) {
+        const m = line.match(/^([a-zA-Z]+):\s*(.*)$/);
+        if (m) {
+          if (inArr) { fm[inArr] = arrBuf.slice(); arrBuf.length = 0; }
+          inArr = null;
+          const k = m[1]; const v = m[2].trim();
+          if (v === '') { inArr = k; continue; }
+          if (v === 'true') fm[k] = true;
+          else if (v === 'false') fm[k] = false;
+          else if (/^\d{4}-\d{2}-\d{2}/.test(v)) fm[k] = v.slice(0,10);
+          else if (v.startsWith('"')) fm[k] = v.replace(/^"|"$/g,'').replace(/\\"/g,'"').replace(/\\\\/g,'\\');
+          else fm[k] = v;
+        } else if (inArr && /^\s*-\s*/.test(line)) {
+          const v = line.replace(/^\s*-\s*/,'').trim();
+          arrBuf.push(v.startsWith('"') ? v.replace(/^"|"$/g,'').replace(/\\"/g,'"') : v);
+        }
+      }
+      if (inArr) fm[inArr] = arrBuf.slice();
+      return fm;
+    }
+
+    async function load() {
+      try {
+        const res = await fetch('/api/herzraum/articles/' + encodeURIComponent(slug));
+        if (!res.ok) throw new Error('HTTP '+res.status);
+        const data = await res.json();
+        if (!data.ok) throw new Error(data.error);
+        fileSha = data.sha;
+        const fm = parseFM(data.frontmatterRaw);
+        $('f-title').value = fm.title || '';
+        $('f-description').value = fm.description || '';
+        $('f-date').value = fm.date || new Date().toISOString().slice(0,10);
+        $('f-author').value = fm.author || 'redaktion';
+        $('f-tags').value = (fm.tags || []).join(', ');
+        $('f-keywords').value = (fm.keywords || []).join(', ');
+        $('f-image').value = fm.image || '';
+        $('f-imageAlt').value = fm.imageAlt || '';
+        $('f-featured').checked = !!fm.featured;
+        $('f-body').value = data.body || '';
+        $('loading').style.display = 'none';
+        $('edit-form').style.display = 'grid';
+        updatePreview();
+      } catch (err) {
+        $('loading').textContent = 'Fehler beim Laden: ' + err.message;
+      }
+    }
+
+    function updatePreview() {
+      const title = $('f-title').value, desc = $('f-description').value;
+      const body = $('f-body').value;
+      const esc = (s) => '"' + String(s).replace(/\\/g,'\\\\').replace(/"/g,'\\"') + '"';
+      const tags = $('f-tags').value.split(',').map(s=>s.trim()).filter(Boolean);
+      let fm = '---\ntitle: '+esc(title)+'\ndescription: '+esc(desc)+'\ndate: '+$('f-date').value+'\nauthor: '+esc($('f-author').value)+'\n';
+      if (tags.length) fm += 'tags:\n'+tags.map(t=>'  - '+esc(t)).join('\n')+'\n';
+      if ($('f-image').value) fm += 'image: '+esc($('f-image').value)+'\n';
+      if ($('f-featured').checked) fm += 'featured: true\n';
+      fm += '---\n\n';
+      $('preview').textContent = fm + body;
+      const words = body.replace(/[#*\-`\[\]()_]/g,' ').split(/\s+/).filter(Boolean).length;
+      $('word-count').textContent = words;
+    }
+
+    ['f-title','f-description','f-date','f-author','f-tags','f-keywords','f-image','f-imageAlt','f-featured','f-body'].forEach(id => {
+      $(id).addEventListener('input', updatePreview);
+      $(id).addEventListener('change', updatePreview);
+    });
+
+    $('submit-btn').addEventListener('click', async () => {
+      const err = $('submit-error'); const ok = $('submit-success');
+      err.style.display = 'none'; ok.style.display = 'none';
+      const tags = $('f-tags').value.split(',').map(s=>s.trim()).filter(Boolean);
+      const keywords = $('f-keywords').value.split(',').map(s=>s.trim()).filter(Boolean);
+      const fm = {
+        title: $('f-title').value.trim(),
+        description: $('f-description').value.trim(),
+        date: $('f-date').value,
+        tags, keywords,
+        featured: $('f-featured').checked,
+        author: $('f-author').value,
+        image: $('f-image').value.trim() || undefined,
+        imageAlt: $('f-imageAlt').value.trim() || undefined,
+        faq: [],
+      };
+      const btn = $('submit-btn'); btn.disabled = true; btn.textContent = 'Commite…';
+      try {
+        const res = await fetch('/api/herzraum/articles/' + encodeURIComponent(slug), {
+          method: 'PATCH',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ frontmatter: fm, body: $('f-body').value, sha: fileSha }),
+        });
+        const data = await res.json();
+        if (data.ok) {
+          ok.innerHTML = '✓ Gespeichert — live in '+(data.estimatedLiveIn||'~7 Min')+' · <a href="'+data.commitUrl+'" target="_blank" style="color: var(--hz-primary);">Commit</a>';
+          ok.style.display = 'block';
+          btn.textContent = '✓ Gespeichert';
+          fileSha = null; // force reload for next edit
+          setTimeout(() => { btn.disabled = false; btn.textContent = 'Änderungen speichern (Commit)'; location.reload(); }, 3000);
+        } else {
+          err.textContent = 'Fehler: ' + (data.error || 'unknown') + (data.issues?' — '+JSON.stringify(data.issues):'');
+          err.style.display = 'block';
+          btn.disabled = false; btn.textContent = 'Änderungen speichern (Commit)';
+        }
+      } catch (e) {
+        err.textContent = 'Netzwerk-Fehler: ' + e.message;
+        err.style.display = 'block';
+        btn.disabled = false; btn.textContent = 'Änderungen speichern (Commit)';
+      }
+    });
+
+    load();
+  </script>
+</HerzraumLayout>
