@@ -70,17 +70,17 @@ const byAuthorJson = JSON.stringify(byAuthor);
     <div class="hz-kpi">
       <div class="hz-kpi-label">Ohne Bild</div>
       <div class="hz-kpi-value">{noImage.toLocaleString('de-DE')}</div>
-      <div class="hz-kpi-delta flat">{((noImage/total)*100).toFixed(1)} %</div>
+      <div class="hz-kpi-delta flat">{total > 0 ? ((noImage/total)*100).toFixed(1) : '0'} %</div>
     </div>
     <div class="hz-kpi">
       <div class="hz-kpi-label">Ohne Tags</div>
       <div class="hz-kpi-value">{noTags.toLocaleString('de-DE')}</div>
-      <div class="hz-kpi-delta flat">{((noTags/total)*100).toFixed(1)} %</div>
+      <div class="hz-kpi-delta flat">{total > 0 ? ((noTags/total)*100).toFixed(1) : '0'} %</div>
     </div>
     <div class="hz-kpi">
       <div class="hz-kpi-label">Thin Content (&lt;800 W.)</div>
       <div class="hz-kpi-value">{thinContent.toLocaleString('de-DE')}</div>
-      <div class="hz-kpi-delta flat">{((thinContent/total)*100).toFixed(1)} %</div>
+      <div class="hz-kpi-delta flat">{total > 0 ? ((thinContent/total)*100).toFixed(1) : '0'} %</div>
     </div>
   </section>
 

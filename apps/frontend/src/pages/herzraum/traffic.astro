@@ -111,17 +111,20 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
 
       async function load() {
         const range = rangeSel.value;
-        const res = await fetch('/api/herzraum/stats?range=' + range);
-        if (!res.ok) return;
-        const d = await res.json();
-        if (!d.ok) return;
+        try {
+          const res = await fetch('/api/herzraum/stats?range=' + range, { cache: 'no-store' });
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          const d = await res.json();
+          if (!d.ok) throw new Error(d.error || 'API error');
 
         // KPIs
         const rangeCount = d.charts.pageviewsByDay.reduce((s, a) => s + a.count, 0);
         setKpi('pageviews.range', rangeCount);
-        setKpi('pageviews.avg', Math.round(rangeCount / d.days));
-        setKpi('pageviews.unique', d.topArticles.length);
-        setKpi('pageviews.refs', d.topReferrers.length);
+        // Bug-F17: Division-by-zero guard
+        setKpi('pageviews.avg', d.days > 0 ? Math.round(rangeCount / d.days) : 0);
+        // Bug #3 (Backend) + Bug-F9: echte Distinct-Counts, nicht Array-Length
+        setKpi('pageviews.unique', d.uniquePaths != null ? d.uniquePaths : d.topArticles.length);
+        setKpi('pageviews.refs', d.uniqueReferrers != null ? d.uniqueReferrers : d.topReferrers.length);
 
         // DEFENSIV: Tabellen ZUERST
         const total = Math.max(1, rangeCount);
@@ -148,6 +151,14 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
             renderBarChart('chart-weekday', d.charts.pageviewsByWeekday, 'day', 'count', 'Aufrufe');
             renderBarChart('chart-hour', d.charts.pageviewsByHour.map(h => ({ hour: String(h.hour).padStart(2, '0'), count: h.count })), 'hour', 'count', 'Aufrufe');
           } catch (err) { console.error('[traffic] chart:', err); }
+        }
+        } catch (err) {
+          // Bug-F5: fehlendes try/catch → hängende UI bei Fehler
+          console.error('[traffic] load:', err);
+          const artBody = document.querySelector('#table-articles tbody');
+          if (artBody) artBody.innerHTML = '<tr><td colspan="4" style="color:#fca5a5">Fehler beim Laden: ' + (err.message || 'Unbekannt') + '</td></tr>';
+          const refBody = document.querySelector('#table-refs tbody');
+          if (refBody) refBody.innerHTML = '<tr><td colspan="4" style="color:#fca5a5">Fehler beim Laden</td></tr>';
         }
       }
 
