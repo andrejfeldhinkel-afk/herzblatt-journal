@@ -726,9 +726,10 @@ const breadcrumbs = [
   ))}
 
   <!-- ============================================================= -->
-  <!-- HERO (2-Spalten, ebook-Stil)                                    -->
+  <!-- HERO (2-Spalten, ebook-Stil, Gradient-Mesh)                    -->
   <!-- ============================================================= -->
   <section class="relative overflow-hidden" style="background: linear-gradient(140deg, var(--color-primary-50) 0%, #fff 55%);">
+    <div class="tds-hero-mesh"></div>
     <div class="max-w-6xl mx-auto px-4 sm:px-6 py-14 sm:py-20">
       <div class="grid md:grid-cols-5 gap-10 lg:gap-16 items-center">
         <!-- Links: Content -->
@@ -854,19 +855,19 @@ const breadcrumbs = [
     <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 sm:gap-4 rounded-2xl p-4 sm:p-6"
          style="background: var(--bg-card); border: 1px solid var(--border); box-shadow: 0 8px 32px rgba(0,0,0,0.06);">
       <div class="text-center">
-        <p class="text-3xl sm:text-4xl font-bold" style="color: var(--color-primary-600); font-family: var(--font-serif); line-height: 1;">18</p>
+        <p class="text-3xl sm:text-4xl font-bold" style="color: var(--color-primary-600); font-family: var(--font-serif); line-height: 1;"><span class="tds-count" data-to="18">0</span></p>
         <p class="text-xs font-medium mt-1.5" style="color: var(--text-muted);">Plattformen getestet</p>
       </div>
       <div class="text-center">
-        <p class="text-3xl sm:text-4xl font-bold" style="color: var(--color-primary-600); font-family: var(--font-serif); line-height: 1;">180<span class="text-xl">h</span></p>
+        <p class="text-3xl sm:text-4xl font-bold" style="color: var(--color-primary-600); font-family: var(--font-serif); line-height: 1;"><span class="tds-count" data-to="180">0</span><span class="text-xl">h</span></p>
         <p class="text-xs font-medium mt-1.5" style="color: var(--text-muted);">Testzeit investiert</p>
       </div>
       <div class="text-center">
-        <p class="text-3xl sm:text-4xl font-bold" style="color: var(--color-primary-600); font-family: var(--font-serif); line-height: 1;">500<span class="text-xl">+</span></p>
+        <p class="text-3xl sm:text-4xl font-bold" style="color: var(--color-primary-600); font-family: var(--font-serif); line-height: 1;"><span class="tds-count" data-to="500">0</span><span class="text-xl">+</span></p>
         <p class="text-xs font-medium mt-1.5" style="color: var(--text-muted);">User-Feedbacks</p>
       </div>
       <div class="text-center">
-        <p class="text-3xl sm:text-4xl font-bold" style="color: var(--color-primary-600); font-family: var(--font-serif); line-height: 1;">100<span class="text-xl">%</span></p>
+        <p class="text-3xl sm:text-4xl font-bold" style="color: var(--color-primary-600); font-family: var(--font-serif); line-height: 1;"><span class="tds-count" data-to="100">0</span><span class="text-xl">%</span></p>
         <p class="text-xs font-medium mt-1.5" style="color: var(--text-muted);">Unabhängig & ehrlich</p>
       </div>
     </div>
@@ -1521,4 +1522,231 @@ const breadcrumbs = [
     display: none;
     content: '';
   }
+
+  /* ============ Scroll-Progress-Bar ============ */
+  #tds-scroll-progress {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--color-primary-400), var(--color-primary-600), var(--color-primary-700));
+    transform-origin: left;
+    transform: scaleX(0);
+    z-index: 100;
+    pointer-events: none;
+    transition: transform 0.1s linear;
+    box-shadow: 0 0 12px rgba(244,63,94,0.5);
+  }
+
+  /* ============ Sticky-Compare-CTA ============ */
+  #tds-sticky-cta {
+    position: fixed;
+    bottom: 1.5rem;
+    left: 50%;
+    transform: translateX(-50%) translateY(120%);
+    z-index: 90;
+    opacity: 0;
+    transition: transform 0.4s cubic-bezier(0.2, 0.8, 0.2, 1), opacity 0.3s ease;
+    pointer-events: none;
+  }
+  #tds-sticky-cta.visible {
+    transform: translateX(-50%) translateY(0);
+    opacity: 1;
+    pointer-events: auto;
+  }
+  #tds-sticky-cta .inner {
+    display: flex;
+    align-items: center;
+    gap: 0.875rem;
+    padding: 0.75rem 0.875rem 0.75rem 1.25rem;
+    background: var(--bg-card, #fff);
+    border: 1px solid var(--border, #e5e7eb);
+    border-radius: 999px;
+    box-shadow: 0 16px 48px rgba(244,63,94,0.22), 0 4px 12px rgba(0,0,0,0.08);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    max-width: calc(100vw - 2rem);
+  }
+  #tds-sticky-cta .rank-badge {
+    width: 28px; height: 28px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700));
+    color: white;
+    font-weight: 700;
+    font-size: 0.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  #tds-sticky-cta .label {
+    font-size: 0.8rem;
+    color: var(--text-muted, #64748b);
+    white-space: nowrap;
+  }
+  #tds-sticky-cta .label strong {
+    color: var(--text, #0f172a);
+    font-weight: 700;
+  }
+  #tds-sticky-cta .cta-btn {
+    background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700));
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 999px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-decoration: none;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    white-space: nowrap;
+  }
+  #tds-sticky-cta .cta-btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 8px 20px rgba(244,63,94,0.35);
+  }
+  @media (max-width: 540px) {
+    #tds-sticky-cta .label { display: none; }
+  }
+
+  /* ============ Fade-In / Slide-Up on Scroll ============ */
+  .tds-reveal {
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity 0.7s cubic-bezier(0.2, 0.8, 0.2, 1), transform 0.7s cubic-bezier(0.2, 0.8, 0.2, 1);
+    will-change: opacity, transform;
+  }
+  .tds-reveal.tds-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .tds-reveal {
+      opacity: 1;
+      transform: none;
+      transition: none;
+    }
+  }
+
+  /* ============ Hero-Gradient-Mesh (layered radial) ============ */
+  .tds-hero-mesh {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background:
+      radial-gradient(ellipse 600px 400px at 15% 20%, rgba(244,63,94,0.12), transparent 60%),
+      radial-gradient(ellipse 500px 300px at 85% 80%, rgba(251,191,36,0.08), transparent 55%),
+      radial-gradient(ellipse 400px 500px at 70% 10%, rgba(139,92,246,0.06), transparent 65%);
+    z-index: 0;
+  }
+  .tds-hero-mesh + div { position: relative; z-index: 1; }
+
+  /* ============ Card-Hover intensiviert ============ */
+  .tds-reveal article,
+  .tds-reveal .hover-lift {
+    transition: transform 0.3s cubic-bezier(0.2, 0.8, 0.2, 1), box-shadow 0.3s ease;
+  }
+  .tds-reveal article:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 16px 40px rgba(244,63,94,0.12), 0 4px 12px rgba(0,0,0,0.04);
+  }
+
+  /* ============ Animated KPI Counter ============ */
+  .tds-count {
+    display: inline-block;
+    font-variant-numeric: tabular-nums;
+  }
 </style>
+
+<script is:inline>
+  (function() {
+    if (typeof document === 'undefined') return;
+
+    // === 1. Scroll-Progress-Bar einbauen ===
+    const progressBar = document.createElement('div');
+    progressBar.id = 'tds-scroll-progress';
+    document.body.appendChild(progressBar);
+
+    function updateProgress() {
+      const scrollTop = window.scrollY;
+      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+      const pct = docHeight > 0 ? (scrollTop / docHeight) : 0;
+      progressBar.style.transform = 'scaleX(' + pct + ')';
+    }
+    updateProgress();
+
+    // === 2. Sticky-Compare-CTA einbauen ===
+    const stickyCta = document.createElement('div');
+    stickyCta.id = 'tds-sticky-cta';
+    stickyCta.innerHTML = `
+      <div class="inner">
+        <span class="rank-badge">1</span>
+        <span class="label"><strong>xLoves</strong> · Unser Testsieger 2026</span>
+        <a href="${document.querySelector('#top-1 a[href*=\"dating-tracker\"]')?.href || '#top-1'}"
+           target="_blank" rel="noopener sponsored"
+           class="cta-btn"
+           onclick="navigator.sendBeacon && navigator.sendBeacon('/api/track-click', JSON.stringify({site:'xloves',event:'sticky-cta'}))">
+          Jetzt testen →
+        </a>
+      </div>`;
+    document.body.appendChild(stickyCta);
+
+    function toggleSticky() {
+      // Erscheint ab ~800px Scroll, verschwindet im Final-CTA-Bereich
+      const y = window.scrollY;
+      const doc = document.documentElement.scrollHeight - window.innerHeight;
+      const visible = y > 800 && y < doc - 400;
+      stickyCta.classList.toggle('visible', visible);
+    }
+
+    // === 3. IntersectionObserver für Fade-In ===
+    // Jede h2-Section + jeder Article bekommt .tds-reveal
+    const targets = document.querySelectorAll('main section > div > div, main section h2, main section article, main section > .rounded-2xl');
+    targets.forEach(t => t.classList.add('tds-reveal'));
+
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('tds-visible');
+          io.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.12, rootMargin: '0px 0px -50px 0px' });
+
+    targets.forEach(t => io.observe(t));
+
+    // === 4. Animated KPI Counter ===
+    const kpiTargets = document.querySelectorAll('.tds-count');
+    const countIO = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const el = entry.target;
+          const final = parseInt(el.dataset.to || el.textContent, 10);
+          if (isNaN(final)) return;
+          let current = 0;
+          const duration = 1200;
+          const start = performance.now();
+          function step(now) {
+            const t = Math.min(1, (now - start) / duration);
+            const eased = 1 - Math.pow(1 - t, 3);
+            el.textContent = Math.round(eased * final).toLocaleString('de-DE');
+            if (t < 1) requestAnimationFrame(step);
+          }
+          requestAnimationFrame(step);
+          countIO.unobserve(el);
+        }
+      });
+    }, { threshold: 0.5 });
+    kpiTargets.forEach(el => countIO.observe(el));
+
+    // === 5. Scroll-Handler (throttled via rAF) ===
+    let ticking = false;
+    window.addEventListener('scroll', () => {
+      if (!ticking) {
+        requestAnimationFrame(() => {
+          updateProgress();
+          toggleSticky();
+          ticking = false;
+        });
+        ticking = true;
+      }
+    }, { passive: true });
+  })();
+</script>
