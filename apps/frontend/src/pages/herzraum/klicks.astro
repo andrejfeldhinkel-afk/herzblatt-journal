@@ -81,25 +81,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         setKpi('clicks.total', d.kpis.clicks.total);
         setKpi('ctr', d.ctr + ' %');
 
-        // Daily Chart
-        new Chart(document.getElementById('chart-daily').getContext('2d'), {
-          type: 'line',
-          data: {
-            labels: d.charts.clicksByDay.map(e => e.date.slice(5)),
-            datasets: [{ label: 'Klicks', data: d.charts.clicksByDay.map(e => e.count), borderColor: '#f43f5e', backgroundColor: 'rgba(244,63,94,0.12)', tension: 0.35, fill: true, borderWidth: 2 }],
-          },
-          options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#94a3b8' }, grid: { color: '#2a2a3a' } }, y: { ticks: { color: '#94a3b8', precision: 0 }, grid: { color: '#2a2a3a' }, beginAtZero: true } } },
-        });
-
-        // Pie Chart
-        const targets = Object.entries(d.charts.clicksByTarget || {});
-        new Chart(document.getElementById('chart-pie').getContext('2d'), {
-          type: 'doughnut',
-          data: { labels: targets.map(t => t[0]), datasets: [{ data: targets.map(t => t[1]), backgroundColor: colors.slice(0, targets.length), borderColor: '#1a1a24', borderWidth: 2 }] },
-          options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { labels: { color: '#e2e8f0' }, position: 'right' } } },
-        });
-
-        // Table targets
+        // DEFENSIV: Tabellen ZUERST (damit Chart-Fehler nix killt)
         const totalCl = Math.max(1, d.kpis.clicks.month);
         const tBody = document.querySelector('#table-targets tbody');
         tBody.innerHTML = d.topClickTargets.length
@@ -109,13 +91,32 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
             }).join('')
           : '<tr><td colspan="4" class="muted">Noch keine Daten</td></tr>';
 
-        // Sources — brauchen wir Rohdaten
         const src = await fetch('/api/herzraum/clicks/sources').then(r => r.json()).catch(() => ({ ok: false }));
         const sBody = document.querySelector('#table-sources tbody');
         if (src.ok && src.sources.length) {
           sBody.innerHTML = src.sources.map((s, i) => '<tr><td class="muted">' + (i+1) + '</td><td>' + s.source + '</td><td class="right">' + fmtNum(s.count) + '</td></tr>').join('');
         } else {
           sBody.innerHTML = '<tr><td colspan="3" class="muted">Noch keine Daten</td></tr>';
+        }
+
+        // Charts am Schluss, defensiv
+        if (typeof Chart !== 'undefined') {
+          try {
+            new Chart(document.getElementById('chart-daily').getContext('2d'), {
+              type: 'line',
+              data: {
+                labels: d.charts.clicksByDay.map(e => e.date.slice(5)),
+                datasets: [{ label: 'Klicks', data: d.charts.clicksByDay.map(e => e.count), borderColor: '#f43f5e', backgroundColor: 'rgba(244,63,94,0.12)', tension: 0.35, fill: true, borderWidth: 2 }],
+              },
+              options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#94a3b8' }, grid: { color: '#2a2a3a' } }, y: { ticks: { color: '#94a3b8', precision: 0 }, grid: { color: '#2a2a3a' }, beginAtZero: true } } },
+            });
+            const targets = Object.entries(d.charts.clicksByTarget || {});
+            new Chart(document.getElementById('chart-pie').getContext('2d'), {
+              type: 'doughnut',
+              data: { labels: targets.map(t => t[0]), datasets: [{ data: targets.map(t => t[1]), backgroundColor: colors.slice(0, targets.length), borderColor: '#1a1a24', borderWidth: 2 }] },
+              options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { labels: { color: '#e2e8f0' }, position: 'right' } } },
+            });
+          } catch (err) { console.error('[klicks] chart:', err); }
         }
       }
 
