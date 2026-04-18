@@ -1,5 +1,5 @@
 import { Hono } from 'hono';
-import { desc } from 'drizzle-orm';
+import { desc, count, sql } from 'drizzle-orm';
 import { db, schema } from '../../db/index.js';
 
 const app = new Hono();
@@ -13,7 +13,9 @@ function maskEmail(email: string): string {
 app.get('/', async (c) => {
   const mask = c.req.query('mask') !== 'false';
 
-  const [regs, nlEmails] = await Promise.all([
+  // Bug #4: Overlap + Total aus SQL, nicht aus limited JS-Array.
+  // Sonst bei >1000 Regs Overlap-Unterschätzung.
+  const [regs, nlEmails, totalRegsRow, overlapRow] = await Promise.all([
     db
       .select({
         email: schema.registrations.email,
@@ -26,22 +28,29 @@ app.get('/', async (c) => {
     db
       .select({ email: schema.subscribers.email })
       .from(schema.subscribers),
+    db
+      .select({ n: count() })
+      .from(schema.registrations),
+    db.execute<{ n: number }>(sql`
+      SELECT COUNT(DISTINCT r.email)::int AS n
+      FROM registrations r
+      INNER JOIN subscribers s ON LOWER(r.email) = LOWER(s.email)
+      WHERE s.unsubscribed_at IS NULL
+    `),
   ]);
 
   const nlSet = new Set(nlEmails.map(e => e.email.toLowerCase()));
-  let overlap = 0;
-  const entries = regs.map(r => {
-    const isNl = nlSet.has(r.email.toLowerCase());
-    if (isNl) overlap++;
-    return {
-      email: mask ? maskEmail(r.email) : r.email,
-      ts: r.createdAt instanceof Date ? r.createdAt.toISOString() : r.createdAt,
-      source: r.source || 'unknown',
-      newsletter: isNl,
-    };
-  });
+  const entries = regs.map(r => ({
+    email: mask ? maskEmail(r.email) : r.email,
+    ts: r.createdAt instanceof Date ? r.createdAt.toISOString() : r.createdAt,
+    source: r.source || 'unknown',
+    newsletter: nlSet.has(r.email.toLowerCase()),
+  }));
 
-  return c.json({ ok: true, entries, total: regs.length, overlap });
+  const total = Number(totalRegsRow[0]?.n || 0);
+  const overlap = Number((overlapRow as any)[0]?.n || 0);
+
+  return c.json({ ok: true, entries, total, overlap });
 });
 
 export default app;

@@ -1,5 +1,5 @@
 import { Hono } from 'hono';
-import { count, desc, gt, sql } from 'drizzle-orm';
+import { count, desc, gt, sql, isNull, and } from 'drizzle-orm';
 import { db, schema } from '../../db/index.js';
 
 const app = new Hono();
@@ -38,11 +38,20 @@ app.get('/', async (c) => {
     db.select({ n: count() }).from(schema.registrations).where(gt(schema.registrations.createdAt, weekStart)),
     db.select({ n: count() }).from(schema.registrations).where(gt(schema.registrations.createdAt, monthStart)),
     db.select({ n: count() }).from(schema.registrations),
-    db.select({ n: count() }).from(schema.subscribers).where(gt(schema.subscribers.createdAt, todayStart)),
-    db.select({ n: count() }).from(schema.subscribers).where(gt(schema.subscribers.createdAt, weekStart)),
-    db.select({ n: count() }).from(schema.subscribers).where(gt(schema.subscribers.createdAt, monthStart)),
-    db.select({ n: count() }).from(schema.subscribers),
+    // Newsletter: nur aktive (nicht unsubscribed) zählen — Bug #2
+    db.select({ n: count() }).from(schema.subscribers).where(and(isNull(schema.subscribers.unsubscribedAt), gt(schema.subscribers.createdAt, todayStart))),
+    db.select({ n: count() }).from(schema.subscribers).where(and(isNull(schema.subscribers.unsubscribedAt), gt(schema.subscribers.createdAt, weekStart))),
+    db.select({ n: count() }).from(schema.subscribers).where(and(isNull(schema.subscribers.unsubscribedAt), gt(schema.subscribers.createdAt, monthStart))),
+    db.select({ n: count() }).from(schema.subscribers).where(isNull(schema.subscribers.unsubscribedAt)),
   ]);
+
+  // Unique-Counts für Traffic-KPIs (Bug #3: vorher wurde Array-Length vom Top-10 genutzt)
+  const [uniquePathsRow] = (await db.execute<{ n: number }>(sql`
+    SELECT COUNT(DISTINCT path)::int AS n FROM pageviews WHERE ts > ${rangeStart.toISOString()}::timestamptz
+  `)) as any;
+  const [uniqueReferrersRow] = (await db.execute<{ n: number }>(sql`
+    SELECT COUNT(DISTINCT referrer)::int AS n FROM pageviews WHERE ts > ${rangeStart.toISOString()}::timestamptz
+  `)) as any;
 
   // Top Articles (30d)
   const topArticles = await db
@@ -204,9 +213,14 @@ app.get('/', async (c) => {
     topArticles: topArticles.map(a => ({ slug: a.path, count: Number(a.n) })),
     topReferrers: topReferrers.map(r => ({ key: r.referrer || 'direct', count: Number(r.n) })),
     topClickTargets: topClickTargets.map(t => ({ key: t.target, count: Number(t.n) })),
+    // Bug #3: echte Distinct-Counts statt Array-Length vom Top-N
+    uniquePaths: Number(uniquePathsRow?.n || 0),
+    uniqueReferrers: Number(uniqueReferrersRow?.n || 0),
     charts: {
       pageviewsByDay: pvByDay,
       clicksByDay,
+      // Bug #1: Pie-Chart "Verteilung nach Affiliate" war leer — Feld fehlte im Response
+      clicksByTarget: Object.fromEntries(topClickTargets.map(t => [t.target, Number(t.n)])),
       pageviewsByWeekday: pvByWeekday,
       pageviewsByHour: pvByHour,
       registrationsByDay: regByDay,

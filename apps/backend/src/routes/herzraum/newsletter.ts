@@ -1,5 +1,5 @@
 import { Hono } from 'hono';
-import { desc } from 'drizzle-orm';
+import { desc, isNull, count } from 'drizzle-orm';
 import { db, schema } from '../../db/index.js';
 
 const app = new Hono();
@@ -12,7 +12,9 @@ function maskEmail(email: string): string {
 
 app.get('/list', async (c) => {
   const mask = c.req.query('mask') !== 'false';
+  const includeUnsubscribed = c.req.query('includeUnsubscribed') === 'true';
 
+  // Bug #2: Standardmäßig nur aktive Subscriber zeigen (nicht unsubscribed)
   const rows = await db
     .select({
       email: schema.subscribers.email,
@@ -20,10 +22,17 @@ app.get('/list', async (c) => {
       source: schema.subscribers.source,
     })
     .from(schema.subscribers)
+    .where(includeUnsubscribed ? undefined : isNull(schema.subscribers.unsubscribedAt))
     .orderBy(desc(schema.subscribers.createdAt))
     .limit(1000);
 
-  const total = rows.length;
+  // Echten Total aus DB holen (Bug: vorher rows.length → max 1000)
+  const [totalRow] = await db
+    .select({ n: count() })
+    .from(schema.subscribers)
+    .where(includeUnsubscribed ? undefined : isNull(schema.subscribers.unsubscribedAt));
+  const total = Number(totalRow?.n || 0);
+
   const entries = rows.map(r => ({
     email: mask ? maskEmail(r.email) : r.email,
     ts: r.createdAt instanceof Date ? r.createdAt.toISOString() : r.createdAt,
