@@ -1,0 +1,262 @@
+---
+export const prerender = false;
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+---
+<HerzraumLayout title="Email-Templates" active="email-templates">
+  <div class="hz-card" style="padding: 1.5rem; margin-bottom: 1rem;">
+    <h2 style="margin: 0 0 0.5rem 0;">📧 Email-Templates</h2>
+    <p style="color: var(--hz-text-muted); font-size: 0.85rem; margin: 0;">
+      Design, Live-Preview und Test-Send für alle automatischen Emails.
+      Anti-Spam-designed (kein Caps-Lock, warme Farben, echte Content-Value, Unsubscribe sichtbar).
+    </p>
+  </div>
+
+  <div style="display: grid; grid-template-columns: 280px 1fr; gap: 1rem; align-items: flex-start;">
+
+    <!-- Template-Liste -->
+    <div class="hz-card" style="padding: 1rem; position: sticky; top: 1rem;">
+      <h3 style="margin: 0 0 0.75rem 0; font-size: 0.88rem;">Verfügbare Templates</h3>
+      <div id="template-list">
+        <div style="color: var(--hz-text-muted); padding: 1rem; text-align: center; font-size: 0.85rem;">Lade…</div>
+      </div>
+    </div>
+
+    <!-- Preview + Controls -->
+    <div id="preview-area" style="display: none;">
+      <div class="hz-card" style="padding: 1.25rem; margin-bottom: 1rem;">
+        <div class="hz-row" style="margin-bottom: 0.75rem;">
+          <h3 style="margin: 0;" id="tpl-name">—</h3>
+          <span class="hz-badge muted" id="tpl-cat">—</span>
+          <div class="hz-spacer"></div>
+          <div style="display: flex; gap: 0.25rem; background: var(--hz-bg-2); padding: 3px; border-radius: 6px;">
+            <button id="view-live" class="view-btn active" data-view="live" type="button">Live-Preview</button>
+            <button id="view-html" class="view-btn" data-view="html" type="button">HTML Source</button>
+            <button id="view-text" class="view-btn" data-view="text" type="button">Plain Text</button>
+          </div>
+        </div>
+        <p style="margin: 0 0 0.5rem; font-size: 0.85rem; color: var(--hz-text-muted);" id="tpl-desc">—</p>
+        <div style="font-size: 0.78rem; color: var(--hz-text-muted); padding: 0.5rem 0.75rem; background: var(--hz-bg-2); border-radius: 6px; margin-top: 0.75rem;">
+          <div><strong style="color: var(--hz-text);">Subject:</strong> <span id="tpl-subject">—</span></div>
+          <div style="margin-top: 0.25rem;"><strong style="color: var(--hz-text);">Preheader:</strong> <span id="tpl-preheader">—</span></div>
+        </div>
+      </div>
+
+      <!-- Preview-Viewer -->
+      <div id="view-live-container" class="view-container">
+        <div class="hz-card" style="padding: 0; overflow: hidden;">
+          <div style="padding: 0.5rem 1rem; background: var(--hz-bg-2); font-size: 0.75rem; color: var(--hz-text-muted); border-bottom: 1px solid var(--hz-border);">
+            🖥️ Live-Vorschau (wie's im Email-Client aussieht)
+          </div>
+          <iframe id="preview-iframe" style="width: 100%; height: 800px; border: 0; background: #f5f2f0;" title="Email preview"></iframe>
+        </div>
+      </div>
+
+      <div id="view-html-container" class="view-container" style="display: none;">
+        <div class="hz-card" style="padding: 0; overflow: hidden;">
+          <div style="padding: 0.5rem 1rem; background: var(--hz-bg-2); font-size: 0.75rem; color: var(--hz-text-muted); border-bottom: 1px solid var(--hz-border); display: flex; justify-content: space-between; align-items: center;">
+            <span>📋 HTML Source Code</span>
+            <button id="copy-html" class="hz-btn sm" type="button">Copy</button>
+          </div>
+          <pre id="html-source" style="margin: 0; padding: 1rem; background: var(--hz-bg); font-size: 0.7rem; line-height: 1.45; overflow: auto; max-height: 70vh; color: #cbd5e1; font-family: 'SF Mono', monospace; white-space: pre-wrap; word-break: break-word;"></pre>
+        </div>
+      </div>
+
+      <div id="view-text-container" class="view-container" style="display: none;">
+        <div class="hz-card" style="padding: 0; overflow: hidden;">
+          <div style="padding: 0.5rem 1rem; background: var(--hz-bg-2); font-size: 0.75rem; color: var(--hz-text-muted); border-bottom: 1px solid var(--hz-border);">
+            ✉️ Plain-Text-Version (fallback für Text-only clients + anti-spam-signal)
+          </div>
+          <pre id="text-source" style="margin: 0; padding: 1rem; font-family: 'SF Mono', monospace; font-size: 0.78rem; line-height: 1.6; white-space: pre-wrap; word-break: break-word; color: var(--hz-text); max-height: 70vh; overflow: auto;"></pre>
+        </div>
+      </div>
+
+      <!-- Variables + Test Send -->
+      <div class="hz-card" style="padding: 1.25rem; margin-top: 1rem;">
+        <h3 style="margin: 0 0 0.75rem 0; font-size: 0.95rem;">Variablen (für echte Sendungen)</h3>
+        <div id="variables-list" style="display: grid; gap: 0.5rem;"></div>
+      </div>
+
+      <div class="hz-card" style="padding: 1.25rem; margin-top: 1rem;">
+        <h3 style="margin: 0 0 0.75rem 0; font-size: 0.95rem;">📨 Test-Mail senden</h3>
+        <p style="color: var(--hz-text-muted); font-size: 0.8rem; margin-bottom: 0.75rem;">
+          Sendet dieses Template an die angegebene Email mit den Preview-Daten.
+          Nutzt die live-konfigurierte SendGrid-Integration (DKIM + SPF + Link-Branding ✓).
+        </p>
+        <div class="hz-row" style="gap: 0.5rem;">
+          <input type="email" id="test-email" placeholder="test@example.com" style="flex: 1;" />
+          <button id="send-test" class="hz-btn primary" type="button">Senden</button>
+        </div>
+        <div id="test-result" style="margin-top: 0.75rem; font-size: 0.85rem;"></div>
+      </div>
+    </div>
+
+    <div id="no-selection" class="hz-card" style="padding: 3rem; text-align: center; color: var(--hz-text-muted);">
+      ← Wähle links ein Template für Preview & Test-Send
+    </div>
+  </div>
+
+  <style>
+    .tpl-btn {
+      display: block; width: 100%;
+      text-align: left;
+      padding: 0.75rem 0.875rem;
+      background: transparent;
+      border: 1px solid transparent;
+      border-radius: 8px;
+      color: var(--hz-text);
+      cursor: pointer;
+      margin-bottom: 0.25rem;
+      transition: all 0.15s;
+    }
+    .tpl-btn:hover { background: var(--hz-surface-2); border-color: var(--hz-border-strong); }
+    .tpl-btn.active {
+      background: linear-gradient(90deg, var(--hz-primary-light), transparent 70%);
+      border-color: var(--hz-primary);
+    }
+    .tpl-btn .tpl-btn-name { font-weight: 600; font-size: 0.875rem; }
+    .tpl-btn .tpl-btn-cat { font-size: 0.7rem; color: var(--hz-text-muted); margin-top: 0.2rem; text-transform: uppercase; letter-spacing: 0.08em; }
+
+    .view-btn {
+      padding: 0.35rem 0.75rem;
+      font-size: 0.75rem;
+      background: transparent;
+      border: 0;
+      color: var(--hz-text-muted);
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: 500;
+    }
+    .view-btn.active { background: var(--hz-surface); color: var(--hz-text); box-shadow: 0 1px 2px rgba(0,0,0,0.3); }
+    .view-btn:hover:not(.active) { color: var(--hz-text); }
+
+    @media (max-width: 900px) {
+      div[style*="grid-template-columns: 280px 1fr"] { grid-template-columns: 1fr !important; }
+    }
+  </style>
+
+  <script is:inline>
+    (function() {
+      const $ = (id) => document.getElementById(id);
+      let templates = [];
+      let currentId = null;
+      let currentRendered = null;
+      let currentTemplate = null;
+
+      async function loadTemplates() {
+        try {
+          const res = await fetch('/api/herzraum/email-templates');
+          const data = await res.json();
+          if (!data.ok) throw new Error(data.error || 'failed');
+          templates = data.templates;
+          renderList();
+        } catch (err) {
+          $('template-list').innerHTML = '<div style="color: var(--hz-danger); padding: 1rem;">Fehler: ' + err.message + '</div>';
+        }
+      }
+
+      function renderList() {
+        $('template-list').innerHTML = templates.map(t => `
+          <button class="tpl-btn" data-id="${t.id}" type="button">
+            <div class="tpl-btn-name">${t.name}</div>
+            <div class="tpl-btn-cat">${t.category}</div>
+          </button>
+        `).join('');
+        document.querySelectorAll('.tpl-btn').forEach(btn => {
+          btn.addEventListener('click', () => select(btn.dataset.id));
+        });
+      }
+
+      async function select(id) {
+        currentId = id;
+        document.querySelectorAll('.tpl-btn').forEach(b => b.classList.toggle('active', b.dataset.id === id));
+        $('no-selection').style.display = 'none';
+        $('preview-area').style.display = 'block';
+
+        try {
+          const res = await fetch('/api/herzraum/email-templates/' + id + '/preview');
+          const data = await res.json();
+          if (!data.ok) throw new Error(data.error);
+          currentRendered = data.rendered;
+          currentTemplate = templates.find(t => t.id === id);
+
+          $('tpl-name').textContent = currentTemplate.name;
+          $('tpl-cat').textContent = currentTemplate.category;
+          $('tpl-desc').textContent = currentTemplate.description;
+          $('tpl-subject').textContent = data.rendered.subject;
+          $('tpl-preheader').textContent = data.rendered.preheader;
+
+          // Live-iframe via srcdoc
+          $('preview-iframe').srcdoc = data.rendered.html;
+
+          // HTML source
+          $('html-source').textContent = data.rendered.html;
+
+          // Text
+          $('text-source').textContent = data.rendered.text;
+
+          // Variables
+          const varsHtml = (currentTemplate.variables || []).map(v => `
+            <div style="padding: 0.5rem 0.75rem; background: var(--hz-bg-2); border-radius: 6px; font-size: 0.8rem;">
+              <code style="color: var(--hz-primary); font-weight: 600;">{{${v.key}}}</code>
+              <span style="color: var(--hz-text-muted); margin-left: 0.5rem;">${v.label}</span>
+              ${v.example ? `<div style="font-size: 0.72rem; color: var(--hz-text-dim); margin-top: 0.2rem;">Beispiel: ${v.example}</div>` : ''}
+            </div>
+          `).join('');
+          $('variables-list').innerHTML = varsHtml || '<div style="color: var(--hz-text-muted); font-size: 0.8rem;">Keine Variablen.</div>';
+        } catch (err) {
+          $('html-source').textContent = 'Fehler: ' + err.message;
+        }
+      }
+
+      // View-Toggle
+      document.querySelectorAll('.view-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.view-btn').forEach(b => b.classList.toggle('active', b === btn));
+          const view = btn.dataset.view;
+          document.querySelectorAll('.view-container').forEach(c => c.style.display = 'none');
+          $('view-' + view + '-container').style.display = 'block';
+        });
+      });
+
+      // Copy HTML
+      $('copy-html').addEventListener('click', () => {
+        const text = $('html-source').textContent;
+        navigator.clipboard.writeText(text);
+        const btn = $('copy-html');
+        btn.textContent = 'Kopiert ✓';
+        setTimeout(() => { btn.textContent = 'Copy'; }, 1500);
+      });
+
+      // Test-Send
+      $('send-test').addEventListener('click', async () => {
+        const email = $('test-email').value.trim();
+        const result = $('test-result');
+        if (!email || !currentId) {
+          result.innerHTML = '<span style="color: var(--hz-danger);">Bitte Email eingeben</span>';
+          return;
+        }
+        const btn = $('send-test'); btn.disabled = true; btn.textContent = 'Sende…';
+        result.innerHTML = '';
+        try {
+          const res = await fetch('/api/herzraum/email-templates/' + currentId + '/test', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ email }),
+          });
+          const data = await res.json();
+          if (data.ok) {
+            result.innerHTML = '<span style="color: #16a34a;">✓ Gesendet an ' + email + ' (Subject: ' + data.subject + ')</span>';
+          } else {
+            result.innerHTML = '<span style="color: var(--hz-danger);">Fehler: ' + (data.error || 'unknown') + '</span>';
+          }
+        } catch (err) {
+          result.innerHTML = '<span style="color: var(--hz-danger);">Netzwerk-Fehler</span>';
+        } finally {
+          btn.disabled = false; btn.textContent = 'Senden';
+        }
+      });
+
+      loadTemplates();
+    })();
+  </script>
+</HerzraumLayout>

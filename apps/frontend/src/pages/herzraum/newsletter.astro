@@ -66,30 +66,8 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
           setKpi('nl.month', statsRes.kpis.newsletter.month);
         }
 
-        // Growth Chart: aggregate by day from list
         if (listRes.ok) {
-          const days60 = {};
-          const now = new Date();
-          for (let i = 59; i >= 0; i--) {
-            const d = new Date(now.getTime() - i * 86_400_000);
-            days60[d.toISOString().slice(0,10)] = 0;
-          }
-          listRes.entries.forEach(e => {
-            const key = (e.ts || '').slice(0, 10);
-            if (key in days60) days60[key]++;
-          });
-          // Kumulativ
-          let running = listRes.total - Object.values(days60).reduce((s, v) => s + v, 0);
-          const labels = Object.keys(days60);
-          const values = labels.map(k => { running += days60[k]; return running; });
-
-          new Chart(document.getElementById('chart-growth').getContext('2d'), {
-            type: 'line',
-            data: { labels: labels.map(l => l.slice(5)), datasets: [{ label: 'Abonnenten', data: values, borderColor: '#f43f5e', backgroundColor: 'rgba(244,63,94,0.15)', tension: 0.25, fill: true, borderWidth: 2 }] },
-            options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#94a3b8', maxTicksLimit: 12 }, grid: { color: '#2a2a3a' } }, y: { ticks: { color: '#94a3b8', precision: 0 }, grid: { color: '#2a2a3a' }, beginAtZero: true } } },
-          });
-
-          // Table (neueste zuerst)
+          // STEP 1 — Tabelle IMMER ZUERST füllen (defensiv: damit Chart-Error die Daten nicht killt)
           const rows = [...listRes.entries].reverse().slice(0, 500);
           const tbody = document.querySelector('#table-nl tbody');
           tbody.innerHTML = rows.length
@@ -98,6 +76,36 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
                 return '<tr><td>' + e.email + '</td><td class="muted">' + ts + '</td><td><span class="hz-badge muted">' + (e.source || 'unknown') + '</span></td></tr>';
               }).join('')
             : '<tr><td colspan="3" class="muted">Noch keine Abonnenten</td></tr>';
+
+          // STEP 2 — Chart (nur wenn Chart.js geladen ist)
+          if (typeof Chart !== 'undefined') {
+            try {
+              const days60 = {};
+              const now = new Date();
+              for (let i = 59; i >= 0; i--) {
+                const d = new Date(now.getTime() - i * 86_400_000);
+                days60[d.toISOString().slice(0,10)] = 0;
+              }
+              listRes.entries.forEach(e => {
+                const key = (e.ts || '').slice(0, 10);
+                if (key in days60) days60[key]++;
+              });
+              let running = listRes.total - Object.values(days60).reduce((s, v) => s + v, 0);
+              const labels = Object.keys(days60);
+              const values = labels.map(k => { running += days60[k]; return running; });
+              new Chart(document.getElementById('chart-growth').getContext('2d'), {
+                type: 'line',
+                data: { labels: labels.map(l => l.slice(5)), datasets: [{ label: 'Abonnenten', data: values, borderColor: '#f43f5e', backgroundColor: 'rgba(244,63,94,0.15)', tension: 0.25, fill: true, borderWidth: 2 }] },
+                options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#94a3b8', maxTicksLimit: 12 }, grid: { color: '#2a2a3a' } }, y: { ticks: { color: '#94a3b8', precision: 0 }, grid: { color: '#2a2a3a' }, beginAtZero: true } } },
+              });
+            } catch (err) { console.error('[newsletter] chart error:', err); }
+          } else {
+            // Chart.js geblockt/nicht verfügbar — fallback: kleine Info
+            const chartEl = document.getElementById('chart-growth');
+            if (chartEl && chartEl.parentElement) {
+              chartEl.parentElement.innerHTML = '<p style="color: var(--hz-text-muted); font-size: 0.85rem; text-align: center; padding: 2rem;">Chart-Library nicht geladen. Daten siehe Tabelle unten.</p>';
+            }
+          }
         }
       }
       load();

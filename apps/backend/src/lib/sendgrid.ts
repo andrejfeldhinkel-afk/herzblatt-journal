@@ -130,6 +130,7 @@ export async function sendWelcomeEmail(email: string): Promise<SendGridResult> {
     };
 
     if (cfg.welcomeTemplateId) {
+      // SG-dynamic-template-Mode
       body.template_id = cfg.welcomeTemplateId;
       personalization.dynamic_template_data = {
         email,
@@ -137,43 +138,26 @@ export async function sendWelcomeEmail(email: string): Promise<SendGridResult> {
         unsubscribe_url: unsubUrl,
       };
     } else {
-      // Fallback: schlichter HTML-Content, wenn kein Template gesetzt
-      body.subject = 'Willkommen im Herzblatt Journal 💕';
-      body.content = [
-        {
-          type: 'text/plain',
-          value: `Hallo!
-
-Schön, dass du dich angemeldet hast. Du bekommst ab jetzt unsere besten Dating- und Beziehungs-Tipps direkt in dein Postfach.
-
-Keine Spam-Mails, nur Gold-Content.
-
-Herzlich,
-Dein Herzblatt-Journal-Team
-
----
-Abmelden jederzeit möglich: ${unsubUrl}
-`,
-        },
-        {
-          type: 'text/html',
-          value: `
-<!DOCTYPE html>
-<html><body style="font-family: Georgia, serif; max-width: 600px; margin: 2rem auto; padding: 1rem; color: #333;">
-  <h1 style="color: #e11d48;">Willkommen im Herzblatt Journal 💕</h1>
-  <p>Schön, dass du dich angemeldet hast.</p>
-  <p>Du bekommst ab jetzt unsere <strong>besten Dating- und Beziehungs-Tipps</strong> direkt in dein Postfach.</p>
-  <p>Keine Spam-Mails, nur Gold-Content.</p>
-  <p style="margin-top: 2rem;">Herzlich,<br>Dein Herzblatt-Journal-Team</p>
-  <hr style="margin-top: 2rem; border: none; border-top: 1px solid #ddd;">
-  <p style="font-size: 0.8rem; color: #888;">
-    Du möchtest keine Mails mehr bekommen?
-    <a href="${unsubUrl}" style="color: #888; text-decoration: underline;">Hier abmelden</a>.
-  </p>
-</body></html>
-`,
-        },
-      ];
+      // Code-Template aus email-templates.ts nutzen (schön designed, anti-spam)
+      const { renderEmailTemplate } = await import('./email-templates.js');
+      const baseUrl = process.env.PUBLIC_BASE_URL || 'https://herzblatt-journal.com';
+      const rendered = renderEmailTemplate('welcome', { first_name: '' }, {
+        baseUrl,
+        unsubscribeUrl: unsubUrl,
+      });
+      if (rendered) {
+        body.subject = rendered.subject;
+        body.content = [
+          { type: 'text/plain', value: rendered.text },
+          { type: 'text/html', value: rendered.html },
+        ];
+      } else {
+        // Ultra-fallback
+        body.subject = 'Willkommen im Herzblatt Journal';
+        body.content = [
+          { type: 'text/plain', value: `Willkommen — schön dass du dabei bist.\n\nAbmelden: ${unsubUrl}` },
+        ];
+      }
     }
 
     const res = await fetch(`${API_BASE}/mail/send`, {
