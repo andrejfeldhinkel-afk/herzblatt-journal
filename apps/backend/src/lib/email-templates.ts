@@ -518,11 +518,162 @@ Sarah`;
   },
 };
 
+// ─── Template 5: E-Book Promo (Sales-Mail) ──────────────
+
+const ebookPromoTemplate: EmailTemplate = {
+  id: 'ebook-promo',
+  name: 'E-Book-Bewerbung (Sales-Mail)',
+  description: 'Warm-geschriebene Verkaufs-Mail für die "Herzblatt-Methode". Persönliche Story → Mehrwert → sanfter CTA. Anti-Spam-Design (kein Caps, max 2 Links, echter Content-Wert vor Pitch).',
+  category: 'marketing',
+  subject: '{{subject_line}}',
+  preheader: '{{preheader_text}}',
+  variables: [
+    { key: 'subject_line', label: 'Subject-Zeile', example: 'Was ich über sichere Bindung erst mit 34 verstanden habe' },
+    { key: 'preheader_text', label: 'Preview-Text in Inbox (≤110 Zeichen)', example: 'Eine kurze persönliche Geschichte — und was daraus geworden ist.' },
+    { key: 'first_name', label: 'Vorname (optional, Fallback: "")', example: '' },
+    { key: 'hook_line', label: 'Opener-Zeile (emotionaler Haken, 1 Satz)', example: 'Ich wünschte, mir hätte das jemand mit 25 gesagt.' },
+    { key: 'story_paragraph', label: 'Story-Absatz (4-6 Sätze, persönlich)', example: 'Jahrelang habe ich geglaubt, dass "zu viel" zu fühlen mein Problem ist. Dass ich weniger brauchen, weniger spüren, weniger fragen muss. Bis mir eine befreundete Therapeutin einen Satz sagte der alles verändert hat: Nicht deine Intensität ist das Problem — sondern dass du noch nie gelernt hast, dass sie willkommen ist. Von da an habe ich drei Jahre lang nur an einer Sache gearbeitet.' },
+    { key: 'pain_heading', label: 'Überschrift Pain-Block', example: 'Vielleicht kennst du das:' },
+    { key: 'pain_point_1', label: 'Pain-Point 1', example: 'Du liebst — aber eine Stimme fragt ständig "bin ich zu viel?"' },
+    { key: 'pain_point_2', label: 'Pain-Point 2', example: 'Du wählst unbewusst immer wieder Menschen, die emotional nicht verfügbar sind.' },
+    { key: 'pain_point_3', label: 'Pain-Point 3', example: 'Wenn es ernst wird, ziehst du dich zurück — oder klammerst.' },
+    { key: 'promise_paragraph', label: 'Promise-Absatz (was gibt das E-Book)', example: 'Die Herzblatt-Methode ist kein weiteres Selbsthilfe-PDF. Es ist eine 90-seitige Arbeits-Anleitung, die dir in 4 Schritten zeigt wie sich sichere Bindung im Alltag anfühlt — mit 17 konkreten Übungen, die du heute Abend starten kannst. Keine Therapie-Abkürzung, aber ein klarer Einstiegspunkt.' },
+    { key: 'ebook_url', label: 'Checkout-URL (tracking-parametrisiert)', example: 'https://www.digistore24.com/product/herzblatt-methode?source=newsletter' },
+    { key: 'price_line', label: 'Preis-Info (menschlich formuliert)', example: 'Einmalig 29 € statt regulär 49 € — nur für Newsletter-Leser bis Sonntag.' },
+    { key: 'testimonial_quote', label: 'Testimonial-Zitat (echter User)', example: 'Ich dachte ehrlich, es ist wieder so ein generisches Ding. Aber Übung 4 hat mich eine Nacht wach gehalten — auf die gute Art. Ich sehe meine Beziehungen anders.' },
+    { key: 'testimonial_author', label: 'Testimonial-Autor', example: 'Jana, 31, München' },
+    { key: 'pps_line', label: 'P.S.-Zeile (Risiko-Reversal oder persönliche Note)', example: '30 Tage Geld-zurück, bedingungslos. Wenn das Workbook dir nicht etwas Neues zeigt, schreib mir eine Mail und du bekommst alles zurück.' },
+  ],
+  previewData: {
+    subject_line: 'Was ich über sichere Bindung erst mit 34 verstanden habe',
+    preheader_text: 'Eine kurze persönliche Geschichte — und was daraus geworden ist.',
+    first_name: '',
+    hook_line: 'Ich wünschte, mir hätte das jemand mit 25 gesagt.',
+    story_paragraph: 'Jahrelang habe ich geglaubt, dass "zu viel" zu fühlen mein Problem ist. Dass ich weniger brauchen, weniger spüren, weniger fragen muss. Bis mir eine befreundete Therapeutin einen Satz sagte der alles verändert hat: Nicht deine Intensität ist das Problem — sondern dass du noch nie gelernt hast, dass sie willkommen ist. Von da an habe ich drei Jahre lang nur an einer Sache gearbeitet.',
+    pain_heading: 'Vielleicht kennst du das:',
+    pain_point_1: 'Du liebst — aber eine Stimme fragt ständig "bin ich zu viel?"',
+    pain_point_2: 'Du wählst unbewusst immer wieder Menschen, die emotional nicht verfügbar sind.',
+    pain_point_3: 'Wenn es ernst wird, ziehst du dich zurück — oder klammerst.',
+    promise_paragraph: 'Die Herzblatt-Methode ist kein weiteres Selbsthilfe-PDF. Es ist eine 90-seitige Arbeits-Anleitung, die dir in 4 Schritten zeigt wie sich sichere Bindung im Alltag anfühlt — mit 17 konkreten Übungen, die du heute Abend starten kannst. Keine Therapie-Abkürzung, aber ein klarer Einstiegspunkt.',
+    ebook_url: 'https://www.digistore24.com/product/herzblatt-methode?source=newsletter',
+    price_line: 'Einmalig 29 € statt regulär 49 € — nur für Newsletter-Leser bis Sonntag.',
+    testimonial_quote: 'Ich dachte ehrlich, es ist wieder so ein generisches Ding. Aber Übung 4 hat mich eine Nacht wach gehalten — auf die gute Art. Ich sehe meine Beziehungen anders.',
+    testimonial_author: 'Jana, 31, München',
+    pps_line: '30 Tage Geld-zurück, bedingungslos. Wenn das Workbook dir nicht etwas Neues zeigt, schreib mir eine Mail und du bekommst alles zurück.',
+  },
+  render(data, ctx = {}) {
+    const subject = interpolate(this.subject, data);
+    const preheader = interpolate(this.preheader, data);
+    const greeting = data.first_name ? `Hallo ${data.first_name},` : 'Hallo,';
+
+    const bodyHtml = `
+<h1 style="font-family: Georgia, serif; font-size: 26px; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 20px; color: ${COLORS.text}; line-height: 1.25;">
+  ${data.hook_line}
+</h1>
+
+<p style="margin: 0 0 16px; font-size: 16px; line-height: 1.65;">
+  ${greeting}
+</p>
+
+<p style="margin: 0 0 22px; font-size: 16px; line-height: 1.7;">
+  ${data.story_paragraph}
+</p>
+
+<p style="margin: 0 0 10px; font-weight: 600; color: ${COLORS.text}; font-size: 16px;">
+  ${data.pain_heading}
+</p>
+<ul style="margin: 0 0 26px; padding: 0 0 0 20px; font-size: 15.5px; line-height: 1.7; color: ${COLORS.text};">
+  <li style="margin-bottom: 8px;">${data.pain_point_1}</li>
+  <li style="margin-bottom: 8px;">${data.pain_point_2}</li>
+  <li style="margin-bottom: 8px;">${data.pain_point_3}</li>
+</ul>
+
+<div style="background: ${COLORS.accentSoft}; border-left: 3px solid ${COLORS.accent}; padding: 22px 26px; margin: 0 0 28px; border-radius: 0 8px 8px 0;">
+  <p style="margin: 0 0 12px; font-weight: 600; color: ${COLORS.text}; font-size: 16px;">Was daraus geworden ist</p>
+  <p style="margin: 0; font-size: 15px; color: ${COLORS.textMuted}; line-height: 1.65;">
+    ${data.promise_paragraph}
+  </p>
+</div>
+
+<!-- CTA -->
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin: 24px 0 20px;">
+  <tr>
+    <td align="center">
+      <a href="${data.ebook_url}" style="display: inline-block; padding: 15px 34px; background: ${COLORS.accent}; color: #ffffff; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 16px; letter-spacing: -0.01em;">
+        Zum Workbook
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p style="margin: 0 0 28px; text-align: center; font-size: 13.5px; color: ${COLORS.textMuted};">
+  ${data.price_line}
+</p>
+
+<!-- Testimonial -->
+<div style="padding: 22px 26px; background: ${COLORS.bgSoft}; border: 1px solid ${COLORS.border}; border-radius: 10px; margin: 0 0 28px;">
+  <p style="margin: 0 0 10px; font-size: 15.5px; line-height: 1.65; color: ${COLORS.text}; font-style: italic;">
+    "${data.testimonial_quote}"
+  </p>
+  <p style="margin: 0; font-size: 13px; color: ${COLORS.textMuted};">
+    — ${data.testimonial_author}
+  </p>
+</div>
+
+<p style="margin: 24px 0 0; font-size: 15px;">
+  Herzlich,<br>
+  <strong>Sarah</strong>
+</p>
+
+<p style="margin: 28px 0 0; padding-top: 20px; border-top: 1px solid ${COLORS.border}; font-size: 13.5px; color: ${COLORS.textMuted}; line-height: 1.6;">
+  <strong style="color: ${COLORS.text};">P.S.</strong> ${data.pps_line}
+</p>
+`;
+
+    const text = `${data.hook_line}
+
+${greeting}
+
+${data.story_paragraph}
+
+${data.pain_heading}
+- ${data.pain_point_1}
+- ${data.pain_point_2}
+- ${data.pain_point_3}
+
+WAS DARAUS GEWORDEN IST:
+${data.promise_paragraph}
+
+Zum Workbook: ${data.ebook_url}
+${data.price_line}
+
+---
+
+"${data.testimonial_quote}"
+— ${data.testimonial_author}
+
+---
+
+Herzlich,
+Sarah
+
+P.S. ${data.pps_line}`;
+
+    return {
+      subject,
+      preheader,
+      html: htmlFrame({ preheader, bodyHtml, ctx }),
+      text: textFrame(text, ctx.unsubscribeUrl),
+    };
+  },
+};
+
 // ─── Registry ───────────────────────────────────────────
 
 export const emailTemplates: EmailTemplate[] = [
   welcomeTemplate,
   weeklyRoundupTemplate,
+  ebookPromoTemplate,
   ebookThanksTemplate,
   reEngagementTemplate,
 ];
