@@ -36,6 +36,8 @@ import adminCronCleanupRoute from './routes/admin/cron-cleanup.js';
 import adminSendgridRoute from './routes/admin/sendgrid.js';
 import adminMetricsRoute from './routes/admin/metrics.js';
 import adminBackupRoute from './routes/admin/backup.js';
+import adminGdprRoute from './routes/admin/gdpr.js';
+import adminPurchasesCsvRoute from './routes/admin/purchases-csv.js';
 
 // Middleware
 import { requireSession, requireAdminToken } from './lib/auth-middleware.js';
@@ -78,10 +80,12 @@ app.route('/herzraum/purchases', herzraumPurchasesRoute);
 // Admin — bearer token
 app.use('/admin/*', requireAdminToken);
 app.route('/admin/subscribers.csv', adminSubscribersCsvRoute);
+app.route('/admin/purchases.csv', adminPurchasesCsvRoute);
 app.route('/admin/cron/cleanup', adminCronCleanupRoute);
 app.route('/admin/sendgrid', adminSendgridRoute);
 app.route('/admin/metrics', adminMetricsRoute);
 app.route('/admin/backup.json', adminBackupRoute);
+app.route('/admin/gdpr', adminGdprRoute);
 
 // Globaler Error-Handler → Sentry + JSON-Response
 app.onError(async (err, c) => {
