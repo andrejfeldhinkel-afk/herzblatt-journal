@@ -4,7 +4,7 @@ import BlogCard from '../components/BlogCard.astro';
 import AppCTA from '../components/AppCTA.astro';
 import { getCollection } from 'astro:content';
 
-const posts = (await getCollection('blog', ({ data }) => !data.draft))
+const posts = (await getCollection('blog', ({ data }) => !data.draft && data.date <= new Date()))
   .sort((a, b) => (b.data.date?.valueOf?.() || 0) - (a.data.date?.valueOf?.() || 0));
 
 // Dynamischer Leser-Counter: Startwert + tägliches Wachstum (37-73 pro Tag, Seed-basiert)

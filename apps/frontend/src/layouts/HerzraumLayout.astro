@@ -184,6 +184,27 @@ const navSections = [
       margin-top: 0.35rem;
     }
     .hz-nav-section:first-child { margin-top: 0; }
+    .hz-nav-badge {
+      margin-left: auto;
+      min-width: 20px;
+      height: 20px;
+      padding: 0 6px;
+      background: linear-gradient(135deg, var(--hz-primary), var(--hz-primary-dark));
+      color: white;
+      border-radius: 999px;
+      font-size: 0.68rem;
+      font-weight: 700;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      line-height: 1;
+      font-variant-numeric: tabular-nums;
+      box-shadow: 0 2px 6px var(--hz-primary-glow);
+    }
+    .hz-nav a.active .hz-nav-badge {
+      background: rgba(255,255,255,0.15);
+      box-shadow: none;
+    }
     .hz-nav a {
       display: flex; align-items: center; gap: 0.75rem;
       padding: 0.55rem 0.75rem;
@@ -495,6 +516,8 @@ const navSections = [
             {item.icon === 'users' && <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>}
             {item.icon === 'settings' && <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>}
             <span>{item.label}</span>
+            {item.key === 'inbox' && <span id="hz-inbox-badge" class="hz-nav-badge" style="display: none;">0</span>}
+            {item.key === 'todos' && <span id="hz-todos-badge" class="hz-nav-badge" style="display: none;">0</span>}
           </a>
             ))}
           </>
@@ -522,6 +545,59 @@ const navSections = [
     </main>
   </div>
 
+  <!-- Cmd+K Quick-Search Overlay -->
+  <div id="hz-cmdk" style="display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.7); z-index: 9999; padding-top: 10vh; backdrop-filter: blur(6px);">
+    <div style="max-width: 640px; margin: 0 auto; background: var(--hz-surface); border: 1px solid var(--hz-border-strong); border-radius: 14px; box-shadow: var(--hz-shadow-lg); overflow: hidden;">
+      <div style="padding: 1rem 1.25rem; border-bottom: 1px solid var(--hz-border); display: flex; align-items: center; gap: 0.75rem;">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color: var(--hz-text-muted);"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        <input id="hz-cmdk-input" type="text" placeholder="Suche Artikel, Seiten, Produkte…"
+               style="flex: 1; background: transparent; border: 0; outline: none; color: var(--hz-text); font-size: 1rem;">
+        <kbd style="padding: 2px 6px; background: var(--hz-surface-2); border: 1px solid var(--hz-border); border-radius: 4px; font-size: 0.7rem; color: var(--hz-text-dim); font-family: inherit;">ESC</kbd>
+      </div>
+      <div id="hz-cmdk-results" style="max-height: 60vh; overflow-y: auto; padding: 0.5rem;">
+        <div style="padding: 2rem 1rem; text-align: center; color: var(--hz-text-dim); font-size: 0.85rem;">Tippe um zu suchen · Enter = öffnen · ↑↓ = navigieren</div>
+      </div>
+      <div style="padding: 0.5rem 1.25rem; border-top: 1px solid var(--hz-border); background: var(--hz-bg-2); font-size: 0.7rem; color: var(--hz-text-dim); display: flex; gap: 1rem;">
+        <span><kbd style="background: var(--hz-surface-2); padding: 1px 4px; border-radius: 3px;">⌘K</kbd> öffnen</span>
+        <span><kbd style="background: var(--hz-surface-2); padding: 1px 4px; border-radius: 3px;">↵</kbd> öffnen</span>
+        <span><kbd style="background: var(--hz-surface-2); padding: 1px 4px; border-radius: 3px;">↑↓</kbd> navigieren</span>
+      </div>
+    </div>
+  </div>
+
+  <style is:global>
+    .hz-cmdk-item {
+      display: flex !important;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 0.65rem 0.85rem !important;
+      border-radius: 8px !important;
+      cursor: pointer;
+      transition: background 0.1s;
+    }
+    .hz-cmdk-item:hover, .hz-cmdk-item.selected {
+      background: var(--hz-primary-light) !important;
+    }
+    .hz-cmdk-item-type {
+      font-size: 0.65rem !important;
+      color: var(--hz-text-dim) !important;
+      text-transform: uppercase !important;
+      letter-spacing: 0.1em !important;
+      min-width: 56px;
+      font-weight: 600;
+    }
+    .hz-cmdk-item-title {
+      flex: 1;
+      font-size: 0.88rem !important;
+      color: var(--hz-text) !important;
+    }
+    .hz-cmdk-item-meta {
+      font-size: 0.72rem !important;
+      color: var(--hz-text-dim) !important;
+      font-family: 'SF Mono', monospace;
+    }
+  </style>
+
   <script is:inline>
     // Live-Clock im Header
     (function() {
@@ -546,6 +622,178 @@ const navSections = [
       document.addEventListener('click', (e) => {
         if (!side.contains(e.target) && e.target !== btn && !btn.contains(e.target)) {
           side.classList.remove('open');
+        }
+      });
+    })();
+
+    // Sidebar-Badges (Inbox-unread + Todos-open) — alle 60s pollen
+    (function() {
+      async function loadBadge(apiPath, badgeId, valueKey) {
+        try {
+          const res = await fetch(apiPath, { credentials: 'same-origin' });
+          if (!res.ok) return;
+          const data = await res.json();
+          const count = data[valueKey] ?? data.count ?? 0;
+          const el = document.getElementById(badgeId);
+          if (!el) return;
+          if (count > 0) {
+            el.textContent = count > 99 ? '99+' : String(count);
+            el.style.display = 'inline-flex';
+          } else {
+            el.style.display = 'none';
+          }
+        } catch { /* silent */ }
+      }
+      function refresh() {
+        loadBadge('/api/herzraum/inbox/unread-count', 'hz-inbox-badge', 'count');
+        loadBadge('/api/herzraum/todos?filter=open', 'hz-todos-badge', 'openCount');
+      }
+      refresh();
+      setInterval(refresh, 60_000);
+    })();
+
+    // Cmd+K Quick-Search
+    (function() {
+      const overlay = document.getElementById('hz-cmdk');
+      const input = document.getElementById('hz-cmdk-input');
+      const results = document.getElementById('hz-cmdk-results');
+      if (!overlay || !input || !results) return;
+
+      // Statische Seiten-Index (für Admin-Navigation)
+      const pages = [
+        { type: 'page', title: 'Dashboard', href: '/herzraum' },
+        { type: 'page', title: 'Todos', href: '/herzraum/todos' },
+        { type: 'page', title: 'Artikel', href: '/herzraum/artikel' },
+        { type: 'page', title: 'Neuer Artikel', href: '/herzraum/artikel/neu' },
+        { type: 'page', title: 'Templates', href: '/herzraum/templates' },
+        { type: 'page', title: 'Bilder', href: '/herzraum/bilder' },
+        { type: 'page', title: 'Health & SEO', href: '/herzraum/health' },
+        { type: 'page', title: 'Produkte', href: '/herzraum/produkte' },
+        { type: 'page', title: 'Verkäufe', href: '/herzraum/verkaeufe' },
+        { type: 'page', title: 'Postfach', href: '/herzraum/inbox' },
+        { type: 'page', title: 'Newsletter', href: '/herzraum/newsletter' },
+        { type: 'page', title: 'Email-Templates', href: '/herzraum/email-templates' },
+        { type: 'page', title: 'Leser', href: '/herzraum/leser' },
+        { type: 'page', title: 'Traffic', href: '/herzraum/traffic' },
+        { type: 'page', title: 'Klicks', href: '/herzraum/klicks' },
+        { type: 'page', title: 'Autoren', href: '/herzraum/autoren' },
+        { type: 'page', title: 'Redirects', href: '/herzraum/redirects' },
+        { type: 'page', title: 'Audit-Log', href: '/herzraum/audit' },
+        { type: 'page', title: 'Einstellungen', href: '/herzraum/einstellungen' },
+      ];
+
+      let articlesCache = null;
+      let productsCache = null;
+      let selectedIdx = 0;
+
+      async function loadArticles() {
+        if (articlesCache) return articlesCache;
+        try {
+          // Artikel müssen wir vom Astro-Content serverside-rendern.
+          // Hier client-side → holen aus /herzraum/artikel-HTML (hacky), besser: über API.
+          // Fallback: leere Liste
+          articlesCache = [];
+        } catch { articlesCache = []; }
+        return articlesCache;
+      }
+
+      async function loadProducts() {
+        if (productsCache) return productsCache;
+        try {
+          const res = await fetch('/api/herzraum/products');
+          const data = await res.json();
+          productsCache = (data.products || []).map(p => ({
+            type: 'produkt',
+            title: p.name,
+            slug: p.slug,
+            href: '/herzraum/produkte',
+          }));
+        } catch { productsCache = []; }
+        return productsCache;
+      }
+
+      function fuzzyMatch(query, text) {
+        if (!query) return true;
+        const q = query.toLowerCase();
+        const t = text.toLowerCase();
+        if (t.includes(q)) return true;
+        // Simple fuzzy: all chars of query appear in order
+        let qi = 0;
+        for (let i = 0; i < t.length && qi < q.length; i++) {
+          if (t[i] === q[qi]) qi++;
+        }
+        return qi === q.length;
+      }
+
+      function render(items) {
+        if (items.length === 0) {
+          results.innerHTML = '<div style="padding: 2rem 1rem; text-align: center; color: var(--hz-text-dim); font-size: 0.85rem;">Keine Treffer</div>';
+          return;
+        }
+        results.innerHTML = items.slice(0, 20).map((item, i) => {
+          const meta = item.slug ? item.slug : '';
+          return '<div class="hz-cmdk-item ' + (i === selectedIdx ? 'selected' : '') + '" data-href="' + item.href + '" data-idx="' + i + '">'
+            + '<span class="hz-cmdk-item-type">' + item.type + '</span>'
+            + '<span class="hz-cmdk-item-title">' + item.title + '</span>'
+            + (meta ? '<span class="hz-cmdk-item-meta">' + meta + '</span>' : '')
+            + '</div>';
+        }).join('');
+        document.querySelectorAll('.hz-cmdk-item').forEach((el) => {
+          el.addEventListener('click', () => {
+            window.location.href = el.dataset.href;
+          });
+          el.addEventListener('mouseenter', () => {
+            selectedIdx = parseInt(el.dataset.idx, 10);
+            updateSelected();
+          });
+        });
+      }
+
+      function updateSelected() {
+        document.querySelectorAll('.hz-cmdk-item').forEach((el, i) => {
+          el.classList.toggle('selected', i === selectedIdx);
+        });
+      }
+
+      let currentItems = [];
+      async function search(q) {
+        const products = await loadProducts();
+        const all = [...pages, ...products];
+        currentItems = q
+          ? all.filter(i => fuzzyMatch(q, i.title))
+          : pages.slice(0, 10);
+        selectedIdx = 0;
+        render(currentItems);
+      }
+
+      function open() {
+        overlay.style.display = 'block';
+        input.value = '';
+        selectedIdx = 0;
+        search('');
+        setTimeout(() => input.focus(), 50);
+      }
+      function close() {
+        overlay.style.display = 'none';
+      }
+
+      input.addEventListener('input', (e) => search(e.target.value.trim()));
+      input.addEventListener('keydown', (e) => {
+        if (e.key === 'ArrowDown') { e.preventDefault(); selectedIdx = Math.min(selectedIdx + 1, currentItems.length - 1); updateSelected(); }
+        else if (e.key === 'ArrowUp') { e.preventDefault(); selectedIdx = Math.max(selectedIdx - 1, 0); updateSelected(); }
+        else if (e.key === 'Enter') { e.preventDefault(); const item = currentItems[selectedIdx]; if (item) window.location.href = item.href; }
+        else if (e.key === 'Escape') close();
+      });
+
+      overlay.addEventListener('click', (e) => {
+        if (e.target === overlay) close();
+      });
+
+      document.addEventListener('keydown', (e) => {
+        if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k') {
+          e.preventDefault();
+          if (overlay.style.display === 'none') open();
+          else close();
         }
       });
     })();

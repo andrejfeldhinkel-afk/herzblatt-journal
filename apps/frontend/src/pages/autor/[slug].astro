@@ -13,7 +13,7 @@ export function getStaticPaths() {
 
 const { author } = Astro.props;
 
-const allPosts = (await getCollection('blog', ({ data }) => !data.draft))
+const allPosts = (await getCollection('blog', ({ data }) => !data.draft && data.date <= new Date()))
   .filter(post => (post.data as any).author === author.slug || (!((post.data as any).author) && author.slug === 'redaktion'))
   .sort((a, b) => (b.data.date?.valueOf?.() || 0) - (a.data.date?.valueOf?.() || 0));
 

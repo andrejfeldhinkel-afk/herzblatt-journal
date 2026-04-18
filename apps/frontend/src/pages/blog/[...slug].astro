@@ -8,7 +8,9 @@ import { getCollection, render } from 'astro:content';
 import { getAuthor } from '../../data/authors';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('blog');
+  // Scheduled Posts: Artikel mit date > heute werden nicht generiert
+  const now = new Date();
+  const posts = await getCollection('blog', ({ data }) => !data.draft && data.date <= now);
   return posts.map(post => ({
     params: { slug: post.id },
     props: { post },
@@ -35,7 +37,7 @@ const words = (post.body || '').split(/\s+/).length;
 const readingTime = Math.ceil(words / 200);
 
 // Related articles: same tags, excluding current post
-const allPosts = (await getCollection('blog', ({ data }) => !data.draft))
+const allPosts = (await getCollection('blog', ({ data }) => !data.draft && data.date <= new Date()))
   .sort((a, b) => (b.data.date?.valueOf?.() || 0) - (a.data.date?.valueOf?.() || 0));
 
 const currentTags = new Set(post.data.tags);
@@ -247,12 +249,19 @@ const articleAuthor = {
           <Content />
         </div>
 
-        <!-- Produkte-Grid (wenn im Frontmatter products: [slug1, slug2, ...] definiert) -->
-        {post.data.products && post.data.products.length > 0 && (
+        <!-- Produkte-Grid: explizit via Frontmatter ODER Fallback auf Featured-Produkte -->
+        {post.data.products && post.data.products.length > 0 ? (
           <ProductGrid
             slugs={post.data.products}
             title="Unsere Empfehlungen zu diesem Thema"
             intro="Passend zum Thema dieses Artikels — sorgfältig kuratiert."
+          />
+        ) : (
+          <ProductGrid
+            featured={true}
+            limit={2}
+            title="Passend zum Thema"
+            intro="Das hat uns selbst am meisten geholfen beim Thema Beziehung und Selbstreflexion."
           />
         )}
 

@@ -2,7 +2,7 @@ import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
 
 export async function GET(context) {
-  const blog = await getCollection('blog', ({ data }) => !data.draft);
+  const blog = await getCollection('blog', ({ data }) => !data.draft && data.date <= new Date());
 
   return rss({
     title: "Herzblatt Journal — Dating-Ratgeber & Beziehungstipps",
