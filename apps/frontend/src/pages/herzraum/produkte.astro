@@ -337,7 +337,7 @@ const sourcesJson = JSON.stringify(SOURCE_LABELS);
 
       $('products-tbody').innerHTML = filtered.map((p) => {
         const thumb = p.imageUrl
-          ? '<img class="product-thumb" src="' + esc(p.imageUrl) + '" alt="" onerror="this.outerHTML=\'<div class=\\'product-thumb-ph\\'>🛍</div>\'">'
+          ? '<img class="product-thumb" src="' + esc(p.imageUrl) + '" alt="" loading="lazy">'
           : '<div class="product-thumb-ph">🛍</div>';
         return '<tr data-slug="' + esc(p.slug) + '">'
           + '<td>' + thumb + '</td>'
