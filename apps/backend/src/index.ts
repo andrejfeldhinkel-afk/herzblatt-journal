@@ -39,6 +39,7 @@ import herzraumAuditLogRoute from './routes/herzraum/audit-log.js';
 import herzraumEmailTemplatesRoute from './routes/herzraum/email-templates.js';
 import herzraumInboxRoute from './routes/herzraum/inbox.js';
 import herzraumProductsRoute from './routes/herzraum/products.js';
+import herzraumTodosRoute from './routes/herzraum/todos.js';
 
 // Admin (bearer-token)
 import adminSubscribersCsvRoute from './routes/admin/subscribers-csv.js';
@@ -96,6 +97,7 @@ app.route('/herzraum/audit-log', herzraumAuditLogRoute);
 app.route('/herzraum/email-templates', herzraumEmailTemplatesRoute);
 app.route('/herzraum/inbox', herzraumInboxRoute);
 app.route('/herzraum/products', herzraumProductsRoute);
+app.route('/herzraum/todos', herzraumTodosRoute);
 
 // Admin — bearer token
 app.use('/admin/*', requireAdminToken);

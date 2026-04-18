@@ -219,6 +219,25 @@ export const inboundEmails = pgTable(
 );
 
 /**
+ * AdminTodos — einfache Todo-Liste für den Admin.
+ * Keine Teilen-Funktion, kein Multi-User — ist nur für den Admin-Workflow.
+ */
+export const adminTodos = pgTable(
+  'admin_todos',
+  {
+    id: serial('id').primaryKey(),
+    text: text('text').notNull(),
+    done: boolean('done').notNull().default(false),
+    priority: text('priority').notNull().default('normal'), // 'low' | 'normal' | 'high'
+    createdAt: timestamp('created_at', { withTimezone: true }).defaultNow().notNull(),
+    completedAt: timestamp('completed_at', { withTimezone: true }),
+  },
+  (t) => ({
+    doneCreatedIdx: index('admin_todos_done_created_idx').on(t.done, t.createdAt),
+  }),
+);
+
+/**
  * Products — Universeller Produkt-Katalog für alle Monetarisierungs-Säulen.
  *
  * type unterscheidet die 5 Umsatz-Typen aus MONETIZATION_PLAN.md:
