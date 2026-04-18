@@ -121,8 +121,8 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
     <h3 style="margin: 0 0 0.75rem 0;">Versand-History</h3>
     <div style="overflow-x: auto;">
       <table class="hz-table" id="table-history">
-        <thead><tr><th>Wann</th><th>Titel</th><th>Empfänger</th><th>Zugestellt</th><th>Fehler</th></tr></thead>
-        <tbody><tr><td colspan="5" class="muted">Lade…</td></tr></tbody>
+        <thead><tr><th>Wann</th><th>Titel</th><th>Empfänger</th><th>Zugestellt</th><th>Fehler</th><th>Klicks</th><th>CTR</th></tr></thead>
+        <tbody><tr><td colspan="7" class="muted">Lade…</td></tr></tbody>
       </table>
     </div>
   </div>
@@ -218,15 +218,23 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
           const tbody = document.querySelector('#table-history tbody');
           const rows = (res.recentBroadcasts || []).slice(0, 20);
           tbody.innerHTML = rows.length
-            ? rows.map(r => `
-              <tr>
-                <td>${fmtDate(r.sentAt)}</td>
-                <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="${escapeHtml(r.title)}">${escapeHtml(r.title)}</td>
-                <td>${fmt(r.recipientCount)}</td>
-                <td style="color: #059669;">${fmt(r.successCount)}</td>
-                <td style="color: ${r.failureCount > 0 ? '#dc2626' : 'var(--hz-text-muted)'};">${fmt(r.failureCount)}</td>
-              </tr>`).join('')
-            : '<tr><td colspan="5" class="muted">Noch keine Broadcasts gesendet.</td></tr>';
+            ? rows.map(r => {
+                const clicks = r.clickCount || 0;
+                const delivered = r.successCount || 0;
+                const ctr = delivered > 0 ? ((clicks / delivered) * 100).toFixed(1) + '%' : '—';
+                const ctrColor = clicks > 0 ? '#2563eb' : 'var(--hz-text-muted)';
+                return `
+                  <tr>
+                    <td>${fmtDate(r.sentAt)}</td>
+                    <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="${escapeHtml(r.title)}">${escapeHtml(r.title)}</td>
+                    <td>${fmt(r.recipientCount)}</td>
+                    <td style="color: #059669;">${fmt(delivered)}</td>
+                    <td style="color: ${r.failureCount > 0 ? '#dc2626' : 'var(--hz-text-muted)'};">${fmt(r.failureCount)}</td>
+                    <td style="color: ${ctrColor}; font-weight: 600;">${fmt(clicks)}</td>
+                    <td style="color: ${ctrColor}; font-weight: 600;">${ctr}</td>
+                  </tr>`;
+              }).join('')
+            : '<tr><td colspan="7" class="muted">Noch keine Broadcasts gesendet.</td></tr>';
         } catch (err) {
           console.error('[push-admin] stats load failed', err);
         }

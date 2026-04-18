@@ -3,6 +3,7 @@
  *   GET  /push/vapid       — liefert VAPID Public Key für Client-Subscribe
  *   POST /push/subscribe   — speichert eine neue Subscription (idempotent per endpoint)
  *   POST /push/unsubscribe — entfernt eine Subscription per endpoint
+ *   POST /push/click       — trackt Klick auf Notification (CTR in /herzraum/push)
  */
 import { Hono } from 'hono';
 import { z } from 'zod';
@@ -96,6 +97,29 @@ app.post('/unsubscribe', async (c) => {
   await db
     .delete(schema.pushSubscriptions)
     .where(eq(schema.pushSubscriptions.endpoint, parsed.data.endpoint));
+  return c.json({ success: true });
+});
+
+// Notification-Click-Tracking — vom Service-Worker bei notificationclick gepingt.
+// SendBeacon-kompatibel (keine Response nötig). Ignoriert ungültige broadcastIds.
+const clickSchema = z.object({
+  broadcastId: z.coerce.number().int().positive().max(9_999_999),
+});
+
+app.post('/click', async (c) => {
+  let raw: unknown;
+  try { raw = await c.req.json(); } catch {
+    return c.json({ success: false }, 400);
+  }
+  const parsed = clickSchema.safeParse(raw);
+  if (!parsed.success) return c.json({ success: false }, 400);
+
+  // Atomic increment — spart Round-Trip.
+  await db
+    .update(schema.pushBroadcasts)
+    .set({ clickCount: sql`${schema.pushBroadcasts.clickCount} + 1` })
+    .where(eq(schema.pushBroadcasts.id, parsed.data.broadcastId));
+
   return c.json({ success: true });
 });
 

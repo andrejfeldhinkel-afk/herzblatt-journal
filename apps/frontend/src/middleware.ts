@@ -188,10 +188,11 @@ export const onRequest = defineMiddleware(async (context, next) => {
   }
 
   // ─── Security Headers (all responses) ──────────────────────
+  // Drop deprecated X-XSS-Protection — modern CSP replaces it and the old
+  // header can actually introduce XSS in older IE/Safari versions.
   const newHeaders = new Headers(response.headers);
   newHeaders.set('X-Content-Type-Options', 'nosniff');
   newHeaders.set('X-Frame-Options', 'SAMEORIGIN');
-  newHeaders.set('X-XSS-Protection', '1; mode=block');
   newHeaders.set('Referrer-Policy', 'strict-origin-when-cross-origin');
   newHeaders.set('Permissions-Policy', 'camera=(), microphone=(), geolocation=(), payment=()');
   newHeaders.set('Strict-Transport-Security', 'max-age=31536000; includeSubDomains');
@@ -206,6 +207,8 @@ export const onRequest = defineMiddleware(async (context, next) => {
       "img-src 'self' data: https: blob:; " +
       "font-src 'self'; " +
       "connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://be.xloves.com; " +
+      "worker-src 'self'; " +
+      "manifest-src 'self'; " +
       "frame-ancestors 'none'; " +
       "base-uri 'self'; " +
       "form-action 'self';"
@@ -221,8 +224,16 @@ export const onRequest = defineMiddleware(async (context, next) => {
     }
   }
 
-  // ─── Cache static assets aggressively ──────────────────────
-  if (ct.includes('image/') || ct.includes('font/') || path.match(/\.(webp|jpg|jpeg|png|gif|svg|ico|woff2?|ttf|eot)$/i)) {
+  // ─── Never cache the service worker or manifest ────────────
+  // Without this, sw.js would get max-age=31536000 (matches the .js regex below)
+  // and users would be stuck on an old SW until the browser's own 24h SW-refresh
+  // heuristic kicks in. Same logic for manifest.json — changes to app metadata
+  // must propagate within minutes, not days.
+  if (path === '/sw.js' || path === '/manifest.json' || path === '/manifest.webmanifest') {
+    newHeaders.set('Cache-Control', 'public, max-age=0, must-revalidate');
+    newHeaders.delete('Expires');
+  } else if (ct.includes('image/') || ct.includes('font/') || path.match(/\.(webp|jpg|jpeg|png|gif|svg|ico|woff2?|ttf|eot)$/i)) {
+    // ─── Cache static assets aggressively ──────────────────────
     newHeaders.set('Cache-Control', 'public, max-age=31536000, immutable');
   } else if (ct.includes('text/css') || ct.includes('application/javascript') || path.match(/\.(css|js)$/i)) {
     newHeaders.set('Cache-Control', 'public, max-age=31536000, immutable');
