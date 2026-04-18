@@ -756,6 +756,50 @@ const description = "Entdecke deinen Dating-Persönlichkeitstyp mit unserem unte
     .hidden {
       display: none;
     }
+
+    /* === Hero-Stats-Grid: Mobile 2×2, Desktop 4-in-Row === */
+    .hero-stats-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 0.75rem;
+      max-width: 40rem;
+      margin: 0 auto 2rem;
+    }
+    @media (min-width: 520px) {
+      .hero-stats-grid {
+        grid-template-columns: repeat(4, 1fr);
+        gap: 1rem;
+      }
+    }
+    .hero-stat-card {
+      background: white;
+      padding: 1rem 0.75rem;
+      border-radius: 1rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+      text-align: center;
+      min-width: 0;
+    }
+    .hero-stat-value {
+      font-size: 1.375rem;
+      font-weight: 800;
+      color: var(--color-primary-600);
+      font-family: 'Playfair Display', serif;
+      line-height: 1.1;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    @media (min-width: 520px) {
+      .hero-stat-value { font-size: 1.75rem; }
+    }
+    .hero-stat-label {
+      font-size: 0.7rem;
+      color: #57534e;
+      margin-top: 0.35rem;
+    }
+    @media (min-width: 520px) {
+      .hero-stat-label { font-size: 0.75rem; }
+    }
   </style>
 
   <!-- NEU: Hero-Section mit Rich Intro -->
@@ -771,22 +815,22 @@ const description = "Entdecke deinen Dating-Persönlichkeitstyp mit unserem unte
         Jeder Mensch liebt anders. Romantiker, Abenteurer, Analytiker, Tiefgründig, Unabhängig oder Schmetterling — welcher Typ bist du? Finde es in unter 2 Minuten heraus.
       </p>
       <!-- Stats Row -->
-      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; max-width: 40rem; margin: 0 auto 2rem;">
-        <div style="background: white; padding: 1rem; border-radius: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
-          <div style="font-size: 1.75rem; font-weight: 800; color: var(--color-primary-600); font-family: 'Playfair Display', serif;">52K+</div>
-          <div style="font-size: 0.75rem; color: #57534e; margin-top: 0.25rem;">Tests gemacht</div>
+      <div class="hero-stats-grid">
+        <div class="hero-stat-card">
+          <div class="hero-stat-value">52K+</div>
+          <div class="hero-stat-label">Tests gemacht</div>
         </div>
-        <div style="background: white; padding: 1rem; border-radius: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
-          <div style="font-size: 1.75rem; font-weight: 800; color: var(--color-primary-600); font-family: 'Playfair Display', serif;">2 Min</div>
-          <div style="font-size: 0.75rem; color: #57534e; margin-top: 0.25rem;">Dauer</div>
+        <div class="hero-stat-card">
+          <div class="hero-stat-value">2 Min</div>
+          <div class="hero-stat-label">Dauer</div>
         </div>
-        <div style="background: white; padding: 1rem; border-radius: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
-          <div style="font-size: 1.75rem; font-weight: 800; color: var(--color-primary-600); font-family: 'Playfair Display', serif;">6</div>
-          <div style="font-size: 0.75rem; color: #57534e; margin-top: 0.25rem;">Typen</div>
+        <div class="hero-stat-card">
+          <div class="hero-stat-value">6</div>
+          <div class="hero-stat-label">Typen</div>
         </div>
-        <div style="background: white; padding: 1rem; border-radius: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
-          <div style="font-size: 1.75rem; font-weight: 800; color: var(--color-primary-600); font-family: 'Playfair Display', serif;">4,8★</div>
-          <div style="font-size: 0.75rem; color: #57534e; margin-top: 0.25rem;">Bewertung</div>
+        <div class="hero-stat-card">
+          <div class="hero-stat-value">4,8★</div>
+          <div class="hero-stat-label">Bewertung</div>
         </div>
       </div>
     </div>
@@ -1085,14 +1129,14 @@ const description = "Entdecke deinen Dating-Persönlichkeitstyp mit unserem unte
     };
 
     var datingSites = {
-      xloves: { name: 'xLoves', url: 'https://www.dating-tracker.com/cmp/CLQ868/78NZBG/?source_id=herzblatt&sub1=xloves', logo: '/images/logos/xloves-logo.svg', rating: 4.8, desc: 'Moderne Dating-Plattform für echte Verbindungen — diskret, sicher und mit starker Community.', color: '#f43f5e', tag: 'Beliebteste Wahl' },
+      xloves: { name: 'xLoves', url: 'https://www.dating-tracker.com/cmp/CLQ868/78NZBG/?source_id=herzblatt&sub1=xloves', logo: '/images/logos/xloves-logo.png', rating: 4.8, desc: 'Moderne Dating-Plattform für echte Verbindungen — diskret, sicher und mit starker Community.', color: '#f43f5e', tag: 'Beliebteste Wahl' },
       singlescout: { name: 'SingleScout', url: 'https://www.dating-tracker.com/cmp/CLQ868/7HKRSG/?source_id=herzblatt&sub1=singlescout', logo: '/images/logos/singlescout-v2-logo.png', rating: 4.5, desc: 'Die Anti-Swipe-Plattform: Persönlichkeit statt Profilbilder — mit einzigartigem Matching-System.', color: '#10b981', tag: 'Neu bei uns' },
       iloves: { name: 'i-Loves', url: 'https://www.dating-tracker.com/cmp/CLQ868/78NZBG/?source_id=herzblatt&sub1=i-loves', logo: '/images/logos/i-loves-logo.png', rating: 4.4, desc: 'Flirten und Chatten leicht gemacht — moderne App mit intelligenten Matching-Algorithmen.', color: '#8b5cf6', tag: 'Aufsteiger 2026' },
-      whatsmeet: { name: 'WhatsMeet', url: 'https://www.dating-tracker.com/cmp/CLQ868/79XTBX/?source_id=herzblatt&sub1=whatsmeet', logo: '/images/logos/whatsmeet-logo.svg', rating: 4.3, desc: 'Chat-basiertes Dating mit Fokus auf echte Gespräche statt oberflächliches Swipen.', color: '#22c55e', tag: 'Für Kommunikative' },
-      michverlieben: { name: 'MichVerlieben', url: 'https://www.dating-tracker.com/cmp/CLQ868/77G3B1/?source_id=herzblatt&sub1=michverlieben', logo: '/images/logos/michverlieben-logo.svg', rating: 4.1, desc: 'Deutsche Plattform mit Fokus auf ernsthafte Beziehungen und Persönlichkeitsmatching.', color: '#ef4444', tag: 'Für Ernsthafte' },
-      onlydates69: { name: 'OnlyDates69', url: 'https://www.dating-tracker.com/cmp/CLQ868/7C6QCD/?source_id=herzblatt&sub1=onlydates69', logo: '/images/logos/onlydates69-logo.svg', rating: 3.8, desc: 'Unkompliziertes Dating für spontane Treffen und zwanglose Verabredungen.', color: '#3b82f6', tag: 'Für Spontane' },
-      single69: { name: 'Single69', url: 'https://single69.de', logo: '/images/logos/singles69-logo.svg', rating: 3.6, desc: 'Casual-Dating mit großer Nutzerbasis und schnellem Matching-System.', color: '#8b5cf6', tag: 'Große Community' },
-      sex69: { name: 'Sex69', url: 'https://sex69.de/', logo: '/images/logos/sex69-logo.svg', rating: 3.5, desc: 'Erwachsenen-Dating-Plattform für offene und abenteuerlustige Singles.', color: '#f43f5e', tag: 'Für Abenteurer' }
+      whatsmeet: { name: 'WhatsMeet', url: 'https://www.dating-tracker.com/cmp/CLQ868/79XTBX/?source_id=herzblatt&sub1=whatsmeet', logo: '/images/logos/whatsmeet-logo.png', rating: 4.3, desc: 'Chat-basiertes Dating mit Fokus auf echte Gespräche statt oberflächliches Swipen.', color: '#22c55e', tag: 'Für Kommunikative' },
+      michverlieben: { name: 'MichVerlieben', url: 'https://www.dating-tracker.com/cmp/CLQ868/77G3B1/?source_id=herzblatt&sub1=michverlieben', logo: '/images/logos/michverlieben-logo.png', rating: 4.1, desc: 'Deutsche Plattform mit Fokus auf ernsthafte Beziehungen und Persönlichkeitsmatching.', color: '#ef4444', tag: 'Für Ernsthafte' },
+      onlydates69: { name: 'OnlyDates69', url: 'https://www.dating-tracker.com/cmp/CLQ868/7C6QCD/?source_id=herzblatt&sub1=onlydates69', logo: '/images/logos/onlydates69-logo.png', rating: 3.8, desc: 'Unkompliziertes Dating für spontane Treffen und zwanglose Verabredungen.', color: '#3b82f6', tag: 'Für Spontane' },
+      single69: { name: 'Single69', url: 'https://single69.de', logo: '/images/logos/single69-logo.png', rating: 3.6, desc: 'Casual-Dating mit großer Nutzerbasis und schnellem Matching-System.', color: '#8b5cf6', tag: 'Große Community' },
+      sex69: { name: 'Sex69', url: 'https://sex69.de/', logo: '/images/logos/sex69-logo.png', rating: 3.5, desc: 'Erwachsenen-Dating-Plattform für offene und abenteuerlustige Singles.', color: '#f43f5e', tag: 'Für Abenteurer' }
     };
 
     var siteOrder = ['xloves', 'singlescout', 'iloves', 'whatsmeet', 'michverlieben', 'onlydates69', 'single69', 'sex69'];
@@ -1304,14 +1348,14 @@ const description = "Entdecke deinen Dating-Persönlichkeitstyp mit unserem unte
     // Modal Quiz
     var quizData = {
       sites: {
-        xloves: { name: 'xLoves', url: 'https://www.dating-tracker.com/cmp/CLQ868/78NZBG/?source_id=herzblatt&sub1=xloves', logo: '/images/logos/xloves-logo.svg', rating: 4.8, desc: 'Die moderne Dating-Plattform für echte Verbindungen — diskret, sicher und mit starker Community.', color: '#f43f5e' },
+        xloves: { name: 'xLoves', url: 'https://www.dating-tracker.com/cmp/CLQ868/78NZBG/?source_id=herzblatt&sub1=xloves', logo: '/images/logos/xloves-logo.png', rating: 4.8, desc: 'Die moderne Dating-Plattform für echte Verbindungen — diskret, sicher und mit starker Community.', color: '#f43f5e' },
         singlescout: { name: 'SingleScout', url: 'https://www.dating-tracker.com/cmp/CLQ868/7HKRSG/?source_id=herzblatt&sub1=singlescout', logo: '/images/logos/singlescout-v2-logo.png', rating: 4.5, desc: 'Die Anti-Swipe-Plattform: Persönlichkeit statt Profilbilder — mit einzigartigem Matching-System.', color: '#10b981' },
         iloves: { name: 'i-Loves', url: 'https://www.dating-tracker.com/cmp/CLQ868/78NZBG/?source_id=herzblatt&sub1=i-loves', logo: '/images/logos/i-loves-logo.png', rating: 4.4, desc: 'Flirten und Chatten leicht gemacht — moderne App mit intelligenten Matching-Algorithmen.', color: '#8b5cf6' },
-        whatsmeet: { name: 'WhatsMeet', url: 'https://www.dating-tracker.com/cmp/CLQ868/79XTBX/?source_id=herzblatt&sub1=whatsmeet', logo: '/images/logos/whatsmeet-logo.svg', rating: 4.3, desc: 'Chat-basiertes Dating mit Fokus auf echte Gespräche statt oberflächliches Swipen.', color: '#22c55e' },
-        michverlieben: { name: 'MichVerlieben', url: 'https://www.dating-tracker.com/cmp/CLQ868/77G3B1/?source_id=herzblatt&sub1=michverlieben', logo: '/images/logos/michverlieben-logo.svg', rating: 4.1, desc: 'Deutsche Dating-Plattform mit Fokus auf ernsthafte Beziehungen und Partnervermittlung.', color: '#ef4444' },
-        onlydates69: { name: 'OnlyDates69', url: 'https://www.dating-tracker.com/cmp/CLQ868/7C6QCD/?source_id=herzblatt&sub1=onlydates69', logo: '/images/logos/onlydates69-logo.svg', rating: 3.8, desc: 'Unkompliziertes Dating für spontane Treffen und zwanglose Verabredungen.', color: '#3b82f6' },
-        single69: { name: 'Single69', url: 'https://single69.de', logo: '/images/logos/singles69-logo.svg', rating: 3.6, desc: 'Casual-Dating-Plattform mit großer Nutzerbasis und schnellem Matching.', color: '#8b5cf6' },
-        sex69: { name: 'Sex69', url: 'https://sex69.de/', logo: '/images/logos/sex69-logo.svg', rating: 3.5, desc: 'Erwachsenen-Dating-Plattform für offene und abenteuerlustige Singles.', color: '#f43f5e' }
+        whatsmeet: { name: 'WhatsMeet', url: 'https://www.dating-tracker.com/cmp/CLQ868/79XTBX/?source_id=herzblatt&sub1=whatsmeet', logo: '/images/logos/whatsmeet-logo.png', rating: 4.3, desc: 'Chat-basiertes Dating mit Fokus auf echte Gespräche statt oberflächliches Swipen.', color: '#22c55e' },
+        michverlieben: { name: 'MichVerlieben', url: 'https://www.dating-tracker.com/cmp/CLQ868/77G3B1/?source_id=herzblatt&sub1=michverlieben', logo: '/images/logos/michverlieben-logo.png', rating: 4.1, desc: 'Deutsche Dating-Plattform mit Fokus auf ernsthafte Beziehungen und Partnervermittlung.', color: '#ef4444' },
+        onlydates69: { name: 'OnlyDates69', url: 'https://www.dating-tracker.com/cmp/CLQ868/7C6QCD/?source_id=herzblatt&sub1=onlydates69', logo: '/images/logos/onlydates69-logo.png', rating: 3.8, desc: 'Unkompliziertes Dating für spontane Treffen und zwanglose Verabredungen.', color: '#3b82f6' },
+        single69: { name: 'Single69', url: 'https://single69.de', logo: '/images/logos/single69-logo.png', rating: 3.6, desc: 'Casual-Dating-Plattform mit großer Nutzerbasis und schnellem Matching.', color: '#8b5cf6' },
+        sex69: { name: 'Sex69', url: 'https://sex69.de/', logo: '/images/logos/sex69-logo.png', rating: 3.5, desc: 'Erwachsenen-Dating-Plattform für offene und abenteuerlustige Singles.', color: '#f43f5e' }
       },
       questions: [
         {
