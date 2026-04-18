@@ -2,11 +2,29 @@ import { serve } from '@hono/node-server';
 import { Hono } from 'hono';
 import { cors } from 'hono/cors';
 
+// Public Routes
 import pageviewRoute from './routes/pageview.js';
 import trackClickRoute from './routes/track-click.js';
 import newsletterRoute from './routes/newsletter.js';
 import registerRoute from './routes/register.js';
 import readersRoute from './routes/readers.js';
+
+// Auth Routes
+import authRoute from './routes/auth.js';
+
+// Admin (session-protected)
+import herzraumStatsRoute from './routes/herzraum/stats.js';
+import herzraumClicksSourcesRoute from './routes/herzraum/clicks-sources.js';
+import herzraumNewsletterRoute from './routes/herzraum/newsletter.js';
+import herzraumReadersListRoute from './routes/herzraum/readers-list.js';
+import herzraumDataRoute from './routes/herzraum/data.js';
+import herzraumPasswordVerifyRoute from './routes/herzraum/password-verify.js';
+
+// Admin (bearer-token)
+import adminSubscribersCsvRoute from './routes/admin/subscribers-csv.js';
+
+// Middleware
+import { requireSession, requireAdminToken } from './lib/auth-middleware.js';
 
 const app = new Hono();
 
@@ -18,10 +36,8 @@ app.use('*', cors({
   maxAge: 600,
 }));
 
-// Health-Check
+// Health + Root
 app.get('/health', (c) => c.json({ ok: true, service: 'herzblatt-backend', ts: new Date().toISOString() }));
-
-// Root
 app.get('/', (c) => c.text('Herzblatt Backend API — siehe /health'));
 
 // Public API Routes
@@ -30,6 +46,22 @@ app.route('/track-click', trackClickRoute);
 app.route('/newsletter', newsletterRoute);
 app.route('/register', registerRoute);
 app.route('/readers', readersRoute);
+
+// Auth Routes (eigene security)
+app.route('/auth', authRoute);
+
+// Herzraum — protected by cookie session
+app.use('/herzraum/*', requireSession);
+app.route('/herzraum/stats', herzraumStatsRoute);
+app.route('/herzraum/clicks/sources', herzraumClicksSourcesRoute);
+app.route('/herzraum/newsletter', herzraumNewsletterRoute);
+app.route('/herzraum/readers/list', herzraumReadersListRoute);
+app.route('/herzraum/data', herzraumDataRoute);
+app.route('/herzraum/password/verify', herzraumPasswordVerifyRoute);
+
+// Admin — bearer token
+app.use('/admin/*', requireAdminToken);
+app.route('/admin/subscribers.csv', adminSubscribersCsvRoute);
 
 const port = Number(process.env.PORT) || 3001;
 const host = process.env.HOST || '0.0.0.0';
