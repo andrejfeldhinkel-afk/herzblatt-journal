@@ -42,6 +42,10 @@ import herzraumInboxRoute from './routes/herzraum/inbox.js';
 import herzraumProductsRoute from './routes/herzraum/products.js';
 import herzraumTodosRoute from './routes/herzraum/todos.js';
 import herzraumPushRoute from './routes/herzraum/push.js';
+import herzraumAffiliateLinksRoute from './routes/herzraum/affiliate-links.js';
+
+// Public Short-URL-Endpoint (für /go/:slug Klicks)
+import goRoute from './routes/go.js';
 
 // Admin (bearer-token)
 import adminSubscribersCsvRoute from './routes/admin/subscribers-csv.js';
@@ -80,6 +84,7 @@ app.route('/unsubscribe', unsubscribeRoute);
 app.route('/inbound-email', inboundEmailRoute);
 app.route('/products', productsPublicRoute);
 app.route('/push', pushRoute);
+app.route('/go', goRoute);
 
 // Auth Routes (eigene security)
 app.route('/auth', authRoute);
@@ -102,6 +107,7 @@ app.route('/herzraum/inbox', herzraumInboxRoute);
 app.route('/herzraum/products', herzraumProductsRoute);
 app.route('/herzraum/todos', herzraumTodosRoute);
 app.route('/herzraum/push', herzraumPushRoute);
+app.route('/herzraum/affiliate-links', herzraumAffiliateLinksRoute);
 
 // Admin — bearer token
 app.use('/admin/*', requireAdminToken);

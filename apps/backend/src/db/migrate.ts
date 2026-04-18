@@ -176,6 +176,25 @@ export async function runStartupMigrations(): Promise<void> {
     `);
     await db.execute(sql`CREATE INDEX IF NOT EXISTS push_broadcasts_sent_at_idx ON push_broadcasts(sent_at)`);
 
+    // affiliate_links — Benannte Short-URLs mit Traffic-Tracking
+    // Klicks werden in clicks-Tabelle mit target='link-<slug>' geloggt
+    await db.execute(sql`
+      CREATE TABLE IF NOT EXISTS affiliate_links (
+        id SERIAL PRIMARY KEY,
+        slug TEXT NOT NULL UNIQUE,
+        name TEXT NOT NULL,
+        target_url TEXT NOT NULL,
+        campaign TEXT,
+        notes TEXT,
+        active BOOLEAN NOT NULL DEFAULT TRUE,
+        created_at TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW(),
+        updated_at TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW()
+      )
+    `);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS affiliate_links_slug_idx ON affiliate_links(slug)`);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS affiliate_links_active_idx ON affiliate_links(active)`);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS affiliate_links_campaign_idx ON affiliate_links(campaign)`);
+
     console.log(`[migrate] done in ${Date.now() - start}ms`);
   } catch (err) {
     console.error('[migrate] FAILED:', err);
