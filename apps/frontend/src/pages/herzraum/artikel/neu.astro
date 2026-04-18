@@ -1,0 +1,416 @@
+---
+export const prerender = false;
+
+import HerzraumLayout from '../../../layouts/HerzraumLayout.astro';
+import { articleTemplates } from '../../../data/article-templates';
+import { authors } from '../../../data/authors';
+
+// Authors-Liste für Select
+const authorsArr = Object.values(authors).map((a) => ({
+  slug: a.slug,
+  name: a.name,
+  role: a.role,
+}));
+
+// Templates-JSON für Client-Side
+const templatesJson = JSON.stringify(
+  articleTemplates.map((t) => ({
+    id: t.id,
+    name: t.name,
+    description: t.description,
+    defaultFrontmatter: t.defaultFrontmatter,
+    markdownSkeleton: t.markdownSkeleton,
+    recommendedTags: t.recommendedTags,
+    placeholders: t.placeholders,
+    minWords: t.minWords,
+  })),
+);
+
+const authorsJson = JSON.stringify(authorsArr);
+---
+<HerzraumLayout title="Neuer Artikel" active="artikel">
+  <div class="hz-card" style="padding: 1.5rem;">
+    <h2 style="margin: 0 0 0.5rem 0;">📝 Neuer Artikel</h2>
+    <p style="color: var(--hz-text-muted); margin: 0 0 1.5rem 0; font-size: 0.9rem;">
+      Wähle ein Template, füll die Felder aus, prüf die Live-Vorschau. Der Artikel wird nach <strong>Absenden</strong> per GitHub-Commit ins Repo geschrieben und ist in ~5-7 Min live (Railway baut automatisch neu).
+    </p>
+
+    <!-- Template-Auswahl -->
+    <section style="margin-bottom: 1.5rem;">
+      <label style="display: block; font-weight: 600; margin-bottom: 0.5rem;">1. Template wählen</label>
+      <div id="template-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 0.75rem;">
+        {articleTemplates.map((t) => (
+          <button type="button" class="tpl-btn" data-tpl={t.id}
+                  style="text-align: left; padding: 0.75rem; border: 1px solid var(--hz-border); background: var(--hz-bg); color: var(--hz-text); border-radius: 0.5rem; cursor: pointer;">
+            <div style="font-weight: 600;">{t.name}</div>
+            <div style="font-size: 0.75rem; color: var(--hz-text-muted); margin-top: 0.25rem;">{t.description}</div>
+          </button>
+        ))}
+      </div>
+    </section>
+
+    <!-- Formular (initial versteckt, erscheint nach Template-Wahl) -->
+    <section id="form-section" style="display: none; grid-template-columns: 1fr 1fr; gap: 1.5rem;">
+      <!-- Links: Form -->
+      <div>
+        <h3 style="margin: 0 0 1rem 0;">2. Felder ausfüllen</h3>
+
+        <div class="fg">
+          <label>Titel *</label>
+          <input type="text" id="f-title" maxlength="200" placeholder="SEO-optimiert, 40-80 Zeichen">
+          <small class="hint" id="h-title">Wird als H1 + &lt;title&gt; genutzt.</small>
+        </div>
+
+        <div class="fg">
+          <label>Slug *</label>
+          <input type="text" id="f-slug" placeholder="auto aus Titel" maxlength="80" pattern="[a-z0-9-]+">
+          <small class="hint" id="h-slug">URL-Pfad. a-z, 0-9, Bindestriche.</small>
+          <div id="slug-status" style="margin-top: 0.25rem; font-size: 0.8rem;"></div>
+        </div>
+
+        <div class="fg">
+          <label>Description (Meta) *</label>
+          <textarea id="f-description" rows="2" maxlength="300" placeholder="50-160 Zeichen für Google-Snippets"></textarea>
+          <small class="hint"><span id="desc-count">0</span> / 160 Zeichen (ideal)</small>
+        </div>
+
+        <div class="fg">
+          <label>Autor *</label>
+          <select id="f-author">
+            {authorsArr.map((a) => (
+              <option value={a.slug}>{a.name} — {a.role}</option>
+            ))}
+          </select>
+        </div>
+
+        <div class="fg">
+          <label>Datum</label>
+          <input type="date" id="f-date">
+        </div>
+
+        <div class="fg">
+          <label>Tags (Komma-getrennt)</label>
+          <input type="text" id="f-tags" placeholder="dating, psychologie, tipps">
+          <small class="hint" id="h-tags-suggest"></small>
+        </div>
+
+        <div class="fg">
+          <label>Bild-Pfad</label>
+          <input type="text" id="f-image" placeholder="/images/blog/mein-slug.webp">
+          <small class="hint">Leer lassen wenn noch kein Bild da — muss aber vor Live-Gang gefüllt sein.</small>
+        </div>
+
+        <div class="fg">
+          <label>Bild-Alt-Text</label>
+          <input type="text" id="f-imageAlt" maxlength="200">
+        </div>
+
+        <h4 style="margin: 1.5rem 0 0.5rem 0;">Template-Felder</h4>
+        <div id="placeholders-container"></div>
+
+        <h4 style="margin: 1.5rem 0 0.5rem 0;">FAQ (optional, für SEO-Schema)</h4>
+        <div id="faq-container"></div>
+        <button type="button" id="add-faq" class="hz-btn" style="margin-top: 0.5rem;">+ FAQ-Paar</button>
+
+        <hr style="margin: 2rem 0; border: none; border-top: 1px solid var(--hz-border);">
+
+        <div id="submit-error" style="display: none; color: var(--hz-danger); padding: 0.75rem; background: rgba(239,68,68,0.1); border: 1px solid rgba(239,68,68,0.3); border-radius: 0.5rem; margin-bottom: 1rem;"></div>
+        <div id="submit-success" style="display: none; color: #16a34a; padding: 0.75rem; background: rgba(22,163,74,0.1); border: 1px solid rgba(22,163,74,0.3); border-radius: 0.5rem; margin-bottom: 1rem;"></div>
+
+        <button type="button" id="submit-btn" class="hz-btn primary" style="width: 100%;">Artikel anlegen (GitHub-Commit)</button>
+      </div>
+
+      <!-- Rechts: Live-Preview -->
+      <div>
+        <h3 style="margin: 0 0 1rem 0;">3. Live-Vorschau</h3>
+        <div class="hz-card" style="padding: 1rem; max-height: 75vh; overflow-y: auto; background: var(--hz-bg);">
+          <div style="font-size: 0.75rem; color: var(--hz-text-muted); margin-bottom: 0.75rem;">
+            Markdown-Rohansicht — so wird's committed. Wortanzahl: <strong id="word-count">0</strong>
+            <span id="word-warning" style="color: var(--hz-danger); display: none;"> (unter Minimum!)</span>
+          </div>
+          <pre id="preview" style="white-space: pre-wrap; font-family: 'SF Mono', Monaco, monospace; font-size: 0.75rem; line-height: 1.5; color: var(--hz-text);"></pre>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <style>
+    .fg { margin-bottom: 1rem; }
+    .fg label { display: block; font-weight: 500; margin-bottom: 0.25rem; font-size: 0.85rem; }
+    .fg input, .fg select, .fg textarea {
+      width: 100%; padding: 0.5rem 0.75rem; background: var(--hz-bg); color: var(--hz-text);
+      border: 1px solid var(--hz-border); border-radius: 0.375rem; font-size: 0.85rem;
+      font-family: inherit;
+    }
+    .fg textarea { resize: vertical; min-height: 60px; font-family: inherit; }
+    .fg input:focus, .fg select:focus, .fg textarea:focus { outline: none; border-color: var(--hz-primary); }
+    .fg .hint { font-size: 0.7rem; color: var(--hz-text-muted); display: block; margin-top: 0.2rem; }
+    .tpl-btn:hover { border-color: var(--hz-primary); }
+    .tpl-btn.active { border-color: var(--hz-primary); background: rgba(244,63,94,0.1); }
+    #form-section { display: grid; }
+    @media (max-width: 900px) { #form-section { grid-template-columns: 1fr !important; } }
+  </style>
+
+  <script is:inline define:vars={{ templatesJson, authorsJson }}>
+    const TEMPLATES = JSON.parse(templatesJson);
+    const AUTHORS = JSON.parse(authorsJson);
+
+    let currentTemplate = null;
+    let placeholderValues = {};
+    let faqItems = [];
+
+    const $ = (id) => document.getElementById(id);
+
+    // Slug-Helper
+    function slugify(s) {
+      return (s || '').toLowerCase()
+        .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')
+        .replace(/[^a-z0-9-]+/g, '-')
+        .replace(/^-+|-+$/g, '')
+        .replace(/-+/g, '-')
+        .slice(0, 80);
+    }
+
+    // Today's date
+    function todayISO() { return new Date().toISOString().slice(0, 10); }
+    $('f-date').value = todayISO();
+
+    // Template-Buttons
+    document.querySelectorAll('.tpl-btn').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.tpl-btn').forEach((b) => b.classList.remove('active'));
+        btn.classList.add('active');
+        const id = btn.dataset.tpl;
+        currentTemplate = TEMPLATES.find((t) => t.id === id);
+        placeholderValues = {};
+        // Defaults aus Template
+        const fm = currentTemplate.defaultFrontmatter || {};
+        if (fm.author) $('f-author').value = fm.author;
+        $('h-tags-suggest').textContent = 'Vorschläge: ' + (currentTemplate.recommendedTags || []).join(', ');
+        if (fm.tags && (!$('f-tags').value.trim())) $('f-tags').value = fm.tags.join(', ');
+        renderPlaceholders();
+        $('form-section').style.display = 'grid';
+        updatePreview();
+      });
+    });
+
+    // Placeholder-Felder rendern
+    function renderPlaceholders() {
+      const c = $('placeholders-container');
+      c.innerHTML = '';
+      currentTemplate.placeholders.forEach((p) => {
+        const wrap = document.createElement('div');
+        wrap.className = 'fg';
+        const label = document.createElement('label');
+        label.textContent = p.label + (p.required ? ' *' : '');
+        wrap.appendChild(label);
+        let input;
+        if (p.type === 'textarea' || p.type === 'markdown') {
+          input = document.createElement('textarea');
+          input.rows = p.type === 'markdown' ? 5 : 2;
+        } else {
+          input = document.createElement('input');
+          input.type = 'text';
+        }
+        input.id = 'ph-' + p.key;
+        input.placeholder = p.hint || '';
+        input.value = placeholderValues[p.key] || p.default || '';
+        input.addEventListener('input', () => {
+          placeholderValues[p.key] = input.value;
+          updatePreview();
+        });
+        if (input.value) placeholderValues[p.key] = input.value;
+        wrap.appendChild(input);
+        if (p.hint) {
+          const hint = document.createElement('small');
+          hint.className = 'hint';
+          hint.textContent = p.hint;
+          wrap.appendChild(hint);
+        }
+        c.appendChild(wrap);
+      });
+    }
+
+    // FAQ-Items
+    function renderFaq() {
+      const c = $('faq-container');
+      c.innerHTML = '';
+      faqItems.forEach((f, i) => {
+        const wrap = document.createElement('div');
+        wrap.style.cssText = 'padding: 0.75rem; border: 1px solid var(--hz-border); border-radius: 0.375rem; margin-bottom: 0.5rem;';
+        const qFg = document.createElement('div'); qFg.className = 'fg';
+        const qL = document.createElement('label'); qL.textContent = 'Frage #' + (i+1); qFg.appendChild(qL);
+        const q = document.createElement('input'); q.type = 'text'; q.value = f.question;
+        q.addEventListener('input', () => { faqItems[i].question = q.value; updatePreview(); });
+        qFg.appendChild(q);
+        const aFg = document.createElement('div'); aFg.className = 'fg';
+        const aL = document.createElement('label'); aL.textContent = 'Antwort'; aFg.appendChild(aL);
+        const a = document.createElement('textarea'); a.rows = 2; a.value = f.answer;
+        a.addEventListener('input', () => { faqItems[i].answer = a.value; updatePreview(); });
+        aFg.appendChild(a);
+        const rm = document.createElement('button');
+        rm.textContent = 'Entfernen'; rm.type = 'button';
+        rm.style.cssText = 'background: none; border: 0; color: var(--hz-danger); cursor: pointer; font-size: 0.8rem;';
+        rm.addEventListener('click', () => { faqItems.splice(i, 1); renderFaq(); updatePreview(); });
+        wrap.appendChild(qFg); wrap.appendChild(aFg); wrap.appendChild(rm);
+        c.appendChild(wrap);
+      });
+    }
+    $('add-faq').addEventListener('click', () => { faqItems.push({ question: '', answer: '' }); renderFaq(); });
+
+    // Auto-Slug from Title
+    let slugTouched = false;
+    $('f-slug').addEventListener('input', () => { slugTouched = true; checkSlug(); });
+    $('f-title').addEventListener('input', () => {
+      if (!slugTouched) {
+        $('f-slug').value = slugify($('f-title').value);
+        checkSlug();
+      }
+      updatePreview();
+    });
+    $('f-description').addEventListener('input', () => {
+      $('desc-count').textContent = $('f-description').value.length;
+      updatePreview();
+    });
+    ['f-author','f-date','f-tags','f-image','f-imageAlt'].forEach(id => $(id).addEventListener('input', updatePreview));
+
+    // Debounced Slug-Check
+    let slugCheckTimer;
+    function checkSlug() {
+      clearTimeout(slugCheckTimer);
+      const slug = $('f-slug').value.trim();
+      $('slug-status').innerHTML = '';
+      if (!slug) return;
+      slugCheckTimer = setTimeout(async () => {
+        $('slug-status').innerHTML = '<span style="color: var(--hz-text-muted);">Prüfe…</span>';
+        try {
+          const res = await fetch('/api/herzraum/articles/check-slug?slug=' + encodeURIComponent(slug));
+          const data = await res.json();
+          if (data.available) {
+            $('slug-status').innerHTML = '<span style="color: #16a34a;">✓ Slug verfügbar</span>';
+          } else {
+            $('slug-status').innerHTML = '<span style="color: var(--hz-danger);">✗ ' + (data.reason || 'nicht verfügbar') +
+              (data.conflict?.url ? ' — <a href="'+data.conflict.url+'" target="_blank" style="color: var(--hz-primary);">bestehender Artikel</a>' : '') + '</span>';
+          }
+        } catch (err) {
+          $('slug-status').innerHTML = '<span style="color: var(--hz-text-muted);">Check fehlgeschlagen</span>';
+        }
+      }, 600);
+      updatePreview();
+    }
+
+    // Preview-Update
+    function updatePreview() {
+      if (!currentTemplate) return;
+      const title = $('f-title').value.trim();
+      const description = $('f-description').value.trim();
+      const author = $('f-author').value;
+      const date = $('f-date').value;
+      const tags = $('f-tags').value.split(',').map(s => s.trim()).filter(Boolean);
+      const image = $('f-image').value.trim();
+      const imageAlt = $('f-imageAlt').value.trim();
+
+      // Frontmatter
+      const esc = (s) => '"' + String(s).replace(/\\/g,'\\\\').replace(/"/g,'\\"') + '"';
+      let fm = '---\n';
+      fm += 'title: ' + esc(title || 'UNBENANNT') + '\n';
+      fm += 'description: ' + esc(description || '') + '\n';
+      fm += 'date: ' + (date || 'YYYY-MM-DD') + '\n';
+      fm += 'author: ' + esc(author) + '\n';
+      if (tags.length) fm += 'tags:\n' + tags.map(t=>'  - '+esc(t)).join('\n') + '\n';
+      if (image) fm += 'image: ' + esc(image) + '\n';
+      if (imageAlt) fm += 'imageAlt: ' + esc(imageAlt) + '\n';
+      if (faqItems.length > 0 && faqItems.some(f => f.question || f.answer)) {
+        fm += 'faq:\n';
+        faqItems.forEach(f => {
+          if (f.question || f.answer) {
+            fm += '  - question: ' + esc(f.question) + '\n';
+            fm += '    answer: ' + esc(f.answer) + '\n';
+          }
+        });
+      }
+      fm += '---\n\n';
+
+      // Body aus Template
+      let body = currentTemplate.markdownSkeleton;
+      for (const [k, v] of Object.entries(placeholderValues)) {
+        body = body.replace(new RegExp('\\{\\{'+k+'\\}\\}', 'g'), v || '');
+      }
+
+      const full = fm + body;
+      $('preview').textContent = full;
+
+      // Wort-Count
+      const words = body.replace(/[#*\-`\[\]()_]/g,' ').split(/\s+/).filter(Boolean).length;
+      $('word-count').textContent = words;
+      if (words < currentTemplate.minWords) {
+        $('word-warning').style.display = 'inline';
+        $('word-warning').textContent = ' (unter Minimum ' + currentTemplate.minWords + '!)';
+      } else {
+        $('word-warning').style.display = 'none';
+      }
+    }
+
+    // Submit
+    $('submit-btn').addEventListener('click', async () => {
+      const err = $('submit-error');
+      const ok = $('submit-success');
+      err.style.display = 'none'; ok.style.display = 'none';
+
+      const slug = $('f-slug').value.trim();
+      if (!slug) { err.textContent = 'Slug leer.'; err.style.display = 'block'; return; }
+
+      const tags = $('f-tags').value.split(',').map(s => s.trim()).filter(Boolean);
+
+      // Body aus Template
+      let body = currentTemplate.markdownSkeleton;
+      for (const [k, v] of Object.entries(placeholderValues)) {
+        body = body.replace(new RegExp('\\{\\{'+k+'\\}\\}','g'), v || '');
+      }
+
+      const validFaq = faqItems.filter(f => f.question && f.answer);
+      const fm = {
+        title: $('f-title').value.trim(),
+        description: $('f-description').value.trim(),
+        date: $('f-date').value,
+        tags,
+        keywords: tags,
+        featured: false,
+        author: $('f-author').value,
+        image: $('f-image').value.trim() || undefined,
+        imageAlt: $('f-imageAlt').value.trim() || undefined,
+        faq: validFaq,
+      };
+
+      const btn = $('submit-btn');
+      btn.disabled = true;
+      btn.textContent = 'Wird committed…';
+
+      try {
+        const res = await fetch('/api/herzraum/articles', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ slug, frontmatter: fm, body }),
+        });
+        const data = await res.json();
+        if (data.ok) {
+          ok.innerHTML = '✓ Committed! Live in ' + (data.estimatedLiveIn || '~5-7 Min') +
+            ' · <a href="'+data.commitUrl+'" target="_blank" style="color: var(--hz-primary);">Commit</a> · <a href="'+data.liveUrl+'" target="_blank" style="color: var(--hz-primary);">Live-URL (nach Deploy)</a>';
+          ok.style.display = 'block';
+          btn.textContent = '✓ Angelegt';
+        } else {
+          err.textContent = 'Fehler: ' + (data.error || 'unknown') +
+            (data.issues ? ' — ' + JSON.stringify(data.issues) : '');
+          err.style.display = 'block';
+          btn.disabled = false;
+          btn.textContent = 'Artikel anlegen (GitHub-Commit)';
+        }
+      } catch (e) {
+        err.textContent = 'Netzwerk-Fehler: ' + e.message;
+        err.style.display = 'block';
+        btn.disabled = false;
+        btn.textContent = 'Artikel anlegen (GitHub-Commit)';
+      }
+    });
+  </script>
+</HerzraumLayout>
