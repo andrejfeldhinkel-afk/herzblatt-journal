@@ -1,4 +1,9 @@
 ---
+// prerender = false: Produkt-Daten werden live vom Backend geholt.
+// Ohne das würde die Page beim Deploy einmal HTML einfrieren und
+// Änderungen (neue Produkte, Preis-Updates) wären unsichtbar.
+export const prerender = false;
+
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ProductCard from '../components/ProductCard.astro';
 
