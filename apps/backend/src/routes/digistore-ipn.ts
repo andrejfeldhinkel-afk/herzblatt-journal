@@ -129,21 +129,46 @@ app.post('/', async (c) => {
   if (!isRelevant) return c.text('OK', 200);
 
   try {
-    // Check ob wir diesen Order schon haben (idempotenz)
-    const existing = await db
-      .select({ id: schema.purchases.id, status: schema.purchases.status })
-      .from(schema.purchases)
-      .where(
-        and(
-          eq(schema.purchases.provider, 'digistore24'),
-          eq(schema.purchases.providerOrderId, orderId),
-        ),
-      )
-      .limit(1);
+    // Idempotenter Insert via UNIQUE-Index (provider, providerOrderId).
+    // Bei Konflikt kein neuer Row — anschließend ggf. Status-Update wenn
+    // refund/chargeback auf einen früheren paid-Event folgt.
+    //
+    // Race-sicher: keine check-then-insert-Lücke mehr wie vorher. Zwei
+    // parallele Requests für dieselbe order_id erzeugen genau EINE Row;
+    // der zweite sieht `inserted.length === 0` und rennt in den Update-
+    // Pfad, nicht in den Welcome-Mail-Pfad.
+    const inserted = await db
+      .insert(schema.purchases)
+      .values({
+        provider: 'digistore24',
+        providerOrderId: orderId,
+        email,
+        product: productName.slice(0, 100),
+        amountCents: amount,
+        currency,
+        status,
+        rawPayload: JSON.stringify(params).slice(0, 10_000),
+      })
+      .onConflictDoNothing({
+        target: [schema.purchases.provider, schema.purchases.providerOrderId],
+      })
+      .returning({ id: schema.purchases.id });
 
-    if (existing.length > 0) {
-      // Update status falls refund/chargeback nach payment kommt
-      if (existing[0].status !== status) {
+    if (inserted.length === 0) {
+      // Duplicate: Row existiert bereits. Status ggf. aktualisieren
+      // (z.B. paid → refunded wenn Refund nach Kauf kommt).
+      const existing = await db
+        .select({ id: schema.purchases.id, status: schema.purchases.status })
+        .from(schema.purchases)
+        .where(
+          and(
+            eq(schema.purchases.provider, 'digistore24'),
+            eq(schema.purchases.providerOrderId, orderId),
+          ),
+        )
+        .limit(1);
+
+      if (existing.length > 0 && existing[0].status !== status) {
         await db
           .update(schema.purchases)
           .set({ status })
@@ -154,18 +179,6 @@ app.post('/', async (c) => {
       }
       return c.text('OK', 200);
     }
-
-    // Neu: insert
-    await db.insert(schema.purchases).values({
-      provider: 'digistore24',
-      providerOrderId: orderId,
-      email,
-      product: productName.slice(0, 100),
-      amountCents: amount,
-      currency,
-      status,
-      rawPayload: JSON.stringify(params).slice(0, 10_000),
-    });
 
     console.log(`[digistore-ipn] new purchase: ${email} ${orderId} ${amount/100}${currency}`);
 

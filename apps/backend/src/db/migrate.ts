@@ -41,6 +41,29 @@ export async function runStartupMigrations(): Promise<void> {
       CREATE INDEX IF NOT EXISTS purchases_provider_order_idx ON purchases(provider, provider_order_id)
     `);
 
+    // UNIQUE-Index auf (provider, provider_order_id) — verhindert
+    // Duplicate-Inserts bei parallelen Webhook-Retries (race condition
+    // im alten check-then-insert-Muster, siehe F1 aus Phase-4-Audit).
+    //
+    // Reihenfolge ist wichtig:
+    //   1. Duplikate de-dupen (behält jeweils die älteste Row pro
+    //      (provider, provider_order_id) — niedrigste id).
+    //   2. Unique-Index anlegen (IF NOT EXISTS, strikt idempotent).
+    //
+    // Beide Statements nutzen idempotente Varianten — wiederholbar auf
+    // jedem Startup, selbst wenn der Index bereits existiert.
+    await db.execute(sql`
+      DELETE FROM purchases a
+      USING purchases b
+      WHERE a.provider = b.provider
+        AND a.provider_order_id = b.provider_order_id
+        AND a.id > b.id
+    `);
+    await db.execute(sql`
+      CREATE UNIQUE INDEX IF NOT EXISTS purchases_provider_order_unique
+        ON purchases(provider, provider_order_id)
+    `);
+
     // audit_log — Admin-Actions-Journal
     await db.execute(sql`
       CREATE TABLE IF NOT EXISTS audit_log (

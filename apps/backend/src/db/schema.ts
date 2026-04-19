@@ -6,6 +6,7 @@ import {
   boolean,
   bigint,
   index,
+  uniqueIndex,
 } from 'drizzle-orm/pg-core';
 
 /**
@@ -155,7 +156,17 @@ export const purchases = pgTable(
   (t) => ({
     createdAtIdx: index('purchases_created_at_idx').on(t.createdAt),
     emailIdx: index('purchases_email_idx').on(t.email),
-    providerOrderIdx: index('purchases_provider_order_idx').on(t.provider, t.providerOrderId),
+    // UNIQUE (provider, provider_order_id) — schließt Race-Condition in den
+    // Webhook-Handlern (digistore-ipn / micropayment-webhook / whop-webhook).
+    // Vorher war das nur ein nicht-uniquer Index; bei parallelen Retries
+    // konnten zwei Handler-Instanzen beide den existing-Check passieren und
+    // beide INSERTen → Duplikate + doppelte Welcome-Mails. Der Unique-Index
+    // zusammen mit `.onConflictDoNothing({ target: [...] })` macht den
+    // INSERT atomar idempotent.
+    providerOrderUnique: uniqueIndex('purchases_provider_order_unique').on(
+      t.provider,
+      t.providerOrderId,
+    ),
   }),
 );
 

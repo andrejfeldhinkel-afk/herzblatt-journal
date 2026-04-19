@@ -161,20 +161,43 @@ app.post('/', async (c) => {
   }
 
   try {
-    // Idempotenz-Check
-    const existing = await db
-      .select({ id: schema.purchases.id, status: schema.purchases.status })
-      .from(schema.purchases)
-      .where(
-        and(
-          eq(schema.purchases.provider, 'whop'),
-          eq(schema.purchases.providerOrderId, orderId),
-        ),
-      )
-      .limit(1);
+    // Idempotenter Insert via UNIQUE-Index (provider, providerOrderId).
+    // Siehe digistore-ipn.ts für den Rationale — gleiches Race-safe-Pattern.
+    const productLabel = planId ? `whop:${planId}`.slice(0, 100) : 'whop-ebook';
 
-    if (existing.length > 0) {
-      if (existing[0].status !== status) {
+    const inserted = await db
+      .insert(schema.purchases)
+      .values({
+        provider: 'whop',
+        providerOrderId: orderId,
+        email,
+        product: productLabel,
+        amountCents,
+        currency,
+        status,
+        rawPayload: truncatePayload(body),
+      })
+      .onConflictDoNothing({
+        target: [schema.purchases.provider, schema.purchases.providerOrderId],
+      })
+      .returning({ id: schema.purchases.id });
+
+    if (inserted.length === 0) {
+      // Duplicate: Row existiert bereits. Status ggf. aktualisieren
+      // (z.B. paid → refunded wenn membership.went_invalid auf einen
+      // früheren payment.succeeded folgt).
+      const existing = await db
+        .select({ id: schema.purchases.id, status: schema.purchases.status })
+        .from(schema.purchases)
+        .where(
+          and(
+            eq(schema.purchases.provider, 'whop'),
+            eq(schema.purchases.providerOrderId, orderId),
+          ),
+        )
+        .limit(1);
+
+      if (existing.length > 0 && existing[0].status !== status) {
         await db
           .update(schema.purchases)
           .set({ status })
@@ -183,22 +206,8 @@ app.post('/', async (c) => {
       } else {
         console.log(`[whop-webhook] duplicate webhook für ${orderId} (status unchanged)`);
       }
-      return c.json({ ok: true, updated: existing[0].id }, 200);
+      return c.json({ ok: true, updated: existing[0]?.id }, 200);
     }
-
-    // Neu: insert
-    const productLabel = planId ? `whop:${planId}`.slice(0, 100) : 'whop-ebook';
-
-    await db.insert(schema.purchases).values({
-      provider: 'whop',
-      providerOrderId: orderId,
-      email,
-      product: productLabel,
-      amountCents,
-      currency,
-      status,
-      rawPayload: truncatePayload(body),
-    });
 
     console.log(`[whop-webhook] new purchase: ${redactEmail(email)} ${orderId} ${amountCents/100}${currency} (${action})`);
 
