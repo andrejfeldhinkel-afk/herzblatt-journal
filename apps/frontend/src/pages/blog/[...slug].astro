@@ -348,6 +348,41 @@ const articleAuthor = {
           </div>
         </div>
 
+        <!--
+          Ebook-CTA nach Artikel-Ende (vor Author-Bio und Related-Posts).
+          Geht zu /ebook mit UTM-Parametern für Tracking.
+          Der ursprüngliche Plan sah "nach ~50% Content" vor — das Splitten
+          des gerenderten <Content />-Streams ist in Astro aber nicht trivial
+          (headlessBody wäre nötig). Deshalb: Platzierung am Artikel-Ende,
+          bevor User zu Related-Posts springt.
+        -->
+        <aside class="not-prose mt-14 rounded-2xl overflow-hidden" aria-label="E-Book-Empfehlung: Die Herzblatt-Methode">
+          <a
+            href="/ebook?utm_source=blog&utm_medium=inline&utm_campaign=ebook"
+            class="block group relative p-6 sm:p-8 transition-all hover:-translate-y-0.5"
+            style="background: linear-gradient(135deg, var(--color-primary-600), var(--color-primary-800)); color: white; text-decoration: none;"
+          >
+            <div style="position: absolute; top: -40px; right: -40px; width: 180px; height: 180px; border-radius: 50%; background: rgba(255,255,255,0.08); pointer-events: none;" aria-hidden="true"></div>
+            <div style="position: absolute; bottom: -30px; left: -30px; width: 120px; height: 120px; border-radius: 50%; background: rgba(255,255,255,0.05); pointer-events: none;" aria-hidden="true"></div>
+            <div style="position: relative;" class="flex flex-col sm:flex-row sm:items-center gap-5">
+              <div class="shrink-0 flex items-center justify-center rounded-2xl" style="width: 64px; height: 64px; background: rgba(255,255,255,0.18); font-size: 2rem;" aria-hidden="true">📖</div>
+              <div class="flex-1 min-w-0">
+                <p class="text-[11px] font-bold uppercase tracking-wider mb-1.5" style="color: rgba(255,255,255,0.8);">Gefällt dir dieser Artikel?</p>
+                <h3 class="text-lg sm:text-xl font-extrabold leading-tight mb-2" style="font-family: var(--font-serif); letter-spacing: -0.015em;">
+                  Die Herzblatt-Methode vertieft genau diese Themen in 15 Kapiteln.
+                </h3>
+                <p class="text-sm opacity-90 mb-4">
+                  Das komplette System für ein erfülltes Liebesleben — 200+ Seiten Hauptbuch, 5 Bonus-Materialien, lebenslange Updates.
+                </p>
+                <span class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-bold group-hover:shadow-lg transition-all" style="background: white; color: var(--color-primary-700);">
+                  <span><span class="opacity-60 line-through mr-1.5">149 €</span>89,99 € — Jetzt ansehen</span>
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                </span>
+              </div>
+            </div>
+          </a>
+        </aside>
+
         <!-- Author Bio Box -->
         <div class="mt-14 rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
           <div class="flex items-start gap-4">
