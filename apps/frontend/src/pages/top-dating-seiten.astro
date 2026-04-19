@@ -279,81 +279,6 @@ type ReferenceBrand = {
 const referenceBrands: ReferenceBrand[] = [];
 
 
-// 5 Kategorie-Guides (Use-Case-Segmentierung)
-const categories = [
-  {
-    slug: 'ernsthaft',
-    icon: '💕',
-    title: 'Dating-Seiten für ernsthafte Beziehungen',
-    h2Keyword: 'Beste Dating-Seiten für ernsthafte Beziehungen',
-    intro: 'Wer eine langfristige Partnerschaft statt kurzer Flirts sucht, braucht eine Plattform mit entsprechender Zielgruppe, Matching-Algorithmus und Profilqualität. Die folgenden Anbieter setzen auf Tiefe statt Quantität und ziehen Singles an, die wissen, was sie wollen.',
-    picks: [
-      { slug: 'xloves', reason: 'Testsieger mit manueller Verifizierung — höchste Profilqualität.' },
-      { slug: 'michverlieben', reason: 'Wissenschaftlicher 80-Fragen-Persönlichkeitstest speziell für Ü30.' },
-      { slug: 'singlescout', reason: 'Frisch am Start, hoher Frauenanteil (49 %) und Fokus auf echte Verbindungen.' },
-    ],
-  },
-  {
-    slug: 'casual',
-    icon: '🔥',
-    title: 'Casual-Dating: Spontan, unkompliziert, ohne Druck',
-    h2Keyword: 'Beste Casual-Dating-Seiten 2026',
-    intro: 'Casual Dating heißt: neue Menschen kennenlernen, ohne sofort eine feste Beziehung aufbauen zu wollen. Das kann ein einmaliges Treffen sein, ein längerer Flirt oder einfach unkomplizierte Begegnungen. Wer das sucht, braucht eine Plattform ohne wochenlange Fragebögen.',
-    picks: [
-      { slug: 'onlydates69', reason: 'Blitzschnelles Matching via Standort — oft noch am selben Tag ein Date.' },
-      { slug: 'single69', reason: 'Große Casual-Dating-Community im DACH-Raum mit aktiven Mitgliedern.' },
-      { slug: 'sex69', reason: 'Klare Kommunikation ohne Umschweife — für Erwachsene mit eindeutigen Absichten.' },
-    ],
-  },
-  {
-    slug: 'chat-first',
-    icon: '💬',
-    title: 'Chat-basierte Plattformen: Reden statt Swipen',
-    h2Keyword: 'Chat-basierte Dating-Seiten im Vergleich',
-    intro: 'Wer vom endlosen Wischen genug hat, für den sind chat-first Plattformen die Alternative. Statt Profile anhand von Bildern zu bewerten, steht das Gespräch im Mittelpunkt. Die Hemmschwelle zum Anschreiben ist niedriger, die Gespräche meist tiefer.',
-    picks: [
-      { slug: 'whatsmeet', reason: 'Messenger-ähnliches Erlebnis mit Fokus auf echte Gespräche.' },
-      { slug: 'i-loves', reason: 'Modernes Design, aktive Chat-Community, einfache Bedienung.' },
-    ],
-  },
-  {
-    slug: 'ue40-ue50',
-    icon: '💎',
-    title: 'Dating-Seiten für Singles Ü40 und Ü50',
-    h2Keyword: 'Dating-Seiten ab 40 und 50 im Vergleich',
-    intro: 'Mit 40+ oder 50+ ändern sich die Ansprüche ans Dating. Die Zielgruppe ist meist reifer, die Absichten klarer: Echte Begleitung statt kurzer Affären. Nicht alle Plattformen haben in dieser Altersklasse aktive Nutzer — wir empfehlen diese Anbieter.',
-    picks: [
-      { slug: 'michverlieben', reason: 'Klarer Fokus auf Ü30 mit Heiratsabsichten — Altersschnitt 32–52.' },
-      { slug: 'xloves', reason: 'Breite Altersstruktur mit vielen aktiven Ü40-Singles im DACH-Raum.' },
-      { slug: 'i-loves', reason: 'Reife Chat-Community — viele Ü40-Mitglieder suchen hier bewusst das Gespräch.' },
-    ],
-  },
-  {
-    slug: 'kostenlos',
-    icon: '🆓',
-    title: 'Kostenlose Dating-Seiten: Was wirklich gratis ist',
-    h2Keyword: 'Kostenlose Dating-Seiten 2026 — was geht wirklich gratis?',
-    intro: 'Viele Plattformen bewerben sich als "kostenlos", berechnen aber für zentrale Funktionen wie Chatten oder Profilbesucher-Einsicht. Hier unterscheiden wir ehrliche Gratis-Angebote von Freemium-Fallen — unsere empfohlenen Plattformen bieten allesamt eine großzügige kostenlose Basisversion.',
-    picks: [
-      { slug: 'xloves', reason: 'Großzügige Basisversion — Profil, Suche & erste Nachrichten gratis.' },
-      { slug: 'singlescout', reason: 'Basis dauerhaft kostenlos, inklusive unbegrenzter Profilansicht.' },
-      { slug: 'whatsmeet', reason: 'Messenger-Look kostenlos nutzbar — Premium nur für erweiterte Filter.' },
-    ],
-  },
-];
-
-// Preisvergleich — alle Top-Anbieter im 1/3/6/12-Monats-Overview
-const pricingData = [
-  { platform: 'xLoves', m1: '9,99 €', m3: '7,99 €', m6: '6,99 €', m12: '5,99 €', highlight: true },
-  { platform: 'MichVerlieben', m1: '14,99 €', m3: '11,99 €', m6: '9,99 €', m12: '7,99 €', highlight: false },
-  { platform: 'SingleScout', m1: '9,99 €', m3: '8,99 €', m6: '7,99 €', m12: '6,99 €', highlight: false },
-  { platform: 'WhatsMeet', m1: '12,49 €', m3: '9,49 €', m6: '7,99 €', m12: '6,49 €', highlight: false },
-  { platform: 'i-Loves', m1: '11,49 €', m3: '8,99 €', m6: '7,49 €', m12: '5,99 €', highlight: false },
-  { platform: 'OnlyDates69', m1: '12,99 €', m3: '9,99 €', m6: '8,49 €', m12: '6,99 €', highlight: false },
-  { platform: 'Single69', m1: '11,99 €', m3: '9,49 €', m6: '7,99 €', m12: '6,49 €', highlight: false },
-  { platform: 'Sex69', m1: '14,99 €', m3: '11,99 €', m6: '9,99 €', m12: '7,99 €', highlight: false },
-];
-
 // 12 FAQs (erweitert)
 const faqItems = [
   {
@@ -864,56 +789,6 @@ const breadcrumbs = [
     </div>
 
     <!-- ============================================================= -->
-    <!-- KATEGORIE-GUIDES (5 Use-Cases)                                  -->
-    <!-- ============================================================= -->
-    <div class="mb-16">
-      <p class="text-xs font-bold uppercase tracking-widest mb-3" style="color: var(--color-primary-600);">Für jeden Lebensabschnitt</p>
-      <h2 class="text-3xl sm:text-4xl font-bold mb-4" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.01em;">Dating-Seiten nach Lebenslage</h2>
-      <p class="text-base leading-relaxed mb-10 max-w-3xl" style="color: var(--text-muted);">
-        Nicht jede Plattform passt zu jedem Ziel. Ob du eine ernsthafte Beziehung, unkompliziertes Casual-Dating, Chat-Kontakte oder preisbewusste Alternativen suchst — hier findest du die beste Dating-Seite für deine Lebenslage.
-      </p>
-
-      <div class="space-y-8">
-        {categories.map((cat) => (
-          <div id={`kategorie-${cat.slug}`} class="rounded-2xl p-6 sm:p-8"
-               style="background: var(--bg-card); border: 1px solid var(--border);">
-            <div class="flex items-center gap-3 mb-4">
-              <span class="text-3xl">{cat.icon}</span>
-              <h3 class="text-xl sm:text-2xl font-bold" style="color: var(--text); font-family: var(--font-serif);">{cat.title}</h3>
-            </div>
-            <p class="text-sm sm:text-base leading-relaxed mb-5" style="color: var(--text-muted);">{cat.intro}</p>
-
-            <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
-              {cat.picks.map((pick, idx) => {
-                const isAffiliate = datingSites.find(s => s.slug === pick.slug);
-                const brand = referenceBrands.find(b => b.slug === pick.slug);
-                const name = isAffiliate?.name || brand?.name || pick.slug;
-                return (
-                  <a href={`#${pick.slug}`} class="flex gap-3 p-4 rounded-xl transition-all hover:-translate-y-px hover:shadow-md"
-                     style="background: var(--bg); border: 1px solid var(--border); text-decoration: none;">
-                    <span class="shrink-0 w-8 h-8 rounded-full flex items-center justify-center text-xs font-bold"
-                          style={`background: ${idx === 0 ? 'var(--color-primary-500)' : 'var(--color-primary-100)'}; color: ${idx === 0 ? 'white' : 'var(--color-primary-700)'};`}>
-                      {idx + 1}
-                    </span>
-                    <div class="flex-1">
-                      <div class="flex items-center gap-2 mb-1">
-                        <span class="font-semibold" style="color: var(--text);">{name}</span>
-                        {!isAffiliate && (
-                          <span class="text-[9px] px-1.5 py-0.5 rounded-full font-medium" style="background: var(--bg-soft); color: var(--text-muted); border: 1px solid var(--border);">Redaktionell</span>
-                        )}
-                      </div>
-                      <p class="text-xs leading-snug" style="color: var(--text-muted);">{pick.reason}</p>
-                    </div>
-                  </a>
-                );
-              })}
-            </div>
-          </div>
-        ))}
-      </div>
-    </div>
-
-    <!-- ============================================================= -->
     <!-- INDIVIDUELLE REVIEWS (8 Affiliate-Partner, ausführlich)         -->
     <!-- ============================================================= -->
     <div class="mb-16">
@@ -1132,43 +1007,6 @@ const breadcrumbs = [
       </div>
     </div>
     )}
-
-    <!-- ============================================================= -->
-    <!-- PREIS-VERGLEICHSTABELLE                                         -->
-    <!-- ============================================================= -->
-    <div class="mb-16 rounded-2xl overflow-hidden" style="border: 1px solid var(--border); background: var(--bg-card);">
-      <div class="px-6 py-4" style="background: var(--bg-soft); border-bottom: 1px solid var(--border);">
-        <h2 class="text-lg sm:text-xl font-bold" style="color: var(--text); font-family: var(--font-serif);">Preisvergleich — was kostet welche Plattform?</h2>
-        <p class="text-xs mt-0.5" style="color: var(--text-muted);">Preis pro Monat je Abo-Laufzeit · Werte gerundet · Stand 04/2026</p>
-      </div>
-      <div class="overflow-x-auto">
-        <table class="w-full text-sm" style="min-width: 640px;">
-          <thead>
-            <tr style="border-bottom: 1px solid var(--border); background: var(--bg);">
-              <th class="text-left px-4 py-3 font-semibold text-xs uppercase tracking-wider" style="color: var(--text-muted);">Plattform</th>
-              <th class="text-right px-3 py-3 font-semibold text-xs uppercase tracking-wider" style="color: var(--text-muted);">1 Monat</th>
-              <th class="text-right px-3 py-3 font-semibold text-xs uppercase tracking-wider" style="color: var(--text-muted);">3 Monate</th>
-              <th class="text-right px-3 py-3 font-semibold text-xs uppercase tracking-wider" style="color: var(--text-muted);">6 Monate</th>
-              <th class="text-right px-3 py-3 font-semibold text-xs uppercase tracking-wider" style="color: var(--text-muted);">12 Monate</th>
-            </tr>
-          </thead>
-          <tbody>
-            {pricingData.map((row) => (
-              <tr style={`border-bottom: 1px solid var(--border); ${row.highlight ? 'background: rgba(244,63,94,0.04);' : ''}`}>
-                <td class="px-4 py-3 font-semibold" style="color: var(--text);">{row.platform}{row.highlight && <span class="ml-2 text-[10px] px-1.5 py-0.5 rounded font-bold" style="background: var(--color-primary-500); color: white;">TIPP</span>}</td>
-                <td class="text-right px-3 py-3" style="color: var(--text-muted);">{row.m1}</td>
-                <td class="text-right px-3 py-3" style="color: var(--text-muted);">{row.m3}</td>
-                <td class="text-right px-3 py-3" style="color: var(--text-muted);">{row.m6}</td>
-                <td class="text-right px-3 py-3 font-bold" style="color: var(--color-primary-600);">{row.m12}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
-      <div class="px-6 py-3 text-xs" style="background: var(--bg-soft); color: var(--text-muted); border-top: 1px solid var(--border);">
-        <strong>Spar-Tipp:</strong> Bei allen kostenpflichtigen Plattformen spart das 12-Monats-Abo gegenüber dem Monats-Preis meist 50–65 %. Achte aber auf die automatische Vertragsverlängerung — rechtzeitig kündigen!
-      </div>
-    </div>
 
     <!-- ============================================================= -->
     <!-- DATING-TRENDS 2026                                              -->
