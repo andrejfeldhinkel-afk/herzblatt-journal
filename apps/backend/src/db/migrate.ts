@@ -256,6 +256,29 @@ export async function runStartupMigrations(): Promise<void> {
         ON ebook_drip_schedule(email)
     `);
 
+    // affiliate_codes — Käufer-Affiliate-Codes (8-Zeichen, a-z0-9).
+    // Ein Code pro Owner-Email (UNIQUE ownerEmail): bei Zweitkauf kein neuer Code.
+    await db.execute(sql`
+      CREATE TABLE IF NOT EXISTS affiliate_codes (
+        id SERIAL PRIMARY KEY,
+        code TEXT NOT NULL UNIQUE,
+        owner_email TEXT NOT NULL,
+        created_at TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW(),
+        clicks BIGINT NOT NULL DEFAULT 0,
+        conversions BIGINT NOT NULL DEFAULT 0,
+        payout_cents BIGINT NOT NULL DEFAULT 0,
+        last_click_at TIMESTAMP WITH TIME ZONE,
+        last_conversion_at TIMESTAMP WITH TIME ZONE,
+        active BOOLEAN NOT NULL DEFAULT TRUE
+      )
+    `);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS affiliate_codes_owner_idx ON affiliate_codes(owner_email)`);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS affiliate_codes_code_idx ON affiliate_codes(code)`);
+    await db.execute(sql`
+      CREATE UNIQUE INDEX IF NOT EXISTS affiliate_codes_owner_unique
+        ON affiliate_codes(owner_email)
+    `);
+
     // UNIQUE-Constraint auf registrations.email — verhindert Duplikat-Signups.
     // De-dupe vorher (älteste Row pro email behalten), dann Unique-Index bauen.
     // Siehe migrations/0003_additional_unique_constraints.sql + Phase-5 D2.

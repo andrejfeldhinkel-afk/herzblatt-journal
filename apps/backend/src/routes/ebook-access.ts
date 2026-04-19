@@ -25,6 +25,7 @@ import {
   verifyEbookToken,
 } from '../lib/ebook-access.js';
 import { sendEbookDeliveryEmail, isSendGridEnabled } from '../lib/sendgrid.js';
+import { ensureAffiliateCodeForBuyer } from '../lib/affiliate-code.js';
 import { allowRequest } from '../lib/rate-limit.js';
 import { getClientIp, hashIp } from '../lib/crypto.js';
 import { redactEmail } from '../lib/log-helpers.js';
@@ -234,6 +235,74 @@ app.get('/session', async (c) => {
  * rechnet dann per HMAC den Token für die Page-Renderings nach.
  * Nicht public exponiert — keine route, nur Helper.
  */
+
+/**
+ * GET /api/ebook/my-affiliate-code
+ *
+ * Für den eingeloggten Käufer (via hb_ebook-Cookie): liefert seinen
+ * Affiliate-Code + Stats (clicks, conversions, payoutCents). Wird im
+ * Lese-Bereich (/ebook/lesen) als Widget angezeigt.
+ *
+ * Gibt 401 wenn keine gültige Ebook-Session existiert.
+ */
+app.get('/my-affiliate-code', async (c) => {
+  const cookieHeader = c.req.header('cookie') || '';
+  const match = /(?:^|;\s*)hb_ebook=([^;]+)/.exec(cookieHeader);
+  if (!match) return c.json({ ok: false, error: 'no-session' }, 401);
+  const email = normalizeEmail(decodeURIComponent(match[1]));
+  if (!email) return c.json({ ok: false, error: 'invalid-session' }, 401);
+
+  try {
+    // Bestätige, dass der User tatsächlich einen 'paid'-Kauf hat
+    const paid = await db
+      .select({ id: schema.purchases.id })
+      .from(schema.purchases)
+      .where(
+        and(
+          eq(schema.purchases.email, email),
+          eq(schema.purchases.status, 'paid'),
+        ),
+      )
+      .limit(1);
+    if (paid.length === 0) {
+      return c.json({ ok: false, error: 'no-paid-purchase' }, 401);
+    }
+
+    // Lazy-init: alte Käufer (vor Feature-Launch) haben noch keinen Code.
+    // ensureAffiliateCodeForBuyer legt einen an wenn nötig.
+    const code = await ensureAffiliateCodeForBuyer(email);
+    if (!code) return c.json({ ok: false, error: 'code-create-failed' }, 500);
+
+    const [row] = await db
+      .select()
+      .from(schema.affiliateCodes)
+      .where(eq(schema.affiliateCodes.code, code))
+      .limit(1);
+
+    if (!row) return c.json({ ok: false, error: 'code-lookup-failed' }, 500);
+
+    const base = (
+      process.env.PUBLIC_BASE_URL ||
+      process.env.APP_URL ||
+      'https://herzblatt-journal.com'
+    ).replace(/\/$/, '');
+
+    return c.json({
+      ok: true,
+      code: row.code,
+      shareUrl: `${base}/go/affiliate/${row.code}`,
+      stats: {
+        clicks: Number(row.clicks) || 0,
+        conversions: Number(row.conversions) || 0,
+        payoutCents: Number(row.payoutCents) || 0,
+      },
+      active: row.active,
+    });
+  } catch (err) {
+    console.error('[ebook-access] my-affiliate-code error:', err);
+    return c.json({ ok: false, error: 'server-error' }, 500);
+  }
+});
 
 // GET / — setup-check
 app.get('/', (c) => {

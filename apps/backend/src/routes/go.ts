@@ -16,6 +16,11 @@ import { db, schema } from '../db/index.js';
 import { eq } from 'drizzle-orm';
 import { getClientIp, hashIp } from '../lib/crypto.js';
 import { allowPublicApi } from '../lib/rate-limit.js';
+import {
+  buildRefCookieHeader,
+  incrementAffiliateClick,
+  isAffiliateCodeSecretConfigured,
+} from '../lib/affiliate-code.js';
 
 const app = new Hono();
 
@@ -87,6 +92,83 @@ app.post('/:slug', async (c) => {
   }
 
   return c.json({ ok: true, targetUrl });
+});
+
+/**
+ * POST /go/affiliate/:code
+ *
+ * Affiliate-Code-Redirect: Käufer teilt /go/affiliate/<CODE> in Social Media,
+ * Besucher landen via Astro-Proxy auf /ebook?ref=<CODE>. Wir setzen einen
+ * signierten Cookie hb_ref=<code>.<hmac> (30 Tage), den der Webhook bei Kauf
+ * gegenchecked um Conversions zu creditieren.
+ *
+ * Response: 200 { ok, targetUrl, setCookie? } | 404 { ok:false }.
+ * Der `setCookie` wird vom Frontend-Proxy gespiegelt (Set-Cookie-Header).
+ */
+app.post('/affiliate/:code', async (c) => {
+  const code = c.req.param('code');
+  if (!code || !/^[a-z0-9]{6,16}$/.test(code)) {
+    return c.json({ ok: false, error: 'invalid-code' }, 400);
+  }
+
+  // Rate-Limit pro IP — Affiliate-Klick-Floods bremsen
+  const ip = getClientIp(c.req.raw, c.req.raw.headers);
+  if (!allowPublicApi(hashIp(ip))) {
+    return c.json({ ok: false, error: 'rate-limit' }, 429);
+  }
+
+  // Existiert der Code?
+  const [row] = await db
+    .select({
+      id: schema.affiliateCodes.id,
+      active: schema.affiliateCodes.active,
+    })
+    .from(schema.affiliateCodes)
+    .where(eq(schema.affiliateCodes.code, code))
+    .limit(1);
+  if (!row || !row.active) {
+    return c.json({ ok: false, error: 'not-found' }, 404);
+  }
+
+  // Click inkrementieren (fire-and-forget — nicht-blocking)
+  void incrementAffiliateClick(code);
+
+  // Auch in die generische clicks-Tabelle loggen, damit der Admin-Dashboard
+  // /herzraum/klicks den Traffic sieht (gleicher Stil wie /go/:slug).
+  let referrerHost = 'direct';
+  try {
+    const ref = c.req.header('referer');
+    if (ref) {
+      const host = new URL(ref).hostname || 'direct';
+      referrerHost = host.replace(/^www\./, '').slice(0, 100);
+    }
+  } catch {
+    referrerHost = 'direct';
+  }
+  try {
+    await db.insert(schema.clicks).values({
+      target: `aff-${code}`,
+      source: referrerHost,
+      type: 'affiliate-code',
+    });
+  } catch (err) {
+    console.error('[go/affiliate] click-log failed:', err);
+  }
+
+  const targetUrl = `https://herzblatt-journal.com/ebook?ref=${encodeURIComponent(code)}`;
+
+  // Cookie nur setzen wenn Secret konfiguriert ist.
+  let setCookie: string | undefined;
+  if (isAffiliateCodeSecretConfigured()) {
+    try {
+      setCookie = buildRefCookieHeader(code);
+    } catch (err) {
+      console.error('[go/affiliate] cookie build failed:', err);
+    }
+  }
+
+  if (setCookie) c.header('Set-Cookie', setCookie);
+  return c.json({ ok: true, targetUrl, setCookie });
 });
 
 export default app;

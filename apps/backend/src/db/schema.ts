@@ -398,6 +398,42 @@ export const ebookDripSchedule = pgTable(
 );
 
 /**
+ * AffiliateCodes — Affiliate-Codes für Ebook-Käufer.
+ *
+ * Bei jedem erfolgreichen Kauf wird ein eindeutiger 8-Zeichen-Code generiert
+ * und dem Käufer zugeordnet. Der Käufer kann seinen Code teilen:
+ *   /go/affiliate/<CODE> → /ebook?ref=<CODE> (Cookie 30 Tage)
+ *
+ * Bei neuem Kauf mit gesetztem ref-Cookie → conversions++, payout_cents
+ * wird erhöht (wir wählen 30% von amount_cents als Default-Provision; der
+ * tatsächliche Payout erfolgt manuell via Banküberweisung).
+ *
+ * Sicherheit: Code ist HMAC-signed (siehe lib/affiliate-code.ts), damit
+ * niemand Codes forgen kann — beim Klick-Redirect prüfen wir die Signatur.
+ */
+export const affiliateCodes = pgTable(
+  'affiliate_codes',
+  {
+    id: serial('id').primaryKey(),
+    code: text('code').notNull().unique(), // 8-Zeichen, a-z0-9 (nicht signed — Signatur ist separat)
+    ownerEmail: text('owner_email').notNull(),
+    createdAt: timestamp('created_at', { withTimezone: true }).defaultNow().notNull(),
+    clicks: bigint('clicks', { mode: 'number' }).notNull().default(0),
+    conversions: bigint('conversions', { mode: 'number' }).notNull().default(0),
+    payoutCents: bigint('payout_cents', { mode: 'number' }).notNull().default(0),
+    lastClickAt: timestamp('last_click_at', { withTimezone: true }),
+    lastConversionAt: timestamp('last_conversion_at', { withTimezone: true }),
+    active: boolean('active').notNull().default(true),
+  },
+  (t) => ({
+    ownerIdx: index('affiliate_codes_owner_idx').on(t.ownerEmail),
+    codeIdx: index('affiliate_codes_code_idx').on(t.code),
+    // Ein Code pro Owner — Wiederholkäufer bekommt den existing Code.
+    ownerUnique: uniqueIndex('affiliate_codes_owner_unique').on(t.ownerEmail),
+  }),
+);
+
+/**
  * AffiliateLinks — Benannte Short-URLs mit Traffic-Tracking.
  *
  * Zweck: User erstellt Short-URLs wie /go/tiktok-apr-26 und postet sie

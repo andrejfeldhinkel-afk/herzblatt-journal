@@ -53,6 +53,7 @@ import herzraumProductsRoute from './routes/herzraum/products.js';
 import herzraumTodosRoute from './routes/herzraum/todos.js';
 import herzraumPushRoute from './routes/herzraum/push.js';
 import herzraumAffiliateLinksRoute from './routes/herzraum/affiliate-links.js';
+import herzraumAffiliateCodesRoute from './routes/herzraum/affiliate-codes.js';
 
 // Public Short-URL-Endpoint (für /go/:slug Klicks)
 import goRoute from './routes/go.js';
@@ -181,6 +182,7 @@ app.route('/herzraum/products', herzraumProductsRoute);
 app.route('/herzraum/todos', herzraumTodosRoute);
 app.route('/herzraum/push', herzraumPushRoute);
 app.route('/herzraum/affiliate-links', herzraumAffiliateLinksRoute);
+app.route('/herzraum/affiliate-codes', herzraumAffiliateCodesRoute);
 
 // Admin — bearer token
 app.use('/admin/*', requireAdminToken);
