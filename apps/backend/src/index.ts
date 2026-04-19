@@ -6,6 +6,8 @@ import { captureError, flushSentry } from './lib/sentry.js';
 import { serve } from '@hono/node-server';
 import { Hono } from 'hono';
 import { cors } from 'hono/cors';
+import { sql } from 'drizzle-orm';
+import { db } from './db/index.js';
 
 // Public Routes
 import pageviewRoute from './routes/pageview.js';
@@ -73,7 +75,60 @@ app.use('*', cors({
 }));
 
 // Health + Root
-app.get('/health', (c) => c.json({ ok: true, service: 'herzblatt-backend', ts: new Date().toISOString() }));
+//
+// /health liefert eine Status-Übersicht für externes Monitoring:
+//   - ok:            grober Gesamt-Status (false wenn DB nicht erreichbar)
+//   - service:       Service-Name
+//   - ts:            Server-Zeit (ISO-8601)
+//   - version:       Commit-SHA (via RAILWAY_GIT_COMMIT_SHA, erste 7 Zeichen)
+//   - env:           NODE_ENV bzw. "production" / "test" / "development"
+//   - dbOk:          DB-Round-Trip erfolgreich (SELECT 1, max 1.5s)
+//   - providers:     welche Payment-Provider konfiguriert sind (ohne Secrets)
+//   - sendgrid:      SendGrid-API-Key vorhanden
+//   - sentry:        Sentry-DSN vorhanden
+//
+// Der DB-Check hat einen harten Timeout (1.5s), damit Monitoring-Systeme
+// nicht blockieren. Bei Timeout oder Fehler → dbOk=false + ok=false.
+app.get('/health', async (c) => {
+  const version = process.env.RAILWAY_GIT_COMMIT_SHA?.slice(0, 7) || 'dev';
+  const env = process.env.NODE_ENV || 'production';
+
+  // DB-Round-Trip mit Timeout — verhindert hängendes /health
+  let dbOk = false;
+  try {
+    const dbCheck = db.execute(sql`SELECT 1 AS ok`);
+    const timeout = new Promise<never>((_, reject) =>
+      setTimeout(() => reject(new Error('db-timeout')), 1500),
+    );
+    await Promise.race([dbCheck, timeout]);
+    dbOk = true;
+  } catch (err) {
+    console.error('[health] db check failed:', err);
+    dbOk = false;
+  }
+
+  const providers = {
+    digistore: !!process.env.DIGISTORE_IPN_PASSPHRASE,
+    whop: !!process.env.WHOP_WEBHOOK_SECRET,
+    micropayment:
+      !!process.env.MICROPAYMENT_ACCESS_KEY && !!process.env.MICROPAYMENT_PROJECT_KEY,
+  };
+
+  const body = {
+    ok: dbOk,
+    service: 'herzblatt-backend',
+    ts: new Date().toISOString(),
+    version,
+    env,
+    dbOk,
+    providers,
+    sendgrid: !!process.env.SENDGRID_API_KEY,
+    sentry: !!process.env.SENTRY_DSN,
+  };
+
+  return c.json(body, dbOk ? 200 : 503);
+});
+
 app.get('/', (c) => c.text('Herzblatt Backend API — siehe /health'));
 
 // Public API Routes
