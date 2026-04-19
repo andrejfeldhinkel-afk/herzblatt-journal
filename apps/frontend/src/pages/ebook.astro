@@ -553,6 +553,62 @@ const faqs = [
       </div>
 
       {hasLiveCheckout && (
+        <!--
+          Sticky Buy-Bar — erscheint nach 30% Scroll-Tiefe.
+          Click öffnet den bestehenden Whop-Modal via openWhopModal().
+          Dismissible mit X (sessionStorage-Flag, bis Page-Close).
+          Mobil-optimiert; slide-in-from-bottom Animation.
+        -->
+        <div
+          id="ebook-sticky-buy-bar"
+          role="complementary"
+          aria-label="Jetzt Herzblatt-Methode kaufen"
+          class="fixed left-0 right-0 bottom-0 z-[90] pointer-events-none"
+          style="display: none;"
+        >
+          <div
+            class="pointer-events-auto mx-auto max-w-3xl px-3 pb-3"
+            style="transform: translateY(120%); transition: transform 360ms cubic-bezier(0.22, 1, 0.36, 1);"
+            id="ebook-sticky-buy-bar-inner"
+          >
+            <div
+              class="flex items-center gap-3 rounded-2xl px-4 py-3 shadow-2xl"
+              style="background: linear-gradient(135deg, var(--color-primary-600), var(--color-primary-700)); color: white; border: 1px solid rgba(255,255,255,0.15);"
+            >
+              <div class="hidden sm:flex w-10 h-10 items-center justify-center rounded-xl shrink-0" style="background: rgba(255,255,255,0.15); font-size: 1.25rem;" aria-hidden="true">💗</div>
+              <div class="flex-1 min-w-0">
+                <div class="text-[11px] uppercase tracking-wider font-semibold opacity-80">Herzblatt-Methode</div>
+                <div class="text-sm sm:text-base font-bold leading-tight">
+                  <span class="opacity-60 line-through text-xs mr-1.5">149 €</span>
+                  <span>89,99 €</span>
+                  <span class="hidden sm:inline font-medium opacity-80"> · lebenslanger Zugang</span>
+                </div>
+              </div>
+              <button
+                type="button"
+                id="ebook-sticky-buy-btn"
+                aria-label="Jetzt die Herzblatt-Methode für 89,99 Euro kaufen"
+                class="inline-flex items-center gap-1.5 px-4 sm:px-5 py-2.5 rounded-full text-sm font-bold shrink-0 transition-all hover:-translate-y-px cursor-pointer"
+                style="background: white; color: var(--color-primary-700); border: none;"
+              >
+                Jetzt kaufen
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+              </button>
+              <button
+                type="button"
+                id="ebook-sticky-buy-dismiss"
+                aria-label="Banner schließen"
+                class="shrink-0 flex items-center justify-center rounded-full transition-colors"
+                style="background: rgba(255,255,255,0.12); color: white; width: 32px; height: 32px; border: none; cursor: pointer;"
+              >
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {hasLiveCheckout && (
         <!-- Whop Modal Overlay -->
         <div
           id="whop-modal"
@@ -763,6 +819,107 @@ const faqs = [
     document
       .getElementById('checkout-paysafe-btn')
       ?.addEventListener('click', () => startMicropaymentCheckout('paysafe'));
+
+    // Sticky Buy-Bar — erscheint nach 30% Scroll-Tiefe.
+    // Dismissible per X; Flag in sessionStorage (reset beim Page-Close).
+    // Click auf CTA öffnet existierenden Whop-Modal via openWhopModal().
+    (function setupStickyBuyBar() {
+      const bar = document.getElementById('ebook-sticky-buy-bar');
+      const inner = document.getElementById('ebook-sticky-buy-bar-inner');
+      const btn = document.getElementById('ebook-sticky-buy-btn');
+      const dismissBtn = document.getElementById('ebook-sticky-buy-dismiss');
+      if (!bar || !inner || !btn || !dismissBtn) return;
+
+      const SESSION_KEY = 'ebook-sticky-buy-dismissed';
+      try {
+        if (sessionStorage.getItem(SESSION_KEY) === '1') return;
+      } catch { /* sessionStorage disabled — ignore */ }
+
+      let shown = false;
+      let dismissed = false;
+
+      function show() {
+        if (shown || dismissed) return;
+        shown = true;
+        bar.style.display = 'block';
+        // Next frame, slide in
+        requestAnimationFrame(() => {
+          inner.style.transform = 'translateY(0)';
+        });
+        trackEbookBuyClick('ebook-sticky-buy-bar-shown');
+      }
+
+      function hide() {
+        dismissed = true;
+        inner.style.transform = 'translateY(120%)';
+        window.setTimeout(() => { bar.style.display = 'none'; }, 380);
+        try { sessionStorage.setItem(SESSION_KEY, '1'); } catch { /* noop */ }
+      }
+
+      // IntersectionObserver-basiertes 30%-Scroll-Trigger.
+      // Wir platzieren einen Sentinel bei 30% der scrollbaren Höhe; wird er
+      // sichtbar, triggern wir die Bar. Das ist effizienter als scroll-Listener.
+      function attachSentinel() {
+        const docHeight = Math.max(
+          document.documentElement.scrollHeight,
+          document.body.scrollHeight,
+        );
+        const viewportHeight = window.innerHeight || 0;
+        const trigger = Math.max(0, docHeight * 0.3 - viewportHeight);
+        const sentinel = document.createElement('div');
+        sentinel.id = 'ebook-sticky-sentinel';
+        sentinel.style.cssText = 'position:absolute;top:' + trigger + 'px;left:0;width:1px;height:1px;pointer-events:none;';
+        document.body.appendChild(sentinel);
+        const io = new IntersectionObserver((entries) => {
+          for (const entry of entries) {
+            if (entry.isIntersecting) {
+              show();
+              io.disconnect();
+              sentinel.remove();
+              break;
+            }
+          }
+        });
+        io.observe(sentinel);
+      }
+
+      if ('IntersectionObserver' in window) {
+        // Nach Initial-Render + Images warten (verhindert Trigger direkt bei Load)
+        if (document.readyState === 'complete') {
+          attachSentinel();
+        } else {
+          window.addEventListener('load', attachSentinel, { once: true });
+        }
+      } else {
+        // Fallback: scroll-Listener mit passiven Events
+        let ticking = false;
+        window.addEventListener('scroll', () => {
+          if (ticking || shown) return;
+          ticking = true;
+          requestAnimationFrame(() => {
+            const docHeight = Math.max(
+              document.documentElement.scrollHeight,
+              document.body.scrollHeight,
+            );
+            const scrolled = (window.scrollY + window.innerHeight) / docHeight;
+            if (scrolled >= 0.3) show();
+            ticking = false;
+          });
+        }, { passive: true });
+      }
+
+      btn.addEventListener('click', () => {
+        trackEbookBuyClick('ebook-sticky-buy-bar-click');
+        // Prefer direct modal-opener; fallback: trigger existierenden Card-Button
+        if (typeof openWhopModal === 'function') {
+          openWhopModal();
+        } else {
+          const card = document.getElementById('checkout-card-btn');
+          if (card) card.click();
+        }
+      });
+      dismissBtn.addEventListener('click', hide);
+    })();
 
     // Status-Banner oben auf der Seite, falls Nutzer von Micropayment zurück kommt
     (function showCheckoutStatusBanner() {
