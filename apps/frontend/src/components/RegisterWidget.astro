@@ -31,93 +31,111 @@
       </p>
     </div>
 
-    <form id="register-form" class="space-y-3">
+    <form id="register-form" class="space-y-3" novalidate>
 
       <!-- Gender — compact pill toggle -->
       <div class="grid grid-cols-2 gap-2">
-        <div>
-          <p class="text-[10px] font-semibold uppercase tracking-wider mb-1.5" style="color: var(--text-muted);">Ich bin</p>
-          <div class="gender-toggle flex rounded-lg overflow-hidden" style="border: 1px solid var(--border);">
-            <label class="gender-opt flex-1 text-center py-1.5 text-xs font-medium cursor-pointer transition-all" style="color: var(--text-muted);">
-              <input type="radio" name="gender" value="1" class="hidden" checked />
+        <fieldset>
+          <legend class="text-[10px] font-semibold uppercase tracking-wider mb-1.5" style="color: var(--text-muted);">Ich bin</legend>
+          <div class="gender-toggle flex rounded-lg overflow-hidden" style="border: 1px solid var(--border);" role="radiogroup" aria-label="Ich bin">
+            <label class="gender-opt flex-1 text-center py-1.5 text-xs font-medium cursor-pointer transition-all" style="color: var(--text-muted); min-height: 36px; display: flex; align-items: center; justify-content: center;">
+              <input type="radio" name="gender" value="1" class="rw-visually-hidden" checked />
               <span>Mann</span>
             </label>
-            <label class="gender-opt flex-1 text-center py-1.5 text-xs font-medium cursor-pointer transition-all" style="color: var(--text-muted);">
-              <input type="radio" name="gender" value="2" class="hidden" />
+            <label class="gender-opt flex-1 text-center py-1.5 text-xs font-medium cursor-pointer transition-all" style="color: var(--text-muted); min-height: 36px; display: flex; align-items: center; justify-content: center;">
+              <input type="radio" name="gender" value="2" class="rw-visually-hidden" />
               <span>Frau</span>
             </label>
           </div>
-        </div>
-        <div>
-          <p class="text-[10px] font-semibold uppercase tracking-wider mb-1.5" style="color: var(--text-muted);">Ich suche</p>
-          <div class="gender-toggle flex rounded-lg overflow-hidden" style="border: 1px solid var(--border);">
-            <label class="gender-opt flex-1 text-center py-1.5 text-xs font-medium cursor-pointer transition-all" style="color: var(--text-muted);">
-              <input type="radio" name="seeking" value="2" class="hidden" checked />
+        </fieldset>
+        <fieldset>
+          <legend class="text-[10px] font-semibold uppercase tracking-wider mb-1.5" style="color: var(--text-muted);">Ich suche</legend>
+          <div class="gender-toggle flex rounded-lg overflow-hidden" style="border: 1px solid var(--border);" role="radiogroup" aria-label="Ich suche">
+            <label class="gender-opt flex-1 text-center py-1.5 text-xs font-medium cursor-pointer transition-all" style="color: var(--text-muted); min-height: 36px; display: flex; align-items: center; justify-content: center;">
+              <input type="radio" name="seeking" value="2" class="rw-visually-hidden" checked />
               <span>Frau</span>
             </label>
-            <label class="gender-opt flex-1 text-center py-1.5 text-xs font-medium cursor-pointer transition-all" style="color: var(--text-muted);">
-              <input type="radio" name="seeking" value="1" class="hidden" />
+            <label class="gender-opt flex-1 text-center py-1.5 text-xs font-medium cursor-pointer transition-all" style="color: var(--text-muted); min-height: 36px; display: flex; align-items: center; justify-content: center;">
+              <input type="radio" name="seeking" value="1" class="rw-visually-hidden" />
               <span>Mann</span>
             </label>
           </div>
-        </div>
+        </fieldset>
       </div>
 
       <!-- Fields -->
       <div class="space-y-2.5">
         <div class="relative">
-          <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="var(--text-muted)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="absolute left-3 top-1/2 -translate-y-1/2 opacity-50"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+          <label for="rw-username" class="rw-visually-hidden">Benutzername</label>
+          <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="var(--text-muted)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="absolute left-3 top-1/2 -translate-y-1/2 opacity-50" aria-hidden="true"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
           <input
+            id="rw-username"
             type="text"
             name="username"
             placeholder="Benutzername"
             required
+            aria-required="true"
+            autocomplete="username"
             minlength="3"
-            class="rw-input w-full pl-9 pr-3 py-2.5 rounded-lg text-xs outline-none transition-all"
-            style="background: var(--bg-soft); color: var(--text); border: 1px solid var(--border);"
+            class="rw-input w-full pl-9 pr-3 py-2.5 rounded-lg text-sm outline-none transition-all"
+            style="background: var(--bg-soft); color: var(--text); border: 1px solid var(--border); min-height: 44px;"
           />
         </div>
 
         <div class="relative">
-          <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="var(--text-muted)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="absolute left-3 top-1/2 -translate-y-1/2 opacity-50"><rect width="18" height="18" x="3" y="4" rx="2" ry="2"/><line x1="16" x2="16" y1="2" y2="6"/><line x1="8" x2="8" y1="2" y2="6"/><line x1="3" x2="21" y1="10" y2="10"/></svg>
+          <label for="rw-age" class="rw-visually-hidden">Alter</label>
+          <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="var(--text-muted)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="absolute left-3 top-1/2 -translate-y-1/2 opacity-50" aria-hidden="true"><rect width="18" height="18" x="3" y="4" rx="2" ry="2"/><line x1="16" x2="16" y1="2" y2="6"/><line x1="8" x2="8" y1="2" y2="6"/><line x1="3" x2="21" y1="10" y2="10"/></svg>
           <input
+            id="rw-age"
             type="number"
             name="age"
             placeholder="Alter"
             required
+            aria-required="true"
+            inputmode="numeric"
             min="18"
             max="99"
-            class="rw-input w-full pl-9 pr-3 py-2.5 rounded-lg text-xs outline-none transition-all"
-            style="background: var(--bg-soft); color: var(--text); border: 1px solid var(--border);"
+            class="rw-input w-full pl-9 pr-3 py-2.5 rounded-lg text-sm outline-none transition-all"
+            style="background: var(--bg-soft); color: var(--text); border: 1px solid var(--border); min-height: 44px;"
           />
         </div>
 
         <div class="relative">
-          <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="var(--text-muted)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="absolute left-3 top-1/2 -translate-y-1/2 opacity-50"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+          <label for="rw-email" class="rw-visually-hidden">E-Mail-Adresse</label>
+          <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="var(--text-muted)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="absolute left-3 top-1/2 -translate-y-1/2 opacity-50" aria-hidden="true"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
           <input
+            id="rw-email"
             type="email"
             name="email"
             placeholder="E-Mail-Adresse"
             required
-            class="rw-input w-full pl-9 pr-3 py-2.5 rounded-lg text-xs outline-none transition-all"
-            style="background: var(--bg-soft); color: var(--text); border: 1px solid var(--border);"
+            aria-required="true"
+            autocomplete="email"
+            class="rw-input w-full pl-9 pr-3 py-2.5 rounded-lg text-sm outline-none transition-all"
+            style="background: var(--bg-soft); color: var(--text); border: 1px solid var(--border); min-height: 44px;"
           />
         </div>
 
         <div class="relative">
-          <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="var(--text-muted)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="absolute left-3 top-1/2 -translate-y-1/2 opacity-50"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+          <label for="rw-password" class="rw-visually-hidden">Passwort</label>
+          <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="var(--text-muted)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="absolute left-3 top-1/2 -translate-y-1/2 opacity-50" aria-hidden="true"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
           <input
+            id="rw-password"
             type="password"
             name="password"
-            placeholder="Passwort"
+            placeholder="Passwort (min. 6 Zeichen)"
             required
+            aria-required="true"
+            aria-describedby="rw-pw-hint"
+            autocomplete="new-password"
             minlength="6"
-            class="rw-input w-full pl-9 pr-9 py-2.5 rounded-lg text-xs outline-none transition-all"
-            style="background: var(--bg-soft); color: var(--text); border: 1px solid var(--border);"
+            class="rw-input w-full pl-9 pr-11 py-2.5 rounded-lg text-sm outline-none transition-all"
+            style="background: var(--bg-soft); color: var(--text); border: 1px solid var(--border); min-height: 44px;"
           />
-          <button type="button" onclick="const i=this.parentElement.querySelector('input');i.type=i.type==='password'?'text':'password';this.querySelector('.eye-open').classList.toggle('hidden');this.querySelector('.eye-closed').classList.toggle('hidden');" class="absolute right-3 top-1/2 -translate-y-1/2 opacity-40 hover:opacity-70 transition-opacity">
-            <svg class="eye-open" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="var(--text-muted)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/></svg>
-            <svg class="eye-closed hidden" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="var(--text-muted)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9.88 9.88a3 3 0 1 0 4.24 4.24"/><path d="M10.73 5.08A10.43 10.43 0 0 1 12 5c7 0 10 7 10 7a13.16 13.16 0 0 1-1.67 2.68"/><path d="M6.61 6.61A13.526 13.526 0 0 0 2 12s3 7 10 7a9.74 9.74 0 0 0 5.39-1.61"/><line x1="2" x2="22" y1="2" y2="22"/></svg>
+          <span id="rw-pw-hint" class="rw-visually-hidden">Mindestens 6 Zeichen</span>
+          <button type="button" aria-label="Passwort anzeigen" aria-pressed="false" onclick="const i=this.parentElement.querySelector('input');const showing=i.type==='password';i.type=showing?'text':'password';this.setAttribute('aria-pressed', showing?'true':'false');this.setAttribute('aria-label', showing?'Passwort verbergen':'Passwort anzeigen');this.querySelector('.eye-open').classList.toggle('hidden');this.querySelector('.eye-closed').classList.toggle('hidden');" class="absolute right-2 top-1/2 -translate-y-1/2 opacity-60 hover:opacity-90 transition-opacity rounded-md" style="width: 32px; height: 32px; display: inline-flex; align-items: center; justify-content: center;">
+            <svg class="eye-open" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--text-muted)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/></svg>
+            <svg class="eye-closed hidden" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--text-muted)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.88 9.88a3 3 0 1 0 4.24 4.24"/><path d="M10.73 5.08A10.43 10.43 0 0 1 12 5c7 0 10 7 10 7a13.16 13.16 0 0 1-1.67 2.68"/><path d="M6.61 6.61A13.526 13.526 0 0 0 2 12s3 7 10 7a9.74 9.74 0 0 0 5.39-1.61"/><line x1="2" x2="22" y1="2" y2="22"/></svg>
           </button>
         </div>
       </div>
@@ -126,14 +144,15 @@
       <button
         type="submit"
         id="register-btn"
+        aria-describedby="register-msg"
         class="w-full py-3 rounded-lg text-sm font-bold text-white transition-all hover:shadow-md hover:-translate-y-0.5 active:translate-y-0"
-        style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600));"
+        style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600)); min-height: 44px;"
       >
         Kostenlos registrieren
       </button>
 
       <!-- Error / Success Messages -->
-      <div id="register-msg" class="hidden text-xs text-center py-2 px-3 rounded-lg"></div>
+      <div id="register-msg" class="hidden text-xs text-center py-2 px-3 rounded-lg" role="status" aria-live="polite"></div>
 
       <!-- Checkmarks -->
       <div class="flex items-center justify-center gap-3 text-[10px]" style="color: var(--text-muted);">
@@ -174,17 +193,43 @@
   .gender-toggle .gender-opt:has(input:checked) span {
     color: white;
   }
-  .rw-input:focus {
-    border-color: var(--color-primary-400) !important;
-    box-shadow: 0 0 0 2px color-mix(in srgb, var(--color-primary-400) 20%, transparent);
+  /* Keep radios focusable but visually hidden (for keyboard nav + AT) */
+  .rw-visually-hidden {
+    position: absolute !important;
+    width: 1px; height: 1px;
+    padding: 0; margin: -1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    white-space: nowrap;
+    border: 0;
+  }
+  .gender-toggle .gender-opt:has(input:focus-visible) {
+    outline: 2px solid var(--color-primary-500);
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
+  .rw-input:focus-visible {
+    border-color: var(--color-primary-500) !important;
+    box-shadow: 0 0 0 2px color-mix(in srgb, var(--color-primary-500) 30%, transparent);
+    outline: none;
   }
   .rw-input::placeholder {
     color: var(--text-muted);
-    opacity: 0.5;
+    opacity: 0.6;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    #register-btn:hover { transform: none !important; }
   }
 </style>
 
 <script is:inline>
+function rwShowMsg(msg, text, kind) {
+  msg.className = 'block text-xs text-center py-2 px-3 rounded-lg';
+  msg.style.background = kind === 'error' ? '#fee2e2' : 'var(--color-primary-50)';
+  msg.style.color = kind === 'error' ? '#b91c1c' : 'var(--color-primary-700)';
+  msg.textContent = text;
+}
+
 document.getElementById('register-form')?.addEventListener('submit', async function(e) {
   e.preventDefault();
 
@@ -192,17 +237,41 @@ document.getElementById('register-form')?.addEventListener('submit', async funct
   const msg = document.getElementById('register-msg');
   const form = this;
 
-  btn.disabled = true;
-  btn.textContent = 'Wird registriert...';
-  btn.style.opacity = '0.7';
-  msg.className = 'hidden';
-
   const username = form.username.value.trim();
   const email = form.email.value.trim();
   const password = form.password.value;
   const age = parseInt(form.age.value);
   const gender = form.gender.value;
   const seeking = form.seeking.value;
+
+  // Client-side validation with inline feedback (before disabling button)
+  if (!username || username.length < 3) {
+    rwShowMsg(msg, 'Benutzername zu kurz (min. 3 Zeichen).', 'error');
+    form.username.focus();
+    return;
+  }
+  if (!age || age < 18 || age > 99) {
+    rwShowMsg(msg, 'Bitte gib dein Alter an (18–99).', 'error');
+    form.age.focus();
+    return;
+  }
+  const emailOk = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+  if (!emailOk) {
+    rwShowMsg(msg, 'Bitte gib eine gültige E-Mail ein.', 'error');
+    form.email.focus();
+    return;
+  }
+  if (!password || password.length < 6) {
+    rwShowMsg(msg, 'Passwort zu kurz (min. 6 Zeichen).', 'error');
+    form.password.focus();
+    return;
+  }
+
+  btn.disabled = true;
+  btn.setAttribute('aria-busy', 'true');
+  btn.textContent = 'Wird registriert...';
+  btn.style.opacity = '0.7';
+  msg.className = 'hidden';
 
   const now = new Date();
   const birthYear = now.getFullYear() - age;
@@ -236,28 +305,20 @@ document.getElementById('register-form')?.addEventListener('submit', async funct
     const data = await response.json();
 
     if (response.ok && data) {
-      msg.className = 'block text-xs text-center py-2 px-3 rounded-lg';
-      msg.style.background = 'var(--color-primary-50)';
-      msg.style.color = 'var(--color-primary-700)';
-      msg.textContent = 'Erfolgreich registriert! Weiterleitung...';
+      rwShowMsg(msg, 'Erfolgreich registriert! Weiterleitung...', 'success');
       setTimeout(() => {
         window.open('https://www.dating-tracker.com/cmp/CLQ868/78NZBG/?source_id=herzblatt&sub1=xloves/dashboard', '_blank');
       }, 1500);
     } else {
-      const errorMsg = data?.message || data?.errors ? Object.values(data.errors).flat().join(', ') : 'Registrierung fehlgeschlagen.';
-      msg.className = 'block text-xs text-center py-2 px-3 rounded-lg';
-      msg.style.background = 'var(--color-primary-50)';
-      msg.style.color = '#e11d48';
-      msg.textContent = errorMsg;
+      const errorMsg = data?.message || (data?.errors ? Object.values(data.errors).flat().join(', ') : 'Registrierung fehlgeschlagen.');
+      rwShowMsg(msg, errorMsg, 'error');
     }
   } catch (err) {
-    msg.className = 'block text-xs text-center py-2 px-3 rounded-lg';
-    msg.style.background = 'var(--color-primary-50)';
-    msg.style.color = '#e11d48';
-    msg.textContent = 'Verbindungsfehler. Bitte versuche es erneut.';
+    rwShowMsg(msg, 'Verbindungsfehler. Bitte versuche es erneut.', 'error');
   }
 
   btn.disabled = false;
+  btn.removeAttribute('aria-busy');
   btn.textContent = 'Kostenlos registrieren';
   btn.style.opacity = '1';
 });

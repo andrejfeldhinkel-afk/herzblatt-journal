@@ -17,11 +17,23 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
         <p class="ft-nl-title">Dating-Tipps direkt ins Postfach</p>
         <p class="ft-nl-sub">Wöchentlich die besten Tipps — kostenlos, kein Spam.</p>
       </div>
-      <form class="ft-nl-form" id="ft-newsletter-form">
-        <input type="email" required placeholder="Deine E-Mail-Adresse" class="ft-nl-input" name="email" />
+      <form class="ft-nl-form" id="ft-newsletter-form" novalidate>
+        <label for="ft-nl-email" class="ft-sr-only">E-Mail-Adresse</label>
+        <input
+          id="ft-nl-email"
+          type="email"
+          required
+          aria-required="true"
+          aria-describedby="ft-nl-msg ft-nl-hint"
+          autocomplete="email"
+          placeholder="Deine E-Mail-Adresse"
+          class="ft-nl-input"
+          name="email"
+        />
         <button type="submit" class="ft-nl-btn">Anmelden</button>
       </form>
-      <p id="ft-nl-msg" style="margin: 0.5rem 0 0; font-size: 0.75rem; color: rgba(255,255,255,0.9); min-height: 1em;"></p>
+      <p id="ft-nl-msg" role="status" aria-live="polite" style="margin: 0.5rem 0 0; font-size: 0.75rem; color: rgba(255,255,255,0.95); min-height: 1em;"></p>
+      <p id="ft-nl-hint" style="margin: 0.25rem 0 0; font-size: 0.7rem; color: rgba(255,255,255,0.7);">Double-Opt-In · Abmeldung jederzeit möglich</p>
     </div>
   </div>
 
@@ -170,30 +182,49 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
   .ft-nl-input {
     padding: 0.6rem 1rem;
     border-radius: 0.6rem;
-    border: 1px solid rgba(255,255,255,0.2);
-    background: rgba(255,255,255,0.12);
+    border: 1px solid rgba(255,255,255,0.25);
+    background: rgba(255,255,255,0.14);
     color: white;
-    font-size: 0.82rem;
+    font-size: 0.9rem;
     width: 240px;
+    min-height: 44px;
     outline: none;
     backdrop-filter: blur(8px);
-    transition: border-color 0.2s;
+    transition: border-color 0.2s, box-shadow 0.2s;
   }
-  .ft-nl-input:focus { border-color: rgba(255,255,255,0.5); }
-  .ft-nl-input::placeholder { color: rgba(255,255,255,0.45); }
+  .ft-nl-input:focus-visible {
+    border-color: #fff;
+    box-shadow: 0 0 0 2px rgba(255,255,255,0.6);
+  }
+  .ft-nl-input::placeholder { color: rgba(255,255,255,0.6); }
   .ft-nl-btn {
     padding: 0.6rem 1.4rem;
     border-radius: 0.6rem;
     background: white;
     color: #be123c;
-    font-size: 0.82rem;
+    font-size: 0.9rem;
     font-weight: 700;
     border: none;
     cursor: pointer;
+    min-height: 44px;
     transition: transform 0.15s, box-shadow 0.15s;
     white-space: nowrap;
   }
   .ft-nl-btn:hover { transform: translateY(-1px); box-shadow: 0 4px 16px rgba(0,0,0,0.15); }
+  .ft-nl-btn:focus-visible {
+    outline: 2px solid #fff;
+    outline-offset: 2px;
+  }
+  .ft-sr-only {
+    position: absolute;
+    width: 1px; height: 1px;
+    padding: 0; margin: -1px;
+    overflow: hidden; clip: rect(0,0,0,0);
+    white-space: nowrap; border: 0;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .ft-nl-btn:hover { transform: none; }
+  }
 
   @media (max-width: 640px) {
     .ft-nl-inner { flex-direction: column; align-items: stretch; gap: 1rem; }
@@ -339,11 +370,15 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 36px;
-    height: 36px;
-    border-radius: 8px;
+    width: 44px;
+    height: 44px;
+    border-radius: 10px;
     color: var(--ft-muted);
     transition: color 0.15s, background 0.15s;
+  }
+  .ft-social-link:focus-visible {
+    outline: 2px solid var(--ft-hover);
+    outline-offset: 2px;
   }
   .ft-social-link:hover {
     color: var(--ft-hover);
@@ -354,9 +389,9 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
     background: rgba(255,255,255,0.06);
   }
   .ft-top-btn {
-    width: 36px;
-    height: 36px;
-    border-radius: 8px;
+    width: 44px;
+    height: 44px;
+    border-radius: 10px;
     border: 1px solid var(--ft-border);
     background: transparent;
     color: var(--ft-muted);
@@ -366,6 +401,13 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
     justify-content: center;
     transition: all 0.15s;
     flex-shrink: 0;
+  }
+  .ft-top-btn:focus-visible {
+    outline: 2px solid var(--ft-hover);
+    outline-offset: 2px;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .ft-top-btn:hover { transform: none; }
   }
   .ft-top-btn:hover {
     color: var(--ft-text);
