@@ -1,0 +1,173 @@
+---
+/**
+ * ContentDepthBox — renders at the end of every blog post a set of
+ * "Weitere Themen" suggestions grouped by category (Dating-Apps,
+ * Beziehungsratgeber, Erstes Date, Sicherheit). Different from Related-
+ * Articles: this is topic-cluster-based, not similarity-based.
+ *
+ * Rendert 4 Themen-Gruppen mit je 3 verlinkten Artikeln. Stärkt
+ * Topical-Authority via dichte interne Verlinkung zu thematisch
+ * zusammengehörigen Inhalten.
+ */
+import { getCollection } from 'astro:content';
+
+interface Props {
+  currentSlug: string;
+  currentTags?: string[];
+}
+
+const { currentSlug, currentTags = [] } = Astro.props;
+
+const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+
+// Topic-Cluster-Definition: je Keyword → welche Posts gehören dazu
+const CLUSTERS: Array<{
+  title: string;
+  emoji: string;
+  matchers: Array<string | RegExp>;
+}> = [
+  {
+    title: 'Dating-Apps',
+    emoji: '📱',
+    matchers: ['dating-app', 'tinder', 'bumble', 'hinge', 'parship', 'elitepartner', /swipe/],
+  },
+  {
+    title: 'Beziehungsratgeber',
+    emoji: '💕',
+    matchers: ['beziehung', 'ehe', 'partner', 'liebe', 'heiraten', /kommunikation/, /konflikt/],
+  },
+  {
+    title: 'Erstes Date',
+    emoji: '🍷',
+    matchers: ['erstes-date', 'erste-date', 'flirt', 'smalltalk', 'kennenlernen', /date-ideen?/],
+  },
+  {
+    title: 'Sicherheit & Scam',
+    emoji: '🛡️',
+    matchers: ['scam', 'fake-profil', 'ghosting', 'catfish', 'sicherheit', /red-flag/, /betrug/],
+  },
+];
+
+function matchesCluster(slug: string, matchers: Array<string | RegExp>): boolean {
+  return matchers.some(m =>
+    typeof m === 'string' ? slug.includes(m) : m.test(slug)
+  );
+}
+
+// Für jeden Cluster: 3 beste Posts (nicht current, nicht draft, sortiert nach Datum)
+const clusterGroups = CLUSTERS.map(cluster => {
+  const items = allPosts
+    .filter((p: any) => {
+      const slug = p.slug || p.id?.replace(/\.md$/, '') || '';
+      return slug !== currentSlug && matchesCluster(slug, cluster.matchers);
+    })
+    .sort((a: any, b: any) => (b.data.date?.valueOf?.() || 0) - (a.data.date?.valueOf?.() || 0))
+    .slice(0, 3)
+    .map((p: any) => ({
+      slug: p.slug || p.id?.replace(/\.md$/, ''),
+      title: p.data.title,
+    }));
+  return { ...cluster, items };
+}).filter(g => g.items.length >= 2);
+
+const show = clusterGroups.length >= 2;
+---
+
+{show && (
+  <aside class="depth-box" aria-labelledby="depth-headline">
+    <h2 id="depth-headline" class="depth-title">Weitere Themen</h2>
+    <p class="depth-sub">Vertiefe dein Wissen — hier findest du Artikel aus passenden Themen-Clustern.</p>
+    <div class="depth-grid">
+      {clusterGroups.map((g) => (
+        <div class="depth-cluster">
+          <div class="dc-head">
+            <span class="dc-emoji" aria-hidden="true">{g.emoji}</span>
+            <span class="dc-title">{g.title}</span>
+          </div>
+          <ul class="dc-list">
+            {g.items.map((item: any) => (
+              <li>
+                <a href={`/blog/${item.slug}`}>{item.title}</a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </div>
+  </aside>
+)}
+
+<style>
+  .depth-box {
+    margin: 3rem auto 2rem auto;
+    padding: 2rem 1.5rem;
+    max-width: 1200px;
+    background: linear-gradient(135deg, var(--bg-soft, #fafafa) 0%, var(--bg-card, #fff) 100%);
+    border: 1px solid var(--border, #e5e5e7);
+    border-radius: 16px;
+  }
+  .depth-title {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 1.3rem;
+    font-weight: 700;
+    letter-spacing: -0.015em;
+    margin: 0 0 0.35rem 0;
+    color: var(--text, #111);
+  }
+  .depth-sub {
+    font-size: 0.88rem;
+    color: var(--text-muted, #6b6b6b);
+    margin: 0 0 1.25rem 0;
+  }
+  .depth-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1rem;
+  }
+  .depth-cluster {
+    background: var(--bg-card, #fff);
+    border: 1px solid var(--border, #e5e5e7);
+    border-radius: 10px;
+    padding: 0.85rem 1rem;
+  }
+  .dc-head {
+    display: flex; align-items: center; gap: 0.5rem;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border, #e5e5e7);
+  }
+  .dc-emoji { font-size: 1.1rem; }
+  .dc-title {
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--color-primary-700, #be123c);
+  }
+  .dc-list {
+    list-style: none; padding: 0; margin: 0;
+    display: flex; flex-direction: column;
+    gap: 0.4rem;
+  }
+  .dc-list li { font-size: 0.88rem; line-height: 1.35; }
+  .dc-list a {
+    color: var(--text, #333);
+    text-decoration: none;
+    display: inline-block;
+    padding: 2px 0;
+    position: relative;
+    padding-left: 1rem;
+    transition: color 0.15s;
+  }
+  .dc-list a::before {
+    content: '→';
+    position: absolute; left: 0; top: 2px;
+    color: var(--color-primary-500, #f43f5e);
+    font-weight: 600;
+    transition: transform 0.15s;
+  }
+  .dc-list a:hover {
+    color: var(--color-primary-600, #e11d48);
+  }
+  .dc-list a:hover::before { transform: translateX(2px); }
+</style>
