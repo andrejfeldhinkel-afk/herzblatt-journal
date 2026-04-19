@@ -1,0 +1,285 @@
+---
+/**
+ * BrandAlternativeBanner — Sticky Alternative-CTA am unteren Rand des
+ * Viewports auf allen test-erfahrungen-Artikeln.
+ *
+ * Strategie: User liest gerade einen Parship-Test? Zeige "Parship kostet
+ * 70 €/Monat — probier MichVerlieben für 9,99 €". Direkte Conversion
+ * zu eigenen Brands bei maximal relevantem Moment.
+ *
+ * Dismissable (speichert Choice in localStorage). Nicht auf eigenen Brand-
+ * Seiten (xLoves/MichVerlieben-Test-Artikel) anzeigen — da wäre es absurd.
+ */
+interface Props {
+  brandKey: string;          // slug-prefix, z.B. "parship" oder "bumble"
+  brandName: string;         // Display-Name, z.B. "Parship"
+}
+
+const { brandKey, brandName } = Astro.props;
+
+// Eigene Brands: Banner nicht anzeigen (User liest schon über unsere Marke)
+const OWN_BRANDS = new Set([
+  'xloves', 'michverlieben', 'whatsmeet', 'onlydates69',
+  'singlescout', 'i-loves', 'sex69', 'single69',
+]);
+const isOwnBrand = OWN_BRANDS.has(brandKey);
+
+// Alternative-Matching: welche eigene Brand empfehlen wir als Alternative
+// basierend auf der gelesenen Wettbewerber-Brand
+const ALTERNATIVE_MAP: Record<string, {
+  brand: string; slug: string; reason: string; priceCompare?: string;
+}> = {
+  // Premium-Partnervermittlungen → MichVerlieben (seriös, DACH)
+  'parship':      { brand: 'MichVerlieben', slug: 'michverlieben', reason: 'Genauso seriös wie Parship — zu 1/10 der Kosten.', priceCompare: '70 €/Mo → 9,99 €/Mo' },
+  'elitepartner': { brand: 'MichVerlieben', slug: 'michverlieben', reason: 'Akademiker-freundlich, deutlich günstiger als ElitePartner.', priceCompare: '80 €/Mo → 9,99 €/Mo' },
+  'elitesingles': { brand: 'xLoves',        slug: 'xloves',        reason: 'Anspruchsvolles Dating ohne 70 €/Monat-Preis.', priceCompare: '~70 €/Mo → 9,99 €/Mo' },
+  'lemonswan':    { brand: 'xLoves',        slug: 'xloves',        reason: 'Seriöse Partnersuche, auch für Alleinerziehende offen.', priceCompare: '50 €/Mo → 9,99 €/Mo' },
+  'gleichklang':  { brand: 'xLoves',        slug: 'xloves',        reason: 'Werte-basiertes Matching, ohne 200-Fragen-Test.' },
+  'neu-de':       { brand: 'MichVerlieben', slug: 'michverlieben', reason: 'Deutlich modernere Alternative zu Neu.de.' },
+  'lovescout24':  { brand: 'SingleScout',   slug: 'singlescout',   reason: 'Name-Echo-Alternative mit modernem Interface.' },
+  // Tinder/Bumble/Hinge → WhatsMeet oder MichVerlieben
+  'tinder':       { brand: 'WhatsMeet',     slug: 'whatsmeet',     reason: 'Verifizierte Profile statt Tinder-Bot-Chaos.' },
+  'bumble':       { brand: 'MichVerlieben', slug: 'michverlieben', reason: 'Frauenfreundlich mit besserer DACH-User-Base.' },
+  'hinge':        { brand: 'MichVerlieben', slug: 'michverlieben', reason: 'Beziehungs-fokussiert mit deutschem Support.' },
+  'badoo':        { brand: 'WhatsMeet',     slug: 'whatsmeet',     reason: 'Weniger Fake-Profile, bessere Moderation.' },
+  'lovoo':        { brand: 'xLoves',        slug: 'xloves',        reason: 'Seriöser als Lovoo, klarere Intentionen.' },
+  'jaumo':        { brand: 'WhatsMeet',     slug: 'whatsmeet',     reason: 'Verifiziert, weniger Bots.' },
+  'hily':         { brand: 'MichVerlieben', slug: 'michverlieben', reason: 'Ähnliche AI-Verifikation, DACH-first statt USA-first.' },
+  'feeld':        { brand: 'xLoves',        slug: 'xloves',        reason: 'Mehr DACH-User als Feeld (Feeld ist urban-konzentriert).' },
+  'boo':          { brand: 'xLoves',        slug: 'xloves',        reason: 'Tiefe Profile ohne MBTI-Pseudo-Science.' },
+  'fruitz':       { brand: 'MichVerlieben', slug: 'michverlieben', reason: 'Klare Intent ohne Frucht-Gimmick.' },
+  'coffee-meets-bagel': { brand: 'MichVerlieben', slug: 'michverlieben', reason: 'Kuratierte Matches mit starker DACH-Basis.' },
+  // Casual → onlydates69 / sex69
+  'c-date':       { brand: 'OnlyDates69',   slug: 'onlydates69',   reason: 'Diskretes Casual-Dating ohne C-Date-Kostenfalle.' },
+  'finya':        { brand: 'xLoves',        slug: 'xloves',        reason: 'Kostenlose Nutzung + weniger Fake-Profile als Finya.' },
+  'lablue':       { brand: 'xLoves',        slug: 'xloves',        reason: 'Gratis-Einstieg, aber moderiert — nicht Lablue-Chaos.' },
+  '50plus-treff': { brand: 'xLoves',        slug: 'xloves',        reason: 'Ü50-Community auch bei xLoves stark vertreten, modernes UI.' },
+  // Religion / Nische
+  'christian-mingle': { brand: 'xLoves',    slug: 'xloves',        reason: 'Werte-basiertes Matching auch für gläubige Singles.' },
+  'jdate':        { brand: 'xLoves',        slug: 'xloves',        reason: 'Diversität inkl. jüdischer Singles in DACH.' },
+  'muzz':         { brand: 'xLoves',        slug: 'xloves',        reason: 'Respektvolle Community ohne Muzz-Chaperone.' },
+  'pure':         { brand: 'OnlyDates69',   slug: 'onlydates69',   reason: 'Diskretes Dating mit besserer User-Base in DACH.' },
+  'grindr':       { brand: 'xLoves',        slug: 'xloves',        reason: 'LGBTQ+-friendly ohne Grindr-Kultur-Druck.' },
+  'her':          { brand: 'xLoves',        slug: 'xloves',        reason: 'Größere queere DACH-Community als HER.' },
+  'taimi':        { brand: 'xLoves',        slug: 'xloves',        reason: 'LGBTQ+-inklusiv ohne Taimi-Social-Overload.' },
+  'raya':         { brand: 'xLoves',        slug: 'xloves',        reason: 'Anspruchsvoll, aber ohne künstliche Warteliste.' },
+};
+
+const alt = ALTERNATIVE_MAP[brandKey];
+
+// Wenn keine Alternative gemappt → zeige generischen Banner zu /top-dating-seiten
+const showBanner = !isOwnBrand && !!alt;
+---
+
+{showBanner && (
+  <div
+    id="brand-alt-banner"
+    class="bab"
+    role="complementary"
+    aria-label={`${brandName}-Alternative: ${alt.brand}`}
+    data-brand={brandKey}
+  >
+    <div class="bab-inner">
+      <div class="bab-icon" aria-hidden="true">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/>
+        </svg>
+      </div>
+      <div class="bab-copy">
+        <div class="bab-title">
+          {brandName} {alt.priceCompare && <span class="bab-price-old">· {alt.priceCompare.split(' → ')[0]}</span>}
+          <span class="bab-arrow">→</span>
+          <strong>{alt.brand}</strong>
+          {alt.priceCompare && <span class="bab-price-new">{alt.priceCompare.split(' → ')[1]}</span>}
+        </div>
+        <p class="bab-reason">{alt.reason}</p>
+      </div>
+      <a href={`/blog/${alt.slug}-test-erfahrungen`} class="bab-cta">
+        {alt.brand} ansehen
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+      </a>
+      <button type="button" class="bab-close" aria-label="Banner schließen" data-brand={brandKey}>
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+    </div>
+  </div>
+)}
+
+{showBanner && (
+  <script is:inline>
+    (function() {
+      const banner = document.getElementById('brand-alt-banner');
+      if (!banner) return;
+      const brand = banner.dataset.brand;
+      const key = 'hz-bab-dismissed-' + brand;
+
+      // Check dismissal state from localStorage (24h expiry)
+      try {
+        const stored = localStorage.getItem(key);
+        if (stored) {
+          const ts = parseInt(stored, 10);
+          if (!isNaN(ts) && Date.now() - ts < 24 * 3600 * 1000) {
+            banner.style.display = 'none';
+            return;
+          }
+        }
+      } catch {}
+
+      // Zeigen nach 2 Sek scrollen (User ist engaged)
+      let shown = false;
+      function show() {
+        if (shown) return;
+        shown = true;
+        banner.classList.add('visible');
+      }
+      setTimeout(() => {
+        if (window.scrollY > 300) show();
+      }, 2000);
+      window.addEventListener('scroll', () => {
+        if (window.scrollY > 500) show();
+      }, { passive: true });
+
+      // Close-Button
+      banner.querySelector('.bab-close')?.addEventListener('click', () => {
+        banner.classList.remove('visible');
+        banner.style.pointerEvents = 'none';
+        try { localStorage.setItem(key, String(Date.now())); } catch {}
+        setTimeout(() => banner.style.display = 'none', 400);
+      });
+
+      // Track click (Plausible-Event falls geladen)
+      banner.querySelector('.bab-cta')?.addEventListener('click', () => {
+        if (typeof window.plausible === 'function') {
+          window.plausible('BrandAltBanner-Click', { props: { from: brand } });
+        }
+      });
+    })();
+  </script>
+)}
+
+<style>
+  .bab {
+    position: fixed;
+    bottom: 16px;
+    left: 50%;
+    transform: translate(-50%, calc(100% + 24px));
+    z-index: 60;
+    width: min(720px, calc(100vw - 24px));
+    background: var(--bg-card, #fff);
+    border: 1px solid var(--border, #e5e5e7);
+    border-radius: 14px;
+    box-shadow: 0 12px 40px -8px rgba(244,63,94,0.25), 0 4px 12px -2px rgba(0,0,0,0.1);
+    overflow: hidden;
+    opacity: 0;
+    transition: transform 0.45s cubic-bezier(.2,.8,.4,1), opacity 0.3s ease;
+    pointer-events: none;
+  }
+  .bab.visible {
+    transform: translate(-50%, 0);
+    opacity: 1;
+    pointer-events: auto;
+  }
+  .bab::before {
+    content: ''; position: absolute; top: 0; left: 0; right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--color-primary-500, #f43f5e), #fb923c, #fbbf24);
+  }
+  .bab-inner {
+    display: grid;
+    grid-template-columns: auto 1fr auto auto;
+    align-items: center;
+    gap: 0.9rem;
+    padding: 0.9rem 1.1rem;
+  }
+  .bab-icon {
+    display: flex; align-items: center; justify-content: center;
+    width: 36px; height: 36px;
+    border-radius: 10px;
+    background: linear-gradient(135deg, var(--color-primary-500, #f43f5e), var(--color-primary-700, #be123c));
+    color: #fff;
+    flex-shrink: 0;
+  }
+  .bab-copy { min-width: 0; }
+  .bab-title {
+    display: flex; flex-wrap: wrap; align-items: baseline;
+    gap: 0.3rem 0.45rem;
+    font-size: 0.92rem;
+    font-weight: 600;
+    color: var(--text-muted, #6b6b6b);
+    line-height: 1.3;
+    margin-bottom: 0.15rem;
+  }
+  .bab-title strong {
+    color: var(--color-primary-700, #be123c);
+    font-weight: 700;
+  }
+  .bab-arrow {
+    color: var(--color-primary-500, #f43f5e);
+    font-weight: 700;
+  }
+  .bab-price-old {
+    font-variant-numeric: tabular-nums;
+    text-decoration: line-through;
+    opacity: 0.7;
+    font-size: 0.85rem;
+  }
+  .bab-price-new {
+    font-variant-numeric: tabular-nums;
+    font-weight: 700;
+    color: #16a34a;
+    font-size: 0.85rem;
+    background: rgba(22,163,74,0.1);
+    padding: 1px 8px;
+    border-radius: 6px;
+  }
+  .bab-reason {
+    margin: 0;
+    font-size: 0.85rem;
+    color: var(--text, #333);
+    line-height: 1.4;
+  }
+  .bab-cta {
+    display: inline-flex; align-items: center; gap: 0.35rem;
+    padding: 0.55rem 1rem;
+    background: var(--color-primary-500, #f43f5e);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+    white-space: nowrap;
+    flex-shrink: 0;
+    transition: all 0.15s;
+    box-shadow: 0 2px 8px rgba(244,63,94,0.3);
+  }
+  .bab-cta:hover {
+    background: var(--color-primary-600, #e11d48);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 14px rgba(244,63,94,0.4);
+  }
+  .bab-close {
+    background: transparent;
+    border: 0;
+    color: var(--text-muted, #6b6b6b);
+    cursor: pointer;
+    padding: 0.4rem;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: color 0.15s, background 0.15s;
+  }
+  .bab-close:hover {
+    color: var(--text, #111);
+    background: rgba(0,0,0,0.04);
+  }
+  @media (max-width: 640px) {
+    .bab { bottom: 8px; border-radius: 12px; }
+    .bab-inner { grid-template-columns: auto 1fr auto; padding: 0.7rem 0.85rem; gap: 0.6rem; }
+    .bab-cta { grid-column: 1 / -1; justify-content: center; }
+    .bab-close { position: absolute; top: 0.4rem; right: 0.4rem; }
+    .bab-title { font-size: 0.85rem; }
+    .bab-reason { font-size: 0.78rem; }
+  }
+</style>
