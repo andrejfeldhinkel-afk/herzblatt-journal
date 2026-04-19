@@ -99,8 +99,10 @@ const sourcesJson = JSON.stringify(SOURCE_LABELS);
     </table>
   </div>
 
-  <!-- Empty-State Hint -->
-  <div id="empty-hint" class="hz-card" style="display: none; padding: 2.5rem; text-align: center;">
+  <!-- Empty-State Hint — hidden by default, wird nur bei allProducts.length===0 gezeigt.
+       Doppelter Hide-Guard: hidden-Attribut + inline display:none, damit kein Layout-Glitch
+       beim initialen Render auftritt (war früher kurz parallel zur gefüllten Tabelle sichtbar). -->
+  <div id="empty-hint" class="hz-card" hidden style="display: none; padding: 2.5rem; text-align: center;">
     <div style="font-size: 2.5rem; margin-bottom: 1rem;">🛍</div>
     <h3 style="margin-bottom: 0.5rem;">Noch keine Produkte angelegt</h3>
     <p style="color: var(--hz-text-muted); margin-bottom: 1.5rem; max-width: 500px; margin-left: auto; margin-right: auto;">
@@ -322,13 +324,20 @@ const sourcesJson = JSON.stringify(SOURCE_LABELS);
 
       $('list-count').textContent = filtered.length + ' von ' + allProducts.length + ' angezeigt';
 
+      // Defensiver Empty-State-Toggle: setzt BEIDE Mechanismen (hidden-attr + display),
+      // damit wir keine Layout-Glitches mehr kriegen (früher war empty-hint parallel
+      // zur gefüllten Tabelle sichtbar).
+      const emptyHint = $('empty-hint');
+      const productsTable = $('products-table');
       if (allProducts.length === 0) {
-        $('products-table').style.display = 'none';
-        $('empty-hint').style.display = 'block';
+        productsTable.style.display = 'none';
+        emptyHint.hidden = false;
+        emptyHint.style.display = 'block';
         return;
       }
-      $('products-table').style.display = '';
-      $('empty-hint').style.display = 'none';
+      productsTable.style.display = '';
+      emptyHint.hidden = true;
+      emptyHint.style.display = 'none';
 
       if (filtered.length === 0) {
         $('products-tbody').innerHTML = '<tr><td colspan="10" style="padding: 2rem; color: var(--hz-text-muted); text-align: center;">Keine Treffer für diesen Filter</td></tr>';

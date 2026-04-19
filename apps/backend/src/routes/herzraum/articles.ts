@@ -362,8 +362,161 @@ async function ghUpdateFile(
 }
 
 /**
+ * Parst YAML-Frontmatter in ein strukturiertes Objekt.
+ *
+ * Unterstützt alle Formate, die in den 1849 Artikeln real vorkommen:
+ *   - Scalars: `key: value` und `key: "value"`
+ *   - Booleans: `key: true` / `false`
+ *   - Dates:  `date: 2026-04-01` (auch mit Timezone)
+ *   - Inline JSON-Arrays: `keywords: ["a", "b", "c"]`  ← Bug-Trigger aus Audit!
+ *   - Block-Arrays:
+ *       tags:
+ *         - "Dating"
+ *         - "Kommunikation"
+ *   - FAQ (Array of Objects):
+ *       faq:
+ *         - question: "…"
+ *           answer: "…"
+ *
+ * Ziel: CLIENT muss nicht mehr selbst YAML parsen — alle Artikel, auch die
+ * mit Inline-Array-Keywords, landen hier als korrekt typisierte Arrays/Objekte.
+ */
+function parseFrontmatterServer(raw: string): Record<string, unknown> {
+  const fm: Record<string, unknown> = {};
+  const lines = raw.split('\n');
+
+  const unquote = (s: string): string =>
+    String(s).replace(/^"|"$/g, '').replace(/\\"/g, '"').replace(/\\\\/g, '\\');
+
+  const tryParseInlineArray = (v: string): string[] | null => {
+    // Erkennt `["a", "b"]` oder `['a', 'b']` — JSON-compatible nach Normalisierung
+    const trimmed = v.trim();
+    if (!trimmed.startsWith('[') || !trimmed.endsWith(']')) return null;
+    try {
+      // Einfach-Quotes zu Doppel-Quotes normalisieren (YAML erlaubt beides,
+      // JSON nicht). Wir machen das nur außerhalb bestehender Doppel-Quotes.
+      const normalized = trimmed.replace(/'([^']*)'/g, '"$1"');
+      const parsed = JSON.parse(normalized);
+      if (Array.isArray(parsed)) return parsed.map((x) => String(x));
+    } catch {
+      // Fallback: manuelles Splitten
+      const inner = trimmed.slice(1, -1);
+      const items = inner.split(',').map((s) => s.trim()).filter(Boolean);
+      return items.map((s) => unquote(s.replace(/^'|'$/g, '"')));
+    }
+    return null;
+  };
+
+  const castScalar = (v: string): unknown => {
+    if (v === 'true') return true;
+    if (v === 'false') return false;
+    if (/^\d{4}-\d{2}-\d{2}/.test(v)) return v.slice(0, 10);
+    if (v.startsWith('"')) return unquote(v);
+    if (v.startsWith("'")) return v.replace(/^'|'$/g, '');
+    return v;
+  };
+
+  let i = 0;
+  while (i < lines.length) {
+    const line = lines[i];
+    const keyMatch = line.match(/^([a-zA-Z_][a-zA-Z0-9_]*):\s*(.*)$/);
+    if (!keyMatch) {
+      i++;
+      continue;
+    }
+    const key = keyMatch[1];
+    const value = keyMatch[2].trim();
+
+    // Inline-JSON-Array — der Bug-Trigger!
+    if (value.startsWith('[') && value.endsWith(']')) {
+      const arr = tryParseInlineArray(value);
+      fm[key] = arr || value;
+      i++;
+      continue;
+    }
+
+    // Key ohne Wert → Block-Array oder Block-Object folgen
+    if (value === '') {
+      // Lookahead: ist es ein FAQ-Block (Objekte mit `- question:` / `answer:`)?
+      // Oder ein Block-Array (einfache `- foo`-Zeilen)?
+      const faqItems: Array<{ question: string; answer: string }> = [];
+      const simpleItems: string[] = [];
+      let j = i + 1;
+      let currentObj: { question?: string; answer?: string } | null = null;
+
+      while (j < lines.length) {
+        const next = lines[j];
+        // Ende, wenn neue Top-Level-Key
+        if (/^[a-zA-Z_]/.test(next)) break;
+
+        const objStart = next.match(/^\s{2}-\s+question:\s*(.*)$/);
+        const objAnswer = next.match(/^\s{4}answer:\s*(.*)$/);
+        const simpleItem = next.match(/^\s*-\s+(.*)$/);
+
+        if (objStart) {
+          if (currentObj && currentObj.question) {
+            faqItems.push({
+              question: currentObj.question,
+              answer: currentObj.answer || '',
+            });
+          }
+          currentObj = { question: unquote(objStart[1]), answer: '' };
+          j++;
+          continue;
+        }
+        if (objAnswer && currentObj) {
+          currentObj.answer = unquote(objAnswer[1]);
+          j++;
+          continue;
+        }
+        if (simpleItem && !currentObj) {
+          const item = simpleItem[1].trim();
+          simpleItems.push(item.startsWith('"') ? unquote(item) : item);
+          j++;
+          continue;
+        }
+        // Leere Zeile oder unbekanntes Format — skip
+        if (next.trim() === '') {
+          j++;
+          continue;
+        }
+        break;
+      }
+
+      if (currentObj && currentObj.question) {
+        faqItems.push({
+          question: currentObj.question,
+          answer: currentObj.answer || '',
+        });
+      }
+
+      if (faqItems.length > 0) {
+        fm[key] = faqItems;
+      } else if (simpleItems.length > 0) {
+        fm[key] = simpleItems;
+      } else {
+        fm[key] = [];
+      }
+      i = j;
+      continue;
+    }
+
+    // Einfacher Scalar
+    fm[key] = castScalar(value);
+    i++;
+  }
+
+  return fm;
+}
+
+/**
  * GET /herzraum/articles/:slug
  * Liefert raw Markdown + geparstes Frontmatter für Edit-UI.
+ *
+ * Response:
+ *   - `frontmatter`: SERVER-SEITIG geparstes Objekt (primär für UI)
+ *   - `frontmatterRaw`: Raw-YAML (für Backward-Compat und Debugging)
+ *   - `body`: Raw-Markdown (getrimmt)
  */
 app.get('/:slug', async (c) => {
   const slug = (c.req.param('slug') || '').trim().toLowerCase();
@@ -381,12 +534,26 @@ app.get('/:slug', async (c) => {
   if (!m) {
     return c.json({ ok: false, error: 'no-frontmatter', raw: file.content }, 422);
   }
+
+  const frontmatterRaw = m[1];
+  const body = m[2].trim();
+
+  // Server-side parse — verhindert Client-Crash bei Inline-Array-Keywords
+  let frontmatter: Record<string, unknown> = {};
+  try {
+    frontmatter = parseFrontmatterServer(frontmatterRaw);
+  } catch (err) {
+    console.error('[articles] frontmatter parse failed for', slug, err);
+    // Nicht fatal — Client kann auf frontmatterRaw zurückfallen
+  }
+
   return c.json({
     ok: true,
     slug,
     sha: file.sha,
-    frontmatterRaw: m[1],
-    body: m[2].trim(),
+    frontmatter,
+    frontmatterRaw,
+    body,
     raw: file.content,
   });
 });

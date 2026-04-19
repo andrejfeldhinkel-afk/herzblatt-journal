@@ -4,10 +4,12 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
+    "prebuild": "node scripts/generate-images-index.mjs",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "start": "HOST=0.0.0.0 node dist/server/entry.mjs"
+    "start": "HOST=0.0.0.0 node dist/server/entry.mjs",
+    "generate-images-index": "node scripts/generate-images-index.mjs"
   },
   "dependencies": {
     "@astrojs/node": "^9.5.5",
