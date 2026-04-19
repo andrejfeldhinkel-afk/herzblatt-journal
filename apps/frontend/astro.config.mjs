@@ -307,16 +307,37 @@ export default defineConfig({
     '/blog/dating-red-flags-erkennen-liste': { status: 301, destination: '/blog/dating-red-flags-komplett-guide' },
   },
   compressHTML: true,
+  prefetch: {
+    // Fetch visible <a> links automatically in idle time — speeds up subsequent
+    // navigations massively on category-heavy pages (top-dating-seiten, blog).
+    prefetchAll: false,
+    defaultStrategy: 'hover',
+  },
   build: {
     inlineStylesheets: 'auto',
+    assets: '_astro',
   },
   vite: {
     plugins: [tailwindcss()],
     build: {
-      cssMinify: true,
+      cssMinify: 'lightningcss',
+      // Lift asset-inline-limit so small SVG/WebP logos become data-URIs
+      // (saves additional HTTP round-trips for <1kb assets).
+      assetsInlineLimit: 2048,
+      // Vendor splitting — separates rarely-changing deps from app code
+      // so long-term caching hits for returning visitors.
       rollupOptions: {
         output: {
-          manualChunks: undefined,
+          manualChunks(id) {
+            if (id.includes('node_modules')) {
+              // Keep astro core in its own chunk (loaded on most pages)
+              if (id.includes('astro/dist/runtime') || id.includes('astro/dist/core')) {
+                return 'astro-runtime';
+              }
+              // Tailwind 4 runtime (small) bundled with main
+              return 'vendor';
+            }
+          },
         },
       },
     },

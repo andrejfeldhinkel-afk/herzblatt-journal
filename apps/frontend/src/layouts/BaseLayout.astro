@@ -247,11 +247,16 @@ const faqSchema = faq.length > 0 ? {
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="Herzblatt Journal RSS Feed" href="/rss.xml" />
 
-  <!-- DNS-Prefetch / Preconnect für externe Assets (Analytics + Avatar-API) -->
+  <!-- DNS-Prefetch / Preconnect für externe Assets (Analytics + Avatar-API + Payments) -->
   <link rel="preconnect" href="https://plausible.io" crossorigin />
   <link rel="dns-prefetch" href="https://plausible.io" />
-  <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+  <link rel="preconnect" href="https://api.dicebear.com" crossorigin />
   <link rel="dns-prefetch" href="https://api.dicebear.com" />
+  <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+  <link rel="dns-prefetch" href="https://www.google-analytics.com" />
+  <link rel="dns-prefetch" href="https://js.whop.com" />
+  <link rel="dns-prefetch" href="https://mc.micropayment.de" />
+  <link rel="dns-prefetch" href="https://backend-production-c327.up.railway.app" />
 
   <!-- Fonts (self-hosted for PageSpeed) -->
   <link rel="preload" href="/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin />
