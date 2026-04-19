@@ -94,8 +94,9 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
     <div class="hz-card" style="text-align: center; color: var(--hz-text-muted); padding: 3rem 1rem;">Lade Links…</div>
   </div>
 
-  <!-- Empty-State -->
-  <div id="empty-state" class="hz-card" style="display: none; text-align: center; padding: 3rem 1rem;">
+  <!-- Empty-State — hidden by default, doppelter Hide-Guard gegen Layout-Glitch
+       (war früher parallel zur gefüllten Liste sichtbar). -->
+  <div id="empty-state" class="hz-card" hidden style="display: none; text-align: center; padding: 3rem 1rem;">
     <div style="font-size: 2.5rem; margin-bottom: 0.5rem;">🔗</div>
     <h3 style="margin: 0 0 0.5rem 0;">Noch keine Affiliate-Links</h3>
     <p style="color: var(--hz-text-muted); margin: 0 0 1.5rem 0;">Erstelle deinen ersten Link und tracke woher dein Traffic kommt.</p>
@@ -340,11 +341,14 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         document.getElementById('kpi-7d').textContent = fmtNum(last7d);
         document.getElementById('kpi-topref').textContent = topRef ? `${topRef[0]} (${fmtNum(topRef[1])})` : '—';
 
-        // Liste
+        // Liste — defensiver Empty-State-Toggle: hidden-attr + display, damit der
+        // Empty-State nicht neben der gefüllten Liste aufpoppt (früherer Bug).
         if (cachedLinks.length === 0) {
           elList.innerHTML = '';
+          elEmpty.hidden = false;
           elEmpty.style.display = 'block';
         } else {
+          elEmpty.hidden = true;
           elEmpty.style.display = 'none';
           elList.innerHTML = cachedLinks.map(renderLink).join('');
         }
