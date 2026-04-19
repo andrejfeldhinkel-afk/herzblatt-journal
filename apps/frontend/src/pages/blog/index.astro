@@ -82,7 +82,7 @@ const nextPage = totalPages > 1 ? 2 : null;
 
     <!-- Posts Grid (nur Seite 1 — 24 Artikel) -->
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4" id="posts-grid">
-      {postsToDisplay.map((post) => (
+      {postsToDisplay.map((post, i) => (
         <BlogCard
           title={post.data.title}
           description={post.data.description}
@@ -92,6 +92,7 @@ const nextPage = totalPages > 1 ? 2 : null;
           readingTime={getReadingTime(post.body || '')}
           image={post.data.image}
           imageAlt={post.data.imageAlt}
+          priority={i < 2}
         />
       ))}
     </div>
