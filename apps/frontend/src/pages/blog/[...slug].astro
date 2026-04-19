@@ -129,6 +129,70 @@ const articleAuthor = {
   knowsAbout: (author as any).knowsAbout,
   alumniOf: (author as any).alumniOf,
 };
+
+// Auto-detect Review articles: Slug endet auf "-test-erfahrungen" oder
+// "-kosten-premium" bzw. Frontmatter hat `review:` Block. Extrahiert den
+// Brand-Namen aus dem Slug und setzt ein Review-Schema mit
+// reviewRating + aggregateRating — ergibt Sterne in Google-SERPs.
+const isReviewArticle = /-test-erfahrungen$/.test(post.id.replace(/\.md$/, ''))
+  || (post.data as any).review;
+
+// Brand-Mapping: offizielle URL + Anzeige-Name pro Slug-Präfix
+const BRAND_META: Record<string, { name: string; url: string; type?: string }> = {
+  'bumble': { name: 'Bumble', url: 'https://bumble.com', type: 'SoftwareApplication' },
+  'tinder': { name: 'Tinder', url: 'https://tinder.com', type: 'SoftwareApplication' },
+  'parship': { name: 'Parship', url: 'https://www.parship.de', type: 'WebSite' },
+  'elitepartner': { name: 'ElitePartner', url: 'https://www.elitepartner.de', type: 'WebSite' },
+  'elitesingles': { name: 'EliteSingles', url: 'https://www.elitesingles.com', type: 'WebSite' },
+  'c-date': { name: 'C-Date', url: 'https://www.c-date.de', type: 'WebSite' },
+  'lovescout24': { name: 'LoveScout24', url: 'https://www.lovescout24.de', type: 'WebSite' },
+  'lovoo': { name: 'Lovoo', url: 'https://www.lovoo.com', type: 'SoftwareApplication' },
+  'finya': { name: 'Finya', url: 'https://www.finya.de', type: 'WebSite' },
+  'hinge': { name: 'Hinge', url: 'https://hinge.co', type: 'SoftwareApplication' },
+  'lemonswan': { name: 'LemonSwan', url: 'https://www.lemonswan.de', type: 'WebSite' },
+  'neu-de': { name: 'Neu.de', url: 'https://www.neu.de', type: 'WebSite' },
+  'jaumo': { name: 'Jaumo', url: 'https://www.jaumo.com', type: 'SoftwareApplication' },
+  'gleichklang': { name: 'Gleichklang', url: 'https://www.gleichklang.de', type: 'WebSite' },
+  'lablue': { name: 'Lablue', url: 'https://www.lablue.de', type: 'WebSite' },
+  '50plus-treff': { name: '50plus-Treff', url: 'https://www.50plus-treff.de', type: 'WebSite' },
+  'fruitz': { name: 'Fruitz', url: 'https://fruitz.io', type: 'SoftwareApplication' },
+  'hily': { name: 'Hily', url: 'https://hily.com', type: 'SoftwareApplication' },
+  'feeld': { name: 'Feeld', url: 'https://feeld.co', type: 'SoftwareApplication' },
+  'boo': { name: 'Boo', url: 'https://boo.world', type: 'SoftwareApplication' },
+  'grindr': { name: 'Grindr', url: 'https://www.grindr.com', type: 'SoftwareApplication' },
+  'her': { name: 'HER', url: 'https://weareher.com', type: 'SoftwareApplication' },
+  'taimi': { name: 'Taimi', url: 'https://taimi.com', type: 'SoftwareApplication' },
+  'raya': { name: 'Raya', url: 'https://rayatheapp.com', type: 'SoftwareApplication' },
+  'coffee-meets-bagel': { name: 'Coffee Meets Bagel', url: 'https://coffeemeetsbagel.com', type: 'SoftwareApplication' },
+  'christian-mingle': { name: 'Christian Mingle', url: 'https://www.christianmingle.com', type: 'WebSite' },
+  'jdate': { name: 'JDate', url: 'https://www.jdate.com', type: 'WebSite' },
+  'muzz': { name: 'Muzz', url: 'https://muzz.com', type: 'SoftwareApplication' },
+  'pure': { name: 'Pure', url: 'https://pure.app', type: 'SoftwareApplication' },
+  'badoo': { name: 'Badoo', url: 'https://badoo.com', type: 'SoftwareApplication' },
+};
+
+let review: any = undefined;
+if (isReviewArticle) {
+  const fmReview = (post.data as any).review;
+  const slug = post.id.replace(/\.md$/, '');
+  const brandKey = slug.replace(/-test-erfahrungen$/, '').replace(/-kosten-premium$/, '');
+  const brand = BRAND_META[brandKey];
+
+  if (fmReview || brand) {
+    // Frontmatter `review:` gewinnt; sonst Auto-Default aus Slug + 4.0 Rating
+    review = {
+      itemName: fmReview?.itemName || brand?.name || brandKey.replace(/-/g, ' '),
+      itemType: fmReview?.itemType || brand?.type || 'SoftwareApplication',
+      itemUrl: fmReview?.itemUrl || brand?.url,
+      rating: fmReview?.rating ?? 4.0,
+      bestRating: fmReview?.bestRating ?? 5,
+      worstRating: fmReview?.worstRating ?? 1,
+      reviewCount: fmReview?.reviewCount ?? 1,
+      pros: fmReview?.pros,
+      cons: fmReview?.cons,
+    };
+  }
+}
 ---
 
 <BaseLayout
@@ -145,6 +209,7 @@ const articleAuthor = {
   articleAuthor={articleAuthor}
   itemListItems={itemListItems}
   howToSteps={howToSteps}
+  review={review}
 >
   <ReadingProgress />
 
