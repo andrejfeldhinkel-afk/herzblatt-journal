@@ -1,6 +1,7 @@
 import {
   pgTable,
   serial,
+  integer,
   text,
   timestamp,
   boolean,
@@ -468,5 +469,41 @@ export const affiliateLinks = pgTable(
     slugIdx: index('affiliate_links_slug_idx').on(t.slug),
     activeIdx: index('affiliate_links_active_idx').on(t.active),
     campaignIdx: index('affiliate_links_campaign_idx').on(t.campaign),
+  }),
+);
+
+/**
+ * NewsletterBroadcasts — Admin-getriebene Mass-Mails an alle Subscriber.
+ *
+ * Lifecycle:
+ *   draft   → erstellt, noch nicht versendet (kann editiert + gelöscht werden)
+ *   sending → Send-Job läuft gerade (atomar gesetzt via UPDATE ... WHERE status='draft')
+ *   sent    → erfolgreich abgeschlossen, recipient_count + success_count final
+ *   failed  → Send-Job abgebrochen (SendGrid-Config fehlt, DB-Fehler etc.)
+ *
+ * article_slug ist optional und zeigt — wenn gesetzt — auf den zugehörigen
+ * Blog-Artikel. Keine FK, damit gelöschte Artikel die History nicht kaputt machen.
+ *
+ * Beim Send gehen wir sequenziell über die Subscriber in Chunks à 1000
+ * (siehe sendgrid.ts sendBroadcastEmail). Jede Mail bekommt einen individuellen
+ * Unsubscribe-Link via HMAC-Token — exakt analog zur Welcome-Mail.
+ */
+export const newsletterBroadcasts = pgTable(
+  'newsletter_broadcasts',
+  {
+    id: serial('id').primaryKey(),
+    subject: text('subject').notNull(),
+    articleSlug: text('article_slug'),
+    bodyHtml: text('body_html').notNull(),
+    status: text('status').notNull().default('draft'), // 'draft' | 'sending' | 'sent' | 'failed'
+    sentAt: timestamp('sent_at', { withTimezone: true }),
+    recipientCount: integer('recipient_count'),
+    successCount: integer('success_count'),
+    createdBy: text('created_by').notNull().default('admin'),
+    createdAt: timestamp('created_at', { withTimezone: true }).defaultNow().notNull(),
+  },
+  (t) => ({
+    createdAtIdx: index('newsletter_broadcasts_created_at_idx').on(t.createdAt),
+    statusIdx: index('newsletter_broadcasts_status_idx').on(t.status),
   }),
 );
