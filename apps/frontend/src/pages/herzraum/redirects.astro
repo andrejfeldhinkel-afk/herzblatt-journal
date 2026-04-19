@@ -5,9 +5,26 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
 <HerzraumLayout title="Redirects" active="redirects">
   <div class="hz-card" style="padding: 1.5rem;">
     <h2 style="margin: 0 0 0.5rem 0;">🔀 Redirects</h2>
-    <p style="color: var(--hz-text-muted); font-size: 0.85rem;">
-      Alle aktiven Redirects aus <code>astro.config.mjs</code> + <code>middleware.ts</code>. Read-only — Änderungen laufen über Pull-Requests.
-    </p>
+    <div style="background: rgba(59,130,246,0.1); border: 1px solid rgba(59,130,246,0.3); border-radius: 0.5rem; padding: 0.75rem 1rem; margin-bottom: 1rem; font-size: 0.85rem;">
+      <strong>📖 READ-ONLY-VIEW</strong><br>
+      Redirects werden in <code>apps/frontend/astro.config.mjs</code> und
+      <code>apps/frontend/src/middleware.ts</code> als statische Source-Code-
+      Konstanten gepflegt — sie werden bei Astro-Build in die Runtime-Config
+      eingebacken und können <em>nicht</em> zur Laufzeit verändert werden.
+      <br><br>
+      <strong>Wie neue Redirects anlegen?</strong>
+      <br>
+      <a href="https://github.com/andrejfeldhinkel-afk/herzblatt-journal/edit/main/apps/frontend/astro.config.mjs"
+         target="_blank" rel="noopener"
+         class="hz-btn" style="margin-top: 0.4rem; display: inline-block;">
+        → astro.config.mjs in GitHub bearbeiten
+      </a>
+      <a href="https://github.com/andrejfeldhinkel-afk/herzblatt-journal/edit/main/apps/frontend/src/middleware.ts"
+         target="_blank" rel="noopener"
+         class="hz-btn" style="margin-top: 0.4rem; display: inline-block;">
+        → middleware.ts in GitHub bearbeiten
+      </a>
+    </div>
 
     <section class="hz-kpi-grid" style="margin-top: 1rem;">
       <div class="hz-kpi">
