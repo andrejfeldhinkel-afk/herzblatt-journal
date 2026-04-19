@@ -37,6 +37,7 @@ import authRoute from './routes/auth.js';
 
 // Admin (session-protected)
 import herzraumStatsRoute from './routes/herzraum/stats.js';
+import herzraumKpiSummaryRoute from './routes/herzraum/kpi-summary.js';
 import herzraumClicksSourcesRoute from './routes/herzraum/clicks-sources.js';
 import herzraumNewsletterRoute from './routes/herzraum/newsletter.js';
 import herzraumReadersListRoute from './routes/herzraum/readers-list.js';
@@ -70,14 +71,15 @@ import adminEbookDripRoute from './routes/admin/ebook-drip.js';
 
 // Middleware
 import { requireSession, requireAdminToken } from './lib/auth-middleware.js';
+import { requireCsrfToken } from './lib/csrf.js';
 
 const app = new Hono();
 
 app.use('*', cors({
   origin: (process.env.ALLOWED_ORIGINS || 'http://localhost:4321').split(',').map(s => s.trim()),
   credentials: true,
-  allowMethods: ['GET', 'POST', 'OPTIONS'],
-  allowHeaders: ['Content-Type', 'Authorization'],
+  allowMethods: ['GET', 'POST', 'PATCH', 'DELETE', 'OPTIONS'],
+  allowHeaders: ['Content-Type', 'Authorization', 'x-csrf-token'],
   maxAge: 600,
 }));
 
@@ -165,6 +167,12 @@ app.route('/auth', authRoute);
 
 // Herzraum — protected by cookie session
 app.use('/herzraum/*', requireSession);
+// CSRF-Schutz auf alle mutierenden Requests (POST/PATCH/DELETE/PUT).
+// GET/HEAD/OPTIONS passieren ohne Check durch und liefern das frische
+// CSRF-Cookie via requireSession.
+app.use('/herzraum/*', requireCsrfToken);
+// kpi-summary MUSS vor stats registriert werden (spezifischer Pfad zuerst).
+app.route('/herzraum/stats/kpi-summary', herzraumKpiSummaryRoute);
 app.route('/herzraum/stats', herzraumStatsRoute);
 app.route('/herzraum/clicks/sources', herzraumClicksSourcesRoute);
 app.route('/herzraum/newsletter', herzraumNewsletterRoute);

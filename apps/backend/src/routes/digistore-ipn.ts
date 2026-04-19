@@ -28,6 +28,7 @@ import { ensureAffiliateCodeForBuyer, creditAffiliateConversionIfRef } from '../
 import { buildEbookAccessUrl } from '../lib/ebook-access.js';
 import { getClientIp, hashIp } from '../lib/crypto.js';
 import { allowRequest } from '../lib/rate-limit.js';
+import { redactEmail } from '../lib/log-helpers.js';
 
 const app = new Hono();
 
@@ -111,7 +112,7 @@ app.post('/', async (c) => {
   const currency = String(params.currency || 'EUR').toUpperCase().slice(0, 3);
 
   if (!email || !orderId) {
-    console.error('[digistore-ipn] missing email or order_id', { email, orderId, event });
+    console.error('[digistore-ipn] missing email or order_id', { email: redactEmail(email), orderId, event });
     return c.text('FAIL:missing-required-fields', 400);
   }
 
@@ -197,7 +198,7 @@ app.post('/', async (c) => {
       return c.text('OK', 200);
     }
 
-    console.log(`[digistore-ipn] new purchase: ${email} ${orderId} ${amount/100}${currency}`);
+    console.log(`[digistore-ipn] new purchase: ${redactEmail(email)} ${orderId} ${amount/100}${currency}`);
 
     // Bei Bezahlung: Käufer als Subscriber + SendGrid-Welcome
     if (status === 'paid' && email) {
