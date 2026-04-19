@@ -1,12 +1,11 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="noindex, nofollow">
-<title>Herzblatt Journal — Agent Session Map</title>
-<script src="https://d3js.org/d3.v7.min.js"></script>
-<style>
+---
+export const prerender = false;
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+---
+<HerzraumLayout title="Session-Map" active="session-map" fullscreen>
+<script is:inline src="https://d3js.org/d3.v7.min.js"></script>
+<style is:global>
+
   :root {
     --bg-0: #04040c;
     --bg-1: #0a0818;
@@ -318,9 +317,9 @@
     header { flex-wrap: wrap; }
     .tabs { width: 100%; margin-top: 8px; }
   }
+
 </style>
-</head>
-<body>
+
 <div class="stars"></div>
 
 <header>
@@ -413,7 +412,9 @@
   <div id="logList"></div>
 </aside>
 
-<script>
+<!--SCRIPT-0-->
+
+<script is:inline>
 // ─── Data ────────────────────────────────────────────────────────────────
 const NODES = [
   { id:'main', r:28, color:'#ff3868', type:'coord', phase:'coord', label:'Main Agent', sub:'Coordinator · Opus 4.7',
@@ -1001,5 +1002,4 @@ window.addEventListener('resize', () => {
   }, 300);
 });
 </script>
-</body>
-</html>
+</HerzraumLayout>
