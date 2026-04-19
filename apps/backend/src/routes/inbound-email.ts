@@ -19,8 +19,18 @@
  */
 import { Hono } from 'hono';
 import { db, schema } from '../db/index.js';
+import { getClientIp, hashIp } from '../lib/crypto.js';
+import { allowRequest } from '../lib/rate-limit.js';
 
 const app = new Hono();
+
+// 60 Inbound-Emails pro Minute pro IP — realer SendGrid-Traffic liegt
+// deutlich darunter, aber wir wollen DB-Row-Flood auf unsigniertem Endpoint
+// begrenzen. Siehe Phase-6 D) CRITICAL: SendGrid Inbound Parse liefert keine
+// Signatur von Haus aus, darum ist Rate-Limit die erste Schutzschicht.
+function allowInboundEmail(ipHash: string): boolean {
+  return allowRequest('inb:' + ipHash, 60, 60_000);
+}
 
 function extractEmail(str: string): { email: string; name?: string } {
   // Parst "Name <email@domain>" oder nur "email@domain"
@@ -53,6 +63,13 @@ function deriveThreadId(messageId: string | null, inReplyTo: string | null, subj
 }
 
 app.post('/', async (c) => {
+  // Rate-Limit: 60/min pro IP (SendGrid liefert weit weniger, Flood-Schutz)
+  const ip = getClientIp(c.req.raw, c.req.raw.headers);
+  if (!allowInboundEmail(hashIp(ip))) {
+    console.warn('[inbound-email] rate-limit hit');
+    return c.text('rate-limit', 429, { 'Retry-After': '60' });
+  }
+
   try {
     const ct = c.req.header('content-type') || '';
 

@@ -24,8 +24,16 @@ import { createHash } from 'node:crypto';
 import { eq, and } from 'drizzle-orm';
 import { db, schema } from '../db/index.js';
 import { addContactToList, sendWelcomeEmail, isSendGridEnabled } from '../lib/sendgrid.js';
+import { getClientIp, hashIp } from '../lib/crypto.js';
+import { allowRequest } from '../lib/rate-limit.js';
 
 const app = new Hono();
+
+// 120 IPN-POSTs pro Minute pro IP — Digistore retries bis zu 24h,
+// daher großzügig. Schutz gegen DB-Query-Flood bei unbekannten order_ids.
+function allowDigistoreIpn(ipHash: string): boolean {
+  return allowRequest('ds-ipn:' + ipHash, 120, 60_000);
+}
 
 function verifyDigistoreSignature(params: Record<string, string>, passphrase: string): boolean {
   const { sha_sign, ...rest } = params;
@@ -43,6 +51,13 @@ function verifyDigistoreSignature(params: Record<string, string>, passphrase: st
 }
 
 app.post('/', async (c) => {
+  // Rate-Limit: 120/min pro IP (Digistore retries bis 24h, daher großzügig)
+  const ip = getClientIp(c.req.raw, c.req.raw.headers);
+  if (!allowDigistoreIpn(hashIp(ip))) {
+    console.warn('[digistore-ipn] rate-limit hit');
+    return c.text('FAIL:rate-limit', 429, { 'Retry-After': '60' });
+  }
+
   const ct = c.req.header('content-type') || '';
   let params: Record<string, string> = {};
 

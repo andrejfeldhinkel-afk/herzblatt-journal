@@ -1,10 +1,24 @@
 import { Hono } from 'hono';
 import { eq } from 'drizzle-orm';
 import { db, schema } from '../db/index.js';
+import { getClientIp, hashIp } from '../lib/crypto.js';
+import { allowRequest } from '../lib/rate-limit.js';
 
 const app = new Hono();
 
+// 60 GET-Requests pro Minute pro IP — /readers macht bei jedem Call
+// einen DB-Write (UPDATE readers_counter), trivialer DB-Hammer ohne Limit.
+function allowReaders(ipHash: string): boolean {
+  return allowRequest('rdrs:' + ipHash, 60, 60_000);
+}
+
 app.get('/', async (c) => {
+  const ip = getClientIp(c.req.raw, c.req.raw.headers);
+  if (!allowReaders(hashIp(ip))) {
+    console.warn('[readers] rate-limit hit');
+    return c.json({ error: 'rate-limit' }, 429, { 'Retry-After': '60' });
+  }
+
   try {
     // Hole oder initialisiere die einzige Row
     const rows = await db.select().from(schema.readersCounter).limit(1);

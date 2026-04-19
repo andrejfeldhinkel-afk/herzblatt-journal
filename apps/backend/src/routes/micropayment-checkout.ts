@@ -32,11 +32,19 @@ import { Hono } from 'hono';
 import { createHash, randomUUID } from 'node:crypto';
 import { captureError } from '../lib/sentry.js';
 import { redactEmail } from '../lib/log-helpers.js';
+import { getClientIp, hashIp } from '../lib/crypto.js';
+import { allowRequest } from '../lib/rate-limit.js';
 
 const app = new Hono();
 
 const ALLOWED_METHODS = new Set(['sofort', 'paysafe']);
 const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+// 20 Checkout-URL-Requests pro Minute pro IP — schützt Signing-CPU
+// + verhindert Flood von pending-Order-URLs. Siehe Phase-6-Audit C) HIGH.
+function allowCheckout(ipHash: string): boolean {
+  return allowRequest('mpchk:' + ipHash, 20, 60_000);
+}
 
 /**
  * Micropayment-Signatur bauen.
@@ -54,6 +62,13 @@ function buildMicropaymentSignature(
 
 app.post('/', async (c) => {
   try {
+    // Rate-Limit: 20/min pro IP
+    const ip = getClientIp(c.req.raw, c.req.raw.headers);
+    if (!allowCheckout(hashIp(ip))) {
+      console.warn('[micropayment-checkout] rate-limit hit');
+      return c.json({ error: 'rate-limit' }, 429, { 'Retry-After': '60' });
+    }
+
     // Input kann JSON body oder query params sein
     let method = '';
     let email = '';
