@@ -52,7 +52,7 @@ function getReadingTime(body: string) {
     </p>
     
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-      {posts.map((post: any) => (
+      {posts.map((post: any, i: number) => (
         <BlogCard
           title={post.data.title}
           description={post.data.description}
@@ -62,6 +62,7 @@ function getReadingTime(body: string) {
           readingTime={getReadingTime(post.body || '')}
           image={post.data.image}
           imageAlt={post.data.imageAlt}
+          priority={i < 2}
         />
       ))}
     </div>

@@ -247,6 +247,12 @@ const faqSchema = faq.length > 0 ? {
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="Herzblatt Journal RSS Feed" href="/rss.xml" />
 
+  <!-- DNS-Prefetch / Preconnect für externe Assets (Analytics + Avatar-API) -->
+  <link rel="preconnect" href="https://plausible.io" crossorigin />
+  <link rel="dns-prefetch" href="https://plausible.io" />
+  <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+  <link rel="dns-prefetch" href="https://api.dicebear.com" />
+
   <!-- Fonts (self-hosted for PageSpeed) -->
   <link rel="preload" href="/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/fonts/playfair-latin.woff2" as="font" type="font/woff2" crossorigin />
@@ -258,6 +264,21 @@ const faqSchema = faq.length > 0 ? {
   {isArticle && image && image !== '/og-default.png' && (
     <link rel="preload" as="image" href={image} fetchpriority="high" />
   )}
+
+  {/* Critical CSS — Above-the-fold Styles (reduziert FOUC + FCP-Blocking durch global.css) */}
+  <style is:inline>
+    /* Font-face fallback metrics to reduce CLS before web fonts load */
+    html { font-family: 'DM Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    body { margin: 0; background: #fff; color: #1c1917; -webkit-font-smoothing: antialiased; }
+    /* Sticky Header Skeleton */
+    header.sticky { position: sticky; top: 0; z-index: 50; background: rgba(255,255,255,0.85); backdrop-filter: saturate(180%) blur(12px); -webkit-backdrop-filter: saturate(180%) blur(12px); border-bottom: 1px solid #e7e5e4; }
+    .glass { background: rgba(255,255,255,0.85); backdrop-filter: saturate(180%) blur(12px); -webkit-backdrop-filter: saturate(180%) blur(12px); }
+    /* Skip-Link (A11y) */
+    .skip-link { position: absolute; left: -9999px; top: 0; z-index: 100; background: #e11d48; color: #fff; padding: 0.75rem 1rem; font-weight: 600; }
+    .skip-link:focus { left: 0; }
+    /* Reserve space for layout so no CLS */
+    main { min-height: 60vh; }
+  </style>
 
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -371,37 +392,48 @@ const faqSchema = faq.length > 0 ? {
   </div>
 
   <script is:inline>
-    // Sticky CTA: show after scrolling 600px, hide at top
+    // Non-critical widgets: attach NACH Load-Event via requestIdleCallback,
+    // damit sie nicht mit LCP/TBT konkurrieren (Performance-Boost für Lighthouse).
     (function() {
-      var stickyCta = document.getElementById('sticky-cta');
-      if (!stickyCta) return;
-      var shown = false;
-      window.addEventListener('scroll', function() {
-        if (window.scrollY > 600 && !shown) {
-          stickyCta.style.transform = 'translateY(0)';
-          shown = true;
-        } else if (window.scrollY <= 600 && shown) {
-          stickyCta.style.transform = 'translateY(100%)';
-          shown = false;
+      var idle = window.requestIdleCallback || function(cb) { return setTimeout(cb, 1); };
+      function initWidgets() {
+        // Sticky CTA: show after scrolling 600px, hide at top
+        var stickyCta = document.getElementById('sticky-cta');
+        if (stickyCta) {
+          var shown = false;
+          window.addEventListener('scroll', function() {
+            if (window.scrollY > 600 && !shown) {
+              stickyCta.style.transform = 'translateY(0)';
+              shown = true;
+            } else if (window.scrollY <= 600 && shown) {
+              stickyCta.style.transform = 'translateY(100%)';
+              shown = false;
+            }
+          }, { passive: true });
         }
-      }, { passive: true });
-    })();
 
-    // Exit-Intent: open quiz when mouse leaves viewport (desktop only)
-    (function() {
-      if (window.innerWidth < 768) return;
-      var fired = false;
-      document.addEventListener('mouseout', function(e) {
-        if (fired) return;
-        if (e.clientY <= 0 && !document.getElementById('dating-quiz-overlay').classList.contains('hidden') === false) {
-          // Only if quiz isn't already open and hasn't been shown via exit-intent before
-          if (sessionStorage.getItem('exit-intent-shown')) return;
-          if (!document.getElementById('dating-quiz-overlay').classList.contains('hidden')) return;
-          fired = true;
-          sessionStorage.setItem('exit-intent-shown', '1');
-          window.openDatingQuiz();
+        // Exit-Intent: open quiz when mouse leaves viewport (desktop only)
+        if (window.innerWidth >= 768) {
+          var fired = false;
+          document.addEventListener('mouseout', function(e) {
+            if (fired) return;
+            var overlay = document.getElementById('dating-quiz-overlay');
+            if (!overlay) return;
+            if (e.clientY <= 0 && !overlay.classList.contains('hidden') === false) {
+              if (sessionStorage.getItem('exit-intent-shown')) return;
+              if (!overlay.classList.contains('hidden')) return;
+              fired = true;
+              sessionStorage.setItem('exit-intent-shown', '1');
+              window.openDatingQuiz && window.openDatingQuiz();
+            }
+          });
         }
-      });
+      }
+      if (document.readyState === 'complete') {
+        idle(initWidgets);
+      } else {
+        window.addEventListener('load', function() { idle(initWidgets); });
+      }
     })();
   </script>
 
@@ -444,11 +476,35 @@ const faqSchema = faq.length > 0 ? {
     });
   </script>
     <script>
-      fetch("/api/pageview", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ path: window.location.pathname }),
-      }).catch(() => {});
+      // Pageview-Beacon: erst nach Load + Idle feuern, damit es LCP/TBT
+      // nicht belastet (Analytics-Call ist non-blocking, nicht zeitkritisch).
+      (function() {
+        var send = function() {
+          var path = window.location.pathname;
+          // sendBeacon ist noch besser als fetch für fire-and-forget Analytics
+          if (navigator.sendBeacon) {
+            try {
+              navigator.sendBeacon(
+                '/api/pageview',
+                new Blob([JSON.stringify({ path: path })], { type: 'application/json' })
+              );
+              return;
+            } catch (e) { /* fallthrough zu fetch */ }
+          }
+          fetch('/api/pageview', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ path: path }),
+            keepalive: true,
+          }).catch(function() {});
+        };
+        var idle = window.requestIdleCallback || function(cb) { return setTimeout(cb, 200); };
+        if (document.readyState === 'complete') {
+          idle(send);
+        } else {
+          window.addEventListener('load', function() { idle(send); });
+        }
+      })();
     </script>
 </body>
 </html>
