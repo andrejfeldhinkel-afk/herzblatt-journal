@@ -187,3 +187,8 @@ Wenn ihr älter werdet, können sich eure Schlafmuster auch ändern. Eulen werde
 - [Beziehung nach Burnout: Den Partner unterstützen](/blog/beziehung-nach-burnout-partner)
 - [Beziehung nach Depression: Gemeinsam zurück ins Leben](/blog/beziehung-nach-depression-partner)
 
+## Weiterführende Artikel
+
+- [Wenn einer immer müde ist](/blog/beziehung-unterschiedliche-energie-level)
+- [Bucket List für Paare – 50 Momente, die eure Beziehung le...](/blog/beziehung-bucket-list)
+- [Beziehung bei Schichtarbeit – Liebe im Taktversatz](/blog/beziehung-fernbeziehung-schichtarbeit)

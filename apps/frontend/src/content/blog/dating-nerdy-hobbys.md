@@ -187,3 +187,8 @@ Die beste Person wird dich mit deinen Hobbys lieben. Not despite them, but BECAU
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
 - [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 
+## Weiterführende Artikel
+
+- [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
+- [Single unter Druck: Wenn alle fragen warum Du allein bist](/blog/dating-bei-sozialem-druck-single)
+- [Dating in Freiburg: Liebe im Breisgau finden](/blog/dating-freiburg-schwarzwald-guide)

@@ -125,3 +125,9 @@ Und die beste Nachricht: Mit Arbeit, Zeit und dem richtigen Partner wirst du ein
 
 - [Retroaktive Eifersucht überwinden: Wenn die Vergangenheit deines Partners dich quält](/blog/retroaktive-eifersucht-ueberwinden-komplett)
 - [Selbstsabotage beim Dating: Warum du immer wieder die Falschen wählst](/blog/selbstsabotage-dating-muster-guide)
+
+## Weiterführende Artikel
+
+- [Dating mit ängstlichem Bindungsstil](/blog/anxious-attachment-dating-strategie-guide)
+- [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen)
+- [Beziehung & Social Media: Zwischen Eifersucht digitaler Nähe](/blog/beziehung-social-media)

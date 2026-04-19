@@ -176,3 +176,9 @@ Und denke daran – wenn es am Ende nicht funktioniert hat, bedeutet das nicht, 
 **Weitere hilfreiche Artikel:**
 - [Verliebt in deine beste Freundin – Was nun?](/blog/verliebt-in-beste-freundin)
 - [Emotionale Abhängigkeit erkennen und überwinden](/blog/emotionale-abhaengigkeit-test-selbstcheck)
+
+## Weiterführende Artikel
+
+- [Freundschaft Plus: Regeln für unkompliziert](/blog/freundschaft-plus-regeln)
+- [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung)
+- [Dating mit Kindern: So findest du als alleinerziehend](/blog/dating-mit-kindern)

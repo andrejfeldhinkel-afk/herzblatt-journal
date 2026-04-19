@@ -106,3 +106,9 @@ Das ist Wahnsinn. Aber dein Overthinking-Gehirn macht es. Und es verschwendet de
 **4. "Ich sagte einen Witz und er lachte nicht so laut wie normalerweise. Er verliert das Interesse."**
 
 Oder er war abgelenkt. Oder er hatte einen schlechten Tag. Aber nein, dein Gehirn hat ein Szenario gebaut, wo du langweilig wirst und er sich [Angst vor Verlassenheit überwinden](/blog/verlassensangst-beziehung), [Sich selbst lieben lernen](/blog/selbstliebe-dating)
+
+## Weiterführende Artikel
+
+- [Dating-Angst überwinden: Mutig in die Liebe](/blog/dating-angst-ueberwinden)
+- [Dating-Burnout: Wenn die Partnersuche dich auslaugt und w...](/blog/dating-burnout-recovery-guide)
+- [Dating für Schüchterne: Dein praktischer Guide](/blog/dating-fuer-schuechterne)

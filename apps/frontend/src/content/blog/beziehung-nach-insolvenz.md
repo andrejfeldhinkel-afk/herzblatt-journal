@@ -154,3 +154,8 @@ Manchmal sind die finanziellen und emotionalen Lasten zu groß. Wenn:
 Dann ist möglicherweise [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 - [Großer Altersunterschied in der Beziehung](/blog/beziehung-altersunterschied-gross)
 
+## Weiterführende Artikel
+
+- [Als Paar durch die Insolvenz](/blog/beziehung-nach-gemeinsamer-insolvenz)
+- [Beziehung und Schulden](/blog/beziehung-nach-insolvenz-schulden)
+- [Beziehung nach einer Affäre retten](/blog/beziehung-after-affaere-plan)

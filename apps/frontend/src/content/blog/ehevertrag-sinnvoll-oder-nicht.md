@@ -156,3 +156,9 @@ Wenn Du Dich noch unsicher bist, wie Du mit diesem Thema mit Deinem Partner spri
 Und wenn Ihr bereits verheiratet seid und merkt, dass sich Eure finanzielle Situation verändert hat, könnte unser Guide zu Ehepakten und nachträglichen Verträgen für Euch interessant sein.
 
 Wenn Ihr gerade eine Trennung durchmacht, findest Du im Artikel [Was kostet eine Scheidung wirklich?](/blog/scheidung-kosten-ratgeber/) konkrete Zahlen und Optionen.
+
+## Weiterführende Artikel
+
+- [Beziehungspause: Wann sie sinnvoll ist, klare Regeln und was](/blog/beziehungspause-regeln-sinnvoll)
+- [Beziehungspause: Sinnvoll oder Anfang vom Ende?](/blog/beziehungspause-sinnvoll)
+- [Beziehungspause: Wann sie sinnvoll ist und wie sie gelingt](/blog/beziehungspause-sinnvoll-komplett)

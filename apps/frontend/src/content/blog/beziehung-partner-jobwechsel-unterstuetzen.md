@@ -264,3 +264,8 @@ Das ist möglich. Es braucht nur Bewusstsein und Unterstützung.
 - [Beziehung nach Depression: Gemeinsam zurück ins Leben](/blog/beziehung-nach-depression-partner)
 - [Beziehung nach einem Trauerfall: Füreinander da sein](/blog/beziehung-nach-trauerfall-unterstuetzen)
 
+## Weiterführende Artikel
+
+- [Beziehung und Gewichtszunahme: Ein heikles Thema ehrlich](/blog/beziehung-nach-gewichtszunahme)
+- [Hochzeitsplanung ohne Beziehungsstress](/blog/beziehung-traumhochzeit-planen-stress)
+- [Beziehung und Schlafgewohnheiten: Getrennt schlafen](/blog/beziehung-und-schlafgewohnheiten)

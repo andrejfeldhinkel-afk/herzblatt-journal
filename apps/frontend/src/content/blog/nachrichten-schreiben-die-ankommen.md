@@ -178,3 +178,9 @@ Wenn die andere Person:
 
 Das sind Zeichen von Desinteresse oder [Liebesbriefe schreiben : Tipps, Inspiration und zeitlose](/blog/liebesbriefe-schreiben-vorlagen)
 - [Die neuen Dating-Regeln 2026: Was wirklich funktioniert](/blog/moderne-dating-regeln)
+
+## Weiterführende Artikel
+
+- [Dating-App Gespräche: Von Small Talk zu echten Verbindungen](/blog/dating-app-gespraeche-vertiefen)
+- [Sprachnachrichten beim Dating: Warum Voice Notes das neue](/blog/dating-app-voice-notes-sprachnachrichten)
+- ['Die perfekte erste Nachricht beim Online-Dating](/blog/dating-kommunikation-erste-nachricht-tipps)

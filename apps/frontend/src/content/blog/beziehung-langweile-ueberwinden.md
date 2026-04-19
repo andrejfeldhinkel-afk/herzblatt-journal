@@ -150,3 +150,9 @@ Das ist es wert.
 **Weitere hilfreiche Artikel:**
 - [Gute Fragen fürs Date stellen](/blog/gute-fragen-fuers-date)
 - [Emotionale Abhängigkeit erkennen und überwinden](/blog/emotionale-abhaengigkeit-test-selbstcheck)
+
+## Weiterführende Artikel
+
+- [Verlangen lebendig halten in langen Beziehungen](/blog/verlangen-langzeitbeziehung)
+- [Langeweile in der Beziehung überwinden: Praktischer Guide](/blog/beziehung-langeweile-ueberwinden-tipps)
+- [Eifersucht in der Beziehung überwinden: So schaffst du es](/blog/eifersucht-beziehung-ueberwinden)

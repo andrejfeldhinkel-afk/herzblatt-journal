@@ -230,3 +230,9 @@ Es kann ein bescheidener Ring sein mit großer Bedeutung oder ein luxuriöser Ri
 [Nach der Verlobung kommt die Hochzeitsvorbereitung. Lies auch unseren Artikel über Glückwünsche zur Verlobung, um alles zu feiern](/blog/glueckwuensche-zur-verlobung-texte).
 
 Herzlichen Glückwunsch zu diesem schönen Moment.
+
+## Weiterführende Artikel
+
+- [Geschenk zur Verlobung: 30+ Ideen (von Klasse bis Lustig)](/blog/geschenk-zur-verlobung-ideen)
+- [Verlobung Ratgeber: Wenn es zum Antrag kommt](/blog/verlobung-engagement-ratgeber)
+- [Das Geheimnis langjähriger Ehen: Was Paare falsch verstehen](/blog/beziehung-lange-ehe-geheimnis)

@@ -156,3 +156,8 @@ Macht die beste Entscheidung für den Hund. Dann bekommt ihr beide die Chance, v
 - [Beziehung und gemeinsame Firma: Liebe und Business trennen](/blog/beziehung-nach-gemeinsamer-firma)
 - [Neu anfangen nach einer Langzeitbeziehung](/blog/beziehung-nach-langzeitbeziehung-trennung)
 
+## Weiterführende Artikel
+
+- [Beziehung nach gemeinsamer Trennung](/blog/beziehung-nach-gemeinsamer-trennung)
+- [Erste Beziehung nach Trennung: So machst du es richtig](/blog/erste-beziehung-nach-trennung-tipps)
+- [Trennung aber gleiche Wohnung: So überlebst du](/blog/trennung-mit-gemeinsamer-wohnung)

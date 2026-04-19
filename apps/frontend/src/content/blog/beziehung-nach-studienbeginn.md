@@ -144,3 +144,8 @@ Lest auch diese verwandten Artikel:
 [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 - [Großer Altersunterschied in der Beziehung](/blog/beziehung-altersunterschied-gross)
 
+## Weiterführende Artikel
+
+- [Gemeinsam wachsen als Paar – Wenn Liebe Entwicklung bedeutet](/blog/beziehung-gemeinsam-wachsen)
+- [Die 4 Jahreszeiten einer Beziehung](/blog/beziehung-jahreszeiten)
+- [Beziehungs-Meilensteine: Timeline von Date 1 bis Hochzeit](/blog/beziehung-meilensteine)

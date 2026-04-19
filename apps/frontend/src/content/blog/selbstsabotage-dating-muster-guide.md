@@ -224,3 +224,9 @@ Und dann, die Beziehungen du aufbaust, werden nicht nur sicher – sie werden ec
 **Verwandte Artikel:**
 - [Trauma Bonding: Warum du dich an toxische Menschen gebunden fühlst](/blog/trauma-bonding-erkennen-loesen-guide)
 - [Retroaktive Eifersucht überwinden: Wenn die Vergangenheit deines Partners dich quält](/blog/retroaktive-eifersucht-ueberwinden-komplett)
+
+## Weiterführende Artikel
+
+- [Ängstlich trifft Vermeidend: Die Beziehungsfalle](/blog/anxious-avoidant-trap)
+- [Ängstlich-klammernder Bindungsstil heilen](/blog/anxious-preoccupied-attachment-healing)
+- [Co-Abhängigkeit überwinden](/blog/codependency-recovery-beziehung-guide)

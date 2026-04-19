@@ -129,3 +129,9 @@ Für mehr Dating-Tipps, schau dir [unseren Guide zum Komplimente machen](/blog/k
 Männer können schlecht darin sein, Gefühle auszudrücken, aber ihre Handlungen sprechen Bände. Wenn dieser Mann Zeit für dich investiert, sich öffnet und sich für dich zur Verfügung stellt, dann hat er Gefühle für dich.
 
 Das Leben ist zu kurz, um zu warten. Wenn du auch Gefühle für ihn hast, teile das mit. Das Beste, das passieren kann, ist, dass er seine Gefühle auch mit dir teilt. Das Schlimmste? Du kennst die Wahrheit und kannst weitermachen. Und das ist auch ein Sieg.
+
+## Weiterführende Artikel
+
+- [Ist er verliebt? 25 eindeutige Anzeichen, die ihn verraten](/blog/mann-verliebt-anzeichen-komplett)
+- [Heimlich verliebt: 10 Anzeichen + 7 konkrete Schritte zum](/blog/heimlich-verliebt-was-tun)
+- [Körpersprache Mann: 25 Zeichen dass er verliebt ist](/blog/koerpersprache-mann-verliebt-zeichen)

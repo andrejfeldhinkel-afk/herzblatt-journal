@@ -402,3 +402,8 @@ Die Frage ist: "Warum nicht?"
 - [Dry Dating: Warum nüchterne Dates die bessere Verbindung](/blog/dry-dating-trend)
 - [Freckling: Der Sommer-Dating-Trend erklärt](/blog/freckling-sommer-dating-trend)
 
+## Weiterführende Artikel
+
+- [Benching beim Dating erkennen](/blog/benching-dating-wartebank-erkennen)
+- [Dating als Alleinerziehende/r: Der ehrliche Eltern-Guide](/blog/dating-als-elternteil-guide)
+- [Dating mit sozialer Angst: Von Lähmung zu echten Gefühlen](/blog/dating-angst-soziale-phobie)

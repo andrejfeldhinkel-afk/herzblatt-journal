@@ -157,3 +157,9 @@ Das ist das wertvollste Geschenk.
 Wenn du nach Therapie daten möchtest, könnten auch diese Artikel helfen:
 - [Trauma und Liebe: Wie du nach Verletzung wieder Vertrauen aufbaust](/blog/trauma-response-beziehung)
 - [Grenzen setzen in Beziehungen: Wie du Nein sagst, ohne schuldig zu fühlen](/blog/grenzen-setzen-beziehung)
+
+## Weiterführende Artikel
+
+- [Dating mit sozialer Angst: Von Lähmung zu echten Gefühlen](/blog/dating-angst-soziale-phobie)
+- [Dating mit Depression: Liebe im Kampf mit Dunkelheit](/blog/dating-mit-depression)
+- [Dating mit PTBS – Beziehung aufbauen trotz Trauma](/blog/dating-mit-ptbs-posttraumatische-belastung)

@@ -110,3 +110,8 @@ Der Alltag wird nicht weniger alltäglich. Aber er wird erfüllt. Und das – ni
 - [Paar-Rituale: 12 Gewohnheiten glücklicher Paare](/blog/rituale-paar-einfuehren)
 - [Konflikte als Paar lösen: Der 5-Schritte-Plan](/blog/konflikte-loesen-paar)
 
+## Weiterführende Artikel
+
+- [Abenteuer-Dates: Adrenalin stärkt die Bindung](/blog/abenteuer-dates-adrenalin)
+- [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
+- [Affäre beenden — Wie du den Schlussstrich ziehst, ohne](/blog/affaere-beenden-richtig)

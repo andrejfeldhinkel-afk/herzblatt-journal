@@ -119,3 +119,9 @@ Du könntest auch interessiert sein an unserem Guide über [Komplimente, die ank
 Vertrau deinem Körper. Er ist nicht getäuscht von oberflächlichen Dingen. Wenn er dir sagt, dass etwas Tiefgreifendes passiert, dann passiert es.
 
 Die körperlichen Symptome einer Seelenpartnerschaft sind ein wunderbares Geschenk. Sie erinnern dich daran, dass du lebendig bist und dass es Menschen gibt, mit denen du eine echte, tiefe Verbindung haben kannst. Schätze diese Momente und pflege diese Verbindung mit deinem ganzen Herzen.
+
+## Weiterführende Artikel
+
+- [Freundschaft Plus: Gefühle entwickelt – Wie du damit umgehst](/blog/freundschaft-plus-gefuehle-entwickelt)
+- [Unglücklich verliebt: Was du wirklich tun kannst (und was...](/blog/ungluecklich-verliebt-was-tun)
+- [Seelenpartner: Gibt es Die Eine oder ist Das ein Mythos?](/blog/seelenpartner-komplett-guide)

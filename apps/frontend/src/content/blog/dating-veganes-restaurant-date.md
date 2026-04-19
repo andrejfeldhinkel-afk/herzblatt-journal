@@ -197,3 +197,8 @@ Die Frage ist nicht: "Stimmen wir in allem überein?" Es ist: "Können wir einan
 
 Wenn die Antwort nein ist, könnte das eine Incompatiblität sein, die zu tiefgehend ist zu überwinden.
 
+## Weiterführende Artikel
+
+- [Dry Dating: Warum nüchterne Dates die bessere Verbindung](/blog/dry-dating-trend)
+- [Museum als Date-Idee – Kultur trifft Kennenlernen](/blog/dating-museum-date)
+- [30 Outdoor-Date-Ideen für jede Jahreszeit](/blog/dating-outdoor-date-ideen)

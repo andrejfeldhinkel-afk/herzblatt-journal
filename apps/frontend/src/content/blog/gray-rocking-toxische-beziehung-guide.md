@@ -325,3 +325,9 @@ Das ist Gray Rocking. Und es funktioniert.
 ---
 
 **Tiefer greifen:** Lerne mehr über [Narzissmus erkennen](/blog/dark-triad-dating-erkennen) und [toxische Beziehungen verlassen](/blog/toxische-beziehung-komplett-guide).
+
+## Weiterführende Artikel
+
+- [Komplizierte Beziehung klären: Ehrlichkeit statt Drama](/blog/komplizierte-beziehung-klaeren)
+- [Kontrollierender Partner: 20 Warnsignale und wie du dich](/blog/kontrollierender-partner-erkennen)
+- [Toxische Beziehung: 25+ Warnsignale und wie du dich befreist](/blog/toxische-beziehung-komplett-guide-2026)

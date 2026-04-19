@@ -177,3 +177,8 @@ Diese sind wertvolle Lektionen.
 - [Neustart nach einer Affäre: Der 8-Wochen-Plan für Heilung](/blog/beziehung-after-affaere-plan)
 - [Großer Altersunterschied in der Beziehung](/blog/beziehung-altersunterschied-gross)
 
+## Weiterführende Artikel
+
+- [Alte Verletzungen heilen: Wie deine Vergangenheit deine](/blog/beziehung-heilen-verletzungen)
+- [Beziehung nach einer Abtreibung](/blog/beziehung-nach-abtreibung-gemeinsam)
+- [Beziehung nach Affäre retten: Die 5 Phasen der Heilung](/blog/beziehung-nach-affaere-retten)

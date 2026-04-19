@@ -152,3 +152,9 @@ Deine Dating-Profil-Fotos sind deine erste Chance, einen guten Eindruck zu hinte
 
 - [Dating-Profil für Frauen optimieren](/blog/dating-profil-frauen-optimieren)
 - [Dating-Profil optimieren: So hebst du dich von der Masse ab](/blog/dating-profil-optimieren)
+
+## Weiterführende Artikel
+
+- [Die perfekten Profilfotos für Dating-Apps: So wirst du](/blog/dating-profile-fotos-tipps)
+- [Online-Dating-Profil optimieren: Guide für Männer](/blog/online-dating-profil-optimieren-maenner)
+- [Das perfekte Dating-Profil erstellen](/blog/perfektes-online-dating-profil-erstellen)

@@ -193,3 +193,9 @@ Und glaube, dass es jemanden gibt, der genau deine Intensität als wunderbar sie
 **Verwandte Artikel:**
 - Grenzen setzen in Beziehungen: Der komplette Guide
 - [Slow Dating: Die Revolution gegen Swipe-Kultur und wie du davon profitierst](/blog/slow-dating-revolution-guide)
+
+## Weiterführende Artikel
+
+- [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
+- [Asexualität in Dating und Beziehung](/blog/asexualitaet-dating-beziehung)
+- [Attachment Styles: Einfluss auf dein Dating](/blog/attachment-styles-dating-verstehen)

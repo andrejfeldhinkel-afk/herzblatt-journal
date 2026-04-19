@@ -127,3 +127,9 @@ Deine Beziehung kann nach einem Vertrauensbruch wiederaufgebaut werden. Aber nur
 ---
 
 **Verwandte Artikel:** Erfahre auch über [Vertrauensaufbau nach Verrat](/blog/vertrauen-wieder-aufbauen-nach-luege) und [Grenzensetzen in Beziehungen](/blog/grenzen-setzen-beziehung).
+
+## Weiterführende Artikel
+
+- [Gemeinsam heilen – Wie Paare Trauma zusammen überwinden](/blog/beziehung-nach-trauma-gemeinsam-heilen)
+- [Der Körper erinnert sich: Trauma in der Beziehung](/blog/koerper-trauma-beziehung-body-keeps-score)
+- [Trauma Dumping erkennen: Wenn Reden zur Belastung wird](/blog/trauma-dumping-erkennen)

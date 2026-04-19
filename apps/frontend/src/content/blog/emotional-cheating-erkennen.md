@@ -134,3 +134,9 @@ Wenn die Antwort nein ist, dann respektiere dich selbst genug zu gehen.
 Wenn dich emotionales Fremdgehen betrifft, könnten auch diese Artikel helfen:
 - [Vertrauen in Beziehungen: Wie du es wiederaufbaust nach Betrug](/blog/vertrauen-nach-betrug)
 - [Paarkommunikation: Die unbequemen Gespräche führen](/blog/kommunikation-beziehung)
+
+## Weiterführende Artikel
+
+- [Micro-Cheating: Die kleine Untreue erkennen](/blog/micro-cheating-erkennen)
+- [Fremdgehen erkennen: 12 Warnsignale erkennen](/blog/anzeichen-fremdgehen-erkennen)
+- [Emotionale Affäre: Erkennen und damit umgehen](/blog/emotionale-affaere-erkennen)

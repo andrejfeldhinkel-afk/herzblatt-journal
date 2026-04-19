@@ -269,3 +269,8 @@ Wichtig:: Gib nicht auf. Nach zwei bis drei Wochen konsistenter Praxis wird das 
 - [Neustart nach einer Affäre: Der 8-Wochen-Plan für Heilung](/blog/beziehung-after-affaere-plan)
 - [Großer Altersunterschied in der Beziehung](/blog/beziehung-altersunterschied-gross)
 
+## Weiterführende Artikel
+
+- [Beziehung auf Augenhoehe](/blog/beziehung-auf-augenhoehe-guide)
+- [Grenzen setzen in der Beziehung ohne Streit](/blog/beziehung-grenzen-setzen-ohne-streit)
+- [Kommunikation in Beziehungen: Die Masterclass](/blog/beziehung-kommunikation-masterclass)

@@ -286,3 +286,8 @@ Du musst nicht alle 10 Formeln aussuchen. Wähle die, die sich am meisten wie DU
 - [Online-Dating für Introvertierte](/blog/dating-introvertiert-online-tipps)
 - [Die perfekte erste Nachricht beim Online-Dating](/blog/erste-nachricht-online-dating)
 
+## Weiterführende Artikel
+
+- [Online Dating für Frauen: Der ehrliche Guide](/blog/online-dating-frauen-guide)
+- [Online-Dating Masterclass 2026: Vom Profil bis zum Date](/blog/online-dating-masterclass-2026)
+- [Dating-App-Müdigkeit überwinden: Wie du wieder Hoffnung](/blog/online-dating-muedigkeit-ueberwinden)

@@ -150,3 +150,9 @@ Bis dahin: Schütze dich. Vertrau dir selbst. Und erinnere dich daran, dass du n
 Wenn dich Straßenbelästigung und Grenzensetzen beschäftigen, könnten diese Artikel auch helfen:
 - [Toxic Relationships: Die Zeichen erkenne und dich selbst schützen](/blog/toxische-beziehung-erkennen)
 - [Selbstwert aufbauen: Die erste Schritt zu echtem Selbstvertrauen](/blog/dating-selbstbewusstsein-aufbauen)
+
+## Weiterführende Artikel
+
+- [Beziehung stärken trotz Arbeitslosigkeit](/blog/beziehung-nach-arbeitslosigkeit)
+- [Single unter Druck: Wenn alle fragen warum Du allein bist](/blog/dating-bei-sozialem-druck-single)
+- [Dating nach Jobwechsel: Neuanfang auf allen Ebenen](/blog/dating-nach-jobwechsel-neuanfang)

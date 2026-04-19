@@ -133,3 +133,9 @@ Plane kleiner Urlaubs-Nachefferingem Der erste Tag nach dem Urlaub sollte nicht 
 
 - [Restaurant-Dates perfekt planen](/blog/restaurant-dates-perfekt-planen)
 - [Das zweite Date: Ideen und Tipps für den nächsten Schritt](/blog/zweites-date-planen-tipps)
+
+## Weiterführende Artikel
+
+- [Bucket List für Paare – 50 Momente, die eure Beziehung le...](/blog/beziehung-bucket-list)
+- [Flitterwochen planen: Die besten Reiseziele und Tipps](/blog/flitterwochen-planen-ideen)
+- [Beziehung auffrischen: 30 Ideen die sofort wirken](/blog/beziehung-auffrischen-30-ideen)

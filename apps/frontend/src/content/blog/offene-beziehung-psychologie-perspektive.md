@@ -121,3 +121,9 @@ Hast du bereits Erfahrungen mit offenen Beziehungen gemacht? Was hast du über d
 **Weitere hilfreiche Artikel:**
 - [Emotionale Abhängigkeit erkennen und überwinden](/blog/emotionale-abhaengigkeit-test-selbstcheck)
 - [Wie du deinen Schwarm ansprichst – Mit Mut und Authentizität](/blog/schwarm-ansprechen-tipps)
+
+## Weiterführende Artikel
+
+- [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen)
+- [Beziehung & Social Media: Zwischen Eifersucht digitaler Nähe](/blog/beziehung-social-media)
+- [Eifersucht in der Beziehung überwinden: So schaffst du es](/blog/eifersucht-beziehung-ueberwinden)

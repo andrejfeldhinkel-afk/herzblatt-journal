@@ -146,3 +146,9 @@ Die Wahrheit ist: Du bist nicht zu alt, nicht zu viel, nicht zu gut. Die Wahrhei
 Aber er wird dich nur finden, wenn du aktiv nach ihm suchst und wenn du bereit bist. Nicht bereit, dich selbst zu verlieren, sondern bereit, dein Leben mit jemandem zu teilen.
 
 Du schaffst das. Es braucht Zeit und Geduld. Aber es ist möglich.
+
+## Weiterführende Artikel
+
+- [Partner finden mit 30: Warum jetzt deine beste Chance ist](/blog/partner-finden-mit-30)
+- [Partner finden ohne Dating-Apps: Offline](/blog/partner-finden-ohne-dating-apps)
+- [15 Anzeichen dass er keine Beziehung will](/blog/anzeichen-er-will-keine-beziehung)

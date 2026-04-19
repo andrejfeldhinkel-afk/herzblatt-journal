@@ -232,3 +232,8 @@ Oft ist Übergewicht auch emotionale Sache. Wenn du isst, um dich besser zu füh
 
 Ein unterstützender Partner kann dir helfen herauszufinden, was du wirklich brauchst – ob das Essen ist oder Trost oder Verständnis.
 
+## Weiterführende Artikel
+
+- [Digital Detox als Paar: Mehr Nähe ohne Handy](/blog/beziehung-digitale-detox-gemeinsam)
+- [Gemeinsam meditieren als Paar](/blog/beziehung-gemeinsam-meditieren)
+- [Beziehung nach Fehlgeburt: Gemeinsam trauern und heilen](/blog/beziehung-nach-fehlgeburt-gemeinsam-trauern)

@@ -128,3 +128,9 @@ Du möchtest mehr über Beziehungsdynamiken erfahren? Schau dir auch unsere Arti
 ---
 
 **Deine Erfahrung:** Wie geht ihr mit eurem Altersunterschied um? Oder fragst du dich noch, ob eine Beziehung mit großem Altersunterschied das Richtige für dich ist? Schreib mir einen Kommentar — ich antworte gerne.
+
+## Weiterführende Artikel
+
+- [ADHS und Beziehung: Der komplette Guide für Liebe](/blog/adhs-und-beziehung-komplett-guide)
+- [Vermeidender Bindungsstil](/blog/avoidant-attachment-beziehung-guide)
+- [Beziehung am Ende: 20 Anzeichen dass es vorbei ist](/blog/beziehung-ende-anzeichen)

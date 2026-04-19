@@ -187,3 +187,8 @@ Das ist okay. Paare, die erfolgreich sind, adaptieren ihre Rituale. Sie sprechen
 
 Rituale sind nicht in Stein gemeißelt. Sie sind lebend und wachsen mit eurer Beziehung. Die Paare, die überleben, sind diejenigen, die ihre Rituale anpassen.
 
+## Weiterführende Artikel
+
+- [Morgendliche Rituale für glückliche Paare](/blog/beziehung-morgendliche-rituale-paare)
+- [Beziehungsrituale die verbinden](/blog/beziehung-rituale-fuer-paare)
+- [Beziehungsrituale die wirklich helfen](/blog/beziehung-rituale-alltag-guide)

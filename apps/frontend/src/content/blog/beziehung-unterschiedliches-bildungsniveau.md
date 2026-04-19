@@ -185,3 +185,8 @@ Umgang damit:
 - [Neustart nach einer Affäre: Der 8-Wochen-Plan für Heilung](/blog/beziehung-after-affaere-plan)
 - [Großer Altersunterschied in der Beziehung](/blog/beziehung-altersunterschied-gross)
 
+## Weiterführende Artikel
+
+- [Beziehung auf Augenhoehe](/blog/beziehung-auf-augenhoehe-guide)
+- [Wenn Partner unterschiedliche Zukunftspläne haben](/blog/beziehung-unterschiedliche-zukunftsplaene)
+- [Digital Detox Challenge für Paare](/blog/beziehung-digital-detox-challenge)

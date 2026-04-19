@@ -208,3 +208,8 @@ Nervosität ist normal. Aber anstatt Alkohol zu trinken, versuche das:
 
 Die beste Dates entstehen, wenn beide Leute nüchtern, präsent, und bereit sind, echte zu sein.
 
+## Weiterführende Artikel
+
+- [Dry Dating: Warum nüchterne Dates die bessere Verbindung](/blog/dry-dating-trend)
+- [Vegane Restaurants – Perfekt für kreative Dates](/blog/dating-veganes-restaurant-date)
+- [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)

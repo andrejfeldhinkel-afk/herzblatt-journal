@@ -144,3 +144,9 @@ Erkenne es. Arbeite daran. Und gib dir selbst die Chance, echte Liebe zu erfahre
 **Verwandte Artikel:**
 - [Karmische Beziehungen: Warum dich bestimmte Menschen magisch anziehen](/blog/karmic-relationships-karmische-beziehung-guide)
 - [Ghosting verarbeiten und wieder vertrauen lernen](/blog/beziehung-nach-ghosting-verarbeiten-guide)
+
+## Weiterführende Artikel
+
+- [Liebe vs. Verliebtheit – Der entscheidende Unterschied](/blog/unterschied-liebe-verliebtheit)
+- [Liebe auf den ersten Blick: Mythos oder Realität](/blog/liebe-auf-den-ersten-blick)
+- [Liebe auf den zweiten Blick – Warum langsame Liebe stärker](/blog/liebe-auf-den-zweiten-blick)

@@ -335,3 +335,8 @@ A: Sehr wichtig. Menschen sehen deine Schuhe. Sie sagen viel über dich aus. Sau
 - [Der ultimative Date-Night Planer für Paare](/blog/beziehung-date-night-planer)
 - [Date absagen ohne schlechtes Gewissen](/blog/date-absagen-richtig)
 
+## Weiterführende Artikel
+
+- [Gesprächsthemen fürs Date: Nie mehr Stille](/blog/date-gespraeche-meistern)
+- [Erste Date Gesprächsthemen: 50 Ideen die begeistern](/blog/erste-date-gespraechsthemen-guide)
+- [Erstes Date: Wohin? 25 geniale Orte](/blog/erste-date-wo-hingehen)

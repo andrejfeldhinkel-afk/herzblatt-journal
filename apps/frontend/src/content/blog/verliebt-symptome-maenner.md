@@ -127,3 +127,9 @@ Deine Rolle: Nicht drängen, aber klar kommunizieren, was du willst. Sei kein Op
 ## Das Wichtigste in einem Satz
 
 Verliebt-Symptome bei Männern erkennst du weniger an großen Gesten als an **konsistenter, respektvoller Investition in dich** — über Wochen und Monate. Alles andere kann Lovebombing, Sex-Interesse oder kurzfristiger Crush sein. Vertrau den Taten, nicht den Worten.
+
+## Weiterführende Artikel
+
+- [Liebe auf den ersten Blick: Mythos oder Realität](/blog/liebe-auf-den-ersten-blick)
+- [Männer verstehen: Was Männer wirklich denken und fühlen](/blog/maenner-verstehen-komplett-guide)
+- [Ist er verliebt? 25 eindeutige Anzeichen, die ihn verraten](/blog/mann-verliebt-anzeichen-komplett)

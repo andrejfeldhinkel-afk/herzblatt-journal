@@ -165,3 +165,8 @@ Ja. Dann ist es Zeit zu reden. Konkret: "Ich merke, dass mir die Beziehung in le
 - [Verschiedene Erziehungsstile als Paar](/blog/beziehung-verschiedene-erziehungsstile)
 - [Veganer liebt Fleischesser](/blog/beziehung-verschiedene-essgewohnheiten)
 
+## Weiterführende Artikel
+
+- [Links liebt Rechts – Beziehung mit unterschiedlichen](/blog/beziehung-verschiedene-politische-ueberzeugungen)
+- [Beziehung mit Sprachbarriere: Wenn Liebe keine Worte braucht](/blog/beziehung-verschiedene-sprachen)
+- [Beziehung auf Augenhoehe](/blog/beziehung-auf-augenhoehe-guide)

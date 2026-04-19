@@ -236,3 +236,9 @@ Das ist die Wahrheit, an der du arbeiten musst zu glauben.
 **Verwandte Artikel:**
 - [Selbstsabotage beim Dating: Warum du immer wieder die Falschen wählst](/blog/selbstsabotage-dating-muster-guide)
 - Grenzen setzen in Beziehungen: Der komplette Guide
+
+## Weiterführende Artikel
+
+- [Social-Media-Eifersucht: Der komplette Guide](/blog/social-media-eifersucht-guide)
+- [Retroaktive Eifersucht](/blog/beziehung-eifersucht-retroaktive)
+- [Eifersucht überwinden: Der komplette Guide](/blog/beziehung-und-eifersucht-ueberwinden)
