@@ -24,6 +24,9 @@ const ALLOWED_TARGETS = new Set([
   // Eigene Produkte (Conversion-Funnel-Tracking)
   'ebook-buy', 'ebook-buy-whop', 'ebook-buy-whop-open', 'ebook-buy-whop-complete',
   'ebook-buy-sofort', 'ebook-buy-paysafe', 'ebook-waitlist',
+  // Marketing / Social-Traffic-Out (CTAs die von Blog zu externen Socials leiten).
+  'link-tiktok', 'link-insta', 'link-instagram', 'link-youtube', 'link-facebook',
+  'link-x', 'link-twitter', 'link-pinterest', 'link-linkedin', 'link-telegram',
 ]);
 
 // Prüft ob target ein dynamisch registriertes Produkt ist (products.tracking_target).
