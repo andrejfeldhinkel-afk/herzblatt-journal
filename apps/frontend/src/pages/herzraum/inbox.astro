@@ -75,6 +75,15 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
       const $ = (id) => document.getElementById(id);
       let currentId = null;
 
+      // Sichere HTML-Escape-Funktion gegen XSS aus eingehenden E-Mails
+      // (subject / fromName / fromEmail / bodyText kommen via SendGrid-Webhook
+      // aus externer User-Input und müssen vor innerHTML-Nutzung escaped werden)
+      function esc(s) {
+        return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({
+          '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+        })[c]);
+      }
+
       async function updateUnreadCount() {
         try {
           const r = await fetch('/api/herzraum/inbox/unread-count').then(r => r.json());
@@ -100,14 +109,16 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
           }
           listEl.innerHTML = r.items.map(m => {
             const ts = m.receivedAt ? new Date(m.receivedAt).toLocaleString('de-DE', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' }) : '—';
-            const from = m.fromName ? `${m.fromName} <${m.fromEmail}>` : m.fromEmail;
-            return `<div class="mail-item ${m.status}" data-id="${m.id}">
-              <div class="mail-from">${from}</div>
-              <div class="mail-subject">${m.subject || '(kein Betreff)'}</div>
-              <div class="mail-preview">${(m.preview || '').replace(/</g, '&lt;')}</div>
+            const fromHtml = m.fromName
+              ? esc(m.fromName) + ' &lt;' + esc(m.fromEmail) + '&gt;'
+              : esc(m.fromEmail);
+            return `<div class="mail-item ${esc(m.status)}" data-id="${esc(m.id)}">
+              <div class="mail-from">${fromHtml}</div>
+              <div class="mail-subject">${m.subject ? esc(m.subject) : '(kein Betreff)'}</div>
+              <div class="mail-preview">${esc(m.preview || '')}</div>
               <div class="mail-meta">
-                <span class="hz-badge muted">${m.status}</span>
-                <span>${ts}</span>
+                <span class="hz-badge muted">${esc(m.status)}</span>
+                <span>${esc(ts)}</span>
               </div>
             </div>`;
           }).join('');
@@ -116,7 +127,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
             if (currentId && parseInt(el.dataset.id, 10) === currentId) el.classList.add('active');
           });
         } catch (err) {
-          listEl.innerHTML = `<div style="padding: 2rem; color: var(--hz-danger);">Fehler: ${err.message}</div>`;
+          listEl.innerHTML = `<div style="padding: 2rem; color: var(--hz-danger);">Fehler: ${esc(err && err.message)}</div>`;
         }
       }
 
@@ -135,33 +146,37 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
           const item = document.querySelector('.mail-item[data-id="' + id + '"]');
           if (item) item.classList.remove('unread');
         } catch (err) {
-          $('detail-content').innerHTML = `<div style="padding: 2rem; color: var(--hz-danger);">Fehler: ${err.message}</div>`;
+          $('detail-content').innerHTML = `<div style="padding: 2rem; color: var(--hz-danger);">Fehler: ${esc(err && err.message)}</div>`;
         }
       }
 
       function renderDetail(r) {
         const mail = r.mail;
         const thread = r.thread || [mail];
-        const subject = mail.subject || '(kein Betreff)';
+        const subjectText = mail.subject || '(kein Betreff)';
 
         const threadHtml = thread.map(m => {
           const ts = m.receivedAt ? new Date(m.receivedAt).toLocaleString('de-DE') : '—';
           const header = m.direction === 'out'
-            ? `<strong>An:</strong> ${m.toEmail}`
-            : `<strong>Von:</strong> ${m.fromName ? m.fromName + ' &lt;' + m.fromEmail + '&gt;' : m.fromEmail}`;
-          return `<div class="thread-msg ${m.direction}">
+            ? '<strong>An:</strong> ' + esc(m.toEmail)
+            : '<strong>Von:</strong> ' + (m.fromName
+                ? esc(m.fromName) + ' &lt;' + esc(m.fromEmail) + '&gt;'
+                : esc(m.fromEmail));
+          return `<div class="thread-msg ${esc(m.direction)}">
             <div class="thread-header">
               <span>${header}</span>
-              <span>${ts}${m.direction === 'out' ? ' · gesendet' : ''}</span>
+              <span>${esc(ts)}${m.direction === 'out' ? ' · gesendet' : ''}</span>
             </div>
-            <div class="thread-body">${(m.bodyText || '').replace(/</g, '&lt;')}</div>
+            <div class="thread-body">${esc(m.bodyText || '')}</div>
           </div>`;
         }).join('');
+
+        const replyPlaceholder = esc(mail.fromName || mail.fromEmail || '');
 
         $('detail-content').innerHTML = `
           <div style="padding: 1.25rem; border-bottom: 1px solid var(--hz-border); background: var(--hz-surface-2);">
             <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem;">
-              <h2 style="margin: 0; font-size: 1.1rem; font-family: 'Playfair Display', serif;">${subject}</h2>
+              <h2 style="margin: 0; font-size: 1.1rem; font-family: 'Playfair Display', serif;">${esc(subjectText)}</h2>
               <div style="display: flex; gap: 0.25rem; flex-shrink: 0;">
                 <button class="hz-btn sm" data-status="archived" title="Archivieren">🗄</button>
                 <button class="hz-btn sm" data-status="spam" title="Als Spam markieren">🚫</button>
@@ -174,7 +189,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
           </div>
           <div style="border-top: 1px solid var(--hz-border); padding: 1rem 1.25rem; background: var(--hz-bg-2);">
             <h4 style="margin: 0 0 0.5rem; font-size: 0.88rem;">Antwort schreiben</h4>
-            <textarea id="reply-body" rows="6" style="width: 100%; font-family: Georgia, serif; font-size: 0.9rem;" placeholder="Deine Antwort an ${mail.fromName || mail.fromEmail}…"></textarea>
+            <textarea id="reply-body" rows="6" style="width: 100%; font-family: Georgia, serif; font-size: 0.9rem;" placeholder="Deine Antwort an ${replyPlaceholder}…"></textarea>
             <div class="hz-row" style="margin-top: 0.5rem; gap: 0.5rem;">
               <div id="reply-result" style="flex: 1; font-size: 0.83rem; color: var(--hz-text-muted);"></div>
               <button id="send-reply-btn" class="hz-btn primary">Antwort senden</button>
@@ -219,10 +234,10 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
             });
             const d = await r.json();
             if (d.ok) {
-              result.innerHTML = '<span style="color: #16a34a;">✓ Gesendet an ' + d.to + '</span>';
+              result.innerHTML = '<span style="color: #16a34a;">✓ Gesendet an ' + esc(d.to) + '</span>';
               setTimeout(() => { openMail(mail.id); loadList(); }, 1200);
             } else {
-              result.innerHTML = '<span style="color: var(--hz-danger);">Fehler: ' + (d.error || 'unknown') + '</span>';
+              result.innerHTML = '<span style="color: var(--hz-danger);">Fehler: ' + esc(d.error || 'unknown') + '</span>';
               btn.disabled = false; btn.textContent = 'Antwort senden';
             }
           } catch (err) {

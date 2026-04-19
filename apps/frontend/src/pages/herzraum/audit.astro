@@ -34,6 +34,29 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
 
   <script is:inline>
     let entries = [];
+
+    // Sichere HTML-Escape-Funktion — action/target/actor/meta kommen aus
+    // audit_log-Tabelle und enthalten oft Slugs/Titel aus User-Input
+    // (z.B. article.create mit meta.title aus dem Artikel-Editor).
+    // Self-XSS-Vektor wenn ein kompromittierter Audit-Entry hier unescaped
+    // gerendert wird (DB-Kompromittierung oder Cross-Feature-XSS).
+    function esc(s) {
+      return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({
+        '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+      })[c]);
+    }
+
+    // Simple URL-Validator für commitUrl-Links — erlaubt nur http(s).
+    // Schutz gegen javascript:-URLs in meta.commitUrl.
+    function safeUrl(u) {
+      if (typeof u !== 'string') return '';
+      try {
+        const parsed = new URL(u, 'https://example.invalid');
+        if (parsed.protocol === 'http:' || parsed.protocol === 'https:') return u;
+      } catch { /* fall through */ }
+      return '';
+    }
+
     async function load() {
       try {
         const res = await fetch('/api/herzraum/audit-log?limit=500');
@@ -49,7 +72,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         });
         render();
       } catch (err) {
-        document.querySelector('#log-table tbody').innerHTML = '<tr><td colspan="5" style="color: var(--hz-danger);">Fehler: ' + err.message + '</td></tr>';
+        document.querySelector('#log-table tbody').innerHTML = '<tr><td colspan="5" style="color: var(--hz-danger);">Fehler: ' + esc(err && err.message) + '</td></tr>';
       }
     }
     function render() {
@@ -66,16 +89,36 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
       const tbody = document.querySelector('#log-table tbody');
       tbody.innerHTML = filtered.length
         ? filtered.map(e => {
-            const ts = e.ts ? new Date(e.ts).toLocaleString('de-DE', { day:'2-digit', month:'2-digit', year:'numeric', hour:'2-digit', minute:'2-digit', second:'2-digit' }) : '—';
-            const meta = e.meta
-              ? (e.meta.commitUrl ? '<a href="'+e.meta.commitUrl+'" target="_blank" style="color: var(--hz-primary); font-size: 0.75rem;">Commit ↗</a>' : '')
-              : '';
+            const tsRaw = e.ts ? new Date(e.ts) : null;
+            const tsValid = tsRaw && !isNaN(tsRaw.getTime());
+            const ts = tsValid
+              ? tsRaw.toLocaleString('de-DE', { day:'2-digit', month:'2-digit', year:'numeric', hour:'2-digit', minute:'2-digit', second:'2-digit' })
+              : '—';
+            // meta kann ein Objekt ODER null sein. commitUrl ggf. als Link;
+            // Rest als <pre> mit JSON-Dump (escaped).
+            let metaHtml = '';
+            if (e.meta && typeof e.meta === 'object') {
+              const commitUrl = safeUrl(e.meta.commitUrl || '');
+              const parts = [];
+              if (commitUrl) {
+                parts.push('<a href="' + esc(commitUrl) + '" target="_blank" rel="noopener" style="color: var(--hz-primary); font-size: 0.75rem;">Commit ↗</a>');
+              }
+              // Rest-Meta (ohne commitUrl) als dezenter JSON-Dump
+              const rest = {};
+              for (const k of Object.keys(e.meta)) {
+                if (k !== 'commitUrl') rest[k] = e.meta[k];
+              }
+              if (Object.keys(rest).length > 0) {
+                parts.push('<pre style="font-size: 0.7rem; color: var(--hz-text-dim); margin: 0.25rem 0 0; white-space: pre-wrap; word-break: break-all;">' + esc(JSON.stringify(rest)) + '</pre>');
+              }
+              metaHtml = parts.join(' ');
+            }
             return '<tr>'
-              +'<td class="muted" style="font-size: 0.8rem;">'+ts+'</td>'
-              +'<td><span class="hz-badge muted">'+e.action+'</span></td>'
-              +'<td><code style="font-size: 0.8rem;">'+(e.target||'—')+'</code></td>'
-              +'<td>'+e.actor+'</td>'
-              +'<td>'+meta+'</td>'
+              +'<td class="muted" style="font-size: 0.8rem;">'+esc(ts)+'</td>'
+              +'<td><span class="hz-badge muted">'+esc(e.action)+'</span></td>'
+              +'<td><code style="font-size: 0.8rem;">'+esc(e.target || '—')+'</code></td>'
+              +'<td>'+esc(e.actor)+'</td>'
+              +'<td>'+metaHtml+'</td>'
               +'</tr>';
           }).join('')
         : '<tr><td colspan="5" class="muted">Keine Einträge</td></tr>';

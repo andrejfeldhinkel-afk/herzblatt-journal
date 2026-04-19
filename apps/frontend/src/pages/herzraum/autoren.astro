@@ -100,6 +100,21 @@ for (const a of blog) {
     let editingSlug = null;
     let isNew = false;
 
+    // Sichere HTML-Escape-Funktion — alle dynamischen Felder müssen durch.
+    // Name/Role/Image/Expertise kommen aus apps/frontend/src/data/authors.ts
+    // via Backend; Backend-Schema erlaubt 100 Zeichen Name ohne Regex-Filter,
+    // daher ist Self-XSS durch kompromittierten Input realistisch.
+    function esc(s) {
+      return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({
+        '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+      })[c]);
+    }
+
+    // Avatar-Fallback-SVG als konstante data-URI — wird von image-error-Handler
+    // gesetzt. Früher inline als onerror="" im HTML — bricht, sobald a.image
+    // ein doppeltes Anführungszeichen enthält (attribute-injection).
+    const AVATAR_FALLBACK = 'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MCA4MCI+PGNpcmNsZSBjeD0iNDAiIGN5PSIzMCIgcj0iMTIiIGZpbGw9IiM2NDc0OGIiLz48cGF0aCBkPSJNMTUgNzAgQzE1IDU1IDI1IDUwIDQwIDUwIEM1NSA1MCA2NSA1NSA2NSA3MCBaIiBmaWxsPSIjNjQ3NDhiIi8+PC9zdmc+';
+
     async function loadAuthors() {
       $('list').innerHTML = '<div style="color: var(--hz-text-muted); padding: 2rem; text-align: center;">Lade…</div>';
       try {
@@ -109,25 +124,38 @@ for (const a of blog) {
         authorsData = data.authors;
         render();
       } catch (err) {
-        $('list').innerHTML = '<div style="color: var(--hz-danger);">Fehler: ' + err.message + '</div>';
+        $('list').innerHTML = '<div style="color: var(--hz-danger);">Fehler: ' + esc(err && err.message) + '</div>';
       }
     }
 
     function render() {
       const entries = Object.values(authorsData).sort((a, b) => a.name.localeCompare(b.name));
-      $('list').innerHTML = entries.map((a) => `
+      $('list').innerHTML = entries.map((a) => {
+        const count = articleCounts[a.slug] || 0;
+        const expertiseText = (a.expertise || []).slice(0, 4).join(', ');
+        return `
         <div class="hz-author-card">
-          <img src="${a.image}" alt="${a.name}" onerror="this.style.background='rgba(239,68,68,0.1)'; this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MCA4MCI+PGNpcmNsZSBjeD0iNDAiIGN5PSIzMCIgcj0iMTIiIGZpbGw9IiM2NDc0OGIiLz48cGF0aCBkPSJNMTUgNzAgQzE1IDU1IDI1IDUwIDQwIDUwIEM1NSA1MCA2NSA1NSA2NSA3MCBaIiBmaWxsPSIjNjQ3NDhiIi8+PC9zdmc+';"/>
+          <img src="${esc(a.image)}" alt="${esc(a.name)}" data-fallback="1" />
           <div>
-            <div class="hz-author-name">${a.name}</div>
-            <div class="hz-author-role">${a.role}</div>
-            <div class="hz-author-meta"><code>${a.slug}</code> · ${(articleCounts[a.slug] || 0)} Artikel · ${(a.expertise||[]).slice(0,4).join(', ')}</div>
+            <div class="hz-author-name">${esc(a.name)}</div>
+            <div class="hz-author-role">${esc(a.role)}</div>
+            <div class="hz-author-meta"><code>${esc(a.slug)}</code> · ${count} Artikel · ${esc(expertiseText)}</div>
           </div>
-          <button class="hz-btn" data-edit="${a.slug}">Bearbeiten</button>
+          <button class="hz-btn" data-edit="${esc(a.slug)}">Bearbeiten</button>
         </div>
-      `).join('');
+      `;
+      }).join('');
       document.querySelectorAll('[data-edit]').forEach((b) => {
         b.addEventListener('click', () => openEdit(b.dataset.edit));
+      });
+      // Image-Error-Handler via eventListener (nicht inline) — vermeidet
+      // attribute-injection via "-Zeichen im a.image-Pfad.
+      document.querySelectorAll('.hz-author-card img[data-fallback]').forEach((img) => {
+        img.addEventListener('error', function onImgErr() {
+          this.style.background = 'rgba(239,68,68,0.1)';
+          this.src = AVATAR_FALLBACK;
+          this.removeEventListener('error', onImgErr);
+        });
       });
     }
 
@@ -198,15 +226,16 @@ for (const a of blog) {
         const res = await fetch(url, { method, headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
         const data = await res.json();
         if (data.ok) {
-          $('m-success').innerHTML = '✓ Gespeichert — live in ~7 Min · <a href="'+data.commitUrl+'" target="_blank" style="color: var(--hz-primary);">Commit</a>';
+          $('m-success').innerHTML = '✓ Gespeichert — live in ~7 Min · <a href="'+esc(data.commitUrl)+'" target="_blank" rel="noopener" style="color: var(--hz-primary);">Commit</a>';
           $('m-success').style.display = 'block';
           setTimeout(() => { $('edit-modal').style.display = 'none'; loadAuthors(); }, 2500);
         } else {
-          $('m-error').textContent = 'Fehler: ' + (data.error||'unknown') + (data.issues ? ' — ' + JSON.stringify(data.issues) : '');
+          // textContent ist XSS-safe, kein esc() nötig — aber defensiv.
+          $('m-error').textContent = 'Fehler: ' + (data.error || 'unknown') + (data.issues ? ' — ' + JSON.stringify(data.issues) : '');
           $('m-error').style.display = 'block';
         }
       } catch (e) {
-        $('m-error').textContent = 'Netzwerk: ' + e.message;
+        $('m-error').textContent = 'Netzwerk: ' + (e && e.message);
         $('m-error').style.display = 'block';
       } finally {
         btn.disabled = false; btn.textContent = 'Speichern';
