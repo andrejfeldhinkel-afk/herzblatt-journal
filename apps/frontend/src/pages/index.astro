@@ -90,7 +90,11 @@ const testimonials = [
   <section class="relative overflow-hidden hero-section" style="min-height: 600px;">
     <!-- Background Image -->
     <div class="absolute inset-0">
-      <img src="/images/hero-bg.webp" alt="" width="1920" height="1080" class="w-full h-full object-cover object-center" style="object-position: center 30%;" loading="eager" fetchpriority="high" decoding="async" />
+      <picture>
+        <source srcset="/images/hero-bg.avif" type="image/avif" />
+        <source srcset="/images/hero-bg.webp" type="image/webp" />
+        <img src="/images/hero-bg.webp" alt="" width="1920" height="1080" class="w-full h-full object-cover object-center" style="object-position: center 30%;" loading="eager" fetchpriority="high" decoding="async" />
+      </picture>
       <div class="absolute inset-0 hero-overlay"></div>
     </div>
     <!-- Bottom fade into page bg -->
