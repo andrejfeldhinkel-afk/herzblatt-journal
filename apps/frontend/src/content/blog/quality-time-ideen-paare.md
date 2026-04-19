@@ -257,3 +257,9 @@ Kultiviert diese Momente. Seid präsent für sie. Und vergesst nicht, sie zu seh
 
 - [Beziehung auffrischen: 30 kreative Ideen gegen den Alltag](/blog/beziehung-auffrischen-ideen)
 - [Finanzplanung für Paare – So regelt ihr Geld richtig](/blog/beziehung-finanzplanung-paare)
+
+## Weiterführende Artikel
+
+- [Quality Time 2026: 40 Ideen für echte Zweisamkeit](/blog/beziehung-quality-time-ideen)
+- [Quality Time vs Quantity Time](/blog/beziehung-quality-time-vs-quantity)
+- [Beziehung auffrischen: 30 Ideen die sofort wirken](/blog/beziehung-auffrischen-30-ideen)

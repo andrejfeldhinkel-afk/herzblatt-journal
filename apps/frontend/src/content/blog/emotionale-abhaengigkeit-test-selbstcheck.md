@@ -209,3 +209,9 @@ Du kannst das auch.
 **Weitere hilfreiche Artikel:**
 - [Freundschaft Plus: Regeln, die funktionieren](/blog/freundschaft-plus-regeln-komplett)
 - [Beziehung Langweile überwinden](/blog/beziehung-langweile-ueberwinden)
+
+## Weiterführende Artikel
+
+- [Emotionale Abhängigkeit: Der komplette Guide für mehr Una...](/blog/emotionale-abhaengigkeit-komplett-guide)
+- [Emotionale Abhängigkeit überwinden: Unabhängigkeit](/blog/emotionale-abhaengigkeit)
+- [Emotionale Intelligenz im Dating: Warum EQ wichtiger ist?](/blog/emotionale-intelligenz-dating)

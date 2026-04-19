@@ -175,3 +175,9 @@ Das schafft Raum für echte Nähe. Keine Unsicherheit. Keine ständigen Kontroll
 Das ist die Kraft der richtigen Worte. Sie kosten dich nichts. Aber sie ändern alles.
 
 Fang heute an. Sag deinem Partner etwas Aufrichtiges, das du denkst, aber nicht oft aussprichst. Beobachte seinen Blick. Das ist der Moment, in dem du merkst: Das war wichtig.
+
+## Weiterführende Artikel
+
+- [Die 5 Love Languages: Welche Sprache sprichst du und dein Partner?](/blog/love-languages)
+- [Aktives Zuhören lernen: Die verlorene Kunst, die deine Beziehung rettet](/blog/aktives-zuhoeren)
+- [Emotionale Distanz in der Beziehung überbrücken](/blog/beziehung-emotionale-distanz-ueberbruecken)

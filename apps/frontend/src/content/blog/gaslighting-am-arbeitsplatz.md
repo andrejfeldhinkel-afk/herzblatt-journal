@@ -161,3 +161,9 @@ Dein mentale Gesundheit ist wichtiger als ein Job. Punkt.
 Wenn du Gaslighting am Arbeitsplatz erlebst, könnten auch diese Artikel helfen:
 - [Work-Life Balance: Wenn der Job dein Leben übernimmt](/blog/beziehung-work-life-balance)
 - [Grenzen setzen im Job: Professionelle Grenzen schützen](/blog/gaslighting-am-arbeitsplatz)
+
+## Weiterführende Artikel
+
+- [ADHS und Beziehung: Der komplette Guide für Liebe](/blog/adhs-und-beziehung-komplett-guide)
+- [Affäre beenden: So findest du den Ausweg](/blog/affaere-beenden-guide)
+- [Altersunterschied in der Beziehung: Ab wann Problem?](/blog/altersunterschied-beziehung-guide)

@@ -135,3 +135,9 @@ Weitere Artikel zu diesem Thema:
 - [Heirat oder Partnerschaft — was ist der Unterschied?](/blog/heiraten-ja-oder-nein/)
 - Testament schreiben — So geht's richtig
 - [Unterhalt und Alimente — Deine Rechte als Partner](/blog/scheidung-kosten-ratgeber/)
+
+## Weiterführende Artikel
+
+- [Liebe ohne Schmetterlinge: Echt & tief](/blog/beziehung-ohne-schmetterling)
+- [Streiten ohne zu verletzen: Faire Konfliktlösung für Paare](/blog/streiten-ohne-verletzen)
+- [Trennung ohne Kampf: Respektvoll auseinandergehen](/blog/trennung-ohne-kampf)

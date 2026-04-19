@@ -180,3 +180,9 @@ Das ist gesunde Liebe.
 ---
 
 **Weitere Artikel zum Thema:** [Gesunde Grenzen setzen](/blog/gesunde-grenzen-setzen-beziehung), [Unabhängigkeit in der Beziehung](/blog/emotionale-abhaengigkeit)
+
+## Weiterführende Artikel
+
+- [Einseitige Beziehung erkennen — Wenn du die Einzige](/blog/einseitige-beziehung-erkennen)
+- [Emotionale Erpressung erkennen und stoppen](/blog/emotionale-erpressung-beziehung)
+- ['Emotionale Erpressung in der Beziehung](/blog/emotionale-erpressung-beziehung-erkennen)

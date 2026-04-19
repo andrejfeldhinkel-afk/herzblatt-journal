@@ -190,3 +190,9 @@ Für Tipps nach einer Trennung, schau [unseren Artikel über die erste Beziehung
 Schlussmachen ist nicht einfach. Aber es kann mit Respekt, Ehrlichkeit und Mitgefühl getan werden. Das ist nicht nur das Richtige für die andere Person – es ist auch das Richtige für dich.
 
 Wenn du weißt, dass die Beziehung vorbei ist, dann hab den Mut, es zu beenden. Und tu es mit Integrität. Das ist das beste Geschenk, das du beiden geben kannst.
+
+## Weiterführende Artikel
+
+- [Beziehung nach Kindsverlust: Gemeinsam trauern](/blog/beziehung-nach-kindsverlust)
+- [Nach dem Streit: Richtig vertragen und Nähe zurückgewinnen](/blog/beziehung-streit-richtig-vertragen)
+- [Entschuldigungen annehmen: Warum es so schwer fällt](/blog/entschuldigung-richtig-annehmen)

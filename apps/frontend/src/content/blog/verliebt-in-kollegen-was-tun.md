@@ -174,3 +174,9 @@ Egal ob du sprichst oder nicht, ob es funktioniert oder nicht – deine Karriere
 **Weitere hilfreiche Artikel:**
 - [Wie du deinen Schwarm ansprichst – Mit Mut und Authentizität](/blog/schwarm-ansprechen-tipps)
 - [Emotionale Abhängigkeit erkennen und überwinden](/blog/emotionale-abhaengigkeit-test-selbstcheck)
+
+## Weiterführende Artikel
+
+- [Unglücklich verliebt: Was du wirklich tun kannst (und was...](/blog/ungluecklich-verliebt-was-tun)
+- [Frisch verliebt: Die Phase bewusst genießen – Ein Ratgeber](/blog/frisch-verliebt-phase-geniessen)
+- [Verliebt in deine beste Freundin: Wie du damit umgehst](/blog/verliebt-in-beste-freundin)

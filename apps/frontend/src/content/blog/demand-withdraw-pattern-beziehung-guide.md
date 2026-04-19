@@ -93,3 +93,9 @@ Plötzlich, es gibt keine Nähe. Es gibt nur zwei Menschen, die lernen, allein z
 
 ### Extramarital-Angelegenheiten oder [Stonewalling: Wenn dein Partner dich mit Schweigen bestraft](/blog/stonewalling-mauern-beziehung-guide)
 - [Radikale Akzeptanz in Beziehungen: Deinen Partner wirklich annehmen](/blog/radical-acceptance-beziehung-guide)
+
+## Weiterführende Artikel
+
+- [Co-Abhängigkeit überwinden](/blog/codependency-recovery-beziehung-guide)
+- [Fantasy Bond: Wenn deine Beziehung nur eine Illusion von ...](/blog/fantasy-bond-beziehung-illusion-guide)
+- [Projektion in Beziehungen verstehen und stoppen](/blog/projektion-beziehung-psychologie)

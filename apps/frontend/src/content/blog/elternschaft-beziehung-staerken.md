@@ -84,3 +84,9 @@ Das wird vorbei sein. Die Kinder werden größer. Irgendwann schlafen sie durch.
 
 - [Beziehungsrituale: Kleine Gewohnheiten die eure Liebe](/blog/beziehung-rituale-paare-staerken)
 - [Rituale die eure Beziehung stärken](/blog/beziehung-rituale-staerken)
+
+## Weiterführende Artikel
+
+- [Beziehung stärken nach dem Elternwerden](/blog/beziehung-staerken-nach-elternwerden)
+- [Beziehung auffrischen: 30 Ideen die sofort wirken](/blog/beziehung-auffrischen-30-ideen)
+- [Bucket List für Paare – 50 Momente, die eure Beziehung le...](/blog/beziehung-bucket-list)

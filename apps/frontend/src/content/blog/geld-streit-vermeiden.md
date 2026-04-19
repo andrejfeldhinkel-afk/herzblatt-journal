@@ -219,3 +219,9 @@ Das zu erkennen ist auch eine Form von Liebe — die Liebe zu dir selbst.
 
 - [Geld in der Beziehung 2026: Der Finanz-Guide für Paare](/blog/beziehung-geld-gespraeche-guide)
 - [Fair streiten: 10 Regeln für gesunde Konflikte](/blog/beziehung-streit-guide)
+
+## Weiterführende Artikel
+
+- [Abendliche Streitigkeiten vermeiden](/blog/beziehung-streit-am-abend-vermeiden)
+- [Geldstreit in der Beziehung lösen](/blog/beziehung-streit-geld-loesen)
+- [Grenzen setzen in der Beziehung ohne Streit](/blog/beziehung-grenzen-setzen-ohne-streit)

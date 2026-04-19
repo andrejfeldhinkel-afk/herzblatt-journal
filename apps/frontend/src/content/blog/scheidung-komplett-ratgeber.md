@@ -915,3 +915,9 @@ Die Welt wartet auf dich.
 Es wird schmerzhaft sein. Es wird unfair fühlen. Es wird schwierig.
 
 Aber du schaffst es.
+
+## Weiterführende Artikel
+
+- [ADHS und Beziehung: Der komplette Guide für Liebe](/blog/adhs-und-beziehung-komplett-guide)
+- [Affäre beenden: So findest du den Ausweg](/blog/affaere-beenden-guide)
+- [Altersunterschied in der Beziehung: Ab wann Problem?](/blog/altersunterschied-beziehung-guide)

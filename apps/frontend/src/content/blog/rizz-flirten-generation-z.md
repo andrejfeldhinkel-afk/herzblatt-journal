@@ -138,3 +138,8 @@ Das ist befreier. Und das ist warum Rizz geblieben ist, über den anderen kurzfr
 - [Rizz verbessern – Die Kunst des modernen Flirtens [ Guide]](/blog/rizz-tipps-flirten)
 - [Flirten für Introvertierte: Stille Stärken nutzen](/blog/introvertiert-flirten-lernen)
 
+## Weiterführende Artikel
+
+- [Flirten im Alltag: 15 Orte wo du ohne App Menschen](/blog/flirten-im-supermarkt-alltag)
+- [Flirten lernen: Der komplette Guide von A bis Z](/blog/flirten-komplett-guide)
+- [Flirten lernen: Der ultimative Guide für Anfänger](/blog/flirten-lernen)

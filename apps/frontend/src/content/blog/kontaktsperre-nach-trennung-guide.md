@@ -213,3 +213,9 @@ Aber es funktioniert. Es heilt dich. Es gibt dir dein Leben zurück.
 Hab Mut. Blockier deinen Ex. Füll die Zeit mit dir selbst. Und nach einer Weile, merkst du, dass du nicht mehr an sie/ihn denkst – und dass das großartig ist.
 
 Du wirst wieder ganz. Das verspreche ich dir.
+
+## Weiterführende Artikel
+
+- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung-wann-bereit)
+- [Grenzen setzen nach der Trennung](/blog/grenzen-nach-trennung-setzen)
+- [Trennung verarbeiten: Schritt für Schritt](/blog/trennung-verarbeiten-komplett)

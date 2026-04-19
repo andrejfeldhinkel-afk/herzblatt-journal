@@ -227,3 +227,9 @@ Und wahrscheinlich wirst du auch.
 **Weitere Artikel zum Thema:**
 - [Das Demand-Withdraw-Muster: Wenn einer immer fordert und der andere flieht](/blog/demand-withdraw-pattern-beziehung-guide)
 - [Stonewalling: Wenn dein Partner dich mit Schweigen bestraft](/blog/stonewalling-mauern-beziehung-guide)
+
+## Weiterführende Artikel
+
+- [Die wichtigste Beziehung: Die mit dir selbst](/blog/beziehung-mit-sich-selbst)
+- [Emotionale Reife in Beziehungen](/blog/emotionale-reife-beziehung-guide)
+- [Dating nach Therapie: Gesünder lieben lernen](/blog/dating-nach-therapie)

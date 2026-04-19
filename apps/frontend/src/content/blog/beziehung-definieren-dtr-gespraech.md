@@ -93,3 +93,8 @@ Das ist weniger eine Aussage und mehr eine Einladung zum Dialog. Du gibst der an
 "Weißt du, wenn ich mit dir zusammen bin, fühle ich mich anders als mit anderen Menschen. Ich glaube, ich bin [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 - [Großer Altersunterschied in der Beziehung](/blog/beziehung-altersunterschied-gross)
 
+## Weiterführende Artikel
+
+- [Beziehung nach langer Single-Phase: Umstellung meistern](/blog/beziehung-nach-langer-single-phase)
+- [Dating als Alleinerziehende/r: Der ehrliche Eltern-Guide](/blog/dating-als-elternteil-guide)
+- [Freundschaft Plus: Wenn Gefühle plötzlich doch da sind](/blog/freundschaft-plus-gefuehle)

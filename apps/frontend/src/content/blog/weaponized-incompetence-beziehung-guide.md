@@ -239,3 +239,9 @@ Du verdienst ein echte, gegenseitige Partnerschaft, in der du nicht allein alles
 **Verwandte Artikel:**
 - Grenzen setzen in Beziehungen: Der komplette Guide
 - [Selbstsabotage beim Dating: Warum du immer wieder die Falschen wählst](/blog/selbstsabotage-dating-muster-guide)
+
+## Weiterführende Artikel
+
+- [Breadcrumbing: Wenn er dich mit Brotkrumen bei der Stange...](/blog/breadcrumbing-dating-manipulation-guide)
+- [Wenn die Lust nachlässt: Ursachen und Lösungen](/blog/beziehung-nach-sexueller-unlust)
+- [Liebe trotz politischer Unterschiede](/blog/beziehung-unterschiedliche-politische-ansichten)

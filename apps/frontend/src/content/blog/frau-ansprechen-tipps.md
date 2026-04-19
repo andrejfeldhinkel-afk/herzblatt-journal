@@ -179,3 +179,8 @@ Nicht von dir selbst reden. Nicht deine Erfolgsgeschichte erzählen. Frag sie na
 **Fehler 1: Zu viele [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Kinderwunsch in der Partnerschaft ansprechen](/blog/kinderwunsch-partnerschaft-ansprechen)
 
+## Weiterführende Artikel
+
+- [Schwarm ansprechen: So machst du den ersten Schritt](/blog/crush-ansprechen-tipps)
+- [Frauen ansprechen: So gelingt der Kontakt](/blog/dating-frauen-ansprechen)
+- [Frauen ansprechen: Respektvoll und authentisch (nicht Pic...](/blog/frauen-ansprechen-guide)

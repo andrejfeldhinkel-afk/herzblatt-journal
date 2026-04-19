@@ -1209,3 +1209,9 @@ Du bist genug.
 Das ist die letzte Wahrheit, die ich dir gebe.
 
 Halte daran fest.
+
+## Weiterführende Artikel
+
+- [Emotionale Affäre: Erkennen und damit umgehen](/blog/emotionale-affaere-erkennen)
+- [Anzeichen dass er mich liebt — 15+ Signale erkannt](/blog/anzeichen-dass-er-mich-liebt)
+- [Beziehungs-Gesundheits-Check](/blog/beziehung-gesundheits-check)

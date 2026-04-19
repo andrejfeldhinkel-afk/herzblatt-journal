@@ -162,3 +162,9 @@ Das ist ein Geschenk, auch wenn es sich nicht so anfühlt.
 Wenn du als alleinerziehender Vater daten möchtest, könnten auch diese Artikel helfen:
 - [Co-Parenting: Wie du mit deinem Ex harmonisch zusammenarbeitest](/blog/co-parenting-dating)
 - [Kommunikation in Beziehungen: Wie du ehrlich sprichst](/blog/kommunikation-beziehung)
+
+## Weiterführende Artikel
+
+- [Dating ab 50: Der komplette Guide für die Liebe](/blog/dating-ab-50-kompletter-guide)
+- [Dating als schüchterner Mann](/blog/dating-als-schuchterner-mann)
+- [Dating als schüchterne Person: Der komplette Guide](/blog/dating-als-schuechterne-person-guide)

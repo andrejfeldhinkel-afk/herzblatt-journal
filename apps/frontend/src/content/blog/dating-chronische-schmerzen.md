@@ -164,3 +164,8 @@ Ein Therapeut, der Beziehungen UND chronische Schmerzen versteht, ist wertvoll. 
 Sie müssen nicht alles "ertragen". Wenn ein Partner aktiv nicht unterstützen will, das ist seine Wahl. Aber es bedeutet nicht, dass Sie die [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
 - [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 
+## Weiterführende Artikel
+
+- [Dating als pflegender Angehöriger](/blog/dating-als-pflegender-angehoeriger)
+- [Dating als schüchterne Person: Der komplette Guide](/blog/dating-als-schuechterne-person-guide)
+- [Dating als Veganer: Wenn Ernährung zur Frage wird](/blog/dating-als-veganer-vegetarier)

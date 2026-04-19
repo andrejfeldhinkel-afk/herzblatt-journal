@@ -186,3 +186,9 @@ Also sei sanft mit dir selbst. Diese Gefühle sind nicht dumm. Sie sind menschli
 **Weitere hilfreiche Artikel:**
 - [Verliebt in Kollegen – Was du wissen musst](/blog/verliebt-in-kollegen-was-tun)
 - [Emotionale Abhängigkeit erkennen und überwinden](/blog/emotionale-abhaengigkeit-test-selbstcheck)
+
+## Weiterführende Artikel
+
+- [Freundschaft Plus: Gefühle entwickelt – Wie du damit umgehst](/blog/freundschaft-plus-gefuehle-entwickelt)
+- [Wenn Freundschaft zu Liebe wird](/blog/freundschaft-wird-liebe)
+- [Frisch verliebt: Die Phase bewusst genießen – Ein Ratgeber](/blog/frisch-verliebt-phase-geniessen)

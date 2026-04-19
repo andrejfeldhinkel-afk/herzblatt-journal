@@ -154,3 +154,9 @@ Genieße die frisch-verliebt Phase. Aber verlier dich nicht darin. Bleib du selb
 **Weitere hilfreiche Artikel:**
 - [Beziehung Langweile überwinden](/blog/beziehung-langweile-ueberwinden)
 - [Emotionale Abhängigkeit erkennen und überwinden](/blog/emotionale-abhaengigkeit-test-selbstcheck)
+
+## Weiterführende Artikel
+
+- [Beziehungspause: Guide zur Trennung auf Zeit](/blog/beziehungspause-komplett-guide)
+- [Seelenpartner: Gibt es Die Eine oder ist Das ein Mythos?](/blog/seelenpartner-komplett-guide)
+- [Unglücklich verliebt: Was du wirklich tun kannst (und was...](/blog/ungluecklich-verliebt-was-tun)
