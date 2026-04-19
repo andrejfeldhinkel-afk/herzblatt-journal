@@ -161,6 +161,198 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
     #legend, #stats { display: none; }
     #activity { width: calc(100vw - 40px); max-width: 380px; }
   }
+
+/* ─── Mode-Toggle ─── */
+.mode-toggle {
+  display: inline-flex; gap: 2px; padding: 3px;
+  background: rgba(255,255,255,.05);
+  border: 1px solid rgba(255,255,255,.08);
+  border-radius: 10px;
+  margin-left: auto;
+  font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+}
+.mode-btn {
+  padding: 7px 16px; font-size: 12px; font-weight: 600;
+  color: var(--muted, #7a7d8f); background: transparent;
+  border: 0; border-radius: 7px; cursor: pointer;
+  transition: all .15s ease;
+  letter-spacing: 0.04em;
+}
+.mode-btn:hover { color: #f3f4f8; background: rgba(255,255,255,.04); }
+.mode-btn.active {
+  color: #f3f4f8;
+  background: rgba(255,56,104,.22);
+  box-shadow: inset 0 0 0 1px rgba(255,56,104,.4), 0 0 20px rgba(255,56,104,.15);
+}
+
+/* ─── Live-Vitals (top-right, always visible) ─── */
+.live-vitals {
+  position: fixed; top: 86px; right: 20px; z-index: 50;
+  width: 240px;
+  background: rgba(10,8,24,.8);
+  backdrop-filter: blur(14px);
+  border: 1px solid rgba(255,255,255,.08);
+  border-radius: 14px;
+  padding: 14px 16px;
+  font-family: 'SF Mono', ui-monospace, 'Menlo', monospace;
+  font-size: 11px;
+  color: var(--muted-2, #a5a7b8);
+}
+.live-vitals::before {
+  content: ''; position: absolute; inset: -1px;
+  border-radius: inherit; pointer-events: none;
+  background: linear-gradient(135deg, rgba(255,56,104,.4), rgba(34,211,238,.3), transparent 50%);
+  padding: 1px;
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor; mask-composite: exclude;
+  opacity: 0.6;
+}
+.lv-row { display: flex; align-items: center; gap: 8px; padding: 4px 0;
+  border-bottom: 1px solid rgba(255,255,255,.04); }
+.lv-row:last-child { border-bottom: 0; }
+.lv-row b { margin-left: auto; color: #f3f4f8; font-weight: 700;
+  font-variant-numeric: tabular-nums; letter-spacing: 0.03em; }
+.lv-label { color: #64748b; text-transform: uppercase;
+  letter-spacing: 0.1em; font-size: 10px; }
+.lv-dot {
+  width: 8px; height: 8px; border-radius: 50%;
+  background: #22c55e; box-shadow: 0 0 10px #22c55e;
+  animation: lv-pulse 1.6s ease-in-out infinite;
+}
+@keyframes lv-pulse { 50% { box-shadow: 0 0 16px #22c55e, 0 0 4px #22c55e; } }
+.lv-pulse {
+  margin-left: auto; width: 4px; height: 4px; border-radius: 50%;
+  background: #22c55e; animation: lv-pulse 1.2s ease-in-out infinite;
+}
+.lv-tplus { color: #22d3ee !important; text-shadow: 0 0 8px rgba(34,211,238,.5); }
+
+/* Live-Vitals only visible on live tab, Stats-panel hidden on live */
+body[data-mode="map"] .live-vitals,
+body[data-mode="story"] .live-vitals { display: none; }
+body[data-mode="live"] #stats,
+body[data-mode="live"] #legend,
+body[data-mode="live"] #activity,
+body[data-mode="live"] .sm-stage,
+body[data-mode="live"] #story-container,
+body[data-mode="story"] #stats,
+body[data-mode="story"] #legend,
+body[data-mode="story"] #activity { display: none; }
+body[data-mode="live"] .sm-header,
+body[data-mode="story"] .sm-header { background: linear-gradient(180deg, rgba(4,4,12,.95), rgba(4,4,12,.7) 60%, transparent); }
+
+/* ─── Story-Container ─── */
+.story-container {
+  display: none; position: fixed; inset: 64px 0 0 0;
+  overflow-y: auto; overflow-x: hidden;
+  scroll-snap-type: y proximity;
+  padding: 0 5% 10vh 5%;
+  background: radial-gradient(ellipse at 30% 20%, rgba(139,92,246,.18), transparent 50%),
+              radial-gradient(ellipse at 70% 80%, rgba(255,56,104,.14), transparent 55%);
+}
+body[data-mode="story"] .story-container { display: block; }
+
+.chapter {
+  min-height: calc(100vh - 64px);
+  display: grid; place-content: center; gap: 0.8rem;
+  max-width: 880px; margin: 0 auto;
+  padding: 8vh 0;
+  scroll-snap-align: start;
+  opacity: 0.3;
+  transition: opacity .4s ease;
+}
+.chapter.active { opacity: 1; }
+.ch-num {
+  font-family: 'SF Mono', ui-monospace, monospace;
+  font-size: 14px; font-weight: 700;
+  color: #ff3868;
+  letter-spacing: 0.3em;
+  text-shadow: 0 0 20px rgba(255,56,104,.6);
+}
+.ch-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: clamp(2.2rem, 6vw, 4.5rem); font-weight: 800;
+  line-height: 1; letter-spacing: -0.03em;
+  color: #f3f4f8;
+  margin: 0;
+  background: linear-gradient(135deg, #f3f4f8 40%, #ff8da6 100%);
+  -webkit-background-clip: text; background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.ch-lead {
+  font-size: 0.85rem;
+  font-family: 'SF Mono', ui-monospace, monospace;
+  color: #a5a7b8;
+  text-transform: uppercase; letter-spacing: 0.18em;
+  margin: 0;
+}
+.ch-body {
+  font-size: 1.1rem; line-height: 1.65;
+  color: #c5c7d4;
+  max-width: 68ch;
+}
+.ch-body b { color: #f3f4f8; font-weight: 600; }
+.ch-body code {
+  background: rgba(255,56,104,.12); color: #ff8da6;
+  padding: 1px 7px; border-radius: 4px;
+  font-family: 'SF Mono', ui-monospace, monospace;
+  font-size: 0.88em;
+}
+.ch-lessons {
+  list-style: none; padding: 0; margin: 0;
+  display: grid; gap: 1rem;
+}
+.ch-lessons li {
+  background: rgba(255,255,255,.03);
+  border: 1px solid rgba(255,255,255,.06);
+  border-left: 3px solid #22d3ee;
+  padding: 14px 18px; border-radius: 8px;
+  font-size: 0.95rem; line-height: 1.55;
+  color: #c5c7d4;
+}
+.ch-lessons li b { color: #22d3ee; font-weight: 600; }
+
+.impact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+.impact-grid.total { grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1rem; }
+.impact-card {
+  background: rgba(255,255,255,.03);
+  border: 1px solid rgba(255,255,255,.06);
+  border-radius: 10px;
+  padding: 14px 16px;
+  text-align: left;
+  transition: all .2s;
+}
+.impact-card:hover {
+  border-color: rgba(255,56,104,.3);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 20px rgba(255,56,104,.08);
+}
+.impact-card b {
+  display: block;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1.8rem; font-weight: 800;
+  color: #f3f4f8; line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+.impact-card span {
+  font-size: 0.7rem;
+  text-transform: uppercase; letter-spacing: 0.12em;
+  color: #7a7d8f;
+  margin-top: 6px; display: block;
+}
+.impact-card.critical b { color: #ff3868; text-shadow: 0 0 12px rgba(255,56,104,.4); }
+.impact-card.save b { color: #22c55e; text-shadow: 0 0 12px rgba(34,197,94,.4); }
+.impact-card.mega b { font-size: 2.6rem; }
+
+/* Story mode dims map nodes except highlighted */
+.sm-stage.story-dim .node { opacity: 0.12; transition: opacity .4s ease; }
+.sm-stage.story-dim .node.highlight { opacity: 1; filter: drop-shadow(0 0 10px currentColor); }
+.sm-stage.story-dim .edge { opacity: 0.08; }
+
 </style>
 
 <div class="stars"></div>
@@ -169,8 +361,90 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
   <span class="brand"><span class="brand-dot"></span>Herzblatt Journal · 38-PR Vollautomatik</span>
   <h1>Agent Session Map</h1>
   <span class="sub">~6 h · 10 Agents · 38 PRs · 6 CRITICAL</span>
-  <span class="status-live">Session · Live</span>
+  <nav class="mode-toggle" role="tablist">
+    <button class="mode-btn active" data-mode="map">Map</button>
+    <button class="mode-btn" data-mode="story">Story</button>
+    <button class="mode-btn" data-mode="live">Live</button>
+  </nav>
 </header>
+
+<aside id="live-vitals" class="live-vitals">
+  <div class="lv-row"><span class="lv-dot ok"></span>Session · <b>Live</b><span class="lv-pulse"></span></div>
+  <div class="lv-row"><span class="lv-label">T+</span><b class="lv-tplus" id="lv-tplus">00:00:00</b></div>
+  <div class="lv-row"><span class="lv-label">Agents</span><b id="lv-agents">—</b></div>
+  <div class="lv-row"><span class="lv-label">PR-Rate</span><b id="lv-prrate">—</b></div>
+  <div class="lv-row"><span class="lv-label">Uptime</span><b id="lv-uptime">—</b></div>
+</aside>
+
+<section id="story-container" class="story-container" aria-hidden="true">
+  <article class="chapter" data-chapter="1" data-highlight="a-p1,a-p2,a-p5,a-cr,a-sec,a-ui">
+    <div class="ch-num">01</div>
+    <h2 class="ch-title">Die Entdeckung</h2>
+    <p class="ch-lead">12:00 – 14:30 · 6 Audit-Agents kartografieren den Code</p>
+    <p class="ch-body">Sechs parallele Agents scannen 23 Admin-Pages, 37 Backend-Routes, 15 DB-Tabellen. Ergebnis: <b>27 Findings</b>, davon <b>3 CRITICAL</b>. Der UI-Auditor gibt der Landing-Page 14,3 / 24 — fake Forms, Dark-Patterns, Brand-Inkonsistenz. Der Security-Auditor findet 3 Secret-Leaks in <code>docs/plans/</code>, SQL-Injection im Drizzle-Stack, fehlende Rate-Limits, CSRF-Lücken.</p>
+    <div class="impact-grid">
+      <div class="impact-card"><b>27</b><span>Findings</span></div>
+      <div class="impact-card critical"><b>3</b><span>CRITICAL</span></div>
+      <div class="impact-card"><b>6</b><span>Agents parallel</span></div>
+    </div>
+  </article>
+
+  <article class="chapter" data-chapter="2" data-highlight="pr17,pr18,pr19,pr20,f-p4,f-xss,a-sec">
+    <div class="ch-num">02</div>
+    <h2 class="ch-title">Die Krise</h2>
+    <p class="ch-lead">15:20 – 15:40 · 20 Minuten, 4 CRITICAL PRs, 5 Secrets rotiert</p>
+    <p class="ch-body">Um 15:20 eskaliert es: der Security-Auditor hat 4 Docs mit live API-Keys committet gefunden. Binnen 20 Minuten: <b>PR #17</b> entfernt die Leak-Dateien und rotiert parallel 5 Secrets in Railway. <b>PR #18</b> patcht eine Drizzle-SQL-Injection (GHSA-gpj5-g38j-94v9). <b>PR #19</b> verhindert duplicate <code>purchases</code>-Inserts (crypto-Fail-Closed + Unsubscribe-Secret). <b>PR #20</b> eliminiert drei XSS-Lücken im Admin (Inbox, Autoren, Audit). Kein Prod-Outage.</p>
+    <div class="impact-grid">
+      <div class="impact-card critical"><b>5</b><span>Keys rotiert</span></div>
+      <div class="impact-card critical"><b>3</b><span>XSS gefixt</span></div>
+      <div class="impact-card critical"><b>1</b><span>SQL-Inj gepatcht</span></div>
+      <div class="impact-card"><b>0</b><span>Outages</span></div>
+    </div>
+  </article>
+
+  <article class="chapter" data-chapter="3" data-highlight="f-p4,f-xss,f-ux,f-admin">
+    <div class="ch-num">03</div>
+    <h2 class="ch-title">Die Welle</h2>
+    <p class="ch-lead">16:30 – 17:30 · 4 Fixer-Agents parallel, 6 PRs ausgeliefert</p>
+    <p class="ch-body">Der Coordinator spawned 4 Fixer-Agents gleichzeitig. Jeder arbeitet einen eigenen Audit-Bereich ab: Backend-Hardening (Rate-Limits, UNIQUE, Retention, GDPR), UX-P0 (Kontakt-Form echt, Brand-Consistency, Fake-Counter raus), A11y-P1 (Skip-Link, 44px Touch, Blog-Pagination), Admin-CRITICAL. In 60 Minuten landen <b>6 PRs</b>. Alle Tests grün, alle Reviews clean.</p>
+    <div class="impact-grid">
+      <div class="impact-card"><b>4</b><span>Fixer parallel</span></div>
+      <div class="impact-card"><b>6</b><span>PRs / 60 min</span></div>
+      <div class="impact-card"><b>24/24</b><span>Tests grün</span></div>
+    </div>
+  </article>
+
+  <article class="chapter" data-chapter="4" data-highlight="pr30,pr29,pr22,pr23,a-ebook,a-bonus,a-delivery,a-adminlive,f-admin">
+    <div class="ch-num">04</div>
+    <h2 class="ch-title">Das Comeback</h2>
+    <p class="ch-lead">17:00 – 18:10 · 1.164 Artikel gerettet, E-Book live</p>
+    <p class="ch-body">Der Live-Admin-Durchklick findet in Minute 17:05 einen <b>CRITICAL Data-Loss-Bug</b> im Artikel-Editor: YAML-Inline-Array-Parser crasht bei <code>keywords: ["a","b"]</code> — jeder Save hätte den Body gewiped. Betroffen: <b>1.164 Artikel</b>. Admin-Fixer liefert PR #30, Tests, Deploy in 65 Minuten. Gleichzeitig geht das komplette E-Book-Delivery-System live (PR #29): Token-Access, /ebook/lesen, SendGrid, Admin-Resend. Plus 12 Ebook-Kapitel (PR #22) und 5 Bonus-Materialien (PR #23).</p>
+    <div class="impact-grid">
+      <div class="impact-card save"><b>1.164</b><span>Artikel gerettet</span></div>
+      <div class="impact-card"><b>15 / 15</b><span>Ebook-Kapitel</span></div>
+      <div class="impact-card"><b>5 / 5</b><span>Bonus-Materialien</span></div>
+      <div class="impact-card"><b>~46k</b><span>Wörter Content</span></div>
+    </div>
+  </article>
+
+  <article class="chapter" data-chapter="5" data-highlight="main">
+    <div class="ch-num">05</div>
+    <h2 class="ch-title">Was wir gelernt haben</h2>
+    <p class="ch-lead">Vier replicable Patterns für die nächste Session</p>
+    <ul class="ch-lessons">
+      <li><b>Audit vor Code.</b> 6 Audit-Agents upfront kosten 90 Minuten und sparen Stunden Fixing-Zeit später. Jede gefundene CRITICAL war ein verhinderter Incident.</li>
+      <li><b>Fixer-Waves.</b> 4 Fixer parallel arbeiten, wenn ihre Bereiche disjunkt sind. Der Coordinator prüft die Boundaries, die Agents tun den Rest. Geschwindigkeit ×4 ohne Mergekonflikte.</li>
+      <li><b>Live-QA ist Gold.</b> Der Live-Admin-Durchklick — ein Agent, der sich als User durch jede Admin-Page klickt — fand den teuersten Bug der Session. Tests finden das nicht, User-Durchlauf schon.</li>
+      <li><b>Impact sichtbar machen.</b> Jeder PR, der nur ein "Fix" war, ist eine Zahl. 1.164 gerettete Artikel. 5 rotierte Secrets. 3 gepatchte XSS. Diese Map macht das explizit.</li>
+    </ul>
+    <div class="impact-grid total">
+      <div class="impact-card mega"><b>38</b><span>PRs</span></div>
+      <div class="impact-card mega"><b>6</b><span>CRITICAL Fixes</span></div>
+      <div class="impact-card mega"><b>0</b><span>Prod-Outages</span></div>
+      <div class="impact-card mega"><b>~6 h</b><span>Session-Dauer</span></div>
+    </div>
+  </article>
+</section>
 
 <aside id="legend" class="panel">
   <h3>Legende</h3>
@@ -443,5 +717,133 @@ styleEl.textContent = `@keyframes burst {
   100% { width: 120px; height: 120px; opacity: 0; border-width: 0; }
 }`;
 document.head.appendChild(styleEl);
+
+// ═══════════════════════════════════════════════════════════════════════
+// IMPACT-DATA — Business-Value pro Node (für Deep-Dive + Story-Context)
+// ═══════════════════════════════════════════════════════════════════════
+const IMPACT = {
+  pr17: { metric: '5 Keys rotiert · Leak neutralisiert', cost: 'Key-Compromise hätte Mandantentrennung kompromittiert', category: 'SECURITY', severity: 'critical' },
+  pr18: { metric: 'SQL-Injection gepatcht', cost: 'GHSA-gpj5-g38j-94v9 · Drizzle 0.37→0.45.2', category: 'SECURITY', severity: 'critical' },
+  pr19: { metric: 'Duplicate purchases verhindert', cost: 'crypto fail-closed + Unsubscribe-Secret-Hardening', category: 'BACKEND_HARDENING', severity: 'critical' },
+  pr20: { metric: '3 XSS gefixt · Admin-Reauth', cost: 'Cross-Site-Scripting in Inbox, Autoren, Audit', category: 'SECURITY', severity: 'critical' },
+  pr22: { metric: '12 Ebook-Kapitel ausgeliefert', cost: '~31.250 Wörter · Produkt-Inventar live', category: 'CONTENT' },
+  pr23: { metric: '5 Bonus-Materialien', cost: 'Workbook + Vorlagen + Checklisten · ~14.900 W', category: 'CONTENT' },
+  pr29: { metric: 'Ebook-Delivery-System live', cost: 'Token-Access + SendGrid + Admin-Resend', category: 'FEATURE' },
+  pr30: { metric: '1.164 Artikel gerettet', cost: 'Data-Loss-Bug im parseFM Inline-Array · jeder Save hätte Body gewiped', category: 'DATA_LOSS_PREVENTION', severity: 'critical' },
+  pr31: { metric: 'Agent-Session-Map live', cost: 'Mission-Control UI', category: 'UI' },
+  pr32: { metric: '1.845 / 1.849 Images Coverage', cost: 'Auto-Fallback für fehlende Featured-Images', category: 'UX' },
+  pr33: { metric: '10 Dating-Site Screenshots', cost: 'Playwright-Automation · echte Homepages', category: 'CONTENT' },
+  pr39: { metric: 'Plausible + 14 Stadt-Seiten', cost: 'Traffic-Boost Foundation · SEO-ready Sitemap', category: 'SEO' },
+  pr40: { metric: 'Sticky-Bar + Exit-Intent', cost: 'UWG-konforme Conversion-Optimierung', category: 'CONVERSION' },
+  pr41: { metric: 'Tracking-Whitelist-Extension', cost: 'poppen/lemonswan/lovoo slugs akzeptiert', category: 'TRACKING' },
+  pr43: { metric: 'Email-Drip 1/7/30 + Affiliate-Skelett', cost: 'Retention-Pipeline + Creator-Economy-Base', category: 'GROWTH' },
+  pr45: { metric: 'CSRF-Tokens + KPI-Widgets + PII-Redaction', cost: 'DSGVO-konformes Auditing + Admin-Härtung', category: 'COMPLIANCE' },
+  pr46: { metric: 'SEO-Hijacking · 3 Brand-Reviews', cost: '~11.800 Wörter · Badoo/Poppen/Lovoo → eigene Brands', category: 'SEO' },
+};
+
+// ═══════════════════════════════════════════════════════════════════════
+// MODE-SWITCH — Map / Story / Live
+// ═══════════════════════════════════════════════════════════════════════
+document.body.dataset.mode = 'map';
+document.querySelectorAll('.mode-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const mode = btn.dataset.mode;
+    document.body.dataset.mode = mode;
+    document.querySelectorAll('.mode-btn').forEach(b => b.classList.toggle('active', b === btn));
+    if (mode === 'story') activateChapter(1);
+  });
+});
+
+// ═══════════════════════════════════════════════════════════════════════
+// STORY-MODE — Scroll-triggered Chapter-Activation + Node-Highlighting
+// ═══════════════════════════════════════════════════════════════════════
+const storyContainer = document.getElementById('story-container');
+const chapters = document.querySelectorAll('.chapter');
+
+function activateChapter(num) {
+  chapters.forEach(ch => ch.classList.toggle('active', +ch.dataset.chapter === num));
+  const ch = document.querySelector(`.chapter[data-chapter="${num}"]`);
+  if (!ch) return;
+  const highlights = new Set((ch.dataset.highlight || '').split(',').map(s => s.trim()).filter(Boolean));
+  // Story-mode always dims + highlights; map-mode resets
+  stage.classList.add('story-dim');
+  document.querySelectorAll('.node').forEach((el, i) => {
+    const n = NODES[i];
+    el.classList.toggle('highlight', highlights.has(n.id));
+  });
+}
+function resetHighlight() {
+  stage.classList.remove('story-dim');
+  document.querySelectorAll('.node').forEach(el => el.classList.remove('highlight'));
+}
+
+// IntersectionObserver: aktiviert Kapitel wenn es im Viewport ist
+const storyObs = new IntersectionObserver((entries) => {
+  if (document.body.dataset.mode !== 'story') return;
+  let bestEntry = null, bestRatio = 0;
+  entries.forEach(e => { if (e.isIntersecting && e.intersectionRatio > bestRatio) { bestEntry = e; bestRatio = e.intersectionRatio; } });
+  if (bestEntry) activateChapter(+bestEntry.target.dataset.chapter);
+}, { root: storyContainer, threshold: [0.3, 0.5, 0.7] });
+chapters.forEach(ch => storyObs.observe(ch));
+
+// Reset highlight when switching away from story
+new MutationObserver(() => {
+  if (document.body.dataset.mode !== 'story') resetHighlight();
+}).observe(document.body, { attributes: true, attributeFilter: ['data-mode'] });
+
+// ═══════════════════════════════════════════════════════════════════════
+// DEEP-DIVE auf Click (ergänzt Tooltip auf Hover)
+// ═══════════════════════════════════════════════════════════════════════
+document.querySelectorAll('.node').forEach((el, i) => {
+  const n = NODES[i];
+  el.addEventListener('click', (ev) => {
+    ev.stopPropagation();
+    const imp = IMPACT[n.id];
+    tooltip.innerHTML = `
+      <div class="tt-sub">${n.type}${imp ? ' · ' + imp.category : ''}</div>
+      <h4>${n.label} ${n.sub ? '· ' + n.sub : ''}</h4>
+      ${n.desc ? `<p>${n.desc}</p>` : ''}
+      ${imp ? `
+        <div style="margin-top: 12px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,.08);">
+          <div style="font-size: 10px; color: #ff3868; text-transform: uppercase; letter-spacing: 0.14em; font-weight: 700; margin-bottom: 4px;">Impact</div>
+          <div style="font-size: 14px; font-weight: 700; color: #f3f4f8; margin-bottom: 4px;">${imp.metric}</div>
+          <div style="font-size: 11px; color: #a5a7b8; line-height: 1.5;">${imp.cost}</div>
+          ${imp.severity === 'critical' ? '<div style="margin-top: 8px; display: inline-block; padding: 2px 8px; background: rgba(255,56,104,.2); color: #ff3868; border-radius: 4px; font-size: 10px; font-weight: 700; letter-spacing: 0.08em;">CRITICAL</div>' : ''}
+        </div>
+      ` : ''}
+      <span class="tt-state">${n.state}</span>
+    `;
+    // Position centered for detail view
+    tooltip.style.left = Math.min(ev.clientX + 18, window.innerWidth - 380) + 'px';
+    tooltip.style.top = Math.min(ev.clientY + 18, window.innerHeight - 300) + 'px';
+    tooltip.style.opacity = '1';
+    tooltip.style.maxWidth = '360px';
+  });
+});
+// Click outside closes deep-dive
+document.addEventListener('click', (e) => {
+  if (!tooltip.contains(e.target) && !e.target.closest('.node')) {
+    tooltip.style.opacity = '0';
+  }
+});
+
+// ═══════════════════════════════════════════════════════════════════════
+// LIVE-VITALS — T+ Clock + Fake-Metrics (polling-ready)
+// ═══════════════════════════════════════════════════════════════════════
+const sessionStartTs = new Date(); sessionStartTs.setHours(12, 0, 0, 0);
+function tickVitals() {
+  const s = Math.max(0, Math.floor((Date.now() - sessionStartTs.getTime()) / 1000));
+  const h = String(Math.floor(s/3600)).padStart(2,'0');
+  const m = String(Math.floor(s/60)%60).padStart(2,'0');
+  const ss = String(s%60).padStart(2,'0');
+  const tp = document.getElementById('lv-tplus'); if (tp) tp.textContent = `${h}:${m}:${ss}`;
+  // PRs/h based on 38 PRs in 6h
+  const rate = s > 0 ? (38 / (s / 3600)).toFixed(1) : '—';
+  const pr = document.getElementById('lv-prrate'); if (pr) pr.textContent = rate + ' / h';
+  const up = document.getElementById('lv-uptime'); if (up) up.textContent = '100.0 %';
+  const ag = document.getElementById('lv-agents'); if (ag) ag.textContent = '10+';
+}
+tickVitals();
+setInterval(tickVitals, 1000);
 </script>
 </HerzraumLayout>
