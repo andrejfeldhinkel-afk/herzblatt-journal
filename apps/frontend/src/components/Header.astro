@@ -314,33 +314,34 @@ const isMehrActive = ['/quiz','/ebook','/erfolgsgeschichten','/glossar'].include
         Suche
       </a>
 
-      <!-- Newsletter (kompakt) -->
-      <div class="mt-2 px-4 py-3 rounded-xl" style="background: var(--bg-soft); border: 1px solid var(--border);">
-        <div class="flex items-center gap-2 mb-2">
-          <span class="text-base">📬</span>
-          <span class="text-sm font-semibold" style="color: var(--text);">Newsletter</span>
+      <!-- Ebook-Promo (statt Newsletter) -->
+      <a
+        href="/ebook"
+        class="block mt-2 px-4 py-4 rounded-xl text-decoration-none overflow-hidden relative"
+        style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); color: white; text-decoration: none;"
+      >
+        <div class="flex items-start gap-3">
+          <span class="text-2xl leading-none shrink-0">📕</span>
+          <div class="flex-1 min-w-0">
+            <div class="flex items-center gap-2 mb-1">
+              <span class="text-[10px] font-bold uppercase tracking-widest px-1.5 py-0.5 rounded" style="background: rgba(255,255,255,0.2);">Neu</span>
+              <span class="text-sm font-bold">Die Herzblatt-Methode</span>
+            </div>
+            <p class="text-xs opacity-90 mb-3 leading-snug">
+              Der komplette Kurs für ein erfülltes Liebesleben — mit 200+ Seiten, 5 Bonus-Materialien und lebenslangen Updates.
+            </p>
+            <div class="flex items-baseline gap-2 mb-2">
+              <span class="text-lg font-extrabold" style="font-family: var(--font-serif);">89,99 €</span>
+              <span class="text-xs opacity-60 line-through">149 €</span>
+              <span class="text-[10px] font-bold px-1.5 py-0.5 rounded" style="background: #fef3c7; color: #b45309;">−40 %</span>
+            </div>
+            <span class="inline-flex items-center gap-1 text-xs font-bold">
+              Jetzt ansehen
+              <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+            </span>
+          </div>
         </div>
-        <p class="text-xs mb-3" style="color: var(--text-muted);">Neue Ratgeber direkt ins Postfach. Kein Spam.</p>
-        <form id="nl-menu-form" class="flex flex-col gap-2">
-          <input
-            type="email"
-            name="email"
-            placeholder="deine@email.de"
-            required
-            class="w-full px-3 py-2 rounded-lg text-sm focus:outline-none"
-            style="background: var(--bg-card); color: var(--text); border: 1px solid var(--border);"
-          />
-          <button
-            type="submit"
-            id="nl-menu-submit"
-            class="w-full px-3 py-2 rounded-lg text-sm font-semibold text-white cursor-pointer"
-            style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600)); border: none;"
-          >
-            Abonnieren
-          </button>
-        </form>
-        <p id="nl-menu-msg" class="text-[11px] mt-2" style="color: var(--text-muted);">Du kannst dich jederzeit abmelden.</p>
-      </div>
+      </a>
 
       <button onclick="window.openDatingQuiz()" class="mt-2 px-4 py-3 rounded-xl text-sm font-semibold text-center text-white w-full cursor-pointer" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600)); border: none;">
         Jetzt starten
@@ -354,42 +355,6 @@ const isMehrActive = ['/quiz','/ebook','/erfolgsgeschichten','/glossar'].include
   var mBtn = document.getElementById('mobile-menu-btn');
   var mMenu = document.getElementById('mobile-menu');
   if (mBtn && mMenu) mBtn.addEventListener('click', function() { mMenu.classList.toggle('hidden'); });
-
-  // Mobile menu newsletter submit
-  var nlMenuForm = document.getElementById('nl-menu-form');
-  var nlMenuSubmit = document.getElementById('nl-menu-submit');
-  var nlMenuMsg = document.getElementById('nl-menu-msg');
-  if (nlMenuForm && nlMenuSubmit && nlMenuMsg) {
-    nlMenuForm.addEventListener('submit', async function(e) {
-      e.preventDefault();
-      var emailInput = nlMenuForm.querySelector('input[name="email"]');
-      var email = emailInput ? emailInput.value : '';
-      if (!email) return;
-      nlMenuSubmit.textContent = '...';
-      nlMenuSubmit.disabled = true;
-      try {
-        var res = await fetch('/api/newsletter', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ email: email, source: 'header-menu' })
-        });
-        var data = await res.json();
-        nlMenuMsg.textContent = data.message || 'Danke!';
-        if (data.success) {
-          nlMenuForm.reset();
-          nlMenuSubmit.textContent = 'Angemeldet ✓';
-          nlMenuSubmit.style.background = '#22c55e';
-        } else {
-          nlMenuSubmit.textContent = 'Abonnieren';
-          nlMenuSubmit.disabled = false;
-        }
-      } catch (err) {
-        nlMenuMsg.textContent = 'Fehler. Bitte später erneut versuchen.';
-        nlMenuSubmit.textContent = 'Abonnieren';
-        nlMenuSubmit.disabled = false;
-      }
-    });
-  }
 
   // Mobile Ratgeber submenu toggle
   var mRatBtn = document.getElementById('mobile-ratgeber-btn');
