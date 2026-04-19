@@ -1,16 +1,78 @@
+# Herzblatt Journal — robots.txt
+# Letzter Update: 2026-04-19 (SEO-Audit)
+
+# ==== Standard Crawler ====
 User-agent: *
 Allow: /
-Disallow: /api/
-Disallow: /_astro/
+# Admin-Backend + Auth
 Disallow: /herzraum
 Disallow: /herzraum/
+# API + interne Endpoints
+Disallow: /api/
+# Affiliate-Redirects (reine Weiterleitungen, kein Content-Value)
+Disallow: /go/
+# Suche (dynamische Ergebnisseite)
+Disallow: /suche
+Disallow: /suche?*
+# Token-geschützte Ebook-Pfade
+Disallow: /ebook/lesen
+Disallow: /ebook/zugang
+# Astro-Asset-Pipeline (Noise, kein Crawl-Value)
+Disallow: /_astro/
+# Query-Noise (UTM + Session + Tracking)
+Disallow: /*?utm_*
+Disallow: /*?fbclid=*
+Disallow: /*?gclid=*
 
+# ==== Googlebot (primary) ====
 User-agent: Googlebot
 Allow: /
+Disallow: /herzraum
+Disallow: /api/
+Disallow: /go/
+Disallow: /suche
+Disallow: /ebook/lesen
+Disallow: /ebook/zugang
 Crawl-delay: 0
 
+# ==== Googlebot Image (Image-SEO) ====
 User-agent: Googlebot-Image
 Allow: /images/
 Allow: /og/
+Allow: /blog/
+Disallow: /herzraum
 
+# ==== Bingbot ====
+User-agent: Bingbot
+Allow: /
+Disallow: /herzraum
+Disallow: /api/
+Disallow: /go/
+Disallow: /suche
+
+# ==== AI-Training-Crawler blockieren (Content-Schutz).
+# Google-Extended + Applebot-Extended bleiben implizit erlaubt,
+# damit wir in AI-Overviews / Apple-Intelligence auftauchen. ====
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+# ==== Sitemaps ====
 Sitemap: https://herzblatt-journal.com/sitemap-index.xml

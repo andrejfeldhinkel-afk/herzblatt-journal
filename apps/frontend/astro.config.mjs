@@ -55,7 +55,11 @@ export default defineConfig({
       !page.includes('/404') &&
       !page.includes('/suche') &&
       !page.includes('/dating-typ-test') &&
-      !page.includes('/herzraum'),
+      !page.includes('/herzraum') &&
+      !page.includes('/ebook/lesen') &&
+      !page.includes('/ebook/zugang') &&
+      !page.includes('/go/') &&
+      !page.includes('/api/'),
     changefreq: 'weekly',
     lastmod: new Date(),
     serialize(item) {
@@ -72,7 +76,8 @@ export default defineConfig({
         }];
       }
 
-      // Priority + changefreq hints for top-value pages (helps crawl-budget allocation)
+      // Priority + changefreq hints for top-value pages (helps crawl-budget allocation).
+      // Werte folgen Google-Best-Practice: 1.0 nur für Homepage + absolute Top-Money-Pages.
       const url = item.url.replace(SITE_ORIGIN, '').replace(/\/$/, '') || '/';
       if (url === '/') {
         item.priority = 1.0;
@@ -87,21 +92,40 @@ export default defineConfig({
         // Individual blog articles
         item.priority = 0.7;
         item.changefreq = 'monthly';
-      } else if (url.startsWith('/blog')) {
-        // Blog index + tag pages
-        item.priority = 0.8;
+      } else if (url === '/blog') {
+        item.priority = 0.9;
         item.changefreq = 'daily';
+      } else if (url.startsWith('/blog')) {
+        // Blog tag pages + pagination
+        item.priority = 0.6;
+        item.changefreq = 'weekly';
       } else if (
         url === '/online-dating-guide' ||
         url === '/erstes-date-guide' ||
         url === '/flirten-lernen-guide' ||
         url === '/beziehungsratgeber' ||
-        url === '/dating-apps'
+        url === '/dating-apps' ||
+        url === '/narzissmus' ||
+        url === '/trennung' ||
+        url === '/date-ideen' ||
+        url === '/erfolgsgeschichten'
       ) {
-        item.priority = 0.9;
+        item.priority = 0.8;
         item.changefreq = 'weekly';
       } else if (url.startsWith('/dating-in/')) {
         item.priority = 0.7;
+        item.changefreq = 'monthly';
+      } else if (url.startsWith('/autor/')) {
+        item.priority = 0.5;
+        item.changefreq = 'monthly';
+      } else if (url.startsWith('/tags')) {
+        item.priority = 0.5;
+        item.changefreq = 'weekly';
+      } else if (url === '/ueber-uns' || url === '/kontakt' || url === '/glossar') {
+        item.priority = 0.5;
+        item.changefreq = 'monthly';
+      } else {
+        item.priority = 0.5;
         item.changefreq = 'monthly';
       }
       return item;

@@ -64,13 +64,26 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const fullImageURL = new URL(image, Astro.site).toString();
 
 // Organization Schema (on every page)
+// sameAs verlinkt die offiziellen Social-Profile — wichtig für Google Knowledge Graph
+// und Entity-Recognition (Parship/ElitePartner nutzen dasselbe Pattern).
 const orgSchema = {
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Herzblatt Journal",
+  "alternateName": "Herzblatt-Journal",
   "url": "https://herzblatt-journal.com",
-  "logo": "https://herzblatt-journal.com/logo.svg",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://herzblatt-journal.com/logo.svg",
+    "width": 512,
+    "height": 512
+  },
   "description": "Dein vertrauenswürdiger Ratgeber für Dating, Flirten und echte Beziehungen.",
+  "sameAs": [
+    "https://www.instagram.com/herzblattjournal",
+    "https://www.tiktok.com/@herzblattjournal",
+    "https://www.facebook.com/profile.php?id=61586415452972"
+  ],
   "publisher": {
     "@type": "Organization",
     "name": "L-P GmbH",
