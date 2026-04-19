@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "prebuild": "node scripts/generate-images-index.mjs",
+    "prebuild": "node scripts/generate-images-index.mjs && node scripts/convert-webp-to-avif.mjs",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
