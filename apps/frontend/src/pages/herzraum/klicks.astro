@@ -4,69 +4,248 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
 ---
 <HerzraumLayout title="Klick-Tracking" active="klicks">
 
-  <section class="hz-kpi-grid">
-    <div class="hz-kpi">
-      <div class="hz-kpi-label">Klicks heute</div>
-      <div class="hz-kpi-value" data-kpi="clicks.today">—</div>
+  <style>
+    .kl-hero {
+      display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem;
+      margin-bottom: 1.5rem;
+    }
+    @media (max-width: 900px) { .kl-hero { grid-template-columns: repeat(2, 1fr); } }
+    .kl-kpi {
+      position: relative; padding: 1.25rem 1.5rem;
+      background: linear-gradient(145deg, rgba(19,19,28,.9), rgba(15,15,22,.75));
+      border: 1px solid var(--hz-border);
+      border-radius: var(--hz-radius);
+      overflow: hidden;
+      transition: transform .18s, border-color .18s;
+    }
+    .kl-kpi::before {
+      content: ''; position: absolute; inset: 0;
+      background: radial-gradient(400px circle at var(--kpi-hue-x, 50%) var(--kpi-hue-y, 0%),
+        var(--kpi-tint, rgba(244,63,94,.1)) 0%, transparent 60%);
+      pointer-events: none;
+    }
+    .kl-kpi:hover { border-color: var(--hz-primary); transform: translateY(-2px); }
+    .kl-kpi-label {
+      font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.18em;
+      color: var(--hz-text-dim); font-weight: 600;
+      font-family: 'SF Mono', ui-monospace, 'Menlo', monospace;
+    }
+    .kl-kpi-value {
+      font-size: 2.2rem; font-weight: 800; margin-top: 0.5rem;
+      color: var(--hz-text); font-variant-numeric: tabular-nums;
+      letter-spacing: -0.02em;
+      text-shadow: 0 0 20px var(--kpi-tint, rgba(244,63,94,.25));
+    }
+    .kl-kpi-sub {
+      font-size: 0.72rem; color: var(--hz-text-muted);
+      margin-top: 0.35rem;
+    }
+
+    /* Segment tabs */
+    .kl-segment {
+      display: inline-flex; gap: 2px; padding: 3px;
+      background: rgba(255,255,255,.04);
+      border: 1px solid var(--hz-border);
+      border-radius: 10px;
+      margin-bottom: 1rem;
+    }
+    .kl-seg-btn {
+      padding: 7px 14px; font-size: 12.5px; font-weight: 600;
+      color: var(--hz-text-muted); background: transparent; border: 0;
+      border-radius: 7px; cursor: pointer;
+      transition: all .15s;
+      font-variant-numeric: tabular-nums;
+    }
+    .kl-seg-btn:hover { color: var(--hz-text); background: rgba(255,255,255,.04); }
+    .kl-seg-btn.active {
+      color: var(--hz-text);
+      background: rgba(244,63,94,.18);
+      box-shadow: inset 0 0 0 1px rgba(244,63,94,.35);
+    }
+    .kl-seg-btn .count {
+      display: inline-block; margin-left: 6px;
+      font-size: 10px; color: var(--hz-text-muted);
+      background: rgba(0,0,0,.25); padding: 1px 6px;
+      border-radius: 8px; font-weight: 700;
+    }
+    .kl-seg-btn.active .count { background: rgba(244,63,94,.35); color: #fff; }
+
+    /* Breakdown rows */
+    .kl-rows { display: flex; flex-direction: column; gap: 0.5rem; }
+    .kl-row {
+      display: grid; grid-template-columns: 36px 36px 1fr auto;
+      gap: 0.75rem; align-items: center; padding: 0.7rem 1rem;
+      background: rgba(255,255,255,.02);
+      border: 1px solid rgba(255,255,255,.05);
+      border-radius: 8px; cursor: pointer;
+      transition: all .18s;
+    }
+    .kl-row:hover {
+      background: rgba(255,255,255,.05);
+      border-color: var(--hz-border-strong);
+      transform: translateX(2px);
+    }
+    .kl-row-rank {
+      display: flex; align-items: center; justify-content: center;
+      width: 30px; height: 30px; border-radius: 50%;
+      background: var(--hz-surface-2); color: var(--hz-text-muted);
+      font-weight: 700; font-size: 0.8rem;
+      font-variant-numeric: tabular-nums;
+    }
+    .kl-row-rank.top1 { background: linear-gradient(135deg,#fbbf24,#f59e0b); color: #000; box-shadow: 0 0 12px rgba(251,191,36,.35); }
+    .kl-row-rank.top2 { background: linear-gradient(135deg,#e2e8f0,#94a3b8); color: #000; }
+    .kl-row-rank.top3 { background: linear-gradient(135deg,#d97706,#92400e); color: #fff; }
+    .kl-row-logo {
+      width: 28px; height: 28px; border-radius: 6px;
+      background: rgba(255,255,255,.88); padding: 3px;
+      object-fit: contain; display: flex; align-items: center; justify-content: center;
+      font-size: 13px;
+    }
+    .kl-row-body { min-width: 0; }
+    .kl-row-name {
+      display: flex; align-items: center; gap: 0.4rem;
+      font-weight: 600; color: var(--hz-text); font-size: 0.9rem;
+      margin-bottom: 0.3rem;
+    }
+    .kl-row-name a {
+      font-size: 0.7rem; color: var(--hz-text-muted);
+      font-family: monospace;
+    }
+    .kl-row-bar {
+      height: 5px; background: rgba(255,255,255,.04);
+      border-radius: 3px; overflow: hidden;
+    }
+    .kl-row-bar-fill {
+      height: 100%; border-radius: 3px;
+      background: linear-gradient(90deg, var(--row-color, var(--hz-primary)), var(--row-color-2, var(--hz-primary-dark)));
+      box-shadow: 0 0 8px var(--row-color, var(--hz-primary));
+      transition: width 0.8s cubic-bezier(.2,.8,.2,1);
+    }
+    .kl-row-count {
+      text-align: right; min-width: 80px;
+      font-variant-numeric: tabular-nums;
+    }
+    .kl-row-count-big {
+      font-weight: 700; font-size: 1.05rem; color: var(--hz-text);
+      text-shadow: 0 0 6px var(--row-color, rgba(244,63,94,.2));
+    }
+    .kl-row-count-pct {
+      font-size: 0.68rem; color: var(--hz-text-muted);
+    }
+
+    /* Empty-state / intel-box */
+    .kl-intel {
+      padding: 1.25rem 1.5rem; border-radius: var(--hz-radius);
+      background: linear-gradient(135deg, rgba(34,211,238,.06), rgba(167,139,250,.06));
+      border: 1px solid rgba(34,211,238,.2);
+      margin-bottom: 1rem;
+      font-size: 0.85rem; color: var(--hz-text-muted); line-height: 1.55;
+    }
+    .kl-intel strong { color: var(--hz-text); font-weight: 600; }
+    .kl-intel code {
+      background: rgba(0,0,0,.3); padding: 1px 6px;
+      border-radius: 4px; font-size: 0.78rem;
+    }
+
+    /* Chart card */
+    .kl-charts {
+      display: grid; grid-template-columns: 2fr 1fr; gap: 1rem;
+      margin-bottom: 1rem;
+    }
+    @media (max-width: 1100px) { .kl-charts { grid-template-columns: 1fr; } }
+    .kl-chart-card {
+      padding: 1.25rem 1.5rem;
+      background: linear-gradient(145deg, rgba(19,19,28,.85), rgba(15,15,22,.7));
+      border: 1px solid var(--hz-border);
+      border-radius: var(--hz-radius);
+    }
+    .kl-chart-card h3 {
+      font-family: inherit; font-size: 0.72rem; font-weight: 700;
+      text-transform: uppercase; letter-spacing: 0.16em;
+      color: var(--hz-primary); margin-bottom: 0.75rem;
+    }
+
+    /* Section title */
+    .kl-section-title {
+      display: flex; align-items: baseline; justify-content: space-between;
+      margin: 1.5rem 0 0.75rem 0;
+    }
+    .kl-section-title h3 {
+      font-size: 1.05rem; font-weight: 700;
+      font-family: 'Playfair Display', Georgia, serif;
+      letter-spacing: -0.02em;
+    }
+    .kl-section-title .sub {
+      font-size: 0.75rem; color: var(--hz-text-muted);
+      font-variant-numeric: tabular-nums;
+    }
+  </style>
+
+  <!-- Hero-KPIs -->
+  <section class="kl-hero">
+    <div class="kl-kpi" style="--kpi-tint: rgba(244,63,94,.18); --kpi-hue-x: 80%; --kpi-hue-y: 100%;">
+      <div class="kl-kpi-label">Klicks heute</div>
+      <div class="kl-kpi-value" data-kpi="today">—</div>
+      <div class="kl-kpi-sub" id="kpi-today-delta">—</div>
     </div>
-    <div class="hz-kpi">
-      <div class="hz-kpi-label">Klicks · 7 Tage</div>
-      <div class="hz-kpi-value" data-kpi="clicks.week">—</div>
+    <div class="kl-kpi" style="--kpi-tint: rgba(251,191,36,.18);">
+      <div class="kl-kpi-label">7 Tage</div>
+      <div class="kl-kpi-value" data-kpi="week">—</div>
+      <div class="kl-kpi-sub">rolling window</div>
     </div>
-    <div class="hz-kpi">
-      <div class="hz-kpi-label">Klicks · 30 Tage</div>
-      <div class="hz-kpi-value" data-kpi="clicks.month">—</div>
+    <div class="kl-kpi" style="--kpi-tint: rgba(139,92,246,.18);">
+      <div class="kl-kpi-label">30 Tage</div>
+      <div class="kl-kpi-value" data-kpi="month">—</div>
+      <div class="kl-kpi-sub">rolling window</div>
     </div>
-    <div class="hz-kpi">
-      <div class="hz-kpi-label">Klicks gesamt</div>
-      <div class="hz-kpi-value" data-kpi="clicks.total">—</div>
-    </div>
-    <div class="hz-kpi">
-      <div class="hz-kpi-label">Ø CTR (Klicks/PV)</div>
-      <div class="hz-kpi-value" data-kpi="ctr">— %</div>
+    <div class="kl-kpi" style="--kpi-tint: rgba(34,211,238,.18);">
+      <div class="kl-kpi-label">CTR (Klicks / Pageview)</div>
+      <div class="kl-kpi-value" data-kpi="ctr">— %</div>
+      <div class="kl-kpi-sub" id="kpi-ctr-sub">vs. 30d avg</div>
     </div>
   </section>
 
-  <div class="hz-grid-2">
-    <div class="hz-card">
+  <!-- Chart + Intel -->
+  <div class="kl-charts">
+    <div class="kl-chart-card">
       <h3>Klicks pro Tag · 30 Tage</h3>
-      <div style="position: relative; height: 280px;">
+      <div style="position: relative; height: 240px;">
         <canvas id="chart-daily"></canvas>
       </div>
     </div>
-    <div class="hz-card">
-      <h3>Verteilung nach Affiliate</h3>
-      <div style="position: relative; height: 280px;">
-        <canvas id="chart-pie"></canvas>
+    <div class="kl-chart-card" id="intel-card">
+      <h3>Intel</h3>
+      <div id="intel-body" style="color: var(--hz-text-muted); font-size: 0.85rem; line-height: 1.6;">
+        Analysiere Daten…
       </div>
     </div>
   </div>
 
-  <div class="hz-card" style="margin-top: 1rem;">
-    <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 0.75rem;">
-      <h3 style="margin: 0;">💕 Dating-Seiten — Performance-Ranking</h3>
-      <span style="font-size: 0.75rem; color: var(--hz-text-muted); background: var(--hz-bg-soft, #1e1e28); padding: 0.25rem 0.5rem; border-radius: 4px;">Letzte 30 Tage</span>
-    </div>
-    <p style="color: var(--hz-text-muted); font-size: 0.85rem; margin-bottom: 1rem;">Welche der 8 Dating-Plattformen bringt die meisten Klicks? Sortiert nach Performance.</p>
-    <div id="dating-performance-list" style="display: flex; flex-direction: column; gap: 0.5rem;">
-      <div style="color: var(--hz-text-muted); font-size: 0.85rem; text-align: center; padding: 2rem;">Lade Dating-Performance…</div>
-    </div>
+  <!-- Segment-Switch: Category -->
+  <div class="kl-segment" role="tablist">
+    <button class="kl-seg-btn active" data-cat="all">Alle <span class="count" data-cat-count="all">0</span></button>
+    <button class="kl-seg-btn" data-cat="dating">Dating <span class="count" data-cat-count="dating">0</span></button>
+    <button class="kl-seg-btn" data-cat="product">Produkte <span class="count" data-cat-count="product">0</span></button>
+    <button class="kl-seg-btn" data-cat="ebook">E-Book <span class="count" data-cat-count="ebook">0</span></button>
+    <button class="kl-seg-btn" data-cat="marketing">Marketing <span class="count" data-cat-count="marketing">0</span></button>
+    <button class="kl-seg-btn" data-cat="benchmark">Benchmark <span class="count" data-cat-count="benchmark">0</span></button>
   </div>
 
-  <div class="hz-card" style="margin-top: 1rem;">
-    <h3>Top Affiliate-Ziele · 30 Tage</h3>
-    <p style="color: var(--hz-text-muted); font-size: 0.85rem; margin-bottom: 0.75rem;">Alle Affiliate-Ziele inkl. Dating-Seiten, E-Book und andere Events.</p>
-    <table class="hz-table" id="table-targets">
-      <thead><tr><th>#</th><th>Affiliate</th><th class="right">Klicks</th><th class="right">% Gesamt</th></tr></thead>
-      <tbody><tr><td colspan="4" class="muted">Lade…</td></tr></tbody>
-    </table>
+  <div class="kl-section-title">
+    <h3 id="breakdown-title">Ziele · Ranking</h3>
+    <span class="sub">sortiert nach Klick-Volumen · letzte 30 Tage</span>
+  </div>
+  <div id="breakdown-rows" class="kl-rows">
+    <div style="color: var(--hz-text-muted); text-align: center; padding: 2rem;">Lade…</div>
   </div>
 
-  <div class="hz-card" style="margin-top: 1rem;">
-    <h3>Quell-Artikel · 30 Tage</h3>
-    <p style="color: var(--hz-text-muted); font-size: 0.85rem; margin-bottom: 0.75rem;">Welche Artikel generieren die meisten Affiliate-Klicks?</p>
-    <table class="hz-table" id="table-sources">
-      <thead><tr><th>#</th><th>Quelle</th><th class="right">Klicks</th></tr></thead>
+  <div class="kl-section-title">
+    <h3>Quell-Artikel</h3>
+    <span class="sub">welche Artikel generieren Klicks</span>
+  </div>
+  <div class="hz-card" style="padding: 0;">
+    <table class="hz-table" id="table-sources" style="margin: 0;">
+      <thead><tr><th style="width:40px;">#</th><th>Quelle</th><th class="right" style="width:100px;">Klicks</th></tr></thead>
       <tbody><tr><td colspan="3" class="muted">Lade…</td></tr></tbody>
     </table>
   </div>
@@ -75,135 +254,275 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
 
   <script is:inline>
     (function() {
-      const colors = ['#f43f5e', '#22c55e', '#3b82f6', '#8b5cf6', '#f59e0b', '#06b6d4', '#ec4899', '#eab308'];
+      // ─── Category classifier ───────────────────────────────────────────────
+      const DATING_SITES = {
+        'xloves':        { name: 'xLoves',        logo: '/images/logos/xloves-logo.png',         color: '#f43f5e', link: '/blog/xloves-test-erfahrungen' },
+        'michverlieben': { name: 'MichVerlieben', logo: '/images/logos/michverlieben-logo.png',  color: '#e11d48', link: '/blog/michverlieben-test-erfahrungen' },
+        'whatsmeet':     { name: 'WhatsMeet',     logo: '/images/logos/whatsmeet-logo.png',      color: '#10b981', link: '/blog/whatsmeet-test-erfahrungen' },
+        'singlescout':   { name: 'SingleScout',   logo: '/images/logos/singlescout-v2-logo.png', color: '#8b5cf6', link: '/blog/singlescout-test-erfahrungen' },
+        'i-loves':       { name: 'i-Loves',       logo: '/images/logos/i-loves-logo.png',        color: '#ec4899', link: '/blog/i-loves-test-erfahrungen' },
+        'onlydates69':   { name: 'OnlyDates69',   logo: '/images/logos/onlydates69-logo.png',    color: '#f59e0b', link: '/blog/onlydates69-test-erfahrungen' },
+        'sex69':         { name: 'Sex69',         logo: '/images/logos/sex69-logo.png',          color: '#dc2626', link: '/blog/sex69-test-erfahrungen' },
+        'single69':      { name: 'Single69',      logo: '/images/logos/single69-logo.png',       color: '#3b82f6', link: '/blog/single69-test-erfahrungen' },
+      };
+      const BENCHMARK_SITES = new Set([
+        'parship','elitepartner','lovescout24','edarling','bumble','tinder','hinge',
+        'okcupid','happn','badoo','finya','lovepoint','c-date','joyclub','secret',
+        'ashley-madison','once','zoosk','match','plenty-of-fish','poppen','poppen-de',
+        'lemonswan','lovoo'
+      ]);
+      const MARKETING_PREFIXES = ['link-'];
+      const EBOOK_PREFIXES = ['ebook-'];
+      const PRODUCT_PREFIXES = ['product-'];
 
-      function fmtNum(n) { return (n || 0).toLocaleString('de-DE'); }
-      function setKpi(path, v) {
-        document.querySelectorAll('[data-kpi="' + path + '"]').forEach(el => el.textContent = typeof v === 'string' ? v : fmtNum(v));
+      function classify(key) {
+        if (DATING_SITES[key]) return 'dating';
+        if (BENCHMARK_SITES.has(key)) return 'benchmark';
+        if (PRODUCT_PREFIXES.some(p => key.startsWith(p))) return 'product';
+        if (EBOOK_PREFIXES.some(p => key.startsWith(p))) return 'ebook';
+        if (MARKETING_PREFIXES.some(p => key.startsWith(p))) return 'marketing';
+        return 'other';
       }
 
-      // Chart-Instanzen für Destroy vor Re-Render (Bug #3 Audit)
-      let chartDaily = null, chartPie = null;
+      function prettyName(key) {
+        if (DATING_SITES[key]) return DATING_SITES[key].name;
+        // link-tiktok → TikTok (Marketing)
+        if (key.startsWith('link-')) return key.slice(5).charAt(0).toUpperCase() + key.slice(6);
+        // ebook-buy-whop-open → "E-Book: whop-open"
+        if (key.startsWith('ebook-')) return 'E-Book · ' + key.slice(6).replace(/-/g, ' ');
+        // product-gottman-gespraechskarten → "Gottman Gespraechskarten"
+        if (key.startsWith('product-')) return key.slice(8).replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+        // Benchmark sites: Parship, etc.
+        return key.charAt(0).toUpperCase() + key.slice(1).replace(/-/g, ' ');
+      }
+
+      function categoryColor(cat) {
+        return {
+          dating:    { a: '#f43f5e', b: '#e11d48' },
+          product:   { a: '#a78bfa', b: '#7c3aed' },
+          ebook:     { a: '#22d3ee', b: '#0891b2' },
+          marketing: { a: '#fbbf24', b: '#d97706' },
+          benchmark: { a: '#94a3b8', b: '#64748b' },
+          other:     { a: '#6b7280', b: '#4b5563' },
+        }[cat] || { a: '#6b7280', b: '#4b5563' };
+      }
+
+      const fmt = (n) => (n || 0).toLocaleString('de-DE');
+
+      // Count-up animation on KPIs
+      function countUp(el, end, dur = 1100) {
+        const start = performance.now();
+        const initial = parseFloat(el.textContent.replace(/[.,\s%]/g, '')) || 0;
+        function step(now) {
+          const p = Math.min(1, (now - start) / dur);
+          const eased = 1 - Math.pow(1 - p, 3);
+          const val = Math.floor(initial + (end - initial) * eased);
+          el.textContent = fmt(val);
+          if (p < 1) requestAnimationFrame(step);
+        }
+        requestAnimationFrame(step);
+      }
+
+      let chartDaily = null;
+      let allTargets = [];
+      let activeCat = 'all';
 
       async function load() {
+        let d;
         try {
           const res = await fetch('/api/herzraum/stats?range=30d', { cache: 'no-store' });
           if (!res.ok) throw new Error('HTTP ' + res.status);
-          const d = await res.json();
+          d = await res.json();
           if (!d.ok) throw new Error(d.error || 'API error');
-
-        setKpi('clicks.today', d.kpis.clicks.today);
-        setKpi('clicks.week', d.kpis.clicks.week);
-        setKpi('clicks.month', d.kpis.clicks.month);
-        setKpi('clicks.total', d.kpis.clicks.total);
-        // Bug-F18: CTR null/undefined-safe
-        setKpi('ctr', (d.ctr != null ? d.ctr : '—') + ' %');
-
-        // === Dating-Seiten-Performance-Ranking ===
-        const datingMeta = {
-          'xloves':        { name: 'xLoves',        logo: '/images/logos/xloves-logo.png',         color: '#f43f5e', link: '/blog/xloves-test-erfahrungen' },
-          'michverlieben': { name: 'MichVerlieben', logo: '/images/logos/michverlieben-logo.png',  color: '#e11d48', link: '/blog/michverlieben-test-erfahrungen' },
-          'whatsmeet':     { name: 'WhatsMeet',     logo: '/images/logos/whatsmeet-logo.png',      color: '#10b981', link: '/blog/whatsmeet-test-erfahrungen' },
-          'singlescout':   { name: 'SingleScout',   logo: '/images/logos/singlescout-v2-logo.png', color: '#8b5cf6', link: '/blog/singlescout-test-erfahrungen' },
-          'i-loves':       { name: 'i-Loves',       logo: '/images/logos/i-loves-logo.png',        color: '#ec4899', link: '/blog/i-loves-test-erfahrungen' },
-          'onlydates69':   { name: 'OnlyDates69',   logo: '/images/logos/onlydates69-logo.png',    color: '#f59e0b', link: '/blog/onlydates69-test-erfahrungen' },
-          'sex69':         { name: 'Sex69',         logo: '/images/logos/sex69-logo.png',          color: '#dc2626', link: '/blog/sex69-test-erfahrungen' },
-          'single69':      { name: 'Single69',      logo: '/images/logos/single69-logo.png',       color: '#3b82f6', link: '/blog/single69-test-erfahrungen' },
-        };
-        const datingRaw = (d.topClickTargets || [])
-          .filter(t => datingMeta[t.key])
-          .map(t => ({ key: t.key, count: t.count }));
-        // Fehlende Slugs mit count=0 ergänzen, damit User alle 8 sieht
-        Object.keys(datingMeta).forEach(slug => {
-          if (!datingRaw.find(p => p.key === slug)) datingRaw.push({ key: slug, count: 0 });
-        });
-        datingRaw.sort((a, b) => b.count - a.count);
-        const maxDating = Math.max(1, datingRaw[0]?.count || 0);
-        const totalDating = Math.max(1, datingRaw.reduce((s, t) => s + t.count, 0));
-
-        const datingList = document.getElementById('dating-performance-list');
-        if (datingList) {
-          datingList.innerHTML = datingRaw.map((t, i) => {
-            const meta = datingMeta[t.key];
-            const pctBar = maxDating > 0 ? (t.count / maxDating) * 100 : 0;
-            const pctTotal = (t.count / totalDating) * 100;
-            const rank = i + 1;
-            const rankBg = rank === 1 ? 'linear-gradient(135deg,#fbbf24,#f59e0b)' : rank === 2 ? 'linear-gradient(135deg,#cbd5e1,#94a3b8)' : rank === 3 ? 'linear-gradient(135deg,#d97706,#92400e)' : 'var(--hz-bg, #0f0f14)';
-            const rankColor = rank <= 3 ? '#fff' : '#94a3b8';
-            const highlight = rank === 1 ? 'background: rgba(244,63,94,0.08); border: 1px solid rgba(244,63,94,0.25);' : 'background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06);';
-            const crownEmoji = rank === 1 ? ' 👑' : '';
-            return (
-              '<div style="display: grid; grid-template-columns: 40px 32px 1fr auto; gap: 0.75rem; align-items: center; padding: 0.75rem 1rem; ' + highlight + ' border-radius: 8px; transition: transform 0.2s ease;">' +
-                '<div style="display: flex; align-items: center; justify-content: center; width: 32px; height: 32px; border-radius: 50%; background: ' + rankBg + '; color: ' + rankColor + '; font-weight: 700; font-size: 0.85rem;">' + rank + '</div>' +
-                '<img src="' + meta.logo + '" alt="' + meta.name + '" style="width: 32px; height: 32px; object-fit: contain; background: rgba(255,255,255,0.9); border-radius: 6px; padding: 3px;" loading="lazy" />' +
-                '<div style="min-width: 0;">' +
-                  '<div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.35rem; flex-wrap: wrap;">' +
-                    '<strong style="color: var(--hz-text, #f8fafc); font-size: 0.95rem;">' + meta.name + crownEmoji + '</strong>' +
-                    '<a href="' + meta.link + '" target="_blank" style="font-size: 0.7rem; color: var(--hz-text-muted, #94a3b8); text-decoration: none; font-family: monospace;">→ Bericht</a>' +
-                  '</div>' +
-                  '<div style="height: 6px; background: rgba(255,255,255,0.05); border-radius: 3px; overflow: hidden;">' +
-                    '<div style="height: 100%; width: ' + pctBar + '%; background: linear-gradient(90deg, ' + meta.color + ', ' + meta.color + 'aa); border-radius: 3px; transition: width 0.8s cubic-bezier(0.2,0.8,0.2,1);"></div>' +
-                  '</div>' +
-                '</div>' +
-                '<div style="text-align: right; min-width: 90px;">' +
-                  '<div style="font-weight: 700; color: var(--hz-text, #f8fafc); font-size: 1.1rem; font-variant-numeric: tabular-nums;">' + fmtNum(t.count) + '</div>' +
-                  '<div style="font-size: 0.7rem; color: var(--hz-text-muted, #94a3b8);">' + pctTotal.toFixed(1) + ' % aller Dating-Klicks</div>' +
-                '</div>' +
-              '</div>'
-            );
-          }).join('');
-        }
-
-        // DEFENSIV: Tabellen ZUERST (damit Chart-Fehler nix killt)
-        const totalCl = Math.max(1, d.kpis.clicks.month);
-        const tBody = document.querySelector('#table-targets tbody');
-        tBody.innerHTML = d.topClickTargets.length
-          ? d.topClickTargets.map((t, i) => {
-              const pct = ((t.count / totalCl) * 100).toFixed(1);
-              return '<tr><td class="muted">' + (i+1) + '</td><td><strong>' + t.key + '</strong></td><td class="right">' + fmtNum(t.count) + '</td><td class="right muted">' + pct + ' %</td></tr>';
-            }).join('')
-          : '<tr><td colspan="4" class="muted">Noch keine Daten</td></tr>';
-
-        const src = await fetch('/api/herzraum/clicks/sources').then(r => r.json()).catch(() => ({ ok: false }));
-        const sBody = document.querySelector('#table-sources tbody');
-        if (src.ok && src.sources.length) {
-          sBody.innerHTML = src.sources.map((s, i) => '<tr><td class="muted">' + (i+1) + '</td><td>' + s.source + '</td><td class="right">' + fmtNum(s.count) + '</td></tr>').join('');
-        } else {
-          sBody.innerHTML = '<tr><td colspan="3" class="muted">Noch keine Daten</td></tr>';
-        }
-
-        // Charts am Schluss, defensiv — Bug-F3: destroy vor new Chart
-        if (typeof Chart !== 'undefined') {
-          try {
-            if (chartDaily) { chartDaily.destroy(); chartDaily = null; }
-            chartDaily = new Chart(document.getElementById('chart-daily').getContext('2d'), {
-              type: 'line',
-              data: {
-                labels: d.charts.clicksByDay.map(e => e.date.slice(5)),
-                datasets: [{ label: 'Klicks', data: d.charts.clicksByDay.map(e => e.count), borderColor: '#f43f5e', backgroundColor: 'rgba(244,63,94,0.12)', tension: 0.35, fill: true, borderWidth: 2 }],
-              },
-              options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#94a3b8' }, grid: { color: '#2a2a3a' } }, y: { ticks: { color: '#94a3b8', precision: 0 }, grid: { color: '#2a2a3a' }, beginAtZero: true } } },
-            });
-            const targets = Object.entries(d.charts.clicksByTarget || {});
-            if (chartPie) { chartPie.destroy(); chartPie = null; }
-            chartPie = new Chart(document.getElementById('chart-pie').getContext('2d'), {
-              type: 'doughnut',
-              data: { labels: targets.map(t => t[0]), datasets: [{ data: targets.map(t => t[1]), backgroundColor: colors.slice(0, targets.length), borderColor: '#1a1a24', borderWidth: 2 }] },
-              options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { labels: { color: '#e2e8f0' }, position: 'right' } } },
-            });
-          } catch (err) { console.error('[klicks] chart:', err); }
-        }
         } catch (err) {
-          // Bug-F1: fehlendes try/catch → "Lade..." hing ewig bei Fehler
-          console.error('[klicks] load:', err);
-          const tBody = document.querySelector('#table-targets tbody');
-          if (tBody) tBody.innerHTML = '<tr><td colspan="4" style="color:#fca5a5">Fehler beim Laden: ' + (err.message || 'Unbekannt') + '</td></tr>';
+          document.getElementById('breakdown-rows').innerHTML =
+            '<div style="color:#fca5a5; padding:1.5rem; background: rgba(239,68,68,0.08); border-radius: 8px;">Fehler beim Laden: ' + (err.message || 'Unbekannt') + '</div>';
+          return;
+        }
+
+        // KPIs + count-up
+        countUp(document.querySelector('[data-kpi="today"]'), d.kpis.clicks.today);
+        countUp(document.querySelector('[data-kpi="week"]'), d.kpis.clicks.week);
+        countUp(document.querySelector('[data-kpi="month"]'), d.kpis.clicks.month);
+        document.querySelector('[data-kpi="ctr"]').textContent = (d.ctr != null ? d.ctr : '—') + ' %';
+
+        // Today vs yesterday delta if available
+        const byDay = d.charts?.clicksByDay || [];
+        if (byDay.length >= 2) {
+          const today = byDay[byDay.length - 1]?.count || 0;
+          const yday = byDay[byDay.length - 2]?.count || 0;
+          const diff = today - yday;
+          const deltaEl = document.getElementById('kpi-today-delta');
+          if (deltaEl) {
+            if (diff > 0) deltaEl.textContent = '↑ +' + diff + ' vs. gestern';
+            else if (diff < 0) deltaEl.textContent = '↓ ' + diff + ' vs. gestern';
+            else deltaEl.textContent = '= unverändert';
+          }
+        }
+
+        // Chart: daily line with bloom-style gradient fill
+        if (typeof Chart !== 'undefined' && byDay.length) {
+          const ctx = document.getElementById('chart-daily').getContext('2d');
+          const grad = ctx.createLinearGradient(0, 0, 0, 240);
+          grad.addColorStop(0, 'rgba(244,63,94,0.35)');
+          grad.addColorStop(1, 'rgba(244,63,94,0)');
+          if (chartDaily) chartDaily.destroy();
+          chartDaily = new Chart(ctx, {
+            type: 'line',
+            data: {
+              labels: byDay.map(e => e.date.slice(5)),
+              datasets: [{
+                data: byDay.map(e => e.count),
+                borderColor: '#f43f5e', backgroundColor: grad,
+                tension: 0.35, fill: true, borderWidth: 2,
+                pointRadius: 2.5, pointHoverRadius: 6,
+                pointBackgroundColor: '#f43f5e',
+                pointBorderColor: '#fff', pointBorderWidth: 1,
+              }],
+            },
+            options: {
+              responsive: true, maintainAspectRatio: false,
+              plugins: { legend: { display: false }, tooltip: { backgroundColor: 'rgba(10,8,24,.95)', borderColor: '#f43f5e', borderWidth: 1 } },
+              scales: {
+                x: { ticks: { color: '#64748b', font: { size: 10 } }, grid: { color: 'rgba(255,255,255,0.03)' } },
+                y: { ticks: { color: '#64748b', precision: 0, font: { size: 10 } }, grid: { color: 'rgba(255,255,255,0.04)' }, beginAtZero: true }
+              },
+            },
+          });
+        }
+
+        // Store targets + compute counts per category
+        allTargets = (d.topClickTargets || []).map(t => ({
+          key: t.key, count: t.count, cat: classify(t.key)
+        }));
+        // Ensure all 8 dating sites appear (even with 0)
+        Object.keys(DATING_SITES).forEach(slug => {
+          if (!allTargets.find(x => x.key === slug)) allTargets.push({ key: slug, count: 0, cat: 'dating' });
+        });
+
+        const catCounts = { all: 0, dating: 0, product: 0, ebook: 0, marketing: 0, benchmark: 0, other: 0 };
+        allTargets.forEach(t => {
+          catCounts.all += t.count;
+          catCounts[t.cat] = (catCounts[t.cat] || 0) + t.count;
+        });
+        Object.entries(catCounts).forEach(([cat, n]) => {
+          const el = document.querySelector('[data-cat-count="' + cat + '"]');
+          if (el) el.textContent = fmt(n);
+        });
+
+        // Intel analysis
+        renderIntel(allTargets, catCounts, d.kpis.clicks);
+
+        // Initial render
+        renderBreakdown();
+
+        // Quell-Artikel
+        try {
+          const src = await fetch('/api/herzraum/clicks/sources', { cache: 'no-store' }).then(r => r.json());
           const sBody = document.querySelector('#table-sources tbody');
-          if (sBody) sBody.innerHTML = '<tr><td colspan="3" style="color:#fca5a5">Fehler beim Laden</td></tr>';
-          const datingList = document.getElementById('dating-performance-list');
-          if (datingList) datingList.innerHTML = '<div style="color:#fca5a5; text-align:center; padding:2rem;">Fehler beim Laden der Dating-Performance</div>';
+          if (src.ok && src.sources?.length) {
+            sBody.innerHTML = src.sources.map((s, i) =>
+              '<tr><td class="muted">' + (i+1) + '</td><td>' + s.source + '</td><td class="right">' + fmt(s.count) + '</td></tr>'
+            ).join('');
+          } else {
+            sBody.innerHTML = '<tr><td colspan="3" class="muted">Noch keine Quell-Daten</td></tr>';
+          }
+        } catch {
+          document.querySelector('#table-sources tbody').innerHTML = '<tr><td colspan="3" class="muted">Fehler beim Laden</td></tr>';
         }
       }
+
+      function renderIntel(targets, cats, clicks) {
+        const box = document.getElementById('intel-body');
+        const sorted = [...targets].filter(t => t.count > 0).sort((a,b) => b.count - a.count);
+        const top = sorted[0];
+        const totalDating = cats.dating || 0;
+        const totalEbook = cats.ebook || 0;
+        const totalProduct = cats.product || 0;
+        const totalMarketing = cats.marketing || 0;
+
+        const lines = [];
+        if (clicks.month === 0) {
+          lines.push('<strong>Keine Klick-Daten (30d).</strong> Tracking läuft. Prüfe: sind die CTAs auf /top-dating-seiten und /ebook verlinkt? Klicks werden via <code>navigator.sendBeacon</code> an <code>/api/track-click</code> gesendet.');
+        } else {
+          if (top) {
+            lines.push('<strong>' + prettyName(top.key) + '</strong> führt mit ' + fmt(top.count) + ' Klicks (' + ((top.count / clicks.month) * 100).toFixed(0) + ' % aller 30d-Klicks).');
+          }
+          if (totalDating === 0) {
+            lines.push('<span style="color:#fbbf24;">⚠ Keine Dating-Klicks diese 30d.</span> Die CTAs auf <code>/top-dating-seiten</code> funktionieren aber wurden nicht geklickt — ggf. Traffic auf die Seite prüfen.');
+          } else if (totalDating < 5) {
+            lines.push('Dating-Traffic ist noch dünn (' + totalDating + ' Klicks). Top-Dating-Seiten-Page sichtbar im Menü?');
+          } else {
+            lines.push('Dating-Kategorie: <strong>' + fmt(totalDating) + '</strong> Klicks verteilt auf ' + targets.filter(t=>t.cat==='dating' && t.count>0).length + ' Brands.');
+          }
+          if (totalEbook > 0) lines.push('E-Book Funnel: <strong>' + fmt(totalEbook) + '</strong> Klicks (Sofort/Whop/Paysafe/Waitlist).');
+          if (totalProduct > 0) lines.push('Produkte (Gottman, etc): <strong>' + fmt(totalProduct) + '</strong> Klicks.');
+          if (totalMarketing > 0) lines.push('Social-Out (TikTok/Insta): <strong>' + fmt(totalMarketing) + '</strong> Klicks.');
+        }
+        box.innerHTML = lines.map(l => '<div style="margin-bottom: 0.5rem;">' + l + '</div>').join('');
+      }
+
+      function renderBreakdown() {
+        const list = activeCat === 'all' ? allTargets : allTargets.filter(t => t.cat === activeCat);
+        const sorted = list.slice().sort((a,b) => b.count - a.count);
+        const total = Math.max(1, sorted.reduce((s,t) => s + t.count, 0));
+        const max = Math.max(1, sorted[0]?.count || 0);
+
+        document.getElementById('breakdown-title').textContent = 'Ziele · ' + {
+          all: 'Alle Kategorien',
+          dating: 'Dating-Plattformen',
+          product: 'Produkte',
+          ebook: 'E-Book Funnel',
+          marketing: 'Social / Marketing',
+          benchmark: 'Benchmark (Wettbewerber)',
+        }[activeCat];
+
+        const rows = document.getElementById('breakdown-rows');
+        if (!sorted.length) {
+          rows.innerHTML = '<div style="color: var(--hz-text-muted); padding: 2rem; text-align: center; background: rgba(255,255,255,0.02); border-radius: 8px;">Noch keine Klicks in dieser Kategorie.</div>';
+          return;
+        }
+        rows.innerHTML = sorted.map((t, i) => {
+          const rank = i + 1;
+          const meta = DATING_SITES[t.key];
+          const logo = meta
+            ? '<img class="kl-row-logo" src="' + meta.logo + '" alt="' + meta.name + '" loading="lazy"/>'
+            : '<span class="kl-row-logo" style="background: ' + categoryColor(t.cat).a + '22; color: ' + categoryColor(t.cat).a + ';">' + iconFor(t.cat) + '</span>';
+          const name = meta ? meta.name : prettyName(t.key);
+          const link = meta ? '<a href="' + meta.link + '" target="_blank">→ Bericht</a>' : '';
+          const pctBar = (t.count / max) * 100;
+          const pctTotal = (t.count / total) * 100;
+          const rankCls = rank === 1 ? 'top1' : rank === 2 ? 'top2' : rank === 3 ? 'top3' : '';
+          const color = categoryColor(t.cat);
+          return (
+            '<div class="kl-row" style="--row-color:' + color.a + '; --row-color-2:' + color.b + ';">' +
+              '<div class="kl-row-rank ' + rankCls + '">' + rank + '</div>' +
+              logo +
+              '<div class="kl-row-body">' +
+                '<div class="kl-row-name">' + name + link + '</div>' +
+                '<div class="kl-row-bar"><div class="kl-row-bar-fill" style="width:' + pctBar + '%;"></div></div>' +
+              '</div>' +
+              '<div class="kl-row-count">' +
+                '<div class="kl-row-count-big">' + fmt(t.count) + '</div>' +
+                '<div class="kl-row-count-pct">' + pctTotal.toFixed(1) + ' %</div>' +
+              '</div>' +
+            '</div>'
+          );
+        }).join('');
+      }
+
+      function iconFor(cat) {
+        return { dating: '💕', product: '🎁', ebook: '📖', marketing: '📢', benchmark: '📊', other: '•' }[cat] || '•';
+      }
+
+      // Segment button wiring
+      document.querySelectorAll('.kl-seg-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.kl-seg-btn').forEach(b => b.classList.toggle('active', b === btn));
+          activeCat = btn.dataset.cat;
+          renderBreakdown();
+        });
+      });
 
       load();
     })();
