@@ -9,8 +9,14 @@
  *   Damit kann nur der Mail-Empfänger sich selbst abmelden
  *   (ohne den Secret kann niemand Tokens für fremde Mails bauen).
  *
- *   Fallback: wenn UNSUBSCRIBE_SECRET nicht gesetzt, wird IP_SALT genutzt
- *   (kein sicherheitsrelevanter Unterschied, nur weniger Admin-ENV).
+ *   **Fail-closed:** Vor April 2026 fiel der Secret-Lookup auf `IP_SALT`
+ *   zurück und dann auf den hardcoded String
+ *   "herzblatt-unsubscribe-fallback-secret". Wenn in Railway beide Envs
+ *   fehlten, konnte jeder Internetnutzer mit drei Zeilen Code einen
+ *   gültigen Token für beliebige Mails berechnen und die gesamte
+ *   Subscriber-Liste en masse abmelden.
+ *   Jetzt: nur `UNSUBSCRIBE_SECRET` wird akzeptiert, Minimum 16 Zeichen.
+ *   Fehlt er, wirft der Handler 500 + Sentry-Capture — kein Fallback.
  *
  * URL-Format:
  *   https://.../unsubscribe?email=x@y.z&token=HMACxxxxx
@@ -30,12 +36,34 @@ import { db, schema } from '../db/index.js';
 
 const app = new Hono();
 
+const MIN_UNSUBSCRIBE_SECRET_LENGTH = 16;
+
+/**
+ * Secret holen — strict: nur `UNSUBSCRIBE_SECRET`, kein Fallback-Chain.
+ * Wirft wenn nicht gesetzt oder zu kurz. Der Aufrufer muss den Throw
+ * fangen und dem User einen 500-er zurückgeben.
+ */
 function getUnsubscribeSecret(): string {
-  return (
-    process.env.UNSUBSCRIBE_SECRET ||
-    process.env.IP_SALT ||
-    'herzblatt-unsubscribe-fallback-secret'
-  );
+  const secret = process.env.UNSUBSCRIBE_SECRET;
+  if (!secret || secret.length < MIN_UNSUBSCRIBE_SECRET_LENGTH) {
+    throw new Error(
+      `UNSUBSCRIBE_SECRET env var missing or too short (min ${MIN_UNSUBSCRIBE_SECRET_LENGTH} chars) — refusing to issue or verify tokens`,
+    );
+  }
+  return secret;
+}
+
+/**
+ * Boot-time Check: wird von index.ts vor dem `serve()`-Start aufgerufen.
+ * Scheitert laut statt silent mit einem Fallback-Default zu starten.
+ */
+export function assertUnsubscribeSecretConfigured(): void {
+  const secret = process.env.UNSUBSCRIBE_SECRET;
+  if (!secret || secret.length < MIN_UNSUBSCRIBE_SECRET_LENGTH) {
+    throw new Error(
+      `UNSUBSCRIBE_SECRET env var missing or too short (min ${MIN_UNSUBSCRIBE_SECRET_LENGTH} chars) — refusing to boot`,
+    );
+  }
 }
 
 export function buildUnsubscribeToken(email: string): string {
@@ -46,9 +74,20 @@ export function buildUnsubscribeToken(email: string): string {
     .slice(0, 32);
 }
 
-function verifyUnsubscribeToken(email: string, token: string): boolean {
+/**
+ * Gibt `null` zurück wenn das Secret nicht konfiguriert ist — der Aufrufer
+ * muss dann einen 500 rausgeben. So trennen wir "ungültiger Token" (400)
+ * von "Server-Mis-Konfiguration" (500) sauber.
+ */
+function verifyUnsubscribeToken(email: string, token: string): boolean | null {
   if (!email || !token) return false;
-  const expected = buildUnsubscribeToken(email);
+  let expected: string;
+  try {
+    expected = buildUnsubscribeToken(email);
+  } catch (err) {
+    console.error('[unsubscribe] secret-config error:', err);
+    return null;
+  }
   // Timing-safe compare
   if (expected.length !== token.length) return false;
   let diff = 0;
@@ -71,7 +110,15 @@ app.get('/', async (c) => {
   const email = (c.req.query('email') || '').toLowerCase().trim();
   const token = (c.req.query('token') || '').trim();
 
-  if (!email || !token || !verifyUnsubscribeToken(email, token)) {
+  const verdict = verifyUnsubscribeToken(email, token);
+  if (verdict === null) {
+    return c.html(renderPage({
+      ok: false,
+      title: 'Fehler',
+      message: 'Der Abmelde-Service ist nicht korrekt konfiguriert. Bitte schreibe eine Mail an support@herzblatt-journal.com.',
+    }), 500);
+  }
+  if (!email || !token || !verdict) {
     return c.html(renderPage({
       ok: false,
       title: 'Ungültiger Link',
@@ -119,7 +166,11 @@ app.post('/', async (c) => {
     token = String(form.token || '').trim();
   }
 
-  if (!email || !token || !verifyUnsubscribeToken(email, token)) {
+  const verdict = verifyUnsubscribeToken(email, token);
+  if (verdict === null) {
+    return c.json({ ok: false, error: 'unsubscribe-not-configured' }, 500);
+  }
+  if (!email || !token || !verdict) {
     return c.json({ ok: false, error: 'invalid token' }, 400);
   }
 
