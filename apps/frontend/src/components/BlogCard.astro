@@ -9,9 +9,11 @@ interface Props {
   featured?: boolean;
   image?: string;
   imageAlt?: string;
+  /** Priorität für LCP: setzt loading=eager + fetchpriority=high. Nur für die 1-2 Cards above-the-fold nutzen. */
+  priority?: boolean;
 }
 
-const { title, description, date: rawDate, tags, slug, readingTime, featured = false, image, imageAlt } = Astro.props;
+const { title, description, date: rawDate, tags, slug, readingTime, featured = false, image, imageAlt, priority = false } = Astro.props;
 
 const date = rawDate ? (rawDate instanceof Date ? rawDate : new Date(rawDate)) : null;
 
@@ -47,7 +49,8 @@ const formattedDate = date && !isNaN(date.getTime())
           width="1200"
           height="675"
           class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-          loading="lazy"
+          loading={priority ? 'eager' : 'lazy'}
+          fetchpriority={priority ? 'high' : 'auto'}
           decoding="async"
         />
       ) : (

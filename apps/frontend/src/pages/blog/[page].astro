@@ -51,7 +51,7 @@ const prevUrl = prevPage === 1 ? '/blog' : `/blog/${prevPage}`;
 
     <!-- Posts Grid -->
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-      {posts.map((post: any) => (
+      {posts.map((post: any, i: number) => (
         <BlogCard
           title={post.data.title}
           description={post.data.description}
@@ -61,6 +61,7 @@ const prevUrl = prevPage === 1 ? '/blog' : `/blog/${prevPage}`;
           readingTime={getReadingTime(post.body || '')}
           image={post.data.image}
           imageAlt={post.data.imageAlt}
+          priority={i < 2}
         />
       ))}
     </div>
