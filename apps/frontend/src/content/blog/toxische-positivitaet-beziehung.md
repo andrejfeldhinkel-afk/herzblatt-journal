@@ -157,3 +157,9 @@ Das ist alles, was man braucht. Das ist, was Beziehungen heilt.
 Wenn Toxic Positivity in deiner Beziehung ein Problem ist, könnten auch diese Artikel helfen:
 - [Grenzen setzen: Wie du "Nein" sagst ohne schuldig zu fühlen](/blog/grenzen-setzen-beziehung)
 - [Paarkommunikation: Die unbequemen Gespräche führen](/blog/kommunikation-beziehung)
+
+## Weiterführende Artikel
+
+- [Emotionale Distanz in der Beziehung überbrücken](/blog/beziehung-emotionale-distanz-ueberbruecken)
+- [Gemeinsam wachsen als Paar – Wenn Liebe Entwicklung bedeutet](/blog/beziehung-gemeinsam-wachsen)
+- [Beziehungs-Gesundheits-Check](/blog/beziehung-gesundheits-check)

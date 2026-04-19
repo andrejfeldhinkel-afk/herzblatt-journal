@@ -218,3 +218,8 @@ Wenn diese Person klar macht, dass kein Mund-Kuss erwünscht ist, sind diese Alt
 Eine Studie der Dating-App [Nervosität beim Date überwinden 2026: 8 sofort-Tipps](/blog/nervositaet-beim-date-ueberwinden)
 - [Date absagen ohne schlechtes Gewissen](/blog/date-absagen-richtig)
 
+## Weiterführende Artikel
+
+- [Gesprächsthemen fürs Date: Nie mehr Stille](/blog/date-gespraeche-meistern)
+- [Das perfekte erste Date planen: Von A bis Z](/blog/erstes-date-perfekt-planen-guide)
+- [Was schreiben nach erstem Date: 15+ Beispiel-Nachrichten](/blog/was-schreiben-nach-erstem-date)

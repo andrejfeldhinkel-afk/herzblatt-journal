@@ -156,3 +156,9 @@ Das wird wirken. Das wird ankommen. Das wird die andere Person wirklich fühlen.
 **Verwandte Artikel:**
 - [Die Kunst ehrlicher Komplimente – Authentisches Flirten](/blog/dating-ehrliche-komplimente)
 - [Komplimente richtig machen: Das Lob in Beziehungen](/blog/komplimente-richtig-machen)
+
+## Weiterführende Artikel
+
+- [Komplimente machen: 50 ehrliche Komplimente die wirklich ...](/blog/komplimente-machen-guide)
+- [Gesprächsthemen fürs Date: Nie mehr Stille](/blog/date-gespraeche-meistern)
+- [Date-Gespräche die nie langweilig werden: 100 Fragen](/blog/date-gespraeche-nie-langweilig)

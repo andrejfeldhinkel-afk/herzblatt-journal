@@ -251,3 +251,9 @@ Es wird nicht schneller sein. Es wird nicht immer einfacher sein. Es wird nicht 
 **Verwandte Artikel:**
 - Sichere Bindung entwickeln: Der Weg zu stabilen Beziehungen
 - [Dating als hochsensible Person: Deine Sensibilität als Superkraft nutzen](/blog/dating-hochsensible-hsp-guide)
+
+## Weiterführende Artikel
+
+- [Slow Dating: Der Dating-Trend 2026 erklärt](/blog/slow-dating-trend-2026)
+- [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung)
+- [Dating mit Kindern: So findest du als alleinerziehend](/blog/dating-mit-kindern)

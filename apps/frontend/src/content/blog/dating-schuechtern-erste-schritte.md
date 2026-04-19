@@ -133,3 +133,8 @@ Das ist, wie Schüchternheit wirklich überwunden wird. Nicht durch Wünschens z
 - [Die perfekte erste Nachricht in Dating-Apps](/blog/erste-nachricht-dating-app)
 - [Die perfekte erste Nachricht beim Online-Dating](/blog/erste-nachricht-online-dating)
 
+## Weiterführende Artikel
+
+- [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
+- [Dating als hochbegabter Mensch](/blog/dating-als-hochbegabter-mensch)
+- [Dating als schüchterne Person: Der komplette Guide](/blog/dating-als-schuechterne-person-guide)

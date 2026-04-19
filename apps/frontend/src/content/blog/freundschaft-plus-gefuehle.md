@@ -137,3 +137,8 @@ Das funktioniert manchmal. Manchmal nicht. Aber es gibt dieser Person Raum, ihre
 **Option 3: [Freundschaft Plus – Regeln, Risiken und wann es funktioniert](/blog/freundschaft-plus-regeln)
 - [Wenn aus Freundschaft Liebe wird](/blog/freundschaft-wird-liebe)
 
+## Weiterführende Artikel
+
+- [Das DTR-Gespräch: So definierst du deine Beziehung richtig](/blog/beziehung-definieren-dtr-gespraech)
+- [Beziehung nach langer Single-Phase: Umstellung meistern](/blog/beziehung-nach-langer-single-phase)
+- [Dating als Alleinerziehende/r: Der ehrliche Eltern-Guide](/blog/dating-als-elternteil-guide)

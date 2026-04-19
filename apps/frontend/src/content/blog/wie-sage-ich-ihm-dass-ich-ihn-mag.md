@@ -204,3 +204,9 @@ Das Schlimmste, das passieren kann, ist dass er "Nein" sagt. Und du wirst damit 
 **Verwandte Artikel:**
 - [Anzeichen dass er mich liebt — 15+ Signale erkannt](/blog/anzeichen-dass-er-mich-liebt)
 - [Wie verlieben sich Männer — Die 4 Phasen erklärt](/blog/wie-verlieben-sich-maenner)
+
+## Weiterführende Artikel
+
+- [Ich liebe dich sagen: Timing, Mut und was danach kommt](/blog/ich-liebe-dich-sagen-tipps)
+- [Ab wann ist es Ghosting? Stunden, Tage, Wochen erklärt](/blog/ab-wann-ist-es-ghosting)
+- [Benching beim Dating erkennen](/blog/benching-dating-wartebank-erkennen)

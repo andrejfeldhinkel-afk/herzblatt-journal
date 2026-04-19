@@ -178,3 +178,9 @@ Also, wenn du Gefühle in einer Freundschaft-Plus-Situation entwickelt hast: Das
 **Weitere hilfreiche Artikel:**
 - [Verliebt in deine beste Freundin – Was nun?](/blog/verliebt-in-beste-freundin)
 - [Offene Beziehung: Die psychologische Perspektive](/blog/offene-beziehung-psychologie-perspektive)
+
+## Weiterführende Artikel
+
+- [Seelenpartner körperliche Symptome: Spüre die Verbindung](/blog/seelenpartner-koerperliche-symptome)
+- [Unglücklich verliebt: Was du wirklich tun kannst (und was...](/blog/ungluecklich-verliebt-was-tun)
+- [Freundschaft Plus: Der komplette Guide zu Sex ohne Liebe](/blog/freundschaft-plus-komplett-guide)

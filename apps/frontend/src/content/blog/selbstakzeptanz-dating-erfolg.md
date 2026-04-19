@@ -121,3 +121,8 @@ Sie werden auch weniger in Spielspiele oder emotionale Drama verwickelt. Mensche
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
 - [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 
+## Weiterführende Artikel
+
+- [Attachment Styles: Einfluss auf dein Dating](/blog/attachment-styles-dating-verstehen)
+- [Bindungsstile im Dating: Wie sie dich beeinflussen](/blog/bindungsstile-dating)
+- [Bisexuelles Dating: Zwischen den Welten — Tipps für bi](/blog/bisexuell-dating-tipps)

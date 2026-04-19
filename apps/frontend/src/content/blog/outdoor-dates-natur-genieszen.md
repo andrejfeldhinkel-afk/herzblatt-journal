@@ -267,3 +267,9 @@ Deshalb funktionieren Outdoor-Dates so gut für frühe Datierung — sie geben d
 
 - [After-Work Dates – Perfekt für Berufstätige](/blog/dating-after-work-dates)
 - [Sichere Dates – Selbstschutz beim Kennenlernen](/blog/dating-sichere-dates)
+
+## Weiterführende Artikel
+
+- [Abenteuer-Dates: Adrenalin stärkt die Bindung](/blog/abenteuer-dates-adrenalin)
+- [Date Ideen Sommer: 30 Outdoor-Aktivitäten für Paare](/blog/date-ideen-sommer-outdoor)
+- [30 Outdoor-Date-Ideen für jede Jahreszeit](/blog/dating-outdoor-date-ideen)

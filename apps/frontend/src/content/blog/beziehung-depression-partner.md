@@ -135,3 +135,9 @@ Beides ist notwendig.
 Wenn du mit einem depressiven Partner kämpfst, könnten auch diese Artikel helfen:
 - [Burnout in Beziehungen: Wenn geben alles nimmt](/blog/beziehung-nach-burnout)
 - [Kommunikation mit einem depressiven Partner: Was funktioniert wirklich](/blog/kommunikation-beziehung)
+
+## Weiterführende Artikel
+
+- [Beziehung und Depression: Wenn die Seele die Liebe belastet](/blog/beziehung-und-depression-guide)
+- [ADHS und Beziehung: Der komplette Guide für Liebe](/blog/adhs-und-beziehung-komplett-guide)
+- [Beziehung führen mit psychischer Erkrankung](/blog/beziehung-nach-psychischer-erkrankung)

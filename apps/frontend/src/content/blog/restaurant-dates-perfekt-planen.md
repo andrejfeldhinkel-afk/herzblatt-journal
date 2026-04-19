@@ -85,3 +85,9 @@ Zu viel trinken und dann unhöflich werden. Oder Dinge sagen, die du nicht meins
 
 - [After-Work Dates – Perfekt für Berufstätige](/blog/dating-after-work-dates)
 - [Sichere Dates – Selbstschutz beim Kennenlernen](/blog/dating-sichere-dates)
+
+## Weiterführende Artikel
+
+- [Zweites Date planen: Vom ersten Treffen zum echten Anfang](/blog/zweites-date-planen-tipps)
+- [100 kreative Date-Ideen für jede Jahreszeit](/blog/kreative-date-ideen-jede-jahreszeit)
+- [Das perfekte erste Date planen: Von A bis Z](/blog/erstes-date-perfekt-planen-guide)

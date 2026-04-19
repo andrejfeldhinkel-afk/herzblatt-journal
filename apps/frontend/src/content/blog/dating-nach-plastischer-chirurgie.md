@@ -195,3 +195,8 @@ Das ist es.
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
 - [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 
+## Weiterführende Artikel
+
+- [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
+- [Dating als pflegender Angehöriger](/blog/dating-als-pflegender-angehoeriger)
+- [Dating als schüchterne Person: Der komplette Guide](/blog/dating-als-schuechterne-person-guide)

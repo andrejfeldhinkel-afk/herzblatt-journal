@@ -238,3 +238,9 @@ Das ist wenn es funktioniert.
 **Weitere Artikel zum Thema:**
 - [Limerence vs. echte Liebe: Warum du nicht verliebt bist sondern besessen](/blog/limerence-vs-liebe-unterschied-guide)
 - [Ghosting verarbeiten und wieder vertrauen lernen](/blog/beziehung-nach-ghosting-verarbeiten-guide)
+
+## Weiterführende Artikel
+
+- [Dating Detox: Warum eine Pause dir guttut](/blog/dating-detox-pause)
+- [Dating nach Essstörung: Partnersuche in Recovery](/blog/dating-nach-essstoerung)
+- [Dating nach Gewaltbeziehung: Sicher neu starten](/blog/dating-nach-gewaltbeziehung)

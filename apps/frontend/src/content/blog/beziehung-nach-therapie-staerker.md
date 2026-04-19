@@ -167,3 +167,8 @@ Aber wenn die Beziehung gesund ist, wenn es Potenzial gibt, wenn Sie beide berei
 - [Neustart nach einer Affäre: Der 8-Wochen-Plan für Heilung](/blog/beziehung-after-affaere-plan)
 - [Großer Altersunterschied in der Beziehung](/blog/beziehung-altersunterschied-gross)
 
+## Weiterführende Artikel
+
+- [Beziehung nach gemeinsamer Therapie](/blog/beziehung-nach-gemeinsamer-therapie)
+- [30-Tage Beziehungs-Challenge — Jeden Tag eine Aufgabe](/blog/beziehung-30-day-challenge)
+- [Gewaltfreie Kommunikation für Paare](/blog/beziehung-konfliktfrei-kommunizieren)

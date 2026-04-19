@@ -126,3 +126,9 @@ Diese Person ist ein realer Mensch mit Fehlern und Schwächen und Problemen. Sie
 
 Und noch wichtiger: Dass dich zeigen denen könnte sie nicht überzeugen, dass ihr zusammen sein seid. Sie könnten nicht interessiert sein. Sie könnten bereits in jemanden anderes [Limerence vs. echte Liebe: Warum du nicht verliebt bist sondern besessen](/blog/limerence-vs-liebe-unterschied-guide)
 - [Ghosting verarbeiten und wieder vertrauen lernen](/blog/beziehung-nach-ghosting-verarbeiten-guide)
+
+## Weiterführende Artikel
+
+- [Parasoziale Beziehungen und ihr Einfluss aufs Dating](/blog/parasoziale-beziehungen-einfluss)
+- [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
+- [Ängstlicher Bindungsstil: So meisterst du Dating und Bezi...](/blog/anxious-attachment-dating-guide)

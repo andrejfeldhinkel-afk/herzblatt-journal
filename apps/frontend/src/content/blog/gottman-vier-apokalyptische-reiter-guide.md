@@ -152,3 +152,9 @@ Warte nicht bis es zu spät ist.
 ---
 
 **Weitere Artikel zum Thema:** [Kommunikation in Beziehungen](/blog/kommunikation-beziehung), [Konflikt-Auflösung](/blog/konflikte-loesen-paar)
+
+## Weiterführende Artikel
+
+- [Die 4 apokalyptischen Reiter nach Gottman: Was deine](/blog/vier-apokalyptische-reiter-beziehung)
+- [Die 4 apokalyptischen Reiter nach Gottman](/blog/gottman-vier-apokalyptische-reiter)
+- [Bid for Connection: Wie kleine Gesten Beziehungen retten](/blog/bid-for-connection-gottman)

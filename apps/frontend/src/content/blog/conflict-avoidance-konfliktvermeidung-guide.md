@@ -247,3 +247,9 @@ Die Art, die dich näher zusammen bringt.
 ---
 
 **Weitere Ressourcen:** Lerne auch über [Kommunikation in Beziehungen](/blog/beziehung-kommunikation-gewaltfreie) und [grenzensetzen](/blog/grenzen-setzen-beziehung).
+
+## Weiterführende Artikel
+
+- [Konfliktvermeidung in der Beziehung: Warum Schweigen schadet](/blog/konfliktvermeidung-beziehung-loesen)
+- [Aktives Zuhören lernen: Die verlorene Kunst, die deine Beziehung rettet](/blog/aktives-zuhoeren)
+- [Emotionale Distanz in der Beziehung überbrücken](/blog/beziehung-emotionale-distanz-ueberbruecken)

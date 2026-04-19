@@ -111,3 +111,8 @@ Erstens, du kannst die Fassade nicht lange aufrechterhalten. Irgendwann wirst du
 Zweitens, du ziehst damit die falsche Person an. Wenn sie sich in die "coole Version" [Impostor-Syndrom beim Dating: Du bist genug (glaub mir)](/blog/dating-impostor-syndrom)
 - [Benching beim Dating: Wenn du auf der Ersatzbank sitzt](/blog/dating-nach-diebstahl-des-herzens)
 
+## Weiterführende Artikel
+
+- [Dating für Frauen: Selbstbewusst zum Glück](/blog/dating-fuer-frauen-selbstbewusst)
+- [Dating mit ADHS: So findest du Liebe trotz](/blog/dating-mit-adhs)
+- [Dating nach langer Einsamkeit und sozialer Isolation](/blog/dating-nach-einsamkeit-soziale-isolation)

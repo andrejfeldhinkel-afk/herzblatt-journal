@@ -115,3 +115,9 @@ Klare Abmachungen, echte Pausen, räumliche oder zeitliche Grenzen und offene Ko
 Schau dir auch unsere anderen Artikel zum Thema an: [Beziehung auf Distanz meistern](/blog/fernbeziehung-tipps) und [Wie Paare richtig kommunizieren](/blog/kommunikation-beziehung/).
 
 Wie geht es dir und deinem Partner mit dem Homeoffice? Lass mir einen Kommentar da!
+
+## Weiterführende Artikel
+
+- [Aktives Zuhören üben: Besser verstehen in 7 Schritten](/blog/aktives-zuhoeren-beziehung-ueben)
+- [Beziehung mit großem Altersunterschied](/blog/beziehung-altersunterschied)
+- [Beziehungs-Check-in: Das wöchentliche Ritual das alles](/blog/beziehung-check-in-ritual)

@@ -166,3 +166,9 @@ Diese Fragen werden immer wichtiger, wenn Beziehungen mehr und mehr "social medi
 **Verwandte Artikel:**
 - [Asexualität und Dating: Liebe und Beziehung ohne sexuelle Anziehung](/blog/asexualitaet-dating-beziehung)
 - [Großer Altersunterschied in der Beziehung: Tipps und Herausforderungen](/blog/beziehung-altersunterschied-gross)
+
+## Weiterführende Artikel
+
+- [15 Anzeichen dass er keine Beziehung will](/blog/anzeichen-er-will-keine-beziehung)
+- [Dankbarkeit in Beziehungen: Die unterschätzte Superkraft](/blog/beziehung-dankbarkeits-praxis)
+- [Digital Detox Challenge für Paare](/blog/beziehung-digital-detox-challenge)

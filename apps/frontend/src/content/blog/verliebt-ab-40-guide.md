@@ -711,3 +711,9 @@ Die Welt wartet auf dich.
 Und wenn Liebe kommt – und sie wird – dann ist sie echte Liebe, nicht Illusion.
 
 Das ist das Beste, das dir passieren kann.
+
+## Weiterführende Artikel
+
+- [Dating ab 50: Der komplette Guide für die Liebe](/blog/dating-ab-50-kompletter-guide)
+- [Dating über 50: Der komplette Guide für die zweite Lebens...](/blog/dating-ueber-50-kompletter-guide)
+- [Introvertiert und Dating: So findest du als stiller Mensch](/blog/introvertiert-dating)

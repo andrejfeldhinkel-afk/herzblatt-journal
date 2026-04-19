@@ -214,3 +214,8 @@ Eine toxische karmische Beziehung wird dich schaden.
 
 Der Unterschied ist wichtig. Nicht jede Schwierigkeit ist toxisch. Aber nicht jede [Limerence vs. echte Liebe: Warum du nicht verliebt bist sondern besessen](/blog/limerence-vs-liebe-unterschied-guide)
 - [Emotionale Reife in Beziehungen: Wie du erkennst ob du (und dein Partner) bereit seid](/blog/emotionale-reife-beziehung-guide)
+
+## Weiterführende Artikel
+
+- [Seelenpartner: Gibt es Die Eine oder ist Das ein Mythos?](/blog/seelenpartner-komplett-guide)
+- [Seelenpartner-Zeichen erkennen](/blog/seelenpartner-zeichen-erkennen)

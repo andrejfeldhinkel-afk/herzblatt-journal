@@ -176,3 +176,9 @@ Das ist es. Das ist alles, was du brauchst. Mut, Authentizität und Respekt.
 **Weitere hilfreiche Artikel:**
 - [Verliebt in Kollegen – Was du wissen musst](/blog/verliebt-in-kollegen-was-tun)
 - [Gute Fragen fürs Date stellen](/blog/gute-fragen-fuers-date)
+
+## Weiterführende Artikel
+
+- [Dating ab 40: Neustart in der Liebe](/blog/dating-ab-40)
+- [Fragen für die Kennenlernphase: 77 Fragen nach Tiefe sortiert](/blog/fragen-kennenlernphase)
+- [Liebe auf den ersten Blick: Mythos oder Realität](/blog/liebe-auf-den-ersten-blick)

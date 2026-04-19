@@ -174,3 +174,9 @@ Die App ist nur der Türöffner.
 Wenn du Online-Dating verstehen willst, könnten auch diese Artikel helfen:
 - [Von Match zu Date: Wie du ein echtes Treffen vereinbarst](/blog/vom-match-zum-date)
 - [Die beste Dating App für dich: Vergleich 2026](/blog/beste-dating-apps-2026)
+
+## Weiterführende Artikel
+
+- [Dating-App Gespräche: Von Small Talk zu echten Verbindungen](/blog/dating-app-gespraeche-vertiefen)
+- [Viele Matches, keine Dates: Was du falsch machst und wie du](/blog/dating-app-matches-keine-dates)
+- [Dating-App Premium: Lohnt sich bezahlen?](/blog/dating-app-premium-lohnt-sich)

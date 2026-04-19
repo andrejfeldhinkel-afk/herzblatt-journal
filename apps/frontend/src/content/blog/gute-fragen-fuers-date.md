@@ -187,3 +187,9 @@ Und wer weiß? Vielleicht führen diese echten Gespräche zu echten Beziehungen.
 **Weitere hilfreiche Artikel:**
 - [Frisch verliebt – Die Phase genießen](/blog/frisch-verliebt-phase-geniessen)
 - [Verliebt in Kollegen – Was du wissen musst](/blog/verliebt-in-kollegen-was-tun)
+
+## Weiterführende Artikel
+
+- [Freundschaft Plus: Der komplette Guide zu Sex ohne Liebe](/blog/freundschaft-plus-komplett-guide)
+- [Blind Date: Tipps, Vorbereitung & was du erwarten kannst](/blog/blind-date-tipps-guide)
+- [Chemistry beim Date: Woran du echte Anziehung erkennst](/blog/chemistry-beim-date-erkennen)

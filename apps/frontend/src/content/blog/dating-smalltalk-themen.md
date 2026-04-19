@@ -156,3 +156,8 @@ FehlerProblemFix”Nur über dich reden”Sie fühlt sich nicht beachtetFrag reg
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
 - [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
 
+## Weiterführende Artikel
+
+- [Dating-App Gespräche: Von Small Talk zu echten Verbindungen](/blog/dating-app-gespraeche-vertiefen)
+- [Viele Matches, keine Dates: Was du falsch machst und wie du](/blog/dating-app-matches-keine-dates)
+- [50 Opener für Dating-Apps die wirklich funktionieren](/blog/dating-app-opener-vorlagen)

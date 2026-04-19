@@ -148,3 +148,9 @@ Ein aufrichtiges Kompliment ist eines der einfachsten, aber mächtigsten Dinge, 
 Fang heute an. Gib deinem Partner ein aufrichtiges, spezifisches Kompliment. Beobachte, wie er/sie reagiert. Und dann mach es zur Gewohnheit.
 
 Die Liebe wächst, wenn wir unsere Partner sehen und schätzen. Und das beginnt mit einem einfachen, aufrichtigen Kompliment.
+
+## Weiterführende Artikel
+
+- [Beziehung wieder spannend machen](/blog/beziehung-langweilig-spannend-machen)
+- [Komplimente für Männer: 50 Beispiele, die wirklich ankommen](/blog/komplimente-fuer-maenner)
+- [Schluss machen: So beendest du eine Beziehung respektvoll](/blog/schluss-machen-richtig-guide)

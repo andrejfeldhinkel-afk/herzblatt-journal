@@ -387,3 +387,9 @@ Das ist digitale Grenzen. Das ist echte Liebe in einer digitalen Welt.
 ---
 
 **Weitere Artikel zum Thema:** [Eifersucht in der Beziehung verstehen](/blog/eifersucht-bekaempfen)
+
+## Weiterführende Artikel
+
+- [Beziehung nach einer Affäre retten](/blog/beziehung-after-affaere-plan)
+- [Finanzplanung als Paar – Geld ist nicht die Größte Heraus...](/blog/beziehung-finanzplanung-paare)
+- [Beziehungs-Gesundheits-Check](/blog/beziehung-gesundheits-check)

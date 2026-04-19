@@ -197,3 +197,8 @@ Die rechte Person wird sagen: „Ja. Wir lernen zusammen.”
 - [Dating mit 30 – Warum jetzt die beste Zeit für die Liebe ist](/blog/dating-nach-30-tipps)
 - [Dating nach einer Ghosting-Erfahrung](/blog/dating-nach-ghosting-erfahrung)
 
+## Weiterführende Artikel
+
+- ['Dating über 50: Der komplette Guide](/blog/dating-nach-50-neuanfang-guide)
+- [Dating ab 40: Neustart](/blog/dating-ab-40-neu-starten)
+- [Dating nach Scheidung: Der komplette Neustart-Guide für G...](/blog/dating-after-divorce-neuanfang-guide)
