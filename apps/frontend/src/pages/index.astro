@@ -102,41 +102,51 @@ const testimonials = [
 
     <div class="relative max-w-6xl mx-auto px-4 sm:px-6 pt-28 sm:pt-36 pb-32">
       <div class="max-w-2xl">
-        <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-sm font-medium mb-6" style="background: rgba(255,255,255,0.15); color: white; border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(8px);">
-          <span class="w-2 h-2 rounded-full animate-pulse bg-white"></span>
-          Dein Dating-Ratgeber
+        <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-sm font-medium mb-6" style="background: rgba(255,255,255,0.18); color: white; border: 1px solid rgba(255,255,255,0.25); backdrop-filter: blur(8px);">
+          <span class="w-2 h-2 rounded-full hero-pulse-dot" style="background: #fff;" aria-hidden="true"></span>
+          <span>Dein ehrlicher Dating-Ratgeber</span>
         </div>
 
-        <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold leading-[1.1] mb-6 text-white" style="font-family: var(--font-serif); letter-spacing: -0.03em; text-shadow: 0 2px 20px rgba(0,0,0,0.3);">
+        <h1 class="text-4xl sm:text-5xl lg:text-[4rem] font-extrabold leading-[1.05] mb-6 text-white" style="font-family: var(--font-serif); letter-spacing: -0.035em; text-shadow: 0 2px 24px rgba(0,0,0,0.35);">
           Finde die Liebe,<br/>
-          die du <span style="color: var(--color-primary-300);">verdienst</span>
+          die du <span style="color: var(--color-primary-300); background: linear-gradient(135deg, #fda4af, #fecdd3); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;">verdienst</span>.
         </h1>
 
-        <p class="text-lg sm:text-xl leading-relaxed mb-10 max-w-lg" style="color: rgba(255,255,255,0.85); text-shadow: 0 1px 8px rgba(0,0,0,0.2);">
-          Ehrliche Dating-Tipps, bewährte Strategien und echte Einblicke — damit dein nächstes Date dein bestes wird.
+        <p class="text-lg sm:text-xl leading-relaxed mb-10 max-w-xl" style="color: rgba(255,255,255,0.92); text-shadow: 0 1px 8px rgba(0,0,0,0.25);">
+          Ehrliche Dating-Tipps, fundierte Beziehungs-Psychologie und echte Erfahrungsberichte — damit dein nächstes Date dein bestes wird.
         </p>
 
         <div class="flex flex-col sm:flex-row gap-3">
-          <button onclick="openDatingQuiz()" class="inline-flex items-center justify-center gap-2 px-7 py-4 rounded-full text-base font-bold text-white shadow-lg transition-all hover:shadow-xl hover:-translate-y-0.5 cursor-pointer" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); border: none;">
+          <button type="button" onclick="openDatingQuiz()" aria-label="Kostenloses Dating-Quiz starten" class="hero-cta-primary inline-flex items-center justify-center gap-2 px-7 py-4 rounded-full text-base font-bold text-white shadow-lg transition-all hover:shadow-xl hover:-translate-y-0.5 cursor-pointer" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); border: none; min-height: 48px;">
             Kostenlos starten
-            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
           </button>
-          <a href="/blog" class="inline-flex items-center justify-center gap-2 px-7 py-4 rounded-full text-base font-medium transition-all text-white" style="border: 1px solid rgba(255,255,255,0.3); background: rgba(255,255,255,0.1); backdrop-filter: blur(8px);">
+          <a href="/blog" class="hero-cta-secondary inline-flex items-center justify-center gap-2 px-7 py-4 rounded-full text-base font-semibold transition-all text-white hover:bg-white/20" style="border: 1px solid rgba(255,255,255,0.5); background: rgba(255,255,255,0.15); backdrop-filter: blur(8px); min-height: 48px;">
             Ratgeber lesen
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7"/><path d="M7 7h10v10"/></svg>
           </a>
         </div>
 
-        <div class="mt-12 flex items-center gap-4">
-          <div class="flex -space-x-2">
-            <img src={`/images/avatars/avatar-1.webp${v}`} alt="" class="w-9 h-9 rounded-full border-2 border-white/50 object-cover" loading="lazy" />
-            <img src={`/images/avatars/avatar-4.webp${v}`} alt="" class="w-9 h-9 rounded-full border-2 border-white/50 object-cover" loading="lazy" />
-            <img src={`/images/avatars/avatar-7.webp${v}`} alt="" class="w-9 h-9 rounded-full border-2 border-white/50 object-cover" loading="lazy" />
-            <img src={`/images/avatars/avatar-11.webp${v}`} alt="" class="w-9 h-9 rounded-full border-2 border-white/50 object-cover" loading="lazy" />
-            <img src={`/images/avatars/avatar-16.webp${v}`} alt="" class="w-9 h-9 rounded-full border-2 border-white/50 object-cover" loading="lazy" />
+        <div class="mt-12 flex items-center gap-4" aria-label="Social Proof">
+          <div class="flex -space-x-2" aria-hidden="true">
+            <img src={`/images/avatars/avatar-1.webp${v}`} alt="" class="w-10 h-10 rounded-full border-2 border-white object-cover shadow" loading="lazy" />
+            <img src={`/images/avatars/avatar-4.webp${v}`} alt="" class="w-10 h-10 rounded-full border-2 border-white object-cover shadow" loading="lazy" />
+            <img src={`/images/avatars/avatar-7.webp${v}`} alt="" class="w-10 h-10 rounded-full border-2 border-white object-cover shadow" loading="lazy" />
+            <img src={`/images/avatars/avatar-11.webp${v}`} alt="" class="w-10 h-10 rounded-full border-2 border-white object-cover shadow" loading="lazy" />
+            <img src={`/images/avatars/avatar-16.webp${v}`} alt="" class="w-10 h-10 rounded-full border-2 border-white object-cover shadow" loading="lazy" />
           </div>
           <div>
-            <p class="text-sm font-semibold text-white">{readerCountLabel} Leser</p>
-            <p class="text-xs" style="color: rgba(255,255,255,0.7);">vertrauen unseren Tipps jeden Monat</p>
+            <div class="flex items-center gap-2">
+              <span class="inline-flex gap-0.5" aria-hidden="true">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="#fbbf24" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="#fbbf24" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="#fbbf24" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="#fbbf24" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="#fbbf24" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+              </span>
+              <p class="text-sm font-bold text-white">{readerCountLabel} Leser</p>
+            </div>
+            <p class="text-xs mt-0.5" style="color: rgba(255,255,255,0.85);">vertrauen unseren Tipps jeden Monat</p>
           </div>
         </div>
       </div>
@@ -149,6 +159,23 @@ const testimonials = [
     }
     :global(.dark) .hero-overlay {
       background: linear-gradient(to right, rgba(10,5,15,0.9) 0%, rgba(10,5,15,0.65) 55%, rgba(10,5,15,0.4) 100%);
+    }
+    .hero-pulse-dot {
+      animation: hero-pulse 2.2s ease-in-out infinite;
+    }
+    @keyframes hero-pulse {
+      0%, 100% { opacity: 0.7; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.3); box-shadow: 0 0 0 6px rgba(255,255,255,0.15); }
+    }
+    .hero-cta-primary:focus-visible,
+    .hero-cta-secondary:focus-visible {
+      outline: 3px solid #fff;
+      outline-offset: 3px;
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .hero-pulse-dot { animation: none !important; }
+      .hero-cta-primary:hover,
+      .hero-cta-secondary:hover { transform: none !important; }
     }
   </style>
 
@@ -281,10 +308,11 @@ const testimonials = [
         return (
           <a
             href={`/tags/${tag}`}
-            class="group flex items-center gap-3 p-4 rounded-2xl transition-all duration-300 hover:-translate-y-0.5 hover:shadow-md"
+            aria-label={`${tag} — ${count} Artikel ansehen`}
+            class="category-chip group flex items-center gap-3 p-4 rounded-2xl transition-all duration-300 hover:-translate-y-0.5 hover:shadow-md"
             style="background: var(--bg-card); border: 1px solid var(--border);"
           >
-            <span class="text-2xl">{meta.icon}</span>
+            <span class="text-2xl" aria-hidden="true">{meta.icon}</span>
             <div class="min-w-0">
               <p class="text-sm font-bold truncate" style="color: var(--text);">{tag}</p>
               <p class="text-xs" style="color: var(--text-muted);">{count} Artikel</p>
@@ -323,10 +351,10 @@ const testimonials = [
   )}
 
   <!-- Testimonials Carousel -->
-  <section class="py-16 overflow-hidden" style="background: var(--bg-soft); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+  <section class="py-16 overflow-hidden" aria-labelledby="testimonials-heading" style="background: var(--bg-soft); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
     <div class="max-w-6xl mx-auto px-4 sm:px-6">
       <div class="text-center mb-10">
-        <h2 class="text-2xl sm:text-3xl font-extrabold mb-3" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;">
+        <h2 id="testimonials-heading" class="text-2xl sm:text-3xl font-extrabold mb-3" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;">
           Was unsere Leser sagen
         </h2>
         <p class="text-sm max-w-md mx-auto" style="color: var(--text-muted);">
@@ -336,7 +364,7 @@ const testimonials = [
     </div>
 
     <!-- Single row: all 20, scrolls left continuously -->
-    <div class="testimonial-track-wrapper">
+    <div class="testimonial-track-wrapper" role="region" aria-label="Leser-Stimmen">
       <div class="testimonial-track testimonial-track--left">
         {[...testimonials, ...testimonials].map(t => (
           <div class="testimonial-card" style="background: var(--bg-card); border: 1px solid var(--border);">
@@ -377,9 +405,25 @@ const testimonials = [
     .testimonial-track--left {
       animation: scroll-left 80s linear infinite;
     }
+    .testimonial-track-wrapper:hover .testimonial-track--left,
+    .testimonial-track-wrapper:focus-within .testimonial-track--left {
+      animation-play-state: paused;
+    }
     @keyframes scroll-left {
       0% { transform: translateX(0); }
       100% { transform: translateX(-50%); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .testimonial-track--left {
+        animation: none !important;
+        transform: none !important;
+      }
+      .testimonial-track-wrapper {
+        overflow-x: auto;
+        scroll-snap-type: x mandatory;
+        -webkit-overflow-scrolling: touch;
+      }
+      .testimonial-card { scroll-snap-align: start; }
     }
   </style>
 
@@ -425,11 +469,11 @@ const testimonials = [
           Finde in 30 Sekunden heraus, welche Plattform am besten zu deinen Wünschen passt — mit unserem kostenlosen Dating-Quiz.
         </p>
         <div class="flex flex-col sm:flex-row items-center justify-center gap-3">
-          <button onclick="openDatingQuiz()" class="inline-flex items-center gap-2 px-8 py-4 rounded-full text-base font-bold text-white shadow-lg transition-all hover:shadow-xl hover:-translate-y-0.5 cursor-pointer" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); border: none;">
+          <button type="button" onclick="openDatingQuiz()" aria-label="Kostenloses Dating-Quiz starten" class="conv-cta-primary inline-flex items-center gap-2 px-8 py-4 rounded-full text-base font-bold text-white shadow-lg transition-all hover:shadow-xl hover:-translate-y-0.5 cursor-pointer" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); border: none; min-height: 48px;">
             Jetzt Quiz starten
-            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
           </button>
-          <a href="/top-dating-seiten" class="text-sm font-medium px-6 py-4 rounded-full transition-all" style="color: var(--color-primary-700);">
+          <a href="/top-dating-seiten" class="conv-cta-secondary text-sm font-semibold px-6 py-4 rounded-full transition-all hover:underline" style="color: var(--color-primary-700); min-height: 48px; display: inline-flex; align-items: center;">
             Oder alle Seiten vergleichen →
           </a>
         </div>

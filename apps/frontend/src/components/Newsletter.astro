@@ -1,27 +1,34 @@
-<section class="rounded-2xl p-8 sm:p-12 text-center" style="background: linear-gradient(135deg, var(--color-primary-600), var(--color-primary-800)); color: white;">
-  <h2 class="text-2xl font-bold mb-3">Newsletter</h2>
+<section aria-labelledby="newsletter-heading" class="rounded-2xl p-8 sm:p-12 text-center" style="background: linear-gradient(135deg, var(--color-primary-600), var(--color-primary-800)); color: white;">
+  <h2 id="newsletter-heading" class="text-2xl font-bold mb-3">Newsletter</h2>
   <p class="text-sm opacity-90 mb-6 max-w-md mx-auto">
     Erhalte neue Beiträge direkt in dein Postfach. Kein Spam, versprochen.
   </p>
-  <form id="newsletter-form" class="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
-    <input 
-      type="email" 
+  <form id="newsletter-form" class="flex flex-col sm:flex-row gap-3 max-w-md mx-auto" novalidate>
+    <label for="nl-email" class="sr-only">E-Mail-Adresse</label>
+    <input
+      id="nl-email"
+      type="email"
       name="email"
-      placeholder="deine@email.de" 
+      placeholder="deine@email.de"
+      autocomplete="email"
       required
-      class="flex-1 px-4 py-3 rounded-xl text-sm bg-white/20 text-white placeholder:text-white/60 border border-white/30 focus:outline-none focus:border-white focus:bg-white/25"
+      aria-required="true"
+      aria-describedby="nl-message nl-hint"
+      class="flex-1 px-4 py-3 rounded-xl text-sm bg-white/20 text-white placeholder:text-white/70 border border-white/30 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-[var(--color-primary-700)] focus:border-white focus:bg-white/25"
+      style="min-height: 44px;"
     />
-    <button 
+    <button
       type="submit"
       id="nl-submit"
-      class="px-6 py-3 rounded-xl text-sm font-semibold bg-white hover:bg-white/90 transition-colors"
-      style="color: var(--color-primary-700);"
+      class="px-6 py-3 rounded-xl text-sm font-semibold bg-white hover:bg-white/90 transition-colors focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-[var(--color-primary-700)]"
+      style="color: var(--color-primary-700); min-height: 44px;"
     >
       Abonnieren
     </button>
   </form>
-  <p id="nl-message" class="text-xs mt-4 opacity-70">
-    Du kannst dich jederzeit abmelden. Datenschutz ist mir wichtig.
+  <p id="nl-message" class="text-xs mt-4 opacity-90" role="status" aria-live="polite"></p>
+  <p id="nl-hint" class="text-xs mt-2 opacity-70">
+    Double-Opt-In: Du bekommst eine Bestätigungs-Mail. Abmeldung jederzeit in jedem Newsletter.
   </p>
 </section>
 
@@ -29,14 +36,33 @@
   const form = document.getElementById('newsletter-form') as HTMLFormElement;
   const msg = document.getElementById('nl-message') as HTMLElement;
   const btn = document.getElementById('nl-submit') as HTMLButtonElement;
+  const input = document.getElementById('nl-email') as HTMLInputElement;
+
+  function setMsg(text: string, isError = false) {
+    if (!msg) return;
+    msg.textContent = text;
+    msg.style.color = isError ? '#ffe4e6' : '';
+    msg.style.opacity = '1';
+  }
 
   form?.addEventListener('submit', async (e) => {
     e.preventDefault();
-    const email = (form.querySelector('input[name="email"]') as HTMLInputElement)?.value;
-    if (!email) return;
+    const email = input?.value?.trim() || '';
+    if (!email) {
+      setMsg('Bitte gib eine E-Mail-Adresse ein.', true);
+      input?.focus();
+      return;
+    }
+    const emailOk = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+    if (!emailOk) {
+      setMsg('Diese E-Mail sieht nicht gültig aus.', true);
+      input?.focus();
+      return;
+    }
 
-    btn.textContent = '...';
+    btn.textContent = '…';
     btn.disabled = true;
+    btn.setAttribute('aria-busy', 'true');
 
     try {
       const res = await fetch('/api/newsletter', {
@@ -45,21 +71,36 @@
         body: JSON.stringify({ email, source: 'newsletter-footer' }),
       });
       const data = await res.json();
-      msg.textContent = data.message;
-      msg.style.opacity = '1';
+      setMsg(data.message || 'Danke — schau in dein Postfach!', !data.success);
       if (data.success) {
         form.reset();
-        btn.textContent = 'Angemeldet!';
+        btn.textContent = 'Angemeldet ✓';
         btn.style.background = '#22c55e';
         btn.style.color = 'white';
       } else {
         btn.textContent = 'Abonnieren';
         btn.disabled = false;
+        btn.removeAttribute('aria-busy');
       }
     } catch {
-      msg.textContent = 'Fehler. Bitte versuche es später.';
+      setMsg('Verbindungsfehler — bitte später erneut versuchen.', true);
       btn.textContent = 'Abonnieren';
       btn.disabled = false;
+      btn.removeAttribute('aria-busy');
     }
   });
 </script>
+
+<style>
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+</style>

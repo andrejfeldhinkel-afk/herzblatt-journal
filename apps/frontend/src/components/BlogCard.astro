@@ -40,7 +40,7 @@ const formattedDate = date && !isNaN(date.getTime())
 
 <article
   class:list={[
-    'group relative rounded-2xl transition-all duration-300 hover:-translate-y-1 overflow-hidden',
+    'blog-card group relative rounded-2xl transition-all duration-300 hover:-translate-y-1 hover:shadow-xl overflow-hidden',
     featured ? 'col-span-full' : ''
   ]}
   style="background: var(--bg-card); border: 1px solid var(--border); box-shadow: 0 1px 3px rgba(0,0,0,0.04);"
@@ -48,7 +48,7 @@ const formattedDate = date && !isNaN(date.getTime())
   <!-- Gradient top border -->
   <div class="absolute top-0 left-0 right-0 h-1 opacity-0 group-hover:opacity-100 transition-opacity z-10" style="background: linear-gradient(90deg, var(--color-primary-400), var(--color-primary-600));"></div>
 
-  <a href={`/blog/${slug}`} class:list={['block', featured ? 'md:grid md:grid-cols-2' : '']}>
+  <a href={`/blog/${slug}`} aria-label={`${title} — Artikel öffnen`} class:list={['blog-card-link block rounded-2xl', featured ? 'md:grid md:grid-cols-2' : '']}>
     <!-- Image — fällt auf stylischen Gradient + Kategorie-Icon zurück wenn kein Bild gesetzt -->
     <div class:list={[
       'overflow-hidden relative',
@@ -157,3 +157,32 @@ const formattedDate = date && !isNaN(date.getTime())
     </div>
   </a>
 </article>
+
+<style>
+  /* Subtle shadow elevation on hover for premium feel */
+  .blog-card {
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+  .blog-card:hover {
+    box-shadow: 0 12px 32px -8px rgba(244, 63, 94, 0.18), 0 4px 12px rgba(0,0,0,0.06);
+    border-color: color-mix(in srgb, var(--color-primary-400) 40%, var(--border));
+  }
+  /* Clear focus ring for keyboard users on the whole card */
+  .blog-card-link:focus-visible {
+    outline: 2px solid var(--color-primary-500);
+    outline-offset: 3px;
+  }
+  /* Respect reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    .blog-card {
+      transition: none !important;
+    }
+    .blog-card:hover {
+      transform: none !important;
+    }
+    .blog-card img {
+      transition: none !important;
+      transform: none !important;
+    }
+  }
+</style>
