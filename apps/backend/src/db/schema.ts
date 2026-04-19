@@ -84,6 +84,10 @@ export const registrations = pgTable(
   (t) => ({
     createdAtIdx: index('registrations_created_at_idx').on(t.createdAt),
     emailIdx: index('registrations_email_idx').on(t.email),
+    // UNIQUE auf email — verhindert Duplikat-Signups.
+    // Doppelklick auf Submit oder bewusstes Mehrfach-Triggern erzeugte vorher
+    // zwei Rows, was die Registrations-KPI aufblähte. Siehe Phase-5 D2.
+    emailUnique: uniqueIndex('registrations_email_unique').on(t.email),
   }),
 );
 
@@ -226,6 +230,10 @@ export const inboundEmails = pgTable(
     statusIdx: index('inbound_emails_status_idx').on(t.status),
     threadIdIdx: index('inbound_emails_thread_id_idx').on(t.threadId),
     fromEmailIdx: index('inbound_emails_from_email_idx').on(t.fromEmail),
+    // UNIQUE auf message_id — SendGrid-Retry-Idempotenz.
+    // Partial-Unique via Migration (WHERE message_id IS NOT NULL), hier im
+    // Schema nur als zusätzlicher Index markiert. Siehe Phase-5 D3.
+    messageIdUnique: uniqueIndex('inbound_emails_message_id_unique').on(t.messageId),
   }),
 );
 

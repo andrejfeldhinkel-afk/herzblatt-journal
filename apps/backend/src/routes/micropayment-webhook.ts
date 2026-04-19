@@ -27,8 +27,16 @@ import { db, schema } from '../db/index.js';
 import { addContactToList, sendWelcomeEmail, isSendGridEnabled } from '../lib/sendgrid.js';
 import { captureError } from '../lib/sentry.js';
 import { redactEmail, safeEqualHex, truncatePayload } from '../lib/log-helpers.js';
+import { getClientIp, hashIp } from '../lib/crypto.js';
+import { allowRequest } from '../lib/rate-limit.js';
 
 const app = new Hono();
+
+// 120 Webhook-POSTs pro Minute pro IP — Retries dürfen durchkommen,
+// 404-Floods gegen unbekannte trxIds werden gebremst.
+function allowMicropaymentWebhook(ipHash: string): boolean {
+  return allowRequest('mp-wh:' + ipHash, 120, 60_000);
+}
 
 /**
  * Micropayment-Signatur prüfen (gleiches Scheme wie beim Checkout).
@@ -55,6 +63,13 @@ function verifyMicropaymentSignature(
 }
 
 app.post('/', async (c) => {
+  // Rate-Limit: 120/min pro IP (Retries OK, Flood gebremst)
+  const ip = getClientIp(c.req.raw, c.req.raw.headers);
+  if (!allowMicropaymentWebhook(hashIp(ip))) {
+    console.warn('[micropayment-webhook] rate-limit hit');
+    return c.text('FAIL:rate-limit', 429, { 'Retry-After': '60' });
+  }
+
   const ct = c.req.header('content-type') || '';
   let params: Record<string, string> = {};
 
@@ -229,14 +244,10 @@ app.post('/', async (c) => {
   }
 });
 
-// GET für Setup-Check
+// GET für HEAD-Check / liveness only — leaked KEINE Signature-Config mehr.
+// Phase-4 F4.
 app.get('/', (c) => {
-  return c.json({
-    ok: true,
-    info: 'Micropayment webhook endpoint. POST here from the Micropayment dashboard.',
-    signatureConfigured: !!process.env.MICROPAYMENT_ACCESS_KEY,
-    signatureDisabled: process.env.MICROPAYMENT_DISABLE_SIGNATURE === '1',
-  });
+  return c.json({ ok: true });
 });
 
 export default app;

@@ -31,8 +31,17 @@ import { db, schema } from '../db/index.js';
 import { addContactToList, sendWelcomeEmail, isSendGridEnabled } from '../lib/sendgrid.js';
 import { captureError } from '../lib/sentry.js';
 import { redactEmail, safeEqualHex, truncatePayload } from '../lib/log-helpers.js';
+import { getClientIp, hashIp } from '../lib/crypto.js';
+import { allowRequest } from '../lib/rate-limit.js';
 
 const app = new Hono();
+
+// 120 Webhook-POSTs pro Minute pro IP — großzügig, damit Whop-Retries bei
+// realen Spikes (z.B. membership.went_valid-Schwall) durchkommen, aber
+// Flood-Angriffe mit 404-Orders gegen die DB gebremst werden.
+function allowWhopWebhook(ipHash: string): boolean {
+  return allowRequest('whop-wh:' + ipHash, 120, 60_000);
+}
 
 type WhopUser = {
   id?: string;
@@ -70,6 +79,13 @@ function verifyWhopSignature(rawBody: string, headerValue: string, secret: strin
 }
 
 app.post('/', async (c) => {
+  // Rate-Limit: 120/min pro IP (Retries müssen durchkommen, DB-Flood-Schutz)
+  const ip = getClientIp(c.req.raw, c.req.raw.headers);
+  if (!allowWhopWebhook(hashIp(ip))) {
+    console.warn('[whop-webhook] rate-limit hit');
+    return c.json({ ok: false, error: 'rate-limit' }, 429, { 'Retry-After': '60' });
+  }
+
   // RawBody lesen — wir brauchen den exakten String für HMAC
   let rawBody = '';
   try {
@@ -247,14 +263,10 @@ app.post('/', async (c) => {
   }
 });
 
-// GET für Setup-Check
+// GET für HEAD-Check / liveness only — leaked KEINE Signature-Config mehr.
+// Phase-4 F4.
 app.get('/', (c) => {
-  return c.json({
-    ok: true,
-    info: 'Whop webhook endpoint. POST here from the Whop dashboard.',
-    signatureConfigured: !!process.env.WHOP_WEBHOOK_SECRET,
-    signatureDisabled: process.env.WHOP_DISABLE_SIGNATURE === '1',
-  });
+  return c.json({ ok: true });
 });
 
 export default app;
