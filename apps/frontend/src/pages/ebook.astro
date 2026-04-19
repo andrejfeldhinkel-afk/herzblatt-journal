@@ -77,9 +77,72 @@ const faqs = [
 
 <BaseLayout title={title} description={description}>
 
-  <!-- Whop Embedded Checkout Loader (rendert den Iframe anhand des data-whop-checkout-plan-id-Divs) -->
+  <!--
+    Whop Embedded Checkout Loader — Lazy-Load via IntersectionObserver.
+    Vorher: eager Script-Tag beim Page-Load (~150-200KB JS pro View,
+    auch wenn User nie zum Checkout scrollt).
+    Jetzt: Script wird erst injiziert, wenn #kaufen-Section in Viewport
+    kommt (mit 300px Pre-Trigger). Das erhöht LCP auf 3G sichtbar.
+  -->
   {hasLiveCheckout && (
-    <script is:inline async defer src="https://js.whop.com/static/checkout/loader.js"></script>
+    <script is:inline>
+      (function () {
+        var WHOP_SRC = 'https://js.whop.com/static/checkout/loader.js';
+        var injected = false;
+        function inject() {
+          if (injected) return;
+          injected = true;
+          var s = document.createElement('script');
+          s.src = WHOP_SRC;
+          s.async = true;
+          s.defer = true;
+          document.head.appendChild(s);
+        }
+        function setupObserver() {
+          var target = document.getElementById('kaufen');
+          if (!target) {
+            // Fallback: kein Anchor — injiziere nach 3s damit Interaktion funktioniert
+            setTimeout(inject, 3000);
+            return;
+          }
+          if (!('IntersectionObserver' in window)) {
+            inject();
+            return;
+          }
+          var io = new IntersectionObserver(function (entries) {
+            entries.forEach(function (e) {
+              if (e.isIntersecting) {
+                inject();
+                io.disconnect();
+              }
+            });
+          }, { rootMargin: '300px 0px 300px 0px' });
+          io.observe(target);
+        }
+        // Wenn User direkt auf #kaufen/Modal-Button klickt (bevor Section sichtbar),
+        // sofort laden — das sind Events auf dem Kauf-Card-Button.
+        function setupInteractionHooks() {
+          ['click', 'focusin'].forEach(function (ev) {
+            document.addEventListener(ev, function (e) {
+              var t = e.target;
+              if (!t || typeof t.closest !== 'function') return;
+              if (t.closest('#checkout-card-btn, #checkout-sofort-btn, #checkout-paysafe-btn, a[href="#kaufen"]')) {
+                inject();
+              }
+            }, { passive: true });
+          });
+        }
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', function () {
+            setupObserver();
+            setupInteractionHooks();
+          });
+        } else {
+          setupObserver();
+          setupInteractionHooks();
+        }
+      })();
+    </script>
   )}
 
   <!-- HERO -->
