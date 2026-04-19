@@ -7,7 +7,7 @@ imageAlt: "Sprueche Zur Hochzeit Originell"
 tags: ["Lifestyle"]
 keywords: ["sprüche zur hochzeit", "hochzeitssprüche lustig", "hochzeitssprüche kurz"]
 draft: false
-author: "redaktion"
+author: "laura-weber"
 faq:
   - question: "Welche Hochzeitssprüche passen in eine Traurede?"
     answer: "Lustige mit Tiefgang funktionieren am besten – nicht zu düster, nicht zu albern. Die sollten zur Persönlichkeit des Redners passen."

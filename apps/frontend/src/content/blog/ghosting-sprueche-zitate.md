@@ -9,7 +9,7 @@ tags:
   - "Selbstliebe"
 keywords: ["ghosting sprüche", "sprüche über ghosting", "ghosting zitate"]
 draft: false
-author: "redaktion"
+author: "markus-hoffmann"
 faq:
   - question: "Warum helfen Zitate bei der Verarbeitung von Ghosting?"
     answer: "Zitate geben dir das Gefühl, nicht allein zu sein. Sie zeigen dir, dass andere das Gleiche durchgemacht haben und es überstanden haben. Sie helfen dir, deine Gefühle in Worte zu fassen — und was du benennen kannst, kannst du auch verarbeiten."

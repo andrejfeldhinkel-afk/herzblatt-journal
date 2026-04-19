@@ -10,7 +10,7 @@ imageAlt: "Unverheiratetes Paar in gemeinsamer Wohnung"
 keywords: ["zusammenleben ohne heirat", "unverheiratet zusammenleben rechte", "wilde ehe rechtlich"]
 draft: false
 featured: false
-author: "redaktion"
+author: "sarah-kellner"
 faq:
   - question: "Was ist der Unterschied zwischen Ehe und nichtehelicher Lebensgemeinschaft?"
     answer: "Eine Ehe ist eine rechtlich anerkannte Verbindung mit gesetzlichen Ansprüchen auf Unterhalt, Erbe und Krankenversicherung. Eine nichteheliche Lebensgemeinschaft ist rechtlich nicht geregelt — Vermögen bleibt getrennt und es gibt keine automatischen Erbrechte oder Unterhaltsansprüche."

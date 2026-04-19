@@ -12,7 +12,7 @@ imageAlt: "Hochzeitsplanung Checkliste mit Timeline"
 keywords: ["hochzeit planen checkliste", "hochzeit timeline", "hochzeitsplanung", "wie plant man eine hochzeit"]
 draft: false
 featured: false
-author: "redaktion"
+author: "sarah-kellner"
 faq:
   - question: "Wie lange dauert es, eine Hochzeit zu planen?"
     answer: "Mindestens 6 Monate für eine kleine Hochzeit. 12-18 Monate ist ideal für größere Events. Wenn du weniger Zeit hast, ist es stressig, aber machbar."
