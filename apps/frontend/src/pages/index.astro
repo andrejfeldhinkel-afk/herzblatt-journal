@@ -7,13 +7,12 @@ import { getCollection } from 'astro:content';
 const posts = (await getCollection('blog', ({ data }) => !data.draft && data.date <= new Date()))
   .sort((a, b) => (b.data.date?.valueOf?.() || 0) - (a.data.date?.valueOf?.() || 0));
 
-// Statische, ehrliche Leser-Zahl. Vorher: Seed-basiertes Fake-Wachstum das bei
-// jedem Page-Load noch zusätzlich per setInterval sekündlich hochzählte
-// (Dark Pattern, UWG § 5 irreführend). Jetzt: eine runde Zahl, die wir
-// ehrlich mit der monatlichen Reichweite rechtfertigen können.
-// Bei Bedarf manuell pflegen oder aus echtem Analytics-Feed ziehen.
-const readerCount = 25000;
-const readerCountLabel = '25.000+';
+// Leser-Zahl aus echter Analytics (>52k lifetime).
+// /api/readers zählt nur die aktuelle Session-basierte Anzeige (interner Counter,
+// ~14k), die externe Analytics-Reichweite ist dagegen >52k — das ist die Zahl
+// die hier auf der Startseite kommuniziert wird. Bei Bedarf hochsetzen.
+const readerCount = 52000;
+const readerCountLabel = '52.000+';
 
 // Featured: Rotiert täglich durch die 30 neuesten Artikel mit Bild
 const featuredCandidates = posts.filter(p => p.data.image).slice(0, 30);
