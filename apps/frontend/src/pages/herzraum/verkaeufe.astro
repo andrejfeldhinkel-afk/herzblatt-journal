@@ -79,10 +79,11 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
             <th style="text-align: right;">Betrag</th>
             <th>Status</th>
             <th>Order-ID</th>
+            <th style="text-align: right;">Aktionen</th>
           </tr>
         </thead>
         <tbody>
-          <tr><td colspan="7" class="muted">Lade…</td></tr>
+          <tr><td colspan="8" class="muted">Lade…</td></tr>
         </tbody>
       </table>
     </div>
@@ -187,7 +188,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
           const tbody = document.querySelector('#table-p tbody');
           const items = data.items || [];
           if (items.length === 0) {
-            tbody.innerHTML = '<tr><td colspan="7" class="muted">Keine Verkäufe' + (currentProvider ? ' für "' + esc(currentProvider) + '"' : '') + '.</td></tr>';
+            tbody.innerHTML = '<tr><td colspan="8" class="muted">Keine Verkäufe' + (currentProvider ? ' für "' + esc(currentProvider) + '"' : '') + '.</td></tr>';
           } else {
             tbody.innerHTML = items.map(p => {
               const ts = p.createdAt ? new Date(p.createdAt).toLocaleString('de-DE', {
@@ -200,6 +201,10 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
                 : p.status === 'cancelled' ? 'muted'
                 : 'muted';
               const amount = fmtEUR(p.amountCents);
+              // Resend-Button nur wenn status='paid'
+              const resendBtn = p.status === 'paid'
+                ? '<button type="button" class="hz-btn btn-resend" data-purchase-id="' + esc(p.id) + '" data-email="' + esc(p.email) + '" style="font-size: 0.75rem; padding: 0.3rem 0.6rem;" title="Zugangs-Link neu senden">↻ Zugang</button>'
+                : '<span class="muted" style="font-size: 0.75rem;">—</span>';
               return '<tr>' +
                 '<td class="muted">' + esc(ts) + '</td>' +
                 '<td>' + providerBadge(p.provider) + '</td>' +
@@ -208,15 +213,49 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
                 '<td style="text-align: right; font-variant-numeric: tabular-nums;">' + amount + '</td>' +
                 '<td><span class="hz-badge ' + statusColor + '">' + esc(p.status) + '</span></td>' +
                 '<td class="muted" style="font-family: monospace; font-size: 0.8rem;">' + esc(p.orderId || '') + '</td>' +
+                '<td style="text-align: right;">' + resendBtn + '</td>' +
                 '</tr>';
             }).join('');
           }
+
+          // Resend-Handler an alle neu gerenderten Buttons heften
+          tbody.querySelectorAll('.btn-resend').forEach((btn) => {
+            btn.addEventListener('click', async (ev) => {
+              ev.preventDefault();
+              const id = btn.getAttribute('data-purchase-id');
+              const email = btn.getAttribute('data-email') || '';
+              if (!id) return;
+              if (!window.confirm('Zugangs-Link an ' + email + ' erneut senden?')) return;
+              const originalText = btn.textContent;
+              btn.disabled = true;
+              btn.textContent = '…';
+              try {
+                const res = await fetch('/api/herzraum/purchases/' + encodeURIComponent(id) + '/resend-access', {
+                  method: 'POST',
+                  headers: { 'Content-Type': 'application/json' },
+                });
+                const data = await res.json().catch(() => ({}));
+                if (res.ok && data.ok) {
+                  btn.textContent = data.skipped ? '⚠ Skipped' : '✓ Gesendet';
+                  setTimeout(() => { btn.textContent = originalText; btn.disabled = false; }, 3500);
+                } else {
+                  btn.textContent = '✗ Fehler';
+                  console.error('[resend-access]', data);
+                  setTimeout(() => { btn.textContent = originalText; btn.disabled = false; }, 3500);
+                }
+              } catch (err) {
+                btn.textContent = '✗ Netz';
+                console.error('[resend-access]', err);
+                setTimeout(() => { btn.textContent = originalText; btn.disabled = false; }, 3500);
+              }
+            });
+          });
 
           document.getElementById('p-last-sync').textContent = 'Zuletzt geladen: ' +
             new Date().toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
         } catch (err) {
           const tbody = document.querySelector('#table-p tbody');
-          tbody.innerHTML = '<tr><td colspan="7" class="muted" style="color: #ef4444;">Fehler: ' + esc(err.message) + '</td></tr>';
+          tbody.innerHTML = '<tr><td colspan="8" class="muted" style="color: #ef4444;">Fehler: ' + esc(err.message) + '</td></tr>';
         }
       }
 

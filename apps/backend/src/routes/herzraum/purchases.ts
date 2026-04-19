@@ -16,10 +16,18 @@
  *   items: [{ id, provider, orderId, email, product, amountCents,
  *             currency, status, createdAt }]
  * }
+ *
+ * POST /herzraum/purchases/:id/resend-access
+ *   Admin-Action: sendet die Ebook-Zugangs-Mail für den gekauften Eintrag
+ *   erneut. Nur für Purchases mit status='paid'. Audit-Log wird geschrieben.
  */
 import { Hono } from 'hono';
 import { desc, sql, eq } from 'drizzle-orm';
 import { db, schema } from '../../db/index.js';
+import { sendEbookDeliveryEmail, isSendGridEnabled } from '../../lib/sendgrid.js';
+import { buildEbookAccessUrl } from '../../lib/ebook-access.js';
+import { logAudit } from '../../lib/audit.js';
+import { redactEmail } from '../../lib/log-helpers.js';
 
 const app = new Hono();
 
@@ -108,6 +116,100 @@ app.get('/', async (c) => {
   } catch (err) {
     console.error('[herzraum/purchases] db error:', err);
     return c.json({ error: 'DB error', message: String(err) }, 500);
+  }
+});
+
+/**
+ * POST /herzraum/purchases/:id/resend-access
+ *
+ * Admin-only: Versendet die Ebook-Zugangs-Mail für eine existierende Purchase
+ * erneut. Nur für status='paid'. Rate-Limit setzt das Frontend (keine
+ * Bulk-Buttons). Sendet auch wenn SendGrid deaktiviert ist — dann gibt
+ * `sendEbookDeliveryEmail` einen `{ skipped: true }` zurück, den wir an das
+ * UI durchreichen.
+ */
+app.post('/:id/resend-access', async (c) => {
+  const idRaw = c.req.param('id');
+  const id = Number(idRaw);
+  if (!Number.isInteger(id) || id <= 0) {
+    return c.json({ ok: false, error: 'invalid-id' }, 400);
+  }
+
+  try {
+    const rows = await db
+      .select({
+        id: schema.purchases.id,
+        email: schema.purchases.email,
+        status: schema.purchases.status,
+        product: schema.purchases.product,
+      })
+      .from(schema.purchases)
+      .where(eq(schema.purchases.id, id))
+      .limit(1);
+
+    if (rows.length === 0) {
+      return c.json({ ok: false, error: 'not-found' }, 404);
+    }
+    const p = rows[0];
+    if (p.status !== 'paid') {
+      return c.json(
+        { ok: false, error: 'not-paid', status: p.status },
+        409,
+      );
+    }
+    if (!p.email) {
+      return c.json({ ok: false, error: 'no-email' }, 422);
+    }
+
+    if (!isSendGridEnabled()) {
+      // Audit-Log trotzdem, damit klar ist dass ein Versuch gemacht wurde
+      await logAudit(c, {
+        action: 'ebook.resend-access',
+        target: String(p.id),
+        meta: { email: redactEmail(p.email), skipped: 'sendgrid-disabled' },
+      });
+      return c.json({
+        ok: true,
+        skipped: true,
+        message: 'SendGrid ist nicht konfiguriert — Mail wurde nicht versendet.',
+      });
+    }
+
+    let accessUrl = '';
+    try {
+      accessUrl = buildEbookAccessUrl(p.email);
+    } catch (err) {
+      // EBOOK_ACCESS_SECRET fehlt → 500
+      console.error('[herzraum/purchases] token gen error:', err);
+      return c.json(
+        { ok: false, error: 'server-misconfigured' },
+        500,
+      );
+    }
+
+    const result = await sendEbookDeliveryEmail(p.email, accessUrl);
+
+    await logAudit(c, {
+      action: 'ebook.resend-access',
+      target: String(p.id),
+      meta: {
+        email: redactEmail(p.email),
+        ok: result.ok,
+        status: result.status,
+      },
+    });
+
+    if (!result.ok) {
+      return c.json(
+        { ok: false, error: 'send-failed', detail: result.error },
+        502,
+      );
+    }
+
+    return c.json({ ok: true, email: redactEmail(p.email) });
+  } catch (err) {
+    console.error('[herzraum/purchases] resend error:', err);
+    return c.json({ ok: false, error: 'server-error' }, 500);
   }
 });
 

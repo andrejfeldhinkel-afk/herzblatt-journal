@@ -29,6 +29,7 @@ Alle Werte werden via `process.env.*` gelesen — keine .env-Datei wird geladen
 | `ADMIN_API_TOKEN` | Ja | Bearer-Token für `/admin/*` (externe Admin-Calls) |
 | `IP_SALT` | **Ja** | Salt für `SHA-256(ip+salt)` in `subscribers.ip_hash`, `login_attempts.ip_hash`, `sessions.ip_hash`, `audit_log.ip_hash`. **Mindestens 16 Zeichen.** Fehlt der Wert, weigert sich das Backend zu starten (fail-closed). Vorher gab es einen hardcoded Default — das war eine DSGVO-Lücke, weil der Salt im Repo lag und IP-Hashes damit weltweit vorberechenbar waren. |
 | `UNSUBSCRIBE_SECRET` | **Ja** | HMAC-Secret für Newsletter-Abmelde-Tokens (`/unsubscribe?email=…&token=…`). **Mindestens 16 Zeichen.** Fehlt der Wert, weigert sich das Backend zu starten. Vorher fiel er auf `IP_SALT` bzw. einen hardcoded Default zurück — damit konnte jeder Internetnutzer gültige Unsubscribe-Tokens für beliebige Mail-Adressen forgen und die gesamte Liste en masse leer räumen. |
+| `EBOOK_ACCESS_SECRET` | **Ja** | HMAC-Secret für E-Book-Zugriffs-Tokens (`/ebook/lesen?t=…&e=…`). **Mindestens 32 Zeichen.** Ohne diesen Secret startet das Backend nicht (fail-closed). Mit dem Secret kannst du Tokens für beliebige Emails erzeugen — also niemals ins Repo committen, nur in Railway als Umgebungsvariable setzen. Empfohlen generieren mit `openssl rand -hex 32`. |
 
 ## Sentry (optional)
 
@@ -99,9 +100,10 @@ Derselbe Access-Key muss hier und im Dashboard eingetragen sein.
 | `SENDGRID_LIST_ID` | Nein | UUID der Ziel-Liste (optional) |
 | `SENDGRID_FROM_EMAIL` | Nein | Verified-Sender-Email |
 | `SENDGRID_FROM_NAME` | Nein | Absender-Name (default "Herzblatt Journal") |
-| `SENDGRID_WELCOME_TEMPLATE_ID` | Nein | Dynamic-Template-ID, sonst Plaintext |
+| `SENDGRID_WELCOME_TEMPLATE_ID` | Nein | Dynamic-Template-ID für Welcome-Mail, sonst Plaintext |
+| `SENDGRID_EBOOK_TEMPLATE_ID` | Nein | Dynamic-Template-ID für die E-Book-Delivery-Mail. Wenn gesetzt werden diese Variablen an SG übergeben: `email`, `first_name`, `access_url`, `unsubscribe_url`, `support_email`. Ohne Template-ID nutzt das Backend einen eingebauten HTML-Fallback. |
 | `SENDGRID_PARSE_KEY` | Nein | Shared Secret für Inbound-Parse |
-| `PUBLIC_BASE_URL` | Nein | Basis für Unsubscribe-Links |
+| `PUBLIC_BASE_URL` | Nein | Basis für Unsubscribe- und Ebook-Access-Links |
 
 ---
 
