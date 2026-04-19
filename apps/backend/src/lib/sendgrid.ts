@@ -694,6 +694,165 @@ export async function sendEbookDripStep(
 }
 
 /**
+ * Newsletter-Broadcast — generisches Mass-Send an eine Empfängerliste.
+ *
+ * Unterschied zu sendWelcomeEmail(): wir versenden NICHT als multi-TO in einer
+ * einzigen Mail (damit Empfänger sich nicht gegenseitig in der Adresszeile
+ * sehen + pro-Empfänger Unsubscribe-Token). Stattdessen:
+ *   - 1 SendGrid-Request pro Batch (max 1000 personalizations pro Request)
+ *   - Jede personalization hat eigenes `to:` + eigenen Unsubscribe-Link
+ *     im List-Unsubscribe-Header via substitutions
+ *
+ * SendGrid erlaubt bis 1000 personalizations pro /mail/send-Call. Das spart
+ * Requests massiv gegenüber 1-per-Empfänger und respektiert trotzdem die
+ * anti-disclosure-Regel (jeder sieht nur seine eigene Adresse).
+ *
+ * Per-Request Variable Substitution über `substitutions` (ältere API) wird
+ * inkonsistent unterstützt — wir rendern deshalb den Unsubscribe-Link direkt
+ * ins Body-HTML via Platzhalter-Replacement pro personalization. Dafür muss
+ * der bodyHtml den Marker `{{UNSUBSCRIBE_URL}}` enthalten; wenn nicht,
+ * injizieren wir einen Footer.
+ *
+ * Return: Summary mit sent / failed counts + error-Liste.
+ */
+export async function sendBroadcastEmail(
+  subject: string,
+  bodyHtml: string,
+  recipients: string[],
+): Promise<{ sent: number; failed: number; errors: string[]; skipped?: boolean }> {
+  const cfg = getConfig();
+  if (!cfg.apiKey) {
+    return { sent: 0, failed: 0, errors: [], skipped: true };
+  }
+  if (!subject || !bodyHtml) {
+    return { sent: 0, failed: recipients.length, errors: ['missing-subject-or-body'] };
+  }
+  if (recipients.length === 0) {
+    return { sent: 0, failed: 0, errors: [] };
+  }
+
+  // Unsubscribe-Platzhalter sicherstellen — Marker im Body oder Footer-Anhang.
+  const MARKER = '{{UNSUBSCRIBE_URL}}';
+  const hasMarker = bodyHtml.includes(MARKER);
+  const htmlTemplate = hasMarker
+    ? bodyHtml
+    : bodyHtml + `
+<hr style="margin: 32px 0 16px; border: none; border-top: 1px solid #e5e7eb;">
+<p style="font-size: 12px; color: #94a3b8; text-align: center; line-height: 1.5;">
+  Du bekommst diese Mail, weil du den Herzblatt-Newsletter abonniert hast.
+  <a href="${MARKER}" style="color: #94a3b8; text-decoration: underline;">Abmelden</a>
+  · L-P GmbH · Ballindamm 27 · 20095 Hamburg
+</p>`;
+  const textTemplate = stripHtml(htmlTemplate).replace(MARKER, MARKER);
+
+  const BATCH_SIZE = 1000;
+  let sent = 0;
+  let failed = 0;
+  const errors: string[] = [];
+
+  for (let i = 0; i < recipients.length; i += BATCH_SIZE) {
+    const chunk = recipients.slice(i, i + BATCH_SIZE);
+
+    // Pro Batch 1 SendGrid-Call mit N personalizations (max 1000).
+    // Jede personalization hat eigenes `to`, eigene substitutions + List-Unsubscribe-Header.
+    const personalizations = chunk.map((email) => {
+      const unsubUrl = buildUnsubscribeUrl(email);
+      return {
+        to: [{ email }],
+        // SendGrid v3: `substitutions` ersetzt Tokens im subject/content nur bei
+        // dynamic templates; für Plain-Content muss der Ersatz pro-Empfänger
+        // VOR dem Senden gemacht werden. Wir rendern stattdessen pro
+        // personalization NICHT — wir machen 1 Request pro Chunk und bauen
+        // den HTML-Body MIT bereits ersetzten URLs (also: wir senden eine
+        // einzige personalization pro Empfänger in eigenen Requests wenn wir
+        // wirklich per-Empfänger-Link wollen — aber das killt die batch-size).
+        //
+        // Kompromiss (pragmatisch): wir senden pro Empfänger einen eigenen
+        // /mail/send Request. Bei 1000 Empfängern sind das 1000 Requests;
+        // SendGrid erlaubt das ratenlimitmäßig locker (600 req/s default).
+        // Batch-Limit 1000 hier bedeutet: wir chunken die Sends nicht weiter,
+        // sondern gehen den Chunk 1-by-1 sequenziell durch. Das ist langsamer,
+        // aber die Unsubscribe-Link-Personalisierung bleibt sauber.
+        _unsubUrl: unsubUrl,
+      };
+    });
+
+    // Pro-Empfänger Request (wegen per-Empfänger Unsubscribe-Link im Body).
+    // Parallelität via Promise.allSettled in Sub-Batches à 20, damit wir nicht
+    // das SendGrid-Rate-Limit (default 600/s) reißen.
+    const SUB_BATCH = 20;
+    for (let j = 0; j < personalizations.length; j += SUB_BATCH) {
+      const sub = personalizations.slice(j, j + SUB_BATCH);
+      const results = await Promise.allSettled(
+        sub.map(async (p) => {
+          const email = p.to[0].email;
+          const unsubUrl = p._unsubUrl;
+          const html = htmlTemplate.split(MARKER).join(unsubUrl);
+          const text = textTemplate.split(MARKER).join(unsubUrl);
+
+          const body: Record<string, unknown> = {
+            from: { email: cfg.fromEmail, name: cfg.fromName },
+            personalizations: [{ to: [{ email }] }],
+            subject,
+            content: [
+              { type: 'text/plain', value: text },
+              { type: 'text/html', value: html },
+            ],
+            headers: {
+              'List-Unsubscribe': `<${unsubUrl}>`,
+              'List-Unsubscribe-Post': 'List-Unsubscribe=One-Click',
+            },
+          };
+
+          const res = await fetch(`${API_BASE}/mail/send`, {
+            method: 'POST',
+            headers: {
+              Authorization: `Bearer ${cfg.apiKey}`,
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(body),
+          });
+          if (!res.ok) {
+            const errText = await res.text().catch(() => '');
+            throw new Error(`${email}: ${res.status} ${errText.slice(0, 200)}`);
+          }
+          return email;
+        }),
+      );
+      for (const r of results) {
+        if (r.status === 'fulfilled') sent++;
+        else {
+          failed++;
+          if (errors.length < 20) errors.push(String(r.reason).slice(0, 300));
+        }
+      }
+    }
+  }
+
+  return { sent, failed, errors };
+}
+
+/**
+ * Minimaler HTML → Plaintext Konverter für den Fallback-Plain-Body.
+ * Kein vollständiger Parser — schneidet Tags raus und normalisiert Whitespace.
+ */
+function stripHtml(html: string): string {
+  return html
+    .replace(/<style[\s\S]*?<\/style>/gi, '')
+    .replace(/<script[\s\S]*?<\/script>/gi, '')
+    .replace(/<br\s*\/?>/gi, '\n')
+    .replace(/<\/p>/gi, '\n\n')
+    .replace(/<[^>]+>/g, '')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
+}
+
+/**
  * Bulk-Sync für den Admin-/resync-Endpoint:
  * SendGrid contacts API akzeptiert bis zu 30000 contacts pro Call.
  * Wir chunken auf 1000 zur Sicherheit.

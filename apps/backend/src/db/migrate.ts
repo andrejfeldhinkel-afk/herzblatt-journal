@@ -309,6 +309,25 @@ export async function runStartupMigrations(): Promise<void> {
         WHERE message_id IS NOT NULL
     `);
 
+    // newsletter_broadcasts — Admin-getriebene Mass-Mails an Subscriber.
+    // Siehe migrations/0005_newsletter_broadcasts.sql für Details.
+    await db.execute(sql`
+      CREATE TABLE IF NOT EXISTS newsletter_broadcasts (
+        id SERIAL PRIMARY KEY,
+        subject TEXT NOT NULL,
+        article_slug TEXT,
+        body_html TEXT NOT NULL,
+        status TEXT NOT NULL DEFAULT 'draft',
+        sent_at TIMESTAMP WITH TIME ZONE,
+        recipient_count INTEGER,
+        success_count INTEGER,
+        created_by TEXT NOT NULL DEFAULT 'admin',
+        created_at TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW()
+      )
+    `);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS newsletter_broadcasts_created_at_idx ON newsletter_broadcasts(created_at)`);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS newsletter_broadcasts_status_idx ON newsletter_broadcasts(status)`);
+
     console.log(`[migrate] done in ${Date.now() - start}ms`);
   } catch (err) {
     console.error('[migrate] FAILED:', err);

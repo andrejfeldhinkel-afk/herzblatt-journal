@@ -1,0 +1,499 @@
+---
+export const prerender = false;
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+---
+<HerzraumLayout title="Newsletter-Broadcasts" active="newsletter-broadcasts">
+
+  <!-- Header / KPIs -->
+  <section class="hz-kpi-grid">
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Aktive Abonnenten</div>
+      <div class="hz-kpi-value" data-kpi="active-subs">—</div>
+      <div class="hz-kpi-hint" style="font-size: 0.75rem; color: var(--hz-text-muted);">werden bei Send benachrichtigt</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">SendGrid-Status</div>
+      <div class="hz-kpi-value" data-kpi="sg-status" style="font-size: 1.15rem;">—</div>
+    </div>
+  </section>
+
+  <!-- SendGrid-Warnung -->
+  <div id="sg-warn" class="hz-card hidden" style="margin-top: 1rem; border-left: 4px solid #f59e0b; background: rgba(245, 158, 11, 0.08);">
+    <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
+      <div style="font-size: 1.5rem;">⚠️</div>
+      <div>
+        <h3 style="margin: 0 0 0.35rem 0; color: #f59e0b;">SendGrid nicht konfiguriert</h3>
+        <p style="margin: 0; font-size: 0.9rem; color: var(--hz-text-muted);">
+          Mass-Send ist deaktiviert bis <code>SENDGRID_API_KEY</code> als Env-Var im
+          Railway-Backend-Service gesetzt ist. Drafts können erstellt, aber noch nicht
+          versendet werden.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toolbar -->
+  <div class="hz-row" style="justify-content: space-between; align-items: center; margin-top: 1.5rem; gap: 1rem; flex-wrap: wrap;">
+    <h2 style="margin: 0;">Broadcasts</h2>
+    <button type="button" id="btn-new" class="hz-btn primary">+ Neuer Broadcast</button>
+  </div>
+
+  <!-- Liste -->
+  <div class="hz-card" style="margin-top: 1rem;">
+    <div style="overflow-x: auto;">
+      <table class="hz-table" id="table-broadcasts">
+        <thead>
+          <tr>
+            <th>Betreff</th>
+            <th>Erstellt</th>
+            <th>Versendet</th>
+            <th>Empfänger</th>
+            <th>Status</th>
+            <th>Aktionen</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td colspan="6" class="muted" style="text-align: center; padding: 2rem;">Lade…</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div id="pagination" style="display: flex; justify-content: center; gap: 0.5rem; margin-top: 1rem; flex-wrap: wrap;"></div>
+  </div>
+
+  <!-- ─── Modal: Neuer Broadcast ───────────────────────── -->
+  <div id="modal-new" class="hz-modal-backdrop hidden">
+    <div class="hz-modal" style="max-width: 860px;">
+      <div class="hz-modal-head">
+        <h3 style="margin: 0;">📣 Neuer Newsletter-Broadcast</h3>
+        <button type="button" class="hz-modal-close" data-close>✕</button>
+      </div>
+      <form id="form-new" class="hz-modal-body" style="display: grid; gap: 1.25rem;">
+
+        <!-- Modus-Wahl -->
+        <div class="hz-row" style="gap: 0.5rem; background: var(--hz-surface-2); padding: 0.35rem; border-radius: 8px; width: fit-content;">
+          <button type="button" class="hz-tab-btn active" data-mode="manual">✍️ Manuell</button>
+          <button type="button" class="hz-tab-btn" data-mode="article">📰 Aus Artikel</button>
+        </div>
+
+        <!-- Artikel-Auswahl (nur im article-Modus) -->
+        <div id="article-picker" class="hidden">
+          <label style="display: block; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.35rem;">Artikel-Slug</label>
+          <input type="text" id="f-articleSlug" maxlength="80"
+                 placeholder="bindungsangst-erkennen"
+                 style="width: 100%; padding: 0.7rem 0.85rem; font-size: 0.95rem;">
+          <p style="font-size: 0.8rem; color: var(--hz-text-muted); margin-top: 0.35rem;">
+            Der Slug bezieht sich auf <code>/blog/&lt;slug&gt;</code>. Wird nur als Referenz gespeichert.
+            Betreff und Body musst du trotzdem ausfüllen.
+          </p>
+          <button type="button" id="btn-prefill" class="hz-btn" style="margin-top: 0.5rem;">
+            Betreff + Link vorbefüllen
+          </button>
+        </div>
+
+        <!-- Subject -->
+        <div>
+          <label for="f-subject" style="display: block; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.35rem;">Betreff *</label>
+          <input type="text" id="f-subject" required minlength="3" maxlength="300"
+                 placeholder="Neuer Artikel: Wie du Bindungsangst erkennst"
+                 style="width: 100%; padding: 0.7rem 0.85rem; font-size: 0.95rem;">
+        </div>
+
+        <!-- Body (HTML) -->
+        <div>
+          <label for="f-bodyHtml" style="display: block; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.35rem;">
+            Body (HTML) *
+            <span style="color: var(--hz-text-muted); font-weight: 400;">
+              — nutze <code>{{UNSUBSCRIBE_URL}}</code> als Platzhalter, sonst wird ein Footer angehängt
+            </span>
+          </label>
+          <textarea id="f-bodyHtml" required rows="14" minlength="20" maxlength="200000"
+                    style="width: 100%; padding: 0.7rem 0.85rem; font-size: 0.9rem; font-family: 'SF Mono', Menlo, monospace; resize: vertical;"
+                    placeholder="<h1>Hallo!</h1>&#10;&#10;<p>Hier ist unser neuer Artikel:</p>&#10;&#10;<p><a href=&quot;https://herzblatt-journal.com/blog/slug&quot;>Jetzt lesen</a></p>"></textarea>
+        </div>
+
+        <!-- Preview -->
+        <details>
+          <summary style="cursor: pointer; user-select: none; font-size: 0.9rem; font-weight: 600;">👁️ Vorschau anzeigen</summary>
+          <div id="preview-box" style="border: 1px dashed var(--hz-border); border-radius: 10px; padding: 1rem; margin-top: 0.5rem; background: white; color: #1f2937; max-height: 400px; overflow-y: auto;">
+            <div style="color: #94a3b8; font-size: 0.8rem;">Body eingeben für Preview…</div>
+          </div>
+        </details>
+
+        <!-- Action buttons -->
+        <div class="hz-row" style="gap: 0.75rem; justify-content: space-between; flex-wrap: wrap;">
+          <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+            <button type="button" id="btn-save-draft" class="hz-btn">Als Draft speichern</button>
+            <button type="button" id="btn-test" class="hz-btn">📧 Testmail an mich</button>
+          </div>
+          <div style="display: flex; gap: 0.5rem;">
+            <button type="button" class="hz-btn" data-close>Abbrechen</button>
+            <button type="submit" id="btn-send" class="hz-btn primary">📣 Jetzt senden</button>
+          </div>
+        </div>
+
+        <div id="form-result" class="hidden" style="padding: 0.85rem 1rem; border-radius: 8px; font-size: 0.9rem;"></div>
+      </form>
+    </div>
+  </div>
+
+  <style>
+    .hz-kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 0.75rem; }
+    .hz-kpi { background: var(--hz-surface); border: 1px solid var(--hz-border); border-radius: var(--hz-radius); padding: 1rem; }
+    .hz-kpi-label { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--hz-text-muted); }
+    .hz-kpi-value { font-size: 1.75rem; font-weight: 700; margin-top: 0.35rem; color: var(--hz-text); }
+    .hz-row { display: flex; align-items: center; }
+    .hz-card { background: var(--hz-surface); border: 1px solid var(--hz-border); border-radius: var(--hz-radius); padding: 1.25rem; }
+    .hz-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+    .hz-table th { text-align: left; padding: 0.65rem 0.5rem; border-bottom: 1px solid var(--hz-border); color: var(--hz-text-muted); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600; }
+    .hz-table td { padding: 0.75rem 0.5rem; border-bottom: 1px solid var(--hz-border); vertical-align: middle; }
+    .hz-table tr:last-child td { border-bottom: none; }
+    .hz-table .muted { color: var(--hz-text-muted); }
+    .hz-btn {
+      display: inline-block; padding: 0.55rem 1rem; border: 1px solid var(--hz-border-strong);
+      background: var(--hz-surface-2); color: var(--hz-text); border-radius: 8px;
+      font-weight: 600; font-size: 0.85rem; cursor: pointer; transition: all 0.15s;
+    }
+    .hz-btn:hover:not(:disabled) { background: var(--hz-surface-3); border-color: var(--hz-primary); }
+    .hz-btn.primary { background: linear-gradient(135deg, var(--hz-primary), var(--hz-primary-dark)); border-color: var(--hz-primary-dark); color: white; }
+    .hz-btn.primary:hover:not(:disabled) { transform: translateY(-1px); box-shadow: 0 4px 12px var(--hz-primary-glow); }
+    .hz-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+    .hz-btn.danger { color: #fca5a5; border-color: rgba(239, 68, 68, 0.3); }
+    .hz-btn.danger:hover:not(:disabled) { background: rgba(239, 68, 68, 0.15); border-color: var(--hz-danger); }
+    .hidden { display: none !important; }
+    .status-badge { display: inline-block; padding: 0.15rem 0.55rem; border-radius: 999px; font-size: 0.72rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; }
+    .status-draft { background: rgba(148, 163, 184, 0.2); color: #cbd5e1; }
+    .status-sending { background: rgba(56, 189, 248, 0.2); color: #7dd3fc; }
+    .status-sent { background: rgba(16, 185, 129, 0.2); color: #6ee7b7; }
+    .status-failed { background: rgba(239, 68, 68, 0.2); color: #fca5a5; }
+
+    /* Modal */
+    .hz-modal-backdrop {
+      position: fixed; inset: 0; background: rgba(0, 0, 0, 0.7); backdrop-filter: blur(4px);
+      display: flex; align-items: flex-start; justify-content: center; padding: 2rem 1rem;
+      z-index: 100; overflow-y: auto;
+    }
+    .hz-modal { background: var(--hz-surface); border: 1px solid var(--hz-border); border-radius: var(--hz-radius-lg); width: 100%; max-width: 680px; box-shadow: var(--hz-shadow-lg); }
+    .hz-modal-head { display: flex; align-items: center; justify-content: space-between; padding: 1.25rem; border-bottom: 1px solid var(--hz-border); }
+    .hz-modal-body { padding: 1.5rem; }
+    .hz-modal-close { background: none; border: none; color: var(--hz-text-muted); font-size: 1.5rem; cursor: pointer; padding: 0.25rem 0.5rem; }
+    .hz-modal-close:hover { color: var(--hz-text); }
+
+    .hz-tab-btn {
+      padding: 0.4rem 0.85rem; border: none; background: transparent; color: var(--hz-text-muted);
+      font-size: 0.85rem; font-weight: 600; cursor: pointer; border-radius: 6px; transition: all 0.15s;
+    }
+    .hz-tab-btn.active { background: var(--hz-surface); color: var(--hz-text); }
+
+    @media (max-width: 600px) {
+      .hz-table th:nth-child(3), .hz-table td:nth-child(3) { display: none; }
+      .hz-kpi-value { font-size: 1.35rem; }
+    }
+  </style>
+
+  <script is:inline>
+    (function () {
+      const API_BASE = '/api/herzraum/newsletter-broadcast';
+      let currentPage = 1;
+      let currentMode = 'manual';
+      let currentDraftId = null;
+
+      function fmt(n) { return (n || 0).toLocaleString('de-DE'); }
+      function fmtDate(iso) {
+        if (!iso) return '—';
+        try {
+          return new Date(iso).toLocaleString('de-DE', {
+            day: '2-digit', month: '2-digit', year: '2-digit',
+            hour: '2-digit', minute: '2-digit'
+          });
+        } catch { return iso; }
+      }
+      function escapeHtml(s) {
+        return String(s == null ? '' : s).replace(/[&<>"']/g, c =>
+          ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+      }
+      function $(id) { return document.getElementById(id); }
+
+      function getCsrfToken() {
+        const m = document.cookie.match(/(?:^|;\s*)hz_csrf=([^;]+)/);
+        return m ? decodeURIComponent(m[1]) : '';
+      }
+      async function api(path, options) {
+        options = options || {};
+        const headers = Object.assign(
+          { 'Content-Type': 'application/json' },
+          options.headers || {},
+        );
+        const csrf = getCsrfToken();
+        if (csrf) headers['x-csrf-token'] = csrf;
+        const res = await fetch(API_BASE + path, Object.assign({}, options, { headers }));
+        const ct = res.headers.get('content-type') || '';
+        const data = ct.includes('application/json') ? await res.json() : null;
+        return { ok: res.ok, status: res.status, data };
+      }
+
+      function showResult(msg, ok) {
+        const el = $('form-result');
+        el.classList.remove('hidden');
+        el.style.background = ok ? 'rgba(16, 185, 129, 0.12)' : 'rgba(239, 68, 68, 0.12)';
+        el.style.color = ok ? '#6ee7b7' : '#fca5a5';
+        el.textContent = msg;
+      }
+
+      function renderStatusBadge(status) {
+        return `<span class="status-badge status-${escapeHtml(status)}">${escapeHtml(status)}</span>`;
+      }
+
+      async function loadList(page) {
+        currentPage = page || 1;
+        const tbody = document.querySelector('#table-broadcasts tbody');
+        tbody.innerHTML = '<tr><td colspan="6" class="muted" style="text-align: center; padding: 2rem;">Lade…</td></tr>';
+
+        const resp = await api(`/?page=${currentPage}`);
+        if (!resp.ok) {
+          tbody.innerHTML = '<tr><td colspan="6" class="muted" style="text-align: center; padding: 2rem; color: #fca5a5;">Fehler beim Laden.</td></tr>';
+          return;
+        }
+        const { broadcasts, total, totalPages, sendgridEnabled } = resp.data;
+
+        // SendGrid-Status
+        $('sg-status').textContent = sendgridEnabled ? '✓ aktiv' : '✗ aus';
+        $('sg-status').style.color = sendgridEnabled ? '#10b981' : '#f59e0b';
+        if (!sendgridEnabled) $('sg-warn').classList.remove('hidden');
+
+        if (!broadcasts || broadcasts.length === 0) {
+          tbody.innerHTML = '<tr><td colspan="6" class="muted" style="text-align: center; padding: 2rem;">Noch keine Broadcasts. Klick auf "+ Neuer Broadcast".</td></tr>';
+          $('pagination').innerHTML = '';
+          return;
+        }
+
+        tbody.innerHTML = broadcasts.map((b) => {
+          const canDelete = b.status === 'draft';
+          const canSend = b.status === 'draft';
+          const subjectHtml = b.articleSlug
+            ? `${escapeHtml(b.subject)} <span style="font-size: 0.7rem; color: var(--hz-text-muted);">[${escapeHtml(b.articleSlug)}]</span>`
+            : escapeHtml(b.subject);
+          const recipientsCell = b.recipientCount != null
+            ? `${fmt(b.successCount || 0)} / ${fmt(b.recipientCount)}`
+            : '—';
+          return `
+            <tr data-id="${b.id}">
+              <td style="max-width: 320px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="${escapeHtml(b.subject)}">${subjectHtml}</td>
+              <td style="font-size: 0.82rem; color: var(--hz-text-muted);">${fmtDate(b.createdAt)}</td>
+              <td style="font-size: 0.82rem; color: var(--hz-text-muted);">${fmtDate(b.sentAt)}</td>
+              <td>${recipientsCell}</td>
+              <td>${renderStatusBadge(b.status)}</td>
+              <td>
+                <div style="display: flex; gap: 0.35rem; flex-wrap: wrap;">
+                  ${canSend ? `<button class="hz-btn primary" data-action="send">Senden</button>` : ''}
+                  ${canDelete ? `<button class="hz-btn danger" data-action="delete">Löschen</button>` : ''}
+                </div>
+              </td>
+            </tr>`;
+        }).join('');
+
+        // Pagination
+        const pg = $('pagination');
+        if (totalPages > 1) {
+          let html = '';
+          for (let i = 1; i <= totalPages; i++) {
+            const active = i === currentPage;
+            html += `<button class="hz-btn${active ? ' primary' : ''}" data-page="${i}" ${active ? 'disabled' : ''}>${i}</button>`;
+          }
+          pg.innerHTML = html;
+          pg.querySelectorAll('button').forEach(btn => {
+            btn.addEventListener('click', () => loadList(parseInt(btn.dataset.page, 10)));
+          });
+        } else {
+          pg.innerHTML = '';
+        }
+      }
+
+      async function loadStats() {
+        const resp = await api('/meta/stats');
+        if (!resp.ok) return;
+        $('active-subs').textContent = fmt(resp.data.activeSubscribers);
+      }
+
+      // Row actions (delegation)
+      document.querySelector('#table-broadcasts').addEventListener('click', async (e) => {
+        const btn = e.target.closest('button[data-action]');
+        if (!btn) return;
+        const tr = btn.closest('tr');
+        const id = tr && tr.dataset.id;
+        if (!id) return;
+        const action = btn.dataset.action;
+
+        if (action === 'send') {
+          const subj = tr.querySelector('td').textContent.trim();
+          const stats = await api('/meta/stats');
+          const count = stats.ok ? stats.data.activeSubscribers : '?';
+          if (!confirm(`Wirklich an ${count} Empfänger senden?\n\nBetreff: ${subj}\n\nDieser Vorgang ist nicht rückgängig machbar.`)) return;
+          btn.disabled = true;
+          btn.textContent = 'Sende…';
+          const resp = await api(`/${id}/send`, { method: 'POST' });
+          btn.disabled = false;
+          if (resp.ok && resp.data && resp.data.ok) {
+            alert(`✓ Gesendet an ${fmt(resp.data.recipientCount)} Empfänger — ${fmt(resp.data.successCount)} zugestellt, ${fmt(resp.data.failureCount)} Fehler.`);
+          } else {
+            alert('Fehler: ' + (resp.data && (resp.data.error || resp.data.message) || resp.status));
+          }
+          loadList(currentPage);
+        } else if (action === 'delete') {
+          if (!confirm('Draft wirklich löschen?')) return;
+          const resp = await api(`/${id}`, { method: 'DELETE' });
+          if (resp.ok && resp.data && resp.data.ok) {
+            loadList(currentPage);
+          } else {
+            alert('Fehler: ' + (resp.data && (resp.data.error || resp.data.message) || resp.status));
+          }
+        }
+      });
+
+      // ─── Modal ─────────────────────────────────────────
+      function openModal() {
+        $('modal-new').classList.remove('hidden');
+        $('form-result').classList.add('hidden');
+        currentDraftId = null;
+        $('f-subject').value = '';
+        $('f-bodyHtml').value = '';
+        $('f-articleSlug').value = '';
+        $('btn-send').disabled = false;
+        $('btn-send').textContent = '📣 Jetzt senden';
+        setMode('manual');
+        renderPreview();
+      }
+      function closeModal() { $('modal-new').classList.add('hidden'); }
+      function setMode(mode) {
+        currentMode = mode;
+        document.querySelectorAll('.hz-tab-btn').forEach(b => {
+          b.classList.toggle('active', b.dataset.mode === mode);
+        });
+        $('article-picker').classList.toggle('hidden', mode !== 'article');
+      }
+
+      $('btn-new').addEventListener('click', openModal);
+      document.querySelectorAll('[data-close]').forEach(el =>
+        el.addEventListener('click', closeModal));
+      $('modal-new').addEventListener('click', (e) => {
+        if (e.target === $('modal-new')) closeModal();
+      });
+      document.querySelectorAll('.hz-tab-btn').forEach(b =>
+        b.addEventListener('click', () => setMode(b.dataset.mode)));
+
+      $('btn-prefill').addEventListener('click', () => {
+        const slug = $('f-articleSlug').value.trim();
+        if (!slug) { alert('Bitte Slug eingeben.'); return; }
+        const subj = $('f-subject').value.trim();
+        if (!subj) {
+          $('f-subject').value = `Neuer Artikel: ${slug.replace(/-/g, ' ')}`;
+        }
+        const body = $('f-bodyHtml').value.trim();
+        if (!body) {
+          const url = `https://herzblatt-journal.com/blog/${slug}`;
+          $('f-bodyHtml').value =
+`<h1 style="font-family: Georgia, serif; color: #1f2937;">Neuer Artikel im Herzblatt Journal</h1>
+
+<p style="font-size: 16px; line-height: 1.6; color: #1f2937;">
+  Hallo,<br><br>
+  wir haben einen neuen Artikel für dich geschrieben, den wir dir nicht vorenthalten wollten.
+</p>
+
+<p style="font-size: 16px; line-height: 1.6; color: #1f2937;">
+  <strong>${slug.replace(/-/g, ' ')}</strong>
+</p>
+
+<p style="margin: 28px 0;">
+  <a href="${url}" style="display: inline-block; background: #e11d48; color: white; padding: 14px 28px; border-radius: 8px; text-decoration: none; font-weight: 600;">
+    Jetzt lesen
+  </a>
+</p>
+
+<p style="font-size: 15px; color: #64748b; line-height: 1.5;">
+  Herzlich,<br>
+  Sarah Kellner<br>
+  Chefredakteurin, Herzblatt Journal
+</p>`;
+        }
+        renderPreview();
+      });
+
+      // Live-Preview
+      function renderPreview() {
+        const html = $('f-bodyHtml').value;
+        const box = $('preview-box');
+        if (!html || html.trim().length < 5) {
+          box.innerHTML = '<div style="color: #94a3b8; font-size: 0.8rem;">Body eingeben für Preview…</div>';
+          return;
+        }
+        // In kontrollierter Umgebung (Admin) ist setting innerHTML okay.
+        // Platzhalter durch Demo-URL ersetzen für die Preview.
+        box.innerHTML = html.split('{{UNSUBSCRIBE_URL}}').join('https://herzblatt-journal.com/unsubscribe?email=demo&token=DEMO');
+      }
+      $('f-bodyHtml').addEventListener('input', renderPreview);
+
+      async function saveDraft() {
+        const payload = {
+          subject: $('f-subject').value.trim(),
+          bodyHtml: $('f-bodyHtml').value,
+        };
+        if (currentMode === 'article') {
+          const slug = $('f-articleSlug').value.trim();
+          if (slug) payload.articleSlug = slug;
+        }
+        const resp = await api('/', { method: 'POST', body: JSON.stringify(payload) });
+        if (resp.ok && resp.data && resp.data.ok) {
+          currentDraftId = resp.data.broadcast.id;
+          showResult(`✓ Draft #${currentDraftId} gespeichert.`, true);
+          return currentDraftId;
+        }
+        showResult('Fehler: ' + (resp.data && (resp.data.error || JSON.stringify(resp.data.issues)) || resp.status), false);
+        return null;
+      }
+
+      $('btn-save-draft').addEventListener('click', async () => {
+        await saveDraft();
+        loadList(currentPage);
+      });
+
+      $('btn-test').addEventListener('click', async () => {
+        const id = currentDraftId || await saveDraft();
+        if (!id) return;
+        const email = prompt('Testmail an welche Adresse? (Leer lassen → service@herzblatt-journal.com)');
+        if (email === null) return;
+        const target = (email || '').trim() || 'service@herzblatt-journal.com';
+        const resp = await api(`/${id}/test`, { method: 'POST', body: JSON.stringify({ email: target }) });
+        if (resp.ok && resp.data && resp.data.ok) {
+          showResult(`✓ Testmail an ${target} gesendet.`, true);
+        } else {
+          showResult('Fehler: ' + (resp.data && (resp.data.error || resp.data.message) || resp.status), false);
+        }
+      });
+
+      $('form-new').addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const id = currentDraftId || await saveDraft();
+        if (!id) return;
+        // Empfänger-Count für Confirm
+        const statsResp = await api('/meta/stats');
+        const count = statsResp.ok ? statsResp.data.activeSubscribers : '?';
+        if (!confirm(`Wirklich an ${count} Empfänger senden?\n\nBetreff: ${$('f-subject').value}\n\nDieser Vorgang ist nicht rückgängig machbar.`)) return;
+
+        $('btn-send').disabled = true;
+        $('btn-send').textContent = 'Sende…';
+        const resp = await api(`/${id}/send`, { method: 'POST' });
+        $('btn-send').disabled = false;
+        $('btn-send').textContent = '📣 Jetzt senden';
+        if (resp.ok && resp.data && resp.data.ok) {
+          showResult(`✓ Gesendet an ${fmt(resp.data.recipientCount)} — ${fmt(resp.data.successCount)} zugestellt, ${fmt(resp.data.failureCount)} Fehler.`, true);
+          setTimeout(() => { closeModal(); loadList(1); }, 1200);
+        } else {
+          showResult('Fehler: ' + (resp.data && (resp.data.error || resp.data.message) || resp.status), false);
+        }
+      });
+
+      // Initial load
+      loadStats();
+      loadList(1);
+    })();
+  </script>
+</HerzraumLayout>

@@ -1,0 +1,346 @@
+/**
+ * /herzraum/newsletter-broadcast — Admin-Mass-Mails an alle Subscribers.
+ *
+ * Mount: `/herzraum/newsletter-broadcast/*` (session + CSRF sind vom Parent
+ * Router gesetzt).
+ *
+ * Endpoints:
+ *   GET    /                 — paginierte Liste (20/page), ?page=1
+ *   GET    /:id              — Detail eines Broadcasts
+ *   POST   /                 — Draft anlegen { subject, articleSlug?, bodyHtml }
+ *   POST   /:id/send         — Broadcast an alle active Subscribers senden
+ *   POST   /:id/test         — Testmail an einzelne Adresse (keine Status-Änderung)
+ *   DELETE /:id              — nur wenn status='draft'
+ *
+ * Status-Transitionen:
+ *   draft → sending → sent|failed   (nur draft kann gelöscht werden)
+ *
+ * Rate-Limit: max 1 Send pro 5 Minuten über ALLE Broadcasts hinweg
+ * (verhindert versehentliches Doppel-Klicken).
+ */
+import { Hono } from 'hono';
+import { z } from 'zod';
+import { and, desc, eq, isNull, count, sql } from 'drizzle-orm';
+import { db, schema } from '../../db/index.js';
+import { logAudit } from '../../lib/audit.js';
+import { sendBroadcastEmail, isSendGridEnabled } from '../../lib/sendgrid.js';
+import { allowRequest } from '../../lib/rate-limit.js';
+
+const app = new Hono();
+
+const createSchema = z.object({
+  subject: z.string().min(3).max(300),
+  articleSlug: z
+    .string()
+    .regex(/^[a-z0-9][a-z0-9-]{2,80}$/, 'invalid-slug')
+    .max(80)
+    .optional()
+    .nullable(),
+  bodyHtml: z.string().min(20).max(200_000),
+});
+
+const testSchema = z.object({
+  email: z.string().email().max(254),
+});
+
+// ─── GET / (paginated list) ───────────────────────────────────
+app.get('/', async (c) => {
+  const page = Math.max(1, parseInt(c.req.query('page') || '1', 10) || 1);
+  const PAGE_SIZE = 20;
+  const offset = (page - 1) * PAGE_SIZE;
+
+  const [rows, totalRow] = await Promise.all([
+    db
+      .select({
+        id: schema.newsletterBroadcasts.id,
+        subject: schema.newsletterBroadcasts.subject,
+        articleSlug: schema.newsletterBroadcasts.articleSlug,
+        status: schema.newsletterBroadcasts.status,
+        sentAt: schema.newsletterBroadcasts.sentAt,
+        recipientCount: schema.newsletterBroadcasts.recipientCount,
+        successCount: schema.newsletterBroadcasts.successCount,
+        createdBy: schema.newsletterBroadcasts.createdBy,
+        createdAt: schema.newsletterBroadcasts.createdAt,
+      })
+      .from(schema.newsletterBroadcasts)
+      .orderBy(desc(schema.newsletterBroadcasts.createdAt))
+      .limit(PAGE_SIZE)
+      .offset(offset),
+    db.select({ n: count() }).from(schema.newsletterBroadcasts),
+  ]);
+
+  const total = Number(totalRow[0]?.n || 0);
+  return c.json({
+    ok: true,
+    page,
+    pageSize: PAGE_SIZE,
+    total,
+    totalPages: Math.max(1, Math.ceil(total / PAGE_SIZE)),
+    broadcasts: rows,
+    sendgridEnabled: isSendGridEnabled(),
+  });
+});
+
+// ─── GET /:id (detail) ─────────────────────────────────────────
+app.get('/:id', async (c) => {
+  const id = parseInt(c.req.param('id'), 10);
+  if (!Number.isInteger(id) || id < 1) {
+    return c.json({ ok: false, error: 'invalid-id' }, 400);
+  }
+  const [row] = await db
+    .select()
+    .from(schema.newsletterBroadcasts)
+    .where(eq(schema.newsletterBroadcasts.id, id))
+    .limit(1);
+
+  if (!row) return c.json({ ok: false, error: 'not-found' }, 404);
+  return c.json({ ok: true, broadcast: row });
+});
+
+// ─── POST / (create draft) ────────────────────────────────────
+app.post('/', async (c) => {
+  let body: unknown;
+  try { body = await c.req.json(); }
+  catch { return c.json({ ok: false, error: 'invalid-json' }, 400); }
+
+  const parsed = createSchema.safeParse(body);
+  if (!parsed.success) {
+    return c.json({ ok: false, error: 'validation', issues: parsed.error.flatten() }, 400);
+  }
+
+  const [created] = await db
+    .insert(schema.newsletterBroadcasts)
+    .values({
+      subject: parsed.data.subject,
+      articleSlug: parsed.data.articleSlug || null,
+      bodyHtml: parsed.data.bodyHtml,
+      status: 'draft',
+    })
+    .returning();
+
+  await logAudit(c, {
+    action: 'newsletter.broadcast.create',
+    target: String(created.id),
+    meta: {
+      subject: parsed.data.subject.slice(0, 120),
+      articleSlug: parsed.data.articleSlug || null,
+    },
+  });
+
+  return c.json({ ok: true, broadcast: created }, 201);
+});
+
+// ─── POST /:id/test (single-address test send) ────────────────
+app.post('/:id/test', async (c) => {
+  const id = parseInt(c.req.param('id'), 10);
+  if (!Number.isInteger(id) || id < 1) {
+    return c.json({ ok: false, error: 'invalid-id' }, 400);
+  }
+
+  let body: unknown;
+  try { body = await c.req.json(); }
+  catch { return c.json({ ok: false, error: 'invalid-json' }, 400); }
+
+  const parsed = testSchema.safeParse(body);
+  if (!parsed.success) {
+    return c.json({ ok: false, error: 'validation', issues: parsed.error.flatten() }, 400);
+  }
+
+  const [row] = await db
+    .select()
+    .from(schema.newsletterBroadcasts)
+    .where(eq(schema.newsletterBroadcasts.id, id))
+    .limit(1);
+  if (!row) return c.json({ ok: false, error: 'not-found' }, 404);
+
+  if (!isSendGridEnabled()) {
+    return c.json({ ok: false, error: 'sendgrid-not-configured' }, 503);
+  }
+
+  const result = await sendBroadcastEmail(
+    `[TEST] ${row.subject}`,
+    row.bodyHtml,
+    [parsed.data.email.toLowerCase().trim()],
+  );
+
+  await logAudit(c, {
+    action: 'newsletter.broadcast.test',
+    target: String(id),
+    meta: { to: parsed.data.email, sent: result.sent, failed: result.failed },
+  });
+
+  return c.json({
+    ok: result.sent > 0,
+    sent: result.sent,
+    failed: result.failed,
+    errors: result.errors.slice(0, 3),
+  });
+});
+
+// ─── POST /:id/send (real mass send) ──────────────────────────
+// Globaler Rate-Limit-Key — 1 Send pro 5 Min über alle Broadcasts.
+const SEND_RATE_LIMIT_KEY = 'newsletter-broadcast:send';
+const FIVE_MINUTES_MS = 5 * 60 * 1000;
+
+app.post('/:id/send', async (c) => {
+  const id = parseInt(c.req.param('id'), 10);
+  if (!Number.isInteger(id) || id < 1) {
+    return c.json({ ok: false, error: 'invalid-id' }, 400);
+  }
+
+  if (!allowRequest(SEND_RATE_LIMIT_KEY, 1, FIVE_MINUTES_MS)) {
+    return c.json(
+      {
+        ok: false,
+        error: 'rate-limited',
+        message: 'Letzter Send liegt unter 5 Min zurück. Warte kurz um versehentliches Doppelsenden zu vermeiden.',
+      },
+      429,
+    );
+  }
+
+  if (!isSendGridEnabled()) {
+    return c.json({ ok: false, error: 'sendgrid-not-configured' }, 503);
+  }
+
+  // Atomar den Status auf 'sending' setzen — nur wenn aktuell 'draft' ist.
+  // Verhindert Double-Send-Race selbst ohne Rate-Limiter.
+  const claimResult = await db
+    .update(schema.newsletterBroadcasts)
+    .set({ status: 'sending' })
+    .where(
+      and(
+        eq(schema.newsletterBroadcasts.id, id),
+        eq(schema.newsletterBroadcasts.status, 'draft'),
+      ),
+    )
+    .returning();
+
+  if (claimResult.length === 0) {
+    // Entweder gibts den Broadcast nicht, oder er ist nicht mehr draft.
+    const [existing] = await db
+      .select()
+      .from(schema.newsletterBroadcasts)
+      .where(eq(schema.newsletterBroadcasts.id, id))
+      .limit(1);
+    if (!existing) return c.json({ ok: false, error: 'not-found' }, 404);
+    return c.json(
+      { ok: false, error: 'invalid-status', status: existing.status },
+      409,
+    );
+  }
+
+  const row = claimResult[0];
+
+  // Empfänger holen: alle active Subscribers (unsubscribed_at IS NULL).
+  const subsRows = await db
+    .select({ email: schema.subscribers.email })
+    .from(schema.subscribers)
+    .where(isNull(schema.subscribers.unsubscribedAt));
+
+  const recipients = subsRows.map((r) => r.email.toLowerCase().trim()).filter(Boolean);
+
+  try {
+    const result = await sendBroadcastEmail(row.subject, row.bodyHtml, recipients);
+
+    await db
+      .update(schema.newsletterBroadcasts)
+      .set({
+        status: 'sent',
+        sentAt: new Date(),
+        recipientCount: recipients.length,
+        successCount: result.sent,
+      })
+      .where(eq(schema.newsletterBroadcasts.id, id));
+
+    await logAudit(c, {
+      action: 'newsletter.broadcast.send',
+      target: String(id),
+      meta: {
+        subject: row.subject.slice(0, 120),
+        recipients: recipients.length,
+        sent: result.sent,
+        failed: result.failed,
+      },
+    });
+
+    return c.json({
+      ok: true,
+      broadcastId: id,
+      recipientCount: recipients.length,
+      successCount: result.sent,
+      failureCount: result.failed,
+      errors: result.errors.slice(0, 5),
+    });
+  } catch (err) {
+    console.error('[newsletter-broadcast] send failed:', err);
+    await db
+      .update(schema.newsletterBroadcasts)
+      .set({ status: 'failed', recipientCount: recipients.length, successCount: 0 })
+      .where(eq(schema.newsletterBroadcasts.id, id));
+    await logAudit(c, {
+      action: 'newsletter.broadcast.send-failed',
+      target: String(id),
+      meta: { error: String(err).slice(0, 400) },
+    });
+    return c.json({ ok: false, error: 'send-failed', message: String(err) }, 500);
+  }
+});
+
+// ─── DELETE /:id (draft only) ─────────────────────────────────
+app.delete('/:id', async (c) => {
+  const id = parseInt(c.req.param('id'), 10);
+  if (!Number.isInteger(id) || id < 1) {
+    return c.json({ ok: false, error: 'invalid-id' }, 400);
+  }
+
+  // Delete nur wenn status='draft' — conditional delete atomic via WHERE.
+  const deleted = await db
+    .delete(schema.newsletterBroadcasts)
+    .where(
+      and(
+        eq(schema.newsletterBroadcasts.id, id),
+        eq(schema.newsletterBroadcasts.status, 'draft'),
+      ),
+    )
+    .returning({ id: schema.newsletterBroadcasts.id });
+
+  if (deleted.length === 0) {
+    const [existing] = await db
+      .select({ status: schema.newsletterBroadcasts.status })
+      .from(schema.newsletterBroadcasts)
+      .where(eq(schema.newsletterBroadcasts.id, id))
+      .limit(1);
+    if (!existing) return c.json({ ok: false, error: 'not-found' }, 404);
+    return c.json(
+      { ok: false, error: 'invalid-status', message: 'Nur draft-Broadcasts können gelöscht werden.', status: existing.status },
+      409,
+    );
+  }
+
+  await logAudit(c, {
+    action: 'newsletter.broadcast.delete',
+    target: String(id),
+  });
+
+  return c.json({ ok: true });
+});
+
+// ─── Stats endpoint for UI header ──────────────────────────────
+app.get('/meta/stats', async (c) => {
+  const [activeSubs] = await db
+    .select({ n: count() })
+    .from(schema.subscribers)
+    .where(isNull(schema.subscribers.unsubscribedAt));
+
+  return c.json({
+    ok: true,
+    activeSubscribers: Number(activeSubs?.n || 0),
+    sendgridEnabled: isSendGridEnabled(),
+  });
+});
+
+// Re-exported for tests
+export { SEND_RATE_LIMIT_KEY, FIVE_MINUTES_MS };
+
+export default app;

@@ -123,6 +123,18 @@ const authorsJson = JSON.stringify(authorsArr);
 
         <hr style="margin: 2rem 0; border: none; border-top: 1px solid var(--hz-border);">
 
+        <div class="fg" style="background: rgba(244, 63, 94, 0.06); border: 1px solid rgba(244, 63, 94, 0.2); border-radius: 0.5rem; padding: 0.85rem; margin-bottom: 1rem;">
+          <label style="display: flex; align-items: center; gap: 0.6rem; cursor: pointer; font-weight: 600;">
+            <input type="checkbox" id="f-send-newsletter" style="width: 18px; height: 18px; accent-color: var(--hz-primary);">
+            📣 Nach Publish auch als Newsletter-Broadcast versenden
+          </label>
+          <small class="hint" style="display: block; margin-top: 0.35rem; color: var(--hz-text-muted);">
+            Legt einen Draft unter <code>/herzraum/newsletter-broadcasts</code> an — Betreff = Artikel-Titel,
+            Body = Description + "Jetzt lesen"-Button. Wird NICHT automatisch gesendet — du prüfst und
+            sendest manuell.
+          </small>
+        </div>
+
         <div id="submit-error" style="display: none; color: var(--hz-danger); padding: 0.75rem; background: rgba(239,68,68,0.1); border: 1px solid rgba(239,68,68,0.3); border-radius: 0.5rem; margin-bottom: 1rem;"></div>
         <div id="submit-success" style="display: none; color: #16a34a; padding: 0.75rem; background: rgba(22,163,74,0.1); border: 1px solid rgba(22,163,74,0.3); border-radius: 0.5rem; margin-bottom: 1rem;"></div>
 
@@ -169,6 +181,10 @@ const authorsJson = JSON.stringify(authorsArr);
     let faqItems = [];
 
     const $ = (id) => document.getElementById(id);
+    function escapeHtmlForEmail(s) {
+      return String(s == null ? '' : s).replace(/[&<>"']/g, c =>
+        ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    }
 
     // Slug-Helper
     function slugify(s) {
@@ -482,6 +498,48 @@ const authorsJson = JSON.stringify(authorsArr);
             ' · <a href="'+data.commitUrl+'" target="_blank" style="color: var(--hz-primary);">Commit</a> · <a href="'+data.liveUrl+'" target="_blank" style="color: var(--hz-primary);">Live-URL (nach Deploy)</a>';
           ok.style.display = 'block';
           btn.textContent = '✓ Angelegt';
+
+          // Optional: Newsletter-Draft anlegen wenn der User die Checkbox
+          // gesetzt hat. Fehler sind nicht blockierend — der Artikel-Commit
+          // hat bereits funktioniert, das Broadcast ist "nice to have".
+          if ($('f-send-newsletter') && $('f-send-newsletter').checked) {
+            try {
+              const articleUrl = data.liveUrl || ('https://herzblatt-journal.com/blog/' + slug);
+              const desc = fm.description || 'Neuer Artikel im Herzblatt Journal.';
+              const bodyHtml = [
+                '<h1 style="font-family: Georgia, serif; color: #1f2937; font-size: 24px;">' + escapeHtmlForEmail(fm.title) + '</h1>',
+                '<p style="font-size: 16px; line-height: 1.6; color: #1f2937;">' + escapeHtmlForEmail(desc) + '</p>',
+                '<p style="margin: 28px 0;">',
+                '  <a href="' + articleUrl + '" style="display: inline-block; background: #e11d48; color: white; padding: 14px 28px; border-radius: 8px; text-decoration: none; font-weight: 600;">Jetzt lesen</a>',
+                '</p>',
+                '<p style="font-size: 15px; color: #64748b; line-height: 1.5;">Herzlich,<br>Sarah Kellner<br>Chefredakteurin, Herzblatt Journal</p>',
+              ].join('\n');
+
+              // CSRF-Token aus Cookie holen
+              const csrfMatch = document.cookie.match(/(?:^|;\s*)hz_csrf=([^;]+)/);
+              const csrfToken = csrfMatch ? decodeURIComponent(csrfMatch[1]) : '';
+              const headers = { 'Content-Type': 'application/json' };
+              if (csrfToken) headers['x-csrf-token'] = csrfToken;
+
+              const bcRes = await fetch('/api/herzraum/newsletter-broadcast/', {
+                method: 'POST',
+                headers: headers,
+                body: JSON.stringify({
+                  subject: fm.title,
+                  articleSlug: slug,
+                  bodyHtml: bodyHtml,
+                }),
+              });
+              const bcData = await bcRes.json().catch(() => ({}));
+              if (bcData && bcData.ok) {
+                ok.innerHTML += ' · <a href="/herzraum/newsletter-broadcasts" style="color: var(--hz-primary);">📣 Newsletter-Draft #' + bcData.broadcast.id + ' angelegt</a>';
+              } else {
+                ok.innerHTML += ' · ⚠️ Newsletter-Draft konnte nicht angelegt werden: ' + (bcData && bcData.error || bcRes.status);
+              }
+            } catch (bcErr) {
+              ok.innerHTML += ' · ⚠️ Newsletter-Draft fehler: ' + (bcErr && bcErr.message ? bcErr.message : String(bcErr));
+            }
+          }
         } else {
           err.textContent = 'Fehler: ' + (data.error || 'unknown') +
             (data.issues ? ' — ' + JSON.stringify(data.issues) : '');
