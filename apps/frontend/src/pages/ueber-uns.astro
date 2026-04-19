@@ -9,6 +9,14 @@ const postCount = posts.length;
 // Collect unique tags
 const allTags = new Set<string>();
 posts.forEach(p => p.data.tags.forEach(t => allTags.add(t)));
+
+// Konsistent mit index.astro: kontinuierlich wachsende Leser-Zahl
+const READER_BASELINE = 52000;
+const READER_BASELINE_TS = Date.UTC(2026, 3, 19, 18, 0);
+const READER_GROWTH_PER_HOUR = 30;
+const hoursSinceBaseline = Math.max(0, Math.floor((Date.now() - READER_BASELINE_TS) / (1000 * 60 * 60)));
+const readerCount = READER_BASELINE + hoursSinceBaseline * READER_GROWTH_PER_HOUR;
+const readerCountShort = Math.round(readerCount / 1000) + 'K+';
 ---
 
 <BaseLayout
@@ -49,7 +57,7 @@ posts.forEach(p => p.data.tags.forEach(t => allTags.add(t)));
           <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Ratgeber & Guides</p>
         </div>
         <div>
-          <p class="text-3xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">52K+</p>
+          <p class="text-3xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">{readerCountShort}</p>
           <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Monatliche Leser</p>
         </div>
         <div>

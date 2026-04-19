@@ -212,23 +212,50 @@ const description = "Entdecke deinen Dating-Persönlichkeitstyp mit unserem unte
       backdrop-filter: blur(10px);
       border: 1px solid rgba(255, 255, 255, 0.2);
       border-radius: 1rem;
-      padding: 1.5rem;
-      display: grid;
-      gap: 1.5rem;
+      padding: 1.75rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      gap: 0.75rem;
     }
 
     .top-rec-logo-box {
       display: flex;
       align-items: center;
       justify-content: center;
+      width: 100%;
+      padding: 0.5rem 0 0.25rem;
     }
 
     .top-rec-logo {
-      height: 56px;
+      height: 42px;
       width: auto;
-      max-width: 100px;
+      max-width: 140px;
       object-fit: contain;
       filter: brightness(10);
+    }
+
+    .top-rec-info {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    @media (min-width: 640px) {
+      .top-rec-card {
+        flex-direction: row;
+        align-items: center;
+        text-align: left;
+        gap: 1.5rem;
+        padding: 1.75rem;
+      }
+      .top-rec-logo-box { width: auto; flex-shrink: 0; padding: 0; }
+      .top-rec-logo { height: 56px; max-width: 120px; }
+      .top-rec-info { align-items: flex-start; flex: 1; }
+      .top-rec-rating { justify-content: flex-start; }
     }
 
     .top-rec-info h4 {
@@ -908,7 +935,7 @@ const description = "Entdecke deinen Dating-Persönlichkeitstyp mit unserem unte
         <div class="top-recommendation">
           <div class="top-rec-content">
             <div class="top-rec-label">Perfekt für dich:</div>
-            <div class="top-rec-card" style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;">
+            <div class="top-rec-card">
               <div class="top-rec-logo-box">
                 <img id="topLogo" src="" alt="" class="top-rec-logo">
               </div>
