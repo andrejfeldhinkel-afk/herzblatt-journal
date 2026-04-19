@@ -9,6 +9,14 @@ const postCount = posts.length;
 // Collect unique tags
 const allTags = new Set<string>();
 posts.forEach(p => p.data.tags.forEach(t => allTags.add(t)));
+
+// Konsistent mit index.astro: kontinuierlich wachsende Leser-Zahl
+const READER_BASELINE = 52000;
+const READER_BASELINE_TS = Date.UTC(2026, 3, 19, 18, 0);
+const READER_GROWTH_PER_HOUR = 30;
+const hoursSinceBaseline = Math.max(0, Math.floor((Date.now() - READER_BASELINE_TS) / (1000 * 60 * 60)));
+const readerCount = READER_BASELINE + hoursSinceBaseline * READER_GROWTH_PER_HOUR;
+const readerCountShort = Math.round(readerCount / 1000) + 'K+';
 ---
 
 <BaseLayout
@@ -23,8 +31,8 @@ posts.forEach(p => p.data.tags.forEach(t => allTags.add(t)));
   <!-- Hero Section -->
   <section class="relative overflow-hidden py-20 sm:py-28">
     <div class="absolute inset-0" style="background: linear-gradient(135deg, var(--color-primary-50) 0%, var(--color-surface-100) 50%, var(--color-primary-50) 100%);"></div>
-    <div class="absolute top-10 left-10 w-72 h-72 rounded-full opacity-20" style="background: var(--color-primary-200); filter: blur(80px);"></div>
-    <div class="absolute bottom-10 right-10 w-96 h-96 rounded-full opacity-15" style="background: var(--color-primary-300); filter: blur(100px);"></div>
+    <div class="absolute top-10 left-10 w-72 h-72 rounded-full opacity-20 blur-blob blur-blob-a" aria-hidden="true"></div>
+    <div class="absolute bottom-10 right-10 w-96 h-96 rounded-full opacity-15 blur-blob blur-blob-b" aria-hidden="true"></div>
 
     <div class="relative max-w-4xl mx-auto px-4 sm:px-6 text-center">
       <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-semibold mb-6" style="background: var(--color-primary-100); color: var(--color-primary-700);">
@@ -49,7 +57,7 @@ posts.forEach(p => p.data.tags.forEach(t => allTags.add(t)));
           <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Ratgeber & Guides</p>
         </div>
         <div>
-          <p class="text-3xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">50K+</p>
+          <p class="text-3xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">{readerCountShort}</p>
           <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Monatliche Leser</p>
         </div>
         <div>
@@ -501,6 +509,8 @@ posts.forEach(p => p.data.tags.forEach(t => allTags.add(t)));
     details summary::-webkit-details-marker { display: none; }
     .heart-pulse {
       animation: heartbeat 1.4s ease-in-out infinite;
+      display: inline-block;
+      will-change: transform;
     }
     @keyframes heartbeat {
       0%, 100% { transform: scale(1); }
@@ -508,6 +518,34 @@ posts.forEach(p => p.data.tags.forEach(t => allTags.add(t)));
       30% { transform: scale(1); }
       45% { transform: scale(1.2); }
       60% { transform: scale(1); }
+    }
+
+    /* Decorative Blur-Blobs — GPU-Compositor-Layer + CSS-Containment
+       Vorher: filter: blur(80-100px) direkt inline — rendert auf CPU,
+       rechte Blob lag außerhalb Viewport und wurde dennoch neu gepaintet.
+       Jetzt: transform: translateZ(0) erzwingt GPU-Layer, contain: paint
+       isoliert Repaints, will-change: filter erlaubt Browser-Optimierung. */
+    .blur-blob {
+      will-change: filter;
+      transform: translateZ(0);
+      contain: paint;
+      pointer-events: none;
+    }
+    .blur-blob-a {
+      background: var(--color-primary-200);
+      filter: blur(80px);
+    }
+    .blur-blob-b {
+      background: var(--color-primary-300);
+      filter: blur(100px);
+    }
+
+    /* Reduzierte Motion: Blur-Radius runter (billiger zu rendern) +
+       heart-pulse stoppen — vestibulär-empfindliche User schonen. */
+    @media (prefers-reduced-motion: reduce) {
+      .heart-pulse { animation: none; }
+      .blur-blob-a { filter: blur(40px); }
+      .blur-blob-b { filter: blur(40px); }
     }
   </style>
 

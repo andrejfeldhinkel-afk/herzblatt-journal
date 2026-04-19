@@ -10,14 +10,18 @@ const app = new Hono();
 // Produkt-Targets (Präfix 'product-') werden dynamisch gegen die products-Tabelle
 // geprüft (siehe isProductTarget unten) — so entfällt hier die Pflege.
 const ALLOWED_TARGETS = new Set([
-  'xloves', 'michverlieben', 'whatsmeet', 'onlydates69', 'singles69', 'singlescout',
-  'iloves', 'sex69',
+  // Eigene Dating-Brands — MÜSSEN mit den Slugs in top-dating-seiten.astro
+  // datingSites-Array übereinstimmen, sonst werden Klicks silent ignoriert.
+  'xloves', 'michverlieben', 'whatsmeet', 'onlydates69', 'single69', 'singlescout',
+  'i-loves', 'sex69',
+  // Benchmark-/Wettbewerber-Brands (für Vergleichs-Pages)
   'parship', 'elitepartner', 'lovescout24', 'edarling', 'bumble',
   'tinder', 'hinge', 'okcupid', 'happn', 'badoo', 'finya',
   'lovepoint', 'c-date', 'joyclub', 'secret', 'ashley-madison',
   'once', 'zoosk', 'match', 'plenty-of-fish',
   // Eigene Produkte (Conversion-Funnel-Tracking)
-  'ebook-buy', 'ebook-waitlist',
+  'ebook-buy', 'ebook-buy-whop', 'ebook-buy-whop-open', 'ebook-buy-whop-complete',
+  'ebook-buy-sofort', 'ebook-buy-paysafe', 'ebook-waitlist',
 ]);
 
 // Prüft ob target ein dynamisch registriertes Produkt ist (products.tracking_target).

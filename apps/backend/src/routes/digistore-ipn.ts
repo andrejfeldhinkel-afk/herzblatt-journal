@@ -25,8 +25,16 @@ import { eq, and } from 'drizzle-orm';
 import { db, schema } from '../db/index.js';
 import { addContactToList, sendWelcomeEmail, sendEbookDeliveryEmail, isSendGridEnabled } from '../lib/sendgrid.js';
 import { buildEbookAccessUrl } from '../lib/ebook-access.js';
+import { getClientIp, hashIp } from '../lib/crypto.js';
+import { allowRequest } from '../lib/rate-limit.js';
 
 const app = new Hono();
+
+// 120 IPN-POSTs pro Minute pro IP — Digistore retries bis zu 24h,
+// daher großzügig. Schutz gegen DB-Query-Flood bei unbekannten order_ids.
+function allowDigistoreIpn(ipHash: string): boolean {
+  return allowRequest('ds-ipn:' + ipHash, 120, 60_000);
+}
 
 function verifyDigistoreSignature(params: Record<string, string>, passphrase: string): boolean {
   const { sha_sign, ...rest } = params;
@@ -44,6 +52,13 @@ function verifyDigistoreSignature(params: Record<string, string>, passphrase: st
 }
 
 app.post('/', async (c) => {
+  // Rate-Limit: 120/min pro IP (Digistore retries bis 24h, daher großzügig)
+  const ip = getClientIp(c.req.raw, c.req.raw.headers);
+  if (!allowDigistoreIpn(hashIp(ip))) {
+    console.warn('[digistore-ipn] rate-limit hit');
+    return c.text('FAIL:rate-limit', 429, { 'Retry-After': '60' });
+  }
+
   const ct = c.req.header('content-type') || '';
   let params: Record<string, string> = {};
 
@@ -221,14 +236,11 @@ app.post('/', async (c) => {
   }
 });
 
-// GET für Setup-Check
+// GET für HEAD-Check / liveness only — leaked KEINE Signature-Config mehr.
+// Phase-4 F4: öffentlicher Endpoint darf nicht verraten ob die Signatur
+// deaktiviert ist (würde Angreifer direkt auf unsigned-POST hinweisen).
 app.get('/', (c) => {
-  return c.json({
-    ok: true,
-    info: 'Digistore24 IPN endpoint. POST here from Digistore Connection test + live IPNs.',
-    signatureConfigured: !!process.env.DIGISTORE_IPN_PASSPHRASE,
-    signatureDisabled: process.env.DIGISTORE_DISABLE_SIGNATURE === '1',
-  });
+  return c.json({ ok: true });
 });
 
 export default app;

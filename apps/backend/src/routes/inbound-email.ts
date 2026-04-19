@@ -19,8 +19,18 @@
  */
 import { Hono } from 'hono';
 import { db, schema } from '../db/index.js';
+import { getClientIp, hashIp } from '../lib/crypto.js';
+import { allowRequest } from '../lib/rate-limit.js';
 
 const app = new Hono();
+
+// 60 Inbound-Emails pro Minute pro IP — realer SendGrid-Traffic liegt
+// deutlich darunter, aber wir wollen DB-Row-Flood auf unsigniertem Endpoint
+// begrenzen. Siehe Phase-6 D) CRITICAL: SendGrid Inbound Parse liefert keine
+// Signatur von Haus aus, darum ist Rate-Limit die erste Schutzschicht.
+function allowInboundEmail(ipHash: string): boolean {
+  return allowRequest('inb:' + ipHash, 60, 60_000);
+}
 
 function extractEmail(str: string): { email: string; name?: string } {
   // Parst "Name <email@domain>" oder nur "email@domain"
@@ -53,6 +63,13 @@ function deriveThreadId(messageId: string | null, inReplyTo: string | null, subj
 }
 
 app.post('/', async (c) => {
+  // Rate-Limit: 60/min pro IP (SendGrid liefert weit weniger, Flood-Schutz)
+  const ip = getClientIp(c.req.raw, c.req.raw.headers);
+  if (!allowInboundEmail(hashIp(ip))) {
+    console.warn('[inbound-email] rate-limit hit');
+    return c.text('rate-limit', 429, { 'Retry-After': '60' });
+  }
+
   try {
     const ct = c.req.header('content-type') || '';
 
@@ -109,20 +126,27 @@ app.post('/', async (c) => {
     const bodyLen = (text || html).length;
     const isLikelySpam = bodyLen < 5 || bodyLen > 500_000;
 
-    await db.insert(schema.inboundEmails).values({
-      direction: 'in',
-      fromEmail: fromParsed.email.slice(0, 254),
-      fromName: fromParsed.name?.slice(0, 200) || null,
-      toEmail: toParsed.email.slice(0, 254),
-      subject: subject.slice(0, 500),
-      bodyText: text.slice(0, 100_000),
-      bodyHtml: html.slice(0, 500_000),
-      messageId: messageId?.slice(0, 500) || null,
-      inReplyTo: inReplyTo?.slice(0, 500) || null,
-      threadId: threadId.slice(0, 500),
-      status: isLikelySpam ? 'spam' : 'unread',
-      rawPayload: rawBody,
-    });
+    // onConflictDoNothing auf (partial) UNIQUE(message_id):
+    // SendGrid retried bei Non-200 bis 24h. Ohne Unique + Conflict-Handling
+    // führten Retries zu Duplikat-Inbox-Entries. Partial-Unique ignoriert
+    // NULL-message_id-Rows (kein Conflict → Insert läuft durch).
+    await db
+      .insert(schema.inboundEmails)
+      .values({
+        direction: 'in',
+        fromEmail: fromParsed.email.slice(0, 254),
+        fromName: fromParsed.name?.slice(0, 200) || null,
+        toEmail: toParsed.email.slice(0, 254),
+        subject: subject.slice(0, 500),
+        bodyText: text.slice(0, 100_000),
+        bodyHtml: html.slice(0, 500_000),
+        messageId: messageId?.slice(0, 500) || null,
+        inReplyTo: inReplyTo?.slice(0, 500) || null,
+        threadId: threadId.slice(0, 500),
+        status: isLikelySpam ? 'spam' : 'unread',
+        rawPayload: rawBody,
+      })
+      .onConflictDoNothing({ target: schema.inboundEmails.messageId });
 
     console.log(`[inbound-email] received from ${fromParsed.email}: "${subject.slice(0, 60)}"`);
     return c.text('OK', 200);
