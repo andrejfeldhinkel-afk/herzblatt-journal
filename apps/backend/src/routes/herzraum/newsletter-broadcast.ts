@@ -8,6 +8,7 @@
  *   GET    /                 — paginierte Liste (20/page), ?page=1
  *   GET    /:id              — Detail eines Broadcasts
  *   POST   /                 — Draft anlegen { subject, articleSlug?, bodyHtml }
+ *   PATCH  /:id              — Draft editieren (nur wenn status='draft', sonst 409)
  *   POST   /:id/send         — Broadcast an alle active Subscribers senden
  *   POST   /:id/test         — Testmail an einzelne Adresse (keine Status-Änderung)
  *   DELETE /:id              — nur wenn status='draft'
@@ -38,6 +39,23 @@ const createSchema = z.object({
     .nullable(),
   bodyHtml: z.string().min(20).max(200_000),
 });
+
+// PATCH erlaubt Teil-Updates — alle Felder optional, mind. eins muss gesetzt sein.
+const patchSchema = z
+  .object({
+    subject: z.string().min(3).max(300).optional(),
+    articleSlug: z
+      .string()
+      .regex(/^[a-z0-9][a-z0-9-]{2,80}$/, 'invalid-slug')
+      .max(80)
+      .nullable()
+      .optional(),
+    bodyHtml: z.string().min(20).max(200_000).optional(),
+  })
+  .refine(
+    (v) => v.subject !== undefined || v.articleSlug !== undefined || v.bodyHtml !== undefined,
+    { message: 'no-fields-to-update' },
+  );
 
 const testSchema = z.object({
   email: z.string().email().max(254),
@@ -128,6 +146,72 @@ app.post('/', async (c) => {
   });
 
   return c.json({ ok: true, broadcast: created }, 201);
+});
+
+// ─── PATCH /:id (edit draft) ──────────────────────────────────
+// Nur erlaubt wenn status='draft'. Atomar via WHERE-Bedingung im UPDATE,
+// damit ein paralleles "Send" das Draft nicht mitten im Edit überschreibt.
+app.patch('/:id', async (c) => {
+  const id = parseInt(c.req.param('id'), 10);
+  if (!Number.isInteger(id) || id < 1) {
+    return c.json({ ok: false, error: 'invalid-id' }, 400);
+  }
+
+  let body: unknown;
+  try { body = await c.req.json(); }
+  catch { return c.json({ ok: false, error: 'invalid-json' }, 400); }
+
+  const parsed = patchSchema.safeParse(body);
+  if (!parsed.success) {
+    return c.json({ ok: false, error: 'validation', issues: parsed.error.flatten() }, 400);
+  }
+
+  // Nur tatsächlich gesetzte Felder ins UPDATE schicken (kein versehentliches NULL).
+  const updates: Record<string, unknown> = {};
+  if (parsed.data.subject !== undefined) updates.subject = parsed.data.subject;
+  if (parsed.data.articleSlug !== undefined) updates.articleSlug = parsed.data.articleSlug;
+  if (parsed.data.bodyHtml !== undefined) updates.bodyHtml = parsed.data.bodyHtml;
+
+  // Atomarer UPDATE … WHERE status='draft' verhindert Edit nach Send-Start.
+  const updated = await db
+    .update(schema.newsletterBroadcasts)
+    .set(updates)
+    .where(
+      and(
+        eq(schema.newsletterBroadcasts.id, id),
+        eq(schema.newsletterBroadcasts.status, 'draft'),
+      ),
+    )
+    .returning();
+
+  if (updated.length === 0) {
+    const [existing] = await db
+      .select({ status: schema.newsletterBroadcasts.status })
+      .from(schema.newsletterBroadcasts)
+      .where(eq(schema.newsletterBroadcasts.id, id))
+      .limit(1);
+    if (!existing) return c.json({ ok: false, error: 'not-found' }, 404);
+    return c.json(
+      {
+        ok: false,
+        error: 'invalid-status',
+        message: 'Nur draft-Broadcasts können editiert werden.',
+        status: existing.status,
+      },
+      409,
+    );
+  }
+
+  await logAudit(c, {
+    action: 'newsletter.broadcast.update',
+    target: String(id),
+    meta: {
+      fields: Object.keys(updates),
+      subject: updates.subject ? String(updates.subject).slice(0, 120) : undefined,
+    },
+  });
+
+  return c.json({ ok: true, broadcast: updated[0] });
 });
 
 // ─── POST /:id/test (single-address test send) ────────────────
