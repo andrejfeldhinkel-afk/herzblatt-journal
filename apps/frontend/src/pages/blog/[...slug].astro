@@ -9,6 +9,7 @@ import TableOfContents from '../../components/TableOfContents.astro';
 import RatingWidget from '../../components/RatingWidget.astro';
 import AuthorBioBox from '../../components/AuthorBioBox.astro';
 import BrandAlternativeBanner from '../../components/BrandAlternativeBanner.astro';
+import ContentDepthBox from '../../components/ContentDepthBox.astro';
 import { getCollection, render } from 'astro:content';
 import { getAuthor } from '../../data/authors';
 
@@ -517,6 +518,12 @@ if (isReviewArticle) {
         <div class="mt-14 mb-8">
           <AppCTA variant="inline" />
         </div>
+
+        <!-- Content-Depth-Box: Topic-Cluster-Links für Topical Authority -->
+        <ContentDepthBox
+          currentSlug={post.id}
+          currentTags={post.data.tags}
+        />
 
         <!-- Related Articles (neue Component mit Multi-Faktor-Scoring + Freshness-Bonus) -->
         <RelatedArticles
