@@ -26,6 +26,8 @@ import whopWebhookRoute from './routes/whop-webhook.js';
 
 // Runtime-Migrations
 import { runStartupMigrations } from './db/migrate.js';
+import { assertIpSaltConfigured } from './lib/crypto.js';
+import { assertUnsubscribeSecretConfigured } from './routes/unsubscribe.js';
 
 // Auth Routes
 import authRoute from './routes/auth.js';
@@ -195,6 +197,27 @@ app.onError(async (err, c) => {
     500,
   );
 });
+
+// Fail-closed Boot-Checks für Security-kritische Secrets.
+// Wir werfen laut und früh, damit Railway das Deployment als "unhealthy"
+// markiert statt mit halb-funktionalen Defaults zu starten.
+try {
+  assertIpSaltConfigured();
+} catch (err) {
+  console.error('[backend] FATAL:', err instanceof Error ? err.message : err);
+  captureError(err, { stage: 'boot', check: 'IP_SALT' });
+  void flushSentry(3000).finally(() => process.exit(1));
+  throw err;
+}
+
+try {
+  assertUnsubscribeSecretConfigured();
+} catch (err) {
+  console.error('[backend] FATAL:', err instanceof Error ? err.message : err);
+  captureError(err, { stage: 'boot', check: 'UNSUBSCRIBE_SECRET' });
+  void flushSentry(3000).finally(() => process.exit(1));
+  throw err;
+}
 
 const port = Number(process.env.PORT) || 3001;
 const host = process.env.HOST || '0.0.0.0';

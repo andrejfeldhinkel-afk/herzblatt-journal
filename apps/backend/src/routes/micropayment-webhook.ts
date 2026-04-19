@@ -146,21 +146,40 @@ app.post('/', async (c) => {
   if (!isRelevant) return c.text('OK', 200);
 
   try {
-    // Idempotenz-Check: gleichen (provider, providerOrderId) schon gesehen?
-    const existing = await db
-      .select({ id: schema.purchases.id, status: schema.purchases.status })
-      .from(schema.purchases)
-      .where(
-        and(
-          eq(schema.purchases.provider, 'micropayment'),
-          eq(schema.purchases.providerOrderId, orderId),
-        ),
-      )
-      .limit(1);
+    // Idempotenter Insert via UNIQUE-Index (provider, providerOrderId).
+    // Siehe digistore-ipn.ts für den Rationale — gleiches Race-safe-Pattern.
+    const inserted = await db
+      .insert(schema.purchases)
+      .values({
+        provider: 'micropayment',
+        providerOrderId: orderId,
+        email,
+        product: productName.slice(0, 100),
+        amountCents: amount,
+        currency,
+        status,
+        rawPayload: truncatePayload(params),
+      })
+      .onConflictDoNothing({
+        target: [schema.purchases.provider, schema.purchases.providerOrderId],
+      })
+      .returning({ id: schema.purchases.id });
 
-    if (existing.length > 0) {
-      // Update Status falls Refund/Cancel nach Payment kommt
-      if (existing[0].status !== status) {
+    if (inserted.length === 0) {
+      // Duplicate: Row existiert bereits. Status ggf. aktualisieren
+      // (z.B. paid → refunded wenn Refund nach Kauf kommt).
+      const existing = await db
+        .select({ id: schema.purchases.id, status: schema.purchases.status })
+        .from(schema.purchases)
+        .where(
+          and(
+            eq(schema.purchases.provider, 'micropayment'),
+            eq(schema.purchases.providerOrderId, orderId),
+          ),
+        )
+        .limit(1);
+
+      if (existing.length > 0 && existing[0].status !== status) {
         await db
           .update(schema.purchases)
           .set({ status })
@@ -171,18 +190,6 @@ app.post('/', async (c) => {
       }
       return c.text('OK', 200);
     }
-
-    // Neu: insert
-    await db.insert(schema.purchases).values({
-      provider: 'micropayment',
-      providerOrderId: orderId,
-      email,
-      product: productName.slice(0, 100),
-      amountCents: amount,
-      currency,
-      status,
-      rawPayload: truncatePayload(params),
-    });
 
     console.log(`[micropayment-webhook] new purchase: ${redactEmail(email)} ${orderId} ${amount/100}${currency}`);
 

@@ -27,6 +27,8 @@ Alle Werte werden via `process.env.*` gelesen — keine .env-Datei wird geladen
 | `SESSION_SECRET` | Ja | HMAC-Key für Session-Cookies |
 | `ADMIN_PASSWORD` | Ja | Passwort für `/auth/login` (Herzraum-Admin) |
 | `ADMIN_API_TOKEN` | Ja | Bearer-Token für `/admin/*` (externe Admin-Calls) |
+| `IP_SALT` | **Ja** | Salt für `SHA-256(ip+salt)` in `subscribers.ip_hash`, `login_attempts.ip_hash`, `sessions.ip_hash`, `audit_log.ip_hash`. **Mindestens 16 Zeichen.** Fehlt der Wert, weigert sich das Backend zu starten (fail-closed). Vorher gab es einen hardcoded Default — das war eine DSGVO-Lücke, weil der Salt im Repo lag und IP-Hashes damit weltweit vorberechenbar waren. |
+| `UNSUBSCRIBE_SECRET` | **Ja** | HMAC-Secret für Newsletter-Abmelde-Tokens (`/unsubscribe?email=…&token=…`). **Mindestens 16 Zeichen.** Fehlt der Wert, weigert sich das Backend zu starten. Vorher fiel er auf `IP_SALT` bzw. einen hardcoded Default zurück — damit konnte jeder Internetnutzer gültige Unsubscribe-Tokens für beliebige Mail-Adressen forgen und die gesamte Liste en masse leer räumen. |
 
 ## Sentry (optional)
 
