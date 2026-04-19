@@ -14,11 +14,13 @@ const ALLOWED_TARGETS = new Set([
   // datingSites-Array übereinstimmen, sonst werden Klicks silent ignoriert.
   'xloves', 'michverlieben', 'whatsmeet', 'onlydates69', 'single69', 'singlescout',
   'i-loves', 'sex69',
-  // Benchmark-/Wettbewerber-Brands (für Vergleichs-Pages)
+  // Benchmark-/Wettbewerber-Brands (für Vergleichs-Pages +
+  // SEO-Hijacking-Artikel, die auf eigene Affiliate-Marken umleiten).
   'parship', 'elitepartner', 'lovescout24', 'edarling', 'bumble',
   'tinder', 'hinge', 'okcupid', 'happn', 'badoo', 'finya',
   'lovepoint', 'c-date', 'joyclub', 'secret', 'ashley-madison',
   'once', 'zoosk', 'match', 'plenty-of-fish',
+  'poppen', 'poppen-de', 'lemonswan', 'lovoo',
   // Eigene Produkte (Conversion-Funnel-Tracking)
   'ebook-buy', 'ebook-buy-whop', 'ebook-buy-whop-open', 'ebook-buy-whop-complete',
   'ebook-buy-sofort', 'ebook-buy-paysafe', 'ebook-waitlist',
