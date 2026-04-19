@@ -102,13 +102,6 @@ const description = "Finde in 2 Minuten heraus, welcher Dating-Typ du bist und w
       </div>
     </div>
 
-    <!-- Social Proof -->
-    <div class="text-center mt-8">
-      <p class="text-sm" style="color: var(--text-muted);">
-        <span id="quiz-count" class="font-bold" style="color: var(--text);">47.832</span> Personen haben dieses Quiz bereits gemacht
-      </p>
-    </div>
-
     <!-- Schema.org Quiz Markup -->
     <script type="application/ld+json" is:inline>
     {
@@ -410,13 +403,6 @@ const description = "Finde in 2 Minuten heraus, welcher Dating-Typ du bist und w
       // Track quiz completion
       try { navigator.sendBeacon('/api/track-click', JSON.stringify({ site: r.topSite, event: 'quiz_result', type: maxType })); } catch(e) {}
 
-      // Update counter
-      var countEl = document.getElementById('quiz-count');
-      var base = 47832;
-      var start = new Date('2026-03-17').getTime();
-      var days = Math.floor((Date.now() - start) / 86400000);
-      countEl.textContent = (base + days * 23 + Math.floor(Math.random() * 10)).toLocaleString('de-DE');
-
       window.scrollTo({ top: 0, behavior: 'smooth' });
       window._quizResult = maxType;
     }
@@ -441,13 +427,6 @@ const description = "Finde in 2 Minuten heraus, welcher Dating-Typ du bist und w
     };
 
     showQuestion();
-
-    // Dynamic counter
-    var countEl = document.getElementById('quiz-count');
-    var base = 47832;
-    var start = new Date('2026-03-17').getTime();
-    var days = Math.floor((Date.now() - start) / 86400000);
-    countEl.textContent = (base + days * 23).toLocaleString('de-DE');
   })();
   </script>
 </BaseLayout>
