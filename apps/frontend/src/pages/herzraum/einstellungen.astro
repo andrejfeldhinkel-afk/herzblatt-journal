@@ -86,25 +86,59 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
       });
 
       // Clear-Buttons
+      // Backend erzwingt bei destruktiven Targets (pageviews/clicks/registrations)
+      // die Bestätigungsphrase "LOESCHEN" im Request-Body. Frontend-seitig muss
+      // der User das Wort explizit eintippen — kein Single-Click-Delete mehr.
       document.querySelectorAll('[data-clear]').forEach((btn) => {
         btn.addEventListener('click', async () => {
           const target = btn.getAttribute('data-clear');
           const danger = btn.classList.contains('danger');
-          const confirmMsg = danger
-            ? 'Wirklich alle ' + target + ' Daten löschen? Das lässt sich NICHT rückgängig machen.'
-            : 'Stats-Cache leeren?';
-          if (!confirm(confirmMsg)) return;
+
+          let confirmationPhrase = '';
+          if (danger) {
+            // Zwei-Stufen-Bestätigung: (1) Warnung, (2) Phrase eintippen
+            const ack = confirm(
+              'Wirklich alle "' + target + '"-Daten löschen?\n\n' +
+              'Das lässt sich NICHT rückgängig machen.\n\n' +
+              'Im nächsten Dialog musst du "LOESCHEN" (genau so, GROSSBUCHSTABEN) eintippen.'
+            );
+            if (!ack) return;
+            const phrase = prompt(
+              'Bestätigungsphrase eintippen:\n\nBitte das Wort LOESCHEN exakt so (GROSSBUCHSTABEN) eingeben,\n' +
+              'um das Löschen von "' + target + '" endgültig zu bestätigen.'
+            );
+            if (phrase === null) return; // Cancel
+            if (phrase !== 'LOESCHEN') {
+              alert('Bestätigungsphrase falsch. Aktion abgebrochen (nichts gelöscht).');
+              return;
+            }
+            confirmationPhrase = phrase;
+          } else {
+            // Non-danger (daily-stats) — einfache Bestätigung
+            if (!confirm('Stats-Cache leeren?')) return;
+            // Backend verlangt trotzdem die Phrase (Schema ist uniform).
+            confirmationPhrase = 'LOESCHEN';
+          }
+
           btn.disabled = true;
           const orig = btn.textContent;
           btn.textContent = 'Löschen…';
           try {
             const res = await fetch('/api/herzraum/data/clear', {
               method: 'POST', headers: { 'Content-Type': 'application/json' },
-              body: JSON.stringify({ target }),
+              body: JSON.stringify({ target, confirmationPhrase }),
             });
             const d = await res.json();
-            if (d.ok) { btn.textContent = '✓ gelöscht'; setTimeout(() => { btn.textContent = orig; btn.disabled = false; }, 1500); }
-            else { alert('Fehler: ' + (d.message || '')); btn.textContent = orig; btn.disabled = false; }
+            if (d.ok) {
+              const msg = typeof d.count === 'number'
+                ? '✓ gelöscht (' + d.count + ')'
+                : '✓ gelöscht';
+              btn.textContent = msg;
+              setTimeout(() => { btn.textContent = orig; btn.disabled = false; }, 1800);
+            } else {
+              alert('Fehler: ' + (d.message || ''));
+              btn.textContent = orig; btn.disabled = false;
+            }
           } catch (e) {
             alert('Fehler: ' + e); btn.textContent = orig; btn.disabled = false;
           }
