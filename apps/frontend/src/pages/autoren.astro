@@ -1,47 +1,62 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { getAllAuthors } from '../data/authors';
 
-const posts = (await getCollection('blog', ({ data }) => !data.draft && data.date <= new Date()))
-  .sort((a, b) => (b.data.date?.valueOf?.() || 0) - (a.data.date?.valueOf?.() || 0));
+// Alle Autoren aus der zentralen Quelle (data/authors.ts) laden.
+// Das Redaktions-Profil (slug 'redaktion') wird nicht einzeln gelistet —
+// es dient nur als Default-Fallback für Artikel ohne expliziten Author-Slug.
+const allAuthors = getAllAuthors().filter(a => a.slug !== 'redaktion');
 
-const authors = [
-  {
-    name: 'Lisa Bergmann',
-    role: 'Chefredakteurin & Beziehungscoach',
-    image: '/images/author-lisa.webp',
-    bio: 'Lisa ist zertifizierte Beziehungsberaterin mit über 8 Jahren Erfahrung im Coaching von Singles und Paaren. Nach ihrem Studium der Psychologie in Hamburg hat sie sich auf Bindungsmuster und moderne Dating-Dynamiken spezialisiert. Bei Herzblatt Journal verantwortet sie die redaktionelle Qualität und schreibt über Beziehungspsychologie, Bindungsangst und emotionale Intelligenz.',
-    specialties: ['Beziehungspsychologie', 'Bindungsmuster', 'Emotionale Intelligenz'],
-    articles: 28,
-  },
-  {
-    name: 'Marco Schreiber',
-    role: 'Dating-Experte & Redakteur',
-    image: '/images/author-marco.webp',
-    bio: 'Marco bringt seine Expertise als ehemaliger Dating-App-Produktmanager in die Redaktion ein. Er kennt die Online-Dating-Branche von innen und weiß, was funktioniert — und was nicht. Seine Artikel fokussieren sich auf praktische Dating-Tipps, Online-Dating-Strategien und die männliche Perspektive auf moderne Beziehungen.',
-    specialties: ['Online-Dating', 'Dating-Strategie', 'Profiloptimierung'],
-    articles: 22,
-  },
-];
+// Artikel-Counts pro Author berechnen (Posts ohne author-Feld zählen als 'redaktion')
+const posts = await getCollection('blog', ({ data }) => !data.draft && data.date <= new Date());
+const articlesByAuthor = new Map<string, number>();
+for (const post of posts) {
+  const slug = ((post.data as any).author as string | undefined) || 'redaktion';
+  articlesByAuthor.set(slug, (articlesByAuthor.get(slug) || 0) + 1);
+}
 
-// Schema.org Person markup
-const personSchemas = authors.map(author => ({
+// Sortierung: Gründerin/Chefredakteurin zuerst, dann nach Artikelanzahl absteigend
+const authorsWithStats = allAuthors
+  .map(author => ({
+    ...author,
+    articleCount: articlesByAuthor.get(author.slug) || 0,
+  }))
+  .sort((a, b) => {
+    const aLead = /Gründer|Chefredakteur/i.test(a.role) ? 0 : 1;
+    const bLead = /Gründer|Chefredakteur/i.test(b.role) ? 0 : 1;
+    if (aLead !== bLead) return aLead - bLead;
+    return b.articleCount - a.articleCount;
+  });
+
+// Schema.org Person markup (pro Autor)
+const personSchemas = authorsWithStats.map(author => ({
   "@context": "https://schema.org",
   "@type": "Person",
   "name": author.name,
   "jobTitle": author.role,
+  "description": author.shortBio,
+  "image": `https://herzblatt-journal.com${author.image}`,
+  "url": `https://herzblatt-journal.com/autor/${author.slug}`,
   "worksFor": {
     "@type": "Organization",
     "name": "Herzblatt Journal",
     "url": "https://herzblatt-journal.com"
   },
-  "knowsAbout": author.specialties,
+  ...(author.knowsAbout ? { "knowsAbout": author.knowsAbout } : {}),
+  ...(author.alumniOf ? {
+    "alumniOf": {
+      "@type": "EducationalOrganization",
+      "name": author.alumniOf
+    }
+  } : {}),
+  ...(author.credentials ? { "hasCredential": author.credentials } : {}),
 }));
 ---
 
 <BaseLayout
   title="Unsere Autoren — Herzblatt Journal"
-  description="Lerne das Redaktionsteam hinter Herzblatt Journal kennen. Zertifizierte Beziehungsberater und Dating-Experten schreiben für dich."
+  description="Lerne das Redaktionsteam hinter Herzblatt Journal kennen. Psycholog:innen, zertifizierte Coaches und erfahrene Fachjournalist:innen schreiben für dich."
 >
   {personSchemas.map(schema => (
     <script type="application/ld+json" set:html={JSON.stringify(schema)} />
@@ -58,20 +73,24 @@ const personSchemas = authors.map(author => ({
 
     <!-- Authors -->
     <div class="space-y-12">
-      {authors.map((author, i) => (
+      {authorsWithStats.map((author, i) => (
         <article class="rounded-2xl overflow-hidden" style="background: var(--bg-card); border: 1px solid var(--border); box-shadow: 0 2px 12px rgba(0,0,0,0.04);">
           <div class="flex flex-col sm:flex-row">
             <!-- Photo -->
             <div class="sm:w-64 shrink-0">
               <div class="aspect-square sm:aspect-auto sm:h-full overflow-hidden">
-                <img src={author.image} alt={author.name} class="w-full h-full object-cover" loading={i === 0 ? "eager" : "lazy"} />
+                <a href={`/autor/${author.slug}`} aria-label={`Zum Profil von ${author.name}`}>
+                  <img src={author.image} alt={author.name} class="w-full h-full object-cover" loading={i === 0 ? "eager" : "lazy"} />
+                </a>
               </div>
             </div>
 
             <!-- Info -->
             <div class="p-6 sm:p-8 flex-1">
               <div class="mb-4">
-                <h2 class="text-xl font-bold mb-1" style="color: var(--text); font-family: var(--font-serif);">{author.name}</h2>
+                <h2 class="text-xl font-bold mb-1" style="color: var(--text); font-family: var(--font-serif);">
+                  <a href={`/autor/${author.slug}`} style="color: inherit; text-decoration: none;">{author.name}</a>
+                </h2>
                 <p class="text-sm font-medium" style="color: var(--color-primary-600);">{author.role}</p>
               </div>
 
@@ -79,20 +98,34 @@ const personSchemas = authors.map(author => ({
 
               <!-- Specialties -->
               <div class="flex flex-wrap gap-2 mb-5">
-                {author.specialties.map(s => (
+                {author.expertise.map(s => (
                   <span class="text-xs font-medium px-3 py-1 rounded-full" style="background: var(--color-primary-50); color: var(--color-primary-700);">{s}</span>
                 ))}
               </div>
 
               <!-- Stats -->
               <div class="flex items-center gap-6 pt-4" style="border-top: 1px solid var(--border);">
-                <div>
-                  <p class="text-lg font-bold" style="color: var(--color-primary-600);">{author.articles}+</p>
-                  <p class="text-[10px] uppercase tracking-wider font-medium" style="color: var(--text-muted);">Artikel</p>
-                </div>
-                <div>
-                  <p class="text-lg font-bold" style="color: var(--color-primary-600);">8+</p>
-                  <p class="text-[10px] uppercase tracking-wider font-medium" style="color: var(--text-muted);">Jahre Erfahrung</p>
+                {author.articleCount > 0 && (
+                  <div>
+                    <p class="text-lg font-bold" style="color: var(--color-primary-600);">{author.articleCount}</p>
+                    <p class="text-[10px] uppercase tracking-wider font-medium" style="color: var(--text-muted);">Artikel</p>
+                  </div>
+                )}
+                {author.yearsExperience && (
+                  <div>
+                    <p class="text-lg font-bold" style="color: var(--color-primary-600);">{author.yearsExperience}+</p>
+                    <p class="text-[10px] uppercase tracking-wider font-medium" style="color: var(--text-muted);">Jahre Erfahrung</p>
+                  </div>
+                )}
+                <div class="ml-auto">
+                  <a
+                    href={`/autor/${author.slug}`}
+                    class="inline-flex items-center gap-1 text-sm font-medium"
+                    style="color: var(--color-primary-600);"
+                  >
+                    Profil ansehen
+                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                  </a>
                 </div>
               </div>
             </div>
