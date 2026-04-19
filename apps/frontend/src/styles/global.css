@@ -211,7 +211,24 @@ body {
   }
 }
 
-html { scroll-behavior: smooth; }
+html {
+  scroll-behavior: smooth;
+  /* Ensure anchor-links nicht vom Sticky-Header verdeckt werden */
+  scroll-padding-top: 80px;
+}
+
+/* Respect user's motion preference — disable smooth scroll + animations */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
 
 ::-webkit-scrollbar { width: 6px; }
 ::-webkit-scrollbar-track { background: transparent; }
@@ -243,10 +260,40 @@ html { scroll-behavior: smooth; }
   background: rgba(255, 255, 255, 0.8);
 }
 
+/* Globaler Fokus-Ring — nur für Keyboard-Nutzer sichtbar */
 *:focus-visible {
   outline: 2px solid var(--color-primary-500);
   outline-offset: 2px;
   border-radius: 4px;
+}
+
+/* Fokus NICHT anzeigen bei Maus-Klick (z.B. Button-Klick soll kein Outline triggern) */
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* Skip-to-Main-Content Link — nur bei Keyboard-Fokus sichtbar */
+.skip-link {
+  position: absolute;
+  top: -48px;
+  left: 12px;
+  z-index: 9999;
+  padding: 10px 16px;
+  background: var(--color-primary-600);
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.875rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: top 0.15s ease;
+  text-decoration: none;
+}
+
+.skip-link:focus,
+.skip-link:focus-visible {
+  top: 12px;
+  outline: 2px solid #fff;
+  outline-offset: 2px;
 }
 
 .blob {
