@@ -11,6 +11,15 @@
  *  1. Abgelaufene Sessions löschen (expires_at < now)
  *  2. Alte Login-Attempts löschen (> 7 Tage alt)
  *  3. Readers-Counter leicht inkrementieren (für Homepage-Schein)
+ *  4. Data-Retention (Phase-5 HIGH + Phase-6 D HIGH):
+ *     - pageviews > 90 Tage   → löschen
+ *     - clicks > 90 Tage      → löschen
+ *     - audit_log > 180 Tage  → löschen (Audit-Trail länger halten)
+ *     - inbound_emails > 365d → löschen (Email-Archiv)
+ *
+ * Alle Retention-Deletes sind mit LIMIT 10.000 pro Run abgesichert, damit
+ * wir bei initialer Aufräum-Welle (viele Millionen alte Rows) die DB
+ * nicht locken. Cron muss idempotent mehrfach laufen können.
  *
  * Response: JSON mit Counters der gelöschten/upgedateten Rows.
  *
@@ -22,6 +31,96 @@ import { lt, sql } from 'drizzle-orm';
 import { db, schema } from '../../db/index.js';
 
 const app = new Hono();
+
+// Max zu löschende Rows pro Tabelle pro Cron-Run. Verhindert DB-Lock bei
+// initialer Retention-Welle auf bestehenden Datenbeständen. Bei >10k
+// aufgestauten alten Rows laufen weitere Runs bis alles abgearbeitet ist.
+const MAX_DELETE_PER_RUN = 10_000;
+
+/**
+ * Data-Retention Cleanup: löscht alle Tables die eine Retention-Policy haben.
+ * Idempotent, mehrfach ausführbar.
+ *
+ * Wird sowohl vom POST als auch vom GET-Handler aufgerufen.
+ *
+ * Implementierung: DELETE ... WHERE id IN (SELECT id ... LIMIT N) damit der
+ * LIMIT-Cap funktioniert (Postgres erlaubt kein DELETE ... LIMIT direkt).
+ * RETURNING id → r.length = Anzahl gelöschter Rows.
+ */
+async function runRetentionCleanup(
+  results: Record<string, unknown>,
+  errors: string[],
+): Promise<void> {
+  const now = Date.now();
+
+  // pageviews: 90 Tage rolling
+  try {
+    const cutoff = new Date(now - 90 * 24 * 60 * 60 * 1000).toISOString();
+    const r = await db.execute(sql`
+      DELETE FROM pageviews
+      WHERE id IN (
+        SELECT id FROM pageviews
+        WHERE ts < ${cutoff}
+        LIMIT ${MAX_DELETE_PER_RUN}
+      )
+      RETURNING id
+    `);
+    results.pageviewsDeleted = Array.isArray(r) ? r.length : 0;
+  } catch (err) {
+    errors.push(`pageviews_retention: ${String(err)}`);
+  }
+
+  // clicks: 90 Tage rolling
+  try {
+    const cutoff = new Date(now - 90 * 24 * 60 * 60 * 1000).toISOString();
+    const r = await db.execute(sql`
+      DELETE FROM clicks
+      WHERE id IN (
+        SELECT id FROM clicks
+        WHERE ts < ${cutoff}
+        LIMIT ${MAX_DELETE_PER_RUN}
+      )
+      RETURNING id
+    `);
+    results.clicksDeleted = Array.isArray(r) ? r.length : 0;
+  } catch (err) {
+    errors.push(`clicks_retention: ${String(err)}`);
+  }
+
+  // audit_log: 180 Tage rolling — Audit-Trail länger behalten
+  try {
+    const cutoff = new Date(now - 180 * 24 * 60 * 60 * 1000).toISOString();
+    const r = await db.execute(sql`
+      DELETE FROM audit_log
+      WHERE id IN (
+        SELECT id FROM audit_log
+        WHERE ts < ${cutoff}
+        LIMIT ${MAX_DELETE_PER_RUN}
+      )
+      RETURNING id
+    `);
+    results.auditLogDeleted = Array.isArray(r) ? r.length : 0;
+  } catch (err) {
+    errors.push(`audit_log_retention: ${String(err)}`);
+  }
+
+  // inbound_emails: 365 Tage rolling
+  try {
+    const cutoff = new Date(now - 365 * 24 * 60 * 60 * 1000).toISOString();
+    const r = await db.execute(sql`
+      DELETE FROM inbound_emails
+      WHERE id IN (
+        SELECT id FROM inbound_emails
+        WHERE received_at < ${cutoff}
+        LIMIT ${MAX_DELETE_PER_RUN}
+      )
+      RETURNING id
+    `);
+    results.inboundEmailsDeleted = Array.isArray(r) ? r.length : 0;
+  } catch (err) {
+    errors.push(`inbound_emails_retention: ${String(err)}`);
+  }
+}
 
 app.post('/', async (c) => {
   const start = Date.now();
@@ -64,6 +163,9 @@ app.post('/', async (c) => {
   } catch (err) {
     errors.push(`readers_counter: ${String(err)}`);
   }
+
+  // 4. Data-Retention: pageviews/clicks/audit_log/inbound_emails
+  await runRetentionCleanup(results, errors);
 
   const durationMs = Date.now() - start;
 
@@ -115,6 +217,9 @@ app.get('/', async (c) => {
   } catch (err) {
     errors.push(`readers_counter: ${String(err)}`);
   }
+
+  // Data-Retention (identisch zum POST-Handler)
+  await runRetentionCleanup(results, errors);
 
   const durationMs = Date.now() - start;
 

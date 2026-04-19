@@ -226,6 +226,36 @@ export async function runStartupMigrations(): Promise<void> {
     await db.execute(sql`CREATE INDEX IF NOT EXISTS affiliate_links_active_idx ON affiliate_links(active)`);
     await db.execute(sql`CREATE INDEX IF NOT EXISTS affiliate_links_campaign_idx ON affiliate_links(campaign)`);
 
+    // UNIQUE-Constraint auf registrations.email — verhindert Duplikat-Signups.
+    // De-dupe vorher (älteste Row pro email behalten), dann Unique-Index bauen.
+    // Siehe migrations/0003_additional_unique_constraints.sql + Phase-5 D2.
+    await db.execute(sql`
+      DELETE FROM registrations a
+      USING registrations b
+      WHERE a.email = b.email
+        AND a.id > b.id
+    `);
+    await db.execute(sql`
+      CREATE UNIQUE INDEX IF NOT EXISTS registrations_email_unique
+        ON registrations(email)
+    `);
+
+    // UNIQUE-Constraint auf inbound_emails.message_id (partial, WHERE not
+    // null) — SendGrid-Retry-Idempotenz. Phase-5 D3.
+    await db.execute(sql`
+      DELETE FROM inbound_emails a
+      USING inbound_emails b
+      WHERE a.message_id IS NOT NULL
+        AND b.message_id IS NOT NULL
+        AND a.message_id = b.message_id
+        AND a.id > b.id
+    `);
+    await db.execute(sql`
+      CREATE UNIQUE INDEX IF NOT EXISTS inbound_emails_message_id_unique
+        ON inbound_emails(message_id)
+        WHERE message_id IS NOT NULL
+    `);
+
     console.log(`[migrate] done in ${Date.now() - start}ms`);
   } catch (err) {
     console.error('[migrate] FAILED:', err);
