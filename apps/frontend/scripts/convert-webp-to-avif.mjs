@@ -42,9 +42,11 @@ const targetDir = dirArg ? dirArg.split('=')[1] : null;
 const DIRS = targetDir
   ? [path.join(PUBLIC_DIR, targetDir)]
   : [
+      PUBLIC_DIR, // root: hero-bg.webp, author-lisa.webp etc.
       path.join(PUBLIC_DIR, 'blog'),
       path.join(PUBLIC_DIR, 'photos'),
       path.join(PUBLIC_DIR, 'avatars'),
+      path.join(PUBLIC_DIR, 'authors'),
     ];
 
 let sharp;

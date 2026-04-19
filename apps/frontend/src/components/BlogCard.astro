@@ -17,6 +17,18 @@ const { title, description, date: rawDate, tags, slug, readingTime, featured = f
 
 const date = rawDate ? (rawDate instanceof Date ? rawDate : new Date(rawDate)) : null;
 
+// AVIF-Quelle aus image ableiten (.webp/.jpg/.png → .avif). Query-Strings (?v=...) bleiben erhalten.
+const avifSrc = image
+  ? image.replace(/(\.(?:webp|jpe?g|png))(\?[^#]*)?(#.*)?$/i, '.avif$2$3')
+  : null;
+const isWebp = image ? /\.webp(\?|#|$)/i.test(image) : false;
+const fallbackType = image
+  ? (/\.png(\?|#|$)/i.test(image) ? 'image/png'
+    : /\.jpe?g(\?|#|$)/i.test(image) ? 'image/jpeg'
+    : isWebp ? 'image/webp'
+    : undefined)
+  : undefined;
+
 const formattedDate = date && !isNaN(date.getTime())
   ? new Intl.DateTimeFormat('de-DE', {
       year: 'numeric',
@@ -43,16 +55,20 @@ const formattedDate = date && !isNaN(date.getTime())
       featured ? 'aspect-[16/9] md:aspect-auto md:h-full' : 'aspect-[16/8]'
     ]} style="background: linear-gradient(135deg, var(--color-primary-100), var(--color-primary-50));">
       {image ? (
-        <img
-          src={image}
-          alt={imageAlt || title}
-          width="1200"
-          height="675"
-          class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-          loading={priority ? 'eager' : 'lazy'}
-          fetchpriority={priority ? 'high' : 'auto'}
-          decoding="async"
-        />
+        <picture>
+          {avifSrc && <source srcset={avifSrc} type="image/avif" />}
+          {fallbackType && <source srcset={image} type={fallbackType} />}
+          <img
+            src={image}
+            alt={imageAlt || title}
+            width="1200"
+            height="675"
+            class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+            loading={priority ? 'eager' : 'lazy'}
+            fetchpriority={priority ? 'high' : 'auto'}
+            decoding="async"
+          />
+        </picture>
       ) : (
         (() => {
           // Slug → deterministischer Hue für einzigartigen Gradient pro Artikel

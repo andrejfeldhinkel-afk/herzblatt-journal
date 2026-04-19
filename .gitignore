@@ -37,6 +37,10 @@ data/*
 newsletter-subscribers.json
 subscribers.csv
 
+# AVIF-Varianten werden im Build (prebuild) generiert — nicht committen
+# (Quelle bleibt .webp, .avif wird via sharp on-build erzeugt)
+apps/frontend/public/images/**/*.avif
+
 # macOS
 .DS_Store
 
