@@ -263,14 +263,10 @@ app.post('/', async (c) => {
   }
 });
 
-// GET für Setup-Check
+// GET für HEAD-Check / liveness only — leaked KEINE Signature-Config mehr.
+// Phase-4 F4.
 app.get('/', (c) => {
-  return c.json({
-    ok: true,
-    info: 'Whop webhook endpoint. POST here from the Whop dashboard.',
-    signatureConfigured: !!process.env.WHOP_WEBHOOK_SECRET,
-    signatureDisabled: process.env.WHOP_DISABLE_SIGNATURE === '1',
-  });
+  return c.json({ ok: true });
 });
 
 export default app;

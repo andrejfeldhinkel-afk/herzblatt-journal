@@ -233,14 +233,11 @@ app.post('/', async (c) => {
   }
 });
 
-// GET für Setup-Check
+// GET für HEAD-Check / liveness only — leaked KEINE Signature-Config mehr.
+// Phase-4 F4: öffentlicher Endpoint darf nicht verraten ob die Signatur
+// deaktiviert ist (würde Angreifer direkt auf unsigned-POST hinweisen).
 app.get('/', (c) => {
-  return c.json({
-    ok: true,
-    info: 'Digistore24 IPN endpoint. POST here from Digistore Connection test + live IPNs.',
-    signatureConfigured: !!process.env.DIGISTORE_IPN_PASSPHRASE,
-    signatureDisabled: process.env.DIGISTORE_DISABLE_SIGNATURE === '1',
-  });
+  return c.json({ ok: true });
 });
 
 export default app;

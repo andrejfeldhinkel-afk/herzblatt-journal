@@ -244,14 +244,10 @@ app.post('/', async (c) => {
   }
 });
 
-// GET für Setup-Check
+// GET für HEAD-Check / liveness only — leaked KEINE Signature-Config mehr.
+// Phase-4 F4.
 app.get('/', (c) => {
-  return c.json({
-    ok: true,
-    info: 'Micropayment webhook endpoint. POST here from the Micropayment dashboard.',
-    signatureConfigured: !!process.env.MICROPAYMENT_ACCESS_KEY,
-    signatureDisabled: process.env.MICROPAYMENT_DISABLE_SIGNATURE === '1',
-  });
+  return c.json({ ok: true });
 });
 
 export default app;
