@@ -8,67 +8,209 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     <p class="mb-10" style="color: var(--text-muted);">
       Fragen, Kooperationsanfragen oder Feedback? Wir freuen uns auf deine Nachricht!
     </p>
-    
-    <form id="contact-form" class="space-y-6">
+
+    <form id="contact-form" class="space-y-6" novalidate>
       <div>
         <label for="name" class="block text-sm font-medium mb-2" style="color: var(--text);">Name</label>
-        <input 
-          type="text" 
-          id="name" 
-          name="name" 
+        <input
+          type="text"
+          id="name"
+          name="name"
           required
+          minlength="2"
+          maxlength="200"
+          autocomplete="name"
           class="w-full px-4 py-3 rounded-xl text-sm"
           style="background: var(--bg-card); border: 1px solid var(--border); color: var(--text);"
           placeholder="Dein Name"
         />
       </div>
-      
+
       <div>
         <label for="email" class="block text-sm font-medium mb-2" style="color: var(--text);">E-Mail</label>
-        <input 
-          type="email" 
-          id="email" 
-          name="email" 
+        <input
+          type="email"
+          id="email"
+          name="email"
           required
+          maxlength="254"
+          autocomplete="email"
           class="w-full px-4 py-3 rounded-xl text-sm"
           style="background: var(--bg-card); border: 1px solid var(--border); color: var(--text);"
           placeholder="deine@email.de"
         />
       </div>
-      
+
       <div>
-        <label for="message" class="block text-sm font-medium mb-2" style="color: var(--text);">Nachricht</label>
-        <textarea 
-          id="message" 
-          name="message" 
-          rows="6" 
+        <label for="message" class="block text-sm font-medium mb-2" style="color: var(--text);">Nachricht <span class="font-normal" style="color: var(--text-muted);">(mind. 20 Zeichen)</span></label>
+        <textarea
+          id="message"
+          name="message"
+          rows="6"
           required
+          minlength="20"
+          maxlength="10000"
           class="w-full px-4 py-3 rounded-xl text-sm resize-y"
           style="background: var(--bg-card); border: 1px solid var(--border); color: var(--text);"
-          placeholder="Was möchtest du mir sagen?"
+          placeholder="Was möchtest du uns sagen?"
         ></textarea>
       </div>
-      
-      <button 
+
+      <button
+        id="contact-submit"
         type="submit"
-        class="w-full sm:w-auto px-8 py-3 rounded-xl text-sm font-semibold text-white transition-all hover:opacity-90"
+        class="w-full sm:w-auto px-8 py-3 rounded-xl text-sm font-semibold text-white transition-all hover:opacity-90 disabled:opacity-60 disabled:cursor-not-allowed"
         style="background: var(--color-primary-600);"
       >
-        Nachricht senden
+        <span id="contact-submit-label">Nachricht senden</span>
       </button>
+
+      <p
+        id="contact-form-error"
+        class="hidden text-sm"
+        role="alert"
+        aria-live="polite"
+        style="color: #b91c1c;"
+      ></p>
     </form>
-    
-    <div id="form-success" class="hidden mt-6 p-4 rounded-xl text-sm" style="background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0;">
-      Danke für deine Nachricht! Wir melden uns bald bei dir.
+
+    <div
+      id="contact-success"
+      class="hidden mt-6 p-4 rounded-xl text-sm"
+      role="status"
+      aria-live="polite"
+      style="background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0;"
+    >
+      Danke, deine Nachricht ist angekommen! Wir melden uns so bald wie möglich.
+    </div>
+
+    <div
+      id="contact-error"
+      class="hidden mt-6 p-4 rounded-xl text-sm"
+      role="alert"
+      aria-live="assertive"
+      style="background: #fef2f2; color: #991b1b; border: 1px solid #fecaca;"
+    >
+      <p class="mb-3" id="contact-error-message">Leider ist ein Fehler aufgetreten. Bitte versuch es später erneut.</p>
+      <button
+        type="button"
+        id="contact-retry"
+        class="inline-flex items-center gap-2 px-4 py-2 rounded-lg text-xs font-semibold text-white transition-all hover:opacity-90"
+        style="background: #dc2626;"
+      >
+        Erneut versuchen
+      </button>
     </div>
   </section>
 </BaseLayout>
 
 <script>
-  document.getElementById('contact-form')?.addEventListener('submit', (e) => {
-    e.preventDefault();
-    // In production: send to API endpoint
-    document.getElementById('contact-form')?.classList.add('hidden');
-    document.getElementById('form-success')?.classList.remove('hidden');
-  });
+  (function () {
+    const form = document.getElementById('contact-form') as HTMLFormElement | null;
+    const submitBtn = document.getElementById('contact-submit') as HTMLButtonElement | null;
+    const submitLabel = document.getElementById('contact-submit-label');
+    const successBox = document.getElementById('contact-success');
+    const errorBox = document.getElementById('contact-error');
+    const errorMsg = document.getElementById('contact-error-message');
+    const inlineError = document.getElementById('contact-form-error');
+    const retryBtn = document.getElementById('contact-retry');
+
+    if (!form || !submitBtn || !submitLabel || !successBox || !errorBox || !errorMsg || !inlineError || !retryBtn) return;
+
+    const EMAIL_REGEX = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*\.[a-zA-Z]{2,}$/;
+
+    function showInlineError(msg: string) {
+      inlineError.textContent = msg;
+      inlineError.classList.remove('hidden');
+    }
+
+    function hideInlineError() {
+      inlineError.textContent = '';
+      inlineError.classList.add('hidden');
+    }
+
+    function setLoading(loading: boolean) {
+      submitBtn!.disabled = loading;
+      submitLabel!.textContent = loading ? 'Wird gesendet…' : 'Nachricht senden';
+    }
+
+    function showError(msg: string) {
+      errorMsg!.textContent = msg;
+      errorBox!.classList.remove('hidden');
+      form!.classList.add('hidden');
+    }
+
+    function resetToForm() {
+      errorBox!.classList.add('hidden');
+      successBox!.classList.add('hidden');
+      form!.classList.remove('hidden');
+      hideInlineError();
+    }
+
+    retryBtn.addEventListener('click', () => {
+      resetToForm();
+    });
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      hideInlineError();
+
+      const fd = new FormData(form);
+      const name = String(fd.get('name') || '').trim();
+      const email = String(fd.get('email') || '').trim();
+      const message = String(fd.get('message') || '').trim();
+
+      // Client-side Validation
+      if (name.length < 2) {
+        showInlineError('Bitte gib deinen Namen ein.');
+        return;
+      }
+      if (!EMAIL_REGEX.test(email)) {
+        showInlineError('Bitte gib eine gültige E-Mail-Adresse ein.');
+        return;
+      }
+      if (message.length < 20) {
+        showInlineError('Deine Nachricht ist zu kurz — mindestens 20 Zeichen.');
+        return;
+      }
+
+      setLoading(true);
+
+      try {
+        const res = await fetch('/api/contact', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ name, email, message }),
+        });
+
+        let data: { success?: boolean; message?: string } = {};
+        try {
+          data = await res.json();
+        } catch {
+          data = {};
+        }
+
+        if (res.ok && data.success) {
+          form.classList.add('hidden');
+          errorBox.classList.add('hidden');
+          successBox.classList.remove('hidden');
+          form.reset();
+          return;
+        }
+
+        // Rate-Limit oder Validation-Fehler → inline zeigen statt Error-Box
+        if (res.status === 429 || res.status === 400) {
+          showInlineError(data.message || 'Bitte überprüfe deine Eingabe.');
+          return;
+        }
+
+        showError(data.message || 'Leider ist ein Fehler aufgetreten. Bitte versuch es später erneut.');
+      } catch (err) {
+        console.error('[kontakt] submit error:', err);
+        showError('Verbindungsfehler — bitte prüfe deine Internetverbindung und versuch es erneut.');
+      } finally {
+        setLoading(false);
+      }
+    });
+  })();
 </script>
