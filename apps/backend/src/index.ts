@@ -24,11 +24,13 @@ import pushRoute from './routes/push.js';
 import micropaymentCheckoutRoute from './routes/micropayment-checkout.js';
 import micropaymentWebhookRoute from './routes/micropayment-webhook.js';
 import whopWebhookRoute from './routes/whop-webhook.js';
+import ebookAccessRoute from './routes/ebook-access.js';
 
 // Runtime-Migrations
 import { runStartupMigrations } from './db/migrate.js';
 import { assertIpSaltConfigured } from './lib/crypto.js';
 import { assertUnsubscribeSecretConfigured } from './routes/unsubscribe.js';
+import { assertEbookAccessSecretConfigured } from './lib/ebook-access.js';
 
 // Auth Routes
 import authRoute from './routes/auth.js';
@@ -153,6 +155,9 @@ app.route('/api/checkout/micropayment', micropaymentCheckoutRoute);
 app.route('/api/webhooks/micropayment', micropaymentWebhookRoute);
 app.route('/api/webhooks/whop', whopWebhookRoute);
 
+// Ebook-Delivery — Token-basiert, public
+app.route('/api/ebook', ebookAccessRoute);
+
 // Auth Routes (eigene security)
 app.route('/auth', authRoute);
 
@@ -217,6 +222,15 @@ try {
 } catch (err) {
   console.error('[backend] FATAL:', err instanceof Error ? err.message : err);
   captureError(err, { stage: 'boot', check: 'UNSUBSCRIBE_SECRET' });
+  void flushSentry(3000).finally(() => process.exit(1));
+  throw err;
+}
+
+try {
+  assertEbookAccessSecretConfigured();
+} catch (err) {
+  console.error('[backend] FATAL:', err instanceof Error ? err.message : err);
+  captureError(err, { stage: 'boot', check: 'EBOOK_ACCESS_SECRET' });
   void flushSentry(3000).finally(() => process.exit(1));
   throw err;
 }
