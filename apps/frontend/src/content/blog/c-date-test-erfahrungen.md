@@ -31,8 +31,8 @@ faq:
     answer: "Das 14-tägige Widerrufsrecht gilt nur, solange du die Premium-Dienste nicht aktiv genutzt hast. Sobald du Nachrichten sendest oder mehrere Profile anschreibst, verlierst du das Widerrufsrecht. C-Date ist bei Rückerstattungen sehr restriktiv — in Foren und Verbraucherschutzstellen finden sich viele Beschwerden. Wenn du das Abo testen willst, lass die Premium-Funktionen zunächst ungenutzt, sonst keine Chance auf Rückzahlung."
   - question: "Kann ich C-Date kostenlos testen?"
     answer: "Die Basisregistrierung und das Erstellen eines Profils sind kostenlos. Du kannst Profile ansehen und sogar einige Testnachrichten senden. Für wirkliche Kommunikation (mehr als 1–2 Nachrichten pro Tag und an unterschiedliche Kontakte) brauchst du ein Premium-Abo. Die Gratis-Version ist wie bei Parship und ElitePartner praktisch ein Schaufenster — echte Aktivität ist nur mit Zahlung möglich."
-image: "/images/blog/date-absagen-hoeflich.webp"
-imageAlt: "c date test erfahrungen"
+image: "/images/blog/c-date-test-erfahrungen.webp"
+imageAlt: "C-Date Homepage — Screenshot April 2026"
 ---
 
 ## C-Date Test 2026: Unsere ehrliche Bewertung nach 4 Wochen Intensiv-Nutzung

@@ -31,8 +31,8 @@ faq:
     answer: "Laut Hinges eigenen Zahlen führen dreimal so viele Hinge-Matches zu zweiten Dates wie bei anderen großen Apps. Die Prompts-Mechanik filtert automatisch flüchtige Swiper raus — wer drei Fragen ausführlich beantwortet, ist meist eher an echten Gesprächen interessiert als jemand, der nur ein Foto hochlädt. Unsere Test-Erfahrung bestätigt das: Die Chats waren substanzieller, Ghosting seltener, Dates häufiger. Für echte Partnersuche ist Hinge klar besser geeignet als Tinder — aber trotzdem keine Partnervermittlung."
   - question: "Wie groß ist Hinge in Deutschland?"
     answer: "Hinge ist in Deutschland seit 2023 stark im Wachstum, aber deutlich kleiner als Tinder oder Bumble. Schätzungen liegen bei 1,2–1,5 Mio. aktiven deutschen Nutzern, konzentriert auf Berlin, München, Hamburg, Köln und Frankfurt. Außerhalb der Top-5-Städte wird die App dünn — in kleineren Städten wie Leipzig oder Bremen schon weniger Auswahl, auf dem Land praktisch unbrauchbar. Wer in einer kleineren Stadt wohnt, bekommt oft mehr Nutzer bei xLoves oder Bumble."
-image: "/images/blog/hinge-guide-deutsch-2026.webp"
-imageAlt: "hinge test erfahrungen"
+image: "/images/blog/hinge-test-erfahrungen.webp"
+imageAlt: "Hinge Homepage — Screenshot April 2026"
 ---
 
 ## Hinge Test 2026: Unsere ehrliche Bewertung nach 4 Wochen Prompts-Dating

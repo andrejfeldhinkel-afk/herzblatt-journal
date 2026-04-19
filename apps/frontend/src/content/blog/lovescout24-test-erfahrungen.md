@@ -31,6 +31,8 @@ faq:
     answer: "Die interessanteste Alternative ist xLoves: moderner, besser verifiziert, mit aktiverer Community und einem Preis von 9,99 €/Monat im 12-Monats-Abo — gegenüber 24,90 €/Monat bei LoveScout24 eine deutliche Ersparnis. Du bekommst manuelle Profilverifizierung, ein Matching-System, werbefreie Nutzung und eine moderne App. Für spezifische Zielgruppen gibt es weitere Empfehlungen: MichVerlieben für ernsthafte Ü30-Suche, SingleScout für kostenlose Einsteiger. Alle drei sind aktueller und nutzerfreundlicher als LoveScout24."
   - question: "Kann ich mein LoveScout24-Profil löschen?"
     answer: "Ja, du kannst dein Profil jederzeit löschen — das ist etwas anderes als die Abo-Kündigung. Die Profil-Löschung erfolgt über Einstellungen > Mitgliedschaft > Profil löschen. Achtung: Wenn du nur das Profil löschst, aber das Abo nicht kündigst, läuft der Vertrag weiter und wird am Ende der Laufzeit automatisch verlängert. Immer erst kündigen, dann Profil löschen. Die endgültige Datenlöschung erfolgt gemäß DSGVO innerhalb von 30 Tagen nach Löschung."
+image: "/images/blog/lovescout24-test-erfahrungen.webp"
+imageAlt: "LoveScout24 Homepage — Screenshot April 2026"
 ---
 
 ## LoveScout24 Test 2026: Unsere ehrliche Bewertung nach 4 Wochen Intensiv-Nutzung
