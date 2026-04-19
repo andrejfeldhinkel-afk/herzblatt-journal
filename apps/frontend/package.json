@@ -12,13 +12,13 @@
     "generate-images-index": "node scripts/generate-images-index.mjs"
   },
   "dependencies": {
-    "@astrojs/node": "^9.5.5",
-    "@astrojs/rss": "^4.0.15",
-    "@astrojs/sitemap": "^3.7.0",
+    "@astrojs/node": "^10.0.5",
+    "@astrojs/rss": "^4.0.18",
+    "@astrojs/sitemap": "^3.7.2",
     "@resvg/resvg-js": "^2.6.2",
     "@sentry/node": "^8.47.0",
     "@tailwindcss/vite": "^4.1.8",
-    "astro": "^5.17.1",
+    "astro": "^6.0.5",
     "astro-compressor": "^1.3.0",
     "satori": "^0.26.0",
     "tailwindcss": "^4.1.8"
