@@ -2,6 +2,8 @@
 title: "Badoo Test & Erfahrungen 2026: Die größte Dating-App im ehrlichen Check"
 description: "Badoo im ehrlichen Test 2026: Credits, Premium, Encounters und die Bot-Problematik. Was die App gut macht und warum wir eine modernere Alternative empfehlen."
 date: 2026-04-19
+image: "/images/blog/badoo-test-erfahrungen.webp"
+imageAlt: "Badoo-Homepage – Screenshot 2026"
 tags:
   - "Dating-Apps"
   - "Online-Dating"

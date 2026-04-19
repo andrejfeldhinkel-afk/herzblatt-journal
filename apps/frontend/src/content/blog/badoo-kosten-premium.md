@@ -2,6 +2,8 @@
 title: "Was kostet Badoo Premium wirklich? Alle Preise 2026 im Vergleich"
 description: "Badoo Premium im Kosten-Check 2026: Monats-Abos, Premium Plus, Credit-Pakete — und was du wirklich zahlst. Plus: transparente Alternative mit nur 9,99 €/Monat."
 date: 2026-04-19
+image: "/images/blog/badoo-kosten-premium.webp"
+imageAlt: "Badoo-Homepage – Kosten-Check 2026"
 tags:
   - "Dating-Apps"
   - "Online-Dating"
