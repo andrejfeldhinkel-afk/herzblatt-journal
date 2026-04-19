@@ -16,6 +16,9 @@
  *     - clicks > 90 Tage      → löschen
  *     - audit_log > 180 Tage  → löschen (Audit-Trail länger halten)
  *     - inbound_emails > 365d → löschen (Email-Archiv)
+ *  5. DSGVO Art. 17 Datenminimierung:
+ *     - subscribers WHERE unsubscribed_at < now-180d  → komplett löschen
+ *       (kein Bestandsinteresse mehr; Welcome+Goodbye Mails längst raus)
  *
  * Alle Retention-Deletes sind mit LIMIT 10.000 pro Run abgesichert, damit
  * wir bei initialer Aufräum-Welle (viele Millionen alte Rows) die DB
@@ -27,7 +30,7 @@
  *   cron: "0 /6 * * *"  (echter Ausdruck: ersetze "/6" durch Stern-Slash-6)
  */
 import { Hono } from 'hono';
-import { lt, sql } from 'drizzle-orm';
+import { and, isNotNull, lt, sql } from 'drizzle-orm';
 import { db, schema } from '../../db/index.js';
 
 const app = new Hono();
@@ -119,6 +122,31 @@ async function runRetentionCleanup(
     results.inboundEmailsDeleted = Array.isArray(r) ? r.length : 0;
   } catch (err) {
     errors.push(`inbound_emails_retention: ${String(err)}`);
+  }
+
+  // DSGVO Art. 17 Datenminimierung: Subscribers, die seit > 180 Tagen
+  // unsubscribed sind, komplett aus der DB löschen. Begründung: nach
+  // Abmeldung gibt es kein berechtigtes Interesse mehr, Email + IP-Hash
+  // weiter vorzuhalten. Welcome- und Goodbye-Mail sind längst zugestellt.
+  //
+  // SAFETY:
+  //   - WHERE unsubscribed_at IS NOT NULL → niemals aktive Subs löschen
+  //   - WHERE unsubscribed_at < cutoff    → 180-Tage-Karenz für Re-Anmelder
+  //   - Drizzle delete via Schema (typed), nicht raw SQL — kein Injection-Risk
+  try {
+    const cutoff = new Date(now - 180 * 24 * 60 * 60 * 1000);
+    const deleted = await db
+      .delete(schema.subscribers)
+      .where(
+        and(
+          isNotNull(schema.subscribers.unsubscribedAt),
+          lt(schema.subscribers.unsubscribedAt, cutoff),
+        ),
+      )
+      .returning({ id: schema.subscribers.id });
+    results.unsubscribedSubscribersDeleted = deleted.length;
+  } catch (err) {
+    errors.push(`subscribers_data_minimization: ${String(err)}`);
   }
 }
 

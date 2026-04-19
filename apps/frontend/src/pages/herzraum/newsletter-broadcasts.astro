@@ -285,6 +285,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
               <td>
                 <div style="display: flex; gap: 0.35rem; flex-wrap: wrap;">
                   ${canSend ? `<button class="hz-btn primary" data-action="send">Senden</button>` : ''}
+                  ${canDelete ? `<button class="hz-btn" data-action="edit">Bearbeiten</button>` : ''}
                   ${canDelete ? `<button class="hz-btn danger" data-action="delete">Löschen</button>` : ''}
                 </div>
               </td>
@@ -346,6 +347,14 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
           } else {
             alert('Fehler: ' + (resp.data && (resp.data.error || resp.data.message) || resp.status));
           }
+        } else if (action === 'edit') {
+          // Draft im Modal nachladen und zum Editieren öffnen
+          const detail = await api(`/${id}`);
+          if (!detail.ok || !detail.data || !detail.data.broadcast) {
+            alert('Fehler beim Laden des Drafts.');
+            return;
+          }
+          openModalForEdit(detail.data.broadcast);
         }
       });
 
@@ -363,6 +372,18 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         renderPreview();
       }
       function closeModal() { $('modal-new').classList.add('hidden'); }
+      function openModalForEdit(b) {
+        $('modal-new').classList.remove('hidden');
+        $('form-result').classList.add('hidden');
+        currentDraftId = b.id;
+        $('f-subject').value = b.subject || '';
+        $('f-bodyHtml').value = b.bodyHtml || '';
+        $('f-articleSlug').value = b.articleSlug || '';
+        $('btn-send').disabled = false;
+        $('btn-send').textContent = '📣 Jetzt senden';
+        setMode(b.articleSlug ? 'article' : 'manual');
+        renderPreview();
+      }
       function setMode(mode) {
         currentMode = mode;
         document.querySelectorAll('.hz-tab-btn').forEach(b => {
@@ -438,9 +459,18 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         };
         if (currentMode === 'article') {
           const slug = $('f-articleSlug').value.trim();
-          if (slug) payload.articleSlug = slug;
+          payload.articleSlug = slug || null;
+        } else {
+          // manual-Modus: existierenden Slug explizit nullen
+          payload.articleSlug = null;
         }
-        const resp = await api('/', { method: 'POST', body: JSON.stringify(payload) });
+
+        // Wenn currentDraftId gesetzt → PATCH (Update bestehender Draft),
+        // sonst POST (neuer Draft).
+        const resp = currentDraftId
+          ? await api(`/${currentDraftId}`, { method: 'PATCH', body: JSON.stringify(payload) })
+          : await api('/', { method: 'POST', body: JSON.stringify(payload) });
+
         if (resp.ok && resp.data && resp.data.ok) {
           currentDraftId = resp.data.broadcast.id;
           showResult(`✓ Draft #${currentDraftId} gespeichert.`, true);
