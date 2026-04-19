@@ -4,8 +4,8 @@ import BlogCard from '../components/BlogCard.astro';
 import AppCTA from '../components/AppCTA.astro';
 import { getCollection } from 'astro:content';
 
-const title = 'Flirten lernen 2026: Der komplette Guide vom Ansprechen bis zum Date';
-const description = 'Flirten lernen leicht gemacht: Körpersprache deuten, Gesprächsstarter, Anmachsprüche die funktionieren, Online-Flirten und vom Match zum echten Date. Dein kompletter Flirt-Guide.';
+const title = 'Flirten lernen 2026: Komplett-Guide vom Ansprechen bis Date';
+const description = 'Flirten lernen leicht gemacht: Körpersprache, Gesprächsstarter, Anmachsprüche die funktionieren und vom Match zum echten Date — dein Flirt-Guide.';
 const keywords = ['flirten lernen', 'flirt tipps', 'ansprechen', 'kennenlernen', 'körpersprache flirten', 'dating tipps', 'gesprächsstarter'];
 
 const allPosts = (await getCollection('blog', ({ data }) => !data.draft))
