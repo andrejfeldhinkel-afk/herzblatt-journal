@@ -2,6 +2,8 @@
 title: "Finya Test & Erfahrungen 2026: Die kostenlose Singlebörse im ehrlichen Check"
 description: "Finya im ehrlichen Test 2026: Wirklich 100 % gratis? Wir zeigen Stärken, Schwächen, Fake-Profil-Risiken und eine bessere kostenlose Alternative mit Profil-Verifizierung."
 date: 2026-04-19
+image: "/images/blog/finya-test-erfahrungen.webp"
+imageAlt: "Finya-Homepage – Screenshot 2026"
 tags:
   - "Dating-Apps"
   - "Online-Dating"

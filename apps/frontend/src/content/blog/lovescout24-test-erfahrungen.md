@@ -2,6 +2,8 @@
 title: "LoveScout24 Test & Erfahrungen 2026: Die Allrounder-Singlebörse im Realitäts-Check"
 description: "LoveScout24 im ehrlichen Test 2026: Ehemals Friendscout24, heute schwächelnde Marke. Kosten, Kündigung, Matching und die moderne Alternative mit besserem Preis-Leistungs-Verhältnis."
 date: 2026-04-19
+image: "/images/blog/lovescout24-test-erfahrungen.webp"
+imageAlt: "LoveScout24-Homepage – Screenshot 2026"
 tags:
   - "Dating-Apps"
   - "Online-Dating"

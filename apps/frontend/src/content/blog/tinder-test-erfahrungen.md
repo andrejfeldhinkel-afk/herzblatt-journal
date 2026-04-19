@@ -2,6 +2,8 @@
 title: "Tinder Test & Erfahrungen 2026: Lohnt sich die Swipe-App wirklich?"
 description: "Tinder im ehrlichen Test 2026: Kosten, Match-Chancen, Fake-Profile und echte Erfahrungen. Plus: Die beste Alternative mit verifizierten Profilen und weniger Bots."
 date: 2026-04-19
+image: "/images/blog/tinder-test-erfahrungen.webp"
+imageAlt: "Tinder-Homepage – Screenshot 2026"
 tags:
   - "Dating-Apps"
   - "Online-Dating"

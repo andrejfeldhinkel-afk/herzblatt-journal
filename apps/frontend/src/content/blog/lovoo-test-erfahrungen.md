@@ -2,6 +2,8 @@
 title: "Lovoo Test & Erfahrungen 2026: Die deutsche Dating-App mit Radar im Realitäts-Check"
 description: "Lovoo im ehrlichen Test 2026: Credits, Premium, Radar und Live-Streams. Wir zeigen die versteckte Credit-Falle und die bessere Alternative mit transparenten Monats-Abos."
 date: 2026-04-19
+image: "/images/blog/lovoo-test-erfahrungen.webp"
+imageAlt: "Lovoo-Homepage – Screenshot 2026"
 tags:
   - "Dating-Apps"
   - "Online-Dating"

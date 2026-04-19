@@ -2,6 +2,8 @@
 title: "Parship Test & Erfahrungen 2026: Lohnt sich die Partnervermittlung wirklich?"
 description: "Parship im ehrlichen Test 2026: Kosten, Matching, Kündigung und echte Erfahrungen. Plus: Günstigere Alternativen mit besserem Preis-Leistungs-Verhältnis."
 date: 2026-04-19
+image: "/images/blog/parship-test-erfahrungen.webp"
+imageAlt: "Parship-Homepage – Screenshot 2026"
 tags:
   - "Dating-Apps"
   - "Online-Dating"

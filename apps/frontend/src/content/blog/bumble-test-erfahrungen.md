@@ -2,6 +2,8 @@
 title: "Bumble Test & Erfahrungen 2026: Lohnt sich die Women-First-App wirklich?"
 description: "Bumble im ehrlichen Test 2026: Kosten, 24-Stunden-Regel, Premium-Features und echte Erfahrungen. Plus: Die beste Alternative mit verifizierten Profilen für Frauen."
 date: 2026-04-19
+image: "/images/blog/bumble-test-erfahrungen.webp"
+imageAlt: "Bumble-Homepage – Screenshot 2026"
 tags:
   - "Dating-Apps"
   - "Online-Dating"

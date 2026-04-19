@@ -2,6 +2,8 @@
 title: "Hinge Test & Erfahrungen 2026: Lohnt sich die Prompts-App für ernsthafte Beziehungen?"
 description: "Hinge im ehrlichen Test 2026: Kosten, Prompts, Roses und echte Erfahrungen. Plus: Die beste Alternative für ernsthafte Partnersuche ohne Swipe-Prinzip."
 date: 2026-04-19
+image: "/images/blog/hinge-test-erfahrungen.webp"
+imageAlt: "Hinge-Homepage – Screenshot 2026"
 tags:
   - "Dating-Apps"
   - "Online-Dating"
