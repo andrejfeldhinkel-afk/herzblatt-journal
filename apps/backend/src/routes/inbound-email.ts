@@ -21,6 +21,7 @@ import { Hono } from 'hono';
 import { db, schema } from '../db/index.js';
 import { getClientIp, hashIp } from '../lib/crypto.js';
 import { allowRequest } from '../lib/rate-limit.js';
+import { redactEmail } from '../lib/log-helpers.js';
 
 const app = new Hono();
 
@@ -118,7 +119,7 @@ app.post('/', async (c) => {
 
     // Auto-reject wenn from-Adresse unsere eigene ist (Loop-Schutz)
     if (fromParsed.email.endsWith('@herzblatt-journal.de')) {
-      console.log('[inbound-email] ignoring own-domain email:', fromParsed.email);
+      console.log('[inbound-email] ignoring own-domain email:', redactEmail(fromParsed.email));
       return c.text('OK', 200);
     }
 
@@ -148,7 +149,7 @@ app.post('/', async (c) => {
       })
       .onConflictDoNothing({ target: schema.inboundEmails.messageId });
 
-    console.log(`[inbound-email] received from ${fromParsed.email}: "${subject.slice(0, 60)}"`);
+    console.log(`[inbound-email] received from ${redactEmail(fromParsed.email)}: "${subject.slice(0, 60)}"`);
     return c.text('OK', 200);
   } catch (err) {
     console.error('[inbound-email] error:', err);
