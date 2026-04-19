@@ -155,7 +155,7 @@ app.route('/api/checkout/micropayment', micropaymentCheckoutRoute);
 app.route('/api/webhooks/micropayment', micropaymentWebhookRoute);
 app.route('/api/webhooks/whop', whopWebhookRoute);
 
-// Ebook-Delivery — Token-basiert, public
+// Ebook-Delivery — Token-basiert, public (inkl. GET /recent-buyers Social-Proof-Counter)
 app.route('/api/ebook', ebookAccessRoute);
 
 // Auth Routes (eigene security)
