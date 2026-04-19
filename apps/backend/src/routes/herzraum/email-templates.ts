@@ -162,8 +162,22 @@ const broadcastSchema = z.object({
   dryRun: z.boolean().optional().default(false),
 });
 
+/**
+ * Fail-closed wie in `routes/unsubscribe.ts`: kein Fallback auf `IP_SALT`
+ * und kein hardcoded Default-String. Wenn `UNSUBSCRIBE_SECRET` fehlt oder
+ * <16 Zeichen ist, wirft die Funktion; der Aufrufer muss 500 zurückgeben.
+ * So können Broadcast-Tokens nicht mehr aus einem bekannten Default
+ * forged werden.
+ */
+const MIN_UNSUBSCRIBE_SECRET_LENGTH = 16;
+
 function buildUnsubToken(email: string): string {
-  const secret = process.env.UNSUBSCRIBE_SECRET || process.env.IP_SALT || 'fallback';
+  const secret = process.env.UNSUBSCRIBE_SECRET;
+  if (!secret || secret.length < MIN_UNSUBSCRIBE_SECRET_LENGTH) {
+    throw new Error(
+      `UNSUBSCRIBE_SECRET env var missing or too short (min ${MIN_UNSUBSCRIBE_SECRET_LENGTH} chars) — refusing to issue tokens`,
+    );
+  }
   return createHmac('sha256', secret).update(email.toLowerCase().trim()).digest('hex').slice(0, 32);
 }
 
@@ -187,6 +201,16 @@ app.post('/:id/broadcast', async (c) => {
 
   const sgKey = process.env.SENDGRID_API_KEY;
   if (!sgKey) return c.json({ ok: false, error: 'SENDGRID_API_KEY not configured' }, 500);
+
+  // Early fail: wenn UNSUBSCRIBE_SECRET nicht gesetzt ist, gibt's keinen
+  // Sinn, einen Broadcast zu starten — die Unsubscribe-Links wären
+  // entweder forge-bar oder bei späterem Klick ungültig.
+  if (!process.env.UNSUBSCRIBE_SECRET || process.env.UNSUBSCRIBE_SECRET.length < 16) {
+    return c.json(
+      { ok: false, error: 'UNSUBSCRIBE_SECRET not configured (min 16 chars)' },
+      500,
+    );
+  }
 
   // Rate-Limit: max 3 broadcasts/h
   try {
