@@ -326,6 +326,11 @@ const faqSchema = faq.length > 0 ? {
     // Listen for consent event (fired by cookie banner)
     window.addEventListener('cookies-accepted', loadGA);
   </script>
+
+  <!-- Plausible Analytics (privacy-friendly, env-gated via PUBLIC_PLAUSIBLE_ENABLED) -->
+  {import.meta.env.PUBLIC_PLAUSIBLE_ENABLED === '1' && (
+    <script defer data-domain="herzblatt-journal.com" src="https://plausible.io/js/script.js"></script>
+  )}
 </head>
 <body class="min-h-screen flex flex-col">
   <!-- Skip-to-Main-Content Link (nur Keyboard-Fokus sichtbar) -->

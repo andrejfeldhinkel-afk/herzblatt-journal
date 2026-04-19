@@ -16,7 +16,7 @@
  * ENV: EBOOK_ACCESS_SECRET (min 32 chars) — MUSS gesetzt sein, sonst 500.
  */
 import { Hono } from 'hono';
-import { eq, and } from 'drizzle-orm';
+import { eq, and, gte, inArray, sql } from 'drizzle-orm';
 import { db, schema } from '../db/index.js';
 import {
   buildEbookAccessUrl,
@@ -26,7 +26,7 @@ import {
 } from '../lib/ebook-access.js';
 import { sendEbookDeliveryEmail, isSendGridEnabled } from '../lib/sendgrid.js';
 import { ensureAffiliateCodeForBuyer } from '../lib/affiliate-code.js';
-import { allowRequest } from '../lib/rate-limit.js';
+import { allowRequest, allowPublicApi } from '../lib/rate-limit.js';
 import { getClientIp, hashIp } from '../lib/crypto.js';
 import { redactEmail } from '../lib/log-helpers.js';
 import { captureError } from '../lib/sentry.js';
@@ -253,7 +253,6 @@ app.get('/my-affiliate-code', async (c) => {
   if (!email) return c.json({ ok: false, error: 'invalid-session' }, 401);
 
   try {
-    // Bestätige, dass der User tatsächlich einen 'paid'-Kauf hat
     const paid = await db
       .select({ id: schema.purchases.id })
       .from(schema.purchases)
@@ -268,8 +267,6 @@ app.get('/my-affiliate-code', async (c) => {
       return c.json({ ok: false, error: 'no-paid-purchase' }, 401);
     }
 
-    // Lazy-init: alte Käufer (vor Feature-Launch) haben noch keinen Code.
-    // ensureAffiliateCodeForBuyer legt einen an wenn nötig.
     const code = await ensureAffiliateCodeForBuyer(email);
     if (!code) return c.json({ ok: false, error: 'code-create-failed' }, 500);
 
@@ -304,11 +301,46 @@ app.get('/my-affiliate-code', async (c) => {
   }
 });
 
+/**
+ * GET /api/ebook/recent-buyers — Public Social-Proof-Counter.
+ * Echte Zahl der bezahlten Ebook-Käufe der letzten 24h (UWG § 5-konform).
+ */
+const EBOOK_PRODUCT_IDS = ['ebook', 'herzblatt-methode', 'whop-ebook'];
+
+app.get('/recent-buyers', async (c) => {
+  const ip = getClientIp(c.req.raw, c.req.raw.headers);
+  if (!allowPublicApi(hashIp(ip))) {
+    return c.json({ ok: false, error: 'rate-limit' }, 429);
+  }
+
+  const since = new Date(Date.now() - 24 * 60 * 60 * 1000);
+
+  try {
+    const [row] = await db
+      .select({ count: sql<number>`count(*)::int` })
+      .from(schema.purchases)
+      .where(
+        and(
+          eq(schema.purchases.status, 'paid'),
+          inArray(schema.purchases.product, EBOOK_PRODUCT_IDS),
+          gte(schema.purchases.createdAt, since),
+        ),
+      );
+
+    const count = Number(row?.count || 0);
+    c.header('Cache-Control', 'public, max-age=30, s-maxage=30');
+    return c.json({ ok: true, count });
+  } catch (err) {
+    console.error('[ebook-recent-buyers] db error:', err);
+    return c.json({ ok: true, count: 0 });
+  }
+});
+
 // GET / — setup-check
 app.get('/', (c) => {
   return c.json({
     ok: true,
-    info: 'Ebook-Access endpoints. POST /request-access + GET /verify + GET /session.',
+    info: 'Ebook-Access endpoints. POST /request-access + GET /verify + GET /session + GET /recent-buyers.',
     secretConfigured: !!process.env.EBOOK_ACCESS_SECRET,
   });
 });

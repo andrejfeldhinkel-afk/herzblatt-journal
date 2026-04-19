@@ -28,6 +28,16 @@ const whopPlanId = (
   WHOP_PLAN_ID_DEFAULT
 ).trim();
 
+// Feature-Flag: Exit-Intent-Modal. Default OFF (opt-in) — nur wenn der
+// Coupon HERZBLATT10 tatsächlich im Whop-Dashboard angelegt ist, sonst
+// produziert er Frust im Checkout. Aktivieren via
+// PUBLIC_EXIT_INTENT_ENABLED=true.
+const exitIntentEnabled = (
+  import.meta.env.PUBLIC_EXIT_INTENT_ENABLED ||
+  process.env.PUBLIC_EXIT_INTENT_ENABLED ||
+  ''
+).toString().trim().toLowerCase() === 'true';
+
 // 15 Kapitel des Hauptbuchs
 const chapters = [
   { num: '01', title: 'Selbstkenntnis: Wer bist du — und was willst du wirklich?', desc: 'Die 30-Fragen-Werteanalyse und warum 80 % aller Dating-Fehler aus unklarer Selbstwahrnehmung entstehen.' },
@@ -496,7 +506,23 @@ const faqs = [
           <span class="text-2xl line-through opacity-60">149 €</span>
           <span class="text-5xl sm:text-6xl font-extrabold" style="font-family: var(--font-serif);">89,99 €</span>
         </div>
-        <p class="text-sm opacity-80 mb-6">einmalige Zahlung · lebenslanger Zugang</p>
+        <p class="text-sm opacity-80 mb-3">einmalige Zahlung · lebenslanger Zugang</p>
+
+        <!--
+          Social-Proof-Counter — ECHTE Zahlen (keine Fake, kein Math.random).
+          Backend-Route /api/ebook/recent-buyers liefert COUNT(*) aus purchases
+          der letzten 24h. Client-Fetch on-page-load, schöner Fade-In.
+          Bei count > 0: "🔥 {n} Käufer in den letzten 24h".
+          Bei count === 0: "Sichere dir Frühbucher-Vorteile" (neutral, UWG-konform).
+        -->
+        <div
+          id="ebook-social-proof"
+          class="mb-5"
+          style="opacity: 0; transition: opacity 400ms ease-out; min-height: 1.25rem;"
+          aria-live="polite"
+        >
+          <p id="ebook-social-proof-text" class="text-xs sm:text-sm font-semibold" style="color: rgba(255,255,255,0.95);"></p>
+        </div>
 
         {hasLiveCheckout ? (
           <>
@@ -551,6 +577,125 @@ const faqs = [
           </>
         )}
       </div>
+
+      {hasLiveCheckout && (
+        <!--
+          Sticky Buy-Bar — erscheint nach 30% Scroll-Tiefe.
+          Click öffnet den bestehenden Whop-Modal via openWhopModal().
+          Dismissible mit X (sessionStorage-Flag, bis Page-Close).
+          Mobil-optimiert; slide-in-from-bottom Animation.
+        -->
+        <div
+          id="ebook-sticky-buy-bar"
+          role="complementary"
+          aria-label="Jetzt Herzblatt-Methode kaufen"
+          class="fixed left-0 right-0 bottom-0 z-[90] pointer-events-none"
+          style="display: none;"
+        >
+          <div
+            class="pointer-events-auto mx-auto max-w-3xl px-3 pb-3"
+            style="transform: translateY(120%); transition: transform 360ms cubic-bezier(0.22, 1, 0.36, 1);"
+            id="ebook-sticky-buy-bar-inner"
+          >
+            <div
+              class="flex items-center gap-3 rounded-2xl px-4 py-3 shadow-2xl"
+              style="background: linear-gradient(135deg, var(--color-primary-600), var(--color-primary-700)); color: white; border: 1px solid rgba(255,255,255,0.15);"
+            >
+              <div class="hidden sm:flex w-10 h-10 items-center justify-center rounded-xl shrink-0" style="background: rgba(255,255,255,0.15); font-size: 1.25rem;" aria-hidden="true">💗</div>
+              <div class="flex-1 min-w-0">
+                <div class="text-[11px] uppercase tracking-wider font-semibold opacity-80">Herzblatt-Methode</div>
+                <div class="text-sm sm:text-base font-bold leading-tight">
+                  <span class="opacity-60 line-through text-xs mr-1.5">149 €</span>
+                  <span>89,99 €</span>
+                  <span class="hidden sm:inline font-medium opacity-80"> · lebenslanger Zugang</span>
+                </div>
+              </div>
+              <button
+                type="button"
+                id="ebook-sticky-buy-btn"
+                aria-label="Jetzt die Herzblatt-Methode für 89,99 Euro kaufen"
+                class="inline-flex items-center gap-1.5 px-4 sm:px-5 py-2.5 rounded-full text-sm font-bold shrink-0 transition-all hover:-translate-y-px cursor-pointer"
+                style="background: white; color: var(--color-primary-700); border: none;"
+              >
+                Jetzt kaufen
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+              </button>
+              <button
+                type="button"
+                id="ebook-sticky-buy-dismiss"
+                aria-label="Banner schließen"
+                class="shrink-0 flex items-center justify-center rounded-full transition-colors"
+                style="background: rgba(255,255,255,0.12); color: white; width: 32px; height: 32px; border: none; cursor: pointer;"
+              >
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {hasLiveCheckout && exitIntentEnabled && (
+        <!--
+          Exit-Intent-Modal (Desktop-only, Feature-Flag PUBLIC_EXIT_INTENT_ENABLED).
+          Trigger: mousemove mit clientY<10 && !relatedTarget (classic exit-intent).
+          Mobile wird geskippt (window.innerWidth < 1024).
+          Max 1× pro 7 Tage (localStorage "ebook-exit-intent-seen").
+          CTA: kopiert HERZBLATT10 in Zwischenablage und öffnet den Whop-Modal
+          direkt — User muss den Coupon im Checkout-Feld einfügen.
+
+          WICHTIG: Coupon "HERZBLATT10" muss im Whop-Dashboard manuell
+          angelegt sein, sonst Error im Checkout.
+        -->
+        <div
+          id="ebook-exit-intent-modal"
+          class="fixed inset-0 z-[95] items-center justify-center p-4"
+          style="display: none; background: rgba(0,0,0,0.65); backdrop-filter: blur(6px);"
+          aria-hidden="true"
+          role="dialog"
+          aria-labelledby="ebook-exit-intent-title"
+        >
+          <div class="relative w-full max-w-md rounded-2xl overflow-hidden" style="background: white; box-shadow: 0 25px 60px rgba(0,0,0,0.35);">
+            <button
+              type="button"
+              id="ebook-exit-intent-close"
+              aria-label="Dialog schließen"
+              class="absolute top-3 right-3 rounded-full flex items-center justify-center cursor-pointer z-10"
+              style="background: rgba(0,0,0,0.05); color: #64748b; border: none; width: 36px; height: 36px;"
+            >
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+            </button>
+            <div class="p-7 sm:p-9 text-center">
+              <div class="inline-flex items-center justify-center rounded-full mb-4" style="width: 64px; height: 64px; background: linear-gradient(135deg, var(--color-primary-100), var(--color-primary-200)); font-size: 1.75rem;" aria-hidden="true">🎁</div>
+              <p class="text-xs font-bold uppercase tracking-wider mb-2" style="color: var(--color-primary-600);">Nur für dich</p>
+              <h3 id="ebook-exit-intent-title" class="text-2xl sm:text-3xl font-extrabold leading-tight mb-3" style="color: #0f172a; font-family: var(--font-serif); letter-spacing: -0.02em;">
+                Warte! Sicher dir 10 % Rabatt
+              </h3>
+              <p class="text-sm leading-relaxed mb-5" style="color: #475569;">
+                Bevor du gehst: Mit dem Code unten sparst du 10 % auf die komplette Herzblatt-Methode — einmalig, lebenslanger Zugang.
+              </p>
+              <div
+                class="inline-flex items-center gap-2 px-5 py-3 rounded-xl mb-5 font-mono font-bold text-lg"
+                style="background: var(--color-primary-50); color: var(--color-primary-700); border: 2px dashed var(--color-primary-300); letter-spacing: 0.08em;"
+                aria-label="Rabatt-Code HERZBLATT10"
+              >
+                HERZBLATT10
+              </div>
+              <button
+                type="button"
+                id="ebook-exit-intent-cta"
+                class="w-full inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-full text-base font-bold transition-all hover:-translate-y-0.5 hover:shadow-lg cursor-pointer"
+                style="background: var(--color-primary-600); color: white; border: none;"
+              >
+                Code kopieren &amp; jetzt sparen
+              </button>
+              <p id="ebook-exit-intent-feedback" class="text-xs mt-3 min-h-[1em]" style="color: #16a34a;"></p>
+              <p class="text-[11px] mt-2" style="color: #94a3b8;">
+                Füge den Code im Checkout ein. Nur gültig bei diesem Besuch.
+              </p>
+            </div>
+          </div>
+        </div>
+      )}
 
       {hasLiveCheckout && (
         <!-- Whop Modal Overlay -->
@@ -763,6 +908,236 @@ const faqs = [
     document
       .getElementById('checkout-paysafe-btn')
       ?.addEventListener('click', () => startMicropaymentCheckout('paysafe'));
+
+    // Social-Proof-Counter — fetcht echte Kauf-Zahl der letzten 24h.
+    // Wenn count > 0: "🔥 N Käufer in den letzten 24h"
+    // Wenn count === 0: "✨ Sichere dir Frühbucher-Vorteile" (neutral)
+    // Kein Fake, kein Math.random, kein Dark-Pattern — UWG § 5-konform.
+    (function setupSocialProof() {
+      const wrap = document.getElementById('ebook-social-proof');
+      const txt = document.getElementById('ebook-social-proof-text');
+      if (!wrap || !txt) return;
+
+      fetch('/api/ebook/recent-buyers', {
+        method: 'GET',
+        headers: { Accept: 'application/json' },
+      })
+        .then((res) => (res.ok ? res.json() : null))
+        .then((data) => {
+          if (!data || typeof data.count !== 'number') return;
+          const count = Math.max(0, Math.floor(data.count));
+          if (count > 0) {
+            const label = count === 1 ? 'Käufer' : 'Käufer';
+            txt.textContent = '🔥 ' + count + ' ' + label + ' in den letzten 24h';
+          } else {
+            txt.textContent = '✨ Sichere dir Frühbucher-Vorteile';
+          }
+          wrap.style.opacity = '1';
+        })
+        .catch(() => { /* silent — UI bleibt leer, kein Broken-Look */ });
+    })();
+
+    // Exit-Intent-Modal — Desktop-only, Feature-flagged über Präsenz des Modal-Nodes.
+    // Trigger: mousemove mit clientY<10 und !relatedTarget.
+    // Cooldown: max 1× pro 7 Tage (localStorage).
+    (function setupExitIntentModal() {
+      const modal = document.getElementById('ebook-exit-intent-modal');
+      if (!modal) return; // Feature-flag off → Node existiert nicht
+      const closeBtn = document.getElementById('ebook-exit-intent-close');
+      const ctaBtn = document.getElementById('ebook-exit-intent-cta');
+      const feedback = document.getElementById('ebook-exit-intent-feedback');
+      if (!closeBtn || !ctaBtn) return;
+
+      const STORAGE_KEY = 'ebook-exit-intent-seen';
+      const COOLDOWN_MS = 7 * 24 * 60 * 60 * 1000; // 7 Tage
+
+      // Mobile skippen — Exit-Intent auf Touch sinnlos
+      if (window.innerWidth < 1024) return;
+
+      // Cooldown-Check
+      try {
+        const raw = localStorage.getItem(STORAGE_KEY);
+        if (raw) {
+          const ts = Number(raw);
+          if (Number.isFinite(ts) && Date.now() - ts < COOLDOWN_MS) return;
+        }
+      } catch { /* localStorage disabled */ }
+
+      let shown = false;
+
+      function openModal() {
+        if (shown) return;
+        shown = true;
+        modal.style.display = 'flex';
+        modal.setAttribute('aria-hidden', 'false');
+        document.body.style.overflow = 'hidden';
+        try { localStorage.setItem(STORAGE_KEY, String(Date.now())); } catch { /* noop */ }
+        trackEbookBuyClick('ebook-exit-intent-shown');
+      }
+
+      function closeModal() {
+        modal.style.display = 'none';
+        modal.setAttribute('aria-hidden', 'true');
+        document.body.style.overflow = '';
+      }
+
+      function onMouseOut(e) {
+        // relatedTarget ist null, wenn Cursor das Viewport-Fenster verlässt (nach oben)
+        if (e.clientY <= 10 && !e.relatedTarget) {
+          openModal();
+          document.removeEventListener('mouseout', onMouseOut);
+        }
+      }
+
+      // Erst nach 2s aktivieren — verhindert Fehl-Trigger beim Page-Load
+      window.setTimeout(() => {
+        document.addEventListener('mouseout', onMouseOut);
+      }, 2000);
+
+      closeBtn.addEventListener('click', closeModal);
+      modal.addEventListener('click', (e) => {
+        if (e.target === modal) closeModal();
+      });
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && shown && modal.style.display === 'flex') closeModal();
+      });
+
+      ctaBtn.addEventListener('click', async () => {
+        trackEbookBuyClick('ebook-exit-intent-cta');
+        // Copy-to-clipboard mit Fallback für ältere Browser
+        let copied = false;
+        try {
+          if (navigator.clipboard && window.isSecureContext) {
+            await navigator.clipboard.writeText('HERZBLATT10');
+            copied = true;
+          } else {
+            const ta = document.createElement('textarea');
+            ta.value = 'HERZBLATT10';
+            ta.style.position = 'fixed';
+            ta.style.opacity = '0';
+            document.body.appendChild(ta);
+            ta.focus();
+            ta.select();
+            try { copied = document.execCommand('copy'); } catch { copied = false; }
+            document.body.removeChild(ta);
+          }
+        } catch { copied = false; }
+        if (feedback) {
+          feedback.textContent = copied ? '✓ Code HERZBLATT10 kopiert!' : 'Code: HERZBLATT10 — bitte manuell kopieren.';
+        }
+        // Kurz anzeigen, dann Whop-Modal öffnen
+        window.setTimeout(() => {
+          closeModal();
+          if (typeof openWhopModal === 'function') {
+            openWhopModal();
+          } else {
+            const card = document.getElementById('checkout-card-btn');
+            if (card) card.click();
+          }
+        }, 500);
+      });
+    })();
+
+    // Sticky Buy-Bar — erscheint nach 30% Scroll-Tiefe.
+    // Dismissible per X; Flag in sessionStorage (reset beim Page-Close).
+    // Click auf CTA öffnet existierenden Whop-Modal via openWhopModal().
+    (function setupStickyBuyBar() {
+      const bar = document.getElementById('ebook-sticky-buy-bar');
+      const inner = document.getElementById('ebook-sticky-buy-bar-inner');
+      const btn = document.getElementById('ebook-sticky-buy-btn');
+      const dismissBtn = document.getElementById('ebook-sticky-buy-dismiss');
+      if (!bar || !inner || !btn || !dismissBtn) return;
+
+      const SESSION_KEY = 'ebook-sticky-buy-dismissed';
+      try {
+        if (sessionStorage.getItem(SESSION_KEY) === '1') return;
+      } catch { /* sessionStorage disabled — ignore */ }
+
+      let shown = false;
+      let dismissed = false;
+
+      function show() {
+        if (shown || dismissed) return;
+        shown = true;
+        bar.style.display = 'block';
+        // Next frame, slide in
+        requestAnimationFrame(() => {
+          inner.style.transform = 'translateY(0)';
+        });
+        trackEbookBuyClick('ebook-sticky-buy-bar-shown');
+      }
+
+      function hide() {
+        dismissed = true;
+        inner.style.transform = 'translateY(120%)';
+        window.setTimeout(() => { bar.style.display = 'none'; }, 380);
+        try { sessionStorage.setItem(SESSION_KEY, '1'); } catch { /* noop */ }
+      }
+
+      // IntersectionObserver-basiertes 30%-Scroll-Trigger.
+      // Wir platzieren einen Sentinel bei 30% der scrollbaren Höhe; wird er
+      // sichtbar, triggern wir die Bar. Das ist effizienter als scroll-Listener.
+      function attachSentinel() {
+        const docHeight = Math.max(
+          document.documentElement.scrollHeight,
+          document.body.scrollHeight,
+        );
+        const viewportHeight = window.innerHeight || 0;
+        const trigger = Math.max(0, docHeight * 0.3 - viewportHeight);
+        const sentinel = document.createElement('div');
+        sentinel.id = 'ebook-sticky-sentinel';
+        sentinel.style.cssText = 'position:absolute;top:' + trigger + 'px;left:0;width:1px;height:1px;pointer-events:none;';
+        document.body.appendChild(sentinel);
+        const io = new IntersectionObserver((entries) => {
+          for (const entry of entries) {
+            if (entry.isIntersecting) {
+              show();
+              io.disconnect();
+              sentinel.remove();
+              break;
+            }
+          }
+        });
+        io.observe(sentinel);
+      }
+
+      if ('IntersectionObserver' in window) {
+        // Nach Initial-Render + Images warten (verhindert Trigger direkt bei Load)
+        if (document.readyState === 'complete') {
+          attachSentinel();
+        } else {
+          window.addEventListener('load', attachSentinel, { once: true });
+        }
+      } else {
+        // Fallback: scroll-Listener mit passiven Events
+        let ticking = false;
+        window.addEventListener('scroll', () => {
+          if (ticking || shown) return;
+          ticking = true;
+          requestAnimationFrame(() => {
+            const docHeight = Math.max(
+              document.documentElement.scrollHeight,
+              document.body.scrollHeight,
+            );
+            const scrolled = (window.scrollY + window.innerHeight) / docHeight;
+            if (scrolled >= 0.3) show();
+            ticking = false;
+          });
+        }, { passive: true });
+      }
+
+      btn.addEventListener('click', () => {
+        trackEbookBuyClick('ebook-sticky-buy-bar-click');
+        // Prefer direct modal-opener; fallback: trigger existierenden Card-Button
+        if (typeof openWhopModal === 'function') {
+          openWhopModal();
+        } else {
+          const card = document.getElementById('checkout-card-btn');
+          if (card) card.click();
+        }
+      });
+      dismissBtn.addEventListener('click', hide);
+    })();
 
     // Status-Banner oben auf der Seite, falls Nutzer von Micropayment zurück kommt
     (function showCheckoutStatusBanner() {
