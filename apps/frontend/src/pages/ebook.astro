@@ -373,9 +373,15 @@ const faqs = [
             <div class="flex items-center gap-1 mb-3" style="color: #f59e0b; letter-spacing: 1px;">★★★★★</div>
             <p class="text-sm sm:text-base leading-relaxed mb-4 italic" style="color: var(--text);">„{t.quote}"</p>
             <div class="flex items-center gap-3 pt-3" style="border-top: 1px solid var(--border);">
-              <div class="w-12 h-12 rounded-full flex items-center justify-center text-white text-base font-bold shrink-0" style="background: linear-gradient(135deg, var(--color-primary-400), var(--color-primary-700)); box-shadow: 0 4px 12px rgba(244,63,94,0.25), inset 0 1px 0 rgba(255,255,255,0.2); font-family: var(--font-serif); letter-spacing: -0.02em;">
-                {t.name.charAt(0)}
-              </div>
+              <img
+                src={`https://api.dicebear.com/9.x/notionists/svg?seed=${encodeURIComponent(t.name)}&backgroundColor=fef1f2,fde4e6,fecdd3&radius=50`}
+                alt={`Avatar-Illustration für ${t.name}`}
+                width="48"
+                height="48"
+                loading="lazy"
+                class="w-12 h-12 rounded-full shrink-0"
+                style="background: var(--color-primary-50); box-shadow: 0 4px 12px rgba(244,63,94,0.15);"
+              />
               <div>
                 <div class="text-sm font-bold" style="color: var(--text);">{t.name}</div>
                 <div class="text-xs" style="color: var(--text-muted);">{t.city} · Verifizierter Kauf</div>
@@ -430,45 +436,29 @@ const faqs = [
 
         {hasLiveCheckout ? (
           <>
-            <!-- Whop Embedded Checkout (Kreditkarte/PayPal/Apple/Google Pay - bleibt auf unserer Seite) -->
-            <div class="rounded-xl overflow-hidden mb-4" style="background: white; min-height: 520px;">
-              <div
-                id="whop-embed-ebook"
-                data-whop-checkout-plan-id={whopPlanId}
-                data-whop-checkout-return-url="https://herzblatt-journal.com/ebook?status=success"
-                data-whop-checkout-theme="light"
-                data-whop-checkout-style-container-padding-x="0"
-                data-whop-checkout-on-complete="onWhopCheckoutComplete"
-                style="min-height: 520px;"
-              ></div>
-            </div>
-            <p class="text-[11px] opacity-80 mt-1 mb-3 text-center">
-              💳 Kreditkarte · PayPal · Apple Pay · Google Pay — sichere Zahlung über Whop
-            </p>
-
-            <!-- Divider -->
-            <div class="flex items-center gap-3 my-4">
-              <div class="flex-1 h-px" style="background: rgba(255,255,255,0.25);"></div>
-              <span class="text-[11px] opacity-70 uppercase tracking-wider">oder</span>
-              <div class="flex-1 h-px" style="background: rgba(255,255,255,0.25);"></div>
-            </div>
-
-            <!-- Alternative: Sofort + paysafecard via Micropayment -->
-            <div class="grid grid-cols-2 gap-3">
+            <!-- 3-Kachel-Picker: Kreditkarte / Sofort / paysafecard -->
+            <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+              <button type="button"
+                      id="checkout-card-btn"
+                      class="inline-flex flex-col items-center justify-center gap-1.5 px-3 py-4 rounded-xl text-sm font-semibold transition-all hover:-translate-y-px cursor-pointer"
+                      style="background: white; color: #1e293b; border: 2px solid white;">
+                <span class="text-2xl leading-none">💳</span>
+                <span class="leading-tight">Kreditkarte</span>
+              </button>
               <button type="button"
                       id="checkout-sofort-btn"
                       data-mp-method="sofort"
-                      class="inline-flex flex-col items-center justify-center gap-1 px-3 py-3 rounded-xl text-sm font-semibold transition-all hover:-translate-y-px cursor-pointer"
+                      class="inline-flex flex-col items-center justify-center gap-1.5 px-3 py-4 rounded-xl text-sm font-semibold transition-all hover:-translate-y-px cursor-pointer"
                       style="background: rgba(255,255,255,0.12); color: white; border: 1px solid rgba(255,255,255,0.3);">
-                <span class="text-xl leading-none">🏦</span>
+                <span class="text-2xl leading-none">🏦</span>
                 <span class="leading-tight">Sofort-Überweisung</span>
               </button>
               <button type="button"
                       id="checkout-paysafe-btn"
                       data-mp-method="paysafe"
-                      class="inline-flex flex-col items-center justify-center gap-1 px-3 py-3 rounded-xl text-sm font-semibold transition-all hover:-translate-y-px cursor-pointer"
+                      class="inline-flex flex-col items-center justify-center gap-1.5 px-3 py-4 rounded-xl text-sm font-semibold transition-all hover:-translate-y-px cursor-pointer"
                       style="background: rgba(255,255,255,0.12); color: white; border: 1px solid rgba(255,255,255,0.3);">
-                <span class="text-xl leading-none">🎫</span>
+                <span class="text-2xl leading-none">🎫</span>
                 <span class="leading-tight">paysafecard</span>
               </button>
             </div>
@@ -494,6 +484,39 @@ const faqs = [
           </>
         )}
       </div>
+
+      {hasLiveCheckout && (
+        <!-- Whop Modal Overlay -->
+        <div
+          id="whop-modal"
+          class="fixed inset-0 z-[100] items-center justify-center p-4"
+          style="display: none; background: rgba(0,0,0,0.75); backdrop-filter: blur(6px);"
+          aria-hidden="true"
+        >
+          <div class="relative w-full max-w-md mx-auto" style="max-height: 92vh;">
+            <button
+              type="button"
+              id="whop-modal-close"
+              aria-label="Schließen"
+              class="absolute -top-3 -right-3 w-9 h-9 rounded-full flex items-center justify-center cursor-pointer shadow-lg z-10"
+              style="background: white; color: #1e293b; border: none;"
+            >
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+            </button>
+            <div class="rounded-2xl overflow-hidden" style="background: white; max-height: 92vh; overflow-y: auto;">
+              <div
+                id="whop-embed-ebook"
+                data-whop-checkout-plan-id={whopPlanId}
+                data-whop-checkout-return-url="https://herzblatt-journal.com/ebook?status=success"
+                data-whop-checkout-theme="light"
+                data-whop-checkout-style-container-padding-x="0"
+                data-whop-checkout-on-complete="onWhopCheckoutComplete"
+                style="min-height: 540px;"
+              ></div>
+            </div>
+          </div>
+        </div>
+      )}
 
       <div class="flex flex-wrap items-center justify-center gap-5 text-sm opacity-80">
         <div class="flex items-center gap-1.5">
@@ -588,10 +611,38 @@ const faqs = [
       } catch { /* noop */ }
     }
 
-    // Whop — Embedded Checkout. Erfolg-Callback wird durch data-whop-checkout-on-complete ausgelöst.
-    // Wir definieren die Funktion global, damit loader.js sie aufrufen kann.
+    // Whop — Modal-Overlay mit Embed. Öffnen durch Klick auf Karten-Tile, schließen durch X oder Backdrop.
+    const whopModal = document.getElementById('whop-modal');
+    const cardBtn = document.getElementById('checkout-card-btn');
+    const closeBtn = document.getElementById('whop-modal-close');
+    function openWhopModal() {
+      if (!whopModal) return;
+      whopModal.style.display = 'flex';
+      whopModal.setAttribute('aria-hidden', 'false');
+      document.body.style.overflow = 'hidden';
+      trackEbookBuyClick('ebook-buy-whop-open');
+    }
+    function closeWhopModal() {
+      if (!whopModal) return;
+      whopModal.style.display = 'none';
+      whopModal.setAttribute('aria-hidden', 'true');
+      document.body.style.overflow = '';
+    }
+    cardBtn?.addEventListener('click', openWhopModal);
+    closeBtn?.addEventListener('click', closeWhopModal);
+    // Backdrop-Click schließt, aber nur wenn direkt aufs Overlay geklickt (nicht aufs Modal-Inner)
+    whopModal?.addEventListener('click', (e) => {
+      if (e.target === whopModal) closeWhopModal();
+    });
+    // ESC-Taste schließt
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && whopModal && whopModal.style.display === 'flex') closeWhopModal();
+    });
+
+    // Whop Erfolg-Callback — loader.js ruft das global auf
     window.onWhopCheckoutComplete = function (planId, receiptId) {
       trackEbookBuyClick('ebook-buy-whop-complete');
+      closeWhopModal();
       const url = new URL(window.location.href);
       url.searchParams.set('status', 'success');
       if (receiptId) url.searchParams.set('receipt', String(receiptId));
