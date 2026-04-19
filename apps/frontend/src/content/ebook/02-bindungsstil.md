@@ -337,4 +337,4 @@ Kontakt: **116 117** (Psychotherapeutische Terminservicestelle, vermittelt Kasse
 ---
 
 *Ende Kapitel 2.*
-*Wortanzahl: ~6.300 · Durchschnittliche Lesezeit: 26 Minuten · Arbeitszeit inklusive Test und Reflexion: 4-6 Stunden.*
+*Wortanzahl: ~3.400 · Durchschnittliche Lesezeit: 14 Minuten · Arbeitszeit inklusive Test und Reflexion: 4-6 Stunden.*
