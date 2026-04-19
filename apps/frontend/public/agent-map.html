@@ -63,9 +63,70 @@
     text-transform: uppercase; letter-spacing: .18em;
   }
   .brand-dot { width: 9px; height: 9px; border-radius: 50%; background: var(--rose);
-    box-shadow: 0 0 12px var(--rose); }
+    box-shadow: 0 0 12px var(--rose);
+    animation: brand-pulse 2s ease-in-out infinite; }
+  @keyframes brand-pulse {
+    50% { box-shadow: 0 0 20px var(--rose), 0 0 4px var(--rose); }
+  }
   h1 { font-size: 19px; font-weight: 700; letter-spacing: -0.01em; color: var(--fg); }
   .sub { font-size: 12px; color: var(--muted); margin-left: 12px; }
+  .tplus {
+    font-family: 'SF Mono', ui-monospace, 'Menlo', monospace;
+    font-size: 11px; color: var(--cyan); letter-spacing: 0.1em;
+    font-variant-numeric: tabular-nums;
+    padding: 4px 10px; border: 1px solid rgba(34,211,238,.25);
+    border-radius: 6px; background: rgba(34,211,238,.06);
+    text-shadow: 0 0 8px rgba(34,211,238,.5);
+  }
+  .status-live {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-family: 'SF Mono', ui-monospace, monospace;
+    font-size: 10px; letter-spacing: 0.18em; color: var(--green);
+    text-transform: uppercase;
+  }
+  .status-live::before {
+    content: ''; width: 6px; height: 6px; border-radius: 50%;
+    background: var(--green); box-shadow: 0 0 8px var(--green);
+    animation: brand-pulse 1.4s ease-in-out infinite;
+  }
+
+  /* ─── Atmosphere: grain + scanlines ─── */
+  .grain {
+    position: fixed; inset: 0; pointer-events: none; z-index: 9999;
+    opacity: .055; mix-blend-mode: overlay;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='240'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.5 0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+    background-size: 240px 240px;
+  }
+  .scanlines {
+    position: fixed; inset: 0; pointer-events: none; z-index: 9998;
+    background: repeating-linear-gradient(0deg,
+      rgba(255,255,255,.018) 0 1px, transparent 1px 3px);
+    mix-blend-mode: overlay;
+  }
+
+  /* ─── Cursor-reactive spotlight ─── */
+  body::before {
+    content: ''; position: fixed; inset: 0; pointer-events: none; z-index: 1;
+    background: radial-gradient(500px circle at var(--mx, 50%) var(--my, 50%),
+      rgba(167,139,250,.10), transparent 60%);
+    transition: background-position .1s;
+  }
+
+  /* ─── Conic rotating gradient border on panels ─── */
+  @property --ang { syntax: '<angle>'; initial-value: 0deg; inherits: false; }
+  @keyframes spin-ang { to { --ang: 360deg; } }
+  .panel.glow-ring { position: fixed; isolation: isolate; }
+  .panel.glow-ring::before {
+    content: ''; position: absolute; inset: -1px; border-radius: inherit;
+    padding: 1px;
+    background: conic-gradient(from var(--ang),
+      transparent 0deg, rgba(255,56,104,.6) 60deg, rgba(34,211,238,.6) 120deg,
+      transparent 180deg, rgba(167,139,250,.5) 240deg, transparent 320deg);
+    -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    -webkit-mask-composite: xor; mask-composite: exclude;
+    animation: spin-ang 12s linear infinite;
+    pointer-events: none;
+  }
 
   .tabs { display: flex; margin-left: auto; gap: 4px; background: rgba(255,255,255,.04);
     padding: 3px; border-radius: 10px; border: 1px solid var(--panel-border); }
@@ -158,6 +219,26 @@
     text-anchor: middle; font-weight: 500; }
   .node .sub { font-size: 9px; fill: var(--muted); text-transform: uppercase;
     letter-spacing: .08em; }
+  .particle { pointer-events: none; }
+  .radar-ping {
+    fill: none; stroke: var(--rose); stroke-width: 1.5;
+    transform-origin: center; animation: ring-out 3.5s cubic-bezier(.2,.8,.4,1) forwards;
+  }
+  @keyframes ring-out {
+    0% { r: 6; opacity: .9; stroke-width: 2; }
+    100% { r: 220; opacity: 0; stroke-width: 0.5; }
+  }
+  .reticle {
+    pointer-events: none; stroke: var(--cyan); stroke-width: 1.5; fill: none;
+    opacity: 0; transition: opacity .15s;
+    filter: drop-shadow(0 0 4px var(--cyan));
+  }
+  .reticle.on { opacity: 0.9; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .particle, .radar-ping, .reticle { display: none; }
+    .panel.glow-ring::before { animation: none; }
+  }
   .zoom-hint { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%);
     font-size: 11px; color: var(--muted); pointer-events: none;
     background: rgba(0,0,0,.4); padding: 6px 14px; border-radius: 20px;
@@ -246,6 +327,8 @@
   <span class="brand"><span class="brand-dot"></span>HERZBLATT JOURNAL · 20-PR AUTOMATIK</span>
   <h1>Agent Session Map</h1>
   <span class="sub">6 Std · 10 Agents · 20 PRs · 6 CRITICAL Fixes</span>
+  <span id="tplus" class="tplus">T+ 00:00:00</span>
+  <span class="status-live">Session · OK</span>
   <nav class="tabs" role="tablist">
     <button class="tab active" data-view="overview">Overview</button>
     <button class="tab" data-view="phases">Phases</button>
@@ -255,7 +338,26 @@
 
 <main>
   <section id="view-overview" class="view active">
-    <svg></svg>
+    <svg>
+      <defs>
+        <filter id="bloom" x="-50%" y="-50%" width="200%" height="200%">
+          <feGaussianBlur stdDeviation="3" result="b1"/>
+          <feGaussianBlur stdDeviation="8" in="SourceGraphic" result="b2"/>
+          <feMerge>
+            <feMergeNode in="b2"/>
+            <feMergeNode in="b1"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+        <filter id="bloom-soft" x="-30%" y="-30%" width="160%" height="160%">
+          <feGaussianBlur stdDeviation="1.5" result="b1"/>
+          <feMerge>
+            <feMergeNode in="b1"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+      </defs>
+    </svg>
     <div class="zoom-hint">Scroll zum Zoomen · Drag Hintergrund zum Pannen · Drag Nodes verschieben</div>
   </section>
 
@@ -268,7 +370,10 @@
   </section>
 </main>
 
-<aside id="legend" class="panel">
+<div class="grain"></div>
+<div class="scanlines"></div>
+
+<aside id="legend" class="panel glow-ring">
   <h3>Legende</h3>
   <div class="leg-row"><span class="leg-dot" style="background:#ff3868"></span><b>Coordinator</b></div>
   <div class="leg-row"><span class="leg-dot" style="background:#a78bfa"></span><b>General Agent</b></div>
@@ -279,7 +384,7 @@
   <div class="leg-note">Klick auf einen Node für Details. Tab oben wechselt Layout.</div>
 </aside>
 
-<aside id="stats" class="panel">
+<aside id="stats" class="panel glow-ring">
   <h3>Session-Ergebnis</h3>
   <div class="stat-big">20 <span class="stat-big-unit">PRs ausgeliefert</span></div>
   <div class="stat-row"><span><span class="ok-dot"></span>Agents koordiniert</span><b>10</b></div>
@@ -481,24 +586,37 @@ function ensureOverview() {
     }).strength(d => d.id === 'main' ? 0 : 0.12))
     .force('y', d3.forceY(d => d.type === 'artifact' ? H*0.72 : H*0.35).strength(d => d.id === 'main' ? 0 : 0.10));
 
-  const edgeSel = g.append('g').selectAll('line').data(links).enter().append('line')
+  // Bloom-filtered group for all "luminous" elements (edges + nodes)
+  const bloomG = g.append('g').attr('filter','url(#bloom)');
+  const edgeSel = bloomG.append('g').selectAll('line').data(links).enter().append('line')
     .attr('class', d => 'edge' + (d.thin ? ' thin' : ''));
 
-  const nodeSel = g.append('g').selectAll('g').data(nodes).enter().append('g').attr('class','node')
+  // Particle-Flow: one circle per edge, travels from source → target via <animate>
+  const particleG = bloomG.append('g').attr('class','particles');
+  const particles = links.map((l, i) => {
+    const c = particleG.append('circle')
+      .attr('class','particle')
+      .attr('r', l.thin ? 1.4 : 2)
+      .attr('fill', l.thin ? '#ff88aa' : '#ffd0e0');
+    return { circle: c, link: l, speed: 0.08 + Math.random() * 0.22, t: Math.random() };
+  });
+
+  const nodeSel = bloomG.append('g').selectAll('g').data(nodes).enter().append('g').attr('class','node')
     .call(d3.drag()
       .on('start', (ev, d) => { if (!ev.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
       .on('drag', (ev, d) => { d.fx = ev.x; d.fy = ev.y; })
       .on('end', (ev, d) => { if (!ev.active) sim.alphaTarget(0); d.fx = null; d.fy = null; }))
-    .on('click', (ev, d) => { ev.stopPropagation(); showDetail(d); });
+    .on('click', (ev, d) => { ev.stopPropagation(); showDetail(d); })
+    .on('mouseenter', function(ev, d) { showReticle(d); })
+    .on('mouseleave', clearReticle);
 
   nodeSel.append('circle')
     .attr('r', d => d.r)
     .attr('fill', d => d.color)
     .attr('stroke', d => d.color)
     .attr('stroke-width', 2)
-    .attr('fill-opacity', 0.18)
-    .style('color', d => d.color)
-    .style('filter', d => d.id === 'main' ? `drop-shadow(0 0 14px ${d.color})` : `drop-shadow(0 0 6px ${d.color})`);
+    .attr('fill-opacity', 0.22)
+    .style('color', d => d.color);
 
   nodeSel.append('text')
     .attr('dy', d => d.r + 14)
@@ -509,11 +627,61 @@ function ensureOverview() {
     .attr('dy', d => d.r + 26)
     .text(d => d.sub || '');
 
+  // Reticle: 4 rotating corner-brackets around hovered node (Dune vibe)
+  const reticleG = g.append('g').attr('class','reticle');
+  const RETICLE_PATHS = [
+    { dx: -1, dy: -1, d: 'M0,10 L0,0 L10,0' },
+    { dx:  1, dy: -1, d: 'M-10,0 L0,0 L0,10' },
+    { dx: -1, dy:  1, d: 'M0,-10 L0,0 L10,0' },
+    { dx:  1, dy:  1, d: 'M-10,0 L0,0 L0,-10' },
+  ];
+  RETICLE_PATHS.forEach(() => reticleG.append('path').attr('d','M0,0').attr('stroke-linecap','round'));
+  function showReticle(d) {
+    const pad = d.r + 12;
+    reticleG.selectAll('path').each(function(_, i) {
+      const rp = RETICLE_PATHS[i];
+      d3.select(this).attr('d', rp.d)
+        .attr('transform', `translate(${d.x + rp.dx * pad},${d.y + rp.dy * pad})`);
+    });
+    reticleG.classed('on', true);
+    reticleG.selectAll('path').style('stroke','var(--cyan)').style('stroke-width',1.5).style('fill','none');
+    reticleG.node().classList.add('on');
+    reticleG.style('opacity', 0.9);
+    reticleG._target = d;
+  }
+  function clearReticle() { reticleG.style('opacity', 0); reticleG._target = null; }
+
+  // Radar-ping: concentric ring from Main Agent every 3s
+  function emitPing() {
+    const m = nodes.find(n => n.id === 'main'); if (!m) return;
+    const p = g.insert('circle', ':first-child')
+      .attr('class','radar-ping')
+      .attr('cx', m.x).attr('cy', m.y).attr('r', 6);
+    setTimeout(() => p.remove(), 3600);
+  }
+  emitPing();
+  const pingInterval = setInterval(emitPing, 3000);
+
   sim.on('tick', () => {
     edgeSel.attr('x1', d => d.source.x).attr('y1', d => d.source.y)
       .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
     nodeSel.attr('transform', d => `translate(${d.x},${d.y})`);
+    // Update reticle if following a hovered target
+    if (reticleG._target) showReticle(reticleG._target);
   });
+
+  // Particle-Flow animation loop (synced with simulation)
+  function tickParticles() {
+    particles.forEach(p => {
+      p.t += p.speed / 60;
+      if (p.t > 1) p.t = 0;
+      const sx = p.link.source.x || 0, sy = p.link.source.y || 0;
+      const tx = p.link.target.x || 0, ty = p.link.target.y || 0;
+      p.circle.attr('cx', sx + (tx - sx) * p.t).attr('cy', sy + (ty - sy) * p.t);
+    });
+    requestAnimationFrame(tickParticles);
+  }
+  requestAnimationFrame(tickParticles);
 
   // Initial zoom-to-fit after settle
   setTimeout(() => {
@@ -686,6 +854,139 @@ document.getElementById('logList').innerHTML = LOG.map(l => `
   </div>
 `).join('');
 
+// ─── Cinematic: cursor spotlight ─────────────────────────────────────────
+let rafCursor = 0, targetMX = 50, targetMY = 50;
+document.addEventListener('pointermove', (e) => {
+  targetMX = (e.clientX / window.innerWidth) * 100;
+  targetMY = (e.clientY / window.innerHeight) * 100;
+  if (!rafCursor) rafCursor = requestAnimationFrame(updateCursor);
+});
+function updateCursor() {
+  document.body.style.setProperty('--mx', targetMX + '%');
+  document.body.style.setProperty('--my', targetMY + '%');
+  rafCursor = 0;
+}
+
+// ─── Cinematic: T+ live session clock ─────────────────────────────────────
+// Fake session start at 11:55 so T+ shows ~6h like the recorded session, then keeps ticking
+const sessionStart = new Date(); sessionStart.setHours(11, 55, 0, 0);
+const tplusEl = document.getElementById('tplus');
+function tickClock() {
+  const s = Math.max(0, Math.floor((Date.now() - sessionStart.getTime()) / 1000));
+  const h = String(Math.floor(s/3600)).padStart(2,'0');
+  const m = String(Math.floor(s/60)%60).padStart(2,'0');
+  const ss = String(s%60).padStart(2,'0');
+  if (tplusEl) tplusEl.textContent = `T+ ${h}:${m}:${ss}`;
+}
+tickClock(); setInterval(tickClock, 1000);
+
+// ─── Cinematic: stats count-up on load ───────────────────────────────────
+function animateCountup(el, end, duration = 1200) {
+  const start = performance.now();
+  const raw = el.textContent.trim();
+  const fn = (now) => {
+    const p = Math.min(1, (now - start) / duration);
+    const ease = 1 - Math.pow(1 - p, 3);
+    el.textContent = Math.floor(ease * end) + (raw.includes(' ') ? ' ' + raw.split(' ').slice(1).join(' ') : '');
+    if (p < 1) requestAnimationFrame(fn);
+    else el.textContent = raw;
+  };
+  requestAnimationFrame(fn);
+}
+const statBig = document.querySelector('.stat-big');
+if (statBig) {
+  const m = statBig.textContent.match(/(\d+)/);
+  if (m) animateCountup(statBig.childNodes[0], parseInt(m[1], 10));
+}
+
+// ─── Cinematic: Timeline Replay (Time-Machine Mode) ──────────────────────
+// Adds a Replay button that sweeps a playhead across the timeline and
+// lights up agent bars + PR diamonds in chronological order.
+function initTimelineReplay() {
+  const wrap = document.getElementById('tl-wrap');
+  if (!wrap || wrap._replayInit) return;
+  wrap._replayInit = true;
+
+  const btn = document.createElement('button');
+  btn.textContent = '▶ Replay 6h in 20s';
+  btn.className = 'tl-replay-btn';
+  btn.style.cssText = `
+    position: sticky; top: 0; left: 0; margin-bottom: 12px;
+    background: linear-gradient(135deg, rgba(255,56,104,.2), rgba(34,211,238,.15));
+    border: 1px solid rgba(255,56,104,.4);
+    color: var(--fg); padding: 8px 16px; border-radius: 8px;
+    font-size: 12px; font-weight: 600; cursor: pointer;
+    letter-spacing: .06em;
+    box-shadow: 0 0 20px rgba(255,56,104,.15);
+    transition: all .2s;
+  `;
+  btn.onmouseenter = () => { btn.style.filter = 'brightness(1.3)'; btn.style.boxShadow = '0 0 30px rgba(255,56,104,.35)'; };
+  btn.onmouseleave = () => { btn.style.filter = ''; btn.style.boxShadow = '0 0 20px rgba(255,56,104,.15)'; };
+  wrap.parentElement.insertBefore(btn, wrap);
+
+  const playhead = document.createElement('div');
+  playhead.className = 'tl-playhead';
+  playhead.style.cssText = `
+    position: absolute; top: 40px; bottom: 0; width: 2px; left: 200px;
+    background: linear-gradient(180deg, var(--rose), transparent);
+    box-shadow: 0 0 12px var(--rose), 0 0 30px var(--rose);
+    pointer-events: none; z-index: 5; opacity: 0;
+    transition: opacity .2s;
+  `;
+  wrap.style.position = 'relative';
+  wrap.appendChild(playhead);
+
+  btn.addEventListener('click', () => {
+    if (btn.dataset.playing) return;
+    btn.dataset.playing = '1';
+    btn.textContent = '■ Replay läuft…';
+    playhead.style.opacity = '1';
+    const track = wrap.querySelector('.tl-track');
+    if (!track) return;
+    const trackRect = track.getBoundingClientRect();
+    const wrapRect = wrap.getBoundingClientRect();
+    const labelW = 200;
+    const trackLeft = labelW;
+    const trackW = wrapRect.width - labelW;
+
+    // Dim all bars + diamonds, then light them up as playhead passes
+    const bars = wrap.querySelectorAll('.tl-bar');
+    const diamonds = wrap.querySelectorAll('.tl-diamond');
+    bars.forEach(b => { b.style.opacity = '0.2'; });
+    diamonds.forEach(d => { d.style.opacity = '0.2'; d.style.borderColor = 'transparent'; });
+
+    const DURATION = 20000;
+    const start = performance.now();
+    function step(now) {
+      const p = Math.min(1, (now - start) / DURATION);
+      const x = trackLeft + p * trackW;
+      playhead.style.left = x + 'px';
+      bars.forEach(b => {
+        const l = parseFloat(b.style.left);
+        if (l <= p * 100) b.style.opacity = '1';
+      });
+      diamonds.forEach(d => {
+        const ls = d.style.left;
+        const pct = parseFloat(ls.replace('calc(', '').replace('%', ''));
+        if (pct <= p * 100) { d.style.opacity = '1'; d.style.borderColor = 'var(--fg)'; }
+      });
+      if (p < 1) requestAnimationFrame(step);
+      else {
+        btn.textContent = '▶ Replay erneut';
+        delete btn.dataset.playing;
+        setTimeout(() => { playhead.style.opacity = '0'; }, 800);
+      }
+    }
+    requestAnimationFrame(step);
+  });
+}
+// Inject the Replay button after the timeline renders
+const originalRenderTimeline = renderTimeline;
+renderTimeline = function() {
+  originalRenderTimeline();
+  initTimelineReplay();
+};
+
 // ─── Responsive re-render overview on resize ─────────────────────────────
 let resizeTimer;
 window.addEventListener('resize', () => {
@@ -693,6 +994,7 @@ window.addEventListener('resize', () => {
   resizeTimer = setTimeout(() => {
     if (overviewRendered) {
       d3.select('#view-overview svg g').remove();
+      // Note: also remove defs to avoid duplicates — defs is in markup, not re-added
       overviewRendered = false;
       ensureOverview();
     }
