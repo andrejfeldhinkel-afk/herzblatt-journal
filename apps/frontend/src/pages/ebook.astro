@@ -18,6 +18,16 @@ const buyUrl = (
 ).trim();
 const hasLiveCheckout = buyUrl.length > 0;
 
+// Whop-Plan-ID für Embedded-Checkout (wird aus Default-URL extrahiert oder per Env überschrieben).
+// Whop rendert bei Existenz dieses Plan-IDs einen Inline-Iframe-Checkout auf unserer Seite —
+// kein Redirect, gespeicherte Whop-Karten werden automatisch wiedererkannt.
+const WHOP_PLAN_ID_DEFAULT = 'plan_SstCjxgym14Nn';
+const whopPlanId = (
+  import.meta.env.PUBLIC_WHOP_PLAN_ID_EBOOK ||
+  process.env.PUBLIC_WHOP_PLAN_ID_EBOOK ||
+  WHOP_PLAN_ID_DEFAULT
+).trim();
+
 // 15 Kapitel des Hauptbuchs
 const chapters = [
   { num: '01', title: 'Selbstkenntnis: Wer bist du — und was willst du wirklich?', desc: 'Die 30-Fragen-Werteanalyse und warum 80 % aller Dating-Fehler aus unklarer Selbstwahrnehmung entstehen.' },
@@ -67,6 +77,11 @@ const faqs = [
 ---
 
 <BaseLayout title={title} description={description}>
+
+  <!-- Whop Embedded Checkout Loader (rendert den Iframe anhand des data-whop-checkout-plan-id-Divs) -->
+  {hasLiveCheckout && (
+    <script is:inline async defer src="https://js.whop.com/static/checkout/loader.js"></script>
+  )}
 
   <!-- HERO -->
   <section class="relative overflow-hidden" style="background: linear-gradient(140deg, var(--color-primary-50) 0%, #fff 55%);">
@@ -420,22 +435,24 @@ const faqs = [
 
         {hasLiveCheckout ? (
           <>
-            <!-- Primary: Kreditkarte / PayPal / Apple Pay via Whop (Popup) -->
-            <button type="button"
-                    id="checkout-whop-btn"
-                    data-whop-url={buyUrl}
-                    data-track-buy="ebook"
-                    class="w-full inline-flex items-center justify-center gap-2 px-6 py-4 rounded-full text-base font-bold transition-all hover:shadow-xl hover:-translate-y-0.5 cursor-pointer"
-                    style="background: #1e293b; color: white; border: none;">
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
-              Jetzt kaufen — 89,99 €
-            </button>
-            <p class="text-[11px] opacity-80 mt-2 text-center">
-              💳 Kreditkarte · PayPal · Apple Pay · Google Pay
+            <!-- Whop Embedded Checkout (Kreditkarte/PayPal/Apple/Google Pay - bleibt auf unserer Seite) -->
+            <div class="rounded-xl overflow-hidden mb-4" style="background: white; min-height: 520px;">
+              <div
+                id="whop-embed-ebook"
+                data-whop-checkout-plan-id={whopPlanId}
+                data-whop-checkout-return-url="https://herzblatt-journal.com/ebook?status=success"
+                data-whop-checkout-theme="light"
+                data-whop-checkout-style-container-padding-x="0"
+                data-whop-checkout-on-complete="onWhopCheckoutComplete"
+                style="min-height: 520px;"
+              ></div>
+            </div>
+            <p class="text-[11px] opacity-80 mt-1 mb-3 text-center">
+              💳 Kreditkarte · PayPal · Apple Pay · Google Pay — sichere Zahlung über Whop
             </p>
 
             <!-- Divider -->
-            <div class="flex items-center gap-3 my-5">
+            <div class="flex items-center gap-3 my-4">
               <div class="flex-1 h-px" style="background: rgba(255,255,255,0.25);"></div>
               <span class="text-[11px] opacity-70 uppercase tracking-wider">oder</span>
               <div class="flex-1 h-px" style="background: rgba(255,255,255,0.25);"></div>
@@ -576,27 +593,16 @@ const faqs = [
       } catch { /* noop */ }
     }
 
-    // Whop — öffnet Checkout in zentriertem Popup-Window (User bleibt visuell auf /ebook)
-    const whopBtn = document.getElementById('checkout-whop-btn');
-    whopBtn?.addEventListener('click', (e) => {
-      e.preventDefault();
-      const url = whopBtn.getAttribute('data-whop-url');
-      if (!url) return;
-      trackEbookBuyClick('ebook-buy-whop');
-      const w = 520;
-      const h = 740;
-      const left = Math.max(0, (window.screen.width - w) / 2);
-      const top = Math.max(0, (window.screen.height - h) / 2);
-      const popup = window.open(
-        url,
-        'whop_checkout',
-        `width=${w},height=${h},left=${left},top=${top},resizable=yes,scrollbars=yes`,
-      );
-      // Popup blocked? Fallback: gleiches Tab
-      if (!popup || popup.closed || typeof popup.closed === 'undefined') {
-        window.location.href = url;
-      }
-    });
+    // Whop — Embedded Checkout. Erfolg-Callback wird durch data-whop-checkout-on-complete ausgelöst.
+    // Wir definieren die Funktion global, damit loader.js sie aufrufen kann.
+    window.onWhopCheckoutComplete = function (planId, receiptId) {
+      trackEbookBuyClick('ebook-buy-whop-complete');
+      const url = new URL(window.location.href);
+      url.searchParams.set('status', 'success');
+      if (receiptId) url.searchParams.set('receipt', String(receiptId));
+      url.hash = '';
+      window.location.href = url.toString();
+    };
 
     // Micropayment — Backend signiert URL, dann Redirect
     async function startMicropaymentCheckout(method) {
