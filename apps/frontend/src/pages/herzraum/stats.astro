@@ -1,0 +1,101 @@
+---
+export const prerender = false;
+
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+---
+<HerzraumLayout title="KPI-Übersicht" active="overview">
+  <section class="hz-kpi-grid">
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Umsatz · letzte 7 Tage</div>
+      <div class="hz-kpi-value" id="kpi-revenue-7d">—</div>
+      <div class="hz-kpi-delta flat" id="kpi-revenue-sub">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">E-Book Conversion · 7 Tage</div>
+      <div class="hz-kpi-value" id="kpi-conversion">—</div>
+      <div class="hz-kpi-delta flat" id="kpi-conversion-sub">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Top Artikel · 7 Tage</div>
+      <div class="hz-kpi-value" id="kpi-top-article">—</div>
+      <div class="hz-kpi-delta flat" id="kpi-top-article-sub">—</div>
+    </div>
+  </section>
+
+  <div class="hz-card" style="margin-top: 1rem;">
+    <h3>Top 3 Artikel · letzte 7 Tage</h3>
+    <table class="hz-table" id="table-top3-articles">
+      <thead><tr><th>#</th><th>Pfad</th><th class="right">Aufrufe</th></tr></thead>
+      <tbody><tr><td colspan="3" class="muted">Lade…</td></tr></tbody>
+    </table>
+  </div>
+
+  <script is:inline>
+    (function() {
+      const BASE = '/api/herzraum/stats/kpi-summary';
+
+      function fmtEur(cents) {
+        const n = Number(cents || 0) / 100;
+        return n.toLocaleString('de-DE', { style: 'currency', currency: 'EUR' });
+      }
+
+      async function load() {
+        try {
+          const res = await fetch(BASE, { cache: 'no-store' });
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          const d = await res.json();
+          if (!d.ok) throw new Error('API error');
+
+          // Revenue-Widget
+          const revEl = document.getElementById('kpi-revenue-7d');
+          const revSub = document.getElementById('kpi-revenue-sub');
+          if (revEl) revEl.textContent = fmtEur(d.revenue.cents);
+          if (revSub) {
+            const n = d.revenue.purchasesCount || 0;
+            revSub.textContent = n === 1 ? '1 Kauf' : n.toLocaleString('de-DE') + ' Käufe';
+          }
+
+          // Conversion-Widget
+          const convEl = document.getElementById('kpi-conversion');
+          const convSub = document.getElementById('kpi-conversion-sub');
+          if (convEl) convEl.textContent = (d.conversion.ratePercent || 0).toLocaleString('de-DE', { maximumFractionDigits: 2 }) + ' %';
+          if (convSub) {
+            convSub.textContent = (d.conversion.ebookClicks || 0).toLocaleString('de-DE')
+              + ' Klicks / ' + (d.conversion.ebookPageviews || 0).toLocaleString('de-DE') + ' Views';
+          }
+
+          // Top-Artikel-Widget (Platz 1)
+          const topArts = Array.isArray(d.topArticles) ? d.topArticles : [];
+          const top = topArts[0];
+          const topEl = document.getElementById('kpi-top-article');
+          const topSub = document.getElementById('kpi-top-article-sub');
+          if (topEl) topEl.textContent = top ? top.slug : '—';
+          if (topSub) topSub.textContent = top ? (top.count.toLocaleString('de-DE') + ' Aufrufe') : 'Noch keine Daten';
+
+          // Tabelle der Top-3
+          const tbody = document.querySelector('#table-top3-articles tbody');
+          if (tbody) {
+            if (!topArts.length) {
+              tbody.innerHTML = '<tr><td colspan="3" class="muted">Keine Daten</td></tr>';
+            } else {
+              tbody.innerHTML = topArts.map((a, i) => {
+                const slug = a.slug || '—';
+                const safeSlug = slug.replace(/</g, '&lt;').replace(/>/g, '&gt;');
+                return '<tr><td class="muted">' + (i + 1) + '</td>'
+                  + '<td><a href="' + safeSlug + '" target="_blank" rel="noopener">' + safeSlug + '</a></td>'
+                  + '<td class="right">' + a.count.toLocaleString('de-DE') + '</td></tr>';
+              }).join('');
+            }
+          }
+        } catch (e) {
+          console.error('[stats] load failed:', e);
+          const tbody = document.querySelector('#table-top3-articles tbody');
+          if (tbody) tbody.innerHTML = '<tr><td colspan="3" class="muted">Fehler beim Laden</td></tr>';
+        }
+      }
+
+      load();
+      setInterval(load, 60_000);
+    })();
+  </script>
+</HerzraumLayout>

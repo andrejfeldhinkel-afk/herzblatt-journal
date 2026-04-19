@@ -1,10 +1,15 @@
 import type { MiddlewareHandler } from 'hono';
 import crypto from 'node:crypto';
 import { extractTokenFromCookie, verifySession } from './session.js';
+import { ensureCsrfCookie } from './csrf.js';
 
 /**
  * Hono-Middleware: Prüft Cookie-Session. Bei ungültig → 401 JSON.
  * Usage: app.use('/herzraum/*', requireSession);
+ *
+ * Setzt bei gültiger Session auch das CSRF-Cookie (double-submit pattern).
+ * GET-Requests triggern damit zuverlässig einen frischen Token, noch bevor
+ * das Frontend die erste Mutation sendet.
  */
 export const requireSession: MiddlewareHandler = async (c, next) => {
   const token = extractTokenFromCookie(c.req.header('cookie'));
@@ -12,6 +17,8 @@ export const requireSession: MiddlewareHandler = async (c, next) => {
   if (!ok) {
     return c.json({ error: 'Unauthorized' }, 401);
   }
+  // CSRF-Cookie refreshen bzw. initial setzen
+  ensureCsrfCookie(c);
   await next();
 };
 
