@@ -60,7 +60,6 @@ const faqs = [
   { q: 'Wie lange dauert es, die Methode durchzuarbeiten?', a: 'Das Hauptbuch liest sich in 6–8 Stunden. Wer die Übungen mitmacht, arbeitet meist 4–6 Wochen intensiv damit. Danach dient es als Nachschlagewerk — du wirst immer wieder zurückkehren.' },
   { q: 'Was bekomme ich nach dem Kauf?', a: 'Sofort nach Zahlung erhältst du per E-Mail einen Zugang zu deinem Kundenbereich. Dort findest du das Hauptbuch als PDF, das Workbook, alle Bonus-Materialien und deine persönlichen Updates.' },
   { q: 'Ist das Buch auch für Männer geeignet?', a: 'Ja. Die Methode ist bewusst geschlechterneutral formuliert. Jedes Kapitel ist für Männer und Frauen gleichermaßen relevant. Die Beispiele wechseln zwischen männlichen und weiblichen Perspektiven.' },
-  { q: 'Was, wenn es mir nicht gefällt?', a: 'Du hast 30 Tage volle Geld-zurück-Garantie, ohne Wenn und Aber. Eine kurze E-Mail an service@herzblatt-journal.com — und du bekommst den vollen Kaufpreis zurück. Ohne Rückfragen.' },
   { q: 'Gibt es einen Ratenkauf?', a: 'Ja. Alternativ zur Einmalzahlung von 89,99 € kannst du in 3 Raten à 32,99 € zahlen. Die Option wählst du im Checkout.' },
   { q: 'Ersetzt das Buch eine Paartherapie?', a: 'Nein, und das will es auch nicht. Die Herzblatt-Methode ist eine Selbst-Bildungs-Ressource. In Krisenzeiten oder bei ernsten Konflikten empfehlen wir immer professionelle Begleitung — das Buch kann sie ergänzen, aber nicht ersetzen.' },
   { q: 'Wer steckt hinter der Methode?', a: 'Die Methode wurde von unserer Chefredakteurin Sarah Kellner entwickelt, gemeinsam mit Dr. Thomas Peters (Psychologe) und dem Dating-Coach Markus Hoffmann. Sie basiert auf über 1.800 recherchierten Artikeln und den Fragen von Tausenden Lesern.' },
@@ -96,10 +95,6 @@ const faqs = [
               <span class="font-semibold" style="color: var(--text);">4,8/5</span>
               <span>(342 Bewertungen)</span>
             </div>
-            <div class="flex items-center gap-1.5">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6 9 17l-5-5"/></svg>
-              <span>30 Tage Geld-zurück</span>
-            </div>
           </div>
 
           <!-- Preis + CTA -->
@@ -113,7 +108,7 @@ const faqs = [
               Jetzt Zugang sichern
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
             </a>
-            <p class="text-xs text-center mt-3" style="color: var(--text-muted);">Sofortzugang · Sichere Zahlung · 30 Tage Rückgaberecht</p>
+            <p class="text-xs text-center mt-3" style="color: var(--text-muted);">Sofortzugang · Sichere Zahlung</p>
           </div>
 
           <p class="text-xs" style="color: var(--text-muted);">
@@ -382,22 +377,6 @@ const faqs = [
     </div>
   </section>
 
-  <!-- GARANTIE -->
-  <section class="py-16 sm:py-20" style="background: linear-gradient(180deg, var(--color-primary-50), #fff);">
-    <div class="max-w-2xl mx-auto px-4 sm:px-6">
-      <div class="rounded-2xl p-8 sm:p-10 text-center" style="background: var(--bg-card); border: 2px solid var(--color-primary-200); box-shadow: 0 12px 40px rgba(244,63,94,0.08);">
-        <div class="w-20 h-20 rounded-full mx-auto mb-6 flex items-center justify-center" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700));">
-          <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12 2 2 4-4"/></svg>
-        </div>
-        <span class="inline-block text-xs font-bold uppercase tracking-wider mb-3" style="color: var(--color-primary-600);">Unsere Garantie</span>
-        <h2 class="text-2xl sm:text-3xl font-extrabold mb-4" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;">30 Tage. Volle Zufriedenheit. Ohne Risiko.</h2>
-        <p class="text-base leading-relaxed" style="color: var(--text-muted);">
-          Probiere die Herzblatt-Methode 30 Tage lang aus. Wenn sie dich nicht überzeugt — aus welchem Grund auch immer — schreib eine kurze E-Mail und bekomm deinen vollen Kaufpreis zurück. Keine Rückfragen, keine Formulare, keine Diskussion.
-        </p>
-      </div>
-    </div>
-  </section>
-
   <!-- FAQ -->
   <section class="py-16 sm:py-20">
     <div class="max-w-3xl mx-auto px-4 sm:px-6">
@@ -437,7 +416,7 @@ const faqs = [
           <span class="text-2xl line-through opacity-60">149 €</span>
           <span class="text-5xl sm:text-6xl font-extrabold" style="font-family: var(--font-serif);">89,99 €</span>
         </div>
-        <p class="text-sm opacity-80 mb-6">einmalige Zahlung · lebenslanger Zugang · 30 Tage Rückgabe</p>
+        <p class="text-sm opacity-80 mb-6">einmalige Zahlung · lebenslanger Zugang</p>
 
         {hasLiveCheckout ? (
           <>
@@ -483,7 +462,7 @@ const faqs = [
             </div>
             <p id="checkout-error" class="hidden text-xs mt-3 text-center" style="color: #fecaca;"></p>
             <p class="text-[11px] opacity-70 mt-4 text-center">
-              Sichere Zahlung · 30 Tage Geld-zurück-Garantie · Sofortiger Download nach Kauf
+              Sichere Zahlung · Sofortiger Download nach Kauf
             </p>
           </>
         ) : (
@@ -508,10 +487,6 @@ const faqs = [
         <div class="flex items-center gap-1.5">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
           <span>Sichere Zahlung</span>
-        </div>
-        <div class="flex items-center gap-1.5">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6 9 17l-5-5"/></svg>
-          <span>30 Tage Geld-zurück</span>
         </div>
         <div class="flex items-center gap-1.5">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" x2="12" y1="15" y2="3"/></svg>
