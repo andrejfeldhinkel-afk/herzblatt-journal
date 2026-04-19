@@ -54,7 +54,6 @@ export default defineConfig({
       !page.match(/\/blog\/\d+/) &&
       !page.includes('/404') &&
       !page.includes('/suche') &&
-      !page.includes('/quiz') &&
       !page.includes('/dating-typ-test') &&
       !page.includes('/herzraum'),
     changefreq: 'weekly',
@@ -109,6 +108,8 @@ export default defineConfig({
     },
   })],
   redirects: {
+    // Quiz consolidation (2026-04-19): /quiz war Duplikat von /dating-typ-test
+    '/quiz': { status: 301, destination: '/dating-typ-test' },
     // Existing redirects
     '/review/michverlieben': { status: 301, destination: '/blog/michverlieben-test-erfahrungen' },
     '/review/onlydates69': { status: 301, destination: '/blog/onlydates69-test-erfahrungen' },
