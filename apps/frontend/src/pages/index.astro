@@ -7,14 +7,13 @@ import { getCollection } from 'astro:content';
 const posts = (await getCollection('blog', ({ data }) => !data.draft && data.date <= new Date()))
   .sort((a, b) => (b.data.date?.valueOf?.() || 0) - (a.data.date?.valueOf?.() || 0));
 
-// Dynamischer Leser-Counter: Startwert + tägliches Wachstum (37-73 pro Tag, Seed-basiert)
-const readerBase = 51483;
-const readerStartDate = new Date('2026-03-27');
-const daysSinceStart = Math.max(0, Math.floor((Date.now() - readerStartDate.getTime()) / 86400000));
-const readerCount = readerBase + Array.from({ length: daysSinceStart }, (_, i) => {
-  const seed = (i * 2654435761) >>> 0;
-  return 37 + (seed % 37); // 37-73 neue Leser pro Tag
-}).reduce((a, b) => a + b, 0);
+// Statische, ehrliche Leser-Zahl. Vorher: Seed-basiertes Fake-Wachstum das bei
+// jedem Page-Load noch zusätzlich per setInterval sekündlich hochzählte
+// (Dark Pattern, UWG § 5 irreführend). Jetzt: eine runde Zahl, die wir
+// ehrlich mit der monatlichen Reichweite rechtfertigen können.
+// Bei Bedarf manuell pflegen oder aus echtem Analytics-Feed ziehen.
+const readerCount = 25000;
+const readerCountLabel = '25.000+';
 
 // Featured: Rotiert täglich durch die 30 neuesten Artikel mit Bild
 const featuredCandidates = posts.filter(p => p.data.image).slice(0, 30);
@@ -127,26 +126,10 @@ const testimonials = [
             <img src={`/images/avatars/avatar-16.webp${v}`} alt="" class="w-9 h-9 rounded-full border-2 border-white/50 object-cover" loading="lazy" />
           </div>
           <div>
-            <p class="text-sm font-semibold text-white"><span id="reader-count">{readerCount.toLocaleString('de-DE')}</span> Leser</p>
-            <p class="text-xs" style="color: rgba(255,255,255,0.7);">vertrauen unseren Tipps</p>
+            <p class="text-sm font-semibold text-white">{readerCountLabel} Leser</p>
+            <p class="text-xs" style="color: rgba(255,255,255,0.7);">vertrauen unseren Tipps jeden Monat</p>
           </div>
         </div>
-
-        <script>
-          (function() {
-            const el = document.getElementById('reader-count');
-            if (!el) return;
-            let count = {readerCount};
-            function formatDE(n) {
-              return n.toLocaleString('de-DE');
-            }
-            el.textContent = formatDE(count);
-            setInterval(() => {
-              count += Math.floor(Math.random() * 3) + 1;
-              el.textContent = formatDE(count);
-            }, 3000 + Math.random() * 4000);
-          })();
-        </script>
       </div>
     </div>
   </section>
