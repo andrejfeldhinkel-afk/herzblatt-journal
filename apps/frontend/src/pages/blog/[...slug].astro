@@ -8,6 +8,7 @@ import RelatedArticles from '../../components/RelatedArticles.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
 import RatingWidget from '../../components/RatingWidget.astro';
 import AuthorBioBox from '../../components/AuthorBioBox.astro';
+import BrandAlternativeBanner from '../../components/BrandAlternativeBanner.astro';
 import { getCollection, render } from 'astro:content';
 import { getAuthor } from '../../data/authors';
 
@@ -176,10 +177,12 @@ const BRAND_META: Record<string, { name: string; url: string; type?: string }> =
 };
 
 let review: any = undefined;
+let reviewBrandKey: string | undefined;
 if (isReviewArticle) {
   const fmReview = (post.data as any).review;
   const slug = post.id.replace(/\.md$/, '');
   const brandKey = slug.replace(/-test-erfahrungen$/, '').replace(/-kosten-premium$/, '');
+  reviewBrandKey = brandKey;
   const brand = BRAND_META[brandKey];
 
   if (fmReview || brand) {
@@ -323,6 +326,14 @@ if (isReviewArticle) {
               </ul>
             </nav>
           </details>
+        )}
+
+        <!-- Brand-Alternative-Banner (sticky bottom, Conversion-Hebel) -->
+        {review && reviewBrandKey && (
+          <BrandAlternativeBanner
+            brandKey={reviewBrandKey}
+            brandName={review.itemName}
+          />
         )}
 
         <!-- Author-Bio-Box (E-E-A-T-Signale: Credentials, Qualifikationen, Trust-Line) -->
