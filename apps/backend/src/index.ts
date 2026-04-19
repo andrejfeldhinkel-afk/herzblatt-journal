@@ -65,6 +65,7 @@ import adminMetricsRoute from './routes/admin/metrics.js';
 import adminBackupRoute from './routes/admin/backup.js';
 import adminGdprRoute from './routes/admin/gdpr.js';
 import adminPurchasesCsvRoute from './routes/admin/purchases-csv.js';
+import adminEbookDripRoute from './routes/admin/ebook-drip.js';
 
 // Middleware
 import { requireSession, requireAdminToken } from './lib/auth-middleware.js';
@@ -190,6 +191,7 @@ app.route('/admin/sendgrid', adminSendgridRoute);
 app.route('/admin/metrics', adminMetricsRoute);
 app.route('/admin/backup.json', adminBackupRoute);
 app.route('/admin/gdpr', adminGdprRoute);
+app.route('/admin/cron/ebook-drip', adminEbookDripRoute);
 
 // Globaler Error-Handler → Sentry + JSON-Response
 app.onError(async (err, c) => {

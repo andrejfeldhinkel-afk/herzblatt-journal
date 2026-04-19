@@ -363,6 +363,41 @@ export const pushBroadcasts = pgTable(
 );
 
 /**
+ * EbookDripSchedule — geplante Drip-Mails nach Ebook-Kauf.
+ *
+ * Bei erfolgreichem Kauf legen die Webhook-Handler drei Rows an:
+ *   drip_step='day1'  scheduled_for=NOW() + 1d
+ *   drip_step='day7'  scheduled_for=NOW() + 7d
+ *   drip_step='day30' scheduled_for=NOW() + 30d
+ *
+ * Der Cron /admin/cron/ebook-drip (täglich) liest alle Rows mit
+ *   scheduled_for <= NOW() AND sent_at IS NULL
+ * und sendet sie. Bei Erfolg wird sent_at gesetzt.
+ *
+ * Idempotenz: UNIQUE(email, drip_step) verhindert doppelte Planung.
+ * Die Cron-Selektion nutzt den partial Index ebook_drip_due_idx für
+ * einen effizienten Sweep auch bei hunderttausend Rows.
+ */
+export const ebookDripSchedule = pgTable(
+  'ebook_drip_schedule',
+  {
+    id: serial('id').primaryKey(),
+    email: text('email').notNull(),
+    dripStep: text('drip_step').notNull(), // 'day1' | 'day7' | 'day30'
+    scheduledFor: timestamp('scheduled_for', { withTimezone: true }).notNull(),
+    sentAt: timestamp('sent_at', { withTimezone: true }),
+    attempts: bigint('attempts', { mode: 'number' }).notNull().default(0),
+    lastError: text('last_error'),
+    createdAt: timestamp('created_at', { withTimezone: true }).defaultNow().notNull(),
+  },
+  (t) => ({
+    emailIdx: index('ebook_drip_email_idx').on(t.email),
+    // Partial unique: (email, drip_step) — ein Step pro Käufer.
+    emailStepUnique: uniqueIndex('ebook_drip_email_step_unique').on(t.email, t.dripStep),
+  }),
+);
+
+/**
  * AffiliateLinks — Benannte Short-URLs mit Traffic-Tracking.
  *
  * Zweck: User erstellt Short-URLs wie /go/tiktok-apr-26 und postet sie
