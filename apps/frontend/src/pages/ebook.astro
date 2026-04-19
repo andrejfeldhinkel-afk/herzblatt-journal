@@ -506,7 +506,23 @@ const faqs = [
           <span class="text-2xl line-through opacity-60">149 €</span>
           <span class="text-5xl sm:text-6xl font-extrabold" style="font-family: var(--font-serif);">89,99 €</span>
         </div>
-        <p class="text-sm opacity-80 mb-6">einmalige Zahlung · lebenslanger Zugang</p>
+        <p class="text-sm opacity-80 mb-3">einmalige Zahlung · lebenslanger Zugang</p>
+
+        <!--
+          Social-Proof-Counter — ECHTE Zahlen (keine Fake, kein Math.random).
+          Backend-Route /api/ebook/recent-buyers liefert COUNT(*) aus purchases
+          der letzten 24h. Client-Fetch on-page-load, schöner Fade-In.
+          Bei count > 0: "🔥 {n} Käufer in den letzten 24h".
+          Bei count === 0: "Sichere dir Frühbucher-Vorteile" (neutral, UWG-konform).
+        -->
+        <div
+          id="ebook-social-proof"
+          class="mb-5"
+          style="opacity: 0; transition: opacity 400ms ease-out; min-height: 1.25rem;"
+          aria-live="polite"
+        >
+          <p id="ebook-social-proof-text" class="text-xs sm:text-sm font-semibold" style="color: rgba(255,255,255,0.95);"></p>
+        </div>
 
         {hasLiveCheckout ? (
           <>
@@ -892,6 +908,34 @@ const faqs = [
     document
       .getElementById('checkout-paysafe-btn')
       ?.addEventListener('click', () => startMicropaymentCheckout('paysafe'));
+
+    // Social-Proof-Counter — fetcht echte Kauf-Zahl der letzten 24h.
+    // Wenn count > 0: "🔥 N Käufer in den letzten 24h"
+    // Wenn count === 0: "✨ Sichere dir Frühbucher-Vorteile" (neutral)
+    // Kein Fake, kein Math.random, kein Dark-Pattern — UWG § 5-konform.
+    (function setupSocialProof() {
+      const wrap = document.getElementById('ebook-social-proof');
+      const txt = document.getElementById('ebook-social-proof-text');
+      if (!wrap || !txt) return;
+
+      fetch('/api/ebook/recent-buyers', {
+        method: 'GET',
+        headers: { Accept: 'application/json' },
+      })
+        .then((res) => (res.ok ? res.json() : null))
+        .then((data) => {
+          if (!data || typeof data.count !== 'number') return;
+          const count = Math.max(0, Math.floor(data.count));
+          if (count > 0) {
+            const label = count === 1 ? 'Käufer' : 'Käufer';
+            txt.textContent = '🔥 ' + count + ' ' + label + ' in den letzten 24h';
+          } else {
+            txt.textContent = '✨ Sichere dir Frühbucher-Vorteile';
+          }
+          wrap.style.opacity = '1';
+        })
+        .catch(() => { /* silent — UI bleibt leer, kein Broken-Look */ });
+    })();
 
     // Exit-Intent-Modal — Desktop-only, Feature-flagged über Präsenz des Modal-Nodes.
     // Trigger: mousemove mit clientY<10 und !relatedTarget.

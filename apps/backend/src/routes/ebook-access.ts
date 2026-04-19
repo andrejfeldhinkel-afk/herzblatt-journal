@@ -16,7 +16,7 @@
  * ENV: EBOOK_ACCESS_SECRET (min 32 chars) — MUSS gesetzt sein, sonst 500.
  */
 import { Hono } from 'hono';
-import { eq, and } from 'drizzle-orm';
+import { eq, and, gte, inArray, sql } from 'drizzle-orm';
 import { db, schema } from '../db/index.js';
 import {
   buildEbookAccessUrl,
@@ -25,7 +25,7 @@ import {
   verifyEbookToken,
 } from '../lib/ebook-access.js';
 import { sendEbookDeliveryEmail, isSendGridEnabled } from '../lib/sendgrid.js';
-import { allowRequest } from '../lib/rate-limit.js';
+import { allowRequest, allowPublicApi } from '../lib/rate-limit.js';
 import { getClientIp, hashIp } from '../lib/crypto.js';
 import { redactEmail } from '../lib/log-helpers.js';
 import { captureError } from '../lib/sentry.js';
@@ -235,11 +235,61 @@ app.get('/session', async (c) => {
  * Nicht public exponiert — keine route, nur Helper.
  */
 
+/**
+ * GET /api/ebook/recent-buyers — Public Social-Proof-Counter.
+ *
+ * Liefert die echte Anzahl der bezahlten Ebook-Käufe der letzten 24h
+ * (NICHT gefaked, UWG § 5-konform). Frontend nutzt das für den
+ * "🔥 {count} Käufer in den letzten 24h"-Hinweis auf /ebook.
+ *
+ * Filter:
+ *   - status = 'paid' (ohne refunded / chargeback)
+ *   - product IN ('ebook', 'herzblatt-methode', 'whop-ebook')
+ *   - created_at > NOW() - INTERVAL '24 hours'
+ *
+ * Response: { ok: true, count: number }
+ * Keine PII im Response — nur aggregierter Count.
+ *
+ * Cache: 30s public/CDN — Social-Proof darf kurz stale sein.
+ * Rate-Limit: shared Public-API (60 req/min/IP).
+ */
+const EBOOK_PRODUCT_IDS = ['ebook', 'herzblatt-methode', 'whop-ebook'];
+
+app.get('/recent-buyers', async (c) => {
+  const ip = getClientIp(c.req.raw, c.req.raw.headers);
+  if (!allowPublicApi(hashIp(ip))) {
+    return c.json({ ok: false, error: 'rate-limit' }, 429);
+  }
+
+  const since = new Date(Date.now() - 24 * 60 * 60 * 1000);
+
+  try {
+    const [row] = await db
+      .select({ count: sql<number>`count(*)::int` })
+      .from(schema.purchases)
+      .where(
+        and(
+          eq(schema.purchases.status, 'paid'),
+          inArray(schema.purchases.product, EBOOK_PRODUCT_IDS),
+          gte(schema.purchases.createdAt, since),
+        ),
+      );
+
+    const count = Number(row?.count || 0);
+    c.header('Cache-Control', 'public, max-age=30, s-maxage=30');
+    return c.json({ ok: true, count });
+  } catch (err) {
+    console.error('[ebook-recent-buyers] db error:', err);
+    // Fail-graceful: count=0 → Frontend rendert neutralen Text statt Broken-UI.
+    return c.json({ ok: true, count: 0 });
+  }
+});
+
 // GET / — setup-check
 app.get('/', (c) => {
   return c.json({
     ok: true,
-    info: 'Ebook-Access endpoints. POST /request-access + GET /verify + GET /session.',
+    info: 'Ebook-Access endpoints. POST /request-access + GET /verify + GET /session + GET /recent-buyers.',
     secretConfigured: !!process.env.EBOOK_ACCESS_SECRET,
   });
 });
