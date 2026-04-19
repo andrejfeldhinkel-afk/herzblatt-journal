@@ -14,6 +14,7 @@ export interface Props {
     | 'artikel'
     | 'templates'
     | 'email-templates'
+    | 'newsletter-broadcasts'
     | 'inbox'
     | 'bilder'
     | 'autoren'
@@ -66,9 +67,10 @@ const navSections = [
   {
     heading: 'Kommunikation',
     items: [
-      { key: 'inbox',             href: '/herzraum/inbox',           label: 'Postfach',        icon: 'inbox' },
-      { key: 'newsletter',        href: '/herzraum/newsletter',      label: 'Newsletter',      icon: 'mail' },
-      { key: 'email-templates',   href: '/herzraum/email-templates', label: 'Email-Templates', icon: 'envelope' },
+      { key: 'inbox',             href: '/herzraum/inbox',                  label: 'Postfach',        icon: 'inbox' },
+      { key: 'newsletter',        href: '/herzraum/newsletter',             label: 'Newsletter',      icon: 'mail' },
+      { key: 'newsletter-broadcasts', href: '/herzraum/newsletter-broadcasts', label: 'Broadcasts',   icon: 'mail' },
+      { key: 'email-templates',   href: '/herzraum/email-templates',        label: 'Email-Templates', icon: 'envelope' },
       { key: 'push',              href: '/herzraum/push',            label: 'Push & App',      icon: 'bell' },
       { key: 'leser',             href: '/herzraum/leser',           label: 'Leser',           icon: 'users' },
     ],
