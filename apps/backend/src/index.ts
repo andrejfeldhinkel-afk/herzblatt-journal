@@ -18,6 +18,9 @@ import unsubscribeRoute from './routes/unsubscribe.js';
 import inboundEmailRoute from './routes/inbound-email.js';
 import productsPublicRoute from './routes/products.js';
 import pushRoute from './routes/push.js';
+import micropaymentCheckoutRoute from './routes/micropayment-checkout.js';
+import micropaymentWebhookRoute from './routes/micropayment-webhook.js';
+import whopWebhookRoute from './routes/whop-webhook.js';
 
 // Runtime-Migrations
 import { runStartupMigrations } from './db/migrate.js';
@@ -85,6 +88,11 @@ app.route('/inbound-email', inboundEmailRoute);
 app.route('/products', productsPublicRoute);
 app.route('/push', pushRoute);
 app.route('/go', goRoute);
+
+// Checkout + Payment-Webhooks
+app.route('/api/checkout/micropayment', micropaymentCheckoutRoute);
+app.route('/api/webhooks/micropayment', micropaymentWebhookRoute);
+app.route('/api/webhooks/whop', whopWebhookRoute);
 
 // Auth Routes (eigene security)
 app.route('/auth', authRoute);
