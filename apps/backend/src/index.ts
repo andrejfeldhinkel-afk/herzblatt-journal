@@ -53,6 +53,7 @@ import herzraumProductsRoute from './routes/herzraum/products.js';
 import herzraumTodosRoute from './routes/herzraum/todos.js';
 import herzraumPushRoute from './routes/herzraum/push.js';
 import herzraumAffiliateLinksRoute from './routes/herzraum/affiliate-links.js';
+import herzraumAffiliateCodesRoute from './routes/herzraum/affiliate-codes.js';
 
 // Public Short-URL-Endpoint (für /go/:slug Klicks)
 import goRoute from './routes/go.js';
@@ -65,6 +66,7 @@ import adminMetricsRoute from './routes/admin/metrics.js';
 import adminBackupRoute from './routes/admin/backup.js';
 import adminGdprRoute from './routes/admin/gdpr.js';
 import adminPurchasesCsvRoute from './routes/admin/purchases-csv.js';
+import adminEbookDripRoute from './routes/admin/ebook-drip.js';
 
 // Middleware
 import { requireSession, requireAdminToken } from './lib/auth-middleware.js';
@@ -180,6 +182,7 @@ app.route('/herzraum/products', herzraumProductsRoute);
 app.route('/herzraum/todos', herzraumTodosRoute);
 app.route('/herzraum/push', herzraumPushRoute);
 app.route('/herzraum/affiliate-links', herzraumAffiliateLinksRoute);
+app.route('/herzraum/affiliate-codes', herzraumAffiliateCodesRoute);
 
 // Admin — bearer token
 app.use('/admin/*', requireAdminToken);
@@ -190,6 +193,7 @@ app.route('/admin/sendgrid', adminSendgridRoute);
 app.route('/admin/metrics', adminMetricsRoute);
 app.route('/admin/backup.json', adminBackupRoute);
 app.route('/admin/gdpr', adminGdprRoute);
+app.route('/admin/cron/ebook-drip', adminEbookDripRoute);
 
 // Globaler Error-Handler → Sentry + JSON-Response
 app.onError(async (err, c) => {

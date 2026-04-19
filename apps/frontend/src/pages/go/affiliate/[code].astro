@@ -1,0 +1,73 @@
+---
+/**
+ * /go/affiliate/<code> — Affiliate-Klick-Redirect.
+ *
+ * Wird von Käufern in Social-Media/Bios geteilt. Wir:
+ *   1. Prüfen Code im Backend (404 → Home)
+ *   2. Setzen signierten Cookie hb_ref=<code>.<hmac> (30 Tage)
+ *   3. Redirecten auf /ebook?ref=<code>
+ *
+ * Kein HTML-Body — SSR Redirect in einem Round-Trip.
+ */
+export const prerender = false;
+
+const code = (Astro.params.code || '').toLowerCase();
+
+function homeRedirect() {
+  return Astro.redirect('/', 302);
+}
+
+// Code-Format: 6-16 Zeichen a-z0-9 (strikter als go/:slug; Codes haben
+// immer 8, aber wir lassen Puffer für evtl. zukünftige Längen).
+if (!code || !/^[a-z0-9]{6,16}$/.test(code)) {
+  return homeRedirect();
+}
+
+const PROD_BACKEND = 'https://backend-production-c327.up.railway.app';
+const BACKEND_URL = (
+  (typeof process !== 'undefined' && process.env?.BACKEND_URL) ||
+  (import.meta as any).env?.BACKEND_URL ||
+  PROD_BACKEND
+).replace(/\/$/, '');
+
+const referrer = Astro.request.headers.get('referer') || '';
+
+let targetUrl: string | null = null;
+let setCookie: string | null = null;
+
+try {
+  const res = await fetch(`${BACKEND_URL}/go/affiliate/${code}`, {
+    method: 'POST',
+    headers: {
+      'content-type': 'application/json',
+      // Referer-Header für Source-Tracking im Backend
+      ...(referrer ? { referer: referrer } : {}),
+    },
+    body: JSON.stringify({ referrer }),
+    signal: AbortSignal.timeout(3500),
+  });
+
+  if (res.ok) {
+    const data = await res.json().catch(() => null);
+    if (data?.ok && typeof data.targetUrl === 'string') {
+      targetUrl = data.targetUrl;
+    }
+    if (data?.setCookie && typeof data.setCookie === 'string') {
+      setCookie = data.setCookie;
+    }
+  }
+} catch (err) {
+  console.error('[go/affiliate] backend lookup failed:', err);
+}
+
+if (!targetUrl) {
+  return homeRedirect();
+}
+
+const headers: HeadersInit = { Location: targetUrl };
+if (setCookie) {
+  (headers as Record<string, string>)['Set-Cookie'] = setCookie;
+}
+
+return new Response(null, { status: 302, headers });
+---

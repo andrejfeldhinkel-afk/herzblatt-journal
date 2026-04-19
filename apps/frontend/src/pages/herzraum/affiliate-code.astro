@@ -1,0 +1,166 @@
+---
+/**
+ * /herzraum/affiliate-code — Admin-Übersicht aller Käufer-Affiliate-Codes.
+ *
+ * Zeigt pro Code: Owner-Email, clicks, conversions, Payout, created_at, active.
+ * Toggle-Button für active/inactive.
+ *
+ * Codes werden automatisch bei Kauf angelegt (digistore-ipn, micropayment-
+ * webhook, whop-webhook → ensureAffiliateCodeForBuyer). Keine manuelle
+ * Anlage hier.
+ */
+export const prerender = false;
+import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+---
+<HerzraumLayout title="Affiliate-Codes" active="affiliate-code">
+
+  <section style="margin-bottom: 1.25rem;">
+    <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; flex-wrap: wrap; margin-bottom: 0.5rem;">
+      <div>
+        <h2 style="margin: 0 0 0.35rem 0; font-size: 1.5rem; font-weight: 700;">🎟️ Käufer-Affiliate-Codes</h2>
+        <p style="color: var(--hz-text-muted, #94a3b8); font-size: 0.9rem; margin: 0; max-width: 60rem;">
+          Jeder Ebook-Käufer bekommt automatisch einen 8-Zeichen-Code. Teilen über
+          <code style="background: rgba(255,255,255,0.06); padding: 0.1rem 0.35rem; border-radius: 3px;">/go/affiliate/&lt;code&gt;</code>
+          setzt einen signierten Cookie (30 Tage). Bei Folge-Kauf wird dem Referrer eine Provision von 30% gutgeschrieben.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- KPI-Summary -->
+  <section class="hz-kpi-grid" style="margin-bottom: 1rem; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0.75rem;">
+    <div class="hz-kpi" style="background: var(--hz-surface, #13131c); border: 1px solid var(--hz-border, rgba(255,255,255,0.06)); border-radius: 0.75rem; padding: 1rem;">
+      <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--hz-text-muted, #94a3b8); margin-bottom: 0.35rem;">Codes gesamt</div>
+      <div style="font-size: 1.5rem; font-weight: 700;" id="kpi-total">—</div>
+    </div>
+    <div class="hz-kpi" style="background: var(--hz-surface, #13131c); border: 1px solid var(--hz-border, rgba(255,255,255,0.06)); border-radius: 0.75rem; padding: 1rem;">
+      <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--hz-text-muted, #94a3b8); margin-bottom: 0.35rem;">Aktive Codes</div>
+      <div style="font-size: 1.5rem; font-weight: 700;" id="kpi-active">—</div>
+    </div>
+    <div class="hz-kpi" style="background: var(--hz-surface, #13131c); border: 1px solid var(--hz-border, rgba(255,255,255,0.06)); border-radius: 0.75rem; padding: 1rem;">
+      <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--hz-text-muted, #94a3b8); margin-bottom: 0.35rem;">Klicks gesamt</div>
+      <div style="font-size: 1.5rem; font-weight: 700;" id="kpi-clicks">—</div>
+    </div>
+    <div class="hz-kpi" style="background: var(--hz-surface, #13131c); border: 1px solid var(--hz-border, rgba(255,255,255,0.06)); border-radius: 0.75rem; padding: 1rem;">
+      <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--hz-text-muted, #94a3b8); margin-bottom: 0.35rem;">Payout offen</div>
+      <div style="font-size: 1.5rem; font-weight: 700;" id="kpi-payout">—</div>
+    </div>
+  </section>
+
+  <!-- Table -->
+  <div class="hz-card" style="background: var(--hz-surface, #13131c); border: 1px solid var(--hz-border, rgba(255,255,255,0.06)); border-radius: 0.75rem; padding: 1rem; overflow-x: auto;">
+    <table id="codes-table" style="width: 100%; border-collapse: collapse; font-size: 0.88rem;">
+      <thead>
+        <tr style="text-align: left; border-bottom: 1px solid var(--hz-border, rgba(255,255,255,0.1));">
+          <th style="padding: 0.6rem 0.5rem;">Code</th>
+          <th style="padding: 0.6rem 0.5rem;">Owner</th>
+          <th style="padding: 0.6rem 0.5rem; text-align: right;">Klicks</th>
+          <th style="padding: 0.6rem 0.5rem; text-align: right;">Conv.</th>
+          <th style="padding: 0.6rem 0.5rem; text-align: right;">Payout</th>
+          <th style="padding: 0.6rem 0.5rem;">Erstellt</th>
+          <th style="padding: 0.6rem 0.5rem;">Status</th>
+          <th style="padding: 0.6rem 0.5rem;"></th>
+        </tr>
+      </thead>
+      <tbody id="codes-tbody">
+        <tr><td colspan="8" style="padding: 2rem 0.5rem; text-align: center; color: var(--hz-text-muted);">Lade…</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <script is:inline>
+    (async function () {
+      const tbody = document.getElementById('codes-tbody');
+      const kpiTotal = document.getElementById('kpi-total');
+      const kpiActive = document.getElementById('kpi-active');
+      const kpiClicks = document.getElementById('kpi-clicks');
+      const kpiPayout = document.getElementById('kpi-payout');
+
+      function fmtCents(cents) {
+        const n = Number(cents) || 0;
+        return (n / 100).toFixed(2).replace('.', ',') + ' €';
+      }
+      function fmtDate(s) {
+        if (!s) return '—';
+        try {
+          const d = new Date(s);
+          return d.toLocaleDateString('de-DE', { year: 'numeric', month: '2-digit', day: '2-digit' });
+        } catch { return String(s); }
+      }
+
+      async function load() {
+        try {
+          const res = await fetch('/api/herzraum/affiliate-codes', { credentials: 'same-origin' });
+          if (!res.ok) {
+            tbody.innerHTML = '<tr><td colspan="8" style="padding: 2rem 0.5rem; text-align: center; color: #fca5a5;">Fehler beim Laden (' + res.status + ')</td></tr>';
+            return;
+          }
+          const data = await res.json();
+          if (!data.ok) {
+            tbody.innerHTML = '<tr><td colspan="8" style="padding: 2rem 0.5rem; text-align: center; color: #fca5a5;">' + (data.error || 'Fehler') + '</td></tr>';
+            return;
+          }
+          kpiTotal.textContent = String(data.summary.totalCodes || 0);
+          kpiActive.textContent = String(data.summary.activeCount || 0);
+          kpiClicks.textContent = String(data.summary.totalClicks || 0);
+          kpiPayout.textContent = fmtCents(data.summary.totalPayoutCents || 0);
+
+          if (data.codes.length === 0) {
+            tbody.innerHTML = '<tr><td colspan="8" style="padding: 2rem 0.5rem; text-align: center; color: var(--hz-text-muted);">Noch keine Codes — Käufer-Codes werden automatisch bei Kauf angelegt.</td></tr>';
+            return;
+          }
+
+          tbody.innerHTML = data.codes.map(function (c) {
+            const active = !!c.active;
+            const statusLabel = active
+              ? '<span style="color: #10b981; font-weight: 600;">aktiv</span>'
+              : '<span style="color: #94a3b8;">inaktiv</span>';
+            const toggleLabel = active ? 'Deaktivieren' : 'Aktivieren';
+            return (
+              '<tr data-code="' + c.code + '" style="border-bottom: 1px solid rgba(255,255,255,0.04);">' +
+                '<td style="padding: 0.6rem 0.5rem;"><code style="background: rgba(255,255,255,0.06); padding: 0.15rem 0.4rem; border-radius: 4px; font-family: monospace;">' + c.code + '</code></td>' +
+                '<td style="padding: 0.6rem 0.5rem; font-size: 0.82rem; color: var(--hz-text-muted);">' + c.ownerEmail + '</td>' +
+                '<td style="padding: 0.6rem 0.5rem; text-align: right; font-variant-numeric: tabular-nums;">' + (c.clicks || 0) + '</td>' +
+                '<td style="padding: 0.6rem 0.5rem; text-align: right; font-variant-numeric: tabular-nums;">' + (c.conversions || 0) + '</td>' +
+                '<td style="padding: 0.6rem 0.5rem; text-align: right; font-variant-numeric: tabular-nums; font-weight: 600;">' + fmtCents(c.payoutCents) + '</td>' +
+                '<td style="padding: 0.6rem 0.5rem; font-size: 0.82rem; color: var(--hz-text-muted);">' + fmtDate(c.createdAt) + '</td>' +
+                '<td style="padding: 0.6rem 0.5rem;">' + statusLabel + '</td>' +
+                '<td style="padding: 0.6rem 0.5rem; text-align: right;">' +
+                  '<button class="toggle-btn" data-code="' + c.code + '" data-active="' + active + '" style="background: transparent; color: var(--hz-text-muted); border: 1px solid var(--hz-border, rgba(255,255,255,0.1)); padding: 0.3rem 0.65rem; border-radius: 5px; font-size: 0.78rem; cursor: pointer;">' + toggleLabel + '</button>' +
+                '</td>' +
+              '</tr>'
+            );
+          }).join('');
+
+          document.querySelectorAll('.toggle-btn').forEach(function (btn) {
+            btn.addEventListener('click', async function () {
+              const code = btn.getAttribute('data-code');
+              const wasActive = btn.getAttribute('data-active') === 'true';
+              btn.disabled = true;
+              btn.textContent = '…';
+              try {
+                const res = await fetch('/api/herzraum/affiliate-codes/' + encodeURIComponent(code), {
+                  method: 'PATCH',
+                  headers: { 'content-type': 'application/json' },
+                  body: JSON.stringify({ active: !wasActive }),
+                  credentials: 'same-origin',
+                });
+                if (!res.ok) throw new Error('HTTP ' + res.status);
+                await load();
+              } catch (err) {
+                btn.disabled = false;
+                btn.textContent = wasActive ? 'Deaktivieren' : 'Aktivieren';
+                alert('Fehler: ' + err.message);
+              }
+            });
+          });
+        } catch (err) {
+          tbody.innerHTML = '<tr><td colspan="8" style="padding: 2rem 0.5rem; text-align: center; color: #fca5a5;">Netzwerkfehler: ' + err.message + '</td></tr>';
+        }
+      }
+
+      load();
+    })();
+  </script>
+
+</HerzraumLayout>

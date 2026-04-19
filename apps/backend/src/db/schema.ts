@@ -363,6 +363,77 @@ export const pushBroadcasts = pgTable(
 );
 
 /**
+ * EbookDripSchedule — geplante Drip-Mails nach Ebook-Kauf.
+ *
+ * Bei erfolgreichem Kauf legen die Webhook-Handler drei Rows an:
+ *   drip_step='day1'  scheduled_for=NOW() + 1d
+ *   drip_step='day7'  scheduled_for=NOW() + 7d
+ *   drip_step='day30' scheduled_for=NOW() + 30d
+ *
+ * Der Cron /admin/cron/ebook-drip (täglich) liest alle Rows mit
+ *   scheduled_for <= NOW() AND sent_at IS NULL
+ * und sendet sie. Bei Erfolg wird sent_at gesetzt.
+ *
+ * Idempotenz: UNIQUE(email, drip_step) verhindert doppelte Planung.
+ * Die Cron-Selektion nutzt den partial Index ebook_drip_due_idx für
+ * einen effizienten Sweep auch bei hunderttausend Rows.
+ */
+export const ebookDripSchedule = pgTable(
+  'ebook_drip_schedule',
+  {
+    id: serial('id').primaryKey(),
+    email: text('email').notNull(),
+    dripStep: text('drip_step').notNull(), // 'day1' | 'day7' | 'day30'
+    scheduledFor: timestamp('scheduled_for', { withTimezone: true }).notNull(),
+    sentAt: timestamp('sent_at', { withTimezone: true }),
+    attempts: bigint('attempts', { mode: 'number' }).notNull().default(0),
+    lastError: text('last_error'),
+    createdAt: timestamp('created_at', { withTimezone: true }).defaultNow().notNull(),
+  },
+  (t) => ({
+    emailIdx: index('ebook_drip_email_idx').on(t.email),
+    // Partial unique: (email, drip_step) — ein Step pro Käufer.
+    emailStepUnique: uniqueIndex('ebook_drip_email_step_unique').on(t.email, t.dripStep),
+  }),
+);
+
+/**
+ * AffiliateCodes — Affiliate-Codes für Ebook-Käufer.
+ *
+ * Bei jedem erfolgreichen Kauf wird ein eindeutiger 8-Zeichen-Code generiert
+ * und dem Käufer zugeordnet. Der Käufer kann seinen Code teilen:
+ *   /go/affiliate/<CODE> → /ebook?ref=<CODE> (Cookie 30 Tage)
+ *
+ * Bei neuem Kauf mit gesetztem ref-Cookie → conversions++, payout_cents
+ * wird erhöht (wir wählen 30% von amount_cents als Default-Provision; der
+ * tatsächliche Payout erfolgt manuell via Banküberweisung).
+ *
+ * Sicherheit: Code ist HMAC-signed (siehe lib/affiliate-code.ts), damit
+ * niemand Codes forgen kann — beim Klick-Redirect prüfen wir die Signatur.
+ */
+export const affiliateCodes = pgTable(
+  'affiliate_codes',
+  {
+    id: serial('id').primaryKey(),
+    code: text('code').notNull().unique(), // 8-Zeichen, a-z0-9 (nicht signed — Signatur ist separat)
+    ownerEmail: text('owner_email').notNull(),
+    createdAt: timestamp('created_at', { withTimezone: true }).defaultNow().notNull(),
+    clicks: bigint('clicks', { mode: 'number' }).notNull().default(0),
+    conversions: bigint('conversions', { mode: 'number' }).notNull().default(0),
+    payoutCents: bigint('payout_cents', { mode: 'number' }).notNull().default(0),
+    lastClickAt: timestamp('last_click_at', { withTimezone: true }),
+    lastConversionAt: timestamp('last_conversion_at', { withTimezone: true }),
+    active: boolean('active').notNull().default(true),
+  },
+  (t) => ({
+    ownerIdx: index('affiliate_codes_owner_idx').on(t.ownerEmail),
+    codeIdx: index('affiliate_codes_code_idx').on(t.code),
+    // Ein Code pro Owner — Wiederholkäufer bekommt den existing Code.
+    ownerUnique: uniqueIndex('affiliate_codes_owner_unique').on(t.ownerEmail),
+  }),
+);
+
+/**
  * AffiliateLinks — Benannte Short-URLs mit Traffic-Tracking.
  *
  * Zweck: User erstellt Short-URLs wie /go/tiktok-apr-26 und postet sie

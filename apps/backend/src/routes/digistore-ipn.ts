@@ -23,7 +23,8 @@ import { Hono } from 'hono';
 import { createHash } from 'node:crypto';
 import { eq, and } from 'drizzle-orm';
 import { db, schema } from '../db/index.js';
-import { addContactToList, sendWelcomeEmail, sendEbookDeliveryEmail, isSendGridEnabled } from '../lib/sendgrid.js';
+import { addContactToList, sendWelcomeEmail, sendEbookDeliveryEmail, isSendGridEnabled, scheduleAllEbookDrips } from '../lib/sendgrid.js';
+import { ensureAffiliateCodeForBuyer, creditAffiliateConversionIfRef } from '../lib/affiliate-code.js';
 import { buildEbookAccessUrl } from '../lib/ebook-access.js';
 import { getClientIp, hashIp } from '../lib/crypto.js';
 import { allowRequest } from '../lib/rate-limit.js';
@@ -221,12 +222,34 @@ app.post('/', async (c) => {
               addContactToList(email, { source: 'ebook-purchase' }),
               sendWelcomeEmail(email),
               sendEbookDeliveryEmail(email, accessUrl),
+              // Drip-Kampagne planen (Day 1, 7, 30) — idempotent.
+              scheduleAllEbookDrips(email),
             ]);
           } catch (err) {
             console.error('[digistore-ipn] SG post-purchase error:', err);
           }
         })();
+      } else {
+        // Auch ohne SendGrid wollen wir Drips einplanen — der Cron sendet
+        // später, sobald der API-Key konfiguriert ist.
+        void scheduleAllEbookDrips(email).catch((err) =>
+          console.error('[digistore-ipn] drip schedule error:', err),
+        );
       }
+
+      // Affiliate-Programm: Code für Käufer generieren + Ref-Cookie
+      // gegenchecken (konvertierender Klick wird credited).
+      void (async () => {
+        try {
+          await ensureAffiliateCodeForBuyer(email);
+          await creditAffiliateConversionIfRef(
+            c.req.header('cookie') || '',
+            amount,
+          );
+        } catch (err) {
+          console.error('[digistore-ipn] affiliate credit error:', err);
+        }
+      })();
     }
 
     return c.text('OK', 200);

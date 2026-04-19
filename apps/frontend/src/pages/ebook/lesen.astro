@@ -156,6 +156,20 @@ const description = 'Dein persönlicher Zugang zur Herzblatt-Methode — alle Ka
             <button type="button" class="ebook-print-btn" onclick="window.print()">
               Alles drucken / als PDF
             </button>
+
+            <!-- Käufer-Affiliate-Widget: wird via JS asynchron befüllt. -->
+            <div id="hb-affiliate-widget" class="hb-affiliate-widget" style="display: none;">
+              <div class="hb-aff-label">Dein Affiliate-Code</div>
+              <div class="hb-aff-code" id="hb-aff-code">—</div>
+              <button type="button" id="hb-aff-copy" class="hb-aff-copy-btn" aria-label="Link kopieren">Link kopieren</button>
+              <div class="hb-aff-stats">
+                <span><strong id="hb-aff-clicks">0</strong> Klicks</span>
+                <span><strong id="hb-aff-conversions">0</strong> Käufe</span>
+                <span><strong id="hb-aff-payout">0 €</strong></span>
+              </div>
+              <p class="hb-aff-hint">30% Provision bei jedem Kauf durch deinen Link.</p>
+            </div>
+
             <a href="/ebook/zugang" class="ebook-meta-link">Zugang auf anderem Gerät?</a>
           </div>
         </div>
@@ -311,6 +325,43 @@ const description = 'Dein persönlicher Zugang zur Herzblatt-Methode — alle Ka
           const currentChapter = document.querySelector('.ebook-toc-link.is-active')?.getAttribute('data-chapter') || '';
           saveProgress(currentChapter, window.scrollY);
         }, { passive: true });
+
+        // Affiliate-Widget lazy laden — kein Blocker für die Reading-UX.
+        (async function loadAffiliateWidget() {
+          const widget = document.getElementById('hb-affiliate-widget');
+          if (!widget) return;
+          try {
+            const res = await fetch('/api/ebook/my-affiliate-code', { credentials: 'same-origin' });
+            if (!res.ok) return;
+            const data = await res.json();
+            if (!data.ok || !data.code) return;
+
+            document.getElementById('hb-aff-code').textContent = data.code;
+            document.getElementById('hb-aff-clicks').textContent = String(data.stats.clicks || 0);
+            document.getElementById('hb-aff-conversions').textContent = String(data.stats.conversions || 0);
+            const cents = Number(data.stats.payoutCents) || 0;
+            document.getElementById('hb-aff-payout').textContent = (cents / 100).toFixed(2).replace('.', ',') + ' €';
+            widget.style.display = 'block';
+
+            const copyBtn = document.getElementById('hb-aff-copy');
+            const shareUrl = data.shareUrl;
+            if (copyBtn && shareUrl) {
+              copyBtn.addEventListener('click', async () => {
+                try {
+                  await navigator.clipboard.writeText(shareUrl);
+                  const orig = copyBtn.textContent;
+                  copyBtn.textContent = 'Kopiert!';
+                  setTimeout(() => { copyBtn.textContent = orig; }, 1600);
+                } catch (_) {
+                  // Fallback: select-prompt
+                  window.prompt('Dein Link:', shareUrl);
+                }
+              });
+            }
+          } catch (_) {
+            // Still — Widget bleibt versteckt, kein Fehler für den User.
+          }
+        })();
       })();
     </script>
   )}
@@ -577,10 +628,63 @@ const description = 'Dein persönlicher Zugang zur Herzblatt-Methode — alle Ka
   .ebook-prose h2 { font-size: 1.35rem; }
 }
 
+/* Affiliate-Widget (Sidebar) ------------------------ */
+.hb-affiliate-widget {
+  margin-top: 1rem;
+  padding: 0.9rem 0.85rem;
+  background: linear-gradient(135deg, rgba(225,29,72,0.04), rgba(225,29,72,0.08));
+  border: 1px solid rgba(225,29,72,0.18);
+  border-radius: 0.5rem;
+}
+.hb-aff-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--ebook-muted);
+  margin-bottom: 0.35rem;
+  font-weight: 600;
+}
+.hb-aff-code {
+  font-family: "SF Mono", Menlo, Consolas, monospace;
+  font-size: 1.05rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  color: var(--ebook-accent);
+  margin-bottom: 0.6rem;
+  user-select: all;
+}
+.hb-aff-copy-btn {
+  width: 100%;
+  background: var(--ebook-accent);
+  color: #ffffff;
+  border: none;
+  padding: 0.45rem 0.65rem;
+  border-radius: 0.35rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: inherit;
+  margin-bottom: 0.65rem;
+}
+.hb-aff-copy-btn:hover { background: #be123c; }
+.hb-aff-stats {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  font-size: 0.72rem;
+  color: var(--ebook-muted);
+  border-top: 1px solid rgba(225,29,72,0.15);
+  padding-top: 0.5rem;
+  margin-bottom: 0.4rem;
+}
+.hb-aff-stats strong { color: var(--ebook-ink); font-weight: 700; font-size: 0.82rem; }
+.hb-aff-hint { font-size: 0.7rem; color: var(--ebook-muted); margin: 0; line-height: 1.4; }
+
 /* Print: optimiert fürs PDF-Drucken ----------------- */
 @media print {
   .ebook-sidebar, .ebook-menu-toggle, .ebook-progress-bar,
-  .ebook-chapter-footer, .ebook-sidebar-footer { display: none !important; }
+  .ebook-chapter-footer, .ebook-sidebar-footer,
+  .hb-affiliate-widget { display: none !important; }
   .ebook-main { margin-left: 0 !important; padding: 0 !important; }
   .ebook-chapter {
     border: none !important;
