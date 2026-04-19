@@ -29,6 +29,8 @@ import { createHmac } from 'node:crypto';
 import { eq, and } from 'drizzle-orm';
 import { db, schema } from '../db/index.js';
 import { addContactToList, sendWelcomeEmail, isSendGridEnabled } from '../lib/sendgrid.js';
+import { captureError } from '../lib/sentry.js';
+import { redactEmail, safeEqualHex, truncatePayload } from '../lib/log-helpers.js';
 
 const app = new Hono();
 
@@ -54,6 +56,7 @@ type WhopWebhookBody = {
  * Whop-Signatur (HMAC-SHA256 hex über den rawBody mit dem Webhook-Secret).
  * Der Header kann Whop-spezifisch Präfixe haben (z.B. "sha256="); wir
  * vergleichen tolerant: entweder exact hex oder nach Präfix-Strip.
+ * Timing-safe Vergleich gegen Timing-Attacks.
  */
 function verifyWhopSignature(rawBody: string, headerValue: string, secret: string): boolean {
   if (!headerValue || !secret) return false;
@@ -63,7 +66,7 @@ function verifyWhopSignature(rawBody: string, headerValue: string, secret: strin
   // Header kann "sha256=<hex>" oder einfach "<hex>" sein
   const received = headerValue.includes('=') ? headerValue.split('=').pop() || '' : headerValue;
 
-  return received.toLowerCase() === expected.toLowerCase();
+  return safeEqualHex(received, expected);
 }
 
 app.post('/', async (c) => {
@@ -92,8 +95,16 @@ app.post('/', async (c) => {
 
   if (!disableSig) {
     if (!secret) {
-      console.warn('[whop-webhook] WHOP_WEBHOOK_SECRET nicht gesetzt — signature check skipped (Testmode)');
-    } else if (!verifyWhopSignature(rawBody, signatureHeader, secret)) {
+      // Fail-closed: ohne gesetztes Secret akzeptieren wir KEINE Webhooks in Prod.
+      // Wer explizit testen will, muss WHOP_DISABLE_SIGNATURE=1 setzen.
+      console.error('[whop-webhook] WHOP_WEBHOOK_SECRET nicht gesetzt und WHOP_DISABLE_SIGNATURE!=1 — reject');
+      return c.json({ ok: false, error: 'webhook-not-configured' }, 500);
+    }
+    if (!signatureHeader) {
+      console.error('[whop-webhook] X-Whop-Signature header fehlt');
+      return c.json({ ok: false, error: 'signature-missing' }, 403);
+    }
+    if (!verifyWhopSignature(rawBody, signatureHeader, secret)) {
       console.error('[whop-webhook] signature mismatch');
       return c.json({ ok: false, error: 'signature-invalid' }, 403);
     }
@@ -130,7 +141,11 @@ app.post('/', async (c) => {
   if (!isRelevant) return c.json({ ok: true, ignored: action }, 200);
 
   if (!email || !orderId) {
-    console.error('[whop-webhook] missing email or order id', { email, orderId, action });
+    console.error('[whop-webhook] missing email or order id', {
+      email: redactEmail(email),
+      hasOrderId: !!orderId,
+      action,
+    });
     return c.json({ ok: false, error: 'missing-required-fields' }, 400);
   }
 
@@ -182,10 +197,10 @@ app.post('/', async (c) => {
       amountCents,
       currency,
       status,
-      rawPayload: JSON.stringify(body).slice(0, 10_000),
+      rawPayload: truncatePayload(body),
     });
 
-    console.log(`[whop-webhook] new purchase: ${email} ${orderId} ${amountCents/100}${currency} (${action})`);
+    console.log(`[whop-webhook] new purchase: ${redactEmail(email)} ${orderId} ${amountCents/100}${currency} (${action})`);
 
     // Bei Bezahlung: Käufer als Subscriber + SendGrid-Welcome
     if (status === 'paid' && email) {
@@ -218,6 +233,7 @@ app.post('/', async (c) => {
     return c.json({ ok: true }, 200);
   } catch (err) {
     console.error('[whop-webhook] db error:', err);
+    captureError(err, { route: 'whop-webhook', orderId, action });
     return c.json({ ok: false, error: 'db-error' }, 500);
   }
 });
