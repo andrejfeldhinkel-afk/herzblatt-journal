@@ -84,6 +84,35 @@ app.use('*', cors({
   maxAge: 600,
 }));
 
+// Security-Headers auf allen Backend-Responses. Defense-in-Depth —
+// das Astro-Frontend setzt bereits die HTML-spezifischen Header (CSP,
+// X-Frame-Options etc.), aber JSON-Responses vom Backend müssen auch
+// hardened sein, z.B. wenn Links direkt auf api.herzblatt-journal.com
+// klickbar sind oder ein Angreifer versucht das Backend als XSS-Sink
+// zu missbrauchen (Content-Type-Sniffing, Frame-Embed).
+app.use('*', async (c, next) => {
+  await next();
+  c.header('X-Content-Type-Options', 'nosniff');
+  c.header('X-Frame-Options', 'DENY');
+  c.header('Referrer-Policy', 'strict-origin-when-cross-origin');
+  c.header('Strict-Transport-Security', 'max-age=63072000; includeSubDomains; preload');
+  c.header(
+    'Permissions-Policy',
+    'camera=(), microphone=(), geolocation=(), payment=(), usb=(), ' +
+    'magnetometer=(), gyroscope=(), accelerometer=(), interest-cohort=(), ' +
+    'browsing-topics=()',
+  );
+  // API-Responses dürfen NICHT geframed werden und brauchen keinerlei
+  // Script-Execution-Kontext → restriktive CSP.
+  c.header(
+    'Content-Security-Policy',
+    "default-src 'none'; frame-ancestors 'none'; base-uri 'none'; form-action 'none';",
+  );
+  c.header('Cross-Origin-Opener-Policy', 'same-origin');
+  c.header('Cross-Origin-Resource-Policy', 'same-site');
+  c.header('X-Permitted-Cross-Domain-Policies', 'none');
+});
+
 // Health + Root
 //
 // /health liefert eine Status-Übersicht für externes Monitoring:

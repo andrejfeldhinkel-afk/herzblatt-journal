@@ -194,24 +194,56 @@ export const onRequest = defineMiddleware(async (context, next) => {
   newHeaders.set('X-Content-Type-Options', 'nosniff');
   newHeaders.set('X-Frame-Options', 'SAMEORIGIN');
   newHeaders.set('Referrer-Policy', 'strict-origin-when-cross-origin');
-  newHeaders.set('Permissions-Policy', 'camera=(), microphone=(), geolocation=(), payment=()');
-  newHeaders.set('Strict-Transport-Security', 'max-age=31536000; includeSubDomains');
+  // Permissions-Policy: wir blocken Sensor/Device-APIs + Federated-Credentials
+  // für eigene Origin UND alle iframes (sonst kann ein eingebetteter
+  // Third-Party-Frame wie Whop-Checkout diese zwar nicht zusätzlich
+  // anfordern, aber das Standardverhalten wäre "allowed by default").
+  newHeaders.set(
+    'Permissions-Policy',
+    'camera=(), microphone=(), geolocation=(), payment=(self "https://js.whop.com"), ' +
+    'usb=(), magnetometer=(), gyroscope=(), accelerometer=(), ' +
+    'fullscreen=(self), interest-cohort=(), browsing-topics=()',
+  );
+  // HSTS: 2 Jahre + preload-Eligibility (63072000s = 2a).
+  // "preload" signalisiert dass wir bereit sind auf der HSTS-Preload-Liste
+  // zu stehen — das ist non-revocable, also nur wenn alle Subdomains HTTPS
+  // nutzen (bei uns: backend, frontend, parse → alle TLS).
+  newHeaders.set('Strict-Transport-Security', 'max-age=63072000; includeSubDomains; preload');
+  // Cross-Origin-Opener-Policy: schützt vor Side-Channel-Attacks (Spectre).
+  // same-origin-allow-popups erlaubt Whop-Checkout-Popups ohne die
+  // Haupt-Origin mit dem Popup zu sharen.
+  newHeaders.set('Cross-Origin-Opener-Policy', 'same-origin-allow-popups');
+  // X-Permitted-Cross-Domain-Policies: legacy Flash/Adobe-Hardening.
+  newHeaders.set('X-Permitted-Cross-Domain-Policies', 'none');
 
   // ─── Content Security Policy (HTML only) ───────────────────
   const ct = response.headers.get('content-type') || '';
   if (ct.includes('text/html')) {
+    // Strenge CSP mit expliziten Quellen für alle eingebundenen Services.
+    // Whop + Plausible + DiceBear + GA müssen erlaubt sein (siehe
+    // BaseLayout.astro + ebook.astro). 'unsafe-inline' ist leider nötig
+    // weil Astro inline-Scripts für set:html (Schema-JSON), Inline-Styles,
+    // und Service-Worker-Registration nutzt. Ohne 'unsafe-inline' würde
+    // die halbe Seite brechen — mit 'strict-dynamic' könnten wir das
+    // mittelfristig lösen (nonce-basiert), aber das ist separate Welle.
     newHeaders.set('Content-Security-Policy',
       "default-src 'self'; " +
-      "script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com https://cdn.jsdelivr.net; " +
+      "script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com https://cdn.jsdelivr.net https://plausible.io https://js.whop.com; " +
+      "script-src-elem 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com https://cdn.jsdelivr.net https://plausible.io https://js.whop.com; " +
       "style-src 'self' 'unsafe-inline'; " +
+      "style-src-elem 'self' 'unsafe-inline'; " +
       "img-src 'self' data: https: blob:; " +
-      "font-src 'self'; " +
-      "connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://be.xloves.com; " +
-      "worker-src 'self'; " +
+      "font-src 'self' data:; " +
+      "connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://plausible.io https://api.dicebear.com https://js.whop.com https://api.whop.com https://be.xloves.com; " +
+      "frame-src 'self' https://js.whop.com https://whop.com; " +
+      "media-src 'self' data:; " +
+      "worker-src 'self' blob:; " +
       "manifest-src 'self'; " +
+      "object-src 'none'; " +
       "frame-ancestors 'none'; " +
       "base-uri 'self'; " +
-      "form-action 'self';"
+      "form-action 'self' https://whop.com https://js.whop.com; " +
+      "upgrade-insecure-requests;",
     );
     // Cache HTML für 5 Min (Preis-/Content-Änderungen sollen zügig sichtbar sein),
     // Stale-while-revalidate für 1h als Fallback.
