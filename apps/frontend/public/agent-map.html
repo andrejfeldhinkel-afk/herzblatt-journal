@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1400">
+<meta name="robots" content="noindex, nofollow">
+<title>Herzblatt Journal — Agent Neural Map</title>
+<style>
+  :root {
+    --bg-0: #04040c;
+    --bg-1: #0a0818;
+    --fg: #f3f4f8;
+    --muted: #7a7d8f;
+    --line: rgba(255,255,255,0.08);
+    --rose: #ff3868;
+    --cyan: #22d3ee;
+    --violet: #a78bfa;
+    --amber: #fbbf24;
+    --orange: #fb923c;
+    --green: #22c55e;
+  }
+  * { box-sizing: border-box; -webkit-font-smoothing: antialiased; }
+  html, body { margin: 0; padding: 0; min-height: 100vh; width: 100%; overflow: hidden;
+    background: radial-gradient(ellipse at 20% 30%, rgba(139,92,246,.15) 0%, transparent 50%),
+                radial-gradient(ellipse at 80% 70%, rgba(244,63,94,.10) 0%, transparent 50%),
+                radial-gradient(ellipse at 50% 50%, rgba(34,211,238,.05) 0%, transparent 60%),
+                linear-gradient(180deg, #04040c 0%, #0a0818 100%);
+    color: var(--fg);
+    font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  }
+  .stars { position: fixed; inset: 0; pointer-events: none; opacity: 0.25;
+    background-image:
+      radial-gradient(1px 1px at 20% 30%, white, transparent),
+      radial-gradient(1px 1px at 60% 70%, white, transparent),
+      radial-gradient(1px 1px at 50% 50%, white, transparent),
+      radial-gradient(2px 2px at 30% 80%, white, transparent),
+      radial-gradient(1px 1px at 80% 10%, white, transparent),
+      radial-gradient(1px 1px at 90% 60%, white, transparent),
+      radial-gradient(1px 1px at 40% 40%, white, transparent),
+      radial-gradient(2px 2px at 70% 20%, white, transparent);
+    background-repeat: repeat; background-size: 250px 250px;
+    animation: starDrift 120s linear infinite;
+  }
+  @keyframes starDrift {
+    from { background-position: 0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0; }
+    to { background-position: 1000px 500px,800px 400px,600px 300px,900px 450px,700px 350px,500px 250px,400px 200px,300px 150px; }
+  }
+
+  header { position: fixed; top: 0; left: 0; right: 0; padding: 22px 28px 18px; z-index: 10;
+    background: linear-gradient(180deg, rgba(4,4,12,.94), rgba(4,4,12,0)); pointer-events: none; }
+  .brand { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .2em;
+    font-weight: 600; margin-bottom: 6px; display: inline-flex; align-items: center; gap: 10px; }
+  .brand::before { content:''; width: 8px; height: 8px; border-radius: 50%; background: var(--rose);
+    box-shadow: 0 0 16px var(--rose), 0 0 32px var(--rose); animation: brandPulse 2s ease-in-out infinite; }
+  @keyframes brandPulse { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: .6; transform: scale(1.2); } }
+  h1 { margin: 0; font-size: 22px; font-weight: 800; letter-spacing: -.03em;
+    background: linear-gradient(90deg, #ff3868, #ec4899 35%, #a78bfa 65%, #22d3ee);
+    background-size: 200% auto; -webkit-background-clip: text; background-clip: text; color: transparent;
+    animation: titleShift 8s linear infinite; }
+  @keyframes titleShift { from { background-position: 0% center; } to { background-position: 200% center; } }
+
+  .panel { position: fixed; padding: 16px 18px;
+    background: rgba(12,10,24,.72); backdrop-filter: blur(24px) saturate(140%);
+    border: 1px solid rgba(255,255,255,.08); border-radius: 14px;
+    box-shadow: 0 12px 48px rgba(0,0,0,.6), inset 0 1px 0 rgba(255,255,255,.05); z-index: 10; }
+  #legend { top: 92px; left: 20px; font-size: 11.5px; min-width: 240px; }
+  #status { top: 92px; right: 20px; min-width: 310px; }
+  #log    { bottom: 20px; left: 20px; max-width: 420px; max-height: 200px; overflow-y: auto; font-size: 11px; }
+  .panel h3 { margin: 0 0 10px; font-size: 11px; color: var(--rose);
+    text-transform: uppercase; letter-spacing: .15em; font-weight: 700; }
+  .leg-row { display: flex; align-items: center; gap: 10px; margin: 5px 0; color: var(--muted); }
+  .leg-row b { color: var(--fg); font-weight: 500; }
+  .leg-dot { width: 11px; height: 11px; border-radius: 50%; flex-shrink: 0;
+    box-shadow: 0 0 14px currentColor, 0 0 28px currentColor; }
+  .leg-note { margin-top: 12px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,.08);
+    font-size: 10.5px; color: var(--muted); line-height: 1.5; }
+  .stat-row { display: flex; justify-content: space-between; align-items: center; margin: 5px 0;
+    color: var(--muted); font-size: 12px; }
+  .stat-row b { color: var(--fg); font-weight: 600; font-variant-numeric: tabular-nums; }
+  .stat-big { display: flex; align-items: baseline; gap: 6px; font-size: 24px; font-weight: 800;
+    font-variant-numeric: tabular-nums; letter-spacing: -.02em; }
+  .stat-big small { font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: .15em; }
+  .stat-divider { height: 1px; background: rgba(255,255,255,.06); margin: 12px 0; }
+  .status-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%;
+    margin-right: 6px; box-shadow: 0 0 10px currentColor; }
+  .status-dot.running { background: var(--cyan); color: var(--cyan); animation: statusPulse 1.3s ease-in-out infinite; }
+  .status-dot.done    { background: var(--green); color: var(--green); }
+  @keyframes statusPulse { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: .4; transform: scale(.85); } }
+
+  .log-row { display: flex; gap: 10px; align-items: baseline; padding: 4px 0;
+    color: var(--muted); border-bottom: 1px dashed rgba(255,255,255,.04); }
+  .log-row:last-child { border: none; }
+  .log-row .time { color: var(--cyan); font-size: 10px; font-variant-numeric: tabular-nums; flex-shrink: 0; }
+  .log-row .cat { font-size: 9px; padding: 1px 6px; border-radius: 3px; text-transform: uppercase;
+    letter-spacing: .1em; font-weight: 700; flex-shrink: 0; }
+  .cat.pr { background: rgba(34,197,94,.15); color: var(--green); }
+  .cat.sec { background: rgba(255,56,104,.15); color: var(--rose); }
+  .cat.agent { background: rgba(167,139,250,.15); color: var(--violet); }
+  .cat.deploy { background: rgba(251,191,36,.15); color: var(--amber); }
+
+  #stage { position: fixed; inset: 0; z-index: 5; }
+  #edges { position: absolute; inset: 0; pointer-events: none; width: 100%; height: 100%; overflow: visible; }
+  .edge { stroke: rgba(255,255,255,.08); stroke-width: 1; fill: none; }
+  .edge.active { stroke: var(--rose); stroke-width: 1.5; stroke-opacity: .5;
+    filter: drop-shadow(0 0 3px var(--rose)); }
+  .edge.flow { stroke-dasharray: 4 2; animation: flow .8s linear infinite; }
+  @keyframes flow { 0% { stroke-dashoffset: 20; } 100% { stroke-dashoffset: 0; } }
+
+  .node { position: absolute; transform: translate(-50%, -50%);
+    display: flex; flex-direction: column; align-items: center; gap: 6px;
+    text-align: center; pointer-events: auto; cursor: pointer;
+    transition: transform .3s cubic-bezier(.2,.8,.2,1); }
+  .node:hover { transform: translate(-50%, -50%) scale(1.08); z-index: 20; }
+  .node .circle { border-radius: 50%; background: currentColor;
+    border: 2px solid rgba(255,255,255,.15);
+    transition: all .3s; position: relative; }
+  .node.running .circle {
+    box-shadow: 0 0 12px currentColor, 0 0 28px currentColor;
+    animation: nodePulse 1.8s ease-in-out infinite; }
+  .node.done .circle { border-color: var(--green); box-shadow: 0 0 8px var(--green); }
+  @keyframes nodePulse {
+    0%,100% { transform: scale(1); box-shadow: 0 0 12px currentColor, 0 0 28px currentColor; }
+    50% { transform: scale(1.1); box-shadow: 0 0 20px currentColor, 0 0 40px currentColor; }
+  }
+  .node .label { font-size: 11px; font-weight: 600; color: var(--fg);
+    text-shadow: 0 2px 6px rgba(0,0,0,.9); max-width: 140px; line-height: 1.2; }
+  .node .sub { font-size: 9px; color: var(--muted); text-transform: uppercase; letter-spacing: .05em;
+    max-width: 140px; line-height: 1.3; }
+
+  /* Hub rings around main coordinator */
+  .hub-ring { position: absolute; transform: translate(-50%, -50%); border-radius: 50%;
+    border: 1px solid var(--rose); pointer-events: none; opacity: 0; }
+  .hub-ring.r1 { animation: ringExpand 3s ease-out infinite; }
+  .hub-ring.r2 { animation: ringExpand 3s ease-out infinite 1s; }
+  .hub-ring.r3 { animation: ringExpand 3s ease-out infinite 2s; }
+  @keyframes ringExpand {
+    0% { width: 60px; height: 60px; opacity: .6; border-width: 2px; }
+    100% { width: 260px; height: 260px; opacity: 0; border-width: .5px; }
+  }
+
+  /* Tooltip */
+  #tooltip { position: fixed; padding: 12px 16px; background: rgba(12,10,24,.95);
+    backdrop-filter: blur(24px); border: 1px solid var(--rose); border-radius: 10px;
+    font-size: 12px; pointer-events: none; opacity: 0; transition: opacity .15s;
+    z-index: 1000; max-width: 320px; box-shadow: 0 16px 48px rgba(0,0,0,.6), 0 0 24px rgba(244,63,94,.25); }
+  #tooltip h4 { margin: 0 0 6px; color: var(--fg); font-size: 14px; font-weight: 700; }
+  #tooltip .tt-sub { color: var(--rose); font-size: 10.5px; text-transform: uppercase;
+    letter-spacing: .15em; margin-bottom: 8px; font-weight: 700; }
+  #tooltip p { margin: 4px 0; color: var(--muted); line-height: 1.5; font-size: 11.5px; }
+  #tooltip .tt-state { display: inline-block; margin-top: 8px; padding: 3px 9px; border-radius: 4px;
+    background: rgba(244,63,94,.15); color: var(--rose); font-size: 10px;
+    text-transform: uppercase; letter-spacing: .12em; font-weight: 700; }
+
+  @media (max-width: 1100px) {
+    #legend, #status { display: none; }
+    #log { max-width: calc(100vw - 40px); }
+  }
+</style>
+</head>
+<body>
+  <div class="stars"></div>
+
+  <header>
+    <div class="brand">Herzblatt Journal · 20-PR Vollautomatik-Session</div>
+    <h1>Agent Neural Map</h1>
+  </header>
+
+  <aside id="legend" class="panel">
+    <h3>Legende</h3>
+    <div class="leg-row"><span class="leg-dot" style="color:#ff3868;background:#ff3868"></span><b>Coordinator</b></div>
+    <div class="leg-row"><span class="leg-dot" style="color:#a78bfa;background:#a78bfa"></span><b>General Agent</b></div>
+    <div class="leg-row"><span class="leg-dot" style="color:#22d3ee;background:#22d3ee"></span><b>Spezialist (gsd-*)</b></div>
+    <div class="leg-row"><span class="leg-dot" style="color:#fbbf24;background:#fbbf24"></span><b>Infra / Browser</b></div>
+    <div class="leg-row"><span class="leg-dot" style="color:#fb923c;background:#fb923c"></span><b>Audit-Phase</b></div>
+    <div class="leg-row"><span class="leg-dot" style="color:#22c55e;background:#22c55e"></span><b>Artefakt (PR)</b></div>
+    <div class="leg-note">
+      Pulsierend = aktiv · Grün-glow = fertig<br>
+      Partikel-Linie = Datenfluss zum Coordinator<br>
+      Hover für Details
+    </div>
+  </aside>
+
+  <aside id="status" class="panel">
+    <h3>Session-Ergebnis</h3>
+    <div class="stat-big"><span>20</span><small>PRs · ausgeliefert</small></div>
+    <div class="stat-divider"></div>
+    <div class="stat-row"><span><span class="status-dot done"></span>Agents koordiniert</span><b>10</b></div>
+    <div class="stat-row"><span><span class="status-dot done"></span>Audit-Phasen</span><b>7 / 9</b></div>
+    <div class="stat-row"><span><span class="status-dot done"></span>Secrets rotiert</span><b>6</b></div>
+    <div class="stat-row"><span><span class="status-dot done"></span>CRITICAL Fixes</span><b>6</b></div>
+    <div class="stat-divider"></div>
+    <div class="stat-row"><span>Ebook-Kapitel</span><b>15 / 15</b></div>
+    <div class="stat-row"><span>Bonus-Materialien</span><b>5 / 5</b></div>
+    <div class="stat-row"><span>Code-Zeilen geändert</span><b>~5.000</b></div>
+    <div class="stat-row"><span>Wörter Content</span><b>~61k</b></div>
+    <div class="stat-row"><span>Prod-Outages</span><b style="color:#22c55e">0</b></div>
+    <div class="stat-row"><span>Session-Dauer</span><b>~6 h</b></div>
+  </aside>
+
+  <aside id="log" class="panel">
+    <h3>Activity Feed</h3>
+    <div id="logList"></div>
+  </aside>
+
+  <div id="stage">
+    <svg id="edges" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid meet"></svg>
+  </div>
+
+  <div id="tooltip"></div>
+
+<script>
+// ─── Nodes mit festen radial-gruppierten Positionen (viewBox 1600x900) ─────
+const NODES = [
+  // Coordinator — Zentrum
+  { id: 'main', x: 800, y: 450, r: 28, color: '#ff3868', type: 'coord', state: 'done',
+    label: 'Main Agent', sub: 'Coordinator · Opus 4.7',
+    desc: 'Koordinierte alle 10 Sub-Agents, merged 20 PRs, triggerte Railway-Deploys, rotierte Secrets.' },
+
+  // General Agents — links oben (Audit + Content)
+  { id: 'agent-p1', x: 410, y: 240, r: 16, color: '#a78bfa', type: 'general', state: 'done',
+    label: 'general-purpose', sub: 'Phase 1 · Inventar',
+    desc: '23 Admin-Pages, 37 Backend-Routes, 15 DB-Tabellen kartografiert. Fand Secret-Leaks in docs/plans/.' },
+  { id: 'agent-p2', x: 540, y: 140, r: 16, color: '#a78bfa', type: 'general', state: 'done',
+    label: 'general-purpose', sub: 'Phase 2 · Admin',
+    desc: '2 CRITICAL XSS gefunden (Inbox, Autoren) + data.clear-Reauth-Lücke.' },
+  { id: 'agent-p5', x: 700, y: 110, r: 16, color: '#a78bfa', type: 'general', state: 'done',
+    label: 'general-purpose', sub: 'Phase 5 · DB',
+    desc: 'Retention-Gaps, UNIQUE-Missing, GDPR-Lücke erkannt.' },
+  { id: 'agent-ebook', x: 870, y: 110, r: 18, color: '#a78bfa', type: 'general', state: 'done',
+    label: 'general-purpose', sub: 'Ebook-Writer · 12 Kapitel',
+    desc: '12 Kapitel geschrieben, ~31.250 Wörter. Konsistent "Sie"-Anrede. AUDIT-EXISTING.md produziert.' },
+  { id: 'agent-bonus', x: 1030, y: 130, r: 18, color: '#a78bfa', type: 'general', state: 'done',
+    label: 'general-purpose', sub: 'Bonus-Materialien · 5',
+    desc: '5 Bonus-Materialien: Workbook + 30 Nachrichten-Vorlagen + Red-Flag-Checkliste + 60-Fragen-Bindungs-Test + Updates-Index (~14.900 Wörter).' },
+  { id: 'agent-delivery', x: 1170, y: 220, r: 18, color: '#a78bfa', type: 'general', state: 'done',
+    label: 'general-purpose', sub: 'Ebook-Delivery-System',
+    desc: 'Gated Reading-Page /ebook/lesen + Token-API + SendGrid-Delivery + Admin-Resend. PR #29.' },
+  { id: 'agent-adminlive', x: 1030, y: 780, r: 18, color: '#a78bfa', type: 'general', state: 'done',
+    label: 'general-purpose', sub: 'Live-Admin-Durchklick',
+    desc: 'Loggte sich in /herzraum ein, klickte jede der 22 Admin-Pages durch. Fand CRITICAL Artikel-Editor-Bug (1164 Artikel gefährdet).' },
+
+  // Spezialisten (gsd-*)
+  { id: 'agent-cr', x: 300, y: 410, r: 16, color: '#22d3ee', type: 'specialist', state: 'done',
+    label: 'gsd-code-reviewer', sub: 'Phase 4 · Backend-Review',
+    desc: '27 Findings: 3 CRITICAL, 7 HIGH, 10 MED, 7 LOW.' },
+  { id: 'agent-sec', x: 280, y: 560, r: 18, color: '#22d3ee', type: 'specialist', state: 'done',
+    label: 'gsd-security-auditor', sub: 'Phase 6 · Security',
+    desc: '3 CRITICAL Secret-Leaks, SQL-Inj, fehlende Rate-Limits, CSRF-Gaps, fehlende Retention.' },
+  { id: 'agent-ui', x: 410, y: 690, r: 16, color: '#22d3ee', type: 'specialist', state: 'done',
+    label: 'gsd-ui-auditor', sub: 'Phase 8 · UX',
+    desc: 'Score 14.3/24 vs Parship. 5 P0 (fake-form, brand, dark-patterns), P1 Perf + A11y.' },
+
+  // Fixer-Agents (gsd-code-fixer)
+  { id: 'agent-fix-p4', x: 560, y: 760, r: 15, color: '#22d3ee', type: 'specialist', state: 'done',
+    label: 'gsd-code-fixer', sub: 'F1/F2/F3 Critical',
+    desc: 'purchases UNIQUE + crypto fail-closed + unsubscribe fallback weg. 24/24 Tests grün.' },
+  { id: 'agent-fix-xss', x: 720, y: 820, r: 15, color: '#22d3ee', type: 'specialist', state: 'done',
+    label: 'gsd-code-fixer', sub: 'XSS + Reauth',
+    desc: 'XSS in Inbox/Autoren/Audit. data.clear Re-Auth-Phrase "LOESCHEN" + Audit-Log.' },
+  { id: 'agent-fix-ux', x: 880, y: 820, r: 15, color: '#22d3ee', type: 'specialist', state: 'done',
+    label: 'gsd-code-fixer', sub: 'UX P0',
+    desc: 'Kontakt-Form echt, Brand-Consistency Sarah Kellner, Fake-Counter raus.' },
+  { id: 'agent-fix-hard', x: 900, y: 640, r: 15, color: '#22d3ee', type: 'specialist', state: 'done',
+    label: 'gsd-code-fixer', sub: 'Backend-Hardening',
+    desc: '5 Commits: Rate-Limits, UNIQUE, Retention, GDPR, Webhook-GET-Leak-Fix.' },
+  { id: 'agent-fix-p1', x: 1050, y: 640, r: 15, color: '#22d3ee', type: 'specialist', state: 'done',
+    label: 'gsd-code-fixer', sub: 'UX P1 + A11y',
+    desc: 'Skip-Link, Focus-Visible, 44px Touch, Blog-Pagination, Lazy-Whop, GPU-Blurs.' },
+  { id: 'agent-fix-admin', x: 1180, y: 560, r: 16, color: '#22d3ee', type: 'specialist', state: 'done',
+    label: 'gsd-code-fixer', sub: 'Admin CRITICAL Fixes',
+    desc: 'PR #30: Artikel-Editor-Bug (1164 Artikel gerettet), /bilder SSR, /redirects, Empty-States.' },
+
+  // Infra
+  { id: 'railway', x: 1250, y: 420, r: 14, color: '#fbbf24', type: 'infra', state: 'done',
+    label: 'Railway GraphQL', sub: 'Deploy + Env-Vars',
+    desc: '20+ Deploys, 6 Secret-Rotations, /health monitoring. Service-IDs: FE 2ba9…, BE 7411…' },
+  { id: 'chrome', x: 1270, y: 320, r: 13, color: '#fbbf24', type: 'infra', state: 'done',
+    label: 'Claude in Chrome', sub: 'Browser-Automation',
+    desc: 'Micropayment-Dashboard-Setup + Live-Admin-Durchklick.' },
+
+  // PRs (historisch-schneckenförmig um den Coordinator)
+  { id: 'pr11', x: 580, y: 340, r: 10, color: '#22c55e', type: 'artifact', state: 'done', label: 'PR #11', sub: '3-Method Picker' },
+  { id: 'pr12', x: 510, y: 400, r: 10, color: '#22c55e', type: 'artifact', state: 'done', label: 'PR #12', sub: 'Whop Modal' },
+  { id: 'pr13', x: 480, y: 470, r: 10, color: '#22c55e', type: 'artifact', state: 'done', label: 'PR #13', sub: 'Admin View' },
+  { id: 'pr14', x: 510, y: 540, r: 10, color: '#22c55e', type: 'artifact', state: 'done', label: 'PR #14', sub: 'Mobile Promo' },
+  { id: 'pr15', x: 580, y: 580, r: 10, color: '#22c55e', type: 'artifact', state: 'done', label: 'PR #15', sub: 'Raten raus' },
+  { id: 'pr16', x: 660, y: 600, r: 11, color: '#22c55e', type: 'artifact', state: 'done', label: 'PR #16', sub: 'Avatare + Modal' },
+  { id: 'pr17', x: 740, y: 590, r: 13, color: '#ff3868', type: 'artifact', state: 'done', label: 'PR #17', sub: '🚨 Secret-Leak Fix',
+    desc: '4 Leak-Dateien aus docs/plans/ entfernt, parallel 5 Secrets rotiert.' },
+  { id: 'pr18', x: 820, y: 600, r: 12, color: '#ff3868', type: 'artifact', state: 'done', label: 'PR #18', sub: 'Drizzle SQL-Inj',
+    desc: 'GHSA-gpj5-g38j-94v9 Patch (0.37 → 0.45.2).' },
+  { id: 'pr19', x: 900, y: 580, r: 11, color: '#ff3868', type: 'artifact', state: 'done', label: 'PR #19', sub: 'Backend Race',
+    desc: 'purchases UNIQUE + crypto fail-closed + unsubscribe fallback weg.' },
+  { id: 'pr20', x: 970, y: 550, r: 11, color: '#ff3868', type: 'artifact', state: 'done', label: 'PR #20', sub: 'Admin XSS',
+    desc: 'Inbox/Autoren/Audit XSS + data.clear Reauth.' },
+  { id: 'pr21', x: 1020, y: 500, r: 11, color: '#22c55e', type: 'artifact', state: 'done', label: 'PR #21', sub: 'UX P0' },
+  { id: 'pr22', x: 1050, y: 440, r: 12, color: '#22c55e', type: 'artifact', state: 'done', label: 'PR #22', sub: '12 Kapitel' },
+  { id: 'pr23', x: 1040, y: 380, r: 11, color: '#22c55e', type: 'artifact', state: 'done', label: 'PR #23', sub: '5 Bonusse' },
+  { id: 'pr24', x: 1000, y: 330, r: 10, color: '#22c55e', type: 'artifact', state: 'done', label: 'PR #24', sub: '52k Counter' },
+  { id: 'pr25', x: 940, y: 300, r: 10, color: '#22c55e', type: 'artifact', state: 'done', label: 'PR #25', sub: 'Hardening' },
+  { id: 'pr26', x: 870, y: 290, r: 10, color: '#22c55e', type: 'artifact', state: 'done', label: 'PR #26', sub: 'Quiz + Counter' },
+  { id: 'pr27', x: 800, y: 300, r: 10, color: '#22c55e', type: 'artifact', state: 'done', label: 'PR #27', sub: 'Click-Whitelist' },
+  { id: 'pr28', x: 740, y: 320, r: 10, color: '#22c55e', type: 'artifact', state: 'done', label: 'PR #28', sub: 'UX P1' },
+  { id: 'pr29', x: 680, y: 340, r: 11, color: '#10b981', type: 'artifact', state: 'done', label: 'PR #29', sub: 'Ebook Delivery' },
+  { id: 'pr30', x: 640, y: 390, r: 12, color: '#10b981', type: 'artifact', state: 'done', label: 'PR #30', sub: 'Admin CRIT Fixes',
+    desc: 'Artikel-Editor Data-Loss-Fix — 1164 Artikel gerettet.' },
+];
+
+const EDGES = [
+  // main → agents
+  ...['agent-p1','agent-p2','agent-p5','agent-ebook','agent-bonus','agent-delivery','agent-adminlive',
+      'agent-cr','agent-sec','agent-ui','agent-fix-p4','agent-fix-xss','agent-fix-ux',
+      'agent-fix-hard','agent-fix-p1','agent-fix-admin','railway','chrome'].map(t => ({ s:'main', t })),
+  // main → PRs (main was the one merging)
+  ...['pr11','pr12','pr13','pr14','pr15','pr16','pr17','pr18','pr19','pr20','pr21','pr22','pr23','pr24','pr25','pr26','pr27','pr28','pr29','pr30']
+     .map(t => ({ s:'main', t, thin: true })),
+];
+
+const LOG_EVENTS = [
+  { t: '18:10', cat: 'pr', text: 'PR #30 merged · Admin CRIT-Fixes (Artikel-Editor → 1164 Artikel gerettet)' },
+  { t: '17:55', cat: 'pr', text: 'PR #29 merged · Ebook-Delivery-System live' },
+  { t: '17:50', cat: 'pr', text: 'PR #28 merged · UX P1 (Skip-Link, 44px Touch, Blog-Pagination)' },
+  { t: '17:45', cat: 'pr', text: 'PR #27 merged · Click-Tracking-Whitelist-Fix' },
+  { t: '17:38', cat: 'pr', text: 'PR #26 merged · Quiz-Card + wachsender Counter' },
+  { t: '17:30', cat: 'pr', text: 'PR #25 merged · Backend-Hardening (Rate-Limits + UNIQUE + Retention)' },
+  { t: '17:15', cat: 'pr', text: 'PR #24 merged · 52k Reader-Counter + Blog-Fallback-Bilder' },
+  { t: '16:30', cat: 'agent', text: '4 Fixer-Agents spawned (parallel)' },
+  { t: '15:40', cat: 'sec', text: 'PR #20 merged · CRITICAL Admin XSS + data.clear Reauth' },
+  { t: '15:36', cat: 'sec', text: 'PR #19 merged · Backend CRITICAL Race + Secret-Fallback-Fix' },
+  { t: '15:25', cat: 'sec', text: 'PR #18 merged · Drizzle SQL-Injection-Patch' },
+  { t: '15:20', cat: 'sec', text: 'PR #17 merged · 🚨 4 Leak-Docs entfernt, 5 Secrets rotiert' },
+  { t: '14:51', cat: 'pr', text: 'PR #13 merged · Admin Multi-Provider-View + /health' },
+  { t: '13:30', cat: 'deploy', text: 'Micropayment-Dashboard: Sofort + paysafecard aktiviert' },
+  { t: '13:00', cat: 'deploy', text: 'Whop-Produkt "Herzblatt-Methode" (plan_SstCj...) angelegt' },
+  { t: '12:00', cat: 'pr', text: 'PR #11 merged · 3-Method-Checkout-Picker live' },
+];
+
+// ─── Render ───────────────────────────────────────────────────────────
+const stage = document.getElementById('stage');
+const svg = document.getElementById('edges');
+const tooltip = document.getElementById('tooltip');
+
+// Compute scaling: viewBox is 1600x900 but we use % positioning for real
+function scale(v, dim) {
+  return (v / (dim === 'x' ? 1600 : 900)) * 100 + '%';
+}
+
+// Draw edges first (behind nodes)
+const nodeMap = Object.fromEntries(NODES.map(n => [n.id, n]));
+EDGES.forEach(e => {
+  const a = nodeMap[e.s], b = nodeMap[e.t];
+  if (!a || !b) return;
+  const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+  line.setAttribute('x1', a.x); line.setAttribute('y1', a.y);
+  line.setAttribute('x2', b.x); line.setAttribute('y2', b.y);
+  line.setAttribute('class', 'edge' + (e.thin ? '' : ' active') + (e.flow ? ' flow' : ''));
+  svg.appendChild(line);
+});
+
+// Hub rings around the coordinator
+const main = nodeMap.main;
+[1,2,3].forEach(i => {
+  const ring = document.createElement('div');
+  ring.className = 'hub-ring r' + i;
+  ring.style.left = scale(main.x, 'x');
+  ring.style.top = scale(main.y, 'y');
+  stage.appendChild(ring);
+});
+
+// Draw nodes
+NODES.forEach(n => {
+  const el = document.createElement('div');
+  el.className = 'node ' + n.state;
+  el.style.left = scale(n.x, 'x');
+  el.style.top = scale(n.y, 'y');
+  el.style.color = n.color;
+  el.innerHTML = `
+    <div class="circle" style="width: ${n.r * 2}px; height: ${n.r * 2}px;"></div>
+    <div class="label">${n.label}</div>
+    <div class="sub">${n.sub}</div>
+  `;
+  el.addEventListener('mouseover', e => showTip(e, n));
+  el.addEventListener('mouseout', hideTip);
+  stage.appendChild(el);
+});
+
+function showTip(e, n) {
+  tooltip.innerHTML = `
+    <div class="tt-sub">${n.type}</div>
+    <h4>${n.label}</h4>
+    <p>${n.sub}</p>
+    ${n.desc ? `<p style="margin-top:8px">${n.desc}</p>` : ''}
+    <span class="tt-state">${n.state}</span>
+  `;
+  tooltip.style.left = (e.clientX + 18) + 'px';
+  tooltip.style.top = (e.clientY + 18) + 'px';
+  tooltip.style.opacity = '1';
+}
+function hideTip() { tooltip.style.opacity = '0'; }
+
+// Render activity log
+document.getElementById('logList').innerHTML = LOG_EVENTS.map(e =>
+  `<div class="log-row">
+    <span class="time">${e.t}</span>
+    <span class="cat ${e.cat}">${e.cat}</span>
+    <span>${e.text}</span>
+  </div>`
+).join('');
+
+// Success-burst every 2s on a random PR
+const prIds = NODES.filter(n => n.id.startsWith('pr')).map(n => n.id);
+let burstI = 0;
+setInterval(() => {
+  const pr = nodeMap[prIds[burstI % prIds.length]];
+  burstI++;
+  const burst = document.createElement('div');
+  burst.style.cssText = `
+    position:absolute;
+    left:${scale(pr.x, 'x')};
+    top:${scale(pr.y, 'y')};
+    width:20px;height:20px;
+    transform:translate(-50%,-50%);
+    border-radius:50%;
+    border:3px solid ${pr.color};
+    opacity:.8;
+    pointer-events:none;
+    animation: burst 1.2s ease-out forwards;
+  `;
+  stage.appendChild(burst);
+  setTimeout(() => burst.remove(), 1300);
+}, 2200);
+
+// Add burst keyframes via JS (since they need dynamic size)
+const styleEl = document.createElement('style');
+styleEl.textContent = `@keyframes burst {
+  0% { width: 20px; height: 20px; opacity: .8; border-width: 3px; }
+  100% { width: 120px; height: 120px; opacity: 0; border-width: 0; }
+}`;
+document.head.appendChild(styleEl);
+</script>
+</body>
+</html>
