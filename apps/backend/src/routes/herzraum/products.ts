@@ -106,7 +106,7 @@ app.get('/', async (c) => {
     return c.json({ ok: true, products });
   } catch (err: any) {
     console.error('[products:list] error:', err);
-    return c.json({ ok: false, error: err.message || 'db error' }, 500);
+    return c.json({ ok: false, error: 'db-error' }, 500);
   }
 });
 
@@ -192,7 +192,7 @@ app.post('/', async (c) => {
     return c.json({ ok: true, product: { ...created, badges: safeParseBadges(created.badges) } }, 201);
   } catch (err: any) {
     console.error('[products:create] error:', err);
-    return c.json({ ok: false, error: err.message || 'db error' }, 500);
+    return c.json({ ok: false, error: 'db-error' }, 500);
   }
 });
 
@@ -254,7 +254,7 @@ app.patch('/:slug', async (c) => {
     return c.json({ ok: true, product: { ...updated, badges: safeParseBadges(updated.badges) } });
   } catch (err: any) {
     console.error('[products:update] error:', err);
-    return c.json({ ok: false, error: err.message || 'db error' }, 500);
+    return c.json({ ok: false, error: 'db-error' }, 500);
   }
 });
 

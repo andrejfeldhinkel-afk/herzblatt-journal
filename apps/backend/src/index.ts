@@ -7,7 +7,8 @@ import { serve } from '@hono/node-server';
 import { Hono } from 'hono';
 import { cors } from 'hono/cors';
 import { sql } from 'drizzle-orm';
-import { db } from './db/index.js';
+import { db, closeDbPool } from './db/index.js';
+import { logger, makeRequestId } from './lib/logger.js';
 
 // Public Routes
 import pageviewRoute from './routes/pageview.js';
@@ -75,6 +76,20 @@ import { requireSession, requireAdminToken } from './lib/auth-middleware.js';
 import { requireCsrfToken } from './lib/csrf.js';
 
 const app = new Hono();
+const IS_PROD = process.env.NODE_ENV === 'production';
+
+// Request-ID-Middleware — MUSS als erstes hängen, damit alle nachfolgenden
+// Handler/Error-Handler die ID haben. Wir nehmen einen eingehenden Header
+// (`x-request-id`) wenn vorhanden (Railway/Cloudflare setzen das oft),
+// sonst generieren wir einen. Der ausgehende Response trägt die ID — nützlich
+// beim Support: "Bitte schick uns die x-request-id aus den DevTools".
+app.use('*', async (c, next) => {
+  const incoming = c.req.header('x-request-id') || c.req.header('cf-ray');
+  const rid = (incoming && incoming.length <= 80) ? incoming : makeRequestId();
+  c.set('requestId' as never, rid);
+  c.header('x-request-id', rid);
+  await next();
+});
 
 app.use('*', cors({
   origin: (process.env.ALLOWED_ORIGINS || 'http://localhost:4321').split(',').map(s => s.trim()),
@@ -113,7 +128,7 @@ app.get('/health', async (c) => {
     await Promise.race([dbCheck, timeout]);
     dbOk = true;
   } catch (err) {
-    console.error('[health] db check failed:', err);
+    logger.warn('health_db_check_failed', { err });
     dbOk = false;
   }
 
@@ -206,17 +221,35 @@ app.route('/admin/gdpr', adminGdprRoute);
 app.route('/admin/cron/ebook-drip', adminEbookDripRoute);
 
 // Globaler Error-Handler → Sentry + JSON-Response
+//
+// WICHTIG: In Production wird NIE der Error-Message an den Client geschickt
+// (könnte PII aus DB-Errors, Query-Strings, File-Paths leaken). Wir loggen
+// die full error mit requestId in strukturiertem JSON + senden dem Client
+// nur die generische Meldung + requestId (damit Support-Anfragen korreliert
+// werden können). In Development geben wir `message` durch für DX.
 app.onError(async (err, c) => {
-  console.error('[hono] unhandled error:', err);
-  captureError(err, {
-    path: new URL(c.req.url).pathname,
-    method: c.req.method,
+  const requestId = (c.get('requestId' as never) as string) || 'unknown';
+  const path = new URL(c.req.url).pathname;
+  const method = c.req.method;
+
+  logger.error('unhandled_error', {
+    requestId,
+    path,
+    method,
+    err,
   });
+  captureError(err, { path, method, requestId });
   await flushSentry(1500);
-  return c.json(
-    { error: 'Internal Server Error', message: err.message || 'unknown' },
-    500,
-  );
+
+  const body: Record<string, unknown> = {
+    error: 'Internal Server Error',
+    requestId,
+  };
+  if (!IS_PROD) {
+    // Only leak message in dev/test — never in prod.
+    body.message = err instanceof Error ? err.message : String(err);
+  }
+  return c.json(body, 500);
 });
 
 // Fail-closed Boot-Checks für Security-kritische Secrets.
@@ -252,23 +285,95 @@ try {
 const port = Number(process.env.PORT) || 3001;
 const host = process.env.HOST || '0.0.0.0';
 
-serve({
+const server = serve({
   fetch: app.fetch,
   port,
   hostname: host,
 }, (info) => {
-  console.log(`[backend] listening on http://${info.address}:${info.port}`);
+  logger.info('backend_listening', { address: info.address, port: info.port });
 });
 
 // Migrations parallel zum Server-Start ausführen — NICHT blockieren.
 // Falls DB noch nicht bereit ist, loggt migrate.ts den Error intern.
 void runStartupMigrations();
 
-// Graceful shutdown: Sentry-Events flushen bevor Prozess endet
-async function gracefulShutdown(signal: string) {
-  console.log(`[backend] ${signal} received — flushing Sentry & exiting`);
+// Graceful shutdown:
+//   1. HTTP-Server schließen — keine neuen Connections annehmen, in-flight
+//      Requests dürfen fertig werden.
+//   2. Kurz warten (drain-Grace) damit Handler-Promises fertig werden.
+//   3. DB-Pool mit Timeout schließen.
+//   4. Sentry-Events flushen.
+//   5. process.exit(0).
+//
+// Gesamt-Budget: ~12s (Railway gibt 30s nach SIGTERM bevor SIGKILL folgt,
+// also bleibt üppig Puffer). Wenn Schritt 1 blockiert, zieht der Hard-Kill
+// nach 15s (force-exit-Timer).
+let isShuttingDown = false;
+async function gracefulShutdown(signal: string): Promise<void> {
+  if (isShuttingDown) return;
+  isShuttingDown = true;
+
+  logger.info('shutdown_start', { signal });
+
+  // Hard-exit Timer — falls irgendeine Ressource nicht freigibt, killen wir
+  // den Prozess nach 15s trotzdem. Railway sendet SIGKILL nach 30s.
+  const forceExit = setTimeout(() => {
+    logger.error('shutdown_force_exit', { signal });
+    process.exit(1);
+  }, 15_000);
+  forceExit.unref();
+
+  // 1) HTTP-Server schließen — kein accept() mehr, aber laufende Requests
+  //    finalisieren. serve() aus @hono/node-server gibt ein Server-Objekt
+  //    zurück mit .close() — typed as http.Server.
+  try {
+    await new Promise<void>((resolve) => {
+      try {
+        (server as { close?: (cb?: (err?: Error | null) => void) => void }).close?.((err) => {
+          if (err) logger.warn('server_close_error', { err });
+          resolve();
+        });
+        // Fallback: wenn close nicht existiert, sofort weiter.
+        if (!(server as { close?: unknown }).close) resolve();
+      } catch (err) {
+        logger.warn('server_close_throw', { err });
+        resolve();
+      }
+    });
+  } catch (err) {
+    logger.warn('server_close_failed', { err });
+  }
+
+  // 2) Kurzer Drain-Timeout, damit async Handler (z.B. fire-and-forget
+  //    SendGrid-Posts) noch ihre DB-Writes abschließen können.
+  await new Promise((r) => setTimeout(r, 500));
+
+  // 3) DB-Pool schließen
+  await closeDbPool(5);
+
+  // 4) Sentry flushen
   await flushSentry(3000);
+
+  clearTimeout(forceExit);
+  logger.info('shutdown_complete', { signal });
   process.exit(0);
 }
+
 process.on('SIGTERM', () => void gracefulShutdown('SIGTERM'));
 process.on('SIGINT', () => void gracefulShutdown('SIGINT'));
+
+// Letzter Safety-Net: unhandled rejections + uncaught exceptions → Sentry
+// + strukturiertes Log. Wir beenden den Prozess NICHT automatisch (Node v20
+// würde das bei unhandledRejection default tun — hier override via
+// process.on), weil Railway den Container sonst neustartet und legitime
+// Traffic-Spitzen unterbricht.
+process.on('unhandledRejection', (reason) => {
+  logger.error('unhandled_rejection', { err: reason });
+  captureError(reason, { source: 'unhandledRejection' });
+});
+process.on('uncaughtException', (err) => {
+  logger.fatal('uncaught_exception', { err });
+  captureError(err, { source: 'uncaughtException' });
+  // Diese Sorte Fehler ist wirklich fatal → graceful shutdown triggern
+  void gracefulShutdown('uncaughtException');
+});

@@ -5,6 +5,7 @@ import { db, schema } from '../db/index.js';
 import { getClientIp, hashIp } from '../lib/crypto.js';
 import { allowRequest } from '../lib/rate-limit.js';
 import { addContactToList, sendWelcomeEmail, isSendGridEnabled } from '../lib/sendgrid.js';
+import { redactEmail } from '../lib/log-helpers.js';
 
 const app = new Hono();
 
@@ -65,7 +66,7 @@ app.post('/', async (c) => {
   const isTestEmail = TEST_DOMAINS.some((d) => email.endsWith(d))
     || TEST_PREFIXES.some((p) => email.startsWith(p));
   if (isTestEmail) {
-    console.log(`[newsletter] ignoring test-email: ${email}`);
+    console.log(`[newsletter] ignoring test-email: ${redactEmail(email)}`);
     return c.json({ success: true, message: 'Willkommen! Du erhältst bald unsere besten Dating-Tipps.' });
   }
 

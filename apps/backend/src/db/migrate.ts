@@ -328,6 +328,40 @@ export async function runStartupMigrations(): Promise<void> {
     await db.execute(sql`CREATE INDEX IF NOT EXISTS newsletter_broadcasts_created_at_idx ON newsletter_broadcasts(created_at)`);
     await db.execute(sql`CREATE INDEX IF NOT EXISTS newsletter_broadcasts_status_idx ON newsletter_broadcasts(status)`);
 
+    // --- Performance-Indices (Reliability-Pass) ---------------------------
+    // Diese Indices fehlten bisher und trafen in heißen Queries einen
+    // Sequential-Scan. Alle Statements sind idempotent (IF NOT EXISTS).
+    //
+    // 1) audit_log(target): GDPR-Suche nach Email in target (siehe admin/gdpr.ts).
+    //    Bei wachsendem Audit-Log wird lineare Suche teuer.
+    await db.execute(sql`
+      CREATE INDEX IF NOT EXISTS audit_log_target_idx
+        ON audit_log(target)
+        WHERE target IS NOT NULL
+    `);
+
+    // 2) products(tracking_target): von track-click.ts für jeden Affiliate-Klick
+    //    gequeried, um den Products-Click-Count aufzulösen. trackingTarget ist
+    //    zwar über slugIdx indirekt verfügbar, aber der Lookup geht anders herum.
+    await db.execute(sql`
+      CREATE INDEX IF NOT EXISTS products_tracking_target_idx
+        ON products(tracking_target)
+    `);
+
+    // 3) clicks(target, ts DESC): bestehender targetTsIdx nutzt ts-ASC,
+    //    aber /herzraum/stats und products-list lesen "neueste Clicks" in
+    //    DESC-Order. Reversed-Ordering bringt messbaren Speed-up.
+    await db.execute(sql`
+      CREATE INDEX IF NOT EXISTS clicks_target_ts_desc_idx
+        ON clicks(target, ts DESC)
+    `);
+
+    // 4) pageviews(path, ts DESC): analog — Top-Pages-Queries lesen DESC.
+    await db.execute(sql`
+      CREATE INDEX IF NOT EXISTS pageviews_path_ts_desc_idx
+        ON pageviews(path, ts DESC)
+    `);
+
     console.log(`[migrate] done in ${Date.now() - start}ms`);
   } catch (err) {
     console.error('[migrate] FAILED:', err);
