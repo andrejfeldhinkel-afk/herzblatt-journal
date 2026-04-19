@@ -31,6 +31,8 @@ faq:
     answer: "Ein Boost macht dein Profil für 30 Minuten zu einem der am häufigsten gezeigten Profile in deiner Umgebung. Laut Tinder erhöht sich die Anzahl der Profilbesuche um das bis zu 10-fache. In unserem Test bekamen wir pro Boost zwischen 4 und 12 neue Matches — deutlich mehr als in vergleichbaren 30 Minuten ohne Boost. Einzeln kosten sie etwa 4–6 €, im Gold/Platinum-Abo ist einer pro Monat enthalten. Am effektivsten: donnerstags und sonntags zwischen 20 und 22 Uhr."
   - question: "Warum bekomme ich so wenig Matches auf Tinder?"
     answer: "Die häufigsten Gründe: (1) Fotos schwach — kein gutes erstes Bild, unklare Gesichter, Gruppenbilder vorne. (2) Profiltext leer oder generisch. (3) Zu schnelles Swipen (Algorithmus stuft dich als Bot ein). (4) Als Mann: mathematisch gesehen bekommen Männer im Schnitt auf 100 Likes nur 1–3 Matches. (5) Alter über 35 reduziert Sichtbarkeit. Lösungen: bessere Fotos (Hochkant, klares Gesicht, 1 Hobby-Bild), konkreter Profiltext, Tinder Gold für Sichtbarkeits-Boost — oder Wechsel zu einer Plattform, wo nicht nur nach Aussehen selektiert wird."
+image: "/images/blog/tinder-bio-tipps.webp"
+imageAlt: "tinder test erfahrungen"
 ---
 
 ## Tinder Test 2026: Unsere ehrliche Bewertung nach 4 Wochen Swipen

@@ -31,6 +31,8 @@ faq:
     answer: "Offiziell gibt ElitePartner rund 3,8 Millionen Mitglieder im DACH-Raum an (Stand 2026), davon etwa 350.000 aktive Nutzer pro Monat. In großen Städten wie Hamburg, Berlin, München, Köln und Frankfurt ist die Auswahl üppig. In Kleinstädten und ländlichen Regionen wird es dünner — hier ist der Pool akademisch qualifizierter Singles oft zu klein für ausreichend Matches."
   - question: "Bekomme ich mein Geld zurück bei Unzufriedenheit?"
     answer: "Das 14-tägige Widerrufsrecht gilt nur, solange die Premium-Dienste nicht aktiv genutzt wurden. Sobald du eine Nachricht versendest oder mehrere Profile ansiehst, verlierst du das Recht auf Rückerstattung — diese Praxis gilt auch bei Parship und LemonSwan. ElitePartner ist hier sehr streng und verweigert in der Regel nachträgliche Rückzahlungen. Teste deshalb die Gratis-Version ausgiebig, bevor du das Premium-Abo aktivierst."
+image: "/images/blog/elitepartner-erfahrungen-test.webp"
+imageAlt: "elitepartner test erfahrungen"
 ---
 
 ## ElitePartner Test 2026: Unsere ehrliche Bewertung nach 4 Wochen Intensiv-Nutzung
