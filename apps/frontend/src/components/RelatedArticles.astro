@@ -1,0 +1,225 @@
+---
+/**
+ * RelatedArticles — zeigt 3-4 themen-verwandte Artikel unter einem Blog-Post.
+ * Scoring: Tag-Overlap > Keyword-Overlap > Gleicher Autor. Gewichtet.
+ * Verwendet die Astro-Content-Collection "blog".
+ */
+import { getCollection } from 'astro:content';
+
+interface Props {
+  currentSlug: string;
+  currentTags?: string[];
+  currentKeywords?: string[];
+  currentAuthor?: string;
+  limit?: number;
+}
+
+const { currentSlug, currentTags = [], currentKeywords = [], currentAuthor, limit = 4 } = Astro.props;
+
+const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+
+const tagSet = new Set((currentTags || []).map(t => t.toLowerCase()));
+const kwSet = new Set((currentKeywords || []).map(k => k.toLowerCase()));
+
+function score(post: any): number {
+  const slug = (post.slug || post.id?.replace(/\.md$/, '') || '').toString();
+  if (slug === currentSlug) return -1;
+  if (post.data.draft) return -1;
+
+  let s = 0;
+  (post.data.tags || []).forEach((t: string) => {
+    if (tagSet.has(String(t).toLowerCase())) s += 3;
+  });
+  (post.data.keywords || []).forEach((k: string) => {
+    if (kwSet.has(String(k).toLowerCase())) s += 1;
+  });
+  if (currentAuthor && post.data.author === currentAuthor) s += 1;
+
+  // Freshness-Bonus: neuere Artikel leicht bevorzugt
+  const date = post.data.date ? new Date(post.data.date).getTime() : 0;
+  const ageDays = (Date.now() - date) / 86400000;
+  if (ageDays < 90) s += 2;
+  else if (ageDays < 180) s += 1;
+
+  return s;
+}
+
+const ranked = allPosts
+  .map((p: any) => ({ post: p, s: score(p) }))
+  .filter(x => x.s > 0)
+  .sort((a, b) => b.s - a.s)
+  .slice(0, limit);
+
+// Fallback falls zu wenig: nimm einfach die neuesten
+if (ranked.length < limit) {
+  const extras = allPosts
+    .filter((p: any) => !ranked.find(r => r.post === p) && (p.slug || p.id?.replace(/\.md$/, '')) !== currentSlug)
+    .sort((a: any, b: any) => new Date(b.data.date || 0).getTime() - new Date(a.data.date || 0).getTime())
+    .slice(0, limit - ranked.length)
+    .map((post: any) => ({ post, s: 0 }));
+  ranked.push(...extras);
+}
+
+const items = ranked.slice(0, limit).map(({ post }: any) => {
+  const slug = post.slug || post.id?.replace(/\.md$/, '') || '';
+  const d = post.data;
+  return {
+    slug,
+    title: d.title,
+    description: d.description,
+    image: d.image,
+    imageAlt: d.imageAlt,
+    date: d.date,
+    tags: (d.tags || []).slice(0, 2),
+    author: d.author,
+    readingTime: d.readingTime,
+  };
+});
+---
+
+{items.length > 0 && (
+  <section class="related-articles" aria-labelledby="related-headline">
+    <div class="related-header">
+      <h2 id="related-headline">Das könnte dich auch interessieren</h2>
+      <p>Weitere Artikel aus dem Herzblatt Journal, die zu deinem gerade gelesenen Thema passen.</p>
+    </div>
+    <div class="related-grid">
+      {items.map((it) => (
+        <a href={`/blog/${it.slug}`} class="related-card">
+          {it.image ? (
+            <div class="ra-img">
+              <img src={it.image} alt={it.imageAlt || it.title} loading="lazy" decoding="async" width="600" height="315" />
+            </div>
+          ) : (
+            <div class="ra-img placeholder">
+              <span>📖</span>
+            </div>
+          )}
+          <div class="ra-body">
+            {it.tags.length > 0 && (
+              <div class="ra-tags">
+                {it.tags.map((t: string) => <span class="ra-tag">{t}</span>)}
+              </div>
+            )}
+            <h3>{it.title}</h3>
+            <p>{it.description}</p>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+)}
+
+<style>
+  .related-articles {
+    margin: 4rem auto;
+    padding: 2.5rem 1.5rem;
+    border-top: 1px solid var(--border, #e5e5e7);
+    max-width: 1200px;
+  }
+  .related-header {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  .related-header h2 {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: clamp(1.5rem, 3vw, 2.2rem);
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    margin: 0 0 0.5rem 0;
+    color: var(--text, #111);
+  }
+  .related-header p {
+    color: var(--text-muted, #6b6b6b);
+    max-width: 58ch;
+    margin: 0 auto;
+    font-size: 0.95rem;
+  }
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 1.25rem;
+  }
+  .related-card {
+    display: flex;
+    flex-direction: column;
+    background: var(--bg-card, #fff);
+    border: 1px solid var(--border, #e5e5e7);
+    border-radius: 14px;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.22s cubic-bezier(.2,.8,.4,1), box-shadow 0.22s, border-color 0.22s;
+  }
+  .related-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px -12px rgba(244,63,94,0.18), 0 4px 8px -4px rgba(0,0,0,0.06);
+    border-color: var(--color-primary-300, #fda4af);
+  }
+  .ra-img {
+    aspect-ratio: 16/9;
+    overflow: hidden;
+    background: linear-gradient(135deg, #ffe4e6, #fff1f2);
+  }
+  .ra-img img {
+    width: 100%; height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+  }
+  .related-card:hover .ra-img img { transform: scale(1.04); }
+  .ra-img.placeholder {
+    display: flex; align-items: center; justify-content: center;
+    font-size: 2.2rem;
+    background: linear-gradient(135deg, #ffe4e6 30%, #fecdd3 70%);
+  }
+  .ra-body {
+    padding: 0.9rem 1rem 1.1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    flex: 1;
+  }
+  .ra-tags {
+    display: flex; gap: 0.3rem;
+    flex-wrap: wrap;
+  }
+  .ra-tag {
+    font-size: 0.68rem;
+    padding: 2px 8px;
+    background: var(--color-primary-50, rgba(244,63,94,0.08));
+    color: var(--color-primary-700, #be123c);
+    border-radius: 999px;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    text-transform: none;
+  }
+  .ra-body h3 {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 1.02rem;
+    font-weight: 700;
+    line-height: 1.3;
+    letter-spacing: -0.01em;
+    margin: 0;
+    color: var(--text, #111);
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .ra-body p {
+    font-size: 0.85rem;
+    color: var(--text-muted, #6b6b6b);
+    line-height: 1.45;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  @media (max-width: 640px) {
+    .related-grid { grid-template-columns: repeat(2, 1fr); gap: 0.8rem; }
+    .ra-body { padding: 0.7rem 0.8rem 0.9rem; }
+    .ra-body h3 { font-size: 0.95rem; }
+    .ra-body p { display: none; }
+  }
+</style>

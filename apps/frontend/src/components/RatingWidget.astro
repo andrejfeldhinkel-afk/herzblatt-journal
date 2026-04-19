@@ -1,0 +1,205 @@
+---
+/**
+ * RatingWidget — sichtbares Sternen-Rating für Review-Artikel.
+ * Kombiniert mit dem Review-Schema-JSON-LD (BaseLayout), damit Google
+ * die Rich-Result-Sterne auch verifiziert (wenn sichtbarer Rating-Block
+ * fehlt, dropt Google manchmal das Rich-Result).
+ *
+ * Wird oben im Artikel (unter dem Hero-Bild) gerendert.
+ */
+interface Props {
+  itemName: string;        // z.B. "Bumble"
+  rating: number;          // 1–5
+  bestRating?: number;     // default 5
+  verdict?: string;        // z.B. "Gut für Frauen, schwach für Männer"
+  pros?: string[];         // bis zu 3 Pros
+  cons?: string[];         // bis zu 3 Cons
+  compact?: boolean;       // reduzierte Version ohne Pros/Cons
+}
+
+const { itemName, rating, bestRating = 5, verdict, pros = [], cons = [], compact = false } = Astro.props;
+
+const pct = (rating / bestRating) * 100;
+const displayed = rating.toFixed(1);
+// Verdict-Label basierend auf Rating
+let verdictLabel = verdict;
+if (!verdictLabel) {
+  if (rating >= 4.5) verdictLabel = 'Herausragend';
+  else if (rating >= 4.0) verdictLabel = 'Sehr gut';
+  else if (rating >= 3.5) verdictLabel = 'Gut';
+  else if (rating >= 3.0) verdictLabel = 'Okay';
+  else if (rating >= 2.0) verdictLabel = 'Schwach';
+  else verdictLabel = 'Nicht empfehlenswert';
+}
+---
+
+<div class="rating-widget" role="region" aria-label={`Bewertung ${itemName}`}>
+  <div class="rw-main">
+    <div class="rw-score">
+      <span class="rw-num">{displayed}</span>
+      <span class="rw-denom">/ {bestRating}</span>
+    </div>
+    <div class="rw-stars" aria-hidden="true">
+      <div class="rw-stars-bg">
+        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+      </div>
+      <div class="rw-stars-fg" style={`width: ${pct}%`}>
+        <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+      </div>
+    </div>
+    <div class="rw-meta">
+      <span class="rw-verdict">{verdictLabel}</span>
+      <span class="rw-item">{itemName}-Test 2026</span>
+    </div>
+  </div>
+
+  {!compact && (pros.length > 0 || cons.length > 0) && (
+    <div class="rw-procon">
+      {pros.length > 0 && (
+        <div class="rw-col rw-pros">
+          <div class="rw-col-head"><span class="rw-col-icon">+</span>Stärken</div>
+          <ul>{pros.slice(0, 3).map((p) => <li>{p}</li>)}</ul>
+        </div>
+      )}
+      {cons.length > 0 && (
+        <div class="rw-col rw-cons">
+          <div class="rw-col-head"><span class="rw-col-icon">−</span>Schwächen</div>
+          <ul>{cons.slice(0, 3).map((c) => <li>{c}</li>)}</ul>
+        </div>
+      )}
+    </div>
+  )}
+</div>
+
+<style>
+  .rating-widget {
+    margin: 2rem 0 2.5rem 0;
+    background: linear-gradient(135deg, var(--bg-card, #fff), var(--bg-soft, #fafafa));
+    border: 1px solid var(--border, #e5e5e7);
+    border-radius: 16px;
+    padding: 1.25rem 1.5rem;
+    box-shadow: 0 4px 20px rgba(244,63,94,0.04);
+    position: relative;
+    overflow: hidden;
+  }
+  .rating-widget::before {
+    content: ''; position: absolute; top: 0; left: 0; right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #f43f5e, #fb923c, #fbbf24);
+  }
+  .rw-main {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 1rem 1.5rem;
+    align-items: center;
+  }
+  .rw-score {
+    display: flex; align-items: baseline; gap: 0.15rem;
+    font-variant-numeric: tabular-nums;
+  }
+  .rw-num {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 2.8rem; font-weight: 800;
+    line-height: 1;
+    letter-spacing: -0.03em;
+    background: linear-gradient(135deg, #f43f5e, #be123c);
+    -webkit-background-clip: text; background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .rw-denom {
+    font-size: 1rem;
+    color: var(--text-muted, #6b6b6b);
+    font-weight: 500;
+  }
+  .rw-stars {
+    position: relative;
+    display: inline-block;
+    font-size: 1.5rem;
+    line-height: 1;
+    letter-spacing: 0.08em;
+  }
+  .rw-stars-bg {
+    color: var(--border, #e5e5e7);
+  }
+  .rw-stars-fg {
+    position: absolute; top: 0; left: 0;
+    color: #fbbf24;
+    overflow: hidden;
+    white-space: nowrap;
+    text-shadow: 0 0 8px rgba(251,191,36,0.3);
+  }
+  .rw-meta {
+    display: flex; flex-direction: column;
+    gap: 0.2rem;
+    text-align: right;
+  }
+  .rw-verdict {
+    font-size: 0.92rem;
+    font-weight: 700;
+    color: var(--text, #111);
+    font-family: 'Playfair Display', Georgia, serif;
+    letter-spacing: -0.01em;
+  }
+  .rw-item {
+    font-size: 0.72rem;
+    color: var(--text-muted, #6b6b6b);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-weight: 600;
+  }
+
+  .rw-procon {
+    margin-top: 1.1rem;
+    padding-top: 1.1rem;
+    border-top: 1px dashed var(--border, #e5e5e7);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.25rem;
+  }
+  .rw-col-head {
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    display: flex; align-items: center; gap: 0.45rem;
+    margin-bottom: 0.5rem;
+  }
+  .rw-col-icon {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 18px; height: 18px;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    font-weight: 800;
+  }
+  .rw-pros .rw-col-head { color: #16a34a; }
+  .rw-pros .rw-col-icon { background: rgba(22,163,74,0.15); color: #16a34a; }
+  .rw-cons .rw-col-head { color: #dc2626; }
+  .rw-cons .rw-col-icon { background: rgba(220,38,38,0.15); color: #dc2626; }
+  .rw-col ul {
+    list-style: none; padding: 0; margin: 0;
+    display: flex; flex-direction: column; gap: 0.35rem;
+    font-size: 0.85rem;
+    color: var(--text, #333);
+    line-height: 1.45;
+  }
+  .rw-col li {
+    display: flex; align-items: flex-start; gap: 0.45rem;
+  }
+  .rw-col li::before {
+    content: '';
+    flex-shrink: 0;
+    width: 4px; height: 4px; border-radius: 50%;
+    margin-top: 0.5rem;
+    background: currentColor;
+    opacity: 0.35;
+  }
+
+  @media (max-width: 640px) {
+    .rw-main {
+      grid-template-columns: auto 1fr;
+      grid-template-rows: auto auto;
+    }
+    .rw-meta { grid-column: 1 / -1; text-align: left; flex-direction: row; justify-content: space-between; align-items: baseline; }
+    .rw-procon { grid-template-columns: 1fr; gap: 0.8rem; }
+  }
+</style>

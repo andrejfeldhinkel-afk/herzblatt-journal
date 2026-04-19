@@ -1,0 +1,228 @@
+---
+/**
+ * TableOfContents — extrahiert H2/H3-Überschriften aus einem Markdown-Body,
+ * zeigt sie als klickbare Sprungmarken. Wird unter dem Hero auf längeren
+ * Artikeln (>1500 Wörter) gerendert.
+ *
+ * Scroll-spy: markiert aktive Section anhand IntersectionObserver.
+ * SEO-Feature: erzeugt "jump-to" links, die Google als Sitelinks in
+ * manchen SERPs zeigt (wenn Ankermarken gut benannt sind).
+ */
+interface Props {
+  body: string;  // Raw Markdown
+  minWords?: number;  // Nur rendern bei mindestens N Wörtern (default 1500)
+  maxItems?: number;
+}
+
+const { body, minWords = 1500, maxItems = 18 } = Astro.props;
+
+// Skip für zu kurze Artikel — ToC macht bei <1500 Wörtern keinen Sinn
+const wordCount = (body || '').split(/\s+/).filter(Boolean).length;
+const showToC = wordCount >= minWords;
+
+// Extrahiere H2/H3 aus Markdown — einfaches Regex, reicht für unser Format
+type Item = { level: 2 | 3; text: string; slug: string };
+
+function slugify(s: string): string {
+  return s
+    .toLowerCase()
+    .trim()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '')  // decompose accents
+    .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')
+    .replace(/[^a-z0-9\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .replace(/^-|-$/g, '');
+}
+
+let items: Item[] = [];
+if (showToC && body) {
+  const lines = body.split('\n');
+  const seen = new Set<string>();
+  for (const raw of lines) {
+    const m = raw.match(/^(#{2,3})\s+(.+?)(?:\s*\{#([^}]+)\})?\s*$/);
+    if (!m) continue;
+    const level = m[1].length as 2 | 3;
+    if (level > 3) continue;
+    const text = m[2].replace(/\*+/g, '').trim();
+    if (text.length < 3) continue;
+    let slug = m[3] || slugify(text);
+    // dedupe
+    let i = 1;
+    let final = slug;
+    while (seen.has(final)) { final = `${slug}-${++i}`; }
+    seen.add(final);
+    items.push({ level, text, slug: final });
+    if (items.length >= maxItems) break;
+  }
+}
+
+const renderToc = showToC && items.length >= 3;
+---
+
+{renderToc && (
+  <aside class="toc" aria-label="Inhaltsverzeichnis">
+    <details open class="toc-details">
+      <summary class="toc-summary">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
+        <span>Inhaltsverzeichnis</span>
+        <span class="toc-count">{items.length}</span>
+      </summary>
+      <ol class="toc-list">
+        {items.map((it) => (
+          <li class={`toc-item toc-level-${it.level}`}>
+            <a href={`#${it.slug}`} data-slug={it.slug}>{it.text}</a>
+          </li>
+        ))}
+      </ol>
+    </details>
+  </aside>
+)}
+
+{renderToc && (
+  <script is:inline define:vars={{ items }}>
+    /* Injects IDs into h2/h3 tags in the article body so anchor links work.
+       Runs after DOM ready. Uses same slugify-logic as server-side. */
+    (function() {
+      function slugify(s) {
+        return String(s).toLowerCase().trim()
+          .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+          .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')
+          .replace(/[^a-z0-9\s-]/g, '').replace(/\s+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+      }
+      const article = document.querySelector('article, .prose, main');
+      if (!article) return;
+      const heads = article.querySelectorAll('h2, h3');
+      const seen = new Set();
+      const headSlugs = [];
+      heads.forEach(h => {
+        if (h.id) { seen.add(h.id); headSlugs.push(h.id); return; }
+        let slug = slugify(h.textContent || '');
+        let i = 1, final = slug;
+        while (seen.has(final)) final = `${slug}-${++i}`;
+        seen.add(final); h.id = final; headSlugs.push(final);
+      });
+
+      // Scroll-spy: aktiviert ToC-Link während User scrollt
+      const tocLinks = document.querySelectorAll('.toc a[data-slug]');
+      const map = new Map();
+      tocLinks.forEach(a => map.set(a.dataset.slug, a));
+      const obs = new IntersectionObserver((entries) => {
+        entries.forEach(e => {
+          if (e.isIntersecting) {
+            tocLinks.forEach(a => a.classList.remove('active'));
+            const a = map.get(e.target.id);
+            if (a) a.classList.add('active');
+          }
+        });
+      }, { rootMargin: '-35% 0px -55% 0px' });
+      heads.forEach(h => obs.observe(h));
+
+      // Smooth scroll auf Klick
+      tocLinks.forEach(a => {
+        a.addEventListener('click', (ev) => {
+          const id = a.getAttribute('href')?.slice(1);
+          if (!id) return;
+          const target = document.getElementById(id);
+          if (!target) return;
+          ev.preventDefault();
+          window.scrollTo({ top: target.getBoundingClientRect().top + window.scrollY - 80, behavior: 'smooth' });
+          history.replaceState(null, '', '#' + id);
+        });
+      });
+    })();
+  </script>
+)}
+
+<style>
+  .toc {
+    margin: 1.5rem 0 2rem 0;
+    padding: 0;
+    max-width: 100%;
+  }
+  .toc-details {
+    background: var(--bg-soft, rgba(0,0,0,0.02));
+    border: 1px solid var(--border, #e5e5e7);
+    border-left: 3px solid var(--color-primary-500, #f43f5e);
+    border-radius: 10px;
+    padding: 0.85rem 1.1rem;
+    transition: box-shadow 0.2s;
+  }
+  .toc-details[open] {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  }
+  .toc-summary {
+    display: flex; align-items: center; gap: 0.6rem;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.92rem;
+    color: var(--text, #111);
+    user-select: none;
+    list-style: none;
+  }
+  .toc-summary::-webkit-details-marker { display: none; }
+  .toc-summary svg { flex-shrink: 0; color: var(--color-primary-600, #e11d48); }
+  .toc-count {
+    margin-left: auto;
+    font-size: 0.72rem;
+    color: var(--text-muted, #6b6b6b);
+    font-variant-numeric: tabular-nums;
+    background: var(--bg-card, #fff);
+    padding: 1px 8px;
+    border-radius: 999px;
+    border: 1px solid var(--border, #e5e5e7);
+  }
+  .toc-list {
+    margin: 0.85rem 0 0 0;
+    padding: 0 0 0 0.25rem;
+    list-style: none;
+    counter-reset: toc;
+    display: flex; flex-direction: column;
+    gap: 0.15rem;
+  }
+  .toc-item {
+    counter-increment: toc;
+    position: relative;
+  }
+  .toc-item a {
+    display: flex; align-items: baseline;
+    gap: 0.55rem;
+    padding: 0.38rem 0.5rem;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    color: var(--text-muted, #6b6b6b);
+    text-decoration: none;
+    line-height: 1.35;
+    transition: all 0.15s;
+  }
+  .toc-item a::before {
+    content: counter(toc, decimal-leading-zero);
+    font-variant-numeric: tabular-nums;
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: var(--color-primary-500, #f43f5e);
+    flex-shrink: 0;
+    min-width: 22px;
+    letter-spacing: 0.03em;
+  }
+  .toc-level-3 a {
+    padding-left: 1.5rem;
+    font-size: 0.85rem;
+    opacity: 0.88;
+  }
+  .toc-level-3 a::before { content: ''; min-width: 8px; }
+  .toc-item a:hover {
+    background: var(--color-primary-50, rgba(244,63,94,0.06));
+    color: var(--text, #111);
+  }
+  .toc-item a.active {
+    background: var(--color-primary-50, rgba(244,63,94,0.08));
+    color: var(--color-primary-700, #be123c);
+    font-weight: 600;
+  }
+
+  @media (max-width: 640px) {
+    .toc-summary { font-size: 0.88rem; }
+    .toc-item a { font-size: 0.85rem; padding: 0.35rem 0.4rem; }
+  }
+</style>

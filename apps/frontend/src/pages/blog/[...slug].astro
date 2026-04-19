@@ -4,6 +4,9 @@ import AppCTA from '../../components/AppCTA.astro';
 import ReadingProgress from '../../components/ReadingProgress.astro';
 import BlogCard from '../../components/BlogCard.astro';
 import ProductGrid from '../../components/ProductGrid.astro';
+import RelatedArticles from '../../components/RelatedArticles.astro';
+import TableOfContents from '../../components/TableOfContents.astro';
+import RatingWidget from '../../components/RatingWidget.astro';
 import { getCollection, render } from 'astro:content';
 import { getAuthor } from '../../data/authors';
 
@@ -321,6 +324,21 @@ if (isReviewArticle) {
           </details>
         )}
 
+        <!-- Rating-Widget (sichtbare Sterne — verifiziert das Review-Schema JSON-LD,
+             damit Google Rich-Results nicht droppt weil on-page-Rating fehlt) -->
+        {review && (
+          <RatingWidget
+            itemName={review.itemName}
+            rating={review.rating}
+            bestRating={review.bestRating}
+            pros={review.pros}
+            cons={review.cons}
+          />
+        )}
+
+        <!-- Table of Contents (nur auf langen Artikeln >1500 Wörter) -->
+        <TableOfContents body={post.body || ''} />
+
         <!-- Content -->
         <div class="prose" id="article-content">
           <Content />
@@ -481,29 +499,14 @@ if (isReviewArticle) {
           <AppCTA variant="inline" />
         </div>
 
-        <!-- Related Articles -->
-        {relatedPosts.length > 0 && (
-          <section class="mt-10 pt-10" style="border-top: 1px solid var(--border);">
-            <div class="flex items-center gap-3 mb-6">
-              <div class="w-1 h-6 rounded-full" style="background: linear-gradient(to bottom, var(--color-primary-500), var(--color-primary-300));"></div>
-              <h2 class="text-sm font-semibold uppercase tracking-wider" style="color: var(--text-muted);">Das könnte dich auch interessieren</h2>
-            </div>
-            <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
-              {relatedPosts.map(rp => (
-                <BlogCard
-                  title={rp.data.title}
-                  description={rp.data.description}
-                  date={rp.data.date}
-                  tags={rp.data.tags}
-                  slug={rp.id}
-                  readingTime={getReadingTime(rp.body || '')}
-                  image={rp.data.image}
-                  imageAlt={rp.data.imageAlt}
-                />
-              ))}
-            </div>
-          </section>
-        )}
+        <!-- Related Articles (neue Component mit Multi-Faktor-Scoring + Freshness-Bonus) -->
+        <RelatedArticles
+          currentSlug={post.id}
+          currentTags={post.data.tags}
+          currentKeywords={post.data.keywords}
+          currentAuthor={post.data.author}
+          limit={4}
+        />
 
         <!-- Footer Tags -->
         <footer class="mt-8 pt-8" style="border-top: 1px solid var(--border);">
