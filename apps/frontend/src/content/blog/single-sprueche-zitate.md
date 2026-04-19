@@ -10,7 +10,7 @@ tags:
 keywords: ["single sprüche", "single zitate", "sprüche alleinsein"]
 draft: false
 featured: false
-author: "redaktion"
+author: "sarah-kellner"
 faq:
   - question: "Warum sollte ich Single sein wollen, wenn ich doch eine Beziehung will?"
     answer: "Single zu sein ist nicht ein Scheitern. Es ist eine Phase, in der du dich selbst kennenlernen kannst, ohne dass jemand anders deine Zeit beansprucht. Wenn du diese Phase liebst, wirst du eine gesündere Beziehung aufbauen, wenn es passiert."
