@@ -7,8 +7,9 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { hashIp, getClientIp } from './crypto.js';
 
-// Für deterministische Tests immer gleiches Salt setzen
-process.env.IP_SALT = 'fixed-test-salt';
+// Für deterministische Tests immer gleiches Salt setzen.
+// MUSS mindestens 16 Zeichen sein (fail-closed-Guard in hashIp()).
+process.env.IP_SALT = 'fixed-test-salt-0123456789';
 
 test('hashIp: returns 32-char hex', () => {
   const h = hashIp('127.0.0.1');
@@ -26,12 +27,26 @@ test('hashIp: different IPs → different hashes', () => {
 
 test('hashIp: salt matters (different salt → different hash)', () => {
   const original = process.env.IP_SALT;
-  process.env.IP_SALT = 'salt-a';
+  process.env.IP_SALT = 'salt-a-padded-to-min-len';
   const hA = hashIp('10.0.0.1');
-  process.env.IP_SALT = 'salt-b';
+  process.env.IP_SALT = 'salt-b-padded-to-min-len';
   const hB = hashIp('10.0.0.1');
   process.env.IP_SALT = original;
   assert.notEqual(hA, hB);
+});
+
+test('hashIp: throws when IP_SALT missing', () => {
+  const original = process.env.IP_SALT;
+  delete process.env.IP_SALT;
+  assert.throws(() => hashIp('1.2.3.4'), /IP_SALT/i);
+  process.env.IP_SALT = original;
+});
+
+test('hashIp: throws when IP_SALT too short', () => {
+  const original = process.env.IP_SALT;
+  process.env.IP_SALT = 'too-short';
+  assert.throws(() => hashIp('1.2.3.4'), /IP_SALT/i);
+  process.env.IP_SALT = original;
 });
 
 test('hashIp: IPv6 works too', () => {
