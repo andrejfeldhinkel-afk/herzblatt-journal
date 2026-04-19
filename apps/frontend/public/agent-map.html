@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Herzblatt Journal — Agent Session Map</title>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<style>
+  :root {
+    --bg-0: #04040c;
+    --bg-1: #0a0818;
+    --fg: #f3f4f8;
+    --muted: #7a7d8f;
+    --muted-2: #a5a7b8;
+    --line: rgba(255,255,255,0.08);
+    --rose: #ff3868;
+    --cyan: #22d3ee;
+    --violet: #a78bfa;
+    --amber: #fbbf24;
+    --orange: #fb923c;
+    --green: #22c55e;
+    --green-2: #10b981;
+    --panel: rgba(10,8,24,.82);
+    --panel-border: rgba(255,255,255,.08);
+  }
+  * { box-sizing: border-box; -webkit-font-smoothing: antialiased; margin: 0; padding: 0; }
+  html, body {
+    min-height: 100vh; width: 100%;
+    background:
+      radial-gradient(ellipse at 20% 30%, rgba(139,92,246,.15) 0%, transparent 50%),
+      radial-gradient(ellipse at 80% 70%, rgba(244,63,94,.10) 0%, transparent 50%),
+      linear-gradient(180deg, #04040c 0%, #0a0818 100%);
+    color: var(--fg);
+    font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+    overflow: hidden;
+  }
+  .stars { position: fixed; inset: 0; pointer-events: none; opacity: 0.18;
+    background-image:
+      radial-gradient(1px 1px at 20% 30%, white, transparent),
+      radial-gradient(1px 1px at 60% 70%, white, transparent),
+      radial-gradient(2px 2px at 30% 80%, white, transparent),
+      radial-gradient(1px 1px at 80% 10%, white, transparent),
+      radial-gradient(1px 1px at 40% 40%, white, transparent),
+      radial-gradient(2px 2px at 70% 20%, white, transparent);
+    background-repeat: repeat; background-size: 300px 300px;
+    animation: drift 150s linear infinite;
+  }
+  @keyframes drift {
+    from { background-position: 0 0; } to { background-position: 900px 400px; }
+  }
+
+  header {
+    position: fixed; top: 0; left: 0; right: 0; z-index: 20;
+    display: flex; align-items: center; gap: 18px;
+    padding: 16px 24px;
+    background: linear-gradient(180deg, rgba(4,4,12,.96), rgba(4,4,12,.55) 80%, transparent);
+    backdrop-filter: blur(10px);
+  }
+  .brand {
+    display: flex; align-items: center; gap: 10px;
+    font-size: 11px; color: var(--muted);
+    text-transform: uppercase; letter-spacing: .18em;
+  }
+  .brand-dot { width: 9px; height: 9px; border-radius: 50%; background: var(--rose);
+    box-shadow: 0 0 12px var(--rose); }
+  h1 { font-size: 19px; font-weight: 700; letter-spacing: -0.01em; color: var(--fg); }
+  .sub { font-size: 12px; color: var(--muted); margin-left: 12px; }
+
+  .tabs { display: flex; margin-left: auto; gap: 4px; background: rgba(255,255,255,.04);
+    padding: 3px; border-radius: 10px; border: 1px solid var(--panel-border); }
+  .tab {
+    padding: 8px 16px; font-size: 13px; font-weight: 500; letter-spacing: 0.01em;
+    color: var(--muted); background: transparent; border: 0; border-radius: 7px;
+    cursor: pointer; transition: all .18s ease;
+  }
+  .tab:hover { color: var(--fg); background: rgba(255,255,255,.04); }
+  .tab.active { color: var(--fg); background: rgba(255,56,104,.18);
+    box-shadow: inset 0 0 0 1px rgba(255,56,104,.3); }
+
+  main { position: fixed; top: 56px; left: 0; right: 0; bottom: 0; overflow: hidden; }
+  .view { position: absolute; inset: 0; display: none; }
+  .view.active { display: block; }
+
+  /* ─── Shared panels ─── */
+  .panel {
+    position: fixed; z-index: 10;
+    background: var(--panel); border: 1px solid var(--panel-border);
+    border-radius: 12px; backdrop-filter: blur(14px);
+    padding: 14px 16px; font-size: 12px; color: var(--muted-2);
+  }
+  .panel h3 {
+    font-size: 10px; color: var(--rose); text-transform: uppercase;
+    letter-spacing: .18em; margin-bottom: 10px; font-weight: 700;
+  }
+  #legend { top: 76px; left: 20px; width: 220px; }
+  #stats { top: 76px; right: 20px; width: 260px; }
+  #detail { bottom: 20px; right: 20px; width: 340px; max-height: 55vh;
+    overflow-y: auto; transition: transform .25s ease, opacity .25s ease; }
+  #detail.hidden { transform: translateY(20px); opacity: 0; pointer-events: none; }
+  #activity { bottom: 20px; left: 20px; width: 380px; max-height: 240px;
+    overflow-y: auto; }
+
+  .leg-row { display: flex; align-items: center; gap: 10px; margin: 5px 0; }
+  .leg-dot { width: 11px; height: 11px; border-radius: 50%; flex-shrink: 0; }
+  .leg-row b { color: var(--fg); font-weight: 500; margin-right: 3px; }
+  .leg-note { margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--panel-border);
+    font-size: 11px; color: var(--muted); line-height: 1.6; }
+
+  .stat-row { display: flex; justify-content: space-between; align-items: center;
+    margin: 4px 0; font-size: 12px; }
+  .stat-row b { color: var(--fg); font-weight: 600; font-variant-numeric: tabular-nums; }
+  .stat-big { display: flex; align-items: baseline; gap: 6px;
+    font-size: 26px; font-weight: 800; color: var(--fg); margin-bottom: 10px; }
+  .stat-big-unit { font-size: 12px; font-weight: 500; color: var(--muted);
+    text-transform: uppercase; letter-spacing: .16em; }
+  .ok-dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%;
+    background: var(--green); box-shadow: 0 0 6px var(--green); margin-right: 8px; }
+
+  #detail h2 { font-size: 14px; color: var(--fg); margin-bottom: 4px; font-weight: 600; }
+  #detail .d-sub { font-size: 11px; color: var(--muted); text-transform: uppercase;
+    letter-spacing: .12em; margin-bottom: 12px; }
+  #detail p { font-size: 13px; color: var(--muted-2); line-height: 1.5; }
+  #detail .close { position: absolute; top: 10px; right: 12px; background: transparent;
+    border: 0; color: var(--muted); font-size: 18px; cursor: pointer; padding: 4px 8px; }
+  #detail .close:hover { color: var(--fg); }
+
+  .log-row { display: flex; gap: 10px; padding: 6px 0;
+    border-bottom: 1px solid rgba(255,255,255,.04); font-size: 12px; }
+  .log-row:last-child { border-bottom: 0; }
+  .log-time { color: var(--muted); font-variant-numeric: tabular-nums; flex-shrink: 0;
+    font-size: 11px; padding-top: 2px; }
+  .log-pill { font-size: 10px; text-transform: uppercase; letter-spacing: .08em;
+    padding: 2px 6px; border-radius: 4px; align-self: center; font-weight: 600; flex-shrink: 0; }
+  .log-pill.pr { background: rgba(34,197,94,.15); color: var(--green); }
+  .log-pill.sec { background: rgba(255,56,104,.18); color: var(--rose); }
+  .log-pill.agent { background: rgba(167,139,250,.18); color: var(--violet); }
+  .log-pill.deploy { background: rgba(251,191,36,.18); color: var(--amber); }
+  .log-text { flex: 1; color: var(--muted-2); line-height: 1.4; }
+
+  /* ─── Overview (force-directed) ─── */
+  #view-overview svg { width: 100%; height: 100%; cursor: grab; }
+  #view-overview svg:active { cursor: grabbing; }
+  .edge { stroke: rgba(255,56,104,.3); stroke-width: 1; fill: none; }
+  .edge.thin { stroke: rgba(255,255,255,.08); }
+  .node circle { cursor: pointer; transition: filter .2s; }
+  .node:hover circle { filter: brightness(1.4) drop-shadow(0 0 8px currentColor); }
+  .node text { pointer-events: none; font-size: 11px; fill: var(--fg);
+    text-anchor: middle; font-weight: 500; }
+  .node .sub { font-size: 9px; fill: var(--muted); text-transform: uppercase;
+    letter-spacing: .08em; }
+  .zoom-hint { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%);
+    font-size: 11px; color: var(--muted); pointer-events: none;
+    background: rgba(0,0,0,.4); padding: 6px 14px; border-radius: 20px;
+    border: 1px solid var(--panel-border); z-index: 5; }
+
+  /* ─── Phases (swim-lanes) ─── */
+  #view-phases { overflow-x: auto; overflow-y: hidden; padding: 100px 40px 40px; }
+  .phase-grid { display: flex; gap: 20px; min-height: calc(100vh - 160px); min-width: min-content; }
+  .phase-col { min-width: 200px; flex: 1; display: flex; flex-direction: column;
+    border-left: 1px dashed rgba(255,255,255,.08); padding-left: 16px; }
+  .phase-col:first-child { border-left: 0; padding-left: 0; }
+  .phase-head { display: flex; align-items: center; gap: 10px; margin-bottom: 18px;
+    padding-bottom: 10px; border-bottom: 1px solid var(--panel-border); }
+  .phase-head .dot { width: 10px; height: 10px; border-radius: 50%; }
+  .phase-head h4 { font-size: 13px; color: var(--fg); font-weight: 600; }
+  .phase-head .count { margin-left: auto; font-size: 11px; color: var(--muted);
+    font-variant-numeric: tabular-nums; }
+  .phase-node {
+    background: rgba(255,255,255,.03); border: 1px solid rgba(255,255,255,.08);
+    border-left: 3px solid; padding: 10px 12px; margin-bottom: 10px;
+    border-radius: 6px; cursor: pointer; transition: all .15s;
+  }
+  .phase-node:hover { background: rgba(255,255,255,.07); transform: translateX(2px); }
+  .phase-node .pn-label { font-size: 12px; color: var(--fg); font-weight: 600; }
+  .phase-node .pn-sub { font-size: 11px; color: var(--muted); margin-top: 2px; }
+
+  /* ─── Timeline (gantt) ─── */
+  #view-timeline { padding: 80px 40px 60px; overflow-x: auto; overflow-y: auto; }
+  .tl-wrap { min-width: 1100px; }
+  .tl-axis { height: 40px; border-bottom: 1px solid var(--panel-border);
+    position: relative; margin-bottom: 20px; }
+  .tl-tick { position: absolute; top: 0; bottom: 0; border-left: 1px dashed rgba(255,255,255,.06);
+    font-size: 10px; color: var(--muted); padding: 2px 0 0 4px;
+    font-variant-numeric: tabular-nums; }
+  .tl-row { display: flex; align-items: center; height: 40px;
+    border-bottom: 1px dashed rgba(255,255,255,.04); position: relative; }
+  .tl-row-label { width: 200px; flex-shrink: 0; font-size: 12px; color: var(--muted-2);
+    padding-right: 16px; text-align: right; }
+  .tl-row-label b { display: block; color: var(--fg); font-weight: 600; }
+  .tl-track { flex: 1; height: 100%; position: relative; }
+  .tl-bar {
+    position: absolute; top: 12px; height: 16px; border-radius: 4px;
+    cursor: pointer; transition: filter .15s;
+    display: flex; align-items: center; padding: 0 8px;
+    font-size: 10px; color: #000; font-weight: 600; white-space: nowrap; overflow: hidden;
+  }
+  .tl-bar:hover { filter: brightness(1.3); }
+  .tl-diamond {
+    position: absolute; top: 12px; width: 16px; height: 16px;
+    transform: rotate(45deg); border: 2px solid var(--fg);
+    cursor: pointer; transition: transform .15s;
+  }
+  .tl-diamond:hover { transform: rotate(45deg) scale(1.25); }
+  .tl-diamond-label {
+    position: absolute; top: 32px; font-size: 9px; color: var(--muted-2);
+    transform: translateX(-50%); white-space: nowrap; pointer-events: none;
+  }
+
+  /* Small screens */
+  @media (max-width: 900px) {
+    #legend, #stats { position: static; width: auto; margin: 8px; }
+    #detail, #activity { width: calc(100vw - 24px); left: 12px; right: 12px; }
+    header { flex-wrap: wrap; }
+    .tabs { width: 100%; margin-top: 8px; }
+  }
+</style>
+</head>
+<body>
+<div class="stars"></div>
+
+<header>
+  <span class="brand"><span class="brand-dot"></span>HERZBLATT JOURNAL · 20-PR AUTOMATIK</span>
+  <h1>Agent Session Map</h1>
+  <span class="sub">6 Std · 10 Agents · 20 PRs · 6 CRITICAL Fixes</span>
+  <nav class="tabs" role="tablist">
+    <button class="tab active" data-view="overview">Overview</button>
+    <button class="tab" data-view="phases">Phases</button>
+    <button class="tab" data-view="timeline">Timeline</button>
+  </nav>
+</header>
+
+<main>
+  <section id="view-overview" class="view active">
+    <svg></svg>
+    <div class="zoom-hint">Scroll zum Zoomen · Drag Hintergrund zum Pannen · Drag Nodes verschieben</div>
+  </section>
+
+  <section id="view-phases" class="view">
+    <div class="phase-grid" id="phase-grid"></div>
+  </section>
+
+  <section id="view-timeline" class="view">
+    <div class="tl-wrap" id="tl-wrap"></div>
+  </section>
+</main>
+
+<aside id="legend" class="panel">
+  <h3>Legende</h3>
+  <div class="leg-row"><span class="leg-dot" style="background:#ff3868"></span><b>Coordinator</b></div>
+  <div class="leg-row"><span class="leg-dot" style="background:#a78bfa"></span><b>General Agent</b></div>
+  <div class="leg-row"><span class="leg-dot" style="background:#22d3ee"></span><b>Spezialist (gsd-*)</b></div>
+  <div class="leg-row"><span class="leg-dot" style="background:#fbbf24"></span><b>Infra / Browser</b></div>
+  <div class="leg-row"><span class="leg-dot" style="background:#22c55e"></span><b>Artefakt (PR)</b></div>
+  <div class="leg-row"><span class="leg-dot" style="background:#ff3868"></span><b>CRITICAL PR</b></div>
+  <div class="leg-note">Klick auf einen Node für Details. Tab oben wechselt Layout.</div>
+</aside>
+
+<aside id="stats" class="panel">
+  <h3>Session-Ergebnis</h3>
+  <div class="stat-big">20 <span class="stat-big-unit">PRs ausgeliefert</span></div>
+  <div class="stat-row"><span><span class="ok-dot"></span>Agents koordiniert</span><b>10</b></div>
+  <div class="stat-row"><span><span class="ok-dot"></span>Audit-Phasen</span><b>7 / 9</b></div>
+  <div class="stat-row"><span><span class="ok-dot"></span>Secrets rotiert</span><b>6</b></div>
+  <div class="stat-row"><span><span class="ok-dot"></span>CRITICAL Fixes</span><b>6</b></div>
+  <div class="leg-note" style="display:flex;flex-direction:column;gap:4px;">
+    <div class="stat-row"><span>Ebook-Kapitel</span><b>15 / 15</b></div>
+    <div class="stat-row"><span>Bonus-Materialien</span><b>5 / 5</b></div>
+    <div class="stat-row"><span>Code-Zeilen geändert</span><b>~5.000</b></div>
+    <div class="stat-row"><span>Wörter Content</span><b>~61k</b></div>
+    <div class="stat-row"><span>Prod-Outages</span><b>0</b></div>
+    <div class="stat-row"><span>Session-Dauer</span><b>~6 h</b></div>
+  </div>
+</aside>
+
+<aside id="detail" class="panel hidden">
+  <button class="close">×</button>
+  <h2 id="d-label">—</h2>
+  <div class="d-sub" id="d-sub">—</div>
+  <p id="d-desc">—</p>
+</aside>
+
+<aside id="activity" class="panel">
+  <h3>Activity Feed</h3>
+  <div id="logList"></div>
+</aside>
+
+<script>
+// ─── Data ────────────────────────────────────────────────────────────────
+const NODES = [
+  { id:'main', r:28, color:'#ff3868', type:'coord', phase:'coord', label:'Main Agent', sub:'Coordinator · Opus 4.7',
+    desc:'Koordinierte alle 10 Sub-Agents, merged 20 PRs, triggerte Railway-Deploys, rotierte Secrets.' },
+
+  // Discovery agents
+  { id:'agent-p1', r:16, color:'#a78bfa', type:'general', phase:'discovery', label:'Phase 1 · Inventar', sub:'general-purpose',
+    desc:'23 Admin-Pages, 37 Backend-Routes, 15 DB-Tabellen kartografiert. Fand Secret-Leaks in docs/plans/.' },
+  { id:'agent-p2', r:16, color:'#a78bfa', type:'general', phase:'discovery', label:'Phase 2 · Admin', sub:'general-purpose',
+    desc:'2 CRITICAL XSS (Inbox, Autoren) + data.clear-Reauth-Lücke.' },
+  { id:'agent-p5', r:16, color:'#a78bfa', type:'general', phase:'discovery', label:'Phase 5 · DB', sub:'general-purpose',
+    desc:'Retention-Gaps, UNIQUE-Missing, GDPR-Lücke.' },
+  { id:'agent-adminlive', r:18, color:'#a78bfa', type:'general', phase:'discovery', label:'Live-Admin-Durchklick', sub:'general-purpose',
+    desc:'Klickte alle 22 Admin-Pages durch. Fand CRITICAL Artikel-Editor-Bug (1164 Artikel gefährdet).' },
+
+  // Content
+  { id:'agent-ebook', r:18, color:'#a78bfa', type:'general', phase:'content', label:'Ebook · 12 Kapitel', sub:'general-purpose',
+    desc:'12 Kapitel, ~31.250 Wörter. Konsistent "Sie"-Anrede. AUDIT-EXISTING.md produziert.' },
+  { id:'agent-bonus', r:18, color:'#a78bfa', type:'general', phase:'content', label:'Bonus-Materialien · 5', sub:'general-purpose',
+    desc:'Workbook + 30 Nachrichten-Vorlagen + Red-Flag-Checkliste + 60-Fragen-Bindungs-Test + Updates-Index (~14.900 Wörter).' },
+  { id:'agent-delivery', r:18, color:'#a78bfa', type:'general', phase:'content', label:'Ebook-Delivery-System', sub:'general-purpose',
+    desc:'Gated Reading-Page /ebook/lesen + Token-API + SendGrid-Delivery + Admin-Resend. PR #29.' },
+
+  // Specialists (review)
+  { id:'agent-cr', r:16, color:'#22d3ee', type:'specialist', phase:'review', label:'Phase 4 · Backend-Review', sub:'gsd-code-reviewer',
+    desc:'27 Findings: 3 CRITICAL, 7 HIGH, 10 MED, 7 LOW.' },
+  { id:'agent-sec', r:18, color:'#22d3ee', type:'specialist', phase:'review', label:'Phase 6 · Security', sub:'gsd-security-auditor',
+    desc:'3 CRITICAL Secret-Leaks, SQL-Inj, fehlende Rate-Limits, CSRF-Gaps, fehlende Retention.' },
+  { id:'agent-ui', r:16, color:'#22d3ee', type:'specialist', phase:'review', label:'Phase 8 · UX', sub:'gsd-ui-auditor',
+    desc:'Score 14.3/24 vs Parship. 5 P0 (fake-form, brand, dark-patterns), P1 Perf + A11y.' },
+
+  // Fixers
+  { id:'agent-fix-p4', r:15, color:'#22d3ee', type:'specialist', phase:'fix', label:'F1/F2/F3 Critical', sub:'gsd-code-fixer',
+    desc:'purchases UNIQUE + crypto fail-closed + unsubscribe fallback weg. 24/24 Tests grün.' },
+  { id:'agent-fix-xss', r:15, color:'#22d3ee', type:'specialist', phase:'fix', label:'XSS + Reauth', sub:'gsd-code-fixer',
+    desc:'XSS in Inbox/Autoren/Audit. data.clear Re-Auth-Phrase "LOESCHEN" + Audit-Log.' },
+  { id:'agent-fix-ux', r:15, color:'#22d3ee', type:'specialist', phase:'fix', label:'UX P0', sub:'gsd-code-fixer',
+    desc:'Kontakt-Form echt, Brand-Consistency Sarah Kellner, Fake-Counter raus.' },
+  { id:'agent-fix-hard', r:15, color:'#22d3ee', type:'specialist', phase:'fix', label:'Backend-Hardening', sub:'gsd-code-fixer',
+    desc:'5 Commits: Rate-Limits, UNIQUE, Retention, GDPR, Webhook-GET-Leak-Fix.' },
+  { id:'agent-fix-p1', r:15, color:'#22d3ee', type:'specialist', phase:'fix', label:'UX P1 + A11y', sub:'gsd-code-fixer',
+    desc:'Skip-Link, Focus-Visible, 44px Touch, Blog-Pagination, Lazy-Whop, GPU-Blurs.' },
+  { id:'agent-fix-admin', r:16, color:'#22d3ee', type:'specialist', phase:'fix', label:'Admin CRITICAL Fixes', sub:'gsd-code-fixer',
+    desc:'PR #30: Artikel-Editor-Bug (1164 Artikel gerettet), /bilder SSR, /redirects, Empty-States.' },
+
+  // Infra
+  { id:'railway', r:14, color:'#fbbf24', type:'infra', phase:'infra', label:'Railway GraphQL', sub:'Deploy + Env-Vars',
+    desc:'20+ Deploys, 6 Secret-Rotations, /health monitoring. Service-IDs: FE 2ba9…, BE 7411…' },
+  { id:'chrome', r:13, color:'#fbbf24', type:'infra', phase:'infra', label:'Claude in Chrome', sub:'Browser-Automation',
+    desc:'Micropayment-Dashboard-Setup + Live-Admin-Durchklick.' },
+
+  // PRs
+  { id:'pr11', r:10, color:'#22c55e', type:'artifact', phase:'pr', time:'12:00', label:'PR #11', sub:'3-Method Picker' },
+  { id:'pr12', r:10, color:'#22c55e', type:'artifact', phase:'pr', time:'12:30', label:'PR #12', sub:'Whop Modal' },
+  { id:'pr13', r:10, color:'#22c55e', type:'artifact', phase:'pr', time:'14:51', label:'PR #13', sub:'Admin View' },
+  { id:'pr14', r:10, color:'#22c55e', type:'artifact', phase:'pr', time:'14:00', label:'PR #14', sub:'Mobile Promo' },
+  { id:'pr15', r:10, color:'#22c55e', type:'artifact', phase:'pr', time:'14:30', label:'PR #15', sub:'Raten raus' },
+  { id:'pr16', r:11, color:'#22c55e', type:'artifact', phase:'pr', time:'15:00', label:'PR #16', sub:'Avatare + Modal' },
+  { id:'pr17', r:13, color:'#ff3868', type:'artifact', phase:'pr', time:'15:20', label:'PR #17', sub:'🚨 Secret-Leak Fix',
+    desc:'4 Leak-Dateien aus docs/plans/ entfernt, parallel 5 Secrets rotiert.' },
+  { id:'pr18', r:12, color:'#ff3868', type:'artifact', phase:'pr', time:'15:25', label:'PR #18', sub:'Drizzle SQL-Inj',
+    desc:'GHSA-gpj5-g38j-94v9 Patch (0.37 → 0.45.2).' },
+  { id:'pr19', r:11, color:'#ff3868', type:'artifact', phase:'pr', time:'15:36', label:'PR #19', sub:'Backend Race',
+    desc:'purchases UNIQUE + crypto fail-closed + unsubscribe fallback weg.' },
+  { id:'pr20', r:11, color:'#ff3868', type:'artifact', phase:'pr', time:'15:40', label:'PR #20', sub:'Admin XSS',
+    desc:'Inbox/Autoren/Audit XSS + data.clear Reauth.' },
+  { id:'pr21', r:11, color:'#22c55e', type:'artifact', phase:'pr', time:'17:00', label:'PR #21', sub:'UX P0' },
+  { id:'pr22', r:12, color:'#22c55e', type:'artifact', phase:'pr', time:'17:05', label:'PR #22', sub:'12 Kapitel' },
+  { id:'pr23', r:11, color:'#22c55e', type:'artifact', phase:'pr', time:'17:10', label:'PR #23', sub:'5 Bonusse' },
+  { id:'pr24', r:10, color:'#22c55e', type:'artifact', phase:'pr', time:'17:15', label:'PR #24', sub:'52k Counter' },
+  { id:'pr25', r:10, color:'#22c55e', type:'artifact', phase:'pr', time:'17:30', label:'PR #25', sub:'Hardening' },
+  { id:'pr26', r:10, color:'#22c55e', type:'artifact', phase:'pr', time:'17:38', label:'PR #26', sub:'Quiz + Counter' },
+  { id:'pr27', r:10, color:'#22c55e', type:'artifact', phase:'pr', time:'17:45', label:'PR #27', sub:'Click-Whitelist' },
+  { id:'pr28', r:10, color:'#22c55e', type:'artifact', phase:'pr', time:'17:50', label:'PR #28', sub:'UX P1' },
+  { id:'pr29', r:11, color:'#10b981', type:'artifact', phase:'pr', time:'17:55', label:'PR #29', sub:'Ebook Delivery' },
+  { id:'pr30', r:12, color:'#10b981', type:'artifact', phase:'pr', time:'18:10', label:'PR #30', sub:'Admin CRIT Fixes',
+    desc:'Artikel-Editor Data-Loss-Fix — 1164 Artikel gerettet.' },
+];
+
+const AGENT_IDS = NODES.filter(n => n.type !== 'artifact' && n.id !== 'main').map(n => n.id);
+const PR_IDS = NODES.filter(n => n.type === 'artifact').map(n => n.id);
+
+const EDGES = [
+  ...AGENT_IDS.map(t => ({ s:'main', t })),
+  ...PR_IDS.map(t => ({ s:'main', t, thin:true })),
+];
+
+const PHASES = [
+  { id:'coord',     title:'Coordinator',  color:'#ff3868' },
+  { id:'discovery', title:'Discovery / Audit', color:'#a78bfa' },
+  { id:'review',    title:'Review / Spezialisten', color:'#22d3ee' },
+  { id:'fix',       title:'Fixer-Wave', color:'#22d3ee' },
+  { id:'content',   title:'Ebook + Content', color:'#a78bfa' },
+  { id:'infra',     title:'Infra + Deploy', color:'#fbbf24' },
+  { id:'pr',        title:'PRs (chronologisch)', color:'#22c55e' },
+];
+
+const LOG = [
+  { t:'18:10', cat:'pr',     text:'PR #30 merged · Admin CRIT-Fixes (Artikel-Editor → 1164 Artikel gerettet)' },
+  { t:'17:55', cat:'pr',     text:'PR #29 merged · Ebook-Delivery-System live' },
+  { t:'17:50', cat:'pr',     text:'PR #28 merged · UX P1 (Skip-Link, 44px Touch, Blog-Pagination)' },
+  { t:'17:45', cat:'pr',     text:'PR #27 merged · Click-Tracking-Whitelist-Fix' },
+  { t:'17:38', cat:'pr',     text:'PR #26 merged · Quiz-Card + wachsender Counter' },
+  { t:'17:30', cat:'pr',     text:'PR #25 merged · Backend-Hardening (Rate-Limits + UNIQUE + Retention)' },
+  { t:'17:15', cat:'pr',     text:'PR #24 merged · 52k Reader-Counter + Blog-Fallback-Bilder' },
+  { t:'16:30', cat:'agent',  text:'4 Fixer-Agents spawned (parallel)' },
+  { t:'15:40', cat:'sec',    text:'PR #20 merged · CRITICAL Admin XSS + data.clear Reauth' },
+  { t:'15:36', cat:'sec',    text:'PR #19 merged · Backend CRITICAL Race + Secret-Fallback-Fix' },
+  { t:'15:25', cat:'sec',    text:'PR #18 merged · Drizzle SQL-Injection-Patch' },
+  { t:'15:20', cat:'sec',    text:'PR #17 merged · 🚨 4 Leak-Docs entfernt, 5 Secrets rotiert' },
+  { t:'14:51', cat:'pr',     text:'PR #13 merged · Admin Multi-Provider-View + /health' },
+  { t:'13:30', cat:'deploy', text:'Micropayment-Dashboard: Sofort + paysafecard aktiviert' },
+  { t:'13:00', cat:'deploy', text:'Whop-Produkt "Herzblatt-Methode" angelegt' },
+  { t:'12:00', cat:'pr',     text:'PR #11 merged · 3-Method-Checkout-Picker live' },
+];
+
+// ─── Tab switching ───────────────────────────────────────────────────────
+document.querySelectorAll('.tab').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const view = btn.dataset.view;
+    document.querySelectorAll('.tab').forEach(b => b.classList.toggle('active', b === btn));
+    document.querySelectorAll('.view').forEach(v => v.classList.toggle('active', v.id === 'view-' + view));
+    if (view === 'overview') ensureOverview();
+    if (view === 'phases') renderPhases();
+    if (view === 'timeline') renderTimeline();
+  });
+});
+
+// ─── Detail panel ─────────────────────────────────────────────────────────
+const detail = document.getElementById('detail');
+function showDetail(n) {
+  document.getElementById('d-label').textContent = n.label;
+  document.getElementById('d-label').style.color = n.color;
+  document.getElementById('d-sub').textContent = (n.sub || '') + (n.time ? ' · ' + n.time : '');
+  document.getElementById('d-desc').textContent = n.desc || '—';
+  detail.classList.remove('hidden');
+}
+detail.querySelector('.close').addEventListener('click', () => detail.classList.add('hidden'));
+
+// ─── Overview (D3 force-directed) ─────────────────────────────────────────
+let overviewRendered = false;
+function ensureOverview() {
+  if (overviewRendered) return;
+  overviewRendered = true;
+  const svg = d3.select('#view-overview svg');
+  const W = window.innerWidth, H = window.innerHeight - 56;
+  svg.attr('viewBox', `0 0 ${W} ${H}`);
+
+  const g = svg.append('g');
+  const zoom = d3.zoom().scaleExtent([0.3, 3]).on('zoom', (ev) => g.attr('transform', ev.transform));
+  svg.call(zoom);
+
+  const nodes = NODES.map(n => ({ ...n }));
+  const links = EDGES.map(e => ({ source: e.s, target: e.t, thin: e.thin }));
+
+  const sim = d3.forceSimulation(nodes)
+    .force('link', d3.forceLink(links).id(d => d.id).distance(d => d.thin ? 180 : 130).strength(0.4))
+    .force('charge', d3.forceManyBody().strength(d => d.id === 'main' ? -1800 : -450))
+    .force('center', d3.forceCenter(W/2, H/2))
+    .force('collide', d3.forceCollide().radius(d => d.r + 22))
+    .force('x', d3.forceX(d => {
+      if (d.phase === 'discovery' || d.phase === 'review') return W*0.28;
+      if (d.phase === 'fix') return W*0.5;
+      if (d.phase === 'content') return W*0.78;
+      if (d.phase === 'infra') return W*0.88;
+      return W/2;
+    }).strength(d => d.id === 'main' ? 0 : 0.12))
+    .force('y', d3.forceY(d => d.type === 'artifact' ? H*0.72 : H*0.35).strength(d => d.id === 'main' ? 0 : 0.10));
+
+  const edgeSel = g.append('g').selectAll('line').data(links).enter().append('line')
+    .attr('class', d => 'edge' + (d.thin ? ' thin' : ''));
+
+  const nodeSel = g.append('g').selectAll('g').data(nodes).enter().append('g').attr('class','node')
+    .call(d3.drag()
+      .on('start', (ev, d) => { if (!ev.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
+      .on('drag', (ev, d) => { d.fx = ev.x; d.fy = ev.y; })
+      .on('end', (ev, d) => { if (!ev.active) sim.alphaTarget(0); d.fx = null; d.fy = null; }))
+    .on('click', (ev, d) => { ev.stopPropagation(); showDetail(d); });
+
+  nodeSel.append('circle')
+    .attr('r', d => d.r)
+    .attr('fill', d => d.color)
+    .attr('stroke', d => d.color)
+    .attr('stroke-width', 2)
+    .attr('fill-opacity', 0.18)
+    .style('color', d => d.color)
+    .style('filter', d => d.id === 'main' ? `drop-shadow(0 0 14px ${d.color})` : `drop-shadow(0 0 6px ${d.color})`);
+
+  nodeSel.append('text')
+    .attr('dy', d => d.r + 14)
+    .text(d => d.label);
+
+  nodeSel.append('text')
+    .attr('class','sub')
+    .attr('dy', d => d.r + 26)
+    .text(d => d.sub || '');
+
+  sim.on('tick', () => {
+    edgeSel.attr('x1', d => d.source.x).attr('y1', d => d.source.y)
+      .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
+    nodeSel.attr('transform', d => `translate(${d.x},${d.y})`);
+  });
+
+  // Initial zoom-to-fit after settle
+  setTimeout(() => {
+    const xs = nodes.map(n => n.x), ys = nodes.map(n => n.y);
+    const minX = Math.min(...xs), maxX = Math.max(...xs);
+    const minY = Math.min(...ys), maxY = Math.max(...ys);
+    const boxW = maxX - minX + 200, boxH = maxY - minY + 200;
+    const scale = Math.min(W / boxW, H / boxH, 1);
+    const tx = (W - scale * (minX + maxX)) / 2;
+    const ty = (H - scale * (minY + maxY)) / 2;
+    svg.transition().duration(750).call(zoom.transform, d3.zoomIdentity.translate(tx, ty).scale(scale));
+  }, 1500);
+}
+ensureOverview();
+
+// ─── Phases view ─────────────────────────────────────────────────────────
+let phasesRendered = false;
+function renderPhases() {
+  if (phasesRendered) return;
+  phasesRendered = true;
+  const grid = document.getElementById('phase-grid');
+  PHASES.forEach(p => {
+    const nodes = NODES.filter(n => n.phase === p.id);
+    const col = document.createElement('div');
+    col.className = 'phase-col';
+    col.innerHTML = `
+      <div class="phase-head">
+        <span class="dot" style="background:${p.color};box-shadow:0 0 8px ${p.color}"></span>
+        <h4>${p.title}</h4>
+        <span class="count">${nodes.length}</span>
+      </div>
+    `;
+    const sorted = p.id === 'pr' ? nodes.slice().sort((a,b) => (a.time||'').localeCompare(b.time||'')) : nodes;
+    sorted.forEach(n => {
+      const el = document.createElement('div');
+      el.className = 'phase-node';
+      el.style.borderLeftColor = n.color;
+      el.innerHTML = `<div class="pn-label">${n.label}</div><div class="pn-sub">${n.sub || ''}${n.time ? ' · ' + n.time : ''}</div>`;
+      el.addEventListener('click', () => showDetail(n));
+      col.appendChild(el);
+    });
+    grid.appendChild(col);
+  });
+}
+
+// ─── Timeline view (gantt-ish) ───────────────────────────────────────────
+let timelineRendered = false;
+function renderTimeline() {
+  if (timelineRendered) return;
+  timelineRendered = true;
+  const wrap = document.getElementById('tl-wrap');
+
+  // Parse HH:MM → minutes since midnight
+  const toMin = (t) => { const [h,m] = t.split(':').map(Number); return h*60+m; };
+  const START = toMin('11:50'), END = toMin('18:20'), RANGE = END - START;
+  const TRACK_W_PX = 900; // inner track width
+  const xPct = (t) => ((toMin(t) - START) / RANGE) * 100;
+
+  // Axis: mirror row structure (label-cell + track-cell) so ticks line up with bars
+  let ticksHTML = '';
+  for (let m = START; m <= END; m += 30) {
+    const h = Math.floor(m/60), mm = String(m%60).padStart(2,'0');
+    const pct = ((m - START) / RANGE) * 100;
+    ticksHTML += `<div class="tl-tick" style="left:${pct}%;">${h}:${mm}</div>`;
+  }
+  const axisHTML = `
+    <div class="tl-row" style="height:40px;border-bottom:1px solid var(--panel-border);">
+      <div class="tl-row-label" style="color:var(--muted);font-size:11px;">Zeitachse</div>
+      <div class="tl-track" style="position:relative;">${ticksHTML}</div>
+    </div>
+  `;
+
+  // Agent rows with rough active-times
+  const rows = [
+    { id:'main',       start:'11:55', end:'18:15', label:'Main Agent',       sub:'Coordinator' },
+    { id:'agent-p1',   start:'12:00', end:'12:30', label:'Phase 1',          sub:'Inventar' },
+    { id:'agent-p2',   start:'12:30', end:'13:00', label:'Phase 2',          sub:'Admin-Audit' },
+    { id:'agent-p5',   start:'13:00', end:'13:30', label:'Phase 5',          sub:'DB-Review' },
+    { id:'agent-cr',   start:'13:30', end:'14:30', label:'gsd-code-reviewer',sub:'Backend-Review' },
+    { id:'agent-sec',  start:'14:30', end:'15:15', label:'gsd-security-auditor', sub:'Security' },
+    { id:'agent-ui',   start:'15:15', end:'15:50', label:'gsd-ui-auditor',   sub:'UX-Audit' },
+    { id:'agent-fix-p4',   start:'16:30', end:'17:10', label:'Fixer · F1/F2/F3', sub:'Backend-Race' },
+    { id:'agent-fix-xss',  start:'16:30', end:'17:00', label:'Fixer · XSS',    sub:'Admin-XSS' },
+    { id:'agent-fix-ux',   start:'16:30', end:'17:05', label:'Fixer · UX P0',  sub:'Kontakt-Form' },
+    { id:'agent-fix-hard', start:'16:30', end:'17:30', label:'Fixer · Hardening', sub:'Rate-Limits' },
+    { id:'agent-fix-p1',   start:'17:00', end:'17:50', label:'Fixer · UX P1',  sub:'A11y' },
+    { id:'agent-fix-admin',start:'17:20', end:'18:10', label:'Fixer · Admin',  sub:'CRITICAL Fixes' },
+    { id:'agent-ebook',    start:'13:00', end:'16:30', label:'Ebook-Writer',   sub:'12 Kapitel' },
+    { id:'agent-bonus',    start:'15:00', end:'17:00', label:'Bonus-Writer',   sub:'5 Materialien' },
+    { id:'agent-delivery', start:'16:30', end:'17:55', label:'Ebook-Delivery', sub:'Token-API + SG' },
+    { id:'agent-adminlive',start:'17:00', end:'18:10', label:'Live-Admin-QA',  sub:'1164 Rettung' },
+    { id:'railway',        start:'12:00', end:'18:15', label:'Railway',        sub:'Deploys' },
+    { id:'chrome',         start:'13:15', end:'13:45', label:'Claude in Chrome', sub:'Browser' },
+  ];
+
+  let rowsHTML = '';
+  rows.forEach(row => {
+    const n = NODES.find(x => x.id === row.id) || {};
+    const left = xPct(row.start);
+    const width = xPct(row.end) - xPct(row.start);
+    rowsHTML += `
+      <div class="tl-row">
+        <div class="tl-row-label"><b>${row.label}</b>${row.sub}</div>
+        <div class="tl-track">
+          <div class="tl-bar" data-id="${row.id}" style="left:${left}%;width:${width}%;background:${n.color || '#555'};">${row.label}</div>
+        </div>
+      </div>
+    `;
+  });
+
+  // PR diamonds row
+  const prs = NODES.filter(n => n.type === 'artifact' && n.time).sort((a,b) => a.time.localeCompare(b.time));
+  let prRow = `
+    <div class="tl-row" style="height:52px;">
+      <div class="tl-row-label"><b>PRs</b>${prs.length} merges</div>
+      <div class="tl-track">
+        ${prs.map(p => `
+          <div class="tl-diamond" data-id="${p.id}" style="left:calc(${xPct(p.time)}% - 8px);background:${p.color};"></div>
+          <div class="tl-diamond-label" style="left:${xPct(p.time)}%;top:30px;">${p.label.replace('PR ','')}</div>
+        `).join('')}
+      </div>
+    </div>
+  `;
+
+  wrap.innerHTML = axisHTML + rowsHTML + prRow;
+
+  wrap.querySelectorAll('[data-id]').forEach(el => {
+    el.addEventListener('click', () => {
+      const n = NODES.find(x => x.id === el.dataset.id);
+      if (n) showDetail(n);
+    });
+  });
+}
+
+// ─── Activity feed ───────────────────────────────────────────────────────
+document.getElementById('logList').innerHTML = LOG.map(l => `
+  <div class="log-row">
+    <span class="log-time">${l.t}</span>
+    <span class="log-pill ${l.cat}">${l.cat.toUpperCase()}</span>
+    <span class="log-text">${l.text}</span>
+  </div>
+`).join('');
+
+// ─── Responsive re-render overview on resize ─────────────────────────────
+let resizeTimer;
+window.addEventListener('resize', () => {
+  clearTimeout(resizeTimer);
+  resizeTimer = setTimeout(() => {
+    if (overviewRendered) {
+      d3.select('#view-overview svg g').remove();
+      overviewRendered = false;
+      ensureOverview();
+    }
+  }, 300);
+});
+</script>
+</body>
+</html>
