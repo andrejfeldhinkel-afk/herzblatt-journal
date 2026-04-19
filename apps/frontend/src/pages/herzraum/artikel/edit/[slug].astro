@@ -77,69 +77,18 @@ const authorsArr = Object.values(authors).map((a) => ({ slug: a.slug, name: a.na
   </style>
 
   <script is:inline define:vars={{ slug }}>
+    window.__HZ_EDIT_SLUG = slug;
+  </script>
+  <script>
+    import { parseFM } from '../../../../lib/parseFM.mjs';
+    const slug = window.__HZ_EDIT_SLUG;
     const $ = (id) => document.getElementById(id);
     let fileSha = null;
-    let loadedFaq = [];  // Preserve across edit — Bugfix: faq wurde vorher beim Save auf [] gesetzt
+    let loadedFaq = [];
     let availableProducts = [];
     let selectedProductSlugs = [];
 
-    function parseFM(raw) {
-      const fm = {};
-      const lines = raw.split('\n');
-      let inArr = null; const arrBuf = [];
-      let inFaq = false; const faqBuf = []; let currentFaq = null;
-      for (const line of lines) {
-        // FAQ-Block: "  - question:" / "    answer:"
-        if (inFaq) {
-          const qm = line.match(/^\s{2}-\s+question:\s*(.*)$/);
-          const am = line.match(/^\s{4}answer:\s*(.*)$/);
-          if (qm) {
-            if (currentFaq) faqBuf.push(currentFaq);
-            currentFaq = { question: unquote(qm[1]), answer: '' };
-            continue;
-          }
-          if (am && currentFaq) {
-            currentFaq.answer = unquote(am[1]);
-            continue;
-          }
-          // Ende faq-block wenn neue top-level-key
-          if (/^[a-zA-Z]/.test(line)) {
-            if (currentFaq) { faqBuf.push(currentFaq); currentFaq = null; }
-            inFaq = false;
-            // fällt weiter unten rein
-          } else {
-            continue;
-          }
-        }
-        const m = line.match(/^([a-zA-Z]+):\s*(.*)$/);
-        if (m) {
-          if (inArr) { fm[inArr] = arrBuf.slice(); arrBuf.length = 0; }
-          inArr = null;
-          const k = m[1]; const v = m[2].trim();
-          if (k === 'faq' && v === '') {
-            inFaq = true;
-            continue;
-          }
-          if (v === '') { inArr = k; continue; }
-          if (v === 'true') fm[k] = true;
-          else if (v === 'false') fm[k] = false;
-          else if (/^\d{4}-\d{2}-\d{2}/.test(v)) fm[k] = v.slice(0,10);
-          else if (v.startsWith('"')) fm[k] = unquote(v);
-          else fm[k] = v;
-        } else if (inArr && /^\s*-\s*/.test(line)) {
-          const v = line.replace(/^\s*-\s*/,'').trim();
-          arrBuf.push(v.startsWith('"') ? unquote(v) : v);
-        }
-      }
-      if (inArr) fm[inArr] = arrBuf.slice();
-      if (currentFaq) faqBuf.push(currentFaq);
-      if (faqBuf.length > 0) fm.faq = faqBuf;
-      return fm;
-    }
-
-    function unquote(s) {
-      return String(s).replace(/^"|"$/g,'').replace(/\\"/g,'"').replace(/\\\\/g,'\\');
-    }
+    const toArr = (x) => Array.isArray(x) ? x : (x == null || x === '' ? [] : [String(x)]);
 
     async function loadProducts() {
       try {
@@ -203,8 +152,8 @@ const authorsArr = Object.values(authors).map((a) => ({ slug: a.slug, name: a.na
         $('f-description').value = fm.description || '';
         $('f-date').value = fm.date || new Date().toISOString().slice(0,10);
         $('f-author').value = fm.author || 'redaktion';
-        $('f-tags').value = (fm.tags || []).join(', ');
-        $('f-keywords').value = (fm.keywords || []).join(', ');
+        $('f-tags').value = toArr(fm.tags).join(', ');
+        $('f-keywords').value = toArr(fm.keywords).join(', ');
         $('f-image').value = fm.image || '';
         $('f-imageAlt').value = fm.imageAlt || '';
         $('f-featured').checked = !!fm.featured;
