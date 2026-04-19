@@ -7,6 +7,7 @@ import ProductGrid from '../../components/ProductGrid.astro';
 import RelatedArticles from '../../components/RelatedArticles.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
 import RatingWidget from '../../components/RatingWidget.astro';
+import AuthorBioBox from '../../components/AuthorBioBox.astro';
 import { getCollection, render } from 'astro:content';
 import { getAuthor } from '../../data/authors';
 
@@ -323,6 +324,13 @@ if (isReviewArticle) {
             </nav>
           </details>
         )}
+
+        <!-- Author-Bio-Box (E-E-A-T-Signale: Credentials, Qualifikationen, Trust-Line) -->
+        <AuthorBioBox
+          authorSlug={author.slug}
+          articleType={isReviewArticle ? 'review' : 'general'}
+          lastUpdated={post.data.updated || post.data.date}
+        />
 
         <!-- Rating-Widget (sichtbare Sterne — verifiziert das Review-Schema JSON-LD,
              damit Google Rich-Results nicht droppt weil on-page-Rating fehlt) -->

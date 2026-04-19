@@ -1,0 +1,232 @@
+---
+/**
+ * AuthorBioBox — prominente Autor-Bio direkt unter dem Hero-Bild.
+ * Stärkt E-E-A-T (Experience · Expertise · Authoritativeness · Trustworthiness)
+ * via Credentials, Foto, "Über den Autor" mit Link zum Profil.
+ *
+ * SERP-Gap-Research: Top-3-Ranker bei Dating-Reviews haben immer
+ * eine sichtbare Autor-Box mit Credentials. Wir haben bisher nur eine
+ * winzige Zeile "Von Markus Hoffmann" — was Google als schwaches
+ * E-E-A-T-Signal wertet.
+ */
+import { getAuthor } from '../data/authors';
+
+interface Props {
+  authorSlug: string;
+  articleType?: 'review' | 'guide' | 'test' | 'general';
+  lastUpdated?: Date | string;
+  compact?: boolean;
+}
+
+const { authorSlug, articleType = 'general', lastUpdated, compact = false } = Astro.props;
+
+const author = getAuthor(authorSlug);
+if (!author) return;
+
+// Article-Type-specific trust line
+const TRUST_LINE: Record<string, string> = {
+  review: 'Getestet und bewertet nach unserer Methodik',
+  test: 'Redaktionell geprüft und persönlich getestet',
+  guide: 'Fachlich überprüft und recherchiert',
+  general: 'Redaktionell geprüft',
+};
+const trustLabel = TRUST_LINE[articleType] || TRUST_LINE.general;
+
+const updatedDate = lastUpdated ? (lastUpdated instanceof Date ? lastUpdated : new Date(lastUpdated)) : null;
+const updatedFmt = updatedDate ? updatedDate.toLocaleDateString('de-DE', { day: '2-digit', month: 'long', year: 'numeric' }) : null;
+---
+
+<aside class={`author-bio-box ${compact ? 'compact' : ''}`} role="complementary" aria-label={`Über den Autor ${author.name}`}>
+  <div class="abb-header">
+    <img
+      src={author.image}
+      alt={`${author.name} — ${author.role}`}
+      class="abb-photo"
+      width="80"
+      height="80"
+      loading="lazy"
+      decoding="async"
+    />
+    <div class="abb-identity">
+      <div class="abb-trust">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 12l2 2 4-4"/><circle cx="12" cy="12" r="10"/></svg>
+        <span>{trustLabel}</span>
+      </div>
+      <h3 class="abb-name">
+        <a href={`/autor/${author.slug}`}>{author.name}</a>
+      </h3>
+      <div class="abb-role">{author.role}</div>
+    </div>
+    {updatedFmt && (
+      <div class="abb-updated">
+        <span class="abb-updated-label">Aktualisiert</span>
+        <time datetime={updatedDate?.toISOString()}>{updatedFmt}</time>
+      </div>
+    )}
+  </div>
+
+  {!compact && author.shortBio && (
+    <p class="abb-bio">{author.shortBio}</p>
+  )}
+
+  {!compact && author.credentials && author.credentials.length > 0 && (
+    <div class="abb-creds">
+      <div class="abb-creds-head">Qualifikationen</div>
+      <ul>
+        {author.credentials.slice(0, 3).map((c) => <li>{c}</li>)}
+      </ul>
+    </div>
+  )}
+
+  {!compact && (
+    <div class="abb-footer">
+      <a href={`/autor/${author.slug}`} class="abb-profile-link">
+        <span>Vollständiges Profil & weitere Artikel</span>
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+      </a>
+      {author.yearsExperience && (
+        <span class="abb-exp">{author.yearsExperience}+ Jahre Erfahrung</span>
+      )}
+    </div>
+  )}
+</aside>
+
+<style>
+  .author-bio-box {
+    margin: 1.75rem 0 2rem 0;
+    padding: 1.25rem 1.5rem;
+    background: var(--bg-card, #fff);
+    border: 1px solid var(--border, #e5e5e7);
+    border-left: 4px solid var(--color-primary-500, #f43f5e);
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+  }
+  .abb-header {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 1rem;
+    align-items: center;
+  }
+  .abb-photo {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid var(--color-primary-200, #fda4af);
+    grid-row: span 1;
+    flex-shrink: 0;
+  }
+  .abb-identity {
+    min-width: 0;
+  }
+  .abb-trust {
+    display: inline-flex; align-items: center; gap: 0.3rem;
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: #16a34a;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.2rem;
+  }
+  .abb-trust svg { flex-shrink: 0; }
+  .abb-name {
+    margin: 0;
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+  }
+  .abb-name a {
+    color: var(--text, #111);
+    text-decoration: none;
+  }
+  .abb-name a:hover { color: var(--color-primary-600, #e11d48); }
+  .abb-role {
+    font-size: 0.82rem;
+    color: var(--text-muted, #6b6b6b);
+    margin-top: 0.1rem;
+  }
+  .abb-updated {
+    text-align: right;
+    font-size: 0.7rem;
+    color: var(--text-muted, #6b6b6b);
+    display: flex; flex-direction: column;
+    gap: 0.1rem;
+  }
+  .abb-updated-label {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: 600;
+  }
+  .abb-updated time {
+    font-weight: 600;
+    color: var(--text, #111);
+    font-variant-numeric: tabular-nums;
+  }
+  .abb-bio {
+    margin: 0.85rem 0 0.85rem 0;
+    padding-top: 0.85rem;
+    border-top: 1px dashed var(--border, #e5e5e7);
+    font-size: 0.9rem;
+    line-height: 1.55;
+    color: var(--text, #333);
+  }
+  .abb-creds {
+    margin-bottom: 0.85rem;
+  }
+  .abb-creds-head {
+    font-size: 0.68rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--color-primary-700, #be123c);
+    margin-bottom: 0.4rem;
+  }
+  .abb-creds ul {
+    list-style: none; padding: 0; margin: 0;
+    display: flex; flex-wrap: wrap; gap: 0.4rem;
+  }
+  .abb-creds li {
+    font-size: 0.78rem;
+    padding: 3px 10px;
+    background: var(--color-primary-50, rgba(244,63,94,0.08));
+    color: var(--color-primary-800, #9f1239);
+    border-radius: 999px;
+    font-weight: 500;
+  }
+  .abb-footer {
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 1rem;
+    padding-top: 0.85rem;
+    border-top: 1px dashed var(--border, #e5e5e7);
+  }
+  .abb-profile-link {
+    display: inline-flex; align-items: center; gap: 0.35rem;
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: var(--color-primary-600, #e11d48);
+    text-decoration: none;
+    transition: gap 0.15s;
+  }
+  .abb-profile-link:hover { gap: 0.55rem; }
+  .abb-exp {
+    font-size: 0.72rem;
+    color: var(--text-muted, #6b6b6b);
+    font-weight: 600;
+  }
+
+  /* Compact version (in sticky-sidebars etc.) */
+  .author-bio-box.compact {
+    padding: 0.7rem 1rem;
+  }
+  .author-bio-box.compact .abb-photo {
+    width: 40px; height: 40px;
+  }
+
+  @media (max-width: 640px) {
+    .abb-header { grid-template-columns: auto 1fr; }
+    .abb-updated { grid-column: 1 / -1; text-align: left; flex-direction: row; justify-content: space-between; padding-top: 0.5rem; border-top: 1px dashed var(--border, #e5e5e7); }
+    .abb-footer { flex-direction: column; align-items: flex-start; gap: 0.35rem; }
+  }
+</style>
