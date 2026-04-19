@@ -29,6 +29,17 @@ interface Props {
   };
   itemListItems?: { name: string; url?: string }[];
   howToSteps?: { name: string; text: string }[];
+  review?: {
+    itemName: string;        // Produkt/Brand z.B. "Bumble"
+    itemType?: string;       // Schema-Typ, default "SoftwareApplication"
+    itemUrl?: string;        // Offizielle URL der Brand (optional)
+    rating: number;          // 1–5
+    bestRating?: number;     // default 5
+    worstRating?: number;    // default 1
+    reviewCount?: number;    // aggregate
+    pros?: string[];
+    cons?: string[];
+  };
 }
 
 const {
@@ -46,6 +57,7 @@ const {
   articleAuthor,
   itemListItems,
   howToSteps,
+  review,
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
@@ -174,6 +186,57 @@ const breadcrumbSchema = breadcrumbs.length > 0 ? {
     "name": bc.name,
     "item": new URL(bc.url, Astro.site).toString()
   }))
+} : null;
+
+// Review Schema — Produkt/Brand mit Star-Rating (Rich-Result-tauglich)
+// Hinweis: Google zeigt Sterne in SERPs nur wenn (a) Review auf einer
+// Product/SoftwareApplication/LocalBusiness/etc., (b) Author.name gesetzt,
+// (c) reviewRating mit ratingValue + bestRating. Gelbe Sterne = Google liebt
+// das für Conversion.
+const reviewSchema = (isArticle && review && review.rating) ? {
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "itemReviewed": {
+    "@type": review.itemType || "SoftwareApplication",
+    "name": review.itemName,
+    ...(review.itemUrl ? { "url": review.itemUrl } : {}),
+    ...(review.itemType === "SoftwareApplication" ? { "applicationCategory": "LifestyleApplication" } : {}),
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": review.rating,
+    "bestRating": review.bestRating || 5,
+    "worstRating": review.worstRating || 1,
+  },
+  "author": personAuthorSchema || {
+    "@type": "Organization",
+    "name": "Herzblatt Journal",
+    "url": "https://herzblatt-journal.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Herzblatt Journal"
+  },
+  "datePublished": datePublished,
+  ...(description ? { "reviewBody": description } : {}),
+  ...(review.pros && review.pros.length ? { "positiveNotes": { "@type": "ItemList", "itemListElement": review.pros.map((p, i) => ({ "@type": "ListItem", "position": i+1, "name": p })) } } : {}),
+  ...(review.cons && review.cons.length ? { "negativeNotes": { "@type": "ItemList", "itemListElement": review.cons.map((c, i) => ({ "@type": "ListItem", "position": i+1, "name": c })) } } : {}),
+} : null;
+
+// AggregateRating auf dem reviewed Item (für richere SERPs zusätzlich zum Review)
+const aggregateRatingSchema = (isArticle && review && review.rating) ? {
+  "@context": "https://schema.org",
+  "@type": review.itemType || "SoftwareApplication",
+  "name": review.itemName,
+  ...(review.itemUrl ? { "url": review.itemUrl } : {}),
+  ...(review.itemType === "SoftwareApplication" ? { "applicationCategory": "LifestyleApplication", "operatingSystem": "iOS, Android, Web" } : {}),
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": review.rating,
+    "bestRating": review.bestRating || 5,
+    "worstRating": review.worstRating || 1,
+    "reviewCount": review.reviewCount || 1,
+  },
 } : null;
 
 // FAQ Schema
@@ -314,6 +377,12 @@ const faqSchema = faq.length > 0 ? {
   )}
   {faqSchema && (
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+  )}
+  {reviewSchema && (
+    <script type="application/ld+json" set:html={JSON.stringify(reviewSchema)} />
+  )}
+  {aggregateRatingSchema && (
+    <script type="application/ld+json" set:html={JSON.stringify(aggregateRatingSchema)} />
   )}
   {itemListSchema && (
     <script type="application/ld+json" set:html={JSON.stringify(itemListSchema)} />
