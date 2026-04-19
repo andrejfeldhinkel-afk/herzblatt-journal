@@ -72,6 +72,39 @@ export default defineConfig({
           caption: info.alt,
         }];
       }
+
+      // Priority + changefreq hints for top-value pages (helps crawl-budget allocation)
+      const url = item.url.replace(SITE_ORIGIN, '').replace(/\/$/, '') || '/';
+      if (url === '/') {
+        item.priority = 1.0;
+        item.changefreq = 'daily';
+      } else if (url === '/ebook') {
+        item.priority = 1.0;
+        item.changefreq = 'monthly';
+      } else if (url === '/top-dating-seiten') {
+        item.priority = 0.9;
+        item.changefreq = 'weekly';
+      } else if (m) {
+        // Individual blog articles
+        item.priority = 0.7;
+        item.changefreq = 'monthly';
+      } else if (url.startsWith('/blog')) {
+        // Blog index + tag pages
+        item.priority = 0.8;
+        item.changefreq = 'daily';
+      } else if (
+        url === '/online-dating-guide' ||
+        url === '/erstes-date-guide' ||
+        url === '/flirten-lernen-guide' ||
+        url === '/beziehungsratgeber' ||
+        url === '/dating-apps'
+      ) {
+        item.priority = 0.9;
+        item.changefreq = 'weekly';
+      } else if (url.startsWith('/dating-in/')) {
+        item.priority = 0.7;
+        item.changefreq = 'monthly';
+      }
       return item;
     },
   })],
