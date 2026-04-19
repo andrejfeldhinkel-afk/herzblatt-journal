@@ -25,11 +25,14 @@ import { createHash } from 'node:crypto';
 import { eq, and } from 'drizzle-orm';
 import { db, schema } from '../db/index.js';
 import { addContactToList, sendWelcomeEmail, isSendGridEnabled } from '../lib/sendgrid.js';
+import { captureError } from '../lib/sentry.js';
+import { redactEmail, safeEqualHex, truncatePayload } from '../lib/log-helpers.js';
 
 const app = new Hono();
 
 /**
  * Micropayment-Signatur prüfen (gleiches Scheme wie beim Checkout).
+ * Verwendet timing-safe Vergleich gegen Timing-Attacks.
  */
 function verifyMicropaymentSignature(
   params: Record<string, string>,
@@ -48,7 +51,7 @@ function verifyMicropaymentSignature(
   const concatenated = keys.map((k) => `${k}${rest[k]}`).join('') + accessKey;
   const hash = createHash('md5').update(concatenated, 'utf8').digest('hex').toLowerCase();
 
-  return hash === String(authKey).toLowerCase();
+  return safeEqualHex(hash, String(authKey));
 }
 
 app.post('/', async (c) => {
@@ -105,7 +108,11 @@ app.post('/', async (c) => {
   const currency = String(params.currency || 'EUR').toUpperCase().slice(0, 3);
 
   if (!email || !orderId) {
-    console.error('[micropayment-webhook] missing email or transactionId', { email, orderId, event });
+    console.error('[micropayment-webhook] missing email or transactionId', {
+      email: redactEmail(email),
+      hasOrderId: !!orderId,
+      event,
+    });
     return c.text('FAIL:missing-required-fields', 400);
   }
 
@@ -174,10 +181,10 @@ app.post('/', async (c) => {
       amountCents: amount,
       currency,
       status,
-      rawPayload: JSON.stringify(params).slice(0, 10_000),
+      rawPayload: truncatePayload(params),
     });
 
-    console.log(`[micropayment-webhook] new purchase: ${email} ${orderId} ${amount/100}${currency}`);
+    console.log(`[micropayment-webhook] new purchase: ${redactEmail(email)} ${orderId} ${amount/100}${currency}`);
 
     // Bei Bezahlung: Käufer als Subscriber + SendGrid-Welcome
     if (status === 'paid' && email) {
@@ -210,6 +217,7 @@ app.post('/', async (c) => {
     return c.text('OK', 200);
   } catch (err) {
     console.error('[micropayment-webhook] db error:', err);
+    captureError(err, { route: 'micropayment-webhook', orderId, event });
     return c.text('FAIL:db-error', 500);
   }
 });

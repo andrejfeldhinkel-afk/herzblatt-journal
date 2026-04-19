@@ -30,6 +30,8 @@
  */
 import { Hono } from 'hono';
 import { createHash, randomUUID } from 'node:crypto';
+import { captureError } from '../lib/sentry.js';
+import { redactEmail } from '../lib/log-helpers.js';
 
 const app = new Hono();
 
@@ -119,11 +121,12 @@ app.post('/', async (c) => {
 
     const url = `https://${domain}/public/main/event/?${qs.toString()}`;
 
-    console.log(`[micropayment-checkout] URL generated für ${email || '(no-email)'} (${method}), freeParam=${params.freeParam}`);
+    console.log(`[micropayment-checkout] URL generated for ${redactEmail(email)} (${method}), freeParam=${params.freeParam}`);
 
     return c.json({ url }, 200);
   } catch (err) {
     console.error('[micropayment-checkout] unexpected error:', err);
+    captureError(err, { route: 'micropayment-checkout' });
     return c.json({ error: 'Internal server error' }, 500);
   }
 });
