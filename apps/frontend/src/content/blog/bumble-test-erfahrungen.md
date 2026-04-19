@@ -31,6 +31,8 @@ faq:
     answer: "Whitney Wolfe Herd war Mitgründerin von Tinder und verließ das Unternehmen 2014 nach einem öffentlichen Streit und einer Sexismus-Klage. Sie gründete daraufhin Bumble mit dem expliziten Ziel, eine Dating-App zu schaffen, bei der Frauen die Kontrolle haben. 2021 führte sie Bumble an die Börse und wurde mit 31 Jahren die jüngste weibliche Milliardärin der Welt durch eigene Gründung. Bumbles Women-First-Philosophie ist direkt aus ihrer eigenen Erfahrung geboren."
   - question: "Lohnt sich Bumble Spotlight wirklich?"
     answer: "Ein Spotlight setzt dein Profil für 30 Minuten an den Anfang des Swipe-Stapels anderer Nutzer in deiner Region. Laut Bumble steigt die Profilansicht dadurch um das 10-fache. In unserem Test brachte ein Spotlight durchschnittlich 5–12 neue Matches in den 30 Minuten — deutlich mehr als normal. Einzeln kosten Spotlights 4,99–5,99 €, im Paket günstiger. Sinnvoll: Donnerstagabend oder Sonntagabend ab 20 Uhr einsetzen, wenn am meisten gesnipewt wird. Premium-Nutzer bekommen einen Spotlight pro Woche gratis."
+image: "/images/blog/bumble-guide-frauen-2026.webp"
+imageAlt: "bumble test erfahrungen"
 ---
 
 ## Bumble Test 2026: Unsere ehrliche Bewertung nach 4 Wochen Nutzung
