@@ -23,21 +23,57 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
     </div>
   </section>
 
-  <div class="hz-card">
+  <div class="hz-card" style="margin-top: 1rem;">
     <div class="hz-row" style="margin-bottom: 0.75rem;">
+      <h3 style="margin: 0;">Umsatz pro Provider</h3>
+      <div class="hz-spacer"></div>
+      <span style="font-size: 0.8rem; color: var(--hz-text-muted);">Letzte 30 Tage in Klammern</span>
+    </div>
+    <div style="overflow-x: auto;">
+      <table class="hz-table" id="table-by-provider">
+        <thead>
+          <tr>
+            <th>Provider</th>
+            <th style="text-align: right;">Käufe</th>
+            <th style="text-align: right;">Bezahlt</th>
+            <th style="text-align: right;">Umsatz (paid)</th>
+            <th style="text-align: right;">Letzte 30 Tage</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td colspan="5" class="muted">Lade…</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="hz-card" style="margin-top: 1rem;">
+    <div class="hz-row" style="margin-bottom: 0.75rem; flex-wrap: wrap; gap: 0.5rem;">
       <h3 style="margin: 0;">Alle Verkäufe</h3>
       <div class="hz-spacer"></div>
+      <label style="font-size: 0.85rem; display: flex; align-items: center; gap: 0.4rem;">
+        Provider:
+        <select id="filter-provider" style="padding: 0.3rem 0.5rem; border-radius: 0.35rem; border: 1px solid var(--hz-border, #2a2a2a); background: var(--hz-bg, #121212); color: inherit;">
+          <option value="">Alle</option>
+          <option value="digistore24">Digistore24</option>
+          <option value="whop">Whop</option>
+          <option value="micropayment">Micropayment</option>
+        </select>
+      </label>
+      <button type="button" id="btn-refresh" class="hz-btn" style="font-size: 0.8rem; padding: 0.35rem 0.75rem;">Neu laden</button>
       <span class="hz-badge muted" id="p-last-sync">—</span>
     </div>
     <p style="font-size: 0.8rem; color: var(--hz-text-muted); margin-bottom: 0.75rem;">
       Zeigt die letzten 100 Käufe aus der <code>purchases</code>-Tabelle.
-      Neu-Eintrag wenn Digistore24-IPN auf <code>/digistore-ipn</code> trifft.
+      Neu-Eintrag sobald Digistore24-IPN, Whop-Webhook oder Micropayment-Webhook
+      eine Payment-Notification liefert. Auto-Refresh alle 30 s.
     </p>
     <div style="overflow-x: auto; max-height: 560px; overflow-y: auto;">
       <table class="hz-table" id="table-p">
         <thead>
           <tr>
             <th>Datum</th>
+            <th>Provider</th>
             <th>E-Mail</th>
             <th>Produkt</th>
             <th style="text-align: right;">Betrag</th>
@@ -46,23 +82,37 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
           </tr>
         </thead>
         <tbody>
-          <tr><td colspan="6" class="muted">Lade…</td></tr>
+          <tr><td colspan="7" class="muted">Lade…</td></tr>
         </tbody>
       </table>
     </div>
   </div>
 
   <div class="hz-card" style="margin-top: 1rem;">
-    <h3>💡 Setup-Hinweis</h3>
+    <h3>Provider-Setup</h3>
     <p style="font-size: 0.9rem; color: var(--hz-text-muted); line-height: 1.6;">
-      Die Tabelle bleibt leer, bis ein Digistore24-Produkt konfiguriert ist.
-      In Digistore24 unter <strong>Produkt → Connect an external service</strong>
-      die Webhook-URL setzen:<br>
-      <code style="background: var(--hz-bg); padding: 0.2rem 0.4rem; border-radius: 0.25rem;">
-        https://backend-production-c327.up.railway.app/digistore-ipn
-      </code><br>
-      Und <code>DIGISTORE_IPN_PASSPHRASE</code> als Railway-Backend-Env setzen
-      (gleicher Wert wie im Digistore-Account).
+      Jeder Payment-Provider schreibt bei Erfolg in die <code>purchases</code>-Tabelle und
+      triggert SendGrid (Contact-Upsert + Welcome-Mail). Webhook-URLs:
+    </p>
+    <ul style="font-size: 0.85rem; color: var(--hz-text-muted); line-height: 1.8;">
+      <li>
+        <strong>Digistore24</strong>:
+        <code style="background: var(--hz-bg); padding: 0.2rem 0.4rem; border-radius: 0.25rem;">POST /digistore-ipn</code>
+        — ENV: <code>DIGISTORE_IPN_PASSPHRASE</code>
+      </li>
+      <li>
+        <strong>Whop</strong>:
+        <code style="background: var(--hz-bg); padding: 0.2rem 0.4rem; border-radius: 0.25rem;">POST /api/webhooks/whop</code>
+        — ENV: <code>WHOP_WEBHOOK_SECRET</code> (HMAC-SHA256)
+      </li>
+      <li>
+        <strong>Micropayment</strong>:
+        <code style="background: var(--hz-bg); padding: 0.2rem 0.4rem; border-radius: 0.25rem;">POST /api/webhooks/micropayment</code>
+        — ENV: <code>MICROPAYMENT_ACCESS_KEY</code> (MD5-Scheme)
+      </li>
+    </ul>
+    <p style="font-size: 0.85rem; color: var(--hz-text-muted);">
+      Details siehe <code>apps/backend/ENV.md</code>.
     </p>
   </div>
 
@@ -77,9 +127,37 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         document.querySelectorAll('[data-kpi="'+p+'"]').forEach(el => el.textContent = v);
       }
 
+      // Farb-Badge pro Provider — konsistent mit Status-Badges
+      function providerBadge(provider) {
+        const p = (provider || '').toLowerCase();
+        const label = {
+          'digistore24': 'Digistore24',
+          'whop': 'Whop',
+          'micropayment': 'Micropayment',
+        }[p] || provider || '—';
+        const cls = {
+          'digistore24': 'success',
+          'whop': 'warning',
+          'micropayment': 'muted',
+        }[p] || 'muted';
+        return '<span class="hz-badge ' + cls + '">' + label + '</span>';
+      }
+
+      // Sichere HTML-Escape-Funktion gegen XSS aus DB-Strings
+      function esc(s) {
+        return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({
+          '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+        })[c]);
+      }
+
+      let currentProvider = '';
+      let autoRefreshTimer = null;
+
       async function load() {
         try {
-          const res = await fetch('/api/herzraum/purchases?limit=100');
+          const qs = new URLSearchParams({ limit: '100' });
+          if (currentProvider) qs.set('provider', currentProvider);
+          const res = await fetch('/api/herzraum/purchases?' + qs.toString());
           if (!res.ok) throw new Error('HTTP ' + res.status);
           const data = await res.json();
 
@@ -88,10 +166,28 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
           setKpi('p.refunded', (data.refunded || 0).toLocaleString('de-DE'));
           setKpi('p.chargeback', (data.chargeback || 0).toLocaleString('de-DE'));
 
+          // By-Provider-Tabelle
+          const byProv = data.by_provider || [];
+          const pvBody = document.querySelector('#table-by-provider tbody');
+          if (byProv.length === 0) {
+            pvBody.innerHTML = '<tr><td colspan="5" class="muted">Noch keine Verkäufe.</td></tr>';
+          } else {
+            pvBody.innerHTML = byProv.map(r => {
+              return '<tr>' +
+                '<td>' + providerBadge(r.provider) + '</td>' +
+                '<td style="text-align: right; font-variant-numeric: tabular-nums;">' + (r.count || 0).toLocaleString('de-DE') + '</td>' +
+                '<td style="text-align: right; font-variant-numeric: tabular-nums;">' + (r.paid_count || 0).toLocaleString('de-DE') + '</td>' +
+                '<td style="text-align: right; font-variant-numeric: tabular-nums;"><strong>' + fmtEUR(r.revenue_paid_cents) + '</strong></td>' +
+                '<td style="text-align: right; font-variant-numeric: tabular-nums;" class="muted">' + fmtEUR(r.revenue_paid_30d_cents) + '</td>' +
+                '</tr>';
+            }).join('');
+          }
+
+          // Items-Tabelle
           const tbody = document.querySelector('#table-p tbody');
           const items = data.items || [];
           if (items.length === 0) {
-            tbody.innerHTML = '<tr><td colspan="6" class="muted">Noch keine Verkäufe. Sobald der erste Kauf über Digistore24 reinkommt, erscheint er hier.</td></tr>';
+            tbody.innerHTML = '<tr><td colspan="7" class="muted">Keine Verkäufe' + (currentProvider ? ' für "' + esc(currentProvider) + '"' : '') + '.</td></tr>';
           } else {
             tbody.innerHTML = items.map(p => {
               const ts = p.createdAt ? new Date(p.createdAt).toLocaleString('de-DE', {
@@ -100,15 +196,18 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
               const statusColor = p.status === 'paid' ? 'success'
                 : p.status === 'refunded' ? 'warning'
                 : p.status === 'chargeback' ? 'danger'
+                : p.status === 'failed' ? 'danger'
+                : p.status === 'cancelled' ? 'muted'
                 : 'muted';
               const amount = fmtEUR(p.amountCents);
               return '<tr>' +
-                '<td class="muted">' + ts + '</td>' +
-                '<td>' + p.email + '</td>' +
-                '<td>' + (p.product || '—') + '</td>' +
+                '<td class="muted">' + esc(ts) + '</td>' +
+                '<td>' + providerBadge(p.provider) + '</td>' +
+                '<td>' + esc(p.email) + '</td>' +
+                '<td>' + esc(p.product || '—') + '</td>' +
                 '<td style="text-align: right; font-variant-numeric: tabular-nums;">' + amount + '</td>' +
-                '<td><span class="hz-badge ' + statusColor + '">' + p.status + '</span></td>' +
-                '<td class="muted" style="font-family: monospace; font-size: 0.8rem;">' + (p.orderId || '') + '</td>' +
+                '<td><span class="hz-badge ' + statusColor + '">' + esc(p.status) + '</span></td>' +
+                '<td class="muted" style="font-family: monospace; font-size: 0.8rem;">' + esc(p.orderId || '') + '</td>' +
                 '</tr>';
             }).join('');
           }
@@ -117,12 +216,27 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
             new Date().toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
         } catch (err) {
           const tbody = document.querySelector('#table-p tbody');
-          tbody.innerHTML = '<tr><td colspan="6" class="muted" style="color: #ef4444;">Fehler: ' + err.message + '</td></tr>';
+          tbody.innerHTML = '<tr><td colspan="7" class="muted" style="color: #ef4444;">Fehler: ' + esc(err.message) + '</td></tr>';
         }
       }
+
+      // Filter-Dropdown
+      const filterSel = document.getElementById('filter-provider');
+      if (filterSel) {
+        filterSel.addEventListener('change', () => {
+          currentProvider = filterSel.value;
+          load();
+        });
+      }
+      // Manueller Refresh
+      const btnRefresh = document.getElementById('btn-refresh');
+      if (btnRefresh) {
+        btnRefresh.addEventListener('click', () => load());
+      }
+
       load();
       // Auto-refresh alle 30s
-      setInterval(load, 30_000);
+      autoRefreshTimer = setInterval(load, 30_000);
     })();
   </script>
 </HerzraumLayout>
