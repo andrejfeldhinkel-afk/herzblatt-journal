@@ -4,9 +4,18 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 const title = "Die Herzblatt-Methode — Der komplette Kurs für erfüllte Liebe | 89,99€";
 const description = "Die Herzblatt-Methode: 200+ Seiten Hauptbuch, 5 Bonus-Materialien, lebenslange Updates. Das komplette System für ein erfülltes Liebesleben — wissenschaftsfundiert, sofort umsetzbar.";
 
-// Optional: Digistore24 Buy-URL. Wenn gesetzt → direkter Kauf-Button statt Warteliste.
-// Setze in Railway-Frontend-Env: DIGISTORE_BUY_URL=https://www.digistore24.com/product/...
-const buyUrl = (import.meta.env.DIGISTORE_BUY_URL || process.env.DIGISTORE_BUY_URL || '').trim();
+// Checkout-URL für die Herzblatt-Methode.
+// Standard: Whop (plan_SstCjxgym14Nn, prod_dgHKZe1AmKgB7, biz_seNqZTbY3nLRDt). Public — kein Secret.
+// Override per Env möglich (z.B. für Tests oder Provider-Wechsel):
+//   CHECKOUT_URL_EBOOK > DIGISTORE_BUY_URL > Default.
+const CHECKOUT_URL_DEFAULT = 'https://whop.com/checkout/plan_SstCjxgym14Nn';
+const buyUrl = (
+  import.meta.env.CHECKOUT_URL_EBOOK ||
+  process.env.CHECKOUT_URL_EBOOK ||
+  import.meta.env.DIGISTORE_BUY_URL ||
+  process.env.DIGISTORE_BUY_URL ||
+  CHECKOUT_URL_DEFAULT
+).trim();
 const hasLiveCheckout = buyUrl.length > 0;
 
 // 15 Kapitel des Hauptbuchs
@@ -440,7 +449,7 @@ const faqs = [
               Jetzt kaufen — 89,99 €
             </a>
             <p class="text-xs opacity-70 mt-4">
-              Sichere Zahlung über Digistore24 · 30 Tage Geld-zurück-Garantie<br/>Sofortiger Download nach Kauf.
+              Sichere Zahlung über Whop (Kreditkarte, PayPal, Apple Pay) · 30 Tage Geld-zurück-Garantie<br/>Sofortiger Download nach Kauf.
             </p>
           </>
         ) : (
