@@ -24,13 +24,13 @@ const author = getAuthor(authorSlug);
 if (!author) return;
 
 // Article-Type-specific trust line
-const TRUST_LINE: Record<string, string> = {
-  review: 'Getestet und bewertet nach unserer Methodik',
-  test: 'Redaktionell geprüft und persönlich getestet',
-  guide: 'Fachlich überprüft und recherchiert',
-  general: 'Redaktionell geprüft',
+const TRUST_LINE: Record<string, { text: string; href?: string }> = {
+  review: { text: 'Getestet und bewertet nach unserer Methodik', href: '/methodik' },
+  test: { text: 'Redaktionell geprüft und persönlich getestet', href: '/methodik' },
+  guide: { text: 'Fachlich überprüft und recherchiert', href: '/methodik' },
+  general: { text: 'Redaktionell geprüft' },
 };
-const trustLabel = TRUST_LINE[articleType] || TRUST_LINE.general;
+const trust = TRUST_LINE[articleType] || TRUST_LINE.general;
 
 const updatedDate = lastUpdated ? (lastUpdated instanceof Date ? lastUpdated : new Date(lastUpdated)) : null;
 const updatedFmt = updatedDate ? updatedDate.toLocaleDateString('de-DE', { day: '2-digit', month: 'long', year: 'numeric' }) : null;
@@ -50,7 +50,7 @@ const updatedFmt = updatedDate ? updatedDate.toLocaleDateString('de-DE', { day: 
     <div class="abb-identity">
       <div class="abb-trust">
         <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 12l2 2 4-4"/><circle cx="12" cy="12" r="10"/></svg>
-        <span>{trustLabel}</span>
+        {trust.href ? <a href={trust.href}>{trust.text}</a> : <span>{trust.text}</span>}
       </div>
       <h3 class="abb-name">
         <a href={`/autor/${author.slug}`}>{author.name}</a>
@@ -129,6 +129,8 @@ const updatedFmt = updatedDate ? updatedDate.toLocaleDateString('de-DE', { day: 
     margin-bottom: 0.2rem;
   }
   .abb-trust svg { flex-shrink: 0; }
+  .abb-trust a { color: inherit; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 2px; text-decoration-color: rgba(22,163,74,0.4); }
+  .abb-trust a:hover { text-decoration-color: #16a34a; }
   .abb-name {
     margin: 0;
     font-family: 'Playfair Display', Georgia, serif;
