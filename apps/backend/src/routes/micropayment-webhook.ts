@@ -24,7 +24,8 @@ import { Hono } from 'hono';
 import { createHash } from 'node:crypto';
 import { eq, and } from 'drizzle-orm';
 import { db, schema } from '../db/index.js';
-import { addContactToList, sendWelcomeEmail, isSendGridEnabled } from '../lib/sendgrid.js';
+import { addContactToList, sendWelcomeEmail, sendEbookDeliveryEmail, isSendGridEnabled } from '../lib/sendgrid.js';
+import { buildEbookAccessUrl } from '../lib/ebook-access.js';
 import { captureError } from '../lib/sentry.js';
 import { redactEmail, safeEqualHex, truncatePayload } from '../lib/log-helpers.js';
 
@@ -210,9 +211,11 @@ app.post('/', async (c) => {
       if (isSendGridEnabled()) {
         void (async () => {
           try {
+            const accessUrl = buildEbookAccessUrl(email);
             await Promise.all([
               addContactToList(email, { source: 'ebook-purchase' }),
               sendWelcomeEmail(email),
+              sendEbookDeliveryEmail(email, accessUrl),
             ]);
           } catch (err) {
             console.error('[micropayment-webhook] SG post-purchase error:', err);
