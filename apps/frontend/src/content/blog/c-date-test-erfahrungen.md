@@ -2,6 +2,8 @@
 title: "C-Date Test & Erfahrungen 2026: Funktioniert diskretes Casual Dating wirklich?"
 description: "C-Date im ehrlichen Test 2026: Kosten, Matching, Diskretion und Kündigung. Plus: Günstigere Casual-Dating-Alternativen mit besserem Preis-Leistungs-Verhältnis."
 date: 2026-04-19
+image: "/images/blog/c-date-test-erfahrungen.webp"
+imageAlt: "C-Date-Homepage – Screenshot 2026"
 tags:
   - "Dating-Apps"
   - "Online-Dating"

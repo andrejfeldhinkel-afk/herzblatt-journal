@@ -2,6 +2,8 @@
 title: "ElitePartner Test & Erfahrungen 2026: Lohnt sich die Akademiker-Partnervermittlung wirklich?"
 description: "ElitePartner im ehrlichen Test 2026: Kosten, Persönlichkeitstest, Akademiker-Anteil und Kündigung. Plus: Günstigere Alternativen mit ähnlicher Seriosität."
 date: 2026-04-19
+image: "/images/blog/elitepartner-test-erfahrungen.webp"
+imageAlt: "ElitePartner-Homepage – Screenshot 2026"
 tags:
   - "Dating-Apps"
   - "Online-Dating"

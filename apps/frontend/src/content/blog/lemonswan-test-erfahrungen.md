@@ -2,6 +2,8 @@
 title: "LemonSwan Test & Erfahrungen 2026: Die beste Partnervermittlung für Alleinerziehende?"
 description: "LemonSwan im ehrlichen Test 2026: Kosten, Persönlichkeitstest, Alleinerziehenden-Fokus und Kündigung. Plus: Günstigere Alternativen mit größerer Community."
 date: 2026-04-19
+image: "/images/blog/lemonswan-test-erfahrungen.webp"
+imageAlt: "LemonSwan-Homepage – Screenshot 2026"
 tags:
   - "Dating-Apps"
   - "Online-Dating"
