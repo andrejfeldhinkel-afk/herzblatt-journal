@@ -35,12 +35,12 @@ const formattedDate = date && !isNaN(date.getTime())
   <div class="absolute top-0 left-0 right-0 h-1 opacity-0 group-hover:opacity-100 transition-opacity z-10" style="background: linear-gradient(90deg, var(--color-primary-400), var(--color-primary-600));"></div>
 
   <a href={`/blog/${slug}`} class:list={['block', featured ? 'md:grid md:grid-cols-2' : '']}>
-    <!-- Image -->
-    {image && (
-      <div class:list={[
-        'overflow-hidden',
-        featured ? 'aspect-[16/9] md:aspect-auto md:h-full' : 'aspect-[16/8]'
-      ]} style="background: linear-gradient(135deg, var(--color-primary-100), var(--color-primary-50));">
+    <!-- Image — fällt auf stylischen Gradient + Kategorie-Icon zurück wenn kein Bild gesetzt -->
+    <div class:list={[
+      'overflow-hidden relative',
+      featured ? 'aspect-[16/9] md:aspect-auto md:h-full' : 'aspect-[16/8]'
+    ]} style="background: linear-gradient(135deg, var(--color-primary-100), var(--color-primary-50));">
+      {image ? (
         <img
           src={image}
           alt={imageAlt || title}
@@ -50,8 +50,35 @@ const formattedDate = date && !isNaN(date.getTime())
           loading="lazy"
           decoding="async"
         />
-      </div>
-    )}
+      ) : (
+        <div class="w-full h-full flex items-center justify-center relative overflow-hidden"
+             style="background: linear-gradient(135deg, var(--color-primary-100) 0%, var(--color-primary-50) 60%, #fff 100%);">
+          <div class="absolute inset-0 opacity-30"
+               style="background: radial-gradient(circle at 30% 40%, var(--color-primary-200), transparent 50%), radial-gradient(circle at 70% 70%, var(--color-primary-300), transparent 45%);"></div>
+          <div class="relative text-center px-6">
+            <div class="text-5xl sm:text-6xl mb-2 transition-transform duration-500 group-hover:scale-110">
+              {(() => {
+                const t = (tags && tags[0]) || '';
+                if (/beziehung/i.test(t)) return '💑';
+                if (/dating-apps|online-dating/i.test(t)) return '📱';
+                if (/flirt/i.test(t)) return '✨';
+                if (/psychologie|bindung/i.test(t)) return '🧠';
+                if (/selbstliebe|heilung/i.test(t)) return '💖';
+                if (/kommunikation/i.test(t)) return '💬';
+                if (/red.?flag/i.test(t)) return '🚩';
+                if (/trennung|ex/i.test(t)) return '💔';
+                if (/sex|intim/i.test(t)) return '🔥';
+                if (/hochzeit|ehe/i.test(t)) return '💍';
+                return '💕';
+              })()}
+            </div>
+            <p class="text-[10px] uppercase tracking-widest font-bold" style="color: var(--color-primary-600); opacity: 0.7;">
+              Herzblatt · Ratgeber
+            </p>
+          </div>
+        </div>
+      )}
+    </div>
 
     <div class="p-6 sm:p-7">
       <!-- Tags -->
