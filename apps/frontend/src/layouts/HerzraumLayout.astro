@@ -604,6 +604,47 @@ const navSections = [
   </style>
 
   <script is:inline>
+    // CSRF-Helper — liest das hz_csrf-Cookie + injiziert x-csrf-token-Header
+    // in alle mutierenden fetch()-Requests zu /api/herzraum/*. Admin-Pages
+    // nutzen einfach `fetch(...)` wie bisher — dieser Wrapper kümmert sich
+    // transparent um den Header.
+    (function() {
+      function readCsrf() {
+        const m = document.cookie.match(/(?:^|; )hz_csrf=([^;]+)/);
+        return m ? decodeURIComponent(m[1]) : '';
+      }
+      const originalFetch = window.fetch.bind(window);
+      window.fetch = function(input, init) {
+        try {
+          const url = typeof input === 'string'
+            ? input
+            : (input && input.url) || '';
+          const method = ((init && init.method)
+            || (typeof input === 'object' && input && input.method)
+            || 'GET').toUpperCase();
+          const isMutation = method === 'POST' || method === 'PATCH' || method === 'DELETE' || method === 'PUT';
+          const isHerzraum = typeof url === 'string' && url.indexOf('/api/herzraum/') !== -1;
+          if (isMutation && isHerzraum) {
+            const csrf = readCsrf();
+            if (csrf) {
+              const headers = new Headers(
+                (init && init.headers)
+                  || (typeof input === 'object' && input && input.headers)
+                  || {}
+              );
+              if (!headers.has('x-csrf-token')) {
+                headers.set('x-csrf-token', csrf);
+              }
+              init = Object.assign({}, init || {}, { headers });
+            }
+          }
+        } catch { /* fail-open */ }
+        return originalFetch(input, init);
+      };
+      // Expose für manuelle Nutzung
+      window.getCsrfToken = readCsrf;
+    })();
+
     // Live-Clock im Header
     (function() {
       const el = document.getElementById('hz-clock');

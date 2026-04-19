@@ -43,6 +43,7 @@ export async function proxyToBackend(
       'x-real-ip',
       'referer',
       'accept',
+      'x-csrf-token', // CSRF double-submit header (muss durchgereicht werden)
     ];
     for (const name of passthrough) {
       const v = request.headers.get(name);

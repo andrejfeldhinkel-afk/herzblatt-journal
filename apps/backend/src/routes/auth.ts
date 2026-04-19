@@ -9,6 +9,7 @@ import {
   verifySession,
 } from '../lib/session.js';
 import { getClientIp } from '../lib/crypto.js';
+import { buildCsrfCookie, generateCsrfToken } from '../lib/csrf.js';
 
 const app = new Hono();
 
@@ -44,7 +45,10 @@ app.post('/login', async (c) => {
     return c.json({ ok: false, message: 'Anmeldung fehlgeschlagen.' }, 401);
   }
 
-  c.header('Set-Cookie', buildSessionCookie(result.token));
+  c.header('Set-Cookie', buildSessionCookie(result.token), { append: true });
+  // CSRF-Token direkt beim Login setzen, damit das Frontend nicht auf den
+  // ersten /herzraum-GET warten muss bevor es mutieren darf.
+  c.header('Set-Cookie', buildCsrfCookie(generateCsrfToken()), { append: true });
   return c.json({ ok: true, redirect: '/herzraum' });
 });
 
@@ -52,7 +56,8 @@ app.post('/login', async (c) => {
 app.post('/logout', async (c) => {
   const token = extractTokenFromCookie(c.req.header('cookie'));
   await destroySession(token);
-  c.header('Set-Cookie', buildLogoutCookie());
+  c.header('Set-Cookie', buildLogoutCookie(), { append: true });
+  c.header('Set-Cookie', 'hz_csrf=; Path=/; Max-Age=0; SameSite=Lax', { append: true });
   return c.json({ ok: true });
 });
 
@@ -60,7 +65,8 @@ app.post('/logout', async (c) => {
 app.get('/logout', async (c) => {
   const token = extractTokenFromCookie(c.req.header('cookie'));
   await destroySession(token);
-  c.header('Set-Cookie', buildLogoutCookie());
+  c.header('Set-Cookie', buildLogoutCookie(), { append: true });
+  c.header('Set-Cookie', 'hz_csrf=; Path=/; Max-Age=0; SameSite=Lax', { append: true });
   return c.redirect('https://herzblatt-journal.com/herzraum/login', 302);
 });
 
