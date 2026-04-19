@@ -11,7 +11,7 @@ imageAlt: "Zwei Ehepartner unterzeichnen gemeinsam einen Ehevertrag am Tisch"
 keywords: ["ehevertrag sinnvoll", "ehevertrag ja oder nein", "ehevertrag kosten", "ehevertrag was regeln", "brauche ich einen ehevertrag"]
 draft: false
 featured: false
-author: "redaktion"
+author: "laura-weber"
 faq:
   - question: "Ist ein Ehevertrag ein Zeichen von Misstrauen?"
     answer: "Nein. Ein Ehevertrag ist ein praktisches rechtliches Dokument, ähnlich wie eine Lebensversicherung oder ein Testament. Viele Paare sehen ihn als Zeichen von Realismus und gegenseitiger Fürsorge, nicht als Misstrauen. Es geht darum, Klarheit und Schutz für beide Partner zu schaffen."

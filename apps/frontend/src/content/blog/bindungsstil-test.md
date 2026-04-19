@@ -11,7 +11,7 @@ tags:
 keywords: ["bindungsstil test", "bindungstyp test", "welcher bindungsstil bin ich", "attachment style test deutsch"]
 draft: false
 featured: false
-author: "redaktion"
+author: "thomas-peters"
 faq:
   - question: "Wie genau ist ein Bindungsstil-Test?"
     answer: "Bindungsstil-Tests sind nicht wie ärztliche Diagnosen. Sie sind Selbstreflexions-Tools, die dir Hinweise auf dein Muster geben. Sie sind am wertvollsten, wenn du den Test ehrlich beantwortest und dann dein Ergebnis in Beziehungen beobachtest. Ein guter Test hat eine Genauigkeit von etwa 70-80% – das heißt, er trifft dein grundlegendes Muster, aber nicht alle Nuancen."

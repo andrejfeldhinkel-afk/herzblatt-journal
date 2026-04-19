@@ -7,7 +7,7 @@ imageAlt: "Glueckwuensche Zur Hochzeit Texte"
 tags: ["Lifestyle"]
 keywords: ["glückwünsche zur hochzeit", "hochzeitsglückwünsche", "hochzeit gratulation text"]
 draft: false
-author: "redaktion"
+author: "laura-weber"
 faq:
   - question: "Welcher Hochzeitsglückwunsch ist am universellsten?"
     answer: "Kurze, klassische Texte wie 'Alles Gute für euer gemeinsames Leben' funktionieren immer. Aber persönliche Anpassungen machen es besonders."
