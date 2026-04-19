@@ -226,6 +226,59 @@ export async function runStartupMigrations(): Promise<void> {
     await db.execute(sql`CREATE INDEX IF NOT EXISTS affiliate_links_active_idx ON affiliate_links(active)`);
     await db.execute(sql`CREATE INDEX IF NOT EXISTS affiliate_links_campaign_idx ON affiliate_links(campaign)`);
 
+    // ebook_drip_schedule — Drip-Kampagne nach Ebook-Kauf.
+    // Drei Steps (day1, day7, day30) werden bei Kauf eingeplant und vom
+    // /admin/cron/ebook-drip abgearbeitet.
+    await db.execute(sql`
+      CREATE TABLE IF NOT EXISTS ebook_drip_schedule (
+        id SERIAL PRIMARY KEY,
+        email TEXT NOT NULL,
+        drip_step TEXT NOT NULL,
+        scheduled_for TIMESTAMP WITH TIME ZONE NOT NULL,
+        sent_at TIMESTAMP WITH TIME ZONE,
+        attempts BIGINT NOT NULL DEFAULT 0,
+        last_error TEXT,
+        created_at TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW()
+      )
+    `);
+    await db.execute(sql`
+      CREATE UNIQUE INDEX IF NOT EXISTS ebook_drip_email_step_unique
+        ON ebook_drip_schedule(email, drip_step)
+    `);
+    // Partial Index für Cron-Sweep: nur noch nicht versendete Rows indexiert.
+    await db.execute(sql`
+      CREATE INDEX IF NOT EXISTS ebook_drip_due_idx
+        ON ebook_drip_schedule(scheduled_for)
+        WHERE sent_at IS NULL
+    `);
+    await db.execute(sql`
+      CREATE INDEX IF NOT EXISTS ebook_drip_email_idx
+        ON ebook_drip_schedule(email)
+    `);
+
+    // affiliate_codes — Käufer-Affiliate-Codes (8-Zeichen, a-z0-9).
+    // Ein Code pro Owner-Email (UNIQUE ownerEmail): bei Zweitkauf kein neuer Code.
+    await db.execute(sql`
+      CREATE TABLE IF NOT EXISTS affiliate_codes (
+        id SERIAL PRIMARY KEY,
+        code TEXT NOT NULL UNIQUE,
+        owner_email TEXT NOT NULL,
+        created_at TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW(),
+        clicks BIGINT NOT NULL DEFAULT 0,
+        conversions BIGINT NOT NULL DEFAULT 0,
+        payout_cents BIGINT NOT NULL DEFAULT 0,
+        last_click_at TIMESTAMP WITH TIME ZONE,
+        last_conversion_at TIMESTAMP WITH TIME ZONE,
+        active BOOLEAN NOT NULL DEFAULT TRUE
+      )
+    `);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS affiliate_codes_owner_idx ON affiliate_codes(owner_email)`);
+    await db.execute(sql`CREATE INDEX IF NOT EXISTS affiliate_codes_code_idx ON affiliate_codes(code)`);
+    await db.execute(sql`
+      CREATE UNIQUE INDEX IF NOT EXISTS affiliate_codes_owner_unique
+        ON affiliate_codes(owner_email)
+    `);
+
     // UNIQUE-Constraint auf registrations.email — verhindert Duplikat-Signups.
     // De-dupe vorher (älteste Row pro email behalten), dann Unique-Index bauen.
     // Siehe migrations/0003_additional_unique_constraints.sql + Phase-5 D2.

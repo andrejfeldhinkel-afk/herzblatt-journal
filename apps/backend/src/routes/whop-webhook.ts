@@ -28,7 +28,8 @@ import { Hono } from 'hono';
 import { createHmac } from 'node:crypto';
 import { eq, and } from 'drizzle-orm';
 import { db, schema } from '../db/index.js';
-import { addContactToList, sendWelcomeEmail, sendEbookDeliveryEmail, isSendGridEnabled } from '../lib/sendgrid.js';
+import { addContactToList, sendWelcomeEmail, sendEbookDeliveryEmail, isSendGridEnabled, scheduleAllEbookDrips } from '../lib/sendgrid.js';
+import { ensureAffiliateCodeForBuyer, creditAffiliateConversionIfRef } from '../lib/affiliate-code.js';
 import { buildEbookAccessUrl } from '../lib/ebook-access.js';
 import { captureError } from '../lib/sentry.js';
 import { redactEmail, safeEqualHex, truncatePayload } from '../lib/log-helpers.js';
@@ -250,12 +251,31 @@ app.post('/', async (c) => {
               addContactToList(email, { source: 'ebook-purchase' }),
               sendWelcomeEmail(email),
               sendEbookDeliveryEmail(email, accessUrl),
+              // Drip-Kampagne planen (Day 1, 7, 30) — idempotent.
+              scheduleAllEbookDrips(email),
             ]);
           } catch (err) {
             console.error('[whop-webhook] SG post-purchase error:', err);
           }
         })();
+      } else {
+        void scheduleAllEbookDrips(email).catch((err) =>
+          console.error('[whop-webhook] drip schedule error:', err),
+        );
       }
+
+      // Affiliate-Code für Käufer + ggf. Conversion-Credit für Referrer.
+      void (async () => {
+        try {
+          await ensureAffiliateCodeForBuyer(email);
+          await creditAffiliateConversionIfRef(
+            c.req.header('cookie') || '',
+            amountCents,
+          );
+        } catch (err) {
+          console.error('[whop-webhook] affiliate credit error:', err);
+        }
+      })();
     }
 
     return c.json({ ok: true }, 200);
