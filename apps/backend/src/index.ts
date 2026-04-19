@@ -37,6 +37,7 @@ import authRoute from './routes/auth.js';
 
 // Admin (session-protected)
 import herzraumStatsRoute from './routes/herzraum/stats.js';
+import herzraumKpiSummaryRoute from './routes/herzraum/kpi-summary.js';
 import herzraumClicksSourcesRoute from './routes/herzraum/clicks-sources.js';
 import herzraumNewsletterRoute from './routes/herzraum/newsletter.js';
 import herzraumReadersListRoute from './routes/herzraum/readers-list.js';
@@ -168,6 +169,8 @@ app.use('/herzraum/*', requireSession);
 // GET/HEAD/OPTIONS passieren ohne Check durch und liefern das frische
 // CSRF-Cookie via requireSession.
 app.use('/herzraum/*', requireCsrfToken);
+// kpi-summary MUSS vor stats registriert werden (spezifischer Pfad zuerst).
+app.route('/herzraum/stats/kpi-summary', herzraumKpiSummaryRoute);
 app.route('/herzraum/stats', herzraumStatsRoute);
 app.route('/herzraum/clicks/sources', herzraumClicksSourcesRoute);
 app.route('/herzraum/newsletter', herzraumNewsletterRoute);
