@@ -89,9 +89,20 @@ export default defineConfig({
         item.priority = 0.9;
         item.changefreq = 'weekly';
       } else if (m) {
-        // Individual blog articles
-        item.priority = 0.7;
-        item.changefreq = 'monthly';
+        // Individual blog articles — differenziertes Prioritäts-Schema
+        // Review/Test-Erfahrungen sind Money-Pages (Affiliate-Conversion)
+        // und sollten Crawl-Budget bekommen.
+        const slug = m[1];
+        if (/-test-erfahrungen$/.test(slug) || /-kosten-premium$/.test(slug)) {
+          item.priority = 0.85;  // Dating-Reviews mit Affiliate-Potential
+          item.changefreq = 'weekly';
+        } else if (/^beste-.*-(?:fuer|ab|2026)|-vs-|-alternative-|^(?:beste-partnerboerse|beste-dating-app)/.test(slug)) {
+          item.priority = 0.85;  // Listicles + Comparisons (SEO-Pillar)
+          item.changefreq = 'weekly';
+        } else {
+          item.priority = 0.7;
+          item.changefreq = 'monthly';
+        }
       } else if (url === '/blog') {
         item.priority = 0.9;
         item.changefreq = 'daily';
@@ -121,7 +132,7 @@ export default defineConfig({
       } else if (url.startsWith('/tags')) {
         item.priority = 0.5;
         item.changefreq = 'weekly';
-      } else if (url === '/ueber-uns' || url === '/kontakt' || url === '/glossar') {
+      } else if (url === '/ueber-uns' || url === '/kontakt' || url === '/glossar' || url === '/methodik') {
         item.priority = 0.5;
         item.changefreq = 'monthly';
       } else {
