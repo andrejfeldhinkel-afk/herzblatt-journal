@@ -25,4 +25,26 @@ const blog = defineCollection({
   }),
 });
 
-export const collections = { blog };
+// E-Book-Hauptkapitel (15) — plain Markdown, kein Frontmatter.
+// Werden nur auf /ebook/lesen gerendert (gated, siehe middleware).
+// Filename-Pattern 0X-name.md; AUDIT-EXISTING.md u.a. Meta-Files werden
+// via Numerik-Prefix ausgeschlossen (case-insensitive im glob-loader
+// nicht verfügbar → explizit negatives Pattern unterstützt astro/loaders
+// über Array).
+const ebook = defineCollection({
+  loader: glob({
+    pattern: ['**/[0-9]*.md'],
+    base: './src/content/ebook',
+  }),
+  // Kein Schema: die Files haben kein Frontmatter. Astro 4+ akzeptiert ein
+  // leeres Schema; die `body`-Property bleibt erhalten.
+  schema: z.object({}).passthrough(),
+});
+
+// E-Book-Bonus-Materialien (5)
+const ebookBonuses = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/ebook-bonuses' }),
+  schema: z.object({}).passthrough(),
+});
+
+export const collections = { blog, ebook, 'ebook-bonuses': ebookBonuses };
