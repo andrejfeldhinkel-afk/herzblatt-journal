@@ -4,7 +4,12 @@
  * Erstellt eine signierte Micropayment-Bezahlfenster-URL.
  *
  * Input (JSON body oder query params):
- *   { method: "sofort" | "paysafe", email: "user@example.com" }
+ *   { method: "sofort" | "paysafe", email?: "user@example.com" }
+ *
+ * Email ist OPTIONAL — Micropayment fragt die Email im eigenen Bezahlfenster
+ * ab (E-Mail-Abfrage-Checkbox ist im Projekt aktiv). Wenn email nicht
+ * übergeben wird, wird mp_user_email nicht als Param gesetzt und fließt auch
+ * nicht in die Signatur ein.
  *
  * Output:
  *   { url: "https://<domain>.micropayment.de/public/main/event/?..." }
@@ -65,12 +70,12 @@ app.post('/', async (c) => {
     if (!method) method = String(c.req.query('method') || '').toLowerCase().trim();
     if (!email) email = String(c.req.query('email') || '').toLowerCase().trim();
 
-    // Validation
+    // Validation — email ist optional, wird nur validiert wenn vorhanden
     if (!ALLOWED_METHODS.has(method)) {
       return c.json({ error: 'Invalid method. Must be "sofort" or "paysafe".' }, 400);
     }
-    if (!email || !EMAIL_REGEX.test(email)) {
-      return c.json({ error: 'Invalid or missing email.' }, 400);
+    if (email && !EMAIL_REGEX.test(email)) {
+      return c.json({ error: 'Invalid email format.' }, 400);
     }
 
     // Env-Vars lesen
@@ -84,6 +89,8 @@ app.post('/', async (c) => {
     }
 
     // Params für die Bezahlfenster-URL bauen
+    // mp_user_email nur setzen wenn vorhanden — sonst fragt Micropayment
+    // die Email im Bezahlfenster ab (und Param fließt nicht ins Signing ein)
     const params: Record<string, string> = {
       project: projectKey,
       amount: '8999',
@@ -91,8 +98,10 @@ app.post('/', async (c) => {
       testMode,
       title: 'Herzblatt-Methode',
       freeParam: randomUUID(),
-      mp_user_email: email,
     };
+    if (email) {
+      params.mp_user_email = email;
+    }
 
     // Signatur (MD5 über sortierte key-value-Konkatenation + AccessKey)
     const signature = buildMicropaymentSignature(params, accessKey);
@@ -110,7 +119,7 @@ app.post('/', async (c) => {
 
     const url = `https://${domain}/public/main/event/?${qs.toString()}`;
 
-    console.log(`[micropayment-checkout] URL generated für ${email} (${method}), freeParam=${params.freeParam}`);
+    console.log(`[micropayment-checkout] URL generated für ${email || '(no-email)'} (${method}), freeParam=${params.freeParam}`);
 
     return c.json({ url }, 200);
   } catch (err) {
@@ -123,7 +132,7 @@ app.post('/', async (c) => {
 app.get('/', (c) => {
   return c.json({
     ok: true,
-    info: 'Micropayment checkout URL builder. POST { method, email } to get a signed payment URL.',
+    info: 'Micropayment checkout URL builder. POST { method, email? } to get a signed payment URL. Email is optional — Micropayment asks for it in its own payment window.',
     configured: !!process.env.MICROPAYMENT_PROJECT_KEY && !!process.env.MICROPAYMENT_ACCESS_KEY,
     testMode: process.env.MICROPAYMENT_TEST_MODE || '1',
   });
