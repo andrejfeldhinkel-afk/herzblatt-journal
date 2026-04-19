@@ -31,6 +31,8 @@ faq:
     answer: "Die Plattformen zielen auf unterschiedliche Gruppen: Parship ist breiter aufgestellt (11 Mio. DACH), LemonSwan ist spezialisiert auf Alleinerziehende und Familien-Kompatibilität (400.000 DACH). Wer selbst Kinder hat oder einen Partner mit Kindern akzeptiert, findet bei LemonSwan deutlich passendere Matches. Wer das nicht priorisiert, ist bei Parship wegen der größeren Auswahl besser aufgehoben. Preislich sind beide vergleichbar im Premium-Segment."
   - question: "Wie seriös ist LemonSwan und wer steht dahinter?"
     answer: "LemonSwan wurde 2017 von Dr. Arne Kahlke gegründet, dem Mitbegründer von Parship. Das Unternehmen sitzt in Wiesbaden (LemonSwan GmbH) und wird nach deutschem Recht betrieben. Die Plattform ist TÜV-zertifiziert, DSGVO-konform und hat in den letzten Jahren keine bekannten Datenschutzvorfälle gehabt. Die Seriosität ist also hoch — das Fair-Pricing-Modell für Alleinerziehende hat LemonSwan zusätzliche Glaubwürdigkeit im Markt gebracht."
+image: "/images/blog/lemonswan-test-erfahrungen.webp"
+imageAlt: "LemonSwan Homepage — Screenshot April 2026"
 ---
 
 ## LemonSwan Test 2026: Unsere ehrliche Bewertung nach 4 Wochen Intensiv-Nutzung

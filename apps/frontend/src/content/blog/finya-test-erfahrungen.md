@@ -31,6 +31,8 @@ faq:
     answer: "Ja — im Gegensatz zu Parship, wo Fotos in der Gratis-Version unscharf sind, kannst du bei Finya alle öffentlich sichtbaren Profilfotos ohne Einschränkung sehen. Jeder Nutzer entscheidet selbst, ob er Fotos hochlädt und freigibt. Etwa 70 % der aktiven Nutzer haben mindestens ein Foto, die Qualität schwankt stark — von professionellen Aufnahmen bis zu verwaschenen Schnappschüssen. Eine Foto-Verifizierung, wie sie xLoves und i-Loves anbieten, fehlt bei Finya komplett."
   - question: "Finya oder Lovoo — was ist besser?"
     answer: "Beide Plattformen sind in bestimmten Zielgruppen stark, unterscheiden sich aber grundlegend. Finya ist kostenlos, Desktop-orientiert und richtet sich an 25–45-Jährige mit Interesse an klassischem Dating. Lovoo ist App-zentriert, hat ein jüngeres Publikum (18–35) und arbeitet mit einem undurchsichtigen Credit-System. Wer wirklich nichts zahlen will, bleibt bei Finya. Wer moderne App-Features will, ohne in die Credit-Falle zu tappen, findet mit xLoves einen guten Mittelweg mit klaren Monats-Abos."
+image: "/images/blog/finya-test-erfahrungen.webp"
+imageAlt: "Finya Homepage — Screenshot April 2026"
 ---
 
 ## Finya Test 2026: Unsere ehrliche Bewertung nach 4 Wochen Intensiv-Nutzung
