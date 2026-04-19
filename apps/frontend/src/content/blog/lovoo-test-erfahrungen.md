@@ -31,6 +31,8 @@ faq:
     answer: "Unsere ehrliche Einschätzung: Nein, meistens nicht. Credits sind teuer pro tatsächlich nutzbarer Aktion, verfallen bei Inaktivität, und du kannst sie weder zurückgeben noch in echtes Geld zurücktauschen. Wer aktiv Dating betreiben will, fährt mit einem klaren Monats-Abo (Premium oder VIP Gold) besser — oder noch besser mit einer Alternative wie xLoves, die für 9,99 €/Monat alle Features inklusive bietet. Credits sind vor allem eines: ein Geschäftsmodell für den Betreiber, nicht eine Erleichterung für Nutzer."
   - question: "Hat Lovoo eine gute App?"
     answer: "Die Lovoo-App ist technisch solide — flüssige Performance, gutes Design, schnelle Ladezeiten, zuverlässige Push-Benachrichtigungen. Die Bewertungen in App Store und Google Play liegen bei 4,0 bis 4,3 Sternen, was überdurchschnittlich ist. Kritik bekommt die App jedoch für das Credit-System, die vielen Push-Werbungen für VIP Gold und die aggressive Monetarisierung. Wer nur die App-Qualität bewertet, bekommt ein modernes Produkt. Wer das Gesamtpaket inkl. Geschäftsmodell bewertet, kommt zu einem durchwachsenen Urteil."
+image: "/images/blog/lovoo-test-erfahrungen.webp"
+imageAlt: "Lovoo Homepage — Screenshot April 2026"
 ---
 
 ## Lovoo Test 2026: Unsere ehrliche Bewertung nach 4 Wochen Intensiv-Nutzung

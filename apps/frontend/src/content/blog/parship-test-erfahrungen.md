@@ -31,8 +31,8 @@ faq:
     answer: "Beide gehören zur ParshipMeet Group und sind ähnlich strukturiert. Parship hat mehr Mitglieder (ca. 11 Mio. DACH), ElitePartner richtet sich etwas akademischer aus (53 % Akademiker). Die Preise sind vergleichbar, der Persönlichkeitstest bei Parship umfangreicher. Für Akademiker und Führungskräfte oft ElitePartner, für breite ernsthafte Partnersuche eher Parship. Beide sind im oberen Preissegment."
   - question: "Wie viele Mitglieder hat Parship wirklich?"
     answer: "Parship gibt rund 11 Millionen Mitglieder im DACH-Raum an, aktiv davon schätzungsweise 1–2 Millionen pro Monat. Die konkrete Zahl aktiver Nutzer veröffentlicht Parship nicht. In unserem Test haben wir in jeder deutschen Großstadt ausreichend Matches bekommen — auf dem Land in strukturschwachen Regionen dauert es länger, bis passende Vorschläge kommen."
-image: "/images/blog/parship-erfahrungen-test-2026.webp"
-imageAlt: "parship test erfahrungen"
+image: "/images/blog/parship-test-erfahrungen.webp"
+imageAlt: "Parship Homepage — Screenshot April 2026"
 ---
 
 ## Parship Test 2026: Unsere ehrliche Bewertung nach 4 Wochen Intensiv-Nutzung
