@@ -77,9 +77,72 @@ const faqs = [
 
 <BaseLayout title={title} description={description}>
 
-  <!-- Whop Embedded Checkout Loader (rendert den Iframe anhand des data-whop-checkout-plan-id-Divs) -->
+  <!--
+    Whop Embedded Checkout Loader — Lazy-Load via IntersectionObserver.
+    Vorher: eager Script-Tag beim Page-Load (~150-200KB JS pro View,
+    auch wenn User nie zum Checkout scrollt).
+    Jetzt: Script wird erst injiziert, wenn #kaufen-Section in Viewport
+    kommt (mit 300px Pre-Trigger). Das erhöht LCP auf 3G sichtbar.
+  -->
   {hasLiveCheckout && (
-    <script is:inline async defer src="https://js.whop.com/static/checkout/loader.js"></script>
+    <script is:inline>
+      (function () {
+        var WHOP_SRC = 'https://js.whop.com/static/checkout/loader.js';
+        var injected = false;
+        function inject() {
+          if (injected) return;
+          injected = true;
+          var s = document.createElement('script');
+          s.src = WHOP_SRC;
+          s.async = true;
+          s.defer = true;
+          document.head.appendChild(s);
+        }
+        function setupObserver() {
+          var target = document.getElementById('kaufen');
+          if (!target) {
+            // Fallback: kein Anchor — injiziere nach 3s damit Interaktion funktioniert
+            setTimeout(inject, 3000);
+            return;
+          }
+          if (!('IntersectionObserver' in window)) {
+            inject();
+            return;
+          }
+          var io = new IntersectionObserver(function (entries) {
+            entries.forEach(function (e) {
+              if (e.isIntersecting) {
+                inject();
+                io.disconnect();
+              }
+            });
+          }, { rootMargin: '300px 0px 300px 0px' });
+          io.observe(target);
+        }
+        // Wenn User direkt auf #kaufen/Modal-Button klickt (bevor Section sichtbar),
+        // sofort laden — das sind Events auf dem Kauf-Card-Button.
+        function setupInteractionHooks() {
+          ['click', 'focusin'].forEach(function (ev) {
+            document.addEventListener(ev, function (e) {
+              var t = e.target;
+              if (!t || typeof t.closest !== 'function') return;
+              if (t.closest('#checkout-card-btn, #checkout-sofort-btn, #checkout-paysafe-btn, a[href="#kaufen"]')) {
+                inject();
+              }
+            }, { passive: true });
+          });
+        }
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', function () {
+            setupObserver();
+            setupInteractionHooks();
+          });
+        } else {
+          setupObserver();
+          setupInteractionHooks();
+        }
+      })();
+    </script>
   )}
 
   <!-- HERO -->
@@ -440,25 +503,28 @@ const faqs = [
             <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
               <button type="button"
                       id="checkout-card-btn"
+                      aria-label="Mit Kreditkarte bezahlen"
                       class="inline-flex flex-col items-center justify-center gap-1.5 px-3 py-4 rounded-xl text-sm font-semibold transition-all hover:-translate-y-px cursor-pointer"
-                      style="background: white; color: #1e293b; border: 2px solid white;">
-                <span class="text-2xl leading-none">💳</span>
+                      style="background: white; color: #1e293b; border: 2px solid white; min-height: 88px;">
+                <span class="text-2xl leading-none" aria-hidden="true">💳</span>
                 <span class="leading-tight">Kreditkarte</span>
               </button>
               <button type="button"
                       id="checkout-sofort-btn"
                       data-mp-method="sofort"
+                      aria-label="Mit Sofort-Überweisung bezahlen"
                       class="inline-flex flex-col items-center justify-center gap-1.5 px-3 py-4 rounded-xl text-sm font-semibold transition-all hover:-translate-y-px cursor-pointer"
-                      style="background: rgba(255,255,255,0.12); color: white; border: 1px solid rgba(255,255,255,0.3);">
-                <span class="text-2xl leading-none">🏦</span>
+                      style="background: rgba(255,255,255,0.12); color: white; border: 1px solid rgba(255,255,255,0.3); min-height: 88px;">
+                <span class="text-2xl leading-none" aria-hidden="true">🏦</span>
                 <span class="leading-tight">Sofort-Überweisung</span>
               </button>
               <button type="button"
                       id="checkout-paysafe-btn"
                       data-mp-method="paysafe"
+                      aria-label="Mit paysafecard bezahlen"
                       class="inline-flex flex-col items-center justify-center gap-1.5 px-3 py-4 rounded-xl text-sm font-semibold transition-all hover:-translate-y-px cursor-pointer"
-                      style="background: rgba(255,255,255,0.12); color: white; border: 1px solid rgba(255,255,255,0.3);">
-                <span class="text-2xl leading-none">🎫</span>
+                      style="background: rgba(255,255,255,0.12); color: white; border: 1px solid rgba(255,255,255,0.3); min-height: 88px;">
+                <span class="text-2xl leading-none" aria-hidden="true">🎫</span>
                 <span class="leading-tight">paysafecard</span>
               </button>
             </div>
@@ -497,9 +563,9 @@ const faqs = [
             <button
               type="button"
               id="whop-modal-close"
-              aria-label="Schließen"
-              class="absolute -top-3 -right-3 w-9 h-9 rounded-full flex items-center justify-center cursor-pointer shadow-lg z-10"
-              style="background: white; color: #1e293b; border: none;"
+              aria-label="Checkout schließen"
+              class="absolute -top-4 -right-4 rounded-full flex items-center justify-center cursor-pointer shadow-lg z-10"
+              style="background: white; color: #1e293b; border: none; width: 44px; height: 44px;"
             >
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
             </button>
