@@ -330,7 +330,7 @@ Machen Sie also keine Eile. Wenn Sie das Ritual noch nicht abgeschlossen haben �
 ---
 
 *Ende Kapitel 3 — und Ende von Teil I des Buches.*
-*Wortanzahl: ~6.700 · Durchschnittliche Lesezeit: 28 Minuten · Arbeitszeit (Ritual komplett): 21 Tage, je 20-45 Min.*
+*Wortanzahl: ~3.800 · Durchschnittliche Lesezeit: 16 Minuten · Arbeitszeit (Ritual komplett): 21 Tage, je 20-45 Min.*
 
 ---
 
