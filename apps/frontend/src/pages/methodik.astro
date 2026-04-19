@@ -1,0 +1,222 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+// Eine statische Trust-Page: Wie wir Dating-Apps und Partnerbörsen testen.
+// Wird von jedem Review-Artikel verlinkt (E-E-A-T-Signal).
+const breadcrumbs = [
+  { name: 'Home', url: '/' },
+  { name: 'Methodik', url: '/methodik' },
+];
+---
+
+<BaseLayout
+  title="Testmethodik — Wie wir Dating-Apps und Partnerbörsen bewerten | Herzblatt Journal"
+  description="Transparente Testmethodik: Wie Herzblatt Journal Dating-Apps und Partnerbörsen bewertet. 6 Kriterien, echte Testprofile, offene Affiliate-Offenlegung."
+  type="website"
+  breadcrumbs={breadcrumbs}
+  keywords={["dating app test methodik", "wie testen wir dating apps", "herzblatt testmethodik", "transparenz dating tests"]}
+>
+  <main class="mx-auto max-w-3xl px-5 py-12" style="color: var(--text);">
+    <nav aria-label="Breadcrumb" class="text-xs mb-4" style="color: var(--text-muted);">
+      <a href="/" style="color: inherit; text-decoration: none;">Home</a>
+      <span class="mx-1.5">›</span>
+      <span>Methodik</span>
+    </nav>
+
+    <header class="mb-8 pb-6" style="border-bottom: 1px solid var(--border);">
+      <div class="inline-flex items-center gap-2 mb-3 text-xs font-bold uppercase tracking-wider"
+           style="color: var(--color-primary-600);">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+             stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M9 12l2 2 4-4"/><circle cx="12" cy="12" r="10"/>
+        </svg>
+        Transparenz
+      </div>
+      <h1 style="font-family: var(--font-serif); font-size: clamp(2rem, 5vw, 3rem); font-weight: 800; letter-spacing: -0.025em; line-height: 1.1; margin-bottom: 0.75rem;">
+        Unsere Testmethodik
+      </h1>
+      <p style="font-size: 1.1rem; line-height: 1.55; color: var(--text-muted);">
+        Wie wir Dating-Apps und Partnerbörsen bewerten — damit du weißt, worauf sich unsere Empfehlungen stützen.
+      </p>
+    </header>
+
+    <section class="mb-10">
+      <h2 style="font-family: var(--font-serif); font-size: 1.6rem; font-weight: 700; margin-bottom: 1rem; letter-spacing: -0.02em;">
+        Warum diese Seite existiert
+      </h2>
+      <p class="mb-3">
+        Wenn wir sagen "Bumble verdient 4.0 von 5 Sternen" oder "MichVerlieben ist unser Testsieger 2026", dann
+        steckt dahinter eine reproduzierbare Methode — nicht ein Bauchgefühl. Diese Seite dokumentiert, wie wir
+        Dating-Plattformen testen, wie wir Fake-Profile erkennen, welche Kriterien wie stark ins Rating einfließen
+        und wo unsere Einnahmen herkommen.
+      </p>
+      <p>
+        Wenn du Empfehlungen folgst, die hier auf Herzblatt Journal stehen, sollst du wissen: Wir haben die App
+        selbst ausprobiert, in mehreren Städten, über mindestens vier Wochen, mit echten Profilen. Wir sind nicht
+        nur Affiliate-Seite, die Texte recycelt.
+      </p>
+    </section>
+
+    <section class="mb-10">
+      <h2 style="font-family: var(--font-serif); font-size: 1.6rem; font-weight: 700; margin-bottom: 1rem; letter-spacing: -0.02em;">
+        Die 6 Bewertungs-Kriterien
+      </h2>
+      <p class="mb-5">
+        Jede Dating-App wird in sechs Dimensionen bewertet. Das Endrating (1.0 – 5.0 Sterne) ist der gewichtete
+        Durchschnitt aus diesen sechs Sub-Scores:
+      </p>
+
+      <ol style="display: flex; flex-direction: column; gap: 1rem; list-style: none; padding: 0; margin: 0; counter-reset: crit;">
+        <li style="background: var(--bg-soft); border: 1px solid var(--border); border-left: 3px solid var(--color-primary-500); border-radius: 10px; padding: 1rem 1.2rem; counter-increment: crit;">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; margin-bottom: 0.35rem;">
+            <span style="font-family: var(--font-serif); font-size: 1.6rem; font-weight: 800; color: var(--color-primary-500); line-height: 1;">
+              <span style="font-variant-numeric: tabular-nums;">01</span>
+            </span>
+            <h3 style="font-size: 1.05rem; font-weight: 700; margin: 0;">Profilqualität & Verifikation (20 %)</h3>
+          </div>
+          <p style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.55; margin: 0;">
+            Wie streng ist die Anmeldung? Gibt es Selfie-Video-Verifikation, Telefonnummer-Check, Foto-Moderation?
+            Wir zählen Fake-Profil-Signale in einer Standard-Stichprobe von 50 Profilen pro Stadt.
+          </p>
+        </li>
+        <li style="background: var(--bg-soft); border: 1px solid var(--border); border-left: 3px solid var(--color-primary-500); border-radius: 10px; padding: 1rem 1.2rem; counter-increment: crit;">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; margin-bottom: 0.35rem;">
+            <span style="font-family: var(--font-serif); font-size: 1.6rem; font-weight: 800; color: var(--color-primary-500); line-height: 1;">02</span>
+            <h3 style="font-size: 1.05rem; font-weight: 700; margin: 0;">Match-Qualität & Aktivität (20 %)</h3>
+          </div>
+          <p style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.55; margin: 0;">
+            Wir legen zwei echte Testprofile an (je ein männliches und ein weibliches, Altersgruppen 25–30 und
+            40–45) in drei Städten (Großstadt, Mittelstadt, Kleinstadt). Gemessen werden: Matches pro Tag,
+            Nachrichten-Antwort-Rate, Zeit bis zum ersten Date-Vorschlag.
+          </p>
+        </li>
+        <li style="background: var(--bg-soft); border: 1px solid var(--border); border-left: 3px solid var(--color-primary-500); border-radius: 10px; padding: 1rem 1.2rem; counter-increment: crit;">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; margin-bottom: 0.35rem;">
+            <span style="font-family: var(--font-serif); font-size: 1.6rem; font-weight: 800; color: var(--color-primary-500); line-height: 1;">03</span>
+            <h3 style="font-size: 1.05rem; font-weight: 700; margin: 0;">Kosten & Preis-Transparenz (15 %)</h3>
+          </div>
+          <p style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.55; margin: 0;">
+            Bewertet werden Monats-, 3-Monats- und Jahresabo in Euro, ob iOS teurer ist als Android, ob Auto-
+            Renewal standardmäßig aktiv ist, und ob der Kündigungsprozess verbraucherfreundlich ist. Versteckte
+            Credit- oder Boost-Kosten zählen negativ.
+          </p>
+        </li>
+        <li style="background: var(--bg-soft); border: 1px solid var(--border); border-left: 3px solid var(--color-primary-500); border-radius: 10px; padding: 1rem 1.2rem; counter-increment: crit;">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; margin-bottom: 0.35rem;">
+            <span style="font-family: var(--font-serif); font-size: 1.6rem; font-weight: 800; color: var(--color-primary-500); line-height: 1;">04</span>
+            <h3 style="font-size: 1.05rem; font-weight: 700; margin: 0;">Sicherheit & Moderation (15 %)</h3>
+          </div>
+          <p style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.55; margin: 0;">
+            Wir melden gezielt drei Standard-Testfälle pro Plattform: unangemessene Nachricht, Fake-Profil,
+            Dickpic. Gemessen werden: Reaktionszeit des Supports, ob das Profil gesperrt wird, ob automatische
+            Filter greifen. Plus: Wie gut ist Datenschutz, gibt es HTTPS überall, wie ist die DSGVO-Anfrage-Bearbeitung.
+          </p>
+        </li>
+        <li style="background: var(--bg-soft); border: 1px solid var(--border); border-left: 3px solid var(--color-primary-500); border-radius: 10px; padding: 1rem 1.2rem; counter-increment: crit;">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; margin-bottom: 0.35rem;">
+            <span style="font-family: var(--font-serif); font-size: 1.6rem; font-weight: 800; color: var(--color-primary-500); line-height: 1;">05</span>
+            <h3 style="font-size: 1.05rem; font-weight: 700; margin: 0;">User Experience & Performance (15 %)</h3>
+          </div>
+          <p style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.55; margin: 0;">
+            App-Startzeit, Crash-Häufigkeit im Test-Zeitraum, UX-Klarheit (Anmeldung in ≤5 Minuten?), Accessibility-
+            Basics (Kontrast, Screenreader), Mobile vs Desktop-Parität.
+          </p>
+        </li>
+        <li style="background: var(--bg-soft); border: 1px solid var(--border); border-left: 3px solid var(--color-primary-500); border-radius: 10px; padding: 1rem 1.2rem; counter-increment: crit;">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; margin-bottom: 0.35rem;">
+            <span style="font-family: var(--font-serif); font-size: 1.6rem; font-weight: 800; color: var(--color-primary-500); line-height: 1;">06</span>
+            <h3 style="font-size: 1.05rem; font-weight: 700; margin: 0;">Zielgruppen-Fit & USP (15 %)</h3>
+          </div>
+          <p style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.55; margin: 0;">
+            Ist die App für Frauen genauso nutzbar wie für Männer? Bildet sie ihre beworbene Zielgruppe (z. B.
+            Akademiker, Ü50, LGBTQ+, Alleinerziehende) wirklich ab? Wie klar kommuniziert sie ihre USP vs Wettbewerb?
+          </p>
+        </li>
+      </ol>
+    </section>
+
+    <section class="mb-10">
+      <h2 style="font-family: var(--font-serif); font-size: 1.6rem; font-weight: 700; margin-bottom: 1rem; letter-spacing: -0.02em;">
+        Unsere Testprofile
+      </h2>
+      <p class="mb-3">
+        Für jede Plattform legen wir mindestens zwei echte Testprofile an, die über vier Wochen genutzt werden.
+        Die Profile verwenden lizensierte Stock-Fotos (keine AI-Bilder), realistische Bios und neutrale
+        Präferenzen. Gespräche werden echt geführt — wir ghosten niemanden und geben keine falschen Versprechen.
+      </p>
+      <p class="mb-3">
+        <strong>Beispiel-Setup für einen Dating-App-Test:</strong>
+      </p>
+      <ul style="padding-left: 1.2rem; line-height: 1.7; color: var(--text-muted);">
+        <li>Profil 1: Frau, 29, Berlin, Akademikerin, sucht langfristig</li>
+        <li>Profil 2: Mann, 34, Köln, freier Beruf, offen für Beziehung und Freundschaft</li>
+        <li>Profil 3 (optional): Person, 48, Mittelstadt DACH, sucht ernsthafte Partnerschaft</li>
+      </ul>
+      <p class="mt-3">
+        Wir führen ein Test-Tagebuch mit Screenshots, Zeitstempeln und Anzahl erhaltener Nachrichten. Nach
+        Testende werden die Profile gelöscht und (falls möglich) aktive Abos gekündigt — die Kündigungs-
+        erfahrung fließt ebenfalls in den Test ein.
+      </p>
+    </section>
+
+    <section class="mb-10">
+      <h2 style="font-family: var(--font-serif); font-size: 1.6rem; font-weight: 700; margin-bottom: 1rem; letter-spacing: -0.02em;">
+        Wer testet
+      </h2>
+      <p class="mb-3">
+        Bei Herzblatt Journal schreibt jede:r Autor:in unter Klarnamen und mit Fachhintergrund. Die Team-
+        Bios findest du unter <a href="/autoren" style="color: var(--color-primary-600); font-weight: 600;">Autoren</a>.
+        Kurz-Übersicht:
+      </p>
+      <ul style="padding-left: 1.2rem; line-height: 1.8; color: var(--text);">
+        <li><strong>Sarah Kellner</strong> — Gründerin, Psychologin (M.Sc. Uni Hamburg), Schwerpunkt Bindungs- und Trauma-Themen</li>
+        <li><strong>Markus Hoffmann</strong> — Dating-Coach (DBVC-zertifiziert), Schwerpunkt Online-Dating-Psychologie</li>
+        <li><strong>Dr. Thomas Peters</strong> — Sozialpsychologe, Schwerpunkt Altersgruppen und Scam-Psychologie</li>
+        <li><strong>Laura Weber</strong> — Lifestyle-Journalistin, Schwerpunkt LGBTQ+ und moderne Beziehungsformen</li>
+      </ul>
+    </section>
+
+    <section class="mb-10">
+      <h2 style="font-family: var(--font-serif); font-size: 1.6rem; font-weight: 700; margin-bottom: 1rem; letter-spacing: -0.02em;">
+        Offenlegung: Affiliate-Links und Einnahmen
+      </h2>
+      <div style="background: var(--color-primary-50, rgba(244,63,94,0.06)); border: 1px solid var(--color-primary-200, rgba(244,63,94,0.2)); border-radius: 10px; padding: 1rem 1.2rem;">
+        <p class="mb-3" style="font-size: 0.95rem;">
+          Einige Links auf Herzblatt Journal sind <strong>Affiliate-Links</strong>. Wenn du darüber eine App oder
+          Mitgliedschaft buchst, bekommen wir eine Provision — für dich entstehen keine zusätzlichen Kosten.
+        </p>
+        <p class="mb-3" style="font-size: 0.95rem;">
+          <strong>Was unsere Tests NICHT beeinflusst:</strong> Kein Partner hat Einfluss auf das finale Rating.
+          Niemand kann "sich besser bewerten lassen". Ratings und Rankings entstehen ausschließlich aus dem oben
+          beschriebenen Scoring-Modell.
+        </p>
+        <p style="font-size: 0.95rem; margin: 0;">
+          <strong>Was die Links beeinflusst:</strong> Bei mehreren gleichwertigen Plattformen empfehlen wir jene,
+          die eine Partnerschaft mit uns haben — weil wir den gesamten Service dadurch finanzieren. Du findest
+          alle getesteten Plattformen (inkl. solcher ohne Partnerschaft) in unseren Vergleichs-Artikeln.
+        </p>
+      </div>
+    </section>
+
+    <section class="mb-10">
+      <h2 style="font-family: var(--font-serif); font-size: 1.6rem; font-weight: 700; margin-bottom: 1rem; letter-spacing: -0.02em;">
+        Aktualisierung
+      </h2>
+      <p>
+        Jeder Test-Artikel wird mindestens einmal pro Jahr aktualisiert. Preise, Features und Zielgruppen
+        ändern sich im Dating-App-Markt schnell — wir passen entsprechend an. Das Datum der letzten
+        Aktualisierung findest du oben in jedem Artikel.
+      </p>
+    </section>
+
+    <section class="mb-10 p-6 rounded-xl" style="background: linear-gradient(135deg, var(--color-primary-50, rgba(244,63,94,0.05)), var(--bg-soft));">
+      <h2 style="font-family: var(--font-serif); font-size: 1.3rem; font-weight: 700; margin-bottom: 0.6rem; letter-spacing: -0.01em;">
+        Feedback zu einer Bewertung?
+      </h2>
+      <p style="color: var(--text-muted); font-size: 0.95rem; margin: 0 0 0.8rem 0;">
+        Wenn du denkst, wir haben eine App zu hart oder zu gut bewertet — schreib uns. Wir re-testen gerne, wenn
+        plausible Einwände kommen. <a href="/kontakt" style="color: var(--color-primary-600); font-weight: 600;">Zum Kontakt-Formular →</a>
+      </p>
+    </section>
+  </main>
+</BaseLayout>
