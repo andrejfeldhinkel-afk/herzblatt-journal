@@ -298,4 +298,4 @@ Eine gute erste Anlaufstelle in Deutschland ist die **Psychotherapeutische Termi
 ---
 
 *Ende Kapitel 1.*
-*Wortanzahl: ~5.400 · Durchschnittliche Lesezeit: 22 Minuten · Arbeitszeit inklusive Übungen: 3-5 Stunden verteilt auf 2-3 Tage.*
+*Wortanzahl: ~3.450 · Durchschnittliche Lesezeit: 14 Minuten · Arbeitszeit inklusive Übungen: 3-5 Stunden verteilt auf 2-3 Tage.*
