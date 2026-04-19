@@ -76,11 +76,16 @@ app.post('/', async (c) => {
     try { data = await response.json(); }
     catch { data = { message: 'Upstream returned non-JSON' }; }
 
-    // Nur bei Erfolg lokal tracken — Fehler beim Tracking dürfen Response nicht blockieren
+    // Nur bei Erfolg lokal tracken — Fehler beim Tracking dürfen Response nicht blockieren.
+    // onConflictDoNothing: bei Duplikat-Email (UNIQUE-Index) keine neue Row,
+    // Response trotzdem ok. Verhindert aufgeblähte KPIs durch Doppel-Submits.
     if (response.ok) {
       try {
         const source = parsed.data.source || 'unknown';
-        await db.insert(schema.registrations).values({ email, source });
+        await db
+          .insert(schema.registrations)
+          .values({ email, source })
+          .onConflictDoNothing({ target: schema.registrations.email });
       } catch (err) {
         console.error('[register] tracking error (ignored):', err);
       }
