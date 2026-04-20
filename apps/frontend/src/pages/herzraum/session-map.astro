@@ -353,6 +353,169 @@ body[data-mode="story"] .story-container { display: block; }
 .sm-stage.story-dim .node.highlight { opacity: 1; filter: drop-shadow(0 0 10px currentColor); }
 .sm-stage.story-dim .edge { opacity: 0.08; }
 
+/* ═══════════════════════════════════════════════════════════════════════
+   FUTURE-MODE — Particle Flows, Radar Scanner, Timeline Scrubber
+   ═══════════════════════════════════════════════════════════════════════ */
+
+/* Canvas layer for particle flows (sits above SVG edges, below nodes) */
+.sm-particles {
+  position: absolute; inset: 0; width: 100%; height: 100%;
+  pointer-events: none; z-index: 2;
+  mix-blend-mode: screen;
+}
+
+/* Radar sweep — conic gradient rotating around main agent */
+.sm-radar {
+  position: absolute; left: 50%; top: 50%; width: 1200px; height: 1200px;
+  transform: translate(-50%, -50%);
+  border-radius: 50%; pointer-events: none; z-index: 1;
+  background: conic-gradient(from 0deg,
+    transparent 0deg,
+    transparent 320deg,
+    rgba(255,56,104,.18) 348deg,
+    rgba(255,56,104,.38) 358deg,
+    rgba(255,56,104,.1) 360deg,
+    transparent 360deg);
+  animation: radarSweep 7s linear infinite;
+  opacity: 0; transition: opacity .4s;
+  mask: radial-gradient(circle, black 0%, black 40%, transparent 52%);
+  -webkit-mask: radial-gradient(circle, black 0%, black 40%, transparent 52%);
+}
+body[data-mode="map"] .sm-radar { opacity: 1; }
+@keyframes radarSweep { from { transform: translate(-50%, -50%) rotate(0deg); }
+                        to   { transform: translate(-50%, -50%) rotate(360deg); } }
+
+/* Radar ping on node when sweep passes */
+.node.radar-ping .circle {
+  animation: radarPing 1.2s ease-out;
+}
+@keyframes radarPing {
+  0%   { box-shadow: 0 0 0 0 currentColor, 0 0 8px currentColor; }
+  40%  { box-shadow: 0 0 28px 10px rgba(255,56,104,.45), 0 0 60px 20px rgba(255,56,104,.18); }
+  100% { box-shadow: 0 0 8px currentColor; }
+}
+
+/* Timeline Scrubber — bottom panel for replay */
+.sm-scrubber {
+  position: fixed; bottom: 0; left: 0; right: 0; height: 84px; z-index: 25;
+  padding: 14px 24px 16px;
+  background: linear-gradient(180deg, transparent 0%, rgba(4,4,12,.85) 40%, rgba(4,4,12,.95) 100%);
+  backdrop-filter: blur(20px) saturate(140%);
+  -webkit-backdrop-filter: blur(20px) saturate(140%);
+  border-top: 1px solid rgba(255,255,255,.08);
+  display: flex; flex-direction: column; gap: 8px;
+}
+body[data-mode="story"] .sm-scrubber,
+body[data-mode="live"] .sm-scrubber { display: none; }
+
+.scrubber-head {
+  display: flex; align-items: center; gap: 14px;
+  font-size: 10.5px; color: var(--muted-2);
+  letter-spacing: .08em; text-transform: uppercase; font-weight: 600;
+}
+.scrubber-head .sc-label { color: var(--rose); font-weight: 700; letter-spacing: .16em; }
+.scrubber-head .sc-time {
+  font-family: 'SF Mono', ui-monospace, Menlo, monospace;
+  color: var(--cyan); font-size: 12px;
+  text-shadow: 0 0 8px rgba(34,211,238,.5);
+  font-variant-numeric: tabular-nums; letter-spacing: .03em;
+}
+.scrubber-head .sc-count { color: var(--fg); font-variant-numeric: tabular-nums; }
+
+.sc-play {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 4px 12px; font-size: 10.5px; font-weight: 700;
+  color: var(--fg); background: rgba(255,56,104,.22);
+  border: 1px solid rgba(255,56,104,.4);
+  border-radius: 6px; cursor: pointer;
+  transition: all .15s; text-transform: uppercase; letter-spacing: .1em;
+}
+.sc-play:hover { background: rgba(255,56,104,.38); transform: translateY(-1px); }
+.sc-play:active { transform: translateY(0); }
+.sc-play .sc-play-icon { display: inline-block; width: 0; height: 0;
+  border-left: 7px solid var(--fg); border-top: 4px solid transparent;
+  border-bottom: 4px solid transparent; margin-left: 1px; }
+.sc-play.playing .sc-play-icon {
+  width: 8px; height: 9px; border: 0;
+  border-left: 2.5px solid var(--fg); border-right: 2.5px solid var(--fg);
+  margin-left: 0; background: transparent;
+}
+
+/* Range track */
+.sc-track {
+  position: relative; height: 28px; display: flex; align-items: center;
+}
+.sc-ticks {
+  position: absolute; inset: 0; pointer-events: none;
+  display: flex; justify-content: space-between; padding: 0 0;
+}
+.sc-tick {
+  position: relative; height: 100%; width: 1px;
+  background: rgba(255,255,255,.1);
+}
+.sc-tick span {
+  position: absolute; top: -2px; left: 4px; font-size: 9px;
+  color: var(--muted); font-family: 'SF Mono', ui-monospace, monospace;
+  letter-spacing: .05em; white-space: nowrap;
+}
+.sc-range {
+  -webkit-appearance: none; appearance: none;
+  width: 100%; height: 4px;
+  background: linear-gradient(90deg,
+    var(--rose) 0%, var(--rose) var(--fill, 0%),
+    rgba(255,255,255,.08) var(--fill, 0%), rgba(255,255,255,.08) 100%);
+  border-radius: 4px; outline: none; cursor: pointer;
+  position: relative; z-index: 2;
+}
+.sc-range::-webkit-slider-thumb {
+  -webkit-appearance: none; appearance: none;
+  width: 18px; height: 18px; border-radius: 50%;
+  background: radial-gradient(circle at 35% 35%, #ff6b8a, var(--rose) 60%, var(--magenta));
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 2px rgba(255,56,104,.3), 0 0 16px rgba(255,56,104,.6);
+  cursor: grab;
+}
+.sc-range::-webkit-slider-thumb:active { cursor: grabbing; transform: scale(1.1); }
+.sc-range::-moz-range-thumb {
+  width: 18px; height: 18px; border-radius: 50%;
+  background: radial-gradient(circle at 35% 35%, #ff6b8a, var(--rose) 60%, var(--magenta));
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 2px rgba(255,56,104,.3), 0 0 16px rgba(255,56,104,.6);
+  cursor: grab;
+}
+
+/* Event-Markers auf der Timeline (CRITICAL PRs) */
+.sc-markers {
+  position: absolute; inset: 0; pointer-events: none;
+  display: flex; align-items: center;
+}
+.sc-marker {
+  position: absolute; width: 2px; height: 14px; background: var(--rose);
+  border-radius: 1px; box-shadow: 0 0 6px var(--rose); top: 50%;
+  transform: translateY(-50%);
+}
+.sc-marker.critical { background: #fff; box-shadow: 0 0 10px #fff, 0 0 20px var(--rose); height: 18px; }
+
+/* Time-Hidden state for nodes/edges (Scrubber replay) */
+.node.time-hidden { opacity: 0; transform: translate(-50%, -50%) scale(0.3); pointer-events: none; }
+.node { transition: opacity .25s ease, transform .3s cubic-bezier(.2,.8,.2,1); }
+.edge.time-hidden { opacity: 0; }
+
+/* Node "just-appeared" pulse */
+.node.just-born .circle {
+  animation: justBorn 1s ease-out;
+}
+@keyframes justBorn {
+  0%   { transform: scale(0.2); box-shadow: 0 0 0 0 currentColor; }
+  60%  { transform: scale(1.3); box-shadow: 0 0 24px 8px currentColor; }
+  100% { transform: scale(1); }
+}
+
+/* Scrubber hidden on small screens (too tight) */
+@media (max-width: 700px) {
+  .sm-scrubber { display: none; }
+}
+
 </style>
 
 <div class="stars"></div>
@@ -480,10 +643,32 @@ body[data-mode="story"] .story-container { display: block; }
 </aside>
 
 <div class="sm-stage">
+  <div class="sm-radar" aria-hidden="true"></div>
   <svg class="sm-svg" id="edges" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid meet"></svg>
+  <canvas class="sm-particles" id="particles" aria-hidden="true"></canvas>
 </div>
 
 <div id="tooltip"></div>
+
+<!-- Timeline-Scrubber (Map-Mode only) — Replay der 6h-Session -->
+<aside class="sm-scrubber" id="scrubber">
+  <div class="scrubber-head">
+    <span class="sc-label">Session Timeline</span>
+    <button class="sc-play" id="scPlay" aria-label="Abspielen">
+      <span class="sc-play-icon"></span>
+      <span id="scPlayLabel">Replay</span>
+    </button>
+    <span class="sc-time" id="scTime">12:00</span>
+    <span>·</span>
+    <span><span class="sc-count" id="scVisible">0</span> / <span id="scTotal">0</span> Nodes</span>
+    <span style="margin-left:auto; font-size:10px; color:var(--muted);">Drag Slider oder Play drücken</span>
+  </div>
+  <div class="sc-track">
+    <div class="sc-ticks" id="scTicks"></div>
+    <div class="sc-markers" id="scMarkers"></div>
+    <input type="range" class="sc-range" id="scRange" min="0" max="480" value="480" step="1" aria-label="Zeitpunkt wählen">
+  </div>
+</aside>
 
 <script is:inline>
 // ─── Node-Daten (fixe Positionen, viewBox 1600×900) ──────────────────────
@@ -845,5 +1030,295 @@ function tickVitals() {
 }
 tickVitals();
 setInterval(tickVitals, 1000);
+
+// ═══════════════════════════════════════════════════════════════════════
+// FUTURE-MODE — Node-Timestamps, Radar-Ping, Particle-Flows, Scrubber
+// ═══════════════════════════════════════════════════════════════════════
+
+// Minuten seit Session-Start (12:00 = 0, 20:00 = 480) — für Scrubber-Replay
+const NODE_TIMES = {
+  // Coordinator (always from start)
+  main: 0,
+  // Audit-Agents (12:00–14:30 Phase 1)
+  'a-p1': 2, 'a-p2': 8, 'a-p5': 18, 'a-cr': 35, 'a-sec': 50, 'a-ui': 80,
+  // Writers (spanning session)
+  'a-ebook': 60, 'a-bonus': 180, 'a-delivery': 300, 'a-adminlive': 305,
+  'a-traffic': 390, 'a-hijack': 450,
+  // Fixer Wave (15:30 – 17:00)
+  'f-p4': 210, 'f-xss': 225, 'f-ux': 240, 'f-admin': 305,
+  // Infra
+  railway: 0, chrome: 60,
+  // PRs — aus LOG_EVENTS Zeitstempeln (12:00 = 0)
+  pr11: 0, pr12: 30, pr13: 45, pr14: 60, pr15: 75, pr16: 90,
+  pr17: 200, pr18: 205, pr19: 210, pr20: 220,
+  pr21: 260, pr22: 270, pr23: 285, pr24: 290, pr25: 300,
+  pr26: 310, pr27: 320, pr28: 320, pr29: 340, pr30: 350,
+  pr31: 360, pr32: 360, pr33: 370,
+  pr37: 420, pr39: 435, pr40: 445, pr41: 450,
+  pr43: 467, pr45: 470, pr46: 480,
+};
+
+// Reverse-Lookup: für jeden NODE, die Zeit (Minuten seit 12:00)
+NODES.forEach(n => { n.t = NODE_TIMES[n.id] ?? 0; });
+
+// ─── Radar-Ping: Wenn Conic-Gradient-Sweep einen Node überstreicht ───
+(function setupRadarPing() {
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  const mainX = nodeMap.main.x, mainY = nodeMap.main.y;
+  // Conic-Gradient start = 0deg (oben), rotiert 360°/7s → 51.43°/s
+  // Sweep-Fenster: ~320deg bis ~360deg → ping beim Durchgang
+  const SWEEP_CENTER_DEG = 354; // etwa Mitte des Gradient-Keils
+  function nodeAngle(n) {
+    // SVG-viewBox-Koord → Winkel (0° = oben, CCW negativ, CW positiv)
+    const dx = n.x - mainX, dy = n.y - mainY;
+    const deg = (Math.atan2(dx, -dy) * 180 / Math.PI + 360) % 360;
+    return deg;
+  }
+  const nodesByAngle = NODES
+    .filter(n => n.id !== 'main')
+    .map(n => ({ n, angle: nodeAngle(n), el: null, lastPing: 0 }));
+  // Element-Refs zum Pingen einsammeln (nach Render)
+  document.querySelectorAll('.node').forEach((el, i) => {
+    const n = NODES[i];
+    const rec = nodesByAngle.find(r => r.n.id === n.id);
+    if (rec) rec.el = el;
+  });
+  const rotationStart = performance.now();
+  function radarLoop() {
+    if (document.body.dataset.mode !== 'map') {
+      requestAnimationFrame(radarLoop); return;
+    }
+    const elapsed = (performance.now() - rotationStart) / 1000;
+    const currentAngle = (elapsed * (360 / 7) + SWEEP_CENTER_DEG) % 360;
+    const now = performance.now();
+    nodesByAngle.forEach(rec => {
+      if (!rec.el) return;
+      if (rec.el.classList.contains('time-hidden')) return;
+      const diff = Math.min(Math.abs(currentAngle - rec.angle), 360 - Math.abs(currentAngle - rec.angle));
+      if (diff < 4 && (now - rec.lastPing) > 3000) {
+        rec.el.classList.add('radar-ping');
+        rec.lastPing = now;
+        setTimeout(() => rec.el && rec.el.classList.remove('radar-ping'), 1200);
+      }
+    });
+    requestAnimationFrame(radarLoop);
+  }
+  requestAnimationFrame(radarLoop);
+})();
+
+// ─── Particle-Flows: Canvas-Partikel wandern Main → PR/Agent ───────
+(function setupParticles() {
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  const canvas = document.getElementById('particles');
+  if (!canvas) return;
+  const ctx = canvas.getContext('2d');
+  let W = 0, H = 0, vbScaleX = 1, vbScaleY = 1;
+  function resize() {
+    const rect = canvas.parentElement.getBoundingClientRect();
+    const dpr = window.devicePixelRatio || 1;
+    W = rect.width; H = rect.height;
+    canvas.width = W * dpr; canvas.height = H * dpr;
+    canvas.style.width = W + 'px'; canvas.style.height = H + 'px';
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    // SVG viewBox ist 1600×900, aspect-preserving = xMidYMid meet
+    const scale = Math.min(W / 1600, H / 900);
+    vbScaleX = vbScaleY = scale;
+  }
+  resize();
+  window.addEventListener('resize', resize);
+
+  // viewBox → screen coordinates
+  function vb(vx, vy) {
+    const offX = (W - 1600 * vbScaleX) / 2;
+    const offY = (H - 900 * vbScaleY) / 2;
+    return [offX + vx * vbScaleX, offY + vy * vbScaleY];
+  }
+
+  const particles = [];
+  // Mögliche Ziele = alle Edges von main
+  const targets = EDGES.filter(e => e.s === 'main').map(e => e.t);
+
+  function spawnParticle() {
+    if (document.body.dataset.mode !== 'map') return;
+    const tid = targets[(Math.random() * targets.length) | 0];
+    const target = nodeMap[tid];
+    if (!target) return;
+    // Nur wenn Target derzeit sichtbar (nicht zeit-versteckt)
+    const el = document.querySelector(`.node[data-id="${tid}"]`);
+    if (el && el.classList.contains('time-hidden')) return;
+    const toPR = target.type === 'artifact';
+    particles.push({
+      from: nodeMap.main, to: target,
+      p: 0, speed: 0.008 + Math.random() * 0.01,
+      size: toPR ? 2.2 : 2.8,
+      color: toPR ? [34, 197, 94] : [255, 56, 104], // green back from PR, rose out to agent
+      reverse: toPR, // PRs "return" zum coordinator
+    });
+  }
+  setInterval(spawnParticle, 140);
+
+  function draw() {
+    ctx.clearRect(0, 0, W, H);
+    for (let i = particles.length - 1; i >= 0; i--) {
+      const p = particles[i];
+      p.p += p.speed;
+      if (p.p >= 1) { particles.splice(i, 1); continue; }
+      const progress = p.reverse ? 1 - p.p : p.p;
+      const x = p.from.x + (p.to.x - p.from.x) * progress;
+      const y = p.from.y + (p.to.y - p.from.y) * progress;
+      const [sx, sy] = vb(x, y);
+      // Fade-in/out + trail
+      const fade = Math.sin(p.p * Math.PI);
+      const [r, g, b] = p.color;
+      // Trail
+      for (let k = 0; k < 5; k++) {
+        const backP = Math.max(0, p.p - k * 0.008);
+        const prog2 = p.reverse ? 1 - backP : backP;
+        const tx = p.from.x + (p.to.x - p.from.x) * prog2;
+        const ty = p.from.y + (p.to.y - p.from.y) * prog2;
+        const [tsx, tsy] = vb(tx, ty);
+        const a = fade * (0.5 - k * 0.1);
+        if (a <= 0) continue;
+        ctx.fillStyle = `rgba(${r},${g},${b},${a})`;
+        ctx.beginPath();
+        ctx.arc(tsx, tsy, p.size * (1 - k * 0.15), 0, Math.PI * 2);
+        ctx.fill();
+      }
+      // Core
+      ctx.fillStyle = `rgba(${r},${g},${b},${fade})`;
+      ctx.shadowColor = `rgba(${r},${g},${b},${fade})`;
+      ctx.shadowBlur = 10;
+      ctx.beginPath();
+      ctx.arc(sx, sy, p.size, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.shadowBlur = 0;
+    }
+    requestAnimationFrame(draw);
+  }
+  requestAnimationFrame(draw);
+})();
+
+// ─── Scrubber: data-id auf Nodes für Selector, + Replay-Logik ───────
+document.querySelectorAll('.node').forEach((el, i) => {
+  const n = NODES[i];
+  el.setAttribute('data-id', n.id);
+  el.setAttribute('data-t', String(n.t));
+});
+
+(function setupScrubber() {
+  const range = document.getElementById('scRange');
+  const timeLbl = document.getElementById('scTime');
+  const visLbl = document.getElementById('scVisible');
+  const totalLbl = document.getElementById('scTotal');
+  const playBtn = document.getElementById('scPlay');
+  const playLbl = document.getElementById('scPlayLabel');
+  const ticksEl = document.getElementById('scTicks');
+  const markersEl = document.getElementById('scMarkers');
+  if (!range) return;
+
+  totalLbl.textContent = String(NODES.length);
+
+  // Render Tick-Labels (jede volle Stunde: 12, 13, …, 20)
+  for (let h = 12; h <= 20; h++) {
+    const tick = document.createElement('div');
+    tick.className = 'sc-tick';
+    tick.style.position = 'absolute';
+    tick.style.left = ((h - 12) * 60 / 480 * 100) + '%';
+    tick.innerHTML = `<span>${h}:00</span>`;
+    ticksEl.appendChild(tick);
+  }
+
+  // Critical-Event-Marker auf der Timeline (aus IMPACT + Node-Times)
+  const criticalIds = ['pr17', 'pr18', 'pr19', 'pr20', 'pr30'];
+  criticalIds.forEach(id => {
+    const t = NODE_TIMES[id];
+    if (t == null) return;
+    const m = document.createElement('div');
+    m.className = 'sc-marker critical';
+    m.style.left = (t / 480 * 100) + '%';
+    m.title = 'CRITICAL ' + id.toUpperCase();
+    markersEl.appendChild(m);
+  });
+
+  // Collect node refs by id for fast lookup
+  const nodeEls = {};
+  document.querySelectorAll('.node').forEach((el, i) => { nodeEls[NODES[i].id] = el; });
+  const edgeEls = Array.from(document.querySelectorAll('.edge'));
+  // EDGES array index mirrors edgeEls
+  function applyTime(tMinutes) {
+    let visible = 0;
+    NODES.forEach(n => {
+      const el = nodeEls[n.id];
+      if (!el) return;
+      const wasHidden = el.classList.contains('time-hidden');
+      if (n.t > tMinutes) {
+        el.classList.add('time-hidden');
+      } else {
+        if (wasHidden) {
+          el.classList.remove('time-hidden');
+          el.classList.add('just-born');
+          setTimeout(() => el.classList.remove('just-born'), 1000);
+        }
+        visible++;
+      }
+    });
+    // Edges: hide if either endpoint hidden
+    EDGES.forEach((e, i) => {
+      const eEl = edgeEls[i]; if (!eEl) return;
+      const tS = (nodeMap[e.s] && nodeMap[e.s].t) || 0;
+      const tT = (nodeMap[e.t] && nodeMap[e.t].t) || 0;
+      if (Math.max(tS, tT) > tMinutes) eEl.classList.add('time-hidden');
+      else eEl.classList.remove('time-hidden');
+    });
+    // Label-Update
+    const h = Math.floor(tMinutes / 60) + 12;
+    const m = String(tMinutes % 60).padStart(2, '0');
+    timeLbl.textContent = `${h}:${m}`;
+    visLbl.textContent = String(visible);
+    range.style.setProperty('--fill', (tMinutes / 480 * 100) + '%');
+  }
+
+  range.addEventListener('input', (e) => {
+    stopPlayback();
+    applyTime(+e.target.value);
+  });
+
+  // Play/Pause: animiere Slider von 0 → 480 über 30s
+  let playing = false, playStart = 0, startValue = 0, rafId = 0;
+  const PLAY_DURATION_MS = 30000;
+  function playFrame() {
+    if (!playing) return;
+    const elapsed = performance.now() - playStart;
+    const fraction = Math.min(1, elapsed / PLAY_DURATION_MS);
+    const tMin = Math.round(startValue + (480 - startValue) * fraction);
+    range.value = String(tMin);
+    applyTime(tMin);
+    if (fraction < 1) rafId = requestAnimationFrame(playFrame);
+    else stopPlayback();
+  }
+  function startPlayback() {
+    playing = true;
+    startValue = +range.value >= 480 ? 0 : +range.value;
+    range.value = String(startValue);
+    applyTime(startValue);
+    playStart = performance.now();
+    playBtn.classList.add('playing');
+    playLbl.textContent = 'Pause';
+    rafId = requestAnimationFrame(playFrame);
+  }
+  function stopPlayback() {
+    playing = false;
+    cancelAnimationFrame(rafId);
+    playBtn.classList.remove('playing');
+    playLbl.textContent = 'Replay';
+  }
+  playBtn.addEventListener('click', () => {
+    if (playing) stopPlayback();
+    else startPlayback();
+  });
+
+  // Initial: alles sichtbar (Slider auf Max)
+  applyTime(480);
+})();
 </script>
 </HerzraumLayout>
