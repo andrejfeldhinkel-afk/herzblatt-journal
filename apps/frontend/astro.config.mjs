@@ -364,12 +364,11 @@ export default defineConfig({
       rollupOptions: {
         output: {
           manualChunks(id) {
-            if (id.includes('node_modules')) {
-              // Keep astro core in its own chunk (loaded on most pages)
-              if (id.includes('astro/dist/runtime') || id.includes('astro/dist/core')) {
-                return 'astro-runtime';
-              }
-              // Tailwind 4 runtime (small) bundled with main
+            // Split vendor only — splitting 'astro/dist' into a separate
+            // chunk caused a circular SSR init (astro-runtime ↔ vendor) and
+            // crashed the server build with "Cannot access 'ASTRO_VERSION'
+            // before initialization" in Astro 5.18+.
+            if (id.includes('node_modules') && !id.includes('astro/dist')) {
               return 'vendor';
             }
           },
