@@ -9,7 +9,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
       <div>
         <h2 style="margin: 0 0 0.35rem 0; font-size: 1.5rem; font-weight: 700;">🔗 Kampagnen-Links</h2>
         <p style="color: var(--hz-text-muted, #94a3b8); font-size: 0.9rem; margin: 0; max-width: 58rem;">
-          Erstelle getrackte Links für deine Social-Media-Posts. Beispiel: Slug <code style="background: rgba(255,255,255,0.06); padding: 0.1rem 0.35rem; border-radius: 3px;">tiktok</code> → <code style="background: rgba(255,255,255,0.06); padding: 0.1rem 0.35rem; border-radius: 3px;">herzblatt-journal.com/go/tiktok</code>. Postest du auf TikTok, landen User auf deiner Startseite — und du siehst wie viele Klicks, woher sie kommen und welcher Post bringt.
+          Erstelle getrackte Links für deine Social-Media-Posts. Beispiel: Slug <code style="background: rgba(15,23,42,0.06); padding: 0.1rem 0.35rem; border-radius: 3px;">tiktok</code> → <code style="background: rgba(15,23,42,0.06); padding: 0.1rem 0.35rem; border-radius: 3px;">herzblatt-journal.com/go/tiktok</code>. Postest du auf TikTok, landen User auf deiner Startseite — und du siehst wie viele Klicks, woher sie kommen und welcher Post bringt.
         </p>
       </div>
       <button id="btn-new" style="background: linear-gradient(135deg, #f43f5e, #e11d48); color: white; border: none; padding: 0.65rem 1.2rem; border-radius: 8px; font-weight: 600; font-size: 0.9rem; cursor: pointer; white-space: nowrap;">
@@ -39,7 +39,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         <label style="display: block; font-size: 0.8rem; font-weight: 600; margin-bottom: 0.35rem; color: var(--hz-text-muted);">Ziel-URL <span style="opacity: 0.6; font-weight: 400;">(optional — leer lassen für Kampagnen-Modus)</span></label>
         <input id="f-target" type="url" placeholder="Leer = User landet auf deiner Startseite mit UTM-Tracking" style="width: 100%; padding: 0.55rem 0.75rem; border-radius: 6px; background: var(--hz-bg, #0f0f14); border: 1px solid var(--hz-border, #2a2a3a); color: var(--hz-text, #f8fafc); font-size: 0.9rem; font-family: monospace;" />
         <p style="font-size: 0.75rem; color: var(--hz-text-muted, #94a3b8); margin: 0.4rem 0 0 0; line-height: 1.5;">
-          <strong style="color: #fbbf24;">Kampagnen-Modus:</strong> Feld leer lassen. User landet auf <code style="background: rgba(255,255,255,0.06); padding: 0.05rem 0.25rem; border-radius: 3px;">herzblatt-journal.com/?utm_source=&lt;slug&gt;</code>. Für TikTok-/Insta-Bios.<br />
+          <strong style="color: #fbbf24;">Kampagnen-Modus:</strong> Feld leer lassen. User landet auf <code style="background: rgba(15,23,42,0.06); padding: 0.05rem 0.25rem; border-radius: 3px;">herzblatt-journal.com/?utm_source=&lt;slug&gt;</code>. Für TikTok-/Insta-Bios.<br />
           <strong style="color: #22c55e;">Affiliate-Modus:</strong> Externe URL eintragen (Amazon, Parship etc.). Redirect zur angegebenen Adresse.
         </p>
       </div>
@@ -284,9 +284,9 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
               </div>
             </div>
 
-            <div style="display: grid; grid-template-columns: 1fr auto; gap: 0.5rem; align-items: center; padding: 0.55rem 0.75rem; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.06); border-radius: 6px; margin-bottom: 0.75rem;">
+            <div style="display: grid; grid-template-columns: 1fr auto; gap: 0.5rem; align-items: center; padding: 0.55rem 0.75rem; background: rgba(15,23,42,0.04); border: 1px solid rgba(15,23,42,0.06); border-radius: 6px; margin-bottom: 0.75rem;">
               <code style="font-size: 0.82rem; color: #fbbf24; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-family: monospace;">${esc(short)}</code>
-              <button class="btn-copy" data-slug="${esc(link.slug)}" style="background: rgba(255,255,255,0.08); color: var(--hz-text, #f8fafc); border: 1px solid rgba(255,255,255,0.12); padding: 0.3rem 0.75rem; border-radius: 5px; font-size: 0.75rem; font-weight: 600; cursor: pointer; white-space: nowrap;">📋 Kopieren</button>
+              <button class="btn-copy" data-slug="${esc(link.slug)}" style="background: rgba(15,23,42,0.08); color: var(--hz-text, #f8fafc); border: 1px solid rgba(15,23,42,0.12); padding: 0.3rem 0.75rem; border-radius: 5px; font-size: 0.75rem; font-weight: 600; cursor: pointer; white-space: nowrap;">📋 Kopieren</button>
             </div>
 
             <div style="display: flex; align-items: center; justify-content: space-between; gap: 0.75rem; flex-wrap: wrap;">

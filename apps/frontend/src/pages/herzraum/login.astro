@@ -17,7 +17,7 @@ if (cookieHeader.includes('hz_session=')) {
 }
 ---
 <!DOCTYPE html>
-<html lang="de" class="dark">
+<html lang="de">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -30,20 +30,20 @@ if (cookieHeader.includes('hz_session=')) {
     @font-face { font-family: 'DM Sans'; src: url('/fonts/dm-sans-latin.woff2') format('woff2'); font-display: swap; }
     @font-face { font-family: 'Playfair Display'; src: url('/fonts/playfair-latin.woff2') format('woff2'); font-display: swap; font-weight: 400 900; }
     :root {
-      --hz-bg: #0f0f13;
-      --hz-surface: #1a1a24;
-      --hz-border: #2a2a3a;
-      --hz-primary: #f43f5e;
-      --hz-primary-dark: #e11d48;
-      --hz-text: #e2e8f0;
-      --hz-text-muted: #94a3b8;
-      --hz-danger: #ef4444;
+      --hz-bg: #f7f8fb;
+      --hz-surface: #ffffff;
+      --hz-border: rgba(15,23,42,0.10);
+      --hz-primary: #e11d48;
+      --hz-primary-dark: #be123c;
+      --hz-text: #0f172a;
+      --hz-text-muted: #475569;
+      --hz-danger: #dc2626;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
     html, body { height: 100%; }
     body {
       font-family: 'DM Sans', system-ui, -apple-system, sans-serif;
-      background: radial-gradient(ellipse at top, #1a0e14 0%, var(--hz-bg) 60%);
+      background: radial-gradient(ellipse at top, rgba(225,29,72,0.08) 0%, var(--hz-bg) 60%);
       color: var(--hz-text);
       display: flex;
       align-items: center;
@@ -58,7 +58,7 @@ if (cookieHeader.includes('hz_session=')) {
       padding: 2.5rem 2rem;
       width: 100%;
       max-width: 400px;
-      box-shadow: 0 20px 60px rgba(244,63,94,0.08), 0 4px 12px rgba(0,0,0,0.25);
+      box-shadow: 0 20px 60px rgba(225,29,72,0.08), 0 4px 12px rgba(15,23,42,0.06);
     }
     .logo {
       display: flex;

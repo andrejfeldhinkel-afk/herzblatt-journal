@@ -12,7 +12,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
     @media (max-width: 900px) { .kl-hero { grid-template-columns: repeat(2, 1fr); } }
     .kl-kpi {
       position: relative; padding: 1.25rem 1.5rem;
-      background: linear-gradient(145deg, rgba(19,19,28,.9), rgba(15,15,22,.75));
+      background: linear-gradient(145deg, var(--hz-surface), var(--hz-bg-2));
       border: 1px solid var(--hz-border);
       border-radius: var(--hz-radius);
       overflow: hidden;
@@ -44,7 +44,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
     /* Segment tabs */
     .kl-segment {
       display: inline-flex; gap: 2px; padding: 3px;
-      background: rgba(255,255,255,.04);
+      background: rgba(15,23,42,.05);
       border: 1px solid var(--hz-border);
       border-radius: 10px;
       margin-bottom: 1rem;
@@ -56,7 +56,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
       transition: all .15s;
       font-variant-numeric: tabular-nums;
     }
-    .kl-seg-btn:hover { color: var(--hz-text); background: rgba(255,255,255,.04); }
+    .kl-seg-btn:hover { color: var(--hz-text); background: rgba(15,23,42,.05); }
     .kl-seg-btn.active {
       color: var(--hz-text);
       background: rgba(244,63,94,.18);
@@ -75,13 +75,13 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
     .kl-row {
       display: grid; grid-template-columns: 36px 36px 1fr auto;
       gap: 0.75rem; align-items: center; padding: 0.7rem 1rem;
-      background: rgba(255,255,255,.02);
-      border: 1px solid rgba(255,255,255,.05);
+      background: rgba(15,23,42,.03);
+      border: 1px solid rgba(15,23,42,.06);
       border-radius: 8px; cursor: pointer;
       transition: all .18s;
     }
     .kl-row:hover {
-      background: rgba(255,255,255,.05);
+      background: rgba(15,23,42,.06);
       border-color: var(--hz-border-strong);
       transform: translateX(2px);
     }
@@ -112,7 +112,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
       font-family: monospace;
     }
     .kl-row-bar {
-      height: 5px; background: rgba(255,255,255,.04);
+      height: 5px; background: rgba(15,23,42,.05);
       border-radius: 3px; overflow: hidden;
     }
     .kl-row-bar-fill {
@@ -155,7 +155,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
     @media (max-width: 1100px) { .kl-charts { grid-template-columns: 1fr; } }
     .kl-chart-card {
       padding: 1.25rem 1.5rem;
-      background: linear-gradient(145deg, rgba(19,19,28,.85), rgba(15,15,22,.7));
+      background: linear-gradient(145deg, var(--hz-surface), var(--hz-bg-2));
       border: 1px solid var(--hz-border);
       border-radius: var(--hz-radius);
     }
@@ -382,10 +382,10 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
             },
             options: {
               responsive: true, maintainAspectRatio: false,
-              plugins: { legend: { display: false }, tooltip: { backgroundColor: 'rgba(10,8,24,.95)', borderColor: '#f43f5e', borderWidth: 1 } },
+              plugins: { legend: { display: false }, tooltip: { backgroundColor: 'rgba(15,23,42,.95)', titleColor: '#f8fafc', bodyColor: '#e2e8f0', borderColor: '#e11d48', borderWidth: 1 } },
               scales: {
-                x: { ticks: { color: '#64748b', font: { size: 10 } }, grid: { color: 'rgba(255,255,255,0.03)' } },
-                y: { ticks: { color: '#64748b', precision: 0, font: { size: 10 } }, grid: { color: 'rgba(255,255,255,0.04)' }, beginAtZero: true }
+                x: { ticks: { color: '#64748b', font: { size: 10 } }, grid: { color: 'rgba(15,23,42,0.05)' } },
+                y: { ticks: { color: '#64748b', precision: 0, font: { size: 10 } }, grid: { color: 'rgba(15,23,42,0.06)' }, beginAtZero: true }
               },
             },
           });
@@ -479,7 +479,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
 
         const rows = document.getElementById('breakdown-rows');
         if (!sorted.length) {
-          rows.innerHTML = '<div style="color: var(--hz-text-muted); padding: 2rem; text-align: center; background: rgba(255,255,255,0.02); border-radius: 8px;">Noch keine Klicks in dieser Kategorie.</div>';
+          rows.innerHTML = '<div style="color: var(--hz-text-muted); padding: 2rem; text-align: center; background: rgba(15,23,42,0.03); border-radius: 8px;">Noch keine Klicks in dieser Kategorie.</div>';
           return;
         }
         rows.innerHTML = sorted.map((t, i) => {
