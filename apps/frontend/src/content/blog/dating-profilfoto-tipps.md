@@ -33,8 +33,6 @@ faq:
     answer: "Absolut ja — Haustierfotos sind einer der stärksten Match-Booster. In unseren Test-Profilen erhöhte ein Hundefoto die Match-Rate bei Männern um 30–40 %, bei Frauen um etwa 20 %. Der psychologische Effekt: Haustiere signalisieren Fürsorge, Empathie, Stabilität und Gesprächsstoff. Das Bild sollte echt sein (dein eigenes Tier, nicht das eines Freundes), draußen aufgenommen und in entspannter Pose. Keine Katzen-Selfies mit Katzenohren-Filter — das wirkt kindisch. Eine natürliche Szene mit deinem Hund beim Spaziergang oder beim Kuscheln auf dem Sofa ist perfekt. Wichtig: erzähle vom Tier auch in der Bio (Name, Alter) — das zieht Matches an, die ebenfalls Tierfreund:innen sind."
   - question: "Wie teste ich, welches Foto am besten funktioniert?"
     answer: "Die einfachste Methode ist die A/B-Test-Funktion: Viele Apps (Tinder Smart Photos, Bumble Photo-Reorder) swappen automatisch deine Fotos und messen die Performance. Aktiviere diese Funktion mindestens 7 Tage. Manuelle Methode: Starte mit deinen 5 besten Fotos, zähle nach einer Woche die Matches. Tausche dann das Hauptbild aus, warte eine weitere Woche. Der Unterschied zeigt sich oft drastisch (10–50 % mehr oder weniger Matches). Externe Tools wie Photofeeler (kostenlos mit Credits) oder die Instagram Story-Umfrage bei Freund:innen helfen bei der Vorauswahl. Vermeide Selbsteinschätzung — wir sind schlechte Richter über unsere eigenen Bilder. Das Foto, das DU liebst, ist selten das, das am besten performt."
-image: "/images/blog/dating-profilfoto-tipps.webp"
-imageAlt: "Dating-Profilfoto Tipps 2026"
 ---
 
 ## Dating-Profilfoto Tipps 2026: Warum deine Fotos alles entscheiden
