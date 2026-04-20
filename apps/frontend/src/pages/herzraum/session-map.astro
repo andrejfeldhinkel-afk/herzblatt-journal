@@ -516,6 +516,158 @@ body[data-mode="live"] .sm-scrubber { display: none; }
   .sm-scrubber { display: none; }
 }
 
+/* ═══════════════════════════════════════════════════════════════════════
+   LEVEL-2: Parallax · Focus · Shockwaves · Cinematic Replay
+   ═══════════════════════════════════════════════════════════════════════ */
+
+/* 3D-Parallax — nodes float at different depths; mouse moves the whole scene */
+.sm-stage {
+  perspective: 1200px;
+  perspective-origin: 50% 50%;
+}
+.sm-parallax {
+  position: absolute; inset: 0;
+  will-change: transform;
+  transform: translate3d(var(--par-x, 0px), var(--par-y, 0px), 0) rotateX(var(--par-ry, 0deg)) rotateY(var(--par-rx, 0deg));
+  transition: transform .12s cubic-bezier(.2,.8,.2,1);
+  transform-style: preserve-3d;
+}
+.node { will-change: transform; }
+.node[data-depth="near"] { transform: translate(-50%, -50%) translateZ(30px); }
+.node[data-depth="mid"]  { transform: translate(-50%, -50%) translateZ(0px); }
+.node[data-depth="far"]  { transform: translate(-50%, -50%) translateZ(-40px); }
+.node[data-depth="near"]:hover { transform: translate(-50%, -50%) translateZ(30px) scale(1.1); }
+.node[data-depth="mid"]:hover { transform: translate(-50%, -50%) translateZ(0px) scale(1.1); }
+.node[data-depth="far"]:hover { transform: translate(-50%, -50%) translateZ(-40px) scale(1.1); }
+.node[data-depth="near"].time-hidden { transform: translate(-50%, -50%) translateZ(30px) scale(0.3); }
+.node[data-depth="mid"].time-hidden  { transform: translate(-50%, -50%) translateZ(0px) scale(0.3); }
+.node[data-depth="far"].time-hidden  { transform: translate(-50%, -50%) translateZ(-40px) scale(0.3); }
+
+/* Focus-Mode: one node highlighted, others dimmed */
+.sm-stage.focus-mode .node:not(.focused) { opacity: 0.15; filter: saturate(0.4); }
+.sm-stage.focus-mode .node.focused { z-index: 50; filter: drop-shadow(0 0 24px currentColor); }
+.sm-stage.focus-mode .node.focused .circle { box-shadow: 0 0 32px currentColor, 0 0 80px currentColor; }
+.sm-stage.focus-mode .edge { opacity: 0.06; }
+.sm-stage.focus-mode .edge.connected { opacity: 1; stroke-width: 2; filter: drop-shadow(0 0 5px var(--rose)); }
+.sm-stage.focus-mode .sm-radar { opacity: 0; }
+.sm-stage.focus-mode .sm-particles { opacity: 0.3; }
+
+/* Shockwave ripple on CRITICAL PRs during replay */
+.shockwave {
+  position: absolute; left: 50%; top: 50%;
+  width: 40px; height: 40px;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  border: 3px solid var(--rose);
+  pointer-events: none;
+  z-index: 4;
+  animation: shockwave 1.4s cubic-bezier(.2,.6,.2,1) forwards;
+}
+@keyframes shockwave {
+  0%   { width: 40px; height: 40px; opacity: 1; border-width: 3px;
+         box-shadow: 0 0 20px var(--rose), inset 0 0 20px var(--rose); }
+  60%  { opacity: 0.6; }
+  100% { width: 2200px; height: 2200px; opacity: 0; border-width: 0.5px;
+         box-shadow: 0 0 0 transparent; }
+}
+
+/* Camera-shake on CRITICAL events */
+@keyframes cameraShake {
+  0%, 100% { transform: translate(0, 0) rotate(0); }
+  10% { transform: translate(-3px, 2px) rotate(-0.3deg); }
+  20% { transform: translate(4px, -1px) rotate(0.4deg); }
+  30% { transform: translate(-2px, -2px) rotate(-0.2deg); }
+  40% { transform: translate(3px, 3px) rotate(0.3deg); }
+  50% { transform: translate(-4px, 1px) rotate(-0.4deg); }
+  60% { transform: translate(2px, -3px) rotate(0.2deg); }
+  70% { transform: translate(-1px, 2px) rotate(-0.1deg); }
+  80% { transform: translate(2px, -1px) rotate(0.1deg); }
+}
+.sm-stage.camera-shake { animation: cameraShake .6s ease-in-out; }
+
+/* Achievement-Banner (slides in during replay at key moments) */
+.achievement-banner {
+  position: fixed;
+  top: 120px; left: 50%; transform: translateX(-50%);
+  z-index: 60; pointer-events: none;
+  padding: 14px 32px; border-radius: 12px;
+  background: linear-gradient(135deg, rgba(10,8,24,.92), rgba(24,10,20,.95));
+  border: 1px solid rgba(255,56,104,.4);
+  box-shadow: 0 12px 48px rgba(0,0,0,.6), 0 0 40px rgba(255,56,104,.3);
+  backdrop-filter: blur(24px);
+  font-family: 'SF Pro Display', system-ui, sans-serif;
+  opacity: 0;
+  animation: achievementPop 3.4s cubic-bezier(.2,.8,.2,1) forwards;
+  min-width: 380px; text-align: center;
+}
+.achievement-banner .ach-label {
+  font-size: 10px; text-transform: uppercase;
+  letter-spacing: 0.24em; color: var(--cyan);
+  font-weight: 700; margin-bottom: 4px;
+  text-shadow: 0 0 12px rgba(34,211,238,.5);
+}
+.achievement-banner .ach-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 24px; font-weight: 800;
+  letter-spacing: -0.02em; line-height: 1.1;
+  background: linear-gradient(135deg, #fff, #ffb8c8 50%, #ff6b8a);
+  -webkit-background-clip: text; background-clip: text;
+  color: transparent;
+}
+.achievement-banner .ach-sub {
+  font-size: 12px; color: var(--muted-2);
+  margin-top: 4px; letter-spacing: 0.02em;
+}
+.achievement-banner.critical {
+  border-color: rgba(255,56,104,.7);
+  box-shadow: 0 12px 48px rgba(0,0,0,.6), 0 0 60px rgba(255,56,104,.5);
+}
+.achievement-banner.critical .ach-label { color: var(--rose); }
+@keyframes achievementPop {
+  0%   { opacity: 0; transform: translateX(-50%) translateY(-24px) scale(0.9); }
+  10%  { opacity: 1; transform: translateX(-50%) translateY(0) scale(1); }
+  85%  { opacity: 1; transform: translateX(-50%) translateY(0) scale(1); }
+  100% { opacity: 0; transform: translateX(-50%) translateY(-12px) scale(0.98); }
+}
+
+/* Speed-Control Buttons (in scrubber head) */
+.sc-speed {
+  display: inline-flex; gap: 2px; margin-left: 6px;
+  background: rgba(15,15,30,.4);
+  border: 1px solid rgba(255,255,255,.08);
+  border-radius: 6px; padding: 2px;
+}
+.sc-speed-btn {
+  padding: 3px 9px; font-size: 10px; font-weight: 700;
+  color: var(--muted-2); background: transparent; border: 0;
+  border-radius: 4px; cursor: pointer;
+  font-family: 'SF Mono', monospace;
+  transition: all .12s;
+  letter-spacing: 0.02em;
+}
+.sc-speed-btn:hover { color: var(--fg); background: rgba(255,255,255,.05); }
+.sc-speed-btn.active {
+  color: var(--fg);
+  background: rgba(34,211,238,.25);
+  box-shadow: inset 0 0 0 1px rgba(34,211,238,.4);
+  text-shadow: 0 0 8px rgba(34,211,238,.5);
+}
+
+/* Edge curve: we need defs/gradient for curved edges — keep SVG path instead of line */
+.edge-curve { fill: none; stroke: rgba(255,255,255,.09); stroke-width: 1; transition: stroke .3s, opacity .3s; }
+.edge-curve.active { stroke: var(--rose); stroke-opacity: .4; filter: drop-shadow(0 0 3px var(--rose)); }
+.edge-curve.time-hidden { opacity: 0; }
+.edge-curve.connected { opacity: 1 !important; stroke-width: 2; stroke: var(--rose); filter: drop-shadow(0 0 8px var(--rose)); }
+
+/* Reduce motion safely */
+@media (prefers-reduced-motion: reduce) {
+  .sm-parallax { transition: none; transform: none; }
+  .sm-radar { animation: none; opacity: 0; }
+  .shockwave { animation: none; display: none; }
+  .sm-stage.camera-shake { animation: none; }
+  .achievement-banner { animation: none; opacity: 1; }
+}
+
 </style>
 
 <div class="stars"></div>
@@ -642,10 +794,13 @@ body[data-mode="live"] .sm-scrubber { display: none; }
   <div id="logList"></div>
 </aside>
 
-<div class="sm-stage">
-  <div class="sm-radar" aria-hidden="true"></div>
-  <svg class="sm-svg" id="edges" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid meet"></svg>
-  <canvas class="sm-particles" id="particles" aria-hidden="true"></canvas>
+<div class="sm-stage" id="stage">
+  <div class="sm-parallax" id="parallax">
+    <div class="sm-radar" aria-hidden="true"></div>
+    <svg class="sm-svg" id="edges" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid meet"></svg>
+    <canvas class="sm-particles" id="particles" aria-hidden="true"></canvas>
+    <div class="shockwave-layer" id="shockwaveLayer" style="position:absolute;inset:0;pointer-events:none;"></div>
+  </div>
 </div>
 
 <div id="tooltip"></div>
@@ -661,7 +816,13 @@ body[data-mode="live"] .sm-scrubber { display: none; }
     <span class="sc-time" id="scTime">12:00</span>
     <span>·</span>
     <span><span class="sc-count" id="scVisible">0</span> / <span id="scTotal">0</span> Nodes</span>
-    <span style="margin-left:auto; font-size:10px; color:var(--muted);">Drag Slider oder Play drücken</span>
+    <div class="sc-speed" role="radiogroup" aria-label="Replay-Geschwindigkeit">
+      <button class="sc-speed-btn" data-speed="0.5" aria-label="0.5x Geschwindigkeit">0.5×</button>
+      <button class="sc-speed-btn active" data-speed="1" aria-label="1x Geschwindigkeit">1×</button>
+      <button class="sc-speed-btn" data-speed="2" aria-label="2x Geschwindigkeit">2×</button>
+      <button class="sc-speed-btn" data-speed="4" aria-label="4x Geschwindigkeit">4×</button>
+    </div>
+    <span style="margin-left:auto; font-size:10px; color:var(--muted);">Drag · Play · Click Node für Focus</span>
   </div>
   <div class="sc-track">
     <div class="sc-ticks" id="scTicks"></div>
@@ -1147,15 +1308,29 @@ NODES.forEach(n => { n.t = NODE_TIMES[n.id] ?? 0; });
     const el = document.querySelector(`.node[data-id="${tid}"]`);
     if (el && el.classList.contains('time-hidden')) return;
     const toPR = target.type === 'artifact';
+    // Bezier control-point: perpendicular-offset from midpoint, random side + magnitude
+    const dx = target.x - nodeMap.main.x, dy = target.y - nodeMap.main.y;
+    const len = Math.hypot(dx, dy) || 1;
+    const side = Math.random() > 0.5 ? 1 : -1;
+    const curveMag = 40 + Math.random() * 80;
+    const mx = (nodeMap.main.x + target.x) / 2 + (-dy / len) * curveMag * side;
+    const my = (nodeMap.main.y + target.y) / 2 + ( dx / len) * curveMag * side;
     particles.push({
       from: nodeMap.main, to: target,
+      cx: mx, cy: my, // bezier control
       p: 0, speed: 0.008 + Math.random() * 0.01,
       size: toPR ? 2.2 : 2.8,
-      color: toPR ? [34, 197, 94] : [255, 56, 104], // green back from PR, rose out to agent
-      reverse: toPR, // PRs "return" zum coordinator
+      color: toPR ? [34, 197, 94] : [255, 56, 104], // green from PR, rose to agent
+      reverse: toPR,
     });
   }
   setInterval(spawnParticle, 140);
+
+  // Quadratic Bezier: B(t) = (1-t)² P0 + 2(1-t)t P1 + t² P2
+  function bezier(t, p0, p1, p2) {
+    const u = 1 - t;
+    return u * u * p0 + 2 * u * t * p1 + t * t * p2;
+  }
 
   function draw() {
     ctx.clearRect(0, 0, W, H);
@@ -1164,30 +1339,29 @@ NODES.forEach(n => { n.t = NODE_TIMES[n.id] ?? 0; });
       p.p += p.speed;
       if (p.p >= 1) { particles.splice(i, 1); continue; }
       const progress = p.reverse ? 1 - p.p : p.p;
-      const x = p.from.x + (p.to.x - p.from.x) * progress;
-      const y = p.from.y + (p.to.y - p.from.y) * progress;
+      const x = bezier(progress, p.from.x, p.cx, p.to.x);
+      const y = bezier(progress, p.from.y, p.cy, p.to.y);
       const [sx, sy] = vb(x, y);
-      // Fade-in/out + trail
       const fade = Math.sin(p.p * Math.PI);
       const [r, g, b] = p.color;
-      // Trail
-      for (let k = 0; k < 5; k++) {
-        const backP = Math.max(0, p.p - k * 0.008);
+      // Trail along the curve
+      for (let k = 0; k < 6; k++) {
+        const backP = Math.max(0, p.p - k * 0.01);
         const prog2 = p.reverse ? 1 - backP : backP;
-        const tx = p.from.x + (p.to.x - p.from.x) * prog2;
-        const ty = p.from.y + (p.to.y - p.from.y) * prog2;
+        const tx = bezier(prog2, p.from.x, p.cx, p.to.x);
+        const ty = bezier(prog2, p.from.y, p.cy, p.to.y);
         const [tsx, tsy] = vb(tx, ty);
-        const a = fade * (0.5 - k * 0.1);
+        const a = fade * (0.55 - k * 0.08);
         if (a <= 0) continue;
         ctx.fillStyle = `rgba(${r},${g},${b},${a})`;
         ctx.beginPath();
-        ctx.arc(tsx, tsy, p.size * (1 - k * 0.15), 0, Math.PI * 2);
+        ctx.arc(tsx, tsy, p.size * (1 - k * 0.13), 0, Math.PI * 2);
         ctx.fill();
       }
-      // Core
+      // Core with glow
       ctx.fillStyle = `rgba(${r},${g},${b},${fade})`;
       ctx.shadowColor = `rgba(${r},${g},${b},${fade})`;
-      ctx.shadowBlur = 10;
+      ctx.shadowBlur = 12;
       ctx.beginPath();
       ctx.arc(sx, sy, p.size, 0, Math.PI * 2);
       ctx.fill();
@@ -1276,20 +1450,26 @@ document.querySelectorAll('.node').forEach((el, i) => {
     timeLbl.textContent = `${h}:${m}`;
     visLbl.textContent = String(visible);
     range.style.setProperty('--fill', (tMinutes / 480 * 100) + '%');
+    // Hook für Shockwaves + Achievements
+    if (window.__onMapTime) window.__onMapTime(tMinutes);
   }
+  // Expose applyTime for programmatic use (Achievement-Banner Re-Play etc.)
+  window.__mapApplyTime = applyTime;
 
   range.addEventListener('input', (e) => {
     stopPlayback();
     applyTime(+e.target.value);
   });
 
-  // Play/Pause: animiere Slider von 0 → 480 über 30s
+  // Play/Pause: animiere Slider von 0 → 480 über 30s (by default, speed=1)
   let playing = false, playStart = 0, startValue = 0, rafId = 0;
-  const PLAY_DURATION_MS = 30000;
+  const BASE_PLAY_DURATION_MS = 30000;
+  window.__mapPlaySpeed = 1;
   function playFrame() {
     if (!playing) return;
     const elapsed = performance.now() - playStart;
-    const fraction = Math.min(1, elapsed / PLAY_DURATION_MS);
+    const duration = BASE_PLAY_DURATION_MS / (window.__mapPlaySpeed || 1);
+    const fraction = Math.min(1, elapsed / duration);
     const tMin = Math.round(startValue + (480 - startValue) * fraction);
     range.value = String(tMin);
     applyTime(tMin);
@@ -1320,5 +1500,187 @@ document.querySelectorAll('.node').forEach((el, i) => {
   // Initial: alles sichtbar (Slider auf Max)
   applyTime(480);
 })();
+
+// ═══════════════════════════════════════════════════════════════════════
+// LEVEL-2: Parallax · Focus-Mode · Speed · Shockwaves · Achievements · Bezier-Particles
+// ═══════════════════════════════════════════════════════════════════════
+
+// ─── 1. Node-Depth-Assignment (near/mid/far) für 3D-Parallax ──────────
+(function setupDepth() {
+  document.querySelectorAll('.node').forEach((el, i) => {
+    const n = NODES[i];
+    // Main in center = mid; type "artifact" (PRs) = near; agents = far
+    let depth = 'mid';
+    if (n.type === 'artifact') depth = 'near';
+    else if (n.type === 'general' || n.type === 'specialist' || n.type === 'infra') depth = 'far';
+    el.setAttribute('data-depth', depth);
+  });
+})();
+
+// ─── 2. 3D-Parallax via Mouse-Move ────────────────────────────────────
+(function setupParallax() {
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  const stage = document.getElementById('stage');
+  const parallax = document.getElementById('parallax');
+  if (!stage || !parallax) return;
+  let targetX = 0, targetY = 0, currentX = 0, currentY = 0;
+  stage.addEventListener('mousemove', (e) => {
+    const rect = stage.getBoundingClientRect();
+    const nx = (e.clientX - rect.left) / rect.width - 0.5;
+    const ny = (e.clientY - rect.top) / rect.height - 0.5;
+    targetX = nx * 40;
+    targetY = ny * 28;
+    parallax.style.setProperty('--par-rx', (nx * 6) + 'deg');
+    parallax.style.setProperty('--par-ry', (-ny * 4) + 'deg');
+  });
+  stage.addEventListener('mouseleave', () => {
+    targetX = 0; targetY = 0;
+    parallax.style.setProperty('--par-rx', '0deg');
+    parallax.style.setProperty('--par-ry', '0deg');
+  });
+  function smoothParallax() {
+    currentX += (targetX - currentX) * 0.08;
+    currentY += (targetY - currentY) * 0.08;
+    parallax.style.setProperty('--par-x', currentX.toFixed(1) + 'px');
+    parallax.style.setProperty('--par-y', currentY.toFixed(1) + 'px');
+    requestAnimationFrame(smoothParallax);
+  }
+  requestAnimationFrame(smoothParallax);
+})();
+
+// ─── 3. Focus-Mode on Node-Click (ersetzt Deep-Dive-Only-Tooltip) ──
+(function setupFocusMode() {
+  const stage = document.getElementById('stage');
+  if (!stage) return;
+
+  const nodeEls = {};
+  document.querySelectorAll('.node').forEach((el, i) => { nodeEls[NODES[i].id] = el; });
+
+  function enterFocus(nodeId) {
+    stage.classList.add('focus-mode');
+    // Clear previous focus
+    Object.values(nodeEls).forEach(el => el.classList.remove('focused'));
+    // Mark focused node
+    if (nodeEls[nodeId]) nodeEls[nodeId].classList.add('focused');
+    // Mark connected edges
+    document.querySelectorAll('.edge, .edge-curve').forEach(edge => {
+      edge.classList.remove('connected');
+    });
+    const edgeEls = Array.from(document.querySelectorAll('.edge'));
+    EDGES.forEach((e, i) => {
+      if (e.s === nodeId || e.t === nodeId) {
+        const eEl = edgeEls[i];
+        if (eEl) eEl.classList.add('connected');
+      }
+    });
+  }
+  function exitFocus() {
+    stage.classList.remove('focus-mode');
+    Object.values(nodeEls).forEach(el => el.classList.remove('focused'));
+    document.querySelectorAll('.edge').forEach(edge => edge.classList.remove('connected'));
+  }
+
+  document.querySelectorAll('.node').forEach((el, i) => {
+    const n = NODES[i];
+    el.addEventListener('click', (ev) => {
+      ev.stopPropagation();
+      if (stage.classList.contains('focus-mode') && el.classList.contains('focused')) {
+        exitFocus();
+      } else {
+        enterFocus(n.id);
+      }
+    });
+  });
+  // Klick auf Hintergrund = exit
+  stage.addEventListener('click', (e) => {
+    if (!e.target.closest('.node')) exitFocus();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') exitFocus();
+  });
+})();
+
+// ─── 4. Speed-Control Buttons (0.5/1/2/4x) ────────────────────────────
+(function setupSpeed() {
+  document.querySelectorAll('.sc-speed-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.sc-speed-btn').forEach(b => b.classList.toggle('active', b === btn));
+      window.__mapPlaySpeed = parseFloat(btn.dataset.speed);
+    });
+  });
+})();
+
+// ─── 5. Achievement-Banner + Shockwaves during Replay ────────────────
+(function setupCinematic() {
+  const ACHIEVEMENTS = [
+    { t: 0,   label: 'SESSION START',    title: '10 Agents spawn',          sub: '12:00 CEST · Phase 1 Audit beginnt' },
+    { t: 200, label: '🚨 CRISIS',        title: 'Leak-Fix Welle startet',    sub: '15:20 · 5 Secrets werden rotiert',  critical: true },
+    { t: 220, label: 'SECURITY PATCH',   title: '3 XSS + SQL-Inj gepatcht', sub: '15:40 · 4 CRITICAL PRs in 20 Min',  critical: true },
+    { t: 300, label: 'FIXER WAVE',       title: '4 Fixer parallel',          sub: '17:00 · 6 PRs / 60 Min' },
+    { t: 350, label: '💾 DATA SAVED',    title: '1.164 Artikel gerettet',    sub: '17:50 · Editor-Bug gefixt',         critical: true },
+    { t: 420, label: 'PRODUCT LIVE',     title: 'E-Book + 5 Bonus auf Prod', sub: '19:00 · 15 Kapitel ~46k Wörter' },
+    { t: 480, label: 'SESSION COMPLETE', title: '38 PRs · 0 Outages',        sub: '20:00 · 6 CRITICAL gefixt' },
+  ];
+  const CRITICAL_PR_TIMES = [200, 205, 210, 220, 350]; // pr17, pr18, pr19, pr20, pr30
+  let lastT = -10;
+  let firedAch = new Set();
+  let firedShock = new Set();
+  const shockLayer = document.getElementById('shockwaveLayer');
+  const stage = document.getElementById('stage');
+
+  function fireAchievement(ach) {
+    const banner = document.createElement('div');
+    banner.className = 'achievement-banner' + (ach.critical ? ' critical' : '');
+    banner.innerHTML = `
+      <div class="ach-label">${ach.label}</div>
+      <div class="ach-title">${ach.title}</div>
+      <div class="ach-sub">${ach.sub}</div>
+    `;
+    document.body.appendChild(banner);
+    setTimeout(() => banner.remove(), 3500);
+  }
+
+  function fireShockwave() {
+    if (!shockLayer) return;
+    const sw = document.createElement('div');
+    sw.className = 'shockwave';
+    shockLayer.appendChild(sw);
+    setTimeout(() => sw.remove(), 1500);
+    // Also trigger camera shake
+    if (stage) {
+      stage.classList.remove('camera-shake');
+      // force reflow
+      void stage.offsetWidth;
+      stage.classList.add('camera-shake');
+      setTimeout(() => stage.classList.remove('camera-shake'), 700);
+    }
+  }
+
+  window.__onMapTime = function(tMinutes) {
+    // Reset fired-state on rewind (slider moved back)
+    if (tMinutes < lastT - 5) {
+      firedAch.clear();
+      firedShock.clear();
+    }
+    lastT = tMinutes;
+    // Fire achievements within 2-minute window, each once
+    ACHIEVEMENTS.forEach(ach => {
+      if (Math.abs(tMinutes - ach.t) <= 2 && !firedAch.has(ach.t)) {
+        firedAch.add(ach.t);
+        fireAchievement(ach);
+      }
+    });
+    // Fire shockwaves on CRITICAL PR times
+    CRITICAL_PR_TIMES.forEach(t => {
+      if (Math.abs(tMinutes - t) <= 1 && !firedShock.has(t)) {
+        firedShock.add(t);
+        fireShockwave();
+      }
+    });
+  };
+})();
+
+// ─── 6. Bezier-Particle-Curves: bereits in setupParticles integriert ─
+// (Control-Point perpendicular-offset vom Midpoint mit Random-Side + Magnitude)
 </script>
 </HerzraumLayout>
