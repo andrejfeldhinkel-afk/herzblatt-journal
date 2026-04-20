@@ -10,7 +10,14 @@ COPY package.json ./
 RUN npm install --no-audit --no-fund --legacy-peer-deps
 
 COPY . .
-RUN npm run build
+# Cache-Bust-Arg + Verifier — verhindert dass Railway den build-layer cached
+# aus einer failed-build-layer (ohne dist/server/entry.mjs) ableitet.
+# Der timestamp macht jede invocation unique → npm run build läuft immer frisch.
+ARG BUILD_TIMESTAMP=20260420-120000
+RUN echo "Build cache bust: $BUILD_TIMESTAMP" \
+ && npm run build \
+ && test -f dist/server/entry.mjs || (echo "❌ dist/server/entry.mjs missing after build!" && exit 1) \
+ && ls -la dist/server/ | head -5
 
 # --- Runtime-Stage ---
 FROM node:22-slim
