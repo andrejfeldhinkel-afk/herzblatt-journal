@@ -2,6 +2,8 @@
 title: "Pocketing in der Beziehung: Warum dein Partner dich versteckt — und was du tun kannst"
 description: "Pocketing erkennen: 7 Warnsignale, psychologische Ursachen und konkrete Schritte, wenn dein Partner dich vor Familie und Freunden versteckt."
 date: 2026-04-20
+image: "/images/blog/beziehung-geheimhaltung-verstecken.webp"
+imageAlt: "Person blickt einsam auf leeres Handy — Symbol für Pocketing in der Beziehung"
 tags:
   - "Dating-Trends"
   - "Red Flags"

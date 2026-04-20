@@ -2,6 +2,8 @@
 title: "Demisexuell Dating: Der komplette Guide für langsame Verbindungen"
 description: "Demisexualität verstehen: Was sie bedeutet, wie Dating als demisexuelle Person funktioniert und wie Partner damit umgehen."
 date: 2026-04-20
+image: "/images/blog/demisexualitaet-dating-guide.webp"
+imageAlt: "Zwei Menschen teilen Geheimnis über Tisch — langsam wachsende Verbindung"
 tags:
   - "Sexualität"
   - "Demisexualität"

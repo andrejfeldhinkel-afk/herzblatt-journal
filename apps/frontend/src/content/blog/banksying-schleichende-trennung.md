@@ -2,6 +2,8 @@
 title: "Banksying: Wenn dein Partner innerlich schon gegangen ist — 9 Warnsignale"
 description: "Banksying erkennen: So distanzieren sich Partner schleichend vor der Trennung. Psychologie, Anzeichen und was du jetzt tun solltest."
 date: 2026-04-20
+image: "/images/blog/beziehung-nach-rueckzug-partner.webp"
+imageAlt: "Paar sitzt mit Distanz auf Sofa — Symbol für schleichenden Rückzug"
 tags:
   - "Trennung"
   - "Beziehungskrise"

@@ -668,6 +668,38 @@ body[data-mode="live"] .sm-scrubber { display: none; }
   .achievement-banner { animation: none; opacity: 1; }
 }
 
+/* ═══════════════════════════════════════════════════════════════════════
+   LEVEL-3: Force-Graph Interaction States
+   ═══════════════════════════════════════════════════════════════════════ */
+
+/* Nodes jetzt per JS positioniert via left/top — brauchen transition-override */
+.node { transition: opacity .25s ease, transform .3s cubic-bezier(.2,.8,.2,1), filter .2s ease; cursor: grab; }
+.node:active { cursor: grabbing; }
+.node[data-depth] { cursor: grab; }
+.node.hover-connected .circle {
+  box-shadow: 0 0 20px currentColor, 0 0 40px currentColor !important;
+  transform: scale(1.15);
+}
+.node.hover-dimmed { opacity: 0.25; filter: saturate(0.5); }
+.edge.hover-connected {
+  stroke: var(--rose) !important;
+  stroke-width: 2.5 !important;
+  stroke-opacity: 0.95 !important;
+  filter: drop-shadow(0 0 6px var(--rose)) drop-shadow(0 0 12px var(--rose));
+}
+
+/* Main-Agent ist fix — kein grab cursor */
+.node[data-id="main"] { cursor: default; }
+
+/* Stage zeigt beim Pannen "grab" */
+.sm-stage { cursor: grab; }
+.sm-stage:active { cursor: grabbing; }
+.sm-stage.focus-mode { cursor: default; }
+
+/* Parallax-Wrapper kriegt smooth zoom transitions */
+.sm-parallax { transition: transform .2s cubic-bezier(.2,.8,.2,1); }
+/* Aber wenn Pan/Zoom aktiv — schneller: JS setzt transform direkt, CSS transition übernimmt */
+
 </style>
 
 <div class="stars"></div>
@@ -1682,5 +1714,297 @@ document.querySelectorAll('.node').forEach((el, i) => {
 
 // ─── 6. Bezier-Particle-Curves: bereits in setupParticles integriert ─
 // (Control-Point perpendicular-offset vom Midpoint mit Random-Side + Magnitude)
+
+// ═══════════════════════════════════════════════════════════════════════
+// LEVEL-3: Force-Graph · Drag · Zoom · Pan · Agent-Cluster-Coloring
+// ═══════════════════════════════════════════════════════════════════════
+
+(function setupForceGraph() {
+  // Physics-State zu jedem Node
+  NODES.forEach(n => {
+    n.vx = 0; n.vy = 0;
+    n.fx = null; n.fy = null;          // fixed pos when dragged
+    n.homeX = n.x; n.homeY = n.y;      // initial "home" pos für Reset
+  });
+
+  // Node-Element-Refs
+  const nodeElsById = {};
+  document.querySelectorAll('.node').forEach((el, i) => {
+    nodeElsById[NODES[i].id] = el;
+  });
+  const edgeEls = Array.from(document.querySelectorAll('.edge'));
+
+  // ─── Agent-Cluster-Coloring: PRs erben "Cluster-Farbe" des Originators ───
+  // Mapping PR → Agent (basiert auf LOG_EVENTS-Zeiten + Session-Wissen)
+  const PR_ORIGIN = {
+    // Early Wave (general-purpose)
+    pr11:'a-p1', pr12:'a-p2', pr13:'a-p2', pr14:'a-p2', pr15:'a-p2', pr16:'a-p2',
+    // CRITICAL Security Wave
+    pr17:'a-sec', pr18:'a-sec', pr19:'f-p4', pr20:'f-xss',
+    // Fixer Wave
+    pr21:'f-ux', pr22:'a-ebook', pr23:'a-bonus', pr24:'f-ux', pr25:'a-cr',
+    pr26:'f-ux', pr27:'a-sec', pr28:'a-ui',
+    // Comeback
+    pr29:'a-delivery', pr30:'f-admin', pr31:'a-adminlive',
+    pr32:'a-adminlive', pr33:'chrome',
+    pr37:'a-adminlive', pr39:'a-traffic', pr40:'a-traffic', pr41:'a-traffic',
+    pr43:'a-traffic', pr45:'a-sec', pr46:'a-hijack',
+  };
+
+  const stage = document.getElementById('stage');
+  const parallax = document.getElementById('parallax');
+
+  // ─── Tick: Force-Simulation ────────────────────────────────────
+  const CENTER_X = 800, CENTER_Y = 450;
+  const MIN_BOUND = { x: 40, y: 40, maxX: 1560, maxY: 860 };
+
+  function tick() {
+    // 1. Repulsion zwischen allen Nodes
+    for (let i = 0; i < NODES.length; i++) {
+      for (let j = i + 1; j < NODES.length; j++) {
+        const a = NODES[i], b = NODES[j];
+        const dx = b.x - a.x, dy = b.y - a.y;
+        const dist2 = dx * dx + dy * dy + 0.01;
+        const dist = Math.sqrt(dist2);
+        const rA = (a.r || 10), rB = (b.r || 10);
+        const minSep = rA + rB + 12;
+        // Stronger force when too close (avoid overlap)
+        const force = Math.max(600, 3000 / dist2) * (dist < minSep ? 4 : 1);
+        const fx = (dx / dist) * force;
+        const fy = (dy / dist) * force;
+        a.vx -= fx; a.vy -= fy;
+        b.vx += fx; b.vy += fy;
+      }
+    }
+    // 2. Spring-Attraction entlang Edges
+    EDGES.forEach(e => {
+      const a = nodeMap[e.s], b = nodeMap[e.t];
+      if (!a || !b) return;
+      const dx = b.x - a.x, dy = b.y - a.y;
+      const dist = Math.sqrt(dx * dx + dy * dy) + 0.01;
+      const target = e.thin ? 180 : 140; // PRs weiter weg, Agents dichter
+      const springK = e.thin ? 0.012 : 0.022;
+      const force = (dist - target) * springK;
+      const fx = (dx / dist) * force;
+      const fy = (dy / dist) * force;
+      a.vx += fx; a.vy += fy;
+      b.vx -= fx; b.vy -= fy;
+    });
+    // 3. Gravity zur Mitte (sehr schwach) — hält den Cluster zentriert
+    NODES.forEach(n => {
+      if (n.id === 'main') return; // Main bleibt zentral
+      n.vx += (CENTER_X - n.x) * 0.0006;
+      n.vy += (CENTER_Y - n.y) * 0.0006;
+    });
+    // 4. Update Positionen
+    NODES.forEach(n => {
+      if (n.fx != null) {
+        n.x = n.fx; n.y = n.fy; n.vx = 0; n.vy = 0;
+      } else if (n.id === 'main') {
+        n.x = CENTER_X; n.y = CENTER_Y; n.vx = 0; n.vy = 0;
+      } else {
+        n.vx *= 0.82; // damping
+        n.vy *= 0.82;
+        n.x += n.vx;
+        n.y += n.vy;
+        if (n.x < MIN_BOUND.x) { n.x = MIN_BOUND.x; n.vx = 0; }
+        if (n.x > MIN_BOUND.maxX) { n.x = MIN_BOUND.maxX; n.vx = 0; }
+        if (n.y < MIN_BOUND.y) { n.y = MIN_BOUND.y; n.vy = 0; }
+        if (n.y > MIN_BOUND.maxY) { n.y = MIN_BOUND.maxY; n.vy = 0; }
+      }
+    });
+    render();
+    requestAnimationFrame(tick);
+  }
+
+  function pct(v, dim) { return (v / (dim === 'x' ? 1600 : 900)) * 100 + '%'; }
+
+  function render() {
+    NODES.forEach(n => {
+      const el = nodeElsById[n.id];
+      if (!el) return;
+      el.style.left = pct(n.x, 'x');
+      el.style.top = pct(n.y, 'y');
+    });
+    EDGES.forEach((e, i) => {
+      const line = edgeEls[i];
+      if (!line) return;
+      const a = nodeMap[e.s], b = nodeMap[e.t];
+      if (!a || !b) return;
+      line.setAttribute('x1', a.x);
+      line.setAttribute('y1', a.y);
+      line.setAttribute('x2', b.x);
+      line.setAttribute('y2', b.y);
+    });
+    // Hub-Rings folgen Main
+    document.querySelectorAll('.hub-ring').forEach(ring => {
+      ring.style.left = pct(nodeMap.main.x, 'x');
+      ring.style.top = pct(nodeMap.main.y, 'y');
+    });
+  }
+
+  // ─── Drag: Nodes verschieben ────────────────────────────────────
+  Object.entries(nodeElsById).forEach(([id, el]) => {
+    const n = nodeMap[id];
+    if (!n || id === 'main') return; // Main ist fix zentral
+
+    let dragging = false, moved = false;
+    let startScreenX = 0, startScreenY = 0;
+    let startNodeX = 0, startNodeY = 0;
+
+    function onDown(ev) {
+      // Ignore if it's a touch-drag on scrubber
+      if (ev.target.closest('.sm-scrubber')) return;
+      ev.stopPropagation();
+      dragging = true; moved = false;
+      const point = ev.touches ? ev.touches[0] : ev;
+      startScreenX = point.clientX;
+      startScreenY = point.clientY;
+      startNodeX = n.x;
+      startNodeY = n.y;
+      n.fx = n.x; n.fy = n.y;
+      el.style.zIndex = '40';
+      el.style.cursor = 'grabbing';
+    }
+    function onMove(ev) {
+      if (!dragging) return;
+      const point = ev.touches ? ev.touches[0] : ev;
+      const dx = point.clientX - startScreenX;
+      const dy = point.clientY - startScreenY;
+      if (Math.abs(dx) + Math.abs(dy) > 4) moved = true;
+      // Screen-Delta → ViewBox-Delta via Stage-Scale
+      const rect = stage.getBoundingClientRect();
+      const scale = Math.min(rect.width / 1600, rect.height / 900) * (window.__zoom || 1);
+      n.fx = startNodeX + dx / scale;
+      n.fy = startNodeY + dy / scale;
+      if (ev.cancelable) ev.preventDefault();
+    }
+    function onUp() {
+      if (!dragging) return;
+      dragging = false;
+      n.fx = null; n.fy = null; // release — physics takes over
+      el.style.zIndex = '';
+      el.style.cursor = '';
+      // Falls kein Dragging → Klick nicht blocken (Focus-Mode etc.)
+    }
+
+    el.addEventListener('mousedown', onDown);
+    el.addEventListener('touchstart', onDown, { passive: true });
+    window.addEventListener('mousemove', onMove, { passive: false });
+    window.addEventListener('touchmove', onMove, { passive: false });
+    window.addEventListener('mouseup', onUp);
+    window.addEventListener('touchend', onUp);
+
+    // Wenn wir wirklich gezogen haben, Click-Event unterdrücken (damit Focus-Mode nicht triggert)
+    el.addEventListener('click', (ev) => {
+      if (moved) { ev.stopImmediatePropagation(); ev.preventDefault(); moved = false; }
+    }, true);
+  });
+
+  // ─── Zoom (Mausrad) + Pan (Drag auf Hintergrund) ────────────────
+  window.__zoom = 1;
+  let panX = 0, panY = 0;
+  let baseTransform = '';
+  function applyTransform() {
+    if (parallax) parallax.style.transform =
+      `translate3d(${panX}px, ${panY}px, 0) scale(${window.__zoom})`;
+  }
+  stage.addEventListener('wheel', (ev) => {
+    if (document.body.dataset.mode !== 'map') return;
+    ev.preventDefault();
+    const factor = ev.deltaY > 0 ? 0.92 : 1.09;
+    window.__zoom = Math.max(0.5, Math.min(2.8, window.__zoom * factor));
+    applyTransform();
+  }, { passive: false });
+
+  // Pan: Drag auf leerem Hintergrund (nicht auf Node)
+  let panning = false, panStartX = 0, panStartY = 0;
+  stage.addEventListener('mousedown', (ev) => {
+    if (ev.target.closest('.node, .sm-scrubber, .panel, .sm-header')) return;
+    if (document.body.dataset.mode !== 'map') return;
+    panning = true;
+    panStartX = ev.clientX - panX;
+    panStartY = ev.clientY - panY;
+    stage.style.cursor = 'grabbing';
+  });
+  window.addEventListener('mousemove', (ev) => {
+    if (!panning) return;
+    panX = ev.clientX - panStartX;
+    panY = ev.clientY - panStartY;
+    applyTransform();
+  });
+  window.addEventListener('mouseup', () => {
+    if (panning) { panning = false; stage.style.cursor = ''; }
+  });
+
+  // ─── Reset-Button in den Scrubber-Head ──────────────────────────
+  const scrubberHead = document.querySelector('.scrubber-head');
+  if (scrubberHead) {
+    const resetBtn = document.createElement('button');
+    resetBtn.className = 'sc-play';
+    resetBtn.type = 'button';
+    resetBtn.setAttribute('aria-label', 'Layout zurücksetzen');
+    resetBtn.innerHTML = '<span style="font-family: SF Mono, monospace; font-size: 10px;">↻</span><span>Reset</span>';
+    resetBtn.style.marginLeft = '4px';
+    resetBtn.addEventListener('click', () => {
+      NODES.forEach(n => {
+        n.x = n.homeX; n.y = n.homeY;
+        n.vx = 0; n.vy = 0; n.fx = null; n.fy = null;
+      });
+      panX = 0; panY = 0; window.__zoom = 1;
+      applyTransform();
+    });
+    // Nach dem Play-Button einfügen
+    const playBtn = scrubberHead.querySelector('.sc-play');
+    if (playBtn && playBtn.parentNode) {
+      playBtn.parentNode.insertBefore(resetBtn, playBtn.nextSibling);
+    }
+  }
+
+  // ─── Agent-Cluster-Coloring auf PR-Nodes ─────────────────────────
+  // PR-Nodes kriegen einen zusätzlichen Rand in der Farbe ihres Originator-Agents.
+  // → man sieht auf einen Blick, welcher Agent den PR geliefert hat.
+  Object.entries(PR_ORIGIN).forEach(([prId, agentId]) => {
+    const prEl = nodeElsById[prId];
+    const agent = nodeMap[agentId];
+    if (!prEl || !agent) return;
+    const circle = prEl.querySelector('.circle');
+    if (!circle) return;
+    // Doppelter Rand: innerer PR-color + äußerer Agent-color
+    circle.style.boxShadow = `0 0 0 2px ${agent.color}aa, 0 0 16px ${agent.color}66`;
+    prEl.dataset.originator = agentId;
+  });
+
+  // ─── Hover-Highlight: Node hover → alle connected nodes + edges glowen ──
+  Object.entries(nodeElsById).forEach(([id, el]) => {
+    el.addEventListener('mouseenter', () => {
+      if (document.body.dataset.mode !== 'map') return;
+      // Edges finden die diesen Node berühren
+      const connectedIds = new Set();
+      EDGES.forEach((e, i) => {
+        if (e.s === id || e.t === id) {
+          connectedIds.add(e.s); connectedIds.add(e.t);
+          edgeEls[i] && edgeEls[i].classList.add('hover-connected');
+        }
+      });
+      Object.entries(nodeElsById).forEach(([otherId, otherEl]) => {
+        if (!connectedIds.has(otherId) && otherId !== id) {
+          otherEl.classList.add('hover-dimmed');
+        }
+      });
+    });
+    el.addEventListener('mouseleave', () => {
+      document.querySelectorAll('.edge.hover-connected').forEach(e => e.classList.remove('hover-connected'));
+      document.querySelectorAll('.node.hover-dimmed').forEach(n => n.classList.remove('hover-dimmed'));
+    });
+  });
+
+  // ─── Pan+Drag-Hint in Scrubber ───────────────────────────────────
+  const hintEl = document.querySelector('.scrubber-head > span[style*="margin-left"]');
+  if (hintEl) hintEl.textContent = 'Drag Node · Wheel = Zoom · Drag BG = Pan · Reset = Layout';
+
+  // ─── Start Sim ───────────────────────────────────────────────────
+  requestAnimationFrame(tick);
+})();
 </script>
 </HerzraumLayout>
