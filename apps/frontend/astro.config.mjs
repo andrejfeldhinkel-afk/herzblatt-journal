@@ -48,9 +48,6 @@ try {
 // https://astro.build/config
 export default defineConfig({
   site: SITE_ORIGIN,
-  // Astro 6: output-default ist 'static'. Ohne 'server' kein dist/server/entry.mjs
-  // → Node-Adapter hat nichts zu starten → Runtime-MODULE_NOT_FOUND.
-  output: 'server',
   adapter: node({ mode: 'standalone' }),
   integrations: [compressor({ gzip: true, brotli: true }), sitemap({
     filter: (page) =>

@@ -10,16 +10,13 @@ COPY package.json ./
 RUN npm install --no-audit --no-fund --legacy-peer-deps
 
 COPY . .
-# Cache-Bust-Arg + Verifier — verhindert dass Railway den build-layer cached
-# aus einer failed-build-layer (ohne dist/server/entry.mjs) ableitet.
-# Der timestamp macht jede invocation unique → npm run build läuft immer frisch.
-ARG BUILD_TIMESTAMP=20260420-130000
+# Cache-Bust — ändern um Docker-Layer-Cache zu invalidieren wenn needed
+ARG BUILD_TIMESTAMP=20260420-140000
 RUN echo "Build cache bust: $BUILD_TIMESTAMP" \
+ && rm -rf node_modules package-lock.json \
+ && npm install --no-audit --no-fund --legacy-peer-deps \
  && npm run build \
- && echo "=== dist/ tree after build ===" \
- && find dist -maxdepth 3 -type f \( -name "*.mjs" -o -name "*.js" \) | head -30 \
- && echo "=== searching for entry ===" \
- && find dist -name "entry*" -o -name "server.mjs" -o -name "index.mjs" 2>/dev/null | head -10
+ && test -f dist/server/entry.mjs || (echo "❌ dist/server/entry.mjs missing" && ls -R dist/ && exit 1)
 
 # --- Runtime-Stage ---
 FROM node:22-slim
