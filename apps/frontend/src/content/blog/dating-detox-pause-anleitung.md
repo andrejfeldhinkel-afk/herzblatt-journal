@@ -2,6 +2,8 @@
 title: "Dating Detox: Die 30-Tage-Pause-Anleitung gegen Dating-Burnout"
 description: "Dating Detox richtig machen: Wann du eine Pause brauchst, wie lange sie dauert und wie du danach gesünder datest."
 date: 2026-04-20
+image: "/images/blog/dating-burnout-recovery-guide.webp"
+imageAlt: "Handy im Ausschalten-Modus auf Tisch — Symbol für Dating Detox"
 tags:
   - "Selbstliebe"
   - "Dating-Apps"

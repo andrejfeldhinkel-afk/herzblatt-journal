@@ -2,6 +2,8 @@
 title: "Reparenting in Beziehungen: Wie du dein inneres Kind heilst und deine Partnerschaft rettest"
 description: "Reparenting erklärt: Wie du Kindheitsmuster erkennst, dein inneres Kind nachversorgst und gesunde Beziehungsmuster aufbaust."
 date: 2026-04-20
+image: "/images/blog/attachment-wound-heilen.webp"
+imageAlt: "Erwachsene Hand hält symbolisch kindliche Hand — Symbol für Reparenting"
 tags:
   - "Psychologie"
   - "Trauma"

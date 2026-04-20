@@ -2,6 +2,8 @@
 title: "Introvertiert Dating: 21 Strategien für leise Menschen auf Partnersuche"
 description: "Dating als Introvertierter: Wie du ohne Small-Talk-Stress echte Verbindung findest. 21 alltagstaugliche Strategien."
 date: 2026-04-20
+image: "/images/blog/beziehung-introvertiert-extrovertiert-paar.webp"
+imageAlt: "Zwei Menschen im ruhigen Gespräch auf gemütlichem Sofa — introvertiertes Dating"
 tags:
   - "Dating-Tipps"
   - "Persönlichkeit"
