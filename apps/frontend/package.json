@@ -4,12 +4,13 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "prebuild": "node scripts/generate-images-index.mjs && node scripts/convert-webp-to-avif.mjs",
+    "prebuild": "node scripts/generate-images-index.mjs",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
     "start": "HOST=0.0.0.0 node dist/server/entry.mjs",
-    "generate-images-index": "node scripts/generate-images-index.mjs"
+    "generate-images-index": "node scripts/generate-images-index.mjs",
+    "generate-avif": "node scripts/convert-webp-to-avif.mjs"
   },
   "dependencies": {
     "@astrojs/node": "^10.0.5",
