@@ -95,7 +95,7 @@ const navSections = [
 ] as const;
 ---
 <!DOCTYPE html>
-<html lang="de" class="dark">
+<html lang="de">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -108,28 +108,28 @@ const navSections = [
     @font-face { font-family: 'DM Sans'; src: url('/fonts/dm-sans-latin.woff2') format('woff2'); font-display: swap; }
     @font-face { font-family: 'Playfair Display'; src: url('/fonts/playfair-latin.woff2') format('woff2'); font-display: swap; font-weight: 400 900; }
     :root {
-      --hz-bg: #0a0a0f;
-      --hz-bg-2: #0f0f16;
-      --hz-surface: #13131c;
-      --hz-surface-2: #1c1c28;
-      --hz-surface-3: #26263a;
-      --hz-border: rgba(255,255,255,0.06);
-      --hz-border-strong: rgba(255,255,255,0.10);
-      --hz-primary: #f43f5e;
-      --hz-primary-dark: #e11d48;
-      --hz-primary-glow: rgba(244,63,94,0.25);
-      --hz-primary-light: rgba(244,63,94,0.10);
+      --hz-bg: #f7f8fb;
+      --hz-bg-2: #eef1f6;
+      --hz-surface: #ffffff;
+      --hz-surface-2: #f5f7fb;
+      --hz-surface-3: #e7ecf3;
+      --hz-border: rgba(15,23,42,0.08);
+      --hz-border-strong: rgba(15,23,42,0.16);
+      --hz-primary: #e11d48;
+      --hz-primary-dark: #be123c;
+      --hz-primary-glow: rgba(225,29,72,0.18);
+      --hz-primary-light: rgba(225,29,72,0.08);
       --hz-accent: #8b5cf6;
-      --hz-text: #f1f5f9;
-      --hz-text-muted: #94a3b8;
-      --hz-text-dim: #64748b;
-      --hz-success: #10b981;
-      --hz-warning: #f59e0b;
-      --hz-danger: #ef4444;
-      --hz-info: #38bdf8;
-      --hz-shadow-sm: 0 1px 2px rgba(0,0,0,0.4);
-      --hz-shadow: 0 4px 6px -1px rgba(0,0,0,0.5), 0 2px 4px -2px rgba(0,0,0,0.3);
-      --hz-shadow-lg: 0 20px 25px -5px rgba(0,0,0,0.5), 0 8px 10px -6px rgba(0,0,0,0.4);
+      --hz-text: #0f172a;
+      --hz-text-muted: #475569;
+      --hz-text-dim: #94a3b8;
+      --hz-success: #059669;
+      --hz-warning: #d97706;
+      --hz-danger: #dc2626;
+      --hz-info: #0284c7;
+      --hz-shadow-sm: 0 1px 2px rgba(15,23,42,0.06);
+      --hz-shadow: 0 4px 12px -2px rgba(15,23,42,0.08), 0 2px 4px -2px rgba(15,23,42,0.04);
+      --hz-shadow-lg: 0 20px 40px -8px rgba(15,23,42,0.12), 0 8px 16px -4px rgba(15,23,42,0.06);
       --hz-radius: 0.75rem;
       --hz-radius-sm: 0.5rem;
       --hz-radius-lg: 1rem;
@@ -139,8 +139,8 @@ const navSections = [
     body {
       font-family: 'DM Sans', ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
       background:
-        radial-gradient(circle at 15% 0%, rgba(244,63,94,0.06), transparent 40%),
-        radial-gradient(circle at 85% 100%, rgba(139,92,246,0.05), transparent 40%),
+        radial-gradient(circle at 15% 0%, rgba(225,29,72,0.05), transparent 45%),
+        radial-gradient(circle at 85% 100%, rgba(139,92,246,0.04), transparent 45%),
         var(--hz-bg);
       background-attachment: fixed;
       color: var(--hz-text);
@@ -162,19 +162,19 @@ const navSections = [
       position: fixed; top: 14px; left: 14px; z-index: 10001;
       display: inline-flex; align-items: center; gap: 6px;
       padding: 6px 12px; border-radius: 999px;
-      background: rgba(10,8,24,.7); backdrop-filter: blur(12px);
-      border: 1px solid rgba(255,255,255,.12);
-      color: var(--hz-text-muted); font-size: 11px; font-weight: 600;
+      background: rgba(15,23,42,.55); backdrop-filter: blur(12px);
+      border: 1px solid rgba(255,255,255,.18);
+      color: #f8fafc; font-size: 11px; font-weight: 600;
       letter-spacing: .06em; text-transform: uppercase;
       transition: all .18s;
     }
     .hz-fullscreen-back:hover {
-      color: var(--hz-text); border-color: var(--hz-primary);
-      background: rgba(244,63,94,.12);
+      color: #ffffff; border-color: var(--hz-primary);
+      background: rgba(225,29,72,.35);
     }
     .hz-layout { display: grid; grid-template-columns: 244px 1fr; min-height: 100vh; }
     .hz-sidebar {
-      background: rgba(19,19,28,0.75);
+      background: rgba(255,255,255,0.85);
       backdrop-filter: blur(16px);
       -webkit-backdrop-filter: blur(16px);
       border-right: 1px solid var(--hz-border);
@@ -584,7 +584,7 @@ const navSections = [
   </div>}
 
   <!-- Cmd+K Quick-Search Overlay -->
-  <div id="hz-cmdk" style="display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.7); z-index: 9999; padding-top: 10vh; backdrop-filter: blur(6px);">
+  <div id="hz-cmdk" style="display: none; position: fixed; inset: 0; background: rgba(15,23,42,0.45); z-index: 9999; padding-top: 10vh; backdrop-filter: blur(6px);">
     <div style="max-width: 640px; margin: 0 auto; background: var(--hz-surface); border: 1px solid var(--hz-border-strong); border-radius: 14px; box-shadow: var(--hz-shadow-lg); overflow: hidden;">
       <div style="padding: 1rem 1.25rem; border-bottom: 1px solid var(--hz-border); display: flex; align-items: center; gap: 0.75rem;">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color: var(--hz-text-muted);"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>

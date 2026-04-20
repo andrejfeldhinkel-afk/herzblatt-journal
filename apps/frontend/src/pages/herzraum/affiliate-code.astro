@@ -20,7 +20,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         <h2 style="margin: 0 0 0.35rem 0; font-size: 1.5rem; font-weight: 700;">🎟️ Käufer-Affiliate-Codes</h2>
         <p style="color: var(--hz-text-muted, #94a3b8); font-size: 0.9rem; margin: 0; max-width: 60rem;">
           Jeder Ebook-Käufer bekommt automatisch einen 8-Zeichen-Code. Teilen über
-          <code style="background: rgba(255,255,255,0.06); padding: 0.1rem 0.35rem; border-radius: 3px;">/go/affiliate/&lt;code&gt;</code>
+          <code style="background: rgba(15,23,42,0.06); padding: 0.1rem 0.35rem; border-radius: 3px;">/go/affiliate/&lt;code&gt;</code>
           setzt einen signierten Cookie (30 Tage). Bei Folge-Kauf wird dem Referrer eine Provision von 30% gutgeschrieben.
         </p>
       </div>
@@ -29,29 +29,29 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
 
   <!-- KPI-Summary -->
   <section class="hz-kpi-grid" style="margin-bottom: 1rem; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0.75rem;">
-    <div class="hz-kpi" style="background: var(--hz-surface, #13131c); border: 1px solid var(--hz-border, rgba(255,255,255,0.06)); border-radius: 0.75rem; padding: 1rem;">
+    <div class="hz-kpi" style="background: var(--hz-surface, #13131c); border: 1px solid var(--hz-border, rgba(15,23,42,0.06)); border-radius: 0.75rem; padding: 1rem;">
       <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--hz-text-muted, #94a3b8); margin-bottom: 0.35rem;">Codes gesamt</div>
       <div style="font-size: 1.5rem; font-weight: 700;" id="kpi-total">—</div>
     </div>
-    <div class="hz-kpi" style="background: var(--hz-surface, #13131c); border: 1px solid var(--hz-border, rgba(255,255,255,0.06)); border-radius: 0.75rem; padding: 1rem;">
+    <div class="hz-kpi" style="background: var(--hz-surface, #13131c); border: 1px solid var(--hz-border, rgba(15,23,42,0.06)); border-radius: 0.75rem; padding: 1rem;">
       <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--hz-text-muted, #94a3b8); margin-bottom: 0.35rem;">Aktive Codes</div>
       <div style="font-size: 1.5rem; font-weight: 700;" id="kpi-active">—</div>
     </div>
-    <div class="hz-kpi" style="background: var(--hz-surface, #13131c); border: 1px solid var(--hz-border, rgba(255,255,255,0.06)); border-radius: 0.75rem; padding: 1rem;">
+    <div class="hz-kpi" style="background: var(--hz-surface, #13131c); border: 1px solid var(--hz-border, rgba(15,23,42,0.06)); border-radius: 0.75rem; padding: 1rem;">
       <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--hz-text-muted, #94a3b8); margin-bottom: 0.35rem;">Klicks gesamt</div>
       <div style="font-size: 1.5rem; font-weight: 700;" id="kpi-clicks">—</div>
     </div>
-    <div class="hz-kpi" style="background: var(--hz-surface, #13131c); border: 1px solid var(--hz-border, rgba(255,255,255,0.06)); border-radius: 0.75rem; padding: 1rem;">
+    <div class="hz-kpi" style="background: var(--hz-surface, #13131c); border: 1px solid var(--hz-border, rgba(15,23,42,0.06)); border-radius: 0.75rem; padding: 1rem;">
       <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--hz-text-muted, #94a3b8); margin-bottom: 0.35rem;">Payout offen</div>
       <div style="font-size: 1.5rem; font-weight: 700;" id="kpi-payout">—</div>
     </div>
   </section>
 
   <!-- Table -->
-  <div class="hz-card" style="background: var(--hz-surface, #13131c); border: 1px solid var(--hz-border, rgba(255,255,255,0.06)); border-radius: 0.75rem; padding: 1rem; overflow-x: auto;">
+  <div class="hz-card" style="background: var(--hz-surface, #13131c); border: 1px solid var(--hz-border, rgba(15,23,42,0.06)); border-radius: 0.75rem; padding: 1rem; overflow-x: auto;">
     <table id="codes-table" style="width: 100%; border-collapse: collapse; font-size: 0.88rem;">
       <thead>
-        <tr style="text-align: left; border-bottom: 1px solid var(--hz-border, rgba(255,255,255,0.1));">
+        <tr style="text-align: left; border-bottom: 1px solid var(--hz-border, rgba(15,23,42,0.1));">
           <th style="padding: 0.6rem 0.5rem;">Code</th>
           <th style="padding: 0.6rem 0.5rem;">Owner</th>
           <th style="padding: 0.6rem 0.5rem; text-align: right;">Klicks</th>
@@ -117,8 +117,8 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
               : '<span style="color: #94a3b8;">inaktiv</span>';
             const toggleLabel = active ? 'Deaktivieren' : 'Aktivieren';
             return (
-              '<tr data-code="' + c.code + '" style="border-bottom: 1px solid rgba(255,255,255,0.04);">' +
-                '<td style="padding: 0.6rem 0.5rem;"><code style="background: rgba(255,255,255,0.06); padding: 0.15rem 0.4rem; border-radius: 4px; font-family: monospace;">' + c.code + '</code></td>' +
+              '<tr data-code="' + c.code + '" style="border-bottom: 1px solid rgba(15,23,42,0.05);">' +
+                '<td style="padding: 0.6rem 0.5rem;"><code style="background: rgba(15,23,42,0.06); padding: 0.15rem 0.4rem; border-radius: 4px; font-family: monospace;">' + c.code + '</code></td>' +
                 '<td style="padding: 0.6rem 0.5rem; font-size: 0.82rem; color: var(--hz-text-muted);">' + c.ownerEmail + '</td>' +
                 '<td style="padding: 0.6rem 0.5rem; text-align: right; font-variant-numeric: tabular-nums;">' + (c.clicks || 0) + '</td>' +
                 '<td style="padding: 0.6rem 0.5rem; text-align: right; font-variant-numeric: tabular-nums;">' + (c.conversions || 0) + '</td>' +
@@ -126,7 +126,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
                 '<td style="padding: 0.6rem 0.5rem; font-size: 0.82rem; color: var(--hz-text-muted);">' + fmtDate(c.createdAt) + '</td>' +
                 '<td style="padding: 0.6rem 0.5rem;">' + statusLabel + '</td>' +
                 '<td style="padding: 0.6rem 0.5rem; text-align: right;">' +
-                  '<button class="toggle-btn" data-code="' + c.code + '" data-active="' + active + '" style="background: transparent; color: var(--hz-text-muted); border: 1px solid var(--hz-border, rgba(255,255,255,0.1)); padding: 0.3rem 0.65rem; border-radius: 5px; font-size: 0.78rem; cursor: pointer;">' + toggleLabel + '</button>' +
+                  '<button class="toggle-btn" data-code="' + c.code + '" data-active="' + active + '" style="background: transparent; color: var(--hz-text-muted); border: 1px solid var(--hz-border, rgba(15,23,42,0.1)); padding: 0.3rem 0.65rem; border-radius: 5px; font-size: 0.78rem; cursor: pointer;">' + toggleLabel + '</button>' +
                 '</td>' +
               '</tr>'
             );
