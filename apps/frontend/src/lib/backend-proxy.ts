@@ -83,12 +83,23 @@ export async function proxyToBackend(
     // (streaming back gives issues in some node-adapter versions)
     const respText = await backendResponse.text();
     const respHeaders = new Headers();
-    const skip = new Set(['connection', 'transfer-encoding', 'keep-alive', 'upgrade', 'content-length', 'content-encoding']);
+    // `set-cookie` MUSS separat behandelt werden: Headers.forEach() iteriert
+    // multi-value-headers als EINEN kommagetrennten Wert → beim Setzen geht
+    // der zweite Cookie verloren (Browser akzeptiert kein `a=1, b=2` als
+    // zwei Cookies). Login setzt zwei Cookies (hz_session + hz_csrf), beide
+    // müssen durchkommen. Fix: set-cookie im skip-Set ausschließen und
+    // stattdessen via getSetCookie() einzeln appenden.
+    const skip = new Set(['connection', 'transfer-encoding', 'keep-alive', 'upgrade', 'content-length', 'content-encoding', 'set-cookie']);
     backendResponse.headers.forEach((value, key) => {
       if (!skip.has(key.toLowerCase())) {
         respHeaders.set(key, value);
       }
     });
+    // Multi-value-safe: Set-Cookies einzeln appenden (Node ≥20 + undici).
+    const setCookies = (backendResponse.headers as unknown as { getSetCookie?: () => string[] }).getSetCookie?.() ?? [];
+    for (const cookie of setCookies) {
+      respHeaders.append('set-cookie', cookie);
+    }
 
     return new Response(respText, {
       status: backendResponse.status,
