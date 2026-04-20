@@ -17,10 +17,8 @@ const { title, description, date: rawDate, tags, slug, readingTime, featured = f
 
 const date = rawDate ? (rawDate instanceof Date ? rawDate : new Date(rawDate)) : null;
 
-// AVIF-Quelle aus image ableiten (.webp/.jpg/.png → .avif). Query-Strings (?v=...) bleiben erhalten.
-const avifSrc = image
-  ? image.replace(/(\.(?:webp|jpe?g|png))(\?[^#]*)?(#.*)?$/i, '.avif$2$3')
-  : null;
+// AVIF-Support deaktiviert: PR #84 hat AVIF-Generation aus dem Build entfernt → keine .avif-Files mehr.
+const avifSrc: string | undefined = undefined;
 const isWebp = image ? /\.webp(\?|#|$)/i.test(image) : false;
 const fallbackType = image
   ? (/\.png(\?|#|$)/i.test(image) ? 'image/png'
