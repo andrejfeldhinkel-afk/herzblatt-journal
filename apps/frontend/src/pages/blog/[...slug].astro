@@ -321,12 +321,7 @@ if (isReviewArticle) {
           />
         )}
 
-        <!-- Author-Bio-Box (E-E-A-T-Signale: Credentials, Qualifikationen, Trust-Line) -->
-        <AuthorBioBox
-          authorSlug={author.slug}
-          articleType={isReviewArticle ? 'review' : 'general'}
-          lastUpdated={post.data.updated || post.data.date}
-        />
+        <!-- Author-Bio-Box an den Artikel-Footer verschoben (statt zweimal oben + unten) -->
 
         <!-- Rating-Widget (sichtbare Sterne — verifiziert das Review-Schema JSON-LD,
              damit Google Rich-Results nicht droppt weil on-page-Rating fehlt) -->
@@ -482,20 +477,13 @@ if (isReviewArticle) {
           </a>
         </aside>
 
-        <!-- Author Bio Box -->
-        <div class="mt-14 rounded-2xl p-6" style="background: var(--bg-soft); border: 1px solid var(--border);">
-          <div class="flex items-start gap-4">
-            <a href={`/autor/${author.slug}`} class="shrink-0">
-              <img src={author.image} alt={author.name} class="w-16 h-16 rounded-full object-cover" style="border: 3px solid var(--color-primary-200);" loading="lazy" />
-            </a>
-            <div>
-              <p class="text-xs font-bold uppercase tracking-wider mb-1" style="color: var(--color-primary-600);">Über den Autor</p>
-              <a href={`/autor/${author.slug}`} class="text-lg font-bold hover:underline" style="color: var(--text); font-family: var(--font-serif); text-decoration: none;">{author.name}</a>
-              <p class="text-xs font-medium mb-2" style="color: var(--color-primary-600);">{author.role}</p>
-              <p class="text-sm leading-relaxed" style="color: var(--text-muted);">{author.shortBio}</p>
-              <a href={`/autor/${author.slug}`} class="inline-block mt-3 text-xs font-semibold" style="color: var(--color-primary-600);">Alle Artikel von {author.name} →</a>
-            </div>
-          </div>
+        <!-- Author-Bio-Box am Artikel-Footer (E-E-A-T: "Redaktionell geprüft" + Credentials) -->
+        <div class="mt-14">
+          <AuthorBioBox
+            authorSlug={author.slug}
+            articleType={isReviewArticle ? 'review' : 'general'}
+            lastUpdated={post.data.updated || post.data.date}
+          />
         </div>
 
         <!-- CTA -->
