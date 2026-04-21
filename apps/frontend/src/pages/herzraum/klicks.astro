@@ -4,7 +4,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
 ---
 <HerzraumLayout title="Klick-Tracking" active="klicks">
 
-  <style>
+  <style is:global>
     .kl-hero {
       display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem;
       margin-bottom: 1.5rem;
@@ -486,7 +486,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
           const rank = i + 1;
           const meta = DATING_SITES[t.key];
           const logo = meta
-            ? '<img class="kl-row-logo" src="' + meta.logo + '" alt="' + meta.name + '" loading="lazy"/>'
+            ? '<img class="kl-row-logo" src="' + meta.logo + '" alt="' + meta.name + '" width="28" height="28" loading="lazy"/>'
             : '<span class="kl-row-logo" style="background: ' + categoryColor(t.cat).a + '22; color: ' + categoryColor(t.cat).a + ';">' + iconFor(t.cat) + '</span>';
           const name = meta ? meta.name : prettyName(t.key);
           const link = meta ? '<a href="' + meta.link + '" target="_blank">→ Bericht</a>' : '';
