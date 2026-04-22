@@ -668,10 +668,7 @@ const faqs = [
       <div class="grid md:grid-cols-3 gap-6 md:gap-8">
         {testimonials.slice(0, 6).map((t, i) => (
           <figure class={`relative p-8 ${i % 3 === 1 ? 'md:translate-y-8' : ''}`} style={`background: #fff; border: 1px solid rgba(15,23,42,0.08); box-shadow: 0 1px 3px rgba(15,23,42,0.04); ${i % 2 === 0 ? 'border-top: 3px solid #e11d48;' : 'border-top: 3px solid #0f172a;'}`}>
-            <!-- Oversized opening quotation mark -->
             <div aria-hidden="true" class="absolute top-4 right-6 text-[5rem] leading-none opacity-10" style="color: #e11d48; font-family: var(--font-serif); font-weight: 900;">&ldquo;</div>
-
-            <!-- 5 stars -->
             <div class="flex items-center gap-0.5 mb-5">
               <svg width="12" height="12" viewBox="0 0 24 24" fill="#f59e0b"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
               <svg width="12" height="12" viewBox="0 0 24 24" fill="#f59e0b"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
@@ -679,13 +676,9 @@ const faqs = [
               <svg width="12" height="12" viewBox="0 0 24 24" fill="#f59e0b"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
               <svg width="12" height="12" viewBox="0 0 24 24" fill="#f59e0b"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
             </div>
-
-            <!-- Quote -->
             <blockquote class="text-[16px] sm:text-[17px] leading-[1.55] mb-6" style="color: #0f172a; font-family: var(--font-serif); font-style: italic; letter-spacing: -0.005em;">
               {t.quote}
             </blockquote>
-
-            <!-- Author attribution, editorial -->
             <figcaption class="flex items-center gap-3 pt-5" style="border-top: 1px solid rgba(15,23,42,0.08);">
               <img
                 src={`https://api.dicebear.com/9.x/notionists/svg?seed=${encodeURIComponent(t.name)}&backgroundColor=fef1f2,fde4e6,fecdd3&radius=50`}
@@ -780,7 +773,7 @@ const faqs = [
           <>
             <!-- Payment-Method-Picker: Kreditkarte · Sofort · paysafecard -->
             <div class="grid grid-cols-3 gap-2 sm:gap-2.5 payment-picker">
-              <a href={checkoutUrl}
+              <a href={buyUrl}
                  id="checkout-card-btn"
                  aria-label="Mit Kreditkarte bezahlen (Visa, Mastercard)"
                  class="pay-btn pay-btn--active"
