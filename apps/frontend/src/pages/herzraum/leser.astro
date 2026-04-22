@@ -60,7 +60,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
               new Chart(document.getElementById('chart-reg').getContext('2d'), {
                 type: 'bar',
                 data: { labels: stats.charts.registrationsByDay.map(d=>d.date.slice(5)), datasets: [{ label: 'Registrierungen', data: stats.charts.registrationsByDay.map(d=>d.count), backgroundColor: 'rgba(244,63,94,0.5)', borderColor: '#f43f5e', borderWidth: 1 }] },
-                options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#94a3b8' }, grid: { color: 'transparent' } }, y: { ticks: { color: '#94a3b8', precision: 0 }, grid: { color: '#2a2a3a' }, beginAtZero: true } } },
+                options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#64748b' }, grid: { color: 'transparent' } }, y: { ticks: { color: '#64748b', precision: 0 }, grid: { color: 'rgba(15,23,42,0.06)' }, beginAtZero: true } } },
               });
             } catch (err) { console.error('[leser] chart:', err); }
           }

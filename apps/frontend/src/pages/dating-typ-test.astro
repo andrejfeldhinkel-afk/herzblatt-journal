@@ -289,12 +289,29 @@ const description = "Entdecke deinen Dating-Persönlichkeitstyp mit unserem unte
       display: flex;
       align-items: center;
       gap: 0.5rem;
+      margin: 0.35rem 0 0.75rem;
     }
+    /* Fix: Tailwind preflight setzt svg auf display:block → Stars stackten vertikal.
+       Inline-Flex-Wrapper erzwingt horizontale Anordnung. */
+    #topStars, .top-rec-rating #topStars {
+      display: inline-flex;
+      align-items: center;
+      gap: 2px;
+    }
+    #topStars svg { display: block; }
 
     .top-rec-rating-num {
       font-weight: 800;
-      font-size: 1.1rem;
+      font-size: 1.05rem;
       color: var(--text);
+      font-variant-numeric: tabular-nums;
+      letter-spacing: 0.01em;
+    }
+    .top-rec-rating-num::after {
+      content: ' / 5';
+      font-weight: 500;
+      color: var(--text-muted);
+      font-size: 0.85em;
     }
 
     .top-rec-desc {

@@ -102,7 +102,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
               new Chart(document.getElementById('chart-growth').getContext('2d'), {
                 type: 'line',
                 data: { labels: labels.map(l => l.slice(5)), datasets: [{ label: 'Abonnenten', data: values, borderColor: '#f43f5e', backgroundColor: 'rgba(244,63,94,0.15)', tension: 0.25, fill: true, borderWidth: 2 }] },
-                options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#94a3b8', maxTicksLimit: 12 }, grid: { color: '#2a2a3a' } }, y: { ticks: { color: '#94a3b8', precision: 0 }, grid: { color: '#2a2a3a' }, beginAtZero: true } } },
+                options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#64748b', maxTicksLimit: 12 }, grid: { color: 'rgba(15,23,42,0.06)' } }, y: { ticks: { color: '#64748b', precision: 0 }, grid: { color: 'rgba(15,23,42,0.06)' }, beginAtZero: true } } },
               });
             } catch (err) { console.error('[newsletter] chart error:', err); }
           } else {

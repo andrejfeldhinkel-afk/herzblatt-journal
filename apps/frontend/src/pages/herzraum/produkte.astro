@@ -470,8 +470,15 @@ const sourcesJson = JSON.stringify(SOURCE_LABELS);
       err.style.display = 'none'; ok.style.display = 'none';
 
       const badges = $('m-badges').value.split(',').map((b) => b.trim()).filter(Boolean).slice(0, 5);
-      const priceStr = $('m-price').value.trim();
-      const priceCents = priceStr ? Math.round(parseFloat(priceStr) * 100) : null;
+      // Decimal-Komma-Safe: Deutsche User tippen oft "19,99" — parseFloat truncate auf 19.
+      // Wir normalisieren Komma → Punkt bevor wir parsen.
+      const priceStr = $('m-price').value.trim().replace(',', '.');
+      const priceNum = priceStr ? parseFloat(priceStr) : NaN;
+      if (priceStr && (isNaN(priceNum) || priceNum < 0)) {
+        err.textContent = 'Ungültiger Preis. Bitte Zahl eingeben (z.B. 19.99 oder 19,99).';
+        err.style.display = ''; return;
+      }
+      const priceCents = isNaN(priceNum) ? null : Math.round(priceNum * 100);
 
       const body = {
         name: $('m-name').value.trim(),
