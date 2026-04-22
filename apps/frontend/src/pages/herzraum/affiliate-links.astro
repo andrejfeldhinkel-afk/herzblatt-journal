@@ -8,7 +8,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
     <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; flex-wrap: wrap; margin-bottom: 0.5rem;">
       <div>
         <h2 style="margin: 0 0 0.35rem 0; font-size: 1.5rem; font-weight: 700;">🔗 Kampagnen-Links</h2>
-        <p style="color: var(--hz-text-muted, #94a3b8); font-size: 0.9rem; margin: 0; max-width: 58rem;">
+        <p style="color: var(--hz-text-muted, #475569); font-size: 0.9rem; margin: 0; max-width: 58rem;">
           Erstelle getrackte Links für deine Social-Media-Posts. Beispiel: Slug <code style="background: rgba(15,23,42,0.06); padding: 0.1rem 0.35rem; border-radius: 3px;">tiktok</code> → <code style="background: rgba(15,23,42,0.06); padding: 0.1rem 0.35rem; border-radius: 3px;">herzblatt-journal.com/go/tiktok</code>. Postest du auf TikTok, landen User auf deiner Startseite — und du siehst wie viele Klicks, woher sie kommen und welcher Post bringt.
         </p>
       </div>
@@ -27,18 +27,18 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
       <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem;">
         <div>
           <label style="display: block; font-size: 0.8rem; font-weight: 600; margin-bottom: 0.35rem; color: var(--hz-text-muted);">Name *</label>
-          <input id="f-name" required placeholder="z.B. TikTok Bio April 2026" style="width: 100%; padding: 0.55rem 0.75rem; border-radius: 6px; background: var(--hz-bg, #0f0f14); border: 1px solid var(--hz-border, #2a2a3a); color: var(--hz-text, #f8fafc); font-size: 0.9rem;" />
+          <input id="f-name" required placeholder="z.B. TikTok Bio April 2026" style="width: 100%; padding: 0.55rem 0.75rem; border-radius: 6px; background: var(--hz-bg, #f7f8fb); border: 1px solid var(--hz-border, rgba(15,23,42,0.12)); color: var(--hz-text, #0f172a); font-size: 0.9rem;" />
         </div>
         <div>
           <label style="display: block; font-size: 0.8rem; font-weight: 600; margin-bottom: 0.35rem; color: var(--hz-text-muted);">Slug * <span style="opacity: 0.6; font-weight: 400;">(erscheint in /go/&lt;slug&gt;)</span></label>
-          <input id="f-slug" required pattern="[a-z0-9][a-z0-9-]{1,60}" placeholder="tiktok-apr-26" style="width: 100%; padding: 0.55rem 0.75rem; border-radius: 6px; background: var(--hz-bg, #0f0f14); border: 1px solid var(--hz-border, #2a2a3a); color: var(--hz-text, #f8fafc); font-size: 0.9rem; font-family: monospace;" />
+          <input id="f-slug" required pattern="[a-z0-9][a-z0-9-]{1,60}" placeholder="tiktok-apr-26" style="width: 100%; padding: 0.55rem 0.75rem; border-radius: 6px; background: var(--hz-bg, #f7f8fb); border: 1px solid var(--hz-border, rgba(15,23,42,0.12)); color: var(--hz-text, #0f172a); font-size: 0.9rem; font-family: monospace;" />
         </div>
       </div>
 
       <div>
         <label style="display: block; font-size: 0.8rem; font-weight: 600; margin-bottom: 0.35rem; color: var(--hz-text-muted);">Ziel-URL <span style="opacity: 0.6; font-weight: 400;">(optional — leer lassen für Kampagnen-Modus)</span></label>
-        <input id="f-target" type="url" placeholder="Leer = User landet auf deiner Startseite mit UTM-Tracking" style="width: 100%; padding: 0.55rem 0.75rem; border-radius: 6px; background: var(--hz-bg, #0f0f14); border: 1px solid var(--hz-border, #2a2a3a); color: var(--hz-text, #f8fafc); font-size: 0.9rem; font-family: monospace;" />
-        <p style="font-size: 0.75rem; color: var(--hz-text-muted, #94a3b8); margin: 0.4rem 0 0 0; line-height: 1.5;">
+        <input id="f-target" type="url" placeholder="Leer = User landet auf deiner Startseite mit UTM-Tracking" style="width: 100%; padding: 0.55rem 0.75rem; border-radius: 6px; background: var(--hz-bg, #f7f8fb); border: 1px solid var(--hz-border, rgba(15,23,42,0.12)); color: var(--hz-text, #0f172a); font-size: 0.9rem; font-family: monospace;" />
+        <p style="font-size: 0.75rem; color: var(--hz-text-muted, #475569); margin: 0.4rem 0 0 0; line-height: 1.5;">
           <strong style="color: #fbbf24;">Kampagnen-Modus:</strong> Feld leer lassen. User landet auf <code style="background: rgba(15,23,42,0.06); padding: 0.05rem 0.25rem; border-radius: 3px;">herzblatt-journal.com/?utm_source=&lt;slug&gt;</code>. Für TikTok-/Insta-Bios.<br />
           <strong style="color: #22c55e;">Affiliate-Modus:</strong> Externe URL eintragen (Amazon, Parship etc.). Redirect zur angegebenen Adresse.
         </p>
@@ -47,11 +47,11 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
       <div style="display: grid; grid-template-columns: 1fr 2fr; gap: 0.75rem;">
         <div>
           <label style="display: block; font-size: 0.8rem; font-weight: 600; margin-bottom: 0.35rem; color: var(--hz-text-muted);">Kampagne <span style="opacity: 0.6; font-weight: 400;">(optional)</span></label>
-          <input id="f-campaign" placeholder="TikTok-Q2" style="width: 100%; padding: 0.55rem 0.75rem; border-radius: 6px; background: var(--hz-bg, #0f0f14); border: 1px solid var(--hz-border, #2a2a3a); color: var(--hz-text, #f8fafc); font-size: 0.9rem;" />
+          <input id="f-campaign" placeholder="TikTok-Q2" style="width: 100%; padding: 0.55rem 0.75rem; border-radius: 6px; background: var(--hz-bg, #f7f8fb); border: 1px solid var(--hz-border, rgba(15,23,42,0.12)); color: var(--hz-text, #0f172a); font-size: 0.9rem;" />
         </div>
         <div>
           <label style="display: block; font-size: 0.8rem; font-weight: 600; margin-bottom: 0.35rem; color: var(--hz-text-muted);">Notizen <span style="opacity: 0.6; font-weight: 400;">(nur für dich, nicht öffentlich)</span></label>
-          <input id="f-notes" placeholder="z.B. Link in Bio nach TikTok-Video X" style="width: 100%; padding: 0.55rem 0.75rem; border-radius: 6px; background: var(--hz-bg, #0f0f14); border: 1px solid var(--hz-border, #2a2a3a); color: var(--hz-text, #f8fafc); font-size: 0.9rem;" />
+          <input id="f-notes" placeholder="z.B. Link in Bio nach TikTok-Video X" style="width: 100%; padding: 0.55rem 0.75rem; border-radius: 6px; background: var(--hz-bg, #f7f8fb); border: 1px solid var(--hz-border, rgba(15,23,42,0.12)); color: var(--hz-text, #0f172a); font-size: 0.9rem;" />
         </div>
       </div>
 
@@ -61,7 +61,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
       </label>
 
       <div style="display: flex; gap: 0.5rem; justify-content: flex-end; margin-top: 0.25rem;">
-        <button type="button" id="btn-cancel" style="background: transparent; color: var(--hz-text-muted); border: 1px solid var(--hz-border, #2a2a3a); padding: 0.55rem 1.1rem; border-radius: 6px; cursor: pointer; font-size: 0.9rem;">Abbrechen</button>
+        <button type="button" id="btn-cancel" style="background: transparent; color: var(--hz-text-muted); border: 1px solid var(--hz-border, rgba(15,23,42,0.12)); padding: 0.55rem 1.1rem; border-radius: 6px; cursor: pointer; font-size: 0.9rem;">Abbrechen</button>
         <button type="submit" id="btn-save" style="background: linear-gradient(135deg, #f43f5e, #e11d48); color: white; border: none; padding: 0.55rem 1.3rem; border-radius: 6px; font-weight: 600; cursor: pointer; font-size: 0.9rem;">Speichern</button>
       </div>
 
@@ -264,42 +264,42 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
             <div style="display: grid; grid-template-columns: 1fr auto; gap: 1rem; align-items: start; margin-bottom: 0.85rem;">
               <div style="min-width: 0;">
                 <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.35rem; flex-wrap: wrap;">
-                  <strong style="font-size: 1.05rem; color: var(--hz-text, #f8fafc);">${esc(link.name)}</strong>
+                  <strong style="font-size: 1.05rem; color: var(--hz-text, #0f172a);">${esc(link.name)}</strong>
                   ${isCampaign
                     ? '<span style="font-size: 0.7rem; background: rgba(251,191,36,0.15); color: #fbbf24; padding: 0.15rem 0.5rem; border-radius: 4px; font-weight: 600;">KAMPAGNE</span>'
                     : '<span style="font-size: 0.7rem; background: rgba(34,197,94,0.15); color: #22c55e; padding: 0.15rem 0.5rem; border-radius: 4px; font-weight: 600;">AFFILIATE</span>'}
                   ${link.campaign ? `<span style="font-size: 0.7rem; background: rgba(244,63,94,0.15); color: #fca5a5; padding: 0.15rem 0.5rem; border-radius: 4px; font-weight: 600;">${esc(link.campaign)}</span>` : ''}
                   ${!link.active ? `<span style="font-size: 0.7rem; background: rgba(156,163,175,0.15); color: #9ca3af; padding: 0.15rem 0.5rem; border-radius: 4px; font-weight: 600;">INAKTIV</span>` : ''}
                 </div>
-                <div style="font-size: 0.8rem; color: var(--hz-text-muted, #94a3b8); margin-bottom: 0.15rem;">
+                <div style="font-size: 0.8rem; color: var(--hz-text-muted, #475569); margin-bottom: 0.15rem;">
                   → <span style="font-family: monospace;">${esc(targetDomain)}</span>
                 </div>
-                ${link.notes ? `<div style="font-size: 0.78rem; color: var(--hz-text-muted, #94a3b8); font-style: italic; margin-top: 0.35rem;">📝 ${esc(link.notes)}</div>` : ''}
+                ${link.notes ? `<div style="font-size: 0.78rem; color: var(--hz-text-muted, #475569); font-style: italic; margin-top: 0.35rem;">📝 ${esc(link.notes)}</div>` : ''}
               </div>
 
               <div style="text-align: right; min-width: 110px;">
-                <div style="font-size: 1.6rem; font-weight: 700; line-height: 1; color: var(--hz-text, #f8fafc); font-variant-numeric: tabular-nums;">${fmtNum(clicks.total)}</div>
-                <div style="font-size: 0.7rem; color: var(--hz-text-muted, #94a3b8); margin-top: 0.15rem;">Klicks gesamt</div>
+                <div style="font-size: 1.6rem; font-weight: 700; line-height: 1; color: var(--hz-text, #0f172a); font-variant-numeric: tabular-nums;">${fmtNum(clicks.total)}</div>
+                <div style="font-size: 0.7rem; color: var(--hz-text-muted, #475569); margin-top: 0.15rem;">Klicks gesamt</div>
                 <div style="font-size: 0.75rem; color: #22c55e; margin-top: 0.35rem; font-weight: 600;">+${fmtNum(clicks.last7d)} · 7T</div>
               </div>
             </div>
 
             <div style="display: grid; grid-template-columns: 1fr auto; gap: 0.5rem; align-items: center; padding: 0.55rem 0.75rem; background: rgba(15,23,42,0.04); border: 1px solid rgba(15,23,42,0.06); border-radius: 6px; margin-bottom: 0.75rem;">
               <code style="font-size: 0.82rem; color: #fbbf24; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-family: monospace;">${esc(short)}</code>
-              <button class="btn-copy" data-slug="${esc(link.slug)}" style="background: rgba(15,23,42,0.08); color: var(--hz-text, #f8fafc); border: 1px solid rgba(15,23,42,0.12); padding: 0.3rem 0.75rem; border-radius: 5px; font-size: 0.75rem; font-weight: 600; cursor: pointer; white-space: nowrap;">📋 Kopieren</button>
+              <button class="btn-copy" data-slug="${esc(link.slug)}" style="background: rgba(15,23,42,0.08); color: var(--hz-text, #0f172a); border: 1px solid rgba(15,23,42,0.12); padding: 0.3rem 0.75rem; border-radius: 5px; font-size: 0.75rem; font-weight: 600; cursor: pointer; white-space: nowrap;">📋 Kopieren</button>
             </div>
 
             <div style="display: flex; align-items: center; justify-content: space-between; gap: 0.75rem; flex-wrap: wrap;">
-              <div style="font-size: 0.8rem; color: var(--hz-text-muted, #94a3b8);">
+              <div style="font-size: 0.8rem; color: var(--hz-text-muted, #475569);">
                 ${clicks.topRef
-                  ? `<span style="opacity: 0.7;">Top-Quelle:</span> <strong style="color: var(--hz-text, #f8fafc);">${esc(clicks.topRef)}</strong> (${fmtNum(clicks.topRefCount)} Klicks)`
+                  ? `<span style="opacity: 0.7;">Top-Quelle:</span> <strong style="color: var(--hz-text, #0f172a);">${esc(clicks.topRef)}</strong> (${fmtNum(clicks.topRefCount)} Klicks)`
                   : '<span style="opacity: 0.6;">Noch keine Klicks empfangen</span>'}
               </div>
               <div style="display: flex; gap: 0.4rem;">
                 ${link.targetUrl
-                  ? `<a href="${esc(link.targetUrl)}" target="_blank" rel="noopener" style="background: transparent; color: var(--hz-text-muted, #94a3b8); border: 1px solid var(--hz-border, #2a2a3a); padding: 0.3rem 0.7rem; border-radius: 5px; font-size: 0.75rem; cursor: pointer; text-decoration: none;">Ziel öffnen ↗</a>`
-                  : `<a href="${esc(short)}" target="_blank" rel="noopener" style="background: transparent; color: var(--hz-text-muted, #94a3b8); border: 1px solid var(--hz-border, #2a2a3a); padding: 0.3rem 0.7rem; border-radius: 5px; font-size: 0.75rem; cursor: pointer; text-decoration: none;">Link testen ↗</a>`}
-                <button class="btn-edit" data-slug="${esc(link.slug)}" style="background: transparent; color: var(--hz-text-muted, #94a3b8); border: 1px solid var(--hz-border, #2a2a3a); padding: 0.3rem 0.7rem; border-radius: 5px; font-size: 0.75rem; cursor: pointer;">Bearbeiten</button>
+                  ? `<a href="${esc(link.targetUrl)}" target="_blank" rel="noopener" style="background: transparent; color: var(--hz-text-muted, #475569); border: 1px solid var(--hz-border, rgba(15,23,42,0.12)); padding: 0.3rem 0.7rem; border-radius: 5px; font-size: 0.75rem; cursor: pointer; text-decoration: none;">Ziel öffnen ↗</a>`
+                  : `<a href="${esc(short)}" target="_blank" rel="noopener" style="background: transparent; color: var(--hz-text-muted, #475569); border: 1px solid var(--hz-border, rgba(15,23,42,0.12)); padding: 0.3rem 0.7rem; border-radius: 5px; font-size: 0.75rem; cursor: pointer; text-decoration: none;">Link testen ↗</a>`}
+                <button class="btn-edit" data-slug="${esc(link.slug)}" style="background: transparent; color: var(--hz-text-muted, #475569); border: 1px solid var(--hz-border, rgba(15,23,42,0.12)); padding: 0.3rem 0.7rem; border-radius: 5px; font-size: 0.75rem; cursor: pointer;">Bearbeiten</button>
                 <button class="btn-delete" data-slug="${esc(link.slug)}" data-name="${esc(link.name)}" style="background: transparent; color: #fca5a5; border: 1px solid rgba(239,68,68,0.3); padding: 0.3rem 0.7rem; border-radius: 5px; font-size: 0.75rem; cursor: pointer;">Löschen</button>
               </div>
             </div>

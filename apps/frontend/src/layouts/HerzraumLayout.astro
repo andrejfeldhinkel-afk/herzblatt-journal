@@ -343,10 +343,9 @@ const navSections = [
       font-size: 1.875rem; font-weight: 800;
       font-family: 'Playfair Display', serif; line-height: 1.1;
       letter-spacing: -0.03em;
-      background: linear-gradient(180deg, var(--hz-text), var(--hz-text-muted));
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
+      color: var(--hz-text);
+      font-variant-numeric: tabular-nums;
+      font-feature-settings: "tnum";
     }
     .hz-kpi-delta { font-size: 0.75rem; margin-top: 0.35rem; display: inline-flex; align-items: center; gap: 0.3rem; font-weight: 500; }
     .hz-kpi-delta.up { color: var(--hz-success); }
@@ -500,6 +499,48 @@ const navSections = [
 
     /* Selection */
     ::selection { background: var(--hz-primary-glow); color: var(--hz-text); }
+
+    /* ── Global Accessibility: Focus-Visible ring ───────── */
+    :focus { outline: none; }
+    :focus-visible {
+      outline: 2px solid var(--hz-primary);
+      outline-offset: 2px;
+      border-radius: 4px;
+    }
+    .hz-nav a:focus-visible {
+      background: var(--hz-surface-2);
+      color: var(--hz-text);
+      outline-offset: -2px;
+    }
+    .hz-table tbody tr:focus-within {
+      background: rgba(225,29,72,0.06);
+    }
+
+    /* ── Utility: Stack (vertikale Abstände) ────────────── */
+    .hz-stack > * + * { margin-top: 1rem; }
+    .hz-stack-lg > * + * { margin-top: 1.5rem; }
+    .hz-stack-xl > * + * { margin-top: 2rem; }
+
+    /* ── Empty-State Pattern ────────────────────────────── */
+    .hz-empty {
+      text-align: center; padding: 3rem 1.5rem;
+      color: var(--hz-text-muted);
+      background: var(--hz-surface);
+      border: 1px dashed var(--hz-border-strong);
+      border-radius: var(--hz-radius);
+    }
+    .hz-empty-icon {
+      display: inline-flex; align-items: center; justify-content: center;
+      width: 48px; height: 48px; border-radius: 50%;
+      background: var(--hz-primary-light); color: var(--hz-primary);
+      margin-bottom: 0.75rem;
+    }
+    .hz-empty-title {
+      font-family: 'Playfair Display', serif; font-weight: 700;
+      font-size: 1.125rem; color: var(--hz-text);
+      margin-bottom: 0.4rem;
+    }
+    .hz-empty-sub { font-size: 0.875rem; max-width: 28rem; margin: 0 auto; line-height: 1.5; }
   </style>
   <slot name="head" />
 </head>

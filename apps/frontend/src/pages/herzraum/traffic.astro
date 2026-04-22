@@ -95,7 +95,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         charts.daily = new Chart(el.getContext('2d'), {
           type: 'line',
           data: { labels: data.map(d => d.date.slice(5)), datasets: [{ label: 'Aufrufe', data: data.map(d => d.count), borderColor: '#f43f5e', backgroundColor: 'rgba(244,63,94,0.12)', tension: 0.35, fill: true, borderWidth: 2 }] },
-          options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#94a3b8' }, grid: { color: '#2a2a3a' } }, y: { ticks: { color: '#94a3b8', precision: 0 }, grid: { color: '#2a2a3a' }, beginAtZero: true } } },
+          options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#64748b' }, grid: { color: 'rgba(15,23,42,0.06)' } }, y: { ticks: { color: '#64748b', precision: 0 }, grid: { color: 'rgba(15,23,42,0.06)' }, beginAtZero: true } } },
         });
       }
 
@@ -105,7 +105,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         charts[id] = new Chart(el.getContext('2d'), {
           type: 'bar',
           data: { labels: data.map(d => d[labelKey]), datasets: [{ label, data: data.map(d => d[valueKey]), backgroundColor: 'rgba(244,63,94,0.5)', borderColor: '#f43f5e', borderWidth: 1 }] },
-          options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#94a3b8' }, grid: { color: 'transparent' } }, y: { ticks: { color: '#94a3b8', precision: 0 }, grid: { color: '#2a2a3a' }, beginAtZero: true } } },
+          options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#64748b' }, grid: { color: 'transparent' } }, y: { ticks: { color: '#64748b', precision: 0 }, grid: { color: 'rgba(15,23,42,0.06)' }, beginAtZero: true } } },
         });
       }
 
