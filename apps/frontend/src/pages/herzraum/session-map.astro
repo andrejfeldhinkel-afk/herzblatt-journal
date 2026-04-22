@@ -8,13 +8,12 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
     --fg: #f3f4f8;
     --muted: #7a7d8f;
     --muted-2: #a5a7b8;
-    --line: rgba(255,255,255,.08);
+    --line: rgba(255,255,255,.09);
     --rose: #ff3868;
     --magenta: #ec4899;
     --cyan: #22d3ee;
     --violet: #a78bfa;
     --amber: #fbbf24;
-    --orange: #fb923c;
     --green: #22c55e;
     --green-2: #10b981;
     --panel: rgba(10,8,24,.82);
@@ -29,7 +28,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
     color: var(--fg);
     font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; }
 
-  .stars { position: fixed; inset: 0; pointer-events: none; opacity: 0.25;
+  .stars { position: fixed; inset: 0; pointer-events: none; opacity: 0.22; z-index: 0;
     background-image:
       radial-gradient(1px 1px at 20% 30%, white, transparent),
       radial-gradient(1px 1px at 60% 70%, white, transparent),
@@ -40,36 +39,49 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
       radial-gradient(1px 1px at 40% 40%, white, transparent),
       radial-gradient(2px 2px at 70% 20%, white, transparent);
     background-repeat: repeat; background-size: 250px 250px;
-    animation: starDrift 120s linear infinite; z-index: 0; }
-  @keyframes starDrift {
-    from { background-position: 0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0; }
-    to { background-position: 1000px 500px,800px 400px,600px 300px,900px 450px,700px 350px,500px 250px,400px 200px,300px 150px; }
-  }
+    animation: starDrift 120s linear infinite; }
+  @keyframes starDrift { to { background-position: 1000px 500px,800px 400px,600px 300px,900px 450px,700px 350px,500px 250px,400px 200px,300px 150px; } }
 
+  /* ── Header ── */
   .sm-header { position: fixed; top: 0; left: 0; right: 0; height: 56px; padding: 0 20px;
     display: flex; align-items: center; gap: 18px; z-index: 20;
-    background: linear-gradient(180deg, rgba(4,4,12,.95), rgba(4,4,12,.7));
+    background: linear-gradient(180deg, rgba(4,4,12,.95), rgba(4,4,12,.6));
     border-bottom: 1px solid var(--line); }
   .brand { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .2em;
     font-weight: 600; display: inline-flex; align-items: center; gap: 10px; }
   .brand-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--rose);
-    box-shadow: 0 0 16px var(--rose), 0 0 32px var(--rose); animation: pulse 2s infinite; }
-  @keyframes pulse { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:.6;transform:scale(1.2)} }
+    box-shadow: 0 0 16px var(--rose); animation: pulse 2s infinite; }
+  @keyframes pulse { 50%{opacity:.6;transform:scale(1.2)} }
   .sm-header h1 { margin: 0; font-size: 18px; font-weight: 800; letter-spacing: -.03em;
     background: linear-gradient(90deg, #ff3868, #ec4899 35%, #a78bfa 65%, #22d3ee);
     background-size: 200% auto; -webkit-background-clip: text; background-clip: text; color: transparent;
     animation: titleShift 8s linear infinite; }
-  @keyframes titleShift { from{background-position:0% center} to{background-position:200% center} }
-  .sub { font-size: 11px; color: var(--muted-2); letter-spacing: .02em; }
+  @keyframes titleShift { to { background-position: 200% center; } }
+  .sub { font-size: 11px; color: var(--muted-2); }
   .status-live { margin-left: auto; font-size: 11px; color: var(--green); font-weight: 600;
     display: inline-flex; align-items: center; gap: 6px; }
   .status-live::before { content:''; width:6px; height:6px; border-radius:50%; background: var(--green);
     box-shadow: 0 0 10px var(--green); }
 
-  .sm-stage { position: fixed; top: 56px; left: 0; right: 0; bottom: 0;
-    z-index: 1; overflow: hidden; }
-  .sm-svg { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
+  /* ── Stage + Layers ── */
+  .sm-stage { position: fixed; top: 56px; left: 0; right: 0; bottom: 84px;
+    z-index: 1; overflow: hidden; cursor: grab; }
+  .sm-stage:active { cursor: grabbing; }
+  .sm-stage.dragging-node { cursor: grabbing; }
 
+  .sm-viewport { position: absolute; inset: 0;
+    transform-origin: center center;
+    transition: transform .12s cubic-bezier(.25,.8,.25,1); }
+
+  .sm-svg { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
+  .edge { stroke: rgba(255,255,255,.12); stroke-width: 1; fill: none;
+    transition: stroke .3s, stroke-width .3s, stroke-opacity .3s; }
+  .edge.thin { stroke-width: 0.8; stroke: rgba(255,255,255,.06); }
+  .edge.connected { stroke: var(--rose); stroke-width: 2; stroke-opacity: 1;
+    filter: drop-shadow(0 0 6px var(--rose)); }
+  .edge.time-hidden, .node.time-hidden { opacity: 0; pointer-events: none; }
+
+  /* ── Panels (Glass) ── */
   .panel { position: fixed; padding: 16px 18px; background: var(--panel);
     backdrop-filter: blur(24px) saturate(140%); -webkit-backdrop-filter: blur(24px) saturate(140%);
     border: 1px solid var(--panel-border); border-radius: 14px;
@@ -78,12 +90,14 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
     letter-spacing: .15em; font-weight: 700; }
   #legend { top: 76px; left: 20px; width: 220px; font-size: 11.5px; }
   #stats { top: 76px; right: 20px; width: 280px; }
-  #activity { bottom: 20px; left: 20px; width: 380px; max-height: 220px; overflow-y: auto; font-size: 11px; }
+  #activity { bottom: 104px; left: 20px; width: 380px; max-height: 240px; overflow-y: auto; font-size: 11px; }
+  #detail-panel { top: 76px; right: 20px; width: 340px; display: none; z-index: 30; }
+  #detail-panel.open { display: block; }
 
   .leg-row { display: flex; align-items: center; gap: 10px; margin: 5px 0; color: var(--muted); }
   .leg-row b { color: var(--fg); font-weight: 500; }
   .leg-dot { width: 11px; height: 11px; border-radius: 50%; flex-shrink: 0;
-    box-shadow: 0 0 12px currentColor, 0 0 24px currentColor; }
+    box-shadow: 0 0 12px currentColor; }
   .leg-note { margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--line);
     font-size: 10.5px; color: var(--muted); line-height: 1.5; }
 
@@ -91,7 +105,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
     color: var(--muted); font-size: 12px; }
   .stat-row b { color: var(--fg); font-weight: 600; font-variant-numeric: tabular-nums; }
   .stat-big { display: flex; align-items: baseline; gap: 6px; font-size: 26px; font-weight: 800;
-    font-variant-numeric: tabular-nums; letter-spacing: -.02em; }
+    letter-spacing: -.02em; }
   .stat-big small { font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: .15em; }
   .stat-divider { height: 1px; background: var(--line); margin: 12px 0; }
 
@@ -103,603 +117,143 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
     letter-spacing: .1em; font-weight: 700; flex-shrink: 0; }
   .log-cat.pr { background: rgba(34,197,94,.15); color: var(--green); }
   .log-cat.sec { background: rgba(255,56,104,.15); color: var(--rose); }
-  .log-cat.agent { background: rgba(167,139,250,.15); color: var(--violet); }
   .log-cat.deploy { background: rgba(251,191,36,.15); color: var(--amber); }
   .log-text { flex: 1; color: var(--muted-2); line-height: 1.4; font-size: 11px; }
 
-  /* Edges */
-  .edge { stroke: rgba(255,255,255,.09); stroke-width: 1; fill: none; transition: stroke .3s; }
-  .edge.active { stroke: var(--rose); stroke-width: 1.5; stroke-opacity: .5;
-    filter: drop-shadow(0 0 3px var(--rose)); }
-  .edge.flow { stroke-dasharray: 4 2; animation: flow .8s linear infinite; }
-  @keyframes flow { 0% { stroke-dashoffset: 20; } 100% { stroke-dashoffset: 0; } }
-
-  /* Hub rings */
-  .hub-ring { position: absolute; transform: translate(-50%, -50%); border-radius: 50%;
-    border: 1px solid var(--rose); pointer-events: none; opacity: 0; }
-  .hub-ring.r1 { animation: ringExpand 3s ease-out infinite; }
-  .hub-ring.r2 { animation: ringExpand 3s ease-out infinite 1s; }
-  .hub-ring.r3 { animation: ringExpand 3s ease-out infinite 2s; }
-  @keyframes ringExpand {
-    0% { width: 60px; height: 60px; opacity: .6; border-width: 2px; }
-    100% { width: 320px; height: 320px; opacity: 0; border-width: .5px; }
-  }
-
-  /* Nodes */
-  .node { position: absolute; transform: translate(-50%, -50%);
+  /* ── Nodes ── */
+  .node { position: absolute; left: 0; top: 0; transform: translate(-50%, -50%);
     display: flex; flex-direction: column; align-items: center; gap: 6px;
-    text-align: center; cursor: pointer; z-index: 3; transition: transform .3s cubic-bezier(.2,.8,.2,1); }
-  .node:hover { transform: translate(-50%, -50%) scale(1.1); z-index: 20; }
+    text-align: center; cursor: grab; z-index: 3; user-select: none;
+    transition: filter .25s ease, opacity .25s ease; }
+  .node:active { cursor: grabbing; }
+  .node[data-id="main"] { cursor: default; }
   .node .circle { border-radius: 50%; background: currentColor;
-    border: 2px solid rgba(255,255,255,.15); transition: all .3s; }
-  .node.done .circle { border-color: var(--green); box-shadow: 0 0 10px var(--green); }
-  .node.running .circle {
-    box-shadow: 0 0 14px currentColor, 0 0 30px currentColor;
-    animation: nodePulse 1.8s ease-in-out infinite; }
-  @keyframes nodePulse {
-    0%,100% { transform: scale(1); } 50% { transform: scale(1.1); }
+    border: 2px solid rgba(255,255,255,.15);
+    transition: transform .18s cubic-bezier(.25,.8,.25,1), box-shadow .18s; }
+  .node.done .circle { box-shadow: 0 0 12px currentColor; }
+  .node:hover .circle {
+    transform: scale(1.22);
+    box-shadow: 0 0 24px currentColor, 0 0 48px currentColor;
+  }
+  .node[data-id="main"] .circle {
+    animation: pulseMain 2.4s ease-in-out infinite;
+  }
+  @keyframes pulseMain {
+    0%,100% { box-shadow: 0 0 16px currentColor, 0 0 32px currentColor; }
+    50% { box-shadow: 0 0 28px currentColor, 0 0 64px currentColor; }
   }
   .node .label { font-size: 11px; font-weight: 600; color: var(--fg);
-    text-shadow: 0 2px 6px rgba(0,0,0,.9); max-width: 140px; line-height: 1.2; }
+    text-shadow: 0 2px 6px rgba(0,0,0,.9); max-width: 140px; line-height: 1.2;
+    pointer-events: none; }
   .node .node-sub { font-size: 9px; color: var(--muted); text-transform: uppercase; letter-spacing: .05em;
-    max-width: 140px; line-height: 1.3; }
+    max-width: 140px; line-height: 1.3; pointer-events: none; }
 
-  /* Tooltip */
-  #tooltip { position: fixed; padding: 12px 16px; background: rgba(12,10,24,.95);
-    backdrop-filter: blur(24px); border: 1px solid var(--rose); border-radius: 10px;
-    font-size: 12px; pointer-events: none; opacity: 0; transition: opacity .15s;
-    z-index: 1000; max-width: 340px; box-shadow: 0 16px 48px rgba(0,0,0,.6), 0 0 24px rgba(244,63,94,.25); }
-  #tooltip h4 { margin: 0 0 6px; color: var(--fg); font-size: 14px; font-weight: 700; }
-  #tooltip .tt-sub { color: var(--rose); font-size: 10.5px; text-transform: uppercase;
-    letter-spacing: .15em; margin-bottom: 8px; font-weight: 700; }
-  #tooltip p { margin: 4px 0; color: var(--muted); line-height: 1.5; font-size: 11.5px; }
-  #tooltip .tt-state { display: inline-block; margin-top: 8px; padding: 3px 9px; border-radius: 4px;
-    background: rgba(244,63,94,.15); color: var(--rose); font-size: 10px;
-    text-transform: uppercase; letter-spacing: .12em; font-weight: 700; }
-
-  @media (max-width: 1100px) {
-    #legend, #stats { display: none; }
-    #activity { width: calc(100vw - 40px); max-width: 380px; }
+  /* Agent cluster coloring — PRs get outer ring in origin-agent color */
+  .node[data-origin-color] .circle {
+    box-shadow: 0 0 0 2.5px var(--origin-color, transparent), 0 0 16px currentColor;
   }
 
-/* ─── Mode-Toggle ─── */
-.mode-toggle {
-  display: inline-flex; gap: 2px; padding: 3px;
-  background: rgba(255,255,255,.05);
-  border: 1px solid rgba(255,255,255,.08);
-  border-radius: 10px;
-  margin-left: auto;
-  font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
-}
-.mode-btn {
-  padding: 7px 16px; font-size: 12px; font-weight: 600;
-  color: var(--muted, #7a7d8f); background: transparent;
-  border: 0; border-radius: 7px; cursor: pointer;
-  transition: all .15s ease;
-  letter-spacing: 0.04em;
-}
-.mode-btn:hover { color: #f3f4f8; background: rgba(255,255,255,.04); }
-.mode-btn.active {
-  color: #f3f4f8;
-  background: rgba(255,56,104,.22);
-  box-shadow: inset 0 0 0 1px rgba(255,56,104,.4), 0 0 20px rgba(255,56,104,.15);
-}
+  /* Focus-Mode: clicked node highlighted, others dim */
+  .sm-stage.focus-mode .node:not(.focused) { opacity: 0.18; filter: saturate(0.4); }
+  .sm-stage.focus-mode .node.focused .circle {
+    transform: scale(1.4);
+    box-shadow: 0 0 32px currentColor, 0 0 80px currentColor, 0 0 120px currentColor;
+  }
+  .sm-stage.focus-mode .edge { opacity: 0.08; }
+  .sm-stage.focus-mode .edge.connected {
+    opacity: 1 !important; stroke-width: 2.5; stroke: var(--rose);
+    filter: drop-shadow(0 0 6px var(--rose)) drop-shadow(0 0 12px var(--rose));
+  }
 
-/* ─── Live-Vitals (top-right, always visible) ─── */
-.live-vitals {
-  position: fixed; top: 86px; right: 20px; z-index: 50;
-  width: 240px;
-  background: rgba(10,8,24,.8);
-  backdrop-filter: blur(14px);
-  border: 1px solid rgba(255,255,255,.08);
-  border-radius: 14px;
-  padding: 14px 16px;
-  font-family: 'SF Mono', ui-monospace, 'Menlo', monospace;
-  font-size: 11px;
-  color: var(--muted-2, #a5a7b8);
-}
-.live-vitals::before {
-  content: ''; position: absolute; inset: -1px;
-  border-radius: inherit; pointer-events: none;
-  background: linear-gradient(135deg, rgba(255,56,104,.4), rgba(34,211,238,.3), transparent 50%);
-  padding: 1px;
-  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
-  -webkit-mask-composite: xor; mask-composite: exclude;
-  opacity: 0.6;
-}
-.lv-row { display: flex; align-items: center; gap: 8px; padding: 4px 0;
-  border-bottom: 1px solid rgba(255,255,255,.04); }
-.lv-row:last-child { border-bottom: 0; }
-.lv-row b { margin-left: auto; color: #f3f4f8; font-weight: 700;
-  font-variant-numeric: tabular-nums; letter-spacing: 0.03em; }
-.lv-label { color: #64748b; text-transform: uppercase;
-  letter-spacing: 0.1em; font-size: 10px; }
-.lv-dot {
-  width: 8px; height: 8px; border-radius: 50%;
-  background: #22c55e; box-shadow: 0 0 10px #22c55e;
-  animation: lv-pulse 1.6s ease-in-out infinite;
-}
-@keyframes lv-pulse { 50% { box-shadow: 0 0 16px #22c55e, 0 0 4px #22c55e; } }
-.lv-pulse {
-  margin-left: auto; width: 4px; height: 4px; border-radius: 50%;
-  background: #22c55e; animation: lv-pulse 1.2s ease-in-out infinite;
-}
-.lv-tplus { color: #22d3ee !important; text-shadow: 0 0 8px rgba(34,211,238,.5); }
+  /* ── Detail-Panel ── */
+  #detail-panel { padding: 20px 22px; }
+  #detail-panel .dp-type { font-size: 10px; color: var(--rose); text-transform: uppercase;
+    letter-spacing: .18em; font-weight: 700; margin-bottom: 10px; display: inline-flex;
+    align-items: center; gap: 8px; }
+  #detail-panel .dp-close { position: absolute; top: 12px; right: 12px;
+    width: 26px; height: 26px; border-radius: 50%; border: 1px solid var(--line);
+    background: transparent; color: var(--muted-2); cursor: pointer;
+    font-size: 18px; line-height: 1; display: flex; align-items: center;
+    justify-content: center; transition: all .15s; }
+  #detail-panel .dp-close:hover { border-color: var(--rose); color: var(--rose); }
+  #detail-panel h4 { margin: 0 0 4px; font-size: 18px; font-weight: 800; letter-spacing: -.02em; }
+  #detail-panel .dp-sub { font-size: 11px; color: var(--muted-2); text-transform: uppercase;
+    letter-spacing: .12em; margin-bottom: 14px; }
+  #detail-panel .dp-desc { font-size: 13px; line-height: 1.55; color: var(--muted-2);
+    padding-top: 14px; border-top: 1px solid var(--line); }
+  #detail-panel .dp-impact { margin-top: 14px; padding: 12px 14px; border-radius: 10px;
+    background: rgba(255,56,104,.08); border: 1px solid rgba(255,56,104,.2); }
+  #detail-panel .dp-impact-label { font-size: 9px; color: var(--rose); text-transform: uppercase;
+    letter-spacing: .14em; font-weight: 700; margin-bottom: 4px; }
+  #detail-panel .dp-impact-metric { font-size: 14px; font-weight: 700; margin-bottom: 4px; }
+  #detail-panel .dp-impact-cost { font-size: 11px; color: var(--muted-2); line-height: 1.5; }
 
-/* Live-Vitals only visible on live tab, Stats-panel hidden on live */
-body[data-mode="map"] .live-vitals,
-body[data-mode="story"] .live-vitals { display: none; }
-body[data-mode="live"] #stats,
-body[data-mode="live"] #legend,
-body[data-mode="live"] #activity,
-body[data-mode="live"] .sm-stage,
-body[data-mode="live"] #story-container,
-body[data-mode="story"] #stats,
-body[data-mode="story"] #legend,
-body[data-mode="story"] #activity { display: none; }
-body[data-mode="live"] .sm-header,
-body[data-mode="story"] .sm-header { background: linear-gradient(180deg, rgba(4,4,12,.95), rgba(4,4,12,.7) 60%, transparent); }
+  /* ── Bottom Scrubber ── */
+  .sm-scrubber { position: fixed; bottom: 0; left: 0; right: 0; height: 84px; z-index: 25;
+    padding: 14px 24px 16px;
+    background: linear-gradient(180deg, transparent 0%, rgba(4,4,12,.85) 40%, rgba(4,4,12,.95) 100%);
+    backdrop-filter: blur(20px) saturate(140%);
+    border-top: 1px solid rgba(255,255,255,.08);
+    display: flex; flex-direction: column; gap: 8px; }
+  .scrubber-head { display: flex; align-items: center; gap: 14px;
+    font-size: 10.5px; color: var(--muted-2); letter-spacing: .08em;
+    text-transform: uppercase; font-weight: 600; }
+  .scrubber-head .sc-label { color: var(--rose); font-weight: 700; letter-spacing: .16em; }
+  .scrubber-head .sc-time {
+    font-family: 'SF Mono', ui-monospace, Menlo, monospace;
+    color: var(--cyan); font-size: 12px;
+    text-shadow: 0 0 8px rgba(34,211,238,.5);
+    font-variant-numeric: tabular-nums; letter-spacing: .03em; }
+  .sc-btn { display: inline-flex; align-items: center; gap: 6px;
+    padding: 4px 12px; font-size: 10.5px; font-weight: 700;
+    color: var(--fg); background: rgba(255,56,104,.22);
+    border: 1px solid rgba(255,56,104,.4);
+    border-radius: 6px; cursor: pointer;
+    transition: all .15s; text-transform: uppercase; letter-spacing: .1em;
+    font-family: inherit; }
+  .sc-btn:hover { background: rgba(255,56,104,.38); transform: translateY(-1px); }
+  .sc-btn.secondary { background: rgba(255,255,255,.05); border-color: rgba(255,255,255,.12); }
+  .sc-btn.secondary:hover { background: rgba(255,255,255,.1); }
+  .sc-track { position: relative; height: 28px; display: flex; align-items: center; }
+  .sc-ticks { position: absolute; inset: 0; pointer-events: none; }
+  .sc-tick span { position: absolute; top: -2px; font-size: 9px;
+    color: var(--muted); font-family: 'SF Mono', monospace; letter-spacing: .05em; white-space: nowrap; }
+  .sc-range { -webkit-appearance: none; appearance: none;
+    width: 100%; height: 4px;
+    background: linear-gradient(90deg,
+      var(--rose) 0%, var(--rose) var(--fill, 100%),
+      rgba(255,255,255,.08) var(--fill, 100%), rgba(255,255,255,.08) 100%);
+    border-radius: 4px; outline: none; cursor: pointer; position: relative; z-index: 2; }
+  .sc-range::-webkit-slider-thumb {
+    -webkit-appearance: none; width: 18px; height: 18px; border-radius: 50%;
+    background: radial-gradient(circle at 35% 35%, #ff6b8a, var(--rose) 60%, var(--magenta));
+    border: 2px solid #fff;
+    box-shadow: 0 0 0 2px rgba(255,56,104,.3), 0 0 16px rgba(255,56,104,.6);
+    cursor: grab; }
+  .sc-markers { position: absolute; inset: 0; pointer-events: none; display: flex; align-items: center; }
+  .sc-marker { position: absolute; width: 2px; height: 14px; background: #fff;
+    border-radius: 1px; box-shadow: 0 0 10px #fff, 0 0 20px var(--rose);
+    top: 50%; transform: translateY(-50%); }
+  .sc-speed { display: inline-flex; gap: 2px; margin-left: 6px;
+    background: rgba(15,15,30,.4); border: 1px solid rgba(255,255,255,.08);
+    border-radius: 6px; padding: 2px; }
+  .sc-speed-btn { padding: 3px 9px; font-size: 10px; font-weight: 700;
+    color: var(--muted-2); background: transparent; border: 0; border-radius: 4px; cursor: pointer;
+    font-family: 'SF Mono', monospace; transition: all .12s; }
+  .sc-speed-btn:hover { color: var(--fg); background: rgba(255,255,255,.05); }
+  .sc-speed-btn.active { color: var(--fg); background: rgba(34,211,238,.25);
+    box-shadow: inset 0 0 0 1px rgba(34,211,238,.4); }
 
-/* ─── Story-Container ─── */
-.story-container {
-  display: none; position: fixed; inset: 64px 0 0 0;
-  overflow-y: auto; overflow-x: hidden;
-  scroll-snap-type: y proximity;
-  padding: 0 5% 10vh 5%;
-  background: radial-gradient(ellipse at 30% 20%, rgba(139,92,246,.18), transparent 50%),
-              radial-gradient(ellipse at 70% 80%, rgba(255,56,104,.14), transparent 55%);
-}
-body[data-mode="story"] .story-container { display: block; }
+  /* ── Responsive ── */
+  @media (max-width: 1100px) { #legend, #stats, #detail-panel { display: none; }
+    #activity { width: calc(100vw - 40px); max-width: 380px; } }
+  @media (max-width: 700px) { .sm-scrubber { display: none; } .sm-stage { bottom: 0; } }
 
-.chapter {
-  min-height: calc(100vh - 64px);
-  display: grid; place-content: center; gap: 0.8rem;
-  max-width: 880px; margin: 0 auto;
-  padding: 8vh 0;
-  scroll-snap-align: start;
-  opacity: 0.3;
-  transition: opacity .4s ease;
-}
-.chapter.active { opacity: 1; }
-.ch-num {
-  font-family: 'SF Mono', ui-monospace, monospace;
-  font-size: 14px; font-weight: 700;
-  color: #ff3868;
-  letter-spacing: 0.3em;
-  text-shadow: 0 0 20px rgba(255,56,104,.6);
-}
-.ch-title {
-  font-family: 'Playfair Display', Georgia, serif;
-  font-size: clamp(2.2rem, 6vw, 4.5rem); font-weight: 800;
-  line-height: 1; letter-spacing: -0.03em;
-  color: #f3f4f8;
-  margin: 0;
-  background: linear-gradient(135deg, #f3f4f8 40%, #ff8da6 100%);
-  -webkit-background-clip: text; background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-.ch-lead {
-  font-size: 0.85rem;
-  font-family: 'SF Mono', ui-monospace, monospace;
-  color: #a5a7b8;
-  text-transform: uppercase; letter-spacing: 0.18em;
-  margin: 0;
-}
-.ch-body {
-  font-size: 1.1rem; line-height: 1.65;
-  color: #c5c7d4;
-  max-width: 68ch;
-}
-.ch-body b { color: #f3f4f8; font-weight: 600; }
-.ch-body code {
-  background: rgba(255,56,104,.12); color: #ff8da6;
-  padding: 1px 7px; border-radius: 4px;
-  font-family: 'SF Mono', ui-monospace, monospace;
-  font-size: 0.88em;
-}
-.ch-lessons {
-  list-style: none; padding: 0; margin: 0;
-  display: grid; gap: 1rem;
-}
-.ch-lessons li {
-  background: rgba(255,255,255,.03);
-  border: 1px solid rgba(255,255,255,.06);
-  border-left: 3px solid #22d3ee;
-  padding: 14px 18px; border-radius: 8px;
-  font-size: 0.95rem; line-height: 1.55;
-  color: #c5c7d4;
-}
-.ch-lessons li b { color: #22d3ee; font-weight: 600; }
-
-.impact-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-  gap: 0.75rem;
-  margin-top: 1rem;
-}
-.impact-grid.total { grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1rem; }
-.impact-card {
-  background: rgba(255,255,255,.03);
-  border: 1px solid rgba(255,255,255,.06);
-  border-radius: 10px;
-  padding: 14px 16px;
-  text-align: left;
-  transition: all .2s;
-}
-.impact-card:hover {
-  border-color: rgba(255,56,104,.3);
-  transform: translateY(-1px);
-  box-shadow: 0 4px 20px rgba(255,56,104,.08);
-}
-.impact-card b {
-  display: block;
-  font-family: 'Playfair Display', Georgia, serif;
-  font-size: 1.8rem; font-weight: 800;
-  color: #f3f4f8; line-height: 1;
-  font-variant-numeric: tabular-nums;
-}
-.impact-card span {
-  font-size: 0.7rem;
-  text-transform: uppercase; letter-spacing: 0.12em;
-  color: #7a7d8f;
-  margin-top: 6px; display: block;
-}
-.impact-card.critical b { color: #ff3868; text-shadow: 0 0 12px rgba(255,56,104,.4); }
-.impact-card.save b { color: #22c55e; text-shadow: 0 0 12px rgba(34,197,94,.4); }
-.impact-card.mega b { font-size: 2.6rem; }
-
-/* Story mode dims map nodes except highlighted */
-.sm-stage.story-dim .node { opacity: 0.12; transition: opacity .4s ease; }
-.sm-stage.story-dim .node.highlight { opacity: 1; filter: drop-shadow(0 0 10px currentColor); }
-.sm-stage.story-dim .edge { opacity: 0.08; }
-
-/* ═══════════════════════════════════════════════════════════════════════
-   FUTURE-MODE — Particle Flows, Radar Scanner, Timeline Scrubber
-   ═══════════════════════════════════════════════════════════════════════ */
-
-/* Canvas layer for particle flows (sits above SVG edges, below nodes) */
-.sm-particles {
-  position: absolute; inset: 0; width: 100%; height: 100%;
-  pointer-events: none; z-index: 2;
-  mix-blend-mode: screen;
-}
-
-/* Radar sweep — conic gradient rotating around main agent */
-.sm-radar {
-  position: absolute; left: 50%; top: 50%; width: 1200px; height: 1200px;
-  transform: translate(-50%, -50%);
-  border-radius: 50%; pointer-events: none; z-index: 1;
-  background: conic-gradient(from 0deg,
-    transparent 0deg,
-    transparent 320deg,
-    rgba(255,56,104,.18) 348deg,
-    rgba(255,56,104,.38) 358deg,
-    rgba(255,56,104,.1) 360deg,
-    transparent 360deg);
-  animation: radarSweep 7s linear infinite;
-  opacity: 0; transition: opacity .4s;
-  mask: radial-gradient(circle, black 0%, black 40%, transparent 52%);
-  -webkit-mask: radial-gradient(circle, black 0%, black 40%, transparent 52%);
-}
-body[data-mode="map"] .sm-radar { opacity: 1; }
-@keyframes radarSweep { from { transform: translate(-50%, -50%) rotate(0deg); }
-                        to   { transform: translate(-50%, -50%) rotate(360deg); } }
-
-/* Radar ping on node when sweep passes */
-.node.radar-ping .circle {
-  animation: radarPing 1.2s ease-out;
-}
-@keyframes radarPing {
-  0%   { box-shadow: 0 0 0 0 currentColor, 0 0 8px currentColor; }
-  40%  { box-shadow: 0 0 28px 10px rgba(255,56,104,.45), 0 0 60px 20px rgba(255,56,104,.18); }
-  100% { box-shadow: 0 0 8px currentColor; }
-}
-
-/* Timeline Scrubber — bottom panel for replay */
-.sm-scrubber {
-  position: fixed; bottom: 0; left: 0; right: 0; height: 84px; z-index: 25;
-  padding: 14px 24px 16px;
-  background: linear-gradient(180deg, transparent 0%, rgba(4,4,12,.85) 40%, rgba(4,4,12,.95) 100%);
-  backdrop-filter: blur(20px) saturate(140%);
-  -webkit-backdrop-filter: blur(20px) saturate(140%);
-  border-top: 1px solid rgba(255,255,255,.08);
-  display: flex; flex-direction: column; gap: 8px;
-}
-body[data-mode="story"] .sm-scrubber,
-body[data-mode="live"] .sm-scrubber { display: none; }
-
-.scrubber-head {
-  display: flex; align-items: center; gap: 14px;
-  font-size: 10.5px; color: var(--muted-2);
-  letter-spacing: .08em; text-transform: uppercase; font-weight: 600;
-}
-.scrubber-head .sc-label { color: var(--rose); font-weight: 700; letter-spacing: .16em; }
-.scrubber-head .sc-time {
-  font-family: 'SF Mono', ui-monospace, Menlo, monospace;
-  color: var(--cyan); font-size: 12px;
-  text-shadow: 0 0 8px rgba(34,211,238,.5);
-  font-variant-numeric: tabular-nums; letter-spacing: .03em;
-}
-.scrubber-head .sc-count { color: var(--fg); font-variant-numeric: tabular-nums; }
-
-.sc-play {
-  display: inline-flex; align-items: center; gap: 6px;
-  padding: 4px 12px; font-size: 10.5px; font-weight: 700;
-  color: var(--fg); background: rgba(255,56,104,.22);
-  border: 1px solid rgba(255,56,104,.4);
-  border-radius: 6px; cursor: pointer;
-  transition: all .15s; text-transform: uppercase; letter-spacing: .1em;
-}
-.sc-play:hover { background: rgba(255,56,104,.38); transform: translateY(-1px); }
-.sc-play:active { transform: translateY(0); }
-.sc-play .sc-play-icon { display: inline-block; width: 0; height: 0;
-  border-left: 7px solid var(--fg); border-top: 4px solid transparent;
-  border-bottom: 4px solid transparent; margin-left: 1px; }
-.sc-play.playing .sc-play-icon {
-  width: 8px; height: 9px; border: 0;
-  border-left: 2.5px solid var(--fg); border-right: 2.5px solid var(--fg);
-  margin-left: 0; background: transparent;
-}
-
-/* Range track */
-.sc-track {
-  position: relative; height: 28px; display: flex; align-items: center;
-}
-.sc-ticks {
-  position: absolute; inset: 0; pointer-events: none;
-  display: flex; justify-content: space-between; padding: 0 0;
-}
-.sc-tick {
-  position: relative; height: 100%; width: 1px;
-  background: rgba(255,255,255,.1);
-}
-.sc-tick span {
-  position: absolute; top: -2px; left: 4px; font-size: 9px;
-  color: var(--muted); font-family: 'SF Mono', ui-monospace, monospace;
-  letter-spacing: .05em; white-space: nowrap;
-}
-.sc-range {
-  -webkit-appearance: none; appearance: none;
-  width: 100%; height: 4px;
-  background: linear-gradient(90deg,
-    var(--rose) 0%, var(--rose) var(--fill, 0%),
-    rgba(255,255,255,.08) var(--fill, 0%), rgba(255,255,255,.08) 100%);
-  border-radius: 4px; outline: none; cursor: pointer;
-  position: relative; z-index: 2;
-}
-.sc-range::-webkit-slider-thumb {
-  -webkit-appearance: none; appearance: none;
-  width: 18px; height: 18px; border-radius: 50%;
-  background: radial-gradient(circle at 35% 35%, #ff6b8a, var(--rose) 60%, var(--magenta));
-  border: 2px solid #fff;
-  box-shadow: 0 0 0 2px rgba(255,56,104,.3), 0 0 16px rgba(255,56,104,.6);
-  cursor: grab;
-}
-.sc-range::-webkit-slider-thumb:active { cursor: grabbing; transform: scale(1.1); }
-.sc-range::-moz-range-thumb {
-  width: 18px; height: 18px; border-radius: 50%;
-  background: radial-gradient(circle at 35% 35%, #ff6b8a, var(--rose) 60%, var(--magenta));
-  border: 2px solid #fff;
-  box-shadow: 0 0 0 2px rgba(255,56,104,.3), 0 0 16px rgba(255,56,104,.6);
-  cursor: grab;
-}
-
-/* Event-Markers auf der Timeline (CRITICAL PRs) */
-.sc-markers {
-  position: absolute; inset: 0; pointer-events: none;
-  display: flex; align-items: center;
-}
-.sc-marker {
-  position: absolute; width: 2px; height: 14px; background: var(--rose);
-  border-radius: 1px; box-shadow: 0 0 6px var(--rose); top: 50%;
-  transform: translateY(-50%);
-}
-.sc-marker.critical { background: #fff; box-shadow: 0 0 10px #fff, 0 0 20px var(--rose); height: 18px; }
-
-/* Time-Hidden state for nodes/edges (Scrubber replay) */
-.node.time-hidden { opacity: 0; transform: translate(-50%, -50%) scale(0.3); pointer-events: none; }
-.node { transition: opacity .25s ease, transform .3s cubic-bezier(.2,.8,.2,1); }
-.edge.time-hidden { opacity: 0; }
-
-/* Node "just-appeared" pulse */
-.node.just-born .circle {
-  animation: justBorn 1s ease-out;
-}
-@keyframes justBorn {
-  0%   { transform: scale(0.2); box-shadow: 0 0 0 0 currentColor; }
-  60%  { transform: scale(1.3); box-shadow: 0 0 24px 8px currentColor; }
-  100% { transform: scale(1); }
-}
-
-/* Scrubber hidden on small screens (too tight) */
-@media (max-width: 700px) {
-  .sm-scrubber { display: none; }
-}
-
-/* ═══════════════════════════════════════════════════════════════════════
-   LEVEL-2: Parallax · Focus · Shockwaves · Cinematic Replay
-   ═══════════════════════════════════════════════════════════════════════ */
-
-/* 3D-Parallax — nodes float at different depths; mouse moves the whole scene */
-.sm-stage {
-  perspective: 1200px;
-  perspective-origin: 50% 50%;
-}
-.sm-parallax {
-  position: absolute; inset: 0;
-  will-change: transform;
-  transform: translate3d(var(--par-x, 0px), var(--par-y, 0px), 0) rotateX(var(--par-ry, 0deg)) rotateY(var(--par-rx, 0deg));
-  transition: transform .12s cubic-bezier(.2,.8,.2,1);
-  transform-style: preserve-3d;
-}
-.node { will-change: transform; }
-.node[data-depth="near"] { transform: translate(-50%, -50%) translateZ(30px); }
-.node[data-depth="mid"]  { transform: translate(-50%, -50%) translateZ(0px); }
-.node[data-depth="far"]  { transform: translate(-50%, -50%) translateZ(-40px); }
-.node[data-depth="near"]:hover { transform: translate(-50%, -50%) translateZ(30px) scale(1.1); }
-.node[data-depth="mid"]:hover { transform: translate(-50%, -50%) translateZ(0px) scale(1.1); }
-.node[data-depth="far"]:hover { transform: translate(-50%, -50%) translateZ(-40px) scale(1.1); }
-.node[data-depth="near"].time-hidden { transform: translate(-50%, -50%) translateZ(30px) scale(0.3); }
-.node[data-depth="mid"].time-hidden  { transform: translate(-50%, -50%) translateZ(0px) scale(0.3); }
-.node[data-depth="far"].time-hidden  { transform: translate(-50%, -50%) translateZ(-40px) scale(0.3); }
-
-/* Focus-Mode: one node highlighted, others dimmed */
-.sm-stage.focus-mode .node:not(.focused) { opacity: 0.15; filter: saturate(0.4); }
-.sm-stage.focus-mode .node.focused { z-index: 50; filter: drop-shadow(0 0 24px currentColor); }
-.sm-stage.focus-mode .node.focused .circle { box-shadow: 0 0 32px currentColor, 0 0 80px currentColor; }
-.sm-stage.focus-mode .edge { opacity: 0.06; }
-.sm-stage.focus-mode .edge.connected { opacity: 1; stroke-width: 2; filter: drop-shadow(0 0 5px var(--rose)); }
-.sm-stage.focus-mode .sm-radar { opacity: 0; }
-.sm-stage.focus-mode .sm-particles { opacity: 0.3; }
-
-/* Shockwave ripple on CRITICAL PRs during replay */
-.shockwave {
-  position: absolute; left: 50%; top: 50%;
-  width: 40px; height: 40px;
-  transform: translate(-50%, -50%);
-  border-radius: 50%;
-  border: 3px solid var(--rose);
-  pointer-events: none;
-  z-index: 4;
-  animation: shockwave 1.4s cubic-bezier(.2,.6,.2,1) forwards;
-}
-@keyframes shockwave {
-  0%   { width: 40px; height: 40px; opacity: 1; border-width: 3px;
-         box-shadow: 0 0 20px var(--rose), inset 0 0 20px var(--rose); }
-  60%  { opacity: 0.6; }
-  100% { width: 2200px; height: 2200px; opacity: 0; border-width: 0.5px;
-         box-shadow: 0 0 0 transparent; }
-}
-
-/* Camera-shake on CRITICAL events */
-@keyframes cameraShake {
-  0%, 100% { transform: translate(0, 0) rotate(0); }
-  10% { transform: translate(-3px, 2px) rotate(-0.3deg); }
-  20% { transform: translate(4px, -1px) rotate(0.4deg); }
-  30% { transform: translate(-2px, -2px) rotate(-0.2deg); }
-  40% { transform: translate(3px, 3px) rotate(0.3deg); }
-  50% { transform: translate(-4px, 1px) rotate(-0.4deg); }
-  60% { transform: translate(2px, -3px) rotate(0.2deg); }
-  70% { transform: translate(-1px, 2px) rotate(-0.1deg); }
-  80% { transform: translate(2px, -1px) rotate(0.1deg); }
-}
-.sm-stage.camera-shake { animation: cameraShake .6s ease-in-out; }
-
-/* Achievement-Banner (slides in during replay at key moments) */
-.achievement-banner {
-  position: fixed;
-  top: 120px; left: 50%; transform: translateX(-50%);
-  z-index: 60; pointer-events: none;
-  padding: 14px 32px; border-radius: 12px;
-  background: linear-gradient(135deg, rgba(10,8,24,.92), rgba(24,10,20,.95));
-  border: 1px solid rgba(255,56,104,.4);
-  box-shadow: 0 12px 48px rgba(0,0,0,.6), 0 0 40px rgba(255,56,104,.3);
-  backdrop-filter: blur(24px);
-  font-family: 'SF Pro Display', system-ui, sans-serif;
-  opacity: 0;
-  animation: achievementPop 3.4s cubic-bezier(.2,.8,.2,1) forwards;
-  min-width: 380px; text-align: center;
-}
-.achievement-banner .ach-label {
-  font-size: 10px; text-transform: uppercase;
-  letter-spacing: 0.24em; color: var(--cyan);
-  font-weight: 700; margin-bottom: 4px;
-  text-shadow: 0 0 12px rgba(34,211,238,.5);
-}
-.achievement-banner .ach-title {
-  font-family: 'Playfair Display', Georgia, serif;
-  font-size: 24px; font-weight: 800;
-  letter-spacing: -0.02em; line-height: 1.1;
-  background: linear-gradient(135deg, #fff, #ffb8c8 50%, #ff6b8a);
-  -webkit-background-clip: text; background-clip: text;
-  color: transparent;
-}
-.achievement-banner .ach-sub {
-  font-size: 12px; color: var(--muted-2);
-  margin-top: 4px; letter-spacing: 0.02em;
-}
-.achievement-banner.critical {
-  border-color: rgba(255,56,104,.7);
-  box-shadow: 0 12px 48px rgba(0,0,0,.6), 0 0 60px rgba(255,56,104,.5);
-}
-.achievement-banner.critical .ach-label { color: var(--rose); }
-@keyframes achievementPop {
-  0%   { opacity: 0; transform: translateX(-50%) translateY(-24px) scale(0.9); }
-  10%  { opacity: 1; transform: translateX(-50%) translateY(0) scale(1); }
-  85%  { opacity: 1; transform: translateX(-50%) translateY(0) scale(1); }
-  100% { opacity: 0; transform: translateX(-50%) translateY(-12px) scale(0.98); }
-}
-
-/* Speed-Control Buttons (in scrubber head) */
-.sc-speed {
-  display: inline-flex; gap: 2px; margin-left: 6px;
-  background: rgba(15,15,30,.4);
-  border: 1px solid rgba(255,255,255,.08);
-  border-radius: 6px; padding: 2px;
-}
-.sc-speed-btn {
-  padding: 3px 9px; font-size: 10px; font-weight: 700;
-  color: var(--muted-2); background: transparent; border: 0;
-  border-radius: 4px; cursor: pointer;
-  font-family: 'SF Mono', monospace;
-  transition: all .12s;
-  letter-spacing: 0.02em;
-}
-.sc-speed-btn:hover { color: var(--fg); background: rgba(255,255,255,.05); }
-.sc-speed-btn.active {
-  color: var(--fg);
-  background: rgba(34,211,238,.25);
-  box-shadow: inset 0 0 0 1px rgba(34,211,238,.4);
-  text-shadow: 0 0 8px rgba(34,211,238,.5);
-}
-
-/* Edge curve: we need defs/gradient for curved edges — keep SVG path instead of line */
-.edge-curve { fill: none; stroke: rgba(255,255,255,.09); stroke-width: 1; transition: stroke .3s, opacity .3s; }
-.edge-curve.active { stroke: var(--rose); stroke-opacity: .4; filter: drop-shadow(0 0 3px var(--rose)); }
-.edge-curve.time-hidden { opacity: 0; }
-.edge-curve.connected { opacity: 1 !important; stroke-width: 2; stroke: var(--rose); filter: drop-shadow(0 0 8px var(--rose)); }
-
-/* Reduce motion safely */
-@media (prefers-reduced-motion: reduce) {
-  .sm-parallax { transition: none; transform: none; }
-  .sm-radar { animation: none; opacity: 0; }
-  .shockwave { animation: none; display: none; }
-  .sm-stage.camera-shake { animation: none; }
-  .achievement-banner { animation: none; opacity: 1; }
-}
-
-/* ═══════════════════════════════════════════════════════════════════════
-   LEVEL-3: Force-Graph Interaction States
-   ═══════════════════════════════════════════════════════════════════════ */
-
-/* Nodes jetzt per JS positioniert via left/top — brauchen transition-override */
-.node { transition: opacity .25s ease, transform .3s cubic-bezier(.2,.8,.2,1), filter .2s ease; cursor: grab; }
-.node:active { cursor: grabbing; }
-.node[data-depth] { cursor: grab; }
-.node.hover-connected .circle {
-  box-shadow: 0 0 20px currentColor, 0 0 40px currentColor !important;
-  transform: scale(1.15);
-}
-.node.hover-dimmed { opacity: 0.25; filter: saturate(0.5); }
-.edge.hover-connected {
-  stroke: var(--rose) !important;
-  stroke-width: 2.5 !important;
-  stroke-opacity: 0.95 !important;
-  filter: drop-shadow(0 0 6px var(--rose)) drop-shadow(0 0 12px var(--rose));
-}
-
-/* Main-Agent ist fix — kein grab cursor */
-.node[data-id="main"] { cursor: default; }
-
-/* Stage zeigt beim Pannen "grab" */
-.sm-stage { cursor: grab; }
-.sm-stage:active { cursor: grabbing; }
-.sm-stage.focus-mode { cursor: default; }
-
-/* Parallax-Wrapper kriegt smooth zoom transitions */
-.sm-parallax { transition: transform .2s cubic-bezier(.2,.8,.2,1); }
-/* Aber wenn Pan/Zoom aktiv — schneller: JS setzt transform direkt, CSS transition übernimmt */
-
+  /* Reduce motion */
+  @media (prefers-reduced-motion: reduce) {
+    .stars { animation: none; } .sm-header h1 { animation: none; }
+    .brand-dot { animation: none; } .node[data-id="main"] .circle { animation: none; }
+  }
 </style>
 
 <div class="stars"></div>
@@ -708,90 +262,8 @@ body[data-mode="live"] .sm-scrubber { display: none; }
   <span class="brand"><span class="brand-dot"></span>Herzblatt Journal · 38-PR Vollautomatik</span>
   <h1>Agent Session Map</h1>
   <span class="sub">~6 h · 10 Agents · 38 PRs · 6 CRITICAL</span>
-  <nav class="mode-toggle" role="tablist">
-    <button class="mode-btn active" data-mode="map">Map</button>
-    <button class="mode-btn" data-mode="story">Story</button>
-    <button class="mode-btn" data-mode="live">Live</button>
-  </nav>
+  <span class="status-live">LIVE</span>
 </header>
-
-<aside id="live-vitals" class="live-vitals">
-  <div class="lv-row"><span class="lv-dot ok"></span>Session · <b>Live</b><span class="lv-pulse"></span></div>
-  <div class="lv-row"><span class="lv-label">T+</span><b class="lv-tplus" id="lv-tplus">00:00:00</b></div>
-  <div class="lv-row"><span class="lv-label">Agents</span><b id="lv-agents">—</b></div>
-  <div class="lv-row"><span class="lv-label">PR-Rate</span><b id="lv-prrate">—</b></div>
-  <div class="lv-row"><span class="lv-label">Uptime</span><b id="lv-uptime">—</b></div>
-</aside>
-
-<section id="story-container" class="story-container" aria-hidden="true">
-  <article class="chapter" data-chapter="1" data-highlight="a-p1,a-p2,a-p5,a-cr,a-sec,a-ui">
-    <div class="ch-num">01</div>
-    <h2 class="ch-title">Die Entdeckung</h2>
-    <p class="ch-lead">12:00 – 14:30 · 6 Audit-Agents kartografieren den Code</p>
-    <p class="ch-body">Sechs parallele Agents scannen 23 Admin-Pages, 37 Backend-Routes, 15 DB-Tabellen. Ergebnis: <b>27 Findings</b>, davon <b>3 CRITICAL</b>. Der UI-Auditor gibt der Landing-Page 14,3 / 24 — fake Forms, Dark-Patterns, Brand-Inkonsistenz. Der Security-Auditor findet 3 Secret-Leaks in <code>docs/plans/</code>, SQL-Injection im Drizzle-Stack, fehlende Rate-Limits, CSRF-Lücken.</p>
-    <div class="impact-grid">
-      <div class="impact-card"><b>27</b><span>Findings</span></div>
-      <div class="impact-card critical"><b>3</b><span>CRITICAL</span></div>
-      <div class="impact-card"><b>6</b><span>Agents parallel</span></div>
-    </div>
-  </article>
-
-  <article class="chapter" data-chapter="2" data-highlight="pr17,pr18,pr19,pr20,f-p4,f-xss,a-sec">
-    <div class="ch-num">02</div>
-    <h2 class="ch-title">Die Krise</h2>
-    <p class="ch-lead">15:20 – 15:40 · 20 Minuten, 4 CRITICAL PRs, 5 Secrets rotiert</p>
-    <p class="ch-body">Um 15:20 eskaliert es: der Security-Auditor hat 4 Docs mit live API-Keys committet gefunden. Binnen 20 Minuten: <b>PR #17</b> entfernt die Leak-Dateien und rotiert parallel 5 Secrets in Railway. <b>PR #18</b> patcht eine Drizzle-SQL-Injection (GHSA-gpj5-g38j-94v9). <b>PR #19</b> verhindert duplicate <code>purchases</code>-Inserts (crypto-Fail-Closed + Unsubscribe-Secret). <b>PR #20</b> eliminiert drei XSS-Lücken im Admin (Inbox, Autoren, Audit). Kein Prod-Outage.</p>
-    <div class="impact-grid">
-      <div class="impact-card critical"><b>5</b><span>Keys rotiert</span></div>
-      <div class="impact-card critical"><b>3</b><span>XSS gefixt</span></div>
-      <div class="impact-card critical"><b>1</b><span>SQL-Inj gepatcht</span></div>
-      <div class="impact-card"><b>0</b><span>Outages</span></div>
-    </div>
-  </article>
-
-  <article class="chapter" data-chapter="3" data-highlight="f-p4,f-xss,f-ux,f-admin">
-    <div class="ch-num">03</div>
-    <h2 class="ch-title">Die Welle</h2>
-    <p class="ch-lead">16:30 – 17:30 · 4 Fixer-Agents parallel, 6 PRs ausgeliefert</p>
-    <p class="ch-body">Der Coordinator spawned 4 Fixer-Agents gleichzeitig. Jeder arbeitet einen eigenen Audit-Bereich ab: Backend-Hardening (Rate-Limits, UNIQUE, Retention, GDPR), UX-P0 (Kontakt-Form echt, Brand-Consistency, Fake-Counter raus), A11y-P1 (Skip-Link, 44px Touch, Blog-Pagination), Admin-CRITICAL. In 60 Minuten landen <b>6 PRs</b>. Alle Tests grün, alle Reviews clean.</p>
-    <div class="impact-grid">
-      <div class="impact-card"><b>4</b><span>Fixer parallel</span></div>
-      <div class="impact-card"><b>6</b><span>PRs / 60 min</span></div>
-      <div class="impact-card"><b>24/24</b><span>Tests grün</span></div>
-    </div>
-  </article>
-
-  <article class="chapter" data-chapter="4" data-highlight="pr30,pr29,pr22,pr23,a-ebook,a-bonus,a-delivery,a-adminlive,f-admin">
-    <div class="ch-num">04</div>
-    <h2 class="ch-title">Das Comeback</h2>
-    <p class="ch-lead">17:00 – 18:10 · 1.164 Artikel gerettet, E-Book live</p>
-    <p class="ch-body">Der Live-Admin-Durchklick findet in Minute 17:05 einen <b>CRITICAL Data-Loss-Bug</b> im Artikel-Editor: YAML-Inline-Array-Parser crasht bei <code>keywords: ["a","b"]</code> — jeder Save hätte den Body gewiped. Betroffen: <b>1.164 Artikel</b>. Admin-Fixer liefert PR #30, Tests, Deploy in 65 Minuten. Gleichzeitig geht das komplette E-Book-Delivery-System live (PR #29): Token-Access, /ebook/lesen, SendGrid, Admin-Resend. Plus 12 Ebook-Kapitel (PR #22) und 5 Bonus-Materialien (PR #23).</p>
-    <div class="impact-grid">
-      <div class="impact-card save"><b>1.164</b><span>Artikel gerettet</span></div>
-      <div class="impact-card"><b>15 / 15</b><span>Ebook-Kapitel</span></div>
-      <div class="impact-card"><b>5 / 5</b><span>Bonus-Materialien</span></div>
-      <div class="impact-card"><b>~46k</b><span>Wörter Content</span></div>
-    </div>
-  </article>
-
-  <article class="chapter" data-chapter="5" data-highlight="main">
-    <div class="ch-num">05</div>
-    <h2 class="ch-title">Was wir gelernt haben</h2>
-    <p class="ch-lead">Vier replicable Patterns für die nächste Session</p>
-    <ul class="ch-lessons">
-      <li><b>Audit vor Code.</b> 6 Audit-Agents upfront kosten 90 Minuten und sparen Stunden Fixing-Zeit später. Jede gefundene CRITICAL war ein verhinderter Incident.</li>
-      <li><b>Fixer-Waves.</b> 4 Fixer parallel arbeiten, wenn ihre Bereiche disjunkt sind. Der Coordinator prüft die Boundaries, die Agents tun den Rest. Geschwindigkeit ×4 ohne Mergekonflikte.</li>
-      <li><b>Live-QA ist Gold.</b> Der Live-Admin-Durchklick — ein Agent, der sich als User durch jede Admin-Page klickt — fand den teuersten Bug der Session. Tests finden das nicht, User-Durchlauf schon.</li>
-      <li><b>Impact sichtbar machen.</b> Jeder PR, der nur ein "Fix" war, ist eine Zahl. 1.164 gerettete Artikel. 5 rotierte Secrets. 3 gepatchte XSS. Diese Map macht das explizit.</li>
-    </ul>
-    <div class="impact-grid total">
-      <div class="impact-card mega"><b>38</b><span>PRs</span></div>
-      <div class="impact-card mega"><b>6</b><span>CRITICAL Fixes</span></div>
-      <div class="impact-card mega"><b>0</b><span>Prod-Outages</span></div>
-      <div class="impact-card mega"><b>~6 h</b><span>Session-Dauer</span></div>
-    </div>
-  </article>
-</section>
 
 <aside id="legend" class="panel">
   <h3>Legende</h3>
@@ -801,7 +273,7 @@ body[data-mode="live"] .sm-scrubber { display: none; }
   <div class="leg-row"><span class="leg-dot" style="color:#fbbf24;background:#fbbf24"></span><b>Infra / Browser</b></div>
   <div class="leg-row"><span class="leg-dot" style="color:#22c55e;background:#22c55e"></span><b>Artefakt (PR)</b></div>
   <div class="leg-row"><span class="leg-dot" style="color:#ff3868;background:#ff3868"></span><b>CRITICAL Fix</b></div>
-  <div class="leg-note">Hover für Details · pulsierend = aktiv · grün-glow = fertig</div>
+  <div class="leg-note">Klick Node für Details · Drag = bewegen · Wheel = Zoom · BG-Drag = Pan</div>
 </aside>
 
 <aside id="stats" class="panel">
@@ -821,121 +293,88 @@ body[data-mode="live"] .sm-scrubber { display: none; }
   <div class="stat-row"><span>Session-Dauer</span><b>~6 h</b></div>
 </aside>
 
+<aside id="detail-panel" class="panel">
+  <button class="dp-close" id="dp-close" aria-label="Schließen">×</button>
+  <div class="dp-type" id="dp-type"></div>
+  <h4 id="dp-title"></h4>
+  <div class="dp-sub" id="dp-sub"></div>
+  <div class="dp-desc" id="dp-desc"></div>
+  <div class="dp-impact" id="dp-impact" style="display:none">
+    <div class="dp-impact-label">Impact</div>
+    <div class="dp-impact-metric" id="dp-impact-metric"></div>
+    <div class="dp-impact-cost" id="dp-impact-cost"></div>
+  </div>
+</aside>
+
 <aside id="activity" class="panel">
   <h3>Activity Feed</h3>
   <div id="logList"></div>
 </aside>
 
 <div class="sm-stage" id="stage">
-  <div class="sm-parallax" id="parallax">
-    <div class="sm-radar" aria-hidden="true"></div>
+  <div class="sm-viewport" id="viewport">
     <svg class="sm-svg" id="edges" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid meet"></svg>
-    <canvas class="sm-particles" id="particles" aria-hidden="true"></canvas>
-    <div class="shockwave-layer" id="shockwaveLayer" style="position:absolute;inset:0;pointer-events:none;"></div>
+    <div id="nodes-layer"></div>
   </div>
 </div>
 
-<div id="tooltip"></div>
-
-<!-- Timeline-Scrubber (Map-Mode only) — Replay der 6h-Session -->
+<!-- Timeline Scrubber -->
 <aside class="sm-scrubber" id="scrubber">
   <div class="scrubber-head">
     <span class="sc-label">Session Timeline</span>
-    <button class="sc-play" id="scPlay" aria-label="Abspielen">
-      <span class="sc-play-icon"></span>
-      <span id="scPlayLabel">Replay</span>
+    <button class="sc-btn" id="scPlay" aria-label="Abspielen">
+      <span id="scPlayLabel">▶ Replay</span>
     </button>
-    <span class="sc-time" id="scTime">12:00</span>
+    <button class="sc-btn secondary" id="scReset" aria-label="Reset-Layout">↻ Reset</button>
+    <span class="sc-time" id="scTime">20:00</span>
     <span>·</span>
-    <span><span class="sc-count" id="scVisible">0</span> / <span id="scTotal">0</span> Nodes</span>
-    <div class="sc-speed" role="radiogroup" aria-label="Replay-Geschwindigkeit">
-      <button class="sc-speed-btn" data-speed="0.5" aria-label="0.5x Geschwindigkeit">0.5×</button>
-      <button class="sc-speed-btn active" data-speed="1" aria-label="1x Geschwindigkeit">1×</button>
-      <button class="sc-speed-btn" data-speed="2" aria-label="2x Geschwindigkeit">2×</button>
-      <button class="sc-speed-btn" data-speed="4" aria-label="4x Geschwindigkeit">4×</button>
+    <span><span id="scVisible">49</span> / <span id="scTotal">49</span> Nodes</span>
+    <div class="sc-speed">
+      <button class="sc-speed-btn" data-speed="0.5">0.5×</button>
+      <button class="sc-speed-btn active" data-speed="1">1×</button>
+      <button class="sc-speed-btn" data-speed="2">2×</button>
+      <button class="sc-speed-btn" data-speed="4">4×</button>
     </div>
-    <span style="margin-left:auto; font-size:10px; color:var(--muted);">Drag · Play · Click Node für Focus</span>
+    <span style="margin-left:auto; font-size:10px; color:var(--muted);">Drag Node · Wheel = Zoom · Drag BG = Pan</span>
   </div>
   <div class="sc-track">
     <div class="sc-ticks" id="scTicks"></div>
     <div class="sc-markers" id="scMarkers"></div>
-    <input type="range" class="sc-range" id="scRange" min="0" max="480" value="480" step="1" aria-label="Zeitpunkt wählen">
+    <input type="range" class="sc-range" id="scRange" min="0" max="480" value="480" step="1">
   </div>
 </aside>
 
 <script is:inline>
-// ─── Node-Daten (fixe Positionen, viewBox 1600×900) ──────────────────────
+// ═══════════════════════════════════════════════════════════════════════
+// NODES · EDGES · IMPACT · TIMES · LOGS
+// ═══════════════════════════════════════════════════════════════════════
 const NODES = [
-  { id:'main', x:800, y:450, r:28, color:'#ff3868', type:'coord', state:'done',
-    label:'Main Agent', sub:'Coordinator · Opus 4.7',
-    desc:'Koordinierte 10+ Sub-Agents, 38 PRs merged, 6 Secrets rotiert, Railway-Deploys getriggert.' },
-  // Audit-Agents (links oben)
-  { id:'a-p1', x:380, y:230, r:16, color:'#a78bfa', type:'general', state:'done',
-    label:'general-purpose', sub:'Phase 1 Inventar',
-    desc:'23 Admin-Pages, 37 Backend-Routes, 15 DB-Tabellen kartografiert.' },
-  { id:'a-p2', x:520, y:130, r:16, color:'#a78bfa', type:'general', state:'done',
-    label:'general-purpose', sub:'Phase 2 Admin',
-    desc:'2 CRITICAL XSS + data.clear-Reauth-Lücke entdeckt.' },
-  { id:'a-p5', x:700, y:100, r:16, color:'#a78bfa', type:'general', state:'done',
-    label:'general-purpose', sub:'Phase 5 DB',
-    desc:'Retention-Gaps + UNIQUE-Missing + GDPR-Lücke erkannt.' },
-  { id:'a-ebook', x:880, y:100, r:18, color:'#a78bfa', type:'general', state:'done',
-    label:'general-purpose', sub:'Ebook-Writer · 12 Kapitel',
-    desc:'Kapitel 04-15, ~31.250 Wörter. "Sie"-Anrede konsistent.' },
-  { id:'a-bonus', x:1050, y:130, r:18, color:'#a78bfa', type:'general', state:'done',
-    label:'general-purpose', sub:'Bonus-Materialien · 5',
-    desc:'Workbook + 30 Nachrichten-Vorlagen + Red-Flags + Bindungstest + Updates-Index (~14.900 Wörter).' },
-  { id:'a-delivery', x:1200, y:220, r:18, color:'#a78bfa', type:'general', state:'done',
-    label:'general-purpose', sub:'Ebook-Delivery-System',
-    desc:'Token-Access + /ebook/lesen + SendGrid + Admin-Resend.' },
-  { id:'a-adminlive', x:1050, y:780, r:16, color:'#a78bfa', type:'general', state:'done',
-    label:'general-purpose', sub:'Live-Admin-Durchklick',
-    desc:'Fand CRITICAL Artikel-Editor-Bug (1164 Artikel gefährdet).' },
-  { id:'a-traffic', x:1230, y:720, r:16, color:'#a78bfa', type:'general', state:'done',
-    label:'general-purpose', sub:'Traffic-Boost',
-    desc:'Plausible + Sitemap + SEO-Meta + 14 Stadt-Seiten.' },
-  { id:'a-hijack', x:1280, y:600, r:16, color:'#a78bfa', type:'general', state:'done',
-    label:'general-purpose', sub:'SEO-Hijacking · 5 Artikel',
-    desc:'Badoo + Poppen + Lovoo Reviews, ~11.800 Wörter, CTA zu eigenen Brands.' },
-  // Spezialisten
-  { id:'a-cr', x:280, y:380, r:16, color:'#22d3ee', type:'specialist', state:'done',
-    label:'gsd-code-reviewer', sub:'Phase 4 Backend',
-    desc:'27 Findings: 3 CRITICAL, 7 HIGH, 10 MED, 7 LOW.' },
-  { id:'a-sec', x:240, y:500, r:18, color:'#22d3ee', type:'specialist', state:'done',
-    label:'gsd-security-auditor', sub:'Phase 6 Security',
-    desc:'3 CRITICAL Secret-Leaks + SQL-Injection + Rate-Limit-Gaps.' },
-  { id:'a-ui', x:330, y:660, r:16, color:'#22d3ee', type:'specialist', state:'done',
-    label:'gsd-ui-auditor', sub:'Phase 8 UX',
-    desc:'Score 14.3/24. 5 P0: Fake-Form, Brand-Inkonsistenz, Dark-Patterns.' },
-  // Fixer
-  { id:'f-p4', x:500, y:770, r:15, color:'#22d3ee', type:'specialist', state:'done',
-    label:'gsd-code-fixer', sub:'Backend-Critical',
-    desc:'purchases UNIQUE + crypto fail-closed + unsubscribe secret.' },
-  { id:'f-xss', x:660, y:810, r:15, color:'#22d3ee', type:'specialist', state:'done',
-    label:'gsd-code-fixer', sub:'Admin XSS + Reauth',
-    desc:'Inbox + Autoren + Audit XSS gefixt. data.clear "LOESCHEN".' },
-  { id:'f-ux', x:820, y:830, r:15, color:'#22d3ee', type:'specialist', state:'done',
-    label:'gsd-code-fixer', sub:'UX P0',
-    desc:'Kontakt-Form echt. Brand-Consistency. Fake-Counter raus.' },
-  { id:'f-admin', x:940, y:800, r:15, color:'#22d3ee', type:'specialist', state:'done',
-    label:'gsd-code-fixer', sub:'Admin CRITICAL',
-    desc:'Artikel-Editor-Bug (1164 Artikel gerettet) + /bilder + /redirects.' },
-  // Infrastructure
-  { id:'railway', x:1300, y:450, r:14, color:'#fbbf24', type:'infra', state:'done',
-    label:'Railway GraphQL', sub:'Infra-API',
-    desc:'38+ Deploys, 6 Secret-Rotations, /health. Services FE 2ba9…, BE 7411…' },
-  { id:'chrome', x:1320, y:330, r:13, color:'#fbbf24', type:'infra', state:'done',
-    label:'Claude in Chrome', sub:'Browser-Automation',
-    desc:'Micropayment-Setup + Live-Admin-Durchklick.' },
-  // PRs — radial um Main
+  { id:'main', x:800, y:450, r:28, color:'#ff3868', type:'coord', state:'done', label:'Main Agent', sub:'Coordinator · Opus 4.7', desc:'Koordinierte 10+ Sub-Agents, 38 PRs merged, 6 Secrets rotiert, Railway-Deploys getriggert.' },
+  { id:'a-p1', x:380, y:230, r:16, color:'#a78bfa', type:'general', state:'done', label:'general-purpose', sub:'Phase 1 Inventar', desc:'23 Admin-Pages, 37 Backend-Routes, 15 DB-Tabellen kartografiert.' },
+  { id:'a-p2', x:520, y:130, r:16, color:'#a78bfa', type:'general', state:'done', label:'general-purpose', sub:'Phase 2 Admin', desc:'2 CRITICAL XSS + data.clear-Reauth-Lücke entdeckt.' },
+  { id:'a-p5', x:700, y:100, r:16, color:'#a78bfa', type:'general', state:'done', label:'general-purpose', sub:'Phase 5 DB', desc:'Retention-Gaps + UNIQUE-Missing + GDPR-Lücke erkannt.' },
+  { id:'a-ebook', x:880, y:100, r:18, color:'#a78bfa', type:'general', state:'done', label:'general-purpose', sub:'Ebook-Writer · 12 Kapitel', desc:'Kapitel 04-15, ~31.250 Wörter.' },
+  { id:'a-bonus', x:1050, y:130, r:18, color:'#a78bfa', type:'general', state:'done', label:'general-purpose', sub:'Bonus-Materialien · 5', desc:'Workbook + 30 Nachrichten + Red-Flags + Bindungstest (~14.900 W).' },
+  { id:'a-delivery', x:1200, y:220, r:18, color:'#a78bfa', type:'general', state:'done', label:'general-purpose', sub:'Ebook-Delivery-System', desc:'Token-Access + /ebook/lesen + SendGrid + Admin-Resend.' },
+  { id:'a-adminlive', x:1050, y:780, r:16, color:'#a78bfa', type:'general', state:'done', label:'general-purpose', sub:'Live-Admin-Durchklick', desc:'Fand CRITICAL Artikel-Editor-Bug (1164 Artikel gefährdet).' },
+  { id:'a-traffic', x:1230, y:720, r:16, color:'#a78bfa', type:'general', state:'done', label:'general-purpose', sub:'Traffic-Boost', desc:'Plausible + Sitemap + SEO-Meta + 14 Stadt-Seiten.' },
+  { id:'a-hijack', x:1280, y:600, r:16, color:'#a78bfa', type:'general', state:'done', label:'general-purpose', sub:'SEO-Hijacking · 5 Artikel', desc:'Badoo + Poppen + Lovoo Reviews, ~11.800 Wörter.' },
+  { id:'a-cr', x:280, y:380, r:16, color:'#22d3ee', type:'specialist', state:'done', label:'gsd-code-reviewer', sub:'Phase 4 Backend', desc:'27 Findings: 3 CRITICAL, 7 HIGH, 10 MED, 7 LOW.' },
+  { id:'a-sec', x:240, y:500, r:18, color:'#22d3ee', type:'specialist', state:'done', label:'gsd-security-auditor', sub:'Phase 6 Security', desc:'3 CRITICAL Secret-Leaks + SQL-Injection + Rate-Limit-Gaps.' },
+  { id:'a-ui', x:330, y:660, r:16, color:'#22d3ee', type:'specialist', state:'done', label:'gsd-ui-auditor', sub:'Phase 8 UX', desc:'Score 14.3/24. 5 P0: Fake-Form, Brand-Inkonsistenz, Dark-Patterns.' },
+  { id:'f-p4', x:500, y:770, r:15, color:'#22d3ee', type:'specialist', state:'done', label:'gsd-code-fixer', sub:'Backend-Critical', desc:'purchases UNIQUE + crypto fail-closed + unsubscribe secret.' },
+  { id:'f-xss', x:660, y:810, r:15, color:'#22d3ee', type:'specialist', state:'done', label:'gsd-code-fixer', sub:'Admin XSS + Reauth', desc:'Inbox + Autoren + Audit XSS gefixt.' },
+  { id:'f-ux', x:820, y:830, r:15, color:'#22d3ee', type:'specialist', state:'done', label:'gsd-code-fixer', sub:'UX P0', desc:'Kontakt-Form echt. Brand-Consistency. Fake-Counter raus.' },
+  { id:'f-admin', x:940, y:800, r:15, color:'#22d3ee', type:'specialist', state:'done', label:'gsd-code-fixer', sub:'Admin CRITICAL', desc:'Artikel-Editor-Bug (1164 Artikel gerettet).' },
+  { id:'railway', x:1300, y:450, r:14, color:'#fbbf24', type:'infra', state:'done', label:'Railway GraphQL', sub:'Infra-API', desc:'38+ Deploys, 6 Secret-Rotations, /health.' },
+  { id:'chrome', x:1320, y:330, r:13, color:'#fbbf24', type:'infra', state:'done', label:'Claude in Chrome', sub:'Browser-Automation', desc:'Micropayment-Setup + Live-Admin-Durchklick.' },
   { id:'pr11', x:620, y:380, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#11', sub:'3-Method Picker' },
   { id:'pr12', x:570, y:430, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#12', sub:'Whop Modal' },
   { id:'pr13', x:540, y:490, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#13', sub:'Admin View' },
   { id:'pr14', x:560, y:550, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#14', sub:'Mobile Promo' },
   { id:'pr15', x:620, y:600, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#15', sub:'Raten raus' },
   { id:'pr16', x:690, y:620, r:10, color:'#22c55e', type:'artifact', state:'done', label:'#16', sub:'DiceBear' },
-  { id:'pr17', x:760, y:615, r:12, color:'#ff3868', type:'artifact', state:'done', label:'#17', sub:'🚨 Leak-Fix',
-    desc:'4 Leak-Dateien entfernt, 5 Secrets parallel rotiert.' },
+  { id:'pr17', x:760, y:615, r:12, color:'#ff3868', type:'artifact', state:'done', label:'#17', sub:'Leak-Fix', desc:'4 Leak-Dateien entfernt, 5 Secrets parallel rotiert.' },
   { id:'pr18', x:830, y:620, r:11, color:'#ff3868', type:'artifact', state:'done', label:'#18', sub:'Drizzle SQL-Inj' },
   { id:'pr19', x:895, y:610, r:11, color:'#ff3868', type:'artifact', state:'done', label:'#19', sub:'Backend Race' },
   { id:'pr20', x:945, y:580, r:11, color:'#ff3868', type:'artifact', state:'done', label:'#20', sub:'Admin XSS' },
@@ -948,7 +387,7 @@ const NODES = [
   { id:'pr27', x:855, y:295, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#27', sub:'Click-Whitelist' },
   { id:'pr28', x:790, y:295, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#28', sub:'UX P1' },
   { id:'pr29', x:720, y:300, r:10, color:'#10b981', type:'artifact', state:'done', label:'#29', sub:'Delivery' },
-  { id:'pr30', x:660, y:320, r:11, color:'#10b981', type:'artifact', state:'done', label:'#30', sub:'Artikel-Editor' },
+  { id:'pr30', x:660, y:320, r:11, color:'#ff3868', type:'artifact', state:'done', label:'#30', sub:'Artikel-Editor', desc:'CRITICAL Data-Loss-Fix: 1164 Artikel gerettet.' },
   { id:'pr31', x:640, y:370, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#31', sub:'Agent-Map' },
   { id:'pr32', x:700, y:395, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#32', sub:'Auto-Images' },
   { id:'pr33', x:1070, y:555, r:10, color:'#22c55e', type:'artifact', state:'done', label:'#33', sub:'Screenshots' },
@@ -961,27 +400,63 @@ const NODES = [
   { id:'pr46', x:940, y:465, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#46', sub:'Hijacking-Content' },
 ];
 
+const AGENT_IDS = ['a-p1','a-p2','a-p5','a-ebook','a-bonus','a-delivery','a-adminlive','a-traffic','a-hijack','a-cr','a-sec','a-ui','f-p4','f-xss','f-ux','f-admin','railway','chrome'];
+const PR_IDS = NODES.filter(n => n.type === 'artifact').map(n => n.id);
+
 const EDGES = [
-  // Main → alle Agents
-  ...['a-p1','a-p2','a-p5','a-ebook','a-bonus','a-delivery','a-adminlive','a-traffic','a-hijack',
-      'a-cr','a-sec','a-ui','f-p4','f-xss','f-ux','f-admin','railway','chrome'].map(t => ({s:'main',t})),
-  // Main → PRs (thin)
-  ...['pr11','pr12','pr13','pr14','pr15','pr16','pr17','pr18','pr19','pr20','pr21','pr22','pr23','pr24','pr25',
-      'pr26','pr27','pr28','pr29','pr30','pr31','pr32','pr33','pr37','pr39','pr40','pr41','pr43','pr45','pr46']
-    .map(t => ({s:'main',t,thin:true})),
+  ...AGENT_IDS.map(t => ({s:'main', t})),
+  ...PR_IDS.map(t => ({s:'main', t, thin:true})),
 ];
+
+// PR origin mapping (cluster coloring)
+const PR_ORIGIN = {
+  pr11:'a-p1', pr12:'a-p2', pr13:'a-p2', pr14:'a-p2', pr15:'a-p2', pr16:'a-p2',
+  pr17:'a-sec', pr18:'a-sec', pr19:'f-p4', pr20:'f-xss',
+  pr21:'f-ux', pr22:'a-ebook', pr23:'a-bonus', pr24:'f-ux', pr25:'a-cr',
+  pr26:'f-ux', pr27:'a-sec', pr28:'a-ui',
+  pr29:'a-delivery', pr30:'f-admin', pr31:'a-adminlive', pr32:'a-adminlive',
+  pr33:'chrome', pr37:'a-adminlive', pr39:'a-traffic', pr40:'a-traffic',
+  pr41:'a-traffic', pr43:'a-traffic', pr45:'a-sec', pr46:'a-hijack',
+};
+
+// Node-Times (minutes from 12:00)
+const NODE_TIMES = {
+  main:0, 'a-p1':2, 'a-p2':8, 'a-p5':18, 'a-cr':35, 'a-sec':50, 'a-ui':80,
+  'a-ebook':60, 'a-bonus':180, 'a-delivery':300, 'a-adminlive':305,
+  'a-traffic':390, 'a-hijack':450, 'f-p4':210, 'f-xss':225, 'f-ux':240, 'f-admin':305,
+  railway:0, chrome:60,
+  pr11:0, pr12:30, pr13:45, pr14:60, pr15:75, pr16:90,
+  pr17:200, pr18:205, pr19:210, pr20:220,
+  pr21:260, pr22:270, pr23:285, pr24:290, pr25:300,
+  pr26:310, pr27:320, pr28:320, pr29:340, pr30:350,
+  pr31:360, pr32:360, pr33:370,
+  pr37:420, pr39:435, pr40:445, pr41:450,
+  pr43:467, pr45:470, pr46:480,
+};
+
+// Impact data for detail-panel
+const IMPACT = {
+  pr17: { metric:'5 Keys rotiert · Leak neutralisiert', cost:'Key-Compromise hätte Mandantentrennung kompromittiert', severity:'critical' },
+  pr18: { metric:'SQL-Injection gepatcht', cost:'GHSA-gpj5-g38j-94v9 · Drizzle 0.37→0.45.2', severity:'critical' },
+  pr19: { metric:'Duplicate purchases verhindert', cost:'crypto fail-closed + Unsubscribe-Secret-Hardening', severity:'critical' },
+  pr20: { metric:'3 XSS gefixt · Admin-Reauth', cost:'Cross-Site-Scripting in Inbox, Autoren, Audit', severity:'critical' },
+  pr22: { metric:'12 Ebook-Kapitel ausgeliefert', cost:'~31.250 Wörter · Produkt-Inventar live' },
+  pr23: { metric:'5 Bonus-Materialien', cost:'Workbook + Vorlagen + Checklisten · ~14.900 W' },
+  pr29: { metric:'Ebook-Delivery-System live', cost:'Token-Access + SendGrid + Admin-Resend' },
+  pr30: { metric:'1.164 Artikel gerettet', cost:'Data-Loss-Bug im parseFM Inline-Array · jeder Save hätte Body gewiped', severity:'critical' },
+};
 
 const LOG_EVENTS = [
   { t:'20:00', cat:'pr', text:'PR #46 merged · SEO-Hijacking (Badoo + Poppen + Lovoo) ~11.800 Wörter' },
   { t:'19:50', cat:'pr', text:'PR #45 merged · CSRF-Tokens + KPI-Widgets + PII-Redaction' },
   { t:'19:47', cat:'pr', text:'PR #43 merged · Email-Drip (1/7/30) + Affiliate-Programm-Skelett' },
   { t:'19:30', cat:'pr', text:'PR #41 merged · Tracking-Whitelist + poppen/lemonswan/lovoo' },
-  { t:'19:25', cat:'pr', text:'PR #40 merged · Sticky-Bar + Exit-Intent + Social-Proof (UWG-konform)' },
+  { t:'19:25', cat:'pr', text:'PR #40 merged · Sticky-Bar + Exit-Intent + Social-Proof' },
   { t:'19:15', cat:'pr', text:'PR #39 merged · Plausible + Sitemap + 14 Stadt-Seiten' },
   { t:'19:00', cat:'pr', text:'PR #37 merged · Quiz-Result-Card mit Site-Screenshot' },
   { t:'18:10', cat:'pr', text:'PR #33 merged · 10 Dating-Site-Screenshots via Playwright' },
   { t:'18:00', cat:'pr', text:'PR #32 merged · Auto-Image-Fix (1845/1849 Coverage)' },
-  { t:'17:50', cat:'pr', text:'PR #30 merged · CRITICAL Artikel-Editor-Fix (1164 Artikel gerettet)' },
+  { t:'17:50', cat:'sec', text:'PR #30 merged · CRITICAL Artikel-Editor-Fix (1164 Artikel gerettet)' },
   { t:'17:40', cat:'pr', text:'PR #29 merged · Ebook-Delivery-System' },
   { t:'17:20', cat:'pr', text:'PR #28 merged · UX P1 (A11y + Perf)' },
   { t:'17:00', cat:'sec', text:'PR #25 merged · Backend-Hardening (Rate-Limits + UNIQUE)' },
@@ -989,73 +464,74 @@ const LOG_EVENTS = [
   { t:'15:40', cat:'sec', text:'PR #20 merged · CRITICAL Admin-XSS + Reauth' },
   { t:'15:30', cat:'sec', text:'PR #19 merged · Backend-CRITICAL Race + Secret-Fallback' },
   { t:'15:25', cat:'sec', text:'PR #18 merged · Drizzle SQL-Injection-Patch' },
-  { t:'15:20', cat:'sec', text:'PR #17 merged · 🚨 4 Leak-Docs raus, 5 Secrets rotiert' },
+  { t:'15:20', cat:'sec', text:'PR #17 merged · 4 Leak-Docs raus, 5 Secrets rotiert' },
   { t:'13:30', cat:'deploy', text:'Micropayment-Setup: Sofort + paysafecard aktiviert' },
-  { t:'13:00', cat:'deploy', text:'Whop-Produkt "Herzblatt-Methode" (plan_SstCj…) angelegt' },
+  { t:'13:00', cat:'deploy', text:'Whop-Produkt angelegt' },
   { t:'12:00', cat:'pr', text:'PR #11 merged · 3-Method-Checkout-Picker live' },
 ];
 
-// ─── Render ───────────────────────────────────────────────────────────────
-const stage = document.querySelector('.sm-stage');
-const svg = document.getElementById('edges');
-const tooltip = document.getElementById('tooltip');
-
-function pct(v, dim) { return (v / (dim === 'x' ? 1600 : 900)) * 100 + '%'; }
-const SVG_NS = 'http://www.w3.org/2000/svg';
+// ═══════════════════════════════════════════════════════════════════════
+// STATE + RENDERING
+// ═══════════════════════════════════════════════════════════════════════
+const VB_W = 1600, VB_H = 900;
 const nodeMap = Object.fromEntries(NODES.map(n => [n.id, n]));
+NODES.forEach(n => { n.homeX = n.x; n.homeY = n.y; n.t = NODE_TIMES[n.id] ?? 0; });
 
-// Edges
-EDGES.forEach(e => {
+const stage = document.getElementById('stage');
+const viewport = document.getElementById('viewport');
+const svg = document.getElementById('edges');
+const nodesLayer = document.getElementById('nodes-layer');
+
+// Zoom/Pan state
+let zoom = 1, panX = 0, panY = 0;
+function applyTransform() {
+  viewport.style.transform = `translate(${panX}px, ${panY}px) scale(${zoom})`;
+}
+
+// ── Render edges ──
+const edgeEls = [];
+EDGES.forEach((e, i) => {
   const a = nodeMap[e.s], b = nodeMap[e.t];
   if (!a || !b) return;
-  const line = document.createElementNS(SVG_NS, 'line');
+  const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
   line.setAttribute('x1', a.x); line.setAttribute('y1', a.y);
   line.setAttribute('x2', b.x); line.setAttribute('y2', b.y);
-  line.setAttribute('class', 'edge' + (e.thin ? '' : ' active'));
+  line.setAttribute('class', 'edge' + (e.thin ? ' thin' : ''));
+  line.dataset.source = e.s;
+  line.dataset.target = e.t;
   svg.appendChild(line);
+  edgeEls.push({ el: line, s: e.s, t: e.t });
 });
 
-// Hub rings around main
-[1,2,3].forEach(i => {
-  const ring = document.createElement('div');
-  ring.className = 'hub-ring r' + i;
-  ring.style.left = pct(nodeMap.main.x, 'x');
-  ring.style.top = pct(nodeMap.main.y, 'y');
-  stage.appendChild(ring);
-});
+// ── Render nodes ──
+function pctX(v) { return (v / VB_W) * 100 + '%'; }
+function pctY(v) { return (v / VB_H) * 100 + '%'; }
 
-// Nodes as absolutely-positioned DIVs
+const nodeEls = {};
 NODES.forEach(n => {
   const el = document.createElement('div');
   el.className = 'node ' + n.state;
-  el.style.left = pct(n.x, 'x');
-  el.style.top = pct(n.y, 'y');
+  el.setAttribute('data-id', n.id);
+  el.setAttribute('data-t', String(n.t));
   el.style.color = n.color;
+  el.style.left = pctX(n.x);
+  el.style.top = pctY(n.y);
+  // Agent-cluster coloring for PRs
+  const originAgentId = PR_ORIGIN[n.id];
+  if (originAgentId && nodeMap[originAgentId]) {
+    el.setAttribute('data-origin-color', '');
+    el.style.setProperty('--origin-color', nodeMap[originAgentId].color);
+  }
   el.innerHTML = `
     <div class="circle" style="width:${n.r*2}px;height:${n.r*2}px"></div>
     <div class="label">${n.label}</div>
-    <div class="node-sub">${n.sub}</div>
+    <div class="node-sub">${n.sub || ''}</div>
   `;
-  el.addEventListener('mouseover', (e) => showTip(e, n));
-  el.addEventListener('mouseout', hideTip);
-  stage.appendChild(el);
+  nodesLayer.appendChild(el);
+  nodeEls[n.id] = el;
 });
 
-function showTip(e, n) {
-  tooltip.innerHTML = `
-    <div class="tt-sub">${n.type}</div>
-    <h4>${n.label}</h4>
-    <p>${n.sub}</p>
-    ${n.desc ? `<p style="margin-top:8px">${n.desc}</p>` : ''}
-    <span class="tt-state">${n.state}</span>
-  `;
-  tooltip.style.left = (e.clientX + 18) + 'px';
-  tooltip.style.top = (e.clientY + 18) + 'px';
-  tooltip.style.opacity = '1';
-}
-function hideTip() { tooltip.style.opacity = '0'; }
-
-// Activity feed
+// ── Render Activity Feed ──
 document.getElementById('logList').innerHTML = LOG_EVENTS.map(e =>
   `<div class="log-row">
     <span class="log-time">${e.t}</span>
@@ -1064,947 +540,260 @@ document.getElementById('logList').innerHTML = LOG_EVENTS.map(e =>
   </div>`
 ).join('');
 
-// Success-burst every 2s
-const prIds = NODES.filter(n => n.id.startsWith('pr')).map(n => n.id);
-let burstI = 0;
-setInterval(() => {
-  const pr = nodeMap[prIds[burstI % prIds.length]];
-  burstI++;
-  const burst = document.createElement('div');
-  burst.style.cssText = `
-    position:absolute;
-    left:${pct(pr.x, 'x')};
-    top:${pct(pr.y, 'y')};
-    width:20px;height:20px;
-    transform:translate(-50%,-50%);
-    border-radius:50%;
-    border:3px solid ${pr.color};
-    opacity:.8;
-    pointer-events:none;
-    animation: burst 1.2s ease-out forwards;
-    z-index:2;
-  `;
-  stage.appendChild(burst);
-  setTimeout(() => burst.remove(), 1300);
-}, 2200);
+// ═══════════════════════════════════════════════════════════════════════
+// DRAG NODES (except main)
+// ═══════════════════════════════════════════════════════════════════════
+let draggingNode = null;
 
-// Dynamic burst keyframes
-const styleEl = document.createElement('style');
-styleEl.textContent = `@keyframes burst {
-  0% { width: 20px; height: 20px; opacity: .8; border-width: 3px; }
-  100% { width: 120px; height: 120px; opacity: 0; border-width: 0; }
-}`;
-document.head.appendChild(styleEl);
-
-// ═══════════════════════════════════════════════════════════════════════
-// IMPACT-DATA — Business-Value pro Node (für Deep-Dive + Story-Context)
-// ═══════════════════════════════════════════════════════════════════════
-const IMPACT = {
-  pr17: { metric: '5 Keys rotiert · Leak neutralisiert', cost: 'Key-Compromise hätte Mandantentrennung kompromittiert', category: 'SECURITY', severity: 'critical' },
-  pr18: { metric: 'SQL-Injection gepatcht', cost: 'GHSA-gpj5-g38j-94v9 · Drizzle 0.37→0.45.2', category: 'SECURITY', severity: 'critical' },
-  pr19: { metric: 'Duplicate purchases verhindert', cost: 'crypto fail-closed + Unsubscribe-Secret-Hardening', category: 'BACKEND_HARDENING', severity: 'critical' },
-  pr20: { metric: '3 XSS gefixt · Admin-Reauth', cost: 'Cross-Site-Scripting in Inbox, Autoren, Audit', category: 'SECURITY', severity: 'critical' },
-  pr22: { metric: '12 Ebook-Kapitel ausgeliefert', cost: '~31.250 Wörter · Produkt-Inventar live', category: 'CONTENT' },
-  pr23: { metric: '5 Bonus-Materialien', cost: 'Workbook + Vorlagen + Checklisten · ~14.900 W', category: 'CONTENT' },
-  pr29: { metric: 'Ebook-Delivery-System live', cost: 'Token-Access + SendGrid + Admin-Resend', category: 'FEATURE' },
-  pr30: { metric: '1.164 Artikel gerettet', cost: 'Data-Loss-Bug im parseFM Inline-Array · jeder Save hätte Body gewiped', category: 'DATA_LOSS_PREVENTION', severity: 'critical' },
-  pr31: { metric: 'Agent-Session-Map live', cost: 'Mission-Control UI', category: 'UI' },
-  pr32: { metric: '1.845 / 1.849 Images Coverage', cost: 'Auto-Fallback für fehlende Featured-Images', category: 'UX' },
-  pr33: { metric: '10 Dating-Site Screenshots', cost: 'Playwright-Automation · echte Homepages', category: 'CONTENT' },
-  pr39: { metric: 'Plausible + 14 Stadt-Seiten', cost: 'Traffic-Boost Foundation · SEO-ready Sitemap', category: 'SEO' },
-  pr40: { metric: 'Sticky-Bar + Exit-Intent', cost: 'UWG-konforme Conversion-Optimierung', category: 'CONVERSION' },
-  pr41: { metric: 'Tracking-Whitelist-Extension', cost: 'poppen/lemonswan/lovoo slugs akzeptiert', category: 'TRACKING' },
-  pr43: { metric: 'Email-Drip 1/7/30 + Affiliate-Skelett', cost: 'Retention-Pipeline + Creator-Economy-Base', category: 'GROWTH' },
-  pr45: { metric: 'CSRF-Tokens + KPI-Widgets + PII-Redaction', cost: 'DSGVO-konformes Auditing + Admin-Härtung', category: 'COMPLIANCE' },
-  pr46: { metric: 'SEO-Hijacking · 3 Brand-Reviews', cost: '~11.800 Wörter · Badoo/Poppen/Lovoo → eigene Brands', category: 'SEO' },
-};
-
-// ═══════════════════════════════════════════════════════════════════════
-// MODE-SWITCH — Map / Story / Live
-// ═══════════════════════════════════════════════════════════════════════
-document.body.dataset.mode = 'map';
-document.querySelectorAll('.mode-btn').forEach(btn => {
-  btn.addEventListener('click', () => {
-    const mode = btn.dataset.mode;
-    document.body.dataset.mode = mode;
-    document.querySelectorAll('.mode-btn').forEach(b => b.classList.toggle('active', b === btn));
-    if (mode === 'story') activateChapter(1);
-  });
-});
-
-// ═══════════════════════════════════════════════════════════════════════
-// STORY-MODE — Scroll-triggered Chapter-Activation + Node-Highlighting
-// ═══════════════════════════════════════════════════════════════════════
-const storyContainer = document.getElementById('story-container');
-const chapters = document.querySelectorAll('.chapter');
-
-function activateChapter(num) {
-  chapters.forEach(ch => ch.classList.toggle('active', +ch.dataset.chapter === num));
-  const ch = document.querySelector(`.chapter[data-chapter="${num}"]`);
-  if (!ch) return;
-  const highlights = new Set((ch.dataset.highlight || '').split(',').map(s => s.trim()).filter(Boolean));
-  // Story-mode always dims + highlights; map-mode resets
-  stage.classList.add('story-dim');
-  document.querySelectorAll('.node').forEach((el, i) => {
-    const n = NODES[i];
-    el.classList.toggle('highlight', highlights.has(n.id));
-  });
-}
-function resetHighlight() {
-  stage.classList.remove('story-dim');
-  document.querySelectorAll('.node').forEach(el => el.classList.remove('highlight'));
+function getStageScale() {
+  const rect = stage.getBoundingClientRect();
+  // viewBox 1600x900 is rendered inside stage preserveAspectRatio=xMidYMid meet
+  const scale = Math.min(rect.width / VB_W, rect.height / VB_H) * zoom;
+  return scale;
 }
 
-// IntersectionObserver: aktiviert Kapitel wenn es im Viewport ist
-const storyObs = new IntersectionObserver((entries) => {
-  if (document.body.dataset.mode !== 'story') return;
-  let bestEntry = null, bestRatio = 0;
-  entries.forEach(e => { if (e.isIntersecting && e.intersectionRatio > bestRatio) { bestEntry = e; bestRatio = e.intersectionRatio; } });
-  if (bestEntry) activateChapter(+bestEntry.target.dataset.chapter);
-}, { root: storyContainer, threshold: [0.3, 0.5, 0.7] });
-chapters.forEach(ch => storyObs.observe(ch));
-
-// Reset highlight when switching away from story
-new MutationObserver(() => {
-  if (document.body.dataset.mode !== 'story') resetHighlight();
-}).observe(document.body, { attributes: true, attributeFilter: ['data-mode'] });
-
-// ═══════════════════════════════════════════════════════════════════════
-// DEEP-DIVE auf Click (ergänzt Tooltip auf Hover)
-// ═══════════════════════════════════════════════════════════════════════
-document.querySelectorAll('.node').forEach((el, i) => {
-  const n = NODES[i];
-  el.addEventListener('click', (ev) => {
-    ev.stopPropagation();
-    const imp = IMPACT[n.id];
-    tooltip.innerHTML = `
-      <div class="tt-sub">${n.type}${imp ? ' · ' + imp.category : ''}</div>
-      <h4>${n.label} ${n.sub ? '· ' + n.sub : ''}</h4>
-      ${n.desc ? `<p>${n.desc}</p>` : ''}
-      ${imp ? `
-        <div style="margin-top: 12px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,.08);">
-          <div style="font-size: 10px; color: #ff3868; text-transform: uppercase; letter-spacing: 0.14em; font-weight: 700; margin-bottom: 4px;">Impact</div>
-          <div style="font-size: 14px; font-weight: 700; color: #f3f4f8; margin-bottom: 4px;">${imp.metric}</div>
-          <div style="font-size: 11px; color: #a5a7b8; line-height: 1.5;">${imp.cost}</div>
-          ${imp.severity === 'critical' ? '<div style="margin-top: 8px; display: inline-block; padding: 2px 8px; background: rgba(255,56,104,.2); color: #ff3868; border-radius: 4px; font-size: 10px; font-weight: 700; letter-spacing: 0.08em;">CRITICAL</div>' : ''}
-        </div>
-      ` : ''}
-      <span class="tt-state">${n.state}</span>
-    `;
-    // Position centered for detail view
-    tooltip.style.left = Math.min(ev.clientX + 18, window.innerWidth - 380) + 'px';
-    tooltip.style.top = Math.min(ev.clientY + 18, window.innerHeight - 300) + 'px';
-    tooltip.style.opacity = '1';
-    tooltip.style.maxWidth = '360px';
-  });
-});
-// Click outside closes deep-dive
-document.addEventListener('click', (e) => {
-  if (!tooltip.contains(e.target) && !e.target.closest('.node')) {
-    tooltip.style.opacity = '0';
+function updateNodePosition(n) {
+  const el = nodeEls[n.id];
+  if (el) {
+    el.style.left = pctX(n.x);
+    el.style.top = pctY(n.y);
   }
-});
-
-// ═══════════════════════════════════════════════════════════════════════
-// LIVE-VITALS — T+ Clock + Fake-Metrics (polling-ready)
-// ═══════════════════════════════════════════════════════════════════════
-const sessionStartTs = new Date(); sessionStartTs.setHours(12, 0, 0, 0);
-function tickVitals() {
-  const s = Math.max(0, Math.floor((Date.now() - sessionStartTs.getTime()) / 1000));
-  const h = String(Math.floor(s/3600)).padStart(2,'0');
-  const m = String(Math.floor(s/60)%60).padStart(2,'0');
-  const ss = String(s%60).padStart(2,'0');
-  const tp = document.getElementById('lv-tplus'); if (tp) tp.textContent = `${h}:${m}:${ss}`;
-  // PRs/h based on 38 PRs in 6h
-  const rate = s > 0 ? (38 / (s / 3600)).toFixed(1) : '—';
-  const pr = document.getElementById('lv-prrate'); if (pr) pr.textContent = rate + ' / h';
-  const up = document.getElementById('lv-uptime'); if (up) up.textContent = '100.0 %';
-  const ag = document.getElementById('lv-agents'); if (ag) ag.textContent = '10+';
+  // Update connected edges
+  edgeEls.forEach(e => {
+    if (e.s === n.id) { e.el.setAttribute('x1', n.x); e.el.setAttribute('y1', n.y); }
+    if (e.t === n.id) { e.el.setAttribute('x2', n.x); e.el.setAttribute('y2', n.y); }
+  });
 }
-tickVitals();
-setInterval(tickVitals, 1000);
 
-// ═══════════════════════════════════════════════════════════════════════
-// FUTURE-MODE — Node-Timestamps, Radar-Ping, Particle-Flows, Scrubber
-// ═══════════════════════════════════════════════════════════════════════
+Object.entries(nodeEls).forEach(([id, el]) => {
+  if (id === 'main') return; // main is fixed
+  const n = nodeMap[id];
+  let dragStartX = 0, dragStartY = 0, nodeStartX = 0, nodeStartY = 0;
+  let moved = false;
 
-// Minuten seit Session-Start (12:00 = 0, 20:00 = 480) — für Scrubber-Replay
-const NODE_TIMES = {
-  // Coordinator (always from start)
-  main: 0,
-  // Audit-Agents (12:00–14:30 Phase 1)
-  'a-p1': 2, 'a-p2': 8, 'a-p5': 18, 'a-cr': 35, 'a-sec': 50, 'a-ui': 80,
-  // Writers (spanning session)
-  'a-ebook': 60, 'a-bonus': 180, 'a-delivery': 300, 'a-adminlive': 305,
-  'a-traffic': 390, 'a-hijack': 450,
-  // Fixer Wave (15:30 – 17:00)
-  'f-p4': 210, 'f-xss': 225, 'f-ux': 240, 'f-admin': 305,
-  // Infra
-  railway: 0, chrome: 60,
-  // PRs — aus LOG_EVENTS Zeitstempeln (12:00 = 0)
-  pr11: 0, pr12: 30, pr13: 45, pr14: 60, pr15: 75, pr16: 90,
-  pr17: 200, pr18: 205, pr19: 210, pr20: 220,
-  pr21: 260, pr22: 270, pr23: 285, pr24: 290, pr25: 300,
-  pr26: 310, pr27: 320, pr28: 320, pr29: 340, pr30: 350,
-  pr31: 360, pr32: 360, pr33: 370,
-  pr37: 420, pr39: 435, pr40: 445, pr41: 450,
-  pr43: 467, pr45: 470, pr46: 480,
-};
-
-// Reverse-Lookup: für jeden NODE, die Zeit (Minuten seit 12:00)
-NODES.forEach(n => { n.t = NODE_TIMES[n.id] ?? 0; });
-
-// ─── Radar-Ping: Wenn Conic-Gradient-Sweep einen Node überstreicht ───
-(function setupRadarPing() {
-  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
-  const mainX = nodeMap.main.x, mainY = nodeMap.main.y;
-  // Conic-Gradient start = 0deg (oben), rotiert 360°/7s → 51.43°/s
-  // Sweep-Fenster: ~320deg bis ~360deg → ping beim Durchgang
-  const SWEEP_CENTER_DEG = 354; // etwa Mitte des Gradient-Keils
-  function nodeAngle(n) {
-    // SVG-viewBox-Koord → Winkel (0° = oben, CCW negativ, CW positiv)
-    const dx = n.x - mainX, dy = n.y - mainY;
-    const deg = (Math.atan2(dx, -dy) * 180 / Math.PI + 360) % 360;
-    return deg;
-  }
-  const nodesByAngle = NODES
-    .filter(n => n.id !== 'main')
-    .map(n => ({ n, angle: nodeAngle(n), el: null, lastPing: 0 }));
-  // Element-Refs zum Pingen einsammeln (nach Render)
-  document.querySelectorAll('.node').forEach((el, i) => {
-    const n = NODES[i];
-    const rec = nodesByAngle.find(r => r.n.id === n.id);
-    if (rec) rec.el = el;
+  el.addEventListener('mousedown', (ev) => {
+    ev.preventDefault(); ev.stopPropagation();
+    draggingNode = n; moved = false;
+    dragStartX = ev.clientX; dragStartY = ev.clientY;
+    nodeStartX = n.x; nodeStartY = n.y;
+    el.style.zIndex = '50';
+    stage.classList.add('dragging-node');
   });
-  const rotationStart = performance.now();
-  function radarLoop() {
-    if (document.body.dataset.mode !== 'map') {
-      requestAnimationFrame(radarLoop); return;
-    }
-    const elapsed = (performance.now() - rotationStart) / 1000;
-    const currentAngle = (elapsed * (360 / 7) + SWEEP_CENTER_DEG) % 360;
-    const now = performance.now();
-    nodesByAngle.forEach(rec => {
-      if (!rec.el) return;
-      if (rec.el.classList.contains('time-hidden')) return;
-      const diff = Math.min(Math.abs(currentAngle - rec.angle), 360 - Math.abs(currentAngle - rec.angle));
-      if (diff < 4 && (now - rec.lastPing) > 3000) {
-        rec.el.classList.add('radar-ping');
-        rec.lastPing = now;
-        setTimeout(() => rec.el && rec.el.classList.remove('radar-ping'), 1200);
-      }
-    });
-    requestAnimationFrame(radarLoop);
+
+  function onMove(ev) {
+    if (draggingNode !== n) return;
+    const dx = ev.clientX - dragStartX;
+    const dy = ev.clientY - dragStartY;
+    if (Math.abs(dx) + Math.abs(dy) > 3) moved = true;
+    const scale = getStageScale();
+    n.x = nodeStartX + dx / scale;
+    n.y = nodeStartY + dy / scale;
+    updateNodePosition(n);
   }
-  requestAnimationFrame(radarLoop);
-})();
-
-// ─── Particle-Flows: Canvas-Partikel wandern Main → PR/Agent ───────
-(function setupParticles() {
-  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
-  const canvas = document.getElementById('particles');
-  if (!canvas) return;
-  const ctx = canvas.getContext('2d');
-  let W = 0, H = 0, vbScaleX = 1, vbScaleY = 1;
-  function resize() {
-    const rect = canvas.parentElement.getBoundingClientRect();
-    const dpr = window.devicePixelRatio || 1;
-    W = rect.width; H = rect.height;
-    canvas.width = W * dpr; canvas.height = H * dpr;
-    canvas.style.width = W + 'px'; canvas.style.height = H + 'px';
-    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-    // SVG viewBox ist 1600×900, aspect-preserving = xMidYMid meet
-    const scale = Math.min(W / 1600, H / 900);
-    vbScaleX = vbScaleY = scale;
+  function onUp(ev) {
+    if (draggingNode !== n) return;
+    draggingNode = null;
+    el.style.zIndex = '';
+    stage.classList.remove('dragging-node');
+    // If no drag happened, treat as click → open detail
+    if (!moved) showDetail(n);
   }
-  resize();
-  window.addEventListener('resize', resize);
-
-  // viewBox → screen coordinates
-  function vb(vx, vy) {
-    const offX = (W - 1600 * vbScaleX) / 2;
-    const offY = (H - 900 * vbScaleY) / 2;
-    return [offX + vx * vbScaleX, offY + vy * vbScaleY];
-  }
-
-  const particles = [];
-  // Mögliche Ziele = alle Edges von main
-  const targets = EDGES.filter(e => e.s === 'main').map(e => e.t);
-
-  function spawnParticle() {
-    if (document.body.dataset.mode !== 'map') return;
-    const tid = targets[(Math.random() * targets.length) | 0];
-    const target = nodeMap[tid];
-    if (!target) return;
-    // Nur wenn Target derzeit sichtbar (nicht zeit-versteckt)
-    const el = document.querySelector(`.node[data-id="${tid}"]`);
-    if (el && el.classList.contains('time-hidden')) return;
-    const toPR = target.type === 'artifact';
-    // Bezier control-point: perpendicular-offset from midpoint, random side + magnitude
-    const dx = target.x - nodeMap.main.x, dy = target.y - nodeMap.main.y;
-    const len = Math.hypot(dx, dy) || 1;
-    const side = Math.random() > 0.5 ? 1 : -1;
-    const curveMag = 40 + Math.random() * 80;
-    const mx = (nodeMap.main.x + target.x) / 2 + (-dy / len) * curveMag * side;
-    const my = (nodeMap.main.y + target.y) / 2 + ( dx / len) * curveMag * side;
-    particles.push({
-      from: nodeMap.main, to: target,
-      cx: mx, cy: my, // bezier control
-      p: 0, speed: 0.008 + Math.random() * 0.01,
-      size: toPR ? 2.2 : 2.8,
-      color: toPR ? [34, 197, 94] : [255, 56, 104], // green from PR, rose to agent
-      reverse: toPR,
-    });
-  }
-  setInterval(spawnParticle, 140);
-
-  // Quadratic Bezier: B(t) = (1-t)² P0 + 2(1-t)t P1 + t² P2
-  function bezier(t, p0, p1, p2) {
-    const u = 1 - t;
-    return u * u * p0 + 2 * u * t * p1 + t * t * p2;
-  }
-
-  function draw() {
-    ctx.clearRect(0, 0, W, H);
-    for (let i = particles.length - 1; i >= 0; i--) {
-      const p = particles[i];
-      p.p += p.speed;
-      if (p.p >= 1) { particles.splice(i, 1); continue; }
-      const progress = p.reverse ? 1 - p.p : p.p;
-      const x = bezier(progress, p.from.x, p.cx, p.to.x);
-      const y = bezier(progress, p.from.y, p.cy, p.to.y);
-      const [sx, sy] = vb(x, y);
-      const fade = Math.sin(p.p * Math.PI);
-      const [r, g, b] = p.color;
-      // Trail along the curve
-      for (let k = 0; k < 6; k++) {
-        const backP = Math.max(0, p.p - k * 0.01);
-        const prog2 = p.reverse ? 1 - backP : backP;
-        const tx = bezier(prog2, p.from.x, p.cx, p.to.x);
-        const ty = bezier(prog2, p.from.y, p.cy, p.to.y);
-        const [tsx, tsy] = vb(tx, ty);
-        const a = fade * (0.55 - k * 0.08);
-        if (a <= 0) continue;
-        ctx.fillStyle = `rgba(${r},${g},${b},${a})`;
-        ctx.beginPath();
-        ctx.arc(tsx, tsy, p.size * (1 - k * 0.13), 0, Math.PI * 2);
-        ctx.fill();
-      }
-      // Core with glow
-      ctx.fillStyle = `rgba(${r},${g},${b},${fade})`;
-      ctx.shadowColor = `rgba(${r},${g},${b},${fade})`;
-      ctx.shadowBlur = 12;
-      ctx.beginPath();
-      ctx.arc(sx, sy, p.size, 0, Math.PI * 2);
-      ctx.fill();
-      ctx.shadowBlur = 0;
-    }
-    requestAnimationFrame(draw);
-  }
-  requestAnimationFrame(draw);
-})();
-
-// ─── Scrubber: data-id auf Nodes für Selector, + Replay-Logik ───────
-document.querySelectorAll('.node').forEach((el, i) => {
-  const n = NODES[i];
-  el.setAttribute('data-id', n.id);
-  el.setAttribute('data-t', String(n.t));
+  window.addEventListener('mousemove', onMove);
+  window.addEventListener('mouseup', onUp);
 });
 
-(function setupScrubber() {
-  const range = document.getElementById('scRange');
-  const timeLbl = document.getElementById('scTime');
-  const visLbl = document.getElementById('scVisible');
-  const totalLbl = document.getElementById('scTotal');
-  const playBtn = document.getElementById('scPlay');
-  const playLbl = document.getElementById('scPlayLabel');
-  const ticksEl = document.getElementById('scTicks');
-  const markersEl = document.getElementById('scMarkers');
-  if (!range) return;
+// ═══════════════════════════════════════════════════════════════════════
+// ZOOM (wheel) + PAN (drag background)
+// ═══════════════════════════════════════════════════════════════════════
+stage.addEventListener('wheel', (ev) => {
+  ev.preventDefault();
+  const factor = ev.deltaY > 0 ? 0.92 : 1.09;
+  zoom = Math.max(0.4, Math.min(3, zoom * factor));
+  applyTransform();
+}, { passive: false });
 
-  totalLbl.textContent = String(NODES.length);
-
-  // Render Tick-Labels (jede volle Stunde: 12, 13, …, 20)
-  for (let h = 12; h <= 20; h++) {
-    const tick = document.createElement('div');
-    tick.className = 'sc-tick';
-    tick.style.position = 'absolute';
-    tick.style.left = ((h - 12) * 60 / 480 * 100) + '%';
-    tick.innerHTML = `<span>${h}:00</span>`;
-    ticksEl.appendChild(tick);
-  }
-
-  // Critical-Event-Marker auf der Timeline (aus IMPACT + Node-Times)
-  const criticalIds = ['pr17', 'pr18', 'pr19', 'pr20', 'pr30'];
-  criticalIds.forEach(id => {
-    const t = NODE_TIMES[id];
-    if (t == null) return;
-    const m = document.createElement('div');
-    m.className = 'sc-marker critical';
-    m.style.left = (t / 480 * 100) + '%';
-    m.title = 'CRITICAL ' + id.toUpperCase();
-    markersEl.appendChild(m);
-  });
-
-  // Collect node refs by id for fast lookup
-  const nodeEls = {};
-  document.querySelectorAll('.node').forEach((el, i) => { nodeEls[NODES[i].id] = el; });
-  const edgeEls = Array.from(document.querySelectorAll('.edge'));
-  // EDGES array index mirrors edgeEls
-  function applyTime(tMinutes) {
-    let visible = 0;
-    NODES.forEach(n => {
-      const el = nodeEls[n.id];
-      if (!el) return;
-      const wasHidden = el.classList.contains('time-hidden');
-      if (n.t > tMinutes) {
-        el.classList.add('time-hidden');
-      } else {
-        if (wasHidden) {
-          el.classList.remove('time-hidden');
-          el.classList.add('just-born');
-          setTimeout(() => el.classList.remove('just-born'), 1000);
-        }
-        visible++;
-      }
-    });
-    // Edges: hide if either endpoint hidden
-    EDGES.forEach((e, i) => {
-      const eEl = edgeEls[i]; if (!eEl) return;
-      const tS = (nodeMap[e.s] && nodeMap[e.s].t) || 0;
-      const tT = (nodeMap[e.t] && nodeMap[e.t].t) || 0;
-      if (Math.max(tS, tT) > tMinutes) eEl.classList.add('time-hidden');
-      else eEl.classList.remove('time-hidden');
-    });
-    // Label-Update
-    const h = Math.floor(tMinutes / 60) + 12;
-    const m = String(tMinutes % 60).padStart(2, '0');
-    timeLbl.textContent = `${h}:${m}`;
-    visLbl.textContent = String(visible);
-    range.style.setProperty('--fill', (tMinutes / 480 * 100) + '%');
-    // Hook für Shockwaves + Achievements
-    if (window.__onMapTime) window.__onMapTime(tMinutes);
-  }
-  // Expose applyTime for programmatic use (Achievement-Banner Re-Play etc.)
-  window.__mapApplyTime = applyTime;
-
-  range.addEventListener('input', (e) => {
-    stopPlayback();
-    applyTime(+e.target.value);
-  });
-
-  // Play/Pause: animiere Slider von 0 → 480 über 30s (by default, speed=1)
-  let playing = false, playStart = 0, startValue = 0, rafId = 0;
-  const BASE_PLAY_DURATION_MS = 30000;
-  window.__mapPlaySpeed = 1;
-  function playFrame() {
-    if (!playing) return;
-    const elapsed = performance.now() - playStart;
-    const duration = BASE_PLAY_DURATION_MS / (window.__mapPlaySpeed || 1);
-    const fraction = Math.min(1, elapsed / duration);
-    const tMin = Math.round(startValue + (480 - startValue) * fraction);
-    range.value = String(tMin);
-    applyTime(tMin);
-    if (fraction < 1) rafId = requestAnimationFrame(playFrame);
-    else stopPlayback();
-  }
-  function startPlayback() {
-    playing = true;
-    startValue = +range.value >= 480 ? 0 : +range.value;
-    range.value = String(startValue);
-    applyTime(startValue);
-    playStart = performance.now();
-    playBtn.classList.add('playing');
-    playLbl.textContent = 'Pause';
-    rafId = requestAnimationFrame(playFrame);
-  }
-  function stopPlayback() {
-    playing = false;
-    cancelAnimationFrame(rafId);
-    playBtn.classList.remove('playing');
-    playLbl.textContent = 'Replay';
-  }
-  playBtn.addEventListener('click', () => {
-    if (playing) stopPlayback();
-    else startPlayback();
-  });
-
-  // Initial: alles sichtbar (Slider auf Max)
-  applyTime(480);
-})();
+let panning = false, panStartX = 0, panStartY = 0;
+stage.addEventListener('mousedown', (ev) => {
+  if (ev.target.closest('.node, .panel, .sm-header, .sm-scrubber')) return;
+  panning = true;
+  panStartX = ev.clientX - panX;
+  panStartY = ev.clientY - panY;
+});
+window.addEventListener('mousemove', (ev) => {
+  if (!panning) return;
+  panX = ev.clientX - panStartX;
+  panY = ev.clientY - panStartY;
+  applyTransform();
+});
+window.addEventListener('mouseup', () => { panning = false; });
 
 // ═══════════════════════════════════════════════════════════════════════
-// LEVEL-2: Parallax · Focus-Mode · Speed · Shockwaves · Achievements · Bezier-Particles
+// CLICK: Focus-Mode + Detail-Panel
 // ═══════════════════════════════════════════════════════════════════════
+const detailPanel = document.getElementById('detail-panel');
+let focusedNodeId = null;
 
-// ─── 1. Node-Depth-Assignment (near/mid/far) für 3D-Parallax ──────────
-(function setupDepth() {
-  document.querySelectorAll('.node').forEach((el, i) => {
-    const n = NODES[i];
-    // Main in center = mid; type "artifact" (PRs) = near; agents = far
-    let depth = 'mid';
-    if (n.type === 'artifact') depth = 'near';
-    else if (n.type === 'general' || n.type === 'specialist' || n.type === 'infra') depth = 'far';
-    el.setAttribute('data-depth', depth);
+function showDetail(n) {
+  // Enter focus mode
+  stage.classList.add('focus-mode');
+  focusedNodeId = n.id;
+  Object.values(nodeEls).forEach(el => el.classList.remove('focused'));
+  nodeEls[n.id].classList.add('focused');
+  edgeEls.forEach(e => {
+    e.el.classList.toggle('connected', e.s === n.id || e.t === n.id);
   });
-})();
-
-// ─── 2. 3D-Parallax via Mouse-Move ────────────────────────────────────
-(function setupParallax() {
-  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
-  const stage = document.getElementById('stage');
-  const parallax = document.getElementById('parallax');
-  if (!stage || !parallax) return;
-  let targetX = 0, targetY = 0, currentX = 0, currentY = 0;
-  stage.addEventListener('mousemove', (e) => {
-    const rect = stage.getBoundingClientRect();
-    const nx = (e.clientX - rect.left) / rect.width - 0.5;
-    const ny = (e.clientY - rect.top) / rect.height - 0.5;
-    targetX = nx * 40;
-    targetY = ny * 28;
-    parallax.style.setProperty('--par-rx', (nx * 6) + 'deg');
-    parallax.style.setProperty('--par-ry', (-ny * 4) + 'deg');
-  });
-  stage.addEventListener('mouseleave', () => {
-    targetX = 0; targetY = 0;
-    parallax.style.setProperty('--par-rx', '0deg');
-    parallax.style.setProperty('--par-ry', '0deg');
-  });
-  function smoothParallax() {
-    currentX += (targetX - currentX) * 0.08;
-    currentY += (targetY - currentY) * 0.08;
-    parallax.style.setProperty('--par-x', currentX.toFixed(1) + 'px');
-    parallax.style.setProperty('--par-y', currentY.toFixed(1) + 'px');
-    requestAnimationFrame(smoothParallax);
+  // Populate panel
+  document.getElementById('dp-type').textContent = n.type;
+  document.getElementById('dp-title').textContent = n.label;
+  document.getElementById('dp-sub').textContent = n.sub || '';
+  document.getElementById('dp-desc').textContent = n.desc || 'Keine weiteren Details erfasst.';
+  const imp = IMPACT[n.id];
+  const impEl = document.getElementById('dp-impact');
+  if (imp) {
+    impEl.style.display = '';
+    document.getElementById('dp-impact-metric').textContent = imp.metric;
+    document.getElementById('dp-impact-cost').textContent = imp.cost;
+  } else {
+    impEl.style.display = 'none';
   }
-  requestAnimationFrame(smoothParallax);
-})();
+  detailPanel.classList.add('open');
+}
 
-// ─── 3. Focus-Mode on Node-Click (ersetzt Deep-Dive-Only-Tooltip) ──
-(function setupFocusMode() {
-  const stage = document.getElementById('stage');
-  if (!stage) return;
+function exitFocus() {
+  stage.classList.remove('focus-mode');
+  focusedNodeId = null;
+  Object.values(nodeEls).forEach(el => el.classList.remove('focused'));
+  edgeEls.forEach(e => e.el.classList.remove('connected'));
+  detailPanel.classList.remove('open');
+}
 
-  const nodeEls = {};
-  document.querySelectorAll('.node').forEach((el, i) => { nodeEls[NODES[i].id] = el; });
+document.getElementById('dp-close').addEventListener('click', exitFocus);
+stage.addEventListener('click', (ev) => {
+  if (!ev.target.closest('.node') && focusedNodeId) exitFocus();
+});
+document.addEventListener('keydown', (ev) => {
+  if (ev.key === 'Escape' && focusedNodeId) exitFocus();
+});
 
-  function enterFocus(nodeId) {
-    stage.classList.add('focus-mode');
-    // Clear previous focus
-    Object.values(nodeEls).forEach(el => el.classList.remove('focused'));
-    // Mark focused node
-    if (nodeEls[nodeId]) nodeEls[nodeId].classList.add('focused');
-    // Mark connected edges
-    document.querySelectorAll('.edge, .edge-curve').forEach(edge => {
-      edge.classList.remove('connected');
-    });
-    const edgeEls = Array.from(document.querySelectorAll('.edge'));
-    EDGES.forEach((e, i) => {
-      if (e.s === nodeId || e.t === nodeId) {
-        const eEl = edgeEls[i];
-        if (eEl) eEl.classList.add('connected');
-      }
-    });
-  }
-  function exitFocus() {
-    stage.classList.remove('focus-mode');
-    Object.values(nodeEls).forEach(el => el.classList.remove('focused'));
-    document.querySelectorAll('.edge').forEach(edge => edge.classList.remove('connected'));
-  }
-
-  document.querySelectorAll('.node').forEach((el, i) => {
-    const n = NODES[i];
-    el.addEventListener('click', (ev) => {
-      ev.stopPropagation();
-      if (stage.classList.contains('focus-mode') && el.classList.contains('focused')) {
-        exitFocus();
-      } else {
-        enterFocus(n.id);
-      }
-    });
-  });
-  // Klick auf Hintergrund = exit
-  stage.addEventListener('click', (e) => {
-    if (!e.target.closest('.node')) exitFocus();
-  });
-  document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') exitFocus();
-  });
-})();
-
-// ─── 4. Speed-Control Buttons (0.5/1/2/4x) ────────────────────────────
-(function setupSpeed() {
-  document.querySelectorAll('.sc-speed-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('.sc-speed-btn').forEach(b => b.classList.toggle('active', b === btn));
-      window.__mapPlaySpeed = parseFloat(btn.dataset.speed);
-    });
-  });
-})();
-
-// ─── 5. Achievement-Banner + Shockwaves during Replay ────────────────
-(function setupCinematic() {
-  const ACHIEVEMENTS = [
-    { t: 0,   label: 'SESSION START',    title: '10 Agents spawn',          sub: '12:00 CEST · Phase 1 Audit beginnt' },
-    { t: 200, label: '🚨 CRISIS',        title: 'Leak-Fix Welle startet',    sub: '15:20 · 5 Secrets werden rotiert',  critical: true },
-    { t: 220, label: 'SECURITY PATCH',   title: '3 XSS + SQL-Inj gepatcht', sub: '15:40 · 4 CRITICAL PRs in 20 Min',  critical: true },
-    { t: 300, label: 'FIXER WAVE',       title: '4 Fixer parallel',          sub: '17:00 · 6 PRs / 60 Min' },
-    { t: 350, label: '💾 DATA SAVED',    title: '1.164 Artikel gerettet',    sub: '17:50 · Editor-Bug gefixt',         critical: true },
-    { t: 420, label: 'PRODUCT LIVE',     title: 'E-Book + 5 Bonus auf Prod', sub: '19:00 · 15 Kapitel ~46k Wörter' },
-    { t: 480, label: 'SESSION COMPLETE', title: '38 PRs · 0 Outages',        sub: '20:00 · 6 CRITICAL gefixt' },
-  ];
-  const CRITICAL_PR_TIMES = [200, 205, 210, 220, 350]; // pr17, pr18, pr19, pr20, pr30
-  let lastT = -10;
-  let firedAch = new Set();
-  let firedShock = new Set();
-  const shockLayer = document.getElementById('shockwaveLayer');
-  const stage = document.getElementById('stage');
-
-  function fireAchievement(ach) {
-    const banner = document.createElement('div');
-    banner.className = 'achievement-banner' + (ach.critical ? ' critical' : '');
-    banner.innerHTML = `
-      <div class="ach-label">${ach.label}</div>
-      <div class="ach-title">${ach.title}</div>
-      <div class="ach-sub">${ach.sub}</div>
-    `;
-    document.body.appendChild(banner);
-    setTimeout(() => banner.remove(), 3500);
-  }
-
-  function fireShockwave() {
-    if (!shockLayer) return;
-    const sw = document.createElement('div');
-    sw.className = 'shockwave';
-    shockLayer.appendChild(sw);
-    setTimeout(() => sw.remove(), 1500);
-    // Also trigger camera shake
-    if (stage) {
-      stage.classList.remove('camera-shake');
-      // force reflow
-      void stage.offsetWidth;
-      stage.classList.add('camera-shake');
-      setTimeout(() => stage.classList.remove('camera-shake'), 700);
-    }
-  }
-
-  window.__onMapTime = function(tMinutes) {
-    // Reset fired-state on rewind (slider moved back)
-    if (tMinutes < lastT - 5) {
-      firedAch.clear();
-      firedShock.clear();
-    }
-    lastT = tMinutes;
-    // Fire achievements within 2-minute window, each once
-    ACHIEVEMENTS.forEach(ach => {
-      if (Math.abs(tMinutes - ach.t) <= 2 && !firedAch.has(ach.t)) {
-        firedAch.add(ach.t);
-        fireAchievement(ach);
-      }
-    });
-    // Fire shockwaves on CRITICAL PR times
-    CRITICAL_PR_TIMES.forEach(t => {
-      if (Math.abs(tMinutes - t) <= 1 && !firedShock.has(t)) {
-        firedShock.add(t);
-        fireShockwave();
-      }
-    });
-  };
-})();
-
-// ─── 6. Bezier-Particle-Curves: bereits in setupParticles integriert ─
-// (Control-Point perpendicular-offset vom Midpoint mit Random-Side + Magnitude)
+// Main-Agent click opens its detail
+nodeEls.main.addEventListener('click', (ev) => {
+  ev.stopPropagation();
+  showDetail(nodeMap.main);
+});
 
 // ═══════════════════════════════════════════════════════════════════════
-// LEVEL-3: Force-Graph · Drag · Zoom · Pan · Agent-Cluster-Coloring
+// TIMELINE SCRUBBER
 // ═══════════════════════════════════════════════════════════════════════
+const range = document.getElementById('scRange');
+const timeLbl = document.getElementById('scTime');
+const visLbl = document.getElementById('scVisible');
+const totalLbl = document.getElementById('scTotal');
+const playBtn = document.getElementById('scPlay');
+const playLbl = document.getElementById('scPlayLabel');
+const resetBtn = document.getElementById('scReset');
+const ticksEl = document.getElementById('scTicks');
+const markersEl = document.getElementById('scMarkers');
 
-(function setupForceGraph() {
-  // Physics-State zu jedem Node
+totalLbl.textContent = String(NODES.length);
+
+// Render tick-hours (12-20)
+for (let h = 12; h <= 20; h++) {
+  const tick = document.createElement('div');
+  tick.className = 'sc-tick';
+  tick.style.position = 'absolute';
+  tick.style.left = ((h - 12) * 60 / 480 * 100) + '%';
+  tick.innerHTML = `<span>${h}:00</span>`;
+  ticksEl.appendChild(tick);
+}
+// Critical markers
+[200, 205, 210, 220, 350].forEach(t => {
+  const m = document.createElement('div');
+  m.className = 'sc-marker';
+  m.style.left = (t / 480 * 100) + '%';
+  markersEl.appendChild(m);
+});
+
+function applyTime(tMin) {
+  let visible = 0;
   NODES.forEach(n => {
-    n.vx = 0; n.vy = 0;
-    n.fx = null; n.fy = null;          // fixed pos when dragged
-    n.homeX = n.x; n.homeY = n.y;      // initial "home" pos für Reset
+    const el = nodeEls[n.id];
+    if (!el) return;
+    if (n.t > tMin) el.classList.add('time-hidden');
+    else { el.classList.remove('time-hidden'); visible++; }
   });
-
-  // Node-Element-Refs
-  const nodeElsById = {};
-  document.querySelectorAll('.node').forEach((el, i) => {
-    nodeElsById[NODES[i].id] = el;
+  edgeEls.forEach(e => {
+    const tS = (nodeMap[e.s] && nodeMap[e.s].t) || 0;
+    const tT = (nodeMap[e.t] && nodeMap[e.t].t) || 0;
+    if (Math.max(tS, tT) > tMin) e.el.classList.add('time-hidden');
+    else e.el.classList.remove('time-hidden');
   });
-  const edgeEls = Array.from(document.querySelectorAll('.edge'));
+  const h = Math.floor(tMin / 60) + 12;
+  const m = String(tMin % 60).padStart(2, '0');
+  timeLbl.textContent = `${h}:${m}`;
+  visLbl.textContent = String(visible);
+  range.style.setProperty('--fill', (tMin / 480 * 100) + '%');
+}
 
-  // ─── Agent-Cluster-Coloring: PRs erben "Cluster-Farbe" des Originators ───
-  // Mapping PR → Agent (basiert auf LOG_EVENTS-Zeiten + Session-Wissen)
-  const PR_ORIGIN = {
-    // Early Wave (general-purpose)
-    pr11:'a-p1', pr12:'a-p2', pr13:'a-p2', pr14:'a-p2', pr15:'a-p2', pr16:'a-p2',
-    // CRITICAL Security Wave
-    pr17:'a-sec', pr18:'a-sec', pr19:'f-p4', pr20:'f-xss',
-    // Fixer Wave
-    pr21:'f-ux', pr22:'a-ebook', pr23:'a-bonus', pr24:'f-ux', pr25:'a-cr',
-    pr26:'f-ux', pr27:'a-sec', pr28:'a-ui',
-    // Comeback
-    pr29:'a-delivery', pr30:'f-admin', pr31:'a-adminlive',
-    pr32:'a-adminlive', pr33:'chrome',
-    pr37:'a-adminlive', pr39:'a-traffic', pr40:'a-traffic', pr41:'a-traffic',
-    pr43:'a-traffic', pr45:'a-sec', pr46:'a-hijack',
-  };
+range.addEventListener('input', (ev) => {
+  stopPlayback();
+  applyTime(+ev.target.value);
+});
 
-  const stage = document.getElementById('stage');
-  const parallax = document.getElementById('parallax');
+// Playback
+let playing = false, playStart = 0, startValue = 0, rafId = 0;
+let playSpeed = 1;
+const BASE_MS = 30000;
+function playFrame() {
+  if (!playing) return;
+  const elapsed = performance.now() - playStart;
+  const duration = BASE_MS / playSpeed;
+  const fraction = Math.min(1, elapsed / duration);
+  const tMin = Math.round(startValue + (480 - startValue) * fraction);
+  range.value = String(tMin);
+  applyTime(tMin);
+  if (fraction < 1) rafId = requestAnimationFrame(playFrame);
+  else stopPlayback();
+}
+function startPlayback() {
+  playing = true;
+  startValue = +range.value >= 480 ? 0 : +range.value;
+  range.value = String(startValue);
+  applyTime(startValue);
+  playStart = performance.now();
+  playLbl.textContent = '❚❚ Pause';
+  rafId = requestAnimationFrame(playFrame);
+}
+function stopPlayback() {
+  playing = false;
+  cancelAnimationFrame(rafId);
+  playLbl.textContent = '▶ Replay';
+}
+playBtn.addEventListener('click', () => { playing ? stopPlayback() : startPlayback(); });
 
-  // ─── Tick: Force-Simulation ────────────────────────────────────
-  const CENTER_X = 800, CENTER_Y = 450;
-  const MIN_BOUND = { x: 40, y: 40, maxX: 1560, maxY: 860 };
-
-  function tick() {
-    // 1. Repulsion zwischen allen Nodes
-    for (let i = 0; i < NODES.length; i++) {
-      for (let j = i + 1; j < NODES.length; j++) {
-        const a = NODES[i], b = NODES[j];
-        const dx = b.x - a.x, dy = b.y - a.y;
-        const dist2 = dx * dx + dy * dy + 0.01;
-        const dist = Math.sqrt(dist2);
-        const rA = (a.r || 10), rB = (b.r || 10);
-        const minSep = rA + rB + 12;
-        // Stronger force when too close (avoid overlap)
-        const force = Math.max(600, 3000 / dist2) * (dist < minSep ? 4 : 1);
-        const fx = (dx / dist) * force;
-        const fy = (dy / dist) * force;
-        a.vx -= fx; a.vy -= fy;
-        b.vx += fx; b.vy += fy;
-      }
-    }
-    // 2. Spring-Attraction entlang Edges
-    EDGES.forEach(e => {
-      const a = nodeMap[e.s], b = nodeMap[e.t];
-      if (!a || !b) return;
-      const dx = b.x - a.x, dy = b.y - a.y;
-      const dist = Math.sqrt(dx * dx + dy * dy) + 0.01;
-      const target = e.thin ? 180 : 140; // PRs weiter weg, Agents dichter
-      const springK = e.thin ? 0.012 : 0.022;
-      const force = (dist - target) * springK;
-      const fx = (dx / dist) * force;
-      const fy = (dy / dist) * force;
-      a.vx += fx; a.vy += fy;
-      b.vx -= fx; b.vy -= fy;
-    });
-    // 3. Gravity zur Mitte (sehr schwach) — hält den Cluster zentriert
-    NODES.forEach(n => {
-      if (n.id === 'main') return; // Main bleibt zentral
-      n.vx += (CENTER_X - n.x) * 0.0006;
-      n.vy += (CENTER_Y - n.y) * 0.0006;
-    });
-    // 4. Update Positionen
-    NODES.forEach(n => {
-      if (n.fx != null) {
-        n.x = n.fx; n.y = n.fy; n.vx = 0; n.vy = 0;
-      } else if (n.id === 'main') {
-        n.x = CENTER_X; n.y = CENTER_Y; n.vx = 0; n.vy = 0;
-      } else {
-        n.vx *= 0.82; // damping
-        n.vy *= 0.82;
-        n.x += n.vx;
-        n.y += n.vy;
-        if (n.x < MIN_BOUND.x) { n.x = MIN_BOUND.x; n.vx = 0; }
-        if (n.x > MIN_BOUND.maxX) { n.x = MIN_BOUND.maxX; n.vx = 0; }
-        if (n.y < MIN_BOUND.y) { n.y = MIN_BOUND.y; n.vy = 0; }
-        if (n.y > MIN_BOUND.maxY) { n.y = MIN_BOUND.maxY; n.vy = 0; }
-      }
-    });
-    render();
-    requestAnimationFrame(tick);
-  }
-
-  function pct(v, dim) { return (v / (dim === 'x' ? 1600 : 900)) * 100 + '%'; }
-
-  function render() {
-    NODES.forEach(n => {
-      const el = nodeElsById[n.id];
-      if (!el) return;
-      el.style.left = pct(n.x, 'x');
-      el.style.top = pct(n.y, 'y');
-    });
-    EDGES.forEach((e, i) => {
-      const line = edgeEls[i];
-      if (!line) return;
-      const a = nodeMap[e.s], b = nodeMap[e.t];
-      if (!a || !b) return;
-      line.setAttribute('x1', a.x);
-      line.setAttribute('y1', a.y);
-      line.setAttribute('x2', b.x);
-      line.setAttribute('y2', b.y);
-    });
-    // Hub-Rings folgen Main
-    document.querySelectorAll('.hub-ring').forEach(ring => {
-      ring.style.left = pct(nodeMap.main.x, 'x');
-      ring.style.top = pct(nodeMap.main.y, 'y');
-    });
-  }
-
-  // ─── Drag: Nodes verschieben ────────────────────────────────────
-  Object.entries(nodeElsById).forEach(([id, el]) => {
-    const n = nodeMap[id];
-    if (!n || id === 'main') return; // Main ist fix zentral
-
-    let dragging = false, moved = false;
-    let startScreenX = 0, startScreenY = 0;
-    let startNodeX = 0, startNodeY = 0;
-
-    function onDown(ev) {
-      // Ignore if it's a touch-drag on scrubber
-      if (ev.target.closest('.sm-scrubber')) return;
-      ev.stopPropagation();
-      dragging = true; moved = false;
-      const point = ev.touches ? ev.touches[0] : ev;
-      startScreenX = point.clientX;
-      startScreenY = point.clientY;
-      startNodeX = n.x;
-      startNodeY = n.y;
-      n.fx = n.x; n.fy = n.y;
-      el.style.zIndex = '40';
-      el.style.cursor = 'grabbing';
-    }
-    function onMove(ev) {
-      if (!dragging) return;
-      const point = ev.touches ? ev.touches[0] : ev;
-      const dx = point.clientX - startScreenX;
-      const dy = point.clientY - startScreenY;
-      if (Math.abs(dx) + Math.abs(dy) > 4) moved = true;
-      // Screen-Delta → ViewBox-Delta via Stage-Scale
-      const rect = stage.getBoundingClientRect();
-      const scale = Math.min(rect.width / 1600, rect.height / 900) * (window.__zoom || 1);
-      n.fx = startNodeX + dx / scale;
-      n.fy = startNodeY + dy / scale;
-      if (ev.cancelable) ev.preventDefault();
-    }
-    function onUp() {
-      if (!dragging) return;
-      dragging = false;
-      n.fx = null; n.fy = null; // release — physics takes over
-      el.style.zIndex = '';
-      el.style.cursor = '';
-      // Falls kein Dragging → Klick nicht blocken (Focus-Mode etc.)
-    }
-
-    el.addEventListener('mousedown', onDown);
-    el.addEventListener('touchstart', onDown, { passive: true });
-    window.addEventListener('mousemove', onMove, { passive: false });
-    window.addEventListener('touchmove', onMove, { passive: false });
-    window.addEventListener('mouseup', onUp);
-    window.addEventListener('touchend', onUp);
-
-    // Wenn wir wirklich gezogen haben, Click-Event unterdrücken (damit Focus-Mode nicht triggert)
-    el.addEventListener('click', (ev) => {
-      if (moved) { ev.stopImmediatePropagation(); ev.preventDefault(); moved = false; }
-    }, true);
+// Speed buttons
+document.querySelectorAll('.sc-speed-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.sc-speed-btn').forEach(b => b.classList.toggle('active', b === btn));
+    playSpeed = parseFloat(btn.dataset.speed);
   });
+});
 
-  // ─── Zoom (Mausrad) + Pan (Drag auf Hintergrund) ────────────────
-  window.__zoom = 1;
-  let panX = 0, panY = 0;
-  let baseTransform = '';
-  function applyTransform() {
-    if (parallax) parallax.style.transform =
-      `translate3d(${panX}px, ${panY}px, 0) scale(${window.__zoom})`;
-  }
-  stage.addEventListener('wheel', (ev) => {
-    if (document.body.dataset.mode !== 'map') return;
-    ev.preventDefault();
-    const factor = ev.deltaY > 0 ? 0.92 : 1.09;
-    window.__zoom = Math.max(0.5, Math.min(2.8, window.__zoom * factor));
-    applyTransform();
-  }, { passive: false });
-
-  // Pan: Drag auf leerem Hintergrund (nicht auf Node)
-  let panning = false, panStartX = 0, panStartY = 0;
-  stage.addEventListener('mousedown', (ev) => {
-    if (ev.target.closest('.node, .sm-scrubber, .panel, .sm-header')) return;
-    if (document.body.dataset.mode !== 'map') return;
-    panning = true;
-    panStartX = ev.clientX - panX;
-    panStartY = ev.clientY - panY;
-    stage.style.cursor = 'grabbing';
+// Reset button
+resetBtn.addEventListener('click', () => {
+  NODES.forEach(n => {
+    n.x = n.homeX;
+    n.y = n.homeY;
+    updateNodePosition(n);
   });
-  window.addEventListener('mousemove', (ev) => {
-    if (!panning) return;
-    panX = ev.clientX - panStartX;
-    panY = ev.clientY - panStartY;
-    applyTransform();
-  });
-  window.addEventListener('mouseup', () => {
-    if (panning) { panning = false; stage.style.cursor = ''; }
-  });
+  zoom = 1; panX = 0; panY = 0;
+  applyTransform();
+  exitFocus();
+  range.value = '480';
+  applyTime(480);
+  stopPlayback();
+});
 
-  // ─── Reset-Button in den Scrubber-Head ──────────────────────────
-  const scrubberHead = document.querySelector('.scrubber-head');
-  if (scrubberHead) {
-    const resetBtn = document.createElement('button');
-    resetBtn.className = 'sc-play';
-    resetBtn.type = 'button';
-    resetBtn.setAttribute('aria-label', 'Layout zurücksetzen');
-    resetBtn.innerHTML = '<span style="font-family: SF Mono, monospace; font-size: 10px;">↻</span><span>Reset</span>';
-    resetBtn.style.marginLeft = '4px';
-    resetBtn.addEventListener('click', () => {
-      NODES.forEach(n => {
-        n.x = n.homeX; n.y = n.homeY;
-        n.vx = 0; n.vy = 0; n.fx = null; n.fy = null;
-      });
-      panX = 0; panY = 0; window.__zoom = 1;
-      applyTransform();
-    });
-    // Nach dem Play-Button einfügen
-    const playBtn = scrubberHead.querySelector('.sc-play');
-    if (playBtn && playBtn.parentNode) {
-      playBtn.parentNode.insertBefore(resetBtn, playBtn.nextSibling);
-    }
-  }
-
-  // ─── Agent-Cluster-Coloring auf PR-Nodes ─────────────────────────
-  // PR-Nodes kriegen einen zusätzlichen Rand in der Farbe ihres Originator-Agents.
-  // → man sieht auf einen Blick, welcher Agent den PR geliefert hat.
-  Object.entries(PR_ORIGIN).forEach(([prId, agentId]) => {
-    const prEl = nodeElsById[prId];
-    const agent = nodeMap[agentId];
-    if (!prEl || !agent) return;
-    const circle = prEl.querySelector('.circle');
-    if (!circle) return;
-    // Doppelter Rand: innerer PR-color + äußerer Agent-color
-    circle.style.boxShadow = `0 0 0 2px ${agent.color}aa, 0 0 16px ${agent.color}66`;
-    prEl.dataset.originator = agentId;
-  });
-
-  // ─── Hover-Highlight: Node hover → alle connected nodes + edges glowen ──
-  Object.entries(nodeElsById).forEach(([id, el]) => {
-    el.addEventListener('mouseenter', () => {
-      if (document.body.dataset.mode !== 'map') return;
-      // Edges finden die diesen Node berühren
-      const connectedIds = new Set();
-      EDGES.forEach((e, i) => {
-        if (e.s === id || e.t === id) {
-          connectedIds.add(e.s); connectedIds.add(e.t);
-          edgeEls[i] && edgeEls[i].classList.add('hover-connected');
-        }
-      });
-      Object.entries(nodeElsById).forEach(([otherId, otherEl]) => {
-        if (!connectedIds.has(otherId) && otherId !== id) {
-          otherEl.classList.add('hover-dimmed');
-        }
-      });
-    });
-    el.addEventListener('mouseleave', () => {
-      document.querySelectorAll('.edge.hover-connected').forEach(e => e.classList.remove('hover-connected'));
-      document.querySelectorAll('.node.hover-dimmed').forEach(n => n.classList.remove('hover-dimmed'));
-    });
-  });
-
-  // ─── Pan+Drag-Hint in Scrubber ───────────────────────────────────
-  const hintEl = document.querySelector('.scrubber-head > span[style*="margin-left"]');
-  if (hintEl) hintEl.textContent = 'Drag Node · Wheel = Zoom · Drag BG = Pan · Reset = Layout';
-
-  // ─── Start Sim ───────────────────────────────────────────────────
-  requestAnimationFrame(tick);
-})();
+// Initial: all visible
+applyTime(480);
 </script>
 </HerzraumLayout>
