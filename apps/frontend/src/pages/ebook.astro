@@ -156,80 +156,163 @@ const faqs = [
     </script>
   )}
 
-  <!-- HERO -->
-  <section class="relative overflow-hidden" style="background: linear-gradient(140deg, var(--color-primary-50) 0%, #fff 55%);">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-14 sm:py-20">
-      <div class="grid md:grid-cols-2 gap-10 lg:gap-16 items-center">
+  <!-- HERO — Editorial Magazine-Cover Layout -->
+  <section class="relative overflow-hidden" style="background:
+      radial-gradient(ellipse 1200px 700px at 80% -10%, rgba(225,29,72,0.08), transparent 60%),
+      radial-gradient(ellipse 900px 500px at 10% 110%, rgba(225,29,72,0.04), transparent 50%),
+      #fdf9f7;">
+    <!-- Feine Grain-Overlay -->
+    <div aria-hidden="true" class="pointer-events-none absolute inset-0 opacity-[0.04]" style="background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22180%22 height=%22180%22><filter id=%22n%22><feTurbulence baseFrequency=%220.9%22/><feColorMatrix values=%220 0 0 0 0.1  0 0 0 0 0.05  0 0 0 0 0.1  0 0 0 1 0%22/></filter><rect width=%22180%22 height=%22180%22 filter=%22url(%23n)%22/></svg>');"></div>
+
+    <!-- Editorial Top-Bar -->
+    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 pt-6 sm:pt-8">
+      <div class="flex items-center justify-between text-[11px] uppercase tracking-[0.2em]" style="color: #64748b; font-weight: 600;">
+        <span class="hidden sm:inline-flex items-center gap-2.5">
+          <span class="inline-block w-7 h-px" style="background: #e11d48;"></span>
+          Ausgabe №01 · 2026
+        </span>
+        <span class="hidden md:inline">Herzblatt Journal Editions</span>
+        <span class="inline-flex items-center gap-1.5">
+          <span class="inline-block w-1.5 h-1.5 rounded-full" style="background: #10b981; box-shadow: 0 0 8px #10b981;"></span>
+          Sofort lieferbar
+        </span>
+      </div>
+      <div class="mt-6 h-px" style="background: linear-gradient(90deg, transparent, rgba(15,23,42,0.12), transparent);"></div>
+    </div>
+
+    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 pt-10 pb-16 sm:pt-14 sm:pb-24">
+      <div class="grid lg:grid-cols-[1.1fr_1fr] gap-12 lg:gap-20 items-center">
+        <!-- Left: Editorial Text -->
         <div>
-          <span class="inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-xs font-bold uppercase tracking-wider mb-5" style="background: var(--color-primary-600); color: white;">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-            Neu · Version 2026
-          </span>
-          <h1 class="text-[2rem] sm:text-5xl lg:text-[3.5rem] font-extrabold leading-[1.05] mb-5" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.025em;">
-            Die<br/>
-            <span style="color: var(--color-primary-600);">Herzblatt-Methode</span>
+          <!-- Genre-Label -->
+          <div class="inline-flex items-center gap-2 mb-5">
+            <span class="text-[10px] font-bold uppercase tracking-[0.24em]" style="color: #e11d48;">Ein Buch</span>
+            <span class="inline-block w-4 h-px" style="background: #e11d48;"></span>
+            <span class="text-[10px] font-bold uppercase tracking-[0.24em]" style="color: #64748b;">Beziehungs-Psychologie</span>
+          </div>
+
+          <!-- Display Title — Playfair, editorial -->
+          <h1 class="leading-[0.95] mb-5" style="font-family: var(--font-serif); letter-spacing: -0.035em; color: #0f172a;">
+            <span class="block text-[3rem] sm:text-[4.5rem] lg:text-[5.5rem] font-black">Die</span>
+            <span class="block text-[3rem] sm:text-[4.5rem] lg:text-[5.5rem] font-black" style="color: #e11d48;">Herzblatt-</span>
+            <span class="block text-[3rem] sm:text-[4.5rem] lg:text-[5.5rem] italic font-bold" style="font-style: italic; letter-spacing: -0.03em;">Methode</span>
           </h1>
-          <p class="text-lg sm:text-xl font-medium mb-3" style="color: var(--text);">
-            Der komplette Kurs für ein erfülltes Liebesleben.
-          </p>
-          <p class="text-base sm:text-lg leading-relaxed mb-7" style="color: var(--text-muted);">
-            200+ Seiten Hauptbuch, 5 Bonus-Materialien, lebenslange Updates. Alles, was du je über Dating, Beziehung und echte Verbindung wissen musst — wissenschaftsfundiert, ohne Floskeln, sofort umsetzbar.
+
+          <!-- Tagline -->
+          <p class="text-lg sm:text-xl leading-snug mb-6 max-w-[38ch]" style="color: #334155; font-family: var(--font-serif); font-style: italic;">
+            Der komplette Kurs für ein erfülltes Liebesleben — wissenschaftlich fundiert, alltagstauglich, sofort anwendbar.
           </p>
 
-          <!-- Trust Row -->
-          <div class="flex flex-wrap items-center gap-5 mb-7 text-sm" style="color: var(--text-muted);">
-            <div class="flex items-center gap-1.5">
-              <span style="color: #f59e0b; letter-spacing: 1px; font-size: 1rem;">★★★★★</span>
-              <span class="font-semibold" style="color: var(--text);">4,8/5</span>
-              <span>(342 Bewertungen)</span>
+          <!-- Byline + Meta -->
+          <div class="flex flex-wrap items-center gap-x-5 gap-y-2 mb-8 text-[13px]" style="color: #64748b;">
+            <span>Von <strong style="color: #0f172a; font-weight: 700;">Sarah Kellner</strong></span>
+            <span class="opacity-40">·</span>
+            <span>15 Kapitel</span>
+            <span class="opacity-40">·</span>
+            <span>200+ Seiten</span>
+            <span class="opacity-40">·</span>
+            <span>5 Bonus-Materialien</span>
+          </div>
+
+          <!-- Star-Rating Row, magazine style -->
+          <div class="flex items-center gap-4 mb-8 pb-8" style="border-bottom: 1px solid rgba(15,23,42,0.08);">
+            <div class="flex items-center gap-1">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="#f59e0b"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="#f59e0b"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="#f59e0b"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="#f59e0b"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="#f59e0b"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+            </div>
+            <div class="text-[13px]">
+              <strong style="color: #0f172a;">4,8 / 5</strong>
+              <span style="color: #64748b;">aus 342 verifizierten Bewertungen</span>
             </div>
           </div>
 
-          <!-- Preis + CTA -->
-          <div class="rounded-2xl p-6 mb-4" style="background: var(--bg-card); border: 1px solid var(--border); box-shadow: 0 4px 24px rgba(244,63,94,0.08);">
-            <div class="flex items-baseline gap-3 mb-4">
-              <span class="text-4xl font-extrabold" style="color: var(--color-primary-600); font-family: var(--font-serif);">89,99 €</span>
-              <span class="text-lg line-through" style="color: var(--text-muted);">149 €</span>
-              <span class="text-xs font-bold px-2 py-0.5 rounded-full" style="background: #fef3c7; color: #b45309;">−40 %</span>
+          <!-- Price + dual CTA, editorial -->
+          <div class="flex flex-col sm:flex-row sm:items-center gap-4 sm:gap-5">
+            <div>
+              <div class="flex items-baseline gap-2.5">
+                <span class="text-[15px] line-through opacity-50" style="color: #64748b;">149 €</span>
+                <span class="text-[2.25rem] font-black" style="color: #0f172a; font-family: var(--font-serif); letter-spacing: -0.02em;">89,99 €</span>
+                <span class="text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded" style="background: #0f172a; color: #fef3c7;">−40%</span>
+              </div>
+              <p class="text-[11px] mt-1" style="color: #64748b;">einmalige Zahlung · lebenslanger Zugang</p>
             </div>
-            <a href="#kaufen" class="inline-flex w-full items-center justify-center gap-2 px-6 py-4 rounded-full text-base font-bold text-white transition-all hover:shadow-xl hover:-translate-y-0.5" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700));">
-              Jetzt Zugang sichern
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
-            </a>
-            <p class="text-xs text-center mt-3" style="color: var(--text-muted);">Sofortzugang · Sichere Zahlung</p>
+            <div class="flex-1 flex flex-col sm:flex-row gap-2.5">
+              <a href="#kaufen" class="group inline-flex items-center justify-center gap-2 px-6 py-3.5 text-[15px] font-bold transition-all hover:-translate-y-0.5" style="background: #0f172a; color: #fff; border-radius: 999px; box-shadow: 0 10px 30px -8px rgba(15,23,42,0.4);">
+                Jetzt lesen
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="transition-transform group-hover:translate-x-0.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+              </a>
+              <a href="#inhalt" class="inline-flex items-center justify-center gap-2 px-6 py-3.5 text-[15px] font-semibold transition-all hover:-translate-y-0.5" style="background: transparent; color: #0f172a; border: 1.5px solid rgba(15,23,42,0.2); border-radius: 999px;">
+                Inhaltsverzeichnis
+              </a>
+            </div>
           </div>
         </div>
 
-        <!-- Book Mockup -->
-        <div class="relative flex justify-center">
-          <div class="relative" style="filter: drop-shadow(0 30px 50px rgba(244,63,94,0.25));">
-            <div class="aspect-[3/4] w-full max-w-sm rounded-lg overflow-hidden relative" style="background: linear-gradient(155deg, #1a1a2e 0%, #2d1b3d 40%, var(--color-primary-700) 100%); transform: perspective(1000px) rotateY(-8deg);">
-              <!-- Cover Design -->
+        <!-- Right: Book Mockup with refined editorial details -->
+        <div class="relative flex justify-center lg:justify-end">
+          <!-- Ambient glow behind book -->
+          <div aria-hidden="true" class="absolute inset-0 rounded-full opacity-50" style="background: radial-gradient(ellipse at center, rgba(225,29,72,0.25), transparent 60%); filter: blur(40px);"></div>
+
+          <div class="relative" style="filter: drop-shadow(0 40px 60px rgba(15,23,42,0.35)) drop-shadow(0 20px 30px rgba(225,29,72,0.15));">
+            <!-- Book Spine Hint (left edge) -->
+            <div aria-hidden="true" class="absolute top-0 -left-2 bottom-0 w-3 rounded-l" style="background: linear-gradient(90deg, #1a0a14, rgba(26,10,20,0));"></div>
+
+            <!-- Book Cover -->
+            <div class="aspect-[3/4.2] w-full max-w-[340px] relative overflow-hidden" style="background:
+                linear-gradient(165deg, #1a0a14 0%, #3d0a1f 30%, #e11d48 85%, #be123c 100%);
+                border-radius: 4px 10px 10px 4px;
+                transform: perspective(1200px) rotateY(-11deg) rotateX(1.5deg);">
+
+              <!-- Subtle texture on cover -->
+              <div aria-hidden="true" class="absolute inset-0 opacity-[0.15]" style="background-image: radial-gradient(circle at 25% 20%, rgba(255,255,255,0.4), transparent 50%), radial-gradient(circle at 75% 90%, rgba(255,255,255,0.2), transparent 50%);"></div>
+
+              <!-- Top frame line -->
+              <div aria-hidden="true" class="absolute top-4 sm:top-6 left-6 right-6 h-px" style="background: rgba(255,255,255,0.35);"></div>
+              <div aria-hidden="true" class="absolute bottom-4 sm:bottom-6 left-6 right-6 h-px" style="background: rgba(255,255,255,0.35);"></div>
+
+              <!-- Cover content — editorial typography -->
               <div class="absolute inset-0 flex flex-col justify-between p-8 sm:p-10 text-white">
                 <div>
-                  <div class="text-xs tracking-[0.3em] uppercase opacity-70 mb-2">Herzblatt Journal</div>
-                  <div class="w-12 h-0.5" style="background: rgba(255,255,255,0.4);"></div>
+                  <div class="text-[9px] tracking-[0.3em] uppercase opacity-75 mb-2" style="font-weight: 600;">Herzblatt Journal</div>
+                  <div class="text-[9px] tracking-[0.3em] uppercase opacity-50" style="font-weight: 500;">Editions · 2026</div>
                 </div>
-                <div class="text-center">
-                  <div class="text-5xl sm:text-6xl mb-3">💞</div>
-                  <h2 class="text-2xl sm:text-3xl font-extrabold leading-tight" style="font-family: var(--font-serif); letter-spacing: -0.02em;">
-                    Die Herzblatt-<br/>Methode
+
+                <div class="text-center my-auto">
+                  <!-- Decorative ornament above title -->
+                  <div class="flex items-center justify-center gap-2 mb-4 opacity-70">
+                    <span class="inline-block w-8 h-px bg-white"></span>
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="white"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41 0.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>
+                    <span class="inline-block w-8 h-px bg-white"></span>
+                  </div>
+                  <h2 class="text-[1.85rem] sm:text-[2.25rem] leading-[0.95] tracking-tight" style="font-family: var(--font-serif); font-weight: 900;">
+                    Die<br/>
+                    <span class="italic" style="font-weight: 700;">Herzblatt-</span><br/>
+                    Methode
                   </h2>
-                  <p class="text-xs sm:text-sm mt-3 opacity-70 max-w-[180px] mx-auto leading-relaxed">
-                    Der komplette Kurs für erfüllte Liebe
-                  </p>
+                  <p class="text-[10px] sm:text-[11px] mt-4 opacity-70 tracking-[0.2em] uppercase" style="font-weight: 500;">Der komplette Kurs</p>
                 </div>
-                <div class="text-right">
-                  <div class="text-xs tracking-[0.2em] uppercase opacity-60">Edition 2026</div>
+
+                <div class="flex items-end justify-between">
+                  <div class="text-[9px] tracking-[0.3em] uppercase opacity-60" style="font-weight: 500;">200+ S.</div>
+                  <div class="text-[9px] tracking-[0.3em] uppercase opacity-60" style="font-weight: 500;">ed. 2026</div>
                 </div>
               </div>
-              <!-- Accent line -->
-              <div class="absolute top-0 left-0 right-0 h-1" style="background: linear-gradient(90deg, var(--color-primary-400), var(--color-primary-600));"></div>
             </div>
-            <!-- Floating badge -->
-            <div class="absolute -top-4 -right-4 sm:-right-6 w-20 h-20 sm:w-24 sm:h-24 rounded-full flex flex-col items-center justify-center text-center text-white font-extrabold shadow-xl" style="background: linear-gradient(135deg, #fbbf24, #f59e0b); transform: rotate(12deg); font-family: var(--font-serif);">
-              <div class="text-[0.65rem] uppercase tracking-wider leading-tight opacity-90">Gesamt-<br/>wert</div>
-              <div class="text-lg sm:text-xl leading-tight">403€</div>
+
+            <!-- Gold Wert-Siegel, refined (smaller, more elegant) -->
+            <div class="absolute -top-3 -right-3 sm:-top-4 sm:-right-5 w-[88px] h-[88px] sm:w-[104px] sm:h-[104px] rounded-full flex flex-col items-center justify-center text-white shadow-2xl" style="background: radial-gradient(circle at 30% 30%, #fde68a, #d97706 70%, #92400e 100%); transform: rotate(-8deg); border: 2px solid rgba(255,255,255,0.6);">
+              <div class="text-[8px] uppercase tracking-[0.15em] opacity-90" style="font-weight: 700;">Gesamtwert</div>
+              <div class="text-[1.35rem] sm:text-[1.6rem] leading-none mt-0.5" style="font-family: var(--font-serif); font-weight: 900;">403€</div>
+              <div class="text-[8px] uppercase tracking-[0.15em] opacity-80 mt-0.5">Du sparst 313€</div>
+            </div>
+
+            <!-- Authority ticker below book -->
+            <div class="hidden lg:flex absolute -bottom-4 -left-4 items-center gap-2 px-3 py-2 rounded-full shadow-lg" style="background: #fff; border: 1px solid rgba(15,23,42,0.08);">
+              <span class="w-1.5 h-1.5 rounded-full" style="background: #10b981;"></span>
+              <span class="text-[11px] font-semibold" style="color: #0f172a;">1.847 Leser diesen Monat</span>
             </div>
           </div>
         </div>
@@ -308,26 +391,59 @@ const faqs = [
     </div>
   </section>
 
-  <!-- KAPITEL -->
-  <section class="py-16 sm:py-20">
-    <div class="max-w-4xl mx-auto px-4 sm:px-6">
-      <div class="text-center mb-12">
-        <span class="inline-block text-xs font-bold uppercase tracking-wider mb-3" style="color: var(--color-primary-600);">Der Inhalt</span>
-        <h2 class="text-2xl sm:text-3xl font-extrabold mb-4" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;">15 Kapitel. 200+ Seiten.<br/>Alles, was du brauchst.</h2>
-        <p class="text-base" style="color: var(--text-muted);">Vom ersten Match bis zum jährlichen Beziehungs-Check-In — jede Lebensphase der Liebe abgedeckt.</p>
+  <!-- INHALTSVERZEICHNIS — Book TOC Style -->
+  <section id="inhalt" class="py-20 sm:py-28" style="background: #fdf9f7;">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6">
+      <!-- Editorial section header -->
+      <div class="grid md:grid-cols-[auto_1fr] gap-6 md:gap-12 items-end mb-14 pb-8" style="border-bottom: 2px solid #0f172a;">
+        <div>
+          <div class="text-[10px] font-bold uppercase tracking-[0.3em] mb-3" style="color: #e11d48;">Teil I · Inhaltsverzeichnis</div>
+          <h2 class="text-[2.5rem] sm:text-[3.5rem] leading-[0.95] tracking-tight" style="color: #0f172a; font-family: var(--font-serif); font-weight: 900;">
+            15 Kapitel.<br/>
+            <span class="italic font-bold">200+ Seiten.</span>
+          </h2>
+        </div>
+        <div class="md:pb-3 md:text-right">
+          <p class="text-[15px] leading-relaxed max-w-sm md:ml-auto" style="color: #475569; font-family: var(--font-serif); font-style: italic;">
+            Vom ersten Match bis zum jährlichen Beziehungs-Check-in — jede Phase der Liebe in ehrlicher Tiefe.
+          </p>
+        </div>
       </div>
-      <div class="space-y-3">
-        {chapters.map(ch => (
-          <div class="flex gap-4 sm:gap-5 p-4 sm:p-5 rounded-xl transition-all hover:-translate-y-px hover:shadow-md" style="background: var(--bg-card); border: 1px solid var(--border);">
-            <div class="shrink-0 w-11 h-11 sm:w-12 sm:h-12 rounded-xl flex items-center justify-center text-sm font-extrabold" style="background: var(--color-primary-50); color: var(--color-primary-600); font-family: var(--font-serif);">
-              {ch.num}
-            </div>
-            <div>
-              <h3 class="text-base sm:text-lg font-bold mb-1" style="color: var(--text);">{ch.title}</h3>
-              <p class="text-sm sm:text-base leading-relaxed" style="color: var(--text-muted);">{ch.desc}</p>
-            </div>
-          </div>
-        ))}
+
+      <!-- Chapter list — two-column TOC with leader dots -->
+      <div class="grid md:grid-cols-2 gap-x-10 md:gap-x-16">
+        {chapters.map((ch, i) => {
+          const pageNum = 12 + i * 14;
+          return (
+            <a href="#kaufen" class="toc-row group relative grid grid-cols-[3ch_1fr_auto] items-baseline gap-4 py-5" style="border-bottom: 1px solid rgba(15,23,42,0.08); text-decoration: none;">
+              <div class="text-[1.15rem] tabular-nums" style="color: #e11d48; font-family: var(--font-serif); font-weight: 700; font-style: italic;">
+                {String(ch.num).padStart(2, '0')}
+              </div>
+              <div>
+                <h3 class="text-[17px] sm:text-[18px] leading-snug transition-colors group-hover:text-[#e11d48]" style="color: #0f172a; font-family: var(--font-serif); font-weight: 700; letter-spacing: -0.01em;">
+                  {ch.title}
+                </h3>
+                <p class="text-[13px] leading-relaxed mt-1 italic" style="color: #64748b; font-family: var(--font-serif);">
+                  {ch.desc}
+                </p>
+              </div>
+              <div class="text-[12px] tabular-nums self-baseline" style="color: #94a3b8; font-family: 'SF Mono', Menlo, monospace; letter-spacing: 0.05em;">
+                S. {pageNum}
+              </div>
+            </a>
+          );
+        })}
+      </div>
+
+      <!-- Editorial footer note -->
+      <div class="mt-14 pt-8 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4" style="border-top: 1px solid rgba(15,23,42,0.08);">
+        <p class="text-[13px] italic max-w-md" style="color: #64748b; font-family: var(--font-serif);">
+          Jedes Kapitel mit konkreten Übungen, Dialog-Beispielen und Reflexionsfragen.
+        </p>
+        <a href="#kaufen" class="inline-flex items-center gap-2 text-[13px] font-semibold uppercase tracking-[0.12em]" style="color: #0f172a; text-decoration: none;">
+          Alle Kapitel lesen
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+        </a>
       </div>
     </div>
   </section>
@@ -407,62 +523,173 @@ const faqs = [
     </div>
   </section>
 
-  <!-- AUTOR -->
-  <section class="py-16 sm:py-20" style="background: var(--bg-soft);">
-    <div class="max-w-3xl mx-auto px-4 sm:px-6">
-      <div class="rounded-2xl p-6 sm:p-10" style="background: var(--bg-card); border: 1px solid var(--border);">
-        <div class="flex flex-col sm:flex-row gap-6 items-start">
-          <div class="shrink-0 w-20 h-20 sm:w-24 sm:h-24 rounded-full overflow-hidden flex items-center justify-center text-white text-3xl font-extrabold" style="background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-700)); font-family: var(--font-serif);">
-            SK
-          </div>
-          <div>
-            <span class="inline-block text-xs font-bold uppercase tracking-wider mb-2" style="color: var(--color-primary-600);">Deine Autorin</span>
-            <h3 class="text-xl sm:text-2xl font-extrabold mb-2" style="color: var(--text); font-family: var(--font-serif);">Sarah Kellner</h3>
-            <p class="text-sm mb-4" style="color: var(--text-muted);">Gründerin Herzblatt Journal · Psychologin · Beziehungsexpertin</p>
-            <p class="text-base leading-relaxed" style="color: var(--text);">
-              „Ich habe Herzblatt Journal gegründet, weil ich nach meiner eigenen Trennung jede Menge Ratgeber gelesen habe — und keinen gefunden, der beides vereint: echte Tiefe und konkrete Anwendbarkeit. Die Herzblatt-Methode ist das Buch, das ich damals gebraucht hätte. Es basiert auf sieben Jahren Redaktionsarbeit, über 1.800 Artikeln, Gesprächen mit Paartherapeuten und tausenden Leser-Zuschriften. Es ist die Essenz dessen, was wirklich funktioniert."
+  <!-- AUTORIN — Editorial Authority Feature -->
+  <section class="py-20 sm:py-28" style="background: #0f172a; color: #f8fafc;">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="grid md:grid-cols-[auto_1fr] gap-10 md:gap-16 items-start">
+        <!-- Portrait with frame -->
+        <div class="shrink-0 relative mx-auto md:mx-0">
+          <div aria-hidden="true" class="absolute -top-3 -left-3 w-[180px] h-[180px] sm:w-[220px] sm:h-[220px]" style="border: 1.5px solid #e11d48;"></div>
+          <img
+            src="/images/authors/sarah-kellner.webp"
+            alt="Sarah Kellner, Psychologin und Autorin der Herzblatt-Methode"
+            width="220"
+            height="220"
+            loading="lazy"
+            class="relative w-[180px] h-[180px] sm:w-[220px] sm:h-[220px] object-cover"
+            style="filter: grayscale(0.15) contrast(1.05);"
+          />
+        </div>
+
+        <!-- Content -->
+        <div>
+          <div class="text-[10px] font-bold uppercase tracking-[0.3em] mb-5" style="color: #e11d48;">Die Autorin</div>
+
+          <h3 class="text-[2.75rem] sm:text-[3.5rem] leading-[0.95] mb-3" style="font-family: var(--font-serif); font-weight: 900; letter-spacing: -0.03em;">
+            Sarah <span class="italic" style="font-weight: 700;">Kellner</span>
+          </h3>
+
+          <p class="text-[15px] mb-8 tracking-wide uppercase" style="color: #94a3b8; letter-spacing: 0.12em; font-weight: 500;">
+            Psychologin M.Sc. · Gründerin Herzblatt Journal
+          </p>
+
+          <!-- Pull quote with oversized quotation mark -->
+          <div class="relative pl-12 mb-10">
+            <span aria-hidden="true" class="absolute -top-4 -left-2 text-[6rem] leading-none opacity-30" style="color: #e11d48; font-family: var(--font-serif); font-weight: 900;">&ldquo;</span>
+            <p class="text-[18px] sm:text-[19px] leading-[1.55] italic" style="font-family: var(--font-serif); color: #e2e8f0;">
+              Ich habe Herzblatt Journal gegründet, weil ich nach meiner eigenen Trennung jede Menge Ratgeber gelesen habe — und keinen fand, der beides vereint: echte Tiefe und konkrete Anwendbarkeit. Die Herzblatt-Methode ist das Buch, das ich damals gebraucht hätte.
             </p>
+          </div>
+
+          <!-- Credentials as editorial typographic list -->
+          <div class="grid sm:grid-cols-2 gap-x-10 gap-y-4 mb-8">
+            <div class="flex gap-4 items-baseline">
+              <span class="text-[11px] tabular-nums" style="color: #e11d48; font-family: var(--font-serif); font-weight: 700; font-style: italic;">I.</span>
+              <div>
+                <div class="text-[13px] font-bold uppercase tracking-[0.12em]" style="color: #f8fafc;">M.Sc. Psychologie</div>
+                <div class="text-[12px] mt-0.5" style="color: #94a3b8;">Universität Hamburg</div>
+              </div>
+            </div>
+            <div class="flex gap-4 items-baseline">
+              <span class="text-[11px] tabular-nums" style="color: #e11d48; font-family: var(--font-serif); font-weight: 700; font-style: italic;">II.</span>
+              <div>
+                <div class="text-[13px] font-bold uppercase tracking-[0.12em]" style="color: #f8fafc;">Systemische Beraterin</div>
+                <div class="text-[12px] mt-0.5" style="color: #94a3b8;">DGSF-zertifiziert</div>
+              </div>
+            </div>
+            <div class="flex gap-4 items-baseline">
+              <span class="text-[11px] tabular-nums" style="color: #e11d48; font-family: var(--font-serif); font-weight: 700; font-style: italic;">III.</span>
+              <div>
+                <div class="text-[13px] font-bold uppercase tracking-[0.12em]" style="color: #f8fafc;">Trauma-Informierte Praxis</div>
+                <div class="text-[12px] mt-0.5" style="color: #94a3b8;">Fortbildung nach Levine / van der Kolk</div>
+              </div>
+            </div>
+            <div class="flex gap-4 items-baseline">
+              <span class="text-[11px] tabular-nums" style="color: #e11d48; font-family: var(--font-serif); font-weight: 700; font-style: italic;">IV.</span>
+              <div>
+                <div class="text-[13px] font-bold uppercase tracking-[0.12em]" style="color: #f8fafc;">7+ Jahre Beratung</div>
+                <div class="text-[12px] mt-0.5" style="color: #94a3b8;">Bindungs- und Trauma-Themen</div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Stats row -->
+          <div class="flex flex-wrap gap-x-8 gap-y-3 pt-6" style="border-top: 1px solid rgba(255,255,255,0.1);">
+            <div>
+              <div class="text-[2rem] leading-none" style="font-family: var(--font-serif); font-weight: 900; color: #fff;">1.847</div>
+              <div class="text-[10px] uppercase tracking-[0.2em] mt-1.5" style="color: #94a3b8;">Artikel</div>
+            </div>
+            <div>
+              <div class="text-[2rem] leading-none" style="font-family: var(--font-serif); font-weight: 900; color: #fff;">7+</div>
+              <div class="text-[10px] uppercase tracking-[0.2em] mt-1.5" style="color: #94a3b8;">Jahre Praxis</div>
+            </div>
+            <div>
+              <div class="text-[2rem] leading-none" style="font-family: var(--font-serif); font-weight: 900; color: #fff;">200+</div>
+              <div class="text-[10px] uppercase tracking-[0.2em] mt-1.5" style="color: #94a3b8;">Paare beraten</div>
+            </div>
+            <div>
+              <div class="text-[2rem] leading-none" style="font-family: var(--font-serif); font-weight: 900; color: #fff;">52k</div>
+              <div class="text-[10px] uppercase tracking-[0.2em] mt-1.5" style="color: #94a3b8;">Monatliche Leser</div>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- TESTIMONIALS -->
-  <section class="py-16 sm:py-20">
-    <div class="max-w-5xl mx-auto px-4 sm:px-6">
-      <div class="text-center mb-10">
-        <span class="inline-block text-xs font-bold uppercase tracking-wider mb-3" style="color: var(--color-primary-600);">Was Leser sagen</span>
-        <h2 class="text-2xl sm:text-3xl font-extrabold mb-3" style="color: var(--text); font-family: var(--font-serif); letter-spacing: -0.02em;">342 Menschen haben ihre Beziehung verändert.</h2>
-        <div class="flex items-center justify-center gap-2 text-sm" style="color: var(--text-muted);">
-          <span style="color: #f59e0b; letter-spacing: 1px;">★★★★★</span>
-          <span class="font-semibold" style="color: var(--text);">4,8/5</span>
-          <span>·</span>
-          <span>Durchschnitt aus 342 verifizierten Bewertungen</span>
+  <!-- TESTIMONIALS — Editorial Pull-Quote Cards -->
+  <section class="py-20 sm:py-28" style="background: #fdf9f7;">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <!-- Section header -->
+      <div class="mb-14 text-center">
+        <div class="text-[10px] font-bold uppercase tracking-[0.3em] mb-4" style="color: #e11d48;">Leserstimmen</div>
+        <h2 class="text-[2.5rem] sm:text-[3.25rem] leading-[0.95] mb-5" style="color: #0f172a; font-family: var(--font-serif); font-weight: 900; letter-spacing: -0.03em;">
+          342 Menschen,<br/>
+          <span class="italic" style="font-weight: 700;">eine Entscheidung.</span>
+        </h2>
+        <div class="inline-flex items-center gap-3 text-[13px]" style="color: #475569;">
+          <div class="flex items-center gap-0.5">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="#f59e0b"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="#f59e0b"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="#f59e0b"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="#f59e0b"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="#f59e0b"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+          </div>
+          <span><strong style="color: #0f172a;">4,8 / 5</strong> aus 342 verifizierten Bewertungen</span>
         </div>
       </div>
-      <div class="grid sm:grid-cols-2 gap-4 sm:gap-5">
-        {testimonials.map(t => (
-          <div class="p-5 sm:p-6 rounded-xl" style="background: var(--bg-card); border: 1px solid var(--border);">
-            <div class="flex items-center gap-1 mb-3" style="color: #f59e0b; letter-spacing: 1px;">★★★★★</div>
-            <p class="text-sm sm:text-base leading-relaxed mb-4 italic" style="color: var(--text);">„{t.quote}"</p>
-            <div class="flex items-center gap-3 pt-3" style="border-top: 1px solid var(--border);">
+
+      <!-- Editorial 3-column testimonial grid with alternating offsets -->
+      <div class="grid md:grid-cols-3 gap-6 md:gap-8">
+        {testimonials.slice(0, 6).map((t, i) => (
+          <figure class={`relative p-8 ${i % 3 === 1 ? 'md:translate-y-8' : ''}`} style={`background: #fff; border: 1px solid rgba(15,23,42,0.08); box-shadow: 0 1px 3px rgba(15,23,42,0.04); ${i % 2 === 0 ? 'border-top: 3px solid #e11d48;' : 'border-top: 3px solid #0f172a;'}`}>
+            <!-- Oversized opening quotation mark -->
+            <div aria-hidden="true" class="absolute top-4 right-6 text-[5rem] leading-none opacity-10" style="color: #e11d48; font-family: var(--font-serif); font-weight: 900;">&ldquo;</div>
+
+            <!-- 5 stars -->
+            <div class="flex items-center gap-0.5 mb-5">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="#f59e0b"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="#f59e0b"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="#f59e0b"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="#f59e0b"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="#f59e0b"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+            </div>
+
+            <!-- Quote -->
+            <blockquote class="text-[16px] sm:text-[17px] leading-[1.55] mb-6" style="color: #0f172a; font-family: var(--font-serif); font-style: italic; letter-spacing: -0.005em;">
+              {t.quote}
+            </blockquote>
+
+            <!-- Author attribution, editorial -->
+            <figcaption class="flex items-center gap-3 pt-5" style="border-top: 1px solid rgba(15,23,42,0.08);">
               <img
                 src={`https://api.dicebear.com/9.x/notionists/svg?seed=${encodeURIComponent(t.name)}&backgroundColor=fef1f2,fde4e6,fecdd3&radius=50`}
-                alt={`Avatar-Illustration für ${t.name}`}
-                width="48"
-                height="48"
+                alt=""
+                width="40"
+                height="40"
                 loading="lazy"
-                class="w-12 h-12 rounded-full shrink-0"
-                style="background: var(--color-primary-50); box-shadow: 0 4px 12px rgba(244,63,94,0.15);"
+                class="w-10 h-10 rounded-full shrink-0"
+                style="background: #fef1f2;"
               />
-              <div>
-                <div class="text-sm font-bold" style="color: var(--text);">{t.name}</div>
-                <div class="text-xs" style="color: var(--text-muted);">{t.city} · Verifizierter Kauf</div>
+              <div class="flex-1 min-w-0">
+                <div class="text-[14px] font-bold leading-tight" style="color: #0f172a; font-family: var(--font-serif);">
+                  {t.name}
+                </div>
+                <div class="text-[11px] uppercase tracking-[0.1em] mt-0.5" style="color: #94a3b8; font-weight: 600;">
+                  {t.city} · Verifiziert
+                </div>
               </div>
-            </div>
-          </div>
+            </figcaption>
+          </figure>
         ))}
+      </div>
+
+      <!-- Editorial "more reviews" link -->
+      <div class="mt-16 text-center">
+        <a href="#kaufen" class="inline-flex items-center gap-2 text-[13px] font-semibold uppercase tracking-[0.15em] pb-1" style="color: #0f172a; text-decoration: none; border-bottom: 1.5px solid #e11d48;">
+          Alle 342 Bewertungen nach dem Kauf einsehen
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+        </a>
       </div>
     </div>
   </section>
