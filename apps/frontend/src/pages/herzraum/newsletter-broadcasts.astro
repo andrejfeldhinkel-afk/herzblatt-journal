@@ -119,6 +119,22 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
           </div>
         </details>
 
+        <!-- Scheduling — optional; wenn gesetzt wird der Send zum Zeitpunkt
+             durch den Backend-Scheduler getriggert. -->
+        <div style="border: 1px solid var(--hz-border); border-radius: 10px; padding: 0.85rem 1rem; background: var(--hz-surface);">
+          <label style="display: flex; align-items: center; gap: 0.5rem; font-size: 0.9rem; font-weight: 600; margin-bottom: 0.5rem;">
+            <input type="checkbox" id="chk-schedule" style="width: 1rem; height: 1rem;">
+            ⏰ Später senden (Draft + Zeitpunkt setzen)
+          </label>
+          <div id="schedule-wrap" class="hidden" style="margin-top: 0.5rem;">
+            <input type="datetime-local" id="input-schedule" class="hz-input" style="max-width: 260px;">
+            <p style="font-size: 0.75rem; color: var(--hz-text-muted); margin-top: 0.35rem;">
+              Mind. 2 Min in der Zukunft, max. 90 Tage. Lokale Zeitzone.
+              Scheduled Drafts senden auch wenn du nicht eingeloggt bist.
+            </p>
+          </div>
+        </div>
+
         <!-- Action buttons -->
         <div class="hz-row" style="gap: 0.75rem; justify-content: space-between; flex-wrap: wrap;">
           <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
@@ -162,6 +178,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
     .hidden { display: none !important; }
     .status-badge { display: inline-block; padding: 0.15rem 0.55rem; border-radius: 999px; font-size: 0.72rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; }
     .status-draft { background: rgba(148, 163, 184, 0.2); color: #cbd5e1; }
+    .status-scheduled { background: rgba(234, 179, 8, 0.2); color: #fde047; }
     .status-sending { background: rgba(56, 189, 248, 0.2); color: #7dd3fc; }
     .status-sent { background: rgba(16, 185, 129, 0.2); color: #6ee7b7; }
     .status-failed { background: rgba(239, 68, 68, 0.2); color: #fca5a5; }
@@ -269,22 +286,28 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         tbody.innerHTML = broadcasts.map((b) => {
           const canDelete = b.status === 'draft';
           const canSend = b.status === 'draft';
+          const canUnschedule = b.status === 'scheduled';
           const subjectHtml = b.articleSlug
             ? `${escapeHtml(b.subject)} <span style="font-size: 0.7rem; color: var(--hz-text-muted);">[${escapeHtml(b.articleSlug)}]</span>`
             : escapeHtml(b.subject);
           const recipientsCell = b.recipientCount != null
             ? `${fmt(b.successCount || 0)} / ${fmt(b.recipientCount)}`
             : '—';
+          // Bei scheduled: zeigen wir scheduledFor in der "Versendet"-Spalte mit Präfix
+          const sentCell = b.status === 'scheduled' && b.scheduledFor
+            ? `<span style="color: #eab308;">⏰ ${escapeHtml(fmtDate(b.scheduledFor))}</span>`
+            : fmtDate(b.sentAt);
           return `
             <tr data-id="${b.id}">
               <td style="max-width: 320px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="${escapeHtml(b.subject)}">${subjectHtml}</td>
               <td style="font-size: 0.82rem; color: var(--hz-text-muted);">${fmtDate(b.createdAt)}</td>
-              <td style="font-size: 0.82rem; color: var(--hz-text-muted);">${fmtDate(b.sentAt)}</td>
+              <td style="font-size: 0.82rem; color: var(--hz-text-muted);">${sentCell}</td>
               <td>${recipientsCell}</td>
               <td>${renderStatusBadge(b.status)}</td>
               <td>
                 <div style="display: flex; gap: 0.35rem; flex-wrap: wrap;">
                   ${canSend ? `<button class="hz-btn primary" data-action="send">Senden</button>` : ''}
+                  ${canUnschedule ? `<button class="hz-btn" data-action="unschedule">Zurück zu Draft</button>` : ''}
                   ${canDelete ? `<button class="hz-btn" data-action="edit">Bearbeiten</button>` : ''}
                   ${canDelete ? `<button class="hz-btn danger" data-action="delete">Löschen</button>` : ''}
                 </div>
@@ -355,8 +378,40 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
             return;
           }
           openModalForEdit(detail.data.broadcast);
+        } else if (action === 'unschedule') {
+          if (!confirm('Geplanten Send abbrechen und zurück zu Draft?')) return;
+          const resp = await api(`/${id}/unschedule`, { method: 'POST' });
+          if (resp.ok && resp.data && resp.data.ok) {
+            loadList(currentPage);
+          } else {
+            alert('Fehler: ' + (resp.data && (resp.data.error || resp.data.message) || resp.status));
+          }
         }
       });
+
+      // Schedule-Checkbox: zeigt/versteckt den Datetime-Picker,
+      // ändert gleichzeitig den Submit-Button-Text.
+      const chkSchedule = document.getElementById('chk-schedule');
+      if (chkSchedule) {
+        chkSchedule.addEventListener('change', () => {
+          const on = chkSchedule.checked;
+          document.getElementById('schedule-wrap').classList.toggle('hidden', !on);
+          const sendBtn = document.getElementById('btn-send');
+          if (on) {
+            sendBtn.textContent = '⏰ Planen';
+            // Default-Wert: jetzt + 1 Stunde (lokale Zeit als input-value)
+            const inp = document.getElementById('input-schedule');
+            if (!inp.value) {
+              const d = new Date(Date.now() + 60 * 60 * 1000);
+              const pad = (n) => String(n).padStart(2, '0');
+              inp.value = d.getFullYear() + '-' + pad(d.getMonth()+1) + '-' + pad(d.getDate())
+                + 'T' + pad(d.getHours()) + ':' + pad(d.getMinutes());
+            }
+          } else {
+            sendBtn.textContent = '📣 Jetzt senden';
+          }
+        });
+      }
 
       // ─── Modal ─────────────────────────────────────────
       function openModal() {
@@ -368,6 +423,10 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         $('f-articleSlug').value = '';
         $('btn-send').disabled = false;
         $('btn-send').textContent = '📣 Jetzt senden';
+        const chk = document.getElementById('chk-schedule');
+        if (chk) { chk.checked = false; document.getElementById('schedule-wrap').classList.add('hidden'); }
+        const inp = document.getElementById('input-schedule');
+        if (inp) inp.value = '';
         setMode('manual');
         renderPreview();
       }
@@ -503,7 +562,41 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         e.preventDefault();
         const id = currentDraftId || await saveDraft();
         if (!id) return;
-        // Empfänger-Count für Confirm
+
+        const scheduleOn = document.getElementById('chk-schedule')?.checked;
+        if (scheduleOn) {
+          // Schedule-Pfad: client konvertiert lokale Zeit → ISO-UTC.
+          const raw = document.getElementById('input-schedule').value;
+          if (!raw) { alert('Bitte Datum und Uhrzeit wählen.'); return; }
+          const local = new Date(raw);
+          if (!Number.isFinite(local.getTime())) { alert('Ungültiger Zeitpunkt.'); return; }
+          if (local.getTime() - Date.now() < 2 * 60 * 1000) {
+            alert('Mind. 2 Minuten in der Zukunft wählen.');
+            return;
+          }
+          const statsResp = await api('/meta/stats');
+          const count = statsResp.ok ? statsResp.data.activeSubscribers : '?';
+          const pretty = local.toLocaleString('de-DE', { dateStyle: 'full', timeStyle: 'short' });
+          if (!confirm('Broadcast planen?\n\nAn: ' + count + ' Empfänger\nWann: ' + pretty + '\nBetreff: ' + $('f-subject').value + '\n\nDer Scheduler startet automatisch den Send.')) return;
+
+          $('btn-send').disabled = true;
+          $('btn-send').textContent = 'Plane…';
+          const resp = await api('/' + id + '/schedule', {
+            method: 'POST',
+            body: JSON.stringify({ scheduledFor: local.toISOString() }),
+          });
+          $('btn-send').disabled = false;
+          $('btn-send').textContent = '⏰ Planen';
+          if (resp.ok && resp.data && resp.data.ok) {
+            showResult('✓ Geplant für ' + pretty + '.', true);
+            setTimeout(() => { closeModal(); loadList(1); }, 1200);
+          } else {
+            showResult('Fehler: ' + (resp.data && (resp.data.error || resp.data.message) || resp.status), false);
+          }
+          return;
+        }
+
+        // Immediate-Send-Pfad (wie bisher)
         const statsResp = await api('/meta/stats');
         const count = statsResp.ok ? statsResp.data.activeSubscribers : '?';
         if (!confirm(`Wirklich an ${count} Empfänger senden?\n\nBetreff: ${$('f-subject').value}\n\nDieser Vorgang ist nicht rückgängig machbar.`)) return;

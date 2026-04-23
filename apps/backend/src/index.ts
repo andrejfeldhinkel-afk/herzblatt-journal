@@ -29,6 +29,7 @@ import ebookAccessRoute from './routes/ebook-access.js';
 
 // Runtime-Migrations
 import { runStartupMigrations } from './db/migrate.js';
+import { startNewsletterScheduler, stopNewsletterScheduler } from './lib/newsletter-scheduler.js';
 import { assertIpSaltConfigured } from './lib/crypto.js';
 import { assertUnsubscribeSecretConfigured } from './routes/unsubscribe.js';
 import { assertEbookAccessSecretConfigured } from './lib/ebook-access.js';
@@ -333,7 +334,13 @@ const server = serve({
 
 // Migrations parallel zum Server-Start ausführen — NICHT blockieren.
 // Falls DB noch nicht bereit ist, loggt migrate.ts den Error intern.
-void runStartupMigrations();
+// Nach erfolgreicher Migration startet der Newsletter-Scheduler —
+// er braucht die scheduled_for Column, also erst NACH der Migration.
+void runStartupMigrations().then(() => {
+  startNewsletterScheduler();
+}).catch((err) => {
+  console.error('[backend] migrations failed — scheduler NOT started:', err);
+});
 
 // Graceful shutdown:
 //   1. HTTP-Server schließen — keine neuen Connections annehmen, in-flight
@@ -352,6 +359,10 @@ async function gracefulShutdown(signal: string): Promise<void> {
   isShuttingDown = true;
 
   logger.info('shutdown_start', { signal });
+
+  // Newsletter-Scheduler stoppen (clearInterval). Läuft sonst weiter bis
+  // process.exit und könnte während des Shutdown einen Send starten.
+  try { stopNewsletterScheduler(); } catch { /* noop */ }
 
   // Hard-exit Timer — falls irgendeine Ressource nicht freigibt, killen wir
   // den Prozess nach 15s trotzdem. Railway sendet SIGKILL nach 30s.

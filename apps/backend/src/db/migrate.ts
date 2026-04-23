@@ -327,6 +327,16 @@ export async function runStartupMigrations(): Promise<void> {
     `);
     await db.execute(sql`CREATE INDEX IF NOT EXISTS newsletter_broadcasts_created_at_idx ON newsletter_broadcasts(created_at)`);
     await db.execute(sql`CREATE INDEX IF NOT EXISTS newsletter_broadcasts_status_idx ON newsletter_broadcasts(status)`);
+    // scheduled_for — nachträglich ergänzt für Newsletter-Scheduling.
+    // ADD COLUMN IF NOT EXISTS ist Postgres 9.6+. Idempotent.
+    await db.execute(sql`
+      ALTER TABLE newsletter_broadcasts
+        ADD COLUMN IF NOT EXISTS scheduled_for TIMESTAMP WITH TIME ZONE
+    `);
+    await db.execute(sql`
+      CREATE INDEX IF NOT EXISTS newsletter_broadcasts_scheduled_for_idx
+        ON newsletter_broadcasts(scheduled_for)
+    `);
 
     // --- Performance-Indices (Reliability-Pass) ---------------------------
     // Diese Indices fehlten bisher und trafen in heißen Queries einen
