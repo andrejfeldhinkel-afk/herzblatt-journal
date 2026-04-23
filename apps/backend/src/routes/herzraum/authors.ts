@@ -13,6 +13,7 @@
  */
 import { Hono } from 'hono';
 import { z } from 'zod';
+import JSON5 from 'json5';
 import { logAudit } from '../../lib/audit.js';
 
 const app = new Hono();
@@ -114,16 +115,12 @@ function parseAuthorsSource(src: string): Record<string, Author> {
   if (depth !== 0) throw new Error('unbalanced braces in authors');
   const body = src.substring(startIdx, i).trim();
 
-  // Hacky: wandle TS-Object-Literal in JSON um
-  // 1) Keys mit Quotes sind schon OK
-  // 2) Trailing commas entfernen
-  // 3) Single-quote strings sind nicht erlaubt, aber im authors.ts sind alle doppelt-gequotet
-  //
-  // Sicherster Weg: Function-Constructor mit `return {...}`
+  // Vorher: `new Function(\`return {${body}};\`)()` — war zwar nur für
+  // Repo-interne authors.ts, aber klassischer Trust-Boundary-Smell.
+  // JSON5 akzeptiert TS-Object-Literale (unquoted keys, trailing commas,
+  // Kommentare, single-quoted strings) und macht KEINE Code-Ausführung.
   try {
-    // eslint-disable-next-line no-new-func
-    const parsed = new Function(`return {${body}};`)() as Record<string, Author>;
-    return parsed;
+    return JSON5.parse<Record<string, Author>>(`{${body}}`);
   } catch (err) {
     throw new Error('parse-failed: ' + String(err));
   }

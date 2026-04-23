@@ -15,10 +15,12 @@
   "dependencies": {
     "@hono/node-server": "^1.18.0",
     "@sentry/node": "^8.47.0",
+    "@types/json5": "^2.2.0",
     "@types/sanitize-html": "^2.16.1",
     "dotenv": "^16.4.7",
     "drizzle-orm": "^0.45.2",
     "hono": "^4.9.8",
+    "json5": "^2.2.3",
     "postgres": "^3.4.5",
     "sanitize-html": "^2.17.3",
     "zod": "^3.24.1"

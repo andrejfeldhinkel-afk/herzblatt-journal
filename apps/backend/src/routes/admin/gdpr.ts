@@ -28,8 +28,17 @@
  */
 import { Hono } from 'hono';
 import { z } from 'zod';
+import crypto from 'node:crypto';
 import { eq, or, sql } from 'drizzle-orm';
 import { db, schema } from '../../db/index.js';
+import { logAudit } from '../../lib/audit.js';
+
+// Gehashte Email ins Audit-Log, statt die Klartext-Adresse (die soll
+// schließlich gelöscht/anonymisiert werden). Trail bleibt auditierbar
+// (gleiche Email → gleicher Hash), ohne PII-Leak im Log.
+function hashEmailForAudit(email: string): string {
+  return crypto.createHash('sha256').update(email).digest('hex').slice(0, 16);
+}
 
 const app = new Hono();
 
@@ -127,6 +136,17 @@ app.post('/delete', async (c) => {
   // Pageviews/Clicks enthalten keine E-Mail (nur ip_hash) — nichts zu löschen.
   // sessions/login_attempts haben nur ip_hash (gehashed) — kein Email-Bezug.
 
+  // Audit-Log (DSGVO-konform ohne Klartext-Email — nur Hash + Counts)
+  await logAudit(c, {
+    actor: 'admin-api',
+    action: 'gdpr.delete',
+    target: 'email:' + hashEmailForAudit(email),
+    meta: {
+      result,
+      errors: errors.length ? errors : undefined,
+    },
+  });
+
   return c.json({
     ok: errors.length === 0,
     email,
@@ -159,6 +179,21 @@ app.post('/export', async (c) => {
       ),
     ),
   ]);
+
+  // Audit-Log (DSGVO-konform ohne Klartext-Email — nur Hash + Counts)
+  await logAudit(c, {
+    actor: 'admin-api',
+    action: 'gdpr.export',
+    target: 'email:' + hashEmailForAudit(email),
+    meta: {
+      counts: {
+        subscribers: subs.length,
+        registrations: regs.length,
+        purchases: purs.length,
+        inbound_emails: inbs.length,
+      },
+    },
+  });
 
   return c.json({
     exported_at: new Date().toISOString(),
