@@ -31,6 +31,7 @@ import ebookAccessRoute from './routes/ebook-access.js';
 import { runStartupMigrations } from './db/migrate.js';
 import { startNewsletterScheduler, stopNewsletterScheduler } from './lib/newsletter-scheduler.js';
 import { startSessionCleanup, stopSessionCleanup } from './lib/session-cleanup.js';
+import { startSubscriberMinimization, stopSubscriberMinimization } from './lib/subscriber-minimization.js';
 import { assertIpSaltConfigured } from './lib/crypto.js';
 import { assertUnsubscribeSecretConfigured } from './routes/unsubscribe.js';
 import { assertEbookAccessSecretConfigured } from './lib/ebook-access.js';
@@ -340,6 +341,7 @@ const server = serve({
 void runStartupMigrations().then(() => {
   startNewsletterScheduler();
   startSessionCleanup();
+  startSubscriberMinimization();
 }).catch((err) => {
   console.error('[backend] migrations failed — scheduler NOT started:', err);
 });
@@ -366,6 +368,7 @@ async function gracefulShutdown(signal: string): Promise<void> {
   // process.exit und könnte während des Shutdown einen Send starten.
   try { stopNewsletterScheduler(); } catch { /* noop */ }
   try { stopSessionCleanup(); } catch { /* noop */ }
+  try { stopSubscriberMinimization(); } catch { /* noop */ }
 
   // Hard-exit Timer — falls irgendeine Ressource nicht freigibt, killen wir
   // den Prozess nach 15s trotzdem. Railway sendet SIGKILL nach 30s.
