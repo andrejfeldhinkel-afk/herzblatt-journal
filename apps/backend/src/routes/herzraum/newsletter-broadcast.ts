@@ -22,10 +22,71 @@
 import { Hono } from 'hono';
 import { z } from 'zod';
 import { and, desc, eq, isNull, count, sql } from 'drizzle-orm';
+import sanitizeHtml from 'sanitize-html';
 import { db, schema } from '../../db/index.js';
 import { logAudit } from '../../lib/audit.js';
 import { sendBroadcastEmail, isSendGridEnabled } from '../../lib/sendgrid.js';
 import { allowRequest } from '../../lib/rate-limit.js';
+
+// Sanitize-Config für Newsletter-HTML.
+// Admin ist zwar eingeloggt + trusted — aber ein gestohlener Account
+// könnte sonst Scripts/onclick/Iframes via E-Mail an alle Subscriber schicken
+// (Phishing-Vektor). Wir erlauben nur E-Mail-taugliches Markup.
+const NEWSLETTER_SANITIZE_OPTIONS: sanitizeHtml.IOptions = {
+  allowedTags: [
+    'p','br','strong','b','em','i','u','s','del',
+    'a','img','blockquote','code','pre',
+    'ul','ol','li',
+    'h1','h2','h3','h4','h5','h6',
+    'hr','table','thead','tbody','tr','td','th',
+    'div','span','figure','figcaption',
+  ],
+  allowedAttributes: {
+    a: ['href','title','target','rel'],
+    img: ['src','alt','title','width','height','style'],
+    '*': ['style','class'],
+  },
+  allowedSchemes: ['http','https','mailto'],
+  allowedSchemesByTag: { img: ['http','https','data'] },
+  // style-Tag wird weiter unten inline-attr-white-listed; externe <style> bleiben raus
+  allowedStyles: {
+    '*': {
+      color: [/.+/],
+      'background-color': [/.+/],
+      'text-align': [/^(left|right|center|justify)$/],
+      'font-size': [/.+/],
+      'font-weight': [/.+/],
+      'text-decoration': [/.+/],
+      padding: [/.+/],
+      margin: [/.+/],
+      border: [/.+/],
+      'border-radius': [/.+/],
+      width: [/.+/],
+      'max-width': [/.+/],
+      height: [/.+/],
+    },
+  },
+  // Keine Data-Attribute außer auf img (src=data: für inline-Bilder)
+  transformTags: {
+    a: (tagName, attribs) => {
+      // Alle externen Links bekommen rel=noopener target=_blank für Mail-Clients
+      // die sie doch mal im Browser rendern.
+      const href = attribs.href || '';
+      const isExternal = /^https?:\/\//i.test(href);
+      return {
+        tagName: 'a',
+        attribs: {
+          ...attribs,
+          ...(isExternal ? { target: '_blank', rel: 'noopener noreferrer' } : {}),
+        },
+      };
+    },
+  },
+};
+
+function sanitizeNewsletterHtml(html: string): string {
+  return sanitizeHtml(html, NEWSLETTER_SANITIZE_OPTIONS);
+}
 
 const app = new Hono();
 
@@ -126,12 +187,17 @@ app.post('/', async (c) => {
     return c.json({ ok: false, error: 'validation', issues: parsed.error.flatten() }, 400);
   }
 
+  const cleanHtml = sanitizeNewsletterHtml(parsed.data.bodyHtml);
+  if (cleanHtml.length < 20) {
+    return c.json({ ok: false, error: 'html-empty-after-sanitize' }, 400);
+  }
+
   const [created] = await db
     .insert(schema.newsletterBroadcasts)
     .values({
       subject: parsed.data.subject,
       articleSlug: parsed.data.articleSlug || null,
-      bodyHtml: parsed.data.bodyHtml,
+      bodyHtml: cleanHtml,
       status: 'draft',
     })
     .returning();
@@ -170,7 +236,13 @@ app.patch('/:id', async (c) => {
   const updates: Record<string, unknown> = {};
   if (parsed.data.subject !== undefined) updates.subject = parsed.data.subject;
   if (parsed.data.articleSlug !== undefined) updates.articleSlug = parsed.data.articleSlug;
-  if (parsed.data.bodyHtml !== undefined) updates.bodyHtml = parsed.data.bodyHtml;
+  if (parsed.data.bodyHtml !== undefined) {
+    const cleaned = sanitizeNewsletterHtml(parsed.data.bodyHtml);
+    if (cleaned.length < 20) {
+      return c.json({ ok: false, error: 'html-empty-after-sanitize' }, 400);
+    }
+    updates.bodyHtml = cleaned;
+  }
 
   // Atomarer UPDATE … WHERE status='draft' verhindert Edit nach Send-Start.
   const updated = await db
