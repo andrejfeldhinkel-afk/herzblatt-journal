@@ -733,6 +733,22 @@ const description = "Entdecke deinen Dating-Persönlichkeitstyp mit unserem unte
       gap: 0.5rem;
       margin-bottom: 1.5rem;
     }
+    /* Sterne im Quiz-Winner-Modal: Tailwind-Preflight macht svg {display:block}
+       → wenn der Wrapper nicht hart flex ist, stacken die Sterne untereinander.
+       Doppelt absichern: inline-flex + svg-Reset für den Stars-Wrapper. */
+    .result-rating-stars {
+      display: inline-flex;
+      align-items: center;
+      gap: 2px;
+      flex-wrap: nowrap;
+    }
+    .result-rating-stars svg { display: block; }
+    .result-rating-num-modal {
+      font-weight: 700;
+      font-size: 1.05rem;
+      color: var(--text);
+      font-variant-numeric: tabular-nums;
+    }
 
     .result-cta-modal {
       display: inline-flex;
@@ -1550,7 +1566,7 @@ const description = "Entdecke deinen Dating-Persönlichkeitstyp mit unserem unte
 
       var site = quizData.sites[winnerSite];
       var container = document.getElementById('quizSteps');
-      container.innerHTML = '<div class="modal-result"><div class="result-checkmark"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 12 2 2 4-4"/><circle cx="12" cy="12" r="10"/></svg></div><p class="result-perfect-match">Dein perfektes Match</p><div class="result-logo-container"><img src="' + site.logo + '" alt="' + site.name + '" class="result-logo"></div><h3 class="result-name-modal">' + site.name + '</h3><p class="result-desc-modal">' + site.desc + '</p><div class="result-rating-modal"><span class="result-rating-modal">' + site.rating + '</span><span class="result-rating-modal">' + renderStarsModal(site.rating) + '</span></div><a href="' + site.url + '" target="_blank" class="result-cta-modal">Jetzt testen <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></a><button onclick="restartQuiz()" class="result-cta-modal" style="background:var(--color-neutral-100);color:var(--text-primary);margin-top:1rem;">Nochmal versuchen</button></div>';
+      container.innerHTML = '<div class="modal-result"><div class="result-checkmark"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 12 2 2 4-4"/><circle cx="12" cy="12" r="10"/></svg></div><p class="result-perfect-match">Dein perfektes Match</p><div class="result-logo-container"><img src="' + site.logo + '" alt="' + site.name + '" class="result-logo"></div><h3 class="result-name-modal">' + site.name + '</h3><p class="result-desc-modal">' + site.desc + '</p><div class="result-rating-modal"><span class="result-rating-num-modal">' + site.rating + '</span><span class="result-rating-stars">' + renderStarsModal(site.rating) + '</span></div><a href="' + site.url + '" target="_blank" rel="noopener" class="result-cta-modal">Jetzt testen <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></a><button onclick="restartQuiz()" class="result-cta-modal" style="background:var(--color-neutral-100);color:var(--text-primary);margin-top:1rem;">Nochmal versuchen</button></div>';
     }
 
     // openDatingQuiz/closeDatingQuiz werden aus BaseLayout (DatingQuiz.astro) bereitgestellt.

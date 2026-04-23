@@ -182,8 +182,8 @@ const byAuthorJson = JSON.stringify(byAuthor);
         try {
           new Chart(canvas.getContext('2d'), {
             type: 'doughnut',
-            data: { labels: authorKeys, datasets: [{ data: authorKeys.map(k => byAuthor[k]), backgroundColor: colors.slice(0, authorKeys.length), borderColor: '#1a1a24', borderWidth: 2 }] },
-            options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { labels: { color: '#e2e8f0', font: { size: 12 } }, position: 'right' } } },
+            data: { labels: authorKeys, datasets: [{ data: authorKeys.map(k => byAuthor[k]), backgroundColor: colors.slice(0, authorKeys.length), borderColor: '#ffffff', borderWidth: 2 }] },
+            options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { labels: { color: '#334155', font: { size: 12 } }, position: 'right' } } },
           });
         } catch (err) { console.error('[artikel] chart:', err); }
       }
@@ -256,12 +256,40 @@ const byAuthorJson = JSON.stringify(byAuthor);
         return String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
       }
 
+      // Filter + Sort + Page in URL (?q=...&author=...&tag=...&sort=...&noimg=1&thin=1&p=2)
+      // persistieren, damit F5 / Share-Link die aktuelle Sicht behält.
+      function getParam(name, fallback) {
+        const v = new URLSearchParams(location.search).get(name);
+        return v == null ? fallback : v;
+      }
+      // Initial aus URL laden
+      search.value = getParam('q', '');
+      authorFilter.value = getParam('author', '');
+      tagFilter.value = getParam('tag', '');
+      noImageFilter.checked = getParam('noimg', '') === '1';
+      thinFilter.checked = getParam('thin', '') === '1';
+      sort.value = getParam('sort', sort.value);
+      page = Math.max(0, parseInt(getParam('p', '0'), 10) || 0);
+
+      function syncUrl() {
+        const p = new URLSearchParams();
+        if (search.value.trim()) p.set('q', search.value.trim());
+        if (authorFilter.value) p.set('author', authorFilter.value);
+        if (tagFilter.value) p.set('tag', tagFilter.value);
+        if (noImageFilter.checked) p.set('noimg', '1');
+        if (thinFilter.checked) p.set('thin', '1');
+        if (sort.value) p.set('sort', sort.value);
+        if (page > 0) p.set('p', String(page));
+        const qs = p.toString();
+        history.replaceState(null, '', qs ? '?' + qs : location.pathname);
+      }
+
       [search, authorFilter, tagFilter, noImageFilter, thinFilter, sort].forEach(el => {
-        el.addEventListener('input', () => { page = 0; render(); });
-        el.addEventListener('change', () => { page = 0; render(); });
+        el.addEventListener('input', () => { page = 0; render(); syncUrl(); });
+        el.addEventListener('change', () => { page = 0; render(); syncUrl(); });
       });
-      prevBtn.addEventListener('click', () => { page--; render(); });
-      nextBtn.addEventListener('click', () => { page++; render(); });
+      prevBtn.addEventListener('click', () => { page--; render(); syncUrl(); });
+      nextBtn.addEventListener('click', () => { page++; render(); syncUrl(); });
 
       render();
     })();
