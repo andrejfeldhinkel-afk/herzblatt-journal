@@ -58,13 +58,32 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
       function fmt(n) { return (n || 0).toLocaleString('de-DE'); }
       function setKpi(p, v) { document.querySelectorAll('[data-kpi="'+p+'"]').forEach(el => el.textContent = fmt(v)); }
 
+      // XSS-Guard für Werte, die per innerHTML gerendert werden
+      function escHtml(s) {
+        return String(s == null ? '' : s)
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;')
+          .replace(/'/g, '&#39;');
+      }
+
       async function load() {
         const showFull = document.getElementById('show-full-emails')?.checked;
         const listUrl = '/api/herzraum/newsletter/list' + (showFull ? '?mask=false' : '');
-        const [statsRes, listRes] = await Promise.all([
-          fetch('/api/herzraum/stats?range=30d').then(r => r.json()),
-          fetch(listUrl).then(r => r.json()),
-        ]);
+        let statsRes = { ok: false }, listRes = { ok: false };
+        try {
+          const [s, l] = await Promise.all([
+            fetch('/api/herzraum/stats?range=30d').then(r => r.json()).catch(() => ({ ok: false })),
+            fetch(listUrl).then(r => r.json()).catch(() => ({ ok: false, entries: [], total: 0 })),
+          ]);
+          statsRes = s; listRes = l;
+        } catch (err) {
+          console.error('[newsletter] load:', err);
+          const tbody = document.querySelector('#table-nl tbody');
+          if (tbody) tbody.innerHTML = '<tr><td colspan="3" style="color:#fca5a5">Fehler beim Laden</td></tr>';
+          return;
+        }
         if (statsRes.ok) {
           setKpi('nl.total', statsRes.kpis.newsletter.total);
           setKpi('nl.today', statsRes.kpis.newsletter.today);
@@ -79,7 +98,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
           tbody.innerHTML = rows.length
             ? rows.map(e => {
                 const ts = e.ts ? new Date(e.ts).toLocaleString('de-DE', { day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit' }) : '—';
-                return '<tr><td>' + e.email + '</td><td class="muted">' + ts + '</td><td><span class="hz-badge muted">' + (e.source || 'unknown') + '</span></td></tr>';
+                return '<tr><td>' + escHtml(e.email) + '</td><td class="muted">' + escHtml(ts) + '</td><td><span class="hz-badge muted">' + escHtml(e.source || 'unknown') + '</span></td></tr>';
               }).join('')
             : '<tr><td colspan="3" class="muted">Noch keine Abonnenten</td></tr>';
 

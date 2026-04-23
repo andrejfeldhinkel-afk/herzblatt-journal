@@ -47,10 +47,28 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
       function fmt(n){return (n||0).toLocaleString('de-DE');}
       function setKpi(p,v){document.querySelectorAll('[data-kpi="'+p+'"]').forEach(el=>el.textContent=fmt(v));}
       async function load() {
-        const [stats, list] = await Promise.all([
-          fetch('/api/herzraum/stats?range=30d').then(r=>r.json()),
-          fetch('/api/herzraum/readers/list').then(r=>r.json()),
-        ]);
+        // XSS-Guard für innerHTML-Zellen
+        function escHtml(s) {
+          return String(s == null ? '' : s)
+            .replace(/&/g, '&amp;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;')
+            .replace(/"/g, '&quot;')
+            .replace(/'/g, '&#39;');
+        }
+        let stats = { ok: false }, list = { ok: false, entries: [], overlap: 0 };
+        try {
+          const [s, l] = await Promise.all([
+            fetch('/api/herzraum/stats?range=30d').then(r=>r.json()).catch(() => ({ ok: false })),
+            fetch('/api/herzraum/readers/list').then(r=>r.json()).catch(() => ({ ok: false, entries: [], overlap: 0 })),
+          ]);
+          stats = s; list = l;
+        } catch (err) {
+          console.error('[leser] load:', err);
+          const tbody = document.querySelector('#table-reg tbody');
+          if (tbody) tbody.innerHTML = '<tr><td colspan="4" style="color:#fca5a5">Fehler beim Laden</td></tr>';
+          return;
+        }
         if (stats.ok) {
           setKpi('reg.total', stats.kpis.registrations.total);
           setKpi('reg.today', stats.kpis.registrations.today);
@@ -73,7 +91,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
             ? rows.map(e => {
                 const ts = e.ts ? new Date(e.ts).toLocaleString('de-DE', { day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit' }) : '—';
                 const nl = e.newsletter ? '<span class="hz-badge success">ja</span>' : '<span class="hz-badge muted">nein</span>';
-                return '<tr><td>'+e.email+'</td><td class="muted">'+ts+'</td><td><span class="hz-badge muted">'+(e.source||'unknown')+'</span></td><td>'+nl+'</td></tr>';
+                return '<tr><td>'+escHtml(e.email)+'</td><td class="muted">'+escHtml(ts)+'</td><td><span class="hz-badge muted">'+escHtml(e.source||'unknown')+'</span></td><td>'+nl+'</td></tr>';
               }).join('')
             : '<tr><td colspan="4" class="muted">Noch keine Registrierungen</td></tr>';
         }

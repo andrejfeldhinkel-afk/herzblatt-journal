@@ -46,22 +46,24 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
           const d = await res.json();
           if (!d.ok) throw new Error('API error');
 
-          // Revenue-Widget
+          // Revenue-Widget — defensiv gegen fehlende Sub-Objekte (Backend kann d.revenue=null schicken)
+          const rev = d.revenue || { cents: 0, purchasesCount: 0 };
+          const conv = d.conversion || { ratePercent: 0, ebookClicks: 0, ebookPageviews: 0 };
           const revEl = document.getElementById('kpi-revenue-7d');
           const revSub = document.getElementById('kpi-revenue-sub');
-          if (revEl) revEl.textContent = fmtEur(d.revenue.cents);
+          if (revEl) revEl.textContent = fmtEur(rev.cents || 0);
           if (revSub) {
-            const n = d.revenue.purchasesCount || 0;
+            const n = rev.purchasesCount || 0;
             revSub.textContent = n === 1 ? '1 Kauf' : n.toLocaleString('de-DE') + ' Käufe';
           }
 
           // Conversion-Widget
           const convEl = document.getElementById('kpi-conversion');
           const convSub = document.getElementById('kpi-conversion-sub');
-          if (convEl) convEl.textContent = (d.conversion.ratePercent || 0).toLocaleString('de-DE', { maximumFractionDigits: 2 }) + ' %';
+          if (convEl) convEl.textContent = (conv.ratePercent || 0).toLocaleString('de-DE', { maximumFractionDigits: 2 }) + ' %';
           if (convSub) {
-            convSub.textContent = (d.conversion.ebookClicks || 0).toLocaleString('de-DE')
-              + ' Klicks / ' + (d.conversion.ebookPageviews || 0).toLocaleString('de-DE') + ' Views';
+            convSub.textContent = (conv.ebookClicks || 0).toLocaleString('de-DE')
+              + ' Klicks / ' + (conv.ebookPageviews || 0).toLocaleString('de-DE') + ' Views';
           }
 
           // Top-Artikel-Widget (Platz 1)

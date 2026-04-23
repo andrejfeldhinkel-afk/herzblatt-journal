@@ -53,21 +53,15 @@ app.post('/login', async (c) => {
 });
 
 // POST /auth/logout — API-style (JSON)
+// GET /auth/logout wurde bewusst entfernt: Eine simple `<img src=".../logout">`
+// in einer fremden Seite hätte sonst den Admin unfreiwillig ausgeloggt (CSRF-Logout).
+// Der Sidebar-Button im HerzraumLayout macht jetzt fetch(POST) + manuellen Redirect.
 app.post('/logout', async (c) => {
   const token = extractTokenFromCookie(c.req.header('cookie'));
   await destroySession(token);
   c.header('Set-Cookie', buildLogoutCookie(), { append: true });
   c.header('Set-Cookie', 'hz_csrf=; Path=/; Max-Age=0; SameSite=Lax', { append: true });
   return c.json({ ok: true });
-});
-
-// GET /auth/logout — Link-style (Redirect)
-app.get('/logout', async (c) => {
-  const token = extractTokenFromCookie(c.req.header('cookie'));
-  await destroySession(token);
-  c.header('Set-Cookie', buildLogoutCookie(), { append: true });
-  c.header('Set-Cookie', 'hz_csrf=; Path=/; Max-Age=0; SameSite=Lax', { append: true });
-  return c.redirect('https://herzblatt-journal.com/herzraum/login', 302);
 });
 
 // GET /auth/verify — für Astro-Middleware, gibt 200 bei gültiger Session

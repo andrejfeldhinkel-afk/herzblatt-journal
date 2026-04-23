@@ -265,7 +265,8 @@ const navSections = [
       padding-top: 1rem;
       border-top: 1px solid var(--hz-border);
     }
-    .hz-logout a {
+    .hz-logout a,
+    .hz-logout button {
       display: flex; align-items: center; gap: 0.75rem;
       padding: 0.55rem 0.75rem;
       border-radius: var(--hz-radius-sm);
@@ -273,8 +274,15 @@ const navSections = [
       font-weight: 500;
       font-size: 0.875rem;
       transition: all 0.15s;
+      width: 100%;
+      background: transparent;
+      border: 0;
+      cursor: pointer;
+      text-align: left;
+      font-family: inherit;
     }
-    .hz-logout a:hover { background: rgba(239,68,68,0.08); color: var(--hz-danger); }
+    .hz-logout a:hover,
+    .hz-logout button:hover { background: rgba(239,68,68,0.08); color: var(--hz-danger); }
 
     /* ── Main ───────────────────────────────────────────── */
     .hz-main { padding: 1.75rem 2.25rem 4rem; max-width: 1600px; margin-left: auto; margin-right: auto; width: 100%; }
@@ -604,10 +612,10 @@ const navSections = [
       </nav>
 
       <div class="hz-logout">
-        <a href="/api/herzraum/logout">
+        <button type="button" id="hz-logout-btn">
           <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" y1="12" x2="9" y2="12"/></svg>
           <span>Abmelden</span>
-        </a>
+        </button>
       </div>
     </aside>
 
@@ -743,6 +751,22 @@ const navSections = [
         if (!side.contains(e.target) && e.target !== btn && !btn.contains(e.target)) {
           side.classList.remove('open');
         }
+      });
+    })();
+
+    // Logout-Button → POST + Redirect (CSRF-safe, ersetzt alte GET-Variante)
+    (function() {
+      const btn = document.getElementById('hz-logout-btn');
+      if (!btn) return;
+      btn.addEventListener('click', async () => {
+        btn.disabled = true;
+        try {
+          await fetch('/api/herzraum/logout', {
+            method: 'POST',
+            credentials: 'same-origin',
+          });
+        } catch { /* ignore — wir leiten trotzdem um */ }
+        window.location.href = '/herzraum/login';
       });
     })();
 
