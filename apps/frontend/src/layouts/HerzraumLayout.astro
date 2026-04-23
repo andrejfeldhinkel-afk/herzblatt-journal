@@ -793,7 +793,21 @@ const navSections = [
         loadBadge('/api/herzraum/todos?filter=open', 'hz-todos-badge', 'openCount');
       }
       refresh();
-      setInterval(refresh, 60_000);
+      // Sidebar-Badges: pausiert wenn Tab nicht sichtbar — läuft in JEDER
+      // Admin-Page, also der größte Polling-Hebel.
+      let badgeTimer = null;
+      function startBadgePolling() {
+        if (badgeTimer) return;
+        badgeTimer = setInterval(refresh, 60_000);
+      }
+      function stopBadgePolling() {
+        if (badgeTimer) { clearInterval(badgeTimer); badgeTimer = null; }
+      }
+      document.addEventListener('visibilitychange', () => {
+        if (document.hidden) { stopBadgePolling(); }
+        else { refresh(); startBadgePolling(); }
+      });
+      if (!document.hidden) startBadgePolling();
     })();
 
     // Cmd+K Quick-Search

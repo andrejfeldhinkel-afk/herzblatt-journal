@@ -255,7 +255,21 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
 
       loadList();
       updateUnreadCount();
-      setInterval(() => { updateUnreadCount(); if (!currentId) loadList(); }, 30_000);
+      // Polling pausieren wenn Tab nicht sichtbar.
+      let pollTimer = null;
+      const tick = () => { updateUnreadCount(); if (!currentId) loadList(); };
+      function startPolling() {
+        if (pollTimer) return;
+        pollTimer = setInterval(tick, 30_000);
+      }
+      function stopPolling() {
+        if (pollTimer) { clearInterval(pollTimer); pollTimer = null; }
+      }
+      document.addEventListener('visibilitychange', () => {
+        if (document.hidden) { stopPolling(); }
+        else { tick(); startPolling(); }
+      });
+      if (!document.hidden) startPolling();
     })();
   </script>
 </HerzraumLayout>

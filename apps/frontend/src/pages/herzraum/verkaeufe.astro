@@ -274,8 +274,19 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
       }
 
       load();
-      // Auto-refresh alle 30s
-      autoRefreshTimer = setInterval(load, 30_000);
+      // Auto-refresh alle 30s — pausiert wenn Tab nicht sichtbar (spart API-Calls).
+      function startPolling() {
+        if (autoRefreshTimer) return;
+        autoRefreshTimer = setInterval(load, 30_000);
+      }
+      function stopPolling() {
+        if (autoRefreshTimer) { clearInterval(autoRefreshTimer); autoRefreshTimer = null; }
+      }
+      document.addEventListener('visibilitychange', () => {
+        if (document.hidden) { stopPolling(); }
+        else { load(); startPolling(); }
+      });
+      if (!document.hidden) startPolling();
     })();
   </script>
 </HerzraumLayout>

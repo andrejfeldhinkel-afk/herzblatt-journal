@@ -295,7 +295,22 @@ const articleCount = blog.length;
       }
 
       load();
-      setInterval(load, 60_000);
+      // Polling pausieren wenn Tab nicht sichtbar — spart API-Calls + Strom.
+      // Außerdem sofort refreshen, sobald der Tab wieder sichtbar wird
+      // (User kommt zurück → soll nicht mit stalen Daten starren).
+      let pollTimer = null;
+      function startPolling() {
+        if (pollTimer) return;
+        pollTimer = setInterval(load, 60_000);
+      }
+      function stopPolling() {
+        if (pollTimer) { clearInterval(pollTimer); pollTimer = null; }
+      }
+      document.addEventListener('visibilitychange', () => {
+        if (document.hidden) { stopPolling(); }
+        else { load(); startPolling(); }
+      });
+      if (!document.hidden) startPolling();
     })();
   </script>
 </HerzraumLayout>
