@@ -73,7 +73,7 @@ import adminEbookDripRoute from './routes/admin/ebook-drip.js';
 
 // Middleware
 import { requireSession, requireAdminToken } from './lib/auth-middleware.js';
-import { requireCsrfToken } from './lib/csrf.js';
+import { requireCsrfToken, assertCsrfSecret } from './lib/csrf.js';
 
 const app = new Hono();
 const IS_PROD = process.env.NODE_ENV === 'production';
@@ -307,6 +307,15 @@ try {
 } catch (err) {
   console.error('[backend] FATAL:', err instanceof Error ? err.message : err);
   captureError(err, { stage: 'boot', check: 'EBOOK_ACCESS_SECRET' });
+  void flushSentry(3000).finally(() => process.exit(1));
+  throw err;
+}
+
+try {
+  assertCsrfSecret();
+} catch (err) {
+  console.error('[backend] FATAL:', err instanceof Error ? err.message : err);
+  captureError(err, { stage: 'boot', check: 'CSRF_SECRET' });
   void flushSentry(3000).finally(() => process.exit(1));
   throw err;
 }

@@ -496,7 +496,8 @@ const sourcesJson = JSON.stringify(SOURCE_LABELS);
         rating: $('m-rating').value.trim() || null,
         badges: badges.length ? badges : undefined,
         commissionNote: $('m-commissionNote').value.trim() || null,
-        sortOrder: parseInt($('m-sortOrder').value, 10) || 100,
+        // Bug-Fix: `|| 100` ersetzte eine valide 0 durch 100. Jetzt: 100 nur bei NaN/leer.
+        sortOrder: (() => { const n = parseInt($('m-sortOrder').value, 10); return Number.isFinite(n) ? n : 100; })(),
         featured: $('m-featured').checked,
         active: $('m-active').checked,
       };

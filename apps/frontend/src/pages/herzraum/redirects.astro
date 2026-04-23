@@ -69,6 +69,16 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
 
         const tbody = document.querySelector('#r-table tbody');
         const rows = data.redirects.sort((a, b) => a.from.localeCompare(b.from));
+        // XSS-Guard für alle eingebauten Werte inkl. href (verhindert javascript:-URLs)
+        const escHtml = (s) => String(s == null ? '' : s)
+          .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+        const safeHref = (s) => {
+          const v = String(s == null ? '' : s).trim();
+          // Erlaube nur /pfad, http(s):// und mailto: — blockt javascript:, data:, etc.
+          if (/^(\/|https?:\/\/|mailto:)/i.test(v)) return escHtml(v);
+          return '#';
+        };
         function render(filter) {
           const filtered = filter
             ? rows.filter(r => (r.from + ' ' + r.to).toLowerCase().includes(filter.toLowerCase()))
@@ -76,10 +86,10 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
           tbody.innerHTML = filtered.length
             ? filtered.map(r => `
                 <tr>
-                  <td style="font-family: monospace; font-size: 0.8rem;">${r.from}</td>
-                  <td style="font-family: monospace; font-size: 0.8rem;"><a href="${r.to}" target="_blank" style="color: var(--hz-primary);">${r.to}</a></td>
-                  <td><span class="hz-badge muted">${r.status}</span></td>
-                  <td><span class="hz-badge muted">${r.source}</span></td>
+                  <td style="font-family: monospace; font-size: 0.8rem;">${escHtml(r.from)}</td>
+                  <td style="font-family: monospace; font-size: 0.8rem;"><a href="${safeHref(r.to)}" target="_blank" rel="noopener" style="color: var(--hz-primary);">${escHtml(r.to)}</a></td>
+                  <td><span class="hz-badge muted">${escHtml(r.status)}</span></td>
+                  <td><span class="hz-badge muted">${escHtml(r.source)}</span></td>
                 </tr>
               `).join('')
             : '<tr><td colspan="4" class="muted">Keine Treffer</td></tr>';
@@ -87,7 +97,7 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         render('');
         document.getElementById('search').addEventListener('input', e => render(e.target.value));
       } catch (err) {
-        document.querySelector('#r-table tbody').innerHTML = '<tr><td colspan="4" style="color: var(--hz-danger);">Fehler: ' + err.message + '</td></tr>';
+        document.querySelector('#r-table tbody').innerHTML = '<tr><td colspan="4" style="color: var(--hz-danger);">Fehler: ' + String(err && err.message ? err.message : 'Unbekannt').replace(/[<>&"']/g, '') + '</td></tr>';
       }
     }
     load();

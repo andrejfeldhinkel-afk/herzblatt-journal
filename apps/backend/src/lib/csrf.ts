@@ -30,15 +30,44 @@ export const CSRF_COOKIE = 'hz_csrf';
 export const CSRF_HEADER = 'x-csrf-token';
 const CSRF_TOKEN_TTL_MS = 24 * 60 * 60 * 1000; // an Session-Lifetime angelehnt
 
+// Wird lazily beim ersten Aufruf resolved + dann gecached — damit der
+// Resolve-Check auch in Tests greift, die Module importieren ohne zu booten.
+let cachedSecret: string | null = null;
+
 function getSecret(): string {
+  if (cachedSecret) return cachedSecret;
   const fromEnv = process.env.CSRF_SECRET;
-  if (fromEnv && fromEnv.length >= 32) return fromEnv;
+  if (fromEnv && fromEnv.length >= 32) {
+    cachedSecret = fromEnv;
+    return cachedSecret;
+  }
   // Fallback auf IP_SALT — wird beim Boot bereits auf ≥32 Bytes geprüft
   const fallback = process.env.IP_SALT;
-  if (fallback && fallback.length >= 32) return fallback;
-  // Dev-Fallback: stable ephemeral-secret pro Prozess (nicht über Restarts
-  // persistent, aber besser als harter Crash in lokalen Envs).
-  return 'dev-csrf-secret-not-for-production-use-at-all-dont';
+  if (fallback && fallback.length >= 32) {
+    cachedSecret = fallback;
+    return cachedSecret;
+  }
+  // In Production HART crashen statt auf hartcodiertes Dev-Secret zurückzufallen.
+  // Sonst ist die ganze CSRF-Schicht taub, wenn jemand vergisst, CSRF_SECRET+IP_SALT zu setzen.
+  if (process.env.NODE_ENV === 'production') {
+    throw new Error(
+      '[csrf] CSRF_SECRET (oder IP_SALT als Fallback) muss in Produktion gesetzt sein (min. 32 Zeichen).',
+    );
+  }
+  // Dev-Fallback: stable ephemeral-secret pro Prozess.
+  cachedSecret = 'dev-csrf-secret-not-for-production-use-at-all-dont';
+  // eslint-disable-next-line no-console
+  console.warn('[csrf] WARN: CSRF_SECRET nicht gesetzt — nutze Dev-Fallback. Nur in Dev/Test erlaubt.');
+  return cachedSecret;
+}
+
+/**
+ * Boot-Assert: Beim Server-Start aufrufen, damit ein fehlendes Secret in
+ * Produktion SOFORT den Prozess crasht und nicht erst beim ersten Login.
+ */
+export function assertCsrfSecret(): void {
+  // triggert den Resolve-Pfad + evtl. den throw
+  getSecret();
 }
 
 function b64url(buf: Buffer): string {

@@ -7,6 +7,10 @@ export const GET: APIRoute = async ({ request, params }) => {
   return proxyToBackend(request, `/herzraum/newsletter-broadcast/${params.id}`);
 };
 
+export const PATCH: APIRoute = async ({ request, params }) => {
+  return proxyToBackend(request, `/herzraum/newsletter-broadcast/${params.id}`);
+};
+
 export const DELETE: APIRoute = async ({ request, params }) => {
   return proxyToBackend(request, `/herzraum/newsletter-broadcast/${params.id}`);
 };
