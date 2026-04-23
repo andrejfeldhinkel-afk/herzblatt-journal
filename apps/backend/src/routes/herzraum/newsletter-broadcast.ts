@@ -333,6 +333,103 @@ app.post('/:id/test', async (c) => {
   });
 });
 
+// ─── POST /:id/schedule — Draft für später planen ─────────────
+// Setzt status='scheduled' + scheduled_for=<ts>. Ein Scheduler-Interval
+// im Backend-Boot (siehe lib/newsletter-scheduler.ts) findet fällige
+// Broadcasts und löst den Send atomar aus.
+const scheduleSchema = z.object({
+  // ISO-8601-Timestamp (client sendet UTC). Mind. 2 Min in der Zukunft,
+  // max. 90 Tage — verhindert aus-Versehen-Senden + vergessene Zombies.
+  scheduledFor: z.string().datetime({ offset: true }),
+});
+
+app.post('/:id/schedule', async (c) => {
+  const id = parseInt(c.req.param('id'), 10);
+  if (!Number.isInteger(id) || id < 1) {
+    return c.json({ ok: false, error: 'invalid-id' }, 400);
+  }
+
+  let body: unknown;
+  try { body = await c.req.json(); }
+  catch { return c.json({ ok: false, error: 'invalid-json' }, 400); }
+
+  const parsed = scheduleSchema.safeParse(body);
+  if (!parsed.success) {
+    return c.json({ ok: false, error: 'validation', issues: parsed.error.flatten() }, 400);
+  }
+
+  const when = new Date(parsed.data.scheduledFor);
+  const now = Date.now();
+  const MIN_LEAD_MS = 2 * 60 * 1000;
+  const MAX_LEAD_MS = 90 * 24 * 60 * 60 * 1000;
+  if (when.getTime() - now < MIN_LEAD_MS) {
+    return c.json({ ok: false, error: 'too-soon', message: 'Mind. 2 Minuten in der Zukunft.' }, 400);
+  }
+  if (when.getTime() - now > MAX_LEAD_MS) {
+    return c.json({ ok: false, error: 'too-far', message: 'Max. 90 Tage in der Zukunft.' }, 400);
+  }
+
+  // Atomar von 'draft' → 'scheduled'. Verhindert Race mit paralleler Send/Delete-Op.
+  const claimed = await db
+    .update(schema.newsletterBroadcasts)
+    .set({ status: 'scheduled', scheduledFor: when })
+    .where(
+      and(
+        eq(schema.newsletterBroadcasts.id, id),
+        eq(schema.newsletterBroadcasts.status, 'draft'),
+      ),
+    )
+    .returning();
+
+  if (claimed.length === 0) {
+    const [existing] = await db
+      .select()
+      .from(schema.newsletterBroadcasts)
+      .where(eq(schema.newsletterBroadcasts.id, id))
+      .limit(1);
+    if (!existing) return c.json({ ok: false, error: 'not-found' }, 404);
+    return c.json({ ok: false, error: 'invalid-status', status: existing.status }, 409);
+  }
+
+  await logAudit(c, {
+    action: 'newsletter.broadcast.schedule',
+    target: String(id),
+    meta: { scheduledFor: when.toISOString() },
+  });
+
+  return c.json({ ok: true, broadcast: claimed[0] });
+});
+
+// ─── POST /:id/unschedule — Scheduled zurück zu Draft ──────────
+app.post('/:id/unschedule', async (c) => {
+  const id = parseInt(c.req.param('id'), 10);
+  if (!Number.isInteger(id) || id < 1) {
+    return c.json({ ok: false, error: 'invalid-id' }, 400);
+  }
+
+  const claimed = await db
+    .update(schema.newsletterBroadcasts)
+    .set({ status: 'draft', scheduledFor: null })
+    .where(
+      and(
+        eq(schema.newsletterBroadcasts.id, id),
+        eq(schema.newsletterBroadcasts.status, 'scheduled'),
+      ),
+    )
+    .returning();
+
+  if (claimed.length === 0) {
+    return c.json({ ok: false, error: 'not-scheduled' }, 409);
+  }
+
+  await logAudit(c, {
+    action: 'newsletter.broadcast.unschedule',
+    target: String(id),
+  });
+
+  return c.json({ ok: true, broadcast: claimed[0] });
+});
+
 // ─── POST /:id/send (real mass send) ──────────────────────────
 // Globaler Rate-Limit-Key — 1 Send pro 5 Min über alle Broadcasts.
 const SEND_RATE_LIMIT_KEY = 'newsletter-broadcast:send';

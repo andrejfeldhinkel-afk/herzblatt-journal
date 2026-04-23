@@ -495,7 +495,13 @@ export const newsletterBroadcasts = pgTable(
     subject: text('subject').notNull(),
     articleSlug: text('article_slug'),
     bodyHtml: text('body_html').notNull(),
-    status: text('status').notNull().default('draft'), // 'draft' | 'sending' | 'sent' | 'failed'
+    // 'draft' | 'scheduled' | 'sending' | 'sent' | 'failed'
+    status: text('status').notNull().default('draft'),
+    // Geplanter Sende-Zeitpunkt; NULL solange das Broadcast im Draft-Modus ist.
+    // Bei status='scheduled' MUSS dieses Feld in der Zukunft liegen.
+    // Ein Scheduler-Interval im Backend-Boot scannt alle 60s und startet
+    // fällige Broadcasts (status='scheduled' AND scheduled_for <= NOW()).
+    scheduledFor: timestamp('scheduled_for', { withTimezone: true }),
     sentAt: timestamp('sent_at', { withTimezone: true }),
     recipientCount: integer('recipient_count'),
     successCount: integer('success_count'),
@@ -505,5 +511,6 @@ export const newsletterBroadcasts = pgTable(
   (t) => ({
     createdAtIdx: index('newsletter_broadcasts_created_at_idx').on(t.createdAt),
     statusIdx: index('newsletter_broadcasts_status_idx').on(t.status),
+    scheduledForIdx: index('newsletter_broadcasts_scheduled_for_idx').on(t.scheduledFor),
   }),
 );
