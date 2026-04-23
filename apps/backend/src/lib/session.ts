@@ -1,5 +1,5 @@
 import crypto from 'node:crypto';
-import { and, eq, gt, lt } from 'drizzle-orm';
+import { and, eq, gt } from 'drizzle-orm';
 import { db, schema } from '../db/index.js';
 import { hashIp } from './crypto.js';
 
@@ -75,9 +75,11 @@ export async function attemptLogin(password: string, clientIp: string): Promise<
 export async function verifySession(token: string | null | undefined): Promise<boolean> {
   if (!token || typeof token !== 'string' || token.length < 20) return false;
 
-  // Opportunistisch abgelaufene Sessions löschen
-  await db.delete(schema.sessions).where(lt(schema.sessions.expiresAt, new Date()));
-
+  // Vorher: `DELETE FROM sessions WHERE expires_at < NOW()` bei JEDEM
+  // Request — ein Full-Table-Scan pro Verify, auch wenn nichts abgelaufen
+  // ist. Auf Admin-Pages mit ~10 XHRs/min == 10 DELETE/min.
+  // Cleanup ist jetzt in lib/session-cleanup.ts als periodischer Cron
+  // (alle 10 Min) verlagert. Verify macht nur noch einen indexed SELECT.
   const row = await db
     .select({ id: schema.sessions.id })
     .from(schema.sessions)
