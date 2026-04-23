@@ -202,24 +202,50 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
       async function toggle(id) {
         const t = allTodos.find((x) => x.id == id);
         if (!t) return;
+        // Optimistic Update: Status sofort flippen + rendern, nicht auf Server warten.
+        // Bei Fehler rollback + Meldung. Beseitigt die ~400ms Lag beim Klick.
+        const prev = t.done;
+        t.done = !t.done;
+        t.completedAt = t.done ? new Date().toISOString() : null;
+        render();
         try {
           const res = await fetch('/api/herzraum/todos/' + id, {
             method: 'PATCH',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ done: !t.done }),
+            body: JSON.stringify({ done: t.done }),
           });
           const data = await res.json();
-          if (data.ok) load();
-        } catch (e) { /* silent */ }
+          if (!data.ok) throw new Error('server-nack');
+          // Eventual-consistency reload — holt evtl. Server-Fields wie completedAt korrekt
+          load();
+        } catch (e) {
+          // Rollback
+          t.done = prev;
+          render();
+          console.error('[todos] toggle failed:', e);
+          alert('Konnte den Status nicht ändern. Probier\'s nochmal.');
+        }
       }
 
       async function del(id) {
         if (!confirm('Todo löschen?')) return;
+        // Optimistic Delete: aus der Liste raus + rendern, bei Fehler zurück
+        const idx = allTodos.findIndex((x) => x.id == id);
+        if (idx < 0) return;
+        const removed = allTodos.splice(idx, 1)[0];
+        render();
         try {
           const res = await fetch('/api/herzraum/todos/' + id, { method: 'DELETE' });
           const data = await res.json();
-          if (data.ok) load();
-        } catch (e) { /* silent */ }
+          if (!data.ok) throw new Error('server-nack');
+          load();
+        } catch (e) {
+          // Rollback
+          allTodos.splice(idx, 0, removed);
+          render();
+          console.error('[todos] delete failed:', e);
+          alert('Konnte das Todo nicht löschen.');
+        }
       }
 
       $('add-form').addEventListener('submit', async (e) => {

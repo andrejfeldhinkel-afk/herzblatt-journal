@@ -253,6 +253,39 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         return () => { clearTimeout(t); t = setTimeout(loadList, 300); };
       })());
 
+      // Keyboard-Navigation: j/↓ = nächste, k/↑ = vorherige, Enter = öffnen,
+      // Del = (Mail-Status) löschen, r = als gelesen/ungelesen markieren (falls offen),
+      // / = Suche fokussieren, Esc = Details schließen
+      document.addEventListener('keydown', (e) => {
+        const active = document.activeElement;
+        const inInput = active && ('value' in active) && active.tagName !== 'BUTTON';
+        if (inInput && e.key !== 'Escape') return;
+        const items = [...document.querySelectorAll('.mail-item')];
+        if (!items.length && !['/', 'Escape'].includes(e.key)) return;
+        const idx = items.findIndex(el => parseInt(el.dataset.id, 10) === currentId);
+        switch (e.key) {
+          case 'j':
+          case 'ArrowDown': {
+            const next = items[Math.min(items.length - 1, (idx < 0 ? 0 : idx + 1))];
+            if (next) { e.preventDefault(); openMail(parseInt(next.dataset.id, 10)); next.scrollIntoView({ block: 'nearest' }); }
+            break;
+          }
+          case 'k':
+          case 'ArrowUp': {
+            const prev = items[Math.max(0, (idx < 0 ? 0 : idx - 1))];
+            if (prev) { e.preventDefault(); openMail(parseInt(prev.dataset.id, 10)); prev.scrollIntoView({ block: 'nearest' }); }
+            break;
+          }
+          case '/':
+            e.preventDefault();
+            $('search')?.focus();
+            break;
+          case 'Escape':
+            if (active && 'blur' in active) active.blur();
+            break;
+        }
+      });
+
       loadList();
       updateUnreadCount();
       // Polling pausieren wenn Tab nicht sichtbar.
