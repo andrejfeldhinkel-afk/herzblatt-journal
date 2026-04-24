@@ -128,36 +128,84 @@ app.get('/', async (c) => {
   const PAGE_SIZE = 20;
   const offset = (page - 1) * PAGE_SIZE;
 
-  const [rows, totalRow] = await Promise.all([
-    db
-      .select({
-        id: schema.newsletterBroadcasts.id,
-        subject: schema.newsletterBroadcasts.subject,
-        articleSlug: schema.newsletterBroadcasts.articleSlug,
-        status: schema.newsletterBroadcasts.status,
-        sentAt: schema.newsletterBroadcasts.sentAt,
-        recipientCount: schema.newsletterBroadcasts.recipientCount,
-        successCount: schema.newsletterBroadcasts.successCount,
-        createdBy: schema.newsletterBroadcasts.createdBy,
-        createdAt: schema.newsletterBroadcasts.createdAt,
-      })
-      .from(schema.newsletterBroadcasts)
-      .orderBy(desc(schema.newsletterBroadcasts.createdAt))
-      .limit(PAGE_SIZE)
-      .offset(offset),
-    db.select({ n: count() }).from(schema.newsletterBroadcasts),
-  ]);
+  // Defensiver Try/Catch — wenn irgendwas in DB-Query schief läuft
+  // (z.B. Column fehlt wg. Deploy-Race-Condition, DB-Connection-Drop),
+  // liefern wir einen strukturierten Fehler statt den Error nach oben zu
+  // werfen und den generischen 500-Handler zu triggern. Damit sieht der
+  // Admin "Fehler beim Laden" + Console-Log mit Details statt "Internal
+  // Server Error" ohne Kontext.
+  try {
+    const [rows, totalRow] = await Promise.all([
+      db
+        .select({
+          id: schema.newsletterBroadcasts.id,
+          subject: schema.newsletterBroadcasts.subject,
+          articleSlug: schema.newsletterBroadcasts.articleSlug,
+          status: schema.newsletterBroadcasts.status,
+          sentAt: schema.newsletterBroadcasts.sentAt,
+          scheduledFor: schema.newsletterBroadcasts.scheduledFor,
+          recipientCount: schema.newsletterBroadcasts.recipientCount,
+          successCount: schema.newsletterBroadcasts.successCount,
+          createdBy: schema.newsletterBroadcasts.createdBy,
+          createdAt: schema.newsletterBroadcasts.createdAt,
+        })
+        .from(schema.newsletterBroadcasts)
+        .orderBy(desc(schema.newsletterBroadcasts.createdAt))
+        .limit(PAGE_SIZE)
+        .offset(offset),
+      db.select({ n: count() }).from(schema.newsletterBroadcasts),
+    ]);
 
-  const total = Number(totalRow[0]?.n || 0);
-  return c.json({
-    ok: true,
-    page,
-    pageSize: PAGE_SIZE,
-    total,
-    totalPages: Math.max(1, Math.ceil(total / PAGE_SIZE)),
-    broadcasts: rows,
-    sendgridEnabled: isSendGridEnabled(),
-  });
+    const total = Number(totalRow[0]?.n || 0);
+    return c.json({
+      ok: true,
+      page,
+      pageSize: PAGE_SIZE,
+      total,
+      totalPages: Math.max(1, Math.ceil(total / PAGE_SIZE)),
+      broadcasts: rows,
+      sendgridEnabled: isSendGridEnabled(),
+    });
+  } catch (err) {
+    const msg = err instanceof Error ? err.message : String(err);
+    console.error('[newsletter-broadcast] GET / failed:', msg);
+    // Häufigste Ursache: `scheduled_for`-Column fehlt weil Migration noch
+    // nicht durchgelaufen ist. Wir liefern die Liste trotzdem, nur ohne
+    // scheduledFor, statt komplett zu brechen.
+    if (/column.*scheduled_for.*does not exist/i.test(msg)) {
+      try {
+        const [rows, totalRow] = await Promise.all([
+          db
+            .select({
+              id: schema.newsletterBroadcasts.id,
+              subject: schema.newsletterBroadcasts.subject,
+              articleSlug: schema.newsletterBroadcasts.articleSlug,
+              status: schema.newsletterBroadcasts.status,
+              sentAt: schema.newsletterBroadcasts.sentAt,
+              recipientCount: schema.newsletterBroadcasts.recipientCount,
+              successCount: schema.newsletterBroadcasts.successCount,
+              createdBy: schema.newsletterBroadcasts.createdBy,
+              createdAt: schema.newsletterBroadcasts.createdAt,
+            })
+            .from(schema.newsletterBroadcasts)
+            .orderBy(desc(schema.newsletterBroadcasts.createdAt))
+            .limit(PAGE_SIZE)
+            .offset(offset),
+          db.select({ n: count() }).from(schema.newsletterBroadcasts),
+        ]);
+        const total = Number(totalRow[0]?.n || 0);
+        return c.json({
+          ok: true,
+          page, pageSize: PAGE_SIZE, total,
+          totalPages: Math.max(1, Math.ceil(total / PAGE_SIZE)),
+          broadcasts: rows.map((r) => ({ ...r, scheduledFor: null })),
+          sendgridEnabled: isSendGridEnabled(),
+          warning: 'scheduled_for column missing — run migrations',
+        });
+      } catch { /* fall through zum 500 */ }
+    }
+    return c.json({ ok: false, error: 'list-failed', message: msg.slice(0, 300) }, 500);
+  }
 });
 
 // ─── GET /:id (detail) ─────────────────────────────────────────
