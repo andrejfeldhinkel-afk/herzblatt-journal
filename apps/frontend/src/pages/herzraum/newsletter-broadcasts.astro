@@ -432,6 +432,53 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         });
       }
 
+      // ─── Autosave (localStorage) ──────────────────────────
+      // Schutz gegen Tab-Close / F5 / Crash bevor der User auf "Draft
+      // speichern" klickt. Nur NEU-Drafts (currentDraftId == null),
+      // Edit-Mode lädt die echten Daten vom Server, der ist nie stale.
+      const AUTOSAVE_KEY = 'hz-newsletter-draft-v1';
+      const AUTOSAVE_THROTTLE_MS = 800;
+      let autosaveTimer = null;
+
+      function saveAutosave() {
+        if (currentDraftId) return; // Edit-Mode überspringt Autosave
+        try {
+          const payload = {
+            subject: $('f-subject').value,
+            bodyHtml: $('f-bodyHtml').value,
+            articleSlug: $('f-articleSlug').value,
+            mode: currentMode,
+            savedAt: Date.now(),
+          };
+          // Nur speichern wenn WIRKLICH was drin ist — sonst räumen wir auf.
+          if (!payload.subject.trim() && !payload.bodyHtml.trim()) {
+            localStorage.removeItem(AUTOSAVE_KEY);
+            return;
+          }
+          localStorage.setItem(AUTOSAVE_KEY, JSON.stringify(payload));
+        } catch { /* QuotaExceeded etc. — silently skip */ }
+      }
+      function scheduleAutosave() {
+        if (autosaveTimer) clearTimeout(autosaveTimer);
+        autosaveTimer = setTimeout(saveAutosave, AUTOSAVE_THROTTLE_MS);
+      }
+      function clearAutosave() {
+        try { localStorage.removeItem(AUTOSAVE_KEY); } catch {}
+      }
+      function loadAutosave() {
+        try {
+          const raw = localStorage.getItem(AUTOSAVE_KEY);
+          if (!raw) return null;
+          const p = JSON.parse(raw);
+          // Sanity-Check: nicht älter als 7 Tage
+          if (!p || !p.savedAt || Date.now() - p.savedAt > 7 * 86_400_000) {
+            clearAutosave();
+            return null;
+          }
+          return p;
+        } catch { return null; }
+      }
+
       // ─── Modal ─────────────────────────────────────────
       function openModal() {
         $('modal-new').classList.remove('hidden');
@@ -447,6 +494,22 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         const inp = document.getElementById('input-schedule');
         if (inp) inp.value = '';
         setMode('manual');
+        // Autosave-Restore: wenn was im localStorage liegt, fragen
+        const saved = loadAutosave();
+        if (saved && (saved.subject || saved.bodyHtml)) {
+          const ageMin = Math.round((Date.now() - saved.savedAt) / 60_000);
+          const ageLabel = ageMin < 60
+            ? ageMin + ' Min'
+            : Math.round(ageMin / 60) + ' Std';
+          if (confirm('Autosave-Entwurf von vor ' + ageLabel + ' gefunden.\n\nBetreff: ' + (saved.subject || '(leer)').slice(0, 80) + '\n\nWiederherstellen? [OK]\nVerwerfen? [Abbrechen]')) {
+            $('f-subject').value = saved.subject || '';
+            $('f-bodyHtml').value = saved.bodyHtml || '';
+            $('f-articleSlug').value = saved.articleSlug || '';
+            setMode(saved.mode || 'manual');
+          } else {
+            clearAutosave();
+          }
+        }
         renderPreview();
       }
       function closeModal() { $('modal-new').classList.add('hidden'); }
@@ -537,7 +600,9 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         frame.srcdoc = '<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><base target="_blank"></head><body style="margin:0;padding:1.5rem;font-family:-apple-system,BlinkMacSystemFont,\'Segoe UI\',sans-serif;color:#1f2937;background:#fff;">'
           + rendered + '</body></html>';
       }
-      $('f-bodyHtml').addEventListener('input', renderPreview);
+      $('f-bodyHtml').addEventListener('input', () => { renderPreview(); scheduleAutosave(); });
+      $('f-subject').addEventListener('input', scheduleAutosave);
+      $('f-articleSlug').addEventListener('input', scheduleAutosave);
 
       // ─── Subject-Line-Scorer ─────────────────────────────────────
       // Heuristik gegen Spam-Triggers + Best-Practices. Rein informativ,
@@ -636,6 +701,9 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
 
         if (resp.ok && resp.data && resp.data.ok) {
           currentDraftId = resp.data.broadcast.id;
+          // Erfolgreich in DB → Autosave löschen, sonst wird's beim nächsten
+          // Modal-Öffnen wieder als Vorschlag angezeigt.
+          clearAutosave();
           showResult(`✓ Draft #${currentDraftId} gespeichert.`, true);
           return currentDraftId;
         }
