@@ -96,6 +96,14 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
           <input type="text" id="f-subject" required minlength="3" maxlength="300"
                  placeholder="Neuer Artikel: Wie du Bindungsangst erkennst"
                  style="width: 100%; padding: 0.7rem 0.85rem; font-size: 0.95rem;">
+          <!-- Live Subject-Line-Scorer: Heuristik gegen Spam-Triggers,
+               Länge, Emoji-Dichte, ALL-CAPS. Rein clientseitig, rein
+               informativ — blockt keinen Send. -->
+          <div id="subject-score" style="margin-top: 0.5rem; display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap; font-size: 0.78rem;">
+            <span id="subject-score-badge" style="padding: 0.2rem 0.55rem; border-radius: 999px; font-weight: 600; background: var(--hz-surface-2); color: var(--hz-text-muted);">—</span>
+            <span id="subject-score-len" style="color: var(--hz-text-muted);">0 Zeichen</span>
+            <span id="subject-score-tips" style="color: var(--hz-text-muted); flex: 1; min-width: 150px;"></span>
+          </div>
         </div>
 
         <!-- Body (HTML) -->
@@ -530,6 +538,82 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
           + rendered + '</body></html>';
       }
       $('f-bodyHtml').addEventListener('input', renderPreview);
+
+      // ─── Subject-Line-Scorer ─────────────────────────────────────
+      // Heuristik gegen Spam-Triggers + Best-Practices. Rein informativ,
+      // blockt keinen Send. Score 0-100, Badge-Farbe abhängig.
+      const SPAM_WORDS = [
+        'gratis','free','jetzt kaufen','100%','garantiert','nur heute',
+        'klick hier','gewinn','!!!','kostenlos','sofort','reich','earn',
+        'cash','credit','loan','viagra','casino','betrug','dringend',
+      ];
+      function scoreSubject(s) {
+        const raw = (s || '').trim();
+        if (!raw) return { score: 0, label: '—', tips: 'Betreff eingeben…', color: 'var(--hz-text-muted)' };
+        let score = 100;
+        const tips = [];
+
+        // Länge: ideal 30-60, akzeptabel 20-80
+        const len = raw.length;
+        if (len < 20) { score -= 15; tips.push('zu kurz (<20)'); }
+        else if (len < 30) { score -= 5; tips.push('kurz'); }
+        else if (len > 80) { score -= 15; tips.push('zu lang (>80)'); }
+        else if (len > 60) { score -= 5; tips.push('lang'); }
+
+        // ALL-CAPS-Wörter (> 3 Buchstaben)
+        const capsWords = (raw.match(/\b[A-Z]{4,}\b/g) || []).length;
+        if (capsWords > 0) { score -= Math.min(25, capsWords * 12); tips.push(capsWords + 'x ALL-CAPS'); }
+
+        // Mehrfach-Ausrufezeichen
+        if (/!{2,}/.test(raw)) { score -= 15; tips.push('Mehrfach-!'); }
+        // Mehrfach-Fragezeichen
+        if (/\?{2,}/.test(raw)) { score -= 10; tips.push('Mehrfach-?'); }
+
+        // Emoji-Count (grober Count über Unicode-Ranges)
+        const emojiMatches = raw.match(/[\u{1F300}-\u{1F9FF}\u{2600}-\u{27BF}]/gu) || [];
+        if (emojiMatches.length > 3) { score -= 15; tips.push('>3 Emojis'); }
+        else if (emojiMatches.length >= 1 && emojiMatches.length <= 2) { tips.push('✓ Emojis'); }
+
+        // Spam-Words
+        const lower = raw.toLowerCase();
+        const hits = SPAM_WORDS.filter(w => lower.includes(w));
+        if (hits.length > 0) {
+          score -= Math.min(30, hits.length * 10);
+          tips.push('Spam-Wörter: ' + hits.slice(0, 3).join(', '));
+        }
+
+        // €-Zeichen / Preis-Indikator alleine → Downgrade (typisches Sales-Subject)
+        if (/€|EUR|\$/.test(raw)) { score -= 5; tips.push('Währung'); }
+
+        // Persönlicher Ton-Boost (Zahlen/Fragen am Anfang)
+        if (/^(wie|warum|was|wann|wo|wer|\d)/i.test(raw)) { tips.push('✓ Hook'); }
+
+        score = Math.max(0, Math.min(100, score));
+        let label, color;
+        if (score >= 80) { label = 'Sehr gut'; color = '#10b981'; }
+        else if (score >= 60) { label = 'OK'; color = '#f59e0b'; }
+        else if (score >= 40) { label = 'Schwach'; color = '#f97316'; }
+        else { label = 'Spam-Risiko'; color = 'var(--hz-danger)'; }
+
+        return { score, label, tips: tips.length ? tips.join(' · ') : '✓ Sauber', color };
+      }
+
+      function renderSubjectScore() {
+        const val = $('f-subject').value;
+        const { score, label, tips, color } = scoreSubject(val);
+        const badge = document.getElementById('subject-score-badge');
+        const lenEl = document.getElementById('subject-score-len');
+        const tipsEl = document.getElementById('subject-score-tips');
+        if (badge) {
+          badge.textContent = label + ' · ' + score;
+          badge.style.background = color + '22';
+          badge.style.color = color;
+        }
+        if (lenEl) lenEl.textContent = val.length + ' Zeichen';
+        if (tipsEl) tipsEl.textContent = tips;
+      }
+      $('f-subject').addEventListener('input', renderSubjectScore);
+      renderSubjectScore();
 
       async function saveDraft() {
         const payload = {
