@@ -2,6 +2,8 @@
 title: "Angst vor Bindung überwinden: Schritt-für-Schritt aus der Blockade"
 description: "Bindungsangst verstehen und überwinden: Ursachen, konkrete Übungen für jede Phase und klare Hinweise, wann professionelle Hilfe nötig wird."
 date: 2026-04-24
+image: "/images/blog/bindungsangst-erkennen-ueberwinden.webp"
+imageAlt: "Bindungsangst ueberwinden"
 tags:
   - "Bindungsangst"
   - "Psychologie"

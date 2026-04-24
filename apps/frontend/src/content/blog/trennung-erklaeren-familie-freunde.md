@@ -2,6 +2,8 @@
 title: "Trennung erklären: So sagst du es Familie, Freunden und Kollegen"
 description: "Trennung erklären ohne Drama. Konkrete Formulierungen, wem du zuerst Bescheid sagst und wie du unangenehme Nachfragen höflich abwehrst."
 date: 2026-04-24
+image: "/images/blog/trennung-bereuen-anzeichen.webp"
+imageAlt: "Trennung erklaeren"
 tags:
   - "Trennung"
   - "Kommunikation"

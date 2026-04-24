@@ -2,6 +2,8 @@
 title: "Vertrauen nach Untreue wiederaufbauen: Ein ehrlicher 12-Schritte-Guide"
 description: "Vertrauen wiederaufbauen nach Untreue: 12 Schritte, die wirklich helfen, plus ehrliche Worte darueber, wann Heilung gelingt und wann nicht. Ein realistischer Guide."
 date: 2026-04-24
+image: "/images/blog/vertrauen-aufbauen-beziehung.webp"
+imageAlt: "Vertrauen nach Untreue"
 tags:
   - "Vertrauen"
   - "Heilung"

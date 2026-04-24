@@ -2,6 +2,8 @@
 title: "Getrennt schlafen, trotzdem verbunden: Wann getrennte Betten Beziehungen retten"
 description: "Getrennt schlafen ist kein Beziehungsende - oft ist es die Rettung. Warum immer mehr Paare auf Sleep Divorce setzen und wie ihr trotzdem nah bleibt."
 date: 2026-04-24
+image: "/images/blog/beziehung-und-schlaf.webp"
+imageAlt: "Getrennt schlafen Beziehung"
 tags:
   - "Beziehung"
   - "Intimität"

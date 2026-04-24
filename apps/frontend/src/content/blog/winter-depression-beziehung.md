@@ -2,6 +2,8 @@
 title: "Winterdepression in der Beziehung: Wie du und dein Partner durch die dunkle Zeit kommt"
 description: "Winterdepression in der Beziehung: Symptome erkennen, als Partner unterstuetzen und wissen, wann professionelle Therapie noetig wird."
 date: 2026-04-24
+image: "/images/blog/beziehung-depression-partner.webp"
+imageAlt: "Winterdepression in der Beziehung"
 tags:
   - "Psychologie"
   - "Beziehung"
