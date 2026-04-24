@@ -284,12 +284,32 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
         const tbody = document.querySelector('#table-broadcasts tbody');
         tbody.innerHTML = '<tr><td colspan="6" class="muted" style="text-align: center; padding: 2rem;">Lade…</td></tr>';
 
-        const resp = await api(`/?page=${currentPage}`);
-        if (!resp.ok) {
-          tbody.innerHTML = '<tr><td colspan="6" class="muted" style="text-align: center; padding: 2rem; color: #fca5a5;">Fehler beim Laden.</td></tr>';
+        let resp;
+        try {
+          resp = await api(`/?page=${currentPage}`);
+        } catch (err) {
+          console.error('[broadcasts] network error:', err);
+          const msg = (err && err.message) || 'Netzwerk-Fehler';
+          tbody.innerHTML = '<tr><td colspan="6" style="text-align: center; padding: 2rem; color: #fca5a5;">Netzwerk-Fehler: ' + escapeHtml(msg) + '</td></tr>';
           return;
         }
-        const { broadcasts, total, totalPages, sendgridEnabled } = resp.data;
+        if (!resp.ok) {
+          // Backend lieferte Non-200. Error-Details zeigen.
+          const errTxt = resp.data && (resp.data.error || resp.data.message)
+            ? `${resp.data.error || ''}${resp.data.message ? ' — ' + resp.data.message : ''}`
+            : 'HTTP ' + resp.status;
+          console.error('[broadcasts] backend error:', resp.status, resp.data);
+          tbody.innerHTML = '<tr><td colspan="6" style="text-align: center; padding: 2rem; color: #fca5a5;">'
+            + '<strong>Broadcast-Liste konnte nicht geladen werden.</strong><br>'
+            + '<span style="font-size: 0.8rem; color: var(--hz-text-muted);">' + escapeHtml(errTxt) + '</span><br>'
+            + '<button class="hz-btn" style="margin-top: 0.75rem;" onclick="location.reload()">🔄 Neu laden</button>'
+            + '</td></tr>';
+          return;
+        }
+        const { broadcasts, total, totalPages, sendgridEnabled, warning } = resp.data;
+        if (warning) {
+          console.warn('[broadcasts] backend warning:', warning);
+        }
 
         // SendGrid-Status
         $('sg-status').textContent = sendgridEnabled ? '✓ aktiv' : '✗ aus';

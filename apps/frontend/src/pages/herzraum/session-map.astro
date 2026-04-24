@@ -1,799 +1,297 @@
 ---
 export const prerender = false;
 import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
+
+// Session-Map — komplett neu aufgebaut als Live-Visitor-Dashboard.
+// Vorher: 2010-Zeilen Force-Directed-Graph mit Agents/PRs (Dev-Tool).
+// Jetzt: clean Analytics-Panel mit 4 Tiles + Sparkline + Top-Pages + Activity-Feed.
+// Keine Canvas, kein SVG-Force-Sim, kein Timeline-Scrubber, kein Replay.
 ---
-<HerzraumLayout title="Session-Map" active="session-map" fullscreen>
-<style is:global>
-  :root {
-    --fg: #f3f4f8;
-    --muted: #7a7d8f;
-    --muted-2: #a5a7b8;
-    --line: rgba(255,255,255,.09);
-    --rose: #ff3868;
-    --magenta: #ec4899;
-    --cyan: #22d3ee;
-    --violet: #a78bfa;
-    --amber: #fbbf24;
-    --green: #22c55e;
-    --green-2: #10b981;
-    --panel: rgba(10,8,24,.82);
-    --panel-border: rgba(255,255,255,.08);
-  }
-  * { box-sizing: border-box; -webkit-font-smoothing: antialiased; }
-  html, body { margin:0; padding:0; height:100%; overflow:hidden;
-    background: radial-gradient(ellipse at 20% 30%, rgba(139,92,246,.15) 0%, transparent 50%),
-                radial-gradient(ellipse at 80% 70%, rgba(244,63,94,.10) 0%, transparent 50%),
-                radial-gradient(ellipse at 50% 50%, rgba(34,211,238,.05) 0%, transparent 60%),
-                linear-gradient(180deg, #04040c 0%, #0a0818 100%);
-    color: var(--fg);
-    font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; }
+<HerzraumLayout title="Live-Sessions" active="session-map">
 
-  .stars { position: fixed; inset: 0; pointer-events: none; opacity: 0.22; z-index: 0;
-    background-image:
-      radial-gradient(1px 1px at 20% 30%, white, transparent),
-      radial-gradient(1px 1px at 60% 70%, white, transparent),
-      radial-gradient(1px 1px at 50% 50%, white, transparent),
-      radial-gradient(2px 2px at 30% 80%, white, transparent),
-      radial-gradient(1px 1px at 80% 10%, white, transparent),
-      radial-gradient(1px 1px at 90% 60%, white, transparent),
-      radial-gradient(1px 1px at 40% 40%, white, transparent),
-      radial-gradient(2px 2px at 70% 20%, white, transparent);
-    background-repeat: repeat; background-size: 250px 250px;
-    animation: starDrift 120s linear infinite; }
-  @keyframes starDrift { to { background-position: 1000px 500px,800px 400px,600px 300px,900px 450px,700px 350px,500px 250px,400px 200px,300px 150px; } }
-
-  /* ── Header ── */
-  .sm-header { position: fixed; top: 0; left: 0; right: 0; height: 56px; padding: 0 20px;
-    display: flex; align-items: center; gap: 18px; z-index: 20;
-    background: linear-gradient(180deg, rgba(4,4,12,.95), rgba(4,4,12,.6));
-    border-bottom: 1px solid var(--line); }
-  .brand { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .2em;
-    font-weight: 600; display: inline-flex; align-items: center; gap: 10px; }
-  .brand-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--rose);
-    box-shadow: 0 0 16px var(--rose); animation: pulse 2s infinite; }
-  @keyframes pulse { 50%{opacity:.6;transform:scale(1.2)} }
-  .sm-header h1 { margin: 0; font-size: 18px; font-weight: 800; letter-spacing: -.03em;
-    background: linear-gradient(90deg, #ff3868, #ec4899 35%, #a78bfa 65%, #22d3ee);
-    background-size: 200% auto; -webkit-background-clip: text; background-clip: text; color: transparent;
-    animation: titleShift 8s linear infinite; }
-  @keyframes titleShift { to { background-position: 200% center; } }
-  .sub { font-size: 11px; color: var(--muted-2); }
-  .status-live { margin-left: auto; font-size: 11px; color: var(--green); font-weight: 600;
-    display: inline-flex; align-items: center; gap: 6px; }
-  .status-live::before { content:''; width:6px; height:6px; border-radius:50%; background: var(--green);
-    box-shadow: 0 0 10px var(--green); }
-
-  /* ── Stage + Layers ── */
-  .sm-stage { position: fixed; top: 56px; left: 0; right: 0; bottom: 84px;
-    z-index: 1; overflow: hidden; cursor: grab; }
-  .sm-stage:active { cursor: grabbing; }
-  .sm-stage.dragging-node { cursor: grabbing; }
-
-  .sm-viewport { position: absolute; inset: 0;
-    transform-origin: center center;
-    transition: transform .12s cubic-bezier(.25,.8,.25,1); }
-
-  .sm-svg { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
-  .edge { stroke: rgba(255,255,255,.12); stroke-width: 1; fill: none;
-    transition: stroke .3s, stroke-width .3s, stroke-opacity .3s; }
-  .edge.thin { stroke-width: 0.8; stroke: rgba(255,255,255,.06); }
-  .edge.connected { stroke: var(--rose); stroke-width: 2; stroke-opacity: 1;
-    filter: drop-shadow(0 0 6px var(--rose)); }
-  .edge.time-hidden, .node.time-hidden { opacity: 0; pointer-events: none; }
-
-  /* ── Panels (Glass) ── */
-  .panel { position: fixed; padding: 16px 18px; background: var(--panel);
-    backdrop-filter: blur(24px) saturate(140%); -webkit-backdrop-filter: blur(24px) saturate(140%);
-    border: 1px solid var(--panel-border); border-radius: 14px;
-    box-shadow: 0 12px 48px rgba(0,0,0,.6), inset 0 1px 0 rgba(255,255,255,.05); z-index: 10; }
-  .panel h3 { margin: 0 0 10px; font-size: 11px; color: var(--rose); text-transform: uppercase;
-    letter-spacing: .15em; font-weight: 700; }
-  #legend { top: 76px; left: 20px; width: 220px; font-size: 11.5px; }
-  #stats { top: 76px; right: 20px; width: 280px; }
-  #activity { bottom: 104px; left: 20px; width: 380px; max-height: 240px; overflow-y: auto; font-size: 11px; }
-  #detail-panel { top: 76px; right: 20px; width: 340px; display: none; z-index: 30; }
-  #detail-panel.open { display: block; }
-
-  .leg-row { display: flex; align-items: center; gap: 10px; margin: 5px 0; color: var(--muted); }
-  .leg-row b { color: var(--fg); font-weight: 500; }
-  .leg-dot { width: 11px; height: 11px; border-radius: 50%; flex-shrink: 0;
-    box-shadow: 0 0 12px currentColor; }
-  .leg-note { margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--line);
-    font-size: 10.5px; color: var(--muted); line-height: 1.5; }
-
-  .stat-row { display: flex; justify-content: space-between; align-items: center; margin: 5px 0;
-    color: var(--muted); font-size: 12px; }
-  .stat-row b { color: var(--fg); font-weight: 600; font-variant-numeric: tabular-nums; }
-  .stat-big { display: flex; align-items: baseline; gap: 6px; font-size: 26px; font-weight: 800;
-    letter-spacing: -.02em; }
-  .stat-big small { font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: .15em; }
-  .stat-divider { height: 1px; background: var(--line); margin: 12px 0; }
-
-  .log-row { display: flex; gap: 10px; align-items: baseline; padding: 4px 0;
-    border-bottom: 1px dashed rgba(255,255,255,.04); }
-  .log-row:last-child { border: none; }
-  .log-time { color: var(--cyan); font-size: 10px; font-variant-numeric: tabular-nums; flex-shrink: 0; }
-  .log-cat { font-size: 9px; padding: 1px 6px; border-radius: 3px; text-transform: uppercase;
-    letter-spacing: .1em; font-weight: 700; flex-shrink: 0; }
-  .log-cat.pr { background: rgba(34,197,94,.15); color: var(--green); }
-  .log-cat.sec { background: rgba(255,56,104,.15); color: var(--rose); }
-  .log-cat.deploy { background: rgba(251,191,36,.15); color: var(--amber); }
-  .log-text { flex: 1; color: var(--muted-2); line-height: 1.4; font-size: 11px; }
-
-  /* ── Nodes ── */
-  .node { position: absolute; left: 0; top: 0; transform: translate(-50%, -50%);
-    display: flex; flex-direction: column; align-items: center; gap: 6px;
-    text-align: center; cursor: grab; z-index: 3; user-select: none;
-    transition: filter .25s ease, opacity .25s ease; }
-  .node:active { cursor: grabbing; }
-  .node[data-id="main"] { cursor: default; }
-  .node .circle { border-radius: 50%; background: currentColor;
-    border: 2px solid rgba(255,255,255,.15);
-    transition: transform .18s cubic-bezier(.25,.8,.25,1), box-shadow .18s; }
-  .node.done .circle { box-shadow: 0 0 12px currentColor; }
-  .node:hover .circle {
-    transform: scale(1.22);
-    box-shadow: 0 0 24px currentColor, 0 0 48px currentColor;
-  }
-  .node[data-id="main"] .circle {
-    animation: pulseMain 2.4s ease-in-out infinite;
-  }
-  @keyframes pulseMain {
-    0%,100% { box-shadow: 0 0 16px currentColor, 0 0 32px currentColor; }
-    50% { box-shadow: 0 0 28px currentColor, 0 0 64px currentColor; }
-  }
-  .node .label { font-size: 11px; font-weight: 600; color: var(--fg);
-    text-shadow: 0 2px 6px rgba(0,0,0,.9); max-width: 140px; line-height: 1.2;
-    pointer-events: none; }
-  .node .node-sub { font-size: 9px; color: var(--muted); text-transform: uppercase; letter-spacing: .05em;
-    max-width: 140px; line-height: 1.3; pointer-events: none; }
-
-  /* Agent cluster coloring — PRs get outer ring in origin-agent color */
-  .node[data-origin-color] .circle {
-    box-shadow: 0 0 0 2.5px var(--origin-color, transparent), 0 0 16px currentColor;
-  }
-
-  /* Focus-Mode: clicked node highlighted, others dim */
-  .sm-stage.focus-mode .node:not(.focused) { opacity: 0.18; filter: saturate(0.4); }
-  .sm-stage.focus-mode .node.focused .circle {
-    transform: scale(1.4);
-    box-shadow: 0 0 32px currentColor, 0 0 80px currentColor, 0 0 120px currentColor;
-  }
-  .sm-stage.focus-mode .edge { opacity: 0.08; }
-  .sm-stage.focus-mode .edge.connected {
-    opacity: 1 !important; stroke-width: 2.5; stroke: var(--rose);
-    filter: drop-shadow(0 0 6px var(--rose)) drop-shadow(0 0 12px var(--rose));
-  }
-
-  /* ── Detail-Panel ── */
-  #detail-panel { padding: 20px 22px; }
-  #detail-panel .dp-type { font-size: 10px; color: var(--rose); text-transform: uppercase;
-    letter-spacing: .18em; font-weight: 700; margin-bottom: 10px; display: inline-flex;
-    align-items: center; gap: 8px; }
-  #detail-panel .dp-close { position: absolute; top: 12px; right: 12px;
-    width: 26px; height: 26px; border-radius: 50%; border: 1px solid var(--line);
-    background: transparent; color: var(--muted-2); cursor: pointer;
-    font-size: 18px; line-height: 1; display: flex; align-items: center;
-    justify-content: center; transition: all .15s; }
-  #detail-panel .dp-close:hover { border-color: var(--rose); color: var(--rose); }
-  #detail-panel h4 { margin: 0 0 4px; font-size: 18px; font-weight: 800; letter-spacing: -.02em; }
-  #detail-panel .dp-sub { font-size: 11px; color: var(--muted-2); text-transform: uppercase;
-    letter-spacing: .12em; margin-bottom: 14px; }
-  #detail-panel .dp-desc { font-size: 13px; line-height: 1.55; color: var(--muted-2);
-    padding-top: 14px; border-top: 1px solid var(--line); }
-  #detail-panel .dp-impact { margin-top: 14px; padding: 12px 14px; border-radius: 10px;
-    background: rgba(255,56,104,.08); border: 1px solid rgba(255,56,104,.2); }
-  #detail-panel .dp-impact-label { font-size: 9px; color: var(--rose); text-transform: uppercase;
-    letter-spacing: .14em; font-weight: 700; margin-bottom: 4px; }
-  #detail-panel .dp-impact-metric { font-size: 14px; font-weight: 700; margin-bottom: 4px; }
-  #detail-panel .dp-impact-cost { font-size: 11px; color: var(--muted-2); line-height: 1.5; }
-
-  /* ── Bottom Scrubber ── */
-  .sm-scrubber { position: fixed; bottom: 0; left: 0; right: 0; height: 84px; z-index: 25;
-    padding: 14px 24px 16px;
-    background: linear-gradient(180deg, transparent 0%, rgba(4,4,12,.85) 40%, rgba(4,4,12,.95) 100%);
-    backdrop-filter: blur(20px) saturate(140%);
-    border-top: 1px solid rgba(255,255,255,.08);
-    display: flex; flex-direction: column; gap: 8px; }
-  .scrubber-head { display: flex; align-items: center; gap: 14px;
-    font-size: 10.5px; color: var(--muted-2); letter-spacing: .08em;
-    text-transform: uppercase; font-weight: 600; }
-  .scrubber-head .sc-label { color: var(--rose); font-weight: 700; letter-spacing: .16em; }
-  .scrubber-head .sc-time {
-    font-family: 'SF Mono', ui-monospace, Menlo, monospace;
-    color: var(--cyan); font-size: 12px;
-    text-shadow: 0 0 8px rgba(34,211,238,.5);
-    font-variant-numeric: tabular-nums; letter-spacing: .03em; }
-  .sc-btn { display: inline-flex; align-items: center; gap: 6px;
-    padding: 4px 12px; font-size: 10.5px; font-weight: 700;
-    color: var(--fg); background: rgba(255,56,104,.22);
-    border: 1px solid rgba(255,56,104,.4);
-    border-radius: 6px; cursor: pointer;
-    transition: all .15s; text-transform: uppercase; letter-spacing: .1em;
-    font-family: inherit; }
-  .sc-btn:hover { background: rgba(255,56,104,.38); transform: translateY(-1px); }
-  .sc-btn.secondary { background: rgba(255,255,255,.05); border-color: rgba(255,255,255,.12); }
-  .sc-btn.secondary:hover { background: rgba(255,255,255,.1); }
-  .sc-track { position: relative; height: 28px; display: flex; align-items: center; }
-  .sc-ticks { position: absolute; inset: 0; pointer-events: none; }
-  .sc-tick span { position: absolute; top: -2px; font-size: 9px;
-    color: var(--muted); font-family: 'SF Mono', monospace; letter-spacing: .05em; white-space: nowrap; }
-  .sc-range { -webkit-appearance: none; appearance: none;
-    width: 100%; height: 4px;
-    background: linear-gradient(90deg,
-      var(--rose) 0%, var(--rose) var(--fill, 100%),
-      rgba(255,255,255,.08) var(--fill, 100%), rgba(255,255,255,.08) 100%);
-    border-radius: 4px; outline: none; cursor: pointer; position: relative; z-index: 2; }
-  .sc-range::-webkit-slider-thumb {
-    -webkit-appearance: none; width: 18px; height: 18px; border-radius: 50%;
-    background: radial-gradient(circle at 35% 35%, #ff6b8a, var(--rose) 60%, var(--magenta));
-    border: 2px solid #fff;
-    box-shadow: 0 0 0 2px rgba(255,56,104,.3), 0 0 16px rgba(255,56,104,.6);
-    cursor: grab; }
-  .sc-markers { position: absolute; inset: 0; pointer-events: none; display: flex; align-items: center; }
-  .sc-marker { position: absolute; width: 2px; height: 14px; background: #fff;
-    border-radius: 1px; box-shadow: 0 0 10px #fff, 0 0 20px var(--rose);
-    top: 50%; transform: translateY(-50%); }
-  .sc-speed { display: inline-flex; gap: 2px; margin-left: 6px;
-    background: rgba(15,15,30,.4); border: 1px solid rgba(255,255,255,.08);
-    border-radius: 6px; padding: 2px; }
-  .sc-speed-btn { padding: 3px 9px; font-size: 10px; font-weight: 700;
-    color: var(--muted-2); background: transparent; border: 0; border-radius: 4px; cursor: pointer;
-    font-family: 'SF Mono', monospace; transition: all .12s; }
-  .sc-speed-btn:hover { color: var(--fg); background: rgba(255,255,255,.05); }
-  .sc-speed-btn.active { color: var(--fg); background: rgba(34,211,238,.25);
-    box-shadow: inset 0 0 0 1px rgba(34,211,238,.4); }
-
-  /* ── Responsive ── */
-  @media (max-width: 1100px) { #legend, #stats, #detail-panel { display: none; }
-    #activity { width: calc(100vw - 40px); max-width: 380px; } }
-  @media (max-width: 700px) { .sm-scrubber { display: none; } .sm-stage { bottom: 0; } }
-
-  /* Reduce motion */
-  @media (prefers-reduced-motion: reduce) {
-    .stars { animation: none; } .sm-header h1 { animation: none; }
-    .brand-dot { animation: none; } .node[data-id="main"] .circle { animation: none; }
-  }
-</style>
-
-<div class="stars"></div>
-
-<header class="sm-header">
-  <span class="brand"><span class="brand-dot"></span>Herzblatt Journal · 38-PR Vollautomatik</span>
-  <h1>Agent Session Map</h1>
-  <span class="sub">~6 h · 10 Agents · 38 PRs · 6 CRITICAL</span>
-  <span class="status-live">LIVE</span>
-</header>
-
-<aside id="legend" class="panel">
-  <h3>Legende</h3>
-  <div class="leg-row"><span class="leg-dot" style="color:#ff3868;background:#ff3868"></span><b>Coordinator</b></div>
-  <div class="leg-row"><span class="leg-dot" style="color:#a78bfa;background:#a78bfa"></span><b>General Agent</b></div>
-  <div class="leg-row"><span class="leg-dot" style="color:#22d3ee;background:#22d3ee"></span><b>Spezialist (gsd-*)</b></div>
-  <div class="leg-row"><span class="leg-dot" style="color:#fbbf24;background:#fbbf24"></span><b>Infra / Browser</b></div>
-  <div class="leg-row"><span class="leg-dot" style="color:#22c55e;background:#22c55e"></span><b>Artefakt (PR)</b></div>
-  <div class="leg-row"><span class="leg-dot" style="color:#ff3868;background:#ff3868"></span><b>CRITICAL Fix</b></div>
-  <div class="leg-note">Klick Node für Details · Drag = bewegen · Wheel = Zoom · BG-Drag = Pan</div>
-</aside>
-
-<aside id="stats" class="panel">
-  <h3>Session-Ergebnis</h3>
-  <div class="stat-big"><span>38</span><small>PRs ausgeliefert</small></div>
-  <div class="stat-divider"></div>
-  <div class="stat-row"><span>Agents koordiniert</span><b>10+</b></div>
-  <div class="stat-row"><span>Audit-Phasen</span><b>7 / 9</b></div>
-  <div class="stat-row"><span>Secrets rotiert</span><b>6</b></div>
-  <div class="stat-row"><span>CRITICAL Fixes</span><b>6</b></div>
-  <div class="stat-divider"></div>
-  <div class="stat-row"><span>Ebook-Kapitel</span><b>15 / 15</b></div>
-  <div class="stat-row"><span>Bonus-Materialien</span><b>5 / 5</b></div>
-  <div class="stat-row"><span>Code-Zeilen geändert</span><b>~8.000</b></div>
-  <div class="stat-row"><span>Content-Wörter</span><b>~73k</b></div>
-  <div class="stat-row"><span>Prod-Outages</span><b style="color:#22c55e">0</b></div>
-  <div class="stat-row"><span>Session-Dauer</span><b>~6 h</b></div>
-</aside>
-
-<aside id="detail-panel" class="panel">
-  <button class="dp-close" id="dp-close" aria-label="Schließen">×</button>
-  <div class="dp-type" id="dp-type"></div>
-  <h4 id="dp-title"></h4>
-  <div class="dp-sub" id="dp-sub"></div>
-  <div class="dp-desc" id="dp-desc"></div>
-  <div class="dp-impact" id="dp-impact" style="display:none">
-    <div class="dp-impact-label">Impact</div>
-    <div class="dp-impact-metric" id="dp-impact-metric"></div>
-    <div class="dp-impact-cost" id="dp-impact-cost"></div>
-  </div>
-</aside>
-
-<aside id="activity" class="panel">
-  <h3>Activity Feed</h3>
-  <div id="logList"></div>
-</aside>
-
-<div class="sm-stage" id="stage">
-  <div class="sm-viewport" id="viewport">
-    <svg class="sm-svg" id="edges" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid meet"></svg>
-    <div id="nodes-layer"></div>
-  </div>
-</div>
-
-<!-- Timeline Scrubber -->
-<aside class="sm-scrubber" id="scrubber">
-  <div class="scrubber-head">
-    <span class="sc-label">Session Timeline</span>
-    <button class="sc-btn" id="scPlay" aria-label="Abspielen">
-      <span id="scPlayLabel">▶ Replay</span>
-    </button>
-    <button class="sc-btn secondary" id="scReset" aria-label="Reset-Layout">↻ Reset</button>
-    <span class="sc-time" id="scTime">20:00</span>
-    <span>·</span>
-    <span><span id="scVisible">49</span> / <span id="scTotal">49</span> Nodes</span>
-    <div class="sc-speed">
-      <button class="sc-speed-btn" data-speed="0.5">0.5×</button>
-      <button class="sc-speed-btn active" data-speed="1">1×</button>
-      <button class="sc-speed-btn" data-speed="2">2×</button>
-      <button class="sc-speed-btn" data-speed="4">4×</button>
+  <!-- Row 1: KPI-Tiles -->
+  <section class="hz-kpi-grid" style="margin-bottom: 1rem;">
+    <div class="hz-kpi hz-live">
+      <div class="hz-kpi-label">
+        <span class="hz-live-dot"></span> Gerade online
+      </div>
+      <div class="hz-kpi-value" id="sm-live-count">—</div>
+      <div class="hz-kpi-hint">letzte 5 Min aktiv</div>
     </div>
-    <span style="margin-left:auto; font-size:10px; color:var(--muted);">Drag Node · Wheel = Zoom · Drag BG = Pan</span>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Pageviews · letzte Std</div>
+      <div class="hz-kpi-value" id="sm-hour-count">—</div>
+      <div class="hz-kpi-hint" id="sm-hour-trend">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Peak heute</div>
+      <div class="hz-kpi-value" id="sm-peak-count">—</div>
+      <div class="hz-kpi-hint" id="sm-peak-hour">—</div>
+    </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Mobile-Anteil</div>
+      <div class="hz-kpi-value" id="sm-mobile-pct">—</div>
+      <div class="hz-kpi-hint" id="sm-device-split">—</div>
+    </div>
+  </section>
+
+  <!-- Row 2: Sparkline -->
+  <div class="hz-card" style="margin-bottom: 1rem;">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem;">
+      <h3 style="margin: 0;">📈 Pageviews pro Minute · letzte 60 Min</h3>
+      <span style="font-size: 0.75rem; color: var(--hz-text-muted);" id="sm-updated">—</span>
+    </div>
+    <div id="sm-sparkline" style="display: flex; align-items: flex-end; gap: 2px; height: 80px;">
+      <!-- wird clientseitig gefüllt -->
+    </div>
   </div>
-  <div class="sc-track">
-    <div class="sc-ticks" id="scTicks"></div>
-    <div class="sc-markers" id="scMarkers"></div>
-    <input type="range" class="sc-range" id="scRange" min="0" max="480" value="480" step="1">
+
+  <!-- Row 3: Two-column — Top-Pages + Activity-Feed -->
+  <div class="sm-two-col" style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+    <div class="hz-card">
+      <h3 style="margin: 0 0 0.75rem;">🔥 Top-Pfade · letzte Std</h3>
+      <div id="sm-top-pages">
+        <div style="color: var(--hz-text-muted); font-size: 0.85rem;">Lade…</div>
+      </div>
+    </div>
+
+    <div class="hz-card">
+      <h3 style="margin: 0 0 0.75rem;">⚡ Activity-Feed · Live</h3>
+      <div id="sm-feed" style="max-height: 480px; overflow-y: auto;">
+        <div style="color: var(--hz-text-muted); font-size: 0.85rem;">Lade…</div>
+      </div>
+    </div>
   </div>
-</aside>
 
-<script is:inline>
-// ═══════════════════════════════════════════════════════════════════════
-// NODES · EDGES · IMPACT · TIMES · LOGS
-// ═══════════════════════════════════════════════════════════════════════
-const NODES = [
-  { id:'main', x:800, y:450, r:28, color:'#ff3868', type:'coord', state:'done', label:'Main Agent', sub:'Coordinator · Opus 4.7', desc:'Koordinierte 10+ Sub-Agents, 38 PRs merged, 6 Secrets rotiert, Railway-Deploys getriggert.' },
-  { id:'a-p1', x:380, y:230, r:16, color:'#a78bfa', type:'general', state:'done', label:'general-purpose', sub:'Phase 1 Inventar', desc:'23 Admin-Pages, 37 Backend-Routes, 15 DB-Tabellen kartografiert.' },
-  { id:'a-p2', x:520, y:130, r:16, color:'#a78bfa', type:'general', state:'done', label:'general-purpose', sub:'Phase 2 Admin', desc:'2 CRITICAL XSS + data.clear-Reauth-Lücke entdeckt.' },
-  { id:'a-p5', x:700, y:100, r:16, color:'#a78bfa', type:'general', state:'done', label:'general-purpose', sub:'Phase 5 DB', desc:'Retention-Gaps + UNIQUE-Missing + GDPR-Lücke erkannt.' },
-  { id:'a-ebook', x:880, y:100, r:18, color:'#a78bfa', type:'general', state:'done', label:'general-purpose', sub:'Ebook-Writer · 12 Kapitel', desc:'Kapitel 04-15, ~31.250 Wörter.' },
-  { id:'a-bonus', x:1050, y:130, r:18, color:'#a78bfa', type:'general', state:'done', label:'general-purpose', sub:'Bonus-Materialien · 5', desc:'Workbook + 30 Nachrichten + Red-Flags + Bindungstest (~14.900 W).' },
-  { id:'a-delivery', x:1200, y:220, r:18, color:'#a78bfa', type:'general', state:'done', label:'general-purpose', sub:'Ebook-Delivery-System', desc:'Token-Access + /ebook/lesen + SendGrid + Admin-Resend.' },
-  { id:'a-adminlive', x:1050, y:780, r:16, color:'#a78bfa', type:'general', state:'done', label:'general-purpose', sub:'Live-Admin-Durchklick', desc:'Fand CRITICAL Artikel-Editor-Bug (1164 Artikel gefährdet).' },
-  { id:'a-traffic', x:1230, y:720, r:16, color:'#a78bfa', type:'general', state:'done', label:'general-purpose', sub:'Traffic-Boost', desc:'Plausible + Sitemap + SEO-Meta + 14 Stadt-Seiten.' },
-  { id:'a-hijack', x:1280, y:600, r:16, color:'#a78bfa', type:'general', state:'done', label:'general-purpose', sub:'SEO-Hijacking · 5 Artikel', desc:'Badoo + Poppen + Lovoo Reviews, ~11.800 Wörter.' },
-  { id:'a-cr', x:280, y:380, r:16, color:'#22d3ee', type:'specialist', state:'done', label:'gsd-code-reviewer', sub:'Phase 4 Backend', desc:'27 Findings: 3 CRITICAL, 7 HIGH, 10 MED, 7 LOW.' },
-  { id:'a-sec', x:240, y:500, r:18, color:'#22d3ee', type:'specialist', state:'done', label:'gsd-security-auditor', sub:'Phase 6 Security', desc:'3 CRITICAL Secret-Leaks + SQL-Injection + Rate-Limit-Gaps.' },
-  { id:'a-ui', x:330, y:660, r:16, color:'#22d3ee', type:'specialist', state:'done', label:'gsd-ui-auditor', sub:'Phase 8 UX', desc:'Score 14.3/24. 5 P0: Fake-Form, Brand-Inkonsistenz, Dark-Patterns.' },
-  { id:'f-p4', x:500, y:770, r:15, color:'#22d3ee', type:'specialist', state:'done', label:'gsd-code-fixer', sub:'Backend-Critical', desc:'purchases UNIQUE + crypto fail-closed + unsubscribe secret.' },
-  { id:'f-xss', x:660, y:810, r:15, color:'#22d3ee', type:'specialist', state:'done', label:'gsd-code-fixer', sub:'Admin XSS + Reauth', desc:'Inbox + Autoren + Audit XSS gefixt.' },
-  { id:'f-ux', x:820, y:830, r:15, color:'#22d3ee', type:'specialist', state:'done', label:'gsd-code-fixer', sub:'UX P0', desc:'Kontakt-Form echt. Brand-Consistency. Fake-Counter raus.' },
-  { id:'f-admin', x:940, y:800, r:15, color:'#22d3ee', type:'specialist', state:'done', label:'gsd-code-fixer', sub:'Admin CRITICAL', desc:'Artikel-Editor-Bug (1164 Artikel gerettet).' },
-  { id:'railway', x:1300, y:450, r:14, color:'#fbbf24', type:'infra', state:'done', label:'Railway GraphQL', sub:'Infra-API', desc:'38+ Deploys, 6 Secret-Rotations, /health.' },
-  { id:'chrome', x:1320, y:330, r:13, color:'#fbbf24', type:'infra', state:'done', label:'Claude in Chrome', sub:'Browser-Automation', desc:'Micropayment-Setup + Live-Admin-Durchklick.' },
-  { id:'pr11', x:620, y:380, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#11', sub:'3-Method Picker' },
-  { id:'pr12', x:570, y:430, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#12', sub:'Whop Modal' },
-  { id:'pr13', x:540, y:490, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#13', sub:'Admin View' },
-  { id:'pr14', x:560, y:550, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#14', sub:'Mobile Promo' },
-  { id:'pr15', x:620, y:600, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#15', sub:'Raten raus' },
-  { id:'pr16', x:690, y:620, r:10, color:'#22c55e', type:'artifact', state:'done', label:'#16', sub:'DiceBear' },
-  { id:'pr17', x:760, y:615, r:12, color:'#ff3868', type:'artifact', state:'done', label:'#17', sub:'Leak-Fix', desc:'4 Leak-Dateien entfernt, 5 Secrets parallel rotiert.' },
-  { id:'pr18', x:830, y:620, r:11, color:'#ff3868', type:'artifact', state:'done', label:'#18', sub:'Drizzle SQL-Inj' },
-  { id:'pr19', x:895, y:610, r:11, color:'#ff3868', type:'artifact', state:'done', label:'#19', sub:'Backend Race' },
-  { id:'pr20', x:945, y:580, r:11, color:'#ff3868', type:'artifact', state:'done', label:'#20', sub:'Admin XSS' },
-  { id:'pr21', x:990, y:540, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#21', sub:'UX P0' },
-  { id:'pr22', x:1030, y:490, r:11, color:'#22c55e', type:'artifact', state:'done', label:'#22', sub:'12 Kapitel' },
-  { id:'pr23', x:1040, y:430, r:10, color:'#22c55e', type:'artifact', state:'done', label:'#23', sub:'5 Bonus' },
-  { id:'pr24', x:1020, y:370, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#24', sub:'52k Counter' },
-  { id:'pr25', x:985, y:320, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#25', sub:'Hardening' },
-  { id:'pr26', x:920, y:300, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#26', sub:'Quiz-Card' },
-  { id:'pr27', x:855, y:295, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#27', sub:'Click-Whitelist' },
-  { id:'pr28', x:790, y:295, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#28', sub:'UX P1' },
-  { id:'pr29', x:720, y:300, r:10, color:'#10b981', type:'artifact', state:'done', label:'#29', sub:'Delivery' },
-  { id:'pr30', x:660, y:320, r:11, color:'#ff3868', type:'artifact', state:'done', label:'#30', sub:'Artikel-Editor', desc:'CRITICAL Data-Loss-Fix: 1164 Artikel gerettet.' },
-  { id:'pr31', x:640, y:370, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#31', sub:'Agent-Map' },
-  { id:'pr32', x:700, y:395, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#32', sub:'Auto-Images' },
-  { id:'pr33', x:1070, y:555, r:10, color:'#22c55e', type:'artifact', state:'done', label:'#33', sub:'Screenshots' },
-  { id:'pr37', x:880, y:560, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#37', sub:'Result-Card' },
-  { id:'pr39', x:1095, y:510, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#39', sub:'Traffic-Boost' },
-  { id:'pr40', x:800, y:395, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#40', sub:'Conversion' },
-  { id:'pr41', x:730, y:445, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#41', sub:'Tracking' },
-  { id:'pr43', x:870, y:410, r:10, color:'#10b981', type:'artifact', state:'done', label:'#43', sub:'Drip + Affiliate' },
-  { id:'pr45', x:860, y:500, r:10, color:'#10b981', type:'artifact', state:'done', label:'#45', sub:'CSRF + KPI' },
-  { id:'pr46', x:940, y:465, r:9, color:'#22c55e', type:'artifact', state:'done', label:'#46', sub:'Hijacking-Content' },
-];
+  <style>
+    .hz-live-dot {
+      display: inline-block;
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: #10b981;
+      box-shadow: 0 0 8px rgba(16, 185, 129, 0.6);
+      margin-right: 0.35rem;
+      animation: hz-live-pulse 2s ease-in-out infinite;
+    }
+    @keyframes hz-live-pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.5; transform: scale(1.3); }
+    }
+    .sm-bar {
+      flex: 1;
+      background: linear-gradient(180deg, #f43f5e, rgba(244,63,94,0.25));
+      border-radius: 2px 2px 0 0;
+      min-height: 2px;
+      transition: height 0.3s ease-out;
+    }
+    .sm-bar.recent { background: linear-gradient(180deg, #f43f5e, #be123c); }
+    .sm-page-row {
+      display: flex; align-items: center; gap: 0.75rem;
+      padding: 0.45rem 0;
+      border-bottom: 1px solid var(--hz-border);
+    }
+    .sm-page-row:last-child { border-bottom: 0; }
+    .sm-page-path {
+      flex: 1;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 0.82rem;
+      color: var(--hz-text);
+      text-decoration: none;
+      overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+    }
+    .sm-page-path:hover { color: var(--hz-primary); text-decoration: underline; }
+    .sm-page-bar-wrap {
+      width: 80px; height: 6px;
+      background: rgba(244, 63, 94, 0.1);
+      border-radius: 3px; overflow: hidden;
+    }
+    .sm-page-bar {
+      height: 100%;
+      background: linear-gradient(90deg, #f43f5e, #fb7185);
+      transition: width 0.3s ease-out;
+    }
+    .sm-page-count {
+      min-width: 40px; text-align: right;
+      font-weight: 700; font-size: 0.85rem;
+      font-variant-numeric: tabular-nums;
+    }
+    .sm-feed-item {
+      display: grid;
+      grid-template-columns: 32px 1fr auto;
+      gap: 0.5rem;
+      align-items: center;
+      padding: 0.4rem 0;
+      border-bottom: 1px solid var(--hz-border);
+      font-size: 0.82rem;
+    }
+    .sm-feed-item:last-child { border-bottom: 0; }
+    .sm-feed-item.new { animation: sm-fade-in 0.45s ease-out; }
+    @keyframes sm-fade-in {
+      from { opacity: 0; transform: translateY(-4px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .sm-feed-device {
+      font-size: 1rem;
+      text-align: center;
+    }
+    .sm-feed-path {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+      color: var(--hz-text);
+      text-decoration: none;
+    }
+    .sm-feed-path:hover { color: var(--hz-primary); text-decoration: underline; }
+    .sm-feed-time {
+      color: var(--hz-text-muted);
+      font-variant-numeric: tabular-nums;
+      font-size: 0.75rem;
+      white-space: nowrap;
+    }
+    .hz-kpi-hint {
+      font-size: 0.75rem; color: var(--hz-text-muted); margin-top: 0.25rem;
+    }
+    @media (max-width: 768px) {
+      .sm-two-col { grid-template-columns: 1fr !important; }
+    }
+  </style>
 
-const AGENT_IDS = ['a-p1','a-p2','a-p5','a-ebook','a-bonus','a-delivery','a-adminlive','a-traffic','a-hijack','a-cr','a-sec','a-ui','f-p4','f-xss','f-ux','f-admin','railway','chrome'];
-const PR_IDS = NODES.filter(n => n.type === 'artifact').map(n => n.id);
+  <script is:inline>
+    (function() {
+      const esc = (s) => String(s == null ? '' : s)
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
 
-const EDGES = [
-  ...AGENT_IDS.map(t => ({s:'main', t})),
-  ...PR_IDS.map(t => ({s:'main', t, thin:true})),
-];
+      const fmt = (n) => (n || 0).toLocaleString('de-DE');
 
-// PR origin mapping (cluster coloring)
-const PR_ORIGIN = {
-  pr11:'a-p1', pr12:'a-p2', pr13:'a-p2', pr14:'a-p2', pr15:'a-p2', pr16:'a-p2',
-  pr17:'a-sec', pr18:'a-sec', pr19:'f-p4', pr20:'f-xss',
-  pr21:'f-ux', pr22:'a-ebook', pr23:'a-bonus', pr24:'f-ux', pr25:'a-cr',
-  pr26:'f-ux', pr27:'a-sec', pr28:'a-ui',
-  pr29:'a-delivery', pr30:'f-admin', pr31:'a-adminlive', pr32:'a-adminlive',
-  pr33:'chrome', pr37:'a-adminlive', pr39:'a-traffic', pr40:'a-traffic',
-  pr41:'a-traffic', pr43:'a-traffic', pr45:'a-sec', pr46:'a-hijack',
-};
+      function relativeTime(iso) {
+        const then = new Date(iso).getTime();
+        if (!Number.isFinite(then)) return '—';
+        const sec = Math.floor((Date.now() - then) / 1000);
+        if (sec < 10) return 'gerade eben';
+        if (sec < 60) return 'vor ' + sec + 's';
+        if (sec < 3600) return 'vor ' + Math.floor(sec / 60) + 'm';
+        return 'vor ' + Math.floor(sec / 3600) + 'h';
+      }
 
-// Node-Times (minutes from 12:00)
-const NODE_TIMES = {
-  main:0, 'a-p1':2, 'a-p2':8, 'a-p5':18, 'a-cr':35, 'a-sec':50, 'a-ui':80,
-  'a-ebook':60, 'a-bonus':180, 'a-delivery':300, 'a-adminlive':305,
-  'a-traffic':390, 'a-hijack':450, 'f-p4':210, 'f-xss':225, 'f-ux':240, 'f-admin':305,
-  railway:0, chrome:60,
-  pr11:0, pr12:30, pr13:45, pr14:60, pr15:75, pr16:90,
-  pr17:200, pr18:205, pr19:210, pr20:220,
-  pr21:260, pr22:270, pr23:285, pr24:290, pr25:300,
-  pr26:310, pr27:320, pr28:320, pr29:340, pr30:350,
-  pr31:360, pr32:360, pr33:370,
-  pr37:420, pr39:435, pr40:445, pr41:450,
-  pr43:467, pr45:470, pr46:480,
-};
+      const deviceEmoji = {
+        mobile: '📱',
+        desktop: '🖥️',
+        tablet: '📱',
+        bot: '🤖',
+      };
 
-// Impact data for detail-panel
-const IMPACT = {
-  pr17: { metric:'5 Keys rotiert · Leak neutralisiert', cost:'Key-Compromise hätte Mandantentrennung kompromittiert', severity:'critical' },
-  pr18: { metric:'SQL-Injection gepatcht', cost:'GHSA-gpj5-g38j-94v9 · Drizzle 0.37→0.45.2', severity:'critical' },
-  pr19: { metric:'Duplicate purchases verhindert', cost:'crypto fail-closed + Unsubscribe-Secret-Hardening', severity:'critical' },
-  pr20: { metric:'3 XSS gefixt · Admin-Reauth', cost:'Cross-Site-Scripting in Inbox, Autoren, Audit', severity:'critical' },
-  pr22: { metric:'12 Ebook-Kapitel ausgeliefert', cost:'~31.250 Wörter · Produkt-Inventar live' },
-  pr23: { metric:'5 Bonus-Materialien', cost:'Workbook + Vorlagen + Checklisten · ~14.900 W' },
-  pr29: { metric:'Ebook-Delivery-System live', cost:'Token-Access + SendGrid + Admin-Resend' },
-  pr30: { metric:'1.164 Artikel gerettet', cost:'Data-Loss-Bug im parseFM Inline-Array · jeder Save hätte Body gewiped', severity:'critical' },
-};
+      let seenIds = new Set();
 
-const LOG_EVENTS = [
-  { t:'20:00', cat:'pr', text:'PR #46 merged · SEO-Hijacking (Badoo + Poppen + Lovoo) ~11.800 Wörter' },
-  { t:'19:50', cat:'pr', text:'PR #45 merged · CSRF-Tokens + KPI-Widgets + PII-Redaction' },
-  { t:'19:47', cat:'pr', text:'PR #43 merged · Email-Drip (1/7/30) + Affiliate-Programm-Skelett' },
-  { t:'19:30', cat:'pr', text:'PR #41 merged · Tracking-Whitelist + poppen/lemonswan/lovoo' },
-  { t:'19:25', cat:'pr', text:'PR #40 merged · Sticky-Bar + Exit-Intent + Social-Proof' },
-  { t:'19:15', cat:'pr', text:'PR #39 merged · Plausible + Sitemap + 14 Stadt-Seiten' },
-  { t:'19:00', cat:'pr', text:'PR #37 merged · Quiz-Result-Card mit Site-Screenshot' },
-  { t:'18:10', cat:'pr', text:'PR #33 merged · 10 Dating-Site-Screenshots via Playwright' },
-  { t:'18:00', cat:'pr', text:'PR #32 merged · Auto-Image-Fix (1845/1849 Coverage)' },
-  { t:'17:50', cat:'sec', text:'PR #30 merged · CRITICAL Artikel-Editor-Fix (1164 Artikel gerettet)' },
-  { t:'17:40', cat:'pr', text:'PR #29 merged · Ebook-Delivery-System' },
-  { t:'17:20', cat:'pr', text:'PR #28 merged · UX P1 (A11y + Perf)' },
-  { t:'17:00', cat:'sec', text:'PR #25 merged · Backend-Hardening (Rate-Limits + UNIQUE)' },
-  { t:'16:30', cat:'pr', text:'PR #22 merged · 12 Ebook-Kapitel (~31.250 Wörter)' },
-  { t:'15:40', cat:'sec', text:'PR #20 merged · CRITICAL Admin-XSS + Reauth' },
-  { t:'15:30', cat:'sec', text:'PR #19 merged · Backend-CRITICAL Race + Secret-Fallback' },
-  { t:'15:25', cat:'sec', text:'PR #18 merged · Drizzle SQL-Injection-Patch' },
-  { t:'15:20', cat:'sec', text:'PR #17 merged · 4 Leak-Docs raus, 5 Secrets rotiert' },
-  { t:'13:30', cat:'deploy', text:'Micropayment-Setup: Sofort + paysafecard aktiviert' },
-  { t:'13:00', cat:'deploy', text:'Whop-Produkt angelegt' },
-  { t:'12:00', cat:'pr', text:'PR #11 merged · 3-Method-Checkout-Picker live' },
-];
+      async function tick() {
+        let data;
+        try {
+          const res = await fetch('/api/herzraum/session-map-live');
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          data = await res.json();
+          if (!data.ok) throw new Error(data.error || 'backend');
+        } catch (err) {
+          console.error('[session-map] fetch failed:', err);
+          const el = document.getElementById('sm-updated');
+          if (el) {
+            el.textContent = '⚠ Fehler: ' + (err && err.message || 'unbekannt');
+            el.style.color = 'var(--hz-danger)';
+          }
+          return;
+        }
 
-// ═══════════════════════════════════════════════════════════════════════
-// STATE + RENDERING
-// ═══════════════════════════════════════════════════════════════════════
-const VB_W = 1600, VB_H = 900;
-const nodeMap = Object.fromEntries(NODES.map(n => [n.id, n]));
-NODES.forEach(n => { n.homeX = n.x; n.homeY = n.y; n.t = NODE_TIMES[n.id] ?? 0; });
+        // KPI-Tiles
+        document.getElementById('sm-live-count').textContent = fmt(data.liveCount);
+        document.getElementById('sm-hour-count').textContent = fmt(data.lastHourCount);
+        const peak = data.peakMinuteToday || { hour: 0, count: 0 };
+        document.getElementById('sm-peak-count').textContent = fmt(peak.count);
+        document.getElementById('sm-peak-hour').textContent = peak.hour != null
+          ? 'um ' + String(peak.hour).padStart(2, '0') + ':00 Uhr (UTC)'
+          : '—';
 
-const stage = document.getElementById('stage');
-const viewport = document.getElementById('viewport');
-const svg = document.getElementById('edges');
-const nodesLayer = document.getElementById('nodes-layer');
+        const dev = data.deviceBreakdown || {};
+        const total = (dev.mobile || 0) + (dev.desktop || 0) + (dev.tablet || 0) + (dev.bot || 0);
+        const mobilePct = total > 0 ? Math.round(((dev.mobile || 0) + (dev.tablet || 0)) / total * 100) : 0;
+        document.getElementById('sm-mobile-pct').textContent = mobilePct + '%';
+        document.getElementById('sm-device-split').textContent =
+          '📱 ' + fmt(dev.mobile || 0) + ' · 🖥 ' + fmt(dev.desktop || 0) + ' · 🤖 ' + fmt(dev.bot || 0);
 
-// Zoom/Pan state
-let zoom = 1, panX = 0, panY = 0;
-function applyTransform() {
-  viewport.style.transform = `translate(${panX}px, ${panY}px) scale(${zoom})`;
-}
+        // Sparkline: 60 Buckets (min 0 = now, max 59 = vor 59min)
+        const spark = document.getElementById('sm-sparkline');
+        const mins = data.pageviewsByMinute || [];
+        const maxCount = Math.max(1, ...mins.map((m) => m.count));
+        spark.innerHTML = mins.map((m, i) => {
+          const pct = Math.max(2, (m.count / maxCount) * 100);
+          const cls = i >= mins.length - 5 ? 'sm-bar recent' : 'sm-bar';
+          return '<div class="' + cls + '" style="height: ' + pct + '%;" title="vor ' + m.minuteOffset + 'm: ' + fmt(m.count) + '"></div>';
+        }).join('');
 
-// ── Render edges ──
-const edgeEls = [];
-EDGES.forEach((e, i) => {
-  const a = nodeMap[e.s], b = nodeMap[e.t];
-  if (!a || !b) return;
-  const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
-  line.setAttribute('x1', a.x); line.setAttribute('y1', a.y);
-  line.setAttribute('x2', b.x); line.setAttribute('y2', b.y);
-  line.setAttribute('class', 'edge' + (e.thin ? ' thin' : ''));
-  line.dataset.source = e.s;
-  line.dataset.target = e.t;
-  svg.appendChild(line);
-  edgeEls.push({ el: line, s: e.s, t: e.t });
-});
+        // Top-Pages
+        const topEl = document.getElementById('sm-top-pages');
+        const top = data.topPages || [];
+        if (top.length === 0) {
+          topEl.innerHTML = '<div style="color: var(--hz-text-muted); font-size: 0.85rem;">Noch keine Aufrufe in der letzten Stunde.</div>';
+        } else {
+          const topMax = top[0].count || 1;
+          topEl.innerHTML = top.map((p) => {
+            const pct = Math.round((p.count / topMax) * 100);
+            const pathDisplay = p.path.length > 50 ? p.path.slice(0, 48) + '…' : p.path;
+            const safeHref = p.path && p.path.startsWith('/') ? esc(p.path) : '#';
+            return '<div class="sm-page-row">'
+              + '<a class="sm-page-path" href="' + safeHref + '" target="_blank" rel="noopener" title="' + esc(p.path) + '">' + esc(pathDisplay) + '</a>'
+              + '<div class="sm-page-bar-wrap"><div class="sm-page-bar" style="width: ' + pct + '%"></div></div>'
+              + '<div class="sm-page-count">' + fmt(p.count) + '</div>'
+              + '</div>';
+          }).join('');
+        }
 
-// ── Render nodes ──
-function pctX(v) { return (v / VB_W) * 100 + '%'; }
-function pctY(v) { return (v / VB_H) * 100 + '%'; }
+        // Activity-Feed
+        const feedEl = document.getElementById('sm-feed');
+        const feed = data.activityFeed || [];
+        if (feed.length === 0) {
+          feedEl.innerHTML = '<div style="color: var(--hz-text-muted); font-size: 0.85rem;">Keine aktuellen Aktivitäten.</div>';
+        } else {
+          feedEl.innerHTML = feed.map((ev) => {
+            const id = ev.ts + '|' + ev.path;
+            const isNew = !seenIds.has(id);
+            seenIds.add(id);
+            const pathShort = ev.path.length > 45 ? ev.path.slice(0, 43) + '…' : ev.path;
+            const safeHref = ev.path && ev.path.startsWith('/') ? esc(ev.path) : '#';
+            const emoji = deviceEmoji[ev.device] || '·';
+            const refTitle = ev.referrer && ev.referrer !== 'direct' ? ' · Referrer: ' + ev.referrer : '';
+            return '<div class="sm-feed-item' + (isNew ? ' new' : '') + '">'
+              + '<div class="sm-feed-device" title="' + esc(ev.device) + '">' + emoji + '</div>'
+              + '<a class="sm-feed-path" href="' + safeHref + '" target="_blank" rel="noopener" title="' + esc(ev.path) + esc(refTitle) + '">' + esc(pathShort) + '</a>'
+              + '<div class="sm-feed-time">' + esc(relativeTime(ev.ts)) + '</div>'
+              + '</div>';
+          }).join('');
+        }
 
-const nodeEls = {};
-NODES.forEach(n => {
-  const el = document.createElement('div');
-  el.className = 'node ' + n.state;
-  el.setAttribute('data-id', n.id);
-  el.setAttribute('data-t', String(n.t));
-  el.style.color = n.color;
-  el.style.left = pctX(n.x);
-  el.style.top = pctY(n.y);
-  // Agent-cluster coloring for PRs
-  const originAgentId = PR_ORIGIN[n.id];
-  if (originAgentId && nodeMap[originAgentId]) {
-    el.setAttribute('data-origin-color', '');
-    el.style.setProperty('--origin-color', nodeMap[originAgentId].color);
-  }
-  el.innerHTML = `
-    <div class="circle" style="width:${n.r*2}px;height:${n.r*2}px"></div>
-    <div class="label">${n.label}</div>
-    <div class="node-sub">${n.sub || ''}</div>
-  `;
-  nodesLayer.appendChild(el);
-  nodeEls[n.id] = el;
-});
+        if (seenIds.size > 200) {
+          const keep = feed.slice(0, 50).map((ev) => ev.ts + '|' + ev.path);
+          seenIds = new Set(keep);
+        }
 
-// ── Render Activity Feed ──
-document.getElementById('logList').innerHTML = LOG_EVENTS.map(e =>
-  `<div class="log-row">
-    <span class="log-time">${e.t}</span>
-    <span class="log-cat ${e.cat}">${e.cat}</span>
-    <span class="log-text">${e.text}</span>
-  </div>`
-).join('');
+        const upEl = document.getElementById('sm-updated');
+        if (upEl) {
+          upEl.textContent = 'Aktualisiert ' + new Date().toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+          upEl.style.color = 'var(--hz-text-muted)';
+        }
+      }
 
-// ═══════════════════════════════════════════════════════════════════════
-// DRAG NODES (except main)
-// ═══════════════════════════════════════════════════════════════════════
-let draggingNode = null;
-
-function getStageScale() {
-  const rect = stage.getBoundingClientRect();
-  // viewBox 1600x900 is rendered inside stage preserveAspectRatio=xMidYMid meet
-  const scale = Math.min(rect.width / VB_W, rect.height / VB_H) * zoom;
-  return scale;
-}
-
-function updateNodePosition(n) {
-  const el = nodeEls[n.id];
-  if (el) {
-    el.style.left = pctX(n.x);
-    el.style.top = pctY(n.y);
-  }
-  // Update connected edges
-  edgeEls.forEach(e => {
-    if (e.s === n.id) { e.el.setAttribute('x1', n.x); e.el.setAttribute('y1', n.y); }
-    if (e.t === n.id) { e.el.setAttribute('x2', n.x); e.el.setAttribute('y2', n.y); }
-  });
-}
-
-Object.entries(nodeEls).forEach(([id, el]) => {
-  if (id === 'main') return; // main is fixed
-  const n = nodeMap[id];
-  let dragStartX = 0, dragStartY = 0, nodeStartX = 0, nodeStartY = 0;
-  let moved = false;
-
-  el.addEventListener('mousedown', (ev) => {
-    ev.preventDefault(); ev.stopPropagation();
-    draggingNode = n; moved = false;
-    dragStartX = ev.clientX; dragStartY = ev.clientY;
-    nodeStartX = n.x; nodeStartY = n.y;
-    el.style.zIndex = '50';
-    stage.classList.add('dragging-node');
-  });
-
-  function onMove(ev) {
-    if (draggingNode !== n) return;
-    const dx = ev.clientX - dragStartX;
-    const dy = ev.clientY - dragStartY;
-    if (Math.abs(dx) + Math.abs(dy) > 3) moved = true;
-    const scale = getStageScale();
-    n.x = nodeStartX + dx / scale;
-    n.y = nodeStartY + dy / scale;
-    updateNodePosition(n);
-  }
-  function onUp(ev) {
-    if (draggingNode !== n) return;
-    draggingNode = null;
-    el.style.zIndex = '';
-    stage.classList.remove('dragging-node');
-    // If no drag happened, treat as click → open detail
-    if (!moved) showDetail(n);
-  }
-  window.addEventListener('mousemove', onMove);
-  window.addEventListener('mouseup', onUp);
-});
-
-// ═══════════════════════════════════════════════════════════════════════
-// ZOOM (wheel) + PAN (drag background)
-// ═══════════════════════════════════════════════════════════════════════
-stage.addEventListener('wheel', (ev) => {
-  ev.preventDefault();
-  const factor = ev.deltaY > 0 ? 0.92 : 1.09;
-  zoom = Math.max(0.4, Math.min(3, zoom * factor));
-  applyTransform();
-}, { passive: false });
-
-let panning = false, panStartX = 0, panStartY = 0;
-stage.addEventListener('mousedown', (ev) => {
-  if (ev.target.closest('.node, .panel, .sm-header, .sm-scrubber')) return;
-  panning = true;
-  panStartX = ev.clientX - panX;
-  panStartY = ev.clientY - panY;
-});
-window.addEventListener('mousemove', (ev) => {
-  if (!panning) return;
-  panX = ev.clientX - panStartX;
-  panY = ev.clientY - panStartY;
-  applyTransform();
-});
-window.addEventListener('mouseup', () => { panning = false; });
-
-// ═══════════════════════════════════════════════════════════════════════
-// CLICK: Focus-Mode + Detail-Panel
-// ═══════════════════════════════════════════════════════════════════════
-const detailPanel = document.getElementById('detail-panel');
-let focusedNodeId = null;
-
-function showDetail(n) {
-  // Enter focus mode
-  stage.classList.add('focus-mode');
-  focusedNodeId = n.id;
-  Object.values(nodeEls).forEach(el => el.classList.remove('focused'));
-  nodeEls[n.id].classList.add('focused');
-  edgeEls.forEach(e => {
-    e.el.classList.toggle('connected', e.s === n.id || e.t === n.id);
-  });
-  // Populate panel
-  document.getElementById('dp-type').textContent = n.type;
-  document.getElementById('dp-title').textContent = n.label;
-  document.getElementById('dp-sub').textContent = n.sub || '';
-  document.getElementById('dp-desc').textContent = n.desc || 'Keine weiteren Details erfasst.';
-  const imp = IMPACT[n.id];
-  const impEl = document.getElementById('dp-impact');
-  if (imp) {
-    impEl.style.display = '';
-    document.getElementById('dp-impact-metric').textContent = imp.metric;
-    document.getElementById('dp-impact-cost').textContent = imp.cost;
-  } else {
-    impEl.style.display = 'none';
-  }
-  detailPanel.classList.add('open');
-}
-
-function exitFocus() {
-  stage.classList.remove('focus-mode');
-  focusedNodeId = null;
-  Object.values(nodeEls).forEach(el => el.classList.remove('focused'));
-  edgeEls.forEach(e => e.el.classList.remove('connected'));
-  detailPanel.classList.remove('open');
-}
-
-document.getElementById('dp-close').addEventListener('click', exitFocus);
-stage.addEventListener('click', (ev) => {
-  if (!ev.target.closest('.node') && focusedNodeId) exitFocus();
-});
-document.addEventListener('keydown', (ev) => {
-  if (ev.key === 'Escape' && focusedNodeId) exitFocus();
-});
-
-// Main-Agent click opens its detail
-nodeEls.main.addEventListener('click', (ev) => {
-  ev.stopPropagation();
-  showDetail(nodeMap.main);
-});
-
-// ═══════════════════════════════════════════════════════════════════════
-// TIMELINE SCRUBBER
-// ═══════════════════════════════════════════════════════════════════════
-const range = document.getElementById('scRange');
-const timeLbl = document.getElementById('scTime');
-const visLbl = document.getElementById('scVisible');
-const totalLbl = document.getElementById('scTotal');
-const playBtn = document.getElementById('scPlay');
-const playLbl = document.getElementById('scPlayLabel');
-const resetBtn = document.getElementById('scReset');
-const ticksEl = document.getElementById('scTicks');
-const markersEl = document.getElementById('scMarkers');
-
-totalLbl.textContent = String(NODES.length);
-
-// Render tick-hours (12-20)
-for (let h = 12; h <= 20; h++) {
-  const tick = document.createElement('div');
-  tick.className = 'sc-tick';
-  tick.style.position = 'absolute';
-  tick.style.left = ((h - 12) * 60 / 480 * 100) + '%';
-  tick.innerHTML = `<span>${h}:00</span>`;
-  ticksEl.appendChild(tick);
-}
-// Critical markers
-[200, 205, 210, 220, 350].forEach(t => {
-  const m = document.createElement('div');
-  m.className = 'sc-marker';
-  m.style.left = (t / 480 * 100) + '%';
-  markersEl.appendChild(m);
-});
-
-function applyTime(tMin) {
-  let visible = 0;
-  NODES.forEach(n => {
-    const el = nodeEls[n.id];
-    if (!el) return;
-    if (n.t > tMin) el.classList.add('time-hidden');
-    else { el.classList.remove('time-hidden'); visible++; }
-  });
-  edgeEls.forEach(e => {
-    const tS = (nodeMap[e.s] && nodeMap[e.s].t) || 0;
-    const tT = (nodeMap[e.t] && nodeMap[e.t].t) || 0;
-    if (Math.max(tS, tT) > tMin) e.el.classList.add('time-hidden');
-    else e.el.classList.remove('time-hidden');
-  });
-  const h = Math.floor(tMin / 60) + 12;
-  const m = String(tMin % 60).padStart(2, '0');
-  timeLbl.textContent = `${h}:${m}`;
-  visLbl.textContent = String(visible);
-  range.style.setProperty('--fill', (tMin / 480 * 100) + '%');
-}
-
-range.addEventListener('input', (ev) => {
-  stopPlayback();
-  applyTime(+ev.target.value);
-});
-
-// Playback
-let playing = false, playStart = 0, startValue = 0, rafId = 0;
-let playSpeed = 1;
-const BASE_MS = 30000;
-function playFrame() {
-  if (!playing) return;
-  const elapsed = performance.now() - playStart;
-  const duration = BASE_MS / playSpeed;
-  const fraction = Math.min(1, elapsed / duration);
-  const tMin = Math.round(startValue + (480 - startValue) * fraction);
-  range.value = String(tMin);
-  applyTime(tMin);
-  if (fraction < 1) rafId = requestAnimationFrame(playFrame);
-  else stopPlayback();
-}
-function startPlayback() {
-  playing = true;
-  startValue = +range.value >= 480 ? 0 : +range.value;
-  range.value = String(startValue);
-  applyTime(startValue);
-  playStart = performance.now();
-  playLbl.textContent = '❚❚ Pause';
-  rafId = requestAnimationFrame(playFrame);
-}
-function stopPlayback() {
-  playing = false;
-  cancelAnimationFrame(rafId);
-  playLbl.textContent = '▶ Replay';
-}
-playBtn.addEventListener('click', () => { playing ? stopPlayback() : startPlayback(); });
-
-// Speed buttons
-document.querySelectorAll('.sc-speed-btn').forEach(btn => {
-  btn.addEventListener('click', () => {
-    document.querySelectorAll('.sc-speed-btn').forEach(b => b.classList.toggle('active', b === btn));
-    playSpeed = parseFloat(btn.dataset.speed);
-  });
-});
-
-// Reset button
-resetBtn.addEventListener('click', () => {
-  NODES.forEach(n => {
-    n.x = n.homeX;
-    n.y = n.homeY;
-    updateNodePosition(n);
-  });
-  zoom = 1; panX = 0; panY = 0;
-  applyTransform();
-  exitFocus();
-  range.value = '480';
-  applyTime(480);
-  stopPlayback();
-});
-
-// Initial: all visible
-applyTime(480);
-</script>
+      tick();
+      let timer = null;
+      function startPoll() {
+        if (timer) return;
+        timer = setInterval(tick, 5000);
+      }
+      function stopPoll() {
+        if (timer) { clearInterval(timer); timer = null; }
+      }
+      document.addEventListener('visibilitychange', () => {
+        if (document.hidden) stopPoll();
+        else { tick(); startPoll(); }
+      });
+      if (!document.hidden) startPoll();
+    })();
+  </script>
 </HerzraumLayout>
