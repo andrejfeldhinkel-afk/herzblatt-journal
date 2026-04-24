@@ -108,6 +108,43 @@ for (const [fname, slugs] of imageToArticles.entries()) {
     </div>
   </section>
 
+  <div class="hz-card" style="margin-bottom: 1rem;">
+    <div class="hz-row" style="margin-bottom: 0.5rem;">
+      <h3 style="margin: 0;">⬆︎ Neues Bild hochladen</h3>
+      <div class="hz-spacer"></div>
+    </div>
+    <p style="color: var(--hz-text-muted); font-size: 0.8rem; margin: 0 0 0.75rem;">
+      Upload landet in <code>apps/frontend/public/images/blog/&lt;slug&gt;.&lt;ext&gt;</code> als
+      Commit in den <code>main</code>-Branch. Max. 8 MB. Erlaubt: jpg, png, webp, gif, avif.
+      <strong>Live nach nächstem Railway-Deploy</strong> (wenige Minuten).
+    </p>
+    <form id="upload-form" enctype="multipart/form-data" style="display: grid; gap: 0.75rem; grid-template-columns: 1fr 1fr; align-items: end;">
+      <div style="grid-column: 1 / 3;">
+        <label style="display: block; font-size: 0.8rem; font-weight: 600; margin-bottom: 0.25rem;">Datei</label>
+        <input type="file" id="up-file" name="file" required accept="image/*"
+               style="width: 100%; padding: 0.4rem; border: 1px solid var(--hz-border); border-radius: 0.35rem; background: var(--hz-surface); color: var(--hz-text);">
+      </div>
+      <div>
+        <label style="display: block; font-size: 0.8rem; font-weight: 600; margin-bottom: 0.25rem;">
+          Slug <span style="color: var(--hz-text-muted); font-weight: 400;">(optional — aus Dateinamen abgeleitet)</span>
+        </label>
+        <input type="text" id="up-slug" name="slug" placeholder="z.b. hero-paar-beziehungstips"
+               pattern="[a-z0-9][a-z0-9-]{2,79}"
+               style="width: 100%; padding: 0.4rem 0.6rem; border: 1px solid var(--hz-border); border-radius: 0.35rem; background: var(--hz-surface); color: var(--hz-text);">
+      </div>
+      <div>
+        <label style="display: flex; align-items: center; gap: 0.35rem; font-size: 0.85rem; padding-top: 1.4rem;">
+          <input type="checkbox" id="up-overwrite" name="overwrite" value="1">
+          Bestehende Datei überschreiben
+        </label>
+      </div>
+      <div style="grid-column: 1 / 3; display: flex; align-items: center; gap: 0.75rem;">
+        <button type="submit" id="up-submit" class="hz-btn primary">Hochladen</button>
+        <span id="up-result" style="font-size: 0.85rem;"></span>
+      </div>
+    </form>
+  </div>
+
   <div class="hz-card">
     <div class="hz-row" style="margin-bottom: 0.75rem;">
       <h3 style="margin: 0;">Grid ({total} Bilder)</h3>
@@ -222,5 +259,58 @@ for (const [fname, slugs] of imageToArticles.entries()) {
       }
     }
     clientFallbackLoad();
+
+    // ─── Upload-Form ────────────────────────────────────────
+    // POST /api/herzraum/images/upload mit multipart/form-data.
+    // Backend committet das File in den main-Branch; Live nach nächstem Deploy.
+    (function wireUpload() {
+      const form = document.getElementById('upload-form');
+      if (!form) return;
+      const fileInput = document.getElementById('up-file');
+      const slugInput = document.getElementById('up-slug');
+      const overInput = document.getElementById('up-overwrite');
+      const btn = document.getElementById('up-submit');
+      const result = document.getElementById('up-result');
+
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        result.textContent = '';
+        const file = fileInput.files && fileInput.files[0];
+        if (!file) { result.textContent = 'Bitte Datei wählen.'; result.style.color = 'var(--hz-danger)'; return; }
+        if (file.size === 0) { result.textContent = 'Datei ist leer.'; result.style.color = 'var(--hz-danger)'; return; }
+
+        btn.disabled = true;
+        btn.textContent = 'Lädt hoch…';
+        result.style.color = 'var(--hz-text-muted)';
+        result.textContent = 'Upload + Commit auf GitHub…';
+
+        const fd = new FormData();
+        fd.append('file', file);
+        if (slugInput.value.trim()) fd.append('slug', slugInput.value.trim());
+        if (overInput.checked) fd.append('overwrite', '1');
+
+        try {
+          const res = await fetch('/api/herzraum/images/upload', { method: 'POST', body: fd });
+          const data = await res.json().catch(() => ({}));
+          if (res.ok && data.ok) {
+            result.style.color = '#10b981';
+            result.innerHTML = '✓ Upload erfolgreich: <code>' + data.publicUrl + '</code>'
+              + (data.commitUrl ? ' (<a href="' + data.commitUrl + '" target="_blank" style="color: var(--hz-primary);">Commit</a>)' : '')
+              + ' — live nach nächstem Deploy.';
+            form.reset();
+          } else {
+            result.style.color = 'var(--hz-danger)';
+            const msg = data.error || data.message || ('HTTP ' + res.status);
+            result.textContent = 'Fehler: ' + msg + (data.hint ? ' — ' + data.hint : '');
+          }
+        } catch (err) {
+          result.style.color = 'var(--hz-danger)';
+          result.textContent = 'Netzwerk-Fehler: ' + (err && err.message || 'Unbekannt');
+        } finally {
+          btn.disabled = false;
+          btn.textContent = 'Hochladen';
+        }
+      });
+    })();
   </script>
 </HerzraumLayout>

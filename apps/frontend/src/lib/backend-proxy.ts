@@ -50,12 +50,26 @@ export async function proxyToBackend(
       if (v) headers.set(name, v);
     }
 
-    // Body lesen (mit try/catch um Stream-Issues)
+    // Body lesen (mit try/catch um Stream-Issues).
+    // multipart/form-data + andere Binary-Content-Types MÜSSEN als ArrayBuffer
+    // weitergegeben werden, sonst wird die Boundary beim text()→string-Trip
+    // zerstört und der Upload kommt als korruptes UTF-8 an.
     let body: BodyInit | undefined;
     if (request.method !== 'GET' && request.method !== 'HEAD') {
+      const ct = (request.headers.get('content-type') || '').toLowerCase();
+      const isBinary = ct.startsWith('multipart/')
+        || ct.startsWith('application/octet-stream')
+        || ct.startsWith('image/')
+        || ct.startsWith('video/')
+        || ct.startsWith('audio/');
       try {
-        const text = await request.text();
-        if (text && text.length > 0) body = text;
+        if (isBinary) {
+          const buf = await request.arrayBuffer();
+          if (buf.byteLength > 0) body = buf;
+        } else {
+          const text = await request.text();
+          if (text && text.length > 0) body = text;
+        }
       } catch (err) {
         console.error('[backend-proxy] body read error:', err);
         body = undefined;
