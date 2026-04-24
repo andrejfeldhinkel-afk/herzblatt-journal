@@ -2,6 +2,8 @@
 title: "Verliebt in den Arbeitskollegen: Was tun und was besser lassen?"
 description: "Verliebt in den Kollegen? Erfahre, welche Risiken du kennen musst, wie du klug vorgehst und wann du besser die Finger davon lassen solltest."
 date: 2026-04-24
+image: "/images/blog/verliebt-in-kollegen-was-tun.webp"
+imageAlt: "Verliebt in den Arbeitskollegen"
 tags:
   - "Dating"
   - "Liebe"

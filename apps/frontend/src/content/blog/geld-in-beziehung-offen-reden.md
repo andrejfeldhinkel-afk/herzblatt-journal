@@ -2,6 +2,8 @@
 title: "Geld in der Beziehung: So sprecht ihr offen über Finanzen"
 description: "Geld ist Konflikt-Thema Nummer eins in Beziehungen. So redet ihr endlich offen darüber - vom 3-Konten-Modell bis zum Umgang mit Schulden und Einkommensunterschieden."
 date: 2026-04-24
+image: "/images/blog/geld-streit-vermeiden.webp"
+imageAlt: "Geld in der Beziehung"
 tags:
   - "Beziehung"
   - "Kommunikation"

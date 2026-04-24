@@ -2,6 +2,8 @@
 title: "Aromantik: Was es bedeutet und wie Beziehungen ohne romantische Liebe aussehen"
 description: "Aromantik erklaert: Was bedeutet aromantisch? Unterschied zu asexuell, das aromantische Spektrum und wie aromantische Beziehungen funktionieren."
 date: 2026-04-24
+image: "/images/blog/dating-aromantisch-verstehen.webp"
+imageAlt: "Aromantik erklaert"
 tags:
   - "Queer"
   - "Psychologie"

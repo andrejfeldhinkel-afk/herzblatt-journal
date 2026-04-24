@@ -2,6 +2,8 @@
 title: "Single an Silvester: 9 Tipps für einen großartigen Jahreswechsel allein"
 description: "Single Silvester muss kein Trauerspiel sein. 9 konkrete Tipps, wie du den Jahreswechsel allein zu einem magischen Moment machst statt zur Pflichtveranstaltung."
 date: 2026-04-24
+image: "/images/blog/alleine-gluecklich-sein.webp"
+imageAlt: "Alleine gluecklich sein – Single an Silvester"
 tags:
   - "Selbstliebe"
   - "Lifestyle"

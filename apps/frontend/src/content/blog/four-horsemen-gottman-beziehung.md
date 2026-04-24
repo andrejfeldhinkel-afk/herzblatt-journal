@@ -2,6 +2,8 @@
 title: "Die vier apokalyptischen Reiter: Gottmans Beziehungs-Killer erkennen"
 description: "Four Horsemen nach Gottman: Kritik, Verachtung, Abwehr und Mauern zerstoeren Beziehungen. Wie du sie erkennst und entschaerfst. Wissenschaftlich fundiert."
 date: 2026-04-24
+image: "/images/blog/gottman-5-zu-1-regel.webp"
+imageAlt: "Gottman Four Horsemen"
 tags:
   - "Psychologie"
   - "Kommunikation"

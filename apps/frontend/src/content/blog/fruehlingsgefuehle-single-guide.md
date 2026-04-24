@@ -2,6 +2,8 @@
 title: "Frühlingsgefühle als Single: Warum du jetzt rausgehen solltest"
 description: "Frühlingsgefühle single erleben und nutzen. Wo du jetzt flirtest, wie du die Dating-Saison startest und warum der Frühling die beste Zeit für Singles ist."
 date: 2026-04-24
+image: "/images/blog/dating-fruehling-2026.webp"
+imageAlt: "Fruehlingsgefuehle als Single"
 tags:
   - "Dating"
   - "Lifestyle"

@@ -2,6 +2,8 @@
 title: "Mental Load in der Beziehung: Wie ihr die unsichtbare Arbeit fair aufteilt"
 description: "Mental Load lastet oft auf einer Person - meist ohne dass es die andere merkt. So erkennst du die unsichtbare Arbeit und teilst sie endlich fair auf."
 date: 2026-04-24
+image: "/images/blog/dating-und-mental-load.webp"
+imageAlt: "Mental Load in der Beziehung"
 tags:
   - "Beziehung"
   - "Kommunikation"

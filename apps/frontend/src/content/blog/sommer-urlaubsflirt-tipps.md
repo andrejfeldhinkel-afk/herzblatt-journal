@@ -2,6 +2,8 @@
 title: "Urlaubsflirt oder echte Liebe? So unterscheidest du die Sommer-Romanze"
 description: "Urlaubsflirt oder mehr? Wie du erkennst, ob die Sommerliebe Substanz hat - und wann du sie besser am Strand lassen solltest."
 date: 2026-04-24
+image: "/images/blog/urlaubsflirt-tipps.webp"
+imageAlt: "Sommer-Urlaubsflirt"
 tags:
   - "Dating"
   - "Lifestyle"

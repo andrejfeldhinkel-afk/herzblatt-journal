@@ -2,6 +2,8 @@
 title: "Valentinstag ohne Partner: So wird der 14.02. zu deinem besten Tag"
 description: "Valentinstag single und trotzdem großartig. Wie du den 14. Februar ohne Partner zu einem Selbstliebe-Tag machst, statt dich unter Druck setzen zu lassen."
 date: 2026-04-24
+image: "/images/blog/selbstliebe-dating.webp"
+imageAlt: "Selbstliebe am Valentinstag"
 tags:
   - "Selbstliebe"
   - "Lifestyle"
