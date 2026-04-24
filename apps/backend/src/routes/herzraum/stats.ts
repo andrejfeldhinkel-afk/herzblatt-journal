@@ -25,6 +25,7 @@ app.get('/', async (c) => {
     clickToday, clickWeek, clickMonth, clickTotal,
     regToday, regWeek, regMonth, regTotal,
     nlToday, nlWeek, nlMonth, nlTotal,
+    purchasesToday, revenueTodayRow,
   ] = await Promise.all([
     db.select({ n: count() }).from(schema.pageviews).where(gt(schema.pageviews.ts, todayStart)),
     db.select({ n: count() }).from(schema.pageviews).where(gt(schema.pageviews.ts, weekStart)),
@@ -43,6 +44,19 @@ app.get('/', async (c) => {
     db.select({ n: count() }).from(schema.subscribers).where(and(isNull(schema.subscribers.unsubscribedAt), gt(schema.subscribers.createdAt, weekStart))),
     db.select({ n: count() }).from(schema.subscribers).where(and(isNull(schema.subscribers.unsubscribedAt), gt(schema.subscribers.createdAt, monthStart))),
     db.select({ n: count() }).from(schema.subscribers).where(isNull(schema.subscribers.unsubscribedAt)),
+    // Käufe + Revenue heute (status='paid')
+    db.select({ n: count() })
+      .from(schema.purchases)
+      .where(and(
+        gt(schema.purchases.createdAt, todayStart),
+        sql`${schema.purchases.status} = 'paid'`,
+      )),
+    db.execute<{ cents: number }>(sql`
+      SELECT COALESCE(SUM(amount_cents), 0)::bigint AS cents
+      FROM purchases
+      WHERE created_at > ${todayStart.toISOString()}::timestamptz
+        AND status = 'paid'
+    `),
   ]);
 
   // Unique-Counts für Traffic-KPIs (Bug #3: vorher wurde Array-Length vom Top-10 genutzt)
@@ -208,6 +222,18 @@ app.get('/', async (c) => {
         week: Number(nlWeek[0]?.n || 0),
         month: Number(nlMonth[0]?.n || 0),
         total: Number(nlTotal[0]?.n || 0),
+      },
+      // "Today"-Widget auf dem Admin-Dashboard braucht die heutigen Käufe +
+      // Revenue. Revenue als Cents (BIGINT), Frontend formatiert nach EUR.
+      purchases: {
+        today: Number(purchasesToday[0]?.n || 0),
+      },
+      revenue: {
+        todayCents: Number(
+          (revenueTodayRow as unknown as { rows?: Array<{ cents: number | string }> })?.rows?.[0]?.cents
+          ?? (revenueTodayRow as unknown as Array<{ cents: number | string }>)[0]?.cents
+          ?? 0,
+        ),
       },
     },
     topArticles: topArticles.map(a => ({ slug: a.path, count: Number(a.n) })),
