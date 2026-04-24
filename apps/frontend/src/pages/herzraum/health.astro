@@ -79,6 +79,65 @@ const withoutImage = stats.filter((s) => !s.hasImage);
 
 // Without FAQ (SEO-Schema-miss)
 const withoutFaq = stats.filter((s) => !s.hasFaq);
+
+// ─── Broken Internal Links ──────────────────────────────────
+// Scannt alle Article-Bodies nach /blog/* + /go/* Links und prüft ob
+// Targets existieren. Nur INTERNE Links — externe würden Network-Calls
+// brauchen (fragile, separater Endpoint).
+//
+// Set aller existierenden Slugs für O(1)-Lookup
+const existingSlugs = new Set(blog.map((e) => e.id));
+interface BrokenLink {
+  inArticle: string;    // Slug des Artikels der den broken-link hat
+  href: string;         // der kaputte Link
+  targetSlug: string;   // extracted slug
+}
+const brokenLinks: BrokenLink[] = [];
+// Regex matched: href="/blog/some-slug" oder href="/blog/some-slug/"
+//                 href="/some-slug" (catch-all pre-redirect)
+// KEIN externe http(s)://... scannen — separater Job.
+const HREF_RE = /href=(?:"|')([^"']+)(?:"|')/g;
+for (const article of blog) {
+  const body = (article as any).body || '';
+  HREF_RE.lastIndex = 0;
+  let m: RegExpExecArray | null;
+  while ((m = HREF_RE.exec(body)) !== null) {
+    const raw = m[1].trim();
+    if (!raw.startsWith('/')) continue; // nur interne
+    // Clean-Path: query + hash + trailing slash entfernen
+    const pathOnly = raw.split('?')[0].split('#')[0].replace(/\/+$/, '');
+    if (!pathOnly || pathOnly === '/') continue;
+
+    // /blog/<slug>
+    let blogMatch = pathOnly.match(/^\/blog\/([a-z0-9-]+)$/);
+    if (blogMatch) {
+      const targetSlug = blogMatch[1];
+      if (!existingSlugs.has(targetSlug)) {
+        brokenLinks.push({ inArticle: article.id, href: raw, targetSlug });
+      }
+      continue;
+    }
+    // Bare /<slug> — könnte ein Legacy-Link sein, check nur wenn's plausibel
+    // aussieht (nicht /ueber-uns, /impressum etc.)
+    // Wir skippen diese Check-Klasse um false-positives für Legacy-Static-Pages
+    // zu vermeiden. Nur /blog/* explicit.
+  }
+}
+// De-dup (gleicher kaputter Link in mehreren Artikeln → je Paar eine Row)
+const brokenLinkCount = brokenLinks.length;
+// Aggregieren: welcher target-Slug wird wie oft kaputt verlinkt?
+const brokenByTarget: Record<string, { count: number; sources: string[] }> = {};
+for (const bl of brokenLinks) {
+  const k = bl.targetSlug;
+  if (!brokenByTarget[k]) brokenByTarget[k] = { count: 0, sources: [] };
+  brokenByTarget[k].count++;
+  if (!brokenByTarget[k].sources.includes(bl.inArticle)) {
+    brokenByTarget[k].sources.push(bl.inArticle);
+  }
+}
+const brokenTargets = Object.entries(brokenByTarget)
+  .map(([slug, info]) => ({ targetSlug: slug, ...info }))
+  .sort((a, b) => b.count - a.count);
 ---
 <HerzraumLayout title="Content-Health & SEO" active="health">
   <div class="hz-card" style="padding: 1.5rem;">
@@ -115,7 +174,46 @@ const withoutFaq = stats.filter((s) => !s.hasFaq);
       <div class="hz-kpi-label">Desc zu lang (&gt;180)</div>
       <div class="hz-kpi-value" style={descLong.length > 0 ? 'color: #f59e0b;' : 'color: #16a34a;'}>{descLong.length}</div>
     </div>
+    <div class="hz-kpi">
+      <div class="hz-kpi-label">Broken Internal Links</div>
+      <div class="hz-kpi-value" style={brokenLinkCount > 0 ? 'color: var(--hz-danger);' : 'color: #16a34a;'}>{brokenLinkCount}</div>
+      <div class="hz-kpi-delta flat">auf {brokenTargets.length} Ziel-Slugs</div>
+    </div>
   </section>
+
+  {brokenLinkCount > 0 && (
+    <div class="hz-card" style="margin-top: 1rem; border-left: 4px solid var(--hz-danger);">
+      <h3 style="color: var(--hz-danger); margin: 0 0 0.5rem;">🔗❌ Broken Internal Links ({brokenLinkCount})</h3>
+      <p style="color: var(--hz-text-muted); font-size: 0.85rem; margin: 0 0 0.75rem;">
+        Links auf <code>/blog/&lt;slug&gt;</code> in deinen Artikeln, deren
+        Ziel-Slug <strong>nicht existiert</strong>. Entweder Tippfehler
+        oder der Ziel-Artikel wurde gelöscht.
+      </p>
+      <div style="max-height: 480px; overflow-y: auto;">
+        <table class="hz-table">
+          <thead><tr><th>Ziel-Slug (broken)</th><th>Anzahl Verweise</th><th>Quelle(n)</th></tr></thead>
+          <tbody>
+            {brokenTargets.slice(0, 100).map((bt) => (
+              <tr>
+                <td><code style="color: var(--hz-danger);">/blog/{bt.targetSlug}</code></td>
+                <td style="text-align: right; font-variant-numeric: tabular-nums;">{bt.count}</td>
+                <td style="font-size: 0.75rem; color: var(--hz-text-muted);">
+                  {bt.sources.slice(0, 3).map((src, i) => (
+                    <>
+                      {i > 0 && ', '}
+                      <a href={`/herzraum/artikel/edit/${src}`} style="color: var(--hz-primary);">{src}</a>
+                    </>
+                  ))}
+                  {bt.sources.length > 3 && <span> +{bt.sources.length - 3}</span>}
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+        {brokenTargets.length > 100 && <p style="font-size: 0.75rem; color: var(--hz-text-muted); margin-top: 0.5rem;">+{brokenTargets.length - 100} weitere Ziele — Top 100 angezeigt</p>}
+      </div>
+    </div>
+  )}
 
   <!-- Wort-Histogramm -->
   <div class="hz-card">
