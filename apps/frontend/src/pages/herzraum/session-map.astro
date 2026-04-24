@@ -9,6 +9,15 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
 ---
 <HerzraumLayout title="Live-Sessions" active="session-map">
 
+  <!-- Deploy-Status-Banner: erscheint wenn Backend-Endpoint (noch) 404 liefert.
+       Versteckt wenn Backend erreichbar — Page heilt sich selbst. -->
+  <div id="sm-deploy-banner" style="display: none; margin-bottom: 1rem; padding: 0.85rem 1rem; border-radius: 10px; background: rgba(245, 158, 11, 0.08); border-left: 4px solid #f59e0b; font-size: 0.85rem; color: var(--hz-text);">
+    ⏳ <strong>Backend-Deploy auf Railway läuft noch.</strong>
+    Die Live-Daten erscheinen automatisch sobald der neue Endpoint bereit ist
+    (Poll alle 5 Sek). Kein Handlungsbedarf — einfach warten oder die Page
+    offen lassen.
+  </div>
+
   <!-- Row 1: KPI-Tiles -->
   <section class="hz-kpi-grid" style="margin-bottom: 1rem;">
     <div class="hz-kpi hz-live">
@@ -181,19 +190,38 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
       };
 
       let seenIds = new Set();
+      let consecutiveErrors = 0;
 
       async function tick() {
         let data;
         try {
-          const res = await fetch('/api/herzraum/session-map-live');
+          const res = await fetch('/api/herzraum/session-map-live', { cache: 'no-store' });
+          if (res.status === 404) {
+            // Backend-Route fehlt → Deploy noch nicht durch. Freundlicher
+            // Hinweis statt Fehlermeldung; Poll läuft weiter und erkennt
+            // automatisch wenn der Endpoint erscheint.
+            consecutiveErrors++;
+            const upEl = document.getElementById('sm-updated');
+            if (upEl) {
+              upEl.textContent = '⏳ Backend-Deploy läuft noch… (retry alle 5s)';
+              upEl.style.color = '#f59e0b';
+            }
+            const banner = document.getElementById('sm-deploy-banner');
+            if (banner) banner.style.display = 'block';
+            return;
+          }
           if (!res.ok) throw new Error('HTTP ' + res.status);
           data = await res.json();
           if (!data.ok) throw new Error(data.error || 'backend');
+          consecutiveErrors = 0;
+          const banner = document.getElementById('sm-deploy-banner');
+          if (banner) banner.style.display = 'none';
         } catch (err) {
+          consecutiveErrors++;
           console.error('[session-map] fetch failed:', err);
           const el = document.getElementById('sm-updated');
           if (el) {
-            el.textContent = '⚠ Fehler: ' + (err && err.message || 'unbekannt');
+            el.textContent = '⚠ Fehler: ' + (err && err.message || 'unbekannt') + ' (retry ' + consecutiveErrors + ')';
             el.style.color = 'var(--hz-danger)';
           }
           return;
