@@ -42,6 +42,19 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
     <button class="hz-btn" data-clear="daily-stats">🧹 Stats-Cache leeren</button>
   </div>
 
+  <div class="hz-card">
+    <h3>💾 Backup-Export</h3>
+    <p style="color: var(--hz-text-muted); font-size: 0.85rem; margin-bottom: 0.75rem;">
+      Zieht einen JSON-Snapshot aller wichtigen Tabellen (Subscribers, Verkäufe ohne raw_payload, Todos, Newsletter-Broadcasts, Audit-Log letzte 30 Tage, Produkte, Redirects). <strong>Offline speichern</strong> — Railway-Hobby hat keine Point-in-Time-Recovery.
+    </p>
+    <div class="hz-row" style="gap: 0.5rem; flex-wrap: wrap;">
+      <button class="hz-btn" id="backup-preview">Counts anzeigen</button>
+      <button class="hz-btn primary" id="backup-download">📥 Backup herunterladen</button>
+      <span id="backup-status" style="font-size: 0.85rem; color: var(--hz-text-muted);"></span>
+    </div>
+    <pre id="backup-summary" style="display: none; margin-top: 0.75rem; padding: 0.75rem; background: var(--hz-surface-2); border-radius: 6px; font-size: 0.75rem; color: var(--hz-text); overflow-x: auto;"></pre>
+  </div>
+
   <div class="hz-card" style="border-color: rgba(239,68,68,0.4);">
     <h3 style="color: var(--hz-danger);">⚠ Gefahrenzone</h3>
     <p style="color: var(--hz-text-muted); font-size: 0.85rem; margin-bottom: 1rem;">
@@ -67,6 +80,61 @@ import HerzraumLayout from '../../layouts/HerzraumLayout.astro';
 
   <script is:inline>
     (function() {
+      // Backup-Preview: counts vom Backend holen
+      const btnPreview = document.getElementById('backup-preview');
+      const btnDownload = document.getElementById('backup-download');
+      const statusEl = document.getElementById('backup-status');
+      const summaryEl = document.getElementById('backup-summary');
+
+      if (btnPreview) btnPreview.addEventListener('click', async () => {
+        statusEl.textContent = 'Lade Counts…';
+        statusEl.style.color = 'var(--hz-text-muted)';
+        try {
+          const res = await fetch('/api/herzraum/backup/summary');
+          const data = await res.json();
+          if (data.ok) {
+            summaryEl.style.display = 'block';
+            summaryEl.textContent = JSON.stringify(data, null, 2);
+            statusEl.textContent = '';
+          } else {
+            statusEl.textContent = 'Fehler beim Laden';
+            statusEl.style.color = 'var(--hz-danger)';
+          }
+        } catch (err) {
+          statusEl.textContent = 'Netzwerk-Fehler';
+          statusEl.style.color = 'var(--hz-danger)';
+        }
+      });
+
+      if (btnDownload) btnDownload.addEventListener('click', async () => {
+        btnDownload.disabled = true;
+        btnDownload.textContent = 'Generiere Backup…';
+        statusEl.textContent = '';
+        try {
+          const res = await fetch('/api/herzraum/backup');
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          const blob = await res.blob();
+          // Filename aus Content-Disposition ziehen, sonst Fallback
+          const cd = res.headers.get('content-disposition') || '';
+          const m = cd.match(/filename="?([^";]+)"?/);
+          const filename = m ? m[1] : 'herzblatt-backup-' + new Date().toISOString().slice(0,10) + '.json';
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement('a');
+          a.href = url; a.download = filename;
+          document.body.appendChild(a); a.click(); document.body.removeChild(a);
+          URL.revokeObjectURL(url);
+          const sizeMb = (blob.size / 1024 / 1024).toFixed(2);
+          statusEl.textContent = '✓ Heruntergeladen (' + sizeMb + ' MB). Offline speichern!';
+          statusEl.style.color = '#10b981';
+        } catch (err) {
+          statusEl.textContent = 'Fehler: ' + (err && err.message || 'Unbekannt');
+          statusEl.style.color = 'var(--hz-danger)';
+        } finally {
+          btnDownload.disabled = false;
+          btnDownload.textContent = '📥 Backup herunterladen';
+        }
+      });
+
       // Passwort verifizieren
       document.getElementById('verify-form').addEventListener('submit', async (e) => {
         e.preventDefault();
