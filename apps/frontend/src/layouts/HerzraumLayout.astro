@@ -847,11 +847,22 @@ const navSections = [
       async function loadArticles() {
         if (articlesCache) return articlesCache;
         try {
-          // Artikel müssen wir vom Astro-Content serverside-rendern.
-          // Hier client-side → holen aus /herzraum/artikel-HTML (hacky), besser: über API.
-          // Fallback: leere Liste
+          // SSR-Endpoint nutzt getCollection('blog') direkt — viel schneller
+          // als GitHub-Contents-Listing. Wird einmal pro Session gecached.
+          const res = await fetch('/api/herzraum/articles/search?limit=200');
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          const data = await res.json();
+          articlesCache = (data.articles || []).map((a) => ({
+            type: 'artikel',
+            title: a.title || a.slug,
+            slug: a.slug,
+            href: '/blog/' + a.slug,
+            meta: a.pubDate,
+          }));
+        } catch (err) {
+          console.error('[cmdk] loadArticles failed:', err);
           articlesCache = [];
-        } catch { articlesCache = []; }
+        }
         return articlesCache;
       }
 
@@ -915,10 +926,11 @@ const navSections = [
 
       let currentItems = [];
       async function search(q) {
-        const products = await loadProducts();
-        const all = [...pages, ...products];
+        // Artikel + Produkte parallel laden (cached nach erstem Call)
+        const [products, articles] = await Promise.all([loadProducts(), loadArticles()]);
+        const all = [...pages, ...products, ...articles];
         currentItems = q
-          ? all.filter(i => fuzzyMatch(q, i.title))
+          ? all.filter(i => fuzzyMatch(q, i.title) || (i.slug && fuzzyMatch(q, i.slug)))
           : pages.slice(0, 10);
         selectedIdx = 0;
         render(currentItems);
