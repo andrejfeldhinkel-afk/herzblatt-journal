@@ -1,5 +1,5 @@
 ---
-title: "Date Night zuhause: 30 Ideen"
+title: "Date Night zuhause: 30 Ideen für unvergessliche Abende daheim"
 description: "30 kreative Date-Night-Ideen für zuhause. Von Kochkursen bis Filmabenden – mach deine Wohnung zum perfekten Ort für Romantik und Verbindung."
 keywords: ["date night zuhause", "ratgeber", "date night", "night zuhause:", "zuhause: ideen"]
 date: 2025-06-22

@@ -1,5 +1,5 @@
 ---
-title: "Quality Time vs Quantity Time"
+title: "Quality Time vs Quantity Time: Die richtige Balance in der Beziehung"
 description: "Verstehen Sie den Unterschied zwischen Qualitäts- und Quantitätszeit in Beziehungen. Praktische Tipps für mehr Nähe trotz weniger Zeit zusammen."
 date: 2026-03-16
 tags: ["Beziehung", "Date-Ideen", "Intimität"]

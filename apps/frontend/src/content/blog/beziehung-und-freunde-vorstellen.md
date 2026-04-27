@@ -1,5 +1,5 @@
 ---
-title: "Den Partner den Freunden vorstellen: Wann und wie"
+title: "Den Partner den Freunden vorstellen: Der nächste große Schritt"
 description: "Den Partner den Freunden vorstellen — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
 date: 2026-03-03
 tags:

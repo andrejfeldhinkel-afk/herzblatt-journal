@@ -1,5 +1,5 @@
 ---
-title: "Wenn der Partner nicht streiten kann"
+title: "Wenn dein Partner nicht streiten kann: Wie du damit umgehen kannst"
 description: "Was tun, wenn Dein Partner Konflikte vermeidet? Strategien für Paare, wenn einer nicht diskutieren kann."
 date: 2026-03-16
 tags: ["Beziehung", "Kommunikation", "Konflikte", "Ratgeber"]

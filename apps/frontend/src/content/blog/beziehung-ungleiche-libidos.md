@@ -1,5 +1,5 @@
 ---
-title: "Die Unterschiedliche Libido"
+title: "Unterschiedliche Libido in der Beziehung: Wenn die Lust auseinandergeht"
 description: "Die Unterschiedliche Libido: Praktische Tipps und psychologische Einblicke für eine erfüllte Beziehung. Jetzt lesen auf Herzblatt Journal."
 date: 2026-03-06
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Dating als Veganer/in"
+title: "Dating als Veganer/in: Wenn Ernährung zur Beziehungs-Frage wird"
 description: "Dating als Veganer: Wie du Partner findest und mit unterschiedlichen Ernährungsüberzeugungen in einer Beziehung umgehen kannst."
 date: 2025-04-27
 updated: 2026-04-15

@@ -1,5 +1,5 @@
 ---
-title: "Coming Out in der Beziehung"
+title: "Coming Out in der Beziehung: Wenn du merkst, dass du queer bist"
 description: "Du merkst in einer Partnerschaft, dass du queer bist? Ein ehrlicher, hilfreicher Ratgeber für diese komplexe Situation — mit Liebe, Klarheit und..."
 date: 2026-03-17
 image: "/images/blog/coming-out-in-beziehung.webp"

@@ -1,5 +1,5 @@
 ---
-title: "Beziehungspause: Wann sie sinnvoll ist, klare Regeln und was"
+title: "Beziehungspause: Wann sie sinnvoll ist, klare Regeln und was sie bringt"
 description: "Beziehungspause richtig machen: Wann sie Sinn ergibt, welche Regeln ihr braucht und warum sie eure Beziehung retten oder beenden kann — der ehrliche Guide."
 date: 2025-03-30
 updated: 2026-04-15

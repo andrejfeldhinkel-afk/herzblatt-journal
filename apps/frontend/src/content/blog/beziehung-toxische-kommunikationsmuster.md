@@ -1,5 +1,5 @@
 ---
-title: "Die 4 apokalyptischen Reiter"
+title: "Die 4 apokalyptischen Reiter – Toxische Kommunikation nach Gottman"
 description: "Die 4 apokalyptischen Reiter: Erfahre mehr über die komplexen Auswirkungen und wie du dich heilen kannst."
 date: 2026-03-16
 tags: ["Beziehung", "Psychologie", "Selbstliebe"]

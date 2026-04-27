@@ -1,5 +1,5 @@
 ---
-title: "Beziehung und Freundschaften"
+title: "Beziehung und Freundschaften: So findest du die richtige Balance"
 description: "Wie du Beziehung und Freundschaften erfolgreich vereinbarst? Unsere Tipps zeigen dir."
 author: laura-weber
 image: "/images/blog/beziehung-und-freundschaften-balance.webp"

@@ -1,5 +1,5 @@
 ---
-title: "Beziehung und Kinderwunsch"
+title: "Beziehung und Kinderwunsch: Wenn einer will und der andere nicht"
 description: "Ein praktischer Guide für Paare mit unterschiedlichem Kinderwunsch. Lerne, wie du offen mit deinem Partner über dieses sensible Thema sprichst."
 author: sarah-kellner
 image: "/images/blog/beziehung-und-kinderwunsch-guide.webp"

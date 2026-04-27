@@ -1,5 +1,5 @@
 ---
-title: "Dating ab 40: Neustart"
+title: "Dating ab 40: Neustart der Liebe nach Trennung oder Scheidung"
 description: "Dating ab 40 — Dein umfassender Ratgeber auf Herzblatt Journal. Praktische Tipps und Expertenwissen für die Liebe."
 keywords: ["dating ab 40", "lebensphasen", "neuanfang", "dating neustart"]
 tags: ["Lebensphasen", "Neuanfang"]

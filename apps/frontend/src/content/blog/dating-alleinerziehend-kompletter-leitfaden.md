@@ -1,5 +1,5 @@
 ---
-title: "Dating als Alleinerziehende/r"
+title: "Dating als Alleinerziehende/r: Der komplette Leitfaden für den Neustart"
 description: "Lerne die Geheimisse für erfolgreiches Dating als Alleinerziehende/r – von der Zeitmangement bis zur Partnerauswahl."
 image: "/images/blog/dating-alleinerziehend-kompletter-leitfaden.webp"
 imageAlt: "Ein glückliches alleinerziehend Elternteil auf einem Date mit neuem Partner"

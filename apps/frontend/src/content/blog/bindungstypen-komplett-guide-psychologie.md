@@ -1,5 +1,5 @@
 ---
-title: "Bindungstypen verstehen"
+title: "Bindungstypen verstehen: Der wissenschaftliche Komplett-Guide"
 description: "Entdecke deine Bindungstypen und verstehe, wie sie deine Beziehungen prägen. Ein umfassender Guide zu sicheren, ängstlichen, vermeidenden und..."
 date: 2026-03-17
 tags: ["Bindungstypen", "Psychologie", "Selbstliebe"]

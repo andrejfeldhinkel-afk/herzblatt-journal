@@ -1,5 +1,5 @@
 ---
-title: 'Dating als schüchterner Mann'
+title: "Dating als schüchterner Mann: Stärken nutzen statt verstecken"
 description: "Dating als schüchterner Mann — Die besten Tipps und Strategien für erfolgreiches Dating. Authentisch, ehrlich und auf Augenhöhe."
 date: 2026-03-01
 tags:

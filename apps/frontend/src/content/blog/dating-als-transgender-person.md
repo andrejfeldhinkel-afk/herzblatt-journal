@@ -1,5 +1,5 @@
 ---
-title: "Dating als Transgender-Person"
+title: "Dating als Transgender-Person – Authentisch lieben und geliebt werden"
 description: "Die einzigartigen Herausforderungen beim Dating als trans Person: Disclosure, Sicherheit, Selbstwert und die Suche nach echten Partnern, die dich..."
 date: 2026-03-16
 tags: ["Dating", "LGBTQ+", "Selbstliebe"]

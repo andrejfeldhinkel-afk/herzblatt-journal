@@ -1,5 +1,5 @@
 ---
-title: "Beziehung und Auswanderung"
+title: "Beziehung und Auswanderung: Liebe trotz Umzug ins Ausland retten"
 description: "Beziehung und Auswanderung — Erfahre bewährte Strategien und Expertentipps für eine glücklichere, stärkere Partnerschaft im Alltag."
 date: 2026-03-16
 tags: ["Beziehung", "Fernbeziehung", "Lifestyle"]
