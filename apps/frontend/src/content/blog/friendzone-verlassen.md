@@ -2,7 +2,7 @@
 title: "Friendzone verlassen: So wird aus Freundschaft mehr"
 description: "Kann man aus der Friendzone entkommen? Ein ehrlicher Guide zu Gefühlen, Grenzen und realistischen Erwartungen."
 date: 2026-04-06
-image: "/images/photos/friendzone-verlassen.webp"
+image: "/images/blog/friendzone-entkommen-guide.webp"
 tags:
   - "Dating"
   - "Beziehung"

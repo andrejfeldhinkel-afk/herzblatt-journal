@@ -8,7 +8,7 @@ tags:
   - "Psychologie"
   - "Selbstliebe"
 featured: false
-image: "/images/photos/ghosting-umgehen.webp"
+image: "/images/blog/ghosting-umgehen-tipps.webp"
 imageAlt: "Ghosting verstehen und damit umgehen: Psychologie und Heilung"
 faq:
   - question: "Was ist Ghosting beim Dating eigentlich?"

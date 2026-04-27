@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Heilung"
   - "Beziehung"
-image: "/images/photos/hb-earned-secure-attachment.webp"
+image: "/images/blog/attachment-theory-einfach-erklaert.webp"
 imageAlt: "Paar lehnt sich aneinander im Sonnenuntergang als Symbol für verdiente sichere Bindung"
 keywords: ["earned secure attachment", "verdiente sichere bindung", "bindungsstil ändern", "unsicher zu sicher gebunden", "bindungsheilung"]
 draft: false

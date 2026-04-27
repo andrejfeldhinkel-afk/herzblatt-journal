@@ -2,7 +2,7 @@
 title: "Konstruktiv streiten als Paar: 10 Regeln fairer Konflikte"
 description: "Konflikte sind normal. Konstruktiv streiten ist eine Fähigkeit. Lerne die 10 Regeln für faire Kämpfe, die euch näher bringen."
 date: 2026-04-06
-image: "/images/photos/konstruktiv-streiten-paare.webp"
+image: "/images/blog/beziehung-rituale-paare-staerken.webp"
 tags:
   - "Beziehung"
   - "Kommunikation"

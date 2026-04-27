@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Heilung"
-image: "/images/photos/hb-dissoziation-portrait.webp"
+image: "/images/blog/beziehung-nach-baby-guide.webp"
 imageAlt: "Nachdenklicher junger Mann als Symbol für Dissoziation und emotionale Abwesenheit"
 keywords: ["dissoziation beziehung", "emotional abschalten beziehung", "depersonalisation partnerschaft", "dissoziation bei nähe", "nicht fühlen können beziehung"]
 draft: false

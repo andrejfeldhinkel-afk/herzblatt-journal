@@ -13,7 +13,7 @@ keywords:
   - "dating angst überwinden"
   - "selbstbewusster daten"
 draft: false
-image: "/images/photos/schuechternheit-dating.webp"
+image: "/images/blog/schuechternheit-ueberwinden-dating.webp"
 imageAlt: "Schüchternes Lächeln beim Date"
 faq:
   - question: "Kann man trotz Schüchternheit erfolgreich daten?"

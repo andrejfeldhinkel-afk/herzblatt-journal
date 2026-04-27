@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Kommunikation"
-image: "/images/photos/hb-secure-base-therapie.webp"
+image: "/images/blog/dating-als-alleinerziehende-mutter-guide.webp"
 imageAlt: "Therapiesitzung von oben symbolisiert den sicheren Hafen in der Partnerschaft"
 keywords: ["secure base beziehung", "safe haven partnerschaft", "sichere basis beziehung", "bowlby erwachsene", "sicherer hafen partner"]
 draft: false

@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Heilung"
-image: "/images/photos/hb-freeze-response-erstarren.webp"
+image: "/images/blog/fawn-response-beziehung-guide.webp"
 imageAlt: "Mann sitzt allein und nachdenklich in einem Stuhl als Symbol für die Freeze-Reaktion"
 keywords: ["freeze response beziehung", "erstarren bei konflikten", "freeze trauma reaktion", "ich kann nicht mehr reden streit", "shutdown beziehung"]
 draft: false

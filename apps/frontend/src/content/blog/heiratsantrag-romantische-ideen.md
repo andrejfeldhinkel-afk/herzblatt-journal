@@ -2,7 +2,7 @@
 title: "Heiratsantrag: 25 romantische Ideen, die bleiben"
 description: "25 einzigartige und romantische Heiratsantrags-Ideen von klassisch bis kreativ. Mit praktischen Tipps für den perfekten Moment."
 date: 2026-04-06
-image: "/images/photos/heiratsantrag-romantische-ideen.webp"
+image: "/images/blog/heiratsantrag-planen-ideen.webp"
 tags:
   - "Dating"
   - "Beziehung"

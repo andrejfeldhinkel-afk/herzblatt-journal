@@ -7,7 +7,7 @@ tags:
   - "Beziehung"
   - "Heilung"
   - "Selbstliebe"
-image: "/images/photos/hb-ifs-innere-anteile.webp"
+image: "/images/blog/kommunikationsprobleme-beziehung.webp"
 imageAlt: "Eltern- und Kinderhand berühren sich symbolisch für innere Anteile in der IFS-Therapie"
 keywords: ["ifs therapie", "internal family systems", "teile arbeit beziehung", "innere anteile", "self therapy", "richard schwartz"]
 draft: false

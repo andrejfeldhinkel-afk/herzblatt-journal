@@ -2,7 +2,7 @@
 title: "Komplizierte Beziehung klären: Ehrlichkeit statt Drama"
 description: "Deine Beziehung ist unklar? Lerne, wie du die kniffligen Gespräche führst und echte Klarheit schaffst – ohne Drama."
 date: 2026-04-06
-image: "/images/photos/komplizierte-beziehung-klaeren.webp"
+image: "/images/blog/beziehung-nach-vertrauensmissbrauch.webp"
 tags:
   - "Beziehung"
   - "Kommunikation"

@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Red Flags"
   - "Beziehung"
-image: "/images/photos/hb-verdeckter-narzissmus-distanz.webp"
+image: "/images/blog/narzissmus-dating-erkennen.webp"
 imageAlt: "Frustriertes Paar auf Parkbank zeigt emotionale Distanz bei verdecktem Narzissmus"
 keywords: ["verdeckter narzissmus", "covert narcissism beziehung", "vulnerabler narzissmus", "verdeckter narzisst erkennen", "stiller narzissmus partner"]
 draft: false

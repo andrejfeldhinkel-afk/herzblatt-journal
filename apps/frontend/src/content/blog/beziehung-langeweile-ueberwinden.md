@@ -12,7 +12,7 @@ keywords:
   - "beziehung aufpeppen"
   - "routine beziehung durchbrechen"
 draft: false
-image: "/images/photos/beziehung-auffrischen.webp"
+image: "/images/blog/co-abhaengigkeit-beziehung.webp"
 imageAlt: "Paar sitzt gelangweilt auf dem Sofa"
 faq:
   - question: "Was ist Beziehungs-Langeweile?"

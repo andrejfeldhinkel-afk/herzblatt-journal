@@ -2,7 +2,7 @@
 title: "Emotional nicht verfügbar: Partner erkennen und reagieren"
 description: "Wie du emotionale Nicht-Verfügbarkeit erkennst, was sie bedeutet und wie du mit einem emotional wenig verfügbaren Partner umgehst."
 date: 2026-04-06
-image: "/images/photos/emotional-nicht-verfuegbar-partner.webp"
+image: "/images/blog/partner-verschieden-politisch.webp"
 tags:
   - "Beziehung"
   - "Psychologie"

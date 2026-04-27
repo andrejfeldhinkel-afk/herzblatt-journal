@@ -2,7 +2,7 @@
 title: "Sexuelle Anziehung wiederherstellen: Wenn das Feuer erlischt"
 description: "Sexuelle Anziehung kann schwinden. Erfahre, wie du die Lust in deiner Beziehung wieder zündest und intensive Intimität aufbaust."
 date: 2026-04-06
-image: "/images/photos/sexuelle-anziehung-wiederherstellen.webp"
+image: "/images/blog/koerpersprache-anziehung-signale.webp"
 tags:
   - "Intimität"
   - "Beziehung"

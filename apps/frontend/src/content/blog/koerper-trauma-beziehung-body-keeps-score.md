@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Heilung"
   - "Beziehung"
-image: "/images/photos/hb-koerper-trauma-yoga.webp"
+image: "/images/blog/beziehung-auffrischen-ideen.webp"
 imageAlt: "Yoga-Klasse als Symbol für körperbasierte Traumaheilung nach The Body Keeps the Score"
 keywords: ["body keeps the score deutsch", "trauma im körper", "bessel van der kolk", "körper trauma beziehung", "somatisches trauma heilen"]
 draft: false

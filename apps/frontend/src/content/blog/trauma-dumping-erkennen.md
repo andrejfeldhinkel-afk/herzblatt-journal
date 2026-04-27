@@ -2,7 +2,7 @@
 title: "Trauma Dumping erkennen: Wenn Reden zur Belastung wird"
 description: "Erkenne, wann Offenheit zur Belastung wird. Praktischer Guide zu gesunder Kommunikation statt emotionaler Überforderung."
 date: 2026-04-06
-image: "/images/photos/trauma-dumping-erkennen.webp"
+image: "/images/blog/trauma-bonding-erkennen-loesen-guide.webp"
 tags:
   - "Psychologie"
   - "Kommunikation"

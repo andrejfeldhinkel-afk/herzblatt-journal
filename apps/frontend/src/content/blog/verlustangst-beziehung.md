@@ -11,7 +11,7 @@ keywords:
   - "angst partner zu verlieren"
   - "klammern beziehung"
 draft: false
-image: "/images/photos/bindungsangst-erkennen.webp"
+image: "/images/blog/verlustangst-beziehung.webp"
 imageAlt: "Verlustangst in der Beziehung"
 faq:
   - question: "Was ist das Wichtigste bei verlustangst in der beziehung?"

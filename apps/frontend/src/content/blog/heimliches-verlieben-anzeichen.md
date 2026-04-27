@@ -10,7 +10,7 @@ keywords:
   - "bin ich verliebt test"
   - "verliebtsein erkennen"
 draft: false
-image: "/images/photos/anzeichen-interesse.webp"
+image: "/images/blog/heimliches-verlieben-anzeichen.webp"
 imageAlt: "Heimlich verliebt? 15 Anzeichen, die dich verraten"
 faq:
   - question: "Was ist das Wichtigste bei heimlich verliebt? 15 anzeichen, die dich verraten?"

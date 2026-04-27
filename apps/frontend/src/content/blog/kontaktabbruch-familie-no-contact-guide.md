@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Heilung"
   - "Selbstliebe"
-image: "/images/photos/hb-kontaktabbruch-allein.webp"
+image: "/images/blog/no-contact-narzisst-durchhalten.webp"
 imageAlt: "Person geht allein durch eine Stadt bei Sonnenuntergang als Symbol für Kontaktabbruch"
 keywords: ["kontaktabbruch familie", "no contact eltern", "toxische familie abgrenzen", "kontaktabbruch narzisst mutter", "familienentfremdung"]
 draft: false
