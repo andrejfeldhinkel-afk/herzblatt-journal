@@ -2,7 +2,7 @@
 title: "Senioren-Online-Dating 2026: Welche Plattformen wirklich funktionieren (jenseits von Tinder)"
 description: "Senioren-Online-Dating 2026: Vergleich der besten Plattformen ab 60, Profil-Tipps, Scam-Schutz und Schritt-fuer-Schritt-Einstieg in die digitale Partnersuche."
 date: 2026-04-27
-image: "/images/blog/dating-ab-60-liebe-alter.webp"
+image: "/images/blog/online-dating-fuer-senioren.webp"
 imageAlt: "Senioren Online-Dating"
 tags:
   - "Online-Dating"

@@ -2,7 +2,7 @@
 title: "Ueber Sex reden lernen: Der Leitfaden fuer Paare die nie wirklich darueber sprechen"
 description: "Ueber Sex reden lernen: Praxis-Leitfaden fuer Paare mit Gespraechs-Frameworks, sicheren Raeumen und konkreten Saetzen, die wirklich helfen."
 date: 2026-04-27
-image: "/images/blog/keine-lust-auf-sex-beziehung.webp"
+image: "/images/blog/beziehung-ohne-sex.webp"
 imageAlt: "Sex-Talk Paare"
 tags:
   - "Intimitaet"

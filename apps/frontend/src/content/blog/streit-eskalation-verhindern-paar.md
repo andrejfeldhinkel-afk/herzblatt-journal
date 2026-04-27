@@ -2,7 +2,7 @@
 title: "Streit-Eskalation stoppen: 7 Techniken für ruhigere Auseinandersetzungen"
 description: "Wenn Streit immer eskaliert, liegt es selten am Thema. Hier sind 7 erprobte Techniken, mit denen ihr eure Auseinandersetzungen runterkocht - statt hochkochen lasst."
 date: 2026-04-24
-image: "/images/blog/streit-beziehung-richtig-loesen.webp"
+image: "/images/blog/beziehung-nach-grossem-streit.webp"
 imageAlt: "Streit deeskalieren"
 tags:
   - "Kommunikation"

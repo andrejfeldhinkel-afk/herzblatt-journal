@@ -2,7 +2,7 @@
 title: "Partner mit Depression: Wie du wirklich helfen kannst (ohne dich selbst zu verlieren)"
 description: "Wie hilfst du einem Partner mit Depression, ohne selbst zu erschoepfen? Konkrete Tipps, eigene Grenzen wahren und wann professionelle Hilfe Pflicht ist."
 date: 2026-04-24
-image: "/images/blog/beziehung-depression-partner.webp"
+image: "/images/blog/aktives-zuhoeren-partner.webp"
 imageAlt: "Partner mit Depression"
 tags:
   - "Beziehung"

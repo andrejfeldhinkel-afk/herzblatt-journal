@@ -5,7 +5,7 @@ date: 2026-04-26
 author: laura-weber
 tags: ["Date-Ideen", "Lifestyle", "Dating"]
 keywords: ["romantische restaurants hamburg", "beste date restaurants hamburg", "date essen hamburg"]
-image: "/images/blog/dating-hamburg-komplett-guide.webp"
+image: "/images/blog/aengstlicher-bindungsstil-heilen.webp"
 imageAlt: "Romantische Restaurants Hamburg"
 ---
 

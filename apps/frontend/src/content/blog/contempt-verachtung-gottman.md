@@ -2,7 +2,7 @@
 title: "Contempt in der Beziehung: Warum Verachtung der #1 Scheidungs-Prädiktor ist (Gottman)"
 description: "Contempt erkennen und stoppen: Warum Verachtung laut John Gottman Scheidungen besser vorhersagt als alles andere — und wie ihr ausbrecht."
 date: 2026-04-21
-image: "/images/blog/gottman-5-zu-1-regel.webp"
+image: "/images/blog/gottman-vier-apokalyptische-reiter-guide.webp"
 imageAlt: "Zwei Personen rücken einander ab — Symbol für Contempt"
 tags:
   - "Gottman"

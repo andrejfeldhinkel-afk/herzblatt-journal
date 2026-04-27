@@ -5,7 +5,7 @@ date: 2026-04-26
 author: laura-weber
 tags: ["Date-Ideen", "Lifestyle", "Dating"]
 keywords: ["romantische restaurants muenchen", "beste date restaurants muenchen", "date essen muenchen"]
-image: "/images/blog/dating-muenchen-komplett-guide.webp"
+image: "/images/blog/allein-vs-einsam.webp"
 imageAlt: "Romantische Restaurants Muenchen"
 ---
 

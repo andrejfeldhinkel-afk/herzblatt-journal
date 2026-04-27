@@ -2,7 +2,7 @@
 title: "Soft-Launching vs. Hard-Launching: Wann du deine Beziehung oeffentlich machst"
 description: "Soft-Launching oder Hard-Launching? Erfahre, wann du deine Beziehung auf Instagram zeigst, was beide Strategien bedeuten und welche zu euch passt."
 date: 2026-04-24
-image: "/images/blog/soft-launching-beziehung.webp"
+image: "/images/blog/attachment-styles-dating.webp"
 imageAlt: "Soft Launching Dating"
 tags:
   - "Dating"

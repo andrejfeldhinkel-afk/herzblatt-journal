@@ -2,7 +2,7 @@
 title: "Schwiegermutter im Grenz-Test: Wie du Boundaries setzt ohne Eskalation"
 description: "Schwiegermutter mischt sich ein? Hier erfährst du, wie du klare Grenzen setzt, welche Sätze wirklich helfen und wann ein Notfall-Plan nötig wird."
 date: 2026-04-27
-image: "/images/blog/beziehung-schwiegermutter-probleme.webp"
+image: "/images/blog/beziehung-fuehren-kompletter-guide.webp"
 imageAlt: "Schwiegermutter Grenzen"
 tags:
   - "Beziehung"

@@ -2,7 +2,7 @@
 title: "Grenzen setzen in der Beziehung: Der komplette Praxis-Guide mit 40 Formulierungen"
 description: "So setzt du gesunde Grenzen in deiner Beziehung — ohne Schuldgefühle und ohne den Partner zu verletzen. 40 konkrete Formulierungen."
 date: 2026-04-20
-image: "/images/blog/beziehung-grenzen-setzen-ohne-streit.webp"
+image: "/images/blog/beziehung-und-grenzen-setzen.webp"
 imageAlt: "Zwei Personen in respektvollem Gespräch — Symbol für gesunde Grenzen"
 tags:
   - "Kommunikation"

@@ -2,7 +2,7 @@
 title: "Silent Treatment: 7 kluge Reaktionen, wenn dein Partner dich bestraft mit Schweigen"
 description: "Silent Treatment erkennen und kontern: Die Psychologie hinter Schweigen als Waffe und 7 konkrete Gegenstrategien — ohne klein beizugeben."
 date: 2026-04-21
-image: "/images/blog/beziehung-schweigen-als-waffe.webp"
+image: "/images/blog/silent-treatment-beziehung.webp"
 imageAlt: "Paar sitzt in Stille mit abgewandten Köpfen — Symbol für Silent Treatment"
 tags:
   - "Kommunikation"

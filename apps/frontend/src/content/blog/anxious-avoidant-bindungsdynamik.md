@@ -2,7 +2,7 @@
 title: "Anxious-Avoidant-Dynamik: Warum sich ängstliche und vermeidende Menschen anziehen — und zerstören"
 description: "Die Anxious-Avoidant-Falle erklärt: Warum ängstlich und vermeidend gebundene Menschen magisch zueinander finden und wie ihr den Zyklus durchbrecht."
 date: 2026-04-20
-image: "/images/blog/aengstlich-ambivalenter-bindungsstil.webp"
+image: "/images/blog/anxious-avoidant-trap.webp"
 imageAlt: "Zwei Menschen mit symbolischen Gummibändern — Anxious-Avoidant-Dynamik"
 tags:
   - "Bindungstheorie"

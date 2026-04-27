@@ -3,7 +3,7 @@ title: "Offline Dating: Beste Orte"
 description: "Offline Dating — Die besten Tipps und Strategien für erfolgreiches Dating. Authentisch, ehrlich und auf Augenhöhe."
 keywords: ["offline dating", "date ideen", "dating", "offline dating:", "dating: beste", "beste orte"]
 date: 2025-10-30
-image: "/images/blog/offline-dating-orte-kennenlernen.webp"
+image: "/images/blog/dating-bar-kennenlernen.webp"
 imageAlt: "Offline Dating: Beste Orte"
 tags: ["Date-Ideen", "Dating"]
 faq:

@@ -2,7 +2,7 @@
 title: "Witwer und neu verliebt: Wie du ohne Schuldgefuehle wieder lieben darfst"
 description: "Witwer und Dating: Du darfst nach dem Tod deiner Frau wieder lieben. Hier ist der ehrliche Guide zu Schuldgefuehlen, Trauer, Tempo und neuer Naehe."
 date: 2026-04-27
-image: "/images/blog/dating-nach-verwitwung-guide.webp"
+image: "/images/blog/dating-nach-30-tipps.webp"
 imageAlt: "Witwer Dating neue Liebe"
 tags:
   - "Heilung"

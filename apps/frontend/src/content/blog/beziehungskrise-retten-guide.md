@@ -2,7 +2,7 @@
 title: "Beziehungskrise retten: Der ehrliche 7-Schritte-Plan"
 description: "Beziehungskrise retten in 7 Schritten: konkreter Plan, was wirklich hilft, wann Therapie noetig ist und wann es Zeit ist loszulassen. Ehrliche Hilfe."
 date: 2026-04-24
-image: "/images/blog/beziehungskrise-phasen-guide.webp"
+image: "/images/blog/anxious-attachment-dating-strategie-guide.webp"
 imageAlt: "Beziehungskrise retten"
 tags:
   - "Beziehung"

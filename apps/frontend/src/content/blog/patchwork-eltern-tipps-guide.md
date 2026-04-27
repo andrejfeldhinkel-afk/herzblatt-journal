@@ -2,7 +2,7 @@
 title: "Patchwork-Eltern: Wie ihr Bonus-Kinder, Ex-Partner und Loyalitaetskonflikte managt"
 description: "Patchwork-Familie ist nicht easy. So managst du Bonus-Kinder, Ex-Partner und Loyalitaetskonflikte realistisch. Phasen, Strategien und Co-Parenting-Tipps."
 date: 2026-04-27
-image: "/images/blog/dating-mit-kindern-patchwork.webp"
+image: "/images/blog/patchwork-familie-dating.webp"
 imageAlt: "Patchwork-Eltern"
 tags:
   - "Beziehung"

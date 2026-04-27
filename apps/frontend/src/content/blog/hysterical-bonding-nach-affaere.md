@@ -2,7 +2,7 @@
 title: "Hysterical Bonding: Warum Paare nach einer Affäre plötzlich intensiven Sex haben"
 description: "Hysterical Bonding erklärt: Die Psychologie hinter übersteigerter Intimität nach dem Vertrauensbruch — chance oder Fluchtreaktion?"
 date: 2026-04-21
-image: "/images/blog/affaere-komplett-guide.webp"
+image: "/images/blog/beziehung-nach-affaere.webp"
 imageAlt: "Paar umarmt sich intensiv — Symbol für Hysterical Bonding"
 tags:
   - "Untreue"

@@ -3,7 +3,7 @@ title: "Partner überraschen: 25 kleine Gesten im Alltag"
 description: "Partner überraschen: Wie du echte Intimität aufbaust und eine tiefere Verbindung mit deinem Partner erlebst."
 keywords: ["partner überraschen", "intimität", "partner überraschen:", "überraschen: kleine", "kleine gesten", "gesten alltag"]
 date: 2025-12-10
-image: "/images/blog/partner-ueberraschen-alltag-kleine-gesten.webp"
+image: "/images/blog/beziehung-depression-partner.webp"
 imageAlt: "Partner überraschen: 25 kleine Gesten im Alltag"
 tags: ["Intimität"]
 faq:

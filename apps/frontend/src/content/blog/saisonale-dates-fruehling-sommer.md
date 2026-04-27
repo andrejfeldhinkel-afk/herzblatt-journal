@@ -3,7 +3,7 @@ title: "Saisonale Date-Ideen: Frühling und Sommer optimal nutzen"
 description: "Saisonale Date-Ideen: Alles was du wissen musst, um beim Dating selbstbewusst aufzutreten und die richtige Person zu finden."
 keywords: ["saisonale date-ideen", "dating", "date ideen", "saisonale date-ideen:", "date-ideen: frühling", "frühling sommer"]
 date: 2025-12-02
-image: "/images/blog/saisonale-dates-fruehling-sommer.webp"
+image: "/images/blog/dating-app-matches-keine-dates.webp"
 imageAlt: "Saisonale Date-Ideen: Frühling und Sommer optimal nutzen"
 tags: ["Dating", "Date-Ideen"]
 faq:

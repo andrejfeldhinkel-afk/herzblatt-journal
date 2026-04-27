@@ -5,7 +5,7 @@ date: 2026-04-26
 author: laura-weber
 tags: ["Date-Ideen", "Lifestyle", "Dating"]
 keywords: ["romantische restaurants berlin", "beste date restaurants berlin", "date essen berlin"]
-image: "/images/blog/restaurant-dates-perfekt-planen.webp"
+image: "/images/blog/abenteuer-dates-adrenalin.webp"
 imageAlt: "Romantische Restaurants Berlin"
 ---
 

@@ -6,7 +6,7 @@ tags:
   - "Beziehung"
   - "Psychologie"
   - "Red Flags"
-image: "/images/blog/beziehung-mit-narzisst-erkennen-komplett.webp"
+image: "/images/blog/beziehung-mit-sich-selbst.webp"
 imageAlt: "Person mit gespiegelt Spiegelbild – Symbolisierung von Narzissmus"
 keywords: ["Narzisst", "narzisstische Persönlichkeit", "Love Bombing", "Gaslighting", "Beziehung mit Narzisst", "Narzissmus erkennen", "Manipulation"]
 draft: false

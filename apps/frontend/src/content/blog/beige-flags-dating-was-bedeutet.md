@@ -2,7 +2,7 @@
 title: "Beige Flags beim Dating: 27 Beispiele + was sie wirklich bedeuten"
 description: "Beige Flags sind weder rot noch grün — sie sind einfach seltsam. 27 Beispiele, Psychologie & wann sie zum Problem werden."
 date: 2026-04-20
-image: "/images/blog/beige-flags-dating-guide.webp"
+image: "/images/blog/dating-fatigue-was-hilft.webp"
 imageAlt: "Beige Fahne weht neben roter und grüner — Symbol für Beige Flags im Dating"
 tags:
   - "Dating-Trends"

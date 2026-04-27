@@ -2,7 +2,7 @@
 title: "Zombieing: Wenn der Ex-Ghoster plötzlich wieder auftaucht"
 description: "Zombieing erklärt: Warum Ex-Partner nach Monaten Stille zurückkommen, psychologische Ursachen und wie du die perfekte Antwort findest."
 date: 2026-04-21
-image: "/images/blog/ab-wann-ist-es-ghosting.webp"
+image: "/images/blog/benching-dating-trend-erkennen.webp"
 imageAlt: "Handy-Bildschirm mit alter Nummer — Symbol für Zombieing"
 tags:
   - "Dating-Trends"

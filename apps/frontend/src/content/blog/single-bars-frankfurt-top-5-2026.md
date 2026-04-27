@@ -2,7 +2,7 @@
 title: "Single-Bars in Frankfurt: 5 Hotspots fuer Banker, Studenten und alle dazwischen"
 description: "Single-Bars in Frankfurt ehrlich erklaert: 5 Bar-Konzepte vom Bahnhofsviertel bis Sachsenhausen fuer Banker, Studenten und 30-plus-Singles 2026."
 date: 2026-04-27
-image: "/images/blog/dating-frankfurt-komplett-guide.webp"
+image: "/images/blog/dating-nach-langer-single-zeit.webp"
 imageAlt: "Single-Bars in Frankfurt"
 tags:
   - "Date-Ideen"

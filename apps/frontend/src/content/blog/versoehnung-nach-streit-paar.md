@@ -2,7 +2,7 @@
 title: "Versoehnung nach dem Streit: So findet ihr wieder zueinander"
 description: "Versoehnung nach Streit: Repair-Versuche nach Gottman, wirksame Rituale, wie ihr wieder zueinander findet - und wann ihr euch nicht versoehnen solltet."
 date: 2026-04-24
-image: "/images/blog/beziehung-nach-versoehnung.webp"
+image: "/images/blog/beziehung-retten-nach-streit.webp"
 imageAlt: "Versoehnung nach Streit"
 tags:
   - "Kommunikation"

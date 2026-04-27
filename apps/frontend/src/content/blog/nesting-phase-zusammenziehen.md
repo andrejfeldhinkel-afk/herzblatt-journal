@@ -2,7 +2,7 @@
 title: "Die Nesting-Phase: Was psychologisch passiert, wenn ihr zusammenzieht"
 description: "Nesting-Phase verstehen: Was beim Zusammenziehen im Kopf passiert, 9 typische Konflikte und wie ihr die Phase gemeinsam meistert."
 date: 2026-04-21
-image: "/images/blog/beziehung-zusammenziehen-checkliste.webp"
+image: "/images/blog/beziehung-fernbeziehung-zusammenziehen.webp"
 imageAlt: "Paar plant gemeinsame Wohnung — Symbol für Nesting-Phase in der Beziehung"
 tags:
   - "Beziehung"

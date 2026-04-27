@@ -2,7 +2,7 @@
 title: "Dating in Düsseldorf: Rhein-Romantik und Nachtleben"
 description: "Kompletter Dating-Guide für Düsseldorf: Altstadt, Medienhafen, Japanviertel, Events, rheinische Art."
 date: 2026-03-19
-image: "/images/blog/dating-duesseldorf-komplett-guide.webp"
+image: "/images/blog/breadcrumbing-dating-manipulation-guide.webp"
 imageAlt: "Düsseldorf Medienhafen bei Nacht mit Rhein und modernen Gebäuden"
 tags: ["Dating", "Lokales Dating"]
 keywords: ["Dating Düsseldorf", "Medienhafen", "Altstadt Düsseldorf", "First Date", "Japanviertel"]

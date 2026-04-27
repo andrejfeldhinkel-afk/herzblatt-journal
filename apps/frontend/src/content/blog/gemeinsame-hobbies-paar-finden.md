@@ -2,7 +2,7 @@
 title: "Gemeinsame Hobbies finden: 21 Ideen fuer Paare die mehr verbindet"
 description: "Gemeinsame Hobbies finden ist Beziehungsarbeit. 21 Ideen, eine Brainstorming-Methode und Strategien, um Kompromisse zu finden ohne Solo-Hobbys aufzugeben."
 date: 2026-04-27
-image: "/images/blog/beziehung-gemeinsame-hobbys-finden.webp"
+image: "/images/blog/beziehung-kompromisse-finden.webp"
 imageAlt: "Gemeinsame Hobbies Paar"
 tags:
   - "Beziehung"

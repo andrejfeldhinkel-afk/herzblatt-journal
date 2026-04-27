@@ -2,7 +2,7 @@
 title: "Trennungsjahr: Ablauf, Dauer und Checkliste für die Scheidung"
 description: "Trennungsjahr verständlich erklärt. Ablauf, Dauer, Fristen und eine praktische Checkliste für das Jahr vor der Scheidung. Wichtige Formalitäten im Überblick."
 date: 2026-04-24
-image: "/images/blog/scheidung-danach-dating-tipps.webp"
+image: "/images/blog/dating-standards-vs-checkliste.webp"
 imageAlt: "Trennungsjahr Ablauf"
 tags:
   - "Scheidung"

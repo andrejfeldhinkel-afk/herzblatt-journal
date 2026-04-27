@@ -2,7 +2,7 @@
 title: "Green Flags beim Dating: 12 Zeichen fuer einen wirklich guten Partner"
 description: "Welche Green Flags zeigen, dass du einen guten Partner gefunden hast? 12 positive Signale, die fuer eine gesunde Beziehung sprechen und auf was zu achten ist."
 date: 2026-04-24
-image: "/images/blog/dating-green-flags-erkennen-guide.webp"
+image: "/images/blog/dating-green-flags-guide.webp"
 imageAlt: "Green Flags beim Dating"
 tags:
   - "Dating"

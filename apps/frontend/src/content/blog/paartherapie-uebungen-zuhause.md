@@ -4,7 +4,7 @@ description: "15 effektive Paartherapie-Übungen für zuhause, die eure Beziehun
 date: 2025-12-15
 author: "sarah-kellner"
 draft: false
-image: "/images/blog/paartherapie-uebungen-zuhause.webp"
+image: "/images/blog/attachment-journal-uebungen.webp"
 imageAlt: "Ein Paar sitzt sich gegenüber in einer häuslichen Umgebung und praktiziert Paartherapie-Übungen miteinander"
 tags:
   - "Beziehung"

@@ -8,7 +8,7 @@ tags:
   - "Ratgeber"
 keywords: ["speed dating", "speed dating tipps", "speed dating erfahrungen", "speed dating fragen"]
 draft: false
-image: "/images/blog/speed-dating-guide-komplett.webp"
+image: "/images/blog/dating-als-alleinerziehende-mutter-guide.webp"
 imageAlt: "Speed Dating Guide Komplett"
 featured: false
 author: "markus-hoffmann"

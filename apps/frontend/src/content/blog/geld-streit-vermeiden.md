@@ -6,7 +6,7 @@ tags:
   - "Beziehung"
   - "Finanzen"
   - "Konflikte"
-image: "/images/blog/geld-streit-vermeiden.webp"
+image: "/images/blog/beziehung-streit-ueber-geld.webp"
 imageAlt: "Streit ums Geld vermeiden 2026: 8 Paar-Strategien"
 date: 2025-10-30
 author: "sarah-kellner"

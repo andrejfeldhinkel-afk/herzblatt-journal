@@ -2,7 +2,7 @@
 title: "Single-Bars in Berlin: 10 Locations wo du wirklich Singles triffst (ohne Tinder)"
 description: "Single-Bars in Berlin abseits der Apps: 10 ehrliche Empfehlungen nach Stadtviertel, Bar-Typ und Wochentag fuer echte Begegnungen 2026."
 date: 2026-04-27
-image: "/images/blog/dating-berlin-komplett-guide.webp"
+image: "/images/blog/dating-berlin.webp"
 imageAlt: "Single-Bars in Berlin"
 tags:
   - "Date-Ideen"

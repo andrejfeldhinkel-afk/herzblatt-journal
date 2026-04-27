@@ -2,7 +2,7 @@
 title: "Spiritual Bypassing: Wenn dein Partner Spiritualität als Waffe einsetzt"
 description: "Spiritual Bypassing erkennen: 9 Warnsignale, psychologische Ursachen und wie du dich aus toxisch-spirituellen Beziehungen löst."
 date: 2026-04-21
-image: "/images/blog/beziehung-mit-narzisst-erkennen-komplett.webp"
+image: "/images/blog/walking-red-flag-selbstreflexion-guide.webp"
 imageAlt: "Person hinter meditativer Fassade — Symbol für Spiritual Bypassing"
 tags:
   - "Red Flags"
