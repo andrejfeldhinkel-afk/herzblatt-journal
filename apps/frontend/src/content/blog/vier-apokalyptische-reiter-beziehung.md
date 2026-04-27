@@ -1,5 +1,5 @@
 ---
-title: "Die 4 apokalyptischen Reiter nach Gottman: Was deine"
+title: "Die 4 apokalyptischen Reiter nach Gottman: Was deine Beziehung zerstört"
 description: "Die vier Reiter von Gottman verstehen - Kritik, Verachtung, Defensivität, Stonewalling. Erkenne die Zeichen, bevor deine Beziehung zerbricht."
 date: 2025-12-15
 image: "/images/photos/vier-apokalyptische-reiter-beziehung.webp"

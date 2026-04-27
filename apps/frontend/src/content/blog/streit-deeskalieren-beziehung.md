@@ -1,5 +1,5 @@
 ---
-title: "Streit deeskalieren: Die vollständige Anleitung zur"
+title: "Streit deeskalieren: Anleitung zur Konfliktentschärfung in Beziehungen"
 description: "Streit deeskalieren: Die besten Methoden, um Konflikte in der Beziehung konstruktiv zu lösen."
 date: 2025-12-15
 author: "sarah-kellner"

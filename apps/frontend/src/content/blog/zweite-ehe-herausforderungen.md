@@ -1,5 +1,5 @@
 ---
-title: "Zweite Ehe — Warum sie schwieriger ist als gedacht (und"
+title: "Zweite Ehe — Warum sie schwieriger ist als gedacht (und was hilft)"
 description: "Patchwork-Familien, alte Wunden und neue Hoffnungen: Die psychologischen Herausforderungen einer zweiten Ehe verstehen."
 date: 2026-03-16
 tags: ["Beziehung", "Hochzeit", "Neuanfang"]

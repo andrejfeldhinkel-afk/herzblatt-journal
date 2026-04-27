@@ -1,5 +1,5 @@
 ---
-title: "Single69 Test & Erfahrungen"
+title: "Single69 Test 2026: Der Casual-Dating-Riese mit Millionen Nutzern"
 description: "Single69 im Test 2026: Größte Nutzerbasis im Casual-Dating. Funktionen, Kosten, Tipps und Erfahrungen im Detail."
 date: 2026-04-12
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Toxische Männlichkeit heilen: Ein Guide für Männer die mehr"
+title: "Toxische Männlichkeit heilen: Ein Guide für Männer, die mehr fühlen wollen"
 author: "thomas-peters"
 draft: false
 image: "/images/blog/toxische-maennlichkeit-heilen-guide.webp"

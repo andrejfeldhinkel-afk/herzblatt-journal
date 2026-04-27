@@ -1,5 +1,5 @@
 ---
-title: "Rebound-Beziehung erkennen"
+title: "Rebound-Beziehung erkennen: Wenn die neue Liebe zu schnell kommt"
 description: "Rebound-Beziehung erkennen: Lerne die Zeichen einer Rebound-Beziehung kennen und schütze dich vor emotionaler Verschwendung."
 date: 2026-03-29
 tags:

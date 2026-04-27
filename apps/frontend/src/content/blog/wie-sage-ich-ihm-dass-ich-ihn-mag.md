@@ -1,5 +1,5 @@
 ---
-title: "Wie sage ich ihm, dass ich ihn mag? 12 ehrliche Wege zum"
+title: "Wie sage ich ihm, dass ich ihn mag? 12 ehrliche Wege zum Geständnis"
 description: "Deine Gefühle gestehen leicht gemacht: 7 indirekte + 5 direkte Methoden, Timing-Tipps und echte Beispiel-Formulierungen für jede Situation."
 keywords: ["wie sage ich ihm, dass ich ihn mag? 12 ehrliche wege zum", "dating", "kommunikation", "sage ihm,", "ihm, dass", "dass mag?"]
 tags:

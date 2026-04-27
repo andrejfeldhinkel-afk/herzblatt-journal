@@ -1,5 +1,5 @@
 ---
-title: "Die stille Behandlung (Silent Treatment) — Warum"
+title: "Die stille Behandlung (Silent Treatment) — Warum Schweigen verletzt"
 description: "Silent Treatment als emotionale Waffe: Wie du das Schweigen deines Partners erkennst und damit umgehen lernst"
 date: 2026-03-16
 tags: ["Beziehung", "Kommunikation", "Psychologie", "Red Flags"]

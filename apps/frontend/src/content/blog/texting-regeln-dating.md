@@ -1,5 +1,5 @@
 ---
-title: "Texting-Regeln beim Dating"
+title: "Texting-Regeln beim Dating: Dein Guide für digitale Flirtkunst"
 description: "Texting-Regeln beim Dating — Die besten Strategien für Online-Dating: Vom Profil bis zum ersten Treffen. Praxiserprobte Tipps."
 keywords: ["texting-regeln beim dating", "online dating", "kommunikation", "flirten", "texting-regeln beim", "beim dating"]
 date: 2025-11-11
