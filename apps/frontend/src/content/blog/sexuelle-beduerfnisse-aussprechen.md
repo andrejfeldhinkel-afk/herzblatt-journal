@@ -2,6 +2,8 @@
 title: "Sexuelle Beduerfnisse aussprechen: 7 Wege ohne Schuld oder Druck"
 description: "Sexuelle Beduerfnisse aussprechen: 7 konkrete Wege mit Ich-Botschaften, neutralen Settings und Phantasie-Tipps. So redet ihr ohne Schuld oder Druck."
 date: 2026-04-27
+image: "/images/blog/dirty-talk-intimaet-vertiefen.webp"
+imageAlt: "Sexuelle Beduerfnisse"
 tags:
   - "Intimitaet"
   - "Kommunikation"

@@ -2,6 +2,8 @@
 title: "Dating mit 60: Warum jetzt deine ehrlichste Beziehung beginnt"
 description: "Dating mit 60 ist anders als mit 25. Du hast Klarheit ueber deine Werte, Zeit fuer echte Naehe und keine Lust mehr auf Spiele. Hier ist dein ehrlicher Guide."
 date: 2026-04-27
+image: "/images/blog/dating-ab-60-liebe-alter.webp"
+imageAlt: "Dating mit 60"
 tags:
   - "Dating"
   - "Partnersuche"

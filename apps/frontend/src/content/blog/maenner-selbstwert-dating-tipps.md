@@ -2,6 +2,8 @@
 title: "Männer-Selbstwert beim Dating: Wie du dich nicht im Bewerber-Modus verlierst"
 description: "Wie Männer beim Dating echten Selbstwert entwickeln, statt sich in Validation und Bewerber-Modus zu verlieren. Praktische Strategien fürs innere Fundament."
 date: 2026-04-27
+image: "/images/blog/selbstwert-staerken-dating.webp"
+imageAlt: "Maenner-Selbstwert beim Dating"
 tags:
   - "Dating"
   - "Selbstliebe"

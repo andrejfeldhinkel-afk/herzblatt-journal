@@ -2,6 +2,8 @@
 title: "Witwe sein und wieder lieben: Der ehrliche Guide fuer die zweite Chance"
 description: "Als Witwe wieder lieben: Trauer-Phasen, Bereit-Sein-Check, soziale Erwartungen, eigene Identitaet. Der ehrliche Guide fuer die zweite Chance auf Liebe."
 date: 2026-04-27
+image: "/images/blog/dating-als-witwe-witwer.webp"
+imageAlt: "Witwen zweite Chance Liebe"
 tags:
   - "Heilung"
   - "Dating"

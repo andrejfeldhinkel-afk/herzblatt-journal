@@ -2,6 +2,8 @@
 title: "Orgasmus-Luecke in der Beziehung: Wie ihr ehrlich darueber sprecht ohne Schuldgefuehle"
 description: "Orgasm Gap in der Beziehung: Statistiken, Ursachen und konkrete Kommunikations-Templates fuer Paare, die das Thema ohne Schuldgefuehle angehen wollen."
 date: 2026-04-27
+image: "/images/blog/dirty-talk-intimaet-vertiefen.webp"
+imageAlt: "Orgasmus-Luecke Paare"
 tags:
   - "Intimitaet"
   - "Kommunikation"

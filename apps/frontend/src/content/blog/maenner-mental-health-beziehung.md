@@ -2,6 +2,8 @@
 title: "Mental Health bei Männern in Beziehungen: Was Frauen wissen sollten (und Männer aussprechen dürfen)"
 description: "Mental Health bei Männern bricht oft erst in Beziehungen sichtbar auf. Symptome erkennen, Stigma überwinden, schwierige Gespräche führen - ohne Ausreden."
 date: 2026-04-27
+image: "/images/blog/beziehung-und-mental-health.webp"
+imageAlt: "Maenner Mental Health Beziehung"
 tags:
   - "Gesundheit"
   - "Psychologie"
