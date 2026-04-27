@@ -2,7 +2,7 @@
 title: "Empty-Nest-Syndrom: Wenn die Kinder ausziehen und das Paar sich neu finden muss"
 description: "Empty-Nest-Syndrom verstehen: Phasen nach dem Auszug der Kinder, Risiken fuer die Beziehung und konkrete Wege, das Paar neu zu definieren."
 date: 2026-04-24
-image: "/images/blog/beziehung-und-eltern-werden.webp"
+image: "/images/blog/attachment-styles-guide.webp"
 imageAlt: "Empty Nest Syndrom Paar"
 tags:
   - "Beziehung"

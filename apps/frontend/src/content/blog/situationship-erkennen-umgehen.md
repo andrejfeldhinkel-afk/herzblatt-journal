@@ -3,7 +3,7 @@ title: "Situationship erkennen und handeln"
 description: "Situationship erkennen und handeln — Dein umfassender Ratgeber auf Herzblatt Journal. Praktische Tipps und Expertenwissen für die Liebe."
 keywords: ["situationship erkennen und handeln", "single leben", "situationship erkennen", "erkennen handeln"]
 date: 2025-12-31
-image: "/images/blog/situationship-erkennen-umgehen.webp"
+image: "/images/blog/situationship-erkennen.webp"
 imageAlt: "Situationship erkennen und handeln"
 tags: ["Single-Leben"]
 faq:

@@ -5,7 +5,7 @@ date: 2026-04-26
 author: laura-weber
 tags: ["Date-Ideen", "Lifestyle", "Dating"]
 keywords: ["romantische restaurants wien", "beste date restaurants wien", "date essen wien"]
-image: "/images/blog/dating-vienna-wien-guide.webp"
+image: "/images/blog/alltag-als-paar-gestalten.webp"
 imageAlt: "Romantische Restaurants Wien"
 ---
 

@@ -2,7 +2,7 @@
 title: "Erstes Treffen nach Tinder: So gelingt der Wechsel von Chat ins reale Leben"
 description: "Erstes Treffen nach Tinder: Wie du den Sprung vom Chat zum echten Date schaffst, dich vor Catfishing schützt und realistische Erwartungen entwickelst."
 date: 2026-04-27
-image: "/images/blog/bumble-vs-tinder.webp"
+image: "/images/blog/erstes-treffen-online-dating.webp"
 imageAlt: "Erstes Treffen nach Tinder"
 tags:
   - "Online-Dating"

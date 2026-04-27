@@ -2,7 +2,7 @@
 title: "Die 4 Phasen von Love Bombing: So erkennst du den narzisstischen Zyklus"
 description: "Love Bombing durchläuft 4 klare Phasen — Idealisierung, Abwertung, Verwerfung, Hoover. So erkennst du jede und brichst aus."
 date: 2026-04-20
-image: "/images/blog/beziehung-mit-narzisst-erkennen-komplett.webp"
+image: "/images/blog/love-bombing-erkennen.webp"
 imageAlt: "Spiegel-Reflexion symbolisiert die vier Love-Bombing-Phasen"
 tags:
   - "Narzissmus"

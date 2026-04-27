@@ -2,7 +2,7 @@
 title: "Online-Paartherapie: Serioese Anbieter im Vergleich"
 description: "Online-Paartherapie im Vergleich 2026: Worauf du bei der Wahl der Plattform achten musst, was es kostet und wie du unserioese Anbieter erkennst."
 date: 2026-04-24
-image: "/images/blog/paartherapie-uebungen-zuhause.webp"
+image: "/images/blog/dating-apps-vergleich-2026.webp"
 imageAlt: "Online-Paartherapie"
 tags:
   - "Paartherapie"

@@ -2,7 +2,7 @@
 title: "Als Mann Emotionen zeigen: Warum Verletzlichkeit deine Beziehung rettet (und wie du startest)"
 description: "Männer und Emotionen: Warum Verletzlichkeit Beziehungen rettet, kulturelle Hintergründe, konkrete Einstiegssätze und wann Therapie sinnvoll ist."
 date: 2026-04-27
-image: "/images/blog/verletzlichkeit-beziehung-guide.webp"
+image: "/images/blog/dating-als-schuchterner-mann.webp"
 imageAlt: "Mann Emotionen zeigen"
 tags:
   - "Kommunikation"

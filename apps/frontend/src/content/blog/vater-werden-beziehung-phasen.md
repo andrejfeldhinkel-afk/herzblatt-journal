@@ -2,7 +2,7 @@
 title: "Vater werden, Beziehung umkrempeln: Was sich wirklich ändert (und wie ihr beide stark bleibt)"
 description: "Vater werden verändert die Beziehung in jeder Phase. Was Männer in Schwangerschaft und Babyzeit erleben, was Frauen wissen sollten und wie ihr Co-Parenting findet."
 date: 2026-04-27
-image: "/images/blog/dating-als-alleinerziehender-vater.webp"
+image: "/images/blog/attachment-style-aendern-sicher-werden.webp"
 imageAlt: "Vater werden Beziehung"
 tags:
   - "Beziehung"

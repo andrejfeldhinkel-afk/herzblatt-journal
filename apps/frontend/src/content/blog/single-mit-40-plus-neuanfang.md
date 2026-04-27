@@ -2,7 +2,7 @@
 title: "Single mit 40+: Der ehrliche Guide für Neuanfang und bewusstes Alleinsein"
 description: "Single mit 40 aufwärts — ob nach Scheidung oder bewusst gewählt. Statistik, typische Fallen, die 12 besten Wege und wie Freude zurückkehrt."
 date: 2026-04-21
-image: "/images/blog/dating-ab-40-neu-starten.webp"
+image: "/images/blog/neuanfang-mit-40.webp"
 imageAlt: "Person Mitte 40 steht selbstbewusst am Fenster — Symbol für Single mit 40+"
 tags:
   - "40+"

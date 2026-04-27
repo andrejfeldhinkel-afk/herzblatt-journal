@@ -2,7 +2,7 @@
 title: "Haushalt fair aufteilen: Der Leitfaden für gleichberechtigte Paare"
 description: "Putzen, Wäsche, Einkauf - so teilt ihr den Haushalt wirklich fair auf. Konkrete Methoden, Putzplan-Vorlagen und was gegen chronische Ungleichheit hilft."
 date: 2026-04-24
-image: "/images/blog/beziehung-haushalt-streit-loesen.webp"
+image: "/images/blog/beduerfnisse-kommunizieren-beziehung.webp"
 imageAlt: "Haushalt fair aufteilen"
 tags:
   - "Beziehung"

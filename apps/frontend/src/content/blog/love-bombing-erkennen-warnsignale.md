@@ -2,7 +2,7 @@
 title: "Love Bombing erkennen: 9 Warnsignale die du nicht ignorieren solltest"
 description: "Love Bombing erkennen: 9 Warnsignale, 3 Phasen und Schutzstrategien. Wissenschaftlich fundierter Guide gegen toxische Manipulation am Beziehungsanfang."
 date: 2026-04-27
-image: "/images/blog/love-bombing-erkennen-schuetzen.webp"
+image: "/images/blog/anzeichen-interesse-erkennen.webp"
 imageAlt: "Love Bombing erkennen"
 tags:
   - "Red Flags"

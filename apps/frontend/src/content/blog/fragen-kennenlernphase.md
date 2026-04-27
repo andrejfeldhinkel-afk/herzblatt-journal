@@ -2,7 +2,7 @@
 title: "Fragen für die Kennenlernphase: 77 Fragen nach Tiefe sortiert"
 description: "Fragen für die Kennenlernphase: 77 Fragen vom Smalltalk bis zu tiefen Seelen-Fragen — mit Timing, wann du welche Fragen stellen solltest."
 date: 2026-04-15
-image: "/images/blog/fragen-kennenlernphase.webp"
+image: "/images/blog/dating-fragen-kennenlernen.webp"
 imageAlt: "Fragen für die Kennenlernphase — Paar im tiefen Gespräch"
 tags:
   - "Dating"

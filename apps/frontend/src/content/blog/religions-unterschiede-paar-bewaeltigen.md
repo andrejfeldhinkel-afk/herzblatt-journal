@@ -2,7 +2,7 @@
 title: "Verschiedene Religionen, eine Beziehung: Wie ihr Glauben trennt und Liebe verbindet"
 description: "Interreligioese Beziehung meistern: praktische Loesungen fuer Hochzeit, Kindererziehung, Familien-Akzeptanz. Wenn Christ und Muslim sich lieben oder andere Konstellationen."
 date: 2026-04-27
-image: "/images/blog/beziehung-kulturelle-unterschiede.webp"
+image: "/images/blog/anzeichen-er-steht-auf-dich.webp"
 imageAlt: "Religions-Unterschiede Paar"
 tags:
   - "Beziehung"

@@ -2,7 +2,7 @@
 title: "Single-Bars in Koeln: 5 Locations die wirklich kennenlernen-tauglich sind"
 description: "Single-Bars in Koeln ehrlich erklaert: 5 Bar-Konzepte vom Belgischen Viertel ueber Friesenviertel bis Suedstadt fuer echte Begegnungen 2026."
 date: 2026-04-27
-image: "/images/blog/dating-koeln-komplett-guide.webp"
+image: "/images/blog/single-gluecklich-sein.webp"
 imageAlt: "Single-Bars in Koeln"
 tags:
   - "Date-Ideen"

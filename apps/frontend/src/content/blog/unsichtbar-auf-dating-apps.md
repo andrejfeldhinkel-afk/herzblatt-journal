@@ -2,7 +2,7 @@
 title: "Warum du auf Dating-Apps unsichtbar bist (und was du ändern kannst)"
 description: "Keine Matches auf Tinder oder Bumble? So funktionieren Dating-App-Algorithmen und wie du Profil und Fotos so optimierst, dass du sichtbar wirst."
 date: 2026-04-24
-image: "/images/blog/tinder-alternative-2026.webp"
+image: "/images/blog/was-frauen-auf-dating-apps-abturnt.webp"
 imageAlt: "Dating App keine Matches"
 tags:
   - "Online-Dating"

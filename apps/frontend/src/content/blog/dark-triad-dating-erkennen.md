@@ -1,7 +1,7 @@
 ---
 title: "Dark Triad: Narzissmus, Machiavellismus und Psychopathie ..."
 author: "thomas-peters"
-image: "/images/blog/dark-triad-dating-erkennen.webp"
+image: "/images/blog/dark-triad-dating-warnsignale-guide.webp"
 imageAlt: "Dark Triad Dating Erkennen"
 date: 2026-03-21
 tags:

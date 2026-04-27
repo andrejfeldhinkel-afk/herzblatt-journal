@@ -2,7 +2,7 @@
 title: "Reise mit Partner: 8 perfekte Staedte fuer ein Paerchen-Wochenende"
 description: "Reise mit Partner geplant? 8 europaeische Staedte mit Paerchen-Insights, vom geheimen Lissabon bis Tallinn. Konkrete Tipps fuer ein perfektes Wochenende."
 date: 2026-04-27
-image: "/images/blog/paerchen-urlaub-planen-tipps.webp"
+image: "/images/blog/partner-vergleicht-mich-mit-ex.webp"
 imageAlt: "Reise mit Partner Staedte"
 tags:
   - "Date-Ideen"

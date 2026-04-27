@@ -2,7 +2,7 @@
 title: "Streit mit den Schwiegereltern: Wie du Konflikte ohne Eskalation löst"
 description: "Streit mit Schwiegereltern belastet jede Beziehung. Hier liest du, wie du Konflikte deeskalierst, deinen Partner einbeziehst und wann Distanz hilft."
 date: 2026-04-27
-image: "/images/blog/beziehung-schwiegereltern-guide.webp"
+image: "/images/blog/beziehung-nach-fernbeziehung-tipps.webp"
 imageAlt: "Schwiegereltern Streit"
 tags:
   - "Beziehung"

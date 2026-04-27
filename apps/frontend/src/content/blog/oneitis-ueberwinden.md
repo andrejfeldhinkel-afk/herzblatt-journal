@@ -2,7 +2,7 @@
 title: "Oneitis überwinden: Wie du aus der obsessiven Fixierung auf eine Person rauskommst"
 description: "Oneitis — die ungesunde Fixierung auf eine bestimmte Person. 9 Zeichen, psychologische Ursachen und der Weg zur Freiheit."
 date: 2026-04-21
-image: "/images/blog/einseitige-beziehung-erkennen.webp"
+image: "/images/blog/angst-vor-dating-ueberwinden.webp"
 imageAlt: "Person mit Blick nur auf eine Silhouette — Symbol für Oneitis"
 tags:
   - "Liebeskummer"

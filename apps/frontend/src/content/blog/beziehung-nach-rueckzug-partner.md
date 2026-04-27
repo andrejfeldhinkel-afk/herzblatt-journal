@@ -6,7 +6,7 @@ tags:
   - "Beziehung"
   - "Intimität"
   - "Kommunikation"
-image: "/images/blog/beziehung-nach-rueckzug-partner.webp"
+image: "/images/blog/beziehung-nach-schwerer-krankheit-partner.webp"
 imageAlt: "Ein Paar sitzt sich gegenüber mit etwas Abstand und wirkt emotional distanziert"
 keywords: ["partner zieht sich zurück", "emotionaler rückzug partner", "partner distanziert sich", "beziehung probleme"]
 draft: false

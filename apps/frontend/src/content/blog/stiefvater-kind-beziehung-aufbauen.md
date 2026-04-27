@@ -2,7 +2,7 @@
 title: "Stiefvater werden: Wie du eine echte Beziehung zum Kind aufbaust ohne den Vater zu ersetzen"
 description: "Stiefvater werden ist Marathon, nicht Sprint. So baust du eine echte Beziehung zum Kind auf, ohne den leiblichen Vater zu ersetzen. Mit Strategien fuer jedes Alter."
 date: 2026-04-27
-image: "/images/blog/dating-mit-kindern-patchwork.webp"
+image: "/images/blog/beruehrungen-beziehung-bedeutung.webp"
 imageAlt: "Stiefvater Kind Beziehung"
 tags:
   - "Familie"

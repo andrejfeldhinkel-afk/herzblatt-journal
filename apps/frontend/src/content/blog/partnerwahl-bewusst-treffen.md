@@ -2,7 +2,7 @@
 title: "Partnerwahl: Wie du bewusst entscheidest statt dich verlieben zu lassen"
 description: "Partnerwahl nicht dem Zufall überlassen: Kriterien, Werte-Matching und konkrete Schritte, um bewusst einen passenden Partner zu finden."
 date: 2026-04-24
-image: "/images/blog/introvertiert-partner-finden.webp"
+image: "/images/blog/anxious-preoccupied-attachment-healing.webp"
 imageAlt: "Partnerwahl bewusst"
 tags:
   - "Partnersuche"

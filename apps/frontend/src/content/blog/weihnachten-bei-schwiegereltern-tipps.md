@@ -2,7 +2,7 @@
 title: "Weihnachten bei den Schwiegereltern: Diplomatie für die Feiertage"
 description: "Weihnachten bei den Schwiegereltern wird stressig? Hier liest du, wie ihr Geschenke, Übernachtung und eure eigene Familie elegant unter einen Hut bringt."
 date: 2026-04-27
-image: "/images/blog/weihnachten-nach-trennung-ueberstehen.webp"
+image: "/images/blog/crush-ansprechen-tipps.webp"
 imageAlt: "Weihnachten bei Schwiegereltern"
 tags:
   - "Beziehung"

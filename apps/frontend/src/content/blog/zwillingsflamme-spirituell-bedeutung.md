@@ -2,7 +2,7 @@
 title: "Zwillingsflamme: Was hinter dem spirituellen Konzept wirklich steckt"
 description: "Zwillingsflamme erklaert. Was bedeutet das spirituelle Konzept, wie unterscheidet es sich vom Seelenverwandten und welche psychologische Erklaerung gibt es?"
 date: 2026-04-27
-image: "/images/blog/twin-flame-dualseele-guide.webp"
+image: "/images/blog/drittes-date-bedeutung-erwartungen.webp"
 imageAlt: "Zwillingsflamme Bedeutung"
 tags:
   - "Psychologie"

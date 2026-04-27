@@ -2,7 +2,7 @@
 title: "Erster Urlaub mit Partner: 11 Tipps damit ihr nicht streitet"
 description: "Erster Urlaub mit Partner ist ein Stresstest. 11 erprobte Tipps zu Erwartungsmanagement, Stress-Punkten und Solo-Time, damit aus Romantik kein Streit wird."
 date: 2026-04-27
-image: "/images/blog/erste-gemeinsame-reise-planen.webp"
+image: "/images/blog/partner-flirtet-mit-anderen.webp"
 imageAlt: "Erster Urlaub mit Partner"
 tags:
   - "Beziehung"

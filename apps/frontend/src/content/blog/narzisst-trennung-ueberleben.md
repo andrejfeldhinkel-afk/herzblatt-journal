@@ -2,7 +2,7 @@
 title: "Trennung von einem Narzissten ueberleben: Der ehrliche Survival-Guide"
 description: "Trennung vom Narzissten ueberleben: Phasen, No-Contact-Strategie und Heilungsweg. Ehrlicher Guide fuer deinen Neustart nach toxischer Beziehung."
 date: 2026-04-27
-image: "/images/blog/beziehung-grenzen-narzisstischer-eltern.webp"
+image: "/images/blog/beziehung-mit-narzisst-erkennen-komplett.webp"
 imageAlt: "Trennung von Narzisst ueberleben"
 tags:
   - "Heilung"

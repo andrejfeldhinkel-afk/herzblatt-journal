@@ -1,7 +1,7 @@
 ---
 title: "Aromantisch: Dating und Beziehungen neu verstehen"
 description: "Was bedeutet Aromantizität? Ein tiefgreifender Leitfaden für aromantische Menschen und ihre Partner zum Verstehen von Liebe jenseits von Romantik."
-image: "/images/blog/dating-aromantisch-verstehen.webp"
+image: "/images/blog/achtsamkeit-dating-bewusst.webp"
 imageAlt: "Aromantisch: Dating und Beziehungen neu verstehen"
 date: 2026-01-20
 tags:

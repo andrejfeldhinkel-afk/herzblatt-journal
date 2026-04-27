@@ -2,7 +2,7 @@
 title: "Paartherapie Kosten 2026: Was zahlt die Krankenkasse?"
 description: "Paartherapie Kosten 2026 im Ueberblick: Preise, Krankenkassen-Leistungen, Alternativen und Finanzierungstipps. Jetzt informieren und Klarheit schaffen."
 date: 2026-04-24
-image: "/images/blog/paartherapie-uebungen-zuhause.webp"
+image: "/images/blog/beziehung-nach-paartherapie-erfahrungen.webp"
 imageAlt: "Paartherapie Kosten"
 tags:
   - "Paartherapie"

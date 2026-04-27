@@ -3,7 +3,7 @@ title: "Verliebt in Kollegen: Was du wissen musst"
 description: "Du bist in einen Kollegen verliebt? Lerne die Risiken, die besten Strategien und wie du professionell damit umgehst."
 date: 2026-04-02
 tags: [liebe, arbeitsplatz, kollegen, berufliche-grenzen, dating-tipps]
-image: "/images/blog/verliebt-in-kollegen-was-tun.webp"
+image: "/images/blog/beziehung-langweilig-was-tun.webp"
 imageAlt: "Zwei Kollegen reden im Büro miteinander"
 keywords: ["verliebt in Kollegen", "Arbeitsplatz Liebe", "wie damit umgehen", "Risiken", "Chancen"]
 draft: false

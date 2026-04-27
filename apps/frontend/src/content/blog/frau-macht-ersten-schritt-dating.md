@@ -2,7 +2,7 @@
 title: "Frau macht den ersten Schritt: Warum es 2026 voellig normal ist (und funktioniert)"
 description: "Du bist eine Frau und willst den ersten Schritt machen? 2026 ist das nicht nur normal, sondern oft erfolgreicher. Erfahre, wie du Maenner anschreibst und souveraen flirtest."
 date: 2026-04-24
-image: "/images/blog/frau-ansprechen-tipps.webp"
+image: "/images/blog/dating-als-hochsensible-frau.webp"
 imageAlt: "Frau macht den ersten Schritt"
 tags:
   - "Dating"

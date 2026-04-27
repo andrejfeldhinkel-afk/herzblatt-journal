@@ -2,7 +2,7 @@
 title: "Beziehungscoaching: Wann es wirklich hilft und was es bringt"
 description: "Beziehungscoaching erklaert: Wann Coaching statt Therapie sinnvoll ist, was es kostet und wie du einen guten Beziehungscoach findest. Ehrlicher Ratgeber 2026."
 date: 2026-04-24
-image: "/images/blog/paartherapie-uebungen-zuhause.webp"
+image: "/images/blog/liebeskummer-produktiv-nutzen.webp"
 imageAlt: "Beziehungscoaching"
 tags:
   - "Beziehungscoaching"

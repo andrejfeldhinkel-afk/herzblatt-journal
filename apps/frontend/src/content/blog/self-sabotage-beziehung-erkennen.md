@@ -2,7 +2,7 @@
 title: "Self-Sabotage in Beziehungen: 8 Muster, die du unbewusst lebst"
 description: "Selbstsabotage in der Liebe erkennen: 8 unbewusste Muster, ihre Ursachen und konkrete Übungen, um sie zu durchbrechen."
 date: 2026-04-24
-image: "/images/blog/selbstsabotage-liebe-erkennen.webp"
+image: "/images/blog/beziehung-streitmuster-erkennen.webp"
 imageAlt: "Self-Sabotage in Beziehungen"
 tags:
   - "Psychologie"

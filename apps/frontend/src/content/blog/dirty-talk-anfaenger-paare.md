@@ -2,7 +2,7 @@
 title: "Dirty Talk fuer Anfaenger: Wie ihr aus dem Schweigen ins Schmeicheln kommt"
 description: "Dirty Talk fuer Anfaenger: Soft-Start-Saetze, Konsens-Check und gestaffelte Eskalation. So findet ihr eure Stimme im Bett, ohne dass es peinlich wird."
 date: 2026-04-27
-image: "/images/blog/dirty-talk-intimaet-vertiefen.webp"
+image: "/images/blog/gemeinsame-hobbys-paare.webp"
 imageAlt: "Dirty Talk Anfaenger"
 tags:
   - "Intimitaet"

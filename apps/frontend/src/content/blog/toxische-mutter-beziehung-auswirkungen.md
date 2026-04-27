@@ -2,7 +2,7 @@
 title: "Toxische Mutter, kaputte Beziehungen? Wie deine Kindheit dein Dating praegt"
 description: "Toxische Mutter und Beziehungsmuster: Wie Bindungsstil und Mutter-Trauma dein Dating praegen. Mustererkennung, Heilungswege und Therapieempfehlung."
 date: 2026-04-27
-image: "/images/blog/toxische-eltern-einfluss-dating.webp"
+image: "/images/blog/beziehung-toxische-schwiegereltern-umgang.webp"
 imageAlt: "Toxische Mutter Beziehung"
 tags:
   - "Heilung"
