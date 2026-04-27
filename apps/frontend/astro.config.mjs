@@ -352,6 +352,8 @@ export default defineConfig({
     // Pillar 4 — pansexuell (KW: pansexuell, Vol 49K, KD 32): bare keyword + Pansexualität auf Pillar
     '/blog/pansexuell': { status: 301, destination: '/blog/pansexuell-dating-guide' },
     '/blog/pansexualitaet': { status: 301, destination: '/blog/pansexuell-dating-guide' },
+    // Pillar 5 — freundschaft (KW: freundschaft, Vol 33K, KD 37): bare keyword auf Pillar
+    '/blog/freundschaft': { status: 301, destination: '/blog/freundschaft-guide' },
   },
   compressHTML: true,
   prefetch: {
