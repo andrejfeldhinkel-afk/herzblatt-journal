@@ -15,7 +15,7 @@ keywords:
   - "was männer wollen"
   - "anziehung zwischen menschen"
 draft: false
-image: "/images/photos/dating-psychologie.webp"
+image: "/images/blog/dating-psychologie-anziehung.webp"
 imageAlt: "Verliebtes Paar das sich ansieht"
 faq:
   - question: "Was macht einen Menschen wirklich attraktiv?"

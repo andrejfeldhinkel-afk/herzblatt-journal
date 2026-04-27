@@ -6,7 +6,7 @@ tags:
   - "Dating"
   - "Psychologie"
   - "Heilung"
-image: "/images/photos/hb-trauma-informiert-dating.webp"
+image: "/images/blog/bindungsstile-dating.webp"
 imageAlt: "Glückliches Paar umarmt sich als Symbol für achtsames trauma-informiertes Dating"
 keywords: ["trauma informiert daten", "dating nach trauma", "dating nach toxischer beziehung", "sicher daten", "dating mit ptbs"]
 draft: false

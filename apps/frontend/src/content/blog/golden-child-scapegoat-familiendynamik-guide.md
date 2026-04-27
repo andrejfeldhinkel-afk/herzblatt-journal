@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Red Flags"
   - "Heilung"
-image: "/images/photos/hb-golden-child-scapegoat-therapie.webp"
+image: "/images/blog/dating-als-alleinerziehende-mutter-guide.webp"
 imageAlt: "Therapienotizen als Symbol für die Aufarbeitung von Golden Child und Scapegoat Dynamik"
 keywords: ["golden child", "scapegoat familie", "sündenbock narzisstische familie", "goldenes kind narzisst", "narzisstische familiendynamik"]
 draft: false

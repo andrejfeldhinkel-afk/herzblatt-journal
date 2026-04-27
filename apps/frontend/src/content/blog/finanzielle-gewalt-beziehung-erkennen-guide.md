@@ -6,7 +6,7 @@ tags:
   - "Red Flags"
   - "Beziehung"
   - "Ratgeber"
-image: "/images/photos/hb-finanzielle-gewalt-geld.webp"
+image: "/images/blog/rebound-beziehung-erkennen-guide.webp"
 imageAlt: "Geldscheine in Umschlag als Symbol für finanzielle Kontrolle und Gewalt in Beziehungen"
 keywords: ["finanzielle gewalt beziehung", "economic abuse", "finanzielle kontrolle partner", "geld manipulation beziehung", "finanzielle abhängigkeit partner"]
 draft: false

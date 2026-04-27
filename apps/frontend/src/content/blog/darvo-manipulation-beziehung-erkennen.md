@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Red Flags"
   - "Beziehung"
-image: "/images/photos/hb-darvo-manipulation-spannung.webp"
+image: "/images/blog/beziehung-nach-corona.webp"
 imageAlt: "Zwei Frauen sitzen Rücken an Rücken als Symbol für Beziehungsspannung durch DARVO"
 keywords: ["darvo", "darvo manipulation", "täter opfer umkehr", "manipulation beziehung erkennen", "gaslighting darvo"]
 draft: false

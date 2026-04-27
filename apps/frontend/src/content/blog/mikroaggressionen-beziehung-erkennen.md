@@ -2,7 +2,7 @@
 title: "Mikroaggressionen in der Beziehung erkennen und stoppen"
 description: "Mikroaggressionen sind subtile Verletzungen, die Beziehungen zerstören. Lerne, sie zu erkennen und zu stoppen."
 date: 2026-04-06
-image: "/images/photos/mikroaggressionen-beziehung-erkennen.webp"
+image: "/images/blog/emotionale-erpressung-beziehung-erkennen.webp"
 tags:
   - "Beziehung"
   - "Kommunikation"

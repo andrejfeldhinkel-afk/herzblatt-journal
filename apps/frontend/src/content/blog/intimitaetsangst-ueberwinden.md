@@ -2,7 +2,7 @@
 title: "Intimitätsangst überwinden: Wenn Nähe Angst macht"
 description: "Intimitätsangst blockiert tiefe Beziehungen. Lerne, woher die Angst kommt und wie du echte Nähe erreichst."
 date: 2026-04-06
-image: "/images/photos/intimitaetsangst-ueberwinden.webp"
+image: "/images/blog/beziehung-langeweile-ueberwinden.webp"
 tags:
   - "Psychologie"
   - "Beziehung"

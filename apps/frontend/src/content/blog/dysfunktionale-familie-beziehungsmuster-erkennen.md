@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Heilung"
-image: "/images/photos/hb-dysfunktionale-familie-gespraech.webp"
+image: "/images/blog/dating-app-sucht-erkennen.webp"
 imageAlt: "Frau gestikuliert auf Sofa während Gespräch über dysfunktionale Familienmuster"
 keywords: ["dysfunktionale familie", "familienrollen beziehung", "sündenbock familie", "goldenes kind narzisst", "dysfunktionale familienmuster"]
 draft: false

@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Kommunikation"
   - "Beziehung"
-image: "/images/photos/hb-mentalisierung-therapie.webp"
+image: "/images/blog/dating-als-alleinerziehende-mutter-guide.webp"
 imageAlt: "Therapeutin spricht mit Klienten in Gruppensitzung über Mentalisierung und Empathie"
 keywords: ["mentalisierung beziehung", "peter fonagy", "mentalisieren partnerschaft", "empathie vs mentalisierung", "theory of mind beziehung"]
 draft: false

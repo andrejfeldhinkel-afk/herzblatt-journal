@@ -13,7 +13,7 @@ keywords:
   - "nach dem ersten date"
   - "zweites treffen dating"
 draft: false
-image: "/images/photos/zweites-date.webp"
+image: "/images/blog/zweites-date-tipps.webp"
 imageAlt: "Paar beim romantischen Date"
 faq:
   - question: "Was macht man beim zweiten Date?"

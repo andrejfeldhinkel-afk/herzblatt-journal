@@ -7,7 +7,7 @@ tags:
   - "Beziehung"
   - "Heilung"
   - "Kommunikation"
-image: "/images/photos/hb-polyvagal-paartherapie.webp"
+image: "/images/blog/beziehung-gleichberechtigung.webp"
 imageAlt: "Paar in Therapiesitzung spricht über Polyvagaltheorie und Beziehungsdynamik"
 keywords: ["polyvagal theorie", "polyvagal theorie paare", "nervensystem beziehung", "koregulation", "window of tolerance", "ventraler vagus"]
 draft: false

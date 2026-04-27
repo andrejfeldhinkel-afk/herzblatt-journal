@@ -15,7 +15,7 @@ keywords:
   - "signale erkennen dating"
   - "flirtsignale deuten"
 draft: false
-image: "/images/photos/anzeichen-interesse.webp"
+image: "/images/blog/heimliches-verlieben-anzeichen.webp"
 imageAlt: "Paar das sich anlächelt"
 faq:
   - question: "Was sind eindeutige Interesse-Anzeichen?"

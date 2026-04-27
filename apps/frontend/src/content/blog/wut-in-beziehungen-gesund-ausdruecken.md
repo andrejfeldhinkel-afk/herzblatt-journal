@@ -6,7 +6,7 @@ tags:
   - "Kommunikation"
   - "Beziehung"
   - "Psychologie"
-image: "/images/photos/hb-wut-beziehung-therapie.webp"
+image: "/images/blog/respekt-in-beziehungen.webp"
 imageAlt: "Therapiesitzung mit Klemmbrett als Symbol für gesunden Umgang mit Wut in Beziehungen"
 keywords: ["wut beziehung", "ärger gesund ausdrücken", "wut kontrollieren beziehung", "streit beziehung", "aggression partnerschaft"]
 draft: false

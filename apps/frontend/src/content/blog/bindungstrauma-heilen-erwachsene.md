@@ -7,7 +7,7 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Bindungstheorie"
-image: "/images/photos/bindungstrauma-heilen-erwachsene.webp"
+image: "/images/blog/dating-nach-toxischer-beziehung-heilen.webp"
 imageAlt: "Erwachsene Frau in Therapie, Ausdruck von Hoffnung und Selbstreflexion"
 keywords: ["bindungstrauma heilen", "bindungstrauma erwachsene", "bindungstrauma symptome", "trauma in beziehungen", "kindheitstrauma heilen"]
 draft: false

@@ -2,7 +2,7 @@
 title: "Perfektionismus in der Beziehung: Warum es einsam macht"
 description: "Perfektionismus zerstört Beziehungen. Erfahre, warum Perfektion unmöglich ist und wie du echte Nähe aufbaust."
 date: 2026-04-06
-image: "/images/photos/perfektionismus-in-beziehung.webp"
+image: "/images/blog/perfektionismus-dating.webp"
 tags:
   - "Beziehung"
   - "Psychologie"

@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Beziehung"
   - "Kommunikation"
-image: "/images/photos/hb-eft-paartherapie.webp"
+image: "/images/blog/dating-nach-therapie-guide.webp"
 imageAlt: "Therapiesitzung von oben mit Notizbuch und Gläsern für emotionsfokussierte Paartherapie"
 keywords: ["emotionsfokussierte therapie", "eft paartherapie", "sue johnson", "hold me tight", "bindungsorientierte paartherapie"]
 draft: false

@@ -15,7 +15,7 @@ keywords:
   - "beziehung langweilig"
   - "neuen schwung beziehung"
 draft: false
-image: "/images/photos/beziehung-auffrischen.webp"
+image: "/images/blog/beziehung-auffrischen-30-ideen.webp"
 imageAlt: "Glückliches Paar"
 faq:
   - question: "Was sind gute Auffrisch-Ideen fuer Paare?"

@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Heilung"
   - "Beziehung"
-image: "/images/photos/hb-emdr-therapiesitzung.webp"
+image: "/images/blog/beziehungstrauma-heilen.webp"
 imageAlt: "Therapeut gestikuliert während EMDR-Therapiesitzung für Beziehungstrauma"
 keywords: ["emdr beziehungstrauma", "emdr therapie beziehung", "augenbewegungen trauma", "emdr nach trennung", "beziehungstrauma heilen"]
 draft: false

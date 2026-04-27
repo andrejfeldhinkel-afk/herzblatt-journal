@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Red Flags"
   - "Selbstliebe"
-image: "/images/photos/hb-grey-rock-methode.webp"
+image: "/images/blog/dating-als-alleinerziehende-mutter-guide.webp"
 imageAlt: "Nachdenkliche Frau symbolisiert die neutrale Haltung der Grey-Rock-Methode"
 keywords: ["grey rock methode", "grey rock narzisst", "graue stein methode", "narzisst ignorieren", "grey rocking anleitung"]
 draft: false

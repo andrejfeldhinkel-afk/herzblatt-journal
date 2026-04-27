@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Heilung"
   - "Beziehung"
-image: "/images/photos/hb-somatic-experiencing-meditation.webp"
+image: "/images/blog/dating-nach-toxischer-beziehung-heilen.webp"
 imageAlt: "Frau meditiert mit Kerzen als Symbol für Somatic Experiencing und Körperarbeit"
 keywords: ["somatic experiencing", "bindungstrauma heilen", "körperorientierte therapie beziehung", "peter levine", "trauma im körper lösen"]
 draft: false

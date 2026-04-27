@@ -7,7 +7,7 @@ tags:
   - "Beziehung"
   - "Heilung"
   - "Selbstliebe"
-image: "/images/photos/hb-schematherapie-beziehung.webp"
+image: "/images/blog/gesunde-beziehung-checkliste.webp"
 imageAlt: "Paar hält Hände während Schematherapie-Sitzung für Beziehungsmuster"
 keywords: ["schematherapie", "lebensfallen", "schema beziehung", "jeffrey young", "schematherapie paar", "maladaptive schemata"]
 draft: false

@@ -7,7 +7,7 @@ tags:
   - "Tipps"
   - "Erstes-Treffen"
   - "Beziehung"
-image: "/images/photos/zweites-date.webp"
+image: "/images/blog/zweites-date-planen.webp"
 imageAlt: "Paar sitzt in einem Café und trinkt Kaffee zusammen"
 featured: false
 faq:

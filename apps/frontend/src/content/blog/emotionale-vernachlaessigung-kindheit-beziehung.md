@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Heilung"
   - "Beziehung"
-image: "/images/photos/hb-emotionale-vernachlaessigung-therapie.webp"
+image: "/images/blog/emotionale-vernachlaessigung-beziehung.webp"
 imageAlt: "Mann mit Brille in Therapieumgebung reflektiert über emotionale Vernachlässigung"
 keywords: ["emotionale vernachlässigung kindheit", "childhood emotional neglect", "jonice webb", "gefühle nicht spüren können", "emotionale leere beziehung"]
 draft: false
