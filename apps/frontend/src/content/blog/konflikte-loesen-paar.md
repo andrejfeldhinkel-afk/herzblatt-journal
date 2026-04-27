@@ -1,5 +1,5 @@
 ---
-title: "Konflikte lösen als Paar"
+title: "Konflikte lösen als Paar: Eine gesunde Anleitung"
 description: "Konflikte lösen als Paar — Dein umfassender Ratgeber auf Herzblatt Journal. Praktische Tipps und Expertenwissen für die Liebe."
 keywords: ["konflikte lösen als paar", "ratgeber", "konflikte lösen", "lösen paar"]
 date: 2025-10-13

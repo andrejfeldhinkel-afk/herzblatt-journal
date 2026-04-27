@@ -1,5 +1,5 @@
 ---
-title: "Nicht-binäres Dating"
+title: "Nicht-binäres Dating: Partnersuche jenseits der Geschlechternorm"
 description: "Wie du als nicht-binäre Person erfüllende Beziehungen aufbaust. Tipps für Dating, Pronomen, Kommunikation und Community."
 date: 2026-03-17
 image: "/images/blog/nicht-binaer-dating.webp"

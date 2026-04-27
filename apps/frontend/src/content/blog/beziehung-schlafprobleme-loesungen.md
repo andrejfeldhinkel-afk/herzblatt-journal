@@ -1,5 +1,5 @@
 ---
-title: "Beziehung und Schlafprobleme"
+title: "Beziehung und Schlafprobleme: Wenn die Nacht zum Streitthema wird"
 description: "Schlafprobleme belasten Deine Beziehung? Hier findest Du Lösungen für Schnarchen, unterschiedliche Schlafzeiten und getrennte Betten."
 date: 2026-03-16
 tags: ["Beziehung", "Gesundheit", "Zusammenleben"]

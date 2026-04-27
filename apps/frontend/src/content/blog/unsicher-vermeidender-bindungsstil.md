@@ -1,5 +1,5 @@
 ---
-title: "Unsicher-vermeidender Bindungsstil: Wenn Nähe sich wie"
+title: "Unsicher-vermeidender Bindungsstil: Wenn Nähe sich wie Bedrohung anfühlt"
 slug: "unsicher-vermeidender-bindungsstil"
 description: "Der vermeidende Bindungsstil ist Liebe mit angezogener Notbremse. Ich zeige dir, was wirklich dahinter steckt und wie du damit umgehen kannst."
 date: 2025-12-15

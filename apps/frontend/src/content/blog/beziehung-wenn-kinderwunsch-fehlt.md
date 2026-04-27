@@ -1,5 +1,5 @@
 ---
-title: "Wenn einer kein Kind will"
+title: "Wenn einer kein Kind will: Beziehungs-Kompromisse beim Kinderwunsch"
 description: "Wie ihr als Paar mit einem großen Unterschied im Kinderwunsch umgeht, ohne eure Beziehung zu zerstören."
 date: 2026-03-16
 tags: ["Beziehung", "Familie", "Lifestyle"]

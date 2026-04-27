@@ -1,5 +1,5 @@
 ---
-title: "Die Biochemie der Liebe: Was in deinem Gehirn passiert, wenn"
+title: "Die Biochemie der Liebe: Was im Gehirn passiert, wenn du dich verliebst"
 description: "Biochemie der Liebe erklärt: Dopamin, Oxytocin, Serotonin — welche Hormone dich verlieben lassen und warum Schmetterlinge vergehen."
 date: 2025-04-06
 updated: 2026-04-15

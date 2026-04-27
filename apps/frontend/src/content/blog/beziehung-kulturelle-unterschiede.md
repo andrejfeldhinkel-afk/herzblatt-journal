@@ -1,5 +1,5 @@
 ---
-title: "Interkulturelle Beziehung"
+title: "Liebe ohne Grenzen: Interkulturelle Beziehungen navigieren"
 description: "Interkulturelle Beziehung erfolgreich navigieren: Kulturelle Unterschiede, Familienerwartungen."
 date: 2026-04-01
 image: "/images/blog/beziehung-kulturelle-unterschiede.webp"

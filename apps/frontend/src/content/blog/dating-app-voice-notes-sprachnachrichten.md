@@ -1,5 +1,5 @@
 ---
-title: "Sprachnachrichten beim Dating: Warum Voice Notes das neue"
+title: "Sprachnachrichten beim Dating: Warum Voice Notes das neue Flirten sind"
 description: "Sprachnachrichten beim Dating richtig nutzen: Warum Voice Notes besser als Texte sind, wann du sie schicken solltest und wie du damit Herzen gewinnst."
 date: 2025-05-03
 updated: 2026-04-15

@@ -1,5 +1,5 @@
 ---
-title: "xLoves Test & Erfahrungen"
+title: "xLoves Test 2026: Unsere Nr. 1 Empfehlung im Dating-Bereich"
 description: "xLoves im ausführlichen Test 2026: Funktionen, Kosten, Sicherheit und echte Erfahrungen. Warum xLoves unsere Top-Empfehlung für seriöses Online-Dating ist."
 date: 2026-04-12
 tags:

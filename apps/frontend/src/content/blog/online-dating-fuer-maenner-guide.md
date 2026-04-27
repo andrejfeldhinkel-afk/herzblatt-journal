@@ -1,5 +1,5 @@
 ---
-title: "Online-Dating für Männer"
+title: "Online-Dating für Männer: Strategien, Apps und Profil-Optimierung"
 description: "Online-Dating als Mann kann frustrierend sein. Aber nicht, weil du nicht gut genug bist. Sondern weil du wahrscheinlich falsch vorgehst."
 date: 2026-03-16
 tags: ["Dating", "Online-Dating", "Partnersuche"]

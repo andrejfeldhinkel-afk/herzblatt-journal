@@ -1,5 +1,5 @@
 ---
-title: "Seitensprung verarbeiten"
+title: "Seitensprung verarbeiten: Heilung für Betrogene und Untreue"
 description: "Ein Seitensprung zerstört das Vertrauen. Lerne, wie du die Krise als Paar verarbeitest, ob ihr bleibt oder geht."
 image: "/images/blog/seitensprung-verarbeiten-beide-seiten.webp"
 imageAlt: "Paar sitzt sich gegenüber und versucht über Untreue zu sprechen"

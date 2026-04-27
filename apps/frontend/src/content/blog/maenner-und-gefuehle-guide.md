@@ -1,5 +1,5 @@
 ---
-title: "Männer und Gefühle: Warum emotionale Offenheit keine"
+title: "Männer und Gefühle: Warum emotionale Offenheit keine Schwäche ist"
 description: "Männer und Gefühle zeigen: Warum Männer lernen müssen, emotional offen zu sein — und wie das Beziehungen und mentale Gesundheit transformiert."
 date: 2025-12-05
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 'Die Wissenschaft der Liebe'
+title: "Die Wissenschaft der Liebe: Was im Gehirn passiert, wenn du dich verliebst"
 description: 'Warum verlieben wir uns? Dopamin, Oxytocin und die faszinierende Neurochemie der Liebe verständlich erklärt.'
 date: 2026-03-07
 tags:

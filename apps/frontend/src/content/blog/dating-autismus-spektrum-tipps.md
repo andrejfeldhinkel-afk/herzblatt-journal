@@ -1,5 +1,5 @@
 ---
-title: "Dating mit Autismus-Spektrum"
+title: "Dating mit Autismus-Spektrum: Wie autistische Menschen Liebe finden"
 description: "Erfolgreich daten mit Autismus: Praktische Tipps für authentische Beziehungen, Kommunikation und Selbstakzeptanz im Dating-Leben."
 keywords: ["dating mit autismus-spektrum", "neurodiversität", "dating autismus-spektrum"]
 tags:

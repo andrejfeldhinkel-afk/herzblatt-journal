@@ -1,5 +1,5 @@
 ---
-title: "Emotional Detachment: Wenn du in der Beziehung nichts mehr"
+title: "Emotional Detachment: Wenn du in der Beziehung nichts mehr fühlst"
 description: "Emotional Detachment in der Beziehung erkennen und verstehen. Warum du dich emotional abschottest, was dahinter steckt und wie du den Weg zurück findest."
 date: 2025-09-01
 tags:

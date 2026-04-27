@@ -1,5 +1,5 @@
 ---
-title: "Alte Verletzungen heilen: Wie deine Vergangenheit deine"
+title: "Alte Verletzungen heilen – Bevor du dich wieder verliebst"
 description: "Alte Verletzungen heilen: Praktische Tipps und psychologische Einblicke für eine erfüllte Beziehung. Jetzt lesen auf Herzblatt Journal."
 date: 2026-03-06
 tags:

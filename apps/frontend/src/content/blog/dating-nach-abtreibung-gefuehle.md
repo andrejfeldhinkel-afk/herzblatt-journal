@@ -1,5 +1,5 @@
 ---
-title: "Dating nach einer Abtreibung"
+title: "Dating nach einer Abtreibung – Umgang mit Gefühlen und Neuanfang"
 description: "Wie du nach einer Abtreibung wieder daten kannst, deine Gefühle verarbeitest und einen authentischen Neuanfang findest."
 date: 2026-03-16
 tags: ["Dating", "Psychologie", "Neuanfang"]

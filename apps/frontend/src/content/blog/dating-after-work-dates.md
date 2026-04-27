@@ -1,5 +1,5 @@
 ---
-title: "After-Work Dates"
+title: "After-Work Dates: So machst du den Feierabend zum Highlight"
 description: "After-Work Dates — Dein umfassender Ratgeber auf Herzblatt Journal. Praktische Tipps und Expertenwissen für die Liebe."
 keywords: ["after-work dates", "date ideen", "lebensphasen"]
 date: 2025-09-21

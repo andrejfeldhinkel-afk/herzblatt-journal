@@ -1,5 +1,5 @@
 ---
-title: "Emotionaler Rucksack"
+title: "Emotionaler Rucksack – Wie alte Wunden neue Beziehungen belasten"
 description: "Wie du deinen emotionalen Rucksack erkennst und auspacken kannst – ohne deine neue Beziehung zu zerstören."
 date: 2026-03-16
 tags: ["Beziehung", "Psychologie", "Selbstliebe"]

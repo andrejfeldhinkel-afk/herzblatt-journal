@@ -1,5 +1,5 @@
 ---
-title: "Frau ansprechen — Praktische Tipps, die wirklich"
+title: "Frau ansprechen — Praktische Tipps, die wirklich funktionieren"
 description: "Frau ansprechen: Alles was du wissen musst, um beim Dating selbstbewusst aufzutreten und die richtige Person zu finden."
 keywords: ["frau ansprechen", "dating", "flirten", "ansprechen praktische", "praktische tipps,", "tipps, wirklich"]
 tags:

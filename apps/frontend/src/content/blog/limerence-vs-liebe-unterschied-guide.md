@@ -1,5 +1,5 @@
 ---
-title: "Limerence vs. echte Liebe"
+title: "Limerence vs. echte Liebe: Der Unterschied, der alles ändert"
 description: "Lerne den Unterschied zwischen obsessiver Limerence und echter Liebe. Erkenne deine Gefühle richtig."
 date: 2026-03-29
 tags:

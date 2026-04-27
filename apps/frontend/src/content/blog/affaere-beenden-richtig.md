@@ -1,5 +1,5 @@
 ---
-title: "Affäre beenden — Wie du den Schlussstrich ziehst, ohne"
+title: "Affäre beenden: Wie du den Schlussstrich ziehst, ohne zu verletzen"
 description: "Erfahre, wie du eine Affäre beendest, ohne schuldig zu bleiben. Praktische Tipps zur Überwindung und zum Wiederherstellen deiner Integrität."
 date: 2026-03-16
 tags: ["Beziehung", "Grenzen", "Selbstliebe", "Vertrauen"]

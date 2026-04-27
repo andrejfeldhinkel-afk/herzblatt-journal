@@ -1,5 +1,5 @@
 ---
-title: "Online-Dating Sicherheit: So schützt du dich beim"
+title: "Online-Dating Sicherheit: So schützt du dich beim Online-Daten"
 description: "Online-Dating kann gefährlich sein, wenn man nicht aufpasst. Hier sind die wichtigsten Sicherheitsmaßnahmen, die dein Leben schützen."
 date: 2025-12-15
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Wochenend-Routinen für Paare"
+title: "Wochenend-Routinen für Paare: Mehr Qualität, nicht nur mehr Zeit"
 description: "Wochenend-Routinen für Paare — Erfahre bewährte Strategien und Expertentipps für eine glücklichere, stärkere Partnerschaft im Alltag."
 keywords: ["wochenend-routinen für paare", "beziehung", "lifestyle", "date ideen", "wochenend-routinen paare"]
 date: 2025-12-10

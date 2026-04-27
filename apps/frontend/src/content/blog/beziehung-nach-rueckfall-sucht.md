@@ -1,5 +1,5 @@
 ---
-title: "Beziehung nach dem Rückfall"
+title: "Beziehung nach dem Rückfall – Wenn Sucht die Partnerschaft erneut bedroht"
 description: "Ein Partner kämpft mit Sucht und erleidet einen Rückfall. Wie gehst du damit um? Wie schützt du deine Beziehung? Und wann musst du gehen?"
 date: 2026-03-16
 tags: ["Beziehung", "Gesundheit", "Heilung"]

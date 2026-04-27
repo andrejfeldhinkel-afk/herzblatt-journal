@@ -1,5 +1,5 @@
 ---
-title: "Schwierige Gespräche in der Beziehung führen — ohne"
+title: "Schwierige Gespräche in der Beziehung führen — ohne Eskalation"
 description: "Schwierige Gespräche in Beziehungen meistern ohne Eskalation. Lerne die Struktur und die Techniken für echte Verbindung trotz Spannung."
 date: 2025-03-25
 updated: 2026-04-15

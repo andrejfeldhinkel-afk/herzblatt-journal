@@ -1,5 +1,5 @@
 ---
-title: "Grenzen setzen ohne Schuld"
+title: "Grenzen setzen ohne Schuld: Der Guide für echte Grenzen in Beziehungen"
 description: "Grenzen setzen ohne Schuld — Erfahre bewährte Strategien und Expertentipps für eine glücklichere, stärkere Partnerschaft im Alltag."
 date: 2026-03-06
 tags:

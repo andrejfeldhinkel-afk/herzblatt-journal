@@ -1,5 +1,5 @@
 ---
-title: "Verlustangst in der Beziehung"
+title: "Verlustangst in der Beziehung: Woher sie kommt und was wirklich hilft"
 description: "Verlustangst zerstoert Beziehungen leise. Erfahre woher sie kommt, wie Du sie erkennst und welche konkreten Strategien wirklich helfen."
 date: 2026-03-16
 tags: ["Beziehung", "Liebeskummer", "Psychologie", "Selbstliebe"]

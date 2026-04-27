@@ -1,5 +1,5 @@
 ---
-title: "Manipulation in der Beziehung"
+title: "Manipulation in der Beziehung erkennen: 12 Warnsignale & Schutzstrategien"
 description: "Manipulation in der Beziehung erkennen. 20 Taktiken die Partner nutzen und konkrete Strategien wie du dich schützt und befreist."
 author: "thomas-peters"
 image: "/images/blog/manipulation-beziehung-erkennen.webp"

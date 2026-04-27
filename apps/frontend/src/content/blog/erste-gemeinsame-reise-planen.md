@@ -1,5 +1,5 @@
 ---
-title: "Erste gemeinsame Reise planen"
+title: "Erste gemeinsame Reise planen: Ein Abenteuer für zwei"
 description: "Die erste gemeinsame Reise ist aufregend. Hier sind praktische Tipps zum erfolgreichen Planen und Durchführen."
 keywords: ["erste gemeinsame reise planen", "ratgeber", "erste gemeinsame", "gemeinsame reise", "reise planen"]
 date: 2025-08-04

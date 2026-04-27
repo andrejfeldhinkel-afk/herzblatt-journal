@@ -1,5 +1,5 @@
 ---
-title: "Wenn Lügen auffliegen"
+title: "Wenn Lügen auffliegen: Beziehung nach langem Lügengerüst retten"
 description: "Ein Vertrauensbruch durch Lügen zerstört nicht automatisch eine Beziehung. Wie du wieder Sicherheit aufbaust und ob Verzeihen möglich ist."
 date: 2026-03-16
 tags: ["Beziehung", "Vertrauen", "Kommunikation"]

@@ -1,5 +1,5 @@
 ---
-title: "Fernbeziehung überleben"
+title: "Fernbeziehung überleben: Strategien für Liebe auf Distanz"
 description: "Fernbeziehung überleben — Dein umfassender Ratgeber auf Herzblatt Journal. Praktische Tipps und Expertenwissen für die Liebe."
 keywords: ["fernbeziehung überleben", "fernbeziehung"]
 date: 2025-05-31

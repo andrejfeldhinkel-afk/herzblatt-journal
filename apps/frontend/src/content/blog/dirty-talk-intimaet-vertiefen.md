@@ -1,5 +1,5 @@
 ---
-title: "Dirty Talk lernen"
+title: "Dirty Talk lernen: Wie du deine Intimität vertiefst"
 description: "Dirty Talk lernen — Wege zu mehr emotionaler und körperlicher Nähe in deiner Beziehung. Einfühlsam und praxisnah."
 keywords: ["dirty talk lernen", "intimität", "dirty talk", "talk lernen"]
 date: 2025-05-27

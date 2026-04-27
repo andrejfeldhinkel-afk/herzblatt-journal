@@ -1,5 +1,5 @@
 ---
-title: "Gemeinsame Hobbys finden"
+title: "Gemeinsame Hobbys finden: So wachst du mit deinem Partner zusammen"
 description: "Gemeinsame Hobbys finden: Praktische Tipps und psychologische Einblicke für eine erfüllte Beziehung. Jetzt lesen auf Herzblatt Journal."
 keywords: ["gemeinsame hobbys finden", "beziehung", "date ideen", "gemeinsame hobbys", "hobbys finden"]
 date: 2025-10-11

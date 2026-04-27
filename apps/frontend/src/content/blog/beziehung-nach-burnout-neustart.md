@@ -1,5 +1,5 @@
 ---
-title: "Beziehung nach dem Burnout"
+title: "Beziehung nach dem Burnout: Wege zurück zur emotionalen Verbindung"
 description: "Burnout zerstört nicht nur deine Karriere. Es zerstört auch Beziehungen. Wie du eine Partnerschaft wiederherstellen kannst, wenn die Erschöpfung alles..."
 date: 2026-03-16
 tags: ["Beziehung", "Gesundheit"]

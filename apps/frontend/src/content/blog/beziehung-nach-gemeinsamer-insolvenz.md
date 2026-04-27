@@ -1,5 +1,5 @@
 ---
-title: "Als Paar durch die Insolvenz"
+title: "Als Paar durch die Insolvenz – Wenn Geldprobleme eure Liebe testen"
 description: "Finanzielle Katastrophen zerstören Beziehungen. Aber sie müssen nicht. Wie Ihr Insolvenz zusammen übersteht und von Geldproblemen stärker werdet –..."
 date: 2026-03-16
 tags: ["Beziehung", "Finanzen", "Heilung"]

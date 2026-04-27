@@ -1,5 +1,5 @@
 ---
-title: "Co-Abhängigkeit überwinden"
+title: "Co-Abhängigkeit überwinden: Aus toxischer Verstrickung zu gesunder Liebe"
 description: "Co-Abhängigkeit zerstört Beziehungen. Lerne, deine Grenzen zu respektieren, Nein zu sagen und wieder unabhängig zu sein."
 date: 2026-03-29
 tags:

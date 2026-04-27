@@ -1,5 +1,5 @@
 ---
-title: "Dating und Körperbild"
+title: "Dating und Körperbild: Wenn Selbstliebe schwerfällt"
 description: "Dating und Körperbild — Lerne, dich selbst wertzuschätzen und eine gesunde Beziehung zu dir aufzubauen. Praktische Impulse."
 keywords: ["dating und körperbild", "selbstliebe", "dating körperbild"]
 date: 2025-05-17

@@ -1,5 +1,5 @@
 ---
-title: "Hochsensibel und verliebt"
+title: "Hochsensibel und verliebt: Beziehungen mit tiefen Gefühlen meistern"
 description: "Hochsensibel und verliebt — Erfahre bewährte Strategien und Expertentipps für eine glücklichere, stärkere Partnerschaft im Alltag."
 keywords: ["hochsensibel und verliebt", "beziehung", "neurodiversität", "hochsensibel verliebt"]
 date: 2025-09-04

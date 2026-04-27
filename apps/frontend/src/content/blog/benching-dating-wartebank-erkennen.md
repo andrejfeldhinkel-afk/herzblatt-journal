@@ -1,5 +1,5 @@
 ---
-title: "Benching beim Dating erkennen"
+title: "Benching beim Dating erkennen: Wenn du auf der Wartebank landest"
 description: "Benching beim Dating erkennen: Alles was du wissen musst, um beim Dating selbstbewusst aufzutreten und die richtige Person zu finden."
 keywords: ["benching beim dating erkennen", "dating", "red flags", "online dating", "kommunikation", "selbstliebe"]
 date: 2025-07-17

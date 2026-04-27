@@ -1,5 +1,5 @@
 ---
-title: "Schwule Beziehungsprobleme"
+title: "Schwule Beziehungsprobleme: Häufigste Herausforderungen und Lösungen"
 description: "Ratgeber für schwule Paare: Typische Beziehungsprobleme, Kommunikation, Eifersucht, offene Beziehungen und wie man die Partnerschaft stärkt."
 date: 2026-03-17
 image: "/images/blog/schwule-beziehungsprobleme.webp"

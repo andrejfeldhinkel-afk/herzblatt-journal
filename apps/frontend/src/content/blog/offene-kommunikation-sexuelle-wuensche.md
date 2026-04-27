@@ -1,5 +1,5 @@
 ---
-title: "Sexuelle Wünsche ansprechen"
+title: "Sexuelle Wünsche ansprechen: Der Leitfaden für ehrliche Konversationen"
 description: "Sexuelle Wünsche ansprechen — Wege zu mehr emotionaler und körperlicher Nähe in deiner Beziehung. Einfühlsam und praxisnah."
 keywords: ["sexuelle wünsche ansprechen", "intimität", "kommunikation", "sexuelle wünsche", "wünsche ansprechen"]
 date: 2025-07-10

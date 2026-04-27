@@ -1,5 +1,5 @@
 ---
-title: "Diskriminierung beim Dating"
+title: "Diskriminierung beim Dating: Umgang mit Ablehnung als queere Person"
 description: "Homophobie, Transphobie und toxische Kultur beim Queeren Dating: Wie du damit umgehen und deine Grenzen stärkst."
 date: 2026-03-17
 image: "/images/blog/diskriminierung-queeres-dating.webp"

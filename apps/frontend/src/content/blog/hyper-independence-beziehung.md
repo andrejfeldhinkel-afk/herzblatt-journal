@@ -1,5 +1,5 @@
 ---
-title: "Hyper-Independence: Wenn extreme Unabhängigkeit deine"
+title: "Hyper-Independence: Wenn extreme Unabhängigkeit deine Beziehung erstickt"
 description: "Hyper-Independence erkennen und heilen: Warum du niemanden an dich heranlässt und wie du lernst, in Beziehungen Nähe zuzulassen."
 date: 2025-10-28
 image: "/images/photos/hyper-independence-beziehung.webp"

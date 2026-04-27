@@ -1,5 +1,5 @@
 ---
-title: "Emotionale Abhängigkeit lösen"
+title: "Emotionale Abhängigkeit lösen: 7 Schritte zurück zu dir selbst"
 description: "Emotionale Abhängigkeit überwinden mit praktischen Schritten. Erkenne die Muster, arbeite an dir selbst und baue eine gesunde Beziehung auf."
 date: 2026-04-02
 tags: [emotionale-abhängigkeit, beziehung, psychologie, selbstliebe]

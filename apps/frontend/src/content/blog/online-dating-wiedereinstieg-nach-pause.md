@@ -1,5 +1,5 @@
 ---
-title: "Online-Dating Wiedereinstieg: So startest du nach einer"
+title: "Online-Dating Wiedereinstieg: So startest du nach einer Pause neu"
 description: "Online-Dating Wiedereinstieg nach langer Pause: Neues Profil, neue Strategie, neues Mindset — der komplette Guide für deinen erfolgreichen Neustart."
 date: 2025-12-15
 tags:

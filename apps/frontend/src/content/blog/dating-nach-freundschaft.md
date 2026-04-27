@@ -1,5 +1,5 @@
 ---
-title: "Vom besten Freund zum Partner"
+title: "Vom besten Freund zum Partner: Wenn aus Freundschaft Liebe wird"
 description: "Vom besten Freund zum Partner: Wie der sensible Übergang von Freundschaft zu echte Romantik funktioniert und erfolgreich gelingt."
 date: 2025-07-12
 updated: 2026-04-15

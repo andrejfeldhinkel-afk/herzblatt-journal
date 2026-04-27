@@ -1,5 +1,5 @@
 ---
-title: "Orbiting: Ex kreist um dich"
+title: "Orbiting: Wenn dein Ex um dich herumkreist"
 description: "Orbiting — Die besten Tipps und Strategien für erfolgreiches Dating. Authentisch, ehrlich und auf Augenhöhe."
 keywords: ["orbiting", "dating", "red flags", "orbiting: kreist", "kreist dich"]
 date: 2025-11-17

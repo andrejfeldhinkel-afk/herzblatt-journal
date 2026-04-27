@@ -1,5 +1,5 @@
 ---
-title: "Einseitige Liebe überwinden"
+title: "Einseitige Liebe überwinden: Wenn deine Gefühle nicht erwidert werden"
 description: "Ein praktischer Guide zur Überwindung einseitiger Liebe: Verstehe psychologische Muster, erkenne Limerence, überwinde die Friendzone und finde zu dir..."
 date: 2026-03-16
 tags: ["Beziehung", "Psychologie", "Selbstliebe"]

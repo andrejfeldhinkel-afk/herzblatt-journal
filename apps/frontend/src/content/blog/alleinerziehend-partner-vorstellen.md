@@ -1,5 +1,5 @@
 ---
-title: "Neuen Partner den Kindern vorstellen: So geht''s richtig"
+title: "Neuen Partner den Kindern vorstellen: So geht's richtig"
 description: "Neuen Partner den Kindern vorstellen — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
 date: 2025-12-15
 image: /images/blog/alleinerziehend-partner-vorstellen.webp

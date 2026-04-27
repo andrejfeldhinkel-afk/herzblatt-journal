@@ -1,5 +1,5 @@
 ---
-title: "Dating als Alleinerziehende"
+title: "Dating als Alleinerziehende: Patchwork-Familie aufbauen ohne Drama"
 description: "Dating mit Kindern ist kompliziert. Lerne, wie du einen Partner findest, der zu deiner Familie passt und wie du die richtige Balance schaffst."
 date: 2026-03-16
 tags: ["Dating", "Familie"]

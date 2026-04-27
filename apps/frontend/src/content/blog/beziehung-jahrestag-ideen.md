@@ -1,5 +1,5 @@
 ---
-title: "Kreative Jahrestags-Ideen"
+title: "Kreative Jahrestags-Ideen: 30 Wege, eure Liebe zu feiern"
 description: "Kreative Jahrestags-Ideen — Erfahre bewährte Strategien und Expertentipps für eine glücklichere, stärkere Partnerschaft im Alltag."
 keywords: ["kreative jahrestags-ideen", "beziehung", "date ideen"]
 date: 2025-11-26

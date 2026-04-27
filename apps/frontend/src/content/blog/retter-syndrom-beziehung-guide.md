@@ -1,5 +1,5 @@
 ---
-title: "Retter-Syndrom (White Knight Syndrome) — Wenn Helfen zur"
+title: "Retter-Syndrom (White Knight Syndrome): Wenn Helfen zur Sucht wird"
 description: "Verstehe das Retter-Syndrom und wie du aus destruktiven Helferdynamiken ausbrechen kannst. Ein Leitfaden zu gesundem Helfen."
 date: 2025-12-15
 author: "thomas-peters"

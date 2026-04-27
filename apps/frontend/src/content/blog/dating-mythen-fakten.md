@@ -1,5 +1,5 @@
 ---
-title: "15 Dating-Mythen vs. Fakten"
+title: "15 Dating-Mythen vs. Fakten: Was wirklich stimmt und was nicht"
 description: "15 Dating-Mythen vs. Fakten — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
 keywords: ["15 dating-mythen vs. fakten", "beziehung", "dating", "dating-mythen fakten"]
 tags:

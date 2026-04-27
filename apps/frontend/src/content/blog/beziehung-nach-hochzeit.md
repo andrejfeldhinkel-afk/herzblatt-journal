@@ -1,5 +1,5 @@
 ---
-title: "Die ersten Ehejahre"
+title: "Die ersten Ehejahre: Was sich nach der Hochzeit wirklich ändert"
 description: "Die ersten Ehejahre: Praktische Tipps und psychologische Einblicke für eine erfüllte Beziehung. Jetzt lesen auf Herzblatt Journal."
 keywords: ["die ersten ehejahre", "beziehung", "hochzeit", "ersten ehejahre"]
 date: 2025-11-25

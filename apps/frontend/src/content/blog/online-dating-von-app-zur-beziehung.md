@@ -1,5 +1,5 @@
 ---
-title: "Von der Dating-App zur Beziehung: Der Weg vom Swipe zur"
+title: "Von der Dating-App zur Beziehung: Vom ersten Swipe zur Partnerschaft"
 description: "Von der Dating-App zur festen Beziehung: Die 7 Phasen vom Match bis zur Partnerschaft — mit konkreten Tipps für jeden Schritt auf dem Weg."
 date: 2025-12-15
 tags:

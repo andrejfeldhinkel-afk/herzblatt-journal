@@ -1,5 +1,5 @@
 ---
-title: "Dating mit Angststörung"
+title: "Dating mit Angststörung: Du schaffst das, auch wenn es unmöglich scheint"
 description: "Dating mit Angststörung — Dein umfassender Ratgeber auf Herzblatt Journal. Praktische Tipps und Expertenwissen für die Liebe."
 keywords: ["dating mit angststörung", "gesundheit", "dating angststörung"]
 date: 2025-10-14

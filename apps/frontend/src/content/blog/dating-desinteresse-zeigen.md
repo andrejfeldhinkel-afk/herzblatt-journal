@@ -1,5 +1,5 @@
 ---
-title: "Spielen ist für Anfänger: Warum echtes Desinteresse falsch"
+title: "Spielen ist für Anfänger: Warum echtes Desinteresse falsch ist"
 description: "Spielen ist für Anfänger — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
 date: 2026-03-06
 tags:

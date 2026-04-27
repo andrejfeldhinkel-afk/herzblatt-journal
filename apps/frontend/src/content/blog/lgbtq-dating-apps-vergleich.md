@@ -1,5 +1,5 @@
 ---
-title: "LGBTQ+ Dating Apps 2026"
+title: "LGBTQ+ Dating Apps 2026: Die besten Apps für queere Menschen"
 description: "Dein kompletter Vergleich der besten LGBTQ+ Dating Apps 2026 — wir testen Grindr, HER, Scruff, Romeo und mehr. Mit Tipps für sicheres Online-Dating."
 date: 2026-03-17
 image: "/images/blog/lgbtq-dating-apps-vergleich.webp"

@@ -1,5 +1,5 @@
 ---
-title: "Selbstsabotage beim Dating"
+title: "Selbstsabotage beim Dating erkennen: Warum du dir selbst im Weg stehst"
 description: "Selbstsabotage-Muster beim Dating verstehen: Warum du unbewusst gute Beziehungen zerstörst und wie du es stoppst."
 date: 2026-03-29
 tags:

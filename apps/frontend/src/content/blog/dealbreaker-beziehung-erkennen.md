@@ -1,5 +1,5 @@
 ---
-title: "Dealbreaker in der Beziehung"
+title: "Dealbreaker in der Beziehung: Wann ist Schluss wirklich Schluss?"
 description: "Welche Dealbreaker solltest du nicht übersehen? Lerne, deine Grenzen zu erkennen und zu respektieren."
 keywords: ["dealbreaker in der beziehung", "ratgeber", "dealbreaker beziehung"]
 date: 2025-06-07

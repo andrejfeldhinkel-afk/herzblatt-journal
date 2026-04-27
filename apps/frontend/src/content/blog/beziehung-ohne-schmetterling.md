@@ -1,5 +1,5 @@
 ---
-title: "Liebe ohne Schmetterlinge: Echt & tief"
+title: "Liebe ohne Schmetterlinge: Echte, tiefe Verbindung statt Dauerrausch"
 description: "Liebe ohne Schmetterlinge: Lerne, ob eine Beziehung ohne anfängliche Chemie funktioniert und warum das tiefer sein kann als gedacht!"
 date: 2025-02-24
 updated: 2026-04-15

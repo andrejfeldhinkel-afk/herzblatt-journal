@@ -1,5 +1,5 @@
 ---
-title: "Heiratsantrag: 30+ kreative Ideen für die perfekte"
+title: "Heiratsantrag: 30+ kreative Ideen für die perfekte Verlobung"
 description: 'Heiratsantrag planen mit romantischen Ideen, modernen Trends und Tipps für einen unvergesslichen Moment der Liebe.'
 date: 2026-03-10
 tags:

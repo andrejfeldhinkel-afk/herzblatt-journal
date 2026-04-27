@@ -1,5 +1,5 @@
 ---
-title: "Dating-Apps im Vergleich 2026"
+title: "Dating-Apps im Vergleich 2026: Welche passt zu dir?"
 description: "Dating-Apps im Vergleich 2026 — Dein umfassender Ratgeber auf Herzblatt Journal. Praktische Tipps und Expertenwissen für die Liebe."
 keywords: ["dating-apps im vergleich 2026", "dating apps", "dating-apps vergleich", "vergleich 2026"]
 date: 2025-06-28

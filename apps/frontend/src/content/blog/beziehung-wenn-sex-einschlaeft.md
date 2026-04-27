@@ -1,5 +1,5 @@
 ---
-title: "Wenn der Sex einschläft"
+title: "Wenn der Sex einschläft – Intimität in Langzeitbeziehungen retten"
 description: "Der Sex wird immer weniger? Du bist nicht allein. Erfahr, warum Langzeitbeziehungen diese Phase erleben und wie du Intimität wieder aufbaust, ohne..."
 date: 2026-03-16
 tags: ["Beziehung", "Intimität"]

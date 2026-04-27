@@ -1,5 +1,5 @@
 ---
-title: "Dating als HSP: Dein Guide"
+title: "Dating als hochsensible Person (HSP): Dein Guide zum achtsamen Daten"
 description: "Dating als HSP — Dein umfassender Ratgeber auf Herzblatt Journal. Praktische Tipps und Expertenwissen für die Liebe."
 keywords: ["dating als hsp", "neurodiversität", "dating hsp:", "hsp: dein", "dein guide"]
 date: 2025-08-08

@@ -1,5 +1,5 @@
 ---
-title: "Wenn einer immer müde ist"
+title: "Unterschiedliche Energie-Level: Wenn einer immer müde ist"
 description: "Chronische Müdigkeit und unterschiedliche Energie-Level in Beziehungen: Wie man zusammen lebt, wenn ein Partner ständig erschöpft ist."
 date: 2026-03-16
 tags: ["Beziehung", "Gesundheit", "Zusammenleben"]

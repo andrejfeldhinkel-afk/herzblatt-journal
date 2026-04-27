@@ -1,5 +1,5 @@
 ---
-title: "Toxische Beziehung verlassen"
+title: "Toxische Beziehung verlassen: Der ehrliche Schritt-für-Schritt-Guide"
 description: "Toxische Beziehung verlassen — der komplette Guide. Erkenne die Zeichen, plane deinen Ausstieg und finde zurück zu dir selbst."
 date: 2026-03-21
 tags:

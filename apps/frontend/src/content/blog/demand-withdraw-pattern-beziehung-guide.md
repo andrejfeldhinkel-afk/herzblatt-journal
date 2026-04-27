@@ -1,5 +1,5 @@
 ---
-title: "Das Demand-Withdraw-Muster"
+title: "Das Demand-Withdraw-Muster: Wenn einer fordert und der andere flieht"
 description: "Erkenne das toxische Demand-Withdraw-Muster in deiner Beziehung und wie ihr es durchbrecht."
 date: 2026-03-29
 tags:

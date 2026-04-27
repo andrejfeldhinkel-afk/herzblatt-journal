@@ -1,5 +1,5 @@
 ---
-title: "Selbstwert und Dating"
+title: "Selbstwert und Dating: Warum du dich selbst lieben musst"
 description: "Dein Selbstwertgefühl ist deine Dating-Superpower. Lerne, deinen inneren Kritiker zu zähmen, Grenzen zu setzen, und echte Selbstliebe zu entwickeln –..."
 date: 2026-03-17
 tags: ["Beziehung", "Psychologie", "Selbstliebe"]

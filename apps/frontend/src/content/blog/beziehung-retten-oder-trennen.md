@@ -1,5 +1,5 @@
 ---
-title: 'Beziehung retten oder beenden? So triffst du die richtige'
+title: "Beziehung retten oder beenden? So triffst du die richtige Entscheidung"
 description: "Wegweiser für eine der schwierigsten Entscheidungen: Soll ich gehen oder bleiben? Mit Checklisten und klaren Orientierungspunkten."
 date: 2026-02-28
 tags:

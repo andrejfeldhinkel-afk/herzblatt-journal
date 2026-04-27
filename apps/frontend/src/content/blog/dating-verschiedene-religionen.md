@@ -1,5 +1,5 @@
 ---
-title: "Liebe über Glaubensgrenzen"
+title: "Liebe über Glaubensgrenzen: Dating in verschiedenen Religionen"
 description: "Interfaith Dating ist komplex, aber möglich. Lerne, wie du mit religiösen Unterschieden umgehen kannst und eine starke Beziehung aufbaust."
 date: 2026-03-16
 tags: ["Beziehung", "Dating", "Lifestyle"]

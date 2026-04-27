@@ -1,5 +1,5 @@
 ---
-title: "Beziehung nach Fremdgehen"
+title: "Beziehung nach Fremdgehen aufarbeiten: Vertrauen Schritt für Schritt"
 description: "Dein Partner ist fremdgegangen. Jetzt? Wie du entscheidest, bleibst oder gehst – und wie ihr wieder Vertrauen aufbaut, wenn ihr es versucht."
 date: 2026-03-18
 image: "/images/blog/beziehung-nach-fremdgehen-aufarbeiten.webp"

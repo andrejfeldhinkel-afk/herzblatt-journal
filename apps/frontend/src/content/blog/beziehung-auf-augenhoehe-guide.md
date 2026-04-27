@@ -1,5 +1,5 @@
 ---
-title: "Beziehung auf Augenhoehe"
+title: "Beziehung auf Augenhöhe: Was das wirklich bedeutet und wie du sie erreichst"
 description: "Eine Beziehung auf Augenhoehe ist der Schluessel zu langfristigem Glueck. Lerne was eine gleichberechtigte Partnerschaft ausmacht und wie Du sie aufbaust."
 date: 2026-03-16
 tags: ["Beziehung", "Kommunikation", "Konflikte", "Lifestyle"]

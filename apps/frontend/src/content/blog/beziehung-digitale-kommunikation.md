@@ -1,5 +1,5 @@
 ---
-title: "WhatsApp, Texting, Emojis"
+title: "WhatsApp, Texting & Emojis: Digitale Kommunikation in Beziehungen"
 description: "Wie du mit digitaler Kommunikation umgehen kannst, ohne dass das Texten zur Belastung wird. Ein Guide für modernes Dating."
 date: 2026-03-16
 tags: ["Beziehung", "Kommunikation", "Online-Dating"]

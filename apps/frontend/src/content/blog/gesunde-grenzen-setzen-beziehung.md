@@ -1,5 +1,5 @@
 ---
-title: "Gesunde Grenzen setzen"
+title: "Gesunde Grenzen setzen: Die Grundlage einer respektvollen Beziehung"
 description: "Gesunde Grenzen setzen — Dein umfassender Ratgeber auf Herzblatt Journal. Praktische Tipps und Expertenwissen für die Liebe."
 keywords: ["gesunde grenzen setzen", "ratgeber", "gesunde grenzen", "grenzen setzen"]
 date: 2025-07-16

@@ -1,5 +1,5 @@
 ---
-title: "Selbstsabotage in der Liebe"
+title: "Selbstsabotage in der Liebe: Warum du gute Beziehungen unbewusst zerstörst"
 description: "Selbstsabotage ist das Muster, bei dem du dein Glück selbst zerstörst. Erkenne die Muster und durchbreche den Zyklus."
 date: 2026-03-16
 tags: ["Beziehung", "Psychologie", "Selbstliebe"]

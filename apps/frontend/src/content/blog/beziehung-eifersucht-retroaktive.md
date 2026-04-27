@@ -1,5 +1,5 @@
 ---
-title: "Retroaktive Eifersucht"
+title: "Retroaktive Eifersucht: Wenn die Vergangenheit deines Partners dich quält"
 description: "Retroaktive Eifersucht — Erfahre bewährte Strategien und Expertentipps für eine glücklichere, stärkere Partnerschaft im Alltag."
 date: 2026-03-16
 tags: ["Beziehung", "Eifersucht", "Psychologie", "Selbstliebe"]

@@ -1,5 +1,5 @@
 ---
-title: "Dating und Social Media: Wie Instagram, TikTok & Co. dein"
+title: "Dating und Social Media: Wie Instagram & TikTok dein Liebesleben prägen"
 description: "Erfahre, wie soziale Medien dein Dating-Leben beeinflussen und lerne praktische Tipps für authentische Verbindungen im digitalen Zeitalter."
 date: 2026-03-10
 tags:

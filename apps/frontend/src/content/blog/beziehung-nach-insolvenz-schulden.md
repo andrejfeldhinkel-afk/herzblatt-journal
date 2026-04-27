@@ -1,5 +1,5 @@
 ---
-title: "Beziehung und Schulden"
+title: "Beziehung und Schulden – Wenn Geldprobleme die Liebe belasten"
 description: "Finanzielle Krisen können Beziehungen stark belasten. Lerne, wie du mit Schulden und Insolvenz umgehen kannst, ohne deine Partnerschaft zu zerstören."
 date: 2026-03-16
 tags: ["Beziehung", "Finanzen", "Heilung"]

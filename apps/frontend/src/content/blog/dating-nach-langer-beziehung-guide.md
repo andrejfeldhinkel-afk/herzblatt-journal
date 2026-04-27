@@ -1,5 +1,5 @@
 ---
-title: "Dating nach langer Beziehung"
+title: "Dating nach langer Beziehung: Neustart nach 5, 10 oder 20 Jahren"
 description: "Tipps für das erste Dating nach langer Beziehung. Wie du wieder daten lernst und einen Neustart nach einer langen Trennung schaffst - praktische."
 author: sarah-kellner
 image: "/images/blog/dating-nach-langer-beziehung-guide.webp"
