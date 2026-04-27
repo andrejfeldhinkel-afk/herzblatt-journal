@@ -2,6 +2,8 @@
 title: "Kulturelle Unterschiede in der Beziehung: Wie aus Differenz Staerke wird"
 description: "Interkulturelle Beziehung meistern: Sprache, Wertesysteme, Rollen-Erwartungen, Familien-Dynamik. Wie ihr aus Unterschieden eine staerkere Liebe baut, statt zu scheitern."
 date: 2026-04-27
+image: "/images/blog/beziehung-kulturelle-unterschiede.webp"
+imageAlt: "Kulturelle Unterschiede Beziehung"
 tags:
   - "Beziehung"
   - "Kommunikation"

@@ -2,6 +2,8 @@
 title: "Politische Unterschiede in der Beziehung: Wie ihr 2026 noch dieselbe Wahrheit habt"
 description: "Politische Unterschiede in der Beziehung: Wann es funktioniert, wann nicht. Wertegrenzen vs. Detail-Differenzen. So fuehrt ihr eine Beziehung trotz politischer Reibung."
 date: 2026-04-27
+image: "/images/blog/beziehung-unterschiedliche-politische-ansichten.webp"
+imageAlt: "Politische Unterschiede Paar"
 tags:
   - "Beziehung"
   - "Kommunikation"

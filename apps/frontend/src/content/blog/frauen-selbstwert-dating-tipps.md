@@ -2,6 +2,8 @@
 title: "Frauen-Selbstwert beim Dating: Wie du nicht zur Audition fuer jeden Mann wirst"
 description: "Selbstwert beim Dating: Erkenne People-Pleaser-Muster, halte deine Standards und werde nicht zur stillen Bewerberin um seine Aufmerksamkeit. Praxis-Guide."
 date: 2026-04-27
+image: "/images/blog/dating-und-selbstwert.webp"
+imageAlt: "Frauen-Selbstwert beim Dating"
 tags:
   - "Dating"
   - "Selbstliebe"

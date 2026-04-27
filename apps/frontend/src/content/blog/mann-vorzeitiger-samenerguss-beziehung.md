@@ -2,6 +2,8 @@
 title: "Vorzeitiger Samenerguss in der Beziehung: Tabu-Talk und Lösungen die wirklich helfen"
 description: "Vorzeitiger Samenerguss betrifft viele Paare. Sachliche Aufklärung, medizinische Optionen, Übungen und wie ihr ohne Schamdruck darüber sprecht."
 date: 2026-04-27
+image: "/images/blog/keine-lust-auf-sex-beziehung.webp"
+imageAlt: "Vorzeitiger Samenerguss Beziehung"
 tags:
   - "Intimität"
   - "Gesundheit"

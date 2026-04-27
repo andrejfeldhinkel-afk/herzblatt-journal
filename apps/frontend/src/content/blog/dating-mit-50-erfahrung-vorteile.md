@@ -2,6 +2,8 @@
 title: "Dating mit 50: 9 Vorteile die du mit 25 nie hattest"
 description: "Dating mit 50 hat 9 echte Vorteile, die du mit 25 nie hattest. Selbsterkenntnis, klare Dealbreaker, weniger Game-Spiele und Klarheit ueber Werte."
 date: 2026-04-27
+image: "/images/blog/dating-ab-50-kompletter-guide.webp"
+imageAlt: "Dating mit 50 Vorteile"
 tags:
   - "Dating"
   - "Partnersuche"
