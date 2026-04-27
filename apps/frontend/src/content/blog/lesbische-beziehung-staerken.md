@@ -1,5 +1,5 @@
 ---
-title: "Lesbische Beziehung stärken"
+title: "Lesbische Beziehung stärken: Tipps für eine glückliche Partnerschaft"
 description: "Ratgeber für lesbische Paare: Intimität, Kommunikation, Merging vermeiden, Paartherapie und praktische Tipps für eine erfüllte Beziehung."
 date: 2026-03-17
 image: "/images/blog/lesbische-beziehung-staerken.webp"

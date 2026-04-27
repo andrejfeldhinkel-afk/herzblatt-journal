@@ -1,5 +1,5 @@
 ---
-title: "Partner mit Depression"
+title: "Partner mit Depression: Unterstützen ohne dich selbst zu verlieren"
 description: "Ein praktischer Guide, wie du einen depressiven Partner unterstützen kannst, ohne deine eigene psychische Gesundheit zu opfern."
 image: "/images/blog/partner-depression-unterstuetzen-guide.webp"
 imageAlt: "Ein Paar sitzt zusammen; einer unterstützt den anderen liebevoll"

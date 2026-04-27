@@ -1,5 +1,5 @@
 ---
-title: "Liebe nach Kindheitstrauma"
+title: "Kindheitstrauma und Liebe: Ein unterschätzter Zusammenhang"
 description: "Wie Kindheitstrauma Beziehungen prägt, welche Bindungsmuster entstehen und wie Du eine sichere, liebevolle Partnerschaft aufbaust – mit praktischen..."
 date: 2026-03-16
 tags: ["Beziehung", "Heilung", "Psychologie"]

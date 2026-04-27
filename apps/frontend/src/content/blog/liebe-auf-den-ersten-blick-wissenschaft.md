@@ -1,5 +1,5 @@
 ---
-title: "Liebe auf den ersten Blick"
+title: "Liebe auf den ersten Blick — Phänomen zwischen Mythos und Realität"
 description: "Liebe auf den ersten Blick — Mythos oder Realität? Die Wissenschaft erklärt, was bei der Begegnung im Gehirn passiert und ob es echte Liebe sein kann."
 date: 2026-03-21
 tags:

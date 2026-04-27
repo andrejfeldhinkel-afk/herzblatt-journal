@@ -1,5 +1,5 @@
 ---
-title: "Love Avoidant: Warum manche Menschen Liebe aktiv meiden — und wie sie heilen können"
+title: "Love Avoidant: Warum manche Liebe meiden — und wie sie heilen können"
 description: "Love Avoidant erklärt: Der Bindungsstil der Distanz sucht. 9 Zeichen, Kindheitsursachen und der Weg zur sicheren Bindung."
 date: 2026-04-21
 image: "/images/blog/love-language-mismatches-guide.webp"

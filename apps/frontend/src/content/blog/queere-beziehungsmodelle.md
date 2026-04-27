@@ -1,5 +1,5 @@
 ---
-title: "Queere Beziehungsmodelle"
+title: "Queere Beziehungsmodelle: Von Monogamie bis Polyamorie"
 description: "Open Relationships, Polyamorie, Beziehungsanarchie: Wie queere Menschen Liebe und Intimität neu gestalten."
 date: 2026-03-17
 image: "/images/blog/queere-beziehungsmodelle.webp"

@@ -1,5 +1,5 @@
 ---
-title: "Queere Fernbeziehung"
+title: "Queere Fernbeziehung: Liebe auf Distanz in der LGBTQ+ Community"
 description: "Fernbeziehung in der queeren Community — Tipps für Kommunikation, Vertrauen und Sex auf Distanz. So funktioniert Liebe über Miles."
 date: 2026-03-17
 image: "/images/blog/queere-fernbeziehung-tipps.webp"

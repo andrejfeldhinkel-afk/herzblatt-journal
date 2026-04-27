@@ -1,5 +1,5 @@
 ---
-title: "Männer verstehen beim Dating"
+title: "Männer verstehen beim Dating: Was Männer wirklich wollen"
 description: "Warum ziehen sich Männer zurück? Wie drücken sie Gefühle aus? Was ist mit Love Languages? Psychologische Erkenntnisse und praktische Tipps."
 keywords: ["männer verstehen beim dating", "dating", "partnersuche", "psychologie", "männer verstehen", "verstehen beim"]
 tags:

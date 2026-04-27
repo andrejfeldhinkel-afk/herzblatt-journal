@@ -1,5 +1,5 @@
 ---
-title: "Kommunikationsprobleme in der Beziehung — Warum ihr"
+title: "Kommunikationsprobleme in der Beziehung: Warum ihr aneinander vorbeiredet"
 description: "Kommunikationsprobleme in der Beziehung — Erfahre bewährte Strategien und Expertentipps für eine glücklichere, stärkere Partnerschaft im Alltag."
 date: 2026-03-16
 tags: ["Beziehung", "Kommunikation", "Psychologie"]

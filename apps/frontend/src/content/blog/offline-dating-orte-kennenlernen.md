@@ -1,5 +1,5 @@
 ---
-title: "Offline Dating: Beste Orte"
+title: "Offline Dating: Die besten Orte zum Kennenlernen in Deutschland"
 description: "Offline Dating — Die besten Tipps und Strategien für erfolgreiches Dating. Authentisch, ehrlich und auf Augenhöhe."
 keywords: ["offline dating", "date ideen", "dating", "offline dating:", "dating: beste", "beste orte"]
 date: 2025-10-30

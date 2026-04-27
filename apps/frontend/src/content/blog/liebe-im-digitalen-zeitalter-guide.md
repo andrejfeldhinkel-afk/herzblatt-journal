@@ -1,5 +1,5 @@
 ---
-title: "Liebe im digitalen Zeitalter"
+title: "Liebe im digitalen Zeitalter: Wie Technologie unsere Beziehungen verändert"
 description: "Entdecke, wie Technologie unsere Liebe transformiert. Von Social Media bis Dating-Apps bis Cyberstalking – verstehe die Auswirkungen digitaler..."
 date: 2026-03-17
 tags: ["Beziehung", "Digital Detox", "Online-Dating"]
