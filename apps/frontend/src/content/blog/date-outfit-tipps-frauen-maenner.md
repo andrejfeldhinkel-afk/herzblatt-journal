@@ -171,5 +171,5 @@ Also geh und find deinen Look. Und dann, am wichtigsten: Geh auf das Date und sa
 ## Weiterführende Artikel
 
 - [Romantische Date-Ideen für Zuhause](/blog/date-ideen-zuhause)
-- [Zweites Date: Tipps für ein perfektes Wiedersehen](/blog/zweites-date-planen)
+- [Zweites Date: Tipps für ein perfektes Wiedersehen](/blog/zweites-date-tipps)
 - [Dating-Apps Algorithmus hacken](/blog/dating-apps-algorithmus-hacken-guide)

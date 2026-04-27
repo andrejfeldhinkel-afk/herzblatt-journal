@@ -310,6 +310,6 @@ Das reicht.
 ## Das könnte dich auch interessieren
 
 - [Online-Dating-Profil optimieren: Guide für Männer](/blog/online-dating-profil-optimieren-maenner/)
-- [Das perfekte Dating-Profil](/blog/perfektes-dating-profil/)
+- [Das perfekte Dating-Profil](/blog/online-dating-profiltext/)
 - [Dating-Profil optimieren: So hebst du dich von der Masse ab](/blog/dating-profil-optimieren/)
-- [10 Online-Dating Fehler die fast jeder macht](/blog/online-dating-fehler/)
+- [10 Online-Dating Fehler die fast jeder macht](/blog/dating-fehler-frauen/)

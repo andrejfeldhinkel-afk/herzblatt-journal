@@ -1013,6 +1013,6 @@ Und du wirst durchkommen. Mit Unterstützung, mit Zeit und mit der Fähigkeit, w
 
 ## Weitere Ressourcen
 
-- [Wie erkennst du Red Flags in Beziehungen](/blog/red-flags-erkennen)
+- [Wie erkennst du Red Flags in Beziehungen](/blog/dating-red-flags-maenner-erkennen)
 - [Emotionale Manipulation: Wie du dich schützt](/blog/emotionale-manipulation-beziehung-erkennen)
 - [Toxische Beziehungen verlassen: Ein praktischer Leitfaden](/blog/toxische-beziehung-verlassen)

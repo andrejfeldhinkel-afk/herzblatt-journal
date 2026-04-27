@@ -136,4 +136,4 @@ Kein Sex ist ein Signal, nicht ein Problem. Ein Signal, dass etwas sich verände
 - [Beziehung ohne Sex: Ursachen, Lösungen und Wichtiges](/blog/beziehung-ohne-sex/)
 - [Sex vs. Liebe machen: Gibt es einen Unterschied?](/blog/unterschied-sex-liebe-machen/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)

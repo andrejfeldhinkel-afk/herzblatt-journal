@@ -102,5 +102,5 @@ Und die beste Frage ist nicht "Kann ich ihm oder ihr vergeben?" Es ist "Verdiene
 - [Nach Vertrauensbruch: Heilung und Neuanfang finden](/blog/beziehung-nach-vertrauensbruch/)
 - [Beziehung nach einer Affäre: Ist ein Neuanfang möglich?](/blog/beziehung-nach-affaere-neuanfang/)
 - [Emotionaler Missbrauch in Beziehungen: Warnsignale erkennen](/blog/emotionaler-missbrauch-erkennen/)
-- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-toxischer-beziehung/)
+- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-narzisst/)
 - [Grenzen setzen in der Beziehung: Liebe mit Selbstschutz](/blog/beziehung-und-grenzen-setzen/)

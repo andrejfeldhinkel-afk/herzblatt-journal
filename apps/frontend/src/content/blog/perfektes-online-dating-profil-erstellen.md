@@ -528,7 +528,7 @@ Wenn die Antwort ja ist, dann bist du bereit. Und die richtige Person wird es f�
 
 ## Das könnte dich auch interessieren
 
-- [Das perfekte Dating-Profil](/blog/perfektes-dating-profil/)
+- [Das perfekte Dating-Profil](/blog/online-dating-profiltext/)
 - [So erstellst du ein Dating-Profil, das wirklich auffällt](/blog/online-dating-profil/)
 - [Online-Dating-Profil optimieren: Guide für Männer](/blog/online-dating-profil-optimieren-maenner/)
 - [Dating-Profil optimieren — Vorher/Nachher Beispiele mit](/blog/dating-profil-beispiele-vorher-nachher/)

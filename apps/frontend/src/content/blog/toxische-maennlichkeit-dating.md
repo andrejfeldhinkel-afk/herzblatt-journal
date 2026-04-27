@@ -152,10 +152,10 @@ Ihre Sicherheit und mentale Gesundheit sind nicht verhandelbar. Eine echte Liebe
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating), [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-guide), [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden).## Weiterlesen
 
-- [Red Flags bei Männern – 15 Warnsignale beim Dating](/blog/dating-red-flags-maenner/)
-- [5 toxische Dating-Muster, die du sofort durchbrechen](/blog/toxische-dating-muster/)
+- [Red Flags bei Männern – 15 Warnsignale beim Dating](/blog/dating-red-flags-maenner-erkennen/)
+- [5 toxische Dating-Muster, die du sofort durchbrechen](/blog/toxische-beziehung-erkennen/)
 - [Die Psychologie des Online-Datings: Warum wir swipen wie wir](/blog/online-dating-psychologie/)
 - [Toxische Männlichkeit heilen: Ein Guide für Männer die mehr](/blog/toxische-maennlichkeit-heilen-guide/)
 - [Autismus und Dating: Liebe finden auf dem Spektrum](/blog/autismus-und-dating-guide/)

@@ -977,6 +977,6 @@ Für mehr über [wie deine Bindungsstile beeinflussen deine Beziehungen](/blog/b
 
 - [Fawn Response: Wenn du dich in Beziehungen aufgibst, um](/blog/fawn-response-beziehung-guide/)
 - [Hyper-Independence: Wenn extreme Unabhängigkeit deine](/blog/hyper-independence-beziehung/)
-- [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inneres-kind-heilen-beziehung/)
+- [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inner-child-beziehung/)
 - [Parentifizierung: Wenn du als Kind die Elternrolle](/blog/parentifizierung-beziehungen-guide/)
 - [Scheidungskinder und Liebe: Wie die Trennung deiner Eltern](/blog/scheidungskinder-beziehungen-erwachsene/)

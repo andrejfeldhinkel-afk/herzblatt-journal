@@ -381,5 +381,5 @@ Es ist nur... unterschiedlich. Und unterschiedlich kann wunderbar sein.
 
 - [Dating nach Scheidung mit Kindern: So klappt es wirklich](/blog/dating-nach-scheidung-mit-kindern/)
 - [Patchwork-Familie: Dating und Beziehungen](/blog/patchwork-familie-dating/)
-- [Dating mit Kindern: Eine neue Beziehung aufbauen](/blog/dating-mit-kindern/)
+- [Dating mit Kindern: Eine neue Beziehung aufbauen](/blog/dating-mit-kind/)
 - [Dating als Alleinerziehende/r: Der ehrliche Eltern-Guide](/blog/dating-als-elternteil-guide/)

@@ -133,4 +133,4 @@ Detaillierte Infos bietet Neurologen und Psychiater im Netz: [Neurologen und Psy
 - [Vertrauensmissbrauch in der Beziehung – Wie Heilung gelingt](/blog/beziehung-nach-vertrauensmissbrauch/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 - [Nach dem großen Vertrauensbruch: Reden oder gehen?](/blog/beziehung-nach-grossem-vertrauensbruch/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)

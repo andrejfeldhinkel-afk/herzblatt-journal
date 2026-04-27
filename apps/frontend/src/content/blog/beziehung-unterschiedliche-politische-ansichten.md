@@ -880,7 +880,7 @@ Nicht bleiben in Hoffnung, dass sie sich ändern.
 
 - [Silent Treatment: Wenn Schweigen zur Waffe wird](/blog/silent-treatment-beziehung/)
 - [Stonewalling: Wenn der Partner mauert](/blog/stonewalling-beziehung/)
-- [Unterschiedliche Libido in der Beziehung: Wenn einer mehr](/blog/beziehung-unterschiedliche-libido/)
+- [Unterschiedliche Libido in der Beziehung: Wenn einer mehr](/blog/beziehung-unterschiedliche-libido-loesungen/)
 - [Beziehung trotz verschiedener Religionen](/blog/beziehung-unterschiedliche-religionen/)
 - [Trennung](/blog/trennung-verarbeiten-12-schritte)**
 

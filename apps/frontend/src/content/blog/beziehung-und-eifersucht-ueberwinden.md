@@ -178,7 +178,7 @@ Mit der Zeit, wenn du konsistent an dir arbeitest, wenn du dein Selbstwertgefüh
 Du wirst feststellen, dass du einen Partner hast, dem du vertraust. Du wirst feststellen, dass du dir selbst vertraust. Du wirst feststellen, dass die Beziehung nicht auf Angst aufgebaut ist, sondern auf echter Liebe und echtem Vertrauen. Und das ist ein Preis, der infinit mehr wert ist als die Angst, die dich bis dahin bewegt hat.## Weiterlesen
 
 - [Verletzlichkeit in Beziehungen: Warum emotionale Offenheit](/blog/verletzlichkeit-beziehung-guide/)
-- [Eifersucht in der Beziehung überwinden: So schaffst du es](/blog/eifersucht-beziehung-ueberwinden/)
+- [Eifersucht in der Beziehung überwinden: So schaffst du es](/blog/eifersucht-bekaempfen/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
 - [Beziehung und Achtsamkeit: Bewusster lieben](/blog/beziehung-und-achtsamkeit/)
 - [Beziehung und Humor: Warum gemeinsam Lachen verbindet](/blog/beziehung-und-humor/)

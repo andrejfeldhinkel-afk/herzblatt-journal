@@ -145,7 +145,7 @@ Als Erwachsener kannst Du bewusst neue Grenzen mit Deinen Eltern etablieren. Das
 
 ## Das könnte dich auch interessieren
 
-- [Toxische Dating-Muster erkennen und durchbrechen](/blog/toxische-dating-muster-durchbrechen/)
+- [Toxische Dating-Muster erkennen und durchbrechen](/blog/toxische-beziehung-erkennen/)
 - [Toxische Positivität beim Dating – Wenn Optimismus schadet](/blog/toxische-positivitaet-dating/)
 - [Dating nach psychischer Erkrankung: Der behutsame Weg zurück](/blog/dating-nach-psychischer-erkrankung/)
 - [Attachment Styles: Einfluss auf dein Dating](/blog/attachment-styles-dating-verstehen/)

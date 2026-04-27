@@ -708,7 +708,7 @@ Das ist nicht die Illusion der Schmetterlinge. Das ist echte, grounded, täglich
 
 Und das ist das Zeug, aus dem langfristige Glück gemacht ist.
 
-Lese auch: Beziehung Kommunikation verbessern, [Toxische Dating-Muster durchbrechen](/blog/toxische-dating-muster-durchbrechen)
+Lese auch: Beziehung Kommunikation verbessern, [Toxische Dating-Muster durchbrechen](/blog/toxische-beziehung-erkennen)
 
 ### Die 5 Fragen die du dir ehrlich beantworten musst
 
@@ -749,7 +749,7 @@ Beantwortete diese fünf Fragen für dich. Schreibe die Antworten auf. Teile sie
 ## Weiterlesen
 
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Verschiedene Lebenspläne in der Beziehung: Wenn Liebe allein](/blog/beziehung-verschiedene-lebensplaene/)
 - [Mental Load in der Beziehung: Die unsichtbare Last fair](/blog/emotional-load-beziehung-mental-load/)
 - [Emotionsregulation in Beziehungen: Wie du lernst, deine](/blog/emotionsregulation-beziehung-guide/)

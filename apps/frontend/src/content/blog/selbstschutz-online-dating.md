@@ -175,5 +175,5 @@ Sei klug. Sei vorsichtig. Sei sicher. Und dann geh hin und find den Menschen, de
 
 - [Online-Dating Sicherheit für Frauen](/blog/online-dating-sicherheit-frauen-tipps/)
 - [Online Dating für Frauen: Der ehrliche Guide](/blog/online-dating-frauen-guide/)
-- [Perfekte Fotos fürs Online-Dating](/blog/online-dating-fotos/)
+- [Perfekte Fotos fürs Online-Dating](/blog/dating-profile-fotos-tipps/)
 - [Online-Dating-Profil optimieren: Guide für Männer](/blog/online-dating-profil-optimieren-maenner/)

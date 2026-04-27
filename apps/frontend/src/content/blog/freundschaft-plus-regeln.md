@@ -143,7 +143,7 @@ Wenn du alle diese Punkte mit jemandem abdecken kannst und ihr wirklich beide de
 Aber wenn etwas davon nicht passt? Dann ist es besser, ehrlich zu sein und entweder zu einer echten Beziehung oder zu reiner Freundschaft zu wechseln. Das ist schwächer, nicht stärker – und es respektiert beide.## Weiterlesen
 
 - [Vom besten Freund zum Partner](/blog/dating-nach-freundschaft/)
-- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-dating/)
+- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-guide/)
 - [Bindungsstile im Dating: Warum du immer wieder an die](/blog/bindungsstile-dating/)
-- [Dating ab 40: Neustart in der Lebensmitte](/blog/dating-nach-40-neustart/)
+- [Dating ab 40: Neustart in der Lebensmitte](/blog/dating-ab-40/)
 - [Dating nach der Scheidung: Neues Kapitel](/blog/dating-nach-scheidung/)

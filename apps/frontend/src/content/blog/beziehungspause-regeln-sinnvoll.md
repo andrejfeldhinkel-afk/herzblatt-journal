@@ -797,5 +797,5 @@ Wenn eine Pause erfolgreich ist, kann sie eine [wie man am Rande steht zu trenne
 - [Beziehungspause: Sinnvoll oder Anfang vom Ende?](/blog/beziehungspause-sinnvoll/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 - [Beziehungspause: Regeln die wirklich helfen](/blog/beziehung-pause-regeln/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Beziehung retten: Der ehrliche Guide wenn es die letzte](/blog/beziehung-retten-letzte-chance/)

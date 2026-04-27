@@ -266,5 +266,5 @@ Das ist die Liebe, die über Zeit wächst.
 - [Beziehung nach Elternschaft: Wie ihr als Paar wieder](/blog/beziehung-nach-elternschaft-zurueckfinden/)
 - [Wenn die Lust nachlässt: Ursachen und Lösungen](/blog/beziehung-nach-sexueller-unlust/)
 - [Beziehung ohne Sex: Ursachen, Lösungen und Wichtiges](/blog/beziehung-ohne-sex/)
-- [Unterschiedliche Libido in der Beziehung: Wenn einer mehr](/blog/beziehung-unterschiedliche-libido/)
+- [Unterschiedliche Libido in der Beziehung: Wenn einer mehr](/blog/beziehung-unterschiedliche-libido-loesungen/)
 - [Love Maps — Wie gut kennst du deinen Partner wirklich?](/blog/love-map-gottman-beziehung-guide/)

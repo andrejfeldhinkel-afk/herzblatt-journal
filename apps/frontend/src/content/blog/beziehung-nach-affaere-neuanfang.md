@@ -144,6 +144,6 @@ Am Ende ist Vergebung nicht die gleiche wie die Beziehung Reparatur. Du kannst d
 ## Das könnte dich auch interessieren
 
 - [Vertrauensmissbrauch in der Beziehung — Wie Heilung gelingt](/blog/beziehung-nach-vertrauensmissbrauch/)
-- [Kann man einer Beziehung nach Betrug vertrauen?](/blog/vertrauen-nach-betrug)
+- [Kann man einer Beziehung nach Betrug vertrauen?](/blog/vertrauen-aufbauen-beziehung)
 - [Emotionaler Missbrauch in Beziehungen: Warnsignale erkennen](/blog/emotionaler-missbrauch-erkennen/)
 

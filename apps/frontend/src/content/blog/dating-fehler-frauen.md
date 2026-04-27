@@ -133,7 +133,7 @@ Die beste Version von dir ist:
 
 **Weiterlesen:** Entdecke auch unsere [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-alleinerziehend-kompletter-leitfaden/), [Dating in Augsburg: Die besten Orte & Tipps für Singles](/blog/dating-augsburg).## Weiterlesen
 
-- [10 Dating-Fehler, die Männer ständig machen (und wie du sie](/blog/dating-fehler-maenner/)
+- [10 Dating-Fehler, die Männer ständig machen (und wie du sie](/blog/dating-fehler-frauen/)
 - [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Dating in Aachen: Die besten Orte, Tipps & Hotspots](/blog/dating-aachen/)
 - [Dating als Veganer/in](/blog/dating-als-veganer/)

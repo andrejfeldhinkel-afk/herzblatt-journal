@@ -126,5 +126,5 @@ Das ist kein „alles passiert aus einem Grund"-Trostspruch. Es ist eine pragmat
 
 - [Trennung verarbeiten: Schritt für Schritt – Dein Weg zum Neuanfang](/blog/trennung-verarbeiten-komplett/)
 - [Ghosting – Warum es passiert und wie du damit umgehst](/blog/ghosting-umgehen-tipps/)
-- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung-wann-bereit/)
+- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung/)
 - [Trennung verarbeiten: 12 Schritte die wirklich helfen](/blog/trennung-verarbeiten-12-schritte/)

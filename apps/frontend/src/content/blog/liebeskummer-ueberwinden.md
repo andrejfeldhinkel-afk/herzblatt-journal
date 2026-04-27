@@ -136,7 +136,7 @@ Liebeskummer ist scheiße. Aber es ist auch lebensverändernd – wenn du es ric
 Gib dir selbst Zeit und Sanftheit. Du schaffst das.## Weiterlesen
 
 - [Liebeskummer überwinden: 15 Soforthilfen](/blog/liebeskummer-schnell-ueberwinden/)
-- [Bindungsangst überwinden: Warum du dich nicht einlassen](/blog/bindungsangst-ueberwinden/)
+- [Bindungsangst überwinden: Warum du dich nicht einlassen](/blog/bindungsangst-komplett-guide/)
 - [Codependenz erkennen und überwinden: Raus aus der](/blog/codependenz-erkennen-ueberwinden/)
 - [Die Kraft der Berührung: Warum körperliche Nähe heilt](/blog/beruehrungen-beziehung-bedeutung/)
 - [Beziehung nach schwerer Krankheit: Wieder zueinander finden](/blog/beziehung-nach-krankheit/)

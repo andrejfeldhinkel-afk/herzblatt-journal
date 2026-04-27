@@ -261,7 +261,7 @@ Das ist möglich. Du kannst das tun.
 
 ## Das könnte dich auch interessieren
 
-- [Dating mit Kindern: Eine neue Beziehung aufbauen](/blog/dating-mit-kindern/)
+- [Dating mit Kindern: Eine neue Beziehung aufbauen](/blog/dating-mit-kind/)
 - [Dating nach langer Beziehung: Neustart nach 5, 10 oder 20 Jahren](/blog/dating-nach-langer-beziehung-guide/)
 - [Trauma und Dating: Mit Vergangenheit daten](/blog/trauma-und-dating-heilen/)
 - [Asexualität in Dating und Beziehung – Alles, was du wissen musst](/blog/asexualitaet-dating-beziehung/)

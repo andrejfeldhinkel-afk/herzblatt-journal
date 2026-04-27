@@ -251,7 +251,7 @@ Das ist ein Geschenk. Das sind Fähigkeiten, die jedes Paar braucht.
 Siehe auch: [Emotionale Intelligenz in Beziehungen: Der Schlüssel zu einer glücklichen Partnerschaft](/blog/emotionale-intelligenz-beziehung)
 ## Weiterlesen
 
-- [Liebe auf Distanz: So übersteht eure Fernbeziehung jede](/blog/liebe-auf-distanz-tipps/)
+- [Liebe auf Distanz: So übersteht eure Fernbeziehung jede](/blog/fernbeziehung-tipps/)
 - [Fernbeziehung beenden: Zusammenziehen](/blog/beziehung-fernbeziehung-zusammenziehen/)
 - [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)

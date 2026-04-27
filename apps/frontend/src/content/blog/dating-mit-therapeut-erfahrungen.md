@@ -480,6 +480,6 @@ Es gibt kein "richtig". Es gibt nur, was funktioniert für dich.
 ## Das könnte dich auch interessieren
 
 - [Slow Dating: Warum weniger Matches zu mehr Liebe führen](/blog/slow-dating-guide/)
-- [Slow Dating – Warum weniger Matches zu mehr Liebe führen](/blog/slow-dating-trend/)
+- [Slow Dating – Warum weniger Matches zu mehr Liebe führen](/blog/slow-dating-guide/)
 - [Interkulturell Dating – Wenn Kulturen aufeinander treffen](/blog/dating-nach-interkulturellen-erfahrungen/)
 - [Dating im Herbst: Warum jetzt die beste Zeit zum Verlieben](/blog/dating-im-herbst/)

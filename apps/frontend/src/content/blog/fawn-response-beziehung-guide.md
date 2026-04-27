@@ -186,6 +186,6 @@ Der Weg ist hier. Der erste Schritt ist sehen. Du siehst bereits. Das ist schon 
 
 - [Emotional Detachment: Wenn du in der Beziehung nichts mehr](/blog/emotional-detachment-beziehung/)
 - [Hyper-Independence: Wenn extreme Unabhängigkeit deine](/blog/hyper-independence-beziehung/)
-- [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inneres-kind-heilen-beziehung/)
+- [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inner-child-beziehung/)
 - [Parentifizierung: Wenn du als Kind die Elternrolle](/blog/parentifizierung-beziehungen-guide/)
 - [Coming-Out in der Beziehung: Wenn du dich selbst findest](/blog/coming-out-und-beziehung-guide/)

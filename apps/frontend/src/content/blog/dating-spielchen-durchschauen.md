@@ -188,7 +188,7 @@ Weitere spezifische Red Flags sind:
 - Er/Sie isoliert dich oder kontrolliert, wer in dein Leben darf
 - Er/Sie macht sich über deine Gefühle lustig oder invalidiert sie
 
-[Red Flags erkennen](/blog/red-flags-erkennen)
+[Red Flags erkennen](/blog/dating-red-flags-maenner-erkennen)
 
 ## Warum du anfällig für Spielchen bist — ehrliche Selbstreflexion
 
@@ -411,7 +411,7 @@ Drittens, überprüfe nicht die App ständig. Mach es nicht zu einer Sucht. Je s
 
 Viertens, bleib Standard auf High. Online-Dating ist einfach. Das bedeutet nicht, dass du Spielche akzeptieren darfst. Fakt behalt deine Grenzen auf.
 
-[Dating Burnout](/blog/dating-burnout)
+[Dating Burnout](/blog/dating-nach-burnout)
 
 ## Wann Spielchen ein Zeichen für ernsthafte Probleme sind
 
@@ -559,7 +559,7 @@ Deine Energie wird wiederhergestellt. Das konstante Swipe, das konstante Hoffen,
 
 Und manchmal, wenn du nicht für dich suchst, findest du jemand organisch. Weil dein Leben wirklich ist. Dein Leben ist interessant. Dein Leben hat Struktur. Und die Menschen werden zu dir gezogen.
 
-[Dating Burnout](/blog/dating-burnout)
+[Dating Burnout](/blog/dating-nach-burnout)
 
 ## Die letzte Wahrheit: Du brauchst nicht jemanden, um komplett zu sein
 
@@ -717,4 +717,4 @@ Du bist näher daran, als du denkst.## Weiterlesen
 - [Die Psychologie des Online-Datings: Warum wir swipen wie wir](/blog/online-dating-psychologie/)
 - [Autismus und Dating: Liebe finden auf dem Spektrum](/blog/autismus-und-dating-guide/)
 - [Dating als Ambivert: Dein Vorteil wenn du weder](/blog/dating-als-ambivert/)
-- [Demisexualität und Dating: Wenn sexuelle Anziehung erst](/blog/demisexualitaet-dating-guide/)
+- [Demisexualität und Dating: Wenn sexuelle Anziehung erst](/blog/demisexuell-dating-guide/)

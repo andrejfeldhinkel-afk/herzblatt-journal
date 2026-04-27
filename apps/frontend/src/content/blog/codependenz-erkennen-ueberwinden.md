@@ -30,9 +30,9 @@ faq:
     answer: "Die Bewusstwerdung kommt oft schnell. Die tiefere Veränderung braucht meist 1-2 Jahre aktiver Arbeit. Rückfälle sind normal und kein Scheitern. Es ist ein Prozess, kein Event."
 ---
 
-Du fragst nicht nach deinen eigenen Wünschen in der [Bindungsstil](/blog/attachment-style-aendern-sicher-werden) verbunden ist — oft ist Codependenz eine Ausprägung von ängstlichem [innere Kindheit-Wunden](/blog/inneres-kind-heilen-beziehung) deine codependente Muster antreiben. Die Wurzeln sind oft dort.
+Du fragst nicht nach deinen eigenen Wünschen in der [Bindungsstil](/blog/attachment-style-aendern-sicher-werden) verbunden ist — oft ist Codependenz eine Ausprägung von ängstlichem [innere Kindheit-Wunden](/blog/inner-child-beziehung) deine codependente Muster antreiben. Die Wurzeln sind oft dort.
 
-Und erkunde [emotionale Intelligenz](/blog/emotionale-intelligenz-dating) als ein Tool um dich selbst besser zu verstehen.
+Und erkunde [emotionale Intelligenz](/blog/emotionale-intelligenz-beziehung) als ein Tool um dich selbst besser zu verstehen.
 
 ## Das Fallbeispiel: Marias Weg aus Codependenz
 
@@ -582,4 +582,4 @@ Ein Mann sagte: "Ich dachte ich liebte meine Frau so sehr dass ich nicht verlass
 - [Emotional Detachment: Wenn du in der Beziehung nichts mehr](/blog/emotional-detachment-beziehung/)
 - [Fawn Response: Wenn du dich in Beziehungen aufgibst, um](/blog/fawn-response-beziehung-guide/)
 - [Hyper-Independence: Wenn extreme Unabhängigkeit deine](/blog/hyper-independence-beziehung/)
-- [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inneres-kind-heilen-beziehung/)
+- [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inner-child-beziehung/)

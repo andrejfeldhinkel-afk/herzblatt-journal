@@ -504,4 +504,4 @@ Wenn sie das nicht tun wollen – das ist auf ihnen. Nicht auf dir.
 - [Beziehungsmuster aus der Kindheit](/blog/beziehungsmuster-kindheit-erkennen-durchbrechen/)
 - [Unbewusste Beziehungsmuster durchbrechen](/blog/unbewusste-beziehungsmuster/)
 - [Wiederkehrende Konfliktmuster durchbrechen](/blog/beziehung-konfliktmuster-durchbrechen/)
-- [Toxische Dating-Muster erkennen und durchbrechen](/blog/toxische-dating-muster-durchbrechen/)
+- [Toxische Dating-Muster erkennen und durchbrechen](/blog/toxische-beziehung-erkennen/)

@@ -229,5 +229,5 @@ Und wenn du gerade aus einer heraus bist und nicht weißt, wie du heilen kannst,
 - [Die Kraft der Berührung: Warum körperliche Nähe heilt](/blog/beruehrungen-beziehung-bedeutung/)
 - [Daddy Issues: Wie dein Vater deine Beziehungen beeinflusst](/blog/daddy-issues-beziehung/)
 - [Silent Treatment in der Beziehung](/blog/silent-treatment-beziehung/)
-- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-toxischer-beziehung/)
+- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-narzisst/)
 - [Emotional Detachment: Wenn du in der Beziehung nichts mehr](/blog/emotional-detachment-beziehung/)

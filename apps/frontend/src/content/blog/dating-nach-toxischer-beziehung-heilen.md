@@ -250,7 +250,7 @@ Die größte Lektion aus einer toxischen Beziehung ist nicht, dass Liebe schlech
 
 ## Das könnte dich auch interessieren
 
-- [Dating nach toxischer Beziehung: Heilen und neu anfangen](/blog/dating-nach-toxischer-beziehung/)
+- [Dating nach toxischer Beziehung: Heilen und neu anfangen](/blog/dating-nach-narzisst/)
 - [Heilung nach einer toxischen Beziehung](/blog/nach-toxischer-beziehung-heilen/)
 - [Dating nach langer Beziehung: Neustart nach 5, 10 oder 20 Jahren](/blog/dating-nach-langer-beziehung-guide/)
 - [Heilung nach toxischer Beziehung: Der komplette Recovery-Guide](/blog/heilung-nach-toxischer-beziehung/)

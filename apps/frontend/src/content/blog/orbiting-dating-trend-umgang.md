@@ -158,5 +158,5 @@ Dein Profil, dein Feed, dein Story-Bereich gehören dir. Du entscheidest, wer mi
 
 - [Slow Dating: Achtsam Liebe finden](/blog/slow-dating-trend-bewusst-daten/)
 - [Roaching: Dating-Trend erkennen](/blog/roaching-dating-trend-erkennen/)
-- [Slow Dating – Warum weniger Matches zu mehr Liebe führen](/blog/slow-dating-trend/)
+- [Slow Dating – Warum weniger Matches zu mehr Liebe führen](/blog/slow-dating-guide/)
 - [Micro-Dating: Der Trend für Vielbeschäftigte](/blog/micro-dating-trend-guide/)

@@ -156,5 +156,5 @@ Wenn Du erkennst, dass Du Verhaltensweisen aus deiner Geschichte unbewusst weite
 Weitere Informationen findest du bei Psychologie Heute: [Psychologie Heute](https://www.psychologie-heute.de/)
 
 Detaillierte Infos bietet Neurologen und Psychiater im Netz: [Neurologen und Psychiater im Netz](https://www.neurologen-und-psychiater-im-netz.org/)
-- [Dating nach einer Ghosting-Erfahrung: Wieder vertrauen](/blog/dating-nach-ghosting-erfahrung/)
+- [Dating nach einer Ghosting-Erfahrung: Wieder vertrauen](/blog/ghosting-umgehen-tipps/)
 - [Dating nach Jobverlust: Lohnt es sich trotzdem?](/blog/dating-nach-jobverlust/)

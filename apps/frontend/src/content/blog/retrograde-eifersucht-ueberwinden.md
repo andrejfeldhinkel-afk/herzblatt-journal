@@ -154,5 +154,5 @@ Die Vergangenheit ist ein Ort, wo dein Partner mal war. Aber Gegenwart? Das ist 
 Wenn du an deinen Beziehungsmuster arbeiten möchtest, könnte dich auch interessieren:
 
 - [Vertrauen in Beziehungen wieder aufbauen](/blog/vertrauensbruch-beziehung-neu-aufbauen/)
-- [Besitzergreifende Liebe erkennen und loslassen](/blog/eifersucht-beziehung-ueberwinden/)
+- [Besitzergreifende Liebe erkennen und loslassen](/blog/eifersucht-bekaempfen/)
 - [Unsicherheit in der Beziehung: Woher sie kommt und wie du sie überwindest](/blog/unsicherheit-beziehung-überwinden)

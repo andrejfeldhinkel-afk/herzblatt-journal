@@ -1169,4 +1169,4 @@ Alles andere ist Ablenkung.
 - [Micro-Habits für eine bessere Beziehung: Kleine Gewohnheiten](/blog/micro-habits-bessere-beziehung/)
 - [Beziehung & Social Media: Zwischen Eifersucht digitaler Nähe](/blog/beziehung-social-media/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)

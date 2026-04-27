@@ -210,10 +210,10 @@ Aber wahrscheinlich, mit [vertrauen aufbauen in beziehungen](/blog/vertrauen-auf
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten-kompletter-guide).## Weiterlesen
 
 - [Social Media und Beziehung: Wie Instagram, TikTok und Co](/blog/beziehung-social-media-einfluss/)
-- [Digitale Eifersucht: Wenn Social Media die Beziehung](/blog/digitale-eifersucht/)
+- [Digitale Eifersucht: Wenn Social Media die Beziehung](/blog/eifersucht-bekaempfen/)
 - [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
-- [Eifersucht in der Beziehung überwinden: So schaffst du es](/blog/eifersucht-beziehung-ueberwinden/)
+- [Eifersucht in der Beziehung überwinden: So schaffst du es](/blog/eifersucht-bekaempfen/)
 - [Gaslighting in der Beziehung: So erkennst du emotionale](/blog/gaslighting-beziehung/)

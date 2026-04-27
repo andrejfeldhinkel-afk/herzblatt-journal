@@ -254,7 +254,7 @@ Es lohnt sich.
 
 ## Das könnte dich auch interessieren
 
-- [Fernbeziehung meistern: Tipps für eine starke](/blog/long-distance-beziehung/)
+- [Fernbeziehung meistern: Tipps für eine starke](/blog/fernbeziehung-tipps/)
 - [Kommunikation in der Beziehung](/blog/kommunikation-beziehung/)
 - [Kommunikation in Beziehungen: Die Masterclass für Paare](/blog/kommunikation-in-beziehungen-masterclass/)
 - [Meta-Kommunikation: Über eure Kommunikation reden](/blog/meta-kommunikation-paare/)

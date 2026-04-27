@@ -155,7 +155,7 @@ Es ist einfach eine andere Weise, die Welt zu lieben und zu verbinden. Und es ve
 ## Weiterlesen
 
 - [Beziehung und Autismus-Spektrum: Tipps für beide Partner](/blog/beziehung-nach-autismus-spektrum-tipps)
-- [Demisexuell: Wenn Liebe langsam wächst](/blog/dating-demisexuell-langsam-verlieben)
+- [Demisexuell: Wenn Liebe langsam wächst](/blog/demisexuell-dating-guide)
 - [Dating-App-Algorithmen verstehen und für dich nutzen](/blog/dating-apps-algorithmus-verstehen)
 - [Der Ick beim Dating: Warum plötzlich alles anders ist](/blog/ick-dating-phaenomen-verstehen)
 

@@ -132,7 +132,7 @@ Oft sind es nicht die großen Gesten, die eine Beziehung wiederbeleben, sondern 
 
 ## Das könnte dich auch interessieren
 
-- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-fatigue-ueberwinden/)
+- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-nach-burnout/)
 - [Ghosting überwinden: Warum es passiert und wie du damit umgehst](/blog/ghosting-ueberwinden/)
-- [Dating-App-Müdigkeit überwinden](/blog/online-dating-muedigkeit-ueberwinden/)
+- [Dating-App-Müdigkeit überwinden](/blog/dating-nach-burnout/)
 - [Retroaktive Eifersucht überwinden: Warum die Vergangenheit deines Partners dich foltert](/blog/retroaktive-eifersucht-ueberwinden/)

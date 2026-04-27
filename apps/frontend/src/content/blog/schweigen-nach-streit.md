@@ -189,5 +189,5 @@ Das ist wo Intimität wirklich aufgebaut wird – nicht im Streit, aber in der R
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 - [Silent Treatment in der Beziehung](/blog/silent-treatment-beziehung/)
 - [Beziehung retten nach Streit: 8 Schritte](/blog/beziehung-retten-nach-streit/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Beziehung retten: Der ehrliche Guide wenn es die letzte](/blog/beziehung-retten-letzte-chance/)

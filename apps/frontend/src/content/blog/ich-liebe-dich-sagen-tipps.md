@@ -734,7 +734,7 @@ Und das ist nicht genug für eine lange Beziehung.
 
 ## Liebe zeigen durch die 5 Liebessprachen
 
-Menschen drücken Liebe unterschiedlich aus. Das nennt sich die „5 [Love Languages](/blog/love-languages-beziehung/)".
+Menschen drücken Liebe unterschiedlich aus. Das nennt sich die „5 [Love Languages](/blog/liebessprachen-komplett-guide/)".
 
 Wenn ihr in verschiedenen Sprachen liebt, könnt ihr einander nicht „hören".
 

@@ -294,4 +294,4 @@ Dein Selbstwertgefühl ist wichtig und es verdient Schutz. Deine Beziehungen sol
 - [Throning — Wenn du nur als Statussymbol datst](/blog/throning-dating-trend-guide/)
 - [Dating-Spielchen durchschauen: Warum Menschen spielen und](/blog/dating-spielchen-durchschauen/)
 - [Autismus und Dating: Liebe finden auf dem Spektrum](/blog/autismus-und-dating-guide/)
-- [Demisexualität und Dating: Wenn sexuelle Anziehung erst](/blog/demisexualitaet-dating-guide/)
+- [Demisexualität und Dating: Wenn sexuelle Anziehung erst](/blog/demisexuell-dating-guide/)

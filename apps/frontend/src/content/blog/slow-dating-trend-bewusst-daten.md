@@ -164,5 +164,5 @@ Es könnte die beste Entscheidung sein, die du machst.
 
 - [Slow Dating 2026: Der Trend, der Liebe verlangsamt](/blog/slow-dating-trend-2026/)
 - [Slow Dating: Achtsam kennenlernen statt Swipen](/blog/slow-dating-trend-achtsam-kennenlernen/)
-- [Slow Dating – Warum weniger Matches zu mehr Liebe führen](/blog/slow-dating-trend/)
+- [Slow Dating – Warum weniger Matches zu mehr Liebe führen](/blog/slow-dating-guide/)
 - [Slow Dating: Warum weniger Matches zu mehr Liebe führen](/blog/slow-dating-guide/)

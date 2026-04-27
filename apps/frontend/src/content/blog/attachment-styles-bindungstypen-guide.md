@@ -331,6 +331,6 @@ Alles andere folgt.
 ## Das könnte dich auch interessieren
 
 - [Bindungstypen verstehen 2026: Der komplette Guide](/blog/attachment-styles-guide/)
-- [Bindungstypen verstehen: Einfluss auf dein Dating](/blog/attachment-styles-dating/)
+- [Bindungstypen verstehen: Einfluss auf dein Dating](/blog/attachment-styles-guide/)
 - [Attachment Styles: Einfluss auf dein Dating](/blog/attachment-styles-dating-verstehen/)
-- [Bindungsangst erkennen und überwinden](/blog/bindungsangst-erkennen-ueberwinden/)
+- [Bindungsangst erkennen und überwinden](/blog/bindungsangst-komplett-guide/)

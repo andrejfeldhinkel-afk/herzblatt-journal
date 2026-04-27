@@ -361,5 +361,5 @@ Beginne heute. Wähle eine Grenze, die dir am wichtigsten ist, und kommuniziere 
 - [Grenzen setzen: Liebe mit Selbstschutz](/blog/beziehung-und-grenzen-setzen/)
 - [Fawn Response: Wenn du dich in Beziehungen aufgibst, um](/blog/fawn-response-beziehung-guide/)
 - [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
-- [Eifersucht in der Beziehung überwinden: So schaffst du es](/blog/eifersucht-beziehung-ueberwinden/)
+- [Eifersucht in der Beziehung überwinden: So schaffst du es](/blog/eifersucht-bekaempfen/)
 - [Neid in der Beziehung: Wenn du deinem Partner seinen Erfolg](/blog/neid-in-der-beziehung/)

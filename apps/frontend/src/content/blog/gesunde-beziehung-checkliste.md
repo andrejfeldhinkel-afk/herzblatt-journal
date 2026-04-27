@@ -96,6 +96,6 @@ Wenn eine Beziehung sich nicht sicher anfühlt, wenn du ständig Angst hast – 
 
 ## Weiterlesen
 
-- [Erste Beziehung – Was du wissen musst](/blog/erste-beziehung-tipps/)
-- [Eifersucht in der Beziehung überwinden – So schaffst du es](/blog/eifersucht-beziehung-ueberwinden/)
+- [Erste Beziehung – Was du wissen musst](/blog/erste-beziehung-tipps-guide/)
+- [Eifersucht in der Beziehung überwinden – So schaffst du es](/blog/eifersucht-bekaempfen/)
 - [Emotionaler Missbrauch in Beziehungen – Warnsignale erkennen](/blog/emotionaler-missbrauch-erkennen/)

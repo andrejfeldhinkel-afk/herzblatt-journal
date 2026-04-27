@@ -172,6 +172,6 @@ Aber wenn Sie diese Arbeit erledigen, werden Sie die Beziehung haben, die Sie si
 
 ## Das könnte dich auch interessieren
 
-- [Situationship erkennen: 12 Zeichen, dass du in einer](/blog/situationship-erkennen/)
+- [Situationship erkennen: 12 Zeichen, dass du in einer](/blog/situationship-guide/)
 - [Gaslighting erkennen: 15 Zeichen und wie du dich befreist](/blog/gaslighting-erkennen-komplett/)
 - [Körpersprache Mann: 25 Zeichen dass er verliebt ist](/blog/koerpersprache-mann-verliebt-zeichen/)

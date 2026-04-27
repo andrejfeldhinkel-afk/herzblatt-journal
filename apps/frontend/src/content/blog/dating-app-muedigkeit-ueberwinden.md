@@ -239,7 +239,7 @@ Deine nächste große Liebe könnte in der App sein. Oder sie könnte dich in ei
 
 ## Das könnte dich auch interessieren
 
-- [Online-Dating-Müdigkeit: Wenn Swipen zur Last wird](/blog/online-dating-muedigkeit/)
+- [Online-Dating-Müdigkeit: Wenn Swipen zur Last wird](/blog/dating-nach-burnout/)
 - [Dating Fatigue: Wenn du vom Daten müde bist — und was hilft](/blog/dating-fatigue-muedigkeit-ueberwinden/)
 - [Dating-Müdigkeit 2024: Wenn Swipen keinen Spaß mehr macht](/blog/dating-muedigkeit-2024/)
-- [Dating-App-Müdigkeit überwinden](/blog/online-dating-muedigkeit-ueberwinden/)
+- [Dating-App-Müdigkeit überwinden](/blog/dating-nach-burnout/)

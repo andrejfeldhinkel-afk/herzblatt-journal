@@ -282,5 +282,5 @@ Gib nicht auf. Glaube an dich selbst. Und vertraue, dass die beste Version deine
 
 - [Langzeitbeziehung: 30 Wege die Liebe frisch zu halten](/blog/langzeitbeziehung-spannend-halten/)
 - [Langzeitbeziehung frisch halten](/blog/langzeitbeziehung-frisch-halten/)
-- [Dating nach Langzeitbeziehung](/blog/dating-nach-langzeitbeziehung/)
+- [Dating nach Langzeitbeziehung](/blog/dating-nach-trennung/)
 - [Neu anfangen nach einer Langzeitbeziehung](/blog/beziehung-nach-langzeitbeziehung-trennung/)

@@ -140,10 +140,10 @@ Sie haben die schwierigste Sache getan – Sie haben die Distanz überwunden. Da
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden), [Liebe auf Distanz: So übersteht eure Fernbeziehung jede Entfernung](/blog/liebe-auf-distanz-tipps).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden), [Liebe auf Distanz: So übersteht eure Fernbeziehung jede Entfernung](/blog/fernbeziehung-tipps).## Weiterlesen
 
 - [Fernbeziehung beenden: Zusammenziehen](/blog/beziehung-fernbeziehung-zusammenziehen/)
-- [Fernbeziehung meistern: Tipps für eine starke Partnerschaft](/blog/long-distance-beziehung/)
-- [Liebe auf Distanz: So übersteht eure Fernbeziehung jede](/blog/liebe-auf-distanz-tipps/)
+- [Fernbeziehung meistern: Tipps für eine starke Partnerschaft](/blog/fernbeziehung-tipps/)
+- [Liebe auf Distanz: So übersteht eure Fernbeziehung jede](/blog/fernbeziehung-tipps/)
 - [Kompromisse in der Beziehung: Wann ja und wann nein](/blog/beziehung-kompromisse-finden/)
 - [Fernbeziehung meistern: 25 Tipps für eine starke Liebe auf](/blog/fernbeziehung-tipps/)

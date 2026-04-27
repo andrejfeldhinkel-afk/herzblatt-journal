@@ -210,10 +210,10 @@ Das ist nicht Sci-Fi. Das ist die Zukunft, wenn wir nicht jetzt intervenieren.
 ## Weiterlesen
 
 - [KI und Dating: Wie Technologie Liebe verändert](/blog/ki-dating-zukunft/)
-- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich/)
+- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-app-vergleich-2026/)
 - [Die perfekten Profilfotos für Dating-Apps: So wirst du](/blog/dating-profile-fotos-tipps/)
 - [Die perfekte erste Nachricht in Dating-Apps: Schreibe](/blog/erste-nachricht-dating-app/)
-- [Dating-App-Müdigkeit überwinden: Wie du wieder Hoffnung](/blog/online-dating-muedigkeit-ueberwinden/)
+- [Dating-App-Müdigkeit überwinden: Wie du wieder Hoffnung](/blog/dating-nach-burnout/)
 ## FAQ: Die Fragen, die jeder fragt
 
 **F: Sollte ich KI nutzen, um meine Dating-Nachrichten zu schreiben?**

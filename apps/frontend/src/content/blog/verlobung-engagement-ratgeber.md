@@ -201,4 +201,4 @@ Viel Glück.
 - [Coming Out: So outest du dich — Der einfühlsame Ratgeber](/blog/coming-out-ratgeber/)
 - [Schwules Dating: Der ultimative Ratgeber für schwule Männer](/blog/schwules-dating-ratgeber/)
 - [Erster Kuss: Timing, Technik und was danach kommt](/blog/erster-kuss-tipps-ratgeber/)
-- [Liebeskummer überwinden: Der komplette Ratgeber](/blog/liebeskummer-komplett-ratgeber/)
+- [Liebeskummer überwinden: Der komplette Ratgeber](/blog/liebeskummer-phasen-komplett/)

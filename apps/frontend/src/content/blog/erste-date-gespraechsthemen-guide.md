@@ -214,6 +214,6 @@ Viel Erfolg bei deinem Date!
 ## Das könnte dich auch interessieren
 
 - [Erstes Date Gesprächsthemen](/blog/erstes-date-gespraechsthemen/)
-- [Zweites Date: Tipps für ein perfektes Wiedersehen](/blog/zweites-date-planen/)
-- [Gespräche auf dem ersten Date – So wird es nie peinlich](/blog/erstes-date-gespraeche-fuehren/)
+- [Zweites Date: Tipps für ein perfektes Wiedersehen](/blog/zweites-date-tipps/)
+- [Gespräche auf dem ersten Date – So wird es nie peinlich](/blog/erstes-date-tipps/)
 - [Valentinstag: 15 Date-Ideen die mehr als Blumen sagen](/blog/valentinstag-date-ideen/)

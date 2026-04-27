@@ -195,7 +195,7 @@ Die rechte Person wird sagen: „Ja. Wir lernen zusammen.”
 ## Weiterlesen
 
 - [Dating mit 30 – Warum jetzt die beste Zeit für die Liebe ist](/blog/dating-nach-30-tipps)
-- [Dating nach einer Ghosting-Erfahrung](/blog/dating-nach-ghosting-erfahrung)
+- [Dating nach einer Ghosting-Erfahrung](/blog/ghosting-umgehen-tipps)
 
 ## Weiterführende Artikel
 

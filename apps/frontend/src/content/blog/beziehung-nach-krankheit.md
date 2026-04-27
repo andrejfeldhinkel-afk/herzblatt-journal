@@ -221,7 +221,7 @@ Das ist Liebe.
 ## Weiterlesen
 
 - [Beziehung und Gewichtszunahme: Ein heikles Thema ehrlich](/blog/beziehung-nach-gewichtszunahme/)
-- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-toxischer-beziehung/)
+- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-narzisst/)
 - [Nach Vertrauensbruch: Heilung finden](/blog/beziehung-nach-vertrauensbruch/)
 - [Vertrauensmissbrauch in der Beziehung – Wie Heilung gelingt](/blog/beziehung-nach-vertrauensmissbrauch/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)

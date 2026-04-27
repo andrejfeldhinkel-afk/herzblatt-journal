@@ -226,7 +226,7 @@ Diese Validierung (echte, nicht manipulativ gemeint) kann massive Wirkung haben.
 
 ## Wann Paartherapie hilft
 
-Es gibt einen Punkt, an dem Kommunikationstechniken allein nicht ausreichen. Das ist, wo [Bindungsangst erkennen](/blog/bindungsangst-erkennen-ueberwinden/) professionelle Hilfe sinnvoll wird.
+Es gibt einen Punkt, an dem Kommunikationstechniken allein nicht ausreichen. Das ist, wo [Bindungsangst erkennen](/blog/bindungsangst-komplett-guide/) professionelle Hilfe sinnvoll wird.
 
 ### Paartherapie kann helfen, wenn:
 
@@ -733,6 +733,6 @@ Vertrau dir selbst.
 
 - [Mental Load in der Beziehung: Die unsichtbare Last fair](/blog/emotional-load-beziehung-mental-load/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Beziehung retten: Der ehrliche Guide wenn es die letzte](/blog/beziehung-retten-letzte-chance/)
 - [Verschiedene Lebenspläne in der Beziehung: Wenn Liebe allein](/blog/beziehung-verschiedene-lebensplaene/)

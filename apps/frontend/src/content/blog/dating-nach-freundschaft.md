@@ -144,6 +144,6 @@ Bucher, die helfen: „Just Friends?" von Heather Lloyd oder „From Friends to 
 
 - [Dating und Beziehung nach schwierigen Lebensentscheidungen](/blog/dating-nach-abtreibung/)
 - [Nach dem Narzissten: Komplett-Guide für den Neustart](/blog/dating-nach-narzisstischer-beziehung-guide/)
-- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-toxischer-beziehung/)
+- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-narzisst/)
 - [Dating als Veganer/in](/blog/dating-als-veganer/)
 - [Emotionale Verfügbarkeit beim Dating](/blog/emotionale-verfuegbarkeit-dating/)

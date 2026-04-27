@@ -197,6 +197,6 @@ Ein einfaches Kompliment könnte der Anfang eine großartigen Beziehung sein.
 
 - [Richtig Schluss machen: So beendest du eine Beziehung](/blog/richtig-schluss-machen/)
 - [Romantik im Alltag: 15 kleine Gesten, die eure Liebe](/blog/romantik-im-alltag/)
-- [Richtig streiten in der Beziehung: Konflikte konstruktiv](/blog/richtig-streiten-beziehung/)
+- [Richtig streiten in der Beziehung: Konflikte konstruktiv](/blog/beziehung-streit-guide/)
 - [Diese Signale senden Frauen beim Flirten – Männer übersehen](/blog/dating-signals-frauen/)
 - [Flirten lernen: Der komplette Guide von A bis Z](/blog/flirten-komplett-guide/)

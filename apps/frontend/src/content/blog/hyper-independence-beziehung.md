@@ -290,5 +290,5 @@ Deine Hyper-Independence war ein Überlebensmechanismus. Deine Heilung ist dein 
 
 - [Emotional Detachment: Wenn du in der Beziehung nichts mehr](/blog/emotional-detachment-beziehung/)
 - [Fawn Response: Wenn du dich in Beziehungen aufgibst, um](/blog/fawn-response-beziehung-guide/)
-- [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inneres-kind-heilen-beziehung/)
+- [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inner-child-beziehung/)
 - [Scheidungskinder und Liebe: Wie die Trennung deiner Eltern](/blog/scheidungskinder-beziehungen-erwachsene/)

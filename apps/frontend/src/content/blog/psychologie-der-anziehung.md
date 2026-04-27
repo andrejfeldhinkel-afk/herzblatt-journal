@@ -302,7 +302,7 @@ Die Wissenschaft der Anziehung ist faszinierend, aber noch faszinierend ist es, 
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Dating nach Burnout oder Depression: Wann bin ich bereit für die Liebe?](/blog/dating-nach-burnout), [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Dating nach Burnout oder Depression: Wann bin ich bereit für die Liebe?](/blog/dating-nach-burnout), [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-guide).## Weiterlesen
 
 - [Die Psychologie der Anziehung: Was uns wirklich anzieht](/blog/dating-psychologie-anziehung/)
 - [Die Biochemie der Liebe: Was in deinem Gehirn passiert, wenn](/blog/biochemie-der-liebe-guide/)

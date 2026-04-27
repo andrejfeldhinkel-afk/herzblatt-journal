@@ -2,7 +2,7 @@
 title: "Entscheidungsmüdigkeit im Dating: Warum Tinder dein Gehirn aufbraucht"
 description: "Entscheidungsmüdigkeit im Dating-App-Zeitalter: Die Wissenschaft hinter Swipe-Burnout, 9 Anzeichen — und wie du dein Gehirn wieder fit machst."
 date: 2026-04-21
-image: "/images/blog/dating-burnout.webp"
+image: "/images/blog/dating-nach-burnout.webp"
 imageAlt: "Person reibt sich Augen vor Handy — Symbol für Dating Entscheidungsmüdigkeit"
 tags:
   - "Dating-Apps"

@@ -90,7 +90,7 @@ Dating mit Kindern ist nicht ein Nachteil – es ist ein Filter. Es entfernt die
 
 Die richtige Person wird nicht nur dich lieben – sie wird deine ganze Familie wertschätzen. Und das ist das beste, was passieren kann.## Weiterlesen
 
-- [Dating mit Kindern: So findest du als alleinerziehend](/blog/dating-mit-kindern/)
+- [Dating mit Kindern: So findest du als alleinerziehend](/blog/dating-mit-kind/)
 - [Dating als Veganer/in](/blog/dating-als-veganer/)
 - [Vom besten Freund zum Partner](/blog/dating-nach-freundschaft/)
 - [Haustiere in der Beziehung und beim Dating](/blog/beziehung-und-haustiere/)

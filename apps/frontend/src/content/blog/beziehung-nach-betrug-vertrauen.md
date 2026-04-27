@@ -139,7 +139,7 @@ Wenn die Antwort nein ist, dann musst du gehen. Und das ist die richtige Entsche
 
 ## Das könnte dich auch interessieren
 
-- [Vertrauen nach einem Betrug aufbauen](/blog/vertrauen-nach-betrug/)
+- [Vertrauen nach einem Betrug aufbauen](/blog/vertrauen-aufbauen-beziehung/)
 - [Vertrauen nach Lügen aufbauen: Schritt für Schritt](/blog/beziehung-vertrauen-luegen-wiederaufbau/)
 - [Beziehung nach Betrug: Kann man wieder vertrauen lernen?](/blog/beziehung-nach-betrug-aufbauen/)
 - [Nach Betrug wieder vertrauen lernen beim Dating](/blog/dating-nach-betrug-vertrauen-aufbauen/)

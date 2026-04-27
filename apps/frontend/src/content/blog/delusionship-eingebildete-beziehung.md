@@ -36,7 +36,7 @@ Du sitzt um zwei Uhr nachts noch auf und analysierst jedes einzelne Wort seiner 
 
 Stop. Das ist eine Delusionship. Und ich weiß, das tut weh, das zu lesen.
 
-Eine Delusionship ist die moderne Version einer uralten emotionalen Falle: Du baust dir eine ganze [Situationship erkennen](/blog/situationship-erkennen) — eine unklar definierte romantische Situation. Der Unterschied ist subtil aber wichtig. In einer [verliebt](/blog/mann-verliebt-anzeichen-komplett) hast", zeigt möglicherweise bewusst oder unbewusst die gleichen Muster: Sie ist verfügbar und nicht verfügbar. Warm und kalt. Interessiert und gleichgültig. Das ist vertraut für dich — es fühlt sich wie "Liebe" an, weil es wie die Liebe ist, die du in der Kindheit erlebtest.
+Eine Delusionship ist die moderne Version einer uralten emotionalen Falle: Du baust dir eine ganze [Situationship erkennen](/blog/situationship-guide) — eine unklar definierte romantische Situation. Der Unterschied ist subtil aber wichtig. In einer [verliebt](/blog/mann-verliebt-anzeichen-komplett) hast", zeigt möglicherweise bewusst oder unbewusst die gleichen Muster: Sie ist verfügbar und nicht verfügbar. Warm und kalt. Interessiert und gleichgültig. Das ist vertraut für dich — es fühlt sich wie "Liebe" an, weil es wie die Liebe ist, die du in der Kindheit erlebtest.
 
 Das ist eines der schmerzhaftesten Erkenntnisse: Wir reproduzieren in Delusionships oft die emotionalen Muster unserer Kindheit. Das bedeutet nicht, dass es deine Schuld ist. Es bedeutet, dass du das Glaubenssystem, das du geerbt hast, bewusst überprüfen musst.
 
@@ -98,7 +98,7 @@ Die gute Nachricht: Wenn du erkannt hast, dass du in einer Delusionship bist, ka
 
 **Baue ein Unterstützungsnetzwerk auf.** Wenn du Freunde hast, die deine Realität überprüfen, bist du weniger wahrscheinlich in einer Delusionship landen. Menschen, die dir sagen, wenn du dir etwas einbildest, sind wertvoll. Sie sind nicht "neidisch" oder "verstehen nicht". Sie lieben dich und versuchen, dich zu schützen.
 
-**Arbeite an deinem eigenen [Toxische Dating-Muster](/blog/toxische-dating-muster-durchbrechen).** Delusionships sind oft eine Form von toxischem Dating-Verhalten — nicht nur für die andere Person, sondern auch für dich. Wenn du anfängst, die Warnsignale zu erkennen — vague Kommunikation, fehlende gegenseitige Investition, der Mangel an klaren Definitionen — kannst du früher aussteigen.
+**Arbeite an deinem eigenen [Toxische Dating-Muster](/blog/toxische-beziehung-erkennen).** Delusionships sind oft eine Form von toxischem Dating-Verhalten — nicht nur für die andere Person, sondern auch für dich. Wenn du anfängst, die Warnsignale zu erkennen — vague Kommunikation, fehlende gegenseitige Investition, der Mangel an klaren Definitionen — kannst du früher aussteigen.
 
 **Achte auf Inconsistenz.** Menschen, die an dir interessiert sind, sind konsistent. Sie verschwinden nicht für Wochen und tauchen dann wieder auf. Sie haben nicht Phasen intensiven Kontakts gefolgt von völligem Radiostille. Das ist das Verhalten von jemandem, der dich auf Standby hält — nicht von jemandem, der dich liebt.
 

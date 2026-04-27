@@ -94,7 +94,7 @@ Das erste Date aus Online-Dating wird immer ein bisschen angespannt sein. Das is
 
 Also atme tief durch. Du wirst das schaffen. Und wer weiß? Vielleicht wird diese Person die beste Überraschung deines Lebens sein.## Weiterlesen
 
-- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-online-dating/)
+- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-dating-app/)
 - [Vom Chat zum ersten Treffen: Übergang zum echten Leben](/blog/erstes-treffen-online-dating/)
 - [Wie Dating-App Algorithmen wirklich funktionieren](/blog/online-dating-algorithmus/)
 - [Online-Dating Anschreiben – So bekommst du garantiert](/blog/online-dating-anschreiben/)

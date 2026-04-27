@@ -228,7 +228,7 @@ Halte durch. Du schaffst das.
 
 ## Das könnte dich auch interessieren
 
-- [Liebeskummer überwinden: Der komplette Ratgeber](/blog/liebeskummer-komplett-ratgeber/)
+- [Liebeskummer überwinden: Der komplette Ratgeber](/blog/liebeskummer-phasen-komplett/)
 - [Weihnachten nach der Trennung überstehen: So kommst du durch](/blog/weihnachten-nach-trennung-ueberstehen/)
 - [Liebeskummer überwinden – 12 Schritte zum Neuanfang](/blog/liebeskummer-ueberwinden/)
 - [Liebeskummer Phasen: Was passiert in dir und wann wird es besser](/blog/liebeskummer-phasen-komplett/)

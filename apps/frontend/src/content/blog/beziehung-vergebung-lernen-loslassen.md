@@ -245,4 +245,4 @@ Vergebung ist das größte Geschenk, das Sie dir selbst geben können.
 - [Sexuelle Heilung nach Betrug in der Beziehung](/blog/beziehung-nach-betrug-sexuell-heilen/)
 - [Beziehung stärken nach finanzieller Krise oder Insolvenz](/blog/beziehung-nach-insolvenz/)
 - [Nach dem Betrug verzeihen lernen – Ein ehrlicher Leitfaden](/blog/beziehung-nach-betrug-verzeihen-lernen/)
-- [Fremdgehen verzeihen: Kann eine Beziehung nach Untreue überleben?](/blog/fremdgehen-verzeihen/)
+- [Fremdgehen verzeihen: Kann eine Beziehung nach Untreue überleben?](/blog/fremdgehen-verzeihen-kompletter-guide/)

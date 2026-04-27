@@ -75,7 +75,7 @@ Statistiken zeigen: Mit 2-3 verschiedenen Apps hast du circa 3x höhere Chancen 
 Die kritische Erkenntnis: Das längste Gespräch sollte etwa 7 Tage dauern.
 
 **Tag 0-1: Der erste Match**
-Du swipst, es gibt einen Match. Schreib eine gute erste Nachricht (siehe dazu unseren Artikel zu [erste Nachricht beim Online-Dating](/blog/erste-nachricht-online-dating)).
+Du swipst, es gibt einen Match. Schreib eine gute erste Nachricht (siehe dazu unseren Artikel zu [erste Nachricht beim Online-Dating](/blog/erste-nachricht-dating-app)).
 
 **Tag 1-3: Erstes Gespräch**
 Ihr chattet. Der andere antwortet, ihr führt ein echtes Gespräch. Das ist gut. Baue Rapport auf.
@@ -150,5 +150,5 @@ Mit 2-3 Stunden pro Woche + 1-2 Dates pro Woche kannst du effektiv daten. Der Sc
 
 ---
 
-**Weiterlesen:** Lerne auch mehr über [Authentisches Chatten beim Online-Dating](/blog/online-dating-fehler), [Erste Date: Das solltest du wissen](/blog/erstes-date-tipps), und [Emotional Intelligent Dating](/blog/emotionale-intelligenz-dating).
+**Weiterlesen:** Lerne auch mehr über [Authentisches Chatten beim Online-Dating](/blog/dating-fehler-frauen), [Erste Date: Das solltest du wissen](/blog/erstes-date-tipps), und [Emotional Intelligent Dating](/blog/emotionale-intelligenz-beziehung).
 

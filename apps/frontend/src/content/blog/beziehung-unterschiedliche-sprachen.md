@@ -132,6 +132,6 @@ Hilfreiche Ressourcen findest du bei Caritas Beratung: [Caritas Beratung](https:
 
 - [Beziehung trotz verschiedener Religionen](/blog/beziehung-unterschiedliche-religionen/)
 - [Interkulturelle Beziehung: Chancen und Tipps](/blog/beziehung-zwischen-zwei-kulturen/)
-- [Unterschiedliche Libido in der Beziehung: Wenn einer mehr](/blog/beziehung-unterschiedliche-libido/)
+- [Unterschiedliche Libido in der Beziehung: Wenn einer mehr](/blog/beziehung-unterschiedliche-libido-loesungen/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 - [Offene Kommunikation: So sagst du was du denkst](/blog/beziehung-offene-kommunikation/)

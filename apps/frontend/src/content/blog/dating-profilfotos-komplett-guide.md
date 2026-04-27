@@ -335,7 +335,7 @@ Dein erstes Foto muss arbeiten hart. Hier sind letzte Tipps:
 
 ## Das könnte dich auch interessieren
 
-- [Die häufigsten Fehler bei Dating-Profilfotos](/blog/dating-profilfotos-fehler/)
+- [Die häufigsten Fehler bei Dating-Profilfotos](/blog/dating-profile-fotos-tipps/)
 - [Dating-App Profil optimieren: Der komplette Guide](/blog/dating-app-profil-optimieren/)
 - [Richtig schreiben auf Dating-Apps: Der komplette Message-Guide](/blog/wie-schreibt-man-auf-dating-apps/)
 - [Dating als alleinerziehende Mutter: Der komplette Guide](/blog/dating-als-alleinerziehende-mutter-guide/)

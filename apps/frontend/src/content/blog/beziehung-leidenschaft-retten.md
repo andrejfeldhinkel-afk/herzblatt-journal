@@ -265,7 +265,7 @@ Die Leidenschaft ist nicht weg. Sie ist einfach sleeping. Und du kannst sie aufw
 
 ## Das könnte dich auch interessieren
 
-- [Beziehung retten – 8 Strategien wenn die Liebe kriselt](/blog/beziehung-retten/)
+- [Beziehung retten – 8 Strategien wenn die Liebe kriselt](/blog/beziehung-retten-kompletter-guide/)
 - [Beziehung retten nach der Geburt](/blog/beziehung-retten-nach-baby/)
 - [Beziehung nach Affäre retten: Ist das möglich?](/blog/beziehung-nach-affaere-retten-guide/)
 - [Beziehung retten: Der ultimative Guide wenn es kriselt](/blog/beziehung-retten-ultimativer-guide/)

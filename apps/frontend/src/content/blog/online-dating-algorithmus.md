@@ -140,7 +140,7 @@ Konzentriere dich also auf:
 Die Dating-App Algorithmen sind mächtig, aber nicht magisch. Sie sind Tools, die Unternehmen gewinnen möchten. Wenn du verstehst, wie sie funktionieren, kannst du sie besser nutzen – aber denk dran: Langfristig zählt deine **Authentizität** und **Offenheit** mehr als jeder Algorithmus-Hack. Der beste Match ist nicht immer der nächste, sondern derjenige, mit dem du wirklich eine Verbindung aufbaust.## Weiterlesen
 
 - [So optimierst du deinen Dating-App Algorithmus](/blog/dating-apps-algorithmus-hacken/)
-- [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/online-dating-fotos/)
+- [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/dating-profile-fotos-tipps/)
 - [Online-Dating für Senioren: Tech & Tipps für 65+](/blog/online-dating-fuer-senioren/)
 - [Online-Dating Profil optimieren – Der ultimative Guide 2024](/blog/online-dating-profiltipps-2024/)
-- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-online-dating/)
+- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-dating-app/)

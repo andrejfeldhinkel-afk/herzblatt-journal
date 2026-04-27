@@ -367,5 +367,5 @@ Um alles zusammenzubinden, hier ist eine 30-Tage-Challenge. Jeder Tag hat eine k
 - Tag 26: Bett eine Grenze wenn nötig (das praktizieren wird gut)
 - Tag 27: Schreib einen [Selbstliebe lernen nach Trennung: Dein Weg zurück zu dir selbst](/blog/selbstliebe-nach-trennung/)
 - [Trennen oder bleiben? Der ehrliche Guide zur schwersten Entscheidung](/blog/trennen-oder-bleiben-guide/)
-- [Glücklich Single: Warum Alleinsein keine Schwäche ist](/blog/singles-gluecklich/)
+- [Glücklich Single: Warum Alleinsein keine Schwäche ist](/blog/single-gluecklich-sein/)
 - [Emotionale Abhängigkeit überwinden](/blog/emotionale-abhaengigkeit/)

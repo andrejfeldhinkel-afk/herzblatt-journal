@@ -205,7 +205,7 @@ Schreibe täglich Dankbarkeitslisten. Dies hilft, deine Aufmerksamkeit von Angst
 ## Das könnte dich auch interessieren
 
 - [Attachment Styles: Einfluss auf dein Dating](/blog/attachment-styles-dating-verstehen/)
-- [Bindungstypen verstehen: Einfluss auf dein Dating](/blog/attachment-styles-dating/)
+- [Bindungstypen verstehen: Einfluss auf dein Dating](/blog/attachment-styles-guide/)
 - [Dating nach langer Beziehung: Neustart nach 5, 10 oder 20 Jahren](/blog/dating-nach-langer-beziehung-guide/)
 - [Vermeidende Bindung: Nähe und Distanz verstehen](/blog/unsicher-vermeidender-bindungsstil).
 
@@ -264,4 +264,4 @@ Der erste Schritt ist, dass du erkennst und akzeptierst, dass dein ängstlicher 
 
 Beginne heute. Schreib deine Auslöser auf. Sprich mit jemandem, dem du vertraust. Wenn du bereit bist, finde einen Therapeuten. Und sei vor allem mitfühlend mit dir selbst während dieser Reise. Du machst großartige Arbeit.
 
-Erfahre mehr über Bindungsstile in unserem umfassenden Artikel [Bindungsangst überwinden und Grenzen setzen](/blog/bindungsangst-erkennen-ueberwinden/).
+Erfahre mehr über Bindungsstile in unserem umfassenden Artikel [Bindungsangst überwinden und Grenzen setzen](/blog/bindungsangst-komplett-guide/).

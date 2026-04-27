@@ -300,7 +300,7 @@ Mit dieser Klarheit, kannst du entscheiden: Will ich mit dieser Person bleiben?
 - [Emotional unerreichbarer Partner: Warum du an eine Wand](/blog/emotional-unerreichbarer-partner/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 - [Männer verstehen: Die komplette Psychologie hinter](/blog/maenner-verstehen-psychologie/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Beziehung retten: Der ehrliche Guide wenn es die letzte](/blog/beziehung-retten-letzte-chance/)
 ## FAQ: Häufige Fragen
 

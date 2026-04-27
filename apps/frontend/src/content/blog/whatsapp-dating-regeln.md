@@ -142,4 +142,4 @@ Hilfreiche Ressourcen findest du bei Verbraucherzentrale: [Verbraucherzentrale](
 - [Ehrlichkeit beim Dating – Wie viel Wahrheit verträgt?](/blog/ehrlichkeit-beim-dating/)
 - [Vom Chat zum ersten Treffen: Übergang zum echten Leben](/blog/erstes-treffen-online-dating/)
 - [Die neuen Dating-Regeln 2026: Was wirklich funktioniert](/blog/moderne-dating-regeln/)
-- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/dating-als-introvertierter-mann/)
+- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/introvertiert-dating/)

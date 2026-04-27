@@ -124,7 +124,7 @@ Du packst das.
 Verwandte Artikel: [Trennung bereuen: Zurück oder weitergehen?](/blog/trennung-bereuen-was-tun/) und [Neuanfang nach Scheidung als Frau: Stark und frei](/blog/neuanfang-nach-scheidung-frau/)
 ## Weiterlesen
 
-- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung-wann-bereit/)
+- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung/)
 - [Erste eigene Wohnung nach Trennung: Der Neustart-Guide](/blog/erste-wohnung-nach-trennung/)
 - [Freundschaft nach Trennung: Geht das?](/blog/freundschaft-nach-trennung/)
 - [Gemeinsame Freunde nach der Trennung: Wie geht das?](/blog/gemeinsame-freunde-nach-trennung/)

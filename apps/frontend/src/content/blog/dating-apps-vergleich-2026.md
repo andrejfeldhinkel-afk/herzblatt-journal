@@ -243,7 +243,7 @@ Die richtige Mensch ist da draußen. Ein gutes App-Match macht nur einfacher zu 
 
 ## Das könnte dich auch interessieren
 
-- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich/)
+- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-app-vergleich-2026/)
 - [Dating-Apps 2026: Alle Apps im ehrlichen Vergleich](/blog/dating-apps-vergleich-2026-komplett/)
-- [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/beste-dating-apps-2026/)
+- [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/dating-app-vergleich-2026/)
 - [Die perfekten Profilfotos für Dating-Apps](/blog/dating-profile-fotos-tipps/)

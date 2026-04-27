@@ -3,7 +3,7 @@ title: "Verliebt in deine beste Freundin: Wie du damit umgehst"
 description: "Du bist in deine beste Freundin verliebt und weißt nicht, was du tun soll? Lerne, wie du deine Gefühle navigierst und die Freundschaft schützt."
 date: 2026-04-02
 tags: [liebe, freundschaft, beste-freundin, romantische-gefühle, emotionale-intelligenz]
-image: "/images/blog/beste-dating-apps-2026.webp"
+image: "/images/blog/dating-app-vergleich-2026.webp"
 imageAlt: "Zwei Freundinnen umarmen sich und schauen sich an"
 keywords: ["verliebt in beste Freundin", "Gefühle verstecken", "Freundschaft bewahren", "was tun"]
 draft: false

@@ -132,5 +132,5 @@ Die Wahrheit ist, dass die Liebe nicht einfach passiert. Nach zehn Jahren ist di
 - [Beziehung langweilig? 20 Dinge die helfen](/blog/beziehung-langweilig-was-tun/)
 - [Offene Kommunikation: So sagst du was du denkst](/blog/beziehung-offene-kommunikation/)
 - [Beziehungspause: Regeln die wirklich helfen](/blog/beziehung-pause-regeln/)
-- [Beziehung retten: Praktische Strategien](/blog/beziehung-retten/)
+- [Beziehung retten: Praktische Strategien](/blog/beziehung-retten-kompletter-guide/)
 - [Altersunterschied in Beziehungen: Chancen und](/blog/beziehung-unterschiedliches-alter/)

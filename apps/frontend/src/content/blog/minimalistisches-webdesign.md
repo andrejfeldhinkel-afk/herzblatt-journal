@@ -281,6 +281,6 @@ Gib nicht auf. Glaube an dich selbst. Und vertraue, dass die beste Version deine
 ## Das könnte dich auch interessieren
 
 - [Slow Dating: Warum weniger Matches zu mehr Liebe führen](/blog/slow-dating-guide/)
-- [Slow Dating – Warum weniger Matches zu mehr Liebe führen](/blog/slow-dating-trend/)
+- [Slow Dating – Warum weniger Matches zu mehr Liebe führen](/blog/slow-dating-guide/)
 - [Dating-Müdigkeit 2024: Wenn Swipen keinen Spaß mehr macht](/blog/dating-muedigkeit-2024/)
 - [Dating-Profil optimieren: So bekommst du 10x mehr Matches](/blog/dating-profile-optimieren-komplett/)

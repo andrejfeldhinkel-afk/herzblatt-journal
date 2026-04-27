@@ -232,7 +232,7 @@ Dann schreib eine großartige erste Nachricht. Dann lass die Konversation passie
 Das ist alles, was du brauchst – ein großartiges Foto, eine großartige Nachricht, und echtes Interesse an einer anderen Person.## Weiterlesen
 
 - [Dating-App Bio: Profiltexte die matchen](/blog/dating-app-bio-schreiben/)
-- [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/online-dating-fotos/)
+- [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/dating-profile-fotos-tipps/)
 - [So erstellst du ein Dating-Profil, das wirklich auffällt](/blog/online-dating-profil/)
 - [Die perfekten Profilfotos für Dating-Apps: So wirst du](/blog/dating-profile-fotos-tipps/)
-- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-online-dating/)
+- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-dating-app/)

@@ -43,7 +43,7 @@ Die Talking Stage ist die Phase, in der zwei Menschen kontinuierlich miteinander
 
 Der englische Begriff "Talking Stage" hat sich im deutschsprachigen Raum durchgesetzt, weil er exakt das beschreibt, was passiert: Ihr "talked", also redet, schreibt, tauscht euch aus. Die Talking Stage ist im Grunde das, was deine Großeltern "zusammen sein zum Testen" genannt hätten — nur digitaler und weniger verbindlich.
 
-Das Tückische an der Talking Stage ist, dass beide Menschen unterschiedliche Erwartungen haben können. Für die eine Person ist es ein lockeres "Schauen wir mal, was passiert". Für die andere ein intensives "Ich investiere meine Zeit und Gefühle in diese [Situationship erkennen](/blog/situationship-erkennen) — denn manchmal ist das, was du für eine Talking Stage hältst, in Wahrheit eine emotionale Sackgasse.
+Das Tückische an der Talking Stage ist, dass beide Menschen unterschiedliche Erwartungen haben können. Für die eine Person ist es ein lockeres "Schauen wir mal, was passiert". Für die andere ein intensives "Ich investiere meine Zeit und Gefühle in diese [Situationship erkennen](/blog/situationship-guide) — denn manchmal ist das, was du für eine Talking Stage hältst, in Wahrheit eine emotionale Sackgasse.
 
 **Red Flag 6: Emotionale Unavailability trotz guter Chemie.**
 Diese Person ist witzig, interessant, aber immer "gerade nicht bereit für eine Beziehung", "hat zu viel um die Ohren" oder ist emotional distanziert, wenn es zählt. Das ist nicht deine Aufgabe, das zu heilen. Das musst du akzeptieren und gehen.

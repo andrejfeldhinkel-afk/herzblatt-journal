@@ -106,7 +106,7 @@ Also während du durch die Dating-Welt navigierst, möchte ich, dass du das kenn
 
 ## Weiterlesen
 
-- [Demisexualität und Dating: Wenn sexuelle Anziehung erst](/blog/demisexualitaet-dating-guide/)
+- [Demisexualität und Dating: Wenn sexuelle Anziehung erst](/blog/demisexuell-dating-guide/)
 - [Die Psychologie des Online-Datings: Warum wir swipen wie wir](/blog/online-dating-psychologie/)
 - [Dating als Ambivert: Dein Vorteil wenn du weder](/blog/dating-als-ambivert/)
 - [Dating-Spielchen durchschauen: Warum Menschen spielen und](/blog/dating-spielchen-durchschauen/)

@@ -198,7 +198,7 @@ Dating nach einer Trennung kann sowohl angespannt als auch aufregend sein. Vertr
 **Weiterlesen:** Entdecke auch unsere Ratgeber zu [Introvertiert liebt Extrovertiert: Gegensätze in der Beziehung](/blog/dating-introvertiert-extrovertiert-paar-guide/), [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung).## Weiterlesen
 
 - [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung/)
-- [Dating mit Kindern: So findest du als alleinerziehend](/blog/dating-mit-kindern/)
-- [Emotionale Intelligenz im Dating: Warum EQ wichtiger ist?](/blog/emotionale-intelligenz-dating/)
+- [Dating mit Kindern: So findest du als alleinerziehend](/blog/dating-mit-kind/)
+- [Emotionale Intelligenz im Dating: Warum EQ wichtiger ist?](/blog/emotionale-intelligenz-beziehung/)
 - [Komplimente richtig machen: Das Lob in Beziehungen](/blog/komplimente-richtig-machen/)
 - [Dating mit 30 – Warum jetzt die beste Zeit für die Liebe ist](/blog/dating-nach-30-tipps/)

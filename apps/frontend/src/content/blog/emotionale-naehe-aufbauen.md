@@ -115,5 +115,5 @@ Hilfreiche Ressourcen findest du bei Neurologen und Psychiater im Netz: [Neurolo
 Detaillierte Infos bietet Psychologie Heute: [Psychologie Heute](https://www.psychologie-heute.de/)
 - [Emotionale Intelligenz in Beziehungen: Der Schlüssel zu](/blog/emotionale-intelligenz-beziehung/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Nach Vertrauensbruch: Heilung finden](/blog/beziehung-nach-vertrauensbruch/)

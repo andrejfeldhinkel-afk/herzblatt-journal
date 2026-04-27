@@ -130,6 +130,6 @@ Dein Partner ist verwirrt. "Was ist passiert? Gestern warst du all-in."
 
 Das Problem ist: Es ist echt. Beide Gefühle sind echt. Die Person fühlt sich wirklich in beiden Weisen.
 
-Konflikte sind dramatisch. Emotional. Manchmal explosive. Dann ist es super süß und [Bindungsangst erkennen und überwinden](/blog/bindungsangst-erkennen-ueberwinden)
+Konflikte sind dramatisch. Emotional. Manchmal explosive. Dann ist es super süß und [Bindungsangst erkennen und überwinden](/blog/bindungsangst-komplett-guide)
 - [Attachment Styles: Einfluss auf dein Dating](/blog/attachment-styles-dating-verstehen)
 

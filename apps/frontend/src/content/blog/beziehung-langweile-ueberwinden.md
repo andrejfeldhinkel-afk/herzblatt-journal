@@ -155,4 +155,4 @@ Das ist es wert.
 
 - [Verlangen lebendig halten in langen Beziehungen](/blog/verlangen-langzeitbeziehung)
 - [Langeweile in der Beziehung überwinden: Praktischer Guide](/blog/beziehung-langeweile-ueberwinden-tipps)
-- [Eifersucht in der Beziehung überwinden: So schaffst du es](/blog/eifersucht-beziehung-ueberwinden)
+- [Eifersucht in der Beziehung überwinden: So schaffst du es](/blog/eifersucht-bekaempfen)

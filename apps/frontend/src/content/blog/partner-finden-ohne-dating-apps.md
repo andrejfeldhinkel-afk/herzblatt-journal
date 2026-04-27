@@ -143,7 +143,7 @@ Einen Partner offline zu finden ist möglich, wenn du:
 Es ist nicht einfacher als Apps – aber es ist authentischer. Und manchmal ist das das, das am meisten zählt.## Weiterlesen
 
 - [Wo kann man einen Partner finden — ohne Dating-Apps?](/blog/wo-partner-finden-ohne-app/)
-- [Dating ab 40: Neustart in der Lebensmitte](/blog/dating-nach-40-neustart/)
+- [Dating ab 40: Neustart in der Lebensmitte](/blog/dating-ab-40/)
 - [Dating mit Kind: So gelingt die Partnersuche als](/blog/dating-mit-kind/)
 - [Von der Dating-App zur Beziehung: Der Weg vom Swipe zur](/blog/online-dating-von-app-zur-beziehung/)
-- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-dating/)
+- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-guide/)

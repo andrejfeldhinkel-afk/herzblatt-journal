@@ -170,7 +170,7 @@ Das sind die echten Fragen.
 
 ## Weiterlesen
 
-- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-dating/)
+- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-guide/)
 - [Bindungsstile im Dating: Warum du immer wieder an die](/blog/bindungsstile-dating/)
 - [Selbstwert und Dating: Warum es zusammenhängt](/blog/dating-und-selbstwert/)
 - [Throning — Wenn du nur als Statussymbol datst](/blog/throning-dating-trend-guide/)

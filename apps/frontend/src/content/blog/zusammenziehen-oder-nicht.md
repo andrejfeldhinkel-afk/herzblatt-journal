@@ -186,6 +186,6 @@ Zusammenziehen kann einer der besten Entscheidungen deines Lebens sein. Es kann 
 
 - [Zusammenziehen: Die ultimative Checkliste](/blog/zusammenziehen-checkliste/)
 - [Fernbeziehung beenden: Zusammenziehen](/blog/beziehung-fernbeziehung-zusammenziehen/)
-- [Zusammenziehen: Tipps für den großen Schritt](/blog/zusammenziehen-tipps/)
+- [Zusammenziehen: Tipps für den großen Schritt](/blog/zusammenziehen-oder-nicht/)
 - [Vom Traum zur Realität zusammenziehen](/blog/beziehung-nach-fernbeziehung-tipps/)
 - [Partner will nicht zusammenziehen: Was steckt dahinter?](/blog/partner-will-nicht-zusammenziehen/)

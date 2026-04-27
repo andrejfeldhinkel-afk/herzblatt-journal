@@ -245,5 +245,5 @@ Das ist die beste Investition, die du machen kannst.
 
 - [Bindungstypen verstehen: Der ultimative Guide](/blog/attachment-styles-bindungstypen-guide/)
 - [Attachment Styles: Einfluss auf dein Dating](/blog/attachment-styles-dating-verstehen/)
-- [Bindungstypen verstehen: Einfluss auf dein Dating](/blog/attachment-styles-dating/)
+- [Bindungstypen verstehen: Einfluss auf dein Dating](/blog/attachment-styles-guide/)
 - [Bindungstypen verstehen 2026: Der komplette Guide](/blog/attachment-styles-guide/)

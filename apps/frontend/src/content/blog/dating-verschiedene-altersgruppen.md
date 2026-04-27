@@ -846,4 +846,4 @@ Und wenn du merkst, dass es nicht funktioniert – sei nicht Schande. Das Alters
 - [Zweite Chance beim Dating: Wann lohnt es sich?](/blog/dating-zweite-chance-geben/)
 - [Diskriminierung beim Dating](/blog/diskriminierung-queeres-dating/)
 - [Nach Betrug wieder vertrauen lernen beim Dating](/blog/dating-nach-betrug-vertrauen-aufbauen/)
-- [Red Flags bei Männern – 15 Warnsignale beim Dating](/blog/dating-red-flags-maenner/)
+- [Red Flags bei Männern – 15 Warnsignale beim Dating](/blog/dating-red-flags-maenner-erkennen/)

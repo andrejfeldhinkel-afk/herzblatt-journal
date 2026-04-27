@@ -837,6 +837,6 @@ Beginne heute. Nicht irgendwann. Nicht wenn es perfekt ist. Jetzt.
 ## Das könnte dich auch interessieren
 
 - [Selbstliebe lernen bevor Du eine Beziehung eingehst](/blog/selbstliebe-lernen-vor-beziehung/)
-- [Selbstliebe: Warum du dich zuerst finden musst, bevor du](/blog/selbstliebe-vor-partnersuche/)
+- [Selbstliebe: Warum du dich zuerst finden musst, bevor du](/blog/selbstliebe-dating/)
 - [Respekt in der Beziehung: Das Fundament jeder glücklichen Partnerschaft](/blog/respekt-beziehung-aufbauen/)
 - [Kommunikation in Beziehungen: Die Masterclass](/blog/beziehung-kommunikation-masterclass/)

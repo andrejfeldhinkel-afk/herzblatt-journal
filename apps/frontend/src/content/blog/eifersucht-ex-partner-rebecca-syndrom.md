@@ -170,5 +170,5 @@ Und am wichtigsten: Du musst dich selbst als genug akzeptieren. Nicht besser als
 
 - [Partner vergleicht mich mit der Ex: So reagierst du](/blog/partner-vergleicht-mich-mit-ex/)
 - [Phantom-Ex: Warum du deinen Ex nicht loslassen kannst](/blog/phantom-ex-syndrom/)
-- [Digitale Eifersucht – Wenn Social Media deine Beziehung](/blog/digitale-eifersucht/)
+- [Digitale Eifersucht – Wenn Social Media deine Beziehung](/blog/eifersucht-bekaempfen/)
 - [Eifersucht in queeren Beziehungen](/blog/eifersucht-queere-beziehung/)

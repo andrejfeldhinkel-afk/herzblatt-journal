@@ -126,8 +126,8 @@ Mehr zum Thema erfährst du auf Psychologie Heute: [Psychologie Heute](https://w
 Detaillierte Infos bietet Therapie Portal: [Therapie Portal](https://www.therapie.de/)
 ## Weiterlesen
 
-- [Dating nach einer Ghosting-Erfahrung: Wieder vertrauen](/blog/dating-nach-ghosting-erfahrung/)
-- [Dating nach einer Langzeitbeziehung: Ein kompletter Neustart](/blog/dating-nach-langzeitbeziehung/)
+- [Dating nach einer Ghosting-Erfahrung: Wieder vertrauen](/blog/ghosting-umgehen-tipps/)
+- [Dating nach einer Langzeitbeziehung: Ein kompletter Neustart](/blog/dating-nach-trennung/)
 - [Dating nach psychischer Erkrankung: Der behutsame Weg zurück](/blog/dating-nach-psychischer-erkrankung/)
 - [Die Psychologie des Online-Datings: Warum wir swipen wie wir](/blog/online-dating-psychologie/)
-- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-dating/)
+- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-guide/)

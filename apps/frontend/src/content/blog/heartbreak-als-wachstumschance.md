@@ -509,7 +509,7 @@ Der Herzschmerz wird nicht immer sein. Es wird nicht jeden Morgen da sein. Es wi
 Aber die Stärke, die du aufbaust, während du durch ihn gehst? Diese wird für immer sein. Dies ist die Last, die sich in den Gold verwandelt.## Weiterlesen
 
 - [Trennung bereuen: 7 sichere Anzeichen & wie du damit umgehen](/blog/trennung-bereuen-anzeichen/)
-- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung-wann-bereit/)
+- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung/)
 - [Erste eigene Wohnung nach Trennung: Der Neustart-Guide](/blog/erste-wohnung-nach-trennung/)
 - [Freundschaft nach Trennung: Geht das?](/blog/freundschaft-nach-trennung/)
 - [Gemeinsame Freunde nach der Trennung: Wie geht das?](/blog/gemeinsame-freunde-nach-trennung/)

@@ -185,10 +185,10 @@ Mit Sicherheit, Vorbereitung und einer offenen Geist, kann der Übergang vom Cha
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/beste-dating-apps-2026), [Dating für Introvertierte: Tipps zum Finden von Liebe ohne Stress](/blog/dating-introvertierte).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/dating-app-vergleich-2026), [Dating für Introvertierte: Tipps zum Finden von Liebe ohne Stress](/blog/introvertiert-dating).## Weiterlesen
 
 - [Erstes Date: 10 Tipps, damit es richtig gut wird](/blog/erstes-date-tipps/)
-- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-online-dating/)
+- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-dating-app/)
 - [Wie Dating-App Algorithmen wirklich funktionieren](/blog/online-dating-algorithmus/)
 - [Online-Dating Anschreiben – So bekommst du garantiert](/blog/online-dating-anschreiben/)
 - [Online-Dating Antworten die Interesse zeigen](/blog/online-dating-antwort-schreiben/)

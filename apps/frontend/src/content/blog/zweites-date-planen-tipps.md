@@ -180,7 +180,7 @@ Die beste Beziehungen starten oft mit einem großartigen zweiten Date.
 
 ## Das könnte dich auch interessieren
 
-- [Zweites Date: Tipps für ein perfektes Wiedersehen](/blog/zweites-date-planen/)
+- [Zweites Date: Tipps für ein perfektes Wiedersehen](/blog/zweites-date-tipps/)
 - [Zweites Date aber kein Kribbeln: Trotzdem weitermachen?](/blog/zweites-date-kein-kribbeln/)
 - [Das perfekte erste Date planen: Von A bis Z](/blog/erstes-date-perfekt-planen-guide/)
 - [Das zweite Date: Tipps, Ideen und was du wissen musst](/blog/zweites-date-tipps-ideen/)

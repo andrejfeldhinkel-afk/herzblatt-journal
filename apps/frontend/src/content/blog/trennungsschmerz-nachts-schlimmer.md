@@ -99,6 +99,6 @@ Halte durch. Die Nächte jetzt sind hart. Aber sie werden nicht ewig so sein.
 
 - [Trennungsschmerz: Die 5 Phasen der Heilung verstehen](/blog/trennungsschmerz-phasen/)
 - [Conscious Uncoupling — Bewusste Trennung ohne Zerstörung](/blog/conscious-uncoupling-trennung-guide/)
-- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung-wann-bereit/)
+- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung/)
 - [Scheidungskinder und Liebe: Wie die Trennung deiner Eltern](/blog/scheidungskinder-beziehungen-erwachsene/)
 - [Selbstliebe lernen nach Trennung: Dein Weg zurück zu dir](/blog/selbstliebe-nach-trennung/)

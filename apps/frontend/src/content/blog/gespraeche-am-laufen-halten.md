@@ -224,5 +224,5 @@ Und die peinliche Stille? Die wird zur produktiven Pause. Und das ist sogar bess
 
 - [Date-Gespräche am Laufen halten: So geht's](/blog/dating-gespraeche-am-laufen-halten/)
 - [Gesprächsthemen fürs Date: Nie mehr Stille](/blog/date-gespraeche-meistern/)
-- [Gespräche auf dem ersten Date – So wird es nie peinlich](/blog/erstes-date-gespraeche-fuehren/)
+- [Gespräche auf dem ersten Date – So wird es nie peinlich](/blog/erstes-date-tipps/)
 - [Langzeitbeziehung: 30 Wege die Liebe frisch zu halten](/blog/langzeitbeziehung-spannend-halten/)

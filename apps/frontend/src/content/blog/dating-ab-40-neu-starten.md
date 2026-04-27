@@ -207,5 +207,5 @@ Und das hält.
 
 - [Dating ab 40 – So findest du in der Lebensmitte die große](/blog/dating-ab-40/)
 - [LGBTQ+ Dating ab 40: Neuanfang und Partnersuche in der](/blog/lgbtq-dating-ab-40/)
-- [Dating über 40: Neustart in der Liebe — ehrlich und](/blog/dating-ueber-40/)
+- [Dating über 40: Neustart in der Liebe — ehrlich und](/blog/dating-ab-40/)
 - [Dating ab 40 als Frau: Neustart mit Selbstvertrauen](/blog/dating-nach-40-frauen/)

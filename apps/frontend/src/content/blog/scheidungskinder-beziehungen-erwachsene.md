@@ -36,7 +36,7 @@ Bei Scheidungskindern ist diese sichere Basis erschüttert oder zerstört worden
 
 **Unsicherer vermeidender [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) (Avoidant):** Du lerntest, dich nicht auf andere zu verlassen. Dein Elternteil war nicht zuverlässig, oder der andere Elternteil war zu dominant. Also lerntest du, unabhängig zu sein — aber als Überlebensstrategie, nicht aus echtem inneren Vertrauen. Später wählst du Partner, die emotional nicht verfügbar sind, weil sie zu deinen unbewussten Erwartungen passen.
 
-**Unsicherer anklammernd-[Bindungsangst überwinden](/blog/bindungsangst-ueberwinden) ist möglich — mit Bewusstsein, Arbeit und oft mit Unterstützung.
+**Unsicherer anklammernd-[Bindungsangst überwinden](/blog/bindungsangst-komplett-guide) ist möglich — mit Bewusstsein, Arbeit und oft mit Unterstützung.
 
 ## Wie Scheidungskinder Partner wählen: Unbewusste Muster
 
@@ -66,7 +66,7 @@ Es ist ein selbsterfüllendes Prophezeiung-Spiel.
 
 Manchmal wählst du das Gegenteil: einen Partner, der fast zu perfekt ist. Der alles richtig macht, dich unendlich unterstützt. Und dann warten dich nicht lange, bevor du ihn oder sie unbewusst sabotierst. *Das ist zu schön, um wahr zu sein. Das wird nicht halten. Besser, ich zerstöre es, bevor es dich verlässt.*
 
-Das ist [Inneres Kind heilen in Beziehungen](/blog/inneres-kind-heilen-beziehung) ist nicht nur psychologisches Jargon — es ist das Kernwerk.
+Das ist [Inneres Kind heilen in Beziehungen](/blog/inner-child-beziehung) ist nicht nur psychologisches Jargon — es ist das Kernwerk.
 
 Das innere Kind — das ist der Teil von dir, der die Scheidung erlebte. Der Angst hat. Der unsicher ist.
 
@@ -112,7 +112,7 @@ Das ist eine Fertigkeit, nicht eine Naturbegabung — besonders nicht für Schei
 
 ### Schritt 6: Verlustangst direkt adressieren
 
-[Verlustangst](/blog/verlustangst-beziehung) sitzt wahrscheinlich unter allem.
+[Verlustangst](/blog/verlustangst-beziehung-ueberwinden) sitzt wahrscheinlich unter allem.
 
 Ein Übung, die hilft: Schreib auf, was du am meisten fürchtest. "Wenn diese Beziehung scheitert, dann..." Schreib den ganzen Satz zu Ende.
 
@@ -364,4 +364,4 @@ Und das ist tatsächlich eine Art Superpower.
 - [Emotional Detachment: Wenn du in der Beziehung nichts mehr](/blog/emotional-detachment-beziehung/)
 - [Fawn Response: Wenn du dich in Beziehungen aufgibst, um](/blog/fawn-response-beziehung-guide/)
 - [Hyper-Independence: Wenn extreme Unabhängigkeit deine](/blog/hyper-independence-beziehung/)
-- [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inneres-kind-heilen-beziehung/)
+- [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inner-child-beziehung/)

@@ -2,7 +2,7 @@
 title: "Vertrauen nach Fremdgehen aufbauen: Schritt für Schritt"
 description: "Fremdgehen zerstört Vertrauen. Mit diesen praktischen Schritten könnt ihr wieder zusammenwachsen und tiefere Liebe aufbauen."
 date: 2026-04-06
-image: "/images/blog/dating-nach-40-neustart.webp"
+image: "/images/blog/dating-ab-40.webp"
 tags:
   - "Beziehung"
   - "Vertrauen"

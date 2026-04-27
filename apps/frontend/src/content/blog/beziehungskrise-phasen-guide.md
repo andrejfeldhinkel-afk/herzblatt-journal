@@ -455,5 +455,5 @@ Oder ihr trennt euch — und das ist auch okay. Das wichtigste ist, dass ihr aus
 
 - [Die 5 Phasen einer Beziehung: Wo steht ihr?](/blog/beziehung-phasen-guide/)
 - [Date Ideen für jede Jahreszeit: 100 kreative Vorschläge die begeistern](/blog/date-ideen-jahreszeiten/)
-- [Liebe auf Distanz: So übersteht eure Fernbeziehung jede](/blog/liebe-auf-distanz-tipps/)
+- [Liebe auf Distanz: So übersteht eure Fernbeziehung jede](/blog/fernbeziehung-tipps/)
 - [Wann ist es eine Beziehung? Die 5 Phasen vom Kennenlernen](/blog/wann-ist-es-eine-beziehung/)

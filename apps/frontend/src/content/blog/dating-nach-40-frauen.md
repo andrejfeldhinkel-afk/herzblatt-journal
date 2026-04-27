@@ -234,8 +234,8 @@ Dein bestes Kapitel des Lebens ist nicht geschrieben worden und nicht vorbei. Es
 
 Vertrau mir. Du schaffst das. Du findest echte Liebe. Du verdienst sie. Jetzt.## Weiterlesen
 
-- [Dating ab 40: Neustart in der Lebensmitte](/blog/dating-nach-40-neustart/)
-- [Dating nach 40 als Mann: Dein zweiter Frühling](/blog/dating-nach-40-maenner/)
+- [Dating ab 40: Neustart in der Lebensmitte](/blog/dating-ab-40/)
+- [Dating nach 40 als Mann: Dein zweiter Frühling](/blog/dating-ab-40/)
 - [Dating über 50 als Frau: Neustart mit Selbstbewusstsein](/blog/dating-nach-50-frauen/)
 - [Dating ab 40: Neustart in der Liebe](/blog/dating-ab-40/)
 - [Dating-Apps aus Frauensicht: Tipps für bessere Matches](/blog/dating-apps-fuer-frauen/)

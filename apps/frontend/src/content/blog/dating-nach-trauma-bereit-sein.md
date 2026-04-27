@@ -244,7 +244,7 @@ Sie verdienen Liebe. Sie verdienen auch Sicherheit.
 
 ## Das könnte dich auch interessieren
 
-- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung-wann-bereit/)
+- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung/)
 - [Dating nach Stalking-Erfahrung – Sicher zurück ins Vertrauen](/blog/dating-nach-stalking-befreiung/)
 - [Dating nach psychischer Erkrankung: Der behutsame Weg zurück](/blog/dating-nach-psychischer-erkrankung/)
 - [Dating nach langer Beziehung: Neustart nach 5, 10 oder 20 Jahren](/blog/dating-nach-langer-beziehung-guide/)

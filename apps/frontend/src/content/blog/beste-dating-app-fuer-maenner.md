@@ -276,7 +276,7 @@ Hinge ist international die am schnellsten wachsende App für Männer, die Bezie
 
 **Preis:** ab 32,99 €/Monat, 6-Monats- und 12-Monatsabos günstiger
 
-**[Mehr zu Hinge: Zum ausführlichen Test](/blog/hinge-test-erfahrungen)**
+**[Mehr zu Hinge: Zum ausführlichen Test](/blog/hinge-guide-deutsch-2026)**
 
 ---
 
@@ -802,7 +802,7 @@ Viel Erfolg. Und wenn du Fragen hast: ich lese jede Kommentar-Mail.
 
 - [Online-Dating-Guide 2026: Von der Anmeldung bis zum Date](/online-dating-guide)
 - [Dating-App-Bio schreiben: Beispiele für mehr Matches](/blog/dating-app-bio-schreiben)
-- [Profilfotos für Männer: Was 2026 wirklich funktioniert](/blog/dating-fehler-maenner)
+- [Profilfotos für Männer: Was 2026 wirklich funktioniert](/blog/dating-fehler-frauen)
 - [Erste Nachricht schreiben: 12 Opener, die Antworten bringen](/blog/erste-nachricht-dating-app)
 - [Erstes Date planen: Location, Gesprächsthemen, No-Gos](/erstes-date-guide)
 - [Flirten lernen: Die besten Techniken für Männer 2026](/flirten-lernen-guide)

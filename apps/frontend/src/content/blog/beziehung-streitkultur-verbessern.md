@@ -234,6 +234,6 @@ Aber die Zeit vergeht sowieso. Nutze sie weise.
 ## Das könnte dich auch interessieren
 
 - [Streitkultur in der Beziehung: So streitet ihr fair und konstruktiv](/blog/streitkultur-beziehung/)
-- [Gesunde Streitkultur in der Beziehung entwickeln](/blog/beziehung-streitkultur/)
+- [Gesunde Streitkultur in der Beziehung entwickeln](/blog/beziehung-streit-guide/)
 - [Beziehung verbessern: 25 Sofort-Tipps die heute noch wirken](/blog/beziehung-verbessern-sofort-tipps/)
 - [Schuld vs. Verantwortung: Der Unterschied, der Beziehungen](/blog/beziehung-schuld-vorwurf/)

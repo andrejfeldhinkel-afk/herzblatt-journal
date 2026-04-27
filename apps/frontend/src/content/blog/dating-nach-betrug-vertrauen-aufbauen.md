@@ -237,4 +237,4 @@ Mit der Zeit werden Sie bemerken, dass die Angst weniger wird, dass Sie wieder l
 - [Beziehung nach Betrug: Kann man wieder vertrauen lernen?](/blog/beziehung-nach-betrug-aufbauen/)
 - [Dating nach Betrug: Vertrauen wieder aufbauen](/blog/dating-nach-betrug/)
 - [Beziehung nach Online-Betrug: Vertrauen zurückgewinnen](/blog/beziehung-nach-betrug-online-dating/)
-- [Vertrauen nach einem Betrug aufbauen](/blog/vertrauen-nach-betrug/)
+- [Vertrauen nach einem Betrug aufbauen](/blog/vertrauen-aufbauen-beziehung/)

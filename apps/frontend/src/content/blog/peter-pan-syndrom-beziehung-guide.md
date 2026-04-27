@@ -303,4 +303,4 @@ Diese Geschichten zeigen, dass Erkennung früh ist wichtig und dass du nicht jem
 - [Emotional Labor — Die unsichtbare Arbeit in Beziehungen](/blog/emotional-labor-beziehung-guide/)
 - [Emotionsregulation in Beziehungen: Wie du lernst, deine](/blog/emotionsregulation-beziehung-guide/)
 - [Retter-Syndrom (White Knight Syndrome) — Wenn Helfen zur](/blog/retter-syndrom-beziehung-guide/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)

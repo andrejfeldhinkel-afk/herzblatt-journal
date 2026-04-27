@@ -290,6 +290,6 @@ Das zu akzeptieren ist befreiend.
 ## Das könnte dich auch interessieren
 
 - [Dating Red Flags bei Männern erkennen](/blog/dating-red-flags-maenner-erkennen/)
-- [Red Flags bei Männern – 15 Warnsignale beim Dating](/blog/dating-red-flags-maenner/)
+- [Red Flags bei Männern – 15 Warnsignale beim Dating](/blog/dating-red-flags-maenner-erkennen/)
 - [20 Green Flags: Zeichen dass er/sie der Richtige ist](/blog/dating-green-flags-guide/)
 - [Green Flags beim Dating: Positive Zeichen richtig erkennen](/blog/dating-green-flags-erkennen-guide/)

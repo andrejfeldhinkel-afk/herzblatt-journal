@@ -171,7 +171,7 @@ Menschen, die mit einer Illusion verbunden sind, werden enttäuscht.
 ## Weiterlesen
 
 - [Online-Dating für Introvertierte](/blog/dating-introvertiert-online-tipps)
-- [Die perfekte erste Nachricht beim Online-Dating](/blog/erste-nachricht-online-dating)
+- [Die perfekte erste Nachricht beim Online-Dating](/blog/erste-nachricht-dating-app)
 
 ## Weiterführende Artikel
 

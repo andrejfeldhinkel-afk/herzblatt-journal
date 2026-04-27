@@ -202,5 +202,5 @@ Die Funken fliegen wieder. Wirklich.
 
 - [Langzeitbeziehung: 30 Wege die Liebe frisch zu halten](/blog/langzeitbeziehung-spannend-halten/)
 - [Langzeitbeziehung aufpeppen: Wenn die Flamme verblasst](/blog/langzeitbeziehung-langeweile-spice-up/)
-- [Dating nach Langzeitbeziehung](/blog/dating-nach-langzeitbeziehung/)
+- [Dating nach Langzeitbeziehung](/blog/dating-nach-trennung/)
 - [Date-Gespräche am Laufen halten: So geht's](/blog/dating-gespraeche-am-laufen-halten/)

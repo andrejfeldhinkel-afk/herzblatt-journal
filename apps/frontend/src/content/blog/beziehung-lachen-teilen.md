@@ -303,7 +303,7 @@ Nicht automatisch. Manche toxische Paare lachen viel zusammen – auf Kosten and
 Aber echtes, gegenseitiges Lachen? Ja, das bedeutet, dass die Beziehung eine gute Fundamentale hat.
 ## Weiterlesen
 
-- [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating/)
+- [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-guide/)
 - [Grenzen setzen ohne Schuld: Der Leitfaden für liebevolle Grenzen](/blog/beziehung-grenzsetzen/)
 - [Konflikt-Stile: Kennde deinen Weg, um zu kämpfen](/blog/beziehung-konflikt-styles/)
 - [Das Geheimnis langjähriger Ehen: Was Paare falsch verstehen](/blog/beziehung-lange-ehe-geheimnis/)

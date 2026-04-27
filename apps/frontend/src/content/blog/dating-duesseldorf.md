@@ -174,4 +174,4 @@ Der Rhein fließt für euch beide.
 - [Dating in Hannover: Die besten Orte](/blog/dating-hannover/)
 - [Dating in Dresden: Singles und Spots](/blog/dating-dresden/)
 - [Dating als Ambivert: Dein Vorteil wenn du weder](/blog/dating-als-ambivert/)
-- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-dating/)
+- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-guide/)

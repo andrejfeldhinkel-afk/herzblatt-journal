@@ -326,6 +326,6 @@ Es ist deine Entscheidung, ob der Aufwand es wert ist. Und was auch immer du wä
 
 - [Nach Vertrauensbruch: Heilung finden](/blog/beziehung-nach-vertrauensbruch/)
 - [Verletzlichkeit in Beziehungen: Warum emotionale Offenheit](/blog/verletzlichkeit-beziehung-guide/)
-- [Vertrauen nach einem Betrug aufbauen: Heilung Wiederaufbau](/blog/vertrauen-nach-betrug/)
+- [Vertrauen nach einem Betrug aufbauen: Heilung Wiederaufbau](/blog/vertrauen-aufbauen-beziehung/)
 - [Nach dem großen Vertrauensbruch: Reden oder gehen?](/blog/beziehung-nach-grossem-vertrauensbruch/)
-- [Fremdgehen verzeihen: Kann eine Beziehung nach Untreue](/blog/fremdgehen-verzeihen/)
+- [Fremdgehen verzeihen: Kann eine Beziehung nach Untreue](/blog/fremdgehen-verzeihen-kompletter-guide/)

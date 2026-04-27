@@ -146,5 +146,5 @@ Mehr zum Thema erfährst du auf Bundesamt für Sicherheit in der Informationstec
 - [Dating-Apps aus Frauensicht: Tipps für bessere Matches](/blog/dating-apps-fuer-frauen/)
 - [So optimierst du deinen Dating-App Algorithmus](/blog/dating-apps-algorithmus-hacken/)
 - [Die perfekten Profilfotos für Dating-Apps: So wirst du](/blog/dating-profile-fotos-tipps/)
-- [Online-Dating Sicherheit: So schützt du dich vor Betrug](/blog/online-dating-sicherheit-tipps/)
-- [10 Dating-Fehler, die Männer ständig machen (und wie du sie](/blog/dating-fehler-maenner/)
+- [Online-Dating Sicherheit: So schützt du dich vor Betrug](/blog/online-dating-sicherheit/)
+- [10 Dating-Fehler, die Männer ständig machen (und wie du sie](/blog/dating-fehler-frauen/)

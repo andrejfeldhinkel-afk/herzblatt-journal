@@ -224,4 +224,4 @@ Nutzer werden bewusster und fordernd bei der Wahl von Plattformen. Sie mögen ni
 - [KI und die Zukunft des Datings](/blog/ki-dating-zukunft-liebe/)
 - [Dating-Trends : Die 10 wichtigsten Entwicklungen, die du](/blog/dating-trends-2026/)
 - [Online-Dating Sicherheit: Tipps zum Schutz](/blog/online-dating-sicherheit)
-- [Langstrecken-Beziehungen erfolgreich navigieren](/blog/verlustangst-beziehung)
+- [Langstrecken-Beziehungen erfolgreich navigieren](/blog/verlustangst-beziehung-ueberwinden)

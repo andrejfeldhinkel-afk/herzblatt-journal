@@ -358,6 +358,6 @@ Das ist du sein kannst.
 
 ## Weiterlesen
 
-- [10 Dating-Fehler, die Männer ständig machen (und wie du](/blog/dating-fehler-maenner)
+- [10 Dating-Fehler, die Männer ständig machen (und wie du](/blog/dating-fehler-frauen)
 - [Dating als hochsensibler Mann: Tiefe statt Fassade](/blog/dating-hochsensible-maenner)
 

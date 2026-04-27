@@ -2,7 +2,7 @@
 title: "Witzig sein beim Dating ohne Comedy-Show: Authentisch lustig statt cringe"
 description: "Witzig sein beim Date richtig dosieren: Self-deprecation, Beobachtungs-Humor, Timing und warum Forced-Funny das Date killt. Konkrete Anleitung."
 date: 2026-04-27
-image: "/images/blog/toxische-dating-muster-durchbrechen.webp"
+image: "/images/blog/toxische-beziehung-erkennen.webp"
 imageAlt: "Witzig Sein Dating Humor"
 tags:
   - "Dating"

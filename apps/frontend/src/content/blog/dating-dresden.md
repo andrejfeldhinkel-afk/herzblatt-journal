@@ -162,4 +162,4 @@ Und die Brücken verbinden Eure Herzen.
 - [Dating in Hannover: Die besten Orte](/blog/dating-hannover/)
 - [Dating in Düsseldorf: Tipps und Hotspots](/blog/dating-duesseldorf/)
 - [Dating als Ambivert: Dein Vorteil wenn du weder](/blog/dating-als-ambivert/)
-- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-dating/)
+- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-guide/)

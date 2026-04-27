@@ -141,7 +141,7 @@ Aber sie können auch reicher sein. Du lernst nicht nur eine andere Person, du l
 Und wenn die Liebe real ist, sind kulturelle Unterschiede nicht Barrieren – sie sind Brücken.## Weiterlesen
 
 - [Dating mit unterschiedlichem Bildungsniveau: Funktioniert](/blog/dating-unterschiedliche-bildung/)
-- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-dating/)
+- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-guide/)
 - [Bindungsstile im Dating: Warum du immer wieder an die](/blog/bindungsstile-dating/)
-- [Dating ab 40: Neustart in der Lebensmitte](/blog/dating-nach-40-neustart/)
+- [Dating ab 40: Neustart in der Lebensmitte](/blog/dating-ab-40/)
 - [Vom besten Freund zum Partner](/blog/dating-nach-freundschaft/)

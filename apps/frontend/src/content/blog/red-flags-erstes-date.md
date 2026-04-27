@@ -212,5 +212,5 @@ Das ist nicht egoistisch. Das ist weise.
 
 - [10 Red Flags beim ersten Date die du nicht ignorieren solltest](/blog/dating-rote-flaggen-erstes-date/)
 - [Nervös beim ersten Date? So wirst du ruhiger](/blog/erstes-date-nervoesitaet/)
-- [Red Flags bei Männern – 15 Warnsignale beim Dating](/blog/dating-red-flags-maenner/)
+- [Red Flags bei Männern – 15 Warnsignale beim Dating](/blog/dating-red-flags-maenner-erkennen/)
 - [Red Flags bei Frauen: Warnsignale erkennen](/blog/dating-red-flags-frauen/)

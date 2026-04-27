@@ -580,6 +580,6 @@ Das ist möglich. Es beginnt mit dir, mit Geduld, mit dir selbst.
 
 ## Mehr zu diesem Thema
 
-- [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inneres-kind-heilen-beziehung/)
+- [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inner-child-beziehung/)
 - [Emotionale Vernachlässigung: Das stille Gift in Beziehungen](/blog/emotional-neglect-beziehung/)
 - [Emotional Detachment: Wenn du in der Beziehung nichts mehr](/blog/emotional-detachment-beziehung/)

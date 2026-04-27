@@ -157,4 +157,4 @@ Dating-Apps sind nicht alle gleich geschaffen, wenn es um nicht-binäre Optionen
 **[Dating Red Flags: 40 Warnsignale die du nicht ignorieren darfst](/blog/dating-red-flags-komplett-guide/)
 - [Dating-Vorsätze für das neue Jahr: Deine Ziele setzen](/blog/dating-vorsaetze-neues-jahr/)
 - [Dating-Spielchen durchschauen: Warum Menschen spielen und wie du damit umgehst](/blog/dating-spielchen-durchschauen/)
-- [5 toxische Dating-Muster, die du sofort durchbrechen](/blog/toxische-dating-muster/)
+- [5 toxische Dating-Muster, die du sofort durchbrechen](/blog/toxische-beziehung-erkennen/)

@@ -142,5 +142,5 @@ Tipp: Such Dir zuerst ein Expat-Netzwerk. Plattformen wie Internations.org oder 
 - [Dating über 50 als Frau: Neustart mit Selbstbewusstsein](/blog/dating-nach-50-frauen/)
 - [Dating nach langer Beziehung – Der Neustart-Guide](/blog/dating-nach-langer-beziehung/)
 - [Dating mit 30 – Warum jetzt die beste Zeit für die Liebe ist](/blog/dating-nach-30-tipps/)
-- [Dating nach 40 als Mann: Dein zweiter Frühling](/blog/dating-nach-40-maenner/)
+- [Dating nach 40 als Mann: Dein zweiter Frühling](/blog/dating-ab-40/)
 - [Dating nach Burnout oder Depression: Wann bin ich bereit](/blog/dating-nach-burnout/)

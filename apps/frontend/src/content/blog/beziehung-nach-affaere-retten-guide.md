@@ -244,6 +244,6 @@ Aber wenn nicht alle diese Elemente vorhanden sind, ist es okay, zu gehen. Die b
 ## Das könnte dich auch interessieren
 
 - [Beziehung nach einer Affäre](/blog/beziehung-nach-affaere/)
-- [Beziehung retten – 8 Strategien wenn die Liebe kriselt](/blog/beziehung-retten/)
+- [Beziehung retten – 8 Strategien wenn die Liebe kriselt](/blog/beziehung-retten-kompletter-guide/)
 - [Beziehung nach einer Affäre: Ist ein Neuanfang möglich?](/blog/beziehung-nach-affaere-neuanfang/)
 - [Beziehung stärken nach finanzieller Krise oder Insolvenz](/blog/beziehung-nach-insolvenz/)

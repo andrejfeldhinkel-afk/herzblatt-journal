@@ -124,7 +124,7 @@ Aber wenn du und dein Partner zusammen arbeitet – wirklich zusammen, nicht geg
 ## Das könnte dich auch interessieren
 
 - [Schlafgewohnheiten als Paar: Zusammenschlafen, aber getrennte Träume](/blog/beziehung-und-schlaf/)
-- [Beziehung retten – 8 Strategien wenn die Liebe kriselt](/blog/beziehung-retten/)
+- [Beziehung retten – 8 Strategien wenn die Liebe kriselt](/blog/beziehung-retten-kompletter-guide/)
 - [Beziehung und Depression: Wenn die Seele die Liebe belastet](/blog/beziehung-und-depression-guide/)
 - [Beziehung und Kinderwunsch: Wenn einer will und der andere nicht](/blog/beziehung-und-kinderwunsch-guide/)
 

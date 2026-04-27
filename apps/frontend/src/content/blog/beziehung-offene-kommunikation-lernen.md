@@ -789,9 +789,9 @@ Das ist small aber das ist powerful.
 
 ## Kommunikation und verschiedene Bindungsstile
 
-Dein [emotionale Intelligenz beim Dating](/blog/emotionale-intelligenz-dating) — communication ist ein Teil davon.
+Dein [emotionale Intelligenz beim Dating](/blog/emotionale-intelligenz-beziehung) — communication ist ein Teil davon.
 
-Erkenne [emotionale Intelligenz beim Dating](/blog/emotionale-intelligenz-dating)
+Erkenne [emotionale Intelligenz beim Dating](/blog/emotionale-intelligenz-beziehung)
 - Erkenne [persönliche Grenzen und Selbstliebe](/blog/persoenliche-grenzen-dating)
 
 ## 10 Kommunikations-Übungen für Paare
@@ -1229,7 +1229,7 @@ Das ist die Kraft von offener, ehrlicher Kommunikation — wenn beide Menschen z
 ## Weiterlesen
 
 - [Offene Kommunikation: So sagst du was du denkst](/blog/beziehung-offene-kommunikation/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Beziehung retten: Der ehrliche Guide wenn es die letzte](/blog/beziehung-retten-letzte-chance/)
 - [Verschiedene Lebenspläne in der Beziehung: Wenn Liebe allein](/blog/beziehung-verschiedene-lebensplaene/)
 - [Mental Load in der Beziehung: Die unsichtbare Last fair](/blog/emotional-load-beziehung-mental-load/)

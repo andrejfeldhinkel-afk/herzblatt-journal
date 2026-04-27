@@ -217,7 +217,7 @@ Aber wenn du es bist? Die richtige App wird dich zum richtigen Menschen bringen.
 
 ## Das könnte dich auch interessieren
 
-- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich/)
+- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-app-vergleich-2026/)
 - [Dating-Apps Vergleich 2026 - Welche passt zu Dir?](/blog/dating-apps-vergleich-2026/)
 - [Dating-Apps 2026: Alle Apps im ehrlichen Vergleich](/blog/dating-apps-vergleich-2026-komplett/)
 - [Dating-App Kosten im Vergleich 2026](/blog/dating-kosten-vergleich/)

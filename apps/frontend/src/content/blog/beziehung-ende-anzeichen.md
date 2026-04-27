@@ -55,7 +55,7 @@ Menschen, die glücklich sind, stellen diese Fragen nicht ständig. Menschen in 
 
 Das bedeutet nicht, dass du sofort gehen musst. Aber es bedeutet, dass etwas fundamental nicht stimmt. Entweder stimmt etwas in der Beziehung nicht, oder etwas in dir selbst. Das muss untersucht werden.
 
-Wenn du [einen Artikel über rote Flaggen in Beziehungen](/blog/love-languages-beziehung) um zu verstehen, ob deine Familie richtig hat oder nicht.
+Wenn du [einen Artikel über rote Flaggen in Beziehungen](/blog/liebessprachen-komplett-guide) um zu verstehen, ob deine Familie richtig hat oder nicht.
 
 ## 19. Du hast die Hoffnung aufgegeben, dass es besser wird
 

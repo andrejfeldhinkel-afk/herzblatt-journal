@@ -131,5 +131,5 @@ In den ersten Wochen einer neuen Bekanntschaft entstehen besonders viele Missver
 - [Partnersuche ab 50: Der ehrliche Komplett-Guide](/blog/partnersuche-ab-50-guide/)
 - [Online-Dating Langzeitstrategie: So findest du nachhaltig](/blog/online-dating-langzeitstrategie/)
 - [Emotionale Abhängigkeit überwinden: Unabhängigkeit](/blog/emotionale-abhaengigkeit/)
-- [Emotionale Intelligenz im Dating: Warum EQ wichtiger ist?](/blog/emotionale-intelligenz-dating/)
+- [Emotionale Intelligenz im Dating: Warum EQ wichtiger ist?](/blog/emotionale-intelligenz-beziehung/)
 - [Emotionale Manipulation beim Dating erkennen](/blog/emotionale-manipulation-dating/)

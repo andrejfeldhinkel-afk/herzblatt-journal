@@ -172,6 +172,6 @@ Das ist das Geschenk, das aus dieser Trauer kommt.## Weiterlesen
 
 - [Trennung im Urlaub: Wenn die Reise zum Beziehungs-Test wird](/blog/trennung-im-urlaub/)
 - [Conscious Uncoupling — Bewusste Trennung ohne Zerstörung](/blog/conscious-uncoupling-trennung-guide/)
-- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung-wann-bereit/)
+- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung/)
 - [Trennung bereuen: 7 sichere Anzeichen & wie du damit umgehen](/blog/trennung-bereuen-anzeichen/)
 - [Weihnachten nach der Trennung überstehen: So kommst du durch](/blog/weihnachten-nach-trennung-ueberstehen/)

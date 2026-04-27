@@ -158,5 +158,5 @@ Also: Vertrau deinem Bauch. Höre deinen Kindern zu. Sei geduldig mit allen Bete
 
 - [Beziehung und Freundschaften: Im Gleichgewicht](/blog/beziehung-und-freundschaften/)
 - [Nachhaltig glückliche Beziehungen aufbauen](/blog/beziehung-staerken-winter)
-- [Liebe zwischen Wunsch und Realität: Dating mit Kindern](/blog/dating-mit-kindern)
+- [Liebe zwischen Wunsch und Realität: Dating mit Kindern](/blog/dating-mit-kind)
 

@@ -1276,5 +1276,5 @@ Bis dahin: Kontaktsperre, Sport, und sei freundlich zu dir selbst.
 Du verdienst Gnade — besonders von dir selbst.
 
 - [Verliebt sein: 25+ Anzeichen und die Psychologie dahinter](/blog/verliebt-sein-anzeichen-psychologie/)
-- [Red Flags in neuen Beziehungen erkennen](/blog/red-flags-erkennen)
+- [Red Flags in neuen Beziehungen erkennen](/blog/dating-red-flags-maenner-erkennen)
 - [Selbstliebe lernen: Ein praktischer 30-Tage-Plan](/blog/selbstliebe-lernen-vor-beziehung)

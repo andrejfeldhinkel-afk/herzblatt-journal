@@ -167,12 +167,12 @@ Beides sind valide Antworten. Aber die erste braucht beide. Und das ist wichtig 
 ---
 
 **Lesetipps:**
-- [Liebessprachen verstehen](/blog/liebessprachen-test-anleitung/)
+- [Liebessprachen verstehen](/blog/liebessprachen-komplett-guide/)
 - [kommunikation](/blog/aktives-zuhoeren-beziehung-ueben/) verbessern
 - [Dating nach psychischer Erkrankung](/blog/dating-nach-psychischer-erkrankung/)## Weiterlesen
 
 - [Mental Load in der Beziehung: Die unsichtbare Last fair](/blog/emotional-load-beziehung-mental-load/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Nach Vertrauensbruch: Heilung finden](/blog/beziehung-nach-vertrauensbruch/)
 - [Beziehung retten: Der ehrliche Guide wenn es die letzte](/blog/beziehung-retten-letzte-chance/)

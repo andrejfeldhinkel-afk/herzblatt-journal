@@ -337,4 +337,4 @@ Wenn Sie einen Phantom-Ex haben, habe ich eine Nachricht für Sie: Es wird besse
 - [Trauma Bonding: Warum du nicht loslassen kannst](/blog/trauma-bonding-komplett-erklaert/)
 - [Eifersucht auf die Ex: Rebecca-Syndrom](/blog/eifersucht-ex-partner-rebecca-syndrom/)
 - [Ex zurückgewinnen – Wann es sich lohnt und wann nicht](/blog/ex-zurueck-sinnvoll/)
-- [Bindungsangst überwinden: Warum du dich nicht einlassen kannst und was hilft](/blog/bindungsangst-ueberwinden/)
+- [Bindungsangst überwinden: Warum du dich nicht einlassen kannst und was hilft](/blog/bindungsangst-komplett-guide/)

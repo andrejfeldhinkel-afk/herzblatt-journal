@@ -597,6 +597,6 @@ Alles andere folgt von dort.
 ## Das könnte dich auch interessieren
 
 - [Online-Dating-Profil optimieren: Guide für Männer](/blog/online-dating-profil-optimieren-maenner/)
-- [10 Dating-Fehler, die Männer ständig machen (und wie du](/blog/dating-fehler-maenner/)
-- [Dating nach 40 für Männer](/blog/dating-nach-40-maenner/)
+- [10 Dating-Fehler, die Männer ständig machen (und wie du](/blog/dating-fehler-frauen/)
+- [Dating nach 40 für Männer](/blog/dating-ab-40/)
 - [Männer verstehen beim Dating](/blog/maenner-verstehen-dating/)

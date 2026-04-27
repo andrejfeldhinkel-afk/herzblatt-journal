@@ -654,4 +654,4 @@ Lese auch: Beziehung Kommunikation verbessern, [Selbstliebe beim Dating](/blog/s
 - [Selbstfürsorge in der Beziehung: Warum du dich zuerst lieben](/blog/selbstfuersorge-in-beziehung/)
 - [Wenn die Eltern gegen die Beziehung sind](/blog/beziehung-wenn-eltern-dagegen-sind/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)

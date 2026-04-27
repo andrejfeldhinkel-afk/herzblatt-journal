@@ -143,7 +143,7 @@ Das ist alles, das zählt.
 
 ## Das könnte dich auch interessieren
 
-- [Bindungsangst erkennen und überwinden — Praktische Wege](/blog/bindungsangst-erkennen-ueberwinden/)
+- [Bindungsangst erkennen und überwinden — Praktische Wege](/blog/bindungsangst-komplett-guide/)
 - [Dating Selbstbewusstsein aufbauen: 7 konkrete Strategien](/blog/dating-selbstbewusstsein-aufbauen/)
 - [Erste Nachricht beim Dating: So brichst du das Eis](/blog/erste-nachricht-dating-app)
 

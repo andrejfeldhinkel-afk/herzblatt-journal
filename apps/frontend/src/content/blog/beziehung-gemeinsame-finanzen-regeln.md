@@ -150,5 +150,5 @@ Das ist nicht romantisch. Aber es ist die Basis für eine lange, stabile Beziehu
 
 - [Finanzen in der Beziehung fair regeln](/blog/beziehung-finanzen-gemeinsam-regeln/)
 - [Offene Beziehung: Regeln, Kommunikation und ehrliche Erfahrungen](/blog/offene-beziehung-regeln-guide/)
-- [Offene Beziehung: Regeln und Kommunikation](/blog/offene-beziehung-regeln/)
+- [Offene Beziehung: Regeln und Kommunikation](/blog/offene-beziehung-regeln-guide/)
 - [Gemeinsame Hobbys finden als Paar](/blog/beziehung-gemeinsame-hobbys-finden/)

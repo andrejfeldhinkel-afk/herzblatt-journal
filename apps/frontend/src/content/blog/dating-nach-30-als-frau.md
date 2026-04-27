@@ -108,7 +108,7 @@ Halte durch. Die richtigen Menschen sind auch nach 30 noch da. Und sie sind bere
 **Lesetipps:**
 - [Emotional Safe Space in Beziehungen](/blog/emotional-safe-space-beziehung/)
 - [Dating nach psychischer Erkrankung](/blog/dating-nach-psychischer-erkrankung/)
-- [Liebessprachen verstehen](/blog/liebessprachen-test-anleitung/)## Weiterlesen
+- [Liebessprachen verstehen](/blog/liebessprachen-komplett-guide/)## Weiterlesen
 
 - [Dating als Ambivert: Dein Vorteil wenn du weder](/blog/dating-als-ambivert/)
 - [Dating mit Übergewicht: Selbstbewusst trotz Unsicherheit](/blog/dating-als-uebergewichtige/)

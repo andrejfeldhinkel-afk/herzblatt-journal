@@ -963,7 +963,7 @@ Und wenn du diesen Artikel liest, weil du durch diese schwierige Zeit gehst, mö
 Wenn du durch eine Trennung gehst und mehr Unterstützung suchst, könnte dich diese Artikel interessieren:
 
 - **[Trennung verarbeiten: Ein kompletter Guide](/blog/trennung-verarbeiten-komplett/)** – Wie du als Erwachsener die Trennung verarbeitest
-- **[Beziehung retten: Ist es noch möglich?](/blog/beziehung-retten/)** – Bevor du gehst, könnten diese Strategien helfen
+- **[Beziehung retten: Ist es noch möglich?](/blog/beziehung-retten-kompletter-guide/)** – Bevor du gehst, könnten diese Strategien helfen
 - **[Beziehung aufgeben oder kämpfen: Woran du erkennst, dass es Zeit ist](/blog/beziehung-aufgeben-oder-kaempfen/)** – Entscheidungshilfe wenn du nicht sicher bist
 - **[Conscious Uncoupling: Der respektvolle Weg zur Trennung](/blog/conscious-uncoupling-trennung-guide/)** – Ein progressiver Ansatz zur Trennung
 - **[Dating nach der Trennung: Wieder anfangen](/blog/dating-nach-trennung/)** – Wenn du bereit bist, nach vorne zu schauen

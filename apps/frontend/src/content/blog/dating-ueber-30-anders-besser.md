@@ -279,5 +279,5 @@ Gib nicht auf. Glaube an dich selbst. Und vertraue, dass die beste Version deine
 
 - [Dating über 50: Der komplette Guide für die zweite Lebenshälfte](/blog/dating-ueber-50-kompletter-guide/)
 - [Dating über 40: Ein neues Kapitel](/blog/dating-ueber-40-neuanfang/)
-- [Dating über WhatsApp: Tipps für bessere Chats](/blog/dating-ueber-whatsapp/)
-- [Dating über 40: Neustart in der Liebe — ehrlich und](/blog/dating-ueber-40/)
+- [Dating über WhatsApp: Tipps für bessere Chats](/blog/texting-regeln-dating/)
+- [Dating über 40: Neustart in der Liebe — ehrlich und](/blog/dating-ab-40/)

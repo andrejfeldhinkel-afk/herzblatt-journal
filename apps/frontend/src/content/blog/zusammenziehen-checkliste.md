@@ -326,6 +326,6 @@ Zusammenziehen ist aufregend. Es ist auch normal, nervös zu sein. Es ist ein Ab
 
 - [Zusammenziehen: Wann ist der richtige Zeitpunkt?](/blog/zusammenziehen-oder-nicht/)
 - [Fernbeziehung beenden: Zusammenziehen](/blog/beziehung-fernbeziehung-zusammenziehen/)
-- [Zusammenziehen: Tipps für den großen Schritt](/blog/zusammenziehen-tipps/)
+- [Zusammenziehen: Tipps für den großen Schritt](/blog/zusammenziehen-oder-nicht/)
 - [Gesunde Beziehung: Die ultimative Checkliste](/blog/gesunde-beziehung-checkliste/)
 - [Gleichberechtigung in der Beziehung](/blog/beziehung-gleichberechtigung/)

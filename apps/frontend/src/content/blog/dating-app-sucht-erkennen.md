@@ -74,7 +74,7 @@ Verbringe weniger Zeit mit Chats, bevor ihr euch trefft. Die beste Chemie entste
 
 Bleibe realistisch. Nicht jedes Profil wird zu dir passen, und das ist okay. Die ständige Suche nach dem Perfekten ist genau das Gift, das die Sucht anheizt. Der richtige Mensch ist nicht perfekt — er passt zu dir. Und die beste Weise, um jemanden zu finden, der passt, ist nicht, hundert Profile zu checken. Es ist, die wenigen Kontakte mit Aufmerksamkeit und Tiefe zu behandeln.
 
-Nutze [diese Tipps für authentisches Online-Dating](/blog/online-dating-psychologie/) und erkenne, wenn es Zeit ist, [die digitale Müdigkeit zu überwinden](/blog/dating-fatigue-ueberwinden/). Du kannst auch mehr über [wie Dating-App-Algorithmen wirklich funktionieren](/blog/online-dating-algorithmus/) erfahren, um nicht manipuliert zu werden.## Weiterlesen
+Nutze [diese Tipps für authentisches Online-Dating](/blog/online-dating-psychologie/) und erkenne, wenn es Zeit ist, [die digitale Müdigkeit zu überwinden](/blog/dating-nach-burnout/). Du kannst auch mehr über [wie Dating-App-Algorithmen wirklich funktionieren](/blog/online-dating-algorithmus/) erfahren, um nicht manipuliert zu werden.## Weiterlesen
 
 Weitere Informationen findest du bei Psychologie Heute: [Psychologie Heute](https://www.psychologie-heute.de/)
 
@@ -82,4 +82,4 @@ Weitere Informationen findest du bei Psychologie Heute: [Psychologie Heute](http
 - [Die Psychologie des Online-Datings: Warum wir swipen wie wir](/blog/online-dating-psychologie/)
 - [Online-Dating Langzeitstrategie: So findest du nachhaltig](/blog/online-dating-langzeitstrategie/)
 - [Multi-Dating: Mehrere Personen gleichzeitig daten — Ist das](/blog/online-dating-mehrere-personen-gleichzeitig/)
-- [Online-Dating-Müdigkeit: Wenn Swipen zur Last wird](/blog/online-dating-muedigkeit/)
+- [Online-Dating-Müdigkeit: Wenn Swipen zur Last wird](/blog/dating-nach-burnout/)

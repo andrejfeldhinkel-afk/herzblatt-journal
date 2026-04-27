@@ -112,5 +112,5 @@ Viele Menschen mit Angststörungen finden Meditation hilfreich. Es lehrt dir, Ge
 
 - [Retroaktive Eifersucht überwinden: Warum die Vergangenheit deines Partners dich foltert](/blog/retroaktive-eifersucht-ueberwinden/)
 - [Nebenbuehler-Gefühle: Wenn die Vergangenheit deinen Kopf](/blog/beziehung-nebenbuehler-sorgen/)
-- [Digitale Eifersucht – Wenn Social Media deine Beziehung](/blog/digitale-eifersucht/)
+- [Digitale Eifersucht – Wenn Social Media deine Beziehung](/blog/eifersucht-bekaempfen/)
 - [Freundschaft Plus: Wenn Gefühle plötzlich doch da sind](/blog/freundschaft-plus-gefuehle/)

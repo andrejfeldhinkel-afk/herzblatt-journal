@@ -190,7 +190,7 @@ Jetzt mach es anders.
 - [Codependenz erkennen und überwinden: Raus aus der](/blog/codependenz-erkennen-ueberwinden/)
 - [Die Kraft der Berührung: Warum körperliche Nähe heilt](/blog/beruehrungen-beziehung-bedeutung/)
 - [Daddy Issues: Wie dein Vater deine Beziehungen beeinflusst](/blog/daddy-issues-beziehung/)
-- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-toxischer-beziehung/)
+- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-narzisst/)
 - [Emotional Detachment: Wenn du in der Beziehung nichts mehr](/blog/emotional-detachment-beziehung/)
 ## FAQ
 

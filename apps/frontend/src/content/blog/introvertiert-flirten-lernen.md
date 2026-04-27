@@ -326,4 +326,4 @@ Und für die richtige Person? Das ist genau richtig.
 - [Flirten lernen: Guide für Anfänger und Fortgeschrittene](/blog/flirten-lernen/)
 - [Flirten lernen: Vom Anfänger zum Profi in 30 Tagen](/blog/flirten-lernen-komplett-guide/)
 - [Rizz verbessern – Die Kunst des modernen Flirtens [ Guide]](/blog/rizz-tipps-flirten/)
-- [Dating für Introvertierte](/blog/dating-fuer-introvertierte/)
+- [Dating für Introvertierte](/blog/introvertiert-dating/)

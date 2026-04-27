@@ -333,7 +333,7 @@ Diese fünf Rituale kosten zusammen weniger als eine halbe Stunde pro Tag und si
 
 ## Weiterlesen
 
-- [Unterschiedliche Libido in der Beziehung: Wenn einer mehr](/blog/beziehung-unterschiedliche-libido/)
+- [Unterschiedliche Libido in der Beziehung: Wenn einer mehr](/blog/beziehung-unterschiedliche-libido-loesungen/)
 - [Love Maps — Wie gut kennst du deinen Partner wirklich?](/blog/love-map-gottman-beziehung-guide/)
 - [Wenn der Kinderwunsch die Beziehung belastet](/blog/beziehung-nach-kinderwunsch/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)

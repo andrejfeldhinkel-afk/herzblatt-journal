@@ -329,5 +329,5 @@ Das Beste, das du für beide tun kannst, ist, es richtig zu machen.
 - [Sexuelle Kompatibilität in Beziehungen: Warum es wichtig ist](/blog/sexuelle-kompatibilitaet/)
 - [Polyamorie: Grundlagen & Tipps für alternative](/blog/polyamorie-grundlagen/)
 - [Komplimente richtig machen: Das Lob in Beziehungen](/blog/komplimente-richtig-machen/)
-- [Richtig streiten in der Beziehung: Konflikte konstruktiv](/blog/richtig-streiten-beziehung/)
+- [Richtig streiten in der Beziehung: Konflikte konstruktiv](/blog/beziehung-streit-guide/)
 - [Richtig streiten in der Beziehung: Streitkultur die eure](/blog/streitkultur-beziehung-richtig-streiten/)

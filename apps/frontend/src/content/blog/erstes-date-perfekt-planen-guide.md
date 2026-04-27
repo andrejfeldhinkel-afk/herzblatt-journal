@@ -424,4 +424,4 @@ Genieße das Abenteuer.
 
 - [10 Red Flags beim ersten Date die du nicht ignorieren solltest](/blog/dating-rote-flaggen-erstes-date/)
 - [Restaurant-Dates perfekt planen](/blog/restaurant-dates-perfekt-planen/)
-- [Gespräche auf dem ersten Date – So wird es nie peinlich](/blog/erstes-date-gespraeche-fuehren/)
+- [Gespräche auf dem ersten Date – So wird es nie peinlich](/blog/erstes-date-tipps/)

@@ -403,6 +403,6 @@ Wenn du diese Zeichen siehst, es ist Zeit zu gehen. Nicht aus Schmerz, sondern a
 ## Das könnte dich auch interessieren
 
 - [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
-- [Fremdgehen verzeihen: Kann eine Beziehung nach Untreue überleben?](/blog/fremdgehen-verzeihen/)
+- [Fremdgehen verzeihen: Kann eine Beziehung nach Untreue überleben?](/blog/fremdgehen-verzeihen-kompletter-guide/)
 - [Heilung nach einer toxischen Beziehung](/blog/nach-toxischer-beziehung-heilen/)
 - [Dating nach toxischer Beziehung: Heilung und Neustart](/blog/dating-nach-toxischer-beziehung-heilen/)

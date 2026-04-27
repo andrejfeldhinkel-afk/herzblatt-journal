@@ -363,5 +363,5 @@ Der Schlüssel zu langfristigem Erfolg ist zwei Dinge: Konsistenz in der Praxis 
 
 - [Retroaktive Eifersucht überwinden: Warum die Vergangenheit deines Partners dich foltert](/blog/retroaktive-eifersucht-ueberwinden/)
 - [Eifersucht überwinden: Der komplette Guide](/blog/beziehung-und-eifersucht-ueberwinden/)
-- [Bindungsangst überwinden: Ursachen verstehen und Lösungen finden](/blog/bindungsangst-ueberwinden-guide/)
-- [Bindungsangst überwinden: Warum du dich nicht einlassen kannst und was hilft](/blog/bindungsangst-ueberwinden/)
+- [Bindungsangst überwinden: Ursachen verstehen und Lösungen finden](/blog/bindungsangst-komplett-guide/)
+- [Bindungsangst überwinden: Warum du dich nicht einlassen kannst und was hilft](/blog/bindungsangst-komplett-guide/)

@@ -192,4 +192,4 @@ Du wirst es überstehen. Du bist stärker, als du denkst. Du verdienst jemanden,
 - [Warum ghosten Menschen? Die unbequeme Wahrheit hinter dem Verschwinden](/blog/warum-ghostet-man/)
 - [Ghosting: Warum Menschen plötzlich verschwinden](/blog/ghosting-warum-menschen-ghosten/)
 - [Ghosting – Warum es passiert und wie du damit umgehst](/blog/ghosting-umgehen-tipps/)
-- [Dating nach einer Ghosting-Erfahrung](/blog/dating-nach-ghosting-erfahrung/)
+- [Dating nach einer Ghosting-Erfahrung](/blog/ghosting-umgehen-tipps/)

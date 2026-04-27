@@ -330,4 +330,4 @@ Jeder Fehler ist eine Lektion. Wenn du bereit bist zu lernen, wirst du jedes Mal
 - [Die 15 häufigsten Dating-Fehler – Und wie du sie vermeidest](/blog/dating-fehler-die-jeder-macht/)
 - [Die 10 schlimmsten Dating-Profil-Fehler bei Männern](/blog/dating-profil-maenner-fehler/)
 - [10 Dating-Fehler, die Frauen häufig machen — und bessere](/blog/dating-fehler-frauen/)
-- [Die häufigsten Fehler bei Dating-Profilfotos](/blog/dating-profilfotos-fehler/)
+- [Die häufigsten Fehler bei Dating-Profilfotos](/blog/dating-profile-fotos-tipps/)

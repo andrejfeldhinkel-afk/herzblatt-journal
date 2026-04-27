@@ -772,6 +772,6 @@ Diese Fragen sind nicht einfach zu stellen. Aber sie sind leichter jetzt, im rel
 
 - [Sexuelle Kompatibilität in Beziehungen: Warum es wichtig ist](/blog/sexuelle-kompatibilitaet/)
 - [Beziehung nach Elternschaft: Wie ihr als Paar wieder](/blog/beziehung-nach-elternschaft-zurueckfinden/)
-- [Unterschiedliche Libido in der Beziehung: Wenn einer mehr](/blog/beziehung-unterschiedliche-libido/)
+- [Unterschiedliche Libido in der Beziehung: Wenn einer mehr](/blog/beziehung-unterschiedliche-libido-loesungen/)
 - [Love Maps — Wie gut kennst du deinen Partner wirklich?](/blog/love-map-gottman-beziehung-guide/)
 - [Sexuelle Langeweile in der Beziehung überwinden](/blog/sexuelle-langeweile-beziehung/)

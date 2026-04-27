@@ -572,7 +572,7 @@ Deine Heilung wartet auf dich.
 
 ## Das könnte dich auch interessieren
 
-- [Dating nach toxischer Beziehung: Heilen und neu anfangen](/blog/dating-nach-toxischer-beziehung/)
+- [Dating nach toxischer Beziehung: Heilen und neu anfangen](/blog/dating-nach-narzisst/)
 - [Dating nach toxischer Beziehung: Heilung und Neustart](/blog/dating-nach-toxischer-beziehung-heilen/)
 - [Patchwork-Familie: Dating und Beziehungen](/blog/patchwork-familie-dating/)
 - [Dating nach toxischer Erfahrung](/blog/dating-nach-gewalt-guide/)

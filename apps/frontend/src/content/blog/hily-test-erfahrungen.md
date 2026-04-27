@@ -585,4 +585,4 @@ Aber wer Wert auf **verifizierte Profile, moderne App-UX und AI-Unterstützung**
 
 - [Tinder Test & Erfahrungen 2026](/blog/tinder-test-erfahrungen)
 - [Bumble Test & Erfahrungen 2026](/blog/bumble-test-erfahrungen)
-- [Hinge Test & Erfahrungen 2026](/blog/hinge-test-erfahrungen)
+- [Hinge Test & Erfahrungen 2026](/blog/hinge-guide-deutsch-2026)

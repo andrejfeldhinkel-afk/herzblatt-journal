@@ -2,7 +2,7 @@
 title: "Situationship beenden: 7 Schritte aus der Grauzone — ohne Chaos"
 description: "Situationship beenden ohne Drama: Die psychologischen Hürden, konkrete Exit-Formulierungen und wie du danach wirklich loslässt."
 date: 2026-04-21
-image: "/images/blog/situationship-erkennen-umgehen.webp"
+image: "/images/blog/situationship-guide.webp"
 imageAlt: "Person zieht Stecker aus Verbindung — Symbol für Situationship beenden"
 tags:
   - "Situationship"

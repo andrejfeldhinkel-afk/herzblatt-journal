@@ -116,6 +116,6 @@ Wenn Du nach drei Monaten optimierten Datings keine Quality-Matches hast, lohnt 
 
 - [Wie Dating-App Algorithmen wirklich funktionieren](/blog/online-dating-algorithmus/)
 - [Online-Dating für Senioren: Tech & Tipps für 65+](/blog/online-dating-fuer-senioren/)
-- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich/)
-- [Dating für Introvertierte: Tipps zum Finden von Liebe](/blog/dating-introvertierte/)
-- [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/online-dating-fotos/)
+- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-app-vergleich-2026/)
+- [Dating für Introvertierte: Tipps zum Finden von Liebe](/blog/introvertiert-dating/)
+- [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/dating-profile-fotos-tipps/)

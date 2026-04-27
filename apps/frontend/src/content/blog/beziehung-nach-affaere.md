@@ -162,7 +162,7 @@ Ja, man kann Vertrauen nach einer Affäre wieder aufbauen. Aber es ist nicht ein
 Aber vergiss nicht: Du darfst auch wählen zu gehen. Deine emotionale Gesundheit und dein Frieden sind nicht weniger wichtig als die Rettung einer Beziehung. Manchmal ist der mutigste Weg vorwärts, weiterzugehen und dich selbst zu heilen.## Weiterlesen
 
 - [Nach dem großen Streit: So repariert ihr alles](/blog/beziehung-nach-grossem-streit/)
-- [Vertrauen nach einem Betrug aufbauen: Heilung Wiederaufbau](/blog/vertrauen-nach-betrug/)
+- [Vertrauen nach einem Betrug aufbauen: Heilung Wiederaufbau](/blog/vertrauen-aufbauen-beziehung/)
 - [Nach dem großen Vertrauensbruch: Reden oder gehen?](/blog/beziehung-nach-grossem-vertrauensbruch/)
 - [Bedürfnisse kommunizieren ohne Vorwürfe](/blog/beduerfnisse-kommunizieren-beziehung/)
 - [Beziehung auffrischen: 30 kreative Ideen](/blog/beziehung-auffrischen-ideen/)

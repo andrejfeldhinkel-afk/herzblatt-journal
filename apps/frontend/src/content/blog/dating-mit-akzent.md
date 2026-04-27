@@ -162,5 +162,5 @@ Auch Eltern oder Familie konnen Hurde sein. Wenn die Familie deines Partners dis
 - [Dating über 50 als Frau: Neustart mit Selbstbewusstsein](/blog/dating-nach-50-frauen/)
 - [Dating nach dem Coming-Out: Authentisch und Mutig](/blog/dating-nach-coming-out/)
 - [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung/)
-- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/dating-als-introvertierter-mann/)
+- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/introvertiert-dating/)
 - [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)

@@ -141,6 +141,6 @@ Gleichzeitig: Sei nicht zu hart zu Dir selbst, wenn Dating ab 40 sich anders anf
 
 - [Dating ab 50: Der komplette Guide für die Liebe in der](/blog/dating-ab-50-kompletter-guide/)
 - [Dating ab 40 als Frau: Neustart mit Selbstvertrauen](/blog/dating-nach-40-frauen/)
-- [Dating ab 40: Neustart in der Lebensmitte](/blog/dating-nach-40-neustart/)
+- [Dating ab 40: Neustart in der Lebensmitte](/blog/dating-ab-40/)
 - [Autismus und Dating: Liebe finden auf dem Spektrum](/blog/autismus-und-dating-guide/)
 - [Dating-Angst überwinden: Mutig in die Liebe](/blog/dating-angst-ueberwinden/)

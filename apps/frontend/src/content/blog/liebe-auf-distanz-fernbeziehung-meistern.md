@@ -325,7 +325,7 @@ Wenn du also in einer Fernbeziehung bist oder darüber nachdenkst, eine zu begin
 
 ## Das könnte dich auch interessieren
 
-- [Liebe auf Distanz: So übersteht eure Fernbeziehung jede](/blog/liebe-auf-distanz-tipps/)
+- [Liebe auf Distanz: So übersteht eure Fernbeziehung jede](/blog/fernbeziehung-tipps/)
 - [Von Fernbeziehung zu Zusammenleben](/blog/beziehung-nach-fernbeziehung-tipps/)
 - [Liebe auf den ersten Blick: Mythos oder Realität?](/blog/liebe-auf-den-ersten-blick/)
 - [Fernbeziehung meistern – 15 Tipps für Liebe auf Distanz](/blog/fernbeziehung-tipps/)

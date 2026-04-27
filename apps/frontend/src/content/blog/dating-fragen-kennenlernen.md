@@ -142,5 +142,5 @@ Studien zur Gesprächsführung zeigen: Menschen fühlen sich um ein Vielfaches s
 - [Ehrlichkeit beim Dating – Wie viel Wahrheit verträgt?](/blog/ehrlichkeit-beim-dating/)
 - [Vom Chat zum ersten Treffen: Übergang zum echten Leben](/blog/erstes-treffen-online-dating/)
 - [WhatsApp-Dating: Regeln für das Schreiben mit dem Schwarm](/blog/whatsapp-dating-regeln/)
-- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/dating-als-introvertierter-mann/)
+- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/introvertiert-dating/)
 - [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)

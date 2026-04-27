@@ -126,5 +126,5 @@ Wie du kommunizierst, bestimmt den Erfolg deines Dating-Lebens. Wenn du lernst, 
 
 - [Authentisch bleiben beim Dating: Tipps für echte Verbindung](/blog/dating-authentisch-bleiben-tipps/)
 - [Emotionale Manipulation beim Dating](/blog/emotionale-manipulation-dating/)
-- [Frühwarnzeichen beim Dating](/blog/dating-fruehwarnzeichen/)
+- [Frühwarnzeichen beim Dating](/blog/dating-red-flags-maenner-erkennen/)
 - [Altersunterschied beim Dating: Wann ist es zu viel?](/blog/dating-verschiedene-altersgruppen/)

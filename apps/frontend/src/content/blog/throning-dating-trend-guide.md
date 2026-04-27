@@ -177,7 +177,7 @@ Wenn du erkannt hast, dass du getroned wirst, oder wenn du aus einer Throning-Si
 
 - [Negging — Die perfide Manipulationstaktik beim Dating](/blog/negging-manipulation-dating-guide/)
 - [Firedooring — Wenn die Beziehung nur in eine Richtung](/blog/firedooring-beziehung-guide/)
-- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-dating/)
+- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-guide/)
 - [Bindungsstile im Dating: Warum du immer wieder an die](/blog/bindungsstile-dating/)
 - [Dating-Spielchen durchschauen: Warum Menschen spielen und](/blog/dating-spielchen-durchschauen/)
 ## Häufig gestellte Fragen: Mehr Klarheit zum Throning

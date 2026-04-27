@@ -351,5 +351,5 @@ Mehr Perspektive zum Thema findest du in Vertrauen in Beziehungen wiederaufbauen
 
 - [Dating nach psychischer Erkrankung: Der behutsame Weg zurück](/blog/dating-nach-psychischer-erkrankung/)
 - [Fleabagging — Warum du immer die falschen dattest](/blog/fleabagging-dating-pattern-guide/)
-- [Dating nach einer Ghosting-Erfahrung: Wieder vertrauen](/blog/dating-nach-ghosting-erfahrung/)
+- [Dating nach einer Ghosting-Erfahrung: Wieder vertrauen](/blog/ghosting-umgehen-tipps/)
 - [Dating nach Jobverlust: Lohnt es sich trotzdem?](/blog/dating-nach-jobverlust/)
