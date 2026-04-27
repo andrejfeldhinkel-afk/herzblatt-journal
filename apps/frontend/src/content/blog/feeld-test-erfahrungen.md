@@ -564,6 +564,6 @@ Unsere klare Empfehlung: **Wenn du in oder nahe einer Metropole wohnst und weiß
 
 ## Weiterführende Artikel
 
-- [Polyamorie verstehen: Beziehungsformen jenseits der Monogamie](/blog/polyamorie-verstehen)
-- [Queer Dating in Deutschland: Apps, Communities, Tipps](/blog/queer-dating-deutschland)
-- [Offene Beziehung führen: Kommunikation, Grenzen, Eifersucht](/blog/offene-beziehung-guide)
+- Polyamorie verstehen: Beziehungsformen jenseits der Monogamie
+- [Queer Dating in Deutschland: Apps, Communities, Tipps](/blog/dating-statistiken-deutschland)
+- [Offene Beziehung führen: Kommunikation, Grenzen, Eifersucht](/blog/offene-beziehung-regeln-guide)

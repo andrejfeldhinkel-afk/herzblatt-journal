@@ -479,6 +479,6 @@ Aber der **Preis von bis zu 70 € pro Monat** ist happig. Für viele Nutzer ist
 
 ## Weiterführende Artikel
 
-- [EliteSingles vs ElitePartner: direkter Vergleich 2026](/blog/elitesingles-vs-elitepartner-vergleich)
-- [Big Five Persönlichkeitstest erklärt — was misst er wirklich?](/blog/big-five-persoenlichkeitstest-erklaert)
-- [Online-Dating für Akademiker: die besten Plattformen 2026](/blog/online-dating-akademiker-plattformen)
+- EliteSingles vs ElitePartner: direkter Vergleich 2026
+- Big Five Persönlichkeitstest erklärt — was misst er wirklich?
+- Online-Dating für Akademiker: die besten Plattformen 2026

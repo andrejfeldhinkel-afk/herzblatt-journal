@@ -280,4 +280,4 @@ Nimm dir heute zehn Minuten Zeit. Überleg, was deine Hauptsprache ist. Überleg
 
 Liebe hört nicht auf, Liebe zu sein, wenn sie in einer fremden Sprache gesagt wird. Aber sie wird erst spürbar, wenn sie in deiner eigenen ankommt.
 
-Wenn du mehr über die Grundlagen echter Verbindung lesen willst, lies unseren Guide zu [Kommunikation in der Beziehung](/blog/kommunikation-beziehung) und zu [Intimität wieder aufbauen](/blog/intimitaet-wieder-aufbauen). Und wenn ihr gerade in einer schwierigen Phase seid: Der Artikel zu [Beziehungskrise überwinden](/blog/beziehungskrise-ueberwinden) hilft.
+Wenn du mehr über die Grundlagen echter Verbindung lesen willst, lies unseren Guide zu [Kommunikation in der Beziehung](/blog/kommunikation-beziehung) und zu [Intimität wieder aufbauen](/blog/intimitaet-wieder-aufbauen). Und wenn ihr gerade in einer schwierigen Phase seid: Der Artikel zu Beziehungskrise überwinden hilft.

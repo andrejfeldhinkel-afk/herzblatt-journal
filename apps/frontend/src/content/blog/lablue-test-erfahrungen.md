@@ -472,6 +472,6 @@ Aber: **Der Preis der Kostenlosigkeit ist hoch.** Die fehlende Payment-Hürde ma
 
 ## Weiterführende Artikel
 
-- [Lablue Alternativen: Die besten kostenlosen Singlebörsen](/blog/kostenlose-singleboersen-vergleich)
-- [Fake-Profile erkennen: Der Scam-Check für Online-Dating](/blog/fake-profile-erkennen)
-- [Finya vs Lablue vs andere: Der große Kostenlos-Vergleich](/blog/kostenlose-dating-apps-vergleich)
+- Lablue Alternativen: Die besten kostenlosen Singlebörsen
+- Fake-Profile erkennen: Der Scam-Check für Online-Dating
+- [Finya vs Lablue vs andere: Der große Kostenlos-Vergleich](/blog/dating-apps-vergleich)

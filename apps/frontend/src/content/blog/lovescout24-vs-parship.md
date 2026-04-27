@@ -530,8 +530,8 @@ Beide bieten **besseres Preis-Leistungs-Verhältnis** als die Platzhirsche — u
 - [Flirten lernen — die besten Opener für Dating-Plattformen](/flirten-lernen-guide)
 - [Erstes Date planen: Location, Gesprächsthemen, No-Gos](/erstes-date-guide)
 - [Red Flags beim Online-Dating erkennen](/red-flags)
-- [Persönlichkeitstests beim Dating: Was bringen sie wirklich?](/blog/persoenlichkeitstest-dating)
-- [Partnervermittlung oder Singlebörse — was ist der Unterschied?](/blog/partnervermittlung-vs-singleboerse)
+- Persönlichkeitstests beim Dating: Was bringen sie wirklich?
+- Partnervermittlung oder Singlebörse — was ist der Unterschied?
 
 ---
 
@@ -539,7 +539,7 @@ Beide bieten **besseres Preis-Leistungs-Verhältnis** als die Platzhirsche — u
 
 ## Weiterführende Artikel
 
-- [Parship kündigen: So geht's richtig (2026)](/blog/parship-kuendigen)
-- [LoveScout24 Profil optimieren: Mehr Matches](/blog/lovescout24-profil-optimieren)
-- [Parship vs ElitePartner 2026: Die große Partnervermittlungs-Analyse](/blog/parship-vs-elitepartner)
+- Parship kündigen: So geht's richtig (2026)
+- [LoveScout24 Profil optimieren: Mehr Matches](/blog/bumble-profil-optimieren)
+- [Parship vs ElitePartner 2026: Die große Partnervermittlungs-Analyse](/blog/elitepartner-vs-parship)
 - [Die besten Partnervermittlungen 2026 im Test](/top-dating-seiten)

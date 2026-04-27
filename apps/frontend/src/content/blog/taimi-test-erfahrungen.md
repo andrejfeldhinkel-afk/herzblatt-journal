@@ -468,6 +468,6 @@ Du musst nicht zwischen Taimi und einer schlankeren Alternative wählen — viel
 
 ## Weiterführende Artikel
 
-- [LGBTQ+ Dating: Sicher unterwegs in Apps und im echten Leben](/blog/lgbtq-dating-sicherheit)
-- [Trans-freundliche Dating-Plattformen im Check](/blog/trans-dating-plattformen)
-- [Queer Community in Deutschland: Wo du Anschluss findest](/blog/queer-community-deutschland)
+- [LGBTQ+ Dating: Sicher unterwegs in Apps und im echten Leben](/blog/online-dating-sicherheit)
+- [Trans-freundliche Dating-Plattformen im Check](/blog/trans-dating-partnersuche)
+- Queer Community in Deutschland: Wo du Anschluss findest

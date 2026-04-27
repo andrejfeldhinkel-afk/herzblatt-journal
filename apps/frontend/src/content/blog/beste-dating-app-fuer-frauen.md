@@ -568,8 +568,8 @@ Viel Erfolg. Und wenn du Fragen hast: ich lese jede Kommentar-Mail.
 - [Erstes Date planen: Location, Gesprächsthemen, No-Gos](/erstes-date-guide)
 - [Flirten lernen: Die besten Opener für Dating-Apps](/flirten-lernen-guide)
 - [Wie erkenne ich meinen Bindungsstil?](/bindungsstile)
-- [Romance Scam und Love Scam: Wie du dich schützt](/blog/romance-scam-schutz)
-- [Catfishing erkennen: 7 Tests, die jeder Fake-Profil entlarvt](/blog/catfishing-erkennen)
+- [Romance Scam und Love Scam: Wie du dich schützt](/blog/romance-scam-erkennen)
+- [Catfishing erkennen: 7 Tests, die jeder Fake-Profil entlarvt](/blog/catfishing-erkennen-schuetzen)
 
 ---
 

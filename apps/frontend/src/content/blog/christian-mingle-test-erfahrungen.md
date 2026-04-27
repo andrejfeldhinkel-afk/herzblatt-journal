@@ -579,7 +579,7 @@ Christian Mingle ist **konzeptionell eine der durchdachtesten christlichen Datin
 
 - [Online-Dating-Guide: Von der ersten Anmeldung bis zum Date](/online-dating-guide)
 - [Wie erkenne ich meinen Bindungsstil?](/bindungsstile)
-- [Wertekompatibilität in Beziehungen: Was wirklich zählt](/blog/wertekompatibilitaet-beziehung)
+- Wertekompatibilität in Beziehungen: Was wirklich zählt
 - [Erstes Date planen: Location, Gesprächsthemen, No-Gos](/erstes-date-guide)
 - [Red Flags beim Online-Dating erkennen](/red-flags)
 - [Fernbeziehung: So funktioniert sie wirklich](/blog/fernbeziehung-tipps)
@@ -590,6 +590,6 @@ Christian Mingle ist **konzeptionell eine der durchdachtesten christlichen Datin
 
 ## Weiterführende Artikel
 
-- [Christliches Dating: Worauf du achten solltest](/blog/christliches-dating-guide)
-- [Glaubens-Unterschiede in der Partnerschaft meistern](/blog/glauben-partnerschaft)
-- [Partnersuche mit über 40: Plattformen im Vergleich](/blog/partnersuche-ab-40)
+- [Christliches Dating: Worauf du achten solltest](/blog/dating-safety-guide)
+- Glaubens-Unterschiede in der Partnerschaft meistern
+- [Partnersuche mit über 40: Plattformen im Vergleich](/blog/dating-ab-40)

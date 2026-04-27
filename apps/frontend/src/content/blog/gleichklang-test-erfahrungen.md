@@ -442,10 +442,10 @@ Gleichklang ist eine **wunderbare, ethisch saubere und psychologisch fundierte P
 
 - [Online-Dating-Guide: Von der ersten Anmeldung bis zum Date](/online-dating-guide)
 - [Wie erkenne ich meinen Bindungsstil?](/bindungsstile)
-- [Hochsensibilitaet und Partnersuche: Worauf du achten solltest](/blog/hochsensible-partnersuche)
+- Hochsensibilitaet und Partnersuche: Worauf du achten solltest
 - [Erstes Date planen: Location, Gespraechsthemen, No-Gos](/erstes-date-guide)
 - [Red Flags beim Online-Dating erkennen](/red-flags)
-- [Partnervermittlung oder Dating-App: Was passt zu dir?](/blog/partnervermittlung-vs-dating-app)
+- [Partnervermittlung oder Dating-App: Was passt zu dir?](/blog/dating-app-kostenlos-vs-premium)
 
 ---
 
@@ -453,6 +453,6 @@ Gleichklang ist eine **wunderbare, ethisch saubere und psychologisch fundierte P
 
 ## Weiterfuehrende Artikel
 
-- [Gleichklang Fragebogen Tipps: So beantwortest du die Fragen am ehrlichsten](/blog/gleichklang-fragebogen-tipps)
-- [Werte-Dating 2026: Warum Weltanschauung wichtiger ist als Optik](/blog/werte-dating-guide)
-- [Partnersuche ab 40: Die besten Plattformen fuer die Lebensmitte](/blog/partnersuche-ab-40)
+- Gleichklang Fragebogen Tipps: So beantwortest du die Fragen am ehrlichsten
+- [Werte-Dating 2026: Warum Weltanschauung wichtiger ist als Optik](/blog/dating-safety-guide)
+- [Partnersuche ab 40: Die besten Plattformen fuer die Lebensmitte](/blog/dating-ab-40)

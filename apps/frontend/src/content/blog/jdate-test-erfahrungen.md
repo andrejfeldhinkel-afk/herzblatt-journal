@@ -647,6 +647,6 @@ Der **Premium-Preis von ~35 €/Monat** ist für eine Nischen-Plattform nachvoll
 
 ## Weiterführende Artikel
 
-- [Religiöses Dating in DACH: Übersicht aller Plattformen](/blog/religioeses-dating-uebersicht)
-- [Interreligiöse Beziehungen: Wie funktioniert Alltag zu zweit?](/blog/interreligioese-beziehungen)
-- [Partnersuche jenseits der 40: Diese Plattformen funktionieren wirklich](/blog/partnersuche-ab-40)
+- Religiöses Dating in DACH: Übersicht aller Plattformen
+- Interreligiöse Beziehungen: Wie funktioniert Alltag zu zweit?
+- [Partnersuche jenseits der 40: Diese Plattformen funktionieren wirklich](/blog/dating-ab-40)
