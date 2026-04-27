@@ -8,6 +8,15 @@ tags:
   - "Beziehungstipps"
   - "Partnerschaft"
   - "Psychologie"
+faq:
+  - question: "Was bedeutet Radikale Akzeptanz in der Beziehung?"
+    answer: "Radikale Akzeptanz heisst, deinen Partner als ganzen Menschen anzunehmen, ohne Kampf, Leugnung oder Resignation. Sie kommt aus der DBT."
+  - question: "Wie uebe ich Radikale Akzeptanz konkret?"
+    answer: "Beobachte Realitaet ohne Widerstand, akzeptiere was nicht zu aendern ist und unterscheide Akzeptanz klar von Zustimmung zu allem."
+  - question: "Ist Radikale Akzeptanz das Gleiche wie Aufgeben?"
+    answer: "Nein. Akzeptanz heisst, die Realitaet anzuerkennen. Du kannst trotzdem fuer Veraenderung kaempfen oder die Beziehung verlassen."
+  - question: "Wann hilft Radikale Akzeptanz nicht?"
+    answer: "Bei Missbrauch, Untreue oder roten Flaggen ist Akzeptanz falsch. Dort braucht es klare Grenzen und oft Trennung statt Akzeptanz."
 ---
 ## Das ungelöste Paradoxon der Liebe: Verändern vs. Akzeptieren
 

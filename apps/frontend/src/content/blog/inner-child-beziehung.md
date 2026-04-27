@@ -8,6 +8,15 @@ tags:
   - "Psychologie"
   - "Beziehungstipps"
   - "Heilung"
+faq:
+  - question: "Was ist das innere Kind in der Beziehung?"
+    answer: "Das innere Kind ist der emotionale Speicher deiner Kindheit. Es lenkt unbewusst deine Reaktionen auf Naehe, Konflikt und Sehnsucht beim Partner."
+  - question: "Wie heilst du dein inneres Kind fuer bessere Beziehungen?"
+    answer: "Sprich liebevoll mit deinem juengeren Selbst, erkenne ungestillte Beduerfnisse und uebernimm heute die Rolle des fuersorglichen Erwachsenen fuer dich."
+  - question: "Ist es normal als Erwachsener kindlich zu reagieren?"
+    answer: "Ja unter Stress aktivieren wir alte Muster. Diese Trigger zeigen wo dein inneres Kind noch Trost und Aufmerksamkeit braucht. Beobachten ist der erste Schritt."
+  - question: "Wie unterstuetzt dich Inner-Child-Arbeit konkret?"
+    answer: "Du erkennst Wiederholungsmuster, reduzierst emotionale Trigger und gewinnst Selbstmitgefuehl. Beziehungen werden bewusster und weniger reaktiv."
 ---
 
 ## Einleitung: Das innere Kind, das deine Partnerschaften lenkt

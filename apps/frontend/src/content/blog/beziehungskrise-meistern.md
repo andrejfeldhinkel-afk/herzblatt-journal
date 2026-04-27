@@ -9,6 +9,15 @@ tags:
   - "Paartherapie"
   - "Kommunikation"
   - "Ratgeber"
+faq:
+  - question: "Was ist eine Beziehungskrise?"
+    answer: "Eine Phase in der das Vertrauen, die Naehe oder die Liebe in Frage steht und beide Partner darunter leiden."
+  - question: "Wie erkenne ich dass wir in einer Krise sind?"
+    answer: "Du erkennst es an staendigen Streits, Distanz, Trennungsgedanken oder dem Gefuehl euch verloren zu haben."
+  - question: "Ist es normal dass jede Beziehung Krisen hat?"
+    answer: "Ja sehr normal. Krisen gehoeren zu Langzeitbeziehungen. Sie sind Wachstumschancen wenn man sie ernst nimmt."
+  - question: "Wann sollte man Paartherapie machen?"
+    answer: "Sobald die Krise sich ueber Wochen zieht oder ihr nicht weiter kommt, lohnt sich professionelle Hilfe."
 ---
 ## Beziehungskrise meistern: Ursachen und Lösungen
 

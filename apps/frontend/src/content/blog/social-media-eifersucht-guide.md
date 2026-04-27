@@ -8,6 +8,15 @@ tags:
   - "Eifersucht"
   - "Beziehungsprobleme"
   - "Ratgeber"
+faq:
+  - question: "Was ist Social-Media-Eifersucht?"
+    answer: "Eifersucht, ausgeloest durch Likes, Follows oder DMs deines Partners. Sie ist ein modernes Phaenomen, das fast jede Beziehung beruehrt."
+  - question: "Wie gehe ich mit Social-Media-Eifersucht um?"
+    answer: "Pause die Plattform die dich triggert, sprich offen mit deinem Partner und arbeite an deinem Selbstwert. Heimlich kontrollieren macht alles schlimmer."
+  - question: "Ist Social-Media-Eifersucht heute normal?"
+    answer: "Ja, in modernen Beziehungen ist sie weit verbreitet. Die staendige Sichtbarkeit fremder Kontakte fordert besonders unsichere Bindungen heraus."
+  - question: "Sollten Paare gemeinsame Social-Media-Regeln haben?"
+    answer: "Ja, klare Absprachen helfen. Was ist okay, was nicht? Folgen, Liken, DMs offen besprechen reduziert Konflikte enorm."
 ---
 ## Social-Media-Eifersucht: Der komplette Guide
 

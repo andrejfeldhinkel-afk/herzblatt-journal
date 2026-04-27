@@ -10,6 +10,15 @@ tags:
 featured: false
 image: "/images/photos/heiraten-ja-oder-nein.webp"
 imageAlt: "Paar beim Nachdenken über die Frage: Heiraten ja oder nein - eine wichtige Beziehungsentscheidung"
+faq:
+  - question: "Was sind die echten Vorteile einer Ehe?"
+    answer: "Rechtliche Sicherheit, steuerliche Vorteile, Erbrechte und ein klares Bekenntnis. Auch emotional schafft die Ehe oft Tiefe und Verbindlichkeit."
+  - question: "Wie triffst du die Entscheidung Heiraten ja oder nein?"
+    answer: "Sprecht ueber Werte, Lebensziele und Erwartungen. Pruefe juristische Folgen und hoere auf dein Bauchgefuehl. Druck von aussen ist kein Argument."
+  - question: "Ist es normal die Ehe-Frage hinauszuzoegern?"
+    answer: "Ja viele Paare brauchen Jahre fuer diese Entscheidung. Heutzutage ist das Tempo individuell und Zoegern bedeutet nicht weniger Liebe."
+  - question: "Was tun wenn nur einer von euch heiraten will?"
+    answer: "Sprecht offen ueber die Hintergruende. Drueckt nicht, sondern versucht die Beduerfnisse hinter dem Wunsch zu verstehen und einen Kompromiss zu finden."
 ---
 
 ## Heiraten ja oder nein: Die ehrliche Entscheidungshilfe für deine beziehung

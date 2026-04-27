@@ -8,6 +8,15 @@ tags:
   - "Manifestieren"
   - "Selbstentwicklung"
   - "Ratgeber"
+faq:
+  - question: "Was bedeutet Liebe manifestieren wirklich?"
+    answer: "Manifestieren heisst innere Blockaden loesen, klare Vision haben und konkret handeln. Es ist kein Zauber, sondern bewusste Ausrichtung von Energie und Verhalten."
+  - question: "Wie manifestierst du echte Liebe Schritt fuer Schritt?"
+    answer: "Definiere klar was du willst, arbeite an Selbstwert, nutze Affirmationen und gehe aktiv ins Leben. Visualisierung ohne Handeln bringt keine Ergebnisse."
+  - question: "Ist es normal dass Manifestation Zeit braucht?"
+    answer: "Ja innere Veraenderung dauert oft Monate. Wichtig ist Geduld, ehrliche Selbstreflexion und das Loslassen von festen Erwartungen an Timing."
+  - question: "Was sind die haeufigsten Manifestations-Fehler?"
+    answer: "Festhalten an einer bestimmten Person, fehlendes Handeln und Selbstzweifel. Auch zu enge Vorstellungen blockieren das was wirklich zu dir passt."
 ---
 ## Liebe manifestieren: Methoden die wirken
 

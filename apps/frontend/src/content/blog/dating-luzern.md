@@ -9,6 +9,15 @@ tags:
   - "dating-spots"
   - "luzern"
   - "schweiz"
+faq:
+  - question: "Was macht Dating in Luzern besonders?"
+    answer: "Luzern bietet Vierwaldstaettersee, Altstadt mit Kapellbruecke und Bergpanorama von Pilatus oder Rigi als Postkartenkulisse fuer jedes Date."
+  - question: "Wo lernt man in Luzern am besten Singles kennen?"
+    answer: "Du findest Singles am Seebecken, in Cafes der Altstadt, in Bars rund um die Bahnhofstrasse und auf Hochschul-Events der HSLU."
+  - question: "Ist Luzern eine gute Dating-Stadt?"
+    answer: "Ja, Luzern ist romantisch und kompakt. Die kleine Groesse macht Begegnungen persoenlicher, der See gibt jedem Spaziergang Atmosphaere."
+  - question: "Welche Date-Ideen funktionieren in Luzern besonders gut?"
+    answer: "Schifffahrt auf dem Vierwaldstaettersee, Spaziergang ueber die Kapellbruecke, Wandern auf den Pilatus oder Apero an der Reuss sind Luzern-Klassiker."
 ---
 
 ## dating in Luzern: Schweizer Romantik pur

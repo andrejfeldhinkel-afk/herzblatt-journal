@@ -6,6 +6,15 @@ updated: 2026-04-15
 tags: ["Dating", "Lifestyle", "Astrologie"]
 image: "/images/photos/sternzeichen-kompatibilitaet.webp"
 draft: false
+faq:
+  - question: "Was ist Sternzeichen-Kompatibilitaet?"
+    answer: "Sie beschreibt astrologische Vereinbarkeit zweier Menschen anhand ihrer Geburtszeichen, basierend auf den vier Elementen Feuer, Erde, Luft, Wasser."
+  - question: "Wie finde ich heraus ob wir astrologisch passen?"
+    answer: "Vergleiche Element und Modus eurer Sternzeichen. Tiefer wird es mit dem ganzen Geburtshoroskop, nicht nur dem Sonnenzeichen."
+  - question: "Sind Sternzeichen-Vergleiche wissenschaftlich serioes?"
+    answer: "Nein, wissenschaftlich nicht belegt. Trotzdem nutzen viele Menschen Astrologie als spielerischen Reflexionsrahmen, der manchmal hilfreich ist."
+  - question: "Gibt es absolut unvereinbare Sternzeichen?"
+    answer: "Nein, jede Kombination kann funktionieren. Wichtiger als das Sonnenzeichen sind Werte, Kommunikation und gegenseitiger Respekt im Alltag."
 ---
 ## Sternzeichen-Kompatibilität: Spaß oder Science? Die Wahrheit hinter den Sternen
 

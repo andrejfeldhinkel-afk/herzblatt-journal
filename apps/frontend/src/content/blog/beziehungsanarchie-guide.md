@@ -12,6 +12,15 @@ tags:
   - "Lifestyle"
   - "Ratgeber"
 keywords: ["beziehungsanarchie", "relationship anarchy", "liebe ohne labels", "alternative beziehungsformen"]
+faq:
+  - question: "Was ist Beziehungsanarchie?"
+    answer: "Ein Beziehungsmodell ohne feste Hierarchien und Regeln in dem jede Beziehung individuell verhandelt wird."
+  - question: "Wie erkenne ich ob das zu mir passt?"
+    answer: "Du erkennst es daran ob du klassische Beziehungserwartungen ablehnst und maximale Autonomie ohne Hierarchie suchst."
+  - question: "Ist es normal Skepsis gegenueber diesem Modell zu haben?"
+    answer: "Ja das ist sehr normal. Beziehungsanarchie ist anspruchsvoll und funktioniert nur mit hoher Selbstreflexion."
+  - question: "Wann sollte man dieses Modell hinterfragen?"
+    answer: "Wenn es nur Vermeidung von Verbindlichkeit ist statt echter Werteentscheidung, lohnt sich ehrliche Reflexion."
 ---
 ## Beziehungsanarchie: Liebe ohne Regeln, Hierarchien und Labels
 

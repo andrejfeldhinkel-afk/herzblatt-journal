@@ -9,6 +9,15 @@ tags:
   - "Kommunikation"
   - "Beziehungstipps"
   - "Gottman"
+faq:
+  - question: "Wer sind die vier apokalyptischen Reiter nach Gottman?"
+    answer: "Kritik, Verachtung, Defensivitaet und Stonewalling sind die vier Muster, die laut Gottman Beziehungen systematisch zerstoeren wenn sie unbearbeitet bleiben."
+  - question: "Wie erkennst du die Reiter in eurer Kommunikation?"
+    answer: "Achte auf Generalisierungen, Augenrollen, Rechtfertigungen und emotionalen Rueckzug. Nimm sie als Warnsignal und nicht als persoenlichen Angriff."
+  - question: "Ist es normal dass alle Paare diese Muster zeigen?"
+    answer: "Ja gelegentlich kommen sie bei jedem Paar vor. Kritisch wird es erst wenn sie das dominante Muster werden und liebevolle Interaktion verdraengen."
+  - question: "Was sind die Gegenmittel zu den vier Reitern?"
+    answer: "Ich-Botschaften statt Kritik, Wertschaetzung statt Verachtung, Verantwortung statt Rechtfertigung und Selbstberuhigung statt Mauern. Uebung macht den Unterschied."
 ---
 ## Die 4 apokalyptischen Reiter nach Gottman: So zerstören sie Beziehungen
 

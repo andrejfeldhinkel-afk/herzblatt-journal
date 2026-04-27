@@ -7,6 +7,15 @@ tags: ["Date-Ideen", "Lifestyle", "Dating"]
 keywords: ["romantische restaurants muenchen", "beste date restaurants muenchen", "date essen muenchen"]
 image: "/images/blog/allein-vs-einsam.webp"
 imageAlt: "Romantische Restaurants Muenchen"
+faq:
+  - question: "Was zeichnet romantische Restaurants in Muenchen aus?"
+    answer: "Muenchen bietet bayerische Tradition mit internationalem Flair. Lange Genusskultur, Biergaerten und Hinterhof-Lichterketten schaffen Romantik."
+  - question: "Wie viel kostet ein romantisches Date in Muenchen?"
+    answer: "Plane je nach Lokal 60 bis 120 Euro pro Person ein. Muenchen ist teurer als andere Staedte, aber gute Atmosphaere geht auch mittelpreisig."
+  - question: "Ist Muenchen wirklich teurer als andere Staedte?"
+    answer: "Ja, im Schnitt liegen Preise hoeher. Hohe Rechnung garantiert aber keine Romantik, kleine Italiener im Glockenbach koennen mehr Charme haben."
+  - question: "Welcher Stadtteil eignet sich fuer welches Date?"
+    answer: "Maxvorstadt fuer entspannte erste Dates, Glockenbachviertel fuer Szene-Charme, Lehel fuer Klassik-Eleganz und Wow-Effekt."
 ---
 
 München gilt als eine der schönsten Städte Deutschlands, und das spürst du besonders an Sommerabenden, wenn die Isar leise rauscht, die Biergärten dampfen und in den Hinterhöfen der Maxvorstadt Lichterketten brennen. Die Stadt vereint bayerische Tradition mit internationalem Flair, was sich auch in der Restaurantlandschaft widerspiegelt. Hier findest du klassische Wirtshäuser neben modernen Asia-Fusion-Konzepten, italienische Familienbetriebe neben minimalistischen Skybars.

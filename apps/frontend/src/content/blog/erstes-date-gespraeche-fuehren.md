@@ -8,6 +8,15 @@ tags:
   - "Dating"
   - "erstes-date"
   - "Kommunikation"
+faq:
+  - question: "Wie fuehrst du beim ersten Date ein gutes Gespraech?"
+    answer: "Stelle offene Fragen, hoere aktiv zu und teile eigene Geschichten. Wechsle zwischen Smalltalk und tieferen Themen und reagiere auf Signale."
+  - question: "Was tun wenn beim Date eine peinliche Stille entsteht?"
+    answer: "Stille ist normal und nicht schlimm. Lache darueber, kommentiere die Situation oder stelle eine neue Frage. Authentizitaet wirkt besser als Aktionismus."
+  - question: "Ist es normal beim ersten Date keine Worte zu finden?"
+    answer: "Ja viele Menschen sind nervoes und blockiert. Atme tief durch und denke daran dass dein Date wahrscheinlich genauso aufgeregt ist wie du."
+  - question: "Welche Themen solltest du beim ersten Date vermeiden?"
+    answer: "Ex-Partner, Geld, Politik und gesundheitliche Probleme sind heikel. Konzentriere dich auf Hobbys, Reisen, Traeume und gemeinsame Interessen."
 ---
 
 Das erste Date steht an. Du hast dich gefreut, dich vorbereitet – und dann sitzt ihr euch gegenüber und es herrscht plötzlich unbehagliches Schweigen. Dein Herz klopft. Du fragst dich: Was sag ich bloß?

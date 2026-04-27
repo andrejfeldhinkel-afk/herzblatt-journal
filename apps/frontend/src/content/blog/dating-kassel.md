@@ -8,6 +8,15 @@ tags:
   - "Dating"
   - "dating-spots"
   - "kassel"
+faq:
+  - question: "Was macht Dating in Kassel besonders?"
+    answer: "Kassel ist unterschaetzt mit Bergpark, documenta-Kunst, gemuetlichen Cafes und einer entspannten Single-Szene ohne Grossstadt-Hektik."
+  - question: "Wo lernt man in Kassel am besten Singles kennen?"
+    answer: "Du findest Singles in der Friedrich-Ebert-Strasse, im Bergpark Wilhelmshoehe, in Cafes des Vorderen Westens und auf Kultur-Events."
+  - question: "Ist Kassel eine gute Stadt zum Daten?"
+    answer: "Ja, Kassel ist ueberschaubar und authentisch. Die kleine Groesse macht es leichter, dieselben Menschen wieder zu treffen und Vertrauen aufzubauen."
+  - question: "Welche Date-Ideen funktionieren in Kassel besonders gut?"
+    answer: "Spaziergang im Bergpark, Besuch der documenta-Skulpturen, Cafe im Vorderen Westen oder ein Konzert im Schlachthof sind sichere Kassel-Klassiker."
 ---
 
 ## dating in Kassel: tipps und Date-Spots

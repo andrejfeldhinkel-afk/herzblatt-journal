@@ -9,6 +9,15 @@ tags:
   - "Beziehungsprobleme"
   - "Kommunikation"
   - "Ratgeber"
+faq:
+  - question: "Kann Liebe trotz politischer Unterschiede halten?"
+    answer: "Ja wenn beide Respekt vor der Position des anderen haben und Grundwerte wie Wuerde und Empathie geteilt werden."
+  - question: "Wie erkenne ich wo die rote Linie liegt?"
+    answer: "Du erkennst sie dort wo seine Politik gegen deine Wuerde, Sicherheit oder Grundwerte geht."
+  - question: "Ist es normal sich darueber zu streiten?"
+    answer: "Ja das ist heute besonders normal. Aber chronische Streits oder Verachtung zerstoeren langfristig die Liebe."
+  - question: "Wann sollte man die Beziehung hinterfragen?"
+    answer: "Wenn fundamentale Werte unvereinbar sind oder Gespraeche nur noch in Verachtung enden, lohnt sich harte Reflexion."
 ---
 ## Liebe trotz politischer Unterschiede
 

@@ -15,6 +15,15 @@ keywords:
   - "familie gegen freund"
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was tun wenn die Eltern die Beziehung ablehnen?"
+    answer: "Klar zu sich und zur Beziehung stehen, Eltern in Wuerde abgrenzen und gleichzeitig die Beziehung zur Familie pflegen."
+  - question: "Wie erkenne ich berechtigte Sorgen vs. Einmischung?"
+    answer: "Pruef ehrlich ob ihre Bedenken Substanz haben oder nur Praeferenzen. Sicherheitsbedenken nimm ernster als Vorlieben."
+  - question: "Ist es normal dass Eltern erstmal skeptisch sind?"
+    answer: "Ja das ist oft normal. Mit Zeit und Begegnung schwindet Skepsis meistens. Hartnaeckige Ablehnung ist ein roter Flag."
+  - question: "Wann sollte man die Familie meiden?"
+    answer: "Wenn die Familie deinen Partner respektlos behandelt oder dich erpresst, brauchst du klare Grenzen."
 ---
 
 Du sitzt beim Familienessen und merkst: Sie wollen ihn nicht. Oder sie. Die Blicke, die Fragen, die unterschwellige Spannung — all das sagt mehr als Worte. Deine Eltern sind gegen deine [Red Flags](/blog/dating-red-flags-maenner-erkennen)

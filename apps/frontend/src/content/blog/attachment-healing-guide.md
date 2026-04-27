@@ -9,6 +9,15 @@ tags:
   - "Psychologie"
   - "Selbsthilfe"
   - "Ratgeber"
+faq:
+  - question: "Was ist ein unsicherer Bindungsstil?"
+    answer: "Ein Bindungsmuster aus der Kindheit das in Beziehungen zu Angst, Vermeidung oder beidem fuehrt und Naehe erschwert."
+  - question: "Wie erkenne ich meinen Bindungsstil?"
+    answer: "Du erkennst ihn an deinen Reaktionen in Beziehungen: Klammern, Rueckzug, Vertrauensprobleme oder Angst vor Naehe."
+  - question: "Ist es normal Jahre zur Heilung zu brauchen?"
+    answer: "Ja Bindungsheilung ist ein Prozess. Erste Veraenderungen siehst du in Monaten, tiefe Heilung dauert oft Jahre."
+  - question: "Wann sollte ich mir Hilfe suchen?"
+    answer: "Wenn Beziehungsmuster sich wiederholen oder du allein nicht weiter kommst, lohnt sich eine bindungsorientierte Therapie."
 ---
 
 ## Einleitung: Die Macht deines Bindungsstils

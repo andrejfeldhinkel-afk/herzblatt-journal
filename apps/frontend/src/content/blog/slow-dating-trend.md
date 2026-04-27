@@ -10,6 +10,15 @@ tags:
 featured: false
 image: "/images/photos/slow-dating-guide.webp"
 imageAlt: "Slow Dating – Qualität statt Quantität beim Online-Dating"
+faq:
+  - question: "Was ist Slow Dating genau?"
+    answer: "Slow Dating ist eine bewusste Dating-Praxis, die Qualitaet ueber Quantitaet stellt. Wenige tiefe Verbindungen statt vieler oberflaechlicher Matches."
+  - question: "Wie praktiziere ich Slow Dating konkret?"
+    answer: "Begrenze Apps, schreibe nur mit wenigen Menschen, verabrede dich frueh persoenlich und investiere echte Zeit in das Kennenlernen."
+  - question: "Ist Slow Dating fuer alle geeignet?"
+    answer: "Besonders fuer Menschen, die echte Verbindungen suchen statt schnellem Spass. Wer nur lockere Affaeren will, profitiert weniger davon."
+  - question: "Funktioniert Slow Dating wirklich besser?"
+    answer: "Studien zeigen, dass bewusstes Dating zu stabileren Beziehungen fuehrt. Slow Dating reduziert Burnout und erhoeht echte Bindungschancen."
 ---
 ## Slow Dating – Warum weniger Matches zu mehr Liebe führen
 

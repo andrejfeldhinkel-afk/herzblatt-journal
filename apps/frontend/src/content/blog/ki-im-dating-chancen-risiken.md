@@ -8,6 +8,15 @@ tags:
   - "Dating-Apps"
   - "Trends"
   - "technologie"
+faq:
+  - question: "Was sind die Chancen von KI beim Dating?"
+    answer: "KI liefert bessere Matches, hilft schuechternen Menschen mit Nachrichten und filtert Fakes. Sie senkt die Einstiegshuerde fuer authentische Begegnungen."
+  - question: "Wie nutzt du KI-Dating ohne authentisch zu wirken?"
+    answer: "Nutze KI nur als Sparringspartner fuer Ideen. Schreibe selbst, erzaehle echte Geschichten und vertraue deinem Stil mehr als perfekt formulierten Texten."
+  - question: "Ist es normal Fake-Profile beim Online-Dating zu treffen?"
+    answer: "Ja Fake-Profile sind verbreitet. Achte auf zu perfekte Bilder, vage Antworten und schnelles Draengen auf private Kontakte als Warnzeichen."
+  - question: "Welche Risiken bringt KI-Dating konkret mit sich?"
+    answer: "Manipulation durch Bots, Datenschutzprobleme, emotionale Abhaengigkeit und falsche Erwartungen. Begegne KI bewusst und mit gesunder Skepsis."
 ---
 ## KI im Dating: Algorithmus vs. echte Gefühle
 

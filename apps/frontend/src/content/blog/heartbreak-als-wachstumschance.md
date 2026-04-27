@@ -9,6 +9,15 @@ tags:
   - "Trennung"
   - "Persönliches Wachstum"
   - "Resilienz"
+faq:
+  - question: "Wie kann Liebeskummer wirklich zu Wachstum fuehren?"
+    answer: "Liebeskummer zwingt dich zur Selbstreflexion und zum Erkennen alter Muster. Daraus entstehen neue Werte, klarere Beduerfnisse und mehr emotionale Reife."
+  - question: "Wie nutzt du Herzschmerz konkret als Wachstumschance?"
+    answer: "Schreibe taeglich, suche Therapie, lerne neue Faehigkeiten und reflektiere deine Anteile am Beziehungsende. Der Schmerz wird zum Lehrer."
+  - question: "Ist es normal sich nach Trennung verloren zu fuehlen?"
+    answer: "Ja Identitaetsverlust ist typisch nach langen Beziehungen. Dein Gehirn rekalibriert sich neurobiologisch und das braucht Zeit und Geduld mit dir selbst."
+  - question: "Wie lange dauert es bis Heartbreak zu Wachstum wird?"
+    answer: "Erste Erkenntnisse kommen nach Wochen, echte Transformation oft nach Monaten bis zwei Jahren. Wachstum geschieht in Wellen, nicht linear."
 ---
 ## Herzschmerz nutzen: Aus [Liebeskummer](/blog/liebeskummer-phasen-komplett) sich so körperlich anfühlt
 

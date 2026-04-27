@@ -16,6 +16,15 @@ keywords:
   - "EFT"
 image: "/images/blog/pursuer-distancer-dynamik-guide.webp"
 imageAlt: "Pursuer-Distancer Dynamik — Der Teufelskreis aus Nähe"
+faq:
+  - question: "Was ist die Pursuer-Distancer-Dynamik?"
+    answer: "Ein Beziehungsmuster, in dem ein Partner Naehe sucht und der andere sich zurueckzieht. Dieser Teufelskreis verstaerkt sich selbst."
+  - question: "Wie durchbreche ich das Pursuer-Distancer-Muster?"
+    answer: "Beide muessen ihre Rolle erkennen. Der Pursuer pausiert das Draengen, der Distancer naehert sich aktiv. Therapie wie EFT hilft enorm."
+  - question: "Ist Pursuer-Distancer in Langzeitbeziehungen normal?"
+    answer: "Phasen davon kommen in vielen Beziehungen vor. Chronisch wird es problematisch und gehoert zu den haeufigsten Trennungsgruenden."
+  - question: "Welcher Bindungsstil treibt diese Dynamik an?"
+    answer: "Meist trifft aengstlicher Bindungsstil auf vermeidenden. Beide triggern sich gegenseitig in alte Wunden aus der Kindheit."
 ---
 
 ## Einleitung: Das Muster, das Beziehungen zerstört

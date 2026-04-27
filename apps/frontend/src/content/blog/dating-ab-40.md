@@ -8,6 +8,15 @@ tags:
   - "Dating"
   - "liebe"
   - "40plus"
+faq:
+  - question: "Was ist anders beim Dating ab 40?"
+    answer: "Du weisst klarer was du willst, die Auswahl ist anders, viele kommen aus Beziehungen mit Geschichte und Kindern."
+  - question: "Wie erkenne ich passende Partner ab 40?"
+    answer: "Du erkennst sie daran dass Werte und Lebensentwurf passen, sie ehrlich kommunizieren und Vergangenheit aufgearbeitet ist."
+  - question: "Ist es normal mit 40 wieder unsicher zu daten?"
+    answer: "Ja das ist sehr normal. Dating-Welt veraendert sich. Aber deine Lebenserfahrung ist ein klarer Vorteil."
+  - question: "Wann sollte man sich Hilfe holen?"
+    answer: "Wenn alte Muster sich wiederholen oder du dich nach einer Trennung verloren fuehlst, lohnt sich Coaching oder Therapie."
 ---
 
 ## Dating Ab 40: Neustart In Der Liebe

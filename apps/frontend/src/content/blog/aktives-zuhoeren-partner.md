@@ -9,6 +9,15 @@ tags:
   - "Beziehungstipps"
   - "Ratgeber"
   - "Partnerschaft"
+faq:
+  - question: "Was bedeutet aktives Zuhoeren in einer Beziehung wirklich?"
+    answer: "Aktives Zuhoeren bedeutet voll praesent zu sein, Worte und Gefuehle wahrzunehmen und nicht schon innerlich an deiner Antwort zu basteln."
+  - question: "Wie erkenne ich dass ich nicht richtig zuhoere?"
+    answer: "Du erkennst es daran dass du Loesungen vorschlaegst, unterbrichst oder waehrend des Sprechens schon an etwas anderes denkst."
+  - question: "Ist es normal dass mir aktives Zuhoeren schwer faellt?"
+    answer: "Ja das ist normal. Unser Gehirn ist auf schnelle Reaktion gepolt. Mit Uebung wird echtes Zuhoeren zur neuen Gewohnheit."
+  - question: "Wann sollte ich Hilfe fuer Kommunikationsprobleme suchen?"
+    answer: "Wenn ihr trotz Bemuehung immer wieder aneinander vorbei redet, lohnt sich eine Paartherapie um neue Muster zu lernen."
 ---
 ## Warum hören die meisten Menschen nicht wirklich zu?
 

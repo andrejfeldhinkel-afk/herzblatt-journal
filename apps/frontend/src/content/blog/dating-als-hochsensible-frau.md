@@ -9,6 +9,15 @@ tags:
   - "HSP Dating"
   - "Partnersuche"
   - "Selbstfürsorge"
+faq:
+  - question: "Was bedeutet Dating als hochsensible Frau?"
+    answer: "Du nimmst Stimmungen, Reize und Bindungssignale intensiver wahr. Tiefe und Ehrlichkeit sind wichtiger als Quantitaet."
+  - question: "Wie erkenne ich passende Partner als Hochsensible?"
+    answer: "Du erkennst sie an Tiefe, Ruhe, ehrlichem Interesse und der Faehigkeit deine Sensibilitaet als Geschenk zu sehen."
+  - question: "Ist es normal dass Dating fuer Hochsensible erschoepft?"
+    answer: "Ja sehr normal. Reize und Begegnungen kosten mehr Energie. Pausen und gute Selbstfuersorge sind essentiell."
+  - question: "Wann sollte man Dating-Pausen einlegen?"
+    answer: "Sobald du dich erschoepft fuehlst, mehrere schlechte Dates hinter dir hast oder dich verlierst, lohnt sich eine Pause."
 ---
 ## Dating als Hochsensible: Tiefe statt Oberfläche
 

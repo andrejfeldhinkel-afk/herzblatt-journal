@@ -9,6 +9,15 @@ tags:
   - "Beziehung"
   - "Vertrauen"
   - "Psychologie"
+faq:
+  - question: "Was hilft gegen krankhafte Eifersucht?"
+    answer: "Selbstreflexion ueber alte Wunden, ehrliche Kommunikation, Therapie und der Aufbau von Selbstwert helfen Eifersucht zu loesen."
+  - question: "Wie erkenne ich ob meine Eifersucht problematisch ist?"
+    answer: "Du erkennst es an Kontrolle, staendigen Verdacht, Streits oder dem Gefuehl die Beziehung zu vergiften."
+  - question: "Ist es normal manchmal eifersuechtig zu sein?"
+    answer: "Ja das ist normal. Aber chronische Eifersucht ohne Anlass weist auf alte Wunden hin die Heilung brauchen."
+  - question: "Wann sollte ich therapeutische Hilfe holen?"
+    answer: "Wenn Eifersucht dich oder die Beziehung quaelt, lohnt sich Therapie um Wurzeln und Trigger zu bearbeiten."
 ---
 ## Was ist Eifersucht wirklich?
 

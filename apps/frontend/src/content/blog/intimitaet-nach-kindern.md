@@ -8,6 +8,15 @@ tags:
   - "Intimität"
   - "Beziehungstipps"
   - "Ratgeber"
+faq:
+  - question: "Was passiert mit der Intimitaet nach der Geburt eines Kindes?"
+    answer: "Schlafmangel, hormonelle Veraenderungen und neue Rollen reduzieren die Lust. Naehe wird oft fuersorglich statt erotisch und das ist eine voruebergehende Phase."
+  - question: "Wie haltet ihr eure Paarbeziehung mit Kindern lebendig?"
+    answer: "Plant feste Date-Abende, schafft kinderfreie Zonen und sprecht ueber Beduerfnisse. Kleine Gesten und Beruehrungen wirken staerker als seltene grosse Aktionen."
+  - question: "Ist es normal nach der Geburt monatelang keinen Sex zu haben?"
+    answer: "Ja besonders im ersten Jahr ist das verbreitet. Koerper, Hormone und Erschoepfung brauchen Zeit. Druck verschlechtert die Lust, Geduld und Naehe helfen mehr."
+  - question: "Wie sprecht ihr ueber Lust und Unlust nach Kindern?"
+    answer: "Waehlt einen ruhigen Moment ohne Vorwuerfe, druckt Beduerfnisse als Ich-Botschaften aus und entwickelt gemeinsam neue Formen koerperlicher Naehe."
 ---
 ## Intimität als Eltern: So bleibt ihr ein Paar
 

@@ -8,6 +8,15 @@ tags:
   - "Grenzen setzen"
   - "Psychologie"
   - "Selbsthilfe"
+faq:
+  - question: "Was ist People Pleasing in Beziehungen?"
+    answer: "People Pleasing bedeutet, eigene Beduerfnisse und Grenzen zu opfern, um andere gluecklich zu machen. Es ist Angst, nicht Liebe."
+  - question: "Wie hoere ich auf, ein People Pleaser zu sein?"
+    answer: "Lerne Nein zu sagen ohne Schuld, frage dich aktiv was du willst, und uebe kleine Grenzen taeglich. Veraenderung braucht Zeit."
+  - question: "Ist People Pleasing in Beziehungen normal?"
+    answer: "Gelegentliches Nachgeben ist normal. Chronisches People Pleasing dagegen zerstoert Beziehungen und zeigt unbewaeltigte Bindungswunden."
+  - question: "Woher kommt People Pleasing eigentlich?"
+    answer: "Meistens aus der Kindheit, wenn Liebe an Bedingungen geknuepft war. Du lerntest, dich unsichtbar zu machen, um geliebt zu werden."
 ---
 Du sitzt mit deinem Partner. Du wolltest ein Wochenende zu Hause verbringen. Aber er wollte zu einer Party gehen. Also sagtest du ja. Obwohl dein Körper nein schrie.
 

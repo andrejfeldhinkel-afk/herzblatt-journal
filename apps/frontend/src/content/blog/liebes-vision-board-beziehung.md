@@ -8,6 +8,15 @@ tags:
   - "Manifestation"
   - "Partnersuche"
   - "Selbstentwicklung"
+faq:
+  - question: "Was ist ein Liebes-Vision-Board?"
+    answer: "Ein Vision Board ist eine visuelle Collage deines Wunschpartnerschafts-Ideals. Bilder, Worte und Symbole machen abstrakte Wuensche konkret und greifbar."
+  - question: "Wie erstellst du dein Liebes-Vision-Board richtig?"
+    answer: "Definiere zuerst Werte und Gefuehle, sammle Bilder und Worte, gestalte intuitiv und platziere es sichtbar. Schau es taeglich bewusst an."
+  - question: "Ist es normal dass Manifestation Zeit braucht?"
+    answer: "Ja innere Veraenderung dauert. Vision-Boards wirken durch Priming und veraendertes Bewusstsein. Erste Effekte zeigen sich oft nach Wochen oder Monaten."
+  - question: "Was sind die haeufigsten Vision-Board-Fehler?"
+    answer: "Eine bestimmte Person fixieren, nur Aeusserlichkeiten waehlen oder ohne Handeln warten. Das Board ersetzt aktive Schritte ins Leben nicht."
 ---
 ## Warum Bilder mächtiger sind als Worte – Die psychologie deines Vision Boards
 

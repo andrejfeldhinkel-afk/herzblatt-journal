@@ -9,6 +9,15 @@ tags:
   - "Dating-Tipps"
   - "Körpersprache"
   - "Ratgeber"
+faq:
+  - question: "Was bedeutet Flirten eigentlich genau?"
+    answer: "Flirten ist ein spielerischer Austausch der gegenseitiges Interesse signalisiert. Es kombiniert Koerpersprache, Worte und kleine Gesten zu einem subtilen Tanz."
+  - question: "Wie lernst du erfolgreich zu flirten?"
+    answer: "Beginne mit Augenkontakt und einem Laecheln. Stelle offene Fragen, hoere zu und reagiere spielerisch. Uebung im Alltag macht dich sicherer."
+  - question: "Ist es normal beim Flirten unsicher zu sein?"
+    answer: "Ja Unsicherheit ist normal und sogar charmant. Niemand wird als Flirt-Profi geboren, jeder lernt durch Erfahrung und gelegentliche Koerbe."
+  - question: "Welche Flirt-Signale sendet dein Gegenueber dir?"
+    answer: "Laengerer Augenkontakt, Spiegeln deiner Haltung, Beruehrungen am Arm und offenes Lachen sind klare Zeichen fuer echtes Interesse an dir."
 ---
 
 ## Flirten lernen: Der komplette Guide von A bis Z

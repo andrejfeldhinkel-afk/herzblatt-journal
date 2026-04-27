@@ -8,6 +8,15 @@ tags:
   - "technologie"
   - "KI"
   - "zukunft"
+faq:
+  - question: "Wie veraendert KI das Dating heute schon?"
+    answer: "KI matcht dich mit Profilen, schlaegt Nachrichten vor und filtert vor. Algorithmen entscheiden zunehmend, wen du siehst und wer dich ueberhaupt findet."
+  - question: "Wie nutzt du KI-Dating-Tools sinnvoll?"
+    answer: "Nutze KI als Inspiration, aber bleibe authentisch. Profilfotos und Texte sollten dich echt zeigen, sonst entstehen Erwartungen die im Date enttaeuschen."
+  - question: "Ist es normal sich von Algorithmen beeinflusst zu fuehlen?"
+    answer: "Ja viele User merken dass ihr Verhalten gelenkt wird. Bewusst zu pausieren und Profile auch ausserhalb des Vorschlags zu suchen, hilft beim Selbstdenken."
+  - question: "Welche Risiken bringt KI im Dating mit sich?"
+    answer: "Filterblasen, Bias, Deepfake-Profile und Verlust von Authentizitaet. Pruefe Identitaeten kritisch und vertraue auf reale Begegnungen mehr als auf Chats."
 ---
 
 Du wischst durch Profile, und hinter den Kulissen arbeitet ein Algorithmus. KI-Systeme bestimmen, wer dir angezeigt wird, wer dich sieht, wer mit dir matcht. Die Technologie ist nicht nur eine Plattform für [dating](/blog/anzeichen-er-steht-auf-dich/) – sie formt aktiv, wen du triffst und wie du Menschen wahrnimmst.

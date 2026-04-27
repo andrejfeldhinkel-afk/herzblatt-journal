@@ -9,6 +9,15 @@ tags:
   - "Langzeitbeziehung"
   - "Partnerschaft"
   - "Ratgeber"
+faq:
+  - question: "Was passiert in einer Beziehung nach 10 Jahren?"
+    answer: "Nach 10 Jahren ist Routine eingekehrt, viele Lebensphasen wurden gemeinsam durchlebt, aber auch Distanz kann sich einschleichen."
+  - question: "Wie erkenne ich dass die Liebe noch da ist?"
+    answer: "Du erkennst es an Vertrauen, Geborgenheit und der Faehigkeit auch nach Streit wieder zueinander zu finden."
+  - question: "Ist es normal dass Leidenschaft nachlaesst?"
+    answer: "Ja das ist normal. Verliebtsein wandelt sich in tiefe Liebe. Mit bewusster Arbeit kann auch Leidenschaft zurueckkommen."
+  - question: "Wann sollte man professionelle Hilfe holen?"
+    answer: "Wenn ihr euch fremd geworden seid oder kaum noch redet, lohnt sich Paartherapie um neu zueinander zu finden."
 ---
 ## Zehn Jahre zusammen – Das ist eine Leistung
 

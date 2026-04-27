@@ -11,6 +11,15 @@ tags:
 keywords: ["4 ohren modell beziehung", "schulz von thun beziehung", "kommunikation missverständnisse paar", "vier seiten einer nachricht"]
 description: "Das 4-Ohren-Modell erklärt, warum eure Kommunikation so oft schiefgeht. Lerne, auf der richtigen Ebene zu sprechen und wirklich verstanden zu werden."
 date: 2025-12-15
+faq:
+  - question: "Was ist das 4-Ohren-Modell von Schulz von Thun?"
+    answer: "Das Modell zeigt, dass jede Nachricht vier Seiten hat: Sachinhalt, Selbstoffenbarung, Beziehung und Appell. Empfaenger hoeren oft auf einem Ohr."
+  - question: "Wie wende ich das 4-Ohren-Modell in der Beziehung an?"
+    answer: "Frage dich vor jeder Reaktion, auf welchem Ohr du gerade hoerst. Pruefe, ob die Botschaft wirklich so gemeint war oder du interpretierst."
+  - question: "Sind Missverstaendnisse zwischen Partnern normal?"
+    answer: "Ja, voellig. Beide Partner senden und empfangen auf vier Ebenen gleichzeitig. Missverstaendnisse sind die Regel, nicht die Ausnahme."
+  - question: "Welches Ohr hoert am haeufigsten falsch?"
+    answer: "Das Beziehungs-Ohr. Wir interpretieren neutrale Aussagen oft als Angriff auf die Beziehung, besonders bei unsicherem Bindungsstil."
 ---
 
 ## Das 4-Ohren-Modell in Beziehungen: Warum dein Partner etwas anderes hört als du sagst

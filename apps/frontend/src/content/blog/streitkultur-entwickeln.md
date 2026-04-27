@@ -8,6 +8,15 @@ tags:
   - "Kommunikation"
   - "Beziehungstipps"
   - "Ratgeber"
+faq:
+  - question: "Was ist eine gesunde Streitkultur in der Beziehung?"
+    answer: "Eine Art zu streiten, die respektvoll bleibt, Loesungen sucht und beide Partner staerker macht. Streit als konstruktiver Wachstumsraum."
+  - question: "Wie entwickelt man eine gesunde Streitkultur?"
+    answer: "Vereinbart faire Regeln, vermeidet Beleidigungen und nutzt Ich-Botschaften. Reparaturversuche nach dem Streit sind genauso wichtig."
+  - question: "Sind Streits in jeder Beziehung normal?"
+    answer: "Ja, alle gesunden Beziehungen streiten. Konfliktvermeidung ist langfristig genauso schaedlich wie destruktive Streits ohne Loesung."
+  - question: "Was tun wenn der Streit immer eskaliert?"
+    answer: "Vereinbart eine Pausentechnik bei Eskalation und uebt aktives Zuhoeren. Bei wiederkehrenden Mustern hilft Paartherapie schnell weiter."
 ---
 ## Warum Konfliktvermeidung der Feind ist
 

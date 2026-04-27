@@ -9,6 +9,15 @@ tags:
   - "Altersunterschied"
   - "Partnerschaft"
   - "Ratgeber"
+faq:
+  - question: "Wie gross darf der Altersunterschied in einer Beziehung sein?"
+    answer: "Es gibt keine feste Grenze. Was zaehlt sind Lebensphase, Werte und ob beide den gleichen Lebensentwurf wollen."
+  - question: "Wie erkenne ich ob der Unterschied uns Probleme macht?"
+    answer: "Du erkennst es an unterschiedlichen Lebenszielen, Energien, Freundeskreisen oder Reaktionen aus dem Umfeld."
+  - question: "Ist es normal dass das Umfeld kritisch reagiert?"
+    answer: "Ja leider sehr normal. Mit Selbstsicherheit und gemeinsamem Standpunkt koennt ihr damit gut umgehen."
+  - question: "Wann sollte man die Beziehung kritisch pruefen?"
+    answer: "Wenn Lebensphasen zu weit auseinander sind oder einer den anderen drueckt, lohnt sich ehrliche Reflexion."
 ---
 ## Altersunterschied in Beziehungen: Ein ehrlicher Guide zu Chancen und echten Herausforderungen
 

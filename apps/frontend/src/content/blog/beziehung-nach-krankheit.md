@@ -16,6 +16,15 @@ keywords:
   - "partner schwer krank"
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Wie veraendert eine schwere Krankheit die Beziehung?"
+    answer: "Krankheit verschiebt Rollen, schafft neue Naehe oder Distanz und stellt beide Partner vor emotionale Herausforderungen."
+  - question: "Wie erkenne ich dass die Beziehung Hilfe braucht?"
+    answer: "Du erkennst es an Sprachlosigkeit, emotionaler Distanz oder Ueberforderung beim pflegenden Partner."
+  - question: "Ist es normal dass Sex und Naehe schwierig werden?"
+    answer: "Ja das ist normal nach schwerer Krankheit. Mit Geduld, Gespraechen und manchmal Therapie findet ihr neue Wege."
+  - question: "Wann sollte ich therapeutische Hilfe suchen?"
+    answer: "Wenn ihr euch entfremdet oder einer ueberlastet ist, lohnt sich Paartherapie oder eine Selbsthilfegruppe."
 ---
 
 Alles verändert sich mit einem Satz: "Du hast Krebs." Oder "Die Ärzte vermuten eine chronische Krankheit." Oder "Deine Depressionen sind schwerer als wir dachten."

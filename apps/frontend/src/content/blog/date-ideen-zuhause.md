@@ -8,6 +8,15 @@ tags:
   - "Dating"
   - "Tipps"
   - "zuhause"
+faq:
+  - question: "Was sind die besten Date-Ideen fuer Zuhause?"
+    answer: "Kochen zu zweit, Filmabend mit Thema, Spieleabend, gemeinsames Workout oder Couples-Massage schaffen Naehe ohne Restaurant."
+  - question: "Wie erkenne ich was fuer uns als Date funktioniert?"
+    answer: "Du erkennst es an gemeinsamem Lachen, echter Praesenz und dem Gefuehl danach naeher und verbundener zu sein."
+  - question: "Ist es normal dass Heim-Dates schwer in Schwung kommen?"
+    answer: "Ja das ist normal. Zuhause ist Alltag. Es braucht bewusste Inszenierung damit es sich wie ein Date anfuehlt."
+  - question: "Wann sollte man unbedingt Dates pflegen?"
+    answer: "Immer. Besonders mit Kindern oder Stress lohnt sich der bewusste Date-Termin um die Beziehung zu naehren."
 ---
 
 ## Romantische Date-Ideen Für Zuhause

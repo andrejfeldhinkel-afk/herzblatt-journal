@@ -9,6 +9,15 @@ tags:
   - "Beziehung"
   - "Partnerschaft"
   - "Ratgeber"
+faq:
+  - question: "Was bedeutet offene Kommunikation in der Beziehung?"
+    answer: "Es bedeutet ehrlich zu sagen was du fuehlst und brauchst, ohne Vorwuerfe und mit echter Bereitschaft den anderen zu hoeren."
+  - question: "Wie erkenne ich ob unsere Kommunikation offen ist?"
+    answer: "Du erkennst es daran dass ihr schwere Themen ansprecht, euch sicher fuehlt und Konflikte konstruktiv loest."
+  - question: "Ist es normal dass offen reden schwer faellt?"
+    answer: "Ja das ist normal. Verletzlichkeit ist mutig. Mit Uebung und sicherem Raum wird es leichter."
+  - question: "Wann sollte ich Hilfe fuer bessere Kommunikation suchen?"
+    answer: "Wenn ihr immer wieder aneinander vorbei redet, lohnt sich Paartherapie oder ein Kommunikationskurs."
 ---
 
 ## Offene Kommunikation: So sagst du was du wirklich denkst und fühlst

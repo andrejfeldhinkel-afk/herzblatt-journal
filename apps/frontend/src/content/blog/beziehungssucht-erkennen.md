@@ -13,6 +13,15 @@ tags:
   - "Beziehung"
   - "Heilung"
 keywords: ["beziehungssucht", "beziehungssucht erkennen", "abhängig von beziehung"]
+faq:
+  - question: "Was ist Beziehungssucht?"
+    answer: "Eine emotionale Abhaengigkeit bei der man sich ohne Partner nicht ganz fuehlen kann und Bestaetigung von aussen braucht."
+  - question: "Wie erkenne ich ob ich beziehungssuechtig bin?"
+    answer: "Du erkennst es an Verlustangst, Selbstaufgabe, Klammern oder dem Gefuehl ohne Partner nicht funktionieren zu koennen."
+  - question: "Ist es normal Verlustangst zu haben?"
+    answer: "Etwas Verlustangst ist normal. Aber chronische Angst die dein Verhalten steuert, weist auf Beziehungssucht hin."
+  - question: "Wann sollte ich therapeutische Hilfe suchen?"
+    answer: "Wenn Beziehungssucht dein Leben dominiert oder Beziehungen daran scheitern, lohnt sich Therapie sofort."
 ---
 
 Du verlässt eine [Bindungsangst](/blog/bindungsangst-komplett-guide). Sobald es ernst wird, fängst du an zu klammern. Jede kleine Distanz wird als Ablehnung interpretiert. Du brauchst ständige Versicherungen. Du sendest viele Nachrichten. Du fängst an, die andere Person zu kontrollieren oder zu manipulieren, um sicherzustellen, dass sie bleibt.

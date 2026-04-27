@@ -9,6 +9,15 @@ tags:
   - "Finanzen"
   - "Streit"
   - "Partnerschaft"
+faq:
+  - question: "Warum streiten Paare so oft ueber Geld?"
+    answer: "Geld ist mit Werten, Sicherheit und Macht verbunden. Unterschiedliche Geldglaubenssaetze fuehren zu tiefen Konflikten."
+  - question: "Wie erkenne ich unsere Geld-Konflikt-Muster?"
+    answer: "Du erkennst sie wenn der gleiche Streit immer wiederkehrt, ihr emotional reagiert und Werte aufeinander prallen."
+  - question: "Ist es normal ueber Geld unterschiedlich zu denken?"
+    answer: "Ja sehr normal. Geld-Praegung kommt aus der Kindheit. Mit offenen Gespraechen findet ihr Kompromisse."
+  - question: "Wann sollte man Finanz- oder Paarberatung machen?"
+    answer: "Wenn Geldstreits eskalieren oder eure Beziehung belasten, lohnt sich beides je nach Hauptproblem."
 ---
 ## Geldstreit in Beziehungen: Lösungen finden
 

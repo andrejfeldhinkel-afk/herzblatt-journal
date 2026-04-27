@@ -9,6 +9,15 @@ tags:
   - "freundschaft"
   - "Partnerschaft"
   - "Ratgeber"
+faq:
+  - question: "Ist es problematisch wenn Paare verschiedene Freunde haben?"
+    answer: "Nein, es ist sogar gesund. Eigene Freundeskreise sind wichtig solange Zeit fuer Paar-Freundschaften ebenfalls da ist."
+  - question: "Wie erkenne ich gesunde Balance in den Freundschaften?"
+    answer: "Du erkennst sie daran dass beide eigene Freunde haben, ihr aber auch gemeinsame Verbindungen pflegt."
+  - question: "Ist es normal komplett andere Freunde zu haben?"
+    answer: "Ja das ist normal. Aber wenn ihr gar keine gemeinsamen Bekannten habt, kann das Distanz schaffen."
+  - question: "Wann sollte man darueber reden?"
+    answer: "Wenn Freundschaften zu Konflikten fuehren oder einer sich vernachlaessigt fuehlt, lohnt sich ein offenes Gespraech."
 ---
 ## Verschiedene Freundeskreise in der beziehung
 

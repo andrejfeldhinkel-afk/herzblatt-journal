@@ -9,6 +9,15 @@ tags:
   - "Kulturelle Unterschiede"
   - "Partnerschaft"
   - "Kommunikation"
+faq:
+  - question: "Was sind die groessten Herausforderungen in interkulturellen Beziehungen?"
+    answer: "Unterschiedliche Werte, Familiendynamiken, Erwartungen an Rollen, Religion und manchmal Sprache fordern beide heraus."
+  - question: "Wie erkenne ich ob unsere Kulturen vereinbar sind?"
+    answer: "Du erkennst es daran wie ihr mit Konflikten umgeht, ob beide Familien akzeptieren und ob Werte sich treffen."
+  - question: "Ist es normal dass es immer wieder kulturelle Reibung gibt?"
+    answer: "Ja das ist normal. Aber mit Neugier und Respekt werden die Unterschiede zur Bereicherung statt zum Problem."
+  - question: "Wann sollte man professionell daran arbeiten?"
+    answer: "Wenn kulturelle Unterschiede zu wiederkehrenden Konflikten fuehren, lohnt sich kultursensible Paartherapie."
 ---
 ## Interkulturelle beziehung: Chancen und Tipps für eine erfolgreiche Partnerschaft
 

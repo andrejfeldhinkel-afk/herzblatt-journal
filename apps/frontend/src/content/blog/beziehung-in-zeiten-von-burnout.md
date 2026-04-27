@@ -9,6 +9,15 @@ tags:
   - "Stress"
   - "Beziehungstipps"
   - "Mental Health"
+faq:
+  - question: "Was bedeutet Burnout fuer die Beziehung?"
+    answer: "Burnout zieht oft auch den Partner mit runter, weil Energie, Naehe und Lust verschwinden und alle Kraft fuer Erholung gebraucht wird."
+  - question: "Wie erkenne ich dass mein Partner unter Burnout leidet?"
+    answer: "Du erkennst es an chronischer Erschoepfung, Reizbarkeit, Rueckzug und Verlust von Lebensfreude ueber Wochen oder Monate."
+  - question: "Ist es normal dass Burnout die Beziehung belastet?"
+    answer: "Ja das ist normal. Aber mit Verstaendnis, Geduld und professioneller Hilfe koennt ihr gestaerkt da raus kommen."
+  - question: "Wann sollte der Betroffene zum Arzt?"
+    answer: "Bei anhaltender Erschoepfung, Schlafproblemen oder depressiven Symptomen lohnt sich sofort der Gang zum Arzt."
 ---
 ## beziehung führen trotz Burnout und Stress
 

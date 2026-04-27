@@ -8,6 +8,15 @@ tags:
   - "Beziehungstipps"
   - "Ratgeber"
   - "Partnerschaft"
+faq:
+  - question: "Was sind schwierige Gespraeche in einer Beziehung?"
+    answer: "Themen wie Geld, Sex, Kinderwunsch, Ex-Partner oder Zukunftsplaene loesen oft Angst aus, sind aber fuer eine gesunde Beziehung unverzichtbar."
+  - question: "Wie fuehre ich ein schwieriges Gespraech am besten?"
+    answer: "Waehle einen ruhigen Moment, sprich aus der Ich-Perspektive und hoere wirklich zu. Kuendige das Thema vorher an, damit beide vorbereitet sind."
+  - question: "Sind schwierige Gespraeche in jeder Beziehung normal?"
+    answer: "Ja, in jeder gesunden Beziehung gibt es heikle Themen. Paare die nie streiten, vermeiden meist nur und stauen Probleme auf."
+  - question: "Was tun wenn das Gespraech eskaliert?"
+    answer: "Macht eine Pause von mindestens 20 Minuten. Beruhigt euer Nervensystem und kommt erst zurueck, wenn beide regulationsfaehig sind."
 ---
 ## Warum vermeiden wir schwierige Gespräche?
 

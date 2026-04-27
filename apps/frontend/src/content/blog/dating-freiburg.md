@@ -8,6 +8,15 @@ tags:
   - "Dating"
   - "freiburg"
   - "natur"
+faq:
+  - question: "Was macht Dating in Freiburg besonders?"
+    answer: "Freiburg bietet sonniges Klima, gruene Atmosphaere und eine entspannte Studentenszene mit Naturnaehe zum Schwarzwald und vielen Outdoor-Dates."
+  - question: "Wo lernt man in Freiburg am besten Singles kennen?"
+    answer: "Du findest Singles auf dem Muensterplatz, in Cafes der Wiehre, beim Schlossbergaufstieg und in Szenebars im Stuehlinger Viertel."
+  - question: "Ist Freiburg eine gute Stadt zum Daten?"
+    answer: "Ja, Freiburg ist sehr beliebt zum Daten. Junge Leute, lockere Atmosphaere und Naturnaehe machen Begegnungen unkomplizierter als in Grossstaedten."
+  - question: "Welche Date-Ideen funktionieren in Freiburg besonders gut?"
+    answer: "Wanderung auf den Schauinsland, Picknick am Dreisamufer, Cafe in der Altstadt oder ein Glas Wein im Stuehlinger sind klassische Freiburg-Dates."
 ---
 
 ## dating In Freiburg: Sonnig Verlieben

@@ -9,6 +9,15 @@ tags:
   - "Körpersprache"
   - "Flirten"
   - "Männer-Ratgeber"
+faq:
+  - question: "Was sind eindeutige Zeichen dass sie auf mich steht?"
+    answer: "Eindeutige Zeichen sind haeufiger Augenkontakt, Lachen ueber deine Witze, koerperliche Naehe und initiierte Kontaktaufnahme."
+  - question: "Wie erkenne ich ob sie nur freundlich oder mehr ist?"
+    answer: "Du erkennst es an exklusiver Aufmerksamkeit, persoenlichen Fragen und der Bereitschaft Zeit nur mit dir zu verbringen."
+  - question: "Ist es normal dass Frauen subtiler flirten?"
+    answer: "Ja, viele Frauen flirten subtiler aus Erziehung oder Vorsicht. Achte auf Mikro-Signale wie Lachen und Koerperhaltung."
+  - question: "Wann sollte ich den ersten Schritt machen?"
+    answer: "Wenn mehrere positive Signale da sind, lohnt sich der mutige Schritt sie nach einem Date zu fragen."
 ---
 ## Die Kunst, weibliche Flirtsignale zu lesen
 

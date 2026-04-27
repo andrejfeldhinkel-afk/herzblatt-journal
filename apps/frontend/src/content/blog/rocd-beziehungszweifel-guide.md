@@ -16,6 +16,15 @@ keywords:
   - "Therapie"
 image: "/images/blog/rocd-beziehungszweifel-guide.webp"
 imageAlt: "Relationship OCD (ROCD) — Wenn Zweifel zur Qual werden"
+faq:
+  - question: "Was ist Relationship OCD (ROCD)?"
+    answer: "ROCD ist eine Zwangsstoerung, bei der obsessive Zweifel an der Beziehung oder dem Partner staendig auftauchen und nicht beruhigt werden koennen."
+  - question: "Wie unterscheide ich ROCD von normalen Zweifeln?"
+    answer: "Normale Zweifel kommen und gehen. ROCD-Zweifel sind chronisch, zwanghaft und loesen starke Angst aus, auch wenn objektiv nichts falsch ist."
+  - question: "Sind Beziehungszweifel grundsaetzlich normal?"
+    answer: "Ja, Zweifel gehoeren zu jeder Beziehung. Sie werden problematisch, wenn sie obsessiv werden und deine Funktionsfaehigkeit beeintraechtigen."
+  - question: "Wie wird ROCD behandelt?"
+    answer: "Erprobt sind kognitive Verhaltenstherapie und ERP, oft kombiniert mit Medikamenten. Selbsthilfe allein reicht meist nicht aus."
 ---
 ## Einleitung: Die unterschwellende Frage, die nicht verschwindet
 

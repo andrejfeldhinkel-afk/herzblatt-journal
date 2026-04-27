@@ -14,6 +14,15 @@ keywords:
   - "erziehung als paar"
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was bedeutet Streit wegen Erziehung in der Beziehung?"
+    answer: "Konflikte ueber Regeln, Werte und Erziehungsstil. Sie spiegeln oft eigene Kindheitserfahrungen und werden dadurch besonders emotional aufgeladen."
+  - question: "Wie loese ich Streit ueber Erziehung mit meinem Partner?"
+    answer: "Sucht gemeinsame Werte, vereinbart Kernregeln und akzeptiert Unterschiede in Details. Sprecht ohne Kinder und mit Respekt fuereinander."
+  - question: "Sind unterschiedliche Erziehungsstile normal?"
+    answer: "Ja, jeder bringt eigene Praegung aus der Herkunftsfamilie mit. Unterschiede sind sogar wertvoll, wenn ihr respektvoll damit umgeht."
+  - question: "Was tun wenn ein Elternteil staendig untergraben wird?"
+    answer: "Sprecht das direkt an, niemals vor den Kindern. Eine Familientherapie hilft, wenn ihr aus dem Konflikt allein nicht herauskommt."
 ---
 
 Du möchtest, dass die Kinder um 20 Uhr ins Bett gehen. Dein Partner findet 21 Uhr in Ordnung. Du willst streng konsequent sein, wenn Regeln gebrochen werden. Dein Partner meint, man müsse flexibel sein. Du glaubst an "klare Grenzen", er oder sie schwört auf "positive Elternschaft". Und plötzlich steht ihr euch beim Thema Erziehung komplett gegen sich — und es fühlt sich gar nicht nach Erziehung an. Es fühlt sich danach an, als würde dein Partner dich und deinen Erziehungsstil beurteilen.

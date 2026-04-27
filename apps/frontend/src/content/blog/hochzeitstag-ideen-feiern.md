@@ -8,6 +8,15 @@ tags:
   - "Beziehung"
   - "Romantik"
   - "Ideen"
+faq:
+  - question: "Wie feiert man den Hochzeitstag besonders?"
+    answer: "Erinnere dich an die Hochzeit mit Fotos, kehrt zum Hochzeitsort zurueck oder erneuert eure Versprechen. Persoenliche Bedeutung schlaegt Aufwand."
+  - question: "Welche Hochzeitstag-Ideen sind unvergesslich?"
+    answer: "Eine Ueberraschungsreise, ein selbst geplanter Themenabend, ein Brief vom letzten Jahr oder ein gemeinsames neues Hobby bleiben lange in Erinnerung."
+  - question: "Ist es normal den Hochzeitstag mal zu vergessen?"
+    answer: "Im Alltagsstress kann es passieren. Wichtig ist eine ehrliche Entschuldigung und nachgeholte Aufmerksamkeit. Erinnerungen im Kalender helfen vorab."
+  - question: "Was tun wenn ihr unterschiedliche Vorstellungen habt?"
+    answer: "Sprecht ueber Wuensche und plant abwechselnd. Ein Jahr entscheidet einer, naechstes Jahr der andere. So fuehlen sich beide gesehen und gewertschaetzt."
 ---
 ## Hochzeitstag feiern: 20 besondere Ideen
 

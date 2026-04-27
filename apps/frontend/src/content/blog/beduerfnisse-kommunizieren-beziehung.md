@@ -9,6 +9,15 @@ tags:
   - "Bedürfnisse"
   - "Beziehungstipps"
   - "Ratgeber"
+faq:
+  - question: "Was bedeutet Beduerfnisse kommunizieren?"
+    answer: "Es bedeutet klar zu sagen was du brauchst statt es zu erwarten oder dem Partner Vorwuerfe zu machen wenn er es nicht erraet."
+  - question: "Wie erkenne ich meine eigenen Beduerfnisse?"
+    answer: "Du erkennst sie wenn du auf Frust und Sehnsucht achtest. Hinter jedem Aerger steckt ein unerfuelltes Beduerfnis."
+  - question: "Ist es normal dass mir das Aussprechen schwer faellt?"
+    answer: "Ja das ist normal. Viele lernen als Kind ihre Beduerfnisse zurueckzustellen. Mit Uebung wird es leichter."
+  - question: "Wann sollte ich Paartherapie in Betracht ziehen?"
+    answer: "Wenn du Beduerfnisse aussprichst aber dein Partner sie ignoriert, lohnt sich therapeutische Unterstuetzung."
 ---
 ## Warum ist es so schwer, unsere Bedürfnisse auszudrücken?
 

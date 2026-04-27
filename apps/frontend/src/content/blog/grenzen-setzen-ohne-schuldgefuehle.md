@@ -9,6 +9,15 @@ tags:
   - "Selbstfürsorge"
   - "Kommunikation"
   - "Beziehungstipps"
+faq:
+  - question: "Was bedeutet Grenzen setzen wirklich?"
+    answer: "Grenzen setzen heisst eigene Beduerfnisse zu schuetzen und klar zu kommunizieren was fuer dich okay ist und was nicht akzeptabel ist."
+  - question: "Wie setzt du Grenzen ohne Schuldgefuehle zu haben?"
+    answer: "Erkenne dass Grenzen kein Egoismus sind, sondern Selbstfuersorge. Beginne mit kleinen Neins, atme durch und akzeptiere Reaktionen anderer Menschen."
+  - question: "Ist es normal nach Grenzen-Setzen schlechtes Gewissen zu haben?"
+    answer: "Ja besonders wenn du es nie gelernt hast. Das schlechte Gewissen ist ein altes Muster, das mit Uebung und Selbstmitgefuehl verschwindet."
+  - question: "Was tun wenn dein Partner deine Grenzen nicht respektiert?"
+    answer: "Wiederhole deine Grenze ruhig und konsequent, formuliere Konsequenzen und ziehe sie durch. Bleibt das Verhalten, ist die Beziehung gefaehrdet."
 ---
 ## Warum fällt es uns so verdammt schwer, Grenzen zu setzen?
 

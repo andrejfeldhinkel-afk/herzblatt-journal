@@ -9,6 +9,15 @@ tags:
   - "Gewalt"
   - "Recovery"
   - "Selbstfürsorge"
+faq:
+  - question: "Was bedeutet Dating nach Gewaltbeziehung?"
+    answer: "Es bedeutet, sicher und in deinem Tempo neue Begegnungen zuzulassen, Trigger zu kennen und rote Flaggen frueh zu erkennen, ohne dich zu retraumatisieren."
+  - question: "Wann bin ich bereit, nach Gewalt wieder zu daten?"
+    answer: "Du bist bereit, wenn du Trigger benennen kannst, ein Sicherheitsnetz hast und nicht aus Einsamkeit, sondern aus innerer Stabilitaet daten willst."
+  - question: "Ist Misstrauen bei neuen Partnern nach Gewalt normal?"
+    answer: "Ja, voellig normal. Dein Nervensystem schuetzt dich. Mit Therapie und Zeit lernst du, gesundes Vertrauen wieder Schritt fuer Schritt aufzubauen."
+  - question: "Wie schuetze ich mich beim ersten Date nach Gewalt?"
+    answer: "Treffe dich an oeffentlichen Orten, sage einer Freundin Bescheid, fahre selbst, halte Telefon griffbereit und brich sofort ab bei Warnsignalen."
 ---
 ## Dating nach Gewaltbeziehung: Sicher neu starten
 

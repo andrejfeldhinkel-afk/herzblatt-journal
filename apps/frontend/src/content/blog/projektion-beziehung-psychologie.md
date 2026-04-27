@@ -8,6 +8,15 @@ tags:
   - "Beziehungsmuster"
   - "Selbstreflexion"
   - "Ratgeber"
+faq:
+  - question: "Was ist Projektion in einer Beziehung?"
+    answer: "Projektion bedeutet, eigene unangenehme Gefuehle auf den Partner zu uebertragen. Du siehst in ihm, was du in dir selbst ablehnst."
+  - question: "Wie erkenne ich Projektion bei mir selbst?"
+    answer: "Wenn du auf neutrale Aussagen stark reagierst oder den Partner staendig kritisierst, frage dich: Was triggert das in mir wirklich?"
+  - question: "Ist Projektion in Beziehungen normal?"
+    answer: "Projektion passiert allen Menschen unbewusst. Problematisch wird sie, wenn sie chronisch wird und Vertrauen sowie Naehe zerstoert."
+  - question: "Wie kann ich Projektion stoppen?"
+    answer: "Pause vor Reaktion, frage nach Beweisen fuer deine Annahme und schaue ehrlich nach innen. Therapie hilft tieferliegende Muster aufzuloesen."
 ---
 Du sitzt mit deinem Partner. Er sagt etwas Neutrales. Und plötzlich bist du wütend. Du weißt, dass er dich ignoriert. Du weißt, dass er dich nicht liebt. Du weißt, dass die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) vorbei ist.
 

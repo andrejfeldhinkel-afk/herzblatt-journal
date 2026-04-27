@@ -9,6 +9,15 @@ tags:
   - "Beziehungstipps"
   - "Work-Life-Balance"
   - "Ratgeber"
+faq:
+  - question: "Wie funktioniert eine Beziehung neben dem Fernstudium?"
+    answer: "Mit klaren Lernzeiten, fester Paar-Zeit, gegenseitiger Unterstuetzung und Verstaendnis fuer Phasen der Belastung."
+  - question: "Wie erkenne ich dass mein Studium die Beziehung belastet?"
+    answer: "Du erkennst es an Streits ueber Zeit, fehlender Naehe oder dem Gefuehl deinen Partner zu vernachlaessigen."
+  - question: "Ist es normal dass Studium die Beziehung stresst?"
+    answer: "Ja das ist normal. Aber mit Planung und Kommunikation laesst sich beides vereinen ohne dauerhaft zu leiden."
+  - question: "Wann sollte man Paargespraeche fuehren?"
+    answer: "Sobald sich beide gestresst fuehlen lohnt sich ein bewusstes Gespraech ueber Erwartungen und Grenzen."
 ---
 ## beziehung im Fernstudium: Nähe trotz Distanz
 

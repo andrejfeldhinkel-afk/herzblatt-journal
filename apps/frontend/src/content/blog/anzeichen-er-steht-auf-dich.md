@@ -9,6 +9,15 @@ tags:
   - "Körpersprache"
   - "Anzeichen"
   - "Flirten"
+faq:
+  - question: "Was sind die deutlichsten Anzeichen dass er auf mich steht?"
+    answer: "Deutliche Zeichen sind regelmaessiger Kontakt, intensiver Blickkontakt, koerperliche Naehe und echtes Interesse an deinem Leben."
+  - question: "Wie erkenne ich ob sein Interesse echt ist?"
+    answer: "Du erkennst echtes Interesse an Konstanz, Verlaesslichkeit und Bemuehen. Worte und Taten muessen zusammenpassen."
+  - question: "Ist es normal dass Maenner gemischte Signale senden?"
+    answer: "Ja das kommt vor. Aber wenn die Signale dauerhaft widerspruechlich sind, ist das oft ein Zeichen mangelnder Klarheit."
+  - question: "Wann sollte ich ihn direkt darauf ansprechen?"
+    answer: "Wenn die Anzeichen da sind aber er zoegert, lohnt sich ein offenes Gespraech ueber eure gemeinsame Richtung."
 ---
 
 > **Schnellantwort:** **Steht er auf mich?** Die deutlichsten Zeichen: Er sucht aktiv Augenkontakt, lacht über deine Witze, dreht den Körper zu dir, antwortet zeitnah auf Nachrichten, fragt nach Details aus deinem Leben und merkt sie sich, sucht Berührung und plant aktiv Zeit mit dir. Konsistenz über Wochen ist das Hauptkriterium.

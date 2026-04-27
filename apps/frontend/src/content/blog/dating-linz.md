@@ -9,6 +9,15 @@ tags:
   - "dating-spots"
   - "linz"
   - "österreich"
+faq:
+  - question: "Was macht Dating in Linz besonders?"
+    answer: "Linz ist modern, kreativ und unterschaetzt. Donau, Hafenviertel und die junge Kulturszene machen es ehrlicher und unkomplizierter als Wien."
+  - question: "Wo lernt man in Linz am besten Singles kennen?"
+    answer: "Du findest Singles in der Altstadt, im Lentos-Cafe an der Donau, in der Mural-Harbor-Szene und auf Hochschul-Events der Kunstuniversitaet."
+  - question: "Ist Linz eine gute Stadt zum Daten?"
+    answer: "Ja, Linz wird oft unterschaetzt. Die ueberschaubare Groesse macht Begegnungen persoenlicher, und die Kreativszene zieht offene Menschen an."
+  - question: "Welche Date-Ideen funktionieren in Linz besonders gut?"
+    answer: "Spaziergang am Donaupark, Besuch im Ars Electronica Center, Apero in der Altstadt oder ein Konzert in der Posthof sind klassische Linz-Dates."
 ---
 
 ## dating in Linz: Österreichs unterschätzte Stadt

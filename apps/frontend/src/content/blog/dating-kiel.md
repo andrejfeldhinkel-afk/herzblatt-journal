@@ -8,6 +8,15 @@ tags:
   - "Dating"
   - "dating-spots"
   - "kiel"
+faq:
+  - question: "Was macht Dating in Kiel besonders?"
+    answer: "Kiel bietet maritime Atmosphaere, Foerde, Strand und Hafenflair. Wasser ist immer Kulisse fuer Spaziergaenge oder romantische Abendrunden."
+  - question: "Wo lernt man in Kiel am besten Singles kennen?"
+    answer: "Du findest Singles an der Kiellinie, in Cafes der Holtenauer, in Bars im Schrevenpark-Viertel und auf Segel- oder Hochschul-Events."
+  - question: "Ist Kiel eine gute Dating-Stadt?"
+    answer: "Ja, die maritime Kulisse und die Studentenszene machen Kiel ehrlich und unkompliziert. Wassernah daten ist hier ein klarer Vorteil."
+  - question: "Welche Date-Ideen funktionieren in Kiel besonders gut?"
+    answer: "Spaziergang an der Kiellinie, Faehre nach Laboe, Drinks an der Holtenauer oder ein Strandbesuch in Falckenstein sind klassische Kieler Date-Optionen."
 ---
 
 ## dating in Kiel: Meer, Hafen, Romantik

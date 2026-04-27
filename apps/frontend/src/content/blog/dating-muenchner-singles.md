@@ -9,6 +9,15 @@ tags:
   - "München"
   - "Date-Ideen"
   - "Singles"
+faq:
+  - question: "Was macht Dating in Muenchen besonders?"
+    answer: "Muenchen verbindet bayerische Lebensart mit kosmopolitischer Note. Englischer Garten, Biergaerten und Isar bieten viele Date-Ideen das ganze Jahr."
+  - question: "Wo lernt man in Muenchen am besten Singles kennen?"
+    answer: "Du findest Singles im Englischen Garten, in Cafes der Maxvorstadt, in Bars in der Glockenbach-Szene und auf Events im Schwabinger Umfeld."
+  - question: "Ist Muenchen eine schwere Dating-Stadt?"
+    answer: "Muenchen gilt als anspruchsvoll mit hohen Lebenshaltungskosten. Wer sich aber auf Vereine, Sport und Hobbys einlaesst, findet schnell Verbindungen."
+  - question: "Welche Date-Ideen funktionieren in Muenchen besonders gut?"
+    answer: "Spaziergang im Englischen Garten, Biergartenbesuch, Surfwelle am Eisbach, Spaziergang an der Isar oder Brunch in Schwabing sind Muenchen-Klassiker."
 ---
 
 ## Dating in München: Ein umfassender Leitfaden zu den besten Locations und Treffpunkten

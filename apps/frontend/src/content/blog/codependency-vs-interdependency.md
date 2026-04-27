@@ -9,6 +9,15 @@ tags:
   - "Beziehungstipps"
   - "Psychologie"
   - "Ratgeber"
+faq:
+  - question: "Was ist der Unterschied zwischen Co-Abhaengigkeit und Verbundenheit?"
+    answer: "Co-Abhaengigkeit bedeutet Selbstaufgabe und Verschmelzung. Verbundenheit bedeutet Naehe bei erhaltener Eigenstaendigkeit."
+  - question: "Wie erkenne ich ob ich co-abhaengig bin?"
+    answer: "Du erkennst es daran dass du dich selbst aufgibst, fuer den anderen lebst und ohne ihn nicht weisst wer du bist."
+  - question: "Ist es normal sehr eng verbunden zu sein?"
+    answer: "Enge Naehe ist normal. Aber wenn beide ihre Eigenstaendigkeit verlieren, ist das ungesund."
+  - question: "Wann sollte ich therapeutische Hilfe holen?"
+    answer: "Wenn du dich selbst in der Beziehung verloren hast oder Muster aus der Kindheit erkennst, lohnt sich Therapie."
 ---
 
 ## Was ist Co-Abhängigkeit wirklich?

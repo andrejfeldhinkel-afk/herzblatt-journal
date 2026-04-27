@@ -8,6 +8,15 @@ tags:
   - "Dating"
   - "düsseldorf"
   - "orte"
+faq:
+  - question: "Was macht Dating in Duesseldorf besonders?"
+    answer: "Duesseldorf bietet Eleganz am Rhein, japanische Kultur, schicke Bars in der Altstadt und eine vielfaeltige Single-Szene mit hohem Stil-Anspruch."
+  - question: "Wo lernt man in Duesseldorf am besten Singles kennen?"
+    answer: "Du findest Singles in der Altstadt, beim Apero auf der Koe, am Rheinufer und in Szenebars in Flingern oder Pempelfort."
+  - question: "Ist Duesseldorf eine schwere Dating-Stadt?"
+    answer: "Duesseldorf gilt als oberflaechlich, doch wer abseits der Koe Vereine, kleine Bars und Kulturorte nutzt, findet authentische Verbindungen."
+  - question: "Welche Date-Ideen funktionieren in Duesseldorf gut?"
+    answer: "Spaziergang am Rhein, Sushi in Little Tokyo, Drinks in einer Flingern-Bar oder ein Besuch im K20 sind klassische Duesseldorf-Date-Optionen."
 ---
 
 ## dating In Düsseldorf: Tipps Und Hotspots

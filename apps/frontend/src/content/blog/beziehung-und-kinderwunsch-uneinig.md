@@ -9,6 +9,15 @@ tags:
   - "Beziehungskrise"
   - "Partnerschaft"
   - "Lebensplanung"
+faq:
+  - question: "Was tun wenn nur einer Kinder will?"
+    answer: "Ehrliche Gespraeche, Therapie zur Klaerung und am Ende die schwere Einsicht dass dieser Wunsch nicht verhandelbar sein darf."
+  - question: "Wie erkenne ich ob mein Kinderwunsch echt ist?"
+    answer: "Du erkennst ihn an einer tiefen Sehnsucht ueber Jahre die nicht verschwindet, auch wenn andere Argumente dagegen sprechen."
+  - question: "Ist es normal dass dieser Konflikt eine Beziehung beendet?"
+    answer: "Ja leider. Beim Kinderwunsch gibt es selten Kompromisse die beide langfristig gluecklich machen."
+  - question: "Wann sollte man Paartherapie machen?"
+    answer: "Sofort wenn der Konflikt da ist. Eine Therapie hilft ehrlich zu klaeren bevor Jahre verloren gehen."
 ---
 
 ## Uneinig beim Kinderwunsch: Ein Beziehungs-Dilemma

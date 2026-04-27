@@ -8,6 +8,15 @@ tags:
   - "Leidenschaft"
   - "Psychologie"
   - "Beziehungstipps"
+faq:
+  - question: "Was ist der Unterschied zwischen Liebe und Leidenschaft?"
+    answer: "Leidenschaft ist intensives koerperliches Begehren, Liebe ist tiefe Verbundenheit ueber Zeit. Beide sind verschieden, ergaenzen sich aber in stabilen Beziehungen."
+  - question: "Brauchst du wirklich beides in der Beziehung?"
+    answer: "Ja idealerweise. Reine Leidenschaft brennt aus, reine Liebe ohne Leidenschaft wirkt freundschaftlich. Die Mischung macht Beziehungen lebendig und bestaendig."
+  - question: "Ist es normal dass Leidenschaft mit der Zeit nachlaesst?"
+    answer: "Ja Hormone normalisieren sich nach ein bis zwei Jahren. Dafuer wachsen Vertrautheit und tiefe Liebe. Leidenschaft kann bewusst gepflegt werden."
+  - question: "Wie holst du Leidenschaft in eine ruhige Beziehung zurueck?"
+    answer: "Brecht Routinen, plant gemeinsame Abenteuer und nehmt euch koerperlich Zeit. Neue Erlebnisse aktivieren Dopamin und beleben Anziehung neu."
 ---
 ## Liebe vs. Leidenschaft: Braucht man beides?
 

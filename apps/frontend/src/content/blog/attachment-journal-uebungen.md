@@ -9,6 +9,15 @@ tags:
   - "Journaling"
   - "Übungen"
   - "Selbsthilfe"
+faq:
+  - question: "Was bringt ein Bindungsjournal?"
+    answer: "Ein Bindungsjournal hilft dir alte Muster zu erkennen, Trigger zu verstehen und neue sichere Reaktionen zu entwickeln."
+  - question: "Wie oft sollte ich Journal-Uebungen machen?"
+    answer: "Taeglich 10 bis 15 Minuten ist ideal. Kontinuitaet ist wichtiger als Laenge fuer echte Veraenderung."
+  - question: "Ist es normal dass die Uebungen Gefuehle ausloesen?"
+    answer: "Ja das ist normal und sogar erwuenscht. Gefuehle zu spueren ist Teil des Heilungsprozesses."
+  - question: "Wann sollte ich Therapie statt Journaling machen?"
+    answer: "Wenn alte Wunden oder Trauma hochkommen die dich ueberfordern, lohnt sich therapeutische Begleitung."
 ---
 
 ## Bindungsjournal: 30 Übungen für sichere bindung

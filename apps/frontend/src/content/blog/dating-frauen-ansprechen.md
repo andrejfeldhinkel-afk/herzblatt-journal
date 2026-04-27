@@ -9,6 +9,15 @@ tags:
   - "Flirten"
   - "Ansprechen"
   - "Männer-Ratgeber"
+faq:
+  - question: "Was ist der beste Weg, eine Frau anzusprechen?"
+    answer: "Sprich kontextbezogen ueber die Situation, nutze Beobachtung statt Standardspruch und behalte ehrliches Interesse, kein Tinder-Skript-Gefuehl."
+  - question: "Wie erkenne ich, ob sie offen fuer Ansprache ist?"
+    answer: "Du erkennst es an offener Koerperhaltung, Blickkontakt, einem Laecheln oder daran, dass sie ihre Kopfhoerer absetzt oder Tempo verlangsamt."
+  - question: "Ist Angst vor Ablehnung beim Ansprechen normal?"
+    answer: "Ja, voellig normal. Selbst erfahrene Flirter spueren Aufregung. Wichtig ist, dass die Angst dich nicht laehmt und du es trotzdem versuchst."
+  - question: "Was tun, wenn sie ablehnt oder kein Interesse zeigt?"
+    answer: "Bedanke dich freundlich, geh respektvoll weiter und nimm es nicht persoenlich. Ein Nein ist eine Filterung, kein Werturteil ueber dich."
 ---
 
 ## Frauen ansprechen: So gelingt der Kontakt

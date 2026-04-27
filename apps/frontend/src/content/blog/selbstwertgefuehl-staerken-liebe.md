@@ -8,6 +8,15 @@ tags:
   - "Psychologie"
   - "Beziehungstipps"
   - "Persönlichkeitsentwicklung"
+faq:
+  - question: "Was ist Selbstwertgefuehl genau?"
+    answer: "Selbstwertgefuehl ist die innere Ueberzeugung, wertvoll und liebenswert zu sein, unabhaengig von Leistung oder Bestaetigung von aussen."
+  - question: "Wie staerke ich mein Selbstwertgefuehl konkret?"
+    answer: "Pflege Selbstmitgefuehl, setze klare Grenzen, halte Versprechen an dich selbst und ueberpruefe innere Glaubenssaetze regelmaessig."
+  - question: "Ist niedriges Selbstwertgefuehl verbreitet?"
+    answer: "Sehr verbreitet. Studien zeigen, dass mehr als die Haelfte aller Menschen mit Selbstwertproblemen kaempft, oft unbewusst."
+  - question: "Beeinflusst Selbstwert wirklich meine Beziehungen?"
+    answer: "Ja, massiv. Niedriger Selbstwert zieht oft toxische Partner an und laesst dich Verhalten akzeptieren, das du nicht akzeptieren solltest."
 ---
 ## Selbstwertgefühl stärken für bessere Beziehungen
 

@@ -9,6 +9,15 @@ tags:
   - "Eltern werden"
   - "Partnerschaft"
   - "Beziehungstipps"
+faq:
+  - question: "Warum wird die Beziehung nach dem Baby oft schwer?"
+    answer: "Schlafmangel, neue Rollen, weniger Zeit zu zweit und unterschiedliche Belastungen koennen jede Beziehung an die Grenze bringen."
+  - question: "Wie erkenne ich dass wir Hilfe brauchen?"
+    answer: "Du erkennst es an staendigen Streits, Distanz, fehlender Naehe oder dem Gefuehl Mitbewohner statt Paar zu sein."
+  - question: "Ist es normal nach der Geburt eine Krise zu haben?"
+    answer: "Ja das ist sehr normal. Die meisten Paare erleben in den ersten 1 bis 2 Jahren eine Beziehungskrise."
+  - question: "Wann sollte man Paartherapie machen?"
+    answer: "Wenn ihr euch trotz Bemuehung entfremdet oder einer postpartale Symptome zeigt, lohnt sich professionelle Hilfe."
 ---
 
 ## beziehung retten nach der Geburt: Wie du deine Partnerschaft durch die härteste Zeit führst

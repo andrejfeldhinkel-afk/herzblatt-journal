@@ -9,6 +9,15 @@ tags:
   - "Beziehung"
   - "Zusammenleben"
   - "Kompromisse"
+faq:
+  - question: "Wie kann eine Beziehung mit verschiedenen Schlafrhythmen funktionieren?"
+    answer: "Mit bewussten gemeinsamen Zeiten am Anfang oder Ende des Tages und Akzeptanz fuer den Rhythmus des anderen."
+  - question: "Wie erkenne ich ob unser Rhythmus uns belastet?"
+    answer: "Du erkennst es an wenig gemeinsamer Zeit, fehlender Naehe oder dem Gefuehl euch kaum noch zu sehen."
+  - question: "Ist es normal dass Eulen und Lerchen sich finden?"
+    answer: "Ja das ist sehr normal. Mit Verstaendnis und Kompromissen funktioniert es. Es braucht aber bewusste Mehrarbeit."
+  - question: "Wann sollte man professionell ueber Rhythmen sprechen?"
+    answer: "Wenn extreme Rhythmen die Beziehung belasten, lohnt sich Schlafberatung oder Paartherapie."
 ---
 ## Eule liebt Lerche: beziehung mit anderem Rhythmus
 

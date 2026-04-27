@@ -12,6 +12,15 @@ tags:
   - "Psychologie"
   - "Selbstliebe"
 keywords: ["coming out beziehung", "coming out partner", "lgbtq beziehung", "sexuelle orientierung beziehung"]
+faq:
+  - question: "Wie geht eine Beziehung mit einem Coming-Out um?"
+    answer: "Mit Geduld, Ehrlichkeit und der Anerkennung dass beide Partner einen schmerzhaften Veraenderungsprozess durchmachen."
+  - question: "Wie erkenne ich ob mein Partner sich findet?"
+    answer: "Du erkennst es an Selbstreflexion, Therapie oder Coaching, Auseinandersetzung mit Identitaet und ehrlichen Gespraechen."
+  - question: "Ist es normal nach einem Coming-Out zu trennen?"
+    answer: "Ja das ist sehr normal. Viele Beziehungen halten dem nicht stand. Aber manche finden auch neue Formen der Verbindung."
+  - question: "Wann sollte man professionelle Hilfe holen?"
+    answer: "Sofort. Bei einem Coming-Out lohnt sich fuer beide Therapie um die Veraenderung gut zu durchleben."
 ---
 ## Coming-Out in der beziehung: Wenn du dich selbst findest während du jemanden liebst
 
