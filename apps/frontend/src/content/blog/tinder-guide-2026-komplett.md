@@ -370,7 +370,7 @@ Die beste Strategie? Nutze mehrere Apps gleichzeitig. Das erhöht deine Chancen 
 
 - [Die neuen Dating-Regeln 2026: Was wirklich funktioniert](/blog/moderne-dating-regeln/)
 - [Tinder Tipps für Männer — Mehr Matches, mehr Dates](/blog/tinder-tipps-maenner/)
-- [Das perfekte Dating-Profil](/blog/perfektes-dating-profil/)
+- [Das perfekte Dating-Profil](/blog/online-dating-profiltext/)
 - [Tinder Guide 2026: Mehr Matches, echte Dates](/blog/tinder-guide-komplett-2026/)
 
 

@@ -136,7 +136,7 @@ Auch eine Paartherapie kann sinnvoll sein. Wenn dein Partner bereit ist, dich da
 
 Der ängstliche Bindungsstil ist heilbar. Das ist die wichtigste Botschaft. Du bist nicht defekt. Dein System hat nur gelernt, dass es unsicher ist. Aber Systeme können neu lernen. Mit Geduld und Arbeit an dir selbst wirst du zu einer sicheren Bindung finden.
 
-Sieh dir auch [diese tiefe Analyse zum unsicheren Bindungsstil](/blog/inneres-kind-heilen-beziehung/) an oder lerne, [wie Stonewalling deine Beziehung belastet](/blog/stonewalling-was-tun/). Und wenn Konflikte entstehen, zeige ich dir, [wie du fair stritest](/blog/streiten-ohne-verletzen/).
+Sieh dir auch [diese tiefe Analyse zum unsicheren Bindungsstil](/blog/inner-child-beziehung/) an oder lerne, [wie Stonewalling deine Beziehung belastet](/blog/stonewalling-was-tun/). Und wenn Konflikte entstehen, zeige ich dir, [wie du fair stritest](/blog/streiten-ohne-verletzen/).
 
 Der Weg ist lang, aber lohnenswert. Du verdienst eine Beziehung, in der du entspannen kannst. Du verdienst Liebe, die sich sicher anfühlt.## Weiterlesen
 

@@ -143,6 +143,6 @@ Manchmal stimmt der erste Eindruck einfach. Bauchgefühl, Gespräch und Werte f�
 
 - [Liebe auf den zweiten Blick – Warum langsame Liebe stärker](/blog/liebe-auf-den-zweiten-blick/)
 - [Liebe finden mit 30: Dein bestes Jahrzehnt](/blog/liebe-finden-mit-30/)
-- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-dating/)
+- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-guide/)
 - [Bindungsstile im Dating: Warum du immer wieder an die](/blog/bindungsstile-dating/)
 - [Introvertiert liebt Extrovertiert](/blog/dating-introvertiert-extrovertiert-paar-guide/)

@@ -147,7 +147,7 @@ In solchen Fällen kann ein Paartherapeut oder Sexualtherapeut helfen zu klären
 
 Aber in den meisten Fällen: Es ist lösbar. Mit Verständnis, Kreativität und der Bereitschaft, den Partner dort zu treffen, wo er ist – nicht dort, wo du ihn haben möchtest.## Weiterlesen
 
-- [Unterschiedliche Libido in der Beziehung: Wenn einer mehr](/blog/beziehung-unterschiedliche-libido/)
+- [Unterschiedliche Libido in der Beziehung: Wenn einer mehr](/blog/beziehung-unterschiedliche-libido-loesungen/)
 - [Beziehung nach Elternschaft: Wie ihr als Paar wieder](/blog/beziehung-nach-elternschaft-zurueckfinden/)
 - [Intimität wieder aufbauen wenn sie verloren gegangen ist](/blog/intimitaet-wieder-aufbauen/)
 - [Kein Sex mehr in der Beziehung: Ursachen und Lösungen](/blog/kein-sex-mehr-beziehung-ursachen/)

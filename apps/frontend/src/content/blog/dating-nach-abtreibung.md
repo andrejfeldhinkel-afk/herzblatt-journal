@@ -140,7 +140,7 @@ Ihr konnt gemeinsam Therapie machen, wenn das Thema zu Hindernis wird. Paarthera
 ## Weiterlesen
 
 - [Beziehung aufbauen nach einer Depression: Hoffnung vorwärts](/blog/beziehung-nach-depression/)
-- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-toxischer-beziehung/)
+- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-narzisst/)
 - [Rebound-Beziehung erkennen und vermeiden](/blog/rebound-beziehung-erkennen/)
 - [Dating nach einer narzisstischen Beziehung: Heilung](/blog/dating-nach-narzisst/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)

@@ -818,7 +818,7 @@ Möchtest du mehr lernen? Sieh dir unsere verwandten Artikel an:
 - [Toxische Beziehung erkennen](/blog/toxische-beziehung-erkennen)
 - [Grenzen setzen](/blog/grenzen-setzen-beziehung)
 - [Emotionale Erpressung](/blog/emotionale-erpressung-beziehung)
-- [Red Flags erkennen](/blog/red-flags-erkennen)
+- [Red Flags erkennen](/blog/dating-red-flags-maenner-erkennen)
 
 Du schaffst das. Und du schuldest deinem Partner nichts — aber du darfst dir selbst alles schulden.
 

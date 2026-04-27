@@ -116,7 +116,7 @@ Nicht jede Zurückhaltung ist Commitment-Angst. Manchmal hat ein Partner berecht
 Wer berechtigte Bedenken hat, kann mit klaren Gesprächen Lösungen finden. Wer Commitment-Angst hat, fliegt aus jedem klärenden Gespräch raus, wird vage, weicht aus. Lerne den Unterschied.## Weiterlesen
 
 - [Commitment-Angst: Wenn die Liebe da ist, aber die Bindung](/blog/commitment-angst/)
-- [Situationship erkennen: 12 klare Zeichen](/blog/situationship-erkennen/)
-- [Bindungsangst überwinden: Warum du dich nicht einlassen](/blog/bindungsangst-ueberwinden/)
-- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/dating-als-introvertierter-mann/)
+- [Situationship erkennen: 12 klare Zeichen](/blog/situationship-guide/)
+- [Bindungsangst überwinden: Warum du dich nicht einlassen](/blog/bindungsangst-komplett-guide/)
+- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/introvertiert-dating/)
 - [Die Psychologie der Anziehung: Warum wir uns in bestimmte?](/blog/psychologie-der-anziehung/)

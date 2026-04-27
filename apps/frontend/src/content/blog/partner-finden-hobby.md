@@ -98,9 +98,9 @@ Also: Leg das Handy weg, geh raus und tu etwas, das dir Freude macht. Die Liebe 
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung), [Erstes Date Outfit: Was anziehen, um dich wohlzufühlen und zu beeindrucken](/blog/erstes-date-outfit).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung), [Erstes Date Outfit: Was anziehen, um dich wohlzufühlen und zu beeindrucken](/blog/erstes-date-tipps).## Weiterlesen
 
-- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/dating-als-introvertierter-mann/)
+- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/introvertiert-dating/)
 - [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Diese Signale senden Frauen beim Flirten – Männer übersehen](/blog/dating-signals-frauen/)
 - [Flirten lernen: Der komplette Guide von A bis Z](/blog/flirten-komplett-guide/)

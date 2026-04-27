@@ -210,4 +210,4 @@ Bleib wachsam, bleib sicher und bleib authentisch.
 - [Online-Dating Sicherheit: So schützt du dich beim](/blog/online-dating-sicherheit/)
 - [Lügen beim Online-Dating erkennen: So durchschaust du](/blog/online-dating-luegen-erkennen/)
 - [Dating-App-Sucht: Wenn Swipen zur Obsession wird](/blog/dating-app-sucht-erkennen/)
-- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-online-dating/)
+- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-dating-app/)

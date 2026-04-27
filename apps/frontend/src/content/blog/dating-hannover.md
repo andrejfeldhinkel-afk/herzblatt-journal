@@ -186,4 +186,4 @@ Und die Einfachheit wird Deine Stärke.
 - [Dating in Dresden: Singles und Spots](/blog/dating-dresden/)
 - [Dating in Düsseldorf: Tipps und Hotspots](/blog/dating-duesseldorf/)
 - [Dating als Ambivert: Dein Vorteil wenn du weder](/blog/dating-als-ambivert/)
-- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-dating/)
+- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-guide/)

@@ -114,7 +114,7 @@ Praktische Wege: Wählt einen primären Glauben, präsentiert den anderen als Fa
 
 Sucht Vorbilder: Es gibt mittlerweile viele Familien, die das erfolgreich leben. Bücher wie „Beyond the Choice" oder Online-Foren für interreligiöse Familien geben Erfahrungsberichte. Lernt von anderen, statt das Rad neu zu erfinden.## Weiterlesen
 
-- [Unterschiedliche Libido in der Beziehung: Wenn einer mehr](/blog/beziehung-unterschiedliche-libido/)
+- [Unterschiedliche Libido in der Beziehung: Wenn einer mehr](/blog/beziehung-unterschiedliche-libido-loesungen/)
 - [Beziehung mit Sprachbarriere: Liebe spricht alle Sprachen?](/blog/beziehung-unterschiedliche-sprachen/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 - [Offene Kommunikation: So sagst du was du denkst](/blog/beziehung-offene-kommunikation/)

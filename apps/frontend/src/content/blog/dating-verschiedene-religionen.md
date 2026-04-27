@@ -248,5 +248,5 @@ Das ist das Versprechen von Interfaith Liebe: Nicht, dass es einfach ist, sonder
 
 - [Dating mit Herpes: Ein ehrlicher Guide über Liebe mit STI](/blog/dating-mit-herpes-ehrlich/)
 - [Interkulturell Daten: Liebe über Kulturgrenzen hinweg](/blog/dating-kulturelle-unterschiede/)
-- [Dating über 40: Neustart in der Liebe — ehrlich und](/blog/dating-ueber-40/)
+- [Dating über 40: Neustart in der Liebe — ehrlich und](/blog/dating-ab-40/)
 - [Dating als Veganer: Liebe über den Tellerrand](/blog/dating-als-veganer/)

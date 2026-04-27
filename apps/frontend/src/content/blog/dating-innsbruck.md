@@ -180,7 +180,7 @@ Und die Berge werden euer Ort.
 Die Magie von Innsbruck ist echt.
 ## Weiterlesen
 
-- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-dating/)
+- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-guide/)
 - [Autismus und Dating: Liebe finden auf dem Spektrum](/blog/autismus-und-dating-guide/)
 - [Beige Flags — Die langweiligen Warnsignale beim Dating](/blog/beige-flags-dating-guide/)
 - [Bindungsstile im Dating: Warum du immer wieder an die](/blog/bindungsstile-dating/)

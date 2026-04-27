@@ -407,6 +407,6 @@ Das ist das Ziel. Das ist das Promise. Glauben es.
 ## Das könnte dich auch interessieren
 
 - [Schüchternheit überwinden beim Dating: Der komplette Guide](/blog/schuechternheit-ueberwinden-dating/)
-- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-fatigue-ueberwinden/)
+- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-nach-burnout/)
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden/)
 - [Unsicherheit beim Dating: Vertrauen in dich selbst entwickeln](/blog/dating-unsicherheit-ueberwinden/)

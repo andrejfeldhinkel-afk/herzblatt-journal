@@ -183,10 +183,10 @@ Großartige Paare sind nicht Menschen, die nie falsch sprechen. Sie sind Mensche
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten-kompletter-guide).## Weiterlesen
 
 - [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
 - [Beziehung & Social Media: Zwischen Eifersucht digitaler Nähe](/blog/beziehung-social-media/)
-- [Eifersucht in der Beziehung überwinden: So schaffst du es](/blog/eifersucht-beziehung-ueberwinden/)
+- [Eifersucht in der Beziehung überwinden: So schaffst du es](/blog/eifersucht-bekaempfen/)
 - [Gaslighting in der Beziehung: So erkennst du emotionale](/blog/gaslighting-beziehung/)
 - [Grenzen setzen in der Beziehung: Warum es Liebe stärkt statt](/blog/grenzen-setzen-beziehung/)

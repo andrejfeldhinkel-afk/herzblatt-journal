@@ -174,7 +174,7 @@ HSPs brauchen sanfte, aufmerksame Partner. Wenn das Sie sind, bist du großartig
 
 ## Abschließend
 
-Hochsensibel zu sein macht Dating manchmal schwieriger. Aber es bedeutet auch, dass Sie zu intensiver, bedeutungsvollerer Liebe fähig sind. Mit dem richtigen Partner und mit dem Verständnis Ihrer eigenen Natur, können Sie eine erfüllende, tiefe [Emotionale Abhängigkeit überwinden: Unabhängigkeit in Beziehungen](/blog/emotionale-abhaengigkeit), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
+Hochsensibel zu sein macht Dating manchmal schwieriger. Aber es bedeutet auch, dass Sie zu intensiver, bedeutungsvollerer Liebe fähig sind. Mit dem richtigen Partner und mit dem Verständnis Ihrer eigenen Natur, können Sie eine erfüllende, tiefe [Emotionale Abhängigkeit überwinden: Unabhängigkeit in Beziehungen](/blog/emotionale-abhaengigkeit), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten-kompletter-guide).## Weiterlesen
 
 - [Selbstliebe als Dating-Geheimwaffe: Warum du dich selbst](/blog/selbstliebe-dating/)
 - [Emotionale Abhängigkeit überwinden: Unabhängigkeit](/blog/emotionale-abhaengigkeit/)

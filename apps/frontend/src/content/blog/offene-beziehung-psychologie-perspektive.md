@@ -126,4 +126,4 @@ Hast du bereits Erfahrungen mit offenen Beziehungen gemacht? Was hast du über d
 
 - [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen)
 - [Beziehung & Social Media: Zwischen Eifersucht digitaler Nähe](/blog/beziehung-social-media)
-- [Eifersucht in der Beziehung überwinden: So schaffst du es](/blog/eifersucht-beziehung-ueberwinden)
+- [Eifersucht in der Beziehung überwinden: So schaffst du es](/blog/eifersucht-bekaempfen)

@@ -338,8 +338,15 @@ export default defineConfig({
     '/blog/ghosting-umgehen': { status: 301, destination: '/blog/ghosting-komplett-guide' },
     '/blog/dating-introvertiert-extrovertiert': { status: 301, destination: '/blog/dating-introvertiert-extrovertiert-paar-guide' },
     // Audit Stufe 2 (2026-04-14): Duplicate + Thin-Content-Merges
-    '/blog/bindungsangst-erkennen': { status: 301, destination: '/blog/bindungsangst-erkennen-ueberwinden' },
+    '/blog/bindungsangst-erkennen': { status: 301, destination: '/blog/bindungsangst-komplett-guide' },
     '/blog/dating-red-flags-erkennen-liste': { status: 301, destination: '/blog/dating-red-flags-komplett-guide' },
+    // Semrush-Audit (2026-04-27): Cannibalization-Cluster — situationship/demisexuell/hinge
+    '/blog/situationship-definieren-guide': { status: 301, destination: '/blog/situationship-guide' },
+    '/blog/situationship-erkennen-umgehen': { status: 301, destination: '/blog/situationship-guide' },
+    '/blog/demisexualitaet-dating-guide': { status: 301, destination: '/blog/demisexuell-dating-guide' },
+    '/blog/dating-demisexuell-langsam-verlieben': { status: 301, destination: '/blog/demisexuell-dating-guide' },
+    '/blog/hinge-test-erfahrungen': { status: 301, destination: '/blog/hinge-guide-deutsch-2026' },
+    '/blog/hinge-vs-bumble': { status: 301, destination: '/blog/hinge-guide-deutsch-2026' },
   },
   compressHTML: true,
   prefetch: {

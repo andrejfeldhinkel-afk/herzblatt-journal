@@ -792,4 +792,4 @@ Los geht's.
 - [Machtkampf in der Beziehung: Warum ihr gegeneinander statt](/blog/machtkampf-in-der-beziehung/)
 - [Selbstfürsorge in der Beziehung: Warum du dich zuerst lieben](/blog/selbstfuersorge-in-beziehung/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)

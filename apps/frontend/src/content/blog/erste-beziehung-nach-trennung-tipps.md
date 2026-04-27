@@ -186,6 +186,6 @@ Weil, die Wahrheit ist: Du kannst.
 
 ## Weiterführende Artikel
 
-- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung-wann-bereit)
+- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung)
 - [Ghosting verarbeiten: Wenn der Kontakt plötzlich abbricht](/blog/ghosting-verarbeiten-weitermachen)
 - [Dating nach häuslicher Gewalt: Der ehrliche Heilungsguide](/blog/dating-nach-gewalt-in-beziehung)

@@ -627,4 +627,4 @@ Du packst das.
 - [Online-Dating Langzeitstrategie: So findest du nachhaltig](/blog/online-dating-langzeitstrategie/)
 - [Multi-Dating: Mehrere Personen gleichzeitig daten — Ist das](/blog/online-dating-mehrere-personen-gleichzeitig/)
 - [Wie Dating-App Algorithmen wirklich funktionieren](/blog/online-dating-algorithmus/)
-- [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/online-dating-fotos/)
+- [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/dating-profile-fotos-tipps/)

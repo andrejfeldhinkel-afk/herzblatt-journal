@@ -129,7 +129,7 @@ Wichtig: Geld-Gesprache regelma?ig fuhren, nicht nur in Krisen. Quartalsweise zu
 ## Weiterlesen
 
 - [Dating und Alkohol – Wie viel ist beim Date okay?](/blog/dating-und-alkohol/)
-- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/dating-als-introvertierter-mann/)
+- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/introvertiert-dating/)
 - [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Dating-Knigge 2026: Die neuen Regeln der modernen Liebe](/blog/dating-etikette-2026/)
 - [Speed-Dating-Tipps: So überzeugst du sofort](/blog/speed-dating-tipps/)

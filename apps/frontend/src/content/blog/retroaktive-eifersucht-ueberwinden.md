@@ -270,7 +270,7 @@ Das ist das Versprechen am Ende dieser Arbeit.
 
 - [Eifersucht überwinden: Der komplette Guide](/blog/beziehung-und-eifersucht-ueberwinden/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Beziehung aufbauen nach einer Depression: Hoffnung vorwärts](/blog/beziehung-nach-depression/)
 - [Verlustangst in Beziehungen überwinden](/blog/verlustangst-bei-kindern-beziehung)
 - [Loslassen lernen: Der Weg zur emotionalen Freiheit](/blog/loslassen-lernen-liebe)

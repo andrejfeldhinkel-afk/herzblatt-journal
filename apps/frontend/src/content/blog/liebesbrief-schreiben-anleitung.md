@@ -312,6 +312,6 @@ Fang jetzt an. Grab dir ein Papier und einen Stift. Die Worte kommen von selbst 
 
 - [Ich-Botschaften in der Beziehung: So wirst du endlich gehört](/blog/ich-botschaften-beziehung/)
 - [Hochzeitstag feiern: 20 besondere Ideen](/blog/hochzeitstag-ideen-feiern/)
-- [Die 5 Liebessprachen: Test und Anleitung für Paare](/blog/liebessprachen-test-anleitung/)
+- [Die 5 Liebessprachen: Test und Anleitung für Paare](/blog/liebessprachen-komplett-guide/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
 - [Aktives Zuhören üben: Besser verstehen in 7 Schritten](/blog/aktives-zuhoeren-beziehung-ueben/)

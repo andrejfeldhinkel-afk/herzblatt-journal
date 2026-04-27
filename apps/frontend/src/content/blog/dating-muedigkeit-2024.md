@@ -137,7 +137,7 @@ Weitere Informationen findest du bei Psychologie Heute: [Psychologie Heute](http
 
 ## Weiterlesen
 
-- [Online-Dating-Müdigkeit: Wenn Swipen zur Last wird](/blog/online-dating-muedigkeit/)
+- [Online-Dating-Müdigkeit: Wenn Swipen zur Last wird](/blog/dating-nach-burnout/)
 - [Die Psychologie des Online-Datings: Warum wir swipen wie wir](/blog/online-dating-psychologie/)
 - [Online-Dating Langzeitstrategie: So findest du nachhaltig](/blog/online-dating-langzeitstrategie/)
 - [Lügen beim Online-Dating erkennen: So durchschaust du](/blog/online-dating-luegen-erkennen/)

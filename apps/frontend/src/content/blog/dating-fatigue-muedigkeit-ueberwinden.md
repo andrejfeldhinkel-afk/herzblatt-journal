@@ -90,6 +90,6 @@ Und vielleicht — ganz vielleicht — ist die beste Version deines Dating-Leben
 
 - [Attachment Styles: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating-verstehen/)
 - [Dating-App-Sucht: Wenn Swipen zur Obsession wird](/blog/dating-app-sucht-erkennen/)
-- [Frühwarnzeichen beim Dating: Worauf du achten solltest](/blog/dating-fruehwarnzeichen/)
+- [Frühwarnzeichen beim Dating: Worauf du achten solltest](/blog/dating-red-flags-maenner-erkennen/)
 - [Dating mit Depression: Ehrlich bleiben, ohne sich zu verlieren](/blog/dating-mit-depression/)
 - [Dating-Müdigkeit 2024: Wenn Swipen keinen Spaß mehr macht](/blog/dating-muedigkeit-2024/)

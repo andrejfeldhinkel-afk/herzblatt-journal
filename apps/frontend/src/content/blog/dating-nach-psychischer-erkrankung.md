@@ -162,6 +162,6 @@ Du schuldest dir selbst die Chance.
 - [Dating Fatigue verstehen](/blog/dating-fatigue-was-hilft/)## Weiterlesen
 
 - [Fleabagging — Warum du immer die falschen dattest](/blog/fleabagging-dating-pattern-guide/)
-- [Toxische Dating-Muster erkennen und durchbrechen:](/blog/toxische-dating-muster-durchbrechen/)
-- [Dating nach einer Ghosting-Erfahrung: Wieder vertrauen](/blog/dating-nach-ghosting-erfahrung/)
+- [Toxische Dating-Muster erkennen und durchbrechen:](/blog/toxische-beziehung-erkennen/)
+- [Dating nach einer Ghosting-Erfahrung: Wieder vertrauen](/blog/ghosting-umgehen-tipps/)
 - [Dating nach Jobverlust: Lohnt es sich trotzdem?](/blog/dating-nach-jobverlust/)

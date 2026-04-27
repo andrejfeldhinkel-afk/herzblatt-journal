@@ -754,9 +754,9 @@ Und du verdienst besser.
 
 ## Integration mit anderen Artikeln
 
-Verstehe wie Kontrolle mit [Bindungsstilen](/blog/attachment-style-aendern-sicher-werden) verbunden ist — kontrolle ist oft ein [innere Kindheit-Wunden](/blog/inneres-kind-heilen-beziehung) dein Kontrollbedarf antreiben.
+Verstehe wie Kontrolle mit [Bindungsstilen](/blog/attachment-style-aendern-sicher-werden) verbunden ist — kontrolle ist oft ein [innere Kindheit-Wunden](/blog/inner-child-beziehung) dein Kontrollbedarf antreiben.
 
-Und lerne über [emotionale Intelligenz](/blog/emotionale-intelligenz-dating) — das ist der Schlüssel um deine Angst zu regulieren statt deinen Partner zu kontrollieren.
+Und lerne über [emotionale Intelligenz](/blog/emotionale-intelligenz-beziehung) — das ist der Schlüssel um deine Angst zu regulieren statt deinen Partner zu kontrollieren.
 
 ## Das Fallbeispiel: Wie ein kontrolliender Mann sich ändert
 
@@ -1046,5 +1046,5 @@ Der Weg ist nicht schnell, aber es ist möglich. Du kannst dein Kontrollzwang ü
 - [Wenn die Schmetterlinge vergehen: Warum das der wahre Beginn](/blog/beziehung-wenn-schmetterlinge-vergehen/)
 - [Selbstfürsorge in der Beziehung: Warum du dich zuerst lieben](/blog/selbstfuersorge-in-beziehung/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Beziehung aufbauen nach einer Depression: Hoffnung vorwärts](/blog/beziehung-nach-depression/)

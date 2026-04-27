@@ -171,7 +171,7 @@ Eine der tiefsten Erkenntnisse, die du auf deinem Weg machen kannst, ist, dass d
 
 ## Das könnte dich auch interessieren
 
-- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-fatigue-ueberwinden/)
+- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-nach-burnout/)
 - [Körpersprache beim Dating richtig deuten](/blog/dating-koerpersprache-richtig-deuten/)
 - [Dating nach Burnout oder Depression](/blog/dating-nach-burnout/)
 - [Dating für Schüchterne: So überwindest du deine Hemmungen](/blog/dating-fuer-schuechterne-komplett/)

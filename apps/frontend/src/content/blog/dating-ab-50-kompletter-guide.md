@@ -91,7 +91,7 @@ Hier sind noch ein paar konkrete, praktische Dinge, die du im Hinterkopf behalte
 
 Wenn du noch mehr über die grundlegenden Strategien erfahren möchtest, schau dir unseren Guide [ultimativen Guide für Online-Dating](/blog/ultimativer-guide-online-dating).
 
-Für einen Überblick über die technischen Optionen haben wir auch einen detaillierten Artikel über die [Selbstliebe vor Partnersuche](/blog/selbstliebe-vor-partnersuche) helfen.
+Für einen Überblick über die technischen Optionen haben wir auch einen detaillierten Artikel über die [Selbstliebe vor Partnersuche](/blog/selbstliebe-dating) helfen.
 
 ## Fazit: Deine beste Zeit könnte vor dir liegen
 

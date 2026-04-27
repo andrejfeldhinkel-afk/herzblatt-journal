@@ -259,7 +259,7 @@ Das ist ok.
 
 ## Das könnte dich auch interessieren
 
-- [Friendzone entkommen – Geht das überhaupt?](/blog/freundschaftszone-entkommen/)
+- [Friendzone entkommen – Geht das überhaupt?](/blog/friendzone-entkommen-guide/)
 - [Der Ick beim Dating: Warum plötzlich alles anders ist](/blog/ick-dating-phaenomen-verstehen/)
 - [Standards vs. Checkliste: Warum Perfektion blockiert](/blog/dating-standards-vs-checkliste/)
 - [Single unter Druck: Wenn alle fragen warum Du allein bist](/blog/dating-bei-sozialem-druck-single/)

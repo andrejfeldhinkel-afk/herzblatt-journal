@@ -331,7 +331,7 @@ Das ist das Beste was du tun kannst: Dein eigenes Leben zurück.
 
 - [Männer verstehen: Die komplette Psychologie hinter](/blog/maenner-verstehen-psychologie/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Beziehung aufbauen nach einer Depression: Hoffnung vorwärts](/blog/beziehung-nach-depression/)
 - [Bindungsangst](/blog/bindungsangst-komplett-guide), übermäßige Abhängigkeit von Frauen oder emotionale Unreife.
 

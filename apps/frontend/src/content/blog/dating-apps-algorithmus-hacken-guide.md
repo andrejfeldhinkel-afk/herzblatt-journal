@@ -137,7 +137,7 @@ Und das ist der erste Schritt zu echte Konnektion.
 
 ---
 
-**Verwandte Artikel:** Erfahre auch über [erstes Date Tipps](/blog/erstes-date-outfit) und [Online-Dating Sicherheit](/blog/online-dating-sicherheit).
+**Verwandte Artikel:** Erfahre auch über [erstes Date Tipps](/blog/erstes-date-tipps) und [Online-Dating Sicherheit](/blog/online-dating-sicherheit).
 
 ## Konkretes Beispiel: Wie Marc seine Match-Rate verdoppelte
 

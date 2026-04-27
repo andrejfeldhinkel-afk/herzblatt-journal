@@ -597,7 +597,7 @@ Das ist die mathematische Realität. Ablehnung und Erfolg sind nicht Gegensätze
 
 Falls du dich fragst, wie du dein Profil noch weiter optimieren kannst, haben wir einen [umfassenden Guide zur Dating-App Profil Optimierung](/blog/dating-app-profil-optimieren) geschrieben.
 
-Für häufige Dating-Fehler, besonders für Männer, schau dir unseren Artikel über [die 7 häufigsten Dating-Fehler](/blog/dating-fehler-maenner) an.
+Für häufige Dating-Fehler, besonders für Männer, schau dir unseren Artikel über [die 7 häufigsten Dating-Fehler](/blog/dating-fehler-frauen) an.
 
 Und wenn deine erste Nachricht noch nicht optimiert ist, haben wir einen ganzen Guide zur [perfekten ersten Nachricht auf Dating-Apps](/blog/erste-nachricht-dating-app) — mit konkreten Beispielen, die funktionieren.
 

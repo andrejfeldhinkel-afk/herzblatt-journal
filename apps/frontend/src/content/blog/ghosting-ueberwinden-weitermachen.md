@@ -237,5 +237,5 @@ Und wenn du heilst, wirst du wissen, dass du besser verdient.
 
 - [Ghosting überwinden: Warum es passiert und wie du damit umgehst](/blog/ghosting-ueberwinden/)
 - [Ghosting verarbeiten: Wenn der Kontakt plötzlich abbricht](/blog/ghosting-verarbeiten-weitermachen/)
-- [Dating nach einer Ghosting-Erfahrung](/blog/dating-nach-ghosting-erfahrung/)
+- [Dating nach einer Ghosting-Erfahrung](/blog/ghosting-umgehen-tipps/)
 - [Ghosting – Warum es passiert und wie du damit umgehst](/blog/ghosting-umgehen-tipps/)

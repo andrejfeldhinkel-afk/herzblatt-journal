@@ -49,7 +49,7 @@ Deine unrealisierten Träume und Versagensgeschichten – das ist eine Falle. Vi
 
 "Ich bin kein großer Romantiker" (aber du bist doch), "Ich bin super chilled" (aber du nicht), "Ich bin über meinem Ex" (aber nicht wirklich), "Ich will ein ruhiges Leben" (aber du träumst von Abenteuer).
 
-Diese Lügen scheinen harmlos. Sie sind es nicht. Sie sind das Fundament, auf dem die [Beziehung](/blog/eifersucht-beziehung-ueberwinden/) gebaut ist. Und wenn die Wahrheit herauskommt – und sie kommt immer heraus – fühlt sich dein Partner betrogen. "Du hast mir bei den grundlegendsten Dingen gelogen. Was ist noch eine Lüge?"
+Diese Lügen scheinen harmlos. Sie sind es nicht. Sie sind das Fundament, auf dem die [Beziehung](/blog/eifersucht-bekaempfen/) gebaut ist. Und wenn die Wahrheit herauskommt – und sie kommt immer heraus – fühlt sich dein Partner betrogen. "Du hast mir bei den grundlegendsten Dingen gelogen. Was ist noch eine Lüge?"
 
 Sei stattdessen authentisch: "Ich bin ein Overthinker", "Ich bin sensibel", "Ich bin single aus einem Grund und ich arbeite an mir selbst." Diese Wahrheiten sind anziehender, als du denkst. Sie zeigen Selbstbewusstsein und Integrität.
 

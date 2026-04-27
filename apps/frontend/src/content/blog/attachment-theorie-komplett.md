@@ -272,7 +272,7 @@ Dein Bindungsstil ist wie ein Tagebuch deiner Kindheit – es erzählt eine Gesc
 
 ## Das könnte dich auch interessieren
 
-- [Bindungstypen verstehen: Einfluss auf dein Dating](/blog/attachment-styles-dating/)
+- [Bindungstypen verstehen: Einfluss auf dein Dating](/blog/attachment-styles-guide/)
 - [Vermeidender Bindungsstil: Warum du Nähe fürchtest und was hilft](/blog/avoidant-attachment-beziehung-guide/)
 - [Kommunikation in Beziehungen: Die Masterclass](/blog/beziehung-kommunikation-masterclass/)
 - [Beziehungsinventur: Der ehrliche Check ob deine Beziehung noch gesund ist](/blog/beziehungsinventur-guide/)

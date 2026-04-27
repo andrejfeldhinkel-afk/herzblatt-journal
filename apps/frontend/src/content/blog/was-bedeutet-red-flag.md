@@ -83,7 +83,7 @@ Nicht jede Unvollkommenheit ist eine Red Flag. Der Begriff wird heute inflation�
 - Sie hat Angst vor Bindung, spricht aber offen darüber
 - Eine schlechte Woche, in der Kommunikation schwierig war
 - Er ist introvertiert und braucht Zeit für sich
-- Sie hat eine andere Love Language als du (mehr dazu im [Love-Languages-Guide](/blog/love-languages-beziehung/))
+- Sie hat eine andere Love Language als du (mehr dazu im [Love-Languages-Guide](/blog/liebessprachen-komplett-guide/))
 
 **Red Flag:**
 - Ein wiederkehrendes Muster, das trotz Gespräch nicht aufhört

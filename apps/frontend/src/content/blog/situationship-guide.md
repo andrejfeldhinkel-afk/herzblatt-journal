@@ -18,7 +18,7 @@ faq:
 ---
 ## Situationship – Was tun, wenn es mehr als Freundschaft aber keine beziehung ist?
 
-Sie treffen diese Person regelmäßig. Manchmal haben Sie Sex. Sie kümmern sich umeinander und verbringen Quality Time zusammen. Aber „Was sind wir?" bleibt eine unbeantwortete Frage. Willkommen in einer [Situationship](/blog/situationship-erkennen-umgehen) – einem modernen Phänomen der Unklarheit, das Millionen verwirrt und frustriert zurücklässt.
+Sie treffen diese Person regelmäßig. Manchmal haben Sie Sex. Sie kümmern sich umeinander und verbringen Quality Time zusammen. Aber „Was sind wir?" bleibt eine unbeantwortete Frage. Willkommen in einer [Situationship](/blog/situationship-guide) – einem modernen Phänomen der Unklarheit, das Millionen verwirrt und frustriert zurücklässt.
 
 In diesem Leitfaden erkunden wir, was eine Situationship ist, warum sie entstehen, wie man sie navigiert und vor allem – wie man sie entweder in eine echte Beziehung umwandelt oder respektvoll beendet.
 
@@ -234,6 +234,6 @@ Situationships sind Versuche, die unmöglich zu haben – Nähe ohne Verantwortu
 
 Das gute Nachrichten: Sie haben die Macht, diese Situation zu ändern. Sie können Klarheit von anderen verlangen. Sie können Grenzen setzen. Sie können gehen. Und Sie sollten.
 
-Das Leben ist zu kurz, um Jahre in jemandem zu investieren, der sich nicht entscheiden kann. Wenn Sie mehr Klarheit über die Grundlagen der Datierung möchten, lesen Sie unseren [Online-Dating-Guide](/blog/online-dating-frauen-guide). Für Ratschläge nach einem Treffen, konsultieren Sie [Erstes Date Guide](/blog/erstes-date-outfit).
+Das Leben ist zu kurz, um Jahre in jemandem zu investieren, der sich nicht entscheiden kann. Wenn Sie mehr Klarheit über die Grundlagen der Datierung möchten, lesen Sie unseren [Online-Dating-Guide](/blog/online-dating-frauen-guide). Für Ratschläge nach einem Treffen, konsultieren Sie [Erstes Date Guide](/blog/erstes-date-tipps).
 
 Die beste Situation ist eine, in der beide Menschen wissen, wo sie stehen. Verlangen Sie das für sich selbst. Sie verdienen es.

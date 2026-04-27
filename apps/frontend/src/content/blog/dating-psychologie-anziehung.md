@@ -336,6 +336,6 @@ Die beste Nachricht: Du brauchst nicht geboren zu sein, um "perfekt" zu sein. Du
 
 - [Die Psychologie der Anziehung: Warum wir uns in bestimmte?](/blog/psychologie-der-anziehung/)
 - [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
-- [Dating für Introvertierte: Tipps zum Finden von Liebe](/blog/dating-introvertierte/)
-- [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/online-dating-fotos/)
+- [Dating für Introvertierte: Tipps zum Finden von Liebe](/blog/introvertiert-dating/)
+- [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/dating-profile-fotos-tipps/)
 - [Schüchternheit überwinden beim Dating: Der komplette Guide](/blog/schuechternheit-ueberwinden-dating/)

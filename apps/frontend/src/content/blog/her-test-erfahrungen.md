@@ -443,6 +443,6 @@ Die **Preise sind fair** — 14,99 € für Premium ist im Vergleich zu Bumbles 
 
 ## Weiterführende Artikel
 
-- [Queer Dating 2026: Die besten Apps für LGBTQ+-Menschen im Vergleich](/blog/beste-dating-apps-2026)
+- [Queer Dating 2026: Die besten Apps für LGBTQ+-Menschen im Vergleich](/blog/dating-app-vergleich-2026)
 - [Als queere Frau online daten: Tipps für mehr Sicherheit](/blog/dating-introvertiert-online-tipps)
 - [Coming-out und Dating: Wann und wie du es kommunizierst](/blog/dating-nach-coming-out)

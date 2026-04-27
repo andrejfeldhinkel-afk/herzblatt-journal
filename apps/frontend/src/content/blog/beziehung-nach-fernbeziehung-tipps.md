@@ -121,4 +121,4 @@ Die Fernbeziehung war die Phase, in der ihr euch kennenlernt. Das Zusammenleben 
 - [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung/)
 - [Von Mitbewohnern zu Liebenden: Wenn aus der WG Liebe wird](/blog/beziehung-nach-gemeinsamer-wg/)
 - [Fernbeziehung meistern: 25 Tipps für eine starke Liebe auf](/blog/fernbeziehung-tipps/)
-- [Erste Beziehung – Was du wissen musst typische](/blog/erste-beziehung-tipps/)
+- [Erste Beziehung – Was du wissen musst typische](/blog/erste-beziehung-tipps-guide/)

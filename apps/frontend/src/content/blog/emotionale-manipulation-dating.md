@@ -119,7 +119,7 @@ Die Liebe, die dü verdienst, ist nicht mit Spielen oder Manipulationen begleite
 Warte dafür. Nicht weniger.## Weiterlesen
 
 - [Emotionale Verfügbarkeit beim Dating](/blog/emotionale-verfuegbarkeit-dating/)
-- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-fatigue-ueberwinden/)
+- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-nach-burnout/)
 - [Dating mit sozialer Angststörung](/blog/dating-mit-sozialer-angst/)
 - [Dating nach Burnout oder Depression: Wann bin ich bereit](/blog/dating-nach-burnout/)
 - [Die Psychologie der Anziehung: Warum wir uns in bestimmte?](/blog/psychologie-der-anziehung/)

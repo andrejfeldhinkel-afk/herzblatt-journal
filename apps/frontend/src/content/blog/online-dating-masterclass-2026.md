@@ -345,7 +345,7 @@ Viel Erfolg beim Dating.
 
 ## Das könnte dich auch interessieren
 
-- [10 Online-Dating Fehler die fast jeder macht](/blog/online-dating-fehler/)
+- [10 Online-Dating Fehler die fast jeder macht](/blog/dating-fehler-frauen/)
 - [Online-Dating Profiltipps – So wirst du gesehen und gemocht](/blog/online-dating-profiltipps/)
 - [Online-Dating ohne Zeitverschwendung : Der Effizienz-Guide](/blog/online-dating-zeitmanagement/)
 - [Online-Dating-Profil optimieren: Guide für Männer](/blog/online-dating-profil-optimieren-maenner/)

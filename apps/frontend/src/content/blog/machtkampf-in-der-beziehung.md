@@ -745,7 +745,7 @@ Der erste Schritt ist zu erkennen, wo ihr seid. Du hast das gerade getan, indem 
 
 ## Weiterführende Ressourcen
 
-- [Richtig streiten in der Beziehung](/blog/richtig-streiten-beziehung)
+- [Richtig streiten in der Beziehung](/blog/beziehung-streit-guide)
 - [Konfliktlösung in Beziehungen](/blog/konfliktloesung-in-beziehungen)
 - [Gottman Vier Apokalyptische Reiter](/blog/gottman-vier-apokalyptische-reiter)
 - [Stonewalling in der Beziehung](/blog/stonewalling-beziehung)
@@ -755,5 +755,5 @@ Der erste Schritt ist zu erkennen, wo ihr seid. Du hast das gerade getan, indem 
 - [Erwartungen in der Beziehung: Wann sie helfen — und wann sie](/blog/erwartungen-in-der-beziehung/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 - [Neid in der Beziehung: Wenn du deinem Partner seinen Erfolg](/blog/neid-in-der-beziehung/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Beziehung retten: Der ehrliche Guide wenn es die letzte](/blog/beziehung-retten-letzte-chance/)

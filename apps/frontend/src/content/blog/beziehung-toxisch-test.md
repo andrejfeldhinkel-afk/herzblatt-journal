@@ -233,6 +233,6 @@ Wenn du dich in dieser Situation befindest, mache heute einen kleinen Schritt. R
 
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
 - [Die Kraft der Berührung: Warum körperliche Nähe heilt](/blog/beruehrungen-beziehung-bedeutung/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Beziehung aufbauen nach einer Depression: Hoffnung vorwärts](/blog/beziehung-nach-depression/)
 - [Nach Vertrauensbruch: Heilung finden](/blog/beziehung-nach-vertrauensbruch/)

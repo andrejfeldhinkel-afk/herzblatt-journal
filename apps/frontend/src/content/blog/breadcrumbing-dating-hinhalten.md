@@ -272,4 +272,4 @@ Gib nicht auf. Glaube an dich selbst. Und vertraue, dass die beste Version deine
 - [Breadcrumbing erkennen: Hingehalten werden beim Dating](/blog/breadcrumbing-dating-erkennen/)
 - [Dating App Sucht erkennen – Wenn Dating Dich kontrolliert](/blog/dating-app-sucht-erkennen/)
 - [Unsicherheit beim Dating: Vertrauen in dich selbst entwickeln](/blog/dating-unsicherheit-ueberwinden/)
-- [Demisexuell: Wenn Liebe langsam wächst](/blog/dating-demisexuell-langsam-verlieben/)
+- [Demisexuell: Wenn Liebe langsam wächst](/blog/demisexuell-dating-guide/)

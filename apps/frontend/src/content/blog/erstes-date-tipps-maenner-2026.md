@@ -2,7 +2,7 @@
 title: "Erstes Date als Mann: Was wirklich zählt (jenseits der üblichen Klischees)"
 description: "Erstes Date als Mann 2026: Was Frauen wirklich bemerken, aktives Zuhören, Body Language und die echten Erfolgsfaktoren jenseits der typischen Dating-Tipps."
 date: 2026-04-27
-image: "/images/blog/erstes-date-gespraeche-fuehren.webp"
+image: "/images/blog/erstes-date-tipps.webp"
 imageAlt: "Erstes Date Tipps Maenner"
 tags:
   - "Dating"

@@ -904,5 +904,5 @@ Viel Glück.
 
 - [Dating über 50: Der komplette Guide für die zweite Lebenshälfte](/blog/dating-ueber-50-kompletter-guide/)
 - [Dating über 50 als Frau: Neustart mit Selbstbewusstsein](/blog/dating-nach-50-frauen/)
-- [Dating über 40: Neustart in der Liebe — ehrlich und](/blog/dating-ueber-40/)
+- [Dating über 40: Neustart in der Liebe — ehrlich und](/blog/dating-ab-40/)
 - [Liebe finden über 50: Dating im reifen Alter](/blog/liebe-finden-ueber-50/)

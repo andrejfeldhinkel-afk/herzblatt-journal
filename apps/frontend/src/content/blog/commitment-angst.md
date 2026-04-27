@@ -125,10 +125,10 @@ In jüngeren Studien zeigt sich auch: Mit zunehmendem Alter verschiebt sich die 
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-guide), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten-kompletter-guide).## Weiterlesen
 
 - [Commitment Issues: Wenn die Angst vor Bindung alles](/blog/commitment-issues-erkennen/)
 - [Commitment Phobia — Warum manche Menschen sich nie festlegen](/blog/commitment-phobia-bindungsangst-guide/)
-- [Bindungsangst überwinden: Warum du dich nicht einlassen](/blog/bindungsangst-ueberwinden/)
+- [Bindungsangst überwinden: Warum du dich nicht einlassen](/blog/bindungsangst-komplett-guide/)
 - [Sexuelle Kompatibilität in Beziehungen: Warum es wichtig ist](/blog/sexuelle-kompatibilitaet/)
 - [Bindungsstil ändern: Wie du von unsicher zu sicher wirst](/blog/attachment-style-aendern-sicher-werden/)

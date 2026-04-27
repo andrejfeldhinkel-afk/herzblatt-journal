@@ -1121,7 +1121,7 @@ Falls ihr merkt, dass ihr Unterst체tzung braucht: Hier sind ein paar konkrete N�
 
 **B체cher, die helfen:**
 - "Gewaltfreie Kommunikation" von Marshall Rosenberg (f체r bessere Konfliktkultur)
-- "The 5 [Love Languages](/blog/love-languages-beziehung/)" von Gary Chapman (um zu verstehen, wie der Partner sich geliebt f체hlt)
+- "The 5 [Love Languages](/blog/liebessprachen-komplett-guide/)" von Gary Chapman (um zu verstehen, wie der Partner sich geliebt f체hlt)
 - "Attached" von Amir Levine und Rachel Heller (um [Bindungsstile](/bindungsstile/) zu verstehen)
 - "Hold Me Tight" von Sue Johnson (um emotionale N채he zu vertiefen)
 
@@ -1165,6 +1165,6 @@ Also: Wann machst du deine Beziehungsinventur?
 
 - [Emotionsregulation in Beziehungen: Wie du lernst, deine](/blog/emotionsregulation-beziehung-guide/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
-- [Introvertiert liebt Extrovertiert: Wie gegens채tzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegens채tzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Beziehung retten: Der ehrliche Guide wenn es die letzte](/blog/beziehung-retten-letzte-chance/)
 - [Verschiedene Lebenspl채ne in der Beziehung: Wenn Liebe allein](/blog/beziehung-verschiedene-lebensplaene/)

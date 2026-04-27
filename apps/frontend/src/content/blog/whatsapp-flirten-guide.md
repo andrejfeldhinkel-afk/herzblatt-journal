@@ -138,7 +138,7 @@ Verschiedene Menschen und verschiedene Kulturen haben unterschiedliche Kommunika
 
 - [Körpersprache beim Flirten – 12 Signale richtig deuten](/blog/koerpersprache-flirten/)
 - [WhatsApp-Dating: Regeln für das Schreiben mit dem Schwarm](/blog/whatsapp-dating-regeln/)
-- [Dating über WhatsApp: Tipps für bessere Chats](/blog/dating-ueber-whatsapp/)
+- [Dating über WhatsApp: Tipps für bessere Chats](/blog/texting-regeln-dating/)
 - [Ghosting](/blog/ghosting-komplett-guide) um?
 
 Ghosting ist, wenn jemand plötzlich aufhört zu antworten und alle Kommunikation abbricht, ohne Erklärung. Das kann schmerzhaft sein, aber es ist wichtig, nicht persönlich zu nehmen. Ghosting sagt mehr über die andere Person aus als über dich. Es zeigt, dass sie nicht die Reife oder Respekt hat, um ordnungsgemäß kommunizieren zu können. Das Beste ist, sich einfach hinzustellen und nicht zu viel Energie in diese Person zu investieren. Sende keine multiplen Nachrichten, die versuchen, ihre Aufmerksamkeit zurückzubekommen. Das wird nur desperate wirken. Akzeptiere es, move on und konzentriere dich auf Menschen, die dich wirklich wertschätzen und respektieren. Die richtige Person wird dich nicht ghosten.

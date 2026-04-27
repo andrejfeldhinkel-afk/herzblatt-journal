@@ -1033,5 +1033,5 @@ Das ist das Ziel: Nicht eine Welt ohne Verliebtheit. Sondern eine Welt, in der w
 ## Weitere Ressourcen
 
 - [Liebeskummer überwinden: Ein praktischer Leitfaden](/blog/liebeskummer-ueberwinden-schnell/)
-- [Red Flags in neuen Beziehungen erkennen](/blog/red-flags-erkennen)
+- [Red Flags in neuen Beziehungen erkennen](/blog/dating-red-flags-maenner-erkennen)
 - [Emotionale Verfügbarkeit: Was es bedeutet und warum es wichtig ist](/blog/emotionale-verfuegbarkeit-dating)

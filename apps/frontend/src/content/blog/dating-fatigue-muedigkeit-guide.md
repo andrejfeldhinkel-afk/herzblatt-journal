@@ -303,4 +303,4 @@ Und dann, wenn du bereit bist, wenn dein Herz heilt, wenn dein Leben voll ist wi
 
 ---
 
-**Verwandte Artikel:** Erfahre wie du [dich selbst liebst while dating](/blog/selbstliebe-vor-partnersuche) und wie du [Erwartungen beim Dating managest](/blog/dating-perfektionismus).
+**Verwandte Artikel:** Erfahre wie du [dich selbst liebst while dating](/blog/selbstliebe-dating) und wie du [Erwartungen beim Dating managest](/blog/dating-perfektionismus).

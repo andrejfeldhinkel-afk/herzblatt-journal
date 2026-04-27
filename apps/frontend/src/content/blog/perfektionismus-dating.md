@@ -88,12 +88,12 @@ Gib dir selbst die Erlaubnis zu heilen, bevor du wieder dating versuchst. Arbeit
 
 ## Weiterlesen
 
-- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/dating-als-introvertierter-mann/)
-- [Dating Burnout – Wenn die Partnersuche zur Belastung wird](/blog/dating-burnout/)
+- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/introvertiert-dating/)
+- [Dating Burnout – Wenn die Partnersuche zur Belastung wird](/blog/dating-nach-burnout/)
 
 Hilfreiche Ressourcen findest du bei Neurologen und Psychiater im Netz: [Neurologen und Psychiater im Netz](https://www.neurologen-und-psychiater-im-netz.org/)
 
 Mehr zum Thema erfährst du auf Psychologie Heute: [Psychologie Heute](https://www.psychologie-heute.de/)
-- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-fatigue-ueberwinden/)
+- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-nach-burnout/)
 - [Dating als hochsensibler Mann: Tiefe statt Fassade](/blog/dating-hochsensible-maenner/)
 - [Dating mit ADHS – Herausforderungen und Stärken](/blog/dating-mit-adhd/)

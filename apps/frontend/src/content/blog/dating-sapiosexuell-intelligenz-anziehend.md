@@ -149,5 +149,5 @@ Das ist das Gegenteil von "Ich habe Recht, du hast Unrecht". Das ist "Interessan
 
 Wenn das Funken Gespräch fließt und ihr beide einander intellektuell fasziniert: Das ist deine Chemie.
 
-## Sapiosexuell sein und sich [Emotionale Intelligenz im Dating](/blog/emotionale-intelligenz-dating)
+## Sapiosexuell sein und sich [Emotionale Intelligenz im Dating](/blog/emotionale-intelligenz-beziehung)
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)

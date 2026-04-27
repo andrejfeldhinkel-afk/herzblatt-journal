@@ -242,4 +242,4 @@ Und das ist auch OK. Manchmal ist das beste Ding, das du für beide tun kannst, 
 - [Beziehung langweilig? 20 Dinge die helfen](/blog/beziehung-langweilig-was-tun/)
 - [Beziehung nach 10 Jahren: Liebe neu entfachen](/blog/beziehung-nach-10-jahren/)
 - [Offene Kommunikation: So sagst du was du denkst](/blog/beziehung-offene-kommunikation/)
-- [Beziehung retten: Praktische Strategien](/blog/beziehung-retten/)
+- [Beziehung retten: Praktische Strategien](/blog/beziehung-retten-kompletter-guide/)

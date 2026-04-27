@@ -124,5 +124,5 @@ Nach einer schmerzhaften Erfahrung wird neues Vertrauen langsam aufgebaut, nicht
 ## Weiterlesen
 
 - [Emotionaler Missbrauch in Beziehungen – Warnsignale erkennen](/blog/emotionaler-missbrauch-erkennen/)
-- [Erstrelation Tipps – Der Start richtig machen](/blog/erste-beziehung-tipps/)
+- [Erstrelation Tipps – Der Start richtig machen](/blog/erste-beziehung-tipps-guide/)
 - [Er meldet sich nicht mehr — 8 Gründe und was du tun solltest](/blog/er-meldet-sich-nicht-mehr/)

@@ -189,6 +189,6 @@ Das ist Slow Dating. Und es könnte genau das sein, das du suchtest.
 ## Das könnte dich auch interessieren
 
 - [Dating Red Flags bei Männern erkennen](/blog/dating-red-flags-maenner-erkennen/)
-- [Slow Dating – Warum weniger Matches zu mehr Liebe führen](/blog/slow-dating-trend/)
+- [Slow Dating – Warum weniger Matches zu mehr Liebe führen](/blog/slow-dating-guide/)
 - [Dating mit Behinderung: Inklusion in der Partnersuche](/blog/dating-mit-behinderung-inklusion/)
 - [Dopamin-Falle beim Dating](/blog/dopamin-dating-sucht-ueberwinden/)

@@ -210,7 +210,7 @@ Der Schlüssel ist, an den Mustern zu arbeiten, bevor sie zu tiefgegriebenen Gew
 
 ## Das könnte dich auch interessieren
 
-- [Toxische Dating-Muster erkennen und durchbrechen](/blog/toxische-dating-muster-durchbrechen/)
+- [Toxische Dating-Muster erkennen und durchbrechen](/blog/toxische-beziehung-erkennen/)
 - [Manipulative Beziehungsmuster durchbrechen](/blog/manipulative-beziehungsmuster-durchbrechen/)
 - [Dein Streitmuster erkennen und durchbrechen](/blog/beziehung-streitmuster-erkennen/)
 - [Beziehung ohne Sex: Ursachen, Lösungen und Wichtiges](/blog/beziehung-ohne-sex/)

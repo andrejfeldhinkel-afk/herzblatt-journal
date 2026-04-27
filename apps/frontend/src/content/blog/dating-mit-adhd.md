@@ -116,7 +116,7 @@ Beide Geschlechter profitieren von klarer Kommunikation. Wer ADHS hat, sollte fr
 ## Weiterlesen
 
 - [Dating mit sozialer Angststörung](/blog/dating-mit-sozialer-angst/)
-- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/dating-als-introvertierter-mann/)
-- [Dating Burnout – Wenn die Partnersuche zur Belastung wird](/blog/dating-burnout/)
-- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-fatigue-ueberwinden/)
+- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/introvertiert-dating/)
+- [Dating Burnout – Wenn die Partnersuche zur Belastung wird](/blog/dating-nach-burnout/)
+- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-nach-burnout/)
 - [Dating als hochsensibler Mann: Tiefe statt Fassade](/blog/dating-hochsensible-maenner/)

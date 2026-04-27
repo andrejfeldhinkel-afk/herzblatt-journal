@@ -320,7 +320,7 @@ Wir haben viel über Fragen und Gesprächsthemen geredet. Aber körpersprache is
 
 ## Das könnte dich auch interessieren
 
-- [Gespräche auf dem ersten Date – So wird es nie peinlich](/blog/erstes-date-gespraeche-fuehren/)
+- [Gespräche auf dem ersten Date – So wird es nie peinlich](/blog/erstes-date-tipps/)
 - [Valentinstag: 15 Date-Ideen die mehr als Blumen sagen](/blog/valentinstag-date-ideen/)
 - [Gespräche am Laufen halten: Nie mehr Stille](/blog/gespraeche-am-laufen-halten/)
 - [50 Gesprächsstarter fürs Date die wirklich funktionieren](/blog/dating-gespraeche-starter/)

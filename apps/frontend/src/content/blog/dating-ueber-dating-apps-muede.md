@@ -176,7 +176,7 @@ Es könnte das beste Entscheidung sein, die du jemals über dein Dating-Leben ma
 
 ## Das könnte dich auch interessieren
 
-- [Dating über WhatsApp: Tipps für bessere Chats](/blog/dating-ueber-whatsapp/)
+- [Dating über WhatsApp: Tipps für bessere Chats](/blog/texting-regeln-dating/)
 - [Dating über 50: Dein Neustart ist möglich](/blog/dating-ueber-50-neustart/)
 - [Was Männer auf Dating-Apps sofort abturnt](/blog/was-maenner-auf-dating-apps-abturnt/)
 - [Dating-App-Sucht: Wann Swipen zur Obsession wird](/blog/dating-apps-sucht-erkennen/)

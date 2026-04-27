@@ -364,7 +364,7 @@ Das kostet Geld. Aber die Alternative ist eine auseinanderfallende Beziehung.
 
 ## Weiterlesen
 
-- [Dating Burnout – Wenn die Partnersuche zur Belastung wird](/blog/dating-burnout/)
+- [Dating Burnout – Wenn die Partnersuche zur Belastung wird](/blog/dating-nach-burnout/)
 - [Bedürfnisse kommunizieren ohne Vorwürfe](/blog/beduerfnisse-kommunizieren-beziehung/)
 - [Die Kraft der Berührung: Warum körperliche Nähe heilt](/blog/beruehrungen-beziehung-bedeutung/)
 - [Beziehung auffrischen: 30 kreative Ideen](/blog/beziehung-auffrischen-ideen/)

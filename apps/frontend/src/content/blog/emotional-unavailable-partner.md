@@ -139,6 +139,6 @@ Du verdienst jemanden, der dich sieht, der dich hört, und der nicht so tut, als
 ## Das könnte dich auch interessieren
 
 - [Emotional unerreichbarer Partner: Warum du an eine Wand redest — und was du tun kannst](/blog/emotional-unerreichbarer-partner/)
-- [Bindungsangst überwinden: Warum du dich nicht einlassen kannst und was hilft](/blog/bindungsangst-ueberwinden/)
+- [Bindungsangst überwinden: Warum du dich nicht einlassen kannst und was hilft](/blog/bindungsangst-komplett-guide/)
 - [Partner redet nicht über Gefühle: So erreichst du ihn](/blog/partner-redet-nicht-ueber-gefuehle/)
 - [Mein Partner nimmt mich nicht ernst — was tun?](/blog/partner-nimmt-mich-nicht-ernst/)

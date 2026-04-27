@@ -167,8 +167,8 @@ Plattformen wie Lebensfreude50, ElitePartner oder Parship sind oft besser als Ti
 
 ## Weiterlesen
 
-- [Dating ab 40: Neustart in der Lebensmitte](/blog/dating-nach-40-neustart/)
+- [Dating ab 40: Neustart in der Lebensmitte](/blog/dating-ab-40/)
 - [Dating und Beziehung nach schwierigen Lebensentscheidungen](/blog/dating-nach-abtreibung/)
 - [Vom besten Freund zum Partner](/blog/dating-nach-freundschaft/)
 - [Dating nach Gewaltbeziehung: Sicher neu starten](/blog/dating-nach-gewaltbeziehung/)
-- [Dating nach einer Langzeitbeziehung: Ein kompletter Neustart](/blog/dating-nach-langzeitbeziehung/)
+- [Dating nach einer Langzeitbeziehung: Ein kompletter Neustart](/blog/dating-nach-trennung/)

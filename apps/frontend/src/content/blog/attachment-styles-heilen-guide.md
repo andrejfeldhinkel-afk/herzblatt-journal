@@ -905,6 +905,6 @@ Und das ist das größte Geschenk, das du dir geben kannst.
 ## Das könnte dich auch interessieren
 
 - [Bindungstypen verstehen 2026: Der komplette Guide](/blog/attachment-styles-guide/)
-- [Bindungstypen verstehen: Einfluss auf dein Dating](/blog/attachment-styles-dating/)
+- [Bindungstypen verstehen: Einfluss auf dein Dating](/blog/attachment-styles-guide/)
 - [Attachment Styles: Einfluss auf dein Dating](/blog/attachment-styles-dating-verstehen/)
 - [Bindungstypen verstehen: Der ultimative Guide](/blog/attachment-styles-bindungstypen-guide/)

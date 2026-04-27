@@ -142,7 +142,7 @@ Die Beziehung nach einem Baby ist nicht die Beziehung vorher. Sie ist tiefere, w
 
 Wenn ihr als Paar nach einem Baby kämpft, könnten auch diese Artikel helfen:
 - [Co-Parenting mit deinem Partner: Als Team funktionieren](/blog/co-parenting-dating)
-- [Mutter-Burnout und Beziehung: Wie man nicht zusammen zusammenbricht](/blog/verlustangst-beziehung)
+- [Mutter-Burnout und Beziehung: Wie man nicht zusammen zusammenbricht](/blog/verlustangst-beziehung-ueberwinden)
 
 ## Weiterführende Artikel
 

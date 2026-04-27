@@ -361,6 +361,6 @@ Du schaffst das. Du wirst am anderen Ende herauskommen, stärker, weiser und meh
 
 - [Warum Trennungsschmerz nachts schlimmer ist](/blog/trennungsschmerz-nachts-schlimmer/)
 - [Ex vergessen: 12 Tipps die wirklich helfen](/blog/ex-vergessen-tipps/)
-- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung-wann-bereit/)
+- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung/)
 - [Trennung wegen Fernbeziehung: Wenn die Distanz siegt](/blog/trennung-wegen-fernbeziehung/)
 - [Weihnachten nach der Trennung überstehen: So kommst du durch](/blog/weihnachten-nach-trennung-ueberstehen/)

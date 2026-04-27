@@ -76,10 +76,10 @@ Nutze deine Stimmen und Schriftsprache. Wenn du online chattest, nutz volle Sät
 
 Erkenne, dass Stille nicht immer negativ ist. Ein stilles Moment kann intim sein. Wenn ihr zusammen einen Museumsraum betretet und schweigt, weil das Gemälde beeindruckend ist — das ist nicht unbequem. Das ist Verbindung.
 
-[Lese hier mehr über Dating als Introvertierter](/blog/dating-introvertiert-online-tipps) und wie du [deine emotionale Intelligenz beim Dating nutzt](/blog/emotionale-intelligenz-dating/). Du kannst auch mehr über [Dating für hochsensible Menschen](/blog/dating-hochsensible-maenner/) erfahren.## Weiterlesen
+[Lese hier mehr über Dating als Introvertierter](/blog/dating-introvertiert-online-tipps) und wie du [deine emotionale Intelligenz beim Dating nutzt](/blog/emotionale-intelligenz-beziehung/). Du kannst auch mehr über [Dating für hochsensible Menschen](/blog/dating-hochsensible-maenner/) erfahren.## Weiterlesen
 
 - [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Dating-Apps aus Frauensicht: Tipps für bessere Matches](/blog/dating-apps-fuer-frauen/)
-- [Dating für Introvertierte – Authentisch daten](/blog/dating-fuer-introvertierte/)
+- [Dating für Introvertierte – Authentisch daten](/blog/introvertiert-dating/)
 - [Dating als Student: Campus, Clubs & Connections](/blog/dating-fuer-studenten/)
 - [Online-Dating für Senioren: Tech & Tipps für 65+](/blog/online-dating-fuer-senioren/)

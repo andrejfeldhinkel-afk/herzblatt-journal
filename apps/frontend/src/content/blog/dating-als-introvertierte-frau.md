@@ -416,4 +416,4 @@ Nutze es.
 - [Dating als Veganer/in](/blog/dating-als-veganer/)
 - [Dating als Hochsensible: Tiefe statt Oberfläche](/blog/dating-als-hochsensible-frau/)
 - [Dating nach 30 als Frau: Warum es besser wird als du denkst](/blog/dating-nach-30-als-frau/)
-- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/dating-als-introvertierter-mann/)
+- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/introvertiert-dating/)

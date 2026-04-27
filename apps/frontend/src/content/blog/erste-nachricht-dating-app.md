@@ -142,7 +142,7 @@ Eine ehrliche, durchdachte erste Nachricht wird mehr Erfolg haben als eine perfe
 Das ist wie du echte Verbindung findest – nicht durch Spielchen, sondern durch Authentizität.## Weiterlesen
 
 - [Die perfekten Profilfotos für Dating-Apps: So wirst du](/blog/dating-profile-fotos-tipps/)
-- [Online-Dating Sicherheit: So schützt du dich vor Betrug](/blog/online-dating-sicherheit-tipps/)
-- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-online-dating/)
+- [Online-Dating Sicherheit: So schützt du dich vor Betrug](/blog/online-dating-sicherheit/)
+- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-dating-app/)
 - [So optimierst du deinen Dating-App Algorithmus](/blog/dating-apps-algorithmus-hacken/)
-- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich/)
+- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-app-vergleich-2026/)

@@ -216,7 +216,7 @@ Und wenn ihr es habt, dann habt ihr etwas sehr Wertvolles: Eine Beziehung, in de
 ## Das könnte dich auch interessieren
 
 - [Gesunde Streitkultur als Paar entwickeln](/blog/streitkultur-entwickeln/)
-- [Gesunde Streitkultur in der Beziehung entwickeln](/blog/beziehung-streitkultur/)
+- [Gesunde Streitkultur in der Beziehung entwickeln](/blog/beziehung-streit-guide/)
 - [Gesunde Grenzen setzen](/blog/gesunde-grenzen-setzen-beziehung/)
 - [Gesunde Beziehung: Die komplette Checkliste](/blog/gesunde-beziehung-checkliste/)
 

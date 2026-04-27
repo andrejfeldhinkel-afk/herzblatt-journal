@@ -209,6 +209,6 @@ Aber du schuldest es dir selbst, zuzuhören bevor du das Urteil fällst.
 ## Das könnte dich auch interessieren
 
 - [Grenzen setzen in der Beziehung ohne Streit](/blog/beziehung-grenzen-setzen-ohne-streit/)
-- [Gesunde Streitkultur in der Beziehung entwickeln](/blog/beziehung-streitkultur/)
+- [Gesunde Streitkultur in der Beziehung entwickeln](/blog/beziehung-streit-guide/)
 - [Beziehung mit unterschiedlichem Bildungsniveau](/blog/beziehung-unterschiedliches-bildungsniveau/)
 - [Wenn die Eltern gegen die Beziehung sind](/blog/beziehung-wenn-eltern-dagegen-sind/)

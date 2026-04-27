@@ -173,7 +173,7 @@ Die Person, die du nach dieser Reise wirst, wird stärker, weise und selbstliebe
 
 ## Das könnte dich auch interessieren
 
-- [On-Off Beziehung — Warum du im Kreislauf steckst und wie](/blog/on-off-beziehung-raus-aus-kreislauf/)
+- [On-Off Beziehung — Warum du im Kreislauf steckst und wie](/blog/on-off-beziehung-beenden/)
 - [Beziehung und Kochen: Warum gemeinsame Mahlzeiten verbinden](/blog/beziehung-und-kochen/)
 - [Hochsensibel in der Beziehung — Warum du anders liebst](/blog/hochsensibel-beziehung-masterguide/)
 - [Machtkampf in der Beziehung: Warum ihr gegeneinander statt miteinander kämpft](/blog/machtkampf-in-der-beziehung/)

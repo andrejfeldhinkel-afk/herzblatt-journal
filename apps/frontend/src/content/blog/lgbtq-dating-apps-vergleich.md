@@ -925,5 +925,5 @@ Der richtige Match ist out there. Manchmal nimmt es Zeit. Aber es lohnt sich.
 
 - [Dating-Apps Vergleich 2026 - Welche passt zu Dir?](/blog/dating-apps-vergleich-2026/)
 - [Dating-Apps 2026: Alle Apps im ehrlichen Vergleich](/blog/dating-apps-vergleich-2026-komplett/)
-- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich/)
-- [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/beste-dating-apps-2026/)
+- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-app-vergleich-2026/)
+- [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/dating-app-vergleich-2026/)

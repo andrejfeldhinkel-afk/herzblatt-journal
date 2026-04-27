@@ -338,7 +338,7 @@ Nicht nach 1, 2, oder 3 oder sogar 5 Versuchen aufgeben. Jeder Versuch nimmt dic
 
 ## Weiterlesen
 
-- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-toxischer-beziehung/)
+- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-narzisst/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
 - [Bindungstheorie einfach erklärt](/blog/attachment-theory-einfach-erklaert/)
 - [Die 4 Beziehungstypen – Welcher bist du?](/blog/beziehungstypen-psychologie/)

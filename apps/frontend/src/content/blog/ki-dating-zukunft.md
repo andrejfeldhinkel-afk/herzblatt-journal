@@ -125,4 +125,4 @@ Das entscheidest du noch immer selbst.## Weiterlesen
 - [Dating in Kiel: Meer, Hafen, Romantik](/blog/dating-kiel/)
 - [Dating mit Kind: So gelingt die Partnersuche als](/blog/dating-mit-kind/)
 - [Overthinking beim Dating: Wie du den Kopf abschaltest](/blog/overthinking-dating-stoppen/)
-- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-dating/)
+- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-guide/)

@@ -314,7 +314,7 @@ Du schaffst das.
 ## Weiterlesen
 
 - [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
-- [Dating für Introvertierte: Tipps zum Finden von Liebe](/blog/dating-introvertierte/)
+- [Dating für Introvertierte: Tipps zum Finden von Liebe](/blog/introvertiert-dating/)
 - [Die Psychologie der Anziehung: Was uns wirklich anzieht](/blog/dating-psychologie-anziehung/)
-- [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/online-dating-fotos/)
-- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-fatigue-ueberwinden/)
+- [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/dating-profile-fotos-tipps/)
+- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-nach-burnout/)

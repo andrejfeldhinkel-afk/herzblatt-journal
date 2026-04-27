@@ -198,7 +198,7 @@ Das dritte Prinzip ist "Konsistenz schafft Vertrauen". Das bedeutet, dass alles 
 
 In einer Zeit, in der Fake-Profile, Catfishing und [umfassenden Guide für Online-Dating-Sicherheit](/blog/online-dating-sicherheit) anzuschauen. Sicherheit beim Online-Dating ist genauso wichtig wie dein Profil-Branding.
 
-Für weitere Tipps über echte Verbindungen während des Datierens, lese unseren [Leitfaden für emotionale Intelligenz beim Dating](/blog/emotionale-intelligenz-dating) hilfreich sein.
+Für weitere Tipps über echte Verbindungen während des Datierens, lese unseren [Leitfaden für emotionale Intelligenz beim Dating](/blog/emotionale-intelligenz-beziehung) hilfreich sein.
 
 ## Optimierung für verschiedene Ziele: Kurzfristige vs. Langfristige Beziehungen
 

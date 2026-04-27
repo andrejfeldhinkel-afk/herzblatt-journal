@@ -95,7 +95,7 @@ Wenn deine Fotos fünf Jahre alt sind, wenn deine Bio nicht wahr ist, wenn du di
 
 Dein Profil sollte den **echten** dich zeigen, nicht den, den du hoffst zu sein oder den, den du denkst, dass die andere Person mögen wird. Ein ehrliches, witziges Profil, das echtes Interesse in Gesprächen zeigt, wird immer gewinnen. Es sagt nicht: "Ich bin perfekt." Es sagt: "Ich bin echt, und es ist interessant, mich kennenzulernen."
 
-Schau auch auf [Erste Nachricht beim Online-Dating: So machst du es richtig](/blog/erste-nachricht-online-dating) — ein gutes Profil ist nur der erste Schritt.
+Schau auch auf [Erste Nachricht beim Online-Dating: So machst du es richtig](/blog/erste-nachricht-dating-app) — ein gutes Profil ist nur der erste Schritt.
 
 ---
 

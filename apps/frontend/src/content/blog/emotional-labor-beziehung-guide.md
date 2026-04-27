@@ -173,7 +173,7 @@ Dies erfordert Mut und Verletzlichkeit. Es erfordert, unbequeme Dinge zu sagen. 
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
 - [Emotionsregulation in Beziehungen: Wie du lernst, deine](/blog/emotionsregulation-beziehung-guide/)
 - [Peter-Pan-Syndrom — Wenn der Partner nicht erwachsen werden](/blog/peter-pan-syndrom-beziehung-guide/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 ## FAQ
 
 **F: Ist es möglich, Emotional Labor vollständig gleich zu verteilen?**

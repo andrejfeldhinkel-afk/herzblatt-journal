@@ -256,4 +256,4 @@ Es wird nicht schneller sein. Es wird nicht immer einfacher sein. Es wird nicht 
 
 - [Slow Dating: Der Dating-Trend 2026 erklärt](/blog/slow-dating-trend-2026)
 - [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung)
-- [Dating mit Kindern: So findest du als alleinerziehend](/blog/dating-mit-kindern)
+- [Dating mit Kindern: So findest du als alleinerziehend](/blog/dating-mit-kind)

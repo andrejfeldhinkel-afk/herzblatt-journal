@@ -135,5 +135,5 @@ Die Wahrheit ist: Dein Glück ist wichtiger als die Beziehung. Wenn Heilung mög
 
 - [Sexuelle Heilung nach Betrug in der Beziehung](/blog/beziehung-nach-betrug-sexuell-heilen/)
 - [Nach dem Betrug verzeihen lernen – Ein ehrlicher Leitfaden](/blog/beziehung-nach-betrug-verzeihen-lernen/)
-- [Vertrauen nach einem Betrug aufbauen](/blog/vertrauen-nach-betrug/)
+- [Vertrauen nach einem Betrug aufbauen](/blog/vertrauen-aufbauen-beziehung/)
 - [Kann man nach einem Betrug vergeben?](/blog/vergebung-nach-betrug/)

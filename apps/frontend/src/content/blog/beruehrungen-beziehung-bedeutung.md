@@ -142,6 +142,6 @@ Das ist nicht esoterisch – das ist Biologie. Und diese Biologie funktioniert.#
 
 - [Emotionale vs. körperliche Nähe: Warum beides zählt](/blog/emotionale-vs-koerperliche-naehe/)
 - [Daddy Issues: Wie dein Vater deine Beziehungen beeinflusst](/blog/daddy-issues-beziehung/)
-- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-toxischer-beziehung/)
+- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-narzisst/)
 - [Emotional Detachment: Wenn du in der Beziehung nichts mehr](/blog/emotional-detachment-beziehung/)
 - [Emotionaler Missbrauch in Beziehungen: Erkennen & Heilen](/blog/emotionaler-missbrauch-beziehung-guide/)

@@ -196,6 +196,6 @@ Meist 3-6 Monate, wenn du aktiv daran arbeitest. Das bedeutet: die Gedankenschle
 ## Weiterlesen
 
 - [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
-- [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating/)
+- [Bindungstypen verstehen: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-guide/)
 - [Grenzen setzen ohne Schuld: Der Leitfaden für liebevolle Grenzen](/blog/beziehung-grenzsetzen/)
 - [Konflikt-Stile: Kennde deinen Weg, um zu kämpfen](/blog/beziehung-konflikt-styles/)

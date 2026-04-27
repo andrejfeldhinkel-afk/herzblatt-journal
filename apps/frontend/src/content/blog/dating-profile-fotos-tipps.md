@@ -122,8 +122,8 @@ Die Wahrheit ist: Gute Fotos öffnen die Tür. Aber deine Persönlichkeit und de
 
 Nutze die beste Version von dir – authentisch und ehrlich dargestellt. Die richtigen Menschen werden dich erkennen und mögen. Und das ist alles, was zählt.## Weiterlesen
 
-- [Online-Dating Sicherheit: So schützt du dich vor Betrug](/blog/online-dating-sicherheit-tipps/)
+- [Online-Dating Sicherheit: So schützt du dich vor Betrug](/blog/online-dating-sicherheit/)
 - [Die perfekte erste Nachricht in Dating-Apps: Schreibe](/blog/erste-nachricht-dating-app/)
 - [So optimierst du deinen Dating-App Algorithmus](/blog/dating-apps-algorithmus-hacken/)
-- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich/)
-- [Dating-App-Müdigkeit überwinden: Wie du wieder Hoffnung](/blog/online-dating-muedigkeit-ueberwinden/)
+- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-app-vergleich-2026/)
+- [Dating-App-Müdigkeit überwinden: Wie du wieder Hoffnung](/blog/dating-nach-burnout/)

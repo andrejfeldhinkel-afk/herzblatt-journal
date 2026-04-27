@@ -116,4 +116,4 @@ Der erste Schritt ist immer der schwierigste. Aber sobald du ihn gehst, öffnet 
 - [Offene Kommunikation: So sagst du was du denkst](/blog/beziehung-offene-kommunikation/)
 - [Beziehung nach Elternschaft: Wie ihr als Paar wieder](/blog/beziehung-nach-elternschaft-zurueckfinden/)
 - [Humor in der Beziehung: Wenn ihr anders lacht](/blog/beziehung-und-unterschiedlicher-humor/)
-- [Unterschiedliche Libido in der Beziehung: Wenn einer mehr](/blog/beziehung-unterschiedliche-libido/)
+- [Unterschiedliche Libido in der Beziehung: Wenn einer mehr](/blog/beziehung-unterschiedliche-libido-loesungen/)

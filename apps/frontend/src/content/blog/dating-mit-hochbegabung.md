@@ -151,6 +151,6 @@ Dein Gehirn ist kein Fehler. Es ist eine andere Weise zu sein. Und mit den richt
 ## Das könnte dich auch interessieren
 
 - [Interkulturell Dating – Wenn Kulturen aufeinander treffen](/blog/dating-nach-interkulturellen-erfahrungen/)
-- [Online-Dating-Müdigkeit: Wenn Swipen zur Last wird](/blog/online-dating-muedigkeit/)
-- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-fatigue-ueberwinden/)
+- [Online-Dating-Müdigkeit: Wenn Swipen zur Last wird](/blog/dating-nach-burnout/)
+- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-nach-burnout/)
 - [Dating und Mental Load: Wenn Dating selbst Stress ist](/blog/dating-und-mental-load/)

@@ -146,7 +146,7 @@ Das wird oft als unromantisch oder unpersönlich wahrgenommen. Du möchtest, das
 
 Das zu erkennen ändert alles. Jedes Mal wenn er etwas für dich "Praktisches" tut, kannst du es als Liebesausdruck sehen. Danke dafür, statt zu sagen: "Das brauchte ich nicht, ich wollte nur mit dir darüber sprechen."
 
-Interne Verlinkung zum Verständnis: [Love Languages in der Beziehung](/blog/love-languages-beziehung)
+Interne Verlinkung zum Verständnis: [Love Languages in der Beziehung](/blog/liebessprachen-komplett-guide)
 
 ### 2. Sexuelle Intimität
 
@@ -224,7 +224,7 @@ Die Wurzeln sind oft tief: Ein Vater, der gegangen ist. Eine Mutter, die erstick
 
 Diese Angst ist real. Es ist nicht, dass er nicht will. Es ist, dass etwas in ihm anfängt zu paniken, wenn die Beziehung zu nahe wird.
 
-Mehr zu diesem Thema: [Bindungsangst erkennen und verstehen](/blog/bindungsangst-erkennen-ueberwinden/)
+Mehr zu diesem Thema: [Bindungsangst erkennen und verstehen](/blog/bindungsangst-komplett-guide/)
 
 ### Die Hot-and-Cold-Dynamik
 
@@ -501,7 +501,7 @@ Und das, meine Liebe, liegt in deinen Händen.
 ## Weiterlesen
 
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Beziehung retten: Der ehrliche Guide wenn es die letzte](/blog/beziehung-retten-letzte-chance/)
 - [Verschiedene Lebenspläne in der Beziehung: Wenn Liebe allein](/blog/beziehung-verschiedene-lebensplaene/)
 - [Beziehungsinventur: Der ehrliche Check ob deine Beziehung](/blog/beziehungsinventur-guide/)

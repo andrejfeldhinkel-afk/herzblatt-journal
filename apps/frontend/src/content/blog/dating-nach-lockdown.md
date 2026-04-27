@@ -131,4 +131,4 @@ Diese vier Verhaltensweisen sind die Pandemie-Geschenke. Nutze sie.
 
 - [Ängstlicher Bindungsstil: So meisterst du Dating und Bezi...](/blog/anxious-attachment-dating-guide)
 - [Dating mit ängstlichem Bindungsstil](/blog/anxious-attachment-dating-strategie-guide)
-- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-dating)
+- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-guide)

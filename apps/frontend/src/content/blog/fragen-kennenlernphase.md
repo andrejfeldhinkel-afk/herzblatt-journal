@@ -71,7 +71,7 @@ Ziel: Erste Tiefe, aber noch sicher. Du erfährst etwas über Werte und Prägung
 Ziel: Werte und Erwartungen abklopfen — ohne ins Interview zu rutschen.
 
 21. Was hast du aus deiner letzten Beziehung gelernt?
-22. Wie zeigst du Liebe — und wie empfängst du sie am liebsten? (Siehe auch [Love Languages](/blog/love-languages-beziehung/))
+22. Wie zeigst du Liebe — und wie empfängst du sie am liebsten? (Siehe auch [Love Languages](/blog/liebessprachen-komplett-guide/))
 23. Was brauchst du, um dich in einer Beziehung wirklich sicher zu fühlen?
 24. Welche Art von Konflikt-Stil hast du?
 25. Was ist für dich ein absoluter Dealbreaker?

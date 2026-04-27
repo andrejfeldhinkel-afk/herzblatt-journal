@@ -152,7 +152,7 @@ Eine Beziehung ohne Eifersucht ist nicht perfekt, aber es ist lebendig, vertraue
 ## Weiterlesen
 
 - [Eifersucht überwinden: Der komplette Guide](/blog/beziehung-und-eifersucht-ueberwinden/)
-- [Digitale Eifersucht: Wenn Social Media die Beziehung](/blog/digitale-eifersucht/)
+- [Digitale Eifersucht: Wenn Social Media die Beziehung](/blog/eifersucht-bekaempfen/)
 - [Retroaktive Eifersucht überwinden: Warum die Vergangenheit](/blog/retroaktive-eifersucht-ueberwinden/)
 - [Social-Media-Eifersucht: Der komplette Guide](/blog/social-media-eifersucht-guide/)
 - [Emotionale Intelligenz in Beziehungen: Der Schlüssel zu](/blog/emotionale-intelligenz-beziehung/)

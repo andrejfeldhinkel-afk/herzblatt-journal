@@ -171,7 +171,7 @@ Lerne auch [wie du fair stritest](/blog/streiten-ohne-verletzen/), [wie Stonewal
 Die vier Reiter sind nicht dein Schicksal. Sie sind ein Muster, das bewusst gemacht und verändert werden kann. Aber die Zeit beginnt jetzt. Je länger die Reiter geritten haben, desto tiefer die Wunden. Je schneller du sie erkennst und handeln tust, desto größer die Chance, deine Beziehung zu retten.## Weiterlesen
 
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Nach Vertrauensbruch: Heilung finden](/blog/beziehung-nach-vertrauensbruch/)
 - [Beziehung retten: Der ehrliche Guide wenn es die letzte](/blog/beziehung-retten-letzte-chance/)
 - [Beziehung und Humor: Warum gemeinsam Lachen verbindet](/blog/beziehung-und-humor/)

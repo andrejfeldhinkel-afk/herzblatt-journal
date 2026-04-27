@@ -155,7 +155,7 @@ Es gibt keine perfekte Antwort. Aber die beste Antwort ist: Klare Grenzen setzen
 
 - [Wenn die Schmetterlinge vergehen: Warum das der wahre Beginn](/blog/beziehung-wenn-schmetterlinge-vergehen/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Beziehung aufbauen nach einer Depression: Hoffnung vorwärts](/blog/beziehung-nach-depression/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 ## FAQ

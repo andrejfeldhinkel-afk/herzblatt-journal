@@ -165,7 +165,7 @@ In dieser Zeit: Investiere in dein eigenes Leben. Trainiere, treffe Freunde, ver
 1. Du wirst glücklicher und ausgeglichener, was deine Chancen beim Wiederstart erhöht.
 2. Du wirst automatisch attraktiver, weil du ein erfülltes Leben hast.
 
-[Lese hier mehr über Burnout beim Dating und wie man ihn verhindert](/blog/dating-burnout).
+[Lese hier mehr über Burnout beim Dating und wie man ihn verhindert](/blog/dating-nach-burnout).
 
 Ich empfehle: Pro vier Wochen aktivem Dating eine Woche Pause. Das ist nicht schlecht – das ist optimal. Es gibt dir Mental-Space und hält dich langfristig motiviert.
 

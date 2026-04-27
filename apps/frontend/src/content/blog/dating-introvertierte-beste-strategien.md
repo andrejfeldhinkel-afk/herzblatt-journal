@@ -305,7 +305,7 @@ Dein introvertiertes Herz hat so viel zu geben. Die richtige Person wird das seh
 
 ## Das könnte dich auch interessieren
 
-- [Dating für Introvertierte](/blog/dating-fuer-introvertierte/)
+- [Dating für Introvertierte](/blog/introvertiert-dating/)
 - [Attachment Styles: Einfluss auf dein Dating](/blog/attachment-styles-dating-verstehen/)
 - [Dating als hochsensibler Mensch (HSP)](/blog/dating-hochsensible-menschen-hsp/)
 - [Bindungsstile im Dating: Warum du immer wieder an die Falschen gerätst](/blog/bindungsstile-dating/)

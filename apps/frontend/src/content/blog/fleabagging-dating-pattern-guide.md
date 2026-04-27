@@ -429,7 +429,7 @@ Verbinde dich mit dieser Wahrheit: Die richtige Person für dich wartet nicht au
 ## Weiterlesen
 
 - [Negging — Die perfide Manipulationstaktik beim Dating](/blog/negging-manipulation-dating-guide/)
-- [Toxische Dating-Muster erkennen und durchbrechen:](/blog/toxische-dating-muster-durchbrechen/)
+- [Toxische Dating-Muster erkennen und durchbrechen:](/blog/toxische-beziehung-erkennen/)
 - [Bindungsstile im Dating: Warum du immer wieder an die](/blog/bindungsstile-dating/)
 - [Dating als Ambivert: Dein Vorteil wenn du weder](/blog/dating-als-ambivert/)
 - [Dating nach psychischer Erkrankung: Der behutsame Weg zurück](/blog/dating-nach-psychischer-erkrankung/)

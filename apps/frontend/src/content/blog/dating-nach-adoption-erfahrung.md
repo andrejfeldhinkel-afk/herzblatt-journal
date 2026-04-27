@@ -433,6 +433,6 @@ Wenn du das hast, hast du wirklich etwas Besonderes.
 ## Das könnte dich auch interessieren
 
 - [Selbstakzeptanz als Schlüssel zum Dating-Erfolg](/blog/selbstakzeptanz-dating-erfolg/)
-- [Dating-Tipps für introvertierte Männer](/blog/dating-als-introvertierter-mann/)
+- [Dating-Tipps für introvertierte Männer](/blog/introvertiert-dating/)
 - [Dating-Angst überwinden – So traust du dich endlich](/blog/dating-angst-ueberwinden/)
 - [Authentisch bleiben beim Dating: Tipps für echte Verbindung](/blog/dating-authentisch-bleiben-tipps/)

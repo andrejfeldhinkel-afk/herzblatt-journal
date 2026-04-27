@@ -206,14 +206,14 @@ Zusätzliche Überlegungen:
 
 Nicht alles Trauma von Online-Dating ist körperlich:
 
-- Emotionaler Missbrauch ([red flags erkennen](/blog/red-flags-erkennen) an.
+- Emotionaler Missbrauch ([red flags erkennen](/blog/dating-red-flags-maenner-erkennen) an.
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/beste-dating-apps-2026), [Dating für Introvertierte: Tipps zum Finden von Liebe ohne Stress](/blog/dating-introvertierte).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/dating-app-vergleich-2026), [Dating für Introvertierte: Tipps zum Finden von Liebe ohne Stress](/blog/introvertiert-dating).## Weiterlesen
 
-- [Online-Dating Sicherheit: So schützt du dich vor Betrug](/blog/online-dating-sicherheit-tipps/)
+- [Online-Dating Sicherheit: So schützt du dich vor Betrug](/blog/online-dating-sicherheit/)
 - [Online-Dating für Senioren: Tech & Tipps für 65+](/blog/online-dating-fuer-senioren/)
-- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-online-dating/)
+- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-dating-app/)
 - [Vom Chat zum ersten Treffen: Übergang zum echten Leben](/blog/erstes-treffen-online-dating/)
 - [Wie Dating-App Algorithmen wirklich funktionieren](/blog/online-dating-algorithmus/)

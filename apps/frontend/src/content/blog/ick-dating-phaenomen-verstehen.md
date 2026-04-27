@@ -95,6 +95,6 @@ Denn Am Ende geht es beim Dating nicht darum, die perfekte Person zu finden, die
 
 - [Attachment Styles: Wie dein Bindungsstil dein Dating beeinflusst](/blog/attachment-styles-dating-verstehen/)
 - Dating Fatigue: Wenn du vom Daten müde bist — und was hilft
-- [Frühwarnzeichen beim Dating: Worauf du achten solltest](/blog/dating-fruehwarnzeichen/)
+- [Frühwarnzeichen beim Dating: Worauf du achten solltest](/blog/dating-red-flags-maenner-erkennen/)
 - [Dating mit Depression: Ehrlich bleiben, ohne sich zu verlieren](/blog/dating-mit-depression/)
 - [Dating nach Betrug: Wieder vertrauen nach dem Schmerz](/blog/dating-nach-betrug/)

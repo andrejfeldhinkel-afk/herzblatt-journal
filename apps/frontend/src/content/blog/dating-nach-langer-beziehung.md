@@ -149,4 +149,4 @@ Detaillierte Infos bietet Bundesamt für Sicherheit in der Informationstechnik: 
 Mehr zum Thema erfährst du auf Verbraucherzentrale: [Verbraucherzentrale](https://www.verbraucherzentrale.de/)
 - [Zurück ins Dating nach langer Single-Phase](/blog/dating-nach-langer-single-zeit/)
 - [Dating mit 30 – Warum jetzt die beste Zeit für die Liebe ist](/blog/dating-nach-30-tipps/)
-- [Dating nach 40 als Mann: Dein zweiter Frühling](/blog/dating-nach-40-maenner/)
+- [Dating nach 40 als Mann: Dein zweiter Frühling](/blog/dating-ab-40/)

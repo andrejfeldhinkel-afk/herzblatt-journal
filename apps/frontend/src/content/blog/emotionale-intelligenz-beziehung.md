@@ -237,7 +237,7 @@ Siehe auch: [Fernbeziehung meistern: 25 Tipps für eine starke Liebe auf Distanz
 ## Weiterlesen
 
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Nach Vertrauensbruch: Heilung finden](/blog/beziehung-nach-vertrauensbruch/)
 - [Beziehung retten: Der ehrliche Guide wenn es die letzte](/blog/beziehung-retten-letzte-chance/)
 - [Beziehung und Humor: Warum gemeinsam Lachen verbindet](/blog/beziehung-und-humor/)

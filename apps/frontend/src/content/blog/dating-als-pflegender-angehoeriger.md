@@ -327,6 +327,6 @@ Also gib dir die Erlaubnis. Du verdienst es.
 ## Das könnte dich auch interessieren
 
 - [LGBTQ+ Dating Apps 2026](/blog/lgbtq-dating-apps-vergleich/)
-- [Dating fuer Introvertierte: Tipps und Strategien](/blog/dating-introvertierte/)
+- [Dating fuer Introvertierte: Tipps und Strategien](/blog/introvertiert-dating/)
 - [Dating in Augsburg: Fuggerstadt-Romantik](/blog/dating-augsburg-komplett-guide/)
 - [Casual Dating vs. ernste Beziehung – Die richtige Wahl](/blog/dating-casual-vs-serious/)

@@ -85,7 +85,7 @@ Dies ist ein großes grünes Flaggen-System, weil es zeigt: Sie liebt dich nicht
 - [20 Green Flags: Zeichen dass er/sie der Richtige ist](/blog/dating-green-flags-guide/)
 - [Green Flags beim Dating: Positive Zeichen richtig erkennen](/blog/dating-green-flags-erkennen-guide/)
 - [Dating-Spielchen durchschauen: Warum Menschen spielen und wie du damit umgehst](/blog/dating-spielchen-durchschauen/)
-- [Red Flags bei Männern – 15 Warnsignale beim Dating](/blog/dating-red-flags-maenner/)
+- [Red Flags bei Männern – 15 Warnsignale beim Dating](/blog/dating-red-flags-maenner-erkennen/)
 
 
 ## FAQs: Häufig gestellte Fragen über Dating Green Flags

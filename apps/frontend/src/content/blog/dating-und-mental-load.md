@@ -155,8 +155,8 @@ Tu das. Be kind to yourself. The right person will come.
 
 - [Interkulturell Dating – Wenn Kulturen aufeinander treffen](/blog/dating-nach-interkulturellen-erfahrungen/)
 - [Dating nach langer Beziehung: Sich selbst wiederfinden](/blog/dating-nach-langer-beziehung/)
-- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-fatigue-ueberwinden/)
-- [Online-Dating-Müdigkeit: Wenn Swipen zur Last wird](/blog/online-dating-muedigkeit/)
+- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-nach-burnout/)
+- [Online-Dating-Müdigkeit: Wenn Swipen zur Last wird](/blog/dating-nach-burnout/)
 
 
 ## Was ist Mental Load im Dating?

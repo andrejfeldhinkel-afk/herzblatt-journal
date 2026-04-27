@@ -30,7 +30,7 @@ Ihr seid zusammen. Aber seid ihr zusammen? Es ist unklar.
 
 Ihr hängt viel Zeit zusammen ab. Es fühlt sich wie eine Beziehung an. Aber es wird nicht so genannt. Es gibt keine Definition. Es gibt keine Titel. Es gibt nur diese graue Fläche, die dich jeden Tag Angst macht.
 
-Das ist [Situationship](/blog/situationship-erkennen-umgehen). Und es ist eine der frustrierendsten modernen Dating-Phänomene.
+Das ist [Situationship](/blog/situationship-guide). Und es ist eine der frustrierendsten modernen Dating-Phänomene.
 
 Eine Situationship ist wenn du mit jemandem romantisch und/oder sexuell verbunden bist, aber der Status ist undefiniert, unstabil und oft einseitig.
 

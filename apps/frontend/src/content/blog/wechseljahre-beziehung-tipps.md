@@ -216,7 +216,7 @@ Also erkläre es. Sag es. Lass ihn in den Prozess rein.
 
 Und vertrau darauf, dass das andere Seite schöner ist.
 
-Lies auch unseren Artikel über [intimacy in long-term relationships](/blog/dating-nach-langzeitbeziehung) um zu lernen wie man Nähe neu erfindet.
+Lies auch unseren Artikel über [intimacy in long-term relationships](/blog/dating-nach-trennung) um zu lernen wie man Nähe neu erfindet.
 
 ## Mehr zu diesem Thema
 

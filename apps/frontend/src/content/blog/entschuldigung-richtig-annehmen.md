@@ -195,5 +195,5 @@ Das ist nicht unmenschlich. Das ist weise.
 - [Richtig streiten in der Beziehung: Streitkultur die eure](/blog/streitkultur-beziehung-richtig-streiten/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 - [Vergebung in der Beziehung: Wann lohnt es sich?](/blog/beziehung-und-vergebung/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Kompromisse in der Beziehung: Wann ja und wann nein](/blog/beziehung-kompromisse-finden/)

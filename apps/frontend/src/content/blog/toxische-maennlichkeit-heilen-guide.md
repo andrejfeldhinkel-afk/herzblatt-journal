@@ -423,7 +423,7 @@ Das ist sein eigener Typ von Freiheit und Gnade.
 
 - [Fawn Response: Wenn du dich in Beziehungen aufgibst, um](/blog/fawn-response-beziehung-guide/)
 - [Fleabagging — Warum du immer die falschen dattest](/blog/fleabagging-dating-pattern-guide/)
-- [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inneres-kind-heilen-beziehung/)
+- [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inner-child-beziehung/)
 - [Selbstliebe lernen nach Trennung: Dein Weg zurück zu dir](/blog/selbstliebe-nach-trennung/)
 ## FAQ: Fragen, die Männer mir stellen
 

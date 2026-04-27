@@ -236,8 +236,8 @@ Es ist okay, eine Beziehung zu beenden, weil du Red Flags siehst. Das ist nicht 
 
 Und wenn du nicht sicher bist, ob du etwas überanalysierst oder ob es wirklich ein Red Flag ist, frag Freunde, denen du vertraust – Menschen, die dich lieben und dich nicht aus eigenem Interesse bewerten. Manchmal ist es schwer, von innen zu sehen, wenn man mittendrin ist. Manchmal brauchst du einfach einen Außenblick, um zu wissen, dass du nicht verrückt wirst und dass dein Instinkt richtig ist.## Weiterlesen
 
-- [Red Flags bei Männern – 15 Warnsignale beim Dating](/blog/dating-red-flags-maenner/)
+- [Red Flags bei Männern – 15 Warnsignale beim Dating](/blog/dating-red-flags-maenner-erkennen/)
 - [Frauen ansprechen: So gelingt der Kontakt](/blog/dating-frauen-ansprechen/)
 - [Beige Flags — Die langweiligen Warnsignale beim Dating](/blog/beige-flags-dating-guide/)
 - [Dating ab 40 als Frau: Neustart mit Selbstvertrauen](/blog/dating-nach-40-frauen/)
-- [Red Flags beim Dating: Diese Warnsignale solltest du kennen](/blog/red-flags-erkennen/)
+- [Red Flags beim Dating: Diese Warnsignale solltest du kennen](/blog/dating-red-flags-maenner-erkennen/)

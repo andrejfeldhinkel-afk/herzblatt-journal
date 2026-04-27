@@ -226,5 +226,5 @@ Der Weg zu echte Liebe beginnt mit der authentischen dich.
 
 - [Impostor-Syndrom beim Dating: Du bist genug (glaub mir)](/blog/dating-impostor-syndrom/)
 - [Persönliche Grenzen beim Dating: Der Unterschied zwischen Freundlichkeit und Schwäche](/blog/persoenliche-grenzen-dating/)
-- [Dating-Tipps für introvertierte Männer](/blog/dating-als-introvertierter-mann/)
+- [Dating-Tipps für introvertierte Männer](/blog/introvertiert-dating/)
 - [Dating nach Mobbing – Selbstbewusstsein neu aufbauen](/blog/dating-nach-mobbing-selbstbewusstsein/)

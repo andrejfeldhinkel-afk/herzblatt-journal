@@ -128,8 +128,8 @@ Zuhause ist intim. Es ist ein Ort, wo Du Du selbst sein kannst. Wenn Du das mit 
 Vergiss das Restaurant-[dating](/blog/anzeichen-er-steht-auf-dich/). Die besten Abende sind oft die einfachsten.
 ## Weiterlesen
 
-- [Zweites Date: Tipps für ein perfektes Wiedersehen](/blog/zweites-date-planen/)
+- [Zweites Date: Tipps für ein perfektes Wiedersehen](/blog/zweites-date-tipps/)
 - [50 kreative Date-Ideen: So wird euer erstes Treffen von der](/blog/kreative-date-ideen-dating-app/)
 - [Dating auf Reisen: Urlaubsflirt oder echte Chance?](/blog/dating-auf-reisen/)
-- [Frühwarnzeichen beim Dating: Worauf du achten solltest](/blog/dating-fruehwarnzeichen/)
+- [Frühwarnzeichen beim Dating: Worauf du achten solltest](/blog/dating-red-flags-maenner-erkennen/)
 - [Dating mit Hund: Fluch oder Segen](/blog/dating-mit-hund/)

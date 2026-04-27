@@ -804,4 +804,4 @@ Die Investition, die du in gute Fotos machst, ist die beste Investition für dei
 - [Multi-Dating: Mehrere Personen gleichzeitig daten — Ist das](/blog/online-dating-mehrere-personen-gleichzeitig/)
 - [Die Psychologie des Online-Datings: Warum wir swipen wie wir](/blog/online-dating-psychologie/)
 - [Online-Dating Wiedereinstieg: So startest du nach einer](/blog/online-dating-wiedereinstieg-nach-pause/)
-- [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/online-dating-fotos/)
+- [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/dating-profile-fotos-tipps/)

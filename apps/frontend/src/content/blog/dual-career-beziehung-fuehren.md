@@ -623,5 +623,5 @@ Diese Erlaubnis, imperfekt zu sein, ist befreiend. Und es hilft beiden Partnern,
 
 - [Gesunde Beziehung führen: Der komplette Guide](/blog/beziehung-fuehren-kompletter-guide/)
 - [30-Tage Beziehungs-Challenge — Jeden Tag eine Aufgabe](/blog/beziehung-30-day-challenge/)
-- [Fernbeziehung meistern: Tipps für eine starke](/blog/long-distance-beziehung/)
+- [Fernbeziehung meistern: Tipps für eine starke](/blog/fernbeziehung-tipps/)
 - [Wann ist es eine Beziehung? Die 5 Phasen vom Kennenlernen](/blog/wann-ist-es-eine-beziehung/)

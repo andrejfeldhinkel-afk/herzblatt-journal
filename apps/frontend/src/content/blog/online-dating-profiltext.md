@@ -127,7 +127,7 @@ Dein Profiltext schafft nicht nur Matches – er gibt dir auch Gesprächsstoff f
 ## Weiterlesen
 
 - [Dating-Profiltext für Männer: So fällst du](/blog/dating-profiltext-maenner/)
-- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-online-dating/)
+- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-dating-app/)
 - [Vom Chat zum ersten Treffen: Übergang zum echten Leben](/blog/erstes-treffen-online-dating/)
 - [Wie Dating-App Algorithmen wirklich funktionieren](/blog/online-dating-algorithmus/)
 - [Online-Dating Anschreiben – So bekommst du garantiert](/blog/online-dating-anschreiben/)
@@ -146,7 +146,7 @@ Mindestens monatlich. Dating-App-Algorithmen bevorzugen aktualisierte Profile. E
 Ja, aber sparsam. 1-2 Emojis können Persönlichkeit hinzufügen, zu viele wirken unprofessionell.
 
 **Was ist das beste Foto für ein Online-Dating Profil?**
-Gutes Licht, natürlich lächelnd, und dein Gesicht klar sichtbar. Vermeide Filter und zu alt aussehende Fotos. Aber lese mehr in unserem [Erstes-Date-Guide](/blog/erstes-date-outfit) für umfassendere Tipps.
+Gutes Licht, natürlich lächelnd, und dein Gesicht klar sichtbar. Vermeide Filter und zu alt aussehende Fotos. Aber lese mehr in unserem [Erstes-Date-Guide](/blog/erstes-date-tipps) für umfassendere Tipps.
 
 **Sollte ich erwähnen, dass ich neue Leute kennenlernen möchte oder dass ich ernsthaft suche?**
 Ja, stelle deine Absichten klar. "Ich suche nach etwas Ernstem" oder "Ich bin offen für alles" spart Zeit für beide.

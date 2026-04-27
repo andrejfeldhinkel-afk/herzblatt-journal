@@ -2,7 +2,7 @@
 title: "Erstes Date als Frau: Tipps für Sicherheit, Self-Confidence und echten Funken"
 description: "Erstes Date als Frau: Praktische Sicherheits-Tipps, Outfit-Strategie und Mindset-Hacks für mehr Selbstvertrauen und ein authentisches Date-Erlebnis ohne Stress."
 date: 2026-04-27
-image: "/images/blog/erstes-date-outfit.webp"
+image: "/images/blog/erstes-date-tipps.webp"
 imageAlt: "Erstes Date Tipps Frauen"
 tags:
   - "Dating"

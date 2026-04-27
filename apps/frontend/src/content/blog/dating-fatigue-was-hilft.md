@@ -190,4 +190,4 @@ Beide sind Wahrheiten, die es lohnt zu hören.
 - [Dating mit Übergewicht: Selbstbewusst trotz Unsicherheit](/blog/dating-als-uebergewichtige/)
 - [Dating wenn du schüchtern bist: Praktische Strategien die](/blog/dating-wenn-man-schuechtern-ist/)
 - [Online-Dating Wiedereinstieg: So startest du nach einer](/blog/online-dating-wiedereinstieg-nach-pause/)
-- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-fatigue-ueberwinden/)
+- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-nach-burnout/)

@@ -208,7 +208,7 @@ Die Männer, die beim Online-Dating erfolgreich sind, sind nicht die, die "beste
 ## Das könnte dich auch interessieren
 
 - [Online-Dating-Profil optimieren: Guide für Männer](/blog/online-dating-profil-optimieren-maenner/)
-- [Perfekte Fotos fürs Online-Dating](/blog/online-dating-fotos/)
+- [Perfekte Fotos fürs Online-Dating](/blog/dating-profile-fotos-tipps/)
 - [Online-Dating Sicherheit: Der komplette Schutz-Guide](/blog/online-dating-sicherheit-komplett/)
 - [Was Männer auf Dating-Apps sofort abturnt](/blog/was-maenner-auf-dating-apps-abturnt/)
 

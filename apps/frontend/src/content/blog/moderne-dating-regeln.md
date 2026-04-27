@@ -96,7 +96,7 @@ Mehr zum Thema erfährst du auf Bundesamt für Sicherheit in der Informationstec
 Weitere Informationen findest du bei Verbraucherzentrale: [Verbraucherzentrale](https://www.verbraucherzentrale.de/)
 - Druck, "perfekt" zu sein für die Öffentlichkeit
 
-**Die Regel für 2026:** Sei auf Social Media du selbst, aber nutze es nicht als dein einziges Dating-Tool. Das echte [Situationship](/blog/situationship-erkennen-umgehen)" ist die moderne Falle: Eine emotionale Verbindung ohne klare Definition oder Zukunft. Es ist nicht casual genug, um Spaß zu sein, aber nicht definiert genug, um eine echte Beziehung zu sein.
+**Die Regel für 2026:** Sei auf Social Media du selbst, aber nutze es nicht als dein einziges Dating-Tool. Das echte [Situationship](/blog/situationship-guide)" ist die moderne Falle: Eine emotionale Verbindung ohne klare Definition oder Zukunft. Es ist nicht casual genug, um Spaß zu sein, aber nicht definiert genug, um eine echte Beziehung zu sein.
 
 **Wie man das vermeidet:**
 - Habe "das Gespräch" früh und oft
@@ -154,10 +154,10 @@ Die beste Beziehung ist die, die auf echter Verbindung, nicht auf Spielen, basie
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/beste-dating-apps-2026), [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/dating-app-vergleich-2026), [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-app-vergleich-2026).## Weiterlesen
 
-- [Das perfekte Dating-Profil: Schritt-für-Schritt](/blog/perfektes-dating-profil/)
+- [Das perfekte Dating-Profil: Schritt-für-Schritt](/blog/online-dating-profiltext/)
 - [Diese Signale senden Frauen beim Flirten – Männer übersehen](/blog/dating-signals-frauen/)
-- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-online-dating/)
+- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-dating-app/)
 - [Vom Chat zum ersten Treffen: Übergang zum echten Leben](/blog/erstes-treffen-online-dating/)
 - [Wie Dating-App Algorithmen wirklich funktionieren](/blog/online-dating-algorithmus/)

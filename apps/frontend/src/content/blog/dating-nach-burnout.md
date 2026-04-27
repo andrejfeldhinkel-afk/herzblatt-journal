@@ -400,8 +400,8 @@ Und du verdienst genau diese Art von Liebe.
 
 **Weiterlesen:** Entdecke auch unsere Ratgeber zu [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung), [Emotionale Abhängigkeit überwinden: Unabhängigkeit in Beziehungen](/blog/emotionale-abhaengigkeit).## Weiterlesen
 
-- [Dating Burnout – Wenn die Partnersuche zur Belastung wird](/blog/dating-burnout/)
+- [Dating Burnout – Wenn die Partnersuche zur Belastung wird](/blog/dating-nach-burnout/)
 - [Dating nach großer Körperveränderung](/blog/dating-nach-gewichtsverlust/)
-- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/dating-als-introvertierter-mann/)
+- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/introvertiert-dating/)
 - [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Selbstliebe als Dating-Geheimwaffe: Warum du dich selbst](/blog/selbstliebe-dating/)

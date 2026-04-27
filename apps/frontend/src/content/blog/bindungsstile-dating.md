@@ -95,7 +95,7 @@ Hier wird es spannend — und schmerzhaft. Ängstlich und vermeidend gebundene M
 
 Was dann passiert, ist der klassische Push-Pull-Kreislauf: Der Vermeidende zieht sich zurück → der Ängstliche rennt hinterher → der Vermeidende fühlt sich eingeengt → zieht sich noch mehr zurück → der Ängstliche wird noch verzweifelter.
 
-Dieses Muster fühlt sich an wie große Leidenschaft. Die Höhen sind berauschend, die Tiefen vernichtend. Aber es ist keine Liebe — es ist ein [toxisches Dating-Muster](/blog/eifersucht-beziehung-ueberwinden), das beide Seiten unglücklich macht.
+Dieses Muster fühlt sich an wie große Leidenschaft. Die Höhen sind berauschend, die Tiefen vernichtend. Aber es ist keine Liebe — es ist ein [toxisches Dating-Muster](/blog/eifersucht-bekaempfen), das beide Seiten unglücklich macht.
 
 ## Wie du deinen Bindungsstil ändern kannst
 
@@ -130,7 +130,7 @@ Dein Bindungsstil erklärt, warum du so datest, wie du datest. Er erklärt die S
 Aber er bestimmt nicht, wer du in Zukunft sein wirst. Mit Bewusstsein, Geduld und der Bereitschaft, an dir zu arbeiten, kannst du einen sicheren Bindungsstil entwickeln — und damit die Grundlage für eine Beziehung schaffen, die sich nicht nur aufregend anfühlt, sondern auch gut tut.
 ## Weiterlesen
 
-- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-dating/)
+- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-guide/)
 - [Dating als Ambivert: Dein Vorteil wenn du weder](/blog/dating-als-ambivert/)
 - [Selbstwert und Dating: Warum es zusammenhängt](/blog/dating-und-selbstwert/)
 - [Dating mit unterschiedlichem Bildungsniveau: Funktioniert](/blog/dating-unterschiedliche-bildung/)

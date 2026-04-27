@@ -459,5 +459,5 @@ Viel Erfolg und Sicherheit bei deiner Partnersuche!
 
 - [Online-Dating für Senioren: Tech & Tipps für 65+](/blog/online-dating-fuer-senioren/)
 - [Online-Dating Sicherheit: So schützt du dich vor Betrug](/blog/online-dating-sicherheit/)
-- [Perfekte Fotos fürs Online-Dating](/blog/online-dating-fotos/)
+- [Perfekte Fotos fürs Online-Dating](/blog/dating-profile-fotos-tipps/)
 - [Wie Dating-App Algorithmen wirklich funktionieren](/blog/online-dating-algorithmus/)

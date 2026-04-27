@@ -135,7 +135,7 @@ Weitere Informationen findest du bei Bundesamt für Sicherheit in der Informatio
 
 ## Weiterlesen
 
-- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-online-dating/)
+- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-dating-app/)
 - [Vom Chat zum ersten Treffen: Übergang zum echten Leben](/blog/erstes-treffen-online-dating/)
 - [Wie Dating-App Algorithmen wirklich funktionieren](/blog/online-dating-algorithmus/)
 - [Online-Dating Antworten die Interesse zeigen](/blog/online-dating-antwort-schreiben/)

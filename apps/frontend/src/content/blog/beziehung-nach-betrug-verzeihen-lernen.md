@@ -531,4 +531,4 @@ Weil sie sind echt.
 - [Sexuelle Heilung nach Betrug in der Beziehung](/blog/beziehung-nach-betrug-sexuell-heilen/)
 - [Beziehung nach Online-Betrug: Vertrauen zurückgewinnen](/blog/beziehung-nach-betrug-online-dating/)
 - [Vergebung in der Beziehung: Loslassen lernen](/blog/beziehung-vergebung-lernen-loslassen/)
-- [Vertrauen nach einem Betrug aufbauen](/blog/vertrauen-nach-betrug/)
+- [Vertrauen nach einem Betrug aufbauen](/blog/vertrauen-aufbauen-beziehung/)

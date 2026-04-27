@@ -364,9 +364,9 @@ Sei smart. Sei sicher. Und wenn etwas fühlt sich off, es ist es wahrscheinlich.
 
 ## Das könnte dich auch interessieren
 
-- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich/)
+- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-app-vergleich-2026/)
 - [Dating-Apps Vergleich 2026 - Welche passt zu Dir?](/blog/dating-apps-vergleich-2026/)
-- [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/beste-dating-apps-2026/)
+- [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/dating-app-vergleich-2026/)
 - [Wie Dating-App Algorithmen wirklich funktionieren](/blog/online-dating-algorithmus/)
 
 

@@ -483,7 +483,7 @@ Du bist genug. Es ist Zeit, dass du das wirklich glaubst. Und mit jedem Date, mi
 Die richtige Person wird dich sehen und lieben – wirklich dich, mit all deinen Teilen, auch den unsicheren.
 ## Weiterlesen
 
-- [Dating mit chronischer Krankheit: Ehrlich und mutig](/blog/dating-mit-chronischer-krankheit/)
+- [Dating mit chronischer Krankheit: Ehrlich und mutig](/blog/dating-mit-krankheit-chronisch/)
 - [Dating mit Übergewicht: Selbstbewusst trotz Unsicherheit](/blog/dating-als-uebergewichtige/)
 - [Autismus und Dating: Liebe finden auf dem Spektrum](/blog/autismus-und-dating-guide/)
 - [Beige Flags — Die langweiligen Warnsignale beim Dating](/blog/beige-flags-dating-guide/)

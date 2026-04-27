@@ -775,6 +775,6 @@ Lese auch: Beziehung Kommunikation verbessern, [Persönliche Grenzen beim Dating
 
 - [Streitkultur in der Beziehung: So streitet ihr fair und](/blog/streitkultur-beziehung/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Beziehung retten: Der ehrliche Guide wenn es die letzte](/blog/beziehung-retten-letzte-chance/)
 - [Verschiedene Lebenspläne in der Beziehung: Wenn Liebe allein](/blog/beziehung-verschiedene-lebensplaene/)

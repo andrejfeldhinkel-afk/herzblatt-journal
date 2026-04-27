@@ -132,7 +132,7 @@ Wenn die Antwort nein ist, dann respektiere dich selbst genug zu gehen.
 ## Interne Links zu verwandten Inhalten
 
 Wenn dich emotionales Fremdgehen betrifft, könnten auch diese Artikel helfen:
-- [Vertrauen in Beziehungen: Wie du es wiederaufbaust nach Betrug](/blog/vertrauen-nach-betrug)
+- [Vertrauen in Beziehungen: Wie du es wiederaufbaust nach Betrug](/blog/vertrauen-aufbauen-beziehung)
 - [Paarkommunikation: Die unbequemen Gespräche führen](/blog/kommunikation-beziehung)
 
 ## Weiterführende Artikel

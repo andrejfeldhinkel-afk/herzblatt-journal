@@ -309,7 +309,7 @@ Das ist das größte Geschenk, das Dating dir geben kann.
 
 ## Das könnte dich auch interessieren
 
-- [Die häufigsten Fehler bei Dating-Profilfotos](/blog/dating-profilfotos-fehler/)
+- [Die häufigsten Fehler bei Dating-Profilfotos](/blog/dating-profile-fotos-tipps/)
 - [Wie dein Selbstwert dein Dating-Leben beeinflusst](/blog/dating-und-selbstwert/)
 - [Slow Dating: Warum weniger Matches zu mehr Liebe führen](/blog/slow-dating-guide/)
 - [15 Dating-Mythen die Deiner Partnersuche schaden](/blog/dating-mythen-die-schaden/)

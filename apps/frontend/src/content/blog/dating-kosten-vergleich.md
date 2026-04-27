@@ -265,5 +265,5 @@ Gutes Glück beim Daten. Viel Erfolg!
 
 - [Dating-Apps Vergleich 2026 - Welche passt zu Dir?](/blog/dating-apps-vergleich-2026/)
 - [Dating-Apps 2026: Alle Apps im ehrlichen Vergleich](/blog/dating-apps-vergleich-2026-komplett/)
-- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich/)
+- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-app-vergleich-2026/)
 - [Dating-Apps im Vergleich 2026](/blog/dating-app-vergleich-2026/)

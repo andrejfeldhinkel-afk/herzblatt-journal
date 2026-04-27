@@ -201,7 +201,7 @@ Die okologische Bewusstheit Freiburgs spiegelt sich in den Dating-Erwartungen. W
 
 ## Weiterlesen
 
-- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-dating/)
+- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-guide/)
 - [Autismus und Dating: Liebe finden auf dem Spektrum](/blog/autismus-und-dating-guide/)
 - [Beige Flags — Die langweiligen Warnsignale beim Dating](/blog/beige-flags-dating-guide/)
 - [Bindungsstile im Dating: Warum du immer wieder an die](/blog/bindungsstile-dating/)

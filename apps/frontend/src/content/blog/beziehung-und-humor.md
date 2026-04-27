@@ -134,5 +134,5 @@ Weitere Informationen findest du bei Therapie Portal: [Therapie Portal](https://
 - [Vergebung in der Beziehung: Wann lohnt es sich?](/blog/beziehung-und-vergebung/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 - [Humor in der Beziehung: Wenn ihr anders lacht](/blog/beziehung-und-unterschiedlicher-humor/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Nach Vertrauensbruch: Heilung finden](/blog/beziehung-nach-vertrauensbruch/)

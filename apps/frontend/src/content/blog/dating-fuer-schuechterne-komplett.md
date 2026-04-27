@@ -191,7 +191,7 @@ Schüchterne Menschen sind oft zu offen für Menschen, weil sie froh sind, dass 
 
 Rote Flaggen könnten sein: Sie sprechen nur über sich selbst und fragen nicht nach dir. Sie sind unhöflich zu Servicepersonal. Sie sprechen schlecht von Exes. Sie sind nicht zuverlässig. Sie sind zu schnell intensiv. Sie respektieren deine Grenzen nicht.
 
-Du schuldest niemandem eine Chance, nur weil sie interessiert sind. Du darfst wählen. [Erfahren Sie mehr: Rote Flaggen in Beziehungen erkennen](/blog/love-languages-beziehung).
+Du schuldest niemandem eine Chance, nur weil sie interessiert sind. Du darfst wählen. [Erfahren Sie mehr: Rote Flaggen in Beziehungen erkennen](/blog/liebessprachen-komplett-guide).
 
 ## Selbstliebe: Das Fundament für erfolgreiches Dating
 

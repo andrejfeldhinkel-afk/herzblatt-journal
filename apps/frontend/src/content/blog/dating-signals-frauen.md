@@ -159,5 +159,5 @@ Detaillierte Infos bietet Verbraucherzentrale: [Verbraucherzentrale](https://www
 - [Speed-Dating-Tipps: So überzeugst du sofort](/blog/speed-dating-tipps/)
 - [Dating-Knigge 2026: Die neuen Regeln der modernen Liebe](/blog/dating-etikette-2026/)
 - [Die neuen Dating-Regeln 2026: Was wirklich funktioniert](/blog/moderne-dating-regeln/)
-- [Das perfekte Dating-Profil: Schritt-für-Schritt](/blog/perfektes-dating-profil/)
+- [Das perfekte Dating-Profil: Schritt-für-Schritt](/blog/online-dating-profiltext/)
 - [Flirten lernen: Der komplette Guide von A bis Z](/blog/flirten-komplett-guide/)

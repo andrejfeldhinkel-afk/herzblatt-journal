@@ -78,8 +78,8 @@ Passivität ist der dritte Fehler. Profile, die nur beschreiben, aber nicht einl
 Dein Dating-Profil ist ein lebendiges Dokument. Aktualisiere es regelmäßig, wechsle Fotos aus und passe deinen Text an, wenn sich etwas in deinem Leben ändert. Die Version von dir, die dort steht, sollte immer die aktuelle sein, denn das ist die Person, die dein nächstes Match kennenlernen wird.
 ## Weiterlesen
 
-- [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/beste-dating-apps-2026/)
+- [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/dating-app-vergleich-2026/)
 - [So optimierst du deinen Dating-App Algorithmus](/blog/dating-apps-algorithmus-hacken/)
-- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich/)
-- [Dating für Introvertierte: Tipps zum Finden von Liebe ohne Stress](/blog/dating-introvertierte/)
-- [Dating nach 40 als Mann: Dein zweiter Frühling](/blog/dating-nach-40-maenner/)
+- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-app-vergleich-2026/)
+- [Dating für Introvertierte: Tipps zum Finden von Liebe ohne Stress](/blog/introvertiert-dating/)
+- [Dating nach 40 als Mann: Dein zweiter Frühling](/blog/dating-ab-40/)

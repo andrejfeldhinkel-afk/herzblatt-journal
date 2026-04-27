@@ -316,7 +316,7 @@ Du verdienst es. Wirklich.
 
 ## Das könnte dich auch interessieren
 
-- [10 Dating-Fehler, die Männer ständig machen (und wie du](/blog/dating-fehler-maenner/)
+- [10 Dating-Fehler, die Männer ständig machen (und wie du](/blog/dating-fehler-frauen/)
 - [Dating-Profiltext für Männer](/blog/dating-profiltext-maenner/)
-- [Dating-Tipps für introvertierte Männer](/blog/dating-als-introvertierter-mann/)
+- [Dating-Tipps für introvertierte Männer](/blog/introvertiert-dating/)
 - [Online-Dating-Profil optimieren: Guide für Männer](/blog/online-dating-profil-optimieren-maenner/)

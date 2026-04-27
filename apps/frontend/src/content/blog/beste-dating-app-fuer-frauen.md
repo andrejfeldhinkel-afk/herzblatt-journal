@@ -272,7 +272,7 @@ Hinge wird gern als "die App, die du löschst, wenn du jemanden gefunden hast" b
 
 **Preis:** ab 32,99 €/Monat oder 12-Monatsabo günstiger
 
-**[Mehr zu Hinge: Zum ausführlichen Test](/blog/hinge-test-erfahrungen)**
+**[Mehr zu Hinge: Zum ausführlichen Test](/blog/hinge-guide-deutsch-2026)**
 
 ---
 

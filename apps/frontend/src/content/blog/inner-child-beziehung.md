@@ -396,10 +396,10 @@ Schreib diese ohne zu bearbeiten. Lasse dein inneres Kind sprechen.
 
 ## Weiterlesen
 
-- [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inneres-kind-heilen-beziehung/)
+- [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inner-child-beziehung/)
 - [Die Kraft der Berührung: Warum körperliche Nähe heilt](/blog/beruehrungen-beziehung-bedeutung/)
 - [Daddy Issues: Wie dein Vater deine Beziehungen beeinflusst](/blog/daddy-issues-beziehung/)
-- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-toxischer-beziehung/)
+- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-narzisst/)
 - [Emotional Detachment: Wenn du in der Beziehung nichts mehr](/blog/emotional-detachment-beziehung/)
 ## Häufig gestellte Fragen zu innerer Kind-Heilung
 

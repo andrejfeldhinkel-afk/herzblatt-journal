@@ -628,7 +628,7 @@ Halte an dieser Hoffnung fest.
 
 ## Das könnte dich auch interessieren
 
-- [Fremdgehen verzeihen: Kann eine Beziehung nach Untreue überleben?](/blog/fremdgehen-verzeihen/)
+- [Fremdgehen verzeihen: Kann eine Beziehung nach Untreue überleben?](/blog/fremdgehen-verzeihen-kompletter-guide/)
 - [Beziehung nach Fremdgehen: Neuanfang oder endgültiges Ende?](/blog/beziehung-nach-fremdgehen/)
 - [Kann man nach einem Betrug vergeben?](/blog/vergebung-nach-betrug/)
 - [Kontrollzwang in der Beziehung — Wenn Vertrauen fehlt](/blog/kontrollzwang-beziehung/)

@@ -551,4 +551,4 @@ Und reparieren ist alles. Das ist der Schlüssel, nicht zu Scheidung, sondern zu
 - [Micro-Dating — Kleine Momente die eure Beziehung retten](/blog/micro-dating-beziehung-guide/)
 - [Bids for Connection — Gottmans Konzept der](/blog/bids-for-connection-beziehung-guide/)
 - [Emotionsregulation in Beziehungen: Wie du lernst, deine](/blog/emotionsregulation-beziehung-guide/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)

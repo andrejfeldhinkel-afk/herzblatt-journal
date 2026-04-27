@@ -549,7 +549,7 @@ Das ist die Beziehung, auf die es ankommt.
 - [Machtkampf in der Beziehung: Warum ihr gegeneinander statt](/blog/machtkampf-in-der-beziehung/)
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 - [Neid in der Beziehung: Wenn du deinem Partner seinen Erfolg](/blog/neid-in-der-beziehung/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Beziehung retten: Der ehrliche Guide wenn es die letzte](/blog/beziehung-retten-letzte-chance/)
 ## Häufig gestellte Fragen
 

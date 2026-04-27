@@ -220,5 +220,5 @@ Mit Anstrengung, Kreativität und gegenseitiger Verpflichtung, kann jede Beziehu
 - [Beziehung nach 10 Jahren: Liebe neu entfachen](/blog/beziehung-nach-10-jahren/)
 - [Offene Kommunikation: So sagst du was du denkst](/blog/beziehung-offene-kommunikation/)
 - [Beziehungspause: Regeln die wirklich helfen](/blog/beziehung-pause-regeln/)
-- [Beziehung retten: Praktische Strategien](/blog/beziehung-retten/)
+- [Beziehung retten: Praktische Strategien](/blog/beziehung-retten-kompletter-guide/)
 - [Altersunterschied in Beziehungen: Chancen und](/blog/beziehung-unterschiedliches-alter/)

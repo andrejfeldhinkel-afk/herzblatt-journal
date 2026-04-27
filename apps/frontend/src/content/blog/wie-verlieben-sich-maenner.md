@@ -87,5 +87,5 @@ Wissenschaftlich dauert es für einen Durchschnittsmann 2-4 Monate, um in Phase 
 Commitment kommt später – zwischen Monat 6 und Monat 12. Das ist, wenn er weiß, dass das für lange Zeit sein soll.
 
 Wenn ein Mann nach 6 Monaten immer noch sagt, dass er "nicht sicher ist", muss du ehrlich mit dir selbst sein: Entweder hat er [Das perfekte Date-Outfit für Männer: Von Café bis Restaurant](/blog/date-outfit-maenner)
-- [Demisexuell: Wenn Liebe langsam wächst](/blog/dating-demisexuell-langsam-verlieben)
+- [Demisexuell: Wenn Liebe langsam wächst](/blog/demisexuell-dating-guide)
 

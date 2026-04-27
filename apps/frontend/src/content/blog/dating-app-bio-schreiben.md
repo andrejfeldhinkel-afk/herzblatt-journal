@@ -218,6 +218,6 @@ Eine letzte praktische Anmerkung: Nachdem du deine Bio geschrieben hast, lies si
 
 - [Dating-Profilbild: Die besten Foto-Tipps](/blog/dating-profilbild-tipps/)
 - [Wie Dating-App Algorithmen wirklich funktionieren](/blog/online-dating-algorithmus/)
-- [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/online-dating-fotos/)
+- [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/dating-profile-fotos-tipps/)
 - [Online-Dating für Senioren: Tech & Tipps für 65+](/blog/online-dating-fuer-senioren/)
 - [Dating App Profil optimieren: So bekommst du mehr Matches](/blog/dating-app-profil-optimieren/)

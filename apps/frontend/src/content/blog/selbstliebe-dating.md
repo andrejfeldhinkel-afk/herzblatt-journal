@@ -130,7 +130,7 @@ Fang heute an. Mach eine dieser Übungen. Schreib dir einen Brief. Sag dir im Sp
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten), [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten-kompletter-guide), [Die 10 größten Beziehungskiller: Was Sie vermeiden sollten](/blog/beziehungskiller-vermeiden).## Weiterlesen
 
 - [Dating als Ambivert: Dein Vorteil wenn du weder](/blog/dating-als-ambivert/)
 - [Dating nach Burnout oder Depression: Wann bin ich bereit](/blog/dating-nach-burnout/)

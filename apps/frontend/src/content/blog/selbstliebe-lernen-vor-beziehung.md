@@ -361,6 +361,6 @@ Weil in diesem Moment, erkennst du, dass du es tust.
 ## Das könnte dich auch interessieren
 
 - [Selbstliebe: Das Fundament jeder Beziehung](/blog/selbstliebe-vor-beziehung-masterclass/)
-- [Selbstliebe: Warum du dich zuerst finden musst, bevor du](/blog/selbstliebe-vor-partnersuche/)
+- [Selbstliebe: Warum du dich zuerst finden musst, bevor du](/blog/selbstliebe-dating/)
 - [Vergeben in der Beziehung lernen: Der Weg zur Heilung](/blog/vergeben-in-beziehung-lernen/)
 - [Selbstliebe lernen: Der ultimative Guide für mehr Selbstwert](/blog/selbstliebe-lernen-ultimativer-guide/)

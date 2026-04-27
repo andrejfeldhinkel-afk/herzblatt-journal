@@ -6,7 +6,7 @@ tags:
   - "Psychologie"
   - "Heilung"
   - "Beziehung"
-image: "/images/blog/erste-beziehung-tipps.webp"
+image: "/images/blog/erste-beziehung-tipps-guide.webp"
 imageAlt: "Nachdenklicher Mann in Therapieumgebung als Symbol für komplexe PTBS"
 keywords: ["komplexe ptbs beziehung", "cptbs partnerschaft", "kindheitstrauma beziehung", "komplexe traumafolgestörung", "kptbs symptome beziehung"]
 draft: false

@@ -214,4 +214,4 @@ Du kannst das auch.
 
 - [Emotionale Abhängigkeit: Der komplette Guide für mehr Una...](/blog/emotionale-abhaengigkeit-komplett-guide)
 - [Emotionale Abhängigkeit überwinden: Unabhängigkeit](/blog/emotionale-abhaengigkeit)
-- [Emotionale Intelligenz im Dating: Warum EQ wichtiger ist?](/blog/emotionale-intelligenz-dating)
+- [Emotionale Intelligenz im Dating: Warum EQ wichtiger ist?](/blog/emotionale-intelligenz-beziehung)

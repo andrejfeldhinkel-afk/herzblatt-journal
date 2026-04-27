@@ -285,4 +285,4 @@ Gib nicht auf. Glaube an dich selbst. Und vertraue, dass die beste Version deine
 - [Vertrauen aufbauen nach Betrug](/blog/beziehung-nach-betrug-vertrauen/)
 - [Vertrauen in der Beziehung wieder aufbauen](/blog/beziehung-vertrauen-wieder-aufbauen-schritte/)
 - [Vertrauen aufbauen in der Beziehung: 12 bewährte Strategien](/blog/vertrauen-aufbauen-beziehung/)
-- [Vertrauen nach einem Betrug aufbauen](/blog/vertrauen-nach-betrug/)
+- [Vertrauen nach einem Betrug aufbauen](/blog/vertrauen-aufbauen-beziehung/)

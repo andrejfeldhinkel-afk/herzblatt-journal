@@ -584,7 +584,7 @@ Wenn du möchtest, weitere Artikel zu lesen, die sich auf dieses Thema beziehen:
 ## Weiterlesen
 
 - [Online-Dating Langzeitstrategie: So findest du nachhaltig](/blog/online-dating-langzeitstrategie/)
-- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-toxischer-beziehung/)
+- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-narzisst/)
 - [Micro-Dating — Kleine Momente die eure Beziehung retten](/blog/micro-dating-beziehung-guide/)
 - [Wie Dating-App Algorithmen wirklich funktionieren](/blog/online-dating-algorithmus/)
-- [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/online-dating-fotos/)
+- [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/dating-profile-fotos-tipps/)

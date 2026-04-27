@@ -323,6 +323,6 @@ Das ist der richtige Weg.
 ## Das könnte dich auch interessieren
 
 - [Selbstliebe als Dating-Geheimwaffe](/blog/selbstliebe-dating/)
-- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-fatigue-ueberwinden/)
+- [Dating-Müdigkeit überwinden: Wenn die Suche erschöpft](/blog/dating-nach-burnout/)
 - [Dating als hochsensible Person: Liebe mit tieferen Gefühlen](/blog/hochsensibel-dating/)
-- [Bindungstypen verstehen: Einfluss auf dein Dating](/blog/attachment-styles-dating/)
+- [Bindungstypen verstehen: Einfluss auf dein Dating](/blog/attachment-styles-guide/)

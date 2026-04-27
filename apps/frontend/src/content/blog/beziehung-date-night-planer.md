@@ -297,4 +297,4 @@ Viel Glück.
 - [Date Night zuhause: 30 Ideen](/blog/date-night-ideen-zuhause/)
 - [Quality Time vs Quantity Time](/blog/beziehung-quality-time-vs-quantity/)
 - [Quality Time 2026: 40 Ideen für echte Zweisamkeit](/blog/beziehung-quality-time-ideen/)
-- [Gespräche auf dem ersten Date – So wird es nie peinlich](/blog/erstes-date-gespraeche-fuehren/)
+- [Gespräche auf dem ersten Date – So wird es nie peinlich](/blog/erstes-date-tipps/)

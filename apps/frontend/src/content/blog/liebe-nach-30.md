@@ -83,4 +83,4 @@ Dein Herzblatt wartet vielleicht gerade da draußen — und ist wahrscheinlich g
 
 ---
 
-**Weiterlesen:** Erfahre mehr über [Alte Muster durchbrechen beim Dating](/blog/toxische-dating-muster), [Vertrauen in Beziehungen aufbauen](/blog/vertrauen-nach-betrug), und [Beziehung nach langer Single-Zeit: Der Übergang](/blog/beziehung-nach-langer-single-phase).
+**Weiterlesen:** Erfahre mehr über [Alte Muster durchbrechen beim Dating](/blog/toxische-beziehung-erkennen), [Vertrauen in Beziehungen aufbauen](/blog/vertrauen-aufbauen-beziehung), und [Beziehung nach langer Single-Zeit: Der Übergang](/blog/beziehung-nach-langer-single-phase).

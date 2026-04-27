@@ -2,7 +2,7 @@
 title: "Demisexualitaet: Wenn sexuelle Anziehung erst mit emotionaler Naehe entsteht"
 description: "Demisexualitaet erklaert: Was bedeutet demisexuell, wie unterscheidet es sich von Asexualitaet und welche Dating-Tipps helfen Demisexuellen?"
 date: 2026-04-24
-image: "/images/blog/demisexualitaet-dating-guide.webp"
+image: "/images/blog/demisexuell-dating-guide.webp"
 imageAlt: "Demisexualitaet erklaert"
 tags:
   - "Queer"

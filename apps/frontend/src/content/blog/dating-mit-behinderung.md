@@ -155,7 +155,7 @@ Ihre Behinderung ist ein Teil Ihrer Geschichte. Aber es ist nicht das Ende davon
 
 **Weiterlesen:** Entdecke auch unsere [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-alleinerziehend-kompletter-leitfaden/), [Dating nach Scheidung: So finden Sie die Liebe neu](/blog/dating-nach-scheidung).## Weiterlesen
 
-- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/dating-als-introvertierter-mann/)
+- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/introvertiert-dating/)
 - [Dating-Tipps für schüchterne Frauen](/blog/dating-tipps-fuer-schuechterne-frauen/)
 - [Dating nach Burnout oder Depression: Wann bin ich bereit](/blog/dating-nach-burnout/)
 - [Dating nach großer Körperveränderung](/blog/dating-nach-gewichtsverlust/)

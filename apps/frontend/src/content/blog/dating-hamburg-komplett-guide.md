@@ -322,5 +322,5 @@ Wenn du Hamburg verstehen magst und echte Verbindungen willst – Hamburg ist pe
 
 - [Dating in Hamburg: Die besten Orte, Tipps & Hotspots für](/blog/dating-hamburg/)
 - [Die neuen Dating-Regeln 2026: Was wirklich funktioniert](/blog/moderne-dating-regeln/)
-- [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/beste-dating-apps-2026/)
+- [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/dating-app-vergleich-2026/)
 - [10 Dating-Mythen, die du vergessen solltest (2026)](/blog/dating-mythen-entlarvt/)

@@ -50,7 +50,7 @@ Ein Jahr später sind sie verlobt. Der Unterschied? Marcus änderte seinen Bindu
 
 ## Längerfristige Integration mit anderen Aspekten deiner Beziehung
 
-Lerne wie dein Bindungsstil mit [wie innere Kindheit-Wunden deine Beziehung beeinflussen](/blog/inneres-kind-heilen-beziehung) — dein Bindungsstil ist tatsächlich oft ein Ausdruck dieser tieferen Wunden.
+Lerne wie dein Bindungsstil mit [wie innere Kindheit-Wunden deine Beziehung beeinflussen](/blog/inner-child-beziehung) — dein Bindungsstil ist tatsächlich oft ein Ausdruck dieser tieferen Wunden.
 
 Und erkunde [wie man aus Codependenz aussteigt](/blog/codependenz-erkennen-ueberwinden) — viele ängstlich gebundene Menschen landen in codependent Mustern.
 
@@ -590,8 +590,8 @@ Das zu überwindet: Du brauchst Beweis dass ein anderer Weg möglich ist. Das er
 Die Heilung beginnt mit einer kleinen Verschiebung. Vertrau dieser ersten Verschiebung. Baue darauf auf. Nach Monaten, du wird merkst: Du bist nicht mehr dieser alte Mensch. Du bist sicherer. Du bist freier. Du liebst klarer.
 ## Weiterlesen
 
-- [Bindungsangst überwinden: Warum du dich nicht einlassen](/blog/bindungsangst-ueberwinden/)
+- [Bindungsangst überwinden: Warum du dich nicht einlassen](/blog/bindungsangst-komplett-guide/)
 - [Emotional Detachment: Wenn du in der Beziehung nichts mehr](/blog/emotional-detachment-beziehung/)
 - [Fawn Response: Wenn du dich in Beziehungen aufgibst, um](/blog/fawn-response-beziehung-guide/)
 - [Hyper-Independence: Wenn extreme Unabhängigkeit deine](/blog/hyper-independence-beziehung/)
-- [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inneres-kind-heilen-beziehung/)
+- [Inneres Kind heilen: Wie alte Wunden deine Beziehungen](/blog/inner-child-beziehung/)

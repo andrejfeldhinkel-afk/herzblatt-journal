@@ -165,4 +165,4 @@ Das ist das Ziel. Das ist, worauf du hinarbeitest. Nicht, dass das Trauma weg is
 - [Dating nach Trauma: Wann bin ich bereit?](/blog/dating-nach-trauma-bereit-sein/)
 - [Dating nach psychischer Erkrankung: Der behutsame Weg zurück](/blog/dating-nach-psychischer-erkrankung/)
 - [Dating nach langer Beziehung: Neustart nach 5, 10 oder 20 Jahren](/blog/dating-nach-langer-beziehung-guide/)
-- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung-wann-bereit/)
+- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung/)

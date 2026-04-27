@@ -128,8 +128,8 @@ Dein Selbstwert ist nicht vanity. Es ist das Fundament von erfolgreichen Beziehu
 Nimm dir Zeit. Sei geduldig mit dir. Aber beginne jetzt.
 ## Weiterlesen
 
-- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-dating/)
+- [Bindungstypen beim Dating erklärt](/blog/attachment-styles-guide/)
 - [Bindungsstile im Dating: Warum du immer wieder an die](/blog/bindungsstile-dating/)
 - [Dating mit unterschiedlichem Bildungsniveau: Funktioniert](/blog/dating-unterschiedliche-bildung/)
 - [Throning — Wenn du nur als Statussymbol datst](/blog/throning-dating-trend-guide/)
-- [Toxische Dating-Muster erkennen und durchbrechen:](/blog/toxische-dating-muster-durchbrechen/)
+- [Toxische Dating-Muster erkennen und durchbrechen:](/blog/toxische-beziehung-erkennen/)

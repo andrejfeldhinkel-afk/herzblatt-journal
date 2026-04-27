@@ -29,7 +29,7 @@ Aber diese Unklarheit? Das ist auch die Quelle von unbehaglicher Verwirrung. Du 
 
 In diesem Artikel geben ich dir ein Framework. Ich zeige dir die typischen 5 Phasen, die eine Dating-Situation durchläuft, ich gebe dir 10 konkrete Anzeichen, dass es eine echte Beziehung wird, und ich helfe dir, das richtige Gespräch zu führen, um Klarheit zu schaffen.
 
-## Die 5 Phasen: Von [Situationship](/blog/situationship-erkennen-umgehen):** Ihr seid exklusiv, verbringt viel Zeit miteinander, seid aber emotional nicht wirklich investiert. Es ist unklar, ob es eine Zukunft gibt. Diese Form kann funktionieren, wenn beide Menschen klar sind, dass das ist, was es ist - aber sie ist oft verwirrend und verletzlich.
+## Die 5 Phasen: Von [Situationship](/blog/situationship-guide):** Ihr seid exklusiv, verbringt viel Zeit miteinander, seid aber emotional nicht wirklich investiert. Es ist unklar, ob es eine Zukunft gibt. Diese Form kann funktionieren, wenn beide Menschen klar sind, dass das ist, was es ist - aber sie ist oft verwirrend und verletzlich.
 
 **Label-freie Beziehung:** Ihr habt alle Merkmale einer Beziehung (Exklusivität, emotionale Nähe, Zukunftspläne), aber ihr nennt es nicht offiziell "Beziehung". Das ist weniger häufig, aber es funktioniert für manche Menschen.
 

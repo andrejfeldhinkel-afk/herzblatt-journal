@@ -256,4 +256,4 @@ Viel Erfolg beim Dating – Elbflorenz wartet auf dich!
 - [Dating in Dresden – Die besten Tipps, Orte & Strategien [ ]](/blog/dating-dresden/)
 - [Dating nach einer Sekte – Freiheit und Liebe neu entdecken](/blog/dating-nach-sektenerfahrung/)
 - [Dating als hochsensible Person: Liebe mit tieferen Gefühlen](/blog/hochsensibel-dating/)
-- [Dating über 40: Neustart in der Liebe — ehrlich und](/blog/dating-ueber-40/)
+- [Dating über 40: Neustart in der Liebe — ehrlich und](/blog/dating-ab-40/)

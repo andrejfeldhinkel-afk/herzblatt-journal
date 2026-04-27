@@ -207,6 +207,6 @@ Ihre zukünftige romantische Partner wird Sie für die Person dankbar, die volls
 ## Das könnte dich auch interessieren
 
 - [Dating nach Trauma: Wann bin ich bereit?](/blog/dating-nach-trauma-bereit-sein/)
-- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung-wann-bereit/)
+- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung/)
 - [Dating nach Betrug: Vertrauen wieder aufbauen](/blog/dating-nach-betrug/)
 - [Dating als Witwe oder Witwer — Wieder lieben nach dem](/blog/dating-als-witwe-witwer/)

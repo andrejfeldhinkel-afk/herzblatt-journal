@@ -109,7 +109,7 @@ Das Ding ist: Dating ist nicht nur Liebe. Es ist auch Kompatibilität auf fundam
 
 ## Das könnte dich auch interessieren
 
-- [Online-Dating-Müdigkeit: Wenn Swipen zur Last wird](/blog/online-dating-muedigkeit/)
+- [Online-Dating-Müdigkeit: Wenn Swipen zur Last wird](/blog/dating-nach-burnout/)
 - [Dating als Veganer: Wenn Ernährung zur Frage wird](/blog/dating-als-veganer-vegetarier/)
 - [Dating und Mental Load: Wenn Dating selbst Stress ist](/blog/dating-und-mental-load/)
 - [Dating Fatigue: Wenn einfach nichts klappt](/blog/dating-fatigue-wenn-nichts-klappt/)

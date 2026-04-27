@@ -2,7 +2,7 @@
 title: "Speed-Dating Koeln: Karneval, Brauhaus und echte Begegnungen"
 description: "Speed-Dating Koeln 2026: Brauhaus-Editions, Karneval-Specials, Belgisches Viertel und Studi-Events. Komplett-Guide mit Fragen, Outfits und Anbieter-Tipps."
 date: 2026-04-27
-image: "/images/blog/dating-als-introvertierter-mann-guide.webp"
+image: "/images/blog/dating-introvertierte-maenner.webp"
 imageAlt: "Speed-Dating Koeln"
 tags:
   - "Dating"

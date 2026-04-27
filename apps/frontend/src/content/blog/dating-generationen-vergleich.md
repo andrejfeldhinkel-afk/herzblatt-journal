@@ -45,7 +45,7 @@ Gen X datet noch wie es in den 80ern war: Freunde, Bars, zufällige Treffen. Ein
 - Sie meinen, was sie sagen—Spielchen sind ausgelöst für sie
 
 **[Dating mit ADHS: So findest du Liebe trotz Aufmerksamkeits-Chaos](/blog/dating-mit-adhs) | [Dating-Apps im Vergleich 2026: Welche passt zu dir?](/blog/dating-app-vergleich-2026)
-- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich)
+- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-app-vergleich-2026)
 
 
 

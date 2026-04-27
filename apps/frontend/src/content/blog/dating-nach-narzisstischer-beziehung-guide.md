@@ -147,7 +147,7 @@ Ein guter Therapeut wird dich nicht drängen, "das zu überwinden" oder "voranzu
 
 ## Weiterlesen
 
-- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-toxischer-beziehung/)
+- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-narzisst/)
 - [Autismus und Dating: Liebe finden auf dem Spektrum](/blog/autismus-und-dating-guide/)
 - [Beige Flags — Die langweiligen Warnsignale beim Dating](/blog/beige-flags-dating-guide/)
 - [Dating ab 50: Der komplette Guide für die Liebe in der](/blog/dating-ab-50-kompletter-guide/)

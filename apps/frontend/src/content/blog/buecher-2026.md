@@ -270,7 +270,7 @@ Gib nicht auf. Glaube an dich selbst. Und vertraue, dass die beste Version deine
 
 ## Das könnte dich auch interessieren
 
-- [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/beste-dating-apps-2026/)
+- [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/dating-app-vergleich-2026/)
 - [Die besten Dating-Apps für Frauen 2026](/blog/dating-apps-fuer-frauen/)
 - [Dating in München: Wo die Liebe wartet 2026](/blog/dating-muenchen-komplett-guide/)
 - [Dating in Leipzig – Die besten Tipps, Orte & Strategien [ ]](/blog/dating-leipzig/)

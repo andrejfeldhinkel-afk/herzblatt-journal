@@ -751,7 +751,7 @@ Und fang an, gegen ihn zu kämpfen.
 
 Du wirst überrascht sein, wie schnell sich die Dinge ändern können.
 
-Lese auch: Beziehung Kommunikation verbessern, [Emotionale Intelligenz beim Dating](/blog/emotionale-intelligenz-dating), [Dating psychologie und Anziehung](/blog/dating-psychologie-anziehung)
+Lese auch: Beziehung Kommunikation verbessern, [Emotionale Intelligenz beim Dating](/blog/emotionale-intelligenz-beziehung), [Dating psychologie und Anziehung](/blog/dating-psychologie-anziehung)
 ## Weiterlesen
 
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)

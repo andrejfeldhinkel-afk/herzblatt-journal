@@ -357,4 +357,4 @@ Das ist der Weg nach vorne.
 - [Sich öffnen nach Jahren als Single](/blog/liebe-nach-langer-singlezeit/)
 - [Dating nach 30 als Frau: Warum es besser wird als du denkst](/blog/dating-nach-30-als-frau/)
 - [Dating mit 30 – Warum jetzt die beste Zeit für die Liebe ist](/blog/dating-nach-30-tipps/)
-- [Dating ab 40: Neustart in der Lebensmitte](/blog/dating-nach-40-neustart/)
+- [Dating ab 40: Neustart in der Lebensmitte](/blog/dating-ab-40/)

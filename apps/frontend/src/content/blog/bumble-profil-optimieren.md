@@ -308,8 +308,8 @@ Mit diesen Strategien wirst du auf Bumble erfolgreicher sein. Und die Matches, d
 
 Das ist die echte Kraft von Bumble – nicht mehr Matches, sondern bessere Matches.## Weiterlesen
 
-- [Die besten Dating-Apps 2026](/blog/beste-dating-apps-2026/)
-- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich/)
+- [Die besten Dating-Apps 2026](/blog/dating-app-vergleich-2026/)
+- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-app-vergleich-2026/)
 - [So erstellst du ein Dating-Profil, das wirklich auffällt](/blog/online-dating-profil/)
 - [Tinder Tipps: So bekommst du mehr Matches](/blog/tinder-tipps-mehr-matches/)
-- [Das perfekte Dating-Profil: Schritt-für-Schritt](/blog/perfektes-dating-profil/)
+- [Das perfekte Dating-Profil: Schritt-für-Schritt](/blog/online-dating-profiltext/)

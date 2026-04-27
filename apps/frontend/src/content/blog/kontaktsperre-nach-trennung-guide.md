@@ -216,6 +216,6 @@ Du wirst wieder ganz. Das verspreche ich dir.
 
 ## Weiterführende Artikel
 
-- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung-wann-bereit)
+- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung)
 - [Grenzen setzen nach der Trennung](/blog/grenzen-nach-trennung-setzen)
 - [Trennung verarbeiten: Schritt für Schritt](/blog/trennung-verarbeiten-komplett)

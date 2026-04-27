@@ -85,8 +85,8 @@ Detaillierte Infos bietet Neurologen und Psychiater im Netz: [Neurologen und Psy
 
 ## Weiterlesen
 
-- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/dating-als-introvertierter-mann/)
-- [Dating Burnout – Wenn die Partnersuche zur Belastung wird](/blog/dating-burnout/)
+- [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/introvertiert-dating/)
+- [Dating Burnout – Wenn die Partnersuche zur Belastung wird](/blog/dating-nach-burnout/)
 - [Dating als hochsensibler Mann: Tiefe statt Fassade](/blog/dating-hochsensible-maenner/)
 - [Dating nach Burnout oder Depression: Wann bin ich bereit](/blog/dating-nach-burnout/)
 - [Ghosting: Warum es passiert und wie du damit umgehst](/blog/ghosting-komplett-guide/)

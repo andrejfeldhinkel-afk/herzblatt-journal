@@ -217,4 +217,4 @@ Das ist nicht nur, wie du jemanden findest. Das ist, wie du jemanden findest, f�
 - [15 Dating-Mythen die Deiner Partnersuche schaden](/blog/dating-mythen-die-schaden/)
 - [15 Dating-Mythen vs. Fakten](/blog/dating-mythen-fakten/)
 - [Dating-Apps 2026: Alle Apps im ehrlichen Vergleich](/blog/dating-apps-vergleich-2026-komplett/)
-- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-apps-vergleich/)
+- [Dating Apps Vergleich 2026: Die beste App für Sie wählen](/blog/dating-app-vergleich-2026/)

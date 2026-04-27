@@ -122,6 +122,6 @@ Detaillierte Infos bietet Bundesamt für Sicherheit in der Informationstechnik: 
 
 - [Zurück ins Dating nach langer Single-Phase](/blog/dating-nach-langer-single-zeit/)
 - [Schwarm ansprechen: So machst du den ersten Schritt](/blog/crush-ansprechen-tipps/)
-- [Erste Beziehung – Was du wissen musst typische](/blog/erste-beziehung-tipps/)
+- [Erste Beziehung – Was du wissen musst typische](/blog/erste-beziehung-tipps-guide/)
 - [Ex vergessen: 12 Tipps die wirklich helfen](/blog/ex-vergessen-tipps/)
 - [Fernbeziehung meistern: 25 Tipps für eine starke Liebe auf](/blog/fernbeziehung-tipps/)

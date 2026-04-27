@@ -255,5 +255,5 @@ Und dann, mit Zeit, mit Arbeit, mit Unterstützung – geh auf eine Beziehung zu
 - [Silent Treatment in der Beziehung](/blog/silent-treatment-beziehung/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
 - [Die Kraft der Berührung: Warum körperliche Nähe heilt](/blog/beruehrungen-beziehung-bedeutung/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Beziehung aufbauen nach einer Depression: Hoffnung vorwärts](/blog/beziehung-nach-depression/)

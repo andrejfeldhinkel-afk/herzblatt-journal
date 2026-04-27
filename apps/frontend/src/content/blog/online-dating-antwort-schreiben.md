@@ -371,7 +371,7 @@ Und am wichtigsten: Sei dir selbst bewusst und bleib realistisch. Manche Mensche
 Antworte authentisch, sei geduldig, sei respektvoll, und vertrau auf den Prozess. Die Liebe kommt, wenn man am wenigsten damit rechnet.## Weiterlesen
 
 - [Vom Chat zum ersten Treffen: Übergang zum echten Leben](/blog/erstes-treffen-online-dating/)
-- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-online-dating/)
+- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-dating-app/)
 - [Wie Dating-App Algorithmen wirklich funktionieren](/blog/online-dating-algorithmus/)
 - [Online-Dating Anschreiben – So bekommst du garantiert](/blog/online-dating-anschreiben/)
 - [Erste-Date-Angst beim Online-Dating überwinden](/blog/online-dating-erste-date-angst/)

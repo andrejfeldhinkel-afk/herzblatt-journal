@@ -194,4 +194,4 @@ Dreißig Tage. Du kannst das. Und danach? Danach kann das Leben beginnen.
 - [Zurück ins Dating nach langer Single-Phase](/blog/dating-nach-langer-single-zeit/)
 - [Single unter Druck: Wenn alle fragen warum Du allein bist](/blog/dating-bei-sozialem-druck-single/)
 - [Dating als schwangere Frau: Akzeptierung und Liebe](/blog/schwangerschaft-dating-single-mama/)
-- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung-wann-bereit/)
+- [Nach der Trennung: Wann bist du bereit für neues Dating?](/blog/dating-nach-trennung/)

@@ -119,7 +119,7 @@ Die Reise zu einem sichereren Bindungsstil braucht Zeit und Geduld. Aber jede be
 ## Weiterlesen
 
 - Dating Fatigue: Wenn du vom Daten müde bist — und was hilft
-- [Frühwarnzeichen beim Dating: Worauf du achten solltest](/blog/dating-fruehwarnzeichen/)
+- [Frühwarnzeichen beim Dating: Worauf du achten solltest](/blog/dating-red-flags-maenner-erkennen/)
 - [Dating mit Depression: Ehrlich bleiben, ohne sich zu verlieren](/blog/dating-mit-depression/)
 - [Dating nach Betrug: Wieder vertrauen nach dem Schmerz](/blog/dating-nach-betrug/)
 - [Dating nach einer Gewichtszunahme: Selbstbewusst trotz Veraenderung](/blog/dating-nach-gewichtszunahme/)

@@ -352,7 +352,7 @@ Folge durch. Das ist nicht etwas, das du versprichst und dann vergisst. Das ist 
 - [Autismus und Dating: Liebe finden auf dem Spektrum](/blog/autismus-und-dating-guide/)
 - [Dating als Ambivert: Dein Vorteil wenn du weder](/blog/dating-als-ambivert/)
 - [Dating-Spielchen durchschauen: Warum Menschen spielen und](/blog/dating-spielchen-durchschauen/)
-- [Demisexualität und Dating: Wenn sexuelle Anziehung erst](/blog/demisexualitaet-dating-guide/)
+- [Demisexualität und Dating: Wenn sexuelle Anziehung erst](/blog/demisexuell-dating-guide/)
 ## FAQ: Die Fragen, die du hast
 
 **Frage: Ist es egoistisch, einen Lieblings-Podcaster/Influencer zu haben?**

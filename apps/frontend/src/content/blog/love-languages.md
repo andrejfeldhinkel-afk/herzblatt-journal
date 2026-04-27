@@ -198,7 +198,7 @@ Nach drei, vier Wochen wird die neue Sprache leichter fließen. Und dein Partner
 
 Das Modell hat Grenzen. Es erklärt viel, aber nicht alles.
 
-Love Languages erklären nicht **sexuelle Unlust**. Sie erklären nicht **tiefe Bindungsängste**. Sie erklären nicht **Traumata aus der Kindheit**, die jede Form von Nähe schwierig machen. Wer in einer toxischen Beziehung feststeckt, kann nicht durch bessere Kommunikation heilen — da braucht es mehr. Unsere Artikel zu [toxischer Beziehung verlassen](/blog/toxische-beziehung-verlassen) und [Bindungsangst überwinden](/blog/bindungsangst-ueberwinden-guide) gehen auf diese tieferen Themen ein.
+Love Languages erklären nicht **sexuelle Unlust**. Sie erklären nicht **tiefe Bindungsängste**. Sie erklären nicht **Traumata aus der Kindheit**, die jede Form von Nähe schwierig machen. Wer in einer toxischen Beziehung feststeckt, kann nicht durch bessere Kommunikation heilen — da braucht es mehr. Unsere Artikel zu [toxischer Beziehung verlassen](/blog/toxische-beziehung-verlassen) und [Bindungsangst überwinden](/blog/bindungsangst-komplett-guide) gehen auf diese tieferen Themen ein.
 
 Außerdem: Love Languages sind keine Entschuldigung. "Das ist einfach nicht meine Sprache" darf nicht zur Ausrede werden, die Bedürfnisse des anderen zu ignorieren. Wer in einer Beziehung ist, übernimmt die Verantwortung, die Sprache des Partners zumindest zu lernen — auch wenn sie nie die eigene wird.
 

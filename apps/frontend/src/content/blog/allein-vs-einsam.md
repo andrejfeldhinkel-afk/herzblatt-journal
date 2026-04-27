@@ -336,5 +336,5 @@ Das macht dein ganzes Leben anders.## Weiterlesen
 - [Angst für immer allein zu bleiben: So überwindest du sie](/blog/angst-allein-zu-bleiben/)
 - [Selbstliebe als Dating-Geheimwaffe: Warum du dich selbst](/blog/selbstliebe-dating/)
 - [Selbstliebe lernen nach Trennung: Dein Weg zurück zu dir](/blog/selbstliebe-nach-trennung/)
-- [Selbstliebe: Warum du dich zuerst finden musst, bevor du](/blog/selbstliebe-vor-partnersuche/)
+- [Selbstliebe: Warum du dich zuerst finden musst, bevor du](/blog/selbstliebe-dating/)
 - [Glücklich Single sein – Warum Alleinsein kein Problem ist](/blog/single-gluecklich-sein/)

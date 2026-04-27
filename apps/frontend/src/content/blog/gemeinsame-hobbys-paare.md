@@ -197,7 +197,7 @@ Warum wartest du? Wählt eine Aktivität aus dieser Liste und plant euer erstes 
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Beziehung nach Fernbeziehung: Anpassung zum Leben zusammen](/blog/beziehung-nach-fernbeziehung), [Beziehung retten: Praktische Tipps zur Rettung einer sterbenden Liebe](/blog/beziehung-retten-kompletter-guide).## Weiterlesen
 
 - [Drittes Date Ideen: Jetzt wird es persönlich](/blog/drittes-date-ideen/)
 - [Sexuelle Kompatibilität in Beziehungen: Warum es wichtig ist](/blog/sexuelle-kompatibilitaet/)

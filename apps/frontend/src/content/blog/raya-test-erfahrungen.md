@@ -597,7 +597,7 @@ Der Preis ist fair (7,99 €/Monat), die App ist durchdacht, die Kultur ist spez
 
 - [Online-Dating-Guide: Von der ersten Anmeldung bis zum Date](/online-dating-guide)
 - [Wie erkenne ich meinen Bindungsstil?](/bindungsstile)
-- [Premium-Dating 2026: Lohnen sich exklusive Apps wirklich?](/blog/dating-apps-vergleich)
+- [Premium-Dating 2026: Lohnen sich exklusive Apps wirklich?](/blog/dating-app-vergleich-2026)
 - [Dating-App-Bio schreiben: Beispiele für mehr Matches](/blog/dating-app-bio-schreiben)
 - [Red Flags beim Online-Dating erkennen](/red-flags)
 - Networking und Dating: Wo ist die Grenze?
@@ -608,6 +608,6 @@ Der Preis ist fair (7,99 €/Monat), die App ist durchdacht, die Kultur ist spez
 
 ## Weiterführende Artikel
 
-- [Exklusive Dating-Apps im Vergleich: Raya, The League, Inner Circle](/blog/dating-apps-vergleich)
+- [Exklusive Dating-Apps im Vergleich: Raya, The League, Inner Circle](/blog/dating-app-vergleich-2026)
 - [Wie du dich erfolgreich bei Premium-Dating-Apps bewirbst](/blog/hochsensibel-dating-app-tipps)
 - [Dating in Berlin: Die besten Apps und Plattformen 2026](/blog/dating-berlin)

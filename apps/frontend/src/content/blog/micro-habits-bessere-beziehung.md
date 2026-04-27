@@ -29,7 +29,7 @@ faq:
     answer: "Die 6-Sekunden-Umarmung. Forschung zeigt dass Umarmungen ab 6 Sekunden Oxytocin freisetzen — das Bindungshormon. Einmal täglich bewusst lang umarmen ist der einfachste Weg zu mehr Verbundenheit."
 ---
 
-Du fragst dich wahrscheinlich: "Micro-Habits? Das klingt nach noch einer Selbsthilfe-Idee die nichts ändert." Verständlich. Aber hier ist das Paradoxe: Die größten Veränderungen entstehen oft nicht durch große Versprechen und Drama, sondern durch kleine, wiederholte Handlungen. James Clear hat das mit seinem Bestseller "Atomic Habits" gezeigt — und genau dieses Prinzip funktioniert auch in deiner [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) hast, lies über [emotionale Intelligenz im Dating](/blog/emotionale-intelligenz-dating) — das schafft die Grundlage dafür dass diese Habits in tiefere Ebenen eindringen können.
+Du fragst dich wahrscheinlich: "Micro-Habits? Das klingt nach noch einer Selbsthilfe-Idee die nichts ändert." Verständlich. Aber hier ist das Paradoxe: Die größten Veränderungen entstehen oft nicht durch große Versprechen und Drama, sondern durch kleine, wiederholte Handlungen. James Clear hat das mit seinem Bestseller "Atomic Habits" gezeigt — und genau dieses Prinzip funktioniert auch in deiner [Bindungsstil](/blog/avoidant-attachment-beziehung-guide) hast, lies über [emotionale Intelligenz im Dating](/blog/emotionale-intelligenz-beziehung) — das schafft die Grundlage dafür dass diese Habits in tiefere Ebenen eindringen können.
 
 ## Die erweiterte Wissenschaft des Habit Stacking für Paare
 
@@ -525,5 +525,5 @@ Das ist die Kraft von Micro-Habits — selbst unvollkommen durchgeführt, sie tr
 - [Social Media und Beziehung: Wie Instagram, TikTok und Co](/blog/beziehung-social-media-einfluss/)
 - [Micro-Dating — Kleine Momente die eure Beziehung retten](/blog/micro-dating-beziehung-guide/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)
 - [Beziehung aufbauen nach einer Depression: Hoffnung vorwärts](/blog/beziehung-nach-depression/)

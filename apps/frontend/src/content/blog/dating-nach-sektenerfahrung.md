@@ -367,6 +367,6 @@ Und mit der richtigen Unterstützung, mit der richtigen Person, mit der richtige
 
 ## Das könnte dich auch interessieren
 
-- [Dating nach einer Ghosting-Erfahrung](/blog/dating-nach-ghosting-erfahrung/)
+- [Dating nach einer Ghosting-Erfahrung](/blog/ghosting-umgehen-tipps/)
 - [Dating nach dem Gefängnis – Zweite Chancen in der Liebe](/blog/dating-nach-gefaengnisaufenthalt/)
 - [Dating mit Borderline – Intensive Liebe zwischen Extremen](/blog/dating-mit-borderline-stoerung/)

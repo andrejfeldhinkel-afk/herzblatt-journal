@@ -98,6 +98,6 @@ Du wirst lieben wieder. Und wenn du es tust, wirst du es mit der Tiefe jemanden 
 
 - [Dating und Beziehung nach schwierigen Lebensentscheidungen](/blog/dating-nach-abtreibung/)
 - [Rebound-Beziehung erkennen und vermeiden](/blog/rebound-beziehung-erkennen/)
-- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-toxischer-beziehung/)
+- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-narzisst/)
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
-- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)
+- [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/dating-introvertiert-extrovertiert-paar-guide/)

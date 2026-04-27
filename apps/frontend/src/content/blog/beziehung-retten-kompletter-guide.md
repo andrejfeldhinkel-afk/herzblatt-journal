@@ -85,7 +85,7 @@ Fangen Sie heute an.
 ## Das könnte dich auch interessieren
 
 - [Kommunikation in der Beziehung: Der komplette Guide](/blog/kommunikation-beziehung-komplett/)
-- [Beziehung retten – 8 Strategien wenn die Liebe kriselt](/blog/beziehung-retten/)
+- [Beziehung retten – 8 Strategien wenn die Liebe kriselt](/blog/beziehung-retten-kompletter-guide/)
 - [Kompromisse in der Beziehung: Wann ja und wann nein](/blog/beziehung-kompromisse-finden/)
 - [Fremdgehen](/blog/fremdgehen-verzeihen-kompletter-guide) oder fundamentaler Respektverlust vorliegen, ist Loslassen oft der gesündere Weg.
 

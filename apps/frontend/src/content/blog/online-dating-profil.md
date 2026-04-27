@@ -146,10 +146,10 @@ Detaillierte Infos bietet Verbraucherzentrale: [Verbraucherzentrale](https://www
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/beste-dating-apps-2026), [Dating für Introvertierte: Tipps zum Finden von Liebe ohne Stress](/blog/dating-introvertierte).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Die besten Dating-Apps 2026: Welche App passt zu dir?](/blog/dating-app-vergleich-2026), [Dating für Introvertierte: Tipps zum Finden von Liebe ohne Stress](/blog/introvertiert-dating).## Weiterlesen
 
-- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-online-dating/)
-- [Das perfekte Dating-Profil: Schritt-für-Schritt](/blog/perfektes-dating-profil/)
+- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-dating-app/)
+- [Das perfekte Dating-Profil: Schritt-für-Schritt](/blog/online-dating-profiltext/)
 - [Vom Chat zum ersten Treffen: Übergang zum echten Leben](/blog/erstes-treffen-online-dating/)
 - [Wie Dating-App Algorithmen wirklich funktionieren](/blog/online-dating-algorithmus/)
 - [Online-Dating Anschreiben – So bekommst du garantiert](/blog/online-dating-anschreiben/)

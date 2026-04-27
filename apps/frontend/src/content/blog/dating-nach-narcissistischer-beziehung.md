@@ -199,4 +199,4 @@ Die narzisstische Beziehung war nicht das Ende. Sie war ein Kapitel – ein schm
 - [Dating nach langer Beziehung: Sich selbst wiederfinden](/blog/dating-nach-langer-beziehung/)
 - [Dating nach toxischer Beziehung: Heilung und Neustart](/blog/dating-nach-toxischer-beziehung-heilen/)
 - [Dating nach langer Beziehung: Neustart nach 5, 10 oder 20 Jahren](/blog/dating-nach-langer-beziehung-guide/)
-- [Dating nach toxischer Beziehung: Heilen und neu anfangen](/blog/dating-nach-toxischer-beziehung/)
+- [Dating nach toxischer Beziehung: Heilen und neu anfangen](/blog/dating-nach-narzisst/)

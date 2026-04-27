@@ -135,8 +135,8 @@ Manchmal passiert es, dass eine vermeintlich entspannte Slow-Dating-Phase plötz
 
 ## Weiterlesen
 
-- [Slow Dating – Warum weniger Matches zu mehr Liebe führen](/blog/slow-dating-trend/)
+- [Slow Dating – Warum weniger Matches zu mehr Liebe führen](/blog/slow-dating-guide/)
 - [Micro-Dating: Der Trend für Vielbeschäftigte](/blog/micro-dating-trend-guide/)
 - [Throning — Wenn du nur als Statussymbol datst](/blog/throning-dating-trend-guide/)
 - [Dating und Beziehung nach schwierigen Lebensentscheidungen](/blog/dating-nach-abtreibung/)
-- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-toxischer-beziehung/)
+- [Wieder daten nach einer toxischen Beziehung](/blog/dating-nach-narzisst/)

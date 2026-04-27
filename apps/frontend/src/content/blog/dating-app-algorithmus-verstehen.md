@@ -173,7 +173,7 @@ Die App ist nur der Türöffner.
 
 Wenn du Online-Dating verstehen willst, könnten auch diese Artikel helfen:
 - [Von Match zu Date: Wie du ein echtes Treffen vereinbarst](/blog/vom-match-zum-date)
-- [Die beste Dating App für dich: Vergleich 2026](/blog/beste-dating-apps-2026)
+- [Die beste Dating App für dich: Vergleich 2026](/blog/dating-app-vergleich-2026)
 
 ## Weiterführende Artikel
 

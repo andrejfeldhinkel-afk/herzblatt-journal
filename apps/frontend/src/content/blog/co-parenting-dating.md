@@ -270,7 +270,7 @@ Gib nicht auf. Glaube an dich selbst. Und vertraue, dass die beste Version deine
 
 ## Das könnte dich auch interessieren
 
-- [Dating mit Kindern: Eine neue Beziehung aufbauen](/blog/dating-mit-kindern/)
+- [Dating mit Kindern: Eine neue Beziehung aufbauen](/blog/dating-mit-kind/)
 - [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-alleinerziehend-kompletter-leitfaden/)
-- [Dating nach toxischer Beziehung: Heilen und neu anfangen](/blog/dating-nach-toxischer-beziehung/)
+- [Dating nach toxischer Beziehung: Heilen und neu anfangen](/blog/dating-nach-narzisst/)
 - [Dating nach Scheidung mit Kindern: So klappt es wirklich](/blog/dating-nach-scheidung-mit-kindern/)

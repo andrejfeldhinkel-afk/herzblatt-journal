@@ -137,4 +137,4 @@ Bei Uberforderung helfen Selbsthilfegruppen. Der Verein „Zart besaitet" oder O
 - [Dating für Introvertierte: Die besten Strategien zum Erfolg](/blog/dating-introvertierte-beste-strategien/)
 - [Attachment Styles: Einfluss auf dein Dating](/blog/attachment-styles-dating-verstehen/)
 - [Dating als hochsensibler Mann: Tiefe statt Fassade](/blog/dating-hochsensible-maenner/)
-- [Dating für Introvertierte](/blog/dating-fuer-introvertierte/)
+- [Dating für Introvertierte](/blog/introvertiert-dating/)

@@ -397,6 +397,6 @@ Das ist der echte Preis. Nicht die Überwindung der Angst. Das ist die Verbindun
 
 ## Weiterführende Artikel
 
-- [Die besten Dating-Apps 2026](/blog/beste-dating-apps-2026)
+- [Die besten Dating-Apps 2026](/blog/dating-app-vergleich-2026)
 - [Dating in Aachen: Die besten Orte, Tipps & Hotspots](/blog/dating-aachen)
 - [Dating als Introvertierte: Stärken nutzen](/blog/dating-als-introvertierte-frau)

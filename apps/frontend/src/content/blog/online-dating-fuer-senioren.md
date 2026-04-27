@@ -213,10 +213,10 @@ Und wenn Sie nicht? Zumindest hatten Sie eine große Zeit daran versuchen.
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Dating für Introvertierte: Tipps zum Finden von Liebe ohne Stress](/blog/dating-introvertierte), [Dating nach 40 als Mann: Dein zweiter Frühling](/blog/dating-nach-40-maenner).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere Ratgeber zu [Dating für Introvertierte: Tipps zum Finden von Liebe ohne Stress](/blog/introvertiert-dating), [Dating nach 40 als Mann: Dein zweiter Frühling](/blog/dating-ab-40).## Weiterlesen
 
 - [Wie Dating-App Algorithmen wirklich funktionieren](/blog/online-dating-algorithmus/)
-- [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/online-dating-fotos/)
+- [Perfekte Fotos fürs Online-Dating: Der vollständige](/blog/dating-profile-fotos-tipps/)
 - [Online-Dating Sicherheit: So schützt du dich beim](/blog/online-dating-sicherheit/)
-- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-online-dating/)
+- [Die perfekte erste Nachricht beim Online-Dating: 15](/blog/erste-nachricht-dating-app/)
 - [Vom Chat zum ersten Treffen: Übergang zum echten Leben](/blog/erstes-treffen-online-dating/)

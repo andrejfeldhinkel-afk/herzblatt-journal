@@ -2,7 +2,7 @@
 title: "Situationship-Zeichen: 11 Signale dass du in einer Grauzone haengst"
 description: "Situationship erkennen: 11 klare Zeichen, dass du in einer Beziehungs-Grauzone steckst. Definition, Warnsignale und Strategien fuer den sauberen Ausstieg."
 date: 2026-04-27
-image: "/images/blog/situationship-definieren-guide.webp"
+image: "/images/blog/situationship-guide.webp"
 imageAlt: "Situationship Zeichen erkennen"
 tags:
   - "Dating"
