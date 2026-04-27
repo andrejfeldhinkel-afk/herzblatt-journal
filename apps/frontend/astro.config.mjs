@@ -349,6 +349,9 @@ export default defineConfig({
     '/blog/hinge-vs-bumble': { status: 301, destination: '/blog/hinge-guide-deutsch-2026' },
     // Pillar 3 — monogamie (KW: monogamie, Vol 27K, KD 37): bare keyword auf Pillar
     '/blog/monogamie': { status: 301, destination: '/blog/monogamie-guide' },
+    // Pillar 4 — pansexuell (KW: pansexuell, Vol 49K, KD 32): bare keyword + Pansexualität auf Pillar
+    '/blog/pansexuell': { status: 301, destination: '/blog/pansexuell-dating-guide' },
+    '/blog/pansexualitaet': { status: 301, destination: '/blog/pansexuell-dating-guide' },
   },
   compressHTML: true,
   prefetch: {
