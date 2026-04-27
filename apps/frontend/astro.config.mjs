@@ -347,6 +347,8 @@ export default defineConfig({
     '/blog/dating-demisexuell-langsam-verlieben': { status: 301, destination: '/blog/demisexuell-dating-guide' },
     '/blog/hinge-test-erfahrungen': { status: 301, destination: '/blog/hinge-guide-deutsch-2026' },
     '/blog/hinge-vs-bumble': { status: 301, destination: '/blog/hinge-guide-deutsch-2026' },
+    // Pillar 3 — monogamie (KW: monogamie, Vol 27K, KD 37): bare keyword auf Pillar
+    '/blog/monogamie': { status: 301, destination: '/blog/monogamie-guide' },
   },
   compressHTML: true,
   prefetch: {
