@@ -84,7 +84,11 @@ const orgSchema = {
     "https://www.tiktok.com/@herzblattjournal",
     "https://www.facebook.com/profile.php?id=61586415452972"
   ],
-  "publisher": {
+  // parentOrganization statt publisher — Organization hat KEIN publisher-Feld
+  // (das ist ein Article-Property). 5,585 invalide structured-data-Items in
+  // Semrush waren genau dieses Misuse. parentOrganization ist Schema.org-konform
+  // für "die Firma hinter der Marke".
+  "parentOrganization": {
     "@type": "Organization",
     "name": "L-P GmbH",
     "address": {
