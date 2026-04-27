@@ -7,6 +7,15 @@ tags:
   - "Beziehung"
   - "liebe"
   - "beziehungsaufbau"
+faq:
+  - question: "Warum laesst die Spannung in langen Beziehungen nach?"
+    answer: "Routine, Stress und fehlende Neugier reduzieren das Kribbeln. Der Autopilot setzt ein und Naehe verliert ihre Magie ohne bewusste Aufmerksamkeit fueeinander."
+  - question: "Wie haelst du eure Beziehung nach Jahren spannend?"
+    answer: "Plant gemeinsame neue Erlebnisse, ueberrascht euch und nehmt Zeit fuer Gespraeche. Lernt etwas Neues zusammen und brecht alte Routinen auf."
+  - question: "Ist es normal weniger Sex nach Jahren zu haben?"
+    answer: "Ja Lust schwankt mit Stress, Hormonen und Lebensphase. Wichtig ist Naehe und Gespraech ueber Beduerfnisse, Quantitaet ist nicht der Massstab."
+  - question: "Was tun wenn die Anziehung wirklich verschwunden ist?"
+    answer: "Sucht das Gespraech, nehmt euch Auszeiten und plant Datenights. Reicht das nicht, kann eine Paartherapie helfen die Verbindung neu zu beleben."
 ---
 
 Nach ein paar Jahren zusammen wird die Leidenschaft oft zu etwas Ruhigerem. Das ist normal und nicht schlecht – aber es kann auch bedeuten, dass die Spannung verblasst. Du sitzt zusammen auf der Couch und scrollst auf dem Handy, statt miteinander zu lachen. Sex wird routinemäßiger. Das kleine Kribbeln, das du am Anfang hattest, ist verschwunden.

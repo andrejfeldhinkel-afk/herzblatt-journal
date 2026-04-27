@@ -7,6 +7,15 @@ tags: ["Date-Ideen", "Lifestyle", "Dating"]
 keywords: ["romantische restaurants berlin", "beste date restaurants berlin", "date essen berlin"]
 image: "/images/blog/abenteuer-dates-adrenalin.webp"
 imageAlt: "Romantische Restaurants Berlin"
+faq:
+  - question: "Was macht ein Restaurant in Berlin romantisch?"
+    answer: "Romantik entsteht durch gedaempftes Licht, intime Atmosphaere, gute Akustik und durchdachten Service. Der Ort soll Gespraeche tragen statt zu stoeren."
+  - question: "Wie finde ich das richtige Restaurant fuer mein Date?"
+    answer: "Waehle nach Date-Phase. Erste Dates brauchen lockere Bistros, Jubilaeen passen ins Skybar-Restaurant. Reserviere fruehzeitig den Wunschplatz."
+  - question: "Sind teure Restaurants automatisch romantischer?"
+    answer: "Nein. Eine kleine Trattoria mit Kerzenlicht kann romantischer sein als ein steriles Sterne-Lokal. Atmosphaere zaehlt mehr als der Preis."
+  - question: "Welcher Berliner Bezirk ist am romantischsten?"
+    answer: "Charlottenburg fuer Klassik, Mitte fuer Glamour, Kreuzberg fuer Hinterhof-Charme. Jeder Kiez hat seine eigene romantische Handschrift."
 ---
 
 Berlin ist eine Stadt der Gegensätze, und genau das macht die Hauptstadt zu einem unvergleichlichen Ort für romantische Abendessen. Zwischen historischen Kiezen, modernen Skybars und versteckten Hinterhof-Bistros findest du eine Bandbreite an Atmosphären, die kaum eine andere deutsche Stadt bietet. Egal, ob du gerade ein erstes Date planst, einen besonderen Jahrestag feiern willst oder einfach nach einer neuen Lieblings-Location für regelmäßige Pärchen-Abende suchst: Berlin liefert.

@@ -8,6 +8,15 @@ tags:
   - "Dating"
   - "angst"
   - "Selbstbewusstsein"
+faq:
+  - question: "Was ist Dating-Angst genau?"
+    answer: "Dating-Angst ist die innere Anspannung vor und waehrend Dates, ausgeloest durch Angst vor Ablehnung, Bewertung oder Versagen vor anderen Menschen."
+  - question: "Wie erkenne ich, ob ich Dating-Angst habe?"
+    answer: "Du erkennst es an Herzrasen vor Dates, Vermeidungsverhalten, gruebelnden Gedanken oder dem Drang, Treffen kurzfristig wieder abzusagen."
+  - question: "Ist Dating-Angst normal oder muss ich mich therapieren?"
+    answer: "Leichte Nervositaet ist normal. Wenn die Angst dich aber dauerhaft blockiert oder Panik ausloest, hilft therapeutische Begleitung sehr."
+  - question: "Wie kann ich konkret weniger nervoes ins Date gehen?"
+    answer: "Bereite dir 3 Gespraechsthemen vor, atme tief vor dem Date, plane Aktivitaets-Dates statt reines Reden und halte realistische Erwartungen."
 ---
 ## dating-Angst Überwinden: Mutig In Die Liebe
 

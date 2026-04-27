@@ -8,6 +8,15 @@ tags:
   - "Dating"
   - "dating-spots"
   - "leipzig"
+faq:
+  - question: "Was macht Dating in Leipzig besonders?"
+    answer: "Leipzig ist kreativ, jung und unkompliziert. Hipster-Szene, Clubs, Cafekultur und der Cospudener See machen Dates abwechslungsreich und entspannt."
+  - question: "Wo lernt man in Leipzig am besten Singles kennen?"
+    answer: "Du findest Singles in der Karli-Strasse, in Cafes von Plagwitz, auf Konzerten der Distillery oder beim Sonntagsbrunch in der Suedvorstadt."
+  - question: "Ist Leipzig eine gute Stadt zum Daten?"
+    answer: "Ja, Leipzig zaehlt zu den lebendigsten Dating-Staedten Deutschlands. Junge Bevoelkerung und kreative Szene erleichtern offene Begegnungen sehr."
+  - question: "Welche Date-Ideen funktionieren in Leipzig gut?"
+    answer: "Spaziergang im Auwald, Drinks in einer Plagwitz-Bar, Cafe in der Karli oder ein Konzert auf dem Wave-Gotik-Treffen sind Leipzig-Klassiker."
 ---
 
 ## dating in Leipzig: Hipster-Stadt für Singles

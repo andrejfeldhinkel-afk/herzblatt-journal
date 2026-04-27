@@ -8,6 +8,15 @@ tags:
   - "Körperliche Nähe"
   - "Beziehungstipps"
   - "Ratgeber"
+faq:
+  - question: "Was bedeutet koerperliche Naehe in der Beziehung?"
+    answer: "Koerperliche Naehe umfasst alle Beruehrungen ohne sexuelles Ziel: Umarmungen, Haendchenhalten, Streicheln. Sie schuettet Oxytocin aus und bindet euch."
+  - question: "Wie baust du koerperliche Naehe ohne Sexdruck auf?"
+    answer: "Plant Kuschelzeiten ohne Ziel, beruehrt euch im Vorbeigehen und nehmt euch in den Arm. Klare Absprachen ohne Sex senken Druck und steigern Genuss."
+  - question: "Ist es normal weniger Beruehrung im Alltag zu haben?"
+    answer: "Ja im Alltag verschwindet Beruehrung schnell. Bewusste Rituale wie Begruessungs-Umarmung oder Kuesse beim Verabschieden bringen sie zurueck."
+  - question: "Was tun wenn ein Partner mehr Naehe braucht als der andere?"
+    answer: "Sprecht offen ueber Beduerfnisse und findet Mittelwege. Kleine taegliche Gesten erfuellen den Beduerftigeren oft besser als seltene lange Naehephasen."
 ---
 ## Körperliche Nähe in Beziehungen neu entdecken
 

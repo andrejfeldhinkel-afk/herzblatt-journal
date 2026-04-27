@@ -9,6 +9,15 @@ tags:
   - "Einsamkeit"
   - "Selbstliebe"
   - "Single-Leben"
+faq:
+  - question: "Was ist der Unterschied zwischen allein und einsam?"
+    answer: "Allein sein ist ein neutraler Zustand ohne Gesellschaft. Einsamkeit ist das schmerzhafte Gefuehl emotional nicht verbunden zu sein."
+  - question: "Wie erkenne ich ob ich einsam oder gerne allein bin?"
+    answer: "Wenn dich das Alleinsein erfuellt und entspannt, bist du gerne allein. Wenn es dich traurig macht, fuehlst du dich einsam."
+  - question: "Ist es normal sich manchmal einsam zu fuehlen?"
+    answer: "Ja, Einsamkeit gehoert zum Mensch sein. Aber dauerhaft starke Einsamkeit ist ein Signal das Aufmerksamkeit verdient."
+  - question: "Wann sollte ich bei Einsamkeit Hilfe suchen?"
+    answer: "Wenn Einsamkeit chronisch wird, dich antriebslos macht oder depressive Symptome ausloest, lohnt sich eine Therapie."
 ---
 
 ## Allein sein vs. einsam sein: Der entscheidende Unterschied

@@ -8,6 +8,15 @@ tags:
   - "Trennung"
   - "Selbstfürsorge"
   - "Ratgeber"
+faq:
+  - question: "Was hilft sofort gegen Liebeskummer?"
+    answer: "Bewegung, Gespraeche mit Freunden, Tagebuch und keine Kontaktversuche zum Ex. Auch warmes Essen, Sonne und Routinen entlasten dein Nervensystem schnell."
+  - question: "Wie ueberwindest du Liebeskummer wirklich schnell?"
+    answer: "Akzeptiere die Realitaet, halte konsequent No-Contact, beschaeftige dich mit Hobbys und gehe raus. Vermeide Alkohol und schnelle Rebound-Beziehungen."
+  - question: "Ist es normal dass Liebeskummer koerperlich weh tut?"
+    answer: "Ja das Gehirn reagiert wie auf Schmerzreize. Schlafstoerungen, Appetit-Verlust und Engegefuehl in der Brust sind typische Reaktionen auf Verlust."
+  - question: "Wie lange dauert Liebeskummer im Durchschnitt?"
+    answer: "Die intensive Phase dauert oft drei bis sechs Monate, bei langen Beziehungen ein bis zwei Jahre. Die ersten Wochen sind die schwersten und werden besser."
 ---
 ## Liebeskummer überwinden: 15 Soforthilfen, die wirklich funktionieren
 

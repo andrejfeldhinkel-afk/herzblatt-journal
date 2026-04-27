@@ -9,6 +9,15 @@ tags:
   - "Beziehungsmuster"
   - "Psychologie"
   - "Ratgeber"
+faq:
+  - question: "Was ist die Anxious-Avoidant Falle?"
+    answer: "Ein Beziehungsmuster in dem aengstliche und vermeidende Bindungsstile sich gegenseitig triggern und in einem schmerzhaften Kreislauf landen."
+  - question: "Wie erkenne ich ob ich in dieser Falle stecke?"
+    answer: "Du erkennst es am Push-Pull-Muster: Je mehr einer sucht, desto mehr zieht sich der andere zurueck."
+  - question: "Ist es normal dass diese Beziehungen so anziehend sind?"
+    answer: "Ja das ist normal. Beide Stile aktivieren bekannte Muster aus der Kindheit. Die Anziehung ist intensiv aber oft toxisch."
+  - question: "Wann sollte ich aus solch einer Beziehung gehen?"
+    answer: "Wenn keine Bereitschaft zur Veraenderung besteht und die Dynamik dich krank macht, lohnt sich der Ausstieg."
 ---
 ## Einleitung: Das magnetische Ziehen, das zerstört
 

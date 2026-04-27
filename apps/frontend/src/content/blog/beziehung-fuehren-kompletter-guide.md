@@ -9,6 +9,15 @@ tags:
   - "Ratgeber"
   - "Kommunikation"
   - "Partnerschaft"
+faq:
+  - question: "Was macht eine gesunde Beziehung aus?"
+    answer: "Eine gesunde Beziehung basiert auf Vertrauen, ehrlicher Kommunikation, Respekt und der Faehigkeit Konflikte konstruktiv zu loesen."
+  - question: "Wie erkenne ich eine gesunde Beziehung?"
+    answer: "Du erkennst sie daran dass beide wachsen koennen, sich sicher fuehlen und Konflikte ohne Verletzung loesen."
+  - question: "Ist es normal dass auch gesunde Beziehungen Krisen haben?"
+    answer: "Ja das ist normal. Jede Langzeitbeziehung hat Krisen. Entscheidend ist wie ihr damit umgeht."
+  - question: "Wann sollte ich an meiner Beziehung arbeiten?"
+    answer: "Immer aktiv. Aber besonders wenn ihr euch entfernt, weniger redet oder Konflikte sich haeufen, lohnt sich gezielte Arbeit."
 ---
 
 ## Gesunde beziehung führen: Der komplette Guide

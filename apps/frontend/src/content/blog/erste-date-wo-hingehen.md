@@ -9,6 +9,15 @@ tags:
   - "Date-Ideen"
   - "Dating-Tipps"
   - "Ratgeber"
+faq:
+  - question: "Wo ist der beste Ort fuer ein erstes Date?"
+    answer: "Ein Cafe oder Spaziergang bietet entspannte Atmosphaere ohne Zeitdruck. Du kannst gut reden und das Date jederzeit verlaengern oder beenden."
+  - question: "Wie waehlst du den passenden Date-Ort fuer euch beide aus?"
+    answer: "Orientiere dich an gemeinsamen Interessen aus eurem Chat. Aktive Naturen lieben Wanderungen, Kreative ein Museum, Genussmenschen eine Weinverkostung."
+  - question: "Ist es normal beim ersten Date nervoes zu sein?"
+    answer: "Ja Nervositaet ist voellig normal und sogar charmant. Die richtige Location reduziert den Druck und hilft dir authentisch und entspannt zu bleiben."
+  - question: "Was tun wenn du dir bei der Date-Idee unsicher bist?"
+    answer: "Frage dein Date direkt nach Vorlieben oder schlage zwei Optionen vor. Das zeigt Ruecksicht und nimmt euch beiden den Entscheidungsdruck."
 ---
 
 ## Der erste Eindruck zählt – Der Ort ist wichtig

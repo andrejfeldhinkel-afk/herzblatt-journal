@@ -8,6 +8,15 @@ tags:
   - "Dating"
   - "bern"
   - "orte"
+faq:
+  - question: "Was macht Dating in Bern besonders?"
+    answer: "Bern verbindet entspannte Schweizer Hauptstadt-Atmosphaere mit Aare, Altstadt und ueberschaubarer Single-Szene fuer authentische Begegnungen."
+  - question: "Wo lernt man in Bern am besten Singles kennen?"
+    answer: "Du findest Singles in Cafes der Altstadt, beim Aareschwumm im Sommer, in Bars der Lorraine und auf Events in der Reitschule."
+  - question: "Ist Bern eine schwierige Dating-Stadt?"
+    answer: "Bern gilt als eher zurueckhaltend, doch wer Geduld zeigt und Routinen wie feste Cafes oder Vereine nutzt, baut tragfaehige Verbindungen auf."
+  - question: "Welche Date-Ideen funktionieren in Bern besonders gut?"
+    answer: "Spaziergaenge im Rosengarten, Aare-Floesseln im Sommer, Apero in der Lorraine oder Brunch in der Altstadt sind sichere Bern-Klassiker."
 ---
 
 ## dating In Bern: Die Besten Orte Und Tipps

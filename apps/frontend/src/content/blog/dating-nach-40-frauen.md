@@ -9,6 +9,15 @@ tags:
   - "Ü40"
   - "Frauen"
   - "Neustart"
+faq:
+  - question: "Was bedeutet Dating ab 40 als Frau wirklich?"
+    answer: "Es heisst, mit Lebenserfahrung, Selbstwert und klarer Vorstellung in die Partnersuche zu gehen statt aus jugendlicher Unsicherheit zu funktionieren."
+  - question: "Wie erkenne ich, dass ich bereit bin zu daten?"
+    answer: "Du erkennst es daran, dass du nicht aus Angst vor Alleinsein, sondern aus Neugier und Offenheit auf neue Begegnungen zugehen kannst."
+  - question: "Ist Dating ab 40 schwerer als mit 20?"
+    answer: "Anders, nicht zwingend schwerer. Du hast hoehere Klarheit, weniger Zeitverschwendung, dafuer einen kleineren Pool und mehr Patchwork-Themen."
+  - question: "Welche Apps und Strategien funktionieren ab 40 am besten?"
+    answer: "Hinge, Parship und Lebensfreunde funktionieren gut. Wichtiger als Apps sind authentische Profile, klare Filter und Offenheit fuer reale Begegnungen."
 ---
 
 ## Dating ab 40 als Frau: Neustart mit Selbstvertrauen statt Angst

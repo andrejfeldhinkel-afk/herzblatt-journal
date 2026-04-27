@@ -8,6 +8,15 @@ tags:
   - "Beziehungsprobleme"
   - "Gottman"
   - "Ratgeber"
+faq:
+  - question: "Was ist Stonewalling in der Beziehung?"
+    answer: "Stonewalling ist das emotionale Mauern, also der komplette Rueckzug aus einem Konflikt. Gottman nennt es den staerksten Trennungspraediktor."
+  - question: "Wie reagiere ich auf einen mauernden Partner?"
+    answer: "Druecke nicht weiter, gib Raum und biete eine Pause an. Kehrt zum Gespraech zurueck, wenn beide Nervensysteme sich beruhigt haben."
+  - question: "Ist Stonewalling immer Absicht?"
+    answer: "Nein, oft ist es eine unbewusste Stressreaktion bei Ueberforderung. Der Partner ist physiologisch geflutet und kann nicht mehr klar reagieren."
+  - question: "Wie hoere ich auf zu mauern?"
+    answer: "Erkenne fruehe Anzeichen von Flooding, kuendige Pausen aktiv an und kehre zurueck wenn beruhigt. Gottman empfiehlt 20 bis 60 Minuten Pause."
 ---
 
 ## Was ist Stonewalling wirklich?

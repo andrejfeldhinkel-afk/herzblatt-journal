@@ -8,6 +8,15 @@ tags:
   - "Dating"
   - "Beziehung"
   - "freundschaft-plus"
+faq:
+  - question: "Was bedeutet Freundschaft Plus genau?"
+    answer: "Freundschaft Plus ist eine Beziehung mit koerperlicher Naehe ohne romantische Verpflichtung. Beide Seiten sind frei und vermeiden klassische Paar-Strukturen."
+  - question: "Welche Regeln machen eine Freundschaft Plus stabil?"
+    answer: "Klare Absprachen ueber Exklusivitaet, regelmaessige Check-ins und keine Eifersuchts-Szenen. Sex ist okay, gemeinsame Wochenenden eher nicht."
+  - question: "Ist es normal wenn Gefuehle in einer FWB-Beziehung entstehen?"
+    answer: "Ja das passiert oft, denn Koerpernaehe schuettet Bindungshormone aus. Beobachte ehrlich deine Gefuehle und sprich frueh wenn sich etwas veraendert."
+  - question: "Wie beendest du eine Freundschaft Plus respektvoll?"
+    answer: "Sprich offen und schreibe nicht nur. Bedanke dich fuer die Zeit und kommuniziere klar warum du gehst. Eine Pause hilft beiden beim Sortieren."
 ---
 
 Freundschaft Plus – das klingt ideal: Du hast eine enge Freundschaft mit jemandem, aber ohne die Verpflichtungen einer echten [beziehung](/blog/adhs-und-beziehung-komplett-guide/). Ihr könnt intim miteinander sein, ohne emotional verflochtene zu werden. In der Theorie hört sich das an wie die perfekte Lösung für zwei Menschen, die sich Nähe aber keine Bindung wünschen.

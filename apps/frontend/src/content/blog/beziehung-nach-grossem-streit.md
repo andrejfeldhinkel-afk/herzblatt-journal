@@ -9,6 +9,15 @@ tags:
   - "Versöhnung"
   - "Beziehungstipps"
   - "Ratgeber"
+faq:
+  - question: "Was tun nach einem grossen Streit?"
+    answer: "Erst Abstand zur Beruhigung, dann ein ehrliches Gespraech in dem beide ihren Anteil sehen und sich verletzliche Zuhoeren."
+  - question: "Wie erkenne ich dass ein Streit bearbeitet ist?"
+    answer: "Du erkennst es daran dass beide sich verstanden fuehlen, eine Loesung gefunden wurde und das Thema nicht mehr brennt."
+  - question: "Ist es normal dass grosse Streits passieren?"
+    answer: "Ja das ist normal in jeder ernsten Beziehung. Wichtig ist nicht ob ihr streitet, sondern wie ihr nachher repariert."
+  - question: "Wann sollte ich nach einem Streit Hilfe holen?"
+    answer: "Wenn ihr immer wieder den gleichen Streit habt oder schwere Worte gefallen sind, lohnt sich Paartherapie."
 ---
 
 ## Der Körper nach einem großen Streit

@@ -9,6 +9,15 @@ tags:
   - "Neue Beziehung"
   - "Ratgeber"
   - "Psychologie"
+faq:
+  - question: "Was passiert im ersten Jahr einer Beziehung?"
+    answer: "Du durchlaeufst Verliebtheit, erste Konflikte und das Ankommen im Alltag. Hormone wie Dopamin und Oxytocin pendeln sich nach einigen Monaten ein."
+  - question: "Wie ueberstehst du das erste Beziehungsjahr ohne Krise?"
+    answer: "Kommuniziere offen, halte Erwartungen realistisch und plant gemeinsame Rituale. Nehmt Konflikte als Chance zum Wachstum, nicht als Bedrohung."
+  - question: "Ist es normal dass die Verliebtheit nach Monaten nachlaesst?"
+    answer: "Ja das ist biologisch normal. Nach etwa neun bis zwoelf Monaten regulieren sich die Botenstoffe und echte Liebe darf an die Stelle treten."
+  - question: "Was sind die haeufigsten Konflikte im ersten Jahr?"
+    answer: "Naehe und Distanz, Familie und Freunde, Zukunftsplaene und Eifersucht. Diese Themen sind normal und losbar mit Geduld und Gespraechen."
 ---
 ## Das erste Beziehungsjahr: Was wirklich passiert
 

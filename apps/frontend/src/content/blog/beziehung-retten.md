@@ -8,6 +8,15 @@ tags:
   - "Beziehung"
   - "Partnerschaft"
   - "Ratgeber"
+faq:
+  - question: "Wann lohnt es sich eine Beziehung zu retten?"
+    answer: "Wenn Liebe, Respekt und Veraenderungsbereitschaft auf beiden Seiten da sind und keine Deal-Breaker wie Gewalt vorliegen."
+  - question: "Wie erkenne ich ob die Rettung moeglich ist?"
+    answer: "Du erkennst es daran dass beide aktiv mitarbeiten, ehrlich reflektieren und neue Verhaltensweisen probieren."
+  - question: "Ist es normal dass Retten lange dauert?"
+    answer: "Ja das ist normal. Echte Veraenderung braucht Monate bis Jahre. Geduld und Konstanz sind entscheidend."
+  - question: "Wann sollte ich professionelle Hilfe holen?"
+    answer: "Bei jeder ernsten Krise lohnt sich Paartherapie. Allein schaffen es die wenigsten aus tiefen Mustern raus."
 ---
 
 ## beziehung Retten: Praktische Strategien Wenn Die Liebe Kriselt

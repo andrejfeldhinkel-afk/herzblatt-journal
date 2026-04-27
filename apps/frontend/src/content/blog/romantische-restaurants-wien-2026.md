@@ -7,6 +7,15 @@ tags: ["Date-Ideen", "Lifestyle", "Dating"]
 keywords: ["romantische restaurants wien", "beste date restaurants wien", "date essen wien"]
 image: "/images/blog/alltag-als-paar-gestalten.webp"
 imageAlt: "Romantische Restaurants Wien"
+faq:
+  - question: "Warum ist Wien so romantisch?"
+    answer: "Wien verbindet kaiserliche Architektur, Walzer-Tradition und Kaffeehauskultur. Die Stadt nimmt sich Zeit fuer Genuss und das spuert man beim Date."
+  - question: "Was ist ein Heuriger und passt er fuers Date?"
+    answer: "Ein Heuriger ist ein Wiener Weinlokal, das Wein aus eigenem Anbau ausschenkt. Mit Wienerlied und Atmosphaere ideal fuer romantische Sommerabende."
+  - question: "Sind Kaffeehaeuser nur fuer Touristen?"
+    answer: "Nein, Wiener Kaffeehaeuser gehoeren zur Lebenskultur. Klassiker wie Cafe Central oder Sperl bieten Echtheit und Romantik fuer ein Date am Nachmittag."
+  - question: "Wie viel kostet ein Date-Essen in Wien?"
+    answer: "Im Heurigen kommst du mit 30 bis 50 Euro pro Person aus. Gehobene Restaurants in der Innenstadt liegen bei 70 bis 120 Euro inklusive Wein."
 ---
 
 Wien ist eine Stadt der Romantik, vielleicht sogar die romantischste deutschsprachige Metropole überhaupt. Das hat mit Architektur zu tun, mit Geschichte, mit Walzern und mit einer Genusskultur, die im Kaffeehaus erfunden wurde. Wenn du in Wien ein Date hast, kannst du dich in einer Vielfalt verlieren, die in dieser Form einzigartig ist: Kaffeehaus-Klassiker mit jahrhundertealter Tradition, Heurigen mit Wienerlied und Wein aus dem eigenen Anbau, moderne Wiener-Küche-Konzepte und versteckte Geheimtipps in den Außenbezirken.

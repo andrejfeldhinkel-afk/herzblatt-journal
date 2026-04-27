@@ -9,6 +9,15 @@ tags:
   - "Vergebung"
   - "Beziehungstipps"
   - "Ratgeber"
+faq:
+  - question: "Was macht eine echte Entschuldigung in der Beziehung aus?"
+    answer: "Eine echte Entschuldigung erkennt den Schaden an, zeigt Verstaendnis fuer den Schmerz, uebernimmt Verantwortung und enthaelt eine echte Veraenderungsabsicht."
+  - question: "Wie entschuldigst du dich richtig bei deinem Partner?"
+    answer: "Sage klar was du falsch gemacht hast, ohne Aber und Ausreden. Zeige Reue, hoere zu und verspreche konkret eine Verhaltensaenderung."
+  - question: "Ist es normal dass eine Entschuldigung mehrere Anlaeufe braucht?"
+    answer: "Ja das ist normal. Tiefe Verletzungen brauchen Zeit zur Heilung, oft sind mehrere Gespraeche und sichtbares Verhalten noetig bevor Vertrauen zurueckkehrt."
+  - question: "Was tun wenn dein Partner deine Entschuldigung nicht annimmt?"
+    answer: "Gib ihm Zeit und respektiere seinen Prozess. Druecke deine Reue durch Taten aus und frage spaeter erneut nach Vergebung statt zu draengen."
 ---
 ## Warum Entschuldigungen im Gehirn wichtig sind
 

@@ -9,6 +9,15 @@ tags:
   - "Humor"
   - "Kommunikation"
   - "Partnerschaft"
+faq:
+  - question: "Wie wichtig ist gleicher Humor in der Beziehung?"
+    answer: "Humor verbindet stark, aber unterschiedlicher Humor ist kein Beziehungs-Aus solange ihr euch gegenseitig respektiert."
+  - question: "Wie erkenne ich ob unser Humor zusammenpasst?"
+    answer: "Du erkennst es daran dass ihr ueber gleiche Dinge lacht oder zumindest den Humor des anderen schaetzen koennt."
+  - question: "Ist es normal sich am Humor zu reiben?"
+    answer: "Ja das ist normal. Wichtig ist dass keiner sich verletzt fuehlt oder Humor als Waffe genutzt wird."
+  - question: "Wann ist unterschiedlicher Humor problematisch?"
+    answer: "Wenn einer den Humor des anderen abwertet oder Witze auf Kosten gemacht werden, lohnt sich ein Gespraech."
 ---
 ## Humor in der beziehung: Wenn ihr anders lacht
 

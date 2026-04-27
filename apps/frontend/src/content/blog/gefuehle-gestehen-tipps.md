@@ -10,6 +10,15 @@ tags:
 featured: false
 image: "/images/photos/gefuehle-gestehen-tipps.webp"
 imageAlt: "Zwei Menschen sitzen sich gegenüber und sprechen über ihre Gefühle – Symbolbild für das Thema Gefühle gestehen"
+faq:
+  - question: "Wie gestehst du jemandem deine Gefuehle richtig?"
+    answer: "Suche einen ruhigen Moment, schaue der Person in die Augen und sprich direkt. Sage was du fuehlst und sei offen fuer jede Reaktion."
+  - question: "Was tun gegen die Angst vor Ablehnung beim Gestehen?"
+    answer: "Erinnere dich daran dass Ablehnung kein Werturteil ueber dich ist. Atme tief, bereite dich vor und sieh den Mut als Erfolg unabhaengig vom Ausgang."
+  - question: "Ist es normal vor einem Liebesgestaendnis Panik zu haben?"
+    answer: "Ja Verletzlichkeit aktiviert Stresshormone. Schwitzige Haende und Herzklopfen sind voellig normal und zeigen wie wichtig dir die Person ist."
+  - question: "Solltest du Gefuehle per Nachricht oder persoenlich gestehen?"
+    answer: "Persoenlich ist immer besser, weil Mimik und Stimme zaehlen. Nur bei Distanz oder extremer Schuechternheit kann eine Nachricht ein erster Schritt sein."
 ---
 ## Gefühle gestehen: So findest du den Mut, dein Herz zu öffnen
 

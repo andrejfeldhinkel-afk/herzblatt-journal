@@ -8,6 +8,15 @@ tags:
   - "Dating"
   - "hannover"
   - "orte"
+faq:
+  - question: "Was macht Dating in Hannover besonders?"
+    answer: "Hannover ist authentisch, gruen und unkompliziert. Maschsee, Eilenriede und Altstadt bieten viele Date-Spots ohne Grossstadt-Hektik oder Show."
+  - question: "Wo lernt man in Hannover am besten Singles kennen?"
+    answer: "Du findest Singles am Maschsee, in der Linden-Szene, in Cafes der Suedstadt und auf Veranstaltungen rund um die Hochschulen oder Studienprogramme."
+  - question: "Ist Hannover eine gute Stadt zum Daten?"
+    answer: "Ja, Hannover gilt als entspannt fuers Daten. Niedersaechsische Bodenstaendigkeit ermoeglicht ehrliche Begegnungen ohne grosses Brimborium."
+  - question: "Welche Date-Ideen funktionieren in Hannover gut?"
+    answer: "Spaziergang um den Maschsee, Picknick in der Eilenriede, Drinks in Linden oder ein Besuch im Sprengel Museum sind klassische Hannover-Dates."
 ---
 
 ## dating In Hannover: Die Besten Orte

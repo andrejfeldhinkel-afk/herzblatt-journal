@@ -9,6 +9,15 @@ tags:
   - "Partnersuche"
   - "Introversion"
   - "Dating-Tipps"
+faq:
+  - question: "Was sind die Staerken introvertierter Frauen beim Dating?"
+    answer: "Tiefe Gespraeche, gute Beobachtungsgabe, echtes Zuhoeren und die Faehigkeit zu echter Verbindung statt Smalltalk."
+  - question: "Wie erkenne ich passende Dating-Strategien als Introvertierte?"
+    answer: "Du erkennst sie daran dass sie zu deinem Energie-Haushalt passen: weniger Dates aber tiefer statt viele oberflaechliche."
+  - question: "Ist es normal dass Dating-Apps anstrengend sind?"
+    answer: "Ja sehr normal fuer Introvertierte. Smalltalk und schnelle Kontakte kosten Energie. Klare Pausen helfen."
+  - question: "Wann sollte man auf andere Dating-Wege umsteigen?"
+    answer: "Wenn Apps dich erschoepfen, lohnt sich Dating ueber Hobbies, Vereine oder Veranstaltungen mit echten Begegnungen."
 ---
 
 ## Dating als Introvertierte Frau: Deine Stärken als Superpower nutzen

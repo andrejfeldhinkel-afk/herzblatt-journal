@@ -5,6 +5,15 @@ date: 2026-01-15
 tags: ["Beziehungstipps", "Kommunikation", "Partnerschaft"]
 image: "/images/photos/beziehung-rituale-staerken.webp"
 draft: false
+faq:
+  - question: "Was sind Beziehungsrituale?"
+    answer: "Wiederkehrende kleine Gewohnheiten wie gemeinsamer Kaffee, Date Night oder Abendgebet die Verbindung pflegen und Sicherheit geben."
+  - question: "Wie erkenne ich ob unsere Rituale fehlen?"
+    answer: "Du erkennst es daran dass ihr euch selten bewusst Zeit nehmt und Begegnung zufaellig statt geplant passiert."
+  - question: "Ist es normal dass Rituale im Alltag verschwinden?"
+    answer: "Ja das ist normal vor allem mit Kindern und Stress. Aber bewusste Rueckkehr zu Ritualen lohnt sich immer."
+  - question: "Wann sollte man neue Rituale einfuehren?"
+    answer: "Immer wenn ihr Distanz spuert oder das Gefuehl habt euch zu verlieren, lohnt sich ein neues bewusstes Ritual."
 ---
 ---
 ---## Die Wissenschaft von Ritualen

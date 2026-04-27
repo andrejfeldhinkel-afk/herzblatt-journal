@@ -9,6 +9,15 @@ tags:
   - "Selbstbewusstsein"
   - "Unsicherheit"
   - "Ratgeber"
+faq:
+  - question: "Was bedeutet Dating mit Unsicherheiten?"
+    answer: "Es heisst, trotz Selbstzweifeln, Koerperunsicherheit oder sozialer Angst aktiv in Begegnungen zu gehen und an deinem Selbstwert zu arbeiten."
+  - question: "Wie erkenne ich, dass meine Unsicherheit blockiert?"
+    answer: "Du erkennst es, wenn du Dates absagst, Kontakte abbrichst oder dir bei jedem Treffen einredest, nicht gut genug fuer die Person zu sein."
+  - question: "Sind Unsicherheiten beim Dating normal?"
+    answer: "Ja, fast jeder kennt sie. Wichtig ist, dass du sie nicht versteckst, sondern verstehst, anerkennst und Schritt fuer Schritt damit umzugehen lernst."
+  - question: "Wie werde ich beim Dating selbstbewusster trotz Unsicherheiten?"
+    answer: "Mache kleine Mut-Schritte, fuehre Tagebuch ueber Erfolge, hinterfrage innere Kritiker-Stimmen und feiere jeden Schritt, auch wenn das Date floppt."
 ---
 
 [dating](/blog/anzeichen-er-steht-auf-dich/) ist schwer. Und es ist noch schwerer, wenn du mit Unsicherheiten kämpfst. Vielleicht magst du deinen Körper nicht. Vielleicht hast du soziale Angst. Vielleicht plagst du dich mit Selbstzweifeln, die dir sagen, dass du „nicht gut genug" bist.

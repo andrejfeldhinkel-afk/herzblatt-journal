@@ -9,6 +9,15 @@ tags:
   - "GFK"
   - "Beziehungstipps"
   - "Ratgeber"
+faq:
+  - question: "Was ist gewaltfreie Kommunikation nach Rosenberg?"
+    answer: "Gewaltfreie Kommunikation ist eine Methode, die Beobachtung, Gefuehl, Beduerfnis und Bitte trennt. Sie ermoeglicht Verbindung statt Schuldzuweisung."
+  - question: "Wie wendest du GFK in deiner Beziehung an?"
+    answer: "Beschreibe konkrete Beobachtungen ohne Bewertung, druecke dein Gefuehl aus, nenne dein Beduerfnis und formuliere eine klare freundliche Bitte."
+  - question: "Ist es normal dass GFK am Anfang gestelzt klingt?"
+    answer: "Ja zu Beginn fuehlt es sich technisch an. Mit Uebung wird die Sprache natuerlicher und du nutzt die vier Schritte intuitiv im Alltag."
+  - question: "Funktioniert gewaltfreie Kommunikation auch im Streit?"
+    answer: "Ja gerade dann hilft sie. Sie verlangsamt die Reaktion, verhindert Vorwuerfe und schafft Raum fuer echtes Verstaendnis statt Eskalation."
 ---
 ## Was ist Gewaltfreie kommunikation wirklich?
 

@@ -10,6 +10,15 @@ tags:
 featured: false
 image: "/images/photos/frisch-verheiratet-tipps.webp"
 imageAlt: "Junges Ehepaar mit Hochzeitskleid und Anzug Hochzeit"
+faq:
+  - question: "Was aendert sich nach der Hochzeit im Alltag?"
+    answer: "Die rechtliche und emotionale Verbindlichkeit veraendert die Wahrnehmung. Routinen und Erwartungen werden bewusster, der Alltag wird intensiver erlebt."
+  - question: "Wie meisterst du dein erstes Ehejahr entspannt?"
+    answer: "Sprecht regelmaessig ueber Erwartungen, plant gemeinsame Zeiten ein und teilt Aufgaben fair. Lasst Druck los und feiert kleine Erfolge zusammen."
+  - question: "Ist es normal kurz nach der Hochzeit zu streiten?"
+    answer: "Ja Streit ist normal. Nach dem Hochzeits-Hoch kommt oft ein Tief, in dem alte Themen aufkommen. Konstruktiv bearbeiten staerkt die Ehe."
+  - question: "Was sind die haeufigsten Fehler im ersten Ehejahr?"
+    answer: "Zu hohe Erwartungen, fehlende Kommunikation und finanzielle Konflikte. Viele unterschaetzen wie wichtig regelmaessige Paargespraeche bleiben."
 ---
 
 ## Frisch verheiratet: 13 praktische Tipps für dein erstes Ehejahr

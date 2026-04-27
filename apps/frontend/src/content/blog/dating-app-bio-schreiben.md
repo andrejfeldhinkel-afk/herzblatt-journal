@@ -9,6 +9,15 @@ tags:
   - "Dating-Tipps"
   - "Profil"
   - "Ratgeber"
+faq:
+  - question: "Was macht eine gute Dating-App-Bio aus?"
+    answer: "Eine gute Bio zeigt deine Persoenlichkeit konkret, weckt Neugier durch ein Detail und gibt einen klaren Hook fuer den ersten Chat-Einstieg."
+  - question: "Wie erkenne ich, dass meine Bio nicht funktioniert?"
+    answer: "Du erkennst es an wenigen Matches, oberflaechlichen Antworten oder daran, dass Gespraeche nach dem Match sofort wieder versanden."
+  - question: "Ist es normal, mehrere Bio-Versionen zu testen?"
+    answer: "Ja, das ist sogar empfehlenswert. Aendere alle 2 Wochen einen Aspekt und beobachte, welche Version mehr passende Matches generiert."
+  - question: "Wie lang sollte die Bio idealerweise sein?"
+    answer: "Auf Tinder reichen 2 bis 3 Saetze, auf Hinge oder Bumble nutze 150 bis 300 Zeichen. Wichtiger als Laenge ist Klarheit und ein konkreter Aufhaenger."
 ---
 
 ## Die Kunst der perfekten Dating-App Bio

@@ -10,6 +10,15 @@ tags:
 featured: false
 image: "/images/photos/ghosting-umgehen.webp"
 imageAlt: "Ghosting verstehen und damit umgehen: Psychologie und Heilung"
+faq:
+  - question: "Was ist Ghosting beim Dating eigentlich?"
+    answer: "Ghosting bedeutet dass eine Person ohne Erklaerung den Kontakt abbricht. Keine Antwort mehr, keine Verabschiedung, ploetzliches Verschwinden im Schweigen."
+  - question: "Wie gehst du am besten mit Ghosting um?"
+    answer: "Akzeptiere dass du keine Antwort bekommst, schreibe nicht hinterher und blockiere wenn noetig. Kanalisiere den Schmerz in Selbstfuersorge und Routinen."
+  - question: "Ist es normal sich nach Ghosting wertlos zu fuehlen?"
+    answer: "Ja das Gefuehl ist sehr verbreitet, weil das Gehirn Erklaerungen sucht. Erinnere dich, das Verhalten sagt mehr ueber den Ghoster aus als ueber dich."
+  - question: "Solltest du nach Ghosting nochmal nachfragen?"
+    answer: "Eine kurze klare Nachricht ist okay. Mehrere Versuche schaden deinem Selbstwert. Ziehe einen Schlussstrich und investiere die Energie in dich selbst."
 ---
 Das schlimmste Gefühl beim Dating ist, einfach ignoriert zu werden. Eine Person, mit der du Chemie hattest, mit der du lachtest und sprachest, verschwindet plötzlich. Keine Erklärung, keine Abschlussnachricht – nur Stille. Dies ist [Ghosting](/blog/ghosting-komplett-guide). Es ist verletzend, verwirrend und lässt dich fragen: "Was ist falsch mit mir?" Dieser Ratgeber enthüllt die [geghostet](/blog/ghosting-ueberwinden)" denke "Jemand unreifer hat sich selbst als nicht würdig gezeigt". Das ist nicht über dich, das ist über sie.
 

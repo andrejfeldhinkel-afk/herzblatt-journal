@@ -9,6 +9,15 @@ tags:
   - "Kommunikation"
   - "Dating-Tipps"
   - "Ratgeber"
+faq:
+  - question: "Wie sage ich ein Date hoeflich ab?"
+    answer: "Direkt, ehrlich und ohne Ausreden. Eine kurze Nachricht mit Wertschaetzung und ohne Hinhaltetaktik ist am respektvollsten."
+  - question: "Wie erkenne ich ob ich absagen sollte?"
+    answer: "Wenn du keine echte Lust hast, in einer schwierigen Phase steckst oder kein Interesse spuerst, ist Absage besser als Hingehen."
+  - question: "Ist es normal sich beim Absagen schlecht zu fuehlen?"
+    answer: "Ja das ist normal. Aber Ehrlichkeit ist immer respektvoller als Ghosting oder vorgespielte Begeisterung."
+  - question: "Wann ist Ghosting okay statt Absage?"
+    answer: "Eigentlich nie. Eine kurze Absage ist immer respektvoller. Ausnahme: bei aggressivem oder uebergriffigem Verhalten."
 ---
 
 ## Date absagen: Ehrlich und respektvoll absagen

@@ -17,6 +17,15 @@ keywords:
   - "Emotionale Verbindung"
 image: "/images/blog/bids-for-connection-beziehung-guide.webp"
 imageAlt: "Bids for Connection — Gottmans Konzept"
+faq:
+  - question: "Was sind Bids for Connection nach Gottman?"
+    answer: "Kleine Versuche eines Partners Aufmerksamkeit, Naehe oder Bestaetigung zu bekommen. Sie sind das Fundament jeder Beziehung."
+  - question: "Wie erkenne ich Bids meines Partners?"
+    answer: "Du erkennst sie an Bemerkungen, Fragen, Beruehrungen oder Blicken die nach Verbindung suchen."
+  - question: "Ist es normal Bids zu uebersehen?"
+    answer: "Ja das ist normal vor allem im Alltagsstress. Aber dauerhaft uebersehene Bids zerstoeren langfristig die Verbindung."
+  - question: "Wann sollte man bewusst Bids beachten?"
+    answer: "Immer aktiv. Aber besonders wenn ihr Distanz spuert ist das gezielte Beachten der naechste Schritt zur Naehe."
 ---
 
 ## Einleitung: Die kleinen Momente, die alles verändern

@@ -9,6 +9,15 @@ tags:
   - "Selbstfürsorge"
   - "Pause"
   - "Ratgeber"
+faq:
+  - question: "Was ist ein Dating Detox?"
+    answer: "Ein Dating Detox ist eine bewusste Pause von Apps, Dates und Suche, um deine Energie und Klarheit ueber deine Beduerfnisse wiederzugewinnen."
+  - question: "Wie erkenne ich, dass ich eine Dating-Pause brauche?"
+    answer: "Du erkennst es an Apathie, ueberreizten Reaktionen auf Nachrichten oder dem Gefuehl, dich beim Daten zu verlieren statt zu finden."
+  - question: "Ist es normal, immer wieder Dating-Pausen einzulegen?"
+    answer: "Ja, viele Singles brauchen alle paar Monate eine Auszeit. Pausen sind Selbstfuersorge, kein Versagen, und machen dich beziehungsfaehiger."
+  - question: "Wie lange sollte eine Dating-Pause dauern?"
+    answer: "Mindestens 4 Wochen, oft 2 bis 3 Monate. Du bist bereit zurueckzukehren, wenn echte Neugier statt Druck oder Verzweiflung wieder da ist."
 ---
 ## Dating Detox: Warum eine Pause dir guttut
 

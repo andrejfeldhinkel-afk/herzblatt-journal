@@ -8,6 +8,15 @@ tags:
   - "liebe"
   - "Selbstreflexion"
   - "Ratgeber"
+faq:
+  - question: "Wie unterscheidest du Liebe von Gewohnheit?"
+    answer: "Liebe waehlt aktiv und freut sich auf den Partner. Gewohnheit funktioniert auf Autopilot ohne echte Begeisterung und mit wenig emotionaler Energie."
+  - question: "Welche Fragen helfen dir Klarheit zu finden?"
+    answer: "Wuerdest du dich heute neu fuer ihn entscheiden? Vermisst du ihn wirklich? Bringt euch Naehe noch Freude oder nur Sicherheit? Antworten sind ehrliche Indikatoren."
+  - question: "Ist es normal in langen Beziehungen Zweifel zu haben?"
+    answer: "Ja Zweifel kommen in jeder Beziehung. Wichtig ist die Haeufigkeit und Tiefe. Phasen sind normal, dauerhafter Zweifel ist ein klares Signal zur Reflexion."
+  - question: "Wann solltest du eine Gewohnheits-Beziehung beenden?"
+    answer: "Wenn keine Gefuehle mehr da sind, du dich verloren fuehlst und Gespraeche oder Therapie nichts aendern. Trennung kann dann eine Befreiung sein."
 ---
 ## Liebe oder Gewohnheit? So findest du es heraus
 

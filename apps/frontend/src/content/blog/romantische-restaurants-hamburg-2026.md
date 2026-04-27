@@ -7,6 +7,15 @@ tags: ["Date-Ideen", "Lifestyle", "Dating"]
 keywords: ["romantische restaurants hamburg", "beste date restaurants hamburg", "date essen hamburg"]
 image: "/images/blog/aengstlicher-bindungsstil-heilen.webp"
 imageAlt: "Romantische Restaurants Hamburg"
+faq:
+  - question: "Was macht Hamburg romantisch fuer Dates?"
+    answer: "Hamburg bietet Wasser, Lichter und maritime Atmosphaere. Hafenblick und Elbphilharmonie schaffen einzigartige Kulissen fuer romantische Abende."
+  - question: "Wie waehle ich das beste Restaurant in Hamburg?"
+    answer: "Orientiere dich an der Date-Phase. HafenCity glaenzt fuer Highlights, Eppendorf fuer Klassik, Schanze fuer entspannte erste Dates."
+  - question: "Sind Hafenrestaurants in Hamburg ueberteuert?"
+    answer: "Nicht zwingend. Es gibt Sterne-Lokale mit hohen Preisen, aber auch gute Locations mit Hafenblick im mittleren Preissegment um 50 bis 70 Euro."
+  - question: "Welcher Hamburger Stadtteil ist am romantischsten?"
+    answer: "HafenCity fuer den Wow-Effekt, Oevelgoenne fuer Strandromantik, Eppendorf fuer Eleganz. Jeder Stadtteil hat seinen eigenen Charme."
 ---
 
 Hamburg ist eine Stadt für Verliebte, und das hat ganz konkrete Gründe. Wasser. Lichter. Schiffe. Und eine maritime Atmosphäre, die es so nirgendwo sonst in Deutschland gibt. Wenn du an einem klaren Abend an der Elbphilharmonie stehst und auf den Hafen blickst, während ein Containerschiff vorbeifährt, verstehst du sofort, warum die Hansestadt so viele romantische Restaurant-Locations hervorgebracht hat.

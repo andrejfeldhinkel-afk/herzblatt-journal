@@ -12,6 +12,15 @@ tags:
   - "Beziehung"
   - "Ratgeber"
 keywords: ["retroaktive eifersucht", "eifersüchtig auf ex des partners", "eifersucht vergangenheit partner"]
+faq:
+  - question: "Was ist retroaktive Eifersucht?"
+    answer: "Eine obsessive Fixierung auf die sexuelle oder romantische Vergangenheit deines Partners, die dich quaelt und die Beziehung belastet."
+  - question: "Wie ueberwinde ich retroaktive Eifersucht?"
+    answer: "Stoppe das Befragen, unterbreche obsessive Gedanken bewusst und arbeite an deinem Selbstwert. Therapie wirkt bei starken Symptomen am besten."
+  - question: "Ist retroaktive Eifersucht normal?"
+    answer: "Gelegentliche Gedanken sind normal. Wird sie zwanghaft und stoert den Alltag, hat sie Krankheitswert und braucht professionelle Hilfe."
+  - question: "Was triggert retroaktive Eifersucht?"
+    answer: "Meist niedriger Selbstwert, Vergleichsdenken oder unsichere Bindung. Auch ROCD oder OCD koennen zugrunde liegen und sich aehnlich aeussern."
 ---
 Du willst nicht fragen. Du weißt, dass du nicht fragen sollst. Aber die Worte kommen trotzdem heraus: "Wie viele Menschen, bevor du mich getroffen hast?"
 

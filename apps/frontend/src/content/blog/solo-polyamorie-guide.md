@@ -11,6 +11,15 @@ tags:
 keywords: ["solo polyamorie", "solo poly deutsch", "polyamor und unabhängig", "mehrere beziehungen single"]
 description: "Solo-Polyamorie ist nicht Promiskuität - es ist eine bewusste Lebensweise, in der du mit mehreren Menschen in Beziehung stehst."
 date: 2025-12-15
+faq:
+  - question: "Was ist Solo-Polyamorie?"
+    answer: "Solo-Polyamorie ist eine bewusste Beziehungsform mit mehreren Partnern, bei der du deine Autonomie und Unabhaengigkeit voll bewahrst."
+  - question: "Wie funktioniert Solo-Polyamorie im Alltag?"
+    answer: "Du fuehrst mehrere Beziehungen ohne Co-Wohnen oder Verschmelzung. Klare Kommunikation, Kalenderabsprachen und ehrliche Absprachen sind Pflicht."
+  - question: "Ist Solo-Polyamorie das Gleiche wie Promiskuitaet?"
+    answer: "Nein. Solo-Polyamorie ist verbindliche, ethische Mehrfachliebe mit Konsens aller Beteiligten. Es geht um Tiefe, nicht um Quantitaet."
+  - question: "Fuer wen eignet sich Solo-Polyamorie?"
+    answer: "Fuer Menschen, die starke Autonomie brauchen und mehrere Menschen tief lieben koennen. Sie ist nicht fuer jeden geeignet und braucht Reife."
 ---
 ## Solo-Polyamorie: Mehrere Beziehungen führen und trotzdem dein eigener Mensch bleiben
 

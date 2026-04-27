@@ -9,6 +9,15 @@ tags:
   - "freundschaft"
   - "Ex-Partner"
   - "Ratgeber"
+faq:
+  - question: "Ist Freundschaft nach einer Trennung wirklich moeglich?"
+    answer: "Ja unter Bedingungen. Beide Partner muessen emotional getrennt sein und neue Rollen akzeptieren. Sonst wird es schmerzhaft fuer beide Seiten."
+  - question: "Wie baust du eine Freundschaft mit dem Ex auf?"
+    answer: "Lasse erst Monate vergehen, dann kommuniziere klar Grenzen. Trefft euch zunaechst in lockeren Situationen und vermeidet alte Pärchen-Routinen."
+  - question: "Ist es normal nach Trennung wieder Kontakt zu wollen?"
+    answer: "Ja viele wollen die Verbindung halten. Pruefe aber ehrlich ob du echte Freundschaft willst oder nur die Trennung nicht akzeptieren kannst."
+  - question: "Wann solltest du die Freundschaft mit dem Ex beenden?"
+    answer: "Wenn alte Gefuehle wieder hochkommen oder die Freundschaft eine neue Beziehung blockiert. Auch bei Eifersucht ist klarer Schnitt gesuender."
 ---
 
 ## Freundschaft nach [Trennung](/blog/trennung-verarbeiten-12-schritte): Geht das wirklich?

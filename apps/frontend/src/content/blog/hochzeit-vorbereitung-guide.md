@@ -8,6 +8,15 @@ tags:
   - "Hochzeit"
   - "Ratgeber"
   - "Partnerschaft"
+faq:
+  - question: "Was sind die wichtigsten Phasen bis zur Hochzeit?"
+    answer: "Anziehung, Verliebtheit, Stabilisierung, Krise, Vertiefung, Verbindlichkeit und Hochzeit. Jede Phase pruefst du eure Werte und Zukunftsfaehigkeit."
+  - question: "Wie bereitest du dich auf eine Hochzeit emotional vor?"
+    answer: "Sprecht ueber Werte, Familie, Geld und Kinder. Plant gemeinsame Rituale und nehmt euch Zeit fuer Gespraeche jenseits der Logistik der Feier."
+  - question: "Ist es normal vor der Hochzeit Zweifel zu haben?"
+    answer: "Ja kalte Fuesse sind normal, weil dir bewusst wird, was du versprichst. Reflektiere die Zweifel ehrlich und unterscheide Stress von echten Warnsignalen."
+  - question: "Wie lange sollte man vor der Hochzeit zusammen sein?"
+    answer: "Zwei bis drei Jahre gemeinsame Zeit gelten als Minimum. Wichtig ist nicht die Dauer sondern dass ihr verschiedene Lebenslagen zusammen erlebt habt."
 ---
 Der Weg vom ersten Date bis zum Ja-Wort ist kein zufälliger Spaziergang. Es ist eine Reihe von bewussten Phasen, in denen sich zwei Menschen gegenseitig kennen lernen und entscheiden, ob sie ein gemeinsames Leben aufbauen wollen.
 

@@ -9,6 +9,15 @@ tags:
   - "Sexualität"
   - "Intimität"
   - "Partnerschaft"
+faq:
+  - question: "Kann eine Beziehung ohne Sex funktionieren?"
+    answer: "Ja, wenn beide damit gluecklich sind. Probleme entstehen meist wenn nur einer das so will und der andere darunter leidet."
+  - question: "Wie erkenne ich ob fehlender Sex ein Problem ist?"
+    answer: "Du erkennst es an Frust, Distanz, Selbstzweifeln oder dem Gefuehl nicht mehr begehrt zu werden."
+  - question: "Ist es normal dass es Phasen ohne Sex gibt?"
+    answer: "Ja das ist normal in jeder Langzeitbeziehung. Aber dauerhafte Sexlosigkeit verdient ehrliche Gespraeche."
+  - question: "Wann sollte ich Sexualtherapie in Betracht ziehen?"
+    answer: "Wenn fehlender Sex Leidensdruck schafft und Gespraeche nichts aendern, lohnt sich Sexualtherapie."
 ---
 ## beziehung ohne Sex: Ursachen, Lösungen und wie man damit umgeht
 

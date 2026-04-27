@@ -9,6 +9,15 @@ tags:
   - "Beziehungsprobleme"
   - "Intimität"
   - "Ratgeber"
+faq:
+  - question: "Was sind Ursachen fuer sexuelle Unlust?"
+    answer: "Stress, Hormone, Beziehungskonflikte, Krankheit, Trauma oder Medikamente koennen die Lust deutlich beeintraechtigen."
+  - question: "Wie erkenne ich woher meine Unlust kommt?"
+    answer: "Du erkennst es indem du ehrlich pruefst: Hat sich Lebenssituation, Gesundheit oder Beziehung in letzter Zeit veraendert?"
+  - question: "Ist es normal dass die Lust in Phasen weniger wird?"
+    answer: "Ja das ist normal. Lust ist nicht konstant. Aber chronische Unlust ueber Monate verdient Aufmerksamkeit."
+  - question: "Wann sollte ich aerztliche oder therapeutische Hilfe suchen?"
+    answer: "Bei laengerer Unlust, Schmerzen oder Beziehungsbelastung lohnt sich Arzt-Besuch oder Sexualtherapie."
 ---
 ## Wenn die Lust nachlässt: Ursachen und Lösungen
 

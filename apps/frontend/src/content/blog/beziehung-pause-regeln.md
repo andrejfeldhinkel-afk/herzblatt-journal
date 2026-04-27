@@ -9,6 +9,15 @@ tags:
   - "Beziehungspause"
   - "Partnerschaft"
   - "Ratgeber"
+faq:
+  - question: "Was sind sinnvolle Regeln fuer eine Beziehungspause?"
+    answer: "Klare Regeln zu Dauer, Kontakt, Treffen mit anderen und einem Endgespraech sind wichtig damit die Pause Klarheit bringt."
+  - question: "Wie erkenne ich ob eine Pause sinnvoll ist?"
+    answer: "Du erkennst es wenn ihr euch im Kreis dreht, beide ueberfordert seid und Abstand fuer Reflexion brauchen."
+  - question: "Ist es normal dass Pausen oft zur Trennung fuehren?"
+    answer: "Ja das passiert oft. Aber Pausen koennen auch klaeren ob die Liebe trotz allem traegt."
+  - question: "Wann sollte man eher Paartherapie statt Pause machen?"
+    answer: "Wenn ihr beide kaempfen wollt aber nicht weiter kommt, ist Paartherapie meist hilfreicher als Distanz."
 ---
 
 ## Beziehungspause: Rettung oder Ende auf Raten?

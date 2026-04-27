@@ -10,6 +10,15 @@ tags:
   - "Autismus"
   - "Dating"
   - "Ratgeber"
+faq:
+  - question: "Was bedeutet neurodivergent beim Dating eigentlich?"
+    answer: "Neurodivergenz bezeichnet ADHS, Autismus, Dyslexie und mehr. Beim Dating heisst das, dein Gehirn verarbeitet Reize anders als neurotypisch."
+  - question: "Wie erkenne ich, dass mein Dating-Stress neurodivergent bedingt ist?"
+    answer: "Du erkennst es an Reizueberflutung nach Smalltalk, starker Erschoepfung nach Dates oder Schwierigkeiten mit Blickkontakt und Routinen."
+  - question: "Ist es normal, als neurodivergente Person beim Dating Pausen zu brauchen?"
+    answer: "Ja, das ist voellig normal. Dein Nervensystem braucht laengere Erholungszeit, das ist keine Schwaeche, sondern eine Eigenheit deiner Verkabelung."
+  - question: "Sollte ich meine Neurodivergenz beim Date offen ansprechen?"
+    answer: "Du entscheidest, wann du teilst. Frueh ehrlich zu sein filtert passende Menschen schneller heraus und schuetzt deine Energie langfristig."
 ---
 ## Dating als neurodivergente Person: Ein Guide
 

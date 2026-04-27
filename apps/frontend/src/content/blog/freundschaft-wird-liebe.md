@@ -8,6 +8,15 @@ tags:
   - "Beziehung"
   - "freundschaft"
   - "liebe"
+faq:
+  - question: "Wann wird aus Freundschaft echte Liebe?"
+    answer: "Wenn Sehnsucht, Eifersucht und koerperliche Anziehung dazu kommen. Du denkst staendig an die Person und willst mehr als nur Freundschaft."
+  - question: "Wie gestehst du deinem besten Freund deine Liebe?"
+    answer: "Suche einen ruhigen Moment, sei direkt und ehrlich. Sage was du fuehlst und welche Risiken du siehst. Akzeptiere jede Antwort respektvoll."
+  - question: "Ist es normal Angst vor diesem Schritt zu haben?"
+    answer: "Ja viele fuerchten den Verlust der Freundschaft. Diese Angst ist verstaendlich, aber Klarheit ist langfristig besser als heimliches Schmachten."
+  - question: "Was tun wenn deine Gefuehle nicht erwidert werden?"
+    answer: "Gib dir und der Freundschaft Zeit. Eine Pause hilft beim Verarbeiten. Spaeter koennt ihr neu definieren ob Freundschaft moeglich bleibt."
 ---
 
 Es passiert unauffällig. Der Freund, mit dem du regelmäßig Kaffee trinkst, wird plötzlich zu der Person, auf die du dich am meisten freust. Seine Witze lassen dich intensiver lachen. Der Gedanke, dass er mit jemandem zusammen sein könnte, tut weh. Du merkst: Das ist nicht mehr nur Freundschaft. Das ist mehr.

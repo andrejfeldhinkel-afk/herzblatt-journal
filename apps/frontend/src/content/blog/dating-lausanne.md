@@ -9,6 +9,15 @@ tags:
   - "dating-spots"
   - "lausanne"
   - "schweiz"
+faq:
+  - question: "Was macht Dating in Lausanne besonders?"
+    answer: "Lausanne verbindet franzoesisches Flair, Genfer-See-Romantik und Alpen-Panorama mit einer entspannten Atmosphaere und vielen Outdoor-Spots."
+  - question: "Wo lernt man in Lausanne am besten Singles kennen?"
+    answer: "Du findest Singles in Ouchy am See, in Cafes von Flon, auf Maerkten in der Altstadt und auf Veranstaltungen rund um die EPFL und Universitaet."
+  - question: "Ist Lausanne eine gute Dating-Stadt?"
+    answer: "Ja, Lausanne ist romantisch und international. Die franzoesisch-schweizerische Kultur und der See machen Dates atmosphaerisch besonders dicht."
+  - question: "Welche Date-Ideen funktionieren in Lausanne gut?"
+    answer: "Spaziergang in Ouchy am See, Apero in Flon, Weindegustation in Lavaux oder Brunch in der Altstadt sind klassische Lausanne-Date-Klassiker."
 ---
 
 ## dating in Lausanne: Genfer See Romantik

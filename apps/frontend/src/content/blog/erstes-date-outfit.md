@@ -8,6 +8,15 @@ tags:
   - "Dating"
   - "erstes-date"
   - "Lifestyle"
+faq:
+  - question: "Was solltest du beim ersten Date anziehen?"
+    answer: "Trage etwas in dem du dich wohl und selbstbewusst fuehlst. Passe das Outfit an die Location an und kleide dich eine Stufe schicker als sonst."
+  - question: "Wie findest du das passende Outfit fuer ein Date?"
+    answer: "Beruecksichtige Location, Wetter und deinen Stil. Setze auf gut sitzende Basics, gepflegte Schuhe und ein Detail das dich authentisch wirken laesst."
+  - question: "Ist es normal sich vor dem Date stundenlang umzuziehen?"
+    answer: "Ja viele Menschen probieren mehrere Outfits aus. Lege dir am Vortag zwei Optionen bereit, das spart Zeit und reduziert Stress am Date-Tag."
+  - question: "Was solltest du beim Date-Outfit unbedingt vermeiden?"
+    answer: "Vermeide unbequeme Kleidung, neue Schuhe und uebermaessigen Schmuck. Auch zu viel Parfuem oder verkleidete Looks wirken unauthentisch und stoeren."
 ---
 
 Du hast ein Date und der Schrank ist offen. T-Shirt, Pullover, Jeans – oder doch eleganter? Die Frage „Was ziehe ich an?" kann überraschend stressig sein. Aber hier ist die gute Nachricht: Es gibt keine perfekte Antwort. Es gibt nur die richtige Antwort für dich.

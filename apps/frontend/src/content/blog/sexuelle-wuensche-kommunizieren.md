@@ -8,6 +8,15 @@ tags:
   - "Kommunikation"
   - "Intimität"
   - "Ratgeber"
+faq:
+  - question: "Wie spreche ich sexuelle Wuensche ohne Scham an?"
+    answer: "Waehle einen entspannten Moment ausserhalb des Schlafzimmers, sprich aus deinen Gefuehlen heraus und beginne mit kleinen, leicht teilbaren Wuenschen."
+  - question: "Wie reagiere ich auf abweichende Wuensche meines Partners?"
+    answer: "Hoere offen zu ohne Bewertung, frage nach und entscheide ehrlich was sich fuer dich stimmig anfuehlt. Nein bleibt jederzeit erlaubt."
+  - question: "Sind sexuelle Wuensche bei langen Paaren normal?"
+    answer: "Ja, voellig. Sexuelle Beduerfnisse veraendern sich mit der Zeit. Offene Kommunikation darueber ist Schluessel fuer langjaehrige Intimitaet."
+  - question: "Was tun bei sehr unterschiedlichen sexuellen Wuenschen?"
+    answer: "Sucht Schnittmengen, Kompromisse oder verhandelt Grenzen offen. Bei tiefen Differenzen kann eine Sexualtherapie wertvolle Klarheit bringen."
 ---
 ## Sexuelle Wünsche ansprechen ohne Scham
 

@@ -12,6 +12,15 @@ tags:
   - "Beziehung"
   - "Ratgeber"
 keywords: ["partner idealisieren", "idealisierung beziehung", "partner auf podest"]
+faq:
+  - question: "Was bedeutet es den Partner zu idealisieren?"
+    answer: "Idealisierung heisst du liebst eine Fantasie statt der echten Person. Schwaechen werden ausgeblendet und unerfuellte Beduerfnisse projiziert."
+  - question: "Wie erkennst du eine Idealisierung in deiner Beziehung?"
+    answer: "Du redest dir Schwaechen schoen, ignorierst Warnsignale und denkst er ist perfekt. Freunde aussern Bedenken, die du nicht ernst nehmen kannst."
+  - question: "Ist es normal in der Verliebtheitsphase zu idealisieren?"
+    answer: "Ja zu Beginn ist Idealisierung biologisch normal. Problematisch wird es wenn der Schleier nach Monaten oder Jahren nicht faellt und Realitaet ausbleibt."
+  - question: "Wie loest du eine Idealisierung gesund auf?"
+    answer: "Beobachte Verhalten statt Worten, sprich ehrlich mit Freunden und schreibe Schwaechen auf. Therapie hilft tiefere Muster aus der Kindheit zu erkennen."
 ---
 
 Dein Partner ist perfekt. Er ist intelligent, lustig, liebevoll und genau das, was du dir immer gewünscht hast. Die einzige Anleitung ist: Er existiert nicht. Die Person, die du liebst, ist eine Mischung aus dem echten Menschen und einer Fantasie, die dein Gehirn erschaffen hat.

@@ -11,6 +11,15 @@ tags:
 featured: false
 image: "/images/photos/dating-introvertierte.webp"
 imageAlt: "Introvertierter Mann beim ruhigen Date - Dating für stille Menschen"
+faq:
+  - question: "Was bedeutet Dating fuer Introvertierte konkret?"
+    answer: "Es bedeutet, deine Stille als Staerke zu nutzen, kleine intime Date-Formate zu waehlen und deine Energie bewusst statt extrovertiert zu managen."
+  - question: "Wie erkenne ich, dass ich introvertiert date?"
+    answer: "Du erkennst es daran, dass dich grosse Bars erschoepfen, du Tiefgespraeche bevorzugst und nach Dates Erholungszeit allein brauchst."
+  - question: "Ist Introvertiertheit beim Dating ein Nachteil?"
+    answer: "Nein, im Gegenteil. Introvertierte hoeren tiefer zu, fragen besser nach und bauen schneller echte Verbindung auf als laute Selbstdarsteller."
+  - question: "Welche Date-Formate passen fuer Introvertierte?"
+    answer: "Spaziergaenge, ruhige Cafes, gemeinsame Aktivitaeten wie Kochen oder Museum funktionieren besser als laute Bars oder Gruppenevents am Abend."
 ---
 
 ## Dating für Introvertierte – Deine Stärken nutzen

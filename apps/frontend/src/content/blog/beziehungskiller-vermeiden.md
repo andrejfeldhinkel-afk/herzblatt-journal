@@ -8,6 +8,15 @@ tags:
   - "Beziehung"
   - "liebe"
   - "Tipps"
+faq:
+  - question: "Was sind die groessten Beziehungskiller?"
+    answer: "Verachtung, Mauern, Defensive und Kritik nach Gottman. Dazu kommen fehlende Wertschaetzung und Vertrauensbrueche."
+  - question: "Wie erkenne ich diese Killer in unserem Alltag?"
+    answer: "Du erkennst sie an Augenrollen, Schweigen nach Streit, Rechtfertigungen statt Zuhoeren oder Pauschalkritik."
+  - question: "Ist es normal dass diese Muster sich einschleichen?"
+    answer: "Ja das ist normal in Stresszeiten. Wichtig ist sie zu erkennen und bewusst gegenzusteuern."
+  - question: "Wann sollte man professionelle Hilfe holen?"
+    answer: "Wenn diese Muster Alltag sind und ihr alleine nicht raus kommt, lohnt sich Paartherapie nach Gottman-Methode."
 ---
 ## Die Größten Beziehungskiller Und Wie Man Sie Vermeidet
 

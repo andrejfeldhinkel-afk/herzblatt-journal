@@ -9,6 +9,15 @@ tags:
   - "Langzeitbeziehung"
   - "Beziehungstipps"
   - "Ratgeber"
+faq:
+  - question: "Warum sind Date Nights in Langzeitbeziehungen wichtig?"
+    answer: "Sie schaffen exklusive Zeit zu zweit, halten Romantik lebendig und verhindern dass ihr nur noch Mitbewohner werdet."
+  - question: "Wie erkenne ich dass wir Date Nights brauchen?"
+    answer: "Du erkennst es an Distanz, fehlender Romantik oder dem Gefuehl euch nur noch ueber Logistik auszutauschen."
+  - question: "Ist es normal dass Date Nights muehsam zu organisieren sind?"
+    answer: "Ja das ist normal mit Job und Kindern. Aber gerade dann sind sie umso wichtiger fuer die Beziehung."
+  - question: "Wann sollte man Date Nights zur Pflicht machen?"
+    answer: "Sobald ihr regelmaessig Distanz oder Routine spuert, lohnt sich der feste Termin im Kalender."
 ---
 
 ## Date Nights: Warum sie Beziehungen retten

@@ -11,6 +11,15 @@ tags:
 featured: false
 image: "/images/photos/beziehung-aufgeben-oder-kaempfen.webp"
 imageAlt: "Paar in Liebeskrise, das entscheiden muss: Beziehung aufgeben oder kämpfen"
+faq:
+  - question: "Wann ist es Zeit fuer eine Beziehung zu kaempfen?"
+    answer: "Wenn beide bereit sind sich zu veraendern, Liebe und Respekt da sind und keine Deal-Breaker vorliegen, lohnt sich der Kampf."
+  - question: "Wie erkenne ich ob es Zeit ist aufzugeben?"
+    answer: "Du erkennst es wenn nur einer kaempft, Vertrauen zerstoert ist oder Gewalt im Spiel ist."
+  - question: "Ist es normal sich zwischen Bleiben und Gehen hin und her zu drehen?"
+    answer: "Ja das ist normal in Krisen. Aber wenn der Zweifel chronisch wird, ist das oft selbst die Antwort."
+  - question: "Wann sollte ich professionelle Hilfe holen?"
+    answer: "Bei jeder ernsten Beziehungskrise lohnt sich Paartherapie um Klarheit zu gewinnen vor einer endgueltigen Entscheidung."
 ---
 
 ## beziehung aufgeben oder kämpfen: Was du jetzt wissen musst

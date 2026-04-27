@@ -9,6 +9,15 @@ tags:
   - "Ex-Partner"
   - "Neustart"
   - "Ratgeber"
+faq:
+  - question: "Kann ein Neustart mit dem Ex funktionieren?"
+    answer: "Ja aber nur wenn beide ehrlich an den Ursachen gearbeitet haben und sich wirklich veraendert haben statt alte Muster zu wiederholen."
+  - question: "Wie erkenne ich ob ein Neustart sinnvoll ist?"
+    answer: "Du erkennst es daran dass ihr beide neue Einsichten habt, kommunizieren koennt und an gleichen Werten arbeiten wollt."
+  - question: "Ist es normal dass Comeback-Beziehungen oft scheitern?"
+    answer: "Ja das ist normal wenn die Ursachen nicht bearbeitet wurden. Ohne echte Veraenderung kommt das alte Muster zurueck."
+  - question: "Wann sollte ich Therapie in Anspruch nehmen?"
+    answer: "Beim Neustart lohnt sich fast immer Paartherapie um alte Muster zu erkennen und neu zu starten."
 ---
 ## Neustart mit dem Ex: So klappt es wirklich
 

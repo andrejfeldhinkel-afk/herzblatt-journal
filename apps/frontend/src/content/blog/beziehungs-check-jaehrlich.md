@@ -9,6 +9,15 @@ tags:
   - "Paare"
   - "Kommunikation"
   - "Beziehungspflege"
+faq:
+  - question: "Was ist ein jaehrlicher Beziehungs-Check?"
+    answer: "Ein bewusster Termin im Jahr an dem ihr ehrlich Bilanz zieht: Was laeuft gut, was fehlt, was wollt ihr aendern."
+  - question: "Wie erkenne ich ob wir einen Check brauchen?"
+    answer: "Wenn du das Gefuehl hast euch nicht mehr richtig zu sehen oder Themen unausgesprochen bleiben, lohnt sich ein Check."
+  - question: "Ist es normal dass dabei Schwieriges hochkommt?"
+    answer: "Ja das ist normal und sogar erwuenscht. Ein Check ist ein sicherer Raum um auch Unangenehmes anzusprechen."
+  - question: "Wann sollte man dabei Hilfe holen?"
+    answer: "Wenn ihr beim Check feststellt dass ihr in einer Krise steckt, lohnt sich Paartherapie als naechster Schritt."
 ---
 ## Der jährliche Beziehungs-Check: 50 Fragen für eure Liebe
 

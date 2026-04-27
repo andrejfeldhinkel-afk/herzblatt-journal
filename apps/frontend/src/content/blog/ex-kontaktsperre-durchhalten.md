@@ -9,6 +9,15 @@ tags:
   - "Ex-Partner"
   - "Selbstheilung"
   - "Ratgeber"
+faq:
+  - question: "Was bedeutet Kontaktsperre nach einer Trennung?"
+    answer: "Kontaktsperre heisst kein Anrufen, Schreiben oder Stalken auf Social Media. Du brichst die Bindungs-Gewohnheit komplett ab um zu heilen."
+  - question: "Wie haeltst du eine Kontaktsperre wirklich durch?"
+    answer: "Loesche Nummern und blockiere Social Media. Lenke dich mit Sport, Freunden und neuen Hobbys ab und schreibe Versuchungen in ein Tagebuch."
+  - question: "Ist es normal die Kontaktsperre einmal zu brechen?"
+    answer: "Ja Rueckfaelle sind normal und kein Versagen. Beginne den Tag-Zaehler einfach von vorn und analysiere was dich zum Brechen verleitet hat."
+  - question: "Wie lange sollte eine Kontaktsperre nach Trennung dauern?"
+    answer: "Mindestens dreissig bis sechzig Tage, bei langen Beziehungen oft drei bis sechs Monate. Erst wenn du neutral fuehlst ist Kontakt sinnvoll."
 ---
 ## Kontaktsperre zum Ex: Warum es sich lohnt und wie du wirklich durchhältst
 

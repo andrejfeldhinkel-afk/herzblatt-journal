@@ -13,6 +13,15 @@ keywords:
   - "dating mit übergewicht"
   - "dating plus size"
   - "dating unsicherheit körper"
+faq:
+  - question: "Was bedeutet Dating mit Uebergewicht ueberhaupt?"
+    answer: "Es heisst, deine Partnersuche zu gestalten ohne dich von Koerperunsicherheit oder gesellschaftlichen Schoenheitsidealen ausbremsen zu lassen."
+  - question: "Wie erkenne ich, dass meine Unsicherheit blockiert?"
+    answer: "Du erkennst es daran, dass du Fotos vermeidest, Dates absagst, dich verstecken willst oder Komplimente automatisch abwehrst und nicht annimmst."
+  - question: "Ist Unsicherheit beim Dating mit Uebergewicht normal?"
+    answer: "Ja, das ist verbreitet. Der Schluessel ist, sie zu verstehen statt zu unterdruecken und an deinem Selbstwert unabhaengig vom Koerper zu arbeiten."
+  - question: "Wie finde ich einen Partner, der mich so liebt wie ich bin?"
+    answer: "Sei von Anfang an authentisch, zeige dich auf Fotos echt und filtere Menschen heraus, die deine Energie und Persoenlichkeit wirklich schaetzen."
   - "selbstbewusst daten"
 draft: false
 author: "sarah-kellner"

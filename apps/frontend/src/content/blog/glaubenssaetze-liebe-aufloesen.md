@@ -9,6 +9,15 @@ tags:
   - "Psychologie"
   - "Selbsthilfe"
   - "Ratgeber"
+faq:
+  - question: "Was sind negative Glaubenssaetze ueber Liebe?"
+    answer: "Negative Glaubenssaetze sind tief verankerte Ueberzeugungen wie Ich bin nicht liebenswert. Sie steuern unbewusst dein Verhalten in Beziehungen."
+  - question: "Wie loest du negative Glaubenssaetze ueber Liebe auf?"
+    answer: "Erkenne den Glaubenssatz, hinterfrage seine Herkunft und formuliere ihn neu. Lebe taeglich kleine Gegenbeweise und beobachte deine Veraenderung."
+  - question: "Ist es normal dass Glaubenssaetze sich wie Wahrheit anfuehlen?"
+    answer: "Ja weil sie oft seit der Kindheit in dir leben. Mit bewusster Reflexion erkennst du, dass es Ueberzeugungen sind und keine objektiven Fakten."
+  - question: "Wie lange dauert es Glaubenssaetze wirklich zu aendern?"
+    answer: "Erste Veraenderungen merkst du nach Wochen, tiefe Transformation braucht oft Monate. Geduld und Wiederholung sind wichtiger als schnelle Ergebnisse."
 ---
 
 ## Negative Glaubenssätze über Liebe auflösen

@@ -8,6 +8,15 @@ tags:
   - "Beziehung"
   - "Dating"
   - "Psychologie"
+faq:
+  - question: "Was sind Bindungstypen beim Dating?"
+    answer: "Bindungstypen sind Muster wie wir Naehe und Beziehung gestalten: sicher, aengstlich, vermeidend oder desorganisiert."
+  - question: "Wie erkenne ich den Bindungstyp meines Dates?"
+    answer: "Du erkennst ihn am Verhalten: Wie reagiert er auf Naehe, Konflikte und Verbindlichkeit in den ersten Wochen?"
+  - question: "Ist es normal sich zu unsicheren Typen hingezogen zu fuehlen?"
+    answer: "Ja das ist normal. Wir suchen oft das Bekannte aus der Kindheit. Bewusstsein hilft gesuendere Wahl zu treffen."
+  - question: "Wann sollte ich ein Date trotz schoener Gefuehle beenden?"
+    answer: "Wenn du immer wieder Schmerz oder Unsicherheit erlebst, lohnt sich der mutige Schritt zu gehen."
 ---
 
 ## Bindungstypen beim dating: Sicher, Ängstlich, Vermeidend Erklärt

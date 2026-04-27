@@ -7,6 +7,15 @@ tags:
   - "Dating"
   - "liebe"
   - "Beziehung"
+faq:
+  - question: "Ist es schwerer mit 30 Liebe zu finden?"
+    answer: "Nein im Gegenteil. Mit 30 weisst du was du willst, hast Klarheit ueber Werte und triffst bessere Entscheidungen. Das macht dich attraktiver."
+  - question: "Wie findest du mit 30 die richtige Partnerschaft?"
+    answer: "Definiere deine Werte, suche bewusst Begegnungen ueber Hobbys und Apps. Investiere in Selbstreflexion und sei offen fuer Menschen abseits alter Schemata."
+  - question: "Ist es normal mit 30 noch Single zu sein?"
+    answer: "Ja absolut normal. Viele Menschen finden ihre groesste Liebe erst spaeter und das macht die Beziehung oft stabiler und reifer als frueher."
+  - question: "Welche Fehler vermeidest du beim Dating mit 30?"
+    answer: "Vergleiche dich nicht mit Freunden, lass keinen Druck zu und akzeptiere keine Kompromisse bei deal breakers. Deine Werte sind dein Kompass."
 ---
 
 Du bist 30 oder kommst in dieses Alter. Es ist nicht mehr dein wildes Partyjahrzehnt – aber vielleicht fragst du dich auch: Bin ich zu alt, um noch die große Liebe zu finden?

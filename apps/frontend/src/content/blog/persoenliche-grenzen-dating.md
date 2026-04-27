@@ -12,6 +12,15 @@ tags:
   - "Dating"
   - "Selbstliebe"
 keywords: ["grenzen setzen dating", "persönliche grenzen dating", "dating grenzen"]
+faq:
+  - question: "Was sind persoenliche Grenzen beim Dating?"
+    answer: "Grenzen sind klare Aussagen, was du akzeptierst und was nicht. Sie schuetzen dich und sind Selbstliebe in Aktion, nicht Egoismus."
+  - question: "Wie setze ich Grenzen beim Dating richtig?"
+    answer: "Sage klar was du willst, wiederhole deine Grenze ruhig und gehe wenn sie ignoriert wird. Konsequenz ist wichtiger als Worte."
+  - question: "Sind Grenzen beim ersten Date schon wichtig?"
+    answer: "Ja, je frueher desto besser. Klare Grenzen filtern Menschen mit schlechten Absichten sofort aus und ziehen respektvolle Partner an."
+  - question: "Warum habe ich Angst, Grenzen zu setzen?"
+    answer: "Meist aus Verlustangst oder dem Glauben, nicht genug zu sein. Du fuerchtest, abgelehnt zu werden. Diese Angst ist heilbar."
 ---
 
 Du gehst auf ein Date. Der andere Mensch sagt: "Ich zahle nicht für Essen, wir teilen uns." Du entschuldigst dich und zahlst deine Hälfte.

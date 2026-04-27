@@ -7,6 +7,15 @@ tags: ["Date-Ideen", "Lifestyle", "Dating"]
 keywords: ["romantische restaurants zuerich", "beste date restaurants zuerich", "date essen zuerich"]
 image: "/images/blog/dating-zuerich.webp"
 imageAlt: "Romantische Restaurants Zuerich"
+faq:
+  - question: "Was macht Zuerich besonders fuer ein romantisches Date?"
+    answer: "Zuerich verbindet Schweizer Eleganz mit Foodie-Niveau. Seeufer, Altstadtgassen und Skybars bieten Vielfalt fuer jede Date-Phase."
+  - question: "Wie teuer ist ein Date-Essen in Zuerich?"
+    answer: "Plane 80 bis 150 Franken pro Person ein. Zuerich gehoert zu den teuersten Staedten Europas, gute Atmosphaere geht aber auch fuer 60 Franken."
+  - question: "Welcher Zuercher Stadtteil eignet sich am besten?"
+    answer: "Niederdoerfli fuer Charme, Seefeld fuer Eleganz, Kreis 4 fuer Szene-Dates. Skybars rund um den HB liefern den Wow-Effekt."
+  - question: "Lohnt sich ein Restaurant am Zuercher See?"
+    answer: "Ja, der Seeblick ist einzigartig in Europa. Reserviere fruehzeitig einen Fensterplatz, idealerweise zur Sonnenuntergangszeit fuer maximale Wirkung."
 ---
 
 Zürich ist eine Stadt der eleganten Gegensätze, und genau das macht sie zu einer der spannendsten Restaurantmetropolen im deutschsprachigen Raum. Zwischen dem klaren See, den engen Gassen der Altstadt, dem hippen Kreis 4 und den modernen Skybars rund um den Hauptbahnhof findest du eine Vielfalt, die für jede Date-Phase und jeden Anlass das Richtige bereithält.

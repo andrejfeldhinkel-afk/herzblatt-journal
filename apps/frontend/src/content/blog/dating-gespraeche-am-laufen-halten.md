@@ -9,6 +9,15 @@ tags:
   - "Kommunikation"
   - "Erstes Date"
   - "Flirten"
+faq:
+  - question: "Was hilft, wenn das Dating-Gespraech ins Stocken geraet?"
+    answer: "Stelle eine offene Frage, greife ein vorheriges Detail wieder auf oder beobachte die Umgebung und mache daraus einen lockeren Gespraechsstart."
+  - question: "Wie erkenne ich, dass mein Gegenueber unterhalten wird?"
+    answer: "Du erkennst es an Nachfragen, Gegenfragen, Augenkontakt und kleinen koerperlichen Signalen wie Vorbeugen oder spiegelnder Mimik im Gespraech."
+  - question: "Ist Smalltalk normal oder ein schlechtes Zeichen?"
+    answer: "Smalltalk ist ein normaler Einstieg, kein Beziehungs-Killer. Entscheidend ist, dass ihr danach in tiefere Themen wechselt und Neugier zeigt."
+  - question: "Wie stelle ich tiefere Fragen ohne aufdringlich zu wirken?"
+    answer: "Knuepfe an etwas Genanntes an und frage nach dem Warum oder dem Gefuehl dahinter, statt direkt Fakten ueber Familie oder Vergangenheit zu pressen."
 ---
 ## Die Kunst des Dating-Gesprächs: Ein unterschätzter Skill
 

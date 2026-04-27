@@ -6,6 +6,15 @@ updated: 2026-04-15
 tags: ["Beziehungstipps", "Dating", "Ratgeber"]
 image: "/images/photos/situationship-guide.webp"
 draft: false
+faq:
+  - question: "Was ist eine Situationship?"
+    answer: "Eine undefinierte romantische oder sexuelle Verbindung ohne klare Beziehungsdefinition. Ihr seid mehr als Freunde, aber kein offizielles Paar."
+  - question: "Wie beende ich eine Situationship?"
+    answer: "Sprich klar aus, was du brauchst. Entweder verbindlicher werden oder respektvoll trennen. Vermeidung verlaengert nur das Leiden beider Seiten."
+  - question: "Sind Situationships heute normal?"
+    answer: "Ja, sehr verbreitet besonders bei Menschen unter 35. Dating-Apps und Bindungsvermeidung haben dieses Phaenomen massiv beguenstigt."
+  - question: "Kann eine Situationship zu echter Liebe werden?"
+    answer: "Ja, aber nur wenn beide klar kommunizieren und sich verbindlich entscheiden. Ohne diesen Schritt bleibt es meist im Limbus stecken."
 ---
 ## Situationship – Was tun, wenn es mehr als Freundschaft aber keine beziehung ist?
 

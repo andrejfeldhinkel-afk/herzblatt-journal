@@ -8,6 +8,15 @@ tags:
   - "Hochzeit"
   - "Romantik"
   - "Ideen"
+faq:
+  - question: "Wie planst du den perfekten Heiratsantrag?"
+    answer: "Waehle einen Ort mit Bedeutung fuer euch, plane den Ring rechtzeitig und ueberlege, ob ein privater oder oeffentlicher Rahmen besser passt."
+  - question: "Was sind die romantischsten Heiratsantrag-Ideen?"
+    answer: "Ein Antrag am Ort des ersten Dates, eine geheime Reise, eine handgeschriebene Liebesgeschichte oder ein Antrag bei Sonnenaufgang sind sehr beliebt."
+  - question: "Ist es normal vor einem Heiratsantrag nervoes zu sein?"
+    answer: "Ja extreme Nervositaet ist normal, weil viel auf dem Spiel steht. Atme tief, vertraue auf deine Liebe und erinnere dich warum du diesen Schritt gehst."
+  - question: "Was tun wenn dein Antrag abgelehnt wird?"
+    answer: "Bleibe ruhig und frage offen nach den Gruenden. Vielleicht ist der Zeitpunkt falsch. Sucht das Gespraech und entscheidet dann gemeinsam ueber die Zukunft."
 ---
 Ein Heiratsantrag ist einer der wichtigsten Momente in einer [verliebt](/blog/mann-verliebt-anzeichen-komplett) habt. Kehrt an diesen Ort zurück und erneuert dort die Liebe mit deinem Antrag.
 

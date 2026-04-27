@@ -11,6 +11,15 @@ tags:
   - "Beziehung"
   - "Ratgeber"
 keywords: ["streit deeskalieren", "konflikt lösen beziehung", "streit beenden", "deeskalation paar", "gottman 4 horsemen", "physiologische flooding"]
+faq:
+  - question: "Wie deeskaliere ich einen Streit in der Beziehung?"
+    answer: "Erkenne Eskalation frueh, mache eine bewusste Pause und kehre zurueck wenn beide ruhig sind. Atmung und Selbstberuhigung sind Kernwerkzeuge."
+  - question: "Wie beruhige ich mich mitten im Streit?"
+    answer: "Atme tief in den Bauch, mache 20 Minuten Pause und vermeide weitere Eskalationsworte. Bewegung oder kaltes Wasser senken den Stress sofort."
+  - question: "Sind Streits in der Beziehung normal?"
+    answer: "Ja, Streit gehoert zu jeder Beziehung. Wichtig ist nicht, dass ihr streitet, sondern wie. Reparatur nach dem Streit zaehlt am meisten."
+  - question: "Was sind die Gottman 4 Horsemen?"
+    answer: "Kritik, Verachtung, Verteidigung und Mauern. Diese vier Muster sagen Trennung am staerksten voraus und gehoeren aus dem Streit verbannt."
 ---
 
 ## Streit deeskalieren: Die vollständige Anleitung zur Konfliktentschärfung in Beziehungen

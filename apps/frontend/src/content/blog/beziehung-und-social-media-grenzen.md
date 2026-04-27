@@ -5,6 +5,15 @@ date: 2026-03-24
 tags: ["Beziehung", "Lifestyle", "Kommunikation"]
 image: "/images/photos/beziehung-und-social-media-grenzen.webp"
 draft: false
+faq:
+  - question: "Welche Social-Media-Grenzen sind in Beziehungen sinnvoll?"
+    answer: "Klare Absprachen ueber Postings, Online-Kontakte, Zeit am Handy und Privatsphaere helfen Konflikte zu vermeiden."
+  - question: "Wie erkenne ich dass Social Media unsere Beziehung schadet?"
+    answer: "Du erkennst es an Eifersucht, weniger Praesenz im Alltag, Streits ueber Postings oder digitalem Fremdgehen."
+  - question: "Ist es normal sich darueber zu streiten?"
+    answer: "Ja das ist heute normal. Social Media ist ein neues Terrain. Klare Regeln helfen mehr als staendige Reibung."
+  - question: "Wann sollte man professionelle Hilfe holen?"
+    answer: "Wenn Social Media zu Vertrauensbruch fuehrt oder einer Suchtverhalten zeigt, lohnt sich Therapie."
 ---
 ---date: 2025-03-13
 

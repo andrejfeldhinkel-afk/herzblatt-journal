@@ -11,6 +11,15 @@ tags:
 featured: false
 image: "/images/photos/dating-fatigue-ueberwinden.webp"
 imageAlt: "Dating Burnout – Wenn die Online-Partnersuche emotional erschöpft"
+faq:
+  - question: "Was ist Dating Burnout?"
+    answer: "Dating Burnout ist die emotionale Erschoepfung durch zu viele Apps, Ablehnungen und enttaeuschende Dates ohne echte Verbindung oder Erfolge."
+  - question: "Wie erkenne ich Dating Burnout an mir selbst?"
+    answer: "Du erkennst es an Apathie beim Swipen, Gereiztheit nach Matches und dem Gefuehl, dass Dating nur noch lastet statt Vorfreude zu wecken."
+  - question: "Ist Dating Burnout normal in Online-Dating-Zeiten?"
+    answer: "Ja, sehr verbreitet. Viele Singles erleben Phasen, in denen Apps und Ghosting auf die Stimmung schlagen und eine Pause ehrlich noetig wird."
+  - question: "Wie komme ich aus dem Dating Burnout wieder raus?"
+    answer: "Loesch Apps fuer 4 Wochen, fokussiere dich auf Hobbys und Freundschaften und kehre erst zurueck, wenn echte Neugier auf Menschen wiederkommt."
 ---
 
 ## Dating Burnout – Wenn die Partnersuche zur Belastung wird

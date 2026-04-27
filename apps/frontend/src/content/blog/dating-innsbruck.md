@@ -8,6 +8,15 @@ tags:
   - "Dating"
   - "innsbruck"
   - "alpen"
+faq:
+  - question: "Was macht Dating in Innsbruck besonders?"
+    answer: "Innsbruck verbindet alpine Kulisse mit kompakter Stadtgroesse. Berge, Wandern und Apres-Ski-Atmosphaere praegen die Begegnungen besonders stark."
+  - question: "Wo lernt man in Innsbruck am besten Singles kennen?"
+    answer: "Du findest Singles in der Maria-Theresien-Strasse, in Cafes der Altstadt, beim Hafelekar-Aufstieg und in studentischen Bars in Wilten."
+  - question: "Ist Innsbruck eine gute Dating-Stadt?"
+    answer: "Ja, Innsbruck ist klein und persoenlich. Die Outdoor-Kultur erleichtert Aktivitaets-Dates, was schneller authentische Verbindung schafft als Bar-Settings."
+  - question: "Welche Date-Ideen funktionieren in Innsbruck gut?"
+    answer: "Wanderung auf der Nordkette, Kaffee in der Altstadt, Inn-Spaziergang oder Skifahren im Winter sind klassische Innsbruck-Date-Optionen."
 ---
 
 ## dating In Innsbruck: Alpen-Romantik

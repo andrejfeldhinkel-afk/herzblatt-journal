@@ -5,6 +5,15 @@ date: 2026-03-07
 tags: ["Dating", "Selbstbewusstsein", "Ratgeber"]
 image: "/images/photos/dating-fuer-schuechterne.webp"
 draft: false
+faq:
+  - question: "Was bedeutet Dating fuer Schuechterne?"
+    answer: "Es bedeutet, trotz innerer Hemmung in Kontakt zu gehen, kleine Schritte zu trainieren und deine ruhige Art als authentische Staerke zu nutzen."
+  - question: "Wie erkenne ich Schuechternheit im Dating?"
+    answer: "Du erkennst sie an Vermeidung, Errroeten, langen Antwortzeiten in Chats oder dem Drang, geplante Dates wegen Aufregung kurzfristig abzusagen."
+  - question: "Ist Schuechternheit beim Dating ein echtes Hindernis?"
+    answer: "Es kann eines sein, muss aber nicht. Viele Frauen empfinden zurueckhaltende Maenner als angenehm, solange sie initiativ den naechsten Schritt machen."
+  - question: "Wie kann ich als Schuechterner mein erstes Date planen?"
+    answer: "Waehle einen Spaziergang oder ein Aktivitaets-Date statt Bar, bereite 3 Themen vor und limitiere die Dauer auf 60 bis 90 Minuten als Sicherheitsnetz."
 ---
 
 ## Dating für Schüchterne: Dein praktischer Guide

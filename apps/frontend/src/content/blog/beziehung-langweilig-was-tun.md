@@ -9,6 +9,15 @@ tags:
   - "Langeweile"
   - "Partnerschaft"
   - "Ratgeber"
+faq:
+  - question: "Warum wird eine Beziehung langweilig?"
+    answer: "Routine, fehlende neue Erfahrungen und mangelnde Aufmerksamkeit fuereinander lassen Spannung und Lebendigkeit verschwinden."
+  - question: "Wie erkenne ich dass ich mich langweile?"
+    answer: "Du erkennst es an Lustlosigkeit, fehlender Freude beim Wiedersehen und dem Wunsch dich anders abzulenken."
+  - question: "Ist es normal dass jede Langzeitbeziehung Phasen hat?"
+    answer: "Ja das ist normal. Lange Beziehungen haben Hochs und Tiefs. Langeweile ist oft ein Signal aktiv zu werden."
+  - question: "Wann sollte ich Sorge haben dass mehr dahinter steckt?"
+    answer: "Wenn die Langeweile von Distanz, fehlender Liebe oder Resignation begleitet wird, lohnt sich tiefes Hinschauen."
 ---
 ## Wenn die Liebe zur Routine wird: Das Phänomen der Beziehungs-Langeweile
 

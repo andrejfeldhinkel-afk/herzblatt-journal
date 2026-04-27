@@ -9,6 +9,15 @@ tags:
   - "Recovery"
   - "Dating"
   - "Selbstfürsorge"
+faq:
+  - question: "Was bedeutet Dating nach Essstoerung?"
+    answer: "Es bedeutet, in Recovery wieder Beziehungen zuzulassen, Trigger rund ums Essen zu managen und einen Partner zu finden, der deinen Weg respektiert."
+  - question: "Wann erkenne ich, dass ich bereit bin zu daten?"
+    answer: "Du erkennst es, wenn du Mahlzeiten ohne Panik teilst, deinen Koerper akzeptierst und nicht mehr aus Selbsthass nach Bestaetigung suchst."
+  - question: "Ist es normal, in Recovery Dating-Angst zu haben?"
+    answer: "Ja, sehr normal. Dating reaktiviert oft Koerperthemen. Wichtig ist, ehrlich zu kommunizieren und enge therapeutische Begleitung zu behalten."
+  - question: "Wie spreche ich mit einem Date ueber meine Essstoerung?"
+    answer: "Teile so viel wie noetig, nicht zwingend alles am ersten Date. Wenn die Beziehung tiefer wird, sprich offen ueber Trigger und Beduerfnisse."
 ---
 ## Dating nach Essstörung: Partnersuche in Recovery
 

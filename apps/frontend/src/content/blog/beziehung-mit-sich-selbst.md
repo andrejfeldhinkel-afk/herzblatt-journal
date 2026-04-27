@@ -9,6 +9,15 @@ tags:
   - "Selbstliebe"
   - "Persönlichkeitsentwicklung"
   - "Dating"
+faq:
+  - question: "Was bedeutet eine Beziehung mit sich selbst?"
+    answer: "Es bedeutet dich selbst zu kennen, anzunehmen und gut fuer dich zu sorgen. Sie ist die Basis fuer alle anderen Beziehungen."
+  - question: "Wie erkenne ich ob ich eine gute Beziehung zu mir habe?"
+    answer: "Du erkennst es daran dass du allein sein kannst, deine Beduerfnisse kennst und nicht staendige Bestaetigung brauchst."
+  - question: "Ist es normal Schwierigkeiten mit sich selbst zu haben?"
+    answer: "Ja sehr normal. Viele wurden nicht gelehrt sich selbst zu lieben. Aber es ist eine Faehigkeit die man lernen kann."
+  - question: "Wann sollte ich Therapie in Erwaegung ziehen?"
+    answer: "Wenn Selbstkritik dich quaelt oder du dich nicht annehmen kannst, lohnt sich therapeutische Unterstuetzung."
 ---
 ## Warum deine beziehung zu dir selbst deine wichtigste Beziehung ist
 

@@ -8,6 +8,15 @@ tags:
   - "Neuanfang"
   - "Bindungsangst"
   - "Partnersuche"
+faq:
+  - question: "Warum ist Lieben nach langer Singlezeit so schwer?"
+    answer: "Dein Nervensystem hat sich an Allein-Sein gewoehnt. Naehe loest Stressreaktionen aus, weil dein Koerper Unabhaengigkeit als Sicherheit gespeichert hat."
+  - question: "Wie oeffnest du dich nach Jahren wieder fuer eine Beziehung?"
+    answer: "Beginne mit kleinen Schritten, lasse Verletzlichkeit langsam zu und kommuniziere ehrlich deine Tempo-Beduerfnisse. Therapie kann den Prozess unterstuetzen."
+  - question: "Ist es normal nach langer Singlezeit Bindungsangst zu haben?"
+    answer: "Ja sehr normal. Der Schutzmechanismus ist gelernt und braucht Zeit zur Aufloesung. Mit Geduld und richtigem Partner wird Naehe wieder moeglich."
+  - question: "Was tun wenn dich Naehe beim Dating ueberfordert?"
+    answer: "Zieh dich nicht still zurueck, sondern sprich offen darueber. Plant kleinere Schritte und bewusste Auszeiten. Authentizitaet schafft mehr Sicherheit als Verstecken."
 ---
 
 ## Sich öffnen nach Jahren als Single

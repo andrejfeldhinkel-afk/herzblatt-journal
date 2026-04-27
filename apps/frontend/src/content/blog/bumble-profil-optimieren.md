@@ -9,6 +9,15 @@ tags:
   - "Online-Dating"
   - "Dating-Apps"
   - "Dating-Tipps"
+faq:
+  - question: "Was macht ein gutes Bumble-Profil aus?"
+    answer: "Authentische Bilder, ein klarer Bio-Text mit Persoenlichkeit und Prompts die echtes Gespraech ermoeglichen."
+  - question: "Wie erkenne ich ob mein Profil gut ankommt?"
+    answer: "Du erkennst es an Match-Rate, Qualitaet der Konversationen und ob sich daraus echte Dates entwickeln."
+  - question: "Ist es normal dass es Wochen dauert bis Matches kommen?"
+    answer: "Ja das ist normal. Dating-Apps brauchen Zeit. Konstante Pflege deines Profils zahlt sich aus."
+  - question: "Wann sollte man das Profil komplett ueberarbeiten?"
+    answer: "Wenn du seit Wochen kaum Matches oder gute Gespraeche hast, lohnt sich ein kompletter Profil-Reset."
 ---
 ## Bumble: Das Game der Frauen-Macht und wie man es meistert
 

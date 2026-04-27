@@ -12,6 +12,15 @@ keywords: ["anxious avoidant healing", "ängstlich vermeidend beziehung heilen",
 description: "Die anxious-avoidant Falle ist eine der schmerzhaftesten Dyaden in Beziehungen. Lerne."
 date: 2025-01-19
 updated: 2026-04-15
+faq:
+  - question: "Was ist die Anxious-Avoidant Dynamik?"
+    answer: "Eine Beziehungsdynamik in der ein aengstlicher Partner mehr Naehe sucht und ein vermeidender Partner sich zurueckzieht."
+  - question: "Wie erkenne ich diese Dynamik in meiner Beziehung?"
+    answer: "Du erkennst sie an einem Verfolger-Distanzierer Muster: Einer klammert, der andere zieht sich zurueck, beide fuehlen sich unverstanden."
+  - question: "Ist es normal dass solche Beziehungen schwer sind?"
+    answer: "Ja das ist normal. Diese Dynamik triggert beide Bindungssysteme. Mit Bewusstsein und Arbeit ist Heilung aber moeglich."
+  - question: "Wann sollte ich therapeutische Hilfe holen?"
+    answer: "Wenn ihr immer wieder im gleichen Kreislauf landet oder die Beziehung dich emotional erschoepft, lohnt sich Paartherapie."
 ---
 
 ## Anxious-Avoidant Healing: Wie ängstliche und vermeidende Bindungsstile zusammen heilen können
