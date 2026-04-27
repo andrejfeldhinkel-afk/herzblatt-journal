@@ -11,15 +11,15 @@ imageAlt: "Person sitzt sorgfältig auf Sofa neben anderen, Handy versteckend"
 date: 2026-03-14
 author: "sarah-kellner"
 faq:
-  - question: "Wann sollte man um eine Beziehung kämpfen?"
-    answer: "Wenn beide Partner grundsätzlich bereit sind, an Problemen zu arbeiten, Respekt vorhanden ist und die positiven Momente überwiegen. Einseitiger Einsatz reicht nicht."
-  - question: "Wie lerne ich mich selbst zu lieben?"
-    answer: "Beginne mit kleinen Schritten: Behandle dich so, wie du einen guten Freund behandeln würdest. Setze Grenzen, pflege deine Interessen und feiere kleine Erfolge."
-  - question: "Was ist Fremdgehen?"
-    answer: "Emotionales vs. physisches Fremdgehen. Micro-Cheating. Konfrontation. Vertrauens-Wiederaufbau."
-
+  - question: "Was sind typische Anzeichen fuer Fremdgehen?"
+    answer: "Veraendertes Handy-Verhalten, ploetzliche Distanz, Geheimniskraemerei und neue Routinen sind typische Hinweise."
+  - question: "Wie erkenne ich Fremdgehen sicher?"
+    answer: "Hundertprozentig nur durch ein offenes Gespraech. Ein einzelnes Anzeichen reicht oft nicht fuer einen Verdacht."
+  - question: "Ist Eifersucht immer ein guter Indikator?"
+    answer: "Nein, Eifersucht zeigt eher deine Unsicherheit. Beobachte konkrete Verhaltensaenderungen statt Bauchgefuehl."
+  - question: "Wann sollte ich ihn direkt ansprechen?"
+    answer: "Wenn mehrere Anzeichen zusammenkommen und du nicht mehr ruhig schlafen kannst, suche das Gespraech."
 ---
-
 
 Das Gefühl ist subtil, aber du merkst es. Dein Partner ist anders. Etwas stimmt nicht. Du kennst diese Person seit Jahren – und plötzlich ist sie nicht mehr dieselbe.
 

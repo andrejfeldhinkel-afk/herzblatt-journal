@@ -19,14 +19,15 @@ keywords:
 - Beziehung verbessern
 - Paarbeziehung
 faq:
-  - question: Ist es nicht kitschig, dankbar für kleine Dinge zu sein?
-    answer: "Nein. Dankbarkeit ist wissenschaftlich nachgewiesen, um Beziehungszufriedenheit zu erhöhen. Es ist nicht kitschig – es ist intelligent."
-  - question: Was, wenn mein Partner nicht dankbar ist?
-    answer: "Du kannst nur deine eigene Dankbarkeit kontrollieren. Oft inspiriert deine Dankbarkeit deinen Partner, ebenfalls dankbarer zu werden. Lead by example."
-  - question: Wie oft sollte ich Dankbarkeit ausdrücken?
-    answer: "Täglich ist ideal. Sogar drei kleine Dankbarkeitsmomente pro Tag können die Beziehungszufriedenheit dramatisch erhöhen."
+  - question: "Was ist eine Dankbarkeits-Praxis als Paar?"
+    answer: "Es ist die bewusste Gewohnheit, taeglich oder woechentlich Dankbarkeit fuereinander auszusprechen."
+  - question: "Wie erkenne ich den Effekt der Praxis?"
+    answer: "Du nimmst kleine schoene Dinge bewusster wahr und Konflikte werden seltener und kleiner."
+  - question: "Ist sowas nicht peinlich?"
+    answer: "Am Anfang vielleicht, aber sehr schnell wird es selbstverstaendlich und zur wichtigen Routine."
+  - question: "Wann sollten wir damit beginnen?"
+    answer: "Sofort, denn Dankbarkeit veraendert sehr schnell die Atmosphaere in einer Partnerschaft."
 ---
-
 
 ## Dankbarkeit in Beziehungen: Die unterschätzte Superkraft
 

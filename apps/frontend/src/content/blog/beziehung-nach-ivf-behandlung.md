@@ -7,17 +7,18 @@ updated: 2026-04-15
 image: "/images/blog/beziehung-nach-ivf-behandlung.webp"
 imageAlt: "Beziehung nach IVF-Behandlung"
 tags: ["Familie"]
-faq:
-  - question: "Wie beeinflusst die Familie unsere Beziehungen?"
-    answer: "Unsere Herkunftsfamilie prägt unsere Bindungsmuster, Kommunikationsstile und Erwartungen an Beziehungen — oft unbewusst."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Wie ist die Beziehung nach IVF?"
+    answer: "Sie ist oft ausgelaugt von Hormonen, Hoffnung und Frustration. Beide brauchen Erholung und Zuwendung."
+  - question: "Wie erkenne ich, dass wir verarbeiten muessen?"
+    answer: "Wenn das Thema Kinderwunsch nicht ruhen kann oder Trauma-Symptome auftauchen, braucht es Aufarbeitung."
+  - question: "Ist Erschoepfung nach IVF normal?"
+    answer: "Ja, total. Die Behandlung ist koerperlich und emotional sehr fordernd, oft fuer Monate."
+  - question: "Wann sollten wir Hilfe holen?"
+    answer: "Wenn ihr nicht miteinander reden koennt oder einer feststeckt, hilft spezialisierte Beratung."
 ---
-
 ## Das körperliche und emotionale Trauma
 
 IVF ist nicht einfach ein medizinischer Prozess. Es ist ein emotional zermürbendes Erlebnis. Besonders für die Person, deren Körper durchgeht Stimulationen, Injektionen, Bluttests, Ultraschalle, und schließlich eine Punktion, um Eizellen zu sammeln.

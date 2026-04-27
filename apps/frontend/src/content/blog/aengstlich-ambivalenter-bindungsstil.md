@@ -13,14 +13,15 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Was ist der Unterschied zwischen ängstlich und ängstlich-ambivalent?"
-    answer: "Ängstliche Menschen sind durchgehend verängstigt und bedürftig. Ängstlich-ambivalente Menschen wechseln: Mal klammern sie, mal stoßen sie weg. Das Schlimmste: Sie brauchen gleichzeitig Nähe UND fürchten sich davor."
-  - question: "Was ist Protestverhalten und warum mache ich das?"
-    answer: "Protestverhalten ist, wenn du Drama schaffst, um deinen Partner wieder nah zu holen — Eifersuchtsszenen, Vorwürfe, Bedürftigkeit zur Schau stellen. Dein Körper signalisiert: Merke ich nicht, dass ich dich brauchte? Der Protest ist der verzweifelte Versuch, wieder relevant zu sein."
-  - question: "Wie beruhige ich mein Nervensystem bei ängstlich-ambivalenter Bindung?"
-    answer: "Mit Selbstberuhigungstechniken wie Atemübungen, Bewegung und vor allem: dem Partner Raum geben, nicht Nähe suchen. Das Gegenteil von dem, was du willst, beruhigt dein System am schnellsten."
+  - question: "Was ist der aengstlich-ambivalente Bindungsstil?"
+    answer: "Es ist ein Bindungsmuster mit grosser Naehesehnsucht und gleichzeitiger Angst vor Ablehnung. Das schafft inneren Konflikt."
+  - question: "Wie erkenne ich diesen Bindungsstil bei mir?"
+    answer: "Du klammerst, hast Trennungsangst und liest viel in das Verhalten deines Partners hinein. Das ist ein typisches Zeichen."
+  - question: "Ist dieser Bindungsstil heilbar?"
+    answer: "Ja, mit Selbstreflexion und Therapie kannst du sicherer werden. Veraenderung dauert, ist aber moeglich."
+  - question: "Wann brauche ich professionelle Unterstuetzung?"
+    answer: "Wenn deine Aengste den Alltag bestimmen oder Beziehungen wiederholt scheitern, ist Therapie sehr hilfreich."
 ---
-
 Du liebst ihn zu Tode. Es ist nur ein paar Stunden her, dass ihr zusammen wart, aber dein Körper fühlt sich an wie eine zerknüllte Papiertüte. Was, wenn er dich vergisst? Was, wenn es ihm langweilig wird? Dein Gehirn malt Szenarien. Er antwortet nicht auf deine Nachricht und plötzlich fragst du dich, ob er vielleicht mit seiner Kollegin zusammen ist.
 
 Fünf Minuten später antwortet er: "Was geht?" Kurz, knapp, irgendwie desinteressiert. Jetzt brauchst du die nächsten zwei Stunden, um dich wieder beruhigen zu lassen. Und die Ironie: Wenn er dir zu nah kommt, wenn er dich halten will, drängst du ihn weg. "Ich brauche Platz." Dann sitzt ihr beide da und versteht Null.

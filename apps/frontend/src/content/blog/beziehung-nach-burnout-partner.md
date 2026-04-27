@@ -7,17 +7,18 @@ updated: 2026-04-15
 image: "/images/blog/beziehung-nach-burnout-partner.webp"
 imageAlt: "Partner mit Burnout unterstützen"
 tags: ["Beziehung", "Kommunikation", "Lebensphasen", "Heilung", "Zusammenleben"]
-faq:
-  - question: "Wie kann ich meine Beziehung verbessern?"
-    answer: "Offene Kommunikation, gemeinsame Quality-Time und gegenseitiger Respekt sind die Basis. Sprecht regelmäßig über eure Bedürfnisse und hört einander aktiv zu."
-  - question: "Wie kommuniziere ich besser in der Beziehung?"
-    answer: "Nutze Ich-Botschaften statt Vorwürfe, höre aktiv zu und sprich Probleme zeitnah an, statt sie aufzustauen."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Wie wirkt sich der Burnout des Partners aus?"
+    answer: "Er ist erschoepft, gereizt und braucht Schonung. Die Beziehung wird stark gefordert."
+  - question: "Wie erkenne ich, dass wir gemeinsam durchkommen?"
+    answer: "Wenn du unterstuetzt ohne dich selbst zu verlieren und er Hilfe annimmt, ist die Basis gut."
+  - question: "Ist Mitleid statt Naehe normal?"
+    answer: "Ja, anfangs oft. Wichtig ist, dass die Beziehung nicht in Pflege-Mutter-Modus rutscht."
+  - question: "Wann sollte ich auf mich achten?"
+    answer: "Immer, besonders wenn du selbst erschoepft wirst. Eigene Grenzen sind essentiell."
 ---
-
 ## Was ist Burnout wirklich?
 
 Burnout ist nicht einfach „müde". Es ist nicht einfach „gestresst bei Arbeit".

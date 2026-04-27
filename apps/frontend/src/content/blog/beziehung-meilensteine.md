@@ -16,14 +16,15 @@ author: "sarah-kellner"
 image: /images/blog/beziehung-meilensteine.webp
 imageAlt: Beziehungs-Timeline von Anfang bis Hochzeit
 faq:
-  - question: Gibt es einen 'richtigen' Zeitplan für Beziehungs-Meilensteine?
-    answer: "Nein! Jede Beziehung ist unterschiedlich. Diese Timeline ist ein Richtrahmen, aber es's okay, schneller oder langsamer zu sein. Geh in deinem eigenen Tempo."
-  - question: Wenn wir langsamer voranschreiten, ist das ein schlechtes Zeichen?
-    answer: "Nicht unbedingt! Manche Menschen sind vorsichtiger oder haben unterschiedliche Geschwindigkeiten. Solange beide kommunizieren und aligned sind, ist es okay."
-  - question: Was wenn mein Partner schneller vorgehen will als ich?
-    answer: "Kommuniziere deine Grenzen klar und respektvolle. Eine gesunde Beziehung respektiert unterschiedliche Geschwindigkeiten. Find einen Kompromiss, beide sollten sich wohlfühlen."
+  - question: "Was sind wichtige Beziehungs-Meilensteine?"
+    answer: "Erstes Date, ich liebe dich, Zusammenziehen, Verlobung, Hochzeit, Kinder. Jede Stufe hat Bedeutung."
+  - question: "Wie erkenne ich, dass ein Meilenstein bevorsteht?"
+    answer: "Wenn beide es gleich stark wollen und es sich natuerlich anfuehlt, ist die Zeit reif."
+  - question: "Ist Reihenfolge wichtig?"
+    answer: "Nein, jede Beziehung hat ihren eigenen Rhythmus. Vergleicht euch nicht mit anderen Paaren."
+  - question: "Wann sollten wir bremsen?"
+    answer: "Wenn einer drueckt und der andere zoegert, lieber abwarten als spaeter bereuen."
 ---
-
 
 ## Beziehungs-Meilensteine: Die Reise von Funken bis für immer
 

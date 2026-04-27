@@ -10,15 +10,15 @@ imageAlt: "Beziehung nach Paartherapie: Stärker als zuvor"
 date: 2025-12-20
 author: "sarah-kellner"
 faq:
-  - question: "Was sind Anzeichen für eine gesunde Beziehung?"
-    answer: "Gegenseitiges Vertrauen, offene Kommunikation, Respekt vor Grenzen, gemeinsames Lachen und die Fähigkeit, Konflikte fair zu lösen."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
-
+  - question: "Wie wird eine Beziehung nach Therapie staerker?"
+    answer: "Durch neue Werkzeuge, mehr Selbstreflexion und tieferes Verstaendnis der eigenen und gemeinsamen Muster."
+  - question: "Wie erkenne ich Veraenderungen durch Therapie?"
+    answer: "Konflikte werden ruhiger, Naehe tiefer und ihr koennt schwere Themen direkt ansprechen."
+  - question: "Ist Rueckfall in alte Muster normal?"
+    answer: "Ja, Veraenderung ist ein Prozess. Rueckschritte kommen, sind aber kleiner werdend."
+  - question: "Wann sollten wir Therapie wiederholen?"
+    answer: "Wenn neue Lebensphasen Krisen ausloesen oder alte Muster zurueckkehren, ist ein Tune-up sinnvoll."
 ---
-
 
 Beziehung nach Paartherapie: Stärker als zuvor
 

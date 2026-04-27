@@ -10,15 +10,15 @@ imageAlt: "Die 4 Jahreszeiten einer Beziehung"
 date: 2025-11-16
 author: "sarah-kellner"
 faq:
-  - question: "Wann sollte man um eine Beziehung kämpfen?"
-    answer: "Wenn beide Partner grundsätzlich bereit sind, an Problemen zu arbeiten, Respekt vorhanden ist und die positiven Momente überwiegen. Einseitiger Einsatz reicht nicht."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
-
+  - question: "Was bedeuten Beziehungs-Jahreszeiten?"
+    answer: "Beziehungen durchlaufen Phasen wie Verliebtsein, Routine, Krise und Neuanfang. Jede hat ihre eigene Qualitaet."
+  - question: "Wie erkenne ich, in welcher Phase wir sind?"
+    answer: "Achte auf Naehegefuehl, Streithaeufigkeit und Gemeinschaftsgefuehl. Das gibt klare Hinweise."
+  - question: "Ist Stagnation eine eigene Jahreszeit?"
+    answer: "Ja, Routine ist eine wichtige Phase. Sie kann ruhig oder problematisch sein, je nach Umgang."
+  - question: "Wann sollten wir aktiv eine Phase verlassen?"
+    answer: "Wenn eine Phase wie Krise zu lange dauert oder ihr nicht mehr weiterkommt, ist Veraenderung noetig."
 ---
-
 ## Die vier Jahreszeiten einer Beziehung
 
 Jede Beziehung durchläuft natürliche Phasen. Das ist nicht falsch oder beängstigend — es ist völlig normal und sogar zu erwarten. Wenn du verstehst, in welcher Jahreszeit ihr gerade seid, kannst du viel bewusster damit umgehen und weißt, dass nicht jede schwere Phase das Ende bedeutet.

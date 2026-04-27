@@ -7,17 +7,18 @@ updated: 2026-04-15
 image: "/images/blog/beziehung-digital-detox-challenge.webp"
 imageAlt: "Digital Detox Challenge für Paare"
 tags: ["Beziehung", "Digital Detox", "Kommunikation", "Intimität", "Lifestyle"]
-faq:
-  - question: "Wie kann ich meine Beziehung verbessern?"
-    answer: "Offene Kommunikation, gemeinsame Quality-Time und gegenseitiger Respekt sind die Basis. Sprecht regelmäßig über eure Bedürfnisse und hört einander aktiv zu."
-  - question: "Wie kommuniziere ich besser in der Beziehung?"
-    answer: "Nutze Ich-Botschaften statt Vorwürfe, höre aktiv zu und sprich Probleme zeitnah an, statt sie aufzustauen."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was ist eine Digital-Detox-Challenge?"
+    answer: "Ein Zeitraum ohne oder mit reduzierten digitalen Geraeten, um wieder echte Naehe zueinander aufzubauen."
+  - question: "Wie erkenne ich den Effekt der Challenge?"
+    answer: "Ihr redet mehr, schaut euch in die Augen und seid praesenter. Das spuert man sehr schnell."
+  - question: "Ist Digital Detox heute realistisch?"
+    answer: "Ja, mit klaren Zeiten oder Tagen ohne Handy ist es sehr machbar. Es muss nicht extrem sein."
+  - question: "Wann sollten wir damit anfangen?"
+    answer: "Wenn einer von euch oft scrollt statt zuzuhoeren, ist die Challenge ein wichtiger Reset."
 ---
-
 ## Das Problem: Handy-Sucht in Beziehungen
 
 Du sitzt mit deinem Partner beim Abendessen. Ihr seid beide auf euren Handys. Ihr seid physisch zusammen, aber emotional weit entfernt. Das ist die moderne Beziehung.

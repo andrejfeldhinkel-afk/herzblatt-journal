@@ -14,10 +14,14 @@ draft: false
 image: "/images/photos/dating-mit-kindern.webp"
 imageAlt: "Beziehung nach dem ersten Baby"
 faq:
-  - question: "Was ist das Wichtigste bei beziehung nach dem ersten baby?"
-    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
-  - question: "Wo finde ich Hilfe zum Thema beziehung nach dem ersten baby?"
-    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
+  - question: "Wie veraendert ein Baby die Beziehung?"
+    answer: "Schlafmangel, neue Rollen und weniger Sex sind typisch. Das Beziehungsfundament wird auf Probe gestellt."
+  - question: "Wie erkenne ich, dass wir uns verlieren?"
+    answer: "Wenn ihr nur noch ueber das Kind redet und keine Paarzeit habt, ist Distanz greifbar."
+  - question: "Ist Sexflaute nach Baby normal?"
+    answer: "Ja, das erste Jahr ist hormonell und koerperlich anders. Geduld und Naehe sind wichtiger als Druck."
+  - question: "Wann sollten wir aktiv gegensteuern?"
+    answer: "Sobald einer leidet oder ihr nicht mehr redet, ist es Zeit fuer bewusste Paarzeit."
 ---
 ## Beziehung nach dem ersten Baby: Wie ihr die Liebe bewahrt im Chaos
 

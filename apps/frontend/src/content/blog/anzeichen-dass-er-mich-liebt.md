@@ -11,15 +11,15 @@ imageAlt: "Mann zeigt echte Liebe durch Taten"
 date: 2026-03-14
 author: "sarah-kellner"
 faq:
-  - question: "Wann sollte man um eine Beziehung kämpfen?"
-    answer: "Wenn beide Partner grundsätzlich bereit sind, an Problemen zu arbeiten, Respekt vorhanden ist und die positiven Momente überwiegen. Einseitiger Einsatz reicht nicht."
-  - question: "Welche Rolle spielt Psychologie in Beziehungen?"
-    answer: "Psychologische Muster wie Bindungsstile, Kommunikationsmuster und unbewusste Überzeugungen beeinflussen maßgeblich, wie wir lieben und geliebt werden."
-  - question: "Was ist dass er mich liebt?"
-    answer: "Echte Liebes-Anzeichen bei Männern: von Handlungen bis subtile Signale"
-
+  - question: "Was sind klare Anzeichen, dass er mich liebt?"
+    answer: "Er macht dich zur Prioritaet, ist offen ueber Gefuehle, plant Zukunft mit dir und zeigt Interesse an deinem Leben."
+  - question: "Wie erkenne ich echte von vorgespielter Liebe?"
+    answer: "Echte Liebe zeigt sich in Konstanz und Taten. Worte allein reichen nicht, schau auf sein Verhalten ueber Wochen."
+  - question: "Ist es normal, dass er Liebe nicht direkt sagt?"
+    answer: "Ja, viele Maenner zeigen Liebe lieber durch Taten als durch Worte. Beides ist gueltig, wenn es zu dir passt."
+  - question: "Wann sollte ich misstrauisch werden?"
+    answer: "Wenn er dich versteckt, nicht fuer dich da ist oder du staendig zweifelst, stimmt etwas nicht."
 ---
-
 
 ## Anzeichen dass er mich liebt: Das Wichtigste zuerst
 

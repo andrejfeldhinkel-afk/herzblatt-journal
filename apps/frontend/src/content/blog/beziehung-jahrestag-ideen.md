@@ -6,17 +6,18 @@ date: 2025-11-26
 image: "/images/blog/beziehung-jahrestag-ideen.webp"
 imageAlt: "Kreative Jahrestags-Ideen"
 tags: ["Beziehung", "Date-Ideen"]
-faq:
-  - question: "Wann sollte man um eine Beziehung kämpfen?"
-    answer: "Wenn beide Partner grundsätzlich bereit sind, an Problemen zu arbeiten, Respekt vorhanden ist und die positiven Momente überwiegen. Einseitiger Einsatz reicht nicht."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was sind schoene Jahrestags-Ideen?"
+    answer: "Romantisches Dinner, Ueberraschungsreise oder ein Liebesbrief sind starke Klassiker, die immer wirken."
+  - question: "Wie erkenne ich die richtige Idee fuer uns?"
+    answer: "Schau, was deinem Partner sehr am Herzen liegt und kombiniere es mit einer persoenlichen Note."
+  - question: "Ist Jahrestag-Feiern wirklich wichtig?"
+    answer: "Ja, bewusste Rituale staerken die Bindung und schaffen Erinnerungen, die ueber Jahre wirken."
+  - question: "Wann sollte ich anfangen zu planen?"
+    answer: "Mindestens zwei Wochen vorher fuer richtige Ueberraschungen, sonst wird es hektisch."
 ---
-
 ## Warum Jahrestage zählen
 
 Dein erstes Jahrestag wird meistens zur Show-Off-Veranstaltung gemacht. Restaurant mit Kerze, rote Rosen, das ganze Programm. Und das ist okay – einmal. Aber wenn ihr nach fünf Jahren noch das gleiche macht, wird es langweilig.

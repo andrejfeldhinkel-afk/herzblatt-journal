@@ -11,15 +11,15 @@ date: 2025-05-24
 updated: 2026-04-15
 author: "sarah-kellner"
 faq:
-  - question: "Wann sollte man um eine Beziehung kämpfen?"
-    answer: "Wenn beide Partner grundsätzlich bereit sind, an Problemen zu arbeiten, Respekt vorhanden ist und die positiven Momente überwiegen. Einseitiger Einsatz reicht nicht."
-  - question: "Wie heilt man ein gebrochenes Herz?"
-    answer: "Lass alle Gefühle zu, ohne sie zu bewerten. Nimm dir Zeit, umgib dich mit Menschen die dir guttun, und sei geduldig mit dir selbst."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-
+  - question: "Wie unterstuetze ich meinen Partner in Trauer?"
+    answer: "Mit Praesenz, Geduld und ohne Druck. Trauer braucht Raum, kein schnelles Vorbei-Sein."
+  - question: "Wie erkenne ich, dass meine Hilfe ankommt?"
+    answer: "Wenn dein Partner sich oeffnet, Hilfe annimmt und nicht ausschliesslich allein traut."
+  - question: "Ist es normal, sich hilflos zu fuehlen?"
+    answer: "Ja, Trauer ist nicht zu loesen. Praesent zu sein ist oft die wichtigste Hilfe."
+  - question: "Wann sollten wir Hilfe holen?"
+    answer: "Wenn dein Partner feststeckt oder sich isoliert, ist Trauerbegleitung sehr wertvoll."
 ---
-
 
 Beziehung nach einem Trauerfall: Füreinander da sein
 

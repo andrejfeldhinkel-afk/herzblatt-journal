@@ -7,17 +7,18 @@ updated: 2026-04-15
 image: "/images/blog/beziehung-getrennte-wohnungen-lat.webp"
 imageAlt: "LAT-Beziehung: Glücklich mit getrennten Wohnungen"
 tags: ["Fernbeziehung"]
-faq:
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
-  - question: "Kann ich die Tipps sofort umsetzen?"
-    answer: "Ja, unsere Ratgeber sind praxisnah geschrieben. Du findest konkrete Schritte, die du direkt in deinem Alltag anwenden kannst."
 draft: false
 author: "laura-weber"
+faq:
+  - question: "Was ist Living Apart Together LAT?"
+    answer: "LAT bedeutet, dass ein Paar in getrennten Wohnungen lebt, obwohl die Beziehung fest und exklusiv ist."
+  - question: "Wie erkenne ich, ob LAT zu uns passt?"
+    answer: "Wenn ihr Eigenraum braucht, aber Naehe wollt, ist es ein gutes Modell. Beide muessen sich wohl fuehlen."
+  - question: "Ist LAT in Deutschland normal?"
+    answer: "Ja, immer mehr Paare leben so. Etwa zwoelf Prozent aller Paare praktizieren LAT."
+  - question: "Wann sollten wir es ausprobieren?"
+    answer: "Wenn das Zusammenwohnen Konflikte bringt oder einer mehr Raum braucht, ist LAT eine Option."
 ---
-
 ## LAT-Beziehung: Living Apart Together – Die moderne Art zusammen zu sein
 
 "Aber ihr seid doch zusammen – warum lebt ihr nicht zusammen?" Diese Frage musst du wahrscheinlich ständig hören, wenn du in einer LAT-Beziehung bist. LAT – Living Apart Together. Du und dein Partner sind in einer festen, verbindlichen Beziehung, aber ihr habt separate Wohnungen. Und nein, das ist nicht zweitbeste. Nein, es ist nicht, weil die Beziehung zu schwach ist. Nein, es bedeutet nicht, dass etwas nicht stimmt.

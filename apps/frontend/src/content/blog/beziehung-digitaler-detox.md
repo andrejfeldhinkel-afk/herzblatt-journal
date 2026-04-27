@@ -7,17 +7,18 @@ updated: 2026-04-15
 image: "/images/blog/beziehung-digitaler-detox.webp"
 imageAlt: "Digitaler Detox als Paar: So gelingt es"
 tags: ["Digital Detox", "Beziehung"]
-faq:
-  - question: "Was sind Anzeichen für eine gesunde Beziehung?"
-    answer: "Gegenseitiges Vertrauen, offene Kommunikation, Respekt vor Grenzen, gemeinsames Lachen und die Fähigkeit, Konflikte fair zu lösen."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was bedeutet digitaler Detox als Paar?"
+    answer: "Bewusste Auszeiten von Smartphone, Social Media und Streaming, um wieder fuer einander praesent zu sein."
+  - question: "Wie erkenne ich, dass wir Detox brauchen?"
+    answer: "Wenn ihr nebeneinander scrollt statt redet, ist es hoechste Zeit fuer eine bewusste Pause."
+  - question: "Ist Detox langfristig moeglich?"
+    answer: "Ja, mit klaren Regeln wie handyfreie Mahlzeiten oder Wochenenden ist es gut machbar."
+  - question: "Wann sollten wir sofort starten?"
+    answer: "Wenn ihr merkt, dass das Handy zwischen euch steht, ist heute der richtige Tag dafuer."
 ---
-
 ## Digitaler Detox als Paar: So gelingt es
 
 Du kennst das sicher: Du sitzt mit deinem Partner auf der Couch, beide sind anwesend und doch nicht wirklich miteinander verbunden. Seine Hand scrollt durch Instagram, während du auf dein Handy starrst. Die Stille ist nicht gemütlich, sondern irgendwie leer. Das ist einer der Gründe, warum immer mehr Paare sich für einen digitalen Detox entscheiden – und damit nicht allein.

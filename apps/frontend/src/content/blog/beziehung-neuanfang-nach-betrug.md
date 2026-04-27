@@ -6,17 +6,18 @@ date: 2025-12-23
 image: "/images/blog/beziehung-neuanfang-nach-betrug.webp"
 imageAlt: "Beziehung nach Betrug: Neuanfang"
 tags: ["Vertrauen"]
-faq:
-  - question: "Wie baut man Vertrauen in einer Beziehung auf?"
-    answer: "Durch Zuverlässigkeit, Ehrlichkeit, offene Kommunikation und das Einhalten von Versprechen. Vertrauen wächst langsam und braucht konsistentes Handeln."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was bedeutet Neuanfang nach Betrug?"
+    answer: "Ihr beendet alte Muster, baut Vertrauen neu auf und schreibt klare neue Beziehungsregeln."
+  - question: "Wie erkenne ich, dass der Neuanfang gelingt?"
+    answer: "Vertrauen waechst sichtbar, ihr koennt offen reden und Schmerz wird kleiner."
+  - question: "Ist Neuanfang nach Betrug realistisch?"
+    answer: "Ja, viele Paare schaffen es. Es braucht aber harte Arbeit und meistens Therapie."
+  - question: "Wann sollten wir Hilfe holen?"
+    answer: "Sofort. Allein gelingt Wiederaufbau nach Betrug selten, Therapie ist fast immer noetig."
 ---
-
 ## Beziehung nach Betrug: Wie du wieder Vertrauen aufbaust
 
 Dein Partner hat dich betrogen. Diese drei Worte fühlen sich an wie ein Schlag in die Magengrube. Die Welt, wie du sie kanntest, hat sich verschoben. Du fragst dich ständig: Kann ich ihm jemals wieder vertrauen? Lohnt sich das Ganze überhaupt noch? Heute möchte ich mit dir über diese unfassbar schwierige Situation sprechen – nicht, um dir Honig ums Maul zu schmieren, sondern um dir echte, praktische Wege aufzuzeigen, wie du entscheiden kannst, ob eine Beziehung nach Betrug noch zu retten ist.

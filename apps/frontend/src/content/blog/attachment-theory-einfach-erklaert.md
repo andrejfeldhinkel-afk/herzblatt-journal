@@ -14,10 +14,14 @@ draft: false
 image: "/images/photos/attachment-styles-dating.webp"
 imageAlt: "Bindungstheorie einfach erklärt"
 faq:
-  - question: "Was ist das Wichtigste bei bindungstheorie einfach erklärt?"
-    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
-  - question: "Wo finde ich Hilfe zum Thema bindungstheorie einfach erklärt?"
-    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
+  - question: "Was ist die Attachment-Theorie?"
+    answer: "Die Theorie erklaert, wie fruehe Bindungserfahrungen unser Beziehungsverhalten praegen. Sie geht auf Bowlby zurueck."
+  - question: "Wie erkenne ich meine Bindungsmuster?"
+    answer: "Schau dir an, wie du auf Naehe und Distanz reagierst. Klammerst du, ziehst dich zurueck oder bist du entspannt?"
+  - question: "Ist die Theorie wissenschaftlich anerkannt?"
+    answer: "Ja, die Bindungstheorie ist eine der bestbelegten Theorien der Psychologie und wird in Therapie genutzt."
+  - question: "Wann sollte ich tiefer einsteigen?"
+    answer: "Wenn du Beziehungsmuster verstehen willst oder immer wieder aehnlich scheiterst, ist die Theorie sehr hilfreich."
 ---
 ## Bindungstheorie einfach erklärt
 

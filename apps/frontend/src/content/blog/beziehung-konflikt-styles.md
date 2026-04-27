@@ -14,14 +14,15 @@ imageAlt: "Zwei Menschen diskutieren, zeigen verschiedene Konflikt-Stile"
 ogImage: "/images/og/beziehung-konflikt-styles.webp"
 keywords: ["Konflikt Stil", "Argumentieren Stil", "Beziehung Kämpfe", "Konfliktauflösung"]
 faq:
-  - question: "Gibt es einen 'besseren' Konflikt-Stil?"
-    answer: "Nein einen absolut besseren gibt. Aber es gibt 'effektiver' für Beziehungen: Zusammenarbeit und Kompromiss."
-  - question: "Kann ich meinen Konflikt-Stil ändern?"
-    answer: "Ja, absolut. Es dauert Bewusstsein und Praxis, aber Menschen können lernen, anders zu kämpfen."
-  - question: "Was ist der schlimmste Konflikt-Stil?"
-    answer: "Vermeidung. Wenn du nie kämpfst, wird deine Beziehung erstickt. Konflikte sind notwendig für Wachstum."
+  - question: "Was sind Konflikt-Styles in der Beziehung?"
+    answer: "Vier Hauptstile: harmoniesuchend, vermeidend, konfrontativ und kooperativ. Jeder geht anders mit Streit um."
+  - question: "Wie erkenne ich meinen Konfliktstil?"
+    answer: "Beobachte, ob du eher rueckzieh, schreist, einlenkst oder konstruktiv loesungsorientiert bist."
+  - question: "Ist mein Konfliktstil veraenderbar?"
+    answer: "Ja, mit Bewusstsein und Uebung kannst du dich Richtung kooperativ entwickeln."
+  - question: "Wann sollten wir an unseren Stilen arbeiten?"
+    answer: "Wenn Streit immer eskaliert oder einer staendig leidet, ist Veraenderung dringend noetig."
 ---
-
 Stell dir vor, du und dein Partner habt eine Meinungsverschiedenheit. Ganz einfach: Er möchte ins Kino, du möchtest lieber zu Hause bleiben. Eine kleine Sache, oder?
 
 Wie ihr dieses kleine Ding handhabt, sagt dir ALLES über eure Beziehung.

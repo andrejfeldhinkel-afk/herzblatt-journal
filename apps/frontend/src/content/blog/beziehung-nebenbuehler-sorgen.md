@@ -15,12 +15,14 @@ imageAlt: "Person sitzt nachdenklich, mit Gedankenblasen"
 ogImage: "/images/og/beziehung-nebenbuehler-sorgen.webp"
 keywords: ["Nebenbuehler", "Eifersucht Ex", "Vertrauen Beziehung", "Vergangenheit Partner"]
 faq:
-  - question: "Ist es normal, eifersüchtig auf die Ex meines Partners zu sein?"
-    answer: "Ja, absolut normal. Etwa 60% der Menschen erleben das. Das Problem ist nicht die Eifersucht – es ist, was du damit machst."
-  - question: "Sollte ich meinem Partner sagen, dass ich eifersüchtig bin?"
-    answer: "Ja, aber formuliere es richtig: 'Ich habe Unsicherheit' statt 'Du machst mich eifersüchtig.' Mach es über deine Gefühle, nicht seine Schuld."
-  - question: "Wie lange wird das Nebenbuehler-Gefühl andauern?"
-    answer: "Meist 3-6 Monate, wenn du aktiv daran arbeitest. Wenn du es ignorierst, kann es Jahre andauern."
+  - question: "Was sind Sorgen um einen Nebenbuhler?"
+    answer: "Die Angst, dass jemand Drittes deinem Partner naeher kommt und ihn dir abspenstig macht."
+  - question: "Wie erkenne ich begruendete Sorgen?"
+    answer: "Wenn dein Partner heimlich ist, sich entzieht oder eine Person besonders intensiv erwaehnt."
+  - question: "Ist Eifersucht immer ein Zeichen von Untreue?"
+    answer: "Nein, oft ist sie deine eigene Unsicherheit. Erst Verhaltensaenderungen sind echte Hinweise."
+  - question: "Wann sollte ich es ansprechen?"
+    answer: "Sobald Sorgen dich quaelen oder mehrere Anzeichen zusammenkommen, suche das ruhige Gespraech."
 ---
 ## Nebenbuehler-Gefühle: Wenn die Vergangenheit deinen Kopf beschäftigt
 

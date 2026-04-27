@@ -15,17 +15,18 @@ keywords:
   - Quality Time
   - Langzeitbeziehung
   - Tipps
-faq:
-  - question: "Wie stärkt man eine Beziehung langfristig?"
-    answer: "Regelmäßige offene Kommunikation, gemeinsame Erlebnisse und gegenseitiger Respekt sind die wichtigsten Säulen. Auch kleine Aufmerksamkeiten im Alltag halten die Verbindung lebendig."
-  - question: "Wann sollte man professionelle Hilfe für die Beziehung suchen?"
-    answer: "Wenn wiederkehrende Konflikte nicht gelöst werden können oder einer dauerhaft unglücklich ist, kann Paartherapie sehr hilfreich sein."
-  - question: "Was sind die häufigsten Beziehungsprobleme?"
-    answer: "Kommunikationsprobleme, unterschiedliche Erwartungen, mangelnde Quality Time und Vertrauensbrüche gehören zu den häufigsten Herausforderungen."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was bedeutet einen guten Paaralltag zu gestalten?"
+    answer: "Es heisst, kleine Rituale, gemeinsame Routinen und bewusste Zeit miteinander einzubauen statt nebeneinander zu leben."
+  - question: "Wie erkenne ich, dass unser Alltag stagniert?"
+    answer: "Wenn ihr nur noch Logistik besprecht und kaum lacht, ist es Zeit fuer neue Impulse im Alltag."
+  - question: "Ist Alltag in Beziehungen automatisch langweilig?"
+    answer: "Nein, Alltag kann sehr verbindend sein. Es kommt darauf an, wie ihr ihn bewusst gestaltet."
+  - question: "Wann sollten wir an unserem Alltag arbeiten?"
+    answer: "Wenn Naehe verloren geht oder einer sich vernachlaessigt fuehlt, ist es hoechste Zeit fuer Veraenderung."
 ---
-
 
 Du wachst auf, schaust auf dein Handy, gehst zum Job, kommst nach Hause, machst Essen, schaust Serien, gehst schlafen. Und neben dir sitzt die Person, die du lieben solltest. Aber irgendwie seid ihr gerade nur Mitbewohner.
 

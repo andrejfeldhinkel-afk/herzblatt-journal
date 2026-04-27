@@ -17,14 +17,15 @@ keywords:
   - "Beziehung Übergang"
   - "Long Distance Beziehung"
 faq:
-  - question: "Ist es normal, nach dem Zusammenziehen Probleme zu haben?"
-    answer: "Ja. Zwei Menschen, die daran gewöhnt sind, unabhängig zu sein, müssen lernen, zusammen zu leben. Das braucht Zeit, Geduld und Kommunikation."
-  - question: "Wie lange dauert es, sich anzupassen?"
-    answer: "Normalerweise 3-6 Monate um sich an die Grundlagen anzupassen. Aber echte Integration kann 1-2 Jahre dauern. Jede Person und Beziehung ist anders."
-  - question: "Was ist, wenn der Zusammenzug nicht funktioniert?"
-    answer: "Das ist möglich. Manchmal funktionieren Beziehungen in der Ferne, aber nicht nahe. Dies ist etwas zu adressieren und darüber zu sprechen. Nicht ignorieren."
+  - question: "Was aendert sich nach der Fernbeziehung?"
+    answer: "Aus seltenen Highlight-Treffen wird Alltag. Das ist eine grosse Umstellung fuer beide."
+  - question: "Wie erkenne ich, ob wir uns gefunden haben?"
+    answer: "Wenn Alltag entspannt funktioniert und ihr beide zufrieden seid, hat die Umstellung geklappt."
+  - question: "Ist Trennung nach Fernbeziehung haeufig?"
+    answer: "Ja, leider. Manche Beziehungen halten nur die Distanz und scheitern an der Naehe."
+  - question: "Wann sollten wir die Beziehung hinterfragen?"
+    answer: "Sobald Alltag staendig anstrengt oder ihr euch fremd werdet, ist es Zeit fuer ehrliche Reflexion."
 ---
-
 Fernbeziehungen sind schwer, aber sie haben einen Vorteil – Sie zählen Sie nie als Allstars. Wenn Sie endlich zusammenzieht, könnte es wie ein Traum kommen wahr sein. Aber dann treffen Sie die Realität: zwei Menschen, die Raum und Unabhängigkeit haben, müssen plötzlich teilen, jeden Tag zusammen zu sein. Das kann schwierig sein. In diesem Leitfaden erfahren Sie, wie Sie die Anpassung zum Leben nach einer Fernbeziehung umgehen mit.
 
 ## Die Honeymoon-Phase

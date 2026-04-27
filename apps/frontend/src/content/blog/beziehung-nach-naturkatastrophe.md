@@ -10,15 +10,15 @@ date: 2025-05-11
 updated: 2026-04-15
 author: "sarah-kellner"
 faq:
-  - question: "Wie lange dauert es, über jemanden hinwegzukommen?"
-    answer: "Das ist individuell verschieden. Als Faustregel gilt: Halb so lang wie die Beziehung gedauert hat. Aber sei nachsichtig mit dir — jeder heilt in seinem eigenen Tempo."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
-
+  - question: "Wie wirkt eine Naturkatastrophe auf die Beziehung?"
+    answer: "Trauma, Existenzangst und Verlust fordern enorm. Manche Paare wachsen, andere zerbrechen daran."
+  - question: "Wie erkenne ich, dass wir Trauma verarbeiten?"
+    answer: "Wenn ihr offen redet, Hilfe annehmt und nicht in alten Aengsten feststeckt, lebt die Heilung."
+  - question: "Ist PTSD nach Katastrophe haeufig?"
+    answer: "Ja, Posttraumatische Belastung ist nach extremen Ereignissen sehr verbreitet bei beiden Partnern."
+  - question: "Wann sollten wir Hilfe holen?"
+    answer: "Sofort. Trauma-Therapie hilft sowohl betroffenen Personen als auch der Beziehung."
 ---
-
 
 ## Die Katastrophe kommt nicht an
 

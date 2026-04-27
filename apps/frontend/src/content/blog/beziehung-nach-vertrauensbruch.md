@@ -15,14 +15,15 @@ draft: false
 image: "/images/photos/beziehung-nach-vertrauensbruch.webp"
 imageAlt: "Paar in ernstem Gespräch am Küchentisch"
 faq:
-  - question: "Kann Vertrauen nach einem Bruch wieder aufgebaut werden?"
-    answer: "Ja, aber es braucht Zeit, echte Reue und konsequentes Handeln. Worte allein reichen nicht – die Person muss durch ihr Verhalten zeigen, dass sie es ernst meint."
-  - question: "Wie lange dauert es, Vertrauen wieder aufzubauen?"
-    answer: "Das variiert stark. Manche Paare brauchen Monate, andere Jahre. Ein pauschaler Zeitrahmen existiert nicht. Fortschritt ist wichtiger als Geschwindigkeit."
-  - question: "Wann ist es besser, die Beziehung zu beenden?"
-    answer: "Wenn die Person keinen echten Willen zur Veränderung zeigt, wenn der Vertrauensbruch sich wiederholt, oder wenn du merkst, dass du trotz allem nicht mehr verzeihen kannst – dann ist ein Ende manchmal der gesündere Weg."
+  - question: "Wie geht es weiter nach Vertrauensbruch?"
+    answer: "Mit klarer Verantwortung, ehrlicher Kommunikation und Geduld kann Vertrauen wieder wachsen."
+  - question: "Wie erkenne ich, dass Heilung beginnt?"
+    answer: "Wenn Misstrauen weniger wird, du wieder schlafen kannst und Naehe wieder moeglich ist."
+  - question: "Ist Vertrauensbruch heilbar?"
+    answer: "Ja, in vielen Faellen. Es braucht Zeit, beide Seiten und oft therapeutische Unterstuetzung."
+  - question: "Wann sollten wir Hilfe holen?"
+    answer: "Sofort. Allein gelingt der Wiederaufbau selten, Therapie verkuerzt den Heilungsweg deutlich."
 ---
-
 Wenn eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) durch schwierige Phasen geht, kann die Art, wie ihr mit Krisen umgeht, entscheidend sein — besonders wenn es um einen Vertrauensbruch geht. Doch wie gehst du damit um? Ist eine Beziehung nach einem Vertrauensbruch überhaupt noch zu retten? Dieser Leitfaden zeigt dir Wege, wie du deine Beziehung wieder auf stabilem Grund aufbauen kannst — oder wie du weißt, dass es Zeit ist zu gehen.
 
 ## Der Moment, wo alles kippt

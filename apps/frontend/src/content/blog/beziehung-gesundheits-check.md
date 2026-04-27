@@ -7,17 +7,18 @@ updated: 2026-04-15
 image: "/images/blog/beziehung-gesundheits-check.webp"
 imageAlt: "Beziehungs-Gesundheits-Check"
 tags: ["Beziehung", "Kommunikation", "Red Flags", "Vertrauen", "Psychologie"]
-faq:
-  - question: "Was sind Anzeichen für eine gesunde Beziehung?"
-    answer: "Gegenseitiges Vertrauen, offene Kommunikation, Respekt vor Grenzen, gemeinsames Lachen und die Fähigkeit, Konflikte fair zu lösen."
-  - question: "Wie kommuniziere ich besser in der Beziehung?"
-    answer: "Nutze Ich-Botschaften statt Vorwürfe, höre aktiv zu und sprich Probleme zeitnah an, statt sie aufzustauen."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was ist ein Beziehungs-Gesundheits-Check?"
+    answer: "Eine bewusste Bestandsaufnahme, wie es um eure Beziehung steht, mit ehrlichen Fragen und Antworten."
+  - question: "Wie oft sollten wir das machen?"
+    answer: "Einmal im Quartal ist gut. So merkt ihr Verschiebungen frueh und koennt rechtzeitig gegensteuern."
+  - question: "Ist sowas nicht zu kontrolliert?"
+    answer: "Nein, bewusste Reflexion ist gesund. Sie verhindert dass Probleme jahrelang unter dem Teppich bleiben."
+  - question: "Wann ist der Check besonders wichtig?"
+    answer: "Nach Krisen, grossen Veraenderungen oder wenn einer von euch unzufrieden wirkt."
 ---
-
 ## Der ehrliche Anfang – Gesunde Beziehungen sehen nicht aus wie in Filmen
 
 Viele Menschen denken, dass eine gesunde Beziehung:

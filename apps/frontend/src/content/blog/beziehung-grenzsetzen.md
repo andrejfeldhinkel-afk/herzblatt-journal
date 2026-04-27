@@ -15,12 +15,14 @@ imageAlt: "Person zeichnet eine liebevolle Grenzlinie"
 ogImage: "/images/og/beziehung-grenzsetzen.webp"
 keywords: ["Grenzen Beziehung", "Grenzen setzen", "Healthy Boundaries", "Nein sagen"]
 faq:
-  - question: "Ist es egoistisch, Grenzen zu setzen?"
-    answer: "Nein. Grenzen sind Selbstliebe. Eine Beziehung ohne Grenzen ist nicht eine Beziehung – es ist eine Verschmelzung, die giftig wird."
-  - question: "Wie sage ich meinem Partner, dass ich eine Grenze setze?"
-    answer: "Ehrlich und direkt: 'Ich liebe dich, aber ich brauche [Grenze] für mein Wohlbefinden. Das ist nicht gegen dich, es ist für mich.'"
-  - question: "Was, wenn mein Partner meine Grenze nicht akzeptiert?"
-    answer: "Das ist ein großes Zeichen. Ein liebevoller Partner wird deine Grenzen respektieren, auch wenn er/sie nicht ganz verstehen."
+  - question: "Was bedeutet Grenzen setzen in der Beziehung?"
+    answer: "Du kommunizierst klar, was fuer dich okay ist und was nicht. Grenzen schuetzen dich und die Beziehung."
+  - question: "Wie erkenne ich, dass meine Grenzen verletzt werden?"
+    answer: "Wenn du dich genervt, ueberfordert oder klein fuehlst, sind das deutliche Signale."
+  - question: "Ist Grenzen setzen lieblos?"
+    answer: "Nein, im Gegenteil. Klare Grenzen sind eine Form von Selbstrespekt und schuetzen die Liebe."
+  - question: "Wann sollte ich Grenzen aktiv kommunizieren?"
+    answer: "Sobald sie ueberschritten werden. Lieber frueh ansprechen als jahrelang frustriert sein."
 ---
 ## Grenzen setzen ohne Schuld: Der Guide für echte Grenzen
 

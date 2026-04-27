@@ -13,12 +13,14 @@ imageAlt: "Älteres Paar hält Hände"
 ogImage: "/images/og/beziehung-lange-ehe-geheimnis.webp"
 keywords: ["Langzeitbeziehung", "Ehe Geheimnis", "Beziehung halten", "Paare langjährig"]
 faq:
-  - question: "Verblasst Liebe in langen Beziehungen?"
-    answer: "Nein. Sie ändert sich. Sie wird weniger dramatisch, aber tiefer und bedeutungsvoller."
-  - question: "Was ist das wichtigste Geheimnis?"
-    answer: "Konsistente kleine Akte der Liebe. Nicht große Gesten. Kleine, alltägliche Momente."
-  - question: "Müssen wir immer zusammen sein, um zusammen zu bleiben?"
-    answer: "Nein. Tatsächlich, Paare die Zeit allein haben, sind glücklicher."
+  - question: "Was ist das Geheimnis langer Ehen?"
+    answer: "Respekt, gemeinsame Werte, Anpassungsfaehigkeit und die Wahl, sich immer wieder fuer den Partner zu entscheiden."
+  - question: "Wie erkenne ich, ob unsere Ehe gut altern wird?"
+    answer: "Wenn ihr euch trotz Krisen treu bleibt und gemeinsam wachst, ist die Basis stabil."
+  - question: "Ist Routine ein Killer fuer lange Ehen?"
+    answer: "Nein, gesunde Routine ist Sicherheit. Erst Stillstand und emotionale Distanz werden gefaehrlich."
+  - question: "Wann sollten wir aktiv investieren?"
+    answer: "Immer wieder, besonders nach Lebensphasen wie Kinder, Pension oder Krankheit."
 ---
 Ich habe ein Paar getroffen, das 52 Jahre verheiratet war. Ich fragte den Ehemann "Wie habt ihr das geschafft?"
 

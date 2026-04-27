@@ -18,14 +18,15 @@ author: "sarah-kellner"
 image: /images/blog/benching-dating-trend-erkennen.webp
 imageAlt: Person schaut frustriert auf Smartphone wegen Benching
 faq:
-  - question: Was ist der Unterschied zwischen Benching und Ghosting?
-    answer: "Beim Ghosting verschwindet die Person komplett. Beim Benching hält sie dich hin — mit gelegentlichen Nachrichten, Likes oder vagen Verabredungen, ohne echtes Interesse an einer Beziehung. Benching ist oft schmerzvoller, weil die Hoffnung am Leben gehalten wird."
-  - question: Warum machen Menschen Benching?
-    answer: "Oft aus Unsicherheit, dem Wunsch nach Aufmerksamkeit oder als Backup-Option. Manche haben Angst vor Commitment, möchten aber nicht ganz auf die Aufmerksamkeit verzichten. Es ist ein egoistisches Verhalten, das die Gefühle anderer ignoriert."
-  - question: Wie reagiere ich am besten auf Benching?
-    answer: "Sprich es direkt an. Sage klar, dass du dir mehr Verbindlichkeit wünschst. Wenn sich nichts ändert, ziehe die Konsequenz und beende den Kontakt. Du verdienst jemanden, der sich ganz für dich entscheidet."
+  - question: "Was bedeutet Benching beim Dating?"
+    answer: "Benching heisst, jemanden warm zu halten ohne echtes Interesse an einer Beziehung. Du wirst auf der Reservebank gehalten."
+  - question: "Wie erkenne ich Benching?"
+    answer: "Sporadische Nachrichten, vage Plaene und nie konkrete Treffen sind typisch. Du fuehlst dich oft im Wartemodus."
+  - question: "Ist Benching weit verbreitet?"
+    answer: "Ja, in der App-Welt ist es sehr haeufig. Viele Menschen halten sich Optionen offen ohne klare Absichten."
+  - question: "Wann sollte ich Konsequenzen ziehen?"
+    answer: "Sobald du merkst, dass du nur Reserve bist, beende den Kontakt. Du verdienst echte Aufmerksamkeit."
 ---
-
 
 ## Benching: Der fiese Dating-Trend und wie du ihn sofort erkennst
 

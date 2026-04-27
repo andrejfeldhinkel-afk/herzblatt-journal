@@ -7,17 +7,18 @@ updated: 2026-04-15
 image: "/images/blog/beziehung-langweilig-spannend-machen.webp"
 imageAlt: "Beziehung wieder spannend machen"
 tags: ["Beziehung", "Intimität", "Date-Ideen", "Selbstliebe", "Kommunikation"]
-faq:
-  - question: "Wann sollte man um eine Beziehung kämpfen?"
-    answer: "Wenn beide Partner grundsätzlich bereit sind, an Problemen zu arbeiten, Respekt vorhanden ist und die positiven Momente überwiegen. Einseitiger Einsatz reicht nicht."
-  - question: "Was tun bei nachlassender Leidenschaft?"
-    answer: "Das ist normal und kein Beziehungskiller. Schafft bewusste Rituale, probiert Neues aus und redet offen über eure Wünsche und Bedürfnisse."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Wie machen wir die Beziehung wieder spannend?"
+    answer: "Neue Aktivitaeten, Reisen, Spielereien und bewusste Date-Nights bringen frischen Wind in die Beziehung."
+  - question: "Wie erkenne ich, was uns wieder anspornt?"
+    answer: "Erinnert euch an die Anfangszeit. Was hat euch fasziniert? Holt einzelne Elemente bewusst zurueck."
+  - question: "Ist Spannung dauerhaft moeglich?"
+    answer: "Ja, aber sie veraendert sich. Aus Verliebtsein wird tiefe Vertrautheit mit immer neuen Entdeckungen."
+  - question: "Wann ist es Zeit fuer drastischere Massnahmen?"
+    answer: "Wenn kleine Veraenderungen nichts bringen, hilft Paartherapie oder ein Beziehungs-Retreat."
 ---
-
 ## Das Problem – Wie Beziehungen langweilig werden
 
 Es beginnt subtil.

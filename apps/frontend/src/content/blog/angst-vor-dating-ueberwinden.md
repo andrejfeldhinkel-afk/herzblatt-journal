@@ -14,17 +14,18 @@ keywords:
   - Nervosität
   - Selbstbewusstsein
   - Psychologie
-faq:
-  - question: "Was sollte man beim Thema 'Angst vor dem Dating überwinden' beachten?"
-    answer: "Ehrlichkeit mit sich selbst und anderen ist entscheidend. Jeder hat seinen eigenen Weg — gehe in deinem Tempo vor."
-  - question: "Wie findet man den richtigen Partner?"
-    answer: "Indem du weißt, was dir wirklich wichtig ist, authentisch auftrittst und offen für neue Erfahrungen bleibst."
-  - question: "Wann sollte man professionelle Unterstützung holen?"
-    answer: "Wenn bestimmte Muster sich wiederholen oder du allein nicht weiterkommst. Coaching oder Therapie sind ein Zeichen von Stärke."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was ist Dating-Angst eigentlich?"
+    answer: "Dating-Angst ist die Sorge vor Ablehnung, Bewertung oder Verletzung beim Kennenlernen. Sie ist sehr verbreitet."
+  - question: "Wie erkenne ich, dass ich Dating-Angst habe?"
+    answer: "Du sagst Dates ab, gruebelst tagelang vor Treffen oder vermeidest Begegnungen ganz. Klare Anzeichen."
+  - question: "Ist Dating-Angst normal?"
+    answer: "Ja, Nervositaet beim Kennenlernen ist menschlich. Erst wenn sie dich blockiert, wird sie problematisch."
+  - question: "Wann sollte ich aktiv etwas dagegen tun?"
+    answer: "Wenn du seit Monaten kein Date hattest oder dich isoliert fuehlst, helfen Coaching oder Therapie."
 ---
-
 
 ## Angst vor dem Dating überwinden
 

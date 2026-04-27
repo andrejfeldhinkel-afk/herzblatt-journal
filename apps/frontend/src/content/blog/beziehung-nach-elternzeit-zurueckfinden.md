@@ -7,17 +7,18 @@ updated: 2026-04-15
 image: "/images/blog/beziehung-nach-elternzeit-zurueckfinden.webp"
 imageAlt: "Beziehung nach Elternzeit: Wiederfinden als Paar"
 tags: ["Beziehung"]
-faq:
-  - question: "Was sind Anzeichen für eine gesunde Beziehung?"
-    answer: "Gegenseitiges Vertrauen, offene Kommunikation, Respekt vor Grenzen, gemeinsames Lachen und die Fähigkeit, Konflikte fair zu lösen."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Wie finden wir nach der Elternzeit zurueck?"
+    answer: "Mit bewussten Date-Nights, klaren Rollenverteilungen und ehrlicher Kommunikation ueber neue Beduerfnisse."
+  - question: "Wie erkenne ich, dass wir uns entfremdet haben?"
+    answer: "Wenn ihr nur noch ueber Kind und Logistik redet, fehlt das Paar-Erleben deutlich."
+  - question: "Ist Distanz nach Elternzeit normal?"
+    answer: "Ja, sehr haeufig. Die meisten Paare erleben einen Tiefpunkt ein bis zwei Jahre nach Geburt."
+  - question: "Wann sollten wir aktiv gegensteuern?"
+    answer: "Sobald einer Distanz spuert oder ihr nicht mehr redet, ist es Zeit fuer bewusste Paarzeit."
 ---
-
 ## Beziehung nach Elternzeit: Wiederfinden als Paar
 
 Die Elternzeit ist eine wunderbare Phase – ein neues Leben ist da, die Freude ist groß. Aber ehrlich gesagt? Für viele Paare ist diese Zeit auch eine der größten Herausforderungen für die Beziehung. Dein Partner und du, ihr seid plötzlich nicht nur Liebende, sondern auch Eltern. Die Nächte sind kurz, der Tag ist lang, und irgendwo in diesem ganzen Chaos verschwindet die Verbindung zwischen euch.

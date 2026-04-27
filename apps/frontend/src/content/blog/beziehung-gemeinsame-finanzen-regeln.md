@@ -6,17 +6,18 @@ date: 2025-12-18
 image: "/images/blog/beziehung-gemeinsame-finanzen-regeln.webp"
 imageAlt: "Gemeinsame Finanzen in der Beziehung"
 tags: ["Finanzen"]
-faq:
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
-  - question: "Kann ich die Tipps sofort umsetzen?"
-    answer: "Ja, unsere Ratgeber sind praxisnah geschrieben. Du findest konkrete Schritte, die du direkt in deinem Alltag anwenden kannst."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was sind gute Regeln fuer gemeinsame Finanzen?"
+    answer: "Transparenz, klare Aufteilung der Ausgaben und ein faires System fuer ungleiche Einkommen sind zentral."
+  - question: "Wie erkenne ich, dass unsere Regeln fair sind?"
+    answer: "Wenn beide sich gehoert fuehlen und keiner ausgenutzt, sind eure Regeln in Balance."
+  - question: "Ist 50-50-Aufteilung immer fair?"
+    answer: "Nein, bei stark unterschiedlichen Einkommen ist prozentuale Aufteilung gerechter."
+  - question: "Wann sollten wir Regeln anpassen?"
+    answer: "Bei Lebensaenderungen wie Jobwechsel, Kindern oder Hauskauf gehoeren Regeln neu verhandelt."
 ---
-
 ## Die Regeln, die alles verändern
 
 Du und dein Partner werdet echte finanzielle Partner. Das bedeutet nicht einfach, ein gemeinsames Konto zu haben. Es bedeutet, klare, vereinbarte Regeln zu haben, die wie die Verfassung eurer finanziellen Beziehung funktionieren. Ohne diese Regeln wird Geld zur Source von Konflikten.

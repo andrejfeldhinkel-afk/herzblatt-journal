@@ -13,14 +13,15 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Kann eine Beziehung mit einem vermeidenden Partner funktionieren?"
-    answer: "Ja, aber nur wenn er selbst merkt, dass sein Muster ihn isoliert, und bereit ist, daran zu arbeiten. Wenn er blind ist für sein Verhalten, ändert sich nichts."
-  - question: "Wie spreche ich mit einem vermeidenden Partner über Gefühle?"
-    answer: "Nicht emotional oder bedürftig. Konkret: 'Mir ist aufgefallen, dass wir seit Wochen nicht über uns geredet haben. Das macht mir was. Ich möchte verstehen, was in dir vorgeht.' Halte Pausen für seine Antwort. Nicht rammeln."
-  - question: "Wann sollte ich eine vermeidende Beziehung beenden?"
-    answer: "Wenn er konsistent Nähe vermeidet, nicht über Probleme spricht, emotional nicht verfügbar ist UND nicht einmal bereit ist zu sehen, dass das ein Problem gibt. Dann rettest du eine Person, die sich nicht retten will."
+  - question: "Was bedeutet Beziehung mit vermeidendem Partner?"
+    answer: "Dein Partner zieht sich bei Naehe zurueck und scheut emotionale Tiefe. Das fordert dich heraus."
+  - question: "Wie erkenne ich seinen Bindungsstil?"
+    answer: "Er flieht vor Konflikten, mag keine grossen Gefuehlsgespraeche und betont staendig Unabhaengigkeit."
+  - question: "Ist diese Beziehung anstrengend?"
+    answer: "Oft ja, besonders wenn du selbst aengstlich gebunden bist. Bewusste Arbeit ist noetig."
+  - question: "Wann sollten wir Therapie machen?"
+    answer: "Wenn du dich staendig zurueckgewiesen fuehlst, hilft Paartherapie und Bindungsarbeit beider."
 ---
-
 Du sitzt neben einem Mann, der dich liebt, aber du kannst das nicht spüren. Er ist da, aber auch irgendwie nicht. Wenn du versuchen willst mit ihm zu reden, wird es unangenehm. Er schaut weg. Er ändert das Thema. Wenn du versuchen willst nah bei ihm zu sein, spürst du, wie er ganz minimal seine Schulter wegdreht.
 
 Sex funktioniert. Oberflächliches Small Talk funktioniert. Aber tiefe? Verletzlichkeit? Zukunftspläne? Das ist wie in einem Panzer zu quatschen.

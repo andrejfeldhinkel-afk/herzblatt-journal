@@ -7,17 +7,18 @@ updated: 2026-04-15
 image: "/images/blog/beziehung-konflikte-loesen-methoden.webp"
 imageAlt: "5 Methoden Konflikte zu lösen"
 tags: ["Konflikte", "Paartherapie"]
-faq:
-  - question: "Wie löst man Konflikte in der Beziehung?"
-    answer: "Bleibt beim aktuellen Thema, nutzt Ich-Botschaften, macht Pausen wenn die Emotionen hochkochen, und sucht gemeinsam nach Lösungen statt nach Schuldigen."
-  - question: "Kann man 5 Methoden Konflikte zu lösen wirklich überwinden?"
-    answer: "Ja, mit den richtigen Strategien, Geduld und oft auch professioneller Unterstützung ist Veränderung möglich. Der erste Schritt ist die Erkenntnis."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was sind gute Konfliktloesungs-Methoden?"
+    answer: "Ich-Botschaften, aktives Zuhoeren, Pausen einlegen und Loesungen fokussieren statt Schuld."
+  - question: "Wie erkenne ich, ob unsere Methode funktioniert?"
+    answer: "Ihr fuehlt euch nach Streit verstanden statt verletzt und findet praktikable Loesungen."
+  - question: "Ist Streit immer schlecht?"
+    answer: "Nein, Streit ist normal und kann verbinden, wenn er fair und respektvoll ablaeuft."
+  - question: "Wann sollten wir externe Hilfe holen?"
+    answer: "Wenn ihr den gleichen Konflikt staendig habt oder verletzend werdet, hilft Paartherapie."
 ---
-
 ## 5 Methoden um Beziehungskonflikte zu lösen: Wissenschaftlich bewährte Strategien
 
 Du und dein Partner habt wieder einen Streit. Es ist immer das gleiche Thema – oder es ist ein neues Thema, aber der Streit fühlt sich gleich an. Einer von euch schreit. Der andere zieht sich zurück. Es endet mit Schweigen oder mit "Vergessen wir das einfach" – was bedeutet, dass es nicht wirklich gelöst ist.

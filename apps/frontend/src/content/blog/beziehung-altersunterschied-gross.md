@@ -9,15 +9,15 @@ imageAlt: "Großer Altersunterschied in der Beziehung: Chancen und Herausforderu
 date: 2025-12-08
 author: "sarah-kellner"
 faq:
-  - question: "Was sind Anzeichen für eine gesunde Beziehung?"
-    answer: "Gegenseitiges Vertrauen, offene Kommunikation, Respekt vor Grenzen, gemeinsames Lachen und die Fähigkeit, Konflikte fair zu lösen."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
-
+  - question: "Was ist ein grosser Altersunterschied?"
+    answer: "Mehr als zehn Jahre Differenz gilt als gross. Lebensphasen und Werte koennen dann stark abweichen."
+  - question: "Wie erkenne ich, ob es trotzdem passt?"
+    answer: "Wenn ihr aehnliche Werte teilt, gemeinsame Ziele habt und kommunizieren koennt, kann es sehr funktionieren."
+  - question: "Ist gesellschaftliche Skepsis normal?"
+    answer: "Ja, leider gibt es noch viele Vorurteile. Wichtig ist, dass ihr euch auf eure Beziehung konzentriert."
+  - question: "Wann ist der Altersunterschied wirklich problematisch?"
+    answer: "Wenn Lebensphasen kollidieren, etwa Kinderwunsch versus Rente, braucht es klare Gespraeche."
 ---
-
 
 Großer Altersunterschied in der Beziehung: Chancen und Herausforderungen
 

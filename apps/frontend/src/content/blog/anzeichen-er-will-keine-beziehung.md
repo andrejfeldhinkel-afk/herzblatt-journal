@@ -6,16 +6,17 @@ tags: ["Beziehung", "Dating", "Konflikte", "Partnersuche"]
 keywords: ["er will keine beziehung anzeichen", "will er was ernstes", "commitment erkennen"]
 image: "/images/blog/anzeichen-er-will-keine-beziehung.webp"
 imageAlt: "Anzeichen dass er keine Beziehung will"
-faq:
-  - question: "Wie kann ich meine Beziehung verbessern?"
-    answer: "Offene Kommunikation, gemeinsame Quality-Time und gegenseitiger Respekt sind die Basis. Sprecht regelmäßig über eure Bedürfnisse und hört einander aktiv zu."
-  - question: "Wie finde ich den richtigen Partner?"
-    answer: "Werde dir zuerst klar, was dir wirklich wichtig ist. Sei authentisch, probiere verschiedene Wege aus und gib neuen Menschen eine echte Chance."
-  - question: "Was ist 15  dass er keine Beziehung will?"
-    answer: "Diese 15 Zeichen verraten, ob er eine ernsthafte Beziehung mit dir will. Ungeschminkt und ehrlich."
 draft: false
+faq:
+  - question: "Was sind Anzeichen, dass er keine Beziehung will?"
+    answer: "Er meldet sich unregelmaessig, plant nichts Langfristiges und vermeidet Gespraeche ueber Gefuehle und Zukunft."
+  - question: "Wie erkenne ich es trotz schoener Worte?"
+    answer: "Beobachte sein Verhalten, nicht seine Worte. Wenn er dich nicht in sein Leben integriert, ist die Antwort klar."
+  - question: "Ist es normal, dass Maenner Zeit brauchen?"
+    answer: "Manchmal ja, aber Zeit allein reicht nicht. Wenn es nach Monaten nicht klarer wird, will er es einfach nicht."
+  - question: "Wann sollte ich loslassen?"
+    answer: "Wenn du staendig auf Krumen wartest oder dich klein machst, ist es Zeit fuer dich selbst zu sorgen."
 ---
-
 ## Das größte Missverständnis über Liebe
 
 Das größte Missverständnis, das Frauen über Männer haben, ist dass "Liebe reicht aus". Das ist nicht wahr. Ein Mann kann dich lieben und trotzdem keine Beziehung mit dir wollen.

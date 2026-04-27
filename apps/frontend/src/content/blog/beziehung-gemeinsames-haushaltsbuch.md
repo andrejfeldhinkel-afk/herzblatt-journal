@@ -7,17 +7,18 @@ updated: 2026-04-15
 image: "/images/blog/beziehung-gemeinsames-haushaltsbuch.webp"
 imageAlt: "Gemeinsames Haushaltsbuch als Paar"
 tags: ["Finanzen", "Beziehung"]
-faq:
-  - question: "Was sind Anzeichen für eine gesunde Beziehung?"
-    answer: "Gegenseitiges Vertrauen, offene Kommunikation, Respekt vor Grenzen, gemeinsames Lachen und die Fähigkeit, Konflikte fair zu lösen."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was ist ein gemeinsames Haushaltsbuch?"
+    answer: "Eine Uebersicht ueber Einnahmen und Ausgaben, die ihr beide pflegt und regelmaessig anschaut."
+  - question: "Wie erkenne ich den Nutzen davon?"
+    answer: "Ihr habt Klarheit, wo das Geld bleibt, und koennt gezielt sparen oder ausgeben."
+  - question: "Ist ein Haushaltsbuch zeitaufwendig?"
+    answer: "Mit Apps reicht etwa fuenf Minuten pro Tag. Der Aufwand lohnt sich mehrfach."
+  - question: "Wann sollten wir damit starten?"
+    answer: "Spaetestens beim Zusammenziehen oder wenn unklare Ausgaben fuer Streit sorgen."
 ---
-
 ## Warum ein Haushaltsbuch die [Beziehung retten](/blog/beziehung-retten-kompletter-guide) kann
 
 Du und dein Partner sitzt abends zusammen und plötzlich gibt es ein heftiges Gespräch: „Wo ist denn unser ganzes Geld hin?" Keiner von euch weiß genau, wo jedes Euro ausgegeben wurde. Und statt eine Antwort zu haben, beschuldigt ihr euch gegenseitig zu viel zu kaufen.

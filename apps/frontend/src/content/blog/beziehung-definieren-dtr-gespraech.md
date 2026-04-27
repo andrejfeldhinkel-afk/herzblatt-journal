@@ -11,15 +11,15 @@ imageAlt: "Zwei Menschen im tiefgehenden Gespräch"
 date: 2026-03-14
 author: "sarah-kellner"
 faq:
-  - question: "Wie kann ich meine Beziehung verbessern?"
-    answer: "Offene Kommunikation, gemeinsame Quality-Time und gegenseitiger Respekt sind die Basis. Sprecht regelmäßig über eure Bedürfnisse und hört einander aktiv zu."
-  - question: "Wie kommuniziere ich besser in der Beziehung?"
-    answer: "Nutze Ich-Botschaften statt Vorwürfe, höre aktiv zu und sprich Probleme zeitnah an, statt sie aufzustauen."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-
+  - question: "Was ist ein DTR-Gespraech?"
+    answer: "DTR steht fuer Define The Relationship. Es klaert, was ihr seid, exklusiv oder offen, casual oder ernst."
+  - question: "Wie erkenne ich, dass es Zeit dafuer ist?"
+    answer: "Wenn du dich fragst, was ihr seid, und Unsicherheit spuerst, ist genau jetzt der Moment."
+  - question: "Ist so ein Gespraech nicht zu direkt?"
+    answer: "Nein, Direktheit ist hier eine Staerke. Halbgares Datenkann sich endlos hinziehen ohne Klarheit."
+  - question: "Wann sollte ich es ansprechen?"
+    answer: "Nach drei bis sechs Dates ist es ueblich. Wenn dir etwas unklar bleibt, frag lieber frueher als spaeter."
 ---
-
 
 DTR - Define The Relationship. Das ist nicht nur ein Dating-Akronym der Gen Z, sondern eines der wichtigsten Gespräche, die du in einer neuen Beziehung führen wirst. Und doch vermeiden es viele Menschen wie ein Zahnarztbesuch. Warum? Weil es Unsicherheit bedeutet. Weil es ein Risiko gibt - die Antwort könnte nicht das sein, was du hören möchtest.
 

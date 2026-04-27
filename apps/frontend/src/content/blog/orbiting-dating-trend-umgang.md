@@ -106,6 +106,52 @@ Du kannst nicht für sie loslassen. Du kannst nur für dich selbst weitermachen.
 
 **Orbiting ist eine Form der emotionalen Invasion. Blockiere es und bewege dich weiter.**
 
+## Strategien gegen Orbiting im Detail
+
+Wenn du das Verhalten erkennst, hast du verschiedene Werkzeuge. Erstens: **Privatsphäre einstellen**. Stelle dein Instagram, TikTok oder andere Profile auf privat und blockiere die Person konsequent. Das ist die einfachste Lösung, kostet nichts und ist auch keine Eskalation.
+
+Zweitens: **Stories einschränken**. Du kannst auf Instagram in den Story-Einstellungen einzelne Personen aussperren, ohne sie ganz zu blockieren. Das ist subtiler und passend, wenn du im selben Freundeskreis unterwegs bist und kein offizielles Drama möchtest.
+
+Drittens: **Account-Pause**. Manchmal hilft es, dein Profil komplett zu deaktivieren oder dich für einige Wochen zurückzuziehen. So findet das Orbiting kein Ziel mehr und löst sich oft von selbst auf.
+
+## Wenn du selbst gerade orbitest
+
+Erkennst du dich vielleicht eher auf der anderen Seite wieder? Manche Menschen orbiten Ex-Partner:innen, ohne sich dessen bewusst zu sein. Sie checken regelmäßig deren Profile, sehen Stories, liken Posts hier und da. Wenn du das tust, frage dich ehrlich: Was suche ich da?
+
+Wer orbitet, hängt meist an einer alten Hoffnung oder will Bestätigung über die eigene Wirkung. Beides ist legitim – aber es ist nicht fair gegenüber der anderen Person, weil es ihre Heilung blockiert. Eine **digitale Stille** für sechs bis zwölf Monate ist hier oft die kraftvollste Maßnahme. Du wirst überrascht sein, wie viel Energie freigesetzt wird, wenn du diese Aufmerksamkeit zurückziehst.
+
+## Orbiting in Freundeskreisen erkennen
+
+Eine Sonderform tritt in gemeinsamen Freundeskreisen auf. Die Person redet nicht direkt mit dir, taucht aber bei jedem gemeinsamen Event auf, schreibt regelmäßig in den Gruppenchat, behält dich über Umwege im Blick. Diese Art Orbiting ist subtiler, aber genauso belastend.
+
+Sprich offen mit deinen engsten Freund:innen darüber. Bitte sie, dich vor Treffen kurz zu informieren, wer kommt. Sage klar, was du brauchst – nicht aus Drama, sondern aus Selbstfürsorge. Echte Freund:innen werden das verstehen und respektieren.
+
+## Warum Orbiting selten zur Versöhnung führt
+
+Manche hoffen, dass das Orbiting der erste Schritt zur Versöhnung ist – eine Art langsame Annäherung. In der Praxis ist das selten der Fall. Wer nach einer Trennung wirklich an einer neuen Chance interessiert ist, schreibt klar und konkret. Wer nur orbitet, bleibt meist im Halbmodus stecken.
+
+Wenn du dir eine echte Versöhnung wünschst, mach den Schritt selbst. Schreibe eine ehrliche Nachricht, die deine Position klärt. Du wirst dann eine ehrliche Antwort bekommen – Ja oder Nein. Beides ist klärender als endloses Georbite.
+
+## Wie du dein eigenes Profil resilienter machst
+
+Wenn du häufiger orbitet wirst, lohnt sich ein Blick auf dein eigenes Online-Verhalten. Postest du sehr persönliche Inhalte, die alte Bekannte anziehen? Teilst du täglich Stories, die wie eine offene Einladung wirken? Es geht nicht darum, dich klein zu machen – aber bewusste Inhalte schützen deine Energie.
+
+Eine schöne Übung: Nutze Stories nur für Aktivitäten, die dir gut tun, nicht für emotionale Update-Postings. Halte schwierige Phasen aus dem Netz raus. Damit reduzierst du sowohl Orbiting als auch eigenen Stress.
+
+## Heilung trotz Orbiting
+
+Orbiting kann den Heilungsprozess verlangsamen, aber nicht verhindern. Konzentriere dich auf das, was du beeinflussen kannst: Deine Routinen, deine Freundschaften, deine Hobbys, deinen Selbstwert. Mit der Zeit nimmt die Bedeutung der orbitenden Person automatisch ab. Was vor sechs Monaten ein magnetischer Trigger war, ist nach einem Jahr nur noch eine kleine Notiz am Rand.
+
+Sei geduldig mit dir selbst. Heilung passiert auch, wenn ein anderer noch um deinen Orbit kreist. Du bist die Sonne deines eigenen Systems, nicht ein zweiter Mond. Diese Erinnerung trägt dich erstaunlich weit.
+
+## Wann Orbiting zur Belästigung wird
+
+Es gibt eine Grenze, ab der Orbiting nicht mehr nur lästig ist, sondern bedrohlich werden kann. Tägliche Likes auf alten Posts, kommentarähnliche Reaktionen auf jedes Bild, kombinierte Aktivität auf mehreren Plattformen, plötzliches Auftauchen an Orten, die du in Posts erwähnt hast – das sind Warnzeichen, die nicht ignoriert werden sollten. In solchen Fällen ist nicht nur Blockieren, sondern eine **Dokumentation** sinnvoll. Sammle Screenshots, hebe sie in einem extra Ordner auf und sprich mit Freund:innen oder gegebenenfalls mit der Polizei darüber. Stalking beginnt oft schleichend, und wer früh aktiv wird, schützt seine Sicherheit.
+
+## Schlussgedanke: Dein digitaler Raum ist dein Raum
+
+Dein Profil, dein Feed, dein Story-Bereich gehören dir. Du entscheidest, wer mitliest und wer nicht. Das ist kein Dramaakt, sondern Selbstverständlichkeit. Wer das früh internalisiert, behandelt sein digitales Leben mit derselben Selbstverständlichkeit wie sein Schlafzimmer: Es gibt einen Schlüssel, und nicht jeder bekommt ihn. Diese Haltung schützt dich und ehrt deine eigene Lebensgeschichte – online wie offline.
+
 ---
 
 ## Das könnte dich auch interessieren

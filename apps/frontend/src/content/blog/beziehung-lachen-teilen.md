@@ -14,12 +14,14 @@ imageAlt: "Paar lacht zusammen auf dem Sofa"
 ogImage: "/images/og/beziehung-lachen-teilen.webp"
 keywords: ["Lachen Beziehung", "Humor Partner", "Bindung", "Paare Glück"]
 faq:
-  - question: "Ist Humor in einer Beziehung wichtig?"
-    answer: "Ja. Forschung zeigt, dass Paare, die zusammen lachen, 50% bessere Beziehungszufriedenheit haben."
-  - question: "Was, wenn mein Partner mich nicht lustig findet?"
-    answer: "Das ist ein großes Problem. Humor ist nicht optional – es ist Bindung. Ihr könnte therapieren, aber schau, ob Ihr generell kompatibel seid."
-  - question: "Können wir lernen, zusammen zu lachen?"
-    answer: "Zum Teil. Ihr könnt lernen, mehr Zeit zum Lachen zu verbringen. Aber wenn die grundlegende Humor-Kompatibilität nicht da ist, ist das schwer."
+  - question: "Was bedeutet Lachen in der Beziehung?"
+    answer: "Gemeinsames Lachen ist ein Bindungsklebstoff. Es loest Spannungen und schafft Naehe sehr schnell."
+  - question: "Wie erkenne ich, dass wir zu wenig lachen?"
+    answer: "Wenn Alltag schwer wirkt und Humor fehlt, ist eine wichtige Resource zu kurz gekommen."
+  - question: "Ist Humor in jeder Beziehung gleich wichtig?"
+    answer: "Ja, fast immer. Auch ernsthafte Paare brauchen Momente der Leichtigkeit fuer Stabilitaet."
+  - question: "Wann sollten wir bewusst Lachen einbauen?"
+    answer: "Sobald eure Stimmung dauerhaft schwer wird, sucht aktiv Comedy, lustige Momente oder Spass-Aktivitaeten."
 ---
 Es war ein ganz normaler Mittwochmorgen. Dein Partner saß am Tisch, Kaffee in der Hand, und sah auf das Handy. Dein Sohn war gerade furchtbar gelaunt. Die Welt war grau.
 

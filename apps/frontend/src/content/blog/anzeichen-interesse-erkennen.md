@@ -18,12 +18,14 @@ draft: false
 image: "/images/photos/anzeichen-interesse.webp"
 imageAlt: "Paar das sich anlächelt"
 faq:
-  - question: "Wie erkenne ich ob jemand Interesse an mir hat?"
-    answer: "Die sichersten Anzeichen sind: häufiger Blickkontakt, Körper ist dir zugewandt, die Person sucht Nähe und Berührungen, meldet sich regelmäßig von sich aus, stellt viele persönliche Fragen, merkt sich Details über dich und macht sich Zeit für Treffen. Einzelne Signale können täuschen — achte auf die Kombination mehrerer Anzeichen."
-  - question: "Was bedeutet es wenn jemand ständig Blickkontakt sucht?"
-    answer: "Häufiger, bewusster Blickkontakt ist eines der stärksten Flirtsignale überhaupt. Wenn jemand deinen Blick sucht, hält und dabei lächelt, zeigt das in den meisten Fällen echtes Interesse. Besonders aussagekräftig ist der sogenannte Dreieckblick: Augen — Mund — Augen."
-  - question: "Wie unterscheide ich freundliches Verhalten von echtem Interesse?"
-    answer: "Der Unterschied liegt in der Intensität und Konsistenz. Freundlichkeit ist gleichmäßig gegenüber allen, während romantisches Interesse sich durch exklusive Aufmerksamkeit, körperliche Nähe, persönliche Fragen und Initiative beim Kontakt auszeichnet. Wenn jemand sich bei dir anders verhält als bei anderen, ist das ein starkes Signal."
+  - question: "Was sind eindeutige Interesse-Anzeichen?"
+    answer: "Augenkontakt, Lachen, koerperliche Naehe und aktives Nachfragen ueber dein Leben sind klare Anzeichen."
+  - question: "Wie erkenne ich es bei zurueckhaltenden Menschen?"
+    answer: "Bei Schuechternen siehst du Interesse an leichtem Erroeten, Blicken aus der Ferne und kleinen Aufmerksamkeiten."
+  - question: "Ist es normal, Signale falsch zu deuten?"
+    answer: "Ja, das passiert oft. Frag im Zweifel direkt, das schafft Klarheit fuer beide Seiten."
+  - question: "Wann sollte ich initiativ werden?"
+    answer: "Wenn die Anzeichen wiederholt auftauchen, mach den naechsten Schritt. Warten kostet oft Chancen."
 ---
 ## Einleitung: Warum es so schwer ist, Signale richtig zu deuten
 

@@ -6,17 +6,18 @@ date: 2025-09-16
 image: "/images/blog/beziehung-after-affaere-plan.webp"
 imageAlt: "Beziehung nach einer Affäre retten"
 tags: ["Beziehung", "Vertrauen", "Heilung", "Kommunikation", "Konflikte"]
-faq:
-  - question: "Wie kann ich meine Beziehung verbessern?"
-    answer: "Offene Kommunikation, gemeinsame Quality-Time und gegenseitiger Respekt sind die Basis. Sprecht regelmäßig über eure Bedürfnisse und hört einander aktiv zu."
-  - question: "Wie baut man Vertrauen in einer Beziehung auf?"
-    answer: "Durch Zuverlässigkeit, Ehrlichkeit, offene Kommunikation und das Einhalten von Versprechen. Vertrauen wächst langsam und braucht konsistentes Handeln."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was ist ein Plan nach einer Affaere?"
+    answer: "Ein klarer Schritte-Plan zum Wiederaufbau von Vertrauen, mit Verantwortung, Therapie und neuen Vereinbarungen."
+  - question: "Wie erkenne ich, dass der Plan funktioniert?"
+    answer: "Vertrauen kehrt langsam zurueck, ihr koennt offen reden und der Schmerz verliert seine Schaerfe."
+  - question: "Ist es normal, dass es Jahre dauert?"
+    answer: "Ja, Vertrauen aufzubauen ist ein langer Prozess. Ein bis drei Jahre sind realistisch."
+  - question: "Wann sollten wir Therapie machen?"
+    answer: "Sofort, denn Affaeren-Heilung gelingt selten ohne professionelle Begleitung. Sie ist fast immer noetig."
 ---
-
 ## Der erste Shock – Was in den ersten 24 Stunden passiert
 
 Du hast gerade erfahren, dass dein Partner dich betrogen hat. Es fühlt sich an, als würde dir der Boden unter den Füßen weggezogen.

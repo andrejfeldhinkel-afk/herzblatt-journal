@@ -7,17 +7,18 @@ updated: 2026-04-15
 image: "/images/blog/beziehung-haustier-anschaffen.webp"
 imageAlt: "Gemeinsam ein Haustier anschaffen"
 tags: ["Zusammenleben"]
-faq:
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
-  - question: "Kann ich die Tipps sofort umsetzen?"
-    answer: "Ja, unsere Ratgeber sind praxisnah geschrieben. Du findest konkrete Schritte, die du direkt in deinem Alltag anwenden kannst."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was sollten wir vor dem Haustier klaeren?"
+    answer: "Verantwortung, Kosten, Zeit und Allergien gehoeren auf den Tisch. Beide muessen wirklich wollen."
+  - question: "Wie erkenne ich, ob wir bereit sind?"
+    answer: "Wenn ihr beide Lust und Zeit habt und stabil zusammenlebt, ist es ein guter Zeitpunkt."
+  - question: "Ist ein Haustier ein Beziehungstest?"
+    answer: "Ja, oft schon. Wer Care-Arbeit traegt und wie ihr Konflikte loest zeigt sich schnell."
+  - question: "Wann sollten wir warten?"
+    answer: "In Krisen, bei beruflicher Unsicherheit oder wenn einer skeptisch ist, lieber spaeter."
 ---
-
 ## Der Test vor dem Test
 
 Bevor du ein Haustier mit deinem Partner anschaffst, gibt es einen wichtigen Test. Der Test ist nicht: „Lieben wir beide Tiere?" Der Test ist: „Sind wir bereit, Verantwortung für ein anderes Lebewesen zu teilen?"

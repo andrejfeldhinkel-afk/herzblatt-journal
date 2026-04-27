@@ -72,6 +72,47 @@ Detaillierte Infos bietet Bundesministerium für Familie: [Bundesministerium fü
 Die gemeinsamen Freunde werden mit der Zeit wieder normaler zu dir. Manche verschwinden, andere bleiben. Das ist der natürliche Verlauf. Was bleibt, sind die echten Verbindungen.
 
 Verwandte Artikel: [Trennung aber gleiche Wohnung: So überlebst du die Übergangszeit](/blog/trennung-mit-gemeinsamer-wohnung/) und [Ex vergessen: 12 tipps die wirklich helfen](/blog/ex-vergessen-tipps/)
+
+## Erste Begegnungen mit dem Ex bei Freunden
+
+Früher oder später kommt der Moment, an dem ihr euch im Freundeskreis wiederbegegnet. Eine Geburtstagsfeier, ein Grillabend, ein Hochzeitsempfang – plötzlich steht dein Ex zwischen Tür und Buffet. Bereite dich vor, statt überrascht zu werden. Erkundige dich vorher beim Gastgeber, wer kommt. Plane, wie du ankommst (nicht zu früh, nicht alleine, wenn möglich).
+
+Beim eigentlichen Treffen reicht ein freundliches Nicken oder ein kurzer Gruß. Du musst kein langes Gespräch führen, du musst aber auch nicht ostentativ wegsehen. Beides wirkt unsouverän. Suche dir einen Ankerpunkt – eine vertraute Person, die du fragen kannst, wenn der Moment unangenehm wird. Nach 30 Minuten merkst du oft, dass die Situation deutlich weniger dramatisch ist als befürchtet.
+
+## Klare Botschaften an deine Freunde
+
+Manche Freund:innen wissen nicht, wie sie sich verhalten sollen. Sie wollen niemanden verletzen und reagieren deshalb manchmal komisch. Es hilft, ihnen kleine Orientierungen zu geben. „Ich freue mich, wenn ihr mich einladet, auch wenn mein Ex dabei ist – sagt mir aber kurz vorher Bescheid." Oder: „Ich brauche gerade keine Updates über ihn. Wenn er ein Thema ist, sag mir kurz, dass es ihm gut geht, mehr nicht."
+
+Solche Sätze entspannen dein Umfeld und geben Orientierung. Du wirkst dadurch nicht fordernd, sondern transparent. Freunde mögen Klarheit, weil sie dann nicht mehr ständig spekulieren müssen, was du brauchst und was nicht.
+
+## Was du nicht tun solltest
+
+Es gibt typische Fehler, die nach Trennungen oft passieren und den Freundeskreis nachhaltig belasten. Vermeide es, deine Freunde zu Boten zu machen. Sätze wie „Sag ihm bitte, dass…" bringen sie in eine Position, die sie nicht ausfüllen wollen. Wenn du etwas zu sagen hast, sag es selbst.
+
+Verzichte auf Social-Media-Kämpfe. Nichts spaltet einen Freundeskreis schneller als versteckte Posts oder Stories, die offensichtlich auf den Ex zielen. Was du im Netz teilst, wirkt nicht stärker, sondern schwächer auf deine Position. Dein Schweigen ist oft die elegantere Antwort.
+
+## Mit Eifersucht in der Freundesgruppe umgehen
+
+Es kann passieren, dass dein Ex zuerst in der Gruppe einen neuen Partner mitbringt. Das fühlt sich verletzend an, auch wenn ihr lange getrennt seid. In solchen Momenten hilft es, **realistische Erwartungen** an dich selbst zu haben. Du wirst kurz traurig sein. Vielleicht sogar wütend. Das ist menschlich und in Ordnung.
+
+Wichtig ist, nicht impulsiv zu reagieren. Geh kurz an die frische Luft, schreibe später einer engen Vertrauensperson, gönne dir am nächsten Tag etwas, das dir guttut. Mit der Zeit gewöhnt sich dein System an die neue Realität, und der Schmerz wird kleiner.
+
+## Wenn der Freundeskreis sich aufteilt
+
+Manchmal lässt sich nicht verhindern, dass aus einem gemeinsamen Freundeskreis zwei Hälften werden. Das ist weniger dramatisch, als es klingt. In den meisten Fällen pendeln einige Personen sowieso in beide Richtungen, einige gehen klar mit einer Seite mit, andere ziehen sich zurück.
+
+Schau, welche Verbindungen dir wirklich wichtig sind, und investiere bewusst in diese. Lass die anderen ohne Groll los. In zwei oder drei Jahren wirst du oft erstaunt feststellen, dass dein Freundeskreis sich neu sortiert hat – mit Menschen, die zu deiner aktuellen Lebensphase passen. Trennung ist auch in diesem Sinne ein Filter, der dir nach einer Weile mehr Klarheit über deine eigenen Beziehungen schenkt.
+
+## Selbstfürsorge in der Übergangszeit
+
+Vergiss zwischen all den sozialen Fragen nicht: Du musst nicht überall gleich gut funktionieren. Es ist okay, eine Einladung abzulehnen, weil dir die Konstellation noch zu nah am Ex ist. Es ist okay, dich für ein paar Wochen aus Gruppenchats auszuklinken, in denen ständig Zeit mit dem Ex geplant wird. Diese kleinen Schutzräume helfen dir, deine emotionale Stabilität wiederzufinden.
+
+Mit der Zeit verschwindet das Bedürfnis nach diesen Pausen. Du wirst feststellen, dass du wieder offen, freundlich und entspannt unter Leuten bist – sogar dann, wenn dein Ex dabei ist. Diese Entwicklung passiert nicht von heute auf morgen, aber sie passiert verlässlich, wenn du dir die Zeit gibst, die du brauchst.
+
+## Wenn ein Freund sich offensichtlich für deinen Ex entscheidet
+
+Manchmal merkst du klar, dass eine Person dich seltener einlädt, weniger antwortet oder offensichtlich Distanz schafft. Das ist verletzend, aber selten persönlich gemeint. Statt zu drängen, gehe einen Schritt zurück. Sag der Person ehrlich: „Mir ist aufgefallen, dass wir uns weniger sehen. Ich finde das schade. Ist alles in Ordnung zwischen uns?" Diese direkte Frage gibt euch beiden Klarheit. Manchmal ist es ein Missverständnis, manchmal eine echte Entscheidung. In beiden Fällen weißt du danach, wo du stehst, und musst keine Energie mehr in Spekulationen stecken.
+
 ## Weiterlesen
 
 - [Erste eigene Wohnung nach Trennung: Der Neustart-Guide](/blog/erste-wohnung-nach-trennung/)

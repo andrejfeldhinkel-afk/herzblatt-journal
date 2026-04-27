@@ -6,16 +6,17 @@ tags: ["Beziehung", "Intimität", "Paartherapie", "Selbstliebe"]
 keywords: ["beziehungs challenge", "30 tage challenge paar", "beziehung auffrischen challenge"]
 image: "/images/blog/beziehung-30-day-challenge.webp"
 imageAlt: "30-Tage Beziehungs-Challenge Kalender mit interaktiven Tagesaufgaben"
-faq:
-  - question: "Wie kann ich meine Beziehung verbessern?"
-    answer: "Offene Kommunikation, gemeinsame Quality-Time und gegenseitiger Respekt sind die Basis. Sprecht regelmäßig über eure Bedürfnisse und hört einander aktiv zu."
-  - question: "Wie bringt man mehr Intimität in die Beziehung?"
-    answer: "Intimität beginnt außerhalb des Schlafzimmers: Kleine Berührungen, tiefe Gespräche, Augenkontakt und ungeteilte Aufmerksamkeit schaffen emotionale Nähe."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
 draft: false
+faq:
+  - question: "Was ist eine 30-Day-Beziehungs-Challenge?"
+    answer: "Eine 30-Tage-Challenge ist ein Plan mit kleinen taeglichen Aufgaben, um die Beziehung bewusst zu staerken."
+  - question: "Wie erkenne ich, ob die Challenge wirkt?"
+    answer: "Du fuehlst mehr Naehe, ihr lacht oefter und Routinen veraendern sich spuerbar. Das sind klare Erfolgssignale."
+  - question: "Ist sowas nicht zu kuenstlich?"
+    answer: "Nein, am Anfang fuehlt es sich strukturiert an, schnell entstehen aber echte Routinen, die natuerlich wirken."
+  - question: "Wann sollten wir so eine Challenge machen?"
+    answer: "Wenn ihr euch nebeneinander her bewegt oder neue Impulse braucht, ist sie ein toller Anstoss."
 ---
-
 Beziehungen brauchen Aufmerksamkeit — wie ein Garten, der regelmäßig gepflegt werden muss. Eine 30-Tage Challenge ist eine großartige Möglichkeit, die Verbindung zu deinem Partner zu stärken und wieder mehr Nähe in den Alltag zu bringen. Diese Challenge ist nicht kompliziert, zeitfressend oder teuer. Sie besteht aus 30 einfachen, alltagstauglichen Aufgaben, die nur wenige Minuten pro Tag dauern.
 
 ## Warum eine 30-Tage Beziehungs-Challenge sinnvoll ist

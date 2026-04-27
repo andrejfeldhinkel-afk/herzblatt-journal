@@ -7,17 +7,18 @@ updated: 2026-04-15
 image: "/images/blog/beziehung-getrennte-urlaube.webp"
 imageAlt: "Getrennte Urlaube in der Beziehung"
 tags: ["Beziehung", "Grenzen", "Lifestyle"]
-faq:
-  - question: "Wie kann ich meine Beziehung verbessern?"
-    answer: "Offene Kommunikation, gemeinsame Quality-Time und gegenseitiger Respekt sind die Basis. Sprecht regelmäßig über eure Bedürfnisse und hört einander aktiv zu."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was bedeuten getrennte Urlaube?"
+    answer: "Beide Partner reisen jeweils allein oder mit Freunden. Es ist eine bewusste Wahl fuer Eigenraum."
+  - question: "Wie erkenne ich, ob das fuer uns passt?"
+    answer: "Wenn ihr euch nach Eigenzeit sehnt, ohne dass die Beziehung leidet, ist es ein gesundes Zeichen."
+  - question: "Ist das nicht ein schlechtes Zeichen?"
+    answer: "Nein, getrennte Urlaube koennen sehr staerkend sein, wenn beide Vertrauen und Eigenstaendigkeit haben."
+  - question: "Wann ist es problematisch?"
+    answer: "Wenn einer den Urlaub als Flucht nutzt oder Misstrauen entsteht, stimmt etwas nicht."
 ---
-
 ## Getrennte Urlaube in der Beziehung: Warum Abstand Nähe stärkt
 
 Du kennst das Szenario: Die Urlaubsplanung steht an und dein Partner möchte zwei Wochen mit seinen Freunden nach Südamerika bergsteigen, während du dich nach entspannten Tagen am Strand mit guter Literatur sehnst. Der erste Instinkt vieler Menschen in einer Beziehung ist Panik. "Getrennte Urlaube? Das ist doch nicht normal für Paare! Das bedeutet, dass etwas nicht stimmt, oder?"

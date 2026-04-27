@@ -6,17 +6,18 @@ date: 2025-12-23
 image: "/images/blog/beziehung-nach-langem-single-dasein.webp"
 imageAlt: "Beziehung nach langer Single-Zeit"
 tags: ["Beziehung"]
-faq:
-  - question: "Wann sollte man um eine Beziehung kämpfen?"
-    answer: "Wenn beide Partner grundsätzlich bereit sind, an Problemen zu arbeiten, Respekt vorhanden ist und die positiven Momente überwiegen. Einseitiger Einsatz reicht nicht."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Wie ist eine Beziehung nach langem Single-Sein?"
+    answer: "Aufregend und herausfordernd. Du musst Routinen aufgeben und Naehe wieder zulassen."
+  - question: "Wie erkenne ich, dass ich Anpassung brauche?"
+    answer: "Wenn du dich eingeengt fuehlst oder vergisst Kompromisse zu machen, ist Anpassung noetig."
+  - question: "Ist es normal, sich erst zu suchen?"
+    answer: "Ja, nach Jahren allein sein zu zweit ist eine echte Umstellung. Geduld mit dir und ihm."
+  - question: "Wann sollte ich Hilfe holen?"
+    answer: "Wenn alte Single-Muster die Beziehung gefaehrden oder du dich verlierst, hilft Coaching."
 ---
-
 ## Beziehung nach langer Single-Zeit: Von der Unabhängigkeit zur Partnerschaft
 
 Du warst lange allein. Nicht unglücklich allein, sondern... gut allein. Du kennst deine Routinen, deine Vorlieben, deine Grenzen. Dein Raum ist dein Raum. Deine Zeit ist deine Zeit. Und dann kommt jemand ins Spiel.

@@ -12,14 +12,15 @@ image: "/images/photos/beziehung-nach-fernbeziehung.webp"
 imageAlt: "Paar umarmt sich am Flughafen"
 featured: false
 faq:
-  - question: "Woran erkenne ich, dass wir bereit sind, zusammenzuziehen?"
-    answer: "Wenn ihr mindestens 1-2 Jahre zusammen seid, regelmäßig besucht, über Zukunftspläne sprecht und emotionale Konflikte gelöst habt, könnt ihr bereit sein. Die beste Frage: 'Willen wir das zusammen? Und warum?'"
-  - question: "Was ist der häufigste Fehler, wenn Fernbeziehungen zusammenziehen?"
-    answer: "Menschen erwarten, dass alles perfekt wird, wenn sie zusammenziehen. Die Realität: Es gibt Anpassungen, neue Konflikte und Unterschiede, die online nicht sichtbar waren. Behalte realistische Erwartungen."
-  - question: "Wie lange sollte ich das Zusammenziehen verschieben, um sicherzugehen?"
-    answer: "Es gibt keine magische Zahl. Manche Paare ziehen nach 6 Monaten zusammen, manche nach 3 Jahren. Wichtiger: Kommunikation, gemeinsame Werte und das Gefühl, dass ihr füreinander bereit seid."
+  - question: "Was hilft nach einer Fernbeziehung?"
+    answer: "Bewusst Alltag gestalten, Eigenraum behalten und nicht zu schnell zusammenziehen sind wichtige Tipps."
+  - question: "Wie erkenne ich, dass die Umstellung schwer faellt?"
+    answer: "Konflikte ueber Naehe-Distanz oder Alltagsstress zeigen, dass die Umstellung herausfordernd ist."
+  - question: "Ist Krise nach Fernbeziehung normal?"
+    answer: "Ja, nach der Romantik des Wiedersehens kommt der Alltag. Das ist eine echte Anpassungsphase."
+  - question: "Wann sollten wir Hilfe holen?"
+    answer: "Wenn es nach drei bis sechs Monaten nicht besser wird, ist Paarberatung sinnvoll."
 ---
-
 Die Fernbeziehung funktioniert. Ihr seid glücklich – trotz der Entfernung, trotz der Besuche, trotz der langen Telefonate. Dann kommt die große Frage: Was ist der nächste Schritt? Für viele Fernbeziehungen bedeutet das: Zusammenziehen.
 
 Diese Übergang ist eine der größten Veränderungen, die ein Paar durchlebt. Wie machst du es richtig?

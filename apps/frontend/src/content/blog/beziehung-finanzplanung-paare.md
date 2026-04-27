@@ -7,17 +7,18 @@ updated: 2026-04-15
 image: "/images/blog/beziehung-finanzplanung-paare.webp"
 imageAlt: "Finanzplanung als Paar – Geld ist nicht die Größte Heraus..."
 tags: ["Beziehung", "Finanzen", "Kommunikation", "Zusammenleben", "Vertrauen"]
-faq:
-  - question: "Wann sollte man um eine Beziehung kämpfen?"
-    answer: "Wenn beide Partner grundsätzlich bereit sind, an Problemen zu arbeiten, Respekt vorhanden ist und die positiven Momente überwiegen. Einseitiger Einsatz reicht nicht."
-  - question: "Was tun wenn der Partner nicht reden will?"
-    answer: "Schaffe einen sicheren Rahmen ohne Druck. Manchmal hilft es, beim Spazierengehen zu reden statt am Küchentisch. Respektiere auch das Bedürfnis nach Verarbeitungszeit."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was bedeutet Finanzplanung als Paar?"
+    answer: "Ihr klaert, wie ihr Einkommen, Ausgaben, Sparen und Investieren gemeinsam organisiert."
+  - question: "Wie erkenne ich, dass wir das brauchen?"
+    answer: "Wenn Geld zu Streit wird oder Unsicherheit ueber Ausgaben herrscht, ist Klarheit dringend noetig."
+  - question: "Ist getrennte Kasse normal?"
+    answer: "Ja, viele Paare haben Mischmodelle mit Gemeinschaftskonto und Privatgeld. Das ist sehr verbreitet."
+  - question: "Wann sollten wir einen Plan machen?"
+    answer: "Spaetestens beim Zusammenziehen oder bei groesseren Anschaffungen wie Haus oder Kindern."
 ---
-
 ## Das größte Tabu – Geld in Beziehungen
 
 Paare sprechen lieber über Sex als über Geld. Das ist ein echtes Problem, denn Geldkonflikte zerstören mehr Beziehungen als Vertrauensbruch.

@@ -15,14 +15,15 @@ draft: false
 image: "/images/photos/beziehung-nach-depression.webp"
 imageAlt: "Person die sich selbst umarmt - Heilung nach Depression"
 faq:
-  - question: "Sollte ich nach einer Depression sofort wieder daten gehen?"
-    answer: "Das hängt von deiner Genesung ab. Wenn du stabil bist und professionelle Hilfe erhältst, kann Dating Teil deiner Heilung sein. Wenn du noch kämpfst, konzentriere dich zuerst auf Genesung."
-  - question: "Sollte ich einem potenziellen Partner von meiner Depression erzählen?"
-    answer: "Es gibt nicht den richtigen Zeitpunkt, aber definitiv solltest du es nicht beim ersten Date sagen. Mit der Zeit, wenn die Beziehung ernsthaft wird, ist Offenheit wichtig. Wähle jemanden, der verstehen kann."
-  - question: "Wie schütze ich meine neue Beziehung vor meiner Depression?"
-    answer: "Achte auf deine Gesundheit, meide Trigger, bleibe in Therapie, kommuniziere offen mit deinem Partner. Eine unterstützende Beziehung kann helfen, aber sie kann keine Therapie ersetzen."
+  - question: "Wie veraendert Depression die Beziehung?"
+    answer: "Sie kann Naehe, Sex und Kommunikation stark beeintraechtigen. Auch der gesunde Partner leidet."
+  - question: "Wie erkenne ich Depressionsfolgen bei uns?"
+    answer: "Wenig Energie, Rueckzug und veraenderte Stimmung sind typische Auswirkungen auf die Beziehung."
+  - question: "Ist Depression in der Beziehung heilbar?"
+    answer: "Ja, mit Therapie und Geduld koennen Beziehungen sehr gut weiterleben oder sogar gestaerkt werden."
+  - question: "Wann sollten wir Hilfe holen?"
+    answer: "Sofort. Depression verschwindet selten von allein und braucht professionelle Behandlung."
 ---
-
 Wenn eine [beziehung](/blog/adhs-und-beziehung-komplett-guide/) durch schwierige Phasen geht, kann beziehung entscheidend sein. Doch wie gehst du damit um? Dieser Leitfaden zeigt dir Wege, wie du deine Beziehung wieder auf stabilem Grund aufbauen kannst.
 
 ## Die Schatten der Vergangenheit

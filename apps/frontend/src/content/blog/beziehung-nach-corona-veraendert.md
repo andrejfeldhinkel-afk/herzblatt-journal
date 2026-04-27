@@ -6,17 +6,18 @@ date: 2025-11-17
 image: "/images/blog/beziehung-nach-corona-veraendert.webp"
 imageAlt: "Beziehung nach Corona – Wir sind nicht mehr die gleichen"
 tags: ["Beziehung", "Lebensphasen", "Kommunikation", "Zusammenleben", "Heilung"]
-faq:
-  - question: "Wie kann ich meine Beziehung verbessern?"
-    answer: "Offene Kommunikation, gemeinsame Quality-Time und gegenseitiger Respekt sind die Basis. Sprecht regelmäßig über eure Bedürfnisse und hört einander aktiv zu."
-  - question: "Was tun wenn der Partner nicht reden will?"
-    answer: "Schaffe einen sicheren Rahmen ohne Druck. Manchmal hilft es, beim Spazierengehen zu reden statt am Küchentisch. Respektiere auch das Bedürfnis nach Verarbeitungszeit."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Wie hat Corona Beziehungen veraendert?"
+    answer: "Mehr gemeinsame Zeit, mehr Konflikte, neue Rollen und veraenderte Lebensziele sind typische Folgen."
+  - question: "Wie erkenne ich Corona-Folgen in unserer Beziehung?"
+    answer: "Wenn alte Muster neu auftauchen oder neue Konflikte entstanden sind, hat Corona Spuren hinterlassen."
+  - question: "Ist es normal, dass sich vieles veraendert hat?"
+    answer: "Ja, eine globale Krise hinterlaesst Spuren. Viele Paare leben heute bewusster."
+  - question: "Wann sollten wir aufarbeiten?"
+    answer: "Sobald Corona-Themen immer wieder auftauchen oder Konflikte ungeloest sind."
 ---
-
 ## Das Trauma der Pandemie
 
 Zwei, drei, vier Jahre zusammen zuhause. Keine Freunde. Keine Pausen. Keine Luft.

@@ -7,17 +7,18 @@ updated: 2026-04-15
 image: "/images/blog/beziehung-gemeinsam-meditieren.webp"
 imageAlt: "Gemeinsam meditieren als Paar"
 tags: ["Beziehung", "Gesundheit"]
-faq:
-  - question: "Wie kann ich meine Beziehung verbessern?"
-    answer: "Offene Kommunikation, gemeinsame Quality-Time und gegenseitiger Respekt sind die Basis. Sprecht regelmäßig über eure Bedürfnisse und hört einander aktiv zu."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was ist gemeinsame Meditation als Paar?"
+    answer: "Ihr meditiert zusammen, sei es in Stille, mit Atmung oder gefuehrten Anleitungen. Das verbindet tief."
+  - question: "Wie erkenne ich den Effekt davon?"
+    answer: "Ihr seid ruhiger im Alltag, streitet weniger und spuert eine tiefere innere Verbindung."
+  - question: "Ist Meditation als Paar schwer?"
+    answer: "Nein, schon zehn Minuten am Tag reichen. Mit App oder Audio-Guide ist es einfach umzusetzen."
+  - question: "Wann ist die beste Zeit dafuer?"
+    answer: "Morgens oder abends als feste Routine. Auch nach Streit kann Meditation versoehnen."
 ---
-
 ## Warum Paare zusammen meditieren sollten
 
 Du kennst das: Du kommst nach einem stressigen Tag nach Hause, dein Partner ist genauso angespannt, und dann sitzen ihr zusammen und redet über all die Frustration des Tages. Das Stress-Niveau verdoppelt sich statt sich zu entspannen. Die ganze Wohnung fühlt sich angespannt an.

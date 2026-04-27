@@ -9,15 +9,15 @@ date: 2025-06-23
 updated: 2026-04-15
 author: "sarah-kellner"
 faq:
-  - question: "Wann sollte man um eine Beziehung kämpfen?"
-    answer: "Wenn beide Partner grundsätzlich bereit sind, an Problemen zu arbeiten, Respekt vorhanden ist und die positiven Momente überwiegen. Einseitiger Einsatz reicht nicht."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
-
+  - question: "Was ist ein Date-Night-Planer?"
+    answer: "Ein Werkzeug oder Plan, mit dem ihr regelmaessig bewusste Date-Abende einbaut, statt sie zu vergessen."
+  - question: "Wie erkenne ich, dass wir den brauchen?"
+    answer: "Wenn euer letztes Date Wochen her ist oder ihr nichts spontan plant, hilft Struktur enorm."
+  - question: "Ist Planung nicht das Gegenteil von Romantik?"
+    answer: "Nein, Planung schafft den Raum fuer Romantik. Ohne Planung kommt sie im Alltag oft zu kurz."
+  - question: "Wann ist die beste Zeit fuer Date-Nights?"
+    answer: "Mindestens einmal im Monat, idealerweise woechentlich. Findet einen festen Rhythmus, der zu euch passt."
 ---
-
 ## Date Night Planer: Regelmäßig Quality Time
 
 Es war früher einfach. Du hattest ein Date mit deinem Partner und ihr hattet Spaß. Aber dann kommt die Realität: Arbeit, Verantwortungen, vielleicht Kinder. Plötzlich gibt es keine „Date Nights" mehr. Ihr sitzt zusammen, aber nicht wirklich zusammen.

@@ -14,12 +14,15 @@ draft: false
 image: "/images/photos/beziehung-und-achtsamkeit.webp"
 imageAlt: "Beziehung nach Corona"
 faq:
-  - question: "Was ist das Wichtigste bei beziehung nach corona?"
-    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
-  - question: "Wo finde ich Hilfe zum Thema beziehung nach corona?"
-    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
+  - question: "Wie war die Beziehung nach Corona?"
+    answer: "Manche Paare waren gestaerkt, andere zerbrochen. Die Pandemie hat alle Schwachstellen sichtbar gemacht."
+  - question: "Wie erkenne ich, ob wir gestaerkt sind?"
+    answer: "Wenn ihr Krisen gemeinsam gemeistert habt und euch besser kennt, seid ihr gestaerkt."
+  - question: "Ist es normal, dass Corona Spuren hinterlaesst?"
+    answer: "Ja, eine zwei-Jahres-Ausnahme veraendert jeden. Auch Beziehungen brauchten Anpassung."
+  - question: "Wann sollten wir Hilfe holen?"
+    answer: "Wenn alte Konflikte aus der Pandemie noch nachwirken, hilft Paarberatung beim Sortieren."
 ---
-
 ## Beziehung nach Corona: Was die Pandemie uns über Liebe gelehrt hat
 
 Der Lockdown war vorbei. Langsam war die Welt wieder offen. Restaurants, Bars, Reisen — alles war wieder möglich. Aber deine Beziehung... etwas hatte sich geändert. Fundamental.

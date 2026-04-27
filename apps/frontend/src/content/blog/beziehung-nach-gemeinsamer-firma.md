@@ -8,15 +8,15 @@ imageAlt: "Beziehung nach gemeinsamer Firma: Trennung im Business"
 date: 2025-09-27
 author: "sarah-kellner"
 faq:
-  - question: "Wann sollte man um eine Beziehung kämpfen?"
-    answer: "Wenn beide Partner grundsätzlich bereit sind, an Problemen zu arbeiten, Respekt vorhanden ist und die positiven Momente überwiegen. Einseitiger Einsatz reicht nicht."
-  - question: "Wie übersteht man eine Trennung?"
-    answer: "Lass dir Zeit zum Trauern, halte Kontaktsperre ein, konzentriere dich auf dich selbst und suche Unterstützung bei Freunden oder professioneller Hilfe."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-
+  - question: "Wie ist es nach einer gemeinsamen Firma?"
+    answer: "Berufliche Trennung kann erleichtern oder belasten. Klare Strukturen sind wichtig fuer den Uebergang."
+  - question: "Wie erkenne ich, dass wir es gut hinbekommen?"
+    answer: "Wenn ihr beide weiter respektvoll miteinander umgeht und eure private Beziehung intakt ist."
+  - question: "Ist Konflikt nach Firmen-Auflosung normal?"
+    answer: "Ja, oft. Geld, Verantwortung und Identitaet werden neu sortiert. Spannungen sind normal."
+  - question: "Wann sollten wir Mediation holen?"
+    answer: "Wenn finanzielle oder strukturelle Themen den Alltag belasten, hilft externe Klaerung."
 ---
-
 Wenn du mit deinem Partner ein Business aufgebaut hast, habt ihr vermutlich hunderte Stunden zusammen verbracht. Ihr kennt euch in und auswendig, habt gemeinsam Krisen bewältigt und Erfolge gefeiert. Und dann passiert es: Die Beziehung funktioniert nicht mehr. Vielleicht seid ihr auseinander gewachsen, vielleicht hat sich eine Person verändert, vielleicht ist einfach die Chemie weg.
 
 Jetzt sitzt ihr vor einem echten Problem. Nicht nur eine persönliche [Trennung](/blog/trennung-verarbeiten-12-schritte), sondern auch eine geschäftliche. Und beide können schnell zur Katastrophe werden, wenn ihr nicht klug vorgeht.

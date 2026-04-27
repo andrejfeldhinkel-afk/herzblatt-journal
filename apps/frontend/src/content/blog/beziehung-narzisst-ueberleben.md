@@ -6,16 +6,17 @@ tags: ["Beziehung", "Psychologie", "Red Flags"]
 keywords: ["beziehung narzisst", "narzisstischer partner", "narzissmus beziehung erkennen"]
 image: "/images/blog/beziehung-narzisst-ueberleben.webp"
 imageAlt: "Beziehung mit einem Narzissten erkennen und überleben"
-faq:
-  - question: "Was sind Anzeichen für eine gesunde Beziehung?"
-    answer: "Gegenseitiges Vertrauen, offene Kommunikation, Respekt vor Grenzen, gemeinsames Lachen und die Fähigkeit, Konflikte fair zu lösen."
-  - question: "Kann man Beziehungsmuster verändern?"
-    answer: "Ja, durch Selbstreflexion, Therapie und bewusstes Üben neuer Verhaltensweisen. Der erste Schritt ist, die eigenen Muster zu erkennen."
-  - question: "Was ist Beziehung mit einem Narzissten?"
-    answer: "Wie du einen narzisstischen Partner erkennst, emotionale Manipulation durchschaust und dich selbst schützt"
 draft: false
+faq:
+  - question: "Was bedeutet Beziehung mit Narzissten ueberleben?"
+    answer: "Es heisst, sich vor Manipulation zu schuetzen, klare Grenzen zu setzen und oft auch zu gehen."
+  - question: "Wie erkenne ich narzisstisches Verhalten?"
+    answer: "Mangel an Empathie, Manipulation, Gaslighting und staendiger Selbstbezug sind klare Hinweise."
+  - question: "Ist Heilung in solcher Beziehung moeglich?"
+    answer: "Selten. Echte Veraenderung braucht Einsicht des Narzissten, was extrem selten passiert."
+  - question: "Wann sollte ich gehen?"
+    answer: "Wenn deine Selbstachtung schwindet oder du dich verlierst, ist Schluss machen oft die einzige Option."
 ---
-
 ## Die versteckte Zerstörung: Was Narzissmus in einer Beziehung bedeutet
 
 Eine Beziehung mit einem Narzissten ist wie das Pflanzen einer Rose, die nur Dornen trägt. Du bemerkst die Schönheit am Anfang, aber je näher du kommst, desto mehr schneidest du dich. Der narzisstische Partner ist nicht einfach egoistisch oder manchmal schwierig—er hat eine grundlegend andere Wahrnehmung von Beziehungen, in der deine Bedürfnisse nicht wirklich zählen.
