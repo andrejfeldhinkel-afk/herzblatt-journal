@@ -1,5 +1,5 @@
 ---
-title: "Keine Antwort auf der Dating-App? Verstehen, warum"
+title: "Keine Antwort auf der Dating-App? Verstehen, warum & richtig reagieren"
 description: "Warum antworten 70% der Matches nicht? Lerne die Gründe, wie du bessere erste Nachrichten schreibst und das richtige Mindset entwickelst."
 keywords: ["keine antwort auf der dating-app? verstehen, warum", "dating apps", "flirten", "online dating", "keine antwort", "antwort dating-app?"]
 tags:

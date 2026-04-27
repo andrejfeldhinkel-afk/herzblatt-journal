@@ -1,5 +1,5 @@
 ---
-title: "Verstrickung in Beziehungen"
+title: "Enmeshment: Wenn Verstrickung in Beziehungen Nähe erstickt"
 description: "Verstrickung in Beziehungen: Lerne die Zeichen von Enmeshment und wie du gesunde Grenzen aufbaust. Praktische Tipps für Unabhängigkeit in der Liebe."
 date: 2026-03-29
 tags:

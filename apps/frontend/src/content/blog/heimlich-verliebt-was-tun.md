@@ -1,5 +1,5 @@
 ---
-title: "Heimlich verliebt: 10 Anzeichen + 7 konkrete Schritte zum"
+title: "Heimlich verliebt: 10 Anzeichen + 7 konkrete Schritte zum Geständnis"
 description: "Bist du wirklich verliebt? 10 psychologische Signale verraten es. Plus: Was tun wenn es der Kollege oder beste Freund ist."
 keywords: ["heimlich verliebt", "kommunikation", "liebeskummer", "psychologie", "heimlich verliebt:", "verliebt: anzeichen"]
 tags:

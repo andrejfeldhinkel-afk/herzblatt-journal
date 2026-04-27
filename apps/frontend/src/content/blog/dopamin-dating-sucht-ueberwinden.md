@@ -1,5 +1,5 @@
 ---
-title: "Dopamin-Falle beim Dating"
+title: "Dopamin-Falle beim Dating: Warum du süchtig nach Matches wirst"
 description: "Entdecke die Wissenschaft hinter der Dating-App-Sucht. Warum sind wir so besessen von Likes und Matches? Und wie kommst du aus dieser Falle heraus?"
 date: 2026-03-12
 tags:

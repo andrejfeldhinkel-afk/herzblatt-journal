@@ -1,5 +1,5 @@
 ---
-title: "Erkenne wirkliche Absichten"
+title: "Erkenne wirkliche Absichten: Was sagen seine/ihre Taten wirklich?"
 description: "Erkenne wirkliche Absichten — Erfahre bewährte Strategien und Expertentipps für eine glücklichere, stärkere Partnerschaft im Alltag."
 keywords: ["erkenne wirkliche absichten", "beziehung", "dating", "erkenne wirkliche", "wirkliche absichten"]
 date: 2025-07-15

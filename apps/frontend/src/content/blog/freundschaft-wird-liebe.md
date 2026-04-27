@@ -1,5 +1,5 @@
 ---
-title: "Wenn Freundschaft zu Liebe wird"
+title: "Wenn Freundschaft zu Liebe wird: Anzeichen und nächste Schritte"
 description: "Freundschaft wird Liebe: Lerne, wie Gefühle in einer Freundschaft entstehen und wie du damit konstruktiv umgehen kannst. Ein praktischer Ratgeber!"
 date: 2025-08-20
 updated: 2026-04-15

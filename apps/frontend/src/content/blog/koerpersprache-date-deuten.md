@@ -1,5 +1,5 @@
 ---
-title: "Körpersprache beim Date: 30 Signale die verraten was dein"
+title: "Körpersprache beim Date: 30 Signale, die verraten was dein Date denkt"
 description: "Körpersprache beim Date lesen lernen: 30 Signale die dir verraten ob dein Date Interesse hat, sich unwohl fühlt oder in dich verliebt ist."
 date: 2025-11-05
 tags:

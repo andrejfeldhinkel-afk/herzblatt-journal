@@ -1,5 +1,5 @@
 ---
-title: "Körpersprache beim Dating: Diese 20 Signale verraten echtes"
+title: "Körpersprache beim Dating: Diese 20 Signale verraten echtes Interesse"
 description: "Körpersprache beim Dating: Worte können lügen, Körpersprache nicht. Lerne die 20 wichtigsten Signale zu deuten und echtes Interesse erkennen."
 date: 2025-11-06
 tags:

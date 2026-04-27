@@ -1,5 +1,5 @@
 ---
-title: "Emotionsregulation in Beziehungen: Wie du lernst, deine"
+title: "Emotionsregulation in Beziehungen: Wie du lernst, deine Gefühle zu steuern"
 description: "Emotionsregulation lernen: Warum du in Beziehungen überreagierst, was dahinter steckt und wie du deine Gefühle besser steuerst — ohne sie zu unterdrücken."
 date: 2025-09-15
 image: "/images/photos/emotionsregulation-beziehung-guide.webp"

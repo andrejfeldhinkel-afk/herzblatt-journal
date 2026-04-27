@@ -1,5 +1,5 @@
 ---
-title: "Hinge für Anfänger: Tipps, Tricks und die besten"
+title: "Hinge für Anfänger: Tipps, Tricks und die besten Profil-Strategien"
 description: "Kompletter Hinge-Guide auf Deutsch: Profil optimieren, beste Prompts, Roses vs. Likes, Premium-Tipps und Vergleich mit Tinder und Bumble."
 keywords: ["hinge für anfänger", "dating apps", "online dating", "hinge anfänger:", "anfänger: tipps,", "tipps, tricks"]
 tags:

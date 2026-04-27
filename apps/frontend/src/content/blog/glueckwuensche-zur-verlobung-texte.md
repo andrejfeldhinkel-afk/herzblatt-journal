@@ -1,5 +1,5 @@
 ---
-title: "Glückwünsche zur Verlobung"
+title: "Glückwünsche zur Verlobung: 50+ Texte für Karten und Reden"
 description: "Herzliche Glückwünsche und Sprüche zur Verlobung. Von lustig bis emotional – die perfekten Worte zum Feiern der Liebe."
 date: 2026-04-02
 tags: [verlobung, glückwünsche, hochzeit, liebe]

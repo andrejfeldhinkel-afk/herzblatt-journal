@@ -1,5 +1,5 @@
 ---
-title: "Earned Secure Attachment: Sicher gebunden werden"
+title: "Earned Secure Attachment: Wie du sichere Bindung selbst erlernen kannst"
 description: "Earned Secure Attachment erklärt: Warum dein Bindungsstil nicht lebenslänglich ist und wie du von unsicher zu sicher gebunden wechseln kannst."
 date: 2026-03-27
 tags:
