@@ -2,6 +2,8 @@
 title: "Verzeihen lernen in der Beziehung: Der Schritt-fuer-Schritt-Prozess (kein Wegdruecken!)"
 description: "Echtes Verzeihen ist kein Wegdruecken. So funktioniert der ehrliche Prozess - von Akzeptanz ueber Trauerarbeit bis zur Entscheidung, ob Wiedergewinnung oder Loslassen."
 date: 2026-04-27
+image: "/images/blog/beziehung-offene-kommunikation-lernen.webp"
+imageAlt: "Verzeihen Lernen Beziehung Prozess"
 tags: ["Heilung", "Beziehung", "Kommunikation"]
 keywords: ["verzeihen lernen", "verzeihen prozess", "partner verzeihen schritte"]
 author: "sarah-kellner"

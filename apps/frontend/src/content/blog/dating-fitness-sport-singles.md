@@ -2,6 +2,8 @@
 title: "Dating für Fitness-Begeisterte: Sport-Singles im Gym, beim Lauftreff und auf Apps"
 description: "Dating für Fitness-Singles: Lauftreffs, Gym-Etikette und Sport-Apps wie Strava als soft Flirt. Wo Sport-Begeisterte den richtigen Partner finden."
 date: 2026-04-27
+image: "/images/blog/online-dating-profiltipps-2024.webp"
+imageAlt: "Dating Fitness Sport Singles"
 tags:
   - "Dating"
   - "Lifestyle"

@@ -2,6 +2,8 @@
 title: "Beziehungs-Sabbatical: Was eine Pause der Liebe wirklich bringt (und ruiniert)"
 description: "Beziehungs-Sabbatical Guide: Pause vs. Trennung, klare Regeln, Erfolgsraten von rund 50 Prozent und die groessten Risiken einer Beziehungspause auf Zeit."
 date: 2026-04-27
+image: "/images/blog/online-dating-wiedereinstieg-nach-pause.webp"
+imageAlt: "Beziehungs Sabbatical Pause Paare"
 tags: ["Beziehung", "Heilung", "Lifestyle"]
 keywords: ["beziehungs sabbatical", "beziehung pause sinnvoll", "paar trennung auf zeit"]
 author: "sarah-kellner"

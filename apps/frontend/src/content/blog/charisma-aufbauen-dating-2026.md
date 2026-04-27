@@ -2,6 +2,8 @@
 title: "Charisma aufbauen: 8 Mikro-Verhalten die dich attraktiver machen (kein Pickup-BS)"
 description: "Charisma wissenschaftlich aufbauen: Olivia Fox Cabanes Power-Warmth-Presence-Triade, 8 Mikro-Habits und warum Charisma trainierbar ist."
 date: 2026-04-27
+image: "/images/blog/rizz-charisma-dating-ausstrahlung.webp"
+imageAlt: "Charisma Aufbauen Dating 2026"
 tags:
   - "Dating"
   - "Flirten"

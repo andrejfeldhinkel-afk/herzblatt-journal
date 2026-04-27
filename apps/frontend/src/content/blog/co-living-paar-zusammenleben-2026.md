@@ -2,6 +2,8 @@
 title: "Co-Living als Paar: Wenn ihr zu zweit in WG-aehnlichen Communities wohnt"
 description: "Co-Living-Communities boomen 2026 auch fuer Paare. Was Lovebnb, Mash und Co. bieten, welche Vorteile es gibt und wo die Risiken fuer eure Beziehung liegen."
 date: 2026-04-27
+image: "/images/blog/zusammenziehen-richtig-planen.webp"
+imageAlt: "Co Living Paar Zusammenleben 2026"
 tags:
   - "Beziehung"
   - "Lifestyle"

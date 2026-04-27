@@ -2,6 +2,8 @@
 title: "Dating für Kreative: Wie Künstler, Schreibende und Designer ihren Soulmate finden"
 description: "Dating für Kreative: Vernissagen, Open-Mics und Workshops als Hotspots. Plus die unbequeme Wahrheit über zwei Kreative in einer Beziehung."
 date: 2026-04-27
+image: "/images/blog/kreative-date-ideen-dating-app.webp"
+imageAlt: "Dating Fuer Kreative Kuenstler"
 tags:
   - "Dating"
   - "Partnersuche"

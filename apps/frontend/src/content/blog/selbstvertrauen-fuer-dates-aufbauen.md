@@ -2,6 +2,8 @@
 title: "Selbstvertrauen für Dates: 9 Übungen die VOR dem Date passieren müssen"
 description: "Selbstvertrauen für Dates aufbauen mit 9 wissenschaftlich fundierten Übungen vor dem Date. Power-Posing, Affirmationen und Visualisierung gegen Nervositaet."
 date: 2026-04-27
+image: "/images/blog/dating-fuer-schuechterne.webp"
+imageAlt: "Selbstvertrauen Fuer Dates Aufbauen"
 tags: ["Dating", "Selbstliebe", "Psychologie"]
 keywords: ["selbstvertrauen date", "selbstbewusstsein dating", "vor dem date nervoes"]
 author: "sarah-kellner"

@@ -2,6 +2,8 @@
 title: "Blickkontakt beim Flirten: Die 3-Sekunden-Regel die wirklich funktioniert"
 description: "Blickkontakt beim Flirten richtig dosieren: Triangle-Gaze-Technik, 3-Sekunden-Regel und warum zu langes Starren creepy wirkt. Konkrete Anleitung."
 date: 2026-04-27
+image: "/images/blog/flirten-lernen.webp"
+imageAlt: "Blickkontakt Flirten Tipps"
 tags:
   - "Flirten"
   - "Dating"

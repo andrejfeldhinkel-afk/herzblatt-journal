@@ -2,6 +2,8 @@
 title: "Smalltalk beim Dating: 7 Saetze die NIE 'Wie war dein Tag?' sind"
 description: "Smalltalk beim Date richtig fuehren: FORD-Methode, konkrete Opener, Storytelling-Hooks und Active-Listening-Tipps die echte Gespraeche erzeugen."
 date: 2026-04-27
+image: "/images/blog/dating-app-gespraeche-vertiefen.webp"
+imageAlt: "Smalltalk Dating Lernen"
 tags:
   - "Dating"
   - "Kommunikation"

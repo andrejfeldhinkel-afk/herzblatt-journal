@@ -2,6 +2,8 @@
 title: "Dating für Akademiker: Wo Bildungs-Singles sich wirklich finden"
 description: "Dating für Akademiker: Welche Plattformen, Hotspots und Strategien funktionieren, wenn dir Bildung wichtig ist. Plus Klischee-Check und ehrliche Bildungs-Debatte."
 date: 2026-04-27
+image: "/images/blog/dating-muenchner-singles.webp"
+imageAlt: "Dating Fuer Akademiker Singles"
 tags:
   - "Dating"
   - "Partnersuche"
