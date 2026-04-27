@@ -488,5 +488,5 @@ Und wenn du von Grindr-Kultur genug hast oder etwas Ernsthafteres suchst, schau 
 ## Weiterführende Artikel
 
 - [LGBTQ+ Dating-Apps 2026: Der große Vergleich](/blog/lgbtq-dating-apps-vergleich)
-- [Coming-out und Dating: Tipps für den Einstieg](/blog/coming-out-dating-guide)
-- [PrEP und Dating: Was du wissen solltest](/blog/prep-dating-guide)
+- [Coming-out und Dating: Tipps für den Einstieg](/blog/dating-nach-coming-out-guide)
+- [PrEP und Dating: Was du wissen solltest](/blog/dating-safety-guide)

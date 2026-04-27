@@ -554,6 +554,6 @@ Pure ist keine App für jeden. Aber für die Menschen, die sie anspricht, ist si
 
 ## Weiterführende Artikel
 
-- [Hookup-Apps im Vergleich 2026](/blog/hookup-apps-vergleich)
-- [Anonyme Dating-Apps: Die besten Privacy-First-Plattformen](/blog/anonyme-dating-apps)
-- [Feeld vs Pure vs 3fun: Welche Nischen-App passt zu dir?](/blog/feeld-pure-3fun-vergleich)
+- [Hookup-Apps im Vergleich 2026](/blog/dating-apps-vergleich)
+- [Anonyme Dating-Apps: Die besten Privacy-First-Plattformen](/blog/dating-apps-vergleich)
+- Feeld vs Pure vs 3fun: Welche Nischen-App passt zu dir?

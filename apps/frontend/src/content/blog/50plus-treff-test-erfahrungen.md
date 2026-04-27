@@ -409,6 +409,6 @@ Wenn dir das Interface zu altmodisch ist, wenn du einen moderneren Look, kürzer
 
 ## Weiterführende Artikel
 
-- [Dating nach dem 60. — was sich wirklich ändert](/blog/dating-ab-60-ratgeber)
-- [Witwe/Witwer und neue Liebe — psychologischer Leitfaden](/blog/neue-liebe-nach-verlust)
-- [Love-Scamming erkennen: 12 Warnsignale](/blog/love-scamming-warnsignale)
+- [Dating nach dem 60. — was sich wirklich ändert](/blog/dating-ab-60-liebe-alter)
+- Witwe/Witwer und neue Liebe — psychologischer Leitfaden
+- Love-Scamming erkennen: 12 Warnsignale

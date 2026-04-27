@@ -110,7 +110,7 @@ Diese fünf Apps sind entweder **komplett gratis** oder bieten eine Gratis-Versi
 - **Nachteile**: Oldschool-Design, mehr Fakes als bei bezahlten Apps, Werbung nervt
 - **Am besten für**: Menschen, die Online-Dating ausprobieren wollen, ohne Geld zu investieren
 
-Lablue ist besonders stark im **ländlichen Raum** und bei **Ü40-Nutzern**. Die App ist nicht schön, aber sie funktioniert. Unser [Lablue-Erfahrungsbericht 2026](/blog/lablue-erfahrungen) zeigt alle Vor- und Nachteile im Detail.
+Lablue ist besonders stark im **ländlichen Raum** und bei **Ü40-Nutzern**. Die App ist nicht schön, aber sie funktioniert. Unser [Lablue-Erfahrungsbericht 2026](/blog/lablue-test-erfahrungen) zeigt alle Vor- und Nachteile im Detail.
 
 ### 3.2 Finya (komplett gratis)
 
@@ -122,7 +122,7 @@ Lablue ist besonders stark im **ländlichen Raum** und bei **Ü40-Nutzern**. Die
 - **Nachteile**: Kleinere Community als Parship, weniger Premium-Feeling
 - **Am besten für**: Beziehungssuchende, die den Parship-Ansatz mögen, aber nicht 70 €/Monat zahlen wollen
 
-Finya ist besonders bei **Berufstätigen 30+** beliebt. Der Persönlichkeits-Test dauert 20 Minuten, liefert aber wirklich relevante Match-Vorschläge. Unser [Finya-Test 2026](/blog/finya-erfahrungen) vergleicht die App direkt mit Parship.
+Finya ist besonders bei **Berufstätigen 30+** beliebt. Der Persönlichkeits-Test dauert 20 Minuten, liefert aber wirklich relevante Match-Vorschläge. Unser [Finya-Test 2026](/blog/finya-test-erfahrungen) vergleicht die App direkt mit Parship.
 
 ### 3.3 LemonSwan (für Frauen kostenlos)
 
@@ -134,7 +134,7 @@ Finya ist besonders bei **Berufstätigen 30+** beliebt. Der Persönlichkeits-Tes
 - **Preis für Männer**: ab ca. 35 €/Monat (12-Mo.-Abo)
 - **Am besten für**: Frauen, die Parship-Qualität ohne Kosten wollen / Männer, die in hochwertiger Community suchen
 
-Für Frauen ist LemonSwan 2026 **eine der attraktivsten Optionen überhaupt** — hohe Qualität, verifizierte Männer, keine Spam-Nachrichten, und das alles kostenlos. Unser [LemonSwan-Review](/blog/lemonswan-erfahrungen) zeigt, ob das System wirklich funktioniert.
+Für Frauen ist LemonSwan 2026 **eine der attraktivsten Optionen überhaupt** — hohe Qualität, verifizierte Männer, keine Spam-Nachrichten, und das alles kostenlos. Unser [LemonSwan-Review](/blog/lemonswan-test-erfahrungen) zeigt, ob das System wirklich funktioniert.
 
 ### 3.4 Bumble (Basics gratis)
 
@@ -158,7 +158,7 @@ Bumble ist besonders in **Berlin, München, Hamburg, Köln** stark. Auf dem Land
 - **Nachteile**: Kleinere Community als Tinder/Bumble
 - **Am besten für**: Junge Singles, die eine ehrliche Gratis-Alternative suchen
 
-Mehr Details zu WhatsMeet findest du in unserem [WhatsMeet-Test 2026](/blog/whatsmeet-erfahrungen) — inklusive Community-Check und Feature-Vergleich.
+Mehr Details zu WhatsMeet findest du in unserem [WhatsMeet-Test 2026](/blog/whatsmeet-test-erfahrungen) — inklusive Community-Check und Feature-Vergleich.
 
 ---
 
@@ -181,7 +181,7 @@ Schauen wir uns die andere Seite an: die **Premium-Apps, bei denen ohne Abo gar 
 
 **Das Problem**: Die Preise wirken wie ein psychologischer Trick — je länger die Laufzeit, desto günstiger pro Monat, aber desto höher die Gesamtsumme. Wer sich für 24 Monate bindet, zahlt **718 €** — das ist mehr als ein gutes Fahrrad oder ein MacBook.
 
-Ist Parship das Geld wert? Lies unseren ehrlichen [Parship-Test & Alternativen](/blog/parship-alternativen) — wir vergleichen direkt mit LemonSwan und MichVerlieben.
+Ist Parship das Geld wert? Lies unseren ehrlichen Parship-Test & Alternativen — wir vergleichen direkt mit LemonSwan und MichVerlieben.
 
 ### 4.2 Tinder — Gold, Platinum und Select
 
@@ -197,7 +197,7 @@ Tinder hat 2025 die Tier-Struktur komplexer gemacht. Aktuell gibt es **fünf Zah
 
 **Preis-Problem**: iOS-Nutzer zahlen oft 30 % mehr. Über-30-Jährige zahlen in manchen Ländern das Doppelte wie Jüngere. Tinder-Preise sind **nicht konstant** — sie schwanken saisonal und personalisiert.
 
-Mehr Infos in unserem [Tinder-Alternativen-Ratgeber](/blog/tinder-alternativen).
+Mehr Infos in unserem Tinder-Alternativen-Ratgeber.
 
 ### 4.3 Hinge — Premium ab 29 €
 
@@ -373,7 +373,7 @@ Nicht alle Premium-Modelle sind fies. Einige Apps haben 2026 **faire, intelligen
 
 **Nachteil**: Bei intensiver Nutzung kann es teurer werden als ein fixes Monats-Abo.
 
-Mehr Infos in unserem [xLoves-Test 2026](/blog/xloves-erfahrungen) — inklusive konkreter Beispielrechnungen.
+Mehr Infos in unserem [xLoves-Test 2026](/blog/xloves-test-erfahrungen) — inklusive konkreter Beispielrechnungen.
 
 ### MichVerlieben: 3-Tier-Modell mit klarem Gegenwert
 
@@ -458,7 +458,7 @@ Wer diesen Plan befolgt, **spart im Schnitt 400–600 € pro Jahr** und hat bes
 
 ### Unsere klare Alternative-Empfehlung: MichVerlieben
 
-Wenn du ernsthaftes Dating suchst, aber **nicht 70 € pro Monat für Parship** ausgeben willst, ist unsere klare Empfehlung 2026: **[MichVerlieben](/blog/michverlieben-erfahrungen)** — die deutsche Premium-Alternative mit besserem Preis-Leistungs-Verhältnis.
+Wenn du ernsthaftes Dating suchst, aber **nicht 70 € pro Monat für Parship** ausgeben willst, ist unsere klare Empfehlung 2026: **[MichVerlieben](/blog/michverlieben-test-erfahrungen)** — die deutsche Premium-Alternative mit besserem Preis-Leistungs-Verhältnis.
 
 **Warum MichVerlieben statt Parship?**
 - **Preis**: 24,90 €/Monat statt 69,90 € — fast 65 % günstiger
@@ -467,7 +467,7 @@ Wenn du ernsthaftes Dating suchst, aber **nicht 70 € pro Monat für Parship** 
 - **Flexibilität**: Monatlich kündbar, kein 12-Monats-Zwang
 - **Community**: Berufstätige 30+, ähnliche Zielgruppe wie Parship, aber authentischer
 
-Dazu als perfekte Ergänzung **[xLoves](/blog/xloves-erfahrungen)** für Pay-per-Use-Dating ohne Abo-Bindung — ideal, wenn du nur punktuell aktiv sein willst.
+Dazu als perfekte Ergänzung **[xLoves](/blog/xloves-test-erfahrungen)** für Pay-per-Use-Dating ohne Abo-Bindung — ideal, wenn du nur punktuell aktiv sein willst.
 
 **Kombi-Empfehlung**:
 - **Frauen**: LemonSwan (gratis) + MichVerlieben Plus (14,90 €) = 14,90 €/Mo für Premium-Dating
@@ -493,14 +493,14 @@ Du willst alle Optionen im direkten Vergleich sehen? Schau in unsere **Top-Liste
 **Du willst mehr erfahren?** Lies unsere weiteren Ratgeber:
 
 - [Bumble-Test & Erfahrungen 2026](/blog/bumble-test-erfahrungen) — die Women-First-App im Detail
-- [Parship-Alternativen](/blog/parship-alternativen) — günstigere Premium-Optionen
-- [Finya-Erfahrungen](/blog/finya-erfahrungen) — das kostenlose Parship im Test
-- [Lablue-Erfahrungen](/blog/lablue-erfahrungen) — Deutschlands ältestes Gratis-Portal
-- [LemonSwan-Erfahrungen](/blog/lemonswan-erfahrungen) — kostenlos für Frauen
-- [Tinder-Alternativen](/blog/tinder-alternativen) — bessere Apps als Tinder
-- [xLoves-Erfahrungen](/blog/xloves-erfahrungen) — Pay-per-Use-Dating
-- [MichVerlieben-Erfahrungen](/blog/michverlieben-erfahrungen) — die deutsche Premium-Alternative
-- [WhatsMeet-Erfahrungen](/blog/whatsmeet-erfahrungen) — junge Gratis-Community
+- Parship-Alternativen — günstigere Premium-Optionen
+- [Finya-Erfahrungen](/blog/finya-test-erfahrungen) — das kostenlose Parship im Test
+- [Lablue-Erfahrungen](/blog/lablue-test-erfahrungen) — Deutschlands ältestes Gratis-Portal
+- [LemonSwan-Erfahrungen](/blog/lemonswan-test-erfahrungen) — kostenlos für Frauen
+- Tinder-Alternativen — bessere Apps als Tinder
+- [xLoves-Erfahrungen](/blog/xloves-test-erfahrungen) — Pay-per-Use-Dating
+- [MichVerlieben-Erfahrungen](/blog/michverlieben-test-erfahrungen) — die deutsche Premium-Alternative
+- [WhatsMeet-Erfahrungen](/blog/whatsmeet-test-erfahrungen) — junge Gratis-Community
 
 Und denk dran: **Die beste Dating-App ist die, auf der du dich wohl fühlst — nicht die, die dir am meisten Geld aus der Tasche zieht.** Viel Erfolg beim Daten!
 

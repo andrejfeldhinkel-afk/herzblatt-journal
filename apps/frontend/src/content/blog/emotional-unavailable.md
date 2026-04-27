@@ -65,7 +65,7 @@ Das Alltagsgefühl, das entsteht, ist unverkennbar: Du investierst mehr Energie 
 
 ### „Wenn ich ihm genug zeige, wird er sich öffnen"
 
-Das ist der häufigste und schmerzhafteste Denkfehler. Emotionale Unverfügbarkeit ist kein Defizit, das du durch dein Geben ausgleichen kannst. Im Gegenteil: Wer einen vermeidenden Partner mit Intensität „bearbeitet", verstärkt oft den Rückzug. Mehr zu diesem Muster in unserem Artikel [Ängstlicher Bindungsstil trifft vermeidender Bindungsstil](/blog/bindungsstile/) (falls noch nicht verfügbar, bald verlinkt).
+Das ist der häufigste und schmerzhafteste Denkfehler. Emotionale Unverfügbarkeit ist kein Defizit, das du durch dein Geben ausgleichen kannst. Im Gegenteil: Wer einen vermeidenden Partner mit Intensität „bearbeitet", verstärkt oft den Rückzug. Mehr zu diesem Muster in unserem Artikel [Ängstlicher Bindungsstil trifft vermeidender Bindungsstil](/blog/bindungsstile-dating) (falls noch nicht verfügbar, bald verlinkt).
 
 ### „Wenn er Kinder bekommt / heiratet / umzieht, ändert sich das"
 

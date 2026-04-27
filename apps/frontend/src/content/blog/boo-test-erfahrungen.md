@@ -544,6 +544,6 @@ Boo ist eine **erfrischend anders gebaute Dating-App**, die sich bewusst vom Tin
 
 ## Weiterführende Artikel
 
-- [MBTI und Beziehungen: Welche Typen passen zusammen?](/blog/mbti-beziehungen-kompatibilitaet)
-- [Dating-Apps für Introvertierte: Die 7 besten Alternativen zu Tinder](/blog/dating-apps-introvertierte)
-- [Persönlichkeits-Dating: Lohnt sich Matching nach Typ wirklich?](/blog/persoenlichkeits-dating-ratgeber)
+- MBTI und Beziehungen: Welche Typen passen zusammen?
+- [Dating-Apps für Introvertierte: Die 7 besten Alternativen zu Tinder](/blog/dating-introvertierte)
+- [Persönlichkeits-Dating: Lohnt sich Matching nach Typ wirklich?](/blog/schwules-dating-ratgeber)

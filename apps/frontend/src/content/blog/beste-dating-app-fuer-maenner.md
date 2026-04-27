@@ -802,12 +802,12 @@ Viel Erfolg. Und wenn du Fragen hast: ich lese jede Kommentar-Mail.
 
 - [Online-Dating-Guide 2026: Von der Anmeldung bis zum Date](/online-dating-guide)
 - [Dating-App-Bio schreiben: Beispiele für mehr Matches](/blog/dating-app-bio-schreiben)
-- [Profilfotos für Männer: Was 2026 wirklich funktioniert](/blog/profilfotos-maenner-dating)
+- [Profilfotos für Männer: Was 2026 wirklich funktioniert](/blog/dating-fehler-maenner)
 - [Erste Nachricht schreiben: 12 Opener, die Antworten bringen](/blog/erste-nachricht-dating-app)
 - [Erstes Date planen: Location, Gesprächsthemen, No-Gos](/erstes-date-guide)
 - [Flirten lernen: Die besten Techniken für Männer 2026](/flirten-lernen-guide)
 - [Wie erkenne ich meinen Bindungsstil?](/bindungsstile)
-- [Ghosting verstehen und damit umgehen](/blog/ghosting-umgang)
+- Ghosting verstehen und damit umgehen
 
 ---
 

@@ -549,6 +549,6 @@ Wenn dir das Frucht-Konzept zu spielerisch ist und du lieber direkt, klar und oh
 
 ## Weiterführende Artikel
 
-- [Dating-Apps für Gen Z: Die besten Plattformen 2026](/blog/dating-apps-gen-z-2026)
-- [Intention-Based Dating: Warum Klarheit 2026 alles ist](/blog/intention-based-dating)
-- [Bumble vs. Fruitz: Welche App der Bumble-Gruppe passt zu dir?](/blog/bumble-vs-fruitz)
+- [Dating-Apps für Gen Z: Die besten Plattformen 2026](/blog/beste-dating-apps-2026)
+- Intention-Based Dating: Warum Klarheit 2026 alles ist
+- [Bumble vs. Fruitz: Welche App der Bumble-Gruppe passt zu dir?](/blog/bumble-vs-tinder)

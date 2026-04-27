@@ -537,7 +537,7 @@ Für die breitere Marktübersicht zu allen relevanten Dating-Portalen schau auch
 - **Verdächtige Profile sofort melden** — gute Plattformen reagieren darauf binnen Stunden.
 - **Bei konkretem Verdacht: Verbraucherzentrale und Polizei informieren.** Je früher, desto besser.
 
-Für eine vertiefte Sicherheits-Checkliste lies auch unseren [Love-Scamming-Ratgeber](/blog/love-scamming-erkennen) (falls Bedarf besteht) oder unsere allgemeine Übersicht zu [Top Dating-Seiten 2026](/top-dating-seiten), wo wir Sicherheits-Features pro Anbieter aufdröseln.
+Für eine vertiefte Sicherheits-Checkliste lies auch unseren [Love-Scamming-Ratgeber](/blog/love-bombing-erkennen) (falls Bedarf besteht) oder unsere allgemeine Übersicht zu [Top Dating-Seiten 2026](/top-dating-seiten), wo wir Sicherheits-Features pro Anbieter aufdröseln.
 
 ---
 

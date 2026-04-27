@@ -442,6 +442,6 @@ Wenn du lieber eine **moderne, aktive Plattform** willst, bei der du nicht durch
 
 ## Weiterführende Artikel
 
-- [Singlebörse ab 40: Die besten Plattformen im Vergleich](/blog/singleboerse-ab-40)
-- [Partnersuche ab 35: Was wirklich funktioniert](/blog/partnersuche-ab-35)
-- [Dating-Plattformen-Vergleich 2026: Singlebörse oder App?](/blog/dating-plattformen-vergleich-2026)
+- [Singlebörse ab 40: Die besten Plattformen im Vergleich](/blog/dating-ab-40)
+- Partnersuche ab 35: Was wirklich funktioniert
+- [Dating-Plattformen-Vergleich 2026: Singlebörse oder App?](/blog/dating-app-vergleich-2026)

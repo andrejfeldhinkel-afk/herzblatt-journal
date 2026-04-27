@@ -564,6 +564,6 @@ Als Psychologin schätze ich besonders die **klare Intentionalität** der Plattf
 
 ## Weiterführende Artikel
 
-- [Muslim-Dating in Deutschland: Zwischen Tradition und App-Zeitalter](/blog/muslim-dating-deutschland)
-- [Halal-Dating erklärt: Was bedeutet das wirklich?](/blog/halal-dating-guide)
-- [Interkulturelle Beziehungen: Chancen und Herausforderungen](/blog/interkulturelle-beziehungen)
+- [Muslim-Dating in Deutschland: Zwischen Tradition und App-Zeitalter](/blog/dating-statistiken-deutschland)
+- [Halal-Dating erklärt: Was bedeutet das wirklich?](/blog/dating-safety-guide)
+- [Interkulturelle Beziehungen: Chancen und Herausforderungen](/blog/interkulturelle-beziehungen-tipps)
