@@ -315,10 +315,16 @@ const faqSchema = faq.length > 0 ? {
   <meta name="twitter:description" content={description} />
   <meta name="twitter:image" content={fullImageURL} />
 
-  <!-- Canonical & Language -->
+  <!-- Canonical -->
   <link rel="canonical" href={canonicalURL} />
-  <link rel="alternate" hreflang="de" href={canonicalURL} />
-  <link rel="alternate" hreflang="x-default" href={canonicalURL} />
+  {/*
+    hreflang entfernt: Site ist single-language (nur DE). Google empfiehlt
+    KEIN hreflang bei single-language sites. Vorher hatten wir hreflang="de"
+    UND hreflang="x-default" auf der GLEICHEN URL, was Semrush als 2,562
+    Konflikte erkannt hat (jeder de↔x-default-Pair = "competing translation").
+    Ein einziges canonical reicht für Google.
+  */}
+  <meta http-equiv="content-language" content="de-DE" />
   {noindex
     ? <meta name="robots" content="noindex, nofollow" />
     : <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
