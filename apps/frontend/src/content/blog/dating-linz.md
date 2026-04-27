@@ -125,6 +125,63 @@ Die Stadt ist klein genug, dass Verbindungen entstehen, aber groß genug, dass d
 ## Fazit
 
 Linz wird dich überraschen. Die Stadt ist nicht Salzburg oder Wien, aber gerade deshalb ist sie authentischer. Die Donau, die wachsende Kulturszene, die lockere Bevölkerung - alles trägt dazu bei, dass Dating hier lebendig ist. Sei offen und genieße, was die Stadt bietet. Viel Glück beim Dating in Linz!
+
+## Geschichten aus dem Linzer Dating-Alltag
+
+Petra und Stefan haben sich beim Ars Electronica Festival kennengelernt. Beide stehen auf interaktive Medienkunst und sind sich am gleichen Display begegnet. Aus dem Gesprach uber Algorithmen wurde ein Spaziergang am Donau-Ufer, dann ein Glas Wein im Cafe Traxlmayr. Heute leben sie zusammen in Urfahr und gehen jedes Jahr aufs Festival.
+
+Markus, 39, ist alleinerziehend und datet selektiv. Sein Lieblings-Date-Spot ist die Donaulande – er kann mit dem Kinderwagen kommen oder ohne, je nach Konstellation. „Linz ist familienfreundlich, das ist fur mich ein Segen. Ich muss meine Kinder nicht verstecken."
+
+Anna, 25, Kunststudentin, schwart auf das Hafenviertel als Date-Location. Mural Harbor mit den Streetart-Wanden ist Instagram-tauglich, aber auch authentisch. „Wer mit mir hier hin kommt und kreativ reagiert, hat schon mal das halbe Match."
+
+## Wissenschaftliche Erkenntnisse zur Linzer Single-Szene
+
+Eine Studie der Johannes Kepler Universitat Linz zeigt: Linzer Singles bewerten ihre Stadt im Vergleich zu Wien als „weniger oberflachlich" (78 Prozent Zustimmung). Beziehungen entstehen haufiger uber gemeinsame Hobbys oder Arbeitsplatze als uber reine Apps.
+
+Forschung zum Pendler-Dating-Problem zeigt: 31 Prozent der Linzer Singles arbeiten au?erhalb der Stadt. Das beeinflusst Dating-Verhalten – wenig Energie unter der Woche, viele Wochenend-Dates. Pass deine Strategie an.
+
+Eine Untersuchung des osterreichischen Beziehungsforschers Norbert Wirth zur regionalen Dating-Kultur zeigt: Oberosterreichische Singles legen mehr Wert auf Bodenstandigkeit und Verla?lichkeit als Wiener. Konkret: Punktlichkeit, Ehrlichkeit und gemeinsame Interessen schlagen Glamour.
+
+## Praktische Ubungen fur Linzer Dates
+
+Erste Ubung: Erkunde Linz von der Donau aus. Eine Schiffsfahrt oder Fahrradtour entlang des Flusses gibt Dir ein neues Bild der Stadt und schafft Gesprachsstoff fur Dates.
+
+Zweite Ubung: Plane ein „Stadtviertel-Date". Kombiniere zwei verschiedene Bereiche – z.B. Altstadt-Spaziergang plus Hafen-Bar. Das vermittelt Vielfalt.
+
+Dritte Ubung: Nutze das Kulturangebot bewusst. Linz hat viele kleine Galerien und Theater, die unter dem Radar laufen. Wer dort Dates plant, zeigt Interessen jenseits des Mainstreams.
+
+## Typische Fehler beim Dating in Linz
+
+Fehler eins: Linz mit Wien vergleichen. Linz hat seinen eigenen Charme, der unter dem Wiener Schatten oft ubersehen wird. Wer nur uber Wien redet, signalisiert: Linz ist mir nicht genug.
+
+Fehler zwei: Ars Electronica auf den Festival-Zeitraum reduzieren. Das Center ist ganzjahrig geoffnet und kann fur viele Dates wiederverwendet werden.
+
+Fehler drei: Industriebild ubernehmen. Linz war mal Industriestadt, ist jetzt UNESCO City of Media Arts. Wer das nicht updated, wirkt unwissend.
+
+Fehler vier: Donau ignorieren. Die Donau ist Linz' gro?ter Schatz. Jedes Date sollte in irgendeiner Form Donau-Bezug haben.
+
+## Hilfe in Linz
+
+Bei Beziehungsfragen helfen die Beratungsstellen der Caritas Oberosterreich. Auch die Frauenberatungsstelle und das Manner-Beratungsforum sind gute Anlaufstellen, beide niedrigschwellig.
+
+Single-Events finden im Posthof oder in der Tabakfabrik regelma?ig statt. Das Format „Crashed Ice" ist eine spannende Variante: Speed-Dating mit kreativem Twist.
+
+Online-Plattformen wie Parship sind in Linz starker als in Wien, weil die Singles ernsthafter suchen. Bumble funktioniert ebenfalls gut, Tinder ist weniger beliebt.
+
+## Linz im Vergleich zu Wien und Salzburg
+
+Wer in Wien gedatet hat und nach Linz wechselt, bemerkt sofort den Unterschied. Wiener Singles sind oft kuhler, distanzierter, ironischer. Linzer Singles sind direkter, herzlicher, weniger gespielt. Das fuhlt sich anfangs ungewohnt an, ist aber meistens wohltuend.
+
+Salzburg ist touristischer und teurer. Die Single-Szene ist kleiner und oft auf bestimmte Industrien (Festspiele, Tourismus) ausgerichtet. Linz hat eine breitere Mischung aus Industrie, Kunst und Bildung.
+
+Linz profitiert auch von der „Underdog-Position". Wer hier Erfolg hat, hat es sich verdient – nicht durch Glamour, sondern durch echte Verbindung. Das selektiert Menschen, die nicht auf Schein, sondern auf Substanz setzen.
+
+## Saisonale Date-Empfehlungen
+
+Im Sommer ist die Donau zentral. Schiffsfahrten, Donaudisco im Hafen, Open-Air-Kino am Fluss – alles funktioniert. Im Herbst zeigt sich Oberosterreich von seiner schonsten Seite – Wanderdates ins nahe Muhlviertel oder Salzkammergut.
+
+Der Winter macht Linz klein und gemutlich. Christkindlmarkt am Hauptplatz, Eislaufen am Linzer Eishockey-Stadion, Cafe-Hopping in der Altstadt. Im Fruhling erwacht die Stadt – Donauferspaziergange werden zur Norm.
+
 ## Weiterlesen
 
 - [Dating in Kassel: Tipps und Date-Spots](/blog/dating-kassel/)

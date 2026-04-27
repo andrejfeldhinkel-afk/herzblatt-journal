@@ -66,7 +66,47 @@ Weitere Informationen findest du bei Neurologen und Psychiater im Netz: [Neurolo
 
 Mehr zum Thema erfährst du auf Psychologie Heute: [Psychologie Heute](https://www.psychologie-heute.de/)
 
-Digitale Eifersucht ist real, aber sie ist auch beherrschbar. Mit bewusstem Handeln, gegenseitigem Vertrauen und klaren Grenzen kannst du deine Beziehung vor dieser modernen Belastung schützen.## Weiterlesen
+Digitale Eifersucht ist real, aber sie ist auch beherrschbar. Mit bewusstem Handeln, gegenseitigem Vertrauen und klaren Grenzen kannst du deine Beziehung vor dieser modernen Belastung schützen.
+
+## Wenn Eifersucht in Stalking kippt
+
+Es gibt eine klare Grenze zwischen einer kurzen Unsicherheit und einem Verhalten, das du selbst nicht mehr kontrollieren kannst. Wenn du regelmäßig nachts auf das Profil deines Partners schaust, fremde Profile durchforstest oder heimlich Bildschirmzeiten und Standorte überprüfst, befindest du dich in einem **Kontrollkreis**, der dich krank macht. Genauso, wenn du jeden Like dokumentierst oder Screenshots sammelst, um sie später als Beweisstück einzusetzen.
+
+In diesen Phasen hilft es, dir selbst eine Grenze zu setzen, die nichts mit deinem Partner zu tun hat. Ein einfacher Trick: Lege dein Handy für drei Stunden außerhalb deiner Reichweite ab und beobachte, wie sich die Anspannung verändert. Oft verschwindet sie in den ersten Tagen schnell, weil der Auslöser nicht mehr ständig in der Hand liegt.
+
+## Die Rolle von Algorithmen verstehen
+
+Viele Menschen reagieren eifersüchtig auf Inhalte, die der Algorithmus gar nicht zufällig zeigt. Wenn dein Partner einer Person folgt, taucht ihr Content immer wieder oben auf – auch wenn er gar nicht aktiv interagiert. Wenn du das siehst, denkst du, er beschäftigt sich intensiv mit dieser Person, dabei ist es schlicht eine Folge der Empfehlungslogik.
+
+Sich diese **technische Realität** klarzumachen, entlastet erstaunlich oft. Ein Like ist kein Liebesbrief. Eine Story-Ansicht ist kein Geheimnis. Algorithmen kuratieren Aufmerksamkeit, ohne dass dein Partner aktiv darüber entscheidet. Diese Information ändert nicht alles, aber sie verschiebt den Blickwinkel.
+
+## Selbstwert pflegen statt Beziehung kontrollieren
+
+Digitale Eifersucht ist häufig ein Symptom, kein Kernproblem. Wer sich auf seinen Selbstwert verlässt, klickt automatisch weniger auf das Profil der Ex. Wer in seinem eigenen Leben gerade stagniert, sucht öfter Bestätigung im Vergleich mit anderen. Das ist menschlich, aber es ist auch lösbar.
+
+Investiere bewusst Zeit in Aktivitäten, die dir ein Gefühl von Selbstwirksamkeit geben. Sport, Lernen, kreative Projekte, Treffen mit Freund:innen ohne Smartphone. Je voller dein eigenes Leben wird, desto kleiner wirken die digitalen Schatten anderer Menschen.
+
+## Gemeinsame Social-Media-Hygiene
+
+Paare, die digitale Eifersucht reduzieren wollen, profitieren von **gemeinsamen Regeln** statt von einseitigen Verboten. Setzt euch zusammen und überlegt: Welche Apps öffnen wir abends überhaupt noch? Wann liegt das Handy beim Essen weg? Welche Form von Kommentaren auf Profilen anderer ist für uns okay, welche nicht?
+
+Wichtig: Diese Regeln sollen euch beide entlasten, nicht einen Partner überwachen. Ein gutes Beispiel ist die Vereinbarung, **direkte Nachrichten an Ex-Partner** transparent zu halten, ohne dass jeder das Postfach des anderen kontrolliert. So entsteht Vertrauen, ohne Misstrauen zu zementieren.
+
+## Eifersucht als Botschaft an dich selbst
+
+Statt Eifersucht zu unterdrücken, kannst du sie als **Hinweis auf ein eigenes Bedürfnis** lesen. Eifersüchtig auf eine bestimmte Person? Vielleicht erinnert sie dich an Eigenschaften, die du dir selbst wünschst. Eifersüchtig auf eine bestimmte Situation? Vielleicht fehlt dir genau diese Form von Aufmerksamkeit oder Leichtigkeit aktuell in deiner Beziehung.
+
+Wenn du diesen Schritt der Übersetzung schaffst, wird Eifersucht zu einem Werkzeug der Selbsterkenntnis. Du kannst dann gezielt Gespräche führen wie: „Ich merke, dass mir gerade unbeschwerte Zeit zu zweit fehlt – können wir am Wochenende etwas Schönes planen?" Das verändert die Dynamik dramatisch, weil ein Bedürfnis Ausdruck findet, statt sich in Vorwürfen zu entladen.
+
+## Wenn die Eifersucht aus alten Wunden kommt
+
+Manchmal hat die digitale Eifersucht wenig mit der aktuellen Beziehung zu tun. Sie ist dann eher ein Echo früherer Vertrauensbrüche – durch eine Untreue, durch Eltern, die unzuverlässig waren, oder durch frühe Erfahrungen mit emotionaler Distanz. In diesen Fällen reicht keine Social-Media-Strategie. Was hilft, ist eine ernsthafte Auseinandersetzung mit der eigenen Geschichte, gerne im Rahmen einer Therapie. Dort lassen sich die alten Schichten benennen und entkoppeln, sodass dein heutiger Partner nicht stellvertretend bestraft wird für etwas, das er nie getan hat.
+
+## Praktische Übung für die nächsten 7 Tage
+
+Wenn du das Gefühl hast, dass digitale Eifersucht gerade Oberhand gewinnt, probiere folgende Sieben-Tage-Übung. Schreibe jeden Abend drei Sätze auf: Was hat mich heute online getriggert? Wie habe ich reagiert? Welche Reaktion wäre mir bewusster lieber gewesen? Diese Mini-Bilanz erzeugt Distanz zwischen Reiz und Reaktion und gibt dir innerhalb einer Woche ein klares Muster deiner persönlichen Auslöser.
+
+## Weiterlesen
 
 - [Offene Kommunikation in der Beziehung: Der komplette Guide](/blog/beziehung-offene-kommunikation-lernen/)
 - [Introvertiert liebt Extrovertiert: Wie gegensätzliche Paare](/blog/beziehung-introvertiert-extrovertiert-paar/)

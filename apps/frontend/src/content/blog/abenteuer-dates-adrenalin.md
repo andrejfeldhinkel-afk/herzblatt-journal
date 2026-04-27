@@ -14,17 +14,18 @@ keywords:
   - Date-Ideen
   - Aktivitäten
   - Psychologie
-faq:
-  - question: "Was sind gute Date-Ideen?"
-    answer: "Gemeinsame Aktivitäten wie Kochen, Wandern oder Museumsbesuche schaffen Verbindung und Gesprächsstoff."
-  - question: "Was macht ein gutes Date aus?"
-    answer: "Eine entspannte Atmosphäre, echtes Interesse aneinander und genug Zeit zum Reden. Weniger Planung ist oft mehr."
-  - question: "Welche Dates eignen sich zum Kennenlernen?"
-    answer: "Kurze, lockere Treffen wie Kaffee oder Spaziergang eignen sich am besten. So könnt ihr euch ohne Druck beschnuppern."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was sind Abenteuer-Dates und warum staerken sie die Bindung?"
+    answer: "Abenteuer-Dates sind aufregende Aktivitaeten wie Klettern oder Kajak. Adrenalin schafft gemeinsame Erinnerungen und Naehe."
+  - question: "Wie erkenne ich, ob ein Date Abenteuer-Charakter hat?"
+    answer: "Wenn du leicht nervoes wirst und ihr euch aus der Komfortzone bewegt, ist es ein echtes Abenteuer-Date."
+  - question: "Ist es normal, wenn man sich beim Abenteuer-Date unsicher fuehlt?"
+    answer: "Ja, Unsicherheit gehoert dazu. Genau dieses Gefuehl ist es, das die Verbindung zu deinem Partner vertieft."
+  - question: "Wann sollte ich ein Abenteuer-Date lieber meiden?"
+    answer: "Wenn einer von euch grosse Aengste hat oder gesundheitlich nicht fit ist, waehle eine sanftere Variante."
 ---
-
 
 ## Abenteuer-Dates: Adrenalin stärkt die Bindung
 

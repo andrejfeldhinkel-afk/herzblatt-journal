@@ -121,7 +121,43 @@ Du verdienst Unterstützung und Liebe.
 
 ## Was bleibt: Psychische Gesundheit ist nicht deine Schuld
 
-Deine Depression, Angststörung, oder andere psychische Probleme sind nicht deine Schuld. Es ist auch nicht deine Beziehung Schuld. Was DEINE Schuld ist, ist Hilfe zu suchen und offen zu sein mit deinem Partner. Mit diesen Dingen, können glückliche Beziehungen neben psychischer Gesundheit bestehen.## Weiterlesen
+Deine Depression, Angststörung, oder andere psychische Probleme sind nicht deine Schuld. Es ist auch nicht deine Beziehung Schuld. Was DEINE Schuld ist, ist Hilfe zu suchen und offen zu sein mit deinem Partner. Mit diesen Dingen, können glückliche Beziehungen neben psychischer Gesundheit bestehen.
+
+## Die Statistik – warum du nicht allein bist
+
+In Deutschland leiden laut Robert-Koch-Institut etwa 27 Prozent der Erwachsenen jedes Jahr unter einer psychischen Erkrankung. Das heißt: In jeder vierten Beziehung kämpft mindestens ein Partner zeitweise mit einer Diagnose. Du bist also nicht ungewöhnlich – Du gehörst zu einer riesigen, meist unsichtbaren Mehrheit.
+
+Studien zeigen, dass Beziehungen die Heilung deutlich beschleunigen können – wenn sie gesund sind. Eine Metaanalyse von 2019 fand: Menschen mit unterstützenden Partnern erholten sich von Depressionen im Schnitt 30 Prozent schneller. Aber: Beziehungen können den Verlauf auch verschlechtern, wenn sie konfliktreich oder destabilisierend sind. Beziehung ist nicht Therapie – sie ist Kontext.
+
+## Konkretes Beispiel: Mira und Jens
+
+Mira lebte seit ihrem 24. Lebensjahr mit wiederkehrenden depressiven Episoden. Als sie Jens kennenlernte, sagte sie ihm beim dritten Date: „Du musst wissen – ich habe Depressionen. Manchmal bin ich für Wochen kaum ansprechbar. Wenn das ein Problem für Dich ist, sag es jetzt." Jens dankte ihr für die Offenheit. Er hatte selbst eine alkoholkranke Mutter erlebt – emotionale Krankheiten waren ihm nicht fremd.
+
+In der ersten depressiven Episode, sechs Monate später, machte Jens einen Fehler. Er versuchte, Mira aufzumuntern, plante Dinge, drückte zur Aktivität. Mira reagierte mit Rückzug. In Therapie lernte Jens, was sie wirklich brauchte: Anwesenheit ohne Druck. „Ich bin da, wenn Du willst." Filme zusammen schauen, ohne reden. Essen kochen, ohne zu fragen, ob sie isst. Schlafen lassen, ohne Vorwurf.
+
+Heute, sechs Jahre später, sind sie verheiratet. Mira sagt: „Jens hat nicht meine Depression geheilt. Aber er hat mir eine sichere Basis gegeben, von der aus ich sie behandeln konnte." Das ist die richtige Rolle des Partners – Basis, nicht Heiler.
+
+## Häufige Fehler
+
+Erstens: Der gesunde Partner versucht, den Therapeuten zu ersetzen. Ratschläge geben, Diagnosen stellen, Aktivitäten vorschreiben. Das ist gut gemeint, aber meist kontraproduktiv. Therapie ist eine professionelle Disziplin – Partner sind Partner, nicht Behandler.
+
+Zweitens: Der erkrankte Partner nutzt die Diagnose als Freibrief. „Ich habe halt Depressionen, daher kann ich nicht..." wird zur dauerhaften Ausrede. Das untergräbt die Beziehung. Diagnose erklärt – sie entschuldigt nicht alles.
+
+Drittens: Beide vermeiden offene Gespräche aus Angst. Der gesunde Partner traut sich nicht, ehrlich zu sein, weil er fürchtet, die Erkrankung zu triggern. Der erkrankte Partner traut sich nicht, eigene Bedürfnisse zu formulieren, aus Schuld. So entsteht ein Schweigeklima, das beide isoliert.
+
+Viertens: Der gesunde Partner vergisst die eigene Selbstpflege. Pflegen ohne Selbstpflege führt zu Burnout. Auch Du als Begleiter brauchst Therapie, Freundinnen, Auszeiten – sonst zerbrichst Du.
+
+## Praktische Übung: Der Sicherheits-Plan
+
+Erstellt gemeinsam in einer guten Phase einen schriftlichen Sicherheits-Plan für die nächste Krise. Wer wird in der akuten Phase angerufen – Therapeutin, Krisendienst, ein Freund? Welche Tätigkeiten helfen Mira erfahrungsgemäß – ein Spaziergang, ein bestimmtes Lied, eine Decke? Welche helfen nicht – aufmunternde Sprüche, Gespräche über Zukunft?
+
+Schreibt das auf, hängt es ans Kühlschrank. Wenn die Krise kommt, denkt niemand mehr klar. Der Plan trägt Euch durch. Ergänzt ihn nach jeder Episode mit neuen Erkenntnissen.
+
+## Wann professionelle Hilfe unverzichtbar ist
+
+Sofort, wenn Suizidgedanken auftauchen. Sofort, wenn Du oder Dein Partner Selbst- oder Fremdverletzungen plant. Sofort, wenn Alkohol oder Drogen zur einzigen Bewältigung werden. In Deutschland: Telefonseelsorge 0800 111 0 111 (rund um die Uhr, kostenlos), Krisendienst der Stadt (Notruf 112 bei akuter Lebensgefahr), oder eine psychiatrische Klinik aufsuchen.
+
+Auch ohne akute Krise: Suche Therapie, sobald die Symptome länger als zwei Wochen anhalten und den Alltag beeinträchtigen. Gesetzliche Krankenkassen übernehmen die Kosten – die Wartezeiten sind lang, aber Akut-Termine gibt es bei der Terminservicestelle (116 117). Onlinetherapie wie selfapy oder Hellobetter wird ebenfalls erstattet. Beziehungs- und Einzeltherapie können parallel laufen – das ist oft die wirksamste Kombination.## Weiterlesen
 
 - [ADHS und Beziehung: Der komplette Guide für Liebe mit](/blog/adhs-und-beziehung-komplett-guide/)
 - [Mental Load in der Beziehung: Die unsichtbare Last fair](/blog/emotional-load-beziehung-mental-load/)

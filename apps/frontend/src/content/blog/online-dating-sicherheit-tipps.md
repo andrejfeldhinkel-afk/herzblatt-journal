@@ -90,7 +90,55 @@ Wenn du einen Betrüger erkannt hast:
 
 Online-Dating ist nicht inhärent gefährlich – es erfordert nur Achtsamkeit und gesunden Menschenverstand. Mit diesen Tipps kannst du deutlich sicherer daten und dich auf das konzentrieren, was wichtig ist: echte Verbindungen zu echten Menschen.
 
-Viele Menschen finden auf Dating-Apps ihre Partner. Mit den richtigen Sicherheitsmaßnahmen kannst du es auch. Vertrau nicht zu schnell, aber schließ auch nicht völlig dein Herz. Das Gleichgewicht ist der Schlüssel zum erfolgreichen und sicheren Online-Dating.## Weiterlesen
+Viele Menschen finden auf Dating-Apps ihre Partner. Mit den richtigen Sicherheitsmaßnahmen kannst du es auch. Vertrau nicht zu schnell, aber schließ auch nicht völlig dein Herz. Das Gleichgewicht ist der Schlüssel zum erfolgreichen und sicheren Online-Dating.
+
+## Datenschutz auf dem Profil-Bild
+
+Profilbilder verraten oft mehr als gewollt. Achte darauf, dass im Hintergrund keine Hausnummern, Schilder, Firmenlogos oder Autokennzeichen sichtbar sind. Auch Geo-Tags in den Foto-Metadaten können den Standort verraten – schalte bei deinem Handy die Standort-Speicherung in Bildern ab oder bearbeite Bilder vor dem Upload.
+
+Vermeide ebenfalls Fotos, in denen du in Uniform, vor deinem Arbeitsplatz oder mit erkennbarem Mitarbeiterausweis zu sehen bist. Diese Details geben Betrüger:innen Munition, dich zu recherchieren und gezielt zu manipulieren. Ein klares, freundliches Porträt ohne überflüssige Ortsangaben ist die sicherste Wahl.
+
+## Verifizierung als Filter nutzen
+
+Viele Apps bieten Verifizierungs-Funktionen an – ein Selfie in einer bestimmten Pose, ein Video-Check oder ein Identitätsbeweis. Wer dieses Symbol auf seinem Profil hat, ist nachweislich der Mensch, der er behauptet zu sein. Filter deine Matches bevorzugt nach verifizierten Profilen. Auch wenn das die Auswahl reduziert, erhöht es die Qualität deutlich.
+
+Sei selbst verifiziert. Diese kleine Mühe sortiert dich automatisch in eine Gruppe, die ernsthaftes Interesse signalisiert. Menschen, die selbst verifiziert sind, sortieren häufig ebenfalls nach verifizierten Profilen – ein win-win.
+
+## Die ersten zwei Wochen: Was du nicht teilen solltest
+
+In den ersten zwei Wochen einer Online-Bekanntschaft gibt es Dinge, die du auf jeden Fall zurückhalten solltest. Vollständiger Nachname und Arbeitgeber. Genaue Wohnadresse oder Stadtviertel. Daily Routinen wie Joggingstrecken oder Fitnessstudio-Zeiten. Banking-Apps oder Finanzdaten. Krankenversicherungs- oder Personalausweisnummern.
+
+Diese Informationen sind keine Eintrittskarten zur Romantik, sondern Privatsphäre. Wer schnell darauf drängt, hat Hintergedanken oder versteht keine gesunden Grenzen. Beides ist ein Warnsignal.
+
+## Video-Call vor dem ersten Treffen
+
+Ein **kurzer Video-Call** vor dem ersten realen Treffen ist eine der besten Sicherheitsmaßnahmen. Du siehst, ob dein Gegenüber wirklich aussieht wie auf den Bildern, du hörst die Stimme und kannst grundlegend einschätzen, wie ihr miteinander redet. Wer Video-Calls grundsätzlich ablehnt, hat fast immer etwas zu verbergen.
+
+Schlage einen kurzen Call locker vor: „Lust, kurz vor unserem Treffen einen 10-Minuten-Video-Call zu machen, damit wir uns nicht ganz fremd am Café gegenübersitzen?" Eine entspannte Anfrage in diese Richtung wird von ehrlichen Interessent:innen meist freudig angenommen.
+
+## Dein Sicherheits-Check-in vor dem Date
+
+Vor jedem ersten realen Treffen, **informiere eine Vertrauensperson**. Schicke Namen, Profilbild, Treffpunkt und ungefähre Zeitspanne. Vereinbart einen Check-in: Eine kurze Nachricht von dir um eine bestimmte Uhrzeit, dass alles in Ordnung ist. Vereinbart auch ein Code-Wort, das im Zweifel bedeutet: Hol mich raus.
+
+Diese kleine Routine kostet nichts und erhöht deine Sicherheit deutlich. Es ist nicht paranoid – es ist die digitale Version dessen, was Menschen seit Jahrhunderten tun, wenn sie sich mit Fremden treffen. Übe das, bis es selbstverständlich wird.
+
+## Romance-Scams gezielt erkennen
+
+Romance-Scams folgen oft einem klaren Drehbuch. Tag 1-7: intensiver Liebeskontakt, schnelle Bekenntnisse. Tag 8-14: persönliche Geschichten, oft mit Tragik (kranke Mutter, Krieg, beruflicher Notfall). Tag 15-21: erste indirekte Hinweise auf finanzielle Probleme. Tag 22+: konkrete Bitte um Geld oder Hilfe.
+
+Wer dieses Muster erkennt, kann früh aussteigen. Die Person wird oft mit Geschichten kommen, die nicht überprüfbar sind – Soldat im Ausland, Ölplattform-Ingenieur, vermögender Geschäftsmann auf Reisen. All das sind Klassiker, die Misstrauen verdienen.
+
+## Wenn du selbst Opfer geworden bist
+
+Falls du bereits in einen Scam getappt bist, ist das kein Grund zur Scham. Diese Betrüger:innen sind professionell und arbeiten an deiner emotionalen Schwachstelle. Wende dich sofort an die Polizei und an deine Bank. Lasse Konten beobachten, ändere alle Passwörter, sichere Beweise.
+
+Sprich auch mit einer Vertrauensperson oder Therapeut:in darüber. Romance-Scams hinterlassen oft mehr emotionale Wunden als finanzielle. Diese Wunden brauchen Aufmerksamkeit und sind in der Regel mit professioneller Begleitung gut zu heilen.
+
+## Sicherheit als Routine, nicht als Misstrauen
+
+Sicherheitsmaßnahmen werden oft als Zeichen von Misstrauen missverstanden. Tatsächlich sind sie das Gegenteil: Wer klare Routinen pflegt, kann offener auf Menschen zugehen, weil das Risiko kalkulierbar ist. Verifiziertes Profil, Video-Call vor dem Treffen, geteilte Standortdaten mit Freund:innen, klares Code-Wort, kein Geld senden – wer diese Routinen verinnerlicht hat, datet entspannter und mit mehr echter Neugier. Sicherheit und Romantik schließen sich nicht aus, im Gegenteil: Erst die Sicherheit erlaubt der Romantik den Raum, in dem sie wachsen kann.
+
+## Weiterlesen
 
 - [Online-Dating Sicherheit: So schützt du dich beim](/blog/online-dating-sicherheit/)
 - [Die perfekten Profilfotos für Dating-Apps: So wirst du](/blog/dating-profile-fotos-tipps/)

@@ -6,17 +6,18 @@ date: 2025-11-02
 image: "/images/blog/beziehung-nach-depression-partner.webp"
 imageAlt: "Beziehung nach Depression: Gemeinsam zurück"
 tags: ["Gesundheit"]
-faq:
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
-  - question: "Kann ich die Tipps sofort umsetzen?"
-    answer: "Ja, unsere Ratgeber sind praxisnah geschrieben. Du findest konkrete Schritte, die du direkt in deinem Alltag anwenden kannst."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Wie ist es mit einem depressiven Partner zu leben?"
+    answer: "Es ist herausfordernd. Du brauchst Geduld, Selbstfuersorge und Wissen ueber die Erkrankung."
+  - question: "Wie erkenne ich, dass es uns ueberfordert?"
+    answer: "Wenn du selbst erschoepft bist, dich isolierst oder veraergert wirst, ist die Last zu gross."
+  - question: "Ist Distanz manchmal noetig?"
+    answer: "Ja, auch in der Liebe brauchst du eigene Resourcen. Selbstfuersorge ist kein Egoismus."
+  - question: "Wann sollten wir Hilfe holen?"
+    answer: "Sofort, denn Depression und Beziehung brauchen professionelle Unterstuetzung beider Seiten."
 ---
-
 ## Beziehung nach Depression: Wie du deinen Partner unterstützt – ohne dich selbst zu verlieren
 
 Dein Partner hat Depression. Oder er hatte eine und ist gerade dabei, daraus herauszukommen. Und jetzt fragst du dich: Wie mache ich das? Wie unterstütze ich jemanden, der depressiv ist, ohne mich selbst zu verlieren?

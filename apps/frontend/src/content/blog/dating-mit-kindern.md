@@ -61,7 +61,59 @@ Nutze auch [Dating-Tipps für Menschen nach Trennung](/blog/dating-nach-trennung
 
 ---
 
-**Weiterlesen:** Entdecke auch unsere [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-alleinerziehend-kompletter-leitfaden/), [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung).## Weiterlesen
+**Weiterlesen:** Entdecke auch unsere [Dating als Alleinerziehende/r: Liebe mit Kindern finden](/blog/dating-alleinerziehend-kompletter-leitfaden/), [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung).
+
+## Geschichten alleinerziehender Singles
+
+Sandra, 38, hat zwei Kinder und ist seit drei Jahren Single. Sie hat eine klare Strategie: Apps werden ausschlie?lich nach 21 Uhr genutzt, wenn die Kinder schlafen. Erste Treffen finden in einem Cafe in der Mittagspause oder am Wochenende beim Babysitter statt. Sie hat gelernt, ihre Zeit zu schutzen. Heute datet sie Markus, der selbst Vater ist – beide verstehen die Logistik.
+
+Tobias, 41, geschieden mit einem Sohn (8 Jahre), erzahlt: „Mein Sohn hat einmal meinen damaligen Date wahrend einer Wohnungs-Tour gesehen. Es war zu fruh. Er war verwirrt und ich war sauer auf mich selbst. Heute trenne ich Welten strikt – Date-Welt und Kinder-Welt – bis ich sicher bin, dass es ernst wird."
+
+Marie, 35, alleinerziehend mit Tochter (5), nutzt das Co-Parenting-Wochenende strategisch. Wenn ihr Ex die Tochter hat, plant sie intensive Date-Wochenenden. Wenn die Tochter da ist, ist Date-Pause. „Diese Trennung gibt mir Energie und meiner Tochter Sicherheit."
+
+## Wissenschaftliche Studien
+
+Eine Studie der Universitat Frankfurt zur Stieffamilien-Dynamik zeigt: Kinder brauchen mindestens sechs Monate, um sich an einen neuen Partner des Elternteils anzupassen. Wer fruher zusammenzieht, riskiert kindliche Stressreaktionen.
+
+Forschung der University of Cambridge zur Single-Parent-Dating-Situation belegt: Alleinerziehende Eltern, die offen uber ihre Situation kommunizieren, haben eine 43 Prozent hohere Erfolgsquote bei Online-Dating als solche, die es verstecken.
+
+Eine Untersuchung der Bertelsmann Stiftung zur Patchwork-Familie zeigt: 70 Prozent der Patchwork-Konstellationen funktionieren langfristig, wenn klare Regeln zu Erziehung und Rollenverteilung getroffen werden.
+
+## Praktische Ubungen
+
+Erste Ubung: Erstelle einen „Date-Slot-Plan". Schreib auf, wann Du wirklich Zeit fur Dates hast. Wochentag-Abende? Co-Parenting-Wochenenden? Diese Klarheit hilft Dir und potentiellen Partnern.
+
+Zweite Ubung: Definiere klare Phasen-Grenzen. Phase 1: Apps und erstes Treffen. Phase 2: Mehrere Dates ohne Kinder. Phase 3: Vorstellung im neutralen Setting. Phase 4: Integration in Familienalltag. Verlasse keine Phase, bevor die vorherige stabil ist.
+
+Dritte Ubung: Sprich offen mit deinen Kindern uber dein Recht auf Liebe. Altersgerecht, aber ehrlich. „Mama hat auch Bedurfnisse" ist eine wichtige Lektion fur Kinder.
+
+## Typische Fehler
+
+Fehler eins: Den neuen Partner zu fruh als „Ersatz-Elternteil" einsetzen. Kinder brauchen Stabilitat. Der neue Partner ist ein Gast in der Familie, nicht ein neuer Vater oder eine neue Mutter.
+
+Fehler zwei: Aus Schuldgefuhl auf Dating verzichten. Das fuhrt zu Frust, der sich auf die Kinder ubertragt. Glucklich sein ist kein Egoismus.
+
+Fehler drei: Den Ex als Dauerthema bei Dates auspacken. Dein Ex gehort zur Vergangenheit, nicht zum ersten Date. Halt Dich kurz und bewege Dich weiter.
+
+Fehler vier: Logistik unterschatzen. Babysitting, Schultermine, Krankheits-Tage – das alles braucht Planung. Sei vorbereitet.
+
+## Hilfe und Beratung
+
+Beratungsstellen fur Alleinerziehende findest Du beim Verband alleinerziehender Mutter und Vater (VAMV). Die haben Regionalgruppen mit Austausch und konkreten Tipps.
+
+Online-Plattformen speziell fur Alleinerziehende wie Match-Patch oder ParshipMeet funktionieren oft besser als Mainstream-Apps, weil das Vorab-Filtern entfallt.
+
+Bei Konflikten in der Patchwork-Phase hilft Familien- oder Paartherapie. Die Familienberatungsstellen der Caritas, Diakonie oder Pro Familia bieten oft kostenlose Erstgesprache.
+
+## Wenn der Ex-Partner mitspielt – oder nicht
+
+Co-Parenting macht Dating komplex. Wenn dein Ex die Existenz neuer Partner ablehnt, kann das zu Konflikten fuhren. Wichtig: Du musst nicht jede Beziehung mit dem Ex absprechen, aber Transparenz uber Personen, die mit den Kindern Kontakt haben, ist sinnvoll.
+
+Manchmal nutzt der Ex die Kinder als Hebel: „Wenn du diesen Mann triffst, sehe ich die Kinder nicht." Das ist Manipulation und gehort vor das Familiengericht. Lass dich nicht erpressen. Suche juristische Beratung bei VAMV oder einem Fachanwalt fur Familienrecht.
+
+Im besten Fall klappt Co-Parenting kooperativ. Beide Eltern akzeptieren neue Partner, sprechen offen mit den Kindern, und konkurrieren nicht. Das ist die Idealversion und schutzt die Kinder am besten.
+
+## Weiterlesen
 
 - [Dating in einer Patchwork-Familie: Neue Liebe, bestehende](/blog/patchwork-familie-dating/)
 - [Dating mit Behinderung: Liebe finden mit Authentizität](/blog/dating-mit-behinderung/)

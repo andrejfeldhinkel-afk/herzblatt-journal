@@ -10,15 +10,15 @@ imageAlt: "Neu anfangen nach einer Langzeitbeziehung"
 date: 2025-09-03
 author: "sarah-kellner"
 faq:
-  - question: "Wie übersteht man eine Trennung?"
-    answer: "Lass dir Zeit zum Trauern, halte Kontaktsperre ein, konzentriere dich auf dich selbst und suche Unterstützung bei Freunden oder professioneller Hilfe."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
-
+  - question: "Wie geht es nach Trennung aus Langzeitbeziehung?"
+    answer: "Es ist ein tiefer Einschnitt. Du verlierst nicht nur Partner, sondern oft auch Identitaet und Routinen."
+  - question: "Wie erkenne ich, dass ich die Trennung verarbeite?"
+    answer: "Wenn du wieder in den Alltag findest, dich selbst spuerst und nicht mehr nur traurig bist."
+  - question: "Ist langes Trauern normal?"
+    answer: "Ja, nach langen Beziehungen sind ein bis zwei Jahre normal. Druck schadet dem Prozess."
+  - question: "Wann sollte ich Hilfe holen?"
+    answer: "Wenn du feststeckst, nicht weitermachen kannst oder depressiv wirst, hilft Therapie."
 ---
-
 
 Neu anfangen nach einer Langzeitbeziehung
 

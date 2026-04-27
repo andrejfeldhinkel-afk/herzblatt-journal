@@ -18,14 +18,15 @@ keywords:
 - Emotionale Heilung
 - Vergangenheit
 faq:
-  - question: Kann eine neue Beziehung alte Verletzungen heilen?
-    answer: "Nein. Eine neue Beziehung wird deine alten Verletzungen nur aktivieren, wenn du sie nicht behandelst."
-  - question: Wie lange braucht es, um alte Verletzungen zu heilen?
-    answer: "'Das hängt von der Verletzung ab. Kleine: ein paar Monate. Große Traumata: Jahre. Aber Heilung ist möglich.'"
-  - question: Was ist, wenn mein Partner nicht verständen hat, dass ich Trauma habe?
-    answer: "Das ist ein rotes Licht. Ein liebevoller Partner wird dich unterstützen, wenn du dich heilst."
+  - question: "Was bedeutet Verletzungen in der Beziehung heilen?"
+    answer: "Ihr nehmt Verletzungen ernst, sprecht sie offen an und arbeitet bewusst daran, Vertrauen wiederaufzubauen."
+  - question: "Wie erkenne ich, dass eine Verletzung noch nicht geheilt ist?"
+    answer: "Wenn alte Themen immer wieder hochkommen oder du innerlich Distanz spuerst, ist die Heilung nicht abgeschlossen."
+  - question: "Ist Heilung von tiefen Verletzungen moeglich?"
+    answer: "Ja, mit Geduld, Verantwortungsuebernahme und oft auch Therapie ist es gut moeglich."
+  - question: "Wann sollten wir Hilfe holen?"
+    answer: "Wenn ihr alleine nicht weiterkommt oder die Verletzung sich vergroessert, ist Therapie sehr ratsam."
 ---
-
 
 ## Alte Verletzungen heilen – Bevor du dich wieder verliebst
 

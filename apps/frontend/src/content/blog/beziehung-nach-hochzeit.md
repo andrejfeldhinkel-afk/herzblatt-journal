@@ -6,17 +6,18 @@ date: 2025-11-25
 image: "/images/blog/beziehung-nach-hochzeit.webp"
 imageAlt: "Die ersten Ehejahre"
 tags: ["Beziehung", "Hochzeit"]
-faq:
-  - question: "Wie kann ich meine Beziehung verbessern?"
-    answer: "Offene Kommunikation, gemeinsame Quality-Time und gegenseitiger Respekt sind die Basis. Sprecht regelmäßig über eure Bedürfnisse und hört einander aktiv zu."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
 draft: false
 author: "laura-weber"
+faq:
+  - question: "Wie veraendert Hochzeit die Beziehung?"
+    answer: "Manche fuehlen sich gefestigter, andere spueren neuen Druck oder Routine. Beides ist normal."
+  - question: "Wie erkenne ich Veraenderungen nach der Heirat?"
+    answer: "Wenn sich Erwartungen schleichend wandeln oder Alltag neu wirkt, ist die Hochzeit nicht ohne Spuren."
+  - question: "Ist Postpartal-Blues nach Hochzeit normal?"
+    answer: "Ja, sogenanntes Post-Wedding-Tief ist verbreitet. Nach der Aufregung kommt oft eine Leere."
+  - question: "Wann sollten wir aktiv werden?"
+    answer: "Wenn sich Veraenderungen unangenehm anfuehlen oder ihr euch entfremdet, sucht das Gespraech."
 ---
-
 ## Der Schock nach der Hochzeit
 
 Du bist jetzt verheiratet. Die Hochzeit war wunderschön. Familie und Freunde haben gratuliert. Und jetzt sitzt du mit deinem neuen Ehepartner in eurer Wohnung und merkst: Moment – jetzt beginnt das echte Leben.

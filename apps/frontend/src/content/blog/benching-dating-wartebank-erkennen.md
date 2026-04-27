@@ -7,17 +7,18 @@ updated: 2026-04-15
 image: "/images/blog/benching-dating-wartebank-erkennen.webp"
 imageAlt: "Benching beim Dating erkennen"
 tags: ["Dating", "Red Flags", "Online-Dating", "Kommunikation", "Selbstliebe"]
-faq:
-  - question: "Wie lange sollte man daten bevor man zusammenkommt?"
-    answer: "Es gibt keine feste Regel — wichtig ist, dass ihr euch gegenseitig gut kennt, Vertrauen aufgebaut habt und die gleichen Vorstellungen teilt."
-  - question: "Wie reagiere ich auf Red Flags?"
-    answer: "Vertraue deinem Bauchgefühl, sprich die Warnsignale an und setze klare Grenzen. Wenn sich nichts ändert, ziehe Konsequenzen — dein Wohlbefinden kommt zuerst."
-  - question: "Was ist Benching beim Dating?"
-    answer: "Benching ist eine moderne Dating-Taktik, bei der dich jemand „warm hält', ohne wirklich investieren zu wollen. Erkenne die Zeichen und schütze dein Herz."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was ist die Wartebank beim Dating?"
+    answer: "Wartebank heisst, dass jemand dich nur als Backup haelt. Er meldet sich gerade so oft, dass du nicht aufgibst."
+  - question: "Wie erkenne ich, dass ich auf der Wartebank sitze?"
+    answer: "Plaene sind vage, Treffen werden verschoben und du wartest immer auf Nachrichten. Klare Hinweise."
+  - question: "Ist es normal, dass es manchmal so wirkt?"
+    answer: "Selbst echte Beziehungen haben mal Funkstille. Aber Wartebank ist ein Muster, kein Einzelfall."
+  - question: "Wann sollte ich mich verabschieden?"
+    answer: "Sobald du merkst, dass du immer nur reagierst statt mitgestaltest, ist es Zeit, Schluss zu machen."
 ---
-
 ## Was ist Benching? Definition und wie es sich anfühlt
 
 Benching ist ein Dating-Phänomen, das so beliebt wie verwirrend ist. Stell dir vor: Du sitzt auf der Bank eines Fußballplatzes. Der Coach bringt dich manchmal ins Spiel – gerade genug, um dich interessiert zu halten – aber nicht lange genug, um wirklich zu spielen. Du wärmst die Bank, während der Coach andere Spieler ausprobiert.

@@ -6,17 +6,18 @@ date: 2025-09-16
 image: "/images/blog/beziehung-leidenschaft-retten.webp"
 imageAlt: "Fehlende Leidenschaft in Beziehungen"
 tags: ["Beziehung", "Intimität"]
-faq:
-  - question: "Wann sollte man um eine Beziehung kämpfen?"
-    answer: "Wenn beide Partner grundsätzlich bereit sind, an Problemen zu arbeiten, Respekt vorhanden ist und die positiven Momente überwiegen. Einseitiger Einsatz reicht nicht."
-  - question: "Wie bringt man mehr Intimität in die Beziehung?"
-    answer: "Intimität beginnt außerhalb des Schlafzimmers: Kleine Berührungen, tiefe Gespräche, Augenkontakt und ungeteilte Aufmerksamkeit schaffen emotionale Nähe."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was bedeutet Leidenschaft in der Beziehung?"
+    answer: "Leidenschaft ist tiefe emotionale und oft auch koerperliche Anziehung. Sie kann gepflegt werden."
+  - question: "Wie erkenne ich, dass Leidenschaft fehlt?"
+    answer: "Wenig Sex, kaum Beruehrungen und fehlende Sehnsucht sind klare Anzeichen."
+  - question: "Ist Leidenschaft langfristig moeglich?"
+    answer: "Ja, sie veraendert sich aber. Aus stuermischer Verliebtheit wird ruhigere, tiefere Anziehung."
+  - question: "Wann sollten wir handeln?"
+    answer: "Sobald einer Sehnsucht nach mehr spuert oder ihr euch koerperlich kaum noch begegnet."
 ---
-
 ## Fehlende Leidenschaft in Beziehungen: Wie du die Flamme wieder anzündest
 
 Ihr seid zusammen 5 Jahre. Es ist stabil. Es ist komfortabel. Du magst diese Person. Aber da ist keine Leidenschaft mehr.

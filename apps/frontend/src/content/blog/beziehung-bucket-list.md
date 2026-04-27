@@ -7,17 +7,18 @@ updated: 2026-04-15
 image: "/images/blog/beziehung-bucket-list.webp"
 imageAlt: "Bucket List für Paare – 50 Momente, die eure Beziehung le..."
 tags: ["Beziehung", "Date-Ideen", "Zusammenleben", "Lifestyle", "Intimität"]
-faq:
-  - question: "Was sind Anzeichen für eine gesunde Beziehung?"
-    answer: "Gegenseitiges Vertrauen, offene Kommunikation, Respekt vor Grenzen, gemeinsames Lachen und die Fähigkeit, Konflikte fair zu lösen."
-  - question: "Wie bringt man mehr Intimität in die Beziehung?"
-    answer: "Intimität beginnt außerhalb des Schlafzimmers: Kleine Berührungen, tiefe Gespräche, Augenkontakt und ungeteilte Aufmerksamkeit schaffen emotionale Nähe."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
 draft: false
 author: "laura-weber"
+faq:
+  - question: "Was ist eine Beziehungs-Bucket-List?"
+    answer: "Eine Liste mit Erlebnissen, die ihr gemeinsam erleben wollt. Reisen, Abenteuer und Meilensteine zum Abhaken."
+  - question: "Wie erstellen wir eine gute Liste?"
+    answer: "Setzt euch zusammen, jeder schreibt zehn Wuensche auf. Dann mischt ihr die Listen und plant die ersten Punkte."
+  - question: "Ist eine Bucket-List nicht zu spielerisch?"
+    answer: "Nein, sie ist ein Werkzeug fuer Verbindung. Gemeinsame Ziele staerken die Bindung deutlich."
+  - question: "Wann sollten wir mit der Liste starten?"
+    answer: "Jederzeit. Besonders schoen ist es zu Jahresanfang oder nach besonderen Anlaessen."
 ---
-
 ## Warum eine Bucket List als Paar wichtig ist
 
 Beziehungen erstarren, wenn sie nur aus Routine bestehen. Arbeit, Haushalt, Schlaf, Wiederholung. Das ist nicht falsch, aber es ist auch nicht lebendig.

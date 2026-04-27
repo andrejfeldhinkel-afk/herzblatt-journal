@@ -15,10 +15,14 @@ draft: false
 image: "/images/photos/beziehung-auffrischen.webp"
 imageAlt: "Paar sitzt gelangweilt auf dem Sofa"
 faq:
-  - question: "Ist Langeweile in der Beziehung normal?"
-    answer: "Ja, absolut. Jede Langzeitbeziehung durchläuft Phasen der Routine. Entscheidend ist, wie ihr damit umgeht und ob ihr aktiv gegensteuert."
-  - question: "Wann wird Langeweile zum Problem?"
-    answer: "Wenn einer oder beide Partner dauerhaft unzufrieden sind, kein Interesse mehr am anderen zeigen oder anfangen, sich nach Alternativen umzuschauen."
+  - question: "Was ist Beziehungs-Langeweile?"
+    answer: "Eine Phase, in der Routine und Wiederholung dominieren. Es fehlt an Spannung und neuen Impulsen."
+  - question: "Wie erkenne ich Langeweile in der Beziehung?"
+    answer: "Ihr habt keine Themen mehr, freut euch nicht aufs Wiedersehen oder lebt nebeneinander her."
+  - question: "Ist Langeweile normal?"
+    answer: "Phasenweise ja, dauerhaft nicht. Wenn sie staendig da ist, braucht ihr aktive Veraenderung."
+  - question: "Wann sollten wir handeln?"
+    answer: "Sobald einer von euch unzufrieden wirkt, sind kleine Veraenderungen ein guter Start."
 ---
 ## Langeweile in der Beziehung — Ein unterschätztes Warnsignal
 

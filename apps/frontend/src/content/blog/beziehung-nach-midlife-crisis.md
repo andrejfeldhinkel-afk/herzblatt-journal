@@ -9,16 +9,17 @@ tags:
 keywords: ["midlife crisis beziehung", "midlife crisis partner", "lebenskrise paar"]
 image: "/images/blog/beziehung-nach-midlife-crisis.webp"
 imageAlt: "Beziehung nach der Midlife-Crisis: Neuer Anfang zu zweit"
-faq:
-  - question: "Ist die Midlife-Crisis real?"
-    answer: "Ja, die Midlife-Crisis ist ein anerkanntes psychologisches Phaenomen. Sie beschreibt eine Phase intensiver Selbstreflexion, typischerweise zwischen 40 und 55 Jahren, in der grundlegende Lebensfragen aufkommen."
-  - question: "Wie lange dauert eine Midlife-Crisis?"
-    answer: "Die Dauer variiert stark. Bei manchen Menschen dauert sie einige Monate, bei anderen mehrere Jahre. Durchschnittlich rechnet man mit zwei bis drei Jahren."
-  - question: "Kann eine Beziehung die Midlife-Crisis ueberstehen?"
-    answer: "Ja, viele Beziehungen gehen gestaerkt aus einer Midlife-Crisis hervor. Voraussetzung ist offene Kommunikation, gegenseitiges Verstaendnis und die Bereitschaft beider Partner, sich weiterzuentwickeln."
 author: "sarah-kellner"
+faq:
+  - question: "Wie wirkt sich Midlife-Crisis auf die Beziehung aus?"
+    answer: "Sie kann zu Distanz, neuen Beduerfnissen oder Trennungsfantasien fuehren. Beide Partner sind oft betroffen."
+  - question: "Wie erkenne ich Krise und Folgen?"
+    answer: "Wenn einer von euch radikal sein Leben hinterfragt, alte Werte abstreift oder fluechten will."
+  - question: "Ist Krise in der Lebensmitte normal?"
+    answer: "Ja, fast jeder erlebt eine. Wichtig ist, dass sie nicht zur dauerhaften Beziehungs-Krise wird."
+  - question: "Wann sollten wir Therapie machen?"
+    answer: "Wenn die Krise lang anhaelt oder einer Trennungsgedanken hegt, ist Beratung sehr wichtig."
 ---
-
 
 
 ## Beziehung nach der Midlife-Crisis: Neuer Anfang zu zweit

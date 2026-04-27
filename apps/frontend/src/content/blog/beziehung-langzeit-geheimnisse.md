@@ -6,17 +6,18 @@ date: 2025-10-31
 image: "/images/blog/beziehung-langzeit-geheimnisse.webp"
 imageAlt: "Die Geheimnisse langer Beziehungen"
 tags: ["Beziehung", "Kommunikation", "Vertrauen", "Bindungstypen", "Ratgeber"]
-faq:
-  - question: "Was sind Anzeichen für eine gesunde Beziehung?"
-    answer: "Gegenseitiges Vertrauen, offene Kommunikation, Respekt vor Grenzen, gemeinsames Lachen und die Fähigkeit, Konflikte fair zu lösen."
-  - question: "Was tun wenn der Partner nicht reden will?"
-    answer: "Schaffe einen sicheren Rahmen ohne Druck. Manchmal hilft es, beim Spazierengehen zu reden statt am Küchentisch. Respektiere auch das Bedürfnis nach Verarbeitungszeit."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was sind die Geheimnisse langer Beziehungen?"
+    answer: "Tiefer Respekt, klare Kommunikation, gemeinsame Wachstumsbereitschaft und bewusste Pflege der Naehe."
+  - question: "Wie erkenne ich, ob wir es schaffen?"
+    answer: "Wenn ihr Krisen ueberwindet und gestaerkt herausgeht, habt ihr die wichtigsten Werkzeuge."
+  - question: "Ist Gluecklichsein eine Wahl?"
+    answer: "Teilweise ja. Beziehung ist auch Entscheidung, sich immer wieder fuereinander zu entscheiden."
+  - question: "Wann sollten wir Profi-Hilfe holen?"
+    answer: "Wenn ihr in einer Krise feststeckt oder nicht weiterkommt, hilft Paartherapie sehr."
 ---
-
 ## Die Mythen – Was lange Beziehungen NICHT sind
 
 Bevor wir über die Geheimnisse sprechen, zerstören wir einige Mythen:

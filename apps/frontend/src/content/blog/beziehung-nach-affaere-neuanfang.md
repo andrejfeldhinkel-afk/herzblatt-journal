@@ -10,15 +10,15 @@ date: 2025-07-27
 updated: 2026-04-15
 author: "sarah-kellner"
 faq:
-  - question: "Wie baut man Vertrauen in einer Beziehung auf?"
-    answer: "Durch Zuverlässigkeit, Ehrlichkeit, offene Kommunikation und das Einhalten von Versprechen. Vertrauen wächst langsam und braucht konsistentes Handeln."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
-
+  - question: "Was bedeutet Neuanfang nach einer Affaere?"
+    answer: "Ihr beendet die alten Muster, klaert auf, baut Vertrauen wieder auf und schreibt neue Regeln."
+  - question: "Wie erkenne ich, dass der Neuanfang gelingt?"
+    answer: "Vertrauen waechst langsam, ihr koennt offen reden und der Schmerz wird kleiner."
+  - question: "Ist ein echter Neuanfang moeglich?"
+    answer: "Ja, viele Paare schaffen es. Es braucht aber Zeit, Geduld und meistens Therapie."
+  - question: "Wann sollten wir Hilfe holen?"
+    answer: "Sofort, denn Affaeren-Heilung gelingt selten ohne Begleitung. Allein ist es sehr schwer."
 ---
-
 ## Beziehung nach einer Affäre: Ist ein Neuanfang möglich?
 
 Du hast es gerade herausgefunden. Dein Partner hat dich betrogen. Vielleicht sind es Nachrichten, die du zufällig gesehen hast. Vielleicht hat dein Partner es dir selbst gesagt. Egal wie — die Wahrheit ist raus.

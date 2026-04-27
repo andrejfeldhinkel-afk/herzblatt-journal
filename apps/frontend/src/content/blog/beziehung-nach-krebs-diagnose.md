@@ -7,17 +7,18 @@ updated: 2026-04-15
 image: "/images/blog/beziehung-nach-krebs-diagnose.webp"
 imageAlt: "Beziehung nach Krebs-Diagnose: Zusammenhalt in der Krise"
 tags: ["Beziehung", "Gesundheit"]
-faq:
-  - question: "Wie kann ich meine Beziehung verbessern?"
-    answer: "Offene Kommunikation, gemeinsame Quality-Time und gegenseitiger Respekt sind die Basis. Sprecht regelmäßig über eure Bedürfnisse und hört einander aktiv zu."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Wie veraendert Krebsdiagnose die Beziehung?"
+    answer: "Sie wird auf den Pruefstand gestellt. Naehe, Aengste und Rollen verschieben sich grundlegend."
+  - question: "Wie erkenne ich, dass wir gemeinsam stark sind?"
+    answer: "Wenn ihr ehrlich redet, Hilfe annehmt und Hoffnung pflegt, habt ihr eine starke Basis."
+  - question: "Ist Krise nach Diagnose normal?"
+    answer: "Ja, fast immer. Es braucht Wochen oder Monate bis sich neue Routinen finden."
+  - question: "Wann sollten wir Hilfe holen?"
+    answer: "Sofort. Krebs-Begleitung gehoert in professionelle Haende, fuer den Patienten und den Partner."
 ---
-
 ## Beziehung nach Krebs-Diagnose: Zusammenhalt in der Krise
 
 Eine Krebs-Diagnose zerstört nicht nur den Körper. Sie zerstört auch Pläne, Träume, das Vertrauen in die Zukunft. Und wenn du in einer Beziehung bist, zerstört sie auch die Dynamik dieser Beziehung.

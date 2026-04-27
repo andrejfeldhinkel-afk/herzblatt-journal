@@ -17,14 +17,15 @@ keywords:
 draft: false
 author: "sarah-kellner"
 faq:
-  - question: "Ist es normal Angst zu haben allein zu bleiben?"
-    answer: "Absolut. Diese Angst ist tief menschlich — wir sind soziale Wesen. Problematisch wird es erst, wenn die Angst dich in falsche Beziehungen treibt oder dein Leben bestimmt."
-  - question: "Wie unterscheide ich Angst vor Einsamkeit von echtem Kinderwunsch?"
-    answer: "Frage dich: Will ich einen Partner weil ich mein Leben mit jemandem teilen möchte — oder weil ich Angst habe allein zu sein? Der Unterschied liegt in der Motivation: Liebe vs. Angst."
-  - question: "Hilft Therapie gegen Verlustangst?"
-    answer: "Ja, sehr. Besonders kognitive Verhaltenstherapie und bindungsorientierte Ansätze helfen, die Wurzeln der Angst zu verstehen und neue Muster zu entwickeln."
+  - question: "Was ist die Angst, allein zu bleiben?"
+    answer: "Es ist eine tiefe Sorge, niemanden zu finden oder den Anschluss zu verpassen. Sie kann sehr belastend sein."
+  - question: "Wie erkenne ich diese Angst bei mir?"
+    answer: "Du bleibst in unguten Beziehungen, datest aus Verzweiflung oder fuehlst dich panisch beim Singlesein. Klare Hinweise."
+  - question: "Ist diese Angst normal?"
+    answer: "Ja, viele Menschen kennen sie. Sie wird problematisch, wenn sie deine Entscheidungen dominiert."
+  - question: "Wann sollte ich Hilfe suchen?"
+    answer: "Wenn die Angst dich laehmt oder du immer wieder in falsche Beziehungen rutschst, hilft Therapie."
 ---
-
 Es ist 3 Uhr morgens. Du liegst wach und scrollst durch Instagram. Deine beste Freundin hat gerade ein Verlobungsfoto gepostet. Dein Herz zieht sich zusammen. Nicht weil du dich nicht für sie freust — sondern weil dich plötzlich diese alten Gedanken überfallen: "Und was ist mit mir? Werde ich immer allein sein? Ist mit mir etwas nicht in Ordnung?"
 
 Diese Gedankenspirale kennt jeder. Manche landen bei ihr vielleicht nur alle paar Monate. Bei dir vielleicht mehrmals pro Woche. Diese lähmende Angst vor dem Alleinsein, vor einem Leben ohne Partner, vor 40 Jahren ohne "Andere Hälfte" — sie ist realer als du vielleicht denkst.

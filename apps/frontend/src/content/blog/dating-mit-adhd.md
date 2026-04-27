@@ -59,7 +59,61 @@ Als der nicht-ADHS Partner: Verstehe, dass "Ich vergesse" nicht manipulativ ist,
 
 Detaillierte Infos bietet Psychologie Heute: [Psychologie Heute](https://www.psychologie-heute.de/)
 
-Gemeinsam: Strukturiert eure Beziehung ein bisschen. Regelmäßige Check-ins. Geplante Qualitätszeit. Das klingt unsexy, aber es ist liebevoll. Es sagt: "Ich kümmere mich genug um dich, um das zu planen."## Weiterlesen
+Gemeinsam: Strukturiert eure Beziehung ein bisschen. Regelmäßige Check-ins. Geplante Qualitätszeit. Das klingt unsexy, aber es ist liebevoll. Es sagt: "Ich kümmere mich genug um dich, um das zu planen."
+
+## Echte ADHS-Beziehungs-Geschichten
+
+Tobi, 31, hat erst mit 28 die Diagnose ADHS bekommen. Davor war er Serien-Single – jede Beziehung scheiterte nach drei bis sechs Monaten. Mit der Diagnose kam Verstandnis: Sein Hyperfocus liess nach, und er wirkte plotzlich „desinteressiert". Er lernte, das zu kommunizieren. Heute lebt er in einer drei Jahre alten Beziehung mit Sandra, die kein ADHS hat, aber sehr verstandnisvoll ist.
+
+Marie, 29, hat ADHS und ist mit Felix zusammen, der ebenfalls ADHS hat. Beide sagen, ihre Beziehung sei chaotisch, aber lebendig. Sie nutzen geteilte Kalender, gegenseitige Reminders und feste Routinen. „Zwei ADHSler funktionieren, wenn sie sich gegenseitig nicht uberfordern."
+
+Lukas, 35, datete drei Jahre lang Anna, die kein ADHS hatte. Sie haben sich oft gestritten, weil er Verabredungen vergass, zu spat kam, mit dem Handy spielte. Erst Paartherapie hat geholfen, gemeinsam System zu entwickeln. Heute klappt es. „Es war Arbeit, aber sie hat sich gelohnt."
+
+## Wissenschaftliche Erkenntnisse zu ADHS und Dating
+
+Eine Studie der Charite Berlin zeigt: ADHSler haben ein 56 Prozent hoheres Risiko fur Beziehungs-Abbruche, aber wenn die Beziehung das erste Jahr ubersteht, bleibt sie statistisch genau so stabil wie bei Nicht-ADHSlern. Das erste Jahr ist die kritische Hurde.
+
+Forschung der Universitat Heidelberg zur Hyperfocus-Phase belegt: Bei ADHS-Personen ist die anfangliche Verliebtheits-Phase neurobiologisch intensiver – Dopamin-Aussch?ttung und Belohnungssystem sind starker aktiv. Das erklart das Hoch und das anschlie?ende Tief.
+
+Eine Studie der Yale University zur ADHS-Paardynamik zeigt: Paare, die die ADHS-Diagnose offen besprechen und gemeinsam Strategien entwickeln, haben eine 70 Prozent hohere Beziehungszufriedenheit als solche, die das Thema vermeiden.
+
+## Praktische Ubungen fur ADHS-Dating
+
+Erste Ubung: Schreib auf, was Du im Hyperfocus-Modus tust, was Du sonst nicht tust. Lass Dein Date diese Liste sehen. So versteht es, was passiert, wenn der Hyperfocus nachlasst.
+
+Zweite Ubung: Erstelle ein „Beziehungs-Dashboard" mit deinem Partner. Geteilte Kalender, gemeinsame To-Do-Listen, regelma?ige Check-ins. ADHSler brauchen externe Strukturen.
+
+Dritte Ubung: Plane „Reminder-Liebe" – kleine Aktionen, die Du mit Erinnerungen versiehst. Eine Nachricht jeden Morgen, ein Anruf jeden Mittwoch, ein Date jeden Freitag. Routine ersetzt das fehlende interne Erinnern.
+
+Vierte Ubung: Halte ein Beziehungs-Tagebuch. Was hat heute funktioniert? Was hat genervt? Welches Verhalten will ich morgen aktiv steuern? Diese Reflexion ist Gold wert.
+
+## Typische Fehler von ADHSlern beim Dating
+
+Fehler eins: Hyperfocus-Phase als „echte Liebe" missverstehen. Das ist eine Phase, kein Dauerzustand. Wer Beziehungen aufbaut, in denen er „immer so" sein muss, geht zugrunde.
+
+Fehler zwei: Die ADHS-Diagnose verschweigen. Das fuhrt zu Misverstandnissen, die schwer zu reparieren sind. Lieber fruh transparent sein.
+
+Fehler drei: Zu viele parallele Dates. ADHSler suchen oft Dopamin-Kicks und swipen dann durch zwanzig Profile. Lieber zwei oder drei aktive Kontakte mit Tiefgang.
+
+Fehler vier: Sich entschuldigen statt erklaren. „Sorry, ADHS" ist Vermeidung. „Ich habe ADHS, das hei?t konkret X, Y, Z – kannst Du mir helfen mit A?" ist konstruktiv.
+
+## Hilfe und Unterstutzung bei ADHS-Dating
+
+ADHS-Selbsthilfegruppen findest Du in jeder gro?eren Stadt. ADHS Deutschland e.V. hat Regionalgruppen, in denen viel uber Beziehung gesprochen wird. Online-Communities wie ADXS oder reddit/r/adhd_germany sind ebenfalls hilfreich.
+
+Spezialisierte Therapeuten findest Du uber das Verzeichnis der Deutschen Gesellschaft fur ADHS. Verhaltenstherapie ist evidenzbasiert wirksam, auch fur Beziehungs-Themen. Manche Krankenkassen ubernehmen die Kosten.
+
+Bucher, die helfen: „Driven to Distraction in Love" von Hallowell und Ratey ist ein Klassiker. „Is It You, Me, or Adult ADD?" von Gina Pera fokussiert auf Beziehungen.
+
+## ADHS-Frauen vs ADHS-Manner im Dating
+
+ADHS bei Frauen wird oft spater diagnostiziert, weil Symptome anders aussehen. Frauen mit ADHS sind oft uberfunktional, perfektionistisch und erst beim Burnout brichts zusammen. Beim Dating zeigt sich das in Hyperfokus auf den Partner, intensive Liebesbomben-Phasen, dann plotzlicher Ruckzug.
+
+Manner mit ADHS sind oft extrovertierter, impulsiver, abenteurerlustiger – das wirkt charmant beim Dating, kann aber zu unzuverlassigen Beziehungen fuhren. Vergessene Termine, abrupte Pausen, plotzliche Begeisterung fur neue Hobbies pragen den Alltag.
+
+Beide Geschlechter profitieren von klarer Kommunikation. Wer ADHS hat, sollte fruh transparent sein. Das erspart Misverstandnisse und Enttauschungen. Die richtigen Partner schatzen Ehrlichkeit mehr als gespielte Perfektion.
+
+## Weiterlesen
 
 - [Dating mit sozialer Angststörung](/blog/dating-mit-sozialer-angst/)
 - [Dating-Tipps für introvertierte Männer: Authentizität statt](/blog/dating-als-introvertierter-mann/)

@@ -6,17 +6,18 @@ date: 2025-09-06
 image: "/images/blog/asexualitaet-dating-beziehung.webp"
 imageAlt: "Asexualität in Dating und Beziehung"
 tags: ["Dating", "Beziehung", "Intimität", "LGBTQ+", "Selbstliebe"]
-faq:
-  - question: "Was sollte man beim Dating beachten?"
-    answer: "Sei du selbst, stelle offene Fragen, höre aufmerksam zu und achte auf Red Flags. Nimm dir die Zeit, jemanden wirklich kennenzulernen."
-  - question: "Wann sollte man um eine Beziehung kämpfen?"
-    answer: "Wenn beide Partner grundsätzlich bereit sind, an Problemen zu arbeiten, Respekt vorhanden ist und die positiven Momente überwiegen. Einseitiger Einsatz reicht nicht."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was bedeutet Asexualitaet in der Beziehung?"
+    answer: "Asexualitaet bedeutet, wenig oder gar kein sexuelles Verlangen zu spueren. Romantische Liebe ist trotzdem moeglich."
+  - question: "Wie erkenne ich, ob ich asexuell bin?"
+    answer: "Wenn dir sexuelle Anziehung fehlt, du aber emotionale Naehe magst, koennte Asexualitaet zutreffen."
+  - question: "Ist eine Beziehung mit Asexualitaet moeglich?"
+    answer: "Ja, viele asexuelle Menschen fuehren erfuellte Beziehungen. Kommunikation ueber Beduerfnisse ist entscheidend."
+  - question: "Wann sollten wir uns Beratung holen?"
+    answer: "Wenn unterschiedliche Beduerfnisse zu Konflikten fuehren, hilft eine sexualtherapeutische Beratung."
 ---
-
 ## Asexualität verstehen – Eine Einführung
 
 Asexualität ist ein faszinierendes und oft missverstandenes Spektrum. Du fragst dich vielleicht, ob du asexuell bist oder wie du mit einem asexuellen Partner umgehen kannst. Das Wichtigste zuerst: Asexualität ist nicht dasselbe wie Aromantik, bedeutet nicht, dass du keine Beziehungen möchtest, und hat nichts mit einem Mangel an Verlangen nach Nähe zu tun.

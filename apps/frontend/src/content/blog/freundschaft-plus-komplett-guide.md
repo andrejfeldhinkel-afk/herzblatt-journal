@@ -94,6 +94,46 @@ Die beste Beziung ist die, wo beide Menschen die gleichen Bedürfnisse haben. Ob
 
 Freundschaft Plus kann funktionieren. Aber nur wenn beide Menschen wirklich auf der gleichen Seite sind, und wenn ihr bereit seid, kommunikativ und ehrlich zu sein. Wenn nicht – das ist okay. Such dann nach etwas anderem.
 
+## Die Vereinbarung schwarz auf weiß
+
+Auch wenn es ungewöhnlich klingt: Eine schriftliche oder zumindest klar besprochene Vereinbarung hilft enorm. Setzt euch einmal in Ruhe zusammen und besprecht konkret, was ihr wollt. Treffen wir uns wöchentlich oder spontan? Übernachten wir beieinander? Erzählen wir Freundinnen und Freunden von der Vereinbarung? Wie reagieren wir, wenn einer von uns jemanden zum Daten kennenlernt? Beenden wir das Arrangement, wenn einer von uns eine Beziehung anfängt?
+
+Diese Fragen zu klären, kostet zwanzig Minuten und erspart euch monatelange Verwirrung. Schreibt die Antworten in eurem Smartphone-Notizbuch fest. Sobald sich später Spannungen einschleichen, könnt ihr darauf zurückgreifen, statt euch an gefühlte Erinnerungen zu klammern.
+
+## Sexuelle Gesundheit ohne Tabu
+
+In Freundschaft Plus ist sexuelle Gesundheit besonders wichtig, weil ihr in der Regel nicht exklusiv seid. Sprecht offen über Tests, Verhütung und sicheren Sex. Tauscht aktuelle Testergebnisse aus. Vereinbart, was passiert, wenn einer von euch mit einer dritten Person Sex hatte – nochmal Test, Verhütung anpassen, Pause? Diese Gespräche sind kein Zeichen von Misstrauen, sondern von Verantwortung.
+
+Wenn dir dieses Gespräch unangenehm ist, ist das ein Hinweis. Wer keine offene Kommunikation über Sex schafft, sollte vielleicht keine Vereinbarung eingehen, die genau diese Offenheit braucht.
+
+## Wenn Gefühle plötzlich auftauchen
+
+Trotz aller Vorsätze können Gefühle wachsen. Erkenne das früh, statt es zu verdrängen. Typische Signale: Du wirst eifersüchtig, wenn dein FWB von Dates erzählt. Du planst kleine Aufmerksamkeiten, die über Sex hinausgehen. Du bist enttäuscht, wenn ein Treffen abgesagt wird. Du suchst nach Bedeutung in seinen oder ihren Worten.
+
+Wenn du diese Signale spürst, sprich es an. Frühzeitige Ehrlichkeit ist deutlich weniger schmerzhaft als ein langer Selbstbetrug. Vielleicht erkennt dein Gegenüber ähnliche Gefühle und ihr öffnet eine neue Tür. Vielleicht merkt ihr, dass die Vereinbarung nicht mehr funktioniert. Beides ist eine erwachsene Antwort auf eine echte Veränderung.
+
+## Wann Freundschaft Plus die falsche Wahl ist
+
+Es gibt Situationen, in denen FWB einfach nicht funktioniert. Wenn du frisch aus einer Trennung kommst und Trost suchst, wirst du Sex emotional aufladen, ohne es zu wollen. Wenn du eigentlich eine Beziehung möchtest und FWB nur akzeptierst, weil dein Gegenüber nicht mehr will, wirst du verletzt. Wenn ihr euch im selben sozialen Kreis bewegt und Drama vorprogrammiert wäre, ist Vorsicht angebracht.
+
+Sei ehrlich mit dir selbst. FWB funktioniert dann, wenn es deinem aktuellen Lebensgefühl wirklich entspricht – nicht als Notlösung, nicht als Trostpflaster, nicht als Aufwärmphase für eine Beziehung. Wer das ehrlich prüft, schützt sich vor unnötigen Verletzungen.
+
+## Das saubere Ende
+
+Jede Freundschaft Plus endet irgendwann. Vielleicht weil einer eine Beziehung anfängt, vielleicht weil eine:r umzieht, vielleicht weil sich Gefühle verschoben haben. Plant dieses Ende ein, indem ihr es als ganz natürlich seht.
+
+Ein gutes Ende braucht ein klares Gespräch, kein langsames Verschwinden. „Ich glaube, für mich wird es Zeit, das zu beenden – ich möchte aber gern unsere Freundschaft erhalten." Solche Sätze sind kein Drama, sondern Ausdruck von Respekt. Wenn beide diesen Stil pflegen, kann aus einer Vereinbarung tatsächlich eine bleibende Freundschaft werden.
+
+## FWB als Lebensphase einordnen
+
+Freundschaft Plus passt zu manchen Lebensphasen besser als zu anderen. Studierende, frisch Getrennte, beruflich Vielreisende erleben oft Phasen, in denen FWB ihre Bedürfnisse erfüllt. Andere Phasen – Kinderwunsch, beginnende Krankheit, intensive berufliche Krisen – brauchen meist mehr emotionale Stabilität, als ein FWB-Setup geben kann.
+
+Sei ehrlich, wo du stehst. Diese Ehrlichkeit ist nicht peinlich, sondern erwachsen. Und sie macht den Unterschied zwischen einer wertvollen, leichten Verbindung und einer Quelle ständiger kleiner Verletzungen.
+
+## Selbstreflexion nach jedem Treffen
+
+Eine erstaunlich nützliche Praxis ist, dir nach jedem Treffen kurz drei Fragen zu beantworten. War das, was wir hatten, im Einklang mit unserer Vereinbarung? Habe ich mich danach leichter oder schwerer gefühlt? Will ich beim nächsten Mal etwas verändern? Diese kleine Bilanz erlaubt dir, früh zu erkennen, ob das Arrangement noch zu dir passt oder ob es Zeit für ein Gespräch ist. Zwei Minuten Reflexion ersparen oft Wochen schlechtes Bauchgefühl.
+
 ## Mehr zu diesem Thema
 
 - [Freundschaft Plus: Regeln, die funktionieren](/blog/freundschaft-plus-regeln-komplett/)

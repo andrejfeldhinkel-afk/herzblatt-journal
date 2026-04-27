@@ -6,17 +6,18 @@ date: 2025-12-01
 image: "/images/blog/beziehung-nach-traumatischer-geburt.webp"
 imageAlt: "Beziehung nach traumatischer Geburt: Wieder zusammenfinden"
 tags: ["Beziehung"]
-faq:
-  - question: "Wann sollte man um eine Beziehung kämpfen?"
-    answer: "Wenn beide Partner grundsätzlich bereit sind, an Problemen zu arbeiten, Respekt vorhanden ist und die positiven Momente überwiegen. Einseitiger Einsatz reicht nicht."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Wie wirkt sich eine traumatische Geburt aus?"
+    answer: "Mutter und oft auch Vater erleben Trauma. Naehe, Sex und Vertrauen koennen stark leiden."
+  - question: "Wie erkenne ich, dass wir Trauma verarbeiten muessen?"
+    answer: "Albtraeume, Vermeidung von Themen oder Naehe-Probleme sind klare Trauma-Signale."
+  - question: "Ist Trauma nach Geburt haeufig?"
+    answer: "Ja, etwa 9 bis 18 Prozent der Frauen erleben eine Geburt als traumatisch. Auch Vaeter sind betroffen."
+  - question: "Wann sollten wir Hilfe holen?"
+    answer: "Sofort. Trauma-Therapie ist hochwirksam, je frueher umso besser fuer alle Beteiligten."
 ---
-
 ## Beziehung nach traumatischer Geburt: Wieder zusammenfinden
 
 Eine traumatische Geburt ist nicht nur physisch anstrengend. Sie ist auch psychisch zerstörerisch. Das kann Geburtstraumata, Postpartum-Depressionen oder sogar PTSD zur Folge haben. Und wenn du in einer Beziehung bist, betrifft es auch deinen Partner.

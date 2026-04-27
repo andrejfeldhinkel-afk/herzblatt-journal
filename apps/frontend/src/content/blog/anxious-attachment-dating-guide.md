@@ -8,15 +8,15 @@ date: 2026-03-21
 tags: [Psychologie, Dating, Beziehung]
 keywords: [ängstlicher bindungsstil, anxious attachment, ängstliche bindung dating, unsicher ambivalenter bindungsstil]
 faq:
-  - question: "Kann man Beziehungsmuster verändern?"
-    answer: "Ja, durch Selbstreflexion, Therapie und bewusstes Üben neuer Verhaltensweisen. Der erste Schritt ist, die eigenen Muster zu erkennen."
-  - question: "Was sollte man beim Dating beachten?"
-    answer: "Sei du selbst, stelle offene Fragen, höre aufmerksam zu und achte auf Red Flags. Nimm dir die Zeit, jemanden wirklich kennenzulernen."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-
+  - question: "Was ist Anxious Attachment beim Dating?"
+    answer: "Beim Anxious-Stil hast du grosse Naehesehnsucht und Verlustangst. Du brauchst viel Bestaetigung vom Date."
+  - question: "Wie erkenne ich diesen Stil im Dating?"
+    answer: "Du checkst staendig dein Handy, interpretierst Nachrichten ueber und panikst bei langen Antwortpausen."
+  - question: "Ist Anxious Attachment ein Beziehungs-Killer?"
+    answer: "Nein, mit Selbstreflexion und einem sicher gebundenen Partner ist eine erfuellte Beziehung gut moeglich."
+  - question: "Wann sollte ich Hilfe holen?"
+    answer: "Wenn deine Angst Beziehungen zerstoert oder dich erschoepft, sind Therapie und Bindungsarbeit sinnvoll."
 ---
-
 ## Ängstlicher [Bindungsangst](/blog/bindungsangst-komplett-guide) verstehst, erkennst und schrittweise zu gesünderen Beziehungsmustern gelangst.
 
 ## Was ist ängstlicher Bindungsstil?

@@ -8,15 +8,15 @@ image: "/images/blog/beziehung-geld-gespraeche-guide.webp"
 imageAlt: "Geld in der Beziehung: Finanz-Guide"
 author: sarah-kellner
 faq:
-  - question: "Für wen ist dieser Ratgeber geeignet?"
-    answer: "Für alle, die sich in dieser Situation wiederfinden — egal ob am Anfang oder mittendrin. Die Tipps sind praxisnah und sofort umsetzbar."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
-
+  - question: "Was sollten Paare ueber Geld besprechen?"
+    answer: "Einkommen, Schulden, Sparziele, grosse Wuensche und Werte rund ums Geld gehoeren auf den Tisch."
+  - question: "Wie erkenne ich, dass wir mehr reden muessen?"
+    answer: "Wenn Geld zum Tabu wird oder einer Entscheidungen allein trifft, ist Gespraechsbedarf da."
+  - question: "Ist Geld in Beziehungen oft Konfliktthema?"
+    answer: "Ja, einer der haeufigsten Streitpunkte. Offenheit beugt vielen Krisen vor."
+  - question: "Wann sollten wir das Gespraech fuehren?"
+    answer: "Frueh in der Beziehung oder spaetestens vor groesseren gemeinsamen Investitionen."
 ---
-
 ## Warum Geldgespräche so schwierig sind
 
 Das ist eine der unbequemsten Wahrheiten: Mehr Beziehungen scheitern wegen Geldproblemen als wegen Untreue oder mangelnder Liebe. Und doch reden Paare über alles lieber als über Geld. Es ist peinlich. Es ist intim. Es fühlt sich mercenary an, als würde man die romantische Liebe mit Dollar-Zeichen besudeln.

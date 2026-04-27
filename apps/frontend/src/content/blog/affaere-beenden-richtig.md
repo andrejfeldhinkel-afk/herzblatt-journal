@@ -6,16 +6,17 @@ tags: ["Beziehung", "Grenzen", "Selbstliebe", "Vertrauen"]
 keywords: ["affäre beenden", "affäre beichten", "seitensprung beenden"]
 image: "/images/blog/affaere-beenden-richtig.webp"
 imageAlt: "Affäre beenden: Den Schlussstrich richtig ziehen"
-faq:
-  - question: "Wann sollte man um eine Beziehung kämpfen?"
-    answer: "Wenn beide Partner grundsätzlich bereit sind, an Problemen zu arbeiten, Respekt vorhanden ist und die positiven Momente überwiegen. Einseitiger Einsatz reicht nicht."
-  - question: "Warum ist Selbstliebe wichtig für Beziehungen?"
-    answer: "Wer sich selbst wertschätzt, zieht gesündere Partner an, setzt klare Grenzen und kann Liebe geben, ohne sich dabei zu verlieren."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
 draft: false
+faq:
+  - question: "Was heisst es, eine Affaere richtig zu beenden?"
+    answer: "Richtig beenden heisst klar, einmal und ohne Hintertueren. Kein Funkstille-und-zurueck Spiel."
+  - question: "Wie erkenne ich, dass die Affaere wirklich vorbei ist?"
+    answer: "Du fuehlst Erleichterung, kein Suchverhalten mehr und kannst wieder klar denken. Das sind gute Zeichen."
+  - question: "Ist es normal, dass es schwerfaellt?"
+    answer: "Ja, Bindungen aufzuloesen tut weh. Selbst wenn du weisst, dass es richtig ist, bleibt die Trauer."
+  - question: "Wann sollte ich mir Hilfe holen?"
+    answer: "Wenn du immer wieder schwach wirst oder dich selbst nicht halten kannst, suche Therapie oder Coaching."
 ---
-
 ## Der erste Schritt: Akzeptanz deiner Verantwortung
 
 Eine Affäre zu beenden ist einer der schwersten Momente in einer Beziehung. Die Schuldgefühle, die Angst vor Konsequenzen und die innere Zerrissenheit zwischen zwei Menschen machen diesen Prozess zur emotionalen Achterbahn. Aber es gibt einen wichtigen Punkt, den du verstehen musst, bevor du irgendetwas tust: Du kannst die Affäre nur dann wirklich beenden, wenn du deine Verantwortung dafür anerkennst.

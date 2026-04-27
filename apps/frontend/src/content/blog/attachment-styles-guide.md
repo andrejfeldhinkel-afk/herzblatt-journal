@@ -17,14 +17,15 @@ author: "thomas-peters"
 image: /images/blog/attachment-styles-guide.webp
 imageAlt: Vier Bindungstypen visualisiert
 faq:
-  - question: Kann ich meinen Bindungstyp ändern?
-    answer: "Ja! Mit Bewusstsein und Arbeit kannst du deinen Stil entwickeln. Das Ziel ist 'secure attachment' - und jeder kann dorthin kommen mit Zeit und Support."
-  - question: Was wenn mein Partner und ich unterschiedliche Bindungstypen haben?
-    answer: "Das ist sehr normal und nicht schlecht! Es braucht Verständnis und Kommunikation, aber verschiedene Stile können sich ergänzen, wenn man bewusst ist."
-  - question: Ist mein Bindungstyp meine Schuld?
-    answer: "Nein! Er wurde geprägt von deiner Kindheit und frühen Beziehungen. Aber jetzt als Erwachsener kannst du es ändern mit Bewusstsein und Übung."
+  - question: "Was sind Attachment Styles?"
+    answer: "Attachment Styles sind vier Bindungsmuster: sicher, aengstlich, vermeidend und desorganisiert. Sie praegen Beziehungen."
+  - question: "Wie erkenne ich meinen Bindungsstil?"
+    answer: "Beobachte dein Verhalten in Naehe und Distanz. Tests im Internet oder Therapie helfen bei der Einordnung."
+  - question: "Ist mein Bindungsstil veraenderbar?"
+    answer: "Ja, mit Bewusstsein und Arbeit kannst du dich Richtung sicher gebunden entwickeln. Es dauert, aber lohnt sich."
+  - question: "Wann sollte ich an meinem Bindungsstil arbeiten?"
+    answer: "Wenn Beziehungen wiederholt scheitern oder dich erschoepfen, ist Bindungsarbeit ein guter Schluessel."
 ---
-
 
 ## Bindungstypen verstehen: Der komplette Guide
 

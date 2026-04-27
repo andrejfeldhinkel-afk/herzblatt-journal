@@ -7,17 +7,18 @@ updated: 2026-04-15
 image: "/images/blog/beziehung-nach-fehlgeburt-staerken.webp"
 imageAlt: "Beziehung nach Fehlgeburt stärken"
 tags: ["Beziehung"]
-faq:
-  - question: "Was sind Anzeichen für eine gesunde Beziehung?"
-    answer: "Gegenseitiges Vertrauen, offene Kommunikation, Respekt vor Grenzen, gemeinsames Lachen und die Fähigkeit, Konflikte fair zu lösen."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Wie staerken wir die Beziehung nach einer Fehlgeburt?"
+    answer: "Durch gemeinsames Trauern, Geduld, Hilfe annehmen und einander mit allen Gefuehlen zulassen."
+  - question: "Wie erkenne ich unterschiedliche Trauer-Tempi?"
+    answer: "Wenn einer schon weiterleben will und der andere noch trauert, gibt es Spannungen. Beides ist normal."
+  - question: "Ist Trauer in solcher Tiefe ueblich?"
+    answer: "Ja, eine Fehlgeburt ist ein realer Verlust. Trauer kann Wochen bis Jahre dauern, je nach Person."
+  - question: "Wann sollten wir Hilfe holen?"
+    answer: "Wenn einer feststeckt oder ihr nicht mehr miteinander redet, hilft spezialisierte Beratung."
 ---
-
 ## Beziehung nach Fehlgeburt stärken
 
 Eine Fehlgeburt ist einer der schmerzhaftesten Erfahrungen, die du und dein Partner durchmachen könnt. Da ist dieser Traum, diese Zukunft, die ihr euch vorgestellt habt – und dann ist sie einfach weg. Der Schmerz ist immens, und oft schweigt man darüber, weil die Gesellschaft einem sagt, man solle „stark" sein.

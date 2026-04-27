@@ -9,15 +9,15 @@ imageAlt: "Gemeinsam abnehmen als Paar: Motivation und Zusammenhalt"
 date: 2025-12-18
 author: "sarah-kellner"
 faq:
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
-  - question: "Kann ich die Tipps sofort umsetzen?"
-    answer: "Ja, unsere Ratgeber sind praxisnah geschrieben. Du findest konkrete Schritte, die du direkt in deinem Alltag anwenden kannst."
-
+  - question: "Was ist gemeinsames Abnehmen als Paar?"
+    answer: "Ihr setzt euch gemeinsame Ziele, kocht zusammen, treibt Sport und unterstuetzt euch im Alltag."
+  - question: "Wie erkenne ich, dass es zusammen besser klappt?"
+    answer: "Wenn du dich motiviert fuehlst und nicht heimlich snackst, ist die gemeinsame Energie spuerbar."
+  - question: "Ist gemeinsames Abnehmen wirklich effektiver?"
+    answer: "Ja, Studien zeigen, dass Paare hoehere Erfolgsquoten haben als Einzelpersonen."
+  - question: "Wann sollten wir Profis hinzuziehen?"
+    answer: "Bei Stagnation oder gesundheitlichen Problemen helfen Ernaehrungsberatung und Aerztin weiter."
 ---
-
 
 Gemeinsam abnehmen als Paar: Motivation und Zusammenhalt
 

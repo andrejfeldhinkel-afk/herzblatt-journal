@@ -24,8 +24,16 @@ faq:
   answer: "Es gibt keine magische Zahl. Es hängt ab, was funktioniert. Manche Paare sind glücklich mit 3 Nächten zusammen, andere mit 6. Finde dein Gleichgewicht."
 - question: Was, wenn ich Nähe möchte und er/sie Distanz?
   answer: "Das ist eines der häufigsten Konflikte. Akzeptiere, dass ihr unterschiedliche Bedürfnisse habt. Arbeitet zusammen an einem Kompromiss."
+faq:
+  - question: "Was ist die Naehe-Distanz-Balance?"
+    answer: "Das gesunde Verhaeltnis zwischen gemeinsamer Zeit und individuellem Freiraum in der Beziehung."
+  - question: "Wie erkenne ich, dass die Balance kippt?"
+    answer: "Wenn einer sich erdrueckt fuehlt oder der andere vernachlaessigt, ist Schieflage erkennbar."
+  - question: "Ist die richtige Balance fuer alle gleich?"
+    answer: "Nein, jedes Paar findet seinen eigenen Rhythmus. Wichtig ist, dass beide sich wohlfuehlen."
+  - question: "Wann sollten wir nachjustieren?"
+    answer: "Sobald einer unzufrieden wirkt oder Konflikte um Zeit entstehen, lohnt sich offenes Gespraech."
 ---
-
 
 ## Nähe und Distanz: Die Balance in glücklichen Paaren
 

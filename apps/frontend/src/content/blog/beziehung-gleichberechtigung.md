@@ -12,14 +12,15 @@ image: "/images/photos/beziehung-verschiedene-lebensziele.webp"
 imageAlt: "Zwei Menschen sitzen sich gleichberechtigt gegenüber und halten sich die Hände"
 featured: false
 faq:
-  - question: "Was bedeutet Gleichberechtigung in einer modernen Beziehung?"
-    answer: "Gleichberechtigung bedeutet, dass beide Partner Stimmen haben, beide ihre Grenzen haben, beide ihre Träume haben und beide gleich wertvoll sind. Es bedeutet nicht 50/50 in allem, sondern gegenseitiger Respekt und Wertschätzung."
-  - question: "Wie spreche ich mit meinem Partner über Ungleichgewicht, ohne zu vorwurfsvoll zu wirken?"
-    answer: "Nutze 'Ich'-Aussagen: 'Ich fühle mich unwichtig, wenn ...'. Sei spezifisch: 'Meine Träume werden nicht unterstützt' statt 'Du unterstützt mich nie'. Und höre dem anderen zu – das kann zweiseitig sein."
-  - question: "Was tun wir, wenn einer von uns mehr Geld verdient?"
-    answer: "Mehr Geld verdienen macht dich nicht wichtiger in der Beziehung. Diskutiert offen über Finanzen, teilt Entscheidungen, und erkennt an, dass Geld nur eine Form von Wert ist. Emotionale Arbeit und Hausarbeit sind auch wertvoll."
+  - question: "Was bedeutet Gleichberechtigung in der Beziehung?"
+    answer: "Beide Partner haben gleiche Rechte, Verantwortung und Mitspracherecht in allen Lebensbereichen."
+  - question: "Wie erkenne ich, ob unsere Beziehung gleichberechtigt ist?"
+    answer: "Beide entscheiden mit, beide tragen Care-Arbeit und beide haben gleiche Freiraeume."
+  - question: "Ist absolute Gleichberechtigung realistisch?"
+    answer: "Annaehernd ja. Wichtig ist, dass beide das Gefuehl haben, fair behandelt zu werden."
+  - question: "Wann sollten wir das Thema ansprechen?"
+    answer: "Sobald einer sich uebergangen fuehlt oder traditionelle Muster sich ungewollt einschleichen."
 ---
-
 Eine der stillen Krisen in vielen Beziehungen ist ein Mangel an Gleichberechtigung. Nicht offensichtlich – nicht durch Missbrauch oder Kontrolle – sondern durch alltägliche Ungleichgewichte: wer denkt an Geburtstage, wer macht die meisten Hausarbeiten, wessen Karriere wird priorisiert.
 
 Diese Ungleichgewichte erodieren die [beziehung](/blog/adhs-und-beziehung-komplett-guide/) Stück für Stück.

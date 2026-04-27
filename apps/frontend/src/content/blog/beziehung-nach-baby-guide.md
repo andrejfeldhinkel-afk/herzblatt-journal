@@ -9,14 +9,15 @@ author: "sarah-kellner"
 image: "/images/blog/beziehung-nach-baby-guide.webp"
 imageAlt: "Beziehungs Guide für Paare mit neugeborenes"
 faq:
-  - question: "Ist es normal dass Intimität nach Baby sinkt?"
-    answer: "'Ja! SEHR normal. 90% der Paare berichten weniger Sex nach Baby (wegen Müdigkeit, Hormonveränderungen, Zeit). Wichtig: Das ist NORMAL und temporär.'"
-  - question: "Wann können wir wieder Sex haben?"
-    answer: "6 Wochen medizinisch ok (nach Blutung stop), aber emotional könnte länger sein. Mit Frau sollte gehen mit IHR Tempo, nicht dein Druck."
-  - question: "Wie teilen wir Aufgaben fair auf?"
-    answer: "Nicht 50-50 möglich immer (wenn Frau stillt, sie macht mehr Nacht-Feeds). Aber beide sollten sich 'gehört' fühlen in Effort + Decision-making."
+  - question: "Was passiert mit der Beziehung nach dem Baby?"
+    answer: "Sie veraendert sich grundlegend. Schlafmangel, neue Rollen und weniger Zweisamkeit fordern enorm."
+  - question: "Wie erkenne ich, ob wir gut durch die Phase kommen?"
+    answer: "Wenn ihr trotz Stress lacht, redet und Naehe sucht, lebt die Verbindung weiter."
+  - question: "Ist Krise nach Geburt normal?"
+    answer: "Ja, sehr verbreitet. Bis zu 70 Prozent der Paare berichten von Krisen im ersten Babyjahr."
+  - question: "Wann sollten wir Hilfe holen?"
+    answer: "Wenn ihr nicht mehr redet oder einer dauerhaft erschoepft ist, hilft Beratung sehr."
 ---
-
 ## Beziehung nach dem Baby: Wie ihr zusammen überlebt (und danach lieber seid)
 
 Ein Baby ist nicht "ein großer Schritt vorwärts" in deiner Beziehung. Es ist ein permanenter Stress-Test für eure Partnerschaft. Und das ist völlig normal. Wenn du gerade Eltern geworden bist oder es gerade passiert ist, dann brauchst du nicht mehr als einen klaren, ehrlichen Guide, wie ihr als Paar diese intensive Phase nicht nur übersteht, sondern sogar noch näher zusammenwachst.

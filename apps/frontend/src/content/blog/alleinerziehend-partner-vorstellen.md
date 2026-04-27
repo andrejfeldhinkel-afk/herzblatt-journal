@@ -15,17 +15,18 @@ keywords:
   - Familie
   - Beziehung
   - Ratgeber
-faq:
-  - question: "Wie stärkt man eine Beziehung langfristig?"
-    answer: "Regelmäßige offene Kommunikation, gemeinsame Erlebnisse und gegenseitiger Respekt sind die wichtigsten Säulen. Auch kleine Aufmerksamkeiten im Alltag halten die Verbindung lebendig."
-  - question: "Wann sollte man professionelle Hilfe für die Beziehung suchen?"
-    answer: "Wenn wiederkehrende Konflikte nicht gelöst werden können oder einer dauerhaft unglücklich ist, kann Paartherapie sehr hilfreich sein."
-  - question: "Was sind die häufigsten Beziehungsprobleme?"
-    answer: "Kommunikationsprobleme, unterschiedliche Erwartungen, mangelnde Quality Time und Vertrauensbrüche gehören zu den häufigsten Herausforderungen."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was ist beim Vorstellen eines neuen Partners zu beachten?"
+    answer: "Wichtig ist, dass die Beziehung stabil ist und das Kind im Mittelpunkt steht. Nicht jeden Flirt vorstellen."
+  - question: "Wie erkenne ich den richtigen Zeitpunkt?"
+    answer: "Wenn die Beziehung mindestens drei bis sechs Monate stabil laeuft und ihr ueber Zukunft sprecht, ist es soweit."
+  - question: "Ist Eifersucht des Kindes normal?"
+    answer: "Ja, Kinder reagieren oft mit Trotz oder Rueckzug. Das ist normal und braucht Geduld und Zuwendung."
+  - question: "Wann sollte ich Hilfe suchen?"
+    answer: "Wenn dein Kind stark leidet oder massive Konflikte entstehen, hilft Familienberatung weiter."
 ---
-
 
 ## Neuen Partner den Kindern vorstellen: So geht's richtig
 

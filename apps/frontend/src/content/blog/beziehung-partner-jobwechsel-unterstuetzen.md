@@ -11,15 +11,15 @@ date: 2025-07-30
 updated: 2026-04-15
 author: "sarah-kellner"
 faq:
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
-  - question: "Kann ich die Tipps sofort umsetzen?"
-    answer: "Ja, unsere Ratgeber sind praxisnah geschrieben. Du findest konkrete Schritte, die du direkt in deinem Alltag anwenden kannst."
-
+  - question: "Wie unterstuetze ich beim Jobwechsel?"
+    answer: "Mit Geduld, aktivem Zuhoeren und konkreter Hilfe wie Bewerbungen lesen oder emotionalem Rueckhalt."
+  - question: "Wie erkenne ich, was er gerade braucht?"
+    answer: "Frag direkt: Brauchst du Trost, Rat oder Ablenkung? Das spart Missverstaendnisse."
+  - question: "Ist Jobwechsel ein Beziehungstest?"
+    answer: "Oft ja. Stress, Geld und Identitaet werden durchgeruettelt. Eure Bindung wird gefordert."
+  - question: "Wann sollten wir Hilfe holen?"
+    answer: "Wenn Stress die Beziehung dauerhaft belastet oder einer in Krise rutscht, ist Beratung wertvoll."
 ---
-
 
 Partner beim Jobwechsel unterstützen: So bleibt die Beziehung stark
 

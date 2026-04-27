@@ -13,14 +13,15 @@ draft: false
 featured: false
 author: "sarah-kellner"
 faq:
-  - question: "Woran erkenne ich einen ängstlichen Bindungsstil?"
-    answer: "Ein ängstlicher Bindungsstil zeigt sich durch intensive Angst vor Ablehnung und Verlust, ständiges Bedürfnis nach Versicherung vom Partner, intensive Eifersucht, Überinterpretation von Nachrichten und starke emotionale Reaktionen auf kleine Distanzierungen. Diese Menschen sehnen sich nach Nähe, fürchten aber gleichzeitig, dass der Partner sie verlässt."
-  - question: "Wie gehe ich mit der Angst vor Verlust um?"
-    answer: "Schrittweise Selbstberuhigung entwickeln, eigene Hobbys und Freundschaften pflegen, Partner nicht für Emotionalregulation missbrauchen, Trigger erkennen und bewusst damit umgehen, ggf. professionelle Unterstützung suchen."
-  - question: "Kann ich meinen ängstlichen Bindungsstil heilen?"
-    answer: "Ja, Bindungsstile können sich durch bewusste Arbeit verändern. Das dauert aber Zeit und Geduld. Eine sichere Bindung zu einem Partner und professionelle Unterstützung können dabei helfen."
+  - question: "Was ist der aengstliche Bindungsstil?"
+    answer: "Beim aengstlichen Bindungsstil hast du staendige Sorge, verlassen zu werden, und brauchst viel Bestaetigung vom Partner."
+  - question: "Wie erkenne ich aengstliche Bindung bei mir?"
+    answer: "Du gruebelst viel, schreibst schnelle Nachrichten und liest jede Reaktion deines Partners. Das sind klare Hinweise."
+  - question: "Ist es normal, aengstlich gebunden zu sein?"
+    answer: "Ja, etwa 20 Prozent der Menschen sind aengstlich gebunden. Du bist damit nicht allein."
+  - question: "Wann sollte ich Hilfe suchen?"
+    answer: "Wenn deine Angst dich emotional erschoepft oder Beziehungen kontinuierlich darunter leiden, hilft Therapie."
 ---
-
 Du sitzt beim Kaffee und dein Partner antwortet nach 20 Minuten nicht auf deine Nachricht. Dein Herz fängt an zu rasen. War es etwas, das du gesagt hast? Ist er sauer? Verliert er das Interesse? In deinem Kopf spielen sich zehn verschiedene Szenarien ab, bis die Antwort kommt: „War gerade in einer Besprechung, alles gut." Erleichterung flutet durch deinen Körper — zumindest bis zur nächsten Nachricht, die unerwartet lange dauert.
 
 Wenn das nach dir klingt, hast du möglicherweise einen ängstlichen [Bindungsstil](/bindungsstile/). Das ist nicht etwa ein Fehler in dir — es ist ein Muster, das durch deine frühen Beziehungserfahrungen geprägt wurde. Und das Gute: Es ist veränderbar.

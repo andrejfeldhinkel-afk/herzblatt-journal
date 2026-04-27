@@ -6,17 +6,18 @@ date: 2025-10-24
 image: "/images/blog/beziehung-nach-betrug-vertrauen.webp"
 imageAlt: "Vertrauen aufbauen nach Betrug"
 tags: ["Vertrauen"]
-faq:
-  - question: "Wie baut man Vertrauen in einer Beziehung auf?"
-    answer: "Durch Zuverlässigkeit, Ehrlichkeit, offene Kommunikation und das Einhalten von Versprechen. Vertrauen wächst langsam und braucht konsistentes Handeln."
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Wie kann Vertrauen nach Betrug wieder wachsen?"
+    answer: "Durch Offenheit, Verantwortungsuebernahme, neue Vereinbarungen und Geduld auf beiden Seiten."
+  - question: "Wie erkenne ich, dass Vertrauen waechst?"
+    answer: "Du fuehlst weniger Misstrauen, schlafst besser und kannst loslassen ohne staendige Kontrolle."
+  - question: "Ist es normal, dass es Jahre dauert?"
+    answer: "Ja, voelliges Vertrauen kann ein bis drei Jahre brauchen. Druck schadet dem Prozess."
+  - question: "Wann sollten wir Therapie machen?"
+    answer: "Sofort, denn Vertrauen aufzubauen gelingt mit professioneller Begleitung viel besser."
 ---
-
 ## Der Moment nach dem Betrug
 
 Der Moment, in dem du erfährst, dass dein Partner dich betrogen hat, ist einer der schrecklichsten Momente in einer Beziehung. Es ist nicht nur Traurigkeit. Es ist Verrat. Wut. Verwirrung. Verachtung. Du sitzt da und fragst dich: War das ganze unsere Beziehung eine Lüge?

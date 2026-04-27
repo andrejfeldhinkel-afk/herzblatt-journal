@@ -7,17 +7,18 @@ updated: 2026-04-15
 image: "/images/blog/beziehung-fernbeziehung-ueberleben.webp"
 imageAlt: "Fernbeziehung überleben"
 tags: ["Fernbeziehung"]
-faq:
-  - question: "Ist dieser Ratgeber kostenlos?"
-    answer: "Ja, alle Artikel auf Herzblatt Journal sind komplett kostenlos. Wir finanzieren uns über Empfehlungen und Affiliate-Links."
-  - question: "Basieren die Tipps auf wissenschaftlichen Erkenntnissen?"
-    answer: "Wir stützen unsere Ratgeber auf aktuelle psychologische Forschung und die Erfahrung unserer Experten aus der Praxis."
-  - question: "Kann ich die Tipps sofort umsetzen?"
-    answer: "Ja, unsere Ratgeber sind praxisnah geschrieben. Du findest konkrete Schritte, die du direkt in deinem Alltag anwenden kannst."
 draft: false
 author: "sarah-kellner"
+faq:
+  - question: "Was ist das Geheimnis einer Fernbeziehung?"
+    answer: "Klare Kommunikation, regelmaessige Treffen und gemeinsame Zukunftsperspektive sind die drei Saeulen."
+  - question: "Wie erkenne ich, ob unsere Fernbeziehung haelt?"
+    answer: "Wenn ihr offen redet, euch sicher fuehlt und ein Ende der Distanz seht, ist sie auf gutem Weg."
+  - question: "Ist Eifersucht in Fernbeziehungen normal?"
+    answer: "Ja, etwas Eifersucht ist normal. Wichtig ist, dass sie nicht zu Misstrauen und Kontrolle fuehrt."
+  - question: "Wann sollten wir Schluss machen?"
+    answer: "Wenn die Distanz dauerhaft erschoepft oder kein Ende absehbar ist, muss man ehrlich nachdenken."
 ---
-
 ## Die Realität einer Fernbeziehung
 
 Du sitzt am Abend auf deinem Sofa, schaust auf dein Handy und freust dich auf das Video-Call mit deinem Partner – aber der ist grade bei einem Termin. Oder ihr schadet es, euch zu sehen, weil es weh tut, wenn ihr euch nach dem Wochenende wieder trennen müsst. Fernbeziehungen sind hart. Das ist keine romantische Anekdote, die du irgendwann deinen Kindern erzählst – das ist echte Anstrengung, jeden verdammten Tag.

@@ -14,17 +14,18 @@ keywords:
   - Slow Dating
   - Mindset
   - Selbstkenntnis
-faq:
-  - question: "Wie stärkt man eine Beziehung langfristig?"
-    answer: "Regelmäßige offene Kommunikation, gemeinsame Erlebnisse und gegenseitiger Respekt sind die wichtigsten Säulen. Auch kleine Aufmerksamkeiten im Alltag halten die Verbindung lebendig."
-  - question: "Wann sollte man professionelle Hilfe für die Beziehung suchen?"
-    answer: "Wenn wiederkehrende Konflikte nicht gelöst werden können oder einer dauerhaft unglücklich ist, kann Paartherapie sehr hilfreich sein."
-  - question: "Was sind die häufigsten Beziehungsprobleme?"
-    answer: "Kommunikationsprobleme, unterschiedliche Erwartungen, mangelnde Quality Time und Vertrauensbrüche gehören zu den häufigsten Herausforderungen."
 draft: false
 author: "markus-hoffmann"
+faq:
+  - question: "Was bedeutet achtsames Dating?"
+    answer: "Achtsames Dating heisst, bewusst praesent zu sein, ohne Ablenkung durch Handy oder Erwartungen wirklich zuzuhoeren."
+  - question: "Wie erkenne ich achtsames Verhalten beim Dating?"
+    answer: "Du erkennst es daran, dass dein Date Augenkontakt haelt, Fragen stellt und nicht staendig aufs Handy schaut."
+  - question: "Ist Achtsamkeit beim Dating nur ein Trend?"
+    answer: "Nein, Achtsamkeit ist eine bewaehrte Haltung. Sie hilft dir echte Verbindungen zu spueren statt Oberflaechlichkeit."
+  - question: "Wann sollte ich achtsames Dating ausprobieren?"
+    answer: "Wenn du dich nach jedem Date leer fuehlst oder oberflaechliche Kontakte satt hast, ist es genau das Richtige."
 ---
-
 
 ## Achtsam daten: Mit Achtsamkeit zum richtigen Partner
 

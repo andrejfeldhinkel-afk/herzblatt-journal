@@ -14,10 +14,14 @@ draft: false
 image: "/images/photos/vertrauen-nach-betrug.webp"
 imageAlt: "Vertrauensmissbrauch in der Beziehung"
 faq:
-  - question: "Was ist das Wichtigste bei vertrauensmissbrauch in der beziehung?"
-    answer: "Das Wichtigste ist Selbstreflexion und offene Kommunikation. Nimm dir Zeit, deine eigenen Bedürfnisse zu verstehen, bevor du Entscheidungen triffst."
-  - question: "Wo finde ich Hilfe zum Thema vertrauensmissbrauch in der beziehung?"
-    answer: "Sprich mit Freunden, einem Coach oder Therapeuten. Auch Online-Ressourcen und Ratgeber wie unser Blog bieten wertvolle Unterstützung."
+  - question: "Was bedeutet Vertrauensmissbrauch in der Beziehung?"
+    answer: "Ein bewusster Bruch des Vertrauens, etwa durch Luegen, Verrat oder Geheimnisse mit Schaden."
+  - question: "Wie erkenne ich Vertrauensmissbrauch?"
+    answer: "Du fuehlst dich hintergangen, manipuliert oder bewusst in die Irre gefuehrt. Das Gefuehl traegt nicht."
+  - question: "Ist Heilung danach moeglich?"
+    answer: "Ja, aber es braucht Wahrheitswille beider Seiten. Halbe Sachen heilen nichts."
+  - question: "Wann sollten wir Therapie machen?"
+    answer: "Sofort. Bei tiefem Missbrauch ist Selbsthilfe meist nicht ausreichend, Profis sind noetig."
 ---
 ## Vertrauensmissbrauch in der Beziehung: Wie Heilung gelingt
 

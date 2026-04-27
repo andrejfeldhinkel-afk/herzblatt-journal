@@ -20,12 +20,14 @@ draft: false
 featured: false
 author: "thomas-peters"
 faq:
-  - question: "Wie beeinflusst ADHS eine Beziehung?"
-    answer: "ADHS kann zu Vergesslichkeit, Impulsivität, emotionaler Dysregulation und Schwierigkeiten beim Zuhören führen. Der nicht-ADHS-Partner fühlt sich oft ignoriert oder überlastet, während der ADHS-Partner sich kritisiert fühlt."
-  - question: "Was ist das Eltern-Kind-Dynamik-Problem bei ADHS-Paaren?"
-    answer: "Wenn der nicht-ADHS-Partner ständig erinnern, organisieren und kontrollieren muss, entsteht eine Eltern-Kind-Dynamik. Das zerstört Intimität und Respekt. Beide müssen aktiv gegensteuern."
-  - question: "Kann eine Beziehung mit ADHS funktionieren?"
-    answer: "Absolut! Mit Verständnis, klaren Strukturen, offener Kommunikation und ggf. professioneller Unterstützung können ADHS-Beziehungen sogar besonders lebendig und kreativ sein."
+  - question: "Was bedeutet ADHS in einer Beziehung?"
+    answer: "ADHS bedeutet, dass dein Partner Schwierigkeiten mit Konzentration, Impulsen und Routinen hat. Das beeinflusst den Alltag."
+  - question: "Wie erkenne ich ADHS-Muster in der Partnerschaft?"
+    answer: "Vergesslichkeit, schnelle Begeisterung und impulsives Verhalten sind typisch. Auch Reizueberflutung kann ein Hinweis sein."
+  - question: "Ist ADHS in der Beziehung ein Trennungsgrund?"
+    answer: "Nein, mit Verstaendnis und klaren Strukturen koennen ADHS-Paare sehr glueckliche Beziehungen fuehren."
+  - question: "Wann sollten wir uns Hilfe holen?"
+    answer: "Wenn ihr regelmaessig im Streit landet oder einer von euch erschoepft ist, hilft Paartherapie oder ADHS-Coaching."
 ---
 ## ADHS und beziehung: Der komplette Guide für Liebe mit Aufmerksamkeitsdefizit
 
