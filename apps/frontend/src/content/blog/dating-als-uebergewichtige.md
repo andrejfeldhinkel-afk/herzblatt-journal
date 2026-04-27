@@ -22,7 +22,6 @@ faq:
     answer: "Ja, das ist verbreitet. Der Schluessel ist, sie zu verstehen statt zu unterdruecken und an deinem Selbstwert unabhaengig vom Koerper zu arbeiten."
   - question: "Wie finde ich einen Partner, der mich so liebt wie ich bin?"
     answer: "Sei von Anfang an authentisch, zeige dich auf Fotos echt und filtere Menschen heraus, die deine Energie und Persoenlichkeit wirklich schaetzen."
-  - "selbstbewusst daten"
 draft: false
 author: "sarah-kellner"
 ---
