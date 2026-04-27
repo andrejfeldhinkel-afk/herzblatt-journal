@@ -1,5 +1,5 @@
 ---
-title: "Dating mit sozialer Angst"
+title: "Dating mit sozialer Angst: Strategien, die wirklich funktionieren"
 description: "Überwinde deine sozialen Ängste beim Dating. Praktische Strategien und Mindset-Shifts für angstfreies Daten."
 date: 2026-03-29
 tags:

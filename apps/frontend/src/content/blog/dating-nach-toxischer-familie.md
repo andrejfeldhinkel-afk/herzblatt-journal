@@ -1,5 +1,5 @@
 ---
-title: "Dating nach toxischer Familie"
+title: "Dating nach toxischer Familie: Alte Muster durchbrechen, gesunde Liebe finden"
 description: "Wie toxische Familienmuster dein Dating beeinflussen. Erkenne People-Pleasing, durchbreche Bindungsmuster und finde gesunde Partner."
 date: 2026-03-18
 image: "/images/blog/dating-nach-toxischer-familie.webp"

@@ -1,5 +1,5 @@
 ---
-title: "Dating mit Zwangsstörung"
+title: "Dating mit Zwangsstörung: Wie OCD deine Beziehungen prägt – und was hilft"
 description: "Dating mit Zwangsstörung — Praktische Dating-Ratschläge, die wirklich funktionieren. Von Experten empfohlen."
 date: 2026-03-16
 tags: ["Dating", "Gesundheit", "Psychologie"]

@@ -1,5 +1,5 @@
 ---
-title: "Dating als hochsensible Frau"
+title: "Dating als hochsensible Frau: Was du wissen musst"
 description: "Dating als hochsensible Frau — Dein umfassender Ratgeber auf Herzblatt Journal. Praktische Tipps und Expertenwissen für die Liebe."
 keywords: ["dating als hochsensible frau", "neurodiversität", "dating hochsensible", "hochsensible frau"]
 date: 2025-12-30

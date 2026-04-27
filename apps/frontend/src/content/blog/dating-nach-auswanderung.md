@@ -1,5 +1,5 @@
 ---
-title: "Dating im neuen Land: Liebe finden nach dem Umzug ins"
+title: "Dating im neuen Land: Liebe finden nach dem Umzug ins Ausland"
 description: "Als Expat ein neues Leben aufbauen und gleichzeitig eine Beziehung finden — kulturelle Hürden souverän meistern."
 date: 2026-03-10
 tags:

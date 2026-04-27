@@ -1,5 +1,5 @@
 ---
-title: "Dating nach spätem Coming-Out"
+title: "Dating nach spätem Coming-Out – Neustart in der eigenen Wahrheit"
 description: "Dating nach spätem Coming-Out: Alles was du wissen musst, um beim Dating selbstbewusst aufzutreten und die richtige Person zu finden."
 date: 2026-03-16
 tags: ["Dating", "LGBTQ+", "Neuanfang"]

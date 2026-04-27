@@ -1,5 +1,5 @@
 ---
-title: "Unterschiedliche Weltanschauungen: Wenn Dating komplex wird"
+title: "Unterschiedliche Weltanschauungen beim Dating: Wenn Politik kollidiert"
 description: "Unterschiedliche Weltanschauungen — Konflikte konstruktiv lösen und die Beziehung stärken. Bewährte Methoden und praktische Tipps."
 keywords: ["unterschiedliche weltanschauungen", "konflikte", "unterschiedliche weltanschauungen:", "weltanschauungen: wenn", "wenn dating", "dating komplex"]
 date: 2025-05-09

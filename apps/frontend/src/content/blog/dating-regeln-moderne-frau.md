@@ -1,5 +1,5 @@
 ---
-title: "Dating-Regeln für die moderne Frau — Was wirklich"
+title: "Dating-Regeln für die moderne Frau — Was wirklich funktioniert"
 description: "Authentische Dating-Tipps für moderne Frauen: Was funktioniert wirklich und was solltest du vermeiden."
 date: 2026-03-16
 tags: ["Beziehung", "Dating", "Ratgeber"]

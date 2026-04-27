@@ -1,5 +1,5 @@
 ---
-title: "Sternzeichen und Dating"
+title: "Sternzeichen und Dating: Was ist wirklich dran an der Astrologie?"
 description: "Erfahren Sie alles über Sternzeichen-Kompatibilität beim Dating. Wissenschaftliche Perspektive und praktische Einblicke für die Liebe."
 date: 2026-03-16
 tags: ["Beziehung", "Dating", "Lifestyle", "Psychologie"]

@@ -1,5 +1,5 @@
 ---
-title: "Erkenne dein Liebes-Muster"
+title: "Erkenne dein Liebes-Muster: Die Art, wie du liebst"
 description: "Erkenne dein Liebes-Muster: Praktische Tipps und psychologische Einblicke für eine erfüllte Beziehung. Jetzt lesen auf Herzblatt Journal."
 keywords: ["erkenne dein liebes-muster", "beziehung", "psychologie", "erkenne dein", "dein liebes-muster"]
 date: 2025-06-22

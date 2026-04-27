@@ -1,5 +1,5 @@
 ---
-title: "Dating-Profil für Frauen"
+title: "Das perfekte Dating-Profil für Frauen: Authentisch & wirkungsvoll"
 description: "Erfahre, wie du deinen Dating-Profil-Text optimal gestaltest und echte Matches anzieht, statt oberflächliche Likes zu sammeln."
 date: 2026-03-16
 tags: ["Dating", "Online-Dating", "Partnersuche"]

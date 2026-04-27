@@ -1,5 +1,5 @@
 ---
-title: "Dating mit ADHS: So findest du Liebe trotz"
+title: "Dating mit ADHS: So findest du Liebe trotz Aufmerksamkeits-Chaos"
 description: "ADHS beim Dating meistern: Kommunikation, Hyperfokus, Vergesslichkeit und wie dein Partner dich wirklich versteht."
 date: 2026-03-09
 tags:

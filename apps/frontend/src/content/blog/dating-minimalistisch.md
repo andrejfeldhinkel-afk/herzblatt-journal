@@ -1,5 +1,5 @@
 ---
-title: "Minimalistisch daten"
+title: "Minimalistisch daten: Weniger ist wirklich mehr"
 description: "Minimalistisch daten — Die besten Tipps und Strategien für erfolgreiches Dating. Authentisch, ehrlich und auf Augenhöhe."
 keywords: ["minimalistisch daten", "dating"]
 date: 2025-12-29
