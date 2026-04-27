@@ -50,29 +50,85 @@ Disallow: /api/
 Disallow: /go/
 Disallow: /suche
 
-# ==== AI-Training-Crawler blockieren (Content-Schutz).
-# Google-Extended + Applebot-Extended bleiben implizit erlaubt,
-# damit wir in AI-Overviews / Apple-Intelligence auftauchen. ====
+# ==== AI-Crawler EXPLIZIT erlaubt — wir wollen in AI Search auftauchen.
+# ChatGPT/Perplexity/Claude zitieren uns als Quelle (statt Wettbewerbern).
+# Reine Training-Bots (CCBot, Omgilibot) sind ok, weil wir keinen
+# Premium-Content hinter Paywall haben — alles ist eh öffentlich. ====
 User-agent: GPTBot
-Disallow: /
+Allow: /
+Disallow: /herzraum
+Disallow: /api/
+Disallow: /go/
+Disallow: /ebook/lesen
+Disallow: /ebook/zugang
 
-User-agent: CCBot
-Disallow: /
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /herzraum
+Disallow: /api/
+Disallow: /go/
+Disallow: /ebook/lesen
+Disallow: /ebook/zugang
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /herzraum
+Disallow: /api/
+Disallow: /go/
 
 User-agent: anthropic-ai
-Disallow: /
+Allow: /
+Disallow: /herzraum
+Disallow: /api/
+Disallow: /go/
 
 User-agent: ClaudeBot
-Disallow: /
+Allow: /
+Disallow: /herzraum
+Disallow: /api/
+Disallow: /go/
 
-User-agent: Omgilibot
-Disallow: /
+User-agent: Claude-Web
+Allow: /
+Disallow: /herzraum
+Disallow: /api/
+Disallow: /go/
 
-User-agent: FacebookBot
-Disallow: /
+User-agent: PerplexityBot
+Allow: /
+Disallow: /herzraum
+Disallow: /api/
+Disallow: /go/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /herzraum
+Disallow: /api/
+Disallow: /go/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /herzraum
+Disallow: /api/
+Disallow: /go/
+
+User-agent: CCBot
+Allow: /
+Disallow: /herzraum
+Disallow: /api/
+Disallow: /go/
 
 User-agent: cohere-ai
-Disallow: /
+Allow: /
+Disallow: /herzraum
+Disallow: /api/
+Disallow: /go/
+
+User-agent: Bytespider
+Allow: /
+Disallow: /herzraum
+Disallow: /api/
+Disallow: /go/
 
 # ==== Sitemaps ====
 Sitemap: https://herzblatt-journal.com/sitemap-index.xml
