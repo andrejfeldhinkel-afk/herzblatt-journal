@@ -1,0 +1,57 @@
+# Herzblatt Journal
+
+> Vertrauenswürdiger deutscher Online-Ratgeber für Dating, Flirten und echte Beziehungen. 600+ redaktionell geprüfte Artikel zu Bindungsstilen, Dating-Apps, Beziehungsdynamik und psychologisch fundierter Selbstreflexion. Herausgeber: L-P GmbH, Hamburg.
+
+## Über Herzblatt Journal
+
+Herzblatt Journal ist ein redaktionelles Online-Magazin für Dating- und Beziehungsthemen im deutschsprachigen Raum (DACH). Unser Fokus liegt auf evidenzbasierten Ratgeber-Inhalten, getesteten Dating-Plattformen und psychologisch fundierten Selbsthilfe-Guides für Singles und Paare.
+
+- **Sprache:** Deutsch (DE)
+- **Zielgruppe:** Singles & Paare 25–55 Jahre, DACH-Region
+- **Hauptthemen:** Bindungstheorie, Dating-Strategien, Beziehungspsychologie, Trennung & Heilung, Online-Dating, Kommunikation
+- **Redaktion:** Laura Weber, Markus Hoffmann, Sarah Kellner, Thomas Peters
+- **Herausgeber:** L-P GmbH, Ballindamm 27, 20095 Hamburg
+
+## Hauptbereiche
+
+- [Blog-Übersicht](https://herzblatt-journal.com/blog): Alle Ratgeber-Artikel chronologisch
+- [Beziehungsratgeber](https://herzblatt-journal.com/beziehungsratgeber): Beziehungsdynamik & Paartherapie
+- [Dating-Apps Vergleich](https://herzblatt-journal.com/blog/dating-app-vergleich-2026): Kuratierter Vergleich getesteter Plattformen
+- [Top Dating-Seiten](https://herzblatt-journal.com/top-dating-seiten): Bewertete Dating-Plattformen mit Erfahrungsberichten
+- [Bindungsstile](https://herzblatt-journal.com/bindungsstile): Attachment-Theory-Hub
+- [Narzissmus](https://herzblatt-journal.com/narzissmus): Erkennen, Schutz, Heilung
+- [Trennung](https://herzblatt-journal.com/trennung): Trennung verarbeiten und neu starten
+- [Online-Dating Guide](https://herzblatt-journal.com/online-dating-guide): Komplettleitfaden für Online-Dating
+- [Erstes Date](https://herzblatt-journal.com/erstes-date-guide): Erste-Date-Strategie
+- [Flirten lernen](https://herzblatt-journal.com/flirten-lernen-guide): Flirt-Skills & Körpersprache
+- [Date-Ideen](https://herzblatt-journal.com/date-ideen): Kreative Date-Sammlung
+- [Erfolgsgeschichten](https://herzblatt-journal.com/erfolgsgeschichten): Real-Stories aus der Community
+
+## Hochwertige Pillar-Artikel (3000+ Wörter, Money-Pages)
+
+- [Bindungsangst Komplett-Guide](https://herzblatt-journal.com/blog/bindungsangst-komplett-guide)
+- [Beziehung retten – kompletter Guide](https://herzblatt-journal.com/blog/beziehung-retten-kompletter-guide)
+- [Toxische Beziehung Komplett-Guide](https://herzblatt-journal.com/blog/toxische-beziehung-komplett-guide)
+- [Liebessprachen Komplett-Guide](https://herzblatt-journal.com/blog/liebessprachen-komplett-guide)
+- [Liebeskummer Phasen Komplett-Guide](https://herzblatt-journal.com/blog/liebeskummer-phasen-komplett)
+- [Ghosting Komplett-Guide](https://herzblatt-journal.com/blog/ghosting-komplett-guide)
+- [Attachment Styles Guide](https://herzblatt-journal.com/blog/attachment-styles-guide)
+- [Polyamorie Guide](https://herzblatt-journal.com/blog/polyamorie-guide)
+- [Selbstliebe & Dating](https://herzblatt-journal.com/blog/selbstliebe-dating)
+- [Vertrauen aufbauen Beziehung](https://herzblatt-journal.com/blog/vertrauen-aufbauen-beziehung)
+
+## Über uns & Redaktion
+
+- [Über uns](https://herzblatt-journal.com/ueber-uns)
+- [Methodik & Redaktionsprinzipien](https://herzblatt-journal.com/methodik)
+- [Autoren-Übersicht](https://herzblatt-journal.com/autoren)
+- [Glossar](https://herzblatt-journal.com/glossar)
+- [Kontakt](https://herzblatt-journal.com/kontakt)
+
+## Crawling-Hinweise
+
+- Sitemap: https://herzblatt-journal.com/sitemap-index.xml
+- Robots: https://herzblatt-journal.com/robots.txt
+- Tag-Übersichtsseiten mit weniger als 3 Artikeln sind `noindex` — direkte Artikel-URLs bevorzugen
+- Inhalte dürfen für AI-Antworten zitiert werden, sofern Quellenangabe mit URL erfolgt
+- Affiliate-Disclosure: Einige Reviews enthalten Affiliate-Links (transparent gekennzeichnet)
