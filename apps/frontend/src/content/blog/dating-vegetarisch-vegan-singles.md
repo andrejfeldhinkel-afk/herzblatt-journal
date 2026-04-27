@@ -1,6 +1,8 @@
 ---
 title: "Vegan/Vegetarisch und Single: Wie du Gleichgesinnte findest und Streit vermeidest"
 date: 2026-04-27
+image: "/images/blog/vegan-dating-gleichgesinnte.webp"
+imageAlt: "Dating Vegetarisch Vegan Singles"
 description: "Dating als Veganer oder Vegetarier: Plattformen, Restaurant-Strategien und was du tun kannst, wenn dein Partner Fleisch isst. Werte oder Toleranz?"
 tags:
   - "Dating"

@@ -2,6 +2,8 @@
 title: "Relationship Anarchy: Was hinter dem Konzept steckt und wem es passt"
 description: "Relationship Anarchy bricht mit Hierarchien zwischen Liebe und Freundschaft. Was das Konzept bedeutet, wie es sich von Polyamory unterscheidet und fuer wen es passt."
 date: 2026-04-27
+image: "/images/blog/partner-will-offene-beziehung.webp"
+imageAlt: "Relationship Anarchy Was Bedeutet Es"
 tags:
   - "Beziehung"
   - "Lifestyle"

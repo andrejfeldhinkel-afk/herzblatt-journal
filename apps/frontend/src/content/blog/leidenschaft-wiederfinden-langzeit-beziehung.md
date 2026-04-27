@@ -2,6 +2,8 @@
 title: "Leidenschaft wiederfinden in langer Beziehung: Was du tun kannst (auch nach 10 Jahren)"
 description: "Die Leidenschaft ist nach Jahren verflogen? So entfachst du den Funken neu - mit Esther Perels Distanz-Naehe-Paradox, Adventure-Therapy und der Sex-Map-Uebung."
 date: 2026-04-27
+image: "/images/blog/liebe-vs-leidenschaft.webp"
+imageAlt: "Leidenschaft Wiederfinden Langzeit Beziehung"
 tags: ["Beziehung", "Intimität", "Heilung"]
 keywords: ["leidenschaft wiederfinden", "leidenschaft beziehung", "funke zurueck"]
 author: "sarah-kellner"

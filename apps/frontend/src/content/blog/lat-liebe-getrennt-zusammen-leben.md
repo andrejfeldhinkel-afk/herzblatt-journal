@@ -2,6 +2,8 @@
 title: "LAT-Beziehung: Living Apart Together — wenn Liebe Eigenstaendigkeit braucht"
 description: "Living Apart Together: Warum 15 Prozent der deutschen Paare bewusst getrennt zusammen leben, welche Vorteile es hat und wo die Stolperfallen liegen."
 date: 2026-04-27
+image: "/images/blog/fernbeziehung-tipps.webp"
+imageAlt: "Lat Liebe Getrennt Zusammen Leben"
 tags:
   - "Beziehung"
   - "Lifestyle"

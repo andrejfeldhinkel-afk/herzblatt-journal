@@ -2,6 +2,8 @@
 title: "Dating mit Haustier: Wie Hund, Katze und Kaninchen den richtigen Partner filtern"
 description: "Dating mit Haustier: Wie dein Tier dir hilft, den richtigen Partner zu finden. Plattformen, Etikette und was du bei Allergien des Dates beachten musst."
 date: 2026-04-27
+image: "/images/blog/dating-mit-tattoos.webp"
+imageAlt: "Dating Mit Haustier Tipps"
 tags:
   - "Dating"
   - "Lifestyle"

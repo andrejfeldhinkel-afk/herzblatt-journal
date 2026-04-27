@@ -2,6 +2,8 @@
 title: "Vertrauen staerken in der Beziehung: 11 Uebungen fuer Paare die echt was bringen"
 description: "Vertrauen ist die Basis jeder Beziehung. 11 wissenschaftlich fundierte Uebungen nach Gottman - von Daily-Reflection ueber Trust-Falls bis zur Vulnerability-Hour."
 date: 2026-04-27
+image: "/images/blog/beziehung-rituale-staerken.webp"
+imageAlt: "Vertrauen Staerken Paar Uebungen"
 tags: ["Vertrauen", "Beziehung", "Heilung"]
 keywords: ["vertrauen staerken paar", "vertrauen aufbauen uebungen", "vertrauen beziehung"]
 author: "sarah-kellner"

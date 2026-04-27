@@ -2,6 +2,8 @@
 title: "Emotionale Tiefe aufbauen: Wie aus Smalltalk wirkliche Verbundenheit wird"
 description: "Emotionale Tiefe aufbauen mit den 36 Fragen nach Aron, Self-Disclosure-Stufen und Trust-Building. Aus Smalltalk wird echte Verbundenheit in der Beziehung."
 date: 2026-04-27
+image: "/images/blog/emotionale-reife-beziehung-guide.webp"
+imageAlt: "Emotionale Tiefe Beziehung Aufbauen"
 tags: ["Beziehung", "Kommunikation", "Intimität"]
 keywords: ["emotionale tiefe beziehung", "tiefere gespraeche", "vulnerability paar"]
 author: "sarah-kellner"

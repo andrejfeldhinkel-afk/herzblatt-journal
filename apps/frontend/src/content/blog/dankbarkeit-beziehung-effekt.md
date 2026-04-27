@@ -2,6 +2,8 @@
 title: "Dankbarkeit in der Beziehung: Warum Danke deine Liebe wissenschaftlich verlaengert"
 description: "Studien beweisen: Dankbarkeit ist der staerkste Vorhersage-Faktor fuer Beziehungslaenge. Wie das 5:1-Gottman-Verhaeltnis und Daily-Gratitude funktionieren."
 date: 2026-04-27
+image: "/images/blog/lange-beziehung-spannend-halten.webp"
+imageAlt: "Dankbarkeit Beziehung Effekt"
 tags: ["Beziehung", "Psychologie", "Kommunikation"]
 keywords: ["dankbarkeit beziehung", "dankbarkeit paar", "gratitude relationship"]
 author: "thomas-peters"
