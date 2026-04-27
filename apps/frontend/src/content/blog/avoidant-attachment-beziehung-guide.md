@@ -1,5 +1,5 @@
 ---
-title: "Vermeidender Bindungsstil"
+title: "Vermeidender Bindungsstil: Warum du Nähe fürchtest und was hilft"
 description: "Erfahre alles über Avoidant Attachment – den vermeidenden Bindungsstil. Entdecke die Ursachen deiner Näheangst."
 author: thomas-peters
 image: "/images/blog/avoidant-attachment-beziehung-guide.webp"

@@ -1,5 +1,5 @@
 ---
-title: "Beziehung nach der Versöhnung"
+title: "Beziehung nach der Versöhnung – Der Weg zum echten Neuanfang"
 description: "Beziehung nach der Versöhnung — Erfahre bewährte Strategien und Expertentipps für eine glücklichere, stärkere Partnerschaft im Alltag."
 date: 2026-03-16
 tags: ["Beziehung", "Neuanfang", "Kommunikation"]

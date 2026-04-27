@@ -1,5 +1,5 @@
 ---
-title: "Gemeinsam meditieren als Paar"
+title: "Gemeinsam meditieren als Paar: Achtsamkeit für eure Beziehung"
 description: "Gemeinsam meditieren als Paar — Entdecke, wie du deine Partnerschaft nachhaltig stärken und vertiefen kannst. Konkrete Tipps und Impulse."
 keywords: ["gemeinsam meditieren als paar", "beziehung", "gesundheit", "gemeinsam meditieren", "meditieren paar"]
 date: 2025-08-14

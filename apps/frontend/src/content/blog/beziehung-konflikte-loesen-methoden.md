@@ -1,5 +1,5 @@
 ---
-title: "5 Methoden Konflikte zu lösen"
+title: "5 Methoden Beziehungskonflikte zu lösen: Wissenschaftlich bewährt"
 description: "5 Methoden Konflikte zu lösen: Streit muss nicht destruktiv sein — lerne, wie ihr Konflikte als Chance für Wachstum nutzt."
 keywords: ["5 methoden konflikte zu lösen", "konflikte", "paartherapie", "methoden konflikte", "konflikte lösen"]
 date: 2025-04-16

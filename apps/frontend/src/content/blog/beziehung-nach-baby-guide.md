@@ -1,5 +1,5 @@
 ---
-title: "'Beziehung nach dem Baby "
+title: "Beziehung nach dem Baby: Wie ihr zusammen überlebt und stärker werdet"
 description: "Praktischer Survival Guide für Paare nach Baby-Geburt. Erste Jahr Timeline, Tabelle für Aufgaben-Verteilung und wie Intimität erhalten bleibt."
 date: 2026-03-05
 tags: ["Beziehung", "Familie"]

@@ -1,5 +1,5 @@
 ---
-title: "Anzeichen dass er/sie Interesse hat: 15 Signale richtig"
+title: "Anzeichen dass er/sie Interesse hat: 15 Signale richtig deuten"
 description: "Woran erkennst du echtes Interesse? Die 15 wichtigsten Anzeichen in Körpersprache, Verhalten & Textnachrichten — für Männer und Frauen."
 date: 2025-01-20
 updated: 2026-04-15

@@ -1,5 +1,5 @@
 ---
-title: "Wenn die Eltern sich trennen"
+title: "Wenn die Eltern sich trennen – Auswirkungen auf deine Beziehungen"
 description: "Wenn die Eltern sich trennen — Erfahre bewährte Strategien und Expertentipps für eine glücklichere, stärkere Partnerschaft im Alltag."
 date: 2026-03-16
 tags: ["Beziehung", "Psychologie", "Selbstliebe"]

@@ -1,5 +1,5 @@
 ---
-title: "Beziehung nach Jobverlust"
+title: "Beziehung nach Jobverlust: So unterstützt du deinen Partner richtig"
 description: "Wie du als Paar gemeinsam durch einen Jobverlust kommst und eure Beziehung nicht an dieser Krise scheitert."
 date: 2026-03-16
 tags: ["Beziehung", "Heilung", "Lifestyle"]

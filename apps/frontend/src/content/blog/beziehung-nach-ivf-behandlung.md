@@ -1,5 +1,5 @@
 ---
-title: "Beziehung nach IVF-Behandlung"
+title: "Beziehung nach IVF: Wenn die Kinderwunsch-Reise eure Liebe prägt"
 description: "Beziehung nach IVF-Behandlung: Wie Familie und Partnerschaft sich gegenseitig stärken. Ratgeber mit konkreten Tipps."
 keywords: ["beziehung nach ivf-behandlung", "familie", "beziehung nach", "nach ivf-behandlung"]
 date: 2025-08-24
