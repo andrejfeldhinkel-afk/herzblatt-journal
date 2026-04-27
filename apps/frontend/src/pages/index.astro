@@ -178,61 +178,6 @@ const testimonials = [
     }
   </style>
 
-  <!-- Animated Stats -->
-  <section class="py-8" style="background: var(--bg-soft); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
-      <div>
-        <p class="text-2xl sm:text-3xl font-extrabold stat-number" data-target={posts.length.toString()} data-suffix="+" style="color: var(--color-primary-600); font-family: var(--font-serif);">0</p>
-        <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Dating-Ratgeber</p>
-      </div>
-      <div>
-        <p class="text-2xl sm:text-3xl font-extrabold stat-number" data-target={readerCount.toString()} data-format="de" style="color: var(--color-primary-600); font-family: var(--font-serif);">0</p>
-        <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Begeisterte Leser</p>
-      </div>
-      <div>
-        <p class="text-2xl sm:text-3xl font-extrabold stat-number" data-target="8" style="color: var(--color-primary-600); font-family: var(--font-serif);">0</p>
-        <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Top Dating-Seiten</p>
-      </div>
-      <div>
-        <p class="text-2xl sm:text-3xl font-extrabold stat-number" data-target="6" style="color: var(--color-primary-600); font-family: var(--font-serif);">0</p>
-        <p class="text-xs font-medium mt-1" style="color: var(--text-muted);">Dating-Typen im Quiz</p>
-      </div>
-    </div>
-  </section>
-
-  <script is:inline>
-    (function() {
-      var animated = false;
-      var obs = new IntersectionObserver(function(entries) {
-        if (animated) return;
-        entries.forEach(function(e) {
-          if (e.isIntersecting) {
-            animated = true;
-            document.querySelectorAll('.stat-number').forEach(function(el) {
-              var target = parseInt(el.dataset.target);
-              var suffix = el.dataset.suffix || '';
-              var useDe = el.dataset.format === 'de';
-              var duration = 1500;
-              var start = 0;
-              var startTime = null;
-              function step(ts) {
-                if (!startTime) startTime = ts;
-                var progress = Math.min((ts - startTime) / duration, 1);
-                var eased = 1 - Math.pow(1 - progress, 3);
-                var current = Math.round(eased * target);
-                el.textContent = (useDe ? current.toLocaleString('de-DE') : current) + suffix;
-                if (progress < 1) requestAnimationFrame(step);
-              }
-              requestAnimationFrame(step);
-            });
-            obs.disconnect();
-          }
-        });
-      }, { threshold: 0.3 });
-      document.querySelectorAll('.stat-number').forEach(function(el) { obs.observe(el); });
-    })();
-  </script>
-
   <!-- Quick-Actions: 4 beliebteste Tools/Guides -->
   <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
