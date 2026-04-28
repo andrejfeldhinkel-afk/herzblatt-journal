@@ -354,6 +354,10 @@ export default defineConfig({
     '/blog/pansexualitaet': { status: 301, destination: '/blog/pansexuell-dating-guide' },
     // Pillar 5 — freundschaft (KW: freundschaft, Vol 33K, KD 37): bare keyword auf Pillar
     '/blog/freundschaft': { status: 301, destination: '/blog/freundschaft-guide' },
+    // Pillar 6 — asexuell (KW: asexuell, Vol 18K, KD 37): bare keyword + Aliase auf Pillar
+    '/blog/asexuell': { status: 301, destination: '/blog/asexuell-guide' },
+    '/blog/asexualitaet': { status: 301, destination: '/blog/asexuell-guide' },
+    '/blog/asexualitaet-dating-beziehung': { status: 301, destination: '/blog/asexuell-guide' },
   },
   compressHTML: true,
   prefetch: {

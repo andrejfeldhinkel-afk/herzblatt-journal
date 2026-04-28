@@ -185,7 +185,7 @@ Die beste Person wird dich mit deinen Hobbys lieben. Not despite them, but BECAU
 ## Weiterlesen
 
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
-- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
+- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexuell-guide)
 
 ## Weiterführende Artikel
 

@@ -139,7 +139,7 @@ Dies ist wichtig: Du kannst nicht auf einen Liter Benzin rennen. Du kannst dich 
 
 ## Weiterlesen
 
-- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
+- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexuell-guide)
 - [Neustart nach einer Affäre: Der 8-Wochen-Plan für Heilung](/blog/beziehung-after-affaere-plan)
 
 ## Weiterführende Artikel

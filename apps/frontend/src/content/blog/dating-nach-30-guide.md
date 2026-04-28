@@ -148,5 +148,5 @@ Fang an. Sei authentisch. Sei selektiv. Vertrau dir selbst. Mit 30 hast du alles
 
 - [Speed Dating: Alles was du wissen musst](/blog/speed-dating-guide-komplett/)
 - [Online-Dating-Guide 2026: Alles was du wissen musst](/blog/ultimativer-guide-online-dating/)
-- [Asexualität in Dating und Beziehung – Alles, was du wissen musst](/blog/asexualitaet-dating-beziehung/)
+- [Asexualität in Dating und Beziehung – Alles, was du wissen musst](/blog/asexuell-guide/)
 - [Dating nach 30: Was sich alles ändert](/blog/dating-nach-30-was-sich-aendert/)

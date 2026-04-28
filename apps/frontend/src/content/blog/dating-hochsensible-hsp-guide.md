@@ -197,5 +197,5 @@ Und glaube, dass es jemanden gibt, der genau deine Intensität als wunderbar sie
 ## Weiterführende Artikel
 
 - [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
-- [Asexualität in Dating und Beziehung](/blog/asexualitaet-dating-beziehung)
+- [Asexualität in Dating und Beziehung](/blog/asexuell-guide)
 - [Attachment Styles: Einfluss auf dein Dating](/blog/attachment-styles-dating-verstehen)

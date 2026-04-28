@@ -151,7 +151,7 @@ Manchmal sind die finanziellen und emotionalen Lasten zu groß. Wenn:
 - Ein Partner weigert sich, Verantwortung zu übernehmen
 - Die mentale Gesundheit von einem Partner ist ernsthaft gefährdet
 
-Dann ist möglicherweise [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
+Dann ist möglicherweise [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexuell-guide)
 - [Großer Altersunterschied in der Beziehung](/blog/beziehung-altersunterschied-gross)
 
 ## Weiterführende Artikel

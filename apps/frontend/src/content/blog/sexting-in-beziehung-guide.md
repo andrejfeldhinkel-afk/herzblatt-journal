@@ -193,5 +193,5 @@ Die Liebe ist nicht nur körperlich. Aber die körperliche Spannung? Das ist Tei
 ## Weiterlesen
 
 - [Angst vor Intimität überwinden – Nähe zulassen lernen](/blog/angst-vor-intimaet-ueberwinden)
-- [Asexualität in Dating und Beziehung](/blog/asexualitaet-dating-beziehung)
+- [Asexualität in Dating und Beziehung](/blog/asexuell-guide)
 - [Die Kraft der Berührung: Warum körperliche Nähe heilt](/blog/beruehrungen-beziehung-bedeutung)

@@ -170,6 +170,6 @@ Was lernten wir über uns selbst? Über unsere Partnerschaft? Wie können wir di
 Viele Paare finden, dass die gemeinsam durchlebte Krise sie näher zusammenbringt – wenn sie es recht machen.
 
 [Schwiegermutter-Probleme: So löst ihr Konflikte](/blog/beziehung-schwiegermutter-probleme)
-[Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
+[Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexuell-guide)
 - [Großer Altersunterschied in der Beziehung](/blog/beziehung-altersunterschied-gross)
 

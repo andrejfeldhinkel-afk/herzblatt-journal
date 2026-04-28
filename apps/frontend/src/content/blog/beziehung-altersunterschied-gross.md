@@ -139,7 +139,7 @@ Schaut in euch hinein. Ist das eine gleichberechtigte Partnerschaft? Oder gibt e
 
 ## Weiterlesen
 
-- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
+- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexuell-guide)
 - [Neustart nach einer Affäre: Der 8-Wochen-Plan für Heilung](/blog/beziehung-after-affaere-plan)
 
 ## Weiterführende Artikel

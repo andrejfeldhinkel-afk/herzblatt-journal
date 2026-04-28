@@ -198,4 +198,4 @@ Und die Patchwork-Familie, wenn sie funktioniert, ist wunderbar. Du bist nicht n
 - [Speed Dating: Alles was du wissen musst](/blog/speed-dating-guide-komplett/)
 - [Dating ab 30: Alles was du wissen musst](/blog/dating-nach-30-guide/)
 - [Online-Dating-Guide 2026: Alles was du wissen musst](/blog/ultimativer-guide-online-dating/)
-- [Asexualität in Dating und Beziehung – Alles, was du wissen musst](/blog/asexualitaet-dating-beziehung/)
+- [Asexualität in Dating und Beziehung – Alles, was du wissen musst](/blog/asexuell-guide/)
