@@ -162,7 +162,7 @@ Ein Therapeut, der Beziehungen UND chronische Schmerzen versteht, ist wertvoll. 
 ### 6. Eure eigenen Grenzen kennen – Selbstschutz ist wichtig
 
 Sie müssen nicht alles "ertragen". Wenn ein Partner aktiv nicht unterstützen will, das ist seine Wahl. Aber es bedeutet nicht, dass Sie die [Achtsam daten: Mit Achtsamkeit zum richtigen Partner](/blog/achtsamkeit-dating-bewusst)
-- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
+- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexuell-guide)
 
 ## Weiterführende Artikel
 

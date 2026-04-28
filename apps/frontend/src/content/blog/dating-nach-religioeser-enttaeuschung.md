@@ -233,5 +233,5 @@ Wenn du das glauben kannst, wird echte Intimität möglich.
 ## Weiterlesen
 
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
-- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
+- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexuell-guide)
 

@@ -468,5 +468,5 @@ Zu Police, zum App, zu Freunden. Nicht shame dich. Das ist ihr Fehler, nicht dei
 ## Weiterlesen
 
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
-- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
+- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexuell-guide)
 

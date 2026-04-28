@@ -164,7 +164,7 @@ Diese Fragen werden immer wichtiger, wenn Beziehungen mehr und mehr "social medi
 ---
 
 **Verwandte Artikel:**
-- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle Anziehung](/blog/asexualitaet-dating-beziehung)
+- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle Anziehung](/blog/asexuell-guide)
 - [Großer Altersunterschied in der Beziehung: Tipps und Herausforderungen](/blog/beziehung-altersunterschied-gross)
 
 ## Weiterführende Artikel

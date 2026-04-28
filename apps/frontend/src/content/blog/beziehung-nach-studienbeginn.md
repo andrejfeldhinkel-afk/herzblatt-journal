@@ -141,7 +141,7 @@ Der Studienbeginn ist eine Transition, aber nicht das Ende eurer Geschichte. Vie
 
 Lest auch diese verwandten Artikel:
 
-[Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
+[Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexuell-guide)
 - [Großer Altersunterschied in der Beziehung](/blog/beziehung-altersunterschied-gross)
 
 ## Weiterführende Artikel

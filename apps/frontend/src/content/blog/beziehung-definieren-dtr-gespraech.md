@@ -90,7 +90,7 @@ Das ist klar, direkt und macht keine falschen Versprechungen. Es drückt aus, da
 Das ist weniger eine Aussage und mehr eine Einladung zum Dialog. Du gibst der anderen Person Raum, ihre Gedanken zu äußern, bevor du deine Karten auf den Tisch legst.
 
 **3. Die verknüpfte Variante:**
-"Weißt du, wenn ich mit dir zusammen bin, fühle ich mich anders als mit anderen Menschen. Ich glaube, ich bin [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
+"Weißt du, wenn ich mit dir zusammen bin, fühle ich mich anders als mit anderen Menschen. Ich glaube, ich bin [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexuell-guide)
 - [Großer Altersunterschied in der Beziehung](/blog/beziehung-altersunterschied-gross)
 
 ## Weiterführende Artikel

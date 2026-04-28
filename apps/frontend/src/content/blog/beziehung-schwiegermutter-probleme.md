@@ -152,6 +152,6 @@ Letztlich geht die Botschaft, die beide Partner aussenden, sollte sein: "Wir sin
 Dies ist das Fundament einer glücklichen Ehe angesichts der Schwiegermutter-Herausforderungen.
 
 [Beziehung nach traumatischer Geburt stärken](/blog/beziehung-nach-traumatischer-geburt)
-[Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
+[Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexuell-guide)
 - [Großer Altersunterschied in der Beziehung](/blog/beziehung-altersunterschied-gross)
 

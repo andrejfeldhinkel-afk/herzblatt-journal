@@ -135,4 +135,4 @@ Das ist mehr Liebe als jeder Song je sein könnte.
 - [Interkulturell daten: Chancen und Herausforderungen](/blog/dating-unterschiedliche-kulturen/)
 - [Dating mit unterschiedlichem Bildungsniveau: Funktioniert das?](/blog/dating-unterschiedliche-bildung/)
 - [Beziehung trotz verschiedener Religionen](/blog/beziehung-unterschiedliche-religionen/)
-- [Asexualität in Dating und Beziehung – Alles, was du wissen musst](/blog/asexualitaet-dating-beziehung/)
+- [Asexualität in Dating und Beziehung – Alles, was du wissen musst](/blog/asexuell-guide/)

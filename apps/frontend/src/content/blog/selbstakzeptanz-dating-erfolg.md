@@ -119,7 +119,7 @@ Sie werden auch weniger in Spielspiele oder emotionale Drama verwickelt. Mensche
 ## Weiterlesen
 
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
-- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
+- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexuell-guide)
 
 ## Weiterführende Artikel
 

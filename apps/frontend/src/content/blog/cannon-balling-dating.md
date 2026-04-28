@@ -126,5 +126,5 @@ Es gibt nicht einen Moment. Es ist mehr eine Haltung. Von der ersten Nachricht a
 ## Weiterlesen
 
 - [Angst vor dem Dating überwinden](/blog/angst-vor-dating-ueberwinden)
-- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexualitaet-dating-beziehung)
+- [Asexualität und Dating: Liebe und Beziehung ohne sexuelle](/blog/asexuell-guide)
 
