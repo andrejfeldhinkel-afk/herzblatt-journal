@@ -32,7 +32,7 @@ faq:
   - question: "Sind Doppel-Dates eine gute Idee?"
     answer: "Beim ersten Date eher nicht — zu wenig Raum für gegenseitige Aufmerksamkeit. Ab Date 4–5, wenn ihr euch gut kennt, sind Doppel-Dates eine starke Option. Sie zeigen, wie ihr in Sozialgruppen funktioniert und schaffen geteilte Erlebnisse mit Freunden."
   - question: "Wie sage ich eine Date-Idee ab, wenn das Wetter nicht mitspielt?"
-    answer: "Frühzeitig (mindestens 2 Stunden vorher), ehrlich, mit konkretem Alternativvorschlag. „Hey, das Wetter wird heute mies — wollen wir stattdessen ins Café X oder Donnerstag bei besserem Wetter? Lass mich wissen, was passt." Das zeigt Verlässlichkeit und Initiative."
+    answer: "Frühzeitig (mindestens 2 Stunden vorher), ehrlich, mit konkretem Alternativvorschlag. „Hey, das Wetter wird heute mies — wollen wir stattdessen ins Café X oder Donnerstag bei besserem Wetter? Lass mich wissen, was passt.“ Das zeigt Verlässlichkeit und Initiative."
 itemListItems:
   - name: "Outdoor-Dates für sonnige Mai-Tage"
   - name: "Romantische Dates für besondere Momente"
