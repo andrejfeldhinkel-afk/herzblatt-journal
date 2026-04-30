@@ -807,7 +807,8 @@ const breadcrumbs = [
               {i === 0 && (
                 <div id="top-1" style="position: absolute; left: 0; top: 0; bottom: 0; width: 6px; background: linear-gradient(180deg, var(--color-primary-500), var(--color-primary-600));"></div>
               )}
-              <div class="p-6 sm:p-8 pl-6 sm:pl-8">
+              <details class="tds-card group" open={i === 0}>
+                <summary class="tds-card-summary block cursor-pointer list-none p-6 sm:p-8 select-none">
                 <!-- Logo + Rank -->
                 <div class="flex items-center gap-3 mb-4 pb-4" style="border-bottom: 1px solid var(--border);">
                   <span class="text-xs font-bold px-2.5 py-1 rounded-full"
@@ -817,7 +818,7 @@ const breadcrumbs = [
                   <img src={`/images/logos/${site.logoFile || (site.slug + '-logo.png')}`} alt={`${site.name} Logo — ${site.idealFor}, Bewertung ${site.rating}/5`} class="h-8 sm:h-10 w-auto object-contain" loading="lazy" />
                 </div>
 
-                <div class="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-4 mb-5">
+                <div class="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-4">
                   <div class="flex-1">
                     <div class="flex items-center gap-2 flex-wrap gap-y-1 mb-2">
                       <h3 class="text-2xl sm:text-3xl font-bold" style="color: var(--text); font-family: var(--font-serif);">{site.name}</h3>
@@ -852,6 +853,15 @@ const breadcrumbs = [
                   </div>
                 </div>
 
+                <!-- Expand/Collapse Indicator -->
+                <div class="mt-5 pt-4 flex items-center justify-center gap-2" style="border-top: 1px solid var(--border);">
+                  <span class="tds-card-label-closed text-xs font-bold uppercase tracking-wider" style="color: var(--color-primary-600);">Details anzeigen</span>
+                  <span class="tds-card-label-open text-xs font-bold uppercase tracking-wider" style="color: var(--text-muted);">Zuklappen</span>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" class="shrink-0 transition-transform group-open:rotate-180" style="color: var(--color-primary-600);"><path d="m6 9 6 6 6-6"/></svg>
+                </div>
+                </summary>
+
+                <div class="px-6 sm:px-8 pb-6 sm:pb-8 pt-2">
                 <span class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold mb-5"
                       style="background: var(--color-primary-50); color: var(--color-primary-700); border: 1px solid var(--color-primary-200);">
                   <span>{site.idealIcon}</span>{site.idealFor}
@@ -932,7 +942,8 @@ const breadcrumbs = [
                      class="flex-1 sm:flex-none inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-full text-sm font-bold transition-all hover:shadow-md"
                      style="background: var(--bg-soft); color: var(--text); border: 1px solid var(--border); text-decoration: none;">Ausführlicher Testbericht →</a>
                 </div>
-              </div>
+                </div>
+              </details>
             </article>
           );
         })}
@@ -1193,6 +1204,13 @@ const breadcrumbs = [
     display: none;
     content: '';
   }
+
+  /* ============ Collapsible Review Cards ============ */
+  .tds-card-summary { transition: background-color 0.15s ease; }
+  .tds-card-summary:hover { background: color-mix(in srgb, var(--color-primary-500) 4%, transparent); }
+  details.tds-card .tds-card-label-open { display: none; }
+  details.tds-card[open] .tds-card-label-closed { display: none; }
+  details.tds-card[open] .tds-card-label-open { display: inline; }
 
   /* ============ Scroll-Progress-Bar ============ */
   #tds-scroll-progress {
